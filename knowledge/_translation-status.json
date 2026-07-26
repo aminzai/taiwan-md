@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T16:38:48+08:00",
-    "zhCommitHead": "2dcc97f5e",
+    "lastUpdated": "2026-07-26T16:47:47+08:00",
+    "zhCommitHead": "a9b1e40a6",
     "totalZh": 868,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 868,
-        "fresh": 726,
-        "stale": 133,
+        "fresh": 725,
+        "stale": 134,
         "metadata_stale": 1,
         "missing": 8,
         "orphan": 0
@@ -43,8 +43,8 @@
       },
       "es": {
         "total_zh": 868,
-        "fresh": 726,
-        "stale": 138,
+        "fresh": 727,
+        "stale": 137,
         "metadata_stale": 0,
         "missing": 4,
         "orphan": 0
@@ -59,10 +59,10 @@
       },
       "vi": {
         "total_zh": 868,
-        "fresh": 171,
+        "fresh": 173,
         "stale": 16,
         "metadata_stale": 1,
-        "missing": 680,
+        "missing": 678,
         "orphan": 0
       },
       "id": {
@@ -75,34 +75,34 @@
       },
       "pt": {
         "total_zh": 868,
-        "fresh": 471,
+        "fresh": 473,
         "stale": 12,
         "metadata_stale": 1,
-        "missing": 384,
+        "missing": 382,
         "orphan": 0
       },
       "hi": {
         "total_zh": 868,
-        "fresh": 361,
+        "fresh": 362,
         "stale": 6,
         "metadata_stale": 2,
-        "missing": 499,
+        "missing": 498,
         "orphan": 0
       },
       "ar": {
         "total_zh": 868,
-        "fresh": 341,
+        "fresh": 343,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 525,
+        "missing": 523,
         "orphan": 0
       },
       "ru": {
         "total_zh": 868,
-        "fresh": 369,
+        "fresh": 370,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 497,
+        "missing": 496,
         "orphan": 0
       }
     },
@@ -8656,7 +8656,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/taiwan-international-trade-policy.md",
+          "translatedFrom": "Economy/台灣國際貿易政策.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:46d9237ef98b45d7",
+          "sourceBodyHash": "sha256:9fbe7b79e0934c74",
+          "translatedAt": "2026-07-26T15:32:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/taiwan-international-trade-policy.md",
@@ -9560,7 +9571,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/taiwan-enterprise-cathay-financial.md",
+          "translatedFrom": "Economy/台灣企業：國泰金控.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:4749f0faadb8e7bf",
+          "sourceBodyHash": "sha256:ebc33c96c44483b0",
+          "translatedAt": "2026-07-26T15:32:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/taiwan-enterprise-cathay-financial.md",
@@ -22484,7 +22506,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Art/century-of-taiwanese-watercolor-painting.md",
+          "translatedFrom": "Art/台灣水彩畫的百年流變.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:0b51fe43b7a1bf00",
+          "sourceBodyHash": "sha256:de90bfe09eb0461c",
+          "translatedAt": "2026-07-26T15:32:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -29216,7 +29249,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/taiwanese-overseas-and-diaspora.md",
+          "translatedFrom": "Society/台灣海外僑民與離散社群.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:5ad18a83d0ab46f1",
+          "sourceBodyHash": "sha256:dc26781150e83c1c",
+          "translatedAt": "2026-07-26T15:32:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/taiwanese-overseas-and-diaspora.md",
@@ -38855,9 +38899,9 @@
           "sourceCommitSha": "2b1654faa",
           "sourceContentHash": "sha256:06d77e5b551a9ae1",
           "sourceBodyHash": "sha256:1cd85dacd9f6f3a7",
-          "translatedAt": "2026-07-26T15:11:23+08:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translatedAt": "2026-07-26T13:23:37+08:00",
+          "translationLastCommit": "e228a98b",
+          "translationLastModified": "2026-07-26T16:38:58+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -39246,8 +39290,8 @@
           "sourceContentHash": "sha256:3a49c509011ce42d",
           "sourceBodyHash": "sha256:637002941419ff56",
           "translatedAt": "2026-07-26T15:11:23+08:00",
-          "translationLastCommit": "026e5b58",
-          "translationLastModified": "2026-07-25T10:56:52+08:00",
+          "translationLastCommit": "e228a98b",
+          "translationLastModified": "2026-07-26T16:38:58+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -40913,16 +40957,16 @@
         "es": {
           "path": "es/Nature/taiwan-mountains-and-hiking-culture.md",
           "translatedFrom": "Nature/台灣山岳與登山文化.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:e81dd2e1a4ff1dc3",
-          "sourceBodyHash": "sha256:571a99d15e048f22",
-          "translatedAt": "2026-05-17T05:33:00Z",
+          "sourceCommitSha": "6d3808267",
+          "sourceContentHash": "sha256:578491ed43f8d7d0",
+          "sourceBodyHash": "sha256:be3b3f9150c7c64e",
+          "translatedAt": "2026-07-26T13:23:37+08:00",
           "translationLastCommit": "6d380826",
           "translationLastModified": "2026-07-25T15:39:17+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "status": "stale",
-          "reason": "footnote-loss (12→11)"
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Nature/taiwan-mountains-and-hiking-culture.md",
@@ -70540,7 +70584,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/tony-hsiao-inside-founder.md",
+          "translatedFrom": "People/蕭上農.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:0c7501412dac27dc",
+          "sourceBodyHash": "sha256:9108cdc7ca125f4b",
+          "translatedAt": "2026-07-26T15:32:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/tony-hsiao-inside-founder.md",
@@ -75120,7 +75175,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/kao-chun-ming.md",
+          "translatedFrom": "People/高俊明.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:eaeba845240b369e",
+          "sourceBodyHash": "sha256:b37aec09305a898c",
+          "translatedAt": "2026-07-26T15:32:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/kao-chun-ming.md",
@@ -90388,7 +90454,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/taiwan-north-korea-relations.md",
+          "translatedFrom": "History/台灣與北朝鮮關係.md",
+          "sourceCommitSha": "5af229e1e",
+          "sourceContentHash": "sha256:6923220eadde819d",
+          "sourceBodyHash": "sha256:4dc13793ac08242f",
+          "translatedAt": "2026-07-26T13:23:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/taiwan-north-korea-relations.md",
@@ -97414,16 +97491,18 @@
         "ja": {
           "path": "ja/Geography/taichung-city.md",
           "translatedFrom": "Geography/台中市.md",
-          "sourceCommitSha": "edc2ba810",
-          "sourceContentHash": "sha256:e6912f140d4ddcf3",
-          "sourceBodyHash": "sha256:3039a7c79e8554d9",
-          "translatedAt": "2026-07-26T13:23:36+08:00",
+          "sourceCommitSha": "8edb8f96",
+          "sourceContentHash": "sha256:70bc4982eb0f5b56",
+          "sourceBodyHash": "sha256:3689cbfc4a7bdf30",
+          "translatedAt": "2026-06-16T17:15:00Z",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 25,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+3 -3"
         },
         "ko": {
           "path": "ko/Geography/taichung-city.md",
@@ -102352,7 +102431,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/taiwan-temple-festivals-and-performance-troupes.md",
+          "translatedFrom": "Culture/台灣廟會與陣頭文化.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:dd389bc47ee02430",
+          "sourceBodyHash": "sha256:57fa9edbc965f758",
+          "translatedAt": "2026-07-26T15:32:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
