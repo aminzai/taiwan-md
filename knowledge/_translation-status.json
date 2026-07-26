@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-27T03:03:45+08:00",
-    "zhCommitHead": "409ee3bf7",
+    "lastUpdated": "2026-07-27T03:09:24+08:00",
+    "zhCommitHead": "728479845",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -83,10 +83,10 @@
       },
       "hi": {
         "total_zh": 869,
-        "fresh": 413,
+        "fresh": 414,
         "stale": 6,
         "metadata_stale": 2,
-        "missing": 448,
+        "missing": 447,
         "orphan": 0
       },
       "ar": {
@@ -5232,8 +5232,8 @@
           "sourceContentHash": "sha256:e6cb5dd5b7d9e8ed",
           "sourceBodyHash": "sha256:ebbc94611dc1b8f9",
           "translatedAt": "2026-07-27T01:20:31+08:00",
-          "translationLastCommit": "427e1569",
-          "translationLastModified": "2026-07-25T03:43:18+08:00",
+          "translationLastCommit": "52e0d025",
+          "translationLastModified": "2026-07-27T03:03:45+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -31371,7 +31371,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/zoo-and-exhibition-animal-ethics.md",
+          "translatedFrom": "Society/動物園與展演動物倫理.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:942c806351e32e6f",
+          "sourceBodyHash": "sha256:d25050b0162be631",
+          "translatedAt": "2026-07-26T23:43:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/zoo-and-exhibition-animal-ethics.md",
@@ -95382,8 +95393,8 @@
           "sourceContentHash": "sha256:bfa78a33fd163a9a",
           "sourceBodyHash": "sha256:aa0440f383f174b1",
           "translatedAt": "2026-07-27T02:14:19+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "52e0d025",
+          "translationLastModified": "2026-07-27T03:03:45+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -107315,8 +107326,8 @@
           "sourceContentHash": "sha256:44ea24edbaea3139",
           "sourceBodyHash": "sha256:80374ac8eaee4681",
           "translatedAt": "2026-07-26T23:53:47+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "52e0d025",
+          "translationLastModified": "2026-07-27T03:03:45+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
