@@ -332,6 +332,15 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-27 twmd-spore-harvest-am — sensitive-event-reply-inherits-article-boundary：留言區討論文章已處理過的真實敏感事件時，5-bucket 分類沒有對應格子
+
+- **pattern**: `sensitive-event-reply-inherits-article-boundary`
+- **原則**：SPORE-HARVEST-PIPELINE 的 5-bucket reply classifier（A 事實錯誤／B 缺漏／C 場景推導／D 立場質疑／E 正面回響／F 解讀分歧／G 離題）處理的都是「讀者對文章本身」的關係，沒有一格對應「讀者在討論一起文章已經寫過、已經刻意處理過（如不具名）的真實敏感事件」。這種情況不該套用任一既有 bucket 硬分類，正確判準是：**文章怎麼劃線，回應就延續同一條線**——文章已匿名處理過的死亡事件，AI 在留言區的姿態就是不確認、不否認、不追加猜測，不需要另外判斷要不要修文或要不要回覆。
+- **觸發**：2026-07-27 台灣鎢供應鏈孢子 #161/#162（240K views）留言區多則讀者討論屏東鎢業負責人命案（含 1 則未經證實的猜測性指認），文章 §「政策說要非紅供應鏈」+ 腳註 [^37] 已於前一天 ship 時刻意不具名處理。本 session 判斷維持不回覆不介入，記入 handoff 供哲宇知悉，未強行套用 D（框架質疑）或 F（解讀分歧）分類。證據：[memory](memory/2026-07-27-064532-manual.md) / [diary](diary/2026-07-27-064532-manual.md) / [batch log](../factory/SPORE-HARVESTS/batch-2026-07-27-am.md)
+- **可能層級**：SPORE-HARVEST-PIPELINE 專屬（Taiwan.md-specific，讀者留言收割是本物種特有的公開 contributor/audience 介面），暫不升 REFLEXES 通用反射——只有 1 instance，且判準（文章邊界延續）已經是 MANIFESTO §紀實而不煽情 + §自主權邊界「敏感素材決定」的直接推論，可能不需要新反射，只需要 pipeline 補一條 §Decision Gate 但書
+- **相關**：REFLEXES #28（紀實而不煽情：死亡/人倫悲劇的節制，寫作時的界線）+ REFLEXES #79（§自主權邊界命中時 default = reserve，PR/issue review 語境）——本條是同一個哲學在 harvest reply 語境的具體形狀，可能可以 fold 成其中一條的子規則而非獨立新反射
+- **verification_count**: 1
+
 ### 2026-07-26 node-app-design — instrument-coverage-boundary-drift：檢查器的掃描路徑本身也會漂，漏掉的永遠是站體 import 關係外的角落
 
 - **pattern**: `instrument-coverage-boundary-drift`
