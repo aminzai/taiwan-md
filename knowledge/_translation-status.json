@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T09:53:24+08:00",
-    "zhCommitHead": "62126dc01",
+    "lastUpdated": "2026-07-26T10:11:24+08:00",
+    "zhCommitHead": "c1ec78921",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -27,32 +27,32 @@
       },
       "ja": {
         "total_zh": 865,
-        "fresh": 722,
-        "stale": 136,
+        "fresh": 723,
+        "stale": 135,
         "metadata_stale": 1,
         "missing": 6,
         "orphan": 0
       },
       "ko": {
         "total_zh": 865,
-        "fresh": 718,
-        "stale": 141,
+        "fresh": 719,
+        "stale": 140,
         "metadata_stale": 1,
         "missing": 5,
         "orphan": 0
       },
       "es": {
         "total_zh": 865,
-        "fresh": 720,
+        "fresh": 721,
         "stale": 140,
-        "metadata_stale": 2,
+        "metadata_stale": 1,
         "missing": 3,
         "orphan": 0
       },
       "fr": {
         "total_zh": 865,
-        "fresh": 722,
-        "stale": 138,
+        "fresh": 723,
+        "stale": 137,
         "metadata_stale": 2,
         "missing": 3,
         "orphan": 0
@@ -83,26 +83,26 @@
       },
       "hi": {
         "total_zh": 865,
-        "fresh": 332,
+        "fresh": 333,
         "stale": 5,
         "metadata_stale": 2,
-        "missing": 526,
+        "missing": 525,
         "orphan": 0
       },
       "ar": {
         "total_zh": 865,
-        "fresh": 288,
+        "fresh": 290,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 576,
+        "missing": 574,
         "orphan": 0
       },
       "ru": {
         "total_zh": 865,
-        "fresh": 316,
+        "fresh": 317,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 548,
+        "missing": 547,
         "orphan": 0
       }
     },
@@ -4901,8 +4901,8 @@
           "sourceContentHash": "sha256:e6cb5dd5b7d9e8ed",
           "sourceBodyHash": "sha256:ebbc94611dc1b8f9",
           "translatedAt": "2026-07-26T08:13:09+08:00",
-          "translationLastCommit": "fd678fd2",
-          "translationLastModified": "2026-07-25T10:32:02+08:00",
+          "translationLastCommit": "97ab6473",
+          "translationLastModified": "2026-07-26T09:53:24+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -9904,7 +9904,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/taiwanese-companies-far-eastern-group.md",
+          "translatedFrom": "Economy/台灣企業：遠東集團.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d6da6fce353b5bfa",
+          "sourceBodyHash": "sha256:4d55bf95947dc191",
+          "translatedAt": "2026-07-26T08:50:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/taiwanese-companies-far-eastern-group.md",
@@ -11433,8 +11444,8 @@
           "sourceContentHash": "sha256:e317c3018b82f2b6",
           "sourceBodyHash": "sha256:bbf79206e74e0a59",
           "translatedAt": "2026-07-26T05:17:36+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
+          "translationLastCommit": "97ab6473",
+          "translationLastModified": "2026-07-26T09:53:24+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -17241,8 +17252,8 @@
           "sourceContentHash": "sha256:b4fa10553d998dfa",
           "sourceBodyHash": "sha256:6475e91be41d93b4",
           "translatedAt": "2026-07-26T08:13:09+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
+          "translationLastCommit": "97ab6473",
+          "translationLastModified": "2026-07-26T09:53:24+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -26566,18 +26577,16 @@
         "ko": {
           "path": "ko/Lifestyle/tour-bus.md",
           "translatedFrom": "Lifestyle/遊覽車.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:2b757d54650fbf73",
-          "sourceBodyHash": "sha256:9e75f80aeb03d94c",
-          "translatedAt": "2026-05-03T21:10:09+08:00",
+          "sourceCommitSha": "42b42a934",
+          "sourceContentHash": "sha256:f828da7d0eb39776",
+          "sourceBodyHash": "sha256:c0de350ac39dbee0",
+          "translatedAt": "2026-07-26T08:13:10+08:00",
           "translationLastCommit": "c2d7633e",
           "translationLastModified": "2026-05-24T22:50:13+08:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+20 -20"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Lifestyle/tour-bus.md",
@@ -47255,7 +47264,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/zheng-nanrong.md",
+          "translatedFrom": "People/鄭南榕.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:97d9bc4f07653a81",
+          "sourceBodyHash": "sha256:91b4c7638f35fd2f",
+          "translatedAt": "2026-07-26T08:51:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -55839,7 +55859,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/hatta-yoichi.md",
+          "translatedFrom": "People/八田與一.md",
+          "sourceCommitSha": "2faa5728b",
+          "sourceContentHash": "sha256:6b0f80761ab45ab9",
+          "sourceBodyHash": "sha256:2885ebb0691722a3",
+          "translatedAt": "2026-07-26T08:51:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/hatta-yoichi.md",
@@ -73465,7 +73496,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/charles-le-gendre.md",
+          "translatedFrom": "People/李仙得.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:b35bf2bd112055a5",
+          "sourceBodyHash": "sha256:bbb48d4bf913e4a0",
+          "translatedAt": "2026-07-26T08:51:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 22,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -87837,18 +87879,16 @@
         "es": {
           "path": "es/History/taiwan-north-korea-relations.md",
           "translatedFrom": "History/台灣與北朝鮮關係.md",
-          "sourceCommitSha": "1b3c22ac7",
-          "sourceContentHash": "sha256:2a45417c9b5c2cf0",
+          "sourceCommitSha": "5af229e1e",
+          "sourceContentHash": "sha256:6923220eadde819d",
           "sourceBodyHash": "sha256:4dc13793ac08242f",
-          "translatedAt": "2026-07-23T23:06:50+08:00",
+          "translatedAt": "2026-07-26T08:13:10+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+0 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/History/taiwan-north-korea-relations.md",
@@ -99568,18 +99608,16 @@
         "ja": {
           "path": "ja/Culture/culinary-class-wars-in-taiwan.md",
           "translatedFrom": "Culture/黑白大廚在台灣.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:31883f60285a57e2",
-          "sourceBodyHash": "sha256:bf7679056e96cbe1",
-          "translatedAt": "2026-06-12T03:51:13+08:00",
+          "sourceCommitSha": "44bdf7162",
+          "sourceContentHash": "sha256:158a36dc208ac1d9",
+          "sourceBodyHash": "sha256:7e1fc8eb24498ac3",
+          "translatedAt": "2026-07-26T08:13:09+08:00",
           "translationLastCommit": "995f1458",
           "translationLastModified": "2026-06-12T05:24:32+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Culture/culinary-class-wars-in-taiwan.md",
@@ -99612,18 +99650,16 @@
         "fr": {
           "path": "fr/Culture/culinary-class-wars-in-taiwan.md",
           "translatedFrom": "Culture/黑白大廚在台灣.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:31883f60285a57e2",
-          "sourceBodyHash": "sha256:bf7679056e96cbe1",
-          "translatedAt": "2026-06-11T16:39:06Z",
+          "sourceCommitSha": "44bdf7162",
+          "sourceContentHash": "sha256:158a36dc208ac1d9",
+          "sourceBodyHash": "sha256:7e1fc8eb24498ac3",
+          "translatedAt": "2026-07-26T08:13:11+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
