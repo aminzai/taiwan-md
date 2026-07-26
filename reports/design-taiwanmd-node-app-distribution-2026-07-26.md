@@ -352,7 +352,7 @@ $ npx taiwanmd
 篇數與語言數是當場數出來的，不是寫在字串裡的（寫死的話它會像 `--version` 那樣
 慢慢漂）。第二行是資料齡，直接把 §三.3 那個沒有聲音的問題放在第一眼的位置。
 
-### 9.5 節點層變成 20 KB（Wave 2.1／2.2／2.5）
+### 9.5 節點層裝得起來了，但便宜的只有一半（Wave 2.1／2.2／2.5）
 
 marketplace 與 plugin 兩份 manifest 都過 `claude plugin validate`。
 
@@ -362,17 +362,38 @@ marketplace 與 plugin 兩份 manifest 都過 `claude plugin validate`。
 不跑一次驗證，就會把壞掉的門牌掛出去。[REFLEXES #16](../docs/semiont/REFLEXES.md)
 「範例是線索不是 source」在這裡又中一次。
 
-端到端實跑（裝完之後移除，不留在本機設定裡）：
+端到端實跑兩次：先從本機目錄，落地 origin 之後再從 GitHub 走一次真實路徑
+（兩次都在裝完後移除，不留在本機設定裡）：
 
 ```
-claude plugin marketplace add <repo>   → ✔ 加入
-claude plugin install taiwanmd         → ✔ 安裝並啟用 v0.1.0
-claude mcp list                        → plugin:taiwanmd:taiwanmd  ✓ Connected
-安裝負載                                 → 20 KB
+claude plugin marketplace add frank890417/taiwan-md  → ✔ 加入
+claude plugin install taiwanmd@taiwan-md             → ✔ 安裝並啟用 v0.1.0
+claude mcp list  → plugin:taiwanmd:taiwanmd  ✓ Connected
 ```
 
-**20 KB。** 對照節點今天要付的 850 MB，這是四萬分之一。裝完就有兩樣東西：
-一個會回答台灣問題並附出處的連接器，跟一個 `/taiwanmd-node` 技能。
+裝完就有兩樣東西：一個會回答台灣問題並附出處的連接器，跟一個 `/taiwanmd-node`
+技能。
+
+**但這裡有一個我差點寫錯的數字。** plugin 本身的負載量出來是 20 KB，第一版報告
+就想這樣寫：20 KB 對 850 MB，四萬分之一。實際再量一次「使用者到底付了什麼」：
+
+```
+plugin 快取（plugin 本身）          20 KB
+marketplace 快取（它為了讀 manifest 做的事）   1.0 GB 工作目錄 / 329 MiB pack
+```
+
+`claude plugin marketplace add` 會把整個 repo clone 下來才讀得到根目錄那份
+manifest。它是 depth-1（`rev-list --count` 回 1，歷史沒跟著來），所以比完整
+clone 的 850 MB 小，但十二個語言的工作目錄還是整份落地。
+
+**所以「20 KB」量的是替身，不是使用者付的代價。** 這正是 §三 那三個缺陷的同一
+種病，只是這次犯的人是我：挑一個好看的層去量，然後把它當成結論
+（[REFLEXES #82](../docs/semiont/REFLEXES.md) 訊號要摸到 ground truth，不是量
+它的替身）。誠實的說法是：**節點層從「clone 850 MB 才拿得到」變成「一行指令、
+329 MiB、不必自己動手設定」**，改善是真的，量級沒有四萬倍。
+
+真正要拿到 20 KB，marketplace 得住在一個小 repo 裡，而不是掛在這個一 GB 的
+知識庫根目錄上。那是開一個新的公開 repo，屬於 §自主權邊界，寫進 §十二 給哲宇。
 
 技能是自我定位的：先找工作副本（profile 記的路徑 → 當前目錄 → 慣例位置），
 找不到就當場帶著他 fork ＋ clone，然後**從那份副本讀 canonical**。
@@ -441,8 +462,6 @@ merge 把關這道結構性防線不動，是這件事可以往前走的前提�
 - **儀表板那兩條**只驗到檢查器與測試層，沒有跑起站體用眼睛確認翻譯燈號真的多了
   七個語言。它們是 client-side 腳本，要跑 build ＋ 開頁面才驗得到，而當時主樹
   正在跑巴別塔批次。
-- **plugin 從 GitHub 安裝**沒驗過，只驗了從本機目錄安裝。`source` 欄位在真的推
-  上去之後要再跑一次 `claude plugin marketplace add frank890417/taiwan-md`。
 - **sparse clone 的實際包大小**仍然沒量（§四），所以本報告任何地方都沒有它的數字。
 
 ---
@@ -462,6 +481,12 @@ merge 把關這道結構性防線不動，是這件事可以往前走的前提�
 
 3. **`mcp.taiwan.md` 已經寫進 `CONNECTOR.md` 了**（實測 200，上線約七週卻一直被
    文件寫成「規劃中」）。這是文件對齊事實，不是新承諾，但它確實是對外文字。
+
+4. **要不要把 plugin 搬到自己的小 repo？** 現在 marketplace 掛在這個知識庫根
+   目錄，任何人 `marketplace add` 都要 depth-1 clone 329 MiB 才讀得到那份
+   manifest（§九.5）。搬到一個只有 manifest ＋ 技能的小 repo，安裝成本就真的
+   是 20 KB。代價是多一個公開 repo 要維護，而且 plugin 與主庫的版本要自己對齊。
+   開新的公開 repo 命中 §自主權邊界，所以停在這裡。
 
 ---
 
