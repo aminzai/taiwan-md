@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-27T02:53:54+08:00",
-    "zhCommitHead": "88510558e",
+    "lastUpdated": "2026-07-27T03:03:45+08:00",
+    "zhCommitHead": "409ee3bf7",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -67,42 +67,42 @@
       },
       "id": {
         "total_zh": 869,
-        "fresh": 334,
+        "fresh": 335,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 524,
+        "missing": 523,
         "orphan": 0
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 528,
+        "fresh": 529,
         "stale": 12,
         "metadata_stale": 1,
-        "missing": 328,
+        "missing": 327,
         "orphan": 0
       },
       "hi": {
         "total_zh": 869,
-        "fresh": 412,
+        "fresh": 413,
         "stale": 6,
         "metadata_stale": 2,
-        "missing": 449,
+        "missing": 448,
         "orphan": 0
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 401,
+        "fresh": 406,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 466,
+        "missing": 461,
         "orphan": 0
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 435,
+        "fresh": 438,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 432,
+        "missing": 429,
         "orphan": 0
       }
     },
@@ -2494,7 +2494,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Music/taiwan-rock-from-underground-to-mainstream.md",
+          "translatedFrom": "Music/台灣搖滾樂發展史.md",
+          "sourceCommitSha": "da9ebaab4",
+          "sourceContentHash": "sha256:f7363f72c8db19f7",
+          "sourceBodyHash": "sha256:a8ba2c74c0939b6b",
+          "translatedAt": "2026-07-27T02:56:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Music/taiwan-rock-from-underground-to-mainstream.md",
@@ -17516,10 +17527,32 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/taiwan-electricity-and-semiconductors.md",
+          "translatedFrom": "Technology/台灣的電力與半導體.md",
+          "sourceCommitSha": "250410eae",
+          "sourceContentHash": "sha256:739eb8c857d7b377",
+          "sourceBodyHash": "sha256:814f9eb8b97792cf",
+          "translatedAt": "2026-07-27T01:41:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/taiwan-electricity-and-semiconductors.md",
+          "translatedFrom": "Technology/台灣的電力與半導體.md",
+          "sourceCommitSha": "250410eae",
+          "sourceContentHash": "sha256:739eb8c857d7b377",
+          "sourceBodyHash": "sha256:814f9eb8b97792cf",
+          "translatedAt": "2026-07-27T01:41:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -20237,10 +20270,32 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Art/wang-lien-cheng-artist.md",
+          "translatedFrom": "Art/王連晟.md",
+          "sourceCommitSha": "6bbbf62ba",
+          "sourceContentHash": "sha256:f395cb57343c4ecf",
+          "sourceBodyHash": "sha256:3e275e3c41071f38",
+          "translatedAt": "2026-07-27T01:41:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Art/wang-lien-cheng-artist.md",
+          "translatedFrom": "Art/王連晟.md",
+          "sourceCommitSha": "6bbbf62ba",
+          "sourceContentHash": "sha256:f395cb57343c4ecf",
+          "sourceBodyHash": "sha256:3e275e3c41071f38",
+          "translatedAt": "2026-07-27T01:41:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -22855,8 +22910,8 @@
           "sourceContentHash": "sha256:29f8c92d6f9ec4f0",
           "sourceBodyHash": "sha256:ab8b8f728e87222a",
           "translatedAt": "2026-07-26T22:27:49+08:00",
-          "translationLastCommit": "4a07538f",
-          "translationLastModified": "2026-07-25T10:29:52+08:00",
+          "translationLastCommit": "409ee3bf",
+          "translationLastModified": "2026-07-27T02:53:54+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -36307,8 +36362,8 @@
           "sourceContentHash": "sha256:c3e60eb6650d8dfb",
           "sourceBodyHash": "sha256:260082957a9cf952",
           "translatedAt": "2026-07-26T22:27:49+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
+          "translationLastCommit": "409ee3bf",
+          "translationLastModified": "2026-07-27T02:53:54+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -41614,8 +41669,8 @@
           "sourceContentHash": "sha256:de46b78b6b1ae5fb",
           "sourceBodyHash": "sha256:ba0673429f6e80dd",
           "translatedAt": "2026-07-26T22:27:49+08:00",
-          "translationLastCommit": "4a07538f",
-          "translationLastModified": "2026-07-25T10:29:52+08:00",
+          "translationLastCommit": "409ee3bf",
+          "translationLastModified": "2026-07-27T02:53:54+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -54268,7 +54323,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/bobby-chen-indie-music-pioneer.md",
+          "translatedFrom": "People/陳昇.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:62dd044f9d1285a1",
+          "sourceBodyHash": "sha256:b39a89251e94292a",
+          "translatedAt": "2026-07-26T23:43:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/bobby-chen-indie-music-pioneer.md",
@@ -75343,7 +75409,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/kuo-hsing-chun-olympic-weightlifting-champion.md",
+          "translatedFrom": "People/郭婞淳.md",
+          "sourceCommitSha": "85926aa3b",
+          "sourceContentHash": "sha256:92e1170fe2ebdab8",
+          "sourceBodyHash": "sha256:45d6a810707daa5c",
+          "translatedAt": "2026-07-26T23:43:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/kuo-hsing-chun-olympic-weightlifting-champion.md",
@@ -95344,7 +95421,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/taiwan-urban-development-and-rural-urban-divide.md",
+          "translatedFrom": "Geography/台灣都市發展與城鄉差距.md",
+          "sourceCommitSha": "f45a19331",
+          "sourceContentHash": "sha256:bfa78a33fd163a9a",
+          "sourceBodyHash": "sha256:aa0440f383f174b1",
+          "translatedAt": "2026-07-27T02:56:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -99699,7 +99787,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/urban-character-and-regional-culture.md",
+          "translatedFrom": "Geography/城市特色與區域文化.md",
+          "sourceCommitSha": "2850f17bc",
+          "sourceContentHash": "sha256:d85bf01115410778",
+          "sourceBodyHash": "sha256:be641d09ea1153ea",
+          "translatedAt": "2026-07-27T02:56:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -100369,10 +100468,32 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/taiwan-river-systems-and-hydrology.md",
+          "translatedFrom": "Geography/台灣河川系統與水文特色.md",
+          "sourceCommitSha": "70372d3a0",
+          "sourceContentHash": "sha256:8df5b8e9967c9dc4",
+          "sourceBodyHash": "sha256:8b2b2e4c01c9feb3",
+          "translatedAt": "2026-07-27T02:56:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/taiwan-river-systems-and-hydrology.md",
+          "translatedFrom": "Geography/台灣河川系統與水文特色.md",
+          "sourceCommitSha": "70372d3a0",
+          "sourceContentHash": "sha256:8df5b8e9967c9dc4",
+          "sourceBodyHash": "sha256:8b2b2e4c01c9feb3",
+          "translatedAt": "2026-07-27T02:56:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
