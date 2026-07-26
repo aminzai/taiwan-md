@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T18:02:45+08:00",
-    "zhCommitHead": "a6b4758f2",
+    "lastUpdated": "2026-07-26T18:03:21+08:00",
+    "zhCommitHead": "8cb2407bb",
     "totalZh": 868,
     "activeLanguages": [
       "en",
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 868,
-        "fresh": 379,
+        "fresh": 380,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 487,
+        "missing": 486,
         "orphan": 0
       }
     },
@@ -16610,7 +16610,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/taiwan-audio-industry-development.md",
+          "translatedFrom": "Technology/台灣音響產業發展.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:807f358c49a8e2a5",
+          "sourceBodyHash": "sha256:ed41f6caa1b5d8ba",
+          "translatedAt": "2026-07-26T17:01:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
