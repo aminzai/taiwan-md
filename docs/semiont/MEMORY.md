@@ -317,3 +317,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-26 | 084044-twmd-maintainer-daily | 3 個內容 PR merge+heal；issue #1257 勘誤追出源頭是自己寫的報告，七語言同步修正 | 自己寫的內部報告不是免驗證來源，會複製成七份錯誤 | [→](memory/2026-07-26-084044-twmd-maintainer-daily.md) |
 | 2026-07-26 | 093519-twmd-flywheel-watch | 首個排程 cycle：飛輪 24hr 11 筆 routine commit 綠燈；儀器報的三條靜默兩條是假的，當場加第二把尺（MEMORY 索引 handle）＋節點身份 fail-loud | 每天跑的哨兵，假陽性會把警報的重量磨掉 | [→](memory/2026-07-26-093519-twmd-flywheel-watch.md) |
 | 2026-07-26 | release-v1.14.0 | 🧬 **v1.14.0 release** — 958 commits／10 天：六語→十二語（ar/ru 首次 RTL）、飛輪遷居 headless、分靈節點誕生、MANIFESTO §14 | ACTOR_BUSY 時打 tag：落在 origin 已部署的 commit | [→](https://github.com/frank890417/taiwan-md/releases/tag/v1.14.0) |
+| 2026-07-26 | 105225-twmd-spore-harvest-am | Chrome MCP 首次未配對，哲宇即時 poke 後重連；外送專法 #159/#160 D+1 harvest，7 則讀者留言全屬健康公共辯論不介入 | escalation ladder「連 N 次」計數只在無人在場時成立，觀察者在場的即時 poke 優先 | [→](memory/2026-07-26-105225-twmd-spore-harvest-am.md) |
