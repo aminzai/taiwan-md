@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-27T01:30:39+08:00",
-    "zhCommitHead": "e2d1aad3c",
+    "lastUpdated": "2026-07-27T01:40:54+08:00",
+    "zhCommitHead": "6eac69a93",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -59,10 +59,10 @@
       },
       "vi": {
         "total_zh": 869,
-        "fresh": 240,
+        "fresh": 241,
         "stale": 16,
         "metadata_stale": 1,
-        "missing": 612,
+        "missing": 611,
         "orphan": 0
       },
       "id": {
@@ -83,26 +83,26 @@
       },
       "hi": {
         "total_zh": 869,
-        "fresh": 405,
+        "fresh": 406,
         "stale": 6,
         "metadata_stale": 2,
-        "missing": 456,
+        "missing": 455,
         "orphan": 0
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 390,
+        "fresh": 392,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 477,
+        "missing": 475,
         "orphan": 0
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 423,
+        "fresh": 426,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 444,
+        "missing": 441,
         "orphan": 0
       }
     },
@@ -5193,7 +5193,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
+          "translatedFrom": "Economy/台灣產業轉型升級.md",
+          "sourceCommitSha": "d6377e82e",
+          "sourceContentHash": "sha256:e6cb5dd5b7d9e8ed",
+          "sourceBodyHash": "sha256:ebbc94611dc1b8f9",
+          "translatedAt": "2026-07-27T01:20:31+08:00",
+          "translationLastCommit": "427e1569",
+          "translationLastModified": "2026-07-25T03:43:18+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
@@ -8224,7 +8235,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/mediatek.md",
+          "translatedFrom": "Economy/台灣企業：聯發科技.md",
+          "sourceCommitSha": "21221045c",
+          "sourceContentHash": "sha256:b0c668da71eb8f7b",
+          "sourceBodyHash": "sha256:bda6180b6fe80c7a",
+          "translatedAt": "2026-07-26T23:53:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -10782,10 +10804,32 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/agricultural-technology-and-refined-agriculture.md",
+          "translatedFrom": "Economy/農業科技與精緻農業.md",
+          "sourceCommitSha": "369298aba",
+          "sourceContentHash": "sha256:19b72b95becb40d7",
+          "sourceBodyHash": "sha256:966a2693a6cccc59",
+          "translatedAt": "2026-07-26T23:53:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/agricultural-technology-and-refined-agriculture.md",
+          "translatedFrom": "Economy/農業科技與精緻農業.md",
+          "sourceCommitSha": "369298aba",
+          "sourceContentHash": "sha256:19b72b95becb40d7",
+          "sourceBodyHash": "sha256:966a2693a6cccc59",
+          "translatedAt": "2026-07-26T23:53:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -17315,8 +17359,8 @@
           "sourceContentHash": "sha256:739eb8c857d7b377",
           "sourceBodyHash": "sha256:814f9eb8b97792cf",
           "translatedAt": "2026-07-26T23:53:47+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6eac69a9",
+          "translationLastModified": "2026-07-27T01:30:39+08:00",
           "inferred": false,
           "footnoteDefs": 4,
           "status": "fresh",
@@ -17337,7 +17381,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/taiwan-electricity-and-semiconductors.md",
+          "translatedFrom": "Technology/台灣的電力與半導體.md",
+          "sourceCommitSha": "250410eae",
+          "sourceContentHash": "sha256:739eb8c857d7b377",
+          "sourceBodyHash": "sha256:814f9eb8b97792cf",
+          "translatedAt": "2026-07-26T23:53:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 4,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -22692,8 +22747,8 @@
           "sourceContentHash": "sha256:29f8c92d6f9ec4f0",
           "sourceBodyHash": "sha256:ab8b8f728e87222a",
           "translatedAt": "2026-07-26T23:53:47+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6eac69a9",
+          "translationLastModified": "2026-07-27T01:30:39+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -36326,8 +36381,8 @@
           "sourceContentHash": "sha256:01affe2533530c02",
           "sourceBodyHash": "sha256:21c703a5d9235d48",
           "translatedAt": "2026-07-26T23:53:47+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6eac69a9",
+          "translationLastModified": "2026-07-27T01:30:39+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -41339,8 +41394,8 @@
           "sourceContentHash": "sha256:de46b78b6b1ae5fb",
           "sourceBodyHash": "sha256:ba0673429f6e80dd",
           "translatedAt": "2026-07-26T23:53:47+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6eac69a9",
+          "translationLastModified": "2026-07-27T01:30:39+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -60287,8 +60342,8 @@
           "sourceContentHash": "sha256:a962a822b6113a98",
           "sourceBodyHash": "sha256:77a2ffda234c910d",
           "translatedAt": "2026-07-26T23:53:47+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6eac69a9",
+          "translationLastModified": "2026-07-27T01:30:39+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -84484,10 +84539,32 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/tainan-central-west-district-street-food-culture.md",
+          "translatedFrom": "Food/台南中西區美食小吃文化.md",
+          "sourceCommitSha": "93facb6ce",
+          "sourceContentHash": "sha256:0b469697cef600b9",
+          "sourceBodyHash": "sha256:9c9d5bf9b829829e",
+          "translatedAt": "2026-07-26T23:53:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Food/tainan-central-west-district-street-food-culture.md",
+          "translatedFrom": "Food/台南中西區美食小吃文化.md",
+          "sourceCommitSha": "93facb6ce",
+          "sourceContentHash": "sha256:0b469697cef600b9",
+          "sourceBodyHash": "sha256:9c9d5bf9b829829e",
+          "translatedAt": "2026-07-26T23:53:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -94914,8 +94991,8 @@
           "sourceContentHash": "sha256:bfa78a33fd163a9a",
           "sourceBodyHash": "sha256:aa0440f383f174b1",
           "translatedAt": "2026-07-26T23:53:47+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6eac69a9",
+          "translationLastModified": "2026-07-27T01:30:39+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
