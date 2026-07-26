@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T16:47:47+08:00",
-    "zhCommitHead": "a9b1e40a6",
+    "lastUpdated": "2026-07-26T16:52:33+08:00",
+    "zhCommitHead": "2f732006e",
     "totalZh": 868,
     "activeLanguages": [
       "en",
@@ -59,10 +59,10 @@
       },
       "vi": {
         "total_zh": 868,
-        "fresh": 173,
+        "fresh": 174,
         "stale": 16,
         "metadata_stale": 1,
-        "missing": 678,
+        "missing": 677,
         "orphan": 0
       },
       "id": {
@@ -75,26 +75,26 @@
       },
       "pt": {
         "total_zh": 868,
-        "fresh": 473,
+        "fresh": 474,
         "stale": 12,
         "metadata_stale": 1,
-        "missing": 382,
+        "missing": 381,
         "orphan": 0
       },
       "hi": {
         "total_zh": 868,
-        "fresh": 362,
+        "fresh": 363,
         "stale": 6,
         "metadata_stale": 2,
-        "missing": 498,
+        "missing": 497,
         "orphan": 0
       },
       "ar": {
         "total_zh": 868,
-        "fresh": 343,
+        "fresh": 345,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 523,
+        "missing": 521,
         "orphan": 0
       },
       "ru": {
@@ -9810,7 +9810,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/taiwan-agriculture-and-rural-revitalization.md",
+          "translatedFrom": "Economy/台灣農業與農村再生.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:95d473c7b6d24541",
+          "sourceBodyHash": "sha256:a996bea328f05c29",
+          "translatedAt": "2026-07-26T15:32:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/taiwan-agriculture-and-rural-revitalization.md",
@@ -12041,8 +12052,8 @@
           "sourceContentHash": "sha256:9a74d696840dfd44",
           "sourceBodyHash": "sha256:6b0ed5d3cd521366",
           "translatedAt": "2026-07-26T13:23:38+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2f732006",
+          "translationLastModified": "2026-07-26T16:47:47+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -25352,7 +25363,18 @@
           "reason": "hash-match-sha-lost"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Lifestyle/taiwan-garbage-truck-music.md",
+          "translatedFrom": "Lifestyle/台灣垃圾車音樂.md",
+          "sourceCommitSha": "f99a9959c",
+          "sourceContentHash": "sha256:e97d739884de9be4",
+          "sourceBodyHash": "sha256:2afb135f1c4dd795",
+          "translatedAt": "2026-07-26T15:32:43+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Lifestyle/taiwan-garbage-truck-music.md",
@@ -46667,7 +46689,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/chen-chien-jen.md",
+          "translatedFrom": "People/陳建仁.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:3e3c722e9fbee583",
+          "sourceBodyHash": "sha256:cd353841feafe555",
+          "translatedAt": "2026-07-26T15:32:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -48663,7 +48696,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/zheng-nanrong.md",
+          "translatedFrom": "People/鄭南榕.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:97d9bc4f07653a81",
+          "sourceBodyHash": "sha256:91b4c7638f35fd2f",
+          "translatedAt": "2026-07-26T15:32:48+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -90460,8 +90504,8 @@
           "sourceContentHash": "sha256:6923220eadde819d",
           "sourceBodyHash": "sha256:4dc13793ac08242f",
           "translatedAt": "2026-07-26T13:23:38+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2f732006",
+          "translationLastModified": "2026-07-26T16:47:47+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -106703,7 +106747,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/taiwan-meme-culture.md",
+          "translatedFrom": "Culture/台灣迷因.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:21f968d51e24c095",
+          "sourceBodyHash": "sha256:758baf07e7746d38",
+          "translatedAt": "2026-07-26T13:23:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
