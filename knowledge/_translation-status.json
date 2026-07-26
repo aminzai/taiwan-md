@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T23:50:29+08:00",
-    "zhCommitHead": "9bd8d0e34",
+    "lastUpdated": "2026-07-26T23:51:37+08:00",
+    "zhCommitHead": "4684ed796",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -59,10 +59,10 @@
       },
       "vi": {
         "total_zh": 869,
-        "fresh": 235,
+        "fresh": 236,
         "stale": 16,
         "metadata_stale": 1,
-        "missing": 617,
+        "missing": 616,
         "orphan": 0
       },
       "id": {
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 508,
+        "fresh": 509,
         "stale": 12,
         "metadata_stale": 1,
-        "missing": 348,
+        "missing": 347,
         "orphan": 0
       },
       "hi": {
@@ -10210,7 +10210,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/night-market-economics.md",
+          "translatedFrom": "Economy/夜市經濟學.md",
+          "sourceCommitSha": "7678a430b",
+          "sourceContentHash": "sha256:d707615db91a024a",
+          "sourceBodyHash": "sha256:7e08a20853bbe066",
+          "translatedAt": "2026-07-26T23:43:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -31753,7 +31764,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/history-of-taiwan-school-counseling.md",
+          "translatedFrom": "Society/台灣學校輔導室的前世今生.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:3fa630df33c49cfb",
+          "sourceBodyHash": "sha256:ca46407007f84f25",
+          "translatedAt": "2026-07-26T23:26:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/history-of-taiwan-school-counseling.md",
@@ -105656,8 +105678,8 @@
           "sourceContentHash": "sha256:0e116841e98362b0",
           "sourceBodyHash": "sha256:8d311f99ab1ace9b",
           "translatedAt": "2026-07-26T22:27:48+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
+          "translationLastCommit": "4684ed79",
+          "translationLastModified": "2026-07-26T23:50:29+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
