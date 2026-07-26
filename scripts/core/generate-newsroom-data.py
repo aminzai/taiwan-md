@@ -31,6 +31,12 @@ KNOWLEDGE_DIR = os.path.join(ROOT, "knowledge")
 INBOX = os.path.join(ROOT, "docs/semiont/ARTICLE-INBOX.md")
 DONE_LOG = os.path.join(ROOT, "docs/semiont/ARTICLE-DONE-LOG.md")
 
+# wall-clock 事件帳本（append-only，committed）：day-granularity 的 art_date()
+# 量不出 per-stage 真實間隔，帳本補這一層——第一次觀測到某 (slug, stage,
+# status) 就蓋真實現在時間，之後同組合再出現不重蓋。見下方 load_ledger()。
+LEDGER_DIR = os.path.join(ROOT, "reports/newsroom")
+LEDGER = os.path.join(LEDGER_DIR, "stage-events.jsonl")
+
 # 觀測窗：只掃近 N 個月的 research 月槽（歷史 435 檔不需要全上看板）
 RESEARCH_MONTHS = 3
 
@@ -127,6 +133,46 @@ def rel(path):
     # Forward slashes: git log --name-only always emits them, so a backslash
     # key from os.path.relpath on Windows would never match the git_date cache.
     return os.path.relpath(path, ROOT).replace(os.sep, "/")
+
+
+def load_ledger():
+    """讀事件帳本：逐行容忍壞資料（skip），絕不重寫、絕不排序——append-only。
+
+    回傳 (seen, observed_first, bootstrap_ts, is_empty)：
+    - seen：已出現過的 (slug, stage, status) 組合集合（bootstrap／observed 皆算，
+      這條決定「要不要再蓋一次」——已出現過就不重蓋，idempotent 的核心）
+    - observed_first：組合 → 最早一筆 source=observed 的 ts。平行 session 可能
+      對同一組合各自 append 一筆 observed 事件（union-merge），取最早那筆才是
+      「真的第一次觀測到」
+    - bootstrap_ts：組合 → source=bootstrap 的 ts（沿用舊 day-granularity 值）
+    - is_empty：帳本是否為第一次跑（檔案不存在或無任何有效行）——決定這輪新
+      出現的組合要記 bootstrap（沿用舊值，不假造歷史）還是 observed（now）
+    """
+    seen = set()
+    observed_first = {}
+    bootstrap_ts = {}
+    valid_lines = 0
+    if os.path.isfile(LEDGER):
+        with open(LEDGER, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    ev = json.loads(line)
+                    slug, stage, status, ts = ev["slug"], ev["stage"], ev["status"], ev["ts"]
+                    src = ev.get("source", "observed")
+                except (json.JSONDecodeError, KeyError, TypeError):
+                    continue  # 壞行：跳過，不讓一行爛資料炸掉整本帳
+                valid_lines += 1
+                key = (slug, stage, status)
+                seen.add(key)
+                if src == "observed":
+                    if key not in observed_first or ts < observed_first[key]:
+                        observed_first[key] = ts
+                elif src == "bootstrap" and key not in bootstrap_ts:
+                    bootstrap_ts[key] = ts
+    return seen, observed_first, bootstrap_ts, valid_lines == 0
 
 
 warnings = []
@@ -382,7 +428,8 @@ for block in re.split(r"\n(?=### )", inbox_text):
 # ── 8. DONE-LOG（近 10 條，補 ship 資訊）──────────────────────────
 done_entries = re.findall(r"### (.+?) — (\d{4}-\d{2}-\d{2})", read(DONE_LOG))[:10]
 
-# ── 推導 next_step / blocked_on ───────────────────────────────────
+# stage 進度表：wall-clock 帳本（下一節）跟 next_step 推導（再下一節）都要用，
+# 移到兩者之前先定義一次。
 ORDER = [
     ("inbox", "REWRITE-STAGE-0-VIEWPOINT.md"),
     ("viewpoint", "REWRITE-STAGE-0-VIEWPOINT.md"),
@@ -394,6 +441,80 @@ ORDER = [
     ("verify", "REWRITE-STAGE-3-VERIFY.md"),
     ("ship", "REWRITE-STAGE-4-FORMAT.md → REWRITE-STAGE-5-CROSSLINK.md"),
 ]
+
+# ── 9. wall-clock 事件帳本：補新事件 + 用帳本改寫 stages[stage].at ──
+_seen, _observed_first, _bootstrap_ts, _ledger_bootstrap = load_ledger()
+_now_iso = now.strftime("%Y-%m-%dT%H:%M:%SZ")
+_new_events = []
+for _slug, _r in articles.items():
+    for _stage, _info in _r["stages"].items():
+        _status = _info.get("status")
+        if not _status:
+            continue
+        _key = (_slug, _stage, _status)
+        if _key in _seen:
+            continue  # 這組合帳本裡出現過（bootstrap 或 observed 都算）：不重蓋
+        if _ledger_bootstrap:
+            # 帳本是空的＝第一次跑：把「現在已知」的狀態記下來，時間沿用舊的
+            # day-granularity 推導值（不能蓋成今天，會假造歷史）
+            _ts, _src = (_info.get("at") or _now_iso), "bootstrap"
+        else:
+            _ts, _src = _now_iso, "observed"
+        _new_events.append(
+            {"ts": _ts, "slug": _slug, "stage": _stage, "status": _status, "source": _src}
+        )
+        _seen.add(_key)
+        (_observed_first if _src == "observed" else _bootstrap_ts)[_key] = _ts
+
+if _new_events:
+    os.makedirs(LEDGER_DIR, exist_ok=True)
+    with open(LEDGER, "a", encoding="utf-8") as f:
+        for _ev in _new_events:
+            f.write(json.dumps(_ev, ensure_ascii=False) + "\n")
+
+# stages[stage].at 改吃帳本：observed 優先 → bootstrap → 原本 legacy 推導值
+# 不動。同時算 stage_deltas_min：只在「相鄰兩個 stage 都是 observed」時才算，
+# bootstrap-only 是舊 day-granularity 假時間，拿來算分鐘數沒有意義。
+_ORDER_KEYS = [s for s, _ in ORDER]
+for _slug, _r in articles.items():
+    _ts_source = {}
+    for _stage, _info in _r["stages"].items():
+        _status = _info.get("status")
+        _key = (_slug, _stage, _status) if _status else None
+        if _key and _key in _observed_first:
+            _info["at"] = _observed_first[_key]
+            _ts_source[_stage] = "observed"
+        elif _key and _key in _bootstrap_ts:
+            _info["at"] = _bootstrap_ts[_key]
+            _ts_source[_stage] = "bootstrap"
+        elif _info.get("at"):
+            _ts_source[_stage] = "legacy"
+    _deltas = {}
+    _prev_stage = None
+    for _stage in _ORDER_KEYS:
+        if _prev_stage is not None:
+            _cur_info = _r["stages"].get(_stage)
+            _prev_info = _r["stages"].get(_prev_stage)
+            if (
+                _cur_info and _prev_info
+                and _ts_source.get(_stage) == "observed"
+                and _ts_source.get(_prev_stage) == "observed"
+            ):
+                try:
+                    _cur_ts = datetime.strptime(_cur_info["at"][:19], "%Y-%m-%dT%H:%M:%S").replace(
+                        tzinfo=timezone.utc
+                    )
+                    _prev_ts = datetime.strptime(_prev_info["at"][:19], "%Y-%m-%dT%H:%M:%S").replace(
+                        tzinfo=timezone.utc
+                    )
+                    _deltas[_stage] = round((_cur_ts - _prev_ts).total_seconds() / 60, 1)
+                except ValueError:
+                    pass
+        _prev_stage = _stage
+    _r["stage_deltas_min"] = _deltas
+    _r["wallclock_observed"] = any(v == "observed" for v in _ts_source.values())
+
+# ── 推導 next_step / blocked_on ───────────────────────────────────
 DONE_STATES = {"done", "pass", "staged"}
 for slug, r in articles.items():
     stages = r["stages"]

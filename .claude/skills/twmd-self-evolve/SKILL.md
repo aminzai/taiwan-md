@@ -35,6 +35,12 @@ allowed-tools:
 
 對照 DIARY §反覆浮現的思考，找 ≥ 3 次出現但**沒進 canonical SOP / cron / dashboard 欄位**的條目，提案儀器化動作。
 
+## 產線成本審視（v9.5 起每週跑）
+
+照 [EVOLVE-PIPELINE Mode 3 §產線成本審視](../../../docs/pipelines/EVOLVE-PIPELINE.md) 全節執行：
+newsroom stage-events 實測每站 wall-clock ＋ gate/席位 catch-rate ＋ lite profile 參數對照
+callout 率重校。只產生「候選＋證據」進 OBSERVER-QUEUE，不當場動 threshold（High-stake #3）。
+
 ## 上升真實儀器化 ship（不只 propose）
 
 不准只寫「建議升級 X」memory。必須真實 ship 對應 canonical 修改：

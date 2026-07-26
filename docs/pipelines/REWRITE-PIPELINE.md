@@ -3,9 +3,9 @@ title: 'REWRITE-PIPELINE'
 description: '文章改寫主流程薄索引（v9.0 router）— spine / Hard Gate Inventory / 多 agent 編排 / stage contract 派發表；各 stage 操作細節住 REWRITE-STAGE-*.md contract 檔（執行者只讀一個 contract 即可跑一步）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v9.0'
-last_updated: 2026-07-25
-last_session: '2026-07-25-外送專法（§五條反射第 5 條同步 spine 三型；第三型 canonical 在 REWRITE-STAGE-0-VIEWPOINT §Step 0.1.5）'
+current_version: 'v9.5'
+last_updated: 2026-07-26
+last_session: '2026-07-26-rewrite-throughput（v9.5 節流波：大驗證輪＋Step 3.8 定稿站＋lite profile＋stage 產物落地即 commit；設計報告 reports/design-rewrite-throughput-2026-07-26.md）'
 plugin_check: 'python3 scripts/tools/article-health.py {file} --profile=rewrite-stage-4'
 sister_docs:
   - 'EVOLVE-PIPELINE.md'
@@ -151,6 +151,8 @@ upstream_canonical:
 | **Source-fidelity gate (Stage 2.5)** 🔬 | Stage 2.5  | **A 級 / fresh-writer EVOLVE 長文 / 含外部來源引用** | (1) fetch 被引用來源 artifact 逐字比對（WebFetch/curl，不只比 research report）(2) frontmatter title+desc+30 秒概覽 門面句 source-fidelity (3) fresh-writer 長文 fact-check agent pass（structure gate ≠ 事實對）                                                                                                                                                                     | 不覆蓋 canonical / 不 ship |
 | **成品總驗三關** 🔍                     | Stage 3 終 | **A 級/大眾文/勘誤後/手術疊 ≥3 輪**                  | Step 3.6: 原子重驗 verifier fan-out（引號逐字 diff + 詮釋 gloss + footnote 綁定 + writer 自漂移）+ 順稿（**v9.4 移交 3.7 閱讀節奏席**）+ 視覺同步；修正 append research report §audit                                                                                                                                                                                                 | 不 ship（已 ship 則 heal） |
 | **orchestrator 自修收件** 🔁            | 任何時候   | **主 session 親改 prose ≥ 2 段**                     | Step 3.6.4：該節必重跑 `prose-flow.py` 並進下一輪外部尺，不得以「我自己重讀一次」代替；累積 ≥3 輪自修 → 觸發 Step 3.6 全套重跑（REFLEXES #69(h)）                                                                                                                                                                                                                                     | 不 ship                    |
+| **變更節定向複驗** ⚡                   | Stage 3 終 | **大驗證輪批修後**                                   | [§Stage 3 收驗編排 步 4](REWRITE-STAGE-3-VERIFY.md#stage-3-收驗編排大驗證輪v95-)：1 Sonnet verifier 只讀被動節＋工具全套；flagship／自修 ≥3 輪走全套重跑                                                                                                                                                                                                                              | 不進 3.8                   |
+| **定稿站 fact-atom 守恆** ✍️            | Step 3.8   | **所有 depth**                                       | [Step 3.8](REWRITE-STAGE-3-VERIFY.md#step-38-定稿站closing-pass️--所有-depth-hardv95-新增)：fresh Opus 定稿手全文語感重順 → `fact-atom-diff.py {canonical} {staging}` 引語／數字／腳註／H2／表格模組原子守恆，任何漂移整份退回；主編 diff 抽查後覆蓋                                                                                                                                   | 不進 Stage 4               |
 | Format check 7 維度                     | Stage 4    | 所有 article                                         | article-health.py --profile=rewrite-stage-4                                                                                                                                                                                                                                                                                                                                           | pre-commit hook            |
 | word-count ≥ 4500                       | Stage 4    | depth article                                        | article-health.py --check=word-count                                                                                                                                                                                                                                                                                                                                                  | pre-commit hook            |
 | 多語 visual smoke                       | Stage 4    | i18n 改動                                            | 6 步 bash                                                                                                                                                                                                                                                                                                                                                                             | revert commit              |
@@ -252,6 +254,7 @@ upstream_canonical:
 | **2.5-R 正文結構編輯室**（v8.1）                       | 2 parallel seats + 主編                                    | **Sonnet**                                                    | 正文是否執行藍圖（非再發明結構）                                                                                                                           | 與 3.6 事實包**同 round 可平行**；產物 `*-prose-structure-review.md`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **2.5 比對覆蓋**                                       | 主 session                                                 | **Opus orchestrator**                                         | Evolution mode only：確認新版沒丟舊文有價值素材且確實更好，再覆蓋                                                                                          | 讀 staging 新版 ＋ 舊 canonical 做 diff，主 session 親手覆蓋 `knowledge/{cat}/{slug}.md`                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | **3.5 查證**                                           | M 個 parallel verifier ＋ 主 session                       | **Sonnet**（查證機械可查、fan-out 便宜）                      | 每 atom 對一手 Ctrl-F，adversarial（prompted to falsify）；高風險 atom（引語/歸屬/獎項屆次）≥ 2 verifier                                                   | 主 session（Opus orchestrator）跑 deterministic gate（article-health）＋ 最終 spot-check                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **3.8 定稿手**（v9.5 新增）                            | 1 fresh sub-agent                                          | **Opus**                                                      | 全文語感重順是 craft 最高判斷；順稿需要的是沒有 context（v9.4 閱讀節奏席只偵測，本站修復）                                                                 | 只給成品全文＋prose-flow 表＋閱讀節奏席 findings；寫 staging 檔；`fact-atom-diff.py` 原子守恆硬閘＋主編 diff 抽查後覆蓋 canonical（[Step 3.8](REWRITE-STAGE-3-VERIFY.md)）                                                                                                                                                                                                                                                                                                                                                                                      |
 
 ### 鐵律（這次 worked example 學到的）
 
@@ -301,10 +304,25 @@ upstream_canonical:
 
 contract＝環境無關 SSOT；「**一個 stage 的天然平行段＝一個 workflow**」（1A 研究／1B persona／2B/2E 席／3.5 verifier／3.7 探針），主 session 在 workflow 之間收件＋親跑 gate＋裁決。操作紀律三條：(1) script 開頭必加 `typeof args === 'string' ? JSON.parse(args) : args` guard（W1：args 可能字串化抵達）；(2) `ok.length === 0 → throw` fail-loud（W2：額度全滅會偽裝成 completed+dropped，#82 變體）；(3) **agent 依契約自落檔 repo ＋ schema 只回結構化摘要**——通知截斷時 journal.jsonl 是 raw 的家。單 agent 站（0 觀點／2C 寫手）用 plain Agent。深案：[reports/dogfood-v9-first-run-2026-07-16.md](../../reports/dogfood-v9-first-run-2026-07-16.md)。
 
-### Run profiles（Q4 拍板，quality-max 方向）
+### 接力模式（v9.5 pilot 條款）🏃
 
-- **standard**（預設）：1 投影＋2B 三席/2E 兩席＋1 寫手＋單輪 checker fan-out＋3.7 **六探針**（A 級；v9.4 加開閱讀節奏席＝原 Step 3.6.2 順稿，派出前主 session 先跑 `prose-flow.py` 貼逐節表）。
-- **flagship**（S 級／政治敏感／預期大眾題，逐項 opt-in）：盲雙投影 judge-panel＋（可選）雙寫手 best-of＋persona 兩階段（研究後 gap-audit＋成品後 reception simulation）＋高風險 atom 雙鏡片 verifier until-dry＋隔夜冷讀＋D+30 re-audit。判斷節點（投影／主編／比對覆蓋／ship）永遠主 session，不可平行化替代。
+> 哲宇 2026-07-26 拍板「好」（設計報告 §五 方案 E）。**pilot 階段**：下一篇非時效深度文
+> 實測，摩擦記錄回設計報告 §後記，成功才升 default。
+
+contract 本來就設計成「執行者只讀一個 contract 跑一步」、看板本來就有 next_step——接力
+模式把它用起來：stage 產物落地即 commit（HANDOFF 鐵律 2）後，**任何 session（含 routine）
+可從看板 next_step＋已 commit 產物接力推進下一站**。主 session 必須在場的只有留派表四個
+裁決點（投影論點／主編匯流／比對覆蓋／ship）。接力 session 的成本＝重讀材料糧（v9.2
+「材料深」原則的固有代價，pilot 實測它有多重）。背景 agent 隨 session 死（F6）的解法
+就是「產物落 commit 才算完成」——通知等不到沒關係，檔案在 git 裡。
+
+### Run profiles（v9.5 三檔；哲宇 2026-07-26 拍板，設計報告 §五 方案 C）
+
+- **standard-lite**（**多數深度文的 default**，預算 ~90-120 分）：研究 fan-out 2-3 lane＋persona 2 agent（10 persona）＋2B 三席（便宜且最早攔炎上，不砍）＋1 寫手＋**大驗證輪**（2.5-R 兩席＋verifier 2＋探針 4，閱讀節奏席必在）＋變更節定向複驗＋3.8 定稿手。約 14 agent。
+- **standard**（A 級／大眾文／callout-triggered，預算 ~2-2.5 小時）：研究 3-5 lane＋persona 4 agent（20）＋2B 三席＋1 寫手＋大驗證輪（2.5-R 兩席＋verifier 2-4＋3.7 **六探針**）＋變更節定向複驗＋3.8 定稿手。
+- **flagship**（S 級／政治敏感／預期大眾題，逐項 opt-in，不設限）：盲雙投影 judge-panel＋（可選）雙寫手 best-of＋persona 兩階段（研究後 gap-audit＋成品後 reception simulation）＋高風險 atom 雙鏡片 verifier until-dry＋隔夜冷讀＋D+30 re-audit；收驗**不走**定向複驗，批修後全套重跑。判斷節點（投影／主編／比對覆蓋／ship）永遠主 session，不可平行化替代。
+
+**選檔**：Stage 0 判定（[Step 0.1.6](REWRITE-STAGE-0-VIEWPOINT.md#step-016-run-profile-選檔v95-新增)），哲宇隨時 override。**lite 維護條款**（哲宇 2026-07-26「要 lite 版！但是未來要記得維護」）：(a) lite 參數（lane 數／persona 數／探針數）非定案，每次 weekly self-evolve 的產線成本審視（[EVOLVE-PIPELINE Mode 3 §產線成本審視](EVOLVE-PIPELINE.md)）用 newsroom stage-events 實測數據重校；(b) **lite 文被讀者 callout → 該文升 standard 級複驗＋檢討 Step 0.1.6 選檔規則**（路由錯誤是進化訊號，進 LESSONS）；(c) lite 文 callout 率若高於 standard → lite 參數回調，不硬撐。
 
 ---
 
@@ -316,27 +334,32 @@ contract＝環境無關 SSOT；「**一個 stage 的天然平行段＝一個 wor
 > 不需要讀本檔全文。本檔（薄索引）給 orchestrator 做路由：spine、Hard Gate Inventory、
 > 多 agent 編排、本表。設計與 v3.1 反例的差異分析：[reports/newsroom-orchestration-design-2026-07-16.md](../../reports/newsroom-orchestration-design-2026-07-16.md)。
 
-| 順序 | Stage                               | Contract 檔                                                                | 執行者（詳見 §多 agent 編排）      | Stage 終 gate                                                              |
-| ---- | ----------------------------------- | -------------------------------------------------------------------------- | ---------------------------------- | -------------------------------------------------------------------------- |
-| 1    | Stage 0 觀點（含模式判定）          | [REWRITE-STAGE-0-VIEWPOINT.md](REWRITE-STAGE-0-VIEWPOINT.md)               | 主 session／1 Opus agent           | `research-report-health.py --stage 0`                                      |
-| 2    | Stage 1A 取材：研究                 | [REWRITE-STAGE-1A-RESEARCH.md](REWRITE-STAGE-1A-RESEARCH.md)               | orchestrator＋N Sonnet fan-out     | `agent-report-health.py`（收件）＋`research-report-health.py --tier=depth` |
-| 3    | Stage 1B 取材：媒體＋persona        | [REWRITE-STAGE-1B-MEDIA.md](REWRITE-STAGE-1B-MEDIA.md)                     | 主 session＋4 Sonnet persona       | 深掃協議＋增補後重跑 report health                                         |
-| 4    | Step 2.0 投影藍圖                   | [REWRITE-STAGE-2A-PROJECTION.md](REWRITE-STAGE-2A-PROJECTION.md)           | 主 session Opus（不派寫手）        | PROJECTION §gate 5 題                                                      |
-| 5    | Step 2.0-R 投影編輯室               | [REWRITE-STAGE-2B-ROOM-PROJECTION.md](REWRITE-STAGE-2B-ROOM-PROJECTION.md) | 3 Sonnet seats＋主編（主 session） | `editorial-room-health.py`                                                 |
-| 6    | Stage 2 寫                          | [REWRITE-STAGE-2C-WRITE.md](REWRITE-STAGE-2C-WRITE.md)                     | 1 fresh Opus writer                | Stage 2 hard gates 10 條                                                   |
-| 7    | Stage 2.5 source-fidelity＋比對覆蓋 | [REWRITE-STAGE-2D-SOURCE-FIDELITY.md](REWRITE-STAGE-2D-SOURCE-FIDELITY.md) | 主 session（＋fact-check agent）   | 三道全過才覆蓋 canonical                                                   |
-| 8    | Step 2.5-R 正文結構編輯室           | [REWRITE-STAGE-2E-ROOM-PROSE.md](REWRITE-STAGE-2E-ROOM-PROSE.md)           | 2 Sonnet seats＋主編               | `editorial-room-health.py`                                                 |
-| 9    | Stage 3 驗（含 3.6 成品總驗）       | [REWRITE-STAGE-3-VERIFY.md](REWRITE-STAGE-3-VERIFY.md)                     | 主 session＋M Sonnet verifier      | stage35/36 audit 雙 PASS＋`--profile=rewrite-stage-3-5`                    |
-| 10   | Stage 4 形                          | [REWRITE-STAGE-4-FORMAT.md](REWRITE-STAGE-4-FORMAT.md)                     | 主 session                         | `--profile=rewrite-stage-4` hard=0＋image-health                           |
-| 11   | Stage 5 連                          | [REWRITE-STAGE-5-CROSSLINK.md](REWRITE-STAGE-5-CROSSLINK.md)               | 主 session                         | format-structure＋（Merge）build verify                                    |
+| 順序 | Stage                                            | Contract 檔                                                                | 執行者（詳見 §多 agent 編排）                                            | Stage 終 gate                                                              |
+| ---- | ------------------------------------------------ | -------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| 1    | Stage 0 觀點（含模式判定）                       | [REWRITE-STAGE-0-VIEWPOINT.md](REWRITE-STAGE-0-VIEWPOINT.md)               | 主 session／1 Opus agent                                                 | `research-report-health.py --stage 0`                                      |
+| 2    | Stage 1A 取材：研究                              | [REWRITE-STAGE-1A-RESEARCH.md](REWRITE-STAGE-1A-RESEARCH.md)               | orchestrator＋N Sonnet fan-out                                           | `agent-report-health.py`（收件）＋`research-report-health.py --tier=depth` |
+| 3    | Stage 1B 取材：媒體＋persona                     | [REWRITE-STAGE-1B-MEDIA.md](REWRITE-STAGE-1B-MEDIA.md)                     | 主 session＋4 Sonnet persona                                             | 深掃協議＋增補後重跑 report health                                         |
+| 4    | Step 2.0 投影藍圖                                | [REWRITE-STAGE-2A-PROJECTION.md](REWRITE-STAGE-2A-PROJECTION.md)           | 主 session Opus（不派寫手）                                              | PROJECTION §gate 5 題                                                      |
+| 5    | Step 2.0-R 投影編輯室                            | [REWRITE-STAGE-2B-ROOM-PROJECTION.md](REWRITE-STAGE-2B-ROOM-PROJECTION.md) | 3 Sonnet seats＋主編（主 session）                                       | `editorial-room-health.py`                                                 |
+| 6    | Stage 2 寫                                       | [REWRITE-STAGE-2C-WRITE.md](REWRITE-STAGE-2C-WRITE.md)                     | 1 fresh Opus writer                                                      | Stage 2 hard gates 10 條                                                   |
+| 7    | Stage 2.5 source-fidelity＋比對覆蓋              | [REWRITE-STAGE-2D-SOURCE-FIDELITY.md](REWRITE-STAGE-2D-SOURCE-FIDELITY.md) | 主 session（＋fact-check agent）                                         | 三道全過才覆蓋 canonical                                                   |
+| 8    | Step 2.5-R 正文結構編輯室                        | [REWRITE-STAGE-2E-ROOM-PROSE.md](REWRITE-STAGE-2E-ROOM-PROSE.md)           | 2 Sonnet seats＋主編                                                     | `editorial-room-health.py`                                                 |
+| 9    | Stage 3 驗（大驗證輪：2.5-R＋3.6＋3.7 同輪平行） | [REWRITE-STAGE-3-VERIFY.md](REWRITE-STAGE-3-VERIFY.md)                     | 主 session＋一次派齊 8-12 Sonnet（席＋verifier＋探針）→ 批修＋變更節複驗 | stage35/36 audit 雙 PASS＋`--profile=rewrite-stage-3-5`                    |
+| 9b   | Step 3.8 定稿站                                  | [REWRITE-STAGE-3-VERIFY.md §Step 3.8](REWRITE-STAGE-3-VERIFY.md)           | 1 fresh Opus 定稿手＋主編 diff 抽查                                      | `fact-atom-diff.py` PASS                                                   |
+| 10   | Stage 4 形                                       | [REWRITE-STAGE-4-FORMAT.md](REWRITE-STAGE-4-FORMAT.md)                     | 主 session                                                               | `--profile=rewrite-stage-4` hard=0＋image-health                           |
+| 11   | Stage 5 連                                       | [REWRITE-STAGE-5-CROSSLINK.md](REWRITE-STAGE-5-CROSSLINK.md)               | 主 session                                                               | format-structure＋（Merge）build verify                                    |
 
 **三條派發鐵律**：
 
 1. **contract 自足**：stage 檔不引用兄弟 stage 檔內容；執行者不需讀第二個 pipeline 檔。
    索引薄、contract 厚——v3.1 拆檔（單一讀者跳檔）與 routine-contract rollback
    （pointer 迷宮 performative compliance）兩個反例的正面解。
-2. **HANDOFF 收口**：每個 stage 完成時照 contract §HANDOFF——產物落檔（顯式路徑）、
-   gate 如實回報、跑 `generate-newsroom-data.py` 更新編輯台。
+2. **HANDOFF 收口**：每個 stage 完成時照 contract §HANDOFF——產物落檔（顯式路徑）**並
+   隨手 commit（只 stage 本 stage 產物路徑，勿 `git add -A`）**、gate 如實回報、跑
+   `generate-newsroom-data.py` 更新編輯台（v9.5 起看板記真實時間戳進
+   `reports/newsroom/stage-events.jsonl`，每站 wall-clock 由此可量）。**產物落 commit 是
+   可觀測性與跨 session 接力的底座**：compaction 或 session 死亡後，任何接力 session 從
+   看板 next_step＋已 commit 產物就能續跑（2026-07-26 鎢供應鏈「前段無 commit 可引」教訓）。
 3. **狀態不猜檔名**：所有 stage 產物路徑顯式宣告在 contract §OUTPUTS；
    任何 verifier／看板從 frontmatter 與顯式路徑取狀態（Sol 假陰性教訓）。
 
@@ -534,5 +557,15 @@ sub-agent，contract 檔是執行者的天然投餵單位，執行者零跳檔�
 [reports/archive/rewrite-pipeline-changelog-pre-v9-2026-07-16.md](../../reports/archive/rewrite-pipeline-changelog-pre-v9-2026-07-16.md)；
 changelog SSOT ＝ `git log docs/pipelines/REWRITE-PIPELINE.md`。完整設計：
 [reports/newsroom-orchestration-design-2026-07-16.md](../../reports/newsroom-orchestration-design-2026-07-16.md)。_
+
+_v9.5 | 2026-07-26 rewrite-throughput（哲宇 directive「整個順過～寫完一篇平均要 3 小時」＋
+六項拍板）— **節流波**：三個月只加不減的產線第一次做減法。四件事：(1) **大驗證輪**——
+2.5-R／3.6.1／3.7 三輪合一平行派齊＋單次收件＋批修一次＋變更節定向複驗（回應哲宇對
+「席位看修復前文本」的疑慮）；(2) **Step 3.8 定稿站**——順稿從偵測升級成修復，fresh Opus
+定稿手全文語感重順＋`fact-atom-diff.py` 原子守恆硬閘，「幫我全文順一下語感」從哲宇的手動
+請求變成產線內建；(3) **run profiles 三檔**——standard-lite 成為多數深度文 default（~14
+agent／90-120 分），含 lite 維護條款；(4) **stage 產物落地即 commit＋newsroom 真實時間戳**
+（stage-events.jsonl）——給成本一把外部尺，也是跨 session 接力 pilot 的底座。跨時代
+wall-clock 考古與六根因診斷：[reports/design-rewrite-throughput-2026-07-26.md](../../reports/design-rewrite-throughput-2026-07-26.md)。_
 
 🧬
