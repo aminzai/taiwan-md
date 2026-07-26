@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T08:38:36+08:00",
-    "zhCommitHead": "215661922",
+    "lastUpdated": "2026-07-26T08:48:29+08:00",
+    "zhCommitHead": "2d6f15ebc",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -51,8 +51,8 @@
       },
       "fr": {
         "total_zh": 865,
-        "fresh": 721,
-        "stale": 139,
+        "fresh": 722,
+        "stale": 138,
         "metadata_stale": 2,
         "missing": 3,
         "orphan": 0
@@ -83822,8 +83822,8 @@
           "sourceContentHash": "sha256:91f467d8cc029b74",
           "sourceBodyHash": "sha256:1f92c860af97938e",
           "translatedAt": "2026-07-26T05:17:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2d6f15eb",
+          "translationLastModified": "2026-07-26T08:38:36+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -88584,8 +88584,8 @@
           "sourceContentHash": "sha256:339ea6f63f12308d",
           "sourceBodyHash": "sha256:13a49441594ebd54",
           "translatedAt": "2026-07-26T08:13:12+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2d6f15eb",
+          "translationLastModified": "2026-07-26T08:38:36+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "status": "fresh",
@@ -92247,18 +92247,16 @@
         "fr": {
           "path": "fr/Geography/lienchiang-county.md",
           "translatedFrom": "Geography/連江縣.md",
-          "sourceCommitSha": "ecd9f7b06",
-          "sourceContentHash": "sha256:bed7ca568c30fdad",
-          "sourceBodyHash": "sha256:1637fa66ecda0e7f",
-          "translatedAt": "2026-05-18T05:08:09+08:00",
+          "sourceCommitSha": "2f3bfdbf7",
+          "sourceContentHash": "sha256:8ae350615e660491",
+          "sourceBodyHash": "sha256:2da5583381fa39ad",
+          "translatedAt": "2026-07-26T08:13:11+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
