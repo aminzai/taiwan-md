@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-27T05:17:43+08:00",
-    "zhCommitHead": "c740010fb",
+    "lastUpdated": "2026-07-27T05:24:40+08:00",
+    "zhCommitHead": "dec14fcc0",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -43,34 +43,34 @@
       },
       "es": {
         "total_zh": 869,
-        "fresh": 735,
-        "stale": 129,
+        "fresh": 736,
+        "stale": 128,
         "metadata_stale": 0,
         "missing": 5,
         "orphan": 0
       },
       "fr": {
         "total_zh": 869,
-        "fresh": 738,
-        "stale": 128,
+        "fresh": 739,
+        "stale": 127,
         "metadata_stale": 0,
         "missing": 3,
         "orphan": 0
       },
       "vi": {
         "total_zh": 869,
-        "fresh": 242,
+        "fresh": 243,
         "stale": 16,
         "metadata_stale": 1,
-        "missing": 610,
+        "missing": 609,
         "orphan": 0
       },
       "id": {
         "total_zh": 869,
-        "fresh": 350,
+        "fresh": 351,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 508,
+        "missing": 507,
         "orphan": 0
       },
       "pt": {
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 426,
+        "fresh": 427,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 441,
+        "missing": 440,
         "orphan": 0
       },
       "ru": {
@@ -18656,7 +18656,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Technology/taiwan-semiconductor-industry.md",
+          "translatedFrom": "Technology/半導體產業.md",
+          "sourceCommitSha": "c85a9b6f7",
+          "sourceContentHash": "sha256:b496186c7d76e85e",
+          "sourceBodyHash": "sha256:3bf42ee02082c616",
+          "translatedAt": "2026-07-27T05:11:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -18983,18 +18994,16 @@
         "es": {
           "path": "es/Technology/mini-taiwan-pulse-civic-tech.md",
           "translatedFrom": "Technology/mini-taiwan-pulse.md",
-          "sourceCommitSha": "905aa4a82",
-          "sourceContentHash": "sha256:93ceaae8bc44512f",
-          "sourceBodyHash": "sha256:941fb85e8f2fbb98",
-          "translatedAt": "2026-06-26T00:38:47+08:00",
+          "sourceCommitSha": "da22dc5b2",
+          "sourceContentHash": "sha256:b4fa10553d998dfa",
+          "sourceBodyHash": "sha256:6475e91be41d93b4",
+          "translatedAt": "2026-07-27T05:09:57+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -36726,8 +36735,8 @@
           "sourceContentHash": "sha256:c3e60eb6650d8dfb",
           "sourceBodyHash": "sha256:260082957a9cf952",
           "translatedAt": "2026-07-27T03:39:55+08:00",
-          "translationLastCommit": "fd678fd2",
-          "translationLastModified": "2026-07-25T10:32:02+08:00",
+          "translationLastCommit": "dec14fcc",
+          "translationLastModified": "2026-07-27T05:17:43+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -50301,18 +50310,16 @@
         "fr": {
           "path": "fr/People/constant-and-change-band.md",
           "translatedFrom": "People/康士坦的變化球.md",
-          "sourceCommitSha": "ac1d187a",
-          "sourceContentHash": "sha256:da94b8581c1d756d",
-          "sourceBodyHash": "sha256:882ec45fed78d371",
-          "translatedAt": "2026-05-01T20:54:17+08:00",
+          "sourceCommitSha": "160c9d82d",
+          "sourceContentHash": "sha256:37d8610a843cfcf0",
+          "sourceBodyHash": "sha256:f8b9d7518607d1e1",
+          "translatedAt": "2026-07-27T03:39:57+08:00",
           "translationLastCommit": "fbca064a",
           "translationLastModified": "2026-06-29T01:08:29+08:00",
           "inferred": false,
           "footnoteDefs": 17,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+11 -11"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -65692,7 +65699,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/tsai-ing-wen.md",
+          "translatedFrom": "People/蔡英文.md",
+          "sourceCommitSha": "23c89f2a9",
+          "sourceContentHash": "sha256:8b9c35107127e767",
+          "sourceBodyHash": "sha256:e59e32a8f7afc902",
+          "translatedAt": "2026-07-27T04:56:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -100725,7 +100743,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/urban-character-and-regional-culture.md",
+          "translatedFrom": "Geography/城市特色與區域文化.md",
+          "sourceCommitSha": "2850f17bc",
+          "sourceContentHash": "sha256:d85bf01115410778",
+          "sourceBodyHash": "sha256:be641d09ea1153ea",
+          "translatedAt": "2026-07-27T05:21:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"

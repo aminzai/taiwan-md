@@ -1,202 +1,203 @@
 ---
-title: "Constant & Change : « Un groupe ne tient pas par la persévérance, si c'est plus amusant, il se sépare » — Dix ans d'évolution"
-description: "Groupe indépendant de quatre membres formé à Taipei en 2013, dont le nom fusionne le « tout coule » du philosophe grec Héraclite et la balle courbe du lanceur de baseball. Le chanteur ARNY, né aux Philippines, est un musicien de 20 ans d'expérience qui a joué de la bass dans Fire EX. ; la batteuse Gail souffre de polyarthrite rhumatoïde et ne peut toujours pas plier le pouce, pourtant elle continue de jouer ; le bassiste SionC a déclaré : « Un groupe ne tient pas par la persévérance, si c'est plus amusant, il se sépare. » De deux spectateurs à Legacy aux 5 000 personnes du Taipei Music Center en 2023, sans succès viral, sans titre phare — seulement dix ans d'évolution constante."
+title: "Le changement de trajectoire de KST : dix ans de philosophie — « Un groupe ne tient pas par la persévérance, il se dissout quand il n'est plus amusant »"
+description: 'Groupe indépendant de quatre membres formé à Taipei en 2013, dont le nom allie le concept d''Héraclite sur le flux universel au "curveball" du baseball. ARNY, chanteur né aux Philippines et musicien chevronné ; la batteuse Xiaomi, qui continue de jouer malgré une arthrite rhumatoïde limitant l''usage de son pouce ; le bassiste Jin Mao, dont la philosophie est : « Un groupe ne tient pas par la persévérance... ». De deux spectateurs au Legacy à 5 000 personnes au Taipei Music Center en 2023, sans succès éphémère, mais avec une évolution constante.'
 date: 2026-04-18
+category: 'People'
 tags:
   [
-    Personnalité,
-    Constant & Change,
-    KST,
-    Groupe,
-    Post-rock,
-    Musique indépendante,
-    Golden Melody Awards,
-    Les Échoués,
-    Succession,
-    Ligne Somnambule,
-    ARNY,
-    SionC,
-    Gail,
-    Creed,
-    Héraclite,
+    'Personnages',
+    'KST',
+    'Kangsi-tan de Bianhuaqiu',
+    'Groupe',
+    'Post-rock',
+    'Musique indépendante',
+    'Golden Melody Awards',
+    'Géquian de Ren',
+    'Gengdie',
+    'Mianyuexian',
+    'ARNY',
+    'Jin Mao',
+    'Xiaomi',
+    'Creed',
+    'Heraclitus',
   ]
-category: People
-subcategory: 音樂與表演
+subcategory: '音樂與表演'
 author: 'Taiwan.md'
 featured: false
-readingTime: 15
 lastVerified: 2026-04-18
 lastHumanReview: true
+researchReport: 'reports/research/2026-04/康士坦的變化球.md'
+readingTime: 15
 translatedFrom: 'People/康士坦的變化球.md'
-sourceCommitSha: 'ac1d187a'
-sourceContentHash: 'sha256:da94b8581c1d756d'
-sourceBodyHash: 'sha256:882ec45fed78d371'
-translatedAt: '2026-05-01T20:54:17+08:00'
+sourceCommitSha: '160c9d82d'
+sourceContentHash: 'sha256:37d8610a843cfcf0'
+sourceBodyHash: 'sha256:f8b9d7518607d1e1'
+translatedAt: '2026-07-27T03:39:57+08:00'
 ---
 
-> **En 30 secondes :** Constant & Change (KST) est un groupe indépendant de quatre membres formé à Taipei en 2013 : le chanteur ARNY (Wu Ying-ran, né aux Philippines, musicien chevronné de 20 ans), le guitariste Creed (Chao Tsu-yi), le bassiste SionC (Chen Yu-hsiang) et la batteuse Gail (Chang Yi-yun, dont le pouce ne peut se plier à cause de la polyarthrite rhumatoïde mais qui continue de jouer). En 2016, leur premier titre [〈Les Échoués〉](https://www.youtube.com/watch?v=NhJCYJs0XIA) traite de l'engourdissement professionnel ; en 2020, _Succession_ est nommé aux Golden Melody Awards (32e édition) dans la catégorie Meilleur groupe ; en 2023, premier grand concert solo de 5 000 personnes au Taipei Music Center ; en 2025, dernière étape à Hong Kong de la tournée mondiale _Ligne Somnambule_. Ils ont émergé la même année que No Party for Cao Dong — un critique a écrit : « Si No Party est la vingtaine démunie, KST est le No Party dix ans plus tard, après avoir traversé des joies et des peines réelles, avec des opinions mais qui hésite encore à les exprimer. » Le nom du groupe vient d'Héraclite : tout coule, la seule chose qui ne change pas est le changement lui-même.
+> **Aperçu en 30 secondes :** KST (Kangsi-tan de Bianhuaqiu) est un groupe indépendant de quatre membres fondé à Taipei en 2013 : le chanteur ARNY (Wu Ying-ran, né aux Philippines, musicien expérimenté de 20 ans d'expérience), le guitariste Creed (Zhao Zu-yi), le bassiste Jin Mao (Chen You-xiang) et la batteuse Xiaomi (Zhang Yi-yun, qui continue de jouer malgré l'impossibilité de plier son pouce à cause de l'arthrite rhumatoïde). En 2016, leur premier album [〈Géquian de Ren〉](https://www.youtube.com/watch?v=NhJCYJs0XIA) traite de la paralysie professionnelle ; en 2020, _Gengdie_ est nommé "Meilleur groupe" aux 32e Golden Melody Awards ; en 2023, leur premier grand concert réunit 5 000 personnes au Taipei Music Center ; en 2025, fin de la tournée mondiale avec _Mianyuexian_ à Hong Kong. Ils ont émergé la même année que _No Party for Cao Dong_ — les critiques disent : « Si Cao Dong représente la vingtaine sans rien, KST est le Cao Dong de dix ans plus tard, doté d'une perspective forgée par les joies et les peines réelles, mais qui retient parfois ses mots ». Le nom du groupe provient d'Héraclite : tout coule, seule la mutation est constante.
 
-Le 2 septembre 2023 à 19 h 30, au Taipei Music Center. Le concert du dixième anniversaire de Constant & Change ouvre le bal.[^1]
+Le 2 septembre 2023 à 19h30, Taipei Music Center. Ouverture du concert du 10e anniversaire de KST. [^1]
 
-Le chanteur ARNY se tient sur scène, face à 5 000 personnes. Il ne remercie pas à haute voix — il ne dit qu'une seule phrase, qui résume dix ans :
+Le chanteur ARNY se tient sur scène face à 5 000 personnes. Il ne lance pas de grands remerciements : il prononce une seule phrase qui résume dix ans :
 
-> « De 2 spectateurs à 5 000 personnes, ce chemin a pris 10 ans. »[^1]
+> « De deux spectateurs à 5 000 personnes, j'ai parcouru ce chemin pendant 10 ans. » [^1]
 
-Pourquoi cette phrase a-t-elle fait silence dans la salle — parce que ce n'est pas une exagération. En 2013, leur premier concert dans un LiveHouse n'avait réellement que deux spectateurs. Dix ans plus tard, ils ne doivent leur succès ni à une viralité, ni à une bande originale de drama télévisé, ni à une émission de variétés — seulement à un album après l'autre, portant leur audience de deux à cinq mille personnes.
+Pourquoi cette phrase a-t-elle fait taire la salle ? Parce qu'elle n'est pas une exagération. En 2013, lors de leur premier concert au LiveHouse Legacy, il n'y avait véritablement que deux spectateurs. Dix ans plus tard, ils ne comptent pas sur un succès viral, ni sur une chanson de générique de drama, ni sur des apparitions télévisées : ils ont simplement, album après album, fait passer leur audience de deux à cinq mille personnes.
 
-📝 Note du conservateur : Les groupes indépendants nés dans les années 2010 à Taïwan sont nombreux, mais rares sont ceux qui sont passés du LiveHouse à des salles de plusieurs milliers de places tout en évoluant visiblement à chaque album. KST y est parvenu, sans le moindre complexe de star.
+📝 Note du commissaire : Si les groupes indépendants de Taïwan sont nombreux depuis les années 2010, rares sont ceux qui parviennent à passer des petites salles au Taipei Music Center devant des milliers de personnes avec une évolution aussi marquée à chaque album. KST l'a fait, sans aucun complexe d'idole.
 
-### Né aux Philippines, ancien bassiste de Fire EX.
+### Né aux Philippines, ancien bassiste de Fire Swatter
 
-ARNY (Wu Ying-ran) n'est pas le jeune musicien indépendant qu'on imagine habituellement. Né aux Philippines dans les années 1980, il a grandi à Taïwan. Sa famille est étrangère.[^2] Il a plus de 20 ans d'expérience dans la scène musicale taïwanaise — producteur, arrangeur, compositeur de musiques de films, il a tout fait.
+ARNY (Wu Ying-ran) n'est pas le « jeune musicien indépendant » que l'on imagine habituellement. Né dans les années 1980 aux Philippines, il a grandi à Taïwan avec une famille étrangère. [^2] Il possède plus de 20 ans d'expérience dans la scène musicale taïwanaise : producteur, arrangeur, compositeur de musique de film.
 
-En parcourant ses anciens groupes et expériences live, on trouve une longue liste : **guitariste de Star Berryz**, **bassiste de Fire EX. (2006)**, guitariste régulier des concerts live de Huang Te, guitariste live de Kuo Tsai-chieh, guitariste live de Wan Fang (2012).[^2] Quand il fonde Constant & Change avec Creed, SionC et Gail en 2013, ce n'est pas un « débutant », mais un **artisan qui travaillait déjà dans l'industrie musicale taïwanaise depuis 10 ans** et qui décide de former son propre groupe.
+Son parcours regorge de références : **guitariste de Strawberry Savior**, **bassiste de Fire Swatter (2006)**, guitariste régulier pour les concerts de Huang Jie, guitariste pour Guo Cai-jie et Wanfang (2012). [^2] Lorsqu'il a formé KST en 2013 avec Creed, Jin Mao et Xiaomi, il n'était pas un « nouveau venu », mais un **professionnel ayant déjà travaillé 10 ans dans l'industrie musicale taimentaise**, décidé de créer son propre groupe.
 
-Ce statut explique pourquoi KST est différent de la plupart des groupes indépendants — leur musique est relativement mature dès le premier album. Pas de « rugosité de jeune groupe », car aucun des quatre membres n'est un novice.
+Cette identité explique pourquoi KST diffère de la plupart des groupes indépendants : leur musique était déjà mature dès le premier album. Il n'y avait pas cette « rugosité des débutants », car aucun des quatre membres n'était novice.
 
-### La batteuse de l'usine
+### La batteuse à l'usine tatouée
 
-La batteuse Gail (Chang Yi-yun) a deux caractéristiques qui la rendent reconnaissable : elle est passionnée de photographie, surtout de ruines ; elle a **une usine tatouée sur la main** — une déclaration de sa quête pour « collecter des paysages ».[^3]
+La batteuse Xiaomi (Zhang Yi-yun) possède deux traits distinctifs : elle est passionnée de photographie, particulièrement des ruines ; et elle porte tatouée sur la main **une usine** : c'est son manifeste personnel pour « collecter des paysages ». [^3]
 
-Mais ce qui fait d'elle le membre le plus émouvant du groupe, c'est ceci : **il y a deux ans, lors de la production d'un album, elle a découvert qu'elle souffrait de polyarthrite rhumatoïde ; à ce jour, son pouce ne peut toujours pas se plier, et pourtant elle continue de jouer de la batterie et de se produire sur scène**.[^3]
+Mais ce qui fait d'elle le membre le plus touchant du groupe, c'est ceci : **lors de la production de l'album il y a deux ans, elle a découvert qu'elle souffrait d'arthrite rhumatoïde ; aujourd'hui, son pouce ne peut plus se plier, mais elle continue de jouer et de monter sur scène**. [^3]
 
-Ce n'est pas une histoire écrite par le service de communication du groupe pour émouvoir. Elle n'a jamais insisté là-dessus en interview. Ce sont les autres membres qui l'ont mentionné en passant quand on leur a posé la question — comme un fait d'arrière-plan qu'ils avaient depuis longtemps accepté.
+Ce n'est pas un récit de communication conçu pour susciter l'émotion. Elle ne l'a jamais mis en avant dans ses interviews. Ce sont les autres membres qui l'ont mentionné comme un fait établi qu'ils ont déjà accepté.
 
-Une batteuse dont le pouce ne peut se plier, capable de jouer les 7 minutes de 〈Hi There〉, capable de tenir tout le concert devant 5 000 personnes au Taipei Music Center — c'est une métaphore de ce qui fait l'ossature de KST : **leur persévérance ne repose pas sur une volonté forcée, mais sur une résilience quotidienne qui ne s'explique pas**.
+Une batteuse dont le pouce ne peut se plier, capable d'assurer un morceau de 7 minutes comme 〈Hi There〉 ou de tenir tout un concert devant 5 000 personnes au Taipei Music Center : c'est une métaphore de la colonne vertébrale de KST : **leur persévérance n'est pas une force de volonté brute, mais une résilience quotidienne qui ne cherche pas d'explication**.
 
-### Comment les échoués se sont engourdis
+### Comment les « gens échoués » s'anesthésient
 
-Le 16 décembre 2016, KST sort son premier album _Les Échoués_ au Legacy Taipei.[^4] Les paroles du titre principal [〈Les Échoués〉](https://www.youtube.com/watch?v=NhJCYJs0XIA) contiennent un passage qui est devenu un refrain pour des millions de travailleurs :
+Le 16 décembre 2016, KST sort son premier album _Géquian de Ren_ au Legacy Taipei. [^4] Le titre principal [〈Géquian de Ren〉](https://www.youtube.com/watch?v=NhJCYJs0XIA) contient une répétition devenue l'hymne d'une génération de travailleurs :
 
-> « La vie engourdie, habituée à la vie que je déteste
-> La vie engourdie, habituée à être nul
-> La vie engourdie, habituée aux relations douloureuses
-> La vie engourdie, habituée à dépenser tout son argent chaque mois »[^4]
+> « Une vie anesthésiée s'habitue à la vie que je déteste  
+> Une vie anesthésiée s'habitement à ma propre médiocrité  
+> Une vie anesthésiée s'habitue aux relations douloureuses  
+> Une vie anesthésiée s'habitue à dépenser tout son argent chaque mois » [^4]
 
-Le cœur de cette chanson est une observation acerbe : **si les gens échouent, ce n'est pas parce qu'ils ne savent pas comment bouger, c'est parce qu'ils savent mais choisissent de ne pas bouger**. Le groupe a décrit ce phénomène dans une interview comme « l'auto-tromperie de l'homme moderne » :[^5]
+Le cœur de cette chanson est une observation tranchante : **si les gens échouent, ce n'est pas parce qu'ils ne savent pas comment bouger, c'est parce qu'ils le savent mais choisissent l'immobilité**. Le groupe décrit ce phénomène comme « l'auto-tromperie de l'homme moderne » lors d'une interview : [^5]
 
-> « Nous savons tous ce qu'il faudrait faire pour que la vie change vraiment, mais nous restons habituellement dans notre zone de confort, trouvant des excuses évidentes pour ne pas avancer. »[^5]
+> « Nous savons tous ce qu'il faudrait faire pour que notre vie change vraiment, mais nous avons l'habitude de rester dans notre zone de confort, trouvant des excuses légitimes pour stagner sur place. » [^5]
 
-Le clip de 〈Les Échoués〉 existe en deux versions, un détail rarement mentionné — l'une est une **version documentaire en noir et blanc** réalisée par le réalisateur primé aux Golden Horse Awards Su Che-hsien, l'autre une **version dramatique passionnée** réalisée par le jeune réalisateur Tseng Wei-yu (les membres du groupe jouant pour la première fois la comédie).[^4] Une même chanson, un même texte, deux traitements visuels radicalement différents — l'une est une observation contenue, l'autre une dramatisation directe. Ce choix est lui-même l'ADN esthétique de KST : **ils ne prennent pas leur public pour des enfants, ils vous laissent choisir comment interpréter cette chanson**.
+Le clip de 〈Géquian de Ren〉 possède deux versions, un détail rarement mentionné : une **version documentaire en noir et blanc** réalisée par le réalisateur Su Zhe-xian, et une **version dramatique passionnée** par la jeune réalisatrice Zeng Wei-yu (où les membres jouent pour la première fois). [^4] La même chanson, les mêmes paroles, mais deux traitements visuels opposés : l'un est un regard sobre, l'autre une mise en scène directe. Ce choix fait partie de l'ADN esthétique de KST : **ils ne traitent pas leur public comme des enfants, ils vous laissent choisir votre propre interprétation**.
 
-### Les belles choses arrivent après le fond du trou
+### Le beau arrive après le creux
 
-En 2020, _Succession_ sort et est nommé dans la catégorie Meilleur groupe aux 32e Golden Melody Awards.[^6]
+En 2020, la sortie de _Gengdie_ lui vaut une nomination au 32e Golden Melody Awards pour le meilleur groupe. [^6]
 
-La chanson la plus célèbre de cet album est [〈Est-ce que quelque chose de bien pourrait m'arriver〉](https://www.youtube.com/watch?v=n7xF4UYrkq8) — le titre lui-même est à la voix passive. Ce n'est pas « je vais courir après », c'est « est-ce que ça pourrait m'arriver ». Ce choix grammatical a capturé avec précision l'état d'esprit d'une génération entière pendant la pandémie de COVID : **pas un abandon, pas un renonciation, mais une demi-résignation à continuer**.
+La chanson la plus célèbre de cet album est [〈Est-ce que le beau pourrait m'arriver ?〉](https://www.youtube.com/watch?v=n7xF4UYrkq8) : le titre lui-même utilise une forme passive. Il ne s'agit pas de « je vais chercher », mais de « est-ce que cela peut m'arriver ». Ce choix grammatical a capturé avec précision l'état d'esprit d'une génération pendant la pandémie de COVID : **pas de résignation totale, pas d'abandon, mais une progression par demi-mesure**.
 
-Le contexte de création de cette chanson est crucial : **ARNY l'a écrite en 2017, au plus bas de sa vie**.[^2] 2017 a été une année très difficile pour KST — la réponse du marché n'a pas été à la hauteur de leurs attentes, le sentiment d'accomplissement de leur ancienne carrière de groupe commençait à s'estomper, le nouveau groupe n'était pas encore stable. Résultat : cette chanson à la voix passive est devenue leur deuxième apogée.
+Le contexte de création est crucial : **ARNY l'a écrite en 2017, lors de sa période la plus difficile**. [^2] L'année 2017 fut éprouvante pour KST : les réactions du marché n'étaient pas à la hauteur des attentes, le sentiment d'accomplissement de ses anciens projets s'effaçait et le nouveau groupe n'était pas encore stable. Résultat, cette chanson empreinte de passivité est devenue leur second sommet.
 
-_Succession_ contient aussi deux autres titres phares : [〈Bavardage〉](https://www.youtube.com/watch?v=ABbDXVsgRk8) écrit le chaos de l'époque sous forme de絮语 oppressant proche du rap ; [〈Hi There〉](https://www.youtube.com/watch?v=gnL-bVDf7Tc) est un arc émotionnel de 7 minutes, passant d'un murmure doux à un cri intense, avec une phrase dans les paroles : « Ce qui est passé, ce n'est pas la jeunesse. »[^7]
+L'album _Gengdie_ comprend deux autres œuvres maje<0xB9>ures : [〈Lala〉](https://www.youtube.com/watch?v=ABbDXVsgRk8), qui utilise un flux de paroles oppressant proche du rap pour décrire le chaos de l'époque ; et [〈Hi There〉](https://www.youtube.com/watch?v=gnL-bVDf7Tc), une progression émotionnelle de 7 minutes, allant d'un monologue doux à des cris intenses, avec cette phrase : « Ce n'est pas la jeunesse qui s'en va. » [^7]
 
-Un critique a plus tard dressé une comparaison précise entre KST et No Party for Cao Dong, émergé la même année :
+Les critiques ont plus tard établi une comparaison précise entre KST et _No Party for Cao Dong_, qui a émergé la même année :
 
-> « Si No Party for Cao Dong est la vingtaine démunie (_Ugly Man_), _Les Échoués_ de Constant & Change est le No Party dix ans plus tard — après avoir traversé des joies et des peines réelles, avec des opinions mais qui hésite encore à les exprimer. »[^8]
+> « Si Cao Dong est la vingtaine sans rien (〈Chou Nu Er〉), le KST de 〈Géquian de Ren〉 est le Cao Dong de dix ans plus tard — doté d'une perspective forgée par les joires et les peines réelles, mais qui retient parfois ses mots. » [^8]
 
-Cette comparaison est essentielle : **No Party est tourné vers la colère extérieure, KST vers l'acceptation intérieure**. Ces deux postures sont des émotions authentiques de la musique indépendante taïwanaise après 2016.
+Cette comparaison est essentielle : **Cao Dong exprime la colère vers l'extérieur, KST exprime l'acceptation vers l'intérieur**. Ces deux postures représentent les émotions authentiques de la musique indépendante taïwanaise après 2016.
 
-### De deux spectateurs au Legacy à cinq mille au Taipei Music Center
+### Du Legacy à deux personnes au Taipei Music Center pour 5 000
 
-Le 2 septembre 2023, salle de 5 000 places au Taipei Music Center.[^1]
+Le 2 septembre 2023, Taipei Music Center, salle de 5 000 places. [^1]
 
-C'est la première fois en 10 ans d'existence que le groupe se produit sur une scène de cette envergure. Les billets se sont vendus. Mais plus important que le box-office, ce concert a marqué leur **première utilisation de la technologie XR pour créer une expérience immersive**, en collaboration avec la troupe de théâtre Yayuen pour la scénographie.[^1] La raison de cette mise à jour technique n'était pas de montrer « qu'on est aussi capables de faire de grandes scènes », mais un objectif précis : visualiser le concept central de l'album _Ligne Somnambule_ — **un chemin de fer qui a cessé de circuler mais qui continue de rouler vers l'inconnu**.
+C'est la première fois en dix ans que le groupe occupe une scène de cette envergure. Les billets sont épuisés. Mais plus important que la billetterie, ils ont utilisé pour la première fois la **technologie XR pour créer une expérience immersive**, en collaboration avec la troupe de théâtre Yueyan pour la scénographie. [^1] Ce choix technique n'était pas une démonstration de force, mais visait un but précis : matérialiser le concept central de l'album _Mianyuexian_ — **une voie ferrée dont la mission est terminée, mais qui continue de rouler vers l'inconnu**.
 
-Le 31 août 2024, ils ont reproduit le même dispositif au Haiyin Hall du Kaohsiung Music Center — premier grand concert solo à Kaohsiung.[^9] Production par l'équipe FREES (dirigée par Er Ma), « tout nouvel univers visuel Ligne Somnambule ». Le 28 mars 2025, la dernière étape de la tournée mondiale _Ligne Somnambule_ a eu lieu au MacPherson Stadium à Hong Kong, clôturant un parcours de 1,5 an.[^10]
+Le 31 août 2024, ils ont transposé cette installation au Kaohsiung Music Center (Hall Haiyin) — leur premier grand concert à Kaohsiung. [^9] Produit par l'équipe FREES (dirigée par Er Ma), avec une « toute nouvelle esthétique visuelle pour Mianyuexian ». Le 28 mars 2025, la fin de la tournée mondiale _Mianyuexian_ se déroulera au Macau Hall à Hong Kong, clôturant un voyage de 1,5 an. [^10]
 
-Du LiveHouse au Taipei Music Center, du Taipei Music Center au Kaohsiung Music Center, de Taïwan à Hong Kong — cette courbe de croissance a pris dix ans exactement. Comparée aux chanteurs grand public de la pop sinophone, cette vitesse est lente. Mais KST n'a jamais voulu aller vite.
+Du LiveHouse au Taipei Music Center, de Taipei à Kaohsiung, de Taïwan à Hong Kong — cette courbe de croissance a pris dix ans. Comparé aux artistes de la pop mandarine mainstream, ce rythme est lent. Mais KST n'a jamais cherché la vitesse.
 
-### La ligne forestière abandonnée d'Alishan
+### La ligne ferroviaire abandonnée d'Alishan
 
-Le nom de l'album _Ligne Somnambule_ (2023) a été proposé par **la batteuse Gail**.[^11]
+Le nom de l'album _Mianyuexian_ (2023) est une proposition de **la batteuse Xiaomi**. [^11]
 
-La Ligne Somnambule est une branche du chemin de fer forestier d'Alishan, reliant la gare d'Alishan à la gare de Somnambule. Elle a cessé de circuler en 1983 à cause d'un effondrement ; certaines sections ont été restaurées, d'autres sont devenues un sentier de randonnée populaire. Pour une passionnée de photographie, surtout de ruines comme Gail, ce chemin de fer est une image familière : **une voie dont la mission est terminée mais qui continue de rouler vers une destination inconnue**.
+La ligne _Mianyue_ est une branche du chemin de fer forestier d'Alishan, reliant la gare d'Alishan à celle de Mianyue. Fermée en 1983 suite à des éboulements, certaines sections ont été restaurées tandis que d'autres sont devenues des sites de randonnée populaires. Pour Xiaomi, passionnée de photographie de ruines, cette voie est une image familière : **un chemin dont la mission est terminée, mais qui s'élance toujours vers une destination inconnue**.
 
-KST a élargi cette image en un thème d'album entier : **un groupe de dix ans qui a accompli la mission de « prouver sa valeur », et maintenant, où va-t-il ?**
+KST a élargi cette image au thème de l'album : **un groupe de dix ans a terminé sa mission de « faire ses preuves », où va-t-il maintenant ?**
 
-Cette maturité dans l'autopositionnement est une question que la plupart des groupes indépendants taïwanais de dix ans n'osent pas se poser. La plupart des groupes se séparent au bout de dix ans, ou bien entrent dans un mode de « maintien du public existant ». KST a choisi une troisième voie : **reconnaître que l'ancienne mission est accomplie, puis rouler vers une nouvelle direction**.
+Cette maturité dans l'auto-positionnement est une question que peu de groupes indépendants taïwanais de dix ans d'existence osent poser. La plupart se dissolvent après dix ans, ou entrent en mode « maintien de la base de fans ». KST a choisi une troisième voie : **admettre que les anciennes missions sont accomplies pour s'élancer vers de nouveaux horizons**.
 
-📝 Note du conservateur : 〈Ligne Somnambule〉 est une pièce purement instrumentale, sans voix, de post-rock pur. Le groupe annonce par le seul instrumentarium : nous avons dépassé la phase où il fallait « prouver qui nous sommes par des paroles », maintenant nous allons parler par le son lui-même.
+📝 Note du commissaire : 〈Mianyuexian〉 est une œuvre post-rock pure, sans voix. Le groupe utilise l'instrumentation seule pour déclarer : nous avons dépassé le stade où les paroles prouvent qui nous sommes ; maintenant, c'est le son lui-même qui parle.
 
-### Ce n'est pas la persévérance, c'est le plaisir
+### Ce n'est pas de la persévérance, c'est du plaisir
 
-Si une seule phrase pouvait résumer pourquoi KST a duré 10 ans, pourquoi chaque album a évolué, pourquoi le groupe ne s'est pas séparé — le bassiste SionC a dit :
+Si l'on devait résumer en une phrase pourquoi KST a tenu 10 ans, pourquoi chaque album évolue et pourquoi ils ne se sont pas séparés, il faudrait citer le bassiste Jin Mao :
 
-> « Un groupe ne tient pas par la persévérance, si c'est plus amusant, il se sépare. »[^12]
+> « Un groupe ne tient pas par la persiment, il se dissout quand il n'est plus amusant. » [^12]
 
-Cette phrase n'est ni une plainte ni une plaisanterie, c'est la philosophie réelle d'un groupe qui a traversé 10 ans. Il a ajouté une autre phrase en complément :
+Ce n'est ni une plainte, ni de l'humour, mais la véritable philosophie d'un groupe qui a traversé une décennie. Il a ajouté :
 
-> « Soit on y prend du plaisir, soit on y gagne de l'argent, on ne peut pas ne rien obtenir des deux côtés, sinon on ne fait que se faire exploiter par les labels. »[^12]
+> « Soit on profite de l'aventure, soit on gagne de l'argent ; on ne peut pas échouer sur les deux fronts, sinon on ne fera que se faire exploiter par les maisons de disques. » [^12]
 
-Cette dichotomie entre argent et plaisir est rarement abordée publiquement par les groupes indépendants. La plupart des groupes idéalisent leur pauvreté, ou bien façonnent leur succès comme « le sens prime sur l'argent ». SionC énonce clairement les règles du jeu : **faire un groupe est un travail d'adulte, on ne peut pas être malheureux et ne pas gagner d'argent en même temps**.
+Cette distinction entre argent et plaisir est rarement discutée ouvertement dans le milieu indépendant. La plupart des groupes romantisent leur pauvreté ou présentent le succès comme « le sens avant l'argent ». Jin Mao pose les règles du jeu clairement : **faire de la musique est un travail d'adulte, on ne peut pas être à la fois malheureux et sans revenus**.
 
-Ce pragmatisme a la même racine que les 20 ans d'expérience d'ARNY — ils ont dépassé le stade où ils avaient besoin de se romantiser.
+Ce pragmatisme partage la même racine que les 20 ans d'expérience d'ARNY — ils ont dépassé le stade où il est nécessaire de romantiser sa propre existence.
 
-En 2025, SionC a aussi fondé son propre label « Wonder Water » (忘憂水), Creed l'ayant rejoint.[^13] Ce n'est pas un départ du groupe, mais une extension d'activité — le groupe continue, mais ils commencent à faire du travail dans l'industrie musicale en dehors du groupe.
+En 2025, Jin Mao a fondé son propre label « Wonder Water » (Wangyoushui), rejoint par Creed. [^13] Ce n'est pas une séparation, mais une extension de leurs activités — le groupe continue, mais ils commencent à travailler dans l'industrie musicale au-delà du cadre du groupe.
 
-### Le No Party dix ans plus tard
+### Le "Cao Dong" de dix ans plus tard
 
-Revenons à la phrase du critique : « KST est le No Party dix ans plus tard. »[^8]
+Revenons à la citation du critique : « KST est le Cao Dong de dix ans plus tard. » [^8]
 
-La justesse de cette phrase réside dans le fait qu'elle dit deux choses à la fois : **KST et No Party appartiennent à la même génération musicale indépendante née en 2016, mais la musique de KST est l'observation de No Party poussée dix ans plus loin**. No Party écrit la colère des jeunes qui entrent dans la société ; KST écrit l'impuissance des jeunes qui travaillent depuis dix ans.
+La précision de cette phrase réside dans le fait qu'elle dit deux choses : **KST appartient à la même génération de musique indépendante qui a explosé en 2016 que Cao Dong, mais la musique de KST est l'observation de Cao Dong dix ans après**. Cao Dong écrit la colère des jeunes venant d'entrer dans la société ; KST écrit l'impuissance des jeunes ayant travaillé pendant dix ans.
 
-Les deux postures sont des états de vie authentiques des travailleurs taïwanais — juste à des moments différents. Le public de 〈La Grande Bourrasque〉 deviendra dans 10 ans le public de 〈Les Échoués〉. Ces deux groupes ne sont pas rivaux, mais **deux étapes d'une même génération**.
+Ces deux postures sont les états réels de la vie professionnelle à Taïwan — seule la chronologie diffère. Le public de 〈Da Feng Chui〉 deviendra celui de 〈Géquian de Ren〉 dans dix ans. Ces deux groupes ne sont pas rivaux, ils sont **les deux phases d'une même génération**.
 
-En 2024, KST sort le nouveau single 〈Glace〉 en collaboration avec Ch'en Chi-ch'en et Jou Ta — Ch'en Chi-ch'en a écrit les paroles. C'est la première fois que KST collabore avec une chanteuse de premier plan de la pop sinophone. L'évaluation de Ch'en Chi-ch'en sur les paroles de Gail : « Les mots qu'elle a écrits sont parfaits ! La précision du vocabulaire a donné à la chanson une force de renaissance. »[^13]
+En 2024, KST a sorti le single 〈Bing〉 (Glace) en collaboration avec Cheer Chen et Jude Chiu — Cheer Chen a écrit les paroles. C'est la première fois que KST collabore avec des figures majeés de la pop mandarine. Le compliment de Cheer Chen envers Xiaomi : « Ses paroles sont parfaites ! Un usage tranchant des mots qui donne à la chanson une force de renaissance. » [^13]
 
-### Un album pour les échoués
+### Un album écrit pour ceux qui échouent
 
-De 2 spectateurs au Legacy en 2013 à 5 000 personnes au Taipei Music Center en 2023, 5 000 au Kaohsiung Music Center en 2024, MacPherson Stadium à Hong Kong en 2025 — Constant & Change a parcouru 10 ans.
+De deux spectateurs au Legacy en 2013, aux 5 000 personnes du Taipei Music Center en 2023, puis 5 000 à Kaohsiung en 2024, et enfin au Macao Hall de Hong Kong en 2025 — KST a parcouru 10 ans.
 
-Pas de moment viral, pas de célébrité par les variétés, pas de bande originale de drama télévisé. Juste quatre musiciens d'âge mûr (ARNY avec 20 ans d'expérience musicale, Creed guitariste et chanteur, la vision commerciale pragmatique de SionC, Gail dont le pouce ne peut se plier mais qui continue de jouer) + un ancien membre parti (VJ Chi-tai, parti en juin 2022) + un album après l'autre, toujours meilleurs.
+Il n'y a pas eu d'instant de gloire soudaine, ni de succès télévisuel, ni de générique de drama. Il y a quatre musiciens d'âge mûr (ARNY et ses 20 ans de carrière, Creed guitariste et chanteur, le pragmatisme de Jin Mao, la résilience de Xiaomi) + un ancien membre (le VJ Qi Tai, parti en juin 2022) + des albums de plus en plus aboutis.
 
-Ils laissent derrière eux trois albums : un sur l'échouement (2016, _Les Échoués_), un sur la succession (2020, _Succession_), un sur l'avenir inconnu (2023, _Ligne Somnambule_) — plus 〈Glace〉 en collaboration avec Ch'en Chi-ch'en en 2024.
+Ils laissent derrière eux trois albums : un sur l'échec (_Géquian de Ren_, 2016), un sur le changement (_Gengdie_, 2020), et un sur l'avenir inconnu (_Mianyuexian_, 2023) — auxquels s'ajoute 〈Bing〉 (2024) avec Cheer Chen.
 
-Le nom du groupe vient d'un vieux postulat d'Héraclite : **tout coule, rien ne demeure**. Ils ont prouvé par 10 ans de travail qu'Héraclite avait raison — la seule chose qui ne change pas, c'est que tout change toujours.
+Le nom du groupe vient d'un ancien principe d'Héraclite : **tout coule, rien ne demeure**. En dix ans de travail, ils ont prouvé qu'Héraclite avait raison — la seule chose qui ne change pas, c'est le changement perpétuel.
 
-Et cette Ligne Somnambule d'Alishan, dans leurs chansons, continue de rouler.
+Et cette ligne ferroviaire de _Mianyue_, dans leurs chansons, continue de rouler.
 
-**Pour aller plus loin** :
+**Lecture complémentaire :**
 
-- [No Party for Cao Dong](/people/草東沒有派對) — Groupe indépendant émergé en 2016, écrit la colère de ceux qui entrent dans la société ; KST écrit l'échouement dix ans plus tard — deux étapes d'une même génération
-- [Waa Wei](/people/魏如萱) — Appartient au même écosystème musical indépendant des années 2010, chanteuse passant par la voix plutôt que par le post-rock
-- [Cicada](/people/Cicada) — Post-rock purement instrumental, sans voix, formant un contraste avec le « post-rock + voix » de KST
-- [Crowd Lu](/people/盧廣仲) — Une autre voie de la musique indépendante : un auteur-compositeur-interprète ayant traversé les trois grandes cérémonies de prix
-- [Musique pop et Golden Melody Awards](/music/金曲獎) — Les coordonnées scéniques de la nomination de KST aux Golden Melody Awards (32e édition) dans la catégorie Meilleur groupe
-- [Musique indépendante taïwanaise](/music/台灣獨立音樂) — La généalogie de la génération musicale indépendante, de Natural Q à KST, No Party et Accusefive
-- [Musique pop taïwanaise](/music/台灣流行音樂) — L'environnement de l'industrie de la musique pop sinophone
+- [No Party for Cao Dong](/people/草東沒有派對) — Groupe indépendant émergé en 2016, exprime la colère de la jeunesse ; KST écrit sur l'échec dix ans plus tard — deux phases d'une même génération.
+- [Hsü Wei-hsuan](/people/魏如萱) — Chanteuse de la scène indépendante des années 2010, privilégiant la voix au post-rock.
+- [Cicada](/people/Cicada) — Post-rock instrumental pur, en contraste avec le style "post-rock + voix" de KST.
+- [Lu Guang-zhong](/people/盧廣仲) — Une autre voie de la musique indépendante : un artiste polyvalent récompensé par les trois grands prix.
+- [Golden Melody Awards](/music/金曲獎) — Le cadre institutionnel où KST a été nommé au 32e Golden Melody Awards.
+- [Musique indépendante de Taïwan](/music/台灣獨立音樂) — La généalogie de la scène indépendante, de Natural捲 à KST, Cao Dong et Accuse シヴァ。
+- [Musique populaire de Taïpunk](/music/台灣流行音樂) — L'environnement de l'industrie de la pop mandarine.
 
 ## Références
 
-[^1]: [Concert de 5 000 personnes de Constant & Change au Taipei Music Center en 2023 — CNA](https://www.cna.com.tw/news/amov/202308110046.aspx) — Le concert du dixième anniversaire de _Ligne Somnambule_ a eu lieu le 2 septembre 2023 au Taipei Music Center, le plus grand concert solo depuis la formation du groupe ; première utilisation de la technologie XR pour une expérience immersive, collaboration avec la troupe Yayuen ; discours d'ARNY en montant sur scène : « De 2 spectateurs à 5 000 personnes, ce chemin a pris 10 ans. »
+[^1]: [Concert de KST au Taipei Music Center en 2023 - CNA](https://www.cna.com.tw/news/amov/202308110046.aspx) — Le concert du 10e anniversaire de _Mianyuexian_ s'est tenu au Taipei Music Center ; plus grand concert de l'histoire du groupe ; utilisation de la technologie XR et collaboration avec la troupe Yueyan ; déclaration d'ARNY : « De deux spectateurs à 5 000 personnes, j'ai parcouru ce chemin pendant 10 ans. »
 
-[^2]: [Parcours et carrière musicale d'ARNY Wu Ying-ran — Officiel de Activator Co.](https://www.facebook.com/ActivatorCoLtd/) — ARNY né aux Philippines, grandi à Taïwan ; plus de 20 ans d'expérience musicale incluant production, arrangement, composition de musiques de films ; anciens groupes / expériences live : guitare de Star Berryz, bass de Fire EX. (2006), guitare live de Huang Te / Kuo Tsai-chieh / Wan Fang (2012) ; 〈Est-ce que quelque chose de bien pourrait m'arriver〉 écrit en 2017, au plus bas de sa vie.
+[^2]: [Parcours musical et background d'ARNY (Wu Ying-ran) - Qianhouzi Official](https://www.facebook.com/ActivatorCoLtd/) — ARNY est né aux Philippines et a grandi à Taïwan ; 20 ans d'expérience (producteur, arrangeur, compositeur) ; ancien guitariste de Strawberry Savior, bassiste de Fire Swatter (2006), guitariste pour Huang Jie / Guo Cai-jie / Wanfang (2012) ; 〈Est-ce que le beau pourrait m'arriver ?〉 écrit en 2017 lors de sa période difficile.
 
-[^3]: [Gail Chang Yi-yun souffrant de polyarthrite rhumatoïde mais continuant de jouer — Interview du dixième anniversaire de KST par YSOLIFE](https://ysolife.com/kst-10th-anniversary-interview/) — La batteuse Gail (Chang Yi-yun), passionnée de photographie, surtout de ruines, a une usine tatouée sur la main ; il y a 2 ans, lors de la production d'un album, elle a découvert qu'elle souffrait de polyarthrite rhumatoïde, à ce jour son pouce ne peut toujours pas se plier mais elle continue de se produire ; proposante du concept de l'album _Ligne Somnambule_.
+[^3]: [Xiaomi (Zhang Yi-yun) continue de jouer malgré l'arthrite rhumatoïde - Interview 10e anniversaire YSOLIFE](https://ysolife.com/kst-10th-anniversary-interview/) — La batteuse Xiaomi (Gail/Zhang Yi-dessus) est passionnée de photographie de ruines, avec une usine tatouée sur la main ; a découvert son arthrite il y a 2 ans, joue malgré l'impossibilité de plier le pouce ; initiatrice du concept de l'album _Mianyuexian_.
 
-[^4]: [Sortie de l'album _Les Échoués_ et double version du clip — BIOS monthly](https://www.biosmonthly.com/article/8381) — Sortie le 16 décembre 2016 au Legacy Taipei ; les paroles « La vie engourdie, habituée à la vie que je déteste / La vie engourdie, habituée à être nul » sont devenues un hymne pour les travailleurs ; le clip de 〈Les Échoués〉 existe en double version : version documentaire en noir et blanc du réalisateur primé aux Golden Horse Awards Su Che-hsien + version dramatique passionnée du jeune réalisateur Tseng Wei-yu (les membres jouant pour la première fois la comédie).
+[^4]: [Sortie de l'album 《Géquian de Ren》 et deux versions du clip - BIOS monthly](https://www.biosmonthly.com/article/8381) — Sorti le 16/12/2016 au Legacy Taipei ; les paroles sont devenées un hymne pour les travailleurs ; deux versions du clip : version documentaire noir et blanc (Su Zhe-xian) et version dramatique (Zeng Wei-yu).
 
-[^5]: [Contexte d'écriture de 〈Les Échoués〉 — Reportage de Blow sur la sortie du premier album](https://blow.streetvoice.com/31294/) — Le groupe explique la motivation d'écriture de 〈Les Échoués〉 : « Nous savons tous ce qu'il faudrait faire pour que la vie change vraiment, mais nous restons habituellement dans notre zone de confort, trouvant des excuses évidentes pour ne pas avancer. » Un diagnostic de l'auto-tromperie de l'homme moderne.
+[^5]: [Contexte d'écriture de 〈Géquian de Ren〉 - Rapport sur le lancement de l'album Blow](https://blow.streetvoice.com/31294/) — Le groupe explique la motivation : « Nous savons ce qu'il faut faire pour changer, mais nous restons dans notre zone de confort par habitude. » Diagnostic de l'auto-tromperie moderne.
 
-[^6]: [Album _Succession_ et nomination aux Golden Melody Awards (32e) — Medium, récit de Tom Phan](https://medium.com/tom-phan-%E7%94%A8%E7%9C%BC%E7%9D%9B%E8%B5%B0%E8%B7%AF%E7%9A%84%E4%BA%BA/%E6%9B%B4%E8%BF%AD-%E5%BA%B7%E5%A3%AB%E5%9D%A6%E7%9A%84%E8%AE%8A%E5%8C%96%E7%90%83-%E5%94%AF%E4%B8%80%E4%B8%8D%E8%AE%8A%E7%9A%84%E5%B0%B1%E6%98%AF%E8%AE%8A-14b52f28bfdd) — Les quatre titres phares de _Succession_ (2020) — 〈Bavardage〉, 〈Désolé, je n'ai pas pu tenir ma promesse〉, 〈Hi There〉, 〈Est-ce que quelque chose de bien pourrait m'arriver〉 — définissent le son médian du groupe ; nomination aux 32e Golden Melody Awards dans la catégorie Meilleur groupe (remportée par Fire EX. cette année-là).
+[^6]: [Album 《Gengdie》 et nomination aux 32e Golden Melody Awards - Medium](https://medium.com/tom-phan-%E7%94%A8%E7%9C%BC%E7%9D%9B%E8%B5%B0%E8%B7%AF%E7%9A%84%E4%BA%BA/%E6%9B%B4%E8%BF%AD-%E5%BA%B7%E5%A3%AB%E5%9D%A6%E7%9A%84%E8%AE%8A%E5%8C%96%E7%90%83-%E5%94%AF%E4%B8%80%E4%B8%8D%E8%AE%8A%E7%9A%84%E5%B0%B1%E6%98%AF%E8%AE%8A-14b52f28bfdd) — Les titres 〈Lala〉, 〈Désolé, je ne peux pas accepter ce que tu demandes〉, 〈Hi There〉 et 〈Est-ce que le beau pourrait m'arriver ?〉 définissent le son de la période médiane ; nomination au prix du meilleur groupe (remporté par Fire Swatter).
 
-[^7]: [Analyse de la structure de 7 minutes de 〈Hi There〉 — Medium](https://medium.com/tom-phan-%E7%94%A8%E7%9C%BC%E7%9D%9B%E8%B5%B0%E8%B7%AF%E7%9A%84%E4%BA%BA/) — Accords de 〈Hi There〉 : F#m-D7-A-F#m7 ; d'un murmure doux en ouverture → passage de cri intense ; paroles « Ce qui est passé, ce n'est pas la jeunesse » ; structure d'arc émotionnel de 7 minutes.
+[^7]: [Analyse structurelle de 〈Hi There〉 (7 minutes) - Medium](https://medium.com/tom-phan-%E7%94%A8%E7%9C%BC%E7%9D%9B%E8%B5%B0%E8%B7%AF%E7%9A%84%E4%BA%BA/) — Progression harmonique F#m-D7-A-F#m7 ; du monologue doux vers des cris intenses ; paroles « Ce n'est pas la jeunesse qui s'en va ».
 
-[^8]: [Comparaison critique entre KST et No Party for Cao Dong — The News Lens](https://www.thenewslens.com/article/186214) — Comparaison critique clé : « Si No Party for Cao Dong est la vingtaine démunie (_Ugly Man_), _Les Échoués_ de Constant & Change est le No Party dix ans plus tard — après avoir traversé des joies et des peines réelles, avec des opinions mais qui hésite encore à les exprimer. » Les deux groupes ayant émergé en 2016 définissent un tournant dans la musique indépendante taïwanaise.
+[^8]: [Comparaison critique KST vs No Party for Cao Dong - The News Lens](https://www.thenewslens.com/article/186214) — Comparaison clé : « Si Cao Dong est la vingtaine sans rien, le KST de 〈Géquian de Ren〉 est le Cao Dong de dix ans plus tard... ».
 
-[^9]: [31 août 2024, Haiyin Hall du Kaohsiung Music Center — Kktix officiel de KST](https://i-chen.kktix.cc/) — 31 août 2024 à 19 h 30 au Haiyin Hall du Kaohsiung Music Center, premier grand concert solo du groupe à Kaohsiung ; tarifs : debout 2 800 / assis 1 200-2 500 ; production par l'équipe FREES (dirigée par Er Ma), tout nouvel univers visuel Ligne Somnambule.
+[^9]: [Kaohsing Music Center Hall Haiyin - KST Official Kktix](https://i-chen.kktix.cc/) — 31/08/2024 à Kaohsing ; premier grand concert à Kaohsiung ; prix : debout 2 800 / assis 1 200-2 500 ; production par l'équipe FREES.
 
-[^10]: [28 mars 2025, dernière étape de la tournée mondiale au MacPherson Stadium de Hong Kong — Instagram officiel de KST](https://www.instagram.com/kst_officials/) — 28 mars 2025 à 20 h au MacPherson Stadium de Hong Kong, dernière étape de la tournée mondiale _Ligne Somnambule_, 38 Nelson Street, Mong Kok, Kowloon ; tarifs : HK$488-688 ; concert de clôture d'un parcours de 1,5 an.
+[^10]: [Fin de la tournée mondiale à Hong Kong (Macau Hall) - KST IG](https://www.instagram.com/kst_officials/) — 28/03/2025 à Hong Kong ; fin d'un voyage de 1,5 an.
 
-[^11]: [Origine du choix de _Ligne Somnambule_ — Interview de Sound of Life](https://zh.soundoflife.com/blogs/people/kst-track-to-sleeping-moon-concert-interview) — La batteuse Gail a proposé d'utiliser la « Ligne Somnambule », chemin de fer forestier abandonné d'Alishan, comme thème de l'album ; ce chemin de fer a cessé de circuler en 1983 à cause d'un effondrement, certaines sections sont devenues un sentier de randonnée populaire ; le groupe en a fait la métaphore d'une « voie dont la mission est terminée mais qui continue de rouler vers un voyage inconnu ».
+[^11]: [Origine du thème 《Mianyuexian》 - Sound of Life Interview](https://zh.soundoflife.com/blogs/people/kst-track-to-sleeping-moon-concert-interview) — Proposition de la batteuse Xiaomi basée sur la ligne ferroviaire abandonnée d'Alishan ; métaphore d'une mission terminée qui continue vers l'inconnu.
 
-[^12]: [Philosophie fondatrice de SionC — Interview du dixième anniversaire de KST par BIOS monthly](https://www.biosmonthly.com/article/11333) — Citation clé du bassiste SionC : « Un groupe ne tient pas par la persévérance, si c'est plus amusant, il se sépare » + « Soit on y prend du plaisir, soit on y gagne de l'argent, on ne peut pas ne rien obtenir des deux côtés, sinon on ne fait que se faire exploiter par les labels. » + Définition du post-rock : « Le "post" signifie changement et progrès ».
+[^12]: [Philosophie de création de Jin Mao - BIOS monthly Interview 10e anniversaire](https://www.biosmonthly.com/article/11333) — Citation clé de Jin Mao (SionC) : « Un groupe ne tient pas par la persévérance, il se dissout quand il n'est plus amusant » + « Soit on profite, soit on gagne, sinon on est exploité ».
 
-[^13]: [Nouveau single 2024 〈Glace〉 × Ch'en Chi-ch'en × Jou Ta — VERSE](https://www.verse.com.tw/article/kst-constant-and-change-kpmc-2024) — En 2024, KST sort le nouveau single 〈Glace〉, en collaboration avec Ch'en Chi-ch'en et Jou Ta ; thème : obsession et perfectionnisme obsessionnel ; évaluation de Ch'en Chi-ch'en sur les paroles de Gail : « Les mots qu'elle a écrits sont parfaits ! La précision du vocabulaire a donné à la chanson une force de renaissance. » SionC fonde le nouveau label « Wonder Water » (忘憂水) en 2025, Creed le rejoint.
+[^13]: [Nouveau single 2024 〈Bing〉 × Cheer Chen × Jude Chiu - VERSE](https://www.verse.com.tw/article/kst-constant-and-change-kpmc-2024) — Collaboration avec Cheer Chen et Jude Chiu ; thème de l'obsession et du perfectionnisme ; compliment de Cheer Chen sur les paroles de Xiaomi. Jin Mao fonde le label Wonder Water en 2025.
 
-[^14]: [Constant & Change — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%BA%B7%E5%A3%AB%E5%9D%A6%E7%9A%84%E8%AE%8A%E5%8C%96%E7%90%83) — Groupe formé à Taipei en 2013 ; membres actuels : ARNY (Wu Ying-ran) chant guitare, Creed (Chao Tsu-yi) guitare, SionC (Chen Yu-hsiang) basse, Gail (Chang Yi-yun) batterie ; ancien membre VJ Chi-tai (Hou Chi-tai) parti en juin 2022.
+[^14]: [KST (Kangsi-tan de Bianhuaqiu) - Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%BA%B7%E5%A3%AB%E5%9D%A6%E7%9A%84%E8%AE%8A%E5%8C%96%E7%90%83) — Fondé à Taipei en 2013 ; membres : ARNY, Creed, Jin Mao, Xiaomi ; ancien membre VJ Qi Tai parti en juin 2022.
 
-[^15]: [Page du groupe _Les Échoués_ sur StreetVoice](https://streetvoice.com/ConstantanChange/) — Arrivée sur la plateforme StreetVoice en septembre 2014 ; premier album _Les Échoués_ sorti en décembre 2016 ; réseau social Instagram @kst_officials avec plus de 101 000 abonnés ; chaîne YouTube officielle @kst4815, principale plateforme de diffusion des clips officiels.
+[^15]: [Page StreetVoice pour 《Géquian de Ren》](https://streetvoice.com/ConstantanChange/) — Présence sur StreetVoice depuis 2014 ; premier album en 2016 ; Instagram @kst_officials (101k+ abonnés).
 
-[^16]: [Clip officiel de 〈Ligne Somnambule〉 — YouTube](https://www.youtube.com/watch?v=F5mg14R5BWw) — Le titre éponyme de _Ligne Somnambule_ (2023) est une pièce de post-rock purement instrumentale, sans voix ; le visuel du clip évoque l'imagerie du chemin de fer abandonné d'Alishan ; déclaration de la maturité du groupe, « parlant par le son lui-même ».
+[^16]: [Clip officiel 〈Mianyuexian〉 - YouTube](https://www.youtube.com/watch?v=F5mg14R5BWw) — Œuvre post-rock instrumentale pure ; visuels liés à la voie ferrée d'Alishan.
 
-[^17]: [Clip officiel de 〈Désolé, je n'ai pas pu tenir ma promesse〉 par Hoax — YouTube](https://www.youtube.com/watch?v=grhmRInuUOc) — Titre phare de _Succession_ (2020), l'arrangement rappelle facilement l'écho de _Les Échoués_ (2016) ; éléments rock renforcés, mélodie irrésistible de headbang ; thème de la culpabilité professionnelle et relationnelle.
+[^17]: [Clip officiel 〈Désolé, je ne peux pas accepter ce que tu demandes〉 - YouTube](https://www.youtube.com/watch?v=grhmRInuUOc) — Titre de l'album _Gengdie_ (2020) ; éléments rock puissants ; thèmes de la culpabilité professionnelle et relationnelle.

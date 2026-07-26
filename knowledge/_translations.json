@@ -146,6 +146,7 @@
   "ar/Geography/taiwan-urban-development-and-rural-urban-divide.md": "Geography/台灣都市發展與城鄉差距.md",
   "ar/Geography/tectonic-plates-and-seismic-activity.md": "Geography/台灣板塊運動與地震活動.md",
   "ar/Geography/terrain-and-geology.md": "Geography/地形與地質.md",
+  "ar/Geography/urban-character-and-regional-culture.md": "Geography/城市特色與區域文化.md",
   "ar/Geography/yehliu-geopark.md": "Geography/野柳.md",
   "ar/Geography/yilan-county.md": "Geography/宜蘭縣.md",
   "ar/Geography/yushan-jade-mountain.md": "Geography/玉山.md",
@@ -3712,6 +3713,7 @@
   "id/People/tai-tzu-ying.md": "People/戴資穎.md",
   "id/People/teresa-teng.md": "People/鄧麗君.md",
   "id/People/tony-hsiao-inside-founder.md": "People/蕭上農.md",
+  "id/People/tsai-ing-wen.md": "People/蔡英文.md",
   "id/People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender.md": "People/曹興誠.md",
   "id/People/tzuyu.md": "People/周子瑜.md",
   "id/People/vh-band.md": "People/VH.md",
@@ -6792,5 +6794,6 @@
   "vi/Technology/taiwan-bim-construction-tech.md": "Technology/台灣BIM與營建科技.md",
   "vi/Technology/taiwan-drone-industry.md": "Technology/台灣無人機產業.md",
   "vi/Technology/taiwan-electricity-and-semiconductors.md": "Technology/台灣的電力與半導體.md",
-  "vi/Technology/taiwan-game-jam-community.md": "Technology/台灣Game-Jam社群.md"
+  "vi/Technology/taiwan-game-jam-community.md": "Technology/台灣Game-Jam社群.md",
+  "vi/Technology/taiwan-semiconductor-industry.md": "Technology/半導體產業.md"
 }
