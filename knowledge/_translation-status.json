@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T17:19:41+08:00",
-    "zhCommitHead": "2c5705e80",
+    "lastUpdated": "2026-07-26T17:28:12+08:00",
+    "zhCommitHead": "0c17250bb",
     "totalZh": 868,
     "activeLanguages": [
       "en",
@@ -43,16 +43,16 @@
       },
       "es": {
         "total_zh": 868,
-        "fresh": 727,
-        "stale": 137,
+        "fresh": 729,
+        "stale": 135,
         "metadata_stale": 0,
         "missing": 4,
         "orphan": 0
       },
       "fr": {
         "total_zh": 868,
-        "fresh": 730,
-        "stale": 136,
+        "fresh": 731,
+        "stale": 135,
         "metadata_stale": 0,
         "missing": 2,
         "orphan": 0
@@ -67,26 +67,26 @@
       },
       "id": {
         "total_zh": 868,
-        "fresh": 288,
+        "fresh": 290,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 569,
+        "missing": 567,
         "orphan": 0
       },
       "pt": {
         "total_zh": 868,
-        "fresh": 479,
+        "fresh": 480,
         "stale": 12,
         "metadata_stale": 1,
-        "missing": 376,
+        "missing": 375,
         "orphan": 0
       },
       "hi": {
         "total_zh": 868,
-        "fresh": 367,
+        "fresh": 368,
         "stale": 6,
         "metadata_stale": 2,
-        "missing": 493,
+        "missing": 492,
         "orphan": 0
       },
       "ar": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 868,
-        "fresh": 375,
+        "fresh": 376,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 491,
+        "missing": 490,
         "orphan": 0
       }
     },
@@ -1827,8 +1827,8 @@
           "sourceContentHash": "sha256:6df07f794411626f",
           "sourceBodyHash": "sha256:49c1a63539596208",
           "translatedAt": "2026-07-26T13:23:36+08:00",
-          "translationLastCommit": "6ff21f66",
-          "translationLastModified": "2026-07-24T13:51:01+08:00",
+          "translationLastCommit": "0c17250b",
+          "translationLastModified": "2026-07-26T17:19:41+08:00",
           "inferred": false,
           "footnoteDefs": 55,
           "status": "fresh",
@@ -3235,7 +3235,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Music/indigenous-music-traditions.md",
+          "translatedFrom": "Music/台灣原住民音樂傳統.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:c9aa499e9c84c71a",
+          "sourceBodyHash": "sha256:b2e261c439c4d6f4",
+          "translatedAt": "2026-07-26T17:01:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -23027,7 +23038,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Art/taiwanese-art-education-and-academic-development.md",
+          "translatedFrom": "Art/台灣藝術教育與學院發展.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:352ce3febb583c17",
+          "sourceBodyHash": "sha256:aaeb81e5f1416586",
+          "translatedAt": "2026-07-26T17:01:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -29462,7 +29484,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/where-did-taiwan-moral-education-go.md",
+          "translatedFrom": "Society/台灣的道德課去哪了.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:9e2e35c86cfffed4",
+          "sourceBodyHash": "sha256:def0fbd84e75d95c",
+          "translatedAt": "2026-07-26T17:01:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/where-did-taiwan-moral-education-go.md",
@@ -41081,16 +41114,16 @@
         "fr": {
           "path": "fr/Nature/taiwan-mountains-and-hiking-culture.md",
           "translatedFrom": "Nature/台灣山岳與登山文化.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:e81dd2e1a4ff1dc3",
-          "sourceBodyHash": "sha256:571a99d15e048f22",
-          "translatedAt": "2026-05-17T05:33:00Z",
+          "sourceCommitSha": "6d3808267",
+          "sourceContentHash": "sha256:578491ed43f8d7d0",
+          "sourceBodyHash": "sha256:be3b3f9150c7c64e",
+          "translatedAt": "2026-07-26T13:23:37+08:00",
           "translationLastCommit": "6d380826",
           "translationLastModified": "2026-07-25T15:39:17+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "status": "stale",
-          "reason": "footnote-loss (12→11)"
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -61744,18 +61777,16 @@
         "es": {
           "path": "es/People/san-mao.md",
           "translatedFrom": "People/三毛.md",
-          "sourceCommitSha": "7415dcaae",
-          "sourceContentHash": "sha256:9d4460760fefc9a2",
-          "sourceBodyHash": "sha256:447085e6a89fcf94",
-          "translatedAt": "2026-05-18T05:08:09+08:00",
+          "sourceCommitSha": "512ce94e8",
+          "sourceContentHash": "sha256:423bfa0c83cbe434",
+          "sourceBodyHash": "sha256:5eacf1a20c5ad4bd",
+          "translatedAt": "2026-07-26T16:41:20+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/san-mao.md",
@@ -75040,8 +75071,8 @@
           "sourceContentHash": "sha256:c3100aba8df85cb7",
           "sourceBodyHash": "sha256:fa74581434f67fac",
           "translatedAt": "2026-07-26T13:23:36+08:00",
-          "translationLastCommit": "64d9ae56",
-          "translationLastModified": "2026-07-26T08:48:38+08:00",
+          "translationLastCommit": "0c17250b",
+          "translationLastModified": "2026-07-26T17:19:41+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -75083,7 +75114,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/cheng-wen-chi.md",
+          "translatedFrom": "People/鄭文琦.md",
+          "sourceCommitSha": "64d9ae569",
+          "sourceContentHash": "sha256:c3100aba8df85cb7",
+          "sourceBodyHash": "sha256:fa74581434f67fac",
+          "translatedAt": "2026-07-26T13:23:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/cheng-wen-chi.md",
@@ -86563,7 +86605,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/withdrawal-from-united-nations.md",
+          "translatedFrom": "History/退出聯合國.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:84c16f78fb1c8afd",
+          "sourceBodyHash": "sha256:e02dfcaef9951112",
+          "translatedAt": "2026-07-26T17:01:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/withdrawal-from-united-nations.md",
@@ -91989,8 +92042,8 @@
           "sourceContentHash": "sha256:339ea6f63f12308d",
           "sourceBodyHash": "sha256:13a49441594ebd54",
           "translatedAt": "2026-07-26T13:23:36+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
+          "translationLastCommit": "0c17250b",
+          "translationLastModified": "2026-07-26T17:19:41+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "status": "fresh",
@@ -101980,16 +102033,16 @@
         "es": {
           "path": "es/Culture/ethnic-groups.md",
           "translatedFrom": "Culture/族群（閩南客家原住民外省新住民）.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:5bfd9c2eabdc2883",
-          "sourceBodyHash": "sha256:acd1d73d033867e1",
-          "translatedAt": "2026-05-16T22:35:47Z",
+          "sourceCommitSha": "1febe45b7",
+          "sourceContentHash": "sha256:f2be686b40b1bfa3",
+          "sourceBodyHash": "sha256:85fe560e3164601c",
+          "translatedAt": "2026-07-26T13:23:37+08:00",
           "translationLastCommit": "68c3ec3a",
           "translationLastModified": "2026-05-17T06:37:55+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Culture/ethnic-groups.md",
