@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-27T03:09:24+08:00",
-    "zhCommitHead": "728479845",
+    "lastUpdated": "2026-07-27T03:10:19+08:00",
+    "zhCommitHead": "60321b6ad",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 406,
+        "fresh": 407,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 461,
+        "missing": 460,
         "orphan": 0
       },
       "ru": {
@@ -18816,8 +18816,8 @@
           "sourceContentHash": "sha256:b4fa10553d998dfa",
           "sourceBodyHash": "sha256:6475e91be41d93b4",
           "translatedAt": "2026-07-27T01:30:19+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
+          "translationLastCommit": "60321b6a",
+          "translationLastModified": "2026-07-27T03:09:24+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -22990,7 +22990,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Art/alien-art-centre.md",
+          "translatedFrom": "Art/金馬賓館當代美術館.md",
+          "sourceCommitSha": "209084a3c",
+          "sourceContentHash": "sha256:29f8c92d6f9ec4f0",
+          "sourceBodyHash": "sha256:ab8b8f728e87222a",
+          "translatedAt": "2026-07-27T02:56:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -41694,8 +41705,8 @@
           "sourceContentHash": "sha256:de46b78b6b1ae5fb",
           "sourceBodyHash": "sha256:ba0673429f6e80dd",
           "translatedAt": "2026-07-26T22:27:50+08:00",
-          "translationLastCommit": "0597bc0e",
-          "translationLastModified": "2026-07-23T22:29:23+09:00",
+          "translationLastCommit": "60321b6a",
+          "translationLastModified": "2026-07-27T03:09:24+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
