@@ -134,12 +134,16 @@ def get_lang_translations(lang: str) -> dict:
 
 def detect_body_lang(body: str) -> dict:
     """Count chars by script. Strip footnote definition lines (citations naturally have foreign chars)."""
-    body_lines = []
-    for line in body.split("\n"):
-        if re.match(r"^\[\^.+\]:", line):
-            continue
-        body_lines.append(line)
-    cleaned = "\n".join(body_lines)
+    # 2026-07-26 元掃描發現：此處原本只剝腳註定義行，wikilink target、
+    # markdown 連結、括號音譯對照、書名號作品名、引語全部算進 han 佔比——
+    # 也就是同日修掉的十個假陽性家族在這裡一個都沒修到。它沒被發現只是因為
+    # cross-lang-audit 不在產線熱路徑上（還沒被咬的第十一個）。改用單一來源。
+    import importlib.util as _ilu
+    _spec = _ilu.spec_from_file_location(
+        "_cjkleak", str(Path(__file__).parent / "cjk-leak-check.py"))
+    _cjk = _ilu.module_from_spec(_spec)
+    _spec.loader.exec_module(_cjk)
+    cleaned = _cjk.strip_legit_zones(body)
     latin = len(LATIN_RE.findall(cleaned))
     han = len(HAN_RE.findall(cleaned))
     jp = len(HIRAGANA_KATAKANA_RE.findall(cleaned))

@@ -353,14 +353,14 @@ def main():
     # 早有括號/書名號/引號豁免（cjk-leak-check LEGIT_ZH_SPANS），frontmatter
     # 檢查漏了同一套——模型照 guide 做事反而被判未翻譯。同一把尺原則：
     # 檢查前先剝除同款合法區間（≤30 字上限同源）。
-    import re as _re
-    _LEGIT = [_re.compile(r"[(（][^()（）]{0,30}[)）]"),
-              _re.compile(r"《[^《》]{0,30}》|〈[^〈〉]{0,30}〉"),
-              _re.compile(r"「[^「」]{0,30}」|『[^『』]{0,30}』")]
-    def _strip_legit(s):
-        for rx in _LEGIT:
-            s = rx.sub("", s)
-        return s
+    # 2026-07-26 收斂：本函式早上曾自己複製一份豁免 regex（第三份），
+    # 元掃描時抓到——正是同日修了十次的那個病。改 import 單一來源。
+    import importlib.util as _ilu
+    _spec = _ilu.spec_from_file_location(
+        "_cjkleak", str(Path(__file__).parent / "cjk-leak-check.py"))
+    _cjk = _ilu.module_from_spec(_spec)
+    _spec.loader.exec_module(_cjk)
+    _strip_legit = _cjk.strip_legit_zones
     bad_fields = []
     for f in ("title", "description", "imageAlt"):
         v = en_fm.get(f, "")

@@ -89,6 +89,36 @@ def legit_spans(text: str) -> list:
     return [m.span() for rx in LEGIT_ZH_SPANS for m in rx.finditer(text)]
 
 
+# 連結類：target 必須保留原文才能解析，不是洩漏
+LINK_LIKE_RES = [
+    re.compile(r"\[\[[^\]]*\]\]"),                                    # [[wikilink]]
+    re.compile(r"\[[^\[\]]*(?:\[[^\]]*\][^\[\]]*)*\]\([^)]*\)"),      # [text](url)（容一層巢狀）
+    re.compile(r"https?://\S+"),                                      # 裸 URL
+    re.compile(r"^\[\^[^\]]+\]:.*$", re.M),                           # [^n]: 腳註定義
+]
+
+
+def strip_legit_zones(text: str, drop_frontmatter: bool = False) -> str:
+    """把所有「中文出現在這裡是合法的」區域剝掉，回傳只剩正文的字串。
+
+    2026-07-26 抽出成公開 API。此前每個需要判斷「這段中文算不算洩漏」的工具
+    各自維護一份剝除邏輯：cjk-leak-check 兩個分支、verify-translation 的
+    description 檢查（同日早上我自己複製的第三份）、cross-lang-audit 的中文
+    佔比統計（只剝腳註，其餘全漏）。一天內十個假陽性家族全部源於這種分歧，
+    修好一處另一處照樣誤判——所以判準只能有一份，其他工具 import 這個函式。
+    """
+    body = text
+    if drop_frontmatter and body.startswith("---"):
+        end_fm = body.find("---", 3)
+        if end_fm != -1:
+            body = body[end_fm + 3:]
+    for rx in LINK_LIKE_RES:
+        body = rx.sub("", body)
+    for rx in LEGIT_ZH_SPANS:
+        body = rx.sub("", body)
+    return body
+
+
 def detect_lang(path: Path) -> str:
     parts = path.parts
     if "knowledge" in parts:
