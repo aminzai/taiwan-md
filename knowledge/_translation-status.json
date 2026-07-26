@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T14:56:44+08:00",
-    "zhCommitHead": "ffaa11ae0",
+    "lastUpdated": "2026-07-26T15:05:47+08:00",
+    "zhCommitHead": "f21d6ece7",
     "totalZh": 868,
     "activeLanguages": [
       "en",
@@ -59,10 +59,10 @@
       },
       "vi": {
         "total_zh": 868,
-        "fresh": 162,
+        "fresh": 163,
         "stale": 16,
         "metadata_stale": 1,
-        "missing": 689,
+        "missing": 688,
         "orphan": 0
       },
       "id": {
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 868,
-        "fresh": 461,
+        "fresh": 462,
         "stale": 12,
         "metadata_stale": 1,
-        "missing": 394,
+        "missing": 393,
         "orphan": 0
       },
       "hi": {
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 868,
-        "fresh": 328,
+        "fresh": 330,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 538,
+        "missing": 536,
         "orphan": 0
       },
       "ru": {
@@ -4559,7 +4559,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/mega-financial-holding-global-banking-network.md",
+          "translatedFrom": "Economy/台灣企業：兆豐金控.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:19522eee779cb1b5",
+          "sourceBodyHash": "sha256:b25853bdf381bcc3",
+          "translatedAt": "2026-07-26T14:23:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/mega-financial-holding-global-banking-network.md",
@@ -11925,7 +11936,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Technology/taiwan-drone-industry.md",
+          "translatedFrom": "Technology/台灣無人機產業.md",
+          "sourceCommitSha": "c2412970f",
+          "sourceContentHash": "sha256:9a74d696840dfd44",
+          "sourceBodyHash": "sha256:6b0ed5d3cd521366",
+          "translatedAt": "2026-07-26T13:23:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -54070,8 +54092,8 @@
           "sourceContentHash": "sha256:5bcf40616e842909",
           "sourceBodyHash": "sha256:15c8e50bb3ba07a7",
           "translatedAt": "2026-07-26T12:49:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3f4fa19d",
+          "translationLastModified": "2026-07-26T14:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -54179,8 +54201,8 @@
           "sourceContentHash": "sha256:13c80c1f151f5c3e",
           "sourceBodyHash": "sha256:bf6107b943cdb54e",
           "translatedAt": "2026-07-26T14:23:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3f4fa19d",
+          "translationLastModified": "2026-07-26T14:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -57925,8 +57947,8 @@
           "sourceContentHash": "sha256:e02695ed5dc8f6ea",
           "sourceBodyHash": "sha256:adcefdbac44146e6",
           "translatedAt": "2026-07-26T14:23:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3f4fa19d",
+          "translationLastModified": "2026-07-26T14:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -59569,8 +59591,8 @@
           "sourceContentHash": "sha256:aebfe56ef8181ee0",
           "sourceBodyHash": "sha256:2548692a01191648",
           "translatedAt": "2026-07-26T14:23:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3f4fa19d",
+          "translationLastModified": "2026-07-26T14:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -71777,8 +71799,8 @@
           "sourceContentHash": "sha256:92e1170fe2ebdab8",
           "sourceBodyHash": "sha256:45d6a810707daa5c",
           "translatedAt": "2026-07-26T12:49:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3f4fa19d",
+          "translationLastModified": "2026-07-26T14:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -73242,8 +73264,8 @@
           "sourceContentHash": "sha256:32e758a1acf33e90",
           "sourceBodyHash": "sha256:fb31dbbb24515e69",
           "translatedAt": "2026-07-26T12:49:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3f4fa19d",
+          "translationLastModified": "2026-07-26T14:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -74028,8 +74050,8 @@
           "sourceContentHash": "sha256:981dd62862f57c30",
           "sourceBodyHash": "sha256:6bf98169f185af90",
           "translatedAt": "2026-07-26T12:49:16+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3f4fa19d",
+          "translationLastModified": "2026-07-26T14:56:44+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -84051,7 +84073,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/yuan-xing-cattle-beef-soup-history.md",
+          "translatedFrom": "History/源興牛與牛肉湯的歷史.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ed10e8c11ed48896",
+          "sourceBodyHash": "sha256:4ef8874799781420",
+          "translatedAt": "2026-07-26T14:17:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/History/yuan-xing-cattle-beef-soup-history.md",
@@ -89865,7 +89898,18 @@
           "diffSummary": "+0 -1"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/taiwan-north-korea-relations.md",
+          "translatedFrom": "History/台灣與北朝鮮關係.md",
+          "sourceCommitSha": "5af229e1e",
+          "sourceContentHash": "sha256:6923220eadde819d",
+          "sourceBodyHash": "sha256:4dc13793ac08242f",
+          "translatedAt": "2026-07-26T13:23:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
