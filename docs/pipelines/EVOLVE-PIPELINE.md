@@ -682,14 +682,37 @@ _核心進化：v1.2（單語 zh-TW 進化）→ v2.0（multi-lang sovereignty s
 
 任一即觸發：
 
-| 訊號                          | 量化閾值                                        | 範例                                        |
-| ----------------------------- | ----------------------------------------------- | ------------------------------------------- |
-| **編號膨脹三層深**            | Step X.X.X 出現 + 跳號（如 3c.7 沒 3c.6）       | SPORE-PIPELINE Step 4.5e.iv / 3c.7 跳 3c.6  |
-| **單檔 prose 量級 > 1000 行** | wc -l > 1000                                    | SPORE-PIPELINE 1334 行                      |
-| **多 file 邊界混亂**          | 同 SOP 在兩處 canonical（違反 §指標 over 複寫） | SPORE Step 4.5 vs HARVEST-PIPELINE 重疊     |
-| **prose 規則沒儀器化**        | v1.5+ 累積規則但 plugin 沒同步加                | SPORE 18 條 Step 3c rule 只有 §11 在 plugin |
-| **「我熟了不用讀」現象**      | REFLEXES #15 反覆驗證 ≥ 3 次                    | sporal pipeline 跑 N 次後跳步               |
-| **產品文檔密度比過高**        | SOP 行數 / 產品字數 > 5:1                       | SPORE 1334 行 / 200 字孢子 = 7:1（離群值）  |
+| 訊號                             | 量化閾值                                                                        | 範例                                                   |
+| -------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| **編號膨脹三層深**               | Step X.X.X 出現 + 跳號（如 3c.7 沒 3c.6）                                       | SPORE-PIPELINE Step 4.5e.iv / 3c.7 跳 3c.6             |
+| **單檔 prose 量級 > 1000 行**    | wc -l > 1000                                                                    | SPORE-PIPELINE 1334 行                                 |
+| **多 file 邊界混亂**             | 同 SOP 在兩處 canonical（違反 §指標 over 複寫）                                 | SPORE Step 4.5 vs HARVEST-PIPELINE 重疊                |
+| **prose 規則沒儀器化**           | v1.5+ 累積規則但 plugin 沒同步加                                                | SPORE 18 條 Step 3c rule 只有 §11 在 plugin            |
+| **「我熟了不用讀」現象**         | REFLEXES #15 反覆驗證 ≥ 3 次                                                    | sporal pipeline 跑 N 次後跳步                          |
+| **產品文檔密度比過高**           | SOP 行數 / 產品字數 > 5:1                                                       | SPORE 1334 行 / 200 字孢子 = 7:1（離群值）             |
+| **單站 wall-clock 離群**（v3.7） | newsroom stage-events 實測：某站中位數 wall-clock 佔全程 > 30%，或串行相位 > 10 | REWRITE 三收驗輪串行（22:26→23:09）→ v9.5 大驗證輪合一 |
+| **gate 零戰果**（v3.7）          | 連 5 篇文章 0 catch 的 hard gate／席位                                          | 候選處置：降 WARN／併站／退場（見 §產線成本審視）      |
+
+### 產線成本審視（v3.7 新增；weekly self-evolve 掛載）💰
+
+> **加法有外部尺（品質事故），減法從此也有**（哲宇 2026-07-26 拍板；設計報告
+> [reports/design-rewrite-throughput-2026-07-26.md](../../reports/design-rewrite-throughput-2026-07-26.md) §五 方案 D）。
+> REWRITE 三個月從 72KB 長到 296KB、每篇 12-30 agent，每一波都有品質事故當理由、
+> 沒有一站帶退場條件——器官有 apoptosis，產線的站沒有。本節補上。
+
+每次 `twmd-self-evolve-weekly` 跑一節「產線成本審視」：
+
+1. **取數**：`reports/newsroom/stage-events.jsonl`（v9.5 起真實時間戳）算本週每篇文章
+   per-stage wall-clock 與輪次；編輯室／總編室 review 檔（結構化 schema）算各席位
+   findings 的 accept／defend／noise 比。
+2. **判定**：
+   - 某 gate／席位連 **5 篇 0 accept** → 降 WARN 或併站候選，進 OBSERVER-QUEUE
+     （threshold 調整屬 High-stake #3，哲宇拍板）
+   - 兩席位 findings 重疊率高（同一問題兩席都報）→ 併席候選
+   - lite profile 參數（lane／persona／探針數）對照 lite 文 callout 率重校
+     （per REWRITE-PIPELINE §Run profiles lite 維護條款）
+3. **紀律**：審視只產生「候選＋證據」，不當場動 canonical——減法跟加法走同一條路
+   （證據 → 佇列 → 拍板 → ship）。dashboard 只進彙總不進告警（黃燈路線：先收數據再定閾值）。
 
 ### 第一性原則重組 SOP（7 stage）
 
@@ -831,7 +854,7 @@ done | sort -rn
 
 候選清單（待哲宇拍板）：
 
-- [ ] **REWRITE-PIPELINE.md**（~1500 行 / 多 Stage 子層）— 是否該拆 RESEARCH / WRITING / VERIFY / SHIP？
+- [x] **REWRITE-PIPELINE.md** — v9.0 已拆薄索引＋10 contract（2026-07-16）；v9.5 節流波補大驗證輪／定稿站／lite profile／成本審視（2026-07-26）
 - [ ] **MAINTAINER-PIPELINE.md**（~1200 行）— PR review / Issue triage / contributor onboarding 是否該拆？
 - [ ] **TRANSLATION-PIPELINE.md**（~3.5 版累積）— 多版本 v3.x 是否還需要 4.0 重組？
 - [ ] **EDITORIAL.md**（v5.6）— 5 個子文件已拆但內部章節 inflation？
