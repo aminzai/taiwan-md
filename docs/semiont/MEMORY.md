@@ -5,9 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-07-26
-last_session: '2026-07-26-225759-manual（twmd-finale 第三棒 EVOLVE：人物條目 SEO batch 三源交叉，承接 211001-rewrite-throughput）'
-last_session: '2026-07-26-225759-manual（twmd-finale 第三棒 EVOLVE：人物條目 SEO batch 三源交叉）'
+last_updated: 2026-07-27
+last_session: '2026-07-27-011214-twmd-supporters-weekly（Stage 2 阻塞：執行環境無 Gmail 讀信工具）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -326,3 +325,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-26 | 194415-manual | 苯駢芘食安事件全面 EVOLVE：核心矛盾立在制度事實不碰政治攻防，三路 falsification 查證抓到 5 個真錯誤（誤植引語/404連結/年份誤植等）才 ship | 「試著推翻」的查證心態比「試著確認」可靠，編輯室判 revise 多半是落點缺口不是設計錯 | [→](memory/2026-07-26-194415-manual.md) |
 | 2026-07-26 | 211001-rewrite-throughput | 3 小時病診斷到 v9.5 節流波：跨時代 wall-clock 考古＋六答拍板後全實作（大驗證輪／定稿站 fact-atom-diff／lite 檔／stage-events 成本尺） | 品質有外部尺而成本沒有，是產線只加不減的根；順稿缺的是修復手不是偵測眼 | [→](memory/2026-07-26-211001-rewrite-throughput.md) |
 | 2026-07-26 | 225759-manual | twmd-finale 第三棒 EVOLVE：SC 28d position>10 篩出 9 篇人物條目 SEO batch，GA+SC 雙源確認 CTR 遠低於位置基準，寫入 ARTICLE-INBOX | 舊 note「下次再評」沒人規定何時；重驗才發現紀政 CTR 11.54%→0.72% | [→](memory/2026-07-26-225759-manual.md) |
+| 2026-07-27 | 011214-twmd-supporters-weekly | 第二跑 Stage 2 阻塞：本次執行環境無 Gmail 讀信工具（search_threads/get_message），跟首跑環境不同；checkpoint 不動、無 commit | 「工具不存在」跟「查到 0 筆」是兩種訊號，混報 = 混維度 silent killer | [→](memory/2026-07-27-011214-twmd-supporters-weekly.md) |
