@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-27T02:14:14+08:00",
-    "zhCommitHead": "e67d397f0",
+    "lastUpdated": "2026-07-27T02:31:23+08:00",
+    "zhCommitHead": "19b0a39c0",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -67,42 +67,42 @@
       },
       "id": {
         "total_zh": 869,
-        "fresh": 331,
+        "fresh": 332,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 527,
+        "missing": 526,
         "orphan": 0
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 523,
+        "fresh": 525,
         "stale": 12,
         "metadata_stale": 1,
-        "missing": 333,
+        "missing": 331,
         "orphan": 0
       },
       "hi": {
         "total_zh": 869,
-        "fresh": 409,
+        "fresh": 411,
         "stale": 6,
         "metadata_stale": 2,
-        "missing": 452,
+        "missing": 450,
         "orphan": 0
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 395,
+        "fresh": 399,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 472,
+        "missing": 468,
         "orphan": 0
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 431,
+        "fresh": 432,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 436,
+        "missing": 435,
         "orphan": 0
       }
     },
@@ -4491,8 +4491,8 @@
           "sourceContentHash": "sha256:59a5006dd9b19748",
           "sourceBodyHash": "sha256:ba1854308daac0e3",
           "translatedAt": "2026-07-26T23:43:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "19b0a39c",
+          "translationLastModified": "2026-07-27T02:14:14+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -5494,7 +5494,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-uniform-invoice.md",
+          "translatedFrom": "Economy/發票.md",
+          "sourceCommitSha": "4a923c640",
+          "sourceContentHash": "sha256:3de7677c1cc54d07",
+          "sourceBodyHash": "sha256:1962c2279b937909",
+          "translatedAt": "2026-07-27T01:41:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -6998,7 +7009,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/largan-precision-when-craftsmanship-meets-architectural-revolution.md",
+          "translatedFrom": "Economy/台灣企業：大立光電.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:74469a54ad5b9ae3",
+          "sourceBodyHash": "sha256:4ac8e9cdef3a165c",
+          "translatedAt": "2026-07-26T23:43:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/largan-precision-when-craftsmanship-meets-architectural-revolution.md",
@@ -9690,8 +9712,8 @@
           "sourceContentHash": "sha256:8bed402beaecae31",
           "sourceBodyHash": "sha256:97f9ec5722ee27b9",
           "translatedAt": "2026-07-26T21:33:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "19b0a39c",
+          "translationLastModified": "2026-07-27T02:14:14+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -14295,8 +14317,8 @@
           "sourceContentHash": "sha256:58ac62b3c0ac9558",
           "sourceBodyHash": "sha256:2f938b13f0ca156c",
           "translatedAt": "2026-07-26T21:33:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "19b0a39c",
+          "translationLastModified": "2026-07-27T02:14:14+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -14884,8 +14906,8 @@
           "sourceContentHash": "sha256:692543a60baf3299",
           "sourceBodyHash": "sha256:bb5064886298647d",
           "translatedAt": "2026-07-26T21:33:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "19b0a39c",
+          "translationLastModified": "2026-07-27T02:14:14+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -17008,8 +17030,8 @@
           "sourceContentHash": "sha256:041d66a77659bdef",
           "sourceBodyHash": "sha256:d2c0d3b4dad31bc9",
           "translatedAt": "2026-07-26T21:33:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "19b0a39c",
+          "translationLastModified": "2026-07-27T02:14:14+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -18765,7 +18787,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/mini-taiwan-pulse-civic-tech.md",
+          "translatedFrom": "Technology/mini-taiwan-pulse.md",
+          "sourceCommitSha": "da22dc5b2",
+          "sourceContentHash": "sha256:b4fa10553d998dfa",
+          "sourceBodyHash": "sha256:6475e91be41d93b4",
+          "translatedAt": "2026-07-27T01:41:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -19590,7 +19623,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/taiwan-cybersecurity-industry-development.md",
+          "translatedFrom": "Technology/台灣資安產業發展.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:2d7d8b8a52c2b0ff",
+          "sourceBodyHash": "sha256:11c4d3b5ca02c812",
+          "translatedAt": "2026-07-26T23:43:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/taiwan-cybersecurity-industry-development.md",
@@ -19710,8 +19754,8 @@
           "sourceContentHash": "sha256:d29637a833e9cde7",
           "sourceBodyHash": "sha256:31177a634927a74f",
           "translatedAt": "2026-07-26T21:33:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "19b0a39c",
+          "translationLastModified": "2026-07-27T02:14:14+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -21635,8 +21679,8 @@
           "sourceContentHash": "sha256:cddfbcb9ade43ff2",
           "sourceBodyHash": "sha256:0f8dee8662286dcf",
           "translatedAt": "2026-07-26T21:33:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "19b0a39c",
+          "translationLastModified": "2026-07-27T02:14:14+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -21788,8 +21832,8 @@
           "sourceContentHash": "sha256:c3ce92b18e6d1aeb",
           "sourceBodyHash": "sha256:621573191262d79d",
           "translatedAt": "2026-07-26T21:33:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "19b0a39c",
+          "translationLastModified": "2026-07-27T02:14:14+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -21941,8 +21985,8 @@
           "sourceContentHash": "sha256:a569386269241d61",
           "sourceBodyHash": "sha256:7b9ca7167bf3d12a",
           "translatedAt": "2026-07-26T21:33:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "19b0a39c",
+          "translationLastModified": "2026-07-27T02:14:14+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -24007,7 +24051,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Art/taiwanese-art-education-and-academic-development.md",
+          "translatedFrom": "Art/台灣藝術教育與學院發展.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:352ce3febb583c17",
+          "sourceBodyHash": "sha256:aaeb81e5f1416586",
+          "translatedAt": "2026-07-26T23:43:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Art/taiwanese-art-education-and-academic-development.md",
@@ -25139,8 +25194,8 @@
           "sourceContentHash": "sha256:8c1e84b77bb235ea",
           "sourceBodyHash": "sha256:96b8f13a864b5e24",
           "translatedAt": "2026-07-26T23:43:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "19b0a39c",
+          "translationLastModified": "2026-07-27T02:14:14+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -25292,8 +25347,8 @@
           "sourceContentHash": "sha256:0334fef76cff5db1",
           "sourceBodyHash": "sha256:1f68acc56a66c3d5",
           "translatedAt": "2026-07-26T21:33:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "19b0a39c",
+          "translationLastModified": "2026-07-27T02:14:14+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -38793,7 +38848,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/cognitive-warfare-against-taiwan.md",
+          "translatedFrom": "Society/認知作戰.md",
+          "sourceCommitSha": "7c4a58918",
+          "sourceContentHash": "sha256:0b5ddca64df69aa6",
+          "sourceBodyHash": "sha256:0fcafeba09518f70",
+          "translatedAt": "2026-07-27T01:41:54+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 61,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -60671,7 +60737,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/hong-chih-kuo-taiwanese-left-handed-pitcher.md",
+          "translatedFrom": "People/郭泓志.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:e02695ed5dc8f6ea",
+          "sourceBodyHash": "sha256:adcefdbac44146e6",
+          "translatedAt": "2026-07-26T23:43:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -89981,7 +90058,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/mudan-incident.md",
+          "translatedFrom": "History/牡丹社事件.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:91f467d8cc029b74",
+          "sourceBodyHash": "sha256:1f92c860af97938e",
+          "translatedAt": "2026-07-27T01:30:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -99688,7 +99776,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/penghu-county.md",
+          "translatedFrom": "Geography/澎湖縣.md",
+          "sourceCommitSha": "dd6cd0156",
+          "sourceContentHash": "sha256:e10092be60773ede",
+          "sourceBodyHash": "sha256:d8c2fdecefda4ce7",
+          "translatedAt": "2026-07-26T23:43:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -111599,7 +111698,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/ghost-festival-zhongyuan.md",
+          "translatedFrom": "Culture/中元節.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:92d21a8f6666e1c2",
+          "sourceBodyHash": "sha256:036fefb83f0557fd",
+          "translatedAt": "2026-07-27T01:30:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
