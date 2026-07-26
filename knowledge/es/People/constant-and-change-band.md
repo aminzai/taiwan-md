@@ -1,202 +1,202 @@
 ---
-title: 'Constant & Change: "Una banda no se sostiene por persistencia; si ya no es divertida, se deshace" — Diez años'
-description: 'Banda independiente de cuatro miembros formada en Taipéi en 2013. El nombre combina el "todo fluye" del filósofo griego Heráclito con la bola curva del béisbol. La vocalista ARNY nació en Filipinas y es una músico con 20 años de carrera que tocó el bajo en Fire EX.; la baterista Xiaomi padece artritis reumatoide y su pulgar no puede flexionarse, pero sigue tocando la batería; el bajista Jinmao dice: "Una banda no se sostiene por persistencia; si ya no es divertida, se deshace". Pasaron de tocar ante dos personas en Legacy a 5,000 en el Centro de Música de Taipéi en 2023, sin viralidad, sin un éxito explosivo — solo una evolución constante durante diez años.'
+title: 'La evolución del lanzamiento curvo de KST: «Una banda no se sostiene por la perseverancia; si no es divertido, se disuelve»'
+description: 'Formado en 2013 en Taipéi, este cuarteto de música independiente fusiona el concepto de «todo fluye» del filósofo griego Heráclito con la metáfora del lanzamiento curvo del béisbol. El vocalista ARNY, nacido en Filipinas y ex bajista de Firefly, cuenta con dos décadas de experiencia; el baterista Xiaomi, a pesar de la artritis reumatoide que le impide doblar el pulgar, sigue tocando; el bajista Jinmao afirma que «una banda no se sostiene por la perseverancia; si no es divertido, se disuelve». Desde un concierto con dos espectadores en el Legacy hasta los 5.000 en el Centro de Música Popular de Taiwán en 2023, su trayectoria de diez años se caracteriza por una evolución constante sin estallidos virales ni éxitos instantáneos.'
 date: 2026-04-18
-author: 'Taiwan.md'
-category: People
-subcategory: 音樂與表演
+category: 'People'
 tags:
   [
-    人物,
-    康士坦的變化球,
-    KST,
-    樂團,
-    後搖,
-    獨立音樂,
-    金曲獎,
-    擱淺的人,
-    更迭,
-    眠月線,
-    ARNY,
-    金毛,
-    小米,
-    Creed,
-    Heraclitus,
+    'Personajes',
+    'KST',
+    'La evolución del lanzamiento curvo de KST',
+    'Música independiente',
+    'Post-rock',
+    'Premios Golden Melody',
+    'Personas varadas',
+    'Cambio',
+    'Línea Mianyue',
+    'ARNY',
+    'Jinmao',
+    'Xiaomi',
+    'Creed',
+    'Heráclito',
   ]
-readingTime: 15
+subcategory: '音樂與表演'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-04-18
 lastHumanReview: true
-featured: false
-translatedFrom: People/康士坦的變化球.md
-sourceCommitSha: 'ac1d187a'
-sourceContentHash: 'sha256:da94b8581c1d756d'
-sourceBodyHash: 'sha256:882ec45fed78d371'
-translatedAt: 2026-05-01T20:54:23+08:00
+researchReport: 'reports/research/2026-04/康士坦的變化球.md'
+readingTime: 15
+translatedFrom: 'People/康士坦的變化球.md'
+sourceCommitSha: '160c9d82d'
+sourceContentHash: 'sha256:37d8610a843cfcf0'
+sourceBodyHash: 'sha256:f8b9d7518607d1e1'
+translatedAt: '2026-07-27T06:21:30+08:00'
 ---
 
-> **Resumen en 30 segundos:** Constant & Change (KST) es una banda independiente de cuatro miembros formada en Taipéi en 2013: vocalista ARNY (Wu Ying-ran, nacida en Filipinas, músico veterana con 20 años de carrera), guitarra Creed (Chao Tzu-yi), bajo Jinmao (Chen Yu-hsiang) y batería Xiaomi (Chang Yi-yun, cuyo pulgar no puede flexionarse por artritis reumatoide pero sigue tocando). En 2016, su primer sencillo [〈擱淺的人〉](https://www.youtube.com/watch?v=NhJCYJs0XIA) escribió sobre la parálisis laboral; en 2020, el álbum _更迭_ fue nominado al Mejor Grupo en los 32.º Premios Golden Melody; en 2023, su primer gran concierto individual en el Centro de Música de Taipéi con 5,000 asistentes; en 2025, la parada final de la gira mundial _眠月線_ en Hong Kong. Surgieron el mismo año que No Party for Cao Dong — los críticos dicen: "Si No Party for Cao Dong son los veintitantos sin nada, KST es el No Party de diez años después, con opiniones forjadas por alegrías y tristezas reales, pero que se contienen al hablar". El nombre de la banda proviene de Heráclito: todo fluye, lo único inmutable es el cambio mismo.
+> **Resumen en 30 segundos:** KST (La evolución del lanzamiento curvo de KST) es un cuarteto de música independiente formado en Taipéi en 2013: el vocalista ARNY (Wu Yingran, nacido en Filipinas con 20 años de experiencia como músico), el guitarrista Creed (Zhao Zuyi), el bajista Jinmao (Chen Youxiang) y el baterista Xiaomi (Zhang Yiyun, cuyo pulgar no puede doblarse debido a la artritis reumatoide pero que sigue tocando). En 2016, su primer álbum [〈Personas varadas〉](https://www.youtube.com/watch?v=NhJCYJs0XIA) abordaba la parálisis laboral; en 2020, el álbum _Gengdie_ (Cambios) fue nominado al Mejor Grupo en la 32.ª edición de los Premios Golden Melody; en 2023, realizaron su primer gran concierto en solitario con 5.000 personas en el Centro de Música Popular de Taiwán (North Music Hall); en 2025, la gira mundial _Línea Mianyue_ concluye en Hong Kong. Surgieron el mismo año que Scumbags (Cao Dong Meiyou Paidui); los críticos musicales señalan que «si Scumbags representa la veintena sin nada que perder, KST es Scumbags diez años después: con perspectiva tras experimentar alegrías y tristezas reales, pero con la palabra contenida». El nombre del grupo proviene de Heráclito: todo fluye, lo único constante es el cambio mismo.
 
-El 2 de septiembre de 2023 a las 7:30 p. m., en el Centro de Música de Taipéi. La apertura del concierto del décimo aniversario de Constant & Change.[^1]
+El 2 de septiembre de 2023, a las 19:30, en el Centro de Música Popular de Taiwán. Comenzaba el concierto de diez años de KST. [^1]
 
-La vocalista ARNY se paró en el escenario, frente a 5,000 personas. No dio las gracias a gritos — solo dijo una frase que resumía diez años:
+El vocalista ARNY se encuentra en el escenario, frente a 5.000 personas. No hace un largo agradecimiento; solo dice una frase que resume una década:
 
-> "De 2 personas en el público a 5,000, este camino tomó 10 años."[^1]
+> «De dos espectadores a 5.000 personas, este camino ha tomado 10 años.» [^1]
 
-Por qué esta frase silenció al público — porque no era una exageración. En 2013, en su primer concierto en un LiveHouse, realmente solo había dos personas en la audiencia. Diez años después, no llegaron por volverse virales, ni por un tema de serie de televisión, ni por apariciones en programas de variedades — solo álbum tras álbum, convirtiendo dos oyentes en cinco mil.
+¿Por qué esta frase silenció a la audiencia presente? Porque no es una exageración. En 2013, su primer concierto en una sala de música independiente (LiveHouse) contó realmente con solo dos espectadores en la audiencia. Diez años después, no lograron su posición mediante un estallido viral, ni por una canción temática de un drama idol, ni por apariciones en programas de variedades: simplemente, mediante álbumes sucesivos, transformaron a dos oyentes en cinco mil.
 
-📝 Nota del curador: No han sido pocas las bandas independientes en Taiwán tras la década de 2010, pero las que han logrado pasar de los LiveHouse a recintos de diez mil personas como el Centro de Música de Taipéi, y además evolucionar notablemente con cada álbum, se pueden contar con los dedos. KST lo consiguió, y sin carga de imagen.
+📝 **Nota del curador:** En Taiwán, desde la década de 2010, ha habido muchos grupos de música independiente, pero aquellos que han pasado de las salas LiveHouse a los escenarios de diez mil personas en el North Music Hall, y que han mostrado una evolución clara en cada álbum, son contados con los dedos de una mano. KST lo logró, y lo hizo sin complejos de idol.
 
-### Nacida en Filipinas, exbajista de Fire EX.
+### Nacido en Filipinas, ex bajista de Firefly
 
-Wu Ying-ran (ARNY) no es lo que normalmente imaginamos como "joven músico independiente". Nació en Filipinas en la década de 1980 y después se mudó a Taiwán para crecer. Su familia es extranjera.[^2] Tiene más de 20 años de trayectoria en la escena musical taiwanesa — ha sido productora, arreglista y compositora de bandas sonoras.
+ARNY (Wu Yingran) no es el tipo de «músico independiente joven» que solemos imaginar. Nació en Filipinas en la década de 1980 y creció en Taiwán. Su familia es extranjera. [^2] Cuenta con más de 20 años de experiencia en la industria musical de Taiwán: ha trabajado como productor, arreglista y compositor de bandas sonoras.
 
-Revisar su historial de bandas anteriores y experiencias en vivo revela una larga lista: **guitarista de Star Berryz**, **bajista de Fire EX. (2006)**, guitarista habitual en los conciertos en vivo de Huang Te, guitarista en vivo de Kuo Tsai-chieh, guitarista en vivo de Wan Fang (2012).[^2] Cuando en 2013 formó Constant & Change con Creed, Jinmao y Xiaomi, no era una "novata", sino una **profesional que ya llevaba 10 años trabajando en la industria musical taiwanesa**, decidiendo formar su propia banda.
+Al revisar su trayectoria en bandas anteriores y sus experiencias en vivo, aparece una larga lista de nombres: **guitarrista de Strawberry Savior**, **bajista de Firefly (2006)**, guitarrista habitual en conciertos en vivo de Huang Yao, guitarrista en vivo de Guo Caijie, guitarrista en vivo de Wan Fang (2012). [^2] Cuando en 2013 formó KST junto con Creed, Jinmao y Xiaomi, no era un «novato», sino un **profesional que ya llevaba 10 años trabajando en la industria musical de Taiwán**, decidido a formar su propia banda.
 
-Esta identidad explica después por qué KST es diferente a la mayoría de bandas independientes — su música fue relativamente madura desde el primer álbum. No hay esa "aspereza de banda nueva", porque ninguna de las cuatro era principiante.
+Esta identidad explica más tarde por qué KST es diferente a la mayoría de los grupos de música independiente: desde su primer álbum, su música era relativamente madura. No había esa «grosería de banda nueva» porque ninguno de los cuatro miembros era inexperto.
 
-### La baterista de la fábrica
+### La baterista de la fábrica de estigmas
 
-La baterista Xiaomi (Chang Yi-yun) tiene dos características que la hacen muy reconocible: es aficionada a la fotografía, especialmente de ruinas; tiene **una fábrica tatuada en la mano** — una declaración de su pasión por "coleccionar paisajes".[^3]
+La baterista Xiaomi (Zhang Yiyun) tiene dos características que la hacen muy reconocible: es una aficionada a la fotografía, especialmente a tomar fotos de ruinas; en su mano tiene tatuada **una fábrica**: esta es su declaración personal sobre «recopilar paisajes». [^3]
 
-Pero lo que realmente la convierte en el miembro más conmovedor de la banda es esto: **hace dos años, durante la producción de un álbum, descubrió que padecía artritis reumatoide; hasta hoy su pulgar no puede flexionarse, pero sigue tocando la batería y actuando en el escenario**.[^3]
+Pero lo que realmente la convierte en el miembro más conmovedor de este grupo es lo siguiente: **hace dos años, durante la producción del álbum, descubrió que padecía artritis reumatoide; hasta la fecha, su pulgar no puede doblarse, pero sigue tocando la batería y actuando en el escenario**. [^3]
 
-Esta no es una historia escrita por el departamento de relaciones públicas de la banda para vender emotividad. Ella nunca ha enfatizado esto en entrevistas. Los miembros de la banda lo mencionan de pasada cuando se les pregunta — como un hecho de fondo que aceptaron hace tiempo.
+Esta no es una historia de emoción fabricada por la prensa del grupo. Ella nunca ha enfatizado este hecho en entrevistas. Fue mencionada incidentalmente cuando los miembros fueron interrogados en una entrevista, como si se tratara de un hecho de fondo ya aceptado.
 
-Una baterista cuyo pulgar no puede flexionarse que aun así puede tocar completa la canción de 7 minutos 〈Hi There〉, que puede agotar un concierto completo ante 5,000 personas en el Centro de Música de Taipéi — esto es una metáfora del carácter de KST: **su perseverancia no se sostiene por fuerza de voluntad, sino por una resiliencia cotidiana que no necesita explicaciones**.
+Un baterista cuyo pulgar no puede doblarse, capaz de terminar una canción de 7 minutos como 〈Hi There〉 y de recorrer todo el escenario en el North Music Hall con 5.000 personas: esta es una metáfora del esqueleto de KST: **su perseverancia no depende de la fuerza de voluntad para aguantar, sino de una tenacidad cotidiana que no necesita explicaciones**.
 
-### Cómo se paralizó la persona varada
+### Cómo se paralizó a las personas varadas
 
-El 16 de diciembre de 2016, KST lanzó su primer álbum _擱淺的人_ en Legacy Taipéi.[^4] La letra de la canción principal [〈擱淺的人〉](https://www.youtube.com/watch?v=NhJCYJs0XIA) contiene un pasaje que se convirtió en un mantra para millones de trabajadores:
+El 16 de diciembre de 2016, KST lanzó su primer álbum _Ren Ge Qian De Ren_ (Personas varadas) en el Legacy de Taipéi. [^4] El estribillo de la canción principal [〈Personas varadas〉](https://www.youtube.com/watch?v=NhJCYJs0XIA) contiene una serie de paralelismos que luego se convertirían en la voz de millones de trabajadores:
 
-> "La vida anestesiada se acostumbra a la vida que odio  
->  La vida anestesiada se acostumbra a que soy un desastre  
->  La vida anestesiada se acostumbra a las relaciones dolorosas  
->  La vida anestesiada se acostumbra a gastar todo el dinero cada mes"[^4]
+> «La vida paralizada se acostumbra a la vida que odio  
+> La vida paralizada se acostumbra a ser muy mala  
+> La vida paralizada se acostumbra a las relaciones dolorosas  
+> La vida paralizada se acostumbra a gastar todo el dinero cada mes» [^4]
 
-El núcleo de esta canción es una observación aguda: **la persona queda varada no porque no sepa moverse, sino porque lo sabe pero elige no hacerlo**. La banda describió este fenómeno en una entrevista como "el autoengaño de la gente moderna":[^5]
+El núcleo de esta canción es una observación muy afilada: **la razón por la que las personas quedan varadas no es porque no sepan cómo moverse, sino porque saben pero eligen no hacerlo**. En una entrevista, el grupo describió este fenómeno como el «autoengaño de las personas modernas»: [^5]
 
-> "En realidad todos sabemos qué hacer para que la vida cambie de verdad, pero siempre nos quedamos por costumbre en nuestra zona de confort, buscando excusas razonables para no movernos del sitio."[^5]
+> «En realidad, todos sabemos lo que debemos hacer para que la vida cambie realmente, pero siempre nos acostumbramos a permanecer en nuestra zona de confort, buscando excusas obvias para dar pasos en falso.» [^5]
 
-El videoclip de 〈擱淺的人〉 tiene dos versiones, un detalle que rara vez se menciona: una es la **versión documental en blanco y negro** del director de cine Tsu Che-hsien, ganador del Golden Horse, y la otra es la **versión dramática apasionada** del director emergente Tseng Wei-yu (los miembros actuaron por primera vez).[^4] La misma canción, la misma letra, dos tratamientos visuales completamente diferentes — uno es observación contenida, el otra es dramatización directa. Esta elección es el ADN estético de KST: **no tratan al público como niños, te dejan elegir cómo interpretar la canción**.
+El video musical (MV) de 〈Personas varadas〉 tiene dos versiones, un detalle poco mencionado: una es la **versión documental en blanco y negro** del director ganador del Golden Horse, Su Zhexian, y la otra es la **versión dramática pasional** del director de la nueva generación, Zeng Weiwei (los miembros actúan por primera vez). [^4] Misma canción, misma letra, dos tratamientos visuales radicalmente diferentes: uno es una observación contenida, el otro es una dramatización directa. Esta elección es el ADN estético de KST: **no tratan a la audiencia como niños, dejan que elijas cómo interpretar esta canción**.
 
-### Las cosas bonitas suceden después del fondo
+### Las cosas hermosas ocurren después del fondo
 
-En 2020 se lanzó _更迭_, nominado al Mejor Grupo en los 32.º Premios Golden Melody.[^6]
+En 2020, se lanzó _Gengdie_ (Cambios), nominado al Mejor Grupo en la 32.ª edición de los Premios Golden Melody. [^6]
 
-La canción más famosa de este álbum es [〈美好的事可不可以發生在我身上〉](https://www.youtube.com/watch?v=n7xF4UYrkq8) — el título mismo está en voz pasiva. No es "voy a perseguir", es "¿podrían las cosas bonitas sucederme a mí?". Esta elección gramatical capturó con precisión el estado de ánimo de toda una generación durante la pandemia de COVID: **no es rendirse, no es abandonar, es seguir adelante a medias**.
+La canción más famosa de este álbum es [〈¿Podría ocurrir algo hermoso en mi cuerpo?〉](https://www.youtube.com/watch?v=n7xF4UYrkq8): el título en sí mismo está en voz pasiva. No es «voy a perseguir», es «¿podría ocurrir en mí?». Esta elección gramatical capturó con precisión el estado de ánimo de una generación completa durante la pandemia de COVID: **no es rendirse, no es abandonar, es seguir adelante a medias**.
 
-El contexto de creación de esta canción es clave: **ARNY la escribió en 2017, en su momento más bajo**.[^2] 2017 fue un año muy difícil para KST — la respuesta del mercado no fue la esperada, la satisfacción de su carrera en bandas anteriores empezó a desvanecerse, la nueva banda aún no se había consolidado. Como resultado, esta canción con su voz pasiva se convirtió en su segundo gran momento.
+El contexto de creación de esta canción es crucial: **ARNY la escribió en 2017, en su momento más bajo**. [^2] 2017 fue un año difícil para KST: la respuesta del mercado no fue la esperada, el sentido de logro de su carrera en bandas anteriores comenzaba a desvanecerse, y la nueva banda aún no se había estabilizado. Sin embargo, esta canción con voz pasiva se convirtió en su segundo punto álgido.
 
-El mismo álbum _更迭_ tiene otras dos canciones representativas: [〈嘮叨〉](https://www.youtube.com/watch?v=ABbDXVsgRk8) escribe sobre el caos de la época con un murmullo opresivo casi rap; [〈Hi There〉](https://www.youtube.com/watch?v=gnL-bVDf7Tc) es un arco emocional de 7 minutos, desde un suave monólogo hasta un grito intenso, con una letra que dice: "Lo que se fue no es la juventud."[^7]
+En el mismo álbum _Gengdie_, hay dos obras representativas más: [〈Lao Dao〉](https://www.youtube.com/watch?v=ABbDXVsgRk8) escribe el caos de la era mediante un susurro opresivo casi rap; [〈Hi There〉](https://www.youtube.com/watch?v=gnL-bVDf7Tc) es un arco emocional de 7 minutos, que comienza con un monólogo suave y termina con un grito feroz, con una letra intermedia que dice: «Lo que se fue no es la juventud». [^7]
 
-Un crítico musical hizo después una comparación precisa entre KST y No Party for Cao Dong, que surgieron el mismo año:
+Los críticos musicales más tarde hicieron una comparación precisa entre KST y Scumbags, que surgió el mismo año:
 
-> "Si No Party for Cao Dong son los veintitantos sin nada (_醜奴兒_), _擱淺的人_ de Constant & Change es el No Party de diez años después — con opiniones forjadas por alegrías y tristezas reales, pero que se contienen al hablar."[^8]
+> «Si Scumbags representa la veintena sin nada que perder (〈Chou Nu Er〉), _Ren Ge Qian De Ren_ de KST es Scumbags diez años después: con perspectiva tras experimentar alegrías y tristezas reales, pero con la palabra contenida.» [^8]
 
-Este contraste es clave: **No Party proyecta furia hacia afuera, KST acepta hacia adentro**. Ambas posturas son emociones reales de la música independiente taiwanesa después de 2016.
+Esta comparación es clave: **Scumbags es una furia hacia afuera; KST es una aceptación hacia adentro**. Ambas actitudes son emociones reales de la música independiente de Taiwán desde 2016.
 
-### De dos personas en Legacy a cinco mil en el Centro de Música de Taipéi
+### De dos espectadores en el Legacy a 5.000 en el North Music Hall
 
-El 2 de septiembre de 2023, recinto de 5,000 personas en el Centro de Música de Taipéi.[^1]
+El 2 de septiembre de 2023, 5.000 personas en el North Music Hall. [^1]
 
-Fue la primera vez en 10 años de formación de la banda que se presentaban en un escenario de esta escala. Las entradas se agotaron. Pero más importante que la taquilla, en este concierto **incorporaron por primera vez tecnología XR para crear una experiencia inmersiva**, y colaboraron con el teatro Yanyan en el diseño escénico.[^1] La razón por la que la banda hizo esta actualización tecnológica no fue para demostrar "también podemos hacer grandes escenarios", sino con un propósito concreto: visualizar el concepto central del álbum _眠月線_ — **un ferrocarril que ya dejó de funcionar pero que sigue avanzando hacia lo desconocido**.
+Esta fue la primera vez que el grupo subió a un escenario de esta escala tras 10 años de formación. Las entradas se agotaron. Pero más importante que las taquillas fue que, en esta actuación, **incorporaron por primera vez tecnología XR para crear una experiencia inmersiva**, y colaboraron con el Teatro Yueyan para el diseño del escenario. [^1] La razón de esta actualización tecnológica no fue mostrar «también tenemos la capacidad de hacer grandes eventos», sino un propósito específico: visualizar el concepto central del álbum _Línea Mianyue_: una **vía férrea que ya ha dejado de operar pero que sigue avanzando hacia lo desconocido**.
 
-El 31 de agosto de 2024, llevaron la misma producción al recinto Haiyin del Centro de Música Popular de Kaohsiung — su primer gran concierto individual en Kaohsiung.[^9] Producido por el equipo FREES (liderado por Erma), con una "nueva visualización del universo de 眠月線". El 28 de marzo de 2025, la parada final de la gira mundial _眠月線_ fue en el MacPherson Stadium de Hong Kong, cerrando un viaje de un año y medio.[^10]
+El 31 de agosto de 2024, trasladaron la misma configuración al Centro de Música Popular de Taiwán (Hail Yin Hall) en Kaohsiung: su primer gran concierto en solitario en Kaohsiung. [^9] Producido por el equipo FREES (liderado por Er Ma), con «nuevas visuales del universo Mianyue». El 28 de marzo de 2025, la gira mundial _Línea Mianyue_ concluyó en el Hall Macpherson de Hong Kong, cerrando un viaje de 1,5 años. [^10]
 
-De LiveHouse al Centro de Música de Taipéi, de ahí al Centro de Música de Kaohsiung, de Taiwán a Hong Kong — esta curva de crecimiento tomó diez años completos. Comparado con los artistas de pop mandarín convencional, este ritmo es lento. Pero KST no quería correr.
+De LiveHouse al North Music Hall, del North Music Hall al Centro de Música Popular de Kaohsiung, de Taiwán a Hong Kong: esta línea de crecimiento tomó exactamente diez años. En comparación con los cantantes mainstream de la música pop mandarina, esta velocidad es lenta. Pero KST no buscaba correr rápido.
 
-### El ferrocarril forestal abandonado en Alishan
+### La vía férrea abandonada de Alishan
 
-El nombre del álbum de 2023 _眠月線_ fue propuesto por **la baterista Xiaomi**.[^11]
+El nombre del álbum _Línea Mianyue_ de 2023 fue propuesto por **la baterista Xiaomi**. [^11]
 
-眠月線 es una rama del Ferrocarril Forestal de Alishan que conecta la estación de Alishan con la estación de Mianyue. Dejó de operar en 1983 debido a un derrumbe; después, algunos tramos fueron restaurados y otros se convirtieron en una popular ruta de senderismo. Para una aficionada a la fotografía, especialmente de ruinas como Xiaomi, este ferrocarril era una imagen familiar: **una vía cuya misión ya terminó, pero que sigue dirigiéndose hacia un destino desconocido**.
+La Línea Mianyue es una rama del Ferrocarril Forestal de Alishan, que conecta la Estación Alishan con la Estación Mianyue. En 1983, dejó de operar debido a un derrumbe; posteriormente, algunas secciones fueron reparadas y otras se convirtieron en populares destinos de senderismo. Para una aficionada a la fotografía, especialmente a las ruinas como Xiaomi, esta vía férrea es una imagen familiar: **una ruta cuya misión ha llegado a su fin, pero que sigue avanzando hacia un destino desconocido**.
 
-KST expandió esta imagen en el tema de todo un álbum: **una banda de diez años que ya completó la tarea de "demostrar quién es", ¿a dónde va ahora?**
+KST amplió esta imagen al tema central de un álbum: **un grupo de diez años, que ya ha completado la tarea de «demostrarse a sí mismo», ¿hacia dónde va ahora?**
 
-Esta madurez en la autoposición es algo que la mayoría de bandas independientes taiwanesas con diez años de trayectoria no se atreven a preguntar. La mayoría de bandas o se disuelven a los diez años, o entran en modo "mantener a los fans existentes". KST eligió un tercer camino: **reconocer que la tarea anterior está completada y avanzar hacia una nueva dirección**.
+Esta madurez en la autodefinición es una pregunta que la mayoría de los grupos de música independiente de Taiwán, tras diez años de formación, no se atreven a hacer. La mayoría de los grupos o se disuelven a los diez años, o entran en un modo de «mantener a los fanáticos existentes». KST eligió un tercer camino: **reconocer que la vieja tarea está completa y luego avanzar hacia una nueva dirección**.
 
-📝 Nota del curador: 〈眠月線〉 es una pieza de post-rock puro sin voz humana. La banda declara con pura instrumentación: ya pasamos la etapa de "demostrar quiénes somos con letras", ahora vamos a hablar con el sonido mismo.
+📝 **Nota del curador:** 〈Línea Mianyue〉 es una obra pura de post-rock sin voz. El grupo declara con instrumentos puros: hemos superado la etapa de «demostrar quiénes somos con letras», ahora queremos hablar con el sonido mismo.
 
-### No es persistencia, es diversión
+### No es perseverancia, es diversión
 
-Si tuviéramos que resumir en una frase por qué KST ha durado 10 años, por qué cada álbum evoluciona, por qué no se han deshecho — el bajista Jinmao dijo una vez:
+Si solo se pudiera resumir con una frase por qué KST ha podido durar 10 años, por qué cada álbum ha evolucionado y por qué no se han disuelto, el bajista Jinmao dijo una frase:
 
-> "Una banda no se sostiene por persistencia; si ya no es divertida, se deshace."[^12]
+> «Una banda no se sostiene por la perseverancia; si no es divertido, se disuelve.» [^12]
 
-Esta frase no es una queja, no es humor, es la filosofía real de una banda que ha recorrido 10 años. También dijo otra frase como complemento:
+Esta frase no es una queja ni un humor, es la filosofía real de un grupo que ha recorrido 10 años. Añadió otra frase para complementarla:
 
-> "O lo disfrutas o ganas dinero, no puedes no tener nada de los dos, porque entonces solo te explotará la discográfica."[^12]
+> «O bien disfrutas del proceso, o bien ganas dinero; no puedes no obtener ninguno de los dos, de lo contrario solo serás explotado por la discográfica.» [^12]
 
-Este binomio dinero-diversión rara vez se discute abiertamente en bandas independientes. La mayoría de bandas o romantizan su pobreza o moldean el éxito como "el significado prevalece sobre el dinero". Jinmao expone las reglas del juego directamente: **hacer una banda es un trabajo de adultos, no puedes ni disfrutar ni ganar dinero**.
+Esta dicotomía entre dinero y felicidad rara vez se discute abiertamente en la música independiente. La mayoría de los grupos o romantizan su pobreza o presentan el éxito como «el significado supera al dinero». Jinmao dejó las reglas del juego claras: **hacer música es un trabajo para adultos, no puede ser ni divertido ni rentable**.
 
-Este pragmatismo tiene la misma base que los 20 años de experiencia de ARNY — ya pasaron la etapa de necesitar romanticizarse.
+Este pragmatismo tiene la misma base que los 20 años de experiencia de ARNY: han superado la etapa de necesitar romantizarse a sí mismos.
 
-En 2025, Jinmao también fundó su propio sello "忘憂水" (Wonder Water), y Creed se unió.[^13] Esto no es abandonar la banda, es una extensión del negocio — la banda continúa, pero empezaron a hacer trabajo en la industria musical más allá de la banda.
+En 2025, Jinmao también fundó su propia discográfica «Wangyou Shui» (Wonder Water), a la que se unió Creed. [^13] Esto no es una separación del grupo, es una extensión del negocio: la banda continúa, pero comienzan a trabajar en la industria musical más allá de la banda misma.
 
-### El No Party de diez años después
+### Scumbags diez años después
 
-Volviendo a la frase del crítico: "KST es el No Party de diez años después."[^8]
+Volviendo a la frase del crítico: «KST es Scumbags diez años después». [^8]
 
-La precisión de esta frase radica en que dice dos cosas al mismo tiempo: **KST y No Party pertenecen a la misma generación de explosión musical independiente de 2016, pero la música de KST es la observación de No Party avanzada diez años**. No Party escribe sobre la furia de los jóvenes recién salidos de la universidad contra el sistema; KST escribe sobre la impotencia de los jóvenes que llevan diez años trabajando consigo mismos.
+La precisión de esta frase radica en que dice dos cosas simultáneamente: **KST y Scumbags pertenecen a la generación de la música independiente que estalló en 2016, pero la música de KST es la observación de Scumbags llevada diez años más adelante**. Scumbags escribe la furia de los jóvenes recién egresados contra el sistema; KST escribe la impotencia de los jóvenes que llevan diez años trabajando contra sí mismos.
 
-Ambas posturas son estados vitales reales de los trabajadores taiwaneses — solo difieren en el tiempo. La audiencia de 〈大風吹〉 se convertirá en la audiencia de 〈擱淺的人〉 diez años después. Estas dos bandas no son rivales, son **dos etapas de una misma generación**.
+Ambas actitudes son estados de vida reales de los trabajadores taiwaneses: solo difieren en la secuencia temporal. La audiencia de 〈Da Feng Chui〉 (El gran viento sopla) se convertirá, diez años después, en la audiencia de 〈Personas varadas〉. Estos dos grupos no son rivales, son **dos etapas de una misma generación**.
 
-En 2024, KST lanzó el nuevo sencillo 〈冰〉 en colaboración con Chen Chih-chen y Jude Chiu — Chen Chih-chen escribió la letra. Esta fue la primera vez que KST colaboró con una artista de primer nivel del pop mandarín. La evaluación de Chen Chih-chen sobre las letras de Xiaomi de KST: "¡Las letras que escribe son perfectas! El uso incisivo de las palabras le da a la canción un poder de renacimiento."[^13]
+En 2024, KST lanzó el nuevo sencillo 〈Bing〉 (Hielo) en colaboración con Cheer Chen y Jude: Cheer Chen escribió la letra para esta canción. Esta es la primera vez que KST colabora con cantantes top de la música pop mandarina. La evaluación de Cheer Chen sobre la letra de Xiaomi: «¡La letra que escribió es súper perfecta! El uso del lenguaje afilado dio a la canción la fuerza del renacimiento». [^13]
 
-### Este es un álbum para los varados
+### Este es un álbum escrito para los varados
 
-De las dos personas en el público de Legacy en 2013, a las 5,000 personas en el Centro de Música de Taipéi en 2023, las 5,000 en Kaohsiung en 2024 y el MacPherson de Hong Kong en 2025 — Constant & Change recorrió 10 años.
+De los dos espectadores en el Legacy en 2013, a los 5.000 en el North Music Hall en 2023, los 5.000 en el Centro de Música Popular de Kaohsiung en 2024, y el Hall Macpherson en Hong Kong en 2025: KST ha recorrido 10 años.
 
-En el medio no hubo un momento de explosión viral, ni fama televisiva, ni tema principal de serie. Lo que hubo fueron cuatro músicos de mediana edad (ARNY con 20 años de carrera musical, Creed en guitarra y voz, la visión comercial pragmática de Jinmao, Xiaomi tocando la batería con el pulgar sin poder flexionarse) + un miembro que se fue (VJ Qitai, se marchó en junio de 2022) + álbum tras álbum cada vez mejor.
+No hubo momentos de estallido viral, ni fama en programas de variedades, ni canciones temáticas de dramas de idol. Hubo cuatro músicos de mediana edad (ARNY con 20 años de experiencia, Creed como guitarrista y vocalista, la visión comercial pragmática de Jinmao, Xiaomi tocando a pesar de no poder doblar el pulgar) + un miembro que se separó (VJ Qitai se fue en junio de 2022) + álbumes sucesivos que mejoraban cada vez más.
 
-Lo que dejaron son tres álbumes: uno sobre estar varado (2016 _擱淺的人_), uno sobre el cambio (2020 _更迭_) y uno sobre el futuro desconocido (2023 _眠月線_) — más 〈冰〉 en colaboración con Chen Chih-chen en 2024.
+Lo que dejan son tres álbumes: uno escrito sobre los varados (2016 _Ren Ge Qian De Ren_), uno escrito sobre los cambios (2020 _Gengdie_), uno escrito sobre un futuro desconocido (2023 _Línea Mianyue_) — más 〈Hielo〉 de 2024 en colaboración con Cheer Chen.
 
-El nombre de la banda proviene de una antigua proposición de Heráclito: **todo fluye, nada permanece**. Con 10 años de trabajo, demostraron que Heráclito tenía razón — lo único inmutable es que todo está siempre cambiando.
+El nombre del grupo proviene de una antigua proposición de Heráclito: **todo fluye, nada permanece**. Han demostrado con 10 años de trabajo que Heráclito tenía razón: lo único constante es el cambio permanente.
 
-Y esa vía de Mianyue en Alishan, en sus canciones, sigue avanzando.
+Y esa Línea Mianyue de Alishan sigue avanzando en sus canciones.
 
-**Lectura adicional**:
+**Lectura recomendada**:
 
-- [草東沒有派對](/people/草東沒有派對) — Banda independiente surgida en 2016 en la misma época, escribe sobre la furia de los recién llegados al mundo laboral; KST escribe sobre los varados diez años después — dos etapas de una misma generación
-- [魏如萱](/people/魏如萱) — Pertenece al mismo ecosistema musical independiente de la década de 2010, cantante que toma el camino vocal en lugar del post-rock
-- [Cicada](/people/Cicada) — Post-rock puro, instrumental y sin voz, formando un contraste con el "post-rock + voz" de KST
-- [盧廣仲](/people/盧廣仲) — Otro camino de la música independiente: cantante de autor que cruza las tres categorías de los premios dorados
-- [Premios Golden Melody](/music/金曲獎) — La coordenada escénica donde KST fue nominado al Mejor Grupo en los 32.º Golden Melody
-- [台灣獨立音樂](/music/台灣獨立音樂) — El linaje generacional de la música independiente desde Natural Q hasta KST, No Party for Cao Dong y Accusefive
-- [台灣流行音樂](/music/台灣流行音樂) — El entorno de la industria del pop mandarín
+- [Scumbags (Cao Dong Meiyou Paidui)](/people/草東沒有派對) — Grupo de música independiente que surgió el mismo año en 2016, escribe sobre la furia de recién egresados; KST escribe sobre la varadura diez años después: dos etapas de la misma generación.
+- [Wu Wei-xuan (Wei Ru Xuan)](/people/魏如萱) — Pertenece al mismo ecosistema de música independiente de la década de 2010, sigue la ruta de la voz humana en lugar del post-rock.
+- [Cicada](/people/Cicada) — Sigue la ruta del post-rock puro instrumental sin voz, formando un contraste con el «post-rock + voz» de KST.
+- [Lu Guangzhong (Lu Guangzhong)](/people/盧廣仲) — Otra ruta de la música independiente: cantante de obras que cruza las tres orillas doradas (premios).
+- [Premios Golden Melody](/music/金曲獎) — La coordenada del escenario donde KST fue nominado al Mejor Grupo en la 32.ª edición de los Premios Golden Melody.
+- [Música independiente de Taiwán](/music/台灣獨立音樂) — La genealogía de la generación de la música independiente, desde Natural Violent hasta KST, Scumbags y Five Five Five.
+- [Música popular de Taiwán](/music/台灣流行音樂) — El entorno de la industria de la música pop mandarina.
 
 ## Referencias
 
-[^1]: [Concierto de 5,000 personas de Constant & Change en el Centro de Música de Taipéi 2023 - CNA](https://www.cna.com.tw/news/amov/202308110046.aspx) — El concierto del décimo aniversario de _眠月線_ se celebró el 2 de septiembre de 2023 en la sala de espectáculos del Centro de Música de Taipéi, el mayor concierto individual en 10 años de formación; se incorporó por primera vez tecnología XR para experiencia inmersiva y se colaboró con el teatro Yanyan; palabras de ARNY al subir al escenario: "De 2 personas en el público a 5,000, este camino tomó 10 años."
+[^1]: [Concierto en solitario de 5.000 personas de KST en el North Music Hall 2023 - CNA](https://www.cna.com.tw/news/amov/202308110046.aspx) — El 02-09-2023, el concierto de diez años de _Línea Mianyue_ se llevó a cabo en el Auditorio del Centro de Música Popular de Taiwán, el concierto en solitario de mayor escala en 10 años de formación; incorporaron por primera vez tecnología XR para crear una experiencia inmersiva y colaboraron con el Teatro Yueyan; el discurso de ARNY al subir al escenario: «De dos espectadores a 5.000 personas, este camino ha tomado 10 años».
 
-[^2]: [Antecedentes y carrera musical de Wu Ying-ran (ARNY) - Página oficial de Activator Co.](https://www.facebook.com/ActivatorCoLtd/) — ARNY nació en Filipinas y creció en Taiwán; 20 años de carrera en trabajo musical incluyendo productora, arreglista y compositora de bandas sonoras; bandas anteriores / experiencia profesional en vivo: guitarra de Star Berryz, bajo de Fire EX. (2006), guitarra en vivo de Huang Te / Kuo Tsai-chieh / Wan Fang (2012); 〈美好的事可不可以發生在我身上〉 fue compuesta en 2017, su momento más bajo.
+[^2]: [Contexto y carrera musical de ARNY Wu Yingran - Qian Houzi Official](https://www.facebook.com/ActivatorCoLtd/) — ARNY nació en Filipinas y creció en Taiwán; 20 años de experiencia laboral en música como productor, arreglista y compositor de bandas sonoras; experiencias profesionales anteriores/en vivo: guitarra en Strawberry Savior, bajo en Firefly (2006), guitarra en vivo para Huang Yao / Guo Caijie / Wan Fang (2012); 〈¿Podría ocurrir algo hermoso en mi cuerpo?〉 fue escrito en 2017, en su momento más bajo.
 
-[^3]: [La baterista Chang Yi-yun (Xiaomi) padece artritis reumatoide pero sigue tocando - Entrevista del décimo aniversario en YSOLIFE](https://ysolife.com/kst-10th-anniversary-interview/) — La baterista Xiaomi (Chang Yi-yun) es aficionada a la fotografía, especialmente de ruinas, tiene una fábrica tatuada en la mano; hace 2 años, durante la producción de un álbum, descubrió que padecía artritis reumatoide, hasta hoy su pulgar no puede flexionarse pero sigue actuando; fue quien propuso el concepto del álbum _眠月線_.
+[^3]: [Xiaomi Zhang Yiyun padece artritis reumatoide pero sigue tocando la batería - Entrevista del 10.º aniversario de YSOLIFE](https://ysolife.com/kst-10th-anniversary-interview/) — La baterista Xiaomi Gail (Zhang Yiyun) es aficionada a la fotografía, especialmente a las ruinas, tiene una fábrica tatuada en la mano; hace 2 años, durante la producción del álbum, descubrió que padecía artritis reumatoide, hasta la fecha su pulgar no puede doblarse pero sigue actuando; propuso el concepto del álbum _Línea Mianyue_.
 
-[^4]: [Lanzamiento del álbum _擱淺的人_ y doble versión del videoclip - BIOS monthly](https://www.biosmonthly.com/article/8381) — Lanzado el 16 de diciembre de 2016 en Legacy Taipéi; la letra "La vida anestesiada se acostumbra a la vida que odio / La vida anestesiada se acostumbra a que soy un desastre" se convirtió en un himno para los trabajadores; el videoclip de 〈擱淺的人〉 tiene dos versión: versión documental en blanco y negro del director ganador del Golden Horse Tsu Che-hsien + versión dramática apasionada del director emergente Tseng Wei-yu (los miembros actuaron por primera vez).
+[^4]: [Lanzamiento del álbum _Ren Ge Qian De Ren_ y doble versión del MV - BIOS monthly](https://www.biosmonthly.com/article/8381) — Lanzado el 16-12-2016 en el Legacy de Taipéi; la letra «La vida paralizada se acostumbra a la vida que odio / La vida paralizada se acostumbra a ser muy mala» se convirtió en el himno de los trabajadores; el MV de 〈Personas varadas〉 tiene dos versiones: versión documental en blanco y negro del director ganador del Golden Horse Su Zhexian + versión dramática pasional del director de la nueva generación Zeng Weiwei (los miembros actúan por primera vez).
 
-[^5]: [Contexto de escritura de 〈擱淺的人〉 - Reportaje del lanzamiento del primer álbum en Blow](https://blow.streetvoice.com/31294/) — La banda explica la motivación para escribir 〈擱淺的人〉: "En realidad todos sabemos qué hacer para que la vida cambie de verdad, pero siempre nos quedamos por costumbre en nuestra zona de confort, buscando excusas razonables para no movernos del sitio." Un diagnóstico del fenómeno del autoengaño moderno.
+[^5]: [Contexto de escritura de 〈Personas varadas〉 - Reportaje en vivo del lanzamiento del primer álbum de Blow吹音乐](https://blow.streetvoice.com/31294/) — El grupo explica el motivo de escritura de 〈Personas varadas〉: «En realidad, todos sabemos lo que debemos hacer para que la vida cambie realmente, pero siempre nos acostumbramos a permanecer en nuestra zona de confort, buscando excusas obvias para dar pasos en falso». Un diagnóstico del fenómeno del autoengaño de las personas modernas.
 
-[^6]: [Álbum _更迭_ y nominación a los 32.º Golden Melody - Historia de Tomo Records en Medium](https://medium.com/tom-phan-%E7%94%A8%E7%9C%BC%E7%9D%9B%E8%B5%B0%E8%B7%AF%E7%9A%84%E4%BA%BA/%E6%9B%B4%E8%BF%AD-%E5%BA%B7%E5%A3%AB%E5%9D%A6%E7%9A%84%E8%AE%8A%E5%8C%96%E7%90%83-%E5%94%AF%E4%B8%80%E4%B8%8D%E8%AE%8A%E7%9A%84%E5%B0%B1%E6%98%AF%E8%AE%8A-14b52f28bfdd) — Las cuatro canciones representativas de _更迭_ (2020): 〈嘮叨〉, 〈對不起我做不到答應了你的事〉, 〈Hi There〉 y 〈美好的事可不可以發生在我身上〉 definen el sonido de la etapa intermedia de la banda; nominado al Mejor Grupo en los 32.º Premios Golden Melody (ese año lo ganó Fire EX.).
+[^6]: [Álbum _Gengdie_ y nominación a la 32.ª edición de los Premios Golden Melody - Medium You You Dian Chang Gu Shi](https://medium.com/tom-phan-%E7%94%A8%E7%9C%BC%E7%9D%9B%E8%B5%B0%E8%B7%AF%E7%9A%84%E4%BA%BA/%E6%9B%B4%E8%BF%AD-%E5%BA%B7%E5%A3%AB%E5%9D%A6%E7%9A%84%E8%AE%8A%E5%8C%96%E7%90%83-%E5%94%AF%E4%B8%80%E4%B8%8D%E8%AE%8A%E7%9A%84%E5%B0%B1%E6%98%AF%E8%AE%8A-14b52f28bfdd) — En 2020, _Gengdie_ tiene cuatro obras representativas que definen el sonido medio del grupo: 〈Lao Dao〉, 〈Dui Bu Qi Wo Zuo Bu Dao Da Ying Ni De Shi〉, 〈Hi There〉, 〈¿Podría ocurrir algo hermoso en mi cuerpo?〉; nominado al Mejor Grupo en la 32.ª edición de los Premios Golden Melody (en esa edición, Firefly se llevó el premio).
 
-[^7]: [Análisis de la estructura de 7 minutos de 〈Hi There〉 - Medium](https://medium.com/tom-phan-%E7%94%A8%E7%9C%BC%E7%9D%9B%E8%B5%B0%E8%B7%AF%E7%9A%84%E4%BA%BA/) — Acordes de 〈Hi There〉: F#m-D7-A-F#m7; desde un suave monólogo inicial → sección de grito intenso; letra "Lo que se fue no es la juventud"; estructura de arco emocional de 7 minutos.
+[^7]: [Análisis crítico de la estructura de 7 minutos de 〈Hi There〉 - Medium](https://medium.com/tom-phan-%E7%94%A8%E7%9C%BC%E7%9D%9B%E8%B5%B0%E8%B7%AF%E7%9A%84%E4%BA%BA/) — 〈Hi There〉 acordes F#m-D7-A-F#m7; comienza con un monólogo suave → sección de gritos feroz; letra «Lo que se fue no es la juventud»; estructura de arco emocional de 7 minutos.
 
-[^8]: [Comparación crítica entre KST y No Party for Cao Dong - The News Lens](https://www.thenewslens.com/article/186214) — Comparación clave del crítico: "Si No Party for Cao Dong son los veintitantos sin nada (_醜奴兒_), _擱淺的人_ de Constant & Change es el No Party de diez años después — con opiniones forjadas por alegrías y tristezas reales, pero que se contienen al hablar." Ambas surgieron en 2016, definiendo el punto de inflexión de la música independiente taiwanesa.
+[^8]: [Comparación crítica entre KST y Scumbags (Cao Dong Meiyou Paidui) - The News Lens](https://www.thenewslens.com/article/186214) — Comparación crítica clave: «Si Scumbags (Cao Dong Meiyou Paidui) representa la veintena sin nada que perder (〈Chou Nu Er〉), _Ren Ge Qian De Ren_ de KST es Scumbags diez años después: con perspectiva tras experimentar alegrías y tristezas reales, pero con la palabra contenida». Ambos surgieron el mismo año en 2016, definiendo la línea divisoria de la música independiente de Taiwán.
 
-[^9]: [31 de agosto de 2024, Centro de Música Popular de Kaohsiung, recinto Haiyin - Página oficial de KST en Kktix](https://i-chen.kktix.cc/) — 31 de agosto de 2024 a las 19:30 en el recinto Haiyin del Centro de Música Popular de Kaohsiung, primer gran concierto individual de la banda en Kaohsiung; precios: zona de pie 2,800 / asientos 1,200-2,500; producido por el equipo FREES (liderado por Erma), nueva visualización del universo de 眠月線.
+[^9]: [31-08-2024 Centro de Música Popular de Taiwán Hail Yin Hall - KST Official Kktix](https://i-chen.kktix.cc/) — 31 de agosto de 2024, 19:30, Centro de Música Popular de Taiwán Hail Yin Hall, primer gran concierto en solitario de la banda en Kaohsiung; precios de entrada: de pie 2.800 / asiento 1.200-2.500; producido por el equipo FREES (liderado por Er Ma), nuevas visuales del universo Mianyue.
 
-[^10]: [28 de marzo de 2025, parada final de la gira mundial en MacPherson Stadium, Hong Kong - Instagram oficial de KST](https://www.instagram.com/kst_officials/) — 28 de marzo de 2025 a las 20:00 en MacPherson Stadium, Hong Kong, parada final de la gira mundial _眠月線_, 38 Nelson Street, Mong Kok, Kowloon; precios: HK$488-688; concierto de cierre de un viaje de 1.5 años.
+[^10]: [28-03-2025 Final de la gira mundial en el Hall Macpherson de Hong Kong - IG de KST](https://www.instagram.com/kst_officials/) — 28-03-2025, 20:00, se llevó a cabo el final de la gira mundial _Línea Mianyue_ en el Hall Macpherson de Hong Kong, 38 Nelson Street, Mong Kok, Kowloon; precios HK$488-688; actuación de cierre de un viaje de 1,5 años.
 
-[^11]: [Origen de la elección del tema _眠月線_ - Entrevista en Sound of Life](https://zh.soundoflife.com/blogs/people/kst-track-to-sleeping-moon-concert-interview) — La baterista Xiaomi propuso usar el "ferrocarril forestal abandonado de Mianyue en Alishan" como tema del álbum; este ferrocarril dejó de operar en 1983 por un derrumbe, algunos tramos se convirtieron en una ruta de senderismo popular; la banda lo tomó como metáfora de "la misión del ferrocarril terminó pero sigue avanzando hacia un viaje desconocido".
+[^11]: [Origen del tema de _Línea Mianyue_ - Sound of Life Entrevista](https://zh.soundoflife.com/blogs/people/kst-track-to-sleeping-moon-concert-interview) — La baterista Xiaomi propuso usar la vía férrea forestal abandonada de Alishan «Línea Mianyue» como tema del álbum; esta vía férrea dejó de operar en 1983 debido a un derrumbe, algunas secciones se convirtieron en populares destinos de senderismo; la banda la utiliza como metáfora de «una vía férrea cuya misión ha llegado a su fin pero que sigue avanzando hacia un viaje desconocido».
 
-[^12]: [Filosofía fundacional de Jinmao - Entrevista del déceno aniversario en BIOS monthly](https://www.biosmonthly.com/article/11333) — Cita central del bajista Jinmao SionC: "Una banda no se sostiene por persistencia; si ya no es divertida, se deshace" + "O lo disfrutas o ganas dinero, no puedes no tener nada de los dos, porque entonces solo te explotará la discográfica." + Sobre la definición de post-rock: "'Post' significa cambio y progreso".
+[^12]: [Filosofía de fundación de Jinmao - Entrevista del 10.º aniversario de BIOS monthly](https://www.biosmonthly.com/article/11333) — Cita central del bajista Jinmao SionC: «Una banda no se sostiene por la perseverancia; si no es divertido, se disuelve» + «O bien disfrutas del proceso, o bien ganas dinero; no puedes no obtener ninguno de los dos, de lo contrario solo serás explotado por la discográfica». + Definición de post-rock: «El prefijo 'post' representa cambio y progreso».
 
-[^13]: [Nuevo sencillo de 2024 〈冰〉 × Chen Chih-chen × Jude Chiu - VERSE](https://www.verse.com.tw/article/kst-constant-and-change-kpmc-2024) — En 2024, KST lanzó el nuevo sencillo 〈冰〉 en colaboración con Chen Chih-chen y Jude Chiu; tema: obsesión y perfeccionismo paranoico; Chen Chih-chen sobre las letras de Xiaomi: "¡Las letras que escribe son perfectas! El uso incisivo de las palabras le da a la canción un poder de renacimiento." Jinmao fundó un nuevo sello "忘憂水" (Wonder Water) en 2025, Creed se unió.
+[^13]: [Nuevo sencillo de 2024 〈Hielo〉 × Cheer Chen × Jude - VERSE](https://www.verse.com.tw/article/kst-constant-and-change-kpmc-2024) — En 2024, KST lanzó el nuevo sencillo 〈Hielo〉, en colaboración con Cheer Chen y Jude; tema: obsesión y perfeccionismo paranoico; Cheer Chen evalúa la letra de Xiaomi: «¡La letra que escribió es súper perfecta! El uso del lenguaje afilado dio a la canción la fuerza del renacimiento». Jinmao fundó en 2025 la nueva discográfica «Wangyou Shui» (Wonder Water), a la que se unió Creed.
 
-[^14]: [Constant & Change - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BA%B7%E5%A3%AB%E5%9D%A6%E7%9A%84%E8%AE%8A%E5%8C%96%E7%90%83) — Banda formada en Taipéi en 2013; miembros actuales: ARNY (Wu Ying-ran) voz y guitarra, Creed (Chao Tzu-yi) guitarra, Jinmao (Chen Yu-hsiang) bajo, Xiaomi (Chang Yi-yun) batería; exmiembro VJ Qitai (Hou Qi-tai) se marchó en junio de 2022.
+[^14]: [KST - Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BA%B7%E5%A3%AB%E5%9D%A6%E7%9A%84%E8%AE%8A%E5%8C%96%E7%90%83) — La banda se formó en Taipéi en 2013; miembros actuales: ARNY (Wu Yingran) voz y guitarra, Creed (Zhao Zuyi) guitarra, Jinmao (Chen Youxiang) bajo, Xiaomi (Zhang Yiyun) batería; miembro original VJ Qitai (Hou Qitai) se separó en junio de 2022.
 
-[^15]: [Página de la banda _擱淺的人_ en StreetVoice](https://streetvoice.com/ConstantanChange/) — Subidos a la plataforma StreetVoice en septiembre de 2014; primer álbum _擱淺的人_ lanzado en diciembre de 2016; Instagram de la banda @kst_officials con más de 101K seguidores; YouTube oficial @kst4815 como plataforma principal de videoclips oficiales.
+[^15]: [Página principal de la banda _Ren Ge Qian De Ren_ en StreetVoice](https://streetvoice.com/ConstantanChange/) — Lanzado en la plataforma StreetVoice en septiembre de 2014; primer álbum _Ren Ge Qian De Ren_ lanzado en diciembre de 2016; comunidad de Instagram @kst_officials con más de 101K seguidores; canal oficial de YouTube @kst4815 es la plataforma principal de lanzamiento de MV oficiales.
 
-[^16]: [Videoclip oficial de 〈眠月線〉 - YouTube](https://www.youtube.com/watch?v=F5mg14R5BWw) — La canción homónima de _眠月線_ (2023) es una pieza de post-rock puro completamente sin voz humana; las imágenes del videoclip evocan el ferrocarril abandonado de Alishan; declara la etapa madura de la banda de "hablar con el sonido mismo".
+[^16]: [MV oficial de 〈Línea Mianyue〉 - YouTube](https://www.youtube.com/watch?v=F5mg14R5BWw) — La canción homónima de 2023 _Línea Mianyue_ es una obra pura de post-rock sin voz; las visuales del MV reflejan la imagen de la vía férrea abandonada de Alishan; declara la etapa madura de «hablar con el sonido mismo».
 
-[^17]: [Videoclip oficial de 〈對不起我做不到答應了你的事〉 - YouTube](https://www.youtube.com/watch?v=grhmRInuUOc) — Canción representativa de _更迭_ (2020), la composición evoca fácilmente el eco de _擱淺的人_ (2016); elementos de rock reforzados, melodía irresistible para headbang; tema de culpa en el trabajo y las relaciones.
+[^17]: [MV oficial de 〈Dui Bu Qi Wo Zuo Bu Dao Da Ying Ni De Shi〉 Hoax - YouTube](https://www.youtube.com/watch?v=grhmRInuUOc) — Obra representativa de 2020 _Gengdie_, la disposición musical puede evocar fácilmente el eco de 2016 _Ren Ge Qian De Ren_; refuerza los elementos de rock, melodía irresistible para headbang; tema de culpa laboral y relacional.

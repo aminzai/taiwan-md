@@ -1,314 +1,320 @@
 ---
-title: "'Mini Taiwan Pulse: con mirada curatorial, dibujar Taiwán como un mapa que respira'"
-description: 'En 2026, el analista de datos Migu superpuso datos abiertos dispersos de Taiwán —aviones, barcos, trenes, autobuses y camiones de basura— hasta convertirlos en un mapa que respira. El trabajo pesado de extraer datos quedó en manos de la IA; pero decidir qué capas juntar, qué colores usar y cuál hacer brillar dependió de una mirada curatorial formada en planificación urbana.'
+title: 'Mini Taiwan Pulse: Con los ojos de un curador, dibujar Taiwán como un mapa que respira'
+description: 'En 2026, el analista de datos Migu superpone datos abiertos dispersos de Taiwán —aviones, barcos, trenes, autobuses, camiones de basura— en un mapa que respira. La tarea ardua de extraer datos se la deja a la IA, pero qué capas superponer, qué colores usar y qué capa iluminar depende de una mirada curatorial formada en planificación urbana.'
 date: 2026-04-19
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '公民科技'
 tags:
   [
     'Tecnología',
-    'tecnología cívica',
-    'datos abiertos',
-    'visualización de datos',
-    'proyecto de código abierto',
+    'Tecnología ciudadana',
+    'Datos abiertos',
+    'Visualización de datos',
+    'Proyecto de código abierto',
     'TDX',
     'Three.js',
-    'inteligencia artificial',
-    'agente de IA',
+    'Inteligencia artificial',
+    'Agente de IA',
     'SIG',
   ]
-readingTime: 20
+subcategory: '公民科技'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-06-25
 lastHumanReview: true
-featured: false
-translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: '905aa4a82'
-sourceContentHash: 'sha256:93ceaae8bc44512f'
-sourceBodyHash: 'sha256:941fb85e8f2fbb98'
-translatedAt: '2026-06-26T00:38:47+08:00'
+readingTime: 20
 image: '/article-images/technology/mini-taiwan-pulse-map-2026.webp'
 imageCredit: 'Migu / sciwork 2026'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://github.com/ianlkl11234s/0613-sci-work-share'
+relatedDiary: ['2026-06-25-203919-manual-mirror']
+sporeLinks:
+  [
+    "{'id': 150, 'platform': 'threads', 'date': '2026-06-25', 'url': 'https://www.threads.com/@taiwandotmd/post/DaA6aTRk7e6'}",
+    "{'id': 151, 'platform': 'x', 'date': '2026-06-25', 'url': 'https://x.com/taiwandotmd/status/2070173370118000879'}",
+  ]
+translatedFrom: 'Technology/mini-taiwan-pulse.md'
+sourceCommitSha: 'da22dc5b2'
+sourceContentHash: 'sha256:b4fa10553d998dfa'
+sourceBodyHash: 'sha256:6475e91be41d93b4'
+translatedAt: '2026-07-27T05:09:57+08:00'
 ---
 
-# Mini Taiwan Pulse: con mirada curatorial, dibujar Taiwán como un mapa que respira
+# Mini Taiwan Pulse: Con los ojos de un curador, dibujar Taiwán como un mapa que respira
 
-Un día a comienzos de 2026, un analista de datos llamado Migu convirtió un archivo CSV en GeoJSON y lo arrastró a una herramienta del navegador llamada Kepler.gl. Sin escribir media línea de código, apareció en la pantalla el primer mapa de Taiwán.
+En algún día a principios de 2026, un analista de datos llamado Migu convirtió un archivo CSV en GeoJSON y lo arrastró a una herramienta llamada Kepler.gl en su navegador. Sin escribir ni una sola línea de código, apareció en la pantalla el primer mapa de Taiwán.
 
-En la universidad había estudiado planificación urbana y entonces había tocado un poco de SIG (sistemas de información geográfica; en términos simples, herramientas que hacen que los datos vivan sobre un mapa). Después de entrar al mundo laboral siguió el camino del análisis de datos, y hacía mucho que no volvía a trabajar con mapas. Aquel día, al arrastrar el CSV a Kepler.gl y ver cómo Taiwán crecía en la pantalla, lo que le vino a la mente fue una sorpresa muy sencilla:
+Estudió planificación urbana en la universidad, donde tocó brevemente los SIG (Sistemas de Información Geográfica, herramientas que básicamente hacen que los datos cobren vida sobre un mapa). Después de entrar al mundo laboral, siguió la ruta del análisis de datos, pero hacía mucho que no volvía a tocar los mapas. El momento en que arrastró el CSV a Kepler.gl y vio nacer Taiwán en la pantalla, le provocó una sorpresa sencilla y pura:
 
-> “Resulta que Taiwán tiene tantos datos; resulta que convertirlos en mapa no es tan difícil.”[^1]
+> «Resulta que Taiwán tiene tantos datos, y convertirlos en un mapa no es tan difícil.»[^1]
 
-La frase no parece gran cosa. Después se convirtió en la semilla de todo un conjunto de cosas.
+Esta frase no parece gran cosa. Más tarde se convertiría en la semilla de todo un conjunto de cosas.
 
-> **Resumen en 30 segundos:** Migu (GitHub `ianlkl11234s`) empezó a fines de 2025 a crear más de una decena de proyectos de visualización con datos abiertos de Taiwán. El más popular, mini-taiwan-pulse, acumuló 375 estrellas en GitHub y superpone cinco tipos de datos en tiempo real —cielo, mar, tierra, calles y recolección de basura— en un mapa animado[^2]. Pero en una charla de junio de 2026 para la comunidad sciwork, planteó el problema sin rodeos: sólo el gobierno central de Taiwán tiene alrededor de cincuenta mil conjuntos de datos abiertos, dispersos además en más de veinte plataformas municipales y de condado; “el cerebro humano no alcanza a revisarlos todos”. Su respuesta no fue pedir a más personas que ayudaran a revisarlos, sino entregar los datos completos a un sistema orquestado por agentes de IA, capaz de crecer por sí mismo, donde las personas sólo se encargan de formular las preguntas y validar los resultados[^3].
+> **Resumen en 30 segundos:** Migu (GitHub `ianlkl11234s`) comenzó a finales de 2025 a crear una decena de proyectos de visualización con datos abiertos de Taiwán. El más popular, _mini-taiwan-pulse_, acumuló 375 estrellas en GitHub, superponiendo cinco tipos de datos en tiempo real: cielo, océano, tierra, calles y camiones de basura, en un mapa animado[^2]. Sin embargo, en una charla en junio de 2026 para la comunidad sciwork, lo dijo claro: los datos abiertos de Taiwán, solo a nivel central, suman unas 50.000 entradas, dispersas en plataformas de más de una veintena de condados y ciudades. «El cerebro humano no puede escanearlo todo». Su respuesta no fue pedir más ayuda para escanear, sino entregar todo el sistema a un conjunto de agentes de IA orquestados que crecen por sí mismos; los humanos solo se encargan de plantear las preguntas y verificar los resultados[^3].
 
-Este artículo trata de cómo una persona pasó de la ingenuidad de arrastrar un CSV a soltar el control para dejar que un sistema creciera por él.
+Esta artículo cuenta cómo una persona pasó de la ingenuidad de arrastrar un CSV a soltar el control para que el sistema crezca por sí mismo.
 
-## Cómo el GitHub de una sola persona se convirtió en una galaxia
+## Cómo el GitHub de una persona se convierte en una galaxia
 
-Si uno mira sólo el proyecto mini-taiwan-pulse, es fácil imaginar a Migu como un ingeniero aficionado: se entusiasmó un fin de semana, hizo una demo y, por casualidad, se volvió viral.
+Si solo miramos el proyecto _mini-taiwan-pulse_, es fácil pensar en Migu como un ingeniero amateur que juega en sus ratos libres: un fin de semana le dio por hacer un demo y, de repente, se hizo viral.
 
-Esa imagen falla en dos puntos.
+Esta imagen tiene dos fallos.
 
-Primero, lo que hizo está lejos de ser un solo proyecto. Al abrir su GitHub, desde diciembre de 2025 todo aparece densamente poblado por visualizaciones de datos abiertos de Taiwán: lo primero fue una prueba de concepto sobre cobertura de autobuses; luego, a fines de diciembre, un proyecto de aprendizaje llamado `mini-taiwan-learning-project` se hizo popular antes que los demás, y hoy suma 189 estrellas. En febrero hizo puntos en tiempo real de AIS marítimo, creó `flight-arc-graph` (56 estrellas), que dibuja cada despegue y aterrizaje como un arco; recién a fines de febrero llegó mini-taiwan-pulse, seguido por un atlas de Taiwan Railways, órbitas satelitales, cámaras CCTV en tiempo real, un panel de situación que concentra todos los datos llamado `mini-taiwan-info`... y así hasta junio[^2]. Más de diez repositorios conectados entre sí. Él mismo les dio un nombre: la galaxia “Mini Taiwan”.
+Primero, hizo mucho más que un solo proyecto. Si abres su GitHub, desde diciembre de 2025 hay una densa maraña de visualizaciones de datos abiertos de Taiwán: primero hubo un PoC (Prueba de Concepto) de alcance de autobuses para probar el terreno; a finales de diciembre, un proyecto de aprendizaje llamado `mini-taiwan-learning-project` se hizo popular primero, alcanzando hoy 189 estrellas. En febrero hizo puntos en tiempo real de buques AIS y el `flight-arc-graph` (56 estrellas), que dibuja las trayectorias de despegue y aterrizaje de cada vuelo. A finales de febrero llegó _mini-taiwan-pulse_, luego el atlas del tren de alta velocidad (Taichung Railway), órbitas de satélites, imágenes en tiempo real CCTV, y un panel de control de situación que consolida todos los datos, `mini-taiwan-info`... hasta junio[^2]. Una decena de repositorios conectados entre sí, a los que él mismo dio el nombre de galaxia «Mini Taiwán».
 
-![Panel de situación Mini Taiwan Info, que concentra datos abiertos de múltiples temas —población, transporte ferroviario, navegación, recursos hídricos, bomberos, salud— en un panel de monitoreo de un tema por página](/article-images/technology/mini-taiwan-info-dashboard-2026.webp)
+![Panel de control de situación Mini Taiwan Info, que consolida datos abiertos de múltiples temas como población, transporte ferroviario, navegación, recursos hídricos, bomberos y salud en paneles de monitoreo de una página por tema](/article-images/technology/mini-taiwan-info-dashboard-2026.webp)
 
-_Otro miembro de la galaxia, Mini Taiwan Info: concentra datos abiertos dispersos en un panel de monitoreo de situación, con población, transporte ferroviario, navegación, recursos hídricos, bomberos y salud, un tema por página. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
+_Otro miembro de la galaxia, Mini Taiwan Info: consolida los datos abiertos dispersos en un panel de monitoreo de situación. Población, transporte ferroviario, navegación, recursos hídricos, bomberos, salud, una página por tema. Foto: Migu / sciwork 2026 (uso justo para crítica editorial)._
 
-Si ordenamos estos proyectos por estrellas, queda claro que no sólo uno se volvió popular.
+Si ordenamos las estrellas de estos proyectos, resulta que no solo uno es popular.
 
 ```tw-bars
-GitHub de Migu: no sólo un repo se volvió popular (estrellas de GitHub)
-*mini-taiwan-pulse | 375 | buque insignia
-mini-taiwan-learning-project | 189 | se volvió viral antes que pulse
-flight-arc-graph | 56 | trayectorias aéreas
-tw-ship-viz | 11 | barcos
-mini-tw-cctv | 6 | imágenes en tiempo real
-satellite-arc | 6 | satélites
+GitHub de Migu: no solo un repo es popular (estrellas de GitHub)
+*mini-taiwan-pulse | 375 | Buque insignia
+mini-taiwan-learning-project | 189 | Más popular que pulse
+flight-arc-graph | 56 | Trayectorias
+tw-ship-viz | 11 | Buques
+mini-tw-cctv | 6 | Imágenes en tiempo real
+satellite-arc | 6 | Satélites
 Fuente: API de GitHub, 2026-06-25
 ```
 
-El segundo error está escondido en esas tres palabras: “una sola persona”. Volveremos a desarmarlas en un momento. Primero veamos cómo creció la galaxia.
+El segundo error está escondido en la palabra «una persona». Volveremos a ello más adelante. Primero veamos cómo creció la galaxia.
 
 ```tw-timeline
-2025-12 | Primera prueba | PoC de cobertura de autobuses, primer intento con datos abiertos de Taiwán
-2025-12 | learning-project se adelanta | Visualización ferroviaria de Taipéi, viral antes del proyecto insignia (189★)
-2026-02 | Nace el buque insignia | Abre mini-taiwan-pulse, que evoluciona de JSON estático a base de datos espacio-temporal
-2026-06 | Se despliega todo el sistema | Charla sciwork 2026: entregar los datos abiertos a un sistema criado por agentes
+2025-12 | Primera prueba | Alcance de autobuses PoC, el primer intento de datos abiertos de Taiwán
+2025-12 | learning-project popular primero | Visualización del transporte ferroviario de Taipéi, más popular que el buque insignia (189★)
+2026-02 | Nacimiento del buque insignia | mini-taiwan-pulse abre, evoluciona de JSON estático a base de datos espacial y temporal
+2026-06 | Sistema completo desplegado | Charla en sciwork 2026: entregar datos abiertos a un sistema cultivado por Agentes
 ```
 
-## El mismo método, del metro al sistema solar
+## La misma metodología, del metro al sistema solar
 
-El propio buque insignia también estaba creciendo. El mini-taiwan-pulse inicial tenía tres capas: cielo, mar y tierra. Para la versión de su charla, ya era una “co-moción de cinco pulsos”: aviones en el cielo, barcos en el mar, trenes sobre la tierra, autobuses en las calles y camiones de basura en la recolección, cinco tipos de datos en tiempo real con frecuencias distintas superpuestos sobre un mismo mapa que respira. En su presentación dijo que era la primera vez que el proyecto “evolucionaba de JSON estático a base de datos espacio-temporal”[^3]. Sólo en la capa de calles, afirmó, conectó más de 5.700 autobuses de TDX, actualizando sus posiciones cada 30 segundos.
+El buque insignia mismo también está creciendo. El _mini-taiwan-pulse_ original tenía tres capas: cielo, océano y tierra. En la versión de su charla, ya es «cinco pulsos en movimiento»: aviones en el cielo, barcos en el mar, trenes en tierra, autobuses en las calles y camiones de basura en la limpieza. Cinco tipos de datos en tiempo real de frecuencias diferentes superpuestos en un mapa que respira. En su presentación dijo que este proyecto fue la primera vez que «evolucionó de un JSON estático a una base de datos espacial y temporal»[^3]. Solo en la capa de calles, dijo que conectó más de 5.700 autobuses de TDX, actualizando su posición cada 30 segundos.
 
-![DAY 0, el primer mapa: convertir un CSV en GeoJSON y arrastrarlo a Kepler.gl; sin escribir código, aparece el primer mapa de Taiwán](/article-images/technology/mini-taiwan-kepler-day0-2026.webp)
+![DÍA 0 Primer mapa: convertir un CSV en GeoJSON y arrastrarlo a Kepler.gl, sin código aparece el primer mapa de Taiwán](/article-images/technology/mini-taiwan-kepler-day0-2026.webp)
 
-_El “DAY 0” de su charla: convertir un CSV en GeoJSON y arrastrarlo a Kepler.gl. Cero líneas de código y ya tenía el primer mapa de Taiwán, punto de partida de toda la galaxia. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
+_El «DÍA 0» en su charla: convertir un CSV en GeoJSON y arrastrarlo a Kepler.gl, con cero líneas de código se obtuvo el primer mapa de Taiwán, el punto de partida de toda la galaxia. Foto: Migu / sciwork 2026 (uso justo para crítica editorial)._
 
-La primera chispa de esta galaxia fue una visualización ferroviaria de Taipéi que llamó “Mini Taipei”. Superpuso los tres sistemas sobre rieles —MRT, Taiwan Railways y tren de alta velocidad— en un mapa animado, con los trenes corriendo sobre las líneas según los horarios. Dijo que en ese momento recién “experimentó el encanto de lo dinámico”, con más de trescientos trenes moviéndose a la vez en pantalla[^3]. Así, un horario estático se convirtió en la respiración de una ciudad.
+La chispa más temprana de esta galaxia fue su visualización del transporte ferroviario de Taipéi, llamada «Mini Taipéi». Superpuso tres sistemas ferroviarios: el metro, el tren de alta velocidad (Taichung Railway) y el tren de alta velocidad (HSR), en un mapa animado. Los vehículos se mueven según el horario en las vías. Dijo que en ese momento «experimentó el encanto de lo dinámico», con más de trescientos trenes moviéndose simultáneamente en la pantalla[^3]. Un horario estático se convirtió así en la respiración de una ciudad.
 
-![Mini Taipei superpone MRT, Taiwan Railways y tren de alta velocidad en un mapa animado, con más de trescientos trenes corriendo sobre las líneas según el horario](/article-images/technology/mini-taiwan-taipei-rail-2026.webp)
+![Mini Taipéi superpone metro, tren de alta velocidad y HSR en un mapa animado, más de 300 trenes corriendo en las vías según el horario](/article-images/technology/mini-taiwan-taipei-rail-2026.webp)
 
-_Mini Taipei: MRT, Taiwan Railways y tren de alta velocidad en el mismo encuadre, con más de trescientos trenes corriendo sobre las líneas según el horario. Dijo que fue la primera vez que “experimentó el encanto de lo dinámico”. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
+_Mini Taipéi: metro, tren de alta velocidad y HSR en el mismo cuadro, más de 300 trenes corriendo en las vías según el horario. Dijo que fue la primera vez que «experimentó el encanto de lo dinámico». Foto: Migu / sciwork 2026 (uso justo para crítica editorial)._
 
-Desde entonces, como si se hubiera vuelto adicto, aplicó el mismo método de “convertir datos en movimiento” a escalas cada vez mayores. Sobre el mar, conectó puntos AIS en tiempo real de la autoridad portuaria y marítima, y con esferas de luz azul verdosa más una estela degradada de treinta minutos dibujó el rumbo de los barcos en aguas alrededor de Taiwán.
+Desde entonces, como si le hubiera dado un gusto, aplicó la misma metodología de «datos a dinámico» a escalas cada vez mayores. Sobre el mar, conectó los puntos en tiempo real AIS de la Administración Portuaria, usando esferas de luz azul verdoso con estelas degradadas de treinta minutos para dibujar la dirección de los barcos en las aguas circundantes de Taiwán.
 
-![Barcos en aguas alrededor de Taiwán dibujados con puntos AIS en tiempo real de la autoridad portuaria y marítima, esferas luminosas azul verdosas y estelas degradadas de treinta minutos](/article-images/technology/mini-taiwan-ships-ais-2026.webp)
+![Buques en las aguas circundantes de Taiwán dibujados con puntos en tiempo real AIS de la Administración Portuaria, esferas de luz azul verdoso con estelas degradadas de treinta minutos](/article-images/technology/mini-taiwan-ships-ais-2026.webp)
 
-_El pulso marítimo: puntos AIS en tiempo real de la autoridad portuaria y marítima, esferas luminosas azul verdosas y estelas degradadas de treinta minutos para dibujar los barcos en aguas alrededor de Taiwán. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
+_El pulso del océano: puntos en tiempo real AIS de la Administración Portuaria, esferas de luz azul verdoso con estelas degradadas de treinta minutos, dibujando los barcos en las aguas circundantes de Taiwán. Foto: Migu / sciwork 2026 (uso justo para crítica editorial)._
 
-Luego empujó el mismo método más allá de la Tierra. Con parámetros orbitales TLE públicos calculó posiciones satelitales, dibujó trayectorias de satélites sobre Taiwán y, de paso, lo extendió a todo el sistema solar. En la presentación lo dijo de manera directa: “El mismo método, mientras haya datos, puede extenderse indefinidamente”[^3]. En ese momento uno entiende que lo que lo fascina en realidad es “convertir datos en algo visible”; el mapa fue apenas su primera forma.
+Luego llevó la misma metodología más allá de la Tierra. Usando parámetros orbitales TLE públicos para calcular la posición de los satélites, dibujó las trayectorias de los satélites sobrevolando Taiwán y, de paso, lo extendió a todo el sistema solar. En su presentación lo dijo claro: «La misma metodología, siempre que haya datos, puede extenderse infinitamente»[^3]. En ese momento te das cuenta de que lo que le obsesiona es en realidad el acto mismo de «convertir datos en algo visible»; el mapa es solo su forma más temprana.
 
-![Visualización de órbitas satelitales calculadas con TLE públicos; el mismo método se extiende desde la superficie de Taiwán hasta el espacio](/article-images/technology/mini-taiwan-satellite-2026.webp)
+![Visualización de órbitas de satélites calculadas con TLE público, la misma metodología se extiende desde la superficie de Taiwán hasta el espacio](/article-images/technology/mini-taiwan-satellite-2026.webp)
 
-_El mismo método llevado más allá de la Tierra: calcular órbitas satelitales con TLE públicos y extenderlo luego a todo el sistema solar. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
+_La misma metodología llevada más allá de la Tierra: cálculo de órbitas de satélites con TLE público, extendido a todo el sistema solar. Foto: Migu / sciwork 2026 (uso justo para crítica editorial)._
 
-## Superponer islas: las brechas emergen solas
+## Superponer islas: las lagunas aparecen solas
 
-Poco a poco, lo interesante dejó de ser “puntos en tiempo real que se mueven” y pasó a ser “superponer datos que originalmente no tenían relación para que las brechas aparezcan solas”. Dentro de esta galaxia hay varios proyectos dedicados a eso. Uno de ellos lo llamó “agricultura × agua”: superpone en un solo mapa las islas de tres organismos —agricultura, recursos hídricos y prevención de desastres—, mostrando en el mismo encuadre tierras agrícolas, ríos, acequias, diques y potencial de inundación. Para que ese mapa combinado pudiera correr en el navegador, usó un formato llamado PMTiles junto con HTTP range requests, reduciendo datos que originalmente pesaban 400 MB a una carga de apenas unos 5 MB en el navegador[^3].
+Poco a poco, lo que vale la pena ver pasó de «puntos en tiempo real moviéndose» a «superponer datos que antes no tenían relación, y que las lagunas aparecen solas». En esta galaxia hay varios proyectos dedicados específicamente a esto. Uno de ellos lo llamó «Agricultura × Agua», superponiendo las islas de tres ministerios: agricultura, recursos hídricos y prevención de desastres, en un solo mapa: campos de arroz, ríos, canales, diques y zonas de inundación potencial en el mismo cuadro. Para que este cuadro combinado funcionara en el navegador, usó un formato llamado PMTiles junto con solicitudes de rango HTTP, comprimiendo los datos originales de 400MB para que el navegador solo necesitara cargar unos 5MB[^3].
 
-![Mapa integrado agricultura × agua: superpone tierras agrícolas, ríos, acequias, diques y potencial de inundación, datos abiertos dispersos en distintos organismos](/article-images/technology/mini-taiwan-farm-water-2026.webp)
+![Mapa integrado Agricultura × Agua: superponiendo datos abiertos de campos de arroz, ríos, canales, diques y zonas de inundación potencial de diferentes ministerios en un solo mapa](/article-images/technology/mini-taiwan-farm-water-2026.webp)
 
-_Agricultura × agua: superpone las islas de datos de agricultura, recursos hídricos y prevención de desastres en un solo mapa, con tierras agrícolas, ríos, acequias, diques y potencial de inundación en el mismo encuadre. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
+_Agricultura × Agua: superponiendo las islas de tres ministerios (agricultura, recursos hídricos, prevención de desastres) en un mapa, campos de arroz, ríos, canales, diques y zonas de inundación potencial en el mismo cuadro. Foto: Migu / sciwork 2026 (uso justo para crítica editorial)._
 
-Otro proyecto superpone hospitales, clínicas, farmacias, DEA y puntos de cuidados de largo plazo sobre densidad de población, y luego dibuja isócronas. Según él, eso permite “ver la accesibilidad y también ver los desiertos médicos”, es decir, qué lugares tienen a la población a una distancia irrazonable del recurso sanitario más cercano.
+Otro proyecto superpone hospitales, clínicas, farmacias, AED (desfibriladores) y puntos de cuidado a largo plazo sobre la densidad de población, y luego dibuja isócronas (líneas de tiempo de viaje igual). Dijo que así «se ve la accesibilidad, y también se ven los desiertos médicos», es decir, qué lugares están a una distancia irrazonable de los recursos médicos más cercanos.
 
-![Mapa de accesibilidad a recursos médicos: hospitales, clínicas, farmacias, DEA y puntos de cuidados de largo plazo superpuestos sobre población, con isócronas que hacen emerger los desiertos médicos](/article-images/technology/mini-taiwan-medical-2026.webp)
+![Mapa de accesibilidad de recursos médicos: superponiendo hospitales, clínicas, farmacias, AED y puntos de cuidado a largo plazo sobre la población y dibujando isócronas, los desiertos médicos aparecen solos](/article-images/technology/mini-taiwan-medical-2026.webp)
 
-_Recursos médicos: hospitales, clínicas, farmacias, DEA y puntos de cuidados de largo plazo superpuestos sobre población, más isócronas, para “ver la accesibilidad y también ver los desiertos médicos”. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
+_Recursos médicos: superponiendo hospitales, clínicas, farmacias, AED y puntos de cuidado a largo plazo sobre la población, dibujando isócronas, «se ve la accesibilidad, y también se ven los desiertos médicos». Foto: Migu / sciwork 2026 (uso justo para crítica editorial)._
 
-En la línea de desastres trabajó con más detalle: radar meteorológico, niveles de embalses, precipitación y alertas de desastre, todos datos con frecuencias de actualización distintas, se unifican en la capa inferior sobre una misma línea de tiempo. El usuario sólo tiene que arrastrar esa línea y todas las capas se reproducen en sincronía. Dónde empezó una lluvia intensa, cómo subió el embalse, cuándo se emitió una alerta: todo se une en una cadena causal en la misma pantalla.
+En la línea de desastres, lo hizo aún más fino: unificó en la capa inferior datos con diferentes frecuencias de actualización (eco de radar, nivel de embalses, precipitación, alertas de desastres) en un mismo eje temporal. El usuario solo tiene que arrastrar esa barra de tiempo y todas las capas se reproducen sincronizadas. Desde dónde comenzó una gran lluvia, cómo subieron los embalses y cuándo se emitieron las alertas, se conectan en una línea causal en la misma pantalla.
 
-![Línea de tiempo de lluvias intensas y desastres: radar meteorológico, embalses, precipitación y alertas de desastre, con frecuencias distintas, unificados sobre una línea de tiempo y reproducidos en sincronía](/article-images/technology/mini-taiwan-disaster-2026.webp)
+![Eje temporal de lluvia y desastres: eco de radar, embalses, precipitación y alertas de desastres de diferentes frecuencias unificadas en un eje temporal para reproducción sincronizada](/article-images/technology/mini-taiwan-disaster-2026.webp)
 
-_Lluvias intensas y desastres: radar meteorológico, embalses, precipitación y alertas de desastre se unifican por debajo en una misma línea de tiempo; al arrastrarla, todo se reproduce en sincronía. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
+_Lluvia y desastres: eco de radar, embalses, precipitación y alertas de desastres unificados en la capa inferior en un mismo eje temporal, todo se reproduce sincronizado al arrastrar. Foto: Migu / sciwork 2026 (uso justo para crítica editorial)._
 
-También está flight-arc, donde cada despegue y aterrizaje se dibuja como un arco. La misma API, alimentada con aeropuertos distintos, hace emerger una “huella” diferente para cada aeropuerto: Taoyuan, Haneda en Tokio, Fráncfort, cada uno con su propia forma. Mencionó especialmente Atlanta, el aeropuerto más transitado del mundo: cinco pistas paralelas más rutas de espera superpuestas crean una geometría “como un circuito de carreras”; dijo que esa imagen dibujaba 1.839 trayectorias[^3].
+También está su _flight-arc_, que dibuja las trayectorias de despegue y aterrizaje de cada vuelo. La misma API alimenta diferentes aeropuertos, y cada aeropuerto revela una «huella digital» diferente: Taoyuan, el aeropuerto de Haneda en Tokio, Fráncfort tienen formas propias. Citó especialmente el aeropuerto de Atlanta, el más ocupado del mundo: cinco pistas paralelas más las rutas de espera, la geometría superpuesta «parece una pista de carreras», dijo que dibujó 1.839 trayectorias[^3].
 
-![Mapa de trayectorias de todos los despegues y aterrizajes de Atlanta durante un período; cinco pistas paralelas más rutas de espera superponen una geometría similar a un circuito de carreras](/article-images/technology/mini-taiwan-flight-arc-atlanta-2026.webp)
+![Mapa de trayectorias de todos los despegues y aterrizajes en el aeropuerto de Atlanta durante un periodo, cinco pistas paralelas más rutas de espera superpuestas formando una geometría que parece una pista de carreras](/article-images/technology/mini-taiwan-flight-arc-atlanta-2026.webp)
 
-_Su flight-arc superpone todos los despegues y aterrizajes de Atlanta durante un período: cinco pistas paralelas más rutas de espera dibujan una geometría parecida a un circuito de carreras. Dijo que el flujo mismo es una forma. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
+_Su flight-arc superpone todos los despegues y aterrizajes en el aeropuerto de Atlanta en un mapa: cinco pistas paralelas más rutas de espera, dibujando una geometría que parece una pista de carreras. Dijo que el flujo en sí mismo es una forma. Foto: Migu / sciwork 2026 (uso justo para crítica editorial)._
 
-> 📝 **Nota curatorial**
-> Si hace dos años alguien hubiera dicho “una persona creó el mapa de datos abiertos en tiempo real más completo de Taiwán”, la frase siguiente probablemente habría sido “seguro terminó agotado”. Esa intuición ata escala y mano de obra: cuanto más se hace, más se desgasta la persona. La galaxia de Migu merece atención precisamente porque afloja ese vínculo. Una sola persona empuja al mismo tiempo más de diez repositorios y el proyecto insignia sigue sumando funciones; detrás hay un cambio más fundamental: hacia la etapa final, cada vez más commits ya no los tecleaba él. Cómo se produjo esa “una sola persona” es el verdadero tema de este artículo.
+> 📝 **Nota del curador**
+> Hace dos años, si alguien decía «una persona hizo el mapa de datos abiertos en tiempo real más completo de Taiwán», la siguiente frase solía ser «entonces debe estar agotado». Esta intuición ataba el tamaño a la mano de obra: cuantas más cosas haces, más agotado estás. La galaxia de Migu vale la pena detenerse a mirar precisamente porque afloja esa atadura. Una persona impulsando simultáneamente una decena de repositorios, y el buque insignia creciendo con nuevas funciones continuamente, esconde un cambio más fundamental: al final, cada vez más de esos commits no los hizo él personalmente. Cómo se convirtió esa «una persona» en algo más, es el verdadero tema de este artículo.
 
-## Cincuenta y dos mil ochocientos noventa y un registros: el cerebro humano no alcanza
+## 52.891 entradas, el cerebro humano no puede escanearlo todo
 
-Hasta aquí la historia todavía fluye con facilidad: una persona talentosa hace cada vez más cosas, y cada vez mejor. El giro aparece a mitad de su charla, cuando deja de hablar de “qué hice” y empieza a hablar de “contra qué pared choqué”.
+La historia hasta aquí fluye bien: una persona talentosa, haciendo cada vez más, cada vez mejor. El giro aparece en la mitad de su charla, cuando deja de hablar de «qué hice» y empieza a hablar de «qué pared me encontré».
 
-Mostró una diapositiva titulada “Por qué Agentic OSINT”. Allí desplegó una cifra: data.gov.tw tiene alrededor de 52.891 conjuntos de datos; si se suman las plataformas abiertas de los veintidós condados y ciudades, incluyendo duplicados, aparecen otras sesenta o setenta mil entradas; y eso sin contar datos en manos de organizaciones civiles, ONG e instituciones académicas que nunca entraron en catálogos gubernamentales. Su conclusión fue breve:
+Puso una diapositiva titulada «Por qué un Agentic OSINT». Un número desplegado arriba: data.gov.tw tiene unas 52.891 colecciones de datos. Sumando las plataformas abiertas de veintidós condados y ciudades, con superposiciones, quedan unas 60.000-70.000; sin contar los datos en manos del sector privado, ONG e instituciones académicas que no están en el catálogo gubernamental. Su conclusión fue breve:
 
-> “Tu cerebro humano no alcanza a revisarlos todos.”[^3]
+> «Tu cerebro humano no puede escanearlo todo.»[^3]
 
-Ese es el eje de toda la historia. La persona que en la primera mitad arrastraba un CSV y exclamaba “resulta que hay tantos datos” ahora chocaba de frente con la otra cara de ese “tantos datos”: sólo las más de cincuenta mil entradas de data.gov.tw exigirían, aun leyendo cien por día, más de quinientos días seguidos para revisar una vez el catálogo, y eso sólo para el catálogo central. Hay tantos datos que una sola persona no los agota ni en una vida, mucho menos los hace conversar entre sí. El esfuerzo individual toca aquí un techo.
+Este es el eje de toda la historia. La primera mitad, la persona que arrastraba un CSV y exclamaba «resulta que hay tantos datos», ahora se enfrenta de frente a la otra cara de «tantos datos»: solo las más de 50.000 entradas de data.gov.tw, si una persona lee cien entradas al día, tendría que leer más de quinientos días seguidos para terminar una vez, y esto solo es el catálogo central. Tantos que una persona no podría leerlos en toda una vida, y mucho menos hacer que hablen entre sí. El esfuerzo personal choca con el techo aquí.
 
-Lo que Migu realmente entendió fue la frase siguiente. Que haya demasiados datos para revisarlos, para él, era una señal para cambiar de herramienta:
+Y lo que Migu realmente entendió es la siguiente frase de esta idea. Para él, tener demasiados datos para escanear es una señal de cambiar de herramienta:
 
-> “Sólo cuando los datos pueden ser vistos por un LLM, el agente puede ayudarte a descubrir ‘qué datos deberían verse juntos’.”[^3]
+> «Solo cuando los datos pueden ser vistos por un LLM, un Agente puede ayudarte a descubrir «qué datos deberían verse juntos»»[^3]
 
-La palabra clave es “juntos”. Aunque una persona memorizara los nombres de los cincuenta mil conjuntos de datos, difícilmente recordaría que un “mapa de potencial de incendio” debe combinarse con “zonas de difícil rescate”, o que “puntos de hospitales” deben superponerse con “densidad de población” para revelar desiertos médicos. El valor de los datos no está en cada registro aislado, sino en sus combinaciones; y las combinaciones posibles son una permutación astronómica de cincuenta mil elementos. Ese es precisamente el lugar donde el cerebro humano no alcanza y donde las máquinas sí son fuertes.
+La palabra clave es «verlos juntos». Aunque una persona memorizara los nombres de las 50.000 colecciones de datos, sería difícil pensar por memoria que un «mapa de potencial de incendio» debe combinarse con «zonas de difícil rescate», o que los «puntos de hospitales» deben superponerse a la «densidad de población» para ver los desiertos médicos. El valor de los datos no está en una sola entrada, sino en la combinación; y la posibilidad de combinación es un número astronómico de permutaciones de 50.000 entradas. Esto es justo donde el cerebro humano no puede escanearlo todo, pero la máquina sí es buena.
 
-> 📝 **Nota curatorial**
-> La narrativa habitual de datos abiertos tiene una división clara de tareas. Después del hackatón de 2012 en Academia Sinica bajo el lema “escribir código para transformar la sociedad”, g0v la mostró de manera ejemplar: el gobierno se encarga de abrir los datos, la comunidad cívica de hacerlos visibles. En 2020, el mapa de mascarillas, donde Howard Wu y otros convirtieron en 72 horas los datos de inventario de la Administración Nacional del Seguro de Salud en un mapa consultable por toda la ciudadanía, fue una de las expresiones más conmovedoras de esa división[^4]. La lectura antigua pondría a Migu como prolongación de esa línea: g0v es colectivo; él, individual; una versión de una sola persona del mapa de mascarillas.
+> 📝 **Nota del curador**
+> La narrativa habitual de los datos abiertos tiene una línea clara de división del trabajo. Después del hackatón de 2012 en la Academia Sinica «Programar para transformar la sociedad», g0v lo demostró bellamente: el gobierno se encarga de abrir los datos, la comunidad ciudadana se encarga de hacer que los datos sean visibles. En 2020, con el mapa de mascarillas, Wu Chan-wei y otros convirtieron los datos de inventario del Instituto Nacional de Seguro Médico en un mapa consultable por todos en 72 horas, el momento más conmovedor de esta línea[^4]. La vieja forma pondría a Migu en la prolongación de esta línea: g0v es colectivo, él es individual, un mapa de mascarillas versión individual.
 >
-> Pero esa comparación se queda en la superficie y además invierte la causalidad. Que Migu, una sola persona, pueda acercarse a la escala de “toda una galaxia de datos” no se debe, en lo fundamental, a mano de obra. Desde el inicio no planeó competir contra el mar de datos con trabajo manual y desgaste. “El cerebro humano no alcanza” no debe leerse tanto como una rendición, sino como el punto de partida para reemplazar todo el modo de trabajo. La forma nueva no es “individuo vs. colectivo”, sino “individuo × agente”: una persona puede alcanzar escala galáctica precisamente porque esos commits no los escribió todos a mano. Lo que sigue es cómo funciona ese sistema.
+> Pero esta comparación se queda en la superficie y invierte la causalidad. Que Migu pueda acercarse al tamaño de «una galaxia de datos completa» no se debe fundamentalmente a la mano de obra. Desde el principio no planeó pelear contra el mar de datos con trabajo duro y agotamiento. La frase «el cerebro humano no puede escanearlo todo», leída no como rendición, sino como el punto de partida para cambiar todo el modelo de trabajo, tiene más sentido. La verdadera nueva modalidad no es «individual vs colectivo», es «individual × Agente»: el motivo por el que una persona puede lograr el tamaño de una galaxia es precisamente porque esos commits no los hizo todos él a mano. A continuación, cómo funciona este sistema.
 
-## No escribí ni una palabra: una pipeline de incendios que corre sola
+## No escribí una palabra: una tubería de incendios que se ejecuta sola
 
-Para entender qué significa “entregarlo al agente”, el mejor corte es el ejemplo de incendios de su charla.
+Para entender qué significa «entregar a un Agente», la mejor rebanada es el ejemplo de incendios en su charla.
 
-Dijo que sólo le lanzó al sistema una frase: “Analiza datos públicos relacionados con incendios en Taiwán”. Luego lo soltó.
+Dijo que solo le dio al sistema una frase: «Analizar datos públicos relacionados con incendios en Taiwán». Y luego soltó el control.
 
-El sistema empezó a ampliar por sí mismo el radio de búsqueda. Migu describió el proceso con una serie de cifras que se expandían ronda a ronda: primero, palabras clave que daban 582 coincidencias; luego, sinónimos y expansión temática que crecían hasta 1.945; después, búsqueda de texto completo y eliminación de duplicados; finalmente, un catálogo unificado de 73.900 registros repartidos en 21 plataformas[^3]. Entra una frase; sale un inventario de más de setenta mil datos.
+El sistema comenzó a expandir su propio alcance de búsqueda. Migu describe este proceso con un conjunto de números que se expanden por turnos: primero alcanzó 582 entradas con palabras clave, luego creció a 1.945 entradas con sinónimos y expansión temática, luego completó la búsqueda con búsqueda de texto completo y deduplicación, finalmente consolidando un catálogo unificado que abarca 21 plataformas y 73.900 entradas[^3]. Una frase entra, sale un inventario de más de 70.000 datos.
 
 ```tw-figure
-Una frase → 73.900 registros
-Él lanzó “Analiza datos públicos relacionados con incendios en Taiwán”; el sistema amplió búsquedas por sí mismo y produjo un catálogo unificado a través de 21 plataformas
-Según su presentación en sciwork 2026
+Una frase → 73.900 entradas
+Le dio una frase «Analizar datos públicos relacionados con incendios en Taiwán», el sistema expandió la búsqueda por sí mismo y consolidó el número de entradas del catálogo unificado cruzando 21 plataformas
+Lo dijo en la presentación de sciwork 2026
 ```
 
-La recolección por sí sola no era el final. Esa pipeline luego dividió los incendios en seis etapas (prevención, respuesta, notificación, análisis de origen, pérdidas e informes), las cruzó con los veintidós condados y ciudades, y produjo una matriz de cobertura. Incluso aparecieron inventarios a escala local, como el mapa de potencial de incendios de Hsinchu, las zonas de difícil rescate de Taipéi y el rescate en estanques de Taoyuan. También marcó con honestidad las brechas: no hay API de incendios en tiempo real, las coordenadas a nivel de evento son escasas, los datos de seguimiento posterior al desastre no están abiertos al público.
+Solo recoger no es suficiente. Esta tubería (pipeline) luego se separó los incendios en seis etapas (prevención, respuesta, reporte, análisis de origen, pérdidas, informes) y los multiplicó por veintidós condados y ciudades, generando una matriz de cobertura, sacando incluso inventarios a nivel local como el mapa de potencial de incendios de Hsinchu, las zonas de difícil rescate de Taipéi, el rescate en los estanques de Taoyuan. Incluso marcó honestamente dónde hay lagunas: falta una API de incendios en tiempo real, las coordenadas a nivel de evento son escasas, los datos de seguimiento post-desastre no son públicos.
 
-Luego vino el análisis. Mostró un informe de causas de incendio que el sistema había generado solo: según 15.405 registros nacionales del año 113 de la República de China (2024), la causa principal de incendios en Nuevo Taipéi fueron factores eléctricos, con 30,9%; en el condado de Pingtung, las colillas de cigarrillo, con 35,2%[^3]. Esas cifras salieron, según la captura de su presentación, de agentes conectando diversas API; no de él consultando tablas una por una.
+Luego está el análisis. Citó un informe de causas de incendios generado por el sistema mismo: según 15.405 entradas nacionales de 2024 (año 113 del calendario de la República de China), la causa principal de incendios en la Nueva Taipéi son factores eléctricos, representando el 30,9%; en el condado de Pingtung son colillas de cigarrillo, representando el 35,2%[^3]. Estos números son resultados generados por los Agentes conectando las APIs de各家 en las capturas de pantalla de su presentación, no calculados por él revisando tablas entrada por entrada.
 
-En ese punto, escribió en una diapositiva una frase con espacios deliberados entre los caracteres, como si temiera que no se viera bien:
+Al llegar aquí, escribió en la diapositiva una línea con espacios entre cada carácter, como si temiera que no lo vieras claro:
 
-> “Pipeline generada automáticamente. Yo no escribí ni una sola palabra.”[^3]
+> «La tubería (pipeline) se produce automáticamente. Yo no escribí una palabra.»[^3]
 
-Esa frase fue el detonante de toda la charla. Convirtió el lema algo abstracto de “entregarlo al agente” en un hecho concreto, casi inquietante: desde una frase hasta un catálogo de más de setenta mil datos y un informe de causas por condado y ciudad, el lugar intermedio que normalmente ocuparía una persona dando instrucciones, escribiendo scripts, limpiando datos y corriendo análisis estaba vacío.
+Esta frase es el punto de explosión de toda la charla. Convierte la frase algo abstracta de «entregar a un Agente» en un hecho concreto, casi inquietante: de una frase, a un catálogo de más de 70.000 datos, a un informe de causas por condado, el espacio que normalmente debería ser llenado por alguien dando instrucciones, escribiendo scripts, limpiando datos y ejecutando análisis, está vacío.
 
-![Salida de la pipeline temática de incendios: el sistema inventaría automáticamente datos abiertos de incendios entre plataformas, lista conjuntos de datos candidatos y una matriz de cobertura](/article-images/technology/mini-taiwan-fire-pipeline-2026.webp)
+![Pantalla de producción de la tubería de análisis temático de incendios: el sistema inventa automáticamente datos abiertos relacionados con incendios cruzando plataformas, lista colecciones candidatas y matriz de cobertura](/article-images/technology/mini-taiwan-fire-pipeline-2026.webp)
 
-_Salida del inventario temático de incendios que Migu mostró en su presentación de sciwork 2026: lanza “Analiza datos públicos relacionados con incendios en Taiwán”, el sistema expande búsquedas por sí mismo y consolida un catálogo unificado entre plataformas; él dijo que en esa pipeline “no escribí ni una sola palabra”. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
+_La producción de inventario temático de incendios mostrada por Migu en la presentación de sciwork 2026: le dio una frase «Analizar datos públicos relacionados con incendios en Taiwán», el sistema expandió la búsqueda por sí mismo y consolidó el catálogo cruzando plataformas, dijo que esta tubería «yo no escribí una palabra». Foto: Migu / sciwork 2026 (uso justo para crítica editorial)._
 
-## Cuatro pasos separables: entran datos, el informe se envía solo
+## Cuatro pasos desmontables: entran los datos, el informe se envía solo
 
-Esa pipeline de incendios es sólo un corte; detrás está la miniatura de todo su sistema. El sistema se divide en cuatro pasos: recepción de datos, integración de conocimiento, generación de análisis y activación de acciones. Subrayó especialmente que “cada paso puede reemplazarse por separado; no hace falta reconstruirlo todo”. La capa inferior, la recepción de datos, también fue una evolución para él: al principio descargaba Excel manualmente desde data.gov.tw, lo leía y lo guardaba por su cuenta, con el cuello de botella en la “memoria humana”; en la etapa intermedia pasó a buscar API en línea, descargar informes PDF y rastrear plataformas de condados y ciudades, pero el problema era que “no había índice”; hasta llegar al presente, donde los metadatos de cada dato se estandarizan y guardan en un catálogo SQLite, consultable y expandible automáticamente[^3]. Detrás de su sistema corren más de cuarenta recolectores de datos: YouBike, autobuses, flujo vehicular en autopistas, horarios de Taiwan Railways, AIS marítimo, satélites meteorológicos, terremotos, niveles de embalses, calidad del aire. Además, según dijo, tres errores consecutivos disparan de inmediato una alerta por Telegram, y todos los días a las nueve de la mañana recibe un Daily Review en su correo[^3].
+Esta tubería de incendios es solo una rebanada, el microcosmos de todo su sistema. El sistema tiene cuatro pasos: recepción de datos, integración de conocimiento, generación de análisis, activación de acción. Hizo especial énfasis en que «cada paso puede ser reemplazado individualmente, todo el sistema no necesita ser reconstruido». La recepción de datos en la capa inferior también evolucionó: primero fue descarga manual de Excel desde data.gov.tw, lectura y almacenamiento propio, el cuello de botella estaba en la «memoria humana»; en la etapa media pasó a buscar APIs en internet, extraer informes PDF, hacer scraping de plataformas de condados, el problema era «falta de índice»; hasta ahora, los metadatos de cada entrada se almacenan estandarizados en un catálogo SQLite, que puede ser consultado automáticamente y expandido automáticamente[^3]. Su sistema tiene detrás más de cuarenta colectores de datos, desde YouBike, autobuses, tráfico en autopistas, horarios del tren de alta velocidad, AIS de barcos, satélites meteorológicos, terremotos, nivel de embalses, calidad del aire, y dijo que si falla tres veces seguidas, envía inmediatamente una alerta a Telegram, y a las nueve de la mañana empuja un «Revisión Diaria» a su correo[^3].
 
-En el último paso, “activación de acciones”, explicó con máxima claridad el rol humano: “El agente corre el ciclo completo. Rol humano: dar objetivos, recibir informes. En medio giran cinco engranajes por sí solos: descubrimiento, recolección, integración, producción y monitoreo”. El sistema incluso genera automáticamente un informe semanal de “nuevos datos abiertos de esta semana”. En sus palabras: “Los temas emergen solos; los informes llegan solos al correo”[^3].
+En el último paso, «activación de acción», dejó el rol humano más claro: «El Agente ejecuta el ciclo completo. Rol humano: dar objetivos, recibir informes. Los cinco engranajes del medio giran solos: descubrir, recoger, integrar, producir, monitorear». El sistema incluso genera automáticamente un informe semanal de «nuevos datos abiertos de esta semana». En sus palabras: «El tema aparece solo, el informe llega solo al buzón»[^3].
 
-## Un mando, muchas pestañas: la flota de Claude dentro de tmux
+## Un director, una flota de pestañas: la flota de Claude en tmux
 
-Frases como “el agente corre el ciclo completo” se pueden oír fácilmente como marketing. En el último tramo de su charla, Migu levantó la tapa de una forma poco común y permitió ver cómo eran los engranajes debajo. Esa estructura era mucho más concreta que el lema, y también mucho más honesta.
+La frase «el Agente ejecuta el ciclo completo» puede pasar fácilmente como marketing. En la última parte de su charla, Migu难得的 levantó la tapa, mostrando cómo son los engranajes de abajo, y esa estructura es mucho más concreta y honesta que la frase.
 
-Primero, la vista general del ciclo. Migu dijo que su sistema SIG es “un centro de orquestación que conecta un círculo de repositorios independientes, y el agente entra estación por estación”: primero va al repositorio encargado de explorar para identificar qué datos vale la pena trabajar; luego entra al repositorio de recolección para traerlos; finalmente va a repositorios de presentación como mini-taiwan-pulse o mini-taiwan-info para dibujar los mapas. Lo describió con precisión: “Cada estación es un repositorio independiente; la capa de orquestación sólo gestiona progreso y decisiones; el trabajo vive en manos de los workers de cada repo”[^3].
+Primero, el panorama de este ciclo. Migu dijo que su sistema SIG es «un centro de orquestación, conectando un círculo de repositorios independientes, los Agentes entran en estación uno por uno»: primero al repositorio de exploración para ver qué datos vale la pena hacer, luego al repositorio de recolección para traer los datos, finalmente al repositorio de presentación como _mini-taiwan-pulse_ o _mini-taiwan-info_ para dibujar el mapa. Lo describió con precisión: «Cada parada es un repositorio independiente, la capa de orquestación solo se ocupa del progreso y las decisiones, el trabajo real está en los workers de cada repositorio»[^3].
 
-A ese centro de orquestación lo llama Orchestrator; en esencia es “una Claude Session”. Ese agente principal actúa como un capataz: lee un documento de propuesta, descompone las tareas, ordena sus dependencias y pone el trabajo en marcha.
+A este centro de orquestación lo llamó Orchestrator, que es esencialmente «una Sesión de Claude». Este Agente principal hace algo parecido a un capataz que lleva gente: lee un archivo de propuesta, divide las tareas, ordena las dependencias entre ellas, y luego empieza el trabajo.
 
-La manera de ponerlo en marcha es el paso clave de la arquitectura. No hizo que una sola IA hiciera todo de principio a fin, sino que usó tmux (una herramienta antigua para dividir la terminal en múltiples pestañas independientes) para aislar el trabajo. Sus palabras fueron: “Un Orchestrator, un grupo de Workers. El agente principal es una Claude Session; tmux se encarga del aislamiento, cada Worker es una pestaña independiente, una Session independiente”. Una definición más concisa: “Un Worker = una pestaña de tmux + una Session independiente + un PR”[^3].
+La forma de empezar es el paso más clave de esta arquitectura. No dejó que una sola IA hiciera todo desde el principio hasta el final, sino que separó el trabajo usando tmux (una vieja herramienta que permite dividir la terminal en múltiples pestañas independientes). Su frase original fue: «Un Orchestrator, una flota de Workers. El Agente principal es una Sesión de Claude; tmux se encarga del aislamiento, cada Worker es una pestaña independiente, una Sesión independiente». Una definición más concisa es: «Un Worker = una pestaña de tmux + Sesión independiente + un PR»[^3].
 
-En otras palabras, lo que dirige es en realidad una flota de IA. Cada worker es un Claude aislado en su propia pestaña, cada uno realiza su tarea, cada uno entrega su pull request, sin interferir con los demás.
+En otras palabras, lo que dirige en realidad es una flota de IA. Cada worker es un Claude aislado en su propia pestaña, haciendo cada uno su tarea, entregando cada uno su pull request, sin interferirse mutuamente.
 
-![Funcionamiento real del sistema de orquestación de agentes: una Claude session actúa como orchestrator, lee tareas, las descompone y dirige a los workers](/article-images/technology/mini-taiwan-agent-orchestrator-2026.webp)
+![Pantalla de funcionamiento real del sistema de orquestación de Agentes: una sesión de Claude como orchestrator, leyendo tareas, dividiendo, dirigiendo a los workers de abajo](/article-images/technology/mini-taiwan-agent-orchestrator-2026.webp)
 
-_El centro de orquestación que mostró en su presentación: una Claude session como orchestrator, que reparte tareas a un grupo de workers aislados en sus propias pestañas de tmux, cada uno trabajando y entregando un PR. Imagen: Migu / sciwork 2026 (uso justo con fines de comentario editorial)._
+_El centro de orquestación que levantó en su presentación: una sesión de Claude actuando como orchestrator, dividiendo tareas a una flota de workers aislados en sus propias pestañas de tmux, trabajando por separado, entregando cada uno un PR. Foto: Migu / sciwork 2026 (uso justo para crítica editorial)._
 
-¿Cómo evita que esos workers, trabajando cada uno por su lado, choquen entre sí? Con una memoria común. Migu dijo que el progreso y las decisiones se escriben íntegramente como documentos, concentrados en un tablero llamado `SESSION_BOARD.md`, junto con “un informe por Session”, de modo que “no hace falta adivinarse mutuamente” y “una persona, un archivo; sin pelearse”[^3]. Incluso los traspasos de tareas se convierten en documentos: con un `HANDOFF.md` prepara “la hoja de tareas del siguiente relevo”, para que el siguiente agente no tenga que empezar preguntando desde cero. La última barrera la describió con cuidado: “Validación: el Orchestrator valida los PR contra los documentos; el merge lo decide una persona. Sólo entonces se cierra el ciclo”.
+¿Y cómo estos workers que hacen cosas por separado no se pelean? Gracias a una memoria compartida. Migu dijo que el progreso y las decisiones se escriben en archivos, centralizados en un tablero llamado `SESSION_BOARD.md`, más «un informe por Sesión», así que «no hay que adivinarse mutuamente», «uno por archivo, no se pelean»[^3]. Incluso la entrega de tareas se documenta: usó un `HANDOFF.md` para preparar «el libro de tareas del siguiente relevo», para que el Agente de la siguiente ronda no tenga que empezar desde cero preguntando. La última barrera la dijo con cuidado: «Verificación final, el Orchestrator verifica el PR对照 archivos, el merge lo decide una persona, solo así se cierra el ciclo».
 
-Si aplanamos este proceso, aparece una forma limpia: una persona da una instrucción; un grupo de IA aisladas trabaja por separado y deja constancia de lo que hizo; un centro coteja todo contra documentos; y la decisión final de “aceptar o no este resultado” la toma Migu. Volviendo al eje del artículo: hay demasiados datos para revisarlos todos, así que la revisión completa se entrega a la flota; la persona retrocede hasta quedar con sólo dos acciones: formular el problema y validar. En la presentación lo formuló casi como una declaración:
+Si aplanas este flujo, ves una forma limpia: una persona da instrucciones, una flota de IA aislada trabaja por separado y escribe lo que hizo, un centro verifica las cuentas según los archivos, y la persona final que decide «si aceptar este resultado» es el propio Migu. Volviendo al eje de este artículo: los datos son tantos que no se pueden escanear, así que toda la tarea de escanear se entrega a la flota; y el humano retrocede a solo dos acciones, plantear la pregunta y verificar el resultado. Lo dijo en su presentación como una frase casi declarativa:
 
-> “Cuando el agente puede correr todo el ciclo por sí mismo, el trabajo humano se reduce a formular el problema y validar.”[^3]
+> «Cuando el Agente puede ejecutar todo el ciclo por sí mismo, el trabajo humano se reduce a: plantear preguntas y verificar resultados.»[^3]
 
-Eso es también lo que apunta el título de toda su charla: “Entregar los datos abiertos de Taiwán a agentes para criar un sistema que crece por sí mismo”. Los datos fluyen solos, las páginas crecen solas; la persona sólo tiene que formular bien la pregunta y validar bien el resultado.
+Este es también el título al que apunta toda su charla: «Entregar los datos abiertos de Taiwán a un Agente para cultivar un sistema que crece por sí mismo». Los datos fluyen solos, las páginas crecen solas, el humano solo tiene que plantear bien la pregunta y verificar bien el resultado.
 
-## El mismo suelo produce el mismo esqueleto
+## Mismo suelo, crece el mismo esqueleto
 
-Si al llegar aquí conoces Taiwan.md (este proyecto de curaduría de conocimiento sobre Taiwán mantenido por IA que estás leyendo), tal vez la descripción anterior te resulte familiar.
+Si llegas hasta aquí y reconoces Taiwan.md (este proyecto de curación de conocimiento sobre Taiwán mantenido por IA), es posible que la descripción del párrafo anterior te suene familiar.
 
 No es una ilusión.
 
-Taiwan.md funciona precisamente así: una sesión principal actúa como centro de orquestación, descompone el trabajo para un grupo de workers aislados, cada uno con su propio archivo de memoria independiente, coordina el progreso mediante documentos de traspaso, y la decisión final sobre qué cambios entran en la rama principal la toma una persona, el creador Che-yu. Nuestra tesis es “entregar el conocimiento de Taiwán a un Semiont capaz de crecer por sí mismo”; la tesis de Migu es “entregar los datos abiertos de Taiwán a un sistema capaz de crecer por sí mismo”. Las dos frases casi podrían intercambiar sujeto.
+Taiwan.md funciona así: una sesión principal actúa como centro de orquestación, dividiendo el trabajo a una flota de workers aislados, cada uno con su propio archivo de memoria, coordinando el progreso con archivos de entrega, y la decisión final de qué cambios entran en la rama principal la toma el creador, Zhe Yu. Nuestra tesis es «entregar el conocimiento de Taiwán a un Semiont que crece por sí mismo»; la tesis de Migu es «entregar los datos abiertos de Taiwán a un sistema que crece por sí mismo». Las dos frases son intercambiables en el sujeto.
 
-Lo más sugerente es que ambas arquitecturas crecieron por separado. En los registros públicos se puede comprobar un pequeño dato: Taiwan.md nació a mediados de marzo de 2026; cinco días después, apareció un fork en el GitHub de Migu[^5]. Pero eso, como mucho, indica que sabía que existía algo así; un fork no explica todo su sistema de dirigir una flota de tmux con un orchestrator, compartir memoria con tableros y dejar que las personas sólo formulen problemas y validen. Eso lo construyó paso a paso para resolver su propio problema: “cincuenta mil datos que no se pueden revisar”.
+Más digna de reflexión es que estas dos arquitecturas crecieron por separado. En los registros públicos se puede ver un pequeño detalle: el proyecto Taiwan.md nació a mediados de marzo de 2026, cinco días después, en el GitHub de Migu apareció un fork[^5]. Pero esto a lo sumo dice que sabía que existía algo así; un fork no explica su sistema completo de orquestar una flota de tmux con un orchestrator, compartir memoria con un tablero, y el humano solo planteando preguntas y verificando resultados. Eso lo construyó paso a paso para resolver el problema de «escanear 50.000 datos».
 
-> 📝 **Nota curatorial**
-> En biología existe el término evolución convergente: delfines y tiburones no son parientes cercanos, pero ambos desarrollaron cuerpos hidrodinámicos y aletas dorsales porque enfrentan el mismo mar. Entre Migu y Taiwan.md ocurre algo más parecido a esa convergencia que a una relación de linaje. Usamos la misma base de herramientas (Claude Code) y enfrentamos la misma situación: una persona, o un sistema, debe sostener una cantidad de información sobre Taiwán muy superior a la capacidad de un cerebro individual. Así, cada quien tanteó por su lado hasta llegar al mismo esqueleto: un centro, un grupo de trabajadores aislados, una memoria compartida y una persona responsable de decidir.
+> 📝 **Nota del curador**
+> En biología hay un término llamado evolución convergente: delfines y tiburones no son parientes cercanos, pero ambos desarrollaron cuerpos aerodinámicos y aletas dorsales porque enfrentan el mismo mar. Entre Migu y Taiwan.md hay más esta convergencia, poco que ver con la relación sanguínea. Usamos la misma base de herramientas (Claude Code), enfrentamos la misma situación (una persona o un sistema, debe contener la cantidad de información sobre Taiwán que excede la capacidad del cerebro humano), y así,摸索ando por separado, llegaron al mismo esqueleto: un centro, una flota de trabajadores aislados, una memoria compartida, una persona que toma la decisión final.
 >
-> La señal verdaderamente interesante no es “él hizo fork de nosotros”. Es que dos builders taiwaneses independientes, durante el mismo semestre de 2026, reformularon casi al mismo tiempo la IA: ya no como “una herramienta más inteligente”, sino como “un equipo que puede ser orquestado”. Cuando esta arquitectura empieza a crecer desde la cabeza de una persona hacia una segunda y una tercera, deja de ser el truco de alguien y se convierte en una nueva forma que está brotando en este suelo en este momento. Es muy posible que el próximo builder taiwanés que construya algo así ni siquiera haya oído hablar de los dos primeros.
+> La señal realmente interesante no es «él hizo un fork de nosotros». Es que dos constructores taiwaneses independientes, en el mismo semestre de 2026, redefinieron espontáneamente a la IA de «una herramienta más inteligente» a «una flota que puede ser orquestada». Cuando esta arquitectura comienza a crecer del cerebro de una persona al cerebro de una segunda, al de una tercera, deja de ser el truco de alguien para convertirse en la nueva modalidad que está brotando en este suelo y esta época. El próximo constructor taiwanés que construya esto por sí mismo, probablemente ni siquiera haya oído hablar de los dos anteriores.
 
-## Todavía no está terminado, pero la forma ya apareció
+## Aún no terminado, pero la forma ya aparece
 
-Si este artículo terminara en el párrafo anterior, sería una historia demasiado bonita, tan bonita que resultaría algo sospechosa: una persona resuelve con elegancia el problema de cincuenta mil datos gracias a una flota de IA.
+Si este artículo terminara en el párrafo anterior, sería una historia demasiado bonita, bonita hasta parecer sospechosa: una persona, con una flota de IA, resolvió elegantemente el problema de 50.000 datos.
 
-Migu no la dejó detenerse allí. La penúltima diapositiva de su charla llevaba este título: “Avance del experimento: aproximadamente la mitad”.
+Migu mismo no dejó que se detuviera ahí. La penúltima diapositiva de su charla tenía el título «Progreso del experimento, aproximadamente a la mitad».
 
-Enumeró con franqueza tres cosas que todavía no estaban ajustadas. La primera era la estabilidad: este harness “todavía no está ajustado al ideal”; los agentes se desvían con facilidad y se interrumpen con facilidad. La segunda era que los datos abiertos son demasiado heterogéneos: “todavía hay muchas cosas en las que se necesita juicio humano para decidir si los datos son viables; no se le puede entregar todo por completo”. La tercera era la intervención humana: en cada etapa, en realidad, sigue haciendo falta una persona mirando al lado. Su nota al pie para todo el asunto fue: “Viable es viable, pero aún no es estable, y todavía estoy pensando si realmente quiero hacerlo así”[^3].
+Listó honestamente tres cosas que aún no están ajustadas. Primero es la estabilidad: este arnés (harness) «aún no está en el estado ideal», los Agentes tienden a desviarse, a interrumpirse. Segundo es que los datos abiertos son demasiado diversos: «aún hay muchos que requieren juicio humano sobre si los datos son viables, no se pueden entregar completamente a él». Tercero es la intervención manual: en cada etapa, en realidad todavía se requiere que una persona esté mirando. Su nota al pie para todo esto fue: «Es viable, pero aún no es estable, y además sigo pensando si realmente debo hacerlo así»[^3].
 
-Esa honestidad de subirse al escenario y mostrar voluntariamente la mitad fallida del propio sistema es, en sí misma, la señal de calidad más fuerte. En una época en que las demos de IA se empaquetan con facilidad como “totalmente automáticas” y “sin mano de obra”, una persona dispuesta a escribir en una diapositiva “aproximadamente la mitad”, “todavía no es estable” y “todavía necesita personas” inspira más confianza en que la otra mitad de lo que construyó es real.
+Esta honestidad de levantar la mitad de su propio fracaso en el escenario de la charla, es en sí misma la señal de calidad más fuerte. En una era donde los demos de IA se empaquetan frecuentemente como «totalmente automáticos», «cero mano de obra», una persona que se atreve a escribir en la diapositiva «aproximadamente a la mitad», «aún no es estable», «todavía necesita gente», hace que la gente confíe más en que la otra mitad que hizo es real.
 
-> 📝 **Nota curatorial**
-> La parte más creíble de esta charla no es, en realidad, aquella pipeline de incendios de “no escribí ni una palabra”, sino las cuatro palabras “aproximadamente la mitad”. Alguien que quiere convencerte redondearía la tasa de éxito a “casi totalmente automático”; alguien que está experimentando te dice con honestidad que falla la mitad del tiempo. Lo primero vende una conclusión; lo segundo entrega una escena de trabajo. Migu entrega la escena de trabajo. Por eso, cuando dice que en esa pipeline “no escribí ni una palabra”, eliges creerle. Si se esconde la mitad fea, la mitad bonita también se vuelve poco creíble; cuando se muestra la mitad imperfecta, la otra mitad recién se sostiene.
+> 📝 **Nota del curador**
+> La parte más creíble de esta charla, en realidad, no es la tubería de incendios de «yo no escribí una palabra», sino las cuatro palabras «aproximadamente a la mitad». Una persona que quiere convencerte redondeará la tasa de éxito a «casi totalmente automático»; una persona que está haciendo un experimento te dirá honestamente que falla la mitad del tiempo. El primero vende la conclusión, el segundo da el escenario. Migu dio el escenario: por eso, cuando dijo que esta tubería «yo no escribí una palabra», eligiste creerle. Esconder la mitad fea hace que la mitad bonita también sea desconfiada; estar dispuesto a mostrar la mitad imperfecta es lo que permite que la otra mitad se sostenga.
 
-Volvamos a aquel mapa.
+Volvamos al mapa.
 
-La persona que arrastró un CSV a Kepler.gl y se sorprendió con “resulta que convertirlo en mapa no es tan difícil” estaba, medio año después, sobre el escenario de sciwork, ya no hablando de si los mapas eran fáciles de hacer, sino de un sistema que busca datos, los combina y hace crecer páginas nuevas por sí mismo. Aquella sorpresa ingenua, “resulta que Taiwán tiene tantos datos”, se dio vuelta durante ese medio año: hay tantos datos, tantos que una persona no puede revisarlos todos, que la forma de hacerlos visibles también debe adquirir una nueva forma.
+La persona que arrastraba un CSV a Kepler.gl, exclamando «resulta que convertir en mapa no es tan difícil», seis meses después estaba en el escenario de sciwork, ya no hablando de si el mapa es fácil de hacer, sino de un sistema que busca datos por sí mismo, los combina por sí mismo, y crea nuevas páginas por sí mismo. La ingenua exclamación de aquel año «resulta que Taiwán tiene tantos datos», en estos seis meses dio la vuelta: tantos datos, tantos que una persona no puede escanearlos, así que la forma de ser vistos también tiene que crecer de una nueva manera.
 
-Los datos abiertos de Taiwán siempre estuvieron ahí. data.gov.tw está en línea desde 2013; TDX integró en 2022 cinco grandes plataformas —carreteras, ferrocarriles, aviación, navegación y bicicletas—; el Ministerio del Interior tiene población a nivel de aldea y barrio, y la Administración Meteorológica Central ofrece API abiertas[^6]. Datos nunca faltaron. Lo difícil es cómo hacer que tantos datos conversen entre sí y puedan ser vistos. g0v respondió una vez con fuerza colectiva; Migu, con una persona y una flota de IA, está intentando responder por segunda vez, y admite generosamente que sólo acertó la mitad.
+Los datos abiertos de Taiwán siempre han estado ahí. data.gov.tw se lanzó en 2013, TDX en 2022 integró cinco plataformas mayores: carretera, ferrocarril, aviación, navegación, bicicletas; el Ministerio del Interior tiene datos de población a nivel de aldea y vecindario, la Oficina Central Meteorológica tiene APIs abiertas[^6]. Los datos siempre fueron suficientes, la dificultad es cómo hacer que estos tantos datos hablen entre sí y sean vistos. g0v respondió una vez con la fuerza colectiva; Migu, con una persona más una flota de IA, está intentando responder la segunda vez, y admite generosamente que solo respondió la mitad correctamente.
 
-Pero la forma ya apareció. Detrás de una persona, una frase y un mapa que respira, hay un sistema que está aprendiendo a crecer por sí mismo. La otra mitad queda para la siguiente persona que arrastre un CSV y luego ya no pueda detenerse.
+Pero la forma ya apareció. Una persona, una frase, detrás de un mapa que respira, hay un sistema que está aprendiendo a crecer por sí mismo. La otra mitad queda para la próxima persona que arrastre un CSV y luego no pueda parar.
 
 ---
 
-## Lecturas ampliadas
+## Lecturas adicionales
 
-- [Wu Che-yu](/people/吳哲宇): creador de Taiwan.md, que también usa programación y herramientas generativas para acercarse a “algo que crece por sí mismo”
-- [Comunidad de código abierto y g0v](/technology/開源社群與g0v): el contexto colectivo de “escribir código para transformar la sociedad”, contrapunto del modelo individuo × agente de Migu
-- [Espíritu de código abierto de Taiwán](/technology/台灣開源精神): desde salvar el país con el teclado hasta los datos abiertos, la cultura de base de la tecnología cívica taiwanesa
-- [Identidad digital y gobierno digital](/technology/數位身分證與數位政府): la otra cara de la infraestructura gubernamental de datos abiertos
+- [Zhe Yu](/people/吳哲宇): Creador de Taiwan.md, también usando código y herramientas generativas para acercarse a «algo que crece por sí mismo»
+- [Comunidad de código abierto y g0v](/technology/開源社群與g0v): El contexto colectivo de «programar para transformar la sociedad», grupo de control de la modalidad individual × Agente de Migu
+- [Espíritu de código abierto de Taiwán](/technology/台灣開源精神): De la salvación de la nación con el teclado a los datos abiertos, la cultura subyacente de la tecnología ciudadana de Taiwán
+- [Identificación digital y gobierno digital](/technology/數位身分證與數位政府): La otra cara de la infraestructura de datos abiertos del gobierno
 
-## Enlaces de proyectos
+## Enlaces del proyecto
 
-**La galaxia “Mini Taiwan”** (visualización de datos abiertos de Taiwán; todos son proyectos personales de código abierto de Migu)
+**Galaxia «Mini Taiwán»** (Visualización de datos abiertos de Taiwán, todos proyectos de código abierto personales de Migu)
 
-- **mini-taiwan-pulse**: proyecto insignia, mapa en tiempo real de cinco pulsos en co-moción (375★) — <https://github.com/ianlkl11234s/mini-taiwan-pulse>
-- **mini-taiwan-learning-project**: primer proyecto de aprendizaje ferroviario de Taipéi que se volvió viral (189★) — <https://github.com/ianlkl11234s/mini-taiwan-learning-project>
-- **flight-arc-graph**: trayectorias de despegue y aterrizaje, la “huella” de cada aeropuerto (56★) — <https://github.com/ianlkl11234s/flight-arc-graph>
-- **mini-taiwan-info**: panel de monitoreo de situación de Taiwán en siete grandes temas — <https://github.com/ianlkl11234s/mini-taiwan-info>
-- **tw-ship-viz**: visualización de puntos AIS marítimos en tiempo real (11★) — <https://github.com/ianlkl11234s/tw-ship-viz>
-- **satellite-arc**: visualización de órbitas y pasos satelitales — <https://github.com/ianlkl11234s/satellite-arc>
-- **mini-tw-cctv**: imágenes en tiempo real de todo Taiwán — <https://github.com/ianlkl11234s/mini-tw-cctv>
-- **mini-tw-tra-atlas**: atlas de la red de Taiwan Railways — <https://github.com/ianlkl11234s/mini-tw-tra-atlas>
-- **taiwan-weather-timelapse**: time-lapse meteorológico — <https://github.com/ianlkl11234s/taiwan-weather-timelapse>
-- **gis-data-collectors**: columna vertebral de más de cuarenta recolectores de datos — <https://github.com/ianlkl11234s/gis-data-collectors>
+- **mini-taiwan-pulse**: Buque insignia, mapa en tiempo real de cinco pulsos (375★) — <https://github.com/ianlkl11234s/mini-taiwan-pulse>
+- **mini-taiwan-learning-project**: Proyecto de aprendizaje de transporte ferroviario de Taipéi, el primero en hacerse popular (189★) — <https://github.com/ianlkl11234s/mini-taiwan-learning-project>
+- **flight-arc-graph**: Trayectorias de despegue y aterrizaje de vuelos, la «huella digital» de cada aeropuerto (56★) — <https://github.com/ianlkl11234s/flight-arc-graph>
+- **mini-taiwan-info**: Panel de control de situación de Taiwán de siete temas — <https://github.com/ianlkl11234s/mini-taiwan-info>
+- **tw-ship-viz**: Visualización de puntos en tiempo real AIS de buques (11★) — <https://github.com/ianlkl11234s/tw-ship-viz>
+- **satellite-arc**: Visualización de órbitas de satélites y sobrevuelos — <https://github.com/ianlkl11234s/satellite-arc>
+- **mini-tw-cctv**: Imágenes en tiempo real de todo el país — <https://github.com/ianlkl11234s/mini-tw-cctv>
+- **mini-tw-tra-atlas**: Atlas de la red ferroviaria del tren de alta velocidad — <https://github.com/ianlkl11234s/mini-tw-tra-atlas>
+- **taiwan-weather-timelapse**: Timelapse meteorológico — <https://github.com/ianlkl11234s/taiwan-weather-timelapse>
+- **gis-data-collectors**: El esqueleto detrás de los más de cuarenta colectores de datos — <https://github.com/ianlkl11234s/gis-data-collectors>
 
-**Charla y autor**
+**Charla y la persona**
 
-- **Presentación en línea de la charla sciwork 2026**: <https://sciwork-showcase.zeabur.app>
+- **Presentación online de la charla sciwork 2026**: <https://sciwork-showcase.zeabur.app>
 - **Código fuente de la charla sciwork 2026**: <https://github.com/ianlkl11234s/0613-sci-work-share>
 - **GitHub del desarrollador (Migu)**: <https://github.com/ianlkl11234s>
 - **Threads**: [@ianlkl1314](https://www.threads.net/@ianlkl1314)
 
 ## Referencias
 
-- Migu, “Mini Taiwan! Entregar los datos abiertos de Taiwán a agentes para criar un sistema que crece por sí mismo”, sciwork 2026 / SCIWORK SEMINAR, 13 de junio de 2026.
-- Plataforma gubernamental de datos abiertos data.gov.tw (operada por el Consejo Nacional de Desarrollo, en línea desde 2013).
-- Plataforma de circulación de datos de transporte TDX (Ministerio de Transportes y Comunicaciones, integración de cinco grandes plataformas de transporte en 2022).
-- Comunidad g0v y registros de hackatones anteriores.
+- Migu, «¡Mini Taiwán! Entregar los datos abiertos de Taiwán a un Agente para cultivar un sistema que crece por sí mismo», sciwork 2026 / SCIWORK SEMINAR, 13 de junio de 2026.
+- Plataforma de apertura de datos gubernamentales data.gov.tw (operada por la Comisión de Desarrollo Económica, lanzada en 2013).
+- Plataforma de servicios de circulación de datos de transporte TDX (Ministerio de Transportes y Comunicaciones, integró cinco plataformas de transporte en 2022).
+- Comunidad de gobierno cero g0v y registros de hackatones anteriores.
 
-## Fuentes de las imágenes
+## Fuentes de imagen
 
-Todas las imágenes de este artículo están cacheadas en `public/article-images/technology/`; no se enlazan directamente desde el servidor de origen.
+Todas las imágenes de este artículo se almacenan en caché en `public/article-images/technology/`, sin enlaces directos a los servidores de origen.
 
-**Uso justo con fines de comentario editorial**: todas las imágenes de este artículo fueron capturadas de la presentación pública de Migu en sciwork 2026 (véanse el código fuente y la presentación en línea en “Enlaces de proyectos”), conforme al artículo 65 de la Ley de Derecho de Autor y a los cuatro factores de fair use del 17 U.S.C. § 107 (naturaleza educativa no comercial, obra ya publicada, proporción citada reducida y ausencia de sustitución sustancial del mercado), como citas de comentario editorial sobre su trabajo de visualización de datos abiertos. © Migu / sciwork 2026.
+**Uso justo para crítica editorial**: Todas las imágenes de este artículo se extrajeron de la presentación de la charla publicada públicamente por Migu en sciwork 2026 (código fuente y presentación online ver enlace de proyecto arriba), según el artículo 65 de la Ley de Derechos de Autor y los cuatro factores de uso justo de 17 U.S.C. § 107 (naturación educativa no comercial, ya publicada públicamente, proporción de引用 pequeña, sin sustitución sustancial de mercado), como引用 de crítica editorial a su trabajo de visualización de datos abiertos. © Migu / sciwork 2026.
 
-Incluye: mapa 3D de Mini Taiwan Pulse (imagen principal), punto de partida en Kepler.gl, ferrocarriles de Taipéi (Mini Taipei), AIS marítimo, órbitas satelitales, mapas integrados de agricultura × agua y recursos médicos, línea de tiempo de lluvias intensas y desastres, huella de trayectorias de Atlanta, salida de pipeline temática de incendios, panel Mini Taiwan Info y funcionamiento del sistema de orquestación de agentes.
+Cubre: Mapa 3D de Mini Taiwan Pulse (imagen principal), punto de partida de Kepler.gl, transporte ferroviario de Taipéi (Mini Taipéi), AIS de buques, órbitas de satélites, mapas integrados de Agricultura × Agua y recursos médicos, eje temporal de lluvia y desastres, huella digital de trayectorias de Atlanta, producción de tubería de incendios temática, panel de control de Mini Taiwan Info, pantalla de funcionamiento del sistema de orquestación de Agentes.
 
 ---
 
-[^1]: El desarrollador Migu Cheng, cuenta de GitHub `ianlkl11234s` (cuenta creada en marzo de 2020). En junio de 2026, su perfil de GitHub había sido actualizado a “Building GIS visualizations from Taiwan open data · Exploring AI automation in daily work”, reescribiendo la descripción anterior “analista sénior de datos, explorando automatización con IA en el trabajo cotidiano” como “crear visualizaciones SIG con datos abiertos de Taiwán”. La frase “Resulta que Taiwán tiene tantos datos; resulta que convertirlos en mapa no es tan difícil” es texto literal de la diapositiva “DAY 0, el primer mapa” de su charla sciwork 2026. Fuentes: extracción mediante API de GitHub, 2026-06-25; código fuente de la presentación `ianlkl11234s/0613-sci-work-share`.
+[^1]: Desarrollador Migu Cheng, cuenta de GitHub `ianlkl11234s` (cuenta creada en marzo de 2020). Su biografía de GitHub se actualizó en junio de 2026 a «Building GIS visualizations from Taiwan open data · Exploring AI automation in daily work», cambiando de «Analista de datos senior, explorando automatización de IA en el trabajo diario» a «Haciendo visualizaciones GIS con datos abiertos de Taiwán». La frase «Resulta que Taiwán tiene tantos datos, y convertirlos en un mapa no es tan difícil» es el texto literal de la diapositiva «DÍA 0 Primer mapa» de su charla sciwork 2026. Fuente de datos: extracción de API de GitHub, 2026-06-25; código fuente de la presentación `ianlkl11234s/0613-sci-work-share`.
 
-[^2]: Las estrellas, forks, última fecha de actualización, origen de forks y otros datos de mini-taiwan-pulse y de los proyectos de la galaxia “Mini Taiwan” fueron extraídos por Taiwan.md mediante la API de GitHub el 2026-06-25. En ese momento mini-taiwan-pulse tenía 375 stars / 26 forks y seguía recibiendo push el 2026-06-25; mini-taiwan-learning-project tenía 189 stars; flight-arc-graph, 56 stars. La galaxia incluye más de diez repositorios relacionados con datos abiertos de Taiwán, entre ellos poc-bus-range, gis-data-collectors, tw-ship-viz, satellite-arc, mini-tw-cctv y mini-taiwan-info.
+[^2]: El número de estrellas, forks, última actualización, origen del fork, etc., de _mini-taiwan-pulse_ y los proyectos de la galaxia «Mini Taiwán», fueron todos extraídos por Taiwan.md a través de la API de GitHub el 2026-06-25. _mini-taiwan-pulse_ tenía entonces 375 estrellas / 26 forks, y aún estaba haciendo push el 2026-06-25; _mini-taiwan-learning-project_ 189 estrellas; _flight-arc-graph_ 56 estrellas. La galaxia contiene más de una decena de repositorios relacionados con datos abiertos de Taiwán como poc-bus-range, gis-data-collectors, tw-ship-viz, satellite-arc, mini-tw-cctv, mini-taiwan-info, etc.
 
-[^3]: Migu, “Mini Taiwan! Entregar los datos abiertos de Taiwán a agentes para criar un sistema que crece por sí mismo”, sciwork 2026 / SCIWORK SEMINAR, 13 de junio de 2026. Código fuente de la charla: <https://github.com/ianlkl11234s/0613-sci-work-share>; presentación en línea: <https://sciwork-showcase.zeabur.app>. Todas las cifras citadas en este artículo (aprox. 52.891 conjuntos de datos en data.gov.tw; pipeline de incendios 582 → 1.945 → 2.404 → 73.900 registros; 21 plataformas; 15.405 incendios nacionales del año 113; factores eléctricos en Nuevo Taipéi 30,9%; colillas en el condado de Pingtung 35,2%; más de 5.700 autobuses; más de 40 recolectores; más de trescientos trenes; 1.839 trayectorias en el aeropuerto de Atlanta; agricultura × agua 400 MB → aprox. 5 MB, etc.) y todas las citas (“el cerebro humano no alcanza”, “sólo cuando los datos pueden ser vistos por un LLM, el agente puede ayudarte a descubrir qué datos deberían verse juntos”, “Pipeline generada automáticamente. Yo no escribí ni una sola palabra”, “dar objetivos, recibir informes”, “cuando el agente puede correr todo el ciclo por sí mismo, el trabajo humano se reduce a formular el problema y validar”, “un Worker = una pestaña de tmux + una Session independiente + un PR”, “cada estación es un repositorio independiente; la capa de orquestación sólo gestiona progreso y decisiones”, “avance del experimento, aproximadamente la mitad”, etc.) corresponden a declaraciones del propio Migu y texto literal de sus diapositivas en esa presentación; son afirmaciones personales del ponente y salidas de su sistema, no estadísticas gubernamentales verificadas de forma independiente por Taiwan.md.
+[^3]: Migu, «¡Mini Taiwán! Entregar los datos abiertos de Taiwán a un Agente para cultivar un sistema que crece por sí mismo», sciwork 2026 / SCIWORK SEMINAR, 13 de junio de 2026. Código fuente de la charla: <https://github.com/ianlkl11234s/0613-sci-work-share>; presentación online: <https://sciwork-showcase.zeabur.app>. Todos los números citados en este artículo (aproximadamente 52.891 colecciones de datos en data.gov.tw, 582 → 1.945 → 2.404 → 73.900 entradas de la tubería de incendios, 21 plataformas, 15.405 entradas de incendios nacionales de 2024, 30,9% factores eléctricos en la Nueva Taipéi, 35,2% colillas de cigarrillo en Pingtung, más de 5.700 autobuses, más de 40 colectores, más de 300 trenes, 1.839 trayectorias en el aeropuerto de Atlanta, 400MB → aprox. 5MB en Agricultura × Agua, etc.) y todas las citas («el cerebro humano no puede escanearlo todo», «Solo cuando los datos pueden ser vistos por un LLM, un Agente puede ayudarte a descubrir qué datos deberían verse juntos», «La tubería se produce automáticamente. Yo no escribí una palabra», «Dar objetivos, recibir informes», «Cuando el Agente puede ejecutar todo el ciclo por sí mismo, el trabajo humano se reduce a: plantear preguntas y verificar resultados», «Un Worker = una pestaña de tmux + Sesión independiente + un PR», «Cada parada es un repositorio independiente, la capa de orquestación solo se ocupa del progreso y las decisiones», «Progreso del experimento aproximadamente a la mitad», etc.) son declaraciones y textos literales de diapositivas del propio Migu en esa presentación, pertenecientes a las opiniones personales del orador y los resultados de su sistema, no estadísticas gubernamentales verificadas independientemente por Taiwan.md.
 
-[^4]: La comunidad g0v se originó en 2012 a partir del espíritu del hackatón de Academia Sinica “escribir código para transformar la sociedad”; durante la COVID-19 en 2020, Howard Wu y otros usaron los datos de inventario de mascarillas publicados por la Administración Nacional del Seguro de Salud para crear en decenas de horas el “mapa en tiempo real de oferta y demanda de mascarillas”, un caso representativo de la tecnología cívica taiwanesa de “salvar el país con el teclado”.
+[^4]: Comunidad de gobierno cero g0v, originada en 2012 del espíritu del hackatón de la Academia Sinica «Programar para transformar la sociedad»; en 2020, durante la pandemia de neumonía por coronavirus, Wu Chan-wei y otros usaron los datos de inventario de mascarillas publicados por el Instituto Nacional de Seguro Médico para crear un «mapa en tiempo real de oferta y demanda de mascarillas» en decenas de horas, el caso representativo de la tecnología ciudadana de Taiwán «salvación de la nación con el teclado».
 
-[^5]: Según la API de GitHub (extracción del 2026-06-25), `ianlkl11234s/taiwan-md` es un fork de `frank890417/taiwan-md` (el cuerpo principal de Taiwan.md), creado el 22 de marzo de 2026. El proyecto Taiwan.md nació a mediados de marzo de 2026. El sistema colaborativo de Migu usa Claude Code como base de herramientas (el código fuente de su charla incluye CLAUDE.md; el orchestrator es “una Claude Session”), igual que Taiwan.md.
+[^5]: Según la API de GitHub (extraída el 2026-06-25), `ianlkl11234s/taiwan-md` es un fork de `frank890417/taiwan-md` (es decir, el propio Taiwan.md), creado el 22 de marzo de 2026. El proyecto Taiwan.md nació a mediados de marzo de 2026. El sistema de colaboración de Migu usa Claude Code como base de herramientas (su código fuente de la charla contiene CLAUDE.md, el orchestrator es «una Sesión de Claude»), igual que Taiwan.md.
 
-[^6]: La plataforma gubernamental de datos abiertos data.gov.tw es operada por el Consejo Nacional de Desarrollo y está en línea desde 2013; la plataforma de circulación de datos de transporte TDX fue integrada por el Ministerio de Transportes y Comunicaciones en 2022 a partir de cinco grandes plataformas de transporte: carreteras, ferrocarriles, aviación, navegación y bicicletas; la plataforma de datos socioeconómicos del Ministerio del Interior (SEGIS) ofrece datos de población a nivel de aldea y barrio; la Administración Meteorológica Central del Ministerio de Transportes y Comunicaciones ofrece API abiertas. La cantidad total actual de conjuntos de datos en data.gov.tw no pudo verificarse de forma independiente mediante API en esta ocasión; la cifra de “alrededor de cincuenta mil” utilizada en este artículo proviene de la presentación de Migu.
+[^6]: La plataforma de apertura de datos gubernamentales data.gov.tw es operada por la Comisión de Desarrollo Económico, lanzada en 2013; la plataforma de servicios de circulación de datos de transporte TDX fue integrada por el Ministerio de Transportes y Comunicaciones en 2022, integrando cinco plataformas de transporte: carretera, ferrocarril, aviación, navegación, bicicletas; la plataforma de servicios de datos socioeconómicos del Ministerio del Interior (SEGIS) proporciona datos de población a nivel de aldea y vecindario; la Oficina Central Meteorológica del Ministerio de Transportes y Comunicaciones proporciona APIs abiertas. El número total de colecciones de datos en tiempo real de data.gov.tw no pudo ser verificado independientemente vía API en esta ocasión; el número de «aproximadamente 50.000» adoptado en este artículo es el mostrado en la presentación de Migu.
 
 _Última verificación: 2026-06-25_
