@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T10:51:04+08:00",
-    "zhCommitHead": "5c97d2221",
+    "lastUpdated": "2026-07-26T10:51:33+08:00",
+    "zhCommitHead": "bbbc2b9be",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -59,10 +59,10 @@
       },
       "vi": {
         "total_zh": 865,
-        "fresh": 134,
+        "fresh": 135,
         "stale": 16,
         "metadata_stale": 1,
-        "missing": 714,
+        "missing": 713,
         "orphan": 0
       },
       "id": {
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 865,
-        "fresh": 433,
+        "fresh": 434,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 420,
+        "missing": 419,
         "orphan": 0
       },
       "hi": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 865,
-        "fresh": 320,
+        "fresh": 321,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 544,
+        "missing": 543,
         "orphan": 0
       }
     },
@@ -9932,8 +9932,8 @@
           "sourceContentHash": "sha256:d6da6fce353b5bfa",
           "sourceBodyHash": "sha256:4d55bf95947dc191",
           "translatedAt": "2026-07-26T08:50:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bbbc2b9b",
+          "translationLastModified": "2026-07-26T10:51:04+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -11770,8 +11770,8 @@
           "sourceContentHash": "sha256:b344ec326785b46d",
           "sourceBodyHash": "sha256:a5b8490e2fd9be42",
           "translatedAt": "2026-07-26T08:50:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bbbc2b9b",
+          "translationLastModified": "2026-07-26T10:51:04+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -12825,8 +12825,8 @@
           "sourceContentHash": "sha256:bdad2fe4c19ade1d",
           "sourceBodyHash": "sha256:65d8bf2fc8ebb567",
           "translatedAt": "2026-07-26T10:36:38+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bbbc2b9b",
+          "translationLastModified": "2026-07-26T10:51:04+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -13985,7 +13985,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Technology/taiwan-gaming-industry.md",
+          "translatedFrom": "Technology/台灣遊戲產業與數位娛樂.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:431ea1bf9d43ad2f",
+          "sourceBodyHash": "sha256:3075ecd0a9c35ac1",
+          "translatedAt": "2026-07-26T10:36:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -23457,8 +23468,8 @@
           "sourceContentHash": "sha256:8c1e84b77bb235ea",
           "sourceBodyHash": "sha256:96b8f13a864b5e24",
           "translatedAt": "2026-07-26T08:50:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bbbc2b9b",
+          "translationLastModified": "2026-07-26T10:51:04+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -47612,8 +47623,8 @@
           "sourceContentHash": "sha256:564bd16fb31e71be",
           "sourceBodyHash": "sha256:7dbe663cdddeba6e",
           "translatedAt": "2026-07-26T08:50:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bbbc2b9b",
+          "translationLastModified": "2026-07-26T10:51:04+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -60463,8 +60474,8 @@
           "sourceContentHash": "sha256:5948ff9d2aa67b97",
           "sourceBodyHash": "sha256:b16f2be3d2468ceb",
           "translatedAt": "2026-07-26T08:50:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bbbc2b9b",
+          "translationLastModified": "2026-07-26T10:51:04+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "status": "fresh",
@@ -62672,7 +62683,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/lai-ho-father-of-taiwanese-literature.md",
+          "translatedFrom": "People/賴和.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ea423174510ba903",
+          "sourceBodyHash": "sha256:12da8a5e75f1d767",
+          "translatedAt": "2026-07-26T10:36:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/lai-ho-father-of-taiwanese-literature.md",
@@ -67387,8 +67409,8 @@
           "sourceContentHash": "sha256:a4d0a0070adaa30d",
           "sourceBodyHash": "sha256:4b10f11517195560",
           "translatedAt": "2026-07-26T08:50:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bbbc2b9b",
+          "translationLastModified": "2026-07-26T10:51:04+08:00",
           "inferred": false,
           "footnoteDefs": 3,
           "status": "fresh",
@@ -67660,8 +67682,8 @@
           "sourceContentHash": "sha256:1893791073a1e549",
           "sourceBodyHash": "sha256:c10dde5e8f5a2f8e",
           "translatedAt": "2026-07-26T08:50:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bbbc2b9b",
+          "translationLastModified": "2026-07-26T10:51:04+08:00",
           "inferred": false,
           "footnoteDefs": 1,
           "status": "fresh",
@@ -68053,8 +68075,8 @@
           "sourceContentHash": "sha256:bdd54d293989cf15",
           "sourceBodyHash": "sha256:9a3851545dcaaf3c",
           "translatedAt": "2026-07-26T08:50:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bbbc2b9b",
+          "translationLastModified": "2026-07-26T10:51:04+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -85398,8 +85420,8 @@
           "sourceContentHash": "sha256:1cb263ad912afc83",
           "sourceBodyHash": "sha256:308ab8066ca9a9d0",
           "translatedAt": "2026-07-26T08:50:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bbbc2b9b",
+          "translationLastModified": "2026-07-26T10:51:04+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -103618,7 +103640,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/taiwan-incense-making-culture-and-heritage.md",
+          "translatedFrom": "Culture/台灣製香文化與香腳原鄉.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:90f09bc6a0a80e4d",
+          "sourceBodyHash": "sha256:396be33a77ed6ba1",
+          "translatedAt": "2026-07-26T10:36:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
