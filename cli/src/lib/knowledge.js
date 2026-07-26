@@ -95,6 +95,11 @@ export function getLanguageDirs() {
  * @param {string} name - top-level directory name
  */
 export function isZhCategoryDir(name) {
+  // Dot-directories are tooling, never content: knowledge/.obsidian holds an
+  // Obsidian vault config, and Obsidian will happily create .md files inside
+  // it. Caught 2026-07-26 by this module's own reconciliation test, which is
+  // the point of having one.
+  if (name.startsWith('.')) return false;
   if (NON_ARTICLE_DIRS.has(name)) return false;
 
   const langDirs = getLanguageDirs();

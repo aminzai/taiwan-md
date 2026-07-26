@@ -75,7 +75,11 @@ describe('language registry derivation', () => {
         .readdirSync(knowledgeDir, { withFileTypes: true })
         .filter((e) => e.isDirectory())
         .map((e) => e.name)
-        .filter((n) => !REAL_CATEGORIES.has(n) && n !== 'resources');
+        // Dot-dirs are tooling (.obsidian), not languages.
+        .filter(
+          (n) =>
+            !n.startsWith('.') && !REAL_CATEGORIES.has(n) && n !== 'resources',
+        );
       for (const dir of onDisk) {
         expect(langs.has(dir), `language dir not in registry: ${dir}`).toBe(
           true,
@@ -86,6 +90,12 @@ describe('language registry derivation', () => {
 
   it('classifies resources/ as non-article', () => {
     expect(isZhCategoryDir('resources')).toBe(false);
+  });
+
+  it('classifies dot-directories as non-article', () => {
+    // knowledge/.obsidian exists and Obsidian creates .md files in it.
+    expect(isZhCategoryDir('.obsidian')).toBe(false);
+    expect(isZhCategoryDir('.git')).toBe(false);
   });
 
   it('classifies a known category as an article dir', () => {
