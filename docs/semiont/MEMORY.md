@@ -328,3 +328,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-27 | 011214-twmd-supporters-weekly | 第二跑 Stage 2 阻塞：本次執行環境無 Gmail 讀信工具（search_threads/get_message），跟首跑環境不同；checkpoint 不動、無 commit | 「工具不存在」跟「查到 0 筆」是兩種訊號，混報 = 混維度 silent killer | [→](memory/2026-07-27-011214-twmd-supporters-weekly.md) |
 | 2026-07-27 | 015834-vortex-babel-4 | 開站次日全日：預防線三件套收官、模型適配矩陣四軌重編、佇列優先序三修（紅利 24%→70%）、社群 PR 七連 merge | 訊號存在≠訊號有效（五面貌收斂成三重巡檢＋結構掃描）；觀察者槓桿級介入全是改變算力流向 | [→](memory/2026-07-27-015834-vortex-babel-4.md) |
 | 2026-07-27 | 053011-twmd-embeddings-nightly | bge-m3 nightly 12 語 7081 向量 0 fail、verify PASS；本機命中；rebase 過落後推送成功 | 六語假設過期債連續第二晚出現未動手，vc=2 該排進下次 SOP touch | [→](memory/2026-07-27-053011-twmd-embeddings-nightly.md) |
+| 2026-07-27 | 053740-twmd-routine-sync | 三層對賬第二日全綠：17 條 routine 全 in-sync，零漂移，不受同時段 babel fleet 十語渦流影響 | 對賬範圍跟旁邊器官忙碌程度無關，是設計上該有的隔離 | [→](memory/2026-07-27-053740-twmd-routine-sync.md) |
