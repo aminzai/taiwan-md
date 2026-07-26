@@ -68,6 +68,9 @@ KNOWLEDGE = REPO / "knowledge"
 STATUS_JSON = KNOWLEDGE / "_translation-status.json"
 TRANSLATIONS_JSON = KNOWLEDGE / "_translations.json"
 GIT_LOCK = Path("/tmp/taiwan-md-git.lock")
+# 難篇記憶：跨 run 累計的失敗次數，決定佇列優先序（不在 repo 內——這是本機
+# 產線狀態不是專案資產）
+FAIL_MEMO = Path("/tmp/babel-fail-memo.json")
 MAX_FAIL_RETRIES = 3   # 同一篇本 run 失敗幾次後讓出輪次（退避，非永久放棄——下個 run 重來）  # SAME path the legacy bash dispatchers use
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -333,7 +336,14 @@ class RunState:
                                                             # docstring, 2026-07-24 cross-engine incident)
         self.last_worker: dict = {}                       # "lang:zh" -> worker label (soft retry-avoid)
         self.quarantine_log: dict = defaultdict(set)       # lang -> {zh_path} — audit trail
-        self.fail_counts: dict = defaultdict(int)          # "lang:zh" -> 本 run 失敗次數。
+        self.fail_counts: dict = defaultdict(int)          # "lang:zh" -> 累計失敗次數（跨 run 持久化）。
+        # 難篇記憶跨 run 保留——不然每次重啟都先拿同一批撞牆文章開刀，
+        # 而它們正是最不可能成功的（2026-07-26 優先序佇列改造）。
+        try:
+            if FAIL_MEMO.exists():
+                self.fail_counts.update(json.loads(FAIL_MEMO.read_text(encoding="utf-8")))
+        except Exception:
+            pass
                                                             # 2026-07-25：原本 quarantine_log 刻意「不排除
                                                             # 未來輪次」讓文章下一輪重試，但沒有退避——同一篇
                                                             # 失敗後立刻被重撈、再失敗、再重撈，撞上 10 分鐘
@@ -394,26 +404,38 @@ def default_langs(status_data: dict) -> list:
 
 
 def build_worklist(status_data: dict, lang: str, priority: str, order: str,
-                    exclude: set | None = None) -> list:
+                    fail_counts: dict | None = None) -> list:
+    """優先序佇列：失敗過的文章往後排，不排除。
+
+    2026-07-26 哲宇 directive「失敗的把優先序自動往後排，往下繼續嘗試新的
+    文章才是好的策略，這樣逐步過濾出不容易處理的文章」。此前是硬性 exclude
+    ——連續 N 次失敗就整輪不碰，下個 run 又從頭來過，於是每次啟動都先拿同一
+    批難篇撞牆。改成把失敗次數當第一排序鍵：沒試過的最先，試過一次的次之，
+    撞牆多次的自然沉到隊尾。效果有二：算力優先花在有機會成功的文章上；
+    而沉底的那批本身就是「難篇清單」，可以拿去換模型或人工看。
+    """
     by_article = status_data["byArticle"]
-    exclude = exclude or set()
+    fail_counts = fail_counts or {}
     p0, p1 = [], []
     for zh, info in by_article.items():
-        if zh in exclude:
-            continue
         t = info.get("translations", {}).get(lang, {})
         st = t.get("status")
+        nfail = fail_counts.get(f"{lang}:{zh}", 0)
         if st == "missing":
-            p0.append((zh, info["zh"]["lastModified"]))
+            p0.append((zh, info["zh"]["lastModified"], nfail))
         elif st in ("stale", "metadata-stale"):
-            p1.append((zh, info["zh"]["lastModified"]))
-    p0.sort(key=lambda x: x[1], reverse=True)  # newest zh edit first (matches prepare-batch.py --top order)
+            p1.append((zh, info["zh"]["lastModified"], nfail))
+    # 先按 zh 最後編輯時間排（新的優先，對齊 prepare-batch --top）
+    p0.sort(key=lambda x: x[1], reverse=True)
     p1.sort(key=lambda x: x[1], reverse=True)
     if order == "reverse":
         p0 = list(reversed(p0))
         p1 = list(reversed(p1))
-    p0_paths = [z for z, _ in p0]
-    p1_paths = [z for z, _ in p1]
+    # 再按失敗次數穩定排序（Python sort 穩定，同層維持上面的時間序）
+    p0.sort(key=lambda x: x[2])
+    p1.sort(key=lambda x: x[2])
+    p0_paths = [z for z, _, _ in p0]
+    p1_paths = [z for z, _, _ in p1]
     if priority == "p0":
         return p0_paths
     if priority == "p1":
@@ -533,6 +555,11 @@ def do_commit(lang: str, state: RunState, no_commit: bool, log: Logger) -> None:
     # Refresh derived JSONs FIRST, then take the lock and commit (matches
     # legacy invariant: status/translations caches never lag behind the
     # commit that introduces the files they describe).
+    try:
+        FAIL_MEMO.write_text(json.dumps(dict(state.fail_counts), ensure_ascii=False),
+                             encoding="utf-8")
+    except Exception:
+        pass
     subprocess.run(["python3", "scripts/tools/sync-translations-json.py"], cwd=REPO, capture_output=True, text=True)
     subprocess.run(["python3", "scripts/tools/lang-sync/status.py"], cwd=REPO, capture_output=True, text=True)
     git_lock_commit(lang, workers, files, log)
@@ -803,16 +830,11 @@ def main() -> None:
 
         per_lang_tasks: dict = {}
         for lang in langs:
-            # 本 run 連 MAX_FAIL_RETRIES 次失敗的文章讓出輪次（見 RunState.fail_counts）：
-            # 沒有退避的話，同一批 gate-fail 文章會被每一輪重撈，撞 mtime dedupe 後
-            # 整輪空轉——實測 200 輪只推進 50 篇。
-            exhausted = {
-                zh for key, n in state.fail_counts.items()
-                if n >= MAX_FAIL_RETRIES and key.startswith(f"{lang}:")
-                for zh in [key.split(":", 1)[1]]
-            }
+            # 失敗次數決定優先序（2026-07-26 改，此前是硬性 exclude）：撞牆多次
+            # 的沉到隊尾，沒試過的先跑，算力優先花在有機會成功的文章上。
+            # fail_counts 跨 run 持久化，所以重啟不會又從同一批難篇開始撞。
             worklist = build_worklist(status_data, lang, args.priority, args.order,
-                                       exclude=exhausted)
+                                       fail_counts=state.fail_counts)
             cap = 10 * len(workers)
             if remaining_budget is not None:
                 cap = min(cap, remaining_budget - sum(len(v) for v in per_lang_tasks.values()))
@@ -889,10 +911,18 @@ def main() -> None:
             log(f"  {lang}: fresh={s['fresh']} stale={s['stale']} missing={s['missing']} "
                 f"metadata_stale={s.get('metadata_stale', 0)}")
     log(f"quarantine_log this run: {dict((k, sorted(v)) for k, v in state.quarantine_log.items())}")
-    backed_off = sorted(k for k, n in state.fail_counts.items() if n >= MAX_FAIL_RETRIES)
-    if backed_off:
-        log(f"退避（本 run 連 {MAX_FAIL_RETRIES} 次失敗，讓出輪次給沒試過的文章）："
-            f"{len(backed_off)} 篇 — {backed_off[:10]}{' …' if len(backed_off) > 10 else ''}")
+    # 難篇清單：累計失敗次數分層，這本身是產物不是噪音——沉底的那批可以拿去
+    # 換模型專攻或人工看（2026-07-26 優先序佇列改造）
+    tiers = {}
+    for k, n in state.fail_counts.items():
+        tiers.setdefault(min(n, 5), []).append(k)
+    if tiers:
+        log("難篇分層（累計失敗次數 → 佇列優先序，多的沉底但不放棄）：")
+        for n in sorted(tiers, reverse=True):
+            items = sorted(tiers[n])
+            log(f"  {n}× 失敗：{len(items)} 篇" +
+                (f" — {items[:5]}{' …' if len(items) > 5 else ''}" if n >= 3 else ""))
+        log(f"  記憶已存 {FAIL_MEMO}（下個 run 續用，不會又從難篇開始撞）")
     log("DONE")
 
 
