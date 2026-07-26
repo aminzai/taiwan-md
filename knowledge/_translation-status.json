@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-27T05:40:32+08:00",
-    "zhCommitHead": "994999b50",
+    "lastUpdated": "2026-07-27T06:09:53+08:00",
+    "zhCommitHead": "1e29900b8",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -35,24 +35,24 @@
       },
       "ko": {
         "total_zh": 869,
-        "fresh": 731,
-        "stale": 132,
+        "fresh": 732,
+        "stale": 131,
         "metadata_stale": 1,
         "missing": 5,
         "orphan": 0
       },
       "es": {
         "total_zh": 869,
-        "fresh": 737,
-        "stale": 127,
+        "fresh": 743,
+        "stale": 121,
         "metadata_stale": 0,
         "missing": 5,
         "orphan": 0
       },
       "fr": {
         "total_zh": 869,
-        "fresh": 742,
-        "stale": 124,
+        "fresh": 745,
+        "stale": 121,
         "metadata_stale": 0,
         "missing": 3,
         "orphan": 0
@@ -67,18 +67,18 @@
       },
       "id": {
         "total_zh": 869,
-        "fresh": 351,
+        "fresh": 352,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 507,
+        "missing": 506,
         "orphan": 0
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 551,
+        "fresh": 553,
         "stale": 12,
         "metadata_stale": 1,
-        "missing": 305,
+        "missing": 303,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 427,
+        "fresh": 429,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 440,
+        "missing": 438,
         "orphan": 0
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 460,
+        "fresh": 462,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 407,
+        "missing": 405,
         "orphan": 0
       }
     },
@@ -5286,18 +5286,16 @@
         "es": {
           "path": "es/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
           "translatedFrom": "Economy/台灣產業轉型升級.md",
-          "sourceCommitSha": "bb3e6a0b",
-          "sourceContentHash": "sha256:9aa75ab5aaf39eb6",
-          "sourceBodyHash": "sha256:4a2bc57ff97cab00",
-          "translatedAt": "2026-05-20T05:08:32+08:00",
+          "sourceCommitSha": "d6377e82e",
+          "sourceContentHash": "sha256:e6cb5dd5b7d9e8ed",
+          "sourceBodyHash": "sha256:ebbc94611dc1b8f9",
+          "translatedAt": "2026-07-27T05:46:59+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
@@ -13982,10 +13980,32 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/taiwan-bim-construction-tech.md",
+          "translatedFrom": "Technology/台灣BIM與營建科技.md",
+          "sourceCommitSha": "30072b76a",
+          "sourceContentHash": "sha256:7923803a611ee1da",
+          "sourceBodyHash": "sha256:ac277cd39572ac41",
+          "translatedAt": "2026-07-27T05:39:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 53,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/taiwan-bim-construction-tech.md",
+          "translatedFrom": "Technology/台灣BIM與營建科技.md",
+          "sourceCommitSha": "30072b76a",
+          "sourceContentHash": "sha256:7923803a611ee1da",
+          "sourceBodyHash": "sha256:ac277cd39572ac41",
+          "translatedAt": "2026-07-27T05:39:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 53,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -19443,7 +19463,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/submarine-cables-taiwan-lifeline.md",
+          "translatedFrom": "Technology/海底電纜.md",
+          "sourceCommitSha": "5ff155c10",
+          "sourceContentHash": "sha256:a528d560e37c40b9",
+          "sourceBodyHash": "sha256:1790c4ef1b7a9b20",
+          "translatedAt": "2026-07-27T05:39:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 49,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -23130,18 +23161,16 @@
         "ko": {
           "path": "ko/Art/alien-art-centre.md",
           "translatedFrom": "Art/金馬賓館當代美術館.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:dc5814dcedc92ae0",
-          "sourceBodyHash": "sha256:c74e16d96ce01c6c",
-          "translatedAt": "2026-06-16T17:10:38Z",
+          "sourceCommitSha": "209084a3c",
+          "sourceContentHash": "sha256:29f8c92d6f9ec4f0",
+          "sourceBodyHash": "sha256:ab8b8f728e87222a",
+          "translatedAt": "2026-07-27T03:39:56+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Art/alien-art-centre.md",
@@ -23160,18 +23189,16 @@
         "fr": {
           "path": "fr/Art/alien-art-centre.md",
           "translatedFrom": "Art/金馬賓館當代美術館.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:dc5814dcedc92ae0",
-          "sourceBodyHash": "sha256:c74e16d96ce01c6c",
-          "translatedAt": "2026-06-16T17:13:36Z",
+          "sourceCommitSha": "209084a3c",
+          "sourceContentHash": "sha256:29f8c92d6f9ec4f0",
+          "sourceBodyHash": "sha256:ab8b8f728e87222a",
+          "translatedAt": "2026-07-27T03:39:57+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Art/alien-art-centre.md",
@@ -27520,7 +27547,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Lifestyle/history-of-taiwan-mrt-development.md",
+          "translatedFrom": "Lifestyle/台灣捷運發展史.md",
+          "sourceCommitSha": "976dcae41",
+          "sourceContentHash": "sha256:103cffd41c084886",
+          "sourceBodyHash": "sha256:afbe1eb00070eaa4",
+          "translatedAt": "2026-07-27T05:39:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -33938,18 +33976,16 @@
         "es": {
           "path": "es/Society/pts-public-television-service.md",
           "translatedFrom": "Society/公視.md",
-          "sourceCommitSha": "fe48ea49",
-          "sourceContentHash": "sha256:0005eee4bd863414",
-          "sourceBodyHash": "sha256:de293f816b2012e3",
-          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "sourceCommitSha": "81f10131f",
+          "sourceContentHash": "sha256:5d55767b0e73ce88",
+          "sourceBodyHash": "sha256:55150dbbe846399a",
+          "translatedAt": "2026-07-27T05:46:59+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 43,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+4 -4"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/pts-public-television-service.md",
@@ -37025,18 +37061,16 @@
         "es": {
           "path": "es/Society/paraguay-taiwan.md",
           "translatedFrom": "Society/巴拉圭與台灣.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:2883551ecafd55b9",
-          "sourceBodyHash": "sha256:a482ae599cab265e",
-          "translatedAt": "2026-05-09T11:09:57+08:00",
+          "sourceCommitSha": "72a8b4432",
+          "sourceContentHash": "sha256:01affe2533530c02",
+          "sourceBodyHash": "sha256:21c703a5d9235d48",
+          "translatedAt": "2026-07-27T03:39:56+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/paraguay-taiwan.md",
@@ -39166,18 +39200,16 @@
         "fr": {
           "path": "fr/Society/complex-life-festival.md",
           "translatedFrom": "Society/複雜生活節.md",
-          "sourceCommitSha": "bb411ee0",
-          "sourceContentHash": "sha256:6286f5188247616e",
-          "sourceBodyHash": "sha256:c3b8f174f9377cb1",
-          "translatedAt": "2026-06-14T00:35:00+08:00",
+          "sourceCommitSha": "dd82dc4a6",
+          "sourceContentHash": "sha256:288b132714804aff",
+          "sourceBodyHash": "sha256:f51e2d5a46bf8d87",
+          "translatedAt": "2026-07-27T05:46:59+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 36,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -57849,7 +57881,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/huang-shan-liao.md",
+          "translatedFrom": "People/黃山料.md",
+          "sourceCommitSha": "00939ce59",
+          "sourceContentHash": "sha256:0b1bdd0cdf3b8705",
+          "sourceBodyHash": "sha256:a1e88d45df841409",
+          "translatedAt": "2026-07-27T05:39:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 42,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -61250,8 +61293,8 @@
           "sourceContentHash": "sha256:a962a822b6113a98",
           "sourceBodyHash": "sha256:77a2ffda234c910d",
           "translatedAt": "2026-07-27T03:39:56+08:00",
-          "translationLastCommit": "4a07538f",
-          "translationLastModified": "2026-07-25T10:29:52+08:00",
+          "translationLastCommit": "aaf31e57",
+          "translationLastModified": "2026-07-27T05:40:33+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -76238,8 +76281,8 @@
           "sourceContentHash": "sha256:29ee16f25cde68b4",
           "sourceBodyHash": "sha256:fa9994749dd8a224",
           "translatedAt": "2026-07-27T03:39:56+08:00",
-          "translationLastCommit": "4a07538f",
-          "translationLastModified": "2026-07-25T10:29:52+08:00",
+          "translationLastCommit": "aaf31e57",
+          "translationLastModified": "2026-07-27T05:40:33+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -92486,7 +92529,18 @@
           "diffSummary": "+10 -10"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/taiwan-island-historiography.md",
+          "translatedFrom": "History/台灣島史觀.md",
+          "sourceCommitSha": "a1c3748b5",
+          "sourceContentHash": "sha256:584f286b403c0d75",
+          "sourceBodyHash": "sha256:4711da6579afc037",
+          "translatedAt": "2026-07-27T05:54:43+08:00",
+          "translationLastCommit": "427a3d45",
+          "translationLastModified": "2026-07-25T11:20:12+08:00",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/taiwan-island-historiography.md",
@@ -93049,18 +93103,16 @@
         "es": {
           "path": "es/History/taiwan-transitional-justice.md",
           "translatedFrom": "History/台灣轉型正義.md",
-          "sourceCommitSha": "6c2f8ea8",
-          "sourceContentHash": "sha256:4b593cb72efe470a",
-          "sourceBodyHash": "sha256:3af35384af2f52c5",
-          "translatedAt": "2026-05-29T00:35:00+08:00",
+          "sourceCommitSha": "7c73f6a55",
+          "sourceContentHash": "sha256:c532a9d95ccbcaaf",
+          "sourceBodyHash": "sha256:530ea0ffb4d07e77",
+          "translatedAt": "2026-07-27T05:09:57+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/History/taiwan-transitional-justice.md",
@@ -96230,18 +96282,16 @@
         "es": {
           "path": "es/Geography/taiwan-urban-development-and-rural-urban-divide.md",
           "translatedFrom": "Geography/台灣都市發展與城鄉差距.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:abb1bddb60e0e0c6",
-          "sourceBodyHash": "sha256:85a0db4806eee7dd",
-          "translatedAt": "2026-05-01T20:54:23+08:00",
+          "sourceCommitSha": "f45a19331",
+          "sourceContentHash": "sha256:bfa78a33fd163a9a",
+          "sourceBodyHash": "sha256:aa0440f383f174b1",
+          "translatedAt": "2026-07-27T03:39:56+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/taiwan-urban-development-and-rural-urban-divide.md",
@@ -100246,18 +100296,16 @@
         "es": {
           "path": "es/Geography/kaohsiung-city.md",
           "translatedFrom": "Geography/高雄市.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:3c13d7fb85f1eb0e",
-          "sourceBodyHash": "sha256:f95a74cad7a8af57",
-          "translatedAt": "2026-06-16T17:04:27Z",
+          "sourceCommitSha": "a5490c043",
+          "sourceContentHash": "sha256:244cad849cf26403",
+          "sourceBodyHash": "sha256:fd14be167daa0221",
+          "translatedAt": "2026-07-27T05:46:59+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/kaohsiung-city.md",
@@ -101348,18 +101396,16 @@
         "fr": {
           "path": "fr/Geography/taiwan-river-systems-and-hydrology.md",
           "translatedFrom": "Geography/台灣河川系統與水文特色.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:1c45b3deb1a24209",
-          "sourceBodyHash": "sha256:04efbae9f862baa5",
-          "translatedAt": "2026-05-20T05:08:34+08:00",
+          "sourceCommitSha": "70372d3a0",
+          "sourceContentHash": "sha256:8df5b8e9967c9dc4",
+          "sourceBodyHash": "sha256:8b2b2e4c01c9feb3",
+          "translatedAt": "2026-07-27T03:39:57+08:00",
           "translationLastCommit": "f59e6468",
           "translationLastModified": "2026-05-20T10:49:50+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/taiwan-river-systems-and-hydrology.md",
@@ -103622,7 +103668,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/taiwan-religion-and-temple-culture.md",
+          "translatedFrom": "Culture/台灣宗教與寺廟文化.md",
+          "sourceCommitSha": "d56c5a60e",
+          "sourceContentHash": "sha256:518362b111919aa4",
+          "sourceBodyHash": "sha256:b2ec869950288157",
+          "translatedAt": "2026-07-27T05:54:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 45,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
