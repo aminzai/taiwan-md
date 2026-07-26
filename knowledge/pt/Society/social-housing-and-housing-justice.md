@@ -1,15 +1,15 @@
 ---
 title: 'Habitação Social e Justiça Habitacional'
-description: 'Como Taiwan, através da política de habitação social, realiza a justiça habitacional, para que todos tenham um lugar para se estabelecer'
+description: 'Como Taiwan implementa a justiça habitacional por meio de políticas de habitação social, garantindo que todos tenham um lugar seguro para viver.'
 date: 2026-03-18
 category: 'Society'
 tags:
   [
-    'Habitação social',
-    'justiça habitacional',
-    'política habitacional',
-    'arrendamento e gestão delegados',
-    'renovação urbana',
+    'Habitação Social',
+    'Justiça Habitacional',
+    'Política Habitacional',
+    'Aluguel Gerenciado',
+    'Renovação Urbana',
   ]
 subcategory: '人權與平等'
 author: 'Taiwan.md'
@@ -26,290 +26,290 @@ translatedAt: '2026-07-26T21:33:24+08:00'
 
 # Habitação Social e Justiça Habitacional
 
-## Visão geral em 30 segundos
+## Visão Geral em 30 Segundos
 
-A habitação é uma necessidade básica do povo e uma responsabilidade importante do governo. Desde 2016, Taiwan tem promovido a política «8 anos, 200 mil unidades de habitação social», avançando em duas frentes — construção direta e arrendamento e gestão delegados — com o objetivo de realizar a «justiça habitacional». Esta política procura reconstruir a essência da habitação, fazendo-a regressar de uma mera mercadoria à garantia do direito à moradia.
+A moradia é uma necessidade básica do povo e uma responsabilidade importante do governo. Desde 2016, Taiwan implementou a política de "Habitação Social para 200 Mil Unidades em 8 Anos", avançando simultaneamente pela construção direta e pelo aluguel gerenciado, com o objetivo de realizar a "justiça habitacional". Esta política tenta reestruturar a essência da habitação, fazendo-a retornar de uma mera mercadoria para uma garantia do direito à moradia.
 
-No final de 2024, a política já completou cerca de 213 mil unidades, superando a meta, mas os preços elevados da habitação e as dificuldades do arrendamento não se dissiparam com isso; o papel e os limites da habitação social continuam a ser temas centrais do debate político em Taiwan.
+No final de 2024, a política já havia concluído cerca de 213 mil unidades, superando a meta, mas os altos preços dos imóveis e as dificuldades do mercado de aluguel não foram resolvidos. O papel e as limitações da habitação social continuam sendo o núcleo do debate político em Taiwan.
 
-Palavras-chave: habitação social, justiça habitacional, arrendamento e gestão delegados, Lei da Habitação, estabilidade habitacional dos jovens, habitação para grupos vulneráveis
+Palavras-chave: Habitação Social, Justiça Habitacional, Aluguel Gerenciado, Lei de Habitação, Moradia para Jovens, Habitação para Grupos Vulneráveis
 
-## Por que é importante
+## Por que é Importante
 
-A habitação é a base para que as pessoas se estabeleçam, constituam família e persigam os seus sonhos. Quando a relação preço-rendimento atinge 15 a 20 vezes, muitos jovens caem no dilema «não conseguem comprar, não conseguem arrendar bem», e a habitação social torna-se a ferramenta política chave do governo para responder à justiça habitacional.
+A moradia é a base para as pessoas se estabelecerem, formar famílias e perseguir seus sonhos. Quando a relação preço-renda atinge 15 a 20 vezes, muitos jovens caem na dificuldade de "não poder comprar e não conseguir alugar bem". A habitação social torna-se a ferramenta política chave do governo para responder à justiça habitacional.
 
-O significado da política de habitação social não se resume a construir casas. Representa uma escolha: permitir que os economicamente vulneráveis também desfrutem de qualidade habitacional adequada, dar aos jovens a oportunidade de se estabelecerem e, através da renovação urbana, impulsionar a melhoria de bairros envelhecidos.
+O significado da política de habitação social vai além de simplesmente construir casas. Ela representa uma escolha: permitir que os economicamente vulneráveis também desfrutem de uma qualidade de vida habitacional adequada, oferecer aos jovens a oportunidade de morar com estabilidade e impulsionar a melhoria de comunidades antigas por meio da renovação urbana.
 
-Do ponto de vista comparativo internacional, a proporção de habitação social em Taiwan continua relativamente baixa, mas a rápida expansão desde 2016 já trouxe este tema da margem para o centro da política.
+Do ponto de vista da comparação internacional, a proporção de habitação social em Taiwan ainda é baixa, mas a expansão rápida desde 2016 levou este tema da margem para o mainstream das políticas públicas.
 
-- **Equidade social**: permitir que os economicamente vulneráveis também desfrutem de qualidade habitacional adequada
-- **Justiça intergeracional**: dar aos jovens a oportunidade de se estabelecerem, sem terem de carregar hipotecas pesadas
-- **Desenvolvimento urbano**: orientar a regeneração urbana, melhorar o ambiente de bairros envelhecidos
-- **Harmonia social**: reduzir a oposição social decorrente de problemas habitacionais
+- **Equidade Social**: Permitir que os economicamente vulneráveis também desfrutem de uma qualidade de vida habitacional adequada.
+- **Justiça Geracional**: Dar aos jovens a oportunidade de morar com estabilidade, sem carregar pesados empréstimos habitacionais.
+- **Desenvolvimento Urbano**: Orientar a regeneração urbana e melhorar o ambiente das comunidades antigas.
+- **Harmonia Social**: Reduzir o conflito social gerado por problemas habitacionais.
 
-## Situação atual do problema habitacional em Taiwan
+## Cenário Atual dos Problemas Habitacionais em Taiwan
 
-### O dilema habitacional na era dos preços elevados
+### A Dificuldade Habitacional na Era dos Altos Preços dos Imóveis
 
-A relação preço-rendimento em Taipé é de cerca de 15-16 vezes (dados de 2024), em Novo Taipé cerca de 12-13 vezes, em Taoyuan cerca de 9-10 vezes, muito acima do padrão internacional razoável de 5-6 vezes.[^4] Uma família média, sem comer nem beber, precisa de 10 a 15 anos para comprar uma casa, o que obriga muitos jovens a voltarem-se para o mercado de arrendamento.
+A relação preço-renda em Taipei é de cerca de 15-16 vezes (dados de 2024), em Xinbei é de cerca de 12-13 vezes, e em Taoyuan é de cerca de 9-10 vezes, ultrapassando muito o padrão razoável internacional de 5-6 vezes. [^4] Uma família comum precisaria de 10 a 15 anos sem comer ou beber para comprar uma casa, forçando muitos jovens a se voltarem para o mercado de aluguel.
 
-Mas o mercado de arrendamento tem igualmente problemas: alta proporção de arrendamento informal, proprietários que geralmente não declaram impostos, rendas opacas, contratos de curto prazo generalizados, e os direitos dos inquilinos carecem de proteção efetiva. Estes dois dilemas sobrepostos fazem do problema habitacional um dos temas políticos mais prementes da sociedade taiwanesa.
+Mas o mercado de aluguel também está cheio de problemas: alta proporção de mercado negro de aluguel, proprietários geralmente não declaram impostos, aluguéis não transparentes, contratos de curto prazo predominantes, e a falta de proteção efetiva dos direitos dos inquilinos. A sobreposição dessas duas dificuldades torna o problema habitacional um dos assuntos políticos mais urgentes da sociedade taiwanesa.
 
-**Necessidades habitacionais de grupos específicos**
+**Necessidades Habitacionais de Grupos Especiais**
 
-- **Jovens**: salários não acompanham os preços da habitação, comprar casa é inalcançável
-- **Famílias monoparentais**: pesado ónus económico, opções de arrendamento limitadas
-- **Idosos**: rendimento fixo reduzido, enfrentam risco habitacional
-- **Pessoas com deficiência**: necessitam de ambiente acessível, opções ainda mais escassas
+- **Jovens**: Os salários não acompanham a alta dos imóveis, tornando a compra de casa inalcançável.
+- **Famílias Monoparentais**: Pesado ônus econômico, opções limitadas de aluguel.
+- **Idosos**: Redução da renda fixa, enfrentando riscos habitacionais.
+- **Pessoas com Deficiência**: Necessitam de ambientes acessíveis, com opções ainda mais escassas.
 
-### Contexto da evolução política
+### Contexto da Evolução das Políticas
 
-**Política habitacional inicial (1950-2010)**
-A política habitacional inicial de Taiwan centrava-se em «incentivar a compra de casa»:
+**Políticas Habitacionais Anteriores (1950-2010)**
+As políticas habitacionais iniciais de Taiwan focavam em "incentivar a compra de imóveis":
 
-- Política de habitação nacional: construção de habitação nacional, vendida a preços preferenciais
-- Crédito preferencial para compra de casa: apoio à compra através de política financeira
-- Restituição de imposto na recompra, preferenciais para primeira compra: incentivos fiscais à compra
-- Problema: beneficiários principais eram a classe média, grupos vulneráveis beneficiavam pouco
+- Política de Casas Nacionais: Construção de residências nacionais vendidas a preços subsidiados.
+- Empréstimos Preferenciais para Compra de Imóveis: Apoio financeiro para a compra de casas.
+- Reembolso de Imposto na Re-compra e Benefícios para a Primeira Compra: Incentivos fiscais para encorajar a compra.
+- Problema: Os principais beneficiários eram a classe média, com benefícios limitados para grupos vulneráveis.
 
-**Promulgação da Lei da Habitação (2011-2016)**
-Em 2011 foi promulgada a _Lei da Habitação_, estabelecendo nova direção para a política habitacional:[^3]
+**A Elaboração da Lei de Habitação (2011-2016)**
+Em 2011, foi promulgada a _Lei de Habitação_, estabelecendo uma nova direção para as políticas habitacionais: [^3]
 
-- Consagrar o «direito à habitação» como direito humano básico
-- Estabelecer base legal para habitação social
-- Promover regime de subsídio de renda
-- Mas força executiva insuficiente, construção de habitação social lenta
+- A "Direito à Moradia" foi listada como um direito humano fundamental.
+- Estabelecida a base legal para a habitação social.
+- Implementado o sistema de subsídio de aluguel.
+- No entanto, a força de execução foi insuficiente, e a construção de habitação social foi lenta.
 
-## Conteúdo da política de habitação social
+## Conteúdo da Política de Habitação Social
 
-### Plano dos 8 anos e 200 mil unidades
+### O Plano de 200 Mil Unidades em 8 Anos
 
-Em 2016, o novo governo apresentou a política «8 anos, 200 mil unidades de habitação social»: [^2]
+Após a posse do novo governo em 2016, foi proposta a política de "Habitação Social para 200 Mil Unidades em 8 Anos": [^2]
 
-**Objetivos da política**
+**Objetivos da Política**
 
-- 2017-2024: promover 200 mil unidades de habitação social
-- Construção direta: 120 mil unidades
-- Arrendamento e gestão delegados: 80 mil unidades
-- Investimento total: cerca de 440 mil milhões de novos dólares taiwaneses
+- Construir 200 mil unidades de habitação social entre 2017 e 2024.
+- Construção direta de 120 mil unidades.
+- Aluguel gerenciado de 80 mil unidades.
+- Investimento total de cerca de 440 bilhões de NT$.
 
-**Estratégias de execução**
+**Estratégias de Execução**
 
-1. **Cooperação central-local**: Centro Nacional de Habitação e Renovação Urbana (Centro Nacional de Habitação e Renovação Urbana) coordena o planeamento
-2. **Fontes de terreno diversificadas**: terrenos nacionais, retorno de renovação urbana, doações, etc.
-3. **Mecanismos de financiamento inovadores**: Fundo de Habitação, Orçamento Especial para Infraestruturas de Longo Prazo
-4. **Execução por equipas profissionais**: criação de organismos dedicados, aumentar eficiência executiva
+1. **Cooperação Central-Local**: O Centro Nacional de Habitação e Renovação Urbana (Centro Nacional de Habitação e Renovação Urbana) coordena o planejamento.
+2. **Fontes Diversas de Terrenos**: Terrenos estatais, participação na renovação urbana, doações, etc.
+3. **Mecanismos de Financiamento Inovadores**: Fundo Habitacional, orçamento especial para a Infraestrutura Avançada.
+4. **Execução por Equipes Profissionais**: Estabelecimento de agências dedicadas para melhorar a eficiência da execução.
 
-### Modelo de duas vias paralelas
+### Modelo de Duas Trilhas Avançando Juntas
 
-**Via um: Construção direta**
-O governo constrói, detém e gere diretamente a habitação social:
+**Trilha 1: Construção Direta**
+O governo constrói, possui e gerencia diretamente a habitação social:
 
-- Meta de construção: 120 mil unidades
-- Fontes de financiamento: Fundo de Habitação, orçamento especial
-- Modo de gestão: gestão direta do governo ou delegada a privados
-- Característica: melhor controlo de qualidade, permite planeamento de funções comunitárias completas
+- Meta de Construção: 120 mil unidades.
+- Fonte de Financiamento: Fundo Habitacional, Orçamento Especial.
+- Modo de Gestão: Operação direta do governo ou delegada ao setor privado.
+- Característica: Melhor controle de qualidade, permite o planejamento de funções comunitárias completas.
 
-**Via dois: Arrendamento e gestão delegados**
-O governo coopera com proprietários privados, fazendo a mediação para arrendamento a grupos vulneráveis:
+**Trilha 2: Aluguel Gerenciado**
+O governo coopera com proprietários privados, intermediando o aluguel para grupos vulneráveis:
 
-- Meta: 80 mil unidades
-- Modo de operação:
-  - **Arrendamento delegado**: governo arrenda casa privada e subarrenda a vulneráveis
-  - **Gestão delegada**: auxilia proprietário a arrendar, presta serviços de gestão
-- Vantagem: mobiliza casas devolutas, aumenta rapidamente oferta de habitação social
+- Meta de Unidades: 80 mil unidades.
+- Modo de Operação:
+  - **Aluguel (Leasing)**: O governo aluga as casas privadas e as subloca para os vulneráveis.
+  - **Gerenciamento (Management)**: Ajuda os proprietários a alugar, fornecendo serviços de gestão.
+- Vantagem: Revitaliza imóveis vazios, aumentando rapidamente a oferta de habitação social.
 
-### Estatísticas de execução
+### Estatísticas de Resultados da Execução
 
-**Até final de 2024**
+**Estatísticas até o Final de 2024**
 
-- Final de 2024: completadas cerca de 213 mil unidades, superando meta de 200 mil, taxa de execução 107%[^1]
+- Até o final de 2024, cerca de 213 mil unidades foram concluídas, superando a meta de 200 mil unidades, com uma taxa de conclusão de 107%. [^1]
 
-**Distribuição regional**
+**Distribuição Regional**
 
-- Seis municípios especiais representam cerca de 75%, com destaque para Taipé-Novo Taipé, Taoyuan, Taichung
-- Novo Taipé: 32 mil unidades (mais)
-- Taipé: 28 mil unidades
-- Taoyuan: 21 mil unidades
-- Taichung: 19 mil unidades
+- As Seis Grandes Cidades representam cerca de 75%, com foco em Xinbei, Taoyuan e Taichung.
+- Xinbei: 32 mil unidades (a maior).
+- Taipei: 28 mil unidades.
+- Taoyuan: 21 mil unidades.
+- Taichung: 19 mil unidades.
 
-## Filosofia de design da habitação social
+## Filosofia de Design da Habitação Social
 
-O design da habitação social em Taiwan parte da «mistura social», evitando deliberadamente repetir o problema de concentração da pobreza dos bairros públicos de Hong Kong ou da habitação social dos EUA, permitindo que moradores de diferentes origens vivam juntos.
+A filosofia de design da habitação social de Taiwan parte da "convivência social", evitando deliberadamente o problema de concentração de pobreza observado nas habitações públicas de Hong Kong ou nas habitações sociais dos EUA, permitindo que residentes de diferentes origens vivam juntos.
 
-### Princípio da mistura social
+### Princípio da Convivência Social
 
-Famílias vulneráveis têm 30% de quota garantida, famílias gerais (jovens, recém-casados, com filhos prioritários) ocupam 70%, através de sorteio periódico para garantir equidade. A _Lei da Habitação_ define amplamente os grupos vulneráveis, abrangendo famílias de baixos rendimentos, famílias em circunstâncias especiais, famílias com três ou mais filhos menores, idosos, vítimas de violência doméstica, pessoas com deficiência, povos indígenas, vítimas de catástrofes, etc.
+30% das vagas são reservadas para famílias vulneráveis, enquanto 70% são para famílias gerais (prioridade para jovens, recém-casados e famílias com filhos), garantindo a equidade através de sorteios regulares. A _Lei de Habitação_ define uma ampla gama de grupos vulneráveis, incluindo famílias de baixa renda, famílias em situações especiais, famílias com três ou mais filhos menores, idosos, vítimas de violência doméstica, pessoas com deficiência, indígenas, refugiados de desastres, entre outros.
 
-**Âmbito dos grupos vulneráveis**
-Conforme definição da _Lei da Habitação_, incluem:
+**Escopo dos Grupos Vulneráveis**
+De acordo com a definição da _Lei de Habitação_, inclui:
 
-- Famílias de baixos rendimentos e médio-baixos rendimentos
-- Famílias em circunstâncias especiais
-- Famílias com três ou mais filhos menores
-- Pessoas que saíram de instituições de acolhimento ou famílias de acolhimento e não podem regressar a casa
-- Maiores de 65 anos
-- Vítimas de violência doméstica ou agressão sexual e seus filhos
-- Pessoas com deficiência
-- Pessoas infetadas com VIH ou com SIDA
-- Povos indígenas
-- Vítimas de catástrofes
-- Pessoas em situação de rua
-- Outros reconhecidos pela autoridade competente
+- Famílias de baixa renda e de renda média-baixa.
+- Famílias em situações especiais.
+- Famílias com três ou mais filhos menores.
+- Aqueles que terminaram a acolhimento em instituições de educação e acolhimento ou famílias de acolhimento e não podem retornar a casa.
+- Idosos com 65 anos ou mais.
+- Vítimas de violência doméstica ou abuso sexual e seus filhos.
+- Pessoas com deficiência.
+- Portadores do vírus da imunodeficiência humana (HIV) ou pacientes com síndrome da imunodeficiência adquirida (AIDS).
+- Indígenas.
+- Refugiados de desastres.
+- Sem-teto.
+- Outros reconhecidos pela autoridade competente.
 
-### Planeamento de equipamentos comunitários
+### Planejamento de Instalações Comunitárias
 
-**Equipamentos necessários**
+**Instalações Obrigatórias**
 
-- Ambiente acessível: rampas, elevadores, tipologias acessíveis
-- Jardins de infância: prioridade a jardins de infância sem fins lucrativos
-- Polos de cuidados de longa duração: centros diurnos, polos de apoio
-- Espaços de atividade comunitária: salão de assembleias, sala de leitura
-- Equipamentos comerciais: minimercados, lavandarias e outros serviços de conveniência
+- Ambiente Acessível: Rampas acessíveis, elevadores, design de tipos de apartamento.
+- Jardim de Infância: Prioridade para a instalação de jardins de infância sem fins lucrativos.
+- Pontos de Cuidado de Longa Duração: Centros de dia, pontos de cuidado.
+- Espaço de Atividades Comunitárias: Salão de reuniões, sala de leitura.
+- Instalações Comerciais: Supermercados, lavanderias e outros serviços convenientes.
 
-**Design inovador**
+**Design Inovador**
 
-Nos últimos anos, a habitação social tem inovado continuamente em equipamentos. Espaços de empreendedorismo jovem oferecem estúdios para jovens empreendedores, cozinhas partilhadas promovem a interação entre moradores. Hortas no telhado combinam agricultura urbana e educação ambiental, centros de reciclagem impulsionam a economia circular, e alguns novos projetos integram dispositivos IoT para criar plataformas de gestão inteligente de comunidade.
+Nos últimos anos, a habitação social tem continuado a experimentar em instalações inovadoras. Espaços de empreendedorismo jovem oferecem estúdios para jovens empreendedores, cozinhas compartilhadas promovem a interação entre residentes. Hortas urbanas no telhado combinam agricultura urbana com educação ambiental, centros de reciclagem promovem a economia circular, e alguns novos projetos introduzem dispositivos IoT para criar plataformas de gestão de comunidades inteligentes.
 
-### Princípio do ónus da renda
+### Princípio do Ônus do Aluguel
 
-**Princípio dos 85% do preço de mercado**
+**Princípio do Desconto de 85% do Preço de Mercado**
 
-- Renda fixada a 85% do preço de mercado envolvente
-- Evitar subsídio excessivo que distorça o mercado
-- Garantir capacidade de pagamento das famílias gerais
+- O aluguel é definido como 85% do preço de mercado local.
+- Evita a distorção do mercado causada por subsídios excessivos.
+- Garante a capacidade de pagamento das famílias gerais.
 
-**Regime de subsídio escalonado**
+**Sistema de Subsídio em Níveis**
 
-- Nível 1 (rendimento extremamente baixo): renda a 30%
-- Nível 2 (famílias de baixos rendimentos): renda a 50%
-- Nível 3 (famílias de médio-baixos rendimentos): renda a 70%
-- Nível 4 (famílias gerais): 85% do preço de mercado
+- Primeiro Nível (Renda Extremamente Baixa): Aluguel com desconto de 70% (paga 30%).
+- Segundo Nível (Baixa Renda): Aluguel com desconto de 50% (paga 50%).
+- Terceiro Nível (Renda Média-Baixa): Aluguel com desconto de 30% (paga 70%).
+- Quarto Nível (Famílias Gerais): 85% do preço de mercado.
 
-## Casos importantes de habitação social
+## Casos Importantes de Habitação Social
 
-Os casos de habitação social em Taiwan mostram diferentes tentativas, da filosofia de design à construção comunitária, e vários projetos representativos tornaram-se referências nacionais. A Habitação Pública Saudável de Taipé (2017), a Habitação Social para Jovens de Zhonghe em Novo Taipé (2019) e a Habitação Social de Bade em Taoyuan (2020) representam diferentes escalas e orientações de design.
+Os casos de habitação social de Taiwan demonstram diferentes tentativas, desde a filosofia de design até a construção comunitária. Vários projetos representativos tornaram-se referências para políticas em todo o país. Os casos de Habitação Pública de Jiankang (Taipei, concluída em 2017), Habitação Social para Jovens de Zhonghe (Xinbei, 2019) e Habitação Social de Bade (Taoyuan, 2020) representam diferentes escalas e orientações de design.
 
-O ponto comum dos três casos é irem além da função puramente habitacional, integrando jardins de infância, polos de cuidados de longa duração, espaços de empreendedorismo jovem e outros equipamentos públicos na habitação social, formando círculos de vida comunitária de tipo misto. Este pensamento de planeamento «habitação social como comunidade» tem vindo a influenciar progressivamente o design dos projetos subsequentes.
+O ponto comum entre os três casos é transcender a função puramente habitacional, integrando jardins de infância, pontos de cuidado de longa duração e espaços de empreendedorismo jovem nas instalações públicas, formando um ciclo de vida comunitário composto. Essa mentalidade de planejamento de "habitação social como comunidade" também está influenciando gradualmente a direção do design de novos projetos subsequentes.
 
-### Habitação Pública Saudável de Taipé
+### Habitação Pública de Jiankang, Taipei
 
-A Habitação Pública Saudável de Taipé localiza-se no Distrito de Zhongshan, concluída em 2017, com 1.400 unidades, sendo o primeiro grande projeto de habitação social de Taipé. A fachada adota design de vegetação vertical para mitigar o efeito de ilha de calor urbana, inclui jardim de infância sem fins lucrativos, centro diurno para idosos, e espaço de empreendedorismo jovem «Base Criativa Saudável e LOHAS», além de sistema de estacionamento inteligente e App de gestão comunitária.
+A Habitação Pública de Jiankang, localizada no Distrito de Zhongshan, Taipei, foi concluída em 2017, totalizando 1.400 unidades. É a primeira grande habitação social de Taipei. A fachada do edifício adota um design de verticalização verde para melhorar o efeito de ilha de calor urbana, contendo um jardim de infância sem fins lucrativos, um centro de dia para idosos e um espaço de empreendedorismo jovem chamado "Base Criativa de Vida Saudável e Ativa", além de um sistema inteligente de estacionamento e gestão por aplicativo comunitário.
 
-A maior significação social deste caso reside em ter alterado o estereótipo de muitos cidadãos que igualavam habitação social a «bairro de lata», tendo também revitalizado o comércio envolvente, tornando-se referência para o planeamento de habitação social noutros condados e cidades.
+O significado social mais importante deste caso é a mudança da estereótipo de muitas pessoas de que habitação social é equivalente a "favelas", além de impulsionar a revitalização do comércio circundante, tornando-se uma referência para o planejamento de habitação social em outras cidades e condados.
 
-### Habitação Social para Jovens de Zhonghe em Novo Taipé
+### Habitação Social para Jovens de Zhonghe, Xinbei
 
-A Habitação Social para Jovens de Zhonghe em Novo Taipé concluiu-se em 2019, com 522 unidades, tendo como maior característica a combinação de renovação urbana com habitação social. O mesmo edifício integra habitação social, centro comercial e espaços de escritório, dispondo de instituição comunitária de cuidados de longa duração, horta no telhado e sistema de recolha de água da chuva, obtendo certificação Diamante de Edifício Verde. Na governação comunitária, os moradores auto-organizaram «Grupo de Participação Juvenil», promovendo regularmente festivais comunitários, com inquéritos de satisfação acima de 85%, sendo um dos casos de sucesso de construção comunitária em habitação social em Taiwan.
+A Habitação Social para Jovens de Zhonghe, em Xinbei, foi concluída em 2019, totalizando 522 unidades, com a maior característica sendo a combinação de renovação urbana e habitação social. O mesmo edifício inclui habitação social, espaços comerciais e de escritório, além de instituições de cuidado de longa duração de tipo comunitário, hortas no telhado e sistema de coleta de água da chuva, obtendo certificação de nível diamante de construção verde. Na governança comunitária, os residentes formaram um "Grupo de Participação Jovem", realizando regularmente atividades festivas comunitárias. A pesquisa de satisfação dos residentes atingiu mais de 85%, sendo um dos casos de sucesso de construção comunitária de habitação social em Taiwan.
 
-### Habitação Social de Bade em Taoyuan
+### Habitação Social de Bade, Taoyuan
 
-A Habitação Social de Bade em Taoyuan concluiu-se em 2020, com 1.003 unidades, sendo o maior projeto único de habitação social em Taiwan. O terreno fica junto à construção de metro ligeiro, dispõe de 300 lugares para motos e 50 para carros, equipamentos comerciais com marcas conhecidas como PX Mart e Starbucks, equipamentos comunitários incluindo jardim de infância, centro de cuidados de longa duração e centro de atividades. Na gestão, adota sistema de controlo de acesso por reconhecimento facial AI e App comunitária integrando vários serviços, além de regime de voluntariado comunitário, sendo um dos casos com maior grau de inteligência na habitação social em Taiwan.
+A Habitação Social de Bade, em Taoyuan, foi concluída em 2020, totalizando 1.003 unidades, sendo o maior único projeto de habitação social em todo o país. O terreno é adjacente à construção de transporte leve, com 300 vagas para motos e 50 para carros. Instalações comerciais introduzem marcas conhecidas como Full聯 (Fullmart) e Starbucks. As instalações comunitárias incluem jardim de infância, centro de cuidado de longa duração e centro de atividades. Na gestão, adota um sistema de reconhecimento facial por IA para controle de acesso e integra vários serviços por aplicativo comunitário, estabelecendo também um sistema de voluntários comunitários, sendo um dos casos de maior nível de inteligência entre as habitações sociais de Taiwan.
 
-## Política de arrendamento e gestão delegados
+## Política de Aluguel Gerenciado
 
-O arrendamento e gestão delegados é a segunda via da política de habitação social de Taiwan, intervindo no mercado privado de arrendamento para aumentar rapidamente a oferta de habitação social, mobilizando simultaneamente recursos de casas devolutas. Até final de 2024, já foram mediadas cerca de 68 mil unidades, beneficiando cerca de 27 mil famílias vulneráveis.
+O aluguel gerenciado é a segunda trilha da política de habitação social de Taiwan, aumentando rapidamente a oferta de habitação social através da intervenção do governo no mercado de aluguel privado, ao mesmo tempo que revitaliza os recursos de imóveis vazios. Até o final de 2024, já foram intermediados contratos para cerca de 68 mil unidades, beneficiando cerca de 27 mil famílias vulneráveis.
 
-### Modos de operação
+### Modo de Operação
 
-**Modo de arrendamento delegado**
-O governo, através de operadores profissionais, arrenda casas privadas e subarrenda a famílias vulneráveis:
+**Modelo de Aluguel (Leasing)**
+O governo, através de empresas especializadas, aluga imóveis privados e os subloca para famílias vulneráveis:
 
-- Prazo: 3 anos, prorrogável até 6 anos
-- Preço de arrendamento pelo governo: 80-90% do preço de mercado
-- Preço de subarrendamento: 60-70% do preço de mercado
-- Governo assume risco de vaga
+- Prazo do Contrato: 3 anos, podendo ser estendido até 6 anos no máximo.
+- Preço de Aluguel pelo Governo: 80-90% do preço de mercado.
+- Preço de Sublocação: 60-70% do preço de mercado.
+- O Governo Assume o Risco de Vazios.
 
-**Modo de gestão delegada**
+**Modelo de Gerenciamento (Management)**
 
-O governo faz a mediação entre proprietários e inquilinos, operadores profissionais encarregam-se de seleção de inquilinos, cobrança de rendas e contacto para reparações. O governo concede subsídio de reparação (até 10-30 mil novos dólares taiwaneses por unidade), redução de imposto predial e imposto territorial, seguro de segurança residencial por conta do governo, e mediação de litígios e aconselhamento jurídico, reduzindo o risco do proprietário ao arrendar.
+O governo intermedia entre proprietários e inquilinos, enquanto empresas especializadas são responsáveis pela seleção de inquilinos, cobrança de aluguel e coordenação de reparos. O governo oferece subsídios para reparos (até 10-30 mil NT$ por unidade), redução de impostos sobre imóveis e terras, seguro de segurança residencial por procuração, e fornece mediação de disputas e consultoria jurídica, reduzindo o risco de aluguel para os proprietários.
 
-### Mecanismo de execução e resultados
+### Mecanismos de Execução e Resultados
 
-Atualmente cerca de 200 operadores participam, abrangendo empresas de serviços residenciais, mediação imobiliária e gestão de propriedades. Até final de 2024, o arrendamento e gestão delegados já mediaram cerca de 68 mil unidades, cerca de 55 mil proprietários participantes, beneficiaram cerca de 27 mil famílias vulneráveis, impulsionaram investimento privado em habitação de cerca de 120 mil milhões de novos dólares taiwaneses.
+Atualmente, cerca de 200 empresas participam, cobrindo serviços de habitação, corretagem imobiliária e gestão de propriedades. Até o final de 2024, o aluguel gerenciado já intermediou contratos para cerca de 68 mil unidades, com cerca de 55 mil proprietários participantes, beneficiando cerca de 27 mil famílias vulneráveis, impulsionando investimentos privados em imóveis em cerca de 120 bilhões de NT$.
 
-Principais desafios incluem: alguns proprietários receiam qualidade dos inquilinos e não aderem, concentração de oferta em áreas metropolitanas, famílias extremamente vulneráveis ainda têm dificuldade com rendas atuais, e grande disparidade de qualidade de serviço entre operadores.
+Os principais desafios incluem: alguns proprietários relutam em participar por temer a qualidade dos inquilinos; a concentração de imóveis nas áreas metropolitanas; o ônus dos aluguéis atuais ainda é pesado para as famílias extremamente vulneráveis; e a grande variação na qualidade dos serviços entre diferentes empresas.
 
-## Efeitos da política e impacto social
+## Efeitos da Política e Impacto Social
 
-### Análise de efeitos quantitativos
+### Análise dos Efeitos Quantitativos
 
-Do lado da oferta, a política de habitação social aumentou a oferta do mercado de arrendamento em cerca de 200 mil unidades, o crescimento das rendas abrandou, e a transparência do mercado de arrendamento melhorou com a promoção do regime de arrendamento e gestão delegados. Do lado da procura, estima-se que a política resolveu o problema habitacional de cerca de 400-500 mil pessoas, aumentou a estabilidade habitacional de grupos vulneráveis, e melhorou a proporção de estabilidade habitacional dos jovens. Os efeitos colaterais na indústria são também significativos: catalisou a indústria de serviços residenciais, impulsionou construção e remodelação, criou cerca de 30-40 mil postos de trabalho.
+No lado da oferta, a política de habitação social aumentou a oferta do mercado de aluguel em cerca de 200 mil unidades, a alta dos aluguéis de mercado desacelerou, e a transparência do mercado de aluguel também melhorou com a promoção do sistema de aluguel gerenciado. No lado da demanda, estima-se que a política tenha resolvido os problemas habitacionais de cerca de 400-500 mil pessoas, a estabilidade habitacional dos grupos vulneráveis aumentou, e a proporção de moradia estável para jovens também melhorou. Os efeitos indiretos na indústria também são significativos: surgimento da indústria de serviços habitacionais, impulsionando o desenvolvimento da construção e reforma, criando cerca de 30-40 mil empregos.
 
-### Avaliação de impacto social
+### Avaliação do Impacto Social
 
-**Realização da justiça habitacional**
+**Realização da Justiça Habitacional**
 
-A qualidade espacial da habitação social de nova construção é geralmente superior ao arrendamento comum, o planeamento de equipamentos comunitários é completo, o nível de rendas é relativamente mais acessível face ao mercado, e oferece garantia habitacional de mais longo prazo. Para grupos que estavam há muito em posição vulnerável no mercado de arrendamento, esta é uma melhoria tangível.
+A qualidade espacial das novas habitações sociais é geralmente superior à dos aluguéis comuns, o planejamento de instalações comunitárias é completo, os níveis de aluguel são relativamente mais acessíveis do que o mercado, e oferecem uma garantia habitacional de longo prazo. Para os grupos que estão em posição vulnerável no mercado de aluguel por muito tempo, esta é uma melhoria tangível e concreta.
 
-**Fusão social e desenvolvimento urbano**
+**Integração Social e Desenvolvimento Urbano**
 
-O design de mistura social permite que famílias vulneráveis e gerais vivam juntas, evitando a concentração espacial da pobreza. Alguns casos de habitação social também impulsionaram o desenvolvimento comercial envolvente, tornando-se catalisadores de regeneração urbana de bairros envelhecidos, melhorando a qualidade ambiental global da comunidade.
+O design de convivência permite que famílias vulneráveis e famílias gerais vivam juntas, evitando a concentração de áreas de pobreza. Alguns casos de habitação social também impulsionaram o desenvolvimento do comércio circundante, tornando-se catalisadores da renovação urbana em comunidades antigas, melhorando a qualidade geral do ambiente comunitário.
 
-## Comparação com experiências internacionais
+## Comparação de Experiências Internacionais
 
-### Regime HDB de Singapura
+### Sistema de Casas Populares de Cingapura
 
-Singapura é conhecida pela construção massiva de habitação pública liderada pelo governo, com cerca de 85% da população a residir em HDB. O regime de quotas étnicas promove a integração étnica, e a ligação ao regime de previdência incentiva a compra de casa. Taiwan pode inspirar-se na sua força executiva política estável a longo prazo e na filosofia completa de planeamento comunitário, mas Taiwan enfatiza mais o arrendamento do que a aquisição, tendo uma orientação global diferente.
+Cingapura é conhecida por sua habitação popular de grande escala, liderada pelo governo, onde cerca de 85% da população mora em casas populares (HDB). O sistema de cotas raciais promove a integração étnica, combinado com o sistema de pensão, encorajando a compra de imóveis. Taiwan pode aprender com sua execução política estável a longo prazo e sua filosofia completa de planejamento comunitário, mas Taiwan enfatiza mais o aluguel do que a compra, diferindo na direção geral.
 
-### Habitação social dos Países Baixos
+### Habitação Social da Holanda
 
-A habitação social nos Países Baixos representa cerca de 34% do total de habitação (estatísticas de 2023), construída e gerida por associações de habitação sem fins lucrativos, com regime de escalão por rendimento para garantir distribuição justa. A atenção dos Países Baixos à qualidade do design arquitetónico e ao ambiente sustentável fornece referência a Taiwan na orientação para a qualidade.
+A habitação social na Holanda representa cerca de 34% das residências nacionais (estatísticas de 2023), construída e gerenciada por associações habitacionais sem fins lucrativos, garantindo distribuição justa através de um sistema de classificação por renda. A atenção da Holanda à qualidade do design arquitetônico e ao ambiente sustentável oferece uma referência para Taiwan na orientação de qualidade.
 
-### Habitação pública de Hong Kong
+### Habitação Pública de Hong Kong
 
-Cerca de 45% da população de Hong Kong reside em habitação pública, dividida em habitação pública de arrendamento e Esquema de Aquisição de Habitação. Taiwan distingue-se conscientemente do modelo de Hong Kong: enfatiza mais a mistura social, evita desenvolvimento concentrado em grande escala, e foca-se no planeamento completo de equipamentos comunitários, para prevenir a «concentração da pobreza».
+Cerca de 45% da população de Hong Kong mora em habitação pública, dividida em dois tipos: habitação pública para aluguel e habitação de propriedade (Home Ownership Scheme). Taiwan distingue conscientemente do modelo de Hong Kong: enfatiza mais a convivência social, evita o desenvolvimento concentrado em grande escala e presta atenção às instalações comunitárias completas para prevenir a "concentração de pobreza".
 
-## Desafios futuros e desenvolvimento
+## Desafios Futuros e Desenvolvimento
 
-### Principais desafios
+### Principais Desafios
 
-A política de habitação social enfrenta quatro grandes desafios estruturais. A obtenção de terreno é a primeira barreira: terreno urbano escasso e caro, baixa vontade de cooperação dos proprietários, procedimentos complexos de alteração de plano urbanístico, somados à mentalidade NIMBY de «habitação social ao lado de casa», tornam a seleção de locais extremamente difícil. Do lado financeiro, custos de construção em alta, custos operacionais de longo prazo e pressão sobre o Fundo de Habitação criam efeito de expulsão no orçamento governamental.
+A política de habitação social enfrenta quatro desafios estruturais principais. A obtenção de terras é a primeira barreira: terras urbanas são escassas e caras, a vontade dos proprietários de cooperar é baixa, os procedimentos de mudança de planos urbanos são complexos, e o sentimento NIMBY ("Não no Meu Quintal") do público em relação à "construção de habitação social ao lado" torna a seleção de locais difícil. No lado financeiro, o aumento dos custos de construção, os custos operacionais de longo prazo e a pressão sobre o Fundo Habitacional também formam um efeito de deslocamento no orçamento do governo.
 
-Parte da população mantém ainda o estereótipo de «bairro de lata» sobre a habitação social, receando impacto nos preços imobiliários envolventes, e a integração comunitária requer tempo e comunicação contínua. Na gestão, a coabitação de moradores com necessidades diferentes, custos de manutenção de equipamentos comunitários, taxa de rotatividade de moradores elevada, colocam exigências elevadas à capacidade profissional das equipas de gestão.
+Alguns públicos ainda têm o estereótipo de que habitação social é "favela", temendo que afete os preços dos imóveis circundantes. A integração comunitária requer tempo e comunicação contínua. Na gestão, a co-habitação de residentes com necessidades diferentes, os custos de manutenção das instalações comunitárias e a alta taxa de rotatividade dos residentes exigem alta capacidade profissional da equipe de gestão.
 
-### Direções futuras de desenvolvimento
+### Direções de Desenvolvimento Futuro
 
-O setor propõe recomendações políticas em várias direções: alterar a _Lei da Habitação_, reforçar a base legal, promover lei dedicada à habitação social, são prioridades no plano institucional. Na inovação de financiamento, introduzir capital privado, desenvolver fundos de investimento imobiliário (REITs) de habitação social e regime de fidúcia de terra, ajuda a alargar fontes de recursos. A gestão inteligente (sistemas IoT, integração de App comunitária) e a promoção de certificação de edifício verde são caminhos para elevar a qualidade. O desenvolvimento equilibrado regional também merece atenção: atualmente a habitação social está altamente concentrada nos seis municípios especiais, as necessidades habitacionais em áreas não urbanas aguardam ainda mais atenção política.
+As sugestões políticas da indústria abrangem várias direções: a emenda da _Lei de Habitação_, o fortalecimento da base legal e a promoção de uma lei específica de habitação social são trabalhos prioritários no nível institucional. Em termos de inovação de financiamento, a introdução de capital privado, o desenvolvimento de REITs de habitação social e o sistema de fiduciária de terras ajudam a expandir as fontes de recursos. A gestão inteligente (sistemas IoT, integração de aplicativos comunitários) e a promoção da certificação de construção verde são caminhos para a melhoria da qualidade. O desenvolvimento equilibrado regional também merece atenção: atualmente, a habitação social está altamente concentrada nas Seis Grandes Cidades, e as necessidades habitacionais de áreas não urbanas ainda aguardam mais atenção política.
 
-## Conclusão: rumo à justiça habitacional
+## Conclusão: Caminhando em Direção à Justiça Habitacional
 
-A habitação social encarna a prática de valores sociais, não sendo mera política de habitação. Taiwan, desde 2016, ao promover o plano de 8 anos e 200 mil unidades, não só se aproximou da meta em quantidade, como estabeleceu em qualidade o «modelo de Taiwan»:
+A habitação social reflete a prática de valores sociais, não sendo apenas uma política de habitação simples. Desde 2016, Taiwan começou a implementar o plano de 200 mil unidades em 8 anos, não apenas se aproximando da meta em quantidade, mas também estabelecendo um "Modelo Taiwan" em qualidade:
 
-As características da habitação social de Taiwan residem em várias escolhas nucleares: design de mistura social para evitar concentração da pobreza, construção direta e arrendamento e gestão delegados como vias complementares, valorização da estética do design e das funções comunitárias, e implementação combinando as características climáticas e culturais de Taiwan. Este «modelo de Taiwan», embora ainda em aperfeiçoamento, já formou um percurso político identificável.
+As características da habitação social de Taiwan residem em algumas escolhas centrais: evitar a concentração de pobreza através do design de convivência, a complementaridade entre construção direta e aluguel gerenciado, a atenção à estética do design e às funções comunitárias, e a implementação combinada com as características climáticas e culturais de Taiwan. Este "Modelo Taiwan", embora ainda em correção, já formou um caminho político identificável.
 
-**Visão de futuro**
-Permitir que cada pessoa que vive em Taiwan, independentemente da sua capacidade económica, desfrute de um ambiente habitacional adequado, estável e digno. Só atingindo este objetivo Taiwan poderá construir uma sociedade mais justa e mais inclusiva.
+**A Visão Futura**
+Permitir que cada pessoa que vive em Taiwan, independentemente de sua capacidade econômica, possa desfrutar de um ambiente habitacional adequado, estável e digno. Atingir este objetivo permitirá que Taiwan construa uma sociedade mais justa e inclusiva.
 
-A realização da justiça habitacional requer o esforço conjunto de toda a sociedade. O governo fornece enquadramento político e recursos, profissionais contribuem com técnica e criatividade, cidadãos dão compreensão e apoio, para que a habitação social cumpra verdadeiramente a sua função, impulsionando a sociedade taiwanesa a avançar.
+A realização da justiça habitacional requer o esforço conjunto de toda a sociedade. O governo fornece o quadro político e recursos, profissionais contribuem com tecnologia e criatividade, e o público oferece compreensão e apoio, para que a habitação social possa realmente desempenhar seu papel, impulsionando a sociedade taiwanesa a avançar.
 
-**Leitura complementar**:
+**Leitura Complementar**:
 
-- [Habitação Nacional e Justiça Habitacional](/society/國宅與居住正義) — A rota «governo constrói para vender» que foi abolida antes da habitação social de 2016: da Lei de Habitação Nacional de 1975 à abolição de 2015, como a habitação nacional se tornou escada de ativos, e a disputa contemporânea em que a Habitação Acessível de Taoyuan 2026 traz de volta o «vender» (artigo irmão deste)
-- [Casas de Chapas Metálicas](/society/鐵皮屋) — O dilema de governação dos 716 mil edifícios ilegais em Taiwan, as coberturas de chapas e construções ilegais são uma das estruturas de base do tema da justiça habitacional
-- [Justiça Ambiental e Controvérsias NIMBY em Taiwan](/society/台灣環境正義與鄰避爭議) — A extensão do uso do solo do problema habitacional: distribuição desigual de riscos ambientais e conflitos comunitários de instalações NIMBY
+- [Habitação Nacional e Justiça Habitacional](/society/國宅與居住正義) — A rota "o governo constrói para vender" que foi abolida antes da habitação social de 2016: de 1975, a Lei de Habitação Nacional até sua abolição em 2015, como a habitação nacional se tornou uma escada rolante de ativos, e o debate contemporâneo de 2026 em Taoyuan sobre a "venda" de habitação acessível (o artigo irmão deste).
+- [Casas de Lata](/society/鐵皮屋) — O dilema de governança de 716 mil casos de construções irregulares em todo o país, o problema do telhado de lata e das construções irregulares é uma das estruturas subjacentes do tema de justiça habitacional.
+- [Justiça Ambiental e Controvérsias NIMBY em Taiwan](/society/台灣環境正義與鄰避爭議) — A extensão do uso da terra para o problema habitacional: a distribuição desigual de riscos ambientais e o conflito comunitário de instalações NIMBY.
 
-[^1]: Direção-Geral de Gestão Territorial do Ministério do Interior, «Relatório de Resultados da Promoção de Habitação Social», dezembro de 2024, https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7
+[^1]: Departamento de Gestão Territorial do Ministério do Interior, "Relatório de Resultados da Promoção da Habitação Social", dezembro de 2024, https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7
 
-[^2]: Yuan Executivo, «Plano de Promoção de Habitação Social», versão aprovada em março de 2017, https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827
+[^2]: Conselho Executivo, "Plano de Promoção da Habitação Social", versão aprovada em março de 2017, https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827
 
-[^3]: Base de Dados Nacional de Leis, «Lei da Habitação (versão alterada de 2017)», https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070195
+[^3]: Banco de Dados de Regulamentos Nacionais, "Lei de Habitação (versão emendada de 2017)", https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070195
 
-[^4]: Fundação Mãe Cui, «Relatório de Inquérito à Situação Atual do Mercado de Arrendamento», 2024, https://www.tmm.org.tw/
+[^4]: Fundação崔媽媽 (Chui Ma Ma Foundation), "Relatório de Pesquisa sobre a Situação Atual do Mercado de Aluguel", 2024, https://www.tmm.org.tw/
 
-[^5]: Centro Nacional de Habitação e Renovação Urbana, «Resultados de Execução do Plano de Promoção de Habitação Social», 2024, https://www.hurc.org.tw/
+[^5]: Centro Nacional de Habitação e Renovação Urbana, "Resultados da Execução do Plano de Promoção da Habitação Social", 2024, https://www.hurc.org.tw/
 
-## Referências
+## Fontes de Referência
 
-1. [Direção-Geral de Gestão Territorial do Ministério do Interior](https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7), _Relatório de Resultados da Promoção de Habitação Social_, dezembro de 2024
-2. [Centro Nacional de Habitação e Renovação Urbana](https://www.hurc.org.tw/), _Resultados de Execução do Plano de Promoção de Habitação Social_, 2024
-3. [Yuan Executivo, _Plano de Promoção de Habitação Social_, versão aprovada em março de 2017](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827)
-4. [Lei da Habitação (versão alterada de 2017), Base de Dados Nacional de Leis](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070195)
-5. [Fundação de Investigação e Desenvolvimento de Renovação Urbana](https://www.ur.org.tw/), _Estatísticas de Resultados da Promoção de Renovação Urbana_, 2024
-6. [Wikipédia, verbete _Habitação Social de Taiwan_](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E7%A4%BE%E6%9C%83%E4%BD%8F%E5%AE%85), versão de março de 2024
-7. [Tudo sobre Renovação Urbana, reportagem _Quantidades de Construção Direta e Arrendamento Delegado Alcançam Novo Máximo_](https://urbanrenewal.wealth.com.tw/news-detail/1102), 2024
-8. [Departamento de Desenvolvimento Urbano de Taipé](https://udd.gov.taipei/), _Livro Branco da Política de Habitação Social_, 2023
-9. [Departamento de Desenvolvimento Urbano e Rural de Novo Taipé](https://www.planning.ntpc.gov.tw/home.jsp?id=68301de1098d53bb), _Plano de Desenvolvimento de Habitação Social de Novo Taipé_, 2024
-10. [Departamento de Desenvolvimento Habitacional de Taoyuan](https://ohd.tycg.gov.tw/), _Resultados da Promoção de Habitação Social de Taoyuan_, 2024
-11. [Fundação Mãe Cui](https://www.tmm.org.tw/), _Relatório de Inquérito à Situação Atual do Mercado de Arrendamento_, 2024
-12. [Aliança de Promoção de Habitação Social](https://socialhousingtw.blogspot.com/), _Proposta de Política de Habitação Social_, 2023
+1. [Departamento de Gestão Territorial do Ministério do Interior](https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7), "Relatório de Resultados da Promoção da Habitação Social", dezembro de 2024.
+2. [Centro Nacional de Habitação e Renovação Urbana](https://www.hurc.org.tw/), "Resultados da Execução do Plano de Promoção da Habitação Social", 2024.
+3. [Conselho Executivo, "Plano de Promoção da Habitação Social", versão aprovada em março de 2017](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/7345b2c6-1314-4fda-8e21-18b012466827).
+4. [Lei de Habitação (versão emendada de 2017), Banco de Dados de Regulamentos Nacionais](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070195).
+5. [Fundação de Pesquisa e Desenvolvimento de Renovação Urbana](https://www.ur.org.tw/), "Estatísticas de Resultados da Promoção da Renovação Urbana", 2024.
+6. [Wikipedia, Artigo "Habitação Social em Taiwan"](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E7%A4%BE%E6%9C%83%E4%BD%8F%E5%AE%85), versão de março de 2024.
+7. [Duogeng Duanduo Tong, "Novo Recorde na Quantidade de Construção Direta e Aluguel Gerenciado"](https://urbanrenewal.wealth.com.tw/news-detail/1102), 2024.
+8. [Bureau de Desenvolvimento Urbano de Taipei](https://udd.gov.taipei/), "Livro Branco da Política de Habitação Social", 2023.
+9. [Bureau de Desenvolvimento Urbano e Rural de Xinbei](https://www.planning.ntpc.gov.tw/home.jsp?id=68301de1098d53bb), "Plano de Desenvolvimento de Habitação Social de Xinbei", 2024.
+10. [Departamento de Desenvolvimento Habitacional de Taoyuan](https://ohd.tycg.gov.tw/), "Resultados da Promoção da Habitação Social de Taoyuan", 2024.
+11. [Fundação崔媽媽 (Chui Ma Ma Foundation)](https://www.tmm.org.tw/), "Relatório de Pesquisa sobre a Situação Atual do Mercado de Aluguel", 2024.
+12. [Aliança de Promoção da Habitação Social](https://socialhousingtw.blogspot.com/), "Livro de Sugestões sobre a Política de Habitação Social", 2023.

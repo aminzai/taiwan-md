@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-27T00:48:11+08:00",
-    "zhCommitHead": "2a6e2d13d",
+    "lastUpdated": "2026-07-27T01:13:23+08:00",
+    "zhCommitHead": "88376f2cb",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -67,42 +67,42 @@
       },
       "id": {
         "total_zh": 869,
-        "fresh": 322,
+        "fresh": 324,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 536,
+        "missing": 534,
         "orphan": 0
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 513,
+        "fresh": 516,
         "stale": 12,
         "metadata_stale": 1,
-        "missing": 343,
+        "missing": 340,
         "orphan": 0
       },
       "hi": {
         "total_zh": 869,
-        "fresh": 403,
+        "fresh": 402,
         "stale": 6,
         "metadata_stale": 2,
-        "missing": 458,
+        "missing": 459,
         "orphan": 0
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 390,
+        "fresh": 389,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 477,
+        "missing": 478,
         "orphan": 0
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 420,
+        "fresh": 422,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 447,
+        "missing": 445,
         "orphan": 0
       }
     },
@@ -5210,7 +5210,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
+          "translatedFrom": "Economy/台灣產業轉型升級.md",
+          "sourceCommitSha": "d6377e82e",
+          "sourceContentHash": "sha256:e6cb5dd5b7d9e8ed",
+          "sourceBodyHash": "sha256:ebbc94611dc1b8f9",
+          "translatedAt": "2026-07-26T23:53:49+08:00",
+          "translationLastCommit": "7fd4ffc7",
+          "translationLastModified": "2026-07-24T22:11:50+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -12523,7 +12534,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/taiwan-drone-industry.md",
+          "translatedFrom": "Technology/台灣無人機產業.md",
+          "sourceCommitSha": "c2412970f",
+          "sourceContentHash": "sha256:9a74d696840dfd44",
+          "sourceBodyHash": "sha256:6b0ed5d3cd521366",
+          "translatedAt": "2026-07-26T23:53:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -12765,7 +12787,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Technology/ai-supply-chain-overseas-manufacturing.md",
+          "translatedFrom": "Technology/AI供應鏈海外設廠.md",
+          "sourceCommitSha": "fd01d452a",
+          "sourceContentHash": "sha256:7fa246cf8f0f5c00",
+          "sourceBodyHash": "sha256:453d3851b08255ad",
+          "translatedAt": "2026-07-26T23:53:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -14146,7 +14179,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/tamsui-river-bridge.md",
+          "translatedFrom": "Technology/淡江大橋.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:58ac62b3c0ac9558",
+          "sourceBodyHash": "sha256:2f938b13f0ca156c",
+          "translatedAt": "2026-07-26T21:33:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/tamsui-river-bridge.md",
@@ -19497,7 +19541,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Art/lin-ching-yao-artist.md",
+          "translatedFrom": "Art/林經堯.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d29637a833e9cde7",
+          "sourceBodyHash": "sha256:31177a634927a74f",
+          "translatedAt": "2026-07-26T21:33:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/lin-ching-yao-artist.md",
@@ -23622,7 +23677,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Art/contemporary-taiwanese-literature.md",
+          "translatedFrom": "Art/當代台灣文學.md",
+          "sourceCommitSha": "4d7fab8ee",
+          "sourceContentHash": "sha256:c4bd59992f27e4d2",
+          "sourceBodyHash": "sha256:61a341569aa8edad",
+          "translatedAt": "2026-07-26T21:33:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -28280,7 +28346,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/tour-bus.md",
+          "translatedFrom": "Lifestyle/遊覽車.md",
+          "sourceCommitSha": "42b42a934",
+          "sourceContentHash": "sha256:f828da7d0eb39776",
+          "sourceBodyHash": "sha256:c0de350ac39dbee0",
+          "translatedAt": "2026-07-26T23:53:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -48329,8 +48406,8 @@
           "sourceContentHash": "sha256:3e3c722e9fbee583",
           "sourceBodyHash": "sha256:cd353841feafe555",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1ab850f7",
+          "translationLastModified": "2026-07-27T00:48:11+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -53795,8 +53872,8 @@
           "sourceContentHash": "sha256:62dd044f9d1285a1",
           "sourceBodyHash": "sha256:b39a89251e94292a",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "ea4f1351",
-          "translationLastModified": "2026-07-26T23:13:52+08:00",
+          "translationLastCommit": "1ab850f7",
+          "translationLastModified": "2026-07-27T00:48:11+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -56411,8 +56488,8 @@
           "sourceContentHash": "sha256:5bcf40616e842909",
           "sourceBodyHash": "sha256:15c8e50bb3ba07a7",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "ea4f1351",
-          "translationLastModified": "2026-07-26T23:13:52+08:00",
+          "translationLastCommit": "1ab850f7",
+          "translationLastModified": "2026-07-27T00:48:11+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -61811,8 +61888,8 @@
           "sourceContentHash": "sha256:e699feede1257135",
           "sourceBodyHash": "sha256:86d8a4b7771c32c4",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "ea4f1351",
-          "translationLastModified": "2026-07-26T23:13:52+08:00",
+          "translationLastCommit": "1ab850f7",
+          "translationLastModified": "2026-07-27T00:48:11+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -64933,8 +65010,8 @@
           "sourceContentHash": "sha256:f8a43ac4f3c5c945",
           "sourceBodyHash": "sha256:564dbfac81e16aa7",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "ea4f1351",
-          "translationLastModified": "2026-07-26T23:13:52+08:00",
+          "translationLastCommit": "1ab850f7",
+          "translationLastModified": "2026-07-27T00:48:11+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -71468,8 +71545,8 @@
           "sourceContentHash": "sha256:736f2b6cf89c9093",
           "sourceBodyHash": "sha256:728aa85d9d44e89a",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1ab850f7",
+          "translationLastModified": "2026-07-27T00:48:11+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -76305,8 +76382,8 @@
           "sourceContentHash": "sha256:32e758a1acf33e90",
           "sourceBodyHash": "sha256:fb31dbbb24515e69",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "ea4f1351",
-          "translationLastModified": "2026-07-26T23:13:52+08:00",
+          "translationLastCommit": "1ab850f7",
+          "translationLastModified": "2026-07-27T00:48:11+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -77661,8 +77738,8 @@
           "sourceContentHash": "sha256:720cd768af91d1c3",
           "sourceBodyHash": "sha256:7ec1f1d13ec2e4d4",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1ab850f7",
+          "translationLastModified": "2026-07-27T00:48:11+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -78076,8 +78153,8 @@
           "sourceContentHash": "sha256:741173e056926b2c",
           "sourceBodyHash": "sha256:7f6ff2dde21c6686",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "ea4f1351",
-          "translationLastModified": "2026-07-26T23:13:52+08:00",
+          "translationLastCommit": "1ab850f7",
+          "translationLastModified": "2026-07-27T00:48:11+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -106258,18 +106335,7 @@
           "status": "missing"
         },
         "ar": {
-          "path": "ar/Culture/taiwan-anime-culture.md",
-          "translatedFrom": "Culture/台灣動漫文化.md",
-          "sourceCommitSha": "85926aa3b",
-          "sourceContentHash": "sha256:4f2929a499d24ac8",
-          "sourceBodyHash": "sha256:87f8032127a53d42",
-          "translatedAt": "2026-07-26T21:33:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 2,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ru": {
           "path": "ru/Culture/taiwan-anime-culture.md",
@@ -109420,18 +109486,7 @@
           "reason": "same-commit"
         },
         "hi": {
-          "path": "hi/Culture/taiwan-incense-making-culture-and-heritage.md",
-          "translatedFrom": "Culture/台灣製香文化與香腳原鄉.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:90f09bc6a0a80e4d",
-          "sourceBodyHash": "sha256:396be33a77ed6ba1",
-          "translatedAt": "2026-07-26T21:33:26+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ar": {
           "path": "ar/Culture/taiwan-incense-making-culture-and-heritage.md",
