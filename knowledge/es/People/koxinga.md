@@ -1,161 +1,161 @@
 ---
-title: 'Koxinga: 37 años nacido en Japón, criado en China y muerto en Taiwán'
-description: 'Hijo mestizo de un pirata sino-japonés que pasó dieciséis años combatiendo a los Qing, nueve meses asaltando Taiwán y cinco fundando un Estado, antes de morir de repente a los 37; cuatro regímenes se han disputado su nombre.'
+title: 'Koxinga (Zheng Chenggong)'
+description: 'El hijo de un pirata, de ascendencia japonesa y china, que resistió a la dinastía Qing durante dieciséis años, conquistó Taiwán en nueve meses y fundó un reino por cinco meses antes de morir repentinamente a los treinta y siete años: su nombre ha sido reclamado por cuatro regímenes distintos.'
 date: 2026-03-27
+category: 'People'
 tags:
   [
     'Koxinga',
-    'Reino Tungning',
-    'VOC',
+    'Era de Zheng/Ming',
+    'Compañía Neerlandesa de las Indias Orientales',
     'Historia de Taiwán',
     'Imperio marítimo',
-    'Fuerte Zelandia',
+    'Fort Zeelandia',
   ]
 subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
-category: 'People'
 featured: false
 lastVerified: 2026-03-27
 lastHumanReview: false
 readingTime: 12
 translatedFrom: 'People/鄭成功.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:c09723b8f613b890'
-sourceBodyHash: 'sha256:8cc0f510721f307f'
-translatedAt: '2026-05-02T08:50:00+08:00'
+sourceCommitSha: 'a7cf30769'
+sourceContentHash: 'sha256:29ee16f25cde68b4'
+sourceBodyHash: 'sha256:fa9994749dd8a224'
+translatedAt: '2026-07-27T03:39:56+08:00'
 ---
 
-# Koxinga: 37 años nacido en Japón, criado en China y muerto en Taiwán
+# Koxinga (Zheng Chenggong): Nacido en Japón, criado en China y muerto en Taiwán a los treinta y siete años
 
-> **Resumen en 30 segundos:** Koxinga (1624-1662) fue hijo de un pirata, mestizo sino-japonés, general de los Ming del Sur y conquistador de Taiwán; murió a los 37. Hasta los siete años se llamó "Fukumatsu" en Japón; a los 21, el emperador le concedió el apellido imperial "Zhu"; a los 37 tomó la Taiwán neerlandesa y, cinco meses después, falleció súbitamente. En cuatrocientos años, los Qing lo llamaron rebelde, los japoneses lo erigieron en héroe mestizo, el Gobierno nacional lo coronó "Sagrado Rey que abrió Taiwán", y la tierra que pisaba fue, antes que de él, hogar de pueblos indígenas a los que casi nadie nombra.
+> **Resumen en 30 segundos:** Koxinga (1624-1662) fue hijo de un pirata, de ascendencia japonesa y china, general de la dinastía Ming del Sur, conquistador de Taiwán y, además, vivió solo treinta y siete años. Antes de los siete años, en Japón era llamado "Fukumatsu"; a los veintiuno, el emperador le otorgó el apellido imperial "Zhu"; a los treinta y siete, conquistó la Taiwán neerlandesa y murió cinco meses después. Durante cuatrocientos años, la dinastía Qing lo llamó rebelde, Japón lo llamó héroe mestizo, el Gobierno Nacionalista lo llamó el "Rey Santo de la Apertura de Taiwán", mientras que en la tierra que pisaba vivían los pueblos indígenas, de quienes rara vez se habla.
 
-El 2 de abril de 1661, frente a Lu'ermen (Tainan), aparecieron 400 juncos.
+El 2 de abril de 1661, cuatrocientas embarcaciones aparecieron frente a las aguas de Luyuan, en Tainan.
 
-Frederick Coyett, gobernador holandés de Taiwán por la Compañía Neerlandesa de las Indias Orientales (VOC), miraba desde la muralla del Fuerte Zelandia cómo la isla que llevaba cinco años protegiendo cambiaría de manos. En el fuerte había 905 soldados; enfrente, 25.000 soldados Ming-Zheng llegados desde Kinmen. Coyett escribiría después en sus memorias _Neglected Formosa_ que aquellos soldados, con armaduras de escamas de hierro, "agachaban la cabeza tras los escudos y se lanzaban al combate con una furia y un valor sin igual… avanzaban como perros rabiosos, sin volverse ni a comprobar si los compañeros los seguían".
+Frederick Coyett, gobernador de la Compañía Neerlandesa de las Indias Orientales en Taiwán, observaba desde las murallas de Fort Zeelandia cómo la isla que había defendido durante cinco años estaba a punto de cambiar de manos. En el castillo solo había 905 soldados frente a un ejército de la dinastía Ming del Sur de 25,000 hombres que habían cruzado el mar desde Kinmen. Coyett escribió más tarde en sus memorias, _Neglected Formosa_, que estos soldados, cubiertos con armaduras de escamas de hierro, «inclinaban la cabeza tras sus escudos y se lanzaban a las filas enemigas con una valentía inaudita y feroz... avanzando sin cesar, como perros rabiosos, sin siquiera mirar atrás para ver si sus compañeros los seguían». (Citado de las memorias de Coyett, _Neglected Formosa_).
 
-Aquel ejército lo encabezaba un hombre que, hasta los siete años, recogía conchas en una playa de Japón con el nombre de Fukumatsu.
+El líder de este ejército, antes de los siete años, recogía conchas en la costa de Japón bajo el nombre de Fukumatsu.
 
-## Hijo de pirata en la playa de Senrigahama
+## El hijo del pirata en Senribu-hama
 
-El 27 de agosto de 1624, en la playa de Senrigahama (Kawauchiura, isla de Hirado, Kyushu), una mujer japonesa apellidada Tagawa dio a luz un niño sobre una roca a la orilla del mar. La leyenda cuenta que estaba recogiendo conchas cuando le entraron los dolores; aquella roca, conocida como "Roca del Nacimiento" (兒誕石), sigue siendo hoy atractivo turístico en Hirado.
+El 27 de agosto de 1624, en Senribu-hama, de la bahía de Kawauchi, isla de Hirado, Kyushu (Japón), una mujer japonesa llamada Tagawa dio a luz a un hijo sobre las rocas de la costa. La leyenda cuenta que, mientras recogía conchas, sintió un dolor abdominal repentino y dio a luz allí mismo: esa roca fue llamada más tarde "la roca del nacimiento" y sigue siendo hoy un lugar turístico en Hirado.
 
-El padre, Zheng Zhilong, no estaba allí. Aquel chino de Nan'an (Fujian) administraba su imperio marítimo: nominalmente comerciante, en realidad jefe de uno de los mayores grupos piratas de Asia oriental. Monopolizaba la ruta entre la costa china y Nagasaki; hasta la VOC fue derrotada por él en la [[Historia del comercio marítimo de Taiwán|batalla de Liaoluowan]] de 1633.
+El padre del niño, Zheng Zhilong, no estaba presente. Este hombre chino, originario de Nanquia, Fujian, estaba ocupado gestionando su imperio marítimo: aunque se le llamaba comerciante, era en realidad uno de los líderes del grupo pirata más grande de Asia Oriental. Monopolizaba las rutas comerciales desde la costa de China hasta Nagasaki, Japón; incluso la Compañía Neerlandesa de las Indias Orientales sufrió una derrota devastadora a sus manos en la [[台灣海洋貿易史|batalla de Liaoluo Bay]] en 1633.
 
-Fukumatsu pasó siete años despreocupados en Hirado. En 1631, su padre lo trajo de vuelta a Anping (Fujian) y le cambió el nombre a Zheng Sen. Un niño criado en Japón fue lanzado de pronto al sistema imperial chino de los exámenes; sorprendentemente, se adaptó muy bien. En 1638 obtuvo el título de _xiucai_ y en 1644 entró en la Academia Imperial de Nankín, donde estudió con Qian Qianyi, gran erudito de Jiangsu y Zhejiang. Para animarlo, el maestro le dio el nombre de cortesía "Damu" (大木).
+Fukumatsu pasó una infancia tranquila de siete años en Hirado. En 1631, su padre lo llevó de vuelta a la ciudad de Anping, en Fujian, y cambió su nombre a Zheng Sen. Un niño criado en Japón fue repentinando introducido en el sistema de exámenes imperiales de China: y resultó adaptarse sorprendentemente bien. En 1638 aprobó los exámenes de _xiucai_, y en 1644 ingresó en la Academia Imperial de Nanjing, convirtiéndose en discípulo del gran erudito de las regiones de Jiangnan y Zhejiang, Qian Qianyi. Para animar a su alumno, Qian Qianyi le otorgó el nombre de cortesía "Damu".
 
-Si la dinastía Ming no hubiera caído, Zheng Sen habría sido un funcionario civil sin huella en la historia.
+Si la dinastía Ming no hubiera caído, Zheng Sen podría haber sido un funcionario civil sin dejar rastro en la historia.
 
-## De estudiante confuciano a guerrero: ruina nacional y familiar
+## De erudito a guerrero: una nación en ruinas
 
-En 1644 todo se derrumbó. Li Zicheng entró en Pekín; el emperador Chongzhen se ahorcó. Los Ming del Sur establecieron un gobierno en el exilio en Fuzhou; el emperador Longwu subió al trono apoyado en la fuerza militar y los recursos de Zheng Zhilong.
+En 1644, todo se derrumbó. Li Zicheng tomó Beijing y el emperador Chongzhen se suicidó. La dinastía Ming del Sur estableció un gobierno en el exilio en Fuzhou, con la ascensión del emperador Longwu, gracias al poder militar y los recursos de Zheng Zhilong.
 
-Longwu apreció enormemente al joven Zheng Sen, le concedió el apellido imperial "Zhu" y le dio el nombre "Chenggong" (成功, "éxito"). Desde entonces se hizo llamar "Apellido Imperial Chenggong" (國姓成功); de ahí proviene el título "Lord del Apellido Imperial" (Koxinga, _Guoxingye_ en mandarín). Occidente lo transcribió desde el min nan como _Koxinga_: la forma con que es más conocido en la historiografía internacional.
+El emperador Longwu apreciaba profundamente al joven Zheng Sen, otorgándole el apellido imperial "Zhu" y cambiándole el nombre a "Chenggong" (Éxito). Desde entonces, se autodenominó "Chenggong del apellido imperial", un nombre que mantuvo de por vida: así nació el apodo de "Koxinga". El mundo occidental adoptó la pronunciación del minnan y lo escribió como Koxinga, convirtiéndose en su nombre más conocido en la historiografía internacional.
 
-Pero su padre tenía otros planes. En 1646, las tropas Qing entraron en Fujian. El antiguo pirata aceptó la promesa hueca de "Gobernador Militar de Min y Yue" y se rindió, llevándose a sus hombres. Zheng Chenggong intentó disuadirlo sin éxito; entró en el Templo de Confucio de Nan'an, quemó sus ropas de letrado y, ante la tablilla del Maestro, lloró y juró: "Antes era un niño aprendiz, hoy soy un siervo solitario; cada cual sigue su camino. Despido la ropa de letrado y pido que el Maestro lo testimonie." (_Crónicas extraoficiales de Taiwán_, _Taiwan Waiji_).
+Pero Zheng Zhilong tenía otros planes. En 1646, las tropas Qing avanzaron hacia Fujian; este padre de origen pirata aceptó la promesa vacía de la corte Qing de ser nombrado "Gobernador General de Min-Yue" y se rindió. Koxinga no pudo disuadirlo, así que entró en el templo de Confucio en Nanquia, quemó sus vestiduras de erudito y, ante el altar de Confucio, juró llorando: «Antes era un hijo obediente, ahora soy un súbdito solitario; mi lealtad o deserción dependerá de lo que cada uno decida, pero hoy renuncio a mis ropas de erudito, rogando al Maestro que sea testigo». (Citado de _Taiwan Waiji_).
 
-Renunció a la pluma y empuñó la espada con 22 años.
+A los veintidós años, abandonó la pluma por la espada.
 
-Le siguió un golpe aún más cruel. En la primavera de 1647, las tropas Qing tomaron Anping, hogar de los Zheng. La madre de Zheng Chenggong —la mujer japonesa que le dio a luz en aquella roca de Senrigahama— se negó a rendirse junto a su esposo. Cuando los Qing rompieron las defensas, se quitó la vida.
+El golpe más cruel llegó después. En la primavera de 1647, las tropas Qing invadieron Anping, el hogar de la familia Zheng. La madre de Koxinga, Tagawa, la mujer japonesa que lo había dado a luz en las rocas de Senribu-hama, se negó a seguir a su marido en la rendición ante los Qing. Cuando las tropas Qing tomaron la ciudad, ella se suicidó.
 
-Aquel trauma fue el combustible nuclear de los siguientes 16 años de resistencia anti-Qing.
+Este trauma se convirtió en el combustible central de los dieciséis años de resistencia de Koxinga contra la dinastía Qing.
 
 ## Imperio marítimo: una máquina de guerra con capital en Xiamen
 
-Zheng Chenggong heredó las redes marítimas de su padre, pero los inicios fueron arduos. Su primer enemigo no fue Qing, sino su propia familia. La noche del Festival de Mediados de Otoño de 1650 visitó Xiamen para ver a su tío Zheng Lian; aprovechando la sorpresa lo asesinó y se hizo con Xiamen y Kinmen como bases. El hermano mayor de Lian, Zheng Cai, se rindió y entregó las tropas.
+Koxinga heredó el poder marítimo de su padre, pero su comienzo fue difícil. Su primer enemigo no fueron los Qing, sino sus propios parientes. En el Festival del Medio Otoño de 1650, planeó visitar a su tío Zheng Lian en Xiamen y, aprovechando un descuido, lo asesinó para tomar Xiamen y Kinmen como bases. El hermano de Zheng Lian, Zheng Cai, al enterarse, no se atrevió a resistirse y entregó su mando militar.
 
-El imperio marítimo Zheng no era solo militar: era una de las mayores redes de contrabando de Asia oriental. Controlaba las rutas desde la costa de Fujian a Nagasaki y al Sudeste Asiático y cobraba "impuesto marítimo" a los buques mercantes; los ingresos anuales se contaban por millones. La oficina de Taiwán de la VOC informó repetidamente de que la flota Zheng superaba ampliamente a toda la marina de la VOC en Asia. Este modelo —comercio que financia la guerra y guerra que protege el comercio— le permitió mantener un ejército enorme sin territorio fijo durante una década.
+El imperio marítimo de los Zheng no era solo fuerza militar: era una de las redes de contrabando más grandes de Asia Oriental. La familia Zheng controlaba las rutas desde la costa de Fujian hasta Nagasaki y el sudeste asiático, cobrando "impuestos de ruta" a los barcos mercantes, con ingresos anuales de millones. La división taiwanesa de la Compañía Neerlandesa de las Indias Orientales informó en varias ocasiones que la flota de Zheng superaba por mucho la capacidad naval de la VOC en Asia. Este modelo de financiar la guerra con el comercio y proteger el comercio con la guerra le permitió mantener un ejército masivo durante diez años sin tener un territorio fijo.
 
-En la década siguiente combatió en la costa de Fujian a las tropas Qing. Entre 1651 y 1652 ganó en Cizao, Qianshan, Xiaoyingling y Jiangdongqiao. En Jiangdongqiao, conocedor del terreno, puso una emboscada junto al puente y derrotó al comandante Qing Chen Jin; siguió rodeando Zhangzhou seis meses. La situación interior fue terrible, descrita por el censor imperial de Fujian Wang Yingyuan: "El precio del _shi_ de arroz subió a 550 _liang_ de plata; raíces, hojas, ratas, gorriones, vacas y caballos fueron devorados; después, carne humana. Padre e hijo se comían entre sí; un mes sin humo en las cocinas." (Memorial de Wang Yingyuan.)
+Durante la década siguiente, utilizó su superioridad naval para luchar contra los Qing en la costa de Fuj福建. Entre 1ím151 y 1652, las tropas de Zheng obtuvieron victorias consecutivas en Cizao, Qianshan, Xiaoyingling y Jiangdongqiao. En la batalla de Jiangdongqiao, Koxinga utilizó su conocimiento del terreno de Minnan para tender una emboscada, derrotando al comandante Qing Chen Jin y sitiando Zhangzhou durante medio año. La tragedia dentro de la ciudad fue registrada por el inspector Wang Yingyuan: «El precio del arroz llegó a quinientos cincuenta taeles por _shi_; las raíces, la madera, los ratones y los pájaros fueron consumidos, seguidos por la carne humana. Padres y hijos se devoraban entre sí, y no hubo fuego para cocinar durante más de un mes». (Citado del informe de Wang Yingyuan).
 
-Pero la victoria no fue lineal. A finales de 1652, el general Qing Jin Li contraatacó con 10.000 hombres y descubrió la misma emboscada en Jiangdong; cinco mariscales y comandantes Zheng murieron. En la batalla de Haicheng (1653), Zheng Chenggong se acercó al frente para arengar y casi fue alcanzado por el cañón; al final, calculando que los Qing se habían quedado sin pólvora, lanzó un ataque incendiario al cruzar el río y conservó la base.
+Pero la victoria no fue lineal. A finales de 1652, el general Qing Jin Li lanzó una contraofensiva con diez mil hombres, descubriendo la misma táctica de emboscada que Koxinga usó en Jiangdong. Cinco almirantes y generales de Zheng murieron en el combate. En la batalla de Haicheng (1653), Koxinga estuvo en primera línea bajo fuego de artillería; finalmente, tras prever que la pólvora enemiga se agotaría, utilizó ataques con fuego mientras ellos cruzaban el río para salvar su base.
 
-El emperador Shunzhi le ofreció dos veces el título de "Conde Pacífico de Hailan"; lo rechazó. Las negociaciones se rompieron una y otra vez.
+El emperador Shunzhi le otorgó dos veces el título de "Duque de Haicheng", pero Koxinga lo rechazó. Las negociaciones de paz también fracasaron.
 
-### Batalla de Nankín: el momento más cercano a la inversión histórica
+### La batalla de Nanjing: el momento más cerca de cambiar la historia
 
-La batalla de Nankín de 1659 fue el momento en que más cerca estuvo de reescribir la historia. Reunió a su flota de élite, asaltó el Yangtsé desde la costa, tomó Zhenjiang y otras ciudades ribereñas y se acercó a la antigua capital del Ming del Sur.
+La batalla de Nanjing en 1659 fue el momento en que Koxinga estuvo más cerca de reescribir la historia. Reunió a su élite naval, atacó el río Yangtze por vía marítima y capturó ciudades costeras como Zhenjiang, presionando directamente la antigua capital de la dinastía Ming del Sur, Nanjing.
 
-El pánico se extendió por la corte Qing. Un misionero francés escribió en 1671 que la nobleza manchú llegó a considerar abandonar Pekín y trasladar la capital al noreste. Un funcionario Qing en Pekín escribió a su familia en Nankín diciendo que "todas las noticias y comunicaciones desde Nankín se han cortado", que los rumores sobre el "ejército de hierro" de Koxinga lo describían como invencible y que se prepararan para unirse al bando Zheng; él mismo planeaba desertar. Las tropas de Koxinga interceptaron esas cartas.
+El pánico se extendió por la capital Qing. Un misionero francés registró en 1671 que la nobleza manchú consideró abandonar Beijing para trasladar la capital al noreste. Un oficial Qing en Beijing escribió a su familia en Nanjing diciendo que «toda comunicación y noticias de Nanjing se han interrumpido» y que los rumores sobre el «ejército de hierro de Koxinga era invencible», instando a su familia a prepararse para unirse a las fuerzas de Zheng: él mismo planeaba desertar. Las tropas de Koxinga interceptaron estas cartas.
 
-Pero Koxinga cometió un error estratégico fatal. Quiso revivir la victoria total que su padre había obtenido en Liaoluowan y se obstinó en esperar una gran batalla decisiva en lugar de aprovechar el caos para asaltar la ciudad. El asedio de Nankín duró casi tres semanas (desde el 24 de agosto), pero las tropas Zheng no cerraron el cerco; los Qing recibieron suministros y refuerzos. Cuando la caballería Qing salió de la ciudad, los Zheng se replegaron a sus barcos.
+Sin embargo, Koxinga cometió un error estratégico fatal. Quería repetir la gloria de su padre en la batalla de Liaoluo Bay y se empeñó en esperar una gran batalla decisiva en lugar de aprovechar el caos para tomar la ciudad rápidamente. El asedio de Nanjing duró casi tres semanas (desde el 24 de agosto), pero las tropas de Zheng no lograron completar el cerco, permitiendo que los Qing recibieran suministros y refuerzos. Cuando la caballería Qing salió de la ciudad, las tropas de Zheng se retiraron hacia sus barcos.
 
-Tras leer aquellas cartas, Koxinga quizá empezó a arrepentirse de su lentitud. Pero ya era tarde.
+Tras leer aquellas cartas interceptadas, es probable que Koxinga comenzara a arrepentirse de su demora. Pero ya era demasiado tarde.
 
-De vuelta a Xiamen, los Qing decretaron la "Ley de evacuación marítima": forzaron a la población costera a retirarse 30 _li_ tierra adentro y quemaron casas y barcos para cortar todo apoyo a las tropas Zheng. La costa sudoriental quedó arrasada. Koxinga necesitaba una nueva base o su imperio marítimo se asfixiaría en el bloqueo.
+Tras retirarse a Xiamen, la dinastía Qing promulgó la "Orden de Evacuación de la Costa", obligando a todos los residentes dentro de treinta _li_ de la costa a trasladarse al interior, quemando casas y barcos para cortar todo suministro a las fuerzas de Zheng. La costa del sureste se convirtió en tierra quemada. Koxinga necesitaba una nueva base o su imperio marítimo moriría asfixiado por el bloqueo.
 
-## Nueve meses: del desembarco a la fundación de Estado
+## Nueve meses: de la desembarco a la fundación del reino
 
-En 1659, un hombre llamado He Pin huyó de los neerlandeses a Xiamen y trajo un mapa de Taiwán y una propuesta: tomar Taiwán.
+En 1659, un hombre llamado He Bin huyó de los neerlandeses hacia Xiamen, trayendo consigo un mapa de Taiwán y una propuesta: conquistar Taiwán.
 
-La motivación de Koxinga fue muy práctica: el grano. Pero su ultimátum a los neerlandeses estaba lleno de lenguaje imperial: "Taiwán pertenece a China desde la antigüedad; los neerlandeses solo han sido autorizados a residir temporalmente. Ahora China necesita esta tierra; los extranjeros forasteros deben apartarse." (Documentos neerlandeses.)
+La motivación de Koxinga era práctica: el problema del suministro de alimentos. Sin embargo, su ultimátum a los neerlandeses estaba lleno de lenguaje imperial: «Taiwación ha pertenecido a China desde la antigüedad; los neerlandeses solo tienen permiso para una estancia temporal. Ahora China necesita este lugar, y los extranjeros deben ceder el paso». (Citado de documentos neerlandeses).
 
-El 23 de marzo de 1661, las tropas Zheng partieron de Liaoluowan (Kinmen). 400 juncos con unos 25.000 soldados cruzaron el estrecho y, por un canal de aguas poco profundas que los neerlandeses desconocían, alcanzaron Tainan por Lu'ermen.
+El 23 de marzo de 1661, la flota de Zheng partió de Liaoluo Bay, en Kinmen. Cuatrocientas embarcaciones con unos 25,000 soldados cruzaron el estrecho de Taiwán, atravesando canales poco profundos desconocidos para los neerlandeses en Luyuan, hasta llegar a Tainan.
 
-[[Era neerlandesa, española y de Koxinga|La resistencia neerlandesa]] fue mucho más dura de lo previsto. El día del desembarco, tras pasar por aquel canal, tres barcos de guerra neerlandeses interceptaron a los Zheng y hundieron varios juncos; pero la nave insignia _Hector_ explotó por el incendio de su santabárbara y se hundió: la VOC perdió el dominio del mar.
+[[荷西明鄭時期|La resistencia neerlandesa]] fue mucho más fuerte de lo esperado. El día del desembarco, tras cruzar los canales poco profundos, tres barcos de guerra neerlandeses interceptaron la flota: hundieron varios barcos, pero el buque insignia, el _Hector_, explotó debido al fuego de artillería y se hundió, haciendo que las fuerzas de Zheng perdieran el control del mar.
 
-El Fuerte Provintia (Chikan) tenía solo 140 defensores y se rindió en cuatro días. Pero el Fuerte Zelandia era otra cosa: una fortaleza europea de muros multicapas defendida por 905 neerlandeses con artillería abundante. Las armaduras de escamas y las armas blancas de los Zheng pagaron caro frente a los cañones. El asedio duró nueve meses.
+La guarnición de Fort Provintia (赤崁樓/Chihkan Tower) contaba solo con 140 hombres y se rindió en cuatro días. Pero Fort Zeelandia era otra historia: esta fortaleza europea de múltiples murallas estaba defendida por 905 soldados neerlandeses equipados con abundante artillería. Las armaduras de escamas y las armas blancas de los soldados de Zheng pagaron un precio muy alto ante la artillería. El asedio duró nueve meses enteros.
 
-En esos nueve meses, el mayor enemigo de los Zheng no fueron los neerlandeses, sino las enfermedades. De los 25.000 soldados, unos 12.500 cayeron por enfermedad o deserción durante el asedio: una pérdida del 50 %. La flota neerlandesa de socorro enviada desde Batavia (12 barcos, 700 marineros) también fue derrotada en una batalla naval: 1 buque hundido, 2 abandonados, 3 capturados.
+Durante esos nueve meses, el mayor enemigo de las tropas de Zheng no fueron los neerlandeses, sino las enfermedades. De los 25,000 soldados, aproximadamente 12,500 murieron o desertaron debido a enfermedades o fugas: una tasa de pérdida del 50%. Una flota de refuerzo enviada por los neerlandeses desde Batavia con 12 barcos y 700 marineros también fue derrotada en combate naval: un barco se hundió, dos fueron abandonados y tres fueron capturados.
 
-El 1 de febrero de 1662, Coyett firmó la capitulación. Los neerlandeses pusieron fin a 38 años de dominio sobre Taiwán.
+El 1 de febrero de 1662, Coyett finalmente firmó el tratado de rendición. Los neerlandeses pusieron fin a su dominio colonial en Taiwán, que había durado 38 años.
 
-Koxinga proclamó "fundación de Estado y de casa": estableció la Prefectura Cheng-tien con capital en Taiwán (大員, Tainan), una prefectura y dos condados (Tianxing y Wannian), y aplicó el sistema _tuntian_ (cultivo militar): el ejército desbrozaba la tierra y se autoabastecía. Importó la administración, la fiscalidad y los exámenes imperiales chinos, y mantuvo las redes comerciales marítimas.
+Koxinga anunció la "fundación del país y del hogar", estableciendo la Prefectura de Chengtian con capital en Daoyuan (actual Tainan), dividida en dos condados (Tianxing y Wannian), e implementando el sistema de agricultura militar (_tuntian_): el ejército cultivaba la tierra para ser autosuficiente. Introdujo un sistema administrativo, fiscal y de exámenes imperiales al estilo chino, manteniendo al mismo tiempo sus redes comerciales marítimas.
 
-Pero el "Reino Tungning" no se limitaba a Taiwán. Según el Museo Nacional de Historia de Taiwán, en su fundación incluía las islas costeras de Min y Yue —Kinmen, Xiamen, Tongshan, Nan'ao—; Taiwán fue una expansión, no la totalidad. Nominalmente seguían honrando el reinado del emperador Yongli del Ming del Sur y publicaron por su cuenta el "Calendario Imperial de Yongli del Renacimiento Ming"; el añadido "Renacimiento" subraya la voluntad de prolongar la legitimidad Ming. Una copia del calendario de 1677 se conserva hoy en la Biblioteca Bodleian de Oxford y atestigua que la Compañía Inglesa de las Indias Orientales fue invitada en la era Zheng Jing a establecer factoría en Taiwán.
+Sin embargo, el territorio del "Reino de Dongning" no se limitaba a Taiwán. Según investigaciones de _Taiwan History Museum_, al principio incluía islas como Kinmen, Xiamen, Tongshan y Nan'ao en la costa de Fujian y Guangdong; Taiwación era una expansión del reino, no su totalidad. Nominalmente, seguían respetando la era del emperador Yongli de la dinastía Ming del Sur, utilizando el calendario "Gran Dinastía Ming de la Restauración de Yongli" —añadiendo "Restauración" para enfatizar su voluntad de restaurar la legitimidad Ming—. Una copia de este calendario de 1677 se conserva en la Biblioteca Bodleiana de la Universidad de Oxford, testimonio de las relaciones comerciales donde la Compañía Británica de las Indias Orientales fue invitada a establecer un consulado en Taiwán.
 
-Este régimen marítimo centrado en Taiwán inauguró tres generaciones del Ming-Zheng (21 años, según el Museo) hasta su caída en 1683 a manos de las tropas Qing.
+Este régimen marítimo centrado en Taiwán inició un periodo de gobierno de veintiún años de la [[荷西明鄭時期|dinastía Ming del Sur]] (estimado en 21 años por historiadores locales), hasta que fue destruido por las tropas Qing en 1683.
 
-## La página omitida: la gente bajo sus pies
+## La página omitida: los habitantes bajo sus pies
 
-En la narrativa del "Sagrado Rey que abrió Taiwán" hay un grupo casi por completo ausente.
+En la narrativa del "Rey Santo de la Apertura de Taiwán", un grupo de personas casi desaparece por completo.
 
-Cuando los Zheng desembarcaron, la isla acogía a varios cientos de miles de [[Historia y movimiento de renombramiento de los pueblos indígenas de Taiwán|pueblos indígenas]]. El régimen Ming-Zheng aplicó el _tuntian_; la afluencia masiva de colonos han implicó la requisa sistemática de tierras indígenas. Las cifras precisas de bajas indígenas durante las campañas Ming-Zheng son difíciles de establecer; durante el asedio del fuerte murieron más de 2.200 indígenas en los enfrentamientos.
+Cuando las tropas de Zheng desembarcaron en Taiwán, la isla estaba habitada por cientos de miles de [[台灣原住民族歷史與正名運動|pueblos indígenas]]. El régimen de la dinastía Ming del Sur implementó el sistema de agricultura militar, lo que provocó una gran inmigración de chinos y la expropiación sistemática de tierras indígenas. Según registros neerlandeses y Qing, las bajas causadas por las campañas contra tribus indígenas son difíciles de cuantificar con precisión, pero durante el asedio se sabe que más de 2,200 indígenas murieron en los conflictos.
 
-Se llama a Koxinga "Abridor de Taiwán", pero para los pueblos indígenas inauguró el primer capítulo de una larga historia de despojo de tierras. Esta contradicción no se ha discutido suficientemente: el Templo del Príncipe Yanping de Tainan rebosa de incienso y los 63 templos al "Sagrado Rey" celebran fiestas anuales en toda Taiwán, mientras la discusión sobre la violencia colonial Ming-Zheng sigue marginal.
+Koxinga es llamado el "Apertor de Taiwán", pero para los pueblos indígenas, él inició un largo capítulo de pérdida de tierras. Esta contradicción no se discute plenamente hasta hoy: mientras el Templo del Príncipe de Yiping en Tainan goza de gran devoción y hay 63 templos dedicados a él en toda la isla con festivales anuales, el discurso sobre la violencia colonial de la era Ming del Sur sigue siendo marginal.
 
-## A los 37: una muerte sin respuesta
+## Treinta y siete años: una muerte sin respuestas
 
-Cinco meses después de fundar el Estado, el 23 de junio de 1662, Koxinga murió de pronto en Anping. Tenía 37 años.
+Cinco meses después de fundar su reino, el 23 de$\\text{junio}$ de 1662, Koxinga murió repentinamente en Anping. Tenía treinta y siete años.
 
-La causa sigue siendo un enigma. Las crónicas oficiales hablan de "enfermedad súbita". Las leyendas populares son más dramáticas: al enterarse de que su hijo Zheng Jing había engendrado un hijo ilegítimo con la nodriza, en Xiamen, "pateó el suelo, se restregó las manos, se mordió los dedos hasta arrancarlos y murió aullando". Algunos académicos sospechan malaria o derrumbe psíquico.
+La causa de su muerte sigue siendo un misterio. Los registros oficiales dicen que fue una enfermedad aguda. Las leyendas populares son más dramáticas: se dice que, al enterarse de que su hijo Zheng Jing había tenido un hijo ilegítimo con su nodriza en Xiamen, murió de pura rabia, «golpeando el suelo y mordiéndose los dedos en un lamento final». Algunos académicos sospechan de malaria o colapso mental.
 
-Antes de morir planeaba algo mayor: invadir Luzón, en la Filipinas española, para vengar la matanza de chinos allí (la cuarta matanza, 1662). Si hubiera vivido diez años más, la historia del Sudeste Asiático podría haberse reescrito por completo.
+Antes de morir, estaba planeando algo aún mayor: invadir la isla de Luzón (Filipinas), bajo dominio español, para vengar la masacre de chinos ocurrida allí (el cuarto massacre de chinos, 1662). Si hubiera vivido diez años más, la historia del sudeste asiático podría haber sido completamente distinta.
 
-Pero no fue así. Tras su muerte, Zheng Jing reinó y la dinastía Ming-Zheng aguantó otros 21 años hasta caer en 1683 ante Shi Lang —el general traidor cuyo padre y hermano había matado el propio Koxinga— al frente de las tropas Qing.
+Pero no fue así. Tras la sucesión de Zheng Jing, la dinastía Ming del Sur resistió otros veintiún años, hasta que en 1683 fue conquistada por las tropas Qing lideradas por Shi Lang —quien años atrás había sido un general rebelde que sirvió a la familia Zheng—.
 
 ## Cuatro regímenes, cuatro Koxingas
 
-Lo más fascinante es cómo lo han ido reescribiendo a lo largo de los siglos.
+Lo más fascinante es cómo el destino de Koxinga fue reescrito repetidamente tras su muerte.
 
-**La dinastía Qing** lo llamó "Zheng Chenggong"; el nombre mismo es una operación política. Él se llamó toda la vida "Zhu Chenggong" (Zhu, el apellido imperial). La corte Qing, que no reconocía la legitimidad Ming del Sur, le restituyó por la fuerza el apellido original. Para los Qing era un rebelde, un pirata.
+**La dinastía Qing** lo llamó "Zheng Chenggong" —este nombre en sí mismo fue una maniobra política. Él se llamaba a sí mismo "Zhu Chenggong" (por el apellido imperial otorgado)—; la corte Qing no reconocía la legitimidad de la dinastía Ming del Sur y le impuso su apellido original. Para ellos, era un rebelde y un pirata.
 
-**Japón**, tras la Restauración Meiji, redescubrió a este "héroe mestizo". _Las batallas de Koxinga_, obra kabuki de Chikamatsu Monzaemon (1715), sigue representándose. La Roca del Nacimiento se convirtió en atractivo turístico. Para Japón, Koxinga probaba la superioridad de la sangre japonesa.
+**Japón**, tras la Restauración Meiji, redescubrió a este "héroe mestizo". La obra de teatro Kabuki de Matsumura Kosetsu, _Kokusaiye Kassen_ (1615), se sigue representando. La roca del nacimiento en Hirado es hoy un sitio turístico. Para Japón, Koxinga era la prueba de la grandeza de su linaje.
 
-**El Gobierno nacional**, tras llegar a Taiwán, lo erigió en precursor espiritual del "contraataque al continente": el modelo histórico de un líder que se retira del continente a una isla y la usa de base para reconquistar. El Templo del Príncipe Yanping se reconstruyó en 1963 en estilo de palacio chino (era originalmente min nan); incluso la arquitectura fue reescrita políticamente.
+**El Gobierno Nacionalista**, tras llegar a Taiwán, moldeó a Koxinga como el precursor espiritual de la "contraofensiva hacia el continente": un modelo histórico de alguien que se retiró de China continental a Taiwán para usar la isla como base para recuperar el territorio. El Templo del Príncipe de Yiping fue remodelado en 1963 con un estilo de palacio chino (originalmente era de estilo Minnan), donde incluso la arquitectura fue reescrita políticamente.
 
-**El Taiwán contemporáneo** se enfrenta a una situación más compleja: Koxinga es el inicio de la migración han y, a la vez, el inicio del despojo de tierras indígenas. ¿"Apertura" o "colonización"? Los 63 templos del Sagrado Rey con su incienso y las demandas de justicia transicional indígena conviven en la misma isla. Después de 2016, una "historiografía plural" entró poco a poco en los libros de texto y los capítulos sobre Koxinga ya no son solo épica heroica: empiezan a mencionar la requisa de tierras de los pingpu por el régimen Ming-Zheng.
+**La Taiwán contemporánea** enfrenta una situación más compleja: Koxinga es el punto de partida de la historia de la inmigración china, pero también el inicio de la pérdida de tierras indígenas. ¿Es un "apertor" o un "colonizador"? La devoción en los 63 templos de toda la isla y las demandas de justicia transicional de los pueblos indígenas coexisten en la misma isla. Desde 2016, una "perspectiva histórica plural" ha entrado gradualmente en los libros de texto; los capítulos sobre Koxinga ya no solo narran su heroísmo, sino que también mencionan la expropiación de tierras de los pueblos Planipollos (Pingpu) por parte del régimen Ming del Sur.
 
-Algunos historiadores propusieron "renombrarlo" como "Zhu Chenggong" —que es como se llamó a sí mismo toda la vida—, pero la Comisión de Documentación de Tainan no lo aceptó porque "Zheng Chenggong" se ha consolidado por uso.
+Historiadores de Taiwán propusieron renombrarlo como "Zhu Chenggong" —ya que él mismo usó ese nombre toda su vida y nunca se llamó a sí mismo "Zheng"—, pero la Comisión de Documentación de la Ciudad de Tainan no aceptó la propuesta porque el nombre "Zheng Chenggong" ya está profundamente arraigado en la cultura.
 
-Que ni el nombre te lo decidas tú, sino tus enemigos, es quizá el resumen más exacto de su destino. Nació en Japón pero no fue tratado como japonés; se crio en China y eligió un camino opuesto al de su padre; fundó un Estado en Taiwán y cinco meses después murió. Treinta y siete años, tres patrias, ninguna del todo suya.
+Que el nombre de un hombre sea decidido por sus enemigos es, quizás, el reflejo más preciso de su destino. Nació en Japón pero no fue considerado japonés; creció en China pero eligió un camino opuesto al de su padre; fundó un reino en Taiwán pero murió cinco meses después. Treinta y siete años, tres patrias, y ninguna le perteneció por completo.
 
-Cuatrocientos años después, en Anping (Tainan), la estatua de Koxinga frente al Templo del Príncipe Yanping mira al oeste: hacia la China continental que toda la vida quiso "recuperar" y a la que nunca volvió. Y la isla que estaba bajo sus pies acabó haciendo crecer cosas que él no podía imaginar.
+Cuatrocientos años después, en Anping, Tainan, la estatua de Koxinga frente al Templo del Príncipe de Yiping mira hacia el oeste: hacia la China continental que pasó su vida intentando recuperar pero que nunca pisó. Y bajo sus pies, esta isla hizo crecer algo que él jamás pudo imaginar.
 
 ---
 
 ## Referencias
 
-1. [Wikipedia: Koxinga](https://en.wikipedia.org/wiki/Koxinga)
-2. [Wikipedia: Siege of Fort Zeelandia](https://en.wikipedia.org/wiki/Siege_of_Fort_Zeelandia)
-3. [Wikipedia (zh): Zheng Chenggong](https://zh.wikipedia.org/wiki/%E9%84%AD%E6%88%90%E5%8A%9F)
-4. [Banco Nacional de Memoria Cultural: Koxinga y Taiwán](https://memory.culture.tw/)
-5. [Instituto de Historia Taiwanesa de Academia Sinica](https://www.ith.sinica.edu.tw/)
-6. Tonio Andrade, _Lost Colony: The Untold Story of China's First Great Victory over the West_, Princeton University Press.
-7. Frederick Coyett, _Neglected Formosa_ (memorias del último gobernador neerlandés).
-8. [Chikamatsu Monzaemon, _Las batallas de Koxinga_ (1715)](https://www.kabuki21.com/kokusenyakassen.php).
-9. [Asociación Turística de Hirado: lugar de nacimiento de Koxinga](https://www.hirado-net.com/).
-10. [Templo del Príncipe Yanping – Departamento de Asuntos Culturales de Tainan](https://culture.tainan.gov.tw/).
-11. Wills, John E. Jr., "Maritime Asia, 1500-1800: The Interactive Emergence of European Domination".
-12. [_Taiwan Waiji_ (Crónicas extraoficiales de Taiwán) – Wikisource](https://zh.wikisource.org/wiki/%E8%87%BA%E7%81%A3%E5%A4%96%E7%B4%80).
-13. [Museo Nacional de Historia de Taiwán: "Reino Tungning – los 21 años de la dinastía Zheng"](https://ilhaformosa.nmth.gov.tw/home/zh-tw/02-4).
-14. [Calendario Imperial de Yongli, 31.º año (1677), Bodleian Libraries](https://digital.bodleian.ox.ac.uk/objects/2d355165-8334-44e2-b51e-3c37245bea93).
+1. [Wikipedia: Koxinga](https://en.wikipedia.org/wiki/Koxinga) — Fuentes académicas en inglés.
+2. [Wikipedia: Siege of Fort Zeelandia](https://en.wikipedia.org/wiki/Siege_of_Fort_Zeelandia) — Detalles militares del asedio.
+3. [Wikipedia en chino: Zheng Chenggong](https://zh.wikipedia.org/wiki/%E9%84%AD%E6%88%90%E5%8A%9F) — Citas de fuentes históricas chinas.
+4. [National Digital Memory: Koxinga y Taiwán](https://memory.culture.tw/) — Archivo digital oficial del Ministerio de Cultura.
+5. [Instituto de Historia de Taiwán, Academia Sinica](https://www.ith.sinica.edu.tw/) — Investigación académica sobre la historia de Taiwán.
+6. [Tonio Andrade, _Lost Colony: The Untold Story of China's First Great Victory over the West_](https://press.princeton.edu/books/paperback/9780691159577/lost-colony)— Publicado por la Universidad de Princeton; la obra académica en inglés más detallada sobre el asedio de Fort Zeelandia.
+7. [Frederick Coyett, _Neglected Formosa_](https://en.wikipedia.org/wiki/Neglected_Formosa) — Memorias del último gobernador neerlandés, fuente primaria.
+8. [Matsumura Kosetsu, 《Kokusaiye Kassen》](https://www.kabuki21.com/kokusenyakassen.php) — Obra de teatro Kabuki de 1615; la visión japonesa de Koxinga.
+9. [Asociación Turística de Hirado: Lugar de nacimiento de Koxinga](https://www.hirado-net.com/) — Sitios históricos relacionados con la roca del nacimiento en Hirado.
+10. [Templo del Príncipe de Yiping — Departamento de Cultura de Tainan](https://culture.tainan.gov.tw/) — El lugar de culto más representativo de Koxinga en Taiwán.
+11. [Wills, John E. Jr., "Maritime Asia, 1500-1800: The Interactive Emergence of European Domination"](https://www.jstor.org/) — La familia Zheng en el sistema comercial marítimo de Asia Oriental.
+12. [《Taiwan Waiji》](https://zh.wikisource.org/wiki/%E8%87%BA%E7%81%A3%E5%A4%96%E7%B4%80) — Escrito por Jiang Rishang, documento original sobre el juramento de Koxinga al quemar sus vestiduras.
+13. [Taiwan History Museum "Introducción a la Historia de Taiwán": 2-4 El Reino de Dongning—Los 21 años de la dinastía Zheng](https://ilhaformosa.nmth.gov.tw/home/zh-tw/02-4) — Recurso educativo oficial del Museo Nacional de Historia de Taiwán.
+14. [Calendario de la 31ª era Yongli de la Gran Dinastía Ming (1677)](https://digital.bodleian.ox.ac.uk/objects/2d355165-8334-44e2-b51e-3c37245bea93) — Colección de la Biblioteca Bodleiana de la Universidad de Oxford, testimonio de las relaciones comerciales entre la Compañía Británica de las Indias Orientantes y el Reino de Dongning.
