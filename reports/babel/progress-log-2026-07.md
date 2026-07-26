@@ -6693,3 +6693,93 @@ endpoint 探活：local 🟢、laptop-4090 🟢、laptop-5090 🔴、desktop-309
 endpoint 探活：local 🟢、laptop-4090 🟢、laptop-5090 🔴、desktop-3090 🟢、mac-m4max 🟢
 
 （babel-pulse 常駐儀器自動快照）
+
+## 2026-07-26T16:38:30+08:00（zh 總數 868）
+
+| 語言 | fresh | stale | missing | 覆蓋率 | Δfresh | Δmissing |
+| ---- | ----: | ----: | ------: | -----: | -----: | -------: |
+| en   |   721 |   110 |      37 |  95.7% |      · |        · |
+| ja   |   726 |   134 |       8 |  99.1% |      · |        · |
+| ko   |   725 |   139 |       4 |  99.5% |      · |        · |
+| es   |   725 |   139 |       4 |  99.5% |      · |        · |
+| fr   |   729 |   137 |       2 |  99.8% |      · |        · |
+| vi   |   171 |    17 |     680 |  21.7% |     +1 |       -1 |
+| id   |   287 |    11 |     570 |  34.3% |      · |        · |
+| pt   |   471 |    13 |     384 |  55.8% |      · |        · |
+| hi   |   361 |     8 |     499 |  42.5% |      · |        · |
+| ar   |   341 |     2 |     525 |  39.5% |      · |        · |
+| ru   |   369 |     2 |     497 |  42.7% |     +2 |       -2 |
+
+總缺口（stale+missing）：**3922**（▼3 vs 上一筆）
+
+**節點／worker**（ok/fail 為累計；Δ為對上一筆）
+
+| 節點                |  ok | fail | Δok | 平均秒 | 主要 fail                               |
+| ------------------- | --: | ---: | --: | -----: | --------------------------------------- |
+| fleet:desktop-3090  |  56 |  325 |   · |      — | health×123；verify=1×102                |
+| fleet:laptop-4090   |  27 |  137 |   · |      — | health×83；verify=None×24               |
+| worker:d3090        |  24 |   62 |   · |  967.4 | no output written by tra×41；leak×9     |
+| worker:desktop30901 |  21 |   19 |   · |  624.0 | health×10；leak×4                       |
+| worker:desktop30902 |  16 |   23 |   · |  613.5 | health×10；verify=1×6                   |
+| worker:gemma31      |   1 |   34 |   · |    2.2 | no output written by tra×34             |
+| worker:l4090        |  99 |  212 |   · |  146.9 | no output written by tra×110；health×41 |
+| worker:laguna       | 171 |  230 |   · |  221.9 | no output written by tra×131；health×36 |
+| worker:laguna2      |  22 |   27 |   · |  314.1 | no output written by tra×20；health×4   |
+| worker:laguna3      |   0 |    3 |   · |      — | no output written by tra×3              |
+| worker:laptop40901  |  17 |   14 |   · |  874.1 | health×9；leak×2                        |
+| worker:laptop40902  |  15 |   15 |   · |  894.2 | leak×6；health×5                        |
+| worker:mac          | 197 |  491 |   · |  189.3 | leak×256；health×96                     |
+| worker:nemo         | 543 | 1018 |   · |  103.1 | leak×612；health×197                    |
+| worker:nemo2        | 497 |  931 |   · |  105.9 | leak×579；health×174                    |
+| worker:nemo3        | 463 |  737 |  +2 |   97.8 | leak×422；health×132                    |
+| worker:nemo4        |   4 |   21 |   · |  103.7 | leak×7；health×7                        |
+| worker:oss20        |  92 |  208 |   · |  455.6 | no output written by tra×67；leak×63    |
+
+endpoint 探活：local 🟢、laptop-4090 🟢、laptop-5090 🔴、desktop-3090 🟢、mac-m4max 🟢
+
+（babel-pulse 常駐儀器自動快照）
+
+## 2026-07-26T16:40:29+08:00（zh 總數 868）
+
+| 語言 | fresh | stale | missing | 覆蓋率 | Δfresh | Δmissing |
+| ---- | ----: | ----: | ------: | -----: | -----: | -------: |
+| en   |   721 |   110 |      37 |  95.7% |      · |        · |
+| ja   |   726 |   134 |       8 |  99.1% |      · |        · |
+| ko   |   725 |   139 |       4 |  99.5% |      · |        · |
+| es   |   726 |   138 |       4 |  99.5% |     +1 |        · |
+| fr   |   729 |   137 |       2 |  99.8% |      · |        · |
+| vi   |   172 |    17 |     679 |  21.8% |     +1 |       -1 |
+| id   |   287 |    11 |     570 |  34.3% |      · |        · |
+| pt   |   471 |    13 |     384 |  55.8% |      · |        · |
+| hi   |   361 |     8 |     499 |  42.5% |      · |        · |
+| ar   |   342 |     2 |     524 |  39.6% |     +1 |       -1 |
+| ru   |   369 |     2 |     497 |  42.7% |      · |        · |
+
+總缺口（stale+missing）：**3919**（▼3 vs 上一筆）
+
+**節點／worker**（ok/fail 為累計；Δ為對上一筆）
+
+| 節點                |  ok | fail | Δok | 平均秒 | 主要 fail                               |
+| ------------------- | --: | ---: | --: | -----: | --------------------------------------- |
+| fleet:desktop-3090  |  56 |  325 |   · |      — | health×123；verify=1×102                |
+| fleet:laptop-4090   |  27 |  137 |   · |      — | health×83；verify=None×24               |
+| worker:d3090        |  24 |   62 |   · |  967.4 | no output written by tra×41；leak×9     |
+| worker:desktop30901 |  21 |   19 |   · |  624.0 | health×10；leak×4                       |
+| worker:desktop30902 |  16 |   23 |   · |  613.5 | health×10；verify=1×6                   |
+| worker:gemma31      |   1 |   34 |   · |    2.2 | no output written by tra×34             |
+| worker:l4090        |  99 |  212 |   · |  146.9 | no output written by tra×110；health×41 |
+| worker:laguna       | 171 |  230 |   · |  221.9 | no output written by tra×131；health×36 |
+| worker:laguna2      |  22 |   27 |   · |  314.1 | no output written by tra×20；health×4   |
+| worker:laguna3      |   1 |    3 |  +1 |  104.2 | no output written by tra×3              |
+| worker:laptop40901  |  17 |   14 |   · |  874.1 | health×9；leak×2                        |
+| worker:laptop40902  |  15 |   15 |   · |  894.2 | leak×6；health×5                        |
+| worker:mac          | 197 |  491 |   · |  189.3 | leak×256；health×96                     |
+| worker:nemo         | 543 | 1019 |   · |  103.1 | leak×612；health×198                    |
+| worker:nemo2        | 498 |  931 |  +1 |  105.9 | leak×579；health×174                    |
+| worker:nemo3        | 463 |  738 |   · |   97.8 | leak×422；health×133                    |
+| worker:nemo4        |   4 |   22 |   · |  103.7 | health×8；leak×7                        |
+| worker:oss20        |  92 |  208 |   · |  455.6 | no output written by tra×67；leak×63    |
+
+endpoint 探活：local 🟢、laptop-4090 🟢、laptop-5090 🔴、desktop-3090 🟢、mac-m4max 🟢
+
+（babel-pulse 常駐儀器自動快照）
