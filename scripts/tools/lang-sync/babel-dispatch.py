@@ -828,6 +828,19 @@ def main() -> None:
                 log(f"max-articles budget ({args.max_articles}) exhausted — stopping.")
                 break
 
+        # 跨產線失敗記憶合併（2026-07-26 二修）：多條產線的語言互相重疊，
+        # 各自的 fail_counts 只有自己的帳——實測同一篇 70 分鐘被不同產線合計
+        # 撞 8 次。每輪開始從磁碟 max-merge 別條產線寫的記憶，撞牆的文章在
+        # 所有產線一起沉底。首版只在 commit 時存檔，而 commit 要累積 50 篇，
+        # 低通過率時整個 run 一次都沒存——記憶檔從未誕生。
+        try:
+            if FAIL_MEMO.exists():
+                for k, v in json.loads(FAIL_MEMO.read_text(encoding="utf-8")).items():
+                    if v > state.fail_counts.get(k, 0):
+                        state.fail_counts[k] = v
+        except Exception:
+            pass
+
         per_lang_tasks: dict = {}
         for lang in langs:
             # 失敗次數決定優先序（2026-07-26 改，此前是硬性 exclude）：撞牆多次
@@ -877,6 +890,19 @@ def main() -> None:
             since = state.pending_since.get(lang)
             if since is not None and now - since >= FLUSH_AGE_S:
                 do_commit(lang, state, args.no_commit, log)
+
+        # 失敗記憶每輪落盤（read-merge-write，原子替換；並行產線互相看得見）
+        try:
+            merged = dict(state.fail_counts)
+            if FAIL_MEMO.exists():
+                for k, v in json.loads(FAIL_MEMO.read_text(encoding="utf-8")).items():
+                    if v > merged.get(k, 0):
+                        merged[k] = v
+            tmpf = FAIL_MEMO.with_suffix(".tmp")
+            tmpf.write_text(json.dumps(merged, ensure_ascii=False), encoding="utf-8")
+            tmpf.replace(FAIL_MEMO)
+        except Exception:
+            pass
 
         # 空轉偵測（2026-07-26）：worker 的 endpoint 掛掉時（遠端機器離線、
         # ollama 服務停），既有的 freeze 機制會把它凍結，但**單 worker 產線的
