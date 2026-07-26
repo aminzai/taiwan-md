@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-07-26 06:13
+last_generated: 2026-07-27 06:13
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,18 +12,18 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-07-26 06:13** · 頂層 \*.md 共 **239** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-07-27 06:13** · 頂層 \*.md 共 **243** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
 | Subdir                  | Files | Size      | 用途                                                 |
 | ----------------------- | ----: | --------- | ---------------------------------------------------- |
-| `research/`             |   461 | 21.1 MB   | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
-| `editorial-room/`       |    51 | 352.7 KB  | —                                                    |
+| `research/`             |   463 | 21.7 MB   | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
+| `editorial-room/`       |    54 | 368.9 KB  | —                                                    |
 | `archive/`              |    28 | 372.2 KB  | 歸檔位置 (per audit Layer 4)                         |
 | `article-evolve/`       |    27 | 1003.6 KB | —                                                    |
 | `weekly/`               |    24 | 4.5 MB    | Self-evolve weekly digest                            |
-| `article-projection/`   |    16 | 263.3 KB  | —                                                    |
+| `article-projection/`   |    18 | 305.1 KB  | —                                                    |
 | `factcheck/`            |     9 | 98.7 KB   | —                                                    |
 | `babel-tier4/`          |     8 | 5.5 KB    | —                                                    |
 | `routine-prompt-drift/` |     8 | 22.6 KB   | —                                                    |
@@ -34,13 +34,14 @@ type: auto-index
 | `translation-research/` |     5 | 338.0 KB  | 巴別塔 5 lang research                               |
 | `ab-tests/`             |     4 | 69.2 KB   | Editorial v6 A/B test                                |
 | `music-media-audit/`    |     4 | 115.5 KB  | Music 條目 media audit (json + md)                   |
-| `babel/`                |     3 | 624.5 KB  | —                                                    |
+| `babel/`                |     3 | 1.3 MB    | —                                                    |
 | `news-lens/`            |     3 | 59.0 KB   | —                                                    |
 | `terminology-review/`   |     3 | 1.7 MB    | —                                                    |
-| `404-monitor/`          |     2 | 73.1 KB   | —                                                    |
+| `404-monitor/`          |     2 | 82.8 KB   | —                                                    |
 | `fork-census/`          |     2 | 36.2 KB   | —                                                    |
 | `harvest/`              |     2 | 14.3 KB   | Harvest engine 紀錄                                  |
 | `audit/`                |     1 | 20.7 KB   | —                                                    |
+| `newsroom/`             |     1 | 84.8 KB   | —                                                    |
 | `visual/`               |     1 | 5.7 KB    | Visual smoke test 基線 (partial gitignored)          |
 
 ## 🏷️ By type (頂層 \*.md only)
@@ -169,8 +170,9 @@ type: auto-index
 - `2026-04-17` [cron-schedule-snapshot-2026-04-17](cron-schedule-snapshot-2026-04-17.md)
 - `2026-04-12` [i18n-qa-audit-2026-04-12](i18n-qa-audit-2026-04-12.md)
 
-### audit-routine (22)
+### audit-routine (23)
 
+- `2026-07-26` [routine-audit-2026-07-26](routine-audit-2026-07-26.md) — Routine audit 2026-07-26 (W30)
 - `2026-07-12` [routine-audit-2026-07-12](routine-audit-2026-07-12.md) — Routine audit 2026-07-12 (W28)
 - `2026-07-05` [routine-audit-2026-07-05](routine-audit-2026-07-05.md) — Routine Audit 2026-07-05 (Weekly Cycle 9)
 - `2026-06-28` [routine-audit-2026-06-28](routine-audit-2026-06-28.md) — Routine Audit 2026-06-28 (Weekly Cycle 8)
@@ -220,9 +222,12 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (93)
+### ops (96)
 
 - `2026-07-26` [armored-input-ab-2026-07-26](armored-input-ab-2026-07-26.md)
+- `2026-07-26` [design-rewrite-throughput-2026-07-26](design-rewrite-throughput-2026-07-26.md) — 文章產線節流設計——REWRITE-PIPELINE 3 小時病的根因與五個方案
+- `2026-07-26` [design-taiwanmd-node-app-distribution-2026-07-26](design-taiwanmd-node-app-distribution-2026-07-26.md) — Taiwan.md 節點化與安裝物設計
+- `2026-07-26` [muse-note-v1.14.0-2026-07-26](muse-note-v1.14.0-2026-07-26.md) — 給 Muse 的 v1.14.0 身份層變動通知
 - `2026-07-25` [design-bot-identity-feedback-triage-2026-07-25](design-bot-identity-feedback-triage-2026-07-25.md) — 讓 feedback routine 用機器身份開 issue
 - `2026-07-25` [design-contributor-node-2026-07-25](design-contributor-node-2026-07-25.md) — Design: 分靈節點（contributor node）— 甦醒後一條 cron，讓貢獻者機器常態幫 Taiwan.md 做事
 - `2026-07-25` [design-prose-flow-station-2026-07-25](design-prose-flow-station-2026-07-25.md) — 順稿席與閱讀節奏儀器化 — 為什麼全綠的文章讀起來是牆
@@ -324,11 +329,15 @@ type: auto-index
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
 
-### 2026-07 (61 files)
+### 2026-07 (65 files)
 
-- Type breakdown: ops: 36 / evolution: 13 / design: 8 / audit-routine: 2 / audit: 1 / plan: 1
+- Type breakdown: ops: 39 / evolution: 13 / design: 8 / audit-routine: 3 / audit: 1 / plan: 1
   - `2026-07-26` [armored-input-ab-2026-07-26](armored-input-ab-2026-07-26.md)
+  - `2026-07-26` [design-rewrite-throughput-2026-07-26](design-rewrite-throughput-2026-07-26.md)
+  - `2026-07-26` [design-taiwanmd-node-app-distribution-2026-07-26](design-taiwanmd-node-app-distribution-2026-07-26.md)
   - `2026-07-26` [evolution-roadmap-2026-07-26](evolution-roadmap-2026-07-26.md)
+  - `2026-07-26` [muse-note-v1.14.0-2026-07-26](muse-note-v1.14.0-2026-07-26.md)
+  - `2026-07-26` [routine-audit-2026-07-26](routine-audit-2026-07-26.md)
   - `2026-07-25` [design-bot-identity-feedback-triage-2026-07-25](design-bot-identity-feedback-triage-2026-07-25.md)
   - `2026-07-25` [design-contributor-node-2026-07-25](design-contributor-node-2026-07-25.md)
   - `2026-07-25` [design-prose-flow-station-2026-07-25](design-prose-flow-station-2026-07-25.md)

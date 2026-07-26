@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-27
-last_session: '2026-07-27-011214-twmd-supporters-weekly（Stage 2 阻塞：執行環境無 Gmail 讀信工具）'
+last_session: '2026-07-27-053011-twmd-embeddings-nightly（12 語 7081 向量 0 fail、verify PASS）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -327,3 +327,6 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-26 | 225759-manual | twmd-finale 第三棒 EVOLVE：SC 28d position>10 篩出 9 篇人物條目 SEO batch，GA+SC 雙源確認 CTR 遠低於位置基準，寫入 ARTICLE-INBOX | 舊 note「下次再評」沒人規定何時；重驗才發現紀政 CTR 11.54%→0.72% | [→](memory/2026-07-26-225759-manual.md) |
 | 2026-07-27 | 011214-twmd-supporters-weekly | 第二跑 Stage 2 阻塞：本次執行環境無 Gmail 讀信工具（search_threads/get_message），跟首跑環境不同；checkpoint 不動、無 commit | 「工具不存在」跟「查到 0 筆」是兩種訊號，混報 = 混維度 silent killer | [→](memory/2026-07-27-011214-twmd-supporters-weekly.md) |
 | 2026-07-27 | 015834-vortex-babel-4 | 開站次日全日：預防線三件套收官、模型適配矩陣四軌重編、佇列優先序三修（紅利 24%→70%）、社群 PR 七連 merge | 訊號存在≠訊號有效（五面貌收斂成三重巡檢＋結構掃描）；觀察者槓桿級介入全是改變算力流向 | [→](memory/2026-07-27-015834-vortex-babel-4.md) |
+| 2026-07-27 | 053011-twmd-embeddings-nightly | bge-m3 nightly 12 語 7081 向量 0 fail、verify PASS；本機命中；rebase 過落後推送成功 | 六語假設過期債連續第二晚出現未動手，vc=2 該排進下次 SOP touch | [→](memory/2026-07-27-053011-twmd-embeddings-nightly.md) |
+| 2026-07-27 | 053740-twmd-routine-sync | 三層對賬第二日全綠：17 條 routine 全 in-sync，零漂移，不受同時段 babel fleet 十語渦流影響 | 對賬範圍跟旁邊器官忙碌程度無關，是設計上該有的隔離 | [→](memory/2026-07-27-053740-twmd-routine-sync.md) |
+| 2026-07-27 | 061444-twmd-data-refresh-am | 晨間 14 步刷新全綠：三源感知（CF 955K req／GA／SC）＋dashboard 全套重生＋GitHub stats；Step 11 freshness gate 零 stale | 零 stale 是 pipeline 健康訊號，本輪連 catch 都沒東西可 catch | [→](memory/2026-07-27-061444-twmd-data-refresh-am.md) |

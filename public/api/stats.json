@@ -1,8 +1,8 @@
 {
-  "totalArticles": 6556,
+  "totalArticles": 7203,
   "totalCategories": 26,
   "estimatedContributors": 67,
-  "totalTags": 5648,
+  "totalTags": 5801,
   "categories": [
     {
       "name": "es",
@@ -10,7 +10,7 @@
     },
     {
       "name": "ko",
-      "count": 859
+      "count": 860
     },
     {
       "name": "fr",
@@ -26,11 +26,15 @@
     },
     {
       "name": "vi",
-      "count": 126
+      "count": 223
     },
     {
       "name": "hi",
-      "count": 275
+      "count": 354
+    },
+    {
+      "name": "ru",
+      "count": 370
     },
     {
       "name": "History",
@@ -38,15 +42,11 @@
     },
     {
       "name": "id",
-      "count": 235
-    },
-    {
-      "name": "ru",
-      "count": 245
+      "count": 316
     },
     {
       "name": "ar",
-      "count": 179
+      "count": 320
     },
     {
       "name": "Politics",
@@ -54,7 +54,11 @@
     },
     {
       "name": "Society",
-      "count": 92
+      "count": 93
+    },
+    {
+      "name": "pt",
+      "count": 477
     },
     {
       "name": "Food",
@@ -66,7 +70,7 @@
     },
     {
       "name": "Culture",
-      "count": 70
+      "count": 71
     },
     {
       "name": "People",
@@ -86,7 +90,7 @@
     },
     {
       "name": "Technology",
-      "count": 59
+      "count": 60
     },
     {
       "name": "Nature",
@@ -94,15 +98,11 @@
     },
     {
       "name": "Lifestyle",
-      "count": 30
+      "count": 31
     },
     {
       "name": "Art",
       "count": 42
-    },
-    {
-      "name": "pt",
-      "count": 358
     },
     {
       "name": "resources",
@@ -192,13 +192,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 6556,
+    "zh-TW": 7203,
     "en": 0
   },
-  "lastUpdated": "2026-07-25T22:13:09.265Z",
-  "stars": 1115,
+  "lastUpdated": "2026-07-26T22:13:12.359Z",
+  "stars": 1120,
   "forks": 168,
-  "zhPages": 863,
+  "zhPages": 867,
   "enPages": 834,
-  "totalPages": 863
+  "totalPages": 867
 }
