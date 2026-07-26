@@ -470,7 +470,14 @@ def collect_and_filter_groups(round_dir: Path, lang: str, seen_missing_slug: set
     good = []
     now = time.time()
     for gf in sorted(round_dir.glob("_group-*.json")):
-        data = json.loads(gf.read_text(encoding="utf-8"))
+        try:
+            data = json.loads(gf.read_text(encoding="utf-8"))
+        except json.JSONDecodeError as e:
+            # 2026-07-26：prepare-batch 偶爾產出被截斷或多寫一份的 group 檔
+            #（"Extra data: line 26"），整條產線就在這裡整個崩掉——一個壞掉的
+            # 任務檔不該讓上百篇的佇列一起停擺。跳過該檔繼續，並留訊息可追。
+            log(f"⚠️  group 檔解析失敗，跳過：{gf.name}（{e}）")
+            continue
         arts = data.get("articles", [])
         if not arts:
             continue
@@ -654,7 +661,12 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
             state.pending_workers[lang].add(worker.label)
             state.pending_files[lang].append(trans_path)
             state.pending_since.setdefault(lang, time.monotonic())
-            reached = state.pending_ok[lang] >= commit_every
+            # 門檻或年齡任一到就 commit——年齡檢查原本只在輪次結束跑，但一輪
+            # 可能長達數小時，譯文在工作區懸空（2026-07-25 21:32 實測 30+ 篇
+            # 未 commit 懸空 2 小時）。懸空檔案會被並行 session 的 merge 防護
+            # 誤掃，風險大於多一個零頭 commit。
+            age = time.monotonic() - state.pending_since.get(lang, time.monotonic())
+            reached = state.pending_ok[lang] >= commit_every or age >= 5400
         if reached:
             do_commit(lang, state, no_commit, log)
 
