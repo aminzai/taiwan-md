@@ -3,9 +3,9 @@ title: 'REWRITE-STAGE-0-VIEWPOINT'
 description: 'REWRITE v9 stage contract — Stage 0 觀點：模式識別 / spine 類型判定 / 素材萃取 / 拆除防火牆 / 觀點成型 HARD GATE'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
-current_version: 'v9.3'
+current_version: 'v9.5'
 last_updated: 2026-07-25
-last_session: '2026-07-25-外送專法（v7.8 spine 第三型「多觀點立場議題探討矛盾型」——哲宇 directive，以外送專法 dogfood 校準）'
+last_session: '2026-07-26-rewrite-throughput（v9.5：新增 Step 0.1.6 run profile 選檔——lite/standard/flagship 路由，設計報告 reports/design-rewrite-throughput-2026-07-26.md）'
 parent_canonical: 'REWRITE-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
@@ -81,7 +81,7 @@ SSODT 三讀者測試必須全過才落檔」；人物題可填立體群像提�
 
 > stage 若委派 sub-agent，本五步由 orchestrator 於收件驗證後執行（agent 不碰共用看板——2026-07-16 高教 dogfood F6）。
 
-1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）
+1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）**並隨手 commit（只 stage 本 stage 產物路徑——可觀測性與跨 session 接力的底座，v9.5；勿 `git add -A`）**
 2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
 3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`（看板反映現況）
 4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮（有就寫，不粉飾）
@@ -240,6 +240,24 @@ AI 讀了品質不佳的舊文會不自覺模仿它的語氣、結構、甚至�
 
 **落檔**：research report frontmatter `spine_type: 立體群像`（例外時 `矛盾驅動` + `unlock_reason: 一句話`）+ `curatorial_techniques: [手法 N, ...]`。
 **第三型的落檔形態**：`spine_type: 矛盾驅動` + `curatorial_techniques: [多元視角並陳（手法5，主）, ...]` + `unlock_reason` + `core_contradiction`（≤30 字）。三者缺一即視為未判 spine。
+
+### Step 0.1.6: Run profile 選檔（v9.5 新增）⚙️
+
+> 三檔定義 canonical 在 [REWRITE-PIPELINE §Run profiles](REWRITE-PIPELINE.md#run-profiles)。
+> 本 step 只做路由判定，spine 型判完（0.1.5）接著判。
+
+**判定規則**（由上往下，第一條命中即停）：
+
+1. 哲宇 in-loop 指定 → 照指定。
+2. S 級野心／政治敏感／預期大眾爆點題 → **flagship**（逐項 opt-in）。
+3. A 級（≥50 footnote 或 ≥3000 字野心或直接引語 ≥10）／callout-triggered EVOLVE／
+   在世爭議人物／spine=矛盾驅動或第三型 → **standard**。
+4. 其他（多數深度文：立體群像的機構／地方／工藝／文化記憶題）→ **standard-lite**。
+
+**落檔**：research report frontmatter `run_profile: lite|standard|flagship`＋一句話理由。
+**判錯的回路**：lite 文被讀者 callout → 該文升 standard 級複驗＋本規則檢討（進 LESSONS，
+是進化訊號不是個案）。cron／routine context 拿不準 → 預設 standard，不預設 lite
+（無觀察者時寧可多付檢查）。
 
 ### Step 0.2: 既有素材萃取（條件式）
 

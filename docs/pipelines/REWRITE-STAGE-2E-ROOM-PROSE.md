@@ -3,7 +3,7 @@ title: 'REWRITE-STAGE-2E-ROOM-PROSE'
 description: 'REWRITE v9 stage contract — Step 2.5-R 正文結構編輯室：結構主編＋論點兌現二席對抗＋攻防輪'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
-current_version: 'v9.0'
+current_version: 'v9.5'
 last_updated: 2026-07-16
 last_session: '2026-07-16-newsroom-orchestration（自 2-ROOM 合檔拆出，序列命名 2E）'
 parent_canonical: 'REWRITE-PIPELINE.md'
@@ -32,6 +32,10 @@ upstream_canonical:
 
 各席 prompt 唯一來源：[EDITORIAL-ROOM-PROMPTS.md](EDITORIAL-ROOM-PROMPTS.md) §正文結構室（結構主編／論點兌現）＋§攻防輪。禁即興增刪。
 
+> **spawn 時機（v9.5）**：本站席位由大驗證輪一次平行派齊（與 3.6.1 verifier、3.7 探針同輪，
+> 編排 canonical 在 [REWRITE-STAGE-3-VERIFY §Stage 3 收驗編排](REWRITE-STAGE-3-VERIFY.md)）。
+> 席位讀什麼、審什麼不變——本 contract 對席位執行者仍然自足。
+
 ## 攻防輪（v1.1）
 
 任一席 revise／block → 寫方答辯一輪（規則 canonical：[EDITORIAL-ROOM §攻防輪](../editorial/EDITORIAL-ROOM.md)），主編看攻防後裁決，review 檔記 `## 攻防` 段。
@@ -46,7 +50,7 @@ upstream_canonical:
 
 > stage 若委派 sub-agent，本五步由 orchestrator 於收件驗證後執行（agent 不碰共用看板——2026-07-16 高教 dogfood F6）。
 
-1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）
+1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）**並隨手 commit（只 stage 本 stage 產物路徑——可觀測性與跨 session 接力的底座，v9.5；勿 `git add -A`）**
 2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
 3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`
 4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮

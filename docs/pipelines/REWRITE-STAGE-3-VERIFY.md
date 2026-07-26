@@ -1,11 +1,11 @@
 ---
 title: 'REWRITE-STAGE-3-VERIFY'
-description: 'REWRITE v9 stage contract — Stage 3：事實鐵三角 / FACTCHECK / story atom / spine sync / 成品總驗三關（原子重驗 fan-out）'
+description: 'REWRITE v9 stage contract — Stage 3：事實鐵三角 / FACTCHECK / story atom / spine sync / 成品總驗三關（原子重驗 fan-out）/ 大驗證輪編排 / Step 3.8 定稿站'
 type: 'pipeline-sub-canonical'
 status: 'canonical'
-current_version: 'v9.4'
-last_updated: 2026-07-25
-last_session: '2026-07-25-外送專法（v9.4：Step 3.6.2 順稿移交總編室閱讀節奏席＋新增 Step 3.6.4 orchestrator 自修收件紀律）'
+current_version: 'v9.5'
+last_updated: 2026-07-26
+last_session: '2026-07-26-rewrite-throughput（v9.5：大驗證輪三輪合一＋變更節定向複驗＋Step 3.8 定稿站 fact-atom-diff 硬閘；設計報告 reports/design-rewrite-throughput-2026-07-26.md）'
 parent_canonical: 'REWRITE-PIPELINE.md'
 upstream_canonical:
   - '../semiont/MANIFESTO.md'
@@ -21,14 +21,14 @@ upstream_canonical:
 
 ## 執行卡
 
-|                  |                                                                                                                                             |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **職責**         | 五指＋事實鐵三角＋FACTCHECK＋story atom＋title/desc re-check＋（A 級/大眾文 HARD）成品總驗三關                                              |
-| **執行者**       | 主 session；3.6.1 原子重驗派 M 個 parallel Sonnet adversarial verifier（按成品段落分工，prompted to falsify）                               |
-| **INPUTS**       | 成品全文；research report（verification table）；FACTCHECK-PIPELINE.md（Quick/Full SSOT）                                                   |
-| **OUTPUTS**      | `reports/research/{YYYY-MM}/{slug}-stage35-audit.md`＋`{slug}-stage36-audit.md`（末尾 `## Result: PASS/FAIL`）；修正 append research §audit |
-| **GATES**        | `article-health.py --profile=rewrite-stage-3-5`（footnote 系列，勿只跑 stage-4——v6.1 漏跑教訓）；audit 兩檔 PASS 才進 Stage 4               |
-| **context 預算** | 本檔＋成品＋report；verifier 各吃一段＋來源                                                                                                 |
+|                  |                                                                                                                                                               |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **職責**         | 五指＋事實鐵三角＋FACTCHECK＋story atom＋title/desc re-check＋（A 級/大眾文 HARD）成品總驗三關＋大驗證輪編排＋定稿站                                          |
+| **執行者**       | 主 session；大驗證輪一次平行派齊：2.5-R 席＋3.6.1 M 個 Sonnet verifier＋3.7 探針（v9.5 編排 canonical 在 §Stage 3 收驗編排）                                  |
+| **INPUTS**       | 成品全文；research report（verification table）；FACTCHECK-PIPELINE.md（Quick/Full SSOT）                                                                     |
+| **OUTPUTS**      | `reports/research/{YYYY-MM}/{slug}-stage35-audit.md`＋`{slug}-stage36-audit.md`（末尾 `## Result: PASS/FAIL`）；修正 append research §audit                   |
+| **GATES**        | `article-health.py --profile=rewrite-stage-3-5`（footnote 系列，勿只跑 stage-4——v6.1 漏跑教訓）；audit 兩檔 PASS＋`fact-atom-diff.py` PASS（3.8）才進 Stage 4 |
+| **context 預算** | 本檔＋成品＋report；verifier 各吃一段＋來源；定稿手吃成品全文＋prose-flow 表                                                                                  |
 
 ## AGENT PROMPT（3.6.1 原子重驗 verifier，M×Sonnet，v9.0 補齊薄殼）
 
@@ -43,18 +43,36 @@ footnote-claim 綁定反查（腳註真的支撐它掛著的句子嗎）。官�
 
 3.7 總編探針 prompt：[EDITORIAL-ROOM-PROMPTS.md](EDITORIAL-ROOM-PROMPTS.md) §總編室（**六探針**，v9.4 起含閱讀節奏＝原 Step 3.6.2 順稿）。
 
+## AGENT PROMPT（3.8 定稿手，1×fresh Opus，v9.5）
+
+```
+你是定稿手（closing editor）。任務：對這篇已完成事實查證的文章做一次完整的語感重順。
+只讀：{ARTICLE_PATH} 成品全文＋下方 prose-flow 逐節表＋閱讀節奏席 findings。
+不讀藍圖、研究報告、編輯歷程——你的價值就是沒有那些 context。
+動的：段落牆（>280 字拆；單節 ≥200 字段落佔比 >35% 的節重排呼吸）、饒口句、
+framing 詞硬接（「值得一提的是」類）、縫線疤（外科手術疊輪留下的生硬轉折）、機械自述。
+不動的（一個字都不准）：「」內引語、所有數字與單位、人名地名專名、[^n] 標記與腳註定義、
+[[wikilink]]、URL、H2 標題、frontmatter、markdown 表格與 tw-* 視覺模組、論點與段落的事實內容。
+想動結構或事實＝寫進回報，不自己動。
+寫到 staging 檔 {STAGING_PATH}（不覆蓋 canonical）。
+回報：staging 路徑＋動過哪些節的一句話清單＋你想動但沒動的事項。
+你的產出會過 fact-atom-diff.py 原子守恆硬閘，任何原子漂移整份退回。
+```
+
 ## 交付條件（stage 完成的定義）
 
 - [ ] `{slug}-stage35-audit.md`＋`{slug}-stage36-audit.md` 落檔且 `## Result: PASS`
 - [ ] `article-health.py --profile=rewrite-stage-3-5` 無 hard（footnote 系列；勿只跑 stage-4）
 - [ ] （A 級／大眾文）3.7 總編室 `{slug}-chief-review.md` overall=pass
 - [ ] verifier ❌ 全數修正並 append research §audit
+- [ ] 批修後變更節定向複驗跑過（大驗證輪步 4）
+- [ ] Step 3.8 定稿站跑過且 `fact-atom-diff.py` PASS（所有 depth）
 
 ## HANDOFF（stage 完成時）
 
 > stage 若委派 sub-agent，本五步由 orchestrator 於收件驗證後執行（agent 不碰共用看板——2026-07-16 高教 dogfood F6）。
 
-1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）
+1. OUTPUTS 全數落檔（顯式路徑，不存 scratchpad / tmp——REFLEXES #81）**並隨手 commit（只 stage 本 stage 產物路徑——可觀測性與跨 session 接力的底座，v9.5；勿 `git add -A`）**
 2. GATES 逐條跑過，結果如實回報（sub-agent claim 是線索不是 oracle，REFLEXES #31）
 3. 更新編輯台：`python3 scripts/core/generate-newsroom-data.py`（看板反映現況）
 4. 回報格式：stage id ＋ 產物路徑清單 ＋ gate 結果 ＋ 未解疑慮（有就寫，不粉飾）
@@ -343,3 +361,53 @@ grep -E "^title:|^description:" knowledge/{Category}/{slug}.md
 - 誕生：2026-07-16 睨對話「總編是平行的漣漪出去，檢驗連結關係和脈絡構成主軸」＋哲宇
   「需要總編輯獨立一個 agent 用對抗性方式總評標題觀點性與整篇脈絡」＋兩個實證缺口
   （Shopping Design 摘要尾句看不懂／吸菸室京都段前後斷裂——都是形式閘門全綠但冷讀不成立）
+
+---
+
+### Stage 3 收驗編排：大驗證輪（v9.5）⚡
+
+> **三輪合一**。2.5-R 正文結構席、3.6.1 原子重驗 verifier、3.7 總編室探針讀的都是
+> 同一份成品——v9.4 之前寫了「同 round 可平行」卻一直排隊跑（外送專法 22:26→23:09
+> 三輪串行）。v9.5 起合併為一輪是 default，wall-clock 實測省 40-60 分鐘。
+> 設計與拍板紀錄：[reports/design-rewrite-throughput-2026-07-26.md](../../reports/design-rewrite-throughput-2026-07-26.md) §五 方案 A。
+
+**編排五步**：
+
+1. **一次派齊**：Stage 2.5 覆蓋 canonical 後，同一則訊息平行 spawn 全部收驗席位——
+   2.5-R 兩席＋3.6.1 verifier（standard M=2-4／lite M=2）＋3.7 探針（standard 6／lite 4，
+   閱讀節奏席必在）。全部 Sonnet、各自乾淨 context、prompt 照各自 canonical 填槽禁即興。
+2. **單次收件**：全部回報後，主 session 把 findings 合併成**一張修復單**（表格：
+   `| # | 位置 | 問題 | 來源席位 | 裁決 accept/defend | 施工方 |`），append 對應 audit 檔。
+3. **裁決一次、施工一次**：裁決永遠主 session（席位是線索，裁決回到有材料的人）；
+   裁決後的文字施工派 Sonnet（v9.4 留派表「拆本身是機械」欄），一批做完，不逐條來回。
+4. **變更節定向複驗**（哲宇對「席位看的是修復前文本」的疑慮，v9.5 的回答）：
+   批修完成後派 **1 個 Sonnet verifier 只讀被動過的節**（falsification 姿態，含該節
+   footnote 綁定），加跑 deterministic 工具全套（article-health 兩 profile＋prose-flow
+   對被動節）。變更節複驗＝Step 3.6.4 自修紀律的批修版——**修了哪裡就複驗哪裡**，
+   不用整套重跑。
+5. **收尾交棒 Step 3.8 定稿站**（下方）。flagship 或 3.6.4 觸發（自修 ≥ 3 輪）時，
+   仍走全套重跑，不走定向複驗。
+
+### Step 3.8: 定稿站（closing pass）✍️ — 所有 depth HARD（v9.5 新增）
+
+> **順稿從偵測升級成修復**。v9.4 的閱讀節奏席讓「哪裡讀起來窒息」看得見了，但動手修的
+> 仍是主 session——全場唯一讀不了新鮮的讀者，用段落 patch 修語感，縫線疤再生。哲宇每次
+> 手動說「幫我全文再看過順一下語感」，要的就是這一站：**一雙新鮮的眼睛、一次全文重順、
+> 事實一個字不動**。2C 寫手只寫一次，此後全文再沒有被單一聲音完整順過——本站補上這隻手。
+> 誕生：2026-07-26 哲宇拍板（設計報告 §五 方案 B）。
+
+**流程**：
+
+1. 大驗證輪全部修復收斂後，派 **1 個 fresh Opus 定稿手**（AGENT PROMPT 見上方，填槽禁即興）。
+   輸入＝成品全文＋`prose-flow.py` 逐節表＋閱讀節奏席 findings。**不給**藍圖、研究報告、
+   編輯歷程（它需要的是沒有 context）。
+2. 定稿手寫到 staging 檔 `reports/article-evolve/{slug}-closing.md`，不碰 canonical。
+3. 主 session 跑硬閘：`python3 scripts/tools/fact-atom-diff.py {canonical} {staging}` ——
+   frontmatter／「」引語／數字／`[^n]` 標記與定義／URL／wikilink／H2／表格與 tw-\* 模組
+   全部鎖定，任何原子漂移＝FAIL 整份退回（重派或棄用，不逐句撿）。
+4. PASS 後主編 diff 抽查（策展聲音有沒有被沖淡——儀器管機械面，這一眼管聲音），
+   親手覆蓋 canonical。`prose-flow.py` 重跑一次留 before/after 於 audit 檔。
+
+**邊界**：定稿手只動散文的形狀（拆牆、換氣、饒口句、framing 詞、縫線疤），不動論點、
+不動結構順序、不動任何事實原子。想動結構＝回報主編，不自己動。已 ship 後的讀者 callout
+修正（heal）不觸發本站；同一篇 heal 疊 ≥ 3 輪則觸發（同 3.6 條件）。
