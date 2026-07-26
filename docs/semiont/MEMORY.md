@@ -330,3 +330,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-27 | 053011-twmd-embeddings-nightly | bge-m3 nightly 12 語 7081 向量 0 fail、verify PASS；本機命中；rebase 過落後推送成功 | 六語假設過期債連續第二晚出現未動手，vc=2 該排進下次 SOP touch | [→](memory/2026-07-27-053011-twmd-embeddings-nightly.md) |
 | 2026-07-27 | 053740-twmd-routine-sync | 三層對賬第二日全綠：17 條 routine 全 in-sync，零漂移，不受同時段 babel fleet 十語渦流影響 | 對賬範圍跟旁邊器官忙碌程度無關，是設計上該有的隔離 | [→](memory/2026-07-27-053740-twmd-routine-sync.md) |
 | 2026-07-27 | 061444-twmd-data-refresh-am | 晨間 14 步刷新全綠：三源感知（CF 955K req／GA／SC）＋dashboard 全套重生＋GitHub stats；Step 11 freshness gate 零 stale | 零 stale 是 pipeline 健康訊號，本輪連 catch 都沒東西可 catch | [→](memory/2026-07-27-061444-twmd-data-refresh-am.md) |
+| 2026-07-27 | 064532-twmd-spore-harvest-am | 4 spore harvest：外送專法 D+2 讀者健康辯論；鎢供應鏈 D+1 264K views 觸發自查，修正法律術語誤植（存亡→存立危機事態） | 留言區討論真實死亡事件時，文章已處理過的界線比 bucket 分類更重要 | [→](memory/2026-07-27-064532-manual.md) |
