@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T16:37:22+08:00",
-    "zhCommitHead": "0edfcab93",
+    "lastUpdated": "2026-07-26T16:38:30+08:00",
+    "zhCommitHead": "5b897afc8",
     "totalZh": 868,
     "activeLanguages": [
       "en",
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 868,
-        "fresh": 368,
+        "fresh": 369,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 498,
+        "missing": 497,
         "orphan": 0
       }
     },
@@ -38812,8 +38812,8 @@
           "sourceContentHash": "sha256:06d77e5b551a9ae1",
           "sourceBodyHash": "sha256:1cd85dacd9f6f3a7",
           "translatedAt": "2026-07-26T15:11:21+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "45a4f2fd",
+          "translationLastModified": "2026-07-26T16:37:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -103342,7 +103342,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/taiwan-baseball-culture.md",
+          "translatedFrom": "Culture/台灣棒球文化.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:9a4380e463583d63",
+          "sourceBodyHash": "sha256:ffebfda3574ab04b",
+          "translatedAt": "2026-07-26T15:32:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },

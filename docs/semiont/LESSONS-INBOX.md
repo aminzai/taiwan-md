@@ -332,6 +332,23 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-07-26 node-app-design — instrument-coverage-boundary-drift：檢查器的掃描路徑本身也會漂，漏掉的永遠是站體 import 關係外的角落
+
+- **pattern**: `instrument-coverage-boundary-drift`
+- **原則**：儀器會漂的不只是它的規則，還有它掃哪裡。掃描路徑寫死在誕生那天的目錄清單上，之後長出來的目錄對它永遠不存在——而分發層（`cli/` `workers/`）正是站體 import 關係外、沒有任何既有檢查會經過的地方。
+- **觸發**：2026-07-26 16:06 修 `cli/src/lib/knowledge.js` 的四語黑名單時，pre-commit 印「✅ 無 hardcoded language array 違反」放行了那個 commit。`check-hardcoded-langs.sh`（2026-04-25 為此而生）有兩個獨立理由看不見它：(a) `find src scripts astro.config.mjs` 不含 `cli/` `workers/`；(b) 三條 regex 都寫死「開頭 en, ja, ko」，出事那行是 `Set(['en','es','ja','ko','resources'])` 順序不同全不中。擴網後當場多抓 5 條（4 真 1 假），其中地圖產生器那條讓站上 57 個標記的分類欄顯示語言碼。證據：`602f47c38` / `980660768` / [memory](memory/2026-07-26-155415-node-app-design.md)
+- **可能層級**：通用反射（#82 的 fold 候選，coverage 軸）
+- **相關**：[REFLEXES #82](REFLEXES.md) existence-proxy 家族——(a)-(h) 都在講「量的訊號對不對」，這條是「量的**範圍**夠不夠」；跟 #65（instrument 自身讀數要 cross-verify）鄰近但軸不同：那條講讀數失準，這條講territory 缺角。
+- **verification_count**: 1
+
+### 2026-07-26 node-app-design — self-measured-improvement-picks-flattering-layer：自己量自己的改善時會挑到替身層
+
+- **pattern**: `self-measured-improvement-picks-flattering-layer`
+- **原則**：量「我做的東西改善了多少」跟量「使用者付了什麼」是兩件事，而前者有一整排可選的層，其中一定有一層數字很漂亮。落地後要對使用者真正付出的代價重量一次。
+- **觸發**：2026-07-26 節點層 plugin 化之後量 plugin 快取得到 20 KB，對照原本的 850 MB clone 是四萬分之一，差點寫進報告當結論。落地 origin 後從 GitHub 走真實安裝路徑再量，發現 `claude plugin marketplace add` 為了讀根目錄 manifest 會 depth-1 clone 整個 repo：1.0 GB 工作目錄 / 329 MiB pack。20 KB 量的是替身。諷刺點在於整份報告主題正是「儀器量錯層」。更正 commit `f75b30bd6`，[memory Beat 5](memory/2026-07-26-155415-node-app-design.md)
+- **可能層級**：通用反射（#82 fold 候選，self-assessment 軸）
+- **相關**：[REFLEXES #82](REFLEXES.md)（訊號要摸到 ground truth）+ [#69](REFLEXES.md)（每層自評都需要外部尺）——本條是兩者交集：**自評自己的改善幅度**時，選層這個動作本身就帶樂觀偏誤。
+
 ### 2026-07-26 vortex-babel — meta-scan：主動掃「還有誰在重複實作同一個判準」，在被咬之前
 
 - **pattern**: proactive-duplicate-judgment-scan
