@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-27T00:19:11+08:00",
-    "zhCommitHead": "da5c67bfa",
+    "lastUpdated": "2026-07-27T00:47:17+08:00",
+    "zhCommitHead": "d1136a274",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -35,16 +35,16 @@
       },
       "ko": {
         "total_zh": 869,
-        "fresh": 728,
-        "stale": 135,
+        "fresh": 731,
+        "stale": 132,
         "metadata_stale": 1,
         "missing": 5,
         "orphan": 0
       },
       "es": {
         "total_zh": 869,
-        "fresh": 733,
-        "stale": 131,
+        "fresh": 734,
+        "stale": 130,
         "metadata_stale": 0,
         "missing": 5,
         "orphan": 0
@@ -67,42 +67,42 @@
       },
       "id": {
         "total_zh": 869,
-        "fresh": 322,
+        "fresh": 321,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 536,
+        "missing": 537,
         "orphan": 0
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 512,
+        "fresh": 513,
         "stale": 12,
         "metadata_stale": 1,
-        "missing": 344,
+        "missing": 343,
         "orphan": 0
       },
       "hi": {
         "total_zh": 869,
-        "fresh": 402,
+        "fresh": 403,
         "stale": 6,
         "metadata_stale": 2,
-        "missing": 459,
+        "missing": 458,
         "orphan": 0
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 387,
+        "fresh": 390,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 480,
+        "missing": 477,
         "orphan": 0
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 419,
+        "fresh": 420,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 448,
+        "missing": 447,
         "orphan": 0
       }
     },
@@ -2021,7 +2021,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Music/taiwanese-hokkien-song-evolution.md",
+          "translatedFrom": "Music/台灣台語歌曲演進.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:f008ac775b92e042",
+          "sourceBodyHash": "sha256:14cffd9d61fb7eb9",
+          "translatedAt": "2026-07-26T21:33:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -5140,18 +5151,16 @@
         "ko": {
           "path": "ko/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
           "translatedFrom": "Economy/台灣產業轉型升級.md",
-          "sourceCommitSha": "bb3e6a0b",
-          "sourceContentHash": "sha256:9aa75ab5aaf39eb6",
-          "sourceBodyHash": "sha256:4a2bc57ff97cab00",
-          "translatedAt": "2026-05-20T05:08:30+08:00",
+          "sourceCommitSha": "d6377e82e",
+          "sourceContentHash": "sha256:e6cb5dd5b7d9e8ed",
+          "sourceBodyHash": "sha256:ebbc94611dc1b8f9",
+          "translatedAt": "2026-07-26T22:27:48+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
@@ -10551,8 +10560,8 @@
           "sourceContentHash": "sha256:d6da6fce353b5bfa",
           "sourceBodyHash": "sha256:4d55bf95947dc191",
           "translatedAt": "2026-07-26T21:33:21+08:00",
-          "translationLastCommit": "8dae8349",
-          "translationLastModified": "2026-07-26T23:09:58+08:00",
+          "translationLastCommit": "d1136a27",
+          "translationLastModified": "2026-07-27T00:19:11+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -13290,18 +13299,7 @@
           "status": "missing"
         },
         "id": {
-          "path": "id/Technology/taiwan-open-source-spirit.md",
-          "translatedFrom": "Technology/台灣開源精神.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:8cc121a9cccbf90a",
-          "sourceBodyHash": "sha256:98feb4bab36f053f",
-          "translatedAt": "2026-07-26T21:33:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "pt": {
           "path": "pt/Technology/taiwan-open-source-spirit.md",
@@ -15179,8 +15177,8 @@
           "sourceContentHash": "sha256:fc8499d85802cbbd",
           "sourceBodyHash": "sha256:04d95f993c4d6e33",
           "translatedAt": "2026-07-26T21:33:21+08:00",
-          "translationLastCommit": "8dae8349",
-          "translationLastModified": "2026-07-26T23:09:58+08:00",
+          "translationLastCommit": "d1136a27",
+          "translationLastModified": "2026-07-27T00:19:11+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -19221,8 +19219,8 @@
           "sourceContentHash": "sha256:d882a7c06037e89c",
           "sourceBodyHash": "sha256:abaef255e91e930b",
           "translatedAt": "2026-07-26T21:33:21+08:00",
-          "translationLastCommit": "8dae8349",
-          "translationLastModified": "2026-07-26T23:09:58+08:00",
+          "translationLastCommit": "d1136a27",
+          "translationLastModified": "2026-07-27T00:19:11+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -22492,18 +22490,16 @@
         "es": {
           "path": "es/Art/alien-art-centre.md",
           "translatedFrom": "Art/金馬賓館當代美術館.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:dc5814dcedc92ae0",
-          "sourceBodyHash": "sha256:c74e16d96ce01c6c",
-          "translatedAt": "2026-06-16T17:10:37Z",
+          "sourceCommitSha": "209084a3c",
+          "sourceContentHash": "sha256:29f8c92d6f9ec4f0",
+          "sourceBodyHash": "sha256:ab8b8f728e87222a",
+          "translatedAt": "2026-07-26T22:27:49+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Art/alien-art-centre.md",
@@ -23858,8 +23854,8 @@
           "sourceContentHash": "sha256:37996f439df838f6",
           "sourceBodyHash": "sha256:0818e9fb5c8333f5",
           "translatedAt": "2026-07-26T21:33:21+08:00",
-          "translationLastCommit": "8dae8349",
-          "translationLastModified": "2026-07-26T23:09:58+08:00",
+          "translationLastCommit": "d1136a27",
+          "translationLastModified": "2026-07-27T00:19:11+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -24575,8 +24571,8 @@
           "sourceContentHash": "sha256:0d481ed818da82f8",
           "sourceBodyHash": "sha256:6713c8a6c615e62a",
           "translatedAt": "2026-07-26T21:33:21+08:00",
-          "translationLastCommit": "8dae8349",
-          "translationLastModified": "2026-07-26T23:09:58+08:00",
+          "translationLastCommit": "d1136a27",
+          "translationLastModified": "2026-07-27T00:19:11+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -27109,8 +27105,8 @@
           "sourceContentHash": "sha256:4e9ca27840e47d5f",
           "sourceBodyHash": "sha256:0a4c39eae3411ae0",
           "translatedAt": "2026-07-26T21:33:21+08:00",
-          "translationLastCommit": "8dae8349",
-          "translationLastModified": "2026-07-26T23:09:58+08:00",
+          "translationLastCommit": "d1136a27",
+          "translationLastModified": "2026-07-27T00:19:11+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -33013,7 +33009,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/taiwan-generations.md",
+          "translatedFrom": "Society/台灣的年級生世代.md",
+          "sourceCommitSha": "805200859",
+          "sourceContentHash": "sha256:1b3e5e3f22f40ead",
+          "sourceBodyHash": "sha256:d9ed6a1d6c159cbf",
+          "translatedAt": "2026-07-26T23:53:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/taiwan-generations.md",
@@ -35822,18 +35829,16 @@
         "ko": {
           "path": "ko/Society/taiwan-disaster-volunteer-culture.md",
           "translatedFrom": "Society/台灣災難志工文化.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:2758b5b1f9c739df",
-          "sourceBodyHash": "sha256:5c5a60eea00bbc8d",
-          "translatedAt": "2026-06-16T17:05:51Z",
+          "sourceCommitSha": "ae0bea081",
+          "sourceContentHash": "sha256:c3e60eb6650d8dfb",
+          "sourceBodyHash": "sha256:260082957a9cf952",
+          "translatedAt": "2026-07-26T22:27:48+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/taiwan-disaster-volunteer-culture.md",
@@ -41144,7 +41149,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/About/taiwan-md.md",
+          "translatedFrom": "About/taiwan-md.md",
+          "sourceCommitSha": "b8160c741",
+          "sourceContentHash": "sha256:de46b78b6b1ae5fb",
+          "sourceBodyHash": "sha256:ba0673429f6e80dd",
+          "translatedAt": "2026-07-26T23:53:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -41556,18 +41572,16 @@
         "ko": {
           "path": "ko/Nature/taiwan-forest-ecosystems.md",
           "translatedFrom": "Nature/台灣森林生態系.md",
-          "sourceCommitSha": "f99a9959",
-          "sourceContentHash": "sha256:07db67d659e5f36c",
-          "sourceBodyHash": "sha256:cfc05d83f5b3a542",
-          "translatedAt": "2026-04-14T10:34:15+08:00",
+          "sourceCommitSha": "a3973681e",
+          "sourceContentHash": "sha256:1bf33f9ec83e5490",
+          "sourceBodyHash": "sha256:cfbcf80a5d100a4c",
+          "translatedAt": "2026-07-26T22:27:48+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Nature/taiwan-forest-ecosystems.md",
@@ -94395,7 +94409,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/tectonic-plates-and-seismic-activity.md",
+          "translatedFrom": "Geography/台灣板塊運動與地震活動.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:ac660158a4c72aea",
+          "sourceBodyHash": "sha256:57ab1d8681d0c528",
+          "translatedAt": "2026-07-26T21:33:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/tectonic-plates-and-seismic-activity.md",
@@ -100321,10 +100346,32 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/kinmen-county.md",
+          "translatedFrom": "Geography/金門縣.md",
+          "sourceCommitSha": "d3d4d7804",
+          "sourceContentHash": "sha256:1ce94059006f7d31",
+          "sourceBodyHash": "sha256:fd7f3e0d4f2dc9b4",
+          "translatedAt": "2026-07-26T23:53:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/kinmen-county.md",
+          "translatedFrom": "Geography/金門縣.md",
+          "sourceCommitSha": "d3d4d7804",
+          "sourceContentHash": "sha256:1ce94059006f7d31",
+          "sourceBodyHash": "sha256:fd7f3e0d4f2dc9b4",
+          "translatedAt": "2026-07-26T23:53:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
