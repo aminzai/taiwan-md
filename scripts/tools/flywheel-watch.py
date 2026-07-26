@@ -29,7 +29,11 @@ Exit code: 0 = 飛輪在轉；1 = 有靜默（CRITICAL 或 WARN）；2 = 環境�
 `last_due` 只處理 `分 時 * * 星期` 這種單點 cron，不展開 `*/N`、多時段等語法（無
 croniter 依賴）。算不出來的一律列進 `unknown_cron` 不判定，**不假裝知道**。
 
-「有沒有 commit」是效果的代理指標而非效果本身：空場 cycle（真的跑了但沒事可做）在
+「跑過了」有兩把獨立的尺：`[routine]` commit tag，以及 MEMORY.md 索引列的 session-id
+handle。兩把都不中才算靜默——只認 commit tag 會把「跑完但 commit 沒帶 taskId」誤報成
+死亡（2026-07-26 distill-weekly 首例）。
+
+「有沒有留下痕跡」是效果的代理指標而非效果本身：空場 cycle（真的跑了但沒事可做）在
 這裡看起來跟死掉一樣。所以單條靜默只給 WARN，要不要當死掉看它上次 fire 時間再判；
 只有「整體零筆」才升 CRITICAL。這條限制是刻意的——把它做成零假陽性需要讀排程器的
 執行紀錄，而那份紀錄住在營運機上，一旦依賴它就失去「從外面看」這個唯一價值。
@@ -45,8 +49,11 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
 ROUTINE_SSOT = REPO_ROOT / "docs" / "semiont" / "ROUTINE.md"
+MEMORY_INDEX = REPO_ROOT / "docs" / "semiont" / "MEMORY.md"
 LIVE_STATE = REPO_ROOT / "docs" / "semiont" / "routine-live-state.json"
 LIVE_STALE_HOURS = 48
+# 索引列：| YYYY-MM-DD | HHMMSS-handle | 摘要 | 教訓 | link |
+MEMORY_ROW = re.compile(r"^\|\s*(\d{4}-\d{2}-\d{2})\s*\|\s*(\d{6})-([a-z0-9-]+)\s*\|")
 
 
 
@@ -70,6 +77,34 @@ def belongs_to_this_node(row_text, node):
     return m.group(1).strip() == node
 
 
+def memory_index_handles(window_start, now):
+    """第二把尺：MEMORY.md 索引列的 session-id handle（`| 日期 | HHMMSS-handle |`）。
+
+    commit tag 是一把尺，收官索引列是另一把——兩把獨立才接得住「跑完了但 commit
+    沒帶 taskId」這種靜默假警報。2026-07-26 首個排程 cycle 就抓到：distill-weekly
+    當天 03:15 真的跑完（索引列 `031527-twmd-distill-weekly`），但它的產出 commit
+    寫成 `[semiont] distill:`，窗口內沒有任何一筆 subject 帶得出 taskId，於是被報
+    成靜默。同一種「名字的替身」前一晚才讓 weekly-report 誤報 maintainer-daily
+    靜默死亡（REFLEXES #69 每層自評都需要外部尺 / #82 訊號別選代理）。
+    """
+    if not MEMORY_INDEX.exists():
+        return set()
+    hits = set()
+    tz = now.tzinfo
+    for line in MEMORY_INDEX.read_text(encoding="utf-8").splitlines():
+        m = MEMORY_ROW.match(line)
+        if not m:
+            continue
+        date_s, hhmmss, handle = m.groups()
+        try:
+            stamp = datetime.strptime(date_s + hhmmss, "%Y-%m-%d%H%M%S").replace(tzinfo=tz)
+        except ValueError:
+            continue
+        if window_start <= stamp <= now:
+            hits.add(handle if handle.startswith("twmd-") else f"twmd-{handle}")
+    return hits
+
+
 def sh(*args):
     return subprocess.run(
         args, cwd=REPO_ROOT, capture_output=True, text=True, check=False
@@ -86,6 +121,14 @@ def parse_enabled_routines():
         print(f"flywheel-watch: 讀不到 {ROUTINE_SSOT}", file=sys.stderr)
         sys.exit(2)
     out, section, node = {}, "schedule", local_node_name()
+    if not node:
+        # 沒有節點身份時，帶 🖥️ 標記的列會整批靜靜消失（本檔自己就是其中一列）。
+        # 這種降級只在 worktree／新機器上出現，正好是最不會有人盯著看的場合。
+        print(
+            "flywheel-watch: 讀不到 .taiwanmd/node-name.local，"
+            "帶 🖥️ 節點標記的 routine 這次不納入檢查",
+            file=sys.stderr,
+        )
     for line in ROUTINE_SSOT.read_text(encoding="utf-8").splitlines():
         if "⏸️ PAUSED" in line:
             section = "paused"
@@ -178,6 +221,7 @@ def main():
     enabled = parse_enabled_routines()
     now = datetime.now(timezone.utc).astimezone()
     window_start = now - timedelta(hours=args.hours)
+    logged = memory_index_handles(window_start, now)
     silent, unknown_cron = [], []
     for task_id, cron in sorted(enabled.items()):
         due = last_due(cron, now)
@@ -188,9 +232,14 @@ def main():
             continue  # 上次到期落在窗口之前，本窗口不該有它
         # commit slug 跟 taskId 不總是逐字相同（spore-harvest / embeddings 等會簡寫），
         # 兩邊互為前綴就算命中；再退一步接受收官 commit 提到 taskId
-        hit = any(
-            f == task_id or task_id.startswith(f) or f.startswith(task_id) for f in fired
-        ) or task_id in mentioned
+        hit = (
+            any(
+                f == task_id or task_id.startswith(f) or f.startswith(task_id)
+                for f in fired
+            )
+            or task_id in mentioned
+            or task_id in logged
+        )
         if not hit:
             silent.append(task_id)
 
@@ -215,6 +264,7 @@ def main():
         "total_commits": len(lines),
         "routine_commits": len(routine_commits),
         "fired": sorted(fired),
+        "logged": sorted(logged),
         "silent": silent,
         "unknown_cron": unknown_cron,
         "live_state_age_hours": round(live_age, 1) if live_age is not None else None,
@@ -227,7 +277,10 @@ def main():
         print(f"{icon} 飛輪狀態（過去 {args.hours} 小時，看 origin/main）\n")
         print(f"  commit 總數 {len(lines)}，其中 [routine] 標記 {len(routine_commits)} 筆")
         if fired:
-            print(f"  有動靜：{', '.join(sorted(fired))}")
+            print(f"  有動靜（commit 標記）：{', '.join(sorted(fired))}")
+        only_logged = sorted(logged - fired)
+        if only_logged:
+            print(f"  有動靜（只留收官索引）：{', '.join(only_logged)}")
         if silent:
             print(f"  ⚠️  該跑但沒留下 commit：{', '.join(silent)}")
         if unknown_cron:

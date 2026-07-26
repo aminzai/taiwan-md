@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-26
-last_session: '2026-07-26-071056-twmd-feedback-triage (隊列真空，經 REST 對賬確認非斷線，同步 13 則遲到回覆)'
+last_session: '2026-07-26-084044-twmd-maintainer-daily (3 PR merge+heal，issue #1257 勘誤七語言，補回覆兩則掛 4 個月的 Discussions)'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -314,3 +314,7 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-26 | 053801-twmd-routine-sync | 三層對賬：17 條已註冊 routine 全 in-sync，零漂移；昨晚才建的 routine 第一次跑就綠燈 | 零漂移仍要記一行，否則飛輪健康與否下次無從判斷 | [→](memory/2026-07-26-053801-twmd-routine-sync.md) |
 | 2026-07-26 | 061455-twmd-data-refresh-am | 開站衝刺後首次乾淨刷新：14 步全綠、freshness gate 零 stale；順手補 .gitignore 缺的 ar/ru 投影排除 | 新語言誕生的配套更新點（.gitignore）跟新 dashboard 欄位是同一種容易漏的縫 | [→](memory/2026-07-26-061455-twmd-data-refresh-am.md) |
 | 2026-07-26 | 071056-twmd-feedback-triage | 隊列真空（file=0），經 Supabase REST 對賬確認非斷線；archive-scan 同步 13 則哲宇遲到回覆進 git 主權層 | 0 新回報時仍要對賬 ground truth 才能區分「健康的空」與「斷線的空」 | [→](memory/2026-07-26-071056-twmd-feedback-triage.md) |
+| 2026-07-26 | 084044-twmd-maintainer-daily | 3 個內容 PR merge+heal；issue #1257 勘誤追出源頭是自己寫的報告，七語言同步修正 | 自己寫的內部報告不是免驗證來源，會複製成七份錯誤 | [→](memory/2026-07-26-084044-twmd-maintainer-daily.md) |
+| 2026-07-26 | 093519-twmd-flywheel-watch | 首個排程 cycle：飛輪 24hr 11 筆 routine commit 綠燈；儀器報的三條靜默兩條是假的，當場加第二把尺（MEMORY 索引 handle）＋節點身份 fail-loud | 每天跑的哨兵，假陽性會把警報的重量磨掉 | [→](memory/2026-07-26-093519-twmd-flywheel-watch.md) |
+| 2026-07-26 | release-v1.14.0 | 🧬 **v1.14.0 release** — 958 commits／10 天：六語→十二語（ar/ru 首次 RTL）、飛輪遷居 headless、分靈節點誕生、MANIFESTO §14 | ACTOR_BUSY 時打 tag：落在 origin 已部署的 commit | [→](https://github.com/frank890417/taiwan-md/releases/tag/v1.14.0) |
+| 2026-07-26 | 105225-twmd-spore-harvest-am | Chrome MCP 首次未配對，哲宇即時 poke 後重連；外送專法 #159/#160 D+1 harvest，7 則讀者留言全屬健康公共辯論不介入 | escalation ladder「連 N 次」計數只在無人在場時成立，觀察者在場的即時 poke 優先 | [→](memory/2026-07-26-105225-twmd-spore-harvest-am.md) |

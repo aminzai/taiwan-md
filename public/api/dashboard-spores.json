@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T22:13:07.556025Z",
+  "lastUpdated": "2026-07-26T02:51:18.977162Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 150,
@@ -32,10 +32,10 @@
       "url": "https://x.com/taiwandotmd/status/2081045126898684051",
       "highlight": "雙單同酬（4.4/8.6公里都90元）；地板 vs 演算法",
       "views_7d": null,
-      "views_latest": null,
+      "views_latest": 774,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": false
+      "backfilled": true
     },
     {
       "n": 159,
@@ -48,10 +48,10 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DbOLIMlE-mi",
       "highlight": "雙單同酬（4.4/8.6公里都90元）；地板 vs 演算法",
       "views_7d": null,
-      "views_latest": null,
+      "views_latest": 1608,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": false
+      "backfilled": true
     },
     {
       "n": 158,
@@ -304,7 +304,7 @@
     {
       "week": "2026-W30",
       "published": 2,
-      "avgViews": 0
+      "avgViews": 1191
     }
   ],
   "harvestStatus": [
@@ -1795,8 +1795,8 @@
       "publishDate": "2026-07-25",
       "daysSincePublish": 1,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-07-26 10:49"
     },
     {
       "n": 160,
@@ -1805,8 +1805,8 @@
       "publishDate": "2026-07-25",
       "daysSincePublish": 1,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-07-26 10:49"
     }
   ]
 }

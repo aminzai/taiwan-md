@@ -1,10 +1,10 @@
 {
-  "_generated": "2026-07-25T23:55:59+08:00",
+  "_generated": "2026-07-26T10:51:18+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 150,
     "articles": 73,
-    "withMetrics": 138
+    "withMetrics": 140
   },
   "spores": [
     {
@@ -8456,14 +8456,30 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DbOLIMlE-mi",
       "template": "B 冷知識型／問題入口",
       "metrics": {
-        "views": null,
-        "likes": null,
-        "reposts": null,
-        "comments": null,
-        "shares": null
+        "views": 1608,
+        "likes": 18,
+        "reposts": 1,
+        "comments": 9,
+        "shares": 0
       },
-      "metricsAsOf": null,
-      "history": []
+      "metricsAsOf": {
+        "dPlus": 1,
+        "harvestDate": "2026-07-26 10:49",
+        "batch": "batch-2026-07-26-am",
+        "source": "harvest"
+      },
+      "history": [
+        {
+          "dPlus": 1,
+          "harvestDate": "2026-07-26 10:49",
+          "batch": "batch-2026-07-26-am",
+          "views": 1608,
+          "likes": 18,
+          "reposts": 1,
+          "comments": 9,
+          "shares": 0
+        }
+      ]
     },
     {
       "id": 160,
@@ -8476,14 +8492,30 @@
       "url": "https://x.com/taiwandotmd/status/2081045126898684051",
       "template": "B 冷知識型／問題入口",
       "metrics": {
-        "views": null,
-        "likes": null,
-        "reposts": null,
-        "comments": null,
-        "shares": null
+        "views": 774,
+        "likes": 16,
+        "reposts": 5,
+        "comments": 0,
+        "shares": 4
       },
-      "metricsAsOf": null,
-      "history": []
+      "metricsAsOf": {
+        "dPlus": 1,
+        "harvestDate": "2026-07-26 10:49",
+        "batch": "batch-2026-07-26-am",
+        "source": "harvest"
+      },
+      "history": [
+        {
+          "dPlus": 1,
+          "harvestDate": "2026-07-26 10:49",
+          "batch": "batch-2026-07-26-am",
+          "views": 774,
+          "likes": 16,
+          "reposts": 5,
+          "comments": 0,
+          "shares": 4
+        }
+      ]
     }
   ],
   "byArticle": {

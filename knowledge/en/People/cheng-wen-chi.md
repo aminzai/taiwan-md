@@ -55,7 +55,7 @@ The platform's self-description has not changed in 12 years — operating in the
 
 These keywords deserve unpacking: "periphery" is a geographic choice (not standing alongside mainstream curating); "internet" is a medium choice (no print edition, entirely WordPress); "text" is a practice choice (writing, not mounting exhibitions); "community" is an extension choice (residencies, talks, small publications).
 
-As of issue 56 in 2024 (the Hiroshima atomic bomb-themed "Pikakku!"), _No Man's Land_ has accumulated 56 themed issues, 384 articles, 31 podcast episodes, and 10 independently published volumes of the Nusantara Archive[^7]. Each issue averages 7 articles, with Cheng Wen-Chi personally editing 88% (310 out of 353 articles)[^8].
+As of issue 56 in March 2023 ("Back to Care"), _No Man's Land_ has accumulated 56 themed issues, 384 articles, 31 podcast episodes, and 10 independently published volumes of the Nusantara Archive[^7]. Each issue averages 7 articles, with Cheng Wen-Chi personally editing 88% (310 out of 353 articles)[^8].
 
 > **📝 Curator's Note**
 > An 88% editorial concentration is a double-edged sword. On one side, 12 years have produced an exceptionally consistent depth of discourse — the four frameworks of archipelago/periphery/decolonization/Pacific Rim function as stable basis vectors. On the other side is the ceiling of a single perspective: younger female curators' voices are underrepresented, Indigenous topics are largely absent, and new themes have declined after 2023. When a platform's editorial philosophy comes entirely from one person, its maturity matures in sync with that person — but so does its fatigue.

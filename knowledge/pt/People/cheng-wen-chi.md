@@ -53,7 +53,7 @@ A autoapresentação da plataforma não mudou em 12 anos — situa-se nas **marg
 
 Vale a pena dissecar estas palavras-chave: «margem» é uma escolha geopolítica (não se coloca ao lado da curadoria mainstream); «rede» é uma escolha de meio (sem versão impressa, todo WordPress); «texto» é uma escolha de ato (escrever, não fazer exposições); «comunidade» é uma escolha de extensão (residências, conversas, publicação de cadernos).
 
-Até a 56ª edição de 2024 (tema de Hiroshima «ピカッ!»), o _Digital Wasteland_ acumulou 56 edições temáticas, 384 artigos, 31 episódios de podcast, 10 volumes de publicações independentes do _Arquivo do Arquipélago_[^7]. Cada edição com média de 7 artigos, 88% (310 de 353 artigos) editados pessoalmente por Cheng Wen-chi[^8].
+Até a 56ª edição, em março de 2023 («Volta ao Cuidado»), o _Digital Wasteland_ acumulou 56 edições temáticas, 384 artigos, 31 episódios de podcast, 10 volumes de publicações independentes do _Arquivo do Arquipélago_[^7]. Cada edição com média de 7 artigos, 88% (310 de 353 artigos) editados pessoalmente por Cheng Wen-chi[^8].
 
 > **📝 Nota do Curador**
 > Os 88% de concentração editorial são uma faca de dois gumes. De um lado, 12 anos geraram uma profundidade argumentativa extremamente coerente — os quatro _frameworks_ Arquipélago / Margem / Descolonização / Pan-Pacífico funcionam como vetores de base estáveis. Do outro, o teto da perspectiva única: vozes de curadoras da nova geração são escassas, questões indígenas basicamente ausentes, novos temas diminuíram após 2023. Quando a filosofia editorial de uma plataforma vem inteiramente de uma pessoa, seu período de maturidade sincroniza com o dessa pessoa, mas seu período de fadiga também sincroniza.
