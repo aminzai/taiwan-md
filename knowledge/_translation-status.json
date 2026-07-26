@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T21:34:43+08:00",
-    "zhCommitHead": "548b41140",
+    "lastUpdated": "2026-07-26T21:38:01+08:00",
+    "zhCommitHead": "8b0c0098e",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -67,18 +67,18 @@
       },
       "id": {
         "total_zh": 869,
-        "fresh": 301,
+        "fresh": 302,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 557,
+        "missing": 556,
         "orphan": 0
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 490,
+        "fresh": 491,
         "stale": 12,
         "metadata_stale": 1,
-        "missing": 366,
+        "missing": 365,
         "orphan": 0
       },
       "hi": {
@@ -16116,7 +16116,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/tale-of-wuxia-pre-sequel.md",
+          "translatedFrom": "Technology/活俠傳.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:5d8fd5b2e9fb7126",
+          "sourceBodyHash": "sha256:05a2488db4c17ec6",
+          "translatedAt": "2026-07-26T21:33:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/tale-of-wuxia-pre-sequel.md",
@@ -79078,7 +79089,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/taiwan-apple-bread.md",
+          "translatedFrom": "Food/蘋果麵包.md",
+          "sourceCommitSha": "a0314c6e3",
+          "sourceContentHash": "sha256:1a92c24eb1a7d8cf",
+          "sourceBodyHash": "sha256:4f26d4508afc31e5",
+          "translatedAt": "2026-07-26T21:33:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
