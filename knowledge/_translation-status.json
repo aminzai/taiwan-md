@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T17:47:27+08:00",
-    "zhCommitHead": "12588f89d",
+    "lastUpdated": "2026-07-26T18:00:18+08:00",
+    "zhCommitHead": "03cbf4cab",
     "totalZh": 868,
     "activeLanguages": [
       "en",
@@ -35,8 +35,8 @@
       },
       "ko": {
         "total_zh": 868,
-        "fresh": 728,
-        "stale": 135,
+        "fresh": 727,
+        "stale": 136,
         "metadata_stale": 1,
         "missing": 4,
         "orphan": 0
@@ -51,18 +51,18 @@
       },
       "fr": {
         "total_zh": 868,
-        "fresh": 731,
-        "stale": 135,
+        "fresh": 730,
+        "stale": 136,
         "metadata_stale": 0,
         "missing": 2,
         "orphan": 0
       },
       "vi": {
         "total_zh": 868,
-        "fresh": 187,
+        "fresh": 188,
         "stale": 16,
         "metadata_stale": 1,
-        "missing": 664,
+        "missing": 663,
         "orphan": 0
       },
       "id": {
@@ -75,34 +75,34 @@
       },
       "pt": {
         "total_zh": 868,
-        "fresh": 481,
+        "fresh": 483,
         "stale": 12,
         "metadata_stale": 1,
-        "missing": 374,
+        "missing": 372,
         "orphan": 0
       },
       "hi": {
         "total_zh": 868,
-        "fresh": 368,
+        "fresh": 369,
         "stale": 6,
         "metadata_stale": 2,
-        "missing": 492,
+        "missing": 491,
         "orphan": 0
       },
       "ar": {
         "total_zh": 868,
-        "fresh": 351,
+        "fresh": 353,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 515,
+        "missing": 513,
         "orphan": 0
       },
       "ru": {
         "total_zh": 868,
-        "fresh": 377,
+        "fresh": 379,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 489,
+        "missing": 487,
         "orphan": 0
       }
     },
@@ -6964,7 +6964,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/htc-android-pioneer-vr-transformation.md",
+          "translatedFrom": "Economy/台灣企業：宏達電.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:cad6f5863e24a963",
+          "sourceBodyHash": "sha256:6bb6fbebdcab1fd8",
+          "translatedAt": "2026-07-26T17:01:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/htc-android-pioneer-vr-transformation.md",
@@ -19352,7 +19363,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Art/taiwanese-prose.md",
+          "translatedFrom": "Art/台灣散文.md",
+          "sourceCommitSha": "7415dcaae",
+          "sourceContentHash": "sha256:073fd0e58756d2a3",
+          "sourceBodyHash": "sha256:2c9c292fec3fdb34",
+          "translatedAt": "2026-07-26T17:01:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -29501,8 +29523,8 @@
           "sourceContentHash": "sha256:9e2e35c86cfffed4",
           "sourceBodyHash": "sha256:def0fbd84e75d95c",
           "translatedAt": "2026-07-26T17:01:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "03cbf4ca",
+          "translationLastModified": "2026-07-26T17:47:27+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -31450,8 +31472,8 @@
           "sourceContentHash": "sha256:2513952bc4eab478",
           "sourceBodyHash": "sha256:96d147de5fc403fe",
           "translatedAt": "2026-07-26T17:01:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "03cbf4ca",
+          "translationLastModified": "2026-07-26T17:47:27+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -33245,7 +33267,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/media-and-press-freedom-in-taiwan.md",
+          "translatedFrom": "Society/台灣媒體與新聞自由.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:2b07b58b99abcb36",
+          "sourceBodyHash": "sha256:9e2facc3bed645dd",
+          "translatedAt": "2026-07-26T17:01:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -33839,8 +33872,8 @@
           "sourceContentHash": "sha256:d915e5527fc773c5",
           "sourceBodyHash": "sha256:5588123f25ed059d",
           "translatedAt": "2026-07-26T17:01:24+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "03cbf4ca",
+          "translationLastModified": "2026-07-26T17:47:27+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -40705,7 +40738,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Nature/taiwan-marine-conservation-challenges.md",
+          "translatedFrom": "Nature/台灣海洋保育與挑戰.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:0c4a6676abd7e73d",
+          "sourceBodyHash": "sha256:fe639063298f999a",
+          "translatedAt": "2026-07-26T17:01:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -40808,7 +40852,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes.md",
+          "translatedFrom": "Nature/台灣國家公園.md",
+          "sourceCommitSha": "18157ab5d",
+          "sourceContentHash": "sha256:c51eb1a165d6a2f5",
+          "sourceBodyHash": "sha256:99620fa1348fdcfe",
+          "translatedAt": "2026-07-26T17:01:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes.md",
@@ -41130,16 +41185,16 @@
         "ko": {
           "path": "ko/Nature/taiwan-mountains-and-hiking-culture.md",
           "translatedFrom": "Nature/台灣山岳與登山文化.md",
-          "sourceCommitSha": "6d3808267",
-          "sourceContentHash": "sha256:578491ed43f8d7d0",
-          "sourceBodyHash": "sha256:be3b3f9150c7c64e",
-          "translatedAt": "2026-07-26T13:23:36+08:00",
+          "sourceCommitSha": "d6e87d07",
+          "sourceContentHash": "sha256:e81dd2e1a4ff1dc3",
+          "sourceBodyHash": "sha256:571a99d15e048f22",
+          "translatedAt": "2026-05-17T05:33:00Z",
           "translationLastCommit": "6d380826",
           "translationLastModified": "2026-07-25T15:39:17+08:00",
           "inferred": false,
-          "footnoteDefs": 12,
-          "status": "fresh",
-          "reason": "same-commit"
+          "footnoteDefs": 11,
+          "status": "stale",
+          "reason": "footnote-loss (12→11)"
         },
         "es": {
           "path": "es/Nature/taiwan-mountains-and-hiking-culture.md",
@@ -41158,16 +41213,16 @@
         "fr": {
           "path": "fr/Nature/taiwan-mountains-and-hiking-culture.md",
           "translatedFrom": "Nature/台灣山岳與登山文化.md",
-          "sourceCommitSha": "6d3808267",
-          "sourceContentHash": "sha256:578491ed43f8d7d0",
-          "sourceBodyHash": "sha256:be3b3f9150c7c64e",
-          "translatedAt": "2026-07-26T13:23:37+08:00",
+          "sourceCommitSha": "d6e87d07",
+          "sourceContentHash": "sha256:e81dd2e1a4ff1dc3",
+          "sourceBodyHash": "sha256:571a99d15e048f22",
+          "translatedAt": "2026-05-17T05:33:00Z",
           "translationLastCommit": "6d380826",
           "translationLastModified": "2026-07-25T15:39:17+08:00",
           "inferred": false,
-          "footnoteDefs": 12,
-          "status": "fresh",
-          "reason": "same-commit"
+          "footnoteDefs": 11,
+          "status": "stale",
+          "reason": "footnote-loss (12→11)"
         },
         "vi": {
           "status": "missing"
@@ -42761,8 +42816,8 @@
           "sourceContentHash": "sha256:f7dcaba73d149276",
           "sourceBodyHash": "sha256:af337db2aac9897d",
           "translatedAt": "2026-07-26T15:32:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "03cbf4ca",
+          "translationLastModified": "2026-07-26T17:47:27+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -59750,7 +59805,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/brigitte-lin-legendary-actress.md",
+          "translatedFrom": "People/林青霞.md",
+          "sourceCommitSha": "7415dcaae",
+          "sourceContentHash": "sha256:2b4a824289c241f9",
+          "sourceBodyHash": "sha256:12badc0094297f08",
+          "translatedAt": "2026-07-26T17:01:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -74646,7 +74712,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/liao-hung-chi-ocean-writer.md",
+          "translatedFrom": "People/廖鴻基.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:f70240af05eb54ba",
+          "sourceBodyHash": "sha256:1077b6698d6359d9",
+          "translatedAt": "2026-07-26T17:05:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/liao-hung-chi-ocean-writer.md",
@@ -90743,8 +90820,8 @@
           "sourceContentHash": "sha256:0d133f631d4db985",
           "sourceBodyHash": "sha256:f135e504997bf040",
           "translatedAt": "2026-07-26T15:32:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "03cbf4ca",
+          "translationLastModified": "2026-07-26T17:47:27+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -106880,7 +106957,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/taiwan-incense-making-culture-and-heritage.md",
+          "translatedFrom": "Culture/台灣製香文化與香腳原鄉.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:90f09bc6a0a80e4d",
+          "sourceBodyHash": "sha256:396be33a77ed6ba1",
+          "translatedAt": "2026-07-26T17:01:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/taiwan-incense-making-culture-and-heritage.md",
