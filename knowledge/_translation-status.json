@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T17:11:55+08:00",
-    "zhCommitHead": "aaaab84d6",
+    "lastUpdated": "2026-07-26T17:15:39+08:00",
+    "zhCommitHead": "5a050f9ae",
     "totalZh": 868,
     "activeLanguages": [
       "en",
@@ -59,10 +59,10 @@
       },
       "vi": {
         "total_zh": 868,
-        "fresh": 179,
+        "fresh": 180,
         "stale": 16,
         "metadata_stale": 1,
-        "missing": 672,
+        "missing": 671,
         "orphan": 0
       },
       "id": {
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 868,
-        "fresh": 478,
+        "fresh": 479,
         "stale": 12,
         "metadata_stale": 1,
-        "missing": 377,
+        "missing": 376,
         "orphan": 0
       },
       "hi": {
@@ -396,7 +396,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Music/choir.md",
+          "translatedFrom": "Music/合唱團.md",
+          "sourceCommitSha": "9b94676e6",
+          "sourceContentHash": "sha256:7b6afad0e85e9dcf",
+          "sourceBodyHash": "sha256:590b2ed87ef9a4d2",
+          "translatedAt": "2026-07-26T17:05:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 42,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Music/choir.md",
@@ -23582,7 +23593,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Art/development-of-contemporary-taiwanese-sculpture.md",
+          "translatedFrom": "Art/台灣當代雕塑發展.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:91ce45b4be5f77a7",
+          "sourceBodyHash": "sha256:fe5beda00418f863",
+          "translatedAt": "2026-07-26T17:01:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -29299,8 +29321,8 @@
           "sourceContentHash": "sha256:5ad18a83d0ab46f1",
           "sourceBodyHash": "sha256:dc26781150e83c1c",
           "translatedAt": "2026-07-26T15:32:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5a050f9a",
+          "translationLastModified": "2026-07-26T17:11:55+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -41621,8 +41643,8 @@
           "sourceContentHash": "sha256:bc4a8eee501f028c",
           "sourceBodyHash": "sha256:059668decdeffa13",
           "translatedAt": "2026-07-26T17:01:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5a050f9a",
+          "translationLastModified": "2026-07-26T17:11:55+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -43771,8 +43793,8 @@
           "sourceContentHash": "sha256:b5dd2adc61c83c34",
           "sourceBodyHash": "sha256:85b65db93a33ed95",
           "translatedAt": "2026-07-26T17:01:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5a050f9a",
+          "translationLastModified": "2026-07-26T17:11:55+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -47462,8 +47484,8 @@
           "sourceContentHash": "sha256:e2ade2405e5fac3e",
           "sourceBodyHash": "sha256:aeccc38efb53dc79",
           "translatedAt": "2026-07-26T17:01:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5a050f9a",
+          "translationLastModified": "2026-07-26T17:11:55+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -48790,8 +48812,8 @@
           "sourceContentHash": "sha256:97d9bc4f07653a81",
           "sourceBodyHash": "sha256:91b4c7638f35fd2f",
           "translatedAt": "2026-07-26T15:32:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5a050f9a",
+          "translationLastModified": "2026-07-26T17:11:55+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -50886,8 +50908,8 @@
           "sourceContentHash": "sha256:e3d5f3c7c92e369d",
           "sourceBodyHash": "sha256:0c3024d2af149e55",
           "translatedAt": "2026-07-26T15:32:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5a050f9a",
+          "translationLastModified": "2026-07-26T17:11:55+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -51268,8 +51290,8 @@
           "sourceContentHash": "sha256:e8fd773cb48092fd",
           "sourceBodyHash": "sha256:7b3ecc631545bac9",
           "translatedAt": "2026-07-26T15:32:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5a050f9a",
+          "translationLastModified": "2026-07-26T17:11:55+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -53884,8 +53906,8 @@
           "sourceContentHash": "sha256:171a521ab055d1cf",
           "sourceBodyHash": "sha256:eb36a190f4b7ada8",
           "translatedAt": "2026-07-26T15:32:48+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5a050f9a",
+          "translationLastModified": "2026-07-26T17:11:55+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
