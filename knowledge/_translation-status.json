@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T09:29:09+08:00",
-    "zhCommitHead": "5684db27f",
+    "lastUpdated": "2026-07-26T09:50:46+08:00",
+    "zhCommitHead": "dc32e0bb9",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -35,8 +35,8 @@
       },
       "ko": {
         "total_zh": 865,
-        "fresh": 717,
-        "stale": 142,
+        "fresh": 718,
+        "stale": 141,
         "metadata_stale": 1,
         "missing": 5,
         "orphan": 0
@@ -59,50 +59,50 @@
       },
       "vi": {
         "total_zh": 865,
-        "fresh": 130,
+        "fresh": 131,
         "stale": 16,
         "metadata_stale": 1,
-        "missing": 718,
+        "missing": 717,
         "orphan": 0
       },
       "id": {
         "total_zh": 865,
-        "fresh": 258,
+        "fresh": 259,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 596,
+        "missing": 595,
         "orphan": 0
       },
       "pt": {
         "total_zh": 865,
-        "fresh": 423,
+        "fresh": 426,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 430,
+        "missing": 427,
         "orphan": 0
       },
       "hi": {
         "total_zh": 865,
-        "fresh": 328,
+        "fresh": 332,
         "stale": 5,
         "metadata_stale": 2,
-        "missing": 530,
+        "missing": 526,
         "orphan": 0
       },
       "ar": {
         "total_zh": 865,
-        "fresh": 283,
+        "fresh": 287,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 581,
+        "missing": 577,
         "orphan": 0
       },
       "ru": {
         "total_zh": 865,
-        "fresh": 315,
+        "fresh": 316,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 549,
+        "missing": 548,
         "orphan": 0
       }
     },
@@ -2210,7 +2210,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Music/fire-ex.md",
+          "translatedFrom": "Music/滅火器樂團.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ff50a058e16cd318",
+          "sourceBodyHash": "sha256:4b22b6f4b3e09c1b",
+          "translatedAt": "2026-07-26T08:50:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Music/fire-ex.md",
@@ -3452,7 +3463,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Music/taiwan-music-festival-culture.md",
+          "translatedFrom": "Music/台灣音樂祭文化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:05a94f16d833d02e",
+          "sourceBodyHash": "sha256:7c772c535d0e1d4c",
+          "translatedAt": "2026-07-26T08:50:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -4933,8 +4955,8 @@
           "sourceContentHash": "sha256:e6cb5dd5b7d9e8ed",
           "sourceBodyHash": "sha256:ebbc94611dc1b8f9",
           "translatedAt": "2026-07-26T08:13:11+08:00",
-          "translationLastCommit": "b3c9fed9",
-          "translationLastModified": "2026-07-25T05:25:12+08:00",
+          "translationLastCommit": "dc32e0bb",
+          "translationLastModified": "2026-07-26T09:29:10+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -11246,7 +11268,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/foxconn-precision-industry.md",
+          "translatedFrom": "Economy/台灣企業：鴻海精密.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:f8ad90a4cc28bbe6",
+          "sourceBodyHash": "sha256:68bf0232c7180c94",
+          "translatedAt": "2026-07-26T08:51:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/foxconn-precision-industry.md",
@@ -11689,7 +11722,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/threads-in-taiwan.md",
+          "translatedFrom": "Technology/Threads在台灣.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:b344ec326785b46d",
+          "sourceBodyHash": "sha256:a5b8490e2fd9be42",
+          "translatedAt": "2026-07-26T08:50:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/threads-in-taiwan.md",
@@ -11798,8 +11842,8 @@
           "sourceContentHash": "sha256:7fa246cf8f0f5c00",
           "sourceBodyHash": "sha256:453d3851b08255ad",
           "translatedAt": "2026-07-26T05:17:38+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dc32e0bb",
+          "translationLastModified": "2026-07-26T09:29:10+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -22263,7 +22307,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Art/taiwanese-art-education-and-academic-development.md",
+          "translatedFrom": "Art/台灣藝術教育與學院發展.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:352ce3febb583c17",
+          "sourceBodyHash": "sha256:aaeb81e5f1416586",
+          "translatedAt": "2026-07-26T08:50:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -23321,10 +23376,32 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Lifestyle/mtv-rooms-taiwan.md",
+          "translatedFrom": "Lifestyle/MTV包廂.md",
+          "sourceCommitSha": "9b5cb286e",
+          "sourceContentHash": "sha256:8c1e84b77bb235ea",
+          "sourceBodyHash": "sha256:96b8f13a864b5e24",
+          "translatedAt": "2026-07-26T08:50:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/mtv-rooms-taiwan.md",
+          "translatedFrom": "Lifestyle/MTV包廂.md",
+          "sourceCommitSha": "9b5cb286e",
+          "sourceContentHash": "sha256:8c1e84b77bb235ea",
+          "sourceBodyHash": "sha256:96b8f13a864b5e24",
+          "translatedAt": "2026-07-26T08:51:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/mtv-rooms-taiwan.md",
@@ -23575,7 +23652,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Lifestyle/esports.md",
+          "translatedFrom": "Lifestyle/電競.md",
+          "sourceCommitSha": "2faa5728b",
+          "sourceContentHash": "sha256:64c6862f2f2a8e41",
+          "sourceBodyHash": "sha256:4fe3e0718f755e56",
+          "translatedAt": "2026-07-26T08:51:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 32,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/esports.md",
@@ -30553,8 +30641,8 @@
           "sourceContentHash": "sha256:58596add4d279eb3",
           "sourceBodyHash": "sha256:a4a1f732b1aecff8",
           "translatedAt": "2026-07-26T05:17:38+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dc32e0bb",
+          "translationLastModified": "2026-07-26T09:29:10+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -38260,8 +38348,8 @@
           "sourceContentHash": "sha256:92fcb394123e4aee",
           "sourceBodyHash": "sha256:b8984a2133e5738f",
           "translatedAt": "2026-07-26T08:13:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "dc32e0bb",
+          "translationLastModified": "2026-07-26T09:29:10+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -52294,7 +52382,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/huang-shao-yong-musician.md",
+          "translatedFrom": "People/黃少雍.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:1eec88247d62dc4f",
+          "sourceBodyHash": "sha256:a256bcff3da876ac",
+          "translatedAt": "2026-07-26T08:51:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -78586,7 +78685,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/ba-wan-meatball.md",
+          "translatedFrom": "Food/肉圓.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:6de8df7e037bf580",
+          "sourceBodyHash": "sha256:4ab47a31d7ad3c5f",
+          "translatedAt": "2026-07-26T08:50:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/ba-wan-meatball.md",
@@ -85024,10 +85134,32 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/19th-century-camphor-wars.md",
+          "translatedFrom": "History/19世紀的樟腦戰爭.md",
+          "sourceCommitSha": "01d9d0e73",
+          "sourceContentHash": "sha256:1cb263ad912afc83",
+          "sourceBodyHash": "sha256:308ab8066ca9a9d0",
+          "translatedAt": "2026-07-26T08:50:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/19th-century-camphor-wars.md",
+          "translatedFrom": "History/19世紀的樟腦戰爭.md",
+          "sourceCommitSha": "01d9d0e73",
+          "sourceContentHash": "sha256:1cb263ad912afc83",
+          "sourceBodyHash": "sha256:308ab8066ca9a9d0",
+          "translatedAt": "2026-07-26T08:51:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/19th-century-camphor-wars.md",
@@ -91937,7 +92069,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/offshore-islands-and-maritime-culture.md",
+          "translatedFrom": "Geography/離島與海洋文化.md",
+          "sourceCommitSha": "a05d24314",
+          "sourceContentHash": "sha256:a5ce1cc1637b843d",
+          "sourceBodyHash": "sha256:3262816e651d35d1",
+          "translatedAt": "2026-07-26T08:50:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Geography/offshore-islands-and-maritime-culture.md",
@@ -99483,7 +99626,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/culinary-class-wars-in-taiwan.md",
+          "translatedFrom": "Culture/黑白大廚在台灣.md",
+          "sourceCommitSha": "44bdf7162",
+          "sourceContentHash": "sha256:158a36dc208ac1d9",
+          "sourceBodyHash": "sha256:7e1fc8eb24498ac3",
+          "translatedAt": "2026-07-26T08:13:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -99883,18 +100037,16 @@
         "ko": {
           "path": "ko/Culture/traditional-crafts-intangible-cultural-heritage.md",
           "translatedFrom": "Culture/台灣傳統工藝與無形文化資產.md",
-          "sourceCommitSha": "51eb3afd",
-          "sourceContentHash": "sha256:b7c990c00c65ffb1",
-          "sourceBodyHash": "sha256:7720c8db697d0d57",
-          "translatedAt": "2026-07-06",
+          "sourceCommitSha": "12cf33d8c",
+          "sourceContentHash": "sha256:0e116841e98362b0",
+          "sourceBodyHash": "sha256:8d311f99ab1ace9b",
+          "translatedAt": "2026-07-26T08:13:10+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/traditional-crafts-intangible-cultural-heritage.md",
