@@ -636,6 +636,55 @@ def armor_post(raw_output: str, ctx: dict, article: dict) -> tuple[Optional[str]
     return assembled, None
 
 
+# ────────────────── Partial-translation hard gate ──────────────────
+#
+# reports/armored-input-ab-2026-07-26.md §五「比 armor on/off 這個問題本身更急
+# 的發現」：reasoning 模型翻長文常「翻到一半放棄、剩餘 zh 原文照抄」，24 次真實
+# 呼叫裡多篇這樣的輸出全部回報成功——現有 hard gate（frontmatter fence／
+# footnote 數／output-language）只查結構，不查「body 是不是真的翻完了」。
+# cjk-leak-check.py 是唯一抓到它的工具，但那是下游 batch/dispatcher 才跑的獨立
+# 巡邏，半成品先落盤浪費一整輪呼叫才被抓到。本閘把攔截點前移到落盤前。
+
+_MD_LINK_RE = re.compile(r"\[[^\]]*\]\([^)]*\)")   # markdown 連結/圖片 target
+_BARE_URL_RE = re.compile(r"https?://\S+")          # 裸 URL
+_CJK_CHAR_RE = re.compile(r"[一-鿿]")                # 單字元 CJK Han range
+_CJK_SCRIPT_LANGS = {"ja", "ko"}                     # 合法大量漢字，此訊號不適用
+
+
+def _strip_legit_zh(text: str) -> str:
+    """跟 cjk-leak-check.py `scan_file()` 的 NON_CJK_SCRIPT_LANGS 分支同一把尺
+    （LEGIT_ZH_SPANS 命名 gloss/作品名/短引語 + markdown 連結 target + 裸
+    URL）——同源不重寫，這裡只是把三段 sub() 抽成獨立函式方便重複呼叫。剝掉這些
+    合法保留區後才計 CJK 佔比，避免引用標題／wikilink 誤觸發。"""
+    stripped = text
+    for rx in LEGIT_ZH_SPANS:
+        stripped = rx.sub("", stripped)
+    stripped = _MD_LINK_RE.sub("", stripped)
+    stripped = _BARE_URL_RE.sub("", stripped)
+    return stripped
+
+
+def detect_partial_translation(body: str, lang: str) -> Optional[tuple[int, str, float]]:
+    """段落級「翻一半、剩下原文照抄」偵測。按空行切段，每段剝除合法保留區
+    （見 `_strip_legit_zh`）後計 CJK 字元佔比；任一段 CJK 佔比 >50% 且剝除後
+    長度 >80 字元 → 判定該段未翻譯。ja/ko 目標語言合法大量漢字（kanji/hanja），
+    跟 cjk-leak-check.py 同一分流判斷，豁免此訊號。
+
+    Returns (1-indexed 段落編號, 段落開頭 30 字, CJK 佔比) 或 None（乾淨）。
+    """
+    if lang in _CJK_SCRIPT_LANGS:
+        return None
+    for idx, para in enumerate(re.split(r"\n\s*\n", body), 1):
+        stripped = _strip_legit_zh(para)
+        length = len(stripped)
+        if length <= 80:
+            continue
+        ratio = len(_CJK_CHAR_RE.findall(stripped)) / length
+        if ratio > 0.5:
+            return idx, para.strip()[:30], ratio
+    return None
+
+
 # ────────────────── Per-article driver ──────────────────
 
 def translate_one(article: dict, lang: str, cascade: TranslationCascade,
@@ -670,65 +719,96 @@ def translate_one(article: dict, lang: str, cascade: TranslationCascade,
         print(f"DRY RUN: would translate {zh_path} → {out_path}" + (" [armor]" if armor else ""))
         return True, None, "dry-run"
 
-    try:
-        output, backend_used = cascade.translate(system, user_msg)
-    except CascadeExhausted as e:
-        return False, str(e), None
-
-    output, post_err = armor_post(output, armor_ctx, article)
-    if post_err:
-        return False, f"{post_err} via {backend_used} — not saved", backend_used
-
-    # Frontmatter integrity hard gate (2026-07-10 P0-3): 任一 backend（含 fleet raw
-    # 輸出）frontmatter 破損就不落盤——缺開頭 fence / 找不到收尾 fence / YAML 不
-    # parse（引號未跳脫家族 bug）。7/10 SLP ko 三洞案例：fleet 產出缺 fence +
-    # description 內雙引號未跳脫，靠 pre-commit 才攔住；本閘把攔截點前移到寫檔前，
-    # 半成品不再落 working tree。
-    if not output.startswith("---"):
-        return False, f"frontmatter missing opening fence via {backend_used} — not saved", backend_used
-    fm_end = output.find("\n---", 3)
-    if fm_end == -1:
-        return False, f"frontmatter missing closing fence via {backend_used} — not saved", backend_used
-    try:
-        fm = yaml.safe_load(output[3:fm_end])
-        if not isinstance(fm, dict) or "title" not in fm:
-            raise ValueError("frontmatter not a mapping with title")
-    except Exception as e:
-        return False, f"frontmatter YAML broken via {backend_used}: {str(e)[:80]} — not saved", backend_used
-
-    # Footnote completeness hard gate (2026-06-06): reject truncated/incomplete output.
-    # The cascade model can hit its token limit and cut off the article tail (image
-    # credits + footnote definitions), silently de-citationing the translation. If the
-    # output has fewer [^n]: definitions than the source, don't save it — return failure
-    # so the article stays stale and is retried (possibly by a different backend) next run.
-    fn_def_re = re.compile(r"(?m)^\[\^[^\]]+\]:")
-    src_fns = len(fn_def_re.findall(zh_content))
-    out_fns = len(fn_def_re.findall(output))
-    if src_fns > 0 and out_fns < src_fns:
-        return False, f"footnote loss ({src_fns}→{out_fns} defs) via {backend_used} — incomplete, not saved", backend_used
-
-    # Output-language hard gate (2026-07-19 讀者揭露 68 檔「宣稱已譯實為英文」後補上）：
-    # 前面所有 gate 只查結構（frontmatter/footnote/size），從不查輸出真的是目標語言。
-    # 一篇語意流暢、footnote 完整、frontmatter 合法的英文假翻譯會直接通過存活到 commit
-    # ——ja/ko/fr/es 累計 68 檔就是這樣漏網的。用 script-presence-check 同一套判準即時擋。
-    body_only = output[fm_end + 4:] if fm_end != -1 else output
-    lang_result = check_script_presence(body_only, lang)
-    if lang_result:
-        verdict, detail = lang_result
-        return False, f"output-language gate [{verdict}] via {backend_used}: {detail} — not saved", backend_used
-
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(output + "\n")
-
-    size = out_path.stat().st_size
-    if size < 1000:
+    # Partial-translation gate 專屬重試（見 detect_partial_translation()）：其餘
+    # hard gate 失敗維持原行為，立即 return（下游 batch/dispatcher 下一輪再重試，
+    # 不在這裡加重試邏輯）。max_attempts=2 = 1 原譯 + 1 次帶警告重試，跟其餘
+    # cascade/backend 層的重試機制（見 openrouter-translate.py call_openrouter）
+    # 同一種「有限次數、失敗即報」風格，不無限重試燒 API。
+    max_attempts = 2
+    last_partial_err = None
+    backend_used = None
+    for attempt in range(1, max_attempts + 1):
         try:
-            out_path.unlink()
-        except Exception:  # noqa: BLE001
-            pass
-        return False, f"output too small ({size} bytes) — file removed", backend_used
+            output, backend_used = cascade.translate(system, user_msg)
+        except CascadeExhausted as e:
+            return False, str(e), None
 
-    return True, None, backend_used
+        output, post_err = armor_post(output, armor_ctx, article)
+        if post_err:
+            return False, f"{post_err} via {backend_used} — not saved", backend_used
+
+        # Frontmatter integrity hard gate (2026-07-10 P0-3): 任一 backend（含 fleet raw
+        # 輸出）frontmatter 破損就不落盤——缺開頭 fence / 找不到收尾 fence / YAML 不
+        # parse（引號未跳脫家族 bug）。7/10 SLP ko 三洞案例：fleet 產出缺 fence +
+        # description 內雙引號未跳脫，靠 pre-commit 才攔住；本閘把攔截點前移到寫檔前，
+        # 半成品不再落 working tree。
+        if not output.startswith("---"):
+            return False, f"frontmatter missing opening fence via {backend_used} — not saved", backend_used
+        fm_end = output.find("\n---", 3)
+        if fm_end == -1:
+            return False, f"frontmatter missing closing fence via {backend_used} — not saved", backend_used
+        try:
+            fm = yaml.safe_load(output[3:fm_end])
+            if not isinstance(fm, dict) or "title" not in fm:
+                raise ValueError("frontmatter not a mapping with title")
+        except Exception as e:
+            return False, f"frontmatter YAML broken via {backend_used}: {str(e)[:80]} — not saved", backend_used
+
+        # Footnote completeness hard gate (2026-06-06): reject truncated/incomplete output.
+        # The cascade model can hit its token limit and cut off the article tail (image
+        # credits + footnote definitions), silently de-citationing the translation. If the
+        # output has fewer [^n]: definitions than the source, don't save it — return failure
+        # so the article stays stale and is retried (possibly by a different backend) next run.
+        fn_def_re = re.compile(r"(?m)^\[\^[^\]]+\]:")
+        src_fns = len(fn_def_re.findall(zh_content))
+        out_fns = len(fn_def_re.findall(output))
+        if src_fns > 0 and out_fns < src_fns:
+            return False, f"footnote loss ({src_fns}→{out_fns} defs) via {backend_used} — incomplete, not saved", backend_used
+
+        # Output-language hard gate (2026-07-19 讀者揭露 68 檔「宣稱已譯實為英文」後補上）：
+        # 前面所有 gate 只查結構（frontmatter/footnote/size），從不查輸出真的是目標語言。
+        # 一篇語意流暢、footnote 完整、frontmatter 合法的英文假翻譯會直接通過存活到 commit
+        # ——ja/ko/fr/es 累計 68 檔就是這樣漏網的。用 script-presence-check 同一套判準即時擋。
+        body_only = output[fm_end + 4:] if fm_end != -1 else output
+        lang_result = check_script_presence(body_only, lang)
+        if lang_result:
+            verdict, detail = lang_result
+            return False, f"output-language gate [{verdict}] via {backend_used}: {detail} — not saved", backend_used
+
+        # Partial-translation hard gate (2026-07-26 armored-input-ab §五「更急的發
+        # 現」)：前面所有 gate 只查結構，從不查 body 是不是真的翻完了——reasoning
+        # 模型翻長文常「翻到一半放棄、剩餘 zh 原文照抄」，這種輸出結構全合法（frontmatter
+        # 合法／footnote 數對／目標語 script 判定過關，因為開頭那段真的有翻），24 次
+        # A/B 呼叫裡有多篇這樣直接回報成功，靠下游 cjk-leak-check 巡邏才抓到。
+        partial = detect_partial_translation(body_only, lang)
+        if partial:
+            para_idx, preview, ratio = partial
+            last_partial_err = f"partial-translation: para {para_idx}, {ratio * 100:.0f}% CJK"
+            if attempt < max_attempts:
+                user_msg = user_msg + (
+                    f"\n\n⚠️ RETRY WARNING: your previous output left paragraph "
+                    f"{para_idx} untranslated (original zh-TW copied verbatim instead "
+                    "of being translated). You MUST translate the ENTIRE article body "
+                    "this time — do not stop partway through and do not skip any "
+                    f"paragraph. That paragraph started with: \"{preview}…\""
+                )
+                continue
+            return False, f"{last_partial_err} via {backend_used} — not saved", backend_used
+
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        out_path.write_text(output + "\n")
+
+        size = out_path.stat().st_size
+        if size < 1000:
+            try:
+                out_path.unlink()
+            except Exception:  # noqa: BLE001
+                pass
+            return False, f"output too small ({size} bytes) — file removed", backend_used
+
+        return True, None, backend_used
+
+    return False, f"{last_partial_err} — exhausted retries via {backend_used}", backend_used
 
 
 # ────────────────── CLI ──────────────────
