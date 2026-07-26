@@ -8,15 +8,34 @@
 
 排程 routine `twmd-data-refresh-am` 每日晨間跑一次 DATA-REFRESH-PIPELINE，把 CF / GA4 / SC 三源感知抓新、dashboard JSON 全套重生、GitHub stats 更新，並過 Step 11 mtime freshness gate。
 
-## 14 步刷新
+**BECOME ACK**：mode=micro，8 器官即時讀值 🫀90 🛡️60 🧬95 🦴90 🫁85 🧫100 👁️90 🌐78（consciousness-snapshot.sh 現跑，非記憶舊數字），Q14 cross-session continuity=PASS（讀 48hr commit log + memory/diary tail + handoff 三態確認開站後 babel 渦流、外送專法／苯駢芘／台灣鎢供應鏈三篇 rewrite、embeddings-nightly 12 語收官）。
 
-BECOME micro gate 過關後（8 器官讀取即時值，免疫 60 黃燈延續、非新退化）跑 `scripts/tools/refresh-data.sh`，14 步全綠：git sync 到 `8accce8fb`、三源感知（CF 955,238 req 7d / 404 率 6.75%、GA topPages+topArticles、SC 20 queries）、`_translations.json` 同步（6330 entries）、spore records（152 spores / 74 articles）、dashboard-i18n、dashboard-immune（60 分黃燈）、fork-census（12 forks 偵測 3 active）、dashboard-status（17 routines）、npm prebuild、llms.txt、GitHub stats（⭐1120 🍴168 👥67 📄867）、build-perf trend、newsroom board、spore validation、sporeLinks sync、reports/INDEX.md 重生。Step 11 verify 顯示**全部 14 個 dashboard JSON 都是今天 mtime，零 stale**，本輪不需要 catch-fix 動作。
+## 14 步結果
 
-40 個檔案變更（19065 insertions / 13764 deletions，多為 JSON 重生），單一 commit `9710322fa` 涵蓋 code / content-ssot / other / public / tooling 五個 narrative domain——pre-commit 印出 NARRATIVE SCOPE WARNING 但這是 data-refresh routine 的常態形狀（同一批 dashboard 重生本就跨多域），非誤觸並行 commit，照跑通過。push 到 origin/main 乾淨（pre-push article-health 全綠）。
+| Step | 內容                | 結果                                   |
+| ---- | ------------------- | -------------------------------------- |
+| 1    | Git sync            | ✅ HEAD → 8accce8fb                    |
+| 2    | 三源感知抓取        | ✅ CF/GA/SC 全回填                     |
+| 2.5  | 全流量 404 監測     | ✅ no alerts                           |
+| 3    | \_translations.json | ✅ 6330 entries                        |
+| 4    | spore records       | ✅ 152 spores / 74 articles            |
+| 5    | dashboard-i18n      | ✅                                     |
+| 6    | dashboard-immune    | ✅ score=60（黃燈延續）                |
+| 6.5  | fork-census         | ✅ 12 forks（3 active）                |
+| 6.6  | dashboard-status    | ✅ 17 routines                         |
+| 7    | npm prebuild        | ✅                                     |
+| 8    | llms.txt            | ✅                                     |
+| 9    | GitHub stats        | ✅ ⭐1120 🍴168 👥67 📄867             |
+| 10   | build-perf trend    | ✅ 232s latest / 220s 7d avg           |
+| 10b  | newsroom board      | ✅ 266 篇上板                          |
+| 11   | freshness gate      | ✅ 14/14 JSON 今天 mtime，**零 stale** |
+| 12   | spore validation    | ✅ 0 errors / 0 warnings               |
+| 13   | sporeLinks sync     | ✅ 已是 canonical form                 |
+| 14   | reports/INDEX.md    | ✅ 601 lines                           |
 
-## 三源 status
+## commit + push
 
-CF 7d 955,238 requests / 10 countries / 404 率 6.75%（前日 twmd-routine-sync 記錄的基準內），AI crawler 187,468 次跨 20 家。GA topPages/topArticles 各 20 筆正常回填。SC 20 top queries + 150 word cloud entries 正常。vitals：867 篇 / 67 contributors / 本週 +157 / 30 天 +236，人工審閱率 22.7%。免疫分數持平 60（review_coverage 偏低是已知 chronic，owner=self-evolve-weekly）。
+40 個檔案變更（19065 insertions / 13764 deletions，多為上表 14 步重生的 JSON），單一 commit `9710322fa` 涵蓋 code / content-ssot / other / public / tooling 五個 narrative domain——pre-commit 印出 NARRATIVE SCOPE WARNING，但這是 data-refresh routine 的常態形狀（同一批 dashboard 重生本就跨多域），非誤觸並行 commit，照跑通過。push 到 origin/main 乾淨（pre-push article-health 全綠）。vitals：867 篇 / 67 contributors / 本週 +157 / 30 天 +236，人工審閱率 22.7%。CF 7d 955,238 requests、AI crawler 187,468 次跨 20 家，跟前日 twmd-routine-sync 記錄的基準內。
 
 ## 收官 checklist
 
