@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-26
-last_session: '2026-07-26-211001-rewrite-throughput（3 小時病診斷報告＋v9.5 節流波：大驗證輪／定稿站／lite profile／產線成本審視）'
+last_session: '2026-07-26-225759-manual（twmd-finale 第三棒 EVOLVE：人物條目 SEO batch 三源交叉，承接 211001-rewrite-throughput）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -324,3 +324,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-26 | 212511-twmd-routine-audit-weekly | 補交漏跑的上週 cycle：拼回 07-19～07-24 機器遷移期 5 天飛輪靜默完整敘事；親跑工具挖到 2 個分類/解析漂移，vc 累積 1→2 | 稽核機制沒備援時，它自己的沉默也會是盲點 | [→](memory/2026-07-26-212511-twmd-routine-audit-weekly.md) |
 | 2026-07-26 | 194415-manual | 苯駢芘食安事件全面 EVOLVE：核心矛盾立在制度事實不碰政治攻防，三路 falsification 查證抓到 5 個真錯誤（誤植引語/404連結/年份誤植等）才 ship | 「試著推翻」的查證心態比「試著確認」可靠，編輯室判 revise 多半是落點缺口不是設計錯 | [→](memory/2026-07-26-194415-manual.md) |
 | 2026-07-26 | 211001-rewrite-throughput | 3 小時病診斷到 v9.5 節流波：跨時代 wall-clock 考古＋六答拍板後全實作（大驗證輪／定稿站 fact-atom-diff／lite 檔／stage-events 成本尺） | 品質有外部尺而成本沒有，是產線只加不減的根；順稿缺的是修復手不是偵測眼 | [→](memory/2026-07-26-211001-rewrite-throughput.md) |
+| 2026-07-26 | 225759-manual | twmd-finale 第三棒 EVOLVE：SC 28d position>10 篩出 9 篇人物條目 SEO batch，GA+SC 雙源確認 CTR 遠低於位置基準，寫入 ARTICLE-INBOX | 舊 note「下次再評」沒人規定何時；重驗才發現紀政 CTR 11.54%→0.72% | [→](memory/2026-07-26-225759-manual.md) |

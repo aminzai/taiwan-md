@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.3'
-last_updated: 2026-07-18
-last_session: '2026-07-18-111730-inbox-skill（/twmd-article-inbox 台灣建築 首次 dogfood：4 平行 agent 研究 → 10 條 candidates append，P0×3 / P1×4 / P2×3）'
+last_updated: 2026-07-26
+last_session: '2026-07-26-225759-manual（/twmd-evolve v1/v2 三源交叉：人物條目 SEO batch 9 篇，GA+SC 雙源確認 pos 10-13 CTR 低於基準）'
 sister_docs:
   - 'ARTICLE-DONE-LOG.md'
   - 'LESSONS-INBOX.md'
@@ -1787,6 +1787,46 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 分析法：公報全文關鍵詞時間序列（法規異動頻率）× legislature 域立法院紀錄 → 行政公告 vs 立法軌跡的時間差 = 政策生效速度
   - 跟 Twinkle Hub `legislature` 新域（2026-06 新增）天然成對
 - **Reference**: /opendata §故事待寫
+
+### 🟠 人物條目 SEO batch — 9 篇卡在 SERP page-1 邊緣（pos 10-13）的裸名搜尋，CTR 遠低於位置基準（GA+SC 雙源確認）
+
+- **Type**: `EVOLVE`
+- **Category**: People（跨 subcategory：體育／戲劇／設計／音樂／慈善／舞蹈／文學）
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-07-26 by twmd-finale/twmd-evolve（session 2026-07-26，三源交叉：SC 28d query + GA4 per-page + CF 邊緣流量）
+- **Evolve scan source pointers**：
+  - **SC 28d（`sc-query.py --dims query --start 2026-06-28 --end 2026-07-23`）**：篩「position > 10 且 impressions > 100」共 25 條命中，其中 9 條是純裸名人物查詢（排除已知的莫那·魯道大檔翻譯債＝OBSERVER-QUEUE #5/#18，另案處理）：
+    | 查詢 | 曝光 | 排名 | 點擊 | CTR | 對應文章 |
+    | --- | --- | --- | --- | --- | --- |
+    | 紀政 | 2493 | 10.3 | 18 | 0.72% | knowledge/People/紀政.md |
+    | 趙自強 | 1980 | 10.3 | 14 | 0.71% | knowledge/People/趙自強.md |
+    | 范曉萱 | 1760 | 10.7 | 5 | 0.28% | knowledge/People/范曉萱.md |
+    | 聶永真 | 1589 | 11.1 | 6 | 0.38% | knowledge/People/聶永真.md |
+    | 陳建年 | 1552 | 10.2 | 14 | 0.90% | knowledge/People/陳建年.md |
+    | 陳樹菊 | 1424 | 10.7 | 30 | 2.11% | knowledge/People/陳樹菊.md |
+    | 林懷民 | 1129 | 12.1 | 5 | 0.44% | knowledge/People/林懷民.md |
+    | 桂綸鎂 | 830 | 11.1 | 2 | 0.24% | knowledge/People/桂綸鎂.md |
+    | 田馥甄 | 681 | 12.9 | 10 | 1.47% | knowledge/People/田馥甄.md |
+    位置 10-13 的一般 CTR 基準約 1.5-2.5%；除陳樹菊（2.11%，本群裡唯一貼近基準）外，其餘全部落在基準的 1/3 到 1/2。
+  - **GA4 28d（`ga-query.py --dims pagePath`）交叉確認**：這群文章有真實讀者，不是零流量幽靈頁——紀政 45 views/29.8% bounce/149s 平均停留、陳樹菊 69 views/23.7% bounce、趙自強 36 views/44.7% bounce。**bounce rate 都健康**，代表點進來的讀者沒有立刻跳走，問題不在內容品質。
+  - **文章品質交叉檢查（排除「其實是該重寫」的可能）**：聶永真（16.9K chars／12 H2／31 腳註，2026-05-08 才 ship）、陳建年（17.3K chars／12 H2／27 腳註）、田馥甄（14.4K chars／10 H2／35 腳註）都是深度完成品，CTR 依然落在同樣的低區間——**排除品質是主因**的假設。薄的（趙自強 99 行 0 H2、陳樹菊 112 行、紀政 115 行）跟厚的表現同樣差，這條是判斷「這是 SEO 型不是 Rewrite 型」的關鍵證據。
+  - **CF 邊緣層**：本輪未取得逐篇 CF 路徑級數據（dashboard 只到 crawler/country 彙總），無法對這 9 篇個別確認第三源；改用 GA+SC 雙源已達「≥2/3」門檻，CF 缺口誠實記錄（不硬湊）。
+  - **git log 交叉**：9 篇最近一次改動都是 2026-05~07 的批次格式修補或勘誤（非近期重寫造成的暫時性索引波動），確認是穩定存在數月的結構性問題，非短期噪音。
+- **為什麼這篇 vs 其他**（per EVOLVE-PIPELINE Phase 5 ENRICH）：
+  - vs 2026-05-17 舊 note「紀政 CTR 已健康 pos 5.7，下次 evolve cycle 再評」（見本檔許倬雲 entry §917 附近）——這就是那個「下次」：2.5 個月後重驗，位置從 5.7 掉到 10.3、CTR 從 11.54% 掉到 0.72%，原本判斷「健康」的訊號已經反轉，不是延續舊觀察
+  - vs 單篇挑一個名字寫 EVOLVE entry——9 篇同構（裸名查詢＋位置 10-13＋CTR 遠低基準＋品質跟 CTR 無相關）指向系統性 pattern，不是單一文章的偶發問題；批次處理才對得起 REFLEXES #76「multi-cycle trend window > single-cycle delta」跟本檔既有的 batch 慣例（69 篇薄殼重建 batch／viz 採用率 batch）
+  - vs 已在系統裡的英文 metadata 系統性缺口（roadmap P0-1／本檔陳昇／BIM／金城武 entries）——那組是「英文長尾查詢 0 點擊」，這組是「中文裸名查詢有點擊但遠低於位置基準」，兩個獨立的 pattern，不重複
+  - vs 莫那·魯道（同批 SC 篩選命中 pos 12.4／2061 曝光）——刻意排除，因為它是 OBSERVER-QUEUE #5/#18 已追蹤的「60+ 腳註大檔翻譯債」性質完全不同，混進來會汙染這條 batch 的診斷（品質/SEO vs 翻譯路線是兩種行動）
+- **Notes**：
+  - **假設（待驗證非定論）**：裸名查詢在 Google SERP 上通常會被知識面板／維基百科／新聞聚合／圖片包大量分食版位（SC 回報的「organic position」不代表視覺版位），這類查詢的 CTR 天花板本來就比一般長尾查詢低；陳樹菊 2.11% 是本群唯一貼近基準的對照組，值得先研究她的 title/description 做對了什麼
+  - **行動方向（🟠 SEO 優化，非 🔴 Rewrite）**：逐篇檢視 title 開頭 3-5 字是否包含足夠差異化 hook（不是查完維基百科就能查到的訊息），description 是否放進「為什麼點進 Taiwan.md 而不是維基」的理由；成本量級對齊 EVOLVE-PIPELINE §🟠 SEO 優化「5 min/篇」
+  - **進化分數揭露（per OBSERVER-QUEUE #16 已知偏誤，option (c) 現行處置）**：本 batch 因「品質缺陷」與「文章年齡」兩維度對品質健康、非新文章的候選天生扣分，7 維公式粗算落在 60 門檻以下（品質健康拉低品質缺陷維度分）；依 OBSERVER-QUEUE #16 現行慣例（SEO 型候選揭露分數後人工 append，不受 gate 擋下），本條照常收錄
+  - **完成判準**：9 篇（扣除已停用的莫那·魯道）title/description 逐篇校準後，下次 SC 週期（D+28）回看至少 5 篇 CTR 較本次基準翻倍
+- **Reference**:
+  - SC 28d snapshot：`sc-query.py --dims query --start 2026-06-28 --end 2026-07-23`（本 session 手動跑，未落檔案，數字見上表）
+  - GA4 交叉：`ga-query.py --dims pagePath --filter "pagePath~{人名}"` 逐篇跑（本 session 手動跑）
+  - 既有判斷歷史：本檔許倬雲 entry §為什麼這篇 vs 其他（2026-05-17 對紀政的舊判斷）
 
 ## 🚧 In-Progress
 
