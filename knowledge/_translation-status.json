@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T17:28:12+08:00",
-    "zhCommitHead": "0c17250bb",
+    "lastUpdated": "2026-07-26T17:47:27+08:00",
+    "zhCommitHead": "12588f89d",
     "totalZh": 868,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 868,
-        "fresh": 726,
-        "stale": 133,
+        "fresh": 727,
+        "stale": 132,
         "metadata_stale": 1,
         "missing": 8,
         "orphan": 0
@@ -43,8 +43,8 @@
       },
       "es": {
         "total_zh": 868,
-        "fresh": 729,
-        "stale": 135,
+        "fresh": 730,
+        "stale": 134,
         "metadata_stale": 0,
         "missing": 4,
         "orphan": 0
@@ -59,26 +59,26 @@
       },
       "vi": {
         "total_zh": 868,
-        "fresh": 180,
+        "fresh": 187,
         "stale": 16,
         "metadata_stale": 1,
-        "missing": 671,
+        "missing": 664,
         "orphan": 0
       },
       "id": {
         "total_zh": 868,
-        "fresh": 290,
+        "fresh": 291,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 567,
+        "missing": 566,
         "orphan": 0
       },
       "pt": {
         "total_zh": 868,
-        "fresh": 480,
+        "fresh": 481,
         "stale": 12,
         "metadata_stale": 1,
-        "missing": 375,
+        "missing": 374,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 868,
-        "fresh": 347,
+        "fresh": 351,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 519,
+        "missing": 515,
         "orphan": 0
       },
       "ru": {
         "total_zh": 868,
-        "fresh": 376,
+        "fresh": 377,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 490,
+        "missing": 489,
         "orphan": 0
       }
     },
@@ -7171,7 +7171,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/hilife-convenience-store.md",
+          "translatedFrom": "Economy/萊爾富.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:16de3ef9123d401b",
+          "sourceBodyHash": "sha256:1db4b0d8639cd770",
+          "translatedAt": "2026-07-26T13:23:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -30019,7 +30030,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/zoo-and-exhibition-animal-ethics.md",
+          "translatedFrom": "Society/動物園與展演動物倫理.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:942c806351e32e6f",
+          "sourceBodyHash": "sha256:d25050b0162be631",
+          "translatedAt": "2026-07-26T17:01:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -31422,7 +31444,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/taiwan-tin-shed-houses.md",
+          "translatedFrom": "Society/鐵皮屋.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:2513952bc4eab478",
+          "sourceBodyHash": "sha256:96d147de5fc403fe",
+          "translatedAt": "2026-07-26T17:01:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/taiwan-tin-shed-houses.md",
@@ -36380,16 +36413,16 @@
         "ja": {
           "path": "ja/Society/taiwan-rural-education.md",
           "translatedFrom": "Society/台灣偏鄉教育.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:44e0e02cb3bfe9f8",
-          "sourceBodyHash": "sha256:275d00c9499cbf78",
-          "translatedAt": "2026-05-16T22:19:52+00:00",
+          "sourceCommitSha": "4d620ce7b",
+          "sourceContentHash": "sha256:1277fc2755a587fc",
+          "sourceBodyHash": "sha256:64665163579f4d98",
+          "translatedAt": "2026-07-26T13:23:36+08:00",
           "translationLastCommit": "3521fd77",
           "translationLastModified": "2026-05-17T06:34:49+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/taiwan-rural-education.md",
@@ -36451,7 +36484,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/taiwan-rural-education.md",
+          "translatedFrom": "Society/台灣偏鄉教育.md",
+          "sourceCommitSha": "4d620ce7b",
+          "sourceContentHash": "sha256:1277fc2755a587fc",
+          "sourceBodyHash": "sha256:64665163579f4d98",
+          "translatedAt": "2026-07-26T13:23:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -64890,7 +64934,18 @@
           "reason": "hash-match-sha-lost"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/kuo-chin-fa-taiwanese-singer.md",
+          "translatedFrom": "People/郭金發.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ffef27b2909f9d95",
+          "sourceBodyHash": "sha256:b629819d5dc38d6a",
+          "translatedAt": "2026-07-26T17:05:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/kuo-chin-fa-taiwanese-singer.md",
@@ -65236,7 +65291,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/chen-chu-democracy-activist.md",
+          "translatedFrom": "People/陳菊.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:b0c2ac2ae0cad64d",
+          "sourceBodyHash": "sha256:5121ea375a0a93ff",
+          "translatedAt": "2026-07-26T17:05:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/chen-chu-democracy-activist.md",
@@ -65607,7 +65673,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/chiang-wei-shui.md",
+          "translatedFrom": "People/蔣渭水.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:0f3a996ef981d6ff",
+          "sourceBodyHash": "sha256:d65332102dab634a",
+          "translatedAt": "2026-07-26T17:05:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/chiang-wei-shui.md",
@@ -65760,7 +65837,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/su-chiao-hui.md",
+          "translatedFrom": "People/蘇巧慧.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:eb7e3bede251836b",
+          "sourceBodyHash": "sha256:8ae89739a53e0a1f",
+          "translatedAt": "2026-07-26T17:05:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/su-chiao-hui.md",
@@ -66186,7 +66274,18 @@
           "reason": "hash-match-sha-lost"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/jolin-tsai.md",
+          "translatedFrom": "People/蔡依林.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:1eed0b39727d52a4",
+          "sourceBodyHash": "sha256:ecfb49e20d9c0f4b",
+          "translatedAt": "2026-07-26T17:05:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/jolin-tsai.md",
@@ -68324,7 +68423,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/ray-youtuber.md",
+          "translatedFrom": "People/Ray.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:970d28e96a195c6a",
+          "sourceBodyHash": "sha256:bfea2eb77a7d1c05",
+          "translatedAt": "2026-07-26T17:05:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/ray-youtuber.md",
@@ -68630,7 +68740,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/lu-yen-hsun-tennis-champion.md",
+          "translatedFrom": "People/盧彥勳.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:b7bcedce34261377",
+          "sourceBodyHash": "sha256:a95f42aeb707e55c",
+          "translatedAt": "2026-07-26T17:05:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/lu-yen-hsun-tennis-champion.md",
@@ -75120,8 +75241,8 @@
           "sourceContentHash": "sha256:c3100aba8df85cb7",
           "sourceBodyHash": "sha256:fa74581434f67fac",
           "translatedAt": "2026-07-26T13:23:38+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "afaf36a9",
+          "translationLastModified": "2026-07-26T17:28:12+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -81802,18 +81923,16 @@
         "es": {
           "path": "es/Food/tainan-central-west-district-street-food-culture.md",
           "translatedFrom": "Food/台南中西區美食小吃文化.md",
-          "sourceCommitSha": "3011828ba",
-          "sourceContentHash": "sha256:ba0e98c9d772c0f4",
-          "sourceBodyHash": "sha256:c9b71900ee0b75bf",
-          "translatedAt": "2026-07-06T00:39:49+08:00",
+          "sourceCommitSha": "93facb6ce",
+          "sourceContentHash": "sha256:0b469697cef600b9",
+          "sourceBodyHash": "sha256:9c9d5bf9b829829e",
+          "translatedAt": "2026-07-26T16:41:20+08:00",
           "translationLastCommit": "b6998f44",
           "translationLastModified": "2026-07-25T07:52:22+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Food/tainan-central-west-district-street-food-culture.md",
@@ -91466,8 +91585,8 @@
           "sourceContentHash": "sha256:405286ffbb97b596",
           "sourceBodyHash": "sha256:367ba2e7b9a712c5",
           "translatedAt": "2026-07-26T13:23:38+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "afaf36a9",
+          "translationLastModified": "2026-07-26T17:28:12+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -92087,8 +92206,8 @@
           "sourceContentHash": "sha256:339ea6f63f12308d",
           "sourceBodyHash": "sha256:13a49441594ebd54",
           "translatedAt": "2026-07-26T13:23:38+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "afaf36a9",
+          "translationLastModified": "2026-07-26T17:28:12+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "status": "fresh",
@@ -95426,7 +95545,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
+          "translatedFrom": "Geography/台灣五大地形與地理結構.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:b14a14cb2829b8df",
+          "sourceBodyHash": "sha256:0d43b9a8dba0aa39",
+          "translatedAt": "2026-07-26T17:01:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Geography/taiwan-five-major-landforms-and-geographic-structure.md",
@@ -103749,7 +103879,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/taiwan-baseball-culture.md",
+          "translatedFrom": "Culture/台灣棒球文化.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:9a4380e463583d63",
+          "sourceBodyHash": "sha256:ffebfda3574ab04b",
+          "translatedAt": "2026-07-26T17:01:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/taiwan-baseball-culture.md",
@@ -104251,7 +104392,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/linguistic-diversity-and-mother-tongue-culture.md",
+          "translatedFrom": "Culture/語言多樣性與母語文化.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:0f2cf9fae60042d8",
+          "sourceBodyHash": "sha256:62570a25d7db63f6",
+          "translatedAt": "2026-07-26T17:01:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/linguistic-diversity-and-mother-tongue-culture.md",
