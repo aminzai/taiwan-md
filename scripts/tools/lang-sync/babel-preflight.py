@@ -106,6 +106,44 @@ def check_fleet() -> dict:
             "total_registered": len(machines)}
 
 
+def check_track_record(days: int = 2) -> dict:
+    """歷史產出品質——端點活著不等於產得出可用的東西。
+
+    2026-07-26 新增。此前 preflight 的 healthy 只證明「端點回得了訊息」：
+    l4090 那台機器活著、ollama 有回應、preflight 全綠，而它翻葡萄牙語
+    0/28、印尼語 1/20——每一次呼叫都花完整的 GPU 時間翻出必被擋下的成品。
+    存活訊號與生產訊號是兩件事（今日同型第五例），算力自檢必須看實績。
+
+    來源：各 run dir 的 report.jsonl（worker × lang 通過率）。
+    """
+    import glob
+    from collections import defaultdict
+    from datetime import datetime, timedelta
+    cut = (datetime.now().astimezone() - timedelta(days=days)).isoformat()
+    grid = defaultdict(lambda: [0, 0])
+    for rp in glob.glob("/tmp/babel-unified-2*/report.jsonl"):
+        try:
+            for line in open(rp, encoding="utf-8"):
+                try:
+                    r = json.loads(line)
+                except Exception:
+                    continue
+                if r.get("ts", "") < cut:
+                    continue
+                grid[(r.get("worker", "?"), r.get("lang", "?"))][0 if r.get("ok") else 1] += 1
+        except Exception:
+            continue
+    weak = []
+    for (w, lang), (ok, fail) in sorted(grid.items()):
+        n = ok + fail
+        if n >= 8 and ok / n < 0.15:
+            weak.append({"worker": w, "lang": lang, "pass_pct": round(ok / n * 100), "n": n})
+    return {"samples": sum(ok + fail for ok, fail in grid.values()),
+            "weak_pairs": weak,
+            "note": "通過率 <15%（n≥8）的 worker×語言組合——切軌或換模型，"
+                    "不要靠加大重試（同一個弱適配再燒一次算力）" if weak else "無明顯弱適配"}
+
+
 def check_codex() -> dict:
     path = shutil.which("codex")
     if not path:
@@ -128,6 +166,7 @@ def main():
         "ollama": check_ollama(),
         "fleet": check_fleet(),
         "codex": check_codex(),
+        "track_record": check_track_record(),
     }
     tiers_up = sum(1 for k in ("openrouter", "ollama", "fleet", "codex")
                    if report[k].get("available"))
@@ -159,6 +198,15 @@ def main():
                   f"{', '.join(fl['reachable'])}")
         else:
             print(f"   ➖ fleet 節點  {fl.get('reason') or '全部不可達'}")
+        tr = report["track_record"]
+        if tr.get("weak_pairs"):
+            print(f"   ⚠️ 實績檢查  {len(tr['weak_pairs'])} 個弱適配組合"
+                  f"（近兩日 {tr['samples']} 筆）：")
+            for wp in tr["weak_pairs"][:6]:
+                print(f"      {wp['worker']} × {wp['lang']} = {wp['pass_pct']}%（n={wp['n']}）")
+            print(f"      → {tr['note']}")
+        elif tr.get("samples"):
+            print(f"   ✅ 實績檢查  近兩日 {tr['samples']} 筆，無明顯弱適配")
         print(f"   {'✅' if cx.get('available') else '➖'} codex      "
               f"{cx.get('version') or cx.get('hint')}")
         if report["verdict"] != "healthy":
