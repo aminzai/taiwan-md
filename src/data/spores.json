@@ -1,10 +1,10 @@
 {
-  "_generated": "2026-07-27T06:12:09+08:00",
+  "_generated": "2026-07-27T06:43:14+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 152,
     "articles": 74,
-    "withMetrics": 140
+    "withMetrics": 142
   },
   "spores": [
     {
@@ -8456,17 +8456,17 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DbOLIMlE-mi",
       "template": "B 冷知識型／問題入口",
       "metrics": {
-        "views": 1608,
-        "likes": 18,
+        "views": 3032,
+        "likes": 26,
         "reposts": 1,
         "comments": 9,
         "shares": 0
       },
       "metricsAsOf": {
-        "dPlus": 1,
-        "harvestDate": "2026-07-26 10:49",
-        "batch": "batch-2026-07-26-am",
-        "source": "harvest"
+        "dPlus": 2,
+        "harvestDate": "2026-07-27 06:43",
+        "batch": "batch-2026-07-27-am",
+        "source": "harvest+backfill"
       },
       "history": [
         {
@@ -8478,6 +8478,16 @@
           "reposts": 1,
           "comments": 9,
           "shares": 0
+        },
+        {
+          "dPlus": 2,
+          "harvestDate": "2026-07-27 06:43",
+          "batch": "batch-2026-07-27-am",
+          "views": 3032,
+          "likes": 26,
+          "reposts": 1,
+          "comments": 9,
+          "shares": null
         }
       ]
     },
@@ -8492,16 +8502,16 @@
       "url": "https://x.com/taiwandotmd/status/2081045126898684051",
       "template": "B 冷知識型／問題入口",
       "metrics": {
-        "views": 774,
-        "likes": 16,
-        "reposts": 5,
-        "comments": 0,
-        "shares": 4
+        "views": 2842,
+        "likes": 47,
+        "reposts": 11,
+        "comments": 2,
+        "shares": 9
       },
       "metricsAsOf": {
-        "dPlus": 1,
-        "harvestDate": "2026-07-26 10:49",
-        "batch": "batch-2026-07-26-am",
+        "dPlus": 2,
+        "harvestDate": "2026-07-27 06:43",
+        "batch": "batch-2026-07-27-am",
         "source": "harvest"
       },
       "history": [
@@ -8514,6 +8524,16 @@
           "reposts": 5,
           "comments": 0,
           "shares": 4
+        },
+        {
+          "dPlus": 2,
+          "harvestDate": "2026-07-27 06:43",
+          "batch": "batch-2026-07-27-am",
+          "views": 2842,
+          "likes": 47,
+          "reposts": 11,
+          "comments": 2,
+          "shares": 9
         }
       ]
     },
@@ -8528,14 +8548,30 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb",
       "template": "B 冷知識型／結構性題目",
       "metrics": {
-        "views": null,
-        "likes": null,
-        "reposts": null,
-        "comments": null,
-        "shares": null
+        "views": 240000,
+        "likes": 24000,
+        "reposts": 3077,
+        "comments": 198,
+        "shares": 1986
       },
-      "metricsAsOf": null,
-      "history": []
+      "metricsAsOf": {
+        "dPlus": 1,
+        "harvestDate": "2026-07-27 06:43",
+        "batch": "batch-2026-07-27-am",
+        "source": "harvest"
+      },
+      "history": [
+        {
+          "dPlus": 1,
+          "harvestDate": "2026-07-27 06:43",
+          "batch": "batch-2026-07-27-am",
+          "views": 240000,
+          "likes": 24000,
+          "reposts": 3077,
+          "comments": 198,
+          "shares": 1986
+        }
+      ]
     },
     {
       "id": 162,
@@ -8548,14 +8584,30 @@
       "url": "https://x.com/taiwandotmd/status/2081354251016773702",
       "template": "B 冷知識型／結構性題目",
       "metrics": {
-        "views": null,
-        "likes": null,
-        "reposts": null,
-        "comments": null,
-        "shares": null
+        "views": 24000,
+        "likes": 1245,
+        "reposts": 278,
+        "comments": 12,
+        "shares": 91
       },
-      "metricsAsOf": null,
-      "history": []
+      "metricsAsOf": {
+        "dPlus": 1,
+        "harvestDate": "2026-07-27 06:43",
+        "batch": "batch-2026-07-27-am",
+        "source": "harvest"
+      },
+      "history": [
+        {
+          "dPlus": 1,
+          "harvestDate": "2026-07-27 06:43",
+          "batch": "batch-2026-07-27-am",
+          "views": 24000,
+          "likes": 1245,
+          "reposts": 278,
+          "comments": 12,
+          "shares": 91
+        }
+      ]
     }
   ],
   "byArticle": {
