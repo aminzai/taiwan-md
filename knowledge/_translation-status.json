@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T09:50:46+08:00",
-    "zhCommitHead": "dc32e0bb9",
+    "lastUpdated": "2026-07-26T09:53:24+08:00",
+    "zhCommitHead": "62126dc01",
     "totalZh": 865,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 865,
-        "fresh": 721,
-        "stale": 137,
+        "fresh": 722,
+        "stale": 136,
         "metadata_stale": 1,
         "missing": 6,
         "orphan": 0
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 865,
-        "fresh": 426,
+        "fresh": 427,
         "stale": 11,
         "metadata_stale": 1,
-        "missing": 427,
+        "missing": 426,
         "orphan": 0
       },
       "hi": {
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 865,
-        "fresh": 287,
+        "fresh": 288,
         "stale": 0,
         "metadata_stale": 1,
-        "missing": 577,
+        "missing": 576,
         "orphan": 0
       },
       "ru": {
@@ -3480,7 +3480,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Music/taiwan-music-festival-culture.md",
+          "translatedFrom": "Music/台灣音樂祭文化.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:05a94f16d833d02e",
+          "sourceBodyHash": "sha256:7c772c535d0e1d4c",
+          "translatedAt": "2026-07-26T08:51:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -4886,18 +4897,16 @@
         "ja": {
           "path": "ja/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
           "translatedFrom": "Economy/台灣產業轉型升級.md",
-          "sourceCommitSha": "bb3e6a0b",
-          "sourceContentHash": "sha256:9aa75ab5aaf39eb6",
-          "sourceBodyHash": "sha256:4a2bc57ff97cab00",
-          "translatedAt": "2026-05-20T05:08:29+08:00",
+          "sourceCommitSha": "d6377e82e",
+          "sourceContentHash": "sha256:e6cb5dd5b7d9e8ed",
+          "sourceBodyHash": "sha256:ebbc94611dc1b8f9",
+          "translatedAt": "2026-07-26T08:13:09+08:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/industrial-transformation-from-manufacturing-to-innovation.md",
@@ -18117,7 +18126,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Technology/taiwan-cybersecurity-industry-development.md",
+          "translatedFrom": "Technology/台灣資安產業發展.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:2d7d8b8a52c2b0ff",
+          "sourceBodyHash": "sha256:11c4d3b5ca02c812",
+          "translatedAt": "2026-07-26T08:50:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -98833,8 +98853,8 @@
           "sourceContentHash": "sha256:f2be686b40b1bfa3",
           "sourceBodyHash": "sha256:85fe560e3164601c",
           "translatedAt": "2026-07-26T05:17:36+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
+          "translationLastCommit": "62126dc0",
+          "translationLastModified": "2026-07-26T09:50:46+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -100041,8 +100061,8 @@
           "sourceContentHash": "sha256:0e116841e98362b0",
           "sourceBodyHash": "sha256:8d311f99ab1ace9b",
           "translatedAt": "2026-07-26T08:13:10+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
+          "translationLastCommit": "62126dc0",
+          "translationLastModified": "2026-07-26T09:50:46+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
