@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T22:13:10.448076Z",
+  "lastUpdated": "2026-07-26T22:43:14.864630Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 152,
@@ -32,10 +32,10 @@
       "url": "https://x.com/taiwandotmd/status/2081354251016773702",
       "highlight": "同 #161 內容，X 單則貼文＋inline s162 UTM",
       "views_7d": null,
-      "views_latest": null,
+      "views_latest": 24000,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": false
+      "backfilled": true
     },
     {
       "n": 161,
@@ -48,10 +48,10 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb",
       "highlight": "鎢絲/鑽頭/婚戒同金屬冷知識起手，日相涉台發言→中國對日鎢粉出口砍零→日廠永久停產，收在屏東枋寮回收廠靠廢鎢漲350%卡位鏈上",
       "views_7d": null,
-      "views_latest": null,
+      "views_latest": 240000,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": false
+      "backfilled": true
     },
     {
       "n": 160,
@@ -64,7 +64,7 @@
       "url": "https://x.com/taiwandotmd/status/2081045126898684051",
       "highlight": "雙單同酬（4.4/8.6公里都90元）；地板 vs 演算法",
       "views_7d": null,
-      "views_latest": 774,
+      "views_latest": 2842,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -80,7 +80,7 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DbOLIMlE-mi",
       "highlight": "雙單同酬（4.4/8.6公里都90元）；地板 vs 演算法",
       "views_7d": null,
-      "views_latest": 1608,
+      "views_latest": 3032,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -114,6 +114,18 @@
       "badge": "🌋 史上最強",
       "date": "2026-04-14",
       "url": "https://www.threads.com/@taiwandotmd/post/DXGuAudkbuC"
+    },
+    {
+      "n": 161,
+      "article": "台灣鎢供應鏈",
+      "platform": "threads",
+      "views": 240000,
+      "viewsSource": "latest",
+      "engagements": null,
+      "rate": null,
+      "badge": "🌋 史上最強",
+      "date": "2026-07-26",
+      "url": "https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb"
     },
     {
       "n": 25,
@@ -186,18 +198,6 @@
       "badge": "⭐ 高峰",
       "date": "2026-04-19",
       "url": "https://www.threads.com/@taiwandotmd/post/DXTr5QLkfgp"
-    },
-    {
-      "n": 54,
-      "article": "黑冠麻鷺",
-      "platform": "x",
-      "views": 69664,
-      "viewsSource": "7d",
-      "engagements": 2009,
-      "rate": 2.88,
-      "badge": "⭐ 高峰",
-      "date": "2026-04-30",
-      "url": "https://x.com/taiwandotmd/status/2049854898108522575"
     }
   ],
   "amplification": [],
@@ -320,7 +320,7 @@
     {
       "week": "2026-W30",
       "published": 4,
-      "avgViews": 1191
+      "avgViews": 67468
     }
   ],
   "harvestStatus": [
@@ -1811,8 +1811,8 @@
       "publishDate": "2026-07-25",
       "daysSincePublish": 2,
       "withinHarvestWindow": true,
-      "harvestCount": 1,
-      "lastHarvest": "2026-07-26 10:49"
+      "harvestCount": 2,
+      "lastHarvest": "2026-07-27 06:43"
     },
     {
       "n": 160,
@@ -1821,8 +1821,8 @@
       "publishDate": "2026-07-25",
       "daysSincePublish": 2,
       "withinHarvestWindow": true,
-      "harvestCount": 1,
-      "lastHarvest": "2026-07-26 10:49"
+      "harvestCount": 2,
+      "lastHarvest": "2026-07-27 06:43"
     },
     {
       "n": 161,
@@ -1831,8 +1831,8 @@
       "publishDate": "2026-07-26",
       "daysSincePublish": 1,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-07-27 06:43"
     },
     {
       "n": 162,
@@ -1841,8 +1841,8 @@
       "publishDate": "2026-07-26",
       "daysSincePublish": 1,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-07-27 06:43"
     }
   ]
 }

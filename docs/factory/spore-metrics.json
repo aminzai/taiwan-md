@@ -6233,6 +6233,18 @@
       "source": "threads"
     },
     {
+      "spore": 159,
+      "dPlus": 2,
+      "at": "2026-07-27 06:43",
+      "batch": "batch-2026-07-27-am",
+      "views": 3032,
+      "likes": 26,
+      "reposts": 1,
+      "comments": 9,
+      "shares": null,
+      "source": "harvest"
+    },
+    {
       "spore": 160,
       "dPlus": 1,
       "at": "2026-07-26 10:49",
@@ -6243,6 +6255,42 @@
       "comments": 0,
       "shares": 4,
       "source": "x"
+    },
+    {
+      "spore": 160,
+      "dPlus": 2,
+      "at": "2026-07-27 06:43",
+      "batch": "batch-2026-07-27-am",
+      "views": 2842,
+      "likes": 47,
+      "reposts": 11,
+      "comments": 2,
+      "shares": 9,
+      "source": "harvest"
+    },
+    {
+      "spore": 161,
+      "dPlus": 1,
+      "at": "2026-07-27 06:43",
+      "batch": "batch-2026-07-27-am",
+      "views": 240000,
+      "likes": 24000,
+      "reposts": 3077,
+      "comments": 198,
+      "shares": 1986,
+      "source": "harvest"
+    },
+    {
+      "spore": 162,
+      "dPlus": 1,
+      "at": "2026-07-27 06:43",
+      "batch": "batch-2026-07-27-am",
+      "views": 24000,
+      "likes": 1245,
+      "reposts": 278,
+      "comments": 12,
+      "shares": 91,
+      "source": "harvest"
     }
   ]
 }
