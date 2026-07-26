@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T21:25:18+08:00",
-    "zhCommitHead": "26441f4f9",
+    "lastUpdated": "2026-07-26T21:30:09+08:00",
+    "zhCommitHead": "8a6c5c7f8",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 869,
-        "fresh": 727,
-        "stale": 132,
+        "fresh": 728,
+        "stale": 131,
         "metadata_stale": 1,
         "missing": 9,
         "orphan": 0
@@ -59,10 +59,10 @@
       },
       "vi": {
         "total_zh": 869,
-        "fresh": 203,
+        "fresh": 204,
         "stale": 16,
         "metadata_stale": 1,
-        "missing": 649,
+        "missing": 648,
         "orphan": 0
       },
       "id": {
@@ -50401,7 +50401,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/yin-haiguang-liberalism-philosopher.md",
+          "translatedFrom": "People/殷海光.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:0d8d9acd7b29d4d0",
+          "sourceBodyHash": "sha256:51ae38d79a7cc954",
+          "translatedAt": "2026-07-26T20:52:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/yin-haiguang-liberalism-philosopher.md",
@@ -75871,18 +75882,16 @@
         "ja": {
           "path": "ja/People/cheng-wen-chi.md",
           "translatedFrom": "People/鄭文琦.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:0e9e8f5ed7e1d87b",
-          "sourceBodyHash": "sha256:7cc12241a8e54299",
-          "translatedAt": "2026-05-05T00:33:23+08:00",
+          "sourceCommitSha": "64d9ae569",
+          "sourceContentHash": "sha256:c3100aba8df85cb7",
+          "sourceBodyHash": "sha256:fa74581434f67fac",
+          "translatedAt": "2026-07-26T19:42:09+08:00",
           "translationLastCommit": "64d9ae56",
           "translationLastModified": "2026-07-26T08:48:38+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/cheng-wen-chi.md",
