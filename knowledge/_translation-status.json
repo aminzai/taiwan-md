@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-27T04:01:14+08:00",
-    "zhCommitHead": "f2d364e02",
+    "lastUpdated": "2026-07-27T04:01:49+08:00",
+    "zhCommitHead": "ba9d087fd",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 869,
-        "fresh": 339,
+        "fresh": 340,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 519,
+        "missing": 518,
         "orphan": 0
       },
       "pt": {
@@ -79428,7 +79428,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/chuang-chih-yuan-table-tennis-legend.md",
+          "translatedFrom": "People/莊智淵.md",
+          "sourceCommitSha": "0ea5d5d42",
+          "sourceContentHash": "sha256:8f24d65425473ad4",
+          "sourceBodyHash": "sha256:1216e697fc7e6c44",
+          "translatedAt": "2026-07-26T23:43:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/chuang-chih-yuan-table-tennis-legend.md",
