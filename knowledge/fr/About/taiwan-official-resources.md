@@ -1,136 +1,141 @@
 ---
-title: 'Ressources des sites web officiels de Taïwan'
-description: "Index le plus complet des sites officiels et faisant autorité à Taïwan, couvrant les institutions gouvernementales, la culture, l'éducation, le tourisme, la technologie, l'économie, les médias et bien d'autres domaines."
-tags:
-  - 'Taïwan'
-  - 'sites officiels'
-  - 'ressources gouvernementales'
-  - 'index web'
-  - 'institutions'
-category: 'About'
-subcategory: 'resources'
+title: 'Ressources des sites officiels de Taïwan'
+description: "L'index des ressources officielles de Taiwan.md est l'inventaire le plus complet des sites faisant autorité à Taïwan, couvrant les institutions gouvernementales, la culture, l'éducation, le tourisme, la technologie et les médias."
 date: 2026-03-18
+tags:
+  [
+    'about',
+    'ressources officielles',
+    'index de sites',
+    'institutions gouvernementales',
+    'culture et éducation',
+    'tourisme',
+    'médias',
+  ]
 author: 'Taiwan.md'
 readingTime: 3
-lastVerified: '2026-03-01'
-lastHumanReview: false
 featured: false
+category: 'About'
+lastHumanReview: false
 translatedFrom: 'About/台灣官方網站資源.md'
-sourceCommitSha: '84e04168'
-sourceContentHash: 'sha256:08b967bc1d90e0f6'
+sourceCommitSha: '026e5b584'
+sourceContentHash: 'sha256:3a49c509011ce42d'
 sourceBodyHash: 'sha256:637002941419ff56'
-translatedAt: '2026-06-16T17:13:36Z'
+translatedAt: '2026-07-26T15:11:23+08:00'
 ---
 
-# Ressources des sites web officiels de Taïwan
+# Ressources des sites officiels de Taïwan
 
-Taiwan.md — Ressources des sites web officiels de Taïwan constitue l'index le plus complet des sites officiels et faisant autorité à Taïwan, couvrant les domaines des institutions gouvernementales, de la culture et l'éducation, du tourisme, de la technologie et l'économie, des médias et de l'actualité, entre autres.
+L'index des ressources officielles de Taiwan.md est l'inventaire le plus complet des sites officiels et faisant autorité à Taïwan, couvrant divers domaines tels que les institutions gouvernementales, la culture et l'éducation, le tourisme, la technologie et l'économie, ainsi que les médias et l'actualité.
 
-## Catégories de ressources
+## Classification des ressources
 
 ### 🏛️ Institutions officielles
 
-- **Gouvernement central** : Bureau de la Présidence, Yuan exécutif, Yuan législatif, Yuan judiciaire et les cinq branches du gouvernement
-- **Ministères et agences** : Ministère de la Santé et du Bien-être social, Ministère du Travail, Ministère de l'Environnement, Ministère de l'Agriculture, Ministère de la Défense nationale, Ministère de la Justice, etc.
-- **Gouvernements locaux** : Municipalités spéciales (Taipei, New Taipei, Taichung, Kaohsiung, Tainan, Taoyuan)
-- **Institutions spéciales** : Conseil national de développement (NDC), Conseil pour les affaires de la Chine continentale (MAC), Conseil des peuples autochtones (CIP), etc.
+- **Gouvernement central** : Présidence, Exécutif (Yuan), Législatif (Yuan), Judiciaire (Yuan) et les autres institutions des cinq branches.
+- **Ministères et administrations** : Ministère de la Santé et des Services sociaux, Ministère du Travail, Ministère de l'Environnement, Ministère de l'Agriculture, Ministère de la Défense nationale, Ministère de la Justice, etc.
+  <0xA0>
+- **Gouvernements locaux** : Gouvernements des six grandes métropoles (Taipei, Nouveau Taipei, Taichung, Kaohsiung, Tainan, Taoyuan).
+- **Institutions spécialisées** : Conseil du développement économique (NDC), Commission des affaires continentales (MAC), Commission des populations autochtones, etc.
 
 ### 🎭 Culture et éducation
 
-- **Musées** : Musée national du Palais, Musée national d'histoire de Taïwan, Musée national des sciences naturelles, Musée national de biologie marine et d'aquarium, Musée national de littérature taïwanaise
-- **Universités de premier plan** : Université nationale de Taïwan (NTU), Université nationale Tsing Hua, Université nationale Yang Ming Chiao Tung, Université nationale de Cheng Kung, Université nationale Chengchi, Université normale de Taïwan
-- **Instituts de recherche** : Académie sinique, Conseil national de la science (NSTC)
-- **Institutions artistiques et culturelles** : Centre national des arts du spectacle (Taipei), Centre national des arts du spectacle Wei Wu Ying, Bureau de la création culturelle (TAICCA)
+- **Musées** : Musée national du Palais, Musée national de l'histoire de Taïwan, Musée national de la science naturelle, Académie des sciences et technologies marines, Bibliothèque nationale de littérature taïwanaise.
+- **Universités de premier plan** : Université nationale de Taïwan (NTU), Université nationale de Tsing Hua (NTHU), Université nationale Yang-Ming Chiao Tung (NYCU), Université nationale de Cheng Kung (NCKU), Université politique nationale (NCCU), Université normale nationale (NTNU).
+- **Institutions de recherche** : Academia Sinica, Commission nationale de la science et de la technologie (NSTC).
+- **Institutions culturelles** : Double Théâtre, Centre d'arts de Weiwuying, Commission du contenu créatif.
 
-### ✈️ Tourisme et voyages
+### ✈️ Tourisme et voyage
 
-- **Parcs nationaux** : Parc national de Yushan, Parc national de Taroko, Parc national de Kenting, Parc national de Shei-Pa, Parc national de Yangmingshan
-- **Transports** : Administration des chemins de fer de Taïwan (TRA), Train à grande vitesse de Taïwan (THSR), Taiwan Shuttle Bus (Taiwan Hao Xing)
-- **Institutions officielles** : Administration du tourisme, Agence nationale de l'immigration, Ministère des Transports et des Communications, Administration météorologique centrale
+- **Parcs nationaux** : Mont Yushan, Taroko, Kenting, Xueshang, Yangmingshan.
+- **Transports** : Chemins de fer de Taïwan (TRA), Train à grande vitesse de Taïwan (THSR), Taiwan Tourist Shuttle.
+  <0xA0>
+- **Organismes officiels** : Administration du tourisme, Direction de l'immigration, Ministère des Transports, Bureau météorologique.
 
 ### 💼 Technologie et économie
 
-- **Entreprises phares** : TSMC, UMC, Foxconn (Hon Hai Precision), Delta Electronics
-- **Instituts de R&D** : Institut de l'industrie de l'information (III), Institut national de recherche appliquée (NARLabs), Institut de recherche technologique industrielle (ITRI)
-- **Institutions financières** : Bourse de Taïwan (TWSE), Taipei Exchange (TPEx), Commission de supervision financière (FSC)
-- **Institutions gouvernementales** : Ministère des Affaires économiques, Administration du commerce international, Agence pour le développement des PME
+- **Entreprises emblématiques** : TSMC, UMC, Hon Hai (Foxconn), Delta Electronics.
+- **Institutions de R&D** : ITRI (Institut de recherche de l'industrie technologique), etc.
+- **Institutions financières** : Bourse de Taïwan (TWSE), Taipei Exchange (TPEx), Commission des services financiers (FSC).
+- **Organismes gouvernementaux** : Ministère de l'Économie, Administration du commerce, Administration des petites et moyennes entreprises.
 
-### 📰 Médias et actualité
+### 📰 Médias et actualités
 
-- **Médias officiels** : Agence centrale de presse de Taïwan (CNA), Télévision publique de Taïwan (PTS), Radio Taiwan International, Focus Taiwan
-- **Médias grand public** : United Daily News, Liberty Times, TVBS, Sanlih E-Television, Eastern Television (ETTV)
-- **Médias numériques** : The News Lens, The Reporter, CommonWealth Magazine
+- **Médias officiels** : Central News Agency (CNA), PTS, Radio Taiwan International (RTI), Focus Taiwan.
+- **Médias grand public** : United Daily News, Liberty Times, TVBS, SET News, EBC.
+- **Médias numériques**<0xC2><0xA0>: The News Lens, The Reporter, Commonwealth Magazine.
 
-### 🏥 Santé et bien-être
+### 🏥 Santé et médecine
 
-- **Institutions gouvernementales** : Centres pour le contrôle des maladies de Taïwan (CDC), Administration de l'assurance maladie nationale (NHIA)
-- **Centres médicaux universitaires** : Hôpital de l'Université nationale de Taïwan, Hôpital général des forces armées (VGH), Système médical Chang Gung
+- **Organismes gouvernementaux** : Centre de contrôle des maladies (CDC), Bureau de l'assurance maladie (NHIA).
+- **Centres médicaux** : Hôpital de l'Université nationale de Taïwan, Hôpital militaire universitaire (VGH), Système médical Chang Gung.
 
 ### 🤝 ONG / Société civile
 
-- **Organisations de droits humains** : Association taïwanaise pour les droits de l'homme
-- **Groupes environnementaux** : Centre d'information environnementale, Association de conservation de la nature sauvage
-- **Droits numériques** : Fondation pour la culture ouverte (OCF)
-- **Vérification des faits** : Centre taïwanais de vérification des faits
+- **Organisations de défense des droits de l'homme** : Association pour la promotion des droits de l'homme à Taïwan.
+- **Groupes environnementaux** : Centre d'information environnementale, Wild at Taiwan.
+- **Droits numériques** : Fondation pour la culture ouverte.
+- **Surveillance des médias** : Taiwan FactCheck Center.
 
-### 🎭 Lieux artistiques et culturels
+### 🎭 Lieux culturels et artistiques
 
-- **Musées d'art** : Musée des beaux-arts de Taipei, Musée des beaux-arts de Kaohsiung
-- **Salles de spectacle** : Opéra national de Taichung
-- **Parcs créatifs et culturels** : Songshan Cultural and Creative Park, Huashan 1914 Creative Park, Pier-2 Art Center
+- **Musées d'art** : Musée d'art de Taipei, Musée d'art de Kaohsiung.
+- **Lieux de spectacle** : Opéra national de Taichung.
+- **Parcs créatifs** : Songshan, Huashan, Pier-2.
 
-### 🤖 Corpus d'entraînement IA et données ouvertes
+### 🤖 Corpus IA et données ouvertes
 
-- **[Corpus d'entraînement IA de souveraineté taïwanaise (TAIC)](https://taic.moda.gov.tw)** : Promu par le Ministère du Développement numérique, il rassemble des corpus en chinois traditionnel de haute qualité issus des agences gouvernementales centrales, avec plus de 3 000 jeux de données et plus de 1,1 milliard de tokens, couvrant six grandes catégories : arts et culture, langue et vocabulaire, histoire et patrimoine, culture locale, tourisme, et éducation. Les entreprises et les chercheurs peuvent en faire la demande d'utilisation. La seconde moitié de 2026 verra un élargissement de la collaboration avec le secteur privé.
-- **Plateformes gouvernementales** : Plateforme gouvernementale de données ouvertes (data.gov.tw), Portail gouvernemental
-- **Recherche juridique** : Base de données nationale des réglementations
-- **Participation citoyenne** : g0v (Gouvernement zéro)
-- **Patrimoine culturel numérique** : Taiwan Digital Archives, Banque nationale de mémoire culturelle
+- **[Corpus d'entraînement pour une IA souveraine de Taïwan (TAIC)](https://taic.moda.gov.tw)** : Promu par le Ministère du Développement numérique, ce corpus regroupe des données de haute qualité en chinois traditionnel provenant des institutions centrales. Il comprend plus de 3 000 ensembles de données et plus de 1,1 milliard de tokens, couvrant six grandes catégories : arts et culture, lexique linguistique, patrimoine historique, culture locale, tourisme et éducation. Les entreprises et les institutions de recherche peuvent en demander l'utilisation. Une expansion des collaborations avec le secteur privé est prévue pour la seconde moitié de 2026.
+- **Plateformes gouvernementales** : Plateforme des données ouvertes du gouvernement (data.gov.tw), Portail du gouvernement.
+- **Recherche réglementaire** : Base de données nationale sur les lois et règlements.
+- **Participation citoyenne** : g0v (gouvernement zéro).
+- **Archives culturelles** : Archives de Taïwan, Mémoire culturelle nationale.
 
 ## Statistiques (mars 2026)
 
-- **Nombre total de sites** : plus de 180 sites officiels et faisant autorité
-- **Nombre de catégories** : 12 grandes catégories
-- **Couverture** : gouvernement, éducation, culture, technologie, médias, santé, société civile, arts et culture, transport, entreprises — tous les domaines
+- **Nombre total de sites** : Plus de 180 sites officiels/autoritaires.
+  <0xC2><0xA0>
+- **Nombre de catégories** : 12 grandes catégories.
+- **Portée** : Couverture complète des domaines gouvernementaux, éducatifs, culturels, technologiques, médiatiques, sanitaires, de la société civile, artistiques, des transports et des entreprises.
 
 ### Répartition détaillée
 
-- **Gouvernements locaux** : 22 gouvernements de comtés et municipalités
-- **Universités et instituts de recherche** : 10 universités de premier plan + 5 instituts de recherche
-- **Parcs nationaux** : 9 parcs nationaux et sites pittoresques
-- **Lieux artistiques et culturels** : 13 musées, musées d'art et salles de spectacle majeurs
-- **Santé** : 8 organismes de santé et établissements médicaux
-- **ONG et société civile** : 8 organisations à but non lucratif majeures
-- **Ministères et agences** : 16 organismes du gouvernement central
-- **Entreprises majeures** : 7 entreprises phares et entreprises technologiques
-- **Médias traditionnels** : 11 médias d'information grand public
-- **Transports** : 6 services de transport en commun et de transport
-- **Culture numérique** : 4 plateformes de patrimoine numérique et de vulgarisation scientifique
-- **Sélection essentielle** : 48 sites les plus importants (affichés sur la carte mentale)
+- **Gouvernements locaux** : 22 préfectures et municipalités.
+- **Institutions universitaires et de recherche** : 10 universités de premier plan + 5 institutions de recherche.
+- **Parcs nationaux** : 9 parcs nationaux et zones paysagères.
+- **Lieux culturels** : 13 musées, musées d'art et lieux de spectacle importants.
+- **Santé et médecine** : 8 organismes sanitaires et institutions médicales.
+- **ONG et société civile** : 8 organisations à but non lucratif majeures.
+- **Ministères et administrations** : 16 organismes du gouvernement central.
+- **Entreprises clés** : 7 entreprises emblématiques et sociétés technologiques.
+- **Médias traditionnels** : 11 médias d'information principaux.
+- **Transports** : 6 services de transport public et de transport.
+- **Culture numérique** : 4 plateformes de patrimoine numérique et de vulgarisation scientifique.
+- **Sélection essentielle** : 48 sites les plus importants (visibles sur la carte mentale).
 
 ## Sources et vérification
 
-Tous les sites référencés ont été soumis aux vérifications suivantes :
+Tous les sites répertoriés ont été soumis aux vérifications suivantes :
 
-1. Vérification de l'exactitude des URL
-2. Confirmation du caractère officiel ou faisant autorité
-3. Test d'accessibilité du site
-4. Vérification de l'exhaustivité du contenu
+1. Vérification de l'exactitude de l'URL.
+2. Confirmation du caractère officiel/autoritaire.
+3. Test d'accessibilité du site.
+4. Contrôle de l'exhaustivité du contenu.
 
 ## Mise à jour et maintenance
 
-La liste des ressources est régulièrement mise à jour afin d'assurer :
+La liste des ressources est mise à jour régulièrement afin de garantir :
 
-- L'inclusion rapide des institutions nouvellement créées
-- La mise à jour immédiate des changements d'URL
-- La suppression rapide des liens inactifs
-- L'optimisation continue de l'architecture de classification
+- L'inclusion rapide des nouvelles institutions.
+- La mise à jour immédiate en cas de changement d'URL.
+- Le nettoyage régulier des liens morts.
+- L'optimisation continue de la structure de classification.
 
-## Guide d'utilisation
+## Mode d'emploi
 
 En visitant la [page des ressources de Taiwan.md](https://taiwan.md/resources), vous pouvez :
 
-- Parcourir la liste complète des sites web
-- Explorer à l'aide d'une carte mentale interactive
-- Accéder rapidement au site souhaité
-- Consulter les descriptions des fonctions de chaque institution
+- Parcourir la liste complète des sites.
+- Explorer via une carte mentale interactive.
+- Accéder rapidement aux sites cibles.
+- Consulter les descriptions des fonctions de chaque institution.

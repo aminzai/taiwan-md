@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T16:38:30+08:00",
-    "zhCommitHead": "5b897afc8",
+    "lastUpdated": "2026-07-26T16:38:48+08:00",
+    "zhCommitHead": "2dcc97f5e",
     "totalZh": 868,
     "activeLanguages": [
       "en",
@@ -43,8 +43,8 @@
       },
       "es": {
         "total_zh": 868,
-        "fresh": 725,
-        "stale": 139,
+        "fresh": 726,
+        "stale": 138,
         "metadata_stale": 0,
         "missing": 4,
         "orphan": 0
@@ -36232,16 +36232,16 @@
         "es": {
           "path": "es/Society/taiwan-rural-education.md",
           "translatedFrom": "Society/台灣偏鄉教育.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:44e0e02cb3bfe9f8",
-          "sourceBodyHash": "sha256:275d00c9499cbf78",
-          "translatedAt": "2026-05-16T22:20:03Z",
+          "sourceCommitSha": "4d620ce7b",
+          "sourceContentHash": "sha256:1277fc2755a587fc",
+          "sourceBodyHash": "sha256:64665163579f4d98",
+          "translatedAt": "2026-07-26T13:23:37+08:00",
           "translationLastCommit": "3521fd77",
           "translationLastModified": "2026-05-17T06:34:49+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/taiwan-rural-education.md",
