@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-27T03:46:30+08:00",
-    "zhCommitHead": "f05713db7",
+    "lastUpdated": "2026-07-27T04:01:14+08:00",
+    "zhCommitHead": "f2d364e02",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -67,18 +67,18 @@
       },
       "id": {
         "total_zh": 869,
-        "fresh": 338,
+        "fresh": 339,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 520,
+        "missing": 519,
         "orphan": 0
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 535,
+        "fresh": 538,
         "stale": 12,
         "metadata_stale": 1,
-        "missing": 321,
+        "missing": 318,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 410,
+        "fresh": 414,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 457,
+        "missing": 453,
         "orphan": 0
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 444,
+        "fresh": 447,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 423,
+        "missing": 420,
         "orphan": 0
       }
     },
@@ -2533,10 +2533,32 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Music/taiwan-rock-from-underground-to-mainstream.md",
+          "translatedFrom": "Music/台灣搖滾樂發展史.md",
+          "sourceCommitSha": "da9ebaab4",
+          "sourceContentHash": "sha256:f7363f72c8db19f7",
+          "sourceBodyHash": "sha256:a8ba2c74c0939b6b",
+          "translatedAt": "2026-07-27T03:47:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Music/taiwan-rock-from-underground-to-mainstream.md",
+          "translatedFrom": "Music/台灣搖滾樂發展史.md",
+          "sourceCommitSha": "da9ebaab4",
+          "sourceContentHash": "sha256:f7363f72c8db19f7",
+          "sourceBodyHash": "sha256:a8ba2c74c0939b6b",
+          "translatedAt": "2026-07-27T03:47:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -8167,7 +8189,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/delta-electronics-taiwan-power-giant.md",
+          "translatedFrom": "Economy/台灣企業：台達電子.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:731abae76b18888c",
+          "sourceBodyHash": "sha256:5afb6209c3e31868",
+          "translatedAt": "2026-07-26T23:43:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/delta-electronics-taiwan-power-giant.md",
@@ -13482,8 +13515,8 @@
           "sourceContentHash": "sha256:19e7a45a0852260f",
           "sourceBodyHash": "sha256:a1d16e29348fc28f",
           "translatedAt": "2026-07-27T02:56:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9b69f8d7",
+          "translationLastModified": "2026-07-27T03:46:30+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -34162,7 +34195,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/kuma-academy-civil-defense-school.md",
+          "translatedFrom": "Society/黑熊學院.md",
+          "sourceCommitSha": "cdc7cc719",
+          "sourceContentHash": "sha256:f79e860b49a16b41",
+          "sourceBodyHash": "sha256:dd6e524ad9f23527",
+          "translatedAt": "2026-07-27T03:46:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -36822,10 +36866,32 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/paraguay-taiwan.md",
+          "translatedFrom": "Society/巴拉圭與台灣.md",
+          "sourceCommitSha": "72a8b4432",
+          "sourceContentHash": "sha256:01affe2533530c02",
+          "sourceBodyHash": "sha256:21c703a5d9235d48",
+          "translatedAt": "2026-07-27T03:47:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/paraguay-taiwan.md",
+          "translatedFrom": "Society/巴拉圭與台灣.md",
+          "sourceCommitSha": "72a8b4432",
+          "sourceContentHash": "sha256:01affe2533530c02",
+          "sourceBodyHash": "sha256:21c703a5d9235d48",
+          "translatedAt": "2026-07-27T03:47:01+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -43967,7 +44033,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Nature/marine-pollution-governance-and-conservation.md",
+          "translatedFrom": "Nature/台灣海洋污染治理與保育挑戰.md",
+          "sourceCommitSha": "1d54cbe52",
+          "sourceContentHash": "sha256:3725125046bb0302",
+          "sourceBodyHash": "sha256:c208c01efc93c70e",
+          "translatedAt": "2026-07-26T23:43:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -57082,7 +57159,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/jeremy-lin.md",
+          "translatedFrom": "People/林書豪.md",
+          "sourceCommitSha": "85926aa3b",
+          "sourceContentHash": "sha256:5bcf40616e842909",
+          "sourceBodyHash": "sha256:15c8e50bb3ba07a7",
+          "translatedAt": "2026-07-26T23:43:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/jeremy-lin.md",
@@ -58973,15 +59061,26 @@
           "sourceContentHash": "sha256:05733d2c54bfc625",
           "sourceBodyHash": "sha256:77382e9a08c09f18",
           "translatedAt": "2026-07-27T01:41:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9b69f8d7",
+          "translationLastModified": "2026-07-27T03:46:30+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/cheng-chou-yu-poet.md",
+          "translatedFrom": "People/鄭愁予.md",
+          "sourceCommitSha": "cce7f2522",
+          "sourceContentHash": "sha256:05733d2c54bfc625",
+          "sourceBodyHash": "sha256:77382e9a08c09f18",
+          "translatedAt": "2026-07-27T03:46:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -63911,7 +64010,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/shih-ming-te.md",
+          "translatedFrom": "People/施明德.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:c7a690e21bd72631",
+          "sourceBodyHash": "sha256:f379180b5e8bcecc",
+          "translatedAt": "2026-07-26T23:43:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/shih-ming-te.md",
@@ -90630,7 +90740,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/resolution-on-taiwans-future.md",
+          "translatedFrom": "History/臺灣前途決議文.md",
+          "sourceCommitSha": "dd39065b2",
+          "sourceContentHash": "sha256:d8a522bc82b5f1d6",
+          "sourceBodyHash": "sha256:c8ff273540a02078",
+          "translatedAt": "2026-07-26T23:43:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -99577,8 +99698,8 @@
           "sourceContentHash": "sha256:244cad849cf26403",
           "sourceBodyHash": "sha256:fd14be167daa0221",
           "translatedAt": "2026-07-27T01:41:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9b69f8d7",
+          "translationLastModified": "2026-07-27T03:46:30+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -99991,8 +100112,8 @@
           "sourceContentHash": "sha256:d85bf01115410778",
           "sourceBodyHash": "sha256:be641d09ea1153ea",
           "translatedAt": "2026-07-27T02:56:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9b69f8d7",
+          "translationLastModified": "2026-07-27T03:46:30+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
