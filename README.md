@@ -24,12 +24,14 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 ## ✨ Features
 
 - 📖 **863 curated articles** (zh-TW SSOT) across 14 categories — projected to **12 languages** = 10,356 article-versions
-- 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी — 9 languages (2026-07-19 主權的巴別塔擴到九語)
+- 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी + العربية + Русский — 12 languages (2026-07-25 主權的巴別塔加入 ar/ru，站上首次 RTL)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
 - 🌳 **Resource mindmap** — D3.js bidirectional tidy tree with 146+ official Taiwan websites
 - 📊 **[Live dashboard](https://taiwan.md/dashboard)** — real-time organism health monitor (GA4, quality scores, growth charts)
 - 🖥️ **[CLI tool](https://taiwan.md/contribute#cli)** — `npx taiwanmd` for terminal-native reading, quiz, search, RAG
+- 🔌 **[MCP connector](cli/CONNECTOR.md)** — plug Taiwan.md into Claude Code / Claude Desktop / Cursor / any MCP client and get source-backed answers instead of guesses. Free, no API key, runs locally
+- 🤝 **[Claude Code plugin](.claude/plugin/taiwanmd/README.md)** — one line installs the connector _and_ the contributor-node skill, which lets your own machine pick up one open task a day and return it as a PR
 - 🎭 **Curated, not encyclopedic** — every page answers "why this matters"
 - 📐 **Three-layer depth** — 30-sec overview → 5-min read → full article
 - 🎨 **Literary curatorial style** — Noto Serif TC, essay-driven, inspired by 報導者
@@ -39,6 +41,51 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 - 📝 **Zero-code contribution** — forms, AI prompts, or email
 - 🔓 **CC BY-SA 4.0** — free to cite, remix, share
 - 📚 **Source-cited** — every article includes references and data attribution
+
+---
+
+## 🪜 Use it, or join it
+
+Four rungs. Each one is a single line, and each one is optional — plenty of
+people stop at the first.
+
+```bash
+npx taiwanmd          # prints this ladder, with live article/language counts
+```
+
+**1 · Read** — [taiwan.md](https://taiwan.md), 12 languages.
+
+**2 · Ask** — plug the knowledge base into your AI so it answers about Taiwan
+from cited articles instead of from whatever it absorbed:
+
+```bash
+claude mcp add taiwanmd -- npx -y taiwanmd mcp serve
+```
+
+Free, no API key, no account. The server runs on your machine over stdio and
+your questions are not sent anywhere. Cursor, Claude Desktop, Codex CLI and any
+other MCP client work too — see [CONNECTOR.md](cli/CONNECTOR.md). A remote
+endpoint lives at `https://mcp.taiwan.md` for clients that can't run Node.
+
+**3 · Write** — scaffold an article, edit it, open a PR:
+
+```bash
+npx taiwanmd contribute "你想寫的主題"
+```
+
+**4 · Run a node** — turn your machine into a working node. It wakes once a
+day, picks up one open task (a missing translation, a broken link, a metadata
+gap), does it properly, and opens a pull request:
+
+```bash
+claude plugin marketplace add frank890417/taiwan-md
+claude plugin install taiwanmd
+```
+
+A node's output always stops at a pull request. It never pushes to this
+repository, never merges, never posts anywhere as a maintainer. Merge stays with
+a human — that boundary is the design, not a limitation. The full contract is
+[CONTRIBUTOR-NODE-PIPELINE.md](docs/pipelines/CONTRIBUTOR-NODE-PIPELINE.md).
 
 ---
 
