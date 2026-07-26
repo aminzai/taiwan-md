@@ -323,6 +323,7 @@ def restore_head_or_quarantine(path_str: str, log: Logger) -> str:
 class RunState:
     def __init__(self):
         self.lock = threading.Lock()
+        self.total_ok: int = 0                            # run 累計成功數（空轉偵測用）
         self.pending_ok: dict = defaultdict(int)          # lang -> count since last commit
         self.pending_since: dict = {}                     # lang -> monotonic time of first pending item
         self.pending_workers: dict = defaultdict(set)     # lang -> {worker labels} since last commit
@@ -657,6 +658,7 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
 
     if ok:
         with state.lock:
+            state.total_ok += 1
             state.pending_ok[lang] += 1
             state.pending_workers[lang].add(worker.label)
             state.pending_files[lang].append(trans_path)
@@ -779,8 +781,10 @@ def main() -> None:
     seen_missing_slug: set = set()
     total_enqueued = 0
 
+    barren_rounds = 0            # 連續零產出輪數（空轉偵測，見下方 break）
     for round_num in range(1, args.rounds + 1):
         log(f"\n===== ROUND {round_num} {datetime.now().astimezone().isoformat(timespec='seconds')} =====")
+        ok_before_round = state.total_ok
         status_data = refresh_status(log)
 
         langs = langs_requested or default_langs(status_data)
@@ -851,6 +855,21 @@ def main() -> None:
             since = state.pending_since.get(lang)
             if since is not None and now - since >= FLUSH_AGE_S:
                 do_commit(lang, state, args.no_commit, log)
+
+        # 空轉偵測（2026-07-26）：worker 的 endpoint 掛掉時（遠端機器離線、
+        # ollama 服務停），既有的 freeze 機制會把它凍結，但**單 worker 產線的
+        # 唯一 worker 被凍結後，round loop 照樣一輪一輪跑 prepare-batch**——
+        # process 活著、log 在動、實際零產出。實撞：l4090 專軌在遠端機器離線後
+        # 空轉到第 127 輪才被發現，ps 看起來完全正常。
+        # 連續三輪零產出就結束 run，讓外部監護（渦流檢查或 routine）重新起跑。
+        if state.total_ok == ok_before_round:
+            barren_rounds += 1
+            if barren_rounds >= 3:
+                log(f"🛑 連續 {barren_rounds} 輪零產出 — 判定空轉（worker endpoint 可能全掛），"
+                    f"結束 run 讓外部重新起跑")
+                break
+        else:
+            barren_rounds = 0
 
         if args.max_articles is not None and total_enqueued >= args.max_articles:
             log(f"max-articles budget ({args.max_articles}) reached after round {round_num} — stopping.")
