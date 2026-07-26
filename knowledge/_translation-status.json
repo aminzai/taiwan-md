@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T23:26:17+08:00",
-    "zhCommitHead": "d09787394",
+    "lastUpdated": "2026-07-26T23:34:51+08:00",
+    "zhCommitHead": "bde3dec2d",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -35,8 +35,8 @@
       },
       "ko": {
         "total_zh": 869,
-        "fresh": 729,
-        "stale": 134,
+        "fresh": 728,
+        "stale": 135,
         "metadata_stale": 1,
         "missing": 5,
         "orphan": 0
@@ -59,50 +59,50 @@
       },
       "vi": {
         "total_zh": 869,
-        "fresh": 232,
+        "fresh": 234,
         "stale": 16,
         "metadata_stale": 1,
-        "missing": 620,
+        "missing": 618,
         "orphan": 0
       },
       "id": {
         "total_zh": 869,
-        "fresh": 316,
+        "fresh": 318,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 542,
+        "missing": 540,
         "orphan": 0
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 502,
+        "fresh": 504,
         "stale": 12,
         "metadata_stale": 1,
-        "missing": 354,
+        "missing": 352,
         "orphan": 0
       },
       "hi": {
         "total_zh": 869,
-        "fresh": 392,
+        "fresh": 395,
         "stale": 6,
         "metadata_stale": 2,
-        "missing": 469,
+        "missing": 466,
         "orphan": 0
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 376,
+        "fresh": 380,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 491,
+        "missing": 487,
         "orphan": 0
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 410,
+        "fresh": 414,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 457,
+        "missing": 453,
         "orphan": 0
       }
     },
@@ -8611,7 +8611,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/formosa-plastics-group.md",
+          "translatedFrom": "Economy/台灣企業：台塑集團.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:542041b17da4dbbd",
+          "sourceBodyHash": "sha256:81797ae5614d2f0c",
+          "translatedAt": "2026-07-26T21:33:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -14616,7 +14627,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/taiwan-digital-animation-industry.md",
+          "translatedFrom": "Technology/台灣數位影像與動畫產業.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:692543a60baf3299",
+          "sourceBodyHash": "sha256:bb5064886298647d",
+          "translatedAt": "2026-07-26T21:33:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/taiwan-digital-animation-industry.md",
@@ -15575,7 +15597,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Technology/open-source-and-g0v.md",
+          "translatedFrom": "Technology/開源社群與g0v.md",
+          "sourceCommitSha": "6eeee35c8",
+          "sourceContentHash": "sha256:ccabd00d4cba7d6b",
+          "sourceBodyHash": "sha256:c135fc23da71593b",
+          "translatedAt": "2026-07-26T21:33:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -17967,16 +18000,18 @@
         "ko": {
           "path": "ko/Technology/taiwan-semiconductor-industry.md",
           "translatedFrom": "Technology/半導體產業.md",
-          "sourceCommitSha": "c85a9b6f7",
-          "sourceContentHash": "sha256:b496186c7d76e85e",
-          "sourceBodyHash": "sha256:3bf42ee02082c616",
-          "translatedAt": "2026-07-26T21:34:55+08:00",
+          "sourceCommitSha": "31a05c44",
+          "sourceContentHash": "sha256:353dd1410e58546f",
+          "sourceBodyHash": "sha256:b4789b1cdfeb8d09",
+          "translatedAt": "2026-06-16T16:55:29Z",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 2,
+          "diffSummary": "+8 -7"
         },
         "es": {
           "path": "es/Technology/taiwan-semiconductor-industry.md",
@@ -21246,7 +21281,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Art/taiwanese-theater-and-performing-arts.md",
+          "translatedFrom": "Art/台灣劇場與表演藝術.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:cddfbcb9ade43ff2",
+          "sourceBodyHash": "sha256:0f8dee8662286dcf",
+          "translatedAt": "2026-07-26T21:33:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/taiwanese-theater-and-performing-arts.md",
@@ -29073,7 +29119,18 @@
           "reason": "hash-match-sha-lost"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/teach-for-taiwan.md",
+          "translatedFrom": "Society/為台灣而教TFT.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d24206673c791f9a",
+          "sourceBodyHash": "sha256:2ed9c66e6cdd44d6",
+          "translatedAt": "2026-07-26T23:26:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -30150,7 +30207,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/where-did-taiwan-moral-education-go.md",
+          "translatedFrom": "Society/台灣的道德課去哪了.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:9e2e35c86cfffed4",
+          "sourceBodyHash": "sha256:def0fbd84e75d95c",
+          "translatedAt": "2026-07-26T23:26:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/where-did-taiwan-moral-education-go.md",
@@ -33944,7 +34012,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/media-and-press-freedom-in-taiwan.md",
+          "translatedFrom": "Society/台灣媒體與新聞自由.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:2b07b58b99abcb36",
+          "sourceBodyHash": "sha256:9e2facc3bed645dd",
+          "translatedAt": "2026-07-26T21:33:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Society/media-and-press-freedom-in-taiwan.md",
@@ -41514,7 +41593,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Nature/taiwan-marine-conservation-challenges.md",
+          "translatedFrom": "Nature/台灣海洋保育與挑戰.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:0c4a6676abd7e73d",
+          "sourceBodyHash": "sha256:fe639063298f999a",
+          "translatedAt": "2026-07-26T21:33:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Nature/taiwan-marine-conservation-challenges.md",
@@ -45423,7 +45513,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Nature/taiwanese-leopard-cat-conservation.md",
+          "translatedFrom": "Nature/台灣石虎保育.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:bbca77501c197a81",
+          "sourceBodyHash": "sha256:76487fd0d26564e6",
+          "translatedAt": "2026-07-26T21:33:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Nature/taiwanese-leopard-cat-conservation.md",
@@ -54234,7 +54335,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/fang-yi-sheu-body-storyteller.md",
+          "translatedFrom": "People/許芳宜.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:a31b5339a894147e",
+          "sourceBodyHash": "sha256:e2e71f85bef4ed48",
+          "translatedAt": "2026-07-26T21:33:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -67672,7 +67784,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/ming-hua-yuan.md",
+          "translatedFrom": "People/明華園.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:ebe4d277504f2738",
+          "sourceBodyHash": "sha256:ad65be5d0003de06",
+          "translatedAt": "2026-07-26T21:33:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -68098,7 +68221,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/deng-yu-xian-taiwanese-song-composer.md",
+          "translatedFrom": "People/鄧雨賢.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:03f4c1611aa95a6c",
+          "sourceBodyHash": "sha256:0d86dfd69dceab10",
+          "translatedAt": "2026-07-26T21:33:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -68414,7 +68548,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/chu-ching-wu.md",
+          "translatedFrom": "People/朱經武.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:79c87fb84a11dd9d",
+          "sourceBodyHash": "sha256:619ef92c56c46024",
+          "translatedAt": "2026-07-26T21:33:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -71647,7 +71792,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/yung-ching-wang-formosa-plastics-founder.md",
+          "translatedFrom": "People/王永慶.md",
+          "sourceCommitSha": "1e180a591",
+          "sourceContentHash": "sha256:09b83ca512f814fd",
+          "sourceBodyHash": "sha256:2035945bf29ced7a",
+          "translatedAt": "2026-07-26T21:33:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -104444,7 +104600,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/renjian-magazine.md",
+          "translatedFrom": "Culture/人間雜誌.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:2ffcb35d7f3de902",
+          "sourceBodyHash": "sha256:b931a657eacbce86",
+          "translatedAt": "2026-07-26T21:33:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/renjian-magazine.md",
@@ -105656,7 +105823,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/taiwan-anime-culture.md",
+          "translatedFrom": "Culture/台灣動漫文化.md",
+          "sourceCommitSha": "85926aa3b",
+          "sourceContentHash": "sha256:4f2929a499d24ac8",
+          "sourceBodyHash": "sha256:87f8032127a53d42",
+          "translatedAt": "2026-07-26T21:33:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 2,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/taiwan-anime-culture.md",
@@ -108796,7 +108974,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/taiwan-incense-making-culture-and-heritage.md",
+          "translatedFrom": "Culture/台灣製香文化與香腳原鄉.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:90f09bc6a0a80e4d",
+          "sourceBodyHash": "sha256:396be33a77ed6ba1",
+          "translatedAt": "2026-07-26T21:33:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/taiwan-incense-making-culture-and-heritage.md",
