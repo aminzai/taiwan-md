@@ -48,7 +48,14 @@ API_CHAT = "https://openrouter.ai/api/v1/chat/completions"
 PRC_ORIGIN_PREFIXES = ("qwen/", "deepseek/", "z-ai/", "baidu/", "inclusionai/",
                         "minimax/", "moonshot/", "01-ai/", "zhipu/")
 SPECIALIZED_MARKERS = ("code", "coder", "content-safety", "-vl", "embed", "guard")
-MIN_SIZE_HINT_B = 12  # skip if a size number in the id is below this AND no MoE "a" marker
+MIN_SIZE_HINT_B = 30  # 2026-07-26 從 12 提到 30（哲宇 directive「至少要 gemma4 /
+# oss 120 / nemotron / qwen 等級，不然會留很多問題債」）。20B 級模型即使偶爾通過
+# 閘門，譯文品質也在及格線邊緣——閘門擋得住結構錯誤與整段沒翻，擋不住「每句都翻了
+# 但讀起來不對」，而那些會落地成讀者看到的內容且不會有人回報。缺算力的正解是等額度
+# 或加機器，不是降級模型。見 SQUEEZE §入池門檻。
+
+# 明確排除清單：即使通過其他篩選也不入池（實測品質不足）
+BLOCKED_MODELS = ("openai/gpt-oss-20b", "google/gemma-4-12b")
 
 
 def load_key():
@@ -97,6 +104,8 @@ def cmd_list(args):
             flags.append("specialized")
         if size_hint_b(m["id"]) < MIN_SIZE_HINT_B:
             flags.append("too-small")
+        if m["id"] in BLOCKED_MODELS:
+            flags.append("BLOCKED")
         print(f"{i:<5}{m['id']:<50}{m.get('context_length','?'):<10}{','.join(flags) or '-'}")
 
 
@@ -167,6 +176,10 @@ def score_candidate(key, model_id):
 def cmd_calibrate(args):
     key = load_key()
     free = fetch_free_models(key)
+    # 入池門檻先擋（2026-07-26）：太小或明確排除的模型連校準都不跑——校準通過
+    # 不代表品質夠，20B 級模型能過閘門但譯文在及格線邊緣（見 SQUEEZE §入池門檻）。
+    free = [m for m in free
+            if size_hint_b(m["id"]) >= MIN_SIZE_HINT_B and m["id"] not in BLOCKED_MODELS]
     free.sort(key=rank_score)
     candidates = free[: args.top]
 
