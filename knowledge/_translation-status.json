@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-27T02:08:23+08:00",
-    "zhCommitHead": "245996043",
+    "lastUpdated": "2026-07-27T02:14:14+08:00",
+    "zhCommitHead": "e67d397f0",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -51,8 +51,8 @@
       },
       "fr": {
         "total_zh": 869,
-        "fresh": 736,
-        "stale": 130,
+        "fresh": 737,
+        "stale": 129,
         "metadata_stale": 0,
         "missing": 3,
         "orphan": 0
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 869,
-        "fresh": 329,
+        "fresh": 331,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 529,
+        "missing": 527,
         "orphan": 0
       },
       "pt": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 430,
+        "fresh": 431,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 437,
+        "missing": 436,
         "orphan": 0
       }
     },
@@ -4485,7 +4485,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/giant-manufacturing-taiwan-bicycle-empire.md",
+          "translatedFrom": "Economy/台灣企業：巨大機械.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:59a5006dd9b19748",
+          "sourceBodyHash": "sha256:ba1854308daac0e3",
+          "translatedAt": "2026-07-26T23:43:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/giant-manufacturing-taiwan-bicycle-empire.md",
@@ -18691,18 +18702,16 @@
         "fr": {
           "path": "fr/Technology/mini-taiwan-pulse-civic-tech.md",
           "translatedFrom": "Technology/mini-taiwan-pulse.md",
-          "sourceCommitSha": "905aa4a82",
-          "sourceContentHash": "sha256:93ceaae8bc44512f",
-          "sourceBodyHash": "sha256:941fb85e8f2fbb98",
-          "translatedAt": "2026-06-26T00:38:47+08:00",
+          "sourceCommitSha": "da22dc5b2",
+          "sourceContentHash": "sha256:b4fa10553d998dfa",
+          "sourceBodyHash": "sha256:6475e91be41d93b4",
+          "translatedAt": "2026-07-27T01:30:19+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Technology/mini-taiwan-pulse-civic-tech.md",
@@ -99078,7 +99087,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/kaohsiung-city.md",
+          "translatedFrom": "Geography/高雄市.md",
+          "sourceCommitSha": "a5490c043",
+          "sourceContentHash": "sha256:244cad849cf26403",
+          "sourceBodyHash": "sha256:fd14be167daa0221",
+          "translatedAt": "2026-07-27T01:41:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -100944,7 +100964,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/taichung-city.md",
+          "translatedFrom": "Geography/台中市.md",
+          "sourceCommitSha": "edc2ba810",
+          "sourceContentHash": "sha256:e6912f140d4ddcf3",
+          "sourceBodyHash": "sha256:3039a7c79e8554d9",
+          "translatedAt": "2026-07-27T01:41:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
