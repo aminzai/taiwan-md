@@ -4,7 +4,7 @@ description: 'Mode 4 設計報告：盤點 v9.4 產線真實形狀、演化四�
 type: 'design-report'
 date: 2026-07-26
 session: '2026-07-26-rewrite-throughput'
-status: 'awaiting-observer-decision'
+status: 'decided-2026-07-26-implemented'
 upstream_canonical:
   - 'docs/pipelines/REWRITE-PIPELINE.md'
   - 'docs/pipelines/EVOLVE-PIPELINE.md (Mode 3/4)'
@@ -241,5 +241,41 @@ v7 時代研究單獨 commit（施振榮／楊德昌／公車／人權館／尹�
 4. 方案 C lite 檔：先等兩三篇數據，還是跟 A/B 一起上？
 5. 方案 E 接力模式：要不要排一篇 pilot？
 6. 排序照 §六 走？（B → A → D → C → E pilot）
+
+---
+
+## §十 拍板結果與實作定案（2026-07-26，哲宇 /goal）
+
+哲宇六答：**1 OK／2 不確定／3 要／4 直接上 lite 版但未來要記得維護／5 好／6 OK**，
+加總 directive「全部實作、進化 DNA 與 pipeline、深度思考對長線最好的策略、歸檔實作報告後完整實作」。
+
+**對「2 不確定」的定案**：大驗證輪照做，但補第四步「**變更節定向複驗**」直接回應疑慮——
+批修完成後派 1 個 Sonnet verifier 只讀被動過的節（含該節 footnote 綁定）＋工具全套重跑。
+修了哪裡就複驗哪裡，是 Step 3.6.4 自修紀律的批修版；flagship 與自修 ≥3 輪仍走全套重跑。
+這比「席位全部重跑一輪」便宜一個量級，比「不複驗」誠實一個量級。
+
+**對「4 未來要記得維護」的定案**：lite 維護條款寫進三處 canonical——REWRITE-PIPELINE
+§Run profiles（參數非定案、callout 即升級複驗、callout 率高於 standard 即回調）、
+Step 0.1.6 判錯回路、EVOLVE Mode 3 §產線成本審視（每週用 stage-events 實測重校 lite 參數）。
+維護不靠記憶，靠 weekly routine 的必經路徑。
+
+**實作清單落地對照**（§七 → 實際 ship）：
+
+| §七 項                    | 落點                                                                                                      | 狀態                               |
+| ------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| 1 fact-atom-diff.py       | `scripts/tools/fact-atom-diff.py`（--selftest 六 fixture）                                                | ✅                                 |
+| 2 Step 3.8 定稿站         | REWRITE-STAGE-3-VERIFY v9.5（AGENT PROMPT＋流程＋邊界）＋Hard Gate Inventory＋派發表 9b＋編排表           | ✅                                 |
+| 3 大驗證輪                | REWRITE-STAGE-3-VERIFY §Stage 3 收驗編排（五步）＋2E spawn 時機註＋派發表 row 9                           | ✅                                 |
+| 4 newsroom 真實時間戳     | generate-newsroom-data.py＋`reports/newsroom/stage-events.jsonl`（bootstrap 不偽造歷史、idempotent 實測） | ✅                                 |
+| 5 stage 產物落地即 commit | 11 份 contract HANDOFF 步 1＋派發鐵律 2                                                                   | ✅                                 |
+| 6 gate catch-rate         | EVOLVE Mode 3 §產線成本審視＋觸發訊號表 +2 行＋self-evolve skill 掛載                                     | ✅                                 |
+| 7 lite profile            | REWRITE-PIPELINE §Run profiles 三檔＋Step 0.1.6 選檔＋維護條款                                            | ✅（參數標記「非定案，週審重校」） |
+| 8 接力模式 pilot          | REWRITE-PIPELINE §接力模式 pilot 條款；pilot 排下一篇非時效深度文                                         | 🕐 條款 ship，pilot 待跑           |
+| 9 版本對齊                | 主檔 v9.0→v9.5（吸收 v9.2/v9.4 漂移）                                                                     | ✅                                 |
+
+**長線策略三句**（回應「深度幫我思考對長線最好的策略」）：把哲宇在場時間當最稀缺資源設計
+（接力模式方向）；讓產線自己有新陳代謝（成本審視讓減法跟加法用同一種證據說話，這次的
+3 小時病才不會再長回來）；分級變常態（文章量再長十倍時不可能每篇 30 agent，lite 是
+算力預算的閥門）。
 
 🧬
