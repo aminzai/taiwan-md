@@ -915,7 +915,29 @@ class TranslationBackend(ABC):
 
 新 backend 加入 = 寫一個 subclass + register 進 `__init__.py`，不動 pipeline 任何其他地方。
 
-### Cascade orchestrator
+### 模型 × 語言適配：同一個模型對不同語言的落差可以到十倍
+
+2026-07-26 實測（免費雲端池，同批文章、同時段、n≈250）：
+
+| 語言   | nemotron-3-ultra | laguna-xs | qwen3.6（本機） |
+| ------ | ---------------: | --------: | --------------: |
+| 越南語 |         **2-6%** |   **50%** |             28% |
+| 印尼語 |           19-22% |       38% |             39% |
+
+越南語在 nemotron 上的通過率只有印尼語的四分之一，而換成 laguna 就跳到 50%——
+同一批文章、同一套閘門。**這不是佇列問題也不是文章難度問題，是模型與語言的適配
+落差**，而它會偽裝成「這個語言比較難翻」的假象（越南語一度是十一語裡覆蓋率墊底，
+落後同期出生的印尼語一大截）。
+
+**操作規則**：任一語言的通過率明顯低於同批其他語言時，先按 worker 拆開看
+（`report.jsonl` 的 `worker` 欄），不要直接歸因於語言難度或文章品質。若某模型
+對該語言明顯偏弱，開專軌繞過它，而不是加大重試次數——重試只會讓同一個弱適配
+再燒一次算力。
+
+**誕生**：2026-07-26 vi 通過率 10% 追查。開 vi 專軌（laguna×2＋oss20，繞過
+nemotron）後觀察。
+
+## Cascade orchestrator
 
 ```python
 cascade = build_cascade("codex,openrouter:owl-alpha,openrouter:openai/gpt-oss-120b:free,gemini,ollama")
