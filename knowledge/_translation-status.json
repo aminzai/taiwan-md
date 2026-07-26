@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-27T00:01:59+08:00",
-    "zhCommitHead": "6d02096f9",
+    "lastUpdated": "2026-07-27T00:19:11+08:00",
+    "zhCommitHead": "da5c67bfa",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -51,8 +51,8 @@
       },
       "fr": {
         "total_zh": 869,
-        "fresh": 735,
-        "stale": 131,
+        "fresh": 736,
+        "stale": 130,
         "metadata_stale": 0,
         "missing": 3,
         "orphan": 0
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 869,
-        "fresh": 321,
+        "fresh": 322,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 537,
+        "missing": 536,
         "orphan": 0
       },
       "pt": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 386,
+        "fresh": 387,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 481,
+        "missing": 480,
         "orphan": 0
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 418,
+        "fresh": 419,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 449,
+        "missing": 448,
         "orphan": 0
       }
     },
@@ -7556,8 +7556,8 @@
           "sourceContentHash": "sha256:54da57abafa311d1",
           "sourceBodyHash": "sha256:eb1efaa0a4f468ff",
           "translatedAt": "2026-07-26T19:42:10+08:00",
-          "translationLastCommit": "3521fd77",
-          "translationLastModified": "2026-05-17T06:34:49+08:00",
+          "translationLastCommit": "08d84e12",
+          "translationLastModified": "2026-07-27T00:01:59+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -10896,7 +10896,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/taiwan-textile-industry.md",
+          "translatedFrom": "Economy/紡織業.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:35a33cde93fda77c",
+          "sourceBodyHash": "sha256:3e72d2709a13a90b",
+          "translatedAt": "2026-07-26T23:53:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -22525,7 +22536,18 @@
           "reason": "hash-match-sha-lost"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Art/alien-art-centre.md",
+          "translatedFrom": "Art/金馬賓館當代美術館.md",
+          "sourceCommitSha": "209084a3c",
+          "sourceContentHash": "sha256:29f8c92d6f9ec4f0",
+          "sourceBodyHash": "sha256:ab8b8f728e87222a",
+          "translatedAt": "2026-07-26T23:53:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/alien-art-centre.md",
@@ -37414,8 +37436,8 @@
           "sourceContentHash": "sha256:1277fc2755a587fc",
           "sourceBodyHash": "sha256:64665163579f4d98",
           "translatedAt": "2026-07-26T19:42:10+08:00",
-          "translationLastCommit": "34f20b3e",
-          "translationLastModified": "2026-07-25T07:05:03+08:00",
+          "translationLastCommit": "08d84e12",
+          "translationLastModified": "2026-07-27T00:01:59+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -41104,18 +41126,16 @@
         "fr": {
           "path": "fr/About/founder.md",
           "translatedFrom": "About/taiwan-md.md",
-          "sourceCommitSha": "685f46da3",
-          "sourceContentHash": "sha256:8102987729966ad2",
-          "sourceBodyHash": "sha256:530088fbc265e8e5",
-          "translatedAt": "2026-06-19T11:57:16+08:00",
+          "sourceCommitSha": "b8160c741",
+          "sourceContentHash": "sha256:de46b78b6b1ae5fb",
+          "sourceBodyHash": "sha256:ba0673429f6e80dd",
+          "translatedAt": "2026-07-26T22:27:50+08:00",
           "translationLastCommit": "0597bc0e",
           "translationLastModified": "2026-07-23T22:29:23+09:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -42247,8 +42267,8 @@
           "sourceContentHash": "sha256:578491ed43f8d7d0",
           "sourceBodyHash": "sha256:be3b3f9150c7c64e",
           "translatedAt": "2026-07-26T19:42:10+08:00",
-          "translationLastCommit": "6d380826",
-          "translationLastModified": "2026-07-25T15:39:17+08:00",
+          "translationLastCommit": "08d84e12",
+          "translationLastModified": "2026-07-27T00:01:59+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -89517,7 +89537,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/mudan-incident.md",
+          "translatedFrom": "History/牡丹社事件.md",
+          "sourceCommitSha": "1b3c22ac7",
+          "sourceContentHash": "sha256:91f467d8cc029b74",
+          "sourceBodyHash": "sha256:1f92c860af97938e",
+          "translatedAt": "2026-07-26T23:53:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
