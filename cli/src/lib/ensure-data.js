@@ -10,6 +10,7 @@ import fs from 'fs';
 import path from 'path';
 import os from 'os';
 import chalk from 'chalk';
+import { execFileSync } from 'child_process';
 import { runSync } from '../commands/sync.js';
 
 const STANDALONE_KNOWLEDGE_DIR = path.join(
@@ -66,16 +67,91 @@ function hasLocalData() {
 
 let _synced = false; // avoid running sync more than once per process
 
+// How old the standalone knowledge base may get before we say something.
+// Taiwan.md ships roughly 20-30 articles a week, so a fortnight is already a
+// visibly different Taiwan.
+const STALE_WARN_DAYS = 14;
+// Past this we stop asking and just refresh: at this range the answers are no
+// longer about the same knowledge base.
+const STALE_AUTO_SYNC_DAYS = 60;
+
 /**
- * Ensure the knowledge base is available.
- * If not, automatically triggers a sync with user-facing progress messages.
+ * Age of the standalone knowledge base, in days, from the last commit it holds.
+ * Returns null in-repo (git handles freshness there) or when it can't be read.
+ *
+ * @returns {number|null}
+ */
+export function getDataAgeDays() {
+  if (isInRepo()) return null;
+  const gitDir = path.join(STANDALONE_KNOWLEDGE_DIR, '.git');
+  if (!fs.existsSync(gitDir)) return null;
+  try {
+    const iso = execFileSync(
+      'git',
+      ['-C', STANDALONE_KNOWLEDGE_DIR, 'log', '-1', '--format=%cI'],
+      { encoding: 'utf-8', stdio: ['ignore', 'pipe', 'ignore'] },
+    ).trim();
+    if (!iso) return null;
+    const ms = Date.now() - new Date(iso).getTime();
+    if (!Number.isFinite(ms)) return null;
+    return Math.floor(ms / 86_400_000);
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * Ensure the knowledge base is available *and not silently ancient*.
+ *
+ * The freshness half was missing until 2026-07-26: this function only ever
+ * asked "is there data", so a copy synced in April kept answering questions
+ * about Taiwan with April's Taiwan, indefinitely, with nothing on screen to
+ * suggest otherwise. Measured on the author's own machine: 97 days old,
+ * reporting 2255 articles when the real count was 863. A knowledge base that
+ * quietly serves stale answers is worse than one that admits it is empty.
  *
  * @param {object} [options]
- * @param {boolean} [options.quiet] - Suppress the "syncing…" banner
+ * @param {boolean} [options.quiet] - Suppress banners
  */
 export async function ensureData(options = {}) {
   if (_synced) return;
-  if (hasLocalData()) return;
+
+  if (hasLocalData()) {
+    const age = getDataAgeDays();
+    if (age === null) return;
+
+    if (age >= STALE_AUTO_SYNC_DAYS) {
+      if (!options.quiet) {
+        console.log(
+          chalk.yellow(
+            `\n  🕐 本機知識庫已經 ${age} 天沒更新，正在自動同步...\n`,
+          ),
+        );
+      }
+      try {
+        await runSync({ silent: !!options.quiet });
+        _synced = true;
+      } catch {
+        if (!options.quiet) {
+          console.log(
+            chalk.gray(
+              '  自動同步沒成功，先用舊資料。手動更新：taiwanmd sync\n',
+            ),
+          );
+        }
+      }
+      return;
+    }
+
+    if (age >= STALE_WARN_DAYS && !options.quiet) {
+      console.log(
+        chalk.yellow(
+          `  🕐 本機知識庫是 ${age} 天前的版本，跑 taiwanmd sync 更新\n`,
+        ),
+      );
+    }
+    return;
+  }
 
   if (!options.quiet) {
     console.log(

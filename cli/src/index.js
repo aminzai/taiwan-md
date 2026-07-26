@@ -1,5 +1,8 @@
 #!/usr/bin/env node
 import { Command } from 'commander';
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
 import { searchCommand } from './commands/search.js';
 import { readCommand } from './commands/read.js';
 import { listCommand } from './commands/list.js';
@@ -29,15 +32,31 @@ import { mcpCommand } from './commands/mcp.js';
 // v0.7 — identity sync release (exposes v1.5.0 site infrastructure to CLI)
 import { profileCommand } from './commands/profile.js';
 import { mailmapCommand } from './commands/mailmap.js';
+// v0.8 — the front door: one line you can hand to someone else
+import { printWelcome } from './commands/welcome.js';
 
 const program = new Command();
+
+/** Version from package.json, so it can't drift the way the literal '0.7.0'
+ *  did while package.json said 0.7.1. */
+function cliVersion() {
+  try {
+    const pkg = path.resolve(
+      path.dirname(fileURLToPath(import.meta.url)),
+      '../package.json',
+    );
+    return JSON.parse(fs.readFileSync(pkg, 'utf8')).version || '0.0.0';
+  } catch {
+    return '0.0.0';
+  }
+}
 
 program
   .name('taiwanmd')
   .description(
     'Taiwan.md — 台灣知識庫 CLI\nSearch, read, and explore 900+ curated articles about Taiwan.',
   )
-  .version('0.7.0');
+  .version(cliVersion());
 
 // v0.5 — existing commands
 searchCommand(program);
@@ -74,4 +93,10 @@ mcpCommand(program);
 profileCommand(program);
 mailmapCommand(program);
 
-program.parse();
+// Bare `npx taiwanmd` shows the ladder rather than a wall of flags — that
+// screen is the unit you can pass to another person.
+if (process.argv.length <= 2) {
+  printWelcome();
+} else {
+  program.parse();
+}

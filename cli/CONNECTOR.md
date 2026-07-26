@@ -109,9 +109,17 @@ npx -y taiwanmd mcp install --client claude-code   # or claude-desktop, cursor
 - Inside the Taiwan.md repo, it reads `knowledge/` directly.
 - Content is CC BY-SA 4.0; the CLI/connector code is MIT.
 
-A remote endpoint (for thin clients that can't run Node) is planned as an
-**optional** convenience, not the default — local-first is the privacy-best
-path and stays the recommended one.
+A remote endpoint is live at `https://mcp.taiwan.md` for thin clients that
+can't run Node (web playgrounds, curl, restricted environments). It is an
+**optional** convenience; local-first stays the recommended path because your
+queries never leave your machine.
+
+```bash
+claude mcp add taiwanmd-remote -- npx -y mcp-remote https://mcp.taiwan.md
+```
+
+It serves the same six tools, read-only, no API key, reading from Taiwan.md's
+public static API.
 
 ---
 

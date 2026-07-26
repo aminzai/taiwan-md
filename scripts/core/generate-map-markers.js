@@ -3,6 +3,7 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { ALL_LANGUAGE_CODES } from '../../src/config/languages.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -107,8 +108,12 @@ function inferCategoryFromFilename(filename) {
   return 'culture'; // 預設
 }
 
-/** knowledge/ 底下第一層若為語系目錄則略過，避免把 ja/en 誤當分類 */
-const KNOWLEDGE_LOCALE_DIRS = new Set(['en', 'ja', 'ko', 'zh-TW', 'es']);
+/**
+ * knowledge/ 底下第一層若為語系目錄則略過，避免把 ja/en 誤當分類。
+ * 從語言註冊表推導（含未啟用的語系，它們的目錄一樣存在）——寫死的話，
+ * 新語言出生後它的目錄就會被當成一個分類混進地圖標記。
+ */
+const KNOWLEDGE_LOCALE_DIRS = new Set(ALL_LANGUAGE_CODES);
 
 function getArticleLang(filePath) {
   const knowledgeDir = path.join(__dirname, '../../knowledge');

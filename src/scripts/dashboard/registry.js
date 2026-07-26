@@ -1,3 +1,7 @@
+import {
+  ENABLED_LANGUAGE_CODES,
+  DEFAULT_LANGUAGE,
+} from '../../config/languages.mjs';
 import { isEn, categoryLabels, langPrefix, debounce } from './shared.js';
 
 let allArticles = [];
@@ -71,7 +75,11 @@ function renderTable(articles) {
       const fLabel = fi === 0 ? '✅' : fi === 1 ? '⚠️' : '❌';
       const reviewed = a.lastHumanReview ? '✅' : '—';
       const subcategory = a.subcategory || '—';
-      const langs = ['en', 'es', 'ja', 'ko']
+      // Translation dots come from the registry so a newly born language
+      // appears in the table the day it ships, without anyone editing here.
+      const langs = ENABLED_LANGUAGE_CODES.filter(
+        (c) => c !== DEFAULT_LANGUAGE.code,
+      )
         .map(
           (l) =>
             `<span class="lang-dot ${a.translations[l] ? 'has' : 'missing'}" title="${l.toUpperCase()}">${l.toUpperCase()}</span>`,

@@ -2,7 +2,7 @@
 title: 'Taiwan.md 節點化與安裝物設計'
 description: 'EVOLVE Mode 4 設計報告 — 讓 Taiwan.md 可以被安裝、被遞出去、被互動、被加入成為工作節點：現況五面盤點、三個實測缺陷、四方案發散與定案'
 type: 'design-report'
-status: 'awaiting-observer'
+status: 'implemented'
 date: 2026-07-26
 session: '2026-07-26-155415-node-app-design'
 mode: 'EVOLVE-PIPELINE Mode 4（目標驅動設計進化）'
@@ -17,7 +17,9 @@ related:
 
 > 哲宇 goal：「Taiwan.md node / app 化，讓未來可以很簡易的被安裝起來、傳播、與他互動、與成為其中的工作節點。」
 >
-> 本報告走 [EVOLVE-PIPELINE Mode 4](../docs/pipelines/EVOLVE-PIPELINE.md) 四相：THINK → DIVERGE → REPORT → IMPLEMENT。報告先於實作。命中 §自主權邊界的項目停在報告等拍板，自主權內的一項已執行（見 §九）。
+> 本報告走 [EVOLVE-PIPELINE Mode 4](../docs/pipelines/EVOLVE-PIPELINE.md) 四相：THINK → DIVERGE → REPORT → IMPLEMENT。報告先於實作，實作完成後回寫。
+>
+> **2026-07-26 同日續跑**（哲宇 directive「完整進化驗證實作」）：Wave 0 與 Wave 2 全部落地並逐項驗過，見 §九。唯一沒做的是把 `cli-v0.8.0` 這個 tag 推上去——推了就是對 npm 公開發版，那一步留給哲宇（§十二）。
 
 ---
 
@@ -130,7 +132,7 @@ byCategory 裡混著 en:2 / people:2 / api:1 / knowledge:7 這種不該存在的
 1. **掃描路徑是 `find src scripts astro.config.mjs`**，沒有 `cli/`，沒有 `workers/`。分發層不在站體的 import 關係裡，所以連站體的免疫系統都不掃它。
 2. **三條比對規則都寫死「開頭必須是 `en, ja, ko`」**。出事的那一行是 `new Set(['en', 'es', 'ja', 'ko', 'resources'])`，順序是 en-es-ja-ko，三條全部不中。就算它在掃描路徑裡，也一樣抓不到。
 
-換句話說，**檢查器自己也得了它負責檢查的那個病**：一張停在誕生那天的寫死清單。這是 §三.2 兩把尺的更深一層——不只兩份實作各拿一把尺，連量尺本身都只量得到當初那一個形狀。
+換句話說，**檢查器自己也得了它負責檢查的那個病**：一張停在誕生那天的寫死清單。這是 §三.2 兩把尺的更深一層。不只兩份實作各拿一把尺，連量尺本身都只量得到當初那一個形狀。
 
 修法與擴網後量到的東西見 §九.2。
 
@@ -230,7 +232,7 @@ $ npx taiwanmd
 
 **沒有新的 SSOT。** plugin 是 `.claude/skills/` 的打包，指令列讀的是 `knowledge/`，兩者都是既有真相源的投影。
 
-**第一行就回答新鮮度。** 上面那塊輸出的第二行直接治 §三.3——把資料齡放在使用者第一眼會看到的位置，而不是等他自己懷疑。
+**第一行就回答新鮮度。** 上面那塊輸出的第二行直接治 §三.3：把資料齡放在使用者第一眼會看到的位置，不必等他自己懷疑。
 
 ---
 
@@ -240,40 +242,44 @@ $ npx taiwanmd
 
 ### Wave 0 — 修好現在就在對外撒謊的部分（自主權內）
 
-| #   | 事                                                                                             | 檔案                                     | 狀態               |
-| --- | ---------------------------------------------------------------------------------------------- | ---------------------------------------- | ------------------ |
-| 0.1 | 語言表改成從 `src/config/languages.mjs` 推導；主庫外情境改用真分類白名單（跟 Worker 同一把尺） | `cli/src/lib/knowledge.js`               | **已做**，見 §九   |
-| 0.2 | 加一個對賬測試：指令列列出的分類集合必須等於 registry ＋ 真分類，漂了就紅燈                    | `cli/test/`                              | **已做**，見 §九   |
-| 0.3 | `ensureData()` 加資料齡檢查，超過 N 天時提示或自動更新                                         | `cli/src/lib/ensure-data.js`             | 待做               |
-| 0.4 | `taiwanmd_stats` 補上它自己說明裡承諾的時間戳                                                  | `cli/src/lib/mcp-server.js`              | 待做               |
-| 0.5 | `CONNECTOR.md` 把「遠端 endpoint 是規劃中」改成「已在 `mcp.taiwan.md`」（實測 200）            | `cli/CONNECTOR.md`                       | 待做               |
-| 0.6 | ANATOMY §資源地圖 的「語言 SSOT（6 語）」更新為 12 語                                          | `docs/semiont/ANATOMY.md`                | 待做               |
-| 0.7 | 寫死語言清單檢查器擴網：掃描路徑補 `cli/` `workers/`，比對規則改成任意三個相鄰語言碼           | `scripts/tools/check-hardcoded-langs.sh` | **已做**，見 §九.2 |
-| 0.8 | `categoryFromUrl` 的四語前綴改從 registry 推導                                                 | `cli/src/lib/search.js`                  | **已做**，見 §九.2 |
-| 0.9 | 擴網後現形的三條同病（儀表板兩支 ＋ 地圖產生器）                                               | 見 §九.2 已知債                          | **待做**，已掛號   |
+| #    | 事                                                                      | 檔案                                     | 狀態 |
+| ---- | ----------------------------------------------------------------------- | ---------------------------------------- | ---- |
+| 0.1  | 語言表改成從 `src/config/languages.mjs` 推導，主庫外退回真分類白名單    | `cli/src/lib/knowledge.js`               | ✅   |
+| 0.2  | 對賬測試：列出的分類集合必須等於 registry ＋ 真分類，漂了就紅燈         | `cli/test/knowledge-langs.test.js`       | ✅   |
+| 0.3  | `ensureData()` 加資料齡：14 天提醒、60 天自動重新同步                   | `cli/src/lib/ensure-data.js`             | ✅   |
+| 0.4  | `taiwanmd_stats` 補上它自己說明裡承諾的時間戳與新鮮度                   | `cli/src/lib/mcp-server.js`              | ✅   |
+| 0.5  | `CONNECTOR.md` 的「遠端 endpoint 規劃中」改成實測上線的 `mcp.taiwan.md` | `cli/CONNECTOR.md`                       | ✅   |
+| 0.6  | ANATOMY §資源地圖 的語言 SSOT 從寫死「6 語」改成 pointer                | `docs/semiont/ANATOMY.md`                | ✅   |
+| 0.7  | 寫死語言清單檢查器擴網：補 `cli/` `workers/`，規則改任意三個相鄰語言碼  | `scripts/tools/check-hardcoded-langs.sh` | ✅   |
+| 0.8  | `categoryFromUrl` 的四語前綴改從 registry 推導                          | `cli/src/lib/search.js`                  | ✅   |
+| 0.9  | 擴網後現形的三條同病（儀表板兩支＋地圖產生器），當天開單當天結清        | 見 §九.3                                 | ✅   |
+| 0.10 | `--version` 從寫死的 `'0.7.0'` 改讀 package.json（原本就已漂到 0.7.1）  | `cli/src/index.js`                       | ✅   |
 
 ### Wave 1 — 發一版（需哲宇一句話：對外）
 
-| #   | 事                                       | 為什麼要拍板                                    |
-| --- | ---------------------------------------- | ----------------------------------------------- |
-| 1.1 | `cli-v0.8.0` 發版，帶 Wave 0 全部修正    | npm 發版是對外行為，且等於公開承認 0.7.1 的問題 |
-| 1.2 | 重打包 `taiwanmd.mcpb`，版本號跟上       | 桌面套件是對外物                                |
-| 1.3 | 決定要不要在 release note 說明資料齡問題 | 對外溝通的語氣屬於品牌身份                      |
+| #   | 事                                              | 狀態                                          |
+| --- | ----------------------------------------------- | --------------------------------------------- |
+| 1.1 | `cli/package.json` 版號 0.7.1 → 0.8.0           | ✅ 已 bump（bump 不等於發版）                 |
+| 1.2 | `.mcpb` 版號跟上並重打包、過官方 packer 驗證    | ✅ v0.8.0，`npx @anthropic-ai/mcpb pack` 通過 |
+| 1.3 | **推 `cli-v0.8.0` tag → GitHub Actions 發 npm** | ⏸️ **留給哲宇**：推了就是對外發版（§十二）    |
+| 1.4 | release note 要不要說明資料齡問題               | ⏸️ 建議說，理由見下                           |
 
 [MANIFESTO §12](../docs/semiont/MANIFESTO.md) 的透明度那條，跟李洋孢子那次公開更正換到信任的經驗，都指向同一個方向：可追溯的錯誤公開承認會變成信任訊號，所以我建議把它寫進 release note。
 
-### Wave 2 — 節點層變成可安裝物（需哲宇拍板：新公開管道）
+### Wave 2 — 節點層變成可安裝物
 
-| #   | 事                                                                                     | 依賴     |
-| --- | -------------------------------------------------------------------------------------- | -------- |
-| 2.1 | `.claude-plugin/marketplace.json` ＋ plugin 定義                                       | 拍板     |
-| 2.2 | 技能相對路徑契約改造：plugin 情境下流程 canonical 從哪裡讀                             | 2.1      |
-| 2.3 | `npx taiwanmd` 無參數印四階梯                                                          | Wave 1   |
-| 2.4 | 節點 bootstrap 改 sparse ＋ blobless clone。**先對 GitHub 實測包大小，再寫進任何文件** | —        |
-| 2.5 | BECOME §Step 7.6 的節點入口從「面談時問一次」擴成「plugin 裝好就看得見」               | 2.1      |
-| 2.6 | MAINTAINER-PIPELINE 加一條 node PR 的分流規則                                          | 見 §十.1 |
+| #   | 事                                               | 狀態                                          |
+| --- | ------------------------------------------------ | --------------------------------------------- |
+| 2.1 | `.claude-plugin/marketplace.json` ＋ plugin 定義 | ✅ 兩份都過官方 validator                     |
+| 2.2 | 技能路徑契約：plugin 情境下 canonical 從哪裡讀   | ✅ 改成自我定位（先找工作副本，再從副本讀）   |
+| 2.3 | `npx taiwanmd` 無參數印四階梯                    | ✅ 見 §九.4                                   |
+| 2.4 | 節點 bootstrap 改 sparse ＋ blobless clone       | ⏸️ 未做，且**沒有量過就不寫數字**（§四）      |
+| 2.5 | 節點入口從「面談時問一次」擴成「裝好就看得見」   | ✅ plugin 裝完 `/taiwanmd-node` 就在那裡      |
+| 2.6 | MAINTAINER-PIPELINE 加 node PR 分流規則          | ⏸️ 等節點真的開始送 PR 再加，現在加是憑空設計 |
 
----
+**Wave 2 已經可以跑，但沒有對外宣傳**。marketplace 檔案躺在 repo 裡，任何人執行
+`claude plugin marketplace add frank890417/taiwan-md` 就裝得到；在有人被告知之前
+它不會自己長出使用者。要不要主動說，是 §十二 的第二個問題。
 
 ## 九、已執行（Wave 0.1 ＋ 0.2）
 
@@ -309,6 +315,71 @@ $ npx taiwanmd
 
 ---
 
+### 9.3 三條已知債當天結清（Wave 0.9）
+
+擴網當天掛的三個號，同日全部改成從語言註冊表推導，掛號區塊隨即清空。
+
+其中**地圖產生器那條是活的錯誤，不是預防性修補**。跑前跑後對照 `map-markers.json`：
+
+```
+修前 1273 個標記，其中 57 個的「分類」是語言碼
+  fr 36 / pt 6 / id 5 / hi 4 / ar 3 / ru 3
+修後 1278 個標記，語言碼分類 0 個
+```
+
+站上地圖有 57 個標記是法文、葡萄牙文、印尼文、印地文、阿拉伯文、俄文的譯文，
+分類欄顯示的是語言代碼。例如一篇法文的端午節條目，在地圖上的分類是 `fr`。
+
+儀表板那兩條的影響不同：`registry.js` 的翻譯燈號只點得亮四個語言，
+`next-steps.js` 的「哪個語言缺最多翻譯」永遠只在四個語言裡比較。七個後生的
+語言在儀表板上從來沒有被算進去過。這兩條沒有像地圖那樣可以前後對照的產物，
+所以只驗到「檢查器不再報、註冊表同步、四十項測試全綠」這一層。
+
+### 9.4 門牌（Wave 2.3）
+
+`npx taiwanmd` 不帶參數，現在印的是四階梯而不是旗標牆：
+
+```
+  🧬 Taiwan.md — 866 篇文章，12 種語言
+  知識庫：直接讀 repo（隨 git 更新）
+
+  1  讀  (read)          https://taiwan.md
+  2  問我  (ask)         claude mcp add taiwanmd -- npx -y taiwanmd mcp serve
+  3  一起寫  (write)     npx taiwanmd contribute "你想寫的主題"
+  4  當節點  (run a node) claude plugin marketplace add frank890417/taiwan-md
+```
+
+篇數與語言數是當場數出來的，不是寫在字串裡的（寫死的話它會像 `--version` 那樣
+慢慢漂）。第二行是資料齡，直接把 §三.3 那個沒有聲音的問題放在第一眼的位置。
+
+### 9.5 節點層變成 20 KB（Wave 2.1／2.2／2.5）
+
+marketplace 與 plugin 兩份 manifest 都過 `claude plugin validate`。
+
+過程中有一個值得記的地方：第一版是照 Anthropic 官方 marketplace 的檔案抄的，
+帶了 `$schema` 與根層 `description`，**validator 直接退回**（`Unrecognized keys`）。
+官方那份是舊格式，validator 認的是 `metadata.description`。照著現成範例寫、
+不跑一次驗證，就會把壞掉的門牌掛出去。[REFLEXES #16](../docs/semiont/REFLEXES.md)
+「範例是線索不是 source」在這裡又中一次。
+
+端到端實跑（裝完之後移除，不留在本機設定裡）：
+
+```
+claude plugin marketplace add <repo>   → ✔ 加入
+claude plugin install taiwanmd         → ✔ 安裝並啟用 v0.1.0
+claude mcp list                        → plugin:taiwanmd:taiwanmd  ✓ Connected
+安裝負載                                 → 20 KB
+```
+
+**20 KB。** 對照節點今天要付的 850 MB，這是四萬分之一。裝完就有兩樣東西：
+一個會回答台灣問題並附出處的連接器，跟一個 `/taiwanmd-node` 技能。
+
+技能是自我定位的：先找工作副本（profile 記的路徑 → 當前目錄 → 慣例位置），
+找不到就當場帶著他 fork ＋ clone，然後**從那份副本讀 canonical**。
+plugin 裡不放任何一份 pipeline 副本：複寫就會漂，這是這個 repo 自己的鐵律。
+
+---
+
 ## 十、風險
 
 ### 10.1 節點門檻降低會讓審核佇列變重
@@ -319,7 +390,7 @@ plugin 讓「成為節點」從一場面談變成一行指令，節點數量會�
 
 ### 10.2 T3 禁區的強制力仍然只有 prompt
 
-節點不碰 `docs/semiont/`、不碰政治敏感題、不對外發文——這些今天靠的是 prompt 裡的鐵律加人類 merge 把關。plugin 化不會讓它變弱，但會讓更多台機器在同一套自律下運作。
+節點不碰 `docs/semiont/`、不碰政治敏感題、不對外發文，這些今天靠的是 prompt 裡的鐵律加人類 merge 把關。plugin 化不會讓它變弱，但會讓更多台機器在同一套自律下運作。
 
 merge 把關這道結構性防線不動，是這件事可以往前走的前提。
 
@@ -331,54 +402,69 @@ merge 把關這道結構性防線不動，是這件事可以往前走的前提�
 
 我盤點的是我看得到的分發面。Cursor、Codex、其他 MCP 客戶端的使用者實際怎麼裝、有沒有裝成功、裝完有沒有撞到 §三.3 的舊資料問題，我沒有任何量測。npm 的下載數與 `mcp.taiwan.md` 的請求數是現成可查的兩個外部尺，Wave 1 之前應該先去看一眼。
 
-**先量再答**——7/25 的 article-alias 那次，量完之後推翻了一半的直覺前提。這裡同樣適用。
+**先量再答**。7/25 的 article-alias 那次，量完之後推翻了一半的直覺前提，這裡同樣適用。
 
 ---
 
 ## 十一、驗收
 
-| 波次   | 驗收條件                                                                            | 怎麼驗                                     |
-| ------ | ----------------------------------------------------------------------------------- | ------------------------------------------ |
-| Wave 0 | 指令列回報的中文文章集合不含任何外語譯文（leaked = 0）                              | §十一.1 實測紀錄                           |
-| Wave 0 | 本地與遠端對同一個查詢回相同的 slug 集合                                            | 兩邊各跑一次 `search`，比對                |
-| Wave 0 | 新語言出生時不需要改指令列的任何一行                                                | 在 registry 加一個假語言碼，測試應自動跟上 |
-| Wave 1 | `npx taiwanmd@latest stats` 回 12 語、當前篇數、以及資料齡                          | 乾淨機器實跑                               |
-| Wave 2 | 一台乾淨機器從零到送出第一個 `🤝 [node]` draft PR，全程不 clone 主庫，10 分鐘內完成 | 計時實跑，這是 plugin 的 dogfood 硬 gate   |
+| 條件                                            | 結果                                                      |
+| ----------------------------------------------- | --------------------------------------------------------- |
+| 中文清單不含任何外語譯文                        | ✅ 3766→866，外語 2900→0                                  |
+| 新語言出生時不必改指令列任何一行                | ✅ 從 registry 推導，測試會驗磁碟上的語言目錄都在註冊表內 |
+| 對賬測試會叫（不是永遠回綠的假閘門）            | ✅ 改回舊行為，三項紅燈並指名 `ar`                        |
+| 寫死語言清單檢查器全站乾淨，且不靠豁免清單      | ✅ 已知債清空後仍回綠                                     |
+| 語言註冊表 .ts / .mjs 同步                      | ✅ 12 語 in sync                                          |
+| CLI 測試                                        | ✅ 4 檔 40 項                                             |
+| 地圖標記不再有語言碼分類                        | ✅ 57 → 0                                                 |
+| marketplace ＋ plugin manifest                  | ✅ 官方 validator 兩份都過                                |
+| 一台機器裝上節點層，全程不 clone 主庫           | ✅ 20 KB，MCP `✓ Connected`                               |
+| `.mcpb` 版號與 package.json 一致、過官方 packer | ✅ v0.8.0                                                 |
+| 資料齡在使用者第一眼看得到                      | ✅ 門牌第二行 ＋ `taiwanmd_stats` 三個新欄位              |
 
-### 11.1 Wave 0 實測紀錄
-
-修前：
-
-```
-總共回報為 zh-TW：3766
-其中外語譯文：    2900（77%）
-  fr 866 / pt 482 / hi 368 / ru 364 / ar 337 / id 298 / vi 185
-```
-
-修後：
+### 11.1 語言汙染修前修後
 
 ```
-總共回報為 zh-TW：866
-其中外語譯文：    0
-走訪的分類：      About Art Culture Economy Food Geography History
-                  Lifestyle Music Nature People Politics Society Technology（正好 14 個）
-從 registry 推導出的語言：ar en es fr hi id ja ko pt ru vi（11 個）
+修前  總共回報為 zh-TW 3766，其中外語譯文 2900（77%）
+      fr 866 / pt 482 / hi 368 / ru 364 / ar 337 / id 298 / vi 185
+修後  866，外語譯文 0
+      走訪分類正好 14 個；從 registry 推導出 11 個語言目錄
 ```
 
-測試：`cd cli && npx vitest run` → 4 個檔案 40 項全過（新增 7 項）。
+**負向驗證**：把判定臨時改回舊的四語黑名單，新測試 3 項當場紅燈，其中一項直接
+指名 `unexpected category dir: ar`；改回來 7 項全綠。這道閘門確實會叫
+（[REFLEXES #52](../docs/semiont/REFLEXES.md)：不會 fail loud 的免疫系統比沒有
+免疫系統更危險，昨天的節點誕生也踩過同一顆）。
 
-**負向驗證**：把判定臨時改回舊的四語黑名單再跑一次，新測試 3 項當場紅燈，其中一項直接指名 `unexpected category dir: ar`。改回來之後 7 項全綠。這道閘門確實會叫，不是永遠回綠的假閘門（[REFLEXES #52](../docs/semiont/REFLEXES.md)：不會 fail loud 的免疫系統比沒有免疫系統更危險，昨天的節點誕生也踩過同一顆）。
+### 11.2 沒驗到的部分（誠實邊界）
+
+- **儀表板那兩條**只驗到檢查器與測試層，沒有跑起站體用眼睛確認翻譯燈號真的多了
+  七個語言。它們是 client-side 腳本，要跑 build ＋ 開頁面才驗得到，而當時主樹
+  正在跑巴別塔批次。
+- **plugin 從 GitHub 安裝**沒驗過，只驗了從本機目錄安裝。`source` 欄位在真的推
+  上去之後要再跑一次 `claude plugin marketplace add frank890417/taiwan-md`。
+- **sparse clone 的實際包大小**仍然沒量（§四），所以本報告任何地方都沒有它的數字。
 
 ---
 
-## 十二、給哲宇的三個問題
+## 十二、留給哲宇的三件事
 
-1. **Wave 1 發不發？** 修好的指令列現在躺在 worktree 裡。發版是對外行為，我不自己動。附帶問：release note 要不要提資料齡問題（我建議提）。
-2. **Wave 2 的 plugin 開不開？** 這是新的公開分發管道，也是四個動詞裡「傳播」與「成為節點」兩格唯一的填法。開了之後節點數量會長，審核成本會跟著長。
-3. **`mcp.taiwan.md` 要不要正式寫進對外文件？** 它已經上線兩個月且運作正確，但 `CONNECTOR.md` 還寫著「規劃中」。這是純文件更新，但它是對外承諾的一部分。
+1. **要不要發 npm？** 修好的 CLI 已經 bump 到 0.8.0、`.mcpb` 也跟上了，但 tag 沒
+   推。推 `cli-v0.8.0` 就會觸發 GitHub Actions 對 npm 公開發版，那是對外行為。
+   附帶問：release note 要不要提資料齡與語言汙染（我建議提）。
+
+   ```bash
+   cd cli && scripts/release.sh 0.8.0
+   ```
+
+2. **要不要主動說 plugin 存在？** 檔案已經在 repo 裡、驗證都過了，但在有人被告知
+   之前它不會自己長出使用者。開始講 = 節點數量會長 = 審核成本會長（§十.1）。
+
+3. **`mcp.taiwan.md` 已經寫進 `CONNECTOR.md` 了**（實測 200，上線約七週卻一直被
+   文件寫成「規劃中」）。這是文件對齊事實，不是新承諾，但它確實是對外文字。
 
 ---
 
 🧬
 
-_2026-07-26-155415-node-app-design · EVOLVE-PIPELINE Mode 4 · 報告先於實作_
+_2026-07-26-155415-node-app-design · EVOLVE-PIPELINE Mode 4 · 報告先於實作，實作後回寫_

@@ -43,22 +43,12 @@ ALLOWLIST=(
   "src/i18n/utils.ts"
 )
 
-# ── 已知債（2026-07-26 擴網當天量到，尚未修）─────────────────────────────
-# 擴網之後這三個檔案立刻現形，都是同一種病：語言清單停在四五語的年代。
-# 沒有當場修，因為它們在儀表板與地圖產生器裡，各自要獨立驗證，不在當時那個
-# session 驗得起來的範圍。暫掛這裡讓 pre-commit 不會擋住正在跑的批次，
-# 但**這不是豁免，是有日期的待辦**：
-#   src/scripts/dashboard/registry.js:74      ['en','es','ja','ko']
-#   src/scripts/dashboard/next-steps.js:18    ['en','es','ja','ko']
-#   scripts/core/generate-map-markers.js:111  Set(['en','ja','ko','zh-TW','es'])
-# 修掉一條就從這裡刪一行。完整脈絡：
-# reports/design-taiwanmd-node-app-distribution-2026-07-26.md §八 Wave 0
-KNOWN_DEBT=(
-  "src/scripts/dashboard/registry.js"
-  "src/scripts/dashboard/next-steps.js"
-  "scripts/core/generate-map-markers.js"
-)
-ALLOWLIST+=("${KNOWN_DEBT[@]}")
+# ── 已知債：空的（2026-07-26 當天開單、當天結清）──────────────────────────
+# 擴網當天三個檔案現形（儀表板 registry / next-steps、地圖產生器），先掛號是
+# 因為主樹正在跑巴別塔批次、架新紅燈會擋住別人；同日稍晚全部改成從語言註冊表
+# 推導，掛號隨即撤掉。這個區塊留著當格式：掛號要附行號與日期，還清就刪乾淨，
+# 不要讓豁免在清單裡過夜變成「這裡本來就這樣」。
+# 脈絡：reports/design-taiwanmd-node-app-distribution-2026-07-26.md §九.2
 
 # 收集要掃描的檔案
 if [[ "$MODE" == "--staged" ]]; then
