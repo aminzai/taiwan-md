@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-26T23:13:52+08:00",
-    "zhCommitHead": "c60006c25",
+    "lastUpdated": "2026-07-26T23:22:07+08:00",
+    "zhCommitHead": "ea4f1351a",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -59,50 +59,50 @@
       },
       "vi": {
         "total_zh": 869,
-        "fresh": 227,
+        "fresh": 232,
         "stale": 16,
         "metadata_stale": 1,
-        "missing": 625,
+        "missing": 620,
         "orphan": 0
       },
       "id": {
         "total_zh": 869,
-        "fresh": 312,
+        "fresh": 314,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 546,
+        "missing": 544,
         "orphan": 0
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 499,
+        "fresh": 500,
         "stale": 12,
         "metadata_stale": 1,
-        "missing": 357,
+        "missing": 356,
         "orphan": 0
       },
       "hi": {
         "total_zh": 869,
-        "fresh": 389,
+        "fresh": 390,
         "stale": 6,
         "metadata_stale": 2,
-        "missing": 472,
+        "missing": 471,
         "orphan": 0
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 374,
+        "fresh": 375,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 493,
+        "missing": 492,
         "orphan": 0
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 406,
+        "fresh": 408,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 461,
+        "missing": 459,
         "orphan": 0
       }
     },
@@ -13158,7 +13158,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/taiwan-open-source-spirit.md",
+          "translatedFrom": "Technology/台灣開源精神.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:8cc121a9cccbf90a",
+          "sourceBodyHash": "sha256:98feb4bab36f053f",
+          "translatedAt": "2026-07-26T21:33:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/taiwan-open-source-spirit.md",
@@ -16652,7 +16663,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/wikipedia-in-taiwan.md",
+          "translatedFrom": "Technology/維基百科.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:041d66a77659bdef",
+          "sourceBodyHash": "sha256:d2c0d3b4dad31bc9",
+          "translatedAt": "2026-07-26T21:33:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/wikipedia-in-taiwan.md",
@@ -19559,7 +19581,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Art/taiwanese-literature-during-japanese-rule.md",
+          "translatedFrom": "Art/日治時期文學.md",
+          "sourceCommitSha": "4d7fab8ee",
+          "sourceContentHash": "sha256:ddd002a147d6d0f3",
+          "sourceBodyHash": "sha256:e76df226350c4a5f",
+          "translatedAt": "2026-07-26T21:33:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -41654,7 +41687,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Nature/black-faced-spoonbill.md",
+          "translatedFrom": "Nature/黑面琵鷺.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:8cef581f5392bc2b",
+          "sourceBodyHash": "sha256:445b5720cbf0d2d9",
+          "translatedAt": "2026-07-26T22:20:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Nature/black-faced-spoonbill.md",
@@ -42003,7 +42047,18 @@
           "reason": "hash-match-sha-lost"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Nature/eurasian-otter-in-taiwan.md",
+          "translatedFrom": "Nature/水獺.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:06078f29307a4c77",
+          "sourceBodyHash": "sha256:cd4c66affdcc4144",
+          "translatedAt": "2026-07-26T22:20:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Nature/eurasian-otter-in-taiwan.md",
@@ -44887,7 +44942,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Nature/national-parks.md",
+          "translatedFrom": "Nature/國家公園.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:b67fcedd0e7a43f6",
+          "sourceBodyHash": "sha256:7e2f50f483b073fb",
+          "translatedAt": "2026-07-26T21:33:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Nature/national-parks.md",
@@ -45388,7 +45454,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Nature/bird-window-collision-taiwan.md",
+          "translatedFrom": "Nature/台灣鳥類窗殺議題.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:7b5c9a385e90141f",
+          "sourceBodyHash": "sha256:e55bf8d3c335463a",
+          "translatedAt": "2026-07-26T22:20:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Nature/bird-window-collision-taiwan.md",
@@ -45705,7 +45782,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Nature/biodiversity.md",
+          "translatedFrom": "Nature/生態多樣性.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:7c8e2ae7ead043fa",
+          "sourceBodyHash": "sha256:337a7730efae1092",
+          "translatedAt": "2026-07-26T22:20:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Nature/biodiversity.md",
@@ -47785,7 +47873,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/chen-chien-jen.md",
+          "translatedFrom": "People/陳建仁.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:3e3c722e9fbee583",
+          "sourceBodyHash": "sha256:cd353841feafe555",
+          "translatedAt": "2026-07-26T21:33:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -48282,7 +48381,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/yang-shen-keng-educator.md",
+          "translatedFrom": "People/楊深坑.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:86136985cda69b56",
+          "sourceBodyHash": "sha256:481eaba369f94755",
+          "translatedAt": "2026-07-26T22:20:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/People/yang-shen-keng-educator.md",
@@ -53235,8 +53345,8 @@
           "sourceContentHash": "sha256:62dd044f9d1285a1",
           "sourceBodyHash": "sha256:b39a89251e94292a",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea4f1351",
+          "translationLastModified": "2026-07-26T23:13:52+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -55480,8 +55590,8 @@
           "sourceContentHash": "sha256:ec85f3e1d7f5d977",
           "sourceBodyHash": "sha256:5932775fa82a34d0",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea4f1351",
+          "translationLastModified": "2026-07-26T23:13:52+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -55840,8 +55950,8 @@
           "sourceContentHash": "sha256:5bcf40616e842909",
           "sourceBodyHash": "sha256:15c8e50bb3ba07a7",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea4f1351",
+          "translationLastModified": "2026-07-26T23:13:52+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -57320,8 +57430,8 @@
           "sourceContentHash": "sha256:5e90feeafc19360c",
           "sourceBodyHash": "sha256:81e4bcfc4e50e127",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea4f1351",
+          "translationLastModified": "2026-07-26T23:13:52+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -61229,8 +61339,8 @@
           "sourceContentHash": "sha256:e699feede1257135",
           "sourceBodyHash": "sha256:86d8a4b7771c32c4",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea4f1351",
+          "translationLastModified": "2026-07-26T23:13:52+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -61447,8 +61557,8 @@
           "sourceContentHash": "sha256:aebfe56ef8181ee0",
           "sourceBodyHash": "sha256:2548692a01191648",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea4f1351",
+          "translationLastModified": "2026-07-26T23:13:52+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -62581,8 +62691,8 @@
           "sourceContentHash": "sha256:c7a690e21bd72631",
           "sourceBodyHash": "sha256:f379180b5e8bcecc",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea4f1351",
+          "translationLastModified": "2026-07-26T23:13:52+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -64329,8 +64439,8 @@
           "sourceContentHash": "sha256:f8a43ac4f3c5c945",
           "sourceBodyHash": "sha256:564dbfac81e16aa7",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea4f1351",
+          "translationLastModified": "2026-07-26T23:13:52+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -70814,7 +70924,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/yeh-kuo-yi-electronics-manufacturing-pioneer.md",
+          "translatedFrom": "People/葉國一.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:736f2b6cf89c9093",
+          "sourceBodyHash": "sha256:728aa85d9d44e89a",
+          "translatedAt": "2026-07-26T21:33:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -75613,8 +75734,8 @@
           "sourceContentHash": "sha256:32e758a1acf33e90",
           "sourceBodyHash": "sha256:fb31dbbb24515e69",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea4f1351",
+          "translationLastModified": "2026-07-26T23:13:52+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -76421,8 +76542,8 @@
           "sourceContentHash": "sha256:981dd62862f57c30",
           "sourceBodyHash": "sha256:6bf98169f185af90",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea4f1351",
+          "translationLastModified": "2026-07-26T23:13:52+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -77340,8 +77461,8 @@
           "sourceContentHash": "sha256:741173e056926b2c",
           "sourceBodyHash": "sha256:7f6ff2dde21c6686",
           "translatedAt": "2026-07-26T21:33:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea4f1351",
+          "translationLastModified": "2026-07-26T23:13:52+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -105553,7 +105674,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/taiwan-baseball-culture.md",
+          "translatedFrom": "Culture/台灣棒球文化.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:9a4380e463583d63",
+          "sourceBodyHash": "sha256:ffebfda3574ab04b",
+          "translatedAt": "2026-07-26T21:33:26+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/taiwan-baseball-culture.md",
