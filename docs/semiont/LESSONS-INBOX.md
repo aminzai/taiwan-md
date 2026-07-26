@@ -339,6 +339,24 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-07-26 16:06 修 `cli/src/lib/knowledge.js` 的四語黑名單時，pre-commit 印「✅ 無 hardcoded language array 違反」放行了那個 commit。`check-hardcoded-langs.sh`（2026-04-25 為此而生）有兩個獨立理由看不見它：(a) `find src scripts astro.config.mjs` 不含 `cli/` `workers/`；(b) 三條 regex 都寫死「開頭 en, ja, ko」，出事那行是 `Set(['en','es','ja','ko','resources'])` 順序不同全不中。擴網後當場多抓 5 條（4 真 1 假），其中地圖產生器那條讓站上 57 個標記的分類欄顯示語言碼。證據：`602f47c38` / `980660768` / [memory](memory/2026-07-26-155415-node-app-design.md)
 - **可能層級**：通用反射（#82 的 fold 候選，coverage 軸）
 - **相關**：[REFLEXES #82](REFLEXES.md) existence-proxy 家族——(a)-(h) 都在講「量的訊號對不對」，這條是「量的**範圍**夠不夠」；跟 #65（instrument 自身讀數要 cross-verify）鄰近但軸不同：那條講讀數失準，這條講territory 缺角。
+- **verification_count**: 2（2026-07-26 twmd-routine-audit-weekly 獨立找到第二個 instance：`routine-sync-check.py` 的 PAUSED 副表 regex 無右邊界＋缺 node-name.local 機器範圍過濾，見下一條 `routine-sync-check-paused-regex-swallows-retired` entry。非重讀同一份 memory，是本 routine 自己跑工具對賬時獨立命中，符合 REFLEXES #15 vc 累積判準）
+
+### 2026-07-26 twmd-routine-audit-weekly — routine-sync-check-paused-regex-swallows-retired：PAUSED 副表 regex 無右邊界，吞下整段已退休表＋23 條註腳
+
+- **pattern**: `instrument-parse-boundary-unbounded-regex`
+- **原則**：`routine-sync-check.py` 的 `parse_routine_table()` 主表解析在遇到空行時正確 `break`，但另一段用 `re.search(r"\*\*⏸️ PAUSED\*\*.*?(?=\n## |\Z)", text)` 抓 PAUSED 副表任務 ID——這個 non-greedy 邊界只認下一個 `## ` 標題，而 ROUTINE.md 從「⏸️ PAUSED」段落（L64）到下一個真正的 `## ` 標題（L160「每週行程表」）中間橫跨 96 行，涵蓋整段「🪦 已退休」表（L66-72）與全部 23 條註腳。任何在這段範圍內出現過的 backtick 包住的 `twmd-*` 字串（哪怕只是註腳裡提到的名字）都會被 `tasks.setdefault()` 誤標成「paused」。
+- **觸發**：本次 routine-audit 跑 `routine-sync-check.py`（Stage 1A hard gate 之一）時，MISSING 與 LIVE_ENABLED_DRIFT 兩區各報 4 條與 5 條，逐條核對 ROUTINE.md 主表（L45-62）與已退休表（L66-72）後發現：`twmd-data-refresh-pm`／`twmd-maintainer-pm`／`twmd-music-media-audit-weekly` 三條已在 2026-07-25／26 正式退休、從主排程表移除、只留在「已退休」表——但工具仍把它們當「SSOT 說暫停」在跑，每次 audit 都製造 3 條假警報。第四條 `twmd-flywheel-watch` 是另一種假陽性：它是 footnote ²⁰ 明文的 `🖥️commander-macbook` 專屬 routine，本機（`.taiwanmd/node-name.local` = `mouhouse-macmini`）本來就不該有它的 mirror，但 `routine-sync-check.py` 沒有像 `routine-sync.py`／`flywheel-watch.py` 那樣讀 node-name.local 做機器範圍過濾（footnote ²⁰／¹⁸ 明文兩個 sibling 工具都已實作這層）。
+- **可能層級**：(a) 工具修 candidate：`re.search` 邊界改成同時認 `\n\*\*🪦` 或任何 `\n\*\*` 粗體段落起手式，不只認 `## ` H2；且應該顯式排除「已退休」表（parse 那張表只用於顯示，不進 `tasks` 候選池）(b) 補 node-name.local 機器範圍過濾，跟 `routine-sync.py`／`flywheel-watch.py` 同步一份共用 helper，不要三個工具各自實作一次容易漏一個
+- **相關**：[REFLEXES #82](REFLEXES.md) existence-proxy 家族的近親——這條不是「量錯訊號」，是「解析器吃錯範圍」；跟 [REFLEXES #56](REFLEXES.md)（pipeline canonical ↔ production drift）同構：retirement 流程升級了（2026-07-25/26 正式退休走進 ROUTINE.md 新表），但守門的工具沒跟著升級同一份 SSOT 的新結構。也是本檔 2026-07-26 node-app-design `instrument-coverage-boundary-drift` 的第二個獨立 instance（同一週兩個不同工具、同一種「掃描範圍/邊界寫死」病灶）→ 見下方 vc 累積
+- **verification_count**: 1
+
+### 2026-07-26 twmd-routine-audit-weekly — babel-tag-classifier-drift：routine-audit.py 對 babel 的具名 pattern 假設 `[routine]` 前綴，但統一調度器已改用 `[semiont] babel:`，55% 週產出被歸進無意義的 manual-other
+
+- **pattern**: `automation-tag-convention-drift`
+- **原則**：`routine-audit.py`（本 pipeline Stage 1A 的資料層工具）`ROUTINE_PATTERNS` 表對 babel 寫的是 `r"\[routine\] (twmd-)?babel"`，這個假設在 babel 從「cron 觸發的單一 routine」演化成「跨機器 24/7 常駐的 unified dispatcher fleet」後已經失真——2026-07-24 起 babel 產出全部標記 `[semiont] babel: ...`，`[routine]` 前綴一次都沒出現過。本週窗口 707 個 commit 裡 388 個（55%）是 babel，全部落進 `manual-other` 這個大雜燴分類，跟 memory/diary/evolve commit 這種完全不同性質的工作混在一起，讓 `by_routine` 摘要表看起來像「這週幾乎沒有 routine 自動化在跑」，實際上 routine 自動化的產出量是本週最大宗。
+- **觸發**：本次 audit 跑 `routine-audit.py --last-week` 後 `by_routine.manual-other.count=501`，人工 `git log | grep '\[semiont\] babel:'` 對賬得 388、`grep '\[routine\].*babel'` 得 0，確認落差來源。2026-06-28 這個工具已修過一次同類 gap（`routine-audit-script-classification-gap` vc=2，補具名 pattern＋`[routine] X:` 動態 fallback，已消化），但那次修的是「規則沒寫全」，這次是「自動化本身換了標記慣例」——同一顆病用不同機制復發第二次。
+- **可能層級**：(a) 工具修 candidate：`ROUTINE_PATTERNS` 加一條認 `\[semiont\] babel:` 或改用更寬鬆的「babel」關鍵字比對，不綁死 `[routine]` 前綴 (b) 更根本：babel 統一調度器既然是常駐 fleet 行為而非離散 cron 觸發，`by_routine` 這個分類軸本身可能需要第三種身分（介於 routine 與 manual 之間的「fleet-automated」），而不是硬塞進其中一邊
+- **相關**：跟上一條（`routine-sync-check-paused-regex-swallows-retired`）是同一份 routine-audit-weekly 產出的兩個獨立 instance，都是「分類/解析工具跟不上生產側的架構演化」——建議兩條一起看，可能該 fold 成同一條反射候選（tool-classifier-drift-when-automation-architecture-changes）
 - **verification_count**: 1
 
 ### 2026-07-26 node-app-design — self-measured-improvement-picks-flattering-layer：自己量自己的改善時會挑到替身層

@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-26
-last_session: '2026-07-26-084044-twmd-maintainer-daily (3 PR merge+heal，issue #1257 勘誤七語言，補回覆兩則掛 4 個月的 Discussions)'
+last_session: '2026-07-26-212511-twmd-routine-audit-weekly（補交漏跑的上週 cycle，拼回 5 天飛輪靜默完整敘事＋2 個工具漂移）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -321,3 +321,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-26 | 111251-release-v1140 | v1.14.0 出貨：958 commits 全讀、四閘全過、tag 落 origin 已部署 commit、認知層四檔＋about 四語里程碑同步 | 隔離門檻該由工作樹狀態決定，不由任務大小——大任務用對、小檔案用錯 | [→](memory/2026-07-26-111251-release-v1140.md) |
 | 2026-07-26 | 155415-node-app-design | 節點化設計報告＋同日實作：分發層四缺陷（CLI 77% 回譯文、資料齡無聲、檢查器自身漏掃）修完，節點層變 Claude Code plugin | 我在講「量錯層」的報告裡自己量了替身：20 KB 是 plugin，使用者付 329 MiB | [→](memory/2026-07-26-155415-node-app-design.md) |
 | 2026-07-26 | 202803-manual | 台灣鎢供應鏈 ship＋孢子 #161/#162 雙發；跨 section 命案護欄漏洞被炎上倫理席攔下；順稿後補正制度端事實（漏收兩份一手材料＋把「查不到」寫成「不存在」） | 順稿會在無人察覺下把句子的知識論等級升一級 | [→](memory/2026-07-26-202803-manual.md) |
+| 2026-07-26 | 212511-twmd-routine-audit-weekly | 補交漏跑的上週 cycle：拼回 07-19～07-24 機器遷移期 5 天飛輪靜默完整敘事；親跑工具挖到 2 個分類/解析漂移，vc 累積 1→2 | 稽核機制沒備援時，它自己的沉默也會是盲點 | [→](memory/2026-07-26-212511-twmd-routine-audit-weekly.md) |
