@@ -1,137 +1,138 @@
 ---
-title: 'Montagnes de Taïwan et culture de la randonnée'
-description: '268 sommets dépassant les trois mille mètres entassés sur une île — et pourtant, les Taïwanais ont attendu un demi-siècle avant de pouvoir grimper librement leurs propres montagnes'
+title: "Montagnes et culture de l'alpinisme à Taïwan"
+description: 'Avec 268 sommets dépassant les 3 000 mètres sur une seule île, les Taïwanais ont attendu un demi-siècle avant de pouvoir librement gravir leurs propres montagnes.'
 date: 2026-03-18
+category: 'Nature'
 tags:
   [
-    montagnes,
-    culture de la randonnée,
-    cent sommets,
-    lac Jiaming,
-    accidents en montagne,
-    ouverture des forêts,
-    Mori Ushinosuke,
-    Lin Wen-an,
+    'Montagnes',
+    "culture de l'alpinisme",
+    'Cent Sommets (Baiyue)',
+    'lac Jiaming',
+    'accidents de montagne',
+    'ouverture des forêts',
+    'Mori Chunosuke',
+    'Lin Wen-an',
   ]
-subcategory: 'Montagnes et randonnée'
-category: 'Nature'
+subcategory: '山岳與登山'
 author: 'Taiwan.md'
-readingTime: 12
 featured: false
-translatedFrom: 'Nature/台灣山岳與登山文化.md'
-lastVerified: 2026-05-16
+lastVerified: 2026-07-25
 lastHumanReview: true
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:e81dd2e1a4ff1dc3'
-sourceBodyHash: 'sha256:571a99d15e048f22'
-translatedAt: '2026-05-17T05:33:00Z'
+translatedFrom: 'Nature/台灣山岳與登山文化.md'
+sourceCommitSha: '6d3808267'
+sourceContentHash: 'sha256:578491ed43f8d7d0'
+sourceBodyHash: 'sha256:be3b3f9150c7c64e'
+translatedAt: '2026-07-26T19:42:10+08:00'
 ---
 
-# Montagnes de Taïwan et culture de la randonnée
+# Montagnes et culture de l'alpinisme à Taïwan
 
-> **En 30 secondes :** Taïwan occupe moins de neuf dixièmes de la superficie de la Suisse, et pourtant l'île abrite 268 sommets dépassant les trois mille mètres — une densité sans équivalent dans le monde. En 1971, un géomètre du nom de Lin Wen-an sélectionne les « cent sommets de Taïwan », déclenchant une culture de l'ascension qui durera un demi-siècle. Mais c'est seulement en 2019 que le gouvernement annonce officiellement l'« ouverture des forêts » — mettant fin à une époque où les Taïwanais devaient multiplier les autorisations pour se promener dans leurs propres montagnes. Ce texte raconte la relation passionnée, et parfois conflictuelle, entre une île et ses sommets.
+> **Aperçu en 30 secondes :** Avec une superficie inférieure à 90 % de celle de la Suisse, Taïwan concentre 268 sommets de plus de 3 000 mètres, soit la densité la plus élevée au monde. En 1971, un technicrip de topographie nommé Lin Wen-an a sélectionné les « Cent Sommets de Taïwan » (Baiyue), lançant une culture de l'ascension qui dure depuis un demi-siècle. Ce n'est qu'en 2019 que le gouvernement a officiellement annoncé la « levée des restrictions forestières », permettant enfin aux Taïwanais d'accéder à leurs montagnes sans procédures administratives complexes. Cet article relate l'histoire d'une relation passionnée et tumultueuse entre une île et ses montagnes.
 
-En avril 1900, un jeune Japonais de 23 ans gravit les pentes du massif d'Alishan, un instrument de mesure sur l'épaule. Il s'appelle Mori Ushinosuke. Arrivé à Taïwan trois ans plus tôt comme interprète militaire, il a très vite succombé au charme des montagnes de l'île[^1]. Ce jour-là, il accompagne l'anthropologue Torii Ryuzo à l'assaut de Yushan. Torii atteint le pic ouest ; Mori, le pic nord. Pendant les trente années suivantes, il parcourra presque tous les villages de haute montagne de Taïwan, laissant derrière lui plus de vingt espèces végétales portant son nom : le rhododendron de Mori, le Cleyera japonica de Mori, l'angélique de Mori[^2]. Il est le premier à avoir conduit un véritable « bilan global » des montagnes taïwanaises.
+En avril 1900, un jeune Japonais de 23 ans, portant son équipement de topographie, entame l'ascension en provenance du mont Alishan. Il s'appelle Mori Chunosuke ; arrivé à Taïwan trois ans plus tôt en tant qu'interprète de l'armée, il fut fasciné par les montagnes de cette île[^1]. Ce jour-là, il s'attaqua au mont Yushan aux côtés de l'anthropologue Torii Ryūzō. Tandis que Torii atteignit le pic ouest, Mori Chunosuke gravit le pic nord. Durant les trente années suivantes, il parcourut presque toutes les tribus de haute montagne de Taïwan, laissant derrière lui plus de vingt espèces de plantes alpines nommées d'après « Mori » : le rhododendron de Mori, la _Primula morii_, ou encore l'angelica de Mori[^2]. Il fut le premier à réaliser un véritable « examen général » des montagnes de Taïwan.
 
-Mais pour ceux qui vivaient dans ces montagnes depuis toujours, aucune dénomination extérieure n'était nécessaire.
+Pourtant, pour ceux qui habitent la montagne, ces sommets n'ont jamais eu besoin de noms extérieurs.
 
-## Tongku Saveq : les montagnes sont plus anciennes que les États
+## Donggu Shafei : La montagne est plus ancienne que l'État
 
-Yushan, 3 952 mètres, point culminant de l'Asie du Nord-Est. Les Bunun l'appellent « Tongku Saveq » — « le refuge », le lieu où leurs ancêtres trouvèrent leur dernier abri lors du Grand Déluge[^3]. Les Atayal nomment Xueshan « B'bu' Hagay » (la montagne de pierre) ; Dabajian est leur montagne sacrée « Papak Waqa », que l'on ne peut escalader sans cérémonie d'offrande préalable. Les Tsou voient en Yushan un lieu saint et considèrent certains de ses pics comme demeure des esprits ancestraux, inaccessibles aux mortels ordinaires.
+Le mont Yushan, 3 952 mètres, est le point culminant du nord-est de l'Asie. Le peuple Bunun l'appelle « Tongku Saveq » (Donggu Shafei), ce qui signifie « refuge », le dernier lieu de repli des ancêtres lors de l'époque du Grand Déluge[^3]. Les Atayal du groupe Sqoyaw, vivant sur le versant sud du mont Xueshan, appellent Xueshan « B'bu' Hagay », signifiant « montagne de pierres », en référence aux blocs de grès éparpillés au sommet ; le groupe Beishi, dans le bassin de la rivière Da'an sur le versant ouest, utilise les termes « Sekoan » ou « Sekuwan », signifiant « débris et fissures »[^12]. La forme « Babo Hagai », fréquente dans les documents de l'époque coloniale japonaise, était une transcription phonétique japonaise et diffère de l'orthographe contemporaine de la langue Atayal publiée par le Centre de recherche sur les langues autochtones. Le mont Dabajian est la montagne sacrée des Atayal, le « Papak Waqa », où des rituels de prière sont indispensables avant toute ascension. Le peuple Tsou considère Yushan comme une montagne sacrée, certains sommets étant perçus comme les demeures des esprits ancestraux, interdisant toute ascension arbitraire.
 
-Ces noms précèdent de plusieurs millénaires l'appellation chinoise « Yushan ». Sous la dynastie Qing, le lettré Yu Yonghe note dans ses mémoires de voyage que ce sommet, aperçu de loin, « brille comme le jade sous la neige » — d'où le nom. À l'époque japonaise, on rebaptise le massif « Niitakayama » (le nouveau sommet élevé, plus haut que le Fuji). Après 1945, le nom de Yushan est restauré. La montagne n'a pas bougé ; son nom, lui, a changé quatre fois.
+Ces noms sont bien plus anciens que l'appellation chinoise « Yushan ». Sous le règne de Kangxi (dynastie Qing), le voyageur Yu Yonghe, dans son ouvrage _Bi Hai Ji You_, décrivit le sommet comme étant « aussi blanc et brillant que le jade », d'où naquit le nom de « Mont de Jade » (Yushan). À l'époque japonaise, il fut renommé « Shin-takayama » (le nouveau sommet plus haut que le Fuji), avant de reprendre son nom de Yushan après la guerre. La montagne n'a pas bougé ; seuls ses noms ont changé quatre fois.
 
-> **📝 Note de curation**
-> L'histoire des noms d'une montagne est l'histoire du pouvoir d'une île. Ceux qui nomment revendiquent la souveraineté. Mais les Bunun n'ont jamais eu besoin de revendiquer quoi que ce soit — ils ont toujours été là.
+> **📝 Note du commissaire d'exposition**
+> L'histoire des noms d'une montagne est l'histoire du pouvoir sur une île. Celui qui a le droit de nommer revendique la souveraineté. Mais les Bunun n'ont pas besoin de revendiquer : ils ont toujours été là.
 
-Les cinq chaînes de montagnes de Taïwan (Centrale, Xueshan, Yushan, Côtière, Alishan) résultent de la collision entre la plaque eurasienne et la plaque des Philippines. La chaîne Centrale s'étend sur 270 kilomètres du nord au sud, véritable colonne vertébrale de l'île, abritant plus de 170 sommets au-delà de trois mille mètres. De la mer à presque quatre mille mètres d'altitude, la transition s'effectue en quelques dizaines de kilomètres à peine : le climat passe du subtropical à l'alpin, la végétation des forêts de camphriers aux prairies de haute montagne. Ce « monde vertical compressé » offre, dans un espace extrêmement restreint, une succession complète d'écosystèmes.
+Les cinq grandes chaînes de montagnes de Taïwan (chaîne Centrale, chaîne Xueshan, chaîne Yushan, chaîne Côtière et chaîne Alishan) sont le produit de la collision entre la plaque Eurasienne et la plaque des Philippines. La chaîne Centrale, longue de 270 km du nord au sud, traverse l'île comme une colonne vertébrale, abritant plus de 170 sommets de plus de 3 000 mètres. De l'altitude zéro à près de 4 000 mètres, la distance verticale n'est que de quelques dizaines de kilomètres, faisant passer le climat du subtropical au froid alpin. Ce « monde vertical compressé » permet à Taïwan de posséder, sur une surface minuscule, des zones écologiques complètes allant des [[台灣森林生態系|forêts de feuillus de type laurier]] aux [[台灣高山生態系與冰河孑遺|prairies alpines]].
 
 ## Le père des Cent Sommets
 
-En 1971, pour célébrer le soixantième anniversaire de la République de Chine, l'Association alpine de la République de Chine organise une expédition aussi ambitieuse que folle : la Grande Traversée de la Chaîne Centrale. Deux équipes — bleue et blanche — partent respectivement du nord et du sud pour gravir soixante sommets dépassant les trois mille mètres, avant de se rejoindre au lac Qicai[^4].
+En 1971, pour célébrer le 60e anniversaire de la fondation de la République de Chine, l'Association de Montagne de la République de Chine organisa une expédition audacieuse : la grande traversée de la chaîne Centrale. Deux équipes, l'une blanche et l'autre bleue, partirent des deux extrémités pour gravir soixante sommets de plus de 3 000 mètres, se rejoignant finalement au lac aux sept couleurs (Qicaihu)[^4].
 
-L'homme qui pilote cette aventure s'appelle Lin Wen-an. Géomètre de formation, alpiniste depuis l'époque japonaise, il connaît les reliefs taïwanais comme ses propres poches. Inspiré par l'ouvrage de Fukada Kyuya, « Les cent célèbres montagnes du Japon », Lin Wen-an s'associe à Xing Tianzheng, Cai Jingzhang et Ding Tongsan — surnommés collectivement les « Quatre Grands de l'Alpinisme » — pour établir la liste des cent sommets taïwanais[^5].
+L'initiateur de cette action était Lin Wen-an. Technicien topographe ayant commencé l'alpinisme sous l'ère japonaise, il connaissait les montagnes de Taïlan si bien qu'il pouvait presque réciter le tracé de chaque crête. Inspiré par l'ouvrage _Les cent montagnes du Japon_ de Kumaya Fukuda, Lin Wen-an, avec Xing Tianzheng, Tsai Jing-zhang et Ding Tongsan (plus tard surnommés les « quatre rois de la montagne »), commença à établir la liste des Cent Sommets de Taïwan[^5].
 
-Leurs critères : altitude supérieure à dix mille pieds (environ 3 048 mètres), sommet nommé sur les cartes, présence d'un repère géodésique de préférence. Mais les critères objectifs ne suffisant pas, ils y ajoutent une dimension subjective : « singulier, périlleux, imposant, élégant ». La liste finale de cent sommets est arrêtée, avec une sélection de neuf représentatifs : les Cinq Pics (Yushan, Xueshan, Xiuguluan, Nanhu Dashan, Beidawushan), les Trois Aiguilles (Zhongyangjiān, Dabajian, Dafenjian) et l'Étrange (Qilai principal).
+Les critères étaient au nombre de trois : une altitude supérieure à 10 000 pieds (environ 3 048 mètres), un nom présent sur les cartes, et la priorité aux sommets dotés de points géodésiques. Mais les conditions objectives ne suffisaient pas ; ils y ajoutèrent des critères subjectifs : « l'étrangeté, la dangerosité, la rudesse et la beauté ». La liste finale fut fixée à cent sommets, dont neuf furent choisis comme les plus représentatifs : les Cinq Grands (Yushan, Xueshan, Xiuguluan, Nanhu Da Shan, Bei Wushan), les Trois Pics (Zhongjian Shan, Dabajian, Dafenshan) et l'Unique Curiosité (le mont Qilai).
 
-Le 5 décembre 1972, le Club des Cent Sommets est officiellement fondé au sommet du Yangtoushan, avec Lin Wen-an à sa présidence. Cette même année, Xing Tianzheng devient le premier grimpeur d'après-guerre à compléter les cent ascensions. Dès lors, le « cent complet » s'impose comme la réalisation ultime des alpinistes taïwanais — une liste qui peut prendre des années, parfois des décennies, à accomplir.
+Le 5 décembre 1972, le « Club des Cent Sommets » fut officiellement fondé au sommet du mont Yangtou, avec Lin Wen-an comme président. Cette année-là, Xing Tianzheng devint le premier alpiniste de l'après-guerre à avoir accompli l'intégralité des Cent Sommets. Depuis lors, l'accomplissement des « Cent Sommets » est devenu l'objectif ultime des alpinistes taïwanais, une liste qui nécessite des années, voire des décennies, pour être complétée.
 
 > **💡 Le saviez-vous ?**
-> En mai 2025, le coureur de trail Gu Mingzheng a enchaîné les cent sommets en 34 jours : 940 kilomètres de parcours, 97 700 mètres de dénivelé cumulé. Ce record a transformé ce qui était un projet de vie en une course d'endurance extrême.
+> En mai 2025, le traileur Gu Mingzheng a terminé l'intégralité des Cent Sommets en 34 jours, parcourant un total de 940 km avec un dénivelé positif cumulé de 97 700 mètres. Ce record transforme l'accomplissement des « Cent Sommets » d'un projet de vie en une épreuve d'endurance extrême.
 
-La culture des Cent Sommets a cependant ses effets pervers. Lorsque la randonnée devient une liste à cocher, que le repère géodésique au sommet sert de décor pour les photos, que les randonneurs se pressent vers le haut sans observer ce qui les entoure, l'obsession du « cent complet » peut éclipser la compréhension réelle de la montagne.
+Cependant, la culture des Cent Sommets a aussi ses revers. Lorsque l'alpinisme devient une simple liste de cases à cocher et que les points géodésiques ne servent plus que de décor photographique, les randonneurs, pressés par le sommet, en oublient l'écosystème environnant. L'obsession de « collectionner les sommets » occulte parfois la compréhension même de la montagne.
 
-## Un demi-siècle de montagne sous clé
+## Un demi-siècle de verrouillage montagnard
 
-Entre les Taïwanais et leurs montagnes, une serrure a tenu pendant un demi-siècle.
+Entre les Taïwanais et leurs montagnes s'est érigé, pendant un demi-siècle, un verrou.
 
-À partir des années 1950, le gouvernement nationaliste impose un contrôle d'accès strict au nom de la sécurité militaire. Vouloir randonner ? Il fallait d'abord obtenir un permis d'entrée de type A, puis de type B, soumis à l'examen des autorités policières. La montagne n'était pas un endroit où l'on allait librement — c'était une zone contrôlée.
+Dès les années 1950, le gouvernement nationaliste a imposé des contrôles stricts sur l'accès aux montagnes pour des raisons de sécurité militaire. Vous voulez grimper ? Il fallait d'abord demander un permis de type A ou B, soumis à l'examen des autorités de police. La montagne n'était pas un lieu de libre passage, mais une zone réglementée.
 
-Ce verrou a tenu près de soixante-dix ans. Le 21 octobre 2019, le Premier ministre Su Tseng-chang annonce la politique « Rendre hommage à la montagne » : cinq axes (ouverture des forêts, transparence de l'information, simplification administrative, éducation du public, responsabilités clairement définies) permettent de regrouper les démarches d'accès en un guichet unique en ligne[^6]. Hormis les zones à impératif militaire, les terrains dangereux, les lieux sacrés des peuples autochtones et les zones de conservation, l'ensemble du territoire montagneux est désormais accessible.
+Ce verrou est resté en place pendant près de soixante-dix ans. Le 21 octobre 2019, le président de l'Exécutif, Su Tseng-chang, a annoncé la politique « Hommage à la Montagne », s'articulant autour de cinq axes (ouverture des forêts, transparence de l'information, service aux citoyens, éducation généralisée et responsabilité claire), regroupant les demandes d'accès en une plateforme unique et simplifiée[^6]. À l'exception des nécessités de défense nationale, des zones dangereuses, des terres sacrées autochtones ou des zones protégées, l'accès fut totalement ouvert.
 
-Dès la levée des restrictions, les montagnes taïwanaises sont prises d'assaut. La pandémie de COVID-19, en 2020, qui bloque les départs à l'étranger, accélère encore le phénomène. « Si on ne peut pas voyager à l'étranger, autant aller randonner » devient un réflexe national. Les chiffres parlent d'eux-mêmes : en 2019, on compte 207 accidents en montagne et 27 morts ; en 2020, ces chiffres bondissent à 454 accidents et 41 morts, le nombre d'incidents ayant plus que doublé[^7]. Les accidents sur les sentiers de basse montagne augmentent de 230 %.
+Après la levée des restrictions, les montagnes de Taïwan ont été instantanément envahies par la foule. Conjugué à l'arrêt des voyages internationaux dû à la pandémie de COVID-19 en '20, le slogan « si on ne peut pas partir à l'étranger, allons en montagne » est devenu un véritable mouvement national. Les chiffres parlent d'eux-mêmes : en 2019, on comptait 207 accidents de montagne et 27 décès ; en 2020, ce chiffre a bondi à 454 accidents et 41 décès, soit plus du double[^7]. La progression des accidents en zone de basse montagne fut la plus spectaculaire, atteignant 230 %.
 
-La liberté était là — mais était-on prêt à l'assumer ?
+La liberté est revenue, mais êtes-vous prêts ?
 
-## Zhang Bowei et la révolution des secours en montagne
+## Chang Boywei et la révolution des secours
 
-Le 27 février 2011, Zhang Bowei, étudiant à l'Université médicale de Chungshan, s'engage seul sur le mont Baigu Dashan. Il se perd et appelle les secours. Le service d'incendie du comté de Nantou mobilise plus de 600 intervenants sur 51 jours — sans résultat. Le 19 avril, deux randonneurs amateurs entrent en montagne et retrouvent le corps le lendemain[^8].
+Le 27 février 2011, Chang Boywei, étudiant à l'université médicale de Zhongshan, s'est égaré lors d'une ascension solitaire du mont Baigu. Après avoir appelé à l'aide, les services de secours du comté de Nantou ont déployé plus de 600 effectifs pendant 51 jours, sans résultat. Le 19 avril, deux randonneurs privés sont entrés dans la zone et ont trouvé le corps dès le lendemain[^8].
 
-51 jours contre 2 jours. Ce contraste a choqué toute la société taïwanaise.
+51 jours contre 2 jours. Ce contraste a profondément choqué la société taïwanaise.
 
-Les parents de Zhang Bowei engagent une action en réparation contre l'État. En première instance, le service d'incendie est condamné à verser 2,67 millions de dollars taïwanais. En appel, la Haute Cour renverse le jugement : « Les citoyens n'ont pas le droit à une montagne sans risque zéro », et l'État est exonéré[^9]. Le verdict fait débat, mais ce qui importe davantage, c'est le changement systémique qu'a déclenché cette affaire : elle a mis en lumière l'inadéquation des services de secours face aux opérations en montagne, et fait émerger la réalité que « pompier » ne signifie pas « expert en sauvetage alpin ».
+Les parents de Chang Boywei ont intenté un procès pour indemnisation de l'État. En première instance, les pompiers ont été condamnés à verser 2,67 millions de dollars taïwanais. Cependant, en appel, la décision fut infirmée : la Haute Cour a statué que « les citoyens n'ont pas le droit d'exiger une absence totale de risque lors de l'alpinisme », mettant fin au litige sans indemnisation[^9]. Bien que le verdict soit controversé, cette affaire a véritablement transformé le système de secours : elle a lancé le débat sur la professionnalisation des secours en montagne, mettant en lumière le fait que « un pompier n'est pas nécessairement un expert en sauvetage alpin ».
 
-> **📝 Note de curation**
-> L'héritage réel de l'affaire Zhang Bowei est une question encore sans réponse : dans quelle mesure l'État doit-il protéger les citoyens qui s'engagent en montagne ? Cette question reste, à ce jour, sans consensus.
+> **📝 Note du commissaire d'exposition**
+> Le véritable héritage de l'affaire Chang Boywei est une question sans réponse : jusqu'à quel point l'État est-il responsable de la protection des citoyens pénétrant dans les zones forestières ? À ce jour, aucun consensus n'a été trouvé.
 
-## Les larmes de l'ange et les limites de la capacité d'accueil
+## Les larmes d'un ange et les limites de la capacité d'accueil
 
-À 3 310 mètres d'altitude, entre le mont Xiangyang et le mont Sanchā, le lac Jiaming repose dans un silence absolu. Deuxième lac de haute montagne de Taïwan par l'altitude, il est surnommé « les larmes de l'ange ».
+À 3 310 mètres d'altitude, entre le mont Xiangyang et le mont Sancha, le lac Jiaming repose paisiblement ; c'est le deuxième plus haut lac de haute montagne de Taïwan, surnommé « les larmes d'un ange ».
 
-Son origine fait elle-même l'objet d'un débat scientifique. En 2003, le professeur Chi Shih-chang de l'Université nationale de Kaohsiung identifie sur le terrain des éléments caractéristiques d'un cirque glaciaire — verrous rocheux, moraines frontales, stries de glissement — et conclut à une origine glaciaire. D'autres chercheurs avancent l'hypothèse d'un impact météoritique. En 2015, Yang Jianfu et ses collègues suggèrent qu'un météorite d'environ dix mètres de diamètre aurait pu créer ce cratère il y a cent mille ans[^10]. Cependant, Zhu Xiaozu, du Service central de géologie, ne trouve sur les berges aucune trace de coésite ni de stishovite — minéraux révélateurs d'un impact — et estime la probabilité de l'origine météoritique à moins de 2 %.
+Son origine elle-même fait l'objet d'un débat scientifique. En 2003, le professeur Qi Shizheng, du département de géographie de l'université de NTNU, a conclu, sur la base de cirques glaciaires et de moraines, qu'il s'agissait d'un lac de cirque légué par l'ère glaciaire. D'autres chercheurs ont proposé une théorie d'impact de météorite. En 2015, des travaux menés par Yang Jianfu suggérain qu'une météorite d'environ dix mètres de diamètre aurait pu créer ce creux il y a cent mille ans[^10]. Toutefois, Zhu Xiaozu, du Bureau central de géologie, n'a trouvé ni quartz ni sillimanite (typiques d'un impact) sur les rives, estimant la probabilité d'une origine météoritique à seulement 2 %.
 
-L'origine reste incertaine ; la beauté du lieu, elle, ne l'est pas. Le refuge de Xiangyang et le refuge du lac Jiaming offrent chacun 70 couchages, auxquels s'ajoutent des emplacements de camping pour une capacité totale d'environ 176 personnes. L'accès se fait par tirage au sort mensuel, avec un taux de succès très faible. Ce système traduit le plafond de capacité de cette prairie d'altitude — ce plafond, par nature, n'est pas plus grand que cela. Le lac ne contient pas de poissons (l'altitude est trop élevée) ; les abords abritent des espèces menacées comme l'Isoetes taiwanensis. Un pas de travers peut suffire à faire disparaître une espèce.
+L'incertitude sur l'origine n'enlève rien à la beauté du site. Les refuges de Xiangyang et de Jiaming offrent chacun 70 lits, pour une capacité totale d'environ 176 personnes avec les campements. L'accès aux refuges se fait par tirage au sort mensuel, avec un taux de réussite extrêmement faible. Ce système de régulation reflète la limite de la capacité d'accueil de cette prairie alpine, qui est intrinsèquement limitée. Le lac ne contient aucun poisson (altitude trop élevée) et ses environs abritent des plantes menacées comme l'_Bulbinella taiwanensis_ ; un seul pas de travers pourrait éradiquer une espèce.
 
-## La montagne comme miroir
+## La montagne est un miroir
 
-Cinq millions de randonneurs à Taïwan, face à 268 sommets de plus de trois mille mètres. Les trois parcs nationaux de haute montagne (Yushan, Shei-Pa, Taroko) protègent les territoires les plus précieux, mais les ressources de gestion peinent à suivre la croissance du flux humain. Le refuge de Paiyun, avec ses 92 couchages, est complet dès la haute saison. Les principes du Leave No Trace s'enracinent peu à peu, mais la dégradation des sentiers autour du lac Jiaming, les déchets au sommet de Yushan, la gestion des déjections dans les campements d'altitude restent des défis permanents.
+Les 5 millions d'alpinistes à Taïwan font face à 268 sommets de plus de 3 000 mètres. [[台灣國家公園|Trois parcs nationaux de type montagneux]] (Yushan, Shei-Pa et Taroko) protègent les zones les plus centrales, mais les ressources de gestion ne parviennent jamais à suivre l'expansion de la fréquentation. Les 92 lits du refuge de Paiyun Shan sont complets bien avant la haute saison. Si le concept de [[台灣步道文化與公民守護|Leave No Trace]] (LNT) s'enracine progressivement, le piétinement des sentiers de Jiaming, les déchets sur Yushan et la gestion des déchets humains en haute montagne restent des défis persistants.
 
-Le changement climatique fait remonter la limite des neiges et multiplie les événements météorologiques extrêmes. Le savoir montagnard millénaire des peuples autochtones — lecture du ciel, connaissance des plantes, maîtrise des itinéraires — est aujourd'hui redécouvert et valorisé. Le système des guides de village permet aux Atayal de Smangus et aux Bunun de Luanshan de tisser un lien entre écotourisme et transmission culturelle.
+Le changement climatique provoque une remontée de la limite des neiges et une fréquence accrue des phénomènes météorologiques extrêmes. La sagesse millénaire des [[台灣原住民生態智慧與環境保育|peuples autochtones]] (observation météo, identification des plantes, lecture des sentiers) est aujourd'hui réévaluée. Le système de guides locaux permet aux communautés de [[台灣原住民族歷史與正名運動|Sima Kursu]] (Atayal) et de Luanshan (Bunun) de trouver un point de convergence entre écotourisme et transmission culturelle.
 
-Lin Wen-an est décédé en 1975, sans voir l'essor que connaîtra la culture des Cent Sommets. Mori Ushinosuke a disparu en 1926 à bord du navire qui le ramenait au Japon — on pense qu'il s'est jeté à la mer. Ce qu'il aimait par-dessus tout, jusqu'à la fin, c'étaient les montagnes de Taïwan[^11].
+Lin Wen-an est décédé en 1975, sans avoir pu voir l'explosion de la culture des Cent Sommets. Mori Chunosuke a disparu en 1926 sur un navire retournant au Japon, on pense qu'il s'est suicidé en se jetant à la mer. Ce qu'il chérissait par-dessus tout restait les montagnes de Taïwan[^11].
 
-Cent ans plus tard, les montagnes sont toujours là, immuables. Ce qui a changé, c'est ce qui vit à leurs pieds : un parcours passant d'abord par la restriction et l'ouverture, par la crainte et la fièvre, avant de commencer lentement à apprendre à coexister avec la montagne.
+Un siècle plus tard, les montagnes sont toujours là. Ce qui a changé, ce sont les hommes au pied des montagnes : après avoir traversé les époques de restriction et d'ouverture, de peur et de passion, ils apprennent enfin à coexister avec la montagne.
 
-La surface du lac Jiaming reflète le ciel, qu'il y ait ou non quelqu'un pour la contempler.
+L'eau du lac Jiaming reflète le ciel, que quelqu'un regarde ou non.
 
 **Pour aller plus loin :**
 
-- [Écosystèmes forestiers de Taïwan](/nature/台灣森林生態系) — De la forêt de camphriers aux forêts de sapins, la distribution verticale complète de la végétation
-- [Écosystèmes alpins et reliques glaciaires](/nature/台灣高山生態系與冰河孑遺) — Prairies d'altitude et espèces reliques de l'ère glaciaire au-dessus de trois mille mètres
-- [Parcs nationaux de Taïwan](/nature/台灣國家公園) — Gestion et conservation des trois parcs nationaux de haute montagne : Yushan, Shei-Pa, Taroko
-- [Culture des sentiers et gardiens citoyens](/nature/台灣步道文化與公民守護) — Le mouvement Leave No Trace et la participation citoyenne à l'entretien des sentiers
-- [Savoirs écologiques autochtones et conservation](/nature/台灣原住民生態智慧與環境保育) — Dialogue entre le savoir montagnard millénaire et la conservation moderne
+- [台灣森林生態系](/nature/台灣森林生態系) — De la forêt de feuillus au sapin de haute altitude, une gamme écologique complète selon l'altitude.
+- [台灣高山生態系與冰河孑遺](/nature/台灣高山生態系與冰河孑遺) — Les prairies alpines au-dessus de 3 000 mètres et les espèces reliques de l'ère glaciaire.
+- [台灣國家公園](/nature/台灣國家公園) — Gestion et conservation des trois parcs nationaux montagneux (Yushan, Shei-Pa, Taroko).
+- [台灣步道文化與公民守護](/nature/台灣步道文化與公民守護) — Pratiques locales du mouvement "Leave No Trace" et participation citoyenne à l'entretien des sentiers.
+- [台灣原住民生態智慧與環境保育](/nature/台灣原住民生態智慧與環境保育) — Comment la sagesse millénaire des autochtones dialogue avec la conservation moderne.
 
 ## Références
 
-[^1]: [Mémoire culturelle nationale : Mori Ushinosuke](https://tcmb.culture.tw/zh-tw/detail?id=661812&indexCode=Culture_Object) — Mori Ushinosuke (1877-1926), arrivé à Taïwan à 18 ans en 1895, a servi au musée annexe du Bureau des industries du Gouvernement général. Pendant trente ans, il a parcouru toute l'île, devenant le chercheur japonais le plus profondément immergé dans les villages de montagne de Taïwan.
+[^1]: [National Digital Memory: Mori Chunosuke](https://tcmb.culture.tw/zh-tw/detail?id=661812&indexCode=Culture_Object) — Mori Chunosunque (1877-1926), arrivé à Taïwan à 18 ans en 1895, a travaillé dans diverses institutions comme le musée de l'administration coloniale. Durant trente ans, il a parcouru toute l'île et Lanyu, étant l'un des chercheurs ayant le plus exploré les montagnes de Taïwan durant l'ère japonaise.
 
-[^2]: [BIOS Monthly : Enquêtes de terrain et photographie au Taïwan colonial (II)](https://www.biosmonthly.com/article/7737) — Présentation des enquêtes ethnologiques de Mori Ushinosuke et Torii Ryuzo à Taïwan ; plus de vingt espèces végétales de haute montagne portent l'épithète « morii » en son honneur.
+[^2]: [BIOS Monthly: Exploration de terrain et photographie dans le Taïwan japonais (II)](https://www.biosmonthly.com/article/7737) — Présente les recherches ethnographiques de Mori Chunosuke et Torii Ryūzō à Taïwan ; plus de vingt espèces de plantes alpines portant le nom « Mori » sont son héritage.
 
-[^3]: [Mata Taiwan : Reconnaître Taïwan ne peut se limiter à Yushan — il faut aussi connaître Tongku Saveq](https://www.matataiwan.com/2016/07/15/tongku-saveq/) — Les Bunun appellent Yushan « Tongku Saveq » (le refuge), en référence au lieu de dernier recours de leurs ancêtres lors de la légende du Grand Déluge.
+[^3]: [Mata Taiwan: L'identité de Taïwan ne doit pas se limiter au mont Yushan, mais découvrir ce « Donggu Safei »](https://www.matataiwan.com/2016/07/15/tongku-saveq/) — Le peuple Bunun appelle Yushan « Tongku Saveq » (Donggu Safei), signifiant « refuge », issu de la légende du dernier abri des ancêtres lors du Grand Déluge.
 
-[^4]: [Sunriver Culture : Une brève histoire des Cent Sommets — si vous revenez des Cent Sommets, vous devriez en connaître l'histoire](https://www.sunriver.com.tw/takayama/history.htm) — Récit détaillé de la Grande Traversée de la Chaîne Centrale de 1971 et du processus de sélection des Cent Sommets.
+[^4]: [Shanghe Culture: Petite histoire des Cent Sommets — De retour des Cent Sommets, on doit connaître leur histoire](https://www.sunriver.com.tw/takayama/history.htm) — Détaille la grande traversée de la chaîne Centrale en 1971 et le processus de sélection des Cent Sommets, documentant les critères des « quatre rois de la montagne » (Lin Wen-an, Xing Tianzheng, Tsai Jing-zhang, Ding Tongsan).
 
-[^5]: [Wikipédia : Les cent sommets de Taïwan](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%99%BE%E5%B2%B3) — En 1971, Lin Wen-an, inspiré par Fukada Kyuya, établit les critères : altitude supérieure à dix mille pieds, sommet nommé sur les cartes, présence de préférence d'un repère géodésique, et les qualités subjectives « singulier, périlleux, imposant, élégant ».
+[^5]: [Wikipédia : Les Cent Sommets de Taïwan](https://zh.wikipedia.org/zh-hant/%E5%8F%B0%E7%81%A3%E7%99%BE%E5%B2%B3) — En 1971, Lin Wen-an, inspiré par l'ouvrage _Les cent montagnes du Japon_ de Kumaya Fukuda, a élaboré la liste des Cent Sommets de Taiment avec pour critères l'altitude (plus de 10 000 pieds), la présence sur les cartes et la priorité aux points géodésiques, complétés par des critères subjectifs (« étrange, dangereux, rude, beau »).
 
-[^6]: [Yuan exécutif : Les montagnes de Taïwan sont magnifiques — le Premier ministre Su annonce la politique d'ouverture des forêts (2019)](https://www.ey.gov.tw/PageRedirect.aspx?l=bda82de6-ef4a-4630-b207-17e1199c27fe) — Le 21 octobre 2019, le Yuan exécutif annonce les cinq axes de la politique « Rendre hommage à la montagne », regroupant les démarches d'accès en un guichet unique en ligne et levant largement les restrictions.
+[^6]: [Exécutif : Les montagnes de Taïwan sont magnifiques — Annonce de la politique d'ouverture des forêts (2019)](https://www.ey.gov.tw/PageRedirect.aspx?l=bda82de6-ef4a-4630-b207-17e1199c27fe) — Le 21 octobre 2019, l'Exécutif a annoncé les cinq axes de la politique « Hommage à la Montagne », centralisant les demandes d'accès sur un site unique pour assouplir les restrictions.
 
-[^7]: [The News Lens : Les statistiques des accidents en montagne révèlent la « fièvre alpine » taïwanaise de 2020](https://www.thenewslens.com/feature/taiwanmountain/142353) — 207 accidents et 27 morts en 2019 ; 454 accidents et 41 morts en 2020, avec une hausse de 230 % des incidents en basse montagne ; l'égarement représente 38 % des demandes de secours.
+[^7]: [The News Lens: Analyse des statistiques de secours en montagne pour comprendre la « fièvre de l'alpinisme » en 2020](https://www.thenewslens.com/feature/taiwanmountain/142353) — En 2019, 207 accidents et 27 décès ; en 2020, explosion à 454 accidents et 41 décès, avec une hausse de 230 % des accidents en zone de basse montagne, l'égarement étant la cause principale (38 %).
 
-[^8]: [Wikipédia : L'accident en montagne de Zhang Bowei](https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E5%8D%9A%E5%B4%B4%E5%B1%B1%E9%9B%A3) — En février 2011, Zhang Bowei s'engage seul sur le mont Baigu Dashan et se perd ; après 51 jours de recherches mobilisant plus de 600 intervenants des pompiers sans résultat, deux randonneurs amateurs retrouvent le corps en deux jours, déclenchant un réexamen complet du système de secours en montagne.
+[^8]: [Wikipédia : Accident de montagne de Chang Boywei](https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E5%8D%9A%E5%B4%B4%E5%B1%B1%E9%9B%A3) — En février 2011, Chang Boywei s'est égaré lors d'une ascension du mont Baigu. Malgré 51 jours de recherches par plus de 600 personnes, le corps n'a été retrouvé que deux jours après l'intervention de randonneurs privés, provoignant une révision complète du système de secours.
 
-[^9]: [The News Lens : Les citoyens n'ont pas droit à une montagne sans risque — l'affaire Zhang Bowei classée sans réparation](https://www.thenewslens.com/article/86363) — En première instance, le service d'incendie de Nantou est condamné à verser 2,67 millions de NTD ; en appel, la Haute Cour renverse le jugement et la Cour suprême rejette le pourvoi en 2018.
+[^9]: [The News Lens: Les citoyens n'ont pas de droit à une « absence de risque » en montagne — Fin du litige sur l'indemnisation de l'accident Chang Boywei](https://www.thenewslens.com/article/86363) — La première instance avait condamné les pompiers de Nantou à verser 2,67 millions de dollars, mais la Haute Cour a infirmé cette décision, et la Cour Suprême a rejeté l'appel en 2018.
 
-[^10]: [China Times : Les larmes de l'ange — le lac Jiaming, héritage glaciaire (2014)](https://www.chinatimes.com/newspapers/20140905000811-260114) — En 2003, le professeur Chi Shih-chang identifie un cirque glaciaire ; en 2015, Yang Jianfu propose l'hypothèse d'un impact météoritique ; Zhu Xiaozu du Service central de géologie n'a pas trouvé de coésite et estime la probabilité de l'impact à environ 2 %.
+[^10]: [China Times: Les larmes d'un ange — Le lac Jiaming est un vestige glaciaire (2014)](https://www.chinatimes.com/newspapers/20140905000811-260114) — En 2003, le professeur Qi Shizheng a conclu à un lac de cirque ; en 2015, Yang Jianfu et ses collègues ont proposé la théorie de l'impact météoritique ; toutefois, Zhu Xiaozu n'a pas trouvé les traces minéralogiques nécessaires, estimant la probabilité d'un impact à seulement 2 %.
 
-[^11]: [Books.com.tw : « Marches parmi les peuples des montagnes : l'exploration de Taïwan par Mori Ushinosuke », édition collector](https://www.books.com.tw/products/0010900485) — Traduit et annoté par Yang Nanjun, publié par Yuan-Liou. Mori Ushinosuke disparaît en 1926 à bord du navire le ramenant au Japon — on pense qu'il s'est jeté à la mer. Ce livre retrace trente ans d'enquêtes de terrain dans les villages de montagne taïwanais.
+[^11]: [Books.com.tw: « Exploration des terres sauvages : L'aventure de Mori Chunosuke en Taïwan » édition commémorative](https://www.books.com.tw/products/0010900485) — Traduit et annoté par Yang Nan-chun, publié par Yuan-Liou. Mori Chunosuke a disparu en 1926 sur un navire vers le Japon. Ce livre retrace ses trente années d'exploration des montagnes de Taïwan.
+
+[^12]: [Wikipédia : Mont Xueshan (Taïwan)](<https://zh.wikipedia.org/zh-tw/雪山_(臺灣) — L'article précise que les appellations Atayal varient selon les groupes : le groupe Sqoyaw (versant sud, bassin de la rivière Da'ajia) l'appelle « B'bu' Hagay » (« montagne de pierres »), tandis que le groupe Beishi (versant ouest, bassin de la rivière Da'an) utilise « Sekoan » ou « Sekuwan » (« débris et fissures »). L'ancienne graphie « Babo Hagai » était une transcription japonaise de l'époque coloniale.

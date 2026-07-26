@@ -1,166 +1,165 @@
 ---
-title: 'Le développement de la fintech à Taïwan'
-description: "Un prodige de Wall Street revient à Taïwan pour fonder un service de paiement mobile ; neuf ans plus tard, sa société est saisie et ses comptes bancaires contiennent moins de mille yuans. Ce n'est pas seulement l'histoire d'un homme : c'est celle d'une île entière tiraillée entre « ouverture » et « dérive » au cours d'une décennie de fintech."
+title: "L'évolution de la FinTech à Taïwan"
+description: "Un prodige de Wall Street revient à Taïwan pour fonder un service de paiement mobile ; neuf ans plus tard, l'entreprise est saisie et les comptes ne contiennent pas même mille dollars — ce n'est pas seulement l'histoire d'un homme, mais celle d'une décennie technologique entre « ouverture » et « perte de contrôle »."
 date: 2026-04-06
+category: 'Economy'
 tags:
   [
-    'fintech',
     'FinTech',
-    'banque numérique',
-    'paiement mobile',
-    'bac à sable réglementaire',
-    'banque en ligne pure',
-    'paiement électronique',
+    'Banque numérique',
+    'Paiement mobile',
+    'Bac à sable réglementaire',
+    'Banque purement en ligne',
+    'Paiement électronique',
   ]
 subcategory: '金融與科技'
-category: Economy
 author: 'Taiwan.md'
 featured: false
-readingTime: 12
 lastVerified: 2026-04-06
 lastHumanReview: false
-translatedFrom: Economy/台灣金融科技發展.md
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:c4241632c676aa85'
-sourceBodyHash: 'sha256:b0709e8ad615db88'
-translatedAt: 2026-05-16T22:20:34Z
+readingTime: 12
+translatedFrom: 'Economy/台灣金融科技發展.md'
+sourceCommitSha: '879ed9e77'
+sourceContentHash: 'sha256:54da57abafa311d1'
+sourceBodyHash: 'sha256:eb1efaa0a4f468ff'
+translatedAt: '2026-07-26T19:42:10+08:00'
 ---
 
-# Le développement de la fintech à Taïwan
+# L'évolution de la FinTech à Taïwan
 
-> **En 30 secondes :** Le 10 juillet 2025, la société mère de JKOPay, le plus grand service de paiement mobile de Taïwan, a été saisie par un tribunal. Les cinq comptes bancaires de l'entreprise contenaient, cumulés, moins de mille yuans. Neuf ans plus tôt, son fondateur Hu Yijia était revenu de Wall Street avec l'ambition de rendre les paiements taïwanais aussi pratiques qu'en Chine. Que s'est-il passé entre-temps ? La fintech taïwanaise a démarré en 2015 avec un livre blanc politique, traversé l'ère du bac à sable réglementaire, la guerre des paiements mobiles, les trois banques en ligne pure accumulant 9,9 milliards de TWD de pertes, jusqu'aux essais de la banque centrale sur le dollar numérique — chaque étape sur un fil entre « laisser innover » et « éviter la catastrophe ».
+> **Aperçu en 30 secondes :** Le 10 juillet 2025, la société mère de « JKO Pay » (街口支付), le plus grand service de paiement mobile local de Taïwan, a été saisie par un tribunal ; les soldes de ses cinq comptes bancaires s'élevaient à moins de mille dollars. Il y a neuf ans, lorsque son fondateur Hu Yi-chia (胡亦嘉) est revenu de Wall Street à Taïwan, il affirmait vouloir rendre les paiements taïwanais aussi simples qu'en Chine. Que s'est-il passé entre-temps ? Depuis la publication du livre blanc sur les politiques en 2015, la FinTech taïwanaise a traversé le bac à sable réglementaire, les guerres du paiement mobile, les pertes cumulées de 9 milliards de dollars des trois banques purement en ligne, jusqu'aux expérimentations de la Banque centrale sur le nouveau dollar taïwanais numérique — chaque étape fut un exercice d'équilibriste entre « encourager l'innovation » et « éviter le crash ».
 
-## Le retour du prodige de Wall Street
+## Le prodige de Wall Street est de retour
 
-En 2015, un jeune homme d'une trentaine d'années revient de Chine à Taïwan pour fonder JKOPay.
+En 2015, un jeune homme d'une trentaine d'années est revenu de Chine pour s'installer à Taïwan et fonder JKO Pay.
 
-Il s'appelle Hu Yijia. Diplômé en mathématiques appliquées de l'université Chiao Tung, titulaire d'un master de l'université Columbia, il a travaillé comme analyste dans un fonds spéculatif à Wall Street, avec un salaire annuel dépassant les dix millions de dollars taïwanais. La presse le surnomme le « prodige de Wall Street ». Mais ce n'est pas la nostalgie qui l'a ramené : après plusieurs années à Suzhou, en Chine, il a vu de ses propres yeux comment Alipay et WeChat Pay ont transformé les habitudes de consommation de plus d'un milliard de personnes. Il voulait reproduire la même chose à Taïwan.[^1]
+Il s'appelle Hu Yi-chia, diplômé en mathématiques appliquées de l'Université de Chung Hua (Chiao Tung) et titulaire d'un master de l'Université Columbia. Il fut analyste dans un fonds spéculatif à Wall Street, avec un salaire annuel dépassant les dix millions de dollars taïwanais. Les médias l'ont surnommé le « prodige de Wall Street ». Ce n'est pas la nostalgie qui l'a fait revenir : après avoir passé quelques années à Suzhou, en Chine, il a vu de ses propres yeux comment Alipay et WeChat Pay avaient transformé les habitudes de consommation de plus d'un milliard de personnes ; il voulait reproduire ce succès à Taïwan. [^1]
 
-Son lignage n'est pas anodin non plus : son grand-père Hu Xin a été le chef de la garde du président Tchang Kaï-chek, et son père Hu Dingwu a présidé China Development Financial Holding et la tour Taipei 101. Les réseaux du monde financier, Hu Yijia les avait dès la naissance.[^2]
+Sa lignée est tout aussi impressionnante : son grand-père, Hu Xin (胡炘), était le chef de la garde de Tchang Kaï-chek, et son père, Hu Ding-wu (胡定吾), a présidé la Taïwan Development Financial Holding et la tour Taipei 101. Hu Yi-chia est né avec un réseau influent dans le milieu financier. [^2]
 
-JKOPay obtient sa licence de paiement électronique en 2018 et lance officiellement son service, conquérant le marché grâce à des programmes de cashback généreux. En 2020, JKOPay est déjà la plus grande marque locale de paiement mobile à Taïwan, avec plus de six millions d'utilisateurs. Hu Yijia défi publiquement LINE Pay et annonce son intention d'introduire JKOPay au marché OTC en 2024, puis en bourse en 2025.[^3]
+JKO Pay a obtenu sa licence de paiement électronique en 2018 et a lancé ses services officiellement, conquérant le marché grâce à des programmes de récompenses élevés. En 2020, JKO était devenu la plus grande marque locale de paiement mobile, avec plus de 6 millions d'utilisateurs. Hu Yi-chia avait ouvertement déclaré son intention de défier LINE Pay, prévoyant une introduction en bourse sur le marché secondaire (TPEx) en 2024, puis une cotation officielle en 2025. [^3]
 
-Puis les choses commencent à déraper.
+Puis, la situation a commencé à basculer.
 
 ## Le jour où 3,6 milliards ont disparu
 
-En 2023, Zhan Jingchao, président de l'entreprise Taishan Enterprise, acquiert 40 % des actions de JKOPay Financial Technology pour 3,6 milliards de TWD. Mais une bataille pour le contrôle éclate au sein de Taishan ; la nouvelle équipe dirigeante, une fois installée au conseil d'administration, conteste cette transaction en justice.
+En 2023, le président de Taishan Enterprise, Chan Ching-chao (詹景超), a acquis 40 % des parts de JKO Fintech pour 3,6 milliards de dollars taïwanais. Cependant, une lutte pour le contrôle de la gestion a éclaté au sein de Taishan, et la nouvelle équipe du conseil d'administration a intenté un procès concernant cette transaction.
 
-En juillet 2025, le tribunal déclare la transaction nulle et ordonne à JKOPay Financial Technology de rembourser les 3,6 milliards. Lors de l'exécution de la saisie, les huissiers découvrent un détail frappant : les cinq comptes bancaires de JKOPay Financial Technology contiennent, cumulés, moins de mille yuans.[^4]
+En juillet 2025, le tribunal a déclaré la transaction nulle, obligeant JKO Fintech à restituer les 3,6 milliards. Lors de la saisie exécutoire, les agents du tribunal ont fait une découverte : les cinq comptes bancaires de JKO Fintech totalisaient moins de mille dollars en dépôts. [^4]
 
-Le jour de la saisie, près de 300 employés sont informés en télétravail à la dernière minute, et l'enseigne du bureau est décrochée. Hu Yijia est ensuite poursuivi par le parquet pour abus de confiance aggravé, interdit de quitter le territoire, et a même été un temps placé sous surveillance par bracelet électronique.[^5]
+Le jour de la saisie, près de 300 employés ont été informés soudainement de passer en télétravail, et l'enseigne du bureau a été retirée. Hu Yi-chia a ensuite été inculpé par le parquet pour abus de confiance aggravé, avec une interdiction de sortie du territoire, et a même dû faire face à une surveillance par bracelet électronique. [^5]
 
-> **📝 Note du curateur**
-> Les fonds des utilisateurs de JKOPay eux-mêmes sont en sécurité — conformément à la _Loi sur la gestion des institutions de paiement électronique_, toutes les sommes prépayées sont détenues en fiducie dans des comptes séquestres par des banques mandataires, totalement isolées des finances de la société mère. La Commission de supervision financière n'a cessé de le souligner. Mais l'image de « comptes contenant moins de mille yuans » a déjà gravement érodé la confiance dans les startups financières taïwanaises.
+> **📝 Note du commissaire**
+> Les fonds des utilisateurs de JKO Pay sont en sécurité — conformément au _Règlement sur la gestion des institutions de paiement électronique_, tous les fonds déposés sont conservés séparément par les banques fiduciaires dans des comptes de fiducie, totalement isolés des finances de la société mère. La Commission des services financiers (FSC) a maintes fois insisté sur ce point. Cependant, l'image de « comptes contenant moins de mille dollars » a gravement ébranlé le socle de confiance du secteur financier des startups à Taïwan.
 
-Ce n'est pas la première fois que Hu Yijia s'oppose aux autorités de régulation. Dès 2020, la Commission de supervision financière avait sanctionné le produit « Tubao » pour sept infractions — tromperie des investisseurs, atteinte à la gouvernance d'entreprise — par une amende de trois millions de TWD et avait révoqué Hu Yijia de son poste de directeur chez JKOPay Investment Trust. Sa réponse à l'époque avait été une attaque publique contre la Commission.[^6]
+Ce n'était pas la première fois que Hu Yi-chia s'opposait aux régulateurs. Dès 2020, la FSC avait infligé une amende de 3 millions de dollars pour sept violations liées au produit « Tuofu Bao » (託付寶) : tromperie des investisseurs et atteinte à la gouvernance d'entreprise. Il avait également été démis de ses fonctions de directeur chez JKO Securities. Sa réponse à l'époque fut une publication publique s'en prenant violemment à la FSC. [^6]
 
-L'histoire de JKOPay est un condensé de la décennie fintech taïwanaise : la politique a ouvert la porte, mais ceux qui courent trop vite n'arrivent pas forcément sains et saufs.
+L'histoire de JKO est le microcosme de la décennie FinTech à Taïwan : les politiques ont ouvert les portes, mais ceux qui courent trop vite ne parviennent pas toujours à destination en toute sécurité.
 
-## Une loi qui change les règles du jeu
+## Une loi pour changer les règles du jeu
 
-Revenons à 2015. Cette année-là, la Commission de supervision financière publie le _Livre blanc sur la stratégie de développement de la fintech_, déclarant l'intention de Taïwan d'embrasser la FinTech. Deux ans plus tard, la _Loi sur l'expérimentation en innovation financière technologique_ est adoptée par le Parlement — c'est la première loi dédiée en Asie, faisant de Taïwan l'un des rares pays au monde dotés d'un cadre juridique de « bac à sable réglementaire ».[^7]
+Revenons en 2015. Cette année-là, la FSC a publié le _Livre blanc sur la stratégie de développement des technologies financières_, affirmant la volonté de Taïwan d'embrasser la FinTech. Deux ans plus tard, la _Loi sur l'expérimentation de l'innovation technologique financière_ était adoptée par le Yuan législatif : c'était la première loi spécialisée en Asie, faisant de Taïlag de l'un des rares pays disposant d'un cadre juridique de « bac à sable réglementaire ». [^7]
 
-La logique du bac à sable est simple : vous avez une idée d'innovation financière, mais la réglementation actuelle ne le permet pas ? Postulez pour entrer dans le bac à sable, expérimentez dans un cadre limité, et si l'expérience réussit, la loi sera modifiée pour vous légaliser ; si elle échoue, vous ne serez pas sanctionné.
+La logique du bac à sable est simple : vous avez une idée d'innovation financière, mais la réglementation actuelle ne l'autorise pas ? Demandez l'entrée dans le bac à sable pour expérimenter dans un périmètre limité ; si cela réussit, la loi sera modifiée pour légaliser votre activité ; si cela échoue, vous ne serez pas sanctionné.
 
-Sur le papier, c'est séduisant. En pratique, l'exécution s'avère plus conservatrice qu'escompté.
+Sur le papier, c'est séduisant, mais en pratique, l'exécution est plus conservatrice qu'on ne l'imagine.
 
-Joinvest est l'un des rares cas de succès sortis du bac à sable — cette plateforme de groupement d'achat d'obligations permet aux particuliers d'investir collectivement dans des obligations autrefois réservées aux investisseurs institutionnels. Entrée en expérimentation dans le bac à sable en 2021, elle a obtenu la reconnaissance de la Commission de supervision financière, jugée « innovante et contribuant à l'inclusion financière », ce qui a directement conduit à une modification du _Règlement d'établissement des courtiers en valeurs mobilières_.[^8]
+Joinvest est l'un des rares cas de réussite ayant « gradué » du bac à sable — cette entreprise propose une plateforme d'achat groupé d'obligations, permettant aux particuliers d'investir conjointement dans des obligations normalement réservées aux professionnels. Entrée en expérimentation en 2021, elle a obtenu l'approbation de la FSC, qui a jugé le projet « innovant et favorisant l'inclusion financière », entraînant une modification des _Normes d'établissement des courtiers en valeurs mobilières_. [^8]
 
-Mais les chiffres de l'autre côté sont moins flatteurs. Sept ans après le lancement du bac à sable, le nombre de projets expérimentaux approuvés reste modeste, et ceux qui en sont véritablement « sortis » pour entraîner des réformes réglementaires sont encore plus rares. Les critiques estiment que les seuils d'accès au bac à sable taïwanais sont trop élevés, les examens trop lents, les périodes d'expérimentation trop courtes, transformant le dispositif en un système « apparemment ouvert, mais en réalité conservateur ».[^9]
+Mais les chiffres de l'autre côté sont moins reluisants. Sept ans après le lancement du bac à sable, le nombre d'expérimentations approuvées reste faible, et celles ayant réellement abouti à une modification réglementaire sont encore plus rares. Les critiques affirment que le seuil d'entrée est trop élevé, l'examen trop lent et la période d'essai trop courte, transformant ce système en un dispositif « qui semble ouvert, mais qui est en réalité conservateur ». [^］
 
-> « Le bac à sable réglementaire de Taïwan est l'un des cadres juridiques les plus complets au monde, mais le problème ne réside pas dans le cadre — il réside dans la vitesse d'exécution. »
-> — Chambers and Partners, _Fintech 2025: Taiwan_[^9]
+> « Le bac à sable réglementaire de Taïwan est l'un des cadres juridiques les plus complets au monde, mais le problème ne réside pas dans le cadre, mais dans la vitesse d'exécution. »
+> — Chambers and Partners, _Fintech 2025: Taiwan_ [^9]
 
-## La guerre des paiements dans le téléphone
+## La guerre des paiements dans nos téléphones
 
-En 2026, à Taïwan, entrer dans n'importe quel convenience store et sortir son téléphone pour payer est devenu plus courant que de sortir son portefeuille.
+À Taïwan, en 2026, entrer dans n'importe quel magasin de proximité et sortir son téléphone pour payer est devenu plus fréquent que de sortir son portefeuille.
 
-Selon les statistiques de la Commission de supervision financière, fin 2025, le nombre total d'utilisateurs de comptes de paiement électronique à travers l'île atteint 34,45 millions — sur une île de 23 millions d'habitants, ce chiffre signifie que la majorité des adultes possèdent au moins un compte de paiement électronique. L'objectif gouvernemental d'un « taux de pénétration du paiement mobile de 90 % en 2025 » est essentiellement atteint.[^10]
+Selon les statistiques de la FSC, à la fin de 2025, le nombre total d'utilisateurs de comptes de paiement électronique à Taïwan a atteint 34,45 millions de transactions — sur une île de 23 millions d'habitants, ce chiffre signifie que la majorité des adultes possèdent au moins un compte de paiement électronique. L'objectif gouvernemental de « 90 % de taux de pénétration du paiement mobile en 2025 » a été globalement atteint. [^10]
 
-Mais « pénétration » ne signifie pas « unification ». Le marché du paiement mobile taïwanais est un champ de bataille :
+Mais « pénétration » ne signifie pas « unification ». Le marché du paiement mobile à Taïwan est un champ de bataille :
 
-LINE Pay, s'appuyant sur la base sociale de LINE, domine confortablement avec plus de huit millions d'utilisateurs. iPASS MONEY (carte à puce unifiée) s'est hissé au premier rang en nombre d'utilisateurs grâce à son infrastructure de cartes à puce électroniques. JKOPay comptait encore plus de six millions d'utilisateurs avant l'éclatement de la controverse. Ajoutons à cela Quan Pay, All+, Easy Wallet, Taiwan Pay, Apple Pay, Google Pay — le consommateur taïwanais a en moyenne trois ou quatre applications de paiement installées sur son téléphone, et les comptoirs des commerçants sont couverts d'autocollants QR Code de différentes marques.[^11]
+LINE Pay domine grâce à la base sociale de LINE, avec plus de 8 millions d'utilisateurs. La carte iPASS MONEY (一卡通) grimpe en tête du nombre d'utilisateurs grâce à son réseau de cartes de transport. Avant l'éclatement des controverses, JKO Pay comptait encore plus de 6 millions d'utilis'ateurs. S'ajoutent à cela FullPay, QuantiPay,悠遊付 (EasyPay), Taiwan Pay, Apple Pay et Google Pay — les consommateurs ont en moyenne trois ou quatre applications de paiement sur leur téléphone, et les comptoirs des commerçants sont couverts d'autocollants QR Code de diverses marques. [^11]
 
 > **💡 Le saviez-vous ?**
-> Si le paiement mobile taïwan est aussi fragmenté, c'est en partie parce que les chaînes de convenience stores ont chacune choisi leur camp : 7-Eleven promeut OPEN Wallet et icash Pay, tandis que FamilyMart pousse All+. Les territoires de paiement des deux géants de la distribution déterminent en partie quelle application se trouve dans la poche des Taïwanais.
+> Si le paysage du paiement mobile est si fragmenté à Taïwan, c'est en partie parce que les réseaux de magasins de proximité ont chacun pris parti : 7-ELEVEN propose l'OPEN Wallet et icash Pay, tandis que FamilyMart promeut QuantiPay. La carte de paiement des deux géants de la distribution détermine, dans une certaine mesure, quelle application se retrouve dans la poche des Taïwanais.
 
-C'est radicalement différent du duopole « Alipay + WeChat Pay » en Chine. Taïwan n'a pas de super application dominante — c'est plutôt une floraison de services concurrents, ou, pour être plus honnête, un morcellement. Le consommateur y trouve son compte (on peut payer presque partout avec un téléphone), mais l'efficacité d'intégration est faible, et chaque acteur brûle de l'argent pour conquérir des parts de marché.
+Cela diffère totalement du modèle « Alipay + WeChat Pay » de la Chine. Taïwan n'a pas de « super-app » hégémonique ; au contraire, c'est une multitude d'acteurs qui coexistent — ou, pour être plus honnête, une fragmentation territoriale. Le consommateur est facilité (on peut payer partout avec son téléphone), mais l'efficacité de l'intégration est faible, chaque acteur brûlant des capitaux pour gagner des parts de marché.
 
-## Trois banques, neuf milliards de leçons
+## Trois banques, neuf milliards de frais de scolarité
 
-En 2021, Taïwan entre dans l'ère des banques en ligne pure.
+En 2021, Taïwan a connu l'année inaugurale des banques purement en ligne.
 
-LINE Bank (Banque connectée), Rakuten Bank et Next Bank ouvrent successivement leurs portes. Leur promesse : « plus besoin d'aller à la banque » — ouverture de compte en ligne, comptes rémunérés à taux élevés, service 24 heures sur 24, une refonte complète de l'expérience bancaire traditionnelle grâce à la technologie.
+LINE Bank, Rakuten Bank et Bank Start (將來銀行) ont ouvert leurs portes successivement. Leur argument de vente : « ne plus avoir à se déplacer en agence » — ouverture de compte en ligne, taux d'intérêt élevé sur les comptes d'épargne, service 24h/24, réinventant l'expérience bancaire traditionnelle par la technologie.
 
-Quatre ans plus tard, les chiffres sont brutales : les trois banques cumulent des pertes dépassant les 9 milliards de TWD.[^12]
+Quatre ans plus tard, les chiffres comptables sont cruels : les pertes cumulées des trois banques dépassent 9 milliards de dollars taïwanais. [^12]
 
-Mais l'histoire des pertes se lit différemment selon les cas. LINE Bank atteint 2,29 millions de comptes, avec un ratio dépôts-prêts de 85,93 %, et en décembre 2025, réalise le premier bénéfice net mensuel avant impôts de l'histoire des banques en ligne pure taïwanaises — un montant de 11 millions de TWD, modeste, mais symboliquement considérable. LINE Bank annonce viser un bénéfice annuel dépassant les 100 millions de TWD en 2026 et prévoit de résorber ses pertes cumulées en trois ans et demi.[^13]
+Pourtant, l'histoire de ces pertes peut être interprétée différemment. Le nombre de comptes de LINE Bank a bondi à 2,29 millions, avec un ratio de dépôts de 85,93 %. En décembre 202elle, la banque a réalisé son premier bénéfice mensuel avant impôts dans l'histoire des banques en ligne de Taïwan — un montant de 11 millions de dollars, certes modeste, mais hautement symbolique. LINE Bank a déclaré vouloir atteindre un bénéfice annuel d'un centime de milliard en 2026, pour éponger ses pertes cumulées en trois ans et demi. [^13]
 
-Next Bank compte 550 000 comptes et Rakuten Bank 320 000 — un écart de taille évident, mais leurs pertes se réduisent également. Rakuten Bank approche du seuil nécessitant une augmentation de capital et prépare un nouveau tour de financement.[^14]
+Bank Start compte 550 000 comptes et Rakuten Bank 320 000 ; l'écart d'échelle est flagrant, mais les pertes se résorbent. Rakuten approche de la limite critique de ses fonds propres et planifie une nouvelle augmentation de capital. [^14]
 
-> **📝 Note du curateur**
-> Les difficultés des banques en ligne pure ne sont pas propres à Taïwan. Les banques challenger du monde entier — Monzo au Royaume-Uni, Nubank au Brésil — ont toutes brûlé du cash en phase initiale pour conquérir de la taille. La vraie question est la suivante : le marché taïwanais ne compte que 23 millions d'habitants, et la densité de banques traditionnelles est l'une des plus élevées au monde (plus d'une agence par kilomètre carré). Les banques en ligne pure doivent donc concurrencer 38 banques commerciales pour la même population. Les 9 milliards de pertes sont le prix à payer pour survivir sur ce marché saturé.
+> **📝 Note du commissaire**
+> La difficulté des banques purement en ligne n'est pas propre à Taïwan. Les challengers bancaires mondiaux — Monzo au Royaume-Uni, Nubank au Brésil — ont tous brûlé énormément d'argent pour acquérir de la taille au départ. Le véritable problème est le suivant : le marché taïwanais ne compte que 23 millions d'habitants et la densité bancaire traditionnelle est l'une des plus élevées au monde (plus d'une agence par kilomètre carré). Les banques en ligne doivent lutter pour les mêmes clients que 38 banques commerciales. Ces 9 milliards de dollars sont le prix à payer pour espérer survivre dans ce marché saturé.
 
-## Le dollar numérique hakka : la prudence de la banque centrale
+## Monnaie Hakka numérique : la prudence de la Banque centrale
 
-Alors que les banques centrales du monde entier étudient les monnaies numériques (MNBC), la banque centrale de Taïwan a choisi une approche très taïwanaise.
+Alors que les banques centrales du monde entier étudient les monnaies numériques (MNBC), la Banque centrale de Taïwan suit une voie très singulière.
 
-En 2025, la banque centrale, en collaboration avec le ministère du Développement numérique et le Conseil pour les affaires hakka, lance un essai de « dollar numérique hakka » — non pas l'émission immédiate d'un dollar taïwanais numérique, mais un test à petite échelle dans 70 sites culturels hakka répartis dans 11 comtés et villes du pays. Les utilisateurs peuvent dépenser via un portefeuille anonymisé et non nominatif, valable jusqu'au 30 juin 2026.[^15]
+En 2025, la Banque centrale, en collaboration avec le Ministère du Développement Numérique et la Commission des Affaires Hakka, a lancé une expérimentation pour une « Monnaie Hakka numérique » — non pas par une émission massive de nouveau dollar taïwanais numérique, mais par un test à petite échelle dans 11 comtés et villes, ciblant 70 zones de développement culturel Hakka. Les utilisateurs peuvent consommer via un portefeuille anonymisé, avec une validité allant jusqu'au 30 juin 2026. [^15]
 
-Le président de la banque centrale, Yang Chin-long, adopte une position constamment prudente. Il déclare que la banque centrale organisera en 2025 de nombreuses consultations publiques et forums pour recueillir largement les avis de toutes les parties, mais qu'il n'existe « aucun calendrier précis » pour l'émission officielle d'un dollar taïwanais numérique.[^16]
+L'attitude du gouverneur de la Banque centrale, Yang Chin-lung (楊金龍), est restée constante dans sa prudence. Il a déclaré que la Banque centrale organiserait plusieurs audiences et forums en 2025 pour recueillir largement les avis, mais qu'il n'y avait « aucun calendrier précis » pour une émission officielle de monnaie numérique. [^16]
 
-Ce rythme — « tester un petit périmètre d'abord, écouter les avis, puis décisions » — contraste fortement avec le déploiement à grande échelle du yuan numérique en Chine. La banque centrale taïwanaise ne veut pas être pionnière ; elle veut être le suiveur qui ne commet pas d'erreur.
+Ce rythme de « tester d'abord sur une petite zone, puis décider après avoir entendu les avis » contraste nettement avec la progression massive du yuan numérique en Chine. La Banque centrale de Taïwan ne veut pas être une pionnière ; elle veut être celle qui suit sans commettre d'erreur.
 
 ## L'expérience financière d'une île
 
-Dix ans ont passé.
+Une décennie s'est écoulée.
 
-La vision décrite dans le livre blanc de 2015 — faire de Taïwan un pôle fintech en Asie-Pacifique — s'est-elle concrétisée ? La réponse est : partiellement, mais pas de la manière initialement envisagée.
+Dans quelle mesure la vision dessinée par le livre blanc de 2015 — faire de Taïwan un hub FinTech en Asie-Pacifique — s'est-elle réalisée ? La réponse est : partiellement, mais d'une manière différente de ce qui était prévu initialement.
 
-Le paiement mobile s'est effectivement généralisé, mais non pas grâce à une super application, mais grâce à une guerre de tranchées entre une douzaine de marques. Les banques en ligne pure sont bien arrivées, mais les trois réunies ne totalisent pas plus de 3,2 millions de comptes, une proportion infime par rapport à l'ensemble des comptes bancaires de l'île. Le bac à sable réglementaire fonctionne, mais son taux de « diplômés » est suffisamment faible pour qu'on se demande s'il est un tremplin ou une vitrine.
+Le paiement mobile s'est effectivement généralisé, non pas grâce à une super-app, mais par la lutte entre une dizie d'enseignes. Les banques purement en ligne sont arrivées, mais leurs trois comptes cumulés ne dépassent pas 3,2 millions, un ratio dérisoire par rapport aux comptes bancaires de l'île. Le bac à sable réglementaire fonctionne, mais son faible taux de « graduation » fait douter de sa fonction : est-ce un tremplin ou une vitrine ?
 
-La tempête des 3,6 milliards de JKOPay a mis une chose en lumière : la plus grande tension de la fintech taïwanaise n'a jamais été une question de technologie — c'est une question de confiance. Trop de laxisme, et on engendre le prochain JKOPay ; trop de rigidité, l'innovation étouffe dans le bac à sable.
+La tempête des 3,6 milliards de JKO a mis une chose en lumière : la tension majeure de la FinTech à Taïwan n'a jamais été une question technique, mais une question de confiance. Une régulation trop souple pourrait engendrer le prochain JKO ; une régulation trop stricte étoufferait l'innovation dans le bac à sable.
 
-En décembre 2025, LINE Bank annonce son premier bénéfice mensuel, d'un montant si faible qu'il en est presque négligeable, mais toute l'industrie observe. Hu Yijia porte un bracelet électronique, tandis que LINE Bank compte ses premiers centimes de profit. Sur la même île, dans le même secteur, deux destins radicalement différents se déroulent simultanément.
+En décembre 2025, LINE Bank a annoncé son premier mois de profit. Le montant est si faible qu'il est presque négligeable, mais toute l'industrie observe. Tandis que Hu Yi-chia porte un bracelet électronique, LINE Bank compte ses premiers centimes de profit. Sur la même île, dans le même secteur, deux destins radicalement opposés se jouent simultanément.
 
-**Pour aller plus loin** :
+**Lecture complémentaire :**
 
-- [L'industrie des semi-conducteurs](/technology/半導體產業) — Un autre secteur taïwanais parti d'un soutien politique pour finir par redéfinir l'échiquier mondial
-- [L'écosystème startup](/economy/新創生態系) — Le paysage complet de l'écosystème startup taïwanais dont JKOPay fait partie
-- [L'écosystème e-commerce et paiement numérique](/technology/電子商務與數位支付生態系) — L'infrastructure e-commerce qui sous-tend le paiement mobile
-- [Le marché boursier et les marchés de capitaux de Taïwan](/economy/台灣股市與資本市場) — Des couloirs de la bourse aux investissements programmés sur téléphone, l'évolution de l'infrastructure financière et des marchés de capitaux
+- [Industrie des semi-conducteurs](/technology/半導體產業) — Un autre secteur taïwanais qui, soutenu par des politiques publiques, a fini par transformer l'équilibre mondial.
+- [Écosystème des startups](/economy/新創生態系) — Panorama de l'écosystème des startups à Taïwan, où se situe JKO Pay.
+- [E-commerce et écosystème de paiement numérique](/technology/電子商務與數位支付生態系) — L'infrastructure du commerce électronique derrière le paiement mobile.
+- [Bourse et marché des capitaux de Taïwan](/economy/台灣股市與資本市場) — De l'époque des appels téléphoniques à l'investissement programmé sur smartphone : l'évolution des infrastructures financières et des marchés de capitaux.
 
 ## Références
 
-[^1]: [SET News 〈Ne pas compter sur papa ! Le prodige de Wall Street se lance dans la tech, Hu Yijia crée une app de paiement mobile〉](https://www.setn.com/News.aspx?NewsID=102101) — Reportage sur le parcours de Hu Yijia, de son retour de Wall Street à la création de son entreprise, incluant son diplôme de Columbia et son expérience en fonds spéculatif.
+[^1]: [Sanli News, « Pas besoin de l'aide de ses parents ! Le prodige de Wall Street s'engage dans la tech, Hu Yi-chia crée une application de paiement mobile »](https://www.setn.com/News.aspx?NewsID=102101) — Reportage sur le parcours de Hu Yi-chia de Wall Street à Taïwan, incluant son diplôme de l'Université Columbia et son expérience en fonds spéculatif.
 
-[^2]: [ETtoday 〈Un lignage prestigieux ! Le « génie » petit-fils de riche renonce à un salaire de 20 millions pour fonder JKOPay〉](https://www.ettoday.net/news/20180326/1138208.htm) — L'histoire familiale de Hu Yijia : grand-père Hu Xin (chef de la garde présidentielle), père Hu Dingwu (président de China Development Financial et de la tour Taipei 101).
+[^2]: [ETtoday, « Un héritage illustre ! Le « génie » de la troisième génération, Hu Yi-chia, abandonne un salaire de 20 millions pour fonder JKO Pay »](https://www.ettoday.net/news/20180326/1138208.htm) — Contexte familial de Hu Yi-chia : son grand-père Hu Xin (chef de la garde), son père Hu Ding-wu (président de Taïwan Development Financial Holding et de Taipei 101).
 
-[^3]: [Mirror Media 〈JKOPay lance un défi, Hu Yijia s'allie à Taishin pour affronter LINE〉](https://www.mirrormedia.mg/story/20190402fin007/) — La stratégie de JKOPay face à LINE Pay et les plans d'introduction en bourse.
+[^3]: [Mirror Media, « JKO Pay lance un défi, Hu Yi-chia s'allie à Taishin pour concurrencer LINE »](https://www.mirrormedia.mg/story/20190402fin007/) — Stratégie de marché de JKO Pay face à LINE Pay et planification de son introduction en bourse.
 
-[^4]: [Commercial Times 〈Les 3,6 milliards disparus — une crise qui faillit provoquer un effet domino〉](https://www.ctee.com.tw/news/20250720700014-430301) — En 2025, la transaction de 3,6 milliards entre Taishan et JKOPay Financial Technology est déclarée nulle ; lors de la saisie, les cinq comptes contiennent moins de mille yuans cumulés.
+[^4]: [Commercial Times, « Les 3,6 milliards disparus — Un risque d'effet domino de pertes massives »](https://www.ctee.com.tw/news/20250720700014-430301) — En 2025, la transaction d'actions de 3,6 milliards entre Taishan et JKO Fintech a été annulée ; les comptes étaient presque vides lors de la saisie.
 
-[^5]: [ETtoday 〈Le « prodige de Wall Street » de JKOPay sous surveillance par bracelet électronique, saisie dans l'affaire des 3,6 milliards〉](https://www.ettoday.net/news/20250712/2994873.htm) — Détails sur les poursuites pour abus de confiance aggravé contre Hu Yijia, l'interdiction de quitter le territoire et la surveillance par bracelet électronique.
+[^5]: [ETtoday, « Le "prodige de Wall Street" de JKO sous surveillance par bracelet électronique, la dispute des 3,6 milliards entraîne une saisie »](https://www.ettoday.net/news/20250712/2994873.htm) — Détails sur l'inculpation de Hu Yi-chia pour abus de confiance aggravé et les restrictions de sortie du territoire.
 
-[^6]: [Voice Tank 〈Les 3,6 milliards disparus de JKOPay : de l'expérience du paiement en Chine à l'« exceptionnalisme startup »〉](https://voicettank.org/20250714-1/) — Retour sur l'historique des sanctions contre le produit « Tubao » de JKOPay et les défis de supervision de la Commission.
+[^6]: [Thinking Tank, « Les 3,6 milliards disparus de JKO : de l'expérience chinoise au "spécialisme des startups" »](https://voicettank.org/20250714-1/) — Retour sur les sanctions de la FSC concernant les violations de « Tuofu Bao » et la surveillance réglementaire.
 
-[^7]: [ICLG, _Fintech Laws and Regulations Report 2025: Taiwan_](https://iclg.com/practice-areas/fintech-laws-and-regulations/taiwan) — La _Loi sur l'expérimentation en innovation financière technologique_ de Taïwan entre en vigueur en avril 2018, première loi fintech dédiée en Asie.
+[^7]: [ICLG, _Fintech Laws and Regulations Report 2025: Taiwan_](https://iclg.com/practice-areas/fintech-laws-and-regulations/taiwan) — La _Loi sur l'expérimentation de l'innovation technologique financière_ de Taïwan est entrée en vigueur en avril 2018, étant la première loi spécialisée en FinTech en Asie.
 
-[^8]: [Global Legal Insights, _Fintech Laws and Regulations 2025: Taiwan_](https://www.globallegalinsights.com/practice-areas/fintech-laws-and-regulations/taiwan/) — La plateforme de groupement d'achat d'obligations Joinvest sort du bac à sable et entraîne une modification du _Règlement d'établissement des courtiers en valeurs mobilières_.
+[^8]: [Global Legal Insights, _Fintech Laws and Regulations 2025: Taiwan_](https://www.globallegalinsights.com/practice-areas/fintech-laws-and-regulations/taiwan/) — La plateforme d'achat groupé d'obligations Joinvest a gradué du bac à sable et a poussé la révision des _Normes d'établissement des courtiers en valeurs mobilières_.
 
-[^9]: [Chambers and Partners, _Fintech 2025: Taiwan — Trends and Developments_](https://practiceguides.chambers.com/practice-guides/fintech-2025/taiwan/trends-and-developments) — Évaluation par la communauté juridique internationale du bac à sable taïwanais : « cadre complet mais vitesse d'exécution insuffisante ».
+[^9]: [Chambers and Partners, _Fintech 2025: Taiwan — Trends and Developments_](https://practiceguides.chambers.com/practice-guides/fintech-2025/taiwan/trends-and-developments) — Évaluation par le milieu juridique international du bac à sable de Taïwan : « cadre complet mais vitesse d'exécution insuffisante ».
 
-[^10]: [Commission nationale de développement 〈Le taux de pénétration du paiement mobile atteint un nouveau record, vers une vie nouvelle de nation numérique〉](https://www.ndc.gov.tw/nc_27_33762) — L'objectif gouvernemental de 90 % de pénétration du paiement mobile en 2025 ; le nombre total d'utilisateurs de comptes de paiement électronique atteint 34,45 millions.
+[^10]: [NDC (National Development Council), « Le taux de pénétration du paiement mobile atteint un nouveau sommet, vers une nouvelle vie numérique »](https://www.ndc.gov.tw/nc_27_33762) — L'objectif gouvernemental de 90 % pour 2025 est atteint ; le nombre d'utilisateurs de comptes de paiement électronique s'élève à 34,45 millions.
 
-[^11]: [Storm Media 〈JKOPay perd ! Le paiement électronique préféré des Taïwanais est celui-ci, « 7,08 millions de personnes l'utilisent »〉](https://www.storm.mg/lifestyle/11083093) — Classement du nombre d'utilisateurs de iPASS MONEY, JKOPay et All+, avec un volume de transactions mensuel de 3,9 milliards de TWD.
+[^11]: [Feng Media, « JKO a perdu ! Le paiement électronique préféré des Taïwanais est celui-ci : "7,08 millions de personnes l'utilisent" »](https://www.storm.mg/lifestyle/11083093) — Classement des utilisateurs d'iPASS MONEY, JKO Pay et FullPay ; transactions mensuelles de 3,9 milliards.
 
-[^12]: [Storm Media 〈Les 3 banques en ligne pure de Taïwan « cumulent plus de 9 milliards de pertes » ! La Commission révèle les causes clés〉](https://www.storm.mg/lifestyle/11106859) — Fin 2025, les trois banques en ligne pure cumulent 9,072 milliards de TWD de pertes, avec les données de comptes et ratios dépôts-prêts de chacune.
+[^12]: [Feng Media, « Les 3 banques en ligne de Taïwan affichent "plus de 9 milliards de pertes" ! La FSC révèle la cause clé »](https://www.storm.mg/lifestyle/11106859) — À la fin de 2025, les pertes cumulées des trois banques s'élèvent à 9,072 milliards, incluant le nombre de comptes et les ratios de dépôts.
 
-[^13]: [PChome News 〈Les banques en ligne pure pourraient tourner la page des pertes, LINE Bank réalise un bénéfice mensuel de 11 millions〉](https://news.pchome.com.tw/finance/cardu/20260304/index-17725686541784241003.html) — En décembre 2025, LINE Bank réalise son premier bénéfice net mensuel avant impôts de 11 millions de TWD, avec un objectif de bénéfice annuel dépassant 100 millions en 2026.
+[^13]: [PChome News, « Les banques en ligne pourraient quitter la période de pertes, LINE Bank réalise un profit mensuel de 11 millions »](https://news.pchome.com.tw/finance/cardu/20260304/index-17725686541784241003.html) — En décembre 2025, LINE Bank a réalisé son premier bénéfice mensuel avant impôts de 11 millions de dollars, avec l'objectif d'un profit annuel d'un centime de milliard en 2026.
 
-[^14]: [Commercial Times 〈Plus de 3 millions de comptes mais 8,7 milliards de pertes cumulées… Les banques en ligne pure luttent pour la rentabilité, celle-ci désignée comme la plus rapide à redresser〉](https://www.ctee.com.tw/news/20260102700085-439901) — Situation actuelle des comptes et des plans d'augmentation de capital des trois banques en ligne pure, LINE Bank désignée comme la plus rapide à redresser.
+[^14]: [Commercial Times, « Malgré plus de 3 millions de comptes, les pertes cumulées atteignent 8,7 milliards... Les banques en ligne luttent pour le profit, l'une est pressentie pour un redressement rapide »](https://www.ctee.com.tw/news/20260102700085-439901) — État des lieux du nombre de comptes et des plans d'augmentation de capital des trois banques ; LINE Bank est citée comme la plus proche du redressement.
 
-[^15]: [BlockTempo 〈Rapport annuel 2025 sur l'industrie des cryptomonnaies à Taïwan〉](https://www.blocktempo.com/2025-taiwan-cryptocurrency-industry-report/) — La banque centrale et le Conseil hakka lancent l'essai du « dollar numérique hakka », couvrant 70 sites culturels hakka dans 11 comtés, valable jusqu'au 30 juin 2026.
+[^15]: [Diqu D趋势, « Rapport annuel 2025 sur l'industrie des crypto-monnaies à Taïwan »](https://www.blocktempo.com/2025-taiwan-cryptocurrency-industry-report/) — Expérimentation de la « Monnaie Hakka numérique » par la Banque centrale et la Commission des Affaires Hakka dans 11 comtés/villes, valable jusqu'en juin 2026.
 
-[^16]: [XREX 〈Le « dollar taïwanais numérique » arrive ! La banque centrale lance une plateforme prototype de MNBC〉](https://xrex.io/taiwan-cbdc-zh/) — Le président de la banque centrale Yang Chin-long annonce des consultations publiques pour recueillir largement les avis, mais « aucun calendrier précis » pour l'émission officielle.
+[^16]: [XREX, « Le "nouveau dollar taïwanais numérique" arrive ! La Banque centrale lance une plateforme prototype de MNBC »](https://xrex.io/taiwan-cbdc-zh/) — Le gouverneur Yang Chin-lung déclare que des audiences seront organisées pour recueillir les avis, mais sans calendrier précis pour l'émission officielle.
