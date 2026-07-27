@@ -2,9 +2,7 @@
 title: 'Taiwan AI Academy: The Unfinished Phone Call and Ten Thousand AI Engineers'
 description: 'On March 27, 2020, Chen Sheng-wei solemnly called the editor-in-chief of CommonWealth Magazine: he wanted to create a free programming course for the public. Two days later, he fell while inline skating; 13 days after that, he died at age 44. When he passed away, Taiwan AI Academy (AIA), which he had founded in 2018, had already trained more than 6,000 people. At the same time, the National Development Council’s “AI Small Country, Big Strategy” called for NT$16 billion over five years; Chen built his own school with NT$180 million in private fundraising from six companies, including Formosa Plastics, Chimei, and Inventec. Eight years later, alumni exceeded 10,000. AIA is the most un-Taiwan-like piece of Taiwan’s industrial upgrading puzzle.'
 date: 2026-05-18
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '人工智慧'
 tags:
   [
     'Artificial Intelligence',
@@ -15,19 +13,21 @@ tags:
     'Academia Sinica',
     'AI Policy',
   ]
-readingTime: 18
+subcategory: '人工智慧'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-18
 lastHumanReview: true
-featured: true
-translatedFrom: 'Technology/台灣人工智慧學校.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:4e403df024cd43dc'
-sourceBodyHash: 'sha256:04e9009c16ede3cb'
-translatedAt: '2026-06-16T16:59:03Z'
+readingTime: 18
 image: '/article-images/technology/taiwan-ai-academy-chen-shengwei-portrait-2018.webp'
 imageCredit: '台灣人工智慧學校官方'
 imageLicense: 'Fair use editorial commentary on AIA founder portrait'
 imageSource: 'https://aiacademy.tw/swc/'
+translatedFrom: 'Technology/台灣人工智慧學校.md'
+sourceCommitSha: 'c8e5ac9ea'
+sourceContentHash: 'sha256:aeb22f9372adc2ef'
+sourceBodyHash: 'sha256:6ec984b54802baea'
+translatedAt: '2026-07-27T11:18:16.030222+00:00'
 ---
 
 # Taiwan AI Academy: The Unfinished Phone Call and Ten Thousand AI Engineers
@@ -281,27 +281,28 @@ In 2025, Tsai Ming-shun was named one of _Manager Today_’s 18th “100 MVP Man
 
 From 2018 to 2026, AIA has walked eight years. Chen Sheng-wei was there only for the first three.
 
-## The Class That Was Never Built
+## The Class That Never Was
 
-No one heard the full idea in the phone call of March 27, 2020.
+No one heard the full vision in that phone call on March 27, 2020.
 
-Two days later, Chen Sheng-wei fell. Thirteen days later, he died. The free public programming course he wanted to create was never built.
+Two days later, Chen Sheng-wei fell. Thirteen days later, he passed away. The free programming course for all that he wanted to launch never materialized.
 
-But in May 2024, AIA alumni exceeded 10,000. At the press conference, Tsai Ming-shun no longer had to repeat the line Chen Sheng-wei always kept close at hand: “We must make the world see Taiwan and think of AI.” Over the past six years, that sentence had already been written into Taiwan’s technology industry resumes through more than 10,000 engineers.
+But by May 2024, AIA alumni had surpassed ten thousand. At Tsai Ming-shun's press conference, there was no need to repeat the phrase Chen Sheng-wei always kept on his lips: "When the world sees Taiwan, let them think AI." Over the past six years, that sentence had already been written into the résumés of Taiwan's tech industry through more than ten thousand engineers.
 
-AIA went from a 12-week, NT$48,000 full-day intensive boot camp to a three-day, 21-hour, NT$17,000 short LLM course. From technical leadership to industrial popularization. From a school to a talent production line.
+AIA evolved from a 12-week, NT$48,000 full-time intensive camp to a 3-day, 21-hour, NT$17,000 LLM short course. From technical leaders to industry popularization. From a single school to a talent pipeline.
 
-Chen Sheng-wei’s “free public programming course” was never built. But another thing he wanted, “that no one would fall behind because they could not find AI talent,” was half accomplished.
+The "free programming course for all" that Chen Sheng-wei wanted never came to be. But the other thing he wanted — "no one falls behind because they can't find AI talent" — was half achieved.
 
-That unfinished phone call left behind an unrealized aspiration, and 10,000 people who once sat in AIA classrooms.
+That unfinished phone call left behind an unfulfilled aspiration, and ten thousand people who once sat in AIA classrooms.
 
 ---
 
 **Further Reading**:
 
-- [The Rise of the AI Island Nation: Taiwan’s Artificial Intelligence Development and Future Strategy](/en/technology/ai-development-in-taiwan) — A panoramic account of Taiwan’s AI policy architecture, industrial deployment, five strategic fields, and international cooperation
-- [Everyday AI in Taiwan](/en/technology/taiwan-ai-in-daily-life) — How AI has been implemented in everyday Taiwanese settings such as convenience stores, hospitals, farms, and classrooms
-- [The Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — How the AI engineers trained by AIA over eight years reconnect with the existing ICT ecosystem of a semiconductor power
+- [The Rise of the AI Island Nation: Taiwan's Artificial Intelligence Development and Future Strategy](/en/technology/ai-development-in-taiwan) — A panoramic narrative of Taiwan's AI policy framework, industrial layout, five strategic domains, and international cooperation
+- [Taiwan's AI Daily Life](/en/technology/taiwan-ai-in-daily-life) — On-the-ground practices of AI in Taiwan's convenience stores, hospitals, farms, classrooms, and other everyday scenarios
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — How the AI engineers cultivated by AIA over eight years reconnect with the existing ICT ecosystem of the semiconductor powerhouse
+- [Why Taiwan Needs Its Own Knowledge Base](/en/about/why-taiwan-needs-its-own-knowledge-base) — Dean Tsai Ming-shun says Taiwan's local data accounts for less than 0.1% of the internet world; this article quantifies that gap and discusses who should write the version
 
 ## Image Sources
 

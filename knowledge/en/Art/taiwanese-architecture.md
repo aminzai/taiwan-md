@@ -2,20 +2,20 @@
 title: 'Taiwanese Architecture'
 description: "From slate houses to skyscrapers: an island's architectural journey through time"
 date: 2026-03-28
+category: 'Art'
 tags:
   ['architecture', 'culture', 'history', 'indigenous', 'Japanese colonial era']
 subcategory: '建築'
-category: 'Art'
 author: 'Taiwan.md'
 featured: true
-revision: 2
 lastVerified: 2026-03-28
 lastHumanReview: true
+revision: 2
 translatedFrom: 'Art/台灣建築.md'
-sourceCommitSha: 'eac12cd9'
-sourceContentHash: 'sha256:211251c042500a3e'
-sourceBodyHash: 'sha256:41c2c3ee5e118612'
-translatedAt: '2026-07-03T16:37:05Z'
+sourceCommitSha: 'd520299ba'
+sourceContentHash: 'sha256:af80f0616e9c061e'
+sourceBodyHash: 'sha256:a2382584d5d27df7'
+translatedAt: '2026-07-27T11:19:04.143928+00:00'
 ---
 
 # Taiwanese Architecture: A Layered Poem of Cultural Convergence
@@ -119,17 +119,17 @@ The National Cheng Kung University Green Magic School, completed in 2011, is one
 
 Taiwan's indigenous traditional architecture is also being re-examined in this context. Slate houses were never "an environmentally unfriendly ancient way of living" — they are an extremely sophisticated system of local climate adaptation. In recent years, researchers and designers have begun systematically documenting the architectural knowledge of the Paiwan, Rukai, Puyuma, and other ethnic groups, attempting to translate the thermodynamic intuition accumulated over millennia into the vocabulary of modern architecture. Architects such as Kris Yao and Lin You-han are also, in their respective practices, exploring the juncture between Taiwan's locality and global vocabulary: not imitating foreign masters, not copying traditional motifs, but setting out from their own land, their own climate, their own way of life — finding an architectural language that could only have grown in Taiwan.
 
-## The Architectural Afterglow of an Island
+## An Island's Architectural Reverberations
 
-Standing at any elevated vantage point in Taipei, you can simultaneously see three centuries of architectural time: the red-brick offices of the Japanese colonial era, the water tanks of 1970s apartment buildings, the glass-curtain office towers of the 1990s, and in the distance the 508-meter bamboo-joint silhouette. This temporal superimposition exists in many cities around the world, but Taiwan's version is particularly dense, particularly haphazard — particularly like the traces left by an island that in just a few hundred years tried everything and moved on.
+Standing at any vantage point in Taipei, you can see three centuries of architectural time at once: Japanese-era red brick halls, 1970s apartment water towers, 1990s glass curtain wall office towers, and in the distance the 508-meter bamboo-joint silhouette. This temporal layering exists in many cities worldwide, but Taiwan's version is especially dense, especially haphazard, especially like the traces left by an island that tried everything within a few hundred years.
 
-Moriyama Matsunosauke left the grammar of empire; Wang Da-hong brought back the spirit of modern architecture; Toyo Ito's 58 curved walls forced out the latent potential of Taiwan's craftsmen; Huang Sheng-yuan, in Yilan's rice paddies, reminds us that architecture is not merely shelter but a way of changing how people see the world. And in the deep mountains of Wutai, Pingtung, Kucapungane — where no one lives — the slate endures, the hearth has gone cold, and the people say their ancestors have not yet departed.
+Moriyama Matsunosuke left the grammar of empire; Wang Da-hong brought back the spirit of modern architecture; Toyo Ito used 58 curved walls to draw out the potential of Taiwan's craftsmen; Huang Sheng-yuan, amid Yilan's rice paddies, reminds us that architecture is not just shelter, but a way to change how people see the world. And deep in the mountains of Wutai, Pingtung, an old _hocha_ (traditional Rukai stone house) stands uninhabited — its stone slabs remain, its hearth cold, the clanspeople say the ancestral spirits there have not yet left.
 
-Taiwan's architectural history is not a straight line but more like multiple rivers converging on the same piece of land — sometimes merging, sometimes colliding, but none ever completely disappearing. Each era brought a new architectural language, and each language left details in the mortar joints, on the rooftops, in the curved walls, visible only to those who draw close. Standing before Taiwanese architecture, what you sense — that particular quality — is the trace of lives actually lived, the accumulation of centuries of human existence, not a landscape built for display.
+Taiwan's architectural history is not a straight line; it is more like multiple rivers converging on the same land, sometimes blending, sometimes clashing, but never has any one completely disappeared. Each era brought a new architectural language, each language leaving details visible only to those who draw near — in brick joints, rooftops, curved walls. Standing before Taiwan's architecture, the scent you sense — is the trace of real lives lived, the accumulation of hundreds of years of human lives, not landscapes built for display.
 
 **Further Reading**:
 
-- [Taiwanese Sensibility: Taiwan Aesthetics Through Korean Eyes](/en/culture/taiwanese-sensibility) — how architectural elements like iron window grilles, arcaded sidewalks, and the exteriors of old apartment buildings became the visual core of Korea's "대만감성"
+- [Taiwanese Sensibility: Do We Need Koreans to Like It First Before We Dare Say Our Old Houses Are Beautiful?](/en/culture/taiwanese-sensibility) — The architectural context behind iron window grilles, _qilou_ (arcades), and old apartment façades; Taiwanese people themselves rediscovering these old houses actually came eleven years before Korea's "daeman gamseong"
 
 ## References
 
