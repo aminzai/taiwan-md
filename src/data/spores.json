@@ -1,9 +1,9 @@
 {
-  "_generated": "2026-07-27T06:43:14+08:00",
+  "_generated": "2026-07-27T22:16:31+08:00",
   "schemaVersion": 1,
   "counts": {
-    "spores": 152,
-    "articles": 74,
+    "spores": 154,
+    "articles": 75,
     "withMetrics": 142
   },
   "spores": [
@@ -8608,6 +8608,46 @@
           "shares": 91
         }
       ]
+    },
+    {
+      "id": 163,
+      "slug": "苯駢芘食安事件",
+      "articlePath": "knowledge/Society/苯駢芘食安事件.md",
+      "articleUrl": "/society/苯駢芘食安事件/",
+      "lang": "zh",
+      "platform": "threads",
+      "date": "2026-07-27",
+      "url": "https://www.threads.com/@taiwandotmd/post/DbTJE6Mk8mK",
+      "template": "B 冷知識型／結構性題目（問題入口＋三角度收束）",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
+    },
+    {
+      "id": 164,
+      "slug": "苯駢芘食安事件",
+      "articlePath": "knowledge/Society/苯駢芘食安事件.md",
+      "articleUrl": "/society/苯駢芘食安事件/",
+      "lang": "zh",
+      "platform": "x",
+      "date": "2026-07-27",
+      "url": "https://x.com/taiwandotmd/status/2081744559860818133",
+      "template": "B 冷知識型／結構性題目（問題入口＋三角度收束）",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
     }
   ],
   "byArticle": {
@@ -8663,6 +8703,7 @@
     "聶永真": [66, 67],
     "臺灣前途決議文": [76, 77],
     "臺灣漫遊錄": [84, 85],
+    "苯駢芘食安事件": [163, 164],
     "草東沒有派對": [33, 34],
     "落日飛車": [101, 102],
     "蘋果西打": [72, 73],

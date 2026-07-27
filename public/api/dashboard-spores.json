@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-26T22:43:14.864630Z",
+  "lastUpdated": "2026-07-27T14:16:31.488376Z",
   "schemaVersion": "1.1",
   "totals": {
-    "count": 152,
+    "count": 154,
     "platforms": {
-      "threads": 79,
-      "x": 69,
+      "threads": 80,
+      "x": 70,
       "other": 4
     },
     "languages": {
-      "zh": 145,
+      "zh": 147,
       "en": 7
     },
     "templates": {
-      "B": 53,
+      "B": 55,
       "A": 32,
       "D": 4,
       "A2": 57,
@@ -21,6 +21,38 @@
     }
   },
   "recent": [
+    {
+      "n": 164,
+      "date": "2026-07-27",
+      "platform": "x",
+      "article": "苯駢芘食安事件",
+      "articleSlug": "苯駢芘食安事件",
+      "category": "society",
+      "template": "B 冷知識型／結構性題目（問題入口＋三角度收束）",
+      "url": "https://x.com/taiwandotmd/status/2081744559860818133",
+      "highlight": "同 #163 內容，X 單則貼文＋inline s164 UTM",
+      "views_7d": null,
+      "views_latest": null,
+      "engagements_7d": null,
+      "rate_7d": null,
+      "backfilled": false
+    },
+    {
+      "n": 163,
+      "date": "2026-07-27",
+      "platform": "threads",
+      "article": "苯駢芘食安事件",
+      "articleSlug": "苯駢芘食安事件",
+      "category": "society",
+      "template": "B 冷知識型／結構性題目（問題入口＋三角度收束）",
+      "url": "https://www.threads.com/@taiwandotmd/post/DbTJE6Mk8mK",
+      "highlight": "食安法沒定義「發現」的時點：中聯拖 19 天、連淨當天說；收尾把「你會先打給上游還是政府」交還讀者",
+      "views_7d": null,
+      "views_latest": null,
+      "engagements_7d": null,
+      "rate_7d": null,
+      "backfilled": false
+    },
     {
       "n": 162,
       "date": "2026-07-26",
@@ -67,38 +99,6 @@
       "views_latest": 2842,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": true
-    },
-    {
-      "n": 159,
-      "date": "2026-07-25",
-      "platform": "threads",
-      "article": "外送專法",
-      "articleSlug": "外送專法",
-      "category": "society",
-      "template": "B 冷知識型／問題入口",
-      "url": "https://www.threads.com/@taiwandotmd/post/DbOLIMlE-mi",
-      "highlight": "雙單同酬（4.4/8.6公里都90元）；地板 vs 演算法",
-      "views_7d": null,
-      "views_latest": 3032,
-      "engagements_7d": null,
-      "rate_7d": null,
-      "backfilled": true
-    },
-    {
-      "n": 158,
-      "date": "2026-07-15",
-      "platform": "x",
-      "article": "醫療法",
-      "articleSlug": "醫療法",
-      "category": "society",
-      "template": "A2 結構性題目+護病比",
-      "url": "https://x.com/taiwandotmd/status/2077235621287084160",
-      "highlight": "機構規範 vs 市場拉扯；護病比入法後人手仍可能關床塞急診",
-      "views_7d": 647,
-      "views_latest": 647,
-      "engagements_7d": 26,
-      "rate_7d": 4.02,
       "backfilled": true
     }
   ],
@@ -249,6 +249,22 @@
       "publishedDays": 1,
       "status": "waiting",
       "url": "https://x.com/taiwandotmd/status/2081354251016773702"
+    },
+    {
+      "n": 163,
+      "article": "苯駢芘食安事件",
+      "platform": "threads",
+      "publishedDays": 0,
+      "status": "waiting",
+      "url": "https://www.threads.com/@taiwandotmd/post/DbTJE6Mk8mK"
+    },
+    {
+      "n": 164,
+      "article": "苯駢芘食安事件",
+      "platform": "x",
+      "publishedDays": 0,
+      "status": "waiting",
+      "url": "https://x.com/taiwandotmd/status/2081744559860818133"
     }
   ],
   "noUrlHistorical": [
@@ -283,11 +299,6 @@
   ],
   "weeklyPulse": [
     {
-      "week": "2026-W22",
-      "published": 20,
-      "avgViews": 4637
-    },
-    {
       "week": "2026-W23",
       "published": 18,
       "avgViews": 13593
@@ -321,6 +332,11 @@
       "week": "2026-W30",
       "published": 4,
       "avgViews": 67468
+    },
+    {
+      "week": "2026-W31",
+      "published": 2,
+      "avgViews": 0
     }
   ],
   "harvestStatus": [
@@ -1843,6 +1859,26 @@
       "withinHarvestWindow": true,
       "harvestCount": 1,
       "lastHarvest": "2026-07-27 06:43"
+    },
+    {
+      "n": 163,
+      "article": "苯駢芘食安事件",
+      "platform": "threads",
+      "publishDate": "2026-07-27",
+      "daysSincePublish": 0,
+      "withinHarvestWindow": true,
+      "harvestCount": 0,
+      "lastHarvest": null
+    },
+    {
+      "n": 164,
+      "article": "苯駢芘食安事件",
+      "platform": "x",
+      "publishDate": "2026-07-27",
+      "daysSincePublish": 0,
+      "withinHarvestWindow": true,
+      "harvestCount": 0,
+      "lastHarvest": null
     }
   ]
 }
