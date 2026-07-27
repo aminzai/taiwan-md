@@ -332,3 +332,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-27 | 061444-twmd-data-refresh-am | 晨間 14 步刷新全綠：三源感知（CF 955K req／GA／SC）＋dashboard 全套重生＋GitHub stats；Step 11 freshness gate 零 stale | 零 stale 是 pipeline 健康訊號，本輪連 catch 都沒東西可 catch | [→](memory/2026-07-27-061444-twmd-data-refresh-am.md) |
 | 2026-07-27 | 064532-twmd-spore-harvest-am | 4 spore harvest：外送專法 D+2 讀者健康辯論；鎢供應鏈 D+1 264K views 觸發自查，修正法律術語誤植（存亡→存立危機事態） | 留言區討論真實死亡事件時，文章已處理過的界線比 bucket 分類更重要 | [→](memory/2026-07-27-064532-manual.md) |
 | 2026-07-27 | 070922-twmd-feedback-triage | 隊列連續第二天空（file=0），Supabase REST 對賬確認非斷線；archive-scanned=38 synced=0，working tree 全程乾淨無需 commit | 讀者回報節律跟站上算力節律脫鉤，連續零回報是疏密不均不是警訊 | [→](memory/2026-07-27-070922-twmd-feedback-triage.md) |
+| 2026-07-27 | 084604-twmd-maintainer-daily | Issue #1264 seo-meta 多語言缺口確認回覆；PR #1268/#1269 重複投稿發現零腳註「引用荒漠」+政治人物未查證引語，close 一篇+另一篇 request-changes | CI 綠燈是 profile 範圍內的綠燈，不是內容站得住的證明；零腳註但文筆流暢比明顯塑膠句更危險 | [→](memory/2026-07-27-084604-twmd-maintainer-daily.md) |
