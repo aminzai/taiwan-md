@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-27T11:46:50+08:00",
-    "zhCommitHead": "685086b9a",
+    "lastUpdated": "2026-07-27T11:52:20+08:00",
+    "zhCommitHead": "55b85ba37",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -35,16 +35,16 @@
       },
       "ko": {
         "total_zh": 869,
-        "fresh": 816,
-        "stale": 48,
+        "fresh": 817,
+        "stale": 47,
         "metadata_stale": 0,
         "missing": 5,
         "orphan": 0
       },
       "es": {
         "total_zh": 869,
-        "fresh": 817,
-        "stale": 47,
+        "fresh": 818,
+        "stale": 46,
         "metadata_stale": 0,
         "missing": 5,
         "orphan": 0
@@ -59,10 +59,10 @@
       },
       "vi": {
         "total_zh": 869,
-        "fresh": 255,
+        "fresh": 257,
         "stale": 14,
         "metadata_stale": 0,
-        "missing": 600,
+        "missing": 598,
         "orphan": 0
       },
       "id": {
@@ -16057,7 +16057,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Technology/computex.md",
+          "translatedFrom": "Technology/Computex.md",
+          "sourceCommitSha": "52389a7cb",
+          "sourceContentHash": "sha256:c2deb4a945d2dc5b",
+          "sourceBodyHash": "sha256:a4c6e70e74235d09",
+          "translatedAt": "2026-07-27T11:38:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 60,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -18660,18 +18671,16 @@
         "ko": {
           "path": "ko/Technology/taiwan-semiconductor-industry.md",
           "translatedFrom": "Technology/半導體產業.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:353dd1410e58546f",
-          "sourceBodyHash": "sha256:b4789b1cdfeb8d09",
-          "translatedAt": "2026-06-16T16:55:29Z",
+          "sourceCommitSha": "c85a9b6f7",
+          "sourceContentHash": "sha256:b496186c7d76e85e",
+          "sourceBodyHash": "sha256:3bf42ee02082c616",
+          "translatedAt": "2026-07-27T03:47:12.580447+00:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+8 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/taiwan-semiconductor-industry.md",
@@ -18750,8 +18759,8 @@
           "sourceContentHash": "sha256:b496186c7d76e85e",
           "sourceBodyHash": "sha256:3bf42ee02082c616",
           "translatedAt": "2026-07-27T09:40:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c732d67a",
+          "translationLastModified": "2026-07-27T11:46:50+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -32864,16 +32873,16 @@
         "es": {
           "path": "es/Society/taiwan-higher-education-expansion-and-decline.md",
           "translatedFrom": "Society/台灣高等教育擴張與退場.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:2521a3fdec4ce789",
-          "sourceBodyHash": "sha256:a1690337698d47c6",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "sourceCommitSha": "3b2bfbb30",
+          "sourceContentHash": "sha256:0e32d79d3df5fb08",
+          "sourceBodyHash": "sha256:4ba5d74427c47aed",
+          "translatedAt": "2026-07-27T10:42:21+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
-          "footnoteDefs": 11,
-          "status": "stale",
-          "reason": "footnote-loss (33→11)"
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/taiwan-higher-education-expansion-and-decline.md",
@@ -41629,8 +41638,8 @@
           "sourceContentHash": "sha256:3a49c509011ce42d",
           "sourceBodyHash": "sha256:637002941419ff56",
           "translatedAt": "2026-07-27T10:39:05+08:00",
-          "translationLastCommit": "c76c8208",
-          "translationLastModified": "2026-07-24T23:27:34+08:00",
+          "translationLastCommit": "c732d67a",
+          "translationLastModified": "2026-07-27T11:46:50+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -43361,7 +43370,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Nature/taiwan-mountains-and-hiking-culture.md",
+          "translatedFrom": "Nature/台灣山岳與登山文化.md",
+          "sourceCommitSha": "6d3808267",
+          "sourceContentHash": "sha256:578491ed43f8d7d0",
+          "sourceBodyHash": "sha256:be3b3f9150c7c64e",
+          "translatedAt": "2026-07-27T11:38:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -78979,8 +78999,8 @@
           "sourceContentHash": "sha256:c3100aba8df85cb7",
           "sourceBodyHash": "sha256:fa74581434f67fac",
           "translatedAt": "2026-07-27T09:40:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c732d67a",
+          "translationLastModified": "2026-07-27T11:46:50+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
