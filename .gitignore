@@ -205,3 +205,9 @@ public/api/dashboard-newsroom.json
 
 # 節點名（machine-local，prepare-commit-msg 用；機器細節不進公開 repo）
 .taiwanmd/node-name.local
+
+# 翻譯引擎的診斷副產物（patch-translate / structured-translate 的 metrics）。
+# 寫在譯文旁邊方便對照，但不該進版控——會污染 knowledge/ 的 git status，
+# 干擾 rescue-orphans 的孤兒盤點與 verify-commit-scope 的檔數比對。
+knowledge/**/*.metrics.json
+knowledge/**/*.patch-metrics.json
