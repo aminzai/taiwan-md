@@ -25,9 +25,9 @@ lastVerified: 2026-05-22
 lastHumanReview: false
 featured: true
 translatedFrom: 'Technology/台灣BIM與營建科技.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:5500ed1d9d4e0f85'
-sourceBodyHash: 'sha256:6207b1decb9dcfc4'
+sourceCommitSha: '30072b76'
+sourceContentHash: 'sha256:7923803a611ee1da'
+sourceBodyHash: 'sha256:ac277cd39572ac41'
 translatedAt: '2026-07-18T18:59:51+08:00'
 image: '/article-images/technology/freecad-bim-example-2024.webp'
 imageCredit: 'Maxwxyz via Wikimedia Commons'
@@ -263,11 +263,11 @@ Ngày Thạc Đào đưa `REVIT_MCP_study` lên GitHub vào tháng 12 năm 2025[
 
 **Đọc thêm**:
 
-- [Kiến trúc Đài Loan](/art/台灣建築) — câu chuyện văn hóa kiến trúc từ nhà đá phiến đến nhà chọc trời; bài viết này là phần đồng hành về số hóa kỹ thuật
+- [Kiến trúc Đài Loan](/vi/art/taiwanese-architecture) — câu chuyện văn hóa kiến trúc từ nhà đá phiến đến nhà chọc trời; bài viết này là phần đồng hành về số hóa kỹ thuật
 - [Nhà ở xã hội và công bằng cư trú](/society/社會住宅與居住正義) — ứng dụng BIM trong quản lý vận hành nhà ở xã hội là chương trình trọng điểm những năm gần đây của Viện Nghiên cứu Kiến trúc và Xây dựng thuộc Bộ Nội chính
-- [Doanh nghiệp Đài Loan: TSMC](/economy/台灣企業：台積電) — ứng dụng BIM tại nhà máy TSMC là địa bàn thực tiễn chủ yếu của các nhà thầu như Dacin và Futsu
+- [Doanh nghiệp Đài Loan: TSMC](/vi/economy/tsmc) — ứng dụng BIM tại nhà máy TSMC là địa bàn thực tiễn chủ yếu của các nhà thầu như Dacin và Futsu
 - [Sự phát triển AI tại Đài Loan](/technology/AI發展) — Anthropic MCP và MCP tích hợp trong Revit 2027 là trường hợp cụ thể của AI × công nghiệp
-- [Ngành bán dẫn](/technology/半導體產業) — giải pháp tổng thể cho công trình nhà máy fab cùng hoạt động xây dựng nhà máy thông minh bằng BIM là nền tảng kỹ thuật cho sự mở rộng của cụm công nghiệp bán dẫn
+- [Ngành bán dẫn](/vi/technology/taiwan-semiconductor-industry) — giải pháp tổng thể cho công trình nhà máy fab cùng hoạt động xây dựng nhà máy thông minh bằng BIM là nền tảng kỹ thuật cho sự mở rộng của cụm công nghiệp bán dẫn
 
 ## Nguồn hình ảnh
 

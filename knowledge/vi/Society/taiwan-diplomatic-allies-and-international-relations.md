@@ -19,9 +19,9 @@ lastVerified: 2026-04-28
 lastHumanReview: false
 featured: true
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: 'dd39065b2'
-sourceContentHash: 'sha256:106427f4b2a59983'
-sourceBodyHash: 'sha256:52dab0b7f31fb6c8'
+sourceCommitSha: '669a4c87'
+sourceContentHash: 'sha256:03188362c6b1e61a'
+sourceBodyHash: 'sha256:e6881f1d2b6924ed'
 translatedAt: '2026-07-18T18:59:51+08:00'
 ---
 
@@ -100,7 +100,7 @@ Trong cuộc phỏng vấn với Đài Truyền hình Công cộng Đài Loan v�
 
 ### Paraguay: đồng minh duy nhất tại Nam Mỹ, được duy trì 69 năm nhờ truyền thống của Đảng Colorado
 
-Hai bên thiết lập quan hệ ngoại giao năm 1957. Đây là **nước bang giao duy nhất của Đài Loan tại Nam Mỹ**. Trong hơn sáu thập niên, quan hệ này đã vượt qua nguy cơ bị cắt đứt sau cuộc đảo chính năm 1989, cũng như sức ép kéo dài từ thị trường và hoạt động vận động chính trị của Trung Quốc; bối cảnh đầy đủ có thể xem trong bài “[Paraguay và Đài Loan](/society/巴拉圭與台灣/)”.
+Hai bên thiết lập quan hệ ngoại giao năm 1957. Đây là **nước bang giao duy nhất của Đài Loan tại Nam Mỹ**. Trong hơn sáu thập niên, quan hệ này đã vượt qua nguy cơ bị cắt đứt sau cuộc đảo chính năm 1989, cũng như sức ép kéo dài từ thị trường và hoạt động vận động chính trị của Trung Quốc; bối cảnh đầy đủ có thể xem trong bài “[Paraguay và Đài Loan](/vi/society/paraguay-taiwan/)”.
 
 Đảng Colorado của Paraguay đã cầm quyền, dù có gián đoạn, trong hơn 70 năm kể từ năm 1947. Lập trường chống cộng và thân Đài Loan là di sản mang tính cấu trúc của cục diện Chiến tranh Lạnh. Người chiến thắng trong cuộc bầu cử năm 2023, Santiago Peña, là ứng viên Đảng Colorado, trong khi đối thủ thuộc Đảng Tự do chủ trương xem xét lại chính sách đối với Đài Loan. Việc cử tri chọn Đảng Colorado đồng nghĩa với lựa chọn tiếp tục quan hệ ngoại giao.
 
@@ -279,7 +279,7 @@ Nó là khoảng cách giữa những con số ấy.
 - [Quốc phòng và hiện đại hóa quân sự Đài Loan](/society/台灣國防與軍事現代化) — khi chỉ còn 12 nước bang giao, năng lực tự vệ quân sự là một trụ cột khác giúp duy trì trạng thái “không phải 0”
 - [Khủng hoảng eo biển Đài Loan và sự phát triển của quan hệ hai bờ eo biển](/history/台海危機與兩岸關係發展) — ba cuộc khủng hoảng đã định hình tình trạng cô lập ngoại giao và nỗi lo an ninh của Đài Loan như thế nào
 - [TSMC](/business/台積電) — nền tảng vật chất và tính dễ tổn thương mang tính cấu trúc của lá chắn silicon
-- [Trác Vinh Thái](/people/卓榮泰) — lộ trình thuế quan Hoa Kỳ–Đài Loan năm 2026 từ 32% xuống 20% rồi 15%, cùng vai trò điều phối nội các trong chuyến thăm Eswatini của Lại Thanh Đức
+- [Trác Vinh Thái](/vi/people/cho-jung-tai) — lộ trình thuế quan Hoa Kỳ–Đài Loan năm 2026 từ 32% xuống 20% rồi 15%, cùng vai trò điều phối nội các trong chuyến thăm Eswatini của Lại Thanh Đức
 - [Đài Loan và Eswatini](/society/台灣與史瓦帝尼) — mảnh ghép cuối cùng tại châu Phi trong số 12 nước bang giao, với toàn bộ câu chuyện 58 năm từ ngày thiết lập quan hệ năm 1968 đến chuyến thăm của Lại Thanh Đức năm 2026
 
 ## Tài liệu tham khảo

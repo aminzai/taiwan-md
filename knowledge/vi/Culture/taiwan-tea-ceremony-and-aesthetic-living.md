@@ -18,9 +18,9 @@ lastVerified: 2026-03-25
 lastHumanReview: false
 featured: true
 translatedFrom: 'Culture/台灣茶道與生活美學.md'
-sourceCommitSha: 'd520299ba'
-sourceContentHash: 'sha256:493db11be1cffdc3'
-sourceBodyHash: 'sha256:31e39ab99f97ad00'
+sourceCommitSha: '2948c945'
+sourceContentHash: 'sha256:f1b4f4bb8aa56e88'
+sourceBodyHash: 'sha256:b5154ba7226ad9d9'
 translatedAt: '2026-07-18T18:59:51+08:00'
 difficulty: 'beginner'
 ---
@@ -136,7 +136,7 @@ Những giàn tử đằng tại Tử Đằng Lư nở hoa vào mỗi mùa xuân
 
 ## Đọc thêm
 
-- [Văn hóa trà Đài Loan](/culture/台灣茶文化) - Cẩm nang chuyên sâu về các giống trà và vùng sản xuất
-- [Lễ tiết và lễ hội truyền thống](/culture/傳統節慶與慶典) - Vai trò của trà trong các dịp lễ hội
-- [Cảm thức Đài Loan: Phải chăng chúng ta phải đợi người Hàn Quốc nhấn thích rồi mới dám nói những ngôi nhà cổ của mình đẹp?](/culture/台灣感性) — Cũng là sự tái khám phá mỹ học đời thường Đài Loan qua hoa sắt cửa sổ, đá mài và nhà cổ; bài viết đặt câu hỏi liệu phải chờ người khác nhấn thích thì chúng ta mới nhìn thấy lại vẻ đẹp ấy hay không
+- [Văn hóa trà Đài Loan](/vi/culture/taiwanese-tea-culture-and-living-aesthetics) - Cẩm nang chuyên sâu về các giống trà và vùng sản xuất
+- [Lễ tiết và lễ hội truyền thống](/vi/culture/traditional-festivals-and-celebrations) - Vai trò của trà trong các dịp lễ hội
+- [Cảm thức Đài Loan: Phải chăng chúng ta phải đợi người Hàn Quốc nhấn thích rồi mới dám nói những ngôi nhà cổ của mình đẹp?](/vi/culture/taiwanese-sensibility) — Cũng là sự tái khám phá mỹ học đời thường Đài Loan qua hoa sắt cửa sổ, đá mài và nhà cổ; bài viết đặt câu hỏi liệu phải chờ người khác nhấn thích thì chúng ta mới nhìn thấy lại vẻ đẹp ấy hay không
 - [Văn hóa và ngôn ngữ Khách Gia](/culture/客家文化與語言) - Mối liên hệ giữa trà Đông Phương Mỹ Nhân và các vùng trà của người Khách Gia

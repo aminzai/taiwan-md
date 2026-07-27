@@ -23,9 +23,9 @@ lastVerified: 2026-06-25
 lastHumanReview: true
 featured: false
 translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: '905aa4a82'
-sourceContentHash: 'sha256:93ceaae8bc44512f'
-sourceBodyHash: 'sha256:941fb85e8f2fbb98'
+sourceCommitSha: 'da22dc5b'
+sourceContentHash: 'sha256:b4fa10553d998dfa'
+sourceBodyHash: 'sha256:6475e91be41d93b4'
 translatedAt: '2026-07-18T18:59:51+08:00'
 image: '/article-images/technology/mini-taiwan-pulse-map-2026.webp'
 imageCredit: 'Migu / sciwork 2026'

@@ -20,9 +20,9 @@ lastVerified: 2026-06-07
 lastHumanReview: false
 featured: true
 translatedFrom: 'People/黃山料.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:7ecc75e3d3f02f0a'
-sourceBodyHash: 'sha256:0d3c13e2c5763c28'
+sourceCommitSha: '00939ce5'
+sourceContentHash: 'sha256:0b1bdd0cdf3b8705'
+sourceBodyHash: 'sha256:a1e88d45df841409'
 translatedAt: '2026-07-18T18:59:51+08:00'
 image: '/article-images/people/huang-shan-liao-portrait-2025.webp'
 imageCredit: '鏡週刊（fair use editorial commentary）'
@@ -193,7 +193,7 @@ Không ai chú ý đến tủ “Kim Môn 1969”, vì thế nó biến mất; m
 
 **Đọc thêm**:
 
-- [Ngô Bảo Xuân](/people/吳寶春) — Một nghệ nhân Đài Loan khác từng vô địch thế giới; khác biệt là tay nghề của ông đã được nhìn thấy
+- [Ngô Bảo Xuân](/vi/people/wu-bao-chun) — Một nghệ nhân Đài Loan khác từng vô địch thế giới; khác biệt là tay nghề của ông đã được nhìn thấy
 - [André Chiang](/people/江振誠) — Người xác lập vị trí cho đầu bếp Đài Loan trên sân khấu quốc tế, một số phận khác của con đường “làm ra thứ tốt”
 - [Trương Chí Kỳ](/people/張志祺) — Một “người tuyển chọn thông tin” cũng biến điều phức tạp thành dễ hiểu và tìm kiếm sự đồng cảm trong thời đại chú ý
 - [Jimmy Liao](/people/幾米) — Từ công ty quảng cáo chuyển thành nhà sáng tạo dòng chữa lành bán chạy quốc tế, một cách khác để được nhìn thấy

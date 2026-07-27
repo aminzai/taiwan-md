@@ -23,9 +23,9 @@ lastVerified: 2026-04-28
 lastHumanReview: true
 featured: true
 translatedFrom: 'Culture/台灣宗教與寺廟文化.md'
-sourceCommitSha: 'd520299ba'
-sourceContentHash: 'sha256:564cdba1365b869c'
-sourceBodyHash: 'sha256:fd6e0f1d7dcab7fc'
+sourceCommitSha: 'd56c5a60'
+sourceContentHash: 'sha256:518362b111919aa4'
+sourceBodyHash: 'sha256:b2ec869950288157'
 translatedAt: '2026-07-18T18:59:51+08:00'
 ---
 
@@ -159,7 +159,7 @@ Và đức tin ấy cuối cùng đã làm cho hòn đảo được tự do.
 - [Phong trào xã hội Đài Loan thời Nhật Bản cai trị](../History/日治時期臺灣社會運動) — chính quyền thuộc địa kiểm soát tôn giáo như thế nào và bị tôn giáo chống lại ra sao
 - [Sự kiện 28 tháng 2](../History/二二八事件) — vai trò của giới tôn giáo thời hậu chiến, đặc biệt là Giáo hội Trưởng Lão, trong chuyển đổi chính trị
 - [Tưởng Vị Thủy](../People/蔣渭水) — nhà cách mạng đồng thời là bác sĩ và cuộc đối thoại của ông với các lãnh tụ tôn giáo cùng thời
-- [Cảm thức Đài Loan: Có phải chúng ta phải đợi người Hàn Quốc nhấn thích rồi mới dám nói những ngôi nhà cũ của mình rất đẹp?](/culture/台灣感性) — đền miếu là một trong những nơi thường lưu giữ trọn vẹn nhất các yếu tố thẩm mỹ đời thường của Đài Loan như sàn đá mài terrazzo và hoa sắt cửa sổ
+- [Cảm thức Đài Loan: Có phải chúng ta phải đợi người Hàn Quốc nhấn thích rồi mới dám nói những ngôi nhà cũ của mình rất đẹp?](/vi/culture/taiwanese-sensibility) — đền miếu là một trong những nơi thường lưu giữ trọn vẹn nhất các yếu tố thẩm mỹ đời thường của Đài Loan như sàn đá mài terrazzo và hoa sắt cửa sổ
 
 ## Tài liệu tham khảo
 

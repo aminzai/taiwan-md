@@ -19,9 +19,9 @@ lastVerified: 2026-07-15
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/尊.md'
-sourceCommitSha: 'd40e50420'
-sourceContentHash: 'sha256:7b9715f6662dde5b'
-sourceBodyHash: 'sha256:4ef1e6ee9b7fee55'
+sourceCommitSha: '16c428cd'
+sourceContentHash: 'sha256:94b77718dfa4da62'
+sourceBodyHash: 'sha256:5579d8d02a3f58ac'
 translatedAt: '2026-07-18T18:59:51+08:00'
 image: /article-images/people/zun-new-home-2025.webp
 imageCredit: '人生肥宅x尊 YouTube 頻道；Fair use editorial commentary'
