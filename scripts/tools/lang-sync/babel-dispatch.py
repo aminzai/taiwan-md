@@ -69,8 +69,11 @@ STATUS_JSON = KNOWLEDGE / "_translation-status.json"
 TRANSLATIONS_JSON = KNOWLEDGE / "_translations.json"
 GIT_LOCK = Path("/tmp/taiwan-md-git.lock")
 # 難篇記憶：跨 run 累計的失敗次數，決定佇列優先序（不在 repo 內——這是本機
-# 產線狀態不是專案資產）
-FAIL_MEMO = Path("/tmp/babel-fail-memo.json")
+# 產線狀態不是專案資產）。2026-07-27 從 /tmp 搬到 ~/.cache：重開機清空 /tmp
+# 讓記憶歸零，所有沉底難篇回到佇列最前面，四軌整批重撞已知硬骨頭，通過率
+# 從 50% 崩到 18%。「跨 run 持久化」必須也跨重開機才算數。
+FAIL_MEMO = Path.home() / ".cache" / "taiwan-md" / "babel-fail-memo.json"
+FAIL_MEMO.parent.mkdir(parents=True, exist_ok=True)
 MAX_FAIL_RETRIES = 3   # 同一篇本 run 失敗幾次後讓出輪次（退避，非永久放棄——下個 run 重來）  # SAME path the legacy bash dispatchers use
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
