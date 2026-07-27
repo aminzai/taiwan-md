@@ -100,7 +100,7 @@ If Taiwan still frames rural education as "sending passion into the mountains," 
 - [Education System and Admissions Culture](/en/society/education-system-and-admissions-culture/) — Rural education is not an isolated problem; it is tightly linked to how Taiwan as a whole defines grades, admissions, and success.
 - [Taiwan's Low Birth Rate Crisis](/en/society/taiwan-low-birth-rate-crisis/) — Many rural small schools bear not only educational policy pressure, but also long-term changes brought by local population loss and community decline.
 - [Indigenous Language Revitalization Movement](/en/culture/indigenous-language-revitalization-movement/) — The core of indigenous education lies not only in academic ability, but also in whether language, culture, and the living world can be truly held by schools.
-- [Za School /雜學校](/en/Society/za-school/) — A control group for alternative education outside the system: not in rural areas, but holding exhibitions in cultural and creative parks, yet like rural education, it handles "learning possibilities outside the mainstream narrative."
+- [Za School /雜學校](/en/society/za-school/) — A control group for alternative education outside the system: not in rural areas, but holding exhibitions in cultural and creative parks, yet like rural education, it handles "learning possibilities outside the mainstream narrative."
 
 ## References
 
