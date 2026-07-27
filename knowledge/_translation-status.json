@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-28T03:07:27+08:00",
-    "zhCommitHead": "2434cf8ce",
+    "lastUpdated": "2026-07-28T03:16:15+08:00",
+    "zhCommitHead": "05f23d104",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -51,8 +51,8 @@
       },
       "fr": {
         "total_zh": 869,
-        "fresh": 819,
-        "stale": 45,
+        "fresh": 820,
+        "stale": 44,
         "metadata_stale": 1,
         "missing": 4,
         "orphan": 0
@@ -75,34 +75,34 @@
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 585,
+        "fresh": 586,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 278,
+        "missing": 277,
         "orphan": 0
       },
       "hi": {
         "total_zh": 869,
-        "fresh": 442,
+        "fresh": 443,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 427,
+        "missing": 426,
         "orphan": 0
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 457,
+        "fresh": 458,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 412,
+        "missing": 411,
         "orphan": 0
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 491,
+        "fresh": 492,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 378,
+        "missing": 377,
         "orphan": 0
       }
     },
@@ -8677,7 +8677,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/circular-economy-and-resource-recycling.md",
+          "translatedFrom": "Economy/台灣循環經濟與資源再利用.md",
+          "sourceCommitSha": "f944f63b4",
+          "sourceContentHash": "sha256:1f3ebd8f501cc764",
+          "sourceBodyHash": "sha256:09a7619ad7b7047a",
+          "translatedAt": "2026-07-28T03:07:46+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -13753,8 +13764,8 @@
           "sourceContentHash": "sha256:19e7a45a0852260f",
           "sourceBodyHash": "sha256:a1d16e29348fc28f",
           "translatedAt": "2026-07-27T22:12:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "05f23d10",
+          "translationLastModified": "2026-07-28T03:07:27+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -15913,10 +15924,32 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/taiwan-ai-in-daily-life.md",
+          "translatedFrom": "Technology/台灣AI日常.md",
+          "sourceCommitSha": "8d7c23da7",
+          "sourceContentHash": "sha256:53da925e7fa0c8af",
+          "sourceBodyHash": "sha256:4be23294d5e61459",
+          "translatedAt": "2026-07-28T03:07:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/taiwan-ai-in-daily-life.md",
+          "translatedFrom": "Technology/台灣AI日常.md",
+          "sourceCommitSha": "8d7c23da7",
+          "sourceContentHash": "sha256:53da925e7fa0c8af",
+          "sourceBodyHash": "sha256:4be23294d5e61459",
+          "translatedAt": "2026-07-28T03:07:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -36965,8 +36998,8 @@
           "sourceContentHash": "sha256:a399eae223d36d4d",
           "sourceBodyHash": "sha256:71fc72f8b7a7bc3d",
           "translatedAt": "2026-07-27T22:12:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "05f23d10",
+          "translationLastModified": "2026-07-28T03:07:27+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -37096,8 +37129,8 @@
           "sourceContentHash": "sha256:c3e60eb6650d8dfb",
           "sourceBodyHash": "sha256:260082957a9cf952",
           "translatedAt": "2026-07-27T22:12:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "05f23d10",
+          "translationLastModified": "2026-07-28T03:07:27+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -58216,8 +58249,8 @@
           "sourceContentHash": "sha256:0b1bdd0cdf3b8705",
           "sourceBodyHash": "sha256:a1e88d45df841409",
           "translatedAt": "2026-07-27T22:12:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "05f23d10",
+          "translationLastModified": "2026-07-28T03:07:27+08:00",
           "inferred": false,
           "footnoteDefs": 42,
           "status": "fresh",
@@ -58598,18 +58631,16 @@
         "fr": {
           "path": "fr/People/zun.md",
           "translatedFrom": "People/尊.md",
-          "sourceCommitSha": "aeb8b0e4",
-          "sourceContentHash": "sha256:0d80278055d155a0",
-          "sourceBodyHash": "sha256:44a77176cac892eb",
-          "translatedAt": "2026-06-06T00:00:00Z",
+          "sourceCommitSha": "16c428cd9",
+          "sourceContentHash": "sha256:94b77718dfa4da62",
+          "sourceBodyHash": "sha256:5579d8d02a3f58ac",
+          "translatedAt": "2026-07-27T22:12:16+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
-          "footnoteDefs": 23,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 4,
-          "diffSummary": "+92 -107"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/zun.md",
@@ -63023,8 +63054,8 @@
           "sourceContentHash": "sha256:42745728f5eb5c1a",
           "sourceBodyHash": "sha256:b26e0a7ce99faf37",
           "translatedAt": "2026-07-27T22:12:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "05f23d10",
+          "translationLastModified": "2026-07-28T03:07:27+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -68892,8 +68923,8 @@
           "sourceContentHash": "sha256:736443e43dba4c29",
           "sourceBodyHash": "sha256:b6b66329e69543f7",
           "translatedAt": "2026-07-27T22:12:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "05f23d10",
+          "translationLastModified": "2026-07-28T03:07:27+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -105721,7 +105752,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/magazine.md",
+          "translatedFrom": "Culture/雜誌.md",
+          "sourceCommitSha": "e0fa60041",
+          "sourceContentHash": "sha256:ee59ed48db607f3f",
+          "sourceBodyHash": "sha256:26d93e9626e6b86e",
+          "translatedAt": "2026-07-28T03:07:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -108448,8 +108490,8 @@
           "sourceContentHash": "sha256:0e116841e98362b0",
           "sourceBodyHash": "sha256:8d311f99ab1ace9b",
           "translatedAt": "2026-07-27T22:12:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "05f23d10",
+          "translationLastModified": "2026-07-28T03:07:27+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
