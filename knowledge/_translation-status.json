@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-27T11:52:20+08:00",
-    "zhCommitHead": "55b85ba37",
+    "lastUpdated": "2026-07-27T12:17:45+08:00",
+    "zhCommitHead": "dcec5674a",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 564,
+        "fresh": 566,
         "stale": 9,
         "metadata_stale": 0,
-        "missing": 296,
+        "missing": 294,
         "orphan": 0
       },
       "hi": {
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 448,
+        "fresh": 449,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 421,
+        "missing": 420,
         "orphan": 0
       },
       "ru": {
@@ -27744,7 +27744,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Lifestyle/transportation-system.md",
+          "translatedFrom": "Lifestyle/台灣交通系統.md",
+          "sourceCommitSha": "8790dbf1a",
+          "sourceContentHash": "sha256:241f6e09e82258d9",
+          "sourceBodyHash": "sha256:8b4f70704fe27d7e",
+          "translatedAt": "2026-07-27T12:01:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Lifestyle/transportation-system.md",
@@ -84314,13 +84325,35 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/taiwan-food-overview.md",
+          "translatedFrom": "Food/台灣美食總覽.md",
+          "sourceCommitSha": "53dd93dd8",
+          "sourceContentHash": "sha256:4e63535e7555a67e",
+          "sourceBodyHash": "sha256:607f80fde520e7fc",
+          "translatedAt": "2026-07-27T12:01:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 70,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/taiwan-food-overview.md",
+          "translatedFrom": "Food/台灣美食總覽.md",
+          "sourceCommitSha": "53dd93dd8",
+          "sourceContentHash": "sha256:4e63535e7555a67e",
+          "sourceBodyHash": "sha256:607f80fde520e7fc",
+          "translatedAt": "2026-07-27T12:01:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 70,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"

@@ -38,7 +38,7 @@ PAREN = re.compile(
 )
 
 # 這些語言的正文不該有裸 CJK；ja/ko 混寫合法不在此清單
-TARGET_LANGS = {"en", "es", "fr", "vi", "id", "pt", "hi"}
+TARGET_LANGS = {"en", "es", "fr", "vi", "id", "pt", "hi", "ar", "ru"}
 
 
 MULTILINE_LINK = re.compile(r"\]\([^)]*?\)", re.S)  # 連結目標可被 prettier 摺行
