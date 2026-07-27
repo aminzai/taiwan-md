@@ -302,7 +302,19 @@ def verify_one(zh_path: str, trans_path: str, log: Logger) -> tuple[bool, Option
     ok = out1.get("fails", 1) == 0 and not leak_fail and not health_fail
     if ok:
         return True, None
-    reason = "health" if health_fail else ("leak" if leak_fail else f"verify={out1.get('fails')}")
+    # 失敗原因要帶「是哪幾項」不只「有幾項」——2026-07-27 診斷 verify 類失敗時
+    # 發現 `verify=4` 只記數量，log 與 report.jsonl 都查不出敗在哪個檢查，
+    # 等於失敗不可診斷（本檔 §儀器化：工具存在不等於問題被檢查）。
+    if health_fail:
+        reason = "health"
+    elif leak_fail:
+        reason = "leak"
+    else:
+        failed_names = [c.get("name", "?") for c in (out1.get("checks") or [])
+                        if c.get("level") == "FAIL"]
+        reason = f"verify={out1.get('fails')}"
+        if failed_names:
+            reason += f" [{', '.join(failed_names[:4])}]"
     log(f"❌ GATE FAIL {trans_path} ({reason})")
     return False, reason
 
