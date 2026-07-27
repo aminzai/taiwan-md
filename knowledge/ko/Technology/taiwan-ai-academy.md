@@ -2,9 +2,7 @@
 title: '대만 인공지능학교: 끝내지 못한 전화 한 통과 1만 명의 AI 엔지니어'
 description: '2020년 3월 27일, 천성웨이는 천하잡지 편집장에게 신중하게 전화를 걸었다. 그는 무료 국민 프로그래밍 수업을 열고 싶어 했다. 이틀 뒤 그는 인라인스케이트를 타다 넘어졌고, 13일 뒤 44세로 사망했다. 그가 세상을 떠났을 때, 2018년 자신이 설립한 대만 인공지능학교(AIA)는 이미 6,000명 이상을 훈련시킨 상태였다. 같은 시기 국가발전위원회는 “AI 소국 대전략”을 내세우며 5년 160억을 외쳤지만, 그는 대만플라스틱, 치메이, 인벤텍 등 여섯 기업으로부터 민간 자금 1억 8,000만을 모아 스스로 학교를 세웠다. 8년 뒤 동문은 1만 명을 넘어섰다. AIA는 대만 산업 고도화의 퍼즐 가운데, 가장 대만답지 않은 조각이다.'
 date: 2026-05-18
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '人工智慧'
 tags:
   [
     '인공지능',
@@ -15,19 +13,21 @@ tags:
     '중앙연구원',
     'AI 정책',
   ]
-readingTime: 18
+subcategory: '人工智慧'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-18
 lastHumanReview: true
-featured: true
-translatedFrom: 'Technology/台灣人工智慧學校.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:4e403df024cd43dc'
-sourceBodyHash: 'sha256:04e9009c16ede3cb'
-translatedAt: '2026-06-16T16:55:29Z'
+readingTime: 18
 image: '/article-images/technology/taiwan-ai-academy-chen-shengwei-portrait-2018.webp'
 imageCredit: '台灣人工智慧學校官方'
 imageLicense: 'Fair use editorial commentary on AIA founder portrait'
 imageSource: 'https://aiacademy.tw/swc/'
+translatedFrom: 'Technology/台灣人工智慧學校.md'
+sourceCommitSha: 'c8e5ac9ea'
+sourceContentHash: 'sha256:aeb22f9372adc2ef'
+sourceBodyHash: 'sha256:6ec984b54802baea'
+translatedAt: '2026-07-27T11:59:12.911087+00:00'
 ---
 
 # 대만 인공지능학교: 끝내지 못한 전화 한 통과 1만 명의 AI 엔지니어
@@ -281,27 +281,28 @@ _천성웨이가 세상을 떠나기 얼마 전 《원견잡지》 인터뷰에 
 
 2018년부터 2026년까지, AIA는 8년을 걸어왔다. 천성웨이는 그중 앞의 3년에만 있었다.
 
-## 만들어지지 못한 그 수업
+## 끝내 열리지 못한 그 수업
 
-2020년 3월 27일의 그 전화에서, 누구도 전체 구상을 끝까지 듣지 못했다.
+2020년 3월 27일 그 전화 통화는 아무도 끝까지 듣지 못했다.
 
-이틀 뒤 천성웨이는 넘어졌다. 13일 뒤 세상을 떠났다. 그가 열고 싶어 했던 무료 국민 프로그래밍 수업은 만들어지지 못했다.
+이틀 뒤 천성웨이가 쓰러졌다. 13일 뒤 세상을 떠났다. 그가 열고자 했던 무료 전민 프로그래밍 수업은 끝내 열리지 못했다.
 
-그러나 2024년 5월, AIA 동문 수는 1만 명을 넘어섰다. 차이밍순은 기자회견에서 더 이상 “세계가 대만을 보면 AI를 떠올리게 해야 한다”는 천성웨이의 입버릇을 다시 꺼낼 필요가 없었다. 지난 6년 동안 이 말은 이미 1만 명이 넘는 엔지니어를 통해 대만 기술산업의 이력서에 적혀 들어갔다.
+하지만 2024년 5월, AIA 졸업생 수가 1만 명을 넘어섰다. 차이밍순은 기자회견에서 더 이상 "세계가 타이완을 볼 때 AI를 떠올리게 하라"는, 천성웨이가 입버릇처럼 하던 말을 꺼내지 않아도 됐다. 지난 6년간 이 말은 수만 명의 엔지니어를 통해 타이완 과학기술 업계의 이력서에 새겨졌다.
 
-AIA는 12주 NT$48,000짜리 종일 집중 캠프에서, 3일 21시간 NT$17,000짜리 LLM 단기반으로 이동했다. 기술리더에서 산업 보급으로, 하나의 학교에서 하나의 인재 생산라인으로 옮겨갔다.
+AIA는 12주 NT$48,000의 전일제 집중 과정에서 3일 21시간 NT$17,000의 LLM 단기 과정으로 나아갔다. 기술 리더 양성에서 산업 보급으로. 한 학교에서 한 인재 양성 라인으로.
 
-천성웨이가 원했던 “무료 국민 프로그래밍 수업”은 만들어지지 못했다. 그러나 그가 원했던 또 다른 일, “AI 인재를 찾지 못해 뒤처지는 사람이 더는 없게 하는 것”은 절반쯤 이루어졌다.
+천성웨이가 원했던 '무료 전민 프로그래밍 수업'은 열리지 못했다. 하지만 그가 원했던 또 다른 것, '누구도 AI 인재를 구하지 못해 뒤처지지 않게 하라'는 반쯤은 이루어졌다.
 
-끝내지 못한 그 전화는 미완의 뜻 하나와, AIA 교실에 앉았던 1만 명의 사람을 남겼다.
+끝내 마치지 못한 그 전화 통화는 하나의 미완의 뜻과, AIA 강의실에 앉아본 적 있는 1만 명의 사람들을 남겼다.
 
 ---
 
-**더 읽을거리**:
+**더 읽어보기**:
 
-- [AI 섬나라의 부상: 대만 인공지능 발전과 미래 전략](/ko/technology/ai-development-in-taiwan) — 대만 AI 정책 구조, 산업 배치, 5대 전략 분야와 국제협력을 조망하는 전체 서사
-- [대만의 AI 일상](/ko/technology/taiwan-ai-in-daily-life) — 대만의 편의점, 병원, 농지, 교실 등 일상 장면에 AI가 구현되는 실제 사례
-- [반도체 산업](/ko/technology/taiwan-semiconductor-industry) — AIA가 8년 동안 길러낸 AI 엔지니어가 반도체 강국의 기존 ICT 생태계와 어떻게 다시 연결되는가
+- [AI 섬나라의 부상: 타이완 인공지능 발전과 미래 전략](/ko/technology/ai-development-in-taiwan) — 타이완 AI 정책 체계, 산업 배치, 5대 전략 영역과 국제 협력의 전경 서사
+- [타이완 AI 일상](/ko/technology/taiwan-ai-in-daily-life) — AI가 타이완 편의점, 병원, 농장, 교실 등 일상 현장에 구현된 실천
+- [반도체 산업](/ko/technology/taiwan-semiconductor-industry) — AIA가 8년간 키워낸 AI 엔지니어들이 어떻게 반도체 강국의 기존 ICT 생태계와 다시 연결되었는가
+- [왜 타이완은 자체 지식기지가 필요한가](/ko/about/why-taiwan-needs-its-own-knowledge-base) — 교무처장 차이밍순이 타이완 토착 데이터가 인터넷 세계에서 차지하는 비중이 0.1% 미만이라고 말한 바 있다. 이 글은 그 공백을 수치화하고, 누가 그 기록을 써내려가야 할지를 논한다
 
 ## 이미지 출처
 
