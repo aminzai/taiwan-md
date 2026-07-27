@@ -58,7 +58,7 @@ import time
 from collections import defaultdict, deque
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass, field
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from itertools import zip_longest
 from pathlib import Path
 from typing import Optional
@@ -407,39 +407,77 @@ def default_langs(status_data: dict) -> list:
     return result
 
 
+FRESH_WINDOW_DAYS = 5   # 見 build_worklist：新文章的最高優先窗口
+
+
 def build_worklist(status_data: dict, lang: str, priority: str, order: str,
                     fail_counts: dict | None = None) -> list:
-    """優先序佇列：失敗過的文章往後排，不排除。
+    """四層優先序佇列。
 
-    2026-07-26 哲宇 directive「失敗的把優先序自動往後排，往下繼續嘗試新的
-    文章才是好的策略，這樣逐步過濾出不容易處理的文章」。此前是硬性 exclude
-    ——連續 N 次失敗就整輪不碰，下個 run 又從頭來過，於是每次啟動都先拿同一
-    批難篇撞牆。改成把失敗次數當第一排序鍵：沒試過的最先，試過一次的次之，
-    撞牆多次的自然沉到隊尾。效果有二：算力優先花在有機會成功的文章上；
-    而沉底的那批本身就是「難篇清單」，可以拿去換模型或人工看。
+    排序鍵由外到內：
+      ① 失敗次數（撞牆多的沉底，不排除——2026-07-26 哲宇 directive
+         「失敗的往後排，往下繼續嘗試新的，逐步過濾出不容易處理的文章」）
+      ② **新鮮窗**：zh 最後編輯在 FRESH_WINDOW_DAYS 內的文章整批插隊到最前，
+         凌駕 P0/P1（2026-07-27 哲宇 directive「最近 5 天內的最新文章排最高
+         優先序，日期近的更前面」）。剛寫好或剛大修的文章是讀者當下會看的，
+         也是站上編輯標準最新的一批，晚一天翻就少一天的多語觸及。
+      ③ P0/P1（缺頁先於過期）
+      ④ zh 編輯時間新到舊
+
+    新鮮窗內部同樣依 ①③④ 排（失敗沉底照舊生效，避免新文章裡的硬骨頭
+    霸佔隊首），但 `--order reverse` 對它無效——新鮮窗的定義就是由新到舊。
     """
     by_article = status_data["byArticle"]
     fail_counts = fail_counts or {}
-    p0, p1 = [], []
+    fresh_cut = datetime.now().astimezone() - timedelta(days=FRESH_WINDOW_DAYS)
+
+    def _mtime(raw: str):
+        # lastModified 帶時區偏移（…+08:00），字串比較會被不同 offset 騙，
+        # 一律解析成 aware datetime 再比。
+        try:
+            return datetime.fromisoformat(raw)
+        except Exception:
+            return datetime.min.replace(tzinfo=timezone.utc)
+
+    fresh, p0, p1 = [], [], []
     for zh, info in by_article.items():
         t = info.get("translations", {}).get(lang, {})
         st = t.get("status")
+        if st not in ("missing", "stale", "metadata-stale"):
+            continue
+        raw = info["zh"]["lastModified"]
         nfail = fail_counts.get(f"{lang}:{zh}", 0)
-        if st == "missing":
-            p0.append((zh, info["zh"]["lastModified"], nfail))
-        elif st in ("stale", "metadata-stale"):
-            p1.append((zh, info["zh"]["lastModified"], nfail))
+        tier = 0 if st == "missing" else 1          # P0 先於 P1
+        entry = (zh, raw, nfail, tier)
+        if _mtime(raw) >= fresh_cut:
+            fresh.append(entry)
+        elif st == "missing":
+            p0.append(entry)
+        else:
+            p1.append(entry)
+
     # 先按 zh 最後編輯時間排（新的優先，對齊 prepare-batch --top）
-    p0.sort(key=lambda x: x[1], reverse=True)
-    p1.sort(key=lambda x: x[1], reverse=True)
+    for bucket in (fresh, p0, p1):
+        bucket.sort(key=lambda x: _mtime(x[1]), reverse=True)
     if order == "reverse":
-        p0 = list(reversed(p0))
+        p0 = list(reversed(p0))          # 新鮮窗永遠新到舊，不受 reverse 影響
         p1 = list(reversed(p1))
-    # 再按失敗次數穩定排序（Python sort 穩定，同層維持上面的時間序）
+    # 新鮮窗內：失敗沉底 → 純日期新到舊。**刻意不分 P0/P1**——哲宇的話是
+    # 「日期近的在更前面」，窗內若再按缺頁/過期分層，昨天的缺頁會插到今天的
+    # 過期前面，違反本意。窗外才輪到 P0/P1 分層。
+    fresh.sort(key=lambda x: x[2])
+    # 其餘：失敗沉底
     p0.sort(key=lambda x: x[2])
     p1.sort(key=lambda x: x[2])
-    p0_paths = [z for z, _, _ in p0]
-    p1_paths = [z for z, _, _ in p1]
+
+    fresh_p0 = [z for z, _, _, tier in fresh if tier == 0]
+    fresh_p1 = [z for z, _, _, tier in fresh if tier == 1]
+    p0_paths = fresh_p0 + [z for z, _, _, _ in p0]
+    p1_paths = fresh_p1 + [z for z, _, _, _ in p1]
+    if priority == "all":
+        # 新鮮窗整批（含 stale）優先於一般 P0
+        return ([z for z, _, _, _ in fresh]
+                + [z for z, _, _, _ in p0] + [z for z, _, _, _ in p1])
     if priority == "p0":
         return p0_paths
     if priority == "p1":
