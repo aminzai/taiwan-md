@@ -40,26 +40,34 @@ MARKERS = [
         # 同時有合法天安門對照段＋台北→北京 幻覺的文章（如 taiwan-democratization）
         # 會被整檔跳過，真錯藏住（2026-07-18 首版踩過）。Beijing opera 走行級豁免。
         "zh_terms": ["北京"],
-        "target": re.compile(r"\bBắc Kinh\b|\bBeijing\b|\bPequim\b|बीजिंग|北京", re.I),
+        # ar/ru 2026-07-25 birth: بكين (Beijing, Arabic Wikipedia canonical) /
+        # Пекин (Beijing, Russian — long-settled exonym, not a sovereignty-framing
+        # choice like the person/place tables elsewhere in this guide family).
+        "target": re.compile(
+            r"\bBắc Kinh\b|\bBeijing\b|\bPequim\b|बीजिंग|بكين|Пекин|北京", re.I
+        ),
         # 譯文行本身是 Beijing/Peking opera（京劇）語境 → 該行合法（Tiananmen「Thiên An
         # Môn」等本就不被 target 命中，不需豁免）
         "line_exempt": re.compile(
-            r"opera|ópera|ôpêra|kinh kịch|ओपेरा|京剧|京劇|京戲", re.I
+            r"opera|ópera|ôpêra|kinh kịch|ओपेरा|أوبرا|опера|京剧|京劇|京戲", re.I
         ),
     },
     {
         "name": "Shanghai 上海",
         "zh_terms": ["上海"],
-        "target": re.compile(r"\bThượng Hải\b|\bShanghai\b|\bXangai\b|शंघाई|上海", re.I),
+        "target": re.compile(
+            r"\bThượng Hải\b|\bShanghai\b|\bXangai\b|शंघाई|شنغهاي|Шанхай|上海", re.I
+        ),
     },
     {
         "name": "China-mainland 中國大陸",
         # 加 外省/眷村（1949 mainlander 移民史是台灣史正題，譯文說 mainland 合法）
         "zh_terms": ["中國大陸", "中国大陆", "大陸", "大陆", "外省", "眷村"],
         # 只抓明確「中國大陸」複合詞，不抓單獨 China（正常提及中國太多）
+        # ar: الصين القارية（mainland China 常見形）; ru: материковый Китай（標準用語）
         "target": re.compile(
             r"Trung Quốc đại lục|Tiongkok daratan|China continental|"
-            r"चीन की मुख्य भूमि|中國大陸|中国大陆",
+            r"चीन की मुख्य भूमि|الصين القارية|материковый Китай|中國大陸|中国大陆",
             re.I,
         ),
     },

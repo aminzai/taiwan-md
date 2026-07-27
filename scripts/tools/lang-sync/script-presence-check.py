@@ -42,6 +42,12 @@ NATIVE_SCRIPT = {
     "ja": re.compile(r"[ぁ-んァ-ヶ]"),  # hiragana + katakana（漢字單獨不夠——en/zh 混排也有漢字）
     "ko": re.compile(r"[가-힣]"),
     "hi": re.compile(r"[अ-ह]"),
+    # ar/ru 2026-07-25 birth: both are distinct-script (non-Latin) languages like
+    # ja/ko/hi, so they get the strongest signal (0 native-script chars in a
+    # non-trivial body = near-certain English leak) rather than the weaker
+    # DIACRITICS heuristic used for Latin-alphabet targets.
+    "ar": re.compile(r"[؀-ۿݐ-ݿﭐ-﷿ﹰ-﻿]"),  # Arabic + Arabic Supplement + Presentation Forms A/B
+    "ru": re.compile(r"[а-яА-ЯёЁ]"),  # Cyrillic
 }
 
 DIACRITICS = {

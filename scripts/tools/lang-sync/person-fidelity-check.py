@@ -25,13 +25,17 @@ KNOWLEDGE = REPO / "knowledge"
 
 # (漢字名, [羅馬拼音變體 regex])。最易混淆的台灣總統群——錯了最傷可信度。
 FIGURES = [
-    ("蔡英文", r"Tsai Ing-wen|Thái Anh Văn|त्साई इंग-वेन"),
-    ("陳水扁", r"Chen Shui-bian|Trần Thủy Biển|चेन शुई-बियान"),
-    ("馬英九", r"Ma Ying-jeou|Mã Anh Cửu|मा यिंग-जेउ"),
-    ("李登輝", r"Lee Teng-hui|Lý Đăng Huy|ली तेंग-हुई"),
-    ("蔣經國", r"Chiang Ching-kuo|Tưởng Kinh Quốc|चियांग चिंग-कुओ"),
-    ("蔣介石", r"Chiang Kai-shek|Tưởng Giới Thạch|चियांग काई-शेक"),
-    ("賴清德", r"Lai Ching-te|Lại Thanh Đức|William Lai|लाई चिंग-ते"),
+    # ar/ru 2026-07-25 birth: canonical forms sourced from TRANSLATION-ar.md §2 /
+    # TRANSLATION-ru.md §2 (both cross-verified against ≥1 real source this
+    # session). 蔣經國/蔣介石 is the exact confusion-family trap flagged by both
+    # guides — kept as separate FIGURES rows below per the existing pattern.
+    ("蔡英文", r"Tsai Ing-wen|Thái Anh Văn|त्साई इंग-वेन|تساي إنغ ون|Цай Инвэнь"),
+    ("陳水扁", r"Chen Shui-bian|Trần Thủy Biển|चेन शुई-बियान|تشن شوي بيان|Чэнь Шуйбянь"),
+    ("馬英九", r"Ma Ying-jeou|Mã Anh Cửu|मा यिंग-जेउ|ما يينغ جيو|Ма Инцзю"),
+    ("李登輝", r"Lee Teng-hui|Lý Đăng Huy|ली तेंग-हुई|لي تنغ هوي|Ли Дэнхуэй"),
+    ("蔣經國", r"Chiang Ching-kuo|Tưởng Kinh Quốc|चियांग चिंग-कुओ|تشيانغ تشينغ كو|Цзян Цзинго"),
+    ("蔣介石", r"Chiang Kai-shek|Tưởng Giới Thạch|चियांग काई-शेक|تشيانغ كاي شيك|Чан Кайши"),
+    ("賴清德", r"Lai Ching-te|Lại Thanh Đức|William Lai|लाई चिंग-ते|لاي تشينغ تي|Лай Циндэ"),
     ("馬英九", r"Ma Ying-jeou"),
 ]
 

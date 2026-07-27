@@ -38,6 +38,8 @@ LANG_NAMES = {
     "id": "Indonesian (Bahasa Indonesia baku; Tiongkok/Tionghoa/Cina register rules per TRANSLATION-id.md)",
     "pt": "Portuguese (Português brasileiro neutral, legible across the Lusophone world)",
     "hi": "Hindi (हिन्दी, standard news register; Devanagari transliteration rules per TRANSLATION-hi.md)",
+    "ar": "Arabic (Modern Standard Arabic, فصحى; names per TRANSLATION-ar.md; RTL text)",
+    "ru": "Russian (русский, news register; Palladius transliteration per TRANSLATION-ru.md)",
 }
 
 
