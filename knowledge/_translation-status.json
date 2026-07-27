@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-28T06:20:48+08:00",
-    "zhCommitHead": "38030fd6a",
+    "lastUpdated": "2026-07-28T06:28:26+08:00",
+    "zhCommitHead": "d99a4e401",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -67,42 +67,42 @@
       },
       "id": {
         "total_zh": 869,
-        "fresh": 386,
+        "fresh": 388,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 482,
+        "missing": 480,
         "orphan": 0
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 605,
+        "fresh": 610,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 258,
+        "missing": 253,
         "orphan": 0
       },
       "hi": {
         "total_zh": 869,
-        "fresh": 454,
+        "fresh": 456,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 415,
+        "missing": 413,
         "orphan": 0
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 470,
+        "fresh": 472,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 399,
+        "missing": 397,
         "orphan": 0
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 504,
+        "fresh": 505,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 365,
+        "missing": 364,
         "orphan": 0
       }
     },
@@ -30037,7 +30037,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Lifestyle/xiaobei-department-store.md",
+          "translatedFrom": "Lifestyle/小北百貨.md",
+          "sourceCommitSha": "08a8c5ec8",
+          "sourceContentHash": "sha256:93955fe44e7691af",
+          "sourceBodyHash": "sha256:08eacf8247ffcb10",
+          "translatedAt": "2026-07-28T06:15:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Lifestyle/xiaobei-department-store.md",
@@ -36537,8 +36548,8 @@
           "sourceContentHash": "sha256:bc15608a0bffd86f",
           "sourceBodyHash": "sha256:06a8ff16fd8332cb",
           "translatedAt": "2026-07-27T22:12:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "d99a4e40",
+          "translationLastModified": "2026-07-28T06:20:48+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -37231,7 +37242,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/taiwan-public-health-epidemic-response.md",
+          "translatedFrom": "Society/台灣公共衛生與防疫體系.md",
+          "sourceCommitSha": "49728f9d5",
+          "sourceContentHash": "sha256:84ffcc67e2e155cf",
+          "sourceBodyHash": "sha256:8b3cd9fb7313dbef",
+          "translatedAt": "2026-07-28T06:15:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -38230,7 +38252,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/taiwan-political-landscape-and-electoral-system.md",
+          "translatedFrom": "Society/台灣政治環境與選舉制度.md",
+          "sourceCommitSha": "dbaf28954",
+          "sourceContentHash": "sha256:815fdbbdd8e6757e",
+          "sourceBodyHash": "sha256:c04d648a91c00bf4",
+          "translatedAt": "2026-07-28T06:15:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -50413,7 +50446,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/wu-bao-chun.md",
+          "translatedFrom": "People/吳寶春.md",
+          "sourceCommitSha": "09c1bf1a9",
+          "sourceContentHash": "sha256:1b0b64c23c091c1f",
+          "sourceBodyHash": "sha256:e355ad9581f498f8",
+          "translatedAt": "2026-07-28T06:16:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -65529,7 +65573,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/tsai-a-ga-youtuber.md",
+          "translatedFrom": "People/蔡阿嘎.md",
+          "sourceCommitSha": "f5975a224",
+          "sourceContentHash": "sha256:2fc7b754782e2c72",
+          "sourceBodyHash": "sha256:3835f3eeb33c205d",
+          "translatedAt": "2026-07-28T06:15:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -71605,7 +71660,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/potter-king-youtuber.md",
+          "translatedFrom": "People/波特王.md",
+          "sourceCommitSha": "5edf34bcb",
+          "sourceContentHash": "sha256:f218c0f6edac6f55",
+          "sourceBodyHash": "sha256:bd885df97c7fe1fa",
+          "translatedAt": "2026-07-28T06:15:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -71614,7 +71680,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/potter-king-youtuber.md",
+          "translatedFrom": "People/波特王.md",
+          "sourceCommitSha": "5edf34bcb",
+          "sourceContentHash": "sha256:f218c0f6edac6f55",
+          "sourceBodyHash": "sha256:bd885df97c7fe1fa",
+          "translatedAt": "2026-07-28T06:16:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -79831,8 +79908,8 @@
           "sourceContentHash": "sha256:270ebb8ad85e9750",
           "sourceBodyHash": "sha256:1c12395477bc0a4e",
           "translatedAt": "2026-07-27T22:20:33.105827+00:00",
-          "translationLastCommit": "4a07538f",
-          "translationLastModified": "2026-07-25T10:29:52+08:00",
+          "translationLastCommit": "d99a4e40",
+          "translationLastModified": "2026-07-28T06:20:48+08:00",
           "inferred": false,
           "footnoteDefs": 50,
           "status": "fresh",
@@ -93685,8 +93762,8 @@
           "sourceContentHash": "sha256:584f286b403c0d75",
           "sourceBodyHash": "sha256:4711da6579afc037",
           "translatedAt": "2026-07-27T22:12:15+08:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "d99a4e40",
+          "translationLastModified": "2026-07-28T06:20:48+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -105868,7 +105945,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/bahamut-taiwan-gaming-community.md",
+          "translatedFrom": "Culture/巴哈姆特.md",
+          "sourceCommitSha": "f5975a224",
+          "sourceContentHash": "sha256:6af04295a71690eb",
+          "sourceBodyHash": "sha256:01a8577cdb53218c",
+          "translatedAt": "2026-07-28T06:15:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -106528,7 +106616,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/magazine.md",
+          "translatedFrom": "Culture/雜誌.md",
+          "sourceCommitSha": "e0fa60041",
+          "sourceContentHash": "sha256:ee59ed48db607f3f",
+          "sourceBodyHash": "sha256:26d93e9626e6b86e",
+          "translatedAt": "2026-07-28T06:16:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/magazine.md",
@@ -112179,7 +112278,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/taiwan-youtuber-industry.md",
+          "translatedFrom": "Culture/台灣YouTuber產業與文化.md",
+          "sourceCommitSha": "d40e50420",
+          "sourceContentHash": "sha256:d4ca70756fc2b68a",
+          "sourceBodyHash": "sha256:631049e094973d93",
+          "translatedAt": "2026-07-28T06:15:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -112459,7 +112569,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Culture/taiwan-historic-streets-and-commercial-districts.md",
+          "translatedFrom": "Culture/台灣老街文化與商業街區.md",
+          "sourceCommitSha": "fa2ca2e8e",
+          "sourceContentHash": "sha256:fa410e59dc40cf80",
+          "sourceBodyHash": "sha256:4c28ceadc8ee9c09",
+          "translatedAt": "2026-07-28T06:16:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -112735,7 +112856,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/taiwan-prime-time-drama.md",
+          "translatedFrom": "Culture/八點檔.md",
+          "sourceCommitSha": "08a8c5ec8",
+          "sourceContentHash": "sha256:c5c6c2825029a48f",
+          "sourceBodyHash": "sha256:f0cb0ab3b5428edc",
+          "translatedAt": "2026-07-28T06:16:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
