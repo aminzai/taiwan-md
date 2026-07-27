@@ -79,6 +79,24 @@ MAX_FAIL_RETRIES = 3   # 同一篇本 run 失敗幾次後讓出輪次（退避�
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from langs import ALL_TRANSLATION_LANGS, ENABLED_TRANSLATION_LANGS  # noqa: E402
+import status as status_lib  # noqa: E402 — reuse body_hash()/body_hash_pure() (same algo status.py uses)
+
+# bump-source-sha.py's filename has a hyphen (not import-able as a plain module) —
+# load it via spec so we can call its bump_one() directly instead of duplicating
+# the frontmatter-upsert logic here (2026-07-27, semantic-noop-bump path below).
+# sys.modules registration BEFORE exec_module is required, not cosmetic — any
+# @dataclass in the loaded file looks up sys.modules[cls.__module__] during class
+# creation, and a None there raises AttributeError (hit this exact crash loading
+# babel-dispatch.py itself the same way during validation).
+import importlib.util as _importlib_util  # noqa: E402
+_bump_spec = _importlib_util.spec_from_file_location(
+    "bump_source_sha", str(Path(__file__).resolve().parent / "bump-source-sha.py")
+)
+bump_source_sha = _importlib_util.module_from_spec(_bump_spec)
+sys.modules["bump_source_sha"] = bump_source_sha
+_bump_spec.loader.exec_module(bump_source_sha)
+
+NOOP_CHECKER = REPO / "scripts" / "tools" / "lang-sync" / "semantic-noop-check.py"
 
 
 # ────────────────────────── logging ──────────────────────────
@@ -323,6 +341,75 @@ def restore_head_or_quarantine(path_str: str, log: Logger) -> str:
         log(f"⚠️  {path_str}: in HEAD but `git show` failed — unlinking as fallback")
     p.unlink(missing_ok=True)
     return "unlinked"
+
+
+# ────────────────────────── semantic-noop bump (2026-07-27) ──────────────────────────
+# reports/semantic-noop-stale-2026-07-27.md: ~66% of `stale` tasks turn out to be zh
+# diffs that are punctuation/whitespace-only (半形逗號→全形、句中分號改句號 etc) —
+# zero semantic impact on any translation, since every target language keeps its own
+# punctuation conventions regardless of how zh punctuates. Those don't need a model
+# call at all: just bump the translation's provenance hashes to the new zh commit.
+# semantic-noop-check.py does the (conservative, single-responsibility) judging;
+# bump_source_sha.bump_one() does the actual frontmatter write (genuine reuse via the
+# importlib load above, not a re-implementation). A model-free hit here still passes
+# through the SAME verify-translation.py hard gate as a real translation — if it
+# fails (e.g. an unrelated pre-existing passthrough-field drift, observed once during
+# validation on pt/Art/li-poetry-society.md), the write is reverted and the task falls
+# through to the normal patch/full-translate path below, unchanged.
+
+def zh_current_provenance(zh_path: str) -> tuple[str, str, str]:
+    """(sha8, contentHash, bodyHash) for the CURRENT zh source, computed exactly the
+    way status.py does (imported, not reimplemented) so the bumped frontmatter matches
+    what the next status.py refresh computes — the article reads 'fresh', not stale
+    again on the next round."""
+    full = KNOWLEDGE / zh_path
+    content = full.read_text(encoding="utf-8")
+    sha_out = subprocess.run(
+        ["git", "log", "-1", "--format=%H", "--", f"knowledge/{zh_path}"],
+        cwd=REPO, capture_output=True, text=True,
+    ).stdout.strip()
+    sha8 = sha_out[:8] if sha_out else ""
+    return sha8, status_lib.body_hash(content), status_lib.body_hash_pure(content)
+
+
+def try_semantic_noop_bump(zh_path: str, trans_path: str, log: Logger) -> bool:
+    """Returns True iff the stale task at (zh_path, trans_path) was resolved by a
+    zero-cost provenance bump (no model call). False means "proceed with the normal
+    patch/full-translate path" — the caller does not need to know why (checker said
+    no / bump was a no-change race / post-bump verify gate rejected it)."""
+    r = subprocess.run(
+        ["python3", str(NOOP_CHECKER), zh_path, trans_path, "--json"],
+        cwd=REPO, capture_output=True, text=True,
+    )
+    try:
+        verdict = json.loads(r.stdout) if r.stdout.strip() else {}
+    except json.JSONDecodeError:
+        verdict = {}
+    if not verdict.get("noop"):
+        return False
+
+    target = REPO / trans_path
+    if not target.exists():
+        return False
+    original_bytes = target.read_bytes()
+
+    sha8, content_hash, body_hash_v = zh_current_provenance(zh_path)
+    if not sha8:
+        log(f"⚠️  semantic-noop-bump: 無法取得 {zh_path} 目前 commit sha，放棄，走正常翻譯路徑")
+        return False
+
+    changed = bump_source_sha.bump_one(target, sha8, content_hash, body_hash_v, apply=True)
+    if not changed:
+        return False  # already at latest sha (race with another engine) — not a failure, just nothing to do
+
+    ok, reason = verify_one(zh_path, trans_path, log)
+    if not ok:
+        target.write_bytes(original_bytes)
+        log(f"↩️  semantic-noop-bump 還原 {trans_path}（verify 沒過：{reason}）— 走正常翻譯路徑")
+        return False
+
+    log(f"✨ semantic-noop-bump {trans_path} → {sha8}（zh diff 只有標點/空白：{verdict.get('reason')}，未呼叫任何模型）")
+    return True
 
 
 # ────────────────────────── round-state ──────────────────────────
@@ -611,13 +698,46 @@ def do_commit(lang: str, state: RunState, no_commit: bool, log: Logger) -> None:
 def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
                   state: RunState, report: JsonlWriter, freezes: JsonlWriter,
                   no_commit: bool, commit_every: int, log: Logger,
-                  engine: str = "whole", no_patch: bool = False) -> None:
+                  engine: str = "whole", no_patch: bool = False,
+                  no_noop_bump: bool = False) -> None:
     data = json.loads(group_path.read_text(encoding="utf-8"))
     art = data["articles"][0]
     trans_path = art["en_path"]
     status = art.get("status", "missing")
 
     t0 = time.monotonic()
+
+    # 語意無關 stale 零成本 bump（2026-07-27，見上方 try_semantic_noop_bump 註解 +
+    # reports/semantic-noop-stale-2026-07-27.md）：在章節級 diff-patch 之前先問一句
+    # 「zh diff 是不是只有標點/空白」——命中就直接 bump provenance hash，完全不叫
+    # 任何模型，不占用 worker 名額也不算 worker 失敗/成功次數（沒有 worker 真的做事）。
+    if status == "stale" and not no_noop_bump and try_semantic_noop_bump(zh_path, trans_path, log):
+        elapsed = time.monotonic() - t0
+        report.write({
+            "ts": datetime.now().astimezone().isoformat(timespec="seconds"),
+            "lang": lang, "zh": zh_path, "trans": trans_path,
+            "worker": worker.label, "ok": True, "seconds": round(elapsed, 1),
+            "fail_reason": None, "disposition": "kept", "via": "semantic-noop-bump",
+        })
+        # Bookkeeping mirrors the tail of this function's normal success path
+        # (kept as an explicit early-return rather than a shared helper — this
+        # file runs in 4 concurrently-active pipelines right now and the tail
+        # block is load-bearing/tested; duplicating ~12 lines is cheaper than
+        # risking a refactor regression in code already in flight).
+        with state.lock:
+            state.last_worker[f"{lang}:{zh_path}"] = worker.label
+            state.in_flight.discard(f"{lang}:{zh_path}")
+            state.total_ok += 1
+            state.pending_ok[lang] += 1
+            state.pending_workers[lang].add(worker.label)
+            state.pending_files[lang].append(trans_path)
+            state.pending_since.setdefault(lang, time.monotonic())
+            age = time.monotonic() - state.pending_since.get(lang, time.monotonic())
+            reached = state.pending_ok[lang] >= commit_every or age >= 5400
+        if reached:
+            do_commit(lang, state, no_commit, log)
+        return
+
     # --lang MUST be explicit: translate.py's --group mode defaults to
     # `lang = args.lang or group_path.parent.name`, and our run-dir layout is
     # tasks/{lang}/round{N}/_group-*.json — parent.name is "round01", not the
@@ -785,7 +905,8 @@ def wait_if_frozen(worker: Worker, workers: list, log: Logger) -> None:
 def worker_loop(worker: Worker, workers: list, queue: TaskQueue, state: RunState,
                  report: JsonlWriter, freezes: JsonlWriter, no_commit: bool,
                  commit_every: int, log: Logger,
-                 engine: str = "whole", no_patch: bool = False) -> None:
+                 engine: str = "whole", no_patch: bool = False,
+                 no_noop_bump: bool = False) -> None:
     while True:
         wait_if_frozen(worker, workers, log)
         with state.lock:
@@ -797,7 +918,7 @@ def worker_loop(worker: Worker, workers: list, queue: TaskQueue, state: RunState
         with state.lock:
             state.in_flight.add(f"{lang}:{zh_path}")
         process_task(worker, lang, group_path, zh_path, state, report, freezes, no_commit, commit_every, log,
-                     engine=engine, no_patch=no_patch)
+                     engine=engine, no_patch=no_patch, no_noop_bump=no_noop_bump)
 
 
 # ────────────────────────── main ──────────────────────────
@@ -847,6 +968,10 @@ def main() -> None:
     ap.add_argument("--no-patch", action="store_true",
                      help="disable the chapter-level diff-patch engine (patch-translate.py) for "
                           "stale tasks — always fall back to full retranslation (2026-07-27)")
+    ap.add_argument("--no-noop-bump", action="store_true",
+                     help="disable the zero-cost semantic-noop bump for stale tasks whose zh diff "
+                          "is punctuation/whitespace-only — always go through patch/full-translate "
+                          "instead (2026-07-27, see reports/semantic-noop-stale-2026-07-27.md)")
     args = ap.parse_args()
 
     if not args.workers:
@@ -877,7 +1002,7 @@ def main() -> None:
     log(f"  workers={[(w.label, w.cascade_spec, w.host) for w in workers]}")
     log(f"  order={args.order} rounds={args.rounds} commit_every={args.commit_every} "
         f"priority={args.priority} max_articles={args.max_articles} no_commit={args.no_commit} "
-        f"engine={args.engine} no_patch={args.no_patch}")
+        f"engine={args.engine} no_patch={args.no_patch} no_noop_bump={args.no_noop_bump}")
 
     state = RunState()
     seen_missing_slug: set = set()
@@ -949,7 +1074,7 @@ def main() -> None:
             futures = [
                 pool.submit(worker_loop, w, workers, queue, state, report, freezes,
                             args.no_commit, args.commit_every, log,
-                            engine=args.engine, no_patch=args.no_patch)
+                            engine=args.engine, no_patch=args.no_patch, no_noop_bump=args.no_noop_bump)
                 for w in workers
             ]
             for f in futures:
