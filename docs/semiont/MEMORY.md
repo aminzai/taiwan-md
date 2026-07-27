@@ -335,3 +335,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-27 | 084604-twmd-maintainer-daily | Issue #1264 seo-meta 多語言缺口確認回覆；PR #1268/#1269 重複投稿發現零腳註「引用荒漠」+政治人物未查證引語，close 一篇+另一篇 request-changes | CI 綠燈是 profile 範圍內的綠燈，不是內容站得住的證明；零腳註但文筆流暢比明顯塑膠句更危險 | [→](memory/2026-07-27-084604-twmd-maintainer-daily.md) |
 | 2026-07-27 | 093123-manual | 文章頁首圖重複改在渲染層去重（341 篇讓位、23 篇補掛來源），深度例外門檻用實測畫面距離定在前 10 個區塊 | 拿字元比例當「讀者滑多遠」的替身，把「只有 6 篇深」寫進回報，實測後是 135 篇 | [→](memory/2026-07-27-093123-manual.md) |
 | 2026-07-27 | 093352-twmd-flywheel-watch | 飛輪綠燈零警報（24hr 234 commit／11 筆 routine）；昨日 spore-harvest 靜默自解；查出每日 live dump rider 連兩 cycle 靠別條 routine 路過補 | 讀數在門檻內不等於維持它的那隻手還在動 | [→](memory/2026-07-27-093352-twmd-flywheel-watch.md) |
+| 2026-07-27 | 114529-vortex-babel-5 | 零成本清償 345 篇 stale（65.8% 只是標點改動，省 20-29hr 算力）、Loop Engineering 檔案化、誤判家族十一十二、站內連結 13,155 筆缺口報告 | 最便宜的路徑要先試——省下的算力來自不翻而非翻得更快；失敗清單價值高於成功清單 | [→](memory/2026-07-27-114529-vortex-babel-5.md) |
