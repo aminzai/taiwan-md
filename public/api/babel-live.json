@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-07-28T03:05:54+08:00",
+  "generated_at": "2026-07-28T04:06:58+08:00",
   "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
-  "snapshot_ts": "2026-07-28T03:05:51+08:00",
+  "snapshot_ts": "2026-07-28T04:06:55+08:00",
   "total_zh": 869,
   "langs": [
     {
       "lang": "en",
       "name": "English",
-      "fresh": 795,
+      "fresh": 797,
       "stale": 48,
-      "missing": 26,
-      "coverage_pct": 97.0,
+      "missing": 24,
+      "coverage_pct": 97.2,
       "fresh_delta": 0
     },
     {
       "lang": "ja",
       "name": "日本語",
-      "fresh": 800,
+      "fresh": 804,
       "stale": 59,
-      "missing": 10,
-      "coverage_pct": 98.8,
-      "fresh_delta": 0
+      "missing": 6,
+      "coverage_pct": 99.3,
+      "fresh_delta": 1
     },
     {
       "lang": "ko",
       "name": "한국어",
-      "fresh": 821,
-      "stale": 42,
-      "missing": 6,
-      "coverage_pct": 99.3,
-      "fresh_delta": 1
+      "fresh": 825,
+      "stale": 39,
+      "missing": 5,
+      "coverage_pct": 99.4,
+      "fresh_delta": 0
     },
     {
       "lang": "es",
       "name": "Español",
-      "fresh": 824,
+      "fresh": 825,
       "stale": 39,
-      "missing": 6,
-      "coverage_pct": 99.3,
-      "fresh_delta": 1
+      "missing": 5,
+      "coverage_pct": 99.4,
+      "fresh_delta": 0
     },
     {
       "lang": "fr",
       "name": "Français",
-      "fresh": 819,
-      "stale": 46,
-      "missing": 4,
-      "coverage_pct": 99.5,
-      "fresh_delta": 1
+      "fresh": 821,
+      "stale": 45,
+      "missing": 3,
+      "coverage_pct": 99.7,
+      "fresh_delta": 0
     },
     {
       "lang": "vi",
@@ -56,147 +56,147 @@
       "stale": 6,
       "missing": 591,
       "coverage_pct": 32.0,
-      "fresh_delta": 2
+      "fresh_delta": 0
     },
     {
       "lang": "id",
       "name": "Indonesia",
-      "fresh": 380,
+      "fresh": 381,
       "stale": 1,
-      "missing": 488,
-      "coverage_pct": 43.8,
-      "fresh_delta": 1
+      "missing": 487,
+      "coverage_pct": 44.0,
+      "fresh_delta": 0
     },
     {
       "lang": "pt",
       "name": "Português",
-      "fresh": 585,
+      "fresh": 590,
       "stale": 6,
-      "missing": 278,
-      "coverage_pct": 68.0,
-      "fresh_delta": 1
+      "missing": 273,
+      "coverage_pct": 68.6,
+      "fresh_delta": 0
     },
     {
       "lang": "hi",
       "name": "हिन्दी",
-      "fresh": 442,
+      "fresh": 448,
       "stale": 0,
-      "missing": 427,
-      "coverage_pct": 50.9,
-      "fresh_delta": 0
+      "missing": 421,
+      "coverage_pct": 51.6,
+      "fresh_delta": 1
     },
     {
       "lang": "ar",
       "name": "العربية",
-      "fresh": 457,
+      "fresh": 461,
       "stale": 0,
-      "missing": 412,
-      "coverage_pct": 52.6,
-      "fresh_delta": 0
+      "missing": 408,
+      "coverage_pct": 53.0,
+      "fresh_delta": 1
     },
     {
       "lang": "ru",
       "name": "Русский",
-      "fresh": 491,
+      "fresh": 494,
       "stale": 0,
-      "missing": 378,
-      "coverage_pct": 56.5,
-      "fresh_delta": 0
+      "missing": 375,
+      "coverage_pct": 56.8,
+      "fresh_delta": -1
     }
   ],
-  "gap_total": 2873,
-  "gap_delta": -7,
+  "gap_total": 2841,
+  "gap_delta": -2,
   "rate_1h": {
-    "delta": 13,
+    "delta": 32,
     "span_h": 1.02,
-    "per_hour": 12.8
+    "per_hour": 31.4
   },
   "rate_24h": {
-    "delta": 672,
-    "span_h": 24.04,
-    "per_hour": 28.0
+    "delta": 669,
+    "span_h": 24.0,
+    "per_hour": 27.9
   },
-  "eta_days": 9.4,
+  "eta_days": 3.8,
   "nodes": {
     "worker:nemo4": {
-      "ok": 17,
-      "fail": 63,
-      "avg_s": 240.5,
+      "ok": 23,
+      "fail": 68,
+      "avg_s": 228.1,
       "top_fail": [
-        ["leak", 30],
-        ["health", 11]
+        ["leak", 32],
+        ["no output written by tra", 14]
       ],
-      "last_activity": "2026-07-28T03:04:22+08:00"
+      "last_activity": "2026-07-28T04:03:03+08:00"
     },
     "worker:l4090": {
-      "ok": 9,
-      "fail": 87,
-      "avg_s": 102.9,
+      "ok": 22,
+      "fail": 96,
+      "avg_s": 127.9,
       "top_fail": [
-        ["health", 23],
-        ["no output written by tra", 19]
+        ["health", 24],
+        ["no output written by tra", 21]
       ],
-      "last_activity": "2026-07-28T03:05:11+08:00"
+      "last_activity": "2026-07-28T03:52:07+08:00"
     },
     "worker:nemo3": {
-      "ok": 10,
-      "fail": 46,
-      "avg_s": 354.4,
+      "ok": 14,
+      "fail": 55,
+      "avg_s": 339.7,
       "top_fail": [
-        ["leak", 21],
-        ["no output written by tra", 12]
+        ["leak", 23],
+        ["no output written by tra", 14]
       ],
-      "last_activity": "2026-07-28T03:00:47+08:00"
+      "last_activity": "2026-07-28T04:06:46+08:00"
     },
     "worker:nemo2": {
-      "ok": 17,
-      "fail": 55,
-      "avg_s": 279.9,
+      "ok": 22,
+      "fail": 63,
+      "avg_s": 241.5,
       "top_fail": [
-        ["leak", 21],
-        ["no output written by tra", 15]
+        ["leak", 25],
+        ["health", 17]
       ],
-      "last_activity": "2026-07-28T03:01:47+08:00"
+      "last_activity": "2026-07-28T04:05:40+08:00"
     },
     "worker:mac": {
-      "ok": 8,
-      "fail": 119,
-      "avg_s": 176.8,
+      "ok": 9,
+      "fail": 129,
+      "avg_s": 161.6,
       "top_fail": [
-        ["leak", 36],
+        ["leak", 43],
         ["health", 23]
       ],
-      "last_activity": "2026-07-28T02:58:34+08:00"
+      "last_activity": "2026-07-28T04:00:58+08:00"
     },
     "worker:d3090": {
-      "ok": 5,
-      "fail": 28,
-      "avg_s": 544.3,
+      "ok": 6,
+      "fail": 31,
+      "avg_s": 656.1,
       "top_fail": [
         ["no output written by tra", 12],
         ["verify=3 [translation ra", 5]
       ],
-      "last_activity": "2026-07-28T03:02:50+08:00"
+      "last_activity": "2026-07-28T04:03:38+08:00"
     },
     "worker:nemo": {
-      "ok": 21,
-      "fail": 40,
-      "avg_s": 321.9,
+      "ok": 26,
+      "fail": 49,
+      "avg_s": 275.0,
       "top_fail": [
-        ["leak", 15],
-        ["health", 12]
+        ["leak", 21],
+        ["health", 13]
       ],
-      "last_activity": "2026-07-28T03:01:10+08:00"
+      "last_activity": "2026-07-28T04:01:50+08:00"
     },
     "worker:laguna": {
       "ok": 2,
-      "fail": 11,
+      "fail": 12,
       "avg_s": 1723.9,
       "top_fail": [
-        ["no output written by tra", 9],
+        ["no output written by tra", 10],
         ["health", 2]
       ],
-      "last_activity": "2026-07-28T02:55:04+08:00"
+      "last_activity": "2026-07-28T03:38:53+08:00"
     },
     "worker:laguna3": {
       "ok": 1,
@@ -210,13 +210,13 @@
     },
     "worker:laguna2": {
       "ok": 4,
-      "fail": 15,
+      "fail": 16,
       "avg_s": 743.8,
       "top_fail": [
-        ["no output written by tra", 11],
+        ["no output written by tra", 12],
         ["verify=2 [section count,", 1]
       ],
-      "last_activity": "2026-07-28T03:02:30+08:00"
+      "last_activity": "2026-07-28T03:42:44+08:00"
     },
     "worker:mac2": {
       "ok": 1,
@@ -259,53 +259,33 @@
     {
       "kind": "unified",
       "pid": "53138",
-      "uptime": "04:53:47",
+      "uptime": "05:54:51",
       "langs": "en,ja,ko,es,fr",
       "workers": 2
     },
     {
       "kind": "unified",
       "pid": "53139",
-      "uptime": "04:53:47",
+      "uptime": "05:54:51",
       "langs": "ja,ko,es,fr,id,pt,hi,ar,ru",
       "workers": 1
     },
     {
       "kind": "unified",
       "pid": "53140",
-      "uptime": "04:53:47",
+      "uptime": "05:54:51",
       "langs": "id,pt,hi,ar,ru",
       "workers": 4
     },
     {
       "kind": "unified",
       "pid": "53141",
-      "uptime": "04:53:47",
+      "uptime": "05:54:51",
       "langs": "vi",
       "workers": 3
     }
   ],
   "history": [
-    {
-      "ts": "2026-07-27T03:03:43+08:00",
-      "fresh_total": 6014,
-      "gap_total": 3545
-    },
-    {
-      "ts": "2026-07-27T03:14:37+08:00",
-      "fresh_total": 6018,
-      "gap_total": 3541
-    },
-    {
-      "ts": "2026-07-27T03:30:09+08:00",
-      "fresh_total": 6025,
-      "gap_total": 3534
-    },
-    {
-      "ts": "2026-07-27T03:45:35+08:00",
-      "fresh_total": 6033,
-      "gap_total": 3526
-    },
     {
       "ts": "2026-07-27T04:00:58+08:00",
       "fresh_total": 6045,
@@ -765,6 +745,26 @@
       "ts": "2026-07-28T03:05:51+08:00",
       "fresh_total": 6686,
       "gap_total": 2873
+    },
+    {
+      "ts": "2026-07-28T03:21:09+08:00",
+      "fresh_total": 6698,
+      "gap_total": 2861
+    },
+    {
+      "ts": "2026-07-28T03:36:24+08:00",
+      "fresh_total": 6710,
+      "gap_total": 2849
+    },
+    {
+      "ts": "2026-07-28T03:51:41+08:00",
+      "fresh_total": 6716,
+      "gap_total": 2843
+    },
+    {
+      "ts": "2026-07-28T04:06:55+08:00",
+      "fresh_total": 6718,
+      "gap_total": 2841
     }
   ]
 }
