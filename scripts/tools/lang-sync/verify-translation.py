@@ -120,9 +120,16 @@ def parse_fm(content: str) -> tuple[dict, str]:
         m = re.match(r"^(\w+):\s*(.+)$", line)
         if m:
             key, val = m.group(1), m.group(2).strip()
-            # Strip quotes
-            if (val.startswith("'") and val.endswith("'")) or \
-               (val.startswith('"') and val.endswith('"')):
+            # Strip quotes.
+            # 單引號分支必須還原 YAML 的 `''` 轉義（規範：單引號字串裡的字面撇號
+            # 寫成兩個單引號）。不還原的話 zh 的 `'No Man''s Land'` 會跟譯文的
+            # `"No Man's Land"` 比出假 drift——兩邊語意其實完全相同，只是引號
+            # 風格不同。2026-07-27 追查 passthrough 誤判時抓到；跟當日 heal-
+            # passthrough-fields 的病同構（比字串而非比語意），那次只修了 heal，
+            # 這條解析路徑沒一起收斂。
+            if val.startswith("'") and val.endswith("'") and len(val) >= 2:
+                val = val[1:-1].replace("''", "'")
+            elif val.startswith('"') and val.endswith('"') and len(val) >= 2:
                 val = val[1:-1]
             out[key] = val
             in_list = None
