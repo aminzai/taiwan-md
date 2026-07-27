@@ -119,6 +119,6 @@ difficulty: 'beginner'
 
 قراءات إضافية:
 
-- [فترة الهولنديين والإسبان وسلالة تشنغ (zh only)](/history/荷西明鄭時期)
-- [فترة حكم تشينغ (zh only)](/history/清治時期)
+- [فترة الهولنديين والإسبان وسلالة تشنغ (zh only)](/ar/history/dutch-spanish-and-koxinga-era)
+- [فترة حكم تشينغ (zh only)](/ar/history/qing-dynasty-rule)
 - [تضاريس الساحل التايواني ومناظر البحر (zh only)](/geography/台灣海岸地形與海洋地景)

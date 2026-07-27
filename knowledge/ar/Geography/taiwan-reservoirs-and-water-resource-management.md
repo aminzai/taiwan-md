@@ -243,6 +243,6 @@ difficulty: 'beginner'
 
 قراءة موسعة:
 
-- [نظام الأنهار في تايوان وخصائصه الهيدرولوجية](/geography/台灣河川系統與水文特色)
+- [نظام الأنهار في تايوان وخصائصه الهيدرولوجية](/ar/geography/taiwan-river-systems-and-hydrology)
 - [المناخ](/geography/氣候)
-- [حركة الصفائح التكتونية في تايوان والنشاط الزلزالي](/geography/台灣板塊運動與地震活動)
+- [حركة الصفائح التكتونية في تايوان والنشاط الزلزالي](/ar/geography/tectonic-plates-and-seismic-activity)
