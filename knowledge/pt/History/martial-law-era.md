@@ -133,16 +133,16 @@ Se, em 2050, alguém quiser saber com o que os taiwaneses se importavam em 1987,
 
 - [Salas para fumantes em Taipé: a caixa de vidro que respira em uma cidade sem fumaça](/society/台北吸菸室) — A época em que os cigarros Long Life detinham 70% do mercado e o Departamento de Monopólio controlava o tabaco e as bebidas alcoólicas foi o ponto de partida dessa longa campanha antitabagista.
 
-- [Transição democrática de Taiwan](/history/台灣民主轉型) — O panorama completo de quatro décadas de transição, da lei marcial a um dos sistemas democráticos mais livres da Ásia.
-- [Terror Branco em Taiwan](/history/台灣白色恐怖) — O custo real de 38 anos de lei marcial: casos políticos, vítimas e o sistema de “garantia por responsabilidade coletiva”.
-- [Incidente de Kaohsiung](/history/美麗島事件) — Um importante ponto de inflexão na fase final da lei marcial, em 1979.
-- [Democratização](/history/民主化) — O percurso de Taiwan rumo à democracia após o fim da lei marcial.
+- [Transição democrática de Taiwan](/pt/history/taiwan-democratization) — O panorama completo de quatro décadas de transição, da lei marcial a um dos sistemas democráticos mais livres da Ásia.
+- [Terror Branco em Taiwan](/pt/history/taiwan-white-terror) — O custo real de 38 anos de lei marcial: casos políticos, vítimas e o sistema de “garantia por responsabilidade coletiva”.
+- [Incidente de Kaohsiung](/pt/history/kaohsiung-incident-formosa-incident) — Um importante ponto de inflexão na fase final da lei marcial, em 1979.
+- [Democratização](/pt/history/taiwan-democratization-history) — O percurso de Taiwan rumo à democracia após o fim da lei marcial.
 - [Incidente de 28 de Fevereiro](/history/二二八事件) — A inflexão histórica de 1947, às vésperas da lei marcial.
 - [Justiça de transição em Taiwan](/history/台灣轉型正義) — As investigações sobre a verdade e a responsabilização dos perpetradores após o fim da lei marcial.
 - [Museu Nacional de Direitos Humanos](/history/國家人權博物館) — Museu criado pelo próprio Estado para homenagear as vítimas do período da lei marcial; inaugurado em 2018, teve parte de seu orçamento congelada em 2025.
-- [Teresa Teng](/people/鄧麗君) — Filha de uma família militar oriunda da China continental, criada durante a lei marcial, passou a vida na linha de frente da Guerra Fria: das apresentações para as tropas em Kinmen ao momento em que, em 1989, apareceu em Happy Valley com uma placa contra o regime militar.
-- [Teatro Nacional e Sala Nacional de Concertos](/culture/兩廳院) — Concluídos em 1987, no mesmo ano do fim da lei marcial, nasceram com a linguagem arquitetônica do autoritarismo e se tornaram testemunhas da democratização dos espaços culturais de Taiwan.
-- [Yin Hai-kuang](/people/殷海光) — Um dos mais representativos intelectuais liberais do período da lei marcial; ficou em prisão domiciliar após o Caso Lei Chen, em 1960, e teve sua obra “Perspectivas da Cultura Chinesa” proibida em 1966.
+- [Teresa Teng](/pt/people/teresa-teng) — Filha de uma família militar oriunda da China continental, criada durante a lei marcial, passou a vida na linha de frente da Guerra Fria: das apresentações para as tropas em Kinmen ao momento em que, em 1989, apareceu em Happy Valley com uma placa contra o regime militar.
+- [Teatro Nacional e Sala Nacional de Concertos](/pt/culture/national-theater-and-concert-hall) — Concluídos em 1987, no mesmo ano do fim da lei marcial, nasceram com a linguagem arquitetônica do autoritarismo e se tornaram testemunhas da democratização dos espaços culturais de Taiwan.
+- [Yin Hai-kuang](/pt/people/yin-haiguang-liberalism-philosopher) — Um dos mais representativos intelectuais liberais do período da lei marcial; ficou em prisão domiciliar após o Caso Lei Chen, em 1960, e teve sua obra “Perspectivas da Cultura Chinesa” proibida em 1966.
 - [Rodovias expressas](/lifestyle/高速公路) — Por que o custo das desapropriações durante o autoritarismo “não deixou sequer nomes”? A resposta está aqui: ao verificar as lendas dos últimos 50 anos das rodovias nacionais de Taiwan, deparamo-nos repetidamente com o vazio institucional de uma época sem audiências públicas nem contencioso administrativo.
 
 ---

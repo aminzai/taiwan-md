@@ -104,8 +104,8 @@ O Mayday continuará a cantar. Mas depois daquelas quatro palavras em 2024, quan
 ## Leitura complementar
 
 - [Música Popular de Taiwan](/music/台灣流行音樂/)
-- [Fire EX.](/music/滅火器樂團/)
-- [Música Independente de Taiwan](/music/台灣獨立音樂/)
+- [Fire EX.](/pt/music/fire-ex/)
+- [Música Independente de Taiwan](/pt/music/indie-music-scene/)
 
 ## Referências
 

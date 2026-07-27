@@ -177,5 +177,5 @@ A corda vermelha que amarrava os pés dos humanos desde a dinastia Tang até o s
 
 ## Leituras Complementares
 
-- [Casamento homossexual e igualdade de gênero em Taiwan](/Society/台灣同婚與性別平權) — O contexto social mais amplo do Templo Weiming do Deus Coelho como um dos poucos templos exclusivos para LGBT no mundo
+- [Casamento homossexual e igualdade de gênero em Taiwan](/pt/society/taiwan-marriage-equality-lgbtq-rights) — O contexto social mais amplo do Templo Weiming do Deus Coelho como um dos poucos templos exclusivos para LGBT no mundo
 - [Cultura de voluntariado e participação em benefícios públicos em Taiwan](/Society/台灣志工文化與公益參與) — A intersecção entre crenças folclóricas e cultura comunitária

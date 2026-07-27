@@ -120,4 +120,4 @@ Essa participação local reflete-se também na sua presença em media pessoais.
 ## Leitura complementar
 
 - [Site oficial da Jiu Fang She](https://joefangstudio.com/) — Estúdio de design fundado por Fang Hsu-chung
-- [Hsiao Ching-yang](/people/蕭青陽) — Designer visual taiwanês da mesma geração, vencedor do Grammy
+- [Hsiao Ching-yang](/pt/people/xiao-qing-yang-grammy-designer) — Designer visual taiwanês da mesma geração, vencedor do Grammy

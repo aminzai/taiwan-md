@@ -115,7 +115,7 @@ Em qual construção irregular existente a próxima chama de incêndio surgirá?
 
 **Leitura adicional**：
 
-- [Habitação social e justiça habitacional](/society/社會住宅與居住正義) — O desafio da habitação social em Taiwan e os problemas do mercado de aluguel, que fazem parte da estrutura de habitação mais ampla que inclui o problema das casas de chapa metálica.
+- [Habitação social e justiça habitacional](/pt/society/social-housing-and-housing-justice) — O desafio da habitação social em Taiwan e os problemas do mercado de aluguel, que fazem parte da estrutura de habitação mais ampla que inclui o problema das casas de chapa metálica.
 - [Justiça ambiental de Taiwan e controvérsias sobre o deslocamento](/society/台灣環境正義與鄰避爭議) — A reestruturação de Tuan Chih Tsun e o desvio de o uso de land e o problema de poluição.
 - [Justiça de terras indígenas de Taiwan e domínios tradicionais](/society/台灣原住民族土地正義與傳統領域) — Como entender a complexidade do uso da terra entre o legal e o ilegal em Taiwan.
 

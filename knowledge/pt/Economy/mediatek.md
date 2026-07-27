@@ -114,8 +114,8 @@ No início de 2025, Tsai Ming-jye entrou na lista de clientes para o processo de
 
 ## Leitura Adicional
 
-- [Empresas de Taiwan: TSMC](/economy/台灣企業：台積電)
-- [Indústria de Semicondutores](/technology/半導體產業) — De uma transferência tecnológica da RCA em 1973 à produção em massa de 2nm, todo o ecossistema de semicondutores; a MediaTek é a representante do lado de design de IC.
+- [Empresas de Taiwan: TSMC](/pt/economy/tsmc)
+- [Indústria de Semicondutores](/pt/technology/taiwan-semiconductor-industry) — De uma transferência tecnológica da RCA em 1973 à produção em massa de 2nm, todo o ecossistema de semicondutores; a MediaTek é a representante do lado de design de IC.
 
 ---
 

@@ -286,7 +286,7 @@ A realização da justiça habitacional requer o esforço conjunto de toda a soc
 **Leitura Complementar**:
 
 - [Habitação Nacional e Justiça Habitacional](/society/國宅與居住正義) — A rota "o governo constrói para vender" que foi abolida antes da habitação social de 2016: de 1975, a Lei de Habitação Nacional até sua abolição em 2015, como a habitação nacional se tornou uma escada rolante de ativos, e o debate contemporâneo de 2026 em Taoyuan sobre a "venda" de habitação acessível (o artigo irmão deste).
-- [Casas de Lata](/society/鐵皮屋) — O dilema de governança de 716 mil casos de construções irregulares em todo o país, o problema do telhado de lata e das construções irregulares é uma das estruturas subjacentes do tema de justiça habitacional.
+- [Casas de Lata](/pt/society/taiwan-tin-shed-houses) — O dilema de governança de 716 mil casos de construções irregulares em todo o país, o problema do telhado de lata e das construções irregulares é uma das estruturas subjacentes do tema de justiça habitacional.
 - [Justiça Ambiental e Controvérsias NIMBY em Taiwan](/society/台灣環境正義與鄰避爭議) — A extensão do uso da terra para o problema habitacional: a distribuição desigual de riscos ambientais e o conflito comunitário de instalações NIMBY.
 
 [^1]: Departamento de Gestão Territorial do Ministério do Interior, "Relatório de Resultados da Promoção da Habitação Social", dezembro de 2024, https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7

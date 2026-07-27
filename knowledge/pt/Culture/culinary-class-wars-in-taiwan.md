@@ -126,9 +126,9 @@ Mas uma coisa permanecerá: entre 2024 e 2026, os consumidores taiwaneses viram 
 
 ## Leituras Complementares
 
-- [Cultura de Lojas de Conveniência no Taiwan](/lifestyle/台灣便利商店文化) — O cenário setorial onde a co-branding 7-ELEVEN × Baek Jong-won ocorreu, compreendendo a lógica de competição no campo de batalha de alimentos frescos de conveniência
-- [Cultura de Bebidas de Chá com Leite no Taiwan](/food/台灣手搖飲文化) — O contexto do setor de bebidas de chá onde a co-branding Kim Tae-sung × Shi Sheng ocorreu, o campo de bebidas mais exportável do Taiwan
-- [Boba Tea / Pearl Milk Tea](/food/珍珠奶茶) — O símbolo representativo das bebidas de chá do Taiwan, formando um contraste de cultura de consumo com as marcas de bebidas de chá coreanas que entraram durante o período de _Culinários Brancos e Negros_
+- [Cultura de Lojas de Conveniência no Taiwan](/pt/lifestyle/convenience-store-culture) — O cenário setorial onde a co-branding 7-ELEVEN × Baek Jong-won ocorreu, compreendendo a lógica de competição no campo de batalha de alimentos frescos de conveniência
+- [Cultura de Bebidas de Chá com Leite no Taiwan](/pt/food/hand-shaken-drink-culture) — O contexto do setor de bebidas de chá onde a co-branding Kim Tae-sung × Shi Sheng ocorreu, o campo de bebidas mais exportável do Taiwan
+- [Boba Tea / Pearl Milk Tea](/pt/food/bubble-tea) — O símbolo representativo das bebidas de chá do Taiwan, formando um contraste de cultura de consumo com as marcas de bebidas de chá coreanas que entraram durante o período de _Culinários Brancos e Negros_
 
 ## Referências
 

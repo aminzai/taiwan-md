@@ -91,4 +91,4 @@ Taiwan é誉为 "milagre democrático", sendo classificado há longo tempo como 
 
 ## Temas relacionados
 
-- [Direitos humanos e igualdade de género](/society/人權與性別平等)
+- [Direitos humanos e igualdade de género](/pt/society/human-rights-and-gender-equality)

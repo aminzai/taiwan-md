@@ -127,10 +127,10 @@ Do pergaminho de Lopo Homem em 1554 ao Google Maps no seu telemóvel em 2026, ca
 
 **Leitura complementar**:
 
-- [As cinco grandes formas de relevo e a estrutura geográfica de Taiwan](/geography/台灣五大地形與地理結構) — génese geológica e distribuição detalhada das cinco formas de relevo
-- [Tectónica de placas e actividade sísmica em Taiwan](/geography/台灣板塊運動與地震活動) — por que Taiwan tem tantas montanhas: a colisão entre a Placa do Mar das Filipinas e a Placa Eurasiática
-- [Período Holandês-Espanhol-Koxinga](/history/荷西明鄭時期) — 1624-1683, a era em que europeus produziram os primeiros mapas detalhados de Taiwan
-- [Ilhas e cultura marítima](/geography/離島與海洋文化) — Kinmen, Matsu, Penghu: nos mapas, as «ilhas de Taiwan» mais distantes de Taiwan e mais próximas da China
+- [As cinco grandes formas de relevo e a estrutura geográfica de Taiwan](/pt/geography/taiwan-five-major-landforms-and-geographic-structure) — génese geológica e distribuição detalhada das cinco formas de relevo
+- [Tectónica de placas e actividade sísmica em Taiwan](/pt/geography/tectonic-plates-and-seismic-activity) — por que Taiwan tem tantas montanhas: a colisão entre a Placa do Mar das Filipinas e a Placa Eurasiática
+- [Período Holandês-Espanhol-Koxinga](/pt/history/dutch-spanish-and-koxinga-era) — 1624-1683, a era em que europeus produziram os primeiros mapas detalhados de Taiwan
+- [Ilhas e cultura marítima](/pt/geography/offshore-islands-and-maritime-culture) — Kinmen, Matsu, Penghu: nos mapas, as «ilhas de Taiwan» mais distantes de Taiwan e mais próximas da China
 
 ## Referências
 

@@ -165,11 +165,11 @@ Elas não escrevem o tema do TMTS, mas são quem dá chance de esse tema virar r
 
 **Leitura complementar**:
 
-- [Indústria de Robótica de Taiwan](/technology/台灣機器人產業) — A capacidade de ferramentas de máquina de Datushan é a base upstream da indústria de robótica, mas entre "fazer bem um componente" e "integrar um robô" há um abismo organizacional
-- [Indústria de Semicondutores](/technology/半導體產業) — Outro caso típico de "upstream da cadeia global" em Taiwan, com muitas semelhanças estruturais com a indústria de ferramentas de máquina
-- [Upgrade e Transformação da Indústria de Taiwan](/economy/台灣產業轉型升級) — O dilema de subir de encomenda para marca, de componente para sistema; a indústria de ferramentas de máquina é caso central dessa discussão
-- [Empresa de Taiwan: Foxconn](/economy/台灣企業：鴻海精密) — Outra história de "partiu do ofício manual" na manufatura taiwanesa, escala maior mas essência estrutural semelhante
-- [Comércio Exterior e Cadeia Global de Suprimentos de Taiwan](/economy/台灣外貿與全球供應鏈) — A indústria de ferramentas de máquina é o "campeão invisível" da estrutura de comércio exterior de Taiwan; escala menor que a eletrônica, mas sustenta a base de toda a manufatura
+- [Indústria de Robótica de Taiwan](/pt/technology/taiwan-robotics-industry) — A capacidade de ferramentas de máquina de Datushan é a base upstream da indústria de robótica, mas entre "fazer bem um componente" e "integrar um robô" há um abismo organizacional
+- [Indústria de Semicondutores](/pt/technology/taiwan-semiconductor-industry) — Outro caso típico de "upstream da cadeia global" em Taiwan, com muitas semelhanças estruturais com a indústria de ferramentas de máquina
+- [Upgrade e Transformação da Indústria de Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) — O dilema de subir de encomenda para marca, de componente para sistema; a indústria de ferramentas de máquina é caso central dessa discussão
+- [Empresa de Taiwan: Foxconn](/pt/economy/foxconn-precision-industry) — Outra história de "partiu do ofício manual" na manufatura taiwanesa, escala maior mas essência estrutural semelhante
+- [Comércio Exterior e Cadeia Global de Suprimentos de Taiwan](/pt/economy/taiwan-foreign-trade-and-global-supply-chain) — A indústria de ferramentas de máquina é o "campeão invisível" da estrutura de comércio exterior de Taiwan; escala menor que a eletrônica, mas sustenta a base de toda a manufatura
 
 ## Referências
 

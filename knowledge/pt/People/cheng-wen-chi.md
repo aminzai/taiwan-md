@@ -139,10 +139,10 @@ A acumulação de 12 anos de uma plataforma de fronteira importa mais do que ela
 
 ## Leituras complementares
 
-- [Curadores de Taiwan e a construção da cultura artística](/art/台灣策展人與藝術文化建構) — Desenvolvimento discursivo e tendências de imagem da geração de curadores de Taiwan, incluindo Kao Sen-shin (consultor do NML)
-- [Nova arte de mídia em Taiwan](/art/台灣新媒體藝術) — Quarenta anos de história da arte digital, do vídeo de Yuan Guang-ming a VR e arte generativa; a trajetória crítica de Cheng Wen-chi corre paralela a esta linha mestra
+- [Curadores de Taiwan e a construção da cultura artística](/pt/art/taiwanese-curators-and-artistic-cultural-construction) — Desenvolvimento discursivo e tendências de imagem da geração de curadores de Taiwan, incluindo Kao Sen-shin (consultor do NML)
+- [Nova arte de mídia em Taiwan](/pt/art/taiwan-new-media-art) — Quarenta anos de história da arte digital, do vídeo de Yuan Guang-ming a VR e arte generativa; a trajetória crítica de Cheng Wen-chi corre paralela a esta linha mestra
 - [Paisagens sonoras de Taiwan](/music/台灣聲音地景) — Artistas sonoros como Wang Fu-jui, Yao Chung-han, Chang Yung-ta; a maioria das obras foi profundamente criticada na categoria Sound Scene do «Deserto Digital»
-- [Arte contemporânea](/art/當代藝術) — Visão geral da ecologia da arte contemporânea em Taiwan; complementa o _framework_ do arquipélago de Cheng Wen-chi para ver o mapa discursivo completo
+- [Arte contemporânea](/pt/art/contemporary-art) — Visão geral da ecologia da arte contemporânea em Taiwan; complementa o _framework_ do arquipélago de Cheng Wen-chi para ver o mapa discursivo completo
 - [Arte contemporânea indígena de Taiwan](/art/台灣原住民當代藝術) — Área menos tocada pelo NML; leitura cruzada com a «hipótese da pátria austronésia» e as potenciais interseções com o _framework_ do arquipélago
 
 ## Referências

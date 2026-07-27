@@ -136,4 +136,4 @@ Isso não é apenas a história de uma xícara de chá, mas a história de como 
 
 ## Tópicos relacionados
 
-- [台灣小吃 (Comida Taiwan)](/food/台灣小吃)
+- [台灣小吃 (Comida Taiwan)](/pt/food/taiwanese-street-food)

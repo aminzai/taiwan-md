@@ -165,13 +165,13 @@ Singapura em 2015 foi um aperto de mão, Pequim em 2026 é uma peça. Para quem 
 
 **Leitura Adicional**:
 
-- [Crise no Estreito de Taiwan e Desenvolvimento das Relações entre os Dois Lados do Estreito](/history/台海危機與兩岸關係發展) — A história de interação entre os dois lados do estreito de 1949 a 2016, o Encontro Zheng-Xi é apenas o último capítulo neste longo rio.
+- [Crise no Estreito de Taiwan e Desenvolvimento das Relações entre os Dois Lados do Estreito](/pt/history/taiwan-strait-crises-and-cross-strait-relations) — A história de interação entre os dois lados do estreito de 1949 a 2016, o Encontro Zheng-Xi é apenas o último capítulo neste longo rio.
 - [Ambiente Político de Taiwan e Sistema Eleitoral](/society/台灣政治環境與選舉制度) — Para entender "por que é Zheng Liwen", é necessário primeiro entender o debate de linha interna do KMT nas eleições presidenciais de 2025.
-- [Transição Democrática de Taiwan](/history/台灣民主轉型) — Por que a AIT enfatiza "diálogo com o governo eleito pelo povo"? A raiz deste princípio está aqui.
+- [Transição Democrática de Taiwan](/pt/history/taiwan-democratization) — Por que a AIT enfatiza "diálogo com o governo eleito pelo povo"? A raiz deste princípio está aqui.
 - [Defesa Nacional e Modernização Militar de Taiwan](/society/台灣國防與軍事現代化) — Por trás do "acordo institucional preventivo de guerra" de Zheng, há a ofensiva política do orçamento de defesa.
-- [Lai Ching-te](/people/賴清德) — O outro protagonista desta peça, o que foi deliberadamente mantido fora da cena.
-- [Zheng Liwen](/people/鄭麗文) — Da estudante de movimentos que fez greve de fome por independência de Taiwan em 1988 na porta da Universidade Nacional de Taiwan, à presidente do KMT que disse "os compatriotas de ambos os lados do estreito são chineses" em 2026 em Pequim.
-- [Han Kuo-yu](/people/韓國瑜) — Presidente da Assembleia Legislativa, o anfitrião da negociação orçamentária do parlamento nesta semana do Encontro Zheng-Xi; o outro personagem-chave desta peça.
+- [Lai Ching-te](/pt/people/lai-ching-te) — O outro protagonista desta peça, o que foi deliberadamente mantido fora da cena.
+- [Zheng Liwen](/pt/people/cheng-li-wun) — Da estudante de movimentos que fez greve de fome por independência de Taiwan em 1988 na porta da Universidade Nacional de Taiwan, à presidente do KMT que disse "os compatriotas de ambos os lados do estreito são chineses" em 2026 em Pequim.
+- [Han Kuo-yu](/pt/people/han-kuo-yu) — Presidente da Assembleia Legislativa, o anfitrião da negociação orçamentária do parlamento nesta semana do Encontro Zheng-Xi; o outro personagem-chave desta peça.
 - [Taiwan e Eswatini](/society/台灣與史瓦帝尼) — A narrativa externa da visita de Lai Ching-te aos países aliados na mesma época, o contraste lado a lado entre "a República da China (Taiwan) é um país soberano pertencente ao mundo" e "os compatriotas de ambos os lados do estreito são chineses".
 
 ## Referências

@@ -94,9 +94,9 @@ O resultado, por si só, parece um pouco inexplicável — mas, quando você olh
 
 **Leituras complementares**:
 
-- [André Chiang](/people/江振誠) — Outro artesão que conquistou jurados franceses com ingredientes de Taiwan, mas que, no ano seguinte a alcançar o 14º lugar no ranking mundial de restaurantes, decidiu apagar as luzes por iniciativa própria e seguir outro caminho
-- [Mapa cultural dos 16 povos indígenas de Taiwan](/culture/台灣原住民族16族文化地圖) — O contexto cultural do vinho de painço paiwan utilizado no pão de lichia e rosas
-- [Cultura dos mercados noturnos](/food/夜市文化) — A base da alimentação popular taiwanesa, essencial para compreender de onde brotou a estética de ingredientes de Wu Pao-chun
+- [André Chiang](/pt/people/andre-chiang-taiwanese-culinary-innovator) — Outro artesão que conquistou jurados franceses com ingredientes de Taiwan, mas que, no ano seguinte a alcançar o 14º lugar no ranking mundial de restaurantes, decidiu apagar as luzes por iniciativa própria e seguir outro caminho
+- [Mapa cultural dos 16 povos indígenas de Taiwan](/pt/culture/indigenous-peoples-16-tribes-cultural-map) — O contexto cultural do vinho de painço paiwan utilizado no pão de lichia e rosas
+- [Cultura dos mercados noturnos](/pt/food/night-market-culture) — A base da alimentação popular taiwanesa, essencial para compreender de onde brotou a estética de ingredientes de Wu Pao-chun
 - [Huang Shan-liao](/people/黃山料) — Outro taiwanês que venceu no cenário mundial, durante a Semana de Moda de Londres, mas seguiu o caminho oposto: abandonou seu ofício e transformou o desejo de “ser visto” em sucesso de vendas
 
 ## Referências

@@ -165,7 +165,7 @@ E esta fé, no final, tornou a ilha livre.
 - [Movimentos sociais em Taiwan sob o domínio japonês](../History/日治時期臺灣社會運動) — Como o governo colonial controlava a religião e como a religião contra-atacava
 - [Incidente 228](../History/二二八事件) — O papel dos meios religiosos (especialmente a Igreja Presbiteriana) na transição política do pós-guerra
 - [Chiang Wei-shui](../People/蔣渭水) — Médico revolucionário, o seu diálogo com os líderes religiosos da época
-- [Sensibilidade taiwanesa: precisamos que os coreanos gostem primeiro para ousar dizer que as nossas casas velhas são bonitas?](/culture/台灣感性) — Terrazzo, grades de ferro, estas estéticas quotidianas de Taiwan, um dos sítios onde mais se preservam é precisamente nos templos
+- [Sensibilidade taiwanesa: precisamos que os coreanos gostem primeiro para ousar dizer que as nossas casas velhas são bonitas?](/pt/culture/taiwanese-sensibility) — Terrazzo, grades de ferro, estas estéticas quotidianas de Taiwan, um dos sítios onde mais se preservam é precisamente nos templos
 
 ## Referências
 

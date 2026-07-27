@@ -89,7 +89,7 @@ Em 2026, Pai Hsien-yung continua a aparecer publicamente, promovendo a cultura d
 
 De Guilin, Guangxi, ao Novo Parque de Taipé, de "Literatura Moderna" à Trupe de Kunqu de Suzhou, a trajectória de sessenta anos de Pai Hsien-yung é a amostra de alguém que, durante toda a vida, se recusou a largar a "memória".
 
-**Leitura adicional**: [Pai Hsien-yung — Wikipédia](https://zh.wikipedia.org/wiki/白先勇) ｜ [Prémio Nacional de Artes e Literatura: registo de Pai Hsien-yung](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [Museu Nacional de Literatura de Taiwan](https://www.nmtl.gov.tw/) ｜ [Sanmao](/People/三毛): Pai Hsien-yung recomendou a sua estreia "Ilusão" publicada em "Literatura Moderna"
+**Leitura adicional**: [Pai Hsien-yung — Wikipédia](https://zh.wikipedia.org/wiki/白先勇) ｜ [Prémio Nacional de Artes e Literatura: registo de Pai Hsien-yung](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [Museu Nacional de Literatura de Taiwan](https://www.nmtl.gov.tw/) ｜ [Sanmao](/pt/people/san-mao): Pai Hsien-yung recomendou a sua estreia "Ilusão" publicada em "Literatura Moderna"
 
 ## Referências
 

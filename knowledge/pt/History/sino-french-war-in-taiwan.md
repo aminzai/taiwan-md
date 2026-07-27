@@ -117,10 +117,10 @@ A França ficou com o Vietnã. A corte Qing segurou Taiwan. 600 soldados frances
 
 **Leitura complementar**:
 
-- [清治時期 (清治時期)](/history/清治時期) — Contexto da época da Guerra Sino-Francesa: abertura de portos, comércio, entrada de potências estrangeiras em Formosa
+- [清治時期 (清治時期)](/pt/history/qing-dynasty-rule) — Contexto da época da Guerra Sino-Francesa: abertura de portos, comércio, entrada de potências estrangeiras em Formosa
 - [台灣鐵道史 (台灣鐵道史)](/history/台灣鐵道史) — A ferrovia Keelung-Hsinchu construída por Liu Mingchuan após a guerra, ponto de partida da história ferroviária de Taiwan
-- [李仙得](/people/李仙得) — Outro estrangeiro que deixou marcas em Formosa na mesma época; sua inteligência foi depois usada pelo Japão para invadir Taiwan
-- [史溫侯](/people/史溫侯) — Vinte anos antes da Guerra Sino-Francesa, o primeiro cônsul britânico em Taiwan fazia coisas completamente diferentes na mesma terra
+- [李仙得](/pt/people/charles-le-gendre) — Outro estrangeiro que deixou marcas em Formosa na mesma época; sua inteligência foi depois usada pelo Japão para invadir Taiwan
+- [史溫侯](/pt/people/robert-swinhoe-naturalist) — Vinte anos antes da Guerra Sino-Francesa, o primeiro cônsul britânico em Taiwan fazia coisas completamente diferentes na mesma terra
 
 ## Referências
 

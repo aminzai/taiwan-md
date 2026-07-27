@@ -176,8 +176,8 @@ A mesma pessoa, a mesma ilha. A única diferença é que, em Taiwan de 1979, ide
 
 ## Temas relacionados
 
-- [Período da lei marcial](/history/戒嚴時期): os 38 anos de regime autoritário anteriores à democratização
-- [Terror Branco de Taiwan](/history/台灣白色恐怖): a história da perseguição política de 140 mil pessoas
+- [Período da lei marcial](/pt/history/martial-law-era): os 38 anos de regime autoritário anteriores à democratização
+- [Terror Branco de Taiwan](/pt/history/taiwan-white-terror): a história da perseguição política de 140 mil pessoas
 - [Incidente de 28 de Fevereiro](/history/二二八事件): o ponto de partida do trauma político de Taiwan no pós-guerra
 - [Eleições e política partidária em Taiwan](/history/台灣選舉與政黨政治): a evolução do sistema eleitoral após a democratização
-- [Grande campanha de revogação de mandatos](/history/大罷免): a maior onda de revogações de mandatos da história, ocorrida em 2025, e um teste de resistência para os direitos políticos diretos quatro décadas após a democratização
+- [Grande campanha de revogação de mandatos](/pt/history/great-recall-movement-2024): a maior onda de revogações de mandatos da história, ocorrida em 2025, e um teste de resistência para os direitos políticos diretos quatro décadas após a democratização

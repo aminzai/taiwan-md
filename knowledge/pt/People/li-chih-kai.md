@@ -122,7 +122,7 @@ Como Lee costuma dizer: "Se você aguentar o sofrimento, no fim haverá um peda�
 
 **Leitura complementar**:
 
-- [Guo Jing-chun (郭婞淳)](/people/郭婞淳) — Ouro no levantamento de peso em Tóquio, referência do esporte taiwanês em ações de interesse público
+- [Guo Jing-chun (郭婞淳)](/pt/people/kuo-hsing-chun-olympic-weightlifting-champion) — Ouro no levantamento de peso em Tóquio, referência do esporte taiwanês em ações de interesse público
 
 ## Referências
 

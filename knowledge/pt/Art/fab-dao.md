@@ -98,10 +98,10 @@ Nesta ilha, cem montanhas se erguem, cem sonhos estão brotando. E cada um de n�
 
 **Leitura Recomendada**:
 
-- [Wang Xin-ren (A-Luan)](/art/王新仁) — Criador da obra "Pico" do Projeto das Cem Montanhas, o primeiro artista generativo taiwanês a aparecer no Art Blocks
-- [Wang Lian-sheng (Pai do Camarão)](/art/王連晟) — Criador dos picos de montanhas do algoritmo recursivo de paisagem e montanha do Projeto das Cem Montanhas, vencedor do primeiro prêmio de escultura do Prêmio Luminous 2017
-- [Arte de Nova Mídia de Taiwan](/art/台灣新媒體藝術) — Da arte em vídeo à arte generativa, o contexto da arte de nova mídia de Taiwan onde o FAB DAO está inserido
-- [Arte Contemporânea de Taiwan](/art/當代藝術) — A posição da arte blockchain no ecossistema da arte contemporânea de Taiwan
+- [Wang Xin-ren (A-Luan)](/pt/art/wang-hsin-jen-artist) — Criador da obra "Pico" do Projeto das Cem Montanhas, o primeiro artista generativo taiwanês a aparecer no Art Blocks
+- [Wang Lian-sheng (Pai do Camarão)](/pt/art/wang-lien-cheng-artist) — Criador dos picos de montanhas do algoritmo recursivo de paisagem e montanha do Projeto das Cem Montanhas, vencedor do primeiro prêmio de escultura do Prêmio Luminous 2017
+- [Arte de Nova Mídia de Taiwan](/pt/art/taiwan-new-media-art) — Da arte em vídeo à arte generativa, o contexto da arte de nova mídia de Taiwan onde o FAB DAO está inserido
+- [Arte Contemporânea de Taiwan](/pt/art/contemporary-art) — A posição da arte blockchain no ecossistema da arte contemporânea de Taiwan
 
 ## Referências
 

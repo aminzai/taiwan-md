@@ -86,9 +86,9 @@ Hoje, ao entrar no antigo campo de batalha de Shimen, o vale continua a ser impo
 
 ## Leituras Recomendadas
 
-- [O Incidente do Navio Rover e Zhuo Qidu](/history/羅發號事件與卓杞篤) — Outro naufrágio e colisão de soberania
-- [Período de Governação Qing](/history/清治時期) — A viragem na governação antes e depois da "Abertura das Montanhas e Acalmamento dos Povos Indígenas"
-- [Charles Le Gendre](/people/李仙得) — O conselheiro americano nos bastidores do evento
+- [O Incidente do Navio Rover e Zhuo Qidu](/pt/history/rover-incident-and-tauketok) — Outro naufrágio e colisão de soberania
+- [Período de Governação Qing](/pt/history/qing-dynasty-rule) — A viragem na governação antes e depois da "Abertura das Montanhas e Acalmamento dos Povos Indígenas"
+- [Charles Le Gendre](/pt/people/charles-le-gendre) — O conselheiro americano nos bastidores do evento
 
 ## Fontes de Referência
 

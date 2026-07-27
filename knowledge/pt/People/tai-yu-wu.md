@@ -60,8 +60,8 @@ Em janeiro de 2000, Wu Ta-You faleceu em São Francisco, aos 93 anos[^7]. Yang C
 
 **Leitura complementar**:
 
-- [Lee Yuan-tseh](/people/李遠哲) — Outro cientista que cresceu em Taiwan e depois ganhou o Prêmio Nobel de Química, representa a acumulação contínua de Taiwan em ciência básica
-- [Indústria de semicondutores (半導體產業)](/technology/半導體產業) — Os anos 1980 em que Wu Ta-You foi presidente da Academia Sinica foram período chave para a decolagem da indústria de semicondutores de Taiwan
+- [Lee Yuan-tseh](/pt/people/lee-yuan-tseh) — Outro cientista que cresceu em Taiwan e depois ganhou o Prêmio Nobel de Química, representa a acumulação contínua de Taiwan em ciência básica
+- [Indústria de semicondutores (半導體產業)](/pt/technology/taiwan-semiconductor-industry) — Os anos 1980 em que Wu Ta-You foi presidente da Academia Sinica foram período chave para a decolagem da indústria de semicondutores de Taiwan
 - [Audrey Tang](/people/唐鳳) — Da ciência à tecnologia, outra trilha de participação da elite intelectual taiwanesa em assuntos públicos
 - [Kira Lin (林琪兒)](/people/林琪兒) — Astronauta da NASA nascida em Taipei, doutora em medicina, continua a trajetória de cientistas taiwaneses-americanos acumulada no sistema acadêmico americano pós-guerra
 

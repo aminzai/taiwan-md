@@ -426,10 +426,10 @@ Este artigo utiliza quatro imagens, todas armazenadas em cache em `public/articl
 
 ## Leitura complementar
 
-- [Hou Hsiao-hsien](/people/侯孝賢): mestre dos planos longos que conquistou o Leão de Ouro de Veneza e levou o Massacre de 28 de Fevereiro à tela
+- [Hou Hsiao-hsien](/pt/people/hou-hsiao-hsien): mestre dos planos longos que conquistou o Leão de Ouro de Veneza e levou o Massacre de 28 de Fevereiro à tela
 - [Edward Yang](/people/楊德昌): observador da vida urbana com dois filmes entre os cem maiores da história segundo a Sight & Sound
 - [Tsai Ming-liang](/people/蔡明亮): vencedor do Leão de Ouro que levou o cinema lento ao Louvre
-- [Ang Lee](/people/李安): de Taiwan a Hollywood, duas vezes vencedor do Oscar de melhor direção
+- [Ang Lee](/pt/people/ang-lee): de Taiwan a Hollywood, duas vezes vencedor do Oscar de melhor direção
 - [Wei Te-sheng](/people/魏德聖): o cineasta que realizou Cape No. 7 em cinco línguas e reviveu o cinema nacional
 - [O país invisível](/art/看不見的國家): outra forma de Taiwan ser vista no documentário de Vanessa Hope
-- [Sensibilidade taiwanesa: precisamos que os coreanos curtam primeiro para ousarmos dizer que nossas casas antigas são bonitas?](/culture/台灣感性): o Leão de Ouro de A City of Sadness e sua bilheteria em Taipé ocorreram no mesmo ano, em 1989; reconhecimento internacional e identificação local não precisam ser escolhas excludentes
+- [Sensibilidade taiwanesa: precisamos que os coreanos curtam primeiro para ousarmos dizer que nossas casas antigas são bonitas?](/pt/culture/taiwanese-sensibility): o Leão de Ouro de A City of Sadness e sua bilheteria em Taipé ocorreram no mesmo ano, em 1989; reconhecimento internacional e identificação local não precisam ser escolhas excludentes

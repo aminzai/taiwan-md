@@ -73,9 +73,9 @@ Liu I-ru também afirmou em entrevista: \"Antigamente, regras como não poder ir
 
 **Leitura complementar**:
 
-- [Memorial Chiang Kai-shek](/history/中正紀念堂) — Também projetado por Yang Cho-cheng, da mesma geração de arquitetura memorial; local central das discussões sobre a paisagem política de Chiang Kai-shek e a justiça transicional
-- [Período da Lei Marcial](/history/戒嚴時期) — 1987, ano de inauguração das Duas Salas, foi justamente o ano do fim da lei marcial em Taiwan; compreender o contexto político da época ajuda a ler o significado histórico da arquitetura
-- [Teatro de fantoches Budaixi](/culture/布袋戲) — Outra forma do teatro taiwanês, tradição popular que coexiste com os locais de artes refinadas representados pelas Duas Salas
+- [Memorial Chiang Kai-shek](/pt/history/chiang-kai-shek-memorial-hall) — Também projetado por Yang Cho-cheng, da mesma geração de arquitetura memorial; local central das discussões sobre a paisagem política de Chiang Kai-shek e a justiça transicional
+- [Período da Lei Marcial](/pt/history/martial-law-era) — 1987, ano de inauguração das Duas Salas, foi justamente o ano do fim da lei marcial em Taiwan; compreender o contexto político da época ajuda a ler o significado histórico da arquitetura
+- [Teatro de fantoches Budaixi](/pt/culture/taiwanese-glove-puppetry-budaixi) — Outra forma do teatro taiwanês, tradição popular que coexiste com os locais de artes refinadas representados pelas Duas Salas
 
 ## Referências
 

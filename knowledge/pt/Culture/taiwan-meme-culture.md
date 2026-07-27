@@ -104,9 +104,9 @@ Olhando para trás por trinta anos, a cultura de memes de Taiwan reflete a compl
 
 - [馬英九迷因](/society/馬英九迷因) — Estudo de caso clássico da politização de figuras políticas através de memes
 
-- [長輩圖](/culture/長輩圖) — Outro caminho de disseminação da internet com características taiwanesas
+- [長輩圖](/pt/culture/elder-greeting-images) — Outro caminho de disseminação da internet com características taiwanesas
 
-- [台灣VTuber](/culture/台灣VTuber) — A fusão contemporânea entre personagens virtuais e a cultura de memes
+- [台灣VTuber](/pt/culture/taiwan-vtuber) — A fusão contemporânea entre personagens virtuais e a cultura de memes
 
 ---
 

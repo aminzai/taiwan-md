@@ -141,9 +141,9 @@ O que realmente vale a pena lembrar pode ser aquela hora na manhã daquele dia, 
 
 **Leitura complementar**:
 
-- [Lin Chiang](/people/林強) — Uma figura cultural taiwanesa que também completou a conversão de identidade (de ícone do rock em taiwanês para pioneiro de trilha sonora de filmes), que, como Jenny Jia, redefiniu a posição na qual o mercado a classificou na segunda metade da vida
+- [Lin Chiang](/pt/people/lim-giong) — Uma figura cultural taiwanesa que também completou a conversão de identidade (de ícone do rock em taiwanês para pioneiro de trilha sonora de filmes), que, como Jenny Jia, redefiniu a posição na qual o mercado a classificou na segunda metade da vida
 - [Tsai Ing-wen](/people/蔡英文) — A outra ponta do telefonema "Menina Bonita de 120%" em junho de 2021; a arrecadação de HFNC foi uma operação sincronizada rara entre os dois sistemas de mobilização civil e do Palácio do Presidente
-- [Jay Chou](/people/周杰倫) — Outro caminho de converter a identidade de celebridade em influência transversal (música → filme → marca → caridade), para leitura contrastante com a "artista para governança de capital público" de Jenny Jia
+- [Jay Chou](/pt/people/jay-chou) — Outro caminho de converter a identidade de celebridade em influência transversal (música → filme → marca → caridade), para leitura contrastante com a "artista para governança de capital público" de Jenny Jia
 - [Cultura de Voluntariado e Participação Pública em Taiwan](/society/台灣志工文化與公益參與) — A base cultural da mobilização civil de HFNC em 2021; a tradição de conexão horizontal da sociedade civil taiwanesa em eventos importantes
 
 ## Referências

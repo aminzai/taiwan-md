@@ -117,4 +117,4 @@ Nos últimos anos, a criação de Lai foca-se mais na identidade cultural e na m
 ## Leitura complementar
 
 - [Performance Workshop](http://www.pw-theatre.com/) — Site oficial da companhia fundada por Lai, com obras históricas e bilheteira
-- [_Secret Love in Peach Blossom Land_](/people/賴聲川) — Peça clássica do teatro sinófono
+- [_Secret Love in Peach Blossom Land_](/pt/people/stan-lai-theater-innovation-master) — Peça clássica do teatro sinófono

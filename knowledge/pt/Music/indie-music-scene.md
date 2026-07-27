@@ -200,9 +200,9 @@ As palavras que Ren Jiang-da disse àquelas crianças são provavelmente a mesma
 
 **Leitura Complementar**:
 
-- [De Zhang Xuan a Anpu](/music/張懸與安溥) — A transformação de identidade das vozes representativas da música independente de Taiwan, da política de identidade por trás do Incidente da Bandeira e da mudança de nome
-- [História do Desenvolvimento do Rock em Taiwan](/music/台灣搖滾樂發展史) — O caminho completo do rock em Taiwan, de canção proibida a mainstream
-- [Cultura dos Festivais de Música de Taiwan](/music/台灣音樂祭文化) — Como o Ocean Music Festival se tornou um incubador da música independente
+- [De Zhang Xuan a Anpu](/pt/music/deserts-chang-and-anpu) — A transformação de identidade das vozes representativas da música independente de Taiwan, da política de identidade por trás do Incidente da Bandeira e da mudança de nome
+- [História do Desenvolvimento do Rock em Taiwan](/pt/music/taiwan-rock-from-underground-to-mainstream) — O caminho completo do rock em Taiwan, de canção proibida a mainstream
+- [Cultura dos Festivais de Música de Taiwan](/pt/music/taiwan-music-festival-culture) — Como o Ocean Music Festival se tornou um incubador da música independente
 - [Zhuoshuixi Commune](/music/濁水溪公社) — Trinta anos de underground no punk em taiwanês; após a dissolução, a primeira indicação ao Golden Music Awards já venceu o Melhor Álbum de Língua Taiwanesa
 - [Sodagreen](/music/蘇打綠) — Do Prêmio Golden旋 de 2001 ao Pool Hall Shadow Night de 2023, a linha completa de vinte anos da banda indie de Taiwan, incluindo litígios de marca e a luta de resistência do «Fish Drying Thread» (魚丁糸)
 

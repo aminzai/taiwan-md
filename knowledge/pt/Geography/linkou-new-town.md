@@ -83,9 +83,9 @@ De olhos para o futuro, Linkou New Town continuará a atrair talentos e recursos
 
 ## Leituras Adicionais
 
-- [Desenvolvimento Urbano e Desigualdade Regional em Taiwan](/geography/台灣都市發展與城鄉差距) — Entenda a trajetória de desenvolvimento de Linkou New Town a partir da perspectiva do planejamento regional.
-- [Zona Especial de Taipei](/geography/北大特區) — Compare com outra região de reconstrução dinâmica, impulsionada por transporte, bairros escolares e mercado imobiliário.
-- [Sistema de Transporte em Taiwan](/lifestyle/台灣交通系統) — Explore como metrôs, rodovias e deslocamentos urbanos moldam os novos distritos.
+- [Desenvolvimento Urbano e Desigualdade Regional em Taiwan](/pt/geography/taiwan-urban-development-and-rural-urban-divide) — Entenda a trajetória de desenvolvimento de Linkou New Town a partir da perspectiva do planejamento regional.
+- [Zona Especial de Taipei](/pt/geography/beida-special-district-sanxia) — Compare com outra região de reconstrução dinâmica, impulsionada por transporte, bairros escolares e mercado imobiliário.
+- [Sistema de Transporte em Taiwan](/pt/lifestyle/transportation-system) — Explore como metrôs, rodovias e deslocamentos urbanos moldam os novos distritos.
 
 ## Referências
 

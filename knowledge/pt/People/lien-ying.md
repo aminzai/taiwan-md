@@ -112,7 +112,7 @@ Na mesma entrevista, soltou outra:
 
 > **✦** "Jolin é minha deusa, ainda tenho muito que aprender com a deusa!" [^8]
 
-[Jolin Tsai](/people/蔡依林), a mulher que foi de "última colocada em dança" a rainha do canto e dança mandopop, é o ídolo que Lian Ying assume publicamente. A linha é interessante: Jolin Tsai levou vinte e cinco anos para sair de "não serve pra dançar" a fazer argolas a dez metros do chão; Lian Ying trilha caminho parecido à sua maneira, partindo da dança para alargar a moldura idol.
+[Jolin Tsai](/pt/people/jolin-tsai), a mulher que foi de "última colocada em dança" a rainha do canto e dança mandopop, é o ídolo que Lian Ying assume publicamente. A linha é interessante: Jolin Tsai levou vinte e cinco anos para sair de "não serve pra dançar" a fazer argolas a dez metros do chão; Lian Ying trilha caminho parecido à sua maneira, partindo da dança para alargar a moldura idol.
 
 > **📝 Nota da curadoria**
 > O podcast _Taiwan Hip Hop Voice_ S3EP.89 tem entrevista com Lian Ying, título "De mostrar o nível de dança de girl group a redefinir o all-rounder canto-e-dança" [^9]. O título descreve com precisão o arco do _DD52_ ao solo EP: em 2020 ela definiu "nível de dança de girl group"; em 2025 se libertou de dentro dessa definição.
@@ -174,10 +174,10 @@ Começou dança no primário, transição no médio, foi trainee, fez muitas sel
 ## Leitura complementar
 
 - [HUR+](/people/HUR-plus) — Grupo de Lian Ying. Vice do _DD52_, seis anos depois o único ainda lançando álbum
-- [Nova geração idol de Taiwan](/culture/台灣新偶像世代) — Do _DD52_ ao Universe Cheer, o experimento industrial do survival idol taiwanês
-- [Jolin Tsai](/people/蔡依林) — A "deusa" de Lian Ying. Outra que partiu da dança para alargar a moldura idol
-- [Yang Cheng-lin](/people/楊丞琳) — Mentora-chefe do _DD52_. Do 4 in Love a _Ambiguous 2025_, vinte e cinco anos
-- [Chou Tzu-yu](/people/周子瑜) — Outra garota taiwanesa encontrando seu lugar no sistema idol
+- [Nova geração idol de Taiwan](/pt/culture/taiwan-new-idol-generation) — Do _DD52_ ao Universe Cheer, o experimento industrial do survival idol taiwanês
+- [Jolin Tsai](/pt/people/jolin-tsai) — A "deusa" de Lian Ying. Outra que partiu da dança para alargar a moldura idol
+- [Yang Cheng-lin](/pt/people/rainie-yang) — Mentora-chefe do _DD52_. Do 4 in Love a _Ambiguous 2025_, vinte e cinco anos
+- [Chou Tzu-yu](/pt/people/tzuyu) — Outra garota taiwanesa encontrando seu lugar no sistema idol
 
 ## Referências
 

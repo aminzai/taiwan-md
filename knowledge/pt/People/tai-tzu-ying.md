@@ -131,10 +131,10 @@ Mais importante, seu espírito — nunca desistir, evoluir sempre, humildade e p
 
 **Leitura complementar**:
 
-- [Kuo Hsing-chun](/people/郭婞淳) — Ouro olímpico no levantamento de peso em Tóquio, atleta amis também pilar da delegação de Taiwan
+- [Kuo Hsing-chun](/pt/people/kuo-hsing-chun-olympic-weightlifting-champion) — Ouro olímpico no levantamento de peso em Tóquio, atleta amis também pilar da delegação de Taiwan
 - [Lee Yang](/people/李洋) — Companheiro de alojamento no Centro Nacional de Treino na mesma época, bicampeão olímpico (Tóquio/Paris) e primeiro Ministro do Esporte
-- [Wang Chi-lin e Lee Yang (a dupla "Lin-Yang")](/people/麟洋配) — Primeira dupla masculina não-cabeça de chave a conquistar bicampeonato olímpico
-- [Chou Tzu-yu](/people/周子瑜) — Outra garota de Tainan que, aos 13 anos, deixou casa para perseguir o sonho na mesma geração
+- [Wang Chi-lin e Lee Yang (a dupla "Lin-Yang")](/pt/people/lin-yang-duo-taiwan-badminton-champions) — Primeira dupla masculina não-cabeça de chave a conquistar bicampeonato olímpico
+- [Chou Tzu-yu](/pt/people/tzuyu) — Outra garota de Tainan que, aos 13 anos, deixou casa para perseguir o sonho na mesma geração
 
 ## Referências
 

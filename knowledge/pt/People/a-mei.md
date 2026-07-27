@@ -79,7 +79,7 @@ Trouxe a agenda LGBTQ+ para o radar do entretenimento mainstream antes da maiori
 
 De noites a cantar em restaurantes de Taitung a cinco noites no Taipei Dome, com balões de ar quente a sobrevoar a plateia, a trajectória de A-mei não segue o guião padrão da indústria de entretenimento de Taiwan; é o percurso de uma rapariga indígena que usou a voz para abrir um espaço maior e depois deixou toda a gente entrar.
 
-**Leitura complementar**: [A-mei — Wikipédia](https://zh.wikipedia.org/wiki/張惠妹) ｜ [Chang Yu-sheng](/people/張雨生) — a alma produtora de «Irmãs»
+**Leitura complementar**: [A-mei — Wikipédia](https://zh.wikipedia.org/wiki/張惠妹) ｜ [Chang Yu-sheng](/pt/people/chang-yu-sheng-singer) — a alma produtora de «Irmãs»
 
 ## Referências
 

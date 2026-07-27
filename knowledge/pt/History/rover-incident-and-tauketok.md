@@ -136,9 +136,9 @@ Este texto foca a perspetiva de Tokitok, mas cada linha estende-se para outro la
 
 Os verbetes abaixo complementam este texto cada qual pelo seu ângulo:
 
-- [Charles Le Gendre (李仙得)](/people/李仙得): Cônsul americano que firmou o pacto com Tokitok, depois passou a assessor do governo japonês. A série de artigos C-1 olha o mesmo período pela ótica de Le Gendre.
-- [Período Qing (清治時期)](/history/清治時期): A resposta do governador-geral de Min-Zhe «não consta nos mapas» no incidente do _Rover_ tem significado mais profundo no contexto do problema das fronteiras no Taiwan Qing.
-- [História e movimento de retificação dos nomes dos povos indígenas de Taiwan (台灣原住民族歷史與正名運動)](/history/台灣原住民族歷史與正名運動): A identidade contemporânea do povo Seqaru difere radicalmente da classificação Qing de «selvagens»; as duas narrativas desenrolam-se no mesmo lugar.
+- [Charles Le Gendre (李仙得)](/pt/people/charles-le-gendre): Cônsul americano que firmou o pacto com Tokitok, depois passou a assessor do governo japonês. A série de artigos C-1 olha o mesmo período pela ótica de Le Gendre.
+- [Período Qing (清治時期)](/pt/history/qing-dynasty-rule): A resposta do governador-geral de Min-Zhe «não consta nos mapas» no incidente do _Rover_ tem significado mais profundo no contexto do problema das fronteiras no Taiwan Qing.
+- [História e movimento de retificação dos nomes dos povos indígenas de Taiwan (台灣原住民族歷史與正名運動)](/pt/history/indigenous-peoples-history-and-naming-movement): A identidade contemporânea do povo Seqaru difere radicalmente da classificação Qing de «selvagens»; as duas narrativas desenrolam-se no mesmo lugar.
 
 ## Referências
 

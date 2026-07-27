@@ -110,8 +110,8 @@ A NET não é apenas uma empresa que vende roupas; é o veículo da resiliência
 
 ## Leituras Recomendadas
 
-- [Indústria Têxtil](/economy/紡織業) — A linha superior dos campeões ocultos da indústria têxtil de Taiwan
-- [Empresas de Taiwan: Foxconn Precision](/economy/台灣企業：鴻海精密) — Uma outra narrativa de escalação de empresas locais
+- [Indústria Têxtil](/pt/economy/taiwan-textile-industry) — A linha superior dos campeões ocultos da indústria têxtil de Taiwan
+- [Empresas de Taiwan: Foxconn Precision](/pt/economy/foxconn-precision-industry) — Uma outra narrativa de escalação de empresas locais
 
 ## Fontes de Referência
 

@@ -67,7 +67,7 @@ Yang Ta-cheng disponibilizou gratuitamente os direitos de uso não comercial a t
 
 Em cima do palco é vocalista de punk, fora dele Yang Ta-cheng viveu uma novela.
 
-Em 2013 casou com a música independente [Cheng Yi-nung](/music/台灣獨立音樂/). Em janeiro de 2016, Cheng Yi-nung fez coming out perante ele, disse-lhe que era LGBTQ+. Yang Ta-cheng desmoronou-se, mas escolheu apoiar. Divorciaram-se, e ele disse publicamente: «Vou defender para sempre o direito da Enno ser ela mesma.» [^10] Após o divórcio, tornaram-se amigos e parceiros de trabalho — Cheng Yi-nung assinou pela Fire Music, o álbum _Pluto_ de 2017 saiu nesta editora fundada pelo ex-marido. Houve um período em que Yang Ta-cheng, a segunda esposa Shandong (Li Wen-hui) e Cheng Yi-nung, os três, moraram no mesmo apartamento de cento e sessenta e cinco metros quadrados a dividir a renda, a imprensa cor-de-rosa escreveu e reescreveu a história [^10].
+Em 2013 casou com a música independente [Cheng Yi-nung](/pt/music/indie-music-scene/). Em janeiro de 2016, Cheng Yi-nung fez coming out perante ele, disse-lhe que era LGBTQ+. Yang Ta-cheng desmoronou-se, mas escolheu apoiar. Divorciaram-se, e ele disse publicamente: «Vou defender para sempre o direito da Enno ser ela mesma.» [^10] Após o divórcio, tornaram-se amigos e parceiros de trabalho — Cheng Yi-nung assinou pela Fire Music, o álbum _Pluto_ de 2017 saiu nesta editora fundada pelo ex-marido. Houve um período em que Yang Ta-cheng, a segunda esposa Shandong (Li Wen-hui) e Cheng Yi-nung, os três, moraram no mesmo apartamento de cento e sessenta e cinco metros quadrados a dividir a renda, a imprensa cor-de-rosa escreveu e reescreveu a história [^10].
 
 Em novembro de 2016 casou com Shandong, em 2017 nasceu a filha. A 1 de novembro de 2024 divorciaram-se, em fevereiro de 2025 tornaram público. Dois casamentos, dois finais pacíficos [^10].
 
@@ -109,7 +109,7 @@ Os Fire EX. estão banidos na China. Após «Ilha da Luz», cortaram completamen
 
 ## 2024: Os sete minutos do Festival Dágǒu
 
-Início de outubro de 2024, três artistas — Anpu, Mayday, Wu Kang-ren — foram alvo de caça às bruxas pela opinião pública taiwanesa por terem publicado saudações do 11 de outubro (Dia Nacional da ROC) no Weibo. A 12 e 13 de outubro, o Festival Dágǒu realizou-se em Kaohsiung, duas dias, cerca de cem mil pessoas. [Anpu subiu ao palco a 12](/music/張懸與安溥/), perante as bandeiras de baleia e de Yushan na plateia disse: «Nos meus espetáculos, vocês são sempre livres e seguros.»
+Início de outubro de 2024, três artistas — Anpu, Mayday, Wu Kang-ren — foram alvo de caça às bruxas pela opinião pública taiwanesa por terem publicado saudações do 11 de outubro (Dia Nacional da ROC) no Weibo. A 12 e 13 de outubro, o Festival Dágǒu realizou-se em Kaohsiung, duas dias, cerca de cem mil pessoas. [Anpu subiu ao palco a 12](/pt/music/deserts-chang-and-anpu/), perante as bandeiras de baleia e de Yushan na plateia disse: «Nos meus espetáculos, vocês são sempre livres e seguros.»
 
 No dia seguinte, 13 de outubro, os Fire EX. fecharam o festival. Yang Ta-cheng parou no palco do Haioh Music Hall, gastou quase sete minutos a falar disto [^19].
 
@@ -129,11 +129,11 @@ O pavilhão aplaudiu. Este pedaço de sete minutos foi carregado para as redes s
 
 ## Leitura complementar
 
-- [Música independente de Taiwan](/music/台灣獨立音樂/) — O cenário musical independente onde os Fire EX. se movem
-- [História do desenvolvimento do rock em Taiwan](/music/台灣搖滾樂發展史/) — Da era das canções proibidas ao Festival Megaport
+- [Música independente de Taiwan](/pt/music/indie-music-scene/) — O cenário musical independente onde os Fire EX. se movem
+- [História do desenvolvimento do rock em Taiwan](/pt/music/taiwan-rock-from-underground-to-mainstream/) — Da era das canções proibidas ao Festival Megaport
 - [Movimento dos Girassóis](/society/太陽花學運/) — Aquele março em que nasceu «Ilha da Luz»
-- [Cultura de festivais de música em Taiwan](/music/台灣音樂祭文化/) — De Gongliao ao Festival Fireball
-- [Chang Hsuan e Anpu](/music/張懸與安溥/) — O outro lado dos sete minutos do Festival Dágǒu
+- [Cultura de festivais de música em Taiwan](/pt/music/taiwan-music-festival-culture/) — De Gongliao ao Festival Fireball
+- [Chang Hsuan e Anpu](/pt/music/deserts-chang-and-anpu/) — O outro lado dos sete minutos do Festival Dágǒu
 - [Comuna do Rio Turvo](/music/濁水溪公社/) — Também a usar punk em taiwanês para registar a era, uma geração antes no rock underground
 
 ## Referências

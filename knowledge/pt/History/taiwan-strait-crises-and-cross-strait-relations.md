@@ -145,19 +145,19 @@ Os estilhaços de granadas nos túneis de granito foram posteriormente levados p
 
 **Leitura Recomendada**:
 
-- [Os Construtores de Montanhas: A Aposta do Século](/art/造山者世紀的賭注) — Documentário de 2025 de Hsiao Ju-cheng, cinco anos de entrevistas com mais de 80 veteranos da indústria de semicondutores, entrando em 2026 nos três grandes centros de investimento da CHIPS Act em Purdue/Wisconsin/Michigan
+- [Os Construtores de Montanhas: A Aposta do Século](/pt/art/mountain-makers-tsmc-documentary) — Documentário de 2025 de Hsiao Ju-cheng, cinco anos de entrevistas com mais de 80 veteranos da indústria de semicondutores, entrando em 2026 nos três grandes centros de investimento da CHIPS Act em Purdue/Wisconsin/Michigan
 
 - [Modernização da Defesa Nacional e Militar de Taiwan](/society/台灣國防與軍事現代化) — Da Estratégia do Porco-Espinho aos tanques M1A2T, a mudança fundamental na lógica de defesa de Taiwan após as três crises do Estreito de Taiwan
 
-- [Países de Relações Diplomáticas de Taiwan e Diplomacia Internacional](/society/台灣邦交國與國際外交) — Outra linha de frente além do confronto militar: como Taiwan procura presença no sistema internacional
+- [Países de Relações Diplomáticas de Taiwan e Diplomacia Internacional](/pt/society/taiwan-diplomatic-allies-and-international-relations) — Outra linha de frente além do confronto militar: como Taiwan procura presença no sistema internacional
 
-- [A Reunião Zheng-Xi de 2026: Dez Minutos de Reencontro de Líderes do Kuomintang e do Partido Comunista após Dez Anos](/society/2026鄭習會與國共十年再會) — O capítulo mais recente da história de setenta anos de interações entre os dois lados do estreito: os dez minutos em que o presidente do Kuomintang encontrou Xi Jinping em Pequim
+- [A Reunião Zheng-Xi de 2026: Dez Minutos de Reencontro de Líderes do Kuomintang e do Partido Comunista após Dez Anos](/pt/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — O capítulo mais recente da história de setenta anos de interações entre os dois lados do estreito: os dez minutos em que o presidente do Kuomintang encontrou Xi Jinping em Pequim
 
 - [Ma Ying-jeou](/people/馬英九) — O líder que presidiu o período dourado das relações entre os dois lados do estreito e as controvérsias pós-mandato, com o aperto de mão de 80 segundos na Reunião Ma-Xi em Singapura em 7/11/2015, a assinatura do ECFA e as duas visitas ao continente em 2023 e 2024
 
-- [Teresa Teng](/people/鄧麗君) — Outro campo de batalha do soft power da Guerra Fria: sua voz penetrando o continente, a corrida em Happy Valley em 1989 com um cartaz "Opor-se à Lei Marcial", e a chamada ao continente em 1991 a partir do Observatório de Mashan
+- [Teresa Teng](/pt/people/teresa-teng) — Outro campo de batalha do soft power da Guerra Fria: sua voz penetrando o continente, a corrida em Happy Valley em 1989 com um cartaz "Opor-se à Lei Marcial", e a chamada ao continente em 1991 a partir do Observatório de Mashan
 
-- [Resolução sobre o Futuro de Taiwan](/history/臺灣前途決議文) — A crise do Estreito de Taiwan de 1996 acelerou a transformação pragmática do Partido Democrático Progressista, gerando três anos depois este documento que define a posição de Taiwan em relação aos dois lados do estreito por vinte e sete anos
+- [Resolução sobre o Futuro de Taiwan](/pt/history/resolution-on-taiwans-future) — A crise do Estreito de Taiwan de 1996 acelerou a transformação pragmática do Partido Democrático Progressista, gerando três anos depois este documento que define a posição de Taiwan em relação aos dois lados do estreito por vinte e sete anos
 
 ## Referências
 

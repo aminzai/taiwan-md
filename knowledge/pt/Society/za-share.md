@@ -139,12 +139,12 @@ Su Yang-chih disse ao [INSIDE Side Chat E376](https://www.inside.com.tw/feature/
 
 **Leitura Recomendada**:
 
-- [Sistema Educacional e Cultura de Exames](/society/教育制度與升學文化) — O objeto de rebelião da Escola Miscelânea: como a cultura de exames de Taiwan é estruturalmente replicada
-- [Teach For Taiwan TFT](/society/為台灣而教TFT) — Educação alternativa pós-318 do mesmo período, a linha de recrutamento organizacional e a linha de carnaval da Escola Miscelânea são duas metodologias de curadoria
+- [Sistema Educacional e Cultura de Exames](/pt/society/education-system-and-admissions-culture) — O objeto de rebelião da Escola Miscelânea: como a cultura de exames de Taiwan é estruturalmente replicada
+- [Teach For Taiwan TFT](/pt/society/teach-for-taiwan) — Educação alternativa pós-318 do mesmo período, a linha de recrutamento organizacional e a linha de carnaval da Escola Miscelânea são duas metodologias de curadoria
 - [O Nascimento de um Professor: Sistema de Formação de Professores de Taiwan](/society/一個教師的誕生：台灣師資培育制度) — Como os professores dentro do sistema são formados, como colocar a identidade de "Diretor" da Escola Miscelânea neste grupo de controle
 - [Movimento do Lírio das Estrelas (318)](/society/太陽花學運) — Contexto histórico da Escola Miscelânea: como o Movimento 318 continuou como prática social fora do sistema após a dispersão nas ruas
 - [Festival de Vida Complexa](/society/複雜生活節) — A versão que "intencionalmente mantém pequena" da energia pós-318: o Fórum dos "Mal-sucedidos" de 8º ano com 200-300 pessoas, em comparação com o carnaval educacional da Escola Miscelânea que cresceu para se tornar o maior da Ásia, são duas escolhas de curadoria de _intimacy_ e _scale_
-- [Educação em Áreas Rurais de Taiwan](/society/台灣偏鄉教育) — A outra linha principal da desigualdade educacional, formando as duas extremidades da educação de Taiwan em contraste com a posição "alternativa" da Escola Miscelânea
+- [Educação em Áreas Rurais de Taiwan](/pt/society/taiwan-rural-education) — A outra linha principal da desigualdade educacional, formando as duas extremidades da educação de Taiwan em contraste com a posição "alternativa" da Escola Miscelânea
 
 ## Referências
 

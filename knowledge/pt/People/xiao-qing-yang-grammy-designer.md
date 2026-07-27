@@ -35,7 +35,7 @@ Nos anos 1980, a indústria fonográfica de Taiwan vivia uma expansão vigorosa.
 
 ## Entrada no design de embalagens de álbuns
 
-No início dos anos 1990, a indústria da música popular de Taiwan entrou em sua era de ouro, e Hsiao Ching-yang passou a dedicar-se sistematicamente ao design de embalagens de álbuns. Criou obras para músicos como [Chang Yu-sheng](/people/林強) e [Lim Giong](⟦U10⟧), consolidando reputação no meio musical e desenvolvendo um modo de trabalho distinto do designer comercial convencional: envolvia-se profundamente no processo de criação musical, mantinha longos diálogos com os músicos para compreender o núcleo espiritual da obra, só então a transpondo para linguagem visual.[^2]
+No início dos anos 1990, a indústria da música popular de Taiwan entrou em sua era de ouro, e Hsiao Ching-yang passou a dedicar-se sistematicamente ao design de embalagens de álbuns. Criou obras para músicos como [Chang Yu-sheng](/pt/people/lim-giong) e [Lim Giong](⟦U10⟧), consolidando reputação no meio musical e desenvolvendo um modo de trabalho distinto do designer comercial convencional: envolvia-se profundamente no processo de criação musical, mantinha longos diálogos com os músicos para compreender o núcleo espiritual da obra, só então a transpondo para linguagem visual.[^2]
 
 Sobressai na capacidade de extrair matéria-prima da cultura local de Taiwan — esculturas de templos, totens folclóricos, paisagens naturais —, convertendo-as em linguagem de design dotada de capacidade de comunicação transcultural. Esse percurso de partir do local para alcançar o internacional tornou-se sua marca criativa mais reconhecível.
 

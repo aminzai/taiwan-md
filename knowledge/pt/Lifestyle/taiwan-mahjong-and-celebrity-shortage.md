@@ -150,9 +150,9 @@ Ele não respondeu.
 
 ## Leitura complementar
 
-- [Indústria de Jogos de Taiwan e Entretenimento Digital](/technology/台灣遊戲產業與數位娛樂) — Panorama completo dos jogos de Taiwan, de agente a original
-- [Vida Noturna e Cultura KTV](/lifestyle/夜生活與KTV文化) — Outro ritual social dos taiwaneses
-- [Cultura das Lojas de Conveniência de Taiwan](/lifestyle/台灣便利商店文化) — Infraestrutura diária de Taiwan 24 horas à espera
+- [Indústria de Jogos de Taiwan e Entretenimento Digital](/pt/technology/taiwan-gaming-industry) — Panorama completo dos jogos de Taiwan, de agente a original
+- [Vida Noturna e Cultura KTV](/pt/lifestyle/nightlife-and-ktv-culture) — Outro ritual social dos taiwaneses
+- [Cultura das Lojas de Conveniência de Taiwan](/pt/lifestyle/convenience-store-culture) — Infraestrutura diária de Taiwan 24 horas à espera
 
 ---
 

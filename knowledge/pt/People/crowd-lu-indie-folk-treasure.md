@@ -121,8 +121,8 @@ Em 2015, caminhou 315 km de volta a Tainan. Em 2024, percorreu os caminhos de pe
 
 **Leitura Complementar**:
 
-- [EggPlantEgg (茄子蛋)](/music/茄子蛋) — Banda que também entrou no mainstream compondo em taiwanês, Melhor Artista Novo no Golden Melody 2019
-- [Música Independente de Taiwan](/music/台灣獨立音樂) — Do underground à era do streaming, como evoluiu o ecossistema indie a que Crowd Lu pertence
+- [EggPlantEgg (茄子蛋)](/pt/music/eggplant-egg-band) — Banda que também entrou no mainstream compondo em taiwanês, Melhor Artista Novo no Golden Melody 2019
+- [Música Independente de Taiwan](/pt/music/indie-music-scene) — Do underground à era do streaming, como evoluiu o ecossistema indie a que Crowd Lu pertence
 - [Qseries (植劇場)](/art/植劇場) — Projeto inovador de drama liderado por Wang Hsiao-ti, berço de _A Boy Named Flora A_
 - [Desenvolvimento do Hip Hop e Rap em Taiwan](/music/台灣嘻哈與饒舌發展) — Outra trilha evolutiva da música taiwanesa no mesmo período
 

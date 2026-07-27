@@ -155,7 +155,7 @@ Quando dizemos «nós nesta ilha», não é mito de sangue, nem história de etn
 **Leitura complementar**:
 
 - [Formosa](/history/福爾摩沙) — Da narrativa ocidental de «descoberta» de volta a como Taiwan foi nomeada, imaginada e reentendida.
-- [Período holandês-espanhol e de Koxinga](/history/荷西明鄭時期) — Ver como o Taiwan do século XVII entrou nos mares do Leste Asiático, interagindo com colonização europeia e sociedade local.
+- [Período holandês-espanhol e de Koxinga](/pt/history/dutch-spanish-and-koxinga-era) — Ver como o Taiwan do século XVII entrou nos mares do Leste Asiático, interagindo com colonização europeia e sociedade local.
 - [Incidente 228](/history/二二八事件) — Como a transferência de regime pós-guerra se tornou uma das fraturas mais profundas nas camadas de memória de Taiwan.
 - [Museu Nacional de História de Taiwan](/society/國立臺灣歷史博物館) — Como um museu nacional transformou a visão histórica da ilha de Taiwan em palco público.
 - [Pensamento arquipelágico](/culture/群島思維) — Para além da ilha única, olhar para fora e entender a relação de Taiwan com ilhas vizinhas e o mundo oceânico.

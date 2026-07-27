@@ -155,11 +155,11 @@ Isso é Ao e Montanha.
 
 ## Leitura Complementar
 
-- [Música independente de Taiwan](/music/台灣獨立音樂) — Contexto histórico do ecossistema de bandas independentes de Taiwan nos anos 2010-2020 e da tipologia folktronica
+- [Música independente de Taiwan](/pt/music/indie-music-scene) — Contexto histórico do ecossistema de bandas independentes de Taiwan nos anos 2010-2020 e da tipologia folktronica
 - [Música popular de Taiwan](/music/台灣流行音樂) — Estrutura da indústria pop mandarim e o posicionamento das bandas independentes
 - [Cicada](/people/Cicada) — Outro projeto instrumental / não _mainstream_, contraponto de duas estratégias criativas «fora do percurso ídolo»
 - [Wei Ru-xuan](/people/魏如萱) — Outra trilha de criadora mulher entre o _mainstream_ e o independente
-- [Hello Nico](/people/Hello-Nico) — Mesma geração de vozes femininas independentes taiwanesas, _dream pop_ a envolver repressão, «a maior dificuldade de fazer música é não se conseguir ultrapassar a si mesmo»
+- [Hello Nico](/pt/people/hello-nico-band) — Mesma geração de vozes femininas independentes taiwanesas, _dream pop_ a envolver repressão, «a maior dificuldade de fazer música é não se conseguir ultrapassar a si mesmo»
 
 ## Referências
 

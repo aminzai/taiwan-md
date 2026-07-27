@@ -169,15 +169,15 @@ Isto não é ódio: é um livro-caixa. O Terror Branco não terá terminado no d
 
 **Leituras adicionais**:
 
-- [Transição democrática de Taiwan](/history/台灣民主轉型) — o panorama completo de quatro décadas de transição, da lei marcial a um dos sistemas democráticos mais livres da Ásia
-- [Período da lei marcial](/history/戒嚴時期) — a estrutura jurídica de 38 anos e 56 dias e o processo que levou ao fim da lei marcial
+- [Transição democrática de Taiwan](/pt/history/taiwan-democratization) — o panorama completo de quatro décadas de transição, da lei marcial a um dos sistemas democráticos mais livres da Ásia
+- [Período da lei marcial](/pt/history/martial-law-era) — a estrutura jurídica de 38 anos e 56 dias e o processo que levou ao fim da lei marcial
 - [Justiça de transição em Taiwan](/history/台灣轉型正義) — a tarefa inconclusa de investigar a verdade e responsabilizar os perpetradores após o fim da lei marcial
 - [Museu Nacional de Direitos Humanos](/history/國家人權博物館) — a instituição responsável pelos parques memoriais do Terror Branco em Jingmei e na Ilha Verde, desde seis anos de preparação até o congelamento orçamentário de 2025
 - [Incidente de 28 de Fevereiro](/history/二二八事件) — o prelúdio do Terror Branco: como a repressão de 1947 anunciou o regime de lei marcial
-- [Incidente de Kaohsiung](/history/美麗島事件) — uma importante virada no período final do Terror Branco, em 1979
-- [Alishan: a floresta do império e a montanha de Uyongu Yatauyungana](/history/阿里山：帝國的林場與高一生的山) — a montanha de Uyongu Yatauyungana e a história do silenciamento de seu povo
-- [Nota fiscal: o papel de 1951 que transformou toda a população em fiscal tributário](/economy/發票) — Jen Hsien-chun, idealizador do sistema de notas fiscais, também viveu na mesma época; em 1955, foi preso por “saber da existência de comunistas e não denunciá-los”: bastava um rótulo para destruir uma vida
-- [Yin Hai-kuang](/people/殷海光) — professor de filosofia da Universidade Nacional de Taiwan e pioneiro do liberalismo taiwanês, mantido em prisão domiciliar na viela 18 da rua Wenzhou após o Caso Lei Chen, em 1960
+- [Incidente de Kaohsiung](/pt/history/kaohsiung-incident-formosa-incident) — uma importante virada no período final do Terror Branco, em 1979
+- [Alishan: a floresta do império e a montanha de Uyongu Yatauyungana](/pt/history/alishan-empire-forest-and-uongu-yatauyungana) — a montanha de Uyongu Yatauyungana e a história do silenciamento de seu povo
+- [Nota fiscal: o papel de 1951 que transformou toda a população em fiscal tributário](/pt/economy/taiwan-uniform-invoice) — Jen Hsien-chun, idealizador do sistema de notas fiscais, também viveu na mesma época; em 1955, foi preso por “saber da existência de comunistas e não denunciá-los”: bastava um rótulo para destruir uma vida
+- [Yin Hai-kuang](/pt/people/yin-haiguang-liberalism-philosopher) — professor de filosofia da Universidade Nacional de Taiwan e pioneiro do liberalismo taiwanês, mantido em prisão domiciliar na viela 18 da rua Wenzhou após o Caso Lei Chen, em 1960
 
 ## Referências
 

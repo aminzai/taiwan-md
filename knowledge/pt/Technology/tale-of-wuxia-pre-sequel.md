@@ -117,7 +117,7 @@ Bear disse: "Um mortal não é necessariamente uma pessoa medíocre". Esta frase
 
 - [Dois Espadas de Da Yu](/technology/大宇雙劍) — O ponto de partida dos jogos de wuxia taiwaneses há trinta anos
 - [Red Candle Games](/technology/赤燭遊戲) — Outro caminho para os jogos independentes de Taiwan
-- [Indústria de Jogos de Taiwan e Entretenimento Digital](/technology/台灣遊戲產業與數位娛樂) — Do licenciamento à originalidade, um panorama completo
+- [Indústria de Jogos de Taiwan e Entretenimento Digital](/pt/technology/taiwan-gaming-industry) — Do licenciamento à originalidade, um panorama completo
 
 ---
 

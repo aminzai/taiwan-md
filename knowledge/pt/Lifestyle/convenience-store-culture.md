@@ -261,8 +261,8 @@ Em meio à globalização, a cultura das lojas de conveniência de Taiwan tornou
 
 **Leituras complementares:**
 
-- [Sensibilidade taiwanesa: precisamos esperar que os coreanos curtam primeiro para então ousarmos dizer que nossas casas antigas são bonitas?](/culture/台灣感性) — As lojas de conveniência iluminadas durante a madrugada também fazem parte das paisagens cotidianas que os taiwaneses consideram corriqueiras e raramente observam com atenção
-- [Nota fiscal: o papel que, em 1951, transformou toda a população em fiscais tributários](/economy/發票) — As lojas de conveniência são o local onde os identificadores digitais de notas fiscais são usados com maior frequência; cada compra representa também a última milha da mobilização tributária cotidiana
+- [Sensibilidade taiwanesa: precisamos esperar que os coreanos curtam primeiro para então ousarmos dizer que nossas casas antigas são bonitas?](/pt/culture/taiwanese-sensibility) — As lojas de conveniência iluminadas durante a madrugada também fazem parte das paisagens cotidianas que os taiwaneses consideram corriqueiras e raramente observam com atenção
+- [Nota fiscal: o papel que, em 1951, transformou toda a população em fiscais tributários](/pt/economy/taiwan-uniform-invoice) — As lojas de conveniência são o local onde os identificadores digitais de notas fiscais são usados com maior frequência; cada compra representa também a última milha da mobilização tributária cotidiana
 - [Empresas taiwanesas: Uni-President Enterprises](/economy/台灣企業：統一企業) — O grupo Uni-President por trás da 7-ELEVEN cresceu de um pacote de macarrão instantâneo Uni-President para se tornar um império varejista capaz de abarcar um dia inteiro da vida dos taiwaneses
 
 ## Referências

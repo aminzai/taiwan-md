@@ -234,16 +234,16 @@ Da próxima vez que passar por Taichung, não vá só às lojas antigas de bolo 
 
 ## Leituras complementares
 
-- [Indústria de fabrico de instrumentos musicais de Taiwan: as mãos de Taiwan que percorrem os sons do mundo](/music/台灣樂器製造) — O aglomerado de saxofones de Hou-li e os sinos musicais de Wu-feng são a geografia da precisão e da música além da indústria de Taichung
+- [Indústria de fabrico de instrumentos musicais de Taiwan: as mãos de Taiwan que percorrem os sons do mundo](/pt/music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories) — O aglomerado de saxofones de Hou-li e os sinos musicais de Wu-feng são a geografia da precisão e da música além da indústria de Taichung
 
-- [Cidade de Chi-lung](/geography/基隆市) — Piloto da série 22 condados e cidades: 1984 sétimo maior porto de contentores do mundo caiu para 113.º porto em 2018, tal como Taichung "estatuto administrativo visto e depois reescrito"
+- [Cidade de Chi-lung](/pt/geography/keelung-city) — Piloto da série 22 condados e cidades: 1984 sétimo maior porto de contentores do mundo caiu para 113.º porto em 2018, tal como Taichung "estatuto administrativo visto e depois reescrito"
 - [Condado de Nan-tou](/geography/南投縣) — Lote 3 da série 22 condados e cidades: único condado sem mar, epicentro do 921 no seu centro, partilha com Taichung o trauma da Falha de Chelungpu
 - [Condado de Chang-hua](/geography/彰化縣) — Lote 4 da série 22 condados e cidades: 1709 Canal Pa-pao irriga região central, 1786 evento Lin Shuang-wen, 1986 gente de Lu-kang expulsa DuPont, partilha com Taichung o círculo de vida central da cordilheira Pa-kua
 - [Condado de Yun-lin](/geography/雲林縣) — Lote 4 da série 22 condados e cidades: Procissão de Mazu de Ta-chia passa por Hsi-lo, Hu-wei, T'u-k-u, partilha com Taichung o segmento central da mesma rota de 340 km de Mazu
 - [Cidade de Chia-i](/geography/嘉義市) — Lote 2 da série 22 condados e cidades: Terminus da Procissão de Mazu de Ta-chia, Hsin-kang fica no condado de Chia-i, partilha com Taichung as duas pontas da mesma rota religiosa de 340 km
 - [Condado de Miao-li](/geography/苗栗縣) — Lote 1 da série 22 condados e cidades: Condado vizinho a norte, pescoço duro Hakka e dívida do tesouro do condado interiorano, partilha com Taichung linha costeira Ch'ing-shui, montanha de Tung-shih o mapa Hakka central
-- [Divisão administrativa de Taiwan](/geography/台灣行政區劃) — 1887 estabelecimento da Prefeitura de Taiwan em Taichung, 1920 Prefeitura de Taichung, 1945 separação condado-cidade, 2010 fusão condado-cidade elevação a município diretamente administrado, histórico institucional completo
-- [Características urbanas e cultura regional](/geography/城市特色與區域文化) — Taichung como nó da região de vida central, contexto comparativo transcondados
+- [Divisão administrativa de Taiwan](/pt/geography/administrative-divisions-of-taiwan) — 1887 estabelecimento da Prefeitura de Taiwan em Taichung, 1920 Prefeitura de Taichung, 1945 separação condado-cidade, 2010 fusão condado-cidade elevação a município diretamente administrado, histórico institucional completo
+- [Características urbanas e cultura regional](/pt/geography/urban-character-and-regional-culture) — Taichung como nó da região de vida central, contexto comparativo transcondados
 
 ## Fontes das imagens
 

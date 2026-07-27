@@ -75,7 +75,7 @@ Em abril de 2026, as inscrições no "Diário de Discípulos Fun TV" de Pa Chiun
 
 - [Shen Po-yang](/people/沈伯洋) — Também alvo do PCC, legislador taiwanês e cofundador da Black Bear Academy, tornou-se em 2025 o primeiro político eleito a ser processado pela China sob a acusação de secessão nacional
 - [Guerra cognitiva](/society/認知作戰) — O arcabouço completo da guerra de informação do PCC contra Taiwan, onde Pa Chiung, com humor e ironia, se tornou representante da resistência civil
-- [Lai Ching-te](/people/賴清德) — Também na lista do PCC de "teimosos da independência de Taiwan", presidente de Taiwan
+- [Lai Ching-te](/pt/people/lai-ching-te) — Também na lista do PCC de "teimosos da independência de Taiwan", presidente de Taiwan
 
 ---
 

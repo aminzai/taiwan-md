@@ -202,10 +202,10 @@ mas ninguém vai colocar uma fatia extra de queijo e dizer:
 
 ### Temas Relacionados
 
-- [Cultura de loja de conveniência](/lifestyle/台灣便利商店文化)
-- [Comunidade e cultura de bairro em Taiwan](/society/台灣社區與里文化)
+- [Cultura de loja de conveniência](/pt/lifestyle/convenience-store-culture)
+- [Comunidade e cultura de bairro em Taiwan](/pt/society/taiwan-neighborhood-and-li-culture)
 - [Cultura de café da manhã em Taiwan](/food/台灣早餐文化)
-- [Cultura de mercado e mercados tradicionais em Taiwan](/lifestyle/台灣市場文化與傳統市場)
+- [Cultura de mercado e mercados tradicionais em Taiwan](/pt/lifestyle/taiwan-traditional-markets-and-market-culture)
 
 ---
 

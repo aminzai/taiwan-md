@@ -117,11 +117,11 @@ Quem assinou a Aliança do Cabo Sul e quem vendeu a inteligência sobre Taiwan a
 
 **Leitura complementar**:
 
-- [Incidente do Rover e Tauketok](/history/羅發號事件與卓杞篤) — Contraparte C-2 deste artigo: a mesma história vista da perspectiva de Tauketok, como a Aliança do Cabo Sul protegeu seu povo e como a outra metade do acordo o traiu
-- [História e movimento de retificação dos nomes dos povos indígenas de Taiwan (台灣原住民族歷史與正名運動)](/history/台灣原住民族歷史與正名運動) — Os Paiwan na Aliança do Cabo Sul, o longo percurso das "terras não administradas" à retificação de nomes
-- [Período Qing (清治時期)](/history/清治時期) — A estrutura de governança Qing quando Le Gendre chegou a Taiwan, compreender o contexto institucional da resposta "fora de jurisdição"
-- [Robert Swinhoe (史溫侯)](/people/史溫侯) — Outro estrangeiro da mesma época que deixou registros profundos em Taiwan, mas movido pela ciência, não pelo poder
-- [Guerra Sino-Francesa](/history/清法戰爭) — Oito anos após Le Gendre deixar Taiwan, a França usou lógica imperial semelhante para atacar Taiwan
+- [Incidente do Rover e Tauketok](/pt/history/rover-incident-and-tauketok) — Contraparte C-2 deste artigo: a mesma história vista da perspectiva de Tauketok, como a Aliança do Cabo Sul protegeu seu povo e como a outra metade do acordo o traiu
+- [História e movimento de retificação dos nomes dos povos indígenas de Taiwan (台灣原住民族歷史與正名運動)](/pt/history/indigenous-peoples-history-and-naming-movement) — Os Paiwan na Aliança do Cabo Sul, o longo percurso das "terras não administradas" à retificação de nomes
+- [Período Qing (清治時期)](/pt/history/qing-dynasty-rule) — A estrutura de governança Qing quando Le Gendre chegou a Taiwan, compreender o contexto institucional da resposta "fora de jurisdição"
+- [Robert Swinhoe (史溫侯)](/pt/people/robert-swinhoe-naturalist) — Outro estrangeiro da mesma época que deixou registros profundos em Taiwan, mas movido pela ciência, não pelo poder
+- [Guerra Sino-Francesa](/pt/history/sino-french-war-in-taiwan) — Oito anos após Le Gendre deixar Taiwan, a França usou lógica imperial semelhante para atacar Taiwan
 
 ## Referências
 

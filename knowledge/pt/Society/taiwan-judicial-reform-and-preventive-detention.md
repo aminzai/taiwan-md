@@ -197,8 +197,8 @@ Da próxima vez que o Yuan Legislativo ampliar novamente esse dispositivo — se
 
 ## Leitura complementar
 
-- [Sistema democrático de Taiwan](/society/民主制度) — A expansão ou não da prisão preventiva é, em última análise, o julgamento coletivo de uma sociedade democrática sobre "poder estatal vs. liberdade individual"
-- [Direitos humanos e igualdade de gênero](/society/人權與性別平等) — A inclusão de exploração sexual de menores e assédio sexual na prisão preventiva faz parte do movimento de prevenção à violência de gênero
+- [Sistema democrático de Taiwan](/pt/society/democratic-system) — A expansão ou não da prisão preventiva é, em última análise, o julgamento coletivo de uma sociedade democrática sobre "poder estatal vs. liberdade individual"
+- [Direitos humanos e igualdade de gênero](/pt/society/human-rights-and-gender-equality) — A inclusão de exploração sexual de menores e assédio sexual na prisão preventiva faz parte do movimento de prevenção à violência de gênero
 - [Controvérsia sobre medicamentos veterinários em Taiwan](/society/台灣動物用藥爭議) — Outro tema de "transparência institucional", mostrando a tensão entre expertise e democracia na governança taiwanesa
 
 ## Referências

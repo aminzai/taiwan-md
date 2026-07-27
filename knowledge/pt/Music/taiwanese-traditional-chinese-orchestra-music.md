@@ -174,13 +174,13 @@ A questão "a qual nação pertence o 'Guo' da Guoyue" talvez nunca precise de r
 
 **Leitura Adicional**:
 
-- [Música Tradicional dos Povos Indígenas de Taiwan](/music/台灣原住民音樂傳統) — O canto polifônico de oito vozes do povo Bunun, o canto polifônico do povo Amis, outro sistema musical que a Guoyue tenta digerir
-- [Canto Polifônico de Oito Vozes](/music/八部合音) — O sistema de harmônicos do pasibutbut, o material central do diálogo entre a Guoyue e a música indígena
-- [Música Hakka de Taiwan](/music/台灣客家音樂) — Arranjos de canções de montanha hakka massivamente apresentados pela Orquestra Nacional de Kaohsiung, outro caminho da Guoyue no sul de Taiwan
-- [Fabricação de Instrumentos de Taiwan](/music/台灣樂器製造) — De saxofones em Houli a instrumentos de Guoyue, como Taiwan passou de "usuário" a "fabricante"
+- [Música Tradicional dos Povos Indígenas de Taiwan](/pt/music/indigenous-music-traditions) — O canto polifônico de oito vozes do povo Bunun, o canto polifônico do povo Amis, outro sistema musical que a Guoyue tenta digerir
+- [Canto Polifônico de Oito Vozes](/pt/music/bunun-pasibutbut-eight-part-polyphony) — O sistema de harmônicos do pasibutbut, o material central do diálogo entre a Guoyue e a música indígena
+- [Música Hakka de Taiwan](/pt/music/taiwan-hakka-music-from-mountain-songs-to-rock) — Arranjos de canções de montanha hakka massivamente apresentados pela Orquestra Nacional de Kaohsiung, outro caminho da Guoyue no sul de Taiwan
+- [Fabricação de Instrumentos de Taiwan](/pt/music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories) — De saxofones em Houli a instrumentos de Guoyue, como Taiwan passou de "usuário" a "fabricante"
 - [Movimento de Canções Populares de Taiwan](/music/台灣民歌運動) — O movimento "cantar nossas próprias canções" nos anos 1970, compartilhando o mesmo espírito da época com a localização da Guoyue
 - [Paisagem Sonora de Taiwan](/music/台灣聲音地景) — Como o ambiente sonoro da ilha penetra nos ouvidos dos compositores
-- [Canções Populares e Melodias de Taiwan](/music/台灣民謠與歌謠) — Nanguan, Beiguan, canções populares em taiwanês, a tradição sonora já existente na ilha antes da Guoyue cruzar o mar
+- [Canções Populares e Melodias de Taiwan](/pt/music/Taiwan Folk Music and Songs) — Nanguan, Beiguan, canções populares em taiwanês, a tradição sonora já existente na ilha antes da Guoyue cruzar o mar
 
 ## Referências
 

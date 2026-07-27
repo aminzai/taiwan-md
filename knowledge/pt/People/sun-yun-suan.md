@@ -77,8 +77,8 @@ Contudo, com a passagem do tempo, historiadores assinalam que a mitologização 
 
 ## Leitura complementar
 
-- [Indústria de semicondutores (半導體產業)](/technology/半導體產業) — Aprofundar a compreensão da trajetória de alta tecnologia catalisada por Sun Yun-suan, Li Kuo-ting e o ITRI.
-- [Sistema de transportes de Taiwan (台灣交通系統)](/lifestyle/台灣交通系統) — Confrontar as Dez Grandes Construções e o pensamento de infraestrutura dos tecnocratas do pós-guerra.
+- [Indústria de semicondutores (半導體產業)](/pt/technology/taiwan-semiconductor-industry) — Aprofundar a compreensão da trajetória de alta tecnologia catalisada por Sun Yun-suan, Li Kuo-ting e o ITRI.
+- [Sistema de transportes de Taiwan (台灣交通系統)](/pt/lifestyle/transportation-system) — Confrontar as Dez Grandes Construções e o pensamento de infraestrutura dos tecnocratas do pós-guerra.
 
 ## Referências
 

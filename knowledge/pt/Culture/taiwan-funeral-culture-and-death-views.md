@@ -105,8 +105,8 @@ No fim de 2023, o acumulado de enterros ecológicos em Taiwan superava 140 mil p
 
 **Leitura complementar**
 
-- [Religião e cultura de templos em Taiwan](/culture/台灣宗教與寺廟文化) — Como a fé popular influencia as visões funerárias
-- [Casamentos, funerais, festas e rituais de passagem em Taiwan](/culture/台灣婚喪喜慶與人生禮俗) — O espectro completo dos rituais do nascimento à morte
+- [Religião e cultura de templos em Taiwan](/pt/culture/taiwan-religion-and-temple-culture) — Como a fé popular influencia as visões funerárias
+- [Casamentos, funerais, festas e rituais de passagem em Taiwan](/pt/culture/taiwanese-life-ceremony-traditions) — O espectro completo dos rituais do nascimento à morte
 - [Justiça ambiental e conflitos NIMBY em Taiwan](/society/台灣環境正義與鄰避爭議) — Conflitos sociais sobre localização de incineradores e cemitérios
 
 ## Referências

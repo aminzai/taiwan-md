@@ -96,6 +96,6 @@ Este "herói anônimo" sustentou, com uma fina camada de filme plástico, a ind�
 
 ## Leitura complementar
 
-- [Cultura de bebidas de chá com leite em Taiwan](/food/台灣手搖飲文化) — O ecossistema cultural alimentar sustentado pela popularização da máquina de selagem
-- [Chá com leite de bolinhas](/food/珍珠奶茶) — A bebida nacional de Taiwan que decolou junto com a máquina de selagem na década de 1980
-- [Indústria de semicondutores](/technology/半導體產業) — Outro caminho de sucesso na indústria de manufatura de hardware de Taiwan na mesma época
+- [Cultura de bebidas de chá com leite em Taiwan](/pt/food/hand-shaken-drink-culture) — O ecossistema cultural alimentar sustentado pela popularização da máquina de selagem
+- [Chá com leite de bolinhas](/pt/food/bubble-tea) — A bebida nacional de Taiwan que decolou junto com a máquina de selagem na década de 1980
+- [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — Outro caminho de sucesso na indústria de manufatura de hardware de Taiwan na mesma época

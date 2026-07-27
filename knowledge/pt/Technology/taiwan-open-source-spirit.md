@@ -127,8 +127,8 @@ O código aberto em Taiwan nunca foi apenas assunto da comunidade técnica. É u
 
 ## Leitura adicional
 
-- [Comunidade open source e g0v](/technology/開源社群與g0v) — fork da narrativa coletiva do governo
+- [Comunidade open source e g0v](/pt/technology/open-source-and-g0v) — fork da narrativa coletiva do governo
 - [História da migração das comunidades online de Taiwan](/technology/台灣網路社群遷徙史) — História geracional do BBS ao Discord
-- [Mini Taiwan Pulse](/technology/mini-taiwan-pulse) — A abordagem open source pessoal da tecnologia cívica, seis semanas e 193 commits transformando dados abertos em trilhas de luz 3D
+- [Mini Taiwan Pulse](/pt/technology/mini-taiwan-pulse-civic-tech) — A abordagem open source pessoal da tecnologia cívica, seis semanas e 193 commits transformando dados abertos em trilhas de luz 3D
 - [As Espadas Gêmeas da Softstar](/technology/大宇雙劍) — Outra "história de Taiwan sobre fazer coisas que superam a escala com paixão" (RPG nascido no Guanghua Market)
-- [Como se pode dormir sem entrar no porão?](/technology/不入地窖焉能睡覺) — Comunidade de jogadores de 6 milhões de membros nascida nos dormitórios da Universidade Central
+- [Como se pode dormir sem entrar no porão?](/pt/technology/into-the-cellar-taiwan-game-podcast) — Comunidade de jogadores de 6 milhões de membros nascida nos dormitórios da Universidade Central

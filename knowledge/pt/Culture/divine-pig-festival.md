@@ -104,9 +104,9 @@ A cultura do porco divino é um microcosmo da fé plural de Taiwan, carregando a
 ## Leitura Complementar
 
 - **[Cultura e Língua Hakka](/culture/客家文化與語言)** — História e raízes de fé do grupo hakka, solo cultural da fé yimin
-- **[Cultura de Feiras de Templo e Formações de Procissão em Taiwan](/culture/台灣廟會與陣頭文化)** — Prática celebrativa e mobilização comunitária da fé popular taiwanesa
-- **[Religião e Cultura de Templos em Taiwan](/culture/台灣宗教與寺廟文化)** — Contexto da fé popular onde se insere o sacrifício do porco divino
-- **[Festas e Celebrações Tradicionais](/culture/傳統節慶與慶典)** — Panorama da cultura sacrificial do Festival Yimin e das festas do calendário lunar
+- **[Cultura de Feiras de Templo e Formações de Procissão em Taiwan](/pt/culture/taiwan-temple-festivals-and-performance-troupes)** — Prática celebrativa e mobilização comunitária da fé popular taiwanesa
+- **[Religião e Cultura de Templos em Taiwan](/pt/culture/taiwan-religion-and-temple-culture)** — Contexto da fé popular onde se insere o sacrifício do porco divino
+- **[Festas e Celebrações Tradicionais](/pt/culture/traditional-festivals-and-celebrations)** — Panorama da cultura sacrificial do Festival Yimin e das festas do calendário lunar
 - **[Grupos Étnicos (Hoklo, Hakka, Indígenas, _Waishengren_, Novos Imigrantes)](/culture/族群（閩南客家原住民外省新住民）)** — Diferenças e fusão das práticas culturais dos grupos hoklo e hakka
 
 ## Referências

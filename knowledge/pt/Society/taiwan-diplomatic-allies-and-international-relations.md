@@ -100,7 +100,7 @@ Em entrevista à emissora pública PTS em março de 2025, o ministro das Relaç�
 
 ### Paraguai: o único da América do Sul, sustentado por 69 anos de tradição colorada
 
-As relações foram estabelecidas em 1957. O Paraguai é **o único aliado diplomático de Taiwan na América do Sul**. Ao longo de mais de seis décadas, a relação sobreviveu ao risco de rompimento após o golpe de 1989 e à pressão prolongada do mercado chinês e da cooptação política; para o contexto completo, consulte “[Paraguai e Taiwan](/society/巴拉圭與台灣/)”.
+As relações foram estabelecidas em 1957. O Paraguai é **o único aliado diplomático de Taiwan na América do Sul**. Ao longo de mais de seis décadas, a relação sobreviveu ao risco de rompimento após o golpe de 1989 e à pressão prolongada do mercado chinês e da cooptação política; para o contexto completo, consulte “[Paraguai e Taiwan](/pt/society/paraguay-taiwan/)”.
 
 O Partido Colorado governa o Paraguai, com algumas interrupções, há mais de 70 anos, desde 1947. Seu anticomunismo e sua proximidade com Taiwan são heranças estruturais da Guerra Fria. O vencedor da eleição de 2023, Santiago Peña, era o candidato colorado, enquanto seu adversário liberal defendia a revisão da política para Taiwan. Ao escolherem o Partido Colorado, os eleitores optaram, na prática, pela manutenção das relações.
 
@@ -277,9 +277,9 @@ Se ela existe, não é 12, nem 113, nem 177, nem 90% ou 30%.
 **Leituras complementares**:
 
 - [Defesa nacional e modernização militar de Taiwan](/society/台灣國防與軍事現代化) — Quando restam apenas 12 aliados, a autodefesa militar é outro pilar que impede o número de chegar a zero
-- [Crises no estreito de Taiwan e evolução das relações entre os dois lados](/history/台海危機與兩岸關係發展) — Como três crises moldaram o isolamento diplomático e a ansiedade de segurança de Taiwan
+- [Crises no estreito de Taiwan e evolução das relações entre os dois lados](/pt/history/taiwan-strait-crises-and-cross-strait-relations) — Como três crises moldaram o isolamento diplomático e a ansiedade de segurança de Taiwan
 - [TSMC](/business/台積電) — A base material do escudo de silício e sua vulnerabilidade estrutural
-- [Cho Jung-tai](/people/卓榮泰) — A trajetória das tarifas entre Estados Unidos e Taiwan em 2026, de 32% para 20% e depois 15%, e o coordenador ministerial da visita de Lai Ching-te a Essuatíni
+- [Cho Jung-tai](/pt/people/cho-jung-tai) — A trajetória das tarifas entre Estados Unidos e Taiwan em 2026, de 32% para 20% e depois 15%, e o coordenador ministerial da visita de Lai Ching-te a Essuatíni
 - [Taiwan e Essuatíni](/society/台灣與史瓦帝尼) — O último aliado africano entre os 12: a história completa dos 58 anos entre o estabelecimento de relações no mesmo dia, em 1968, e a visita de Lai Ching-te em 2026
 
 ## Referências

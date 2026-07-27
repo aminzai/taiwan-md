@@ -96,6 +96,6 @@ A sustentabilidade da economia noturna também entra em debate. Night markets tu
 
 ## Leitura complementar
 
-- [Sistema de transporte de Taiwan](/lifestyle/台灣交通系統) — Como o transporte noturno sustenta a cultura da vida noturna
-- [Cultura das lojas de conveniência de Taiwan](/lifestyle/台灣便利商店文化) — Relação entre conveniências 24 horas e cultura da cidade que não dorme
-- [Religião e templos de Taiwan](/culture/台灣宗教與寺廟文化) — Feiras noturnas de templos e vida noturna de festas tradicionais
+- [Sistema de transporte de Taiwan](/pt/lifestyle/transportation-system) — Como o transporte noturno sustenta a cultura da vida noturna
+- [Cultura das lojas de conveniência de Taiwan](/pt/lifestyle/convenience-store-culture) — Relação entre conveniências 24 horas e cultura da cidade que não dorme
+- [Religião e templos de Taiwan](/pt/culture/taiwan-religion-and-temple-culture) — Feiras noturnas de templos e vida noturna de festas tradicionais

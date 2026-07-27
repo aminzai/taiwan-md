@@ -161,10 +161,10 @@ Ela passou a vida procurando um saco de ar puro. Em Kinmen disse que queria ench
 
 - [Música popular de Taiwan](/music/台灣流行音樂) — A era de ouro e o contexto industrial da música pop mandarim onde ela viveu
 - [Movimento folk de Taiwan](/music/台灣民歌運動) — O movimento de autoconhecimento local da cena musical taiwanesa dos anos 70, sua contemporânea
-- [Período da lei marcial](/history/戒嚴時期) — A estrutura política básica de Taiwan antes de ela partir para o Japão aos 20 anos
-- [Terror branco em Taiwan](/history/台灣白色恐怖) — O clima político de seus anos de formação
-- [Crises no Estreito de Taiwan e desenvolvimento das relações cross-strait](/history/台海危機與兩岸關係發展) — A fronteira da Guerra Fria que sua voz contornou
-- [Lin Ching-hsia](/people/林青霞) — Outra gigante do cinema e TV taiwanesa da mesma geração, outro marco da rede de estrelas sinófono do Leste Asiático nos anos 70-80
+- [Período da lei marcial](/pt/history/martial-law-era) — A estrutura política básica de Taiwan antes de ela partir para o Japão aos 20 anos
+- [Terror branco em Taiwan](/pt/history/taiwan-white-terror) — O clima político de seus anos de formação
+- [Crises no Estreito de Taiwan e desenvolvimento das relações cross-strait](/pt/history/taiwan-strait-crises-and-cross-strait-relations) — A fronteira da Guerra Fria que sua voz contornou
+- [Lin Ching-hsia](/pt/people/brigitte-lin-legendary-actress) — Outra gigante do cinema e TV taiwanesa da mesma geração, outro marco da rede de estrelas sinófono do Leste Asiático nos anos 70-80
 
 ## Referências
 

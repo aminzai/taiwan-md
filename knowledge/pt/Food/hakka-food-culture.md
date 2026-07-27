@@ -130,9 +130,9 @@ Ao saborear a gastronomia Hakka, não só desfrutamos da satisfação gustativa 
 
 ## Leitura Complementar
 
-- [Alimentos Fermentados e Cultura de Conserva de Taiwan](/food/台灣發酵食品與醃製文化): Ciência e cultura dos alimentos conservados de Taiwan
-- [Cultura do Chá](/food/茶文化): Percurso de desenvolvimento da cultura do chá de Taiwan
-- [Petiscos de Taiwan](/food/台灣小吃): Cultura diversificada de petiscos de Taiwan
+- [Alimentos Fermentados e Cultura de Conserva de Taiwan](/pt/food/taiwan-fermented-and-pickled-foods): Ciência e cultura dos alimentos conservados de Taiwan
+- [Cultura do Chá](/pt/food/golden-age-echoes-taiwan-tea-culture): Percurso de desenvolvimento da cultura do chá de Taiwan
+- [Petiscos de Taiwan](/pt/food/taiwanese-street-food): Cultura diversificada de petiscos de Taiwan
 
 ## Referências
 

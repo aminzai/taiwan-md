@@ -95,15 +95,15 @@ Ao mesmo tempo, a nova geração de fãs de anime também está redefinindo o co
 
 O desenvolvimento da cultura de anime e mangá de Taiwan deu um importante ensinamento: a influência cultural é um processo de transformação bidirecional. Taiwan importou animação do Japão, mas em 40 anos usamos dublagem em chinês, feiras dōjin, cosplay, VTuber etc. para transformá-la em "cultura de anime e mangá de Taiwan". Essa cultura não é totalmente igual à do Japão, nem totalmente igual à da China — tem seu próprio vocabulário, suas próprias comunidades, seus próprios caminhos criativos.
 
-Isso corre em dois eixos diferentes do desenvolvimento dos [quadrinhos de Taiwan](/art/台灣漫畫), mas entrelaçados. Quadrinhos focam em "quem desenhou a obra", cultura de anime e mangá foca em "quem viu a obra, como viu, o que fez depois de ver". Um é o lado da criação, o outro o lado do consumo; um são poucos mestres, o outro são centenas de milhares de fãs em ação coletiva.
+Isso corre em dois eixos diferentes do desenvolvimento dos [quadrinhos de Taiwan](/pt/art/taiwanese-comics-and-illustration), mas entrelaçados. Quadrinhos focam em "quem desenhou a obra", cultura de anime e mangá foca em "quem viu a obra, como viu, o que fez depois de ver". Um é o lado da criação, o outro o lado do consumo; um são poucos mestres, o outro são centenas de milhares de fãs em ação coletiva.
 
 Juntos, os dois eixos compõem a imagem completa do ecossistema de anime e mangá de Taiwan.
 
 ## Leitura complementar
 
-- [Quadrinhos de Taiwan](/art/台灣漫畫) — Lado da criação de quadrinhos: genealogia completa de Zheng Wen, Cai Zhizhong, Liu Xingqin, Ao Youxiang, coletivo criativo CCC
+- [Quadrinhos de Taiwan](/pt/art/taiwanese-comics-and-illustration) — Lado da criação de quadrinhos: genealogia completa de Zheng Wen, Cai Zhizhong, Liu Xingqin, Ao Youxiang, coletivo criativo CCC
 - [História da migração das comunidades de rede de Taiwan](/technology/台灣網路社群遷徙史) — Eixo de migração dos fãs de anime no BBS, Wretch, Facebook, Discord
-- [Threads em Taiwan](/technology/Threads在台灣) — Padrão de agregação da comunidade bidimensional na nova plataforma
+- [Threads em Taiwan](/pt/technology/threads-in-taiwan) — Padrão de agregação da comunidade bidimensional na nova plataforma
 
 ## Referências
 
@@ -113,4 +113,4 @@ Juntos, os dois eixos compõem a imagem completa do ecossistema de anime e mang�
 
 ---
 
-_Última verificação: 2026-04-19 (Issue #556 sugerido por @idlccp1984 para separar cultura de anime e mangá, corpo principal de quadrinhos movido para [Quadrinhos de Taiwan](/art/台灣漫畫))_
+_Última verificação: 2026-04-19 (Issue #556 sugerido por @idlccp1984 para separar cultura de anime e mangá, corpo principal de quadrinhos movido para [Quadrinhos de Taiwan](/pt/art/taiwanese-comics-and-illustration))_

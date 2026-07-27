@@ -131,9 +131,9 @@ Das 23 máquinas a virar páginas em uníssono em Linz, setembro de 2017, às es
 
 ## Leituras complementares
 
-- **[Wang Xin-ren (A-lan)](/art/王新仁)** — Artista do mesmo projeto Cem Picos, primeiro artista taiwanês no Art Blocks, colaborador frequente de Wang Lian-cheng
-- **[FAB DAO e Projeto Cem Picos](/art/FAB%20DAO與百岳計畫)** — Contexto completo do projeto NFT solidário de seis artistas onde está Wang Lian-cheng
-- **[Arte de Nova Mídia de Taiwan](/art/台灣新媒體藝術)** — De Huang Xin-jian a Wang Lian-cheng, quarenta anos de genealogia completa da arte de nova mídia de Taiwan
+- **[Wang Xin-ren (A-lan)](/pt/art/wang-hsin-jen-artist)** — Artista do mesmo projeto Cem Picos, primeiro artista taiwanês no Art Blocks, colaborador frequente de Wang Lian-cheng
+- **[FAB DAO e Projeto Cem Picos](/pt/art/fab-dao)** — Contexto completo do projeto NFT solidário de seis artistas onde está Wang Lian-cheng
+- **[Arte de Nova Mídia de Taiwan](/pt/art/taiwan-new-media-art)** — De Huang Xin-jian a Wang Lian-cheng, quarenta anos de genealogia completa da arte de nova mídia de Taiwan
 
 ## Referências
 

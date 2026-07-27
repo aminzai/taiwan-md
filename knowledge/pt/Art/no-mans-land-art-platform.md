@@ -166,11 +166,11 @@ _Setembro de 2017, Edição 34 do Deserto Digital, "Hermenêutica do Arquipélag
 
 ## Leituras complementares
 
-- [Zheng Wenqi](/people/鄭文琦) — 12 anos de prática do Arquipélago do editor-chefe do Deserto Digital: de autor convidado da "Coleção" a iniciador do "Arquipélago Database"
-- [Arte Contemporâneo](/art/當代藝術) — Mapa do discurso da arte contemporânea de Taiwan, a posição do Deserto Digital como plataforma curatorial da Perspectiva do Sul
-- [Arte Nova Mídia de Taiwan](/art/台灣新媒體藝術) — Linhagem da arte nova mídia de Taiwan, do Experimento Local (1995) à Fundação de Arte Digital (2008)
+- [Zheng Wenqi](/pt/people/cheng-wen-chi) — 12 anos de prática do Arquipélago do editor-chefe do Deserto Digital: de autor convidado da "Coleção" a iniciador do "Arquipélago Database"
+- [Arte Contemporâneo](/pt/art/contemporary-art) — Mapa do discurso da arte contemporânea de Taiwan, a posição do Deserto Digital como plataforma curatorial da Perspectiva do Sul
+- [Arte Nova Mídia de Taiwan](/pt/art/taiwan-new-media-art) — Linhagem da arte nova mídia de Taiwan, do Experimento Local (1995) à Fundação de Arte Digital (2008)
 - [Wang Fu Rui](/people/王福瑞) — Fundou a revista NOISE em 1993, editor do protótipo impresso da música experimental de Taiwan, com fio sanguíneo conectado à matriz de hospedagem do Deserto Digital
-- [Construção de Curadoria e Cultura Artística de Taiwan](/art/台灣策展人與藝術文化建構) — Linhagem de curadores de Taiwan, Zheng Wenqi como caso de "rede curatorial de residência transnacional"
+- [Construção de Curadoria e Cultura Artística de Taiwan](/pt/art/taiwanese-curators-and-artistic-cultural-construction) — Linhagem de curadores de Taiwan, Zheng Wenqi como caso de "rede curatorial de residência transnacional"
 
 ## Fontes de imagem
 

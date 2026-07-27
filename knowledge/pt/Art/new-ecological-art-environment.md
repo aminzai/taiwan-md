@@ -143,9 +143,9 @@ Sete anos tão curtos, esporos espalhados por trinta anos. Da próxima vez que p
 
 **Leitura complementar**:
 
-- [Arte Contemporânea de Taiwan](/art/當代藝術) — Contexto geral do desenvolvimento da arte contemporânea de Taiwan pós-lei marcial; o Novo Ecossistema é nó representativo do sul de Taiwan nesse período
-- [Curadores de Taiwan e Construção Cultural Artística](/art/台灣策展人與藝術文化建構) — Processo de localização do conceito curatorial nos anos 1990 em Taiwan; Cheng Ming-chuan do Novo Ecossistema é um exemplo
-- [Nova Mídia Artística de Taiwan](/art/台灣新媒體藝術) — Huang Wen-hao no mesmo período estendeu do IT Park o Experimento Local (ETAT), caso paralelo de 1995
+- [Arte Contemporânea de Taiwan](/pt/art/contemporary-art) — Contexto geral do desenvolvimento da arte contemporânea de Taiwan pós-lei marcial; o Novo Ecossistema é nó representativo do sul de Taiwan nesse período
+- [Curadores de Taiwan e Construção Cultural Artística](/pt/art/taiwanese-curators-and-artistic-cultural-construction) — Processo de localização do conceito curatorial nos anos 1990 em Taiwan; Cheng Ming-chuan do Novo Ecossistema é um exemplo
+- [Nova Mídia Artística de Taiwan](/pt/art/taiwan-new-media-art) — Huang Wen-hao no mesmo período estendeu do IT Park o Experimento Local (ETAT), caso paralelo de 1995
 
 ## Fontes das imagens
 

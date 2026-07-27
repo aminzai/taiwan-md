@@ -27,7 +27,7 @@ translatedAt: '2026-07-25T12:49:30+08:00'
 
 # Mini Taiwan Pulse — Visualização 3D em tempo real do tráfego de Taiwan 🌐
 
-> 📖 **Artigo aprofundado**: este recurso foi atualizado para um artigo de pesquisa aprofundada em tecnologia cívica; a versão completa está em [Mini Taiwan Pulse: como um analista de dados transformou o pulso do tráfego de Taiwan em trilhas 3D luminosas que respiram](/technology/mini-taiwan-pulse) (2026-04-19). Esta página permanece como entrada de índice na lista de recursos.
+> 📖 **Artigo aprofundado**: este recurso foi atualizado para um artigo de pesquisa aprofundada em tecnologia cívica; a versão completa está em [Mini Taiwan Pulse: como um analista de dados transformou o pulso do tráfego de Taiwan em trilhas 3D luminosas que respiram](/pt/technology/mini-taiwan-pulse-civic-tech) (2026-04-19). Esta página permanece como entrada de índice na lista de recursos.
 
 > **Visão geral em 30 segundos:** um projeto de código aberto que transforma a dinâmica em tempo real do transporte de Taiwan em esferas e trilhas luminosas 3D. Voos traçam arcos no céu, navios deixam rastros no mar, trens correm nos trilhos — 23 camadas alternáveis permitem que você «veja» o pulso de Taiwan.
 

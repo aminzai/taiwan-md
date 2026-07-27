@@ -231,7 +231,7 @@ Cada cenário, é ela negociando com «ser definida por quem».
 
 ## Leitura complementar
 
-- [Chang Hsuan e An Pu](/music/張懸與安溥) — outra cantora taiwanesa que de garota virou autora completa, contrapondo duas rotas «de ser definida a auto-definir»
+- [Chang Hsuan e An Pu](/pt/music/deserts-chang-and-anpu) — outra cantora taiwanesa que de garota virou autora completa, contrapondo duas rotas «de ser definida a auto-definir»
 - [Waa Wei](/people/魏如萱) — mesma geração, duas vezes melhor cantora mandarim no Melodia de Ouro, com Rainie Yang forma contraponto estrutural «mercado vs academia»
 - [Música Pop de Taiwan](/music/台灣流行音樂) — estrutura da indústria pop sinófono e contexto histórico do posicionamento duplo drama de idol / cantora
 - [Cultura KTV de Taiwan](/music/台灣KTV文化) — contexto social de «Ambíguo» virar rei do KTV em 2005, e papel do KTV como nó de difusão do pop sinófono

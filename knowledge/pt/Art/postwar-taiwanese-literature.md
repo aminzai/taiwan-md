@@ -157,14 +157,14 @@ Os próximos 42 anos serão escritos por outros.
 
 ## Leituras complementares
 
-- [Literatura taiwanesa após o fim da lei marcial](/art/解嚴後台灣文學) — 1987 fim da lei marcial até 2000: explosão de nativização, género, pluralidade de línguas maternas
-- [Literatura taiwanesa contemporânea](/art/當代台灣文學) — Século XXI: internacionalização de Wu Ming-yi, Lin Yi-han, vaga digital
-- [História da literatura de Taiwan](/art/台灣文學史) — Do período holandês, Ming-Qing, japonês, pós-guerra ao contemporâneo: o fio condutor global
-- [Literatura do período japonês](/art/日治時期文學) — Lai Ho, Lu Ho-jo, Chang Wen-huan, Yang Kui: o ponto de partida do período japonês, a outra ponta da afasia do pós-guerra
+- [Literatura taiwanesa após o fim da lei marcial](/pt/art/post-martial-law-taiwanese-literature) — 1987 fim da lei marcial até 2000: explosão de nativização, género, pluralidade de línguas maternas
+- [Literatura taiwanesa contemporânea](/pt/art/contemporary-taiwanese-literature) — Século XXI: internacionalização de Wu Ming-yi, Lin Yi-han, vaga digital
+- [História da literatura de Taiwan](/pt/art/history-of-taiwanese-literature) — Do período holandês, Ming-Qing, japonês, pós-guerra ao contemporâneo: o fio condutor global
+- [Literatura do período japonês](/pt/art/taiwanese-literature-during-japanese-rule) — Lai Ho, Lu Ho-jo, Chang Wen-huan, Yang Kui: o ponto de partida do período japonês, a outra ponta da afasia do pós-guerra
 - [Lin Hai-yin](/people/林海音) — Editora de suplemento do pós-guerra, promotora da segunda geração _benshengren_
 - [Terror Branco](/history/白色恐怖) — Contexto político da prisão de Yeh Shih-tao, Ilha Verde de Yang Kui, Monte Lukut de Lu Ho-jo
 - [Incidente 228](/history/二二八事件) — Impacto de 1947 no meio literário (Wang Teng-teng, Yang Kui, Ye Tao)
-- [Período da lei marcial](/history/戒嚴時期) — Condições políticas da atividade literária 1949-1987
+- [Período da lei marcial](/pt/history/martial-law-era) — Condições políticas da atividade literária 1949-1987
 
 ---
 

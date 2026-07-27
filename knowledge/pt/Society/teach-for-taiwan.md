@@ -137,12 +137,12 @@ Nas salas de aula das escolas do interior, algumas luzes fluorescentes piscam. L
 
 **Leitura complementar**:
 
-- [Educação no interior de Taiwan](/society/台灣偏鄉教育) — Se quiser ver primeiro a estrutura global, em vez de só a TFT como organização, este artigo abre as quatro esferas: crianças, escolas, família e comunidade, e imaginário de sucesso social
+- [Educação no interior de Taiwan](/pt/society/taiwan-rural-education) — Se quiser ver primeiro a estrutura global, em vez de só a TFT como organização, este artigo abre as quatro esferas: crianças, escolas, família e comunidade, e imaginário de sucesso social
 - [Crise do envelhecimento populacional em Taiwan](/society/台灣少子化危機) — O envelhecimento é a pressão fundamental sobre a sobrevivência das escolas do interior, a perda contínua de alunos leva as pequenas escolas a fusões e encerramentos
 - [Justiça territorial e domínios tradicionais dos povos indígenas de Taiwan](/society/台灣原住民族土地正義與傳統領域) — Muitas escolas onde a TFT atua ficam em áreas indígenas, os problemas educacionais entrelaçam-se com justiça territorial e continuidade cultural
 - [Yan Chang-shou](/people/嚴長壽) — Um dos catalisadores da TFT, fundador da Fundação Plataforma Pública, as suas experiências educacionais em Taitung e a TFT são dois afluentes do mesmo rio
 - [Cultura de voluntariado e participação cívica em Taiwan](/society/台灣災難志工文化) — A tradição de voluntariado da sociedade civil taiwanesa é o solo que permite à TFT recrutar quatrocentas pessoas
-- [Escola Miscelânea](/society/雜學校) — Outra startup educacional alternativa pós-Movimento dos Girassóis, a TFT com recrutamento organizacional e a Escola Miscelânea com percurso de carnaval são duas estratégias de curadoria
+- [Escola Miscelânea](/pt/society/za-share) — Outra startup educacional alternativa pós-Movimento dos Girassóis, a TFT com recrutamento organizacional e a Escola Miscelânea com percurso de carnaval são duas estratégias de curadoria
 
 ## Referências
 

@@ -115,8 +115,8 @@ Em quinze anos, os Vast & Hazy viveram três mutações de identidade: a formaç
 
 - [草東沒有派對 (No Party for Cao Dong)](/people/草東沒有派對) — No mesmo final dos anos 2010 do circuito independente de Taiwan, a contraposição entre a via do rock político e a via suave dos VH
 - [魏如萱 (Waa Wei)](/people/魏如萱) — Outra musicista independente de Taiwan que trilha o caminho "obra primeiro, exposição depois"
-- [台灣獨立音樂 (Música independente de Taiwan)](/music/台灣獨立音樂) — O pano de fundo ecológico onde os VH emergiram
-- [Hello Nico](/people/Hello-Nico) — Pares da mesma geração no circuito independente, silêncio de oito anos até ao regresso em 2024 com 《Plan B》, outra contraposição de suavidade e repressão
+- [台灣獨立音樂 (Música independente de Taiwan)](/pt/music/indie-music-scene) — O pano de fundo ecológico onde os VH emergiram
+- [Hello Nico](/pt/people/hello-nico-band) — Pares da mesma geração no circuito independente, silêncio de oito anos até ao regresso em 2024 com 《Plan B》, outra contraposição de suavidade e repressão
 
 ## Referências
 

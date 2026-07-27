@@ -108,10 +108,10 @@ Referências acadêmicas em chinês: Li Tai-yuan (2020) _Revitalização das Lí
 
 **Leitura complementar**:
 
-- [Educação nas áreas remotas de Taiwan](/society/台灣偏鄉教育) — Os problemas das escolas nas terras natais não estão só no desempenho acadêmico, mas também em saber se a língua e a cultura podem ser acolhidas pela escola.
-- [História e movimento de retificação de nomes dos povos indígenas de Taiwan](/history/台灣原住民族歷史與正名運動) — A revitalização linguística não se separa da retificação de nomes étnicos, da reconstrução narrativa histórica e da reconstituição do sujeito político.
+- [Educação nas áreas remotas de Taiwan](/pt/society/taiwan-rural-education) — Os problemas das escolas nas terras natais não estão só no desempenho acadêmico, mas também em saber se a língua e a cultura podem ser acolhidas pela escola.
+- [História e movimento de retificação de nomes dos povos indígenas de Taiwan](/pt/history/indigenous-peoples-history-and-naming-movement) — A revitalização linguística não se separa da retificação de nomes étnicos, da reconstrução narrativa histórica e da reconstituição do sujeito político.
 - [Justiça territorial e domínios tradicionais dos povos indígenas de Taiwan](/society/台灣原住民族土地正義與傳統領域) — Língua, terra e modo de vida sempre foram uma mesma rede.
-- [Mapa cultural dos 16 povos indígenas de Taiwan](/culture/台灣原住民族16族文化地圖) — Para ver a distribuição e o contorno cultural de cada povo, este artigo oferece o mapa geral.
+- [Mapa cultural dos 16 povos indígenas de Taiwan](/pt/culture/indigenous-peoples-16-tribes-cultural-map) — Para ver a distribuição e o contorno cultural de cada povo, este artigo oferece o mapa geral.
 - [Cultura alimentar dos povos indígenas de Taiwan](/food/台灣原住民飲食文化) — O que a alimentação preserva não é só sabor; preserva também língua, toponímia e conhecimento ecológico.
-- [Sabedoria ecológica e conservação ambiental dos povos indígenas de Taiwan](/nature/台灣原住民生態智慧與環境保育) — As línguas indígenas contêm vasto conhecimento de interação com montanhas, rios e estações.
+- [Sabedoria ecológica e conservação ambiental dos povos indígenas de Taiwan](/pt/nature/taiwanese-indigenous-ecological-wisdom-conservation) — As línguas indígenas contêm vasto conhecimento de interação com montanhas, rios e estações.
 - [Arte contemporânea dos povos indígenas de Taiwan](/art/台灣原住民當代藝術) — A arte contemporânea é outra via para que as línguas e culturas indígenas voltem a ser vistas.

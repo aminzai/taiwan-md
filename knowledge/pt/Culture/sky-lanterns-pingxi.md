@@ -193,11 +193,11 @@ Pingxi está testando esta quarta via, o vale no próximo Festival de Yuanxiao s
 
 **Leitura adicional:**
 
-- [Cultura de Templos e Processos de Taiwan](/culture/台灣廟會與陣頭文化) — Assim como as lanternas do céu, outro caso de puxa-e-empurra entre patrimônio cultural e questões ambientais
-- [Festivais Tradicionais e Celebrações](/culture/傳統節慶與慶典) — O panorama geral dos festivais de Taiwan, vendo a posição das lanternas do céu no Festival de Yuanxiao e outros festivais
-- [Cultura Religiosa e de Templos de Taiwan](/culture/台灣宗教與寺廟文化) — A continuação da crença em Mazu do Templo Cheng'an até o símbolo de pedidos de bênção
+- [Cultura de Templos e Processos de Taiwan](/pt/culture/taiwan-temple-festivals-and-performance-troupes) — Assim como as lanternas do céu, outro caso de puxa-e-empurra entre patrimônio cultural e questões ambientais
+- [Festivais Tradicionais e Celebrações](/pt/culture/traditional-festivals-and-celebrations) — O panorama geral dos festivais de Taiwan, vendo a posição das lanternas do céu no Festival de Yuanxiao e outros festivais
+- [Cultura Religiosa e de Templos de Taiwan](/pt/culture/taiwan-religion-and-temple-culture) — A continuação da crença em Mazu do Templo Cheng'an até o símbolo de pedidos de bênção
 - [História das Ferrovias de Taiwan](/history/台灣鐵道史) — Por que a Ferrovia de Pingxi permitiu que o festival de lanternas do céu deste vale se tornasse uma marca internacional
-- [Ecossistema Florestal de Taiwan](/nature/台灣森林生態系) — O impacto real dos destroços de lanternas do céu no sistema das montanhas
+- [Ecossistema Florestal de Taiwan](/pt/nature/taiwan-forest-ecosystems) — O impacto real dos destroços de lanternas do céu no sistema das montanhas
 
 ## Fontes de Imagem
 

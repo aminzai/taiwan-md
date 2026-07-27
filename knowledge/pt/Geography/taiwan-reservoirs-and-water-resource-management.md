@@ -243,6 +243,6 @@ A água é a fonte da vida e a base do desenvolvimento econômico. Nesta bela il
 
 Leituras adicionais:
 
-- [Sistema de rios em Taiwan e características hidrológicas](/geography/台灣河川系統與水文特色)
+- [Sistema de rios em Taiwan e características hidrológicas](/pt/geography/taiwan-river-systems-and-hydrology)
 - [Clima](/geography/氣候)
-- [Movimentos tectônicos da placa de Taiwan e atividades sísmicas](/geography/台灣板塊運動與地震活動)
+- [Movimentos tectônicos da placa de Taiwan e atividades sísmicas](/pt/geography/tectonic-plates-and-seismic-activity)

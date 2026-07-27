@@ -155,11 +155,11 @@ A lista da _Time_ continuará atualizada. O LPA da conferência de resultados co
 
 ## Leitura complementar
 
-- [Terry Gou (郭台銘)](/people/郭台銘) — Fundador da Hon Hai, da rosca de 100 mil da mãe ao império global de manufatura
-- [Empresas de Taiwan: TSMC (台積電)](/economy/台灣企業：台積電) — Outro carro-chefe internacional de Taiwan, mas na rota de fabricação por encomenda especializada em semicondutores; estrutura de governança radicalmente diferente do império de fabricação por encomenda da Hon Hai
+- [Terry Gou (郭台銘)](/pt/people/terry-gou) — Fundador da Hon Hai, da rosca de 100 mil da mãe ao império global de manufatura
+- [Empresas de Taiwan: TSMC (台積電)](/pt/economy/tsmc) — Outro carro-chefe internacional de Taiwan, mas na rota de fabricação por encomenda especializada em semicondutores; estrutura de governança radicalmente diferente do império de fabricação por encomenda da Hon Hai
 - [Mercado de ações e mercado de capitais de Taiwan](/economy/台灣股市與資本市場) — Ação da Hon Hai código 2317, como opera o mecanismo de divulgação de fatos relevantes
-- [Transformação e upgrade da indústria de Taiwan](/economy/台灣產業轉型升級) — Da fabricação por encomenda intensiva em mão de obra à montagem de servidores de IA, a Hon Hai é o microcosmo dessa trajetória
-- [Comércio exterior e cadeia de suprimentos global de Taiwan](/economy/台灣外貿與全球供應鏈) — 24 países 900 mil pessoas de布局 global, o maior laboratório real de governança transfronteiriça da manufatura de Taiwan
+- [Transformação e upgrade da indústria de Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) — Da fabricação por encomenda intensiva em mão de obra à montagem de servidores de IA, a Hon Hai é o microcosmo dessa trajetória
+- [Comércio exterior e cadeia de suprimentos global de Taiwan](/pt/economy/taiwan-foreign-trade-and-global-supply-chain) — 24 países 900 mil pessoas de布局 global, o maior laboratório real de governança transfronteiriça da manufatura de Taiwan
 
 ---
 

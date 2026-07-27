@@ -84,7 +84,7 @@ Aquela cota de 10 dólares paga na matrícula representava que já tivemos a cha
 
 **Leitura complementar**:
 
-- [Cultura dos minimercados de Taiwan](/lifestyle/台灣便利商店文化) — A principal força de abastecimento alimentar escolar após as cooperativas, o caso mais típico de "rede global + adaptação local" no varejo taiwanês pós-fim da lei marcial
+- [Cultura dos minimercados de Taiwan](/pt/lifestyle/convenience-store-culture) — A principal força de abastecimento alimentar escolar após as cooperativas, o caso mais típico de "rede global + adaptação local" no varejo taiwanês pós-fim da lei marcial
 
 ## Referências
 

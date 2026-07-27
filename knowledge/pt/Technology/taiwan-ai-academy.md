@@ -295,9 +295,9 @@ A ligação telefônica não concluída deixou um desejo não realizado, e dez m
 
 **Leitura complementar**:
 
-- [A Ascensão da Ilha de IA: Desenvolvimento e Estratégias Futuras da Inteligência Artificial em Taiwan](/technology/AI發展) — Narrativa panorâmica da estrutura de políticas de IA de Taiwan, layout industrial, cinco áreas estratégicas e cooperação internacional
+- [A Ascensão da Ilha de IA: Desenvolvimento e Estratégias Futuras da Inteligência Artificial em Taiwan](/pt/technology/ai-development-in-taiwan) — Narrativa panorâmica da estrutura de políticas de IA de Taiwan, layout industrial, cinco áreas estratégicas e cooperação internacional
 - [IA no Dia a Dia de Taiwan](/technology/台灣AI日常) — Implementação prática de IA em cenários diários como conveniências, hospitais, campos de arroz e salas de aula em Taiwan
-- [Indústria de Semicondutores](/technology/半導體產業) — Como os engenheiros de IA formados pela AIA em oito anos se reconectam à cadeia ecológica de TIC existente de uma potência de semicondutores
+- [Indústria de Semicondutores](/pt/technology/taiwan-semiconductor-industry) — Como os engenheiros de IA formados pela AIA em oito anos se reconectam à cadeia ecológica de TIC existente de uma potência de semicondutores
 - [Por que Taiwan Precisa de Seu Próprio Banco de Conhecimento](/about/為什麼台灣需要自己的知識庫) — O presidente da faculdade, Tsai Ming-shun, diz que a proporção de dados locais de Taiwan no mundo da internet é inferior a 0,1%; este artigo quantifica essa lacuna e discute quem deve escrever a versão
 
 ## Fontes de Imagem

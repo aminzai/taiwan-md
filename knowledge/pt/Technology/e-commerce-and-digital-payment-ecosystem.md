@@ -130,10 +130,10 @@ As guerras comerciais nesta ilha não param. Cada novo QR code, cada novo centro
 
 **Leitura Complementar**:
 
-- [Desenvolvimento Fintech em Taiwan](/economy/台灣金融科技發展) — Panorama da transformação digital do setor financeiro, de bancos puramente digitais a open banking e sandbox regulatório
-- [Construção de Rede 5G e Transformação Digital em Taiwan](/technology/台灣5G網路建設與數位轉型) — Como infraestrutura 5G muda rastreamento logístico, live commerce e varejo inteligente
-- [Desenvolvimento da Indústria de Software em Taiwan](/technology/台灣軟體產業發展) — De outsourcing a marcas próprias, como a indústria de software sustenta a base técnica das plataformas de e-commerce
-- [Indústria de Semicondutores](/technology/半導體產業) — De onde vêm os chips que sustentam infraestrutura de pagamento digital e e-commerce
+- [Desenvolvimento Fintech em Taiwan](/pt/economy/taiwan-fintech-development) — Panorama da transformação digital do setor financeiro, de bancos puramente digitais a open banking e sandbox regulatório
+- [Construção de Rede 5G e Transformação Digital em Taiwan](/pt/technology/taiwan-5g-digital-transformation) — Como infraestrutura 5G muda rastreamento logístico, live commerce e varejo inteligente
+- [Desenvolvimento da Indústria de Software em Taiwan](/pt/technology/taiwan-software-industry-development) — De outsourcing a marcas próprias, como a indústria de software sustenta a base técnica das plataformas de e-commerce
+- [Indústria de Semicondutores](/pt/technology/taiwan-semiconductor-industry) — De onde vêm os chips que sustentam infraestrutura de pagamento digital e e-commerce
 
 ## Referências
 

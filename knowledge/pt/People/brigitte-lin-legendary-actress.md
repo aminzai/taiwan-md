@@ -139,7 +139,7 @@ As novas gerações, ao rever os seus clássicos, redescobrem o seu encanto, pro
 
 ## Leituras complementares
 
-- [Sanmao](/People/三毛): argumentista de _Pó Vermelho_, que valeu a Lin Ching-hsia o Cavalo de Ouro de Melhor Actriz
+- [Sanmao](/pt/people/san-mao): argumentista de _Pó Vermelho_, que valeu a Lin Ching-hsia o Cavalo de Ouro de Melhor Actriz
 
 ## Referências
 

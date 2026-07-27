@@ -139,4 +139,4 @@ Suas obras representativas abrangem coletâneas de contos _A Raça dos Generais_
 ## Leitura complementar
 
 - [Museu da Literatura de Taiwan — Chen Yingzhen](https://www.nmtl.gov.tw/) — Vida, cronologia de obras e acervo de manuscritos de Chen Yingzhen
-- [Pai Hsien-yung](/people/白先勇) — Nomeada da literatura taiwanesa da mesma geração, célebre por _Taipei People_
+- [Pai Hsien-yung](/pt/people/pai-hsien-yung-literary-master) — Nomeada da literatura taiwanesa da mesma geração, célebre por _Taipei People_

@@ -136,10 +136,10 @@ Uma mulher que a vida inteira fugiu, no fim virou rota dos outros. Ensinou uma g
 
 ## Leituras Complementares
 
-- [Pai Hsien-yung](/People/白先勇): quem levou a estreia de Sanmao à _Literatura Moderna_
-- [Lin Ching-hsia](/People/林青霞): _Poeira Vermelha_ deu-lhe o prémio, tirou-lhe uma amiga
+- [Pai Hsien-yung](/pt/people/pai-hsien-yung-literary-master): quem levou a estreia de Sanmao à _Literatura Moderna_
+- [Lin Ching-hsia](/pt/people/brigitte-lin-legendary-actress): _Poeira Vermelha_ deu-lhe o prémio, tirou-lhe uma amiga
 - [Movimento Folk de Taiwan](/Music/台灣民歌運動): o solo onde nasceu _Oliveira_
-- [Ensaio de Taiwan](/Art/台灣散文): o território literário que Sanmao ocupou
+- [Ensaio de Taiwan](/pt/art/taiwanese-prose): o território literário que Sanmao ocupou
 - [Hsi Mu-jung](/People/席慕蓉): outra escritora da mesma geração que trouxe a terra estranha para o coração dos taiwaneses
 
 ## Referências

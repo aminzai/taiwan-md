@@ -117,6 +117,6 @@ Diante dos desafios do século XXI, talvez Taiwan deva repensar sua identidade m
 
 Leituras adicionais:
 
-- [Período de Zheng Xingming](/history/荷西明鄭時期)
-- [Período Qing-Da](/history/清治時期)
+- [Período de Zheng Xingming](/pt/history/dutch-spanish-and-koxinga-era)
+- [Período Qing-Da](/pt/history/qing-dynasty-rule)
 - [Formação Costeira e Paisagens Marítimas de Taiwan](/geography/台灣海岸地形與海洋地景)

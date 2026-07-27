@@ -235,14 +235,14 @@ O Parque Nacional Taroko talvez seja reaberto em 7 anos. Mas após o 0403, aquel
 
 ## Leitura Adicional
 
-- [Condado de Yilan](/geography/宜蘭縣) — Artigo同期 da série 22 Condados e Cidades, os Kavalan da comunidade Kalawan nos anos 1830 migraram do sul da Planície Lanyang (Yilan) para Hualien; os dois artigos são extensões um do outro
-- [Cidade de Keelung](/geography/基隆市) — Artigo piloto inicial da série 22 Condados e Cidades, junto com Hualien, são condados costeiros do nordeste "invisíveis para a capital"
-- [Parque Nacional Taroko](/nature/台灣國家公園) — O 4º Parque Nacional de Taiwan, estabelecido em 1986; estima-se 7 anos de recuperação após o terremoto 0403
-- [Movimento Tectônico e Atividade Sísmica de Taiwan](/geography/台灣板塊運動與地震活動) — A posição do terremoto 0403 na história sísmica de Taiwan: sistema de falhas do vale na zona de colisão entre a Placa do Mar das Filipinas e a Placa Euroasiática
-- [História e Movimento de Reconhecimento dos Povos Indígenas de Taiwan](/history/台灣原住民族歷史與正名運動) — Trajetórias do movimento de reconhecimento de Sakizaya, Taroko, Seediq e Kavalan em Hualien
-- [Mapa Cultural das 16 Etnias Indígenas de Taiwan](/culture/台灣原住民族16族文化地圖) — Distribuição de Amis, Taroko, Sakizaya, Seediq, Bouyei e Kavalan em Hualien
+- [Condado de Yilan](/pt/geography/yilan-county) — Artigo同期 da série 22 Condados e Cidades, os Kavalan da comunidade Kalawan nos anos 1830 migraram do sul da Planície Lanyang (Yilan) para Hualien; os dois artigos são extensões um do outro
+- [Cidade de Keelung](/pt/geography/keelung-city) — Artigo piloto inicial da série 22 Condados e Cidades, junto com Hualien, são condados costeiros do nordeste "invisíveis para a capital"
+- [Parque Nacional Taroko](/pt/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — O 4º Parque Nacional de Taiwan, estabelecido em 1986; estima-se 7 anos de recuperação após o terremoto 0403
+- [Movimento Tectônico e Atividade Sísmica de Taiwan](/pt/geography/tectonic-plates-and-seismic-activity) — A posição do terremoto 0403 na história sísmica de Taiwan: sistema de falhas do vale na zona de colisão entre a Placa do Mar das Filipinas e a Placa Euroasiática
+- [História e Movimento de Reconhecimento dos Povos Indígenas de Taiwan](/pt/history/indigenous-peoples-history-and-naming-movement) — Trajetórias do movimento de reconhecimento de Sakizaya, Taroko, Seediq e Kavalan em Hualien
+- [Mapa Cultural das 16 Etnias Indígenas de Taiwan](/pt/culture/indigenous-peoples-16-tribes-cultural-map) — Distribuição de Amis, Taroko, Sakizaya, Seediq, Bouyei e Kavalan em Hualien
 - [Período do Domínio Japonês](/history/日治時期) — Aldeias de imigração Fengtian, Yoshino, Lindian em 1913; Incidente Taroko em 1914; Migração em grupo dos Bouyei nos anos 1930
-- [Yi-Shiong Lin](/people/林義雄) — Ativista do Movimento Extrapartido, nascido em Wujie, Yilan, compartilha o mesmo eixo de democratização de Taiwan dos anos 1980 com Hualien
+- [Yi-Shiong Lin](/pt/people/lin-yi-hsiung-democracy-advocate-tragedy-survivor) — Ativista do Movimento Extrapartido, nascido em Wujie, Yilan, compartilha o mesmo eixo de democratização de Taiwan dos anos 1980 com Hualien
 
 ## Fontes de Imagem
 

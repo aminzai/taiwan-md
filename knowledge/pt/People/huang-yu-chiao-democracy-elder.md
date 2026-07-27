@@ -100,10 +100,10 @@ O seu epitáfio não devia ser «heroína do Incidente de Chungli», mas sim: **
 **Leitura complementar**:
 
 - [Incidente de Chungli](/history/台灣選舉與政黨政治) — A noite de 19 de novembro de 1977 que mudou a política de rua de Taiwan
-- [Incidente de Formosa](/history/美麗島事件) — Dois anos depois, outro grande revés do movimento Tangwai, o contexto de terror em que Huang Yu-chiao viveu
-- [Transição Democrática de Taiwan](/history/台灣民主轉型) — Como esta geração de deputados provinciais do Tangwai abriu espaço democrático dentro do regime autoritário
-- [Lee Teng-hui](/people/李登輝) — Governador provincial com quem ela debateu na Assembleia entre 1981 e 1984, depois primeiro presidente eleito democraticamente de Taiwan
-- [Lu Hsiu-lien](/people/呂秀蓮) — Outra figura feminina do Tangwai contemporânea de Huang Yu-chiao, mas com percurso completamente diferente
+- [Incidente de Formosa](/pt/history/kaohsiung-incident-formosa-incident) — Dois anos depois, outro grande revés do movimento Tangwai, o contexto de terror em que Huang Yu-chiao viveu
+- [Transição Democrática de Taiwan](/pt/history/taiwan-democratization) — Como esta geração de deputados provinciais do Tangwai abriu espaço democrático dentro do regime autoritário
+- [Lee Teng-hui](/pt/people/lee-teng-hui) — Governador provincial com quem ela debateu na Assembleia entre 1981 e 1984, depois primeiro presidente eleito democraticamente de Taiwan
+- [Lu Hsiu-lien](/pt/people/annette-lu) — Outra figura feminina do Tangwai contemporânea de Huang Yu-chiao, mas com percurso completamente diferente
 
 ## Referências
 

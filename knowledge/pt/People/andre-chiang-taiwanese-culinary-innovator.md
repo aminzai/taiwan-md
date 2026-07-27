@@ -183,9 +183,9 @@ Singapura tem um restaurante novo que atravessa cento e trinta e nove anos, Taip
 **Leitura complementar**:
 
 - [Nieh Yung-chen](/people/聶永真) — Outro nome que levou Taiwan ao palco internacional, com design gráfico e não cozinha, a fazer o mundo ver a visibilidade de Taiwan
-- [Ang Lee](/people/李安) — Igualmente a contar histórias orientais dentro do sistema ocidental, a tatear «quem sou eu» e «de onde venho»
-- [Jensen Huang](/people/黃仁勳) — Mesmo background taiwanês, no topo da indústria internacional, mas caminho oposto: fica no núcleo do sistema, torna-se insubstituível
-- [Wu Pao-chun](/people/吳寶春) — Igualmente a conquistar jurados franceses com ingredientes e materiais de Taiwan, artesão do pão e da fine dining, duas estradas
+- [Ang Lee](/pt/people/ang-lee) — Igualmente a contar histórias orientais dentro do sistema ocidental, a tatear «quem sou eu» e «de onde venho»
+- [Jensen Huang](/pt/people/jensen-huang) — Mesmo background taiwanês, no topo da indústria internacional, mas caminho oposto: fica no núcleo do sistema, torna-se insubstituível
+- [Wu Pao-chun](/pt/people/wu-bao-chun) — Igualmente a conquistar jurados franceses com ingredientes e materiais de Taiwan, artesão do pão e da fine dining, duas estradas
 - [Huang Shan-liao](/people/黃山料) — Igualmente jovem taiwanês no palco mundial, da passarela de moda virou-se para a secretária, a escrita substituiu o ofício original
 
 ## Fontes das imagens

@@ -204,11 +204,11 @@ Da próxima vez que for a Hsinchu, não fique só no parque a ver fábricas de c
 
 ## Leituras complementares
 
-- [Keelung](/geography/基隆市) — piloto da série 22 condados e cidades: da bandeira espanhola de 1626 ao 7.º maior porto de contentores do mundo em 1984, memória de cidade portuária, tal como Hsinchu tem base de linha da frente da Guerra Fria (Ilha da Paz de Keelung vs Base Aérea de Hsinchu) e destino de cidade provincial
+- [Keelung](/pt/geography/keelung-city) — piloto da série 22 condados e cidades: da bandeira espanhola de 1626 ao 7.º maior porto de contentores do mundo em 1984, memória de cidade portuária, tal como Hsinchu tem base de linha da frente da Guerra Fria (Ilha da Paz de Keelung vs Base Aérea de Hsinchu) e destino de cidade provincial
 - [Chiayi](/geography/嘉義市) — série 22 condados e cidades: também cidade provincial partida pela transferência da sede do condado (1991 sede do condado de Chiayi para Taibao vs 1989 sede do condado de Hsinchu para Chupei), comparar dois desfechos de divisão condado-cidade
 - [Miaoli](/geography/苗栗縣) — série 22 condados e cidades: condado vizinho cisso do condado de Hsinchu em 1887; parques de Lungtan e Tungluo do parque científico ficam em Miaoli, transbordamento industrial de Hsinchu
 - [Nantou](/geography/南投縣) — série 22 condados e cidades: único condado sem mar, tal como Hsinchu tem estrutura geográfica de "escala ≠ importância" (Nantou sustenta todo o sistema da Cordilheira Central / Hsinchu sustenta todo o cluster de semicondutores)
-- [Taoyuan](/geography/桃園市) — vizinho norte de Hsinchu; ITRI em 1973 considerou inicialmente Longtan, Taoyuan, depois escolheu Hsinchu; parque de Lungtan do parque científico fica entre Taoyuan e Hsinchu
+- [Taoyuan](/pt/geography/taoyuan-city) — vizinho norte de Hsinchu; ITRI em 1973 considerou inicialmente Longtan, Taoyuan, depois escolheu Hsinchu; parque de Lungtan do parque científico fica entre Taoyuan e Hsinchu
 - [Condado de Hsinchu](/geography/新竹縣) — 1982 separado da cidade de Hsinchu, 1989 sede para Chupei; Baoshan, onde fica a fábrica de 2 nm da TSMC, é distrito vizinho
 - [Indústria de semicondutores de Taiwan](/technology/台灣半導體產業) — do ITRI 1973 ao 2 nm da TSMC 2025, história industrial completa; Hsinchu é a coordenada física de todas as linhas temporais
 - [TSMC](/companies/台積電) — fundada em 1987 no Parque Científico de Hsinchu; 4.º trimestre 2025, 2 nm em produção na fábrica de Baoshan

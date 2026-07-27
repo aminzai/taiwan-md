@@ -333,7 +333,7 @@ Os autores dessa história continuam sendo todos os taiwaneses.
 
 **Leituras adicionais**:
 
-- [Fatura: o papel que transformou toda a população em fiscal tributário em 1951](/economy/發票) — a fatura uniforme foi uma infraestrutura fiscal decisiva no mesmo período do milagre econômico; em seu primeiro ano, iniciado em 1951, fez a arrecadação do imposto sobre vendas aumentar 75%
+- [Fatura: o papel que transformou toda a população em fiscal tributário em 1951](/pt/economy/taiwan-uniform-invoice) — a fatura uniforme foi uma infraestrutura fiscal decisiva no mesmo período do milagre econômico; em seu primeiro ano, iniciado em 1951, fez a arrecadação do imposto sobre vendas aumentar 75%
 - [Dez Grandes Projetos de Infraestrutura: uma aposta de NT$ 200 bilhões sobre US$ 1 bilhão em reservas cambiais](/history/十大建設) — o contexto completo, as controvérsias e a narrativa política daquela grande aposta da década de 1970
 - [Boas políticas que atravessaram os partidos](/history/跨黨派的好政策) — a afirmação amplamente difundida de que a reforma agrária “impulsionou o milagre econômico de Taiwan” não resiste, na verdade, a um exame rigoroso
 

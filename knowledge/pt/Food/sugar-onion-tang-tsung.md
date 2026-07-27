@@ -89,7 +89,7 @@ A história do tang-tsung é, em essência, uma história de «resiliência». N
 
 ## Leitura complementar
 
-- [Chifre-de-ouro](/food/金牛角) — Outro doce portador de memória local taiwanesa, difundido a partir da Rua Velha de Sanxia para toda a ilha
+- [Chifre-de-ouro](/pt/food/golden-croissant) — Outro doce portador de memória local taiwanesa, difundido a partir da Rua Velha de Sanxia para toda a ilha
 
 ## Referências
 

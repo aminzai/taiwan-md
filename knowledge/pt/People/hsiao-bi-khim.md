@@ -137,13 +137,13 @@ Mas talvez seja a resposta a que Taiwan terá de se habituar nas próximas déca
 
 **Leitura complementar**:
 
-- [Encontro Cheng-Xi 2026: líderes do KMT e PCC dez anos depois, dez minutos](/society/2026鄭習會與國共十年再會) — Quando Cheng Li-wen fala em Pequim, a resposta discreta de Hsiao Bi-khim no palco internacional esconde outra questão de "quem representa Taiwan"
-- [Lai Ching-te](/people/賴清德) — A outra metade da chapa: tecnocrata da administração interna encontra gata guerreira da diplomacia
-- [Cheng Li-wen](/people/鄭麗文) — Leitura comparada: as duas figuras políticas femininas com maior exposição mediática em 2026, percursos completamente opostos
-- [Crise do Estreito de Taiwan e desenvolvimento das relações cross-strait](/history/台海危機與兩岸關係發展) — Os três anos de Hsiao Bi-khim em Washington coincidem com a viragem total da política americana para a China
-- [Transição democrática de Taiwan](/history/台灣民主轉型) — O pai de Hsiao Bi-khim na Faculdade Teológica de Tainan, a estrutura presbiteriana, foi uma das fontes espirituais importantes da democratização de Taiwan
-- [Cho Jung-tai](/people/卓榮泰) — Primeiro-ministro de Lai Ching-te, na cerimónia de transmissão de 20-05-2024 Hsiao Bi-khim entrega o selo a este homem
-- [Hsu Chiao-hsin](/people/徐巧芯) — Outro protótipo feminino na mesma estrutura política, percurso e Taiwan opostos aos de Hsiao Bi-khim
+- [Encontro Cheng-Xi 2026: líderes do KMT e PCC dez anos depois, dez minutos](/pt/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Quando Cheng Li-wen fala em Pequim, a resposta discreta de Hsiao Bi-khim no palco internacional esconde outra questão de "quem representa Taiwan"
+- [Lai Ching-te](/pt/people/lai-ching-te) — A outra metade da chapa: tecnocrata da administração interna encontra gata guerreira da diplomacia
+- [Cheng Li-wen](/pt/people/cheng-li-wun) — Leitura comparada: as duas figuras políticas femininas com maior exposição mediática em 2026, percursos completamente opostos
+- [Crise do Estreito de Taiwan e desenvolvimento das relações cross-strait](/pt/history/taiwan-strait-crises-and-cross-strait-relations) — Os três anos de Hsiao Bi-khim em Washington coincidem com a viragem total da política americana para a China
+- [Transição democrática de Taiwan](/pt/history/taiwan-democratization) — O pai de Hsiao Bi-khim na Faculdade Teológica de Tainan, a estrutura presbiteriana, foi uma das fontes espirituais importantes da democratização de Taiwan
+- [Cho Jung-tai](/pt/people/cho-jung-tai) — Primeiro-ministro de Lai Ching-te, na cerimónia de transmissão de 20-05-2024 Hsiao Bi-khim entrega o selo a este homem
+- [Hsu Chiao-hsin](/pt/people/hsu-chiao-hsin) — Outro protótipo feminino na mesma estrutura política, percurso e Taiwan opostos aos de Hsiao Bi-khim
 
 ## Referências
 

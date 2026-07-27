@@ -165,8 +165,8 @@ Prémio Juvenil de Artes e Letras, Prémio Literário Sun Yat-sen, Prémio de Re
 
 ## Leitura complementar
 
-- [Poesia Moderna de Taiwan](/art/台灣現代詩) — Braço poético completo dos modernistas de Chi Hsien, Blue Star, Genesis até à polémica da literatura nativista
-- [Chang Hsuan e Anpu](/music/張懸與安溥) — A lista de leitura de Anpu inclui Cheng Chou-yu, ao lado de Kafka, Mishima Yukio, Shen Cong-wen, Bei Dao, Eliot
+- [Poesia Moderna de Taiwan](/pt/art/taiwanese-modern-poetry) — Braço poético completo dos modernistas de Chi Hsien, Blue Star, Genesis até à polémica da literatura nativista
+- [Chang Hsuan e Anpu](/pt/music/deserts-chang-and-anpu) — A lista de leitura de Anpu inclui Cheng Chou-yu, ao lado de Kafka, Mishima Yukio, Shen Cong-wen, Bei Dao, Eliot
 
 ## Créditos de imagem
 

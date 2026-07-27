@@ -121,9 +121,9 @@ Em 2026, porém, manter as palavras “inventado em Taiwan” no centro dessa hi
 
 ## Leituras complementares
 
-- [Panorama da gastronomia de Taiwan](/food/台灣美食總覽) — Um mapa panorâmico, dos povos indígenas às estrelas Michelin: o lugar do chá de bolhas em quatrocentos anos de sabores mestiços
-- [A cultura taiwanesa das bebidas preparadas na hora](/food/台灣手搖飲文化) — A história da expansão de marcas como 50 Lan, Gong Cha e CoCo para mais de quarenta países
-- [Cultura do chá](/food/茶文化) — Do chá oolong de John Dodd, em 1865, aos atuais chás de alta montanha: a lendária qualidade do chá taiwanês
+- [Panorama da gastronomia de Taiwan](/pt/food/taiwan-food-overview) — Um mapa panorâmico, dos povos indígenas às estrelas Michelin: o lugar do chá de bolhas em quatrocentos anos de sabores mestiços
+- [A cultura taiwanesa das bebidas preparadas na hora](/pt/food/hand-shaken-drink-culture) — A história da expansão de marcas como 50 Lan, Gong Cha e CoCo para mais de quarenta países
+- [Cultura do chá](/pt/food/golden-age-echoes-taiwan-tea-culture) — Do chá oolong de John Dodd, em 1865, aos atuais chás de alta montanha: a lendária qualidade do chá taiwanês
 
 ## Referências
 

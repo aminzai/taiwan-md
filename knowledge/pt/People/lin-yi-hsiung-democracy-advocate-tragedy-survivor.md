@@ -92,4 +92,4 @@ As avaliações sobre ele permanecem divididas até hoje: apoiadores veem-no com
 ## Leitura complementar
 
 - [Fundação Educacional Cilin](https://www.tzlin.org.tw/) — Site oficial da organização de educação cívica fundada por Lin Yi-hsiung
-- [Shih Ming-teh (施明德)](/people/施明德) — Também réu no Incidente Formosa, figura importante do movimento _tangwai_
+- [Shih Ming-teh (施明德)](/pt/people/shih-ming-te) — Também réu no Incidente Formosa, figura importante do movimento _tangwai_

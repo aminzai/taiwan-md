@@ -262,17 +262,17 @@ A Montanha Sagrada que Protege a Nação domina o presente com 50 anos de experi
 
 **Leitura Adicional**:
 
-- [Empresa de Taiwan: TSMC](/economy/台灣企業：台積電) — Governança corporativa, estrutura financeira e escala de investimento de capital da Montanha Sagrada que Protege a Nação
-- [Empresa de Taiwan: MediaTek](/economy/台灣企業：聯發科技) — Como o líder de design de IC ocupa espaço em chips de celular e computação de borda de IA
+- [Empresa de Taiwan: TSMC](/pt/economy/tsmc) — Governança corporativa, estrutura financeira e escala de investimento de capital da Montanha Sagrada que Protege a Nação
+- [Empresa de Taiwan: MediaTek](/pt/economy/mediatek) — Como o líder de design de IC ocupa espaço em chips de celular e computação de borda de IA
 - [Empresa de Taiwan: ASE Semiconductor](/economy/台灣企業：日月光半導體) — Top 1 global em empacotamento e teste; ecossistema de processo final além do CoWoS
-- [Os Criadores de Montanhas: A Aposta do Século](/art/造山者世紀的賭注) — Documentário de 2025 de Hsiao Ju-zhen; 5 anos de entrevistas com 80+ veteranos da indústria; em 2026, entra nos três distritos de investimento da Lei CHIPS em Purdue, Wisconsin e Michigan
-- [Wu Da-you](/people/吳大猷) — Enquanto Taiwan construía semicondutores na década de 1980, atuava como presidente da Academia Sinica, insistindo na importância da ciência básica, estabelecendo as bases do sistema de pesquisa de Taiwan
-- [Indústria de Robôs de Taiwan](/technology/台灣機器人產業) — Por que a ilha #1 em semicondutores é aluna de recuperação na era dos robôs? Olhando a lacuna industrial através da inauguração da NCAIR
+- [Os Criadores de Montanhas: A Aposta do Século](/pt/art/mountain-makers-tsmc-documentary) — Documentário de 2025 de Hsiao Ju-zhen; 5 anos de entrevistas com 80+ veteranos da indústria; em 2026, entra nos três distritos de investimento da Lei CHIPS em Purdue, Wisconsin e Michigan
+- [Wu Da-you](/pt/people/tai-yu-wu) — Enquanto Taiwan construía semicondutores na década de 1980, atuava como presidente da Academia Sinica, insistindo na importância da ciência básica, estabelecendo as bases do sistema de pesquisa de Taiwan
+- [Indústria de Robôs de Taiwan](/pt/technology/taiwan-robotics-industry) — Por que a ilha #1 em semicondutores é aluna de recuperação na era dos robôs? Olhando a lacuna industrial através da inauguração da NCAIR
 - [Mercado de Ações e Mercado de Capitais de Taiwan](/economy/台灣股市與資本市場) — Como toda a ecologia da cadeia de suprimentos que sustenta a identidade de 6º maior mercado de ações global de Taiwan em 2026 se manifesta no mercado de capitais
 - [Cadeia de Suprimentos de Tungstênio de Taiwan](/technology/台灣鎢供應鏈) — Hexafluoreto de tungstênio preenche janelas de contato e linhas de caracteres de 3D NAND; Taiwan não tem minério de tungstênio, mas sobe ao meio da fonte de material através de reciclagem e refino
-- [Escola de IA de Taiwan](/technology/台灣人工智慧學校) — Como os 10.000 engenheiros de IA treinados pela AIA em 8 anos retornam à cadeia ICT existente de semicondutores, fortalecendo o lado de software de Taiwan
+- [Escola de IA de Taiwan](/pt/technology/taiwan-ai-academy) — Como os 10.000 engenheiros de IA treinados pela AIA em 8 anos retornam à cadeia ICT existente de semicondutores, fortalecendo o lado de software de Taiwan
 - [Computex: Três Grandes Exposições Internacionais de Computadores Fecharam Duas, a Restante Cresceu em Taipei](/technology/Computex) — CoWoS e processos avançados da TSMC apertam mãos com os grandes gigantes de IA globais toda vez no final de maio nesta exposição de computadores de 45 anos de Taipei
-- [Parques Científicos de Taiwan](/technology/科技園區發展) — Os três parques de Hsinchu, Nan Science e Zhong Science; o suporte físico do aglomerado de semicondutores e o centro geográfico do Escudo de Silício
+- [Parques Científicos de Taiwan](/pt/technology/science-park-development) — Os três parques de Hsinchu, Nan Science e Zhong Science; o suporte físico do aglomerado de semicondutores e o centro geográfico do Escudo de Silício
 
 ## Fontes de Imagem
 

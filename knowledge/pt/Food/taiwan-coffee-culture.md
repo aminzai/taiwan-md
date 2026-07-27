@@ -116,9 +116,9 @@ A porta de madeira da Fengda Coffee continua aberta. Ao abri-la, você não bebe
 
 **Leitura complementar**:
 
-- [Cultura das lojas de conveniência em Taiwan](/lifestyle/台灣便利商店文化) — O City Café só teve sucesso porque a loja de conveniência é infraestrutura de vida dos taiwaneses
-- [Cultura das bebidas agitadas à mão em Taiwan](/food/台灣手搖飲文化) — O outro lado do café: Taiwan inventou o bubble tea e conquistou o mundo com as bebidas agitadas
-- [Cultura do chá em Taiwan](/food/茶文化) — Antes do café, os taiwaneses beberam chá durante quatrocentos anos
+- [Cultura das lojas de conveniência em Taiwan](/pt/lifestyle/convenience-store-culture) — O City Café só teve sucesso porque a loja de conveniência é infraestrutura de vida dos taiwaneses
+- [Cultura das bebidas agitadas à mão em Taiwan](/pt/food/hand-shaken-drink-culture) — O outro lado do café: Taiwan inventou o bubble tea e conquistou o mundo com as bebidas agitadas
+- [Cultura do chá em Taiwan](/pt/food/golden-age-echoes-taiwan-tea-culture) — Antes do café, os taiwaneses beberam chá durante quatrocentos anos
 
 ## Referências
 

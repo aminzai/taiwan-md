@@ -141,11 +141,11 @@ A diferença entre essas duas respostas é o verdadeiro boletim escolar da indú
 **Leitura complementar**:
 
 - [Indústria de IA (Artificial Intelligence)](/technology/ai人工智慧產業) — Visão geral dos Cinco Planos de IA de Taiwan; robôs são a IA materializada, mas "inteligência" e "corpo" são duas linhas paralelas na indústria de Taiwan
-- [Indústria de Semicondutores](/technology/半導體產業) — Todas as bases de chips dos robôs, e por que a lógica industrial de "chips fortes não significam robôs fortes"
-- [Indústria de Drones de Taiwan](/technology/台灣無人機產業) — Outro caso de "componentes fortes, máquinas completas fracas"; pode ser comparado com a indústria de robôs
+- [Indústria de Semicondutores](/pt/technology/taiwan-semiconductor-industry) — Todas as bases de chips dos robôs, e por que a lógica industrial de "chips fortes não significam robôs fortes"
+- [Indústria de Drones de Taiwan](/pt/technology/taiwan-drone-industry) — Outro caso de "componentes fortes, máquinas completas fracas"; pode ser comparado com a indústria de robôs
 - [Crise de Baixa Natalidade de Taiwan](/society/台灣少子化危機) — Por que o NCAIR coloca "cuidados de longo prazo no lar" em primeiro lugar? A resposta está na estrutura populacional
-- [Transformação e Atualização Industrial de Taiwan](/economy/台灣產業轉型升級) — De terceirização para marca, de componentes para integração de sistemas; o problema estrutural discutido múltiplas vezes nas últimas duas décadas
-- [Indústria de Ferramentas Mecânicas de Taiwan](/economy/台灣機械工具產業) — As 1.500 empresas de maquinaria de precisão do Vale Dourado do Monte Dadu são a base upstream do hardware dos robôs
+- [Transformação e Atualização Industrial de Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) — De terceirização para marca, de componentes para integração de sistemas; o problema estrutural discutido múltiplas vezes nas últimas duas décadas
+- [Indústria de Ferramentas Mecânicas de Taiwan](/pt/economy/taiwan-machine-tool-industry) — As 1.500 empresas de maquinaria de precisão do Vale Dourado do Monte Dadu são a base upstream do hardware dos robôs
 - [Computex: Três Grandes Exposições Internacionais de Computadores Fecharam Duas, a Que Restou Cresceu em Taipé](/technology/Computex) — A Computex de 2026 foca em "IA Física" e inteligência encarnada; o palco anual da cadeia de suprimentos de robôs de Taiwan se estende de montar servidores de IA a montar robôs
 
 ## Referências

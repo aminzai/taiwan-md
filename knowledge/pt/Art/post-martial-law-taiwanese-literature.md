@@ -175,10 +175,10 @@ Após o ano 2000, o palco foi passado para novas vozes como Wu Ming-yi (吳明�
 ## Leituras Recomendadas
 
 - [Taiwan Man You Lu (Taiwan Wanderer)](/art/臺灣漫遊錄) — Yang Shuangzi (楊双子) continua a tradição de escrita feminina e yuri pós-Lei Marcial, escrevendo a história colonial do período japonês através de romances de tradução falsa, ganhando reconhecimento internacional duplo em 2024 (NBA) e 2026 (Prêmio Booker)
-- [Literatura de Taiwan Pós-Guerra](/art/戰後台灣文學) — 42 anos de 1945 a 1987, do silêncio e do modernismo à polêmica da literatura nativa e ao despertar feminino durante o período de Lei Marcial
-- [Literatura Contemporânea de Taiwan](/art/當代台灣文學) — Século XXI: a internacionalização de Wu Ming-yi, Lin Yihan e a próxima geração da literatura digital
-- [História da Literatura de Taiwan](/art/台灣文學史) — O contexto geral desde o período holandês, Ming e Qing, período japonês, pós-guerra até a contemporaneidade
-- [Lin Liang](/people/林良) — Fundador da Associação de Literatura Infantil da República da China em 1984 após a Lei Marcial e o fundador da literatura infantil de Taiwan; sua coluna _Fale com Base nas Imagens_ (《看圖說話》) acompanhou gerações de crianças taiwanesas
+- [Literatura de Taiwan Pós-Guerra](/pt/art/postwar-taiwanese-literature) — 42 anos de 1945 a 1987, do silêncio e do modernismo à polêmica da literatura nativa e ao despertar feminino durante o período de Lei Marcial
+- [Literatura Contemporânea de Taiwan](/pt/art/contemporary-taiwanese-literature) — Século XXI: a internacionalização de Wu Ming-yi, Lin Yihan e a próxima geração da literatura digital
+- [História da Literatura de Taiwan](/pt/art/history-of-taiwanese-literature) — O contexto geral desde o período holandês, Ming e Qing, período japonês, pós-guerra até a contemporaneidade
+- [Lin Liang](/pt/people/lin-liang-childrens-literature) — Fundador da Associação de Literatura Infantil da República da China em 1984 após a Lei Marcial e o fundador da literatura infantil de Taiwan; sua coluna _Fale com Base nas Imagens_ (《看圖說話》) acompanhou gerações de crianças taiwanesas
 
 ---
 

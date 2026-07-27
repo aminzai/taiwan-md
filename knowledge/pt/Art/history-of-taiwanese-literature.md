@@ -186,11 +186,11 @@ Como disse o poeta Yu Guangzhong: "O mais belo de Taiwan são as pessoas", e est
 ## Leitura Complementar
 
 - [Taiwan Man You Lu (Taiwan Wanderings)](/art/臺灣漫遊錄) — O romance de tradução falsa de Yang Shuangzi, a primeira obra de literatura de Taiwan a vencer o Prêmio NBA dos EUA em 2024 e o Prêmio Booker Internacional em 2026, carregando a "investigação centenária da literatura de Taiwan" mencionada no discurso de Yang Shuangzi.
-- [Literatura do Período Colonial Japonês](/art/日治時期文學) — A era em japonês de Lai He, Yang Kui, Lü Hueruo e Zhang Wenhuan (1895-1945).
-- [Literatura de Taiwan Pós-Guerra](/art/戰後台灣文學) — 42 anos de silêncio, modernismo, debate local e despertar feminino durante a lei marcial (1945-1987).
-- [Literatura de Taiwan Pós-Liberação](/art/解嚴後台灣文學) — A geração intermediária da explosão política, de gênero e da língua materna (1987-2000).
-- [Literatura Contemporânea de Taiwan](/art/當代台灣文學) — Globalização, Lin Yihan e literatura digital no século XXI.
-- [Lin Liang](/people/林良) — O fundador da literatura infantil de Taiwan pós-guerra, que definiu "escrever para crianças" como um trabalho sério através da "Arte da Linguagem Simples" (1948-2019).
+- [Literatura do Período Colonial Japonês](/pt/art/taiwanese-literature-during-japanese-rule) — A era em japonês de Lai He, Yang Kui, Lü Hueruo e Zhang Wenhuan (1895-1945).
+- [Literatura de Taiwan Pós-Guerra](/pt/art/postwar-taiwanese-literature) — 42 anos de silêncio, modernismo, debate local e despertar feminino durante a lei marcial (1945-1987).
+- [Literatura de Taiwan Pós-Liberação](/pt/art/post-martial-law-taiwanese-literature) — A geração intermediária da explosão política, de gênero e da língua materna (1987-2000).
+- [Literatura Contemporânea de Taiwan](/pt/art/contemporary-taiwanese-literature) — Globalização, Lin Yihan e literatura digital no século XXI.
+- [Lin Liang](/pt/people/lin-liang-childrens-literature) — O fundador da literatura infantil de Taiwan pós-guerra, que definiu "escrever para crianças" como um trabalho sério através da "Arte da Linguagem Simples" (1948-2019).
 
 ---
 

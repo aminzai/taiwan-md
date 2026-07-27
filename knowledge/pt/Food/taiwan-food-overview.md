@@ -257,36 +257,36 @@ Não há um prato que seja puramente taiwanês. Cada prato, é o mais taiwanês 
 **Base insular**:
 
 - [Cultura alimentar dos povos indígenas de Taiwan](/food/台灣原住民飲食文化) — 16 etnias cada uma com a sua maneira de comer, do churrasco em laje ao _binaleng_ sopa ácida-picante
-- [Cultura alimentar hakka](/food/客家飲食文化) — «Gordo, salgado, aromático» e a sabedoria de conservação na estrada da migração
+- [Cultura alimentar hakka](/pt/food/hakka-food-culture) — «Gordo, salgado, aromático» e a sabedoria de conservação na estrada da migração
 
 **Mestiçagem migratória**:
 
-- [Culinária das vilas de dependentes de Taiwan](/food/台灣眷村菜) — Esses 1,21 milhões de 1949 trouxeram as oito grandes cozinhas, recalibradas pela ilha
+- [Culinária das vilas de dependentes de Taiwan](/pt/food/military-dependents-village-cuisine) — Esses 1,21 milhões de 1949 trouxeram as oito grandes cozinhas, recalibradas pela ilha
 - [Niu rou mian](/food/牛肉麵) — _Doubanjiang_ picante dos veteranos de Sichuan em Gangshan, Kaohsiung, mais soja amarela de Taiwan
 
 **Quotidiano popular**:
 
 - [Lu rou fan](/food/台灣滷肉飯) — Aparas de carne e gordura da pobreza pós-guerra, regadas até virar arroz nacional
-- [Cultura de mercado noturno](/food/夜市文化) — Mais de 300 mercados noturnos em toda Taiwan, mapa gustativo de Shilin, Ningxia, Raohe, Liuhe, Fengjia
-- [Petiscos de Taiwan](/food/台灣小吃) — Da omelete de ostra ao frango frito salgado, coleção completa dos sabores das vielas
+- [Cultura de mercado noturno](/pt/food/night-market-culture) — Mais de 300 mercados noturnos em toda Taiwan, mapa gustativo de Shilin, Ningxia, Raohe, Liuhe, Fengjia
+- [Petiscos de Taiwan](/pt/food/taiwanese-street-food) — Da omelete de ostra ao frango frito salgado, coleção completa dos sabores das vielas
 
 **Revolução líquida**:
 
-- [Chá de bolhas](/food/珍珠奶茶) — Uma tarde de 1986 na Chun Shui Tang, mudou o mapa mundial das bebidas
-- [Cultura de chá _hand-shake_ de Taiwan](/food/台灣手搖飲文化) — 50 Lan, Gong Cha, CoCo rumo a mais de 40 países
-- [Cultura do chá](/food/茶文化) — Do oolong de John Dodd em 1865 ao chá de alta montanha de Alishan hoje
+- [Chá de bolhas](/pt/food/bubble-tea) — Uma tarde de 1986 na Chun Shui Tang, mudou o mapa mundial das bebidas
+- [Cultura de chá _hand-shake_ de Taiwan](/pt/food/hand-shaken-drink-culture) — 50 Lan, Gong Cha, CoCo rumo a mais de 40 países
+- [Cultura do chá](/pt/food/golden-age-echoes-taiwan-tea-culture) — Do oolong de John Dodd em 1865 ao chá de alta montanha de Alishan hoje
 
 **Ritual e requinte**:
 
 - [Cultura _ban-doh_ de Taiwan](/food/台灣辦桌文化) — Lin Tian-sheng, Lin Ming-tsan pai e filho, doze pratos de sentimentos e etiqueta
-- [Michelin de Taiwan e alta restauração](/food/台灣米其林與精緻餐飲) — Entrada 2018, trajectória 2025 419 casas
+- [Michelin de Taiwan e alta restauração](/pt/food/taiwan-michelin-fine-dining) — Entrada 2018, trajectória 2025 419 casas
 - [Cultura de pequeno-almoço de Taiwan](/food/台灣早餐文化) — Do leite de soja sob a ponte de Yonghe às cadeias 24 horas
 
 **Extensões diversas**:
 
-- [Fusão gastronómica dos novos residentes de Taiwan](/food/台灣新住民美食融合) — 1,87 milhões de novos residentes trazem mapa do Sudeste Asiático
+- [Fusão gastronómica dos novos residentes de Taiwan](/pt/food/taiwanese-new-immigrant-culinary-fusion) — 1,87 milhões de novos residentes trazem mapa do Sudeste Asiático
 - [Cultura vegetariana de Taiwan](/food/台灣素食文化) — População vegetariana terceiro mundial
-- [Reino das frutas de Taiwan](/food/台灣水果王國) — Do pêssego de alta montanha ao _shijia_ tropical, mapa insular das frutas
+- [Reino das frutas de Taiwan](/pt/food/taiwan-fruit-kingdom) — Do pêssego de alta montanha ao _shijia_ tropical, mapa insular das frutas
 - [Food Hub](/food) — Índice geral de classificação alimentar
 
 ---

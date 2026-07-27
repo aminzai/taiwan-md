@@ -185,10 +185,10 @@ Escreveu até a última semana. Escreveu até fazer a **filha mais nova** voltar
 
 **Leitura complementar**:
 
-- [Literatura Taiwanesa do Pós-Guerra (戰後台灣文學)](/art/戰後台灣文學) — O maior contexto histórico da geração de Lin Liang: "intelectuais vindos do continente que nesta ilha começaram a escrever para crianças"
-- [Literatura Taiwanesa Pós-Lei Marcial (解嚴後台灣文學)](/art/解嚴後台灣文學) — Lin Liang testemunhou e participou da passagem da literatura infantil da margem ao mainstream nesse período
-- [Literatura do Período Colonial Japonês (日治時期文學)](/art/日治時期文學) — O contexto literário de Taiwan antes da chegada de Lin Liang, para entender a posição histórica de "promotor da língua nacional"
-- [História da Literatura Taiwanesa (台灣文學史)](/art/台灣文學史) — A literatura infantil como ramo da literatura taiwanesa do pós-guerra; Lin Liang é um dos fundadores
+- [Literatura Taiwanesa do Pós-Guerra (戰後台灣文學)](/pt/art/postwar-taiwanese-literature) — O maior contexto histórico da geração de Lin Liang: "intelectuais vindos do continente que nesta ilha começaram a escrever para crianças"
+- [Literatura Taiwanesa Pós-Lei Marcial (解嚴後台灣文學)](/pt/art/post-martial-law-taiwanese-literature) — Lin Liang testemunhou e participou da passagem da literatura infantil da margem ao mainstream nesse período
+- [Literatura do Período Colonial Japonês (日治時期文學)](/pt/art/taiwanese-literature-during-japanese-rule) — O contexto literário de Taiwan antes da chegada de Lin Liang, para entender a posição histórica de "promotor da língua nacional"
+- [História da Literatura Taiwanesa (台灣文學史)](/pt/art/history-of-taiwanese-literature) — A literatura infantil como ramo da literatura taiwanesa do pós-guerra; Lin Liang é um dos fundadores
 
 ## Referências
 

@@ -147,7 +147,7 @@ Da prata de Tóquio ao número um do mundo, do ouro asiático à expectativa por
 
 **Leitura complementar**:
 
-- [Guo Shu-chuan](/people/郭婞淳) — Ouro no levantamento de peso nos Jogos de Tóquio, medalhista olímpica de Taiwan em três edições consecutivas
+- [Guo Shu-chuan](/pt/people/kuo-hsing-chun-olympic-weightlifting-champion) — Ouro no levantamento de peso nos Jogos de Tóquio, medalhista olímpica de Taiwan em três edições consecutivas
 
 ## Referências
 

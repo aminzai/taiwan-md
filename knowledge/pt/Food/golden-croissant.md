@@ -63,9 +63,9 @@ Da próxima vez que morder aquela ponta de chifre tostada e crocante, lembre-se:
 
 ## Leitura Complementar
 
-- **[Petiscos de Taiwan (台灣小吃)](/food/台灣小吃)** — A posição do Golden Croissant como lembrança local no mapa dos petiscos de Taiwan
+- **[Petiscos de Taiwan (台灣小吃)](/pt/food/taiwanese-street-food)** — A posição do Golden Croissant como lembrança local no mapa dos petiscos de Taiwan
 - **[Rua Antiga de Sanxia (三峽老街)](/geography/三峽老街)** — A paisagem cultural onde o Golden Croissant nasceu (se o verbete não existir, serve como desenvolvimento futuro)
-- **[Cultura de Bolos e Pastéis de Taiwan (台灣糕餅文化)](/food/台灣糕餅文化)** — Como o gene da panificação chinesa entrou nos novos doces
+- **[Cultura de Bolos e Pastéis de Taiwan (台灣糕餅文化)](/pt/food/taiwan-pastry-culture)** — Como o gene da panificação chinesa entrou nos novos doces
 - **[Economia das Lembranças de Taiwan (台灣伴手禮經濟)](/economy/台灣伴手禮經濟)** — Caso local de turistificação de rua antiga × disputa de marcas familiares
 
 ## Referências

@@ -111,8 +111,8 @@ A transferência de paradigma da Coreia do Norte em direção à "Teoria dos Doi
 
 ## Leitura Adicional
 
-- [Saída das Nações Unidas](/history/退出聯合國) — A Viragem Estrutural do Status Internacional de Taiwan
-- [Comércio Externo de Taiwan e a Cadeia de Suprimentos Global](/economy/台灣外貿與全球供應鏈) — Como a Exportação Moldou o Comércio na Zona Cinzenta
+- [Saída das Nações Unidas](/pt/history/withdrawal-from-united-nations) — A Viragem Estrutural do Status Internacional de Taiwan
+- [Comércio Externo de Taiwan e a Cadeia de Suprimentos Global](/pt/economy/taiwan-foreign-trade-and-global-supply-chain) — Como a Exportação Moldou o Comércio na Zona Cinzenta
 
 ## Fontes de Referência
 

@@ -133,12 +133,12 @@ Um bolo contém muito mais tempo do que julgas.
 
 ## Leituras complementares
 
-- [Bolo solar](/food/太陽餅) — História profunda do item único melhorado pelo Mestre A-ming Wei Qing-hai a partir do bolo de malte da Kunpai Bakery em Shenkan, Taichung
-- [Bolo de abacaxi](/food/鳳梨酥) — Percurso evolutivo de oitenta anos desde o grande bolo de abacaxi da I-Fu-Tang na era japonesa até à revolução da cubificação
+- [Bolo solar](/pt/food/sun-cake) — História profunda do item único melhorado pelo Mestre A-ming Wei Qing-hai a partir do bolo de malte da Kunpai Bakery em Shenkan, Taichung
+- [Bolo de abacaxi](/pt/food/pineapple-cake) — Percurso evolutivo de oitenta anos desde o grande bolo de abacaxi da I-Fu-Tang na era japonesa até à revolução da cubificação
 - [Pão e panificação de Taiwan](/food/台灣麵包與烘焙) — História dos mestres padeiros de Taiwan, de Wu Pao-chun a Chen Yao-xun, a caminho do palco mundial
-- [Cultura alimentar de arroz de Taiwan](/food/台灣米食文化) — Arroz e pastelaria são duas linhas principais na mesma mesa, compreender o arroz para compreender o lugar do bolo
-- [Casamentos, funerais, festas e ritos de vida de Taiwan](/culture/台灣婚喪喜慶與人生禮俗) — Papel concreto da caixa de bolos de alegria nos seis ritos e doze presentes
-- [Cultura do chá de Taiwan](/culture/台灣茶文化) — Bolos Han e chá são parceiros há cem anos, o bolo fengyan da Yuzhenzhai originalmente comia-se com chá
+- [Cultura alimentar de arroz de Taiwan](/pt/food/taiwan-rice-cuisine-culture) — Arroz e pastelaria são duas linhas principais na mesma mesa, compreender o arroz para compreender o lugar do bolo
+- [Casamentos, funerais, festas e ritos de vida de Taiwan](/pt/culture/taiwanese-life-ceremony-traditions) — Papel concreto da caixa de bolos de alegria nos seis ritos e doze presentes
+- [Cultura do chá de Taiwan](/pt/culture/taiwanese-tea-culture-and-living-aesthetics) — Bolos Han e chá são parceiros há cem anos, o bolo fengyan da Yuzhenzhai originalmente comia-se com chá
 
 ## Referências
 

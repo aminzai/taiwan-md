@@ -171,12 +171,12 @@ Talvez os próximos 28 anos deem a resposta. Talvez não. Mas uma coisa os 28 an
 
 **Leitura complementar**:
 
-- [Mídia e liberdade de imprensa em Taiwan](/society/台灣媒體與新聞自由) — A PTS como elo do ecossistema midiático, interação com o ambiente geral de liberdade de imprensa
+- [Mídia e liberdade de imprensa em Taiwan](/pt/society/media-and-press-freedom-in-taiwan) — A PTS como elo do ecossistema midiático, interação com o ambiente geral de liberdade de imprensa
 - [CommonWealth Magazine](/society/天下雜誌) — Como a mídia de negócios resolve a mesma questão difícil "a mídia deve responder a quem", sobrevivendo com assinantes pagos e ecossistema corporativo, em contraponto ao caminho de orçamento público da PTS
-- [Variedades de Taiwan](/culture/台灣綜藝) — Em contraponto aos programas de variedade da TV comercial, entender por que a PTS escolhe fazer drama e documentário
+- [Variedades de Taiwan](/pt/culture/taiwan-variety-shows) — Em contraponto aos programas de variedade da TV comercial, entender por que a PTS escolhe fazer drama e documentário
 - [Trilha sonora do audiovisual de Taiwan](/music/台灣影視配樂) — A posição das trilhas dos dramas-âncora da PTS na indústria musical de Taiwan
-- [Animação por encomenda de Taiwan](/economy/台灣動畫代工) — Em contraponto à indústria de IP comercial, a lógica diferente da PTS na escolha de temas de animação
-- [Festas e celebrações tradicionais](/culture/傳統節慶與慶典) — A contribuição de longo prazo do documentário _Perspectiva Documental_ da PTS para a preservação da memória cultural de Taiwan
+- [Animação por encomenda de Taiwan](/pt/economy/taiwan-creator-economy) — Em contraponto à indústria de IP comercial, a lógica diferente da PTS na escolha de temas de animação
+- [Festas e celebrações tradicionais](/pt/culture/traditional-festivals-and-celebrations) — A contribuição de longo prazo do documentário _Perspectiva Documental_ da PTS para a preservação da memória cultural de Taiwan
 - [Instituto de Pesquisa de Design de Taiwan](/society/台灣設計研究院) — Outra entidade de direito público que caminha na corda bamba entre "ser vista" e publicidade, transformando design em método de o governo servir o povo
 
 ## Fontes das imagens

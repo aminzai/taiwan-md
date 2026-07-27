@@ -282,7 +282,7 @@ A reorganização da cadeia de abastecimento não traz apenas riscos: a vantagem
 
 ## Leitura complementar
 
-- [PME de Taiwan e _Hidden Champions_](/economy/台灣中小企業與隱形冠軍)
-- [Agricultura de Taiwan e regeneração rural](/economy/台灣農業與農村再生)
-- [Ecossistema de _startups_](/economy/新創生態系)
-- [Empresa de Taiwan: Foxconn Precision](/economy/台灣企業：鴻海精密) — 24 países, 900 mil pessoas: o maior laboratório real de governação transfronteiriça da manufactura taiwanesa
+- [PME de Taiwan e _Hidden Champions_](/pt/economy/taiwan-smes-and-hidden-champions)
+- [Agricultura de Taiwan e regeneração rural](/pt/economy/taiwan-agriculture-and-rural-revitalization)
+- [Ecossistema de _startups_](/pt/economy/taiwan-startup-ecosystem-overview)
+- [Empresa de Taiwan: Foxconn Precision](/pt/economy/foxconn-precision-industry) — 24 países, 900 mil pessoas: o maior laboratório real de governação transfronteiriça da manufactura taiwanesa

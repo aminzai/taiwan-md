@@ -294,9 +294,9 @@ No futuro, os movimentos sociais de Taiwan enfrentarão novos desafios na era di
 **Leituras complementares:**
 
 - [The Reporter: Salvando o jornalismo investigativo como bem público em dez anos](/society/報導者) — A partir de 2015, a sociedade civil de Taiwan usou o método de dedução mensal de estranhos para salvar o jornalismo investigativo, transformando-o de um item comercial de mídia em um bem público
-- [justfont e o desenvolvimento da tipografia taiwanesa: Uma breve história tipográfica de 25 anos da Hualong a 76 minutos de Jinxuan](/technology/justfont與台灣字體發展) — Outro caso de financiamento coletivo que reescreveu a percepção cultural no mesmo ano, estendendo a narrativa da sociedade civil a partir da perspectiva da infraestrutura tipográfica
+- [justfont e o desenvolvimento da tipografia taiwanesa: Uma breve história tipográfica de 25 anos da Hualong a 76 minutos de Jinxuan](/pt/technology/justfont-and-taiwan-typography) — Outro caso de financiamento coletivo que reescreveu a percepção cultural no mesmo ano, estendendo a narrativa da sociedade civil a partir da perspectiva da infraestrutura tipográfica
 - [Cabos submarinos: O escudo de silício é visível do topo, o fio da vida é invisível embaixo](/technology/海底電纜) — A legislação das Sete Leis de Cabos Submarinos, a plataforma de defesa conjunta de Pingtong e o primeiro caso judicial do Hongtai 58 demonstram o eixo pelo qual a pressão da sociedade civil impulsionou a legislação de infraestrutura de segurança nacional
-- [Grande recall: Movimentos de recall](/history/大罷免) — De Qingniao aos grupos de recall, a imagem de mobilização intergeracional e a tradução institucional da energia de rua do maior movimento de recall da história de Taiwan em 2025
+- [Grande recall: Movimentos de recall](/pt/history/great-recall-movement-2024) — De Qingniao aos grupos de recall, a imagem de mobilização intergeracional e a tradução institucional da energia de rua do maior movimento de recall da história de Taiwan em 2025
 
 [^1]: Hé Míngxiū, "Fontes históricas do Movimento Estudantil Yěhúbǎi", incluído em "Geração dos Movimentos Estudantis: De Yěhúbǎi a Sunflower", https://www.books.com.tw/products/0010642379
 

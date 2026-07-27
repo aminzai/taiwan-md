@@ -133,7 +133,7 @@ Cheng Nan-jung deixa uma questão que continua aberta ao debate: por que alguém
 
 **Leitura adicional**
 
-- [Tseng Po-en](/people/曾博恩) — Em agosto de 2019, o apresentador do "Po-en Night Night Show" citou a autoimolação de Cheng Nan-jung num segmento de Open Mic, provocando forte reação social e a primeira suspensão da colaboração com a Satire.
+- [Tseng Po-en](/pt/people/bernard-tseng) — Em agosto de 2019, o apresentador do "Po-en Night Night Show" citou a autoimolação de Cheng Nan-jung num segmento de Open Mic, provocando forte reação social e a primeira suspensão da colaboração com a Satire.
 - [Museu Nacional dos Direitos Humanos](https://www.nhrm.gov.tw/) — História oral do Terror Branco e do movimento democrático.
 - Hu Hui-ling, _Cem Anos de Busca: A História do Movimento Democrático de Taiwan_ — Registo detalhado de Cheng Nan-jung e do movimento tangwai.
 - [Fundação Memorial do Incidente 228](https://www.228.org.tw/) — A ligação da família Cheng Nan-jung com o 228.

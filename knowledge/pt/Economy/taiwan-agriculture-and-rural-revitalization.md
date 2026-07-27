@@ -239,8 +239,8 @@ Sob o duplo desafio da globalização e das mudanças climáticas, a experiênci
 
 ## Leituras Complementares
 
-- [Pequenas e Médias Empresas e Campeões Ocultos de Taiwan](/economy/台灣中小企業與隱形冠軍)
-- [Comércio Exterior e Cadeia de Suprimentos Global de Taiwan](/economy/台灣外貿與全球供應鏈)
+- [Pequenas e Médias Empresas e Campeões Ocultos de Taiwan](/pt/economy/taiwan-smes-and-hidden-champions)
+- [Comércio Exterior e Cadeia de Suprimentos Global de Taiwan](/pt/economy/taiwan-foreign-trade-and-global-supply-chain)
 
 ## Referências
 

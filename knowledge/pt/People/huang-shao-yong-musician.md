@@ -120,7 +120,7 @@ Ele ainda não ganhou o prêmio de produção. Mas ao longo de dez anos com Dark
 - [Wei Ru-Huan](/people/魏如萱) — Artista com quem Huang colaborou desde Lin Ma-Dai até '珍珠刑', duas cantoras vencedoras de Golden Melody, rejeitando a identidade de "voz a ser reconhecida".
 - [A-Blade](/people/阿爆) — Cantora e proprietária da gravadora Wa Culture, colaboradora de Huang no álbum 'Mãe da Língua' e co-organizadora do curso 'MINETJUS'.
 - [Zheng Yi-nung](/people/鄭宜農) — Músico taiwanês da mesma geração, usando "a língua mais estranha para escrever as canções mais sinceras", vencendo os prêmios Golden Melody de língua taiwanês.
-- [Yang Che-lin](/people/楊丞琳) — Cantora transitando de "ser produzida" para "autoprodutora"; o trabalho de Huang é o ecossistema que permite aos artistas tomar controle da produção.
+- [Yang Che-lin](/pt/people/rainie-yang) — Cantora transitando de "ser produzida" para "autoprodutora"; o trabalho de Huang é o ecossistema que permite aos artistas tomar controle da produção.
 
 ## Referências
 

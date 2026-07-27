@@ -109,7 +109,7 @@ Seu próximo "desaparecimento", talvez não seja outro desaparecimento. É outra
 
 **Leituras adicionais**:
 
-- [Yang Chen-lin](/people/楊丞琳) — Outra cantora taiwanesa que, da trajetória de estrela, recuperou a definição de sua identidade, até que o produtor escreveu seu próprio nome
+- [Yang Chen-lin](/pt/people/rainie-yang) — Outra cantora taiwanesa que, da trajetória de estrela, recuperou a definição de sua identidade, até que o produtor escreveu seu próprio nome
 - [Wei Ru-xuan](/people/魏如萱) — Mesmo no final dos anos 2000, recuou da visibilidade para a música independente, onde a voz é mais conhecida que o rosto
 - [Chen Jian-rui](/people/陳建騏) — Produtor ativo na mesma época de "Tem Outra Solução?", com contexto relacionado
 - [Zheng Yi-nong](/people/鄭宜農) — Criador que escreveu sua própria crise e, com obras, cuidou de outras pessoas em crise

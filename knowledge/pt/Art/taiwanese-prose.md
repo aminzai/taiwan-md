@@ -161,7 +161,7 @@ Talvez seja esta a maior contribuição do ensaio em Taiwan: devolveu a literatu
 
 ## Leitura complementar
 
-- [Sanmao](/People/三毛) — figura representativa da escrita nómada no ensaio em Taiwan, a série do Saara influenciou toda uma geração de leitores de língua chinesa
+- [Sanmao](/pt/people/san-mao) — figura representativa da escrita nómada no ensaio em Taiwan, a série do Saara influenciou toda uma geração de leitores de língua chinesa
 
 ---
 

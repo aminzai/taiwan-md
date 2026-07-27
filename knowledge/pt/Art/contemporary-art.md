@@ -96,5 +96,5 @@ A energia artística não se concentra mais apenas em Taipé; Taichung, Tainan, 
 **Leitura Complementar**
 
 - [Hsieh Teh-ching](/art/謝德慶) — Pioneiro da performance art taiwanesa nos anos 1980 em Nova York com cinco performances anuais, coordenada inicial da visibilidade internacional da arte contemporânea
-- [Wang Hsin-jen (A-lan)](/art/王新仁) — Primeiro artista generativo taiwanês na Art Blocks (2021), figura representativa da arte em blockchain e projeto Cem Picos da FAB DAO
-- [Cheng Wen-chi: 12 anos impulsionando o círculo artístico taiwanês para o Arquipélago Malaio](/people/鄭文琦) — Editor-chefe de _Deserto Digital_, quatro frameworks — arquipélago / fronteira / descolonização / circum-Pacífico — adicionando perspectiva sul ao mapa do discurso artístico contemporâneo
+- [Wang Hsin-jen (A-lan)](/pt/art/wang-hsin-jen-artist) — Primeiro artista generativo taiwanês na Art Blocks (2021), figura representativa da arte em blockchain e projeto Cem Picos da FAB DAO
+- [Cheng Wen-chi: 12 anos impulsionando o círculo artístico taiwanês para o Arquipélago Malaio](/pt/people/cheng-wen-chi) — Editor-chefe de _Deserto Digital_, quatro frameworks — arquipélago / fronteira / descolonização / circum-Pacífico — adicionando perspectiva sul ao mapa do discurso artístico contemporâneo

@@ -116,15 +116,15 @@ Mas aquele codinome anônimo, ainda está lá.
 
 **Leitura complementar**:
 
-- [Indústria de semicondutores](/technology/半導體產業) — Contexto industrial da batalha anti-Unigroup: estrutura de Taiwan do foundry para líder em encapsulamento/design, e a fronteira invisível de «capital chinês não entra»
-- [Empresa de Taiwan: TSMC](/economy/台灣企業：台積電) — A montanha sagrada que a Unigroup na época não ousou tocar, mas que decide a autonomia tecnológica de Taiwan
+- [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — Contexto industrial da batalha anti-Unigroup: estrutura de Taiwan do foundry para líder em encapsulamento/design, e a fronteira invisível de «capital chinês não entra»
+- [Empresa de Taiwan: TSMC](/pt/economy/tsmc) — A montanha sagrada que a Unigroup na época não ousou tocar, mas que decide a autonomia tecnológica de Taiwan
 - [Empresa de Taiwan: ASE](/economy/台灣企業：日月光半導體) — Gigante de encapsulamento alvo de capital no mesmo período do evento Unigroup, outra coordenada da linha de frente de semicondutores de Hsu Mei-hua
-- [Movimentos sociais e participação cidadã](/society/社會運動與公民參與) — Da Flor de Girassol ao grande recall, coordenadas de evolução do modelo de mobilização por codinome cidadão anônimo como Hsu Mei-hua em Taiwan
-- [Sistema democrático](/society/民主制度) — Direito de recall como ferramenta de democracia direta no sistema representativo de Taiwan, e o debate de limiar por trás dos «7 distritos acima de 25%» em 2025
-- [Encontro Zheng-Xi 2026: líderes dos dois lados se reencontram após dez anos por dez minutos](/society/2026鄭習會與國共十年再會) — Após fracasso do grande recall, como o roteiro político cross-strait continua
-- [Cheng Li-wen](/people/鄭麗文) — Oponente do grande recall: em 2025 liderou KMT contra-atacando recall, propondo «cooperação azul-branca», figura política nuclear
-- [Han Kuo-yu](/people/韓國瑜) — Na qualidade de presidente do Yuan Legislativo, o projeto de reforma parlamentar foi o estopim do grande recall de 2025
-- [Reforma judicial e sistema de detenção preventiva de Taiwan](/society/台灣司法改革與預防性羈押制度) — Outra linha de frente de 2025 no Yuan Legislativo onde sociedade civil e situação/oposição travaram puxa-e-puxa
+- [Movimentos sociais e participação cidadã](/pt/society/social-movements-and-civic-participation) — Da Flor de Girassol ao grande recall, coordenadas de evolução do modelo de mobilização por codinome cidadão anônimo como Hsu Mei-hua em Taiwan
+- [Sistema democrático](/pt/society/democratic-system) — Direito de recall como ferramenta de democracia direta no sistema representativo de Taiwan, e o debate de limiar por trás dos «7 distritos acima de 25%» em 2025
+- [Encontro Zheng-Xi 2026: líderes dos dois lados se reencontram após dez anos por dez minutos](/pt/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Após fracasso do grande recall, como o roteiro político cross-strait continua
+- [Cheng Li-wen](/pt/people/cheng-li-wun) — Oponente do grande recall: em 2025 liderou KMT contra-atacando recall, propondo «cooperação azul-branca», figura política nuclear
+- [Han Kuo-yu](/pt/people/han-kuo-yu) — Na qualidade de presidente do Yuan Legislativo, o projeto de reforma parlamentar foi o estopim do grande recall de 2025
+- [Reforma judicial e sistema de detenção preventiva de Taiwan](/pt/society/taiwan-judicial-reform-and-preventive-detention) — Outra linha de frente de 2025 no Yuan Legislativo onde sociedade civil e situação/oposição travaram puxa-e-puxa
 
 ## Referências
 

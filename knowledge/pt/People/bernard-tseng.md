@@ -125,8 +125,8 @@ No subsolo do nº 286 da Lin Sen North Road, o Two Three Comedy Club, às quinta
 **Leitura complementar**:
 
 - [Tsai Ing-wen](/people/蔡英文) — Primeira presidenciável a entrar no estúdio do _Boen Night Night Show_ em 2019
-- [Han Kuo-yu](/people/韓國瑜) — O estranho mais familiar da mesma temporada, única exigência: não zoar o cabelo
-- [Cheng Nan-jung](/people/鄭南榕) — Ativista _tangwai_ que se imolou em 1989 por 100% de liberdade de expressão, ponto de partida do erro de Tseng em 2019
+- [Han Kuo-yu](/pt/people/han-kuo-yu) — O estranho mais familiar da mesma temporada, única exigência: não zoar o cabelo
+- [Cheng Nan-jung](/pt/people/zheng-nanrong) — Ativista _tangwai_ que se imolou em 1989 por 100% de liberdade de expressão, ponto de partida do erro de Tseng em 2019
 
 ## Fontes das imagens
 

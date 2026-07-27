@@ -247,10 +247,10 @@ A Sociedade Poética Li não parou de publicar por 60 anos. A Taiwan.md acabou d
 
 **Leitura Adicional**:
 
-- [Poesia Moderna de Taiwan](/art/台灣現代詩) — Experimentos modernistas que saíram de três salas de estudo, formando um diálogo com a tradição realista nativa da Sociedade Poética Li
-- [Literatura de Taiwan Pós-Guerra](/art/戰後台灣文學) — O mutismo, prisão e caminho de polêmica de novelistas como Ye Shitao e Chen Yizhen; os poetas da Sociedade Poética Li eram da mesma geração
-- [História da Literatura de Taiwan](/art/台灣文學史) — Hub da linha completa da história da literatura de Taiwan
-- [Literatura do Período Colonial Japonês](/art/日治時期文學) — O contexto de crescimento da geração translingual da Sociedade Poética Li
+- [Poesia Moderna de Taiwan](/pt/art/taiwanese-modern-poetry) — Experimentos modernistas que saíram de três salas de estudo, formando um diálogo com a tradição realista nativa da Sociedade Poética Li
+- [Literatura de Taiwan Pós-Guerra](/pt/art/postwar-taiwanese-literature) — O mutismo, prisão e caminho de polêmica de novelistas como Ye Shitao e Chen Yizhen; os poetas da Sociedade Poética Li eram da mesma geração
+- [História da Literatura de Taiwan](/pt/art/history-of-taiwanese-literature) — Hub da linha completa da história da literatura de Taiwan
+- [Literatura do Período Colonial Japonês](/pt/art/taiwanese-literature-during-japanese-rule) — O contexto de crescimento da geração translingual da Sociedade Poética Li
 - [Du Panfangge](/people/杜潘芳格) — Poetisa hakka translingual que se juntou em 1965; linha de _Pequeno Teatro da Paz_ e poesia em hakka
 
 ## Referências

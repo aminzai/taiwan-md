@@ -92,7 +92,7 @@ Essa luta às margens do rio Zhuoshui ainda não acabou. É a crise do lixo de N
 
 ## Leitura complementar
 
-- [Ética de zoológicos e animais de exibição](/society/動物園與展演動物倫理) — outro caso de "puxa-e-puxa entre conservação e desenvolvimento" (tartaruga-de-couro-amarelo neste artigo vs animais em cativeiro naquele)
+- [Ética de zoológicos e animais de exibição](/pt/society/zoo-and-exhibition-animal-ethics) — outro caso de "puxa-e-puxa entre conservação e desenvolvimento" (tartaruga-de-couro-amarelo neste artigo vs animais em cativeiro naquele)
 
 ## Referências
 

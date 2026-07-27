@@ -72,8 +72,8 @@ A história do Hi-Life não é apenas a ascensão e queda de uma empresa, mas ta
 
 ## Leituras Recomendadas
 
-- [Cultura dos Supermercados de Conveniência de Taiwan](/lifestyle/台灣便利商店文化) — Como os supermercados de conveniência se tornaram infraestrutura pública de Taiwan
-- [Recibos de Imposto](/economy/發票) — A economia cotidiana das Unified Invoices e da coleta em supermercados de conveniência
+- [Cultura dos Supermercados de Conveniência de Taiwan](/pt/lifestyle/convenience-store-culture) — Como os supermercados de conveniência se tornaram infraestrutura pública de Taiwan
+- [Recibos de Imposto](/pt/economy/taiwan-uniform-invoice) — A economia cotidiana das Unified Invoices e da coleta em supermercados de conveniência
 
 ## Fontes
 

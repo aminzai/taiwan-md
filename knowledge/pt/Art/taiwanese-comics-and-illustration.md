@@ -114,8 +114,8 @@ O renascimento dos quadrinhos taiwaneses é, ao mesmo tempo, uma questão indust
 
 ## Leituras complementares
 
-- [Cultura de anime e mangá em Taiwan](/culture/台灣動漫文化) — A cultura de consumo de anime e mangá sob a perspectiva dos leitores: cosplay, dōjinshi — publicações independentes de fãs —, convenções e memórias geracionais
-- [Cinema de Taiwan](/art/台灣電影) — Outro eixo das narrativas visuais taiwanesas
+- [Cultura de anime e mangá em Taiwan](/pt/culture/taiwan-anime-culture) — A cultura de consumo de anime e mangá sob a perspectiva dos leitores: cosplay, dōjinshi — publicações independentes de fãs —, convenções e memórias geracionais
+- [Cinema de Taiwan](/pt/art/taiwanese-cinema) — Outro eixo das narrativas visuais taiwanesas
 - [Desenvolvimento da literatura contemporânea de Taiwan](/art/台灣當代文學發展) — A dimensão textual da evolução da consciência autoral taiwanesa
 
 ## Referências
@@ -136,4 +136,4 @@ O renascimento dos quadrinhos taiwaneses é, ao mesmo tempo, uma questão indust
 
 ---
 
-_Última verificação: 2026-04-19 (a Issue #556, sugerida por @idlccp1984, propôs a fusão dos antigos artigos “Quadrinhos e ilustração de Taiwan” e “Cultura de quadrinhos e anime de Taiwan”; a parte relativa a anime e mangá tornou-se o artigo independente [Cultura de anime e mangá em Taiwan](/culture/台灣動漫文化))_
+_Última verificação: 2026-04-19 (a Issue #556, sugerida por @idlccp1984, propôs a fusão dos antigos artigos “Quadrinhos e ilustração de Taiwan” e “Cultura de quadrinhos e anime de Taiwan”; a parte relativa a anime e mangá tornou-se o artigo independente [Cultura de anime e mangá em Taiwan](/pt/culture/taiwan-anime-culture))_

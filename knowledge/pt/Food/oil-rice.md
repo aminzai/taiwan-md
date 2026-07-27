@@ -90,7 +90,7 @@ Com a mudança de época, o arroz de óleo também enfrenta desafios da moderniz
 
 **Extensão de leitura**:
 
-- [Lanches de Taiwan](/food/台灣小吃) — o contexto cultural de lanches de Taiwan ao qual o arroz de óleo pertence
+- [Lanches de Taiwan](/pt/food/taiwanese-street-food) — o contexto cultural de lanches de Taiwan ao qual o arroz de óleo pertence
 - [Comida de mão de Taiwan](/food/台灣手路菜) — a posição da técnica do arroz de óleo nos banquetes de Taiwan e o contexto do banquete
 
 ## Referências

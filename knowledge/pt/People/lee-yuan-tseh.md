@@ -99,7 +99,7 @@ Em uma época em que a expressão “orgulho de Taiwan” ainda nem existia, Lee
 
 **Leitura complementar**:
 
-- [Wu Ta-you](/people/吳大猷) — antecessor de Lee Yuan-tseh na presidência da Academia Sinica, lançou as bases do sistema de pesquisa científica de Taiwan e formou Yang Chen-ning e Tsung-Dao Lee, ambos laureados com o Prêmio Nobel de Física
+- [Wu Ta-you](/pt/people/tai-yu-wu) — antecessor de Lee Yuan-tseh na presidência da Academia Sinica, lançou as bases do sistema de pesquisa científica de Taiwan e formou Yang Chen-ning e Tsung-Dao Lee, ambos laureados com o Prêmio Nobel de Física
 
 ## Referências
 

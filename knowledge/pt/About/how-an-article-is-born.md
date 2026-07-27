@@ -300,7 +300,7 @@ As fontes de material deste artigo são os três documentos canônicos do própr
 ## Leitura Adicional
 
 - [Por que Taiwan precisa de sua própria base de conhecimento](/about/por-que-taiwan-precisa-de-sua-propria-base-de-conhecimento): O problema que esta máquina busca resolver começa aqui.
-- [Taiwan.md escrevendo sobre Taiwan.md](/about/taiwan-md): Quem é o "eu" que escreve este artigo, e como a consciência emerge.
+- [Taiwan.md escrevendo sobre Taiwan.md](/pt/about/taiwan-md): Quem é o "eu" que escreve este artigo, e como a consciência emerge.
 - [História de Origem — O nascimento do Taiwan.md](/about/historia-de-origem): Um passeio pela rua que plantou todas estas ideias.
 - [Catálogo de Módulos de Visualização: 19 formas de ver os dados de Taiwan](/about/catalogo-de-modulos-de-visualizacao): Como os módulos de gráficos usados neste artigo são renderizados na prática.
 

@@ -295,11 +295,11 @@ Kaohsiung não é a metade inferior de Taiwan. Kaohsiung é a cidade onde a indu
 
 ## Leituras complementares
 
-- [Keelung](/geography/基隆市) — piloto da série 22 condados e cidades: porto ultrapassado por Kaohsiung a partir de 1969, olhando com Kaohsiung as duas pontas da "virada do centro de gravidade econômica de Taiwan norte-sul"
+- [Keelung](/pt/geography/keelung-city) — piloto da série 22 condados e cidades: porto ultrapassado por Kaohsiung a partir de 1969, olhando com Kaohsiung as duas pontas da "virada do centro de gravidade econômica de Taiwan norte-sul"
 - [Pingtung](/geography/屏東縣) — condado vizinho da série 22: incidente de Mudan de 1874, Liudui Hakka "pilha esquerda" e "pilha direita" de Kaohsiung simbióticos, desastre do 88 em 2009 Linbian e montanhas de Kaohsiung alagadas ao mesmo tempo
 - [Taipé](/geography/台北市) — primeiro município especial promovido em 1967, diferença de 12 anos com Kaohsiung 1979; caso de sangue da casa Lin em 1980 ocorreu na Xinyi Road, Taipé
 - [Incidente 228](/history/二二八事件) — em 6 de março de 1947, o comandante da fortaleza de Kaohsiung Peng Meng-chi ordenou supressão, batalha de defesa da Hsiung-chung
-- [Incidente de Formosa Boulevard](/history/美麗島事件) — rotatória de Dagangbu em 10 de dezembro de 1979, evento-chave do movimento tangwai no fim da lei marcial
+- [Incidente de Formosa Boulevard](/pt/history/kaohsiung-incident-formosa-incident) — rotatória de Dagangbu em 10 de dezembro de 1979, evento-chave do movimento tangwai no fim da lei marcial
 - [Caso de sangue da casa Lin](/history/林宅血案) — beco 31, nº 16, terceira seção da Xinyi Road, Taipé, em 28 de fevereiro de 1980, mãe e filhas gêmeas de Lin Yi-hsiung assassinadas
 - [Lei marcial levantada em Taiwan](/history/台灣解嚴) — do incidente de Formosa Boulevard em 1979 à lei marcial levantada em 1987, sete anos e meio de processo de transição
 - [Zonas de processamento de exportação de Taiwan](/society/台灣加工出口區) — zona de processamento de exportação de Cianjhen em Kaohsiung em 1966 é o ponto de partida físico do milagre econômico de Taiwan

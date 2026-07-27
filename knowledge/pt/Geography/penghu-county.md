@@ -201,12 +201,12 @@ De Taipei para Magong leva apenas 50 minutos. Da próxima vez que for a Penghu, 
 ## Leitura Adicional
 
 - [Folclore de Penghu](/culture/澎湖民俗文化) — Registros folclóricos locais completos do Templo Tianhou de Fundação Nacional, crença de Mazu, canções Baoge de Erkan, rituais de embarcação de Rei Wang
-- [Cultura Marítima de Ilhas Distantes](/geography/離島與海洋文化) — Sistema de cultura marítima de ilhas distantes de Taiwan composto por Penghu, Kinmen, Matsu, Lanyu, Green Island
-- [Características Geográficas e Formação das Ilhas de Taiwan](/geography/台灣島嶼地理特色與形成) — Diferenças geológicas entre o arquipélago de basalto de Penghu e o movimento orogênico da ilha principal de Taiwan
-- [Lendas de Mazu e do Grande Senhor Dao](/culture/媽祖與大道公的傳說) — Fluxo transmarítimo da crença de Mazu no local do Templo Tianhou de Fundação Nacional
-- [Divisão Administrativa de Taiwan](/geography/台灣行政區劃) — Contexto da reforma local de 1920 onde Magong foi renomeado Magong
-- [Guerra Sino-Francesa](/history/清法戰爭) — Panorama do campo de batalha de Taiwan e Penghu da ocupação francesa de Penghu em 1885, morte de Courbet no Porto de Magong, "Novo Tratado Sino-Francês"
-- [Período Holandês e Ming Zheng](/history/荷西明鄭時期) — A viragem chave de 1622-1624 onde os holandeses se retiraram de Bafawei em Penghu para Daebei em Tainan
+- [Cultura Marítima de Ilhas Distantes](/pt/geography/offshore-islands-and-maritime-culture) — Sistema de cultura marítima de ilhas distantes de Taiwan composto por Penghu, Kinmen, Matsu, Lanyu, Green Island
+- [Características Geográficas e Formação das Ilhas de Taiwan](/pt/geography/geography-and-geology) — Diferenças geológicas entre o arquipélago de basalto de Penghu e o movimento orogênico da ilha principal de Taiwan
+- [Lendas de Mazu e do Grande Senhor Dao](/pt/culture/mazu-dadaogong-legend) — Fluxo transmarítimo da crença de Mazu no local do Templo Tianhou de Fundação Nacional
+- [Divisão Administrativa de Taiwan](/pt/geography/administrative-divisions-of-taiwan) — Contexto da reforma local de 1920 onde Magong foi renomeado Magong
+- [Guerra Sino-Francesa](/pt/history/sino-french-war-in-taiwan) — Panorama do campo de batalha de Taiwan e Penghu da ocupação francesa de Penghu em 1885, morte de Courbet no Porto de Magong, "Novo Tratado Sino-Francês"
+- [Período Holandês e Ming Zheng](/pt/history/dutch-spanish-and-koxinga-era) — A viragem chave de 1622-1624 onde os holandeses se retiraram de Bafawei em Penghu para Daebei em Tainan
 
 ## Fontes de Imagem
 

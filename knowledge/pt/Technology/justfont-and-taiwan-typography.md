@@ -243,8 +243,8 @@ A diferença está naquela manhã de setembro de 2015. Hoje, Taiwan tem dezenas 
 **Leitura complementar**:
 
 - [The Reporter: Dez anos salvando o jornalismo investigativo de item de negócio para bem público](/society/報導者): Outra história de leitores taiwaneses votando com o bolso para financiar um bem público; doadores perante The Reporter são como patrocinadores perante a Jin Xuan.
-- [Nova mídia artística de Taiwan](/art/台灣新媒體藝術): Outro grupo de criadores taiwaneses na fronteira de design, tecnologia e identidade cultural.
-- [Movimentos sociais e participação cívica](/society/社會運動與公民參與): A energia daquela "briga por assuntos públicos" da polêmica da Jin Xuan tem veias maiores na sociedade taiwanesa.
+- [Nova mídia artística de Taiwan](/pt/art/taiwan-new-media-art): Outro grupo de criadores taiwaneses na fronteira de design, tecnologia e identidade cultural.
+- [Movimentos sociais e participação cívica](/pt/society/social-movements-and-civic-participation): A energia daquela "briga por assuntos públicos" da polêmica da Jin Xuan tem veias maiores na sociedade taiwanesa.
 - [Cabos submarinos](/technology/海底電纜): Outra infraestrutura que todos usam todo dia e quase ninguém vê.
 
 ## Referências

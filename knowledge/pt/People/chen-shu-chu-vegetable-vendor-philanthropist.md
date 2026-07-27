@@ -95,7 +95,7 @@ A pergunta mais funda é: por que uma vendedora de legumes faz isso? A resposta 
 
 - [Mercado Central de Taitung](/lifestyle/台東市集) — local da banca de Chen Shu-chu por cinquenta anos, cenário representativo da economia popular de Taitung
 - [Cultura da caridade em Taiwan](/society/台灣慈善文化) — da Mestra Cheng Yen e Tzu Chi a Chen Shu-chu, duas amostras da filantropia civil taiwanesa
-- [Educação nas regiões remotas de Taiwan](/society/台灣偏鄉教育) — fluxo de longo prazo das doações de Chen Shu-chu: apoio contínuo a bibliotecas, escolas e orfanatos
+- [Educação nas regiões remotas de Taiwan](/pt/society/taiwan-rural-education) — fluxo de longo prazo das doações de Chen Shu-chu: apoio contínuo a bibliotecas, escolas e orfanatos
 
 ## Referências
 

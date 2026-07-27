@@ -167,16 +167,16 @@ A manutenção de aliados diplomáticos após a posse também atrai atenção. N
 
 **Leitura complementar**:
 
-- [2026 Reunião Zheng-Xi: dez minutos, dez anos depois, os dois líderes do KMT e PCC](/society/2026鄭習會與國共十年再會) — o outro protagonista desta peça, deliberadamente mantido fora do enquadramento
-- [Hsiao Bi-khim](/people/蕭美琴) — parceira de Lai Ching-te, de representante em Washington a vice-presidente «gato de batalha»
+- [2026 Reunião Zheng-Xi: dez minutos, dez anos depois, os dois líderes do KMT e PCC](/pt/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — o outro protagonista desta peça, deliberadamente mantido fora do enquadramento
+- [Hsiao Bi-khim](/pt/people/hsiao-bi-khim) — parceira de Lai Ching-te, de representante em Washington a vice-presidente «gato de batalha»
 - [Defesa e modernização militar de Taiwan](/society/台灣國防與軍事現代化) — política mais representativa do mandato Lai: orçamento especial de 1,25 biliões e formação de batalhão de tanques M1A2T
-- [Transição democrática de Taiwan](/history/台灣民主轉型) — o filho de mineiros de Wanli poder tornar-se presidente é, por si, produto da transição democrática
+- [Transição democrática de Taiwan](/pt/history/taiwan-democratization) — o filho de mineiros de Wanli poder tornar-se presidente é, por si, produto da transição democrática
 - [Li Yang](/people/李洋) — empossado pessoalmente por Lai Ching-te, membro mais jovem da história do gabinete, primeiro ministro do Desporto
 - [Shen Bo-yang](/people/沈伯洋) — legislador at-large do PDP na mesma lista de «teimosos pela independência», em 2025 tornou-se primeiro político eleito de Taiwan processado pela China por crime de secessão
-- [Cho Jung-tai](/people/卓榮泰) — primeiro primeiro-ministro do mandato Lai 2024, 38 anos como coordenador, em dez-2025 primeiro caso constitucional de primeiro-ministro a recusar contra-assinar lei de repartição fiscal
-- [Hsu Chiao-hsin](/people/徐巧芯) — legisladora do KMT que confrontou repetidamente Lai no plenário, principal impulsionadora da versão de 800 mil milhões da controvérsia de compras militares 2026
+- [Cho Jung-tai](/pt/people/cho-jung-tai) — primeiro primeiro-ministro do mandato Lai 2024, 38 anos como coordenador, em dez-2025 primeiro caso constitucional de primeiro-ministro a recusar contra-assinar lei de repartição fiscal
+- [Hsu Chiao-hsin](/pt/people/hsu-chiao-hsin) — legisladora do KMT que confrontou repetidamente Lai no plenário, principal impulsionadora da versão de 800 mil milhões da controvérsia de compras militares 2026
 - [Taiwan e Essuatíni](/society/台灣與史瓦帝尼) — primeira visita de Lai a aliado após posse, maio 2026: rei envia A340 para buscar presidente em Taipé, momento histórico
-- [Fórum Pensar](/society/想想論壇) — Tsai Ing-wen relança Fórum Pensar em out-2025; United Daily News «editorial pesado» titula «Lai Ching-te ainda está a caminho?», enquadrando a relança como lembrete à linha governativa de Lai
+- [Fórum Pensar](/pt/society/thinking-taiwan-forum) — Tsai Ing-wen relança Fórum Pensar em out-2025; United Daily News «editorial pesado» titula «Lai Ching-te ainda está a caminho?», enquadrando a relança como lembrete à linha governativa de Lai
 
 ## Referências
 

@@ -125,9 +125,9 @@ Em dezembro de 2025, o LINE Bank anunciou o primeiro mês de lucro, valor pequen
 
 **Leitura complementar**:
 
-- [Indústria de semicondutores](/technology/半導體產業) — Outra indústria de Taiwan que começou com apoio político e acabou mudando o tabuleiro global
-- [Ecossistema de startups](/economy/新創生態系) — O panorama completo do círculo de startups onde a JKOPAY nasceu
-- [Ecossistema de comércio eletrônico e pagamentos digitais](/technology/電子商務與數位支付生態系) — A infraestrutura de e-commerce por trás do pagamento móvel
+- [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — Outra indústria de Taiwan que começou com apoio político e acabou mudando o tabuleiro global
+- [Ecossistema de startups](/pt/economy/taiwan-startup-ecosystem-overview) — O panorama completo do círculo de startups onde a JKOPAY nasceu
+- [Ecossistema de comércio eletrônico e pagamentos digitais](/pt/technology/e-commerce-and-digital-payment-ecosystem) — A infraestrutura de e-commerce por trás do pagamento móvel
 - [Bolsa e mercado de capitais de Taiwan](/economy/台灣股市與資本市場) — Do telefone de corretor ao investimento programado no celular, a evolução da infraestrutura financeira e do mercado de capitais
 
 ## Referências

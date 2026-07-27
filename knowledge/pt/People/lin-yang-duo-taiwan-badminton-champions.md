@@ -210,9 +210,9 @@ Mesmo com a aposentadoria de Lee, o nome "Lin-Yang" permanecerá para sempre lig
 
 **Leitura complementar**:
 
-- [Kuo Hsing-chun](/people/郭婞淳) — Ouro no levantamento de peso em Tóquio, representante da geração de ouro olímpico de Taiwan junto com a Lin-Yang
+- [Kuo Hsing-chun](/pt/people/kuo-hsing-chun-olympic-weightlifting-champion) — Ouro no levantamento de peso em Tóquio, representante da geração de ouro olímpico de Taiwan junto com a Lin-Yang
 - [Lee Yang](/people/李洋) — Biografia do lado direito da Lin-Yang: de "não tem jeito para o badminton" (palavras do pai) a ministro do Esporte mais jovem da história
-- [Tai Tzu-ying](/people/戴資穎) — Rainha do individual feminino na mesma época, o outro rosto da geração de ouro do badminton de Taiwan
+- [Tai Tzu-ying](/pt/people/tai-tzu-ying) — Rainha do individual feminino na mesma época, o outro rosto da geração de ouro do badminton de Taiwan
 
 ## Referências
 

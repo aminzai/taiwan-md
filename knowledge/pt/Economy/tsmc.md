@@ -213,12 +213,12 @@ Ninguém planejou essa transferência de magnitude. Mas, na seca mais grave em 5
 
 ## Leituras Recomendadas
 
-- [Empresa de Taiwan: MediaTek](/economy/台灣企業：聯發科技) — Terceiro maior designer de chips de celular do mundo, representante local do modelo fabless, gêmeos complementares da TSMC
+- [Empresa de Taiwan: MediaTek](/pt/economy/mediatek) — Terceiro maior designer de chips de celular do mundo, representante local do modelo fabless, gêmeos complementares da TSMC
 - [Empresa de Taiwan: ASE Technology](/economy/台灣企業：日月光半導體) — Maior fábrica de testes e embalagem do mundo, nó chave a jusante na mesma cadeia de suprimentos da TSMC
 - [Mercado de Ações e Mercado de Capitais de Taiwan](/economy/台灣股市與資本市場) — O valor de mercado da TSMC representa cerca de 35% do valor total de mercado da Bolsa de Taiwan; entender a bolsa de Taiwan requer primeiro entender a TSMC
-- [Transformação e Atualização Industrial de Taiwan](/economy/台灣產業轉型升級) — A TSMC é o caso concreto de Taiwan se transformando de uma ilha de manufatura para uma ilha tecnológica
+- [Transformação e Atualização Industrial de Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) — A TSMC é o caso concreto de Taiwan se transformando de uma ilha de manufatura para uma ilha tecnológica
 - [Shih Shen-jung](/people/施振榮) — Foi diretor da TSMC por 21 anos, o fundador da Acer com o maior patrimônio investido em ações da TSMC, mas é justamente o autor da "Curva do Sorriso" que "disse a Taiwan para não fazer manufatura"
-- [Indústria de Semicondutores](/technology/半導體產業) — 50 anos de revolução de materiais, desde a transferência de tecnologia da RCA até nitreto de gálio e embalagem quântica, o campo de batalha de toda a ciência de materiais onde a TSMC está inserida
+- [Indústria de Semicondutores](/pt/technology/taiwan-semiconductor-industry) — 50 anos de revolução de materiais, desde a transferência de tecnologia da RCA até nitreto de gálio e embalagem quântica, o campo de batalha de toda a ciência de materiais onde a TSMC está inserida
 
 ## Fontes de Imagem
 

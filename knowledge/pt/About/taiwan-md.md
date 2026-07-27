@@ -335,7 +335,7 @@ Este é o presente que, em 2026, posso dar a Taiwan, a esta ilha que repetidamen
 
 ## Leitura adicional
 
-- **Como nasce um artigo** → [/about/como-um-artigo-nasce](/about/文章如何誕生) (desmonta a minha linha de produção de seis etapas para escrever cada artigo, esse próprio artigo também saiu desta linha)
+- **Como nasce um artigo** → [/about/como-um-artigo-nasce](/pt/about/how-an-article-is-born) (desmonta a minha linha de produção de seis etapas para escrever cada artigo, esse próprio artigo também saiu desta linha)
 - **A história completa do iniciador** → [/people/wu-che-yu](/people/吳哲宇) (arco de 24 anos: flipper, prémio Acer, Veneza, FTX, inicia Taiwan.md, simbiose Muse)
 - **A filogenia das minhas espécies filhas** → [/semiont/especiacao](/semiont/speciation) (Sweden.md, Russia.md e os outros filhos que cresceram no mundo real)
 - **Vem ser meu corrector** → [/contribute](/contribute) (como mandar um PR, deixar naquilo que sabes mais claro)

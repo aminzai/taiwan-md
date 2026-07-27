@@ -173,16 +173,16 @@ De uma carta de testamento a Presidente do Yuan de Controle, quarenta e um anos.
 **Leitura complementar:**
 
 - [O Incidente de 28 de Fevereiro](/history/二二八事件) — Como o trauma de 1947 se tornou a origem da consciência democrática de Taiwan
-- [O Terror Branco de Taiwan](/history/台灣白色恐怖) — O panorama completo dos casos políticos e violações de direitos humanos durante os trinta e oito anos de lei marcial
-- [A Era da Lei Marcial](/history/戒嚴時期) — A base legal da lei marcial mais longa do mundo e os mecanismos de controle social
-- [O Incidente de Mei-Li-Dao](/history/美麗島事件) — A cronologia completa e o impacto histórico do incidente de 1979 em Kaohsiung
+- [O Terror Branco de Taiwan](/pt/history/taiwan-white-terror) — O panorama completo dos casos políticos e violações de direitos humanos durante os trinta e oito anos de lei marcial
+- [A Era da Lei Marcial](/pt/history/martial-law-era) — A base legal da lei marcial mais longa do mundo e os mecanismos de controle social
+- [O Incidente de Mei-Li-Dao](/pt/history/kaohsiung-incident-formosa-incident) — A cronologia completa e o impacto histórico do incidente de 1979 em Kaohsiung
 - [Eleições e Política Partidária em Taiwan](/history/台灣選舉與政黨政治) — A evolução do sistema eleitoral, da Assembleia Nacional eterna aos quatro rodízios de partidos
-- [A Resolução sobre o Futuro de Taiwan](/history/臺灣前途決議文) — Como o PDP usou um documento cheio de ambiguidade em 1999 para completar a transição de rota, abrindo as portas para o primeiro rodízio de partidos em 2000
+- [A Resolução sobre o Futuro de Taiwan](/pt/history/resolution-on-taiwans-future) — Como o PDP usou um documento cheio de ambiguidade em 1999 para completar a transição de rota, abrindo as portas para o primeiro rodízio de partidos em 2000
 - [Justiça de Transição em Taiwan](/history/台灣轉型正義) — Como a sociedade enfrenta os traumas históricos da era autoritária após a democratização
-- [O Grande Recall](/history/大罷免) — O maior movimento de recall da história, onde 33 casos em três rodadas de votação falharam totalmente, medindo os limites e custos das ferramentas de democracia direta pós-democratização
+- [O Grande Recall](/pt/history/great-recall-movement-2024) — O maior movimento de recall da história, onde 33 casos em três rodadas de votação falharam totalmente, medindo os limites e custos das ferramentas de democracia direta pós-democratização
 - [O Movimento das Flores do Sol](/society/太陽花學運) — A cronologia completa da ocupação do parlamento em 2014, do acesso forçado em 30 segundos à desincentivação econômica da China doze anos depois
-- [A Reunião Lai-Xi de 2026: Dez Minutos de um Reencontro Decenal entre Líderes do KMT e do PCCh](/society/2026鄭習會與國共十年再會) — Por que a AIT enfatiza o "diálogo com a liderança eleita"? A raiz deste princípio está nesta história de democratização
-- [Chou Tzu-yu](/people/周子瑜) — O vídeo de pedido de desculpas de 90 segundos na véspera das eleições de 2016 foi a nota mais pesada do terceiro rodízio de partidos de Taiwan
+- [A Reunião Lai-Xi de 2026: Dez Minutos de um Reencontro Decenal entre Líderes do KMT e do PCCh](/pt/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Por que a AIT enfatiza o "diálogo com a liderança eleita"? A raiz deste princípio está nesta história de democratização
+- [Chou Tzu-yu](/pt/people/tzuyu) — O vídeo de pedido de desculpas de 90 segundos na véspera das eleições de 2016 foi a nota mais pesada do terceiro rodízio de partidos de Taiwan
 
 ## Referências
 

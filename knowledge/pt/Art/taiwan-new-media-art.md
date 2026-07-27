@@ -146,17 +146,17 @@ Quando o nome de Yang Yu-xian apareceu na lista de júri do Festival Ars Electro
 **Leitura Recomendada**:
 
 - [Desenvolvimento da Literatura Contemporânea de Taiwan](/art/台灣當代文學發展) — O ecossistema criativo contemporâneo de Taiwan que floresceu simultaneamente com a arte nova-mídia, compreendendo o contexto geral do círculo cultural
-- [Teatro e Artes Cênicas de Taiwan](/art/台灣劇場與表演藝術) — O background das artes cênicas de criadores interdisciplinares como Huang Yi, na intersecção entre corpo e tecnologia
-- [Cinema de Taiwan](/art/台灣電影) — Outra vertente da arte visual de Taiwan, compartilhando o palco dos festivais de cinema com a arte nova-mídia
-- [Comunidades de Código Aberto e g0v](/technology/開源社群與g0v) — Outro lado da cultura tecnológica de Taiwan, a intersecção do espírito de código aberto com o círculo artístico
-- [História da Indústria de TV de Taiwan](/technology/台灣電視產業史) — A evolução da mídia da radiodifusão à OTT, o contexto institucional da tecnologia de imagem
-- [justfont e o Desenvolvimento de Fontes de Taiwan](/technology/justfont與台灣字體發展) — Outro grupo de criadores na fronteira entre design, tecnologia e identidade cultural: aqueles que nutriram letra por letra as fontes de Taiwan
+- [Teatro e Artes Cênicas de Taiwan](/pt/art/taiwanese-theater-and-performing-arts) — O background das artes cênicas de criadores interdisciplinares como Huang Yi, na intersecção entre corpo e tecnologia
+- [Cinema de Taiwan](/pt/art/taiwanese-cinema) — Outra vertente da arte visual de Taiwan, compartilhando o palco dos festivais de cinema com a arte nova-mídia
+- [Comunidades de Código Aberto e g0v](/pt/technology/open-source-and-g0v) — Outro lado da cultura tecnológica de Taiwan, a intersecção do espírito de código aberto com o círculo artístico
+- [História da Indústria de TV de Taiwan](/pt/technology/taiwan-television-industry-history) — A evolução da mídia da radiodifusão à OTT, o contexto institucional da tecnologia de imagem
+- [justfont e o Desenvolvimento de Fontes de Taiwan](/pt/technology/justfont-and-taiwan-typography) — Outro grupo de criadores na fronteira entre design, tecnologia e identidade cultural: aqueles que nutriram letra por letra as fontes de Taiwan
 - [Xie De-qing](/art/謝德慶) — A mídia corporal antes da nova mídia, o pioneiro da arte de performance de Taiwan e mestre internacional dos "Cinco Anos de Comportamento"
-- [Wang Xin-ren (A-Luan)](/art/王新仁) — O primeiro artista generativo de Taiwan a subir na Art Blocks, figura central do projeto Baiyue da akaSwap e FAB DAO
-- [Wang Lian-sheng (Pai do Camarão)](/art/王連晟) — Vencedor do Primeiro Prêmio de Escultura do Prêmio Lumiere de 2017, membro do i/O Lab e curador do Festival do Som Perdido, representante da arte de instalação sonora de Taiwan
+- [Wang Xin-ren (A-Luan)](/pt/art/wang-hsin-jen-artist) — O primeiro artista generativo de Taiwan a subir na Art Blocks, figura central do projeto Baiyue da akaSwap e FAB DAO
+- [Wang Lian-sheng (Pai do Camarão)](/pt/art/wang-lien-cheng-artist) — Vencedor do Primeiro Prêmio de Escultura do Prêmio Lumiere de 2017, membro do i/O Lab e curador do Festival do Som Perdido, representante da arte de instalação sonora de Taiwan
 - [Wu Zhe-yu](/people/吳哲宇) — Artista de nova-mídia que se autodenomina "Relojoeiro Antigo", iniciador do projeto de código aberto Personal Structures × Art Basel Miami × Taiwan.md da Bienal de Veneza
 - [The Reporter: Dez Anos para Salvar o Jornalismo Investigativo de Ser uma Atividade Comercial para Bem Público](/society/報導者) — Outro caso de DNA de Taiwan impulsionado por comunidades civis e crescendo de forma interdisciplinar, mostrando outra via de construção de bem público pela sociedade civil após 2015
-- [justfont e o Desenvolvimento de Fontes de Taiwan: Uma Breve História Tipográfica de 25 Anos da Wan Tong a 76 Minutos de Jin Xuan](/technology/justfont與台灣字體發展) — Fontes como infraestrutura cultural, outra dimensão que, assim como a arte nova-mídia, se preocupa com a subjetividade visual de Taiwan
+- [justfont e o Desenvolvimento de Fontes de Taiwan: Uma Breve História Tipográfica de 25 Anos da Wan Tong a 76 Minutos de Jin Xuan](/pt/technology/justfont-and-taiwan-typography) — Fontes como infraestrutura cultural, outra dimensão que, assim como a arte nova-mídia, se preocupa com a subjetividade visual de Taiwan
 - [Cabos Submarinos: Visíveis do Topo do Escudo de Silício, Invisíveis na Veia da Vida](/technology/海底電纜) — 99% das exposições e colaborações curatoriais de arte nova-mídia transnacionais passam por cabos submarinos; este artigo revela esta infraestrutura cultural digital invisível
 - [Nie Yong-zhen](/people/聶永真) — Primeiro membro da Aliança Internacional de Design Gráfico AGI de Taiwan, posição curatorial do Studio Yongzhen Jizhi e da cultura visual contemporânea de Taiwan
 

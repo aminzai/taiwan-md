@@ -82,10 +82,10 @@ Ao terminar sua história, vale perguntar: numa época em que algoritmos decidem
 
 **Leitura complementar**
 
-- [Cheng Nan-jung](/people/鄭南榕) — o praticante da geração seguinte que levou a liberdade de expressão pela qual a geração de Yin Haiguang lutou ao extremo da "autoimolação em defesa"
+- [Cheng Nan-jung](/pt/people/zheng-nanrong) — o praticante da geração seguinte que levou a liberdade de expressão pela qual a geração de Yin Haiguang lutou ao extremo da "autoimolação em defesa"
 - [Hsu Cho-yun](/people/許倬雲) — historiador do pensamento que, nos anos 1960, também no sistema da Universidade Nacional de Taiwan e da Academia Sinica, impulsionou a modernização das ciências humanas e sociais
-- [Terror Branco em Taiwan](/history/台灣白色恐怖) — o contexto político global da prisão domiciliar de Yin Haiguang, da prisão de Lei Zhen, da proibição de _Perspectivas da Cultura Chinesa_
-- [Período da Lei Marcial](/history/戒嚴時期) — o arcabouço legal e político por trás do Caso Lei Zhen, do fechamento da Livraria Wenxing, do fim da _Free China_
+- [Terror Branco em Taiwan](/pt/history/taiwan-white-terror) — o contexto político global da prisão domiciliar de Yin Haiguang, da prisão de Lei Zhen, da proibição de _Perspectivas da Cultura Chinesa_
+- [Período da Lei Marcial](/pt/history/martial-law-era) — o arcabouço legal e político por trás do Caso Lei Zhen, do fechamento da Livraria Wenxing, do fim da _Free China_
 - [Incidente 228](/history/二二八事件) — ocorrido dois anos antes da chegada de Yin Haiguang a Taiwan, moldou seu choque inicial com o "Estado-partido autoritário"
 
 ---

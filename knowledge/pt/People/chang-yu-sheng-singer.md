@@ -101,7 +101,7 @@ Ao lado estava a diva que ele próprio moldou; ele já não estava lá.
 
 ## Leituras complementares
 
-- [A-mei / Chang Hui-mei (張惠妹)](/people/張惠妹) — Chang Yu-sheng produziu nos bastidores os álbuns _Irmãs_ e _Bad Boy_, catapultando-a ao trono de diva do mandarim; a canção no palco dos Golden Melody 2017 é a homenagem mais profunda.
+- [A-mei / Chang Hui-mei (張惠妹)](/pt/people/a-mei) — Chang Yu-sheng produziu nos bastidores os álbuns _Irmãs_ e _Bad Boy_, catapultando-a ao trono de diva do mandarim; a canção no palco dos Golden Melody 2017 é a homenagem mais profunda.
 - [Música popular de Taiwan (台灣流行音樂)](/music/台灣流行音樂) — Contexto da indústria pop mandarim nos anos 1980-90 e a posição histórica da criação experimental de Chang Yu-sheng.
 - [Wei Ru-hsuan (魏如萱)](/people/魏如萱) — Outra artista que atravessa a tensão entre ídolo mainstream e identidade de autora; outro caminho de negociação entre mercado e criação.
 - [Lin Yu-chia (林宥嘉)](/people/林宥嘉) — Uma geração depois, outro puxar de corda entre «ídolo e músico»: 17 anos do campeão do Super Star 2007 até à carta de demissão como produtor próprio em 2024.

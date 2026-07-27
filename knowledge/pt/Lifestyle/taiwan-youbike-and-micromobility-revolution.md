@@ -112,8 +112,8 @@ Quando isso acontece, a questão do planeamento urbano deixa de ser "a rua é ba
 
 **Leitura complementar**:
 
-- [Sistema de transportes de Taiwan (台灣交通系統)](/lifestyle/台灣交通系統) — O YouBike é a última milha deste sistema; este artigo completa o contexto mais a montante
-- [História do desenvolvimento do MRT de Taiwan (台灣捷運發展史)](/lifestyle/台灣捷運發展史) — Por que o YouBike tem de fazer interface com o MRT? Como essa interface se tornou infraestrutura diária
+- [Sistema de transportes de Taiwan (台灣交通系統)](/pt/lifestyle/transportation-system) — O YouBike é a última milha deste sistema; este artigo completa o contexto mais a montante
+- [História do desenvolvimento do MRT de Taiwan (台灣捷運發展史)](/pt/lifestyle/history-of-taiwan-mrt-development) — Por que o YouBike tem de fazer interface com o MRT? Como essa interface se tornou infraestrutura diária
 - [Crise climática e transição para zero líquido em Taiwan (台灣氣候危機與淨零轉型)](/nature/台灣氣候危機與淨零轉型) — O lugar da micromobilidade nos 28% de quota do transporte verde
 
 ## Referências

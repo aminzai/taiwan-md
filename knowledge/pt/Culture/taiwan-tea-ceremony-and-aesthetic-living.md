@@ -136,7 +136,7 @@ As glicínias da _Wistaria Tea House_ florescem todos os anos na primavera. Chou
 
 ## Leituras Adicionais
 
-- [Cultura do Chá de Taiwan](/culture/台灣茶文化) - Guia profundo sobre variedades e regiões
-- [Festivais e Celebrações Tradicionais](/culture/傳統節慶與慶典) - O papel do chá nas festividades
-- [Sensibilidade de Taiwan: Precisamos que os coreanos curtam primeiro para termos coragem de dizer que nossas casas antigas são belas?](/culture/台灣感性) — Uma revalorização da estética cotidiana de Taiwan (flores de ferro, granilite, casas antigas).
+- [Cultura do Chá de Taiwan](/pt/culture/taiwanese-tea-culture-and-living-aesthetics) - Guia profundo sobre variedades e regiões
+- [Festivais e Celebrações Tradicionais](/pt/culture/traditional-festivals-and-celebrations) - O papel do chá nas festividades
+- [Sensibilidade de Taiwan: Precisamos que os coreanos curtam primeiro para termos coragem de dizer que nossas casas antigas são belas?](/pt/culture/taiwanese-sensibility) — Uma revalorização da estética cotidiana de Taiwan (flores de ferro, granilite, casas antigas).
 - [Cultura e Língua Hakka](/culture/客家文化與語言) - A conexão entre o _Oriental Beauty_ e as regiões de chá Hakka

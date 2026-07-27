@@ -175,15 +175,15 @@ Da próxima vez que pensar em Taoyuan, não pense só no aeroporto. Pense no res
 
 ## Leituras complementares
 
-- [Keelung](/geography/基隆市) — Série 22 condados e cidades piloto: 1979, ano da inauguração do Aeroporto de Taoyuan, a porta de Taiwan para o exterior mudou do porto de Keelung para Taoyuan, Keelung caiu de 7º mundial para 113º
+- [Keelung](/pt/geography/keelung-city) — Série 22 condados e cidades piloto: 1979, ano da inauguração do Aeroporto de Taoyuan, a porta de Taiwan para o exterior mudou do porto de Keelung para Taoyuan, Keelung caiu de 7º mundial para 113º
 - [Condado de Hsinchu](/geography/新竹縣) — Condado vizinho na borda sul dos hakka de Taoyuan: 1895, Chiang Shao-tsu partiu de Peipu, Hsinchu, para norte participar da Batalha de Daxikan
-- [Hsinchu](/geography/新竹市) — Junto com Taoyuan forma o centro da distribuição hakka do norte, 1875 região de Taoyuan passou a pertencer ao condado de Hsinchu
+- [Hsinchu](/pt/geography/hsinchu-city) — Junto com Taoyuan forma o centro da distribuição hakka do norte, 1875 região de Taoyuan passou a pertencer ao condado de Hsinchu
 - [Condado de Miaoli](/geography/苗栗縣) — Série 22 condados e cidades lote 1 irmão: ponto de partida da faixa de imigração hakka Miaoli-Taoyuan, Wu Tang-hsing 1895 subiu ao norte resistir
 - [Condado de Nantou](/geography/南投縣) — Série 22 condados e cidades lote 3: único condado sem litoral vs platô de Taoyuan com importações/exportações, duas "fronteiras" em contraste
 - [Cultura e língua hakka](/culture/客家文化與語言) — Taoyuan mais de 800 mil hakka, o maior do país
-- [Trabalhadores migrantes](/society/移工) — Taoyuan 132.158 trabalhadores migrantes, o maior do país
-- [Guerra de 1895](/history/乙未之役) — 1895 Chiang Shao-tsu, Wu Tang-hsing, Chiang Kuo-hui em Daxikan, Taoyuan, resistência hakka
-- [Chiang Kai-shek](/people/蔣中正) — 1975 faleceu sepultado em Cihu, Tashi, hoje Parque Memorial de Esculturas de Cihu abriga estátuas de Chiang Kai-shek removidas de todo Taiwan
+- [Trabalhadores migrantes](/pt/society/migrant-workers-in-taiwan) — Taoyuan 132.158 trabalhadores migrantes, o maior do país
+- [Guerra de 1895](/pt/history/1895-taiwan-resistance-war) — 1895 Chiang Shao-tsu, Wu Tang-hsing, Chiang Kuo-hui em Daxikan, Taoyuan, resistência hakka
+- [Chiang Kai-shek](/pt/people/chiang-kai-shek) — 1975 faleceu sepultado em Cihu, Tashi, hoje Parque Memorial de Esculturas de Cihu abriga estátuas de Chiang Kai-shek removidas de todo Taiwan
 
 ## Fontes das imagens
 

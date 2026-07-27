@@ -109,7 +109,7 @@ Ao observarmos, no auge do verão de 2026, pequenas mesas de oferenda em frente 
 
 ## Leitura Adicional
 
-- [Festival Zhongyuan](/culture/中元節) — Uma leitura histórica do Festival Zhongyuan como um tratado de paz social.
+- [Festival Zhongyuan](/pt/culture/ghost-festival-zhongyuan) — Uma leitura histórica do Festival Zhongyuan como um tratado de paz social.
 - [Festival do Barco Dragão](/culture/端午節) — Outro festival reinventado por Taiwan.
 
 ## Referências

@@ -228,7 +228,7 @@ Mas os métodos de entrada não vão desaparecer. Porque não são apenas ferram
 
 ## Leitura complementar
 
-- [Indústria de semicondutores](/technology/半導體產業) — a indústria que produz os chips por trás dos teclados
+- [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — a indústria que produz os chips por trás dos teclados
 
 ## Referências
 

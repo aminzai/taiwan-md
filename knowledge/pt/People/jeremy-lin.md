@@ -114,9 +114,9 @@ A carreira de Jeremy Lin nunca se encaixou nas expectativas de ninguém — incl
 
 **Leitura complementar**:
 
-- [Kuo Hsing-chun (郭婞淳)](/people/郭婞淳) — atleta taiwanesa da mesma geração, três medalhas olímpicas, onze recordes mundiais no levantamento de peso
-- [Tai Tzu-ying (戴資穎)](/people/戴資穎) — outra atleta taiwanesa no palco mundial, ex-número 1 do badminton
-- [Jay Chou (周杰倫)](/people/周杰倫) — representante da música taiwanesa, presente na cerimônia de aposentadoria de Jeremy Lin
+- [Kuo Hsing-chun (郭婞淳)](/pt/people/kuo-hsing-chun-olympic-weightlifting-champion) — atleta taiwanesa da mesma geração, três medalhas olímpicas, onze recordes mundiais no levantamento de peso
+- [Tai Tzu-ying (戴資穎)](/pt/people/tai-tzu-ying) — outra atleta taiwanesa no palco mundial, ex-número 1 do badminton
+- [Jay Chou (周杰倫)](/pt/people/jay-chou) — representante da música taiwanesa, presente na cerimônia de aposentadoria de Jeremy Lin
 - [Relações entre Taiwan e os EUA](/society/台灣與美國關係) — Jeremy Lin, como taiwanês-americano, carrega a trajetória da geração que foi estudar nos EUA após 1965
 - [Lee Yang (李洋)](/people/李洋) — do ouro olímpico à posse como primeiro ministro do Esporte, outro caminho de atleta taiwanês
 

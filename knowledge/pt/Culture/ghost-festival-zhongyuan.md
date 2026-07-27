@@ -78,7 +78,7 @@ O Festival de Zhongyuan nos lembra que a paz nesta ilha não é algo garantido, 
 
 ## Leitura Adicional
 
-- [Julho do Calendário Lunar](/culture/農曆七月) — O ritmo social de todo o "Mês dos Fantasmas"
+- [Julho do Calendário Lunar](/pt/culture/lunar-july-ghost-month) — O ritmo social de todo o "Mês dos Fantasmas"
 - [Festival do Barco Dragão](/culture/端午節) — Como os pacotes de festivais são localizados em Taiwan
 
 ## Referências

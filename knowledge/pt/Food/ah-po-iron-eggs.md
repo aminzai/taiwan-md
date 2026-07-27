@@ -101,7 +101,7 @@ Os ovos de ferro não são apenas um petisco; eles carregam a história da trans
 
 ## Temas Relacionados
 
-- [Cultura de Mercado Noturno](/Food/夜市文化) — Análise profunda do mercado noturno como espaço social
-- [Petiscos de Taiwan](/Food/台灣小吃) — A coragem popular da alimentação comum de Taiwan
+- [Cultura de Mercado Noturno](/pt/food/night-market-culture) — Análise profunda do mercado noturno como espaço social
+- [Petiscos de Taiwan](/pt/food/taiwanese-street-food) — A coragem popular da alimentação comum de Taiwan
 - [Arroz com Carne Cozida em Molho de Taiwan](/Food/台灣滷肉飯) — A memória étnica de uma tigela de arroz com carne cozida em molho
-- [Cultura Alimentar Hakka](/Food/客家飲食文化) — A sabedoria alimentar do grupo Hakka
+- [Cultura Alimentar Hakka](/pt/food/hakka-food-culture) — A sabedoria alimentar do grupo Hakka

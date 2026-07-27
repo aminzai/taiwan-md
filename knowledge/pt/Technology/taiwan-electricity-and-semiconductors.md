@@ -173,10 +173,10 @@ Os semicondutores fazem Taiwan ser necessária ao mundo. A eletricidade lembra a
 
 ## Leitura complementar
 
-- [Cadeia de abastecimento de hardware de IA](/technology/AI硬體供應鏈) — Como Taiwan transforma a procura da nuvem em máquinas prontas a expedir.
+- [Cadeia de abastecimento de hardware de IA](/pt/technology/ai-hardware-supply-chain) — Como Taiwan transforma a procura da nuvem em máquinas prontas a expedir.
 - [Água para semicondutores e recursos hídricos de Taiwan](/technology/半導體用水與台灣水資源) — Como a fabricação de wafers entra na gestão de reservatórios, secas e água regenerada.
-- [Fábricas no exterior na cadeia de abastecimento de IA](/technology/AI供應鏈海外設廠) — Como fábricas no exterior amarram cadeia de abastecimento, eletricidade e infraestrutura local.
-- [Empresa de Taiwan: TSMC](/economy/台灣企業：台積電) — Como o modelo de pure-play foundry se tornou o gargalo global de chips avançados.
+- [Fábricas no exterior na cadeia de abastecimento de IA](/pt/technology/ai-supply-chain-overseas-manufacturing) — Como fábricas no exterior amarram cadeia de abastecimento, eletricidade e infraestrutura local.
+- [Empresa de Taiwan: TSMC](/pt/economy/tsmc) — Como o modelo de pure-play foundry se tornou o gargalo global de chips avançados.
 
 ## Fontes das imagens
 

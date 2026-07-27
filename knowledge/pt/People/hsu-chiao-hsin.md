@@ -183,12 +183,12 @@ Esta é sua maior conquista, e também sua limitação mais profunda.
 
 **Leitura adicional**:
 
-- [Han Kuo-yu](/people/韓國瑜) — Mediador das negociações de compras militares de 2026, presença-chave na controvérsia de Hsu Chiao-hsin; polo do Yuan na estrutura dual "presidente do partido—presidente do Yuan" do campo azul
-- [Cheng Li-wen](/people/鄭麗文) — Presidente do partido na mesma controvérsia de compras militares, aliada a Fu Kun-chi na defesa da versão do partido de 380 mil milhões + N, colidindo com a versão de 800 mil milhões de Hsu Chiao-hsin
-- [Cho Jung-tai](/people/卓榮泰) — Principal impulsionador do orçamento especial de 1,25 biliões do Yuan Executivo, o "framing" adversário ao qual a versão de Hsu (800 mil milhões) busca responder
-- [Lai Ching-te](/people/賴清德) — Líder político por trás do orçamento de 1,25 biliões, alvo recorrente dos confrontos de Hsu Chiao-hsin em interpelações parlamentares
+- [Han Kuo-yu](/pt/people/han-kuo-yu) — Mediador das negociações de compras militares de 2026, presença-chave na controvérsia de Hsu Chiao-hsin; polo do Yuan na estrutura dual "presidente do partido—presidente do Yuan" do campo azul
+- [Cheng Li-wen](/pt/people/cheng-li-wun) — Presidente do partido na mesma controvérsia de compras militares, aliada a Fu Kun-chi na defesa da versão do partido de 380 mil milhões + N, colidindo com a versão de 800 mil milhões de Hsu Chiao-hsin
+- [Cho Jung-tai](/pt/people/cho-jung-tai) — Principal impulsionador do orçamento especial de 1,25 biliões do Yuan Executivo, o "framing" adversário ao qual a versão de Hsu (800 mil milhões) busca responder
+- [Lai Ching-te](/pt/people/lai-ching-te) — Líder político por trás do orçamento de 1,25 biliões, alvo recorrente dos confrontos de Hsu Chiao-hsin em interpelações parlamentares
 - [Defesa e modernização militar de Taiwan](/society/台灣國防與軍事現代化) — Contexto completo da colisão entre 800 mil milhões vs 380 mil milhões + N vs 1,25 biliões
-- [Hsiao Bi-khim](/people/蕭美琴) — Outro arquétipo político feminino na mesma estrutura, caminho oposto ao de Hsu Chiao-hsin e visão correspondente de Taiwan
+- [Hsiao Bi-khim](/pt/people/hsiao-bi-khim) — Outro arquétipo político feminino na mesma estrutura, caminho oposto ao de Hsu Chiao-hsin e visão correspondente de Taiwan
 
 ## Referências
 

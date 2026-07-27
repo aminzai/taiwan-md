@@ -187,10 +187,10 @@ Como criar um ambiente de aprendizado mais humanizado enquanto mantém a qualida
 
 **Leitura Complementar:**
 
-- [Educação em Áreas Rurais de Taiwan](/society/台灣偏鄉教育) — Se você quiser ver claramente a desigualdade educacional do nível da criança, escola, comunidade familiar até a ideia de sucesso social, este artigo oferece um panorama maior.
-- [Educar Taiwan TFT](/society/為台灣而教TFT) — Este artigo foca em uma organização que responde concretamente à lacuna educacional em áreas rurais, complementando o contexto de ação e controvérsia.
+- [Educação em Áreas Rurais de Taiwan](/pt/society/taiwan-rural-education) — Se você quiser ver claramente a desigualdade educacional do nível da criança, escola, comunidade familiar até a ideia de sucesso social, este artigo oferece um panorama maior.
+- [Educar Taiwan TFT](/pt/society/teach-for-taiwan) — Este artigo foca em uma organização que responde concretamente à lacuna educacional em áreas rurais, complementando o contexto de ação e controvérsia.
 - [Crise da Diminuição da Natalidade em Taiwan](/society/台灣少子化危機) — Além do sistema de ingresso no ensino superior e da cultura competitiva, a diminuição da natalidade também está reescrevendo a sobrevivência de escolas e a distribuição de recursos educacionais.
-- [Escola Mista](/society/雜學校) — O festival de educação alternativa que cresceu após o Movimento 318 é um cenário concreto da imaginação fora do sistema, além do ingresso no ensino superior.
+- [Escola Mista](/pt/society/za-share) — O festival de educação alternativa que cresceu após o Movimento 318 é um cenário concreto da imaginação fora do sistema, além do ingresso no ensino superior.
 - [Expansão e Saída do Ensino Superior em Taiwan](/society/台灣高等教育擴張與退場) — A criação ampla de universidades queria afrouxar a porta estreita do ingresso no ensino superior; trinta anos depois, as consequências: onda de elevação, desvalorização de diplomas e a conta da saída.
 
 [^1]: Departamento de Estatísticas do Ministério da Educação, "Estatísticas de Ingresso no Ensino Superior", https://stats.moe.gov.tw/

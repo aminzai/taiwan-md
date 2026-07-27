@@ -156,11 +156,11 @@ Jensen Huang agora tem a marca de uma empresa tatuada no braço. Quando ele tinh
 **Leituras complementares**:
 
 - [Morris Chang](/people/張忠謀) — O parceiro mais importante da NVIDIA, fundador da TSMC; mais de trinta anos de amizade entre os dois ajudam a sustentar a cadeia mundial de fornecimento de IA
-- [Taiwan Semiconductor Manufacturing Company](/economy/台灣企業：台積電) — A empresa taiwanesa que fabrica sob contrato os chips mais avançados da NVIDIA, chamada por Jensen Huang de “heroína mundial”
-- [Indústria de semicondutores de Taiwan](/technology/半導體產業) — Os chips de Jensen Huang e Lisa Su são fabricados nesta ilha; este é o escudo de silício de Taiwan
+- [Taiwan Semiconductor Manufacturing Company](/pt/economy/tsmc) — A empresa taiwanesa que fabrica sob contrato os chips mais avançados da NVIDIA, chamada por Jensen Huang de “heroína mundial”
+- [Indústria de semicondutores de Taiwan](/pt/technology/taiwan-semiconductor-industry) — Os chips de Jensen Huang e Lisa Su são fabricados nesta ilha; este é o escudo de silício de Taiwan
 - [NVIDIA em Taiwan: a empresa mais valiosa do mundo não fabrica um único chip por conta própria](/technology/NVIDIA在台灣) — A empresa fundada por Huang vive em simbiose com a indústria desta ilha: chips, servidores, uma sede e um terreno de 4,434 bilhões de dólares taiwaneses
-- [Chi Huai-hsin: o taiwanês que ensinou a IA a “pensar passo a passo”](/people/紀懷新) — Outro taiwanês na linha de frente da IA: os chips de Jensen Huang fazem a IA funcionar rapidamente; as cadeias de pensamento de Chi Huai-hsin a ensinam a raciocinar passo a passo
-- [André Chiang](/people/江振誠) — Outro taiwanês que chegou ao auge internacional, mas seguiu o caminho oposto: afastou-se voluntariamente no ponto mais alto da carreira e recusou-se a ser definido para sempre por um único título
+- [Chi Huai-hsin: o taiwanês que ensinou a IA a “pensar passo a passo”](/pt/people/chi-huai-hsin) — Outro taiwanês na linha de frente da IA: os chips de Jensen Huang fazem a IA funcionar rapidamente; as cadeias de pensamento de Chi Huai-hsin a ensinam a raciocinar passo a passo
+- [André Chiang](/pt/people/andre-chiang-taiwanese-culinary-innovator) — Outro taiwanês que chegou ao auge internacional, mas seguiu o caminho oposto: afastou-se voluntariamente no ponto mais alto da carreira e recusou-se a ser definido para sempre por um único título
 
 ## Fontes das imagens
 

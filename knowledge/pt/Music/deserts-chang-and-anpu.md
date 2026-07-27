@@ -143,7 +143,7 @@ Ela não respondeu à pergunta. Disse outra coisa [^30]:
 
 Então fez uma reverência profunda às pessoas que erguiam as bandeiras.
 
-No dia seguinte, 13 de outubro, no mesmo Takao Rock Festival, Yang Ta-cheng, vocalista da [Fire EX.](/music/滅火器樂團/), interrompeu sua apresentação e dedicou quase sete minutos ao assunto [^30][^32].
+No dia seguinte, 13 de outubro, no mesmo Takao Rock Festival, Yang Ta-cheng, vocalista da [Fire EX.](/pt/music/fire-ex/), interrompeu sua apresentação e dedicou quase sete minutos ao assunto [^30][^32].
 
 Ele não defendeu Anpu nem aderiu à condenação. Falou sobre a estrutura do problema: “Este é o constrangimento de uma época e também o constrangimento do mercado. Temos muita sorte por não precisarmos pensar no mercado chinês. Mas os problemas que eles enfrentam são diferentes — há uma enorme tentação e talvez o desejo de sustentar mais pessoas.” O “eles” a que se referia incluía Anpu, Mayday e o ator Wu Kang-jen — três artistas atacados pela opinião pública taiwanesa naquela mesma semana por publicações no Weibo sobre o Dia Nacional da China [^32].
 
@@ -169,11 +169,11 @@ Talvez a filha tenha aprendido a mesma coisa com o pai. A diferença é que a re
 
 ## Leituras complementares
 
-- [Música independente de Taiwan](/music/台灣獨立音樂/) — o cenário independente ao qual Deserts Chang pertence
-- [História do rock taiwanês](/music/台灣搖滾樂發展史/) — da era das canções proibidas ao Festival de Rock de Hohaiyan
+- [Música independente de Taiwan](/pt/music/indie-music-scene/) — o cenário independente ao qual Deserts Chang pertence
+- [História do rock taiwanês](/pt/music/taiwan-rock-from-underground-to-mainstream/) — da era das canções proibidas ao Festival de Rock de Hohaiyan
 - [Movimento Estudantil Girassol](/society/太陽花學運/) — o que aconteceu depois dos trinta segundos que mudaram Taiwan em 2014
-- [Cultura dos festivais de música em Taiwan](/music/台灣音樂祭文化/) — de Kungliao ao Takao Rock Festival
-- [Rainie Yang](/people/楊丞琳) — outra trajetória de 25 anos de uma cantora do mundo de língua chinesa, da produção por terceiros à autoprodução, em paralelo à transformação de Anpu “de cantora adolescente em autora completa”
+- [Cultura dos festivais de música em Taiwan](/pt/music/taiwan-music-festival-culture/) — de Kungliao ao Takao Rock Festival
+- [Rainie Yang](/pt/people/rainie-yang) — outra trajetória de 25 anos de uma cantora do mundo de língua chinesa, da produção por terceiros à autoprodução, em paralelo à transformação de Anpu “de cantora adolescente em autora completa”
 
 ## Referências
 

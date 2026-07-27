@@ -164,9 +164,9 @@ A linha de produção da Thunder Tiger em Taichung, que começou com aviões de 
 **Leitura Complementar**
 
 - [Taiwan Defense and Military Modernization](/society/台灣國防與軍事現代化) — A visão completa da Estratégia do Ouriço por trás dos 200.000 drones
-- [Semiconductor Industry](/technology/半導體產業) — O setor estratégico anterior de Taiwan que surgiu devido à geopolítica
+- [Semiconductor Industry](/pt/technology/taiwan-semiconductor-industry) — O setor estratégico anterior de Taiwan que surgiu devido à geopolítica
 - [Taiwan Aerospace Industry Development](/technology/台灣太空產業發展) — De drones a satélites, a ambição no céu de Taiwan
-- [Taiwan Robotics Industry](/technology/台灣機器人產業) — Outro caso de "forte em componentes, fraco em整机", com os mesmos problemas estruturais dos drones
+- [Taiwan Robotics Industry](/pt/technology/taiwan-robotics-industry) — Outro caso de "forte em componentes, fraco em整机", com os mesmos problemas estruturais dos drones
 
 ## Referências
 

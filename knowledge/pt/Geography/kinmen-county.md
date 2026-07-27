@@ -196,15 +196,15 @@ Olhe para aquelas pessoas esperando para embarcar: há residentes de Kinmen indo
 ## Leituras Adicionais
 
 - [Condado de Lienchiang](/geography/連江縣) — Irmão da Série 22 Condados e Cidades, outro condado insular exterior da Província de Fujian. Mesmo governo militar em zonas de guerra em 1956, aboliu em 1992, Pequeno Três Vínculos em 2001, mas fala Min Dong Fuzhou, está a 50 km de Fuzhou, não tem batalha terrestre decisiva de escala Kuningtou, é o mesmo sistema com carnes e ossos diferentes de Kinmen
-- [Cidade de Keelung](/geography/基隆市) — Piloto da Série 22 Condados e Cidades, único porto de águas profundas do norte vs. fortaleza de defesa costeira no sul de Kinmen, duas linhas do tempo de portos de Taiwan
-- [Condado de Penghu](/geography/澎湖縣) — Terceiro condado do grupo insular da Série 22 Condados e Cidades, condado insular exterior como Kinmen, mas tem história de governação japonesa, pode comparar a diferença de Kinmen nunca ter sido diretamente administrado pela governação japonesa
+- [Cidade de Keelung](/pt/geography/keelung-city) — Piloto da Série 22 Condados e Cidades, único porto de águas profundas do norte vs. fortaleza de defesa costeira no sul de Kinmen, duas linhas do tempo de portos de Taiwan
+- [Condado de Penghu](/pt/geography/penghu-county) — Terceiro condado do grupo insular da Série 22 Condados e Cidades, condado insular exterior como Kinmen, mas tem história de governação japonesa, pode comparar a diferença de Kinmen nunca ter sido diretamente administrado pela governação japonesa
 - [Zheng Chenggong](/people/鄭成功) — Levantou-se em armas contra o Qing e restaurou a Ming em 1646 em Kinmen; a decisão desta pessoa de partir de Kinmen mais tarde mudou Taiwan
-- [Chiang Kai-shek](/people/蔣中正) — 1958 escreveu "Não Esqueça Juguang" no Monte Taiwu; o tomador de decisão que ordenou a defesa desesperada de Kinmen em 1949
-- [Período de Lei Marcial](/history/戒嚴時期) — A ilha principal de Taiwan declarou lei marcial em 1987, Kinmen e Matsu só aboliu o governo militar em zonas de guerra em 1992; leia este artigo para comparar as duas versões de lei marcial
-- [Crise do Estreito de Taiwan e Desenvolvimento de Relações entre os Dois Lados](/history/台海危機與兩岸關係發展) — A Batalha de 22 de Agosto é uma das evidências físicas mais concretas da Guerra Fria quente; a seção "Às 17h30" deste artigo é uma extensão condal deste artigo
+- [Chiang Kai-shek](/pt/people/chiang-kai-shek) — 1958 escreveu "Não Esqueça Juguang" no Monte Taiwu; o tomador de decisão que ordenou a defesa desesperada de Kinmen em 1949
+- [Período de Lei Marcial](/pt/history/martial-law-era) — A ilha principal de Taiwan declarou lei marcial em 1987, Kinmen e Matsu só aboliu o governo militar em zonas de guerra em 1992; leia este artigo para comparar as duas versões de lei marcial
+- [Crise do Estreito de Taiwan e Desenvolvimento de Relações entre os Dois Lados](/pt/history/taiwan-strait-crises-and-cross-strait-relations) — A Batalha de 22 de Agosto é uma das evidências físicas mais concretas da Guerra Fria quente; a seção "Às 17h30" deste artigo é uma extensão condal deste artigo
 - [Modernização da Defesa e Militar de Taiwan](/society/台灣國防與軍事現代化) — A evolução das guarnições militares de 50.000-100.000 em Kinmen para menos de 10.000 até hoje, comparada com a trajetória de modernização geral das forças da ROC
-- [Características Geográficas e Formação das Ilhas de Taiwan](/geography/台灣島嶼地理特色與形成) — Comparação da geologia granítica de Kinmen com os mecanismos de formação de outras ilhas de Taiwan
-- [Lendas de Mazu e do Deus do Caminho](/culture/媽祖與大道公的傳說) — A crença de Min Nan de Kinmen tem a mesma origem da ilha principal de Taiwan, diferindo da lenda do buraco espiritual do Templo de Mazu em Matsu
+- [Características Geográficas e Formação das Ilhas de Taiwan](/pt/geography/geography-and-geology) — Comparação da geologia granítica de Kinmen com os mecanismos de formação de outras ilhas de Taiwan
+- [Lendas de Mazu e do Deus do Caminho](/pt/culture/mazu-dadaogong-legend) — A crença de Min Nan de Kinmen tem a mesma origem da ilha principal de Taiwan, diferindo da lenda do buraco espiritual do Templo de Mazu em Matsu
 
 ## Fontes de Imagem
 

@@ -164,9 +164,9 @@ Em 2026, quando os comboios da Linha Sanxia-Yingge entrarem oficialmente em serv
 
 ## Leituras Complementares
 
-- [Desenvolvimento Urbano de Taiwan e Diferença Urbano-Rural](/geography/台灣都市發展與城鄉差距) — Recoloca o Distrito Especial de Beida no longo contexto das zonas de replanificação e expansão urbana de Taiwan.
-- [Nova Cidade de Linkou](/geography/林口新市鎮) — Confronta como outra "cidade-fantasma" outrora chamada amadureceu.
-- [Chá de Sanxia](/food/三峽茶) — Estende a leitura à cidade velha de Sanxia e ao substrato cultural da indústria local.
+- [Desenvolvimento Urbano de Taiwan e Diferença Urbano-Rural](/pt/geography/taiwan-urban-development-and-rural-urban-divide) — Recoloca o Distrito Especial de Beida no longo contexto das zonas de replanificação e expansão urbana de Taiwan.
+- [Nova Cidade de Linkou](/pt/geography/linkou-new-town) — Confronta como outra "cidade-fantasma" outrora chamada amadureceu.
+- [Chá de Sanxia](/pt/food/sanxia-tea) — Estende a leitura à cidade velha de Sanxia e ao substrato cultural da indústria local.
 
 ## Referências
 

@@ -182,8 +182,8 @@ A confusão daquele professor alemão é, na verdade, a resposta.
 
 ## Temas Relacionados
 
-- [Cultura dos Mercados Noturnos](/food/夜市文化) — Uma análise profunda dos mercados noturnos como espaços sociais
-- [Chá de Pérolas](/food/珍珠奶茶) — A hegemonia global da comida líquida
+- [Cultura dos Mercados Noturnos](/pt/food/night-market-culture) — Uma análise profunda dos mercados noturnos como espaços sociais
+- [Chá de Pérolas](/pt/food/bubble-tea) — A hegemonia global da comida líquida
 - [Braised Pork Rice de Taiwan](/food/台灣滷肉{}) — A memória étnica em uma tigela de arroz com porco
-- [Cultura Alimentar Hakka](/food/客家飲食文化) — A sabedoria gastronômica do povo Hakka
-- [Fusão Gastronétrica dos Novos Residentes em Taiwan](/food/台灣新住民美食融合) — A próxima onda de hibridismo alimentar está acontecendo
+- [Cultura Alimentar Hakka](/pt/food/hakka-food-culture) — A sabedoria gastronômica do povo Hakka
+- [Fusão Gastronétrica dos Novos Residentes em Taiwan](/pt/food/taiwanese-new-immigrant-culinary-fusion) — A próxima onda de hibridismo alimentar está acontecendo

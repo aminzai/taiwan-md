@@ -86,4 +86,4 @@ A tecnologia digital também abre novas possibilidades. Projeção dinâmica em 
 ## Leitura complementar
 
 - [Arte Contemporânea de Taiwan](/culture/台灣當代藝術) — Intersecção entre arte de rua taiwanesa e ecologia da arte contemporânea
-- [Música Eletrônica e Cultura de Festas em Taiwan](/music/台灣電子音樂與派對文化) — Cena de música eletrônica que compartilha raízes subculturais com a arte de rua
+- [Música Eletrônica e Cultura de Festas em Taiwan](/pt/music/taiwan-electronic-music-and-party-culture) — Cena de música eletrônica que compartilha raízes subculturais com a arte de rua

@@ -68,9 +68,9 @@ Para Chang Chih-chi, empreender e gerir o canal é um processo contínuo de tent
 
 ## Leituras complementares
 
-- **[A Di (阿滴)](/people/%E9%98%BF%E6%BB%B4/)**: cofundador da Associação de Criadores Audiovisuais de Novos Media de Taiwan, ambos YouTubers de conhecimento da geração «chefe de bairro»
-- **[Ba Jiong (八炯)](/people/%E5%85%AB%E7%82%AF/)**: também centrado em comentário de atualidades, mas segue a via da «zombaria e contra-infiltração», outra estratégia de auto-media
-- **[Transição Democrática de Taiwan](/history/%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E8%BD%89%E5%9E%8B/)**: contexto da evolução do debate público em Taiwan por trás do estilo de curadoria de «apresentação paralela de perspetivas» de Chang Chih-chi
+- **[A Di (阿滴)](/pt/people/ray-du-english-youtuber/)**: cofundador da Associação de Criadores Audiovisuais de Novos Media de Taiwan, ambos YouTubers de conhecimento da geração «chefe de bairro»
+- **[Ba Jiong (八炯)](/pt/people/pa-chiung-political-youtuber/)**: também centrado em comentário de atualidades, mas segue a via da «zombaria e contra-infiltração», outra estratégia de auto-media
+- **[Transição Democrática de Taiwan](/pt/history/taiwan-democratization/)**: contexto da evolução do debate público em Taiwan por trás do estilo de curadoria de «apresentação paralela de perspetivas» de Chang Chih-chi
 
 ---
 

@@ -81,9 +81,9 @@ Em vez de vê-los como bandidos, melhor reaprender a manter a "distância adequa
 
 ## Leitura complementar
 
-- [Ética dos zoológicos e animais de exibição](/society/動物園與展演動物倫理) (動物園與展演動物倫理) — Discussão ética sobre animais em cativeiro, complementar ao enquadramento de "vizinhos" dos macacos selvagens deste artigo
+- [Ética dos zoológicos e animais de exibição](/pt/society/zoo-and-exhibition-animal-ethics) (動物園與展演動物倫理) — Discussão ética sobre animais em cativeiro, complementar ao enquadramento de "vizinhos" dos macacos selvagens deste artigo
 - [Quais zoológicos existem em Taiwan](/society/台灣有哪些動物園) (台灣有哪些動物園) — Coexistência geográfica do Zoológico do Monte Shou com a população de macacos do Monte Shou
-- [Robert Swinhoe: quando o diplomata vira naturalista](/people/史溫侯) (史溫侯：當外交官變成博物學家) — O naturalista britânico que nomeou _Macaca cyclopis_ em 1862, a pré-história das notas [^4][^5] deste artigo
+- [Robert Swinhoe: quando o diplomata vira naturalista](/pt/people/robert-swinhoe-naturalist) (史溫侯：當外交官變成博物學家) — O naturalista britânico que nomeou _Macaca cyclopis_ em 1862, a pré-história das notas [^4][^5] deste artigo
 - [Garça-noturna-de-coroa-preta](/nature/黑冠麻鷺) (黑冠麻鷺) — Outro caso de vida selvagem entrando em área humana; a aproximação do macaco vem mais de atrativo alimentar, enquanto a entrada da garça na cidade se aproxima mais de expansão de habitat — humanos criaram acidentalmente nichos urbanos semelhantes a florestas de baixa altitude
 
 ## Referências

@@ -135,11 +135,11 @@ A conta não fechou.
 
 ## Leitura complementar
 
-- [Swinhoe: quando o diplomata vira naturalista](/people/史溫侯) — Fornecedor das fontes primárias deste artigo; o 〈Formosa Camphor〉 de 1864 é a pré-história da Guerra da Cânfora
-- [Período Qing](/history/清治時期) — Como a abertura dos portos e o comércio em 1860 reestruturaram a economia política de Taiwan
+- [Swinhoe: quando o diplomata vira naturalista](/pt/people/robert-swinhoe-naturalist) — Fornecedor das fontes primárias deste artigo; o 〈Formosa Camphor〉 de 1864 é a pré-história da Guerra da Cânfora
+- [Período Qing](/pt/history/qing-dynasty-rule) — Como a abertura dos portos e o comércio em 1860 reestruturaram a economia política de Taiwan
 - [Período japonês](/history/日治時期) — Como o Monopólio da Cânfora e a «Abrir as Montanhas e Pacificar os Selvagens» prolongaram a política de montanhas do final do período Qing
-- [História do desenvolvimento florestal de Taiwan](/history/台灣森林開發史) — Da cânfora ao hinoki, o percurso completo da exploração das montanhas de Taiwan
-- [Alishan: a floresta imperial e a montanha de Kao I-sheng](/history/阿里山：帝國的林場與高一生的山) — Como a pilhagem florestal se estendeu ao Alishan japonês e ao Terror Branco do pós-guerra
+- [História do desenvolvimento florestal de Taiwan](/pt/history/taiwan-forestry-history) — Da cânfora ao hinoki, o percurso completo da exploração das montanhas de Taiwan
+- [Alishan: a floresta imperial e a montanha de Kao I-sheng](/pt/history/alishan-empire-forest-and-uongu-yatauyungana) — Como a pilhagem florestal se estendeu ao Alishan japonês e ao Terror Branco do pós-guerra
 - [Museu Nacional de História de Taiwan](/society/國立臺灣歷史博物館) — Instituição nacional de terceiro nível que conserva o 〈Formosa Camphor〉 de Swinhoe de 1864 e outras fontes primárias da Guerra da Cânfora (sistema UUID do acervo NMTH, dados abertos sob licença governamental 1.0)
 
 ---

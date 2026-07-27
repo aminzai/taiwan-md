@@ -147,10 +147,10 @@ Se os próximos 30 anos vão repetir o mesmo caminho, maio de 2026 acabou de com
 **Leitura complementar**:
 
 - [Tsai Ing-wen](/people/蔡英文) — Fundadora do Fórum Pensar, founder da Fundação Educacional Tsai Ing-wen, 7ª e 8ª presidente da República da China (Taiwan) 2016–2024
-- [Lai Ching-te](/people/賴清德) — Sucessor de Tsai Ing-wen, 9º presidente da República da China (Taiwan), alvo implícito de contraposição no "Comentário de peso" do _United Daily News_ na reformulação de 2025-10 do Fórum Pensar
+- [Lai Ching-te](/pt/people/lai-ching-te) — Sucessor de Tsai Ing-wen, 9º presidente da República da China (Taiwan), alvo implícito de contraposição no "Comentário de peso" do _United Daily News_ na reformulação de 2025-10 do Fórum Pensar
 - [PanSci 泛科學](/society/泛科學) — Também plataforma de discussão pública, mas a PanSci faz da comunicação científica um híbrido de mídia de conhecimento, produtos educacionais e economia de criadores
 - [Operação Cognição Batata Doce 毒馬鈴薯認知作戰](/society/毒馬鈴薯認知作戰) — Um dos temas de guerra de informação da China discutidos continuamente na seção Geopolítica & Economia do Fórum Pensar
-- [Guerra Psicológica 心戰](/history/心戰) — Tema transversal com as seções Pensamento & Política / Segurança do Fórum Pensar
+- [Guerra Psicológica 心戰](/pt/history/psychological-warfare) — Tema transversal com as seções Pensamento & Política / Segurança do Fórum Pensar
 
 ## Referências
 

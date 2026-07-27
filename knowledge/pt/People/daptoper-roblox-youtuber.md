@@ -64,7 +64,7 @@ Quando falamos da cultura digital de Taiwan, a história de Chou Chih-hsuan é u
 ## Leitura complementar
 
 - [阿神 (A-Shen)](/people/阿神) — Outro YouTuber taiwanês originário do Minecraft, para comparar diferentes caminhos de transição
-- [阿滴 (A-Di)](/people/阿滴) — Criador de conteúdo da mesma geração e com formação na Tsing Hua (embora em área diferente)
+- [阿滴 (A-Di)](/pt/people/ray-du-english-youtuber) — Criador de conteúdo da mesma geração e com formação na Tsing Hua (embora em área diferente)
 - [蔡阿嘎 (Tsai A-Ga)](/people/蔡阿嘎) — Outra trajetória de carreira de YouTuber taiwanês com milhão de inscritos
 
 ## Referências

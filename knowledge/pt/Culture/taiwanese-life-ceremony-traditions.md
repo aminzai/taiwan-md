@@ -435,11 +435,11 @@ Talvez esse seja o valor mais precioso dos ritos de passagem de Taiwan: nos mome
 
 ## Leitura complementar
 
-- [Festividades e celebrações tradicionais](/culture/傳統節慶與慶典) - Entenda a relação entre os ritos de passagem e as festividades
+- [Festividades e celebrações tradicionais](/pt/culture/traditional-festivals-and-celebrations) - Entenda a relação entre os ritos de passagem e as festividades
 - [Grupos étnicos — hoklo, hakka, indígenas, chineses continentais e novos imigrantes](/culture/族群（閩南客家原住民外省新住民）) - Explore as características dos costumes de diferentes grupos
-- [Religiões e cultura dos templos em Taiwan](/culture/台灣宗教與寺廟文化) - Conheça o papel da religião nos ritos de passagem
-- [Cultura do chá e estética da vida em Taiwan](/culture/台灣茶道與生活美學) - Vivencie os elementos estéticos presentes nos costumes
-- [A cultura de bolos e doces de Taiwan](/food/台灣糕餅文化) — O papel concreto das caixas de doces de casamento nos conjuntos de seis e doze presentes, da confeitaria Yu Jen Jai, fundada em Lukang em 1877, à geração de 2026 que disputa ingressos em 30 segundos
+- [Religiões e cultura dos templos em Taiwan](/pt/culture/taiwan-religion-and-temple-culture) - Conheça o papel da religião nos ritos de passagem
+- [Cultura do chá e estética da vida em Taiwan](/pt/culture/taiwan-tea-ceremony-and-aesthetic-living) - Vivencie os elementos estéticos presentes nos costumes
+- [A cultura de bolos e doces de Taiwan](/pt/food/taiwan-pastry-culture) — O papel concreto das caixas de doces de casamento nos conjuntos de seis e doze presentes, da confeitaria Yu Jen Jai, fundada em Lukang em 1877, à geração de 2026 que disputa ingressos em 30 segundos
 
 ---
 

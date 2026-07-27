@@ -67,7 +67,7 @@ Em 2006, o Governo da Cidade de Taipé realizou o primeiro "Festival Cultural do
 
 ## Leitura complementar
 
-- [Cultura de bolos e biscoitos de Taiwan (台灣糕餅文化)](/food/台灣糕餅文化) — O gene milenar da arte dos bolos chineses (漢餅) e da confeitaria moderna; leia junto com o bolo de abacaxi para ver a transformação da panificação taiwanesa
+- [Cultura de bolos e biscoitos de Taiwan (台灣糕餅文化)](/pt/food/taiwan-pastry-culture) — O gene milenar da arte dos bolos chineses (漢餅) e da confeitaria moderna; leia junto com o bolo de abacaxi para ver a transformação da panificação taiwanesa
 - [Macarrão com carne bovina (牛肉麵)](/food/牛肉麵) — Outro pilar que define a memória gustativa taiwanesa, "diplomacia popular" por excelência; contraponto interno/externo ao bolo de abacaxi
 - [Modernização da agricultura de Taiwan (台灣農業現代化)](/economy/台灣農業現代化) — Do impasse produção-venda à virada agroindustrial; o bolo de abacaxi é um dos trechos dessa longa estrada
 

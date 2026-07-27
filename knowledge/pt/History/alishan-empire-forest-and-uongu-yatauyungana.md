@@ -90,12 +90,12 @@ Alishan não é uma montanha, é um livro de história inacabado. O poema de arr
 
 **Leitura complementar**:
 
-- [História do desenvolvimento florestal de Taiwan (台灣森林開發史)](/history/台灣森林開發史) — Como trezent anos de política florestal transformaram Alishan, Taipingshan e Basianshan em florestas imperiais
-- [Terror Branco em Taiwan (台灣白色恐怖)](/history/台灣白色恐怖) — O caso Uongʉ'e Yata'uyungana é apenas parte do expurgo da elite tsou; a escala da violência política em toda a década de 1950
-- [História dos povos indígenas de Taiwan e movimento de retificação de nomes (台灣原住民族歷史與正名運動)](/history/台灣原住民族歷史與正名運動) — A situação e a luta dos tsou e outros povos indígenas no Taiwan do pós-guerra
+- [História do desenvolvimento florestal de Taiwan (台灣森林開發史)](/pt/history/taiwan-forestry-history) — Como trezent anos de política florestal transformaram Alishan, Taipingshan e Basianshan em florestas imperiais
+- [Terror Branco em Taiwan (台灣白色恐怖)](/pt/history/taiwan-white-terror) — O caso Uongʉ'e Yata'uyungana é apenas parte do expurgo da elite tsou; a escala da violência política em toda a década de 1950
+- [História dos povos indígenas de Taiwan e movimento de retificação de nomes (台灣原住民族歷史與正名運動)](/pt/history/indigenous-peoples-history-and-naming-movement) — A situação e a luta dos tsou e outros povos indígenas no Taiwan do pós-guerra
 - [Incidente 228 (二二八事件)](/history/二二八事件) — Por que a bondade de Uongʉ'e Yata'uyungana em acolher mainlanders refugiados virou depois sua acusação
 - [Período colonial japonês (日治時期)](/history/日治時期) — O sistema florestal imperial por trás de Kawai Shotaro
-- [As guerras do cânfora no século XIX (19世紀的樟腦戰爭)](/history/19世紀的樟腦戰爭) — Antes da floresta de ciprestes de Alishan, foram os cânforas do final da dinastia Qing que tombaram. De 1864, Robert Swinhoe, até 1906, o incidente de Dabaoshe, a mesma linha
+- [As guerras do cânfora no século XIX (19世紀的樟腦戰爭)](/pt/history/19th-century-camphor-wars) — Antes da floresta de ciprestes de Alishan, foram os cânforas do final da dinastia Qing que tombaram. De 1864, Robert Swinhoe, até 1906, o incidente de Dabaoshe, a mesma linha
 
 ## Referências
 

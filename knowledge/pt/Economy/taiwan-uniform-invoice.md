@@ -176,9 +176,9 @@ Então da próxima vez, no caixa da loja de conveniência, o atendente pergunta 
 
 **Leitura complementar**:
 
-- [Milagre econômico](/economy/經濟奇蹟) — A década de 1950 em que nasceu a Fatura Unificada é a mesma em que Taiwan saiu do abismo fiscal para a decolagem econômica.
-- [Cultura das lojas de conveniência de Taiwan](/lifestyle/台灣便利商店文化) — Hoje o lugar onde mais gente resgata prêmio de fatura, fala "919" para doar fatura, é bem na frente do caixa das quatro grandes redes.
-- [Terror Branco de Taiwan](/history/台灣白色恐怖) — A época em que o criador da fatura Ren Xiangqun foi preso por "saber de comunista e não denunciar", um rótulo matava.
+- [Milagre econômico](/pt/economy/economic-miracle) — A década de 1950 em que nasceu a Fatura Unificada é a mesma em que Taiwan saiu do abismo fiscal para a decolagem econômica.
+- [Cultura das lojas de conveniência de Taiwan](/pt/lifestyle/convenience-store-culture) — Hoje o lugar onde mais gente resgata prêmio de fatura, fala "919" para doar fatura, é bem na frente do caixa das quatro grandes redes.
+- [Terror Branco de Taiwan](/pt/history/taiwan-white-terror) — A época em que o criador da fatura Ren Xiangqun foi preso por "saber de comunista e não denunciar", um rótulo matava.
 - [Justiça Transicional de Taiwan](/history/台灣轉型正義) — A reabilitação de Ren Xiangqun atravessando dois governos, levando anos, é um pedaço concreto de Taiwan encarando seu passado autoritário.
 
 ## Fontes das imagens

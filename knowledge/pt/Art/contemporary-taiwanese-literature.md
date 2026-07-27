@@ -118,9 +118,9 @@ Chen Sihu escreve em chinês sobre Yongjing, Changhua a partir de Berlim; Wu Min
 ## Leituras complementares
 
 - [Taiwan漫遊錄](/art/臺灣漫遊錄) — Romance de tradução falsa de Yang Shuang-tzu, 2024 Prêmio de Literatura Traduzida da NBA dos EUA, 2026 Prêmio Booker Internacional, a primeira obra da literatura contemporânea de Taiwan a subir a esses dois palcos internacionais de premiação
-- [Literatura de Taiwan Pós-Lei Marcial](/art/解嚴後台灣文學) — Geração intermediária de explosão plural (1987-2000) (romances políticos, mulheres, indígenas, línguas maternas), Lo Hsia-chun, Chu Tien-wen e Chu Tien-hsia amadurecem a partir deste período
-- [Literatura de Taiwan Pós-Guerra](/art/戰後台灣文學) — 42 anos de 1945 a 1987, da perda de voz, modernismo, debates sobre o solo natal até o despertar feminino durante a Lei Marcial
-- [História da Literatura de Taiwan](/art/台灣文學史) — Contexto geral desde a era holandesa, Ming e Qing, era colonial japonesa, pós-guerra até a contemporaneidade
+- [Literatura de Taiwan Pós-Lei Marcial](/pt/art/post-martial-law-taiwanese-literature) — Geração intermediária de explosão plural (1987-2000) (romances políticos, mulheres, indígenas, línguas maternas), Lo Hsia-chun, Chu Tien-wen e Chu Tien-hsia amadurecem a partir deste período
+- [Literatura de Taiwan Pós-Guerra](/pt/art/postwar-taiwanese-literature) — 42 anos de 1945 a 1987, da perda de voz, modernismo, debates sobre o solo natal até o despertar feminino durante a Lei Marcial
+- [História da Literatura de Taiwan](/pt/art/history-of-taiwanese-literature) — Contexto geral desde a era holandesa, Ming e Qing, era colonial japonesa, pós-guerra até a contemporaneidade
 
 ## Referências
 

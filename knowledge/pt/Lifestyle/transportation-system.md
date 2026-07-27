@@ -156,10 +156,10 @@ A história marítima é mais dramática. Dos anos 1980 a 2000, Kaohsiung foi o 
 **Leitura complementar**:
 
 - [Sistema de ônibus de Taiwan](/lifestyle/台灣的公車系統) — Como se movem os «sem volante» na ilha das motos, e por que este sistema colapsa primeiro nas áreas remotas
-- [Cultura das lojas de conveniência de Taiwan](/lifestyle/台灣便利商店文化) — Outra infraestrutura que roda 24 horas como o sistema de transporte
+- [Cultura das lojas de conveniência de Taiwan](/pt/lifestyle/convenience-store-culture) — Outra infraestrutura que roda 24 horas como o sistema de transporte
 - [Cultura das motocicletas de Taiwan](/lifestyle/台灣機車文化) — Por trás dos 14 milhões de motos: desenho urbano, política de classe e guerra pelo direito de via
-- [Desenvolvimento da cadeia de veículos elétricos de Taiwan](/technology/台灣電動車產業鏈發展) — Além da Gogoro, o papel de Taiwan na cadeia global de veículos elétricos
-- [Geografia e formação da ilha de Taiwan](/geography/台灣島嶼地理特色與形成) — A Cordilheira Central, a divisão leste-oeste e sua origem tectônica
+- [Desenvolvimento da cadeia de veículos elétricos de Taiwan](/pt/technology/taiwan-electric-vehicle-industry-chain) — Além da Gogoro, o papel de Taiwan na cadeia global de veículos elétricos
+- [Geografia e formação da ilha de Taiwan](/pt/geography/geography-and-geology) — A Cordilheira Central, a divisão leste-oeste e sua origem tectônica
 
 ## Dados públicos
 

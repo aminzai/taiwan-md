@@ -215,5 +215,5 @@ A resposta ainda está sendo escrita, e cada pessoa disposta a contribuir é aut
 ## Tópicos relacionados
 
 - [Fundação da Cultura Aberta](/technology/開放文化基金會): A fundação por trás do g0v que paga contas, emite notas fiscais e suporta a administração da comunidade, e a história de como ela cresceu a partir dos bastidores para se tornar um guardião dos direitos digitais
-- [Indústria de semicondutores](/technology/半導體產業): A base da força tecnológica de Taiwan
-- [Mini Taiwan Pulse](/technology/mini-taiwan-pulse): Uma implementação de código aberto de tecnologia cívica em 2026 — usando dados abertos do TDX + Three.js para desenhar Taiwan em faixas de luz 3D
+- [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry): A base da força tecnológica de Taiwan
+- [Mini Taiwan Pulse](/pt/technology/mini-taiwan-pulse-civic-tech): Uma implementação de código aberto de tecnologia cívica em 2026 — usando dados abertos do TDX + Three.js para desenhar Taiwan em faixas de luz 3D

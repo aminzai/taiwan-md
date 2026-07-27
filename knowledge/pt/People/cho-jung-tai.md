@@ -216,11 +216,11 @@ E a maioria KMT-TPP no Legislativo não derrubou o gabinete de fato. Cho Jung-ta
 
 **Leitura Complementar**:
 
-- [Lai Ching-te](/people/賴清德) — Quem colocou Cho Jung-tai na cadeira de Premier, do filho de mineiro ao 16.º Presidente de Taiwan
-- [Hsiao Bi-khim](/people/蕭美琴) — Vice-Presidente que na cerimônia de 2024-05-20 passou o selo a Cho Jung-tai, de Representante em Washington de volta a Taipé
-- [Cheng Li-wen](/people/鄭麗文) — Presidente do KMT que em abril de 2026 falou a Xi Jinping em Pequim, uma das adversárias políticas do bloqueio KMT-TPP ao 1,25 trilhão
+- [Lai Ching-te](/pt/people/lai-ching-te) — Quem colocou Cho Jung-tai na cadeira de Premier, do filho de mineiro ao 16.º Presidente de Taiwan
+- [Hsiao Bi-khim](/pt/people/hsiao-bi-khim) — Vice-Presidente que na cerimônia de 2024-05-20 passou o selo a Cho Jung-tai, de Representante em Washington de volta a Taipé
+- [Cheng Li-wen](/pt/people/cheng-li-wun) — Presidente do KMT que em abril de 2026 falou a Xi Jinping em Pequim, uma das adversárias políticas do bloqueio KMT-TPP ao 1,25 trilhão
 - [Defesa e Modernização Militar de Taiwan](/society/台灣國防與軍事現代化) — "Três bons arremessos" de Cho Jung-tai, orçamento especial de 1,25 trilhão, Escudo de Taiwan, contexto completo de políticas
-- [Países com Relações Diplomáticas e Diplomacia Internacional de Taiwan](/society/台灣邦交國與國際外交) — Acordo tarifário EUA-Taiwan 2026, arcabouço diplomático do segundo mandato Trump, maior variável externa do gabinete Cho
+- [Países com Relações Diplomáticas e Diplomacia Internacional de Taiwan](/pt/society/taiwan-diplomatic-allies-and-international-relations) — Acordo tarifário EUA-Taiwan 2026, arcabouço diplomático do segundo mandato Trump, maior variável externa do gabinete Cho
 
 ## Referências
 

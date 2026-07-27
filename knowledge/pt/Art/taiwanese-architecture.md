@@ -134,7 +134,7 @@ A história da arquitetura de Taiwan não é uma linha reta. Assemelha-se mais a
 
 **Leitura complementar**:
 
-- [Sensibilidade taiwanesa: precisamos esperar que os coreanos curtam para ousarmos dizer que nossas casas antigas são bonitas?](/culture/台灣感性) — O contexto arquitetônico por trás das grades decorativas de ferro, das arcadas térreas e das fachadas de antigos edifícios residenciais. Na realidade, os próprios taiwaneses voltaram a enxergar essas construções onze anos antes do fenômeno coreano “대만감성”
+- [Sensibilidade taiwanesa: precisamos esperar que os coreanos curtam para ousarmos dizer que nossas casas antigas são bonitas?](/pt/culture/taiwanese-sensibility) — O contexto arquitetônico por trás das grades decorativas de ferro, das arcadas térreas e das fachadas de antigos edifícios residenciais. Na realidade, os próprios taiwaneses voltaram a enxergar essas construções onze anos antes do fenômeno coreano “대만감성”
 
 ## Referências
 

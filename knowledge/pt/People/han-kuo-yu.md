@@ -170,15 +170,15 @@ A verdade pode estar entre os dois. E o próprio Han Kuo-yu pode ser o benefici�
 
 **Leitura complementar**:
 
-- [2026 Zheng-Xi Meeting: Dez minutos do reencontro de dez anos entre os líderes do KMT e do PCCh](/society/2026鄭習會與國共十年再會) — A negociação orçamentária do Legislativo Yuan de abril de 2026, presidida por Han Kuo-yu; o momento do Zheng-Xi Meeting e do projeto de lei especial do orçamento do Legislativo Yuan foram na mesma semana
-- [Cheng Li-wen](/people/鄭麗文) — Duas figuras mais importantes do KMT em 2025-2026: uma é a presidente do partido, a outra é a presidente do Legislativo Yuan, representando ecossistemas diferentes dentro do partido
-- [Hsiao Bi-khim](/people/蕭美琴) — Leitura comparativa: Hsiao Bi-khim levou seis anos em Hualien para vencer uma eleição legislativa; Han Kuo-yu foi destituído em 528 dias em Kaohsiung. Há muitas curvas temporais na democracia
+- [2026 Zheng-Xi Meeting: Dez minutos do reencontro de dez anos entre os líderes do KMT e do PCCh](/pt/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — A negociação orçamentária do Legislativo Yuan de abril de 2026, presidida por Han Kuo-yu; o momento do Zheng-Xi Meeting e do projeto de lei especial do orçamento do Legislativo Yuan foram na mesma semana
+- [Cheng Li-wen](/pt/people/cheng-li-wun) — Duas figuras mais importantes do KMT em 2025-2026: uma é a presidente do partido, a outra é a presidente do Legislativo Yuan, representando ecossistemas diferentes dentro do partido
+- [Hsiao Bi-khim](/pt/people/hsiao-bi-khim) — Leitura comparativa: Hsiao Bi-khim levou seis anos em Hualien para vencer uma eleição legislativa; Han Kuo-yu foi destituído em 528 dias em Kaohsiung. Há muitas curvas temporais na democracia
 - [Ambiente Político e Sistema Eleitoral de Taiwan](/society/台灣政治環境與選舉制度) — Por que o sistema de legisladores uninominais proporcional permite que "personagens políticos destituídos" como Han Kuo-yu ressuscitem? A resposta está nas próprias regras eleitorais
-- [Ko Wen-je](/people/柯文哲) — Outra figura que foi de leigo a prefeito, de prefeito a candidato presidencial, de candidato presidencial ao centro de uma tempestade; a estrutura de "ascensão e queda rápidas" de ambos é semelhante
-- [Lu Hsiu-yan](/people/盧秀燕) — O outro pólo do Fenômeno Han de 2018, a prefeita de Taichung que inverteu o azul em azul em 2018, no mesmo ano que Han Kuo-yu
-- [Hsu Chiao-hsin](/people/徐巧芯) — A principal defensora da versão de 800 bilhões da controvérsia de compras militares de 2026; uma presença-chave nas negociações de Han Kuo-yu como presidente do Legislativo Yuan
+- [Ko Wen-je](/pt/people/ko-wen-je) — Outra figura que foi de leigo a prefeito, de prefeito a candidato presidencial, de candidato presidencial ao centro de uma tempestade; a estrutura de "ascensão e queda rápidas" de ambos é semelhante
+- [Lu Hsiu-yan](/pt/people/lu-hsiu-yan) — O outro pólo do Fenômeno Han de 2018, a prefeita de Taichung que inverteu o azul em azul em 2018, no mesmo ano que Han Kuo-yu
+- [Hsu Chiao-hsin](/pt/people/hsu-chiao-hsin) — A principal defensora da versão de 800 bilhões da controvérsia de compras militares de 2026; uma presença-chave nas negociações de Han Kuo-yu como presidente do Legislativo Yuan
 - [Chi Lin-lien](/people/季麟連) — O vice-presidente que ameaçou na reunião do Comitê Central do KMT de 29 de abril de 2026 que "vender o partido para buscar glória deve resultar na expulsão do partido"; o alvo real desse impacto foi Han Kuo-yu
-- [Zeng Po-en](/people/曾博恩) — Em dezembro de 2019, Han Kuo-yu apareceu na terceira temporada do _Boen Show_, a única exigência sendo "não brincar com seu penteado"; Boen o chamou de "o estranho mais familiar"
+- [Zeng Po-en](/pt/people/bernard-tseng) — Em dezembro de 2019, Han Kuo-yu apareceu na terceira temporada do _Boen Show_, a única exigência sendo "não brincar com seu penteado"; Boen o chamou de "o estranho mais familiar"
 
 ## Referências
 

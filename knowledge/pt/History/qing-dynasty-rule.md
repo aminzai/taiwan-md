@@ -90,5 +90,5 @@ Este artigo adota o termo "**Período Qing**" (清治時期). Na historiografia 
 
 ## Leitura complementar
 
-- [Guerra de Yiwei](/history/乙未之役) — O ponto final do período Qing: o Tratado de Shimonoseki de 1895 cede Taiwan e a resistência da República Democrática de Taiwan
-- [Período Holandês-Espanhol-Chenggong](/history/荷西明鄭時期) — História de Taiwan antes do período Qing
+- [Guerra de Yiwei](/pt/history/1895-taiwan-resistance-war) — O ponto final do período Qing: o Tratado de Shimonoseki de 1895 cede Taiwan e a resistência da República Democrática de Taiwan
+- [Período Holandês-Espanhol-Chenggong](/pt/history/dutch-spanish-and-koxinga-era) — História de Taiwan antes do período Qing

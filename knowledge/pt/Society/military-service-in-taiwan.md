@@ -103,8 +103,8 @@ O sistema de serviço militar em Taiwan é um diálogo de longo prazo sobre "res
 
 ## Para Continuar Lendo
 
-- [Memórias do Campo de HuKou e da Rua da Vitória](/history/湖口營區與勝利路記憶) — Memórias cotidianas do espaço militar
-- [Academia do Urso Negro](/society/黑熊學院) — A versão contemporânea da consciência de defesa civil
+- [Memórias do Campo de HuKou e da Rua da Vitória](/pt/history/hukou-camp-shengli-road-memory) — Memórias cotidianas do espaço militar
+- [Academia do Urso Negro](/pt/society/kuma-academy-civil-defense-school) — A versão contemporânea da consciência de defesa civil
 
 ## Referências
 

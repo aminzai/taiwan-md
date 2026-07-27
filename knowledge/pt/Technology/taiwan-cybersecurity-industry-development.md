@@ -274,7 +274,7 @@ A escassez de talentos em segurança da informação, a insuficiência de invest
 **Leitura adicional**:
 
 - [Taiwan Defense and Military Modernization](/society/台灣國防與軍事現代化) — O primeiro fronteira de guerra de zona cinzenta não é a mina, mas o firewall. O roteiro de três dias antes do exercício 41 da Han Guang é…
-- [Taiwan AI Development](/technology/AI發展) — O papel duplo da IA na segurança da informação e na defesa
+- [Taiwan AI Development](/pt/technology/ai-development-in-taiwan) — O papel duplo da IA na segurança da informação e na defesa
 
 ## Referências
 

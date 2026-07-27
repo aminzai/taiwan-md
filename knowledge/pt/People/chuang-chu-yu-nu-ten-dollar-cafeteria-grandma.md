@@ -64,7 +64,7 @@ Hoje, o filho mais velho, Chuang Chi-hsiung, fundou formalmente em 2 de maio de 
 ## Leitura complementar
 
 - [Cultura de voluntariado e participação cívica em Taiwan](/society/台灣志工文化與公益參與) — Compreender o longo percurso do bem-estar social em Taiwan a partir das instituições e das ações civis.
-- [Culinária dos vilarejos de dependentes militares de Taiwan](/food/台灣眷村菜) — Contrastar como a alimentação popular se formou na memória através da mobilidade, da pobreza e da ajuda mútua comunitária.
+- [Culinária dos vilarejos de dependentes militares de Taiwan](/pt/food/military-dependents-village-cuisine) — Contrastar como a alimentação popular se formou na memória através da mobilidade, da pobreza e da ajuda mútua comunitária.
 
 ## Referências
 

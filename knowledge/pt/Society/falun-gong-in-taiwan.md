@@ -71,7 +71,7 @@ A presença tranquila do Falun Gong em Taiwan é, por si só, a mais forte resis
 
 **Leitura complementar**
 
-- [Grupos de frente unida](/society/統戰團) — Das viagens de baixo custo ao tráfego de influenciadores, as táticas novas e velhas da operação de frente unida do PCC contra Taiwan e a lógica do jogo cognitivo.
+- [Grupos de frente unida](/pt/society/united-front-tour-groups) — Das viagens de baixo custo ao tráfego de influenciadores, as táticas novas e velhas da operação de frente unida do PCC contra Taiwan e a lógica do jogo cognitivo.
 - [Operações cognitivas](/society/認知作戰) — O quadro sistémico das operações de influência cognitiva e os mecanismos de resposta de Taiwan, da análise académica à prática concreta de educação cívica.
 
 ## Referências

@@ -114,11 +114,11 @@ Culturas estrangeiras e diversidade, via mar, chegaram a Taiwan e integraram-se 
 
 **Leitura adicional**:
 
-- [A era pré-histórica e os povos indígenas](/history/史前時代與原住民) — Antes da chegada dos holandeses, a ilha já tinha sociedades autônomas
-- [O período da Qing](/history/清治時期) — Os 212 anos após 1683, como Taiwan cresceu de "pequena prefeitura" a província
-- [História do comércio marítimo de Taiwan](/history/台灣海洋貿易史) — A rede comercial de Taiwan, dos holandeses ao Dongning e à Qing
-- [História e movimento de reafirmação dos povos indígenas de Taiwan](/history/台灣原住民族歷史與正名運動) — As tribos Pingpu impactadas pela onda migratória chinesa
-- [Visão da história de Taiwan como ilha](/history/台灣島史觀) — A perspectiva de Cao Yonghe, centrada na ilha, que moldou a visão do período
+- [A era pré-histórica e os povos indígenas](/pt/history/prehistoric-era-and-indigenous-peoples) — Antes da chegada dos holandeses, a ilha já tinha sociedades autônomas
+- [O período da Qing](/pt/history/qing-dynasty-rule) — Os 212 anos após 1683, como Taiwan cresceu de "pequena prefeitura" a província
+- [História do comércio marítimo de Taiwan](/pt/history/taiwan-maritime-trade-history) — A rede comercial de Taiwan, dos holandeses ao Dongning e à Qing
+- [História e movimento de reafirmação dos povos indígenas de Taiwan](/pt/history/indigenous-peoples-history-and-naming-movement) — As tribos Pingpu impactadas pela onda migratória chinesa
+- [Visão da história de Taiwan como ilha](/pt/history/taiwan-island-historiography) — A perspectiva de Cao Yonghe, centrada na ilha, que moldou a visão do período
 - [Formosa](/history/福爾摩沙) — A origem e controvérsias do nome "Formosa", e como o Ocidente escreveu a ilha por 400 anos
 - [Museu Nacional da História de Taiwan](/society/國立臺灣歷史博物館) — As Exposições permanentes da "Ilha e Povo nascendo no mar" e a exposição especial internacional de 1624
 

@@ -178,7 +178,7 @@ Quase simultaneamente ao chá vermelho com espuma, outra linha também estava em
 
 A próxima onda de chá em lata foi o "sem açúcar". Em 2001, Shao Weilin de Vita Soya voltou de um estágio no Japão e lançou o chá verde sem açúcar Yu Cha Yuan; em 2002, a Uni-President lançou o Chá Li Wang.[^25] O chá em lata sem açúcar capturou os trabalhadores de escritório que queriam beber chá mas não queriam beber doce, tornando-se um visitante frequente nos refrigeradores das lojas de conveniência.
 
-E o que realmente transformou Taiwan em uma "República do Copo de Plástico" foi o chá de mão (hand-shake tea). A escala deste negócio é exagerada: de acordo com as estatísticas do Ministério das Finanças, até o final de maio de 2024, havia 16.070 lojas de chá de mão em todo Taiwan, representando 57% de todas as lojas de bebidas.[^26] Até que ponto este número é grande? Aproximadamente a cada 1.400 taiwaneses, eles sustentam uma loja de chá de mão. A indústria do chá de mão também sustenta uma cadeia de suprimentos inteira — 80% do chá base vem do condado de Mingjian em Nantou, a tecnologia de selagem de membrana veio de seladoras disponíveis por volta de 1985 (veja [Seladora de Bebidas](/technology/飲料封膜機)), quanto a como esta bebida se tornou uma força brando soft power global, há outro artigo especializado (veja [Cultura do Chá de Mão de Taiwan](/food/台灣手搖飲文化)).
+E o que realmente transformou Taiwan em uma "República do Copo de Plástico" foi o chá de mão (hand-shake tea). A escala deste negócio é exagerada: de acordo com as estatísticas do Ministério das Finanças, até o final de maio de 2024, havia 16.070 lojas de chá de mão em todo Taiwan, representando 57% de todas as lojas de bebidas.[^26] Até que ponto este número é grande? Aproximadamente a cada 1.400 taiwaneses, eles sustentam uma loja de chá de mão. A indústria do chá de mão também sustenta uma cadeia de suprimentos inteira — 80% do chá base vem do condado de Mingjian em Nantou, a tecnologia de selagem de membrana veio de seladoras disponíveis por volta de 1985 (veja [Seladora de Bebidas](/pt/technology/beverage-sealing-machine)), quanto a como esta bebida se tornou uma força brando soft power global, há outro artigo especializado (veja [Cultura do Chá de Mão de Taiwan](/pt/food/hand-shaken-drink-culture)).
 
 Mas em setembro de 2025, embora as lojas de chá de mão ainda estivessem aumentando (16.113 lojas), a proporção de lojas de bebidas caiu ligeiramente de 57% para 56%, a primeira queda nos últimos anos.[^27] Quando cafeterias e outras lojas de bebidas estão abrindo mais rápido do que o chá de mão, o chá neste copo de plástico encontrou pela primeira vez o limite do crescimento.
 
@@ -192,7 +192,7 @@ Assim, ocasionalmente surgem relatos no mercado de que alguns operadores vendem 
 
 ## O tempo no chá
 
-Hoje, apenas 0,14% do chá bebido em todo o mundo é exportado de Taiwan; a produção de chá de Taiwan representa menos de dois por cento do total global. Mas o preço unitário de exportação do chá de Taiwan é de US$ 11,06 por quilograma, 3,3 vezes a média global.[^30] Focar na qualidade, não na quantidade, esta é a posição que o chá de Taiwan encontrou para si ao longo de cem anos. Desde o chá verde Bi Luo Chun de Sanxia (veja [Chá de Sanxia](/food/三峽茶)), o oolong Dongding de Nantou, até o chá preto Sun Moon Lake de Yuchi, os seis tipos de chá Taiwan pode produzir tudo; o Qixin Oolong representa de seis a sete por cento de todas as árvores de chá em Taiwan.[^31] Esta ilha já tinha chá selvagem — em 2009, a comunidade botânica confirmou por DNA que o Camellia formosensis (chá de montanha de Taiwan) é uma espécie independente, ecoando remotamente a frase de _Zhuluo Xianzhi_ de 1717 "o chá de montanha em Shuisha é abundante".[^32]
+Hoje, apenas 0,14% do chá bebido em todo o mundo é exportado de Taiwan; a produção de chá de Taiwan representa menos de dois por cento do total global. Mas o preço unitário de exportação do chá de Taiwan é de US$ 11,06 por quilograma, 3,3 vezes a média global.[^30] Focar na qualidade, não na quantidade, esta é a posição que o chá de Taiwan encontrou para si ao longo de cem anos. Desde o chá verde Bi Luo Chun de Sanxia (veja [Chá de Sanxia](/pt/food/sanxia-tea)), o oolong Dongding de Nantou, até o chá preto Sun Moon Lake de Yuchi, os seis tipos de chá Taiwan pode produzir tudo; o Qixin Oolong representa de seis a sete por cento de todas as árvores de chá em Taiwan.[^31] Esta ilha já tinha chá selvagem — em 2009, a comunidade botânica confirmou por DNA que o Camellia formosensis (chá de montanha de Taiwan) é uma espécie independente, ecoando remotamente a frase de _Zhuluo Xianzhi_ de 1717 "o chá de montanha em Shuisha é abundante".[^32]
 
 ```tw-stat
 Focar na qualidade, não na quantidade: As coordenadas mundiais do chá de Taiwan
@@ -210,11 +210,11 @@ Em Taiwan, o chá não é uma cerimônia que exige postura séria, é o cotidian
 
 ## Leitura Adicional
 
-- [Taiwan Tea Culture and Living Aesthetics](/culture/台灣茶道與生活美學) — A estética de vida completa por trás da mesa de chá, Purple Wisteria e Oriental Beauty
-- [Bubble Tea](/food/珍珠奶茶) — A história completa e a disputa de origem de uma reunião de funcionários em Taichung para uma bebida global
-- [Cultura do Chá de Mão de Taiwan](/food/台灣手搖飲文化) — Como as marcas de chá de mão de Taiwan foram das pequenas lojas de rua para o mundo
-- [Chá de Puzhong de Mingjian](/food/名間埔中茶) — A pequena cidade de Nantou que sustenta 80% do chá base de mão
-- [Seladora de Bebidas](/technology/飲料封膜機) — A seladora que acompanhou a era dourada do chá de bolha, inesperadamente inspirada por sopa de nabo
+- [Taiwan Tea Culture and Living Aesthetics](/pt/culture/taiwan-tea-ceremony-and-aesthetic-living) — A estética de vida completa por trás da mesa de chá, Purple Wisteria e Oriental Beauty
+- [Bubble Tea](/pt/food/bubble-tea) — A história completa e a disputa de origem de uma reunião de funcionários em Taichung para uma bebida global
+- [Cultura do Chá de Mão de Taiwan](/pt/food/hand-shaken-drink-culture) — Como as marcas de chá de mão de Taiwan foram das pequenas lojas de rua para o mundo
+- [Chá de Puzhong de Mingjian](/pt/food/mingjian-puchung-tea) — A pequena cidade de Nantou que sustenta 80% do chá base de mão
+- [Seladora de Bebidas](/pt/technology/beverage-sealing-machine) — A seladora que acompanhou a era dourada do chá de bolha, inesperadamente inspirada por sopa de nabo
 
 ## Fontes de Imagem
 

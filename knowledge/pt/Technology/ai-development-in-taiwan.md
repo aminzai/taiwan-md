@@ -328,7 +328,7 @@ Este caminho não é completo: ainda há escassez de talentos de pesquisa de IA 
 **Leitura complementar**:
 
 - [Wu Zhe-yu](/people/吳哲宇) — Como um artista de mídia nova mantém a postura de relojoeiro na "era de inundação de IA generativa", uma perspectiva de criador fora da indústria de IA
-- [Escola de IA de Taiwan](/technology/台灣人工智慧學校) — Observando a linha de produção de talentos fora da estratégia governamental de IA através do "descenso" de Chen Sheng-wei e do financiamento privado de 180 milhões
+- [Escola de IA de Taiwan](/pt/technology/taiwan-ai-academy) — Observando a linha de produção de talentos fora da estratégia governamental de IA através do "descenso" de Chen Sheng-wei e do financiamento privado de 180 milhões
 
 ## Referências
 

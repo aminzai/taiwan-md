@@ -245,12 +245,12 @@ Da próxima vez que fores a Yilan, não vás só às águas termais de Jiaoxi, n
 ## Leituras Adicionais
 
 - [Ilha Guishan](/geography/龜山島) — A história própria daquela "coordenada imutável" fora da Planície de Lanyang: vulcão ativo, aldeia realojada sem compensação, 22 anos de zona militar proibida, e a casa que os habitantes da ilha não podem voltar.
-- [Divisão Administrativa de Taiwan](/geography/台灣行政區劃) — 1812: estabelecimento do Distrito de Kavalan; 1875: renomeado Condado de Yilan; 1895: evolução administrativa do sistema da era japonesa.
+- [Divisão Administrativa de Taiwan](/pt/geography/administrative-divisions-of-taiwan) — 1812: estabelecimento do Distrito de Kavalan; 1875: renomeado Condado de Yilan; 1895: evolução administrativa do sistema da era japonesa.
 - [Terreno Costeiro e Paisagem Marítima de Taiwan](/geography/台灣海岸地形與海洋地景) — A ilha vulcânica de Guishan, o leque aluvial do Rio Lanyang, a geologia da faixa costeira de Su-Hua.
-- [Paisagem Agrícola e Distribuição Industrial de Taiwan](/geography/台灣農業地景與產業分布) — A fragmentação das terras agrícolas da Planície de Lanyang na paisagem agrícola de todo o Taiwan.
-- [Desenvolvimento Urbano e Lacuna Urbano-Rural de Taiwan](/geography/台灣都市發展與城鄉差距) — O efeito de cidade satélite de Yilan sendo incluído na vida diária de Taipei após a inauguração do Túnel Xueshan.
-- [Paisagem Termal de Taiwan](/geography/台灣溫泉地景) — A posição especial das águas termais de Jiaoxi na geografia termal de Taiwan.
-- [Cidade de Keelung](/geography/基隆市) — Artigo da série 22 Condados e Cidades do mesmo período, um condado do nordeste "invisível para Taipei" junto com Yilan.
+- [Paisagem Agrícola e Distribuição Industrial de Taiwan](/pt/geography/taiwan-agricultural-landscapes-and-industry-belts) — A fragmentação das terras agrícolas da Planície de Lanyang na paisagem agrícola de todo o Taiwan.
+- [Desenvolvimento Urbano e Lacuna Urbano-Rural de Taiwan](/pt/geography/taiwan-urban-development-and-rural-urban-divide) — O efeito de cidade satélite de Yilan sendo incluído na vida diária de Taipei após a inauguração do Túnel Xueshan.
+- [Paisagem Termal de Taiwan](/pt/geography/taiwan-hot-springs-landscape) — A posição especial das águas termais de Jiaoxi na geografia termal de Taiwan.
+- [Cidade de Keelung](/pt/geography/keelung-city) — Artigo da série 22 Condados e Cidades do mesmo período, um condado do nordeste "invisível para Taipei" junto com Yilan.
 
 ## Fontes de Imagem
 
