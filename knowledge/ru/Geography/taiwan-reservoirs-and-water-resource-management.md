@@ -245,6 +245,6 @@ difficulty: 'beginner'
 
 Дополнительное чтение:
 
-- [Системы рек Тайваня и гидрологические особенности](/geography/台灣河川系統與水文特色)
+- [Системы рек Тайваня и гидрологические особенности](/ru/geography/taiwan-river-systems-and-hydrology)
 - [Климат](/geography/氣候)
-- [Плитотектоника Тайваня и сейсмическая активность](/geography/台灣板塊運動與地震活動)
+- [Плитотектоника Тайваня и сейсмическая активность](/ru/geography/tectonic-plates-and-seismic-activity)

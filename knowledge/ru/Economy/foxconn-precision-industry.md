@@ -155,11 +155,11 @@ Spisok Time budet prodolzhat' obnovlyat'sya. EPS na soveshchaniyakh budet prodol
 
 ## Dopolnitel'noe chtenie
 
-- [Go Taymin](/people/郭台銘) — osnovatel' Khunkhaya, ot 100 tysyach maty vzaimnogo kreditovaniya do global'noy proizvodstvennoy imperii
+- [Go Taymin](/ru/people/terry-gou) — osnovatel' Khunkhaya, ot 100 tysyach maty vzaimnogo kreditovaniya do global'noy proizvodstvennoy imperii
 - [Tayvanskie predpriyatiya: TSMC](/economy/台灣企業：台積電) — tozhe flagman mezhdunarodnogo urovnya, no po spetsializirovannomu puti founderii; struktura upravleniya prinzipial'no otlichaetsya ot imperii podryadnogo proizvodstva Khunkhaya
 - [Tayvanskiy fondovyy rynok i rynok kapitala](/economy/台灣股市與資本市場) — aktsii Khunkhaya tiker 2317, kak rabotaet mekhanizm raskrytiya vazhnykh soobshcheniy
-- [Transformatsiya i modernizatsiya tayvanskoy promyshlennosti](/economy/台灣產業轉型升級) — ot trudoyemkogo podryadnogo proizvodstva k sborke AI-serverov, Khunkhay — proektsiya etogo puti
-- [Tayvanskaya vneshnyaya torgovlya i global'naya tsep' postavok](/economy/台灣外貿與全球供應鏈) — global'naya rasstanovka 24 stran, 900 tysyach chelovek — eto bol'shaya poligon dlya transgranichnogo upravleniya tayvanskoy promyshlennosti
+- [Transformatsiya i modernizatsiya tayvanskoy promyshlennosti](/ru/economy/industrial-transformation-from-manufacturing-to-innovation) — ot trudoyemkogo podryadnogo proizvodstva k sborke AI-serverov, Khunkhay — proektsiya etogo puti
+- [Tayvanskaya vneshnyaya torgovlya i global'naya tsep' postavok](/ru/economy/taiwan-foreign-trade-and-global-supply-chain) — global'naya rasstanovka 24 stran, 900 tysyach chelovek — eto bol'shaya poligon dlya transgranichnogo upravleniya tayvanskoy promyshlennosti
 
 ---
 
