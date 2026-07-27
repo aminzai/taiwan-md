@@ -2,9 +2,7 @@
 title: 'Escuela Taiwanesa de Inteligencia Artificial: la llamada inconclusa y diez mil ingenieros de IA'
 description: 'El 27 de marzo de 2020, Chen Sheng-wei llamó con seriedad al editor jefe de CommonWealth Magazine: quería crear una especie de curso gratuito de programación para toda la ciudadanía. Dos días después cayó mientras patinaba en línea; 13 días más tarde murió. Tenía 44 años. Al momento de su muerte, la Escuela Taiwanesa de Inteligencia Artificial (AIA), que él había fundado en 2018, ya había formado a más de 6.000 personas. En el mismo período, el Consejo Nacional de Desarrollo proclamaba una “gran estrategia de IA para un país pequeño” con 16.000 millones de dólares taiwaneses en cinco años; él, en cambio, levantó 180 millones de financiamiento privado de seis empresas, entre ellas Formosa Plastics, Chi Mei e Inventec, y abrió su propia escuela. Ocho años después, los exalumnos superaron los diez mil. AIA es una pieza del rompecabezas de la modernización industrial de Taiwán que se parece muy poco a Taiwán.'
 date: 2026-05-18
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '人工智慧'
 tags:
   [
     'inteligencia artificial',
@@ -15,19 +13,21 @@ tags:
     'Academia Sinica',
     'política de IA',
   ]
-readingTime: 18
+subcategory: '人工智慧'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-18
 lastHumanReview: true
-featured: true
-translatedFrom: 'Technology/台灣人工智慧學校.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:4e403df024cd43dc'
-sourceBodyHash: 'sha256:04e9009c16ede3cb'
-translatedAt: '2026-06-16T16:54:57Z'
+readingTime: 18
 image: '/article-images/technology/taiwan-ai-academy-chen-shengwei-portrait-2018.webp'
 imageCredit: '台灣人工智慧學校官方'
 imageLicense: 'Fair use editorial commentary on AIA founder portrait'
 imageSource: 'https://aiacademy.tw/swc/'
+translatedFrom: 'Technology/台灣人工智慧學校.md'
+sourceCommitSha: 'c8e5ac9ea'
+sourceContentHash: 'sha256:aeb22f9372adc2ef'
+sourceBodyHash: 'sha256:6ec984b54802baea'
+translatedAt: '2026-07-27T11:29:02.054822+00:00'
 ---
 
 # Escuela Taiwanesa de Inteligencia Artificial: la llamada inconclusa y diez mil ingenieros de IA
@@ -281,27 +281,28 @@ Tsai Ming-shun recibió en 2025 el reconocimiento de la 18.ª edición de los �
 
 De 2018 a 2026, AIA caminó ocho años. Chen Sheng-wei solo estuvo en los primeros tres.
 
-## La clase que no llegó a existir
+## La clase que no llegó a impartirse
 
-Nadie escuchó completa la idea de aquella llamada del 27 de marzo de 2020.
+El 27 de marzo de 2020, nadie escuchó completa la visión que se esbozaba en aquella llamada.
 
-Dos días después, Chen Sheng-wei cayó. Trece días después, murió. El curso gratuito de programación para toda la ciudadanía que quería abrir nunca llegó a hacerse.
+Dos días después, Chen Sheng-wei sufrió una caída. Trece días después, falleció. La clase gratuita de programación para toda la ciudadanía que quería crear nunca llegó a materializarse.
 
-Pero en mayo de 2024, el número de exalumnos de AIA superó los diez mil. En la conferencia de prensa, Tsai Ming-shun ya no necesitaba volver a mencionar aquella frase que Chen Sheng-wei repetía: “Hay que hacer que, cuando el mundo vea Taiwán, piense en IA”. En los seis años anteriores, esa frase ya se había escrito en los currículums de la industria tecnológica taiwanesa a través de más de diez mil ingenieros.
+Pero en mayo de 2024, el número de exalumnos de AIA superó los diez mil. En la rueda de prensa, Tsai Ming-shun ya no necesitaba repetir aquella frase que Chen Sheng-wei llevaba siempre en los labios: «Para que el mundo vea a Taiwán, que piense en IA». En los seis años transcurridos, esa frase ya se había escrito en los currículos de la industria tecnológica taiwanesa a través de más de diez mil ingenieros.
 
-AIA pasó de un campamento intensivo de jornada completa, 12 semanas y NT$48.000, a un curso breve de LLM de 3 días, 21 horas y NT$17.000. De líderes técnicos a difusión industrial. De una escuela a una línea de producción de talento.
+AIA pasó de ser un campamento intensivo de tiempo completo de 12 semanas por 48 000 NT$, a un curso corto de LLM de 3 días y 21 horas por 17 000 NT$. De formar líderes técnicos a popularizar la industria. De ser una escuela a convertirse en una línea de producción de talento.
 
-El “curso gratuito de programación para toda la ciudadanía” que Chen Sheng-wei quería no se hizo. Pero otra cosa que él quería, “que nadie vuelva a quedar rezagado por no encontrar talento en IA”, quedó hecha a medias.
+La «clase gratuita de programación para toda la ciudadanía» que quería Chen Sheng-wei no llegó a hacerse. Pero la otra cosa que quería —«que nadie se quede atrás por no encontrar talento en IA»— se cumplió a medias.
 
-Aquella llamada inconclusa dejó una voluntad pendiente y diez mil personas que alguna vez se sentaron en un aula de AIA.
+Aquella llamada inacabada dejó una aspiración inconclusa y a diez mil personas que alguna vez se sentaron en las aulas de AIA.
 
 ---
 
 **Lecturas complementarias**:
 
-- [El ascenso de una isla de IA: desarrollo de la inteligencia artificial en Taiwán y estrategias futuras](/es/technology/ai-development-in-taiwan) — relato panorámico de la arquitectura de políticas de IA de Taiwán, su despliegue industrial, cinco grandes áreas estratégicas y cooperación internacional
-- [La IA en la vida cotidiana de Taiwán](/es/technology/taiwan-ai-in-daily-life) — implementación práctica de la IA en escenas cotidianas de Taiwán como tiendas de conveniencia, hospitales, campos agrícolas y aulas
-- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — cómo los ingenieros de IA formados por AIA en ocho años se reconectan con la cadena ICT existente de una potencia de semiconductores
+- [El auge de la nación isleña de la IA: desarrollo y estrategia futura de la inteligencia artificial en Taiwán](/es/technology/ai-development-in-taiwan) — Panorama completo del marco político de IA de Taiwán, la distribución industrial, las cinco áreas estratégicas y la cooperación internacional
+- [La IA en el día a día de Taiwán](/es/technology/taiwan-ai-in-daily-life) — La implementación práctica de la IA en escenarios cotidianos de Taiwán: tiendas de conveniencia, hospitales, campos agrícolas, aulas
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — Cómo los ingenieros de IA formados por AIA en ocho años se reintegran al ecosistema ICT existente de la potencia de semiconductores
+- [Por qué Taiwán necesita su propia base de conocimiento](/es/about/why-taiwan-needs-its-own-knowledge-base) — El director académico Tsai Ming-shun señala que los datos locales de Taiwán representan menos del 0,1 % en el mundo digital; este artículo cuantifica esa brecha y discute quién debe redactar esa versión
 
 ## Fuentes de las imágenes
 

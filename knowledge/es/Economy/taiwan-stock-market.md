@@ -2,9 +2,7 @@
 title: 'Mercado bursátil y mercado de capitales de Taiwán: de la caída desde los diez mil puntos en 1990 al sexto lugar mundial en 2026, una isla con el 44% de su patrimonio concentrado en una sola acción'
 description: 'El 28 de abril de 2026, Bloomberg publicó el titular “Taiwan Overtakes Canada”. Una isla donde la caída desde los diez mil puntos en 1990 se llevó los fondos de jubilación de 160.000 personas ascendió, treinta y seis años después, al sexto mercado bursátil más grande del mundo; pero, dentro de una capitalización de 4,47 billones de dólares, casi la mitad descansa sobre una sola empresa de semiconductores.'
 date: 2026-05-03
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: 'Economy'
 tags:
   [
     'bolsa taiwanesa',
@@ -15,15 +13,18 @@ tags:
     'inversores minoristas',
     'IA',
   ]
-readingTime: 16
+subcategory: 'Economy'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-03
 lastHumanReview: false
-featured: true
+researchReport: 'reports/research/2026-05/台灣股市與資本市場.md'
+readingTime: 16
 translatedFrom: 'Economy/台灣股市與資本市場.md'
-sourceCommitSha: 'e10215bc7'
-sourceContentHash: 'sha256:5f40e129854187a5'
-sourceBodyHash: 'sha256:fa7e9d68ca508066'
-translatedAt: '2026-05-12T11:51:05+08:00'
+sourceCommitSha: '9c5ad569a'
+sourceContentHash: 'sha256:323486e516e428ed'
+sourceBodyHash: 'sha256:c34c5e10c2fbc812'
+translatedAt: '2026-07-27T11:25:46.085715+00:00'
 ---
 
 > **Panorama en 30 segundos:** El 28 de abril de 2026, la capitalización total del mercado bursátil taiwanés llegó a 4,47 billones de dólares y superó a Canadá para convertirse en el sexto mercado bursátil más grande del mundo; a mediados del mismo mes ya había superado al Reino Unido. La fuerza detrás de ese avance fue TSMC: una capitalización de 1,8 billones de dólares y un peso cercano al 45% en el índice ponderado. En la memoria financiera de esta isla todavía no se ha secado del todo la huella de la caída desde los diez mil puntos de hace treinta y seis años, que evaporó colectivamente 4,6 millones de cuentas, ni la de Hung Yuan, la entidad que, con intereses mensuales de 4%, arruinó a 160.000 personas. Desde la decena larga de empresas cotizadas del año en que se fundó la bolsa hasta las 13,93 millones de cuentas que hoy comparten el sexto mercado de capitales más grande del mundo, Taiwán tardó sesenta y cuatro años. Pero este sexto lugar encierra una paradoja estructural: si se excluye TSMC, las más de 1.000 acciones restantes juntas apenas entrarían, aproximadamente, en el puesto 15 del mundo.
@@ -159,31 +160,31 @@ El lado izquierdo de esta tabla es memoria traumática; el derecho, dividendo de
 
 ## Un mismo índice, dos perspectivas
 
-El 9 de febrero de 1962, la bolsa de valores empezó a operar, con apenas una decena larga de empresas en su primera tanda de cotizadas[^TWSE]. Sesenta y cuatro años después, el 28 de abril de 2026, el índice ponderado estaba a un paso de los cuarenta mil puntos y la capitalización total había subido al sexto lugar mundial.
+El 9 de febrero de 1962, la Bolsa de Valores de Taiwán abrió sus puertas, con apenas una decena de empresas cotizadas en su primer lote[^TWSE]. Sesenta y cuatro años después, el 28 de abril de 2026, el índice ponderado rozaba los 40.000 puntos y la capitalización total ascendía al sexto puesto mundial.
 
-Esos sesenta y cuatro años, escritos como comunicado de prensa, lucen brillantes: desde el cemento, el papel, la agricultura, la silvicultura y la minería de la era industrial hasta la fundición de obleas, la disipación térmica para IA y las comunicaciones ópticas de la economía del conocimiento. El mercado de capitales de Taiwán tardó seis décadas en crecer desde una tienda rural de abarrotes hasta convertirse en la sexta bolsa de valores más grande del mundo.
+Esos sesenta y cuatro años lucen espléndidos en un comunicado de prensa: de la era industrial del cemento, el papel, la agricultura, la silvicultura y la minería, a la era de la economía del conocimiento con la fundición de obleas, la disipación térmica para IA y las comunicaciones ópticas. El mercado de capitales de Taiwán tardó un ciclo sexagenario en pasar de ser una tienda de barrio a convertirse en la sexta bolsa de valores más grande del mundo.
 
-Pero ese sexto lugar de 2026 encierra una paradoja estructural.
+Pero ese sexto puesto de 2026 encierra una ironía estructural.
 
-De los 4,47 billones de dólares de capitalización de la bolsa taiwanesa, TSMC se come por sí sola cerca del 45%. Si se retirara TSMC del índice ponderado, las más de 1.000 acciones restantes sumarían unos 2,67 billones de dólares: probablemente caerían hasta alrededor del décimo lugar mundial, en la misma escala que Arabia Saudita. En el mundo del mercado de capitales, la relación entre la identidad de “sexto mercado más grande del mundo” y “una isla” es más delgada de lo que parece.
+De los 4,47 billones de dólares de capitalización bursátil taiwanesa, TSMC acapara por sí sola cerca del 45 %. Si se excluye a TSMC del índice ponderado, las más de 1.000 acciones restantes suman unos 2,67 billones de dólares —lo que probablemente la situaría en torno al décimo puesto mundial, a la altura de Arabia Saudí. En el mundo de los mercados de capitales, la etiqueta de «sexta bolsa mundial» tiene una relación con «una isla» más tenue de lo que se imagina.
 
-> **✦** “El 28 de abril de 2026, una terminal Bloomberg en Nueva York lanzó el titular ‘Taiwan Overtakes Canada’. Esa misma noche, un taxista en Taipéi esperaba frente a la radio el siguiente segmento financiero; lo que le importaba no era a qué país del G7 había superado Taiwán, sino si TSMC cerraría mañana en 2.300. El titular de Bloomberg hablaba de ‘la victoria de una isla’; al taxista le importaba ‘la posición de una acción’. Un mismo hecho, dos perspectivas, y la segunda quizá esté más cerca de la verdad que la primera.”
+> **✦** «El 28 de abril de 2026, los terminales Bloomberg de Nueva York saltaron con el titular "Taiwan Overtakes Canada". Esa misma noche, un taxista de Taipéi esperaba frente a la radio el siguiente boletín financiero; no le importaba qué país del G7 había superado Taiwán, sino si TSMC cerraría mañana a 2.300. El titular de Bloomberg proclamaba "la victoria de una isla"; al taxista le preocupaba "el escalón de una acción". Un mismo hecho, dos perspectivas —y la segunda, quizá, más cerca de la verdad.»
 
-La caída desde los diez mil puntos de 1990 destruyó la confianza de una generación en la bolsa. El mercado alcista de 2026, que subió hasta los cuarenta mil puntos y desplazó a Canadá, reconstruyó la confianza de esa misma generación; solo que esta vez el objeto de confianza cambió de “el soplo que yo elegí” a “esa TSMC que todo el mundo está comprando”.
+El colapso de los 10.000 puntos de 1990 destruyó la confianza de toda una generación en la bolsa. La embestida alcista de 2026, que escaló hasta los 40.000 puntos y desplazó a Canadá, reconstruyó la confianza de ese mismo grupo —solo que esta vez el objeto de confianza pasó de «mis propias acciones elegidas» a «esa TSMC que todo el mundo compra».
 
-La cima sobre la que se sostienen conjuntamente 13,93 millones de cuentas tiene el 45% de sus cimientos en una misma roca. La roca es dura, pero es una sola.
+En la cima donde se sostienen 13,93 millones de cuentas, el 45 % de los cimientos es una sola roca. La roca es dura, pero no hay más que una.
 
-¿Qué aprenderá el mercado de capitales de Taiwán en los próximos treinta años? Pregúntaselo a ese vecino que intentó comprar el piso tres veces en 1990: probablemente te dirá que el momento más peligroso del mercado es precisamente aquel en que todos creen que no va a caer.
+¿Qué aprenderá el mercado de capitales de Taiwán en los próximos treinta años? Pregúntale a ese vecino tuyo que compró en el suelo tres veces en 1990 —probablemente te dirá: el momento más peligroso del mercado es precisamente cuando todos creen que no va a caer.
 
-**Lecturas complementarias**
+**Lecturas recomendadas**
 
-- [TSMC, empresa taiwanesa](/es/economy/tsmc) — El sol que concentra el 45% del peso de la bolsa taiwanesa y la historia detrás de la expresión “montaña sagrada protectora de la nación”
-- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — Todo el ecosistema de cadena de suministro que sostiene la identidad de la bolsa taiwanesa como sexta del mundo
-- [Hon Hai Precision, empresa taiwanesa](/es/economy/foxconn-precision-industry) — Otro peso pesado en la lista de 25 compras de Goldman, del gigante de la manufactura por contrato al actor en transformación hacia servidores de IA
-- [Transformación y modernización industrial de Taiwán](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — La trayectoria desde la manufactura por contrato de los años ochenta hasta el dividendo de la IA en 2026
-- [Milagro económico de Taiwán](/es/economy/economic-miracle) — El dinero de aquella época en que “en Taiwán el dinero inundaba hasta los tobillos” terminó fluyendo hacia la bolsa de 1990 y Hung Yuan
-- [Desarrollo fintech de Taiwán](/es/economy/taiwan-fintech-development) — De las órdenes telefónicas en casas de bolsa a los aportes periódicos por celular: la infraestructura financiera detrás de una cuenta
-- [Apple Sidra](/es/food/apple-cider) — La cadena de transferencias accionarias de Oceanic Beverages, empresa cotizada desde 1965 (código bursátil 1213), es un caso en miniatura de dos hitos de la historia del capital: el caso de la Décima Cooperativa de Crédito de 1985 y el caso Hung Yuan de 1990
+- [Empresas de Taiwán: TSMC](/es/economy/tsmc) — El sol que pesa el 45 % de la bolsa taiwanesa y la historia detrás del término «montaña sagrada protectora»
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — Todo el ecosistema de la cadena de suministro que sostiene la identidad de sexto puesto de la bolsa taiwanesa
+- [Empresas de Taiwán: Foxconn Precision Industry](/es/economy/foxconn-precision-industry) — El otro peso pesado de la lista de 25 compras de Goldman, de gigante del ensamblaje a transformador en servidores de IA
+- [Transformación y mejora de la industria taiwanesa](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — La trayectoria desde el ensamblaje de los años 80 hasta el dividendo de la IA de 2026
+- [Milagro económico: de los bonos de la lotería a TSMC, la historia de la remontada de veinte millones de personas](/es/economy/economic-miracle) — El dinero de la época en que «Taiwán nadaba en efectivo» acabó fluyendo hacia la bolsa de 1990 y Hung Yuan
+- [Desarrollo fintech en Taiwán](/es/economy/taiwan-fintech-development) — De los pedidos por teléfono a la inversión periódica deslizando el móvil, la infraestructura financiera detrás de una cuenta
+- [Sidra de manzana](/es/food/apple-cider) — La cadena de transferencia accionaria de Atlantic Beverages (código 1213), cotizada en 1965, es un caso en miniatura de dos hitos de la historia del capital: el caso de las diez financieras de 1985 y el caso Hung Yuan de 1990
 
 ## Referencias
 
