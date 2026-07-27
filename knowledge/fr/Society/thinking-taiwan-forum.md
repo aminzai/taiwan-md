@@ -150,7 +150,7 @@ Faut-il parcourir le même chemin pour les 30 prochaines années ? La question c
 - [Lai Ching-te](/fr/people/lai-ching-te) — Neuvième président de la République de Chine, successeur de Tsai Ing-wen, objet implicite du « Breaking News » de l'_United Daily News_ lors de la refonte de Thinking Taiwan en octobre 2025
 - [PanSci](/fr/society/pansci) — Autre plateforme de débat public, mais PanSci a fait de la vulgarisation scientifique un hybride de média éducatif, de produits pédagogiques et d'économie créative
 - [Opérations de guerre cognitive de la pomme de terre toxique](/fr/society/poisoned-potato-cognitive-warfare-taiwan) — L'un des thèmes de guerre de l'information chinoise régulièrement discutés dans la rubrique géopolitique de Thinking Taiwan
-- [Guerre psychologique](/history/心戰) — Sujet croisant les rubriques pensée politique et sécurité de Thinking Taiwan
+- [Guerre psychologique](/fr/history/psychological-warfare) — Sujet croisant les rubriques pensée politique et sécurité de Thinking Taiwan
 
 ## Références
 

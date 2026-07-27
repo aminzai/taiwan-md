@@ -176,7 +176,7 @@ La prochaine fois que vous pensez à Taoyuan, ne pensez pas seulement à l\'aér
 - [Comté de Keelung](/fr/geography/keelung-city) — Série des 22 comtés et villes, pilote : l\'année de l\'ouverture de l\'aéroport de Taoyuan en 1979, la porte d\'entrée et de sortie de Taïwan est passée du port de Keelung à Taoyuan, et le port de Keelung est tombé de la 7e à la 113e place mondiale
 - [Comté de Hsinchu](/fr/geography/hsinchu-county) — Voisin méridional de la zone hakka de Taoyuan : en 1895, Jiang Shaozu est parti de Beipu, Hsinchu, pour participer à la bataille de Dakekeng
 - [Ville de Hsinchu](/fr/geography/hsinchu-city) — Avec Taoyuan, constitue le centre de la zone de répartition hakka du nord : en 1875, la région de Taoyuan a été rattachée au comté de Hsinchu
-- [Comté de Miaoli](/geography/苗栗縣) — Série des 22 comtés et villes, lot 1 : point de départ de la bande d\'immigration hakka montant de Miaoli à Taoyuan ; Wu Tangxing est monté vers le nord en 1895 pour résister aux Japonais
+- [Comté de Miaoli](/fr/geography/miaoli-county) — Série des 22 comtés et villes, lot 1 : point de départ de la bande d\'immigration hakka montant de Miaoli à Taoyuan ; Wu Tangxing est monté vers le nord en 1895 pour résister aux Japonais
 - [Comté de Nantou](/fr/geography/nantou-county) — Série des 22 comtés et villes, lot 3 : le seul comté sans littoral face au plateau d\'import-export de Taoyuan, une confrontation de deux types de « frontières »
 - [Culture et langue hakka](/fr/culture/hakka-culture-and-language) — Plus de 800 000 Hakkas à Taoyuan, le plus grand nombre du pays
 - [Travailleurs migrants](/fr/society/migrant-workers-in-taiwan) — 132 158 travailleurs migrants à Taoyuan, le plus grand nombre du pays
