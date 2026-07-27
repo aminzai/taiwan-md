@@ -217,7 +217,7 @@ _バンド公式チャンネル〈Candlelight feat. OHHYUK〉オフィシャル�
 - [台湾インディーミュージック](/ja/music/indie-music-scene) — 1980年代「水晶レコード」から2020年代のサンセット・ローラーコースター、草東、珂拉琪に至る台湾インディーミュージックの発展軸
 - [台湾音楽フェスティバル文化](/ja/music/taiwan-music-festival-culture) — 春天吶喊、大港開唱から貢寮海祭まで、台湾音楽フェスティバルの変遷
 - [台湾ポップミュージック](/ja/music/golden-melodies-legacy-taiwan-pop-music) — 1970年代民歌運動から2020年代ストリーミング時代までの台湾ポップミュージックの歴史
-- [台湾音楽産業とストリーミング時代](/music/台灣音樂產業與串流時代) — Spotifyアルゴリズム時代の台湾バンドのグローバルリーチメカニズム
+- [台湾音楽産業とストリーミング時代](/ja/music/taiwan-music-industry-and-the-streaming-era) — Spotifyアルゴリズム時代の台湾バンドのグローバルリーチメカニズム
 - [張懸と安溥](/ja/music/deserts-chang-and-anpu) — ゲクゲクが2012-2016年にAlgaeバンドでギタリストとして在籍していた際の共演パートナー
 
 ---

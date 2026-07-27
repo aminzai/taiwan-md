@@ -129,7 +129,7 @@ translatedAt: '2026-05-13T01:08:16Z'
 
 **関連記事**：
 
-- [台湾五大地形と地理構造](/geography/台灣五大地形與地理結構) — 五大地形の地質学的成因と詳細な分布
+- [台湾五大地形と地理構造](/ja/geography/taiwan-five-major-landforms-and-geographic-structure) — 五大地形の地質学的成因と詳細な分布
 - [台湾のプレート運動と地震活動](/ja/geography/tectonic-plates-and-seismic-activity) — なぜ台湾に山が多いのか：フィリピン海プレートとユーラシアプレートの衝突
 - [オランダ・スペイン・鄭成功時代](/ja/history/dutch-spanish-and-koxinga-era) — 1624〜1683年、ヨーロッパ人が台湾の詳細な地図を最初に描いた時代
 - [離島と海洋文化](/ja/geography/offshore-islands-and-maritime-culture) — 金門、馬祖、澎湖：地図上で台湾から最も遠く、中国から最も近い「台湾」

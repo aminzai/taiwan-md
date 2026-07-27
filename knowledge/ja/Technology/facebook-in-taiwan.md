@@ -81,7 +81,7 @@ Facebookの物語は、台湾のデジタル変革20年の縮図です。仮想�
 **関連記事**：
 
 - [IG：写真家のフィルターから台湾人の「脆」への不安へ](/ja/technology/instagram-in-taiwan) ―― Meta傘下のもう一つの台湾主力プラットフォーム。Facebookとは異なる利用シナリオを構成する。Facebookは「年長者との連絡」、IGは「自分自身のため」、そしてThreadsは「大喧嘩広場」である。
-- [Threads in Taiwan](/technology/Threads在台灣) ―― 台湾人はなぜThreadsを「脆」と呼ぶのか。Facebookからの難民潮から「脆」の世界トラフィック一位へ。Metaエコシステムにおける台湾ユーザーの特異な位置づけ。
+- [Threads in Taiwan](/ja/technology/threads-in-taiwan) ―― 台湾人はなぜThreadsを「脆」と呼ぶのか。Facebookからの難民潮から「脆」の世界トラフィック一位へ。Metaエコシステムにおける台湾ユーザーの特異な位置づけ。
 - [台湾ネットコミュニティ移住史](/technology/台湾網路社群遷徙史) ―― BBS、無名小站、プルクからFacebook、IG、Threadsへ。Facebookが台湾でなぜ台頭し、なぜ衰退し始めたのかを理解するには、この完全な移住地図が必要である。
 - [無名小站](/ja/culture/wretch) ―― Facebookが台湾で追い越し、最終的に取って代わった現地プラットフォーム。2008年、無名はYahooを抑えて全台一位だった。2009年以降、Facebookはニュースフィードの滞在粘着度で逆転した。
 

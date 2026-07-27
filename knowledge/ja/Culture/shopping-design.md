@@ -153,7 +153,7 @@ _Vol.155《誠徵設計》。見極め方を教える雑誌が、最後に自ら
 
 ## 延伸閱讀
 
-- [雑誌](/culture/雜誌) — 台湾雑誌の百年の流変。『Shopping Design』は「ソフトマガジン」の代表案例
+- [雑誌](/ja/culture/magazine) — 台湾雑誌の百年の流変。『Shopping Design』は「ソフトマガジン」の代表案例
 - [人間雑誌](/ja/culture/renjian-magazine) — 台湾雑誌のもう1つの魂。報道写真で底辺社会を見極め命名する。デザイン購入誌とは硬貨の両面
 - [台湾広告史](/ja/culture/taiwan-advertising-history) — 黄威融、李恵貞の養成源流。「意識形態広告」の世代が物語を語る技術をいかに雑誌へ持ち込んだか
 - [台湾茶道與生活美學](/ja/culture/taiwan-tea-ceremony-and-aesthetic-living) — 生活美学が台湾でいかに語られ、採買される日常へ成長したか

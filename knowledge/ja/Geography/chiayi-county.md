@@ -210,7 +210,7 @@ _布袋塩山、2013-08-27。Photo: Pbdragonwang, [CC BY-SA 3.0 via Wikimedia](h
 
 嘉義県の内部文脈：
 
-- [阿里山：帝国の林場と高一生の山](/history/阿里山：帝國的林場與高一生的山) — 1912年に開通した森林鉄道と、1954年の安坑刑場における高一生。この山の二つの物語
+- [阿里山：帝国の林場と高一生の山](/ja/history/alishan-empire-forest-and-uongu-yatauyungana) — 1912年に開通した森林鉄道と、1954年の安坑刑場における高一生。この山の二つの物語
 - [国立故宮博物院](/ja/culture/national-palace-museum) — 故宮南院を「南北の均衡」の試みとして見る、より大きな文脈
 - [陳澄波](/ja/people/chen-cheng-po) — 1947年に嘉義駅前で亡くなった画家。二二八嘉義事件のもう一つの側面
 - [八田與一](/ja/people/hatta-yoichi) — 1920-1930年の嘉南大圳工事がこの県を台湾の穀倉に変えました

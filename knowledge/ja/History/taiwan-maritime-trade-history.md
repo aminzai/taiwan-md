@@ -114,4 +114,4 @@ difficulty: 'beginner'
 
 - [荷西明鄭時期](/ja/history/dutch-spanish-and-koxinga-era)
 - [清治時期](/ja/history/qing-dynasty-rule)
-- [台湾海岸地形と海洋地景](/geography/台灣海岸地形與海洋地景)
+- [台湾海岸地形と海洋地景](/ja/geography/taiwan-coastal-landforms-and-seascapes)

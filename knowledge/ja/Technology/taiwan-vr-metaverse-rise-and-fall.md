@@ -206,7 +206,7 @@ XRSPACEの周永明は「ソーシャルVR」を目指し、HTCの王雪紅は�
 
 - [台湾企業：宏達電（ホンダーデン）](/ja/economy/htc-android-pioneer-vr-transformation) — HTCのAndroidスマートフォンからVRへの転換の企業史
 - [台湾のオープンソース精神](/ja/technology/taiwan-open-source-spirit) — 「愛で電力を生む」もう一つの台湾テックコミュニティの物語
-- [台湾のデジタル映像・アニメーション産業](/technology/台灣數位影像與動畫產業) — VRコンテンツの背後にある技術と人材の基盤
+- [台湾のデジタル映像・アニメーション産業](/ja/technology/taiwan-digital-animation-industry) — VRコンテンツの背後にある技術と人材の基盤
 
 ---
 

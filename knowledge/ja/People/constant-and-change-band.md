@@ -160,7 +160,7 @@ KSTはこのイメージをアルバム全体のテーマに広げた：**10年�
 - [草東沒有派對](/ja/people/no-party-for-cao-dong) — 2016年に同時期に台頭したインディーバンド。社会に出たばかりの怒りを描く。KSTは10年後の座礁を描く——同一世代の二つの段階
 - [魏如萱](/ja/people/waa-wei-singer) — 2010年代のインディーミュージック生態系に属し、ポストロックではなくボーカル路線を歩む女性シンガー
 - [Cicada](/ja/people/cicada-band) — ボーカルなしの純粋ポストロックを追求し、KSTの「ポストロック＋ボーカル」と対照をなす
-- [盧広仲](/people/盧廣仲) — インディーミュージックのもう一つの道：作品型シンガーが三金（金曲・金鐘・金馬）を横断する
+- [盧広仲](/ja/people/crowd-lu-indie-folk-treasure) — インディーミュージックのもう一つの道：作品型シンガーが三金（金曲・金鐘・金馬）を横断する
 - [金曲獎](/ja/music/pop-music-and-golden-melody-awards) — KSTが金曲獎32で最優秀バンド賞にノミネートされた舞台の座標
 - [台湾インディーミュージック](/ja/music/indie-music-scene) — 自然巻からKST、草東、告五人に至るインディーミュージックの世代譜系
 - [台湾ポピュラーミュージック](/ja/music/golden-melodies-legacy-taiwan-pop-music) — 華語ポップスの産業環境
