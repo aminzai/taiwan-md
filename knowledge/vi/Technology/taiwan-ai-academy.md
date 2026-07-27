@@ -297,7 +297,7 @@ Cuộc gọi chưa hoàn tất, để lại một di nguyện chưa hoàn thành
 
 - [Sự trỗi dậy của Đảo quốc AI: Phát triển và Chiến lược Tương lai của Trí tuệ Nhân tạo tại Đài Loan](/technology/AI發展) — Câu chuyện toàn cảnh về cấu trúc chính sách AI, bố trí công nghiệp, năm lĩnh vực chiến lược lớn và hợp tác quốc tế của Đài Loan
 - [AI Hàng ngày tại Đài Loan](/technology/台灣AI日常) — Thực tiễn triển khai AI trong các bối cảnh hàng ngày như cửa hàng tiện lợi, bệnh viện, ruộng đồng, lớp học tại Đài Loan
-- [Ngành Công nghiệp Bán dẫn](/technology/半導體產業) — Cách 10.000 kỹ sư AI được AIA đào tạo trong tám năm kết nối lại với hệ sinh thái ICT hiện có của cường quốc bán dẫn
+- [Ngành Công nghiệp Bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Cách 10.000 kỹ sư AI được AIA đào tạo trong tám năm kết nối lại với hệ sinh thái ICT hiện có của cường quốc bán dẫn
 - [Tại sao Đài Loan cần Kho tri thức của riêng mình](/about/為什麼台灣需要自己的知識庫) — Giám đốc Trường Thái Minh Thuận nói tỷ lệ dữ liệu bản địa Đài Loan trên thế giới mạng ít hơn 0.1%, bài viết này đo lường khoảng trống đó, và bàn về ai nên ghi lại phiên bản đó
 
 ## Nguồn hình ảnh

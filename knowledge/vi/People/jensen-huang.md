@@ -157,7 +157,7 @@ Cánh tay của Huang Jen-hsun hiện có hình xăm thương hiệu doanh nghi�
 
 - [Trương Trung Mậu](/people/張忠謀) — Đối tác quan trọng nhất của NVIDIA, người sáng lập TSMC, tình bạn hơn 30 năm giữa hai người đã buộc chuỗi cung ứng AI toàn cầu
 - Đài Loan doanh nghiệp: TSMC — Công ty Đài Loan gia công chip tiên tiến nhất của NVIDIA, "anh hùng thế giới" trong lời nói của Huang Jen-hsun
-- [Ngành công nghiệp bán dẫn Đài Loan](/technology/半導體產業) — Chip của Huang Jen-hsun và Su Zifeng đều được sản xuất trên hòn đảo này, đây là khiên silicon của Đài Loan
+- [Ngành công nghiệp bán dẫn Đài Loan](/vi/technology/taiwan-semiconductor-industry) — Chip của Huang Jen-hsun và Su Zifeng đều được sản xuất trên hòn đảo này, đây là khiên silicon của Đài Loan
 - [NVIDIA tại Đài Loan: Công ty đắt giá nhất thế giới, không có chip nào tự mình làm](/technology/NVIDIA在台灣) — Công ty ông sáng lập cộng sinh với ngành công nghiệp hòn đảo này: chip, máy chủ, tổng bộ, và một thỏa thuận đất 4,434 tỷ
 - [Ji Huai-xin (Jim Huang): Người Đài Loan dạy AI học "suy nghĩ từng bước"](/people/紀懷新) — Một người Đài Loan khác đứng ở tuyến đầu AI, chip của Huang Jen-hsun làm cho AI chạy nhanh, tư duy chuỗi suy luận của Ji Huai-xin làm cho AI học suy nghĩ từng bước
 - [Giang Trấn Thành (Chang Chen-cheng)](/people/江振誠) — Một người Đài Loan khác cũng đứng ở đỉnh cao quốc tế, đi theo con đường ngược lại: chủ động quay lưng ở đỉnh cao, từ chối bị định nghĩa bởi một danh hiệu

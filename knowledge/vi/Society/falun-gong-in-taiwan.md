@@ -67,7 +67,7 @@ Sự hiện diện yên tĩnh của Falun Gong tại Đài Loan chính là một
 **Đọc thêm**
 
 - [Đoàn kết hành động](/society/統戰團) — Từ du lịch giá rẻ đến luồng viral, các phương pháp mới và cũ của đường chiến hợp nhất Trung Quốc đối với Đài Loan và logic chiến tranh nhận thức.
-- [Chiến tranh nhận thức](/society/認知作戰) — Khung xây dựng chiến tranh nhận thức và các biện pháp đối phó tại Đài Loan, từ phân tích học thuật đến thực hành giáo dục công dân.
+- [Chiến tranh nhận thức](/vi/society/cognitive-warfare-against-taiwan) — Khung xây dựng chiến tranh nhận thức và các biện pháp đối phó tại Đài Loan, từ phân tích học thuật đến thực hành giáo dục công dân.
 
 ## Tài liệu tham khảo
 

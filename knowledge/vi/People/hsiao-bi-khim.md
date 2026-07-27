@@ -139,8 +139,8 @@ Nhưng đó cũng có lẽ là câu trả lời mà Đài Loan sẽ phải kiên
 - [Tưởng Giới Thạch](/people/賴清德) — Bên kia của cặp đôi: chuyên gia nội chính gặp chiến mộc.
 - [Zheng Mi Nhiên](/people/鄭麗文) — So sánh: Hai nhà nữ chính trị xuất hiện nhiều nhất trên báo chí năm 2026, hai lối đi hoàn toàn khác nhau.
 - [Khủng hoảng Hải ngoại và phát triển quan hệ hai bên biển](/history/台海危機與兩岸關係發展) — Bốn năm làm đại diện MA của Tiếu Bí Khúc, chính x là giai đoạn chuyển đổi chính sách Hoa Kỳ đối với Trung Quốc.
-- [Chuyển đổi dân chủ Đài Loan](/history/台灣民主轉型) — Hệ thống Long Hữu của cha Tiếu Bí Khúc là một nguồn gốc tinh thần quan trọng của phong trào dân chủ hóa Đài Loan.
-- [Zhou Rong Tai](/people/卓榮泰) — Phó Thủ tướng đầu tiên của Tưởng Giới Thạch, người nhận lì xu trong buổi lễ giao nhận của Tiếu Bí Khúc ngày 20 năm 2024.
+- [Chuyển đổi dân chủ Đài Loan](/vi/history/taiwan-democratization) — Hệ thống Long Hữu của cha Tiếu Bí Khúc là một nguồn gốc tinh thần quan trọng của phong trào dân chủ hóa Đài Loan.
+- [Zhou Rong Tai](/vi/people/cho-jung-tai) — Phó Thủ tướng đầu tiên của Tưởng Giới Thạch, người nhận lì xu trong buổi lễ giao nhận của Tiếu Bí Khúc ngày 20 năm 2024.
 - [Xu Quyền Sinh](/people/徐巧芯) — Một người phụ nữ khác trong cùng một cấu trúc chính trị, hai lối đi hoàn toàn khác nhau và phản hồi khác nhau với Đài Loan.
 
 ## Tài liệu tham khảo

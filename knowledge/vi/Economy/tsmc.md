@@ -220,12 +220,12 @@ Không ai lên kế hoạch cho sự dịch chuyển quy mô này. Nhưng trong 
 
 ## Đọc thêm
 
-- [Doanh nghiệp Đài Loan: MediaTek](/economy/台灣企業：聯發科技) — Nhà thiết kế chip điện thoại lớn thứ ba thế giới, đại diện bản địa của mô hình fabless, là cặp song sinh bổ trợ cho TSMC
+- [Doanh nghiệp Đài Loan: MediaTek](/vi/economy/mediatek) — Nhà thiết kế chip điện thoại lớn thứ ba thế giới, đại diện bản địa của mô hình fabless, là cặp song sinh bổ trợ cho TSMC
 - [Doanh nghiệp Đài Loan: ASE Group](/economy/台灣企業：日月光半導體) — Nhà máy đóng gói và kiểm tra lớn nhất thế giới, là nút then chốt hạ nguồn trong cùng chuỗi cung ứng với TSMC
 - [Thị trường chứng khoán và vốn Đài Loan](/economy/台灣股市與資本市場) — Vốn hóa thị trường của TSMC chiếm khoảng 35% tổng vốn hóa thị trường Đài Loan, hiểu thị trường chứng khoán Đài Loan phải hiểu TSMC trước
-- [Chuyển đổi và nâng cấp công nghiệp Đài Loan](/economy/台灣產業轉型升級) — TSMC là ví dụ cụ thể để Đài Loan biến từ đảo gia công thành đảo công nghệ
+- [Chuyển đổi và nâng cấp công nghiệp Đài Loan](/vi/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC là ví dụ cụ thể để Đài Loan biến từ đảo gia công thành đảo công nghệ
 - [Thiêm Thắng Vinh](/people/施振榮) — Đã làm giám đốc TSMC 21 năm, có khối tài sản lớn nhất đặt cược vào cổ phiếu TSMC, nhưng chính là tác giả của "Đường cong nụ cười" gọi Đài Loan đừng làm gia công
-- [Ngành bán dẫn](/technology/半導體產業) — 50 năm cách mạng vật liệu từ chuyển giao công nghệ RCA đến gallium nitride và đóng gói lượng tử, toàn bộ chiến trường khoa học vật liệu mà TSMC nằm trong đó
+- [Ngành bán dẫn](/vi/technology/taiwan-semiconductor-industry) — 50 năm cách mạng vật liệu từ chuyển giao công nghệ RCA đến gallium nitride và đóng gói lượng tử, toàn bộ chiến trường khoa học vật liệu mà TSMC nằm trong đó
 
 ## Nguồn ảnh
 

@@ -75,9 +75,9 @@ Vô hạn Huyền tự thành là người hâm mộ của Lửa nam châm, đi�
 
 **Đọc thêm**
 
-- [Kịch bằng chiếu mây](/culture/皮影戲) — Cũng xuất phát từ nền văn hóa Hàn-Giang, gắn cối vào Đài Loan, thành phố Hồng Kông, đã từng trong thời kỳ hoàng quốc bằng cách biên dịch các vở kịch Nhật Bản sinh tồn, là một lượng truyền thống kịch khác của bò đàn họa
+- [Kịch bằng chiếu mây](/vi/culture/taiwanese-shadow-puppetry) — Cũng xuất phát từ nền văn hóa Hàn-Giang, gắn cối vào Đài Loan, thành phố Hồng Kông, đã từng trong thời kỳ hoàng quốc bằng cách biên dịch các vở kịch Nhật Bản sinh tồn, là một lượng truyền thống kịch khác của bò đàn họa
 - [Lễ hội chùa và văn hóa động đất](/culture/台灣廟會與陣頭文化) — Chùa chiến là sân khấu đầu tiên của bò đàn họa, lễ hội chùa và bò đàn họa trên bầu trời chung của khu vực tín ngưỡng dân gian Đài Loan
-- [Hai phòng chiếu](/culture/兩廳院) — Nghệ thuật biểu diễn truyền thống Đài Loan từ chùa chiến lên sân khấu hiện đại, hoàn thành đến năm 1987 cho đến nay chứng kiến sự hoan hòa văn hóa Đài Loan
+- [Hai phòng chiếu](/vi/culture/national-theater-and-concert-hall) — Nghệ thuật biểu diễn truyền thống Đài Loan từ chùa chiến lên sân khấu hiện đại, hoàn thành đến năm 1987 cho đến nay chứng kiến sự hoan hòa văn hóa Đài Loan
 
 ## Tài liệu tham khảo
 

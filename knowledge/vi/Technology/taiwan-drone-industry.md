@@ -158,7 +158,7 @@ Dây chuyền năm 1979 bắt đầu từ máy bay đồ chơi điều khiển t
 **Đọc thêm**
 
 - [Hiện đại hóa Quốc phòng và Quân sự Đài Loan](/society/台灣國防與軍事現代化) — Toàn cảnh chiến lược Bào Ngư sau 200.000 máy bay không người lái
-- [Công nghiệp Bán dẫn](/technology/半導體產業) — Ngành công nghiệp chiến lược trỗi dậy vì địa chính trị trước đó của Đài Loan
+- [Công nghiệp Bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Ngành công nghiệp chiến lược trỗi dậy vì địa chính trị trước đó của Đài Loan
 - [Phát triển Công nghiệp Không gian Đài Loan](/technology/台灣太空產業發展) — Từ máy bay không người lái đến vệ tinh, tham vọng bầu trời của Đài Loan
 - [Công nghiệp Robot Đài Loan](/technology/台灣機器人產業) — Một ví dụ khác "linh kiện mạnh, máy hoàn chỉnh yếu", có cùng vấn đề cấu trúc với máy bay không người lái
 

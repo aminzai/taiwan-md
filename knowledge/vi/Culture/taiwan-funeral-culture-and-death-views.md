@@ -105,8 +105,8 @@ Cuối năm 2023, toàn Đài an táng sinh thái tích lũy vượt 14 vạn ng
 
 **Đọc thêm**
 
-- [Tôn giáo và văn hóa đền chùa Đài Loan](/culture/台灣宗教與寺廟文化) — Niềm tin dân gian như thế nào ảnh hưởng quan niệm tang lễ
-- [Hôn sang hỉ慶 và lễ tục nhân sinh Đài Loan](/culture/台灣婚喪喜慶與人生禮俗) — Toàn bộ phổ lễ tục từ sinh đến tử
+- [Tôn giáo và văn hóa đền chùa Đài Loan](/vi/culture/taiwan-religion-and-temple-culture) — Niềm tin dân gian như thế nào ảnh hưởng quan niệm tang lễ
+- [Hôn sang hỉ慶 và lễ tục nhân sinh Đài Loan](/vi/culture/taiwanese-life-ceremony-traditions) — Toàn bộ phổ lễ tục từ sinh đến tử
 - [Công lý môi trường và tranh cãi láng giềng tránh hại Đài Loan](/society/台灣環境正義與鄰避爭議) — Xung đột xã hội về chọn址 lò đốt rác, mộ viên
 
 ## Tài liệu tham khảo

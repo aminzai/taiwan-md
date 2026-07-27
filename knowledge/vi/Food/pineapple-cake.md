@@ -65,7 +65,7 @@ Năm 2006, Chính phủ thành phố Đài Bắc (台北市政府) tổ chức l
 
 ## Mở rộng đọc
 
-- [Văn hóa bánh Đài Loan](/food/台灣糕餅文化) — Nghệ thuật bánh Hán (漢餅) và gen di truyền ngàn lớp của tráng miệng hiện đại, cùng bánh sứa nhìn vào sự chuyển đổi của bánh Đài Loan
+- [Văn hóa bánh Đài Loan](/vi/food/taiwan-pastry-culture) — Nghệ thuật bánh Hán (漢餅) và gen di truyền ngàn lớp của tráng miệng hiện đại, cùng bánh sứa nhìn vào sự chuyển đổi của bánh Đài Loan
 - [Phở bò (牛肉麵)](/food/牛肉麵) — Một "viên gạch" khác định nghĩa ký ức vị giác Đài Loan, đại diện cho "ngoại giao bình dân" (庶民外交), với bánh sứa hình thành đối chiếu nội ngoại
 - [Hiện đại hóa nông nghiệp Đài Loan](/economy/台灣農業現代化) — Từ khủng hoảng sản销 đến chuyển đổi nông nghiệp doanh nghiệp, bánh sứa là một đoạn trên con đường dài này
 

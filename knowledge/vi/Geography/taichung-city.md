@@ -214,7 +214,7 @@ Lần sau đi qua Đài Trung, đừng chỉ đến cửa hàng bánh mặt tr�
 
 ## Đọc thêm
 
-- [Ngành chế tạo nhạc cụ Đài Loan: Hành trình âm thanh thế giới của tay nghề Đài Loan](/music/台灣樂器製造) — Khu tụ tập sáo saxophone Hậu Lý và chuông nhạc Vũ Phong, là địa lý tinh밀 và âm nhạc ngoài công nghiệp Đài Trung
+- [Ngành chế tạo nhạc cụ Đài Loan: Hành trình âm thanh thế giới của tay nghề Đài Loan](/vi/music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories) — Khu tụ tập sáo saxophone Hậu Lý và chuông nhạc Vũ Phong, là địa lý tinh밀 và âm nhạc ngoài công nghiệp Đài Trung
 
 - [Thành phố Cơ Long](/geography/基隆市) — Pilot danh sách 22 huyện thị: năm 1984 cảng container lớn thứ bảy thế giới tụt xuống cảng thứ 113 năm 2018, cùng Đài Trung là "vị thế hành chính từng được nhìn thấy rồi bị viết lại" của huyện thị
 - [Huyện Nan Đầu](/geography/南投縣) — Anh em batch 3 danh sách 22 huyện thị: huyện duy nhất không giáp biển, chấn tâm 921 nằm ở trung tâm nó, cùng Đài Trung chia sẻ chấn thương đứt gãy Trùng Long Phổ
@@ -222,8 +222,8 @@ Lần sau đi qua Đài Trung, đừng chỉ đến cửa hàng bánh mặt tr�
 - [Huyện Vân Lâm](/geography/雲林縣) — Anh em batch 4 danh sách 22 huyện thị: đạo cảnh Ma Tổ Đại Giáp đi qua Tây Lôi, Hổ Đầu, Thổ Khố, cùng Đài Trung là đoạn giữa tuyến Ma Tổ 340 km
 - [Thành phố Gia Nghĩa](/geography/嘉義市) — Anh em batch 2 danh sách 22 huyện thị: Tân Cảng điểm cuối đạo cảnh Ma Tổ Đại Giáp ở huyện Gia Nghĩa, cùng Đài Trung là hai đầu tuyến tôn giáo 340 km
 - [Huyện Miaoli](/geography/苗栗縣) — Anh em batch 1 danh sách 22 huyện thị: huyện giáp bắc, người Khách Gia cứng đầu và nợ ngân sách huyện nội lục, cùng Hải tuyến Thanh Thủy, núi Đông Thê cấu thành bản đồ người Khách Gia Trung Bộ
-- [Phân chia hành chính Đài Loan](/geography/台灣行政區劃) — 1887 thiết lập phủ Đài Loan tại Đài Trung, 1920 thiết lập châu Đài Trung, 1945 huyện thị phân lập, 2010 huyện thị hợp nhất thăng cấp thành phố trực thuộc trung ương, lịch sử chế độ hoàn chỉnh
-- [Đặc điểm thành phố và văn hóa khu vực](/geography/城市特色與區域文化) — Ngữ cảnh so sánh xuyên huyện thị của Đài Trung với tư cách trung tâm生活圈 Trung Bộ
+- [Phân chia hành chính Đài Loan](/vi/geography/administrative-divisions-of-taiwan) — 1887 thiết lập phủ Đài Loan tại Đài Trung, 1920 thiết lập châu Đài Trung, 1945 huyện thị phân lập, 2010 huyện thị hợp nhất thăng cấp thành phố trực thuộc trung ương, lịch sử chế độ hoàn chỉnh
+- [Đặc điểm thành phố và văn hóa khu vực](/vi/geography/urban-character-and-regional-culture) — Ngữ cảnh so sánh xuyên huyện thị của Đài Trung với tư cách trung tâm生活圈 Trung Bộ
 
 ## Nguồn ảnh
 

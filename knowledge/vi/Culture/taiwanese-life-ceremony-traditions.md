@@ -435,11 +435,11 @@ Có lẽ đây chính là giá trị quý báu nhất của nghi thức vòng đ
 
 ## Đọc thêm
 
-- [Lễ hội và hoạt động kỷ niệm truyền thống](/culture/傳統節慶與慶典) - Tìm hiểu mối liên hệ giữa nghi thức vòng đời và lễ hội
+- [Lễ hội và hoạt động kỷ niệm truyền thống](/vi/culture/traditional-festivals-and-celebrations) - Tìm hiểu mối liên hệ giữa nghi thức vòng đời và lễ hội
 - [Các cộng đồng sắc tộc: Mân Nam, Khách Gia, nguyên trú dân, người ngoại tỉnh và cư dân mới](/culture/族群（閩南客家原住民外省新住民）) - Khám phá đặc trưng phong tục của các cộng đồng khác nhau
-- [Tôn giáo và văn hóa đền miếu Đài Loan](/culture/台灣宗教與寺廟文化) - Tìm hiểu vai trò của tôn giáo trong nghi thức vòng đời
-- [Trà đạo và mỹ học đời sống Đài Loan](/culture/台灣茶道與生活美學) - Trải nghiệm những yếu tố thẩm mỹ trong phong tục
-- [Văn hóa bánh ngọt Đài Loan](/food/台灣糕餅文化) — Vai trò cụ thể của hộp bánh hỷ trong sáu lễ và mười hai lễ, từ Ngọc Trân Trai tại Lộc Cảng năm 1877 đến thế hệ săn vé trong 30 giây của năm 2026
+- [Tôn giáo và văn hóa đền miếu Đài Loan](/vi/culture/taiwan-religion-and-temple-culture) - Tìm hiểu vai trò của tôn giáo trong nghi thức vòng đời
+- [Trà đạo và mỹ học đời sống Đài Loan](/vi/culture/taiwan-tea-ceremony-and-aesthetic-living) - Trải nghiệm những yếu tố thẩm mỹ trong phong tục
+- [Văn hóa bánh ngọt Đài Loan](/vi/food/taiwan-pastry-culture) — Vai trò cụ thể của hộp bánh hỷ trong sáu lễ và mười hai lễ, từ Ngọc Trân Trai tại Lộc Cảng năm 1877 đến thế hệ săn vé trong 30 giây của năm 2026
 
 ---
 

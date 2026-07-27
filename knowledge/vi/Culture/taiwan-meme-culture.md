@@ -103,8 +103,8 @@ Nhìn lại ba mươi năm, văn hóa meme Đài Loan phản chiếu sự phức
 
 - [PTT Bất Tách Tách](/technology/PTT批踢踢) — Nguồn gốc của hầu hết các meme và văn hóa người dùng Đài Loan
 - [Meme của Thái Anh Văn](/society/馬英九迷因) — Nghiên cứu trường hợp tiêu biểu về meme hóa các nhân vật chính trị
-- [Hình ảnh người già](/culture/長輩圖) — Một lối truyền thống khác có tính đặc sản của Đài Loan
-- [VTuber của Đài Loan](/culture/台灣VTuber) — Sự hòa quyện hiện đại của vai ảo và văn hóa meme
+- [Hình ảnh người già](/vi/culture/elder-greeting-images) — Một lối truyền thống khác có tính đặc sản của Đài Loan
+- [VTuber của Đài Loan](/vi/culture/taiwan-vtuber) — Sự hòa quyện hiện đại của vai ảo và văn hóa meme
 
 ---
 

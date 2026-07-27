@@ -98,7 +98,7 @@ Chế độ nghĩa vụ quân sự của Đài Loan là một cuộc đối tho�
 
 ## Đọc thêm
 
-- [Ký ức về doanh trại Hồ Khẩu và đường Thắng Lợi](/history/湖口營區與勝利路記憶) — Ký ức thường nhật về không gian quân sự
+- [Ký ức về doanh trại Hồ Khẩu và đường Thắng Lợi](/vi/history/hukou-camp-shengli-road-memory) — Ký ức thường nhật về không gian quân sự
 - [Học viện Gấu Đen (Black Bear Academy)](/society/黑熊學院) — Phiên bản đương đại của ý thức phòng vệ dân sự
 
 ## Tài liệu tham khảo

@@ -132,7 +132,7 @@ Từ tấm da cừu 1554 của Lopo Homem, đến Google Maps 2026 trên điện
 - [Năm đại địa hình và cấu trúc địa lý Đài Loan](/geography/台灣五大地形與地理結構) — Nguyên nhân địa chất và phân bố chi tiết năm đại địa hình
 - [Vận động mảng địa chất và hoạt động động đất Đài Loan](/geography/台灣板塊運動與地震活動) — Tại sao Đài Loan nhiều núi đến vậy: va chạm mảng biển Philippines và mảng Âu Á
 - [Thời Hà - Tây - Minh - Trinh](/history/荷西明鄭時期) — 1624-1683, thời đại người Âu vẽ bản đồ chi tiết Đài Loan sớm nhất
-- [Đảo ly và văn hóa hải dương](/geography/離島與海洋文化) — Kim Môn, Mã Tộc, Phổ Hồ: trên bản đồ xa Đài Loan nhất, gần Trung Quốc nhất \"Đài Loan\"
+- [Đảo ly và văn hóa hải dương](/vi/geography/offshore-islands-and-maritime-culture) — Kim Môn, Mã Tộc, Phổ Hồ: trên bản đồ xa Đài Loan nhất, gần Trung Quốc nhất \"Đài Loan\"
 
 ## Tài liệu tham khảo
 

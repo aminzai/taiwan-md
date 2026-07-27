@@ -61,7 +61,7 @@ Lần tới khi bạn cắn vào góc nhọn giòn của Kim Nho Giác, hãy nh�
 
 - [Đài Loan món ăn nhỏ](/food/台灣小吃)
 - [Sanh Kiên phố cổ](/geography/三峽老街)
-- [Đài Loan bánh ngọt văn hoá](/food/台灣糕餅文化)
+- [Đài Loan bánh ngọt văn hoá](/vi/food/taiwan-pastry-culture)
 - [Đài Loan quà lưu niệm kinh tế](/economy/台灣伴手禮經濟)
 
 ## Tham khảo

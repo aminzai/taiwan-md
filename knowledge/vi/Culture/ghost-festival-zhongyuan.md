@@ -76,7 +76,7 @@ Tiết Trung Nguyên nhắc nhở chúng ta rằng hòa bình trên hòn đảo 
 
 ## Đọc thêm
 
-- [Âm lịch tháng 7](/culture/農曆七月) — Nhịp độ xã hội của tháng ma
+- [Âm lịch tháng 7](/vi/culture/lunar-july-ghost-month) — Nhịp độ xã hội của tháng ma
 - [Tiết Đoan Ngọ](/culture/端午節) — Bộ công cụ lễ hội được bản địa hóa tại Đài Loan như thế nào
 
 ## Tham khảo

@@ -265,7 +265,7 @@ _Nguồn NVIDIA kênh chính thức: Bài phát biểu chính của Huang Renhun
 
 **Bạn đọc thêm**:
 
-- [Ngành bán dẫn](/Technology/半導體產業) — Sợi chỉ kéo dài lên sân khấu chính của Computex, nguồn gốc tại các nhà máy TSMC tại Hsinchu, Taichung, Tainan
+- [Ngành bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Sợi chỉ kéo dài lên sân khấu chính của Computex, nguồn gốc tại các nhà máy TSMC tại Hsinchu, Taichung, Tainan
 - [Phát triển và chiến lược tương lai trí tuệ nhân tạo của Đài Bắc](/Technology/台灣人工智慧發展與未來策略) — Từ gia công máy chủ đến AI thể chất, ngành công nghiệp AI của Đài Bắc đang chuyển đổi thứ hai
 - [Ngành robot của Đài Bắc](/Technology/台灣機器人產業) — Lần đầu ra đời của Shang Bank tại COMPUTEX là một phần quan trọng của chuỗi cung ứng
 - [Chuỗi cung ứng ngành ô tô điện tự của Đài Bắc](/Technology/台灣電動車產業鏈發展) — Một trục sản xuất khác song song với máy chủ AI

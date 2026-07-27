@@ -115,7 +115,7 @@ Sự phục hưng của truyện tranh Đài Loan vừa là vấn đề công ng
 ## Đọc thêm
 
 - [Văn hóa truyện tranh và hoạt hình Đài Loan](/culture/台灣動漫文化) — Văn hóa tiêu thụ truyện tranh và hoạt hình từ góc nhìn độc giả: cosplay, dōjinshi, triển lãm truyện tranh–hoạt hình và ký ức thế hệ
-- [Điện ảnh Đài Loan](/art/台灣電影) — Một trục khác của nghệ thuật tự sự thị giác Đài Loan
+- [Điện ảnh Đài Loan](/vi/art/taiwanese-cinema) — Một trục khác của nghệ thuật tự sự thị giác Đài Loan
 - [Sự phát triển của văn học đương đại Đài Loan](/art/台灣當代文學發展) — Bình diện văn chương trong quá trình tiến hóa của ý thức sáng tạo Đài Loan
 
 ## Tài liệu tham khảo

@@ -218,11 +218,11 @@ MediaTek được thành lập riêng rẽ từ Công ty Điện tử Hữu hạ
 
 ## Đọc thêm
 
-- [Ngành bán dẫn](/technology/半導體產業) — Từ chuyển giao công nghệ RCA năm 1976 đến thị phần 60% toàn cầu năm 2024, ngành công nghiệp cốt lõi bắt nguồn từ Khu khoa học công nghệ Kiểm Trì đã trở thành "nối bảo vệ quốc gia".
+- [Ngành bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Từ chuyển giao công nghệ RCA năm 1976 đến thị phần 60% toàn cầu năm 2024, ngành công nghiệp cốt lõi bắt nguồn từ Khu khoa học công nghệ Kiểm Trì đã trở thành "nối bảo vệ quốc gia".
 - [Hồng Quốc Dũng](/people/張忠謀) — Người quan trọng tạo nên TSMC năm 1987, người đã xây dựng nền tảng chuỗi cung ứng bán dẫn từ con số không.
 - [Hồng Quốc Dũng](/people/施振榮) — Tác giả của "đường cong cười": vẽ đường cong bằng nhà máy, giàu tiền nhưng đầu tư vào TSMC.
 - [Thương mại và chuỗi cung ứng toàn cầu của Đài Loan](/economy/台灣外貿與全球供應鏈) — Từ ngoại tệ khu công nghiệp xuất khẩu đến năm 2024, thành phần chính của xuất khẩu bán dẫn.
-- [Hệ sinh thái doanh nghiệp mới](/economy/新創生態系) — Một lối đi khác từ chuyển đổi công nghiệp sang nước sáng tạo: phát triển các doanh nghiệp mới và bán dẫn fabless từ thập niên 1990.
+- [Hệ sinh thái doanh nghiệp mới](/vi/economy/taiwan-startup-ecosystem-overview) — Một lối đi khác từ chuyển đổi công nghiệp sang nước sáng tạo: phát triển các doanh nghiệp mới và bán dẫn fabless từ thập niên 1990.
 - [Phát triển trí tuệ nhân tạo và chiến lược tương lai của Đài Loan](/technology/台灣人工智慧發展與未來策略) — Bước tiếp theo của sự chuyển đổi công nghiệp sau 2024: từ thế mạnh phần cứng đến chiến lược triển khai AI.
 - [Chương trình dẫn dắt doanh nghiệp SLP Hà Nội](/economy/SLP台北創業領導計畫) — Chi phí từ 6.000 lên 58.000 USD cho chương trình đào tạo doanh nghiệp mới, đồng thời là quy mô của sinh viên đổi mới từ giai đoạn sơ khai.
 

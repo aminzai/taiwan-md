@@ -89,7 +89,7 @@ Câu chuyện kẹo đường cống, bản chất là câu chuyện về "sự 
 
 ## Mở rộng đọc
 
-- [Kim Ngưu Giác (金牛角)](/food/金牛角) — Một loại bánh ngọt Đài Loan khác gánh vác ký ức địa phương, từ phố cổ Tam Hiệp lan tỏa toàn đảo
+- [Kim Ngưu Giác (金牛角)](/vi/food/golden-croissant) — Một loại bánh ngọt Đài Loan khác gánh vác ký ức địa phương, từ phố cổ Tam Hiệp lan tỏa toàn đảo
 
 ## Tài liệu tham khảo
 

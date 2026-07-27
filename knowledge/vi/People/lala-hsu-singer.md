@@ -131,7 +131,7 @@ Vé xe buýt gần như về Đài Trung chưa từng biến mất. Nó vẫn t�
 - [Linh Yêu](/people/林宥嘉) — Cũng từ "Super Star" xuất hiện, một con đường khác từ người thắng thiên tâp đến tự sáng tạo.
 - [Hoàng Phượng](/people/田馥甄) — Cùng với Thái Anh Văn là những người trẻ nữ đặc trưng trong nhạc pop Hoa Việt thập niên 2010, từ hệ thống idol phá vỡ giọng của chính mình.
 - [Nguyễn Thị Hương](/people/魏如萱) — Ca sĩ giải thưởng Nhạc truyền thống Hoa Việt cùng thế hệ, cùng Thái Anh Văn tạo nên một hệ thống âm thanh không chuẩn của các ca sĩ sáng tạo nữ tại Đài Loan.
-- [Chương trình giải trí Đài Loan](/culture/台灣綜藝) — Từ "Super Star" hiểu cách chương trình thiên tâp TV thay đổi nhạc pop Hoa Việt thập niên 2000.
+- [Chương trình giải trí Đài Loan](/vi/culture/taiwan-variety-shows) — Từ "Super Star" hiểu cách chương trình thiên tâp TV thay đổi nhạc pop Hoa Việt thập niên 2000.
 
 ## Tài liệu tham khảo
 

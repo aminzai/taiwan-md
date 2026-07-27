@@ -188,7 +188,7 @@ Làm thế nào để duy trì chất lượng giáo dục và sức cạnh tran
 **Đọc thêm:**
 
 - [Giáo dục vùng sâu vùng xa Đài Loan](/society/台灣偏鄉教育) — Nếu muốn nhìn thấy toàn cảnh lớn hơn về bất bình đẳng giáo dục từ trẻ em, trường học, cộng đồng gia đình đến tưởng tượng thành công xã hội, bài viết này là cái nhìn bao quát hơn.
-- [Giáo dục vì Đài Loan TFT](/society/為台灣而教TFT) — Bài viết này tập trung vào một tổ chức thực tế đáp ứng khoảng cách giáo dục vùng sâu vùng xa, bổ sung bối cảnh hành động và tranh cãi.
+- [Giáo dục vì Đài Loan TFT](/vi/society/teach-for-taiwan) — Bài viết này tập trung vào một tổ chức thực tế đáp ứng khoảng cách giáo dục vùng sâu vùng xa, bổ sung bối cảnh hành động và tranh cãi.
 - [Khủng hoảng giảm sinh Đài Loan](/society/台灣少子化危機) — Ngoài hệ thống thi cử và văn hóa cạnh tranh, giảm sinh cũng đang viết lại sự tồn tại/sáp nhập của trường học và phân bổ tài nguyên giáo dục.
 - [Trường Tạp](/society/雜學校) — Lễ hội giáo dục thay thế phát triển sau vận động 318, là hiện trường cụ thể của tưởng tượng ngoài thể chế bên cạnh chủ nghĩa thi cử.
 - [Sự mở rộng và rút lui của giáo dục đại học Đài Loan](/society/台灣高等教育擴張與退場) — Mở rộng thiết lập đại học muốn nới lỏng cánh cửa thi cử hẹp, hậu quả sau 30 năm: làn sóng thăng cấp, giảm giá trị bằng cấp và hóa đơn rút lui.

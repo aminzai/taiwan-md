@@ -71,8 +71,8 @@ Quá trình chuyển đổi bản sắc để lại những dấu ấn kỳ lạ
 ## Đọc thêm
 
 - [Các dân tộc (người Hoa, người đồng bằng, người nguyên thủy ngoại tỉnh mới)](/culture/族群（閩南客家原住民外省新住民）) — Hiểu rõ hơn về cách tương tác giữa các dân tộc trong bối cảnh lớn hơn.
-- [Lịch sử khu dân cư Đài Loan](/history/台灣眷村歷史) — Bổ sung về không gian sinh sống, mạng lưới xã hội và trí nhớ văn hóa sau khi di cư.
-- [Thảm họa trắng Đài Loan](/history/台灣白色恐怖) — Kết nối trải nghiệm của các dân tộc ngoại tỉnh trong hành chính ác tính và các vụ án chính trị.
+- [Lịch sử khu dân cư Đài Loan](/vi/history/taiwan-military-dependents-villages-history) — Bổ sung về không gian sinh sống, mạng lưới xã hội và trí nhớ văn hóa sau khi di cư.
+- [Thảm họa trắng Đài Loan](/vi/history/taiwan-white-terror) — Kết nối trải nghiệm của các dân tộc ngoại tỉnh trong hành chính ác tính và các vụ án chính trị.
 
 ## Tham khảo
 

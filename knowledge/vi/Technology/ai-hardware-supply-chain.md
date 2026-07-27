@@ -173,9 +173,9 @@ Con đường này là bằng chứng cụ thể. Nó biến "lợi ích chung" 
 
 - [Ngoại thương Đài Loan và Chuỗi cung cấp Toàn cầu](/economy/台灣外貿與全球供應鏈) — Bối cảnh vĩ mô từ hướng xuất khẩu, thương mại tam giác đến tái cấu trúc chuỗi cung cấp Mỹ-Trung.
 - [NVIDIA tại Đài Loan](/technology/NVIDIA在台灣) — Cách NVIDIA gửi gắm sâu sắc sản xuất chip, đóng gói và lắp ráp máy chủ tại Đài Loan.
-- [Ngành công nghiệp Bán dẫn](/technology/半導體產業) — Bối cảnh dài hạn từ chuyển giao công nghệ RCA, gia công TSMC đến chiến trường vật liệu và đóng gói.
-- [Computex](/technology/Computex) — Tại sao Triển lãm Máy tính Đài Bắc trở thành thánh địa cung cấp phần cứng toàn cầu trong thời đại AI.
-- [Điện và Bán dẫn của Đài Loan](/technology/台灣的電力與半導體) — Hóa đơn điện phía sau chuỗi cung cấp AI, áp lực điện xanh và an ninh năng lượng.
+- [Ngành công nghiệp Bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Bối cảnh dài hạn từ chuyển giao công nghệ RCA, gia công TSMC đến chiến trường vật liệu và đóng gói.
+- [Computex](/vi/technology/computex) — Tại sao Triển lãm Máy tính Đài Bắc trở thành thánh địa cung cấp phần cứng toàn cầu trong thời đại AI.
+- [Điện và Bán dẫn của Đài Loan](/vi/technology/taiwan-electricity-and-semiconductors) — Hóa đơn điện phía sau chuỗi cung cấp AI, áp lực điện xanh và an ninh năng lượng.
 - [Nước và Tài nguyên Nước của Đài Loan trong Bán dẫn](/technology/半導體用水與台灣水資源) — Nhà máy wafer kết nối đến hồ chứa, hạn hán, nước tái chế và quản lý địa phương như thế nào.
 - [Chuỗi cung cấp AI xây nhà máy ở nước ngoài](/technology/AI供應鏈海外設廠) — Từ TSMC, Foxconn, Wistron đến Delta, chuỗi cung cấp Đài Loan được thế giới mời ra ngoài như thế nào.
 

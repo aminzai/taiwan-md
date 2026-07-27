@@ -121,7 +121,7 @@ Từ cậu bé e ngại biểu diễn đàn piano năm 1997, đến ngôi vua â
 
 **Bạn cũng có thể thích:**
 
-- [Hồng Vân Lâm](/people/周子瑜) — Tên người nổi tiếng ở Đài Loan có lượt theo dõi Instagram thứ hai, chỉ sau Triệu Nhất Luyện
+- [Hồng Vân Lâm](/vi/people/tzuyu) — Tên người nổi tiếng ở Đài Loan có lượt theo dõi Instagram thứ hai, chỉ sau Triệu Nhất Luyện
 - [Âm nhạc pop ngôn ngữ Trung Hoa](/music/台灣流行音樂) — Hệ sinh thái ngành công nghiệp và xu thế thế hệ mà Triệu Nhất Luyện thuộc về
 - [Hồng Thị Dung](/people/孫燕姿/) — Cùng lúc vào sân chơi Giải thưởng vàng lần thứ 12, định vị hai con đường âm nhạc song song trong thập niên 2000
 - [Jên Tấn Nhi](/people/賈永婕) — Một con đường khác của người Đài Loan chuyển hóa vai trò nghệ sĩ thành ảnh hưởng đa lĩnh vực (giao dịch → thương hiệu cưới hôn → tập trung công chúng → quản lý công cộng), tương phản với con đường sản phẩm văn hóa của Triệu Nhất Luyện

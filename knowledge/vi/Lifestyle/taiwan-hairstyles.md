@@ -119,8 +119,8 @@ Loại hình không gian cắt tóc bản thân chính là một hình thu nhỏ
 
 ## Đọc thêm
 
-- [Văn hóa xe máy Đài Loan](/lifestyle/台灣機車文化) — Đầu A-chí phối áo bó sát và B lớn (Yamaha BWS), là bộ ba kinh điển đường phố Đài Loan
-- [Văn hóa tiện lợi店 Đài Loan](/lifestyle/台灣便利商店文化) — Logic chọn vị trí cắt tóc nhanh trăm đồng cùng脈络 với mật độ tiện lợi店
+- [Văn hóa xe máy Đài Loan](/vi/lifestyle/taiwan-scooter-culture) — Đầu A-chí phối áo bó sát và B lớn (Yamaha BWS), là bộ ba kinh điển đường phố Đài Loan
+- [Văn hóa tiện lợi店 Đài Loan](/vi/lifestyle/convenience-store-culture) — Logic chọn vị trí cắt tóc nhanh trăm đồng cùng脈络 với mật độ tiện lợi店
 
 ## Tài liệu tham khảo
 

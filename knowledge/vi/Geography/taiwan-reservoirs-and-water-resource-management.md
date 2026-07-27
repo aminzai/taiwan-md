@@ -245,6 +245,6 @@ Nước là nguồn sống, đồng thời là nền tảng của sự phát tri
 
 Đọc thêm:
 
-- [Hệ thống sông ngòi và đặc điểm thủy văn của Đài Loan](/geography/台灣河川系統與水文特色)
+- [Hệ thống sông ngòi và đặc điểm thủy văn của Đài Loan](/vi/geography/taiwan-river-systems-and-hydrology)
 - [Biến đổi khí hậu](/geography/氣候)
 - [Hoạt động động đất và chuyển động lớp đá của Đài Loan](/geography/台灣板塊運動與地震活動)

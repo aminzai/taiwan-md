@@ -74,7 +74,7 @@ Vào tháng 3 đến tháng 4 năm 2026, Ba Jeng tiếp tục hành động "t�
 **Đọc thêm**:
 
 - [Trần Bảo Nguyên](/people/沈伯洋) — Cùng bị Đảng Cộng sản Trung Quốc tấn công là chính sử khu vực Trần Bảo Nguyên cũng là người sáng lập chung đồng của Black Bear Academy, năm 2025 trở thành người chính trị được bầu cử đầu tiên bị tố cáo vì hành vi chia rẽ quốc gia bởi Trung Quốc
-- [Chiến lược thống nhất](/society/認知作戰) — Khung hoạt động của chiến lược thống nhất đối với Đài Loan do Đảng Cộng sản Trung Quốc triển khai, Ba Jeng đã trở thành công cụ phản cách phổ biến bằng cách sử dụng hài hước
+- [Chiến lược thống nhất](/vi/society/cognitive-warfare-against-taiwan) — Khung hoạt động của chiến lược thống nhất đối với Đài Loan do Đảng Cộng sản Trung Quốc triển khai, Ba Jeng đã trở thành công cụ phản cách phổ biến bằng cách sử dụng hài hước
 - [Trần Bảo Đức](/people/賴清德) — Cùng xuất hiện trong danh sách "hành vi cố gắng chia rẽ quốc gia" của Đảng Cộng sản Trung Quốc là tổng thống Đài Loan
 
 ---

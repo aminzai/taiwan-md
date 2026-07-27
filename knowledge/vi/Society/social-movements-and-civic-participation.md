@@ -296,7 +296,7 @@ Trong tương lai, phong trào xã hội Đài Loan đối mặt với các thá
 - [The Reporter: Mười năm cứu điều tra báo chí từ mục tiêu kinh doanh thành tài sản công](/society/報導者) — Từ năm 2015, xã hội dân sự Đài Loan đã sử dụng phương thức khấu trừ hàng tháng từ người lạ để cứu điều tra báo chí từ mục tiêu kinh doanh của truyền thông thương mại thành tài sản công
 - [justfont và sự phát triển phông chữ Đài Loan: Tiểu sử phông chữ từ 25 năm của Hualong đến 76 phút của Jinxuan](/technology/justfont與台灣字體發展) — Case study khác về việc gây quỹ cộng đồng viết lại nhận thức văn hóa trong cùng năm, mở rộng câu chuyện xã hội dân sự từ góc độ cơ sở hạ tầng phông chữ
 - [Cáp ngầm dưới đáy biển: Khiên silic có thể thấy từ trên cao, mạng sống không thể thấy từ dưới đáy](/technology/海底電纜) — Lập pháp luật Cáp ngầm bảy điều, nền tảng phòng thủ liên huyện Pingtung, case study tư pháp đầu tiên của Hongtai 58 hiển thị trục lập pháp cơ sở hạ tầng an ninh quốc gia do áp lực xã hội dân sự thúc đẩy
-- [Đại bãi miễn](/history/大罷免) — Từ chim xanh đến nhóm bãi miễn, hình ảnh vận động thế hệ và dịch chuyển thể chế hóa năng lượng đường phố của đợt sóng bãi miễn lớn nhất lịch sử năm 2025
+- [Đại bãi miễn](/vi/history/great-recall-movement-2024) — Từ chim xanh đến nhóm bãi miễn, hình ảnh vận động thế hệ và dịch chuyển thể chế hóa năng lượng đường phố của đợt sóng bãi miễn lớn nhất lịch sử năm 2025
 
 [^1]: Hà Minh Tu, "Tài liệu lịch sử Phong trào Dân chủ Hoa Bách Hợp", trong 《Thế hệ vận động: Từ Hoa Bách Hợp đến Hoa hướng dương》, https://www.books.com.tw/products/0010642379
 

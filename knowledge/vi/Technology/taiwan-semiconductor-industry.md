@@ -260,16 +260,16 @@ TSMC khẳng định thế mạnh của mình dựa trên 50 năm kinh nghiệm 
 
 **Đọc thêm**:
 
-- [Doanh nghiệp Đài Loan: TSMC](/economy/台灣企業：台積電) — Quản trị công ty, cấu trúc tài chính, quy mô đầu tư của TSMC
-- [Doanh nghiệp Đài Loan: MediaTek](/economy/台灣企業：聯發科技) — Nhà thiết kế IC đứng thứ ba thế giới làm việc với chip điện thoại, tính toán ranh giới AI
+- [Doanh nghiệp Đài Loan: TSMC](/vi/economy/tsmc) — Quản trị công ty, cấu trúc tài chính, quy mô đầu tư của TSMC
+- [Doanh nghiệp Đài Loan: MediaTek](/vi/economy/mediatek) — Nhà thiết kế IC đứng thứ ba thế giới làm việc với chip điện thoại, tính toán ranh giới AI
 - [Doanh nghiệp Đài Loan: Foxconn](/economy/台灣企業：日月光半導體) — Nhà bao bọc và kiểm tra đứng đầu thế giới, hệ sinh thái phần sau của CoWoS
-- [Người xây dựng: Cược đoàn kết của thế kỷ](/art/造山者世紀的賭注) — Phim tài liệu 2025 của Xiao Jiuzhen, 5 năm phỏng vấn 80+ kỹ sư bán dẫn, 2026 đi vào các trường đại học Paraguay, Guatemala, và Michigan để xem các kế hoạch đầu tư CHIPS Act
+- [Người xây dựng: Cược đoàn kết của thế kỷ](/vi/art/mountain-makers-tsmc-documentary) — Phim tài liệu 2025 của Xiao Jiuzhen, 5 năm phỏng vấn 80+ kỹ sư bán dẫn, 2026 đi vào các trường đại học Paraguay, Guatemala, và Michigan để xem các kế hoạch đầu tư CHIPS Act
 - [Wu Da-You](/people/吳大猷) — Vào những năm 1980, đồng thời làm trưởng khoa của Trung tâm Nghiên cứu quốc gia, kiên trì với nền tảng khoa học, xây dựng hệ thống nghiên cứu Đài Loan
 - [Ngành robot Đài Loan](/technology/台灣機器人產業) — Hòn đảo đầu tiên có công nghệ bán dẫn, tại sao lại là "học sinh bổ sung" trong thời kỷ nguyên robot? Xem xét từ NCAIR
 - [Thị trường chứng khoán và tài chính Đài Loan](/economy/台灣股市與資本市場) — Cách các nhà đầu tư thể hiện chuỗi cung ứng bán dẫn của Đài Loan thành các khoản đầu tư
 - [Chuỗi cung ứng kẽm của Đài Loan](/technology/台灣鎢供應鏈) — Kẽm fluoride đổền cửa sổ và các ký tự 3D NAND, Đài Loan không có kẽm nhưng vẫn có các trạm tái chế
-- [Trường học trí tuệ nhân tạo của Đài Loan](/technology/台灣人工智慧學校) — Các kỹ sư AI được đào tạo trong 8 năm quay lại chuỗi cung ứng ICT hiện có của ngành bán dẫn, bổ sung phía mềm của ngành bán dẫn
-- [Computex: Hai quốc gia bán hàng thông minh đã thu hút hai, còn một còn lại dài lên ở Đài Loan](/technology/Computex) — Bao bọc CoWoS và công nghệ tiên tiến của TSMC, mỗi năm cuối tháng 5 đều giao nhau với các đối thủ AI toàn cầu tại hội chợ điện tử Đài Loan 45 tuổi
+- [Trường học trí tuệ nhân tạo của Đài Loan](/vi/technology/taiwan-ai-academy) — Các kỹ sư AI được đào tạo trong 8 năm quay lại chuỗi cung ứng ICT hiện có của ngành bán dẫn, bổ sung phía mềm của ngành bán dẫn
+- [Computex: Hai quốc gia bán hàng thông minh đã thu hút hai, còn một còn lại dài lên ở Đài Loan](/vi/technology/computex) — Bao bọc CoWoS và công nghệ tiên tiến của TSMC, mỗi năm cuối tháng 5 đều giao nhau với các đối thủ AI toàn cầu tại hội chợ điện tử Đài Loan 45 tuổi
 - [Khu khoa học Đài Loan](/technology/科技園區發展) — Ba khu khoa học Hsinchu, Southern Science Park, và Central Science Park, là vật thể vật lý của khu đô thị bán dẫn, cũng là trung tâm địa lý của TSMC
 
 ## Nguồn ảnh

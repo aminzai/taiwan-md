@@ -172,16 +172,16 @@ Từ thư tuyệt mệnh đến Viện trưởng Giám sát viện, 41 năm. Đ�
 **Đọc thêm**:
 
 - [Sự kiện 228](/history/二二八事件) — Chấn thương năm 1947 đã trở thành điểm xuất xứ ý thức dân chủ Đài Loan như thế nào
-- [Bạch sắc khủng bố Đài Loan](/history/台灣白色恐怖) — Toàn cảnh các vụ án chính trị và vi phạm nhân quyền trong 38 năm giới nghiêm
-- [Thời kỳ giới nghiêm](/history/戒嚴時期) — Cơ sở pháp lý của lệnh giới nghiêm dài nhất thế giới và cơ chế kiểm soát xã hội
+- [Bạch sắc khủng bố Đài Loan](/vi/history/taiwan-white-terror) — Toàn cảnh các vụ án chính trị và vi phạm nhân quyền trong 38 năm giới nghiêm
+- [Thời kỳ giới nghiêm](/vi/history/martial-law-era) — Cơ sở pháp lý của lệnh giới nghiêm dài nhất thế giới và cơ chế kiểm soát xã hội
 - [Sự kiện Đảo Đẹp](/history/美麗島事件) — Diễn biến đầy đủ và ảnh hưởng lịch sử của sự kiện Cao Hùng 1979
 - [Bầu cử và chính trị đảng phái Đài Loan](/history/台灣選舉與政黨政治) — Sự tiến hóa của hệ thống bầu cử từ Quốc hội vạn niên đến bốn lần luân phiên đảng phái
 - [Nghị quyết tiền đồ Đài Loan](/history/臺灣前途決議文) — Năm 1999, Đảng Dân chủ Tiến bộ hoàn thành chuyển đổi lộ trình bằng một văn bản đầy mơ hồ, mở cửa cho lần luân phiên đảng phái đầu tiên năm 2000
 - [Công lý chuyển đổi Đài Loan](/history/台灣轉型正義) — Sau dân chủ hóa, xã hội đối mặt với chấn thương lịch sử thời độc tài như thế nào
-- [Đại bãi miễn](/history/大罷免) — Sóng bãi miễn lớn nhất lịch sử với 33 vụ bỏ phiếu đều không qua năm 2025, đo lường giới hạn và chi phí của công cụ dân quyền trực tiếp sau chuyển đổi dân chủ
+- [Đại bãi miễn](/vi/history/great-recall-movement-2024) — Sóng bãi miễn lớn nhất lịch sử với 33 vụ bỏ phiếu đều không qua năm 2025, đo lường giới hạn và chi phí của công cụ dân quyền trực tiếp sau chuyển đổi dân chủ
 - [Phong trào Hoa hướng dương](/society/太陽花學運) — Biên niên sử đầy đủ của cuộc chiếm đóng Lập pháp viện 2014, từ 30 giây đột nhập đến giải tỏa kinh tế khỏi Trung Quốc 12 năm sau
 - [Hội nghị Trịnh-Tập 2026: 10 phút gặp lại của lãnh đạo Quốc-Cộng sau 10 năm](/society/2026鄭習會與國共十年再會) — Tại sao AIT nhấn mạnh "đối thoại với tầng lớp lãnh đạo dân cử"? Nền tảng của nguyên tắc này nằm ở lịch sử dân chủ hóa này
-- [Châu Tử Ngự](/people/周子瑜) — Video xin lỗi 90 giây đêm trước bầu cử 2016 là nét nặng nề nhất của lần luân phiên đảng phái thứ ba của Đài Loan
+- [Châu Tử Ngự](/vi/people/tzuyu) — Video xin lỗi 90 giây đêm trước bầu cử 2016 là nét nặng nề nhất của lần luân phiên đảng phái thứ ba của Đài Loan
 
 ## Tài liệu tham khảo
 

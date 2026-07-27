@@ -126,8 +126,8 @@ Vào ngày 12 tháng 2025, LINE Bank công bố lợi nhuận trong tháng đầ
 
 **Đọc thêm**:
 
-- [Ngành trường sinh học](/technology/半導體產業) — Ngành công nghiệp khác của Đài Loan, bắt đầu từ chính sách hỗ trợ, cuối cùng thay đổi bối cảnh toàn cầu
-- [Hệ sinh thái khởi nghiệp mới](/economy/新創生態系) — Bối cảnh tổng thể của phòng công ty khởi nghiệp tại Đài Loan nơi Chiẹúc Thanh toán hoạt động
+- [Ngành trường sinh học](/vi/technology/taiwan-semiconductor-industry) — Ngành công nghiệp khác của Đài Loan, bắt đầu từ chính sách hỗ trợ, cuối cùng thay đổi bối cảnh toàn cầu
+- [Hệ sinh thái khởi nghiệp mới](/vi/economy/taiwan-startup-ecosystem-overview) — Bối cảnh tổng thể của phòng công ty khởi nghiệp tại Đài Loan nơi Chiẹúc Thanh toán hoạt động
 - [Hệ sinh thái thương mại điện tử và thanh toán](/technology/電子商務與數位支付生態系) — Cơ sở hạ tầng nền tảng của thanh toán di động
 - [Thị trường chứng khoán và tài chính Đài Loan](/economy/台灣股市與資本市場) — Từ điện thoại ốc đảo đến đặt hàng định kỳ trên điện thoại, cơ sở hạ tầng tài chính và sự phát triển của thị trường vốn
 

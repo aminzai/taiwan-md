@@ -142,7 +142,7 @@ Bảy năm là rất ngắn, hạt giống lại rải ra 30 năm. Lần sau khi
 **Đọc thêm**:
 
 - [Nghệ thuật hiện đại Đài Loan](/art/當代藝術) — Bối cảnh tổng thể phát triển của nghệ thuật hiện đại Đài Loan sau khi giải phóng, sinh mới là một điểm đại diện tiêu biểu miền Nam
-- [Người dàn biếm và xây dựng văn hóa nghệ thuật Đài Loan](/art/台灣策展人與藝術文化建構) — Quá trình địa phương hóa của khái niệm dàn biếm thập niên 1990, Zheng Minh Quân là một ví dụ
+- [Người dàn biếm và xây dựng văn hóa nghệ thuật Đài Loan](/vi/art/taiwanese-curators-and-artistic-cultural-construction) — Quá trình địa phương hóa của khái niệm dàn biếm thập niên 1990, Zheng Minh Quân là một ví dụ
 - [Nghệ thuật truyền thông mới Đài Loan](/art/台灣新媒體藝術) — Trường hợp song song của Huang Wenghao từ IT Park kéo dài đến "Thí nghiệm địa phương" (ETAT) năm 1995
 
 ## Nguồn ảnh

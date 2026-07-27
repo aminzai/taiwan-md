@@ -123,7 +123,7 @@ Khoảnh khắc ấy dĩ nhiên không biết mình đang làm gì. Những sự
 
 - [Tổng quan ẩm thực Đài Loan](/food/台灣美食總覽) — Bản đồ toàn cảnh từ ẩm thực của các dân tộc bản địa đến Michelin: vị trí của trà sữa trân châu trong khẩu vị giao thoa suốt bốn trăm năm
 - [Văn hóa đồ uống pha chế thủ công Đài Loan](/food/台灣手搖飲文化) — Lịch sử mở rộng của các thương hiệu như 50 Lan, Gong Cha và CoCo đến hơn 40 quốc gia trên toàn cầu
-- [Văn hóa trà](/food/茶文化) — Huyền thoại về chất lượng trà Đài Loan, từ trà ô long của John Dodd năm 1865 đến trà cao sơn ngày nay
+- [Văn hóa trà](/vi/food/golden-age-echoes-taiwan-tea-culture) — Huyền thoại về chất lượng trà Đài Loan, từ trà ô long của John Dodd năm 1865 đến trà cao sơn ngày nay
 
 ## Tài liệu tham khảo
 

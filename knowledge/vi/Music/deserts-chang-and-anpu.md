@@ -170,7 +170,7 @@ Có lẽ cô con gái cũng học được điều tương tự từ cha mình. 
 ## Đọc thêm
 
 - [Âm nhạc độc lập Đài Loan](/music/台灣獨立音樂/) — bối cảnh âm nhạc độc lập mà Trương Huyền thuộc về
-- [Lịch sử phát triển nhạc rock Đài Loan](/music/台灣搖滾樂發展史/) — từ thời kỳ cấm ca khúc đến Liên hoan Âm nhạc Đại dương
+- [Lịch sử phát triển nhạc rock Đài Loan](/vi/music/taiwan-rock-from-underground-to-mainstream/) — từ thời kỳ cấm ca khúc đến Liên hoan Âm nhạc Đại dương
 - [Phong trào Sinh viên Hoa Hướng Dương](/society/太陽花學運/) — sau 30 giây đã làm thay đổi Đài Loan năm 2014
 - [Văn hóa lễ hội âm nhạc Đài Loan](/music/台灣音樂祭文化/) — từ Cống Liêu đến Lễ hội Takao Rock
 - [Dương Thừa Lâm](/people/楊丞琳) — hành trình 25 năm của một nữ ca sĩ Hoa ngữ theo một hướng khác, từ được người khác sản xuất đến tự sản xuất; một phiên bản cùng thế hệ để đối chiếu với quá trình An Phổ “từ ca sĩ thiếu nữ trở thành tác giả toàn diện”

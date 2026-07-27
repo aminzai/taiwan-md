@@ -86,9 +86,9 @@ Ngày nay bước vào chiến trường cổ Thạch Môn, thung lũng vẫn hi
 
 ## Đọc thêm
 
-- [Sự kiện tàu Rosita và Truqadi](/history/羅發號事件與卓杞篤) — Một tai nạn hàng hải khác và va chạm chủ quyền
+- [Sự kiện tàu Rosita và Truqadi](/vi/history/rover-incident-and-tauketok) — Một tai nạn hàng hải khác và va chạm chủ quyền
 - [Thời kỳ Thanh trị](/history/清治時期) — Bước ngoặt quản trị trước và sau Khai sơn phủ phiên
-- [Lý Tiên Đức](/people/李仙得) — Cố vấn người Mỹ phía sau sự kiện
+- [Lý Tiên Đức](/vi/people/charles-le-gendre) — Cố vấn người Mỹ phía sau sự kiện
 
 ## Tài liệu tham khảo
 

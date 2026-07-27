@@ -107,8 +107,8 @@ Văn hóa Thần Lợn là phản ánh của đa dạng niềm tin tại Đài L
 
 - **[Văn Hóa Hán Nhi Và Ngôn Ngữ](/culture/客家文化與語言)** — Các tìm kiếm lịch sử và niềm tin của cộng đồng Hán Nhi, đất đai của niềm tin Người Anh Hùng
 - **[Lễ Hội Và Hình Thái Tế Tác Đài Loan](/culture/台灣廟會與陣頭文化)** — Thực hành và phản ứng cộng đồng của lễ hội dân gian tại Đài Loan
-- **[Tế Tác Và Văn Hóa Đình Chùa Đài Loan](/culture/台灣宗教與寺廟文化)** — Bối cảnh niềm tin dân gian của lễ hội Thần Lợn
-- **[Lễ Nghi Truyền Thống Và Lễ Hội](/culture/傳統節慶與慶典)** — Tổng quan về lễ hội Người Anh Hùng, lễ hội âm lịch và các nghi lễ tế tác
+- **[Tế Tác Và Văn Hóa Đình Chùa Đài Loan](/vi/culture/taiwan-religion-and-temple-culture)** — Bối cảnh niềm tin dân gian của lễ hội Thần Lợn
+- **[Lễ Nghi Truyền Thống Và Lễ Hội](/vi/culture/traditional-festivals-and-celebrations)** — Tổng quan về lễ hội Người Anh Hùng, lễ hội âm lịch và các nghi lễ tế tác
 - **[Dân Tộc (Nam Tài, Hán Nhi, Người gốc nước ngoài mới nhập cư)/](/culture/族群（閩南客家原住民外省新住民）)** — Sự khác biệt và hòa hợp trong thực hành văn hóa của cộng đồng Hán Nhi
 
 ## Tài Liệu Tham Khảo

@@ -73,9 +73,9 @@ Liu Nhi Nu trong lúc đối thoại với báo chí cũng nói: "Trong quá kh�
 
 **Đọc thêm**:
 
-- [Lăng Chính Tướng Chiang Ching-kuo](/history/中正紀念堂) — Cùng là công trình kiến trúc của Dòng Trieu Thanh, cùng năm ra đời, là địa điểm trung tâm của vấn đề chính trị và chuyển đổi chính sách của Chiang Ching-kuo.
-- [Thời kỳ Kiểm duyên](/history/戒嚴時期) — Năm 1987 khi Hai Phòng Họ được xây dựng chính là năm Đài Loan giải phóng Kiểm duyên, hiểu rõ bối cảnh chính trị tại thời điểm đó sẽ giúp hiểu sâu hơn về ý nghĩa lịch sử của công trình.
-- [Hát Dầu](/culture/布袋戲) — Một hình thức nghệ thuật dân gian khác của Đài Loan, song song với Hai Phòng Họ như một địa điểm nghệ thuật tinh tế, nhưng vẫn là sân khấu dân dã truyền thống.
+- [Lăng Chính Tướng Chiang Ching-kuo](/vi/history/chiang-kai-shek-memorial-hall) — Cùng là công trình kiến trúc của Dòng Trieu Thanh, cùng năm ra đời, là địa điểm trung tâm của vấn đề chính trị và chuyển đổi chính sách của Chiang Ching-kuo.
+- [Thời kỳ Kiểm duyên](/vi/history/martial-law-era) — Năm 1987 khi Hai Phòng Họ được xây dựng chính là năm Đài Loan giải phóng Kiểm duyên, hiểu rõ bối cảnh chính trị tại thời điểm đó sẽ giúp hiểu sâu hơn về ý nghĩa lịch sử của công trình.
+- [Hát Dầu](/vi/culture/taiwanese-glove-puppetry-budaixi) — Một hình thức nghệ thuật dân gian khác của Đài Loan, song song với Hai Phòng Họ như một địa điểm nghệ thuật tinh tế, nhưng vẫn là sân khấu dân dã truyền thống.
 
 ## Tài liệu tham khảo
 

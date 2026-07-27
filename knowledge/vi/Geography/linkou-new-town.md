@@ -83,7 +83,7 @@ Nhìn về tương lai, thị trấn mới Lín khách sẽ tiếp tục thông 
 
 ## Đọc thêm
 
-- [Phát triển đô thị và khoảng cách giữa các khu vực ở Đài Loan](/geography/台灣都市發展與城鄉差距) — Hiểu rõ đường cong phát triển của thị trấn mới Lín khách từ góc độ kế hoạch khu vực.
+- [Phát triển đô thị và khoảng cách giữa các khu vực ở Đài Loan](/vi/geography/taiwan-urban-development-and-rural-urban-divide) — Hiểu rõ đường cong phát triển của thị trấn mới Lín khách từ góc độ kế hoạch khu vực.
 - [Khu vực đặc biệt Bắc đại](/geography/北大特區) — So sánh với một khu vực dự trữ mới nổi khác được thúc đẩy bởi giao thông, khu vực học và thị trường bất động sản.
 - [Hệ thống giao thông ở Đài Loan](/lifestyle/台灣交通系統) — Đọc thêm về cách các công trình như đường sắt đường sắt sân bay, đường cao tốc và giao thông đô thị hình thành các khu vực dự trữ mới.
 

@@ -261,7 +261,7 @@ Trong làn sóng toàn cầu hóa, văn hóa cửa hàng tiện lợi Đài Loan
 
 **Đọc thêm**:
 
-- [Cảm thức Đài Loan: Phải chăng chúng ta cần người Hàn Quốc nhấn thích trước rồi mới dám nói những ngôi nhà cũ của mình rất đẹp?](/culture/台灣感性) — Những cửa hàng tiện lợi sáng đèn lúc đêm khuya cũng là một trong những cảnh tượng thường nhật mà người Đài Loan đã quá quen thuộc nên hiếm khi quan sát kỹ
+- [Cảm thức Đài Loan: Phải chăng chúng ta cần người Hàn Quốc nhấn thích trước rồi mới dám nói những ngôi nhà cũ của mình rất đẹp?](/vi/culture/taiwanese-sensibility) — Những cửa hàng tiện lợi sáng đèn lúc đêm khuya cũng là một trong những cảnh tượng thường nhật mà người Đài Loan đã quá quen thuộc nên hiếm khi quan sát kỹ
 - [Hóa đơn: Tờ giấy năm 1951 đã biến toàn dân thành thanh tra thuế](/economy/發票) — Cửa hàng tiện lợi là nơi phương tiện lưu trữ hóa đơn điện tử được sử dụng thường xuyên nhất; mỗi lần thanh toán cũng là chặng cuối của hoạt động huy động người dân tham gia quản lý thuế hằng ngày
 - [Doanh nghiệp Đài Loan: Tập đoàn Uni-President](/economy/台灣企業：統一企業) — Tập đoàn Uni-President đứng sau 7-ELEVEN đã phát triển từ một gói mì Uni-President thành đế chế bán lẻ bao trọn một ngày trong đời sống người Đài Loan
 

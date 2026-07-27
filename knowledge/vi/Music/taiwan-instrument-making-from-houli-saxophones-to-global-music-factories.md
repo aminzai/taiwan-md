@@ -200,9 +200,9 @@ Lần sau nghe saxophone, kèn hơi đội trường học, hộp nhạc quay, h
 
 ## Đọc thêm
 
-- [Doanh nghiệp vừa và nhỏ Đài Loan và nhà vô địch ẩn danh](/economy/台灣中小企業與隱形冠軍) — Cụm sư đồ ngành nhạc cụ và đôi đường thương hiệu giáo dục, là xương sống biết phát ra âm thanh khác của narrative nhà vô địch ẩn danh
-- [Đài Trung](/geography/台中市) — Saxophone Houli, hộp nhạc Wufeng, dây trống Tanzi, cùng thành phố khác lý tính công nghiệp
-- [Cao Hùng](/geography/高雄市) — Vương quốc guitar khu gia công Nam Tử và neo địa lý ký ức đóng cửa
+- [Doanh nghiệp vừa và nhỏ Đài Loan và nhà vô địch ẩn danh](/vi/economy/taiwan-smes-and-hidden-champions) — Cụm sư đồ ngành nhạc cụ và đôi đường thương hiệu giáo dục, là xương sống biết phát ra âm thanh khác của narrative nhà vô địch ẩn danh
+- [Đài Trung](/vi/geography/taichung-city) — Saxophone Houli, hộp nhạc Wufeng, dây trống Tanzi, cùng thành phố khác lý tính công nghiệp
+- [Cao Hùng](/vi/geography/kaohsiung-city) — Vương quốc guitar khu gia công Nam Tử và neo địa lý ký ức đóng cửa
 - [Nhạc Quốc Đài Loan](/music/台灣國樂) — Thịnh suy nhà máy nhạc khí Quốc Nhạc và dây sản xuất nhạc cụ khác sau khi mở cửa hai bờ (bài này chỉ dải mỏng)
 - [Ngành công nghiệp âm nhạc Đài Loan và thời đại streaming](/music/台灣音樂產業與串流時代) — So sánh cấu trúc ngành từ đầu sản xuất đến nội dung và bản quyền
 

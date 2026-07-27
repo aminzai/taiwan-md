@@ -134,16 +134,16 @@ Nếu vào năm 2050 có người muốn biết dân chúng Đài Loan năm 1987
 
 - [Phòng hút thuốc ở Đài Bắc: chiếc hộp kính biết thở giữa thành phố không khói thuốc](/society/台北吸菸室) — Thời kỳ thuốc lá Trường Thọ chiếm 70% thị phần và Cục Độc quyền Nhà nước nắm độc quyền rượu, thuốc lá chính là điểm khởi đầu của hành trình dài hướng tới cấm hút thuốc
 
-- [Chuyển đổi dân chủ tại Đài Loan](/history/台灣民主轉型) — Toàn cảnh 40 năm chuyển đổi từ thiết quân luật tới một trong những thể chế tự do, dân chủ nhất châu Á
-- [Khủng bố Trắng tại Đài Loan](/history/台灣白色恐怖) — Cái giá thực sự của 38 năm thiết quân luật: các vụ án chính trị, những nạn nhân và chế độ “bảo lãnh liên đới”
+- [Chuyển đổi dân chủ tại Đài Loan](/vi/history/taiwan-democratization) — Toàn cảnh 40 năm chuyển đổi từ thiết quân luật tới một trong những thể chế tự do, dân chủ nhất châu Á
+- [Khủng bố Trắng tại Đài Loan](/vi/history/taiwan-white-terror) — Cái giá thực sự của 38 năm thiết quân luật: các vụ án chính trị, những nạn nhân và chế độ “bảo lãnh liên đới”
 - [Sự kiện Mỹ Lệ Đảo](/history/美麗島事件) — Bước ngoặt quan trọng vào giai đoạn cuối của thời kỳ thiết quân luật năm 1979
-- [Dân chủ hóa](/history/民主化) — Hành trình tiến tới dân chủ của Đài Loan sau khi dỡ bỏ thiết quân luật
+- [Dân chủ hóa](/vi/history/taiwan-democratization-history) — Hành trình tiến tới dân chủ của Đài Loan sau khi dỡ bỏ thiết quân luật
 - [Sự kiện ngày 28 tháng 2](/history/二二八事件) — Bước ngoặt lịch sử năm 1947 ngay trước thời kỳ thiết quân luật
 - [Công lý chuyển tiếp tại Đài Loan](/history/台灣轉型正義) — Điều tra sự thật và truy cứu trách nhiệm người gây hại sau khi dỡ bỏ thiết quân luật
 - [Bảo tàng Nhân quyền Quốc gia](/history/國家人權博物館) — Bảo tàng do nhà nước xây dựng để tưởng niệm các nạn nhân thời kỳ thiết quân luật, khánh thành năm 2018 và từng bị đóng băng ngân sách vào năm 2025
 - [Đặng Lệ Quân](/people/鄧麗君) — Người con gái của một gia đình quân nhân ngoại tỉnh trưởng thành trong thời kỳ thiết quân luật, cả đời đứng ở tuyến đầu Chiến tranh Lạnh: từ biểu diễn phục vụ quân đội tại Kim Môn đến khoảnh khắc đeo tấm biển “Phản đối quân quản” ở Happy Valley năm 1989
-- [Nhà hát và Phòng hòa nhạc Quốc gia](/culture/兩廳院) — Hoàn thành năm 1987, cùng năm thiết quân luật được dỡ bỏ; khởi đầu bằng ngôn ngữ kiến trúc uy quyền và trở thành hình ảnh thu nhỏ chứng kiến quá trình dân chủ hóa không gian văn hóa Đài Loan
-- [Ân Hải Quang](/people/殷海光) — Học giả tự do chủ nghĩa tiêu biểu nhất trong thời kỳ thiết quân luật; bị quản thúc tại gia sau vụ Lôi Chấn năm 1960, tác phẩm “Triển vọng của văn hóa Trung Quốc” bị cấm năm 1966
+- [Nhà hát và Phòng hòa nhạc Quốc gia](/vi/culture/national-theater-and-concert-hall) — Hoàn thành năm 1987, cùng năm thiết quân luật được dỡ bỏ; khởi đầu bằng ngôn ngữ kiến trúc uy quyền và trở thành hình ảnh thu nhỏ chứng kiến quá trình dân chủ hóa không gian văn hóa Đài Loan
+- [Ân Hải Quang](/vi/people/yin-haiguang-liberalism-philosopher) — Học giả tự do chủ nghĩa tiêu biểu nhất trong thời kỳ thiết quân luật; bị quản thúc tại gia sau vụ Lôi Chấn năm 1960, tác phẩm “Triển vọng của văn hóa Trung Quốc” bị cấm năm 1966
 - [Đường cao tốc](/lifestyle/高速公路) — Vì sao cái giá của việc trưng thu đất đai dưới chế độ uy quyền “đến tên tuổi cũng không được lưu lại”? Câu trả lời nằm trong bài viết này: khi kiểm chứng những giai thoại về 50 năm đường quốc gia Đài Loan, điều liên tục hiện ra chính là khoảng trống thể chế của thời kỳ thiết quân luật, khi không có điều trần và cũng không có tố tụng hành chính
 
 ---

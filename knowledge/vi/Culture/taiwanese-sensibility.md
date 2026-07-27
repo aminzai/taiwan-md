@@ -46,7 +46,7 @@ Tân Vĩnh Thắng và Dương Triều Cảnh quen nhau tại Liên hoan Nghệ 
 
 Một, hai nghìn bức. Trong những lần thuật lại về sau, con số này âm thầm biến dạng: “bức” biến thành “loại”, “ảnh chụp” biến thành “hoa văn”, để rồi trong dân gian bắt đầu lưu truyền rằng “Lão Ốc Nhan đã chụp được hai nghìn loại hoa văn cửa sắt chỉ trong nửa năm”. Khác biệt nghe qua có vẻ nhỏ, nhưng thực ra không hề nhỏ: một, hai nghìn “bức ảnh” là thành quả điền dã mà hai người mang máy ảnh đi khắp nơi thực hiện; còn “hai nghìn loại hoa văn” lại là một số liệu thống kê nghe rất chính xác nhưng chưa từng được ai kiểm đếm. Ngay cả cách chúng ta ghi chép văn hóa của chính mình cũng có thể dần mọc thêm một phiên bản chưa ai kiểm chứng trong quá trình truyền miệng. Đây là chi tiết báo trước đầu tiên của bài viết.
 
-Nguồn gốc của hoa sắt cửa sổ cũng dễ bị kể sai như vậy. Đây không phải đặc sản Đài Loan chỉ xuất hiện vào thập niên 1960. Ngay từ thập niên 1920, cửa sắt đã theo [kiến trúc hiện đại phương Tây](/art/台灣建築) du nhập vào Đài Loan và trở nên phổ biến do nhu cầu chống trộm của nhà ở thời kỳ đầu; phải đến giai đoạn kinh tế cất cánh trong thập niên 1950 và 1960, chúng mới trở thành trang bị tiêu chuẩn của mọi gia đình[^2]. Bằng kỹ thuật hàn, rèn và uốn thủ công, thợ rèn tạo nên cho mỗi gia đình những đường nét hình học, hoa lá, chim muông, cá và côn trùng khác nhau; không có hai khung cửa nào hoàn toàn giống nhau. Chúng vừa là song sắt chống trộm, vừa là vật cản trước lối thoát qua cửa sổ khi xảy ra hỏa hoạn. Tính hữu dụng và hiểm nguy vốn nằm trong cùng một vật.
+Nguồn gốc của hoa sắt cửa sổ cũng dễ bị kể sai như vậy. Đây không phải đặc sản Đài Loan chỉ xuất hiện vào thập niên 1960. Ngay từ thập niên 1920, cửa sắt đã theo [kiến trúc hiện đại phương Tây](/vi/art/taiwanese-architecture) du nhập vào Đài Loan và trở nên phổ biến do nhu cầu chống trộm của nhà ở thời kỳ đầu; phải đến giai đoạn kinh tế cất cánh trong thập niên 1950 và 1960, chúng mới trở thành trang bị tiêu chuẩn của mọi gia đình[^2]. Bằng kỹ thuật hàn, rèn và uốn thủ công, thợ rèn tạo nên cho mỗi gia đình những đường nét hình học, hoa lá, chim muông, cá và côn trùng khác nhau; không có hai khung cửa nào hoàn toàn giống nhau. Chúng vừa là song sắt chống trộm, vừa là vật cản trước lối thoát qua cửa sổ khi xảy ra hỏa hoạn. Tính hữu dụng và hiểm nguy vốn nằm trong cùng một vật.
 
 Còn về thời điểm chúng bắt đầu biến mất, lời kể trực tiếp cũng khác với điều thường được lưu truyền. Wikipedia và không ít bài báo viết rằng nghề này “suy tàn sau thập niên 1980”, nhưng hai nhà sáng lập Lão Ốc Nhan đã viết rất rõ: nghề thủ công “tinh xảo này nhanh chóng biến mất sau thập niên 1990”, thất thế trước inox có chi phí thấp hơn và không cần sơn bảo dưỡng[^3]. Niên đại do chính những người trực tiếp thực hiện điền dã đưa ra muộn hơn tròn mười năm so với lời thuật lại từ nguồn thứ cấp.
 
@@ -133,7 +133,7 @@ _Xe hoa điện tử tại lễ hội ban đêm của cung Triều Thiên, Bắc
 
 Đài Loan thực ra đã từng trải qua vấn đề “có cần người ngoài đóng dấu chứng nhận trước hay không”—trong rạp chiếu phim.
 
-[Điện ảnh Làn sóng mới Đài Loan](/art/台灣電影) thường được nhớ như một câu chuyện bi thương “không ăn khách ở quê nhà, chỉ được quốc tế công nhận”, nhưng sự thật phức tạp hơn. Phong trào này thường được công nhận là khởi đầu từ bộ phim “In Our Time” năm 1982[^19], nhưng chỉ vài năm sau đã gặp thất bại nặng nề: phim “Taipei Story” của Dương Đức Xương ra mắt năm 1985 nhưng bị rút khỏi rạp chỉ sau bốn ngày[^20]. Cuối năm ấy, các phim Làn sóng mới liên tiếp thất bại về doanh thu, thậm chí bị phe phản đối gọi là “thuốc độc phòng vé”, chế giễu những đạo diễn ngoài ba mươi tuổi chỉ biết “nhìn vào rốn mình mà làm phim”[^21].
+[Điện ảnh Làn sóng mới Đài Loan](/vi/art/taiwanese-cinema) thường được nhớ như một câu chuyện bi thương “không ăn khách ở quê nhà, chỉ được quốc tế công nhận”, nhưng sự thật phức tạp hơn. Phong trào này thường được công nhận là khởi đầu từ bộ phim “In Our Time” năm 1982[^19], nhưng chỉ vài năm sau đã gặp thất bại nặng nề: phim “Taipei Story” của Dương Đức Xương ra mắt năm 1985 nhưng bị rút khỏi rạp chỉ sau bốn ngày[^20]. Cuối năm ấy, các phim Làn sóng mới liên tiếp thất bại về doanh thu, thậm chí bị phe phản đối gọi là “thuốc độc phòng vé”, chế giễu những đạo diễn ngoài ba mươi tuổi chỉ biết “nhìn vào rốn mình mà làm phim”[^21].
 
 Bước ngoặt xảy ra năm 1989, theo một cách rất kịch tính. Tháng 9, phim “Thành phố buồn” của Hầu Hiếu Hiền (Hou Hsiao-hsien, 侯孝賢) giành Sư tử vàng tại Venice; đến tháng 10 mới công chiếu tại Đài Loan và đạt doanh thu khoảng 66 triệu Đài tệ ở Đài Bắc, trở thành một thành công thương mại lớn trong năm ấy[^22]. Lần này, sự công nhận quốc tế và đồng cảm bản địa không phải hai giai đoạn “trước” và “sau” tách biệt, mà là hai sự kiện xảy ra trong cùng một năm, gần như cùng một mùa thu.
 
@@ -203,12 +203,12 @@ Lần này, đến lượt chính chúng ta nói đúng các con số, nói tr�
 
 **Đọc thêm**:
 
-- [Kiến trúc Đài Loan](/art/台灣建築) — Đằng sau hoa sắt cửa sổ, hành lang mái vòm và đá mài, kiến trúc Đài Loan đã phát triển từng lớp như thế nào để thành diện mạo hôm nay
-- [Điện ảnh Đài Loan](/art/台灣電影) — Những cú máy dài của Hầu Hiếu Hiền, Dương Đức Xương và Thái Minh Lượng là gene thị giác sớm nhất của “cảm thức Đài Loan”
-- [Trà đạo và mỹ học đời sống Đài Loan](/culture/台灣茶道與生活美學) — Một đại diện khác của nhịp sống chậm Đài Loan, nhìn mỹ học thường nhật qua bàn trà
-- [Văn hóa cửa hàng tiện lợi Đài Loan](/lifestyle/台灣便利商店文化) — Những cửa hàng tiện lợi sáng đèn giữa đêm là một lát cắt khác của mỹ học đời thường Đài Loan
-- [Tôn giáo và văn hóa đền miếu Đài Loan](/culture/台灣宗教與寺廟文化) — Đền miếu chính là nơi đá mài và hoa sắt cửa sổ thường xuất hiện
-- [Châu Tử Du](/people/周子瑜) — Một gương mặt Đài Loan khác thường được nhớ tới trên con đường người Hàn Quốc biết đến Đài Loan
+- [Kiến trúc Đài Loan](/vi/art/taiwanese-architecture) — Đằng sau hoa sắt cửa sổ, hành lang mái vòm và đá mài, kiến trúc Đài Loan đã phát triển từng lớp như thế nào để thành diện mạo hôm nay
+- [Điện ảnh Đài Loan](/vi/art/taiwanese-cinema) — Những cú máy dài của Hầu Hiếu Hiền, Dương Đức Xương và Thái Minh Lượng là gene thị giác sớm nhất của “cảm thức Đài Loan”
+- [Trà đạo và mỹ học đời sống Đài Loan](/vi/culture/taiwan-tea-ceremony-and-aesthetic-living) — Một đại diện khác của nhịp sống chậm Đài Loan, nhìn mỹ học thường nhật qua bàn trà
+- [Văn hóa cửa hàng tiện lợi Đài Loan](/vi/lifestyle/convenience-store-culture) — Những cửa hàng tiện lợi sáng đèn giữa đêm là một lát cắt khác của mỹ học đời thường Đài Loan
+- [Tôn giáo và văn hóa đền miếu Đài Loan](/vi/culture/taiwan-religion-and-temple-culture) — Đền miếu chính là nơi đá mài và hoa sắt cửa sổ thường xuất hiện
+- [Châu Tử Du](/vi/people/tzuyu) — Một gương mặt Đài Loan khác thường được nhớ tới trên con đường người Hàn Quốc biết đến Đài Loan
 - [Tạ Đức Khánh](/art/謝德慶) — Nghệ sĩ trình diễn Đài Loan trực tiếp lấy thời gian và sinh mệnh làm tác phẩm, một phiên bản cực đoan khác của cảm thức Đài Loan
 
 ## Nguồn hình ảnh

@@ -220,10 +220,10 @@ Và hội đồng quốc gia đa nguyên của Đảng Dân chủ Quốc gia và
 **Đọc thêm**:
 
 - [Lai Thạch Đệ](/people/賴清德) — Người đưa Zhao Rongtai lên vị trí Thủ trưởng Ngành Thực hành hành chính, từ người kẻ thợ khoáng sản đến Tổng thống Đài Loan thứ 16
-- [Xiao Mei-ping](/people/蕭美琴) — Phó Tổng thống giao bút ký cho Zhao Rongtai vào ngày 20 tháng 5 năm 2024, từ đại diện Washington trở lại Taipei
+- [Xiao Mei-ping](/vi/people/hsiao-bi-khim) — Phó Tổng thống giao bút ký cho Zhao Rongtai vào ngày 20 tháng 5 năm 2024, từ đại diện Washington trở lại Taipei
 - [Zheng Li-jun](/people/鄭麗文) — Chủ tịch Đảng Dân chủ Quốc gia năm 2026, đối thủ chính trị trong việc bãi cọc 1,25 nghìn tỷ đồng
 - [Quân sự và hiện đại hóa quân sự Đài Loan](/society/台灣國防與軍事現代化) — Bối cảnh chính sách đầy đủ của "ba quả bóng hay", ngân sách đặc biệt 1,25 nghìn tỷ đồng, và lá chắn của Đài Loan
-- [Quan hệ ngoại giao và đại diện nước ngoài của Đài Loan](/society/台灣邦交國與國際外交) — Thỏa thuận thuế xuất khẩu 2026, khung ngoại giao của Trump thứ hai, là các biến số bên ngoài lớn nhất của nội ban
+- [Quan hệ ngoại giao và đại diện nước ngoài của Đài Loan](/vi/society/taiwan-diplomatic-allies-and-international-relations) — Thỏa thuận thuế xuất khẩu 2026, khung ngoại giao của Trump thứ hai, là các biến số bên ngoài lớn nhất của nội ban
 
 ## Tài liệu tham khảo
 

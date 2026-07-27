@@ -210,7 +210,7 @@ Ngọn núi Brokeback ấy chưa bao giờ bị dời đi. Người cha cả đ�
 
 **Đọc thêm**:
 
-- [Điện ảnh Đài Loan](/art/台灣電影) — Toàn cảnh từ phim tiếng Đài, chủ nghĩa hiện thực lành mạnh đến Điện ảnh Mới Đài Loan và đương đại; truyền thống mà Ang Lee kế thừa rồi đưa ra thế giới
+- [Điện ảnh Đài Loan](/vi/art/taiwanese-cinema) — Toàn cảnh từ phim tiếng Đài, chủ nghĩa hiện thực lành mạnh đến Điện ảnh Mới Đài Loan và đương đại; truyền thống mà Ang Lee kế thừa rồi đưa ra thế giới
 - [Hầu Hiếu Hiền](/people/侯孝賢) — Ngọn cờ đầu của Điện ảnh Mới Đài Loan cùng thế hệ, người chọn con đường tác giả hoàn toàn khác Ang Lee
 - [Dương Đức Xương](/people/楊德昌) — Đạo diễn dùng một thành phố để giải phẫu nỗi bất an hiện đại của Đài Loan, một đỉnh cao khác của Điện ảnh Mới Đài Loan
 - [Thái Minh Lượng](/people/蔡明亮) — Đạo diễn tác giả Đài Loan đẩy cô độc và chậm rãi đến tận cùng, đi theo con đường đối lập với hành trình Hollywood của Ang Lee

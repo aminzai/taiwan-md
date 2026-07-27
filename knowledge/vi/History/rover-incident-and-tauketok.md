@@ -137,7 +137,7 @@ Bài viết tập trung vào góc nhìn của Trường Kiết Đức, nhưng m�
 
 Các mục tiêu dưới đây bổ sung với bài viết từ các góc độ riêng:
 
-- [Li Xian de](/people/李仙得): Người lãnh sự Mỹ ký thỏa thuận với Trường Kiết Đức, sau đó chuyển sang công tác tại chính phủ Nhật Bản. Bài viết chuỗi C-1 xem cùng một sử lịch từ góc độ của Li Xian de.
+- [Li Xian de](/vi/people/charles-le-gendre): Người lãnh sự Mỹ ký thỏa thuận với Trường Kiết Đức, sau đó chuyển sang công tác tại chính phủ Nhật Bản. Bài viết chuỗi C-1 xem cùng một sử lịch từ góc độ của Li Xian de.
 - [Giai đoạn xây dựng quyền hữu](/history/清治時期): Phản hồi của người chức vụ chung chủ tỉnh Fujian-Zhejiang trong vụ sự Formosa, trong bối cảnh vấn đề ranh giới thời kỳ quyền hành Qing.
 - [Lịch sử nguyên dân tộc Đài Loan và phong trào chỉnh danh](/history/台灣原住民族歷史與正名運動): Bản sắc tính hiện đại của người Seqaru, khác biệt rõ rệt so với phân loại "người da trắng" của thời kỳ quyền hành Qing, hai câu chuyện khác nhau được kể trên cùng một địa điểm.
 

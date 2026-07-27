@@ -77,7 +77,7 @@ Tuy nhiên, với sự thay đổi của thời đại, các nhà sử học cũ
 
 ## Đọc thêm
 
-- [Ngành bán dẫn](/technology/半導體產業) — Hiểu sâu hơn về hành trình phát triển của ngành công nghệ cao do Thôn Ưn Quyết, Liệu Quốc Đình và Viện Công nghệ Công nghiệp tạo ra.
+- [Ngành bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Hiểu sâu hơn về hành trình phát triển của ngành công nghệ cao do Thôn Ưn Quyết, Liệu Quốc Đình và Viện Công nghệ Công nghiệp tạo ra.
 - [Hệ thống giao thông Đài Loan](/lifestyle/台灣交通系統) — So sánh với 10 dự án thiết kế và tư duy xây dựng hạ tầng trong môi trường chính trị bằng kỹ sư sau chiến tranh.
 
 ## Tham khảo

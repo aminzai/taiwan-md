@@ -27,7 +27,7 @@ Cải cách ruộng đất là bước đi đầu tiên. Ba giai đoạn gồm �
 
 📖 Đọc thêm: [Nông nghiệp và tái sinh nông thôn Đài Loan](/economy/台灣農業與農村再生)
 
-Chiến lược công nghiệp hóa định hướng xuất khẩu được triển khai từ thập niên 1960 là quyết sách then chốt giúp [kỳ tích kinh tế](/economy/經濟奇蹟) Đài Loan cất cánh. Chính phủ thành lập các khu chế xuất, thu hút vốn và công nghệ nước ngoài, đồng thời tận dụng nguồn lao động dồi dào với chi phí thấp để phát triển công nghiệp nhẹ. Từ dệt may, nhựa đến lắp ráp điện tử, nhãn “Made in Taiwan” bắt đầu xuất hiện tại các cửa hàng trên khắp thế giới. Đến thập niên 1970, Đài Loan đã chuyển đổi từ xã hội nông nghiệp sang xã hội công nghiệp; việc hoàn thành Mười công trình kiến thiết lớn tiếp tục đặt nền móng hạ tầng vững chắc cho phát triển kinh tế.
+Chiến lược công nghiệp hóa định hướng xuất khẩu được triển khai từ thập niên 1960 là quyết sách then chốt giúp [kỳ tích kinh tế](/vi/economy/economic-miracle) Đài Loan cất cánh. Chính phủ thành lập các khu chế xuất, thu hút vốn và công nghệ nước ngoài, đồng thời tận dụng nguồn lao động dồi dào với chi phí thấp để phát triển công nghiệp nhẹ. Từ dệt may, nhựa đến lắp ráp điện tử, nhãn “Made in Taiwan” bắt đầu xuất hiện tại các cửa hàng trên khắp thế giới. Đến thập niên 1970, Đài Loan đã chuyển đổi từ xã hội nông nghiệp sang xã hội công nghiệp; việc hoàn thành Mười công trình kiến thiết lớn tiếp tục đặt nền móng hạ tầng vững chắc cho phát triển kinh tế.
 
 Trong giai đoạn này, tốc độ tăng trưởng kinh tế bình quân của Đài Loan đạt 8,3%; thu nhập bình quân đầu người tăng vọt từ 146 USD năm 1962 lên 8.000 USD năm 1990. Tốc độ tăng trưởng chưa từng có ấy đưa Đài Loan đứng cùng Hàn Quốc, Hồng Kông và Singapore trong nhóm Bốn con rồng châu Á (亞洲四小龍), trở thành một trường hợp kinh điển của kinh tế học phát triển.
 
@@ -35,9 +35,9 @@ Trong giai đoạn này, tốc độ tăng trưởng kinh tế bình quân của
 
 Cuối thập niên 1980, khi ngành sản xuất truyền thống phải đối mặt với thách thức chi phí gia tăng, Đài Loan đưa ra lựa chọn chiến lược quyết định vận mệnh kinh tế: chuyển hướng sang công nghiệp công nghệ cao. Việc thành lập Công viên Khoa học Tân Trúc (新竹科學園區) đánh dấu bước chuyển ngoạn mục của Đài Loan từ một hòn đảo sản xuất thành một hòn đảo đổi mới sáng tạo.
 
-Morris Chang (Trương Trung Mưu, 張忠謀) [thành lập TSMC](/people/張忠謀), khai mở mô hình kinh doanh hoàn toàn mới về chuyên sản xuất bán dẫn theo hợp đồng. Quyết định này không chỉ làm thay đổi TSMC mà còn định hình lại sự phân công trong [ngành công nghiệp bán dẫn](/technology/半導體產業) toàn cầu. Khi ấy, không ai nghĩ rằng mô hình gia công tưởng chừng đơn giản này lại giúp Đài Loan chiếm giữ vị trí then chốt đến vậy trong chuỗi cung ứng công nghệ thế giới. Ngày nay, giá trị vốn hóa của TSMC tương đương 99% GDP Đài Loan; thịnh suy của một doanh nghiệp đủ sức tác động đến vận mệnh kinh tế của cả hòn đảo.
+Morris Chang (Trương Trung Mưu, 張忠謀) [thành lập TSMC](/people/張忠謀), khai mở mô hình kinh doanh hoàn toàn mới về chuyên sản xuất bán dẫn theo hợp đồng. Quyết định này không chỉ làm thay đổi TSMC mà còn định hình lại sự phân công trong [ngành công nghiệp bán dẫn](/vi/technology/taiwan-semiconductor-industry) toàn cầu. Khi ấy, không ai nghĩ rằng mô hình gia công tưởng chừng đơn giản này lại giúp Đài Loan chiếm giữ vị trí then chốt đến vậy trong chuỗi cung ứng công nghệ thế giới. Ngày nay, giá trị vốn hóa của TSMC tương đương 99% GDP Đài Loan; thịnh suy của một doanh nghiệp đủ sức tác động đến vận mệnh kinh tế của cả hòn đảo.
 
-📖 Đọc thêm: [Morris Chang](/people/張忠謀) ｜ [Ngành công nghiệp bán dẫn](/technology/半導體產業)
+📖 Đọc thêm: [Morris Chang](/people/張忠謀) ｜ [Ngành công nghiệp bán dẫn](/vi/technology/taiwan-semiconductor-industry)
 
 Thành công của ngành công nghiệp bán dẫn (半導體產業) đã thúc đẩy sự hình thành của toàn bộ hệ sinh thái công nghệ. MediaTek (聯發科) cạnh tranh ngang ngửa với Qualcomm trong lĩnh vực chip điện thoại di động; ASE Technology (日月光) vững vàng ở vị trí dẫn đầu thị trường đóng gói và kiểm thử bán dẫn; còn UMC (聯電) tạo dựng vị thế riêng trong lĩnh vực quy trình chuyên biệt. Từ thiết kế vi mạch, chế tạo wafer đến đóng gói và kiểm thử, Đài Loan đã xây dựng chuỗi công nghiệp bán dẫn hoàn chỉnh nhất thế giới, khiến “đảo silicon” không còn là một ẩn dụ lãng mạn mà trở thành một thực tế địa chính trị nghiêm túc.
 
@@ -61,9 +61,9 @@ Sự trỗi dậy của các ngành công nghiệp văn hóa và sáng tạo (�
 
 ## Sức sống đổi mới của hệ sinh thái khởi nghiệp
 
-Trong những năm gần đây, Đài Loan tích cực xây dựng [hệ sinh thái khởi nghiệp](/economy/新創生態系), nhằm nuôi dưỡng thế hệ doanh nghiệp kỳ lân mới trên nền tảng lợi thế sẵn có của ngành chế tạo thuộc khu vực [doanh nghiệp vừa và nhỏ](/economy/台灣中小企業與隱形冠軍). “Kế hoạch đổi mới công nghiệp 5+2” do chính phủ thúc đẩy tập trung vào bảy lĩnh vực: Thung lũng Silicon châu Á, công nghiệp y sinh, [công nghệ năng lượng xanh](/economy/台灣能源轉型與綠能產業), máy móc thông minh, công nghiệp quốc phòng, nông nghiệp mới và [kinh tế tuần hoàn](/economy/台灣循環經濟與資源再利用).
+Trong những năm gần đây, Đài Loan tích cực xây dựng [hệ sinh thái khởi nghiệp](/vi/economy/taiwan-startup-ecosystem-overview), nhằm nuôi dưỡng thế hệ doanh nghiệp kỳ lân mới trên nền tảng lợi thế sẵn có của ngành chế tạo thuộc khu vực [doanh nghiệp vừa và nhỏ](/vi/economy/taiwan-smes-and-hidden-champions). “Kế hoạch đổi mới công nghiệp 5+2” do chính phủ thúc đẩy tập trung vào bảy lĩnh vực: Thung lũng Silicon châu Á, công nghiệp y sinh, [công nghệ năng lượng xanh](/economy/台灣能源轉型與綠能產業), máy móc thông minh, công nghiệp quốc phòng, nông nghiệp mới và [kinh tế tuần hoàn](/economy/台灣循環經濟與資源再利用).
 
-📖 Đọc thêm: [Hệ sinh thái khởi nghiệp](/economy/新創生態系) ｜ [Doanh nghiệp vừa và nhỏ cùng các nhà vô địch ẩn danh của Đài Loan](/economy/台灣中小企業與隱形冠軍)
+📖 Đọc thêm: [Hệ sinh thái khởi nghiệp](/vi/economy/taiwan-startup-ecosystem-overview) ｜ [Doanh nghiệp vừa và nhỏ cùng các nhà vô địch ẩn danh của Đài Loan](/vi/economy/taiwan-smes-and-hidden-champions)
 
 Với mô hình đổi mới về xe máy điện và hệ thống đổi pin, Gogoro (Gogoro) không chỉ làm thay đổi hệ sinh thái giao thông Đài Loan mà còn xuất khẩu mô hình kinh doanh sang thị trường nước ngoài. Sau nhiều năm chuyên sâu trong lĩnh vực thương mại điện tử SaaS, 91APP (91APP) đã trở thành một trong những nền tảng công nghệ bán lẻ lớn nhất châu Á. Các chương trình tăng tốc khởi nghiệp như AppWorks (AppWorks) cung cấp vốn và hoạt động cố vấn cho doanh nghiệp khởi nghiệp, qua đó xây dựng một hệ sinh thái hoàn chỉnh từ ý tưởng đến IPO.
 

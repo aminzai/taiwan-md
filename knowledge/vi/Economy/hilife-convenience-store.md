@@ -72,7 +72,7 @@ Câu chuyện của Hi-Life không chỉ là sự thịnh suy của một doanh 
 
 ## Đọc thêm
 
-- [Văn hóa cửa hàng tiện lợi Đài Loan](/lifestyle/台灣便利商店文化) — Cách các cửa hàng tiện lợi trở thành cơ sở hạ tầng công cộng tại Đài Loan.
+- [Văn hóa cửa hàng tiện lợi Đài Loan](/vi/lifestyle/convenience-store-culture) — Cách các cửa hàng tiện lợi trở thành cơ sở hạ tầng công cộng tại Đài Loan.
 - [Hóa đơn](/economy/發票) — Kinh tế học thường nhật về hóa đơn thuế và dịch vụ thu hộ tại cửa hàng tiện lợi.
 
 ## Tài liệu tham khảo

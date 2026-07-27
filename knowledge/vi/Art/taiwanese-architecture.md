@@ -128,7 +128,7 @@ Lịch sử kiến trúc Đài Loan không phải một đường thẳng, mà g
 
 **Đọc thêm**:
 
-- [Cảm quan Đài Loan: Có phải chúng ta phải chờ người Hàn Quốc nhấn thích mới dám nói những ngôi nhà cũ của mình rất đẹp?](/culture/台灣感性) — Bối cảnh kiến trúc đằng sau hoa sắt cửa sổ, hành lang có mái che và tường ngoài của những khu chung cư cũ; trên thực tế, người Đài Loan đã tự mình nhìn lại vẻ đẹp của những ngôi nhà này sớm hơn trào lưu “대만감성” tại Hàn Quốc 11 năm
+- [Cảm quan Đài Loan: Có phải chúng ta phải chờ người Hàn Quốc nhấn thích mới dám nói những ngôi nhà cũ của mình rất đẹp?](/vi/culture/taiwanese-sensibility) — Bối cảnh kiến trúc đằng sau hoa sắt cửa sổ, hành lang có mái che và tường ngoài của những khu chung cư cũ; trên thực tế, người Đài Loan đã tự mình nhìn lại vẻ đẹp của những ngôi nhà này sớm hơn trào lưu “대만감성” tại Hàn Quốc 11 năm
 
 ## Tài liệu tham khảo
 

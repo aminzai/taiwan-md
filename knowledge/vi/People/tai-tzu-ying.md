@@ -134,7 +134,7 @@ Quan trọng hơn, tinh thần của Đinh Trí Anh — không bao giờ bỏ b�
 - [Quách Tĩnh Thuần](/people/郭婞淳) — Huy chương vàng cử tạ Olympic Tokyo, cùng là vận động viên người A-mei cốt lõi đoàn thể thao Đài Loan
 - [Lý Dương](/people/李洋) — Đồng kỳ sinh viên Trung tâm Quốc gia tập trung, sau huy chương vàng Olympic Tokyo/Paris thành Bộ trưởng đầu tiên Bộ Văn hóa Thể thao
 - [Vương Trí Lân với Lý Dương (Cặp Lân-Dương)](/people/麟洋配) — Cặp đôi nam đầu tiên lịch sử không phải hạt giống vô địch Olympic hai liên冠
-- [Châu Tử Du](/people/周子瑜) — Cùng thế hệ một cô gái 13 tuổi ly hương theo đuổi giấc mơ từ Đài Nam
+- [Châu Tử Du](/vi/people/tzuyu) — Cùng thế hệ một cô gái 13 tuổi ly hương theo đuổi giấc mơ từ Đài Nam
 
 ## Tài liệu tham khảo
 

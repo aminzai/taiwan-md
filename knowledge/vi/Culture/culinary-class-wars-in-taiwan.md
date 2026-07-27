@@ -126,9 +126,9 @@ Nhưng có một việc sẽ để lại: trong hai năm 2024 đến 2026, khác
 
 ## Đọc thêm
 
-- [Văn hóa đồ uống nhanh Đài Loan](/lifestyle/台灣便利商店文化) — Vụ hợp tác giữa 7-ELEVEN và Anh Tài Xíng diễn ra trong bối cảnh ngành thực phẩm tươi sống, giúp hiểu logic cạnh tranh trên trường chơi kênh bán lẻ.
+- [Văn hóa đồ uống nhanh Đài Loan](/vi/lifestyle/convenience-store-culture) — Vụ hợp tác giữa 7-ELEVEN và Anh Tài Xíng diễn ra trong bối cảnh ngành thực phẩm tươi sống, giúp hiểu logic cạnh tranh trên trường chơi kênh bán lẻ.
 - [Văn hóa đồ uống nhanh Đài Loan](/food/台灣手搖飲文化) — Vụ hợp tác giữa Anh Tài Xíng và Thập Tứ diễn ra trong bối cảnh ngành đồ uống nhanh, là bối cảnh xuất khẩu tiêu dùng Đài Loan.
-- [Trà đá pearl](/food/珍珠奶茶) — Biểu tượng đặc sản của đồ uống nhanh Đài Loan, tạo phản hồi văn hóa với các thương hiệu đồ uống nhanh Hàn được đưa vào thời kỳ "Đám đại chef Hàn".
+- [Trà đá pearl](/vi/food/bubble-tea) — Biểu tượng đặc sản của đồ uống nhanh Đài Loan, tạo phản hồi văn hóa với các thương hiệu đồ uống nhanh Hàn được đưa vào thời kỳ "Đám đại chef Hàn".
 
 ## Tài liệu tham khảo
 

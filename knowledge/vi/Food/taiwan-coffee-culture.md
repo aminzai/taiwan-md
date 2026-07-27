@@ -116,9 +116,9 @@ Cánh cửa gỗ của Phùng Đại Cà Phê vẫn mở. Đẩy cửa vào, b�
 
 **Mở rộng đọc**:
 
-- [Văn hóa cửa hàng tiện lợi Đài Loan](/lifestyle/台灣便利商店文化) — City Café thành công vì cửa hàng tiện lợi bản thân là cơ sở hạ tầng sống của người Đài Loan
+- [Văn hóa cửa hàng tiện lợi Đài Loan](/vi/lifestyle/convenience-store-culture) — City Café thành công vì cửa hàng tiện lợi bản thân là cơ sở hạ tầng sống của người Đài Loan
 - [Văn hóa đồ uống lắc tay Đài Loan](/food/台灣手搖飲文化) — Mặt khác của cà phê: Đài Loan phát minh trà sữa trân châu, cũng dùng đồ uống lắc tay chinh phục thế giới
-- [Văn hóa trà Đài Loan](/food/茶文化) — Trước cà phê, người Đài Loan uống trà bốn trăm năm
+- [Văn hóa trà Đài Loan](/vi/food/golden-age-echoes-taiwan-tea-culture) — Trước cà phê, người Đài Loan uống trà bốn trăm năm
 
 ## Tài liệu tham khảo
 

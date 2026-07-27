@@ -114,8 +114,8 @@ Thái Minh Giế hiện đã 75 tuổi. Ông đã dẫn dắt MediaTek từ CD-R
 
 ## Đọc thêm
 
-- [Doanh nghiệp Đài Loan: TSMC](/economy/台灣企業：台積電)
-- [Ngành công nghiệp bán dẫn](/technology/半導體產業) — Toàn bộ hệ sinh thái bán dẫn từ việc chuyển giao công nghệ RCA năm 1973 đến sản xuất hàng loạt tiến trình 2nm, MediaTek chính là đại diện tiêu biểu cho mảng thiết kế IC.
+- [Doanh nghiệp Đài Loan: TSMC](/vi/economy/tsmc)
+- [Ngành công nghiệp bán dẫn](/vi/technology/taiwan-semiconductor-industry) — Toàn bộ hệ sinh thái bán dẫn từ việc chuyển giao công nghệ RCA năm 1973 đến sản xuất hàng loạt tiến trình 2nm, MediaTek chính là đại diện tiêu biểu cho mảng thiết kế IC.
 
 ---
 

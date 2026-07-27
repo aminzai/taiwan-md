@@ -169,15 +169,15 @@ Tuy nhiên, hậu duệ của 5.000 người cung cấp tin trong các trường
 
 **Đọc thêm**:
 
-- [Chuyển đổi dân chủ tại Đài Loan](/history/台灣民主轉型) — toàn cảnh bốn thập niên chuyển đổi từ thiết quân luật sang một trong những thể chế dân chủ tự do nhất châu Á
-- [Thời kỳ thiết quân luật](/history/戒嚴時期) — khuôn khổ pháp lý kéo dài 38 năm 56 ngày và tiến trình dỡ bỏ thiết quân luật
+- [Chuyển đổi dân chủ tại Đài Loan](/vi/history/taiwan-democratization) — toàn cảnh bốn thập niên chuyển đổi từ thiết quân luật sang một trong những thể chế dân chủ tự do nhất châu Á
+- [Thời kỳ thiết quân luật](/vi/history/martial-law-era) — khuôn khổ pháp lý kéo dài 38 năm 56 ngày và tiến trình dỡ bỏ thiết quân luật
 - [Công lý chuyển tiếp tại Đài Loan](/history/台灣轉型正義) — công cuộc điều tra sự thật và truy cứu người gây hại còn dang dở sau khi thiết quân luật được dỡ bỏ
 - [Bảo tàng Nhân quyền Quốc gia](/history/國家人權博物館) — cơ quan quản lý hai công viên tưởng niệm Khủng bố Trắng tại Cảnh Mỹ và Đảo Xanh, từ sáu năm chuẩn bị đến việc ngân sách bị đóng băng năm 2025
 - [Sự kiện 28 tháng 2](/history/二二八事件) — khúc dạo đầu của Khủng bố Trắng và cách cuộc đàn áp năm 1947 báo trước chế độ thiết quân luật
 - [Sự kiện Mỹ Lệ Đảo](/history/美麗島事件) — bước ngoặt quan trọng trong giai đoạn cuối của Khủng bố Trắng năm 1979
-- [A Lý Sơn: lâm trường của đế quốc và ngọn núi của Cao Nhất Sinh](/history/阿里山：帝國的林場與高一生的山) — câu chuyện về ngọn núi của Cao Nhất Sinh và một cộng đồng sắc tộc bị buộc phải im tiếng
+- [A Lý Sơn: lâm trường của đế quốc và ngọn núi của Cao Nhất Sinh](/vi/history/alishan-empire-forest-and-uongu-yatauyungana) — câu chuyện về ngọn núi của Cao Nhất Sinh và một cộng đồng sắc tộc bị buộc phải im tiếng
 - [Hóa đơn: tờ giấy năm 1951 biến toàn dân thành thanh tra thuế](/economy/發票) — bản thân Nhậm Hiển Quần, người thiết kế chế độ hóa đơn, cũng sống trong cùng thời đại; năm 1955, ông bị bỏ tù vì “biết có cộng sản mà không tố giác” — chỉ một chiếc mũ tội danh cũng đủ đoạt mạng
-- [Ân Hải Quang](/people/殷海光) — giáo sư triết học Đại học Quốc lập Đài Loan bị quản thúc tại ngõ 18 đường Ôn Châu sau vụ Lôi Chấn năm 1960, một trong những người đặt nền móng cho chủ nghĩa tự do tại Đài Loan
+- [Ân Hải Quang](/vi/people/yin-haiguang-liberalism-philosopher) — giáo sư triết học Đại học Quốc lập Đài Loan bị quản thúc tại ngõ 18 đường Ôn Châu sau vụ Lôi Chấn năm 1960, một trong những người đặt nền móng cho chủ nghĩa tự do tại Đài Loan
 
 ## Tài liệu tham khảo
 

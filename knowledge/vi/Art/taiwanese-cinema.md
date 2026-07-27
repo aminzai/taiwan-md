@@ -429,7 +429,7 @@ Bài viết sử dụng bốn hình ảnh, tất cả đều được lưu đệ
 - [Hầu Hiếu Hiền](/people/侯孝賢): bậc thầy trường đoạn giành Sư tử vàng Venice và đưa Sự kiện 28 tháng 2 lên màn ảnh
 - [Dương Đức Xương](/people/楊德昌): nhà quan sát đô thị có hai tác phẩm lọt vào danh sách phim hay nhất lịch sử của Sight & Sound
 - [Thái Minh Lượng](/people/蔡明亮): chủ nhân Sư tử vàng Venice, người đưa điện ảnh chậm vào Bảo tàng Louvre
-- [Lý An](/people/李安): từ Đài Loan đến Hollywood, hai lần đoạt Oscar Đạo diễn xuất sắc nhất
+- [Lý An](/vi/people/ang-lee): từ Đài Loan đến Hollywood, hai lần đoạt Oscar Đạo diễn xuất sắc nhất
 - [Ngụy Đức Thánh](/people/魏德聖): người dùng năm ngôn ngữ làm nên «Hải Giác số 7» và hồi sinh phim nội địa
 - [Quốc gia vô hình](/art/看不見的國家): một cách khác để Đài Loan được nhìn thấy trong phim tài liệu của Cát Tĩnh Văn
-- [Cảm thức Đài Loan: Có phải chúng ta phải chờ người Hàn Quốc bấm thích rồi mới dám nói những ngôi nhà cũ của mình rất đẹp?](/culture/台灣感性): Sư tử vàng năm 1989 của «Thành phố bi tình» và doanh thu phòng vé Đài Bắc diễn ra cùng năm; sự công nhận quốc tế và đồng cảm trong nước không nhất thiết là lựa chọn loại trừ nhau
+- [Cảm thức Đài Loan: Có phải chúng ta phải chờ người Hàn Quốc bấm thích rồi mới dám nói những ngôi nhà cũ của mình rất đẹp?](/vi/culture/taiwanese-sensibility): Sư tử vàng năm 1989 của «Thành phố bi tình» và doanh thu phòng vé Đài Bắc diễn ra cùng năm; sự công nhận quốc tế và đồng cảm trong nước không nhất thiết là lựa chọn loại trừ nhau

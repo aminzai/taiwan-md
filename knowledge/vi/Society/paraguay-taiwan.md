@@ -103,9 +103,9 @@ Vấn đề cốt lõi không phải là "Paraguay sẽ giữ lại phía này k
 
 **Đọc thêm**:
 
-- [Các quốc gia đồng tác của Đài Loan và ngoại giao quốc tế](/society/台灣邦交國與國際外交) — 12 quốc gia đồng tác, các điểm đại sứ và mạng lưới miễn giấy phép nhập cảnh
+- [Các quốc gia đồng tác của Đài Loan và ngoại giao quốc tế](/vi/society/taiwan-diplomatic-allies-and-international-relations) — 12 quốc gia đồng tác, các điểm đại sứ và mạng lưới miễn giấy phép nhập cảnh
 - [Đài Loan và San Salvador](/society/台灣與史瓦帝尼) — Đối tác đồng tác duy nhất ở châu Phi, một trường hợp "hợp tác lâu dài và chính trị dễ vỡ"
-- [Chiến dịch nhận thức](/society/認知作戰) — Khung công cụ thông tin, ngôn ngữ và áp lực của Trung Quốc chống lại ngoại giao của Đài Loan
+- [Chiến dịch nhận thức](/vi/society/cognitive-warfare-against-taiwan) — Khung công cụ thông tin, ngôn ngữ và áp lực của Trung Quốc chống lại ngoại giao của Đài Loan
 - [Hội nghị Zheng Xi và Hội nghị lần thứ 10 về Tổng thống-Trung Quốc](/society/2026鄭習會與國共十年再會) — Các phong trào chính trị chung, hiểu nền tảng lớn hơn của áp lực Trung Quốc lên Đài Loan
 
 ## Nguồn hình ảnh

@@ -232,18 +232,18 @@ Chiến trường tối hậu của chiến tranh nhận thức là **bản thâ
 
 ## Đọc thêm
 
-- [Tạo Sơn Giả: Cược cược của Thế kỷ](/art/造山者世紀的賭注) — Phim tài liệu 2025 của Tiêu Cúc Trinh, phỏng vấn 5 năm 80+ tiền bối bán dẫn, 2026 bước vào ba trọng trấn đầu tư CHIPS Act tại Purdue/Wisconsin/Michigan
+- [Tạo Sơn Giả: Cược cược của Thế kỷ](/vi/art/mountain-makers-tsmc-documentary) — Phim tài liệu 2025 của Tiêu Cúc Trinh, phỏng vấn 5 năm 80+ tiền bối bán dẫn, 2026 bước vào ba trọng trấn đầu tư CHIPS Act tại Purdue/Wisconsin/Michigan
 
 - [Threads tại Đài Loan](/technology/Threads在台灣) — Lịch sử di cư cộng đồng mạng và cấu trúc nền tảng chiến trường thông tin của Đài Loan
 - [Miin迷音](/technology/迷音Miin) — Đỗ Dịch Cẩn và Phòng thí nghiệm AI Đài Loan nền tảng chống tin giả, dùng AI bắt tài khoản thao túng phối hợp (không kiểm từng tin)
 - [Quỹ Văn hóa Mở](/technology/開放文化基金會) — Tổ chức hậu đài bảo quản bot kiểm chứng Cofacts, canh giữ tự do mạng Đài Loan
 - [Lịch sử Di cư Cộng đồng Mạng Đài Loan](/technology/台灣網路社群遷徙史) — Hiểu vai trò của PTT, Dcard, Threads trong chiến tranh nhận thức
-- [Truyền thông và Tự do Báo chí Đài Loan](/society/台灣媒體與新聞自由) — Sinh thái truyền thông và trách nhiệm nền tảng chiến tranh nhận thức
+- [Truyền thông và Tự do Báo chí Đài Loan](/vi/society/media-and-press-freedom-in-taiwan) — Sinh thái truyền thông và trách nhiệm nền tảng chiến tranh nhận thức
 - [Thẩm Bá Dương](/people/沈伯洋) — Một trong những nhà nghiên cứu chính chiến tranh nhận thức, năm 2025 trở thành nhân vật chính trị dân cử Đài Loan đầu tiên bị Trung Quốc lập hồ sơ điều tra với tội danh "phân ly quốc gia"
 - [Học viện Gấu Đen](/society/黑熊學院) — Tổ chức dân sự đưa nhận diện chiến tranh nhận thức vào doanh trại cơ sở dân phòng, dạy người thường giữ phán đoán trong tin giả và chiến tranh tâm lý
 - [Khoai Tây Độc: Ngoài 200 ppm, còn có 30 ppm, 14 ngày và Vết sẹo An toàn Thực phẩm 15 năm](/society/毒馬鈴薯認知作戰) — Phân tích cách tường thuật "tân thư" (thư cam kết) tháng 4/2026 của Văn phòng Công tác Đài Loan踩 (dẫm) chính xác vào vết sẹo an toàn thực phẩm 15 năm từ scandal chất hóa học 2011
 - [Đài Loan và Eswatini](/society/台灣與史瓦帝尼) — Bối cảnh cụ thể thao túng ngôn ngữ "rat", "xâm nhập trái phép", "nghĩa cử quốc tế" của Trung Quốc: phản ứng của Lưu Thanh Đức khi thăm Eswatini tháng 5/2026
-- [Paraguay và Đài Loan](/society/巴拉圭與台灣) — Dưới cám dỗ thị trường Trung Quốc và lôi kéo chính trị, Đài Loan dùng hợp tác dài hạn撑 (chống) duy trì bang giao duy nhất Nam Mỹ
+- [Paraguay và Đài Loan](/vi/society/paraguay-taiwan) — Dưới cám dỗ thị trường Trung Quốc và lôi kéo chính trị, Đài Loan dùng hợp tác dài hạn撑 (chống) duy trì bang giao duy nhất Nam Mỹ
 
 ## Tài liệu tham khảo
 

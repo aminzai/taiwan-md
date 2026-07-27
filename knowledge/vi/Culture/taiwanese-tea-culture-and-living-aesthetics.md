@@ -102,7 +102,7 @@ Xuất khẩu trà Đài Loan rốt cuộc sụp đổ như thế nào? Cách gi
 
 Khi con đường xuất khẩu không còn thông suốt, trà buộc phải quay lại bán cho người trong nước. Chính bước ngoặt này đã thúc đẩy giai đoạn tự cải tạo sáng tạo nhất của trà Đài Loan.
 
-Năm 1975, Tưởng Kinh Quốc (Chiang Ching-kuo, 蔣經國), khi đó là Viện trưởng Hành chính viện, tới thị sát hương Danh Gian, Nam Đầu. Sau khi nếm loại “[trà Phố Trung](/food/名間埔中茶)” có thể thu hoạch bốn vụ mỗi năm và cây trà luôn xanh tốt, ông lập tức đặt cho nó một cái tên dễ nhớ, dễ nghe hơn: “trà Tùng Bách Trường Thanh”.[^11] Việc đặt tên của một chính khách đã đem lại chiến dịch tiếp thị toàn quốc miễn phí cho một loại trà địa phương vốn ít người biết đến. Cách thức “kể chuyện cho trà, biến trà thành sản phẩm có căn tính” ấy chính là hành động cốt lõi của thời đại tiêu thụ nội địa.
+Năm 1975, Tưởng Kinh Quốc (Chiang Ching-kuo, 蔣經國), khi đó là Viện trưởng Hành chính viện, tới thị sát hương Danh Gian, Nam Đầu. Sau khi nếm loại “[trà Phố Trung](/vi/food/mingjian-puchung-tea)” có thể thu hoạch bốn vụ mỗi năm và cây trà luôn xanh tốt, ông lập tức đặt cho nó một cái tên dễ nhớ, dễ nghe hơn: “trà Tùng Bách Trường Thanh”.[^11] Việc đặt tên của một chính khách đã đem lại chiến dịch tiếp thị toàn quốc miễn phí cho một loại trà địa phương vốn ít người biết đến. Cách thức “kể chuyện cho trà, biến trà thành sản phẩm có căn tính” ấy chính là hành động cốt lõi của thời đại tiêu thụ nội địa.
 
 Trà thi đấu là hình thức thực sự thể chế hóa phương pháp này. Mầm mống của các cuộc thi trà đã xuất hiện tại những hội chợ khuyến nghiệp dưới thời Nhật Bản cai trị, nhưng khi ấy chỉ có giấy khen, danh dự quan trọng hơn lợi ích vật chất. Bước ngoặt đến vào năm 1976: Nha Nông Lâm tổ chức cuộc thi trà chất lượng cao toàn Đài Loan đầu tiên nhằm thúc đẩy tiêu thụ nội địa[^12]. Cùng năm, ngày 2 tháng 5, Hội Nông dân hương Lộc Cốc tổ chức cuộc thi ô long Đông Đỉnh chất lượng cao tại Trường Tiểu học Lộc Cốc. Khi ấy, trà thông thường chỉ có giá 60–70 Đài tệ mỗi cân Đài Loan, còn lương tháng của công chức cấp cơ sở khoảng 1.200 Đài tệ. Thế nhưng một cân trà vô địch tại cuộc thi được trả tới 5.000 Đài tệ, khiến truyền thông đua nhau đưa tin và toàn Đài Loan sửng sốt. Tương truyền trà hạng đặc biệt của kỳ đầu tiên được một thương nhân thuộc một tiệm trà ở Lộc Cốc mua lại, nhưng tên người này chỉ xuất hiện trong một nguồn duy nhất nên có thể tạm xem như một giai thoại.
 
@@ -192,7 +192,7 @@ Vì vậy, thị trường thỉnh thoảng lại xuất hiện thông tin doanh
 
 ## Thời gian trong trà
 
-Trong tổng lượng trà được uống trên toàn thế giới ngày nay, chỉ 0,14% là trà xuất khẩu từ Đài Loan; sản lượng trà Đài Loan chiếm chưa tới 2% toàn cầu. Tuy nhiên, đơn giá xuất khẩu trà Đài Loan đạt 11,06 USD/kg, gấp 3,3 lần mức trung bình thế giới.[^30] Theo đuổi chất lượng thay vì số lượng là vị trí trà Đài Loan tìm được cho mình sau một thế kỷ. Từ trà xanh Bích Loa Xuân ở Tam Hiệp (xem [Trà Tam Hiệp](/food/三峽茶)), ô long Đông Đỉnh ở Nam Đầu đến trà đen hồ Nhật Nguyệt ở Ngư Trì, Đài Loan có thể sản xuất đầy đủ sáu nhóm trà lớn. Chỉ riêng giống ô long Thanh Tâm đã chiếm 60–70% tổng số cây trà toàn Đài Loan.[^31] Hòn đảo này vốn có trà hoang dã: năm 2009, giới thực vật học dùng DNA xác nhận sơn trà Đài Loan (_Camellia formosensis_) là một loài độc lập, vọng lại từ xa câu ghi chép trong _Chư La huyện chí_ năm 1717: “Trong núi Thủy Sa Liên có rất nhiều trà.”[^32]
+Trong tổng lượng trà được uống trên toàn thế giới ngày nay, chỉ 0,14% là trà xuất khẩu từ Đài Loan; sản lượng trà Đài Loan chiếm chưa tới 2% toàn cầu. Tuy nhiên, đơn giá xuất khẩu trà Đài Loan đạt 11,06 USD/kg, gấp 3,3 lần mức trung bình thế giới.[^30] Theo đuổi chất lượng thay vì số lượng là vị trí trà Đài Loan tìm được cho mình sau một thế kỷ. Từ trà xanh Bích Loa Xuân ở Tam Hiệp (xem [Trà Tam Hiệp](/vi/food/sanxia-tea)), ô long Đông Đỉnh ở Nam Đầu đến trà đen hồ Nhật Nguyệt ở Ngư Trì, Đài Loan có thể sản xuất đầy đủ sáu nhóm trà lớn. Chỉ riêng giống ô long Thanh Tâm đã chiếm 60–70% tổng số cây trà toàn Đài Loan.[^31] Hòn đảo này vốn có trà hoang dã: năm 2009, giới thực vật học dùng DNA xác nhận sơn trà Đài Loan (_Camellia formosensis_) là một loài độc lập, vọng lại từ xa câu ghi chép trong _Chư La huyện chí_ năm 1717: “Trong núi Thủy Sa Liên có rất nhiều trà.”[^32]
 
 ```tw-stat
 Theo đuổi chất lượng thay vì số lượng: Vị trí của trà Đài Loan trên thế giới
@@ -210,10 +210,10 @@ Một trăm năm sau khi Liên Hoành viết “ấm phải là Mạnh Thần, c
 
 ## Đọc thêm
 
-- [Nghệ thuật trà đạo và mỹ học đời sống Đài Loan](/culture/台灣茶道與生活美學) — Toàn bộ mỹ học đời sống phía sau bàn trà, Tử Đằng Lư và trà Đông Phương Mỹ Nhân
-- [Trà sữa trân châu](/food/珍珠奶茶) — Câu chuyện đầy đủ từ một cuộc họp nhân viên ở Đài Trung đến thức uống toàn cầu và vụ tranh chấp nguồn gốc
+- [Nghệ thuật trà đạo và mỹ học đời sống Đài Loan](/vi/culture/taiwan-tea-ceremony-and-aesthetic-living) — Toàn bộ mỹ học đời sống phía sau bàn trà, Tử Đằng Lư và trà Đông Phương Mỹ Nhân
+- [Trà sữa trân châu](/vi/food/bubble-tea) — Câu chuyện đầy đủ từ một cuộc họp nhân viên ở Đài Trung đến thức uống toàn cầu và vụ tranh chấp nguồn gốc
 - [Văn hóa đồ uống pha lắc Đài Loan](/food/台灣手搖飲文化) — Các thương hiệu đồ uống pha lắc Đài Loan đã đi từ cửa tiệm ven đường ra thế giới như thế nào
-- [Trà Phố Trung, Danh Gian](/food/名間埔中茶) — Thị trấn ở Nam Đầu cung cấp 80% trà nền cho đồ uống pha lắc
+- [Trà Phố Trung, Danh Gian](/vi/food/mingjian-puchung-tea) — Thị trấn ở Nam Đầu cung cấp 80% trà nền cho đồ uống pha lắc
 - [Máy dán màng miệng cốc đồ uống](/technology/飲料封膜機) — Chiếc máy bắt kịp thời hoàng kim của trà sữa trân châu và bất ngờ được nghĩ ra từ món canh củ cải
 
 ## Nguồn hình ảnh

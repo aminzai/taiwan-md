@@ -200,11 +200,11 @@ Nhìn những người chờ lên thuyền: có cư dân Kim Môn đi Hạ Môn 
 - [Hạt thị Bành Hồ](/geography/澎湖縣) — Nhóm đảo series 22 hạt thị hạt thị thứ ba, cùng đảo ngoại với Kim Môn nhưng có lịch sử Nhật trị, đối chiếu sự khác biệt Kim Môn chưa bị Nhật trị trực tiếp quản lý
 - [Trịnh Thành Công](/people/鄭成功) — Khởi binh phản Thanh phục Minh tại Kim Môn năm 1646, quyết định xuất phát từ Kim Môn của người này sau đó thay đổi Đài Loan
 - [Tưởng Trung Chính](/people/蔣中正) — 1958 "Vô Vong Tại Cúc" đề chữ núi Thái Vũ, người ra lệnh tử thủ Kim Môn năm 1949
-- [Thời gian nghiêm ngặt](/history/戒嚴時期) — Đảo chính Đài Loan giải nghiêm 1987, Kim Môn và Ma Tụ đến 1992 mới bãi bỏ chính trị quân sự chiến địa, bài này đối chiếu xem hai phiên bản nghiêm ngặt
+- [Thời gian nghiêm ngặt](/vi/history/martial-law-era) — Đảo chính Đài Loan giải nghiêm 1987, Kim Môn và Ma Tụ đến 1992 mới bãi bỏ chính trị quân sự chiến địa, bài này đối chiếu xem hai phiên bản nghiêm ngặt
 - [Khủng hoảng eo biển Đài Loan và phát triển quan hệ hai bờ](/history/台海危機與兩岸關係發展) — Bát Nhị Tam là bằng chứng vật chất cụ thể nhất của Chiến tranh Lạnh nóng, đoạn § "17 giờ 30" của bài này là mở rộng cấp hạt thị của bài này
 - [Quốc phòng và hiện đại hóa quân sự Đài Loan](/society/台灣國防與軍事現代化) —演变 quy mô quân đội quản lý quân sự Kim Môn 5-10 vạn người đến dưới vạn người hôm nay, đối chiếu với quỹ đạo hiện đại hóa Lục quân Quốc phòng tổng thể
 - [Đặc điểm địa lý và hình thành đảo Đài Loan](/geography/台灣島嶼地理特色與形成) — Đối chiếu địa chất đá granite Kim Môn với cơ chế hình thành các đảo Đài Loan khác
-- [Truyền thuyết Thiên Hậu và Đại Đạo Công](/culture/媽祖與大道公的傳說) — Tín ngưỡng Mân Nam Kim Môn cùng nguồn với đảo chính Đài Loan, khác với truyền thuyết linh huyệt Thiên Hậu Cung Ma Tụ
+- [Truyền thuyết Thiên Hậu và Đại Đạo Công](/vi/culture/mazu-dadaogong-legend) — Tín ngưỡng Mân Nam Kim Môn cùng nguồn với đảo chính Đài Loan, khác với truyền thuyết linh huyệt Thiên Hậu Cung Ma Tụ
 
 ## Nguồn ảnh
 

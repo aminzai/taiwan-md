@@ -105,7 +105,7 @@ Thiên đàn không chỉ là một món ăn nhỏ, mà còn chứa đựng quá
 
 ## Các chủ đề liên quan
 
-- [Văn hóa đêm chợ](/Food/夜市文化) — Phân tích sâu về đêm chợ như một không gian xã hội
+- [Văn hóa đêm chợ](/vi/food/night-market-culture) — Phân tích sâu về đêm chợ như một không gian xã hội
 - [Thức ăn nhỏ của Đài Loan](/Food/台灣小吃) — Tinh thần dũng cảm của người bình dân trong ẩm thực Đài Loan
 - [Thức ăn nhỏ bánh mì nước lèo](/Food/台灣滷肉飯) — Kỷ niệm dân tộc qua một bát bánh mì nước lèo
 - [Văn hóa ẩm thực Hồng Kông](/Food/客家飲食文化) — Trí tuệ ẩm thực của dân tộc Hồng Kông
