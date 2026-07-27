@@ -218,13 +218,41 @@ def main():
         if not full.exists():
             continue
         text = full.read_text()
-        for match in re.findall(rf"\]\((/{lang}/[^)]+?)\)", text):
-            path = match.rstrip("/").split("#")[0]
-            target = REPO / f"knowledge{path}.md"
-            if target.exists():
-                ok += 1
+        # 2026-07-27 盲區修復：原 regex 是 `\]\((/{lang}/...)\)`，**只檢查已經帶
+        # 語言前綴的連結**。而譯文最常見的壞連結恰恰是沒有前綴的
+        # `[大罷免](/history/大罷免)`（模型照著 zh 源原樣保留），它完全不在
+        # 掃描範圍內——工具名寫著 cross-article link integrity，實際只看了
+        # 一小部分，13,155 筆壞連結因此靜默出貨（見
+        # reports/cross-link-localization-2026-07-27.md）。改成掃所有站內
+        # 連結，再按有無語言前綴分流判定。
+        for match in re.findall(r"\]\((/[^)\s]+?)\)", text):
+            path = match.rstrip("/").split("#")[0].split("?")[0]
+            if path.startswith(f"/{lang}/"):
+                target = REPO / f"knowledge{path}.md"
+                if target.exists():
+                    ok += 1
+                else:
+                    broken.append((p, match))
             else:
-                broken.append((p, match))
+                # 無語言前綴 = 指向 zh 正本的網址。譯文裡出現它就是壞連結
+                # （線上 404 實測），除非該篇在本語言確實還沒有譯文——那種
+                # 情況留著中文 slug 是刻意的保守處置，不算 broken。
+                zh_target = REPO / f"knowledge{path}.md"
+                zh_rel = path.lstrip("/") + ".md"
+                # 分類大小寫兩種都試（URL 慣例小寫、檔案路徑首字大寫）
+                cands = [zh_rel]
+                parts = zh_rel.split("/", 1)
+                if len(parts) == 2:
+                    cands.append(parts[0].capitalize() + "/" + parts[1])
+                has_zh = any((REPO / "knowledge" / c).exists() for c in cands)
+                has_lang_version = any(
+                    (REPO / "knowledge" / lang / c).exists() for c in cands)
+                if has_zh and has_lang_version:
+                    broken.append((p, match + "  ← 該語言有譯文卻指向 zh 網址"))
+                elif has_zh:
+                    ok += 1        # 該語言還沒翻，保留 zh slug 是正確處置
+                else:
+                    broken.append((p, match + "  ← 目標不存在"))
     if broken:
         for src, link in broken[:5]:
             log(f"   ❌ {src}: → {link}")
