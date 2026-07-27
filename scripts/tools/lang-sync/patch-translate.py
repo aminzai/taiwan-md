@@ -60,9 +60,9 @@ git_file_last_commit 概念，本檔用 structured-translate.py 的 git_short_sh
 from __future__ import annotations
 
 import argparse
-import hashlib
 import json
 import re
+import shutil
 import subprocess
 import sys
 import tempfile
@@ -434,37 +434,62 @@ def rebuild_frontmatter_preserve_translation(zh_fm: dict, tr_fm: dict, zh_path: 
 
 # ════════════════════════ validation trio ════════════════════════
 
-def _verify_arg_path(out_path: Path, lang: str) -> Path:
-    """Two downstream tools choke on an arbitrary --out path (e.g. /tmp/patch-test/
-    for dry runs that must never touch knowledge/):
-      - verify-translation.py's ratio-check does `.relative_to(REPO)` → ValueError
-        outside the repo (same issue structured-translate.py's pilot mode hit).
-      - article-health.py infers the article's lang by checking whether the
-        literal substring 'knowledge/<lang>/' appears in the path
-        (lib/article_health/langs.py) — an out-of-tree path silently resolves to
-        the WRONG language's punctuation/style rules (caught empirically: a
-        zh-TW-only half-width-parenthesis rule fired on an English translation
-        because the path had no 'knowledge/en/' in it).
-    One symlink chain fixes both: a real 'knowledge' dir inside REPO's
-    gitignored tmp/, with '<lang>' inside it symlinked straight at out_path's
-    parent. The returned path is lexically REPO/tmp/.../knowledge/<lang>/<name>
-    but resolves to exactly out_path's bytes, wherever those really live."""
-    if REPO in out_path.parents and f"knowledge/{lang}/" in str(out_path):
-        return out_path
-    root = out_path.parent
-    key = hashlib.sha1(str(root).encode()).hexdigest()[:10]
-    kdir = REPO / "tmp" / "patch-translate-symlinks" / key / "knowledge"
+def _article_health_arg_path(out_path: Path, lang: str) -> tuple[Path, Path | None]:
+    """回傳 (health_arg, cleanup_dir)。**只給 article-health.py 用**（見
+    run_verify_trio）——verify-translation.py 跟 cjk-leak-check.py 一律直接吃
+    真實的 out_path，不經過這裡。
+
+    2026-07-27 bug 覆盤（production 成功率 0% 的真因）：舊版 `_verify_arg_path`
+    把這三個驗證器全部導去同一條 symlink，且用 `REPO in out_path.parents` 判
+    斷「out_path 是否已經是可以直接驗證的真實路徑」——但呼叫端
+    （babel-dispatch.py）傳進來的 `--out` 是**相對路徑**（如
+    `knowledge/en/Technology/xxx.md`，subprocess cwd=REPO），相對路徑的
+    `.parents` 序列只會有其他相對路徑，永遠不含絕對的 REPO，這個判斷式永遠
+    是 False——於是**每一次 production 呼叫**都被誤導進 symlink 分支，即使
+    out_path 根本就已經是合法的 knowledge/<lang>/ 真實路徑，完全不需要 symlink。
+    更糟的是 symlink 分支本身也有 bug：舊版拿 `out_path.parent`（同樣是相對
+    路徑）直接當 `symlink_to()` 的 target，而 symlink target 若是相對路徑，
+    是「相對於 symlink 自己所在的目錄」解析、不是相對於 cwd/REPO——實際落點
+    變成 kdir 底下多一層不存在的 `knowledge/knowledge/...`，於是
+    verify-translation.py 跟 article-health.py 拿到的路徑背後其實是個斷掉的
+    symlink，檔案「不存在」，三重驗證的第一項（en file exists）當場 FAIL，
+    100% 命中，這就是 production 成功率 0% 的真因。
+
+    修法分兩層：(1) 這裡的判斷式改成純字串比對『knowledge/<lang>/ 是否已經
+    出現在路徑裡』（跟 article-health.py 自己 lib/article_health/langs.py
+    is_translation_path() 判斷語言用的是同一把尺，不要求真的在 REPO 底下）
+    ——production 的 out_path 本來就長這樣，直接回傳它本人，完全不用
+    symlink。(2) 手動測試用 `--out /tmp/somewhere/x.md` 這種扁平路徑時，才
+    需要墊一層 symlink 讓 article-health 猜對語言，用**系統 temp 目錄**
+    （不是 REPO/tmp——那個位置放著上次的殘骸曾被別的 session 當垃圾誤刪
+    過），target 一律用絕對路徑（不重蹈相對路徑解析錯位的覆轍），呼叫端用
+    完立刻 rmtree，repo 裡不留任何痕跡。
+
+    verify-translation.py 為什麼不能也套這條 symlink：實測（2026-07-27
+    手動 --out /tmp/... 驗證）它的 en-file-exists PASS 分支跟 ratio-check 都
+    對路徑做 `.relative_to(REPO)`——REPO 底下的路徑沒事，但系統 temp 底下的
+    symlink 一樣會 ValueError 炸掉整支 script（跟 structured-translate.py
+    pilot mode 踩過的同一個坑）。與其把 symlink 挪回 REPO/tmp（等於走回頭
+    路、又要面對「repo 內留 tmp/」的老問題），改在 verify-translation.py 那
+    端把 `.relative_to(REPO)` 包一層 fallback（見該檔 `_repo_rel()`），讓它
+    對 REPO 外的路徑也能正常跑完，而不是丟給呼叫端假路徑去騙它。"""
+    if f"knowledge/{lang}/" in str(out_path):
+        return out_path, None
+    tmp_root = Path(tempfile.mkdtemp(prefix="patch-translate-langlink-"))
+    kdir = tmp_root / "knowledge"
     kdir.mkdir(parents=True, exist_ok=True)
     link = kdir / lang
-    if not (link.is_symlink() or link.exists()):
-        link.symlink_to(root)
-    return link / out_path.name
+    link.symlink_to(out_path.parent)  # 絕對路徑 target——不會有相對路徑解析錯位問題
+    return link / out_path.name, tmp_root
 
 
 def run_verify_trio(zh_path: str, out_path: Path, lang: str) -> tuple[bool, dict]:
-    verify_arg = _verify_arg_path(out_path, lang)
+    out_path = out_path.resolve()
+
+    # verify-translation.py 一律吃真實路徑（見 _article_health_arg_path 的
+    # docstring：它自己已經對 REPO 外的路徑加了 fallback，不需要靠假路徑騙過）。
     r1 = subprocess.run(
-        [sys.executable, str(SCRIPT_DIR / "verify-translation.py"), zh_path, str(verify_arg), "--json"],
+        [sys.executable, str(SCRIPT_DIR / "verify-translation.py"), zh_path, str(out_path), "--json"],
         cwd=REPO, capture_output=True, text=True, timeout=60,
     )
     try:
@@ -472,20 +497,26 @@ def run_verify_trio(zh_path: str, out_path: Path, lang: str) -> tuple[bool, dict
     except Exception:  # noqa: BLE001
         v = {"fails": -1, "raw": (r1.stdout + r1.stderr)[-800:]}
 
+    # cjk-leak-check 也直接讀真實 out_path（lang 顯式傳入，不靠路徑猜語言）。
     hits = cjkleak.scan_file(out_path, lang=lang)
     leak = {"flagged": bool(hits), "hits": hits}
 
-    r3 = subprocess.run(
-        [sys.executable, str(REPO / "scripts/tools/article-health.py"), str(verify_arg),
-         "--profile=pre-commit", "--output=json"],
-        cwd=REPO, capture_output=True, text=True, timeout=120,
-    )
+    health_arg, cleanup_dir = _article_health_arg_path(out_path, lang)
     try:
-        h = json.loads(r3.stdout)
-        health_passed = bool(h["reports"][0]["effective_passed"])
-    except Exception:  # noqa: BLE001
-        h = {"raw": (r3.stdout + r3.stderr)[-800:]}
-        health_passed = False
+        r3 = subprocess.run(
+            [sys.executable, str(REPO / "scripts/tools/article-health.py"), str(health_arg),
+             "--profile=pre-commit", "--output=json"],
+            cwd=REPO, capture_output=True, text=True, timeout=120,
+        )
+        try:
+            h = json.loads(r3.stdout)
+            health_passed = bool(h["reports"][0]["effective_passed"])
+        except Exception:  # noqa: BLE001
+            h = {"raw": (r3.stdout + r3.stderr)[-800:]}
+            health_passed = False
+    finally:
+        if cleanup_dir is not None:
+            shutil.rmtree(cleanup_dir, ignore_errors=True)
 
     ok = v.get("fails", 1) == 0 and not leak["flagged"] and health_passed
     return ok, {"verify_translation": v, "cjk_leak_check": leak, "article_health": h}
@@ -647,6 +678,14 @@ def main() -> int:
 
     if failed:
         print(f"❌ {len(failed)} chapter(s) failed translation/validation after retries — aborting, no write")
+        # 2026-07-27：production log 只印「N chapter(s) failed」，看不出是哪一項
+        # 判準擋的（footnote ref set / cjk-leak / ratio band / URL mismatch），
+        # 每次要診斷都得另外寫腳本重跑一次——補印最後一次 attempt 的 issues，
+        # 讓 dispatcher log 本身就夠診斷，不用重跑。
+        for c in metrics["chapters"]:
+            if c["index"] in failed:
+                heading = (c["heading"] or "(intro)").strip()
+                print(f"   ✗ [{c['index']}] {heading}: {c['issues']}")
         return 1
 
     new_body_lines = [l for chunk in new_tr_chapter_lines for l in chunk]  # type: ignore[union-attr]
@@ -673,7 +712,7 @@ def main() -> int:
 
     assembled = "---\n" + fm_block + "\n---\n" + "\n".join(new_body_lines) + "\n"
 
-    out_path = Path(args.out) if args.out else trans_path
+    out_path = (Path(args.out) if args.out else trans_path).resolve()
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(assembled, encoding="utf-8")
 
@@ -689,6 +728,24 @@ def main() -> int:
     metrics["phases"]["validation"] = {"prettier_ok": prettier_ok, "prettier_msg": prettier_msg, **details}
     if not ok:
         print(f"❌ verify trio FAILED: {json.dumps(details, ensure_ascii=False)[:1200]}")
+        # 2026-07-27：舊版只印前 1200 字元就把失敗檔 unlink 掉，往往連是哪一項
+        # FAIL 都被截斷看不到（三重驗證的 detail 字串常常比 1200 字元長）——
+        # 診斷時得整個重跑一次才看得到全貌。寫一份完整 debug json 留底，不受
+        # stdout 截斷限制——寫到系統 temp（不是 out_path 旁邊：production 的
+        # out_path 就在 knowledge/<lang>/ 底下，debug 產物絕不該混進這個受
+        # git 追蹤的目錄）。
+        try:
+            tag = f"{out_path.stem}-{int(time.time())}"
+            debug_json = Path(tempfile.gettempdir()) / f"patch-translate-fail-{tag}.json"
+            debug_json.write_text(json.dumps(details, ensure_ascii=False, indent=2), encoding="utf-8")
+            # 連實際（post-prettier）失敗檔內容一起留底——只看 verify-trio 的
+            # verdict 常常猜不出模型實際輸出了什麼（2026-07-27 覆盤親身驗證：
+            # 同一章節不同次 retry 產出完全不同的失敗樣態）。
+            debug_md = Path(tempfile.gettempdir()) / f"patch-translate-fail-{tag}.md"
+            debug_md.write_text(out_path.read_text(encoding="utf-8"), encoding="utf-8")
+            print(f"   🔍 full verify-trio detail: {debug_json} (failing content: {debug_md})")
+        except Exception:  # noqa: BLE001
+            pass
         out_path.unlink(missing_ok=True)
         return 1
 

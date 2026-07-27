@@ -61,6 +61,22 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent.parent.parent
 KN = REPO / "knowledge"
 
+
+def _repo_rel(p: Path) -> str:
+    """Best-effort REPO-relative display/arg string. Falls back to the absolute
+    path when p lives outside REPO — `.relative_to(REPO)` raises ValueError
+    there, which used to crash this whole script uncaught (no JSON output at
+    all) the moment a caller passed a real out-of-repo path (2026-07-27:
+    patch-translate.py --out to an ad-hoc test/staging directory, e.g. for a
+    dry-run that must never touch knowledge/). structured-translate.py's pilot
+    mode hit the same ValueError and worked around it entirely on the caller
+    side with a symlink; here we fix it at the source so verify-translation.py
+    itself never depends on being handed a fake in-repo-looking path."""
+    try:
+        return str(p.relative_to(REPO))
+    except ValueError:
+        return str(p)
+
 # Frontmatter fields that MUST match between zh and en (passthrough)
 # NOTE: `subcategory` deliberately excluded (2026-07-24) — it's a rendered
 # taxonomy label (terminology page, graph.astro nodes), not an internal key,
@@ -193,7 +209,7 @@ def main():
     if not en_full.exists():
         add("en file exists", "FAIL", f"{en_full} missing")
         return check(checks, args.json) and 1
-    add("en file exists", "PASS", str(en_full.relative_to(REPO)))
+    add("en file exists", "PASS", _repo_rel(en_full))
 
     # 2. zh exists
     if not zh_full.exists():
@@ -285,7 +301,7 @@ def main():
     ratio_tool = REPO / "scripts/tools/translation-ratio-check.sh"
     if ratio_tool.exists():
         r = subprocess.run(
-            ["bash", str(ratio_tool), str(en_full.relative_to(REPO))],
+            ["bash", str(ratio_tool), _repo_rel(en_full)],
             capture_output=True, text=True,
         )
         out = r.stdout + r.stderr
