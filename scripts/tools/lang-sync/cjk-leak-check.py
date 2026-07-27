@@ -91,6 +91,12 @@ def legit_spans(text: str) -> list:
 
 # 連結類：target 必須保留原文才能解析，不是洩漏
 LINK_LIKE_RES = [
+    # HTML 標籤（第十一家族 2026-07-27）：標籤內的屬性值是結構不是正文——
+    # YouTube 嵌入的 title="大象體操 Elephant Gym -〈水底〉" 是原始影片標題、
+    # <a href="/people/草東沒有派對"> 的中文 slug 是站內連結能解析的前提。
+    # 兩者都跟 wikilink 同理：保留原文是正確的編輯選擇。救回 en 歷史刪除檔時
+    # 現形——10 篇「只有 CJK 洩漏」的譯文全卡在這裡。
+    re.compile(r"<[a-zA-Z/][^>]*>"),
     re.compile(r"\[\[[^\]]*\]\]"),                                    # [[wikilink]]
     re.compile(r"\[[^\[\]]*(?:\[[^\]]*\][^\[\]]*)*\]\([^)]*\)"),      # [text](url)（容一層巢狀）
     re.compile(r"https?://\S+"),                                      # 裸 URL
@@ -142,28 +148,12 @@ def scan_file(path: Path, lang: str = None):
         #   markdown links [text](url) — internal wikilinks use zh slugs, external
         #     citations legitimately keep the source's actual (Chinese) title
         #   footnote definitions `[^n]: ...` — same citation-title reasoning
-        body = text
-        if body.startswith("---"):
-            end_fm = body.find("---", 3)
-            if end_fm != -1:
-                body = body[end_fm + 3:]
-        # wikilink 的 target 是 zh slug——保留中文是連結能解析的前提，不是洩漏
-        # （第十家族 2026-07-26：`[[濁水溪公社 (झुओ शुई शी गोंगशे)]]` 被判洩漏，
-        # 而那正是 per-language guide 要求的「保留原標題＋附音譯」寫法）。
-        # 必須排在 markdown 連結剝除之前——`[[x]]` 不符合 `[text](url)` 形式。
-        body = re.sub(r"\[\[[^\]]*\]\]", "", body)                 # [[wikilink]]
-        body = re.sub(r"\[[^\]]*\]\([^)]*\)", "", body)          # [text](url)
-        body = re.sub(r"^\[\^[^\]]+\]:.*$", "", body, flags=re.MULTILINE)  # [^n]: ...
-        # 裸 URL（第八家族 2026-07-25）：wikipedia.org/zh-tw/台灣傳統市場 這類
-        # 含中文 path 的合法引用 URL 不在 markdown 連結語法裡時，上面兩條剝不到，
-        # 中文字元被當成正文洩漏。URL 裡的中文永遠是合法的（引用目標的一部分）。
-        body = re.sub(r"https?://\S+", "", body)
-
-        gloss_spans = legit_spans(body)
+        # 2026-07-27 收斂：本分支原本各自內聯一套剝除 regex，於是 strip_legit_zones
+        # 加的新豁免（HTML 標籤＝第十一家族）在這裡不生效——抽了共用 API 卻沒改
+        # 呼叫端，跟今天修的其他分歧同型。改為單一來源。
+        body = strip_legit_zones(text, drop_frontmatter=True)
         for m in CJK_RUN_RE.finditer(body):
             start, end = m.span()
-            if any(s < start and end < e for s, e in gloss_spans):
-                continue
             ctx = body[max(0, start - 20):end + 20].replace("\n", " ")
             hits.append(f"CJK run {m.group(0)!r} (e.g. …{ctx}…)")
         return hits
@@ -172,11 +162,7 @@ def scan_file(path: Path, lang: str = None):
     #   「…」『…』引述 span — 引用原文 zh 是編輯選擇（陳建仁原話等），非洩漏
     #   《…》〈…〉作品名 — 專輯／書／單曲／詩名保留原文合法
     #   markdown 連結（容忍一層巢狀中括號）— 引用的 zh 標題合法
-    scan = text
-    for rx in LEGIT_ZH_SPANS:
-        scan = rx.sub("", scan)
-    scan = re.sub(r"\[\[[^\]]*\]\]", "", scan)   # wikilink target 同豁免（第十家族）
-    scan = re.sub(r"\[[^\[\]]*(?:\[[^\]]*\][^\[\]]*)*\]\([^)]*\)", "", scan)
+    scan = strip_legit_zones(text)   # 同一把尺（2026-07-27 收斂）
     scan = re.sub(r"https?://\S+", "", scan)   # 裸 URL 同豁免（第八家族）
     for marker in ZH_ONLY_MARKERS:
         c = scan.count(marker)
