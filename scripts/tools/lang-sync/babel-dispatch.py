@@ -68,12 +68,13 @@ KNOWLEDGE = REPO / "knowledge"
 STATUS_JSON = KNOWLEDGE / "_translation-status.json"
 TRANSLATIONS_JSON = KNOWLEDGE / "_translations.json"
 GIT_LOCK = Path("/tmp/taiwan-md-git.lock")
-# 難篇記憶：跨 run 累計的失敗次數，決定佇列優先序（不在 repo 內——這是本機
-# 產線狀態不是專案資產）。2026-07-27 從 /tmp 搬到 ~/.cache：重開機清空 /tmp
-# 讓記憶歸零，所有沉底難篇回到佇列最前面，四軌整批重撞已知硬骨頭，通過率
-# 從 50% 崩到 18%。「跨 run 持久化」必須也跨重開機才算數。
-FAIL_MEMO = Path.home() / ".cache" / "taiwan-md" / "babel-fail-memo.json"
-FAIL_MEMO.parent.mkdir(parents=True, exist_ok=True)
+# 難篇記憶：跨 run 累計的失敗次數，決定佇列優先序。選址演化三步（2026-07-27
+# 哲宇定案）：/tmp（重開機歸零，通過率 50%→18% 的事故）→ ~/.cache（跨重開機
+# 但只有本機看得到）→ **repo 內版控**。關鍵認知：難篇是「文章×語言」的屬性
+# 不是機器的屬性——mouhouse、其他節點、任何人跑翻譯撞的都是同一批硬骨頭，
+# 這份記憶透過 git 在所有產地之間流動。schema {"lang:zh_path": 失敗次數}，
+# 數值為 advisory（混合了不同模型的嘗試）；跨機衝突用逐鍵取 max 合併。
+FAIL_MEMO = REPO / "reports" / "babel" / "fail-memo.json"
 MAX_FAIL_RETRIES = 3   # 同一篇本 run 失敗幾次後讓出輪次（退避，非永久放棄——下個 run 重來）  # SAME path the legacy bash dispatchers use
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -563,6 +564,7 @@ def do_commit(lang: str, state: RunState, no_commit: bool, log: Logger) -> None:
                              encoding="utf-8")
     except Exception:
         pass
+    files.append(str(FAIL_MEMO.relative_to(REPO)))   # 難篇記憶隨批次入版控
     subprocess.run(["python3", "scripts/tools/sync-translations-json.py"], cwd=REPO, capture_output=True, text=True)
     subprocess.run(["python3", "scripts/tools/lang-sync/status.py"], cwd=REPO, capture_output=True, text=True)
     git_lock_commit(lang, workers, files, log)
