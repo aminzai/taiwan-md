@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-27T09:53:29+08:00",
-    "zhCommitHead": "9ca0c24e5",
+    "lastUpdated": "2026-07-27T10:00:57+08:00",
+    "zhCommitHead": "39d8f12e2",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -19,10 +19,10 @@
     "summary": {
       "en": {
         "total_zh": 869,
-        "fresh": 722,
-        "stale": 110,
+        "fresh": 723,
+        "stale": 115,
         "metadata_stale": 2,
-        "missing": 35,
+        "missing": 29,
         "orphan": 0
       },
       "ja": {
@@ -75,34 +75,34 @@
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 560,
-        "stale": 11,
+        "fresh": 561,
+        "stale": 10,
         "metadata_stale": 0,
         "missing": 298,
         "orphan": 0
       },
       "hi": {
         "total_zh": 869,
-        "fresh": 428,
+        "fresh": 429,
         "stale": 6,
         "metadata_stale": 2,
-        "missing": 433,
+        "missing": 432,
         "orphan": 0
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 444,
+        "fresh": 446,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 424,
+        "missing": 422,
         "orphan": 0
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 473,
+        "fresh": 474,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 395,
+        "missing": 394,
         "orphan": 0
       }
     },
@@ -1011,7 +1011,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Music/golden-melodies-legacy-taiwan-pop-music.md",
+          "translatedFrom": "Music/台灣流行音樂.md",
+          "sourceCommitSha": "ac1d187a",
+          "sourceContentHash": "sha256:0380d6db1f823bf1",
+          "sourceBodyHash": "sha256:bd48e5c9c0054342",
+          "translatedAt": "2026-06-20T01:01:36+08:00",
+          "translationLastCommit": "de02c26b",
+          "translationLastModified": "2026-07-24T14:46:20+08:00",
+          "inferred": false,
+          "footnoteDefs": 58,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+4 -4"
         },
         "ja": {
           "path": "ja/Music/golden-melodies-legacy-taiwan-pop-music.md",
@@ -4132,7 +4145,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Music/pop-music-and-golden-melody-awards.md",
+          "translatedFrom": "Music/金曲獎.md",
+          "sourceCommitSha": "6897c6571",
+          "sourceContentHash": "sha256:b00d48ce7d3f9ffa",
+          "sourceBodyHash": "sha256:f8572e451edfc640",
+          "translatedAt": "2026-06-29T00:47:38+08:00",
+          "translationLastCommit": "d0305d57",
+          "translationLastModified": "2026-07-24T20:13:33+08:00",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+10 -10"
         },
         "ja": {
           "path": "ja/Music/pop-music-and-golden-melody-awards.md",
@@ -4227,7 +4253,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Music/elephant-gymnastics.md",
+          "translatedFrom": "Music/大象體操.md",
+          "sourceCommitSha": "72b757bac",
+          "sourceContentHash": "sha256:b924c3fdcb2a3347",
+          "sourceBodyHash": "sha256:d8ddf05669c2e6c6",
+          "translatedAt": "2026-06-19T00:37:17+08:00",
+          "translationLastCommit": "a389460e",
+          "translationLastModified": "2026-07-24T19:47:45+08:00",
+          "inferred": false,
+          "footnoteDefs": 56,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -1"
         },
         "ja": {
           "path": "ja/Music/elephant-gymnastics.md",
@@ -13396,7 +13435,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Technology/tasa-taiwan-space-agency.md",
+          "translatedFrom": "Technology/國家太空中心.md",
+          "sourceCommitSha": "31a05c44",
+          "sourceContentHash": "sha256:a54685fba76c9f68",
+          "sourceBodyHash": "sha256:5ca31c80049b9985",
+          "translatedAt": "2026-06-14T00:35:00+08:00",
+          "translationLastCommit": "26a727c9",
+          "translationLastModified": "2026-07-24T15:47:25+08:00",
+          "inferred": false,
+          "footnoteDefs": 72,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+4 -4"
         },
         "ja": {
           "path": "ja/Technology/tasa-taiwan-space-agency.md",
@@ -18842,13 +18894,46 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/taiwan-semiconductor-industry.md",
+          "translatedFrom": "Technology/半導體產業.md",
+          "sourceCommitSha": "c85a9b6f7",
+          "sourceContentHash": "sha256:b496186c7d76e85e",
+          "sourceBodyHash": "sha256:3bf42ee02082c616",
+          "translatedAt": "2026-07-27T09:40:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/taiwan-semiconductor-industry.md",
+          "translatedFrom": "Technology/半導體產業.md",
+          "sourceCommitSha": "c85a9b6f7",
+          "sourceContentHash": "sha256:b496186c7d76e85e",
+          "sourceBodyHash": "sha256:3bf42ee02082c616",
+          "translatedAt": "2026-07-27T09:40:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/taiwan-semiconductor-industry.md",
+          "translatedFrom": "Technology/半導體產業.md",
+          "sourceCommitSha": "c85a9b6f7",
+          "sourceContentHash": "sha256:b496186c7d76e85e",
+          "sourceBodyHash": "sha256:3bf42ee02082c616",
+          "translatedAt": "2026-07-27T09:40:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -21980,7 +22065,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Art/mountain-makers-tsmc-documentary.md",
+          "translatedFrom": "Art/造山者世紀的賭注.md",
+          "sourceCommitSha": "349e7b4fa",
+          "sourceContentHash": "sha256:6be45e1cb9e9d665",
+          "sourceBodyHash": "sha256:e381e9da7e6b89c3",
+          "translatedAt": "2026-06-17T01:18:25+08:00",
+          "translationLastCommit": "794bb18c",
+          "translationLastModified": "2026-07-24T19:19:39+08:00",
+          "inferred": false,
+          "footnoteDefs": 49,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+18 -18"
         },
         "ja": {
           "path": "ja/Art/mountain-makers-tsmc-documentary.md",
@@ -27761,8 +27859,8 @@
           "sourceContentHash": "sha256:beaa2c8eefc377c5",
           "sourceBodyHash": "sha256:7b8c052d67180597",
           "translatedAt": "2026-06-26T00:40:00+08:00",
-          "translationLastCommit": "f797335b",
-          "translationLastModified": "2026-07-24T18:52:59+08:00",
+          "translationLastCommit": "ec949e79",
+          "translationLastModified": "2026-07-27T09:54:48+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "stale",
@@ -38439,7 +38537,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/chinese-taipei.md",
+          "translatedFrom": "Society/中華台北.md",
+          "sourceCommitSha": "bbd8788a3",
+          "sourceContentHash": "sha256:177fea3750c80f10",
+          "sourceBodyHash": "sha256:dab437d622fd59b0",
+          "translatedAt": "2026-07-27T09:40:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -50573,8 +50682,8 @@
           "sourceContentHash": "sha256:da94b8581c1d756d",
           "sourceBodyHash": "sha256:882ec45fed78d371",
           "translatedAt": "2026-05-01T12:53:58+08:00",
-          "translationLastCommit": "d23e4372",
-          "translationLastModified": "2026-07-24T18:27:02+08:00",
+          "translationLastCommit": "ec949e79",
+          "translationLastModified": "2026-07-27T09:54:48+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "stale",
@@ -60705,7 +60814,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/lu-guan-wei-junyiacademy-founder.md",
+          "translatedFrom": "People/呂冠緯.md",
+          "sourceCommitSha": "bb411ee0",
+          "sourceContentHash": "sha256:cb74fb52bd858441",
+          "sourceBodyHash": "sha256:ede8a39e93d2585c",
+          "translatedAt": "2026-06-17T01:18:25+08:00",
+          "translationLastCommit": "26a727c9",
+          "translationLastModified": "2026-07-24T15:47:25+08:00",
+          "inferred": false,
+          "footnoteDefs": 51,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+15 -15"
         },
         "ja": {
           "path": "ja/People/lu-guan-wei-junyiacademy-founder.md",
@@ -77020,8 +77142,8 @@
           "sourceContentHash": "sha256:0041e835fb3d1348",
           "sourceBodyHash": "sha256:1a8cebcb1382c71d",
           "translatedAt": "2026-06-20T00:37:13+08:00",
-          "translationLastCommit": "8a1fb7a3",
-          "translationLastModified": "2026-07-24T16:50:38+08:00",
+          "translationLastCommit": "ec949e79",
+          "translationLastModified": "2026-07-27T09:54:48+08:00",
           "inferred": false,
           "footnoteDefs": 37,
           "status": "stale",
@@ -79188,18 +79310,16 @@
         "pt": {
           "path": "pt/People/cheng-wen-chi.md",
           "translatedFrom": "People/鄭文琦.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:0e9e8f5ed7e1d87b",
-          "sourceBodyHash": "sha256:7cc12241a8e54299",
-          "translatedAt": "2026-07-25T12:45:42+08:00",
+          "sourceCommitSha": "64d9ae569",
+          "sourceContentHash": "sha256:c3100aba8df85cb7",
+          "sourceBodyHash": "sha256:fa74581434f67fac",
+          "translatedAt": "2026-07-27T09:40:32+08:00",
           "translationLastCommit": "64d9ae56",
           "translationLastModified": "2026-07-26T08:48:38+08:00",
           "inferred": false,
           "footnoteDefs": 20,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/cheng-wen-chi.md",
@@ -107717,18 +107837,16 @@
         "en": {
           "path": "en/Culture/culinary-class-wars-in-taiwan.md",
           "translatedFrom": "Culture/黑白大廚在台灣.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:31883f60285a57e2",
-          "sourceBodyHash": "sha256:bf7679056e96cbe1",
-          "translatedAt": "2026-06-11T16:38:12Z",
+          "sourceCommitSha": "44bdf7162",
+          "sourceContentHash": "sha256:158a36dc208ac1d9",
+          "sourceBodyHash": "sha256:7e1fc8eb24498ac3",
+          "translatedAt": "2026-07-27T09:40:31+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Culture/culinary-class-wars-in-taiwan.md",
