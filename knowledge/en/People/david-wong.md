@@ -1,14 +1,14 @@
 ---
 title: 'David Wong: A Song Written in Two or Three Hours, and a Lifetime Spent Trying to Forget It'
 description: "In a Honolulu arena in 1979, 15-year-old David Wong watched a heavy metal concert, went home, and taught himself on a guitar his teacher had given him. He spoke little Chinese; through lyricists Yao Ruo-long and Chen Chia-li, he translated his feelings into song, building a career from scratch in Mandopop with a raspy voice. “You Made Me Drunk” was written in two or three hours, yet he spent the rest of his life trying to forget it. He habitually called Chang Hsueh-liang “grandfather,” though by lineage he was in fact Chang's grand-nephew. He spent his life trying to escape being defined by family background and one divine hit, yet the world remembered him through those two things alone."
-date: '2026-06-19'
+date: 2026-06-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '音樂'
 tags:
   ['Music', 'singer-songwriter', 'music producer', 'Mandopop', 'rock', 'soul']
 readingTime: 14
-lastVerified: '2026-06-19'
+lastVerified: 2026-06-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/黃大煒.md'

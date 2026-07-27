@@ -22,6 +22,7 @@ sourceCommitSha: '879ed9e77'
 sourceContentHash: 'sha256:54da57abafa311d1'
 sourceBodyHash: 'sha256:eb1efaa0a4f468ff'
 translatedAt: '2026-07-25T19:44:55+08:00'
+readingTime: 12
 ---
 
 # 台湾の金融テクノロジー（FinTech）の発展

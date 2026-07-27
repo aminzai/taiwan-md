@@ -16,7 +16,7 @@ tags:
     '森丑之助',
     '林文安',
   ]
-lastVerified: 2026-05-16
+lastVerified: 2026-07-25
 lastHumanReview: true
 featured: false
 translatedFrom: 'Nature/台灣山岳與登山文化.md'

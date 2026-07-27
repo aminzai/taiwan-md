@@ -15,7 +15,7 @@ tags:
   ]
 subcategory: '山岳與登山'
 category: 'Nature'
-lastVerified: 2026-05-16
+lastVerified: 2026-07-25
 lastHumanReview: true
 translatedFrom: 'Nature/台灣山岳與登山文化.md'
 sourceCommitSha: 'd6e87d07'
