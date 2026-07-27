@@ -675,7 +675,14 @@ def main() -> int:
         })
         if issues:
             failed.append(i)
-            new_tr_chapter_lines[i] = None
+            # 2026-07-27：失敗章節保留舊譯片段（跟「未改動章節」同一種切片），
+            # 不再讓一章否決整篇。實測 exit=1 佔失敗 34%，且集中在「## 參考資料」
+            # ——腳註定義密集、中文書目最多、模型最容易翻壞的那一章，卻讓它一票
+            # 否決其餘七章已翻好的內容。局部失敗導致全域丟棄是同日第四次現形
+            # （armor token / patch abort / …），處置一律改成「保住能保的」。
+            # 該章維持舊內容 = 局部 stale，仍遠好於整篇不寫；最終品質由
+            # dispatcher 的 verify trio 把關，不過就 HEAD-restore。
+            new_tr_chapter_lines[i] = tr_body_lines[tr_chapters[i]["start"]:tr_chapters[i]["end"]]
         else:
             is_last = (i == len(tr_chapters) - 1)
             out_lines = out.strip("\n").split("\n")
@@ -684,8 +691,17 @@ def main() -> int:
     metrics["phases"]["chapters"] = {"elapsed_s": round(time.time() - t0, 1), "failed": failed}
     print(f"  chapters: {metrics['phases']['chapters']['elapsed_s']}s, {len(failed)} failed")
 
+    # 全部章節都失敗 = 這次 patch 一無所獲，寫出去只是把舊譯原樣覆蓋，
+    # 白白刷新 sourceSha 讓 stale 假裝被清掉——那才是真正該中止的情況。
+    if failed and len(failed) == len(tr_chapters):
+        print(f"❌ 全部 {len(failed)} 個章節都失敗 — aborting, no write")
+        for c in metrics["chapters"]:
+            if c["index"] in failed:
+                print(f"   ✗ [{c['index']}] {(c['heading'] or '(intro)').strip()}: {c['issues']}")
+        return 1
+
     if failed:
-        print(f"❌ {len(failed)} chapter(s) failed translation/validation after retries — aborting, no write")
+        print(f"⚠️  {len(failed)}/{len(tr_chapters)} 章失敗 — 該章保留舊譯，其餘照常更新")
         # 2026-07-27：production log 只印「N chapter(s) failed」，看不出是哪一項
         # 判準擋的（footnote ref set / cjk-leak / ratio band / URL mismatch），
         # 每次要診斷都得另外寫腳本重跑一次——補印最後一次 attempt 的 issues，
@@ -694,7 +710,7 @@ def main() -> int:
             if c["index"] in failed:
                 heading = (c["heading"] or "(intro)").strip()
                 print(f"   ✗ [{c['index']}] {heading}: {c['issues']}")
-        return 1
+        # 不 return——保住其餘章節的成果，往下正常組裝與驗證。
 
     new_body_lines = [l for chunk in new_tr_chapter_lines for l in chunk]  # type: ignore[union-attr]
 
