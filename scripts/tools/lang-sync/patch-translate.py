@@ -643,6 +643,8 @@ def main() -> int:
 
     new_tr_chapter_lines: list[list[str] | None] = [None] * len(tr_chapters)
     failed: list[int] = []
+    # 失敗且「不能只保留舊譯」的章節（腳註定義區——見下方耦合說明）
+    fatal_failed: list[int] = []
     t0 = time.time()
     for i in range(len(tr_chapters)):
         if i not in touched_idx:
@@ -682,7 +684,15 @@ def main() -> int:
             # （armor token / patch abort / …），處置一律改成「保住能保的」。
             # 該章維持舊內容 = 局部 stale，仍遠好於整篇不寫；最終品質由
             # dispatcher 的 verify trio 把關，不過就 HEAD-restore。
-            new_tr_chapter_lines[i] = tr_body_lines[tr_chapters[i]["start"]:tr_chapters[i]["end"]]
+            old_slice = tr_body_lines[tr_chapters[i]["start"]:tr_chapters[i]["end"]]
+            new_tr_chapter_lines[i] = old_slice
+            # ……但章節之間不是獨立的：腳註是跨章節耦合（定義集中在參考資料章，
+            # 引用散在全篇）。保留舊的定義區、其餘章節更新了引用，兩邊就對不上,
+            # 必被 verify 的 footnote count 擋掉——2026-07-27 首次觸發即實證
+            # （en/Nature/taiwan-mountains-and-hiking-culture.md）。這種章節失敗
+            # 沒有「局部保留」這個選項，只能整篇重翻。
+            if any(FN_DEF_RE.match(l) for l in old_slice):
+                fatal_failed.append(i)
         else:
             is_last = (i == len(tr_chapters) - 1)
             out_lines = out.strip("\n").split("\n")
@@ -693,6 +703,14 @@ def main() -> int:
 
     # 全部章節都失敗 = 這次 patch 一無所獲，寫出去只是把舊譯原樣覆蓋，
     # 白白刷新 sourceSha 讓 stale 假裝被清掉——那才是真正該中止的情況。
+    if fatal_failed:
+        print(f"❌ 失敗章節含腳註定義（{len(fatal_failed)} 章）— 局部保留會讓引用對不上定義，"
+              f"整篇 fallback 全文重翻")
+        for c in metrics["chapters"]:
+            if c["index"] in fatal_failed:
+                print(f"   ✗ [{c['index']}] {(c['heading'] or '(intro)').strip()}: {c['issues']}")
+        return 2   # 2 = 不適合 patch，呼叫端 fallback 全文重翻（見檔頭 Exit codes）
+
     if failed and len(failed) == len(tr_chapters):
         print(f"❌ 全部 {len(failed)} 個章節都失敗 — aborting, no write")
         for c in metrics["chapters"]:
