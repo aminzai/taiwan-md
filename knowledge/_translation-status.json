@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-27T10:00:57+08:00",
-    "zhCommitHead": "39d8f12e2",
+    "lastUpdated": "2026-07-27T10:05:35+08:00",
+    "zhCommitHead": "efa1ff7e8",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -20,9 +20,9 @@
       "en": {
         "total_zh": 869,
         "fresh": 723,
-        "stale": 115,
+        "stale": 116,
         "metadata_stale": 2,
-        "missing": 29,
+        "missing": 28,
         "orphan": 0
       },
       "ja": {
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 869,
-        "fresh": 360,
+        "fresh": 362,
         "stale": 10,
         "metadata_stale": 1,
-        "missing": 498,
+        "missing": 496,
         "orphan": 0
       },
       "pt": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 474,
+        "fresh": 475,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 394,
+        "missing": 393,
         "orphan": 0
       }
     },
@@ -1017,8 +1017,8 @@
           "sourceContentHash": "sha256:0380d6db1f823bf1",
           "sourceBodyHash": "sha256:bd48e5c9c0054342",
           "translatedAt": "2026-06-20T01:01:36+08:00",
-          "translationLastCommit": "de02c26b",
-          "translationLastModified": "2026-07-24T14:46:20+08:00",
+          "translationLastCommit": "50069495",
+          "translationLastModified": "2026-07-27T10:01:15+08:00",
           "inferred": false,
           "footnoteDefs": 58,
           "status": "stale",
@@ -4151,8 +4151,8 @@
           "sourceContentHash": "sha256:b00d48ce7d3f9ffa",
           "sourceBodyHash": "sha256:f8572e451edfc640",
           "translatedAt": "2026-06-29T00:47:38+08:00",
-          "translationLastCommit": "d0305d57",
-          "translationLastModified": "2026-07-24T20:13:33+08:00",
+          "translationLastCommit": "50069495",
+          "translationLastModified": "2026-07-27T10:01:15+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "stale",
@@ -4259,8 +4259,8 @@
           "sourceContentHash": "sha256:b924c3fdcb2a3347",
           "sourceBodyHash": "sha256:d8ddf05669c2e6c6",
           "translatedAt": "2026-06-19T00:37:17+08:00",
-          "translationLastCommit": "a389460e",
-          "translationLastModified": "2026-07-24T19:47:45+08:00",
+          "translationLastCommit": "50069495",
+          "translationLastModified": "2026-07-27T10:01:15+08:00",
           "inferred": false,
           "footnoteDefs": 56,
           "status": "stale",
@@ -13441,8 +13441,8 @@
           "sourceContentHash": "sha256:a54685fba76c9f68",
           "sourceBodyHash": "sha256:5ca31c80049b9985",
           "translatedAt": "2026-06-14T00:35:00+08:00",
-          "translationLastCommit": "26a727c9",
-          "translationLastModified": "2026-07-24T15:47:25+08:00",
+          "translationLastCommit": "50069495",
+          "translationLastModified": "2026-07-27T10:01:15+08:00",
           "inferred": false,
           "footnoteDefs": 72,
           "status": "stale",
@@ -22071,8 +22071,8 @@
           "sourceContentHash": "sha256:6be45e1cb9e9d665",
           "sourceBodyHash": "sha256:e381e9da7e6b89c3",
           "translatedAt": "2026-06-17T01:18:25+08:00",
-          "translationLastCommit": "794bb18c",
-          "translationLastModified": "2026-07-24T19:19:39+08:00",
+          "translationLastCommit": "50069495",
+          "translationLastModified": "2026-07-27T10:01:15+08:00",
           "inferred": false,
           "footnoteDefs": 49,
           "status": "stale",
@@ -38551,7 +38551,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/chinese-taipei.md",
+          "translatedFrom": "Society/中華台北.md",
+          "sourceCommitSha": "bbd8788a3",
+          "sourceContentHash": "sha256:177fea3750c80f10",
+          "sourceBodyHash": "sha256:dab437d622fd59b0",
+          "translatedAt": "2026-07-27T09:40:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -43704,7 +43715,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Nature/taiwan-mountains-and-hiking-culture.md",
+          "translatedFrom": "Nature/台灣山岳與登山文化.md",
+          "sourceCommitSha": "6d3808267",
+          "sourceContentHash": "sha256:578491ed43f8d7d0",
+          "sourceBodyHash": "sha256:be3b3f9150c7c64e",
+          "translatedAt": "2026-07-27T09:40:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -60820,8 +60842,8 @@
           "sourceContentHash": "sha256:cb74fb52bd858441",
           "sourceBodyHash": "sha256:ede8a39e93d2585c",
           "translatedAt": "2026-06-17T01:18:25+08:00",
-          "translationLastCommit": "26a727c9",
-          "translationLastModified": "2026-07-24T15:47:25+08:00",
+          "translationLastCommit": "50069495",
+          "translationLastModified": "2026-07-27T10:01:15+08:00",
           "inferred": false,
           "footnoteDefs": 51,
           "status": "stale",
@@ -84587,7 +84609,20 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Food/taiwan-food-overview.md",
+          "translatedFrom": "Food/台灣美食總覽.md",
+          "sourceCommitSha": "bb411ee0",
+          "sourceContentHash": "sha256:5170de2db0a4b0df",
+          "sourceBodyHash": "sha256:9da2f70ce1ba4f1f",
+          "translatedAt": "2026-06-22T00:30:00+08:00",
+          "translationLastCommit": "f797335b",
+          "translationLastModified": "2026-07-24T18:52:59+08:00",
+          "inferred": false,
+          "footnoteDefs": 70,
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+7 -7"
         },
         "ja": {
           "path": "ja/Food/taiwan-food-overview.md",
@@ -107919,7 +107954,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Culture/culinary-class-wars-in-taiwan.md",
+          "translatedFrom": "Culture/黑白大廚在台灣.md",
+          "sourceCommitSha": "44bdf7162",
+          "sourceContentHash": "sha256:158a36dc208ac1d9",
+          "sourceBodyHash": "sha256:7e1fc8eb24498ac3",
+          "translatedAt": "2026-07-27T09:40:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Culture/culinary-class-wars-in-taiwan.md",
