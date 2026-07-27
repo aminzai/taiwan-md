@@ -63,7 +63,7 @@ IG가 점점 무거워지는 가운데, Threads(대만 별명 「脆」)가 2024
 **더 읽기:**
 
 - [Facebook: 도둑맞은 밭에서 디지털 민주주의의 양면까지](/ko/technology/facebook-in-taiwan) — IG의 모회사 Meta가 대만에서 벌이는 또 다른 전선. 2009년 《해피팜》부터 2025년 검열 논란까지, Meta의 대만 전략을 이해하기 위한 필수 배경.
-- [대만의 Threads](/technology/Threads在台灣) — IG의 「脆」 분신. 2024년 대만에서 제로에서 3대 플랫폼으로 폭발한 과정과 IG와의 공생 및 경쟁 관계.
+- [대만의 Threads](/ko/technology/threads-in-taiwan) — IG의 「脆」 분신. 2024년 대만에서 제로에서 3대 플랫폼으로 폭발한 과정과 IG와의 공생 및 경쟁 관계.
 - [대만 온라인 커뮤니티 이주사](/ko/technology/taiwan-online-community-migration) — BBS, 無名(무명), 플룻(噗浪)에서 페이스북, IG, Threads까지, 대만 네트워크 사용자들의 집단 이동사. IG 하락 세장의 장기적 관점에서 이해하기 위한 글.
 
 ## 참고 자료
