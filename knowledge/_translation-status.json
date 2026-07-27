@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-28T06:28:26+08:00",
-    "zhCommitHead": "d99a4e401",
+    "lastUpdated": "2026-07-28T06:43:14+08:00",
+    "zhCommitHead": "c3b83d05f",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -59,34 +59,34 @@
       },
       "vi": {
         "total_zh": 869,
-        "fresh": 282,
+        "fresh": 283,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 581,
+        "missing": 580,
         "orphan": 0
       },
       "id": {
         "total_zh": 869,
-        "fresh": 388,
+        "fresh": 389,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 480,
+        "missing": 479,
         "orphan": 0
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 610,
+        "fresh": 612,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 253,
+        "missing": 251,
         "orphan": 0
       },
       "hi": {
         "total_zh": 869,
-        "fresh": 456,
+        "fresh": 457,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 413,
+        "missing": 412,
         "orphan": 0
       },
       "ar": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 505,
+        "fresh": 506,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 364,
+        "missing": 363,
         "orphan": 0
       }
     },
@@ -6181,7 +6181,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/pxmart-supermarket.md",
+          "translatedFrom": "Economy/全聯福利中心.md",
+          "sourceCommitSha": "50617dc14",
+          "sourceContentHash": "sha256:25424dad4bf389f3",
+          "sourceBodyHash": "sha256:cf4e3b7d187326d2",
+          "translatedAt": "2026-07-28T06:15:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -10053,8 +10064,8 @@
           "sourceContentHash": "sha256:65e816ddedfe54f1",
           "sourceBodyHash": "sha256:abefead0dde8fee7",
           "translatedAt": "2026-07-28T03:07:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3b83d05",
+          "translationLastModified": "2026-07-28T06:28:27+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -28221,8 +28232,8 @@
           "sourceContentHash": "sha256:241f6e09e82258d9",
           "sourceBodyHash": "sha256:8b4f70704fe27d7e",
           "translatedAt": "2026-07-28T03:07:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3b83d05",
+          "translationLastModified": "2026-07-28T06:28:27+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -71686,8 +71697,8 @@
           "sourceContentHash": "sha256:f218c0f6edac6f55",
           "sourceBodyHash": "sha256:bd885df97c7fe1fa",
           "translatedAt": "2026-07-28T06:16:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3b83d05",
+          "translationLastModified": "2026-07-28T06:28:27+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -91686,7 +91697,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/bipartisan-good-policy.md",
+          "translatedFrom": "History/跨黨派的好政策.md",
+          "sourceCommitSha": "e666af3e1",
+          "sourceContentHash": "sha256:05458bb41dd9205e",
+          "sourceBodyHash": "sha256:00c84158a3ec97b2",
+          "translatedAt": "2026-07-28T06:16:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 57,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -95375,7 +95397,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/sanxia-old-street.md",
+          "translatedFrom": "History/三峽老街.md",
+          "sourceCommitSha": "a43cf9153",
+          "sourceContentHash": "sha256:e04661eeed7e83a6",
+          "sourceBodyHash": "sha256:11623780c733bce5",
+          "translatedAt": "2026-07-28T06:15:57+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -95614,7 +95647,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/History/taiwan-elections-and-party-politics.md",
+          "translatedFrom": "History/台灣選舉與政黨政治.md",
+          "sourceCommitSha": "2e0cc381d",
+          "sourceContentHash": "sha256:f462ef48505faa9b",
+          "sourceBodyHash": "sha256:019ea30197aa5f25",
+          "translatedAt": "2026-07-28T05:45:51+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 36,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/History/taiwan-elections-and-party-politics.md",
@@ -95668,8 +95712,8 @@
           "sourceContentHash": "sha256:f462ef48505faa9b",
           "sourceBodyHash": "sha256:019ea30197aa5f25",
           "translatedAt": "2026-07-28T03:07:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3b83d05",
+          "translationLastModified": "2026-07-28T06:28:27+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "status": "fresh",
@@ -101521,7 +101565,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/lienchiang-county.md",
+          "translatedFrom": "Geography/連江縣.md",
+          "sourceCommitSha": "2f3bfdbf7",
+          "sourceContentHash": "sha256:8ae350615e660491",
+          "sourceBodyHash": "sha256:2da5583381fa39ad",
+          "translatedAt": "2026-07-28T06:15:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 39,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -101667,8 +101722,8 @@
           "sourceContentHash": "sha256:1730cee4562e4ee0",
           "sourceBodyHash": "sha256:feab50585a5f02eb",
           "translatedAt": "2026-07-28T03:07:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3b83d05",
+          "translationLastModified": "2026-07-28T06:28:27+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -106650,8 +106705,8 @@
           "sourceContentHash": "sha256:ee59ed48db607f3f",
           "sourceBodyHash": "sha256:26d93e9626e6b86e",
           "translatedAt": "2026-07-28T03:07:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3b83d05",
+          "translationLastModified": "2026-07-28T06:28:27+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -112723,8 +112778,8 @@
           "sourceContentHash": "sha256:69f8f034dcafc5a6",
           "sourceBodyHash": "sha256:f5fbc7ca5aa903a2",
           "translatedAt": "2026-07-28T03:07:49+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c3b83d05",
+          "translationLastModified": "2026-07-28T06:28:27+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -112870,7 +112925,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/taiwan-prime-time-drama.md",
+          "translatedFrom": "Culture/八點檔.md",
+          "sourceCommitSha": "08a8c5ec8",
+          "sourceContentHash": "sha256:c5c6c2825029a48f",
+          "sourceBodyHash": "sha256:f0cb0ab3b5428edc",
+          "translatedAt": "2026-07-28T06:16:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
