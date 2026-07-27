@@ -2,9 +2,7 @@
 title: "Taiwan's Slash Generation — Survival and Choice in a Multi-Job Economy"
 description: "When a master's degree only buys a Taipei studio apartment's rent, slash employment is not a choice; it's a math problem for survival"
 date: 2026-03-29
-author: 'p3nchan'
 category: 'Society'
-subcategory: '世代與社會'
 tags:
   [
     'slash employment',
@@ -13,15 +11,17 @@ tags:
     'housing prices',
     'youth employment',
   ]
-readingTime: 8
+subcategory: '世代與社會'
+author: 'p3nchan'
+featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
-featured: false
+readingTime: 8
 translatedFrom: 'Society/台灣斜槓世代.md'
-sourceCommitSha: 'b6f8b00d8'
-sourceContentHash: 'sha256:f40c65ff14acd5cb'
-sourceBodyHash: 'sha256:7fc8e0dbb23602c5'
-translatedAt: '2026-07-24T14:22:03+08:00'
+sourceCommitSha: '2b1654faa'
+sourceContentHash: 'sha256:06d77e5b551a9ae1'
+sourceBodyHash: 'sha256:1cd85dacd9f6f3a7'
+translatedAt: '2026-07-27T12:35:41.857780+00:00'
 ---
 
 > Taiwan’s young people aged 25–35 are undergoing a survival experiment with no declared start. The median salary has stalled at NT$38,000, while a studio apartment in Taipei starts at NT$14,000. One full-time job is no longer enough, so after work they open delivery apps, rush to take on freelance projects on weekends, and edit videos late at night. This is not a “slash trend”; it is a survival strategy forced by structural困境 (dilemmas).
@@ -46,19 +46,17 @@ How much can a master’s degree improve this? The average starting salary for f
 
 ---
 
-## Delivery Platforms: A Generation’s Airbag
+## Food Delivery Platforms: A Safety Net for a Generation
 
-The number of food delivery workers in Taiwan surged from 45,000 in 2019 to 145,000 in 2022. Tripled in three years.
+The number of food delivery riders in Taiwan surged from 45,000 in 2019 to 145,000 in 2022 — a threefold increase in just three years.
 
-Who are these 145,000 people? According to an analysis of 8,402 resumes with delivery experience by 104 Human Resources Bank, 42.9% of delivery workers started delivering when they were under 24, with many being university students still in school and youth under 29. The median monthly salary is NT$36,000, and the median experience is only 0.9 years: meaning most people leave the job within a year.
+Who are these 145,000 people? According to 104 Job Bank's analysis of 8,402 resumes with food delivery experience, 42.9% of delivery riders started their work before the age of 24, with a large portion being university students and young people under 29. The median monthly income was NT$36,000, and the median work experience was 0.9 years — meaning most people left the job within a year.
 
-Delivery is not a career endpoint; it is a transition. It is an airbag when full-time salaries are insufficient, a cushion when graduates cannot find ideal jobs.
+Food delivery is not a career endpoint, but a transition. It serves as a safety net when regular salaries are insufficient, and as a cushion when ideal jobs are hard to find after graduation.
 
-In January 2026, the Legislative Yuan passed the _Food Delivery Worker Rights Protection and Food Delivery Platform Management Act_ in its third reading, stipulating that the basic remuneration for each order must not be less than NT$45, and the hourly wage must not be less than 1.25 times the minimum wage. This is a late institutional patch. Before this, delivery workers had long existed in a gray area of the Labor Standards Act: not formal employment relationships, no labor or health insurance, no occupational injury protection, no base salary. Platforms could unilaterally lower unit prices, leaving delivery workers with no bargaining power.
+On January 2026, the Legislative Yuan passed the _Rider Rights Protection and Food Delivery Platform Management Act_ in a third reading, mandating that the base compensation per order must not be less than NT$45, and the hourly wage must not be less than 1.25 times the minimum wage; it officially took effect at midnight on July 21, 2026 (see [[Special Law for Food Delivery]). This was a long-overdue institutional patch. Before this, food delivery riders had long existed in a gray area under labor laws — not considered formal employment, without labor insurance, health insurance, occupational injury protection, or a minimum wage. Platforms could unilaterally reduce per-order rates, and riders had no bargaining power.
 
-“Having laws to govern” is indeed progress, but it also illustrates one thing: a work style relied upon by over 100,000 people for their livelihood waited nearly seven years for basic legal protection.
-
----
+While having laws to regulate this sector is undeniably a step forward, it also indirectly highlights a troubling fact: a livelihood for hundreds of thousands of people took nearly seven years to receive basic legal protection.
 
 ## Not Just Delivery: A Spectrum of Side Hustles
 
@@ -136,3 +134,5 @@ Taiwan’s young people chose the latter. But this should not be celebrated. It 
 ---
 
 ## Further Reading
+
+- [Delivery Workers Special Act](/society/外送專法) — What That "Belated Institutional Patch" Has Become: How the 45 New Taiwan Dollar Floor Lands on Real People, and Two Questions It Doesn't Answer

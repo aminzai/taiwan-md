@@ -1,166 +1,142 @@
 ---
-translatedFrom: 'Culture/台灣迷因.md'
-sourceCommitSha: 'f99a9959'
-sourceContentHash: 'sha256:b8e2ae4ba4b5e3d9'
-sourceBodyHash: 'sha256:971e379fee29d9f0'
-translatedAt: '2026-05-01T12:21:52+08:00'
-title: 'When Social Wounds Become Collective Healing: Taiwan Meme Culture as a Social Safety Valve'
-description: "From 'Brother Jie, don't!' to TongShen serving hot pot, Taiwan memes are not just entertainment — they are a sophisticated social pressure-release system that transforms embarrassment, trauma, and anxiety into rituals of collective healing."
+title: 'Taiwanese Memes: 30 Years of Cultural Evolution from PTT to Social Safety Valve'
+description: 'Taiwanese memes are more than internet jokes—they represent a 30-year collective creative experiment. From the linguistic alchemy of PTT anonymous forums to the societal healing of "Jie Ge Bù Yào" and classic cases like "Shàng Bā" and "Pieris", Taiwanese memes have evolved into a unique "social safety valve" mechanism, transforming awkwardness, trauma, and political anxiety into shared cultural symbols.'
 date: 2026-07-23
-tags: ['meme', 'internet culture', 'Taiwan local', 'PTT', 'social media']
-subcategory: 'Internet Culture'
+category: 'Culture'
+tags:
+  [
+    'memes',
+    'internet culture',
+    'PTT',
+    'Komica',
+    'social safety valve',
+    'classic memes',
+  ]
+subcategory: '網路文化'
 author: 'Taiwan.md Contributors'
-readingTime: 12
 featured: false
+readingTime: 12
 lastVerified: 2026-07-23
 lastHumanReview: false
-category: Culture
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+translatedFrom: 'Culture/台灣迷因.md'
+sourceCommitSha: '1b3c22ac7'
+sourceContentHash: 'sha256:21f968d51e24c095'
+sourceBodyHash: 'sha256:758baf07e7746d38'
+translatedAt: '2026-07-27T18:30:12+08:00'
 ---
 
-# When Social Wounds Become Collective Healing: Taiwan Meme Culture as a Social Safety Valve
+> **30-Second Overview:** In 1995, a 486 computer in the male dormitory of National Taiwan University set up PTT, unintentionally opening the prehistoric era of Taiwanese memes. Over thirty years, Taiwanese memes have evolved from subcultural jargon in anonymous discussion boards into social mechanisms for processing collective trauma (e.g., "Jie Ge Bù Yào") and political anxiety. They possess unique "local originality" and "non-confrontational critique," becoming the most delicate pressure valve for Taiwanese society facing systemic stress through classic cases like "Shàng Bā," "Pieris," and "Bù Néng Cè Cè."
 
-> _"Brother Jie, don't!" — a line from a sober public service video about sexual violence, transformed by Taiwanese netizens into an endlessly replayed communal celebration. This is not mockery of victims. It is Taiwan's unique healing mechanism: converting unspeakable pain into laughter that can be shared and borne collectively._
+# Taiwanese Memes: 30 Years of Cultural Evolution from PTT to Social Safety Valve
 
-## Scene Reconstruction: A Fantastical Journey from the Classroom to the Whole Internet
+In 2013, an anti-sexual assault public service announcement by Taiwan's Ministry of Education titled _If Only I Had Known Boys Could Be Sexually Assaulted_ included the line "Jie Ge Bù Yào la." Originally a heavy phrase, it unexpectedly sparked a wave in Taiwan's online communities. This phrase, originally carrying an educational mission, quickly transformed into a long-lasting meme, even surpassing 27 million views on Bilibili by 2021 and being adapted into a Steam game and musical[^1]. This was not mockery of the victim, but a core mechanism of Taiwan's meme culture: transforming unspeakable social pain into laughter that can be collectively shared.
 
-Picture this: In 2012, the Ministry of Education produced a short public service film about sexual assault prevention titled _If Only He Had Known — Boys Get Sexually Assaulted Too_. The line "Brother Jie, don't!" was supposed to carry a grave educational mission. But after the video was uploaded to YouTube in 2013, that sentence began a fantastical journey.
+## Historical Origins: PTT and the Alchemy of Language
 
-Netizens created accelerated versions, condensed versions, even a looping version set to singer Xie Jin-Yan's music. By 2021, when the video was re-uploaded to Bilibili, view counts surpassed 27 million. More remarkably, the meme didn't just live online — it became a musical, and even a Steam game.
+The roots of Taiwanese memes can be traced back to the mid-1990s with PTT (BBS) and the 2005 establishment of Komica (K Island)[^9] [^6]. In these anonymous digital spaces, Taiwanese netizens developed a unique language system, laying the foundation for meme culture:
 
-This was no isolated incident. From "typhoon days are for rafting! What else would you do?" (during Typhoon Lotus in 2015), to the TongShen-serves-hot-pot phishing link frenzy of 2020, to Han Kuo-yu's "get rich" and "poor thing" political gags — Taiwan meme culture reveals a striking phenomenon: **the more embarrassing or traumatic the content, the more easily it becomes material for national celebration**.
+1. **Push Culture**: Creating maximum humor with minimal text, forming early "text memes."
 
-**Curator's Note #1**: _This ability to "turn wounds into light sources" is one of the most fascinating qualities of Taiwanese internet culture. We are not mocking victims — we are using collective creative energy to transform reality that's hard to digest into cultural symbols that can be borne together._
+1. **Homophones and Recontextualization**: For example, "Dingding is a talent" and "What are you shouting about?"[^4], remixing cinematic material out of context.
 
-## From PTT to TikTok: The Evolution of Taiwan Meme Culture
+1. **Collective Intelligence through Anonymity**: K Island's format mimics Japan's 5ch, emphasizing "pure anonymity" for pure creation, complementing PTT's social attribute of "netizen culture"[^2] [^3].
 
-The roots of Taiwan meme culture trace to PTT "netizen" (鄉民) culture. In this anonymous digital space, Taiwanese internet users developed a distinctive language system:
+📝 **Curator's Note #1**: The origin of Taiwanese memes is not visual imagery, but "language." We excel at capturing the rhythm and absurdity of dialogue, refining it into reusable linguistic tools. This explains why many classic memes are closely tied to "sound" or "tone."
 
-- **Reply culture**: maximum comic effect in minimal text
-- **Breaking news tradition**: rapidly transforming social events into collective discussion
-- **Netizen justice**: social critique wrapped in humor
+## Core Characteristics: Why Taiwanese Memes Are "Different"
 
-These cultural genes further evolved in the social media era. Unlike Western memes, which often derive from remixed stock images, Taiwan memes have stronger **local originality** and **social critical edge**:
+Unlike Western memes often derived from "free image macro" (Image Macro), Taiwanese memes showcase strong **local originality** and **social critique**[^4]. They are not merely image collages, but deep responses to the context of Taiwanese society. The following table outlines the characteristics and classic cases of Taiwanese memes in different development stages:
 
-| Western Meme Traits                 | Taiwan Meme Traits                              |
-| ----------------------------------- | ----------------------------------------------- |
-| Image-based remix                   | Language creativity and situational reenactment |
-| Personalized humor expression       | Collective-resonance social commentary          |
-| Entertainment-oriented viral spread | Healing-oriented cultural practice              |
-| Commercially driven trend cycles    | Grassroots organic growth                       |
+| Development Stage                 | Core Platform      | Meme Characteristics                                         | Classic Cases                                     |
+| --------------------------------- | ------------------ | ------------------------------------------------------------ | ------------------------------------------------- |
+| Prehistoric Era (1995-2005)       | PTT / BBS          | Text games, ASCII art                                        | 5566 wins first, 5th floor please give points     |
+| Audiovisual Emergence (2006-2012) | YouTube / K Island | Screenshot remix, audiovisual dialogue挪用                   | Jie Ge Bù Yào, What are you shouting about?       |
+| Community Expansion (2013-2019)   | Facebook / LINE    | Political satire, senior citizen images, current event jokes | Kayu Bo, Fa Da Cai, Poor                          |
+| Platform Evolution (2020-Present) | Threads / IG       | Musical, short videos, life resonance                        | Tong Shen Du Huo, From From Rong Rong You Rong Yu |
 
-**Curator's Note #2**: _Taiwan memes' "sustained staying power" is particularly striking. "Brother Jie, don't!" has been going strong from 2013 to 2026; the Rafting Guy gets resurrected every typhoon. This isn't ordinary "comeback after going stale" — some deep cultural need keeps speaking._
+### 1. **"Teasing Without Targeting": Gentle Radicalism**
 
-## The Counterintuitive Core: Memes as Social Safety Valves
+Taiwanese memes often adopt a special strategy: they point to systemic issues but express them in a non-confrontational way. For example, the "Poor" or "Fa Da Cai" directed at politicians, while satirical, more often dissolves political seriousness into everyday conversation[^3]. This humor allows critique to spread in a relatively harmonious atmosphere.
 
-Here is a counterintuitive observation: **Taiwan memes are not a byproduct of entertainment — they are the primary mechanism of a social safety valve**.
+### 2. **The Pressure-Release Mechanism of the Social Safety Valve**
 
-When society faces the following situations, memes activate automatically:
+This is a counterintuitive perspective: **Taiwanese memes are the main mechanism of the social safety valve**. When the public faces authority failure, media absurdity (e.g., Kayu Bo's nonsensical response to street interviews[^5]), or economic anxiety, memes provide a "harmless prank" space, allowing social pressure to be released without triggering physical conflict[^3].
 
-1. **Authority failure**: outrageous behavior by politicians (the Han Kuo-yu series)
-2. **Educational predicament**: awkward delivery of sexual education films ("Brother Jie, don't!")
-3. **Media absurdity**: nonsensical typhoon-day street interviews (the Rafting Guy)
-4. **Economic anxiety**: helplessness about high housing prices and low wages (PX Mart's "economic aesthetics")
+## Classic Case Analysis: Localization and Social Resonance of Memes
 
-The common thread through these memes is: they all point to **systemic problems** in Taiwanese society, but express dissatisfaction in a **non-confrontational way**.
+The vitality of Taiwanese memes often comes from their precise capture of local events and contexts. The following classic cases show how memes emerge from specific events and resonate widely in society:
 
-Take the TongShen-serves-hot-pot video as an example. This 2020 video became a phishing link frenzy in February 2021, right when Taiwan was amid pandemic anxiety and economic uncertainty. Netizens created the "tricked you into clicking" format as a collective micro-prank — effectively **releasing social pressure through harmless means**.
+### "Hit my Shàng Bā"[^12]
 
-## Taiwan Memes vs. International Memes: Differences in Cultural DNA
+In 2018, a news report by Yuan Shih TV on a "land dispute in Taoyuan" featured an interviewee who excitedly said, "He punched my 'Shàng Bā'." This statement, with its local accent and physiological error, became an internet hit due to its absurdity, becoming a classic phrase to describe unexpected shocks or nonsensical events. It is not just a linguistic misplacement, but reflects the interviewee's genuine emotion and local expression in the news event.
 
-Taiwan meme culture displays several distinctive characteristics in international comparison:
+### "Pieris! Can I keep it as a pet?"[^13]
 
-### 1. Language Creativity Pushed to Extremes
+In 2020, a netizen surnamed Lin, while riding at night, encountered a pangolin and excitedly shouted to a friend, "Hey X! Pieris! Wow!" and "Can I keep it as a pet?" This video, with its genuine and absurd reaction and surprise at Taiwan's endemic protected animal, quickly became a meme. It not only showcases the closeness of the Taiwanese to wildlife, but also humorously touches on the boundary between humans and nature through the question "Can I keep it as a pet?"
 
-Japan prioritizes **perfect execution of detail**, America prefers **visual-impact simplicity**, Taiwan excels at **variation in linguistic rhythm**. "What are you yelling about!" and "Something happened, uncle!" have distinctive phonetic cadence — catchy, emotionally saturated.
+### "Bù Néng Cè Cè"[^14]
 
-### 2. Political Satire: Mild Yet Radical
+In 2021, an image of a Shiba Inu named PONSAN sitting in a shopping cart, looking pitifully labeled "Bù Néng Cè Cè," quickly dominated Hong Kong and Taiwan's internet. This meme transformed the originally negative term "cè cè" into a "cute" expression through the adorable Shiba Inu image, becoming a humorous reminder or self-restraint. It not only led to a Yu-Gi-Oh! style "Cè Cè Card Battle," but also reflects the online community's light-hearted handling of sexual issues and boundary exploration.
 
-Compared to America's direct political attacks, or Japan's self-deprecating comedy, Taiwan memes adopt a **"tease without targeting"** strategy. We'll say Han Kuo-yu is "poor thing," but vicious personal-attack memes are rare.
+### "Something happened, Uncle!"[^11]
 
-### 3. Collective Healing as Cultural Practice
+This meme originated from a video where a citizen, upon witnessing a car accident, urgently shouted to a seemingly elderly passerby, "Something happened, Uncle!" This phrase, with its urgent tone and local "Uncle" address, quickly spread online, becoming a classic phrase to describe sudden situations or remind others to be cautious. It captures the direct and affectionate interaction mode in Taiwanese society, even in emergencies, maintaining a touch of human warmth.
 
-This may be Taiwan memes' most distinctive function. We use memes to process **collective trauma** (the FTX "buy the dip" gag), **social anxiety** (housing price memes), **generational conflict** ("young people don't work hard" series).
+📝 **Curator's Note #2**: The "heat endurance" of Taiwanese memes is particularly surprising. Many memes are continuously reshaped after years, not just a simple "comeback after being outdated," but a deeper cultural need continuously speaking out, reinterpreting social issues through memes.
 
-**Curator's Note #3**: _If American memes are "individual expression," and Japanese memes are "group harmony," then Taiwan memes are "collective therapy." We're not just producing punchlines — we're conducting a kind of cultural psychotherapy._
+## Cultural Function: From Trauma to Healing
 
-## 2024-2026 Latest Trends: Visualization Moving from Static to Dynamic
+The most unique aspect of Taiwanese memes lies in their ability to handle **collective trauma**. The "Tong Shen Du Huo" phishing link that went viral in 2020, during a period of pandemic tension and increased economic uncertainty, created a collective synchronous sense among netizens across Taiwan through a small prank of "fake link clicking"[^2]. This "we were all tricked" resonance subtly dissolved the sense of isolation in real life.
 
-In recent years, Taiwan meme culture has seen new trends:
+## The Dark Side of Memes: The Thin Line from Healing to Division
 
-### The Rise of Musicalized Memes
+Although Taiwanese memes have strong healing and social functions, their development also carries potential risks. The entertainment nature of memes may lead to **issue drift**, shifting public attention from policy issues that should be discussed to fragmented information, masking the seriousness of the problems[^3]. In addition, social media algorithms may reinforce **echo chamber effects**, exacerbating social divisions rather than promoting understanding. When memes are over-commercialized, they may also lose their original healing function, becoming mere consumer symbols[^3].
 
-- Thinman E.SO's "Watch out, there's a car behind you!" went viral for its dramatic flair
-- TikTok short video format pushed meme "musicalization"
-- Shift from static images to dynamic video-audio
+## Conclusion: Memes as a Mirror of Taiwanese Culture
 
-### Cross-Generational Meme Inheritance
-
-- PX Mart spokesperson Qiu Yan-Xiang's evolution from "economic aesthetics" to a hip-hop "PX e-commerce guy" persona
-- Classic memes getting "reinterpreted" on new platforms ("Brother Jie, don't!" as a musical)
-
-### Social Issues Meme-ified at Accelerating Speed
-
-- Political events (the Ko Wen-je university commencement controversy) rapidly generating meme material
-- Internet celebrities like Chicken Cutlet Sister becoming meme "production machines"
-
-## Why Are Taiwanese Especially Good at Making the Serious Funny?
-
-This phenomenon has deep cultural roots:
-
-### The Creative Resilience of Island Character
-
-As an island culture, Taiwan has long lived amid **multi-cultural conflict** and **external pressure**. We developed a survival wisdom of **"everything can be made fun of,"** using humor as a **cultural buffer**.
-
-### A Byproduct of Democratization
-
-In post-Martial Law Taiwan, "daring to make fun of authority" became an important marker of democratization. Meme culture is to some extent a **daily practice of democratic literacy** — questioning power through satire rather than revolution.
-
-### Collective Creation by Digital Natives
-
-The "collective wisdom" cultivated by the PTT generation made Taiwanese netizens especially skilled at **relay creation**. A meme keeps evolving in different netizens' hands, ultimately becoming a cultural product that transcends the original.
-
-## The Dark Side of Memes: The Fine Line from Healing to Division
-
-However, meme culture also has its risks:
-
-### The Problem of Issue Drift
-
-As PTS+ analysis points out, memes "often redirect public attention and discourse away from policy issues that deserve civic discussion, toward more fragmentary information." The entertainment function can mask the severity of problems.
-
-### Reinforcement of the Echo Chamber Effect
-
-Social media algorithms let memes form "echo chamber effects" within specific groups, potentially deepening social division rather than promoting understanding.
-
-### The Risk of Commercial Trauma
-
-When memes are over-commercialized, they may lose their original healing function and become purely consumable symbols.
-
-## Conclusion: Memes as a Mirror of Taiwan Culture
-
-Taiwan meme culture reflects the complexity of our society: abundant creativity alongside avoidance tendencies; collective wisdom alongside structural problems.
-
-But most importantly, it proves a distinctive capacity Taiwanese people have when facing adversity: **transforming wounds into light sources, sublimating individual pain into collective healing**. In this sense, "Brother Jie, don't!" is not just a meme — it is a microcosm of Taiwan's social emotional mechanism. We use shared laughter to bear shared vulnerability.
+Looking back over thirty years, Taiwanese meme culture reflects the complexity of this island. It is both a creative outburst and a sublimation of helplessness toward structural issues. From PTT's pure text pushes to today's Threads short videos, the form changes, but the core remains the same: **we use shared laughter to bear shared vulnerability**. In this sense, memes are not just internet jokes; they are the gentlest and most humorous resistance of the Taiwanese people when facing difficulties.
 
 ---
 
 ## Further Reading
 
-- [Ma Ying-jeou Memes](/en/society/ma-ying-jeou-meme) — A single case study of political figure memes: how 19 memes accumulated into a former president's second public face
-- [Grandparent Images (長輩圖)](/en/culture/elder-greeting-images) — Another meme propagation pathway under LINE group ecology
-- [PTT BBS](/en/technology/ptt-bulletin-board-system) — The originating platform for most political memes
-- [Taiwan VTuber](/en/culture/taiwan-vtuber) — Cultural extensions from meme to virtual idol
+- [PTT BBS](/en/technology/ptt-bulletin-board-system) — The birthplace of most Taiwanese memes and netizen culture
+
+- [Ma Ying-jeou Memes](/en/society/ma-ying-jeou-meme) — A classic case study of political figure meme-ification
+
+- [Senior Citizen Images](/en/culture/elder-greeting-images) — Another unique Taiwanese-style online dissemination path
+
+- [Taiwan VTuber](/en/culture/taiwan-vtuber) — Contemporary fusion of virtual characters and meme culture
 
 ---
 
 ## References
 
-1. ["Brother Jie, Don't!" — Exploring Social Attitudes Toward Male Sexual Assault Through Meme Phenomena — Newtalk News](https://newtalk.tw/citizen/view/57727) (2021)
-2. [TongShen Serves Hot Pot — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%B5%B1%E7%A5%9E%E7%AB%AF%E7%81%AB%E9%8D%8B) (2023)
-3. [What Are the Features of Taiwan's Internet Community Meme Culture? — PTS+ Points of View](https://issues.ptsplus.tv/articles/1591/) (2024)
-4. [Meme Culture Special 03: "What Are You Yelling About!" — Meme Culture in Taiwan — DQ Earth Atlas](https://dq.yam.com/post/13088) (2021)
-5. [Zhang Ji-Yin (Rafting Guy) — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%BC%B5%E5%90%89%E5%90%9F) (2025)
-6. [Qiu Yan-Xiang (PX Mart Guy) — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%82%B1%E5%BD%A5%E7%BF%94) (2025)
-7. [One-Second Test: Are You a Real Netizen? 2025 Top 10 Social Memes — United Daily News](https://udn.com/news/story/7266/8933160) (2025)
-8. [Taiwan Memes I — Cultivate Meme](https://cultivatememe.moe/taiwan1.html) (2020)
-9. [Netizens 1: Netizens Are So Mean and Scary — Is PTT Netizen Culture Hard to Approach? — Shih Hsin University School of Journalism](https://shuj.shu.edu.tw/blog/2020/06/29/) (2020)
-10. [What Is a Meme? Can You Eat It? — Analysis of What Goes Viral with the New Generation — UDN Gaming Corner](https://game.udn.com/game/story/10455/3763286) (2021)
+[^1]: ["Jie Ge Bù Yào!" Exploring Society's Attitude Toward Male Sexual Assault Through the Meme Phenomenon. (2021). Newtalk News](https://newtalk.tw/citizen/view/57727) — See original link for additional data
+
+[^2]: [Tong Shen Du Huo. (2023). Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%B5%B1%E7%A5%9E%E7%AB%AF%E7%81%AB%E9%8D%8B) — Wikipedia entry: Wikipedia entry
+
+[^3]: [What Are the Characteristics of Meme Culture in Taiwanese Online Communities? (2024). PTS+ Different Views](https://issues.ptsplus.tv/articles/1591/) — See original link for additional data
+
+[^4]: [Meme Special Topic 03: "What Are You Shouting About!" Meme Culture in Taiwan. (2021). DQ Earth Atlas Team](https://dq.yam.com/post/13088) — See original link for additional data
+
+[^5]: [Zhang Ji Yin (Kayu Bo). (2025). Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%90%89%E5%90%9F) — Wikipedia entry: Wikipedia entry
+
+[^6]: [Komica. (2024). Wikipedia](https://zh.wikipedia.org/zh-hant/Komica) — Wikipedia entry: Wikipedia entry
+
+[^7]: [The Origin and Spread of Memes in Taiwan. (2020). Shih Hsin University School of Journalism](https://shuj.shu.edu.tw/blog/2020/06/29/%E8%BF%B7%E5%9B%A0%E7%9A%84%E8%B5%B7%E6%BA%90%E8%88%87%E5%9C%A8%E5%8F%B0%E7%81%A3%E7%9A%84%E6%93%B4%E6%95%A3/) — See original link for additional data
+
+[^8]: [Netizen 1: Netizens Are Too Fierce and Scary—Why Is PTT Netizen Culture Hard to Approach? (2020). Shih Hsin University School of Journalism](https://shuj.shu.edu.tw/blog/2020/06/29/) — See original link for additional data
+
+[^9]: [What Is a "Meme"? (2023). Newm App Blog](https://www.newm.app/blog/e7a60864e3b) — See original link for additional data
+
+[^10]: [Case Collection and Analysis of Internet Meme Phenomena. (2021). Artech Interpreter](https://medium.com/artech-interpreter/%E7%B6%B2%E8%B7%AF%E7%9A%84%E8%BF%B7%E5%9B%A0%E7%8F%BE%E8%B1%A1%E4%B9%8B%E6%A1%88%E4%BE%8B%E6%94%B6%E9%9B%86%E8%88%87%E5%88%86%E6%9E%90-c9879a8eddef) — See original link for additional data
+
+[^11]: ["Something Happened, Uncle." (2023). Taiwan Meme Dictionary](https://itshsinyu.github.io/TWmeme/category.html) — See original link for additional data
+
+[^12]: [Meme Origin Episode 2: #Shangba Originated from March 25, 2018, Yuan Shih News Report on "Taoyuan Land Dispute Incident." (2024). YouTube](https://www.youtube.com/shorts/_cJeDzWYyRc) — YouTube video record
+
+[^13]: ["Hey X! Pieris!" Part 2! Meme Creator Becomes Warmhearted Man Escorting Across the Street. (2021). Liberty Times](https://news.ltn.com.tw/news/novelty/breakingnews/3454280) — Liberty Times report: Liberty Times report
+
+[^14]: ["Bù Néng Cè Cè" Meme Complete Origin | How Shiba Inu Expressions Conquered Hong Kong and Taiwan's Internet. (2023). Hong Kong Financial News](https://www.hongkongfinancenews.com/%E8%89%B2%E8%89%B2/) — See original link for additional data

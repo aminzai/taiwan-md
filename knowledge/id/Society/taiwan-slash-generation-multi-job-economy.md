@@ -2,19 +2,19 @@
 title: 'Generasi Slash di Taiwan — Bertahan Hidup dan Pilihan dengan Banyak Pekerjaan'
 description: "Ketika gelar magister hanya bisa ditukar dengan biaya sewa studio di Taipei, menjadi 'slash' bukanlah pilihan, melainkan soal matematika untuk bertahan hidup."
 date: 2026-03-29
-author: 'p3nchan'
 category: 'Society'
-subcategory: 'Generasi dan Masyarakat'
 tags: ['Slash', 'Ekonomi Gig', 'Gaji', 'Harga Properti', 'Pengangguran Pemuda']
-readingTime: 8
+subcategory: 'Generasi dan Masyarakat'
+author: 'p3nchan'
+featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
-featured: false
+readingTime: 8
 translatedFrom: 'Society/台灣斜槓世代.md'
-sourceCommitSha: 'b6f8b00d8'
-sourceContentHash: 'sha256:f40c65ff14acd5cb'
-sourceBodyHash: 'sha256:7fc8e0dbb23602c5'
-translatedAt: '2026-07-24T15:52:20+08:00'
+sourceCommitSha: '2b1654faa'
+sourceContentHash: 'sha256:06d77e5b551a9ae1'
+sourceBodyHash: 'sha256:1cd85dacd9f6f3a7'
+translatedAt: '2026-07-27T11:34:05.162648+00:00'
 ---
 
 > Pemuda berusia 25-35 tahun di Taiwan sedang menjalani sebuah eksperimen bertahan hidup yang tidak pernah diumumkan dimulainya. Median gaji berhenti di angka 38.000 TWD, sementara sewa studio di Taipei dimulai dari 14.000 TWD. Satu pekerjaan tetap tidaklah cukup, sehingga setelah jam kerja mereka membuka aplikasi pengiriman makanan, mengambil proyek sampingan pada akhir pekan, dan mengedit video hingga larut malam. Ini bukan "tren gaya hidup slash", melainkan strategi bertahan hidup yang dipicu oleh kesulitan struktural.
@@ -39,19 +39,17 @@ Seberapa besar gelar magister bisa memperbaiki keadaan? Rata-rata gaji awal bagi
 
 ---
 
-## Platform Pengiriman: Pelampung Keselamatan bagi Satu Generasi
+## Platform Pengiriman: Bantalan Keselamatan Satu Generasi
 
-Jumlah pengantar makanan di Taiwan melonjak dari 45.000 orang pada tahun 2019 menjadi 145.000 orang pada tahun 2022. Meningkat tiga kali lipat dalam tiga tahun.
+Jumlah kurir pengiriman di Taiwan melonjak dari 45.000 orang pada tahun 2019 menjadi 145.000 orang pada tahun 2022. Jumlahnya berlipat tiga dalam tiga tahun.
 
-Siapa 145.000 orang ini? Berdasarkan analisis 8.402 resume dengan pengalaman pengiriman makanan oleh 104 Human Resource Bank, 42,9% dari pengantar makanan memulai pekerjaan mereka saat berusia kurang dari 24 tahun; sebagian besar adalah mahasiswa yang masih kuliah dan pemuda di bawah usia 29 tahun. Median gaji bulanan mereka adalah 36.000 TWD, dengan median pengalaman hanya 0,9 tahun: artinya, sebagian besar orang berhenti melakukan pengiriman dalam waktu kurang dari satu tahun.
+Siapa saja 145.000 orang ini? Berdasarkan analisis 8.402 CV yang memiliki pengalaman pengiriman oleh Bank Tenaga Kerja 104, 42,9% kurir pengiriman mulai beraktivitas saat berusia di bawah 24 tahun, dengan jumlah besar di antaranya masih mahasiswa dan pemuda di bawah usia 29 tahun. Median gaji bulanan adalah 36.000 NTD, dengan median pengalaman kerja hanya 0,9 tahun: artinya, sebagian besar orang berhenti dalam waktu kurang dari satu tahun.
 
-Pengiriman bukan tujuan akhir karier, melainkan transisi. Ini adalah pelampung keselamatan saat gaji utama tidak mencukupi, dan bantalan penahan saat sulit menemukan pekerjaan ideal setelah lulus.
+Pengiriman bukanlah tujuan akhir karier, melainkan transisi. Ia berfungsi sebagai bantalan keselamatan ketika gaji pekerjaan utama tidak mencukupi, dan sebagai bantalan penyangga ketika tidak dapat menemukan pekerjaan ideal setelah lulus.
 
-Pada Januari 2026, Yuanliyin mengesahkan _Undang-Undang Perlindungan Hak Pengantar Makanan dan Manajemen Platform Pengiriman_, yang menetapkan bahwa imbalan dasar untuk setiap pesanan tidak boleh kurang dari 45 TWD, dan upah per jam tidak boleh kurang dari 1,25 kali gaji minimum. Ini adalah tambalan sistem yang terlambat. Sebelum itu, pengantar makanan berada dalam zona abu-abu hukum ketenagakerjaan: tidak dianggap sebagai hubungan kerja resmi, tidak memiliki asuransi tenaga kerja dan kesehatan, serta tidak memiliki perlindungan kecelakaan kerja. Platform dapat menurunkan harga pesanan secara sepihak, dan pengantar makanan tidak memiliki kekuatan tawar-menawar.
+Pada Januari 2026, Yuan Legislatif mengesahkan _Undang-Undang Jaminan Hak Kurir Pengiriman dan Manajemen Platform Pengiriman_ (_Wàisòngyuán Quányí Bǎozhàng jí Wàisòng Píngtái Guǎnlǐfǎ_) dalam pembacaan ketiga, yang menetapkan bahwa upah dasar per pesanan tidak boleh kurang dari 45 NTD, dan upah per jam tidak boleh kurang dari 1,25 kali upah minimum; undang-undang ini resmi berlaku mulai pukul 00.00 pada 21 Juli tahun yang sama (lihat [[外送專法]]). Ini adalah tambalan sistem yang terlambat. Sebelumnya, kurir pengiriman berada dalam area abu-abu Hukum Dasar Tenaga Kerja selama bertahun-tahun: tidak dianggap sebagai hubungan kerja formal, tanpa jaminan sosial dan kesehatan tenaga kerja, tanpa jaminan kecelakaan kerja, dan tanpa upah dasar. Platform dapat menurunkan harga pesanan secara sepihak, sementara kurir pengiriman tidak memiliki kemampuan negosiasi.
 
-Meskipun "memiliki hukum yang mengatur" adalah kemajuan, hal ini juga menunjukkan satu fakta: bentuk pekerjaan yang menjadi tumpuan hidup bagi ratusan ribu orang baru mendapatkan perlindungan hukum dasar setelah hampir tujuh tahun.
-
----
+Adanya "regulasi hukum" memang merupakan kemajuan, namun hal ini juga secara tidak langsung menunjukkan satu hal: bentuk pekerjaan yang menjadi tumpuan hidup ratusan ribu orang membutuhkan waktu hampir tujuh tahun untuk mendapatkan jaminan hukum dasar.
 
 ## Bukan Hanya Pengiriman: Berbagai Wajah Pekerjaan Sampingan
 
@@ -129,3 +127,5 @@ Pemuda di Taiwan memilih yang terakhir. Namun hal ini tidak seharusnya dipuji se
 ---
 
 ## Bacaan Lanjutan
+
+- [Hukum Khusus Pengiriman Makanan](/society/外送專法) — Setelah "tambalan sistem yang terlambat" ini berlaku: apa yang terjadi pada lantai harga 45 yuan yang jatuh ke tubuh manusia nyata, serta dua hal yang tidak dijawabnya
