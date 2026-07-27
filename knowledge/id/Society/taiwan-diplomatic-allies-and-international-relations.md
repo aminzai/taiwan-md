@@ -19,9 +19,9 @@ lastVerified: 2026-04-28
 lastHumanReview: false
 featured: true
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: 'dd39065b2'
-sourceContentHash: 'sha256:106427f4b2a59983'
-sourceBodyHash: 'sha256:52dab0b7f31fb6c8'
+sourceCommitSha: '669a4c87'
+sourceContentHash: 'sha256:03188362c6b1e61a'
+sourceBodyHash: 'sha256:e6881f1d2b6924ed'
 translatedAt: '2026-07-18T18:59:53+08:00'
 ---
 
@@ -100,7 +100,7 @@ Dalam wawancara dengan Public Television Service pada Maret 2025, Menteri Luar N
 
 ### Paraguay: satu-satunya di Amerika Selatan, bertahan 69 tahun berkat garis politik Partai Colorado
 
-Hubungan diplomatik dibentuk pada 1957. Paraguay adalah **satu-satunya sekutu diplomatik Taiwan di Amerika Selatan**. Selama lebih dari enam dekade, hubungan itu bertahan melewati ancaman pemutusan setelah kudeta 1989 serta tekanan jangka panjang dari pasar dan pendekatan politik Tiongkok; uraian lengkapnya dapat dibaca dalam artikel [Paraguay dan Taiwan](/society/巴拉圭與台灣/).
+Hubungan diplomatik dibentuk pada 1957. Paraguay adalah **satu-satunya sekutu diplomatik Taiwan di Amerika Selatan**. Selama lebih dari enam dekade, hubungan itu bertahan melewati ancaman pemutusan setelah kudeta 1989 serta tekanan jangka panjang dari pasar dan pendekatan politik Tiongkok; uraian lengkapnya dapat dibaca dalam artikel [Paraguay dan Taiwan](/id/society/paraguay-taiwan/).
 
 Partai Colorado di Paraguay telah berkuasa selama lebih dari 70 tahun secara berselang sejak 1947. Sikap antikomunis dan pro-Taiwan merupakan warisan struktural tatanan Perang Dingin. Pemenang pemilu 2023, Santiago Peña, adalah kandidat Partai Colorado, sedangkan lawannya dari Partai Liberal mengusulkan peninjauan ulang kebijakan terhadap Taiwan. Dengan memilih Partai Colorado, para pemilih pada dasarnya memilih untuk mempertahankan hubungan diplomatik.
 
@@ -279,7 +279,7 @@ Kedudukan itu adalah jarak di antara angka-angka tersebut.
 - [Pertahanan dan modernisasi militer Taiwan](/society/台灣國防與軍事現代化) — ketika hanya tersisa 12 sekutu diplomatik, pertahanan militer mandiri menjadi pilar lain untuk memastikan jumlahnya “bukan 0”
 - [Krisis Selat Taiwan dan perkembangan hubungan lintas selat](/history/台海危機與兩岸關係發展) — bagaimana tiga krisis membentuk keterasingan diplomatik dan kecemasan keamanan Taiwan
 - [TSMC](/business/台積電) — landasan material perisai silikon dan kerentanan strukturalnya
-- [Cho Jung-tai](/people/卓榮泰) — lintasan tarif Amerika Serikat–Taiwan pada 2026 dari 32→20→15% dan koordinator kabinet untuk kunjungan Lai Ching-te ke Eswatini
+- [Cho Jung-tai](/id/people/cho-jung-tai) — lintasan tarif Amerika Serikat–Taiwan pada 2026 dari 32→20→15% dan koordinator kabinet untuk kunjungan Lai Ching-te ke Eswatini
 - [Taiwan dan Eswatini](/society/台灣與史瓦帝尼) — satu-satunya sekutu diplomatik yang tersisa di Afrika, kisah lengkap selama 58 tahun sejak pembentukan hubungan pada hari yang sama pada 1968 hingga kunjungan Lai Ching-te pada 2026
 
 ## Referensi

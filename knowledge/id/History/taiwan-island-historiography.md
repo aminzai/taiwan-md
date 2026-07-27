@@ -19,9 +19,9 @@ lastVerified: 2026-07-10
 lastHumanReview: false
 featured: true
 translatedFrom: 'History/台灣島史觀.md'
-sourceCommitSha: 'c5aa244a5'
-sourceContentHash: 'sha256:bda838eb0d68c4b9'
-sourceBodyHash: 'sha256:81e799df2b94b31'
+sourceCommitSha: 'a1c3748b'
+sourceContentHash: 'sha256:584f286b403c0d75'
+sourceBodyHash: 'sha256:4711da6579afc037'
 translatedAt: '2026-07-18T18:59:54+08:00'
 image: '/article-images/history/formosa-dutch-map-1640.webp'
 imageCredit: '荷蘭人繪 / Wikimedia Commons'

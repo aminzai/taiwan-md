@@ -20,9 +20,9 @@ lastVerified: 2026-07-16
 lastHumanReview: false
 featured: true
 translatedFrom: 'History/大罷免.md'
-sourceCommitSha: '6262f8c93'
-sourceContentHash: 'sha256:0bdd57229f623a95'
-sourceBodyHash: 'sha256:9d022e52199911fd'
+sourceCommitSha: '5add39fc'
+sourceContentHash: 'sha256:1c18939671190740'
+sourceBodyHash: 'sha256:c336900c050cb32f'
 translatedAt: '2026-07-18T18:59:54+08:00'
 image: '/article-images/history/recall-bluebird-legislative-yuan-2024.webp'
 imageCredit: 'Fujifilmuser Taiwan'
@@ -229,10 +229,10 @@ Layar penghitungan suara malam hari, "Tidak Lulus" tiga karakter menyala satu pe
 **Bacaan Lanjutan**:
 
 - [Politik Pemilihan dan Partai Taiwan](/history/台灣選舉與政黨政治) — Dari Insiden Zhongli hingga tiga partai berdiri, evolusi jangka panjang sistem pemilihan dan budaya pemungutan suara Taiwan
-- [Demokratisasi](/history/民主化) — Sebelum hak pemecatan ditulis ke kehidupan konstitusional, generasi itu berjalan dari Martial Law ke pemilihan langsung
-- [Transisi Demokrasi Taiwan](/history/台灣民主轉型) — Bagaimana otoritarian menyerahkan kekuasaan secara bertahap kepada rakyat
+- [Demokratisasi](/id/history/taiwan-democratization-history) — Sebelum hak pemecatan ditulis ke kehidupan konstitusional, generasi itu berjalan dari Martial Law ke pemilihan langsung
+- [Transisi Demokrasi Taiwan](/id/history/taiwan-democratization) — Bagaimana otoritarian menyerahkan kekuasaan secara bertahap kepada rakyat
 - [Gerakan Sosial dan Partisipasi Warga](/society/社會運動與公民參與) — Dari Bunga Matahari hingga Burung Biru, genealogi mobilisasi generasi jalanan
-- [Lingkungan Politik dan Sistem Pemilihan Taiwan](/society/台灣政治環境與選舉制度) — Kedalaman sistemik desain ambang batas dan hukum pemilihan
+- [Lingkungan Politik dan Sistem Pemilihan Taiwan](/id/society/taiwan-political-landscape-and-electoral-system) — Kedalaman sistemik desain ambang batas dan hukum pemilihan
 
 ## Sumber Gambar
 

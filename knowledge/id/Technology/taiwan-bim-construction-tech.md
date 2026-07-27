@@ -25,9 +25,9 @@ lastVerified: 2026-05-22
 lastHumanReview: false
 featured: true
 translatedFrom: 'Technology/台灣BIM與營建科技.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:5500ed1d9d4e0f85'
-sourceBodyHash: 'sha256:6207b1decb9dcfc4'
+sourceCommitSha: '30072b76'
+sourceContentHash: 'sha256:7923803a611ee1da'
+sourceBodyHash: 'sha256:ac277cd39572ac41'
 translatedAt: '2026-07-18T18:59:53+08:00'
 image: '/article-images/technology/freecad-bim-example-2024.webp'
 imageCredit: 'Maxwxyz via Wikimedia Commons'
@@ -263,11 +263,11 @@ Pada hari Shuotao mengunggah `REVIT_MCP_study` ke GitHub pada Desember 2025[^48]
 
 **Bacaan lanjutan**:
 
-- [Arsitektur Taiwan](/art/台灣建築) — narasi budaya arsitektur dari rumah batu tulis hingga pencakar langit; artikel ini merupakan tulisan pendampingnya pada lapisan digitalisasi rekayasa
+- [Arsitektur Taiwan](/id/art/taiwanese-architecture) — narasi budaya arsitektur dari rumah batu tulis hingga pencakar langit; artikel ini merupakan tulisan pendampingnya pada lapisan digitalisasi rekayasa
 - [Perumahan Sosial dan Keadilan Hunian](/society/社會住宅與居住正義) — penerapan BIM dalam pengoperasian dan pemeliharaan perumahan sosial merupakan salah satu program utama ABRI dalam beberapa tahun terakhir
-- [Perusahaan Taiwan: TSMC](/economy/台灣企業：台積電) — penerapan BIM di fasilitas TSMC merupakan medan praktik utama bagi kontraktor seperti Dacin dan Futsu
+- [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — penerapan BIM di fasilitas TSMC merupakan medan praktik utama bagi kontraktor seperti Dacin dan Futsu
 - [Perkembangan AI Taiwan](/technology/AI發展) — MCP Anthropic dan MCP bawaan Revit 2027 merupakan kasus nyata AI × industri
-- [Industri Semikonduktor](/technology/半導體產業) — solusi terpadu rekayasa pabrik fab dan pembangunan pabrik cerdas berbasis BIM merupakan fondasi rekayasa bagi perluasan klaster semikonduktor
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — solusi terpadu rekayasa pabrik fab dan pembangunan pabrik cerdas berbasis BIM merupakan fondasi rekayasa bagi perluasan klaster semikonduktor
 
 ## Sumber Gambar
 

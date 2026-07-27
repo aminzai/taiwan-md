@@ -20,9 +20,9 @@ lastVerified: 2026-06-07
 lastHumanReview: false
 featured: true
 translatedFrom: 'People/黃山料.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:7ecc75e3d3f02f0a'
-sourceBodyHash: 'sha256:0d3c13e2c5763c28'
+sourceCommitSha: '00939ce5'
+sourceContentHash: 'sha256:0b1bdd0cdf3b8705'
+sourceBodyHash: 'sha256:a1e88d45df841409'
 translatedAt: '2026-07-18T18:59:53+08:00'
 image: '/article-images/people/huang-shan-liao-portrait-2025.webp'
 imageCredit: '鏡週刊（fair use editorial commentary）'
@@ -193,9 +193,9 @@ Koleksi “Kinmen 1969” tidak dilihat siapa pun, lalu menghilang. “Sepotong 
 
 **Bacaan lanjutan**:
 
-- [Wu Pao-chun](/people/吳寶春) — perajin Taiwan lain yang menjadi juara dunia; perbedaannya, keterampilannya dilihat orang
-- [André Chiang](/people/江振誠) — menetapkan posisi koki Taiwan di panggung internasional, sebuah nasib lain di jalan “membuat sesuatu dengan baik”
-- [Chang Chih-chi](/people/張志祺) — “kurator informasi” yang juga membuat hal rumit mudah dibaca dan mencari resonansi pada zaman perhatian
+- [Wu Pao-chun](/id/people/wu-bao-chun) — perajin Taiwan lain yang menjadi juara dunia; perbedaannya, keterampilannya dilihat orang
+- [André Chiang](/id/people/andre-chiang-taiwanese-culinary-innovator) — menetapkan posisi koki Taiwan di panggung internasional, sebuah nasib lain di jalan “membuat sesuatu dengan baik”
+- [Chang Chih-chi](/id/people/shasha77-chang-chih-chi) — “kurator informasi” yang juga membuat hal rumit mudah dibaca dan mencari resonansi pada zaman perhatian
 - [Jimmy Liao](/people/幾米) — kreator penyembuhan yang berangkat dari perusahaan periklanan lalu menjadi penulis laris internasional, cara lain untuk terlihat
 - [Audrey Tang](/people/唐鳳) — cermin lain tentang cara Taiwan memperlakukan seseorang yang sulit dikategorikan
 
