@@ -722,14 +722,28 @@ def main() -> int:
 
     out_path = (Path(args.out) if args.out else trans_path).resolve()
     out_path.parent.mkdir(parents=True, exist_ok=True)
+    # 2026-07-27 緊急修：預設模式是「就地改寫」既有譯文，而下面兩處失敗路徑
+    # 原本 unlink()——**把一篇有效的 stale 譯文直接刪成 missing**，比什麼都不做
+    # 還糟，直接違反「寧可 stale 也不要 missing」（babel-dispatch 的 HEAD-restore
+    # 就是為此存在）。四條產線都走這條路徑，等於每次 patch 失敗都在扣覆蓋率。
+    # 存原文，失敗時完整還原；原本就不存在的（--out 到新路徑）才 unlink。
+    pre_existing = out_path.read_text(encoding="utf-8") if out_path.exists() else None
+
+    def _restore_or_unlink(reason: str) -> None:
+        if pre_existing is not None:
+            out_path.write_text(pre_existing, encoding="utf-8")
+            print(f"   ↩️  已還原 patch 前的譯文（{reason}）——寧可 stale 也不要 missing")
+        else:
+            out_path.unlink(missing_ok=True)
+
     out_path.write_text(assembled, encoding="utf-8")
 
     prettier_ok, prettier_msg = st.run_prettier(out_path)
 
     post_h2 = sum(1 for l in out_path.read_text(encoding="utf-8").splitlines() if l.startswith("## "))
     if post_h2 != zh_h2:
-        print(f"❌ post-assembly H2 mismatch: got {post_h2} want {zh_h2} — aborting, unlinking output")
-        out_path.unlink(missing_ok=True)
+        print(f"❌ post-assembly H2 mismatch: got {post_h2} want {zh_h2} — aborting")
+        _restore_or_unlink("H2 數不符")
         return 1
 
     ok, details = run_verify_trio(args.zh_path, out_path, args.lang)
@@ -754,7 +768,7 @@ def main() -> int:
             print(f"   🔍 full verify-trio detail: {debug_json} (failing content: {debug_md})")
         except Exception:  # noqa: BLE001
             pass
-        out_path.unlink(missing_ok=True)
+        _restore_or_unlink("verify trio 未過")
         return 1
 
     # passthrough heal：belt-and-suspenders，跟 babel-dispatch 自己的後處理同款
