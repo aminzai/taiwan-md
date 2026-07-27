@@ -1,134 +1,329 @@
 ---
-title: 'El eco de una era dorada: evolución y artesanía de la cultura del té taiwanés'
-description: 'En la década de 1930, las potencias coloniales firmaron un acuerdo de restricción de producción que excluyó a Taiwán. El té negro taiwanés aprovechó la oportunidad y se disparó de 3,29 millones de kilogramos a 5,80 millones. Noventa años después, en la misma isla se abre una tienda de bebidas de té preparadas a mano cada 30 minutos.'
-date: 2026-03-24
+title: 'Ang Lee: detrás de dos Óscar, el hijo que no pudo despedirse bien de su padre'
+description: 'En el escenario de los Óscar de 2006, Ang Lee se convirtió en el primer asiático de la historia en ganar el premio a mejor director, pero dijo en mandarín: «Gracias a todos por su preocupación». El mundo recuerda al orgullo de Taiwán y sus dos estatuillas, pero lo que él filmó durante toda su vida fue la represión, el miedo y a su padre, que murió repentinamente dos años antes y que siempre se había opuesto a que hiciera cine. Desde el yerno desempleado que pasó seis años cocinando en casa hasta el dos veces León de Oro en Venecia, su verdadero adversario nunca estuvo en el set, sino en ese yo interior que no lograba atravesar.'
+date: 2026-03-17
+category: 'People'
 tags:
   [
-    'cultura del té',
-    'Dingding Oolong',
-    'té de alta montaña',
-    'bebidas de té preparadas a mano',
-    'té de burbujas',
-    'cultura agrícola',
+    'figuras',
+    'Ang Lee',
+    'director',
+    'Óscar',
+    'cine',
+    'transcultural',
+    'Premios Golden Horse',
   ]
-subcategory: '工藝與美學'
-category: 'Culture'
+subcategory: '電影與戲劇'
 author: 'Taiwan.md'
-readingTime: 20
-lastVerified: 2026-07-12
-lastHumanReview: false
 featured: true
-translatedFrom: 'Culture/台灣茶文化.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:218a1627dd56bfb5'
-sourceBodyHash: 'sha256:ca6d9cb8b6ed52e7'
-translatedAt: '2026-05-17T06:00:00Z'
-image: '/article-images/food/taiwan-food-alishan-yuyupas-tea-garden-2011.webp'
-difficulty: 'intermediate'
+lastVerified: 2026-06-01
+lastHumanReview: false
+image: '/article-images/people/ang-lee-bafta-2013.webp'
+imageCredit: 'Sean Reynolds'
+imageLicense: 'CC BY 2.0'
+imageSource: 'https://commons.wikimedia.org/wiki/File:Ang_Lee_(8464864982).jpg'
+translatedFrom: 'People/李安.md'
+sourceCommitSha: '09c1bf1a9'
+sourceContentHash: 'sha256:270ebb8ad85e9750'
+sourceBodyHash: 'sha256:1c12395477bc0a4e'
+translatedAt: '2026-07-27T22:20:33.105827+00:00'
 ---
 
-# El eco de una era dorada: evolución y artesanía de la cultura del té taiwanés
+# Ang Lee: detrás de dos Óscar, el hijo que no pudo despedirse bien de su padre
 
-> **Panorama en 30 segundos:** En la década de 1930, la India, Ceilán y las Indias Orientales Neerlandesas firmaron el _Acuerdo Internacional de Restricción de la Producción de Té_, excluyendo a Taiwán. El té negro taiwanés aprovechó la coyuntura y se disparó de 3,29 millones de kilogramos a 5,80 millones, representando el 52 % de las exportaciones totales de la isla. Avancemos hasta 2024: las bebidas de té preparadas a mano en Taiwán generan una facturación anual de 133,1 mil millones de dólares taiwaneses, con un promedio de 40 nuevas aperturas mensuales. Desde el «Formosa Oolong» del comerciante británico John Dodd en el siglo XIX hasta aquella taza de té con leche con perlas de tapioca de Chun Shui Tang en Taichung, la historia del té taiwanés siempre ha sido la misma: ser subestimado y luego explotar.
+> **Resumen en 30 segundos:** En 2006, Ang Lee se convirtió en el primer asiático en ganar el Óscar a mejor director; luego, en 2013, volvió a consagrarse y hasta hoy es el único director asiático que ha recibido dos veces ese premio. Pero la historia de este “orgullo de Taiwán” es, en el fondo, la de un niño waisheng que pasó la vida entera forcejeando con su padre, con la represión y con el miedo de “ya no voy a poder sostenerme”. Cada vez que filma una película siente que no está a la altura. Tras graduarse de la maestría pasó seis años cocinando en casa mientras esperaba que algún guion saliera adelante. El momento que más teme, paradójicamente, es “cuando me siento muy seguro”. Su dulzura nació de la represión; su grandeza, de convertir en cine aquello que ya no podía contener.
 
-## Un escocés, un barco y una marca
+Marzo de 2006, Teatro Kodak de Los Ángeles. Ang Lee sube al escenario de los Óscar con la estatuilla a mejor director en la mano: antes que él, ningún director asiático, taiwanés o chino, nadie con un color de piel como el suyo, había ganado ese premio. El mundo entero espera oír qué dirá. Abre la boca y primero cita en inglés aquella frase de Jack en _Secreto en la montaña_: “I wish I knew how to quit you”. Luego cambia de registro y, mirando a la cámara, dice en mandarín: “Gracias a todos por su preocupación”.[^1]
 
-En 1869, el comerciante escocés John Dodd hizo algo que nadie en su momento consideró prometedor: embarcó té oolong del norte de Taiwán directamente desde Tamsui, saltándose a los intermediarios de Fujian, y lo vendió en Nueva York.
+Esa frase sonó extraña dentro de un discurso de aceptación. La palabra “preocupación” parecía más bien lo que un hijo lejos de casa diría a sus mayores al otro lado del estrecho: “Estoy bien, lo superé, no se preocupen”. Dos años antes, después de filmar _Hulk_ hasta el punto de querer retirarse, fue a ver a su padre, que siempre se había opuesto a que hiciera cine; por primera vez, su padre le dijo que siguiera filmando. Menos de dos semanas después, murió de manera repentina.[^2] El hombre en el escenario acababa de perder a su padre, acababa de ser desacreditado por la crítica y ahora sostenía el premio más pesado del mundo. Pero lo primero que pensó fue en esas personas de casa que siempre se habían preocupado por él.
 
-Aquel cargamento llevaba impreso «Formosa Oolong Tea»: era la primera vez que el té taiwanés aparecía en el mercado internacional bajo su propio nombre. Antes de eso, el té de Taiwán debía transportarse a Fuzhou para su procesamiento y exportarse como «té de Fujian». Dodd rompió esa cadena de suministro, estableció una planta de procesamiento en Dadaocheng y transformó a Taiwán de un lugar de producción por encargo a una marca propia.
+El mundo recuerda al orgullo de Taiwán que ganó dos Óscar. Pero lo que él filmó durante toda su vida fue la represión, el miedo y a ese hijo que no pudo despedirse bien de su padre.
 
-| 1869                                                        | 2024                                                                                           |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| Primer envío directo de Formosa Oolong de Dodd a Nueva York | Facturación anual de bebidas de té preparadas a mano: 133,1 mil millones de dólares taiwaneses |
+## El niño del “casi” en la residencia del director escolar en Tainan
 
-El significado de este paso trascendió lo comercial. Dadaocheng se convirtió en el distrito comercial más próspero de Taiwán, reuniendo casas de té, firmas mercantiles y productos del norte y del sur, sentando las bases de Taipei como centro económico del norte. Cuando Liu Mingchuan estableció la provincia en 1885, el té taiwanés ya representaba más de la mitad del total de las exportaciones de la isla.
+Ang Lee nació el 23 de octubre de 1954 en el municipio de Chaozhou, condado de Pingtung.[^3] Su padre, Lee Sheng, nació en 1917 en De’an, Jiangxi, y llegó a Taiwán con el gobierno nacionalista en 1949. Fue un hombre dedicado de por vida a la educación: director de la Escuela Normal de Hualien, de la Segunda Secundaria de Tainan y, más tarde, durante catorce años, de la Primera Secundaria de Tainan.[^4] En el Tainan de aquella época, las cinco palabras “el hijo del director Lee” ya eran, por sí solas, una carga.
 
-> **📝 Nota del curador**
-> Resulta interesante que cada despegue del té taiwanés fue impulsado por una «fuerza externa»: Dodd era extranjero, la revolución del té negro durante el periodo japonés dependió de técnicos agrícolas japoneses, y la reconstrucción de posguerra dependió de la ayuda estadounidense. Los agricultores de té taiwaneses hicieron lo más difícil: convertir las oportunidades externas en algo propio.
+Esa carga cayó sobre un niño que, desde casi cualquier ángulo, no parecía sobresaliente. Ang Lee estudió inicialmente en la Segunda Secundaria de Tainan y luego logró trasladarse, por examen, a la Primera Secundaria de Tainan, que más tarde dirigiría su padre. Presentó dos veces el examen conjunto de ingreso a la universidad y las dos veces no fue admitido, aunque por poco. Para el hijo de un director escolar, aquello era una humillación difícil de soportar ante todo el círculo educativo del sur de Taiwán, mucho más allá del puntaje en sí. En una familia de funcionarios, maestros y militares donde el padre dirigía la mejor secundaria de Tainan y donde todo el linaje tenía una devoción casi religiosa por la palabra “ascenso académico”, fracasar dos años seguidos era una vergüenza que un adolescente difícilmente podía digerir. Al final ingresó al Departamento de Cine y Teatro de la Escuela Nacional de Artes, donde estudió de 1973 a 1975.[^5] En una familia para la cual el único camino legítimo era avanzar por el sistema educativo, estudiar teatro equivalía a declarar que uno se había desviado. Esa decisión fue la primera grieta real entre padre e hijo.
 
-## El pez que se escapó de la red de restricción
+> 📝 **Nota curatorial**
+> Años después, Ang Lee dijo una frase que a muchos de afuera les cuesta entender de inmediato: “Me identifico y empatizo especialmente con el lado que pierde. Mi familia también perdió desde el continente hasta Taiwán; Taiwán está en una posición débil en la sociedad internacional, y cuando llegué a Estados Unidos seguí siendo débil”.[^6] Esa frase es la clave para comprender todas sus películas. No es alguien que narra desde la posición del vencedor: el viejo padre fuera de lugar en _Pushing Hands_, los dos hombres a quienes no se les permite amarse en _Secreto en la montaña_, la estudiante atrapada por fuerzas que no controla en _Deseo, peligro_, el niño de _Una aventura extraordinaria_ que queda a la deriva en el mar sin nada. Todos sus personajes son personas empujadas a una esquina, que resisten y aun así pierden. Un niño definido desde pequeño por el “casi”, y que además vivió dentro del relato de derrota de los waishengren, los chinos continentales llegados a Taiwán después de 1949, terminó convertido en el director que mejor filma la dignidad de los derrotados.
 
-En 1933, el mercado mundial del té negro se desplomó. Las tres grandes regiones productoras —la India británica, Ceilán británico y las Indias Orientales Neerlandesas— firmaron el _Acuerdo Internacional de Restricción de la Exportación de Té_, comprometiéndose a limitar la producción y exportación de té negro entre 1933 y 1940.
+Tras graduarse de la Escuela Nacional de Artes y completar el servicio militar, a fines de la década de 1970 se fue a Estados Unidos. Primero estudió teatro en la Universidad de Illinois, donde obtuvo el grado de bachiller en 1980; luego ingresó a la maestría en producción cinematográfica de la Universidad de Nueva York, que completó en 1984.[^7] En NYU fue compañero de Spike Lee, quien más tarde se convertiría en un director célebre; Ang Lee incluso fue asistente de dirección en la obra de graduación de Spike Lee.[^8] Sus trabajos estudiantiles mostraban una progresión constante: desde el cortometraje mudo de primer año _The Runner_, pasando por _I Wish I Was by That Dim Lake_, que en 1982 ganó en Taiwán el premio Golden Harvest al mejor drama de 16 mm, hasta su obra de graduación _Fine Line_, con la que ganó el premio Wasserman a mejor director de NYU.[^9] Visto desde fuera, era una curva ascendente impecable.
 
-Taiwán no fue invitado. Japón no era signatario del acuerdo, por lo que Taiwán quedaba naturalmente exento de las restricciones.
+## Durante seis años, fue el marido que cocinaba en casa
 
-El resultado fue que el té negro taiwanó inundó el mercado mientras todos los demás reducían su producción, llenando el vacío dejado. Las exportaciones pasaron de 3,29 millones de kilogramos en 1934 a 5,80 millones en 1937, representando el 52 % del total de exportaciones de té de ese año, en un triángulo de poder con el té paochong y el té oolong. Hasta el estallido total de la Segunda Guerra Mundial, las exportaciones anuales de té negro taiwanés se mantuvieron en torno a los 5 millones de kilogramos.
+Luego la curva se quebró.
 
-El artífice detrás de esta era dorada fue un japonés: Koki Arai (新井耕吉郎). Llegó a Taiwán en 1926, estableció la subestación de experimentación de té negro en el lago Sun Moon (Yuchi) y dedicó 20 años a investigar variedades de té negro adecuadas al clima y suelo de Taiwán. En 1946, tras la rendición de Japón, el gobierno nacionalista lo retuvo específicamente para que continuara sus investigaciones, pero ese mismo año falleció en Yuchi. Tras su muerte, sus colegas erigieron un monumento en el jardín de té, diciendo que su alma se había transformado en luciérnagas que volaban entre los arbustos. Se le conoce como el «Padre del Té Negro de Taiwán».
+En 1984, tras graduarse de NYU, lo lógico habría sido iniciar una carrera. Pero durante los seis años siguientes, Ang Lee no logró filmar una sola película. Nadie quería contratar a un director asiático que proponía historias familiares en chino. Uno tras otro, sus guiones eran rechazados; lo que enviaba desaparecía sin respuesta. Durante esos seis años, quien sostuvo a la familia fue su esposa, Lin Hui-chia. Ella era microbióloga, egresada del Departamento de Química Agrícola de la Universidad Nacional de Taiwán, doctora en microbiología por la Universidad de Illinois y más tarde profesora investigadora de patología en el New York Medical College.[^10] Se casaron en Nueva York en agosto de 1983; su hijo mayor, Haan Lee, nació en 1984.[^11]
 
-> **💡 ¿Sabías que...?**
-> Durante la guerra, se le exigió a Arai que convirtiera los jardines de té en cultivos alimentarios, pero él se negó y se mantuvo firme en la conservación de los arbustos experimentales de té negro. Esos arbustos se convirtieron más tarde en la base de la variedad «Tai Cha 18» (Rubí Rojo), que sigue siendo el emblema del té negro del lago Sun Moon.
+Un hombre con una maestría en cine y premios de dirección pasaba sus días leyendo, viendo películas, escribiendo guiones que nadie quería y, el resto del tiempo, comprando comida, cocinando y cuidando niños. Según las ideas familiares chinas de aquella época, era casi la posición más vergonzosa para un hombre: mientras los maridos de otras familias salían a ganarse la vida, él estaba en la cocina. Una esposa científica mantenía a un marido director que no conseguía resultados. En la sociedad china de entonces, aquello casi no tenía precedentes; no es difícil imaginar cómo lo miraban los de afuera ni qué pensaban los mayores de la familia. Más tarde describió esa sensación como una inseguridad sin fondo. Precisamente esa inseguridad se convertiría después en el motor de su creación. Desde _Pushing Hands_ hasta _Comer, beber, amar_, esas historias sobre la familia, la mesa y quién sostiene a quién cargan todavía con el olor de aquellos seis años.
 
-## Leyenda y realidad en la montaña Dingding
+> ✦ “El miedo me impulsa a mejorar sin cesar, porque no hay sensación más intensa que el miedo. La fuerza que me permite seguir intentando está en la inseguridad”.[^12]
 
-Sobre el origen del té Dingding Oolong, la historia más conocida es la siguiente: en 1855, Lin Fengchi de Lugu viajó a Fujian para presentarse a los exámenes imperiales, obtuvo el título de _juren_ (举人) y trajo de vuelta 36 plantones de té oolong Qingxin, que Lin Sanxian plantó en la montaña Dingding junto al lago Qilintan.
+![Ang Lee en un evento de festival de cine, con traje oscuro y expresión serena](/article-images/people/ang-lee-hkaff-2007.webp)
+_Ang Lee en el Festival de Cine Asiático de Hong Kong en 2007. Foto: WikiCantona. [CC BY-SA 3.0 vía Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ang_Lee_HKAFF_2007.jpg)._
 
-Pero esta es solo una versión. Otra sostiene que la familia Su ya había traído plantones de té de Fujian a Lugu en 1684, según consta en el _Linaje de la familia Su de Dingding_. El historiador Lian Heng escribió en 1908 en su _Historia General de Taiwán_ que el té Dingding era una variedad autóctona de «Shuashalian».
+El giro llegó en 1990. Ese año, en el concurso de guiones destacados de la Oficina de Información del Yuan Ejecutivo, Ang Lee presentó dos textos: _Pushing Hands_ ganó el primer premio, con 400.000 dólares taiwaneses, y _El banquete de bodas_ obtuvo el segundo premio.[^13] Esos 400.000 dólares, sumados al ojo de Hsu Li-kong, subdirector de la Central Motion Picture Corporation, lo sacaron de la cocina. Hsu vio potencial en aquel debutante que nunca había filmado un largometraje y decidió invertir en _Pushing Hands_, con un presupuesto aproximado de entre 12 y 13,5 millones de dólares taiwaneses. Su frase para Lee fue dura y práctica: “Son 12 millones de dólares taiwaneses; ni un centavo más”.[^14] Ese mismo año nació su segundo hijo, Mason Lee.[^15]
 
-Sea cual sea el origen, el Dingding Oolong se convirtió en el sinónimo del té taiwanés en la década de 1970. La zona productora de Lugu, a una altitud de 600 a 1.200 metros, desarrolló un sabor único a través de un proceso de tostado con carbón a baja temperatura y durante largas horas, que produce notas de caramelo y fruta madura entrelazadas. La expresión «Dingding en el sur, paochong en el norte» definió las dos grandes escuelas del té oolong taiwanés.
+Así, a los 36 años, terminaron sus seis años de desempleo. Pero esos años no pasaron en vano: llevaron a una persona a entender, con una profundidad extrema, qué significa “no poder sostenerse”. Esa sería luego la tonalidad de fondo de toda su obra.
 
-Y entonces llegó el té de alta montaña, y todo cambió.
+## Lung Sihung interpretó tres veces a su padre
 
-## La tentación de la altitud
+En tres películas consecutivas, Ang Lee hizo que el mismo actor, Lung Sihung, interpretara a ese padre: el maestro de taichí en _Pushing Hands_, el oficial retirado en _El banquete de bodas_ y el chef jubilado en _Comer, beber, amar_. Por eso esas tres obras se conocen como la “trilogía del padre” o la “trilogía familiar”. Pero lo que realmente las convierte en un conjunto no es solo el rostro de Lung Sihung, sino algo más fundamental: Lee vuelve una y otra vez al mismo problema. ¿Cómo enfrenta un hijo a un padre al que reverencia y teme, pero con quien no logra comunicarse?
 
-En la década de 1980, con el despegue económico de Taiwán, los bebedores de té comenzaron a buscar una experiencia más «premium». Alishan, Shanlinxi, Lishan, Dayuling: los jardines de té se fueron abriendo cada vez más arriba. La zona productora de Dayuling alcanzó una altitud de 2.650 metros, convirtiéndose en la región productora de té oolong más alta del mundo (en 2015 el gobierno ordenó la tala de los jardines de mayor altitud; actualmente el máximo se sitúa en torno a los 2.400 metros).
+_Pushing Hands_ (1991) fue el punto de partida. El maestro Chu, instructor general de taichí interpretado por Lung Sihung, se muda a Estados Unidos para vivir con su hijo, pero choca en todo con su nuera estadounidense y con la vida occidental en general: un anciano de gran prestigio dentro de su propia cultura se convierte, en tierra extranjera, en alguien sobrante. Esta ópera prima le dio a Ang Lee el premio a mejor película en el 37.º Festival de Cine de Asia-Pacífico y el premio a mejor director novel en el Festival de Amiens, en Francia; en los Premios Golden Horse de Taiwán, Lung Sihung ganó mejor actor, Wang Lai ganó mejor actriz de reparto y la película recibió el premio especial del jurado.[^16]
 
-La lógica de la alta montaña es simple: a mayor altitud, mayor diferencia de temperatura entre el día y la noche (hasta 15-20 grados), más lento es el crecimiento de la hoja, más gruesa se vuelve, mayor es el contenido de aminoácidos y más dulce es la infusión. Sumado a la cobertura constante de nubes y niebla, la radiación ultravioleta se filtra como luz difusa, lo que inhibe las catequinas: disminuye la amargura, aumenta la dulzura.
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/CLyFaipchmk" title="Pushing Hands (1991) Tráiler" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-Los consumidores formaron rápidamente una ecuación: **altitud = calidad = precio**. El té de Dayuling puede costar fácilmente entre 5.000 y 6.000 dólares taiwaneses el _jin_ (斤, 600 g), el de Lishan a partir de 3.000. El Dingding Oolong fue relegado a la posición de «tradición»: en el mejor de los casos, clásico; en el peor, anticuado.
+_Tráiler de *Pushing Hands* publicado por Film Movement: el debut de Ang Lee en largometraje, con Lung Sihung como un maestro de taichí que llega a Estados Unidos para vivir con su hijo y se siente fuera de lugar en todas partes._
 
-> **📝 Nota del curador**
-> El experto en té Chen Huantang denomina esto «la mitología de la industria del té». La altitud no es un indicador universal; la habilidad del maestro procesador, el clima de la temporada, el criterio en el marchitamiento y el tostado —el oficio humano— importa mucho más que la altitud. Pero el mercado no escucha. El consumidor quiere una historia simple: cuanto más alto, mejor.
+La segunda película, _El banquete de bodas_ (1993), llevó esa cuestión a un territorio aún más agudo. Un hombre taiwanés gay que vive en Nueva York, para lidiar con sus padres que llegan desde Taiwán, finge casarse con una mujer que necesita una tarjeta de residencia; una boda falsa termina arrastrando a todos a una mentira. Esta comedia protagonizada por Winston Chao, Gua Ah-leh y Lung Sihung enfrenta de lleno la homosexualidad con la ética familiar tradicional. Ganó el Oso de Oro en el 43.º Festival de Berlín, compartido con _Woman Sesame Oil Maker_ de Xie Fei; fue nominada a mejor película en lengua extranjera en la 66.ª edición de los Óscar, y en los Golden Horse obtuvo cinco premios importantes, entre ellos mejor largometraje de ficción y mejor director.[^17] Una historia sobre si un padre chino puede aceptar el verdadero rostro de su hijo hizo que el mundo empezara a recordar el nombre de Ang Lee.
 
-Esta mitología tuvo un efecto secundario: la explotación masiva de jardines de té en alta montaña provocó problemas de conservación del suelo y el agua. La tala forzosa de los jardines más elevados de Dayuling por parte del gobierno en 2015 fue consecuencia de ese impacto ambiental.
+En _Comer, beber, amar_ (1994), el padre ya no es solo objeto de observación: él también tiene secretos que no puede decir. Lung Sihung interpreta a Chu, un chef retirado que cada fin de semana prepara para sus tres hijas, interpretadas por Yang Kuei-mei, Wu Chien-lien y Wang Yu-wen, una mesa de platos tan abundante que resulta casi exagerada; pero la familia se sienta cada vez más lejos emocionalmente alrededor de esa mesa. La larga escena inicial de cocina, con una destreza de cuchillo casi increíble, no muestra en realidad las manos de Lung Sihung: el equipo recurrió a un chef profesional como doble, y solo esa secuencia tomó más de una semana de rodaje.[^18] La película también fue nominada al Óscar a mejor película en lengua extranjera, con lo que Lee apareció dos años seguidos en esa categoría, primero con _El banquete de bodas_ y luego con _Comer, beber, amar_. Más tarde Hollywood la rehízo como _Tortilla Soup_ (2001).[^19]
 
-## Una taza de perlas de tapioca que cambió el mundo
+> 📝 **Nota curatorial**
+> Al hablar de la trilogía del padre, suele decirse que “Ang Lee retrata con delicadeza el conflicto cultural entre Oriente y Occidente”. Pero esa formulación desplaza el foco. Lo que atraviesa de verdad las tres películas no es “la cultura”, sino “el padre” como persona concreta, y esa persona estaba sentada en la propia casa de Ang Lee. Lee Sheng se opuso toda la vida a que su hijo hiciera cine, porque no lo consideraba una profesión seria; Ang Lee pasó la vida entera moldeando, reconciliando y tratando de alcanzar, sin lograrlo del todo, a ese padre dentro de sus películas. Las tres obras usan el mismo rostro, el de Lung Sihung, para tratar algo que Lee no podía resolver en la realidad. En la superficie hay cultura; debajo, lo que hay son las palabras que un hijo no logra decirle a su padre.
 
-En 1983, Liu Hanjie abrió una «casa de té Yangxian» (precursora de Chun Shui Tang) en la calle Siwei de Taichung, vendiendo té frío para beber —en aquella época, el té se preparaba con agua caliente; el té frío era una herejía.
+## Un chino filmando una mansión inglesa del siglo XIX
 
-En 1986, la entonces gerente de la tienda original, Lin Xiuhui, echó perlas de tapioca (粉圓, _fěnyuán_) —un dulce de su infancia— en un té helado con leche. En marzo de 1987, esta bebida se registró oficialmente con el nombre de «té de burbujas» (珍珠奶茶, _zhēnzhū nǎichá_).
+En 1995, Ang Lee hizo algo que en aquel momento parecía casi imposible: un director taiwanés que acababa de filmar tres películas familiares en chino aceptó adaptar una novela de Jane Austen, _Sensatez y sentimientos_, una película enteramente en inglés sobre matrimonio y clase en las mansiones inglesas del siglo XIX. El guion fue escrito por la propia protagonista, Emma Thompson, quien más tarde ganó el Óscar a mejor guion adaptado por ese trabajo y se convirtió en la única persona en la historia de la Academia premiada tanto por actuación como por escritura.[^20]
 
-Lo que vino después lo sabe todo el mundo. Pero la autoría del té de burbujas estuvo envuelta en una demanda judicial de diez años: la casa de té Hanlin de Tainan también reclamó ser la inventora. El tribunal dictaminó finalmente que no se podía determinar un inventor único, ya que el concepto de «añadir perlas de tapioca al té» era demasiado simple para constituir una patente.
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/2WGq2Rbs1Qg" title="Sensatez y sentimientos (1995) Tráiler oficial" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-> **✦** «Una perla de tapioca hizo que el mundo volviera a prestar atención al té taiwanés.»
+_Tráiler oficial de Sony Pictures Entertainment: la primera película de Hollywood de Ang Lee, un director chino filmando el matrimonio y la clase en las mansiones inglesas del siglo XIX._
 
-En 2024, según estadísticas del Ministerio de Economía, la facturación de las tiendas de bebidas en Taiwán alcanzó los 133,13 mil millones de dólares taiwaneses, con 16.070 tiendas de bebidas de té preparadas a mano, que representan el 57 % del total de tiendas de bebidas. Se abren un promedio de 40 nuevas tiendas al mes. Con 23 millones de habitantes en toda la isla, hay una tienda de bebidas de té preparadas a mano por cada 1.400 personas.
+Visto en retrospectiva, la elección no era en absoluto sorprendente. Austen escribía sobre personas atadas por las normas: mujeres que no podían declarar directamente su amor, sentimientos que debían esconderse bajo una conducta apropiada, intensidades comprimidas bajo la calma de la superficie. Eso era precisamente lo que Ang Lee mejor sabía filmar. Había filmado durante tres películas la represión de las familias chinas; al trasladarse a una mansión inglesa, la forma de la represión cambiaba, pero no su esencia. _Sensatez y sentimientos_ obtuvo siete nominaciones en la 68.ª edición de los Óscar, y Thompson se llevó mejor guion adaptado. Ese mismo año, la película también le dio a Lee el Oso de Oro en el 46.º Festival de Berlín. Sumado al Oso de _El banquete de bodas_, Ang Lee se convirtió en el único director de la historia en ganar dos veces el Oso de Oro.[^21]
 
-Un informe de la era digital y NielsenIQ señala que el mercado taiwanés de bebidas de té preparadas a mano sigue en expansión, impulsado por el té fresco con leche, los tés de frutas y los sabores de temporada. Marcas como 50 Lan, Qingxinfuquan y Mikasya ya han abierto más de mil sucursales en el extranjero.
+Luego, _La tormenta de hielo_ (1997) demostró que no solo sabía filmar un tipo de tema. Esta vez dirigió la cámara hacia familias de clase media en los suburbios estadounidenses de 1973 para construir una fría fábula sobre la desintegración moral. La película ganó el premio a mejor guion en el Festival de Cannes; el guionista fue James Schamus, colaborador de Lee desde _Pushing Hands_. Más tarde, la compañía que ambos cofundaron se reorganizó y se convirtió en Focus Features, dedicada al cine independiente estadounidense.[^22]
 
-## La corriente oculta del té falsificado
+No todo paso fue exitoso. _Cabalga con el diablo_ (1999), sobre la guerra civil estadounidense, fue un fracaso comercial: recaudó solo alrededor de 630.000 dólares en Norteamérica.[^23] Pero Ang Lee nunca construyó su trayectoria sobre la base de acertar siempre. La construyó a partir de seguir entrando, después de cada fracaso, en un nuevo material que no estaba seguro de poder filmar bien. Para él, aquello que uno ya sabe filmar con certeza puede ser, justamente, lo peligroso.
 
-Taiwán produce alrededor de 14.000 toneladas métricas de té al año, pero el consumo interno supera con creces esa cifra. La brecha se cubre con importaciones: el precio medio de importación del té vietnamita es de solo 60 dólares taiwaneses por kilogramo, mientras que el té de alta montaña Shanlinxi de Taiwán cuesta a partir de 2.000 dólares taiwaneses el _jin_ (600 g).
+> ✦ “Ser director es lo único que sé hacer, mi única sensación de seguridad; pero esa seguridad se obtiene mediante el riesgo. Es contradictorio en sí mismo”.[^24]
 
-Un margen de beneficio de 6 a 7 veces hace que la «mezcla de té importado haciéndolo pasar por té taiwanés» se convierta en una llaga de la industria. En 2025, la fiscalía desmanteló a operadores fraudulentos que mezclaban té vietnamita con té de alta montaña y lo vendían a célebres casas de té centenarias del país. Qiu Chuifeng, director de la Estación de Mejora del Té, respondió que mezclar té de distintos orígenes en sí mismo no es ilegal: «el verdadero problema reside en el etiquetado poco claro o la inducción deliberada al error».
+## El instante en que volaron en el bosque de bambú, y el mundo vio por primera vez así el wuxia en chino
 
-La respuesta del gobierno ha sido promover sellos de denominación de origen: el té de alta montaña de Alishan, el Dingding Oolong de Lugu y el té paochong de Wenshan ya han obtenido registros de sellos de denominación de origen. El sistema de trazabilidad de producción y venta también se está ampliando. Pero para el consumidor medio, la mejor forma de distinguir el té auténtico del falsificado sigue siendo comprar directamente a agricultores de confianza.
+_Crouching Tiger, Hidden Dragon_ (2000) fue la gran apuesta con la que Ang Lee unió los sueños wuxia de su infancia, la estética china y la industria de Hollywood. La película adapta la novela original de Wang Dulu y reunió a Chow Yun-fat como Li Mu-bai, Michelle Yeoh como Yu Shu-lien, Zhang Ziyi como Yu Jiao-long y Chang Chen; la coreografía marcial fue de Yuen Woo-ping, la fotografía de Peter Pau, la música de Tan Dun y el violonchelo de Yo-Yo Ma.[^25] Lo que el mundo entero recordó fue aquella secuencia de qinggong en el bosque de bambú: cuerpos flotando sobre las copas de bambú, destellos de espadas entre hojas verdes. El público occidental nunca había visto un wuxia así.
 
-> **⚠️ Punto de vista controvertido**
-> Algunos actores de la industria consideran que, en lugar de dedicar esfuerzos a perseguir el té falsificado, debería apostarse frontalmente por una ruta de especialización del té taiwanés —vender té que cuesta miles de dólares taiwaneses el _jin_ por decenas de miles—. El té importado compite en el mercado de bajo costo; el té taiwanés debería ascender. Pero otros replican: no todos los consumidores pueden permitirse té premium, y el colapso de la confianza en el mercado de precio accesible terminaría perjudicando a toda la industria.
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/q-HrIQLdaNE" title="Crouching Tiger, Hidden Dragon Tráiler oficial" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-## El tiempo en el té
+_Tráiler oficial de Sony Pictures Classics: el bosque de bambú y el qinggong de *Crouching Tiger, Hidden Dragon* hicieron que el mundo viera por primera vez de esta manera el wuxia en chino._
 
-La historia del té taiwanés es, en el fondo, una historia de «tiempo».
+La película recibió diez nominaciones en la 73.ª edición de los Óscar y ganó cuatro premios: mejor película en lengua extranjera, mejor fotografía para Peter Pau, mejor dirección artística para Tim Yip y mejor música original para Tan Dun.[^26] La taquilla también entró en la historia: alrededor de 128 millones de dólares en Norteamérica y 213 millones a nivel mundial. Su récord de recaudación para una película en lengua extranjera en Norteamérica se mantuvo durante aproximadamente un cuarto de siglo, hasta que fue superado a mediados de la década de 2020.[^27]
 
-El tostado con carbón del Dingding Oolong requiere de 6 a 8 horas de cocción lenta a baja temperatura. La dulzura del té de alta montaña proviene de la niebla y las nubes que envuelven los 2.000 metros de altitud día y noche. El [[té de burbujas]] de Chun Shui Tang cocina las perlas de tapioca durante 30 segundos hasta lograr su textura _Q_ (elástica). Los agricultores de té (茶農) de Lugu esperan un año entero para las dos cosechas de primavera e invierno.
+Pero lo más conmovedor de _Crouching Tiger, Hidden Dragon_ no está en las artes marciales. Li Mu-bai y Yu Shu-lien se amaron toda la vida sin lograr decírselo, comprimiendo el sentimiento bajo reglas y responsabilidades hasta que la muerte los separó. Es otra vez el viejo tema de Ang Lee: el amor es más intenso allí donde no puede ser dicho. La ligereza del bosque de bambú es la superficie; el peso de la represión es el interior. Las espadas y sombras del jianghu, el mundo de los guerreros errantes, son solo el envoltorio. Lo que arde y se apaga en el centro de la película son dos personas que se pierden por respeto a la escuela marcial, a la medida adecuada, a todo un sistema de reglas en las que quizá ni ellos creen del todo pero que se niegan a transgredir. El mundo vio un espectáculo oriental capaz de volar. Ang Lee filmó las palabras que dos personas envejecidas ya no alcanzaron a decirse. Para un niño de familia waisheng educado desde pequeño para ser sensato, esforzarse y guardar las emociones, ese dolor de “me importa, pero justamente por eso no puedo decirlo” no requería investigación: lo conocía desde la infancia.
 
-Cuando Dodd embarcó el primer Formosa Oolong en 1869, no podía imaginar que 157 años después, la gente de esta isla pondría el té en vasos de plástico, le insertaría una pajita gruesa y haría cola durante 30 minutos para comprar una taza. Pero el té sigue siendo té. Solo ha cambiado la forma de beberlo y quién lo bebe.
+> 💡 **¿Sabías que?**
+> En el mundo de habla china, la recepción inicial de _Crouching Tiger, Hidden Dragon_ estuvo lejos del trato reverencial que recibió en Occidente. Muchos espectadores chinos consideraban que ese wuxia era “demasiado lento” o “demasiado artístico”, y no toleraban bien el acento de Chow Yun-fat al hablar mandarín. Una obra que hizo que Occidente tomara en serio por primera vez el cine en chino fue primero cuestionada dentro de su propio círculo cultural. Esa situación de “ser entendido más afuera que adentro” era muy familiar para Ang Lee, desde sus años como estudiante que no entró a la universidad hasta su etapa como yerno desempleado en Estados Unidos.
 
-En Taiwán, el té no es un ritual, es el día a día. Pueden ser las primeras yemas recogidas al alba, a las cuatro de la mañana, entre la niebla matutina de Alishan por los agricultores de té, o esa taza de medio azúcar y poco hielo que compras a las tres de la tanda frente a tu oficina. Entre ambas cosas hay una distancia de altitud, artesanía, precio y toda una cadena de valor —pero ese primer sorbo es, en ambos casos, el sabor de esta isla.
+## A los 49 años, su padre le dijo que “avanzara con casco de acero”
+
+_Hulk_ (2003) fue el giro más polémico de la carrera de Ang Lee. Aceptó una adaptación de Marvel, con Eric Bana, Jennifer Connelly y Nick Nolte, e intentó convertir una película de superhéroes en un drama psicológico sobre trauma paterno-filial e ira interior. El resultado fue un fracaso financiero: costó alrededor de 137 millones de dólares y, sumado el marketing, terminó generando pérdidas; la crítica se dividió entre quienes la consideraron demasiado pesada y quienes la vieron demasiado audaz. No era una mala película, pero dejó a Lee exhausto, al punto de pensar en retirarse.[^28]
+
+Fue a ver a su padre. Un padre que se había opuesto toda la vida a que hiciera cine. La escena tiene en sí misma una ironía del destino: aquel director Lee que desde la infancia consideraba que el cine no era una profesión seria y esperaba que su hijo siguiera una ruta más estable se convirtió ahora en la última persona capaz de darle una justificación legítima para detenerse. Ang Lee pensó que esta vez su padre, como siempre, le aconsejaría abandonar ese oficio, dándole por fin una salida. Pero no fue así. Por primera vez, Lee Sheng le dijo que siguiera filmando. Sus palabras fueron duras: “Apenas tienes 49 años. ¿Qué mal ejemplo les vas a dar a tus hijos?”. Luego vino la frase que más tarde sería citada innumerables veces: “Ponte un casco de acero y avanza, ve a filmar”.[^29] El padre que toda la vida le había pedido contención y sentido práctico, en el último tramo de su vida, terminó siendo quien lo empujó hacia adelante.
+
+Unas dos semanas después de decir esas palabras, Lee Sheng murió repentinamente en 2004.[^30]
+
+> ⚠️ **Perspectiva polémica**
+> La frase más citada sobre Ang Lee suele ser “todo el mundo tiene una montaña Brokeback en el corazón”. Pero Ang Lee no la dijo; más bien parece haber sido un eslogan promocional de la época, y algunos sostienen que la dijo su hermano, Khan Lee. Con el tiempo, la frase quedó atribuida a Ang Lee. Lo que sí pertenece realmente a esta historia de padre e hijo, y efectivamente salió de la boca de Lee Sheng, es “ponte un casco de acero y avanza”. Un padre que toda la vida pensó que el cine no era algo serio le dejó a su hijo, antes de morir, la orden de no detenerse. Eso está más cerca de la verdad que cualquier frase célebre, y es más difícil de soportar.
+
+Su padre se fue, y la frase “sigue filmando” quedó convertida en testamento. Dos años después, Ang Lee subió al escenario de los Óscar con _Secreto en la montaña_, y aquel premio a mejor director pareció más bien el cumplimiento de una promesa hecha por un hijo que acababa de perder a su padre y al que su padre le había pedido no rendirse.
+
+## Dos vaqueros, dos Leones de Oro y el amor que no puede decirse
+
+_Secreto en la montaña_ (2005), adaptación del relato de Annie Proulx, tiene como protagonistas a Ennis, interpretado por Heath Ledger, y Jack, interpretado por Jake Gyllenhaal: dos hombres en el oeste estadounidense de la década de 1960 a quienes toda una época les prohíbe amarse. Ang Lee la filmó como una tragedia de la represión: se amaron toda la vida, pero nunca pudieron admitirlo. Es, una vez más, su núcleo más profundo: los sentimientos más hondos suelen quedar atrapados allí donde no pueden ser pronunciados.
+
+La película ganó primero el León de Oro en el 62.º Festival de Venecia; luego obtuvo ocho nominaciones en la 78.ª edición de los Óscar y ganó tres premios. Ang Lee obtuvo mejor director y se convirtió en el primer asiático y director no blanco en recibir ese galardón en la historia de los Óscar.[^31] Pero esa noche también dejó una de las controversias más célebres de la historia del cine: _Secreto en la montaña_, ampliamente considerada favorita, perdió sorpresivamente el premio a mejor película frente a _Crash_.[^32]
+
+En el momento de aceptar el premio, Lee citó primero la frase de Jack en la película, “I wish I knew how to quit you”, y luego pasó al mandarín para decir, hacia el otro lado del estrecho, “Gracias a todos por su preocupación”.[^33] En su interior llevaba dos cosas: un padre que acababa de irse y una tierra natal que siempre se había preocupado por él.
+
+> ✦ “Como director taiwanés, tengo que estar a la altura; por más duro que sea, debo aguantar”.[^34]
+
+Dos años después, con _Deseo, peligro_ (2007), Ang Lee llevó la represión hasta su borde más peligroso. Adaptada de la novela de Eileen Chang, la película transcurre en el Shanghái de la década de 1940, bajo ocupación japonesa, y cuenta la historia de un grupo de estudiantes patriotas que planea asesinar a un colaboracionista. Tony Leung interpreta al señor Yee; Tang Wei, a Wang Jiazhi; y también actúa Wang Leehom. Una estudiante, atrapada entre el deseo y la misión, empieza a no saber de qué lado está. La película le dio a Ang Lee su segundo León de Oro en Venecia, convirtiéndolo en un director dos veces ganador del máximo honor del festival; en los Golden Horse obtuvo siete premios competitivos.[^35]
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/CizN-DvGhrc" title="Deseo, peligro Tráiler oficial" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_Tráiler oficial de Focus Features: *Deseo, peligro*, adaptación de Eileen Chang con la que Ang Lee obtuvo por segunda vez el León de Oro de Venecia._
+
+_Deseo, peligro_ también pagó un precio. En Estados Unidos recibió clasificación NC-17, y la protagonista Tang Wei fue vetada en China durante aproximadamente dos o tres años.[^36] Que una película pudiera hacer desaparecer de pronto a una actriz joven durante dos o tres años dice por sí solo cuán sensible era el nervio que tocaba esa historia. Para Ang Lee, sin embargo, la película completaba algo que venía trabajando desde _Sensatez y sentimientos_ hasta _Secreto en la montaña_: llevar a una persona a una posición insoportable y observar qué crece allí. El deseo, aquí, carga con la narración misma: es el lugar donde se derrumban al mismo tiempo la posición política, el amor y la identidad de una persona. La vacilación final de Wang Jiazhi, las palabras que Li Mu-bai no dijo y el amor que Ennis no se atrevió a admitir son distintas mutaciones de una misma cosa: una persona inmovilizada entre lo que “debe” y lo que “quiere”.
+
+## Apostar con un tigre digital y 120 cuadros por segundo por algo para lo que la industria aún no estaba preparada
+
+En su etapa posterior, Ang Lee se convirtió en un apostador tecnológico. Ya no le bastaba con contar bien una historia; empezó a usar el cine para poner a prueba los límites del medio mismo.
+
+_Una aventura extraordinaria_ (2012), adaptación de la novela de Yann Martel, cuenta la historia de un niño indio que, tras un naufragio, queda a la deriva en el océano Pacífico dentro de un bote salvavidas junto a un tigre de Bengala. El protagonista, Suraj Sharma, fue elegido entre más de tres mil jóvenes y nunca había actuado en cine; el tigre, alma de toda la película, fue en gran parte generado digitalmente.[^37] La película recibió once nominaciones en la 85.ª edición de los Óscar y ganó cuatro premios. Ang Lee obtuvo por segunda vez el Óscar a mejor director y sigue siendo, hasta hoy, el único director asiático que ha ganado dos veces ese galardón.[^38]
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/9A0p_SJ8eu4" title="Una aventura extraordinaria Tráiler oficial" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_Tráiler oficial de 20th Century Studios: un niño, un bote salvavidas, un tigre digital y el segundo Óscar a mejor director de Ang Lee._
+
+Pero la noche de triunfo de _Una aventura extraordinaria_ contenía una sombra hiriente. Rhythm & Hues, la compañía de efectos visuales que creó ese tigre y ese mar, se declaró en bancarrota unas dos semanas antes de que la película ganara. La noche de los Óscar, cuando los ganadores del premio a efectos visuales subieron al escenario para agradecer e intentaron decir algunas palabras sobre toda la industria, el micrófono quedó cubierto por la música; afuera, cientos de trabajadores de efectos visuales protestaban.[^39] Una película que ganó prestigio técnico gracias a los efectos visuales estaba sostenida por una industria explotada hasta la quiebra. Ese contraste se ha discutido muchas veces desde entonces, y no es cómodo.
+
+Luego fue aún más lejos. _Billy Lynn: honor y sentimiento_ (2016) fue el primer largometraje de ficción en la historia filmado a 120 cuadros por segundo, en 120 fps, 4K y 3D. En aquel momento, solo un número muy reducido de salas en todo el mundo podía proyectar completa la versión que él quería mostrar. El costo fue el fracaso en taquilla: con un presupuesto de alrededor de 40 millones de dólares, recaudó unos 31 millones a nivel mundial.[^40] Mason Lee, segundo hijo de Ang Lee, interpretó en la película a Foo, el soldado taiwanés-estadounidense del escuadrón Bravo.[^41]
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/veoPig2LJDU" title="Billy Lynn: honor y sentimiento Tráiler oficial" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_Tráiler oficial de Sony Pictures Entertainment: *Billy Lynn: honor y sentimiento*, el primer largometraje de ficción de la historia filmado a 120 cuadros por segundo._
+
+En _Proyecto Géminis_ (2019), usó tecnología digital de rejuvenecimiento para hacer que Will Smith peleara contra una versión joven de sí mismo, también filmada a 120 cuadros por segundo. Comercialmente volvió a perder dinero: Paramount estimó pérdidas de unos 110 millones de dólares.[^42] En los últimos años ha seguido preparando nuevos proyectos, entre ellos uno sobre boxeo y una película biográfica de Bruce Lee protagonizada por Mason Lee, aunque su avance aún no está definido.
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/AbyJignbSj0" title="Proyecto Géminis Tráiler oficial" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+_Tráiler oficial de Paramount Pictures: en *Proyecto Géminis*, Ang Lee usa rejuvenecimiento digital para que Will Smith pelee contra una versión joven de sí mismo._
+
+> 📝 **Nota curatorial**
+> Suele leerse esta etapa tardía de Ang Lee, con sus películas a 120 cuadros por segundo, como una serie de “fracasos comerciales”. Pero ese marco no entiende lo que estaba haciendo. Un director que ya ganó dos Óscar y no tiene nada que demostrar podría seguir filmando películas premiables de rentabilidad segura. Él elige no hacerlo. Decide filmar en un formato que casi ninguna sala puede proyectar y que está destinado a perder dinero porque, para él, el verdadero miedo no es perder dinero, sino quedarse en un lugar seguro. Lo dijo alguna vez: “Cuando me siento muy seguro, es cuando más inquieto estoy”.[^43] Esos 120 cuadros por segundo que perdieron dinero son la forma más costosa que encontró una persona llena de temores para obligarse a seguir avanzando, tal como su padre le pidió.
+
+## Volver a Taiwán, entre los Golden Horse y la política
+
+Ang Lee nunca olvidó Taiwán. En 2018 asumió la presidencia del Comité Ejecutivo de los Premios Golden Horse, tomando el relevo de Sylvia Chang. Durante su gestión creó las “clases magistrales de cine Golden Horse”, con el fin de traer experiencia cinematográfica de nivel mundial a jóvenes creadores taiwaneses. En 2022 dejó el cargo y fue sucedido por el director de fotografía Mark Lee Ping-bing; en 2023 volvió como presidente del jurado de la 60.ª edición de los Golden Horse.[^44]
+
+![Ang Lee asiste al Festival de Cannes y sonríe ante la cámara](/article-images/people/ang-lee-cannes-2013.webp)
+_Ang Lee en el Festival de Cannes en 2013. Foto: Georges Biard. [CC BY-SA 3.0 vía Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ang_Lee_Cannes_2013.jpg)._
+
+Al año siguiente de asumir la presidencia, los Golden Horse enfrentaron una tormenta. En la 55.ª edición de 2018, el discurso de aceptación de la documentalista Fu Yue generó una controversia a ambos lados del estrecho, y desde el año siguiente China comenzó a boicotear los premios. Para alguien que acababa de volcar toda su energía en ese festival, fue un momento difícil: defendía un premio del cine en lengua china justo cuando ese premio quedaba arrastrado por una corriente política que no podía controlar. Como presidente, Ang Lee mantuvo una postura muy consistente en entrevistas posteriores: defendía la independencia del cine mismo. “Del lado de Taiwán hay libertad, el festival es abierto”; “hablemos de arte como arte, espero que no haya otros factores políticos que interfieran”; “espero que los Golden Horse sean muy puros, que todos den respeto a los cineastas”.[^45] No eligió una posición política de un lado u otro. Solo insistió en una cosa: dejar que el cine sea cine. Esa actitud coincide con toda su obra: nunca cuenta desde un bando; se coloca junto a la persona atrapada en medio, sin salida fácil a izquierda ni derecha.
+
+En estos años, el mundo le ha dado casi todos los reconocimientos posibles. En 2021, la Academia Británica de Cine le otorgó el BAFTA Fellowship, su honor a la trayectoria; en 2025, el Sindicato de Directores de Estados Unidos, DGA, le concedió su premio a la trayectoria.[^46] En el escenario de la DGA, a los 71 años, Lee empezó con una broma: “Es la primera vez que doy un discurso usando anteojos para leer; parece que este sí es el momento de recibir un premio a la trayectoria”. Luego dijo una frase que reunió toda una vida.[^47]
+
+> ✦ “Nací en Taiwán y crecí en Taiwán; estar hoy en este escenario es como ver un sueño hecho realidad”.[^47]
+
+## La represión no fue derrotada, solo dejó de acechar
+
+En 2016, alrededor de la filmación de _Billy Lynn_, Ang Lee explicó en una entrevista con claridad ese tema que atraviesa todas sus películas y su propia vida. Dijo que hay ciertas cosas que nunca ha logrado derrotar: como la represión o la figura del padre; elementos que siempre están en constante transformación.[^48]
+
+Sin embargo, lo que dijo después fue donde realmente ocurrió la reconciliación: seguiría describiendo al padre en sus películas, pero sin esa presión. Aquello con lo que había lidiado toda su vida, finalmente estaba bien, era parte del pasado.[^49]
+
+> ✦ «Hay cosas que nunca he derrotado, como la represión o mi padre; siempre están transformándose».[^50]
+
+Aquella montaña de _Brokeback Mountain_ nunca fue trasladada. Aquel padre, que se opuso a su carrera cinematográfica durante toda su vida pero que, antes de morir, le pidió que «avanzara con el casco puesto», no volverá para escuchar un «gracias» de su hijo. El mundo recuerda los dos premios Oscar, los dos Leones de Oro de Venecia y los dos Osos de Oro de Berlín; recuerda cómo un niño de origen _waishengren_ se convirtió en un orgullo de Taiwán reconocido mundialmente. Pero lo que Ang Lee ha filmado realmente durante toda su vida es a aquel hijo de 2006, de pie sobre un escenario, que acababa de perder a su padre y decía ante la cámara en mandarín: «Gracias a todos por su preocupación». Superó seis años de cocina y el miedo recurrente de escuchar «ya no puedo más», transformando todo aquello que no podía contener en cine.
+
+---
+
+**Lecturas adicionales**:
+
+- [Cine taiwanés](/es/art/taiwanese-cinema) — Desde el cine en taiwanés y el realismo social hasta el Nuevo Cine de Taiwán y la era contemporánea; la tradición que Ang Lee heredó y expandió.
+- [Hou Hsiao-hsien](/es/people/hou-hsiao-hsien) — El estandarte del Nuevo Cine de Taiwán de la misma generación, quien eligió un camino de autor completamente distinto al de Ang Lee.
+- [Yang De-chang](/es/people/yang-dechang) — El director que diseccionó la ansiedad moderna de Taiwán a través de una ciudad; otra cumbre del Nuevo Cine de Taiwán.
+- [Tsai Ming-liang](/es/people/tsai-ming-liang) — El director de autor taiwanés que llevó la soledad y la lentitud al extremo, con un recorrido opuesto a la trayectoria de Ang Lee en Hollywood.
+- [Andre Chiang](/es/people/andre-chiang-taiwanese-culinary-innovator) — Otro creador taiwanés reconocido en el sistema occidental, que utiliza la cocina Michelin en lugar de la lente cinematográfica para plantear la misma pregunta: «¿Quién soy yo?».
+
+## Fuentes de imágenes
+
+- Hero: retrato de Ang Lee, fotografía de Sean Reynolds, CC BY 2.0, [Wikimedia Commons](<https://commons.wikimedia.org/wiki/File:Ang_Lee_(8464864982).jpg>)
+- Imagen 1 del texto: Festival de Cine Asiático de Hong Kong, 2007, fotografía de WikiCantona, CC BY-SA 3.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ang_Lee_HKAFF_2007.jpg)
+- Imagen 2 del texto: Festival de Cannes, 2013, fotografía de Georges Biard, CC BY-SA 3.0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ang_Lee_Cannes_2013.jpg)
 
 ## Referencias
 
-- [Academia de Té — Línea temporal de la historia del té taiwanés](https://teatalkacademy.com/celebrities/13-tang-jia-hong/152-c3offee2019-05) (fuente primaria, cronología completa de la historia del té)
-- [Wikipedia — John Dodd](https://zh.wikipedia.org/zh-tw/%E7%B4%84%E7%BF%B0%C2%B7%E9%99%B6%E5%BE%B7)
-- [Nippon.com — Koki Arai, padre del té negro de Taiwán](https://www.nippon.com/hk/japan-topics/g02140/) (fuente primaria, reportaje de investigador japonés)
-- [Wikipedia — Té Dingding Oolong](https://zh.wikipedia.org/zh-hant/%E5%87%8D%E9%A0%82%E7%83%8F%E9%BE%8D%E8%8C%B6)
-- [Chun Shui Tang — La invención del té de burbujas](https://www.chunshuitang.com.tw/article-detail/invent-bubble-milk-tea/) (fuente primaria)
-- [United Daily News — 40 nuevas tiendas de té preparado al mes](https://money.udn.com/money/story/8888/8302992) (estadísticas de 2024)
-- [Epoch Times — Facturación de tiendas de bebidas: 133,1 mil millones](https://www.epochtimes.com/b5/25/4/5/n14474904.htm) (datos del Ministerio de Economía + Ministerio de Hacienda)
-- [NewsMarket — Problema de mezcla de té importado en Taiwán](https://www.newsmarket.com.tw/blog/220461/) (reportaje de investigación)
-- [UDN News — La producción anual de 14.000 toneladas de té taiwanés no es suficiente](https://udn.com/news/story/7270/9303527) (entrevista con el director de la Estación de Mejora del Té, 2026)
-- [Rutopio — Champagne of Teas: historia económica del té en Taiwán](https://chingru.me/essay/Champagne-of-Teas/) (en inglés, perspectiva internacional)
-- [Tea & Coffee Trade Journal — The Global Tea Report 2024](https://www.teaandcoffee.net/feature/34254/the-global-tea-report-2024/) (en inglés, informe global de la industria)
-- [Liao Changxing Tea — Zona productora de Dayuling](https://www.sumusen.com.tw/%E5%A4%A7%E7%A6%B9%E5%B6%BA%E8%8C%B6%E5%8D%80/) (fuente primaria del comerciante de té, datos de altitud)
-- [Ministerio de Agricultura — Explicación sobre la mezcla de té importado](https://www.moa.gov.tw/theme_data.php?theme=news&sub_theme=agri&id=3562) (fuente primaria, respuesta gubernamental)
+[^1]: [李安 — 中文維基百科](https://zh.wikipedia.org/zh-tw/李安) — Entrada general sobre la vida y filmografía de Ang Lee, su premio Óscar de 2006 y su discurso de aceptación, incluida la marca histórica de mejor director por _Secreto en la montaña_.
+
+[^2]: [老男孩李安 — 鏡週刊（2016）](https://www.mirrormedia.mg/story/20161004pol002) — Entrevista de perfil en profundidad que aborda cómo el padre de Ang Lee, Lee Sheng, le pidió antes de morir que siguiera filmando, y cómo murió dos semanas después.
+
+[^3]: [李安 — 中文維基百科](https://zh.wikipedia.org/zh-tw/李安) — Indica que Ang Lee nació el 23 de octubre de 1954 en Chaozhou, condado de Pingtung, y resume su contexto familiar temprano.
+
+[^4]: [Ang Lee — 英文維基百科](https://en.wikipedia.org/wiki/Ang_Lee) — Registra la vida de su padre, Lee Sheng, sus cargos como director en la Escuela Normal de Hualien, la Segunda Secundaria de Tainan y la Primera Secundaria de Tainan, así como su muerte en 2004.
+
+[^5]: [李安 — 台灣電影網](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12437) — Base de datos oficial de la Oficina de Cine y Audiovisuales del Ministerio de Cultura, con el registro de sus dos fracasos en el examen universitario y su ingreso al Departamento de Cine y Teatro de la Escuela Nacional de Artes.
+
+[^6]: [台灣之光李安以《少年Pi》奪奧斯卡最佳導演 — Taiwanese American（2013）](https://www.taiwaneseamerican.org/2013/02/taiwanese-american-ang-lee-wins-best-director-academy-award-for-life-of-pi/) — Entrevista de 2013 en la que habla de su identificación con “el lado que pierde” y de su proyección personal en la posición débil de Taiwán.
+
+[^7]: [Ang Lee — NYU Tisch School of the Arts](https://tisch.nyu.edu/grad-film/alumni/ang-lee) — Página oficial de exalumnos de la Universidad de Nueva York, que consigna su licenciatura en teatro por la Universidad de Illinois y su maestría en producción cinematográfica por NYU.
+
+[^8]: [Ang Lee — 英文維基百科](https://en.wikipedia.org/wiki/Ang_Lee) — Señala que Ang Lee fue compañero de Spike Lee en NYU y asistente de dirección en su obra de graduación.
+
+[^9]: [李安 — 台灣電影網](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12437) — Registra la secuencia de obras estudiantiles, incluido el premio Golden Harvest para _I Wish I Was by That Dim Lake_ y el premio Wasserman de NYU a mejor director por _Fine Line_.
+
+[^10]: [Ang Lee — 英文維基百科](https://en.wikipedia.org/wiki/Ang_Lee) — Registra el doctorado en microbiología de su esposa, Lin Hui-chia, y su trayectoria como profesora investigadora de patología.
+
+[^11]: [李安 — 中文維基百科](https://zh.wikipedia.org/zh-tw/李安) — Indica que se casó en Nueva York en agosto de 1983 y que su hijo mayor, Haan Lee, nació en 1984.
+
+[^12]: [李安 — 中文維基百科](https://zh.wikipedia.org/zh-tw/李安) — Cita tomada de _A través del cine: diez años como un sueño_, de Chang Liang-pei, en la que Ang Lee habla del miedo y la inseguridad como motores creativos.
+
+[^13]: [徐立功與李安的合作 — 界面新聞](https://www.jiemian.com/article/1077069.html) — Registra que en 1990 _Pushing Hands_ ganó el primer premio y _El banquete de bodas_ el segundo en el concurso de guiones destacados de la Oficina de Información, así como la inversión de la Central Motion Picture Corporation en _Pushing Hands_.
+
+[^14]: [徐立功與李安的合作 — 界面新聞](https://www.jiemian.com/article/1077069.html) — Cita la frase de Hsu Li-kong, subdirector de la Central Motion Picture Corporation, sobre el presupuesto de _Pushing Hands_: “12 millones; ni un centavo más”.
+
+[^15]: [李安 — 中文維基百科](https://zh.wikipedia.org/zh-tw/李安) — Indica que su segundo hijo, Mason Lee, nació en 1990 y más tarde se convirtió en actor.
+
+[^16]: [李安 — 中文維基百科](https://zh.wikipedia.org/zh-tw/李安) — Registra los premios de _Pushing Hands_ (1991): mejor película en el Festival de Cine de Asia-Pacífico, mejor director novel en Amiens y, en los Golden Horse, mejor actor para Lung Sihung, entre otros reconocimientos.
+
+[^17]: [Ang Lee — 英文維基百科](https://en.wikipedia.org/wiki/Ang_Lee) — Registra que _El banquete de bodas_ (1993) ganó el Oso de Oro en Berlín, compartido con _Woman Sesame Oil Maker_, recibió una nominación al Óscar a película extranjera y obtuvo cinco premios Golden Horse.
+
+[^18]: [李安 — 中文維基百科](https://zh.wikipedia.org/zh-tw/李安) — Registra que la larga escena inicial de cocina de _Comer, beber, amar_ se filmó con un chef profesional como doble y tomó más de una semana.
+
+[^19]: [Ang Lee — 英文維基百科](https://en.wikipedia.org/wiki/Ang_Lee) — Registra la nominación de _Comer, beber, amar_ al Óscar a mejor película en lengua extranjera y su remake hollywoodense, _Tortilla Soup_ (2001).
+
+[^20]: [Ang Lee — 英文維基百科](https://en.wikipedia.org/wiki/Ang_Lee) — Registra que _Sensatez y sentimientos_ (1995) fue escrita y protagonizada por Emma Thompson, quien por ese guion se convirtió en la única persona premiada por la Academia tanto en actuación como en escritura.
+
+[^21]: [李安 — 中文維基百科](https://zh.wikipedia.org/zh-tw/李安) — Registra las siete nominaciones al Óscar de _Sensatez y sentimientos_, su Oso de Oro en Berlín y la condición de Ang Lee como único director dos veces ganador del Oso de Oro.
+
+[^22]: [Ang Lee — 英文維基百科](https://en.wikipedia.org/wiki/Ang_Lee) — Registra el premio a mejor guion de _La tormenta de hielo_ (1997) en Cannes y la colaboración de largo plazo con James Schamus, así como el origen de Focus Features.
+
+[^23]: [Ang Lee — 英文維基百科](https://en.wikipedia.org/wiki/Ang_Lee) — Registra el fracaso comercial de _Cabalga con el diablo_ (1999), con una taquilla norteamericana de aproximadamente 630.000 dólares.
+
+[^24]: [金馬電影學院課堂紀錄 — 金馬執委會](https://goldenhorse.org.tw/academy/filmacademyplus/class/history/1518) — Registro de una clase de Ang Lee en la Academia de Cine Golden Horse, donde afirma que la seguridad de ser director se obtiene a través del riesgo.
+
+[^25]: [臥虎藏龍 — Box Office Mojo](https://www.boxofficemojo.com/release/rl2739766785/) — Página de taquilla que también enumera al equipo creativo principal, incluidos Chow Yun-fat, Michelle Yeoh, Zhang Ziyi y Chang Chen.
+
+[^26]: [The Academy Awards — Oscars.org](https://www.oscars.org/) — Datos oficiales de los Óscar: diez nominaciones y cuatro premios para _Crouching Tiger, Hidden Dragon_ en la 73.ª edición, incluidos película extranjera, fotografía, dirección artística y música.
+
+[^27]: [臥虎藏龍 — Box Office Mojo](https://www.boxofficemojo.com/release/rl2739766785/) — Registra la recaudación de aproximadamente 128 millones de dólares en Norteamérica y 213 millones a nivel mundial, así como su récord norteamericano para una película en lengua extranjera.
+
+[^28]: [Ang Lee — 英文維基百科](https://en.wikipedia.org/wiki/Ang_Lee) — Registra el presupuesto aproximado de 137 millones de dólares de _Hulk_ (2003), su fracaso financiero y la recepción crítica dividida.
+
+[^29]: [老男孩李安 — 鏡週刊（2016）](https://www.mirrormedia.mg/story/20161004pol002) — Cita las palabras de Lee Sheng, padre de Ang Lee: “Ponte un casco de acero y avanza, ve a filmar”, además de “apenas tienes 49 años”.
+
+[^30]: [Ang Lee — 英文維基百科](https://en.wikipedia.org/wiki/Ang_Lee) — Registra que su padre, Lee Sheng, murió el 15 de febrero de 2004.
+
+[^31]: [The Academy Awards — Oscars.org](https://www.oscars.org/) — Datos oficiales de los Óscar: ocho nominaciones y tres premios para _Secreto en la montaña_ en la 78.ª edición; Ang Lee fue el primer asiático en ganar mejor director.
+
+[^32]: [Ang Lee — 英文維基百科](https://en.wikipedia.org/wiki/Ang_Lee) — Registra el León de Oro de Venecia para _Secreto en la montaña_ y la controversia por su sorpresiva derrota frente a _Crash_ en mejor película.
+
+[^33]: [李安 — 中文維基百科](https://zh.wikipedia.org/zh-tw/李安) — Registra que en su discurso de los Óscar de 2006 citó una frase de la película y luego saludó en mandarín.
+
+[^34]: [光華雜誌 李安專題（2006）](https://www.taiwan-panorama.com/Articles/Details?Guid=a86e872e-dc89-43b9-bcbd-ee5e07eaeead) — Entrevista de 2006 en la que Ang Lee afirma que, como director taiwanés, debe estar a la altura y aguantar por más duro que sea.
+
+[^35]: [李安 — 中文維基百科](https://zh.wikipedia.org/zh-tw/李安) — Registra el León de Oro de Venecia de _Deseo, peligro_ (2007), sus siete premios Golden Horse y su elenco principal.
+
+[^36]: [Ang Lee — 英文維基百科](https://en.wikipedia.org/wiki/Ang_Lee) — Registra la clasificación NC-17 de _Deseo, peligro_ en Estados Unidos y el veto temporal a Tang Wei en China.
+
+[^37]: [台灣之光李安以《少年Pi》奪奧斯卡最佳導演 — Taiwanese American（2013）](https://www.taiwaneseamerican.org/2013/02/taiwanese-american-ang-lee-wins-best-director-academy-award-for-life-of-pi/) — Registra que Suraj Sharma, protagonista de _Una aventura extraordinaria_, fue elegido entre tres mil candidatos sin experiencia actoral, así como la creación digital del tigre.
+
+[^38]: [The Academy Awards — Oscars.org](https://www.oscars.org/) — Datos oficiales de los Óscar: once nominaciones y cuatro premios para _Una aventura extraordinaria_ en la 85.ª edición; Ang Lee ganó por segunda vez mejor director.
+
+[^39]: [Life of Pi VFX house Rhythm & Hues bankruptcy — Deadline（2013）](https://deadline.com/2013/02/oscars-2013-life-of-pi-vfx-rhythm-hues-bankruptcy-438552/) — Reportaje sobre la bancarrota de Rhythm & Hues antes del premio, la interrupción del discurso en la ceremonia y las protestas afuera del recinto.
+
+[^40]: [Ang Lee — 英文維基百科](https://en.wikipedia.org/wiki/Ang_Lee) — Registra que _Billy Lynn: honor y sentimiento_ (2016) fue el primer largometraje de ficción a 120 fps y su fracaso de taquilla.
+
+[^41]: [李安 — 中文維基百科](https://zh.wikipedia.org/zh-tw/李安) — Registra que Mason Lee, segundo hijo de Ang Lee, interpretó al soldado taiwanés-estadounidense Foo en _Billy Lynn: honor y sentimiento_.
+
+[^42]: [Ang Lee — 英文維基百科](https://en.wikipedia.org/wiki/Ang_Lee) — Registra la tecnología de rejuvenecimiento digital de _Proyecto Géminis_ (2019) y la pérdida estimada de 110 millones de dólares para Paramount.
+
+[^43]: [金馬電影學院課堂紀錄 — 金馬執委會](https://goldenhorse.org.tw/academy/filmacademyplus/class/history/1518) — Registro de la Academia de Cine Golden Horse donde Ang Lee dice: “Cuando me siento muy seguro, es cuando más inquieto estoy”.
+
+[^44]: [金馬獎執行委員會官網 — 金馬執委會](https://www.goldenhorse.org.tw/) — Sitio oficial de los Premios Golden Horse, que registra la llegada de Ang Lee a la presidencia del comité ejecutivo en 2018, la creación de las clases magistrales, su salida en 2022 y su presidencia del jurado en 2023.
+
+[^45]: [李安談金馬與政治 — 鏡週刊（2021）](https://www.mirrormedia.mg/story/20210806ent031/) — Recoge declaraciones de Ang Lee, como presidente de los Golden Horse, sobre la necesidad de que el festival se mantenga independiente de la política.
+
+[^46]: [Ang Lee to receive DGA Lifetime Achievement Award — DGA](https://www.dga.org/news/pressreleases/2024/241210_ang_lee_dga_lifetime_achievement_award) — Comunicado oficial del Sindicato de Directores de Estados Unidos que anuncia el premio a la trayectoria para Ang Lee.
+
+[^47]: [李安獲頒 DGA 終身成就獎 — 遠見（2025）](https://www.gvm.com.tw/article/119050) — Reportaje sobre el discurso de Ang Lee al recibir el premio a la trayectoria de la DGA en 2025, incluida la frase sobre haber nacido y crecido en Taiwán y la broma sobre los anteojos para leer.
+
+[^48]: [老男孩李安 — 鏡週刊（2016）](https://www.mirrormedia.mg/story/20161004pol002) — Entrevista en la que Ang Lee habla de “la represión y el padre” como elementos que siguen transformándose y constituyen temas centrales de su creación.
+
+[^49]: [老男孩李安 — 鏡週刊（2016）](https://www.mirrormedia.mg/story/20161004pol002) — Recoge las palabras de Ang Lee en 2016 sobre seguir describiendo al padre, pero ya sin aquella presión, como estado de reconciliación.
+
+[^50]: [光華雜誌 李安專題（2013）](https://www.taiwan-panorama.com/Articles/Details?Guid=dc6aee91-96e3-46da-bba3-61034128fb79) — Entrevista de _Taiwan Panorama_ de 2013 que recorre la trayectoria creativa de Ang Lee y las preocupaciones centrales de su narrativa transcultural.
