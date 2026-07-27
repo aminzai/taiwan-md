@@ -1339,6 +1339,12 @@ function processFootnotes(md: string): string {
 // 唯一不能順手弄丟的是姓名標示：正文那張沒寫圖說時，把 frontmatter 的
 // 來源 / 授權 / 原始連結掛到它底下（house style 的圖說就住在同一個 <p> 裡，
 // 掛進去直接吃到現成的 caption 樣式），不然 CC BY-SA 的圖會變成沒署名。
+//
+// 太深就不讓位：正文那張擺在文章中段時（如台中市在第 73 個段落才出現），讓位會讓
+// 整篇開頭變成沒有圖，而那兩張離得夠遠、讀者不會讀成同一張重複。門檻用實測定：
+// 量文章起點到正文那張圖的距離，6 段 ≈ 1.2 個螢幕、9 段 ≈ 1.8、11 段 ≈ 2.2、
+// 16 段 ≈ 3.1（1085px 高的視窗）。抓「還在開頭兩個螢幕內」= 前 10 個段落級區塊。
+// 用區塊數不用字數，因為字數跨語言差 2-3 倍、區塊數翻譯後是 1:1 的。
 export interface HeroImageInfo {
   /** frontmatter.image；空值等於這篇沒宣告首圖 */
   src?: string;
@@ -1347,6 +1353,9 @@ export interface HeroImageInfo {
 }
 
 const _HERO_IMG_TAG = /<img\b[^>]*\bsrc\s*=\s*["']([^"']+)["'][^>]*>/gi;
+const _BLOCK_TAG = /<(p|h2|h3|blockquote|ul|ol|figure|table)[\s>]/gi;
+/** 正文那張圖要在前幾個段落級區塊內出現才算「同一個開頭」（見上方實測） */
+const HERO_DEDUPE_MAX_BLOCKS = 10;
 
 /**
  * 圖片路徑正規化：query / hash 去掉、自家絕對網址收成站內路徑、percent-encoding
@@ -1398,6 +1407,10 @@ function dedupeHeroImage(html: string, hero?: HeroImageInfo) {
   let m: RegExpExecArray | null;
   while ((m = _HERO_IMG_TAG.exec(html)) !== null) {
     if (normalizeImageSrc(m[1]) !== target) continue;
+
+    // 太深就不讓位：這張已經是文章中段的插圖，不是開頭那張的重複
+    const blocksAbove = (html.slice(0, m.index).match(_BLOCK_TAG) || []).length;
+    if (blocksAbove > HERO_DEDUPE_MAX_BLOCKS) break;
 
     const imgEnd = m.index + m[0].length;
     const close = html.indexOf('</p>', imgEnd);
