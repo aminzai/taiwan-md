@@ -238,6 +238,6 @@ difficulty: 'beginner'
 
 विस्तारित पठन:
 
-- [ताइवान नदी प्रणाली और जलवैज्ञानिक विशेषताएँ](/geography/台灣河川系統與水文特色)
+- [ताइवान नदी प्रणाली और जलवैज्ञानिक विशेषताएँ](/hi/geography/taiwan-river-systems-and-hydrology)
 - [जलवायु](/geography/氣候)
-- [ताइवान प्लेट गति और भूकंप गतिविधि](/geography/台灣板塊運動與地震活動)
+- [ताइवान प्लेट गति और भूकंप गतिविधि](/hi/geography/tectonic-plates-and-seismic-activity)

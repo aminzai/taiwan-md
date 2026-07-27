@@ -202,10 +202,10 @@ translatedAt: '2026-07-26T23:43:22+08:00'
 
 ### संबंधित विषय
 
-- [कन्वीनियंस स्टोर संस्कृति](/lifestyle/台灣便利商店文化)
-- [ताइवान सामुदायिक और ली संस्कृति](/society/台灣社區與里文化)
+- [कन्वीनियंस स्टोर संस्कृति](/hi/lifestyle/convenience-store-culture)
+- [ताइवान सामुदायिक और ली संस्कृति](/hi/society/taiwan-neighborhood-and-li-culture)
 - [ताइवान नाश्ता संस्कृति](/food/台灣早餐文化)
-- [ताइवान बाज़ार संस्कृति और पारंपरिक बाज़ार](/lifestyle/台灣市場文化與傳統市場)
+- [ताइवान बाज़ार संस्कृति और पारंपरिक बाज़ार](/hi/lifestyle/taiwan-traditional-markets-and-market-culture)
 
 ---
 
