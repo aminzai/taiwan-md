@@ -5,7 +5,18 @@ date: 2026-03-17
 author: 'Taiwan.md'
 category: 'History'
 subcategory: '殖民與帝國'
-tags: ['Historia', 'Compañía Neerlandesa de las Indias Orientales', 'España', 'Ming-Zheng', 'Zheng Chenggong', 'Zheng Jing', 'Shi Lang', 'Reino de Tungning', 'Fuerte Zeelandia']
+tags:
+  [
+    'Historia',
+    'Compañía Neerlandesa de las Indias Orientales',
+    'España',
+    'Ming-Zheng',
+    'Zheng Chenggong',
+    'Zheng Jing',
+    'Shi Lang',
+    'Reino de Tungning',
+    'Fuerte Zeelandia',
+  ]
 readingTime: 10
 lastVerified: 2026-05-16
 lastHumanReview: true
@@ -102,13 +113,13 @@ Los estilos extranjeros y la diversidad cultural llegaron a Taiwán por el camin
 
 **Lecturas complementarias**:
 
-- [Época prehistórica y pueblos indígenas](/history/史前時代與原住民) — Las sociedades autónomas que ya existían en la isla antes del desembarco neerlandés
-- [Período de dominio Qing](/history/清治時期) — Cómo Taiwán se expandió de “pequeña prefectura” a provincia durante los 212 años posteriores a 1683
-- [Historia del comercio marítimo de Taiwán](/history/台灣海洋貿易史) — El contexto completo de las redes comerciales desde los neerlandeses hasta Tungning y el dominio Qing
-- [Historia de los pueblos indígenas de Taiwán y movimiento por la rectificación de nombres](/history/台灣原住民族歷史與正名運動) — Los pueblos pingpu impactados por la oleada migratoria han
-- [Perspectiva histórica insular de Taiwán](/history/台灣島史觀) — La visión histórica de Cao Yonghe centrada en la isla como sujeto, eje fundamental de este período
-- [Formosa](/history/福爾摩沙) — Las controversias sobre el origen del nombre “Formosa” y las formas en que Occidente escribió sobre esta isla durante cuatro siglos
-- [Museo Nacional de Historia de Taiwán](/society/國立臺灣歷史博物館) — La sección 3 de la exposición permanente del NMTH, “La isla y sus gentes nacidas junto al mar”, y la exposición internacional de 2024 “Transcending 1624” presentan directamente este período; 1624 fue el año en que la Compañía Neerlandesa de las Indias Orientales estableció el fuerte Zeelandia en Tayouan
+- [Época prehistórica y pueblos indígenas](/es/history/prehistoric-era-and-indigenous-peoples) — Las sociedades autónomas que ya existían en la isla antes del desembarco neerlandés
+- [Período de dominio Qing](/es/history/qing-dynasty-rule) — Cómo Taiwán se expandió de “pequeña prefectura” a provincia durante los 212 años posteriores a 1683
+- [Historia del comercio marítimo de Taiwán](/es/history/taiwan-maritime-trade-history) — El contexto completo de las redes comerciales desde los neerlandeses hasta Tungning y el dominio Qing
+- [Historia de los pueblos indígenas de Taiwán y movimiento por la rectificación de nombres](/es/history/indigenous-peoples-history-and-naming-movement) — Los pueblos pingpu impactados por la oleada migratoria han
+- [Perspectiva histórica insular de Taiwán](/es/history/taiwan-island-historiography) — La visión histórica de Cao Yonghe centrada en la isla como sujeto, eje fundamental de este período
+- [Formosa](/es/history/formosa-historical-name) — Las controversias sobre el origen del nombre “Formosa” y las formas en que Occidente escribió sobre esta isla durante cuatro siglos
+- [Museo Nacional de Historia de Taiwán](/es/society/national-museum-of-taiwan-history) — La sección 3 de la exposición permanente del NMTH, “La isla y sus gentes nacidas junto al mar”, y la exposición internacional de 2024 “Transcending 1624” presentan directamente este período; 1624 fue el año en que la Compañía Neerlandesa de las Indias Orientales estableció el fuerte Zeelandia en Tayouan
 
 ## Referencias
 

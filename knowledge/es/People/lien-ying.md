@@ -27,7 +27,7 @@ sourceBodyHash: 'sha256:3765efbdda716be7'
 translatedAt: 2026-05-01T20:54:23+08:00
 ---
 
-> **Resumen en 30 segundos:** Lien Ying (Erin), nacida en 1999 en Taichung, comenzó a estudiar ballet, danza folclórica y danza china en segundo de primaria, y cambió al baile urbano en la secundaria. En 2020 participó en _Rising Generation DD52_ y, en el segundo episodio, durante una ronda de duelo, le dijo al mentor principal Will Pan: "Quiero que todo el mundo sepa el nivel de baile que debe tener un grupo femenino". Esa frase se convirtió desde entonces en su sello distintivo. Storm Spades, subcampeón de DD52, debutó bajo el nombre [HUR+](/people/HUR-plus), y ella fue la bailarina principal. En 2025 lanzó su primer EP en solitario, _EZ_, con una línea de hip-hop/R&B, sonidos callejeros con elementos en taiwanés, alejándose deliberadamente de la ruta segura del baladismo. El día de su cumpleaños en 2026, sus fans financiaron colectivamente un escenario en Dadaocheng, donde interpretó por primera vez su nueva canción _Un segundo tarde_. Mientras lanza álbumes con el grupo y simultáneamente saca un EP en solitario, impulsa ambas trayectorias en paralelo. En Taiwán, es la primera integrante de un grupo femenino en hacerlo.
+> **Resumen en 30 segundos:** Lien Ying (Erin), nacida en 1999 en Taichung, comenzó a estudiar ballet, danza folclórica y danza china en segundo de primaria, y cambió al baile urbano en la secundaria. En 2020 participó en _Rising Generation DD52_ y, en el segundo episodio, durante una ronda de duelo, le dijo al mentor principal Will Pan: "Quiero que todo el mundo sepa el nivel de baile que debe tener un grupo femenino". Esa frase se convirtió desde entonces en su sello distintivo. Storm Spades, subcampeón de DD52, debutó bajo el nombre [HUR+](/es/people/hur-plus-band), y ella fue la bailarina principal. En 2025 lanzó su primer EP en solitario, _EZ_, con una línea de hip-hop/R&B, sonidos callejeros con elementos en taiwanés, alejándose deliberadamente de la ruta segura del baladismo. El día de su cumpleaños en 2026, sus fans financiaron colectivamente un escenario en Dadaocheng, donde interpretó por primera vez su nueva canción _Un segundo tarde_. Mientras lanza álbumes con el grupo y simultáneamente saca un EP en solitario, impulsa ambas trayectorias en paralelo. En Taiwán, es la primera integrante de un grupo femenino en hacerlo.
 
 El 19 de junio de 2020 se emitió el segundo episodio de _Rising Generation DD52_.
 
@@ -64,7 +64,7 @@ En la presentación oficial de participantes de DD52, se describió así misma: 
 
 El 4 de septiembre de 2020, final de DD52. Storm Spades, el equipo de Lien Ying, obtuvo 55.4 puntos frente a los 57.9 de Blazing Heart, quedando en segundo lugar.[^5]
 
-Tras el programa, el productor Felipe firmó a las seis integrantes de Storm Spades y formó [HUR+](/people/HUR-plus). La posición de Lien Ying dentro del grupo fue **bailarina principal y vocalista secundaria**. La identidad que construyó en DD52 con aquella frase se tradujo directamente en su rol dentro del grupo.[^2]
+Tras el programa, el productor Felipe firmó a las seis integrantes de Storm Spades y formó [HUR+](/es/people/hur-plus-band). La posición de Lien Ying dentro del grupo fue **bailarina principal y vocalista secundaria**. La identidad que construyó en DD52 con aquella frase se tradujo directamente en su rol dentro del grupo.[^2]
 
 El 6 de noviembre de 2020, HUR debutó. DD52 ganó el premio al mejor programa de variedades en la 56.ª edición de los Golden Bell Awards.[^5]
 
@@ -110,7 +110,7 @@ En la misma entrevista, dijo otra cosa:
 
 > **✦** "Jolin es mi diosa, ¡todavía tengo mucho que aprender de ella!"[^8]
 
-[Jolin Tsai](/people/蔡依林), la mujer que pasó de ser "la última en baile" a convertirse en la reina del canto y el baile en el mundo sinófono, es el ídolo que Lien Ying reconoce abiertamente. La conexión es fascinante: Jolin tardó veinticinco años en pasar de "no sirvo para bailar" a una diosa que hace argas a diez metros de altura; Lien Ying está recorriendo un camino similar a su manera, partiendo de bailarina y expandiendo los límites del marco del ídolo.
+[Jolin Tsai](/es/people/jolin-tsai), la mujer que pasó de ser "la última en baile" a convertirse en la reina del canto y el baile en el mundo sinófono, es el ídolo que Lien Ying reconoce abiertamente. La conexión es fascinante: Jolin tardó veinticinco años en pasar de "no sirvo para bailar" a una diosa que hace argas a diez metros de altura; Lien Ying está recorriendo un camino similar a su manera, partiendo de bailarina y expandiendo los límites del marco del ídolo.
 
 > **📝 Nota del curador**
 > El podcast _Taiwan Hip-Hop Voice_, S3EP.89, tiene un episodio con una entrevista a Lien Ying titulada "De mostrar el nivel de baile de un grupo femenino a redefinir el canto y baile integral".[^9] Este título describe con precisión su arco desde DD52 hasta el EP en solitario: en 2020 definió el "nivel de baile de un grupo femenino"; en 2025 se liberó de esa definición.
@@ -171,11 +171,11 @@ Empezó a bailar en segundo de primaria, cambió de estilo en la secundaria, fue
 
 ## Lecturas complementarias
 
-- [HUR+](/people/HUR-plus) — El grupo de Lien Ying. Subcampeón de DD52, el único grupo que sigue lanzando álbumes seis años después.
-- [Nueva generación de ídolos taiwaneses](/culture/台灣新偶像世代) — De DD52 a Cosmic Cheerleaders, el experimento industrial de los programas de supervivencia de ídolos en Taiwán.
-- [Jolin Tsai](/people/蔡依林) — La "diosa" de Lien Ying. Otra historia de alguien que partió de bailarina y expandió los límites del marco del ídolo.
-- [Rainie Yang](/people/楊丞琳) — Mentora principal de DD52. De 4 in Love a _Ambiguous 2025_, veinticinco años.
-- [Tzuyu Chou](/people/周子瑜) — Otra historia de una chica taiwanesa que encontró su lugar dentro del sistema de ídolos.
+- [HUR+](/es/people/hur-plus-band) — El grupo de Lien Ying. Subcampeón de DD52, el único grupo que sigue lanzando álbumes seis años después.
+- [Nueva generación de ídolos taiwaneses](/es/culture/taiwan-new-idol-generation) — De DD52 a Cosmic Cheerleaders, el experimento industrial de los programas de supervivencia de ídolos en Taiwán.
+- [Jolin Tsai](/es/people/jolin-tsai) — La "diosa" de Lien Ying. Otra historia de alguien que partió de bailarina y expandió los límites del marco del ídolo.
+- [Rainie Yang](/es/people/rainie-yang) — Mentora principal de DD52. De 4 in Love a _Ambiguous 2025_, veinticinco años.
+- [Tzuyu Chou](/es/people/tzuyu) — Otra historia de una chica taiwanesa que encontró su lugar dentro del sistema de ídolos.
 
 ## Referencias
 

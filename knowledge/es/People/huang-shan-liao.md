@@ -194,11 +194,11 @@ That cabinet of "Kinmen 1969" no one looked at, so it disappeared; that sentence
 
 **Further Reading**:
 
-- [Wu Bao-chun](/people/吳寶春) — Another Taiwanese craftsman who won a world championship, the difference is his craftsmanship was seen
-- [Chiang Chen-cheng](/people/江振誠) — Established coordinates for Taiwanese chefs on the international stage, another destiny on the path of "doing things well"
-- [Chang Chih-chi](/people/張志祺) — Another "information curator" who similarly made complexity readable, seeking resonance in the attention era
-- [Jimmy Liao](/people/幾米) — From an advertising company background, turned into an internationally bestselling healing creator, another way of being seen
-- [Fang Feng](/people/唐鳳) — How Taiwan treats a person who is difficult to classify, another mirror
+- [Wu Bao-chun](/es/people/wu-bao-chun) — Another Taiwanese craftsman who won a world championship, the difference is his craftsmanship was seen
+- [Chiang Chen-cheng](/es/people/andre-chiang-taiwanese-culinary-innovator) — Established coordinates for Taiwanese chefs on the international stage, another destiny on the path of "doing things well"
+- [Chang Chih-chi](/es/people/shasha77-chang-chih-chi) — Another "information curator" who similarly made complexity readable, seeking resonance in the attention era
+- [Jimmy Liao](/es/people/jimmy-liao) — From an advertising company background, turned into an internationally bestselling healing creator, another way of being seen
+- [Fang Feng](/es/people/audrey-tang) — How Taiwan treats a person who is difficult to classify, another mirror
 
 ## Image Sources
 

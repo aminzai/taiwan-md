@@ -146,19 +146,19 @@ Cuando en 2025 el nombre de Yu Shien Yang apareció en la lista de premiados del
 **Lecturas complementarias**:
 
 - [Desarrollo de la literatura contemporánea en Taiwán](/art/台灣當代文學發展) — El ecosistema creativo contemporáneo taiwánés que surgió en paralelo al arte de nuevos medios, para comprender el contexto general del mundo cultural.
-- [Teatro y artes escénicas en Taiwán](/art/台灣劇場與表演藝術) — El trasfondo en artes escénicas de creadores interdisciplinares como Huang Yi, en la intersección entre cuerpo y tecnología.
-- [Cine taiwánés](/art/台灣電影) — Otra vertiente del arte audiovisual taiwánés, que comparte escenario festivalero con el arte de nuevos medios.
-- [Comunidad de código abierto y g0v](/technology/開源社群與g0v) — Otra faceta de la cultura tecnológica taiwánés: la intersección entre el espíritu de código abierto y el mundo del arte.
-- [Historia de la industria televisiva en Taiwán](/technology/台灣電視產業史) — La evolución mediática de la radiodifusión a OTT, el contexto institucional de la tecnología audiovisual.
-- [justfont y el desarrollo tipográfico en Taiwán](/technology/justfont與台灣字體發展) — Otro grupo de creadores en la intersección del diseño, la tecnología y la identidad cultural: quienes recuperan trazo a trazo la tipografía de Taiwán.
-- [Tehching Hsieh](/art/謝德慶) — El medio corporal antes de los nuevos medios: pionero del arte de acción taiwánés y maestro internacional de las cinco performances de un año.
-- [Wang Xin-Ren (A-Luan)](/art/王新仁) — Primer artista generativo taiwánés en Art Blocks, figura central del proyecto FAB DAO Hundred Peaks y de akaSwap.
-  [Wang Lian-Cheng (Shrimp Dad)](/art/王連晟) — Ganador del primer premio en la categoría de escultura del Lumen Prize 2017, miembro de i/O Lab y director del festival Lacking Sound, representante del arte de instalaciones sonoras en Taiwán.
-- [Wu Che-Yu](/people/吳哲宇) — Artista de nuevos medios que se autodenomina "relojero antiguo", participante en la Bienal de Venecia Personal Structures × Art Basel Miami × promotor del proyecto de código abierto Taiwan.md.
-- [The Reporter: diez años rescatando el periodismo de investigación de un rubro comercial a un bien público](/society/報導者) — Otro caso de ADN taiwánés impulsado por la comunidad ciudadana y de crecimiento transversal, que muestra otra vía de construcción de bienes públicos por parte de la sociedad civil a partir de 2015.
-- [justfont y el desarrollo tipográfico en Taiwán: una pequeña historia tipográfica de los veinticinco años de Dynafund a los setenta y seis minutos de Jin-Syuan](/technology/justfont與台灣字體發展) — La tipografía como infraestructura cultural, otra dimensión que, al igual que el arte de nuevos medios, se ocupa de la subjetividad visual taiwanesa.
-- [Cables submarinos: visibles en la cima del escudo de silicio, invisibles en el fondo como lifeline](/technology/海底電纜) — El 99% de las colaboraciones curatoriales y exposiciones internacionales de arte de nuevos medios transcurren por cable submarino; este artículo revela esta infraestructura cultural digital invisible.
-- [Aaron Nieh (聶永真)](/people/聶永真) — Primer miembro taiwanés de la Alliance Graphique Internationale (AGI), y la posición curatorial del estudio forever·true en la cultura visual contemporánea de Taiwán.
+- [Teatro y artes escénicas en Taiwán](/es/art/taiwanese-theater-and-performing-arts) — El trasfondo en artes escénicas de creadores interdisciplinares como Huang Yi, en la intersección entre cuerpo y tecnología.
+- [Cine taiwánés](/es/art/taiwanese-cinema) — Otra vertiente del arte audiovisual taiwánés, que comparte escenario festivalero con el arte de nuevos medios.
+- [Comunidad de código abierto y g0v](/es/technology/open-source-and-g0v) — Otra faceta de la cultura tecnológica taiwánés: la intersección entre el espíritu de código abierto y el mundo del arte.
+- [Historia de la industria televisiva en Taiwán](/es/technology/taiwan-television-industry-history) — La evolución mediática de la radiodifusión a OTT, el contexto institucional de la tecnología audiovisual.
+- [justfont y el desarrollo tipográfico en Taiwán](/es/technology/justfont-and-taiwan-typography) — Otro grupo de creadores en la intersección del diseño, la tecnología y la identidad cultural: quienes recuperan trazo a trazo la tipografía de Taiwán.
+- [Tehching Hsieh](/es/art/tehching-hsieh-performance-artist) — El medio corporal antes de los nuevos medios: pionero del arte de acción taiwánés y maestro internacional de las cinco performances de un año.
+- [Wang Xin-Ren (A-Luan)](/es/art/wang-hsin-jen-artist) — Primer artista generativo taiwánés en Art Blocks, figura central del proyecto FAB DAO Hundred Peaks y de akaSwap.
+  [Wang Lian-Cheng (Shrimp Dad)](/es/art/wang-lien-cheng-artist) — Ganador del primer premio en la categoría de escultura del Lumen Prize 2017, miembro de i/O Lab y director del festival Lacking Sound, representante del arte de instalaciones sonoras en Taiwán.
+- [Wu Che-Yu](/es/people/che-yu-wu) — Artista de nuevos medios que se autodenomina "relojero antiguo", participante en la Bienal de Venecia Personal Structures × Art Basel Miami × promotor del proyecto de código abierto Taiwan.md.
+- [The Reporter: diez años rescatando el periodismo de investigación de un rubro comercial a un bien público](/es/society/the-reporter-investigative-journalism) — Otro caso de ADN taiwánés impulsado por la comunidad ciudadana y de crecimiento transversal, que muestra otra vía de construcción de bienes públicos por parte de la sociedad civil a partir de 2015.
+- [justfont y el desarrollo tipográfico en Taiwán: una pequeña historia tipográfica de los veinticinco años de Dynafund a los setenta y seis minutos de Jin-Syuan](/es/technology/justfont-and-taiwan-typography) — La tipografía como infraestructura cultural, otra dimensión que, al igual que el arte de nuevos medios, se ocupa de la subjetividad visual taiwanesa.
+- [Cables submarinos: visibles en la cima del escudo de silicio, invisibles en el fondo como lifeline](/es/technology/submarine-cables-taiwan-lifeline) — El 99% de las colaboraciones curatoriales y exposiciones internacionales de arte de nuevos medios transcurren por cable submarino; este artículo revela esta infraestructura cultural digital invisible.
+- [Aaron Nieh (聶永真)](/es/people/nieh-yung-jen) — Primer miembro taiwanés de la Alliance Graphique Internationale (AGI), y la posición curatorial del estudio forever·true en la cultura visual contemporánea de Taiwán.
 
 ## Referencias
 

@@ -127,12 +127,12 @@ Todo el público aplaudió. El video de esos siete minutos se difundió mucho m�
 
 ## Lecturas relacionadas
 
-- [Música independiente de Taiwán](/music/台灣獨立音樂/) — el entorno de la música independiente donde se mueve Extintor
-- [Historia del rock en Taiwán](/music/台灣搖滾樂發展史/) — de la era de la censura a los grandes conciertos
-- [Movimiento Sunflower](/society/太陽花學運/) — el contexto de marzo de 2017 que dio vida a _Luz de la Isla_
-- [Cultura de festivales musicales en Taiwán](/music/台灣音樂祭文化/) — de Gongliao a Fireball
-- [An Pu y An Pu](/music/張懸與安溥/) — la otra cara de los siete minutos del Festival Daigou
-- [Comunidad del Río Zhuoshui](/music/濁水溪公社/) — otro proyecto de punk en taiwanés que documenta la época
+- [Música independiente de Taiwán](/es/music/indie-music-scene/) — el entorno de la música independiente donde se mueve Extintor
+- [Historia del rock en Taiwán](/es/music/taiwan-rock-from-underground-to-mainstream/) — de la era de la censura a los grandes conciertos
+- [Movimiento Sunflower](/es/society/sunflower-movement/) — el contexto de marzo de 2017 que dio vida a _Luz de la Isla_
+- [Cultura de festivales musicales en Taiwán](/es/music/taiwan-music-festival-culture/) — de Gongliao a Fireball
+- [An Pu y An Pu](/es/music/deserts-chang-and-anpu/) — la otra cara de los siete minutos del Festival Daigou
+- [Comunidad del Río Zhuoshui](/es/music/loh-tsui-kang-commune/) — otro proyecto de punk en taiwanés que documenta la época
 
 ## Referencias
 

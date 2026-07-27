@@ -261,10 +261,10 @@ Pero la forma ya apareció. Una persona, una frase, detrás de un mapa que respi
 
 ## Lecturas adicionales
 
-- [Zhe Yu](/people/吳哲宇): Creador de Taiwan.md, también usando código y herramientas generativas para acercarse a «algo que crece por sí mismo»
-- [Comunidad de código abierto y g0v](/technology/開源社群與g0v): El contexto colectivo de «programar para transformar la sociedad», grupo de control de la modalidad individual × Agente de Migu
-- [Espíritu de código abierto de Taiwán](/technology/台灣開源精神): De la salvación de la nación con el teclado a los datos abiertos, la cultura subyacente de la tecnología ciudadana de Taiwán
-- [Identificación digital y gobierno digital](/technology/數位身分證與數位政府): La otra cara de la infraestructura de datos abiertos del gobierno
+- [Zhe Yu](/es/people/che-yu-wu): Creador de Taiwan.md, también usando código y herramientas generativas para acercarse a «algo que crece por sí mismo»
+- [Comunidad de código abierto y g0v](/es/technology/open-source-and-g0v): El contexto colectivo de «programar para transformar la sociedad», grupo de control de la modalidad individual × Agente de Migu
+- [Espíritu de código abierto de Taiwán](/es/technology/taiwan-open-source-spirit): De la salvación de la nación con el teclado a los datos abiertos, la cultura subyacente de la tecnología ciudadana de Taiwán
+- [Identificación digital y gobierno digital](/es/technology/digital-id-and-digital-government): La otra cara de la infraestructura de datos abiertos del gobierno
 
 ## Enlaces del proyecto
 

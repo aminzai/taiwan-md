@@ -120,4 +120,4 @@ Esta participación local también se refleja en su presencia mediática persona
 ## Lecturas complementarias
 
 - [Sitio oficial de Joe Fang Studio](https://joefangstudio.com/) — Estudio de diseño fundado por Fang Hsu-chung
-- [Hsiao Ching-yang](/people/蕭青陽) — Diseñador visual taiwanés de la misma generación y ganador de un Grammy
+- [Hsiao Ching-yang](/es/people/xiao-qing-yang-grammy-designer) — Diseñador visual taiwanés de la misma generación y ganador de un Grammy

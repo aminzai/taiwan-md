@@ -116,9 +116,9 @@ La puerta de madera de Feng Da Coffee sigue abierta. Al empujarla, no solo bebes
 
 **Lecturas complementarias**:
 
-- [La cultura de las tiendas de conveniencia en Taiwán](/lifestyle/台灣便利商店文化) — City Café triunfó porque las tiendas de conveniencia ya eran parte de la infraestructura cotidiana de los taiwaneses
-- [La cultura de las bebidas con tapioca en Taiwán](/food/台灣手搖飲文化) — La otra cara del café: Taiwán inventó el té con perlas de tapioca y conquistó al mundo con las bebidas agitadas
-- [La cultura del té en Taiwán](/food/茶文化) — Antes del café, los taiwaneses llevaban cuatrocientos años bebiendo té
+- [La cultura de las tiendas de conveniencia en Taiwán](/es/lifestyle/convenience-store-culture) — City Café triunfó porque las tiendas de conveniencia ya eran parte de la infraestructura cotidiana de los taiwaneses
+- [La cultura de las bebidas con tapioca en Taiwán](/es/food/hand-shaken-drink-culture) — La otra cara del café: Taiwán inventó el té con perlas de tapioca y conquistó al mundo con las bebidas agitadas
+- [La cultura del té en Taiwán](/es/food/golden-age-echoes-taiwan-tea-culture) — Antes del café, los taiwaneses llevaban cuatrocientos años bebiendo té
 
 ## Referencias
 

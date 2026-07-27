@@ -117,11 +117,11 @@ La persona que firmó el Tratado del Cabo Sur y la que vendió información de T
 
 **Lecturas complementarias**:
 
-- [Incidente del Rover y Tauketok](/history/羅發號事件與卓杞篤) — Artículo complementario C-2 de este texto: la misma historia desde la perspectiva de Tauketok; cómo el Tratado del Cabo Sur protegió a su pueblo y cómo fue traicionado por la otra parte del acuerdo
-- [台灣原住民族歷史與正名運動](/history/台灣原住民族歷史與正名運動) — Los Paiwan del Tratado del Cabo Sur, del largo camino de "tierra bárbara" a la reivindicación de su nombre propio
-- [Dinastía Qing](/history/清治時期) — La estructura de gobierno Qing durante las visitas de Le Gendre, para comprender el contexto institucional de la respuesta "fuera de nuestra jurisdicción"
-- [Robert Swinhoe (史溫侯)](/people/史溫侯) — Otro extranjero que dejó un profundo registro de Taiwán en la misma época, pero motivado por la ciencia y no por el poder
-- [Guerra Sino-Francesa](/history/清法戰爭) — Ocho años después de la partida de Le Gendre, Francia atacó Taiwán con una lógica imperial similar
+- [Incidente del Rover y Tauketok](/es/history/rover-incident-and-tauketok) — Artículo complementario C-2 de este texto: la misma historia desde la perspectiva de Tauketok; cómo el Tratado del Cabo Sur protegió a su pueblo y cómo fue traicionado por la otra parte del acuerdo
+- [台灣原住民族歷史與正名運動](/es/history/indigenous-peoples-history-and-naming-movement) — Los Paiwan del Tratado del Cabo Sur, del largo camino de "tierra bárbara" a la reivindicación de su nombre propio
+- [Dinastía Qing](/es/history/qing-dynasty-rule) — La estructura de gobierno Qing durante las visitas de Le Gendre, para comprender el contexto institucional de la respuesta "fuera de nuestra jurisdicción"
+- [Robert Swinhoe (史溫侯)](/es/people/robert-swinhoe-naturalist) — Otro extranjero que dejó un profundo registro de Taiwán en la misma época, pero motivado por la ciencia y no por el poder
+- [Guerra Sino-Francesa](/es/history/sino-french-war-in-taiwan) — Ocho años después de la partida de Le Gendre, Francia atacó Taiwán con una lógica imperial similar
 
 ## Referencias
 

@@ -138,7 +138,7 @@ El 31 de julio de 2020 publicó su primer álbum de larga duración, _A Bedroom 
 Su método de composición acompaña ese amateurismo de estudio: graba frases musicales en notas de voz en el móvil en cualquier momento, una vez al mes organiza las decenas de archivos acumulados, y en tres o cuatro horas en casa de Tower tiene que montar una canción entera[^7]. Las letras en inglés tampoco salen de la nada: en el móvil busca frases como «how to name your lover» o «how to call your lover», recoge una larga lista de palabras candidatas y las prueba una por una cantando[^7].
 
 > **📝 Nota del curador**
-> Entre 2019 y 2020 siguió un camino que muchas creadoras de R&B femenino de su generación recorrieron al mismo tiempo: escribir ella misma, cantar ella misma, producción a nivel _bedroom_, publicar _lyric videos_ en vez de videoclips, subir a SoundCloud y StreetVoice y luego pasar a KKBOX y Spotify. Ella, 9m88, el vocalista de deca joins Zheng Jingru y los creadores de la estética de [Hello Nico] son en realidad ramas distintas del mismo ecosistema _indie_. Al mismo tiempo, la ola global de lo-fi de Joji (referente japonés de lo-fi R&B) y keshi (referente coreano de _bedroom pop_ desde Texas) estaba en pleno auge; la rama taiwanesa floreció al mismo tiempo que la global. Puede consultarse la línea de [台灣獨立音樂](/music/台灣獨立音樂) para ver cómo varias ramas florecieron en paralelo.
+> Entre 2019 y 2020 siguió un camino que muchas creadoras de R&B femenino de su generación recorrieron al mismo tiempo: escribir ella misma, cantar ella misma, producción a nivel _bedroom_, publicar _lyric videos_ en vez de videoclips, subir a SoundCloud y StreetVoice y luego pasar a KKBOX y Spotify. Ella, 9m88, el vocalista de deca joins Zheng Jingru y los creadores de la estética de [Hello Nico] son en realidad ramas distintas del mismo ecosistema _indie_. Al mismo tiempo, la ola global de lo-fi de Joji (referente japonés de lo-fi R&B) y keshi (referente coreano de _bedroom pop_ desde Texas) estaba en pleno auge; la rama taiwanesa floreció al mismo tiempo que la global. Puede consultarse la línea de [台灣獨立音樂](/es/music/indie-music-scene) para ver cómo varias ramas florecieron en paralelo.
 
 En sus últimos años de prácticas hospitalarias escribió también una canción llamada «Seh Ah Seh»[^32]. _Seh_ es la romanización del carácter taiwanés 踅, que significa «vagar». La escribió «sin rumbo fijo, haciendo el mismo trabajo sin sentido» por los pasillos del hospital, aburrida hasta la médula; la letra, sin embargo, habla del cansancio de una trabajadora migrante sola al terminar su turno. Transformó el aburrimiento de una médica interna en la soledad de una trabajadora migrante. Esa canción se convirtió más tarde en una de las piezas que interpretó en directo en la ceremonia de los Golden Melody[^32].
 
@@ -294,10 +294,10 @@ Cuando dijo «por favor, no tengan miedo» ante los focos de los Golden Melody, 
 
 ## Lecturas complementarias
 
-- [台灣獨立音樂](/music/台灣獨立音樂) — el ecosistema contemporáneo de _bedroom pop_ / lo-fi R&B en 2019-2020
-- [El desarrollo del hip-hop y el rap en Taiwán](/music/台灣嘻哈與饒舌發展) — Su apoyo transversal y la organización del foro She Vibes en la polémica misógina de 2025, situados en los cuarenta años de contexto del rap taiwanés
-- [田馥甄](/people/田馥甄) — ganadora del premio a mejor vocalista femenina en la misma 32.ª edición de los Golden Melody, en el otro extremo de una trayectoria con 19 ediciones de diferencia
-- [陳建騏](/people/陳建騏) — otra línea del linaje de productores de música pop en mandarín de la misma generación
+- [台灣獨立音樂](/es/music/indie-music-scene) — el ecosistema contemporáneo de _bedroom pop_ / lo-fi R&B en 2019-2020
+- [El desarrollo del hip-hop y el rap en Taiwán](/es/music/taiwan-hip-hop-and-rap) — Su apoyo transversal y la organización del foro She Vibes en la polémica misógina de 2025, situados en los cuarenta años de contexto del rap taiwanés
+- [田馥甄](/es/people/hebe-tien-singer) — ganadora del premio a mejor vocalista femenina en la misma 32.ª edición de los Golden Melody, en el otro extremo de una trayectoria con 19 ediciones de diferencia
+- [陳建騏](/es/people/chen-chien-chi-music-producer) — otra línea del linaje de productores de música pop en mandarín de la misma generación
 
 ---
 
@@ -347,7 +347,7 @@ Cuando dijo «por favor, no tengan miedo» ante los focos de los Golden Melody, 
 
 [^25]: [De estudiante de Medicina y nueva artista del Golden Melody a cantautora independiente — HEAVEN RAVEN](https://www.heavenraven.com/2023/05/15/whyte-music-interview/) — Cita textual: «De hecho, una vez estaba en el quirófano ayudando al médico residente y sonó mi propia canción. Porque en el hospital siempre llevamos mascarilla, y durante las prácticas cada mes rotamos de servicio.»
 
-[^26]: [Hebe Tien — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%94%B0%E9%A6%A5%E7%94%84) — Hebe Tien ganó el premio a mejor vocalista femenina de mandarín en la 32.ª edición de los Golden Melody con _無人知曉_; véase el artículo sobre [Hebe Tien](/people/田馥甄).
+[^26]: [Hebe Tien — Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%94%B0%E9%A6%A5%E7%94%84) — Hebe Tien ganó el premio a mejor vocalista femenina de mandarín en la 32.ª edición de los Golden Melody con _無人知曉_; véase el artículo sobre [Hebe Tien](/es/people/hebe-tien-singer).
 
 [^27]: [?te Whyte, la «casi médica» que ganó el Golden Melody: profesor de la NTU la cuestiona — UDN Stars](https://stars.udn.com/star/story/10092/5694350) — ⚠️ Enlace actualmente en 404; tras ganar el premio en 2021, circuló por internet un texto atribuido a un profesor de la Facultad de Medicina de la NTU que cuestionaba: «¿Te dejarías operar por ella?»; la fuente original ya no es rastreable. En la auditoría esta referencia se degradó a una declaración general de «aparecieron cuestionamientos en internet», sin atribuir la identidad a un profesor concreto.
 

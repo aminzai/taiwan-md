@@ -33,7 +33,7 @@ En 1977, Lin Yih-hsiung fue elegido **legislador de la provincia de Taiwán** (p
 
 ## Detención en el incidente de Beautiful Island
 
-A finales de 1979 estalló el incidente de Beautiful Island; Lin Yih-hsiung fue detenido junto con [施明德](/es/People/shih-ming-te/), Huang Hsin-chieh y otros, y fue juzgado por cargos de rebelión bajo la ley marcial. En el tribunal se defendió a sí mismo, rehusó declararse culpable y mostró la intransigencia propia de un jurista. Sin embargo, durante el proceso judicial ocurrió el caso Lin Home, que transformó radicalmente su vida posterior. [^2]
+A finales de 1979 estalló el incidente de Beautiful Island; Lin Yih-hsiung fue detenido junto con [施明德](/es/people/shih-ming-te/), Huang Hsin-chieh y otros, y fue juzgado por cargos de rebelión bajo la ley marcial. En el tribunal se defendió a sí mismo, rehusó declararse culpable y mostró la intransigencia propia de un jurista. Sin embargo, durante el proceso judicial ocurrió el caso Lin Home, que transformó radicalmente su vida posterior. [^2]
 
 ## Caso Lin Home
 

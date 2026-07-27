@@ -95,15 +95,15 @@ Al mismo tiempo, la nueva generación de aficionados al anime también está red
 
 El desarrollo de la cultura del anime en Taiwán ofrece una lección importante: la influencia cultural es un proceso de transformación bidireccional. Taiwán importó animación de Japón, pero a lo largo de 40 años, la transformó a través del doblaje al mandarín, las ferias de doujinshi, el cosplay, los VTuber y otras formas en "la cultura del anime taiwanesa". Esta cultura no es exactamente igual a la japonesa ni exactamente igual a la china: tiene su propio vocabulario, sus propias comunidades y sus propios caminos creativos.
 
-Esto representa un eje diferente al del [manga taiwanés](/art/台灣漫畫), pero ambos se entrelazan. El manga se centra en "quién creó la obra", mientras que la cultura del anime se centra en "quién la vio, cómo la vio y qué hizo después de verla". Uno es el lado de la creación, el otro el lado del consumo; uno involucra a unos pocos maestros, el otro al comportamiento colectivo de cientos de miles de aficionados.
+Esto representa un eje diferente al del [manga taiwanés](/es/art/taiwanese-comics-and-illustration), pero ambos se entrelazan. El manga se centra en "quién creó la obra", mientras que la cultura del anime se centra en "quién la vio, cómo la vio y qué hizo después de verla". Uno es el lado de la creación, el otro el lado del consumo; uno involucra a unos pocos maestros, el otro al comportamiento colectivo de cientos de miles de aficionados.
 
 Ambos ejes juntos conforman la imagen completa del ecosistema del anime y el manga en Taiwán.
 
 ## Lecturas complementarias
 
-- [Manga taiwanés](/art/台灣漫畫) — El lado de la creación: la genealogía completa de Zheng Wen, Cai Zhizhong, Liu Xingxin, Ao Youxiang y la colección CCC.
-- [Historia de la migración de las comunidades en línea en Taiwán](/technology/台灣網路社群遷徙史) — El eje de migración de los aficionados al anime a través de BBS, Wretch, Facebook y Discord.
-- [Threads en Taiwán](/technology/Threads在台灣) — Los patrones de concentración de las comunidades de anime en la nueva plataforma.
+- [Manga taiwanés](/es/art/taiwanese-comics-and-illustration) — El lado de la creación: la genealogía completa de Zheng Wen, Cai Zhizhong, Liu Xingxin, Ao Youxiang y la colección CCC.
+- [Historia de la migración de las comunidades en línea en Taiwán](/es/technology/taiwan-online-community-migration) — El eje de migración de los aficionados al anime a través de BBS, Wretch, Facebook y Discord.
+- [Threads en Taiwán](/es/technology/threads-in-taiwan) — Los patrones de concentración de las comunidades de anime en la nueva plataforma.
 
 ## Referencias
 
@@ -113,4 +113,4 @@ Ambos ejes juntos conforman la imagen completa del ecosistema del anime y el man
 
 ---
 
-_Última verificación: 2026-04-19 (Problema #556, sugerido por @idlccp1984 para separar la cultura del anime del manga; el contenido principal del manga se trasladó a [Manga taiwanés](/art/台灣漫畫))._
+_Última verificación: 2026-04-19 (Problema #556, sugerido por @idlccp1984 para separar la cultura del anime del manga; el contenido principal del manga se trasladó a [Manga taiwanés](/es/art/taiwanese-comics-and-illustration))._

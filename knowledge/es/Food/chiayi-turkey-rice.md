@@ -121,8 +121,8 @@ Treinta yuanes. Setenta años. Una ciudad.
 
 ## Lecturas complementarias
 
-- [Cocina casera taiwanesa](/food/台灣手路菜) — El contexto cultural de la cocina familiar taiwanesa
-- [La cultura del banquete callejero en Taiwán](/food/台灣辦桌文化) — Otra tradición culinaria nacida del pueblo
+- [Cocina casera taiwanesa](/es/food/taiwan-specialty-home-cooking) — El contexto cultural de la cocina familiar taiwanesa
+- [La cultura del banquete callejero en Taiwán](/es/food/taiwan-banquet-culture) — Otra tradición culinaria nacida del pueblo
 
 ---
 

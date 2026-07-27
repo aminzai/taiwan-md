@@ -183,14 +183,14 @@ La calle de libros fue desmantelada, pero el estanque sigue allí, haciendo crec
 
 **Lecturas complementarias**:
 
-- [Ciudad de Taipéi](/geography/台北市) — Narrativa centenaria de sus 12 distritos; contexto de formación del distrito de Zhongzheng, al que pertenece la calle Guling, después de la guerra
-- [Dadaocheng](/geography/大稻埕) — Otra memoria generacional de las tres antiguas zonas urbanas de Taipéi, de la actividad comercial de 1851 al 28 de Febrero de 1947
-- [Monga](/geography/艋舺) — La primera zona urbana de Taipéi bajo el gobierno Qing, del templo Longshan de 1738 a la película _Monga_ de 2010
-- [Ximending](/geography/西門町) — De distrito de entretenimiento japonés en 1896 a capital subcultural en 2026; junto con Guling, un barrio del distrito de Zhongzheng formado por la planificación japonesa
-- [Cine taiwanés](/art/台灣電影) — El lugar de _A Brighter Summer Day_, de Edward Yang, en la historia del Nuevo Cine Taiwanés
-- [Edward Yang](/people/楊德昌) — Figura central del Nuevo Cine Taiwanés, autor de los 237 minutos de _A Brighter Summer Day_
-- [Gongguan](/geography/公館) — Paisaje hermano de académicos waishengren y cultura de libros usados después de la guerra; junto con Guling, forma dos núcleos de intelectuales waishengren
-- [Si Si Nan Cun](/geography/四四南村) — Las viviendas familiares de una fábrica militar y la calle de libros usados de Guling representan dos estructuras de asentamiento waishengren de posguerra: “militar-industrial” y “letrada”
+- [Ciudad de Taipéi](/es/geography/taipei-city) — Narrativa centenaria de sus 12 distritos; contexto de formación del distrito de Zhongzheng, al que pertenece la calle Guling, después de la guerra
+- [Dadaocheng](/es/geography/dadaocheng) — Otra memoria generacional de las tres antiguas zonas urbanas de Taipéi, de la actividad comercial de 1851 al 28 de Febrero de 1947
+- [Monga](/es/geography/bangka) — La primera zona urbana de Taipéi bajo el gobierno Qing, del templo Longshan de 1738 a la película _Monga_ de 2010
+- [Ximending](/es/geography/ximending) — De distrito de entretenimiento japonés en 1896 a capital subcultural en 2026; junto con Guling, un barrio del distrito de Zhongzheng formado por la planificación japonesa
+- [Cine taiwanés](/es/art/taiwanese-cinema) — El lugar de _A Brighter Summer Day_, de Edward Yang, en la historia del Nuevo Cine Taiwanés
+- [Edward Yang](/es/people/yang-dechang) — Figura central del Nuevo Cine Taiwanés, autor de los 237 minutos de _A Brighter Summer Day_
+- [Gongguan](/es/geography/gongguan) — Paisaje hermano de académicos waishengren y cultura de libros usados después de la guerra; junto con Guling, forma dos núcleos de intelectuales waishengren
+- [Si Si Nan Cun](/es/geography/44-south-village) — Las viviendas familiares de una fábrica militar y la calle de libros usados de Guling representan dos estructuras de asentamiento waishengren de posguerra: “militar-industrial” y “letrada”
 
 ## Fuentes de imágenes
 

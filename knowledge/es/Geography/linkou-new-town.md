@@ -82,9 +82,9 @@ De cara al futuro, la Nueva Ciudad de Linkou seguirá atrayendo talento y recurs
 
 ## Lecturas complementarias
 
-- [Desarrollo urbano de Taiwán y brecha rural-urbana](/geography/台灣都市發展與城鄉差距) — Comprender la curva de desarrollo de la Nueva Ciudad de Linkou desde la perspectiva de la planificación regional.
-- [Zona Especial de Beida](/geography/北大特區) — Comparar con otra nueva zona de desarrollo impulsada conjuntamente por el transporte, las zonas escolares y el mercado inmobiliario.
-- [Sistema de transporte de Taiwán](/lifestyle/台灣交通系統) — Lectura complementaria sobre cómo el aerotrén, las autopistas y los desplazamientos diarios metropolitanos configuran las nuevas ciudades.
+- [Desarrollo urbano de Taiwán y brecha rural-urbana](/es/geography/taiwan-urban-development-and-rural-urban-divide) — Comprender la curva de desarrollo de la Nueva Ciudad de Linkou desde la perspectiva de la planificación regional.
+- [Zona Especial de Beida](/es/geography/beida-special-district-sanxia) — Comparar con otra nueva zona de desarrollo impulsada conjuntamente por el transporte, las zonas escolares y el mercado inmobiliario.
+- [Sistema de transporte de Taiwán](/es/lifestyle/transportation-system) — Lectura complementaria sobre cómo el aerotrén, las autopistas y los desplazamientos diarios metropolitanos configuran las nuevas ciudades.
 
 ## Referencias
 

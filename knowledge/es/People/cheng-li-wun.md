@@ -135,17 +135,17 @@ Así que la verdadera pregunta no es "¿cambió Cheng Li-wun?", sino: **¿cambi�
 
 **Lecturas complementarias**:
 
-- [La reunión Cheng-Xi de 2026: los diez años del reencuentro Kuomintang-Partido Comunista](/society/2026鄭習會與國共十年再會) — El punto final presente de la trayectoria de Cheng Li-wun, el lugar completo de esa reunión y las reacciones posteriores
-- [La crisis del estrecho de Taiwán y el desarrollo de las relaciones a ambos lados del estrecho](/history/台海危機與兩岸關係發展) — La estructura histórica en la que se sitúa Cheng Li-wun, antes y después de esos diez años, las fuerzas invisibles que llevaron a esta figura hacia Pekín
-- [El entorno político de Taiwán y el sistema electoral](/society/台灣政治環境與選舉制度) — ¿Por qué "Soy china" pudo convertirse en el eslogan de campaña para presidenta del Kuomintang? La estructura de miembros del partido dentro del sistema electoral da la respuesta
-- [La transición democrática de Taiwán](/history/台灣民主轉型) — El año de la huelga de hambre de Cheng Li-wun fue el primer año tras el fin de la ley de emergencia; para entender su punto de partida, primero hay que entender la cultura juvenil de esos cinco años de democratización
-- [Ko Wen-je](/people/柯文哲) — Otro político que cruzó del campamento verde al azul (o del blanco al azul); las trayectorias de ambos tienen similitudes y diferencias
-- [Hsiao Bi-khim](/people/蕭美琴) — Otro arquetipo de mujer política en el mismo escenario de 2026, con una trayectoria completamente diferente y una visión de Taiwán correspondiente
-- [Han Kuo-yu](/people/韓國瑜) — La estructura dual "presidente del partido + presidente del Yuan Legislativo" del Kuomintang en 2025-2026: Cheng Li-wun en el partido, Han Kuo-yu en el parlamento
-- [Cho Jung-tai](/people/卓榮泰) — El principal impulsor de la compra de armas de 1.25 billones desde el Yuan Ejecutivo, la posición opuesta a la "versión del partido de Cheng Li-wun: 3800 mil millones + N"
-- [Lu Shiow-yen](/people/盧秀燕) — Rival de Cheng Li-wun en la elección de presidenta del Kuomintang de 2025, cuya posterior decisión de "no presentarse" abrió la puerta de entrada para Cheng Li-wun
-- [Hsu Chiao-hsin](/people/徐巧芯) — En la controversia de la compra de armas de 2026, la principal impulsora de la versión de "8000 mil millones" que chocó con la "versión del partido de Cheng Li-wun: 3800 mil millones + N"
-- [Chi Lin-lian](/people/季麟連) — Vicepresidente del Kuomintang nombrado por Cheng Li-wun en 2026, protagonista del incidente en la reunión del comité permanente del 24 de abril donde señaló a Han Kuo-yu, provocando una división en el campamento azul
+- [La reunión Cheng-Xi de 2026: los diez años del reencuentro Kuomintang-Partido Comunista](/es/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — El punto final presente de la trayectoria de Cheng Li-wun, el lugar completo de esa reunión y las reacciones posteriores
+- [La crisis del estrecho de Taiwán y el desarrollo de las relaciones a ambos lados del estrecho](/es/history/taiwan-strait-crises-and-cross-strait-relations) — La estructura histórica en la que se sitúa Cheng Li-wun, antes y después de esos diez años, las fuerzas invisibles que llevaron a esta figura hacia Pekín
+- [El entorno político de Taiwán y el sistema electoral](/es/society/taiwan-political-landscape-and-electoral-system) — ¿Por qué "Soy china" pudo convertirse en el eslogan de campaña para presidenta del Kuomintang? La estructura de miembros del partido dentro del sistema electoral da la respuesta
+- [La transición democrática de Taiwán](/es/history/taiwan-democratization) — El año de la huelga de hambre de Cheng Li-wun fue el primer año tras el fin de la ley de emergencia; para entender su punto de partida, primero hay que entender la cultura juvenil de esos cinco años de democratización
+- [Ko Wen-je](/es/people/ko-wen-je) — Otro político que cruzó del campamento verde al azul (o del blanco al azul); las trayectorias de ambos tienen similitudes y diferencias
+- [Hsiao Bi-khim](/es/people/hsiao-bi-khim) — Otro arquetipo de mujer política en el mismo escenario de 2026, con una trayectoria completamente diferente y una visión de Taiwán correspondiente
+- [Han Kuo-yu](/es/people/han-kuo-yu) — La estructura dual "presidente del partido + presidente del Yuan Legislativo" del Kuomintang en 2025-2026: Cheng Li-wun en el partido, Han Kuo-yu en el parlamento
+- [Cho Jung-tai](/es/people/cho-jung-tai) — El principal impulsor de la compra de armas de 1.25 billones desde el Yuan Ejecutivo, la posición opuesta a la "versión del partido de Cheng Li-wun: 3800 mil millones + N"
+- [Lu Shiow-yen](/es/people/lu-hsiu-yan) — Rival de Cheng Li-wun en la elección de presidenta del Kuomintang de 2025, cuya posterior decisión de "no presentarse" abrió la puerta de entrada para Cheng Li-wun
+- [Hsu Chiao-hsin](/es/people/hsu-chiao-hsin) — En la controversia de la compra de armas de 2026, la principal impulsora de la versión de "8000 mil millones" que chocó con la "versión del partido de Cheng Li-wun: 3800 mil millones + N"
+- [Chi Lin-lian](/es/people/ji-lin-lian) — Vicepresidente del Kuomintang nombrado por Cheng Li-wun en 2026, protagonista del incidente en la reunión del comité permanente del 24 de abril donde señaló a Han Kuo-yu, provocando una división en el campamento azul
 
 ## Referencias
 

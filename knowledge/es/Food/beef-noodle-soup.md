@@ -151,11 +151,11 @@ Desde los puestos halal de la calle Taoyuan en Taipéi, las casas tradicionales 
 
 ## Lecturas complementarias
 
-- [Panorama de la gastronomía taiwanesa](/food/台灣美食總覽) — Un mapa panorámico desde los pueblos indígenas hasta Michelin: el lugar de la sopa de fideos con carne de res dentro de cuatro siglos de sabores mestizos
-- [Cultura del desayuno taiwanés](/food/台灣早餐文化) — Shaobing, youtiao y leche de soya, introducidos igualmente por inmigrantes waisheng tras 1949, figuran junto con la sopa de fideos con carne de res como símbolos representativos de la fusión alimentaria de posguerra
-- [Arroz taiwanés con cerdo estofado](/food/台灣滷肉飯) — Otro recorrido desde la cocina de las aldeas de dependientes militares hasta comida nacional, que comparte con la sopa de fideos con carne de res la doble genealogía de nostalgia migrante y adaptación local
-- [Traslado del Gobierno Nacionalista a Taiwán y reconstrucción de posguerra](/history/國民政府遷台與戰後重建) — El giro en la cultura alimentaria provocado por la migración hacia el sur de 1.2 millones de militares y civiles es el trasfondo histórico del nacimiento de la sopa de fideos con carne de res
-- [Cultura de los mercados nocturnos de Taiwán](/food/夜市文化) — El principal espacio popular de circulación de la sopa de fideos con carne de res después de salir de las aldeas de dependientes militares
+- [Panorama de la gastronomía taiwanesa](/es/food/taiwan-food-overview) — Un mapa panorámico desde los pueblos indígenas hasta Michelin: el lugar de la sopa de fideos con carne de res dentro de cuatro siglos de sabores mestizos
+- [Cultura del desayuno taiwanés](/es/food/taiwan-breakfast-culture) — Shaobing, youtiao y leche de soya, introducidos igualmente por inmigrantes waisheng tras 1949, figuran junto con la sopa de fideos con carne de res como símbolos representativos de la fusión alimentaria de posguerra
+- [Arroz taiwanés con cerdo estofado](/es/food/braised-pork-rice) — Otro recorrido desde la cocina de las aldeas de dependientes militares hasta comida nacional, que comparte con la sopa de fideos con carne de res la doble genealogía de nostalgia migrante y adaptación local
+- [Traslado del Gobierno Nacionalista a Taiwán y reconstrucción de posguerra](/es/history/kmt-government-relocation-and-postwar-reconstruction) — El giro en la cultura alimentaria provocado por la migración hacia el sur de 1.2 millones de militares y civiles es el trasfondo histórico del nacimiento de la sopa de fideos con carne de res
+- [Cultura de los mercados nocturnos de Taiwán](/es/food/night-market-culture) — El principal espacio popular de circulación de la sopa de fideos con carne de res después de salir de las aldeas de dependientes militares
 
 ---
 

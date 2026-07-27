@@ -164,8 +164,8 @@ En 2026, cuando los trenes de la línea San-Ying lleguen oficialmente, el Distri
 
 ## Lectura adicional
 
-- [Desarrollo urbano y disparidades rurales-urbanas en Taiwán](/geography/台灣都市發展與城鄉差距) — Sitúa el Distrito Especial de Beida en el contexto a largo plazo de las zonas de nuevo desarrollo y la expansión urbana de Taiwán.
-- [Nuevo Municipio de Linkou](/geography/林口新市鎮) — Compara cómo otro municipio que también fue llamado «ciudad fantasma» maduró.
+- [Desarrollo urbano y disparidades rurales-urbanas en Taiwán](/es/geography/taiwan-urban-development-and-rural-urban-divide) — Sitúa el Distrito Especial de Beida en el contexto a largo plazo de las zonas de nuevo desarrollo y la expansión urbana de Taiwán.
+- [Nuevo Municipio de Linkou](/es/geography/linkou-new-town) — Compara cómo otro municipio que también fue llamado «ciudad fantasma» maduró.
 - [Té de Sanxia](/food/三峡茶) — Lectura complementaria sobre el sustrato cultural del casco antiguo de Sanxia y las industrias locales.
 
 ## Referencias

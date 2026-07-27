@@ -108,10 +108,10 @@ Fuentes académicas en chino: Li Taiyuan (2020), _Revitalización de las lenguas
 
 **Lecturas complementarias**:
 
-- [Educación rural en Taiwán](/society/台灣偏鄉教育) — Los problemas educativos en las comunidades indígenas no se limitan al rendimiento académico, sino también a si la escuela puede acoger la lengua y la cultura.
-- [Historia de los pueblos indígenas de Taiwán y movimiento de autodenominación](/history/台灣原住民族歷史與正名運動) — La revitalización lingüística es inseparable de los nombres de los pueblos, las narrativas históricas y la reconstrucción de la subjetividad política.
-- [Justicia territorial y territorios tradicionales de los pueblos indígenas de Taiwán](/society/台灣原住民族土地正義與傳統領域) — La lengua, la tierra y el modo de vida forman una misma red.
-- [Mapa cultural de las 16 naciones indígenas de Taiwán](/culture/台灣原住民族16族文化地圖) — Para ver la distribución y el perfil cultural de cada pueblo, este artículo ofrece un mapa general.
-- [Cultura alimentaria de los pueblos indígenas de Taiwán](/food/台灣原住民飲食文化) — La gastronomía preserva no solo sabores, sino también lenguas, topónimos y conocimiento ecológico.
-- [Sabiduría ecológica y conservación ambiental de los pueblos indígenas de Taiwán](/nature/台灣原住民生態智慧與環境保育) — Las lenguas indígenas contienen un vasto conocimiento sobre la interacción con montañas, ríos y estaciones.
-- [Arte contemporáneo de los pueblos indígenas de Taiwán](/art/台灣原住民當代藝術) — El arte contemporáneo es otro camino para que las lenguas y culturas indígenas vuelvan a ser visibles.
+- [Educación rural en Taiwán](/es/society/taiwan-rural-education) — Los problemas educativos en las comunidades indígenas no se limitan al rendimiento académico, sino también a si la escuela puede acoger la lengua y la cultura.
+- [Historia de los pueblos indígenas de Taiwán y movimiento de autodenominación](/es/history/indigenous-peoples-history-and-naming-movement) — La revitalización lingüística es inseparable de los nombres de los pueblos, las narrativas históricas y la reconstrucción de la subjetividad política.
+- [Justicia territorial y territorios tradicionales de los pueblos indígenas de Taiwán](/es/society/indigenous-land-justice-and-traditional-territories) — La lengua, la tierra y el modo de vida forman una misma red.
+- [Mapa cultural de las 16 naciones indígenas de Taiwán](/es/culture/indigenous-peoples-16-tribes-cultural-map) — Para ver la distribución y el perfil cultural de cada pueblo, este artículo ofrece un mapa general.
+- [Cultura alimentaria de los pueblos indígenas de Taiwán](/es/food/taiwan-indigenous-foodways) — La gastronomía preserva no solo sabores, sino también lenguas, topónimos y conocimiento ecológico.
+- [Sabiduría ecológica y conservación ambiental de los pueblos indígenas de Taiwán](/es/nature/taiwanese-indigenous-ecological-wisdom-conservation) — Las lenguas indígenas contienen un vasto conocimiento sobre la interacción con montañas, ríos y estaciones.
+- [Arte contemporáneo de los pueblos indígenas de Taiwán](/es/art/contemporary-indigenous-art-taiwan) — El arte contemporáneo es otro camino para que las lenguas y culturas indígenas vuelvan a ser visibles.

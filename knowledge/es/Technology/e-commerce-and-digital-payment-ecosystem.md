@@ -132,10 +132,10 @@ Las batallas comerciales en esta isla no se detendrán. Cada nuevo código QR, c
 
 **Lecturas relacionadas**:
 
-- [Desarrollo de tecnología financiera en Taiwán](/economy/台灣金融科技發展) — Banca digital pura, banca abierta y sandbox regulatorio: panorama completo de la transformación digital del sector financiero
-- [Construcción de red 5G y transformación digital en Taiwán](/technology/台灣5G網路建設與數位轉型) — Cómo la infraestructura 5G está cambiando el rastreo logístico, las compras por transmisión en vivo y el comercio minorista inteligente
-- [Desarrollo de la industria de software en Taiwán](/technology/台灣軟體產業發展) — De la manufactura por encargo a marca propia: cómo la industria de software sustenta la base técnica de las plataformas de comercio electrónico
-- [Industria de semiconductores](/technology/半導體產業) — De dónde vienen los chips que sustentan la infraestructura de pagos digitales y comercio electrónico
+- [Desarrollo de tecnología financiera en Taiwán](/es/economy/taiwan-fintech-development) — Banca digital pura, banca abierta y sandbox regulatorio: panorama completo de la transformación digital del sector financiero
+- [Construcción de red 5G y transformación digital en Taiwán](/es/technology/taiwan-5g-digital-transformation) — Cómo la infraestructura 5G está cambiando el rastreo logístico, las compras por transmisión en vivo y el comercio minorista inteligente
+- [Desarrollo de la industria de software en Taiwán](/es/technology/taiwan-software-industry-development) — De la manufactura por encargo a marca propia: cómo la industria de software sustenta la base técnica de las plataformas de comercio electrónico
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — De dónde vienen los chips que sustentan la infraestructura de pagos digitales y comercio electrónico
 
 ## Referencias
 

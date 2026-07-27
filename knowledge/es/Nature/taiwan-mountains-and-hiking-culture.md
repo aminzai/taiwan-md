@@ -105,11 +105,11 @@ El agua del Lago Jiaming refleja el cielo, con o sin nadie que la mire.
 
 **Lectura complementaria**:
 
-- [Taiwan Forest Ecosystems](/nature/台灣森林生態系) — Desde bosques de laurel de hojas anchas hasta bosques de coníferas de abeto, la banda ecológica completa de distribución vertical por altitud
-- [Taiwan Alpine Ecosystems and Glacial Relicts](/nature/台灣高山生態系與冰河孑遺) — Praderas de alta montaña de más de 3.000 metros y especies relictas dejadas por la era glacial
-- [Taiwan National Parks](/nature/台灣國家公園) — Gestión y conservación de los tres parques nacionales de tipo alpino: Yushan, Xuebao y Taroko
-- [Trail Culture and Civic Stewardship](/nature/台灣步道文化與公民守護) — El movimiento de Montañas sin huella y la práctica local de participación ciudadana en el mantenimiento de senderos
-- [Taiwanese Indigenous Ecological Wisdom and Conservation](/nature/台灣原住民生態智慧與環境保育) — Cómo la sabiduría milenaria de las montañas dialoga con la conservación moderna
+- [Taiwan Forest Ecosystems](/es/nature/taiwan-forest-ecosystems) — Desde bosques de laurel de hojas anchas hasta bosques de coníferas de abeto, la banda ecológica completa de distribución vertical por altitud
+- [Taiwan Alpine Ecosystems and Glacial Relicts](/es/nature/taiwan-alpine-ecosystems-glacial-relicts) — Praderas de alta montaña de más de 3.000 metros y especies relictas dejadas por la era glacial
+- [Taiwan National Parks](/es/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Gestión y conservación de los tres parques nacionales de tipo alpino: Yushan, Xuebao y Taroko
+- [Trail Culture and Civic Stewardship](/es/nature/trail-culture-and-civic-stewardship) — El movimiento de Montañas sin huella y la práctica local de participación ciudadana en el mantenimiento de senderos
+- [Taiwanese Indigenous Ecological Wisdom and Conservation](/es/nature/taiwanese-indigenous-ecological-wisdom-conservation) — Cómo la sabiduría milenaria de las montañas dialoga con la conservación moderna
 
 ## Referencias
 

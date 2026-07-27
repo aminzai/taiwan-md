@@ -57,7 +57,7 @@ Detrás de los 10 récords mundiales hay un hecho estructural más amplio: en aq
 
 ## La "gacela saltadora" en la historia del atletismo taiwanés
 
-Antes de Chi Cheng, el referente más alto de Taiwán en las competiciones internacionales de atletismo era [Yang Chuan-kwang](/es/People/yang-chuan-kwang-asian-iron-man/): la medalla de plata en decatlón en los Juegos Olímpicos de Roma 1960, la primera medalla olímpica de Taiwán, un hito del atletismo masculino. Los Juegos de México 1968 de Chi Cheng fueron el segundo hito, y el más difícil de los dos: era atletismo femenino, y su éxito no tenía precedentes en los que apoyarse.
+Antes de Chi Cheng, el referente más alto de Taiwán en las competiciones internacionales de atletismo era [Yang Chuan-kwang](/es/people/yang-chuan-kwang-asian-iron-man/): la medalla de plata en decatlón en los Juegos Olímpicos de Roma 1960, la primera medalla olímpica de Taiwán, un hito del atletismo masculino. Los Juegos de México 1968 de Chi Cheng fueron el segundo hito, y el más difícil de los dos: era atletismo femenino, y su éxito no tenía precedentes en los que apoyarse.
 
 El camino de Yang fue el de un muchacho amis que, con su talento y el entrenamiento en la UCLA, se abrió paso; el camino de Chi Cheng fue el de una joven de Hsinchu que se abrió paso récord tras récord. Los puntos de partida eran distintos, pero ambos caminos conducían a la cumbre de la historia del atletismo taiwanés.
 

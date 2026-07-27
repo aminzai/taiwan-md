@@ -219,11 +219,11 @@ A los 76 años de edad.
 
 **Lecturas relacionadas**:
 
-- [Hsu Cho-yun: dos dedos escribiendo un largo río de historia china](/people/許倬雲) — Galardonado con el premio de Sinología de la sexta edición del Tang Prize en 2024, donó los 50 millones completos para crear la "Beca Hsu-Sun"
-- [Morris Chang](/people/張忠謀) — Líder industrial taiwanés de la misma generación, académico del ITRI y fundador de TSMC
-- [Stan Shih](/people/施振榮) — Empresario de la misma generación reconvertido en filántropo, fundador de Acer
-- [Wang Yung-ching](/people/王永慶) — Líder industrial taiwanés de la generación anterior, fundador de Formosa Plastics y el Hospital Chang Gung, pionero en donaciones de escala similar
-- [Defensa y modernización militar de Taiwán](/society/台灣國防與軍事現代化) — Otro eje de la soberanía taiwanesa
+- [Hsu Cho-yun: dos dedos escribiendo un largo río de historia china](/es/people/cho-yun-hsu-bridging-historian) — Galardonado con el premio de Sinología de la sexta edición del Tang Prize en 2024, donó los 50 millones completos para crear la "Beca Hsu-Sun"
+- [Morris Chang](/es/people/tsmc-morris-chang) — Líder industrial taiwanés de la misma generación, académico del ITRI y fundador de TSMC
+- [Stan Shih](/es/people/stan-shih) — Empresario de la misma generación reconvertido en filántropo, fundador de Acer
+- [Wang Yung-ching](/es/people/yung-ching-wang-formosa-plastics-founder) — Líder industrial taiwanés de la generación anterior, fundador de Formosa Plastics y el Hospital Chang Gung, pionero en donaciones de escala similar
+- [Defensa y modernización militar de Taiwán](/es/society/taiwan-defense-modernization) — Otro eje de la soberanía taiwanesa
 
 ## Créditos de imágenes
 
@@ -297,7 +297,7 @@ Este artículo utiliza 5 imágenes con licencia CC BY o información abierta gub
 
 [^30]: [Jane Goodall recibe el premio de Desarrollo Sostenible del Tang Prize en 2020](https://www.gbimonthly.com/2020/06/72629/) — Reportaje de Global Biotech & Medicine Monthly, 2020, registra las contribuciones de investigación de Jane Goodall y el contexto de su galardón con el premio de Desarrollo Sostenible de la cuarta edición del Tang Prize.
 
-[^31]: [Hsu Cho-yun, galardonado con el premio de Sinología del Tang Prize en 2024](https://www.tang-prize.org/owner.php?Lang=tw) — Página oficial de la Fundación Educativa Tang Prize para el galardonado de Sinología de la sexta edición, registra las contribuciones académicas de Hsu Cho-yun y las razones del galardón; la entrada detallada correspondiente en este sitio se encuentra en [Hsu Cho-yun: dos dedos escribiendo un largo río de historia china](/people/許倬雲).
+[^31]: [Hsu Cho-yun, galardonado con el premio de Sinología del Tang Prize en 2024](https://www.tang-prize.org/owner.php?Lang=tw) — Página oficial de la Fundación Educativa Tang Prize para el galardonado de Sinología de la sexta edición, registra las contribuciones académicas de Hsu Cho-yun y las razones del galardón; la entrada detallada correspondiente en este sitio se encuentra en [Hsu Cho-yun: dos dedos escribiendo un largo río de historia china](/es/people/cho-yun-hsu-bridging-historian).
 
 [^32]: [Suspensión de la acusación por 1 año y pago de 10 millones en el caso de cuentas secretas de seguridad nacional en 2012](https://www.ettoday.net/news/20120806/1542044.htm) — Reportaje de ETtoday, 2012-08-06, registra que Samuel Yin se declaró culpable en el tribunal, donó voluntariamente 10 millones de dólares taiwaneses a arcas públicas y recibió un año de suspensión de la acusación, con cargos de violación de la _Ley de Contabilidad Comercial_ y _Falsificación de Documentos_.
 

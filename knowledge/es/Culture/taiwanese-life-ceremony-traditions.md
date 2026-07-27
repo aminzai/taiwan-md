@@ -436,11 +436,11 @@ Quizás este es el valor más preciado de las ceremonias de vida taiwanesas: en 
 
 ## Lectura complementaria
 
-- [Fiestas tradicionales y celebraciones](/culture/傳統節慶與慶典) - Comprender la relación entre ceremonias de vida y fiestas
-- [Grupos étnicos (hoklo, hakka, aborígenes, continentales, nuevos residentes)](/culture/族群（閩南客家原住民外省新住民）) - Explorar las características ceremoniales de diferentes grupos étnicos
-- [Religión y cultura de templos en Taiwán](/culture/台灣宗教與寺廟文化) - Conocer el papel de la religión en las ceremonias de vida
-- [Cultura del té taiwanesa y estética de la vida](/culture/台灣茶道與生活美學) - Experimentar los elementos estéticos en las ceremonias
-- [Cultura de pasteles y repostería taiwanesa](/food/台灣糕餅文化) — El papel específico de las cajas de pasteles de boda en los seis y doce regalos, desde la pastelería Yuzhenzhai de Lukang en 1877 hasta la generación de entradas agotadas en 30 segundos en 2026
+- [Fiestas tradicionales y celebraciones](/es/culture/traditional-festivals-and-celebrations) - Comprender la relación entre ceremonias de vida y fiestas
+- [Grupos étnicos (hoklo, hakka, aborígenes, continentales, nuevos residentes)](/es/culture/ethnic-groups) - Explorar las características ceremoniales de diferentes grupos étnicos
+- [Religión y cultura de templos en Taiwán](/es/culture/taiwan-religion-and-temple-culture) - Conocer el papel de la religión en las ceremonias de vida
+- [Cultura del té taiwanesa y estética de la vida](/es/culture/taiwan-tea-ceremony-and-aesthetic-living) - Experimentar los elementos estéticos en las ceremonias
+- [Cultura de pasteles y repostería taiwanesa](/es/food/taiwan-pastry-culture) — El papel específico de las cajas de pasteles de boda en los seis y doce regalos, desde la pastelería Yuzhenzhai de Lukang en 1877 hasta la generación de entradas agotadas en 30 segundos en 2026
 
 ---
 

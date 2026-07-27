@@ -35,7 +35,7 @@ La Sylvia Chang de aquella época era una figura de ídolo, pero no se quedó ah
 
 ## Década de 1980: de ídolo a artista de peso
 
-Lo que realmente consolidó su posición fue su colaboración en los años ochenta con directores de la Nueva Ola Taiwanesa como Edward Yang y [Hou Hsiao-hsien](/es/People/hou-hsiao-hsien/), incluyendo obras como «On the Beach», que la transformaron de estrella pop a actriz de peso.
+Lo que realmente consolidó su posición fue su colaboración en los años ochenta con directores de la Nueva Ola Taiwanesa como Edward Yang y [Hou Hsiao-hsien](/es/people/hou-hsiao-hsien/), incluyendo obras como «On the Beach», que la transformaron de estrella pop a actriz de peso.
 
 En 1986, «Zui Ai», película que escribió, dirigió y protagonizó, ganó el premio a Mejor Actriz en los Golden Horse. [^3] A partir de esta obra, dejó de ser solo actriz: se convirtió en creadora.
 
@@ -85,7 +85,7 @@ Una carrera de cincuenta años que no se ha fijado en ninguna identidad es, en s
 
 Partiendo de la calle Gonghe en Chiayi, pasando por Taipéi, Hong Kong y los viajes entre ambas orillas, los cincuenta años de Sylvia Chang no son una historia lineal de éxito, sino el registro de una persona que se ha movido continuamente entre distintas identidades, negándose a detenerse en cualquier posición cómoda. Su nombre en la historia del entretenimiento taiwanés representa una postura vital que un creador puede elegir, algo que trasciende con mucho lo que el logro personal de un individuo puede abarcar.
 
-**Lectura adicional:** [Sylvia Chang — Wikipedia](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [Base de datos de los Golden Horse](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) ｜ [Edward Yang](/es/people/楊德昌) — «That Day, on the Beach», que ella protagonizó, es el primer largometraje de ficción de Edward Yang
+**Lectura adicional:** [Sylvia Chang — Wikipedia](https://zh.wikipedia.org/wiki/張艾嘉) ｜ [Base de datos de los Golden Horse](https://www.goldenhorse.org.tw/awards/nw/?serach_type=award&search_item=person&search_text=%E5%BC%B5%E8%89%BE%E5%98%89) ｜ [Edward Yang](/es/people/yang-dechang) — «That Day, on the Beach», que ella protagonizó, es el primer largometraje de ficción de Edward Yang
 
 ## Referencias
 

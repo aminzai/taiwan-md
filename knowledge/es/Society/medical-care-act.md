@@ -201,7 +201,7 @@ Costo de una enfermera cuidando una cama de paciente durante 24 horas,对照 pag
 Min Zhong Network
 ```
 
-> 📝 **Nota del curador**: Bajo la lógica de pago por volumen del seguro médico, la hospitalización no genera puntos altos como la consulta externa o la cirugía, pero la fuerza laboral de enfermería es un gasto fijo que el hospital debe pagar. Por lo tanto, bajo el techo del monto total, el eslabón más fácil de ahorrar y más fácilmente presionado al mínimo, a menudo es la enfermería. Juzgar la cama, hacer bonitos los números de cumplimiento, leerlo como «hospitales sin escrúpulos abusan de las enfermeras» es conveniente, pero la visión más cercana a la estructura es: es una elección racional forzada por un sistema de pago. Para aflojar estas manos, solo regañar a los hospitales no sirve, hay que volver a preguntar cómo el seguro médico fija el precio de la atención de una cama de paciente — esta pista lleva a la vieja cuenta de cuarenta años de [Seguro Médico Nacional](/lifestyle/台灣醫療與全民健保).
+> 📝 **Nota del curador**: Bajo la lógica de pago por volumen del seguro médico, la hospitalización no genera puntos altos como la consulta externa o la cirugía, pero la fuerza laboral de enfermería es un gasto fijo que el hospital debe pagar. Por lo tanto, bajo el techo del monto total, el eslabón más fácil de ahorrar y más fácilmente presionado al mínimo, a menudo es la enfermería. Juzgar la cama, hacer bonitos los números de cumplimiento, leerlo como «hospitales sin escrúpulos abusan de las enfermeras» es conveniente, pero la visión más cercana a la estructura es: es una elección racional forzada por un sistema de pago. Para aflojar estas manos, solo regañar a los hospitales no sirve, hay que volver a preguntar cómo el seguro médico fija el precio de la atención de una cama de paciente — esta pista lleva a la vieja cuenta de cuarenta años de [Seguro Médico Nacional](/es/lifestyle/taiwan-healthcare-and-national-health-insurance).
 
 Cuando la raíz de un problema se hunde en la estructura de pago del seguro médico, se hunde en las elecciones de carrera de 110.000 personas, la respuesta difícilmente puede depender solo de una ley. Pero en la primavera de 2026, Taiwán decidió primero poner esa línea en la ley.
 
@@ -355,9 +355,9 @@ Las palabras escritas por la ley serán leídas por los lectores. Las palabras n
 
 **Lectura adicional**:
 
-- [Asistencia médica de Taiwán y Seguro Médico Nacional](/lifestyle/台灣醫療與全民健保) — La cobertura mundialmente famosa y la estructura de pago del sistema de seguros médico, son el socio de la «cara de pago» después de la implementación de la Ley de Asistencia Médica
-- [Historia de la doble ley de medicina regenerativa de Taiwán y confesión de profesionales](/society/台灣再生醫療雙法沿革從業人員告白) — La doble ley de medicina regenerativa aprobada en 2024, es una ley especial separada de la Ley de Asistencia Médica, complementa la regulación de terapia celular
-- [Sistema de asistencia médica en desastres de Taiwán](/technology/台灣災難醫療體系) — La operación real de la «distribución razonable de recursos médicos» del artículo 1 de la Ley de Asistencia Médica en escenarios de grandes desastres
+- [Asistencia médica de Taiwán y Seguro Médico Nacional](/es/lifestyle/taiwan-healthcare-and-national-health-insurance) — La cobertura mundialmente famosa y la estructura de pago del sistema de seguros médico, son el socio de la «cara de pago» después de la implementación de la Ley de Asistencia Médica
+- [Historia de la doble ley de medicina regenerativa de Taiwán y confesión de profesionales](/es/society/taiwan-regenerative-medicine-laws) — La doble ley de medicina regenerativa aprobada en 2024, es una ley especial separada de la Ley de Asistencia Médica, complementa la regulación de terapia celular
+- [Sistema de asistencia médica en desastres de Taiwán](/es/technology/taiwan-disaster-medicine-system) — La operación real de la «distribución razonable de recursos médicos» del artículo 1 de la Ley de Asistencia Médica en escenarios de grandes desastres
 
 ## Referencias
 

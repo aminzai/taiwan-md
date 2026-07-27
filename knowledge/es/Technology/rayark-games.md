@@ -180,7 +180,7 @@ Tras dejar Rayark, ICE siguió creando de manera independiente. En julio de 2022
 
 Este fue el episodio de “mina política” de Rayark, y también la segunda vez que la lógica de “promesa estética” chocó con una relación comercial. Tres años antes, en el caso VK克, Rayark había elegido priorizar la relación comercial. Esta vez el mercado era mucho mayor, pero la estructura de decisión fue exactamente la misma.
 
-Un año antes, en 2019, Devotion, de [Red Candle Games](/technology/赤燭遊戲), fue retirado de la región china de Steam el 23 de febrero por el incidente del talismán; tres días después, Red Candle anunció que lo retiraba por completo de Steam[^cedargames-wiki]. Luego, el publisher Shanghai JuMao Information Technology fue investigado por la Administración de Supervisión del Mercado del distrito de Yangpu, y el 17 de junio se le revocó la licencia comercial[^cedargames-wiki]. **Quien realmente asumió el costo fue el lado editorial**: Red Candle conservó el contenido original sin ceder, pero la distribuidora fue eliminada. En el incidente de ICE de 2020, Rayark eligió otro camino: dejar que la persona involucrada se fuera, modificar el juego conforme al mercado chino y conservar el canal de publicación en China. Priorizar la relación comercial seguía siendo la misma lógica del caso VK克.
+Un año antes, en 2019, Devotion, de [Red Candle Games](/es/technology/red-candle-games), fue retirado de la región china de Steam el 23 de febrero por el incidente del talismán; tres días después, Red Candle anunció que lo retiraba por completo de Steam[^cedargames-wiki]. Luego, el publisher Shanghai JuMao Information Technology fue investigado por la Administración de Supervisión del Mercado del distrito de Yangpu, y el 17 de junio se le revocó la licencia comercial[^cedargames-wiki]. **Quien realmente asumió el costo fue el lado editorial**: Red Candle conservó el contenido original sin ceder, pero la distribuidora fue eliminada. En el incidente de ICE de 2020, Rayark eligió otro camino: dejar que la persona involucrada se fuera, modificar el juego conforme al mercado chino y conservar el canal de publicación en China. Priorizar la relación comercial seguía siendo la misma lógica del caso VK克.
 
 > **⚠️ Punto de vista controversial**
 > Estas son dos elecciones radicalmente distintas de dos equipos indie taiwaneses emblemáticos frente a la presión del mercado chino. Red Candle no cedió en el contenido, y la distribuidora pagó el costo de ser eliminada; Rayark hizo ceder el contenido y conservó el canal de publicación en China. El medio en inglés PocketGamer.biz tituló el caso “China pulls Cytus II from the App Store for secret pro-democracy Morse code message”[^pocketgamer-cytus2], mientras que la discusión en chino se centró en “Rayark se arrodilló / ¿fue correcto cortar lazos?”. Un mismo hecho, dos lecturas. La decisión de Rayark en esta ocasión fue el resultado de extender la misma lógica de marca del caso VK克 de 2014-2017 a una fuente de presión distinta.
@@ -249,10 +249,10 @@ El incidente de ICE mostró el resultado inevitable de extender la lógica de �
 
 ## Lecturas complementarias
 
-- [Industria taiwanesa del videojuego y entretenimiento digital](/technology/台灣遊戲產業與數位娛樂) — Panorama del videojuego taiwanés, de la distribución a la creación original
-- [Red Candle Games](/technology/赤燭遊戲) — Otra ruta del juego independiente taiwanés: contar historias con la historia y optar por salir del mercado chino
-- [Las dos espadas de Softstar](/technology/大宇雙劍) — El punto de partida de los videojuegos taiwaneses narrando en chino
-- [X-Legend y la salida al exterior de los juegos en línea taiwaneses](/technology/傳奇網路與台灣線上遊戲出海) — Otra historia internacional del videojuego taiwanés
+- [Industria taiwanesa del videojuego y entretenimiento digital](/es/technology/taiwan-gaming-industry) — Panorama del videojuego taiwanés, de la distribución a la creación original
+- [Red Candle Games](/es/technology/red-candle-games) — Otra ruta del juego independiente taiwanés: contar historias con la historia y optar por salir del mercado chino
+- [Las dos espadas de Softstar](/es/technology/softstar-twin-classics) — El punto de partida de los videojuegos taiwaneses narrando en chino
+- [X-Legend y la salida al exterior de los juegos en línea taiwaneses](/es/technology/chuanqi-net-and-taiwan-online-gaming) — Otra historia internacional del videojuego taiwanés
 
 ---
 

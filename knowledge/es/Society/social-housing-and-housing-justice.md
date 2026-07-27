@@ -285,9 +285,9 @@ La realización de la justicia habitacional requiere el esfuerzo conjunto de tod
 
 **Lecturas complementarias**:
 
-- [Vivienda nacional y justicia habitacional](/society/國宅與居住正義) — La vía de “construir para vender” que fue abandonada antes de la vivienda social de 2016: desde la Ordenanza de Vivienda Nacional de 1975 hasta su derogación en 2015, cómo la vivienda nacional se convirtió en una escalera patrimonial y el debate contemporáneo de 2026 sobre la vivienda asequible de Taoyuan que vuelve a introducir la idea de “vender” (artículo hermano de este texto)
-- [Viviendas de chapa metálica](/society/鐵皮屋) — El dilema de gobernanza de 716.000 construcciones ilegales en todo Taiwán; las ampliaciones de chapa en azoteas y la construcción irregular son parte de la estructura subyacente del debate sobre justicia habitacional
-- [Justicia ambiental y controversias NIMBY en Taiwán](/society/台灣環境正義與鄰避爭議) — La extensión territorial del problema habitacional: distribución desigual de riesgos ambientales y conflictos comunitarios en torno a instalaciones rechazadas por los vecinos
+- [Vivienda nacional y justicia habitacional](/es/society/public-housing-justice) — La vía de “construir para vender” que fue abandonada antes de la vivienda social de 2016: desde la Ordenanza de Vivienda Nacional de 1975 hasta su derogación en 2015, cómo la vivienda nacional se convirtió en una escalera patrimonial y el debate contemporáneo de 2026 sobre la vivienda asequible de Taoyuan que vuelve a introducir la idea de “vender” (artículo hermano de este texto)
+- [Viviendas de chapa metálica](/es/society/taiwan-tin-shed-houses) — El dilema de gobernanza de 716.000 construcciones ilegales en todo Taiwán; las ampliaciones de chapa en azoteas y la construcción irregular son parte de la estructura subyacente del debate sobre justicia habitacional
+- [Justicia ambiental y controversias NIMBY en Taiwán](/es/society/taiwan-environmental-justice-nimby-conflicts) — La extensión territorial del problema habitacional: distribución desigual de riesgos ambientales y conflictos comunitarios en torno a instalaciones rechazadas por los vecinos
 
 [^1]: Agencia de Administración Territorial del Ministerio del Interior, “Informe de resultados de promoción de vivienda social”, diciembre de 2024, https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7
 

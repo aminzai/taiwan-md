@@ -177,13 +177,13 @@ Y esa es también una de las posiciones más claras, y más necesitadas de ser v
 
 ## Lecturas complementarias
 
-- [Comercio exterior de Taiwán y cadenas de suministro globales](/economy/台灣外貿與全球供應鏈) — el trasfondo macro desde la orientación exportadora y el comercio triangular hasta la reconfiguración de las cadenas entre Estados Unidos y China.
-- [NVIDIA en Taiwán](/technology/NVIDIA在台灣) — cómo deposita NVIDIA en Taiwán la fabricación de chips, el empaquetado y el montaje de servidores.
-- [Industria de semiconductores](/technology/半導體產業) — el largo trasfondo desde la transferencia tecnológica de RCA y la fundición de TSMC hasta el campo de batalla de los materiales y el empaquetado.
-- [Computex](/technology/Computex) — por qué la feria informática de Taipéi se ha convertido en la era de la IA en el lugar de peregrinación del lado de la oferta de hardware mundial.
-- [La electricidad y los semiconductores en Taiwán](/technology/台灣的電力與半導體) — la factura eléctrica, la presión de la energía verde y la seguridad energética detrás de la cadena de la IA.
-- [El agua de los semiconductores y los recursos hídricos de Taiwán](/technology/半導體用水與台灣水資源) — cómo se conectan las fábricas de obleas con los embalses, las sequías, el agua regenerada y la gobernanza local.
-- [Fábricas de la cadena de IA en el extranjero](/technology/AI供應鏈海外設廠) — cómo el mundo está sacando fuera la cadena taiwanesa, desde TSMC, Foxconn y Wistron hasta Delta.
+- [Comercio exterior de Taiwán y cadenas de suministro globales](/es/economy/taiwan-foreign-trade-and-global-supply-chain) — el trasfondo macro desde la orientación exportadora y el comercio triangular hasta la reconfiguración de las cadenas entre Estados Unidos y China.
+- [NVIDIA en Taiwán](/es/technology/nvidia-in-taiwan) — cómo deposita NVIDIA en Taiwán la fabricación de chips, el empaquetado y el montaje de servidores.
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — el largo trasfondo desde la transferencia tecnológica de RCA y la fundición de TSMC hasta el campo de batalla de los materiales y el empaquetado.
+- [Computex](/es/technology/computex-taipei) — por qué la feria informática de Taipéi se ha convertido en la era de la IA en el lugar de peregrinación del lado de la oferta de hardware mundial.
+- [La electricidad y los semiconductores en Taiwán](/es/technology/taiwan-electricity-and-semiconductors) — la factura eléctrica, la presión de la energía verde y la seguridad energética detrás de la cadena de la IA.
+- [El agua de los semiconductores y los recursos hídricos de Taiwán](/es/technology/semiconductor-water-use-and-taiwan-water-resources) — cómo se conectan las fábricas de obleas con los embalses, las sequías, el agua regenerada y la gobernanza local.
+- [Fábricas de la cadena de IA en el extranjero](/es/technology/ai-supply-chain-overseas-manufacturing) — cómo el mundo está sacando fuera la cadena taiwanesa, desde TSMC, Foxconn y Wistron hasta Delta.
 
 ## Fuentes de imágenes
 

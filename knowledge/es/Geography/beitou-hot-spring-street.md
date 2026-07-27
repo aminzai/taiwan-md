@@ -284,12 +284,12 @@ Eso también es una forma de magia.
 
 **Lecturas complementarias**:
 
-- [Ciudad de Taipéi](/geography/台北市) — panorama de sus 12 distritos, la posición del distrito de Beitou y su relación con otros barrios históricos de Taipéi
-- [Mapa cultural de los 16 pueblos indígenas de Taiwán](/culture/台灣原住民族16族文化地圖) — distribución del pueblo ketagalan y otros pueblos pingpu en Taiwán
-- [Dadaocheng](/geography/大稻埕) — barrio histórico del mismo período, otro centro comercial clave de Taipéi tras la apertura del puerto en 1860
-- [Mengjia](/geography/艋舺) — punto de partida del esplendor de “primero la capital, segundo Lukang, tercero Mengjia” en la Taipéi del período Qing, y su relación con Beitou
-- [Ximending](/geography/西門町) — distrito de entretenimiento planificado por los japoneses en 1896, desarrollado en paralelo al Tenguan de Hirata Gengo en Beitou ese mismo año
-- [Tiaotong de Zhongshan North Road](/geography/中山北路條通) — avenida arbolada de la calle Chokushi hacia el santuario Yuanshan desde 1898; la cultura de izakaya de empresarios japoneses tras la ruptura de relaciones entre Japón y la República de China (Taiwán) en 1972 y la abolición de la prostitución de Beitou en 1979 son dos bifurcaciones del paisaje de actividades especiales de la Taipéi de posguerra
+- [Ciudad de Taipéi](/es/geography/taipei-city) — panorama de sus 12 distritos, la posición del distrito de Beitou y su relación con otros barrios históricos de Taipéi
+- [Mapa cultural de los 16 pueblos indígenas de Taiwán](/es/culture/indigenous-peoples-16-tribes-cultural-map) — distribución del pueblo ketagalan y otros pueblos pingpu en Taiwán
+- [Dadaocheng](/es/geography/dadaocheng) — barrio histórico del mismo período, otro centro comercial clave de Taipéi tras la apertura del puerto en 1860
+- [Mengjia](/es/geography/bangka) — punto de partida del esplendor de “primero la capital, segundo Lukang, tercero Mengjia” en la Taipéi del período Qing, y su relación con Beitou
+- [Ximending](/es/geography/ximending) — distrito de entretenimiento planificado por los japoneses en 1896, desarrollado en paralelo al Tenguan de Hirata Gengo en Beitou ese mismo año
+- [Tiaotong de Zhongshan North Road](/es/geography/zhongshan-north-road-tiaotong) — avenida arbolada de la calle Chokushi hacia el santuario Yuanshan desde 1898; la cultura de izakaya de empresarios japoneses tras la ruptura de relaciones entre Japón y la República de China (Taiwán) en 1972 y la abolición de la prostitución de Beitou en 1979 son dos bifurcaciones del paisaje de actividades especiales de la Taipéi de posguerra
 
 ## Fuentes de imágenes
 

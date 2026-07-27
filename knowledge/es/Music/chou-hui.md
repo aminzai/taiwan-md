@@ -358,10 +358,10 @@ La próxima vez que el público contemporáneo de Taiwán entre en un KTV, algui
 
 **Lectura adicional**:
 
-- [Zhang Xuan y Anpu](/music/張懸與安溥) — También una voz femenina de Taiwán, Anpu responde a la pregunta de "¿de qué lado estás?" con dos nombres artísticos; la elección de Where Chou es no elegir un lado.
-- [Cultura de los KTV en Taiwán](/music/台灣KTV文化) — La época dorada de los KTV desde finales de la década de 1990 hasta principios de la de 2000 fue la base material para que "Acuerdo" avanzara durante 25 años.
-- [Música pop de Taiwán](/music/台灣流行音樂) — La generación y disolución del marco de "Las cuatro pequeñas divas" en 1999 presenta una rebanada de la industrialización de la música pop mandarina de los años 90.
-- [Premios Golden Melody](/music/金曲獎) — Where Chou nunca ganó el premio a la mejor cantante femenina en los Golden Melody, pero sus 25 años de carrera establecieron otro indicador de longevidad fuera del sistema de los Golden Melody.
+- [Zhang Xuan y Anpu](/es/music/deserts-chang-and-anpu) — También una voz femenina de Taiwán, Anpu responde a la pregunta de "¿de qué lado estás?" con dos nombres artísticos; la elección de Where Chou es no elegir un lado.
+- [Cultura de los KTV en Taiwán](/es/music/ktv-culture) — La época dorada de los KTV desde finales de la década de 1990 hasta principios de la de 2000 fue la base material para que "Acuerdo" avanzara durante 25 años.
+- [Música pop de Taiwán](/es/music/golden-melodies-legacy-taiwan-pop-music) — La generación y disolución del marco de "Las cuatro pequeñas divas" en 1999 presenta una rebanada de la industrialización de la música pop mandarina de los años 90.
+- [Premios Golden Melody](/es/music/pop-music-and-golden-melody-awards) — Where Chou nunca ganó el premio a la mejor cantante femenina en los Golden Melody, pero sus 25 años de carrera establecieron otro indicador de longevidad fuera del sistema de los Golden Melody.
 
 ## Fuentes de imágenes
 

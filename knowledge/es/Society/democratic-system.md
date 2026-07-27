@@ -90,4 +90,4 @@ Taiwán es reconocido como un “milagro democrático”, y organizaciones como 
 
 ## Temas relacionados
 
-- [Derechos humanos e igualdad de género](/society/人權與性別平等)
+- [Derechos humanos e igualdad de género](/es/society/human-rights-and-gender-equality)

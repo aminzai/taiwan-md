@@ -229,15 +229,15 @@ Para otros, Wanhua es un night market turístico, una zona gris posterior a la a
 
 **Lecturas adicionales**:
 
-- [Ciudad de Taipéi](/geography/台北市) — panorama completo de la cuenca en tres tiempos: templo Longshan de 1738, Dadaocheng de 1885 y Xinyi 101 de 2004
-- [Cultura de calles antiguas y distritos comerciales de Taiwán](/culture/台灣老街文化與商業街區) — mapa histórico de más de 10 calles antiguas de todo Taiwán, desde puertos Qing hasta barroco del periodo japonés
-- [Religión y cultura de templos en Taiwán](/culture/台灣宗教與寺廟文化) — estructura religiosa de 15,000 templos en la isla, con Wangye, Mazu, budismo y taoísmo compartiendo el mismo techo
-- [Periodo Qing](/history/清治時期) — sociedad taiwanesa entre 1683 y 1895, riñas armadas entre grupos clasificados y redes migratorias
-- [Guerra sino-francesa](/history/清法戰爭) — ofensiva francesa contra el norte de Taiwán en 1884-1885, movilización de milicias en el templo Longshan de Bangka y victoria de Tamsui
-- [Dadaocheng](/geography/大稻埕) — puerto comercial abierto por los tong'aneses derrotados en la riña de Ting-hsia Chiao de 1853 tras huir de Bajiazhuang, en Bangka; otra línea temporal derivada de Bangka
-- [Ximending](/geography/西門町) — hermano del mismo batch 1 de distritos históricos; zona de entretenimiento planificada por los japoneses al oeste de Bangka en 1896, en contraste Qing frente a periodo japonés con la calle principal de Bangka
-- [Dalongdong](/geography/大龍峒) — primer punto de repliegue de los tong'aneses derrotados en la riña de Ting-hsia Chiao de 1853 desde Bajiazhuang, Bangka; el templo Bao'an se convirtió en centro defensivo antes de su posterior traslado a Dadaocheng
-- [Shilin](/geography/士林) — las riñas Zhang-Quan de 1859 y la riña de Ting-hsia Chiao de Bangka de 1853 fueron dos conflictos distintos: dos paisajes de riña armada entre grupos en el norte de Taiwán bajo los Qing
+- [Ciudad de Taipéi](/es/geography/taipei-city) — panorama completo de la cuenca en tres tiempos: templo Longshan de 1738, Dadaocheng de 1885 y Xinyi 101 de 2004
+- [Cultura de calles antiguas y distritos comerciales de Taiwán](/es/culture/taiwan-historic-streets-and-commercial-districts) — mapa histórico de más de 10 calles antiguas de todo Taiwán, desde puertos Qing hasta barroco del periodo japonés
+- [Religión y cultura de templos en Taiwán](/es/culture/taiwan-religion-and-temple-culture) — estructura religiosa de 15,000 templos en la isla, con Wangye, Mazu, budismo y taoísmo compartiendo el mismo techo
+- [Periodo Qing](/es/history/qing-dynasty-rule) — sociedad taiwanesa entre 1683 y 1895, riñas armadas entre grupos clasificados y redes migratorias
+- [Guerra sino-francesa](/es/history/sino-french-war-in-taiwan) — ofensiva francesa contra el norte de Taiwán en 1884-1885, movilización de milicias en el templo Longshan de Bangka y victoria de Tamsui
+- [Dadaocheng](/es/geography/dadaocheng) — puerto comercial abierto por los tong'aneses derrotados en la riña de Ting-hsia Chiao de 1853 tras huir de Bajiazhuang, en Bangka; otra línea temporal derivada de Bangka
+- [Ximending](/es/geography/ximending) — hermano del mismo batch 1 de distritos históricos; zona de entretenimiento planificada por los japoneses al oeste de Bangka en 1896, en contraste Qing frente a periodo japonés con la calle principal de Bangka
+- [Dalongdong](/es/geography/dalongdong) — primer punto de repliegue de los tong'aneses derrotados en la riña de Ting-hsia Chiao de 1853 desde Bajiazhuang, Bangka; el templo Bao'an se convirtió en centro defensivo antes de su posterior traslado a Dadaocheng
+- [Shilin](/es/geography/shilin) — las riñas Zhang-Quan de 1859 y la riña de Ting-hsia Chiao de Bangka de 1853 fueron dos conflictos distintos: dos paisajes de riña armada entre grupos en el norte de Taiwán bajo los Qing
 
 ## Referencias
 

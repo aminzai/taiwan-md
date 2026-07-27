@@ -159,14 +159,14 @@ Los próximos 42 años los escribirán otros.
 
 ## Lecturas complementarias
 
-- [Literatura taiwanesa tras el fin de la ley marcial](/art/解嚴後台灣文學) — De la abolición de la ley marcial en 1987 al año 2000: localización, género y explosión multilingüe
-- [Literatura taiwanesa contemporánea](/art/當代台灣文學) — El siglo XXI: internacionalización de Wu Ming-yi, Lin Yihan, ola digital
-- [Historia de la literatura taiwanesa](/art/台灣文學史) — El panorama general desde el periodo holandés, Ming-Qing, colonial japonés, posguerra hasta la actualidad
-- [Literatura del periodo colonial japonés](/art/日治時期文學) — El punto de partida colonial japonés de Lai He, Lu Hengru, Zhang Wenhuan y Yang Kui es el otro extremo de la afasia de posguerra
-- [Liang](/people/林良) — Pionero de la literatura infantil tras cruzar el estrecho en posguerra, 57 años de carrera en el _Mandarin Daily News_; "el arte del lenguaje sencillo" definió el punto de partida literario de varias generaciones de niños taiwaneses
+- [Literatura taiwanesa tras el fin de la ley marcial](/es/art/post-martial-law-taiwanese-literature) — De la abolición de la ley marcial en 1987 al año 2000: localización, género y explosión multilingüe
+- [Literatura taiwanesa contemporánea](/es/art/contemporary-taiwanese-literature) — El siglo XXI: internacionalización de Wu Ming-yi, Lin Yihan, ola digital
+- [Historia de la literatura taiwanesa](/es/art/history-of-taiwanese-literature) — El panorama general desde el periodo holandés, Ming-Qing, colonial japonés, posguerra hasta la actualidad
+- [Literatura del periodo colonial japonés](/es/art/taiwanese-literature-during-japanese-rule) — El punto de partida colonial japonés de Lai He, Lu Hengru, Zhang Wenhuan y Yang Kui es el otro extremo de la afasia de posguerra
+- [Liang](/es/people/lin-liang-childrens-literature) — Pionero de la literatura infantil tras cruzar el estrecho en posguerra, 57 años de carrera en el _Mandarin Daily News_; "el arte del lenguaje sencillo" definió el punto de partida literario de varias generaciones de niños taiwaneses
 - [Terror Blanco](/history/白色恐怖) — El contexto político de la prisión de Ye Shitao, Yang Kui en la Isla Verde y Lu Hengru en Luku
-- [Incidente del 228](/history/二二八事件) — El impacto en el mundo literario en 1947 (Wang Tiansheng, Yang Kui, Ye Tao)
-- [Periodo de ley marcial](/history/戒嚴時期) — Las condiciones políticas de la actividad literaria entre 1949 y 1987
+- [Incidente del 228](/es/history/228-incident) — El impacto en el mundo literario en 1947 (Wang Tiansheng, Yang Kui, Ye Tao)
+- [Periodo de ley marcial](/es/history/martial-law-era) — Las condiciones políticas de la actividad literaria entre 1949 y 1987
 
 ---
 

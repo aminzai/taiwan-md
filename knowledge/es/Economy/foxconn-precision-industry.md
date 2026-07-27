@@ -3,7 +3,15 @@ title: 'Empresas de Taiwán: Foxconn Precision Industry: 8 billones de ingresos 
 description: 'El 30 de abril de 2026 por la mañana, la revista Time incluyó a Foxconn entre las 100 empresas más influyentes del mundo; esa misma tarde, agentes de la fiscalía entraron con orden de registro en la planta de Tucheng de Foxconn. Desde los 100.000 dólares taiwaneses del fondo familiar de la madre de Terry Gou en 1974 hasta los 8 billones de ingresos en 2025, cuando los productos de red en la nube superaron por primera vez a la electrónica de consumo, lo más difícil de gestionar en Foxconn no es la geopolítica ni el ritmo de envío de racks de servidores de IA: son los propios empleados.'
 date: 2026-05-03
 category: 'Economy'
-tags: ['Economy', 'Empresa', 'Fabricación electrónica', 'Subcontratación', 'Foxconn', 'Gobierno corporativo']
+tags:
+  [
+    'Economy',
+    'Empresa',
+    'Fabricación electrónica',
+    'Subcontratación',
+    'Foxconn',
+    'Gobierno corporativo',
+  ]
 subcategory: '企業列傳'
 author: 'Taiwan.md'
 featured: false
@@ -26,7 +34,7 @@ translatedAt: '2026-05-09T14:31:06Z'
 
 El iPhone en tu mano, la PlayStation en tu sala de estar, los racks de servidores NVIDIA GB200 para entrenamiento de modelos GPT en la nube: es muy probable que el ensamblaje final de todos estos productos haya salido de una planta de Foxconn[^10][^14].
 
-Desde que [Terry Gou](/people/郭台銘) fundó "Foxconn Plastics" en 1974 con 100.000 dólares taiwaneses procedentes de un fondo de ahorro rotatorio de su madre Chu Yung-chen[^13], hasta que en 2025 se convirtió en la primera empresa cotizada de Taiwán en superar los 8 billones de dólares taiwaneses en ingresos anuales[^9], la historia de Foxconn se ha contado cientos de veces. Este artículo no repite esa narrativa.
+Desde que [Terry Gou](/es/people/terry-gou) fundó "Foxconn Plastics" en 1974 con 100.000 dólares taiwaneses procedentes de un fondo de ahorro rotatorio de su madre Chu Yung-chen[^13], hasta que en 2025 se convirtió en la primera empresa cotizada de Taiwán en superar los 8 billones de dólares taiwaneses en ingresos anuales[^9], la historia de Foxconn se ha contado cientos de veces. Este artículo no repite esa narrativa.
 
 El 30 de abril de 2026 fue el día más contradictorio de Foxconn en los últimos años: por la mañana era el campeón global de subcontratación de IA seleccionado por la revista Time; por la tarde era objeto de un registro por parte de la Fiscalía de Nuevo Taipéi[^1][^10]. Un mismo balance general, dos direcciones contabilizándose simultáneamente. Este es el núcleo de esta reescritura.
 
@@ -34,7 +42,7 @@ El 30 de abril de 2026 fue el día más contradictorio de Foxconn en los último
 
 El 30 de abril de 2026, la víspera del puente festivo del Día del Trabajo. La Fiscalía de Nuevo Taipéi dirigió a la Oficina de Investigaciones de la Oficina de Investigación de Taipéi en un registro simultáneo de múltiples ubicaciones, incluida la sede central y planta de Foxconn en Tucheng, Nuevo Taipéi, así como los domicilios de los empleados implicados[^1].
 
-Los llevados para interrogatorio incluyeron al director del departamento de operaciones en el exterior **Zeng Xinmin** (libertad bajo fianza de 2 millones de dólares taiwaneses), el subdirector **Qian Yunru** (libertad bajo fianza de 1 millón de dólares taiwaneses), además de la esposa del Sr. Zeng, de apellido Zhang (incluida inicialmente como testigo, reclasificada posteriormente como acusada de lavado de dinero, liberada tras el interrogatorio)[^2][^3]. La fiscalía investigó bajo los cargos de incumplimiento de deber fiduciario especial según la *Ley de Valores*, falsedad en registros contables según el *Código Penal* y falsificación de documentos. Ambos sospechosos tienen prohibido salir del país[^3].
+Los llevados para interrogatorio incluyeron al director del departamento de operaciones en el exterior **Zeng Xinmin** (libertad bajo fianza de 2 millones de dólares taiwaneses), el subdirector **Qian Yunru** (libertad bajo fianza de 1 millón de dólares taiwaneses), además de la esposa del Sr. Zeng, de apellido Zhang (incluida inicialmente como testigo, reclasificada posteriormente como acusada de lavado de dinero, liberada tras el interrogatorio)[^2][^3]. La fiscalía investigó bajo los cargos de incumplimiento de deber fiduciario especial según la _Ley de Valores_, falsedad en registros contables según el _Código Penal_ y falsificación de documentos. Ambos sospechosos tienen prohibido salir del país[^3].
 
 La agencia de noticias CNA citó la declaración de la fiscalía: "Los Sres. Zeng y Qian, durante la gestión del plan de expansión global de fábricas de Foxconn, presuntamente recibieron sobornos de proveedores en el ejercicio de sus funciones, con un importe estimado inicial de decenas de millones de dólares taiwaneses, además de estar implicados en registros falsos y falsificación de documentos, entre otros hechos."[^2] El modus operandi consistió en "aprovechar su cargo para, en operaciones de compra, recibir sobornos ilegales de proveedores por más de diez millones de dólares taiwaneses a través de cuentas en el extranjero, y falsificar documentos de compra para ayudar a los proveedores a pasar las inspecciones de aceptación"[^2].
 
@@ -48,11 +56,11 @@ La redacción de este comunicado sigue casi al pie de la letra el formato están
 
 El 1 de mayo de 2026, el semanario Mirror Weekly reveló en exclusiva: quienes "supervisaron de cerca durante todo el día" del registro fueron un equipo interno de Foxconn al que los medios denominan el "trío cazafantasmas"[^5].
 
-| Rol | Nombre | Antecedentes profesionales |
-| --- | --- | --- |
-| Director de Auditoría | Li Shunbao | Exsubdirector de auditoría de la Oficina Nacional de Auditoría |
-| Director de la Oficina de Prevención de Irregularidades | Li Mingyin | Exjefe de la Sección de Prevención del Delito de la Oficina de Investigación de Taoyuan / Exdirector de la Unidad Móvil de Taoyuan |
-| Gerente de la Oficina de Prevención de Irregularidades | Lin Minghong | Exsubdirector de la Estación de Investigación de Penghu / Exsubdirector de la Unidad Móvil de Taoyuan |
+| Rol                                                     | Nombre       | Antecedentes profesionales                                                                                                         |
+| ------------------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Director de Auditoría                                   | Li Shunbao   | Exsubdirector de auditoría de la Oficina Nacional de Auditoría                                                                     |
+| Director de la Oficina de Prevención de Irregularidades | Li Mingyin   | Exjefe de la Sección de Prevención del Delito de la Oficina de Investigación de Taoyuan / Exdirector de la Unidad Móvil de Taoyuan |
+| Gerente de la Oficina de Prevención de Irregularidades  | Lin Minghong | Exsubdirector de la Estación de Investigación de Penghu / Exsubdirector de la Unidad Móvil de Taoyuan                              |
 
 Tres personas, tres antecedentes gubernamentales anticorrupción. No son "oficiales de integridad corporativa" a nivel de relaciones públicas; son personas que han trasladado la lógica de investigación de la Oficina de Investigación al interior de Foxconn[^5].
 
@@ -67,7 +75,7 @@ El Comité SMT controlaba aproximadamente 50.000 millones de dólares taiwaneses
 Este caso tardó 7 años en el sistema judicial:
 
 - **2014**: La Fiscalía de Taipéi acusó a Liao Wancheng y otras 6 personas[^7]
-- **Primera instancia**: El Tribunal de Distrito de Taipéi condenó severamente a Liao Wancheng a 10 años y 6 meses bajo la *Ley de Valores* por incumplimiento de deber fiduciario especial[^7]
+- **Primera instancia**: El Tribunal de Distrito de Taipéi condenó severamente a Liao Wancheng a 10 años y 6 meses bajo la _Ley de Valores_ por incumplimiento de deber fiduciario especial[^7]
 - **Segunda instancia** (2018-11-27): El Tribunal Superior cambió la condena a 1 año y 4 meses bajo el delito común de incumplimiento de deber fiduciario, provocando consternación social[^7]
 - **Nueva primera instancia** (2020-11): El Tribunal Superior modificó la condena a 2 años de prisión, con confiscación de ganancias delictivas de 3,16 millones de dólares taiwaneses[^7]
 - **2021-05-24**: El Tribunal Supremo rechazó el recurso de apelación, confirmando la condena; Liao Wancheng debía ingresar en prisión[^7]
@@ -78,7 +86,7 @@ El caso de Liao Wancheng fue una historia judicial larga, pero dentro de Foxconn
 
 ## La decisión de 2015
 
-A mediados de 2015, [Terry Gou](/people/郭台銘) creó un departamento independiente adicional al Departamento Legal y al Departamento de Auditoría: la **Oficina de Prevención de Irregularidades**[^6].
+A mediados de 2015, [Terry Gou](/es/people/terry-gou) creó un departamento independiente adicional al Departamento Legal y al Departamento de Auditoría: la **Oficina de Prevención de Irregularidades**[^6].
 
 La revista Commonwealth la denominó la "agencia anticorrupción de Foxconn"[^6]. Gou estableció simultáneamente una "recompensa por cazar fantasmas" de hasta 50 millones de dólares taiwaneses por caso, para incentivar a los empleados a denunciar irregularidades internas[^6].
 
@@ -96,7 +104,7 @@ El 11 de octubre, la Oficina de Asuntos de Taiwán del Consejo de Estado chino c
 
 La respuesta del Consejo de Asuntos de la China Continental (MAC) fue inusual en las noticias judiciales: un vicepresidente describió públicamente el caso como "**la situación es bastante extraña**" e indicó que "no se descarta la corrupción y abuso de autoridad por parte de algunos agentes de seguridad pública", instando a Pekín a esclarecer la situación lo antes posible[^12]. Foxconn declaró que el comportamiento de los empleados no causó pérdidas a la empresa ni perjudicó sus intereses[^12].
 
-Este artículo no se extiende hacia una narrativa política a través del estrecho. El problema que señala está en otro nivel: cuando las bases de producción de una empresa abarcan múltiples jurisdicciones, sistemas de derecho laboral y sistemas policiales y judiciales, el mismo hecho de "recibir beneficios indebidos en una relación de encargo comercial" se trata como casos de naturaleza completamente diferente en distintos lugares. El caso de Tucheng es investigado por la Fiscalía de Nuevo Taipéi bajo la *Ley de Valores*; el caso de Zhengzhou es abordado por la policía china bajo el Artículo 163 del *Código Penal* por "delito de soborno por personal no estatal". **La misma cadena de suministro en el mapa son galaxias legales diferentes**.
+Este artículo no se extiende hacia una narrativa política a través del estrecho. El problema que señala está en otro nivel: cuando las bases de producción de una empresa abarcan múltiples jurisdicciones, sistemas de derecho laboral y sistemas policiales y judiciales, el mismo hecho de "recibir beneficios indebidos en una relación de encargo comercial" se trata como casos de naturaleza completamente diferente en distintos lugares. El caso de Tucheng es investigado por la Fiscalía de Nuevo Taipéi bajo la _Ley de Valores_; el caso de Zhengzhou es abordado por la policía china bajo el Artículo 163 del _Código Penal_ por "delito de soborno por personal no estatal". **La misma cadena de suministro en el mapa son galaxias legales diferentes**.
 
 ## 8 billones y decenas de millones
 
@@ -114,7 +122,7 @@ Dos Foxconns: uno en la portada de Time, otro en un comunicado de información m
 
 ## La distancia de 100.000 a 8 billones
 
-En 1974, [Terry Gou](/people/郭台銘), de 30 años, fundó la "Foxconn Plastics Enterprise Co., Ltd." en Tucheng, Taipéi, con 100.000 dólares taiwaneses procedentes de un fondo de ahorro rotatorio de su madre Chu Yung-chen (la mitad de un total de 200.000, la otra mitad destinada a la boda del propio Gou), en sociedad con amigos con un capital total de 300.000 dólares taiwaneses, con 10 empleados dedicados principalmente a la producción de perillas para televisores en blanco y negro[^13].
+En 1974, [Terry Gou](/es/people/terry-gou), de 30 años, fundó la "Foxconn Plastics Enterprise Co., Ltd." en Tucheng, Taipéi, con 100.000 dólares taiwaneses procedentes de un fondo de ahorro rotatorio de su madre Chu Yung-chen (la mitad de un total de 200.000, la otra mitad destinada a la boda del propio Gou), en sociedad con amigos con un capital total de 300.000 dólares taiwaneses, con 10 empleados dedicados principalmente a la producción de perillas para televisores en blanco y negro[^13].
 
 Al año siguiente, con la economía en recesión, el capital de 300.000 se agotó y los socios originales se retiraron. Gou pidió prestados 700.000 dólares taiwaneses a su suegro para comprar toda la empresa y la renombró "Foxconn Industrial"[^13].
 
@@ -147,11 +155,11 @@ La lista de la revista Time seguirá actualizándose. El BPA de las conferencias
 
 ## Lecturas complementarias
 
-- [Terry Gou](/people/郭台銘) — Fundador de Foxconn, historia emprendedora desde los 100.000 dólares taiwaneses del fondo familiar de su madre hasta un imperio manufacturero global
-- [Empresas de Taiwán: TSMC](/economy/台灣企業：台積電) — También buque insignia empresarial internacional de Taiwán, pero con un modelo de subcontratación de obleas profesional; su estructura de gobernanza es radicalmente diferente a la del imperio de subcontratación de Foxconn
-- [Mercado de valores y mercado de capitales de Taiwán](/economy/台灣股市與資本市場) — Foxconn tiene el código bursátil 2317; cómo funciona el mecanismo de divulgación de información material
-- [Transformación y mejora industrial de Taiwán](/economy/台灣產業轉型升級) — De la subcontratación intensiva en mano de obra al ensamblaje de servidores de IA, Foxconn es el epítome de este camino
-- [Comercio exterior y cadena de suministro global de Taiwán](/economy/台灣外貿與全球供應鏈) — La presencia global en 24 países con 900.000 personas es el mayor campo de experimentación de la gobernanza transfronteriza de la manufactura taiwanesa
+- [Terry Gou](/es/people/terry-gou) — Fundador de Foxconn, historia emprendedora desde los 100.000 dólares taiwaneses del fondo familiar de su madre hasta un imperio manufacturero global
+- [Empresas de Taiwán: TSMC](/es/economy/tsmc) — También buque insignia empresarial internacional de Taiwán, pero con un modelo de subcontratación de obleas profesional; su estructura de gobernanza es radicalmente diferente a la del imperio de subcontratación de Foxconn
+- [Mercado de valores y mercado de capitales de Taiwán](/es/economy/taiwan-stock-market) — Foxconn tiene el código bursátil 2317; cómo funciona el mecanismo de divulgación de información material
+- [Transformación y mejora industrial de Taiwán](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — De la subcontratación intensiva en mano de obra al ensamblaje de servidores de IA, Foxconn es el epítome de este camino
+- [Comercio exterior y cadena de suministro global de Taiwán](/es/economy/taiwan-foreign-trade-and-global-supply-chain) — La presencia global en 24 países con 900.000 personas es el mayor campo de experimentación de la gobernanza transfronteriza de la manufactura taiwanesa
 
 ---
 
@@ -161,7 +169,7 @@ La lista de la revista Time seguirá actualizándose. El BPA de las conferencias
 
 [^2]: [CNA 2026-05-01 Director y subdirector de planta de Foxconn en Tucheng implicados en caso de sobornos: ambos en libertad bajo fianza con prohibición de salir del país](https://www.cna.com.tw/news/asoc/202605010140.aspx) — Reportaje de la Agencia Central de Noticias, incluyendo la declaración de la fiscalía sobre "recibir sobornos de proveedores en el ejercicio de funciones durante el plan de expansión global de fábricas" y la descripción detallada del modus operandi: "recibir sobornos ilegales de proveedores por más de diez millones de dólares taiwaneses a través de cuentas en el extranjero y falsificar documentos de compra para ayudar a los proveedores a pasar las inspecciones de aceptación".
 
-[^3]: [United Daily News 2026-05-01 Dos altos ejecutivos de Foxconn implicados en caso de sobornos de decenas de millones: director con fianza de 2 millones, subdirector con fianza de 1 millón](https://udn.com/news/story/7321/9475893) — Reportaje de la sección legal del United Daily News, documentando los importes de fianza, la prohibición de salir del país y los cargos aplicados por la fiscalía (incumplimiento de deber fiduciario especial según la *Ley de Valores* + falsedad en registros contables según el *Código Penal* + falsificación de documentos).
+[^3]: [United Daily News 2026-05-01 Dos altos ejecutivos de Foxconn implicados en caso de sobornos de decenas de millones: director con fianza de 2 millones, subdirector con fianza de 1 millón](https://udn.com/news/story/7321/9475893) — Reportaje de la sección legal del United Daily News, documentando los importes de fianza, la prohibición de salir del país y los cargos aplicados por la fiscalía (incumplimiento de deber fiduciario especial según la _Ley de Valores_ + falsedad en registros contables según el _Código Penal_ + falsificación de documentos).
 
 [^4]: [Liberty Times Finance 2026-04-30 Planta de Tucheng registrada por la Oficina de Investigación: Foxconn responde oficialmente](https://ec.ltn.com.tw/article/breakingnews/5421502) — Reportaje de Liberty Times Finance con el texto completo del comunicado de información material de Foxconn a través del sistema de observación de información pública, incluyendo la respuesta textual: "empleados específicos implicados", "no afecta a la propia empresa", "cooperación plena con la investigación judicial".
 

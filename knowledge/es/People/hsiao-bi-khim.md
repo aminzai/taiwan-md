@@ -137,13 +137,13 @@ Pero quizás esta sea la respuesta a la que Taiwán tendrá que acostumbrarse en
 
 **Lecturas complementarias**:
 
-- [Reunión Zheng-Xi 2026: diez años después, los líderes del Kuomintang y el Partido Comunista se reúnen de nuevo](/society/2026鄭習會與國共十年再會) — Mientras Zheng Li-wen hablaba en Pekín, la respuesta discreta de Hsiao Bi-khim en el escenario internacional planteaba otra versión de la pregunta «¿quién representa a Taiwán?»
-- [Lai Ching-te](/people/賴清德) — La otra mitad de esta fórmula: tecnócrata de política interior se encuentra con la gata guerrera diplomática
-- [Zheng Li-wen](/people/鄭麗文) — Lectura comparada: dos de las mujeres políticas con mayor exposición mediática en 2026, caminos completamente distintos
-- [Crisis del Estrecho de Taiwán y desarrollo de las relaciones a ambos lados del estrecho](/history/台海危機與兩岸關係發展) — Los tres años que Hsiao Bi-khim pasó en Washington coincidieron con el periodo clave del giro completo de la política estadounidense hacia China
-- [Transición democrática de Taiwán](/history/台灣民主轉型) — El sistema de la Iglesia Presbiteriana al que pertenecía el padre de Hsiao Bi-khim en el Seminario Teológico de Tainan fue una de las fuentes espirituales más importantes del movimiento de democratización de Taiwán
-- [Cho Jung-tai](/people/卓榮泰) — El primer presidente del Yuan Ejecutivo nombrado por Lai Ching-te, la persona que recibió el sello en la ceremonia de traspaso del 20 de mayo de 2024 con Hsiao Bi-khim como testigo
-- [Hsu Chiao-hsin](/people/徐巧芯) — Otro arquetipo de mujer política dentro de la misma estructura política, con un camino y una visión de Taiwán completamente opuestos a los de Hsiao Bi-khim
+- [Reunión Zheng-Xi 2026: diez años después, los líderes del Kuomintang y el Partido Comunista se reúnen de nuevo](/es/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Mientras Zheng Li-wen hablaba en Pekín, la respuesta discreta de Hsiao Bi-khim en el escenario internacional planteaba otra versión de la pregunta «¿quién representa a Taiwán?»
+- [Lai Ching-te](/es/people/lai-ching-te) — La otra mitad de esta fórmula: tecnócrata de política interior se encuentra con la gata guerrera diplomática
+- [Zheng Li-wen](/es/people/cheng-li-wun) — Lectura comparada: dos de las mujeres políticas con mayor exposición mediática en 2026, caminos completamente distintos
+- [Crisis del Estrecho de Taiwán y desarrollo de las relaciones a ambos lados del estrecho](/es/history/taiwan-strait-crises-and-cross-strait-relations) — Los tres años que Hsiao Bi-khim pasó en Washington coincidieron con el periodo clave del giro completo de la política estadounidense hacia China
+- [Transición democrática de Taiwán](/es/history/taiwan-democratization) — El sistema de la Iglesia Presbiteriana al que pertenecía el padre de Hsiao Bi-khim en el Seminario Teológico de Tainan fue una de las fuentes espirituales más importantes del movimiento de democratización de Taiwán
+- [Cho Jung-tai](/es/people/cho-jung-tai) — El primer presidente del Yuan Ejecutivo nombrado por Lai Ching-te, la persona que recibió el sello en la ceremonia de traspaso del 20 de mayo de 2024 con Hsiao Bi-khim como testigo
+- [Hsu Chiao-hsin](/es/people/hsu-chiao-hsin) — Otro arquetipo de mujer política dentro de la misma estructura política, con un camino y una visión de Taiwán completamente opuestos a los de Hsiao Bi-khim
 
 ## Referencias
 

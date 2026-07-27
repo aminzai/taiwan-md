@@ -83,10 +83,10 @@ En lugar de tratarlos como matones, conviene reaprender a mantener la «distanci
 
 ## Lecturas complementarias
 
-- [Ética de los zoológicos y animales de exhibición](/society/動物園與展演動物倫理) — Debate ético sobre animales en cautividad, complementario al marco de «vecindad» de los macacos silvestres en este artículo
-- [Zoológicos de Taiwán](/society/台灣有哪些動物園) — El zoológico del monte Shou y la coexistencia geográfica con la población de macacos del monte Chaisan
-- [Robert Swinhoe: cuando un diplomático se convierte en naturalista](/people/史溫侯) — El naturalista británico que en 1862 nombró al _Macaca cyclopis_; prehistoria de las referencias [^4][^5] de este artículo
-- [Martinete piquinegro](/nature/黑冠麻鷺) — Otro caso de fauna silvestre que penetra en entornos humanos; mientras que la proximidad de los macacos se debe en gran medida al atractivo de la comida, la expansión urbana del martinete piquinegro se aproxima más a una ampliación del hábitat: las ciudades crean accidentalmente nichos ecológicos similares a los bosques de baja altitud
+- [Ética de los zoológicos y animales de exhibición](/es/society/zoo-and-exhibition-animal-ethics) — Debate ético sobre animales en cautividad, complementario al marco de «vecindad» de los macacos silvestres en este artículo
+- [Zoológicos de Taiwán](/es/society/taiwan-zoos) — El zoológico del monte Shou y la coexistencia geográfica con la población de macacos del monte Chaisan
+- [Robert Swinhoe: cuando un diplomático se convierte en naturalista](/es/people/robert-swinhoe-naturalist) — El naturalista británico que en 1862 nombró al _Macaca cyclopis_; prehistoria de las referencias [^4][^5] de este artículo
+- [Martinete piquinegro](/es/nature/malayan-night-heron) — Otro caso de fauna silvestre que penetra en entornos humanos; mientras que la proximidad de los macacos se debe en gran medida al atractivo de la comida, la expansión urbana del martinete piquinegro se aproxima más a una ampliación del hábitat: las ciudades crean accidentalmente nichos ecológicos similares a los bosques de baja altitud
 
 ## Referencias
 

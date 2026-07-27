@@ -210,18 +210,18 @@ Si contamos desde el cambio de nombre ordenado por Qianlong en 1787, han pasado 
 
 Contexto interno del condado de Chiayi:
 
-- [Alishan: el bosque imperial y la montaña de Gao Yisheng](/history/阿里山：帝國的林場與高一生的山) — El ferrocarril forestal inaugurado en 1912 y Gao Yisheng en el campo de ejecución de Ankeng en 1954: dos historias de esta montaña
-- [Museo Nacional del Palacio](/culture/國立故宮博物院) — El contexto más amplio de la sede sur del Museo Nacional del Palacio como intento de “equilibrar norte y sur”
-- [Chen Cheng-po](/people/陳澄波) — El pintor muerto frente a la estación de tren de Chiayi en 1947, otra cara del Incidente del 28 de Febrero en Chiayi
-- [Hatta Yoichi](/people/八田與一) — La construcción del sistema de riego Chianan entre 1920 y 1930 convirtió este condado en granero de Taiwán
+- [Alishan: el bosque imperial y la montaña de Gao Yisheng](/es/history/alishan-empire-forest-and-uongu-yatauyungana) — El ferrocarril forestal inaugurado en 1912 y Gao Yisheng en el campo de ejecución de Ankeng en 1954: dos historias de esta montaña
+- [Museo Nacional del Palacio](/es/culture/national-palace-museum) — El contexto más amplio de la sede sur del Museo Nacional del Palacio como intento de “equilibrar norte y sur”
+- [Chen Cheng-po](/es/people/chen-cheng-po) — El pintor muerto frente a la estación de tren de Chiayi en 1947, otra cara del Incidente del 28 de Febrero en Chiayi
+- [Hatta Yoichi](/es/people/hatta-yoichi) — La construcción del sistema de riego Chianan entre 1920 y 1930 convirtió este condado en granero de Taiwán
 
 Coordenadas históricas a mayor escala:
 
-- [Incidente del 28 de Febrero](/history/二二八事件) — La tragedia política de 1947 en todo Taiwán; el descenso de los tsou para ayudar a mantener el orden es uno de sus capítulos menos contados
-- [Terror Blanco en Taiwán](/history/台灣白色恐怖) — El lugar de Gao Yisheng y Tang Shouren en el campo de ejecución de Ankeng, Xindian, en 1954
-- [Historia ferroviaria de Taiwán](/history/台灣鐵道史) — La posición singular del Ferrocarril Forestal de Alishan en el desarrollo ferroviario de Taiwán
-- [Ciudad de Chiayi](/geography/嘉義市) — La ciudad provincial completamente rodeada por el condado de Chiayi, espejo de 76 años de separación administrativa con este condado
-- [Ciudad de Keelung](/geography/基隆市) — Primer artículo de la serie de 22 condados y ciudades; otra ciudad-condado “aplastada por el marco de la capital”, para comparar dos fault lines distintas
+- [Incidente del 28 de Febrero](/es/history/228-incident) — La tragedia política de 1947 en todo Taiwán; el descenso de los tsou para ayudar a mantener el orden es uno de sus capítulos menos contados
+- [Terror Blanco en Taiwán](/es/history/taiwan-white-terror) — El lugar de Gao Yisheng y Tang Shouren en el campo de ejecución de Ankeng, Xindian, en 1954
+- [Historia ferroviaria de Taiwán](/es/history/taiwan-railway-history) — La posición singular del Ferrocarril Forestal de Alishan en el desarrollo ferroviario de Taiwán
+- [Ciudad de Chiayi](/es/geography/chiayi-city) — La ciudad provincial completamente rodeada por el condado de Chiayi, espejo de 76 años de separación administrativa con este condado
+- [Ciudad de Keelung](/es/geography/keelung-city) — Primer artículo de la serie de 22 condados y ciudades; otra ciudad-condado “aplastada por el marco de la capital”, para comparar dos fault lines distintas
 
 ## Fuentes de las imágenes
 

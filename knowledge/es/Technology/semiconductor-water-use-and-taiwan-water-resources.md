@@ -179,10 +179,10 @@ Ese es el aspecto más valioso de comprender el consumo de agua de los semicondu
 
 ## Lecturas complementarias
 
-- [Cadena de suministro de hardware de IA](/technology/AI硬體供應鏈) — Cómo Taiwán convierte la demanda de la nube en máquinas entregables.
-- [Electricidad y semiconductores en Taiwán](/technology/台灣的電力與半導體) — La factura eléctrica detrás de la cadena de suministro de IA.
-- [Instalaciones de semiconductores en el extranjero](/technology/AI供應鏈海外設廠) — Por qué otros países también buscan asumir parte de la fabricación y la presión de infraestructura.
-- [Desarrollo de parques científicos](/technology/科技園區發展) — Cómo los clústeres de semiconductores se integran en la tierra y la ciudad de Taiwán.
+- [Cadena de suministro de hardware de IA](/es/technology/ai-hardware-supply-chain) — Cómo Taiwán convierte la demanda de la nube en máquinas entregables.
+- [Electricidad y semiconductores en Taiwán](/es/technology/taiwan-electricity-and-semiconductors) — La factura eléctrica detrás de la cadena de suministro de IA.
+- [Instalaciones de semiconductores en el extranjero](/es/technology/ai-supply-chain-overseas-manufacturing) — Por qué otros países también buscan asumir parte de la fabricación y la presión de infraestructura.
+- [Desarrollo de parques científicos](/es/technology/science-park-development) — Cómo los clústeres de semiconductores se integran en la tierra y la ciudad de Taiwán.
 
 ## Fuentes de imágenes
 

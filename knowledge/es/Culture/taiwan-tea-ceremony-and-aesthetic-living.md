@@ -136,7 +136,7 @@ Las glicinas de la Casa de Té Wistaria florecen cada primavera. Zhou Yu ya ha s
 
 ## Lecturas complementarias
 
-- [Cultura del té en Taiwán](/culture/台灣茶文化) — Guía detallada de variedades y zonas de producción
-- [Fiestas y celebraciones tradicionales](/culture/傳統節慶與慶典) — El papel del té en las festividades
-- [Sensibilidad taiwanesa: la estética taiwanesa vista desde Corea](/culture/台灣感性) — Representante de la vida pausada de Taiwán, la estética de la mesa de té también forma parte de la «대만감성» (sensibilidad taiwanesa) que fascina a los coreanos
-- [Cultura y lengua hakka](/culture/客家文化與語言) — El vínculo entre el Oriental Beauty y las regiones té hakka
+- [Cultura del té en Taiwán](/es/culture/taiwanese-tea-culture-and-living-aesthetics) — Guía detallada de variedades y zonas de producción
+- [Fiestas y celebraciones tradicionales](/es/culture/traditional-festivals-and-celebrations) — El papel del té en las festividades
+- [Sensibilidad taiwanesa: la estética taiwanesa vista desde Corea](/es/culture/taiwanese-sensibility) — Representante de la vida pausada de Taiwán, la estética de la mesa de té también forma parte de la «대만감성» (sensibilidad taiwanesa) que fascina a los coreanos
+- [Cultura y lengua hakka](/es/culture/hakka-culture-and-language) — El vínculo entre el Oriental Beauty y las regiones té hakka

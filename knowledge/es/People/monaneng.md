@@ -189,11 +189,11 @@ En la última sección de aquel poemario de 1989, Ya no vemos la oscuridad, escr
 
 **Lecturas complementarias**:
 
-- [Chen Ying-chen](/people/陳映真) — escribió para el poemario de Monaneng de 1989 el largo prólogo “Un poeta colonial dentro de Taiwán”; figura central del círculo literario de izquierda pro-unificación.
-- [Historia de los pueblos indígenas de Taiwán y movimiento por la rectificación de nombres](/history/台灣原住民族歷史與正名運動) — historia completa del movimiento, desde la Asociación por los Derechos Indígenas de 1984 hasta la acampada nocturna en Ketagalan Boulevard en 2017, incluido el contexto del movimiento Devuélvannos nuestra tierra de 1988.
-- [Prehistoria y pueblos indígenas](/history/史前時代與原住民) — contexto de larga duración de los pueblos indígenas taiwaneses en esta isla.
-- [Incidente del 28 de Febrero](/history/二二八事件) — origen de la formación del discurso sobre unificación e independencia en el Taiwán de posguerra, y trasfondo histórico de la posición de izquierda pro-unificación de Monaneng.
-- [Transición democrática de Taiwán](/history/台灣民主轉型) — contexto del levantamiento de la ley marcial en los años ochenta y momento político en que se sitúa la poesía de Monaneng.
+- [Chen Ying-chen](/es/people/chen-yingzhen) — escribió para el poemario de Monaneng de 1989 el largo prólogo “Un poeta colonial dentro de Taiwán”; figura central del círculo literario de izquierda pro-unificación.
+- [Historia de los pueblos indígenas de Taiwán y movimiento por la rectificación de nombres](/es/history/indigenous-peoples-history-and-naming-movement) — historia completa del movimiento, desde la Asociación por los Derechos Indígenas de 1984 hasta la acampada nocturna en Ketagalan Boulevard en 2017, incluido el contexto del movimiento Devuélvannos nuestra tierra de 1988.
+- [Prehistoria y pueblos indígenas](/es/history/prehistoric-era-and-indigenous-peoples) — contexto de larga duración de los pueblos indígenas taiwaneses en esta isla.
+- [Incidente del 28 de Febrero](/es/history/228-incident) — origen de la formación del discurso sobre unificación e independencia en el Taiwán de posguerra, y trasfondo histórico de la posición de izquierda pro-unificación de Monaneng.
+- [Transición democrática de Taiwán](/es/history/taiwan-democratization) — contexto del levantamiento de la ley marcial en los años ochenta y momento político en que se sitúa la poesía de Monaneng.
 
 ## Fuentes de las imágenes
 

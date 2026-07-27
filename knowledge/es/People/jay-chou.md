@@ -293,10 +293,10 @@ Desde aquel tímido pianista acompañante de 1997 hasta el rey del pop en chino 
 
 **Lecturas complementarias:**
 
-- [Chou Tzu-yu](/people/周子瑜) — El segundo nombre de artista taiwanés con más seguidores en Instagram, solo por detrás de Jay Chou
-- [Música popular taiwanesa](/music/台灣流行音樂) — Todo el ecosistema industrial y los cambios generacionales a los que pertenece Jay Chou
-- [Stefanie Sun](/people/孫燕姿/) — Nominada en la misma edición de los Golden Melody Awards (12.ª) al Mejor Artista Revelación, derrotada por un voto, definiendo dos caminos musicales paralelos en la década de 2000
-- [Jenna Chien](/people/賈永婕) — Otra trayectoria taiwanesa que transformó la identidad artística en influencia transversal (variedad → marca de novias → movilización pública → gobernanza corporativa), en contraste con la trayectoria de Jay Chou en la industria cultural
+- [Chou Tzu-yu](/es/people/tzuyu) — El segundo nombre de artista taiwanés con más seguidores en Instagram, solo por detrás de Jay Chou
+- [Música popular taiwanesa](/es/music/golden-melodies-legacy-taiwan-pop-music) — Todo el ecosistema industrial y los cambios generacionales a los que pertenece Jay Chou
+- [Stefanie Sun](/es/people/stefanie-sun/) — Nominada en la misma edición de los Golden Melody Awards (12.ª) al Mejor Artista Revelación, derrotada por un voto, definiendo dos caminos musicales paralelos en la década de 2000
+- [Jenna Chien](/es/people/chia-yung-chieh) — Otra trayectoria taiwanesa que transformó la identidad artística en influencia transversal (variedad → marca de novias → movilización pública → gobernanza corporativa), en contraste con la trayectoria de Jay Chou en la industria cultural
 
 ## Referencias
 

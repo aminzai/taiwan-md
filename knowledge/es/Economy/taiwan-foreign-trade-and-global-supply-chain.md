@@ -282,7 +282,7 @@ La reorganización de las cadenas de suministro no solo trae riesgos: las ventaj
 
 ## Lecturas complementarias
 
-- [Pequeñas y medianas empresas de Taiwán y campeones ocultos](/economy/台灣中小企業與隱形冠軍)
-- [Agricultura taiwanesa y regeneración rural](/economy/台灣農業與農村再生)
-- [Ecosistema de startups](/economy/新創生態系)
-- [Empresas taiwanesas: Hon Hai Precision](/economy/台灣企業：鴻海精密) — Su despliegue global en 24 países y con 900.000 personas es el mayor campo de experimentación de la gobernanza transfronteriza de la manufactura taiwanesa
+- [Pequeñas y medianas empresas de Taiwán y campeones ocultos](/es/economy/taiwan-smes-and-hidden-champions)
+- [Agricultura taiwanesa y regeneración rural](/es/economy/taiwan-agriculture-and-rural-revitalization)
+- [Ecosistema de startups](/es/economy/taiwan-startup-ecosystem-overview)
+- [Empresas taiwanesas: Hon Hai Precision](/es/economy/foxconn-precision-industry) — Su despliegue global en 24 países y con 900.000 personas es el mayor campo de experimentación de la gobernanza transfronteriza de la manufactura taiwanesa

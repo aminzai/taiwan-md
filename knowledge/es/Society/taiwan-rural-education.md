@@ -96,11 +96,11 @@ Si Taiwán sigue presentando la educación en zonas rurales como «enviar pasió
 
 **Lectura adicional**:
 
-- [為台灣而教TFT](/society/為台灣而教TFT) — Si quieres acercarte más al nacimiento, las controversias y la influencia de diez años de esta organización, este artículo complementará el contexto de las personas y la organización.
-- [教育制度與升學文化](/society/教育制度與升學文化) — La educación en zonas rurales no es un problema aislado; está estrechamente vinculada a cómo Taiwán en su conjunto define las calificaciones, la admisión y el éxito.
-- [台灣少子化危機](/society/台灣少子化危機) — Muchas escuelas pequeñas en zonas rurales no solo soportan la presión de las políticas educativas, sino también los cambios a largo plazo derivados de la pérdida de población local y el declive comunitario.
-- [台灣原住民語言復振運動](/culture/台灣原住民語言復振運動) — El núcleo de la educación indígena no está solo en las competencias académicas, sino también en si el idioma, la cultura y el mundo de la vida pueden ser realmente acogidos por la escuela.
-- [雜學校](/society/雜學校) — Un grupo de control de la educación alternativa fuera del sistema: no en zonas rurales, sino exhibiendo en un parque cultural y creativo, pero al igual que la educación en zonas rurales, aborda «las posibilidades de aprendizaje fuera de la narrativa dominante».
+- [為台灣而教TFT](/es/society/teach-for-taiwan) — Si quieres acercarte más al nacimiento, las controversias y la influencia de diez años de esta organización, este artículo complementará el contexto de las personas y la organización.
+- [教育制度與升學文化](/es/society/education-system-and-admissions-culture) — La educación en zonas rurales no es un problema aislado; está estrechamente vinculada a cómo Taiwán en su conjunto define las calificaciones, la admisión y el éxito.
+- [台灣少子化危機](/es/society/taiwan-low-birth-rate-crisis) — Muchas escuelas pequeñas en zonas rurales no solo soportan la presión de las políticas educativas, sino también los cambios a largo plazo derivados de la pérdida de población local y el declive comunitario.
+- [台灣原住民語言復振運動](/es/culture/indigenous-language-revitalization-movement) — El núcleo de la educación indígena no está solo en las competencias académicas, sino también en si el idioma, la cultura y el mundo de la vida pueden ser realmente acogidos por la escuela.
+- [雜學校](/es/society/za-share) — Un grupo de control de la educación alternativa fuera del sistema: no en zonas rurales, sino exhibiendo en un parque cultural y creativo, pero al igual que la educación en zonas rurales, aborda «las posibilidades de aprendizaje fuera de la narrativa dominante».
 
 ## Referencias
 

@@ -137,5 +137,5 @@ Ese espíritu sigue sin haber caducado.
 
 ## Temas relacionados
 
-- [Wu Che-yu](/people/吳哲宇): otro camino creativo taiwanés que va del código al arte
-- [Audrey Tang](/people/唐鳳): cómo el pensamiento tecnológico puede entrar en la esfera pública
+- [Wu Che-yu](/es/people/che-yu-wu): otro camino creativo taiwanés que va del código al arte
+- [Audrey Tang](/es/people/audrey-tang): cómo el pensamiento tecnológico puede entrar en la esfera pública

@@ -98,13 +98,13 @@ Mirando hacia atrás treinta años, la cultura de los memes de Taiwán refleja l
 
 ## Lecturas adicionales
 
-- [PTT Pili Pili](/technology/PTT批踢踢) — El lugar de origen de la mayoría de los memes y la cultura de los internautas de Taiwán
+- [PTT Pili Pili](/es/technology/ptt-bulletin-board-system) — El lugar de origen de la mayoría de los memes y la cultura de los internautas de Taiwán
 
-- [Memes de Ma Ying-jeou](/society/馬英九迷因) — Estudio de caso clásico de la politización de las figuras políticas en memes
+- [Memes de Ma Ying-jeou](/es/society/ma-ying-jeou-meme) — Estudio de caso clásico de la politización de las figuras políticas en memes
 
-- [Imágenes de ancianos](/culture/長輩圖) — Otra ruta de difusión de internet con características taiwanesas
+- [Imágenes de ancianos](/es/culture/elder-greeting-images) — Otra ruta de difusión de internet con características taiwanesas
 
-- [VTubers de Taiwán](/culture/台灣VTuber) — La fusión contemporánea entre personajes virtuales y cultura de memes
+- [VTubers de Taiwán](/es/culture/taiwan-vtuber) — La fusión contemporánea entre personajes virtuales y cultura de memes
 
 ---
 

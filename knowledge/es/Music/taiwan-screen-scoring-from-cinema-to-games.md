@@ -170,11 +170,11 @@ _Lim Giong. De rey del rock en taiwanés con \_Marching Forward_ a compositor qu
 
 **Lecturas complementarias**:
 
-- [Lim Giong](/people/林強) — De la Nueva Canción Taiwanesa a la música cinematográfica: la trayectoria musical completa de Lim Giong
-- [Hou Hsiao-hsien](/people/侯孝賢) — El director que llevó a Lim Giong a girar hacia la música para cine, figura representativa del Nuevo Cine Taiwanés
-- [Cine taiwanés](/art/台灣電影) — Del Nuevo Cine al resurgimiento del cine nacional, el escenario donde se desarrolló la música audiovisual
-- [Red Candle Games](/technology/赤燭遊戲) — El equipo detrás de _Detention_ y _Devotion_; cómo la música para videojuegos teje sonido para una época
-- [Industria de videojuegos y entretenimiento digital de Taiwán](/technology/台灣遊戲產業與數位娛樂) — El contexto industrial del ascenso de Rayark, SIGONO y la música taiwanesa para videojuegos
+- [Lim Giong](/es/people/lim-giong) — De la Nueva Canción Taiwanesa a la música cinematográfica: la trayectoria musical completa de Lim Giong
+- [Hou Hsiao-hsien](/es/people/hou-hsiao-hsien) — El director que llevó a Lim Giong a girar hacia la música para cine, figura representativa del Nuevo Cine Taiwanés
+- [Cine taiwanés](/es/art/taiwanese-cinema) — Del Nuevo Cine al resurgimiento del cine nacional, el escenario donde se desarrolló la música audiovisual
+- [Red Candle Games](/es/technology/red-candle-games) — El equipo detrás de _Detention_ y _Devotion_; cómo la música para videojuegos teje sonido para una época
+- [Industria de videojuegos y entretenimiento digital de Taiwán](/es/technology/taiwan-gaming-industry) — El contexto industrial del ascenso de Rayark, SIGONO y la música taiwanesa para videojuegos
 
 ## Fuentes de imágenes
 

@@ -145,10 +145,10 @@ Por eso, al mirar hacia atrás a Dwagie, la mejor puerta de entrada sigue siendo
 
 **Lecturas complementarias**:
 
-- [Desarrollo del hip hop y el rap en Taiwán](/music/台灣嘻哈與饒舌發展) — el recorrido del rap taiwanés desde Song Yueh-ting, MC HotDog y Dwagie hasta Leo Wang, Kumachan y la nueva generación.
-- [Música independiente taiwanesa](/music/台灣獨立音樂) — cómo han sostenido los sellos independientes, las escenas locales y la música no mayoritaria otra vía para la música de Taiwán.
-- [Golden Melody Awards](/music/金曲獎) — los cambios de los géneros musicales y de la política lingüística de Taiwán vistos desde los premios de música popular.
-- [Incidente del 28 de febrero](/history/二二八事件) — una de las memorias históricas y políticas taiwanesas que la obra de Dwagie toca con frecuencia.
+- [Desarrollo del hip hop y el rap en Taiwán](/es/music/taiwan-hip-hop-and-rap) — el recorrido del rap taiwanés desde Song Yueh-ting, MC HotDog y Dwagie hasta Leo Wang, Kumachan y la nueva generación.
+- [Música independiente taiwanesa](/es/music/indie-music-scene) — cómo han sostenido los sellos independientes, las escenas locales y la música no mayoritaria otra vía para la música de Taiwán.
+- [Golden Melody Awards](/es/music/pop-music-and-golden-melody-awards) — los cambios de los géneros musicales y de la política lingüística de Taiwán vistos desde los premios de música popular.
+- [Incidente del 28 de febrero](/es/history/228-incident) — una de las memorias históricas y políticas taiwanesas que la obra de Dwagie toca con frecuencia.
 
 ## Fuentes de imágenes
 

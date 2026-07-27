@@ -275,10 +275,10 @@ Quizá quienes pulsaron el botón de votación el día de la tercera lectura en 
 
 **Lecturas complementarias**:
 
-- [Vivienda social y justicia habitacional](/society/社會住宅與居住正義) — La ruta de la vivienda social “solo en arriendo, no en venta” después de 2016: 200.000 unidades en ocho años, las dos vías de construcción directa y arrendamiento con administración delegada, y cómo el diseño de convivencia mixta evita estigmatizar la vivienda social (artículo hermano de este texto, continúa la historia tras el retiro de la vivienda pública nacional en 2015)
-- [Crisis de baja natalidad en Taiwán](/society/台灣少子化危機) — No poder comprar vivienda y no poder tener hijos son dos extremos de la misma fractura estructural; otra dimensión de la justicia intergeneracional
-- [Casas de chapa](/society/鐵皮屋) — Cuando no se puede comprar ni arrendar con estabilidad, cómo los taiwaneses se construyen un refugio con los medios más precarios
-- [Justicia ambiental y conflictos NIMBY en Taiwán](/society/台灣環境正義與鄰避爭議) — Junto a quién se construyen viviendas sociales o instalaciones indeseadas: el cruce entre justicia habitacional y justicia espacial
+- [Vivienda social y justicia habitacional](/es/society/social-housing-and-housing-justice) — La ruta de la vivienda social “solo en arriendo, no en venta” después de 2016: 200.000 unidades en ocho años, las dos vías de construcción directa y arrendamiento con administración delegada, y cómo el diseño de convivencia mixta evita estigmatizar la vivienda social (artículo hermano de este texto, continúa la historia tras el retiro de la vivienda pública nacional en 2015)
+- [Crisis de baja natalidad en Taiwán](/es/society/taiwan-low-birth-rate-crisis) — No poder comprar vivienda y no poder tener hijos son dos extremos de la misma fractura estructural; otra dimensión de la justicia intergeneracional
+- [Casas de chapa](/es/society/taiwan-tin-shed-houses) — Cuando no se puede comprar ni arrendar con estabilidad, cómo los taiwaneses se construyen un refugio con los medios más precarios
+- [Justicia ambiental y conflictos NIMBY en Taiwán](/es/society/taiwan-environmental-justice-nimby-conflicts) — Junto a quién se construyen viviendas sociales o instalaciones indeseadas: el cruce entre justicia habitacional y justicia espacial
 
 ## Datos abiertos
 

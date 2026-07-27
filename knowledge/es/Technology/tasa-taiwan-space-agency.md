@@ -260,10 +260,10 @@ Zeppelín vio a Taiwán desde un helicóptero, no lo terminó a tiempo en el añ
 
 ## Lecturas adicionales
 
-- [Desarrollo de la Industria Espacial de Taiwán](/technology/台灣太空產業發展) — Este artículo escribe cómo creció la institución en sí; el otro escribe la cadena de suministro detrás de ella: qué fabricantes hicieron las piezas de los satélites, cómo se integró la industria de semiconductores al espacio, cómo se formó el ecosistema de startups.
-- [Industria de Semiconductores](/technology/半導體產業) — La base industrial de la «autonomía» espacial de Taiwán se construye en gran medida sobre la capacidad existente de semiconductores y fabricación de precisión de esta isla.
-- [Taipéi Chino](/society/中華台北) — La línea de soberanía de «poner Taiwan de vuelta en el nombre», en el otro lado del estadio deportivo.
-- [Lin Chi-erh](/people/林琪兒) — Perfil de otra persona que trabaja por Taiwán en el campo de la ciencia.
+- [Desarrollo de la Industria Espacial de Taiwán](/es/technology/taiwan-space-industry-development) — Este artículo escribe cómo creció la institución en sí; el otro escribe la cadena de suministro detrás de ella: qué fabricantes hicieron las piezas de los satélites, cómo se integró la industria de semiconductores al espacio, cómo se formó el ecosistema de startups.
+- [Industria de Semiconductores](/es/technology/taiwan-semiconductor-industry) — La base industrial de la «autonomía» espacial de Taiwán se construye en gran medida sobre la capacidad existente de semiconductores y fabricación de precisión de esta isla.
+- [Taipéi Chino](/es/society/chinese-taipei) — La línea de soberanía de «poner Taiwan de vuelta en el nombre», en el otro lado del estadio deportivo.
+- [Lin Chi-erh](/es/people/lin-chi-er-astronaut) — Perfil de otra persona que trabaja por Taiwán en el campo de la ciencia.
 
 ## Fuentes de video
 

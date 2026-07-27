@@ -70,7 +70,7 @@ La segunda fueron los ETF. En junio de 2003, Yuanta Securities Investment Trust 
 
 La tercera fue mayor que las dos anteriores juntas: TSMC.
 
-No se puede hablar de la bolsa taiwanesa de 2026 sin hablar de [TSMC, empresa taiwanesa](/es/Economy/tsmc-taiwan-semiconductor/). La bolsa taiwanesa se parece al sistema solar, y TSMC es su sol. **Al 10 de marzo de 2026, el peso de TSMC en el índice ponderado alcanzaba el 45,0041%**[^TWSE權重]. Cuando la acción rondaba los 2.265 dólares taiwaneses, cada variación de un dólar en ese título movía el índice general alrededor de 8 puntos[^TWSE權重].
+No se puede hablar de la bolsa taiwanesa de 2026 sin hablar de [TSMC, empresa taiwanesa](/es/economy/tsmc-taiwan-semiconductor/). La bolsa taiwanesa se parece al sistema solar, y TSMC es su sol. **Al 10 de marzo de 2026, el peso de TSMC en el índice ponderado alcanzaba el 45,0041%**[^TWSE權重]. Cuando la acción rondaba los 2.265 dólares taiwaneses, cada variación de un dólar en ese título movía el índice general alrededor de 8 puntos[^TWSE權重].
 
 Describir esa proporción como la de “un componente importante” sería gravemente impreciso. Ya es el mercado mismo.
 
@@ -177,13 +177,13 @@ La cima sobre la que se sostienen conjuntamente 13,93 millones de cuentas tiene 
 
 **Lecturas complementarias**
 
-- [TSMC, empresa taiwanesa](/economy/台灣企業：台積電) — El sol que concentra el 45% del peso de la bolsa taiwanesa y la historia detrás de la expresión “montaña sagrada protectora de la nación”
-- [Industria de semiconductores](/technology/半導體產業) — Todo el ecosistema de cadena de suministro que sostiene la identidad de la bolsa taiwanesa como sexta del mundo
-- [Hon Hai Precision, empresa taiwanesa](/economy/台灣企業：鴻海精密) — Otro peso pesado en la lista de 25 compras de Goldman, del gigante de la manufactura por contrato al actor en transformación hacia servidores de IA
-- [Transformación y modernización industrial de Taiwán](/economy/台灣產業轉型升級) — La trayectoria desde la manufactura por contrato de los años ochenta hasta el dividendo de la IA en 2026
+- [TSMC, empresa taiwanesa](/es/economy/tsmc) — El sol que concentra el 45% del peso de la bolsa taiwanesa y la historia detrás de la expresión “montaña sagrada protectora de la nación”
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — Todo el ecosistema de cadena de suministro que sostiene la identidad de la bolsa taiwanesa como sexta del mundo
+- [Hon Hai Precision, empresa taiwanesa](/es/economy/foxconn-precision-industry) — Otro peso pesado en la lista de 25 compras de Goldman, del gigante de la manufactura por contrato al actor en transformación hacia servidores de IA
+- [Transformación y modernización industrial de Taiwán](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — La trayectoria desde la manufactura por contrato de los años ochenta hasta el dividendo de la IA en 2026
 - [Milagro económico de Taiwán](/es/economy/economic-miracle) — El dinero de aquella época en que “en Taiwán el dinero inundaba hasta los tobillos” terminó fluyendo hacia la bolsa de 1990 y Hung Yuan
-- [Desarrollo fintech de Taiwán](/economy/台灣金融科技發展) — De las órdenes telefónicas en casas de bolsa a los aportes periódicos por celular: la infraestructura financiera detrás de una cuenta
-- [Apple Sidra](/food/蘋果西打) — La cadena de transferencias accionarias de Oceanic Beverages, empresa cotizada desde 1965 (código bursátil 1213), es un caso en miniatura de dos hitos de la historia del capital: el caso de la Décima Cooperativa de Crédito de 1985 y el caso Hung Yuan de 1990
+- [Desarrollo fintech de Taiwán](/es/economy/taiwan-fintech-development) — De las órdenes telefónicas en casas de bolsa a los aportes periódicos por celular: la infraestructura financiera detrás de una cuenta
+- [Apple Sidra](/es/food/apple-cider) — La cadena de transferencias accionarias de Oceanic Beverages, empresa cotizada desde 1965 (código bursátil 1213), es un caso en miniatura de dos hitos de la historia del capital: el caso de la Décima Cooperativa de Crédito de 1985 y el caso Hung Yuan de 1990
 
 ## Referencias
 

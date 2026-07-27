@@ -129,10 +129,10 @@ Desde el mapa de pergamino de Lopo Homem en 1554 hasta el Google Maps de tu tel�
 
 **Lecturas complementarias**:
 
-- [Cinco grandes formas de relieve y estructura geográfica de Taiwán](/geography/台灣五大地形與地理結構) — Origen geológico y distribución detallada de las cinco grandes formas de relieve
-- [Movimiento de placas y actividad sísmica en Taiwán](/geography/台灣板塊運動與地震活動) — Por qué Taiwán tiene tantas montañas: la colisión de la placa del Mar de Filipinas con la placa euroasiática
-- [Periodo holandés, español y de Zheng Chenggong](/history/荷西明鄭時期) — 1624-1683, la época en que los europeos dibujaron los primeros mapas detallados de Taiwán
-- [Islas periféricas y cultura marítima](/geography/離島與海洋文化) — Kinmen, Matsu, Penghu: las «Taiwán» más alejadas de la isla principal y más cercanas de China
+- [Cinco grandes formas de relieve y estructura geográfica de Taiwán](/es/geography/taiwan-five-major-landforms-and-geographic-structure) — Origen geológico y distribución detallada de las cinco grandes formas de relieve
+- [Movimiento de placas y actividad sísmica en Taiwán](/es/geography/tectonic-plates-and-seismic-activity) — Por qué Taiwán tiene tantas montañas: la colisión de la placa del Mar de Filipinas con la placa euroasiática
+- [Periodo holandés, español y de Zheng Chenggong](/es/history/dutch-spanish-and-koxinga-era) — 1624-1683, la época en que los europeos dibujaron los primeros mapas detallados de Taiwán
+- [Islas periféricas y cultura marítima](/es/geography/offshore-islands-and-maritime-culture) — Kinmen, Matsu, Penghu: las «Taiwán» más alejadas de la isla principal y más cercanas de China
 
 ## Referencias
 

@@ -143,12 +143,12 @@ Después de escribir durante treinta años las mejores canciones para otros, al 
 
 **Lecturas complementarias**:
 
-- [Lo Ta-yu](/people/羅大佑) — Otro padrino de la música en mandarín; el “observa el mundo” que conviene leer junto al “se asoma al corazón” de Jonathan Lee
-- [Sylvia Chang](/people/張艾嘉) — 《Ocupada y ciega》, el primer proyecto de producción de Lee al entrar en Rock Records, punto de partida de la línea de “mujeres urbanas”
-- [A-mei](/people/張惠妹) — Voz de diva de la misma edad dorada de Rock Records, otra ruta de la voz femenina popular de Taiwán
-- [Movimiento de la canción folk de Taiwán](/music/台灣民歌運動) — El tren al que Lee se subió en los años setenta: el grupo Mu Chi Ta y el suelo de los Premios Chin Yun
-- [La evolución del mandarín taiwanés](/culture/台灣華語的演化) — La razón por la que el “lenguaje llano convertido en canción” conmueve está ligada a cómo el mandarín taiwanés se volvió habla cotidiana
-- [Huang Ta-wei](/people/黃大煒) — Cantautor y músico integral de la misma generación, que con una voz ronca creó un estilo propio; junto a Jonathan Lee, dos maneras distintas de abrir camino a la balada en mandarín
+- [Lo Ta-yu](/es/people/luo-dayou) — Otro padrino de la música en mandarín; el “observa el mundo” que conviene leer junto al “se asoma al corazón” de Jonathan Lee
+- [Sylvia Chang](/es/people/sylvia-chang) — 《Ocupada y ciega》, el primer proyecto de producción de Lee al entrar en Rock Records, punto de partida de la línea de “mujeres urbanas”
+- [A-mei](/es/people/a-mei) — Voz de diva de la misma edad dorada de Rock Records, otra ruta de la voz femenina popular de Taiwán
+- [Movimiento de la canción folk de Taiwán](/es/music/taiwan-campus-folk-song-movement) — El tren al que Lee se subió en los años setenta: el grupo Mu Chi Ta y el suelo de los Premios Chin Yun
+- [La evolución del mandarín taiwanés](/es/culture/taiwan-mandarin-evolution) — La razón por la que el “lenguaje llano convertido en canción” conmueve está ligada a cómo el mandarín taiwanés se volvió habla cotidiana
+- [Huang Ta-wei](/es/people/david-wong) — Cantautor y músico integral de la misma generación, que con una voz ronca creó un estilo propio; junto a Jonathan Lee, dos maneras distintas de abrir camino a la balada en mandarín
 
 ## Fuentes de imagen
 

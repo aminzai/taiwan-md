@@ -141,9 +141,9 @@ Siete años son tan cortos, pero las esporas se dispersaron durante treinta año
 
 **Lectura complementaria**:
 
-- [Arte contemporáneo de Taiwán](/art/當代藝術) — El contexto general del desarrollo del arte contemporáneo de Taiwán después del fin de la ley marcial; El Nuevo Entorno es el nodo representativo del sur de Taiwán en este período.
-- [Curadores de Taiwán y la Construcción de la Cultura Artística](/art/台灣策展人與藝術文化建構) — El proceso de localización del concepto de curaduría en Taiwán en la década de 1990; Zheng Mingquan de El Nuevo Entorno es un ejemplo.
-- [Arte de Nuevos Medios de Taiwán](/art/台灣新媒體藝術) — Huang Wenhao extendió desde IT Park el «Experimento Local» (ETAT) en el mismo período, siendo un caso paralelo en 1995.
+- [Arte contemporáneo de Taiwán](/es/art/contemporary-art) — El contexto general del desarrollo del arte contemporáneo de Taiwán después del fin de la ley marcial; El Nuevo Entorno es el nodo representativo del sur de Taiwán en este período.
+- [Curadores de Taiwán y la Construcción de la Cultura Artística](/es/art/taiwanese-curators-and-artistic-cultural-construction) — El proceso de localización del concepto de curaduría en Taiwán en la década de 1990; Zheng Mingquan de El Nuevo Entorno es un ejemplo.
+- [Arte de Nuevos Medios de Taiwán](/es/art/taiwan-new-media-art) — Huang Wenhao extendió desde IT Park el «Experimento Local» (ETAT) en el mismo período, siendo un caso paralelo en 1995.
 
 ## Fuentes de imágenes
 

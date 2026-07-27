@@ -185,11 +185,11 @@ Como dijo el poeta Yu Guangzhong: "Lo más hermoso de Taiwán es la calidez huma
 
 ## Lecturas complementarias
 
-- [Literatura del período de dominio japonés](/art/日治時期文學) — La era japonesa de 1895-1945: Lai He, Yang Kui, Lü Heruo, Zhang Wenhuan
-- [Literatura taiwanesa de posguerra](/art/戰後台灣文學) — 1945-1987: 42 años desde la afasia, el modernismo, el debate nativo hasta el despertar femenino
-- [Literatura taiwanesa tras el fin de la ley marcial](/art/解嚴後台灣文學) — 1987-2000: La generación intermedia de explosión plural en política, género y lenguas locales
-- [Literatura taiwanesa contemporánea](/art/當代台灣文學) — Siglo XXI: internacionalización, Lin Yihan, literatura digital
-- [Lin Liang](/people/林良) — Fundador de la literatura infantil taiwanesa de posguerra, 1948-2019: definió con el "arte del lenguaje sencillo" que "escribir para niños" es un trabajo serio
+- [Literatura del período de dominio japonés](/es/art/taiwanese-literature-during-japanese-rule) — La era japonesa de 1895-1945: Lai He, Yang Kui, Lü Heruo, Zhang Wenhuan
+- [Literatura taiwanesa de posguerra](/es/art/postwar-taiwanese-literature) — 1945-1987: 42 años desde la afasia, el modernismo, el debate nativo hasta el despertar femenino
+- [Literatura taiwanesa tras el fin de la ley marcial](/es/art/post-martial-law-taiwanese-literature) — 1987-2000: La generación intermedia de explosión plural en política, género y lenguas locales
+- [Literatura taiwanesa contemporánea](/es/art/contemporary-taiwanese-literature) — Siglo XXI: internacionalización, Lin Yihan, literatura digital
+- [Lin Liang](/es/people/lin-liang-childrens-literature) — Fundador de la literatura infantil taiwanesa de posguerra, 1948-2019: definió con el "arte del lenguaje sencillo" que "escribir para niños" es un trabajo serio
 
 ---
 

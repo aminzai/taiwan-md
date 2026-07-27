@@ -209,16 +209,16 @@ La próxima vez que camines por Dihua Street, levanta la vista hacia los relieve
 
 **Lecturas complementarias**:
 
-- [Taipéi: tres tiempos en una ciudad, el templo Longshan de 1738 mirando al 101 de 2004](/geography/台北市) — Panorama de los 12 distritos de Taipéi, la posición de Dadaocheng dentro de las tres ciudades-barrio
-- [Cultura de las calles antiguas y distritos comerciales de Taiwán](/culture/台灣老街文化與商業街區) — Catálogo principal de calles antiguas, comparación entre Dihua Street, Lukang, Bangka y Sanxia
-- [Cultura del té de Taiwán](/culture/台灣茶文化) — El Formosa Tea y el contexto completo de la industria del té en el norte de Taiwán
-- [Incidente del 228](/history/二二八事件) — El incidente encendido por aquel paquete de cigarrillos en 1947, la represión posterior y la justicia transicional
-- [Movimientos sociales en Taiwán durante el período japonés](/history/日治時期臺灣社會運動) — Jiang Weishui y la Asociación Cultural en el solar 199 de Ping Ancho
-- [Baladas y canciones populares de Taiwán](/music/台灣民謠與歌謠) — «Wang Chunfeng» de 1932 y Columbia Records en Ping Ancho
-- [Bangka](/geography/艋舺) — Los Tong'an derrotados en la lucha Ding Xia Jiao de 1853 huyeron desde Bajiazhuang en Bangka hasta Dadaocheng: las dos calles son el resultado de la misma pelea callejera
-- [Ximending](/geography/西門町) — Barrio histórico hermano del mismo lote 1: zona de entretenimiento japonés de 1896 vs. calle comercial Qing de Dadaocheng, dos momentos de «formación de calle» en contraste
-- [Dalongdong](/geography/大龍峒) — Los Tong'an derrotados en la lucha Ding Xia Jiao de 1853 se retiraron primero a Donglongdong con el templo Bao'an como centro de defensa, y luego se trasladaron a Dadaocheng: la estación intermedia omitida en la narrativa habitual de Dadaocheng
-- [Shilin](/geography/士林) — La lucha entre Zhangzhou y Quanzhou de 1859 y la lucha Ding Xia Jiao de Bangka de 1853 fueron dos peleas callejeras distintas; Shilin es otro resultado de la dispersión, reconstruido tras la quema de la calle de los Zhangzhou por parte de los Quanzhou
+- [Taipéi: tres tiempos en una ciudad, el templo Longshan de 1738 mirando al 101 de 2004](/es/geography/taipei-city) — Panorama de los 12 distritos de Taipéi, la posición de Dadaocheng dentro de las tres ciudades-barrio
+- [Cultura de las calles antiguas y distritos comerciales de Taiwán](/es/culture/taiwan-historic-streets-and-commercial-districts) — Catálogo principal de calles antiguas, comparación entre Dihua Street, Lukang, Bangka y Sanxia
+- [Cultura del té de Taiwán](/es/culture/taiwanese-tea-culture-and-living-aesthetics) — El Formosa Tea y el contexto completo de la industria del té en el norte de Taiwán
+- [Incidente del 228](/es/history/228-incident) — El incidente encendido por aquel paquete de cigarrillos en 1947, la represión posterior y la justicia transicional
+- [Movimientos sociales en Taiwán durante el período japonés](/es/history/social-movements-during-japanese-rule) — Jiang Weishui y la Asociación Cultural en el solar 199 de Ping Ancho
+- [Baladas y canciones populares de Taiwán](/es/music/Taiwan Folk Music and Songs) — «Wang Chunfeng» de 1932 y Columbia Records en Ping Ancho
+- [Bangka](/es/geography/bangka) — Los Tong'an derrotados en la lucha Ding Xia Jiao de 1853 huyeron desde Bajiazhuang en Bangka hasta Dadaocheng: las dos calles son el resultado de la misma pelea callejera
+- [Ximending](/es/geography/ximending) — Barrio histórico hermano del mismo lote 1: zona de entretenimiento japonés de 1896 vs. calle comercial Qing de Dadaocheng, dos momentos de «formación de calle» en contraste
+- [Dalongdong](/es/geography/dalongdong) — Los Tong'an derrotados en la lucha Ding Xia Jiao de 1853 se retiraron primero a Donglongdong con el templo Bao'an como centro de defensa, y luego se trasladaron a Dadaocheng: la estación intermedia omitida en la narrativa habitual de Dadaocheng
+- [Shilin](/es/geography/shilin) — La lucha entre Zhangzhou y Quanzhou de 1859 y la lucha Ding Xia Jiao de Bangka de 1853 fueron dos peleas callejeras distintas; Shilin es otro resultado de la dispersión, reconstruido tras la quema de la calle de los Zhangzhou por parte de los Quanzhou
 
 ## Créditos de imágenes
 

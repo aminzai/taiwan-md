@@ -62,9 +62,9 @@ La próxima vez que muerdas esa punta crujiente y dorada, recuerda que no estás
 
 ## Lecturas complementarias
 
-- **[Snacks taiwanés](/food/台灣小吃)** — El lugar del Cuerno de Oro como souvenir local dentro del panorama de los snacks taiwaneses
+- **[Snacks taiwanés](/es/food/taiwanese-street-food)** — El lugar del Cuerno de Oro como souvenir local dentro del panorama de los snacks taiwaneses
 - **[Calle antigua de Sanxia](/geography/三峽老街)** — El paisaje cultural donde surgió el Cuerno de Oro (entrada futura si aún no existe)
-- **[Cultura pastelera taiwanesa](/food/台灣糕餅文化)** — Cómo el legado de la repostería china se incorporó a los nuevos bocadillos
+- **[Cultura pastelera taiwanesa](/es/food/taiwan-pastry-culture)** — Cómo el legado de la repostería china se incorporó a los nuevos bocadillos
 - **[Economía del souvenir gastronómico taiwanés](/economy/台灣伴手禮經濟)** — Caso de estudio local: turismo en calles antiguas × disputas familiares por marcas registradas
 
 ## Referencias

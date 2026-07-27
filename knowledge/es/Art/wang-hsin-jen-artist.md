@@ -147,11 +147,11 @@ La venta agotada de aquella medianoche del 22 de agosto de 2021, vista desde el 
 
 ## Lecturas complementarias
 
-- **[FAB DAO y el Proyecto Baoyue](/art/FAB%20DAO與百岳計畫)** — el proyecto solidario de NFT de seis artistas en el que participó Wang Hsin-jen, para comprender el contexto ecológico completo de Baoyue
-- **[Wu Cheyu](/people/吳哲宇)** — artista del grupo internacional del Proyecto Baoyue y cofundador de FAB DAO, desde Art Blocks Project Electriz hasta la Bienal de Venecia
-- **[Arte de nuevos medios en Taiwán](/art/台灣新媒體藝術)** — la genealogía completa de cuarenta años de arte de nuevos medios en Taiwán, desde Huang Xinjiang y Yuan Guangming hasta Wang Hsin-jen
-- **[Arte contemporáneo taiwanés](/art/當代藝術)** — la posición y coordenadas del arte generativo dentro de la historia del arte contemporáneo taiwanés
-- **[Wang Liansheng (Shrimp Dad)](/art/王連晟)** — artista de instalaciones sonoras del mismo grupo del Proyecto Baoyue, ganador del premio 3D/Sculpture Award del Lumen Prize 2017 (obra «Reading Plan»)
+- **[FAB DAO y el Proyecto Baoyue](/es/art/fab-dao)** — el proyecto solidario de NFT de seis artistas en el que participó Wang Hsin-jen, para comprender el contexto ecológico completo de Baoyue
+- **[Wu Cheyu](/es/people/che-yu-wu)** — artista del grupo internacional del Proyecto Baoyue y cofundador de FAB DAO, desde Art Blocks Project Electriz hasta la Bienal de Venecia
+- **[Arte de nuevos medios en Taiwán](/es/art/taiwan-new-media-art)** — la genealogía completa de cuarenta años de arte de nuevos medios en Taiwán, desde Huang Xinjiang y Yuan Guangming hasta Wang Hsin-jen
+- **[Arte contemporáneo taiwanés](/es/art/contemporary-art)** — la posición y coordenadas del arte generativo dentro de la historia del arte contemporáneo taiwanés
+- **[Wang Liansheng (Shrimp Dad)](/es/art/wang-lien-cheng-artist)** — artista de instalaciones sonoras del mismo grupo del Proyecto Baoyue, ganador del premio 3D/Sculpture Award del Lumen Prize 2017 (obra «Reading Plan»)
 
 ## Referencias
 

@@ -403,11 +403,11 @@ El chico que ganó el concurso Tianyun en el último año de la escuela secundar
 
 **Lecturas adicionales**:
 
-- [Zhang Xuan y Anpu](/music/張懸與安溥) — Voces femeninas indie contemporáneas, declaración política colectiva de bandas indie
-- [Música independiente de Taiwán](/music/台灣獨立音樂) — Ecosistema de bandas indie en Taiwán
-- [Cultura de los festivales de música de Taiwán](/music/台灣音樂祭文化) — Festival del Mar de Gongliao y plataforma de descubrimiento de bandas independientes
-- [Mayday](/music/五月天) — Otra banda insignia de Taiwán fundada en 1997, contraste con diferentes modelos de management
-- [Premio Golden Melody](/music/金曲獎) — El contexto en el que Sodagreen barrió el Premio Golden Melody
+- [Zhang Xuan y Anpu](/es/music/deserts-chang-and-anpu) — Voces femeninas indie contemporáneas, declaración política colectiva de bandas indie
+- [Música independiente de Taiwán](/es/music/indie-music-scene) — Ecosistema de bandas indie en Taiwán
+- [Cultura de los festivales de música de Taiwán](/es/music/taiwan-music-festival-culture) — Festival del Mar de Gongliao y plataforma de descubrimiento de bandas independientes
+- [Mayday](/es/music/mayday-band) — Otra banda insignia de Taiwán fundada en 1997, contraste con diferentes modelos de management
+- [Premio Golden Melody](/es/music/pop-music-and-golden-melody-awards) — El contexto en el que Sodagreen barrió el Premio Golden Melody
 
 ---
 

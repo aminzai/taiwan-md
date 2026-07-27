@@ -172,13 +172,13 @@ Quizás en los próximos 28 años se dé la respuesta. Quizás no. Pero hay una 
 
 **Lectura complementaria**:
 
-- [Medios de comunicación y libertad de prensa en Taiwán](/society/台灣媒體與新聞自由) — La Televisión Pública como parte del ecosistema de medios, interactuando con el entorno general de libertad de prensa
-- [Magazine CommonWealth](/society/天下雜誌) — Cómo los medios comerciales y financieros resuelven el mismo problema de «a quién deben responder los medios», sobreviviendo mediante suscriptores de pago y ecosistemas empresariales, formando un contraste con la ruta presupuestaria pública de la Televisión Pública
-- [Variety Show en Taiwán](/culture/台灣綜藝) — Contraste con los programas de variedades de las estaciones de televisión comerciales, entendiendo por qué la Televisión Pública eligió hacer dramas y documentales
-- [Bandas sonoras de la industria audiovisual en Taiwán](/music/台灣影視配樂) — La posición de las bandas sonoras de las series insignia de la Televisión Pública en la industria musical de Taiwán
-- [Subcontratación de animación en Taiwán](/economy/台灣動畫代工) — Contraste con la industria de IP comercial, la lógica diferente de la Televisión Pública en la selección de temas de animación
-- [Festividades tradicionales y celebraciones](/culture/傳統節慶與慶典) — La contribución a largo plazo del documental de la Televisión Pública _Documentary View_ a la preservación de la memoria cultural de Taiwán
-- [Instituto de Investigación de Diseño de Taiwán](/society/台灣設計研究院) — Otra fundación pública que camina sobre la cuerda floja entre «ser visto» y lo público, convirtiendo el diseño en un método para que el gobierno sirva a los ciudadanos
+- [Medios de comunicación y libertad de prensa en Taiwán](/es/society/media-and-press-freedom-in-taiwan) — La Televisión Pública como parte del ecosistema de medios, interactuando con el entorno general de libertad de prensa
+- [Magazine CommonWealth](/es/society/commonwealth-magazine) — Cómo los medios comerciales y financieros resuelven el mismo problema de «a quién deben responder los medios», sobreviviendo mediante suscriptores de pago y ecosistemas empresariales, formando un contraste con la ruta presupuestaria pública de la Televisión Pública
+- [Variety Show en Taiwán](/es/culture/taiwan-variety-shows) — Contraste con los programas de variedades de las estaciones de televisión comerciales, entendiendo por qué la Televisión Pública eligió hacer dramas y documentales
+- [Bandas sonoras de la industria audiovisual en Taiwán](/es/music/taiwan-screen-scoring-from-cinema-to-games) — La posición de las bandas sonoras de las series insignia de la Televisión Pública en la industria musical de Taiwán
+- [Subcontratación de animación en Taiwán](/es/economy/taiwan-creator-economy) — Contraste con la industria de IP comercial, la lógica diferente de la Televisión Pública en la selección de temas de animación
+- [Festividades tradicionales y celebraciones](/es/culture/traditional-festivals-and-celebrations) — La contribución a largo plazo del documental de la Televisión Pública _Documentary View_ a la preservación de la memoria cultural de Taiwán
+- [Instituto de Investigación de Diseño de Taiwán](/es/society/taiwan-design-research-institute) — Otra fundación pública que camina sobre la cuerda floja entre «ser visto» y lo público, convirtiendo el diseño en un método para que el gobierno sirva a los ciudadanos
 
 ## Fuentes de las imágenes
 

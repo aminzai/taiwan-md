@@ -236,10 +236,10 @@ El acto de asignar nombres nunca fue abolido: solo cambió la persona que entreg
 
 ## Lecturas relacionadas
 
-- [Préstamos lingüísticos y contacto de lenguas en Taiwán](/culture/台灣外來語與語言接觸) — Desde los préstamos entre japonés, inglés y taiwanés, observa cómo se apilan las capas multilingües de Taiwán
-- [Movimiento de revitalización de las lenguas indígenas de Taiwán](/culture/台灣原住民語言復振運動) — Otra línea de recuperación del derecho a nombrar, desde la revitalización de lenguas indígenas hasta la reforma de la Ley de Nombres de 2024
-- [Chiung Wi-vun](/people/蔣為文) — Un contraste ampliado con la lógica de “desinización” del movimiento por la escritura taiwanesa: la otra cara entre nombrar y soberanía escrita
-- [Sensibilidad taiwanesa](/culture/台灣感性) — Una mirada curatorial a las mentalidades culturales para entender otra capa de “por qué los taiwaneses sienten que necesitan un nombre extranjero”
+- [Préstamos lingüísticos y contacto de lenguas en Taiwán](/es/culture/loanwords-and-language-contact-in-taiwan) — Desde los préstamos entre japonés, inglés y taiwanés, observa cómo se apilan las capas multilingües de Taiwán
+- [Movimiento de revitalización de las lenguas indígenas de Taiwán](/es/culture/indigenous-language-revitalization-movement) — Otra línea de recuperación del derecho a nombrar, desde la revitalización de lenguas indígenas hasta la reforma de la Ley de Nombres de 2024
+- [Chiung Wi-vun](/es/people/chiung-wi-vun) — Un contraste ampliado con la lógica de “desinización” del movimiento por la escritura taiwanesa: la otra cara entre nombrar y soberanía escrita
+- [Sensibilidad taiwanesa](/es/culture/taiwanese-sensibility) — Una mirada curatorial a las mentalidades culturales para entender otra capa de “por qué los taiwaneses sienten que necesitan un nombre extranjero”
 
 ## Fuentes de imágenes
 

@@ -146,11 +146,11 @@ Si los próximos 30 años deben recorrer el mismo camino, la pregunta apenas com
 
 **Lecturas relacionadas**:
 
-- [蔡英文](/people/蔡英文) — Fundadora de Thinking Taiwan, fundadora de la Fundación Educativa Hsiao Ying, presidenta de la República de China en su séptimo y octavo mandatos (2016-2024)
-- [賴清德](/people/賴清德) — Presidente de la República de China en su noveno mandato, sucesor de Tsai Ing-wen; objeto implícito de contraste en el «comentario destacado» de _United Daily News_ durante el rediseño de Thinking Taiwan en octubre de 2025
-- [泛科學](/society/泛科學) — También una plataforma de discusión pública, pero PanSci convierte la comunicación científica en un híbrido de medio de conocimiento, producto educativo y economía de creadores
-- [毒馬鈴薯認知作戰](/society/毒馬鈴薯認知作戰) — Uno de los temas de guerra informativa china discutidos continuamente en la sección de geopolítica y economía de Thinking Taiwan
-- [心戰](/history/心戰) — Tema transversal con las secciones de pensamiento y política / seguridad de Thinking Taiwan
+- [蔡英文](/es/people/tsai-ing-wen) — Fundadora de Thinking Taiwan, fundadora de la Fundación Educativa Hsiao Ying, presidenta de la República de China en su séptimo y octavo mandatos (2016-2024)
+- [賴清德](/es/people/lai-ching-te) — Presidente de la República de China en su noveno mandato, sucesor de Tsai Ing-wen; objeto implícito de contraste en el «comentario destacado» de _United Daily News_ durante el rediseño de Thinking Taiwan en octubre de 2025
+- [泛科學](/es/society/pansci) — También una plataforma de discusión pública, pero PanSci convierte la comunicación científica en un híbrido de medio de conocimiento, producto educativo y economía de creadores
+- [毒馬鈴薯認知作戰](/es/society/poisoned-potato-cognitive-warfare-taiwan) — Uno de los temas de guerra informativa china discutidos continuamente en la sección de geopolítica y economía de Thinking Taiwan
+- [心戰](/es/history/psychological-warfare) — Tema transversal con las secciones de pensamiento y política / seguridad de Thinking Taiwan
 
 ## Referencias
 

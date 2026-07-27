@@ -230,23 +230,23 @@ La próxima vez que pases por Taichung, no vayas solo a las tiendas antiguas de 
 
 ## Lecturas adicionales
 
-- [Industria de fabricación de instrumentos musicales de Taiwán: Taiwán que camina en el sonido mundial de los instrumentos](/music/台灣樂器製造) — El clúster de saxofones en Houli y las campanas musicales en Wufeng son la geografía de precisión y música más allá de la industria de Taichung
+- [Industria de fabricación de instrumentos musicales de Taiwán: Taiwán que camina en el sonido mundial de los instrumentos](/es/music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories) — El clúster de saxofones en Houli y las campanas musicales en Wufeng son la geografía de precisión y música más allá de la industria de Taichung
 
-- [Ciudad de Keelung](/geography/基隆市) — Pilot de la serie de 22 condados y ciudades: de séptimo puerto de contenedores más grande del mundo en 1984 a decimotercero en 2018, Keelung es un condado y ciudad como Taichung cuya «posición administrativa fue vista y luego reescrita»
+- [Ciudad de Keelung](/es/geography/keelung-city) — Pilot de la serie de 22 condados y ciudades: de séptimo puerto de contenedores más grande del mundo en 1984 a decimotercero en 2018, Keelung es un condado y ciudad como Taichung cuya «posición administrativa fue vista y luego reescrita»
 
-- [Condado de Nantou](/geography/南投縣) — Hermano de la serie de 22 condados y ciudades, lote 3: el único condado sin mar, el epicentro del 921 está en su centro, compartiendo el trauma de la falla Chelungpu con Taichung
+- [Condado de Nantou](/es/geography/nantou-county) — Hermano de la serie de 22 condados y ciudades, lote 3: el único condado sin mar, el epicentro del 921 está en su centro, compartiendo el trauma de la falla Chelungpu con Taichung
 
-- [Condado de Changhua](/geography/彰化縣) — Hermano de la serie de 22 condados y ciudades, lote 4: el riego del Canal Babao en 1709, el evento de Lin Shuangwen en 1786, los habitantes de Lukang expulsaron a DuPont en 1986, pertenece a la vida central de la cordillera Bagua junto con Taichung
+- [Condado de Changhua](/es/geography/changhua-county) — Hermano de la serie de 22 condados y ciudades, lote 4: el riego del Canal Babao en 1709, el evento de Lin Shuangwen en 1786, los habitantes de Lukang expulsaron a DuPont en 1986, pertenece a la vida central de la cordillera Bagua junto con Taichung
 
-- [Condado de Yunlin](/geography/雲林縣) — Hermano de la serie de 22 condados y ciudades, lote 4: la procesión de Mazu de Dajia pasa por Xiluo, Huwei y Tukou, Yunlin es la parte media de la misma ruta de Mazu que Taichung
+- [Condado de Yunlin](/es/geography/yunlin-county) — Hermano de la serie de 22 condados y ciudades, lote 4: la procesión de Mazu de Dajia pasa por Xiluo, Huwei y Tukou, Yunlin es la parte media de la misma ruta de Mazu que Taichung
 
-- [Ciudad de Chiayi](/geography/嘉義市) — Hermano de la serie de 22 condados y ciudades, lote 2: el punto final de la procesión de Mazu de Dajia, Xingang, está en el condado de Chiayi; Chiayi y Taichung son los dos extremos de la misma ruta religiosa de 340 kilómetros
+- [Ciudad de Chiayi](/es/geography/chiayi-city) — Hermano de la serie de 22 condados y ciudades, lote 2: el punto final de la procesión de Mazu de Dajia, Xingang, está en el condado de Chiayi; Chiayi y Taichung son los dos extremos de la misma ruta religiosa de 340 kilómetros
 
-- [Condado de Miaoli](/geography/苗栗縣) — Hermano de la serie de 22 condados y ciudades, lote 1: condado vecino al norte, condado interior de cuello duro hakka y deuda de tesorería condal, junto con Qingshui en la zona costera de Taichung y la montaña de Dongshi forman el mapa hakka del centro
+- [Condado de Miaoli](/es/geography/miaoli-county) — Hermano de la serie de 22 condados y ciudades, lote 1: condado vecino al norte, condado interior de cuello duro hakka y deuda de tesorería condal, junto con Qingshui en la zona costera de Taichung y la montaña de Dongshi forman el mapa hakka del centro
 
-- [División administrativa de Taiwán](/geography/台灣行政區劃) — Historia institucional completa: establecimiento de la Prefectura de Taiwán en Taichung en 1887, establecimiento de la Prefectura de Taichung en 1920, separación de ciudad y condado en 1945, fusión y elevación a ciudad de nivel prefectural en 2010
+- [División administrativa de Taiwán](/es/geography/administrative-divisions-of-taiwan) — Historia institucional completa: establecimiento de la Prefectura de Taiwán en Taichung en 1887, establecimiento de la Prefectura de Taichung en 1920, separación de ciudad y condado en 1945, fusión y elevación a ciudad de nivel prefectural en 2010
 
-- [Características urbanas y cultura regional](/geography/城市特色與區域文化) — Contexto de comparación intercondado de Taichung como centro de la vida central
+- [Características urbanas y cultura regional](/es/geography/urban-character-and-regional-culture) — Contexto de comparación intercondado de Taichung como centro de la vida central
 
 ## Fuentes de imágenes
 

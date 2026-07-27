@@ -186,9 +186,9 @@ La publicidad sirve para vender cosas. Pero en la publicidad más recordada de T
 
 ## Lecturas complementarias
 
-- [Historia de la industria televisiva de Taiwán](/technology/台灣電視產業史) — De los tres canales clásicos a la televisión por cable y el OTT: cómo evolucionó la pantalla que sostenía la publicidad
-- [PX Mart](/economy/全聯福利中心) — De cooperativa oscura y maloliente a rey del retail: el trasfondo comercial de la “estética económica” de Ogilvy
-- [La industria musical taiwanesa y la era del streaming](/music/台灣音樂產業與串流時代) — De las canciones publicitarias que lanzaban cantantes al consumo musical segmentado por streaming
+- [Historia de la industria televisiva de Taiwán](/es/technology/taiwan-television-industry-history) — De los tres canales clásicos a la televisión por cable y el OTT: cómo evolucionó la pantalla que sostenía la publicidad
+- [PX Mart](/es/economy/pxmart-supermarket) — De cooperativa oscura y maloliente a rey del retail: el trasfondo comercial de la “estética económica” de Ogilvy
+- [La industria musical taiwanesa y la era del streaming](/es/music/taiwan-music-industry-and-the-streaming-era) — De las canciones publicitarias que lanzaban cantantes al consumo musical segmentado por streaming
 
 ---
 

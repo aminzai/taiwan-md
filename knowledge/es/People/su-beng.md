@@ -120,9 +120,9 @@ Independientemente de la posición, pocos pueden negar su coherencia. Desde la d
 
 **Lecturas complementarias**
 
-- [Espectro político de Taiwán](/society/台灣統獨光譜) — Comprende la posición de Su Beng dentro del abanico independentista de Taiwán.
-- [Incidente del 28 de Febrero](/history/二二八事件) — El trauma histórico que impulsó a Su Beng a la lucha armada.
-- [Terror blanco en Taiwán](/history/台灣白色恐怖) — Contexto del caso de la _Asociación de Taiwán Independiente_ y la época de exilio de Su Beng.
+- [Espectro político de Taiwán](/es/society/taiwan-unification-independence-spectrum) — Comprende la posición de Su Beng dentro del abanico independentista de Taiwán.
+- [Incidente del 28 de Febrero](/es/history/228-incident) — El trauma histórico que impulsó a Su Beng a la lucha armada.
+- [Terror blanco en Taiwán](/es/history/taiwan-white-terror) — Contexto del caso de la _Asociación de Taiwán Independiente_ y la época de exilio de Su Beng.
 
 ## Fuentes de imágenes
 

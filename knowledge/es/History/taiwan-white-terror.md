@@ -169,14 +169,14 @@ This is not hatred; it is a ledger. The day White Terror ends will not be the da
 
 **Further Reading**:
 
-- [Taiwan's Democratic Transition](/history/台灣民主轉型) — The full picture of the forty-year transition from martial law to Asia's most free democratic system
-- [Martial Law Era](/history/戒嚴時期) — The legal container of 38 years and 56 days and the process of lifting martial law
-- [Taiwan's Transitional Justice](/history/台灣轉型正義) — The unfinished business of truth-seeking and holding perpetrators accountable after the lifting of martial law
-- [National Human Rights Museum](/history/國家人權博物館) — The institution behind the two White Terror memorial parks at Jingmei and Green Island: from six years of preparation to the 2025 budget freeze
-- [February 28 Incident](/history/二二八事件) — The prelude to White Terror: how the 1947 suppression foreshadowed the martial law system
-- [Beautiful Island Incident](/history/美麗島事件) — A major turning point in the late White Terror in 1979
-- [Alishan: The Empire's Forest and Gao Yi-sheng's Mountain](/history/阿里山：帝國的林場與高一生的山) — The story of Gao Yi-sheng's mountain and the silenced ethnic group
-- [Yin Haiguang](/people/殷海光) — A professor of philosophy at National Taiwan University who was placed under house arrest at No. 18 Wenzhou Street after the 1960 Lei Zhen case, the founder of Taiwan's liberalism
+- [Taiwan's Democratic Transition](/es/history/taiwan-democratization) — The full picture of the forty-year transition from martial law to Asia's most free democratic system
+- [Martial Law Era](/es/history/martial-law-era) — The legal container of 38 years and 56 days and the process of lifting martial law
+- [Taiwan's Transitional Justice](/es/history/taiwan-transitional-justice) — The unfinished business of truth-seeking and holding perpetrators accountable after the lifting of martial law
+- [National Human Rights Museum](/es/history/national-human-rights-museum) — The institution behind the two White Terror memorial parks at Jingmei and Green Island: from six years of preparation to the 2025 budget freeze
+- [February 28 Incident](/es/history/228-incident) — The prelude to White Terror: how the 1947 suppression foreshadowed the martial law system
+- [Beautiful Island Incident](/es/history/kaohsiung-incident-formosa-incident) — A major turning point in the late White Terror in 1979
+- [Alishan: The Empire's Forest and Gao Yi-sheng's Mountain](/es/history/alishan-empire-forest-and-uongu-yatauyungana) — The story of Gao Yi-sheng's mountain and the silenced ethnic group
+- [Yin Haiguang](/es/people/yin-haiguang-liberalism-philosopher) — A professor of philosophy at National Taiwan University who was placed under house arrest at No. 18 Wenzhou Street after the 1960 Lei Zhen case, the founder of Taiwan's liberalism
 
 ## References
 

@@ -228,7 +228,7 @@ Pero los métodos de entrada no desaparecerán. Porque no son solo herramientas:
 
 ## Lectura complementaria
 
-- [Industria de semiconductores](/technology/半導體產業) — La industria que produce los chips detrás de cada teclado
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — La industria que produce los chips detrás de cada teclado
 
 ## Referencias
 

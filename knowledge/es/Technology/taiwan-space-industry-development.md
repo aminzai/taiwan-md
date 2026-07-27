@@ -157,9 +157,9 @@ Taiwán es una potencia en fabricación de satélites y aún no tiene cohete pro
 
 **Lectura complementaria**:
 
-- [Centro Nacional Espacial](/technology/國家太空中心) — este artículo trata la cadena industrial; aquel artículo trata la institución detrás: cómo el Centro Nacional Espacial pasó de una «oficina de preparación» a la entidad administrativa TASA, reuniendo nombre, personalidad jurídica, terreno y cohete, uno por uno.
-- [Industria de semiconductores](/technology/半導體產業) — la base de la cadena de suministro para la industria espacial; los chips satelitales provienen de la misma cadena
-- [Ecosistema de startups](/economy/新創生態系) — cómo las startups espaciales privadas se conectan con los programas nacionales
-- [Construcción de redes 5G y transformación digital en Taiwán](/technology/台灣5G網路建設與數位轉型) — complementariedad resiliente entre comunicaciones satelitales y 5G terrestre
-- [Defensa nacional y modernización militar de Taiwán](/society/台灣國防與軍事現代化) — de satélites civiles a comunicaciones de defensa: el espacio como nuevo frente de resiliencia defensiva taiwanesa
-- [Lin Chieh-er](/people/林琪兒) — astronauta de la NASA nacida en Taipéi, miembro del grupo de calificación Artemis; una perspectiva personal sobre la conexión entre Taiwán y la exploración espacial global
+- [Centro Nacional Espacial](/es/technology/tasa-taiwan-space-agency) — este artículo trata la cadena industrial; aquel artículo trata la institución detrás: cómo el Centro Nacional Espacial pasó de una «oficina de preparación» a la entidad administrativa TASA, reuniendo nombre, personalidad jurídica, terreno y cohete, uno por uno.
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — la base de la cadena de suministro para la industria espacial; los chips satelitales provienen de la misma cadena
+- [Ecosistema de startups](/es/economy/taiwan-startup-ecosystem-overview) — cómo las startups espaciales privadas se conectan con los programas nacionales
+- [Construcción de redes 5G y transformación digital en Taiwán](/es/technology/taiwan-5g-digital-transformation) — complementariedad resiliente entre comunicaciones satelitales y 5G terrestre
+- [Defensa nacional y modernización militar de Taiwán](/es/society/taiwan-defense-modernization) — de satélites civiles a comunicaciones de defensa: el espacio como nuevo frente de resiliencia defensiva taiwanesa
+- [Lin Chieh-er](/es/people/lin-chi-er-astronaut) — astronauta de la NASA nacida en Taipéi, miembro del grupo de calificación Artemis; una perspectiva personal sobre la conexión entre Taiwán y la exploración espacial global

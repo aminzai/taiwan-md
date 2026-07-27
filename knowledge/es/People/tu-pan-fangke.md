@@ -66,7 +66,7 @@ _Antigua residencia de Wu Cho-liu en Xinpu: la huella material de la red de escr
 
 ## La voz femenina bajo Li, la voz femenina bajo la mano del traductor
 
-En 1965 se incorporó a la [Sociedad Poética Li](/art/笠詩社), buque insignia de las sociedades poéticas nativistas fundada en 1964, que subrayaba la conciencia local.[^1][^7] No fue una de las doce personas fundadoras, sino la poeta que entró «al año siguiente de la fundación de Li». Li Yuan-chen, Li Min-yung y otros defenderían después en repetidas ocasiones su pensamiento poético.[^5]
+En 1965 se incorporó a la [Sociedad Poética Li](/es/art/li-poetry-society), buque insignia de las sociedades poéticas nativistas fundada en 1964, que subrayaba la conciencia local.[^1][^7] No fue una de las doce personas fundadoras, sino la poeta que entró «al año siguiente de la fundación de Li». Li Yuan-chen, Li Min-yung y otros defenderían después en repetidas ocasiones su pensamiento poético.[^5]
 
 En julio de 1966, la revista _Taiwan Wenyi_ publicó su poema «Primavera». La prensa en inglés lo escribe así: era un original en japonés, traducido al chino por **Wu Cho-liu**.[^4] Aquí aparece una forma de producción habitual en la generación que atravesó las lenguas: el poema crece primero en una cabeza que piensa en japonés y después otro par de manos lo traslada a la página en mandarín. Li Yuan-chen señalaría más tarde que los primeros originales en chino pasaban a menudo por **traductores varones**, y que los matices de la mirada femenina quedaban alisados; esa es también una de las razones por las que se ha subestimado su influencia.[^4]
 
@@ -191,12 +191,12 @@ Antes de cerrar esta página, el lector puede preguntarse algo muy pequeño:
 
 **Lecturas complementarias**:
 
-- [Sociedad Poética Li](/art/笠詩社) — la red de la sociedad poética nativista a la que se incorporó en 1965
-- [Incidente del 28 de febrero](/history/二二八事件) — la estructura de trauma de toda la isla en la que se inscribe el caso de Chang Chi-lang
-- [El Terror Blanco en Taiwán](/history/台灣白色恐怖) — el trasfondo institucional de la lectura política de «Ping-an-hsi»
-- [Historia de la literatura taiwanesa](/art/台灣文學史) — la posición de largo alcance de la generación que atravesó las lenguas y de la literatura en lengua materna
-- [Monaneng](/people/莫那能) — otra vía contrapuntística de «alzar la voz por el propio pueblo en una lengua ajena / en caracteres chinos»
-- [Poesía moderna taiwanesa](/art/台灣現代詩) — el mapa más amplio del ecosistema de las sociedades poéticas de posguerra
+- [Sociedad Poética Li](/es/art/li-poetry-society) — la red de la sociedad poética nativista a la que se incorporó en 1965
+- [Incidente del 28 de febrero](/es/history/228-incident) — la estructura de trauma de toda la isla en la que se inscribe el caso de Chang Chi-lang
+- [El Terror Blanco en Taiwán](/es/history/taiwan-white-terror) — el trasfondo institucional de la lectura política de «Ping-an-hsi»
+- [Historia de la literatura taiwanesa](/es/art/history-of-taiwanese-literature) — la posición de largo alcance de la generación que atravesó las lenguas y de la literatura en lengua materna
+- [Monaneng](/es/people/monaneng) — otra vía contrapuntística de «alzar la voz por el propio pueblo en una lengua ajena / en caracteres chinos»
+- [Poesía moderna taiwanesa](/es/art/taiwanese-modern-poetry) — el mapa más amplio del ecosistema de las sociedades poéticas de posguerra
 
 ## Fuentes de imágenes
 

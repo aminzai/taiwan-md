@@ -397,10 +397,10 @@ En 2024, el valor de mercado de TSMC superó los diez billones de dólares taiwa
 ## Lecturas relacionadas
 
 - [Empresa taiwanesa: TSMC](/economy/tsmc-taiwan-semiconductor) — la montaña sagrada protectora del país que fundó en 1987 con el modelo de fundición de obleas y que hoy supera los sesenta billones de dólares taiwaneses en valor de mercado; es en sí misma la nota al pie más completa de Morris Chang.
-- [Stan Shih](/people/stan-shih) — el fundador de Acer a quien invitó a ser director de TSMC durante veintiún años, y autor de la "Curva de la Sonrisa"; la "manufactura intermedia" que hace TSMC es precisamente el tramo que esa curva menospreciaba, pero que en la realidad resultó ser el más valioso.
-- [Terry Gou](/people/terry-gou) — otro empresario taiwanés que cambió el mundo mediante la "manufactura por contrato"; el ensamblaje por contrato de Foxconn y la fundición de obleas de TSMC son los dos caminos por los que la manufactura taiwanesa llegó al mundo.
-- [Industria de semiconductores](/technology/taiwan-semiconductor-industry) — el campo de batalla industrial completo al que Morris Chang conectó a Taiwán con sus propias manos, desde la transferencia tecnológica de RCA en 1976 hasta convertirse en la montaña sagrada protectora del país.
-- [Transformación y mejora industrial de Taiwán](/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC es el caso más concreto de la transformación de Taiwán de "isla de manufactura por contrato" a "isla tecnológica", y también la coordenada central de esos cuarenta años de transformación.
+- [Stan Shih](/es/people/stan-shih) — el fundador de Acer a quien invitó a ser director de TSMC durante veintiún años, y autor de la "Curva de la Sonrisa"; la "manufactura intermedia" que hace TSMC es precisamente el tramo que esa curva menospreciaba, pero que en la realidad resultó ser el más valioso.
+- [Terry Gou](/es/people/terry-gou) — otro empresario taiwanés que cambió el mundo mediante la "manufactura por contrato"; el ensamblaje por contrato de Foxconn y la fundición de obleas de TSMC son los dos caminos por los que la manufactura taiwanesa llegó al mundo.
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — el campo de batalla industrial completo al que Morris Chang conectó a Taiwán con sus propias manos, desde la transferencia tecnológica de RCA en 1976 hasta convertirse en la montaña sagrada protectora del país.
+- [Transformación y mejora industrial de Taiwán](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC es el caso más concreto de la transformación de Taiwán de "isla de manufactura por contrato" a "isla tecnológica", y también la coordenada central de esos cuarenta años de transformación.
 
 ---
 

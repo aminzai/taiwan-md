@@ -136,4 +136,4 @@ Las aguas termales urbanas representan productos de vida moderna. Los hoteles y 
 
 ## Temas Relacionados
 
-- [nightlife-and-ktv-culture](/lifestyle/nightlife-and-ktv-culture): Actividades de entretenimiento nocturno en complejos de aguas termales
+- [nightlife-and-ktv-culture](/es/lifestyle/nightlife-and-ktv-culture): Actividades de entretenimiento nocturno en complejos de aguas termales

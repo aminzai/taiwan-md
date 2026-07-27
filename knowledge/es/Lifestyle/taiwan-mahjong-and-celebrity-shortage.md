@@ -150,9 +150,9 @@ En algún Año Nuevo Lunar de 2026, en algún salón, un joven de veintipocos a�
 
 ## Lecturas complementarias
 
-- [La industria del videojuego en Taiwán y el entretenimiento digital](/technology/台灣遊戲產業與數位娛樂) — Panorama completo de los videojuegos taiwaneses, de la distribución a la creación original
-- [Vida nocturna y cultura del karaoke](/lifestyle/夜生活與KTV文化) — Otro ritual social taiwanés
-- [La cultura de las tiendas de conveniencia en Taiwán](/lifestyle/台灣便利商店文化) — La infraestructura cotidiana de Taiwán, disponible las 24 horas
+- [La industria del videojuego en Taiwán y el entretenimiento digital](/es/technology/taiwan-gaming-industry) — Panorama completo de los videojuegos taiwaneses, de la distribución a la creación original
+- [Vida nocturna y cultura del karaoke](/es/lifestyle/nightlife-and-ktv-culture) — Otro ritual social taiwanés
+- [La cultura de las tiendas de conveniencia en Taiwán](/es/lifestyle/convenience-store-culture) — La infraestructura cotidiana de Taiwán, disponible las 24 horas
 
 ---
 

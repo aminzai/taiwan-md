@@ -262,8 +262,8 @@ La escasez de talento en ciberseguridad, la inversión insuficiente en investiga
 
 **Lecturas complementarias**:
 
-- [Defensa nacional y modernización militar de Taiwán](/society/台灣國防與軍事現代化) — La primera línea de la guerra de zona gris no son las minas navales, sino los firewalls. El guion de los tres días previos al ejercicio Han Kuang 41 fue precisamente guerra cibernética y cognitiva
-- [Desarrollo de la IA en Taiwán](/technology/AI發展) — El doble papel de la IA en ciberseguridad y defensa nacional
+- [Defensa nacional y modernización militar de Taiwán](/es/society/taiwan-defense-modernization) — La primera línea de la guerra de zona gris no son las minas navales, sino los firewalls. El guion de los tres días previos al ejercicio Han Kuang 41 fue precisamente guerra cibernética y cognitiva
+- [Desarrollo de la IA en Taiwán](/es/technology/ai-development-in-taiwan) — El doble papel de la IA en ciberseguridad y defensa nacional
 
 ## Referencias
 

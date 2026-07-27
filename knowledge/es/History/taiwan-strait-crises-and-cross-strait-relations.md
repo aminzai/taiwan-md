@@ -141,14 +141,14 @@ Los fragmentos de proyectil que quedaron en aquellos túneles de granito fueron 
 
 **Lecturas complementarias**:
 
-- [造山者：世紀的賭注](/art/造山者世紀的賭注) — Documental de 2025 de Xiao Juzhen, cinco años de entrevistas con más de 80 pioneros del sector de semiconductores, que en 2026 visitó Purdue, Wisconsin y Michigan, tres universidades beneficiarias de la CHIPS Act
+- [造山者：世紀的賭注](/es/art/mountain-makers-tsmc-documentary) — Documental de 2025 de Xiao Juzhen, cinco años de entrevistas con más de 80 pioneros del sector de semiconductores, que en 2026 visitó Purdue, Wisconsin y Michigan, tres universidades beneficiarias de la CHIPS Act
 
-- [Defensa taiwanesa y modernización militar](/society/台灣國防與軍事現代化) — De la estrategia del erizo al tanque M1A2T, la transformación fundamental de la lógica defensiva de Taiwán tras tres crisis del Estrecho
-- [Relaciones diplomáticas de Taiwán y política internacional](/society/台灣邦交國與國際外交) — Otro frente más allá de la confrontación militar: cómo Taiwán busca hacerse un lugar en el sistema internacional
-- [La reunión Zheng-Xi de 2026: diez minutos entre líderes del Kuomintang y el Partido Comunista tras una década](/society/2026鄭習會與國共十年再會) — El capítulo más reciente de setenta años de interacción entre ambas orillas: los diez minutos del presidente del Kuomintang ante Xi Jinping en Pekín
-- [Ma Ying-jeou](/people/馬英九) — El apretón de manos de 80 segundos del 7/11/2015 en Singapur con Xi Jinping, la firma del ECFA, los dos viajes a China en 2023 y 2024: el dirigente que encabezó aquella época dorada de las relaciones entre ambas orillas y las controversias posteriores a dejar el cargo
-- [Teresa Teng](/people/鄧麗君) — Otro frente del poder blando en la Guerra Fría: su voz penetró en el continente, en 1989 llevó una pancarta de "oposición a la ley marcial" en Happy Valley, y en 1991 habló al continente desde el puesto de observación de Mashan
-- [Resolución sobre el futuro de Taiwán](/history/臺灣前途決議文) — La crisis del Estrecho de 1996 aceleró la transición pragmática del DPP, y tres años después dio lugar a este documento que definió la postura de Taiwán sobre las relaciones entre ambas orillas durante veintisiete años
+- [Defensa taiwanesa y modernización militar](/es/society/taiwan-defense-modernization) — De la estrategia del erizo al tanque M1A2T, la transformación fundamental de la lógica defensiva de Taiwán tras tres crisis del Estrecho
+- [Relaciones diplomáticas de Taiwán y política internacional](/es/society/taiwan-diplomatic-allies-and-international-relations) — Otro frente más allá de la confrontación militar: cómo Taiwán busca hacerse un lugar en el sistema internacional
+- [La reunión Zheng-Xi de 2026: diez minutos entre líderes del Kuomintang y el Partido Comunista tras una década](/es/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — El capítulo más reciente de setenta años de interacción entre ambas orillas: los diez minutos del presidente del Kuomintang ante Xi Jinping en Pekín
+- [Ma Ying-jeou](/es/people/ma-ying-jeou-cross-strait-reconciliation-leader) — El apretón de manos de 80 segundos del 7/11/2015 en Singapur con Xi Jinping, la firma del ECFA, los dos viajes a China en 2023 y 2024: el dirigente que encabezó aquella época dorada de las relaciones entre ambas orillas y las controversias posteriores a dejar el cargo
+- [Teresa Teng](/es/people/teresa-teng) — Otro frente del poder blando en la Guerra Fría: su voz penetró en el continente, en 1989 llevó una pancarta de "oposición a la ley marcial" en Happy Valley, y en 1991 habló al continente desde el puesto de observación de Mashan
+- [Resolución sobre el futuro de Taiwán](/es/history/resolution-on-taiwans-future) — La crisis del Estrecho de 1996 aceleró la transición pragmática del DPP, y tres años después dio lugar a este documento que definió la postura de Taiwán sobre las relaciones entre ambas orillas durante veintisiete años
 
 ## Referencias
 

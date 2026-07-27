@@ -115,9 +115,9 @@ Hoy ese sabor ya no le parece a nadie "waisheng" ni "chino". Es taiwanés y punt
 
 **Lecturas complementarias**:
 
-- [Cocina de las aldeas militares (juancun) en Taiwán](/food/台灣眷村菜) — También una memoria gastronómica traída por la gran ola migratoria posterior a 1949; juancun y vino Shaoxing de Puli comparten un mismo origen: una retirada cargada de memorias de cocina.
-- [Alimentos fermentados y cultura del encurtido en Taiwán](/food/台灣發酵食品與醃製文化) — Del furu (queso de soja) a la salsa de soja, la genealogía técnica de los fermentados taiwaneses; el Shaoxing es de todos ellos el que tiene la genealogía política más nítida.
-- [Cultura del arroz en Taiwán](/food/台灣米食文化) — El arroz glutinoso es la materia prima básica del Shaoxing; la cultura del arroz aporta el contexto completo para entender el recorrido de esta botella desde la agricultura a la industria y de la industria al turismo.
+- [Cocina de las aldeas militares (juancun) en Taiwán](/es/food/military-dependents-village-cuisine) — También una memoria gastronómica traída por la gran ola migratoria posterior a 1949; juancun y vino Shaoxing de Puli comparten un mismo origen: una retirada cargada de memorias de cocina.
+- [Alimentos fermentados y cultura del encurtido en Taiwán](/es/food/taiwan-fermented-and-pickled-foods) — Del furu (queso de soja) a la salsa de soja, la genealogía técnica de los fermentados taiwaneses; el Shaoxing es de todos ellos el que tiene la genealogía política más nítida.
+- [Cultura del arroz en Taiwán](/es/food/taiwan-rice-cuisine-culture) — El arroz glutinoso es la materia prima básica del Shaoxing; la cultura del arroz aporta el contexto completo para entender el recorrido de esta botella desde la agricultura a la industria y de la industria al turismo.
 
 ## Referencias
 

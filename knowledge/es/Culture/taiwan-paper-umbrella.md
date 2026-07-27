@@ -74,10 +74,10 @@ Sin embargo, la historia del paraguas de Meinong ofrece una valiosa lección par
 
 ## Lecturas complementarias
 
-- **[Cultura y lengua hakka](/culture/客家文化與語言)** — Preservación lingüística y herencia cultural del pueblo hakka, el suelo cultural donde nació el paraguas de papel
-- **[Cultura de tabúes homofónicos en Taiwán](/culture/台灣諧音禁忌文化)** — El tabú hokkien de "regalar un paraguas" frente a la bendición hakka del paraguas de papel: la lógica homofónica de un mismo objeto con significados opuestos
-- **[El paño floral taiwanés](/culture/台灣花布)** — Otro patrón tradicional taiwanés que pasó del uso cotidiano a símbolo cultural
-- **[Teñido con índigo](/culture/藍染)** — Una artesanía tradicional taiwanesa que enfrenta retos de transmisión similares
+- **[Cultura y lengua hakka](/es/culture/hakka-culture-and-language)** — Preservación lingüística y herencia cultural del pueblo hakka, el suelo cultural donde nació el paraguas de papel
+- **[Cultura de tabúes homofónicos en Taiwán](/es/culture/taiwanese-homophone-taboos)** — El tabú hokkien de "regalar un paraguas" frente a la bendición hakka del paraguas de papel: la lógica homofónica de un mismo objeto con significados opuestos
+- **[El paño floral taiwanés](/es/culture/taiwan-floral-fabric)** — Otro patrón tradicional taiwanés que pasó del uso cotidiano a símbolo cultural
+- **[Teñido con índigo](/es/culture/taiwan-indigo-dyeing)** — Una artesanía tradicional taiwanesa que enfrenta retos de transmisión similares
 
 ## Referencias
 

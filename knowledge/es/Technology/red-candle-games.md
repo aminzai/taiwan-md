@@ -108,9 +108,9 @@ _Devotion_ sigue sin estar en Steam. Pero Red Candle sigue ahí.
 
 ## Lectura ampliada
 
-- [Industria del videojuego y entretenimiento digital de Taiwán](/technology/台灣遊戲產業與數位娛樂) — del _publishing_ a la creación original.
-- [Las dos espadas de Softstar](/technology/大宇雙劍) — la era anterior a Red Candle, cuando los videojuegos taiwaneses contaban historias en chino.
-- [Los momentos locos de los jugadores taiwaneses](/technology/台灣玩家的瘋狂時刻) — la otra cara del comportamiento colectivo del jugador taiwanés.
+- [Industria del videojuego y entretenimiento digital de Taiwán](/es/technology/taiwan-gaming-industry) — del _publishing_ a la creación original.
+- [Las dos espadas de Softstar](/es/technology/softstar-twin-classics) — la era anterior a Red Candle, cuando los videojuegos taiwaneses contaban historias en chino.
+- [Los momentos locos de los jugadores taiwaneses](/es/technology/taiwan-gamers-wildest-moments) — la otra cara del comportamiento colectivo del jugador taiwanés.
 
 ---
 

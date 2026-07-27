@@ -95,7 +95,7 @@ Para entender por qué 2026 es importante, primero hay que situar estas eleccion
 
 Cada uno de estos cinco ejes históricos aún no ha concluido. 2026 no es el final de estas historias, sino su siguiente nodo.
 
-Para el contexto histórico detallado: [/es/History/taiwan-democratization-history/](/es/History/taiwan-democratization-history/) · [/es/History/taiwan-democratization/](/es/History/taiwan-democratization/) · [/es/History/great-recall-movement-2024/](/es/History/great-recall-movement-2024/) · [/es/History/taiwan-elections-and-party-politics/](/es/History/taiwan-elections-and-party-politics/)
+Para el contexto histórico detallado: [/es/History/taiwan-democratization-history/](/es/history/taiwan-democratization-history/) · [/es/History/taiwan-democratization/](/es/history/taiwan-democratization/) · [/es/History/great-recall-movement-2024/](/es/history/great-recall-movement-2024/) · [/es/History/taiwan-elections-and-party-politics/](/es/history/taiwan-elections-and-party-politics/)
 
 ---
 
@@ -158,7 +158,7 @@ La energía de 1,3 millones de firmas no desaparece el día que termina la revoc
 
 El Partido Popular (TPP) obtuvo 8 escaños de representación proporcional en las elecciones legislativas de 2024, convirtiéndose en fuerza minoritaria clave en el Legislativo. 2026 es la primera vez que esta tercera fuerza compite en elecciones locales con la identidad de "tercer partido clave en el Legislativo" — históricamente, la base organizativa del TPP a nivel local ha sido relativamente débil. 2026 es la prueba clave de si puede traducir su nivel de apoyo en el ámbito central en escaños a nivel local.
 
-Para más detalles: [/es/History/taiwan-elections-and-party-politics/](/es/History/taiwan-elections-and-party-politics/) · [/es/History/great-recall-movement-2024/](/es/History/great-recall-movement-2024/)
+Para más detalles: [/es/History/taiwan-elections-and-party-politics/](/es/history/taiwan-elections-and-party-politics/) · [/es/History/great-recall-movement-2024/](/es/history/great-recall-movement-2024/)
 
 ---
 
@@ -278,10 +278,10 @@ Según lo que quieras saber, esta categoría tiene distintas entradas.
 [/elections/2026/](/elections/2026/) — panel / candidatos / donaciones políticas / perspectivas múltiples
 
 **Si quieres ver el contexto histórico:**
-[/es/History/taiwan-democratization-history/](/es/History/taiwan-democratization-history/) → [/es/History/taiwan-democratization/](/es/History/taiwan-democratization/) → [/es/History/great-recall-movement-2024/](/es/History/great-recall-movement-2024/) → [/es/History/taiwan-elections-and-party-politics/](/es/History/taiwan-elections-and-party-politics/)
+[/es/History/taiwan-democratization-history/](/es/history/taiwan-democratization-history/) → [/es/History/taiwan-democratization/](/es/history/taiwan-democratization/) → [/es/History/great-recall-movement-2024/](/es/history/great-recall-movement-2024/) → [/es/History/taiwan-elections-and-party-politics/](/es/history/taiwan-elections-and-party-politics/)
 
 **Si quieres ver herramientas de supervisión ciudadana:**
-[/es/Technology/open-source-and-g0v/](/es/Technology/open-source-and-g0v/) → 政治獻金透明度 (zh only — 政治獻金透明度) → [recursos externos (en /elections/2026/)](/elections/2026/)
+[/es/Technology/open-source-and-g0v/](/es/technology/open-source-and-g0v/) → 政治獻金透明度 (zh only — 政治獻金透明度) → [recursos externos (en /elections/2026/)](/elections/2026/)
 
 **Si quieres conocer el contexto político de una ciudad o condado concreto:**
 [Geography Hub](/geography) → la ciudad o condado que te interese → sección de mapa político de esa ciudad o condado (la capa de suplementos Tier 1.2 está pendiente de publicación)

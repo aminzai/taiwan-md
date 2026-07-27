@@ -235,7 +235,7 @@ La próxima vez que estés bajo una señal de parada, ya sea en Taipéi quejánd
 
 Aquel último 5658 ya se marchó. Pero mientras siga habiendo alguien que levante la mano bajo una parada, todavía hay un vehículo que les debe llegar.
 
-**Lecturas relacionadas**: [Sistema de transporte de Taiwán](/lifestyle/台灣交通系統), [Cultura de la motocicleta en Taiwán](/lifestyle/台灣機車文化), [Historia del desarrollo del metro en Taiwán](/lifestyle/台灣捷運發展史), [Autobuses turísticos](/lifestyle/遊覽車)
+**Lecturas relacionadas**: [Sistema de transporte de Taiwán](/es/lifestyle/transportation-system), [Cultura de la motocicleta en Taiwán](/es/lifestyle/taiwan-scooter-culture), [Historia del desarrollo del metro en Taiwán](/es/lifestyle/history-of-taiwan-mrt-development), [Autobuses turísticos](/es/lifestyle/tour-bus)
 
 ## Fuentes de imágenes
 

@@ -114,8 +114,8 @@ A principios de 2025, Tsai Ming-e entró en la lista de clientes para el proceso
 
 ## Lecturas adicionales
 
-- [Empresas de Taiwán: TSMC](/economy/台灣企業：台積電)
-- [Industria de semiconductores](/technology/半導體產業) — Desde la transferencia tecnológica de RCA en 1973 hasta la producción masiva de 2 nanómetros, el ecosistema completo; MediaTek es el representante del diseño de IC.
+- [Empresas de Taiwán: TSMC](/es/economy/tsmc)
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — Desde la transferencia tecnológica de RCA en 1973 hasta la producción masiva de 2 nanómetros, el ecosistema completo; MediaTek es el representante del diseño de IC.
 
 ---
 

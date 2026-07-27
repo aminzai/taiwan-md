@@ -155,7 +155,7 @@ La reacción internacional se reunió en dos días. Maya Wang, subdirectora para
 
 El propio Yuan Legislativo también se movió. El 19 de noviembre de 2025, la Comisión de Asuntos Exteriores y Defensa Nacional del Yuan Legislativo, precisamente la comisión convocada por Shen, aprobó una moción de condena propuesta por Wang Ting-yu y otros. Wang dijo durante su intervención: “**Quienes tienen opiniones distintas también tienen derecho a la protección del Estado y de la Constitución**. La República Popular China no tiene autoridad para realizar este tipo de maniobra política contra nadie con pretextos inventados”.[^49]
 
-China todavía no había incluido formalmente a Shen en la lista de recompensas de la versión hongkonesa de la Ley de Seguridad Nacional; en el mismo periodo, quienes sí recibieron recompensas de hasta 250.000 yuanes fueron el [YouTuber “Pa Chiung”](/people/八炯) y “Minnan Wolf”.[^50] Pero la combinación de investigación por “secesión” y amenaza de “captura global” de CCTV ya había empujado a Shen a una posición cercana.
+China todavía no había incluido formalmente a Shen en la lista de recompensas de la versión hongkonesa de la Ley de Seguridad Nacional; en el mismo periodo, quienes sí recibieron recompensas de hasta 250.000 yuanes fueron el [YouTuber “Pa Chiung”](/es/people/pa-chiung-political-youtuber) y “Minnan Wolf”.[^50] Pero la combinación de investigación por “secesión” y amenaza de “captura global” de CCTV ya había empujado a Shen a una posición cercana.
 
 ## El tornillo en la puerta de casa
 
@@ -252,12 +252,12 @@ En mayo de 2026 se colocó la banda de campaña para librar otra elección. Pero
 
 **Lecturas complementarias**:
 
-- [Academia Kuma](/society/黑熊學院) — organización civil de educación en defensa civil cofundada por Puma Shen y Ho Cheng-hui, una escuela que “espera que algún día Taiwán ya no la necesite”
-- [Guerra cognitiva](/society/認知作戰) — marco completo de la guerra de información del PCCh contra Taiwán; Puma Shen es uno de sus principales investigadores
-- [Pa Chiung](/people/八炯) — YouTuber taiwanés también atacado por el PCCh; en noviembre de 2025 recibió una recompensa china de hasta 250.000 yuanes
-- [Lai Ching-te](/people/賴清德) — incluido también en la lista de “secesionistas taiwaneses recalcitrantes”; en noviembre de 2025 expresó públicamente su apoyo a Puma Shen
-- [Defensa nacional y modernización militar de Taiwán](/society/台灣國防與軍事現代化) — la relación complementaria entre la educación de defensa civil de la Academia Kuma y la defensa nacional para toda la población
-- [_Estado invisible_](/art/看不見的國家) — documental que termina con taiwaneses tomando una clase de defensa civil; la Academia Kuma es la versión real de esa clase final
+- [Academia Kuma](/es/society/kuma-academy-civil-defense-school) — organización civil de educación en defensa civil cofundada por Puma Shen y Ho Cheng-hui, una escuela que “espera que algún día Taiwán ya no la necesite”
+- [Guerra cognitiva](/es/society/cognitive-warfare-against-taiwan) — marco completo de la guerra de información del PCCh contra Taiwán; Puma Shen es uno de sus principales investigadores
+- [Pa Chiung](/es/people/pa-chiung-political-youtuber) — YouTuber taiwanés también atacado por el PCCh; en noviembre de 2025 recibió una recompensa china de hasta 250.000 yuanes
+- [Lai Ching-te](/es/people/lai-ching-te) — incluido también en la lista de “secesionistas taiwaneses recalcitrantes”; en noviembre de 2025 expresó públicamente su apoyo a Puma Shen
+- [Defensa nacional y modernización militar de Taiwán](/es/society/taiwan-defense-modernization) — la relación complementaria entre la educación de defensa civil de la Academia Kuma y la defensa nacional para toda la población
+- [_Estado invisible_](/es/art/invisible-nation) — documental que termina con taiwaneses tomando una clase de defensa civil; la Academia Kuma es la versión real de esa clase final
 
 ## Fuentes de imágenes
 

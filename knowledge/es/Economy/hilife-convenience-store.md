@@ -70,8 +70,8 @@ La historia de Hi-Life no es solo la ascensión y caída de una empresa, sino un
 
 ## Lecturas Adicionales
 
-- [Cultura de los supermercados en Taiwán](/lifestyle/台灣便利商店文化) — Cómo se convirtieron los supermercados en infraestructura pública en Taiwán
-- [Boletos de lotería](/economy/發票) — La economía cotidiana de los boletos de lotería y la recolección por parte de los supermercados
+- [Cultura de los supermercados en Taiwán](/es/lifestyle/convenience-store-culture) — Cómo se convirtieron los supermercados en infraestructura pública en Taiwán
+- [Boletos de lotería](/es/economy/taiwan-uniform-invoice) — La economía cotidiana de los boletos de lotería y la recolección por parte de los supermercados
 
 ## Referencias
 

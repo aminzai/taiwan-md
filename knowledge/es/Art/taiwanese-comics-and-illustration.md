@@ -115,8 +115,8 @@ El renacimiento del cómic taiwanés es simultáneamente un asunto industrial y 
 
 ## Lectura complementaria
 
-- [Cultura del anime y manga taiwanés](/culture/台灣動漫文化) — La cultura de consumo de anime y manga desde la perspectiva del lector: cosplay, doujinshi, convenciones de anime, memoria generacional
-- [Cine taiwanés](/art/台灣電影) — Otro eje de la narrativa visual taiwanesa
+- [Cultura del anime y manga taiwanés](/es/culture/taiwan-anime-culture) — La cultura de consumo de anime y manga desde la perspectiva del lector: cosplay, doujinshi, convenciones de anime, memoria generacional
+- [Cine taiwanés](/es/art/taiwanese-cinema) — Otro eje de la narrativa visual taiwanesa
 - [Desarrollo de la literatura contemporánea taiwanesa](/art/台灣當代文學發展) — La capa escrita de la evolución de la autoconciencia creativa taiwanesa
 
 ## Referencias
@@ -137,4 +137,4 @@ El renacimiento del cómic taiwanés es simultáneamente un asunto industrial y 
 
 ---
 
-_Última verificación: 2026-04-19 (Issue #556, sugerido por @idlccp1984 para fusionar los artículos originales "Cómic e ilustración taiwanesa" + "Cómic y cultura del anime taiwés"; la sección de anime se independizó como [Cultura del anime y manga taiwanés](/culture/台灣動漫文化))_
+_Última verificación: 2026-04-19 (Issue #556, sugerido por @idlccp1984 para fusionar los artículos originales "Cómic e ilustración taiwanesa" + "Cómic y cultura del anime taiwés"; la sección de anime se independizó como [Cultura del anime y manga taiwanés](/es/culture/taiwan-anime-culture))_

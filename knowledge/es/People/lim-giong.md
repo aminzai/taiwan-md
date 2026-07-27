@@ -111,9 +111,9 @@ Aquel tren hace mucho que dejó el andén de la Estación de Taipéi. El joven d
 
 **Lecturas complementarias**:
 
-- [Hou Hsiao-hsien](/people/侯孝賢) — El primer maestro de cine de Lim Giong y figura central del Movimiento del Nuevo Cine Taiwanés
-- [Evolución de la canción en hokkien taiwanés](/music/台灣台語歌曲演進) — La ola cultural a la que pertenece "向前走" de Lim Giong, del melodrama "khaou-tiau" al rock en hokkien
-- [Chia Yung-chieh](/people/賈永婕) — Otra figura pública taiwanesa que también completó una transformación de identidad: de artista a movilizadora de gobernanza pública
+- [Hou Hsiao-hsien](/es/people/hou-hsiao-hsien) — El primer maestro de cine de Lim Giong y figura central del Movimiento del Nuevo Cine Taiwanés
+- [Evolución de la canción en hokkien taiwanés](/es/music/taiwanese-hokkien-song-evolution) — La ola cultural a la que pertenece "向前走" de Lim Giong, del melodrama "khaou-tiau" al rock en hokkien
+- [Chia Yung-chieh](/es/people/chia-yung-chieh) — Otra figura pública taiwanesa que también completó una transformación de identidad: de artista a movilizadora de gobernanza pública
 
 ## Referencias
 

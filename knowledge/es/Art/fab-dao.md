@@ -100,8 +100,8 @@ En esta isla, cien montañas se elevan hacia arriba, cien sueños están brotand
 
 - [Wang Xinren (阿亂)](/art/aluan-wang) — Creador de la serie "Cima" en el Proyecto Cien Cimas, el primer artista taiwanés de arte generativo en aparecer en Artblocks
 - [Wang Liansheng (蝦爸)](/art/wang-liansheng) — Creador del algoritmo de paisaje montañoso del Proyecto Cien Cimas, ganador del Premio Lumen 2017 en la categoría Escultura
-- [Arte en nuevos medios de Taiwán](/art/taiwan-new-media-art) — Del arte en video al arte generativo, el contexto del arte en nuevos medios taiwanés donde se sitúa FAB DAO
-- [Arte contemporáneo de Taiwán](/art/contemporary-art) — La posición del arte en blockchain en el ecosistema del arte contemporáneo taiwanés
+- [Arte en nuevos medios de Taiwán](/es/art/taiwan-new-media-art) — Del arte en video al arte generativo, el contexto del arte en nuevos medios taiwanés donde se sitúa FAB DAO
+- [Arte contemporáneo de Taiwán](/es/art/contemporary-art) — La posición del arte en blockchain en el ecosistema del arte contemporáneo taiwanés
 
 ## Referencias
 

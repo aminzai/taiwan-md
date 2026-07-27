@@ -100,7 +100,7 @@ El ministro de Relaciones Exteriores, Lin Chia-lung, en una entrevista con la ca
 
 ### Paraguay: el único en Sudamérica, sostenido por 69 años de herencia del Partido Colorado
 
-Relaciones establecidas en 1957. **El único aliado diplomático de Taiwán en Sudamérica**, ha sobrevivido más de sesenta años a la crisis de ruptura tras el golpe de Estado de 1989 y a la presión prolongada del mercado chino y la cooptación política; el contexto completo se detalla en [[Paraguay y Taiwán](/society/巴拉圭與台灣/)].
+Relaciones establecidas en 1957. **El único aliado diplomático de Taiwán en Sudamérica**, ha sobrevivido más de sesenta años a la crisis de ruptura tras el golpe de Estado de 1989 y a la presión prolongada del mercado chino y la cooptación política; el contexto completo se detalla en [[Paraguay y Taiwán](/es/society/paraguay-taiwan/)].
 
 El Partido Colorado de Paraguay ha gobernado de forma interrumpida durante más de 70 años desde 1947, y su herencia anticomunista y pro-taiwanesa es un legado estructural de la Guerra Fría. El ganador de las elecciones de 2023, Santiago Peña, era candidato del Partido Colorado; su oponente del Partido Liberal propuso revisar la política hacia Taiwán —los votantes eligieron al Partido Colorado, lo que equivalió a elegir la continuidad de las relaciones diplomáticas.
 
@@ -275,11 +275,11 @@ Sería la distancia entre esas cifras.
 
 **Lecturas complementarias**:
 
-- [[Defensa nacional y modernización militar de Taiwán](/society/台灣國防與軍事現代化)] — Cuando los aliados se reducen a 12, la autodefensa militar es otro pilar para mantener el «no ser 0»
-- [[Crisis del Estrecho y desarrollo de las relaciones entre ambas orillas](/history/台海危機與兩岸關係發展)] — Cómo tres crisis moldearon el aislamiento diplomático y la ansiedad de seguridad de Taiwán
+- [[Defensa nacional y modernización militar de Taiwán](/es/society/taiwan-defense-modernization)] — Cuando los aliados se reducen a 12, la autodefensa militar es otro pilar para mantener el «no ser 0»
+- [[Crisis del Estrecho y desarrollo de las relaciones entre ambas orillas](/es/history/taiwan-strait-crises-and-cross-strait-relations)] — Cómo tres crisis moldearon el aislamiento diplomático y la ansiedad de seguridad de Taiwán
 - [[TSMC](/business/台積電)] — La base material del escudo de silicio y su vulnerabilidad estructural
-- [[Cho Jung-tai](/people/卓榮泰)] — Trayectoria arancelaria EE. UU.-Taiwán 32→20→15 % en 2026 + coordinación del gabinete para la visita de Lai Ching-te a Esuatini
-- [[Taiwán y Esuatini](/society/台灣與史瓦帝尼)] — La historia completa de 58 años, desde el establecimiento de relaciones el mismo día en 1968 hasta la visita de Lai Ching-te en 2026, del último aliado africano entre los 12
+- [[Cho Jung-tai](/es/people/cho-jung-tai)] — Trayectoria arancelaria EE. UU.-Taiwán 32→20→15 % en 2026 + coordinación del gabinete para la visita de Lai Ching-te a Esuatini
+- [[Taiwán y Esuatini](/es/society/taiwan-eswatini-relations)] — La historia completa de 58 años, desde el establecimiento de relaciones el mismo día en 1968 hasta la visita de Lai Ching-te en 2026, del último aliado africano entre los 12
 
 ## Referencias
 

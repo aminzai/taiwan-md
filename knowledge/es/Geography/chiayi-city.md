@@ -174,19 +174,19 @@ Desde que Qianlong le dio el nombre de “Chiayi”, nunca ha abandonado su luga
 
 Contextos locales de Chiayi:
 
-- [Chen Cheng-po](/people/陳澄波) — Pintor muerto frente a la estación de tren de Chiayi en 1947; en 1926 fue el primer taiwanés seleccionado en la Exposición Imperial de Japón con pintura occidental
-- [Arroz con pavo de Chiayi](/food/嘉義火雞肉飯) — Historia completa de un alimento que en 1949 evolucionó del pollo al pavo, desde los pavos blancos de la ayuda estadounidense hasta una cocina popular característica de Chiayi
-- [Alishan: el campo forestal del imperio y la montaña de Gao Yisheng](/history/阿里山：帝國的林場與高一生的山) — La montaña que convirtió a Chiayi en una capital de la madera, y las comunidades tsou que bajaron en 1947 para ayudar a mantener el orden
+- [Chen Cheng-po](/es/people/chen-cheng-po) — Pintor muerto frente a la estación de tren de Chiayi en 1947; en 1926 fue el primer taiwanés seleccionado en la Exposición Imperial de Japón con pintura occidental
+- [Arroz con pavo de Chiayi](/es/food/chiayi-turkey-rice) — Historia completa de un alimento que en 1949 evolucionó del pollo al pavo, desde los pavos blancos de la ayuda estadounidense hasta una cocina popular característica de Chiayi
+- [Alishan: el campo forestal del imperio y la montaña de Gao Yisheng](/es/history/alishan-empire-forest-and-uongu-yatauyungana) — La montaña que convirtió a Chiayi en una capital de la madera, y las comunidades tsou que bajaron en 1947 para ayudar a mantener el orden
 
 Coordenadas históricas de mayor escala:
 
-- [Incidente del 28 de Febrero](/history/二二八事件) — Contexto histórico de la tragedia política de 1947 en todo Taiwán; Chiayi fue una de las ciudades con conflictos más intensos
-- [Cien años de transformaciones de la acuarela taiwanesa](/art/台灣水彩畫的百年流變) — La posición de la escuela pictórica de Chiayi en la historia del arte taiwanés, desde la Exposición Imperial hasta la Exposición de la Prefectura
-- [Cultura del béisbol taiwanés](/culture/台灣棒球文化) — Las coordenadas del subcampeonato de Jianong en Koshien en 1931 dentro de la historia del béisbol taiwanés
-- [Historia ferroviaria de Taiwán](/history/台灣鐵道史) — El contexto mayor de la apertura del ferrocarril longitudinal en 1908, que dio origen al monumento del trópico de Cáncer
-- [Historia del desarrollo forestal de Taiwán](/history/台灣森林開發史) — La escala mayor de los 50 años de la industria forestal de Alishan, 1914-1963
-- [Condado de Chiayi](/geography/嘉義縣) — Serie de 22 condados y ciudades, batch 2; el condado que rodea por completo esta ciudad, separado de ella en 1950 y con sede trasladada a Taibao en 1991, es la otra mitad narrativa de este artículo
-- [Ciudad de Keelung](/geography/基隆市) — Primer artículo de la serie de 22 condados y ciudades; otra ciudad portuaria comprimida por el marco de la capital, útil para comparar las distintas líneas de fractura de dos ciudades medianas
+- [Incidente del 28 de Febrero](/es/history/228-incident) — Contexto histórico de la tragedia política de 1947 en todo Taiwán; Chiayi fue una de las ciudades con conflictos más intensos
+- [Cien años de transformaciones de la acuarela taiwanesa](/es/art/century-of-taiwanese-watercolor-painting) — La posición de la escuela pictórica de Chiayi en la historia del arte taiwanés, desde la Exposición Imperial hasta la Exposición de la Prefectura
+- [Cultura del béisbol taiwanés](/es/culture/taiwan-baseball-culture) — Las coordenadas del subcampeonato de Jianong en Koshien en 1931 dentro de la historia del béisbol taiwanés
+- [Historia ferroviaria de Taiwán](/es/history/taiwan-railway-history) — El contexto mayor de la apertura del ferrocarril longitudinal en 1908, que dio origen al monumento del trópico de Cáncer
+- [Historia del desarrollo forestal de Taiwán](/es/history/taiwan-forestry-history) — La escala mayor de los 50 años de la industria forestal de Alishan, 1914-1963
+- [Condado de Chiayi](/es/geography/chiayi-county) — Serie de 22 condados y ciudades, batch 2; el condado que rodea por completo esta ciudad, separado de ella en 1950 y con sede trasladada a Taibao en 1991, es la otra mitad narrativa de este artículo
+- [Ciudad de Keelung](/es/geography/keelung-city) — Primer artículo de la serie de 22 condados y ciudades; otra ciudad portuaria comprimida por el marco de la capital, útil para comparar las distintas líneas de fractura de dos ciudades medianas
 
 ## Fuentes de imágenes
 

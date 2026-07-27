@@ -5,7 +5,15 @@ date: 2026-03-18
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '社區與日常'
-tags: ['cafetería de desayunos', 'cultura comunitaria', 'calidez humana', 'tienda de conveniencia', 'vida cotidiana', 'red comunitaria']
+tags:
+  [
+    'cafetería de desayunos',
+    'cultura comunitaria',
+    'calidez humana',
+    'tienda de conveniencia',
+    'vida cotidiana',
+    'red comunitaria',
+  ]
 readingTime: 8
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -157,9 +165,9 @@ Estos tres elementos juntos generan un papel específico:
 
 **La "base de datos no oficial" de la comunidad.**
 
-En lenguaje académico, los sociólogos llaman a esto "la fuerza de los vínculos débiles" (*the strength of weak ties*). El sociólogo estadounidense Mark Granovetter propuso este concepto en 1973: las personas suelen obtener información más diversa y útil de "aquellos con quienes no se tiene una relación cercana pero con quienes se coincide frecuentemente" que de sus amigos íntimos.[^1]
+En lenguaje académico, los sociólogos llaman a esto "la fuerza de los vínculos débiles" (_the strength of weak ties_). El sociólogo estadounidense Mark Granovetter propuso este concepto en 1973: las personas suelen obtener información más diversa y útil de "aquellos con quienes no se tiene una relación cercana pero con quienes se coincide frecuentemente" que de sus amigos íntimos.[^1]
 
-La señora de la cafetería de desayunos es la encarnación perfecta de esta teoría. No tiene una relación profunda con nadie, pero mantiene un contacto cotidiano estable con toda la calle. Es el nodo con mayor centralidad de intermediación (*betweenness centrality*) de la comunidad.
+La señora de la cafetería de desayunos es la encarnación perfecta de esta teoría. No tiene una relación profunda con nadie, pero mantiene un contacto cotidiano estable con toda la calle. Es el nodo con mayor centralidad de intermediación (_betweenness centrality_) de la comunidad.
 
 (Por supuesto, cuando Granovetter escribió su artículo probablemente no imaginó que el mejor ejemplo de su teoría sería una señora taiwanesa que, mientras volteas un huevo en la plancha, te pregunta "¿cómo te ha ido últimamente?".)
 
@@ -194,17 +202,21 @@ pero nadie te pondrá una rebanada extra de queso y dirá:
 
 ### Temas relacionados
 
-- [Cultura de las tiendas de conveniencia](/lifestyle/台灣便利商店文化)
-- [Cultura comunitaria y de barrio en Taiwán](/society/台灣社區與里文化)
-- [Cultura del desayuno en Taiwán](/food/台灣早餐文化)
-- [Cultura de mercados y mercados tradicionales en Taiwán](/lifestyle/台灣市場文化與傳統市場)
+- [Cultura de las tiendas de conveniencia](/es/lifestyle/convenience-store-culture)
+- [Cultura comunitaria y de barrio en Taiwán](/es/society/taiwan-neighborhood-and-li-culture)
+- [Cultura del desayuno en Taiwán](/es/food/taiwan-breakfast-culture)
+- [Cultura de mercados y mercados tradicionales en Taiwán](/es/lifestyle/taiwan-traditional-markets-and-market-culture)
 
 ---
 
-[^1]: Mark Granovetter, "The Strength of Weak Ties", *American Journal of Sociology*, 1973, https://www.jstor.org/stable/2776392
+[^1]: Mark Granovetter, "The Strength of Weak Ties", _American Journal of Sociology_, 1973, https://www.jstor.org/stable/2776392
+
 [^2]: Departamento de Estadísticas del Ministerio de Economía, "Encuesta sobre la situación operativa de los sectores mayorista, minorista y de restauración", https://www.moea.gov.tw/MNS/dos/home/Home.aspx
+
 [^3]: Centro de Información Fiscal del Ministerio de Hacienda, "Estadísticas del número de empresas con fines de lucro", https://www.fia.gov.tw/
+
 [^4]: The Reporter, "La desaparición y transformación de las cafeterías de desayunos en Taiwán", https://www.twreporter.org/
+
 [^5]: Taiwan Panorama, "Reportaje especial sobre la cultura del desayuno en Taiwán", https://www.taiwan-panorama.com/
 
 ## Referencias

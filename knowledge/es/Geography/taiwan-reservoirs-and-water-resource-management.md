@@ -245,6 +245,6 @@ El agua es la fuente de la vida y la base del desarrollo económico. En esta her
 
 Lecturas complementarias:
 
-- [Sistema fluvial y características hidrológicas de Taiwán](/geography/台灣河川系統與水文特色)
-- [Clima](/geography/氣候)
-- [Movimiento de placas y actividad sísmica en Taiwán](/geography/台灣板塊運動與地震活動)
+- [Sistema fluvial y características hidrológicas de Taiwán](/es/geography/taiwan-river-systems-and-hydrology)
+- [Clima](/es/geography/climate)
+- [Movimiento de placas y actividad sísmica en Taiwán](/es/geography/tectonic-plates-and-seismic-activity)

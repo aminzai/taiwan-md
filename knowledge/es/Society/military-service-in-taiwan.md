@@ -100,8 +100,8 @@ El sistema de servicio militar de Taiwán es un diálogo continuo sobre "respons
 
 ## Lecturas Adicionales
 
-- [Recuerdos del Campamento Hukou y la Ruta de la Victoria](/history/湖口營區與勝利路記憶) — Memoria cotidiana del espacio militar
-- [Academia Black Bear](/society/黑熊學院) — Versión contemporánea de la conciencia de defensa civil
+- [Recuerdos del Campamento Hukou y la Ruta de la Victoria](/es/history/hukou-camp-shengli-road-memory) — Memoria cotidiana del espacio militar
+- [Academia Black Bear](/es/society/kuma-academy-civil-defense-school) — Versión contemporánea de la conciencia de defensa civil
 
 ## Materiales de Referencia
 

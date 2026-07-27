@@ -153,5 +153,5 @@ La IA en Taiwán ya no es un tema de noticias tecnológicas. Es parte del lengua
 
 ## Lecturas complementarias
 
-- [Industria de inteligencia artificial](/technology/AI人工智慧產業)
-- [Desarrollo de la IA](/technology/AI發展)
+- [Industria de inteligencia artificial](/es/technology/artificial-intelligence-industry)
+- [Desarrollo de la IA](/es/technology/ai-development-in-taiwan)

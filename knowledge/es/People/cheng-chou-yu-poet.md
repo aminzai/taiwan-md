@@ -150,8 +150,8 @@ Premio de Literatura Juvenil, Premio Literatura Zhongshan, Premio de Recomendaci
 
 ## Lectura complementaria
 
-- [Poesía moderna taiwanesa](/art/台灣現代詩) — el panorama completo de la historia poética desde la Escuela Modernista de Ji Xian, Blue Star, Chuang Shi Ji hasta el debate sobre la literatura rural
-- [Deserts Chang y Anpu](/music/張懸與安溥) — en la lista de lecturas de Anpu figuran Cheng Chou-yu, junto con Kafka, Mishima Yukio, Shen Congwen, Bei Dao y Eliot
+- [Poesía moderna taiwanesa](/es/art/taiwanese-modern-poetry) — el panorama completo de la historia poética desde la Escuela Modernista de Ji Xian, Blue Star, Chuang Shi Ji hasta el debate sobre la literatura rural
+- [Deserts Chang y Anpu](/es/music/deserts-chang-and-anpu) — en la lista de lecturas de Anpu figuran Cheng Chou-yu, junto con Kafka, Mishima Yukio, Shen Congwen, Bei Dao y Eliot
 
 ## Créditos de imagen
 

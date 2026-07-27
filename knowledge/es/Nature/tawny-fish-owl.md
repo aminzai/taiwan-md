@@ -147,12 +147,12 @@ Y ahora, sobre una Michelia a 1.800 metros, dos polluelos están aprendiendo a a
 
 **Lecturas adicionales**:
 
-- [Ornitología de Formosa](/nature/福爾摩沙鳥類學) — El búho pescador leonado fue nombrado recién en 1916; es una de las aves residentes “descubiertas” por la historia natural recién hacia el final del periodo japonés, y permite observar la estructura temporal de la investigación ornitológica en Taiwán
-- [Salmón kokanee de Formosa](/nature/櫻花鉤吻鮭) — Ambas especies comparten el ecosistema del arroyo Qijiawan; Sun Yuan-hsun recibió en el mismo periodo encargos de Shei-Pa para estudiar las dos especies, dos extremos de una misma comunidad de hábitat
-- [Oso negro taiwanés](/nature/台灣黑熊) — También es una especie seguida durante largo tiempo por el Instituto de Conservación de Vida Silvestre de la Universidad Nacional de Ciencia y Tecnología de Pingtung, y depende de ambientes de media altitud con árboles viejos y gigantes
-- [Ecosistema forestal de Taiwán](/nature/台灣森林生態系) — En la proporción de bosque natural y árboles gigantes de más de 1 metro de diámetro a la altura del pecho, el búho pescador leonado es el emblema más dramático de las “aves de árboles viejos”
-- [Espada Yitian del río Da-an](/nature/大安溪倚天劍) — Otro viejo árbol gigante escondido en las profundidades de Shei-Pa, sobreviviente precisamente porque «las personas no pueden llegar»; ese tipo de bosque primario en valles de cabecera sin intervenir, donde la taiwania crece hasta convertirse en el árbol más alto de Asia Oriental, es precisamente el hábitat del que depende el búho pescador leonado
-- [Parques nacionales de Taiwán](/nature/台灣國家公園) — Shei-Pa, Taroko y Yushan, los tres grandes parques nacionales, son el último bastión de poblaciones estables de búho pescador leonado y un caso concreto del sistema de áreas protegidas
+- [Ornitología de Formosa](/es/nature/the-ornithology-of-formosa) — El búho pescador leonado fue nombrado recién en 1916; es una de las aves residentes “descubiertas” por la historia natural recién hacia el final del periodo japonés, y permite observar la estructura temporal de la investigación ornitológica en Taiwán
+- [Salmón kokanee de Formosa](/es/nature/formosan-landlocked-salmon) — Ambas especies comparten el ecosistema del arroyo Qijiawan; Sun Yuan-hsun recibió en el mismo periodo encargos de Shei-Pa para estudiar las dos especies, dos extremos de una misma comunidad de hábitat
+- [Oso negro taiwanés](/es/nature/taiwanese-black-bear) — También es una especie seguida durante largo tiempo por el Instituto de Conservación de Vida Silvestre de la Universidad Nacional de Ciencia y Tecnología de Pingtung, y depende de ambientes de media altitud con árboles viejos y gigantes
+- [Ecosistema forestal de Taiwán](/es/nature/taiwan-forest-ecosystems) — En la proporción de bosque natural y árboles gigantes de más de 1 metro de diámetro a la altura del pecho, el búho pescador leonado es el emblema más dramático de las “aves de árboles viejos”
+- [Espada Yitian del río Da-an](/es/nature/daan-river-yitian-sword) — Otro viejo árbol gigante escondido en las profundidades de Shei-Pa, sobreviviente precisamente porque «las personas no pueden llegar»; ese tipo de bosque primario en valles de cabecera sin intervenir, donde la taiwania crece hasta convertirse en el árbol más alto de Asia Oriental, es precisamente el hábitat del que depende el búho pescador leonado
+- [Parques nacionales de Taiwán](/es/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Shei-Pa, Taroko y Yushan, los tres grandes parques nacionales, son el último bastión de poblaciones estables de búho pescador leonado y un caso concreto del sistema de áreas protegidas
 
 ## Referencias
 

@@ -155,12 +155,12 @@ La literatura taiwanesa de este período proporcionó una acumulación sustancia
 
 ## Lecturas complementarias
 
-- [Paseo por Taiwán](/art/臺灣漫遊錄) — Novela de ficción traducida de Yang Shuangzi (2020), que convierte el viaje por el ferrocarril transinsular de Taiwán en 1938-39, durante el período colonial japonés, en una historia sobre comida y poder entre dos mujeres; reconocida internacionalmente con el National Book Award 2024 y el International Booker Prize 2026.
-- [La literatura taiwanesa de posguerra](/art/戰後台灣文學) — Cómo la corriente del período colonial japonés — Lai He, Lü Heruo, Zhang Wenhuan — se continuó tras la ruptura lingüística de 1945: la página en blanco de Ye Shitao, el modernismo, el debate sobre la literatura rural y el despertar femenino.
-- [La literatura taiwanesa tras el levantamiento de la ley marcial](/art/解嚴後台灣文學) — La explosión plural tras el fin de la ley marcial en 1987.
-- [La literatura taiwanesa contemporánea](/art/當代台灣文學) — Internacionalización en el siglo XXI, Wu Mingyi, literatura digital.
-- [Historia de la literatura taiwanesa](/art/台灣文學史) — El panorama general desde el período holandés, las dinastías Ming y Qing, el período colonial japonés hasta la actualidad.
-- [Lin Liang](/people/林良) — Pionero de la literatura infantil que cruzó el estrecho desde Xiamen tras la guerra, ofreciendo un contraste con la posición lingüística de la literatura del período colonial japonés.
+- [Paseo por Taiwán](/es/art/taiwan-travelogue) — Novela de ficción traducida de Yang Shuangzi (2020), que convierte el viaje por el ferrocarril transinsular de Taiwán en 1938-39, durante el período colonial japonés, en una historia sobre comida y poder entre dos mujeres; reconocida internacionalmente con el National Book Award 2024 y el International Booker Prize 2026.
+- [La literatura taiwanesa de posguerra](/es/art/postwar-taiwanese-literature) — Cómo la corriente del período colonial japonés — Lai He, Lü Heruo, Zhang Wenhuan — se continuó tras la ruptura lingüística de 1945: la página en blanco de Ye Shitao, el modernismo, el debate sobre la literatura rural y el despertar femenino.
+- [La literatura taiwanesa tras el levantamiento de la ley marcial](/es/art/post-martial-law-taiwanese-literature) — La explosión plural tras el fin de la ley marcial en 1987.
+- [La literatura taiwanesa contemporánea](/es/art/contemporary-taiwanese-literature) — Internacionalización en el siglo XXI, Wu Mingyi, literatura digital.
+- [Historia de la literatura taiwanesa](/es/art/history-of-taiwanese-literature) — El panorama general desde el período holandés, las dinastías Ming y Qing, el período colonial japonés hasta la actualidad.
+- [Lin Liang](/es/people/lin-liang-childrens-literature) — Pionero de la literatura infantil que cruzó el estrecho desde Xiamen tras la guerra, ofreciendo un contraste con la posición lingüística de la literatura del período colonial japonés.
 
 ---
 

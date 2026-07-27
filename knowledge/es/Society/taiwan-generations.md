@@ -169,11 +169,11 @@ El "año de nacimiento" como coordenada es finalmente solo una entrada. Es útil
 
 **Lectura adicional**:
 
-- [Generación de Taiwán con múltiples carreras](/society/台灣斜槓世代) — Matemáticas de supervivencia de los nacidos en los años 70 y 80, dividiendo un salario en tres trabajos bajo una estructura de salarios bajos
-- [Pérdida de dirección profesional de la juventud en Taiwán](/society/台灣青年的生涯迷航) — Dieciséis años de escuela, el día de la graduación la pregunta más común es "no sé qué hacer"
-- [Crisis de la baja natalidad en Taiwán](/society/台灣少子化危機) — El número de nacimientos colapsó de 420.000 a 160.000, la torta se hace cada vez más pequeña
-- [Espectro de unificación e independencia de Taiwán](/society/台灣統獨光譜) — El panorama completo de la línea divisoria de identidad, desde "quién soy" hasta "hacia dónde vamos"
-- [Wúming Xiaozhan](/culture/無名小站) — Servidor digital de la juventud de los nacidos en el año 70, cerrado en 2013, reapareció en Threads en 2025
+- [Generación de Taiwán con múltiples carreras](/es/society/taiwan-slash-generation-multi-job-economy) — Matemáticas de supervivencia de los nacidos en los años 70 y 80, dividiendo un salario en tres trabajos bajo una estructura de salarios bajos
+- [Pérdida de dirección profesional de la juventud en Taiwán](/es/society/taiwan-youth-career-confusion) — Dieciséis años de escuela, el día de la graduación la pregunta más común es "no sé qué hacer"
+- [Crisis de la baja natalidad en Taiwán](/es/society/taiwan-low-birth-rate-crisis) — El número de nacimientos colapsó de 420.000 a 160.000, la torta se hace cada vez más pequeña
+- [Espectro de unificación e independencia de Taiwán](/es/society/taiwan-unification-independence-spectrum) — El panorama completo de la línea divisoria de identidad, desde "quién soy" hasta "hacia dónde vamos"
+- [Wúming Xiaozhan](/es/culture/wretch) — Servidor digital de la juventud de los nacidos en el año 70, cerrado en 2013, reapareció en Threads en 2025
 
 ## Fuentes de las imágenes
 

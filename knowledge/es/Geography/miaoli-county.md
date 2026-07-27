@@ -203,15 +203,15 @@ El cuello duro es así: no te vas de la tierra. Aunque en esa tierra hayan ocurr
 
 ## Lecturas adicionales
 
-- [Cultura y lengua hakka](/culture/客家文化與語言) — distribución en Taiwán del acento hakka sixian, principal en Miaoli, junto con hailu, dapu y raoping; contexto de la proporción de 62,5% en Miaoli
-- [Cultura gastronómica hakka](/food/客家飲食文化) — contexto de la mesa de las aldeas hakka: fideos bantiao, intestino grueso salteado con jengibre, salteado hakka y té lei cha
-- [Mapa cultural de los 16 pueblos indígenas de Taiwán](/culture/台灣原住民族16族文化地圖) — lugar del pueblo saisiyat en la genealogía indígena de Taiwán; saisiyat del sur (Nanzhuang) vs. saisiyat del norte (Wufeng)
-- [Zhong Lihe](/people/鍾理和) — figura representativa de la literatura hakka de Miaoli; aunque Zhong Lihe era de Meinong, Kaohsiung, el marco de escritura hakka es compartido
-- [Artesanía tradicional taiwanesa y patrimonio cultural inmaterial](/culture/台灣傳統工藝與無形文化資產) — la talla en madera de Sanyi como representante de la artesanía en madera de Taiwán, y el paSta’ay saisiyat como folclore nacional importante
-- [Ciudad de Keelung](/geography/基隆市) — artículo hermano del mismo batch de la serie de 22 ciudades y condados; otro condado-ciudad dejado atrás por los giros de época
-- [Condado de Hsinchu](/geography/新竹縣) — batch 2 de la serie de 22 ciudades y condados; el condado con mayor proporción hakka (67,8%), que junto a Miaoli muestra otra experiencia hakka: la segunda fase de TSMC Baoshan junto a la fe yimin
-- [Divisiones administrativas de Taiwán](/geography/台灣行政區劃) — historia administrativa de la creación del condado de Miaoli en 1889, la reorganización de posguerra de 1950 y la elevación de Toufen en 2015
-- [Desarrollo urbano y brecha urbano-rural en Taiwán](/geography/台灣都市發展與城鄉差距) — Miaoli visto a mayor escala como “condado hakka interior con emigración poblacional” dentro de la estructura urbano-rural de Taiwán
+- [Cultura y lengua hakka](/es/culture/hakka-culture-and-language) — distribución en Taiwán del acento hakka sixian, principal en Miaoli, junto con hailu, dapu y raoping; contexto de la proporción de 62,5% en Miaoli
+- [Cultura gastronómica hakka](/es/food/hakka-food-culture) — contexto de la mesa de las aldeas hakka: fideos bantiao, intestino grueso salteado con jengibre, salteado hakka y té lei cha
+- [Mapa cultural de los 16 pueblos indígenas de Taiwán](/es/culture/indigenous-peoples-16-tribes-cultural-map) — lugar del pueblo saisiyat en la genealogía indígena de Taiwán; saisiyat del sur (Nanzhuang) vs. saisiyat del norte (Wufeng)
+- [Zhong Lihe](/es/people/zhong-lihe-nativeland-eternal-seeker) — figura representativa de la literatura hakka de Miaoli; aunque Zhong Lihe era de Meinong, Kaohsiung, el marco de escritura hakka es compartido
+- [Artesanía tradicional taiwanesa y patrimonio cultural inmaterial](/es/culture/traditional-crafts-intangible-cultural-heritage) — la talla en madera de Sanyi como representante de la artesanía en madera de Taiwán, y el paSta’ay saisiyat como folclore nacional importante
+- [Ciudad de Keelung](/es/geography/keelung-city) — artículo hermano del mismo batch de la serie de 22 ciudades y condados; otro condado-ciudad dejado atrás por los giros de época
+- [Condado de Hsinchu](/es/geography/hsinchu-county) — batch 2 de la serie de 22 ciudades y condados; el condado con mayor proporción hakka (67,8%), que junto a Miaoli muestra otra experiencia hakka: la segunda fase de TSMC Baoshan junto a la fe yimin
+- [Divisiones administrativas de Taiwán](/es/geography/administrative-divisions-of-taiwan) — historia administrativa de la creación del condado de Miaoli en 1889, la reorganización de posguerra de 1950 y la elevación de Toufen en 2015
+- [Desarrollo urbano y brecha urbano-rural en Taiwán](/es/geography/taiwan-urban-development-and-rural-urban-divide) — Miaoli visto a mayor escala como “condado hakka interior con emigración poblacional” dentro de la estructura urbano-rural de Taiwán
 
 ## Fuentes de imágenes
 

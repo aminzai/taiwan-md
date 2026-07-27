@@ -141,12 +141,12 @@ La diferencia entre esas dos respuestas es la verdadera calificación de la indu
 **Lecturas complementarias**:
 
 - [Industria de inteligencia artificial](/technology/ai人工智慧產業) — Panorama general de los cinco artículos sobre IA en Taiwán; los robots son IA encarnada, pero la "inteligencia" y el "cuerpo" son dos líneas paralelas en la industria taiwanesa
-- [Industria de semiconductores](/technology/半導體產業) — La base de todos los chips para robots, y por qué "chips fuertes no equivalen a robots fuertes" en lógica industrial
-- [Industria de drones de Taiwán](/technology/台灣無人機產業) — Otro caso de "componentes fuertes, máquinas completas débiles", que puede leerse en paralelo con la industria robótica
-- [Crisis de baja natalidad en Taiwán](/society/台灣少子化危機) — ¿Por qué el NCAIR puso el "cuidado a domicilio de personas mayores" en primer lugar? La respuesta está en la estructura demográfica
-- [Transformación y mejora industrial de Taiwán](/economy/台灣產業轉型升級) — Del ensamblaje por encargo a la marca propia, de los componentes a la integración de sistemas: el dilema estructural debatido repetidamente en las últimas dos décadas
-- [Industria de máquinas herramienta de Taiwán](/economy/台灣機械工具產業) — Las 1,500 empresas de maquinaria de precisión del Valle Dorado de Dadu Shan son la base de suministro superior para el hardware robótico
-- [Computex: de las tres grandes ferias internacionales de computación, dos cerraron; la que queda crece en Taipéi](/technology/Computex) — La edición de Computex 2026 destaca la "IA física" y la inteligencia encarnada: la cadena de suministro robótica de Taiwán pasa de ensamblar servidores de IA a ensamblar robots en este escenario anual
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — La base de todos los chips para robots, y por qué "chips fuertes no equivalen a robots fuertes" en lógica industrial
+- [Industria de drones de Taiwán](/es/technology/taiwan-drone-industry) — Otro caso de "componentes fuertes, máquinas completas débiles", que puede leerse en paralelo con la industria robótica
+- [Crisis de baja natalidad en Taiwán](/es/society/taiwan-low-birth-rate-crisis) — ¿Por qué el NCAIR puso el "cuidado a domicilio de personas mayores" en primer lugar? La respuesta está en la estructura demográfica
+- [Transformación y mejora industrial de Taiwán](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — Del ensamblaje por encargo a la marca propia, de los componentes a la integración de sistemas: el dilema estructural debatido repetidamente en las últimas dos décadas
+- [Industria de máquinas herramienta de Taiwán](/es/economy/taiwan-machine-tool-industry) — Las 1,500 empresas de maquinaria de precisión del Valle Dorado de Dadu Shan son la base de suministro superior para el hardware robótico
+- [Computex: de las tres grandes ferias internacionales de computación, dos cerraron; la que queda crece en Taipéi](/es/technology/computex-taipei) — La edición de Computex 2026 destaca la "IA física" y la inteligencia encarnada: la cadena de suministro robótica de Taiwán pasa de ensamblar servidores de IA a ensamblar robots en este escenario anual
 
 ## Referencias
 

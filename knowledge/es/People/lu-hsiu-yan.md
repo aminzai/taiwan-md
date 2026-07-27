@@ -190,11 +190,11 @@ Su promesa de “mamá se queda en casa” sigue vigente. Pero el aire contenido
 
 **Lecturas relacionadas**:
 
-- [Zheng Li‑wen](/people/鄭麗文) — Elegida presidenta del KMT en octubre 2025 con 50,15 % de los votos; la decisión de Lu de no postularse abrió su camino.
-- [Han Kuo‑yu](/people/韓國瑜) — Otro eje del “movimiento coreano” de 2018; en 2024 se convirtió en presidente de la legislatura y es uno de los “3 + 1” para 2028.
-- [Chuo Jung‑tai](/people/卓榮泰) — Primer ministro del Ejecutivo bajo Lai Ching‑te, impulsor del presupuesto de 1,25 billones para compras militares; su propuesta contrastó con el rango de Lu.
-- [Defensa y modernización militar de Taiwán](/society/台灣國防與軍事現代化) — Contexto completo del debate sobre el presupuesto de 1,25 billones, drones y capacidades asimétricas que rodeó la visita de Lu a Washington.
-- [Justicia ambiental y conflictos NIMBY en Taiwán](/society/台灣環境正義與鄰避爭議) — El caso de CTPP, PM2.5 y la transición energética que Lu abordó desde 2018 con la cuestión del aire.
+- [Zheng Li‑wen](/es/people/cheng-li-wun) — Elegida presidenta del KMT en octubre 2025 con 50,15 % de los votos; la decisión de Lu de no postularse abrió su camino.
+- [Han Kuo‑yu](/es/people/han-kuo-yu) — Otro eje del “movimiento coreano” de 2018; en 2024 se convirtió en presidente de la legislatura y es uno de los “3 + 1” para 2028.
+- [Chuo Jung‑tai](/es/people/cho-jung-tai) — Primer ministro del Ejecutivo bajo Lai Ching‑te, impulsor del presupuesto de 1,25 billones para compras militares; su propuesta contrastó con el rango de Lu.
+- [Defensa y modernización militar de Taiwán](/es/society/taiwan-defense-modernization) — Contexto completo del debate sobre el presupuesto de 1,25 billones, drones y capacidades asimétricas que rodeó la visita de Lu a Washington.
+- [Justicia ambiental y conflictos NIMBY en Taiwán](/es/society/taiwan-environmental-justice-nimby-conflicts) — El caso de CTPP, PM2.5 y la transición energética que Lu abordó desde 2018 con la cuestión del aire.
 
 ## Referencias
 

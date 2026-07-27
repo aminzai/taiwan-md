@@ -96,11 +96,11 @@ En 2019 Megaport anunció su suspensión y en 2021 volvió. Para cuando VERSE la
 
 La web oficial indica que el Megaport de 2026 está fijado para los días 21 y 22 de marzo, con el Pier-2 Art Center de Kaohsiung como localización; el cartel incluye a Sunset Rollercoaster, Kessoku Band, AiNA THE END, Fire EX., Hiromi's Sonicwonder, Käärijä, Yang Fan y Bloody Blender, entre otros. Esa lista conserva la mezcla característica de Megaport: un proyecto de banda de anime japonés, una figura mediática finlandesa de Eurovisión, rock taiwanés y memoria del pop en taiwanés pueden aparecer uno al lado del otro en el mismo fin de semana portuario.[^10]
 
-Si Megaport merece una entrada propia no es solo porque sea grande, porque cueste conseguir entradas o porque tenga un cartel vistoso. Lo más importante es que enlaza varias claves de la [cultura de festivales de Taiwán](/music/台灣音樂祭文化): la mirada local e internacional de CHTHONIC, la identidad urbana del sur de Taiwán, el ecosistema en directo de la [música independiente taiwanesa](/music/台灣獨立音樂), el regreso del taiwanés como lengua contemporánea y la posibilidad del festival como espacio público.
+Si Megaport merece una entrada propia no es solo porque sea grande, porque cueste conseguir entradas o porque tenga un cartel vistoso. Lo más importante es que enlaza varias claves de la [cultura de festivales de Taiwán](/es/music/taiwan-music-festival-culture): la mirada local e internacional de CHTHONIC, la identidad urbana del sur de Taiwán, el ecosistema en directo de la [música independiente taiwanesa](/es/music/indie-music-scene), el regreso del taiwanés como lengua contemporánea y la posibilidad del festival como espacio público.
 
 Hay festivales que parecen un programa de mano; Megaport se parece más a una ciudad temporal. En dos días, los almacenes, los muelles, el césped y los recintos de la ribera del puerto son renombrados por el sonido. Cuando se apagan las luces y se desmontan los escenarios, mucha gente vuelve al año siguiente, como quien regresa a una tierra natal que solo existe en marzo.
 
-**Lecturas complementarias**: Freddy Lim, CHTHONIC, [cultura de festivales de Taiwán](/music/台灣音樂祭文化), [música independiente taiwanesa](/music/台灣獨立音樂), [Fire EX.](/music/滅火器樂團)
+**Lecturas complementarias**: Freddy Lim, CHTHONIC, [cultura de festivales de Taiwán](/es/music/taiwan-music-festival-culture), [música independiente taiwanesa](/es/music/indie-music-scene), [Fire EX.](/es/music/fire-ex)
 
 ## Fuentes de imágenes
 

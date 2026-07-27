@@ -130,9 +130,9 @@ Alguien que ha perdido cuatrocientos millones dice estas palabras, y cada sílab
 
 ## Lecturas complementarias
 
-- [Industria del videojuego taiwanesa y entretenimiento digital](/technology/台灣遊戲產業與數位娛樂) — Panorama completo de los videojuegos taiwaneses, de la distribución a la creación original
-- [Las espadas gemelas de Softstar](/technology/大宇雙劍) — La educación emocional del RPG para un solo jugador taiwanés, la era anterior a X-Legend
-- [No se puede dormir sin antes bajar a la mazmorra](/technology/不入地窖焉能睡覺) — Treinta años de comunidades de videojuegos en Taiwán
+- [Industria del videojuego taiwanesa y entretenimiento digital](/es/technology/taiwan-gaming-industry) — Panorama completo de los videojuegos taiwaneses, de la distribución a la creación original
+- [Las espadas gemelas de Softstar](/es/technology/softstar-twin-classics) — La educación emocional del RPG para un solo jugador taiwanés, la era anterior a X-Legend
+- [No se puede dormir sin antes bajar a la mazmorra](/es/technology/into-the-cellar-taiwan-game-podcast) — Treinta años de comunidades de videojuegos en Taiwán
 
 ---
 

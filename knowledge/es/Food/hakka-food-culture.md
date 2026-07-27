@@ -130,9 +130,9 @@ Al degustar la gastronomía hakka, no solo disfrutamos de una experiencia gustat
 
 ## Lecturas complementarias
 
-- [Alimentos fermentados y cultura del encurtido en Taiwán](/food/台灣發酵食品與醃製文化): la ciencia y la cultura de los alimentos encurtidos en Taiwán
-- [La cultura del té](/food/茶文化): la evolución de la cultura del té en Taiwán
-- [La comida callejera taiwanesa](/food/台灣小吃): la diversidad de la cultura de los puestos callejeros en Taiwán
+- [Alimentos fermentados y cultura del encurtido en Taiwán](/es/food/taiwan-fermented-and-pickled-foods): la ciencia y la cultura de los alimentos encurtidos en Taiwán
+- [La cultura del té](/es/food/golden-age-echoes-taiwan-tea-culture): la evolución de la cultura del té en Taiwán
+- [La comida callejera taiwanesa](/es/food/taiwanese-street-food): la diversidad de la cultura de los puestos callejeros en Taiwán
 
 ## Referencias
 

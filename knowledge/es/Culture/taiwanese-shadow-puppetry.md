@@ -76,9 +76,9 @@ Cuando Chang Te-cheng murió en 1995 había pasado más de setenta años desde s
 
 **Lecturas complementarias**
 
-- [Budaixi (布袋戲)](/culture/布袋戲) — Otro teatro tradicional de marionetas que también atravesó la represión del kominka, el veto televisivo y la reconversión comercial; ambos forman las dos grandes ramas del teatro tradicional de marionetas en Taiwán
-- [Cultura de festividades religiosas y comparsas zhentou en Taiwán](/culture/台灣廟會與陣頭文化) — El teatro de sombras se representó por primera vez en los atrios de los templos; las festividades religiosas son el punto de partida común de todas las artes escénicas tradicionales taiwanesas
-- [Cultura y lengua hakka](/culture/客家文化與語言) — Otra cara de la cultura étnica del sur de Taiwán, parte del mismo ecosistema cultural en el que vive el teatro de sombras de la rama del sur de Fujian
+- [Budaixi (布袋戲)](/es/culture/taiwanese-glove-puppetry-budaixi) — Otro teatro tradicional de marionetas que también atravesó la represión del kominka, el veto televisivo y la reconversión comercial; ambos forman las dos grandes ramas del teatro tradicional de marionetas en Taiwán
+- [Cultura de festividades religiosas y comparsas zhentou en Taiwán](/es/culture/taiwan-temple-festivals-and-performance-troupes) — El teatro de sombras se representó por primera vez en los atrios de los templos; las festividades religiosas son el punto de partida común de todas las artes escénicas tradicionales taiwanesas
+- [Cultura y lengua hakka](/es/culture/hakka-culture-and-language) — Otra cara de la cultura étnica del sur de Taiwán, parte del mismo ecosistema cultural en el que vive el teatro de sombras de la rama del sur de Fujian
 
 ## Referencias
 

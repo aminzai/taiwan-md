@@ -223,11 +223,11 @@ Un niño de Tamsui llegó a Minnesota con su madre alrededor de los 15 años y, 
 
 ## Lecturas complementarias
 
-- [Jensen Huang](/people/黃仁勳): el orgullo taiwanés que hace correr más rápido la IA, la cara del hardware
-- [Morris Chang](/people/張忠謀): fundador de los semiconductores de Taiwán, la montaña cuya posición, en palabras de Chi Huai-hsin, "es muy difícil de sacudir"
-- [Industria de la inteligencia artificial](/technology/AI人工智慧產業): la posición de Taiwán en la cadena global de suministro de IA
-- [Desarrollo de la inteligencia artificial en Taiwán y estrategias futuras](/technology/台灣人工智慧發展與未來策略): el panorama general de la IA taiwanesa
-- [La IA en la vida cotidiana de Taiwán](/technology/台灣AI日常): cómo la IA ya entró en la vida de las personas en Taiwán
+- [Jensen Huang](/es/people/jensen-huang): el orgullo taiwanés que hace correr más rápido la IA, la cara del hardware
+- [Morris Chang](/es/people/tsmc-morris-chang): fundador de los semiconductores de Taiwán, la montaña cuya posición, en palabras de Chi Huai-hsin, "es muy difícil de sacudir"
+- [Industria de la inteligencia artificial](/es/technology/artificial-intelligence-industry): la posición de Taiwán en la cadena global de suministro de IA
+- [Desarrollo de la inteligencia artificial en Taiwán y estrategias futuras](/es/technology/artificial-intelligence-development-strategy): el panorama general de la IA taiwanesa
+- [La IA en la vida cotidiana de Taiwán](/es/technology/taiwan-ai-in-daily-life): cómo la IA ya entró en la vida de las personas en Taiwán
 
 ## Referencias
 

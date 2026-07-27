@@ -358,7 +358,7 @@ La fuerza motriz de la modernización agrícola taiwanesa ha sido siempre la pre
 
 **Lecturas complementarias**:
 
-- [Crisis climática y transición hacia cero emisiones netas en Taiwán](/nature/台灣氣候危機與淨零轉型) — Impactos del cambio climático sobre la agricultura y la pesca, y conflictos de uso de la tierra provocados por las políticas de coexistencia entre agricultura y energía fotovoltaica
+- [Crisis climática y transición hacia cero emisiones netas en Taiwán](/es/nature/taiwan-climate-change-net-zero-transition) — Impactos del cambio climático sobre la agricultura y la pesca, y conflictos de uso de la tierra provocados por las políticas de coexistencia entre agricultura y energía fotovoltaica
 
 ## Referencias
 

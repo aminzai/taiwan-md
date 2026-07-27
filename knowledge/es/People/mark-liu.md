@@ -39,7 +39,7 @@ En esas tres décadas, los procesos avanzados de TSMC pasaron de la era de los m
 
 ## La sucesión bajo un sistema dual
 
-En 2018, [[Morris Chang](/es/People/tsmc-morris-chang/)] anunció su jubilación y TSMC activó un sistema de doble liderazgo: Liu asumió la presidencia del consejo y [[C.C. Wei](/es/People/cc-wei/)] fue nombrado presidente.[^2] La división de funciones era clara: Liu se encargaba de la estrategia global y las relaciones externas, mientras que Wei dirigía la ejecución operativa.
+En 2018, [[Morris Chang](/es/people/tsmc-morris-chang/)] anunció su jubilación y TSMC activó un sistema de doble liderazgo: Liu asumió la presidencia del consejo y [[C.C. Wei](/es/people/cc-wei/)] fue nombrado presidente.[^2] La división de funciones era clara: Liu se encargaba de la estrategia global y las relaciones externas, mientras que Wei dirigía la ejecución operativa.
 
 Este diseño fue interpretado en su momento como una transición ordenada para TSMC, pero pronto se vio obligado a tomar decisiones mucho más complejas que cualquier planificación bajo la presión de la geopolítica. 2018 fue precisamente el año en que la guerra comercial entre EE.UU. y China estalló por completo, y cada decisión clave de TSMC en los siguientes seis años tuvo que convencer simultáneamente a tres direcciones: Washington, Beijing y Taipéi.
 
@@ -81,7 +81,7 @@ Una persona puede decir en seis años algo como «nadie puede controlar TSMC por
 
 ## «Por favor, compren acciones de TSMC»: el relevo a C.C. Wei
 
-En junio de 2024, Mark Liu dejó formalmente la presidencia del consejo de TSMC, y [[C.C. Wei](/es/People/cc-wei/)] asumió el mando en solitario.[^6] La era del doble liderazgo de TSMC llegó así a su fin.
+En junio de 2024, Mark Liu dejó formalmente la presidencia del consejo de TSMC, y [[C.C. Wei](/es/people/cc-wei/)] asumió el mando en solitario.[^6] La era del doble liderazgo de TSMC llegó así a su fin.
 
 El día de su jubilación, alguien le preguntó si tenía algún mensaje que dar. Él sonrió y dijo: «**Por favor, compren acciones de TSMC.**»[^7] Las acciones de TSMC cerraron ese día en 839 dólares taiwaneses, y él no vendió ni una sola de sus acciones, con un patrimonio estimado de más de 10.000 millones de dólares taiwaneses.
 

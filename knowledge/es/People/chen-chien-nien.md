@@ -203,11 +203,11 @@ Las canciones que dejó su abuelo materno no las “heredó” con gestos grandi
 
 **Lecturas complementarias**:
 
-- [A-Mei](/people/張惠妹) — También pinuyumayan, también de Taitung, pero por un camino completamente opuesto: la diva pinuyumayan que fue de la comunidad Nanwang al escenario más grande de Asia
-- [Cantautores indígenas contemporáneos](/music/當代原住民創作歌手) — Mapa generacional de la música indígena taiwanesa desde los márgenes hacia la corriente principal después de la década de 1990
-- [Música folklórica y canciones populares de Taiwán](/music/台灣民謠與歌謠) — Incluye el lugar de creadores indígenas de la década de 1950, como Lu Sen-bao, en la historia de la canción popular taiwanesa
-- [Música independiente taiwanesa](/music/台灣獨立音樂) — Cómo sellos independientes como Trees Music construyeron otra ruta fuera de la industria musical dominante
-- [Música popular y Golden Melody Awards](/music/金曲獎) — Cómo el sistema de los Golden Melody Awards incorporó la creación musical indígena
+- [A-Mei](/es/people/a-mei) — También pinuyumayan, también de Taitung, pero por un camino completamente opuesto: la diva pinuyumayan que fue de la comunidad Nanwang al escenario más grande de Asia
+- [Cantautores indígenas contemporáneos](/es/music/contemporary-indigenous-singer-songwriters) — Mapa generacional de la música indígena taiwanesa desde los márgenes hacia la corriente principal después de la década de 1990
+- [Música folklórica y canciones populares de Taiwán](/es/music/Taiwan Folk Music and Songs) — Incluye el lugar de creadores indígenas de la década de 1950, como Lu Sen-bao, en la historia de la canción popular taiwanesa
+- [Música independiente taiwanesa](/es/music/indie-music-scene) — Cómo sellos independientes como Trees Music construyeron otra ruta fuera de la industria musical dominante
+- [Música popular y Golden Melody Awards](/es/music/pop-music-and-golden-melody-awards) — Cómo el sistema de los Golden Melody Awards incorporó la creación musical indígena
 
 ## Referencias
 

@@ -76,8 +76,8 @@ Sin embargo, con el paso del tiempo, algunos historiadores señalan que mitifica
 
 ## Lectura complementaria
 
-- [Industria de semiconductores](/technology/半導體產業) — Para comprender la trayectoria de la industria de alta tecnología impulsada por Sun Yun-suan, Li Guoding y el ITRI.
-- [Sistema de transporte de Taiwán](/lifestyle/台灣交通系統) — Para contrastar los Diez Grandes Proyectos de Construcción con el pensamiento en infraestructura bajo la gobernanza tecnocrática de la posguerra.
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — Para comprender la trayectoria de la industria de alta tecnología impulsada por Sun Yun-suan, Li Guoding y el ITRI.
+- [Sistema de transporte de Taiwán](/es/lifestyle/transportation-system) — Para contrastar los Diez Grandes Proyectos de Construcción con el pensamiento en infraestructura bajo la gobernanza tecnocrática de la posguerra.
 
 ## Referencias
 

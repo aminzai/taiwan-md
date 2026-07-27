@@ -107,7 +107,7 @@ Si lo que «Stars Gathering» hizo en 1962 fue llevar el cabaré a la sala de es
 
 ## Lectura complementaria
 
-- [林宥嘉](/people/林宥嘉) — Campeón de la primera edición de «Super Star Avenue» (超級星光大道) en 2007, uno de los casos más representativos del mecanismo de creación de estrellas mediante concursos televisivos en Taiwán
+- [林宥嘉](/es/people/yoga-lin) — Campeón de la primera edición de «Super Star Avenue» (超級星光大道) en 2007, uno de los casos más representativos del mecanismo de creación de estrellas mediante concursos televisivos en Taiwán
 
 ## Referencias
 

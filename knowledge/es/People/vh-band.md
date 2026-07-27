@@ -115,10 +115,10 @@ El título de "banda de salida" fue otorgado por los fans, no fue una autodesign
 
 **Lecturas complementarias**:
 
-- [草東沒有派對](/people/草東沒有派對) — El mismo escenario independiente taiwanés de finales de la década de 2010: la ruta del rock político frente a la ruta suave de VH como contrapunto
-- [魏如萱](/people/魏如萱) — Músico independiente taiwanés que sigue igualmente el camino de "la obra primero, la exposición segundo"
-- [台灣獨立音樂](/music/台灣獨立音樂) — El contexto del ecosistema en el que VH surgió
-- [Hello Nico](/people/Hello-Nico) — Misma generación de la escena independiente: tras ocho años de silencio, regresaron en 2024 con _Plan B_, otro contrapunto entre suavidad y represión
+- [草東沒有派對](/es/people/no-party-for-cao-dong) — El mismo escenario independiente taiwanés de finales de la década de 2010: la ruta del rock político frente a la ruta suave de VH como contrapunto
+- [魏如萱](/es/people/waa-wei-singer) — Músico independiente taiwanés que sigue igualmente el camino de "la obra primero, la exposición segundo"
+- [台灣獨立音樂](/es/music/indie-music-scene) — El contexto del ecosistema en el que VH surgió
+- [Hello Nico](/es/people/hello-nico-band) — Misma generación de la escena independiente: tras ocho años de silencio, regresaron en 2024 con _Plan B_, otro contrapunto entre suavidad y represión
 
 ## Referencias
 

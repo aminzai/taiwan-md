@@ -170,15 +170,15 @@ La próxima vez que pienses en Taoyuan, no pienses solo en el aeropuerto. Piensa
 
 ## Lectura adicional
 
-- [Ciudad de Keelung](/geography/基隆市) — Serie piloto de 22 condados y ciudades: en 1979, cuando se inauguró el aeropuerto de Taoyuan, la puerta exterior de Taiwán se trasladó del puerto de Keelung a Taoyuan, y el puerto de Keelung cayó del séptimo puesto mundial al 113.
-- [Condado de Hsinchu](/geography/新竹縣) — El condado vecino del borde sur de los hakka de Taoyuan: en 1895, Jiang Shaozu partió de Beipu, Hsinchu, hacia el norte para participar en la Batalla de Dakengkan.
-- [Ciudad de Hsinchu](/geography/新竹市) — Junto con Taoyuan, constituye el centro de la distribución hakka del norte; en 1875, la región de Taoyuan fue transferida a la jurisdicción del condado de Hsinchu.
-- [Condado de Miaoli](/geography/苗栗縣) — Hermano de la serie de 22 condados y ciudades, lote 1: punto de partida de la franja de inmigrantes hakka que avanzaron desde Miaoli hacia Taoyuan; Wu Tangxing avanzó hacia el norte en 1895 para resistir a los japoneses.
-- [Condado de Nantou](/geography/南投縣) — Serie de 22 condados y ciudades, lote 3: el único condado sin costa frente a la meseta de entrada y salida de Taoyuan; un contraste entre dos tipos de «frontera».
-- [Cultura y lengua hakka](/culture/客家文化與語言) — Más de 800.000 hakka en Taoyuan, la mayor cifra nacional.
-- [Trabajadores migrantes](/society/移工) — 132.158 trabajadores migrantes en Taoyuan, la mayor cifra nacional.
-- [Guerra Sino-Japonesa de 1895](/history/乙未之役) — La resistencia antijaponesa hakka de Jiang Shaozu, Wu Tangxing y Jiang Guohui en Dakengkan, Taoyuan, en 1895.
-- [Chiang Kai-shek](/people/蔣中正) — Fallecido en 1975 y enterrado en Cihu, Daxi, Taoyuan; hoy el Parque Conmemorativo de Estatuas de Cihu alberga las estatuas de bronce de Chiang Kai-shek retiradas de todo Taiwán.
+- [Ciudad de Keelung](/es/geography/keelung-city) — Serie piloto de 22 condados y ciudades: en 1979, cuando se inauguró el aeropuerto de Taoyuan, la puerta exterior de Taiwán se trasladó del puerto de Keelung a Taoyuan, y el puerto de Keelung cayó del séptimo puesto mundial al 113.
+- [Condado de Hsinchu](/es/geography/hsinchu-county) — El condado vecino del borde sur de los hakka de Taoyuan: en 1895, Jiang Shaozu partió de Beipu, Hsinchu, hacia el norte para participar en la Batalla de Dakengkan.
+- [Ciudad de Hsinchu](/es/geography/hsinchu-city) — Junto con Taoyuan, constituye el centro de la distribución hakka del norte; en 1875, la región de Taoyuan fue transferida a la jurisdicción del condado de Hsinchu.
+- [Condado de Miaoli](/es/geography/miaoli-county) — Hermano de la serie de 22 condados y ciudades, lote 1: punto de partida de la franja de inmigrantes hakka que avanzaron desde Miaoli hacia Taoyuan; Wu Tangxing avanzó hacia el norte en 1895 para resistir a los japoneses.
+- [Condado de Nantou](/es/geography/nantou-county) — Serie de 22 condados y ciudades, lote 3: el único condado sin costa frente a la meseta de entrada y salida de Taoyuan; un contraste entre dos tipos de «frontera».
+- [Cultura y lengua hakka](/es/culture/hakka-culture-and-language) — Más de 800.000 hakka en Taoyuan, la mayor cifra nacional.
+- [Trabajadores migrantes](/es/society/migrant-workers-in-taiwan) — 132.158 trabajadores migrantes en Taoyuan, la mayor cifra nacional.
+- [Guerra Sino-Japonesa de 1895](/es/history/1895-taiwan-resistance-war) — La resistencia antijaponesa hakka de Jiang Shaozu, Wu Tangxing y Jiang Guohui en Dakengkan, Taoyuan, en 1895.
+- [Chiang Kai-shek](/es/people/chiang-kai-shek) — Fallecido en 1975 y enterrado en Cihu, Daxi, Taoyuan; hoy el Parque Conmemorativo de Estatuas de Cihu alberga las estatuas de bronce de Chiang Kai-shek retiradas de todo Taiwán.
 
 ## Créditos de imágenes
 

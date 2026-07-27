@@ -212,11 +212,11 @@ El 8 de agosto de 2025 publicaron sin aviso su quinto álbum completo, _QUIT QUI
 
 **Lecturas relacionadas**:
 
-- [Música independiente taiwanesa](/music/台灣獨立音樂) — Eje de desarrollo de la música independiente taiwanesa desde Crystal Records en los años ochenta hasta Sunset Rollercoaster, No Party for Cao Dong y Collage en la década de 2020
-- [Cultura de festivales musicales en Taiwán](/music/台灣音樂祭文化) — Cambios en la escena de los festivales musicales taiwaneses, desde Spring Scream y Megaport Festival hasta el Hohaiyan Rock Festival de Gongliao
-- [Música popular taiwanesa](/music/台灣流行音樂) — Historia del pop taiwanés desde el movimiento de la canción folk de los años setenta hasta la era del streaming en la década de 2020
-- [La industria musical taiwanesa y la era del streaming](/music/台灣音樂產業與串流時代) — Mecanismos de alcance global de las bandas taiwanesas en la era del algoritmo de Spotify
-- [Deserts Chang y Anpu](/music/張懸與安溥) — Compañeros de escenario de Kuo-Kuo durante su etapa como guitarrista de Algae entre 2012 y 2016
+- [Música independiente taiwanesa](/es/music/indie-music-scene) — Eje de desarrollo de la música independiente taiwanesa desde Crystal Records en los años ochenta hasta Sunset Rollercoaster, No Party for Cao Dong y Collage en la década de 2020
+- [Cultura de festivales musicales en Taiwán](/es/music/taiwan-music-festival-culture) — Cambios en la escena de los festivales musicales taiwaneses, desde Spring Scream y Megaport Festival hasta el Hohaiyan Rock Festival de Gongliao
+- [Música popular taiwanesa](/es/music/golden-melodies-legacy-taiwan-pop-music) — Historia del pop taiwanés desde el movimiento de la canción folk de los años setenta hasta la era del streaming en la década de 2020
+- [La industria musical taiwanesa y la era del streaming](/es/music/taiwan-music-industry-and-the-streaming-era) — Mecanismos de alcance global de las bandas taiwanesas en la era del algoritmo de Spotify
+- [Deserts Chang y Anpu](/es/music/deserts-chang-and-anpu) — Compañeros de escenario de Kuo-Kuo durante su etapa como guitarrista de Algae entre 2012 y 2016
 
 ---
 

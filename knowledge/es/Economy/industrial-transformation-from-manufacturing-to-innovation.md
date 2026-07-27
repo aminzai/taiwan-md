@@ -218,13 +218,13 @@ MediaTech se separó de United Microelectronics Corporation (UMC) en 1997, inici
 
 ## Lecturas adicionales
 
-- [Industria de semiconductores](/technology/半導體產業) — Desde la transferencia de tecnología de RCA en 1976 hasta la cuota de mercado del 60% global en 2024, cómo la industria central nacida en el Parque Científico de Hsinchu se convirtió en el "Dios de la Protección Nacional"
-- [Morris Chang](/people/張忠謀) — La figura clave que fundó TSMC en 1987, el impulsor central desde cero de la industria de semiconductores de Taiwán
-- [Shih Ming-teh](/people/施振榮) — El autor de la Curva de la Sonrisa: dibujó la línea para que Taiwán saliera del segmento central de subcontratación, pero apostó su patrimonio en TSMC, que hace "manufactura en el segmento central"
-- [Comercio exterior de Taiwán y cadena de suministro global](/economy/台灣外貿與全球供應鏈) — La trayectoria a largo plazo desde las divisas de las zonas de exportación procesada hasta la fuerza motriz de las exportaciones de semiconductores en 2024
-- [Ecosistema de startups](/economy/新創生態系) — Otra ruta de la transformación de la manufactura a potencia innovadora: el desarrollo de startups y semiconductores _fabless_ desde la década de 1990
-- [Desarrollo y estrategia futura de la inteligencia artificial en Taiwán](/technology/台灣人工智慧發展與未來策略) — La siguiente ola de transformación industrial post-2024: la disposición estratégica de extender la hegemonía de hardware a las aplicaciones de IA
-- [Programa de Liderazgo en Startups de SLP Taipei](/economy/SLP台北創業領導計畫) — Un programa de formación para startups cuyo costo único subió de 6.000 a 58.000 yuanes; la curva de costos es en sí misma la escala física de la evolución del ecosistema de startups de Taiwán desde la creación hasta la institucionalización
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — Desde la transferencia de tecnología de RCA en 1976 hasta la cuota de mercado del 60% global en 2024, cómo la industria central nacida en el Parque Científico de Hsinchu se convirtió en el "Dios de la Protección Nacional"
+- [Morris Chang](/es/people/tsmc-morris-chang) — La figura clave que fundó TSMC en 1987, el impulsor central desde cero de la industria de semiconductores de Taiwán
+- [Shih Ming-teh](/es/people/stan-shih) — El autor de la Curva de la Sonrisa: dibujó la línea para que Taiwán saliera del segmento central de subcontratación, pero apostó su patrimonio en TSMC, que hace "manufactura en el segmento central"
+- [Comercio exterior de Taiwán y cadena de suministro global](/es/economy/taiwan-foreign-trade-and-global-supply-chain) — La trayectoria a largo plazo desde las divisas de las zonas de exportación procesada hasta la fuerza motriz de las exportaciones de semiconductores en 2024
+- [Ecosistema de startups](/es/economy/taiwan-startup-ecosystem-overview) — Otra ruta de la transformación de la manufactura a potencia innovadora: el desarrollo de startups y semiconductores _fabless_ desde la década de 1990
+- [Desarrollo y estrategia futura de la inteligencia artificial en Taiwán](/es/technology/artificial-intelligence-development-strategy) — La siguiente ola de transformación industrial post-2024: la disposición estratégica de extender la hegemonía de hardware a las aplicaciones de IA
+- [Programa de Liderazgo en Startups de SLP Taipei](/es/economy/slp-taipei-startup-leadership-program) — Un programa de formación para startups cuyo costo único subió de 6.000 a 58.000 yuanes; la curva de costos es en sí misma la escala física de la evolución del ecosistema de startups de Taiwán desde la creación hasta la institucionalización
 
 ---
 

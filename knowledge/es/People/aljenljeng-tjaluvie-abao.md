@@ -195,14 +195,14 @@ Para ella misma es así, para la próxima generación de músicos indígenas es 
 
 **Lecturas complementarias**:
 
-- [魏如萱](/people/魏如萱) — Otro camino en el pop en mandarín de la misma generación para «hacer audible lo no estándar» (la voz de muñeca de魏如萱 × la electrónica en lengua materna de Abao: dos lenguas para expandir los límites del sonido)
-- [陳建騏](/people/陳建騏) — Contraste con la identidad de «autor ausente» del productor de pop en mandarín (陳建騏 trabaja los límites sonoros del pop generalista en mandarín; Abao hace future pop en lengua materna)
-- [周子瑜](/people/周子瑜) — El otro extremo de las estrategias de identidad de las músicas taiwanesas de la misma generación (la industrialización del K-pop de 周子瑜 vs. la identidad étnica × producción local de Abao)
-- [Golden Melody Awards](/music/金曲獎) — El significado estructural de que el premio al Álbum del Año de la 31.ª edición de los Golden Melody fuera ganado por primera vez por una obra en lengua indígena
-- [台灣流行音樂](/music/台灣流行音樂) — El punto de inflexión de 2020 en el que la música en lengua indígena pasó de la periferia al escenario principal
-- [台灣原住民族16族文化地圖](/culture/台灣原住民族16族文化地圖) — La lengua, las aldeas y las formas artísticas del pueblo puman en su estado contemporáneo
+- [魏如萱](/es/people/waa-wei-singer) — Otro camino en el pop en mandarín de la misma generación para «hacer audible lo no estándar» (la voz de muñeca de魏如萱 × la electrónica en lengua materna de Abao: dos lenguas para expandir los límites del sonido)
+- [陳建騏](/es/people/chen-chien-chi-music-producer) — Contraste con la identidad de «autor ausente» del productor de pop en mandarín (陳建騏 trabaja los límites sonoros del pop generalista en mandarín; Abao hace future pop en lengua materna)
+- [周子瑜](/es/people/tzuyu) — El otro extremo de las estrategias de identidad de las músicas taiwanesas de la misma generación (la industrialización del K-pop de 周子瑜 vs. la identidad étnica × producción local de Abao)
+- [Golden Melody Awards](/es/music/pop-music-and-golden-melody-awards) — El significado estructural de que el premio al Álbum del Año de la 31.ª edición de los Golden Melody fuera ganado por primera vez por una obra en lengua indígena
+- [台灣流行音樂](/es/music/golden-melodies-legacy-taiwan-pop-music) — El punto de inflexión de 2020 en el que la música en lengua indígena pasó de la periferia al escenario principal
+- [台灣原住民族16族文化地圖](/es/culture/indigenous-peoples-16-tribes-cultural-map) — La lengua, las aldeas y las formas artísticas del pueblo puman en su estado contemporáneo
 - [原住民族語言政策](/society/原住民族語言政策) — El contexto político de la revitalización de las lenguas indígenas y su complementariedad con la práctica musical al estilo Abao
-- [黃少雍](/people/黃少雍) — Coproductor de «kinakaian 母親的舌頭»; el curso «MINETJUS 電音製作解密» de electrónica en lengua indígena que ambos impulsaron ha llegado ya a su quinta edición
+- [黃少雍](/es/people/huang-shao-yong-musician) — Coproductor de «kinakaian 母親的舌頭»; el curso «MINETJUS 電音製作解密» de electrónica en lengua indígena que ambos impulsaron ha llegado ya a su quinta edición
 
 ## Referencias
 

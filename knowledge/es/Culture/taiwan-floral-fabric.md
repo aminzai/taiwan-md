@@ -153,8 +153,8 @@ Hoy, cuando volvemos a contemplar esas vibrantes peonías, elegantes crisantemos
 
 **Lecturas complementarias**:
 
-- [Tinte índigo](/es/culture/藍染) — Otro oficio de tintorería que también fue simplificado como símbolo de un único grupo étnico y cuyos orígenes resultaron ser más complejos de lo que se pensaba
-- [Artesanía tradicional y patrimonio cultural inmaterial de Taiwán](/es/culture/台灣傳統工藝與無形文化資產) — El contexto del sistema de preservación de oficios al que se enfrentan tanto el tejido floral como el tinte índigo
+- [Tinte índigo](/es/culture/taiwan-indigo-dyeing) — Otro oficio de tintorería que también fue simplificado como símbolo de un único grupo étnico y cuyos orígenes resultaron ser más complejos de lo que se pensaba
+- [Artesanía tradicional y patrimonio cultural inmaterial de Taiwán](/es/culture/traditional-crafts-intangible-cultural-heritage) — El contexto del sistema de preservación de oficios al que se enfrentan tanto el tejido floral como el tinte índigo
 
 ## Referencias
 

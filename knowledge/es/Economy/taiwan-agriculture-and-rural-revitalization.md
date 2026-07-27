@@ -239,8 +239,8 @@ Ante los desafíos simultáneos de la globalización y el cambio climático, la 
 
 ## Lecturas complementarias
 
-- [Pequeñas y medianas empresas de Taiwán y campeones ocultos](/economy/台灣中小企業與隱形冠軍)
-- [Comercio exterior de Taiwán y cadenas globales de suministro](/economy/台灣外貿與全球供應鏈)
+- [Pequeñas y medianas empresas de Taiwán y campeones ocultos](/es/economy/taiwan-smes-and-hidden-champions)
+- [Comercio exterior de Taiwán y cadenas globales de suministro](/es/economy/taiwan-foreign-trade-and-global-supply-chain)
 
 ## Referencias
 

@@ -214,10 +214,10 @@ Esa montaña Brokeback nunca fue removida. Ese padre que se opuso toda la vida a
 
 **Lecturas complementarias**:
 
-- [Cine taiwanés](/art/台灣電影) — El panorama completo desde el cine en taiwanés y el realismo saludable hasta la Nueva Ola taiwanesa y el cine contemporáneo: la tradición que Ang Lee heredó y llevó al mundo.
-- [Hou Hsiao-hsien](/people/侯孝賢) — Figura central de la Nueva Ola taiwanesa de la misma generación, que eligió un camino autoral radicalmente distinto al de Ang Lee.
-- [Edward Yang](/people/楊德昌) — Director que diseccionó la ansiedad moderna de Taiwán a través de una ciudad, otra cumbre de la Nueva Ola taiwanesa.
-- [Tsai Ming-liang](/people/蔡明亮) — Director taiwanés de autor que llevó la soledad y la lentitud al extremo, en un trayecto casi opuesto al camino hollywoodense de Ang Lee.
+- [Cine taiwanés](/es/art/taiwanese-cinema) — El panorama completo desde el cine en taiwanés y el realismo saludable hasta la Nueva Ola taiwanesa y el cine contemporáneo: la tradición que Ang Lee heredó y llevó al mundo.
+- [Hou Hsiao-hsien](/es/people/hou-hsiao-hsien) — Figura central de la Nueva Ola taiwanesa de la misma generación, que eligió un camino autoral radicalmente distinto al de Ang Lee.
+- [Edward Yang](/es/people/yang-dechang) — Director que diseccionó la ansiedad moderna de Taiwán a través de una ciudad, otra cumbre de la Nueva Ola taiwanesa.
+- [Tsai Ming-liang](/es/people/tsai-ming-liang) — Director taiwanés de autor que llevó la soledad y la lentitud al extremo, en un trayecto casi opuesto al camino hollywoodense de Ang Lee.
 
 ## Fuentes de imágenes
 

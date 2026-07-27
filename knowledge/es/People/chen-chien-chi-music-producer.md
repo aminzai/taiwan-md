@@ -200,16 +200,16 @@ En 2021 dijo "los Golden Melody me esperaban a mí". Una formulación más preci
 
 **Lecturas complementarias**:
 
-- [Waa Wei](/people/魏如萱) — La materialización de la relación de mentoría de más de 25 años de Chen Chien-chi como productor; la misma trayectoria sonora desde Natural Q hasta _Pearl Punishment_
-- [LaLa Hsu](/people/徐佳瑩) — El punto de partida de Chen Chien-chi en la producción de música pop (〈Lost Desert〉, 2008)
-- [Hebe Tien](/people/田馥甄) — _Nobody Knows_, por la que Chen Chien-chi ganó el Mejor Productor de Álbum en los Golden Melody 2021
-- [Rainie Yang](/people/楊丞琳) — Contraste en la construcción de identidad de una cantante de música pop en chino de la misma generación (Yang como productora de sí misma, Chen como productor de otros)
-- [Música pop y Premios Golden Melody](/music/金曲獎) — Las coordenadas completas de los tres Golden Melody de Chen Chien-chi, que abarcan arreglo / sencillo / álbum
-- [Música pop taiwanesa](/music/台灣流行音樂) — El contexto histórico de la línea sonora roja que Chen Chien-chi eliminó de la música pop en chino durante 25 años
-- [Música independiente taiwanesa](/music/台灣獨立音樂) — La posición de los sellos "Good Many Music" y "HerMusic" de Chen Chien-chi en el ecosistema de la música independiente
-- [Ko Chih-tang](/people/柯智棠) — Cantante de folk británico del que Chen Chien-chi produjo tres álbumes completos; co-ganador del premio al tema original de los Golden Bell 2025 con 〈God's Reply〉
-- [Yoga Lin](/people/林宥嘉) — Chen Chien-chi participó en las producciones de _Storyteller_ (2012) y _Open for Business Today_ (2016); la trayectoria de Lin de cantante producido a productor de sí mismo
-- [Huang Shao-yung](/people/黃少雍) — El otro productor principal de _Pearl Punishment_; mientras Chen Chien-chi eliminó la línea roja para las voces en chino, Huang Shao-yung eliminó la misma línea para las lenguas no chinas (paiwan, amis, taiwanés)
+- [Waa Wei](/es/people/waa-wei-singer) — La materialización de la relación de mentoría de más de 25 años de Chen Chien-chi como productor; la misma trayectoria sonora desde Natural Q hasta _Pearl Punishment_
+- [LaLa Hsu](/es/people/lala-hsu-singer) — El punto de partida de Chen Chien-chi en la producción de música pop (〈Lost Desert〉, 2008)
+- [Hebe Tien](/es/people/hebe-tien-singer) — _Nobody Knows_, por la que Chen Chien-chi ganó el Mejor Productor de Álbum en los Golden Melody 2021
+- [Rainie Yang](/es/people/rainie-yang) — Contraste en la construcción de identidad de una cantante de música pop en chino de la misma generación (Yang como productora de sí misma, Chen como productor de otros)
+- [Música pop y Premios Golden Melody](/es/music/pop-music-and-golden-melody-awards) — Las coordenadas completas de los tres Golden Melody de Chen Chien-chi, que abarcan arreglo / sencillo / álbum
+- [Música pop taiwanesa](/es/music/golden-melodies-legacy-taiwan-pop-music) — El contexto histórico de la línea sonora roja que Chen Chien-chi eliminó de la música pop en chino durante 25 años
+- [Música independiente taiwanesa](/es/music/indie-music-scene) — La posición de los sellos "Good Many Music" y "HerMusic" de Chen Chien-chi en el ecosistema de la música independiente
+- [Ko Chih-tang](/es/people/ke-zhi-tang-musician) — Cantante de folk británico del que Chen Chien-chi produjo tres álbumes completos; co-ganador del premio al tema original de los Golden Bell 2025 con 〈God's Reply〉
+- [Yoga Lin](/es/people/yoga-lin) — Chen Chien-chi participó en las producciones de _Storyteller_ (2012) y _Open for Business Today_ (2016); la trayectoria de Lin de cantante producido a productor de sí mismo
+- [Huang Shao-yung](/es/people/huang-shao-yong-musician) — El otro productor principal de _Pearl Punishment_; mientras Chen Chien-chi eliminó la línea roja para las voces en chino, Huang Shao-yung eliminó la misma línea para las lenguas no chinas (paiwan, amis, taiwanés)
 
 ## Referencias
 

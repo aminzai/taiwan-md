@@ -90,8 +90,8 @@ Con el paso del tiempo, el arroz con aceite también enfrenta los retos de la mo
 
 **Lecturas complementarias**:
 
-- [Comida callejera taiwanesa](/food/台灣小吃) — el contexto cultural de la comida callejera taiwanesa a la que pertenece el arroz con aceite
-- [Cocina de manos taiwanesa (_shoulucai_)](/food/台灣手路菜) — la posición técnica del arroz con aceite en la cultura del banquete al aire libre y su contexto en el menú festivo
+- [Comida callejera taiwanesa](/es/food/taiwanese-street-food) — el contexto cultural de la comida callejera taiwanesa a la que pertenece el arroz con aceite
+- [Cocina de manos taiwanesa (_shoulucai_)](/es/food/taiwan-specialty-home-cooking) — la posición técnica del arroz con aceite en la cultura del banquete al aire libre y su contexto en el menú festivo
 
 ## Referencias
 

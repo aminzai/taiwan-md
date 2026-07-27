@@ -90,7 +90,7 @@ Esta protesta a orillas del río Zhuoshui aún no ha concluido. Es la crisis de 
 
 ## Lecturas complementarias
 
-- [Ética de los zoológicos y animales de exhibición](/society/動物園與展演動物倫理) — Otro caso de tensión entre "conservación y desarrollo" del mismo tipo (la tortuga caja en este artículo vs. animales en cautiverio en aquel)
+- [Ética de los zoológicos y animales de exhibición](/es/society/zoo-and-exhibition-animal-ethics) — Otro caso de tensión entre "conservación y desarrollo" del mismo tipo (la tortuga caja en este artículo vs. animales en cautiverio en aquel)
 
 ## Referencias
 

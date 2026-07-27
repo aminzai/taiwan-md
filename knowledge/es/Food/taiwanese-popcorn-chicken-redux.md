@@ -91,9 +91,9 @@ Hace cincuenta años, Chen Ting-chih probablemente no imaginó que aquel carrito
 
 ## Lecturas relacionadas
 
-- [Cultura de los mercados nocturnos](/food/夜市文化) — El principal escenario de circulación del pollo salado crujiente y el núcleo del ecosistema del aperitivo nocturno taiwanés
-- [Cultura del desayuno en Taiwán](/food/台灣早餐文化) — De la madrugada a la medianoche, el contraste entre las dos franjas alimentarias más importantes de Taiwán
-- [La cultura de las tiendas de conveniencia en Taiwán](/lifestyle/台灣便利商店文化) — Los puestos de pollo salado crujiente y las tiendas de conveniencia componen juntos el paisaje gastronómico de las 24 horas en Taiwán
+- [Cultura de los mercados nocturnos](/es/food/night-market-culture) — El principal escenario de circulación del pollo salado crujiente y el núcleo del ecosistema del aperitivo nocturno taiwanés
+- [Cultura del desayuno en Taiwán](/es/food/taiwan-breakfast-culture) — De la madrugada a la medianoche, el contraste entre las dos franjas alimentarias más importantes de Taiwán
+- [La cultura de las tiendas de conveniencia en Taiwán](/es/lifestyle/convenience-store-culture) — Los puestos de pollo salado crujiente y las tiendas de conveniencia componen juntos el paisaje gastronómico de las 24 horas en Taiwán
 
 ## Referencias
 

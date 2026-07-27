@@ -112,9 +112,9 @@ Cuando eso ocurre, el problema de la planificación urbana deja de ser solo "si 
 
 **Lecturas complementarias**:
 
-- [Sistema de transporte de Taiwán](/lifestyle/台灣交通系統) — YouBike es el último tramo de este sistema; este artículo aporta el contexto más amplio de aguas arriba.
-- [Historia del desarrollo del metro de Taiwán](/lifestyle/台灣捷運發展史) — ¿Por qué YouBike debe conectarse con el MRT? Cómo esa conexión se convirtió en infraestructura cotidiana.
-- [Crisis climática y transición a cero emisiones en Taiwán](/nature/台灣氣候危機與淨零轉型) — El lugar de la micromovilidad dentro de ese 28 % de transporte verde.
+- [Sistema de transporte de Taiwán](/es/lifestyle/transportation-system) — YouBike es el último tramo de este sistema; este artículo aporta el contexto más amplio de aguas arriba.
+- [Historia del desarrollo del metro de Taiwán](/es/lifestyle/history-of-taiwan-mrt-development) — ¿Por qué YouBike debe conectarse con el MRT? Cómo esa conexión se convirtió en infraestructura cotidiana.
+- [Crisis climática y transición a cero emisiones en Taiwán](/es/nature/taiwan-climate-change-net-zero-transition) — El lugar de la micromovilidad dentro de ese 28 % de transporte verde.
 
 ## Referencias
 

@@ -147,6 +147,6 @@ Y aquel año comenzaron a aparecer respuestas.
 
 ## Temas relacionados
 
-- [Movimiento del Girasol](/society/太陽花學運): cómo, 24 años después, otra generación reabre el debate institucional.
-- [Sistema democrático](/society/民主制度): las reglas democráticas actuales de Taiwán y su construcción gradual.
-- [Sistema político y electoral de Taiwán](/society/台灣政治環境與選舉制度): del "Parlamento Eterno" a la renovación total.
+- [Movimiento del Girasol](/es/society/sunflower-movement): cómo, 24 años después, otra generación reabre el debate institucional.
+- [Sistema democrático](/es/society/democratic-system): las reglas democráticas actuales de Taiwán y su construcción gradual.
+- [Sistema político y electoral de Taiwán](/es/society/taiwan-political-landscape-and-electoral-system): del "Parlamento Eterno" a la renovación total.

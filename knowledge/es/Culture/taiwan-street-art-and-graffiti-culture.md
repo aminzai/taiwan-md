@@ -90,4 +90,4 @@ Las tecnologías digitales abren nuevas posibilidades. Proyecciones dinámicas e
 ## Lecturas complementarias
 
 - [台灣當代藝術](/culture/台灣當代藝術) — Intersección entre el arte callejero y el arte contemporáneo en Taiwán
-- [台灣電子音樂與派對文化](/music/台灣電子音樂與派對文化) — Escena de música electrónica que comparte raíces subculturales con el arte callejero
+- [台灣電子音樂與派對文化](/es/music/taiwan-electronic-music-and-party-culture) — Escena de música electrónica que comparte raíces subculturales con el arte callejero

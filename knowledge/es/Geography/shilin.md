@@ -226,15 +226,15 @@ La próxima vez que estés a las siete y media de la noche en la entrada del mer
 
 **Lecturas complementarias**:
 
-- [Ciudad de Taipéi](/geography/台北市) — panorama de sus 12 distritos; antes de incorporarse a la ciudad de Taipéi en 1968, Shilin estaba bajo la administración de Yangmingshan
-- [Cultura de calles antiguas y distritos comerciales de Taiwán](/culture/台灣老街文化與商業街區) — archivo principal sobre cultura de calles antiguas; la nueva calle de Shilin es uno de los pocos mercados urbanos integrales de Taiwán cuya planificación puede rastrearse hasta el año gengshen de 1860
-- [Bangka](/geography/艋舺) — artículo hermano del mismo batch 1; el conflicto Ding-Xia de 1853 fue el preludio de las luchas Zhangzhou-Quanzhou de 1859, otro vértice del triángulo de las tres calles-mercado
-- [Dadaocheng](/geography/大稻埕) — artículo hermano del mismo batch 1; en 1853 los tong’an refugiados llegaron aquí para abrir un puerto comercial, dentro de la misma cadena estructural que llevó a los zhangzhou de Shilin a huir de la calle antigua a la nueva
-- [Ximending](/geography/西門町) — artículo hermano del mismo batch 1; distrito japonés de entretenimiento de 1896 frente al mercado japonés de subsistencia de Shilin de 1909: dos estructuras materiales dejadas por los japoneses
-- [Religión y cultura de templos en Taiwán](/culture/台灣宗教與寺廟文化) — el templo Cixian es un nodo importante de la devoción a Mazu en Taipéi, junto con el templo Xiahai del dios de la ciudad en Dadaocheng y el templo Longshan en Bangka
-- [Incidente del 28 de Febrero](/history/二二八事件) — contexto de época posterior a 1947: gran llegada de personas de otras provincias chinas a Shilin, ampliación de Wenlin Road y creación de la Residencia Oficial de Shilin
-- [Período Qing](/history/清治時期) — trasfondo de un siglo de dominio Qing: colonización han entre 1796 y 1895, luchas Zhangzhou-Quanzhou y planificación de la nueva calle por Pan Yongqing
-- [Dalongdong](/geography/大龍峒) — centro defensivo al que se retiraron los tong’an derrotados en el conflicto Ding-Xia de 1853; junto con las luchas Zhangzhou-Quanzhou de Shilin en 1859, forma dos paisajes de conflicto intergrupal del norte de Taiwán bajo los Qing
+- [Ciudad de Taipéi](/es/geography/taipei-city) — panorama de sus 12 distritos; antes de incorporarse a la ciudad de Taipéi en 1968, Shilin estaba bajo la administración de Yangmingshan
+- [Cultura de calles antiguas y distritos comerciales de Taiwán](/es/culture/taiwan-historic-streets-and-commercial-districts) — archivo principal sobre cultura de calles antiguas; la nueva calle de Shilin es uno de los pocos mercados urbanos integrales de Taiwán cuya planificación puede rastrearse hasta el año gengshen de 1860
+- [Bangka](/es/geography/bangka) — artículo hermano del mismo batch 1; el conflicto Ding-Xia de 1853 fue el preludio de las luchas Zhangzhou-Quanzhou de 1859, otro vértice del triángulo de las tres calles-mercado
+- [Dadaocheng](/es/geography/dadaocheng) — artículo hermano del mismo batch 1; en 1853 los tong’an refugiados llegaron aquí para abrir un puerto comercial, dentro de la misma cadena estructural que llevó a los zhangzhou de Shilin a huir de la calle antigua a la nueva
+- [Ximending](/es/geography/ximending) — artículo hermano del mismo batch 1; distrito japonés de entretenimiento de 1896 frente al mercado japonés de subsistencia de Shilin de 1909: dos estructuras materiales dejadas por los japoneses
+- [Religión y cultura de templos en Taiwán](/es/culture/taiwan-religion-and-temple-culture) — el templo Cixian es un nodo importante de la devoción a Mazu en Taipéi, junto con el templo Xiahai del dios de la ciudad en Dadaocheng y el templo Longshan en Bangka
+- [Incidente del 28 de Febrero](/es/history/228-incident) — contexto de época posterior a 1947: gran llegada de personas de otras provincias chinas a Shilin, ampliación de Wenlin Road y creación de la Residencia Oficial de Shilin
+- [Período Qing](/es/history/qing-dynasty-rule) — trasfondo de un siglo de dominio Qing: colonización han entre 1796 y 1895, luchas Zhangzhou-Quanzhou y planificación de la nueva calle por Pan Yongqing
+- [Dalongdong](/es/geography/dalongdong) — centro defensivo al que se retiraron los tong’an derrotados en el conflicto Ding-Xia de 1853; junto con las luchas Zhangzhou-Quanzhou de Shilin en 1859, forma dos paisajes de conflicto intergrupal del norte de Taiwán bajo los Qing
 
 ## Referencias
 

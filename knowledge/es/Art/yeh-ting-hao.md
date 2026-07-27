@@ -221,12 +221,12 @@ La persona que se esforzaba ya no está. Pero las herramientas que dejó, las co
 
 **Lecturas complementarias**:
 
-- [Arte de nuevos medios en Taiwán](/art/台灣新媒體藝術) — Cuatro décadas de arte de nuevos medios en Taiwán, desde Wang Fujui y Huang Wen-Hao en la década de 1980 hasta Yeh Ting-Hao y Wang Lien-Sheng en la década de 2020
-- [Wang Fujui](/people/王福瑞) — Fundador del sello de música experimental 《Noise》 en 1993, guía espiritual del arte sonoro taiwanés y maestro de Yeh Ting-Hao en el Instituto de Arte y Tecnología de la Universidad Nacional de las Artes de Taipéi
-- [Wang Lien-Sheng](/art/王連晟) — Compañero generacional de Yeh Ting-Hao en i/O Lab y responsable principal de Lacking Sound Festival en 2009-2010; en 2017 ganó el Lumen Prize de Londres con 《Reading Plan》
-- [Paisaje sonoro de Taiwán](/music/台灣聲音地景) — La evolución del paisaje sonoro taiwanés, del sonido al audiovisual, del ruido al arte generativo
-- [Desierto digital](/art/數位荒原) — Plataforma crítica de arte de nuevos medios taiwanés de la misma generación, que registró los discursos sobre obras clave de la generación de Yeh Ting-Hao
-- [Música electrónica y cultura de fiestas en Taiwán](/music/台灣電子音樂與派對文化) — El contexto taiwanés de techno, electrónica experimental y fiestas en el que se ubicaba el dúo HH
+- [Arte de nuevos medios en Taiwán](/es/art/taiwan-new-media-art) — Cuatro décadas de arte de nuevos medios en Taiwán, desde Wang Fujui y Huang Wen-Hao en la década de 1980 hasta Yeh Ting-Hao y Wang Lien-Sheng en la década de 2020
+- [Wang Fujui](/es/people/fujui-wang) — Fundador del sello de música experimental 《Noise》 en 1993, guía espiritual del arte sonoro taiwanés y maestro de Yeh Ting-Hao en el Instituto de Arte y Tecnología de la Universidad Nacional de las Artes de Taipéi
+- [Wang Lien-Sheng](/es/art/wang-lien-cheng-artist) — Compañero generacional de Yeh Ting-Hao en i/O Lab y responsable principal de Lacking Sound Festival en 2009-2010; en 2017 ganó el Lumen Prize de Londres con 《Reading Plan》
+- [Paisaje sonoro de Taiwán](/es/music/taiwan-soundscape) — La evolución del paisaje sonoro taiwanés, del sonido al audiovisual, del ruido al arte generativo
+- [Desierto digital](/es/art/no-mans-land-art-platform) — Plataforma crítica de arte de nuevos medios taiwanés de la misma generación, que registró los discursos sobre obras clave de la generación de Yeh Ting-Hao
+- [Música electrónica y cultura de fiestas en Taiwán](/es/music/taiwan-electronic-music-and-party-culture) — El contexto taiwanés de techno, electrónica experimental y fiestas en el que se ubicaba el dúo HH
 
 ## Fuentes de las imágenes
 

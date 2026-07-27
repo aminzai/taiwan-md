@@ -216,11 +216,11 @@ The dishes have already proven they can enter five-star hotels, fly to Californi
 
 **Further Reading**:
 
-- [Taiwanese Hand-Path Dishes](/food/台灣手路菜)
-- [Hulao](/food/刈包)
-- [Taiwanese Seafood Culture](/food/台灣海鮮文化)
-- [Night Market Culture](/food/夜市文化)
-- [Chen Yu-Hsun](/people/陳玉勳)
+- [Taiwanese Hand-Path Dishes](/es/food/taiwan-specialty-home-cooking)
+- [Hulao](/es/food/gua-bao)
+- [Taiwanese Seafood Culture](/es/food/taiwan-seafood-culture)
+- [Night Market Culture](/es/food/night-market-culture)
+- [Chen Yu-Hsun](/es/people/chen-yu-hsun-taiwan-comedy-film-magician)
 
 ## Image Sources
 

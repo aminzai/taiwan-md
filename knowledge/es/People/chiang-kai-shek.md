@@ -60,7 +60,7 @@ Bajo la ley marcial, los taiwaneses perdieron libertades básicas de reunión, a
 
 ---
 
-## [二二八事件](/es/History/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory/): el problema imposible de evadir
+## [二二八事件](/es/history/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory/): el problema imposible de evadir
 
 El 28 de febrero de 1947, un enfrentamiento contra contrabando en Taipéi desencadenó una rebelión armada en toda la isla. El descontento de la población local tras la ocupación posterior a la guerra encontró una salida ese día.
 
@@ -78,7 +78,7 @@ El número de muertos sigue sin una cifra exacta; las estimaciones varían entre
 
 ---
 
-## [台灣白色恐怖](/es/History/taiwan-white-terror/): el juez supremo
+## [台灣白色恐怖](/es/history/taiwan-white-terror/): el juez supremo
 
 Tras el 28 de febrero, el terror no cesó.
 
@@ -219,7 +219,7 @@ Sus estatuas están siendo retiradas. Pero los caminos, las escuelas y las herid
 
 ---
 
-**Lecturas complementarias:** [二二八事件](/es/History/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory/) · [台灣白色恐怖](/es/History/taiwan-white-terror/) · [戒嚴時期](/es/History/martial-law-era/) · [台灣民主轉型](/es/History/taiwan-democratization/) · [台灣轉型正義](/es/History/taiwan-transitional-justice/) · [美麗島事件](/es/History/kaohsiung-incident-formosa-incident/) · [李登輝](/es/People/lee-teng-hui/)
+**Lecturas complementarias:** [二二八事件](/es/history/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory/) · [台灣白色恐怖](/es/history/taiwan-white-terror/) · [戒嚴時期](/es/history/martial-law-era/) · [台灣民主轉型](/es/history/taiwan-democratization/) · [台灣轉型正義](/es/history/taiwan-transitional-justice/) · [美麗島事件](/es/history/kaohsiung-incident-formosa-incident/) · [李登輝](/es/people/lee-teng-hui/)
 
 ---
 

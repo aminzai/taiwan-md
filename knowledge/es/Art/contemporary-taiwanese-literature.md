@@ -110,9 +110,9 @@ Chen Si-hong escribe en chino desde Berlín sobre Yongjing, Changhua; Wu Ming-yi
 
 ## Lectura complementaria
 
-- [Literatura taiwanesa tras la levantamiento de la ley marcial](/art/解嚴後台灣文學) — La generación intermedia (1987-2000) de estallido plural (novela política, femenina, indígena, en lenguas maternas), de la que Lo Yi-chun, Zhu Tianwen y Zhu Tianxin maduraron
-- [Literatura taiwanesa de posguerra](/art/戰後台灣文學) — Los 42 años entre 1945 y 1987: desde la afasia, el modernismo, el debate sobre literatura rural hasta el despertar femenino
-- [Historia de la literatura taiwanesa](/art/台灣文學史) — El panorama general desde el periodo holandés, las dinastías Ming y Qing, el periodo colonial japonés, la posguerra hasta la contemporaneidad
+- [Literatura taiwanesa tras la levantamiento de la ley marcial](/es/art/post-martial-law-taiwanese-literature) — La generación intermedia (1987-2000) de estallido plural (novela política, femenina, indígena, en lenguas maternas), de la que Lo Yi-chun, Zhu Tianwen y Zhu Tianxin maduraron
+- [Literatura taiwanesa de posguerra](/es/art/postwar-taiwanese-literature) — Los 42 años entre 1945 y 1987: desde la afasia, el modernismo, el debate sobre literatura rural hasta el despertar femenino
+- [Historia de la literatura taiwanesa](/es/art/history-of-taiwanese-literature) — El panorama general desde el periodo holandés, las dinastías Ming y Qing, el periodo colonial japonés, la posguerra hasta la contemporaneidad
 
 ## Referencias
 

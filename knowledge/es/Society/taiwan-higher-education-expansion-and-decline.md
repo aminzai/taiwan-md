@@ -226,9 +226,9 @@ Para abrir las puertas, Taiwán usó diez años. Para aprender cómo cerrarlas, 
 
 **Lecturas adicionales**:
 
-- [Crisis de la baja tasa de natalidad en Taiwán](/society/台灣少子化危機) — El muro demográfico que derriba universidades: cómo se formó y hacia dónde va.
-- [Sistema educativo y cultura de admisiones](/society/教育制度與升學文化) — El estrecho acceso del examen nacional y el academicismo; precisamente lo que la expansión quería flexibilizar.
-- [Pobreza de aprendizaje](/society/學習貧窮) — Tras la masificación de los títulos, ¿dónde se esconde la verdadera brecha de aprendizaje?
+- [Crisis de la baja tasa de natalidad en Taiwán](/es/society/taiwan-low-birth-rate-crisis) — El muro demográfico que derriba universidades: cómo se formó y hacia dónde va.
+- [Sistema educativo y cultura de admisiones](/es/society/education-system-and-admissions-culture) — El estrecho acceso del examen nacional y el academicismo; precisamente lo que la expansión quería flexibilizar.
+- [Pobreza de aprendizaje](/es/society/learning-poverty-in-taiwan) — Tras la masificación de los títulos, ¿dónde se esconde la verdadera brecha de aprendizaje?
 
 ---
 

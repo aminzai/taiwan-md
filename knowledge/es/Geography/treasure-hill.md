@@ -212,12 +212,12 @@ Treasure Hill no fue demolido porque suficientes personas no permitieron que lo 
 
 **Lecturas complementarias**:
 
-- [Ciudad de Taipéi: tres tiempos dentro de una ciudad, el templo Longshan de 1738 mirando al 101 de 2004](/geography/台北市) — La posición de Treasure Hill dentro de los 12 distritos, colocada en paralelo con las tres líneas temporales de Monga, Dadaocheng y Xinyi
-- [Desarrollo de los parques culturales y creativos de Taiwán](/culture/台灣文化創意園區發展) — Leer Treasure Hill junto con Sisinan Village, Huashan y Songshan Cultural and Creative Park como estudios de caso taiwaneses de «aldeas de dependientes militares / ruinas industriales convertidas en cultura creativa»
-- [Dadaocheng: 800 metros que contienen tres siglos de Taipéi](/geography/大稻埕) — Barrio histórico sibling del batch 1: la calle comercial del té de 1851 y el asentamiento ilegal de la década de 1960 son dos «momentos de formación urbana» completamente distintos
-- [Monga: el lugar más animado de Taipéi bajo dominio Qing](/geography/艋舺) — Sibling del batch 1: el paisaje de fe Qing del templo Longshan de 1738 y el templo de Guanyin de Treasure Hill de 1791 son centros de culto de migrantes Zhangzhou y Quanzhou del mismo período
-- [Ximending: la calle de entretenimiento construida por los japoneses en 1896](/geography/西門町) — Sibling del batch 1: distrito de ocio planificado durante el período japonés vs. asentamiento ilegal autoconstruido de posguerra, dos contrastes de «personas que la planificación urbana no veía»
-- [Gongguan](/geography/公館) — El círculo de consumo de académicos y estudiantes 800 metros al norte, y el asentamiento ilegal de Treasure Hill, son dos ecologías espaciales completamente distintas alrededor de la Universidad Nacional de Taiwán
+- [Ciudad de Taipéi: tres tiempos dentro de una ciudad, el templo Longshan de 1738 mirando al 101 de 2004](/es/geography/taipei-city) — La posición de Treasure Hill dentro de los 12 distritos, colocada en paralelo con las tres líneas temporales de Monga, Dadaocheng y Xinyi
+- [Desarrollo de los parques culturales y creativos de Taiwán](/es/culture/taiwan-cultural-creative-park-development) — Leer Treasure Hill junto con Sisinan Village, Huashan y Songshan Cultural and Creative Park como estudios de caso taiwaneses de «aldeas de dependientes militares / ruinas industriales convertidas en cultura creativa»
+- [Dadaocheng: 800 metros que contienen tres siglos de Taipéi](/es/geography/dadaocheng) — Barrio histórico sibling del batch 1: la calle comercial del té de 1851 y el asentamiento ilegal de la década de 1960 son dos «momentos de formación urbana» completamente distintos
+- [Monga: el lugar más animado de Taipéi bajo dominio Qing](/es/geography/bangka) — Sibling del batch 1: el paisaje de fe Qing del templo Longshan de 1738 y el templo de Guanyin de Treasure Hill de 1791 son centros de culto de migrantes Zhangzhou y Quanzhou del mismo período
+- [Ximending: la calle de entretenimiento construida por los japoneses en 1896](/es/geography/ximending) — Sibling del batch 1: distrito de ocio planificado durante el período japonés vs. asentamiento ilegal autoconstruido de posguerra, dos contrastes de «personas que la planificación urbana no veía»
+- [Gongguan](/es/geography/gongguan) — El círculo de consumo de académicos y estudiantes 800 metros al norte, y el asentamiento ilegal de Treasure Hill, son dos ecologías espaciales completamente distintas alrededor de la Universidad Nacional de Taiwán
 
 ## Fuentes de imágenes
 

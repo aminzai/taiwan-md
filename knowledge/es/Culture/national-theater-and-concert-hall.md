@@ -73,9 +73,9 @@ Liu Yi-ju también afirmó en una entrevista: "Las normas tradicionales de no ir
 
 **Lecturas complementarias**:
 
-- [Salón Conmemorativo de Chiang Kai-shek](/history/中正紀念堂) — También diseñado por Yang Cho-cheng y construido en la misma época: núcleo del paisaje político de Chiang Kai-shek y de los debates sobre justicia transicional
-- [Período de Ley Marcial](/history/戒嚴時期) — 1987, el año en que se inauguró el recinto, fue también el año en que Taiwán levantó la ley marcial; comprender ese contexto político ayuda a leer el sentido histórico del edificio
-- [Budaixi (布袋戲)](/culture/布袋戲) — Otra forma de las artes escénicas taiwanesas, una tradición de teatro popular que coexiste con los grandes recintos como el Teatro y Sala de Conciertos Nacionales
+- [Salón Conmemorativo de Chiang Kai-shek](/es/history/chiang-kai-shek-memorial-hall) — También diseñado por Yang Cho-cheng y construido en la misma época: núcleo del paisaje político de Chiang Kai-shek y de los debates sobre justicia transicional
+- [Período de Ley Marcial](/es/history/martial-law-era) — 1987, el año en que se inauguró el recinto, fue también el año en que Taiwán levantó la ley marcial; comprender ese contexto político ayuda a leer el sentido histórico del edificio
+- [Budaixi (布袋戲)](/es/culture/taiwanese-glove-puppetry-budaixi) — Otra forma de las artes escénicas taiwanesas, una tradición de teatro popular que coexiste con los grandes recintos como el Teatro y Sala de Conciertos Nacionales
 
 ## Referencias
 

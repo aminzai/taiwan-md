@@ -327,8 +327,8 @@ Esta ruta no está completa: sigue faltando talento de investigación de IA de a
 
 **Lecturas complementarias**:
 
-- [Wu Zheyu](/people/吳哲宇) — cómo un artista de nuevos medios insiste en actuar como relojero en una “era de proliferación de generación por IA”, otra perspectiva creativa fuera de la industria de la IA
-- [Escuela de Inteligencia Artificial de Taiwán](/technology/台灣人工智慧學校) — Cómo el «descenso al mundo» de Chen Sheng-wei y la recaudación civil de 180 millones de NTD complementan la línea de producción de talento fuera de la estrategia gubernamental de IA
+- [Wu Zheyu](/es/people/che-yu-wu) — cómo un artista de nuevos medios insiste en actuar como relojero en una “era de proliferación de generación por IA”, otra perspectiva creativa fuera de la industria de la IA
+- [Escuela de Inteligencia Artificial de Taiwán](/es/technology/taiwan-ai-academy) — Cómo el «descenso al mundo» de Chen Sheng-wei y la recaudación civil de 180 millones de NTD complementan la línea de producción de talento fuera de la estrategia gubernamental de IA
 
 ## Referencias
 

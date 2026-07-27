@@ -135,11 +135,11 @@ La acumulación de 12 años de una plataforma periférica es más importante que
 
 ## Lecturas complementarias
 
-- [Curadores taiwaneses y construcción cultural artística](/art/台灣策展人與藝術文化建構) — desarrollo discursivo y tendencias de la generación de curadores taiwenses como Kao Sen-nan (asesor editorial de NML)
-- [Arte de nuevos medios en Taiwán](/art/台灣新媒體藝術) — cuarenta años de historia del arte digital taiwanés, desde el video de Yuan Guangming hasta el arte generativo y la realidad virtual; la trayectoria crítica de Cheng Wen-chi corre paralela a esta línea principal
-- [Paisaje sonoro de Taiwán](/music/台灣聲音地景) — artistas sonoros como Wang Fu-rui, Yao Chung-han y Chang Yung-da, cuyas obras han sido reseñadas en profundidad en la categoría Sound Scene de _No Man's Land_
-- [Arte contemporáneo](/art/當代藝術) — nivel panorámico del ecosistema general del arte contemporáneo taiwanés; al superponer el marco de archipiélago de Cheng Wen-chi se obtiene un mapa discursivo completo
-- [Arte contemporáneo indígena taiwanés](/art/台灣原住民當代藝術) — un área poco cubierta por NML; al leerla puede contrastarse la "hipótesis del origen austronesio" con la intersección potencial del marco del archipiélago
+- [Curadores taiwaneses y construcción cultural artística](/es/art/taiwanese-curators-and-artistic-cultural-construction) — desarrollo discursivo y tendencias de la generación de curadores taiwenses como Kao Sen-nan (asesor editorial de NML)
+- [Arte de nuevos medios en Taiwán](/es/art/taiwan-new-media-art) — cuarenta años de historia del arte digital taiwanés, desde el video de Yuan Guangming hasta el arte generativo y la realidad virtual; la trayectoria crítica de Cheng Wen-chi corre paralela a esta línea principal
+- [Paisaje sonoro de Taiwán](/es/music/taiwan-soundscape) — artistas sonoros como Wang Fu-rui, Yao Chung-han y Chang Yung-da, cuyas obras han sido reseñadas en profundidad en la categoría Sound Scene de _No Man's Land_
+- [Arte contemporáneo](/es/art/contemporary-art) — nivel panorámico del ecosistema general del arte contemporáneo taiwanés; al superponer el marco de archipiélago de Cheng Wen-chi se obtiene un mapa discursivo completo
+- [Arte contemporáneo indígena taiwanés](/es/art/contemporary-indigenous-art-taiwan) — un área poco cubierta por NML; al leerla puede contrastarse la "hipótesis del origen austronesio" con la intersección potencial del marco del archipiélago
 
 ## Referencias
 

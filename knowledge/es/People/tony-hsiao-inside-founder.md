@@ -104,7 +104,7 @@ Tony Hsiao sigue aquí. La observación continúa. Hizo de "seguir observando" s
 
 - [INSIDE 硬塞的網路趨勢觀察](https://www.inside.com.tw/) — Medio de tecnología cofundado por Tony Hsiao, actualmente parte del grupo TNL Media Group, que sigue cubriendo la industria tecnológica taiwanésa y global.
 - [iCook](https://icook.tw/) — La mayor plataforma de recetas de Taiwán, cofundada por Tony Hsiao, actualmente parte del grupo TNL Media Group.
-- [唐鳳](/people/唐鳳) — Primera ministra del Ministerio de Asuntos Digitales de Taiwán, quien también definió su carrera por "cruzar múltiples dominios".
+- [唐鳳](/es/people/audrey-tang) — Primera ministra del Ministerio de Asuntos Digitales de Taiwán, quien también definió su carrera por "cruzar múltiples dominios".
 - [台灣新創生態系](/technology/台灣新創生態系) — El panorama general del emprendimiento digital en Taiwán, del que INSIDE e iCook son casos representativos.
 
 ## Referencias

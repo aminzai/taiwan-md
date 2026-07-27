@@ -91,12 +91,12 @@ Alishan no es una montaña, es un libro de historia aún sin terminar. El poema 
 
 **Lecturas complementarias**:
 
-- [Historia del desarrollo forestal de Taiwán](/history/台灣森林開發史) — Cómo tres siglos de política forestal convirtieron Alishan, Taipingshan y Baxianshan en bosques imperiales
-- [El Terror Blanco en Taiwán](/history/台灣白色恐怖) — El caso de Uongʉ Yatauyungana fue solo una parte de la purga de la élite tsou; la magnitud de la violencia política en los años cincuenta
-- [Historia de los pueblos indígenas de Taiwán y el movimiento de reivindicación](/history/台灣原住民族歷史與正名運動) — La situación y la resistencia de los tsou y otros pueblos indígenas en la Taiwán de posguerra
-- [El Incidente del 28 de febrero](/history/二二八事件) — Por qué la bondad de Uongʉ Yatauyungana al acoger a refugiados de fuera de la isla terminó convirtiéndose en uno de sus cargos
-- [Período colonial japonés](/history/日治時期) — El sistema forestal imperial detrás de Kawai Buntarō
-- [Las guerras del alcanfor en el siglo XIX](/history/19世紀的樟腦戰爭) — Antes de los bosques de ciprés de Alishan, estaban las montañas de canforas taladas a finales de la era Qing. La misma línea desde Robert Swinhoe en 1864 hasta Dabao She en 1906
+- [Historia del desarrollo forestal de Taiwán](/es/history/taiwan-forestry-history) — Cómo tres siglos de política forestal convirtieron Alishan, Taipingshan y Baxianshan en bosques imperiales
+- [El Terror Blanco en Taiwán](/es/history/taiwan-white-terror) — El caso de Uongʉ Yatauyungana fue solo una parte de la purga de la élite tsou; la magnitud de la violencia política en los años cincuenta
+- [Historia de los pueblos indígenas de Taiwán y el movimiento de reivindicación](/es/history/indigenous-peoples-history-and-naming-movement) — La situación y la resistencia de los tsou y otros pueblos indígenas en la Taiwán de posguerra
+- [El Incidente del 28 de febrero](/es/history/228-incident) — Por qué la bondad de Uongʉ Yatauyungana al acoger a refugiados de fuera de la isla terminó convirtiéndose en uno de sus cargos
+- [Período colonial japonés](/es/history/japanese-colonial-era) — El sistema forestal imperial detrás de Kawai Buntarō
+- [Las guerras del alcanfor en el siglo XIX](/es/history/19th-century-camphor-wars) — Antes de los bosques de ciprés de Alishan, estaban las montañas de canforas taladas a finales de la era Qing. La misma línea desde Robert Swinhoe en 1864 hasta Dabao She en 1906
 
 ## Referencias
 

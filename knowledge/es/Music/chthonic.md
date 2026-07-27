@@ -157,7 +157,7 @@ Escuchando así también resulta más difícil malinterpretar a CHTHONIC como un
 
 Este itinerario de escucha se parece más a un mapa sonoro de una historiografía subterránea. CHTHONIC le dio a Taiwán una banda de metal capaz de subirse a los festivales internacionales, y además demostró que la historia de Taiwán puede salir de los manuales, los monumentos y los sucesos periodísticos para entrar en los gritos, el erhu, el taiwanés, la mitología, los ritmos pesados, los recintos de los festivales, los espacios culturales junto al puerto y las comunidades de fans del underground. Cuando esos sonidos estallan en los escenarios metálicos de todo el mundo, el público recibe primero el golpe del sonido y solo después puede preguntar poco a poco: ¿de dónde vienen estos espíritus?
 
-**Lecturas complementarias**: Freddy Lim, Megaport Festival, [música independiente taiwanesa](/music/台灣獨立音樂), [incidente del 28 de febrero](/history/二二八事件), incidente de Musha, Terror Blanco
+**Lecturas complementarias**: Freddy Lim, Megaport Festival, [música independiente taiwanesa](/es/music/indie-music-scene), [incidente del 28 de febrero](/es/history/228-incident), incidente de Musha, Terror Blanco
 
 ## Fuentes de imágenes
 

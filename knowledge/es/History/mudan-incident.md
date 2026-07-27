@@ -91,9 +91,9 @@ Hoy, al caminar por el campo de batalla antiguo de Shi-men, el desfiladero sigue
 
 ## Lecturas adicionales
 
-- [Incidente de Luo Fahao y Zhuo Qi-du](/history/羅發號事件與卓杞篤) — Otro incidente de naufragio y colisión de soberanía
-- [Período Qing](/history/清治時期) — La transición de la gobernanza antes y después de la Pacificación y Desarrollo
-- [Charles Le Gendre](/people/李仙得) — El asesor estadounidense detrás del incidente
+- [Incidente de Luo Fahao y Zhuo Qi-du](/es/history/rover-incident-and-tauketok) — Otro incidente de naufragio y colisión de soberanía
+- [Período Qing](/es/history/qing-dynasty-rule) — La transición de la gobernanza antes y después de la Pacificación y Desarrollo
+- [Charles Le Gendre](/es/people/charles-le-gendre) — El asesor estadounidense detrás del incidente
 
 ## Referencias
 

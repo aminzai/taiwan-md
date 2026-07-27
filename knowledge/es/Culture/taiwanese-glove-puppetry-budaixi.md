@@ -76,9 +76,9 @@ Gen Urobuchi reconoció ser un fan de Pili: el origen de la colaboración fue el
 
 **Lecturas complementarias**
 
-- [Teatro de sombras taiwanés](/culture/皮影戲) — Otro teatro tradicional de marionetas de origen min-yue, arraigado en Mituo (Kaohsiung), que también sobrevivió al kominka adaptando guiones japoneses; es otra rama del teatro tradicional de marionetas de Taiwán
-- [Cultura de festividades religiosas y comparsas zhentou en Taiwán](/culture/台灣廟會與陣頭文化) — El atrio del templo fue el primer escenario del budaixi; las festividades, las comparsas y el budaixi comparten el mismo cielo en el espacio de la fe popular taiwanesa
-- [Teatro y Sala de Conciertos Nacionales](/culture/兩廳院) — Otra cara del paso de las artes escénicas tradicionales taiwanesas desde el atrio del templo a los escenarios contemporáneos; inaugurado en 1987, ha sido testigo de la democratización cultural del país
+- [Teatro de sombras taiwanés](/es/culture/taiwanese-shadow-puppetry) — Otro teatro tradicional de marionetas de origen min-yue, arraigado en Mituo (Kaohsiung), que también sobrevivió al kominka adaptando guiones japoneses; es otra rama del teatro tradicional de marionetas de Taiwán
+- [Cultura de festividades religiosas y comparsas zhentou en Taiwán](/es/culture/taiwan-temple-festivals-and-performance-troupes) — El atrio del templo fue el primer escenario del budaixi; las festividades, las comparsas y el budaixi comparten el mismo cielo en el espacio de la fe popular taiwanesa
+- [Teatro y Sala de Conciertos Nacionales](/es/culture/national-theater-and-concert-hall) — Otra cara del paso de las artes escénicas tradicionales taiwanesas desde el atrio del templo a los escenarios contemporáneos; inaugurado en 1987, ha sido testigo de la democratización cultural del país
 
 ## Referencias
 

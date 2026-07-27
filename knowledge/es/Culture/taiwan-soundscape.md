@@ -190,8 +190,8 @@ Por eso, la próxima vez que _La plegaria de una doncella_ del camión de basura
 
 ## Lecturas complementarias
 
-- [Paisaje sonoro de Taiwán](/music/台灣聲音地景) — Una mirada desde otro ángulo al mapa sonoro y la escucha urbana de Taiwán
-- [Festividades de templo y cultura de comparsas rituales en Taiwán](/culture/台灣廟會與陣頭文化) — El contexto folklórico y el paisaje sonoro de comparsas más completo detrás del Techno Prince Nezha
-- [Historia del desarrollo del metro en Taiwán](/lifestyle/台灣捷運發展史) — La historia del propio sistema que sostiene el proyecto de paisaje sonoro
-- [Cultura de los mercados nocturnos](/food/夜市文化) — Otra faceta de esa masa de “ruido de vehículos, voces humanas y pregones de vendedores”
-- [Ceremonia del té y estética de la vida cotidiana en Taiwán](/culture/台灣茶道與生活美學) — Otra línea sobre cómo los taiwaneses convierten la experiencia sensorial cotidiana en cultura
+- [Paisaje sonoro de Taiwán](/es/music/taiwan-soundscape) — Una mirada desde otro ángulo al mapa sonoro y la escucha urbana de Taiwán
+- [Festividades de templo y cultura de comparsas rituales en Taiwán](/es/culture/taiwan-temple-festivals-and-performance-troupes) — El contexto folklórico y el paisaje sonoro de comparsas más completo detrás del Techno Prince Nezha
+- [Historia del desarrollo del metro en Taiwán](/es/lifestyle/history-of-taiwan-mrt-development) — La historia del propio sistema que sostiene el proyecto de paisaje sonoro
+- [Cultura de los mercados nocturnos](/es/food/night-market-culture) — Otra faceta de esa masa de “ruido de vehículos, voces humanas y pregones de vendedores”
+- [Ceremonia del té y estética de la vida cotidiana en Taiwán](/es/culture/taiwan-tea-ceremony-and-aesthetic-living) — Otra línea sobre cómo los taiwaneses convierten la experiencia sensorial cotidiana en cultura

@@ -66,8 +66,8 @@ En 2006, el Gobierno de la Ciudad de Taipéi organizó el primer "Festival Cultu
 
 ## Lectura adicional
 
-- [Cultura de la repostería taiwanesa](/food/台灣糕餅文化) — Los genes de mil capas de la artesanía de los pasteles chinos y los postres modernos; junto con el pastel de piña, muestra la transformación de la repostería taiwanesa
-- [Sopa de fideos con carne de res](/food/牛肉麵) — Otro representante de la "diplomacia popular" que define la memoria gustativa taiwanesa; complementa al pastel de piña como reflejo interno y externo
+- [Cultura de la repostería taiwanesa](/es/food/taiwan-pastry-culture) — Los genes de mil capas de la artesanía de los pasteles chinos y los postres modernos; junto con el pastel de piña, muestra la transformación de la repostería taiwanesa
+- [Sopa de fideos con carne de res](/es/food/beef-noodle-soup) — Otro representante de la "diplomacia popular" que define la memoria gustativa taiwanesa; complementa al pastel de piña como reflejo interno y externo
 - [Modernización agrícola de Taiwán](/economy/台灣農業現代化) — De las dificultades de producción y comercialización a la transformación en empresa agrícola; el pastel de piña es un tramo de este largo camino
 
 ## Referencias

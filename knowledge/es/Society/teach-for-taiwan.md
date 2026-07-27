@@ -137,12 +137,12 @@ Los fluorescentes de algunas aulas de escuelas rurales parpadean. Las montañas 
 
 **Lecturas complementarias**:
 
-- [Educación rural en Taiwán](/society/台灣偏鄉教育) — Si primero quieres ver la estructura general en lugar de solo la organización TFT, este artículo despliega los cuatro círculos —niños, escuelas, familias-comunidades y la concepción social del éxito— juntos.
-- [Crisis de la baja natalidad en Taiwán](/society/台灣少子化危機) — La baja natalidad es la presión fundamental sobre la supervivencia de las escuelas rurales; la continua disminución del número de alumnos pone a las escuelas pequeñas ante la fusión o el cierre.
-- [Justicia territorial y tierras ancestrales de los pueblos indígenas de Taiwán](/society/台灣原住民族土地正義與傳統領域) — Muchas de las escuelas donde se despliega TFT están en zonas indígenas; los problemas educativos se entrelazan con la justicia territorial y la continuidad cultural.
-- [Yan Changshou](/people/嚴長壽) — Uno de los impulsores de TFT, fundador de la Fundación Plataforma de Bienestar Público; sus experimentos educativos en Taitung y TFT son dos ramas del mismo río.
-- [Cultura del voluntariado y participación en el bienestar público en Taiwán](/society/台灣災難志工文化) — La tradición de voluntariado de la sociedad civil taiwanesa es el suelo del que TFT pudo reclutar a cuatrocientas personas.
-- [Zashuxiao](/society/雜學校) — Otra nueva iniciativa educativa surgida tras el movimiento del 18 de marzo de 2014; TFT con su reclutamiento organizado y Zashuxiao con su enfoque festivalero representan dos métodos curativos distintos.
+- [Educación rural en Taiwán](/es/society/taiwan-rural-education) — Si primero quieres ver la estructura general en lugar de solo la organización TFT, este artículo despliega los cuatro círculos —niños, escuelas, familias-comunidades y la concepción social del éxito— juntos.
+- [Crisis de la baja natalidad en Taiwán](/es/society/taiwan-low-birth-rate-crisis) — La baja natalidad es la presión fundamental sobre la supervivencia de las escuelas rurales; la continua disminución del número de alumnos pone a las escuelas pequeñas ante la fusión o el cierre.
+- [Justicia territorial y tierras ancestrales de los pueblos indígenas de Taiwán](/es/society/indigenous-land-justice-and-traditional-territories) — Muchas de las escuelas donde se despliega TFT están en zonas indígenas; los problemas educativos se entrelazan con la justicia territorial y la continuidad cultural.
+- [Yan Changshou](/es/people/stanley-yen) — Uno de los impulsores de TFT, fundador de la Fundación Plataforma de Bienestar Público; sus experimentos educativos en Taitung y TFT son dos ramas del mismo río.
+- [Cultura del voluntariado y participación en el bienestar público en Taiwán](/es/society/taiwan-disaster-volunteer-culture) — La tradición de voluntariado de la sociedad civil taiwanesa es el suelo del que TFT pudo reclutar a cuatrocientas personas.
+- [Zashuxiao](/es/society/za-share) — Otra nueva iniciativa educativa surgida tras el movimiento del 18 de marzo de 2014; TFT con su reclutamiento organizado y Zashuxiao con su enfoque festivalero representan dos métodos curativos distintos.
 
 ## Referencias
 

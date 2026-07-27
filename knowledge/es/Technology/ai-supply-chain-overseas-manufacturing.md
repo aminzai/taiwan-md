@@ -194,14 +194,14 @@ Esa es la pregunta más importante de las fábricas de la cadena de IA en el ext
 
 ## Lecturas complementarias
 
-- [Cadena de suministro del hardware de IA](/technology/AI硬體供應鏈) — por qué el mundo necesita que Taiwán convierta la demanda de la nube en máquinas.
-- [Cadena de suministro del hardware de IA](/technology/AI硬體供應鏈) — de la GPU al rack: cómo recogen los ODM/EMS taiwaneses el hardware de los centros de datos de IA.
-- [La electricidad y los semiconductores en Taiwán](/technology/台灣的電力與半導體) — cómo vuelve la fabricación de vanguardia a la electricidad y a la seguridad energética.
-- [El agua de los semiconductores y los recursos hídricos de Taiwán](/technology/半導體用水與台灣水資源) — cómo entran las fábricas de obleas en los embalses, las sequías y la gestión del agua regenerada.
-- [Empresas taiwanesas: TSMC](/economy/台灣企業：台積電) — cómo el modelo de fundición de TSMC reescribió la división global del trabajo en semiconductores.
-- [Empresas taiwanesas: Foxconn](/economy/台灣企業：鴻海精密) — de la fabricación electrónica por encargo a los servidores de IA y el hardware de centros de datos.
-- [Empresas taiwanesas: Delta Electronics](/economy/台灣企業：台達電子) — cómo la alimentación, la disipación y la gestión energética se convirtieron en parte de la infraestructura de IA.
-- [Desarrollo de los parques científicos](/technology/科技園區發展) — cómo creció el clúster taiwanés de semiconductores desde el suelo y las ciudades.
+- [Cadena de suministro del hardware de IA](/es/technology/ai-hardware-supply-chain) — por qué el mundo necesita que Taiwán convierta la demanda de la nube en máquinas.
+- [Cadena de suministro del hardware de IA](/es/technology/ai-hardware-supply-chain) — de la GPU al rack: cómo recogen los ODM/EMS taiwaneses el hardware de los centros de datos de IA.
+- [La electricidad y los semiconductores en Taiwán](/es/technology/taiwan-electricity-and-semiconductors) — cómo vuelve la fabricación de vanguardia a la electricidad y a la seguridad energética.
+- [El agua de los semiconductores y los recursos hídricos de Taiwán](/es/technology/semiconductor-water-use-and-taiwan-water-resources) — cómo entran las fábricas de obleas en los embalses, las sequías y la gestión del agua regenerada.
+- [Empresas taiwanesas: TSMC](/es/economy/tsmc) — cómo el modelo de fundición de TSMC reescribió la división global del trabajo en semiconductores.
+- [Empresas taiwanesas: Foxconn](/es/economy/foxconn-precision-industry) — de la fabricación electrónica por encargo a los servidores de IA y el hardware de centros de datos.
+- [Empresas taiwanesas: Delta Electronics](/es/economy/delta-electronics-taiwan-power-giant) — cómo la alimentación, la disipación y la gestión energética se convirtieron en parte de la infraestructura de IA.
+- [Desarrollo de los parques científicos](/es/technology/science-park-development) — cómo creció el clúster taiwanés de semiconductores desde el suelo y las ciudades.
 
 ## Fuentes de imágenes
 

@@ -295,11 +295,11 @@ Kaohsiung no es la mitad inferior de Taiwán. Kaohsiung es la ciudad donde la in
 
 ## Lecturas adicionales
 
-- [Keelung](/geography/基隆市) — Pilot de la serie de 22 condados y ciudades: el puerto superado por Kaohsiung desde 1969, viendo los extremos de «el giro norte-sur del centro económico de Taiwán» en oposición a Kaohsiung
-- [Condado de Pingtung](/geography/屏東縣) — Condado vecino de la serie de 22 condados y ciudades: el incidente de Mudan de 1874, la Pila Izquierda de Liudui hakka y la Pila Derecha de Kaohsiung coexisten, la inundación 88 de 2009 inunda Linbian y las montañas de Kaohsiung simultáneamente
-- [Taipéi](/geography/台北市) — La primera ciudad de nivel provincial ascendida en 1967, 12 años de diferencia con el ascenso de Kaohsiung en 1979; el asesinato en la residencia de la familia Lin de 1980 ocurrió en la calle Xinyi de Taipéi
-- [Incidente del 228](/history/二二八事件) — El 6 de marzo de 1947, el comandante de la fortaleza de Kaohsiung Peng Meng-zhi ordenó la represión, la Batalla de Defensa de la Escuela Secundaria de Kaohsiung
-- [Incidente de la Isla Hermosa](/history/美麗島事件) — La rotonda de Dagangpu el 10 de diciembre de 1979, el evento clave del movimiento fuera del partido al final de la ley marcial
+- [Keelung](/es/geography/keelung-city) — Pilot de la serie de 22 condados y ciudades: el puerto superado por Kaohsiung desde 1969, viendo los extremos de «el giro norte-sur del centro económico de Taiwán» en oposición a Kaohsiung
+- [Condado de Pingtung](/es/geography/pingtung-county) — Condado vecino de la serie de 22 condados y ciudades: el incidente de Mudan de 1874, la Pila Izquierda de Liudui hakka y la Pila Derecha de Kaohsiung coexisten, la inundación 88 de 2009 inunda Linbian y las montañas de Kaohsiung simultáneamente
+- [Taipéi](/es/geography/taipei-city) — La primera ciudad de nivel provincial ascendida en 1967, 12 años de diferencia con el ascenso de Kaohsiung en 1979; el asesinato en la residencia de la familia Lin de 1980 ocurrió en la calle Xinyi de Taipéi
+- [Incidente del 228](/es/history/228-incident) — El 6 de marzo de 1947, el comandante de la fortaleza de Kaohsiung Peng Meng-zhi ordenó la represión, la Batalla de Defensa de la Escuela Secundaria de Kaohsiung
+- [Incidente de la Isla Hermosa](/es/history/kaohsiung-incident-formosa-incident) — La rotonda de Dagangpu el 10 de diciembre de 1979, el evento clave del movimiento fuera del partido al final de la ley marcial
 - [El asesinato en la residencia de la familia Lin](/history/林宅血案) — El 28 de febrero de 1980, el callejón 31 de la calle Xinyi de Taipéi, la madre y las hijas gemelas de Lin Yi-hsiung fueron asesinadas
 - [Levantamiento de la ley marcial de Taiwán](/history/台灣解嚴) — Desde el Incidente de la Isla Hermosa de 1979 hasta el levantamiento de la ley marcial de 1987, el proceso de transición de siete años y medio
 - [Zonas de Procesamiento para la Exportación de Taiwán](/society/台灣加工出口區) — La Zona de Procesamiento para la Exportación de Qianzhen de 1966 en Kaohsiung es el punto de partida físico del milagro económico de Taiwán

@@ -167,11 +167,11 @@ Ellos no escriben los lemas temáticos de TMTS, pero son las personas que hacen 
 
 **Lecturas complementarias**:
 
-- [Industria robótica de Taiwán](/technology/台灣機器人產業) — La capacidad de máquinas-herramienta de Dadu Shan es la base de aguas arriba de la industria robótica, pero entre "fabricar bien una pieza" e "integrar un robot" existe una brecha de organización industrial.
-- [Industria de semiconductores](/technology/半導體產業) — Otro caso típico taiwánés de "eslabón de aguas arriba en la cadena de suministro global", con muchas similitudes estructurales con la industria de máquinas-herramienta.
-- [Transformación y mejora industrial de Taiwán](/economy/台灣產業轉型升級) — El dilema de la transición de la manufactura por encargo a la marca propia, de componentes a sistemas: la industria de máquinas-herramienta es un caso central de este debate.
-- [Empresa taiwanesa: Foxconn](/economy/台灣企業：鴻海精密) — Otra historia de manufactura taiwanesa nacida de la artesanía obrera, a mayor escala pero con una esencia estructural similar.
-- [Comercio exterior de Taiwán y cadena de suministro global](/economy/台灣外貿與全球供應鏈) — La industria de máquinas-herramienta es el "campeón oculto" dentro de la estructura del comercio exterior taiwánés: de menor escala que la electrónica, pero soporte de toda la base manufacturera.
+- [Industria robótica de Taiwán](/es/technology/taiwan-robotics-industry) — La capacidad de máquinas-herramienta de Dadu Shan es la base de aguas arriba de la industria robótica, pero entre "fabricar bien una pieza" e "integrar un robot" existe una brecha de organización industrial.
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — Otro caso típico taiwánés de "eslabón de aguas arriba en la cadena de suministro global", con muchas similitudes estructurales con la industria de máquinas-herramienta.
+- [Transformación y mejora industrial de Taiwán](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — El dilema de la transición de la manufactura por encargo a la marca propia, de componentes a sistemas: la industria de máquinas-herramienta es un caso central de este debate.
+- [Empresa taiwanesa: Foxconn](/es/economy/foxconn-precision-industry) — Otra historia de manufactura taiwanesa nacida de la artesanía obrera, a mayor escala pero con una esencia estructural similar.
+- [Comercio exterior de Taiwán y cadena de suministro global](/es/economy/taiwan-foreign-trade-and-global-supply-chain) — La industria de máquinas-herramienta es el "campeón oculto" dentro de la estructura del comercio exterior taiwánés: de menor escala que la electrónica, pero soporte de toda la base manufacturera.
 
 ## Referencias
 

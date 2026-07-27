@@ -33,7 +33,7 @@ difficulty: 'advanced'
 
 # Desarrollo de la inteligencia artificial en Taiwán y estrategia futura: ya obtuvo el boleto de entrada del hardware, ¿dónde será la próxima batalla?
 
-> **Resumen en 30 segundos:** El 8 de octubre de 2024, el Premio Nobel de Física fue otorgado al físico que formuló la red de Hopfield y al científico cognitivo que desarrolló la retropropagación[^N1]. Al día siguiente, el 9 de octubre, el Premio Nobel de Química fue concedido a tres investigadores que usaron IA para resolver el problema del plegamiento de proteínas, pendiente desde hacía cincuenta años[^N2]. El 29 de mayo del mismo año, Jensen Huang, CEO de NVIDIA, apareció en el mercado nocturno de Ningxia, en Taipéi, comiendo omelet de ostras con Morris Chang, Barry Lam y Rick Tsai. TSMC obtuvo el 72% de los ingresos del mercado global de fundición de obleas, y Foxconn, Quanta y Wistron producen en conjunto el 90% de los servidores de IA del mundo. Pero en esa ceremonia científica de dos días consecutivos, que otorgó legitimidad retrospectiva a cuarenta y dos años de historia de las redes neuronales, no hubo ningún nombre de Taiwán. Desde Taiwan AI Labs, fundado por Ethan Tu, creador de [PTT](/es/Technology/ptt-bulletin-board-system/), hasta TAIDE, el gran modelo de lenguaje en chino tradicional por el que apuesta el gobierno, está en marcha una apuesta que va de “fabricar IA” a “convertirse en IA”.
+> **Resumen en 30 segundos:** El 8 de octubre de 2024, el Premio Nobel de Física fue otorgado al físico que formuló la red de Hopfield y al científico cognitivo que desarrolló la retropropagación[^N1]. Al día siguiente, el 9 de octubre, el Premio Nobel de Química fue concedido a tres investigadores que usaron IA para resolver el problema del plegamiento de proteínas, pendiente desde hacía cincuenta años[^N2]. El 29 de mayo del mismo año, Jensen Huang, CEO de NVIDIA, apareció en el mercado nocturno de Ningxia, en Taipéi, comiendo omelet de ostras con Morris Chang, Barry Lam y Rick Tsai. TSMC obtuvo el 72% de los ingresos del mercado global de fundición de obleas, y Foxconn, Quanta y Wistron producen en conjunto el 90% de los servidores de IA del mundo. Pero en esa ceremonia científica de dos días consecutivos, que otorgó legitimidad retrospectiva a cuarenta y dos años de historia de las redes neuronales, no hubo ningún nombre de Taiwán. Desde Taiwan AI Labs, fundado por Ethan Tu, creador de [PTT](/es/technology/ptt-bulletin-board-system/), hasta TAIDE, el gran modelo de lenguaje en chino tradicional por el que apuesta el gobierno, está en marcha una apuesta que va de “fabricar IA” a “convertirse en IA”.
 
 ---
 
@@ -144,7 +144,7 @@ _Canal oficial de la Real Academia Sueca de Ciencias: conferencia de aceptación
 
 Volvamos a la isla de Taiwán. En el mismo periodo en que Hopfield formulaba su modelo de memoria, Taiwán apenas empezaba a crear departamentos de informática.
 
-En 1995, Ethan Tu, entonces estudiante de segundo año de Ciencias de la Computación en la Universidad Nacional de Taiwán, usó una computadora 486 y software de código abierto para montar desde su dormitorio [PTT](/es/Technology/ptt-bulletin-board-system/), que luego se convirtió en el mayor sistema de tablón electrónico de Taiwán. Treinta años después, PTT todavía reúne a cientos de miles de usuarios diarios y funciona como un fósil viviente de la cultura de internet taiwanesa.
+En 1995, Ethan Tu, entonces estudiante de segundo año de Ciencias de la Computación en la Universidad Nacional de Taiwán, usó una computadora 486 y software de código abierto para montar desde su dormitorio [PTT](/es/technology/ptt-bulletin-board-system/), que luego se convirtió en el mayor sistema de tablón electrónico de Taiwán. Treinta años después, PTT todavía reúne a cientos de miles de usuarios diarios y funciona como un fósil viviente de la cultura de internet taiwanesa.
 
 Tu trabajó después en Microsoft, donde participó en el desarrollo del asistente de voz Cortana. En abril de 2017 dejó un salario alto en Silicon Valley y regresó a Taiwán para fundar Taiwan AI Labs, el primer instituto de investigación de IA abierto y sin fines de lucro de Asia[^11].
 
@@ -260,13 +260,13 @@ Aquella cena en el mercado nocturno de Ningxia fue el lugar que Taiwán acumuló
 
 **Lecturas complementarias**:
 
-- [El ascenso de la isla de la IA: desarrollo de la inteligencia artificial en Taiwán y estrategia futura](/technology/AI發展) — Versión temprana de la narrativa de política pública: el Plan de Acción de IA, los cinco campos estratégicos y el panorama de cómo la “montaña sagrada protectora” de los semiconductores se acopla a la revolución de la IA.
-- [Taiwan AI Labs](/technology/台灣人工智慧實驗室) — La trayectoria completa de Ethan Tu desde PTT hasta AI Labs, y el ecosistema de modelos de lenguaje abiertos TAIDE / TAME / FedGPT.
-- [Taiwan AI Academy](/technology/台灣人工智慧學校) — La llamada inconclusa y la academia militar de IA creada por Chen Sheng-wei con 180 millones de dólares taiwaneses de financiación privada: una historia de formación de talento con más de diez mil egresados en ocho años.
-- [La IA en la vida cotidiana de Taiwán](/technology/台灣AI日常) — Crónica de la entrada de la IA generativa en la vida cotidiana taiwanesa, desde pedidos en tiendas de conveniencia hasta revisiones por lotes de la Administración Nacional del Seguro de Salud.
-- [Empresas taiwanesas: TSMC](/economy/台灣企業：台積電) — Líder global de fundición de obleas, núcleo de la fabricación de chips de IA, desde el modelo de fundición pura de Morris Chang hasta la historia del empaquetado avanzado.
-- [Industria de semiconductores](/technology/半導體產業) — Panorama completo del ecosistema taiwanés de semiconductores, desde el diseño de IC hasta el empaquetado y las pruebas.
-- [Desarrollo de la industria de ciberseguridad de Taiwán](/technology/台灣資安產業發展) — Cómo la presión geopolítica dio origen a una industria de ciberseguridad con IA de escala Asia-Pacífico.
+- [El ascenso de la isla de la IA: desarrollo de la inteligencia artificial en Taiwán y estrategia futura](/es/technology/ai-development-in-taiwan) — Versión temprana de la narrativa de política pública: el Plan de Acción de IA, los cinco campos estratégicos y el panorama de cómo la “montaña sagrada protectora” de los semiconductores se acopla a la revolución de la IA.
+- [Taiwan AI Labs](/es/technology/taiwan-ai-labs) — La trayectoria completa de Ethan Tu desde PTT hasta AI Labs, y el ecosistema de modelos de lenguaje abiertos TAIDE / TAME / FedGPT.
+- [Taiwan AI Academy](/es/technology/taiwan-ai-academy) — La llamada inconclusa y la academia militar de IA creada por Chen Sheng-wei con 180 millones de dólares taiwaneses de financiación privada: una historia de formación de talento con más de diez mil egresados en ocho años.
+- [La IA en la vida cotidiana de Taiwán](/es/technology/taiwan-ai-in-daily-life) — Crónica de la entrada de la IA generativa en la vida cotidiana taiwanesa, desde pedidos en tiendas de conveniencia hasta revisiones por lotes de la Administración Nacional del Seguro de Salud.
+- [Empresas taiwanesas: TSMC](/es/economy/tsmc) — Líder global de fundición de obleas, núcleo de la fabricación de chips de IA, desde el modelo de fundición pura de Morris Chang hasta la historia del empaquetado avanzado.
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — Panorama completo del ecosistema taiwanés de semiconductores, desde el diseño de IC hasta el empaquetado y las pruebas.
+- [Desarrollo de la industria de ciberseguridad de Taiwán](/es/technology/taiwan-cybersecurity-industry-development) — Cómo la presión geopolítica dio origen a una industria de ciberseguridad con IA de escala Asia-Pacífico.
 
 ---
 

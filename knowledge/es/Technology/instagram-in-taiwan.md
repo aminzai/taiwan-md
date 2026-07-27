@@ -69,9 +69,9 @@ Y el auge del "Cui" quizás nos dice algo: cuando los filtros se han depurado ha
 
 **Lecturas complementarias:**
 
-- [Facebook: De la fiebre de robar cultivos a la doble filo de la democracia digital](/technology/Facebook) — Otro frente de Meta, la empresa matriz de IG, en Taiwán: desde _FarmVille_ en 2009 hasta las controversias de censura en 2025, un contexto necesario para comprender la estrategia de Meta en Taiwán.
-- [Threads en Taiwán](/technology/Threads在台灣) — El alter ego "Cui" de IG: cómo pasó de cero a la tercera plataforma más grande de Taiwán en 2024, y la relación simbiótica y competitiva entre ambos.
-- [Historia de la migración de las comunidades en línea en Taiwán](/technology/台灣網路社群遷徙史) — De BBS, Wimbo, Plurk a Facebook, IG y Threads: la historia del movimiento colectivo de los usuarios taiwaneses de internet, una perspectiva a largo plazo para comprender la tendencia a la baja de IG.
+- [Facebook: De la fiebre de robar cultivos a la doble filo de la democracia digital](/es/technology/facebook-in-taiwan) — Otro frente de Meta, la empresa matriz de IG, en Taiwán: desde _FarmVille_ en 2009 hasta las controversias de censura en 2025, un contexto necesario para comprender la estrategia de Meta en Taiwán.
+- [Threads en Taiwán](/es/technology/threads-in-taiwan) — El alter ego "Cui" de IG: cómo pasó de cero a la tercera plataforma más grande de Taiwán en 2024, y la relación simbiótica y competitiva entre ambos.
+- [Historia de la migración de las comunidades en línea en Taiwán](/es/technology/taiwan-online-community-migration) — De BBS, Wimbo, Plurk a Facebook, IG y Threads: la historia del movimiento colectivo de los usuarios taiwaneses de internet, una perspectiva a largo plazo para comprender la tendencia a la baja de IG.
 
 ## Referencias
 

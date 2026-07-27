@@ -213,10 +213,10 @@ El tabaco nunca ha desaparecido de verdad. Se retiró del cenicero de la oficina
 
 **Lecturas complementarias**:
 
-- [Ximending](/geography/西門町) — la primera sala de fumar exterior de presión negativa de Taiwán está en la calle, junto a la salida del metro de Ximen; cómo una zona comercial nacida del barrio de ocio de la época japonesa se ha convertido en el banco de pruebas de una nueva política
-- [Sistema de salud pública y prevención epidémica de Taiwán](/society/台灣公共衛生與防疫體系) — el control del tabaco es parte de la larga marcha de la salud pública taiwanesa y comparte con el sistema de prevención epidémica la misma lógica de «primero la salud colectiva»
-- [Justicia ambiental y conflictos NIMBY en Taiwán](/society/台灣環境正義與鄰避爭議) — dónde construir la sala de fumar y si se juntarán personas sin hogar es, en esencia, un dilema NIMBY a escala de calle
-- [Periodo de ley marcial](/history/戒嚴時期) — la época en que el tabaco Longevidad tenía el 70% del mercado y la Oficina del Monopolio controlaba tabaco y alcohol es justamente el trasfondo histórico de un Estado que administraba la vida cotidiana
+- [Ximending](/es/geography/ximending) — la primera sala de fumar exterior de presión negativa de Taiwán está en la calle, junto a la salida del metro de Ximen; cómo una zona comercial nacida del barrio de ocio de la época japonesa se ha convertido en el banco de pruebas de una nueva política
+- [Sistema de salud pública y prevención epidémica de Taiwán](/es/society/taiwan-public-health-epidemic-response) — el control del tabaco es parte de la larga marcha de la salud pública taiwanesa y comparte con el sistema de prevención epidémica la misma lógica de «primero la salud colectiva»
+- [Justicia ambiental y conflictos NIMBY en Taiwán](/es/society/taiwan-environmental-justice-nimby-conflicts) — dónde construir la sala de fumar y si se juntarán personas sin hogar es, en esencia, un dilema NIMBY a escala de calle
+- [Periodo de ley marcial](/es/history/martial-law-era) — la época en que el tabaco Longevidad tenía el 70% del mercado y la Oficina del Monopolio controlaba tabaco y alcohol es justamente el trasfondo histórico de un Estado que administraba la vida cotidiana
 
 ## Fuentes de imágenes
 

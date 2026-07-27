@@ -56,7 +56,7 @@ Solo quienes la conocieron de pequeña entienden esa frase. En 1983, Hebe Tien n
 
 En el año 2000, Hebe Tien participó en el concurso "Universal 2000 Super Girl Battle", organizado por Cosmic Records, predecesora de HIM International Music. En la final cantó "I Like You" de Kit Chan y se olvidó de la letra a mitad de la canción, perdiendo el primer lugar[^2].
 
-Pero no perdió. Tras el concurso, la discográfica la unió con Ren Jiaxuan (Selina) y Chen Jiahua (Ella) para formar el trío S.H.E, que lanzó su primer álbum, _Girls' Dorm_, el 11 de septiembre de 2001[^3]. Cada una tenía un rol definido: Selina, dulzura; Ella, valentía; Hebe, confianza. Su color representativo era el verde. En la siguiente década, S.H.E lanzó 13 álbumes, con ventas totales que superaron los 10 millones de copias[^4]. Fueron el sinónimo de girl group en el pop en chino entre 2010. Para entender el peso de S.H.E en esa época, puede consultarse la entrada sobre [la nueva generación de idols en Taiwán](/culture/台灣新偶像世代), donde se describe la línea de producción rota de los grupos idol de ese período.
+Pero no perdió. Tras el concurso, la discográfica la unió con Ren Jiaxuan (Selina) y Chen Jiahua (Ella) para formar el trío S.H.E, que lanzó su primer álbum, _Girls' Dorm_, el 11 de septiembre de 2001[^3]. Cada una tenía un rol definido: Selina, dulzura; Ella, valentía; Hebe, confianza. Su color representativo era el verde. En la siguiente década, S.H.E lanzó 13 álbumes, con ventas totales que superaron los 10 millones de copias[^4]. Fueron el sinónimo de girl group en el pop en chino entre 2010. Para entender el peso de S.H.E en esa época, puede consultarse la entrada sobre [la nueva generación de idols en Taiwán](/es/culture/taiwan-new-idol-generation), donde se describe la línea de producción rota de los grupos idol de ese período.
 
 > **📝 Nota del curador**
 > Las cantantes de la generación de Hebe rara vez tenían "álbumes en solitario". Ella era una voz, un rostro, un color dentro de S.H.E. En diez años, 13 álbumes y más de diez millones vendidos, la compañía no tenía razón para que se lanzara en solitario. El riesgo de un álbum individual era desarmar un trío que generaba ganancias.
@@ -196,9 +196,9 @@ Las elecciones de Hebe Tien a lo largo de estos veinticinco años quizás define
 
 ## Lecturas complementarias
 
-- [Chen Chien-chi](/people/陳建騏) — Productor fijo de Hebe desde 2013, ganador del Mejor Productor de Álbum en la 32.ª edición de los Premios Golden Melody
-- [La nueva generación de idols en Taiwán](/culture/台灣新偶像世代) — Los veinte años de vacío en los grupos idol tras S.H.E
-- [Huang Shao-yung](/people/黃少雍) — Productor que, junto con Chen Chien-chi, ha definido los dos límites sonoros del pop en chino en la última década
+- [Chen Chien-chi](/es/people/chen-chien-chi-music-producer) — Productor fijo de Hebe desde 2013, ganador del Mejor Productor de Álbum en la 32.ª edición de los Premios Golden Melody
+- [La nueva generación de idols en Taiwán](/es/culture/taiwan-new-idol-generation) — Los veinte años de vacío en los grupos idol tras S.H.E
+- [Huang Shao-yung](/es/people/huang-shao-yong-musician) — Productor que, junto con Chen Chien-chi, ha definido los dos límites sonoros del pop en chino en la última década
 
 ---
 

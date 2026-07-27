@@ -80,10 +80,10 @@ Facebook's story is a microcosm of Taiwan's 20-year digital transformation: it t
 
 **Further Reading:**
 
-- [IG: From Photographers' Filters to Taiwan's 'Crispy' Anxiety](/technology/IG) — Another major Meta platform in Taiwan, forming different usage scenarios with Facebook: FB is for "contacting elders," IG is for "looking at yourself," and Threads is the "big argument square."
-- [Threads in Taiwan](/technology/Threads在台灣) — Why do Taiwanese people call Threads "Crispy"? From the FB refugee wave to "Crispy" being the global traffic leader, the unique position of Taiwanese users in the Meta ecosystem.
-- [History of Taiwan's Online Community Migration](/technology/台灣網路社群遷徙史) — From BBS, PChome Hot Space, Plurk to Facebook, IG, and Threads. To understand why Facebook rose and why it is now receding in Taiwan, one needs this complete migration map.
-- [Wretch (無名小站)](/culture/無名小站) — The local platform that Facebook surpassed and ultimately replaced in Taiwan: in 2008, Wretch was still the #1 in Taiwan, ahead of Yahoo; from 2009 onwards, Facebook overtook it thanks to the stickiness of the news feed.
+- [IG: From Photographers' Filters to Taiwan's 'Crispy' Anxiety](/es/technology/instagram-in-taiwan) — Another major Meta platform in Taiwan, forming different usage scenarios with Facebook: FB is for "contacting elders," IG is for "looking at yourself," and Threads is the "big argument square."
+- [Threads in Taiwan](/es/technology/threads-in-taiwan) — Why do Taiwanese people call Threads "Crispy"? From the FB refugee wave to "Crispy" being the global traffic leader, the unique position of Taiwanese users in the Meta ecosystem.
+- [History of Taiwan's Online Community Migration](/es/technology/taiwan-online-community-migration) — From BBS, PChome Hot Space, Plurk to Facebook, IG, and Threads. To understand why Facebook rose and why it is now receding in Taiwan, one needs this complete migration map.
+- [Wretch (無名小站)](/es/culture/wretch) — The local platform that Facebook surpassed and ultimately replaced in Taiwan: in 2008, Wretch was still the #1 in Taiwan, ahead of Yahoo; from 2009 onwards, Facebook overtook it thanks to the stickiness of the news feed.
 
 ## References
 

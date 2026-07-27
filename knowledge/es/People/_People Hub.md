@@ -8,15 +8,15 @@ translatedFrom: 'People/_People Hub.md'
 
 # Personas de Taiwán 👥
 
-El 29 de febrero de 1993 en Los Ángeles, cuando [Ang Lee](/people/ang-lee) recibió el premio a la Mejor Película en Lengua Extranjera en la ceremonia de los Oscar, su primera frase fue "Gracias a todos, estoy orgulloso de ser taiwanés". En ese momento, los ojos del mundo entero se posaron en este director de Taiwán, y también en la pequeña isla detrás de él. Desde entonces, los taiwaneses comenzaron a acostumbrarse a escuchar sus nombres en el escenario internacional, a ver sus propias figuras y a sentir los aplausos del mundo.
+El 29 de febrero de 1993 en Los Ángeles, cuando [Ang Lee](/es/people/ang-lee) recibió el premio a la Mejor Película en Lengua Extranjera en la ceremonia de los Oscar, su primera frase fue "Gracias a todos, estoy orgulloso de ser taiwanés". En ese momento, los ojos del mundo entero se posaron en este director de Taiwán, y también en la pequeña isla detrás de él. Desde entonces, los taiwaneses comenzaron a acostumbrarse a escuchar sus nombres en el escenario internacional, a ver sus propias figuras y a sentir los aplausos del mundo.
 
-📖 Lectura adicional: [Ang Lee](/people/ang-lee)
+📖 Lectura adicional: [Ang Lee](/es/people/ang-lee)
 
 Taiwán, esta isla con un área de solo treinta y seis mil kilómetros cuadrados y una población de solo veintitrés millones, ha nutrido una densidad de talento asombrosa. Aquí, en promedio, por cada millón de personas puede nacer un ganador del Premio Nobel, un ganador del Oscar, un campeón mundial o un empresario de renombre internacional. Esto no es casualidad, sino una manifestación del encanto único de esta tierra taiwanesa.
 
-Desde [Morris Chang](/people/morris-chang-tsmc) construyendo el imperio TSMC en Silicon Valley, hasta Lin Hwai-min haciendo que Cloud Gate Dance Theatre "se convirtiera en un paisaje necesario para el mundo" en el escenario internacional; desde [Tsai Ing-wen](/people/tsai-ing-wen) rompiendo el techo de cristal de las líderes femeninas en el mundo de habla china, hasta [Tai Tzu-ying](/people/tai-tzu-ying) mostrando la voluntad resiliente de los atletas taiwaneses en la cancha de bádminton, estas glorias taiwanesas no solo son manifestaciones de logros personales, sino también los mejores embajadores del espíritu taiwanés: resilientes en las adversidades, innovadores en las oportunidades, haciendo oír su voz en el mundo.
+Desde [Morris Chang](/people/morris-chang-tsmc) construyendo el imperio TSMC en Silicon Valley, hasta Lin Hwai-min haciendo que Cloud Gate Dance Theatre "se convirtiera en un paisaje necesario para el mundo" en el escenario internacional; desde [Tsai Ing-wen](/es/people/tsai-ing-wen) rompiendo el techo de cristal de las líderes femeninas en el mundo de habla china, hasta [Tai Tzu-ying](/es/people/tai-tzu-ying) mostrando la voluntad resiliente de los atletas taiwaneses en la cancha de bádminton, estas glorias taiwanesas no solo son manifestaciones de logros personales, sino también los mejores embajadores del espíritu taiwanés: resilientes en las adversidades, innovadores en las oportunidades, haciendo oír su voz en el mundo.
 
-📖 Lectura adicional: [Morris Chang](/people/morris-chang-tsmc) ｜ [Tsai Ing-wen](/people/tsai-ing-wen) ｜ [Tai Tzu-ying](/people/tai-tzu-ying)
+📖 Lectura adicional: [Morris Chang](/people/morris-chang-tsmc) ｜ [Tsai Ing-wen](/es/people/tsai-ing-wen) ｜ [Tai Tzu-ying](/es/people/tai-tzu-ying)
 
 ![Presidenta Tsai Ing-wen](/images/wiki/b3f3be4fb2b6.jpg)
 _Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:蔡英文官方元首肖像照.jpg) | Dominio público | Oficina del Presidente de la República de China_

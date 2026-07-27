@@ -265,11 +265,11 @@ _Canal oficial de NVIDIA: Versión completa de la conferencia de Computex 2024 d
 
 **Lectura adicional**:
 
-- [Industria de semiconductores](/Technology/半導體產業) — La cadena que sostiene el escenario principal de Computex, la fuente está en las fábricas de obleas de Hsinchu, Taichung, Tainan
-- [Desarrollo de IA en Taiwán y estrategia futura](/Technology/台灣人工智慧發展與未來策略) — Desde el ensamblaje de servidores hasta la IA física, la industria de IA de Taiwán está en su segundo cambio de motor
-- [Industria de robots de Taiwán](/Technology/台灣機器人產業) — La primera aparición de HIWIN en Computex es una rebanada clave de la formación de esta cadena de suministro
-- [Desarrollo de la cadena de suministro de vehículos eléctricos en Taiwán](/Technology/台灣電動車產業鏈發展) — Otro eje principal de manufactura junto a los servidores de IA
-- [NVIDIA en Taiwán](/Technology/NVIDIA在台灣) — Desde la infancia en Tainan de Huang Jen-hsun hasta el escenario principal de GTC Taipei en Taipéi
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — La cadena que sostiene el escenario principal de Computex, la fuente está en las fábricas de obleas de Hsinchu, Taichung, Tainan
+- [Desarrollo de IA en Taiwán y estrategia futura](/es/technology/artificial-intelligence-development-strategy) — Desde el ensamblaje de servidores hasta la IA física, la industria de IA de Taiwán está en su segundo cambio de motor
+- [Industria de robots de Taiwán](/es/technology/taiwan-robotics-industry) — La primera aparición de HIWIN en Computex es una rebanada clave de la formación de esta cadena de suministro
+- [Desarrollo de la cadena de suministro de vehículos eléctricos en Taiwán](/es/technology/taiwan-electric-vehicle-industry-chain) — Otro eje principal de manufactura junto a los servidores de IA
+- [NVIDIA en Taiwán](/es/technology/nvidia-in-taiwan) — Desde la infancia en Tainan de Huang Jen-hsun hasta el escenario principal de GTC Taipei en Taipéi
 
 ## Fuentes de imágenes
 

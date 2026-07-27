@@ -100,8 +100,8 @@ A partir de 2024, nuevas tecnologías como la carne artificial y la carne cultiv
 
 ## Lecturas complementarias
 
-- [Religión y cultura de los templos en Taiwán](/culture/台灣宗教與寺廟文化) — Contexto religioso de la tradición vegetariana budista y el papel del comedor de los templos en la cultura culinaria
-- [Cultura del desayuno en Taiwán](/food/台灣早餐文化) — Las versiones vegetarianas del shaobing, el danbing, la leche de soja y otros han pasado a ser opciones estándar en el desayuno taiwanés
+- [Religión y cultura de los templos en Taiwán](/es/culture/taiwan-religion-and-temple-culture) — Contexto religioso de la tradición vegetariana budista y el papel del comedor de los templos en la cultura culinaria
+- [Cultura del desayuno en Taiwán](/es/food/taiwan-breakfast-culture) — Las versiones vegetarianas del shaobing, el danbing, la leche de soja y otros han pasado a ser opciones estándar en el desayuno taiwanés
 - [Industria de la tecnología alimentaria de Taiwán](/technology/台灣食品科技產業) — Contexto tecnológico e industrial de la tecnología de sucedáneos vegetales de imitación
 
 ## Referencias

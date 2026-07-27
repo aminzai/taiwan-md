@@ -96,7 +96,7 @@ En 2020, el capítulo sobre Taiwán de _Communicating Science: A Global Perspect
 
 La página oficial de PanSci no oculta su modelo comercial. Enumera proyectos publicitarios, producción audiovisual, colaboración en eventos, comercio electrónico y publicación de cursos en línea. [^about]
 
-Esto lo distingue mucho de [The Reporter](/es/Society/the-reporter-investigative-journalism/). The Reporter sitúa la “no interferencia de la publicidad ni de las tasas de clics” dentro de su compromiso ético como medio de investigación sin fines de lucro; PanSci, en cambio, desde el comienzo se pareció más a una empresa de comunidad de conocimiento. Quiere promover la discusión pública, pero también debe aceptar encargos, vender cursos, organizar actividades, producir video y vender productos.
+Esto lo distingue mucho de [The Reporter](/es/society/the-reporter-investigative-journalism/). The Reporter sitúa la “no interferencia de la publicidad ni de las tasas de clics” dentro de su compromiso ético como medio de investigación sin fines de lucro; PanSci, en cambio, desde el comienzo se pareció más a una empresa de comunidad de conocimiento. Quiere promover la discusión pública, pero también debe aceptar encargos, vender cursos, organizar actividades, producir video y vender productos.
 
 Cuando en 2014 PanSci se preparaba para independizarse y constituir Pan Knowledge, Cheng Kuo-wei lo llamó una empresa social. El problema que quería abordar era la “crisis ecológica del conocimiento”: la creación, transformación, difusión y aplicación del conocimiento tenían problemas. [^letter] Esa formulación es mucho más amplia que “sitio de divulgación científica”, y también mucho más riesgosa, porque empuja a PanSci hacia una zona gris entre medios, educación e industria.
 
@@ -136,7 +136,7 @@ La transformación aquí es interesante. Los primeros artículos de PanSci solí
 
 Cuando un sitio científico entra en el aula, sus lectores se convierten en “personas atrapadas entre el currículo, los exámenes, la capacidad lectora y el tiempo de preparación docente”. Esto cambia el escenario de la dimensión pública de PanSci: del foro público en internet a la lectura científica dentro de la escuela.
 
-Esto también permite compararlo con la [Enciclopedia de Taiwán](/es/Society/encyclopedia-of-taiwan/). La Enciclopedia de Taiwán fue un proyecto estatal para establecer una versión autorizada del conocimiento; PanSci, en cambio, es una plataforma privada que descompone el conocimiento científico en artículos, conjuntos de preguntas, cursos, videos y servicios. La primera pregunta es “quién tiene derecho a definir el conocimiento sobre Taiwán”; la segunda, “cómo puede el conocimiento ser visto, leído hasta el final, transformado y usado de nuevo”.
+Esto también permite compararlo con la [Enciclopedia de Taiwán](/es/society/encyclopedia-of-taiwan/). La Enciclopedia de Taiwán fue un proyecto estatal para establecer una versión autorizada del conocimiento; PanSci, en cambio, es una plataforma privada que descompone el conocimiento científico en artículos, conjuntos de preguntas, cursos, videos y servicios. La primera pregunta es “quién tiene derecho a definir el conocimiento sobre Taiwán”; la segunda, “cómo puede el conocimiento ser visto, leído hasta el final, transformado y usado de nuevo”.
 
 ## Un miércoles por la mañana, día de grabación
 
@@ -154,7 +154,7 @@ _Mirror Media_ escribió que Cheng Kuo-wei explica un paper científico en unas 
 
 Pero el video corto también vuelve la presión más desnuda. En la entrevista, Cheng habló de la ansiedad por el tráfico y dijo que, si la ciencia no se hubiera alejado de la sociedad, no habría necesidad de entrar en el campo de batalla de la ansiedad por el tráfico. [^mirror] Esa frase casi puede funcionar como una nota al pie de PanSci en la década de 2020: los comunicadores científicos entran en los algoritmos porque la discusión social ya ocurre allí.
 
-Esto también conecta a PanSci con la [industria y cultura de los YouTubers taiwaneses](/es/Culture/taiwan-youtuber-industry/). Cuando el contenido de conocimiento entra en YouTube y en el video corto, debe enfrentar, al igual que los creadores de entretenimiento, la frecuencia de actualización, los hábitos de audiencia, las reglas de plataforma y la conversión comercial; el contenido científico suma además otra presión, porque el costo del error recae sobre la comprensión pública.
+Esto también conecta a PanSci con la [industria y cultura de los YouTubers taiwaneses](/es/culture/taiwan-youtuber-industry/). Cuando el contenido de conocimiento entra en YouTube y en el video corto, debe enfrentar, al igual que los creadores de entretenimiento, la frecuencia de actualización, los hábitos de audiencia, las reglas de plataforma y la conversión comercial; el contenido científico suma además otra presión, porque el costo del error recae sobre la comprensión pública.
 
 ## Del sitio web a la industria del conocimiento
 
@@ -167,7 +167,7 @@ La página de 104 afirma que, tomando como base su experiencia en producción de
 
 Este paso permite a PanSci ir más allá de la divulgación científica propia y convertir sus capacidades acumuladas en datos, video, monetización y gestión de creadores en un sistema utilizable también por otros medios de conocimiento.
 
-Aquí también aparece su diferencia con [Thinking Taiwan Forum](/es/Society/thinking-taiwan-forum/). Thinking Taiwan Forum se parece más a una plataforma de artículos para el diálogo político y democrático; PanSci, en cambio, pasó de plataforma de artículos científicos a cadena de suministro de contenidos de conocimiento. Es al mismo tiempo medio, empresa de cursos, equipo audiovisual, herramienta de datos, red de creadores y proveedor de servicios publicitarios.
+Aquí también aparece su diferencia con [Thinking Taiwan Forum](/es/society/thinking-taiwan-forum/). Thinking Taiwan Forum se parece más a una plataforma de artículos para el diálogo político y democrático; PanSci, en cambio, pasó de plataforma de artículos científicos a cadena de suministro de contenidos de conocimiento. Es al mismo tiempo medio, empresa de cursos, equipo audiovisual, herramienta de datos, red de creadores y proveedor de servicios publicitarios.
 
 Esa transformación tiene riesgos. Cuanto más sabe una plataforma cómo ayudar a monetizar contenidos, más fácilmente se sospecha que la lógica de monetización puede terminar decidiendo el contenido. Pero también tiene un significado realista: si el contenido de conocimiento público no aprende a sobrevivir en la economía de plataformas, el algoritmo no dejará automáticamente al buen conocimiento en primera fila.
 
@@ -187,17 +187,17 @@ En una entrevista de LIS de 2022, Cheng Kuo-wei formuló así su declaración so
 
 La historia de quince años de PanSci no tiene una línea limpia de éxito. Tiene un proyecto fallido, entusiasmo comunitario, expansión comercial, controversias por patrocinio, productos educativos, ansiedad por el video corto y el intento de convertir el conocimiento en servicios industriales.
 
-Si [The Reporter](/es/Society/the-reporter-investigative-journalism/) respondió mediante periodismo de investigación sin fines de lucro a la pregunta “cómo debe financiarse la verdad pública”, PanSci responde otra pregunta: cómo puede la ciencia pública sobrevivir entre plataformas comerciales, aulas escolares y algoritmos sociales.
+Si [The Reporter](/es/society/the-reporter-investigative-journalism/) respondió mediante periodismo de investigación sin fines de lucro a la pregunta “cómo debe financiarse la verdad pública”, PanSci responde otra pregunta: cómo puede la ciencia pública sobrevivir entre plataformas comerciales, aulas escolares y algoritmos sociales.
 
 La respuesta sigue siendo inestable en 2026. Pero la pregunta que PanSci deja es clara: la ciencia es demasiado importante y necesita la participación de más personas; también es demasiado frágil, y si se entrega al algoritmo perderá el espesor de la discusión pública.
 
 **Lecturas complementarias**:
 
-- [The Reporter](/es/Society/the-reporter-investigative-journalism/) — También aborda la dimensión pública de los nuevos medios taiwaneses, pero The Reporter construye confianza mediante periodismo de investigación sin fines de lucro, en contraste con la ruta de PanSci como plataforma comercial de conocimiento.
-- [CommonWealth Magazine](/society/天下雜誌) — Nacida treinta años antes que PanSci, es el referente taiwanés de medios financieros y empresariales; también busca sobrevivir entre «lo público» y el mercado, pero ha tomado la ruta de los rankings empresariales y la suscripción de pago como medio de autoridad.
-- [Thinking Taiwan Forum](/es/Society/thinking-taiwan-forum/) — También es una plataforma de discusión pública; Thinking Taiwan Forum convierte el diálogo político y democrático en un contenedor de comentarios, mientras PanSci convierte la discusión científica en una industria del conocimiento.
-- [Enciclopedia de Taiwán](/es/Society/encyclopedia-of-taiwan/) — Contraste entre una ingeniería estatal del conocimiento y una comunidad civil de divulgación científica: una busca una versión autorizada; la otra busca legibilidad, circulación y transformación.
-- [Industria y cultura de los YouTubers taiwaneses](/es/Culture/taiwan-youtuber-industry/) — El ecosistema de plataformas más amplio que PanSci debe enfrentar tras entrar en el video corto, las MCN y la economía de creadores.
+- [The Reporter](/es/society/the-reporter-investigative-journalism/) — También aborda la dimensión pública de los nuevos medios taiwaneses, pero The Reporter construye confianza mediante periodismo de investigación sin fines de lucro, en contraste con la ruta de PanSci como plataforma comercial de conocimiento.
+- [CommonWealth Magazine](/es/society/commonwealth-magazine) — Nacida treinta años antes que PanSci, es el referente taiwanés de medios financieros y empresariales; también busca sobrevivir entre «lo público» y el mercado, pero ha tomado la ruta de los rankings empresariales y la suscripción de pago como medio de autoridad.
+- [Thinking Taiwan Forum](/es/society/thinking-taiwan-forum/) — También es una plataforma de discusión pública; Thinking Taiwan Forum convierte el diálogo político y democrático en un contenedor de comentarios, mientras PanSci convierte la discusión científica en una industria del conocimiento.
+- [Enciclopedia de Taiwán](/es/society/encyclopedia-of-taiwan/) — Contraste entre una ingeniería estatal del conocimiento y una comunidad civil de divulgación científica: una busca una versión autorizada; la otra busca legibilidad, circulación y transformación.
+- [Industria y cultura de los YouTubers taiwaneses](/es/culture/taiwan-youtuber-industry/) — El ecosistema de plataformas más amplio que PanSci debe enfrentar tras entrar en el video corto, las MCN y la economía de creadores.
 
 ## Fuentes de las imágenes
 

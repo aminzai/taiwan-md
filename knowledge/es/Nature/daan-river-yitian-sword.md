@@ -216,11 +216,11 @@ Y ahora, sobre aquella quebrada sin nombre en la cabecera del río Da'an, una la
 
 **Lecturas ampliadas**:
 
-- [Búho pescador de Blakiston](/nature/黃魚鴞) — También depende de árboles viejos y gigantes de media montaña y de ríos no cementados; el búho más grande de Taiwán vive en la estrecha franja donde los «árboles gigantes aún no han caído» y los «ríos aún no han sido canalizados»
-- [Salmón de Taiwán](/nature/櫻花鉤吻鮭) — Otro sobreviviente relicto de la era glacial, también escondido en la cuenca del arroyo Chichiawan, en Shei-Pa
-- [Oso negro de Taiwán](/nature/台灣黑熊) — También depende de grandes superficies de bosque primario poco frecuentado, otro indicador de la integridad de los bosques de montaña de Taiwán
-- [Ecosistema forestal de Taiwán](/nature/台灣森林生態系) — Coordenadas ecológicas de los bosques de niebla, las cinco coníferas valiosas y los árboles gigantes; la Espada Yitian es el punto más alto de este sistema
-- [Parques nacionales de Taiwán](/nature/台灣國家公園) — El Parque Nacional Shei-Pa y las áreas de la Agencia de Silvicultura y Conservación de la Naturaleza son los últimos refugios de estos árboles gigantes
+- [Búho pescador de Blakiston](/es/nature/tawny-fish-owl) — También depende de árboles viejos y gigantes de media montaña y de ríos no cementados; el búho más grande de Taiwán vive en la estrecha franja donde los «árboles gigantes aún no han caído» y los «ríos aún no han sido canalizados»
+- [Salmón de Taiwán](/es/nature/formosan-landlocked-salmon) — Otro sobreviviente relicto de la era glacial, también escondido en la cuenca del arroyo Chichiawan, en Shei-Pa
+- [Oso negro de Taiwán](/es/nature/taiwanese-black-bear) — También depende de grandes superficies de bosque primario poco frecuentado, otro indicador de la integridad de los bosques de montaña de Taiwán
+- [Ecosistema forestal de Taiwán](/es/nature/taiwan-forest-ecosystems) — Coordenadas ecológicas de los bosques de niebla, las cinco coníferas valiosas y los árboles gigantes; la Espada Yitian es el punto más alto de este sistema
+- [Parques nacionales de Taiwán](/es/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — El Parque Nacional Shei-Pa y las áreas de la Agencia de Silvicultura y Conservación de la Naturaleza son los últimos refugios de estos árboles gigantes
 
 ## Referencias
 

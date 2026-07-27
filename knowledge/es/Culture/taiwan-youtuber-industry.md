@@ -76,9 +76,9 @@ Desde el primer video de Tsai Aga hasta los diez millones de suscriptores de Chi
 
 **Lecturas complementarias**:
 
-- [A Shen (阿神)](/people/阿神) — A partir de su propio relato de once años de publicaciones diarias y dos anuncios distintos de pausa hasta su regreso en 2026, muestra de forma concreta cómo un creador reescribe un compromiso fijo de publicación.
-- [PanSci](/society/泛科學) — Desde los artículos de divulgación científica hacia los videos cortos, las MCN de YouTube y los servicios para creadores de conocimiento, ofrece un caso complementario sobre cómo los creadores de contenidos de conocimiento enfrentan los algoritmos y la comercialización.
-- [Wretch (無名小站)](/culture/無名小站) — La cuna de la primera generación de creadores amateur taiwaneses (Wan Wan, Giddens Ko, el álbum de chicas guapas); antes de que aparecieran los YouTubers, la economía del creador en Taiwán ya brotaba de allí.
+- [A Shen (阿神)](/es/people/red-shin-minecraft-youtuber) — A partir de su propio relato de once años de publicaciones diarias y dos anuncios distintos de pausa hasta su regreso en 2026, muestra de forma concreta cómo un creador reescribe un compromiso fijo de publicación.
+- [PanSci](/es/society/pansci) — Desde los artículos de divulgación científica hacia los videos cortos, las MCN de YouTube y los servicios para creadores de conocimiento, ofrece un caso complementario sobre cómo los creadores de contenidos de conocimiento enfrentan los algoritmos y la comercialización.
+- [Wretch (無名小站)](/es/culture/wretch) — La cuna de la primera generación de creadores amateur taiwaneses (Wan Wan, Giddens Ko, el álbum de chicas guapas); antes de que aparecieran los YouTubers, la economía del creador en Taiwán ya brotaba de allí.
 
 ## Referencias
 

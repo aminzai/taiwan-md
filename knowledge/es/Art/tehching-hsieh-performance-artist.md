@@ -166,9 +166,9 @@ Aquella hoja de papel con letras recortadas a la medianoche del 31 de diciembre 
 
 ## Lectura adicional
 
-- **[Arte de nuevos medios en Taiwán](/art/台灣新媒體藝術) — Desde Nie Yongzhen hasta el linaje del arte video contemporáneo taiwanés; Hsieh es una de las fuentes de esta línea**
-- **[Arte contemporáneo taiwanés](/art/當代藝術) — La posición de Hsieh en la historia del arte vanguardista taiwanés (si existe)**
-- **[Sensibilidad taiwanesa](/culture/台灣感性) — La otra cara de la exportación cultural taiwanesa desde la perspectiva coreana; Hsieh es el representante internacional de la estética de la concentración extrema de Taiwán**
+- **[Arte de nuevos medios en Taiwán](/es/art/taiwan-new-media-art) — Desde Nie Yongzhen hasta el linaje del arte video contemporáneo taiwanés; Hsieh es una de las fuentes de esta línea**
+- **[Arte contemporáneo taiwanés](/es/art/contemporary-art) — La posición de Hsieh en la historia del arte vanguardista taiwanés (si existe)**
+- **[Sensibilidad taiwanesa](/es/culture/taiwanese-sensibility) — La otra cara de la exportación cultural taiwanesa desde la perspectiva coreana; Hsieh es el representante internacional de la estética de la concentración extrema de Taiwán**
 
 ## Referencias
 

@@ -132,11 +132,11 @@ La cuenta no está saldada.
 
 ## Lectura adicional
 
-- [Robert Swinhoe: cuando el diplomático se convirtió en naturalista](/people/史溫侯) — Proveedor de las fuentes primarias de este artículo; su _Formosa Camphor_ de 1864 es la prehistoria de la Guerra del Alcanfor
-- [Período Qing](/history/清治時期) — Cómo la apertura portuaria de 1860 reestructuró la economía y la política de Taiwán
-- [Período japonés](/history/日治時期) — Cómo la Oficina de Monopolio del Alcanfor y la política de «apertura de montañas y pacificación de los bárbaros» continuaron la política forestal de finales del período Qing
-- [Historia de la explotación forestal de Taiwán](/history/台灣森林開發史) — El panorama completo de la explotación de los bosques taiwaneses, desde el alcanforero hasta el ciprés hinoki
-- [Alishan: el bosque del imperio y la montaña de Kao Yi-sheng](/history/阿里山：帝國的林場與高一生的山) — Cómo la explotación forestal se extendió al Alishan durante el período japonés y al Terror Blanco de posguerra
+- [Robert Swinhoe: cuando el diplomático se convirtió en naturalista](/es/people/robert-swinhoe-naturalist) — Proveedor de las fuentes primarias de este artículo; su _Formosa Camphor_ de 1864 es la prehistoria de la Guerra del Alcanfor
+- [Período Qing](/es/history/qing-dynasty-rule) — Cómo la apertura portuaria de 1860 reestructuró la economía y la política de Taiwán
+- [Período japonés](/es/history/japanese-colonial-era) — Cómo la Oficina de Monopolio del Alcanfor y la política de «apertura de montañas y pacificación de los bárbaros» continuaron la política forestal de finales del período Qing
+- [Historia de la explotación forestal de Taiwán](/es/history/taiwan-forestry-history) — El panorama completo de la explotación de los bosques taiwaneses, desde el alcanforero hasta el ciprés hinoki
+- [Alishan: el bosque del imperio y la montaña de Kao Yi-sheng](/es/history/alishan-empire-forest-and-uongu-yatauyungana) — Cómo la explotación forestal se extendió al Alishan durante el período japonés y al Terror Blanco de posguerra
 
 ---
 

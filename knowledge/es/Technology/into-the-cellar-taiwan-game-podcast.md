@@ -141,11 +141,11 @@ Los métodos cambiaron. El espíritu de «alguien dejó aquí la respuesta para 
 
 ## Lecturas complementarias
 
-- [Historia de la migración de las comunidades en línea de Taiwán](/technology/台灣網路社群遷徙史) — Del BBS a Threads, la historia de cómo los taiwaneses cambian de plataforma comunitaria
-- [El espíritu del código abierto en Taiwán](/technology/台灣開源精神) — Otro grupo de taiwaneses que trabajan «por amor al arte»
-- [PTT (批踢踢)](/technology/PTT批踢踢) — El BBS más longevo de Taiwán, contemporáneo de Bahamut
-- [Las dos espadas de Softstar](/technology/大宇雙劍) — La fuente de la educación sentimental en videojuegos de un solo jugador de la misma época
-- [Los momentos de locura de los jugadores taiwaneses](/technology/台灣玩家的瘋狂時刻) — El frenesí colectivo de las generaciones de jugadores de la Bodega, Gamebase y Bahamut
+- [Historia de la migración de las comunidades en línea de Taiwán](/es/technology/taiwan-online-community-migration) — Del BBS a Threads, la historia de cómo los taiwaneses cambian de plataforma comunitaria
+- [El espíritu del código abierto en Taiwán](/es/technology/taiwan-open-source-spirit) — Otro grupo de taiwaneses que trabajan «por amor al arte»
+- [PTT (批踢踢)](/es/technology/ptt-bulletin-board-system) — El BBS más longevo de Taiwán, contemporáneo de Bahamut
+- [Las dos espadas de Softstar](/es/technology/softstar-twin-classics) — La fuente de la educación sentimental en videojuegos de un solo jugador de la misma época
+- [Los momentos de locura de los jugadores taiwaneses](/es/technology/taiwan-gamers-wildest-moments) — El frenesí colectivo de las generaciones de jugadores de la Bodega, Gamebase y Bahamut
 
 ---
 

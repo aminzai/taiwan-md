@@ -299,9 +299,9 @@ Aquella llamada inconclusa dejó una voluntad pendiente y diez mil personas que 
 
 **Lecturas complementarias**:
 
-- [El ascenso de una isla de IA: desarrollo de la inteligencia artificial en Taiwán y estrategias futuras](/technology/AI發展) — relato panorámico de la arquitectura de políticas de IA de Taiwán, su despliegue industrial, cinco grandes áreas estratégicas y cooperación internacional
-- [La IA en la vida cotidiana de Taiwán](/technology/台灣AI日常) — implementación práctica de la IA en escenas cotidianas de Taiwán como tiendas de conveniencia, hospitales, campos agrícolas y aulas
-- [Industria de semiconductores](/technology/半導體產業) — cómo los ingenieros de IA formados por AIA en ocho años se reconectan con la cadena ICT existente de una potencia de semiconductores
+- [El ascenso de una isla de IA: desarrollo de la inteligencia artificial en Taiwán y estrategias futuras](/es/technology/ai-development-in-taiwan) — relato panorámico de la arquitectura de políticas de IA de Taiwán, su despliegue industrial, cinco grandes áreas estratégicas y cooperación internacional
+- [La IA en la vida cotidiana de Taiwán](/es/technology/taiwan-ai-in-daily-life) — implementación práctica de la IA en escenas cotidianas de Taiwán como tiendas de conveniencia, hospitales, campos agrícolas y aulas
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — cómo los ingenieros de IA formados por AIA en ocho años se reconectan con la cadena ICT existente de una potencia de semiconductores
 
 ## Fuentes de las imágenes
 

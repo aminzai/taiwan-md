@@ -96,9 +96,9 @@ Xue Menghui hojea el almanaque lunar repleto de anotaciones de su padre, cuyos t
 
 **Lectura adicional**:
 
-- [La cultura del banquete callejero en Taiwán](/food/台灣辦桌文化) — El escenario donde la cocina de mano maestra se concentra: desde el reino de los maestros de banquetes cultivado en la tierra creosa de Neimen, hasta todo un sistema de conocimiento ceremonial que atraviesa los tres reinos de humanos, dioses y espíritus
-- [Chen Yu-hsun](/people/陳玉勳) — Director de _Zone Pro Site_, que llevó al cine grandes platos en vías de extinción como _ji zai zhu du bie_ (pollo, estómago de cerdo y tortuga)
-- [La cultura de los mariscos en Taiwán](/food/台灣海鮮文化) — El contexto del sabor del mar taiwanés detrás del cangrejo rojo, la langosta y el pescado al vapor en la mesa principal del banquete
+- [La cultura del banquete callejero en Taiwán](/es/food/taiwan-banquet-culture) — El escenario donde la cocina de mano maestra se concentra: desde el reino de los maestros de banquetes cultivado en la tierra creosa de Neimen, hasta todo un sistema de conocimiento ceremonial que atraviesa los tres reinos de humanos, dioses y espíritus
+- [Chen Yu-hsun](/es/people/chen-yu-hsun-taiwan-comedy-film-magician) — Director de _Zone Pro Site_, que llevó al cine grandes platos en vías de extinción como _ji zai zhu du bie_ (pollo, estómago de cerdo y tortuga)
+- [La cultura de los mariscos en Taiwán](/es/food/taiwan-seafood-culture) — El contexto del sabor del mar taiwanés detrás del cangrejo rojo, la langosta y el pescado al vapor en la mesa principal del banquete
 
 ## Referencias
 

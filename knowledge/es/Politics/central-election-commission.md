@@ -179,7 +179,7 @@ La imparcialidad electoral no es una frase vacía: se sostiene sobre estos dise�
 
 ---
 
-[Centro de Política](/politics) · 2026 九合一選舉 (2026 九合一選舉) · 政治獻金透明度 (政治獻金透明度) · 九合一選舉是什麼 (九合一選舉是什麼) · 選舉公報 (選舉公報) · [Historia de la democratización de Taiwán](/es/History/taiwan-democratization-history/)
+[Centro de Política](/politics) · 2026 九合一選舉 (2026 九合一選舉) · 政治獻金透明度 (政治獻金透明度) · 九合一選舉是什麼 (九合一選舉是什麼) · 選舉公報 (選舉公報) · [Historia de la democratización de Taiwán](/es/history/taiwan-democratization-history/)
 
 ---
 

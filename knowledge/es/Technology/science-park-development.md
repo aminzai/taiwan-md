@@ -146,9 +146,9 @@ Hace cuarenta y cinco años, aquel arrozal apostó por la supervivencia. Tras ga
 
 **Lecturas complementarias**:
 
-- [Industria de semiconductores](/technology/半導體產業) — Cincuenta años de revolución de materiales, desde la transferencia tecnológica de RCA hasta el nitruro de galio y el empaquetado cuántico: cómo los chips de los parques llegaron a ser los más avanzados del mundo
-- [Las 50 mayores empresas de Taiwán](/economy/台灣前50大企業) — La “montaña sagrada que protege al país” sostiene una tabla y también un país con un único punto de falla: la otra cara de la concentración del valor de producción en los parques científicos
-- [Mountain Makers: The Gamble of the Century](/art/造山者世紀的賭注) — Documental de Hsiao Chu-chen de 2025, realizado tras cinco años de entrevistas con más de ochenta veteranos de los semiconductores, que lleva esta apuesta del siglo a la pantalla
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — Cincuenta años de revolución de materiales, desde la transferencia tecnológica de RCA hasta el nitruro de galio y el empaquetado cuántico: cómo los chips de los parques llegaron a ser los más avanzados del mundo
+- [Las 50 mayores empresas de Taiwán](/es/economy/top-50-companies-taiwan) — La “montaña sagrada que protege al país” sostiene una tabla y también un país con un único punto de falla: la otra cara de la concentración del valor de producción en los parques científicos
+- [Mountain Makers: The Gamble of the Century](/es/art/mountain-makers-tsmc-documentary) — Documental de Hsiao Chu-chen de 2025, realizado tras cinco años de entrevistas con más de ochenta veteranos de los semiconductores, que lleva esta apuesta del siglo a la pantalla
 
 ---
 

@@ -64,7 +64,7 @@ En el escenario internacional, el Palakaw también ha atraído una atención con
 
 Para los habitantes de Fataan, el Palakaw es una forma de dialogar con la tierra. Nos recuerda que, antes de exigirle algo a la naturaleza, el ser humano debe aprender a dar primero[^16]. Mientras la casa de los peces siga en pie, la vitalidad del arroyo no se agotará. Esta sabiduría de coexistencia con la naturaleza continúa transmitiendo su profunda influencia al mundo a través de la educación ambiental moderna y el ecoturismo[^17][^18].
 
-**Lecturas complementarias**: [Sabiduría ecológica indígena de Taiwán y conservación ambiental](/es/Nature/taiwanese-indigenous-ecological-wisdom-conservation/) ｜ [Islas periféricas y cultura marítima](/es/Geography/offshore-islands-and-maritime-culture/)
+**Lecturas complementarias**: [Sabiduría ecológica indígena de Taiwán y conservación ambiental](/es/nature/taiwanese-indigenous-ecological-wisdom-conservation/) ｜ [Islas periféricas y cultura marítima](/es/geography/offshore-islands-and-maritime-culture/)
 
 ## Referencias
 

@@ -272,14 +272,14 @@ Los nombres en la pared son cada vez más numerosos. Que quien sostiene la pluma
 
 **Lecturas relacionadas**:
 
-- [Jensen Huang: del adolescente que limpiaba baños al gurú de chaqueta de cuero de un imperio de cinco billones](/people/黃仁勳) — La historia personal del fundador de NVIDIA; este artículo apenas la toca. Su родина en Tainan y su trayectoria de crecimiento están aquí.
-- [Industria de semiconductores](/technology/半導體產業) — Por qué Taiwán pudo convertirse en el centro mundial de fabricación de chips; la cadena de suministro tratada aquí aparece con más contexto.
-- [Empresa taiwanesa: TSMC](/economy/台灣企業：台積電) — La “montaña sagrada que protege el país” que fabrica cada chip de NVIDIA, y la otra cara de lo que se le drena.
-- [Morris Chang: el destinatario de aquella carta y el imperio de fundición que construyó](/people/張忠謀) — La persona que recibió la carta de Jensen Huang en 1996, fundador de TSMC.
-- [Computex: cómo la feria de computadoras de Taipéi se convirtió en la ceremonia inaugural de la IA mundial](/technology/Computex) — El escenario donde se encendió aquel muro de logos, la cita anual central de la tecnología taiwanesa.
-- [Industria de inteligencia artificial](/technology/AI人工智慧產業) — Del ensamblaje de chips NVIDIA a la construcción de un ecosistema de IA: la posición de Taiwán en la ola de IA.
-- [Desarrollo de la inteligencia artificial en Taiwán y estrategias futuras](/technology/台灣人工智慧發展與未來策略) — IA soberana, TAIDE y la ambición nacional de Taiwán de subir desde la manufactura por contrato.
-- [Empresa taiwanesa: Hon Hai Precision](/economy/台灣企業：鴻海精密) — El gigante ODM que ensambla 40% de los racks de IA del mundo, las manos más grandes en el fondo de la curva de la sonrisa.
+- [Jensen Huang: del adolescente que limpiaba baños al gurú de chaqueta de cuero de un imperio de cinco billones](/es/people/jensen-huang) — La historia personal del fundador de NVIDIA; este artículo apenas la toca. Su родина en Tainan y su trayectoria de crecimiento están aquí.
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — Por qué Taiwán pudo convertirse en el centro mundial de fabricación de chips; la cadena de suministro tratada aquí aparece con más contexto.
+- [Empresa taiwanesa: TSMC](/es/economy/tsmc) — La “montaña sagrada que protege el país” que fabrica cada chip de NVIDIA, y la otra cara de lo que se le drena.
+- [Morris Chang: el destinatario de aquella carta y el imperio de fundición que construyó](/es/people/tsmc-morris-chang) — La persona que recibió la carta de Jensen Huang en 1996, fundador de TSMC.
+- [Computex: cómo la feria de computadoras de Taipéi se convirtió en la ceremonia inaugural de la IA mundial](/es/technology/computex-taipei) — El escenario donde se encendió aquel muro de logos, la cita anual central de la tecnología taiwanesa.
+- [Industria de inteligencia artificial](/es/technology/artificial-intelligence-industry) — Del ensamblaje de chips NVIDIA a la construcción de un ecosistema de IA: la posición de Taiwán en la ola de IA.
+- [Desarrollo de la inteligencia artificial en Taiwán y estrategias futuras](/es/technology/artificial-intelligence-development-strategy) — IA soberana, TAIDE y la ambición nacional de Taiwán de subir desde la manufactura por contrato.
+- [Empresa taiwanesa: Hon Hai Precision](/es/economy/foxconn-precision-industry) — El gigante ODM que ensambla 40% de los racks de IA del mundo, las manos más grandes en el fondo de la curva de la sonrisa.
 
 ## Fuentes de imágenes
 

@@ -137,9 +137,9 @@ El universitario que en 2013 tocaba Coldplay solo con su guitarra en el concurso
 
 ## Lectura complementaria
 
-- **[Waa Wei](/people/魏如萱)** — Prima de Kowen Ko, una de las dos reinas del canto femenino, también producida por Chen Chien-chi
-- **[Chen Chien-chi](/people/陳建騏)** — Productor de los tres álbumes completos de Kowen Ko, figura central en la producción musical sinófona
-- **[Hello Nico](/people/Hello-Nico)** — Otro referente de la música independiente taiwanesa que regresó tras un largo silencio, compartiendo con Kowen Ko el espectro de «creadores de ritmo lento»
+- **[Waa Wei](/es/people/waa-wei-singer)** — Prima de Kowen Ko, una de las dos reinas del canto femenino, también producida por Chen Chien-chi
+- **[Chen Chien-chi](/es/people/chen-chien-chi-music-producer)** — Productor de los tres álbumes completos de Kowen Ko, figura central en la producción musical sinófona
+- **[Hello Nico](/es/people/hello-nico-band)** — Otro referente de la música independiente taiwanesa que regresó tras un largo silencio, compartiendo con Kowen Ko el espectro de «creadores de ritmo lento»
 
 ## Referencias
 

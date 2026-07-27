@@ -99,11 +99,11 @@ Su epitafio no debería ser "heroína del Incidente de Zhongli", sino: **una muj
 
 **Lecturas complementarias**:
 
-- [Incidente de Zhongli](/history/台灣選舉與政黨政治) — El movimiento de masas que cambió la política callejera de Taiwán aquella noche del 19 de noviembre de 1977
-- [Incidente de Formosa](/history/美麗島事件) — La otra gran catástrofe del movimiento Tangwai dos años después, y el contexto de represión en el que vivió Huang Yu-chiao
-- [Transición democrática de Taiwán](/history/台灣民主轉型) — Cómo la generación de consejeros provinciales Tangwai de Huang Yu-chiao abrió espacios democráticos dentro del sistema autoritario
-- [Lee Teng-hui](/people/李登輝) — El presidente del Consejo Provincial con quien dialogó en el Consejo Provincial entre 1981 y 1984, y que posteriormente se convirtió en el primer presidente elegido democráticamente de Taiwán
-- [Lu Xiulian](/people/呂秀蓮) — Otra mujer política del movimiento Tangwai contemporánea de Huang Yu-chiao, pero que recorrió un camino completamente distinto
+- [Incidente de Zhongli](/es/history/taiwan-elections-and-party-politics) — El movimiento de masas que cambió la política callejera de Taiwán aquella noche del 19 de noviembre de 1977
+- [Incidente de Formosa](/es/history/kaohsiung-incident-formosa-incident) — La otra gran catástrofe del movimiento Tangwai dos años después, y el contexto de represión en el que vivió Huang Yu-chiao
+- [Transición democrática de Taiwán](/es/history/taiwan-democratization) — Cómo la generación de consejeros provinciales Tangwai de Huang Yu-chiao abrió espacios democráticos dentro del sistema autoritario
+- [Lee Teng-hui](/es/people/lee-teng-hui) — El presidente del Consejo Provincial con quien dialogó en el Consejo Provincial entre 1981 y 1984, y que posteriormente se convirtió en el primer presidente elegido democráticamente de Taiwán
+- [Lu Xiulian](/es/people/annette-lu) — Otra mujer política del movimiento Tangwai contemporánea de Huang Yu-chiao, pero que recorrió un camino completamente distinto
 
 ## Referencias
 

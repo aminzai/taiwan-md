@@ -86,10 +86,10 @@ La prisión de Isla Verde, esta isla solitaria en el Pacífico, alberga la memor
 
 **Lecturas complementarias**:
 
-- [Museo Nacional de Derechos Humanos](/history/國家人權博物館) — La institución nacional a la que pertenece el Parque de Isla Verde, desde el Centro de Reeducación de Xinsheng hasta el proceso de institucionalización como museo
-- [Terror Blanco en Taiwán](/history/台灣白色恐怖) — El panorama completo de los casos políticos durante los 38 años de ley marcial, siendo Isla Verde el centro de detención y reforma ideológica
-- [Período de ley marcial](/history/戒嚴時期) — El marco legal de 1949-1987
-- [Justicia transicional en Taiwán](/history/台灣轉型正義) — La tarea pendiente de revocar sentencias y exigir responsabilidades a los perpetradores
+- [Museo Nacional de Derechos Humanos](/es/history/national-human-rights-museum) — La institución nacional a la que pertenece el Parque de Isla Verde, desde el Centro de Reeducación de Xinsheng hasta el proceso de institucionalización como museo
+- [Terror Blanco en Taiwán](/es/history/taiwan-white-terror) — El panorama completo de los casos políticos durante los 38 años de ley marcial, siendo Isla Verde el centro de detención y reforma ideológica
+- [Período de ley marcial](/es/history/martial-law-era) — El marco legal de 1949-1987
+- [Justicia transicional en Taiwán](/es/history/taiwan-transitional-justice) — La tarea pendiente de revocar sentencias y exigir responsabilidades a los perpetradores
 
 ## Fuentes de las imágenes
 

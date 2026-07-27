@@ -132,14 +132,14 @@ Si en 2050 alguien quiere saber qué les importaba a los taiwaneses de 1987, qui
 
 **Lecturas complementarias**:
 
-- [Transición democrática de Taiwán](/history/台灣民主轉型) — Cuarenta años de transición desde la ley marcial al sistema democrático más libre de Asia
-- [Terror Blanco taiwanés](/history/台灣白色恐怖) — El precio real de los 38 años de ley marcial: causas políticas, víctimas y sistema de garantía colectiva
-- [Incidente de Kaohsiung (Formosa)](/history/美麗島事件) — Punto de inflexión clave en la última fase de la ley marcial, en 1979
-- [Democratización](/history/民主化) — El recorrido de Taiwán hacia la democracia tras el levantamiento de la ley marcial
-- [Incidente del 28 de febrero](/history/二二八事件) — Punto de inflexión histórico de 1947, en vísperas de la ley marcial
-- [Justicia transicional en Taiwán](/history/台灣轉型正義) — La investigación de la verdad y la búsqueda de responsabilidades de los autores tras el levantamiento de la ley marcial
-- [Teresa Teng](/people/鄧麗君) — Hija de un militar waisheng que creció bajo la ley marcial: estuvo siempre en la primera línea de la Guerra Fría, desde las giras de moral a las tropas en Kinmen hasta el cartel "Oposición al gobierno militar" en Happy Valley en 1989
-- [Teatro y Sala de Conciertos Nacionales](/culture/兩廳院) — Inaugurado en 1987, el mismo año del fin de la ley marcial; nacido con el lenguaje arquitectónico autoritario, es un microcosmos de la democratización del espacio cultural taiwanés tras esa fecha
+- [Transición democrática de Taiwán](/es/history/taiwan-democratization) — Cuarenta años de transición desde la ley marcial al sistema democrático más libre de Asia
+- [Terror Blanco taiwanés](/es/history/taiwan-white-terror) — El precio real de los 38 años de ley marcial: causas políticas, víctimas y sistema de garantía colectiva
+- [Incidente de Kaohsiung (Formosa)](/es/history/kaohsiung-incident-formosa-incident) — Punto de inflexión clave en la última fase de la ley marcial, en 1979
+- [Democratización](/es/history/taiwan-democratization-history) — El recorrido de Taiwán hacia la democracia tras el levantamiento de la ley marcial
+- [Incidente del 28 de febrero](/es/history/228-incident) — Punto de inflexión histórico de 1947, en vísperas de la ley marcial
+- [Justicia transicional en Taiwán](/es/history/taiwan-transitional-justice) — La investigación de la verdad y la búsqueda de responsabilidades de los autores tras el levantamiento de la ley marcial
+- [Teresa Teng](/es/people/teresa-teng) — Hija de un militar waisheng que creció bajo la ley marcial: estuvo siempre en la primera línea de la Guerra Fría, desde las giras de moral a las tropas en Kinmen hasta el cartel "Oposición al gobierno militar" en Happy Valley en 1989
+- [Teatro y Sala de Conciertos Nacionales](/es/culture/national-theater-and-concert-hall) — Inaugurado en 1987, el mismo año del fin de la ley marcial; nacido con el lenguaje arquitectónico autoritario, es un microcosmos de la democratización del espacio cultural taiwanés tras esa fecha
 
 ---
 

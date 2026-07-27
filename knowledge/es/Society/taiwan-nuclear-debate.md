@@ -249,11 +249,11 @@ Y ambos lados dicen estar del lado del futuro.
 
 ## Lecturas complementarias
 
-- [La crisis climática y la transición hacia cero emisiones netas en Taiwán](/nature/台灣氣候危機與淨零轉型) — La otra cara del mismo tema energético: límites físicos, oferta y demanda eléctrica, y calendario de reducción de carbono, como artículo hermano de este texto
-- [Historia del movimiento ambiental en Taiwán](/nature/台灣環境運動史) — El antinuclearismo como parte del movimiento ambiental taiwanés de posguerra, desde la oposición de Lukang a DuPont hasta el contexto completo de Kungliao
-- [Justicia ambiental y controversias NIMBY en Taiwán](/society/台灣環境正義與鄰避爭議) — La estructura NIMBY detrás de los residuos nucleares e Isla de las Orquídeas: por qué el riesgo cae siempre sobre los lugares con menos voz
-- [Movimientos sociales y participación ciudadana](/society/社會運動與公民參與) — Cómo el antinuclearismo compartió con el movimiento democrático taiwanés el mismo lenguaje y la misma energía
-- [Movimiento Estudiantil Girasol](/society/太陽花學運) — Otra movilización cívica de una misma generación, útil para entender el clima de época de los años del ayuno de Lin Yi-hsiung
+- [La crisis climática y la transición hacia cero emisiones netas en Taiwán](/es/nature/taiwan-climate-change-net-zero-transition) — La otra cara del mismo tema energético: límites físicos, oferta y demanda eléctrica, y calendario de reducción de carbono, como artículo hermano de este texto
+- [Historia del movimiento ambiental en Taiwán](/es/nature/taiwan-environmental-movement-history) — El antinuclearismo como parte del movimiento ambiental taiwanés de posguerra, desde la oposición de Lukang a DuPont hasta el contexto completo de Kungliao
+- [Justicia ambiental y controversias NIMBY en Taiwán](/es/society/taiwan-environmental-justice-nimby-conflicts) — La estructura NIMBY detrás de los residuos nucleares e Isla de las Orquídeas: por qué el riesgo cae siempre sobre los lugares con menos voz
+- [Movimientos sociales y participación ciudadana](/es/society/social-movements-and-civic-participation) — Cómo el antinuclearismo compartió con el movimiento democrático taiwanés el mismo lenguaje y la misma energía
+- [Movimiento Estudiantil Girasol](/es/society/sunflower-movement) — Otra movilización cívica de una misma generación, útil para entender el clima de época de los años del ayuno de Lin Yi-hsiung
 
 ## Datos abiertos
 

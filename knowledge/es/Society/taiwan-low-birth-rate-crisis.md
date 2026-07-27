@@ -222,10 +222,10 @@ El canto se hará más bajo, pero mientras alguien siga cantando, aún no será 
 
 **Lecturas relacionadas**:
 
-- [Educación rural en Taiwán](/society/台灣偏鄉教育) — Cuando el campo entró en la baja natalidad cuarenta años antes que la ciudad, las escuelas pequeñas de zonas rurales fueron el primer lugar al que llegó esta carta.
-- [Sistema educativo y cultura de ingreso a la universidad](/society/教育制度與升學文化) — El cierre de universidades y el abismo de estudiantes están íntimamente ligados a cómo toda la sociedad entiende el «ascenso educativo».
-- [Desarrollo del sistema de cuidados de larga duración en Taiwán](/society/台灣長期照顧制度發展) — Cuando la población de 65 años o más supera el 20% y las cuidadoras extranjeras sostienen 215.000 camas, los cuidados de larga duración son el otro extremo de la baja natalidad.
-- [Industria robótica de Taiwán](/technology/台灣機器人產業) — Si la disminución de población es un hecho, la automatización será una de las respuestas clave para «reorganizar la producción con una población menor».
+- [Educación rural en Taiwán](/es/society/taiwan-rural-education) — Cuando el campo entró en la baja natalidad cuarenta años antes que la ciudad, las escuelas pequeñas de zonas rurales fueron el primer lugar al que llegó esta carta.
+- [Sistema educativo y cultura de ingreso a la universidad](/es/society/education-system-and-admissions-culture) — El cierre de universidades y el abismo de estudiantes están íntimamente ligados a cómo toda la sociedad entiende el «ascenso educativo».
+- [Desarrollo del sistema de cuidados de larga duración en Taiwán](/es/society/long-term-care-system-development) — Cuando la población de 65 años o más supera el 20% y las cuidadoras extranjeras sostienen 215.000 camas, los cuidados de larga duración son el otro extremo de la baja natalidad.
+- [Industria robótica de Taiwán](/es/technology/taiwan-robotics-industry) — Si la disminución de población es un hecho, la automatización será una de las respuestas clave para «reorganizar la producción con una población menor».
 
 ## Referencias
 

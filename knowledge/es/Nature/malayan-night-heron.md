@@ -115,11 +115,11 @@ Robert Swinhoe escribió el carácter «稀有» (raro) en Tamsui hace 160 años
 
 **Lecturas complementarias**:
 
-- [Problema de colisiones de aves con ventanas en Taiwán](/nature/台灣鳥類窗殺議題) — Los atropellos de garzas nocturnas de capirote negro son solo una faceta del riesgo para las aves urbanas; las muertes anuales causadas por fachadas de cristal de los rascacielos operan a una escala aún más invisible.
-- [Ornitología de Formosa](/nature/福爾摩沙鳥類學) — La anotación de Robert Swinhoe en 1865 en Tamsui de que la garza nocturna de capirote negro era "rara" constituye uno de los primeros registros de la ornitología de esta isla.
-- [Ecosistemas forestales de Taiwán](/nature/台灣森林生態系) — El nicho original de bosque latifoliado de baja altitud de la garza nocturna de capirote negro, el grupo de control para entender su urbanización.
-- [El macaco de Taiwán](/nature/台灣獼猴) — Otro caso de fauna silvestre que penetra en el espacio de actividad humana, con una dinámica opuesta a la expansión de la garza nocturna de capirote negro: los humanos se lo encuentran constantemente en los caminos.
-- [Especies endémicas](/nature/特有種) — La garza nocturna de capirote negro no es endémica de Taiwán, pero la escala de expansión de su población urbana en Taiwán es única en el mundo.
+- [Problema de colisiones de aves con ventanas en Taiwán](/es/nature/bird-window-collision-taiwan) — Los atropellos de garzas nocturnas de capirote negro son solo una faceta del riesgo para las aves urbanas; las muertes anuales causadas por fachadas de cristal de los rascacielos operan a una escala aún más invisible.
+- [Ornitología de Formosa](/es/nature/the-ornithology-of-formosa) — La anotación de Robert Swinhoe en 1865 en Tamsui de que la garza nocturna de capirote negro era "rara" constituye uno de los primeros registros de la ornitología de esta isla.
+- [Ecosistemas forestales de Taiwán](/es/nature/taiwan-forest-ecosystems) — El nicho original de bosque latifoliado de baja altitud de la garza nocturna de capirote negro, el grupo de control para entender su urbanización.
+- [El macaco de Taiwán](/es/nature/formosan-rock-macaque) — Otro caso de fauna silvestre que penetra en el espacio de actividad humana, con una dinámica opuesta a la expansión de la garza nocturna de capirote negro: los humanos se lo encuentran constantemente en los caminos.
+- [Especies endémicas](/es/nature/endemic-species) — La garza nocturna de capirote negro no es endémica de Taiwán, pero la escala de expansión de su población urbana en Taiwán es única en el mundo.
 
 ## Créditos de imágenes
 

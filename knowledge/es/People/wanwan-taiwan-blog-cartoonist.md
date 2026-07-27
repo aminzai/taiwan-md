@@ -227,8 +227,8 @@ El calvo no recordará nunca por quién hizo horas extra ni por quién gritó qu
 
 **Lecturas complementarias:**
 
-- [Wretch: la red social taiwanesa anterior a Facebook](/culture/無名小站)
-- [Historia de las migraciones de comunidades en línea en Taiwán](/technology/台灣網路社群遷徙史)
-- [Memes de Taiwán](/culture/台灣迷因)
-- [Dcard](/culture/Dcard)
-- [Rainie Yang](/people/楊丞琳)
+- [Wretch: la red social taiwanesa anterior a Facebook](/es/culture/wretch)
+- [Historia de las migraciones de comunidades en línea en Taiwán](/es/technology/taiwan-online-community-migration)
+- [Memes de Taiwán](/es/culture/taiwan-meme-culture)
+- [Dcard](/es/culture/dcard-taiwan-social-platform)
+- [Rainie Yang](/es/people/rainie-yang)

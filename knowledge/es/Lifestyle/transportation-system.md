@@ -150,11 +150,11 @@ La historia del transporte marítimo es más dramática. Entre las décadas de 1
 
 **Lecturas complementarias**:
 
-- [El sistema de autobuses de Taiwán](/lifestyle/台灣的公車系統) — Cómo se mueven las «personas sin volante» en una isla de motocicletas, y por qué este sistema se está colapsando primero en las zonas rurales
-- [La cultura de las tiendas de conveniencia en Taiwán](/lifestyle/台灣便利商店文化) — Otra infraestructura que no deja de funcionar las 24 horas, igual que el sistema de transporte
-- [La cultura de la motocicleta en Taiwán](/lifestyle/台灣機車文化) — Detrás de los 14 millones de motocicletas: diseño urbano, política de clases y guerra por el derecho de vía
-- [El desarrollo de la cadena de suministro de vehículos eléctricos en Taiwán](/technology/台灣電動車產業鏈發展) — Más allá de Gogoro: el papel de Taiwán en la cadena global de suministro de vehículos eléctricos
-- [Características geográficas y formación de la isla de Taiwán](/geography/台灣島嶼地理特色與形成) — El origen geológico de placas de la Cordillera Central y la división este-oeste
+- [El sistema de autobuses de Taiwán](/es/lifestyle/taiwan-bus-system) — Cómo se mueven las «personas sin volante» en una isla de motocicletas, y por qué este sistema se está colapsando primero en las zonas rurales
+- [La cultura de las tiendas de conveniencia en Taiwán](/es/lifestyle/convenience-store-culture) — Otra infraestructura que no deja de funcionar las 24 horas, igual que el sistema de transporte
+- [La cultura de la motocicleta en Taiwán](/es/lifestyle/taiwan-scooter-culture) — Detrás de los 14 millones de motocicletas: diseño urbano, política de clases y guerra por el derecho de vía
+- [El desarrollo de la cadena de suministro de vehículos eléctricos en Taiwán](/es/technology/taiwan-electric-vehicle-industry-chain) — Más allá de Gogoro: el papel de Taiwán en la cadena global de suministro de vehículos eléctricos
+- [Características geográficas y formación de la isla de Taiwán](/es/geography/geography-and-geology) — El origen geológico de placas de la Cordillera Central y la división este-oeste
 
 ## Datos abiertos
 

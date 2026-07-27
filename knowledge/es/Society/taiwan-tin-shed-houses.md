@@ -115,9 +115,9 @@ Ambos tienen razón. La ampliación de lámina donde murió la familia de cinco 
 
 **Lecturas complementarias**:
 
-- [Vivienda social y justicia habitacional](/society/社會住宅與居住正義) — Las dificultades de la promoción de vivienda social en Taiwán y los problemas del mercado de alquiler: la estructura habitacional más amplia a la que pertenece el problema de las casas de lámina.
-- [Justicia ambiental y conflictos NIMBY en Taiwán](/society/台灣環境正義與鄰避爭議) — La extensión de los problemas de uso del suelo y contaminación ambiental detrás de la demolición de las fábricas de lámina de Wenzizun.
-- [Justicia territorial de los pueblos indígenas de Taiwán y territorios tradicionales](/society/台灣原住民族土地正義與傳統領域) — Una perspectiva distinta para comprender la complejidad del uso del suelo entre lo "legal" y lo "ilegal" en Taiwán.
+- [Vivienda social y justicia habitacional](/es/society/social-housing-and-housing-justice) — Las dificultades de la promoción de vivienda social en Taiwán y los problemas del mercado de alquiler: la estructura habitacional más amplia a la que pertenece el problema de las casas de lámina.
+- [Justicia ambiental y conflictos NIMBY en Taiwán](/es/society/taiwan-environmental-justice-nimby-conflicts) — La extensión de los problemas de uso del suelo y contaminación ambiental detrás de la demolición de las fábricas de lámina de Wenzizun.
+- [Justicia territorial de los pueblos indígenas de Taiwán y territorios tradicionales](/es/society/indigenous-land-justice-and-traditional-territories) — Una perspectiva distinta para comprender la complejidad del uso del suelo entre lo "legal" y lo "ilegal" en Taiwán.
 
 ## Referencias
 

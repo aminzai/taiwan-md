@@ -123,10 +123,10 @@ En 2015 caminó 315 kilómetros de regreso a Tainan. En 2024 recorrió los camin
 
 **Lecturas complementarias**:
 
-- [EggPlantEgg](/music/茄子蛋) — Banda que también irrumpió en la corriente principal componiendo en taiwanés, Mejor Artista Nuevo en los Golden Melody 2019
-- [Música independiente taiwanesa](/music/台灣獨立音樂) — De la escena underground a la era del streaming, cómo ha evolucionado el ecosistema de música independiente al que pertenece Crowd Lu
-- [Q Place](/art/植劇場) — El proyecto de innovación dramática dirigido por Wang Xiao-dian, lugar de nacimiento de _El chico Hua Jia crece_
-- [Desarrollo del hip hop y rap taiwanés](/music/台灣嘻哈與饒舌發展) — Otra vía evolutiva de la música taiwanesa durante el mismo periodo
+- [EggPlantEgg](/es/music/eggplant-egg-band) — Banda que también irrumpió en la corriente principal componiendo en taiwanés, Mejor Artista Nuevo en los Golden Melody 2019
+- [Música independiente taiwanesa](/es/music/indie-music-scene) — De la escena underground a la era del streaming, cómo ha evolucionado el ecosistema de música independiente al que pertenece Crowd Lu
+- [Q Place](/es/art/qseries-drama-platform) — El proyecto de innovación dramática dirigido por Wang Xiao-dian, lugar de nacimiento de _El chico Hua Jia crece_
+- [Desarrollo del hip hop y rap taiwanés](/es/music/taiwan-hip-hop-and-rap) — Otra vía evolutiva de la música taiwanesa durante el mismo periodo
 
 ## Referencias
 

@@ -144,10 +144,10 @@ Esa instrucción quedó capturada esta vez; la próxima vez, no será tan fácil
 
 ## Lecturas complementarias
 
-- [Operaciones de cognición](/society/認知作戰) — Marco, límites y principios de interpretación de la información manipulada.
-- [Operación de patata venenosa](/society/毒馬鈴薯認知作戰) — Caso de narrativa que “pisa la base real” y rechaza la visión binaria.
-- [Laboratorio de IA de Taiwán](/technology/台灣人工智慧實驗室) — Tecnologías locales que usan IA para detectar operaciones coordinadas.
-- [Medios de Taiwán y libertad de prensa](/society/台灣媒體與新聞自由) — Contexto más amplio del conglomerado Wang‑Wang.
+- [Operaciones de cognición](/es/society/cognitive-warfare-against-taiwan) — Marco, límites y principios de interpretación de la información manipulada.
+- [Operación de patata venenosa](/es/society/poisoned-potato-cognitive-warfare-taiwan) — Caso de narrativa que “pisa la base real” y rechaza la visión binaria.
+- [Laboratorio de IA de Taiwán](/es/technology/taiwan-ai-labs) — Tecnologías locales que usan IA para detectar operaciones coordinadas.
+- [Medios de Taiwán y libertad de prensa](/es/society/media-and-press-freedom-in-taiwan) — Contexto más amplio del conglomerado Wang‑Wang.
 
 ## Referencias
 

@@ -160,12 +160,12 @@ Le 8 mai 2026, c'est le 31ème anniversaire de sa mort. La suite présidentielle
 
 **Lecture complémentaire** :
 
-- [Musique pop taïwanaise](/music/台灣流行音樂) — L'âge d'or de la musique pop mandarin et le contexte industriel dans lequel elle évoluait
-- [Mouvement de la chanson folk taïwanaise](/music/台灣民歌運動) — Un mouvement d'éveil local dans la scène musicale taïwanaise des années 1970, de la même génération qu'elle
-- [Période de la loi martiale](/history/戒嚴時期) — La structure politique fondamentale de la société taïwanaise avant son départ pour le Japon à 20 ans
-- [Terreur blanche à Taïwan](/history/台灣白色恐怖) — Le climat politique de Taïwan pendant sa période de croissance
-- [Crise du détroit de Taïwan et développement des relations entre les deux rives](/history/台海危機與兩岸關係發展) — La frontière de la Guerre froide qu'elle a contournée par sa voix
-- [Lin Qingxia](/people/林青霞) — Une autre superstar du cinéma et de la télévision taïwanaise de sa génération, un autre coordinateur du réseau des stars chinoises d'Asie de l'Est des années 1970-1980
+- [Musique pop taïwanaise](/es/music/golden-melodies-legacy-taiwan-pop-music) — L'âge d'or de la musique pop mandarin et le contexte industriel dans lequel elle évoluait
+- [Mouvement de la chanson folk taïwanaise](/es/music/taiwan-campus-folk-song-movement) — Un mouvement d'éveil local dans la scène musicale taïwanaise des années 1970, de la même génération qu'elle
+- [Période de la loi martiale](/es/history/martial-law-era) — La structure politique fondamentale de la société taïwanaise avant son départ pour le Japon à 20 ans
+- [Terreur blanche à Taïwan](/es/history/taiwan-white-terror) — Le climat politique de Taïwan pendant sa période de croissance
+- [Crise du détroit de Taïwan et développement des relations entre les deux rives](/es/history/taiwan-strait-crises-and-cross-strait-relations) — La frontière de la Guerre froide qu'elle a contournée par sa voix
+- [Lin Qingxia](/es/people/brigitte-lin-legendary-actress) — Une autre superstar du cinéma et de la télévision taïwanaise de sa génération, un autre coordinateur du réseau des stars chinoises d'Asie de l'Est des années 1970-1980
 
 ## Références
 

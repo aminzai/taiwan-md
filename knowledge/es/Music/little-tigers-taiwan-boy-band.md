@@ -157,10 +157,10 @@ Julian Chen dijo que “no quiero que otros vuelvan a arrastrarme hacia eso”. 
 
 **Lecturas complementarias**:
 
-- [Música pop taiwanesa](/music/台灣流行音樂) — Todo el arco que va de la canción folk y el mandopop a la industria idol, donde Little Tigers es una pieza clave
-- [Música popular y Golden Melody Awards](/music/金曲獎) — Cómo Taiwán usa un premio para definir qué significa “buena música pop en chino”
-- [Jay Chou](/people/周杰倫) — Después de la industria idol, otra forma de subjetividad musical en chino surgida desde Taiwán
-- [Mayday](/music/五月天) — Una banda que también empezó localmente y se volvió popular en todo el mundo sinófono, pero por un camino completamente distinto al de los grupos idol
+- [Música pop taiwanesa](/es/music/golden-melodies-legacy-taiwan-pop-music) — Todo el arco que va de la canción folk y el mandopop a la industria idol, donde Little Tigers es una pieza clave
+- [Música popular y Golden Melody Awards](/es/music/pop-music-and-golden-melody-awards) — Cómo Taiwán usa un premio para definir qué significa “buena música pop en chino”
+- [Jay Chou](/es/people/jay-chou) — Después de la industria idol, otra forma de subjetividad musical en chino surgida desde Taiwán
+- [Mayday](/es/music/mayday-band) — Una banda que también empezó localmente y se volvió popular en todo el mundo sinófono, pero por un camino completamente distinto al de los grupos idol
 
 ## Fuentes de las imágenes
 

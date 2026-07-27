@@ -235,14 +235,14 @@ El Parque Nacional Taroko quizás se abra de nuevo en 7 años. Pero después del
 
 ## Lecturas adicionales
 
-- [Yilan](/geography/宜蘭縣) — Artículo simultáneo de la serie 22 condados y ciudades, los kavalan de la comunidad Kalawan migraron del sur desde la llanura de Lanyang (Yilan) a Hualien en la década de 1830, los dos artículos son extensiones mutuas.
-- [Keelung](/geography/基隆市) — Primer artículo piloto de la serie 22 condados y ciudades, junto con Hualien, son condados costeros del noreste «invisibles para la capital».
-- [Parque Nacional Taroko](/nature/台灣國家公園) — El cuarto parque nacional de Taiwán establecido en 1986, estimado en 7 años de recuperación tras el terremoto 0403.
-- [Movimientos de placas y actividad sísmica de Taiwán](/geography/台灣板塊運動與地震活動) — La posición del terremoto 0403 en la historia sísmica de Taiwán: el sistema de fallas del valle longitudinal en la zona de colisión de la placa del Mar de Filipinas y la placa euroasiática.
-- [Historia y movimiento de reconocimiento oficial de las etnias indígenas de Taiwán](/history/台灣原住民族歷史與正名運動) — La trayectoria del movimiento de reconocimiento oficial del pueblo Sakizaya, Taroko, Seediq y Kavalan en Hualien.
-- [Mapa cultural de las 16 etnias indígenas de Taiwán](/culture/台灣原住民族16族文化地圖) — La distribución de los pueblos Amis, Taroko, Sakizaya, Seediq, Bunun y Kavalan en Hualien.
-- [Período colonial japonés](/history/日治時期) — Los tres pueblos de inmigrantes Fengtian, Yonokuni y Lintian en 1913; el incidente de Taroko de 1914; el reasentamiento grupal del pueblo Bunun en la década de 1930.
-- [Yi-shiong Lin](/people/林義雄) — Activista del movimiento fuera del partido, originario de Wujie (Yilan), comparte el mismo eje de democratización de Taiwán de la década de 1980 con Hualien.
+- [Yilan](/es/geography/yilan-county) — Artículo simultáneo de la serie 22 condados y ciudades, los kavalan de la comunidad Kalawan migraron del sur desde la llanura de Lanyang (Yilan) a Hualien en la década de 1830, los dos artículos son extensiones mutuas.
+- [Keelung](/es/geography/keelung-city) — Primer artículo piloto de la serie 22 condados y ciudades, junto con Hualien, son condados costeros del noreste «invisibles para la capital».
+- [Parque Nacional Taroko](/es/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — El cuarto parque nacional de Taiwán establecido en 1986, estimado en 7 años de recuperación tras el terremoto 0403.
+- [Movimientos de placas y actividad sísmica de Taiwán](/es/geography/tectonic-plates-and-seismic-activity) — La posición del terremoto 0403 en la historia sísmica de Taiwán: el sistema de fallas del valle longitudinal en la zona de colisión de la placa del Mar de Filipinas y la placa euroasiática.
+- [Historia y movimiento de reconocimiento oficial de las etnias indígenas de Taiwán](/es/history/indigenous-peoples-history-and-naming-movement) — La trayectoria del movimiento de reconocimiento oficial del pueblo Sakizaya, Taroko, Seediq y Kavalan en Hualien.
+- [Mapa cultural de las 16 etnias indígenas de Taiwán](/es/culture/indigenous-peoples-16-tribes-cultural-map) — La distribución de los pueblos Amis, Taroko, Sakizaya, Seediq, Bunun y Kavalan en Hualien.
+- [Período colonial japonés](/es/history/japanese-colonial-era) — Los tres pueblos de inmigrantes Fengtian, Yonokuni y Lintian en 1913; el incidente de Taroko de 1914; el reasentamiento grupal del pueblo Bunun en la década de 1930.
+- [Yi-shiong Lin](/es/people/lin-yi-hsiung-democracy-advocate-tragedy-survivor) — Activista del movimiento fuera del partido, originario de Wujie (Yilan), comparte el mismo eje de democratización de Taiwán de la década de 1980 con Hualien.
 
 ## Fuentes de imagen
 

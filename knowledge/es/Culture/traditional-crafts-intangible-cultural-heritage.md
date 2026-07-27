@@ -232,11 +232,11 @@ Cuanto más larga es la lista, menos gente queda para enseñar. La próxima vez 
 
 **Lecturas complementarias**:
 
-- [Teñido índigo](/culture/藍染) — historia completa del teñido índigo, desde ser un producto de exportación estrella en la dinastía Qing hasta casi desaparecer en 1940, y su renacimiento actual en Sanxia, Miaoli, Taiping y Jingliao, cada uno a su manera
-- [Tela floreada taiwanesa](/culture/台灣花布) — viaje identitario de la tela roja floreada hakka, de producto fabril del periodo japonés a símbolo de cultura local
-- [Sombrilla de papel](/culture/紙傘) — trayectoria de transformación de las sombrillas de papel de Meinong, de objetos cotidianos para la lluvia a piezas artísticas
-- [Sombrero de junco](/culture/斗笠) — objeto representativo del tejido de junco y la artesanía rural taiwanesa
-- [Fiestas y celebraciones tradicionales](/culture/傳統節慶與慶典) — la artesanía como soporte material de las festividades: figuras de papel de los fuegos artificiales de Yanshui, palanquines divinos de la peregrinación de Mazu
+- [Teñido índigo](/es/culture/taiwan-indigo-dyeing) — historia completa del teñido índigo, desde ser un producto de exportación estrella en la dinastía Qing hasta casi desaparecer en 1940, y su renacimiento actual en Sanxia, Miaoli, Taiping y Jingliao, cada uno a su manera
+- [Tela floreada taiwanesa](/es/culture/taiwan-floral-fabric) — viaje identitario de la tela roja floreada hakka, de producto fabril del periodo japonés a símbolo de cultura local
+- [Sombrilla de papel](/es/culture/taiwan-paper-umbrella) — trayectoria de transformación de las sombrillas de papel de Meinong, de objetos cotidianos para la lluvia a piezas artísticas
+- [Sombrero de junco](/es/culture/bamboo-hat-craft) — objeto representativo del tejido de junco y la artesanía rural taiwanesa
+- [Fiestas y celebraciones tradicionales](/es/culture/traditional-festivals-and-celebrations) — la artesanía como soporte material de las festividades: figuras de papel de los fuegos artificiales de Yanshui, palanquines divinos de la peregrinación de Mazu
 
 ---
 

@@ -182,10 +182,10 @@ El próximo desastre llegará inevitablemente. Los andenes de la estación de Gu
 
 **Lecturas adicionales**:
 
-- [Artistas indígenas contemporáneos](/music/當代原住民創作歌手) — Cómo músicos indígenas como Chen Chien-yen y Huduf integran la experiencia tribal en el paisaje sonoro de la Taiwán actual.
-- [Cultura del voluntariado y participación pública en Taiwán](/society/台灣志工文化與公益參與) — El ecosistema de la sociedad civil taiwanesa, desde Tzu Chi hasta innumerables pequeñas ONG.
-- [Mitología indígena](/culture/原住民神話) — Desde el mito de creación de Matawan hasta las leyendas de Taroko y Paiwan: temas de inundación y memoria geográfica de la isla de Taiwán.
-- [Justicia de tierras y territorios tradicionales de los pueblos indígenas de Taiwán](/society/台灣原住民族土地正義與傳統領域) — Autonomía tribal, delimitación de territorios tradicionales y la subjetividad indígena en la reconstrucción post-desastre.
+- [Artistas indígenas contemporáneos](/es/music/contemporary-indigenous-singer-songwriters) — Cómo músicos indígenas como Chen Chien-yen y Huduf integran la experiencia tribal en el paisaje sonoro de la Taiwán actual.
+- [Cultura del voluntariado y participación pública en Taiwán](/es/society/volunteering-and-civic-charity-in-taiwan) — El ecosistema de la sociedad civil taiwanesa, desde Tzu Chi hasta innumerables pequeñas ONG.
+- [Mitología indígena](/es/culture/taiwan-indigenous-mythology) — Desde el mito de creación de Matawan hasta las leyendas de Taroko y Paiwan: temas de inundación y memoria geográfica de la isla de Taiwán.
+- [Justicia de tierras y territorios tradicionales de los pueblos indígenas de Taiwán](/es/society/indigenous-land-justice-and-traditional-territories) — Autonomía tribal, delimitación de territorios tradicionales y la subjetividad indígena en la reconstrucción post-desastre.
 
 ## Fuentes de las imágenes
 

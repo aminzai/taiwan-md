@@ -208,16 +208,16 @@ La próxima vez que vayas a Changhua, no te limites a pasear por el casco antigu
 
 ## Lecturas complementarias
 
-- [Cultura de los cascos antiguos y zonas comerciales de Taiwán](/culture/台灣老街文化與商業街區) — El contexto comparativo de la tipología de calle comercial portuaria de la era Qing del casco antiguo de Lukang con otros cascos antiguos de Taiwán
-- [Sistema fluvial y características hidrológicas de Taiwán](/geography/台灣河川系統與水文特色) — Cómo los ríos Zhuoshui y Dadu configuraron la llanura de Changhua, el contexto hidrológico del canal Baobang
-- [Paisaje agrícola y distribución industrial de Taiwán](/geography/台灣農業地景與產業分布) — La posición de Changhua como gran condado agrícola en el mapa agrícola de todo Taiwán
-- [Divisiones administrativas de Taiwán](/geography/台灣行政區劃) — La evolución administrativa completa: fundación del condado en 1723, cambio a prefectura de Taichung en 1920, restablecimiento del condado de Changhua en 1945
-- [Movimientos sociales y participación ciudadana](/society/社會運動與公民參與) — La posición del incidente de Erlin de 1925 y el movimiento anti-DuPont de 1986 en la historia del movimiento social de Taiwán
-- [Protección ambiental y desarrollo sostenible](/society/環保與永續發展) — El movimiento anti-DuPont de Lukang de 1986 como punto de partida del primer movimiento ambientalista de Taiwán
-- [Cultura de pasteles y repostería de Taiwán](/food/台灣糕餅文化) — El origen de las albóndigas de arroz de Beidou en 1898, la herencia centenaria de las pastelerías de Lukang
-- [Azúcar de Taiwán (Taisugar)](/economy/台糖) — La Compañía Azucarera Lin Benyuan detrás del incidente de Erlin de 1925, el imperio azucarero colonial japonés
-- [Condado de Keelung](/geography/基隆市) — Otro condado moldeado por un puerto en la serie de 22 condados y ciudades, comparando las diferentes líneas de fractura de dos "puertos en declive"
-- [Condado de Hsinchu](/geography/新竹縣) — Serie de 22 condados y ciudades: pueblo hakka rodeando un parque científico, formando una estructura demográfica diferente dentro del corredor central en comparación con el gran condado agrícola de Changhua
+- [Cultura de los cascos antiguos y zonas comerciales de Taiwán](/es/culture/taiwan-historic-streets-and-commercial-districts) — El contexto comparativo de la tipología de calle comercial portuaria de la era Qing del casco antiguo de Lukang con otros cascos antiguos de Taiwán
+- [Sistema fluvial y características hidrológicas de Taiwán](/es/geography/taiwan-river-systems-and-hydrology) — Cómo los ríos Zhuoshui y Dadu configuraron la llanura de Changhua, el contexto hidrológico del canal Baobang
+- [Paisaje agrícola y distribución industrial de Taiwán](/es/geography/taiwan-agricultural-landscapes-and-industry-belts) — La posición de Changhua como gran condado agrícola en el mapa agrícola de todo Taiwán
+- [Divisiones administrativas de Taiwán](/es/geography/administrative-divisions-of-taiwan) — La evolución administrativa completa: fundación del condado en 1723, cambio a prefectura de Taichung en 1920, restablecimiento del condado de Changhua en 1945
+- [Movimientos sociales y participación ciudadana](/es/society/social-movements-and-civic-participation) — La posición del incidente de Erlin de 1925 y el movimiento anti-DuPont de 1986 en la historia del movimiento social de Taiwán
+- [Protección ambiental y desarrollo sostenible](/es/society/environmental-awakening-and-net-zero-transition) — El movimiento anti-DuPont de Lukang de 1986 como punto de partida del primer movimiento ambientalista de Taiwán
+- [Cultura de pasteles y repostería de Taiwán](/es/food/taiwan-pastry-culture) — El origen de las albóndigas de arroz de Beidou en 1898, la herencia centenaria de las pastelerías de Lukang
+- [Azúcar de Taiwán (Taisugar)](/es/economy/taiwan-sugar) — La Compañía Azucarera Lin Benyuan detrás del incidente de Erlin de 1925, el imperio azucarero colonial japonés
+- [Condado de Keelung](/es/geography/keelung-city) — Otro condado moldeado por un puerto en la serie de 22 condados y ciudades, comparando las diferentes líneas de fractura de dos "puertos en declive"
+- [Condado de Hsinchu](/es/geography/hsinchu-county) — Serie de 22 condados y ciudades: pueblo hakka rodeando un parque científico, formando una estructura demográfica diferente dentro del corredor central en comparación con el gran condado agrícola de Changhua
 
 ## Créditos de imágenes
 

@@ -245,7 +245,7 @@ Y esa quizá sea la forma más exacta de cerrar este texto sin cerrarlo del todo
 
 **Lecturas complementarias**:
 
-- [Leyes gemelas de medicina regenerativa × 30 años de mRNA](/society/台灣再生醫療雙法沿革從業人員告白) — Las leyes gemelas de medicina regenerativa aprobadas en 2024 y la puesta al día de la plataforma taiwanesa de mRNA comparten con la controversia sobre los medicamentos veterinarios la misma filosofía regulatoria de «cómo el Estado regula la tecnología médica de vanguardia»
+- [Leyes gemelas de medicina regenerativa × 30 años de mRNA](/es/society/taiwan-regenerative-medicine-laws) — Las leyes gemelas de medicina regenerativa aprobadas en 2024 y la puesta al día de la plataforma taiwanesa de mRNA comparten con la controversia sobre los medicamentos veterinarios la misma filosofía regulatoria de «cómo el Estado regula la tecnología médica de vanguardia»
 
 ## Referencias
 

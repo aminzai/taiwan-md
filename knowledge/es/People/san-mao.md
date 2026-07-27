@@ -136,11 +136,11 @@ Una persona que pasó su vida huyendo, terminó convirtiéndose en el camino de 
 
 ## Lecturas relacionadas
 
-- [Pai Hsien-yung](/People/白先勇): La persona que impulsó la obra debut de Sanmao en _Modern Literature_.
-- [Brigitte Lin](/People/林青霞): Gracias a _A Rose in the$\\1$ Dark_ ganó el premio a la mejor actriz, pero también perdió a una amiga.
-- [Movimiento de la Música Folk de Taiwán](/Music/台灣民歌運動): El terreno donde nació "El Árbol de Olivo".
-- [Ensayo taiwanés](/Art/台灣散文): El panorama de género literario que Sanmao ocupó.
-- [Xi Mu-rong](/People/席慕蓉): Otra escritora de su época que grabó tierras extrañas en el corazón de los taiwaneses.
+- [Pai Hsien-yung](/es/people/pai-hsien-yung-literary-master): La persona que impulsó la obra debut de Sanmao en _Modern Literature_.
+- [Brigitte Lin](/es/people/brigitte-lin-legendary-actress): Gracias a _A Rose in the$\\1$ Dark_ ganó el premio a la mejor actriz, pero también perdió a una amiga.
+- [Movimiento de la Música Folk de Taiwán](/es/music/taiwan-campus-folk-song-movement): El terreno donde nació "El Árbol de Olivo".
+- [Ensayo taiwanés](/es/art/taiwanese-prose): El panorama de género literario que Sanmao ocupó.
+- [Xi Mu-rong](/es/people/ximurong): Otra escritora de su época que grabó tierras extrañas en el corazón de los taiwaneses.
 
 ## Referencias
 

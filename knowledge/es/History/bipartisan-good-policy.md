@@ -295,9 +295,9 @@ Pero hay algo seguro: si miramos solo con la vara azul-verde, siempre recordarem
 
 ## Lecturas complementarias
 
-- [Transición democrática de Taiwán](/history/台灣民主轉型) — De 228 al Movimiento Girasol, cómo el autoritarismo cultivó con sus propias manos la fuerza que lo enterraría
-- [Justicia transicional de Taiwán](/history/台灣轉型正義) — La brecha entre anular casi seis mil sentencias condenatorias y que casi ningún perpetrador haya sido perseguido
-- [Crisis del estrecho de Taiwán y desarrollo de las relaciones a ambos lados del estrecho](/history/台海危機與兩岸關係發展) — El contexto completo de la crisis de misiles de 1996
+- [Transición democrática de Taiwán](/es/history/taiwan-democratization) — De 228 al Movimiento Girasol, cómo el autoritarismo cultivó con sus propias manos la fuerza que lo enterraría
+- [Justicia transicional de Taiwán](/es/history/taiwan-transitional-justice) — La brecha entre anular casi seis mil sentencias condenatorias y que casi ningún perpetrador haya sido perseguido
+- [Crisis del estrecho de Taiwán y desarrollo de las relaciones a ambos lados del estrecho](/es/history/taiwan-strait-crises-and-cross-strait-relations) — El contexto completo de la crisis de misiles de 1996
 
 ---
 

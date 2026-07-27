@@ -80,5 +80,5 @@ La interpretación histórica del período de dominio japonés es objeto de un d
 
 ## Lectura complementaria
 
-- [Campaña de Yiwei](/history/乙未之役) — El punto de partida del período colonial: el desembarco del ejército japonés en 1895 y la resistencia de la República de Formosa
-- [Período de dominio Qing](/history/清治時期) — La historia de Taiwán antes del dominio japonés
+- [Campaña de Yiwei](/es/history/1895-taiwan-resistance-war) — El punto de partida del período colonial: el desembarco del ejército japonés en 1895 y la resistencia de la República de Formosa
+- [Período de dominio Qing](/es/history/qing-dynasty-rule) — La historia de Taiwán antes del dominio japonés

@@ -188,19 +188,19 @@ La próxima vez que vayas a Keelung, no te limites a pasear por el Miao Kou. Int
 
 ## Lectura adicional
 
-- [Desarrollo urbano y disparidades rural-urbano en Taiwán](/geography/台灣都市發展與城鄉差距) — Una visión a mayor escala de la posición de Keelung como «puerto en decadencia» dentro de la estructura urbana de Taiwán
-- [Divisiones administrativas de Taiwán](/geography/台灣行政區劃) — Evolución administrativa: cambio de nombre por Shen Baozhen en 1875, elevación a ciudad en 1924, cambio a ciudad de nivel provincial en 1945
-- [Características urbanas y cultura regional](/geography/城市特色與區域文化) — Contexto comparativo de Keelung frente a otros condados y ciudades
-- [Jinuashi](/geography/金瓜石) — La mayor industria de la zona de influencia del puerto de Keelung: en 1932 el teleférico de Shuiandong transportaba el oro hasta el puerto pesquero de Zhengbin para embarcarlo a Japón
-- [Yeliu](/geography/野柳) — Mismo cinturón geológico de la costa norte
-- [Costas y paisajes marinos de Taiwán](/geography/台灣海岸地形與海洋地景) — Formación de la isla de Keelung y el grupo volcánico de Keelung
-- [Ciudad de Chiayi](/geography/嘉義市) — Otra ciudad de nivel provincial de tamaño medio en la serie de los 22 condados y ciudades, también oprimida por el marco de la capital; comparación de dos líneas de falla distintas
-- [Condado de Lianjiang](/geography/連江縣) — Serie de los 22 condados y ciudades: el ferry Taima tarda de 8 a 10 horas en ir del puerto de Keelung a Nangan; Keelung es el punto de conexión físico entre las islas Matsu y la isla principal de Taiwán
-- [Condado de Miaoli](/geography/苗栗縣) — Serie de los 22 condados y ciudades: la tercera vía hakka frente a la paradoja del alcalde de cinco estrellas; junto con Keelung «invisible para la capital», dos panoramas distintos de política local
-- [Condado de Penghu](/geography/澎湖縣) — Serie de los 22 condados y ciudades: la elección soberana de una isla que rechazó el juego en dos ocasiones; como Keelung, un punto de partida portuario olvidado
-- [Condado de Yilan](/geography/宜蘭縣) — Serie de los 22 condados y ciudades: los dos Yilanes antes y después del túnel de la Montaña de la Nieve; como Keelung, enfrentado al destino de estar «demasiado cerca de la capital»
-- [Condado de Pingtung](/geography/屏東縣) — Serie de los 22 condados y ciudades: el punto de inflexión de 1874 que cambió el destino de Taiwán / zona gravemente afectada por el tifón Morakot de 2009, donde Linbian estuvo sumergido durante un mes; como Keelung, «un nodo clave omitido por la narrativa central»
-- [Condado de Kinmen](/geography/金門縣) — Serie de los 22 condados y ciudades: las 56 horas de la batalla de Guningtou en 1949 que decidieron el destino de Kinmen durante 75 años y también el de Taiwán / los 44 días del bombardeo del 23 de agosto de 1958 con 474.910 proyectiles; junto con Keelung, dos versiones de «primera línea de la guerra fría y caliente»
+- [Desarrollo urbano y disparidades rural-urbano en Taiwán](/es/geography/taiwan-urban-development-and-rural-urban-divide) — Una visión a mayor escala de la posición de Keelung como «puerto en decadencia» dentro de la estructura urbana de Taiwán
+- [Divisiones administrativas de Taiwán](/es/geography/administrative-divisions-of-taiwan) — Evolución administrativa: cambio de nombre por Shen Baozhen en 1875, elevación a ciudad en 1924, cambio a ciudad de nivel provincial en 1945
+- [Características urbanas y cultura regional](/es/geography/urban-character-and-regional-culture) — Contexto comparativo de Keelung frente a otros condados y ciudades
+- [Jinuashi](/es/geography/jinguashi) — La mayor industria de la zona de influencia del puerto de Keelung: en 1932 el teleférico de Shuiandong transportaba el oro hasta el puerto pesquero de Zhengbin para embarcarlo a Japón
+- [Yeliu](/es/geography/yehliu-geopark) — Mismo cinturón geológico de la costa norte
+- [Costas y paisajes marinos de Taiwán](/es/geography/taiwan-coastal-landforms-and-seascapes) — Formación de la isla de Keelung y el grupo volcánico de Keelung
+- [Ciudad de Chiayi](/es/geography/chiayi-city) — Otra ciudad de nivel provincial de tamaño medio en la serie de los 22 condados y ciudades, también oprimida por el marco de la capital; comparación de dos líneas de falla distintas
+- [Condado de Lianjiang](/es/geography/lienchiang-county) — Serie de los 22 condados y ciudades: el ferry Taima tarda de 8 a 10 horas en ir del puerto de Keelung a Nangan; Keelung es el punto de conexión físico entre las islas Matsu y la isla principal de Taiwán
+- [Condado de Miaoli](/es/geography/miaoli-county) — Serie de los 22 condados y ciudades: la tercera vía hakka frente a la paradoja del alcalde de cinco estrellas; junto con Keelung «invisible para la capital», dos panoramas distintos de política local
+- [Condado de Penghu](/es/geography/penghu-county) — Serie de los 22 condados y ciudades: la elección soberana de una isla que rechazó el juego en dos ocasiones; como Keelung, un punto de partida portuario olvidado
+- [Condado de Yilan](/es/geography/yilan-county) — Serie de los 22 condados y ciudades: los dos Yilanes antes y después del túnel de la Montaña de la Nieve; como Keelung, enfrentado al destino de estar «demasiado cerca de la capital»
+- [Condado de Pingtung](/es/geography/pingtung-county) — Serie de los 22 condados y ciudades: el punto de inflexión de 1874 que cambió el destino de Taiwán / zona gravemente afectada por el tifón Morakot de 2009, donde Linbian estuvo sumergido durante un mes; como Keelung, «un nodo clave omitido por la narrativa central»
+- [Condado de Kinmen](/es/geography/kinmen-county) — Serie de los 22 condados y ciudades: las 56 horas de la batalla de Guningtou en 1949 que decidieron el destino de Kinmen durante 75 años y también el de Taiwán / los 44 días del bombardeo del 23 de agosto de 1958 con 474.910 proyectiles; junto con Keelung, dos versiones de «primera línea de la guerra fría y caliente»
 
 ## Créditos de imágenes
 

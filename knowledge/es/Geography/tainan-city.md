@@ -230,14 +230,14 @@ Tainan es el lugar de Taiwán que fue colonizado más temprano, donde se estable
 
 ## Lecturas complementarias
 
-- [Zheng Chenggong](/people/鄭成功) — desembarcó en Luermen el 30 de abril de 1661, murió en Chengtian el 23 de junio de 1662 a los 38 años y fundó el primer régimen han de Taiwán
-- [Periodo neerlandés, español y Ming Zheng](/history/荷西明鄭時期) — historia completa de los 60 años de Tainan, del fuerte Zeelandia al reino de Dongning, entre 1624 y 1683
-- [Incidente del 28 de Febrero](/history/二二八事件) — contexto nacional de la muerte de Tang Te-chang en 1947
-- [Lai Ching-te](/people/賴清德) — primer alcalde tras la fusión de ciudad y condado de Tainan en 2010; declaró el 13 de marzo Día de la Justicia y el Coraje en 2014; asumió la presidencia en 2024
-- [Lago del Sol y la Luna](/geography/日月潭) — hito del centro de Taiwán comparable a Tainan; la presa Wujie de 1934 y el sistema de irrigación de Chianan de 1930 pertenecen a la edad de oro de las obras hidráulicas del periodo japonés
-- [Industria de semiconductores](/technology/半導體產業) — contexto industrial completo del Parque Científico del Sur, que en 2023 alcanzó 1 billón 585.500 millones y superó al Parque Científico de Hsinchu
-- [Ciudad de Keelung](/geography/基隆市) — piloto de la serie de 22 ciudades y condados: como Tainan, fue un puerto Qing omitido por las narrativas centradas en el centro
-- [Condado de Nantou](/geography/南投縣) — artículo hermano del batch 3 de la serie de 22 ciudades y condados: como Tainan, tiene una historia de restitución del nombre indígena
+- [Zheng Chenggong](/es/people/koxinga) — desembarcó en Luermen el 30 de abril de 1661, murió en Chengtian el 23 de junio de 1662 a los 38 años y fundó el primer régimen han de Taiwán
+- [Periodo neerlandés, español y Ming Zheng](/es/history/dutch-spanish-and-koxinga-era) — historia completa de los 60 años de Tainan, del fuerte Zeelandia al reino de Dongning, entre 1624 y 1683
+- [Incidente del 28 de Febrero](/es/history/228-incident) — contexto nacional de la muerte de Tang Te-chang en 1947
+- [Lai Ching-te](/es/people/lai-ching-te) — primer alcalde tras la fusión de ciudad y condado de Tainan en 2010; declaró el 13 de marzo Día de la Justicia y el Coraje en 2014; asumió la presidencia en 2024
+- [Lago del Sol y la Luna](/es/geography/sun-moon-lake) — hito del centro de Taiwán comparable a Tainan; la presa Wujie de 1934 y el sistema de irrigación de Chianan de 1930 pertenecen a la edad de oro de las obras hidráulicas del periodo japonés
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — contexto industrial completo del Parque Científico del Sur, que en 2023 alcanzó 1 billón 585.500 millones y superó al Parque Científico de Hsinchu
+- [Ciudad de Keelung](/es/geography/keelung-city) — piloto de la serie de 22 ciudades y condados: como Tainan, fue un puerto Qing omitido por las narrativas centradas en el centro
+- [Condado de Nantou](/es/geography/nantou-county) — artículo hermano del batch 3 de la serie de 22 ciudades y condados: como Tainan, tiene una historia de restitución del nombre indígena
 
 ## Fuentes de imágenes
 

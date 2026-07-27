@@ -162,7 +162,7 @@ Pero en esa aritmética falta un problema estructural. Una encuesta de yes123 en
 >
 > La historia del día libre por tifón y la de la “montaña sagrada que protege al país” son, en realidad, dos versiones de la misma historia. ¿Sobre la casa de quién convierte la montaña el viento en agua? ¿A quién le entrega el aviso de suspensión un día libre, y a quién deja fuera? En un mismo tifón, la lluvia del mapa parece uniforme, pero quienes cargan con el costo nunca lo son.
 
-La distribución de clase completa del día libre por tifón, los puntos ciegos detrás de la aritmética de los 31.500 millones y la situación de los trabajadores migrantes son otra historia independiente, escrita en [Día libre por tifón](/Society/颱風假).
+La distribución de clase completa del día libre por tifón, los puntos ciegos detrás de la aritmética de los 31.500 millones y la situación de los trabajadores migrantes son otra historia independiente, escrita en [Día libre por tifón](/es/society/typhoon-day).
 
 ## La estación meteorológica de la comunidad: una sabiduría milenaria como última red de seguridad
 
@@ -214,11 +214,11 @@ Podemos predecir el viento y la lluvia, pero no el destino.
 
 ## Lecturas complementarias
 
-- [Día libre por tifón](/Society/颱風假) — En un mismo tifón, empleados administrativos del sector público se quedan en casa y trabajadores del comercio mayorista y minorista salen a trabajar. La grieta de clase que falta en la aritmética de los 31.500 millones
-- [Crisis climática y transición hacia cero emisiones netas en Taiwán](/Nature/台灣氣候危機與淨零轉型) — Detrás del aumento del 40% en la intensidad de la lluvia de tifones hay un contexto mayor: el calentamiento global y la transición energética de Taiwán
-- [Ecosistemas de alta montaña de Taiwán y relictos glaciares](/Nature/台灣高山生態系與冰河孑遺) — La cordillera Central no solo altera las trayectorias de los tifones; también alberga algunos de los ecosistemas de mayor altitud del mundo
-- [Lluvia de ciruela](/Nature/梅雨) — Además de los tifones, la lluvia de ciruela es otra gran fuente de temporada lluviosa en Taiwán, también afectada por el cambio climático
-- [Islas periféricas y cultura oceánica](/Geography/離島與海洋文化) — La arquitectura tradicional y el conocimiento toponímico del pueblo tao de la Isla de las Orquídeas tienen un valor singular de prevención de desastres en la era de los tifones
+- [Día libre por tifón](/es/society/typhoon-day) — En un mismo tifón, empleados administrativos del sector público se quedan en casa y trabajadores del comercio mayorista y minorista salen a trabajar. La grieta de clase que falta en la aritmética de los 31.500 millones
+- [Crisis climática y transición hacia cero emisiones netas en Taiwán](/es/nature/taiwan-climate-change-net-zero-transition) — Detrás del aumento del 40% en la intensidad de la lluvia de tifones hay un contexto mayor: el calentamiento global y la transición energética de Taiwán
+- [Ecosistemas de alta montaña de Taiwán y relictos glaciares](/es/nature/taiwan-alpine-ecosystems-glacial-relicts) — La cordillera Central no solo altera las trayectorias de los tifones; también alberga algunos de los ecosistemas de mayor altitud del mundo
+- [Lluvia de ciruela](/es/nature/meiyu-stagnant-front) — Además de los tifones, la lluvia de ciruela es otra gran fuente de temporada lluviosa en Taiwán, también afectada por el cambio climático
+- [Islas periféricas y cultura oceánica](/es/geography/offshore-islands-and-maritime-culture) — La arquitectura tradicional y el conocimiento toponímico del pueblo tao de la Isla de las Orquídeas tienen un valor singular de prevención de desastres en la era de los tifones
 
 ## Fuentes de las imágenes
 

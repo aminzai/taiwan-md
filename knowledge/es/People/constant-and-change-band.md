@@ -157,13 +157,13 @@ Y esa Línea Mianyue de Alishan sigue avanzando en sus canciones.
 
 **Lectura recomendada**:
 
-- [Scumbags (Cao Dong Meiyou Paidui)](/people/草東沒有派對) — Grupo de música independiente que surgió el mismo año en 2016, escribe sobre la furia de recién egresados; KST escribe sobre la varadura diez años después: dos etapas de la misma generación.
-- [Wu Wei-xuan (Wei Ru Xuan)](/people/魏如萱) — Pertenece al mismo ecosistema de música independiente de la década de 2010, sigue la ruta de la voz humana en lugar del post-rock.
-- [Cicada](/people/Cicada) — Sigue la ruta del post-rock puro instrumental sin voz, formando un contraste con el «post-rock + voz» de KST.
-- [Lu Guangzhong (Lu Guangzhong)](/people/盧廣仲) — Otra ruta de la música independiente: cantante de obras que cruza las tres orillas doradas (premios).
-- [Premios Golden Melody](/music/金曲獎) — La coordenada del escenario donde KST fue nominado al Mejor Grupo en la 32.ª edición de los Premios Golden Melody.
-- [Música independiente de Taiwán](/music/台灣獨立音樂) — La genealogía de la generación de la música independiente, desde Natural Violent hasta KST, Scumbags y Five Five Five.
-- [Música popular de Taiwán](/music/台灣流行音樂) — El entorno de la industria de la música pop mandarina.
+- [Scumbags (Cao Dong Meiyou Paidui)](/es/people/no-party-for-cao-dong) — Grupo de música independiente que surgió el mismo año en 2016, escribe sobre la furia de recién egresados; KST escribe sobre la varadura diez años después: dos etapas de la misma generación.
+- [Wu Wei-xuan (Wei Ru Xuan)](/es/people/waa-wei-singer) — Pertenece al mismo ecosistema de música independiente de la década de 2010, sigue la ruta de la voz humana en lugar del post-rock.
+- [Cicada](/es/people/cicada-band) — Sigue la ruta del post-rock puro instrumental sin voz, formando un contraste con el «post-rock + voz» de KST.
+- [Lu Guangzhong (Lu Guangzhong)](/es/people/crowd-lu-indie-folk-treasure) — Otra ruta de la música independiente: cantante de obras que cruza las tres orillas doradas (premios).
+- [Premios Golden Melody](/es/music/pop-music-and-golden-melody-awards) — La coordenada del escenario donde KST fue nominado al Mejor Grupo en la 32.ª edición de los Premios Golden Melody.
+- [Música independiente de Taiwán](/es/music/indie-music-scene) — La genealogía de la generación de la música independiente, desde Natural Violent hasta KST, Scumbags y Five Five Five.
+- [Música popular de Taiwán](/es/music/golden-melodies-legacy-taiwan-pop-music) — El entorno de la industria de la música pop mandarina.
 
 ## Referencias
 

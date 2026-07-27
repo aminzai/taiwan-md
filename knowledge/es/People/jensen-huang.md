@@ -114,7 +114,7 @@ Desde entonces, la Jensanity se volvió una escena anual. En junio de 2026, poco
 
 En los mercados nocturnos y en los recintos de exposición también hubo momentos menos perfectos, pero más humanos. En Computex, un fan le pidió que le firmara la billetera; Huang la abrió, repartió los 7.700 dólares taiwaneses en efectivo que había dentro entre las Show Girls cercanas, mientras decía que ese hombre tenía mucho dinero y era una buena persona, y antes de irse volvió para añadir otros 10.000 dólares completos[^14]. En otra ocasión, una fan le pidió una firma tras otra en billetes japoneses, un teléfono y varios objetos; al final, Huang frunció el ceño y soltó en inglés: “You're too much trouble” —“das demasiados problemas”[^15]. Una persona capaz de vaciar su billetera para regalar dinero, pero también de perder la paciencia ante el acoso: ese es el niño de Tainan bajo la chaqueta negra, alguien que se cansa, se irrita y, aun así, es genuinamente generoso.
 
-Su significado para Taiwán, por supuesto, va mucho más allá del efecto celebridad. Los chips más avanzados de NVIDIA son fabricados por [TSMC, empresa taiwanesa](/es/economy/tsmc-taiwan-semiconductor/), y Huang mantiene una amistad de más de treinta años con [Morris Chang](/es/people/tsmc-morris-chang/); en una presentación de Computex mostró un mapa lleno de socios de la cadena de suministro taiwanesa y dijo: “Taiwan is a world hero”. Ese vínculo que ata el cuerpo material de NVIDIA a Taiwán derivó después en un terreno de 4.400 millones, una sede en Taipéi en planificación[^9] y toda una disputa de poder sobre “quién no puede vivir sin quién”. Esa es la historia de otro artículo (véase [NVIDIA en Taiwán](/technology/NVIDIA在台灣)). Para Huang, volver a Taiwán una vez por trimestre y moverse entre puestos de comida de Tainan y la cadena de suministro de semiconductores se parece más al regreso de alguien que llevaba mucho tiempo fuera a la isla donde nació.
+Su significado para Taiwán, por supuesto, va mucho más allá del efecto celebridad. Los chips más avanzados de NVIDIA son fabricados por [TSMC, empresa taiwanesa](/es/economy/tsmc-taiwan-semiconductor/), y Huang mantiene una amistad de más de treinta años con [Morris Chang](/es/people/tsmc-morris-chang/); en una presentación de Computex mostró un mapa lleno de socios de la cadena de suministro taiwanesa y dijo: “Taiwan is a world hero”. Ese vínculo que ata el cuerpo material de NVIDIA a Taiwán derivó después en un terreno de 4.400 millones, una sede en Taipéi en planificación[^9] y toda una disputa de poder sobre “quién no puede vivir sin quién”. Esa es la historia de otro artículo (véase [NVIDIA en Taiwán](/es/technology/nvidia-in-taiwan)). Para Huang, volver a Taiwán una vez por trimestre y moverse entre puestos de comida de Tainan y la cadena de suministro de semiconductores se parece más al regreso de alguien que llevaba mucho tiempo fuera a la isla donde nació.
 
 ## Una familia, dos imperios de chips
 
@@ -156,11 +156,11 @@ Jensen Huang lleva ahora en el brazo un tatuaje con una marca corporativa. Aquel
 
 **Lecturas relacionadas**
 
-- [Morris Chang](/people/張忠謀) — El socio más importante de NVIDIA, fundador de TSMC; su amistad de más de treinta años con Huang sostiene la cadena mundial de suministro de IA
-- [TSMC, empresa taiwanesa](/economy/台灣企業：台積電) — La empresa taiwanesa que fabrica los chips más avanzados de NVIDIA, el “héroe mundial” en palabras de Huang
-- [La industria taiwanesa de semiconductores](/technology/半導體產業) — Los chips de Huang y Lisa Su se fabrican en esta isla: este es el escudo de silicio de Taiwán
-- [NVIDIA en Taiwán: la empresa más cara del mundo no fabrica ni un solo chip propio](/technology/NVIDIA在台灣) — La compañía que fundó vive en simbiosis con la industria de esta isla: chips, servidores, sede y un terreno de 4.434 millones
-- [Chi Huai-Hsin: el taiwanés que enseñó a la IA a «pensar paso a paso»](/people/紀懷新) — Otro taiwanés en la frontera de la IA: los chips de Huang hacen que la IA corra rápido; la cadena de pensamiento de Chi Huai-Hsin le enseñó a razonar paso a paso
+- [Morris Chang](/es/people/tsmc-morris-chang) — El socio más importante de NVIDIA, fundador de TSMC; su amistad de más de treinta años con Huang sostiene la cadena mundial de suministro de IA
+- [TSMC, empresa taiwanesa](/es/economy/tsmc) — La empresa taiwanesa que fabrica los chips más avanzados de NVIDIA, el “héroe mundial” en palabras de Huang
+- [La industria taiwanesa de semiconductores](/es/technology/taiwan-semiconductor-industry) — Los chips de Huang y Lisa Su se fabrican en esta isla: este es el escudo de silicio de Taiwán
+- [NVIDIA en Taiwán: la empresa más cara del mundo no fabrica ni un solo chip propio](/es/technology/nvidia-in-taiwan) — La compañía que fundó vive en simbiosis con la industria de esta isla: chips, servidores, sede y un terreno de 4.434 millones
+- [Chi Huai-Hsin: el taiwanés que enseñó a la IA a «pensar paso a paso»](/es/people/chi-huai-hsin) — Otro taiwanés en la frontera de la IA: los chips de Huang hacen que la IA corra rápido; la cadena de pensamiento de Chi Huai-Hsin le enseñó a razonar paso a paso
 
 ## Fuentes de imágenes
 

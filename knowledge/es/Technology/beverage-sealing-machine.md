@@ -96,6 +96,6 @@ Este “héroe anónimo” sostuvo, con una delgada capa de película plástica,
 
 ## Lecturas complementarias
 
-- [Cultura taiwanesa de bebidas preparadas al momento](/food/台灣手搖飲文化) — El ecosistema gastronómico-cultural sostenido tras la popularización de las selladoras de película
-- [Té de perlas con leche](/food/珍珠奶茶) — La bebida nacional taiwanesa que despegó al mismo tiempo que la selladora en la década de 1980
-- [Industria de semiconductores](/technology/半導體產業) — Otra trayectoria exitosa de la industria taiwanesa de manufactura de hardware en el mismo periodo
+- [Cultura taiwanesa de bebidas preparadas al momento](/es/food/hand-shaken-drink-culture) — El ecosistema gastronómico-cultural sostenido tras la popularización de las selladoras de película
+- [Té de perlas con leche](/es/food/bubble-tea) — La bebida nacional taiwanesa que despegó al mismo tiempo que la selladora en la década de 1980
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — Otra trayectoria exitosa de la industria taiwanesa de manufactura de hardware en el mismo periodo

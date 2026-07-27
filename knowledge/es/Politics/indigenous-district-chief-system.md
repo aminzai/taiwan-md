@@ -250,11 +250,11 @@ Ha funcionado durante doce años. En 2026 empieza el próximo ciclo de cuatro.
 
 - [Hub de política](/politics) — centro de conocimiento político-electoral de Taiwan.md
 - [Elecciones locales combinadas de 2026](/politics/2026 九合一選舉) — sistema completo y calendario
-- [Qué son las elecciones locales combinadas](/politics/九合一選舉是什麼) — desglose de los nueve tipos de cargos en las “nueve en una”
-- [Sistema de jefes de aldea y barrio](/politics/村里長制度) — 7.748 autoridades electas, la unidad política más básica
-- [Sistema de concejales](/politics/議員制度) — facultades legales y funcionamiento real de concejales de municipios especiales, condados y ciudades
-- [Sistema de la Comisión Electoral Central](/politics/中選會制度) — diseño institucional de la administración electoral
-- [Democratización](/history/民主化) — trayectoria de Taiwán del autoritarismo a la democracia
+- [Qué son las elecciones locales combinadas](/es/politics/nine-in-one-elections-explained) — desglose de los nueve tipos de cargos en las “nueve en una”
+- [Sistema de jefes de aldea y barrio](/es/politics/village-chief-system) — 7.748 autoridades electas, la unidad política más básica
+- [Sistema de concejales](/es/politics/city-councilor-system-taiwan) — facultades legales y funcionamiento real de concejales de municipios especiales, condados y ciudades
+- [Sistema de la Comisión Electoral Central](/es/politics/central-election-commission) — diseño institucional de la administración electoral
+- [Democratización](/es/history/taiwan-democratization-history) — trayectoria de Taiwán del autoritarismo a la democracia
 
 ---
 

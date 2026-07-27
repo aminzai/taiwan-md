@@ -163,7 +163,7 @@ Dos semanas después de que Restaurant André apagase sus luces, la cocina de Ta
 
 ## Lecturas complementarias
 
-- [聶永真](/people/聶永真): el diseñador gráfico taiwanés con mayor visibilidad internacional, que, al igual que André Chiang, estableció la posición internacional de Taiwán en el ámbito de la estética refinada con un estilo profundamente personal
-- [李安](/people/李安): un precursor que, desde dentro del sistema occidental, contó historias universales con sensibilidad oriental, recorriendo un camino transcultural similar
-- [黃仁勳](/people/黃仁勳): origen taiwanés, cima internacional, retorno continuo a la tierra natal —otra forma de presencia taiwanesa en el mundo
-- [吳寶春](/people/吳寶春): un panadero que igualmente conquistó a los jueces franceses con ingredientes locales taiwaneses, ganando la medalla de oro en la primera edición del Campeonato Mundial de Panadería con su pan de lichi y rosa
+- [聶永真](/es/people/nieh-yung-jen): el diseñador gráfico taiwanés con mayor visibilidad internacional, que, al igual que André Chiang, estableció la posición internacional de Taiwán en el ámbito de la estética refinada con un estilo profundamente personal
+- [李安](/es/people/ang-lee): un precursor que, desde dentro del sistema occidental, contó historias universales con sensibilidad oriental, recorriendo un camino transcultural similar
+- [黃仁勳](/es/people/jensen-huang): origen taiwanés, cima internacional, retorno continuo a la tierra natal —otra forma de presencia taiwanesa en el mundo
+- [吳寶春](/es/people/wu-bao-chun): un panadero que igualmente conquistó a los jueces franceses con ingredientes locales taiwaneses, ganando la medalla de oro en la primera edición del Campeonato Mundial de Panadería con su pan de lichi y rosa

@@ -172,14 +172,14 @@ Si la próxima vez que visites el Condado de Hsinchu, no te limites a las dos ru
 
 ## Lectura adicional
 
-- [Condado de Keelung](/geography/基隆市) — Piloto de la Serie de 22 condados y ciudades, lote 1: otro condado eclipsado por el marco de la capital, para comparar dos panoramas políticos locales
-- [Condado de Miaoli](/geography/苗栗縣) — Hermano de la Serie de 22 condados y ciudades: el condado con la segunda proporción Hakka más alta (62.5%), que junto con la experiencia Hakka del Condado de Hsinchu ("fe en los Yi-min vs. parque tecnológico") presenta otra vivencia Hakka
-- [Cultura y lengua Hakka](/culture/客家文化與語言) — Distribución en todo Taiwán del dialecto Siangxian Hakka (dialecto principal en Miaoli) frente al dialecto Hailu (dialecto principal en Hsinchu), contexto de la proporción del 67.8% del Condado de Hsinchu
-- [Gastronomía Hakka](/food/客家飲食文化) — Contexto de la mesa de las aldeas Hakka: bǎntiao, leicha, salteado Hakka y Té de la Bella Oriental; orígenes de los bǎntiao de Xinpu y el leicha de Beipu
-- [Grupos étnicos (Hokkien, Hakka, indígenas,外省, nuevos residentes)](/culture/族群（闽南客家原住民外省新住民）) — La estructura de coexistencia triétnica Hokkien-Hakka-indígena del Condado de Hsinchu a una escala más amplia
-- [Empresa taiwanesa: TSMC](/economy/台灣企業：台積電) — La fábrica de obleas de 2 nanómetros de la Fase II de Baoshan es el motor que duplicó la población de la zona especial de tren de alta velocidad de Zhubei
-- [Industria de semiconductores](/technology/半導體產業) — Ruta de expansión del Parque Científico de Hsinchu a través de la Ciudad de Hsinchu, Baoshan en el Condado de Hsinchu y Tongluo en Miaoli
-- [División administrativa de Taiwán](/geography/台灣行政區劃) — Evolución administrativa: fundación del Condado de Hsinchu en 1875, separación condado-ciudad en 1950, elevación de la Ciudad de Hsinchu a ciudad provincial en 1982, traslado de la oficina del condado a Zhubei en 1989
+- [Condado de Keelung](/es/geography/keelung-city) — Piloto de la Serie de 22 condados y ciudades, lote 1: otro condado eclipsado por el marco de la capital, para comparar dos panoramas políticos locales
+- [Condado de Miaoli](/es/geography/miaoli-county) — Hermano de la Serie de 22 condados y ciudades: el condado con la segunda proporción Hakka más alta (62.5%), que junto con la experiencia Hakka del Condado de Hsinchu ("fe en los Yi-min vs. parque tecnológico") presenta otra vivencia Hakka
+- [Cultura y lengua Hakka](/es/culture/hakka-culture-and-language) — Distribución en todo Taiwán del dialecto Siangxian Hakka (dialecto principal en Miaoli) frente al dialecto Hailu (dialecto principal en Hsinchu), contexto de la proporción del 67.8% del Condado de Hsinchu
+- [Gastronomía Hakka](/es/food/hakka-food-culture) — Contexto de la mesa de las aldeas Hakka: bǎntiao, leicha, salteado Hakka y Té de la Bella Oriental; orígenes de los bǎntiao de Xinpu y el leicha de Beipu
+- [Grupos étnicos (Hokkien, Hakka, indígenas,外省, nuevos residentes)](/culture/族群（閩南客家原住民外省新住民）) — La estructura de coexistencia triétnica Hokkien-Hakka-indígena del Condado de Hsinchu a una escala más amplia
+- [Empresa taiwanesa: TSMC](/es/economy/tsmc) — La fábrica de obleas de 2 nanómetros de la Fase II de Baoshan es el motor que duplicó la población de la zona especial de tren de alta velocidad de Zhubei
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — Ruta de expansión del Parque Científico de Hsinchu a través de la Ciudad de Hsinchu, Baoshan en el Condado de Hsinchu y Tongluo en Miaoli
+- [División administrativa de Taiwán](/es/geography/administrative-divisions-of-taiwan) — Evolución administrativa: fundación del Condado de Hsinchu en 1875, separación condado-ciudad en 1950, elevación de la Ciudad de Hsinchu a ciudad provincial en 1982, traslado de la oficina del condado a Zhubei en 1989
 
 ## Créditos de imágenes
 

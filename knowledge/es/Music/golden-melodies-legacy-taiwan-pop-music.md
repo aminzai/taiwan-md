@@ -254,11 +254,11 @@ Lo que queda no es la escala, sino la libertad: aquello único que no le fue arr
 
 **Lecturas relacionadas**:
 
-- [El movimiento de canciones folk de Taiwán: de quién eran las canciones al “cantar nuestras propias canciones”](/music/台灣民歌運動)
-- [Evolución de las canciones en taiwanés hokkien: de lengua materna prohibida a Álbum del Año](/music/台灣台語歌曲演進)
-- [La música pop y los Golden Melody Awards: qué voz cuenta y quién lo decide](/music/金曲獎)
-- [La industria musical de Taiwán y la era del streaming: recuperar sangre tras el colapso físico](/music/台灣音樂產業與串流時代)
-- [Teresa Teng: la diva que cantó por ambos lados del estrecho y Hong Kong, Macao y Taiwán, pero nunca dio un concierto en China continental](/people/鄧麗君)
+- [El movimiento de canciones folk de Taiwán: de quién eran las canciones al “cantar nuestras propias canciones”](/es/music/taiwan-campus-folk-song-movement)
+- [Evolución de las canciones en taiwanés hokkien: de lengua materna prohibida a Álbum del Año](/es/music/taiwanese-hokkien-song-evolution)
+- [La música pop y los Golden Melody Awards: qué voz cuenta y quién lo decide](/es/music/pop-music-and-golden-melody-awards)
+- [La industria musical de Taiwán y la era del streaming: recuperar sangre tras el colapso físico](/es/music/taiwan-music-industry-and-the-streaming-era)
+- [Teresa Teng: la diva que cantó por ambos lados del estrecho y Hong Kong, Macao y Taiwán, pero nunca dio un concierto en China continental](/es/people/teresa-teng)
 
 ## Fuentes de imágenes
 

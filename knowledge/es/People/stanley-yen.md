@@ -142,11 +142,11 @@ Aquellas botas de lluvia largas frente a las aulas siguen ahí. El arroz sigue p
 
 **Lecturas relacionadas**:
 
-- [La cultura de las tiendas de conveniencia en Taiwán](/lifestyle/台灣便利商店文化) — Stanley Yen cambió la percepción taiwanesa del "sector servicios"; las tiendas de conveniencia convirtieron los servicios en infraestructura cotidiana.
-- [Mapa cultural de los 16 pueblos indígenas de Taiwán](/culture/台灣原住原住民族16族文化地圖) — El principio central de la escuela Junyi: la cultura indígena no necesita ser "rescatada", necesita ser respetada.
+- [La cultura de las tiendas de conveniencia en Taiwán](/es/lifestyle/convenience-store-culture) — Stanley Yen cambió la percepción taiwanesa del "sector servicios"; las tiendas de conveniencia convirtieron los servicios en infraestructura cotidiana.
+- [Mapa cultural de los 16 pueblos indígenas de Taiwán](/culture/台灣原住民族16族文化地圖) — El principio central de la escuela Junyi: la cultura indígena no necesita ser "rescatada", necesita ser respetada.
 - [La cultura del café en Taiwán](/lifestyle/台灣咖啡文化) — Cuando Yen impulsaba el servicio de calidad en Landis, los taiwaneses todavía tomaban café instantáneo.
-- [Teach For Taiwan (TFT)](/society/為台灣而教TFT) — Otro proyecto educativo impulsado por Yen, liderado por Liu An-ting, que llevó a cuatrocientos jóvenes a las aulas rurales.
-- [Lu Kuan-wei](/people/呂冠緯) — Presidente de la plataforma educativa Junyi Academy; el nombre «Junyi» está tomado precisamente de la Escuela Junyi de Taitung fundada por Stanley Yen.
+- [Teach For Taiwan (TFT)](/es/society/teach-for-taiwan) — Otro proyecto educativo impulsado por Yen, liderado por Liu An-ting, que llevó a cuatrocientos jóvenes a las aulas rurales.
+- [Lu Kuan-wei](/es/people/lu-guan-wei-junyiacademy-founder) — Presidente de la plataforma educativa Junyi Academy; el nombre «Junyi» está tomado precisamente de la Escuela Junyi de Taitung fundada por Stanley Yen.
 
 ## Referencias
 

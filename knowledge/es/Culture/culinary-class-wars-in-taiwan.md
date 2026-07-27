@@ -117,9 +117,9 @@ Pero una cosa quedará: entre 2024 y 2026, los consumidores taiwaneses vieron el
 
 ## Lecturas adicionales
 
-- [Cultura de las Tiendas de Conveniencia en Taiwán](/lifestyle/台灣便利商店文化) — El escenario industrial donde ocurrió la colaboración 7-ELEVEN × Baek Jong-won, para entender la lógica de competencia en el campo de batalla de los alimentos frescos de conveniencia.
-- [Cultura de las Bebidas de Té con Leche en Taiwán](/food/台灣手搖飲文化) — El contexto de la industria de bebidas de té con leche donde ocurrió la colaboración Kim Tae-sung × Shisheng, el campo de batalla de bebidas con mayor poder de exportación de Taiwán.
-- [Boba Tea](/food/珍珠奶茶) — El símbolo representativo de las bebidas de té con leche en Taiwán, formando un contraste de cultura de consumo con las marcas de té con leche coreanas que entraron durante la época de _Culinary Class Wars_.
+- [Cultura de las Tiendas de Conveniencia en Taiwán](/es/lifestyle/convenience-store-culture) — El escenario industrial donde ocurrió la colaboración 7-ELEVEN × Baek Jong-won, para entender la lógica de competencia en el campo de batalla de los alimentos frescos de conveniencia.
+- [Cultura de las Bebidas de Té con Leche en Taiwán](/es/food/hand-shaken-drink-culture) — El contexto de la industria de bebidas de té con leche donde ocurrió la colaboración Kim Tae-sung × Shisheng, el campo de batalla de bebidas con mayor poder de exportación de Taiwán.
+- [Boba Tea](/es/food/bubble-tea) — El símbolo representativo de las bebidas de té con leche en Taiwán, formando un contraste de cultura de consumo con las marcas de té con leche coreanas que entraron durante la época de _Culinary Class Wars_.
 
 ## Referencias
 

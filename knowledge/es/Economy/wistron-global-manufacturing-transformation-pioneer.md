@@ -243,8 +243,8 @@ En la nueva era de reestructuración de cadenas de suministro y relocalización 
 
 **Lecturas relacionadas**:
 
-- [Acer Group (Acer)](/economy/acer-pc-industry-pioneer) — la matriz de Wistron. El hermano menor de manufactura, el menos favorecido al momento de la escisión, superó en valor de mercado en la era de los servidores de IA a la propia Acer, que se concentró en la marca.
-- [Stan Shih](/people/stan-shih) — el fundador de Acer que decidió dividir la marca y la manufactura en dos empresas; una frase suya, "así que tú también pensabas eso", fue el gesto que hizo posible la independencia de Wistron.
+- [Acer Group (Acer)](/es/economy/acer-pc-industry-pioneer) — la matriz de Wistron. El hermano menor de manufactura, el menos favorecido al momento de la escisión, superó en valor de mercado en la era de los servidores de IA a la propia Acer, que se concentró en la marca.
+- [Stan Shih](/es/people/stan-shih) — el fundador de Acer que decidió dividir la marca y la manufactura en dos empresas; una frase suya, "así que tú también pensabas eso", fue el gesto que hizo posible la independencia de Wistron.
 
 ## Referencias
 

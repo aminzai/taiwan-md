@@ -15,7 +15,7 @@ _Fuente de la imagen: [Wikimedia Commons](https://commons.wikimedia.org/wiki/Fil
 
 ## Años de Gloria de la Generación Dorada
 
-La década de 2000 fue la era más brillante en la historia de la [música pop](/music/musica-pop-y-golden-melody-awards) de Taiwán. [Jay Chou](/people/jay-chou) redefinió las posibilidades de la música pop en chino mandarín con R&B de estilo chino, su tono característico "hum ha hey" se convirtió en la memoria juvenil de toda una generación. Su música tiene la elegancia de la poesía clásica, pero también la rebeldía del rap callejero, este espíritu innovador que fusiona Oriente y Occidente se convirtió en el ADN más precioso de la música taiwanesa.
+La década de 2000 fue la era más brillante en la historia de la [música pop](/music/musica-pop-y-golden-melody-awards) de Taiwán. [Jay Chou](/es/people/jay-chou) redefinió las posibilidades de la música pop en chino mandarín con R&B de estilo chino, su tono característico "hum ha hey" se convirtió en la memoria juvenil de toda una generación. Su música tiene la elegancia de la poesía clásica, pero también la rebeldía del rap callejero, este espíritu innovador que fusiona Oriente y Occidente se convirtió en el ADN más precioso de la música taiwanesa.
 
 Jolin Tsai se transformó de una chica escolar inmadura a una reina del pop asiático, cada una de sus transformaciones representa el despertar y crecimiento de la conciencia femenina taiwanesa. Mayday usó el [rock](/music/historia-del-desarrollo-del-rock-taiwanes) para representar a la juventud, en sus voces están los sueños y ansiedades de los jóvenes taiwaneses, el anhelo y la inquietud de los hijos de la isla por el futuro. Cuando "Love ING" suena en [KTV](/lifestyle/vida-nocturna-y-cultura-ktv), cuando "Stubborn" es cantada por decenas de miles en conciertos, eso no es solo música, sino la memoria colectiva de una era.
 
@@ -25,9 +25,9 @@ Los Golden Melody Awards, establecidos en 1990, se han convertido en el premio m
 
 ### Bastión de Música Pop en Chino Mandarín - Logros Brillantes de la Generación Dorada
 
-La década de 2000 fue el período dorado de la música pop taiwanesa, [Jay Chou](/people/jay-chou) abrió un nuevo estilo con R&B de estilo chino, Jolin Tsai se convirtió en la reina del pop asiático, Mayday representa el pico del rock en chino mandarín. Estos cantantes no solo lograron éxito en Taiwán, sino que arrasaron en todo el mercado asiático, consolidando la posición de liderazgo de Taiwán en el mundo de la música en chino mandarín.
+La década de 2000 fue el período dorado de la música pop taiwanesa, [Jay Chou](/es/people/jay-chou) abrió un nuevo estilo con R&B de estilo chino, Jolin Tsai se convirtió en la reina del pop asiático, Mayday representa el pico del rock en chino mandarín. Estos cantantes no solo lograron éxito en Taiwán, sino que arrasaron en todo el mercado asiático, consolidando la posición de liderazgo de Taiwán en el mundo de la música en chino mandarín.
 
-📖 Lectura adicional: [Música Pop y Golden Melody Awards](/music/musica-pop-y-golden-melody-awards) ｜ [Jay Chou](/people/jay-chou)
+📖 Lectura adicional: [Música Pop y Golden Melody Awards](/music/musica-pop-y-golden-melody-awards) ｜ [Jay Chou](/es/people/jay-chou)
 
 ### Influencia de los Golden Melody Awards - El Máximo Honor del Mundo de la Música en Chino Mandarín
 

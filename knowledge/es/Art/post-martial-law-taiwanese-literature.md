@@ -174,10 +174,10 @@ Tras el nuevo milenio, el escenario pasó a nuevas voces como Wu Mingyi, Lin Yih
 
 ## Lectura complementaria
 
-- [Literatura taiwanesa de posguerra](/art/戰後台灣文學) — 42 años, de 1945 a 1987, bajo la ley marcial: desde la afasia, el modernismo, el debate sobre la literatura rural hasta el despertar femenino
-- [Literatura taiwanesa contemporánea](/art/當代台灣文學) — Siglo XXI: la internacionalización de Wu Mingyi, Lin Yihan y el siguiente relevo de la literatura digital
-- [Historia de la literatura taiwanesa](/art/台灣文學史) — El panorama general desde el período holés, las dinastías Ming y Qing, el período japonés, la posguerra hasta la actualidad
-- [Liang](/people/林良) — Fundador de la Sociedad de Literatura Infantil de la República de China en 1984, tras el fin de la ley marcial, y pilar de la literatura infantil taiwanesa; su columna _Hablando con imágenes_ (_Kan Tu Shuo Hua_) acompañó a generaciones de niños taiwaneses
+- [Literatura taiwanesa de posguerra](/es/art/postwar-taiwanese-literature) — 42 años, de 1945 a 1987, bajo la ley marcial: desde la afasia, el modernismo, el debate sobre la literatura rural hasta el despertar femenino
+- [Literatura taiwanesa contemporánea](/es/art/contemporary-taiwanese-literature) — Siglo XXI: la internacionalización de Wu Mingyi, Lin Yihan y el siguiente relevo de la literatura digital
+- [Historia de la literatura taiwanesa](/es/art/history-of-taiwanese-literature) — El panorama general desde el período holés, las dinastías Ming y Qing, el período japonés, la posguerra hasta la actualidad
+- [Liang](/es/people/lin-liang-childrens-literature) — Fundador de la Sociedad de Literatura Infantil de la República de China en 1984, tras el fin de la ley marcial, y pilar de la literatura infantil taiwanesa; su columna _Hablando con imágenes_ (_Kan Tu Shuo Hua_) acompañó a generaciones de niños taiwaneses
 
 ---
 

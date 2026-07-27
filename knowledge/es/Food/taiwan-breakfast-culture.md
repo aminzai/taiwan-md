@@ -134,6 +134,6 @@ Cada mañana a las seis y media, 18.919 tiendas de desayuno en todo Taiwán enci
 
 ## Lecturas complementarias
 
-- [Cultura de los mercados nocturnos](/food/夜市文化) — Otro espacio importante de la cultura alimentaria taiwanesa
-- [Bocadillos taiwaneses](/food/台灣小吃) — Más comida local de Taiwán
-- [Cultura del té](/food/茶文化) — La tradición taiwanesa de bebidas tradicionales
+- [Cultura de los mercados nocturnos](/es/food/night-market-culture) — Otro espacio importante de la cultura alimentaria taiwanesa
+- [Bocadillos taiwaneses](/es/food/taiwanese-street-food) — Más comida local de Taiwán
+- [Cultura del té](/es/food/golden-age-echoes-taiwan-tea-culture) — La tradición taiwanesa de bebidas tradicionales

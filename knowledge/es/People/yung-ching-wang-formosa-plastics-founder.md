@@ -101,7 +101,7 @@ Un hijo de campesinos de Xindian en 1997, en 1998 poniendo en producción el may
 
 Lo que dejó no fue solo un grupo empresarial, sino una filosofía esbelta al estilo taiwanés: aclarar los costos, preguntar cada proceso hasta su raíz y repetir esto durante toda la vida. Esta filosofía, en sus fábricas, sus hospitales y la historia de su tienda de arroz, dice siempre lo mismo.
 
-**Lecturas complementarias:** [Wang Yung-ching — Wikipedia](https://zh.wikipedia.org/wiki/王永慶) ｜ [La Sexta Nafta de Formosa Plastics: la transformación clave de la industria petroquímica taiwanesa](https://storystudio.tw/article/gushi/taiwan-plastic-industry) ｜ [Yin Yanliang: el premio científico que construyó vale más que un Nobel](/people/尹衍樑) — un caso especular de líder industrial taiwanés de la misma generación convertido en filántropo
+**Lecturas complementarias:** [Wang Yung-ching — Wikipedia](https://zh.wikipedia.org/wiki/王永慶) ｜ [La Sexta Nafta de Formosa Plastics: la transformación clave de la industria petroquímica taiwanesa](https://storystudio.tw/article/gushi/taiwan-plastic-industry) ｜ [Yin Yanliang: el premio científico que construyó vale más que un Nobel](/es/people/samuel-yin-yan-liang) — un caso especular de líder industrial taiwanés de la misma generación convertido en filántropo
 
 ## Referencias
 

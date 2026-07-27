@@ -111,12 +111,12 @@ Lo que pedían era que la siguiente generación aún tuviera la oportunidad de a
 
 **Lecturas complementarias**:
 
-- [Teñido índigo](/culture/藍染) — Semejanzas y diferencias entre la camisa azul hakka y la artesanía de índigo con Strobilanthes cusia del norte, en Sanxia, y la reflexión multiétnica sobre si «el teñido índigo es exclusivamente hakka»
-- [Música hakka de Taiwán](/music/台灣客家音樂) — De las canciones de la montaña al rock, cómo la música en hakka se convirtió en la primera línea de revitalización étnica
-- [Cultura culinaria hakka](/food/客家飲食文化) — La geografía y la historia del trabajo detrás de lo salado, lo graso y lo aromático
-- [Diversidad lingüística y cultura materna](/culture/語言多樣性與母語文化) — Panorama del entorno multilingüe de Taiwán y la situación de las lenguas maternas de cada grupo étnico
-- [Grupos étnicos (hokkien, hakka, indígenas, continentales, nuevos residentes)](/culture/族群（閩南客家原住民外省新住民）) — La interacción entre los cinco grandes grupos étnicos y la política étnica contemporánea
-- [Transición democrática de Taiwán](/history/台灣民主轉型) — El panorama completo de la ola de democratización en la que se inscribió el Movimiento Devuélvanos la Lengua Materna
+- [Teñido índigo](/es/culture/taiwan-indigo-dyeing) — Semejanzas y diferencias entre la camisa azul hakka y la artesanía de índigo con Strobilanthes cusia del norte, en Sanxia, y la reflexión multiétnica sobre si «el teñido índigo es exclusivamente hakka»
+- [Música hakka de Taiwán](/es/music/taiwan-hakka-music-from-mountain-songs-to-rock) — De las canciones de la montaña al rock, cómo la música en hakka se convirtió en la primera línea de revitalización étnica
+- [Cultura culinaria hakka](/es/food/hakka-food-culture) — La geografía y la historia del trabajo detrás de lo salado, lo graso y lo aromático
+- [Diversidad lingüística y cultura materna](/es/culture/linguistic-diversity-and-mother-tongue-culture) — Panorama del entorno multilingüe de Taiwán y la situación de las lenguas maternas de cada grupo étnico
+- [Grupos étnicos (hokkien, hakka, indígenas, continentales, nuevos residentes)](/es/culture/ethnic-groups) — La interacción entre los cinco grandes grupos étnicos y la política étnica contemporánea
+- [Transición democrática de Taiwán](/es/history/taiwan-democratization) — El panorama completo de la ola de democratización en la que se inscribió el Movimiento Devuélvanos la Lengua Materna
 
 ## Referencias
 

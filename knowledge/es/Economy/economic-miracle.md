@@ -292,7 +292,7 @@ El autor de esta historia sigue siendo cada taiwanés.
 
 **Lectura complementaria:**
 
-- [Factura: aquel papel de 1951 que convirtió a todo ciudadano en inspector fiscal](/economy/發票) — La factura unificada fue una infraestructura fiscal clave contemporánea al milagro económico; en su primer año, 1951, hizo que los ingresos por impuestos sobre negocios aumentaran un 75%
+- [Factura: aquel papel de 1951 que convirtió a todo ciudadano en inspector fiscal](/es/economy/taiwan-uniform-invoice) — La factura unificada fue una infraestructura fiscal clave contemporánea al milagro económico; en su primer año, 1951, hizo que los ingresos por impuestos sobre negocios aumentaran un 75%
 
 ## Referencias
 

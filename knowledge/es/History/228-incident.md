@@ -201,11 +201,11 @@ Lo que diga ese papel no es lo importante. Lo importante es que, por fin, alguie
 
 **Lecturas relacionadas**:
 
-- [Museo Nacional de Derechos Humanos](/history/國家人權博物館) — La institucionalización del homenaje a las víctimas y la rendición de cuentas de los perpetradores: inaugurado en 2018, su presupuesto fue congelado en 2025
-- [Era de la ley marcial](/history/戒嚴時期) — El contenedor legal de 38 años desde 1949, prolongación de la represión de 1947
-- [Terror Blanco en Taiwán](/history/台灣白色恐怖) — Los casos políticos de los 38 años de ley marcial
-- [Justicia transicional en Taiwán](/history/台灣轉型正義) — La pugna entre la revocación de sentencias y la exigencia de responsabilidades a los perpetradores
-- [Días festivos nacionales](/society/國定假日) — Cómo el 228 se convirtió en 1997 en el primer día festivo nacional oficial de la República de China
+- [Museo Nacional de Derechos Humanos](/es/history/national-human-rights-museum) — La institucionalización del homenaje a las víctimas y la rendición de cuentas de los perpetradores: inaugurado en 2018, su presupuesto fue congelado en 2025
+- [Era de la ley marcial](/es/history/martial-law-era) — El contenedor legal de 38 años desde 1949, prolongación de la represión de 1947
+- [Terror Blanco en Taiwán](/es/history/taiwan-white-terror) — Los casos políticos de los 38 años de ley marcial
+- [Justicia transicional en Taiwán](/es/history/taiwan-transitional-justice) — La pugna entre la revocación de sentencias y la exigencia de responsabilidades a los perpetradores
+- [Días festivos nacionales](/es/society/national-holidays) — Cómo el 228 se convirtió en 1997 en el primer día festivo nacional oficial de la República de China
 
 ## Referencias
 

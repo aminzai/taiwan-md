@@ -50,7 +50,7 @@ La historia comienza cuatro meses antes.
 
 El 17 de abril de 1895, Li Hongzhang firmó el Tratado de Shimonoseki en Shimonoseki (Japón), cediendo Taiwán y Penghu a Japón de forma permanente[^3]. La noticia llegó a Pekín y conmovió a la corte. Cuando llegó a Taiwán, el pánico fue aún mayor.
 
-La [dinastía Qing](/es/History/qing-dynasty-rule/) había gobernado Taiwán durante más de doscientos años. Liu Mingchuan la había elevado a provincia apenas una década antes, construyendo ferrocarriles y tendiendo líneas telegráficas. Ahora, un tratado lo entregaba todo.
+La [dinastía Qing](/es/history/qing-dynasty-rule/) había gobernado Taiwán durante más de doscientos años. Liu Mingchuan la había elevado a provincia apenas una década antes, construyendo ferrocarriles y tendiendo líneas telegráficas. Ahora, un tratado lo entregaba todo.
 
 El gobernador de Taiwán, Tang Jingsong, había presentado memorias oponiéndose a la cesión antes de la firma del tratado. Qiu Fengjia, un candidato a funcionario imperial de origen taiwanés en Pekín, también organizó una petición colectiva de protesta. Pero la corte Qing ya había tomado su decisión[^4]. Qiu Fengjia escribió el verso que sería citado una y otra vez por las generaciones posteriores: «El canciller tiene poder para ceder tierras, el ministro solitario no tiene fuerza para hacer volver el cielo.»
 
@@ -75,7 +75,7 @@ En el caos, soldados y milicianos saquearon e incendiaron. El orden urbano se de
 
 ¿Fue Gu Xianrong un «traidor chino» o un «pragmatista»? Este debate ha continuado durante ciento treinta años. Su lógica era simple: la ciudad ya estaba siendo saqueada; si no dejaban entrar a los japoneses, lo que se destruiría serían las vidas y propiedades de los ciudadanos de Taipéi. Pero después se convirtió en uno de los taiwaneses más poderosos del periodo colonial japonés, y la familia Gu de Lukang ascendió desde entonces[^13].
 
-El 17 de junio, Japón celebró en Taipéi la «Ceremonia de Inicio de Gobierno», y el Gobierno General de Taiwán comenzó a funcionar oficialmente. Comenzó el [periodo colonial japonés](/es/History/japanese-colonial-era/).
+El 17 de junio, Japón celebró en Taipéi la «Ceremonia de Inicio de Gobierno», y el Gobierno General de Taiwán comenzó a funcionar oficialmente. Comenzó el [periodo colonial japonés](/es/history/japanese-colonial-era/).
 
 ## La guerra en las montañas
 
@@ -120,11 +120,11 @@ Aquel tigre amarillo está en una vitrina del museo. Está en silencio. La histo
 
 **Lecturas complementarias**:
 
-- [Tres extranjeros ante Yiwei: el álbum del fotógrafo, las notas del periodista, el diario del misionero](/history/三個外國人看乙未) — Serie D-2. El fotógrafo japonés Endo Makoto, el periodista estadounidense Davidson y el misionero japonés Hosokawa Shigeyuki: los tres testimonios en lenguas extranjeras más importantes de la Guerra de Yiwei, y las limitaciones de perspectiva que subyacen en cada uno.
-- [Periodo de dominio Qing](/history/清治時期) — La Guerra de Yiwei fue el final del periodo Qing; para comprender los doscientos años de gobierno sobre Taiwán.
-- [Periodo colonial japonés](/history/日治時期) — Tras la desaparición de la república, el inicio de cincuenta años de dominio japonés sobre Taiwán.
-- [Guerra Sino-Francesa](/history/清法戰爭) — Diez años antes, el ejército francés atacó Taiwán y Liu Mingchuan defendió Keelung. Diez años después, la provincia que él construyó fue cedida.
-- [Robert Swinhoe](/people/史溫侯) — Treinta años antes, un cónsul británico registraba la historia natural en esta misma isla; durante la Guerra de Yiwei, aquel mundo ya había terminado.
+- [Tres extranjeros ante Yiwei: el álbum del fotógrafo, las notas del periodista, el diario del misionero](/es/history/three-foreigners-witness-1895-taiwan) — Serie D-2. El fotógrafo japonés Endo Makoto, el periodista estadounidense Davidson y el misionero japonés Hosokawa Shigeyuki: los tres testimonios en lenguas extranjeras más importantes de la Guerra de Yiwei, y las limitaciones de perspectiva que subyacen en cada uno.
+- [Periodo de dominio Qing](/es/history/qing-dynasty-rule) — La Guerra de Yiwei fue el final del periodo Qing; para comprender los doscientos años de gobierno sobre Taiwán.
+- [Periodo colonial japonés](/es/history/japanese-colonial-era) — Tras la desaparición de la república, el inicio de cincuenta años de dominio japonés sobre Taiwán.
+- [Guerra Sino-Francesa](/es/history/sino-french-war-in-taiwan) — Diez años antes, el ejército francés atacó Taiwán y Liu Mingchuan defendió Keelung. Diez años después, la provincia que él construyó fue cedida.
+- [Robert Swinhoe](/es/people/robert-swinhoe-naturalist) — Treinta años antes, un cónsul británico registraba la historia natural en esta misma isla; durante la Guerra de Yiwei, aquel mundo ya había terminado.
 
 ## Referencias
 

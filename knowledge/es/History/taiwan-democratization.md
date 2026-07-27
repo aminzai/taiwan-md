@@ -172,16 +172,16 @@ De la carta de despedida a la presidencia del Control Yuan, cuarenta y un años.
 
 **Lecturas complementarias**:
 
-- [Evento 28‑2](/history/二二八事件) — Cómo el trauma de 1947 se convirtió en el origen de la conciencia democrática de Taiwán
-- [Terror blanco en Taiwán](/history/台灣白色恐怖) — Panorama completo de los casos políticos y violaciones de derechos humanos durante 38 años de ley marcial
-- [Periodo de ley marcial](/history/戒嚴時期) — Bases legales del mandato de ley marcial más largo del mundo y sus mecanismos de control social
-- [Evento de la Isla Bella](/history/美麗島事件) — Detalle completo del suceso de Kaohsiung de 1979 y su impacto histórico
-- [Elecciones y partidos políticos de Taiwán](/history/台灣選舉與政黨政治) — Evolución del sistema electoral desde la Asamblea Nacional de por vida hasta cuatro alternancias de partidos
-- [Resolución del futuro de Taiwán](/history/臺灣前途決議文) — Documento del DPP de 1999 que abrió la puerta a la primera alternancia en 2000
-- [Justicia transicional en Taiwán](/history/台灣轉型正義) — Cómo la sociedad afronta los traumas del autoritarismo tras la democratización
-- [Movimiento Sunflower](/society/太陽花學運) — Crónica completa de la ocupación del Yuan Legislativo en 2014, desde los treinta segundos de anuncio hasta la descolonización económica doce años después
-- [Cumbre Taiwan‑China 2026](/society/2026鄭習會與國共十年再會) — Por qué el AIT enfatiza “diálogo con líderes electos” y sus raíces históricas
-- [Jhou Zi‑yu](/people/周子瑜) — El video de disculpa de 90 segundos antes de las elecciones de 2016, la tercera huella más pesada de la alternancia política de Taiwán
+- [Evento 28‑2](/es/history/228-incident) — Cómo el trauma de 1947 se convirtió en el origen de la conciencia democrática de Taiwán
+- [Terror blanco en Taiwán](/es/history/taiwan-white-terror) — Panorama completo de los casos políticos y violaciones de derechos humanos durante 38 años de ley marcial
+- [Periodo de ley marcial](/es/history/martial-law-era) — Bases legales del mandato de ley marcial más largo del mundo y sus mecanismos de control social
+- [Evento de la Isla Bella](/es/history/kaohsiung-incident-formosa-incident) — Detalle completo del suceso de Kaohsiung de 1979 y su impacto histórico
+- [Elecciones y partidos políticos de Taiwán](/es/history/taiwan-elections-and-party-politics) — Evolución del sistema electoral desde la Asamblea Nacional de por vida hasta cuatro alternancias de partidos
+- [Resolución del futuro de Taiwán](/es/history/resolution-on-taiwans-future) — Documento del DPP de 1999 que abrió la puerta a la primera alternancia en 2000
+- [Justicia transicional en Taiwán](/es/history/taiwan-transitional-justice) — Cómo la sociedad afronta los traumas del autoritarismo tras la democratización
+- [Movimiento Sunflower](/es/society/sunflower-movement) — Crónica completa de la ocupación del Yuan Legislativo en 2014, desde los treinta segundos de anuncio hasta la descolonización económica doce años después
+- [Cumbre Taiwan‑China 2026](/es/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Por qué el AIT enfatiza “diálogo con líderes electos” y sus raíces históricas
+- [Jhou Zi‑yu](/es/people/tzuyu) — El video de disculpa de 90 segundos antes de las elecciones de 2016, la tercera huella más pesada de la alternancia política de Taiwán
 
 ## Referencias
 

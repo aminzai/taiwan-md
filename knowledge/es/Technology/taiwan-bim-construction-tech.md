@@ -265,11 +265,11 @@ Cuando Shuotao subió `REVIT_MCP_study` a GitHub en diciembre de 2025[^48], hab�
 
 **Lectura adicional**:
 
-- [Arquitectura de Taiwán](/art/台灣建築) — la narrativa cultural arquitectónica desde las casas de piedra hasta los rascacielos; este artículo es su complemento sobre digitalización de ingeniería
-- [Vivienda social y justicia habitacional](/society/社會住宅與居住正義) — la aplicación de BIM en la gestión operativa y de mantenimiento de vivienda social es un plan prioritario del Instituto de Investigación en Construcción del Ministerio del Interior en los últimos años
-- [Empresas de Taiwán: TSMC](/economy/台灣企業：台積電) — la aplicación de BIM en las plantas de TSMC es el principal campo de batalla práctico para constructoras como Futsu y Dacin
-- [Desarrollo de IA en Taiwán](/technology/AI發展) — Anthropic MCP y el servidor MCP nativo en Revit 2027 son un caso concreto de IA × industria
-- [Industria de semiconductores](/technology/半導體產業) — la solución integral de ingeniería para plantas fab + la construcción inteligente con BIM es la base de ingeniería para la expansión de los clústeres de semiconductores
+- [Arquitectura de Taiwán](/es/art/taiwanese-architecture) — la narrativa cultural arquitectónica desde las casas de piedra hasta los rascacielos; este artículo es su complemento sobre digitalización de ingeniería
+- [Vivienda social y justicia habitacional](/es/society/social-housing-and-housing-justice) — la aplicación de BIM en la gestión operativa y de mantenimiento de vivienda social es un plan prioritario del Instituto de Investigación en Construcción del Ministerio del Interior en los últimos años
+- [Empresas de Taiwán: TSMC](/es/economy/tsmc) — la aplicación de BIM en las plantas de TSMC es el principal campo de batalla práctico para constructoras como Futsu y Dacin
+- [Desarrollo de IA en Taiwán](/es/technology/ai-development-in-taiwan) — Anthropic MCP y el servidor MCP nativo en Revit 2027 son un caso concreto de IA × industria
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — la solución integral de ingeniería para plantas fab + la construcción inteligente con BIM es la base de ingeniería para la expansión de los clústeres de semiconductores
 
 ## Imágenes
 

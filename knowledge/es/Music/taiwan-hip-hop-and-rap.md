@@ -212,7 +212,7 @@ _Miss Ko en el festival CMJ de Nueva York, 2013. Fue la primera rapera taiwanesa
 
 El verdadero estallido llegó a comienzos de 2025. El detonante fue una canción publicada en noviembre de 2024 que se hizo viral en Douyin y fue criticada por misógina: «Ai Ni Zhen De Mei Ban Fa», de Yi Yi. El 22 de enero de 2025, RapShark, nombre real Chang Po-han, nacida en Tainan en 2000 y salida de la Sociedad de Música Negra de la Universidad Nacional Chengchi, lanzó el diss «[Zai Chao Laji](https://www.youtube.com/watch?v=wyjDlPigQ50)» y se convirtió en la primera rapera en atacar frontalmente[^45].
 
-Quien salió luego a apoyarla fue alguien que en principio no tenía mucho que ver con esa guerra interna de la escena: [?te](/people/壞特), nombre real Lin Chih-i. En realidad no rapea; es una cantautora de lo-fi R&B que estudió nueve años en la Universidad Médica de Defensa Nacional y ganó el premio a mejor artista nueva en la 32.ª edición de los Golden Melody Awards. Precisamente por eso, cuando criticó en Threads que esas canciones estaban «llenas de una cultura masculina tradicional de virilidad», resultó especialmente llamativa dentro de la regla tácita del hip hop de «no pisarse entre sí», y de inmediato recibió ataques masivos[^46]. Después de esos ataques no retrocedió; en Threads dijo con mayor claridad: «Entonces supe que estoy haciendo lo correcto; lo que estoy haciendo también representa los valores centrales del hip hop»[^47].
+Quien salió luego a apoyarla fue alguien que en principio no tenía mucho que ver con esa guerra interna de la escena: [?te](/es/people/huai-te-indie-singer), nombre real Lin Chih-i. En realidad no rapea; es una cantautora de lo-fi R&B que estudió nueve años en la Universidad Médica de Defensa Nacional y ganó el premio a mejor artista nueva en la 32.ª edición de los Golden Melody Awards. Precisamente por eso, cuando criticó en Threads que esas canciones estaban «llenas de una cultura masculina tradicional de virilidad», resultó especialmente llamativa dentro de la regla tácita del hip hop de «no pisarse entre sí», y de inmediato recibió ataques masivos[^46]. Después de esos ataques no retrocedió; en Threads dijo con mayor claridad: «Entonces supe que estoy haciendo lo correcto; lo que estoy haciendo también representa los valores centrales del hip hop»[^47].
 
 El campo de batalla estalló el 12 de febrero de 2025 con una canción. Yang Shu-ya, nacida en 1999, graduada de Ciencia Política de la Universidad Nacional de Taiwán, salida de la Sociedad de Investigación de Hip Hop y exprofesora de primaria en Hualien, publicó «[Rule Man Freestyle](https://www.youtube.com/watch?v=MHHHWAyq8qM)». La línea «Real no es el taparrabos de tu misoginia» directamente volcó la mesa[^48]. Sin ningún recurso de sello, la canción llegó al número uno en tiempo real en StreetVoice en menos de veinticuatro horas, se acercó a las cien mil reproducciones en YouTube y fue compartida incluso por el crítico musical Ma Shih-fang y la escritora Huang Li-chun[^49]. Que una mujer salida de una asociación universitaria y sin compañía atravesara con una sola canción el mundo musical y literario es, en sí mismo, la prueba más fuerte de aquella «entrada académica» del hip hop taiwanés.
 
@@ -251,11 +251,11 @@ Los cuatro tonos del chino, los siete tonos del taiwanés y las lenguas de los d
 
 **Lecturas ampliadas**:
 
-- [Música pop taiwanesa](/music/台灣流行音樂) — De nakashi a Jay Chou: cómo una isla canta sus propias canciones
-- [Evolución de la canción en taiwanés](/music/台灣台語歌曲演進) — De «Bāng Chhun-hong» al nuevo movimiento taiwanés: cómo una lengua volvió a cantar hacia el mainstream
-- [Cantautores indígenas contemporáneos](/music/當代原住民創作歌手) — Del escenario de los Golden Melody a la revitalización lingüística: cómo se escuchan las voces de los dieciséis pueblos
-- [Música independiente de Taiwán](/music/台灣獨立音樂) — Underground, livehouses y una larga batalla por la libertad
-- [Música popular y Golden Melody Awards](/music/金曲獎) — Cómo un premio definió los estándares de la escena musical en chino
+- [Música pop taiwanesa](/es/music/golden-melodies-legacy-taiwan-pop-music) — De nakashi a Jay Chou: cómo una isla canta sus propias canciones
+- [Evolución de la canción en taiwanés](/es/music/taiwanese-hokkien-song-evolution) — De «Bāng Chhun-hong» al nuevo movimiento taiwanés: cómo una lengua volvió a cantar hacia el mainstream
+- [Cantautores indígenas contemporáneos](/es/music/contemporary-indigenous-singer-songwriters) — Del escenario de los Golden Melody a la revitalización lingüística: cómo se escuchan las voces de los dieciséis pueblos
+- [Música independiente de Taiwán](/es/music/indie-music-scene) — Underground, livehouses y una larga batalla por la libertad
+- [Música popular y Golden Melody Awards](/es/music/pop-music-and-golden-melody-awards) — Cómo un premio definió los estándares de la escena musical en chino
 
 ## Fuentes de imágenes
 

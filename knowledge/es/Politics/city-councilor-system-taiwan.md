@@ -200,7 +200,7 @@ Entre las dos interpretaciones se encuentra el campo de batalla de la voluntad p
 
 El día de las elecciones de los Nueve en Uno, la papeleta que reciban los votantes no incluye a los legisladores (las elecciones legislativas coinciden con las presidenciales, que serán en 2028), pero la papeleta de concejales sigue funcionando bajo las reglas antiguas heredadas de los años 80. **La misma papeleta, dos sistemas — nuevo y antiguo coexistiendo** — este es el detalle más fácil de pasar por alto pero con mayor significado estructural en la infraestructura democrática de Taiwán.
 
-Para una discusión detallada del sistema, véase: [Hub de Política](/politics) · 2026 九合一選舉 (zh only — 2026 Elecciones de los Nueve en Uno) · 九合一選舉是什麼 (zh only — Qué son las Elecciones de los Nueve en Uno) · 中選會制度 (zh only — Sistema de la Comisión Electoral Central) · 村里長制度 (zh only — Sistema de Jefes de Aldea/Villa) · 直轄市山地原住民區長 (zh only — Jefe de Distrito Indígena de Montaña en Ciudad Especial) · [民主化](/es/History/taiwan-democratization-history/) · [台灣選舉與政黨政治](/es/History/taiwan-elections-and-party-politics/)
+Para una discusión detallada del sistema, véase: [Hub de Política](/politics) · 2026 九合一選舉 (zh only — 2026 Elecciones de los Nueve en Uno) · 九合一選舉是什麼 (zh only — Qué son las Elecciones de los Nueve en Uno) · 中選會制度 (zh only — Sistema de la Comisión Electoral Central) · 村里長制度 (zh only — Sistema de Jefes de Aldea/Villa) · 直轄市山地原住民區長 (zh only — Jefe de Distrito Indígena de Montaña en Ciudad Especial) · [民主化](/es/history/taiwan-democratization-history/) · [台灣選舉與政黨政治](/es/history/taiwan-elections-and-party-politics/)
 
 ---
 

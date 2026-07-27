@@ -148,8 +148,8 @@ La respuesta que nos dio el movimiento de la canción folclórica taiwanesa es: 
 ## Lecturas complementarias
 
 - [Desarrollo de la música pop taiwanesa](/music/台灣流行音樂發展) — El eje principal de la música pop en lengua china desde Lo Dayou hasta Chen Qizhen y Zhang Xuan, tras la era folclórica
-- [Literatura taiwanesa tras el levantamiento de la ley marcial](/art/解嚴後台灣文學) — Otro movimiento de conciencia cultural posterior a 1987, con el mismo espíritu que el "cantar nuestras propias canciones" del movimiento folclórico
-- [Cine taiwanés](/art/台灣電影) — El movimiento del Nuevo Cine taiwanés del mismo período, otro eje del despertar cultural local taiwanés en las décadas de 1970 y 1980
+- [Literatura taiwanesa tras el levantamiento de la ley marcial](/es/art/post-martial-law-taiwanese-literature) — Otro movimiento de conciencia cultural posterior a 1987, con el mismo espíritu que el "cantar nuestras propias canciones" del movimiento folclórico
+- [Cine taiwanés](/es/art/taiwanese-cinema) — El movimiento del Nuevo Cine taiwanés del mismo período, otro eje del despertar cultural local taiwanés en las décadas de 1970 y 1980
 
 ---
 

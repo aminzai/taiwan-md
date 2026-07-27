@@ -269,10 +269,10 @@ Si Au Sow Yee o su agencia representante tienen alguna inquietud sobre el uso de
 
 ## Lecturas complementarias
 
-- [Cheng Wen-Chi](/people/鄭文琦) — editor jefe de NML y coimpulsor de Nusantara Archive. Colabora con Au Sow Yee desde la fundación de NML en 2011, pasando por el inicio de Nusantara en 2017 y hasta 2024; es su socio de trabajo más importante dentro del círculo artístico taiwanés
-- [Curadores taiwaneses y construcción artístico-cultural](/art/台灣策展人與藝術文化建構) — desarrollo discursivo de la generación de curadores taiwaneses, incluido Kao Jun-Honn, uno de los asesores editoriales de NML; dialoga de forma sostenida con el discurso Nusantara de Au Sow Yee en la Bienal de Taipéi y la Bienal de Arte Asiático
-- [Arte de nuevos medios en Taiwán](/art/台灣新媒體藝術) — Au Sow Yee usa la instalación audiovisual como medio principal; esta línea ofrece el contexto histórico del videoarte y el arte mediático en Taiwán
-- [Arte contemporáneo](/art/當代藝術) — panorama general del ecosistema del arte contemporáneo taiwanés; al incorporar el framework “Nusantara” de Au Sow Yee, permite ver el eje sudesteasiático / del Sur del arte contemporáneo de Taiwán
+- [Cheng Wen-Chi](/es/people/cheng-wen-chi) — editor jefe de NML y coimpulsor de Nusantara Archive. Colabora con Au Sow Yee desde la fundación de NML en 2011, pasando por el inicio de Nusantara en 2017 y hasta 2024; es su socio de trabajo más importante dentro del círculo artístico taiwanés
+- [Curadores taiwaneses y construcción artístico-cultural](/es/art/taiwanese-curators-and-artistic-cultural-construction) — desarrollo discursivo de la generación de curadores taiwaneses, incluido Kao Jun-Honn, uno de los asesores editoriales de NML; dialoga de forma sostenida con el discurso Nusantara de Au Sow Yee en la Bienal de Taipéi y la Bienal de Arte Asiático
+- [Arte de nuevos medios en Taiwán](/es/art/taiwan-new-media-art) — Au Sow Yee usa la instalación audiovisual como medio principal; esta línea ofrece el contexto histórico del videoarte y el arte mediático en Taiwán
+- [Arte contemporáneo](/es/art/contemporary-art) — panorama general del ecosistema del arte contemporáneo taiwanés; al incorporar el framework “Nusantara” de Au Sow Yee, permite ver el eje sudesteasiático / del Sur del arte contemporáneo de Taiwán
 
 ## Referencias
 

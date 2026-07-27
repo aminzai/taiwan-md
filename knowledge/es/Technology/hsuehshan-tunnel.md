@@ -121,8 +121,8 @@ Al pasar por el Túnel Hsuehshan, reduce la velocidad y respeta las normas de tr
 
 ## Lecturas complementarias
 
-- [Sistema de transporte de Taiwán](/lifestyle/台灣交通系統) — Para comprender el significado del Túnel Hsuehshan dentro de la red de carreteras, ferrocarriles y transporte público.
-- [Desarrollo urbano y brechas urbano-rurales en Taiwán](/geography/台灣都市發展與城鄉差距) — Lectura complementaria sobre cómo la infraestructura de transporte transforma el desarrollo local y los flujos de población.
+- [Sistema de transporte de Taiwán](/es/lifestyle/transportation-system) — Para comprender el significado del Túnel Hsuehshan dentro de la red de carreteras, ferrocarriles y transporte público.
+- [Desarrollo urbano y brechas urbano-rurales en Taiwán](/es/geography/taiwan-urban-development-and-rural-urban-divide) — Lectura complementaria sobre cómo la infraestructura de transporte transforma el desarrollo local y los flujos de población.
 
 ## Referencias
 

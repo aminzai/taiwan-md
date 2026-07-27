@@ -131,10 +131,10 @@ Más importante aún, el espíritu de Tai Tzu-ying —nunca rendirse, mejorar co
 
 **Lecturas relacionadas:**
 
-- [Guo Lingling](/people/郭婞淳) — Medallista de oro en halterofilia en Tokio 2021, atleta aborigen ami y otro pilar de la delegación taiwanesa
-- [Li Yang](/people/李洋) — Compañero de residencia en el centro de entrenamiento nacional durante el mismo período, doble campeón olímpico (Tokio y París) y primer ministro del Ministerio de Deportes
-- [Wang Chi-lin y Li Yang (pareja Li-Yang)](/people/麟洋配) — Primera pareja masculina en la historia en lograr dos títulos olímpicos consecutivos sin ser cabeza de serie
-- [Chou Tzu-yu](/people/周子瑜) — Otra chica de Tainan de la misma generación que dejó su hogar a los 13 años para luchar por sus sueños
+- [Guo Lingling](/es/people/kuo-hsing-chun-olympic-weightlifting-champion) — Medallista de oro en halterofilia en Tokio 2021, atleta aborigen ami y otro pilar de la delegación taiwanesa
+- [Li Yang](/es/people/lee-yang-badminton) — Compañero de residencia en el centro de entrenamiento nacional durante el mismo período, doble campeón olímpico (Tokio y París) y primer ministro del Ministerio de Deportes
+- [Wang Chi-lin y Li Yang (pareja Li-Yang)](/es/people/lin-yang-duo-taiwan-badminton-champions) — Primera pareja masculina en la historia en lograr dos títulos olímpicos consecutivos sin ser cabeza de serie
+- [Chou Tzu-yu](/es/people/tzuyu) — Otra chica de Tainan de la misma generación que dejó su hogar a los 13 años para luchar por sus sueños
 
 ## Referencias
 

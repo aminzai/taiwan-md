@@ -89,7 +89,7 @@ La historia del tang tsung es, en esencia, una historia sobre la "resiliencia". 
 
 ## Lectura adicional
 
-- [Cuerno de Toro Dorado](/food/金牛角) — Otro postre taiwanés que lleva la memoria local, extendido por toda la isla desde el barrio antiguo de Sanxia
+- [Cuerno de Toro Dorado](/es/food/golden-croissant) — Otro postre taiwanés que lleva la memoria local, extendido por toda la isla desde el barrio antiguo de Sanxia
 
 ## Referencias
 

@@ -5,7 +5,15 @@ date: 2026-03-20
 author: 'Taiwan.md Contributors'
 category: 'Art'
 subcategory: '當代藝術'
-tags: ['pueblos indígenas', 'arte contemporáneo', 'artesanía tradicional', 'identidad', 'artistas', 'revitalización cultural']
+tags:
+  [
+    'pueblos indígenas',
+    'arte contemporáneo',
+    'artesanía tradicional',
+    'identidad',
+    'artistas',
+    'revitalización cultural',
+  ]
 readingTime: 8
 lastVerified: 2026-03-20
 lastHumanReview: false
@@ -45,33 +53,33 @@ Esta transición no fue sencilla. Las primeras obras a menudo fueron cuestionada
 
 ### La primera generación pionera
 
-**Sakinu Pawavalung** es un precursor clave del arte contemporáneo indígena de Taiwán. Este artista paiwan comenzó a crear en la década de 1980, combinando técnicas tradicionales paiwan de talla en madera con conceptos del arte contemporáneo de instalación. Su *Serie de casas de los espíritus ancestrales* transforma la noción de la casa tradicional en instalaciones de gran escala, recreando el espacio sagrado paiwan dentro del museo.
+**Sakinu Pawavalung** es un precursor clave del arte contemporáneo indígena de Taiwán. Este artista paiwan comenzó a crear en la década de 1980, combinando técnicas tradicionales paiwan de talla en madera con conceptos del arte contemporáneo de instalación. Su _Serie de casas de los espíritus ancestrales_ transforma la noción de la casa tradicional en instalaciones de gran escala, recreando el espacio sagrado paiwan dentro del museo.
 
 La creación de Sakinu tiene como preocupación central la revitalización cultural. Fundó un taller en Sandimen, condado de Pingtung, donde forma a jóvenes en técnicas de talla en madera y transmite saberes tradicionales a jóvenes indígenas urbanos (para más información sobre sus conceptos creativos, véase la página de presentación de artistas del [Centro de Desarrollo Cultural de los Pueblos Indígenas del Consejo de Pueblos Indígenas](https://www.tacp.gov.tw/)).
 
 **Yuma Taru** es, por su parte, una promotora fundamental del arte textil atayal. Desde la década de 1990 se dedicó a la revitalización del tejido tradicional, no solo preservando técnicas tradicionales, sino también impulsando el tejido hacia el campo del arte contemporáneo. El “Taller Yetong” que fundó es un núcleo central para la promoción de la cultura textil atayal[^2].
 
-Las obras textiles de Yuma, al tiempo que preservan técnicas tradicionales, ensayan con audacia nuevas combinaciones de colores y motivos. Su instalación textil de gran formato *Las palabras de los espíritus ancestrales* se exhibió en la Bienal de Taipéi de 2010, permitiendo que el mundo artístico internacional viera el atractivo contemporáneo del arte textil indígena de Taiwán.
+Las obras textiles de Yuma, al tiempo que preservan técnicas tradicionales, ensayan con audacia nuevas combinaciones de colores y motivos. Su instalación textil de gran formato _Las palabras de los espíritus ancestrales_ se exhibió en la Bienal de Taipéi de 2010, permitiendo que el mundo artístico internacional viera el atractivo contemporáneo del arte textil indígena de Taiwán.
 
 ### La segunda generación de ruptura
 
 **Rahic Talif** es un artista contemporáneo de origen amis cuya creación desafía con audacia los límites entre tradición y modernidad. Ha participado en numerosas exposiciones internacionales importantes y es uno de los artistas con mayor visibilidad del arte contemporáneo indígena taiwanés en el ámbito internacional[^2].
 
-La serie *願/原* de Rahic explora la complejidad de la identidad indígena. Utiliza madera flotante, objetos descartados y materiales modernos para crear instalaciones de gran escala que reflejan la situación de los pueblos indígenas en la sociedad contemporánea. La madera flotante de sus obras simboliza a los indígenas desarraigados, pero al mismo tiempo manifiesta una tenaz vitalidad.
+La serie _願/原_ de Rahic explora la complejidad de la identidad indígena. Utiliza madera flotante, objetos descartados y materiales modernos para crear instalaciones de gran escala que reflejan la situación de los pueblos indígenas en la sociedad contemporánea. La madera flotante de sus obras simboliza a los indígenas desarraigados, pero al mismo tiempo manifiesta una tenaz vitalidad.
 
-Su método creativo fusiona arte de acción, instalación y videoarte, rompiendo las limitaciones de los medios tradicionales. En la obra presentada en la Bienal de Venecia, *Si te paras en el centro del mundo y gritas amor*, utilizó cantos tradicionales amis y tecnologías audiovisuales contemporáneas para crear una experiencia visual y sonora impactante.
+Su método creativo fusiona arte de acción, instalación y videoarte, rompiendo las limitaciones de los medios tradicionales. En la obra presentada en la Bienal de Venecia, _Si te paras en el centro del mundo y gritas amor_, utilizó cantos tradicionales amis y tecnologías audiovisuales contemporáneas para crear una experiencia visual y sonora impactante.
 
 **An Sheng-hui** es una ceramista paiwan cuya creación lleva la artesanía cerámica tradicional al nivel de la cerámica moderna. Sus obras combinan las formas y técnicas de cocción de la cerámica tradicional paiwan, pero son más libres y experimentales en términos formales y conceptuales.
 
-La serie *Memoria de la tierra* de An Sheng-hui utiliza arcilla para registrar los espacios comunitarios y las memorias de vida del pueblo paiwan. Ella recoge suelos de distintas comunidades, los mezcla y los cuece para convertirlos en cerámica, de modo que cada pieza porta la historia y la memoria de un lugar específico.
+La serie _Memoria de la tierra_ de An Sheng-hui utiliza arcilla para registrar los espacios comunitarios y las memorias de vida del pueblo paiwan. Ella recoge suelos de distintas comunidades, los mezcla y los cuece para convertirlos en cerámica, de modo que cada pieza porta la historia y la memoria de un lugar específico.
 
 ### La tercera generación innovadora
 
 **Eleng Luluan** es curadora y artista de origen rukai, dedicada durante largo tiempo a promover el desarrollo del arte contemporáneo indígena. El “Festival de Arte en la Ladera” que curó es una plataforma importante para mostrar la energía creativa de una nueva generación de artistas indígenas (véase la información relacionada de la Fundación de Cultura y Comunicación de los Pueblos Indígenas).
 
-La concepción curatorial de Eleng enfatiza la “desmarginalización”. Considera que el arte indígena no debe ser visto como algo “especial” o como “lo otro”, sino como un componente importante del arte contemporáneo de Taiwán. Su exposición *Así era* reorganizó la trayectoria de desarrollo del arte indígena taiwanés y recibió una alta valoración del mundo artístico.
+La concepción curatorial de Eleng enfatiza la “desmarginalización”. Considera que el arte indígena no debe ser visto como algo “especial” o como “lo otro”, sino como un componente importante del arte contemporáneo de Taiwán. Su exposición _Así era_ reorganizó la trayectoria de desarrollo del arte indígena taiwanés y recibió una alta valoración del mundo artístico.
 
-**Lin Jie-wen** es un artista amis de la generación joven que emplea ampliamente tecnologías de nuevos medios. Su obra de realidad virtual *El mar de los amis* sumerge al público en la cultura oceánica amis y permite experimentar la vida tradicional de pesca y caza.
+**Lin Jie-wen** es un artista amis de la generación joven que emplea ampliamente tecnologías de nuevos medios. Su obra de realidad virtual _El mar de los amis_ sumerge al público en la cultura oceánica amis y permite experimentar la vida tradicional de pesca y caza.
 
 La creación de Lin Jie-wen refleja la experiencia cultural indígena de la generación digital. Él afirma: “Nuestra generación de indígenas creció viviendo en el mundo digital; crear con medios digitales es algo muy natural. La clave está en cómo transmitir una sabiduría antigua mediante tecnologías modernas”.
 
@@ -81,7 +89,7 @@ La creación de Lin Jie-wen refleja la experiencia cultural indígena de la gene
 
 La cuestión central que enfrentan los artistas indígenas contemporáneos es la identidad. La mayoría creció en sociedades urbanas dominadas por los han, por lo que su conexión con la cultura tradicional puede estar fracturada o ser difusa. Cómo reconectar con las raíces culturales y, al mismo tiempo, construir una identidad contemporánea es un tema importante en la creación de muchos artistas.
 
-La obra fotográfica *Quiénes somos* de **Etan Pavavalung** documenta las formas de vida de los indígenas urbanos. Fotografía a trabajadores, estudiantes y empleados indígenas en Taipéi, mostrando sus esfuerzos por mantener la identidad cultural en la vida urbana.
+La obra fotográfica _Quiénes somos_ de **Etan Pavavalung** documenta las formas de vida de los indígenas urbanos. Fotografía a trabajadores, estudiantes y empleados indígenas en Taipéi, mostrando sus esfuerzos por mantener la identidad cultural en la vida urbana.
 
 En estas fotografías vemos oficinistas que visten traje pero llevan collares tradicionales, estudiantes que trabajan en tiendas de conveniencia pero hablan su lengua indígena, y familias que viven en departamentos pero siguen realizando rituales tradicionales. Estas imágenes reflejan la complejidad y la diversidad de la identidad indígena contemporánea.
 
@@ -89,11 +97,11 @@ En estas fotografías vemos oficinistas que visten traje pero llevan collares tr
 
 La tierra es la base de la cultura indígena y también un tema importante de la creación artística contemporánea. Muchos artistas expresan, a través de sus obras, preocupación por el desarrollo territorial y la destrucción ambiental, y dan voz a los derechos territoriales de los pueblos indígenas.
 
-El artista atayal **Siki Sufin** exhibió su obra paisajística de gran escala *El llamado de la madre* en el municipio de Jianshi, condado de Hsinchu. La obra utiliza piedra local para formar una enorme estructura en espiral que simboliza el abrazo de la Madre Tierra. A su alrededor se plantan especies tradicionales, recreando los conocimientos atayal sobre el uso de las plantas.
+El artista atayal **Siki Sufin** exhibió su obra paisajística de gran escala _El llamado de la madre_ en el municipio de Jianshi, condado de Hsinchu. La obra utiliza piedra local para formar una enorme estructura en espiral que simboliza el abrazo de la Madre Tierra. A su alrededor se plantan especies tradicionales, recreando los conocimientos atayal sobre el uso de las plantas.
 
 Esta obra cumple funciones estéticas y de educación ambiental, y al mismo tiempo constituye un espacio de transmisión cultural. Mientras observa la obra, el público también aprende sobre la sabiduría ecológica atayal.
 
-El artista puyuma **Adaw Palaf Langasan** creó la obra audiovisual *El canto de los desechos nucleares*, que documenta la resistencia del pueblo tao de Lanyu contra el depósito de residuos nucleares. En la obra, ancianos tao expresan mediante cantos tradicionales su ira y tristeza ante la contaminación ambiental.
+El artista puyuma **Adaw Palaf Langasan** creó la obra audiovisual _El canto de los desechos nucleares_, que documenta la resistencia del pueblo tao de Lanyu contra el depósito de residuos nucleares. En la obra, ancianos tao expresan mediante cantos tradicionales su ira y tristeza ante la contaminación ambiental.
 
 Estas creaciones muestran el sentido de responsabilidad social de los artistas indígenas: son, a la vez, creadores estéticos, guardianes culturales y voces en las problemáticas ambientales.
 
@@ -101,11 +109,11 @@ Estas creaciones muestran el sentido de responsabilidad social de los artistas i
 
 En los últimos años, las voces de las mujeres artistas indígenas han adquirido una importancia creciente. Desde las perspectivas de las mujeres y las madres, exploran los roles de género y la transmisión familiar dentro de las culturas indígenas.
 
-**Iyo Kacaw** es una artista amis cuya instalación *Las manos de la madre* recrea el espacio de vida de las mujeres amis. En el centro de la obra hay un gran mortero de piedra, rodeado de diversos utensilios tradicionales de la vida cotidiana, que simbolizan la posición importante de las mujeres en la transmisión cultural del grupo.
+**Iyo Kacaw** es una artista amis cuya instalación _Las manos de la madre_ recrea el espacio de vida de las mujeres amis. En el centro de la obra hay un gran mortero de piedra, rodeado de diversos utensilios tradicionales de la vida cotidiana, que simbolizan la posición importante de las mujeres en la transmisión cultural del grupo.
 
 Los amis son una sociedad matrilineal, y las mujeres ocupan un lugar importante en la familia. La obra de Iyo recuerda al público que la sabiduría y las contribuciones de las mujeres en las culturas indígenas a menudo han sido ignoradas y merecen ser redescubiertas y respetadas.
 
-**Wan-mao Lu Sen-bao** es una artista puyuma cuya obra de arte textil *Los relatos de la abuela* utiliza técnicas tradicionales de tejido para crear esculturas modernas. En la obra, diversas fibras vegetales se entrelazan en complejas estructuras reticulares que simbolizan la transmisión de la memoria familiar.
+**Wan-mao Lu Sen-bao** es una artista puyuma cuya obra de arte textil _Los relatos de la abuela_ utiliza técnicas tradicionales de tejido para crear esculturas modernas. En la obra, diversas fibras vegetales se entrelazan en complejas estructuras reticulares que simbolizan la transmisión de la memoria familiar.
 
 Ella afirma: “Los relatos de la abuela se tejen con las manos; cada nudo es un recuerdo, cada hilo es un tramo de historia. Mi obra busca hacer visibles esos relatos invisibles”.
 
@@ -113,7 +121,7 @@ Ella afirma: “Los relatos de la abuela se tejen con las manos; cada nudo es un
 
 ### La Bienal de Venecia y los escenarios internacionales
 
-En años recientes, la visibilidad de los artistas indígenas taiwaneses en exposiciones internacionales ha aumentado, y la Bienal de Venecia es uno de los escenarios importantes. La obra de Rahic Talif *Si te paras en el centro del mundo y gritas amor* se ha exhibido en varias exposiciones internacionales; con el canto tradicional amis *Canto de los ancianos bebiendo* como fondo sonoro, permitió que públicos de todo el mundo escucharan la voz de los pueblos indígenas de Taiwán[^2].
+En años recientes, la visibilidad de los artistas indígenas taiwaneses en exposiciones internacionales ha aumentado, y la Bienal de Venecia es uno de los escenarios importantes. La obra de Rahic Talif _Si te paras en el centro del mundo y gritas amor_ se ha exhibido en varias exposiciones internacionales; con el canto tradicional amis _Canto de los ancianos bebiendo_ como fondo sonoro, permitió que públicos de todo el mundo escucharan la voz de los pueblos indígenas de Taiwán[^2].
 
 La participación de artistas indígenas taiwaneses en espacios internacionales tiene un significado simbólico para la construcción de la subjetividad cultural indígena. Que un creador proveniente de una comunidad indígena de Taiwán hable en nombre de los pueblos indígenas dentro del campo artístico internacional era una visibilidad cultural que casi no existía antes de la década de 1990.
 
@@ -152,12 +160,17 @@ En la era de la globalización, estas voces provenientes de las comunidades resu
 ## Referencias
 
 [^1]: [Centro de Desarrollo Artístico de los Pueblos Indígenas](https://www.tacp.gov.tw/) — Información sobre el desarrollo del arte contemporáneo indígena
-[^2]: Lin Jiancheng (2002), [*Notas de campo sobre el arte indígena de Taiwán*](https://www.books.com.tw/products/0010192578), Artist Publishing
+
+[^2]: Lin Jiancheng (2002), [_Notas de campo sobre el arte indígena de Taiwán_](https://www.books.com.tw/products/0010192578), Artist Publishing
+
 [^3]: [Bienal de Arte de Taiwán](https://www.museum.ntm.gov.tw/) — Información sobre exposiciones de arte contemporáneo
+
 [^4]: [Pabellón de Taiwán en la Bienal de Venecia](https://www.venezia.culture.tw/) — Archivo de ediciones anteriores del Pabellón de Taiwán
-[^5]: Kao Jun-honn (2017), [*Registro transversal: guerras de montaña, imperio e imágenes en Taiwán*](https://www.books.com.tw/products/0010768319), Walkers Cultural Enterprise
+
+[^5]: Kao Jun-honn (2017), [_Registro transversal: guerras de montaña, imperio e imágenes en Taiwán_](https://www.books.com.tw/products/0010768319), Walkers Cultural Enterprise
+
 [^7]: [Base de datos de literatura y cultura indígena moderna y contemporánea de Taiwán](http://140.109.24.175/iplm/) — Desarrollada por la Universidad Nacional Sun Yat-sen
 
 ---
 
-_Lecturas complementarias: [Historia de los pueblos indígenas de Taiwán y movimiento de rectificación de nombres](/es/History/indigenous-peoples-history-and-naming-movement/) · [Justicia territorial y territorios tradicionales de los pueblos indígenas de Taiwán](/es/Society/indigenous-land-justice-and-traditional-territories/) · [Mapa cultural de los 16 pueblos indígenas de Taiwán](/es/Culture/indigenous-peoples-16-tribes-cultural-map/) · [Movimiento de revitalización de las lenguas indígenas de Taiwán](/es/Culture/indigenous-language-revitalization-movement/) · [Cultura alimentaria indígena de Taiwán](/es/Food/taiwan-indigenous-foodways/) · [Sabiduría ecológica indígena taiwanesa y conservación ambiental](/es/Nature/taiwanese-indigenous-ecological-wisdom-conservation/)_
+_Lecturas complementarias: [Historia de los pueblos indígenas de Taiwán y movimiento de rectificación de nombres](/es/history/indigenous-peoples-history-and-naming-movement/) · [Justicia territorial y territorios tradicionales de los pueblos indígenas de Taiwán](/es/society/indigenous-land-justice-and-traditional-territories/) · [Mapa cultural de los 16 pueblos indígenas de Taiwán](/es/culture/indigenous-peoples-16-tribes-cultural-map/) · [Movimiento de revitalización de las lenguas indígenas de Taiwán](/es/culture/indigenous-language-revitalization-movement/) · [Cultura alimentaria indígena de Taiwán](/es/food/taiwan-indigenous-foodways/) · [Sabiduría ecológica indígena taiwanesa y conservación ambiental](/es/nature/taiwanese-indigenous-ecological-wisdom-conservation/)_

@@ -189,12 +189,12 @@ Diane Ying fue a entrevistar a Eileen Chang usando unos jeans rojo granate prest
 
 **Lecturas relacionadas**:
 
-- [The Reporter](/society/報導者) — un medio taiwanés que también toma como referencia el periodismo en profundidad, pero sigue el camino opuesto: sin fines de lucro, sin publicidad y sostenido por donaciones de desconocidos; ofrece el contraste más directo con el muro de pago y el ecosistema empresarial de CommonWealth
-- [PanSci](/society/泛科學) — otro nuevo medio taiwanés surgido en la década de 2010, que sostiene el espacio de discusión pública mediante divulgación científica y servicios de conocimiento con otro modelo de negocio
-- [Public Television Service](/society/公視) — otro camino del servicio público de medios en Taiwán, que usa presupuesto público en lugar de mecanismos de mercado para abordar la misma pregunta: «ante quién debe responder un medio»
-- [Medios y libertad de prensa en Taiwán](/society/台灣媒體與新聞自由) — la controversia por la retirada de un artículo en CommonWealth, los rankings de confianza y el trasfondo de la guerra informativa de la RPC se insertan en el contexto más amplio de la libertad de prensa en Taiwán
-- [Las 50 principales empresas de Taiwán](/economy/台灣前50大企業) — el grupo de empresas que las listas «2.000 principales» y «50 grandes grupos» de CommonWealth ayudan a definir es el protagonista de fondo de esta lista
-- [Empresas taiwanesas: TSMC](/economy/台灣企業：台積電) — la empresa que durante años se ha mantenido en los primeros lugares de las listas de empresas de referencia y de los 50 grandes grupos de CommonWealth, y también una de las patrocinadoras más importantes de su fundación educativa
+- [The Reporter](/es/society/the-reporter-investigative-journalism) — un medio taiwanés que también toma como referencia el periodismo en profundidad, pero sigue el camino opuesto: sin fines de lucro, sin publicidad y sostenido por donaciones de desconocidos; ofrece el contraste más directo con el muro de pago y el ecosistema empresarial de CommonWealth
+- [PanSci](/es/society/pansci) — otro nuevo medio taiwanés surgido en la década de 2010, que sostiene el espacio de discusión pública mediante divulgación científica y servicios de conocimiento con otro modelo de negocio
+- [Public Television Service](/es/society/pts-public-television-service) — otro camino del servicio público de medios en Taiwán, que usa presupuesto público en lugar de mecanismos de mercado para abordar la misma pregunta: «ante quién debe responder un medio»
+- [Medios y libertad de prensa en Taiwán](/es/society/media-and-press-freedom-in-taiwan) — la controversia por la retirada de un artículo en CommonWealth, los rankings de confianza y el trasfondo de la guerra informativa de la RPC se insertan en el contexto más amplio de la libertad de prensa en Taiwán
+- [Las 50 principales empresas de Taiwán](/es/economy/top-50-companies-taiwan) — el grupo de empresas que las listas «2.000 principales» y «50 grandes grupos» de CommonWealth ayudan a definir es el protagonista de fondo de esta lista
+- [Empresas taiwanesas: TSMC](/es/economy/tsmc) — la empresa que durante años se ha mantenido en los primeros lugares de las listas de empresas de referencia y de los 50 grandes grupos de CommonWealth, y también una de las patrocinadoras más importantes de su fundación educativa
 
 ## Fuentes de imágenes
 

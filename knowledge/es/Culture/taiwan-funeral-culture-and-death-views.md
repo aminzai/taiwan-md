@@ -105,9 +105,9 @@ A finales de 2023, el total acumulado de entierros ecológicos en toda la isla s
 
 **Lecturas complementarias**
 
-- [Cultura religiosa y de templos en Taiwán](/culture/台灣宗教與寺廟文化) — Cómo la creencia popular influye en las concepciones funerarias
-- [Bodas, funerales, celebraciones y ritos de paso en Taiwán](/culture/台灣婚喪喜慶與人生禮俗) — El espectro completo de ritos desde el nacimiento hasta la muerte
-- [Justicia ambiental y conflictos NIMBY en Taiwán](/society/台灣環境正義與鄰避爭議) — Conflictos sociales por la ubicación de incineradores y cementerios
+- [Cultura religiosa y de templos en Taiwán](/es/culture/taiwan-religion-and-temple-culture) — Cómo la creencia popular influye en las concepciones funerarias
+- [Bodas, funerales, celebraciones y ritos de paso en Taiwán](/es/culture/taiwanese-life-ceremony-traditions) — El espectro completo de ritos desde el nacimiento hasta la muerte
+- [Justicia ambiental y conflictos NIMBY en Taiwán](/es/society/taiwan-environmental-justice-nimby-conflicts) — Conflictos sociales por la ubicación de incineradores y cementerios
 
 ## Referencias
 

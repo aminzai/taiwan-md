@@ -5,7 +5,16 @@ date: 2026-03-18
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '動物與倫理'
-tags: ['zoológicos', 'animales de exhibición', 'bienestar animal', 'Xpark', 'Zoológico de Taipéi', 'ética animal', 'Zoológico de Hsinchu']
+tags:
+  [
+    'zoológicos',
+    'animales de exhibición',
+    'bienestar animal',
+    'Xpark',
+    'Zoológico de Taipéi',
+    'ética animal',
+    'Zoológico de Hsinchu',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -170,16 +179,20 @@ El camino aún es largo. Cada elección —a qué zoológico ir, qué tipo de es
 **El futuro de los zoológicos es nuestra elección.**
 
 [^1]: Zoológico Municipal de Hsinchu, “Concepto de remodelación del zoológico”, https://zoo.hccg.gov.tw/
+
 [^2]: Wuo Wuo Media, “Investigación en profundidad sobre las controversias de bienestar animal tras la apertura de Xpark”, https://wuo-wuo.com/
+
 [^3]: Ministerio de Agricultura, “Anuncio de reforma del Reglamento de Gestión de Animales de Exhibición” (julio de 2024), https://www.moa.gov.tw/
+
 [^4]: Red de Información sobre Protección Animal del Ministerio de Agricultura, “Reglamento de Gestión de Animales de Exhibición”, https://animal.moa.gov.tw/
+
 [^5]: Taiwan Animal Society Research Association, “Situación actual de la gestión de animales de microexhibición”, https://www.east.org.tw/
 
 ---
 
 **Lecturas complementarias**
 
-- [Controversias sobre medicamentos veterinarios en Taiwán](/society/台灣動物用藥爭議) — Desde las controversias éticas sobre los animales de exhibición hasta las lagunas legales en los medicamentos para mascotas, son distintas caras del mismo problema: la ley taiwanesa aún no ha aprendido cómo tratar a estas vidas que “no son personas ni propiedad”
+- [Controversias sobre medicamentos veterinarios en Taiwán](/es/society/taiwan-animal-drug-controversy) — Desde las controversias éticas sobre los animales de exhibición hasta las lagunas legales en los medicamentos para mascotas, son distintas caras del mismo problema: la ley taiwanesa aún no ha aprendido cómo tratar a estas vidas que “no son personas ni propiedad”
 
 ---
 

@@ -227,16 +227,16 @@ La obra más famosa no es "Ophelia", no es "Bi Ge Suo Zai", no son esos dos prem
 
 **Lectura adicional**:
 
-- [Crowd Lu](/people/盧廣仲) — Otra demostración, dentro del mismo ecosistema de música independiente en mandarín, de "no ser famoso pero ganar premios", transitando el mismo camino de "obra primero, exposición después"
-- [Yoga Lin](/people/林宥嘉) — Otro camino de un cantante masculino que pasó de un concurso de talento al Golden Melody, llevando la profesionalidad escénica al extremo
-- [Jay Chou](/people/周杰倫) — El otro extremo del espectro de la música popular en mandarín: sistema de superestrella vs. cantante independiente orientada a la obra
-- [Jolin Tsai](/people/蔡依林) — Otra forma de una cantante de construir su voz, el caso opuesto al de Waa Wei
-- [Música popular y Premios Golden Melody](/music/金曲獎) — Las coordenadas del escenario donde Waa Wei ganó dos veces el premio a Mejor Vocalista Femenina en Mandarín
-- [Música popular taiwanesa](/music/台灣流行音樂) — El entorno de la industria musical popular en mandarín
-- [Música independiente taiwanesa](/music/台灣獨立音樂) — La intersección entre Natural Q y la corriente principal del Golden Melody en la década de 2020
-- [Rainie Yang](/people/楊丞琳) — Un contraste estructural generacional de "mercado vs. academia": Rainie Yang tiene un premio Golden Bell (45.° edición) pero nunca ha ganado un Golden Melody; Waa Wei tiene dos Golden Melody a Mejor Vocalista Femenina en Mandarín
-- [Huang Shaoyong](/people/黃少雍) — Productor de música electrónica que ha colaborado con Waa Wei durante más de una década, desde la época de Lin Ma-dai hasta producir tres temas en solitario en "Zhen Zhu Xing": "Boca mala", "Por ejemplo, irse" y "Luna de mar"
-- [Kowen Ko](/people/柯智棠) — Primo, cantante folk británico, creador de ritmo lento con tres álbumes producidos por Chen Jian-qi
+- [Crowd Lu](/es/people/crowd-lu-indie-folk-treasure) — Otra demostración, dentro del mismo ecosistema de música independiente en mandarín, de "no ser famoso pero ganar premios", transitando el mismo camino de "obra primero, exposición después"
+- [Yoga Lin](/es/people/yoga-lin) — Otro camino de un cantante masculino que pasó de un concurso de talento al Golden Melody, llevando la profesionalidad escénica al extremo
+- [Jay Chou](/es/people/jay-chou) — El otro extremo del espectro de la música popular en mandarín: sistema de superestrella vs. cantante independiente orientada a la obra
+- [Jolin Tsai](/es/people/jolin-tsai) — Otra forma de una cantante de construir su voz, el caso opuesto al de Waa Wei
+- [Música popular y Premios Golden Melody](/es/music/pop-music-and-golden-melody-awards) — Las coordenadas del escenario donde Waa Wei ganó dos veces el premio a Mejor Vocalista Femenina en Mandarín
+- [Música popular taiwanesa](/es/music/golden-melodies-legacy-taiwan-pop-music) — El entorno de la industria musical popular en mandarín
+- [Música independiente taiwanesa](/es/music/indie-music-scene) — La intersección entre Natural Q y la corriente principal del Golden Melody en la década de 2020
+- [Rainie Yang](/es/people/rainie-yang) — Un contraste estructural generacional de "mercado vs. academia": Rainie Yang tiene un premio Golden Bell (45.° edición) pero nunca ha ganado un Golden Melody; Waa Wei tiene dos Golden Melody a Mejor Vocalista Femenina en Mandarín
+- [Huang Shaoyong](/es/people/huang-shao-yong-musician) — Productor de música electrónica que ha colaborado con Waa Wei durante más de una década, desde la época de Lin Ma-dai hasta producir tres temas en solitario en "Zhen Zhu Xing": "Boca mala", "Por ejemplo, irse" y "Luna de mar"
+- [Kowen Ko](/es/people/ke-zhi-tang-musician) — Primo, cantante folk británico, creador de ritmo lento con tres álbumes producidos por Chen Jian-qi
 
 ## Referencias
 

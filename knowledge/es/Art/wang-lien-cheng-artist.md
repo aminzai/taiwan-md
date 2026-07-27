@@ -130,9 +130,9 @@ Desde las 23 máquinas pasando páginas al unísono en Linz en septiembre de 201
 
 ## Lectura complementaria
 
-- **[Wang Xin-Ren (A-Luan)](/art/王新仁)** — Artista del mismo grupo en Project %, primer artista taiwanés en Art Blocks, colaborador frecuente de Wang Lien-Cheng
-- **[FAB DAO y el proyecto Project %](/art/FAB%20DAO與百岳計畫)** — El contexto completo del proyecto benéfico NFT de seis artistas en el que participa Wang Lien-Cheng
-- **[Arte de nuevos medios en Taiwán](/art/台灣新媒體藝術)** — La genealogía completa de cuarenta años de arte de nuevos medios taiwanés, desde Wang Xin-Jian hasta Wang Lien-Cheng
+- **[Wang Xin-Ren (A-Luan)](/es/art/wang-hsin-jen-artist)** — Artista del mismo grupo en Project %, primer artista taiwanés en Art Blocks, colaborador frecuente de Wang Lien-Cheng
+- **[FAB DAO y el proyecto Project %](/es/art/fab-dao)** — El contexto completo del proyecto benéfico NFT de seis artistas en el que participa Wang Lien-Cheng
+- **[Arte de nuevos medios en Taiwán](/es/art/taiwan-new-media-art)** — La genealogía completa de cuarenta años de arte de nuevos medios taiwanés, desde Wang Xin-Jian hasta Wang Lien-Cheng
 
 ## Referencias
 

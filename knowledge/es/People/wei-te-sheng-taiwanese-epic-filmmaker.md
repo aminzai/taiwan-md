@@ -86,7 +86,7 @@ El camino del cine no tiene atajos. Desde la carrera de ingeniería eléctrica e
 
 Nació en 1969 en Yongkang, Tainan; en el año 2000 invirtió 500.000 en un cortometraje de 5 minutos y no encontró financiación; en 2008, 530 millones en taquilla; en 2011, competencia principal en Venecia. Esa línea es una acumulación de resistencia, no tiene nada que ver con el milagro.
 
-**Lecturas complementarias:** [Mona Rudao: el héroe antijapón grabado en la moneda de veinte yuanes](/people/莫那·魯道)（el prototipo del protagonista de "Seediq Bale" y cómo el cine remodela la memoria）｜ [Wei Te-sheng — Wikipedia](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [Base de datos del cine taiwanés: Wei Te-sheng](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [Sitio oficial de los Premios Golden Horse](https://www.goldenhorse.org.tw/)
+**Lecturas complementarias:** [Mona Rudao: el héroe antijapón grabado en la moneda de veinte yuanes](/es/people/mona-rudao)（el prototipo del protagonista de "Seediq Bale" y cómo el cine remodela la memoria）｜ [Wei Te-sheng — Wikipedia](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [Base de datos del cine taiwanés: Wei Te-sheng](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [Sitio oficial de los Premios Golden Horse](https://www.goldenhorse.org.tw/)
 
 ## Referencias
 

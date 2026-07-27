@@ -207,7 +207,7 @@ La inversión en cada nueva generación de proceso supera a la anterior: una sol
 
 En mayo de 2026, la capitalización bursátil de TSMC equivale aproximadamente al 2,3 veces el PIB de Taiwán. Una sola empresa supera en valor al producto anual de todo el país: no existe un segundo ejemplo igual en el mundo.
 
-Morris Chang dijo una vez al Wall Street Journal que ya "ha completado lo que se propuso", describiéndose a sí mismo como un viejo soldado, "que no muere pero se va apagando"[^27]. Pero lo que creó va mucho más allá de una empresa. En torno a TSMC, Taiwán ha construido el clúster de [industria de semiconductores](/es/Technology/taiwan-semiconductor-industry/) más compacto del mundo, desde equipos hasta materiales y encapsulado y pruebas, con toda la cadena de suministro en un radio de cien kilómetros. Esa densidad permite a TSMC responder en 24 horas a los cambios de ingeniería de los clientes, algo que Samsung e Intel no pueden hacer.
+Morris Chang dijo una vez al Wall Street Journal que ya "ha completado lo que se propuso", describiéndose a sí mismo como un viejo soldado, "que no muere pero se va apagando"[^27]. Pero lo que creó va mucho más allá de una empresa. En torno a TSMC, Taiwán ha construido el clúster de [industria de semiconductores](/es/technology/taiwan-semiconductor-industry/) más compacto del mundo, desde equipos hasta materiales y encapsulado y pruebas, con toda la cadena de suministro en un radio de cien kilómetros. Esa densidad permite a TSMC responder en 24 horas a los cambios de ingeniería de los clientes, algo que Samsung e Intel no pueden hacer.
 
 En 1987, Morris Chang dijo que "solo quería sobrevivir". Treinta y ocho años después, el mundo entero necesita que TSMC sobreviva. De la supervivencia de un hombre a la supervivencia de una isla, y luego a la supervivencia de una civilización.
 
@@ -215,10 +215,10 @@ Nadie planificó una transferencia de esta magnitud. Pero en la mayor sequía en
 
 ## Lecturas complementarias
 
-- [Empresa taiwanesa: MediaTek](/economy/台灣企業：聯發科技) — El tercer mayor diseñador de chips para teléfonos del mundo; representante local del modelo fabless y complemento de TSMC
-- [Empresa taiwanesa: ASE Group](/economy/台灣企業：日月光半導體) — El mayor proveedor mundial de servicios de encapsulado y prueba, nodo clave aguas abajo en la misma cadena de suministro
-- [Bolsa de Taiwán y mercado de capitales](/economy/台灣股市與資本市場) — La capitalización de TSMC representa aproximadamente el 35% de la capitalización total del mercado bursátil taiwanés
-- [Transformación industrial de Taiwán](/economy/台灣產業轉型升級) — TSMC es el caso concreto de la transformación de Taiwán de isla de ensamblaje a isla tecnológica
+- [Empresa taiwanesa: MediaTek](/es/economy/mediatek) — El tercer mayor diseñador de chips para teléfonos del mundo; representante local del modelo fabless y complemento de TSMC
+- [Empresa taiwanesa: ASE Group](/es/economy/taiwan-enterprise-ase-semiconductor) — El mayor proveedor mundial de servicios de encapsulado y prueba, nodo clave aguas abajo en la misma cadena de suministro
+- [Bolsa de Taiwán y mercado de capitales](/es/economy/taiwan-stock-market) — La capitalización de TSMC representa aproximadamente el 35% de la capitalización total del mercado bursátil taiwanés
+- [Transformación industrial de Taiwán](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC es el caso concreto de la transformación de Taiwán de isla de ensamblaje a isla tecnológica
 
 ## Créditos de imágenes
 

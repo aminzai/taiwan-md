@@ -212,11 +212,11 @@ Es la misma agua del río Keelung.
 
 **Lecturas complementarias:**
 
-- [Jinguashi](/geography/金瓜石) — asentamiento hermano río arriba del Keelung, camino de transformación del patrimonio minero como "Parque Museo del Oro" tipo museo ecológico
-- [Historia del ferrocarril de Taiwán](/history/台灣鐵道史) — la línea Pingxi, inaugurada en 1920, es la base física del eje turístico de Houtong / Pingxi / Jingtong / Shifen
-- [Cultura de animales callejeros en Taiwán](/society/台灣流浪動物文化) — contexto taiwanés de la evidencia empírica de políticas TNVR; Houtong es uno de los pocos casos exitosos
-- [Ética de zoológicos y animales de exhibición](/society/動物園與展演動物倫理) — la tensión ética animal del "turismo felino" es la misma que la de los zoológicos y acuarios
-- [Faroles celestes](/culture/天燈) — el Festival de Faroles Celestes de Pingxi enfrenta la misma tensión de transformación de asentamientos con patrimonio minero: "economía local vs. protección animal / responsabilidad ambiental"
+- [Jinguashi](/es/geography/jinguashi) — asentamiento hermano río arriba del Keelung, camino de transformación del patrimonio minero como "Parque Museo del Oro" tipo museo ecológico
+- [Historia del ferrocarril de Taiwán](/es/history/taiwan-railway-history) — la línea Pingxi, inaugurada en 1920, es la base física del eje turístico de Houtong / Pingxi / Jingtong / Shifen
+- [Cultura de animales callejeros en Taiwán](/es/society/stray-animal-culture) — contexto taiwanés de la evidencia empírica de políticas TNVR; Houtong es uno de los pocos casos exitosos
+- [Ética de zoológicos y animales de exhibición](/es/society/zoo-and-exhibition-animal-ethics) — la tensión ética animal del "turismo felino" es la misma que la de los zoológicos y acuarios
+- [Faroles celestes](/es/culture/sky-lanterns-pingxi) — el Festival de Faroles Celestes de Pingxi enfrenta la misma tensión de transformación de asentamientos con patrimonio minero: "economía local vs. protección animal / responsabilidad ambiental"
 
 ## Créditos de imágenes
 

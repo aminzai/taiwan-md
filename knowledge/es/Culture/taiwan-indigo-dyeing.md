@@ -177,10 +177,10 @@ Color dentro cuba ya vivo. Respecto qué forma final este color vivirá Sanxia C
 
 ## Lecturas adicionales
 
-- [Artesanía tradicional Taiwán y Patrimonio Cultural Inmaterial](/culture/台灣傳統工藝與無形文化資產) — Posición resurgimiento índigo Sanxia en sistema preservación artesanal Taiwán, y contexto mayor "civil primero hacer institución después reconocer"
-- [Calle antigua Sanxia](/history/三峽老街) — Historia preservación arquitectura calle antigua Sanxia; este artículo habla artesanía misma texto trata calles monumentos históricos
-- [Cultura hakka e idioma](/culture/客家文化與語言) — Contexto cultural étnico más completo detrás camisa azul hakka gran solapa
-- [Telas estampadas Taiwán](/culture/台灣花布) — Otro patrón tejidos teñido alguna vez considerado símbolo hakka luego descubierto origen raíz más complejo
+- [Artesanía tradicional Taiwán y Patrimonio Cultural Inmaterial](/es/culture/traditional-crafts-intangible-cultural-heritage) — Posición resurgimiento índigo Sanxia en sistema preservación artesanal Taiwán, y contexto mayor "civil primero hacer institución después reconocer"
+- [Calle antigua Sanxia](/es/history/sanxia-old-street) — Historia preservación arquitectura calle antigua Sanxia; este artículo habla artesanía misma texto trata calles monumentos históricos
+- [Cultura hakka e idioma](/es/culture/hakka-culture-and-language) — Contexto cultural étnico más completo detrás camisa azul hakka gran solapa
+- [Telas estampadas Taiwán](/es/culture/taiwan-floral-fabric) — Otro patrón tejidos teñido alguna vez considerado símbolo hakka luego descubierto origen raíz más complejo
 
 ## Fuentes imágenes
 

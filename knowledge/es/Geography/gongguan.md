@@ -256,17 +256,17 @@ Dadaocheng es la calle comercial sostenida por el comercio del té desde 1860; B
 
 **Lecturas relacionadas**:
 
-- [Ciudad de Taipéi: tres tiempos en una ciudad, el templo Longshan de 1738 mirando el 101 de 2004](/geography/台北市) — La posición transversal de Gongguan entre 12 distritos (Zhongzheng + Da’an + Wenshan) y su comparación con las cuatro líneas temporales de Bangka, Dadaocheng y Xinyi
-- [Terror Blanco en Taiwán](/history/台灣白色恐怖) — El contexto de las depuraciones durante la ley marcial: el caso Lei Chen de 1960, Yin Hai-kuang en 1969 y el incidente del Departamento de Filosofía de la NTU de 1972-1975
-- [Periodo de ley marcial](/history/戒嚴時期) — El trasfondo político de 1949-1987 y el marco jurídico del encarcelamiento de Lei Chen durante 11 años
-- [Yin Hai-kuang: el filósofo que sembró el liberalismo en Taiwán desde el carril 18 de la calle Wenzhou](/people/殷海光) — El residente más representativo del eje Gongguan-Wenzhou, desde su llegada a Taiwán en 1949 hasta su muerte en 1969
-- [Revistas de Taiwán: de _Free China_ a _Ciao Lien Chih_](/culture/雜誌) — La historia editorial de _Free China_ entre 1949 y 1960 y el contexto mediático-político de la ley marcial
-- [Dadaocheng](/geography/大稻埕) — Barrio histórico hermano del mismo batch 1: calle comercial del té desde 1851; responde a una lógica de formación urbana completamente distinta de Gongguan y la fundación de la universidad imperial en 1928
-- [Bangka](/geography/艋舺) — Barrio histórico hermano del mismo batch 1: auge de la administración Qing sostenido por el templo Longshan desde 1738; contrasta con la función fronteriza del “Gongguanzhuang” Qing de Gongguan
-- [Ximending](/geography/西門町) — Barrio histórico hermano del mismo batch 1: zona especial de entretenimiento del dominio japonés desde 1896; junto con la universidad imperial de Gongguan de 1928 muestra dos formas de planificación espacial japonesa en Taipéi
-- [Calle Yongkang](/geography/永康街) — Junto con Gongguan sostiene el circuito de consumo de docentes y estudiantes de la NTU; dos nodos materiales que van de residencias académicas a mesas estudiantiles
-- [Calle Guling](/geography/牯嶺街) — Paisaje hermano de intelectuales llegados de China continental y cultura de librerías de viejo; junto con las residencias académicas de la calle Wenzhou de Gongguan forma dos asentamientos intelectuales de posguerra
-- [Treasure Hill](/geography/寶藏巖) — Asentamiento informal convertido en villa artística 800 metros al sur de Gongguan; dos tipos de “espacio marginal” contemporáneos al movimiento estudiantil de 1969 en Gongguan
+- [Ciudad de Taipéi: tres tiempos en una ciudad, el templo Longshan de 1738 mirando el 101 de 2004](/es/geography/taipei-city) — La posición transversal de Gongguan entre 12 distritos (Zhongzheng + Da’an + Wenshan) y su comparación con las cuatro líneas temporales de Bangka, Dadaocheng y Xinyi
+- [Terror Blanco en Taiwán](/es/history/taiwan-white-terror) — El contexto de las depuraciones durante la ley marcial: el caso Lei Chen de 1960, Yin Hai-kuang en 1969 y el incidente del Departamento de Filosofía de la NTU de 1972-1975
+- [Periodo de ley marcial](/es/history/martial-law-era) — El trasfondo político de 1949-1987 y el marco jurídico del encarcelamiento de Lei Chen durante 11 años
+- [Yin Hai-kuang: el filósofo que sembró el liberalismo en Taiwán desde el carril 18 de la calle Wenzhou](/es/people/yin-haiguang-liberalism-philosopher) — El residente más representativo del eje Gongguan-Wenzhou, desde su llegada a Taiwán en 1949 hasta su muerte en 1969
+- [Revistas de Taiwán: de _Free China_ a _Ciao Lien Chih_](/es/culture/magazine) — La historia editorial de _Free China_ entre 1949 y 1960 y el contexto mediático-político de la ley marcial
+- [Dadaocheng](/es/geography/dadaocheng) — Barrio histórico hermano del mismo batch 1: calle comercial del té desde 1851; responde a una lógica de formación urbana completamente distinta de Gongguan y la fundación de la universidad imperial en 1928
+- [Bangka](/es/geography/bangka) — Barrio histórico hermano del mismo batch 1: auge de la administración Qing sostenido por el templo Longshan desde 1738; contrasta con la función fronteriza del “Gongguanzhuang” Qing de Gongguan
+- [Ximending](/es/geography/ximending) — Barrio histórico hermano del mismo batch 1: zona especial de entretenimiento del dominio japonés desde 1896; junto con la universidad imperial de Gongguan de 1928 muestra dos formas de planificación espacial japonesa en Taipéi
+- [Calle Yongkang](/es/geography/yongkang-street) — Junto con Gongguan sostiene el circuito de consumo de docentes y estudiantes de la NTU; dos nodos materiales que van de residencias académicas a mesas estudiantiles
+- [Calle Guling](/es/geography/guling-street) — Paisaje hermano de intelectuales llegados de China continental y cultura de librerías de viejo; junto con las residencias académicas de la calle Wenzhou de Gongguan forma dos asentamientos intelectuales de posguerra
+- [Treasure Hill](/es/geography/treasure-hill) — Asentamiento informal convertido en villa artística 800 metros al sur de Gongguan; dos tipos de “espacio marginal” contemporáneos al movimiento estudiantil de 1969 en Gongguan
 
 ## Fuentes de imágenes
 

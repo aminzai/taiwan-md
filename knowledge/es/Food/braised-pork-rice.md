@@ -85,9 +85,9 @@ Desde la nostalgia de las abuelas de los barrios militares hasta el almuerzo rec
 
 ## Lecturas complementarias
 
-- [Sopa de fideos con carne](/food/牛肉麵) — Otra comida nacional traída a Taiwán por los inmigrantes de fuera de la isla en 1949, que comparte su origen en los barrios militares con el arroz con cerdo estofado
-- [Cultura del desayuno en Taiwán](/food/台灣早餐文化) — De los shaobing-youtiao a las hamburguesas y bolas de arroz: otra cara de la fusión culinaria taiwanesa
-- [El traslado del Gobierno Nacionalista a Taiwán y la reconstrucción de posguerra](/history/國民政府遷台與戰後重建) — El contexto histórico del nacimiento del arroz con cerdo estofado y la reorganización culinaria provocada por la migración de 1,2 millones de militares y civiles al sur
+- [Sopa de fideos con carne](/es/food/beef-noodle-soup) — Otra comida nacional traída a Taiwán por los inmigrantes de fuera de la isla en 1949, que comparte su origen en los barrios militares con el arroz con cerdo estofado
+- [Cultura del desayuno en Taiwán](/es/food/taiwan-breakfast-culture) — De los shaobing-youtiao a las hamburguesas y bolas de arroz: otra cara de la fusión culinaria taiwanesa
+- [El traslado del Gobierno Nacionalista a Taiwán y la reconstrucción de posguerra](/es/history/kmt-government-relocation-and-postwar-reconstruction) — El contexto histórico del nacimiento del arroz con cerdo estofado y la reorganización culinaria provocada por la migración de 1,2 millones de militares y civiles al sur
 
 ## Referencias
 

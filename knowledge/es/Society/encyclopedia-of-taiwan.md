@@ -29,7 +29,7 @@ translatedAt: '2026-05-09T14:31:06Z'
 > **Panorama en 30 segundos:**
 > La «Enciclopedia de Taiwán», lanzada en 2004, fue un hito en el intento de Taiwán por construir su soberanía cultural, con un presupuesto total de 520 millones de dólares taiwaneses. Este proyecto partió del ambicioso plan original del editor Wang Jung-wen —1.400 millones, 30 volúmenes impresos, 100 000 entradas y una versión en inglés—, pero en la práctica osciló repetidamente entre la «autoridad» de la revisión experta y la «libertad» de la colaboración en línea. Tras tres iteraciones de sistema (desarrollo propio, MediaWiki, sistema independiente), la evolución del régimen de licencias (de GFDL a CC) y la reducción del plan de publicación impresa, el sitio web independiente cerró definitivamente el 15 de julio de 2014, integrándose en la «Base Nacional de Datos Culturales». Este experimento demostró la transformación del rol del Estado en la era digital: de intentar monopolizar la «interpretación canónica» a proporcionar «contenido abierto» para la colaboración ciudadana y la aplicación de la IA.
 
-«A-Bian siempre creyó que deberíamos tener una *Enciclopedia de Taiwán*, una enciclopedia capaz de plasmar fielmente las tendencias de la época y el sentir del pueblo taiwanés.»[^1] El 13 de mayo de 2004, el entonces presidente Chen Shui-bian, en el número 135 de su «Boletín Electrónico de A-Bian», elevó formalmente la elaboración de la enciclopedia a la categoría de estrategia nacional, subrayando su importancia como «motor de búsqueda completo para el estudio de Taiwán» y «compendio del conocimiento de la cultura taiwanesa»[^1][^2].
+«A-Bian siempre creyó que deberíamos tener una _Enciclopedia de Taiwán_, una enciclopedia capaz de plasmar fielmente las tendencias de la época y el sentir del pueblo taiwanés.»[^1] El 13 de mayo de 2004, el entonces presidente Chen Shui-bian, en el número 135 de su «Boletín Electrónico de A-Bian», elevó formalmente la elaboración de la enciclopedia a la categoría de estrategia nacional, subrayando su importancia como «motor de búsqueda completo para el estudio de Taiwán» y «compendio del conocimiento de la cultura taiwanesa»[^1][^2].
 
 Este proyecto de 500 millones fue una apuesta arriesgada por el «derecho a la interpretación propia de Taiwán». Como subproyecto del «Plan Nacional de Digitalización del Patrimonio», estaba estrechamente vinculado a las políticas de digitalización, industrias culturales creativas y apertura de datos que el Estado impulsaba por entonces[^2].
 
@@ -37,7 +37,7 @@ Este proyecto de 500 millones fue una apuesta arriesgada por el «derecho a la i
 
 El alma de este ambicioso proyecto fue Wang Jung-wen, presidente de Yuan-Liou Publishing Company. Para él, la enciclopedia era el galardón supremo de un editor. La visión que Wang planteó en la etapa inicial era extraordinariamente ambiciosa: quería completar la **versión en línea en chino en 4 años**, la **versión en línea en inglés en 5 años** y publicar la **versión impresa en 6 años** (al menos **30 volúmenes**, **50 millones de caracteres chinos**, con una tirada de 10 000 juegos para donación a escuelas y al ámbito internacional)[^2].
 
-Los objetivos de contenido incluían una clara **estructura arbórea del conocimiento (Propedia)** y **al menos 100 000 entradas**. Tomando como referencia el presupuesto de revisión de la edición 16 de la *Encyclopædia Britannica*, estimó un presupuesto total de seis años de **1.400 millones de dólares taiwaneses** y propuso la creación de una fundación para su mantenimiento a largo plazo[^2]. Para garantizar la autoridad del proyecto, se convocó al premio Nobel Yuan Tseh Lee, quien en mayo de 2007 asumió el cargo de **Director General del Comité de Revisión Editorial**[^1][^3].
+Los objetivos de contenido incluían una clara **estructura arbórea del conocimiento (Propedia)** y **al menos 100 000 entradas**. Tomando como referencia el presupuesto de revisión de la edición 16 de la _Encyclopædia Britannica_, estimó un presupuesto total de seis años de **1.400 millones de dólares taiwaneses** y propuso la creación de una fundación para su mantenimiento a largo plazo[^2]. Para garantizar la autoridad del proyecto, se convocó al premio Nobel Yuan Tseh Lee, quien en mayo de 2007 asumió el cargo de **Director General del Comité de Revisión Editorial**[^1][^3].
 
 Sin embargo, la realidad distó mucho del ideal. El presupuesto total ejecutado fue de aproximadamente **520 millones de dólares taiwaneses**[^1]. El plan original de publicar **20 volúmenes impresos** en 2008 quedó truncado durante la ejecución, cuando los recursos y el foco se desplazaron hacia lo digital; finalmente, solo la filial de Yuan-Liou, «Zhihuicang Learning Technology», completó los 6 primeros volúmenes de la primera fase. El plan de impresión a gran escala nunca se materializó según lo previsto[^1][^2][^4].
 
@@ -55,27 +55,27 @@ El proyecto adoptó inicialmente la estrategia de lanzar primero la «versión p
 
 ### Los resultados: producción de conocimiento con estilo piramidal
 
-A pesar de los tropiezos del proceso, la *Enciclopedia de Taiwán* dejó un valioso legado académico. La versión profesional enfatizaba el «estilo piramidal»: las tres primeras frases debían incluir datos concretos, seguidos de una explicación progresiva y, al final, lecturas complementarias[^6]. Este proyecto, a mediados y finales de la década de 2000, realizó una sistematización de 16 áreas del conocimiento taiwanés: historia, geografía, folclore, literatura y más[^5][^7].
+A pesar de los tropiezos del proceso, la _Enciclopedia de Taiwán_ dejó un valioso legado académico. La versión profesional enfatizaba el «estilo piramidal»: las tres primeras frases debían incluir datos concretos, seguidos de una explicación progresiva y, al final, lecturas complementarias[^6]. Este proyecto, a mediados y finales de la década de 2000, realizó una sistematización de 16 áreas del conocimiento taiwanés: historia, geografía, folclore, literatura y más[^5][^7].
 
-| Categoría | Datos |
-| :--- | :--- |
-| **Entradas planificadas (versión pública)** | 15 036 |
-| **Contribuciones (versión pública)** | 11 793 (las aprobadas en etapa inicial: aprox. 10 648)[^2] |
-| **Datos acumulados** | Aprox. **50 008 entradas** a finales de 2011 (incluye acumulación sin revisión estricta)[^2] |
-| **Producción (versión profesional)** | Más de **13 000 entradas de alta calidad revisadas por expertos**[^5] |
-| **Recursos multimedia** | 8 929 imágenes y algunos archivos de audio y vídeo[^2] |
+| Categoría                                   | Datos                                                                                        |
+| :------------------------------------------ | :------------------------------------------------------------------------------------------- |
+| **Entradas planificadas (versión pública)** | 15 036                                                                                       |
+| **Contribuciones (versión pública)**        | 11 793 (las aprobadas en etapa inicial: aprox. 10 648)[^2]                                   |
+| **Datos acumulados**                        | Aprox. **50 008 entradas** a finales de 2011 (incluye acumulación sin revisión estricta)[^2] |
+| **Producción (versión profesional)**        | Más de **13 000 entradas de alta calidad revisadas por expertos**[^5]                        |
+| **Recursos multimedia**                     | 8 929 imágenes y algunos archivos de audio y vídeo[^2]                                       |
 
 📝 Nota del curador: Lo más valioso de esta enciclopedia no fueron los 500 millones de dólares, sino que obligó a expertos de todas las disciplinas, en los albores de la transformación digital, a realizar un exhaustivo diagnóstico del conocimiento taiwanés e intentar interactuar con la comunidad en línea.
 
 ### El desenlace: la retirada digital de 2014 y el cambio de paradigma
 
-En junio de 2014, el Ministerio de Cultura integró formalmente las entradas de la *Enciclopedia de Taiwán* en la «Base Nacional de Datos Culturales» (nrch.culture.tw), cerrando la colaboración comunitaria abierta[^1][^2]. El **15 de julio de 2014**, el sitio web independiente cerró oficialmente[^1][^2].
+En junio de 2014, el Ministerio de Cultura integró formalmente las entradas de la _Enciclopedia de Taiwán_ en la «Base Nacional de Datos Culturales» (nrch.culture.tw), cerrando la colaboración comunitaria abierta[^1][^2]. El **15 de julio de 2014**, el sitio web independiente cerró oficialmente[^1][^2].
 
-Fue un punto de inflexión importante: el Estado optó por reconocer las limitaciones de liderar una única «enciclopedia canónica» en la era Web 2.0, y en su lugar convirtió el contenido en parte de los «datos abiertos» (*Open Data*). Hoy, estas entradas están integradas en la «Base Nacional de Memoria Cultural 2.0», que ha pasado de «canon fijado por expertos» a «banco de materiales para el pueblo», incorporando aplicaciones de PLN e IA y enfatizando el compartir y la recreación del «ADN cultural»[^8][^9].
+Fue un punto de inflexión importante: el Estado optó por reconocer las limitaciones de liderar una única «enciclopedia canónica» en la era Web 2.0, y en su lugar convirtió el contenido en parte de los «datos abiertos» (_Open Data_). Hoy, estas entradas están integradas en la «Base Nacional de Memoria Cultural 2.0», que ha pasado de «canon fijado por expertos» a «banco de materiales para el pueblo», incorporando aplicaciones de PLN e IA y enfatizando el compartir y la recreación del «ADN cultural»[^8][^9].
 
 ### Desafíos y controversias: el nuevo campo de batalla de la soberanía del conocimiento
 
-Esta guerra del conocimiento no ha terminado. A finales de 2025, la Editorial de la Enciclopedia de China publicó la *Enciclopedia de Taiwán · Historia*, con 960 000 caracteres, subrayando el «principio de una sola China»[^10]. Esto demuestra que, cuando no nos definimos nosotros mismos, otros lo harán por nosotros.
+Esta guerra del conocimiento no ha terminado. A finales de 2025, la Editorial de la Enciclopedia de China publicó la _Enciclopedia de Taiwán · Historia_, con 960 000 caracteres, subrayando el «principio de una sola China»[^10]. Esto demuestra que, cuando no nos definimos nosotros mismos, otros lo harán por nosotros.
 
 El futuro de la soberanía del conocimiento taiwanesa quizás no resida en una «edición canónica nacional», sino en cómo lograr que el contenido local sea visible y preservado eficazmente en las plataformas globales (como Wikipedia y los grandes modelos de IA). Este experimento de 500 millones dejó una lección profunda: el papel más adecuado del Estado es ser guardián del archivo básico y de los datos abiertos, no el monopolizador de la interpretación del conocimiento.
 
@@ -85,7 +85,7 @@ El futuro de la soberanía del conocimiento taiwanesa quizás no resida en una �
 
 - [Ministerio de Cultura](../Society/文化部) — El organismo gubernamental que lideró este proyecto
 - [Wikipedia](維基百科) — El paradigma de la enciclopedia colaborativa Web 2.0 del mismo período
-- [PanSci](/society/泛科學) — Caso de contraste: comunidad de divulgación científica civil y plataforma de conocimiento, que muestra cómo el saber se transforma en la economía de plataformas, desde artículos, cursos y vídeos hasta servicios para creadores
+- [PanSci](/es/society/pansci) — Caso de contraste: comunidad de divulgación científica civil y plataforma de conocimiento, que muestra cómo el saber se transforma en la economía de plataformas, desde artículos, cursos y vídeos hasta servicios para creadores
 - [Base Nacional de Memoria Cultural](國家文化記憶庫) — La plataforma sucesora que recibió las entradas de este proyecto
 
 ---
@@ -110,6 +110,6 @@ El futuro de la soberanía del conocimiento taiwanesa quizás no resida en una �
 
 [^9]: [Portal de la Base Nacional de Memoria Cultural](https://nrch.culture.tw/nrch/zh-tw) — Plataforma sucesora que recibió las entradas de la Enciclopedia de Taiwán
 
-[^10]: [La *Enciclopedia de Taiwán · Historia* china de 960 000 caracteres enfatiza el principio de una sola China — Storm Media](https://www.storm.mg/article/11083147) — Publicada por la Editorial de la Enciclopedia de China a finales de 2025; pone de relieve la competencia transoceánica por la soberanía del conocimiento taiwanés
+[^10]: [La _Enciclopedia de Taiwán · Historia_ china de 960 000 caracteres enfatiza el principio de una sola China — Storm Media](https://www.storm.mg/article/11083147) — Publicada por la Editorial de la Enciclopedia de China a finales de 2025; pone de relieve la competencia transoceánica por la soberanía del conocimiento taiwanés
 
-[^11]: [Wang Jung-wen: mi visión y enfoque para la elaboración de la *Enciclopedia de Taiwán*](http://ceo.ylib.com/job011.htm) — Visión original del plan de 1.400 millones del presidente de Yuan-Liou y el proyecto de 30 grandes volúmenes
+[^11]: [Wang Jung-wen: mi visión y enfoque para la elaboración de la _Enciclopedia de Taiwán_](http://ceo.ylib.com/job011.htm) — Visión original del plan de 1.400 millones del presidente de Yuan-Liou y el proyecto de 30 grandes volúmenes

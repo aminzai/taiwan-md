@@ -169,13 +169,13 @@ Quizá la pregunta "¿de qué nación es esa música nacional?" no necesite resp
 
 **Lectura ampliada**:
 
-- [Tradiciones musicales de los pueblos indígenas de Taiwán](/music/台灣原住民音樂傳統)
-- [Polifonía bunun](/music/八部合音)
-- [Música hakka taiwanesa](/music/台灣客家音樂)
-- [Fabricación de instrumentos en Taiwán](/music/台灣樂器製造)
-- [Movimiento de la Canción Folk taiwanesa](/music/台灣民歌運動)
-- [Paisaje sonoro de Taiwán](/music/台灣聲音地景)
-- [Música y canciones populares taiwanesas](/music/台灣民謠與歌謠)
+- [Tradiciones musicales de los pueblos indígenas de Taiwán](/es/music/indigenous-music-traditions)
+- [Polifonía bunun](/es/music/bunun-pasibutbut-eight-part-polyphony)
+- [Música hakka taiwanesa](/es/music/taiwan-hakka-music-from-mountain-songs-to-rock)
+- [Fabricación de instrumentos en Taiwán](/es/music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories)
+- [Movimiento de la Canción Folk taiwanesa](/es/music/taiwan-campus-folk-song-movement)
+- [Paisaje sonoro de Taiwán](/es/music/taiwan-soundscape)
+- [Música y canciones populares taiwanesas](/es/music/Taiwan Folk Music and Songs)
 
 ## Referencias
 

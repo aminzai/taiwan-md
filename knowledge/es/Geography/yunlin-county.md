@@ -227,16 +227,16 @@ La próxima vez que vayas a Yunlin, no vayas solo a Gukeng a tomar café. Prueba
 
 ## Lecturas complementarias
 
-- [Condado de Yilan](/geography/宜蘭縣) — sibling de la serie de 22 condados y ciudades; el 13 de diciembre de 1987, Chen Ding-nan bloqueó la entrada del Sexto Craqueador a la llanura de Lanyang, y en junio de 1991 el Yuan Ejecutivo aprobó trasladarlo a Mailiao, Yunlin: esta es la frase de destino compartido entre Yilan y Yunlin
-- [Ciudad de Keelung](/geography/基隆市) — piloto de la serie de 22 condados y ciudades; como Yunlin, es una “ciudad o condado mediano comprimido por el marco de la capital”, útil para comparar dos formas locales omitidas por la narrativa central
-- [Condado de Chiayi](/geography/嘉義縣) — sibling de la serie de 22 condados y ciudades; la disputa de ortodoxia de Bengang entre el templo Fengtian de Xingang y el templo Chaotian de Beigang se enreda a través de dos condados desde hace más de doscientos años
-- [Ciudad de Chiayi](/geography/嘉義市) — sibling de la serie de 22 condados y ciudades; junto con Beigang, pertenece al área nuclear histórica de Bengang y a su herencia contemporánea
-- [Formosa Plastics Group](/economy/台灣企業：台塑集團) — historia empresarial completa desde la propuesta de Wang Yung-ching en 1973 para una planta de craqueo de nafta hasta el encendido del Sexto Craqueador de Yunlin en 1998
-- [Taiwan Sugar](/economy/台糖) — 90 años de la industria azucarera taiwanesa, desde la primera chimenea de la azucarera de Huwei en 1909 hasta el cese de producción de azúcar de caña en 1999
-- [La leyenda de Mazu y Baosheng Dadi](/culture/媽祖與大道公的傳說) — el lugar de la devoción a Mazu, venerada en el templo Beigang Chaotian, dentro de la religión popular taiwanesa
-- [Divisiones administrativas de Taiwán](/geography/台灣行政區劃) — evolución completa: creación del condado de Yunlin en 1887 / traslado de la sede de Linyipu a Douliu en 1893 / reorganización de 1920 en el estado de Tainan, distritos de Huwei y Beigang / restablecimiento del condado en 1945
-- [Sistema fluvial y características hidrológicas de Taiwán](/geography/台灣河川系統與水文特色) — influencia decisiva de los abanicos aluviales de los ríos Zhuoshui y Beigang sobre el paisaje agrícola de Yunlin
-- [Paisajes agrícolas y distribución industrial de Taiwán](/geography/台灣農業地景與產業分布) — la posición de las identidades graneras del arroz de Xiluo y el arroz de Chishang dentro del paisaje agrícola taiwanés
+- [Condado de Yilan](/es/geography/yilan-county) — sibling de la serie de 22 condados y ciudades; el 13 de diciembre de 1987, Chen Ding-nan bloqueó la entrada del Sexto Craqueador a la llanura de Lanyang, y en junio de 1991 el Yuan Ejecutivo aprobó trasladarlo a Mailiao, Yunlin: esta es la frase de destino compartido entre Yilan y Yunlin
+- [Ciudad de Keelung](/es/geography/keelung-city) — piloto de la serie de 22 condados y ciudades; como Yunlin, es una “ciudad o condado mediano comprimido por el marco de la capital”, útil para comparar dos formas locales omitidas por la narrativa central
+- [Condado de Chiayi](/es/geography/chiayi-county) — sibling de la serie de 22 condados y ciudades; la disputa de ortodoxia de Bengang entre el templo Fengtian de Xingang y el templo Chaotian de Beigang se enreda a través de dos condados desde hace más de doscientos años
+- [Ciudad de Chiayi](/es/geography/chiayi-city) — sibling de la serie de 22 condados y ciudades; junto con Beigang, pertenece al área nuclear histórica de Bengang y a su herencia contemporánea
+- [Formosa Plastics Group](/es/economy/formosa-plastics-group) — historia empresarial completa desde la propuesta de Wang Yung-ching en 1973 para una planta de craqueo de nafta hasta el encendido del Sexto Craqueador de Yunlin en 1998
+- [Taiwan Sugar](/es/economy/taiwan-sugar) — 90 años de la industria azucarera taiwanesa, desde la primera chimenea de la azucarera de Huwei en 1909 hasta el cese de producción de azúcar de caña en 1999
+- [La leyenda de Mazu y Baosheng Dadi](/es/culture/mazu-dadaogong-legend) — el lugar de la devoción a Mazu, venerada en el templo Beigang Chaotian, dentro de la religión popular taiwanesa
+- [Divisiones administrativas de Taiwán](/es/geography/administrative-divisions-of-taiwan) — evolución completa: creación del condado de Yunlin en 1887 / traslado de la sede de Linyipu a Douliu en 1893 / reorganización de 1920 en el estado de Tainan, distritos de Huwei y Beigang / restablecimiento del condado en 1945
+- [Sistema fluvial y características hidrológicas de Taiwán](/es/geography/taiwan-river-systems-and-hydrology) — influencia decisiva de los abanicos aluviales de los ríos Zhuoshui y Beigang sobre el paisaje agrícola de Yunlin
+- [Paisajes agrícolas y distribución industrial de Taiwán](/es/geography/taiwan-agricultural-landscapes-and-industry-belts) — la posición de las identidades graneras del arroz de Xiluo y el arroz de Chishang dentro del paisaje agrícola taiwanés
 
 ## Fuentes de imágenes
 

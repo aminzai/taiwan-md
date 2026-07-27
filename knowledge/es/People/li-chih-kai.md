@@ -112,7 +112,7 @@ Como Li Chih-kai suele decir: "Si estás dispuesto a soportar las dificultades, 
 
 **Lecturas relacionadas**:
 
-- [Guo Jingchun](/people/郭婞淳) — Medalla de oro en halterofilia en los Juegos Olímpicos de Tokio, figura referente de las acciones benéficas en el deporte taiwanés
+- [Guo Jingchun](/es/people/kuo-hsing-chun-olympic-weightlifting-champion) — Medalla de oro en halterofilia en los Juegos Olímpicos de Tokio, figura referente de las acciones benéficas en el deporte taiwanés
 
 ## Referencias
 

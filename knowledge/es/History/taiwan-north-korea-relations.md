@@ -111,8 +111,8 @@ El cambio de paradigma hacia la «Teoría de las Dos Naciones» por parte de Cor
 
 ## Lecturas adicionales
 
-- [Salida de la ONU](/history/退出聯合國) — El punto de inflexión estructural del estatus internacional de Taiwán
-- [Comercio exterior de Taiwán y la cadena de suministro global](/economy/台灣外貿與全球供應鏈) — Cómo la orientación a la exportación moldea el comercio en la zona gris
+- [Salida de la ONU](/es/history/withdrawal-from-united-nations) — El punto de inflexión estructural del estatus internacional de Taiwán
+- [Comercio exterior de Taiwán y la cadena de suministro global](/es/economy/taiwan-foreign-trade-and-global-supply-chain) — Cómo la orientación a la exportación moldea el comercio en la zona gris
 
 ## Referencias
 

@@ -163,10 +163,10 @@ La línea de producción de Thunder Tiger en Taichung, que comenzó en 1979 con 
 
 **Lectura adicional**
 
-- [Modernización de la Defensa y Militar de Taiwán](/society/台灣國防與軍事現代化) — El panorama completo de la estrategia del erizo detrás de los 200.000 drones
-- [Industria de Semiconductores](/technology/半導體產業) — El sector estratégico anterior que surgió debido a la geopolítica en Taiwán
-- [Desarrollo de la Industria Espacial de Taiwán](/technology/台灣太空產業發展) — De drones a satélites, la ambición espacial de Taiwán
-- [Industria de Robots de Taiwán](/technology/台灣機器人產業) — Otro caso de "fuerte en componentes, débil en整机", con los mismos problemas estructurales que los drones
+- [Modernización de la Defensa y Militar de Taiwán](/es/society/taiwan-defense-modernization) — El panorama completo de la estrategia del erizo detrás de los 200.000 drones
+- [Industria de Semiconductores](/es/technology/taiwan-semiconductor-industry) — El sector estratégico anterior que surgió debido a la geopolítica en Taiwán
+- [Desarrollo de la Industria Espacial de Taiwán](/es/technology/taiwan-space-industry-development) — De drones a satélites, la ambición espacial de Taiwán
+- [Industria de Robots de Taiwán](/es/technology/taiwan-robotics-industry) — Otro caso de "fuerte en componentes, débil en整机", con los mismos problemas estructurales que los drones
 
 ## Referencias
 

@@ -231,18 +231,18 @@ El campo de batalla definitivo de la guerra cognitiva es **la propia relación d
 
 ## Lecturas adicionales
 
-- [造山者：世紀的賭注](/art/造山者世紀的賭注) — Documental de 2025 de Hsiao Ju-tsung, 5 años de entrevistas con más de 80 pioneros de semiconductores, entrando en 2026 en tres centros de inversión de la Ley CHIPS en Purdue/Wisconsin/Míchigan
+- [造山者：世紀的賭注](/es/art/mountain-makers-tsmc-documentary) — Documental de 2025 de Hsiao Ju-tsung, 5 años de entrevistas con más de 80 pioneros de semiconductores, entrando en 2026 en tres centros de inversión de la Ley CHIPS en Purdue/Wisconsin/Míchigan
 
-- [Threads en Taiwán](/technology/Threads在台灣) — Historia de migración de comunidades en Taiwán y estructura de plataforma del campo de batalla informativo
-- [Miin Miin](/technology/迷音Miin) — Plataforma anti-desinformación de Du Yi-jin y el Laboratorio de IA de Taiwán, usando IA para detectar cuentas de operación sinérgica (no verificando contenido pieza por pieza)
-- [Fundación de Cultura Abierta](/technology/開放文化基金會) — Organización trasera que hospeda el bot de verificación Cofacts, vigilando la libertad de internet de Taiwán
-- [Historia de Migración de Comunidades en Internet de Taiwán](/technology/台灣網路社群遷徙史) — Entender el rol de plataformas como PTT, Dcard, Threads en la guerra cognitiva
-- [Medios de Taiwán y Libertad de Prensa](/society/台灣媒體與新聞自由) — Ecología periodística y responsabilidad de plataforma de la guerra cognitiva
-- [Shen Pei-yang](/people/沈伯洋) — Uno de los principales investigadores de la guerra cognitiva, en 2025 se convirtió en la primera figura política elegida de Taiwán en ser investigada por China bajo el «delito de división del Estado»
-- [Academia del Oso Negro](/society/黑熊學院) — Organización civil que incorpora la identificación de guerra cognitiva en el campamento básico de defensa civil, enseñando a personas comunes a mantener el juicio en desinformación y guerra psicológica
-- [Papa Frita Venenoso: Más allá de 200 ppm, hay 30 ppm, 14 días y cicatrices de 15 años de seguridad alimentaria](/society/毒馬鈴薯認知作戰) — Anatomía de cómo la narrativa «papeleta de lealtad» de la Oficina de Asuntos de Taiwán en abril de 2026 pisó con precisión las 15 cicatrices de seguridad alimentaria desde el caso de plastificantes de 2011
-- [Taiwán y Swazilandia](/society/台灣與史瓦帝尼) — Escenarios concretos de operaciones lingüísticas como «rat», «infiltración furtiva», «risa internacional» de China: la reacción de Lai Ching-te en mayo de 2026 al visitar Swazilandia
-- [Paraguay y Taiwán](/society/巴拉圭與台灣) — Bajo la tentación del mercado chino y el atraer político, cómo Taiwán sostiene con cooperación a largo plazo al único aliado en Sudamérica
+- [Threads en Taiwán](/es/technology/threads-in-taiwan) — Historia de migración de comunidades en Taiwán y estructura de plataforma del campo de batalla informativo
+- [Miin Miin](/es/technology/miin-music-app) — Plataforma anti-desinformación de Du Yi-jin y el Laboratorio de IA de Taiwán, usando IA para detectar cuentas de operación sinérgica (no verificando contenido pieza por pieza)
+- [Fundación de Cultura Abierta](/es/technology/open-culture-foundation) — Organización trasera que hospeda el bot de verificación Cofacts, vigilando la libertad de internet de Taiwán
+- [Historia de Migración de Comunidades en Internet de Taiwán](/es/technology/taiwan-online-community-migration) — Entender el rol de plataformas como PTT, Dcard, Threads en la guerra cognitiva
+- [Medios de Taiwán y Libertad de Prensa](/es/society/media-and-press-freedom-in-taiwan) — Ecología periodística y responsabilidad de plataforma de la guerra cognitiva
+- [Shen Pei-yang](/es/people/puma-shen) — Uno de los principales investigadores de la guerra cognitiva, en 2025 se convirtió en la primera figura política elegida de Taiwán en ser investigada por China bajo el «delito de división del Estado»
+- [Academia del Oso Negro](/es/society/kuma-academy-civil-defense-school) — Organización civil que incorpora la identificación de guerra cognitiva en el campamento básico de defensa civil, enseñando a personas comunes a mantener el juicio en desinformación y guerra psicológica
+- [Papa Frita Venenoso: Más allá de 200 ppm, hay 30 ppm, 14 días y cicatrices de 15 años de seguridad alimentaria](/es/society/poisoned-potato-cognitive-warfare-taiwan) — Anatomía de cómo la narrativa «papeleta de lealtad» de la Oficina de Asuntos de Taiwán en abril de 2026 pisó con precisión las 15 cicatrices de seguridad alimentaria desde el caso de plastificantes de 2011
+- [Taiwán y Swazilandia](/es/society/taiwan-eswatini-relations) — Escenarios concretos de operaciones lingüísticas como «rat», «infiltración furtiva», «risa internacional» de China: la reacción de Lai Ching-te en mayo de 2026 al visitar Swazilandia
+- [Paraguay y Taiwán](/es/society/paraguay-taiwan) — Bajo la tentación del mercado chino y el atraer político, cómo Taiwán sostiene con cooperación a largo plazo al único aliado en Sudamérica
 
 ## Referencias
 

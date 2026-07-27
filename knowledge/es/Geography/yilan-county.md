@@ -240,10 +240,10 @@ La próxima vez que vayas a Yilan, no vayas solo a las aguas termales de Jiaoxi,
 
 ## Lecturas adicionales
 
-- [Isla Gueishan](/geography/%E9%BE%9C%E5%B1%B1%E5%B3%B6) — La propia historia de esa «coordada invariable» fuera de la llanura de Lanyang: volcán activo, aldea reubicada sin compensación, 22 años de zona militar prohibida, y el hogar al que los residentes de la isla no pueden regresar
-- [División Administrativa de Taiwán](/geography/%E5%8F%B0%E7%81%A3%E8%A1%8C%E6%94%BF%E5%8D%80%E5%8A%83) — 1812 establecimiento de la Prefectura de Kavalan, 1875 renombrado como Condado de Yilan, 1895 evolución administrativa del sistema de la era japonesa
-- [Topografía Costera y Paisaje Marino de Taiwán](/geography/%E5%8F%B0%E7%81%A3%E6%B5%B7%E5%B2%B8%E5%9C%B0%E5%BD%A2%E8%88%87%E6%B5%B7%E6%B4%8B%E5%9C%B0%E6%99%AF) — El contexto geológico de la isla volcánica Gueishan, el abanico aluvial del río Lanyang y la franja costera de Su-Hua
-- [Paisaje Agrícola y Distribución Industrial de Taiwán](/geography/%E5%8F%B0%E7%81%A3%E8%BE%AD%E6%A5%AD%E5%9C%B0%E6%99%AF%E8%88%87%E7%94%A2%E6%A5%AD%E5%88%86%E5%B8%83) — La posición de la fragmentación de tierras agrícolas de la llanura de Lanyang en el paisaje agrícola de toda la isla
+- [Isla Gueishan](/es/geography/gueishan-island) — La propia historia de esa «coordada invariable» fuera de la llanura de Lanyang: volcán activo, aldea reubicada sin compensación, 22 años de zona militar prohibida, y el hogar al que los residentes de la isla no pueden regresar
+- [División Administrativa de Taiwán](/es/geography/administrative-divisions-of-taiwan) — 1812 establecimiento de la Prefectura de Kavalan, 1875 renombrado como Condado de Yilan, 1895 evolución administrativa del sistema de la era japonesa
+- [Topografía Costera y Paisaje Marino de Taiwán](/es/geography/taiwan-coastal-landforms-and-seascapes) — El contexto geológico de la isla volcánica Gueishan, el abanico aluvial del río Lanyang y la franja costera de Su-Hua
+- [Paisaje Agrícola y Distribución Industrial de Taiwán](/geography/台灣農業地景與產業分布) — La posición de la fragmentación de tierras agrícolas de la llanura de Lanyang en el paisaje agrícola de toda la isla
 - [Desarrollo Urbano y Brecha Urbano-Rural de Taiwán](/geography/%E5%8F%B0%E7%81%A3%E9%83%BD%E5%B8%82%E7%99%BC%E5%B1%95%E8%88%87%E5%9F%8E%E9%96%93%E5%B7%AE%E8%B7%9F) — El efecto de ciudad satélite de Yilan siendo integrado en el área de vida diaria de Taipéi después de la apertura del túnel Xueshan
 - [Paisaje Termal de Taiwán](/geography/%E5%8F%B0%E7%81%A3%E6%B8%AF%E6%B8%A9%E5%9C%B0%E6%99%AF) — La posición especial de las aguas termales de Jiaoxi en la geografía termal de Taiwán
 - [Ciudad de Keelung](/geography/%E5%9F%8E%E5%88%97%E5%B8%82) — Artículo contemporáneo de la Serie de 22 Condados y Ciudades, un condado del noreste «invisible para Taipéi» junto con Yilan

@@ -197,9 +197,9 @@ La próxima vez que el Yuan Legislativo amplíe este artículo —ya sea para co
 
 ## Lecturas complementarias
 
-- [El sistema democrático de Taiwán](/society/民主制度) — La ampliación o no del sistema de detención preventiva es, en última instancia, un juicio colectivo de la sociedad democrática sobre "poder estatal vs. libertad individual".
-- [Derechos humanos e igualdad de género](/society/人權與性別平等) — La inclusión de la explotación sexual de menores y el acoso sexual en la detención preventiva forma parte del movimiento de prevención de la violencia de género.
-- [La controversia sobre medicamentos veterinarios en Taiwán](/society/台灣動物用藥爭議) — Otro tema de "transparencia institucional" que refleja la tensión en la gobernanza taiwanesa entre la profesionalidad y la democracia.
+- [El sistema democrático de Taiwán](/es/society/democratic-system) — La ampliación o no del sistema de detención preventiva es, en última instancia, un juicio colectivo de la sociedad democrática sobre "poder estatal vs. libertad individual".
+- [Derechos humanos e igualdad de género](/es/society/human-rights-and-gender-equality) — La inclusión de la explotación sexual de menores y el acoso sexual en la detención preventiva forma parte del movimiento de prevención de la violencia de género.
+- [La controversia sobre medicamentos veterinarios en Taiwán](/es/society/taiwan-animal-drug-controversy) — Otro tema de "transparencia institucional" que refleja la tensión en la gobernanza taiwanesa entre la profesionalidad y la democracia.
 
 ## Referencias
 

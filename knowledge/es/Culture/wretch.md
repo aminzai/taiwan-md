@@ -176,7 +176,7 @@ La computadora rescatada de aquellos años tenía una característica elemental:
 
 ## Lecturas relacionadas
 
-[Historia de las migraciones de comunidades en línea de Taiwán](/es/Technology/taiwan-online-community-migration/), [PTT](/es/Technology/ptt-bulletin-board-system/), [Bahamut](/es/Culture/bahamut-taiwan-gaming-community/), [Dcard](/es/Culture/dcard-taiwan-social-platform/), [Plurk](/es/Culture/plurk-taiwan-microblog/), [Facebook](/es/Technology/facebook-in-taiwan/), [industria y cultura de YouTubers de Taiwán](/es/Culture/taiwan-youtuber-industry/), [nueva generación de ídolos de Taiwán](/es/Culture/taiwan-new-idol-generation/), [Huang Shan-liao](/es/People/huang-shan-liao/) y [generaciones por año escolar de Taiwán](/es/Society/taiwan-generations/).
+[Historia de las migraciones de comunidades en línea de Taiwán](/es/technology/taiwan-online-community-migration/), [PTT](/es/technology/ptt-bulletin-board-system/), [Bahamut](/es/culture/bahamut-taiwan-gaming-community/), [Dcard](/es/culture/dcard-taiwan-social-platform/), [Plurk](/es/culture/plurk-taiwan-microblog/), [Facebook](/es/technology/facebook-in-taiwan/), [industria y cultura de YouTubers de Taiwán](/es/culture/taiwan-youtuber-industry/), [nueva generación de ídolos de Taiwán](/es/culture/taiwan-new-idol-generation/), [Huang Shan-liao](/es/people/huang-shan-liao/) y [generaciones por año escolar de Taiwán](/es/society/taiwan-generations/).
 
 ## Fuentes de imágenes
 

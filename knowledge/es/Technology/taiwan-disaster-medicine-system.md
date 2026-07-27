@@ -197,8 +197,8 @@ Cuando el próximo desastre llegue, lo que salvará vidas no será el equipo má
 
 **Lectura complementaria**
 
-- [Ley de Atención Médica](/society/醫療法) — La base legal de la medicina de desastres se asienta en el artículo 1 de la Ley de Atención Médica («distribución racional de los recursos médicos») y en la normativa de clasificación de instituciones; los escenarios de catástrofe que recoge este texto son la cara operativa de dicha ley en condiciones extremas
-- [Controversia sobre medicamentos veterinarios en Taiwán](/society/台灣動物用藥爭議) — Los humanos disponen de un sistema de urgencias, el número de emergencias 119, seguro médico y DMAT; en las urgencias veterinarias, incluso el oxígeno debe registrarse ítem por ítem. La brecha de recursos entre ambos sistemas es un espejo de la jerarquía de valores de esta isla.
+- [Ley de Atención Médica](/es/society/medical-care-act) — La base legal de la medicina de desastres se asienta en el artículo 1 de la Ley de Atención Médica («distribución racional de los recursos médicos») y en la normativa de clasificación de instituciones; los escenarios de catástrofe que recoge este texto son la cara operativa de dicha ley en condiciones extremas
+- [Controversia sobre medicamentos veterinarios en Taiwán](/es/society/taiwan-animal-drug-controversy) — Los humanos disponen de un sistema de urgencias, el número de emergencias 119, seguro médico y DMAT; en las urgencias veterinarias, incluso el oxígeno debe registrarse ítem por ítem. La brecha de recursos entre ambos sistemas es un espejo de la jerarquía de valores de esta isla.
 
 ---
 

@@ -66,7 +66,7 @@ Tras años de trabajo discreto, Chen Yu-hsun estrenó _Zone Pro Site_ en 2013, d
 
 El éxito de _Zone Pro Site_ residió en su excavación profunda de la cultura tradicional taiwanesa. Chen Yu-hsun presentó la esencia de la cultura del _bando_ mediante la comedia, permitiendo que el público joven conociera el valor de los oficios tradicionales.
 
-La película reunió a un elenco de estrellas como Tony Yang y [Brigitte Lin](/es/People/brigitte-lin-legendary-actress/), y logró un buen equilibrio entre comercialidad y valor artístico. _Zone Pro Site_ no solo tuvo éxito en taquilla, sino que también recibió el reconocimiento de la crítica.
+La película reunió a un elenco de estrellas como Tony Yang y [Brigitte Lin](/es/people/brigitte-lin-legendary-actress/), y logró un buen equilibrio entre comercialidad y valor artístico. _Zone Pro Site_ no solo tuvo éxito en taquilla, sino que también recibió el reconocimiento de la crítica.
 
 ## Realismo mágico: _My Missing Valentine_
 

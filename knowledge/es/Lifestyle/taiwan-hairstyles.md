@@ -119,8 +119,8 @@ La variedad de espacios de peluquería es en sí misma un microcosmos social: de
 
 ## Lectura complementaria
 
-- [Cultura de la motocicleta en Taiwán](/lifestyle/台灣機車文化) — La cabeza de Azhi combinada con ropa ajustada y una BWS (Yamaha BWS) es el trío clásico de las calles taiwanesas.
-- [Cultura de las tiendas de conveniencia en Taiwán](/lifestyle/台灣便利商店文化) — La lógica de ubicación de los cortes rápidos de cien dólares sigue la misma lógica de la densa red de tiendas de conveniencia.
+- [Cultura de la motocicleta en Taiwán](/es/lifestyle/taiwan-scooter-culture) — La cabeza de Azhi combinada con ropa ajustada y una BWS (Yamaha BWS) es el trío clásico de las calles taiwanesas.
+- [Cultura de las tiendas de conveniencia en Taiwán](/es/lifestyle/convenience-store-culture) — La lógica de ubicación de los cortes rápidos de cien dólares sigue la misma lógica de la densa red de tiendas de conveniencia.
 
 ## Referencias
 

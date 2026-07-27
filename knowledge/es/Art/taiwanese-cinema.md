@@ -430,10 +430,10 @@ Se utilizan 4 imágenes en este artículo, todas almacenadas en caché en `publi
 
 ## Lecturas Recomendadas
 
-- [Hou Hsiao-hsien](/people/侯孝賢): El maestro del plano largo que ganó el León de Oro en Venecia y llevó el 28 de Febrero a la pantalla
-- [Edward Yang](/people/楊德昌): El observador urbano cuyas dos obras entraron en las 100 Mejores de la Historia de _Sight & Sound_
-- [Tsai Ming-liang](/people/蔡明亮): Ganador del León de Oro en Venecia, llevó el cine lento al Louvre
-- [Ang Lee](/people/李安): De Taiwán a Hollywood, ganó dos veces el Oscar al Mejor Director
-- [Wei Te-sheng](/people/魏德聖): La persona que usó cinco idiomas para filmar _Cape No. 7_, haciendo renacer el cine nacional
-- [The Invisible Country](/art/看不見的國家): En el documental de Ge Jingwen, otra forma de ser visto de Taiwán
-- [Taiwanese Sensibility: ¿Tenemos que esperar a que los coreanos den 'like' antes de atrevernos a decir que nuestra vieja casa es hermosa?](/culture/台灣感性): El León de Oro de _A City of Sadness_ en 1989 y la taquilla de Taipéi ocurrieron en el mismo año, la validación internacional y la resonancia local no son necesariamente mutuamente excluyentes.
+- [Hou Hsiao-hsien](/es/people/hou-hsiao-hsien): El maestro del plano largo que ganó el León de Oro en Venecia y llevó el 28 de Febrero a la pantalla
+- [Edward Yang](/es/people/yang-dechang): El observador urbano cuyas dos obras entraron en las 100 Mejores de la Historia de _Sight & Sound_
+- [Tsai Ming-liang](/es/people/tsai-ming-liang): Ganador del León de Oro en Venecia, llevó el cine lento al Louvre
+- [Ang Lee](/es/people/ang-lee): De Taiwán a Hollywood, ganó dos veces el Oscar al Mejor Director
+- [Wei Te-sheng](/es/people/wei-te-sheng-taiwanese-epic-filmmaker): La persona que usó cinco idiomas para filmar _Cape No. 7_, haciendo renacer el cine nacional
+- [The Invisible Country](/es/art/invisible-nation): En el documental de Ge Jingwen, otra forma de ser visto de Taiwán
+- [Taiwanese Sensibility: ¿Tenemos que esperar a que los coreanos den 'like' antes de atrevernos a decir que nuestra vieja casa es hermosa?](/es/culture/taiwanese-sensibility): El León de Oro de _A City of Sadness_ en 1989 y la taquilla de Taipéi ocurrieron en el mismo año, la validación internacional y la resonancia local no son necesariamente mutuamente excluyentes.

@@ -77,9 +77,9 @@ Esta frase lo convirtió de vuelta de un "influencer" en un "trabajador social".
 
 ## Lectura complementaria
 
-- [Pa Chiung](/people/八炯) — Otro veterano YouTuber con más de 18 años de trayectoria, desde la confrontación hasta el servicio social por un camino diferente
-- [A Di](/people/阿滴) — Otra línea de crecimiento de la gran generación de YouTubers taiwaneses (con origen en la enseñanza de inglés)
-- [Potter Wang](/people/波特王) — YouTuber cómico de la misma generación, para comparar las estrategias de los creadores ante los cambios en los algoritmos
+- [Pa Chiung](/es/people/pa-chiung-political-youtuber) — Otro veterano YouTuber con más de 18 años de trayectoria, desde la confrontación hasta el servicio social por un camino diferente
+- [A Di](/es/people/ray-du-english-youtuber) — Otra línea de crecimiento de la gran generación de YouTubers taiwaneses (con origen en la enseñanza de inglés)
+- [Potter Wang](/es/people/potter-king-youtuber) — YouTuber cómico de la misma generación, para comparar las estrategias de los creadores ante los cambios en los algoritmos
 
 ## Referencias
 

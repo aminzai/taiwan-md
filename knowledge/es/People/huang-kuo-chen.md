@@ -47,7 +47,7 @@ Es también hijo del célebre escritor taiwanés Huang Chun-ming. Dos generacion
 
 ## Lecturas complementarias
 
-- [Ye Bing-cheng](/people/葉丙成): profesor de la Universidad Nacional de Taiwán y creador de la plataforma de aprendizaje gamificado PaGamO
-- [Lu Guanwei](/people/呂冠緯): fundador de la plataforma educativa Junyi Academy
-- [Huang Chun-ming](/people/黃春明): maestro de la literatura rural taiwanés y padre de Huang Kuo-chen
+- [Ye Bing-cheng](/es/people/yeh-ping-cheng-education-innovator): profesor de la Universidad Nacional de Taiwán y creador de la plataforma de aprendizaje gamificado PaGamO
+- [Lu Guanwei](/es/people/lu-guan-wei-junyiacademy-founder): fundador de la plataforma educativa Junyi Academy
+- [Huang Chun-ming](/es/people/huang-chun-ming-taiwanese-literary-master): maestro de la literatura rural taiwanés y padre de Huang Kuo-chen
 - [Yan Changshou](/people/嚴_taiwanés): el «padrino del turismo» dedicado a la educación en zonas rurales

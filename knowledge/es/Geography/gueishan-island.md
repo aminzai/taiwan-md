@@ -216,11 +216,11 @@ La próxima vez que manejes de vuelta a Yilan y, al salir del túnel de Hsuehsha
 
 ## Lecturas complementarias
 
-- [Condado de Yilan](/geography/宜蘭縣) — El condado al que pertenece la isla Gueishan; la historia de cómo la llanura de Lanyang tomó decisiones en dos momentos históricos clave, con Gueishan como «punto de referencia inmutable»
-- [Relieves costeros y paisajes marinos de Taiwán](/geography/台灣海岸地形與海洋地景) — El lugar de la isla volcánica Gueishan, sus fuentes hidrotermales submarinas y sus afloramientos en los paisajes marinos de Taiwán
-- [Los cetáceos de Taiwán](/nature/臺灣的鯨豚) — La ecología de cetáceos traída por la corriente de Kuroshio y el contexto del avistamiento de cetáceos en Taiwán, iniciado en el puerto de Shitiping, Hualien
-- [Islas periféricas y cultura marítima](/geography/離島與海洋文化) — Temas comunes en los asentamientos insulares, la fe pesquera y la historia de reubicaciones en las islas periféricas de Taiwán
-- [Prisión de Isla Verde](/history/綠島監獄) — Otra historia de una isla periférica militarizada, desde zona prohibida hasta apertura
+- [Condado de Yilan](/es/geography/yilan-county) — El condado al que pertenece la isla Gueishan; la historia de cómo la llanura de Lanyang tomó decisiones en dos momentos históricos clave, con Gueishan como «punto de referencia inmutable»
+- [Relieves costeros y paisajes marinos de Taiwán](/es/geography/taiwan-coastal-landforms-and-seascapes) — El lugar de la isla volcánica Gueishan, sus fuentes hidrotermales submarinas y sus afloramientos en los paisajes marinos de Taiwán
+- [Los cetáceos de Taiwán](/es/nature/cetaceans-of-taiwan) — La ecología de cetáceos traída por la corriente de Kuroshio y el contexto del avistamiento de cetáceos en Taiwán, iniciado en el puerto de Shitiping, Hualien
+- [Islas periféricas y cultura marítima](/es/geography/offshore-islands-and-maritime-culture) — Temas comunes en los asentamientos insulares, la fe pesquera y la historia de reubicaciones en las islas periféricas de Taiwán
+- [Prisión de Isla Verde](/es/history/green-island-prison) — Otra historia de una isla periférica militarizada, desde zona prohibida hasta apertura
 
 ## Fuentes de imágenes
 

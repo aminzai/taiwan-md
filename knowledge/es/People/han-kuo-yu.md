@@ -174,15 +174,15 @@ The truth likely lies between the two. And Han Kuo-yu himself may be the quietes
 
 **Further Reading**:
 
-- [2026 KMT-CCP Meeting: Ten Minutes of Reunion Between KMT and CCP Leaders After a Decade](/society/2026鄭習會與國共十年再會) — In the April 2026 Legislative Yuan budget negotiation, presided over by Han Kuo-yu; the timing of the KMT-CCP meeting and the Legislative Yuan budget special bill is in the same week.
-- [Cheng Li-wen](/people/鄭麗文) — Two of the most important figures in the KMT in 2025-2026: one is the Party Chairman, the other is the Speaker of the Legislative Yuan, representing different ecosystems within the party.
-- [Hsiao Bi-khim](/people/蕭美琴) — For comparative reading: Hsiao Bi-khim won a Legislative Yuan seat in Hualien after six years; Han Kuo-yu was recalled from Kaohsiung in 528 days. There are many types of time curves in democracy.
-- [Taiwan's Political Environment and Electoral System](/society/台灣政治環境與選舉制度) — Why can the party-list Legislative Yuan system allow "recalled political figures" like Han Kuo-yu to resurrect? The answer lies in the electoral rules themselves.
-- [Ko Wen-je](/people/柯文哲) — Another figure who went from amateur to mayor, from mayor to presidential candidate, from presidential candidate to the center of the storm; the structure of their "rise and fall" is similar.
-- [Liu Su-yen](/people/盧秀燕) — The other pole of the 2018 Han Wave; the Mayor of Taichung who flipped from blue to blue in the same year as Han Kuo-yu.
-- [Hsu Chiao-hsin](/people/徐巧芯) — The main proponent of the 800 billion version of the 2026 military procurement controversy; a key presence in the negotiations of Speaker of the Legislative Yuan Han Kuo-yu.
-- [Chi Lin-lien](/people/季麟連) — The Vice Chairman who threatened to "expel from party membership those who sell the party for glory" at the Central Executive Committee meeting on 2026-04-29; the target truly impacted by those words was Han Kuo-yu.
-- [Tseng Po-jen](/people/曾博恩) — In December 2019 Han Kuo-yu appeared on Season 3 of _The Night Night Show with Hello_, with the single condition that no jokes be made about his hair; Tseng called him "the most familiar stranger".
+- [2026 KMT-CCP Meeting: Ten Minutes of Reunion Between KMT and CCP Leaders After a Decade](/es/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — In the April 2026 Legislative Yuan budget negotiation, presided over by Han Kuo-yu; the timing of the KMT-CCP meeting and the Legislative Yuan budget special bill is in the same week.
+- [Cheng Li-wen](/es/people/cheng-li-wun) — Two of the most important figures in the KMT in 2025-2026: one is the Party Chairman, the other is the Speaker of the Legislative Yuan, representing different ecosystems within the party.
+- [Hsiao Bi-khim](/es/people/hsiao-bi-khim) — For comparative reading: Hsiao Bi-khim won a Legislative Yuan seat in Hualien after six years; Han Kuo-yu was recalled from Kaohsiung in 528 days. There are many types of time curves in democracy.
+- [Taiwan's Political Environment and Electoral System](/es/society/taiwan-political-landscape-and-electoral-system) — Why can the party-list Legislative Yuan system allow "recalled political figures" like Han Kuo-yu to resurrect? The answer lies in the electoral rules themselves.
+- [Ko Wen-je](/es/people/ko-wen-je) — Another figure who went from amateur to mayor, from mayor to presidential candidate, from presidential candidate to the center of the storm; the structure of their "rise and fall" is similar.
+- [Liu Su-yen](/es/people/lu-hsiu-yan) — The other pole of the 2018 Han Wave; the Mayor of Taichung who flipped from blue to blue in the same year as Han Kuo-yu.
+- [Hsu Chiao-hsin](/es/people/hsu-chiao-hsin) — The main proponent of the 800 billion version of the 2026 military procurement controversy; a key presence in the negotiations of Speaker of the Legislative Yuan Han Kuo-yu.
+- [Chi Lin-lien](/es/people/ji-lin-lian) — The Vice Chairman who threatened to "expel from party membership those who sell the party for glory" at the Central Executive Committee meeting on 2026-04-29; the target truly impacted by those words was Han Kuo-yu.
+- [Tseng Po-jen](/es/people/bernard-tseng) — In December 2019 Han Kuo-yu appeared on Season 3 of _The Night Night Show with Hello_, with the single condition that no jokes be made about his hair; Tseng called him "the most familiar stranger".
 
 ## References
 

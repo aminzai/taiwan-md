@@ -107,8 +107,8 @@ Cuando vemos, en el pleno verano de 2026, mesas pequeñas dispuestas frente a la
 
 ## Lecturas Adicionales
 
-- [Día del Medio Año Lunar](/culture/中元節) — La lectura histórica del Día del Medio Año como un tratado de paz social
-- [Festival del Duanwu](/culture/端午節) — Otra festividad reinventada por Taiwán
+- [Día del Medio Año Lunar](/es/culture/ghost-festival-zhongyuan) — La lectura histórica del Día del Medio Año como un tratado de paz social
+- [Festival del Duanwu](/es/culture/dragon-boat-festival) — Otra festividad reinventada por Taiwán
 
 ## Referencias Bibliográficas
 

@@ -252,9 +252,9 @@ En la ola de la globalización, la cultura de las tiendas de conveniencia taiwan
 
 **Lecturas complementarias:**
 
-- [La sensibilidad taiwanesa: la estética taiwanesa a través de los ojos coreanos](/culture/台灣感性) — Las tiendas de conveniencia iluminadas en la madrugada son una escena clásica del "대만감성" (sensibilidad taiwanesa) captada por los lentes coreanos
-- [Facturas: aquel papel de 1951 que convirtió a toda la ciudadanía en inspectores fiscales](/economy/發票) — El escenario más común para el uso de facturas electrónicas en la nube es la tienda de conveniencia; cada compra es al mismo tiempo la última milla de la movilización fiscal cotidiana
-- [Empresas de Taiwán: Uni-President Enterprise](/economy/台灣企業：統一企業) — El grupo Uni-President detrás de 7-Eleven, que creció desde un paquete de fideos Uni-President hasta convertirse en un imperio minorista que abarca todo el día a día de los taiwaneses
+- [La sensibilidad taiwanesa: la estética taiwanesa a través de los ojos coreanos](/es/culture/taiwanese-sensibility) — Las tiendas de conveniencia iluminadas en la madrugada son una escena clásica del "대만감성" (sensibilidad taiwanesa) captada por los lentes coreanos
+- [Facturas: aquel papel de 1951 que convirtió a toda la ciudadanía en inspectores fiscales](/es/economy/taiwan-uniform-invoice) — El escenario más común para el uso de facturas electrónicas en la nube es la tienda de conveniencia; cada compra es al mismo tiempo la última milla de la movilización fiscal cotidiana
+- [Empresas de Taiwán: Uni-President Enterprise](/es/economy/taiwan-enterprise-uni-president) — El grupo Uni-President detrás de 7-Eleven, que creció desde un paquete de fideos Uni-President hasta convertirse en un imperio minorista que abarca todo el día a día de los taiwaneses
 
 ## Referencias
 

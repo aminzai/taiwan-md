@@ -252,12 +252,12 @@ La Asociación de Paisaje Sonoro de Taiwán y el Ministerio de Cultura integran 
 
 **Lectura complementaria**:
 
-- [Paisaje sonoro de Taiwán](/culture/台灣聲景) — Artículo hermano: las mismas sonidos, preguntados de nuevo desde la perspectiva de «cómo escuchamos», co-creación de materiales por investigadores del paisaje sonoro.
+- [Paisaje sonoro de Taiwán](/es/culture/taiwan-soundscape) — Artículo hermano: las mismas sonidos, preguntados de nuevo desde la perspectiva de «cómo escuchamos», co-creación de materiales por investigadores del paisaje sonoro.
 - [🎧 Proyecto de grabación del paisaje sonoro de Taiwán](/soundscape) — Versión sonora de este artículo: 21 grabaciones de campo de camiones de basura, templos, metro y sonidos naturales disponibles en línea; bienvenido a contribuir con tus grabaciones.
-- [Wang Furu](/people/王福瑞) — Fundó en 1993 el primer sello de música experimental de Taiwán, NOISE; la fuente de la línea de Wang Furu, Yao Zhonghan y Zhang Yongda mencionada en la sección de «arte sonoro» de este artículo.
-- [Tradiciones musicales de los indígenas de Taiwán](/music/台灣原住民音樂傳統) — El canto de ocho voces de los Bunan, la armónica de los Paiwan y otros sonidos tradicionales son la capa más antigua del paisaje sonoro de Taiwán.
-- [Cultura del KTV en Taiwán](/music/台灣KTV文化) — De los clubes de espectáculo a las cabinas privadas, el KTV es una de las fuentes sonoras artificiales más comunes del paisaje sonoro nocturno de Taiwán; los gritos de cinco personas en una cabina privada se filtran hacia afuera, constituyendo una huella dactilar sonora única de las noches de Taiwán.
-- [Desarrollo del hip hop y rap en Taiwán](/music/台灣嘻哈與饒舌發展) — De los sótanos urbanos a las listas de éxitos de KKBOX, la textura sonora del rap ha cambiado las capas del paisaje sonoro de la música popular de Taiwán.
+- [Wang Furu](/es/people/fujui-wang) — Fundó en 1993 el primer sello de música experimental de Taiwán, NOISE; la fuente de la línea de Wang Furu, Yao Zhonghan y Zhang Yongda mencionada en la sección de «arte sonoro» de este artículo.
+- [Tradiciones musicales de los indígenas de Taiwán](/es/music/indigenous-music-traditions) — El canto de ocho voces de los Bunan, la armónica de los Paiwan y otros sonidos tradicionales son la capa más antigua del paisaje sonoro de Taiwán.
+- [Cultura del KTV en Taiwán](/es/music/ktv-culture) — De los clubes de espectáculo a las cabinas privadas, el KTV es una de las fuentes sonoras artificiales más comunes del paisaje sonoro nocturno de Taiwán; los gritos de cinco personas en una cabina privada se filtran hacia afuera, constituyendo una huella dactilar sonora única de las noches de Taiwán.
+- [Desarrollo del hip hop y rap en Taiwán](/es/music/taiwan-hip-hop-and-rap) — De los sótanos urbanos a las listas de éxitos de KKBOX, la textura sonora del rap ha cambiado las capas del paisaje sonoro de la música popular de Taiwán.
 
 ---
 

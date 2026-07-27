@@ -199,15 +199,15 @@ Pero la próxima vez que estés sobre este césped, tú lo sabrás.
 
 **Lecturas recomendadas**:
 
-- [Ciudad de Taipéi](/geography/台北市) — panorama de sus 12 distritos, para devolver Sisi Nan Cun al eje temporal de Xinyi y de los 22 condados y ciudades de Taiwán
-- [Desarrollo de parques culturales y creativos en Taiwán](/culture/台灣文化創意園區發展) — de Huashan a Songyan y Sisi Nan Cun: el modelo taiwanés de “preservación patrimonial + ocupación cultural y creativa”
-- [Cocina de aldeas de dependientes militares en Taiwán](/food/台灣眷村菜) — jianbing de Shandong, tocino curado de Hunan, dan dan mian de Sichuan: rastros materiales de la geografía alimentaria de las aldeas y sus correspondencias provinciales
-- [Tensiones provinciales en Taiwán](/society/台灣省籍矛盾) — de la primera a la segunda y tercera generación waisheng: la estructura étnica de la Taiwán de posguerra vista desde Sisi Nan Cun
-- [Taipei 101](/geography/台北101) — el rascacielos de 401 metros que puede verse desde la plaza de Sisi Nan Cun; junto con las viviendas familiares, forma uno de los dos restos del mismo terreno del arsenal
-- [Dadaocheng](/geography/大稻埕) — barrio histórico hermano del mismo batch 1: una calle comercial de la era Qing y una aldea de dependientes de posguerra como dos “momentos de formación urbana” de Taipéi
-- [Ximending](/geography/西門町) — barrio histórico hermano del mismo batch 1: el distrito de entretenimiento del periodo japonés y las aldeas de dependientes de posguerra como dos tipos de legado dejado por Japón
-- [Yongkang Street](/geography/永康街) — dos modos de asentamiento de los waisheng llegados a Taiwán en 1949: viviendas de dependientes vs. ocupación de residencias japonesas, en contraste material
-- [Guling Street](/geography/牯嶺街) — el complejo académico de Nanhai y la calle de librerías de viejo de Guling como otro paisaje de intelectuales waisheng de posguerra, frente a las viviendas del arsenal de Sisi Nan Cun como dos estructuras de asentamiento waisheng: “letrados vs. industria militar”
+- [Ciudad de Taipéi](/es/geography/taipei-city) — panorama de sus 12 distritos, para devolver Sisi Nan Cun al eje temporal de Xinyi y de los 22 condados y ciudades de Taiwán
+- [Desarrollo de parques culturales y creativos en Taiwán](/es/culture/taiwan-cultural-creative-park-development) — de Huashan a Songyan y Sisi Nan Cun: el modelo taiwanés de “preservación patrimonial + ocupación cultural y creativa”
+- [Cocina de aldeas de dependientes militares en Taiwán](/es/food/military-dependents-village-cuisine) — jianbing de Shandong, tocino curado de Hunan, dan dan mian de Sichuan: rastros materiales de la geografía alimentaria de las aldeas y sus correspondencias provinciales
+- [Tensiones provinciales en Taiwán](/es/society/taiwan-provincial-tensions) — de la primera a la segunda y tercera generación waisheng: la estructura étnica de la Taiwán de posguerra vista desde Sisi Nan Cun
+- [Taipei 101](/es/geography/taipei-101) — el rascacielos de 401 metros que puede verse desde la plaza de Sisi Nan Cun; junto con las viviendas familiares, forma uno de los dos restos del mismo terreno del arsenal
+- [Dadaocheng](/es/geography/dadaocheng) — barrio histórico hermano del mismo batch 1: una calle comercial de la era Qing y una aldea de dependientes de posguerra como dos “momentos de formación urbana” de Taipéi
+- [Ximending](/es/geography/ximending) — barrio histórico hermano del mismo batch 1: el distrito de entretenimiento del periodo japonés y las aldeas de dependientes de posguerra como dos tipos de legado dejado por Japón
+- [Yongkang Street](/es/geography/yongkang-street) — dos modos de asentamiento de los waisheng llegados a Taiwán en 1949: viviendas de dependientes vs. ocupación de residencias japonesas, en contraste material
+- [Guling Street](/es/geography/guling-street) — el complejo académico de Nanhai y la calle de librerías de viejo de Guling como otro paisaje de intelectuales waisheng de posguerra, frente a las viviendas del arsenal de Sisi Nan Cun como dos estructuras de asentamiento waisheng: “letrados vs. industria militar”
 
 ## Fuentes de imágenes
 

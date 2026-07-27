@@ -254,11 +254,11 @@ Después de treinta y tantos años, los Golden Melody en realidad no están entr
 
 ## Lecturas ampliadas
 
-- [Música pop taiwanesa](/music/台灣流行音樂) — Toda la historia de auge y declive industrial, desde la industria discográfica hasta la era del streaming; los Golden Melody son la escala oficial de esa línea
-- [Evolución de la canción taiwanesa en taiwanés](/music/台灣台語歌曲演進) — De las baladas tristes a la inflexión rockera de “Marching Forward” de Lim Giong: cómo la canción en taiwanés entró en la corriente principal
-- [Tradiciones musicales de los pueblos indígenas de Taiwán](/music/台灣原住民音樂傳統) — De los cantos comunitarios a Chen Chien-nien y ABAO: raíces y contemporaneidad de la música indígena
-- [Cantautores indígenas contemporáneos](/music/當代原住民創作歌手) — Las voces y circunstancias de una línea creativa que incluye a Samingad, Panai y ABAO
-- [Música independiente de Taiwán](/music/台灣獨立音樂) — Cómo No Party for Cao Dong y la generación StreetVoice rodearon la industria discográfica y llegaron al escenario más alto de los Golden Melody
+- [Música pop taiwanesa](/es/music/golden-melodies-legacy-taiwan-pop-music) — Toda la historia de auge y declive industrial, desde la industria discográfica hasta la era del streaming; los Golden Melody son la escala oficial de esa línea
+- [Evolución de la canción taiwanesa en taiwanés](/es/music/taiwanese-hokkien-song-evolution) — De las baladas tristes a la inflexión rockera de “Marching Forward” de Lim Giong: cómo la canción en taiwanés entró en la corriente principal
+- [Tradiciones musicales de los pueblos indígenas de Taiwán](/es/music/indigenous-music-traditions) — De los cantos comunitarios a Chen Chien-nien y ABAO: raíces y contemporaneidad de la música indígena
+- [Cantautores indígenas contemporáneos](/es/music/contemporary-indigenous-singer-songwriters) — Las voces y circunstancias de una línea creativa que incluye a Samingad, Panai y ABAO
+- [Música independiente de Taiwán](/es/music/indie-music-scene) — Cómo No Party for Cao Dong y la generación StreetVoice rodearon la industria discográfica y llegaron al escenario más alto de los Golden Melody
 
 ## Fuentes de imágenes
 

@@ -178,15 +178,15 @@ La próxima vez que pases por el Salón Octagonal de la Casa Roja de Ximen, dete
 
 **Lecturas complementarias**:
 
-- [La sala de fumar de Taipéi: en una ciudad libre de humo, la caja de vidrio que respira](/society/台北吸菸室) — la primera sala de fumar exterior de presión negativa de Taiwán, instalada en plena calle, junto a la salida del metro de Ximen
+- [La sala de fumar de Taipéi: en una ciudad libre de humo, la caja de vidrio que respira](/es/society/taipei-smoking-room) — la primera sala de fumar exterior de presión negativa de Taiwán, instalada en plena calle, junto a la salida del metro de Ximen
 
-- [Ciudad de Taipéi: tres tiempos dentro de una ciudad, el Longshan Temple de 1738 mirando al 101 de 2004](/geography/台北市) — La posición de Ximending entre los 12 distritos, junto a las tres líneas temporales de Monga, Dadaocheng y Xinyi
-- [Cultura del anime y manga en Taiwán](/culture/台灣動漫文化) — Por qué el cosplay se reúne de forma fija los fines de semana frente a la Casa Roja de Ximen, y su relación con el origen de Fancy Frontier en 1999
-- [Arte callejero y cultura del grafiti en Taiwán](/culture/台灣街頭藝術與塗鴉文化) — El muro azul con grafitis del Cinema Theme Park de Ximending y el contexto del nacimiento de la cultura callejera taiwanesa tras el levantamiento de la ley marcial
-- [Cultura de las calles antiguas y distritos comerciales de Taiwán](/culture/台灣老街文化與商業街區) — Ximending como distrito de entretenimiento planificado durante el periodo japonés, y sus diferencias estructurales respecto de las calles antiguas del periodo Qing, como Lukang, Monga y Dadaocheng
-- [Monga](/geography/艋舺) — Barrio histórico sibling del mismo batch 1; cuando los japoneses planificaron Ximending en 1896, la vecina Monga era el puerto más animado del norte de Taiwán bajo los Qing
-- [Dadaocheng](/geography/大稻埕) — Barrio histórico sibling del mismo batch 1; calle comercial emergente del té tras el conflicto Dingxia de 1853, frente al distrito de entretenimiento japonés de Ximending como dos formas distintas de “momento de formación de una calle”
-- [Tiaotong de Zhongshan North Road](/geography/中山北路條通) — El bulevar arbolado del “Camino Imperial” del periodo japonés de 1898 hacia el Santuario de Taiwán en Yuanshan, planificado en la misma época que Ximending pero como un experimento urbano completamente distinto
+- [Ciudad de Taipéi: tres tiempos dentro de una ciudad, el Longshan Temple de 1738 mirando al 101 de 2004](/es/geography/taipei-city) — La posición de Ximending entre los 12 distritos, junto a las tres líneas temporales de Monga, Dadaocheng y Xinyi
+- [Cultura del anime y manga en Taiwán](/es/culture/taiwan-anime-culture) — Por qué el cosplay se reúne de forma fija los fines de semana frente a la Casa Roja de Ximen, y su relación con el origen de Fancy Frontier en 1999
+- [Arte callejero y cultura del grafiti en Taiwán](/es/culture/taiwan-street-art-and-graffiti-culture) — El muro azul con grafitis del Cinema Theme Park de Ximending y el contexto del nacimiento de la cultura callejera taiwanesa tras el levantamiento de la ley marcial
+- [Cultura de las calles antiguas y distritos comerciales de Taiwán](/es/culture/taiwan-historic-streets-and-commercial-districts) — Ximending como distrito de entretenimiento planificado durante el periodo japonés, y sus diferencias estructurales respecto de las calles antiguas del periodo Qing, como Lukang, Monga y Dadaocheng
+- [Monga](/es/geography/bangka) — Barrio histórico sibling del mismo batch 1; cuando los japoneses planificaron Ximending en 1896, la vecina Monga era el puerto más animado del norte de Taiwán bajo los Qing
+- [Dadaocheng](/es/geography/dadaocheng) — Barrio histórico sibling del mismo batch 1; calle comercial emergente del té tras el conflicto Dingxia de 1853, frente al distrito de entretenimiento japonés de Ximending como dos formas distintas de “momento de formación de una calle”
+- [Tiaotong de Zhongshan North Road](/es/geography/zhongshan-north-road-tiaotong) — El bulevar arbolado del “Camino Imperial” del periodo japonés de 1898 hacia el Santuario de Taiwán en Yuanshan, planificado en la misma época que Ximending pero como un experimento urbano completamente distinto
 
 ## Fuentes de las imágenes
 

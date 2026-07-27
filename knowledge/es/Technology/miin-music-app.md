@@ -131,10 +131,10 @@ Así que la próxima vez que te encuentres con esa publicación «nos vamos, nos
 
 ## Lecturas adicionales
 
-- [杜奕瑾](/people/杜奕瑾) — Usar una computadora 486 para montar PTT, liderar Cortana en Microsoft, y luego regresar a Taiwán para hacer IA sin fines de lucro: treinta años
-- [台灣人工智慧實驗室](/technology/台灣人工智慧實驗室) — La institución de IA sin fines de lucro detrás de Miin, desde TAIDE hasta la prevención de la guerra cognitiva
-- [認知作戰](/society/認知作戰) — Por qué Taiwán es escrito por la comunidad académica como el frente de esta guerra de información
-- [台灣網路社群遷徙史](/technology/台灣網路社群遷徙史) — Desde BBS, Wretch hasta Threads, la historia de los taiwaneses mudándose una y otra vez
+- [杜奕瑾](/es/people/ethan-tu) — Usar una computadora 486 para montar PTT, liderar Cortana en Microsoft, y luego regresar a Taiwán para hacer IA sin fines de lucro: treinta años
+- [台灣人工智慧實驗室](/es/technology/taiwan-ai-labs) — La institución de IA sin fines de lucro detrás de Miin, desde TAIDE hasta la prevención de la guerra cognitiva
+- [認知作戰](/es/society/cognitive-warfare-against-taiwan) — Por qué Taiwán es escrito por la comunidad académica como el frente de esta guerra de información
+- [台灣網路社群遷徙史](/es/technology/taiwan-online-community-migration) — Desde BBS, Wretch hasta Threads, la historia de los taiwaneses mudándose una y otra vez
 
 ## Fuentes de imagen
 

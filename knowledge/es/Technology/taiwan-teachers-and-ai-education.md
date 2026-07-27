@@ -147,9 +147,9 @@ Xu Tai-ping dijo que la capacitación tenía emoción y chispa, pero se sentía 
 
 ## Lecturas adicionales
 
-- [Sistema Educativo de Taiwán](/lifestyle/台灣教育制度) — Desde los exámenes de ingreso hasta la educación nacional de doce años, el entorno institucional donde reside la innovación docente
-- [Estrategia de Desarrollo e Inteligencia Artificial de Taiwán](/technology/台灣人工智慧發展與未來策略) — Una visión general del panorama de IA en Taiwán desde la industria y las políticas
-- [Escuela de IA de Taiwán](/technology/台灣人工智慧學校) — Cómo la capacitación civil puede formar a la primera generación de talento industrial en IA de Taiwán
+- [Sistema Educativo de Taiwán](/es/lifestyle/taiwan-education-system) — Desde los exámenes de ingreso hasta la educación nacional de doce años, el entorno institucional donde reside la innovación docente
+- [Estrategia de Desarrollo e Inteligencia Artificial de Taiwán](/es/technology/artificial-intelligence-development-strategy) — Una visión general del panorama de IA en Taiwán desde la industria y las políticas
+- [Escuela de IA de Taiwán](/es/technology/taiwan-ai-academy) — Cómo la capacitación civil puede formar a la primera generación de talento industrial en IA de Taiwán
 
 ---
 

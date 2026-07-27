@@ -230,11 +230,11 @@ La próxima vez que alguien te pregunte “a dónde pertenece Taiwán realmente�
 
 ## Lecturas complementarias
 
-- [Perspectiva de la historia insular de Taiwán: cómo una isla gobernada una y otra vez inventó su propia subjetividad](/history/台灣島史觀) — La metodología insular de Ts’ao Yung-ho proporciona una base historiográfica de insularidad para el “pensamiento archipelágico”
-- [Arte contemporáneo indígena de Taiwán](/art/台灣原住民當代藝術) — Los pueblos indígenas austronesios como portadores vivos del “continuo archipelágico” y sus prácticas artísticas contemporáneas
-- [Tradiciones musicales indígenas de Taiwán](/music/台灣原住民音樂傳統) — La alta correlación entre la música tradicional de los 16 pueblos y la etnomusicología oceánica apoya la teoría del origen austronesio
-- [Historia del comercio marítimo de Taiwán](/history/台灣海洋貿易史) — Del jade de Beinan a la era de las grandes navegaciones, las conexiones marítimas de Taiwán
-- [Mapa cultural de los 16 pueblos indígenas de Taiwán](/culture/台灣原住民族16族文化地圖) — Los sistemas lingüísticos de los 16 pueblos y su correspondencia con las nueve grandes ramas austronesias en Taiwán
+- [Perspectiva de la historia insular de Taiwán: cómo una isla gobernada una y otra vez inventó su propia subjetividad](/es/history/taiwan-island-historiography) — La metodología insular de Ts’ao Yung-ho proporciona una base historiográfica de insularidad para el “pensamiento archipelágico”
+- [Arte contemporáneo indígena de Taiwán](/es/art/contemporary-indigenous-art-taiwan) — Los pueblos indígenas austronesios como portadores vivos del “continuo archipelágico” y sus prácticas artísticas contemporáneas
+- [Tradiciones musicales indígenas de Taiwán](/es/music/indigenous-music-traditions) — La alta correlación entre la música tradicional de los 16 pueblos y la etnomusicología oceánica apoya la teoría del origen austronesio
+- [Historia del comercio marítimo de Taiwán](/es/history/taiwan-maritime-trade-history) — Del jade de Beinan a la era de las grandes navegaciones, las conexiones marítimas de Taiwán
+- [Mapa cultural de los 16 pueblos indígenas de Taiwán](/es/culture/indigenous-peoples-16-tribes-cultural-map) — Los sistemas lingüísticos de los 16 pueblos y su correspondencia con las nueve grandes ramas austronesias en Taiwán
 
 ![El pilar de piedra lunar del Parque del Yacimiento de Beinan es un vestigio emblemático de la cultura Beinan (5300-2300 años antes del presente). En Beinan se excavaron más de 5000 piezas de jade; algunas de ellas fueron encontradas después por arqueólogos en yacimientos prehistóricos de Filipinas, Vietnam y Tailandia.](/article-images/culture/beinan-stone-pillar.webp)
 

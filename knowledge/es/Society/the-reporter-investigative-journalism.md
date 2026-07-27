@@ -266,12 +266,12 @@ Reentender “me cargan 200 dólares taiwaneses al mes” no como “hacer carid
 
 ## Lecturas complementarias
 
-- [Medios y libertad de prensa en Taiwán](/society/台灣媒體與新聞自由) — Un panorama desde la salida del partido, el gobierno y el ejército de los medios hasta el ecosistema mediático actual.
-- [PTS](/society/公視) — Otra vía de medios públicos: una versión audiovisual de “bien público” sostenida por presupuesto legal.
-- [CommonWealth Magazine](/society/天下雜誌) — El lugar donde estaba Ho Jung-hsing antes de dejar el puesto de editor jefe, representante de los medios comerciales de economía y negocios en Taiwán.
-- [Operaciones cognitivas](/society/認知作戰) — Frente unido, desinformación con IA y estrategia de zona gris, como trasfondo mutuo del especial de 2026 de The Reporter sobre el frente unido.
-- [Operación cognitiva “papa venenosa”](/society/毒馬鈴薯認知作戰) — Un estudio de caso concreto sobre un episodio de operación cognitiva.
-- [PTT BBS](/technology/PTT批踢踢) — La esfera pública de la era anterior a internet móvil en Taiwán, dentro de la misma línea de “las plataformas no son necesariamente neutrales” que The Reporter.
+- [Medios y libertad de prensa en Taiwán](/es/society/media-and-press-freedom-in-taiwan) — Un panorama desde la salida del partido, el gobierno y el ejército de los medios hasta el ecosistema mediático actual.
+- [PTS](/es/society/pts-public-television-service) — Otra vía de medios públicos: una versión audiovisual de “bien público” sostenida por presupuesto legal.
+- [CommonWealth Magazine](/es/society/commonwealth-magazine) — El lugar donde estaba Ho Jung-hsing antes de dejar el puesto de editor jefe, representante de los medios comerciales de economía y negocios en Taiwán.
+- [Operaciones cognitivas](/es/society/cognitive-warfare-against-taiwan) — Frente unido, desinformación con IA y estrategia de zona gris, como trasfondo mutuo del especial de 2026 de The Reporter sobre el frente unido.
+- [Operación cognitiva “papa venenosa”](/es/society/poisoned-potato-cognitive-warfare-taiwan) — Un estudio de caso concreto sobre un episodio de operación cognitiva.
+- [PTT BBS](/es/technology/ptt-bulletin-board-system) — La esfera pública de la era anterior a internet móvil en Taiwán, dentro de la misma línea de “las plataformas no son necesariamente neutrales” que The Reporter.
 
 ## Referencias
 

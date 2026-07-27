@@ -159,14 +159,14 @@ La reunión de Singapur en 2015 fue un apretón; la de Pekín en 2026, una puest
 
 **Lecturas complementarias**:
 
-- [Crisis del estrecho de Taiwán y desarrollo de las relaciones a ambos lados del estrecho](/history/台海危機與兩岸關係發展) — De 1949 a 2016, setenta años de historia de interacción a ambos lados del estrecho; la reunión Cheng‑Xi es solo el último capítulo.
-- [Entorno político de Taiwán y sistema electoral](/society/台灣政治環境與選舉制度) — Para entender “por qué Cheng Li-wen” es necesario conocer el debate interno del KMT en la elección de 2025.
-- [Transformación democrática de Taiwán](/history/台灣民主轉型) — ¿Por qué la AIT enfatiza “diálogo con el liderazgo electo”? La base está aquí.
-- [Defensa y modernización militar de Taiwán](/society/台灣國防與軍事現代化) — La “estructura institucional para prevenir la guerra” de Cheng tiene trasfondo en la política de defensa.
-- [Lai Ching-te](/people/賴清德) — Otro protagonista de esta obra, mantenido fuera del encuadre.
-- [Cheng Li-wen](/people/鄭麗文) — De activista estudiantil pro‑independencia en 1988 a presidenta del KMT en 2026.
-- [Han Kuo-yu](/people/韓國瑜) — Presidente del Yuan Legislativo, moderador de la negociación presupuestaria del KMT durante esa semana.
-- [Taiwán y Esuatini](/society/台灣與史瓦帝尼) — Declaraciones exteriores de Lai Ching-te en el mismo periodo, contrastando “República de China (Taiwán) es un estado soberano del mundo” con “todos los compatriotas a ambos lados del estrecho son chinos”.
+- [Crisis del estrecho de Taiwán y desarrollo de las relaciones a ambos lados del estrecho](/es/history/taiwan-strait-crises-and-cross-strait-relations) — De 1949 a 2016, setenta años de historia de interacción a ambos lados del estrecho; la reunión Cheng‑Xi es solo el último capítulo.
+- [Entorno político de Taiwán y sistema electoral](/es/society/taiwan-political-landscape-and-electoral-system) — Para entender “por qué Cheng Li-wen” es necesario conocer el debate interno del KMT en la elección de 2025.
+- [Transformación democrática de Taiwán](/es/history/taiwan-democratization) — ¿Por qué la AIT enfatiza “diálogo con el liderazgo electo”? La base está aquí.
+- [Defensa y modernización militar de Taiwán](/es/society/taiwan-defense-modernization) — La “estructura institucional para prevenir la guerra” de Cheng tiene trasfondo en la política de defensa.
+- [Lai Ching-te](/es/people/lai-ching-te) — Otro protagonista de esta obra, mantenido fuera del encuadre.
+- [Cheng Li-wen](/es/people/cheng-li-wun) — De activista estudiantil pro‑independencia en 1988 a presidenta del KMT en 2026.
+- [Han Kuo-yu](/es/people/han-kuo-yu) — Presidente del Yuan Legislativo, moderador de la negociación presupuestaria del KMT durante esa semana.
+- [Taiwán y Esuatini](/es/society/taiwan-eswatini-relations) — Declaraciones exteriores de Lai Ching-te en el mismo periodo, contrastando “República de China (Taiwán) es un estado soberano del mundo” con “todos los compatriotas a ambos lados del estrecho son chinos”.
 
 ## Referencias
 

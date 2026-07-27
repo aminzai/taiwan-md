@@ -160,10 +160,10 @@ El huevo que en el examen se exigía refutar y el huevo que en Hsinchu más de c
 
 **Lecturas ampliadas**:
 
-- [Feriados nacionales](/society/國定假日) — Cómo Duanwu pasó de una orden administrativa a feriado legal, otra historia que los taiwaneses escribieron con el “no tener que ir a trabajar”
-- [Festividades y celebraciones tradicionales](/culture/傳統節慶與慶典) — De las epidemias a los fuegos artificiales, cómo la cultura festiva de Taiwán evolucionó inesperadamente
-- [Comida callejera taiwanesa](/food/台灣小吃) — Los zongzi del norte y del sur son apenas el prólogo: la obsesión taiwanesa por la comida tiene muchos más campos de batalla
-- [Koxinga](/people/鄭成功) — El protagonista de la leyenda del Pozo de la Espada, un personaje histórico que dejó huellas (y leyendas) por todo Taiwán
+- [Feriados nacionales](/es/society/national-holidays) — Cómo Duanwu pasó de una orden administrativa a feriado legal, otra historia que los taiwaneses escribieron con el “no tener que ir a trabajar”
+- [Festividades y celebraciones tradicionales](/es/culture/traditional-festivals-and-celebrations) — De las epidemias a los fuegos artificiales, cómo la cultura festiva de Taiwán evolucionó inesperadamente
+- [Comida callejera taiwanesa](/es/food/taiwanese-street-food) — Los zongzi del norte y del sur son apenas el prólogo: la obsesión taiwanesa por la comida tiene muchos más campos de batalla
+- [Koxinga](/es/people/koxinga) — El protagonista de la leyenda del Pozo de la Espada, un personaje histórico que dejó huellas (y leyendas) por todo Taiwán
 
 ## Fuentes de imágenes
 

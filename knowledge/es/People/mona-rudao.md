@@ -259,10 +259,10 @@ Quizá el primer paso para conocer de verdad a Mona Rudao no sea recordar cuánt
 
 **Lecturas complementarias**:
 
-- [Wei Te-sheng](/people/魏德聖) — Director de _Seediq Bale_, la película que llevó a Mona Rudao a la pantalla, y la otra cara de “cómo el cine rehace la memoria” en este artículo.
-- [Historia de los pueblos indígenas de Taiwán y movimiento de rectificación de nombres](/history/台灣原住民族歷史與正名運動) — Cómo el pueblo Seediq se separó del pueblo Atayal en 2008 y se convirtió en el 14.º pueblo indígena de Taiwán.
-- [Periodo japonés](/history/日治時期) — Las políticas de administración indígena y los cincuenta años de colonización de Taiwán, contexto histórico del incidente de Wushe.
-- [Justicia territorial indígena y territorios tradicionales en Taiwán](/society/台灣原住民族土地正義與傳統領域) — Los territorios de caza que Mona defendía y la disputa actual por la delimitación de territorios tradicionales.
+- [Wei Te-sheng](/es/people/wei-te-sheng-taiwanese-epic-filmmaker) — Director de _Seediq Bale_, la película que llevó a Mona Rudao a la pantalla, y la otra cara de “cómo el cine rehace la memoria” en este artículo.
+- [Historia de los pueblos indígenas de Taiwán y movimiento de rectificación de nombres](/es/history/indigenous-peoples-history-and-naming-movement) — Cómo el pueblo Seediq se separó del pueblo Atayal en 2008 y se convirtió en el 14.º pueblo indígena de Taiwán.
+- [Periodo japonés](/es/history/japanese-colonial-era) — Las políticas de administración indígena y los cincuenta años de colonización de Taiwán, contexto histórico del incidente de Wushe.
+- [Justicia territorial indígena y territorios tradicionales en Taiwán](/es/society/indigenous-land-justice-and-traditional-territories) — Los territorios de caza que Mona defendía y la disputa actual por la delimitación de territorios tradicionales.
 
 ## Fuentes de imágenes y videos
 

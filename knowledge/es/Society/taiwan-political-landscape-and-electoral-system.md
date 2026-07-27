@@ -90,7 +90,7 @@ La resiliencia de la democracia taiwanesa proviene tanto del propio diseño de s
 
 **Lecturas complementarias**
 
-- [Defensa nacional y modernización militar de Taiwán](/society/台灣國防與軍事現代化) — Cómo el gobierno minoritario en el Congreso afecta la política de defensa en la práctica
-- [Relaciones diplomáticas y países aliados de Taiwán](/society/台灣邦交國與國際外交) — Cómo las diferencias de posición partidista se extienden a la oscilación de la ruta diplomática
-- [Reunión Zheng-Xi de 2026: diez minutos del reencuentro de líderes del Kuomintang y el PCCh tras una década](/society/2026鄭習會與國共十年再會) — El debate de líneas en la elección de presidente del Kuomintang de 2025
-- [Ji Linlian](/people/季麟連) — General en retirado nombrado vicepresidente del Kuomintang; el incidente de división en el Comité Permanente Central de 2026 revela la estructura del Departamento de Huang Fuxing
+- [Defensa nacional y modernización militar de Taiwán](/es/society/taiwan-defense-modernization) — Cómo el gobierno minoritario en el Congreso afecta la política de defensa en la práctica
+- [Relaciones diplomáticas y países aliados de Taiwán](/es/society/taiwan-diplomatic-allies-and-international-relations) — Cómo las diferencias de posición partidista se extienden a la oscilación de la ruta diplomática
+- [Reunión Zheng-Xi de 2026: diez minutos del reencuentro de líderes del Kuomintang y el PCCh tras una década](/es/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — El debate de líneas en la elección de presidente del Kuomintang de 2025
+- [Ji Linlian](/es/people/ji-lin-lian) — General en retirado nombrado vicepresidente del Kuomintang; el incidente de división en el Comité Permanente Central de 2026 revela la estructura del Departamento de Huang Fuxing

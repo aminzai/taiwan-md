@@ -103,8 +103,8 @@ Tras cuarenta años de desarrollo, el movimiento ambiental de Taiwán ha pasado 
 
 **Lecturas complementarias**:
 
-- [Debate sobre la energía nuclear en Taiwán](/society/台灣與核能的討論) — Cómo el movimiento antinuclear surgió del movimiento ambiental y se reconfiguró en la era climática: historia completa de los tres referéndums de cuarenta años
-- [Crisis climática en Taiwán y transición hacia cero emisiones](/nature/台灣氣候危機與淨零轉型) — Transformación de la conciencia ambiental en políticas nacionales de descarbonización y reestructuración del sistema energético
+- [Debate sobre la energía nuclear en Taiwán](/es/society/taiwan-nuclear-debate) — Cómo el movimiento antinuclear surgió del movimiento ambiental y se reconfiguró en la era climática: historia completa de los tres referéndums de cuarenta años
+- [Crisis climática en Taiwán y transición hacia cero emisiones](/es/nature/taiwan-climate-change-net-zero-transition) — Transformación de la conciencia ambiental en políticas nacionales de descarbonización y reestructuración del sistema energético
 
 ## Referencias
 

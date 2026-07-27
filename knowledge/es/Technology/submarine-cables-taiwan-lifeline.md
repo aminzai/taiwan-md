@@ -189,10 +189,10 @@ Por eso el edificio 506 no tiene letrero.
 
 ## Lectura complementaria
 
-- [The Reporter: cómo rescatar el periodismo de investigación de un rubro comercial y convertirlo en bien público durante una década](/society/報導者) — otro caso igualmente centrado en la credibilidad de la sociedad civil taiwanesa y la infraestructura tras 2015
-- [Arte de nuevos medios en Taiwán](/art/台灣新媒體藝術) — infraestructura cultural digital igualmente sostenida por Internet bajo los cables submarinos
-- [Movimientos sociales y participación ciudadana](/society/社會運動與公民參與) — el contexto más amplio relacionado con la legislación de las siete leyes de cables, las plataformas de respuesta local y la presión de la sociedad civil
-- [justfont y el desarrollo tipográfico en Taiwán](/technology/justfont與台灣字體發展) — otro eje que muestra igualmente la dimensión de "infraestructura cultural"
+- [The Reporter: cómo rescatar el periodismo de investigación de un rubro comercial y convertirlo en bien público durante una década](/es/society/the-reporter-investigative-journalism) — otro caso igualmente centrado en la credibilidad de la sociedad civil taiwanesa y la infraestructura tras 2015
+- [Arte de nuevos medios en Taiwán](/es/art/taiwan-new-media-art) — infraestructura cultural digital igualmente sostenida por Internet bajo los cables submarinos
+- [Movimientos sociales y participación ciudadana](/es/society/social-movements-and-civic-participation) — el contexto más amplio relacionado con la legislación de las siete leyes de cables, las plataformas de respuesta local y la presión de la sociedad civil
+- [justfont y el desarrollo tipográfico en Taiwán](/es/technology/justfont-and-taiwan-typography) — otro eje que muestra igualmente la dimensión de "infraestructura cultural"
 
 ## Referencias
 

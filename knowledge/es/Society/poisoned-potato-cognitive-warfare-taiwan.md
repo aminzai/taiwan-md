@@ -324,12 +324,12 @@ Shen Po-yang dijo otra frase de nivel superior: "La construcción de la concienc
 
 ## Lecturas adicionales
 
-- [Guerra cognitiva](/society/認知作戰) — El marco general de la manipulación de información del PCC y los mecanismos de contracción de la sociedad taiwanesa
-- [La reunión 2026 entre Zheng y Xi y el décimo reencuentro entre KMT y PCCh](/society/2026鄭習會與國共十年再會) — Otro punto de inflexión en las relaciones interestrecho del mismo periodo
-- [Crisis del Estrecho de Taiwán y el desarrollo de las relaciones interestrecho](/history/台海危機與兩岸關係發展) — El contexto histórico a largo plazo de la narrativa del "salvoconducto"
-- [Tsai Ing-wen](/people/蔡英文) — La tomadora de decisiones de la política del cerdo con ractopamina 2020-2021, la capa anterior a la cicatriz
-- [Lai Ching-te](/people/賴清德) — El mandato presidencial en el momento de la firma del Acuerdo ART
-- [Think Tank](/society/想想論壇) — Tras el relanzamiento de 2025 por Tsai Ing-wen, la columna insignia "Informe Anual de Observación de China" cubre temas similares de guerra cognitiva
+- [Guerra cognitiva](/es/society/cognitive-warfare-against-taiwan) — El marco general de la manipulación de información del PCC y los mecanismos de contracción de la sociedad taiwanesa
+- [La reunión 2026 entre Zheng y Xi y el décimo reencuentro entre KMT y PCCh](/es/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Otro punto de inflexión en las relaciones interestrecho del mismo periodo
+- [Crisis del Estrecho de Taiwán y el desarrollo de las relaciones interestrecho](/es/history/taiwan-strait-crises-and-cross-strait-relations) — El contexto histórico a largo plazo de la narrativa del "salvoconducto"
+- [Tsai Ing-wen](/es/people/tsai-ing-wen) — La tomadora de decisiones de la política del cerdo con ractopamina 2020-2021, la capa anterior a la cicatriz
+- [Lai Ching-te](/es/people/lai-ching-te) — El mandato presidencial en el momento de la firma del Acuerdo ART
+- [Think Tank](/es/society/thinking-taiwan-forum) — Tras el relanzamiento de 2025 por Tsai Ing-wen, la columna insignia "Informe Anual de Observación de China" cubre temas similares de guerra cognitiva
 
 ---
 

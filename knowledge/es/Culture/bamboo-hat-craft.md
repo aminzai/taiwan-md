@@ -125,9 +125,9 @@ Envejecimiento de los maestros, contracción del mercado, ruptura de materias pr
 
 ## Lecturas complementarias
 
-- [Tela floreada taiwanesa](/culture/台灣花布): otro objeto artesanal “etiquetado como hakka” en la década de 1990, detrás del cual hay capas superpuestas de memoria compartida entre distintos grupos étnicos
-- [Cultura del té en Taiwán](/culture/台灣茶文化): la disminución de la población dedicada a la cosecha de té retiró directamente el extremo de mercado del douli
-- [Mapa cultural de los 16 pueblos indígenas de Taiwán](/culture/台灣原住民族16族文化地圖): el origen del sombrero de junco de Yuanli está en mujeres pingpu, no en población han
+- [Tela floreada taiwanesa](/es/culture/taiwan-floral-fabric): otro objeto artesanal “etiquetado como hakka” en la década de 1990, detrás del cual hay capas superpuestas de memoria compartida entre distintos grupos étnicos
+- [Cultura del té en Taiwán](/es/culture/taiwanese-tea-culture-and-living-aesthetics): la disminución de la población dedicada a la cosecha de té retiró directamente el extremo de mercado del douli
+- [Mapa cultural de los 16 pueblos indígenas de Taiwán](/es/culture/indigenous-peoples-16-tribes-cultural-map): el origen del sombrero de junco de Yuanli está en mujeres pingpu, no en población han
 
 ## Referencias
 

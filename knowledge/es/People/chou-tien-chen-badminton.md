@@ -104,11 +104,11 @@ No gestiona páginas de fans ni utiliza mucho las redes sociales. [^1] Para algu
 
 **Lectura complementaria**:
 
-- [Tai Tzu-ying](/people/戴資穎) — La «primera chica» de Taiwán, reina mundial del bádminton de su generación, que comparte el mismo entrenador de iniciación con Chou Tien-chen
-- [Li Yang](/people/李洋) — La trayectoria del deportista taiwanés que, tras ganar el oro olímpico en bádminton, se convirtió en el primer ministro de Deportes
-- [Kuo Hsün-chun](/people/郭婞淳) — Otra deportista taiwanesa forjada por lesiones y adversidades, medallista de oro olímpica en halterofilia
-- [Jeremy Lin](/people/林書豪) — Otro rostro taiwanés que reescribe la imaginación sobre los atletas asiáticos mediante una trayectoria inusual
-- [Taipéi Chino](/society/中華台北) — El contexto político internacional detrás del nombre «Chinese Taipei» con el que compite Chou Tien-chen
+- [Tai Tzu-ying](/es/people/tai-tzu-ying) — La «primera chica» de Taiwán, reina mundial del bádminton de su generación, que comparte el mismo entrenador de iniciación con Chou Tien-chen
+- [Li Yang](/es/people/lee-yang-badminton) — La trayectoria del deportista taiwanés que, tras ganar el oro olímpico en bádminton, se convirtió en el primer ministro de Deportes
+- [Kuo Hsün-chun](/es/people/kuo-hsing-chun-olympic-weightlifting-champion) — Otra deportista taiwanesa forjada por lesiones y adversidades, medallista de oro olímpica en halterofilia
+- [Jeremy Lin](/es/people/jeremy-lin) — Otro rostro taiwanés que reescribe la imaginación sobre los atletas asiáticos mediante una trayectoria inusual
+- [Taipéi Chino](/es/society/chinese-taipei) — El contexto político internacional detrás del nombre «Chinese Taipei» con el que compite Chou Tien-chen
 
 ## Créditos de las imágenes
 

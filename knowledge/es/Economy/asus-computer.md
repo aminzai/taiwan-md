@@ -177,8 +177,8 @@ La historia de ASUS nos dice que, en la era de la globalización, un Taiwán peq
 
 **Lecturas relacionadas**:
 
-- [Acer Group (Acer)](/economy/acer-pc-industry-pioneer) — el contraste que tomó otro camino de escisión. Acer separó su manufactura por encargo (Wistron) ya en 2000, mientras que ASUS no escindió Pegatron hasta 2008; el resultado de ambos caminos se convirtió en un debate clásico de la industria electrónica taiwanesa.
-- [Wistron](/economy/wistron-global-manufacturing-transformation-pioneer) — el hermano menor de manufactura escindido de Acer, que, al igual que Pegatron escindido de ASUS, demuestra que "la parte intermedia descartada" a veces termina llegando más alto.
+- [Acer Group (Acer)](/es/economy/acer-pc-industry-pioneer) — el contraste que tomó otro camino de escisión. Acer separó su manufactura por encargo (Wistron) ya en 2000, mientras que ASUS no escindió Pegatron hasta 2008; el resultado de ambos caminos se convirtió en un debate clásico de la industria electrónica taiwanesa.
+- [Wistron](/es/economy/wistron-global-manufacturing-transformation-pioneer) — el hermano menor de manufactura escindido de Acer, que, al igual que Pegatron escindido de ASUS, demuestra que "la parte intermedia descartada" a veces termina llegando más alto.
 
 ## Referencias
 

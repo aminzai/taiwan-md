@@ -248,10 +248,10 @@ Este artículo utiliza 3 imágenes con licencia pública y 3 videos oficiales de
 
 ## Lecturas adicionales
 
-- [Ye Bing-cheng](/people/葉丙成): PaGamO convierte la tarea en matar monstruos, otra ruta de innovación educativa gamificada
-- [Huang Kuo-chen](/people/黃國珍): Pin Xue Tang y _Comprensión de Lectura_, convirtiendo el «saber leer» en una habilidad
-- [Liu An-ting](/people/劉安婷): Teach For Taiwan (TFT), enviando a jóvenes a las aulas de zonas rurales durante dos años
-- [Yen Chang-shou](/people/嚴長壽): Del padre del turismo al volcado en la educación en zonas rurales, el nombre de Junyi le fue prestado
+- [Ye Bing-cheng](/es/people/yeh-ping-cheng-education-innovator): PaGamO convierte la tarea en matar monstruos, otra ruta de innovación educativa gamificada
+- [Huang Kuo-chen](/es/people/huang-kuo-chen): Pin Xue Tang y _Comprensión de Lectura_, convirtiendo el «saber leer» en una habilidad
+- [Liu An-ting](/es/people/liu-an-ting-teach-for-taiwan): Teach For Taiwan (TFT), enviando a jóvenes a las aulas de zonas rurales durante dos años
+- [Yen Chang-shou](/es/people/stanley-yen): Del padre del turismo al volcado en la educación en zonas rurales, el nombre de Junyi le fue prestado
 
 ## Referencias
 

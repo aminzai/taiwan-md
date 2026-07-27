@@ -320,11 +320,11 @@ Lo que puede ser congelado no es este museo. Es esta infraestructura de memoria 
 
 **Lecturas complementarias**:
 
-- [Prisión de la Isla Verde](/history/綠島監獄) — La memoria estratificada de una misma isla, de prisión política clandestina al «pueblo natal de los jefes del hampa». Este artículo se centra en la institución museística; aquel aborda la memoria espacial
-- [Período de la ley marcial](/history/戒嚴時期) — Los 38 años de ley marcial de 1949 a 1987, base legal de la historia que exhibe este museo
-- [Terror Blanco de Taiwán](/history/台灣白色恐怖) — 29.407 casos de justicia militar y 140.000 familias afectadas: la escala concreta conmemorada por el Monumento de las Lágrimas
-- [Justicia transicional de Taiwán](/history/台灣轉型正義) — La tensión entre anular seis mil sentencias y no lograr perseguir a los perpetradores; este artículo es una sección institucional de esa historia
-- [Incidente del 28 de Febrero](/history/二二八事件) — La mayor revuelta popular de Taiwán en la posguerra, punto de partida que dio lugar a 38 años de ley marcial
+- [Prisión de la Isla Verde](/es/history/green-island-prison) — La memoria estratificada de una misma isla, de prisión política clandestina al «pueblo natal de los jefes del hampa». Este artículo se centra en la institución museística; aquel aborda la memoria espacial
+- [Período de la ley marcial](/es/history/martial-law-era) — Los 38 años de ley marcial de 1949 a 1987, base legal de la historia que exhibe este museo
+- [Terror Blanco de Taiwán](/es/history/taiwan-white-terror) — 29.407 casos de justicia militar y 140.000 familias afectadas: la escala concreta conmemorada por el Monumento de las Lágrimas
+- [Justicia transicional de Taiwán](/es/history/taiwan-transitional-justice) — La tensión entre anular seis mil sentencias y no lograr perseguir a los perpetradores; este artículo es una sección institucional de esa historia
+- [Incidente del 28 de Febrero](/es/history/228-incident) — La mayor revuelta popular de Taiwán en la posguerra, punto de partida que dio lugar a 38 años de ley marcial
 
 ## Referencias
 

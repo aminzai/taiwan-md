@@ -189,7 +189,7 @@ El camino de la conservación marina de Taiwán sigue estando lleno de desafíos
 
 **Lecturas complementarias**:
 
-- [Crisis climática de Taiwán y transición a cero emisiones netas](/nature/台灣氣候危機與淨零轉型) — Cómo el cambio climático y el aumento de la temperatura del mar agravan el blanqueamiento de coral, y la respuesta de Taiwán en materia de reducción de emisiones de carbono
+- [Crisis climática de Taiwán y transición a cero emisiones netas](/es/nature/taiwan-climate-change-net-zero-transition) — Cómo el cambio climático y el aumento de la temperatura del mar agravan el blanqueamiento de coral, y la respuesta de Taiwán en materia de reducción de emisiones de carbono
 
 ## Referencias
 

@@ -56,7 +56,7 @@ Esta traducción es muy taiwanesa. La tradición no fue encerrada en un museo; s
 
 El 15 de agosto de 2008, ganó el campeonato de la tercera temporada. El 29 de mayo del año siguiente se publicó Lala Hsu Debut Album, que incluía "Riding a White Horse", ["Lost Desert Oasis"](https://www.youtube.com/watch?v=9IP2S9aSWfI), "The Same Moonlight" y otras composiciones originales ya presentadas durante el concurso. El Ministerio de Cultura señala que este álbum la convirtió rápidamente en una de las representantes de la nueva generación de cantantes pop taiwanesas. [^1]
 
-Este fue también el punto de entrada de [Chen Chien-chi](/people/陳建騏) en la música pop mandarina. En 2008, "Lost Desert Oasis" fue la primera canción pop que produjo; en 2009, Lala Hsu Debut Album, y en 2010, Limits, convirtieron a Lala Hsu en su campo de trabajo durante tres años consecutivos mientras transitaba del teatro y la música independiente hacia la industria discográfica dominante. [^10]
+Este fue también el punto de entrada de [Chen Chien-chi](/es/people/chen-chien-chi-music-producer) en la música pop mandarina. En 2008, "Lost Desert Oasis" fue la primera canción pop que produjo; en 2009, Lala Hsu Debut Album, y en 2010, Limits, convirtieron a Lala Hsu en su campo de trabajo durante tres años consecutivos mientras transitaba del teatro y la música independiente hacia la industria discográfica dominante. [^10]
 
 > **✦** El primer éxito representativo de Lala Hsu demostró que la tradición no necesita vestirse de etiqueta para sentarse en una canción pop.
 
@@ -127,11 +127,11 @@ Ese boleto que casi la llevó de regreso a Taichung no desapareció. Sigue en su
 
 **Lecturas relacionadas:**
 
-- [Chen Chien-chi](/people/陳建騏) — "Lost Desert Oasis" en 2008 fue la primera canción pop producida por Chen Chien-chi, y también el espacio clave donde se construyó el sonido temprano de Lala Hsu.
-- [Yoga Lin](/people/林宥嘉) — También surgido de Super Star Avenue, otro camino desde el concurso de talentos hacia la autoproducción.
-- [Hebe Tien](/people/田馥甄) — Figura central de las voces femeninas mandarinas de la década de 2010, junto con Lala Hsu; construyó su propio sonido desde dentro de un sistema de ídolos.
-- [Waa Wei](/people/魏如萱) — Reina del Golden Melody de la misma generación, junto con Lala Hsu constituyen un linaje no estándar de cantautoras taiwanesas.
-- [Programas de variedades taiwaneses](/culture/台灣綜藝) — Para entender cómo los concursos de talentos televisivos taiwaneses transformaron la música pop mandarina en los años 2000.
+- [Chen Chien-chi](/es/people/chen-chien-chi-music-producer) — "Lost Desert Oasis" en 2008 fue la primera canción pop producida por Chen Chien-chi, y también el espacio clave donde se construyó el sonido temprano de Lala Hsu.
+- [Yoga Lin](/es/people/yoga-lin) — También surgido de Super Star Avenue, otro camino desde el concurso de talentos hacia la autoproducción.
+- [Hebe Tien](/es/people/hebe-tien-singer) — Figura central de las voces femeninas mandarinas de la década de 2010, junto con Lala Hsu; construyó su propio sonido desde dentro de un sistema de ídolos.
+- [Waa Wei](/es/people/waa-wei-singer) — Reina del Golden Melody de la misma generación, junto con Lala Hsu constituyen un linaje no estándar de cantautoras taiwanesas.
+- [Programas de variedades taiwaneses](/es/culture/taiwan-variety-shows) — Para entender cómo los concursos de talentos televisivos taiwaneses transformaron la música pop mandarina en los años 2000.
 
 ## Referencias
 

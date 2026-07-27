@@ -216,11 +216,11 @@ Reconocer que Taiwán es internamente tan heterogéneo sirve para ver con clarid
 
 ## Lecturas relacionadas
 
-- [Ciudad de Taipéi](/geography/台北市) — La ciudad más densa de Taiwán, con 8,975 personas por kilómetro cuadrado, y también la más vieja entre los seis municipios especiales, con un índice de envejecimiento de 202: la misma protagonista en los dos extremos de densidad y envejecimiento de este artículo.
-- [Condado de Taitung](/geography/台東縣) — El extremo más vacío de Taiwán, con 59 personas por kilómetro cuadrado; dos islas periféricas soportan el costo de una isla entera.
-- [Condado de Chiayi](/geography/嘉義縣) — Con un índice de envejecimiento de 291.69, el más alto de Taiwán; casi tres adultos mayores por cada niño, representante de la frontera del envejecimiento en los condados agrícolas.
-- [Condado de Hsinchu](/geography/新竹縣) — Con una tasa de envejecimiento de 15.08%, es el lugar más joven de Taiwán; el tramo del mapa poblacional que el Parque Científico de Hsinchu empuja hacia el extremo joven.
-- [La crisis de baja natalidad de Taiwán](/society/台灣少子化危機) — El extremo de los nacimientos de este retrato: recién nacidos por debajo de 110,000 y la otra cara de una isla con más muertes que nacimientos.
+- [Ciudad de Taipéi](/es/geography/taipei-city) — La ciudad más densa de Taiwán, con 8,975 personas por kilómetro cuadrado, y también la más vieja entre los seis municipios especiales, con un índice de envejecimiento de 202: la misma protagonista en los dos extremos de densidad y envejecimiento de este artículo.
+- [Condado de Taitung](/es/geography/taitung-county) — El extremo más vacío de Taiwán, con 59 personas por kilómetro cuadrado; dos islas periféricas soportan el costo de una isla entera.
+- [Condado de Chiayi](/es/geography/chiayi-county) — Con un índice de envejecimiento de 291.69, el más alto de Taiwán; casi tres adultos mayores por cada niño, representante de la frontera del envejecimiento en los condados agrícolas.
+- [Condado de Hsinchu](/es/geography/hsinchu-county) — Con una tasa de envejecimiento de 15.08%, es el lugar más joven de Taiwán; el tramo del mapa poblacional que el Parque Científico de Hsinchu empuja hacia el extremo joven.
+- [La crisis de baja natalidad de Taiwán](/es/society/taiwan-low-birth-rate-crisis) — El extremo de los nacimientos de este retrato: recién nacidos por debajo de 110,000 y la otra cara de una isla con más muertes que nacimientos.
 
 ## Fuentes de las imágenes
 

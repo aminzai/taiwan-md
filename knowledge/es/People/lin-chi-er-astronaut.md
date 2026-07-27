@@ -199,10 +199,10 @@ Si aquel diagnóstico de asma hubiera sido correcto, hoy sería un piloto de la 
 
 ## Lecturas complementarias
 
-- [Wu Ta-You](/people/吳大猷) — Pionero de la física en Taiwán, para entender cómo la generación de científicos de posguerra construyó el entorno de ciencia básica en Taiwán
-- [Chu Ching-wu](/people/朱經武) — Otro científico taiwanés con influencia en la comunidad científica internacional, para ver cómo el trasfondo bicultural taiwanés-estadounidense florece en distintas disciplinas
-- [Los constructores de montañas: la apuesta del siglo](/art/造山者世紀的賭注) — Documental de 2025 de Xiao Juzhen, con entrevistas a pioneros de los semiconductores, que resuena con la trayectoria internacional de los tecnólogos taiwaneses de la misma generación
-- [Desarrollo de la industria espacial en Taiwán](/technology/台灣太空產業發展) — Panorama completo de satélites, cohetes y política espacial propios de Taiwán, para comprender la base industrial local que encontró a su regreso
+- [Wu Ta-You](/es/people/tai-yu-wu) — Pionero de la física en Taiwán, para entender cómo la generación de científicos de posguerra construyó el entorno de ciencia básica en Taiwán
+- [Chu Ching-wu](/es/people/chu-ching-wu) — Otro científico taiwanés con influencia en la comunidad científica internacional, para ver cómo el trasfondo bicultural taiwanés-estadounidense florece en distintas disciplinas
+- [Los constructores de montañas: la apuesta del siglo](/es/art/mountain-makers-tsmc-documentary) — Documental de 2025 de Xiao Juzhen, con entrevistas a pioneros de los semiconductores, que resuena con la trayectoria internacional de los tecnólogos taiwaneses de la misma generación
+- [Desarrollo de la industria espacial en Taiwán](/es/technology/taiwan-space-industry-development) — Panorama completo de satélites, cohetes y política espacial propios de Taiwán, para comprender la base industrial local que encontró a su regreso
 
 ## Referencias
 

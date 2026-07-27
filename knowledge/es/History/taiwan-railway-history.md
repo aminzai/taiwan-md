@@ -87,7 +87,7 @@ La zona gris de los hechos está aquí: Liu Ming-chuan efectivamente construyó 
 
 Uno fue el soñador; el otro, el ejecutor. Quién es el «padre» depende de si se considera más importante «empezar» o «terminar». (La formulación sigue el marco argumental del comentario de Chiang Ping-lun en [United Daily News Opinion](https://opinion.udn.com/opinion/story/12705/4720975)).
 
-> 📝 **Perspectiva curatorial:** La disputa por el «padre del ferrocarril» parece en la superficie una discusión de investigación histórica, pero debajo está la política identitaria que la sociedad taiwanesa siempre está procesando: entre la herencia Qing y la herencia japonesa, ¿cuál es «más nuestra»? Este problema no aparece solo en el ferrocarril, sino también en la [arquitectura del período colonial japonés](/es/History/japanese-colonial-era/), las instalaciones hidráulicas e incluso el sistema médico.
+> 📝 **Perspectiva curatorial:** La disputa por el «padre del ferrocarril» parece en la superficie una discusión de investigación histórica, pero debajo está la política identitaria que la sociedad taiwanesa siempre está procesando: entre la herencia Qing y la herencia japonesa, ¿cuál es «más nuestra»? Este problema no aparece solo en el ferrocarril, sino también en la [arquitectura del período colonial japonés](/es/history/japanese-colonial-era/), las instalaciones hidráulicas e incluso el sistema médico.
 
 ## 1908: aquel día en el Parque de Taichung
 
@@ -251,8 +251,8 @@ Este artículo usa 3 imágenes con licencia CC, todas almacenadas en caché en `
 
 ## Lecturas adicionales
 
-- [Período Qing](/history/清治時期) — Contexto político en el que Liu Ming-chuan empezó a tender rieles
-- [Período colonial japonés](/history/日治時期) — Contexto del gobierno colonial en el que Hasegawa Kinsuke y Kawai Shitarō asumieron la construcción ferroviaria de Taiwán
-- [Guerra sino-francesa](/history/清法戰爭) — Liu Ming-chuan fue nombrado primer gobernador de Taiwán a raíz de esta guerra e inició de inmediato la construcción del ferrocarril de Keelung a Hsinchu
-- [Sistema de transporte de Taiwán](/lifestyle/台灣交通系統) — Lugar del ferrocarril de posguerra dentro de una red de transporte diversificada con carreteras, aeropuertos y metro
-- [Tren de alta velocidad de Taiwán](/lifestyle/台灣高鐵) — Sistema ferroviario de alta velocidad inaugurado en 2007, extensión contemporánea de la historia ferroviaria de Taiwán
+- [Período Qing](/es/history/qing-dynasty-rule) — Contexto político en el que Liu Ming-chuan empezó a tender rieles
+- [Período colonial japonés](/es/history/japanese-colonial-era) — Contexto del gobierno colonial en el que Hasegawa Kinsuke y Kawai Shitarō asumieron la construcción ferroviaria de Taiwán
+- [Guerra sino-francesa](/es/history/sino-french-war-in-taiwan) — Liu Ming-chuan fue nombrado primer gobernador de Taiwán a raíz de esta guerra e inició de inmediato la construcción del ferrocarril de Keelung a Hsinchu
+- [Sistema de transporte de Taiwán](/es/lifestyle/transportation-system) — Lugar del ferrocarril de posguerra dentro de una red de transporte diversificada con carreteras, aeropuertos y metro
+- [Tren de alta velocidad de Taiwán](/es/lifestyle/taiwan-high-speed-rail) — Sistema ferroviario de alta velocidad inaugurado en 2007, extensión contemporánea de la historia ferroviaria de Taiwán

@@ -168,9 +168,9 @@ En una era donde todos hablan de diseño y fabricación de chips, ASE nos recuer
 
 **Lecturas complementarias**:
 
-- [Empresa taiwanesa: TSMC](/economy/台灣企業：台積電) — La relación entre la montaña sagrada protectora y las empresas de empaquetado en la parte posterior de la cadena
-- [Empresa taiwanesa: MediaTek](/economy/台灣企業：聯發科技) — El líder taiwanés en diseño de IC, que junto a ASE forma parte del mismo ecosistema integral de la cadena de suministro
-- [Industria de semiconductores](/technology/半導體產業) — El campo de batalla de la ciencia de materiales de 50 años, desde la transferencia tecnológica de RCA hasta el empaquetado avanzado CoWoS, con la posición del empaquetado tradicional de ASE
+- [Empresa taiwanesa: TSMC](/es/economy/tsmc) — La relación entre la montaña sagrada protectora y las empresas de empaquetado en la parte posterior de la cadena
+- [Empresa taiwanesa: MediaTek](/es/economy/mediatek) — El líder taiwanés en diseño de IC, que junto a ASE forma parte del mismo ecosistema integral de la cadena de suministro
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — El campo de batalla de la ciencia de materiales de 50 años, desde la transferencia tecnológica de RCA hasta el empaquetado avanzado CoWoS, con la posición del empaquetado tradicional de ASE
 
 ## Referencias
 

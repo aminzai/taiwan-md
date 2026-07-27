@@ -183,12 +183,12 @@ Este es su mayor logro, y también su limitación más profunda.
 
 **Lecturas adicionales**:
 
-- [Han Kuo-yu](/people/韓國瑜) — Moderador de las negociaciones de defensa de 2026; figura clave en la controversia de las compras militares de Hsu Chiao-hsin; representa el ala institucional del binomio "Presidente del Partido - Presidente del Legislativo" de la facción azul.
-- [Cheng Li-wen](/people/鄭麗文) — Líder de la facción azul en la misma controversia de defensa, aliada con Fu Kun-chi para defender la versión de la KMT de 380.000 millones + N frente a la propuesta de 800.000 millones de Hsu Chiao-hsin.
-- [Cho Jung-tai](/people/卓榮泰) — Promotor del presupuesto especial de defensa de 1,25 billones del Ejecutivo; el oponente al que se enfrenta la versión de Hsu Chiao-hsin (800.000 millones).
-- [Lai Ching-te](/people/賴清德) — Líder político del presupuesto de defensa de 1,25 billones; el principal adversario en los interrogatorios parlamentarios de Hsu Chiao-hsin.
-- [Defensa y modernización militar de Taiwán](/society/台灣國防與軍事現代化) — El contexto político completo del choque entre 800.000 millones vs. 380.000 millones + N vs. 1,25 billones.
-- [Hsiao Bi-khim](/people/蕭美琴) — Otro modelo político femenino dentro de la misma estructura política; un camino y una visión de Taiwán completamente opuestos a los de Hsu Chincu-hsin.
+- [Han Kuo-yu](/es/people/han-kuo-yu) — Moderador de las negociaciones de defensa de 2026; figura clave en la controversia de las compras militares de Hsu Chiao-hsin; representa el ala institucional del binomio "Presidente del Partido - Presidente del Legislativo" de la facción azul.
+- [Cheng Li-wen](/es/people/cheng-li-wun) — Líder de la facción azul en la misma controversia de defensa, aliada con Fu Kun-chi para defender la versión de la KMT de 380.000 millones + N frente a la propuesta de 800.000 millones de Hsu Chiao-hsin.
+- [Cho Jung-tai](/es/people/cho-jung-tai) — Promotor del presupuesto especial de defensa de 1,25 billones del Ejecutivo; el oponente al que se enfrenta la versión de Hsu Chiao-hsin (800.000 millones).
+- [Lai Ching-te](/es/people/lai-ching-te) — Líder político del presupuesto de defensa de 1,25 billones; el principal adversario en los interrogatorios parlamentarios de Hsu Chiao-hsin.
+- [Defensa y modernización militar de Taiwán](/es/society/taiwan-defense-modernization) — El contexto político completo del choque entre 800.000 millones vs. 380.000 millones + N vs. 1,25 billones.
+- [Hsiao Bi-khim](/es/people/hsiao-bi-khim) — Otro modelo político femenino dentro de la misma estructura política; un camino y una visión de Taiwán completamente opuestos a los de Hsu Chincu-hsin.
 
 ## Referencias
 

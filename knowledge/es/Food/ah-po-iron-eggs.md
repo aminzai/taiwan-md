@@ -105,7 +105,7 @@ Los huevos de hierro no son solo un bocadillo: encierran la historia de la trans
 
 ## Temas relacionados
 
-- [Cultura de los mercados nocturnos](/Food/夜市文化) — Análisis en profundidad de los mercados nocturnos como espacio social
-- [Comida callejera taiwanesa](/Food/台灣小吃) — El coraje popular de la gastronomía cotidiana taiwanesa
-- [Arroz con carne estofada de Taiwán](/Food/台灣滷肉飯) — La memoria étnica en un plato de arroz con carne estofada
-- [Cultura alimentaria hakka](/Food/客家飲食文化) — La sabiduría culinaria del pueblo hakka
+- [Cultura de los mercados nocturnos](/es/food/night-market-culture) — Análisis en profundidad de los mercados nocturnos como espacio social
+- [Comida callejera taiwanesa](/es/food/taiwanese-street-food) — El coraje popular de la gastronomía cotidiana taiwanesa
+- [Arroz con carne estofada de Taiwán](/es/food/braised-pork-rice) — La memoria étnica en un plato de arroz con carne estofada
+- [Cultura alimentaria hakka](/es/food/hakka-food-culture) — La sabiduría culinaria del pueblo hakka

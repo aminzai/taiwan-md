@@ -267,15 +267,15 @@ Después de 2019, los lugares pasan de los bosques de montaña y los nacientes d
 
 **Lecturas complementarias**:
 
-- [Waa Wei](/people/魏如萱) — parte del mismo ecosistema de música independiente de la década de 2010, pero por la vía de la voz y no de la música instrumental
-- [No Party for Cao Dong](/people/草東沒有派對) — contrapunto de una banda surgida en la misma época, pero con una trayectoria extrovertida y furiosa
-- [Constant & Change](/people/康士坦的變化球) — parte del mismo espectro post-rock, pero con una vía narrativa vocal
-- [Crowd Lu](/people/盧廣仲) — otra ruta de la música independiente
-- [Música pop y Golden Melody Awards](/music/金曲獎) — el contexto institucional de la nominación de Cicada a Mejor Álbum Instrumental en los Golden Melody Awards
-- [Música independiente de Taiwán](/music/台灣獨立音樂) — el espectro de la música independiente posterior a la década de 2010
-- [Ecosistemas forestales de Taiwán](/nature/台灣森林生態系) — los paisajes de Hiking in the Mist y Seeking the Sources of Streams de Cicada
-- [Ecología marina de Taiwán](/nature/台灣海洋生態) — el trasfondo ecológico del álbum marino de la banda de 2017
-- [Montañas y cultura del montañismo en Taiwán](/nature/台灣山岳與登山文化) — el contexto de la filosofía montañera de Chiang Chih-chieh
+- [Waa Wei](/es/people/waa-wei-singer) — parte del mismo ecosistema de música independiente de la década de 2010, pero por la vía de la voz y no de la música instrumental
+- [No Party for Cao Dong](/es/people/no-party-for-cao-dong) — contrapunto de una banda surgida en la misma época, pero con una trayectoria extrovertida y furiosa
+- [Constant & Change](/es/people/constant-and-change-band) — parte del mismo espectro post-rock, pero con una vía narrativa vocal
+- [Crowd Lu](/es/people/crowd-lu-indie-folk-treasure) — otra ruta de la música independiente
+- [Música pop y Golden Melody Awards](/es/music/pop-music-and-golden-melody-awards) — el contexto institucional de la nominación de Cicada a Mejor Álbum Instrumental en los Golden Melody Awards
+- [Música independiente de Taiwán](/es/music/indie-music-scene) — el espectro de la música independiente posterior a la década de 2010
+- [Ecosistemas forestales de Taiwán](/es/nature/taiwan-forest-ecosystems) — los paisajes de Hiking in the Mist y Seeking the Sources of Streams de Cicada
+- [Ecología marina de Taiwán](/es/nature/taiwan-marine-ecology) — el trasfondo ecológico del álbum marino de la banda de 2017
+- [Montañas y cultura del montañismo en Taiwán](/es/nature/taiwan-mountains-and-hiking-culture) — el contexto de la filosofía montañera de Chiang Chih-chieh
 
 ## Referencias
 

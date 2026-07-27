@@ -143,11 +143,11 @@ Probablemente ella misma piense: da lo mismo —ya lo dijo, ser yo misma es sufi
 
 El ascenso de Stefanie Sun es un microcosmo del apogeo de la industria musical pop taiwanesa a principios de la década de 2000. Jay Chou, a quien derrotó por 1 voz, definió en la misma era otra pista de la música pop en chino, y ambos siguen siendo los dos ejes de referencia de aquella generación. Sus canciones siguen apareciendo con alta frecuencia en las listas de reproducción de los karaokes taiwaneses: son un archivo cultural vivo en el presente.
 
-- [Música pop taiwanesa](/music/台灣流行音樂/) — El contexto industrial del debut de Stefanie Sun y el apogeo de la industria discográfica taiwanesa en la década de 2000
-- [Música pop y Premios Golden Melody](/music/金曲獎/) — Cómo los Premios Golden Melody pasaron de ser un mecanismo de jurado a convertirse en una coordenada cultural que define el gusto
+- [Música pop taiwanesa](/es/music/golden-melodies-legacy-taiwan-pop-music/) — El contexto industrial del debut de Stefanie Sun y el apogeo de la industria discográfica taiwanesa en la década de 2000
+- [Música pop y Premios Golden Melody](/es/music/pop-music-and-golden-melody-awards/) — Cómo los Premios Golden Melody pasaron de ser un mecanismo de jurado a convertirse en una coordenada cultural que define el gusto
 - [Jay Chou](/es/people/jay-chou/) — Nominado en la misma categoría de Mejor Artista Novel en la 12.ª edición, definió otra pista de la música pop en chino
-- [Cultura del karaoke en Taiwán](/music/台灣KTV文化/) — Por qué las canciones de Stefanie Sun perduran en las listas de reproducción de karaoke
-- [Tanya Chua](/people/蔡健雅/) — El panorama de estrellas femeninas de la música en chino de Singapur en la misma época; Tanya Chua escribió «Di Liu Gan» (Sexto sentido) para Stefanie Sun (2003)
+- [Cultura del karaoke en Taiwán](/es/music/ktv-culture/) — Por qué las canciones de Stefanie Sun perduran en las listas de reproducción de karaoke
+- [Tanya Chua](/es/people/tanya-chua-singer/) — El panorama de estrellas femeninas de la música en chino de Singapur en la misma época; Tanya Chua escribió «Di Liu Gan» (Sexto sentido) para Stefanie Sun (2003)
 
 ## Referencias
 

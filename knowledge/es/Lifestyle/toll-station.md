@@ -98,7 +98,7 @@ Este despido abrió una historia de resistencia de once años. De rodillas cada 
 
 En 2016, acamparon durante más de 30 horas frente al partido del gobierno hasta que finalmente llegaron a un acuerdo con el nuevo gobierno, pero el acuerdo se redujo. El 19 de diciembre de 2019, perdieron la primera instancia en el Tribunal Administrativo Superior de Taipéi. La presidenta de la asociación de autodefensa, Sun Hsiu-luan, se tragó las lágrimas en el acto: «realmente no podemos aceptar este resultado», acusando al tribunal de «pisotear la credibilidad del gobierno»[^23].
 
-Se apeló a la Corte Suprema Administrativa, que ordenó un nuevo juicio. Finalmente, el 30 de diciembre de 2024, se estableció un acuerdo de conciliación, exactamente once años después de la fecha de despido, el mismo día del calendario. El 15 de febrero de 2025, celebraron con 20 mesas de banquete en Kaohsiung, marcando el fin de la resistencia[^24]. Esta línea de tiempo completa de once años ya ha sido escrita en profundidad en el artículo hermano de este [Autopista](/lifestyle/高速公路). Allí se detallan las estrategias de protesta de las rodillas cada seis pasos, la marcha de la cara azul, la subida al pórtico ETC, y también el análisis de «si las promesas políticas incumplidas y si constituyen un contrato administrativo son dos cosas diferentes». Los lectores pueden leerlo directamente.
+Se apeló a la Corte Suprema Administrativa, que ordenó un nuevo juicio. Finalmente, el 30 de diciembre de 2024, se estableció un acuerdo de conciliación, exactamente once años después de la fecha de despido, el mismo día del calendario. El 15 de febrero de 2025, celebraron con 20 mesas de banquete en Kaohsiung, marcando el fin de la resistencia[^24]. Esta línea de tiempo completa de once años ya ha sido escrita en profundidad en el artículo hermano de este [Autopista](/es/lifestyle/national-highway-system). Allí se detallan las estrategias de protesta de las rodillas cada seis pasos, la marcha de la cara azul, la subida al pórtico ETC, y también el análisis de «si las promesas políticas incumplidas y si constituyen un contrato administrativo son dos cosas diferentes». Los lectores pueden leerlo directamente.
 
 La propia presidenta de la asociación de autodefensa, Sun Hsiu-luan, lo dijo más claramente que cualquier organización externa: «Descartar a los cobradoras después de usarlos y tratar a los trabajadores de esta manera es injusto e irrazable»[^25].
 
@@ -122,8 +122,8 @@ Las tres casetas se alinean a lo largo de la autopista: se pueden ver, no se pue
 
 ## Lecturas adicionales
 
-- [Autopista](/lifestyle/高速公路) — El poder y la velocidad de cincuenta años de las autopistas de Taiwán, donde la sección «once años, un acuerdo no publicable» escribe en profundidad la historia de la resistencia de los cobradoras.
-- [Sistema de transporte de Taiwán](/lifestyle/台灣交通系統) — El contexto de transporte general, desde las autopistas y el tren de alta velocidad hasta el metro y las carreteras locales.
+- [Autopista](/es/lifestyle/national-highway-system) — El poder y la velocidad de cincuenta años de las autopistas de Taiwán, donde la sección «once años, un acuerdo no publicable» escribe en profundidad la historia de la resistencia de los cobradoras.
+- [Sistema de transporte de Taiwán](/es/lifestyle/transportation-system) — El contexto de transporte general, desde las autopistas y el tren de alta velocidad hasta el metro y las carreteras locales.
 
 ---
 

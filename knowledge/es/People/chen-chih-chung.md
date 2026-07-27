@@ -61,7 +61,7 @@ La historia de Chen Chih-chung, desde el resplandor de la "primera familia" hast
 
 **Lecturas complementarias**:
 
-- [Chen Shui-bian](/people/陳水扁): de hijo de una familia campesina humilde a primer presidente elegido democráticamente en Taiwán, ¿cómo reescribió la historia política de Taiwán y por qué acabó en prisión?
+- [Chen Shui-bian](/es/people/chen-shui-bian-controversial-president): de hijo de una familia campesina humilde a primer presidente elegido democráticamente en Taiwán, ¿cómo reescribió la historia política de Taiwán y por qué acabó en prisión?
 - Reforma judicial en Taiwán: del caso Chen a la cláusula de exclusión de antecedentes penales, ¿cómo ha respondido la justicia taiwanesa a las expectativas sociales y la presión política?
 - Política en redes sociales: ¿cómo están cambiando plataformas como Threads los patrones de comunicación entre los políticos taiwaneses y los votantes?
 

@@ -96,6 +96,6 @@ La sostenibilidad de la economía nocturna también es objeto de debate. La conc
 
 ## Lecturas complementarias
 
-- [Sistema de transporte de Taiwán](/lifestyle/台灣交通系統) — Cómo el transporte nocturno sostiene la cultura de la vida nocturna
-- [La cultura de las tiendas de conveniencia en Taiwán](/lifestyle/台灣便利商店文化) — La relación entre las tiendas 24 horas y la cultura de la ciudad que nunca duerme
-- [Creencias religiosas de Taiwán](/culture/台灣宗教與寺廟文化) — Ferias nocturnas en templos y vida nocturna en festividades tradicionales
+- [Sistema de transporte de Taiwán](/es/lifestyle/transportation-system) — Cómo el transporte nocturno sostiene la cultura de la vida nocturna
+- [La cultura de las tiendas de conveniencia en Taiwán](/es/lifestyle/convenience-store-culture) — La relación entre las tiendas 24 horas y la cultura de la ciudad que nunca duerme
+- [Creencias religiosas de Taiwán](/es/culture/taiwan-religion-and-temple-culture) — Ferias nocturnas en templos y vida nocturna en festividades tradicionales

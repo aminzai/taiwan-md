@@ -41,7 +41,7 @@ Si se considera a Taiwán como una “isla pequeña”, gran parte de su histori
 > **📝 Nota curatorial**
 > La grandeza de Ts’ao Yung-ho radica en que, al investigar documentos neerlandeses y españoles del siglo XVII, rescató la historia de Taiwán de la sombra de una perspectiva historiográfica continental y se la devolvió a la propia isla.
 
-Lecturas relacionadas: [Historia del comercio marítimo de Taiwán](/es/History/taiwan-maritime-trade-history/), [Era prehistórica y pueblos indígenas](/es/History/prehistoric-era-and-indigenous-peoples/)
+Lecturas relacionadas: [Historia del comercio marítimo de Taiwán](/es/history/taiwan-maritime-trade-history/), [Era prehistórica y pueblos indígenas](/es/history/prehistoric-era-and-indigenous-peoples/)
 
 ## II. El gen marítimo de los pueblos austronesios: la insularidad como universalidad
 
@@ -49,7 +49,7 @@ El punto de partida de la historia de Taiwán es muy anterior a 1624. Hace unos 
 
 Esto demuestra que el “carácter marítimo” de Taiwán no fue un añadido externo, sino algo innato. Cuando hablamos de la perspectiva historiográfica insular, hablamos de una tecnología civilizatoria de “hacer de la isla un hogar”, radicalmente distinta de la lógica agrícola de las civilizaciones continentales. La insularidad no implica aislamiento; por el contrario, implica posibilidades ilimitadas de conexión con el mundo.
 
-Lecturas relacionadas: [Historia de los pueblos indígenas de Taiwán y movimiento de rectificación de nombres](/es/History/indigenous-peoples-history-and-naming-movement/)
+Lecturas relacionadas: [Historia de los pueblos indígenas de Taiwán y movimiento de rectificación de nombres](/es/history/indigenous-peoples-history-and-naming-movement/)
 
 ## III. El primer choque de los imperios: el Reino de Middag y el comercio global
 
@@ -60,7 +60,7 @@ Se trataba de un reino interétnico formado por pueblos indígenas, que mantuvo 
 > **💡 ¿Sabías que…?**
 > En el siglo XVII, las pieles de ciervo de Taiwán eran indispensables para las armaduras de los samuráis japoneses. Los comerciantes anónimos de pieles de ciervo de aquella época fueron quienes realmente incorporaron a Taiwán a la ola de la economía global, creando un vínculo directo entre la isla de Taiwán y el equipamiento militar de Kioto.
 
-Lecturas relacionadas: [Periodo neerlandés, español y de Koxinga](/es/History/dutch-spanish-and-koxinga-era/)
+Lecturas relacionadas: [Periodo neerlandés, español y de Koxinga](/es/history/dutch-spanish-and-koxinga-era/)
 
 ## IV. La frontera de la migración: inmigración han y trasplante institucional
 
@@ -68,7 +68,7 @@ En 1662, Zheng Chenggong expulsó a los neerlandeses; en 1683, las fuerzas Qing 
 
 Las personas llegaron a la isla con saberes agrícolas y organizaciones de linaje, pero para sobrevivir en un entorno de cambios frecuentes aprendieron a establecer contratos sociales más flexibles y pragmáticos que los de la metrópoli continental. Desde el comienzo, la “sociedad han” de Taiwán llevó consigo cierto gen de inestabilidad y aventura, algo visible en los frecuentes levantamientos del periodo Qing, resumidos en la expresión “una pequeña rebelión cada tres años y un gran disturbio cada cinco”.
 
-Lecturas relacionadas: [Periodo de dominio Qing](/es/History/qing-dynasty-rule/), [Milagro económico de Taiwán](/es/economy/economic-miracle/)
+Lecturas relacionadas: [Periodo de dominio Qing](/es/history/qing-dynasty-rule/), [Milagro económico de Taiwán](/es/economy/economic-miracle/)
 
 ## V. 1895: la doble hoja de la modernidad colonial
 
@@ -79,7 +79,7 @@ La perspectiva historiográfica insular no niega la opresión colonial, pero rec
 > **⚠️ Punto de vista controvertido**
 > La modernidad colonial es la parte más difícil de abordar en la historia de Taiwán. ¿Cómo recordar al mismo tiempo el dolor de la opresión y los avances traídos por las instituciones? Esa es precisamente la tensión que la perspectiva historiográfica insular intenta tejer: aceptamos las instituciones, pero rechazamos la asimilación.
 
-Lecturas relacionadas: [Periodo colonial japonés](/es/History/japanese-colonial-era/), [Historia ferroviaria de Taiwán](/es/History/taiwan-railway-history/)
+Lecturas relacionadas: [Periodo colonial japonés](/es/history/japanese-colonial-era/), [Historia ferroviaria de Taiwán](/es/history/taiwan-railway-history/)
 
 ## VI. Estratos de autoritarismo y memoria
 
@@ -87,7 +87,7 @@ En 1945, al terminar la Segunda Guerra Mundial, Taiwán enfrentó nuevamente una
 
 Pero desde la perspectiva historiográfica insular, este periodo también fue el momento en que los “estratos de memoria” se acumularon con mayor densidad. Las aldeas de dependientes militares, la prisión de la Isla Verde, las aulas donde se prohibía hablar lenguas locales, las salas de estar silenciosas: estas memorias en apariencia fragmentadas, tras el levantamiento de la ley marcial en 1987, estallaron como nutrientes de la cultura plural de Taiwán. La perspectiva historiográfica insular entiende esta historia como una “explosión tras la compresión”, el último crisol de la identidad subjetiva taiwanesa.
 
-Lecturas relacionadas: [Incidente del 28 de Febrero](/es/History/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory/), [Periodo de ley marcial](/es/History/martial-law-era/), [Terror Blanco en Taiwán](/es/History/taiwan-white-terror/), Incidente de Formosa: la noche que cambió el destino de Taiwán
+Lecturas relacionadas: [Incidente del 28 de Febrero](/es/history/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory/), [Periodo de ley marcial](/es/history/martial-law-era/), [Terror Blanco en Taiwán](/es/history/taiwan-white-terror/), Incidente de Formosa: la noche que cambió el destino de Taiwán
 
 ## VII. Cuatro tesis centrales de la perspectiva historiográfica insular
 
@@ -133,8 +133,8 @@ En el mapa del mundo, Taiwán es una isla pequeña; en la densidad de la histori
 
 **Lecturas complementarias**:
 
-- [Formosa](/history/福爾摩沙) — De la estafa de Psalmanazar a la reapropiación del Museo Nacional de Historia de Taiwán: deconstrucción e inversión de cuatrocientos años de narrativa occidental del “descubrimiento”
-- [Museo Nacional de Historia de Taiwán](/society/國立臺灣歷史博物館) — Institución nacional de tercer nivel inaugurada en 2011, que convirtió el artículo de Ts’ao Yung-ho de 1990 en la exposición física “Esta tierra y este pueblo: la historia de Taiwán”; es la materialización institucional de la perspectiva historiográfica de la isla de Taiwán
+- [Formosa](/es/history/formosa-historical-name) — De la estafa de Psalmanazar a la reapropiación del Museo Nacional de Historia de Taiwán: deconstrucción e inversión de cuatrocientos años de narrativa occidental del “descubrimiento”
+- [Museo Nacional de Historia de Taiwán](/es/society/national-museum-of-taiwan-history) — Institución nacional de tercer nivel inaugurada en 2011, que convirtió el artículo de Ts’ao Yung-ho de 1990 en la exposición física “Esta tierra y este pueblo: la historia de Taiwán”; es la materialización institucional de la perspectiva historiográfica de la isla de Taiwán
 
 ## Referencias
 

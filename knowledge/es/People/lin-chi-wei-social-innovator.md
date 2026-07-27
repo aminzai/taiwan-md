@@ -86,7 +86,7 @@ En los últimos años, Lin ha añadido otro rol: practicante de “build in publ
 
 Este hábito atraviesa sus dos etapas emprendedoras: la experiencia de crowdfunding y licencias de museos de Shepherd Kit, y los métodos de PLG e IA de Portaly, los cuales ha estructurado para que otros los adopten directamente. De juegos físicos a páginas de creadores y a metodologías de IA, el producto cambió tres veces, pero la línea subyacente sigue: identificar el punto de fricción de una persona, crear una máquina que lo elimine y compartir el proceso con el siguiente que se quede atascado.
 
-Esto también explica una coincidencia curiosa. La página de patrocinio de este conocimiento, [Taiwan.md](/about/taiwan-md), indica “procesado por Portaly” y el enlace de donación dirige a `portaly.cc/taiwanmd/support`.[^12] Cuando un taiwanés quiere hablar por Taiwán y recaudar fondos a nivel global, la capa de cobro está a cargo de otro taiwanés.
+Esto también explica una coincidencia curiosa. La página de patrocinio de este conocimiento, [Taiwan.md](/es/about/founder), indica “procesado por Portaly” y el enlace de donación dirige a `portaly.cc/taiwanmd/support`.[^12] Cuando un taiwanés quiere hablar por Taiwán y recaudar fondos a nivel global, la capa de cobro está a cargo de otro taiwanés.
 
 > **Divulgación transparente:** Este borrador fue escrito por el propio Lin Chi-Wei (CW Lin). El contenido se basa principalmente en reportes de terceros; cuando se indica “según los datos públicos de Lin Chi-Wei”, la fuente es su sitio web o sus propias declaraciones en redes sociales.
 

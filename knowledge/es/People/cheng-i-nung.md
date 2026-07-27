@@ -206,13 +206,13 @@ En qué idioma y sobre qué tema será su próximo álbum, nadie lo sabe ahora. 
 
 **Lecturas complementarias**:
 
-- [魏如萱](/people/魏如萱) — Otra vía de "autodefinición a través de las características vocales" de una cantante taiwanesa de la misma generación (la voz de muñeca de魏如萱 × la honestidad en taiyu de Enno Cheng: dos mecanismos distintos de autoidentificación)
-- [阿爆](/people/阿爆) — También una pionera en "usar un idioma no mainstream para ganar premios principales de los Golden Melody Awards" (álbum del año 2020 de阿爆 en idioma Paiwan × mejor álbum en taiyu 2023 de Enno Cheng: dos puntos temporales en la relación entre idioma y Golden Melody Awards)
-- [陳建騏](/people/陳建騏) — La defensa sistemática de un productor de música pop en lengua china frente a las "voces no estándar"; Enno Cheng usa la no estandarización del idioma,阿爆 usa un idioma aborigen no mainstream,陳建騏 usa la voz de muñeca — tres formas de "expansión de los límites vocales"
-- [Golden Melody Awards](/music/金曲獎) — El significado estructural de las categorías de taiyu en los Golden Melody Awards 34 (2023)
-- [台灣流行音樂](/music/台灣流行音樂) — La evolución del espectro de la composición en taiyu desde la "resistencia local" hasta la "herramienta contemporánea"
-- [台灣獨立音樂](/music/台灣獨立音樂) — La identidad de música independiente de Enno Cheng desde el período de Lady Zero hasta _Mercury Retrograde_
-- [林宥嘉](/people/林宥嘉) — Un caso paralelo de un artista de la misma generación que se retiró de la posición de ídolo pop en mandarín y asumió el rol de productor (Enno Cheng usa un idioma ajeno,林宥嘉 usa la identidad de productor autónomo: dos vías para "liberarse de ser definido")
+- [魏如萱](/es/people/waa-wei-singer) — Otra vía de "autodefinición a través de las características vocales" de una cantante taiwanesa de la misma generación (la voz de muñeca de魏如萱 × la honestidad en taiyu de Enno Cheng: dos mecanismos distintos de autoidentificación)
+- [阿爆](/es/people/aljenljeng-tjaluvie-abao) — También una pionera en "usar un idioma no mainstream para ganar premios principales de los Golden Melody Awards" (álbum del año 2020 de阿爆 en idioma Paiwan × mejor álbum en taiyu 2023 de Enno Cheng: dos puntos temporales en la relación entre idioma y Golden Melody Awards)
+- [陳建騏](/es/people/chen-chien-chi-music-producer) — La defensa sistemática de un productor de música pop en lengua china frente a las "voces no estándar"; Enno Cheng usa la no estandarización del idioma,阿爆 usa un idioma aborigen no mainstream,陳建騏 usa la voz de muñeca — tres formas de "expansión de los límites vocales"
+- [Golden Melody Awards](/es/music/pop-music-and-golden-melody-awards) — El significado estructural de las categorías de taiyu en los Golden Melody Awards 34 (2023)
+- [台灣流行音樂](/es/music/golden-melodies-legacy-taiwan-pop-music) — La evolución del espectro de la composición en taiyu desde la "resistencia local" hasta la "herramienta contemporánea"
+- [台灣獨立音樂](/es/music/indie-music-scene) — La identidad de música independiente de Enno Cheng desde el período de Lady Zero hasta _Mercury Retrograde_
+- [林宥嘉](/es/people/yoga-lin) — Un caso paralelo de un artista de la misma generación que se retiró de la posición de ídolo pop en mandarín y asumió el rol de productor (Enno Cheng usa un idioma ajeno,林宥嘉 usa la identidad de productor autónomo: dos vías para "liberarse de ser definido")
 
 ## Referencias
 

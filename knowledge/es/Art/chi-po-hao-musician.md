@@ -169,10 +169,10 @@ Nuestros oídos no tienen párpados. Pero si tenemos o no oídos dispuestos a es
 
 ## Lecturas complementarias
 
-- **[Lin Ching-yao](/art/林經堯)** — Artista sonoro y tecnológico también vinculado al ecosistema de C-LAB, que pasó del taichí yunshou al arte generativo
-- **[Wang Shin-jen (A-luan)](/art/王新仁)** — Artista digital, cofundador de akaSwap; de la misma generación, pero más orientado a la infraestructura curatorial de NFT
-- **[Hello Nico](/people/Hello-Nico)** — La identidad temprana de Chi Po-hao en una banda independiente; tecladista de sintetizador en el EP _Ciudad Flotante_ de 2014
-- **[Nuevo arte mediático taiwanés](/art/台灣新媒體藝術)** — La posición del arte sonoro dentro del contexto del nuevo arte mediático en Taiwán
+- **[Lin Ching-yao](/es/art/lin-ching-yao-artist)** — Artista sonoro y tecnológico también vinculado al ecosistema de C-LAB, que pasó del taichí yunshou al arte generativo
+- **[Wang Shin-jen (A-luan)](/es/art/wang-hsin-jen-artist)** — Artista digital, cofundador de akaSwap; de la misma generación, pero más orientado a la infraestructura curatorial de NFT
+- **[Hello Nico](/es/people/hello-nico-band)** — La identidad temprana de Chi Po-hao en una banda independiente; tecladista de sintetizador en el EP _Ciudad Flotante_ de 2014
+- **[Nuevo arte mediático taiwanés](/es/art/taiwan-new-media-art)** — La posición del arte sonoro dentro del contexto del nuevo arte mediático en Taiwán
 
 ## Referencias
 

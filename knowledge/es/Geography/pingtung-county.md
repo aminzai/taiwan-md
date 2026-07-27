@@ -204,15 +204,15 @@ La próxima vez que vayas a Pingtung, puedes pasar por Wanjin, caminar hasta el 
 
 ## Lecturas complementarias
 
-- [Charles Le Gendre](/people/李仙得) — Figura de contexto del incidente de Mudan de 1874; las declaraciones de este cónsul estadounidense en Xiamen sobre que los “territorios aborígenes no estaban bajo jurisdicción china” activaron directamente la expedición japonesa a Pingtung.
-- [Incidente del Rover y Tokitok](/history/羅發號事件與卓杞篤) — En 1867, el buque mercante estadounidense Rover naufragó en el extremo sur de la península de Hengchun, en la misma zona marítima y el mismo territorio paiwan que el incidente de los náufragos de Ryukyu de 1871, cuatro años antes.
-- [Perspectiva histórica de Taiwán como isla](/history/台灣島史觀) — El marco insular de Cao Yonghe; la historia multicapa de la península de Pingtung es una de sus manifestaciones más concretas.
-- [Condado de Penghu](/geography/澎湖縣) — Serie de 22 condados y ciudades: la elección soberana de unas islas periféricas que rechazaron dos veces el juego, y que, como Pingtung, tienen una identidad geográfica “más austral/más occidental olvidada”.
-- [Ciudad de Keelung](/geography/基隆市) — Otra ciudad portuaria de la serie de 22 condados y ciudades que la capital no ve; como Pingtung, es un nodo clave omitido por la narrativa central.
-- [Condado de Lienchiang](/geography/連江縣) — Serie de 22 condados y ciudades: la distancia entre el legado militar y la narrativa dominante, legible en paralelo con las memorias superpuestas del incidente de Mudan y el santuario de Kuskus en Pingtung.
-- [Wei Te-sheng](/people/魏德聖) — Cape No. 7 logró 530 millones de dólares taiwaneses de taquilla en Hengchun e inscribió la península del sur de Taiwán en la memoria cinematográfica nacional.
-- [Cultura taiwanesa de voluntariado en desastres](/society/台灣災難志工文化) — Cómo la doble catástrofe de montaña y costa del desastre del 8 de agosto reconfiguró la red de rescate de Taiwán.
-- [Tifones](/nature/颱風) — El récord de 1.897 milímetros en un solo día durante Morakot fue un punto de inflexión en la relación entre Taiwán y los tifones.
+- [Charles Le Gendre](/es/people/charles-le-gendre) — Figura de contexto del incidente de Mudan de 1874; las declaraciones de este cónsul estadounidense en Xiamen sobre que los “territorios aborígenes no estaban bajo jurisdicción china” activaron directamente la expedición japonesa a Pingtung.
+- [Incidente del Rover y Tokitok](/es/history/rover-incident-and-tauketok) — En 1867, el buque mercante estadounidense Rover naufragó en el extremo sur de la península de Hengchun, en la misma zona marítima y el mismo territorio paiwan que el incidente de los náufragos de Ryukyu de 1871, cuatro años antes.
+- [Perspectiva histórica de Taiwán como isla](/es/history/taiwan-island-historiography) — El marco insular de Cao Yonghe; la historia multicapa de la península de Pingtung es una de sus manifestaciones más concretas.
+- [Condado de Penghu](/es/geography/penghu-county) — Serie de 22 condados y ciudades: la elección soberana de unas islas periféricas que rechazaron dos veces el juego, y que, como Pingtung, tienen una identidad geográfica “más austral/más occidental olvidada”.
+- [Ciudad de Keelung](/es/geography/keelung-city) — Otra ciudad portuaria de la serie de 22 condados y ciudades que la capital no ve; como Pingtung, es un nodo clave omitido por la narrativa central.
+- [Condado de Lienchiang](/es/geography/lienchiang-county) — Serie de 22 condados y ciudades: la distancia entre el legado militar y la narrativa dominante, legible en paralelo con las memorias superpuestas del incidente de Mudan y el santuario de Kuskus en Pingtung.
+- [Wei Te-sheng](/es/people/wei-te-sheng-taiwanese-epic-filmmaker) — Cape No. 7 logró 530 millones de dólares taiwaneses de taquilla en Hengchun e inscribió la península del sur de Taiwán en la memoria cinematográfica nacional.
+- [Cultura taiwanesa de voluntariado en desastres](/es/society/taiwan-disaster-volunteer-culture) — Cómo la doble catástrofe de montaña y costa del desastre del 8 de agosto reconfiguró la red de rescate de Taiwán.
+- [Tifones](/es/nature/typhoons-in-taiwan) — El récord de 1.897 milímetros en un solo día durante Morakot fue un punto de inflexión en la relación entre Taiwán y los tifones.
 
 ## Fuentes de imágenes
 

@@ -88,11 +88,11 @@ Hello Nico sigue en el escenario.
 
 **Lecturas complementarias**:
 
-- [凹與山](/people/凹與山) — Otra voz femenina independiente taiwanesa de la década de 2010, que captura las emociones urbanas con sintetizadores
-- [VH（Vast & Hazy）](/people/VH) — Otra vía de ternura dentro de la escena independiente de la misma época, "la banda de la salida"
-- [草東沒有派對](/people/草東沒有派對) — El mismo panorama independiente taiwanés de la década de 2010, la contraparte entre rabia y represión
-- [柯智棠](/people/柯智棠) — Otro cantante independiente taiwanés que regresó tras siete años de silencio, parte del espectro de los "creadores de ritmo lento"
-- [紀柏豪](/art/紀柏豪) — Sintetizador temprano de Hello Nico, luego orientado hacia el arte sonoro, primer premio del MIT Schnitzer Prize
+- [凹與山](/es/people/ao-and-mountain-band) — Otra voz femenina independiente taiwanesa de la década de 2010, que captura las emociones urbanas con sintetizadores
+- [VH（Vast & Hazy）](/es/people/vh-band) — Otra vía de ternura dentro de la escena independiente de la misma época, "la banda de la salida"
+- [草東沒有派對](/es/people/no-party-for-cao-dong) — El mismo panorama independiente taiwanés de la década de 2010, la contraparte entre rabia y represión
+- [柯智棠](/es/people/ke-zhi-tang-musician) — Otro cantante independiente taiwanés que regresó tras siete años de silencio, parte del espectro de los "creadores de ritmo lento"
+- [紀柏豪](/es/art/chi-po-hao-musician) — Sintetizador temprano de Hello Nico, luego orientado hacia el arte sonoro, primer premio del MIT Schnitzer Prize
 
 ## Referencias
 

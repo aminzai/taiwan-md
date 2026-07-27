@@ -3,7 +3,17 @@ title: 'Jeremy Lin: de ser cortado dos veces en 15 días a retirarse como MVP do
 description: 'Campeón estatal en la secundaria sin beca, no seleccionado en el draft, cortado dos veces en 15 días — y luego hizo que el mundo entero conociera el "Linsanity"'
 date: 2026-03-19
 category: 'People'
-tags: ['Personaje', 'Baloncesto', 'Estadounidense de ascendencia taiwanesa', 'NBA', 'Linsanity', 'Universidad de Harvard', 'P.League+', 'TPBL']
+tags:
+  [
+    'Personaje',
+    'Baloncesto',
+    'Estadounidense de ascendencia taiwanesa',
+    'NBA',
+    'Linsanity',
+    'Universidad de Harvard',
+    'P.League+',
+    'TPBL',
+  ]
 subcategory: 'Deportes'
 author: 'Taiwan.md'
 featured: true
@@ -54,15 +64,15 @@ En febrero de 2012, con el base titular de los Knicks lesionado, el entrenador M
 
 Lo que sucedió después no lo esperaba nadie:[^9]
 
-| Fecha | Rival | Puntos | Asistencias |
-| ----- | ----- | ------ | ----------- |
-| 2/4   | Nets   | 25     | 7           |
-| 2/6   | Jazz   | 28     | 8           |
-| 2/8   | Wizards | 23   | 10          |
-| 2/10  | Lakers | 38     | 7           |
-| 2/11  | Timberwolves | 20 | 8       |
-| 2/14  | Raptors | 27    | 11          |
-| 2/15  | Kings  | 10     | 13          |
+| Fecha | Rival        | Puntos | Asistencias |
+| ----- | ------------ | ------ | ----------- |
+| 2/4   | Nets         | 25     | 7           |
+| 2/6   | Jazz         | 28     | 8           |
+| 2/8   | Wizards      | 23     | 10          |
+| 2/10  | Lakers       | 38     | 7           |
+| 2/11  | Timberwolves | 20     | 8           |
+| 2/14  | Raptors      | 27     | 11          |
+| 2/15  | Kings        | 10     | 13          |
 
 Siete victorias consecutivas. Promedio de 24.4 puntos, 9.1 asistencias y 51.2% de tiros de campo.[^9]
 
@@ -104,11 +114,11 @@ La carrera de Lin nunca cumplió las expectativas de nadie — incluidas las suy
 
 **Lecturas relacionadas:**
 
-- [Guo Lingling](/people/郭婞淳) — Atleta taiwanesa de la misma generación, tres veces medallista olímpica y once veces plusmarquista mundial en halterofilia
-- [Tai Tzu-ying](/people/戴資穎) — Atleta taiwanesa que también alcanzó el escenario mundial, reina del bádminton
-- [Jay Chou](/people/周杰倫) — Representante musical taiwés que apareció en la ceremonia de retiro de Lin para rendirle homenaje
+- [Guo Lingling](/es/people/kuo-hsing-chun-olympic-weightlifting-champion) — Atleta taiwanesa de la misma generación, tres veces medallista olímpica y once veces plusmarquista mundial en halterofilia
+- [Tai Tzu-ying](/es/people/tai-tzu-ying) — Atleta taiwanesa que también alcanzó el escenario mundial, reina del bádminton
+- [Jay Chou](/es/people/jay-chou) — Representante musical taiwés que apareció en la ceremonia de retiro de Lin para rendirle homenaje
 - [Relaciones Taiwán-Estados Unidos](/society/台灣與美國關係) — Como taiwanés-estadounidense, Lin representa la trayectoria de la generación de estudiantes taiwaneses que emigraron a Estados Unidos después de 1965
-- [Lee Yang](/people/李洋) — Otra trayectoria de carrera deportiva taiwanesa: de oro olímpico a primer ministro del Ministerio de Deportes
+- [Lee Yang](/es/people/lee-yang-badminton) — Otra trayectoria de carrera deportiva taiwanesa: de oro olímpico a primer ministro del Ministerio de Deportes
 
 ## Referencias
 

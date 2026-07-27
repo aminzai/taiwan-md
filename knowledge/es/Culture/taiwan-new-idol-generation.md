@@ -45,13 +45,13 @@ El 12 de junio de 2020, _Diamond Girls 52 (DD52)_ se estrenó simultáneamente e
 
 La escala de DD52 superaba con creces a cualquier programa de talento de su época. El productor Chan Jen-hsiung (uno de los creadores de programas más talentosos de la industria del entretenimiento taiwanés) colaboró con Liang Ting-hao e invirtió un **presupuesto de producción de 130 millones de dólares taiwaneses**. Esta cifra era entre cinco y seis veces mayor que la de programas similares en Taiwán en ese momento. Solo las canciones originales costaron 18 millones, y las especificaciones técnicas del equipamiento eran 2.5 veces las de _Superstar Avenue_[^2].
 
-104 chicas, con edades promedio entre 13 y 25 años, fueron divididas en cuatro equipos: Hurricane (Picas Tormenta), Blaze Love (Corazón de Llamas), Pink Fun (Diversión Rosa) y White Diamond (Diamante de Nieve)[^3]. Las mentoras principales fueron [Rainie Yang](/people/楊丞琳) y Will Pan, y el panel de mentores invitados incluyó a 17 artistas musicales: Chen Li-nong, EggPlantEgg, Cyndi Wang, [Jam Hsiao](/people/蕭敬騰), Eric Chou, [Waa Wei](/people/魏如萱), 9m88, Julia Wu, entre otros[^3].
+104 chicas, con edades promedio entre 13 y 25 años, fueron divididas en cuatro equipos: Hurricane (Picas Tormenta), Blaze Love (Corazón de Llamas), Pink Fun (Diversión Rosa) y White Diamond (Diamante de Nieve)[^3]. Las mentoras principales fueron [Rainie Yang](/es/people/rainie-yang) y Will Pan, y el panel de mentores invitados incluyó a 17 artistas musicales: Chen Li-nong, EggPlantEgg, Cyndi Wang, [Jam Hsiao](/es/people/jam-hsiao), Eric Chou, [Waa Wei](/es/people/waa-wei-singer), 9m88, Julia Wu, entre otros[^3].
 
 Trece episodios, dos horas cada uno. La final se celebró el 4 de septiembre de 2020.
 
 Blaze Love obtuvo 57.9 puntos, Hurricane 55.4 puntos. Una diferencia de 2.5 puntos[^3].
 
-El equipo campeón, Blaze Love, debutó bajo el nombre "G.O.F" (Girls On Fire). El subcampeón, Hurricane, con seis integrantes, fue fichado por el productor Felipe Z (斐立普), quien fundó AOA Entertainment Lab y las hizo debutar como "[HUR+](/people/HUR-plus)"[^4]. Pink Fun debutó simultáneamente bajo el nombre "PINK FUN"[^3].
+El equipo campeón, Blaze Love, debutó bajo el nombre "G.O.F" (Girls On Fire). El subcampeón, Hurricane, con seis integrantes, fue fichado por el productor Felipe Z (斐立普), quien fundó AOA Entertainment Lab y las hizo debutar como "[HUR+](/es/people/hur-plus-band)"[^4]. Pink Fun debutó simultáneamente bajo el nombre "PINK FUN"[^3].
 
 DD52 ganó el **Premio de Programa de Variedades en la 56.ª edición de los Golden Bell Awards**[^3].
 
@@ -66,7 +66,7 @@ Pero la verdadera historia comenzó después de la final.
 
 Tras el debut de G.O.F, su popularidad decayó rápidamente. PINK FUN enfrentó una crisis de miembros que abandonaron el grupo. De los tres grupos debutados, fue precisamente **HUR, el subcampeón que debutó más tarde, el que más tiempo sobrevivió**[^5].
 
-Los datos comparativos de presencia en redes sociales son brutales: G.O.F, 517 publicaciones; PINK FUN, 621 publicaciones; HUR, 604 publicaciones[^5]. El campeón registró la cifra más baja. Y seis años después, en 2026, de los tres grupos solo HUR (ahora llamado [HUR+](/people/HUR-plus)) seguía lanzando álbumes, organizando conciertos y recaudando fondos para ir a promocionarse en Corea del Sur[^4].
+Los datos comparativos de presencia en redes sociales son brutales: G.O.F, 517 publicaciones; PINK FUN, 621 publicaciones; HUR, 604 publicaciones[^5]. El campeón registró la cifra más baja. Y seis años después, en 2026, de los tres grupos solo HUR (ahora llamado [HUR+](/es/people/hur-plus-band)) seguía lanzando álbumes, organizando conciertos y recaudando fondos para ir a promocionarse en Corea del Sur[^4].
 
 Este vuelco no fue casualidad. El productor de HUR+, Felipe Z, tomó un camino completamente diferente al del campeón: no copió a Corea del Sur.
 
@@ -105,7 +105,7 @@ _Atom Boyz_ ganó el **Premio de Dirección de Cámara en la 58.ª edición de l
 
 En julio de 2023, el formato de los realities de talento evolucionó. _Next Girlz_ no seleccionaba a desconocidas, sino a **grupos femeninos ya debutados**[^8].
 
-Seis grupos se enfrentaron: Orange Daylight, Mint Crystal, Obsidian, Purple Moonlight, Phantom Crimson (la formación limitada de nueve integrantes de [HUR+](/people/HUR-plus)), GenBlue, más un equipo oculto desbloqueado por votación del público llamado Ghost Crystal[^8].
+Seis grupos se enfrentaron: Orange Daylight, Mint Crystal, Obsidian, Purple Moonlight, Phantom Crimson (la formación limitada de nueve integrantes de [HUR+](/es/people/hur-plus-band)), GenBlue, más un equipo oculto desbloqueado por votación del público llamado Ghost Crystal[^8].
 
 La campeona, GenBlue, ganó seis de las nueve rondas de competición, obtuvo como premio un automóvil valorado en un millón de dólares taiwaneses y, el 2 de septiembre de 2024, debutó en Corea del Sur con el sencillo 〈COCOCO〉, convirtiéndose en el primer caso de éxito de exportación del sistema de talento taiwanés al mercado coreano[^8].
 
@@ -151,7 +151,7 @@ Producido por Videoland Television Network y Titan Star Creative, con B2 Chen Ye
 
 Dos particularidades hacen que este programa merezca atención.
 
-La primera: **el punto de entrada es la cultura de las porristas (cheerleaders)**. Las porristas del béisbol profesional taiwanés se convirtieron en un fenómeno cultural independiente a partir de 2023. Nombres como [Lee Da-hye](/people/李多慧), Bian He-lü y Nam Min-jung tenían una influencia en redes sociales que ya trascendía el propio estadio de béisbol. _Cosmic Angels_ canaliza esa energía hacia un reality de ídolos, en lo que constituye un injerto cultural preciso[^11].
+La primera: **el punto de entrada es la cultura de las porristas (cheerleaders)**. Las porristas del béisbol profesional taiwanés se convirtieron en un fenómeno cultural independiente a partir de 2023. Nombres como [Lee Da-hye](/es/people/lee-da-hye), Bian He-lü y Nam Min-jung tenían una influencia en redes sociales que ya trascendía el propio estadio de béisbol. _Cosmic Angels_ canaliza esa energía hacia un reality de ídolos, en lo que constituye un injerto cultural preciso[^11].
 
 La segunda: **el presentador es Eunhyuk de SUPER JUNIOR**. Un ídolo coreano de primer nivel participa directamente en la producción de un reality de ídolos taiwanés como presentador fijo durante toda la temporada, un nivel de implicación que supera con creces la aparición puntual de un mentor invitado. Las concursantes seleccionadas viajaron a Corea del Sur para recibir entrenamiento profesional[^11]. Esta es la primera vez que un reality taiwanés incorpora directamente recursos profesionales coreanos, yendo más allá de la mera imitación de formato.
 
@@ -199,9 +199,9 @@ DD52 produjo tres grupos, Atom Boyz produjo siete grupos, y Atom Boyz 2 produjo 
 
 Pero bajo la gran narrativa de "fácil debutar, difícil mantenerse", algunos casos individuales están abriendo caminos distintos.
 
-Felipe Z, productor de [HUR+](/people/HUR-plus), mantuvo al grupo vivo durante seis años con una estrategia de "no parecerse a un grupo coreano": tres álbumes, recaudación de fondos para ir a promocionarse en Corea del Sur, y una composición de miembros con nacionalidades que abarcan Mongolia, Reino Unido, Indonesia y Vietnam, donde cada nueva integrante corresponde a un mercado objetivo[^4].
+Felipe Z, productor de [HUR+](/es/people/hur-plus-band), mantuvo al grupo vivo durante seis años con una estrategia de "no parecerse a un grupo coreano": tres álbumes, recaudación de fondos para ir a promocionarse en Corea del Sur, y una composición de miembros con nacionalidades que abarcan Mongolia, Reino Unido, Indonesia y Vietnam, donde cada nueva integrante corresponde a un mercado objetivo[^4].
 
-[Lien Ying](/people/連穎) (bailarina principal de HUR+) emprendió en solitario desde el grupo y en 2025 lanzó su EP personal _EZ_, eligiendo una dirección de hip-hop y R&B. Sus fans recaudaron fondos en Dadaocheng para organizar un escenario de celebración de cumpleaños y lanzaron publicidad de apoyo simultáneamente en Taiwán, Japón y Tailandia[^13]. La cultura de apoyo al estilo K-pop está siendo localizada por las comunidades de fans de ídolos taiwaneses.
+[Lien Ying](/es/people/lien-ying) (bailarina principal de HUR+) emprendió en solitario desde el grupo y en 2025 lanzó su EP personal _EZ_, eligiendo una dirección de hip-hop y R&B. Sus fans recaudaron fondos en Dadaocheng para organizar un escenario de celebración de cumpleaños y lanzaron publicidad de apoyo simultáneamente en Taiwán, Japón y Tailandia[^13]. La cultura de apoyo al estilo K-pop está siendo localizada por las comunidades de fans de ídolos taiwaneses.
 
 GenBlue (幻藍小熊), tras ganar _Next Girlz_, realmente fue a debutar en Corea del Sur en 2024. Ozone se convirtió en el grupo masculino de nueva generación en dar un concierto exclusivo en el Taipei Arena. El álbum debut de F.F.O recibió reconocimiento del mercado[^10].
 
@@ -221,12 +221,12 @@ La respuesta aún no ha llegado. Pero quienes siguen en el escenario — el grup
 
 ## Lecturas complementarias
 
-- [HUR+](/people/HUR-plus) — Subcampeón de DD52, el único grupo que sigue lanzando álbumes seis años después. "No parecerse a un grupo coreano es la única forma de no perder contra ellos."
-- [Lien Ying](/people/連穎) — Bailarina principal de HUR+, caso experimental de una miembro de grupo femenino emprendiendo en solitario.
-- [Rainie Yang](/people/楊丞琳) — Mentora principal de DD52, ella misma una historia de veinticinco años de conquista de autonomía desde dentro del sistema de ídolos.
-- [Jolin Tsai](/people/蔡依林) — La "Reina del Esfuerzo" de Taiwán, a quien [Lien Ying](/people/連穎) llama públicamente "mi diosa."
-- [Música pop taiwanesa](/music/台灣流行音樂) — Cómo Taiwán ocupó una posición central en el mapa musical de habla china.
-- [Cultura del béisbol taiwanés](/culture/台灣棒球文化) — El origen de la cultura de porristas, del que parte _Cosmic Angels_.
+- [HUR+](/es/people/hur-plus-band) — Subcampeón de DD52, el único grupo que sigue lanzando álbumes seis años después. "No parecerse a un grupo coreano es la única forma de no perder contra ellos."
+- [Lien Ying](/es/people/lien-ying) — Bailarina principal de HUR+, caso experimental de una miembro de grupo femenino emprendiendo en solitario.
+- [Rainie Yang](/es/people/rainie-yang) — Mentora principal de DD52, ella misma una historia de veinticinco años de conquista de autonomía desde dentro del sistema de ídolos.
+- [Jolin Tsai](/es/people/jolin-tsai) — La "Reina del Esfuerzo" de Taiwán, a quien [Lien Ying](/es/people/lien-ying) llama públicamente "mi diosa."
+- [Música pop taiwanesa](/es/music/golden-melodies-legacy-taiwan-pop-music) — Cómo Taiwán ocupó una posición central en el mapa musical de habla china.
+- [Cultura del béisbol taiwanés](/es/culture/taiwan-baseball-culture) — El origen de la cultura de porristas, del que parte _Cosmic Angels_.
 
 ## Referencias
 

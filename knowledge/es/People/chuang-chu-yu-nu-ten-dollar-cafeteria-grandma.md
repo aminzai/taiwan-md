@@ -61,8 +61,8 @@ En la actualidad, el hijo mayor, Chuang Ji-hsiung, fundó el 2 de mayo de 20
 
 ## Lecturas complementarias
 
-- [Cultura del voluntariado y participación cívica en Taiwán](/society/台灣志工文化與公益參與) — Comprende el contexto a largo plazo del trabajo social y cívico en Taiwán.
-- [Cocina de los barrios militares de Taiwán](/food/台灣眷村菜) — Explora cómo la alimentación popular se forma a través de la migración, la pobreza y la cooperación comunitaria.
+- [Cultura del voluntariado y participación cívica en Taiwán](/es/society/volunteering-and-civic-charity-in-taiwan) — Comprende el contexto a largo plazo del trabajo social y cívico en Taiwán.
+- [Cocina de los barrios militares de Taiwán](/es/food/military-dependents-village-cuisine) — Explora cómo la alimentación popular se forma a través de la migración, la pobreza y la cooperación comunitaria.
 
 ## Referencias
 

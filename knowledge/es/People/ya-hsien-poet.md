@@ -171,9 +171,9 @@ Ya Hsien dejó noventa poemas. En el prólogo de 《El abismo》 citó la evalua
 
 **Lecturas complementarias**:
 
-- [Cheng Chou-yu: el errante que escribió 〈Error〉 y terminó registrado en Kinmen](/people/鄭愁予) — Contemporáneo de la Sociedad Poética Génesis, fallecido en junio de 2025
-- [Período de la ley marcial](/history/戒嚴時期) — Contexto histórico de la censura literaria, el Comando General de Guarnición y la oscuridad como protesta política
-- [Medios taiwaneses y libertad de prensa](/society/台灣媒體與新聞自由) — Contexto histórico del dominio de los suplementos literarios de United Daily News y China Times en el campo literario taiwanés entre las décadas de 1950 y 1990
+- [Cheng Chou-yu: el errante que escribió 〈Error〉 y terminó registrado en Kinmen](/es/people/cheng-chou-yu-poet) — Contemporáneo de la Sociedad Poética Génesis, fallecido en junio de 2025
+- [Período de la ley marcial](/es/history/martial-law-era) — Contexto histórico de la censura literaria, el Comando General de Guarnición y la oscuridad como protesta política
+- [Medios taiwaneses y libertad de prensa](/es/society/media-and-press-freedom-in-taiwan) — Contexto histórico del dominio de los suplementos literarios de United Daily News y China Times en el campo literario taiwanés entre las décadas de 1950 y 1990
 
 ## Referencias
 

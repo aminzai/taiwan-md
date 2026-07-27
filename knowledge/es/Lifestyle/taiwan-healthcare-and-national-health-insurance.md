@@ -175,10 +175,10 @@ _Edificio principal del Hospital de la Universidad Nacional de Taiwán. Fundado 
 
 **Lecturas complementarias**:
 
-- [Ley Médica](/society/醫療法) — La Ley del Seguro de Salud regula las “prestaciones”; la Ley Médica regula las “instituciones”. Juntas forman las dos vías, de prestación e institución, de la gobernanza médica taiwanesa
-- [Evolución de las dos leyes de medicina regenerativa de Taiwán: testimonio de profesionales del sector](/society/台灣再生醫療雙法沿革從業人員告白) — Más allá de los límites de las prestaciones del seguro, las dos leyes de medicina regenerativa aprobadas en 2024 abrieron otra vía de gobernanza fuera del SOP del seguro
-- [Controversias sobre medicamentos veterinarios en Taiwán](/society/台灣動物用藥爭議) — El seguro cubre a personas, no a animales; la controversia sobre medicamentos para mascotas funciona como grupo de contraste del sistema de seguro
-- [Sistema de medicina de desastres de Taiwán](/technology/台灣災難醫療體系) — El seguro sostiene la atención cotidiana; el sistema de medicina de desastres sostiene los periodos extraordinarios. Ambos construyen las dimensiones normal y de emergencia de la gobernanza médica pública de Taiwán
+- [Ley Médica](/es/society/medical-care-act) — La Ley del Seguro de Salud regula las “prestaciones”; la Ley Médica regula las “instituciones”. Juntas forman las dos vías, de prestación e institución, de la gobernanza médica taiwanesa
+- [Evolución de las dos leyes de medicina regenerativa de Taiwán: testimonio de profesionales del sector](/es/society/taiwan-regenerative-medicine-laws) — Más allá de los límites de las prestaciones del seguro, las dos leyes de medicina regenerativa aprobadas en 2024 abrieron otra vía de gobernanza fuera del SOP del seguro
+- [Controversias sobre medicamentos veterinarios en Taiwán](/es/society/taiwan-animal-drug-controversy) — El seguro cubre a personas, no a animales; la controversia sobre medicamentos para mascotas funciona como grupo de contraste del sistema de seguro
+- [Sistema de medicina de desastres de Taiwán](/es/technology/taiwan-disaster-medicine-system) — El seguro sostiene la atención cotidiana; el sistema de medicina de desastres sostiene los periodos extraordinarios. Ambos construyen las dimensiones normal y de emergencia de la gobernanza médica pública de Taiwán
 
 ---
 

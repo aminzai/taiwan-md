@@ -60,7 +60,7 @@ Durante cuatrocientos años, Taiwán fue llamada internacionalmente «Formosa».
 
 ## Ya había gente hace seis mil años
 
-Antes de que llegara cualquier europeo, Taiwán ya había estado habitada durante al menos seis mil años. La [cultura Dabenkeng](/es/History/prehistoric-era-and-indigenous-peoples/) (aprox. 5.000-4.500 a. C.) es la cultura neolítica más temprana conocida en Taiwán y está estrechamente relacionada con la expansión de los pueblos austronesios[^9]. Estudios lingüísticos y genéticos muestran que Taiwán muy probablemente fue la tierra de origen del conjunto de los pueblos austronesios, distribuidos por el Pacífico y el Índico, con una población total de 400 millones de personas.
+Antes de que llegara cualquier europeo, Taiwán ya había estado habitada durante al menos seis mil años. La [cultura Dabenkeng](/es/history/prehistoric-era-and-indigenous-peoples/) (aprox. 5.000-4.500 a. C.) es la cultura neolítica más temprana conocida en Taiwán y está estrechamente relacionada con la expansión de los pueblos austronesios[^9]. Estudios lingüísticos y genéticos muestran que Taiwán muy probablemente fue la tierra de origen del conjunto de los pueblos austronesios, distribuidos por el Pacífico y el Índico, con una población total de 400 millones de personas.
 
 Los registros chinos sobre Taiwán son anteriores a los europeos, pero igualmente imprecisos. Aún existe debate académico sobre si el «Yizhou» mencionado en el _Sanguozhi_ y el «Liuqiu» mencionado en el _Libro de Sui_ se referían a Taiwán[^10].
 
@@ -68,7 +68,7 @@ Los registros chinos sobre Taiwán son anteriores a los europeos, pero igualment
 
 ## Los primeros europeos que realmente pisaron la isla
 
-En 1624, la Compañía Neerlandesa de las Indias Orientales estableció el fuerte Zeelandia en Tayouan, en el sur de Taiwán, hoy Anping, e inició 38 años de [dominio colonial](/es/History/dutch-spanish-and-koxinga-era/)[^11].
+En 1624, la Compañía Neerlandesa de las Indias Orientales estableció el fuerte Zeelandia en Tayouan, en el sur de Taiwán, hoy Anping, e inició 38 años de [dominio colonial](/es/history/dutch-spanish-and-koxinga-era/)[^11].
 
 El misionero neerlandés George Candidius escribió en 1628 la primera etnografía seria de Taiwán producida en el mundo occidental. Describió a las _inibs_ del pueblo siraya, conocidas en chino como _wangyi_ —sacerdotisas—, así como las prácticas de aborto forzado, las concepciones del alma y los rituales sacrificiales[^12]. No era una fantasía al estilo Psalmanazar, sino un registro de observación escrito por alguien que vivió realmente en una comunidad.
 
@@ -78,9 +78,9 @@ En 1670, el neerlandés Olfert Dapper publicó _Gedenkwaerdig bedryf der Nederla
 
 Después de 1856, la escritura occidental sobre Taiwán entró en una nueva etapa. Ya no se trataba de registros fragmentarios de misioneros y comerciantes, sino de investigaciones científicas sistemáticas e informes diplomáticos.
 
-[Robert Swinhoe](/es/People/robert-swinhoe-naturalist/) fue el primero. Cónsul británico en Taiwán, escribió 52 artículos en cuatro años y registró 227 especies de aves. Lo que él veía eran especies.
+[Robert Swinhoe](/es/people/robert-swinhoe-naturalist/) fue el primero. Cónsul británico en Taiwán, escribió 52 artículos en cuatro años y registró 227 especies de aves. Lo que él veía eran especies.
 
-[Charles Le Gendre](/es/People/charles-le-gendre/) fue el segundo. Cónsul estadounidense en Xiamen, viajó ocho veces a Taiwán y dejó 1.600 páginas de manuscritos. Lo que él veía era inteligencia estratégica.
+[Charles Le Gendre](/es/people/charles-le-gendre/) fue el segundo. Cónsul estadounidense en Xiamen, viajó ocho veces a Taiwán y dejó 1.600 páginas de manuscritos. Lo que él veía era inteligencia estratégica.
 
 El oficial francés Eugène Garnot fue el tercero. Llegó a Taiwán con el ejército durante la guerra franco-china de 1884-1885 y escribió unas memorias de expedición. Lo que él veía era un campo de batalla.
 
@@ -93,7 +93,7 @@ Estos observadores tenían algo en común: todos venían de fuera de la isla y e
 
 ## De ser escrita a escribirse a sí misma
 
-En 1990, el historiador Ts'ao Yung-ho propuso la [historiografía insular de Taiwán](/es/History/taiwan-island-historiography/): tomar la isla como sujeto y observar cómo las culturas llegadas de fuera interactuaron y se reconfiguraron en ella durante distintos períodos[^16].
+En 1990, el historiador Ts'ao Yung-ho propuso la [historiografía insular de Taiwán](/es/history/taiwan-island-historiography/): tomar la isla como sujeto y observar cómo las culturas llegadas de fuera interactuaron y se reconfiguraron en ella durante distintos períodos[^16].
 
 Esta perspectiva invirtió toda la narrativa: Taiwán no es el apéndice de ningún imperio ni un objeto «descubierto». Es una isla en la que, durante seis mil años, distintos grupos humanos han desembarcado, vivido y partido. Portugueses, neerlandeses, españoles, la dinastía Qing, Japón y el gobierno nacionalista son apenas capítulos dentro de la historia de la isla.
 
@@ -111,11 +111,11 @@ Las personas de la isla siguen caminándolo.
 
 **Lecturas complementarias**:
 
-- [Historiografía insular de Taiwán](/history/台灣島史觀) — el marco propuesto por Ts'ao Yung-ho en 1990: mirar la historia tomando la isla como sujeto, no desde la perspectiva de ningún imperio
-- [Prehistoria y pueblos indígenas](/history/史前時代與原住民) — los seis mil años de Taiwán antes del «descubrimiento» europeo, la cultura Dabenkeng y la tierra de origen de los pueblos austronesios
-- [Período neerlandés, español y de Ming Zheng](/history/荷西明鄭時期) — los 38 años de los primeros colonizadores europeos en Taiwán; la etnografía de Candidius comienza aquí
-- [Robert Swinhoe](/people/史溫侯) — un caso típico de observador occidental del siglo XIX: miró Taiwán con ojos científicos y dejó registros más duraderos que su carrera diplomática
-- [Museo Nacional de Historia de Taiwán](/society/國立臺灣歷史博物館) — en 2014, el NMTH publicó la traducción china anotada por Chen Cheng-san de la obra original de Davidson de 1903, _The Island of Formosa, Past and Present_, una concreción institucional de «pasar de ser escrita a escribirse a sí misma»
+- [Historiografía insular de Taiwán](/es/history/taiwan-island-historiography) — el marco propuesto por Ts'ao Yung-ho en 1990: mirar la historia tomando la isla como sujeto, no desde la perspectiva de ningún imperio
+- [Prehistoria y pueblos indígenas](/es/history/prehistoric-era-and-indigenous-peoples) — los seis mil años de Taiwán antes del «descubrimiento» europeo, la cultura Dabenkeng y la tierra de origen de los pueblos austronesios
+- [Período neerlandés, español y de Ming Zheng](/es/history/dutch-spanish-and-koxinga-era) — los 38 años de los primeros colonizadores europeos en Taiwán; la etnografía de Candidius comienza aquí
+- [Robert Swinhoe](/es/people/robert-swinhoe-naturalist) — un caso típico de observador occidental del siglo XIX: miró Taiwán con ojos científicos y dejó registros más duraderos que su carrera diplomática
+- [Museo Nacional de Historia de Taiwán](/es/society/national-museum-of-taiwan-history) — en 2014, el NMTH publicó la traducción china anotada por Chen Cheng-san de la obra original de Davidson de 1903, _The Island of Formosa, Past and Present_, una concreción institucional de «pasar de ser escrita a escribirse a sí misma»
 
 ## Referencias
 

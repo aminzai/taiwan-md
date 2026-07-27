@@ -242,10 +242,10 @@ La diferencia está en lo que pasó después de aquella mañana de septiembre de
 
 **Lecturas recomendadas**:
 
-- [The Reporter: diez años rescatando el periodismo de investigación de ser un producto comercial a ser un bien público](/society/報導者): otra historia en la que los lectores taiwaneses votan con su dinero para sostener un bien común; los donantes del Reportero y los patrocinadores de Jinxuan son la misma energía.
-- [Arte de nuevos medios en Taiwán](/art/台灣新媒體藝術): otro grupo de creadores taiwaneses en la misma encrucijada entre diseño, tecnología e identidad cultural.
-- [Movimientos sociales y participación ciudadana](/society/社會運動與公民參與): la energía de «pelearse por asuntos públicos» que se vio en la polémica sobre Jinxuan tiene un contexto mucho más amplio en la sociedad taiwanesa.
-- [Cables submarinos](/technology/海底電纜): otra infraestructura que todo el mundo usa a diario pero que casi nadie ve.
+- [The Reporter: diez años rescatando el periodismo de investigación de ser un producto comercial a ser un bien público](/es/society/the-reporter-investigative-journalism): otra historia en la que los lectores taiwaneses votan con su dinero para sostener un bien común; los donantes del Reportero y los patrocinadores de Jinxuan son la misma energía.
+- [Arte de nuevos medios en Taiwán](/es/art/taiwan-new-media-art): otro grupo de creadores taiwaneses en la misma encrucijada entre diseño, tecnología e identidad cultural.
+- [Movimientos sociales y participación ciudadana](/es/society/social-movements-and-civic-participation): la energía de «pelearse por asuntos públicos» que se vio en la polémica sobre Jinxuan tiene un contexto mucho más amplio en la sociedad taiwanesa.
+- [Cables submarinos](/es/technology/submarine-cables-taiwan-lifeline): otra infraestructura que todo el mundo usa a diario pero que casi nadie ve.
 
 ## Referencias
 

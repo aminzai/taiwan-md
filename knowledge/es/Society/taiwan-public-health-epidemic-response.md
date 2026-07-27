@@ -91,12 +91,12 @@ Veintitrés años después del cierre del Hospital Ho Ping, aquel edificio sigue
 
 **Lecturas complementarias**
 
-- [La sala de fumar de Taipéi: la caja de cristal que respira en una ciudad libre de humo](/society/台北吸菸室) — El capítulo más reciente de una marcha de cuarenta años contra el tabaco, con el frente trasladado de los interiores a la calle
+- [La sala de fumar de Taipéi: la caja de cristal que respira en una ciudad libre de humo](/es/society/taipei-smoking-room) — El capítulo más reciente de una marcha de cuarenta años contra el tabaco, con el frente trasladado de los interiores a la calle
 
-- [Seguro Nacional de Salud de Taiwán](/lifestyle/台灣醫療與全民健保) — La infraestructura base del sistema de prevención epidémica: la base de datos del seguro de salud de 23,4 millones de personas
-- [Audrey Tang](/people/唐鳳) — La ministra digital detrás del mapa de mascarillas
-- [Sistema médico de desastres de Taiwán](/technology/台灣災難醫療體系) — Del terremoto 921 al SARS: cómo los desastres impulsan la evolución médica
-- [Leyes gemelas de medicina regenerativa × 30 años de mRNA](/society/台灣再生醫療雙法沿革從業人員告白) — La narrativa de doble línea de la compra de BNT 2021 y la legislación de terapia celular: perspectiva ampliada del artículo sobre prevención epidémica COVID
+- [Seguro Nacional de Salud de Taiwán](/es/lifestyle/taiwan-healthcare-and-national-health-insurance) — La infraestructura base del sistema de prevención epidémica: la base de datos del seguro de salud de 23,4 millones de personas
+- [Audrey Tang](/es/people/audrey-tang) — La ministra digital detrás del mapa de mascarillas
+- [Sistema médico de desastres de Taiwán](/es/technology/taiwan-disaster-medicine-system) — Del terremoto 921 al SARS: cómo los desastres impulsan la evolución médica
+- [Leyes gemelas de medicina regenerativa × 30 años de mRNA](/es/society/taiwan-regenerative-medicine-laws) — La narrativa de doble línea de la compra de BNT 2021 y la legislación de terapia celular: perspectiva ampliada del artículo sobre prevención epidémica COVID
 
 ## Referencias
 

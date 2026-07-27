@@ -5,7 +5,15 @@ date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '政治與民主'
-tags: ['presidente', 'médico', 'político', 'Partido Progresista Democrático', 'salud pública', 'Tainan']
+tags:
+  [
+    'presidente',
+    'médico',
+    'político',
+    'Partido Progresista Democrático',
+    'salud pública',
+    'Tainan',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -159,23 +167,29 @@ El mantenimiento de relaciones diplomáticas tras su toma de cargo también ha s
 
 **Lecturas complementarias**:
 
-- [2026 鄭習會：國共領導人十年再會的十分鐘](/society/2026鄭習會與國共十年再會) — El otro protagonista de esta puesta en escena, deliberadamente mantenido fuera del encuadre
-- [蕭美琴](/people/蕭美琴) — La compañera de fórmula de Lai Ching-te, de representante en Washington a vicepresidenta «gata guerrera»
-- [台灣國防與軍事現代化](/society/台灣國防與軍事現代化) — La política más representativa del mandato de Lai Ching-te: presupuesto especial de 1.25 billones y formación del batallón de tanques M1A2T
-- [台灣民主轉型](/history/台灣民主轉型) — Que el hijo de un minero de Wanli pueda llegar a ser presidente es en sí mismo producto de la transición democrática
-- [李洋](/people/李洋) — El miembro más joven del gabinete en la historia, juramentado personalmente por Lai Ching-te, primer ministro del recién creado Ministerio de Deportes
-- [沈伯洋](/people/沈伯洋) — Legislador del DPP incluido en la misma lista de «elementos obstinados independentistas de Taiwán», primer político taiwánés electo formalmente imputado por China por el delito de secesión en 2025
-- [卓榮泰](/people/卓榮泰) — Primer primer ministro bajo Lai Ching-te en 2024, 38 años como coordinador, en diciembre de 2025 se convirtió en el primer primer ministro en la historia constitucional en negarse a cofirmar la Ley de Distribución Fiscal
-- [徐巧芯](/people/徐巧芯) — Legisladora del Kuomintang que chocó repetidamente con Lai Ching-te desde la tribuna de interpelaciones, principal impulsora de la versión de 800 mil millones en la controversia de adquisiciones militares de 2026
-- [台灣與史瓦帝尼](/society/台灣與史瓦帝尼) — Primera visita a un país con relaciones diplomáticas tras la toma de posesión de Lai Ching-te, el momento histórico en que el rey de Eswatini envió un A340 especial a Taipéi en mayo de 2026
-- [想想論壇](/society/想想論壇) — Cuando Tsai Ing-wen relanzó la plataforma en octubre de 2025, el titular de «Comentario Exprés» del United Daily News, «¿Lai Ching-te todavía en camino?», establecía un contraste implícito, enmarcando la renovación de la plataforma como un recordatorio de la línea de gobierno de Lai
+- [2026 鄭習會：國共領導人十年再會的十分鐘](/es/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — El otro protagonista de esta puesta en escena, deliberadamente mantenido fuera del encuadre
+- [蕭美琴](/es/people/hsiao-bi-khim) — La compañera de fórmula de Lai Ching-te, de representante en Washington a vicepresidenta «gata guerrera»
+- [台灣國防與軍事現代化](/es/society/taiwan-defense-modernization) — La política más representativa del mandato de Lai Ching-te: presupuesto especial de 1.25 billones y formación del batallón de tanques M1A2T
+- [台灣民主轉型](/es/history/taiwan-democratization) — Que el hijo de un minero de Wanli pueda llegar a ser presidente es en sí mismo producto de la transición democrática
+- [李洋](/es/people/lee-yang-badminton) — El miembro más joven del gabinete en la historia, juramentado personalmente por Lai Ching-te, primer ministro del recién creado Ministerio de Deportes
+- [沈伯洋](/es/people/puma-shen) — Legislador del DPP incluido en la misma lista de «elementos obstinados independentistas de Taiwán», primer político taiwánés electo formalmente imputado por China por el delito de secesión en 2025
+- [卓榮泰](/es/people/cho-jung-tai) — Primer primer ministro bajo Lai Ching-te en 2024, 38 años como coordinador, en diciembre de 2025 se convirtió en el primer primer ministro en la historia constitucional en negarse a cofirmar la Ley de Distribución Fiscal
+- [徐巧芯](/es/people/hsu-chiao-hsin) — Legisladora del Kuomintang que chocó repetidamente con Lai Ching-te desde la tribuna de interpelaciones, principal impulsora de la versión de 800 mil millones en la controversia de adquisiciones militares de 2026
+- [台灣與史瓦帝尼](/es/society/taiwan-eswatini-relations) — Primera visita a un país con relaciones diplomáticas tras la toma de posesión de Lai Ching-te, el momento histórico en que el rey de Eswatini envió un A340 especial a Taipéi en mayo de 2026
+- [想想論壇](/es/society/thinking-taiwan-forum) — Cuando Tsai Ing-wen relanzó la plataforma en octubre de 2025, el titular de «Comentario Exprés» del United Daily News, «¿Lai Ching-te todavía en camino?», establecía un contraste implícito, enmarcando la renovación de la plataforma como un recordatorio de la línea de gobierno de Lai
 
 ## Referencias
 
 [^1]: Sitio web oficial de la Oficina Presidencial de la República de China, biografía presidencial, https://www.president.gov.tw/Page/694
+
 [^2]: Entrada «Lai Ching-te» en Wikipedia, https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E6%B8%85%E5%BE%B7
+
 [^3]: Entrevistas y reportajes relacionados de la revista CommonWealth a lo largo de los años, https://www.cw.com.tw/article/5128853
+
 [^4]: Datos académicos de la Facultad de Medicina de la Universidad Nacional de Cheng Kung, https://www.ncku.edu.tw/
+
 [^5]: Boletín de la elección presidencial de 2024 de la Comisión Central de Elecciones, https://bulletin.cec.gov.tw/
+
 [^6]: Informes anuales de gestión del Gobierno Municipal de Tainan, https://www.tainan.gov.tw/News.aspx?n=4975&sms=13709
+
 [^7]: Entrada «Lai Ching-te» en Wikipedia, registro de estudios en la Escuela de Salud Pública de la Universidad de Harvard (2000–2003), https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E6%B8%85%E5%BE%B7

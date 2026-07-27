@@ -5,7 +5,15 @@ date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '體育'
-tags: ['deportes', 'béisbol', 'MLB', 'Yankees', 'lanzador taiwanés en Estados Unidos', 'selección de Chinese Taipei']
+tags:
+  [
+    'deportes',
+    'béisbol',
+    'MLB',
+    'Yankees',
+    'lanzador taiwanés en Estados Unidos',
+    'selección de Chinese Taipei',
+  ]
 readingTime: 9
 # design_rationale:
 #   why_this_hook: "從『並列勝投王』而非『亞軍』切入，這個細節的精確度代表了王建民整個職業生涯的質感：他不是第二，他是並列第一，只是台灣媒體報錯了。"
@@ -105,7 +113,7 @@ Del abridor de 19 victorias que aparecía en los televisores de las tiendas de d
 >
 > La carrera de bases del 15 de junio de 2008 es uno de los “pequeños acontecimientos con grandes consecuencias” más discutidos en la historia del béisbol. Un movimiento normal al correr las bases cambió todo el resto de la carrera de un lanzador. Pero Wang no dejó que ese día lo definiera: su regreso de 2016, el documental de 2018 y su identidad como parte del cuerpo técnico campeón del Premier12 2024 son las respuestas que siguió escribiendo.
 
-La presencia de lanzadores taiwaneses en Grandes Ligas después de Chen Wei-yin heredó la posibilidad que Wang había abierto: que un lanzador asiático pudiera sobrevivir en la AL East. Pero la posición de Wang dentro del relato del béisbol taiwanés supera la de un precursor técnico. Fue el punto de ignición que llevó la fiebre nacional por el béisbol taiwanés a su máximo histórico; esa energía se transformó después en atención sostenida hacia lanzadores taiwaneses en Estados Unidos como [Chen Wei-yin](/es/People/chen-wei-yin-mlb-pitcher/) y [Hong-Chih Kuo](/es/People/hong-chih-kuo-taiwanese-left-handed-pitcher/), y también en la resonancia nacional de la noche del campeonato del Premier12.
+La presencia de lanzadores taiwaneses en Grandes Ligas después de Chen Wei-yin heredó la posibilidad que Wang había abierto: que un lanzador asiático pudiera sobrevivir en la AL East. Pero la posición de Wang dentro del relato del béisbol taiwanés supera la de un precursor técnico. Fue el punto de ignición que llevó la fiebre nacional por el béisbol taiwanés a su máximo histórico; esa energía se transformó después en atención sostenida hacia lanzadores taiwaneses en Estados Unidos como [Chen Wei-yin](/es/people/chen-wei-yin-mlb-pitcher/) y [Hong-Chih Kuo](/es/people/hong-chih-kuo-taiwanese-left-handed-pitcher/), y también en la resonancia nacional de la noche del campeonato del Premier12.
 
 Desde la Escuela Secundaria Jianxing de Tainan, el Yankee Stadium, aquel segundo de torcedura corriendo las bases, los Kansas City Royals, el documental _Late Life_ y el puesto de coach de bullpen de Chinese Taipei, la carrera de Wang es una línea que se extendió pese a múltiples subidas y bajadas, no una historia de un solo pico. Aquella lista de nombres de la alineación que las abuelas de las tiendas de desayuno llegaron a memorizar es hoy una marca fija en la memoria beisbolera de Taiwán; y al frente de esa lista está un zurdo de Tainan que salió de Jianxing, hizo ganar a los Yankees durante dos temporadas con su sinker y luego siguió permaneciendo junto al béisbol.
 

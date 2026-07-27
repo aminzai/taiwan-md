@@ -94,10 +94,10 @@ El resultado en sí mismo resulta casi inverosímil —y entonces miras con más
 
 **Lecturas complementarias**:
 
-- [André Chiang](/people/江振誠) — De la Escuela Técnica de Comercio de Tamsui al puesto 14 del mundo: la historia de otro chef que conquistó el escenario internacional con sabores taiwaneses
-- [Mapa cultural de los 16 pueblos indígenas de Taiwán](/culture/台灣原住民族16族文化地圖) — El contexto cultural del vino de mijo Paiwan que inspiró el pan de lichi y rosa
-- [Cultura de los mercados nocturnos](/food/夜市文化) — La base de la gastronomía popular taiwanesa: de dónde nace la estética de los ingredientes de Wu Pao-chun
-- [Huang Shanliao](/people/黃山料) — Otro taiwanés que ganó en un escenario mundial (la Semana de la Moda de Londres), pero tomó el camino opuesto: abandonó el oficio y convirtió «ser visto» en un superventas
+- [André Chiang](/es/people/andre-chiang-taiwanese-culinary-innovator) — De la Escuela Técnica de Comercio de Tamsui al puesto 14 del mundo: la historia de otro chef que conquistó el escenario internacional con sabores taiwaneses
+- [Mapa cultural de los 16 pueblos indígenas de Taiwán](/es/culture/indigenous-peoples-16-tribes-cultural-map) — El contexto cultural del vino de mijo Paiwan que inspiró el pan de lichi y rosa
+- [Cultura de los mercados nocturnos](/es/food/night-market-culture) — La base de la gastronomía popular taiwanesa: de dónde nace la estética de los ingredientes de Wu Pao-chun
+- [Huang Shanliao](/es/people/huang-shan-liao) — Otro taiwanés que ganó en un escenario mundial (la Semana de la Moda de Londres), pero tomó el camino opuesto: abandonó el oficio y convirtió «ser visto» en un superventas
 
 ## Referencias
 

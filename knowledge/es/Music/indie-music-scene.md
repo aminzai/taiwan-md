@@ -101,7 +101,7 @@ La figura clave que impulsó ese cambio fue Freddy Lim, vocalista de Chthonic. S
 
 El académico Ho Tung-hung señaló en su investigación sobre Crystal Records una diferencia fundamental entre el concepto taiwanés de “independiente” y el angloestadounidense: en Reino Unido y Estados Unidos, indie era la declaración de guerra de sellos pequeños contra grandes compañías; en Taiwán, sellos de distintos tamaños ya coexistían. Rock Records era al mismo tiempo el mayor sello “independiente” de Asia y colaboraba con transnacionales. En Taiwán, “independiente” era más una actitud estética y una práctica DIY que una oposición estructural de la industria.
 
-Esto explica un fenómeno que suele confundir a observadores externos. [Mayday](/es/Music/mayday-band/) se formó en 1997 en la escuela secundaria afiliada a la Universidad Normal Nacional de Taiwán, ganó popularidad inicialmente en live houses y publicó en 1999 su primer álbum, Mayday’s First Album. Luego firmó con un gran sello, sus giras crecieron cada vez más, llenó el Madison Square Garden de Nueva York —las entradas se agotaron en 48 horas— y CNN lo llamó “los Beatles del mundo chino”. Pero muchos taiwaneses aún dicen que Mayday “viene de una banda independiente”.
+Esto explica un fenómeno que suele confundir a observadores externos. [Mayday](/es/music/mayday-band/) se formó en 1997 en la escuela secundaria afiliada a la Universidad Normal Nacional de Taiwán, ganó popularidad inicialmente en live houses y publicó en 1999 su primer álbum, Mayday’s First Album. Luego firmó con un gran sello, sus giras crecieron cada vez más, llenó el Madison Square Garden de Nueva York —las entradas se agotaron en 48 horas— y CNN lo llamó “los Beatles del mundo chino”. Pero muchos taiwaneses aún dicen que Mayday “viene de una banda independiente”.
 
 En el contexto taiwanés, “independiente” alude a cómo empezaste, no a cuán grande eres ahora. La vaguedad de esta definición es a la vez la debilidad de la música independiente taiwanesa —carece de fronteras industriales claras— y su arma secreta: hace desaparecer los límites de “lo independiente” y lo convierte en un campo capaz de alojar todo tipo de voces. Desde el noise punk de LTK Commune hasta la frescura delicada de Cheer Chen, desde los experimentos electrónicos de Lim Giong hasta el rock en taiwanés de EggPlantEgg, todos pueden encontrar un lugar en ese campo. El éxito comercial de Mayday no “traicionó” el espíritu independiente; al contrario, demostró algo a las bandas posteriores: se puede pasar del sótano al estadio sin tener que disculparse por ello.
 
@@ -200,11 +200,11 @@ Lo que Jen Chiang-ta dijo a esos niños quizá sea la misma frase que la música
 
 **Lecturas relacionadas**:
 
-- [De Deserts Chang a Anpu](/music/張懸與安溥) — La transformación identitaria de una voz representativa de la música independiente taiwanesa, desde el incidente de la bandera hasta la política de identidad detrás del cambio de nombre
-- [Historia del desarrollo del rock taiwanés](/music/台灣搖滾樂發展史) — El recorrido completo del rock en Taiwán, de canciones prohibidas a corriente principal
-- [Cultura de festivales musicales en Taiwán](/music/台灣音樂祭文化) — Cómo el Hohaiyan Rock Festival se convirtió en incubadora de música independiente
-- [LTK Commune](/music/濁水溪公社) — Treinta años de punk en taiwanés bajo tierra; tras su disolución, su primera nominación a los Golden Melody Awards terminó con el premio a Mejor Álbum en Taiwanés
-- [Sodagreen](/music/蘇打綠) — Del Premio Golden Melody de NCCU en 2001 a “Chi Tang Yin Ye” en 2023: veinte años completos del arco de una banda indie taiwanesa, incluyendo el litigio por la marca y la resistencia bajo el alias “Yu Ding Xi”
+- [De Deserts Chang a Anpu](/es/music/deserts-chang-and-anpu) — La transformación identitaria de una voz representativa de la música independiente taiwanesa, desde el incidente de la bandera hasta la política de identidad detrás del cambio de nombre
+- [Historia del desarrollo del rock taiwanés](/es/music/taiwan-rock-from-underground-to-mainstream) — El recorrido completo del rock en Taiwán, de canciones prohibidas a corriente principal
+- [Cultura de festivales musicales en Taiwán](/es/music/taiwan-music-festival-culture) — Cómo el Hohaiyan Rock Festival se convirtió en incubadora de música independiente
+- [LTK Commune](/es/music/loh-tsui-kang-commune) — Treinta años de punk en taiwanés bajo tierra; tras su disolución, su primera nominación a los Golden Melody Awards terminó con el premio a Mejor Álbum en Taiwanés
+- [Sodagreen](/es/music/sodagreen) — Del Premio Golden Melody de NCCU en 2001 a “Chi Tang Yin Ye” en 2023: veinte años completos del arco de una banda indie taiwanesa, incluyendo el litigio por la marca y la resistencia bajo el alias “Yu Ding Xi”
 
 ## Referencias
 

@@ -216,11 +216,11 @@ Y la mayoría pan-azul del Legislativo no presentó realmente una moción de cen
 
 **Lecturas complementarias**:
 
-- [Lai Ching-te](/people/賴清德) — La persona que puso a Cho Jung-tai en la presidencia del Yuan Ejecutivo, de hijo de minero a 16.º presidente de Taiwán
-- [Hsiao Bi-khim](/people/蕭美琴) — La vicepresidenta que entregó el sello oficial a Cho Jung-tai en la ceremonia de traspaso del 20 de mayo de 2024, de representante en Washington de vuelta a Taipéi
-- [Cheng Li-wen](/people/鄭麗文) — La presidenta del Kuomintang que habló ante Xi Jinping en Pekín en abril de 2026, una de las rivales políticas del bloque pan-azul que bloqueó los 1,25 billones
-- [Defensa nacional y modernización militar de Taiwán](/society/台灣國防與軍事現代化) — El contexto político completo de los «tres strikes» de Cho Jung-tai, el presupuesto especial de 1,25 billones y el Escudo de Taiwán
-- [Relaciones diplomáticas y países aliados de Taiwán](/society/台灣邦交國與國際外交) — El acuerdo arancelario EE.UU.-Taiwán de 2026 y el marco diplomático del segundo mandato de Trump, la mayor variable externa del gabinete de Cho
+- [Lai Ching-te](/es/people/lai-ching-te) — La persona que puso a Cho Jung-tai en la presidencia del Yuan Ejecutivo, de hijo de minero a 16.º presidente de Taiwán
+- [Hsiao Bi-khim](/es/people/hsiao-bi-khim) — La vicepresidenta que entregó el sello oficial a Cho Jung-tai en la ceremonia de traspaso del 20 de mayo de 2024, de representante en Washington de vuelta a Taipéi
+- [Cheng Li-wen](/es/people/cheng-li-wun) — La presidenta del Kuomintang que habló ante Xi Jinping en Pekín en abril de 2026, una de las rivales políticas del bloque pan-azul que bloqueó los 1,25 billones
+- [Defensa nacional y modernización militar de Taiwán](/es/society/taiwan-defense-modernization) — El contexto político completo de los «tres strikes» de Cho Jung-tai, el presupuesto especial de 1,25 billones y el Escudo de Taiwán
+- [Relaciones diplomáticas y países aliados de Taiwán](/es/society/taiwan-diplomatic-allies-and-international-relations) — El acuerdo arancelario EE.UU.-Taiwán de 2026 y el marco diplomático del segundo mandato de Trump, la mayor variable externa del gabinete de Cho
 
 ## Referencias
 

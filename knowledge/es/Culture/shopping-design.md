@@ -164,11 +164,11 @@ Por eso la portada de «Se busca diseño» es también un examen. Lo que quiere 
 
 ## Lecturas complementarias
 
-- [Revistas](/culture/雜誌) — cien años de evolución de la revista taiwanesa; Shopping Design es el caso representativo de la rama de las «revistas blandas»
-- [Revista Ren Jian](/culture/人間雜誌) — otra alma de la revista taiwanesa, que distinguió y nombró a la sociedad de abajo con fotoperiodismo; es la otra cara de la moneda respecto a la revista de compra de diseño
-- [Historia de la publicidad en Taiwán](/culture/台灣廣告史) — el origen de la formación de Huang Wei-jung y Li Hui-chen; para entender cómo llevó a las revistas su destreza narrativa aquella generación de «Ideology»
-- [Ceremonia del té y estética cotidiana en Taiwán](/culture/台灣茶道與生活美學) — cómo creció la estética de la vida en Taiwán hasta convertirse en algo comentable y comprable
-- [Aaron Nieh](/people/聶永真) — otro nombre del mismo contexto del diseño taiwanés que lo empujó ante los ojos del gran público
+- [Revistas](/es/culture/magazine) — cien años de evolución de la revista taiwanesa; Shopping Design es el caso representativo de la rama de las «revistas blandas»
+- [Revista Ren Jian](/es/culture/renjian-magazine) — otra alma de la revista taiwanesa, que distinguió y nombró a la sociedad de abajo con fotoperiodismo; es la otra cara de la moneda respecto a la revista de compra de diseño
+- [Historia de la publicidad en Taiwán](/es/culture/taiwan-advertising-history) — el origen de la formación de Huang Wei-jung y Li Hui-chen; para entender cómo llevó a las revistas su destreza narrativa aquella generación de «Ideology»
+- [Ceremonia del té y estética cotidiana en Taiwán](/es/culture/taiwan-tea-ceremony-and-aesthetic-living) — cómo creció la estética de la vida en Taiwán hasta convertirse en algo comentable y comprable
+- [Aaron Nieh](/es/people/nieh-yung-jen) — otro nombre del mismo contexto del diseño taiwanés que lo empujó ante los ojos del gran público
 
 ## Referencias
 

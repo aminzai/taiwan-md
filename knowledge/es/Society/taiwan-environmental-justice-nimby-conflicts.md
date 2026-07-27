@@ -222,13 +222,13 @@ Las decisiones ambientales en una democracia deben basarse en información sufic
 
 **Lecturas complementarias**:
 
-- [Salas de fumadores de Taipéi: la caja de cristal que respira en una ciudad libre de humo](/society/台北吸菸室) — Dónde construir la sala de fumadores y si atraerá a personas sin hogar: un dilema NIMBY a escala de calle
+- [Salas de fumadores de Taipéi: la caja de cristal que respira en una ciudad libre de humo](/es/society/taipei-smoking-room) — Dónde construir la sala de fumadores y si atraerá a personas sin hogar: un dilema NIMBY a escala de calle
 
-- [El debate sobre la energía nuclear en Taiwán](/society/台灣與核能的討論) — Los Tao de Lanyu soportan los desechos nucleares pero quedan al margen del debate: la fractura más profunda entre NIMBY y justicia ambiental en la controversia nuclear
-- [Las construcciones de chapa](/society/鐵皮屋) — La demolición de Wenzizhun como caso paradigmático de justicia ambiental: contaminación, desmantelamiento y dilemas de reasentamiento en un asentamiento industrial de 400 hectáreas de construcciones de chapa
-- [Vivienda social y justicia habitacional](/society/社會住宅與居住正義) — La dimensión política de la problemática de la vivienda: oferta de vivienda social y reforma del mercado de alquiler
-- [Lu Shiow-yen](/people/盧秀燕) — La política que ganó Taichung en 2018 con la agenda del aire: la central térmica de Taichung, PM2.5 y el campo de batalla concreto de la transición energética
-- [Crisis climática y transición a cero emisiones en Taiwán](/nature/台灣氣候危機與淨零轉型) — 97.672 barriles en Lanyu, referéndum de la central nuclear n.º 3 en 2025, la tercera terminal de gas en los arrecifes de algas, un déficit geotérmico 27 veces superior: las fracturas de justicia ambiental en cada ruta de la transición energética
+- [El debate sobre la energía nuclear en Taiwán](/es/society/taiwan-nuclear-debate) — Los Tao de Lanyu soportan los desechos nucleares pero quedan al margen del debate: la fractura más profunda entre NIMBY y justicia ambiental en la controversia nuclear
+- [Las construcciones de chapa](/es/society/taiwan-tin-shed-houses) — La demolición de Wenzizhun como caso paradigmático de justicia ambiental: contaminación, desmantelamiento y dilemas de reasentamiento en un asentamiento industrial de 400 hectáreas de construcciones de chapa
+- [Vivienda social y justicia habitacional](/es/society/social-housing-and-housing-justice) — La dimensión política de la problemática de la vivienda: oferta de vivienda social y reforma del mercado de alquiler
+- [Lu Shiow-yen](/es/people/lu-hsiu-yan) — La política que ganó Taichung en 2018 con la agenda del aire: la central térmica de Taichung, PM2.5 y el campo de batalla concreto de la transición energética
+- [Crisis climática y transición a cero emisiones en Taiwán](/es/nature/taiwan-climate-change-net-zero-transition) — 97.672 barriles en Lanyu, referéndum de la central nuclear n.º 3 en 2025, la tercera terminal de gas en los arrecifes de algas, un déficit geotérmico 27 veces superior: las fracturas de justicia ambiental en cada ruta de la transición energética
 
 ## Referencias
 

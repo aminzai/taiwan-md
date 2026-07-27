@@ -1,20 +1,28 @@
 ---
-title: "La industria musical de Taiwán y la era del streaming: el camino de transformación de las tiendas de discos a las plataformas digitales"
-description: "Análisis de cómo la industria musical taiwanesa pasó de la época dorada de las tiendas de discos a la crisis de la piratería, desarrolló tempranamente KKBOX, la primera plataforma legal de streaming musical del mundo, y llegó al actual ecosistema de música digital en el que convive con Spotify y Apple Music"
+title: 'La industria musical de Taiwán y la era del streaming: el camino de transformación de las tiendas de discos a las plataformas digitales'
+description: 'Análisis de cómo la industria musical taiwanesa pasó de la época dorada de las tiendas de discos a la crisis de la piratería, desarrolló tempranamente KKBOX, la primera plataforma legal de streaming musical del mundo, y llegó al actual ecosistema de música digital en el que convive con Spotify y Apple Music'
 date: 2026-03-19
-author: "Taiwan.md"
-category: "Music"
-subcategory: "獨立與搖滾"
-tags: ["industria musical", "música en streaming", "KKBOX", "música digital", "tiendas de discos", "música independiente"]
+author: 'Taiwan.md'
+category: 'Music'
+subcategory: '獨立與搖滾'
+tags:
+  [
+    'industria musical',
+    'música en streaming',
+    'KKBOX',
+    'música digital',
+    'tiendas de discos',
+    'música independiente',
+  ]
 readingTime: 15
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
-translatedFrom: "Music/台灣音樂產業與串流時代.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:f71f072559f005b7"
-sourceBodyHash: "sha256:39fa5a6a860830cc"
-translatedAt: "2026-05-20T05:08:32+08:00"
+translatedFrom: 'Music/台灣音樂產業與串流時代.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:f71f072559f005b7'
+sourceBodyHash: 'sha256:39fa5a6a860830cc'
+translatedAt: '2026-05-20T05:08:32+08:00'
 ---
 
 # La industria musical de Taiwán y la era del streaming: el camino de transformación de las tiendas de discos a las plataformas digitales
@@ -41,7 +49,7 @@ La relevancia de este caso de transformación reside en que muestra cómo una in
 
 La década de 1990 fue la época dorada de la industria discográfica taiwanesa. En aquel momento había más de 3.000 tiendas de discos en toda la isla, desde cadenas como Rose Records, Tachung Records y Chia Chia Record hasta pequeñas tiendas en esquinas y callejones, que en conjunto formaban una densa red de consumo musical. Cada viernes era el "día de lanzamiento de nuevas canciones"; los fanáticos acudían especialmente a las tiendas de discos para comprar los álbumes más recientes, y los vendedores solían conocer bien las características de cada lanzamiento.
 
-En esa época era normal que un álbum vendiera cientos de miles de copias. El primer álbum de [Jay Chou](/es/People/jay-chou/), 《Jay》, publicado en 2000, vendió más de 300.000 copias solo en Taiwán, mientras que 《People Life, Ocean Wild》 (2001), de [Mayday](/es/Music/mayday-band/), alcanzó un récord de 500.000 copias vendidas.[^1] Las tiendas de discos no eran solo lugares para comprar música, sino también espacios de sociabilidad para los aficionados.
+En esa época era normal que un álbum vendiera cientos de miles de copias. El primer álbum de [Jay Chou](/es/people/jay-chou/), 《Jay》, publicado en 2000, vendió más de 300.000 copias solo en Taiwán, mientras que 《People Life, Ocean Wild》 (2001), de [Mayday](/es/music/mayday-band/), alcanzó un récord de 500.000 copias vendidas.[^1] Las tiendas de discos no eran solo lugares para comprar música, sino también espacios de sociabilidad para los aficionados.
 
 ### Un ecosistema completo de estructura industrial
 
@@ -147,7 +155,7 @@ Los ingresos de los músicos independientes ya no dependen de un único canal. A
 
 La era del streaming volvió a la industria musical más orientada a los datos. El número de reproducciones, la tasa de escucha completa y el porcentaje de incorporación a listas de reproducción son indicadores concretos para evaluar el desempeño de una canción.
 
-〈Blue and White Porcelain〉, de [Jay Chou](/es/People/jay-chou/), acumula más de 100 millones de reproducciones en Spotify Taiwán, y 〈Stubborn〉, de [Mayday](/es/Music/mayday-band/), también supera los 80 millones. Estos datos reflejan la vitalidad sostenida de las canciones clásicas en la era digital.
+〈Blue and White Porcelain〉, de [Jay Chou](/es/people/jay-chou/), acumula más de 100 millones de reproducciones en Spotify Taiwán, y 〈Stubborn〉, de [Mayday](/es/music/mayday-band/), también supera los 80 millones. Estos datos reflejan la vitalidad sostenida de las canciones clásicas en la era digital.
 
 ### El impacto de las recomendaciones personalizadas
 
@@ -165,7 +173,7 @@ La pandemia de COVID-19 golpeó con fuerza a la industria de la música en vivo 
 
 ### Auge de los conciertos en línea
 
-Durante la pandemia, numerosos cantantes empezaron a experimentar con conciertos en línea. El concierto virtual que [Mayday](/es/Music/mayday-band/) realizó en 2020 atrajo a más de 30 millones de espectadores conectados simultáneamente, estableciendo un récord para las transmisiones en vivo de música en chino.
+Durante la pandemia, numerosos cantantes empezaron a experimentar con conciertos en línea. El concierto virtual que [Mayday](/es/music/mayday-band/) realizó en 2020 atrajo a más de 30 millones de espectadores conectados simultáneamente, estableciendo un récord para las transmisiones en vivo de música en chino.
 
 ### El ascenso del podcast
 
@@ -219,12 +227,21 @@ Para el público, la música disponible es más abundante que en cualquier otra 
 ## Referencias
 
 [^1]: El álbum de Mayday de 2001 es 《People Life, Ocean Wild》; 《Second Round》 fue publicado en 2011. Puede consultarse la [entrada de Wikipedia sobre Mayday](https://zh.wikipedia.org/wiki/%E4%BA%94%E6%9C%88%E5%A4%A9)
+
 [^2]: [Sitio oficial de KKBOX](https://www.kkbox.com/) — Trayectoria de desarrollo y presentación de servicios de KKBOX
+
 [^3]: [《Historia del desarrollo de la industria musical de Taiwán》, Oficina de Industrias Audiovisuales y Música Popular del Ministerio de Cultura](https://www.bamid.gov.tw/) — Estadísticas industriales oficiales
+
 [^4]: [《El streaming musical transforma el ecosistema musical de Taiwán》, INSIDE, 2020](https://www.inside.com.tw/article/21245-streaming-music-taiwan) — Análisis del mercado de música en streaming
+
 [^5]: [《Chris Lin, fundador de KKBOX》, Business Weekly, 2018](https://www.businessweekly.com.tw/focus/blog/3007895) — Entrevista con el fundador de KKBOX
+
 [^6]: [《Análisis de la estrategia de Spotify para ingresar al mercado taiwanés》, Brain Magazine, 2014](https://www.brain.com.tw/news/articlecontent?ID=19234) — Análisis de la competencia entre plataformas internacionales
+
 [^7]: [《No Party For Cao Dong: aprendizajes del éxito digital de la música independiente》, The News Lens, 2017](https://www.thenewslens.com/article/68492) — Análisis de caso de música independiente
+
 [^8]: [《Informe de investigación sobre el mercado taiwanés de música en streaming》, MIC, 2021](https://mic.iii.org.tw/aisp/reports.aspx?id=CDOC20210324001) — Estadísticas de mercado
+
 [^9]: [《El impacto de COVID-19 en la industria musical taiwanesa》, Ministerio de Cultura, 2021](https://www.moc.gov.tw/information_250_137321.html) — Análisis del impacto de la pandemia
+
 [^10]: [《Derechos de autor digitales y mecanismos de reparto en la música digital》, Asociación de Derechos de Autor Musicales de Taiwán](http://www.must.org.tw/) — Explicación de los mecanismos de distribución de derechos

@@ -166,11 +166,11 @@ _Septiembre de 2017, Desierto Digital Edición 34 "Hermenéutica del Archipiéla
 
 ## Lecturas adicionales
 
-- [Zheng Wenqi](/people/鄭文琦) — 12 años de práctica del archipiélago del editor en jefe de Desierto Digital: de autor invitado de _Colección_ a iniciador del "Archipiélago de Archivos"
-- [Arte Contemporáneo](/art/當代藝術) — Mapa discursivo del arte contemporáneo de Taiwán, la posición de Desierto Digital como plataforma curatorial de la perspectiva del sur
-- [Arte Nuevo Medio de Taiwán](/art/台灣新媒體藝術) — Linaje del arte nuevo medio de Taiwán desde ET@T (1995) hasta la Fundación de Arte Digital (2008)
-- [Wang Fu Rui](/people/王福瑞) — Fundó la revista NOISE en 1993, editor del prototipo impreso de la música experimental de Taiwán, con un linaje conectado a la institución matriz de hosting de Desierto Digital
-- [Curadores taiwaneses y la construcción de la cultura artística](/art/台灣策展人與藝術文化建構) — Linaje de curadores de Taiwán, Zheng Wenqi como caso de "red curatorial de residencias transnacionales"
+- [Zheng Wenqi](/es/people/cheng-wen-chi) — 12 años de práctica del archipiélago del editor en jefe de Desierto Digital: de autor invitado de _Colección_ a iniciador del "Archipiélago de Archivos"
+- [Arte Contemporáneo](/es/art/contemporary-art) — Mapa discursivo del arte contemporáneo de Taiwán, la posición de Desierto Digital como plataforma curatorial de la perspectiva del sur
+- [Arte Nuevo Medio de Taiwán](/es/art/taiwan-new-media-art) — Linaje del arte nuevo medio de Taiwán desde ET@T (1995) hasta la Fundación de Arte Digital (2008)
+- [Wang Fu Rui](/es/people/fujui-wang) — Fundó la revista NOISE en 1993, editor del prototipo impreso de la música experimental de Taiwán, con un linaje conectado a la institución matriz de hosting de Desierto Digital
+- [Curadores taiwaneses y la construcción de la cultura artística](/es/art/taiwanese-curators-and-artistic-cultural-construction) — Linaje de curadores de Taiwán, Zheng Wenqi como caso de "red curatorial de residencias transnacionales"
 
 ## Fuentes de imágenes
 

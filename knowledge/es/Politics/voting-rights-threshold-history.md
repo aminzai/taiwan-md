@@ -196,11 +196,11 @@ La escala temporal de los sistemas democráticos supera la de una generación. L
 
 ## Lecturas complementarias
 
-- [Qué son las elecciones locales unificadas](/politics/九合一選舉是什麼): origen del sistema de elecciones locales de nueve cargos que se celebrarán en noviembre de 2026
+- [Qué son las elecciones locales unificadas](/es/politics/nine-in-one-elections-explained): origen del sistema de elecciones locales de nueve cargos que se celebrarán en noviembre de 2026
 - [Elecciones locales unificadas de 2026](/politics/2026 九合一選舉): calendario, candidaturas y seguimiento de temas de estas elecciones
 - [Movimiento Sunflower](/history/太陽花學運): evento emblemático del despertar de la conciencia política de la generación joven en 2014
-- [Democratización](/history/民主化): la estructura a largo plazo de la democratización de Taiwán en la posguerra
-- [Transición democrática de Taiwán](/history/台灣民主轉型): el cambio institucional de la autoritarismo a la democracia
+- [Democratización](/es/history/taiwan-democratization-history): la estructura a largo plazo de la democratización de Taiwán en la posguerra
+- [Transición democrática de Taiwán](/es/history/taiwan-democratization): el cambio institucional de la autoritarismo a la democracia
 - [Hub de Política](/politics): panorama general del conocimiento sobre el sistema político de Taiwán
 
 ---

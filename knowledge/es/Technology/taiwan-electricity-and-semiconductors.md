@@ -176,10 +176,10 @@ Los semiconductores han hecho que el mundo necesite a Taiwán. La electricidad l
 
 ## Lecturas complementarias
 
-- [Cadena de suministro de hardware de IA](/technology/AI硬體供應鏈) — cómo convierte Taiwán la demanda en la nube en máquinas listas para enviar.
-- [El agua de los semiconductores y los recursos hídricos de Taiwán](/technology/半導體用水與台灣水資源) — cómo entra la fabricación de obleas en los embalses, las sequías y la gestión del agua regenerada.
-- [Fábricas de la cadena de IA en el extranjero](/technology/AI供應鏈海外設廠) — cómo ata la construcción de fábricas fuera la cadena de suministro, la electricidad y la infraestructura local.
-- [Empresas taiwanesas: TSMC](/economy/台灣企業：台積電) — cómo el modelo de fundición pura se convirtió en el cuello de botella mundial de los chips de vanguardia.
+- [Cadena de suministro de hardware de IA](/es/technology/ai-hardware-supply-chain) — cómo convierte Taiwán la demanda en la nube en máquinas listas para enviar.
+- [El agua de los semiconductores y los recursos hídricos de Taiwán](/es/technology/semiconductor-water-use-and-taiwan-water-resources) — cómo entra la fabricación de obleas en los embalses, las sequías y la gestión del agua regenerada.
+- [Fábricas de la cadena de IA en el extranjero](/es/technology/ai-supply-chain-overseas-manufacturing) — cómo ata la construcción de fábricas fuera la cadena de suministro, la electricidad y la infraestructura local.
+- [Empresas taiwanesas: TSMC](/es/economy/tsmc) — cómo el modelo de fundición pura se convirtió en el cuello de botella mundial de los chips de vanguardia.
 
 ## Fuentes de imágenes
 

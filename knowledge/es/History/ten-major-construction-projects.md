@@ -89,7 +89,7 @@ El legado más valioso que esta construcción dejó a Taiwán quizás no sean es
 
 ## Lecturas adicionales
 
-- [Carreteras nacionales](/lifestyle/高速公路) — La Carretera Zhongshan es solo el primer proyecto de los Diez Proyectos de Construcción. Este artículo profundiza en su historia de cincuenta años de poder y costos, conectada con la Carretera MacArthur y el Túnel de Xueshan.
+- [Carreteras nacionales](/es/lifestyle/national-highway-system) — La Carretera Zhongshan es solo el primer proyecto de los Diez Proyectos de Construcción. Este artículo profundiza en su historia de cincuenta años de poder y costos, conectada con la Carretera MacArthur y el Túnel de Xueshan.
 
 ## Referencias
 

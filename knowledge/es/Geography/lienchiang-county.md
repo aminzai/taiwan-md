@@ -227,16 +227,16 @@ Fuzhou está a 16 kilómetros. Taiwán está a 200 kilómetros. **Esa distancia 
 
 ## Lecturas complementarias
 
-- [Islas periféricas y cultura marítima](/geography/離島與海洋文化) — La comunidad insular que Matsu forma junto con Penghu, Kinmen, Lanyu y Ludao, y las distintas vías de la cultura marítima
-- [Rasgos geográficos y formación de las islas de Taiwán](/geography/台灣島嶼地理特色與形成) — Contraste entre la geología granítica del archipiélago de Matsu y los mecanismos de formación de otras islas taiwanesas
-- [Ciudad de Keelung](/geography/基隆市) — El ferry Tai-Ma tarda entre 8 y 10 horas desde Keelung hasta Nangan; Keelung es el punto de conexión física entre Matsu y la isla principal de Taiwán
-- [Periodo de ley marcial](/history/戒嚴時期) — La isla principal de Taiwán levantó la ley marcial en 1987, mientras Kinmen y Matsu continuaron hasta el fin de la administración militar de frente de guerra en 1992; leer este texto junto a aquel permite comparar dos versiones de la ley marcial
-- [Defensa nacional y modernización militar de Taiwán](/society/台灣國防與軍事現代化) — Comparación entre los 4.000 efectivos actuales del Comando de Defensa de Matsu y la estructura de 50.000 soldados en su apogeo
-- [Diversidad lingüística y cultura de lenguas maternas](/culture/語言多樣性與母語文化) — La posición del min oriental, o matsunés, como cuarta gran lengua materna de Taiwán
-- [Leyendas de Mazu y el Gran Taoísta](/culture/媽祖與大道公的傳說) — La creencia en la cavidad sagrada del templo Tianhou de Matsu y su diferencia con la Mazu minnanesa de la isla principal de Taiwán
-- [Formas costeras y paisajes marinos de Taiwán](/geography/台灣海岸地形與海洋地景) — La estructura marítima de los 9,25 kilómetros entre el archipiélago de Matsu y la península de Beijiao
-- [Condado de Pingtung](/geography/屏東縣) — Serie de 22 condados y ciudades: incidente de Mudan de 1874, tifón Morakot de 2009 y cinco pueblos indígenas conviviendo con 780.000 habitantes; al igual que Matsu, es un nodo clave omitido por las narrativas centrales
-- [Condado de Kinmen](/geography/金門縣) — Texto hermano de la serie de 22 condados y ciudades, el otro condado insular de la provincia de Fujian. Comparte administración militar de frente de guerra desde 1956, abolición en 1992 y “tres pequeños enlaces” desde 2001, pero Kinmen habla min meridional con acento de Tong’an, está a 1,8 kilómetros de Xiamen y fue escenario de las batallas decisivas de Guningtou y del 23 de agosto; pertenece al mismo sistema que Lienchiang, pero con otra carne histórica
+- [Islas periféricas y cultura marítima](/es/geography/offshore-islands-and-maritime-culture) — La comunidad insular que Matsu forma junto con Penghu, Kinmen, Lanyu y Ludao, y las distintas vías de la cultura marítima
+- [Rasgos geográficos y formación de las islas de Taiwán](/es/geography/geography-and-geology) — Contraste entre la geología granítica del archipiélago de Matsu y los mecanismos de formación de otras islas taiwanesas
+- [Ciudad de Keelung](/es/geography/keelung-city) — El ferry Tai-Ma tarda entre 8 y 10 horas desde Keelung hasta Nangan; Keelung es el punto de conexión física entre Matsu y la isla principal de Taiwán
+- [Periodo de ley marcial](/es/history/martial-law-era) — La isla principal de Taiwán levantó la ley marcial en 1987, mientras Kinmen y Matsu continuaron hasta el fin de la administración militar de frente de guerra en 1992; leer este texto junto a aquel permite comparar dos versiones de la ley marcial
+- [Defensa nacional y modernización militar de Taiwán](/es/society/taiwan-defense-modernization) — Comparación entre los 4.000 efectivos actuales del Comando de Defensa de Matsu y la estructura de 50.000 soldados en su apogeo
+- [Diversidad lingüística y cultura de lenguas maternas](/es/culture/linguistic-diversity-and-mother-tongue-culture) — La posición del min oriental, o matsunés, como cuarta gran lengua materna de Taiwán
+- [Leyendas de Mazu y el Gran Taoísta](/es/culture/mazu-dadaogong-legend) — La creencia en la cavidad sagrada del templo Tianhou de Matsu y su diferencia con la Mazu minnanesa de la isla principal de Taiwán
+- [Formas costeras y paisajes marinos de Taiwán](/es/geography/taiwan-coastal-landforms-and-seascapes) — La estructura marítima de los 9,25 kilómetros entre el archipiélago de Matsu y la península de Beijiao
+- [Condado de Pingtung](/es/geography/pingtung-county) — Serie de 22 condados y ciudades: incidente de Mudan de 1874, tifón Morakot de 2009 y cinco pueblos indígenas conviviendo con 780.000 habitantes; al igual que Matsu, es un nodo clave omitido por las narrativas centrales
+- [Condado de Kinmen](/es/geography/kinmen-county) — Texto hermano de la serie de 22 condados y ciudades, el otro condado insular de la provincia de Fujian. Comparte administración militar de frente de guerra desde 1956, abolición en 1992 y “tres pequeños enlaces” desde 2001, pero Kinmen habla min meridional con acento de Tong’an, está a 1,8 kilómetros de Xiamen y fue escenario de las batallas decisivas de Guningtou y del 23 de agosto; pertenece al mismo sistema que Lienchiang, pero con otra carne histórica
 
 ## Fuentes de imágenes
 

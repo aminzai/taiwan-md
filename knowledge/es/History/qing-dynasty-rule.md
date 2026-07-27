@@ -90,5 +90,5 @@ Este artículo utiliza el término "**período de gobierno Qing**" (清治時期
 
 ## Lecturas complementarias
 
-- [La campaña de Yiwei](/history/乙未之役) — El final del período de gobierno Qing: la cesión de Taiwán por el Tratado de Shimonoseki en 1895 y la resistencia de la República Democrática de Taiwán
-- [Período holandés-español-Zheng](/history/荷西明鄭時期) — La historia de Taiwán anterior al período de gobierno Qing
+- [La campaña de Yiwei](/es/history/1895-taiwan-resistance-war) — El final del período de gobierno Qing: la cesión de Taiwán por el Tratado de Shimonoseki en 1895 y la resistencia de la República Democrática de Taiwán
+- [Período holandés-español-Zheng](/es/history/dutch-spanish-and-koxinga-era) — La historia de Taiwán anterior al período de gobierno Qing

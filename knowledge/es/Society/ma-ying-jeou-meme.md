@@ -152,9 +152,9 @@ La formación y difusión de los memes de Ma Ying-jeou no solo constituyen un mi
 
 ## Lecturas complementarias
 
-- [Ma Ying-jeou](/people/馬英九) — Biografía del protagonista de los memes: el artífice del deshielo entre las dos costas, símbolo de la generación de los 22K, para comprender el contexto político detrás de los memes
-- [Memes taiwaneses](/culture/台灣迷因) — Panorama general del ecosistema de memes en Taiwán: la enciclopedia de los usuarios de PTT, las imágenes para mayores (_zhangbei tu_), los VTubers y la evolución de los distintos tipos de memes
-- [Imágenes para mayores](/culture/長輩圖) — Otra vía de difusión de memes políticos: el lenguaje visual-político que se propaga desde los grupos de LINE
+- [Ma Ying-jeou](/es/people/ma-ying-jeou-cross-strait-reconciliation-leader) — Biografía del protagonista de los memes: el artífice del deshielo entre las dos costas, símbolo de la generación de los 22K, para comprender el contexto político detrás de los memes
+- [Memes taiwaneses](/es/culture/taiwan-meme-culture) — Panorama general del ecosistema de memes en Taiwán: la enciclopedia de los usuarios de PTT, las imágenes para mayores (_zhangbei tu_), los VTubers y la evolución de los distintos tipos de memes
+- [Imágenes para mayores](/es/culture/elder-greeting-images) — Otra vía de difusión de memes políticos: el lenguaje visual-político que se propaga desde los grupos de LINE
 
 ## Fuentes
 

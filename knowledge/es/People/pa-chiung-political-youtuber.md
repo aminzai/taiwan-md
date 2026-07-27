@@ -75,9 +75,9 @@ A abril de 2026, _Diario del Aprendiz Cinematográfico Fun TV_ superaba los 1,3 
 
 **Lectura ampliada**:
 
-- [Puma Shen](/people/沈伯洋) — diputado taiwanés y cofundador de Kuma Academy, también señalado por el PCCh; en 2025 se convirtió en el primer político electo procesado por China por "secesión".
-- [Operaciones cognitivas](/society/認知作戰) — el marco completo de la guerra informativa china sobre Taiwán; Pa Chiung como ejemplo de la herramienta de resistencia desde el humor.
-- [Lai Ching-te](/people/賴清德) — presidente taiwanés también en la lista de "elementos secesionistas obstinados".
+- [Puma Shen](/es/people/puma-shen) — diputado taiwanés y cofundador de Kuma Academy, también señalado por el PCCh; en 2025 se convirtió en el primer político electo procesado por China por "secesión".
+- [Operaciones cognitivas](/es/society/cognitive-warfare-against-taiwan) — el marco completo de la guerra informativa china sobre Taiwán; Pa Chiung como ejemplo de la herramienta de resistencia desde el humor.
+- [Lai Ching-te](/es/people/lai-ching-te) — presidente taiwanés también en la lista de "elementos secesionistas obstinados".
 
 ---
 

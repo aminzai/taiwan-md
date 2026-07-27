@@ -115,15 +115,15 @@ Pero ese seudónimo anónimo sigue ahí.
 
 **Lecturas complementarias**:
 
-- [Industria de semiconductores](/technology/半導體產業) — El contexto industrial en el que se libró la campaña anti-Tsung Kuang: la estructura de Taiwán desde la subcontratación hasta el liderazgo en encapsulado/prueba y diseño, y la frontera invisible de "el capital chino no puede entrar"
-- [Empresa taiwanesa: TSMC](/economy/台灣企業：台積電) — La montaña sagrada nacional que Tsung Kuang no se atrevió a tocar, pero que definió la autonomía tecnológica de Taiwán
-- [Empresa taiwanesa: ASE Technology](/economy/台灣企業：日月月光半導體) — El gigante del encapsulado y prueba que fue también objetivo de capital durante el incidente de Tsung Kuang en 2015, otro punto de referencia en la línea de frente de semiconductores de Hsu Mei-hua
-- [Movimientos sociales y participación ciudadana](/society/社會運動與公民參與) — De la Revolución del Girasol a la Gran Revocación, la evolución del modelo de movilización mediante seudónimos ciudadanos anónimos como el de Hsu Mei-hua en Taiwán
-- [Sistema democrático](/society/民主制度) — El derecho de revocación como herramienta de democracia directa en el sistema representativo taiwanés, y el debate sobre el umbral detrás de los "7 distritos que superaron el 25%" en 2025
-- [Reunión Zheng-Xi de 2026: diez años del reencuentro de líderes del Kuomintang y el PCCh](/society/2026鄭習會與國共十年再會) — Tras el fracaso de la Gran Revocación, cómo continúa el guion político a través del estrecho
-- [Cheng Li-wen](/people/鄭麗文) — Lado opuesto en la Gran Revocación: la figura política central que lideró la respuesta del Kuomintang en 2025 y propuso la "cooperación azul-blanco"
-- [Han Kuo-yu](/people/韓國瑜) — Las reformas legislativas bajo su presidencia del Yuan Legislativo fueron el detonante de la Gran Revocación de 2025
-- [Reforma judicial taiwanesa y sistema de detención preventiva](/society/台灣司法改革與預防性羈押制度) — Otra línea de frente de tensión entre la sociedad civil y el gobierno en el Yuan Legislativo en 2025
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry) — El contexto industrial en el que se libró la campaña anti-Tsung Kuang: la estructura de Taiwán desde la subcontratación hasta el liderazgo en encapsulado/prueba y diseño, y la frontera invisible de "el capital chino no puede entrar"
+- [Empresa taiwanesa: TSMC](/es/economy/tsmc) — La montaña sagrada nacional que Tsung Kuang no se atrevió a tocar, pero que definió la autonomía tecnológica de Taiwán
+- [Empresa taiwanesa: ASE Technology](/economy/台灣企業：日月光半導體) — El gigante del encapsulado y prueba que fue también objetivo de capital durante el incidente de Tsung Kuang en 2015, otro punto de referencia en la línea de frente de semiconductores de Hsu Mei-hua
+- [Movimientos sociales y participación ciudadana](/es/society/social-movements-and-civic-participation) — De la Revolución del Girasol a la Gran Revocación, la evolución del modelo de movilización mediante seudónimos ciudadanos anónimos como el de Hsu Mei-hua en Taiwán
+- [Sistema democrático](/es/society/democratic-system) — El derecho de revocación como herramienta de democracia directa en el sistema representativo taiwanés, y el debate sobre el umbral detrás de los "7 distritos que superaron el 25%" en 2025
+- [Reunión Zheng-Xi de 2026: diez años del reencuentro de líderes del Kuomintang y el PCCh](/es/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Tras el fracaso de la Gran Revocación, cómo continúa el guion político a través del estrecho
+- [Cheng Li-wen](/es/people/cheng-li-wun) — Lado opuesto en la Gran Revocación: la figura política central que lideró la respuesta del Kuomintang en 2025 y propuso la "cooperación azul-blanco"
+- [Han Kuo-yu](/es/people/han-kuo-yu) — Las reformas legislativas bajo su presidencia del Yuan Legislativo fueron el detonante de la Gran Revocación de 2025
+- [Reforma judicial taiwanesa y sistema de detención preventiva](/es/society/taiwan-judicial-reform-and-preventive-detention) — Otra línea de frente de tensión entre la sociedad civil y el gobierno en el Yuan Legislativo en 2025
 
 ## Referencias
 

@@ -45,7 +45,7 @@ Tras graduarse en 1978, Li Guoxiu se enfrentó a una decisión vital. Su familia
 
 ## El período en el Taller de Actuación
 
-En 1984, Li Guoxiu cofundó el Taller de Actuación (_Biaoyan Gongzuofang_) junto con [Stan Lai](/es/People/stan-lai-theater-innovation-master/) y Li Liqun[^1] (con Jin Shijie como colaborador, no como cofundador), marcando el inicio de su carrera teatral profesional. Durante su tiempo en el taller, participó en la creación de obras clásicas como _Aquella noche, contamos xiangsheng_, demostrando un destacado talento actoral.
+En 1984, Li Guoxiu cofundó el Taller de Actuación (_Biaoyan Gongzuofang_) junto con [Stan Lai](/es/people/stan-lai-theater-innovation-master/) y Li Liqun[^1] (con Jin Shijie como colaborador, no como cofundador), marcando el inicio de su carrera teatral profesional. Durante su tiempo en el taller, participó en la creación de obras clásicas como _Aquella noche, contamos xiangsheng_, demostrando un destacado talento actoral.
 
 En el Taller de Actuación, Li Guoxiu aprendió métodos de creación teatral moderna, en particular técnicas de improvisación colectiva. Estos dos años de formación teatral le confirmaron que deseaba seguir un camino independiente para la comedia taiwanesa.
 

@@ -92,7 +92,7 @@ A través de Renjian, Chen Yingzhen formó a un grupo de destacados trabajadores
 
 ## Logros literarios y lugar histórico
 
-El lugar de Chen Yingzhen en la historia literaria taiwanesa es elevado. Junto con [Pai Hsien-yung](/es/People/pai-hsien-yung-literary-master/), [Huang Chun-ming](/es/People/huang-chun-ming-taiwanese-literary-master/), Wang Zhenhe y otros, conformó una formación importante de la literatura moderna taiwanesa. La diferencia es que, si [Pai Hsien-yung](/es/People/pai-hsien-yung-literary-master/) se enfocó en el mundo espiritual de los intelectuales urbanos y [Huang Chun-ming](/es/People/huang-chun-ming-taiwanese-literary-master/) describió la vida y el tono de los personajes comunes, Chen Yingzhen se centró en los problemas estructurales de la sociedad en su conjunto.
+El lugar de Chen Yingzhen en la historia literaria taiwanesa es elevado. Junto con [Pai Hsien-yung](/es/people/pai-hsien-yung-literary-master/), [Huang Chun-ming](/es/people/huang-chun-ming-taiwanese-literary-master/), Wang Zhenhe y otros, conformó una formación importante de la literatura moderna taiwanesa. La diferencia es que, si [Pai Hsien-yung](/es/people/pai-hsien-yung-literary-master/) se enfocó en el mundo espiritual de los intelectuales urbanos y [Huang Chun-ming](/es/people/huang-chun-ming-taiwanese-literary-master/) describió la vida y el tono de los personajes comunes, Chen Yingzhen se centró en los problemas estructurales de la sociedad en su conjunto.
 
 Su obra posee un fuerte espíritu de crítica social y un profundo tono humanista, e incorporó contenido realista a la literatura taiwanesa. Aunque la mayoría de sus personajes pertenecen a los estratos populares, todos poseen personalidades claras y mundos interiores profundos, lo que manifiesta la comprensión del autor sobre la condición humana.
 
@@ -136,4 +136,4 @@ Sus obras representativas abarcan colecciones de ficción como La tribu de los g
 ## Lecturas complementarias
 
 - [台灣文學館 — 陳映真](https://www.nmtl.gov.tw/) — Biografía de Chen Yingzhen, cronología de obras y colección de manuscritos
-- [白先勇](/people/白先勇) — Maestro literario taiwanés de la misma generación, conocido por Taipei People
+- [白先勇](/es/people/pai-hsien-yung-literary-master) — Maestro literario taiwanés de la misma generación, conocido por Taipei People

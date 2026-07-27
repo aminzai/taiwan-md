@@ -103,8 +103,8 @@ NET no es solo una empresa de ropa; es el vehículo de la resiliencia y la calid
 
 ## Lecturas adicionales
 
-- [Industria textil](/economy/紡織業) — El trasfondo de los campeones invisibles de la industria textil taiwanesa
-- [Empresas de Taiwán: Foxconn Precision](/economy/台灣企業：鴻海精密) — Otra narrativa de escalamiento empresarial local
+- [Industria textil](/es/economy/taiwan-textile-industry) — El trasfondo de los campeones invisibles de la industria textil taiwanesa
+- [Empresas de Taiwán: Foxconn Precision](/es/economy/foxconn-precision-industry) — Otra narrativa de escalamiento empresarial local
 
 ## Referencias
 

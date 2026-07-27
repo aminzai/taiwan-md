@@ -248,11 +248,11 @@ Esa ventana DOS se cerró hace treinta años. Pero aquella tarde sigue ahí.
 
 ## Lecturas relacionadas
 
-- [Industria del videojuego taiwanesa y entretenimiento digital](/technology/台灣遊戲產業與數位娛樂) — Panorama completo de la industria del videojuego taiwanesa, de la distribución a la creación original
-- [Espíritu de código abierto en Taiwán](/technology/台灣開源精神) — Otra historia taiwanesa de "hacer con pasión algo que supera las proporciones"
-- [Sin bajar al sótano no se puede dormir](/technology/不入地窖焉能睡覺) — La comunidad de videojuegos taiwanesa de la misma época, que creció desde un BBS hasta una plataforma de 6 millones de miembros
-- [Los momentos de locura de los jugadores taiwaneses](/technology/台灣玩家的瘋狂時刻) — Después de las Dos Espadas de Softstar, la historia del fervor colectivo que los jugadores taiwaneses siguieron escribiendo
-- [Rayark Games](/technology/雷亞遊戲) — La siguiente generación de compañías de videojuegos taiwanesas que, como Softstar, se basaron en la "estética como fundamento", pero tomaron un camino completamente diferente
+- [Industria del videojuego taiwanesa y entretenimiento digital](/es/technology/taiwan-gaming-industry) — Panorama completo de la industria del videojuego taiwanesa, de la distribución a la creación original
+- [Espíritu de código abierto en Taiwán](/es/technology/taiwan-open-source-spirit) — Otra historia taiwanesa de "hacer con pasión algo que supera las proporciones"
+- [Sin bajar al sótano no se puede dormir](/es/technology/into-the-cellar-taiwan-game-podcast) — La comunidad de videojuegos taiwanesa de la misma época, que creció desde un BBS hasta una plataforma de 6 millones de miembros
+- [Los momentos de locura de los jugadores taiwaneses](/es/technology/taiwan-gamers-wildest-moments) — Después de las Dos Espadas de Softstar, la historia del fervor colectivo que los jugadores taiwaneses siguieron escribiendo
+- [Rayark Games](/es/technology/rayark-games) — La siguiente generación de compañías de videojuegos taiwanesas que, como Softstar, se basaron en la "estética como fundamento", pero tomaron un camino completamente diferente
 
 ---
 

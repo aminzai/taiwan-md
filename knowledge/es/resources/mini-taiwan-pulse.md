@@ -26,7 +26,7 @@ category: 'resources'
 
 # Mini Taiwan Pulse — Visualización 3D en tiempo real del transporte en Taiwán 🌐
 
-> 📖 **Artículo en profundidad**: Este recurso se ha ampliado como artículo de investigación en tecnología cívica. La versión completa está disponible en [Mini Taiwan Pulse: cómo un analista de datos convirtió el pulso del transporte de Taiwán en estelas 3D que respiran](/technology/mini-taiwan-pulse) (2026-04-19). Esta página se conserva como entrada de índice en el listado de recursos.
+> 📖 **Artículo en profundidad**: Este recurso se ha ampliado como artículo de investigación en tecnología cívica. La versión completa está disponible en [Mini Taiwan Pulse: cómo un analista de datos convirtió el pulso del transporte de Taiwán en estelas 3D que respiran](/es/technology/mini-taiwan-pulse-civic-tech) (2026-04-19). Esta página se conserva como entrada de índice en el listado de recursos.
 
 > **Resumen en 30 segundos:** Un proyecto de código abierto que transforma la dinámica del transporte en Taiwán en esferas luminosas y estelas de luz en 3D. Los aviones trazan arcos en el cielo, los barcos dejan estelas sobre la superficie marítima, los trenes corren por las vías — 23 capas conmutables que te permiten "ver" el pulso de Taiwán.
 

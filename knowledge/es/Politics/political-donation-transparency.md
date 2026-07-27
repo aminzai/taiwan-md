@@ -279,11 +279,11 @@ Veintidós años, un flujo de dinero invisible se vuelve consultable.
 
 ## Lecturas complementarias
 
-- [Comunidad de código abierto y g0v](/technology/開源社群與g0v) — Cómo funciona la comunidad de hackers ciudadanos y por qué Taiwán tiene este ecosistema
+- [Comunidad de código abierto y g0v](/es/technology/open-source-and-g0v) — Cómo funciona la comunidad de hackers ciudadanos y por qué Taiwán tiene este ecosistema
 - [Centro de Política](/politics) — Perspectiva panorámica de la infraestructura democrática
 - [Elecciones unificadas de 2026](/politics/2026 九合一選舉) — Organización del sistema y calendario de las elecciones de 2026
-- [Sistema de la Comisión Electoral Central](/politics/中選會制度) — Diseño y funcionamiento de la Comisión Electoral Central
-- [Qué son las elecciones unificadas](/politics/九合一選舉是什麼) — Nueve tipos de cargos, nueve historias
+- [Sistema de la Comisión Electoral Central](/es/politics/central-election-commission) — Diseño y funcionamiento de la Comisión Electoral Central
+- [Qué son las elecciones unificadas](/es/politics/nine-in-one-elections-explained) — Nueve tipos de cargos, nueve historias
 
 ---
 

@@ -200,11 +200,11 @@ El apretón de manos de 80 segundos del Shangri-La de Singapur duró 1 minuto y 
 
 **Lecturas complementarias**:
 
-- [Movimiento Estudiantil Girasol](/society/太陽花學運) — cómo la ocupación del recinto del 18 de marzo al 10 de abril de 2014 pasó de ser un movimiento contra el acuerdo de comercio de servicios a convertirse en el rito de mayoría de edad de la sociedad civil taiwanesa
-- [Tsai Ing-wen](/people/蔡英文) — la sucesora en el poder, rival en el debate del ECFA de 2010 e integradora de la oposición después del Girasol
-- [Chen Shui-bian](/people/陳水扁) — rival en la elección municipal de Taipéi de 1998 y líder de la alternancia partidaria de 2000
-- [Memes de Ma Ying-jeou](/society/馬英九迷因) — cuerno de ciervo, bentō, viviendas permanentes de Provenza, apretón de manos de la muerte: cómo 19 memes de internet se convirtieron en la otra cara de su imagen pública
-- [Crisis del Estrecho de Taiwán y desarrollo de las relaciones a través del Estrecho](/history/台海危機與兩岸關係發展) — el lugar del encuentro Ma-Xi y del ECFA en el arco largo de las relaciones del Estrecho de Taiwán
+- [Movimiento Estudiantil Girasol](/es/society/sunflower-movement) — cómo la ocupación del recinto del 18 de marzo al 10 de abril de 2014 pasó de ser un movimiento contra el acuerdo de comercio de servicios a convertirse en el rito de mayoría de edad de la sociedad civil taiwanesa
+- [Tsai Ing-wen](/es/people/tsai-ing-wen) — la sucesora en el poder, rival en el debate del ECFA de 2010 e integradora de la oposición después del Girasol
+- [Chen Shui-bian](/es/people/chen-shui-bian-controversial-president) — rival en la elección municipal de Taipéi de 1998 y líder de la alternancia partidaria de 2000
+- [Memes de Ma Ying-jeou](/es/society/ma-ying-jeou-meme) — cuerno de ciervo, bentō, viviendas permanentes de Provenza, apretón de manos de la muerte: cómo 19 memes de internet se convirtieron en la otra cara de su imagen pública
+- [Crisis del Estrecho de Taiwán y desarrollo de las relaciones a través del Estrecho](/es/history/taiwan-strait-crises-and-cross-strait-relations) — el lugar del encuentro Ma-Xi y del ECFA en el arco largo de las relaciones del Estrecho de Taiwán
 
 ---
 

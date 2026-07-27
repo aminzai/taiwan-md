@@ -167,7 +167,7 @@ El 26 de julio se votó la primera ronda con 25 casos, y el 23 de agosto la segu
 
 Los resultados de la destitución no alteraron la composición del parlamento, pero dejaron varias huellas dignas de observación a largo plazo. La energía de movilización mostrada por la sociedad civil durante la fase de firmas fue sin precedentes: si ese impulso se extenderá a las elecciones locales de 2026 sigue siendo una incógnita. La posición de las terceras fuerzas (Partido del Pueblo de Taiwán, Nuevo Poder y Estado Fundamental de Taiwán) durante el proceso de destitución fue relativamente ambigua; la mayoría de los partidarios del Partido del Pueblo de Taiwán votaron en contra o se abstuvieron, lo que plantea un desafío para la capacidad del bloque blanco de mantener una tercera vía en 2026. Otra tensión fue la relación entre la movilización electoral y la voluntad ciudadana: en algunos distritos, los votos a favor de la destitución superaron los votos con los que el legislador había sido elegido, pero fueron derrotados por una movilización en contra más consolidada. Si las herramientas de democracia directa pueden alcanzar sus objetivos en un entorno altamente polarizado es una cuestión que cada elección taiwanesa después de 2025 tendrá que enfrentar.[^24]
 
-Para el contexto completo del evento, véase [Gran movimiento de destitución](/history/大罷免).
+Para el contexto completo del evento, véase [Gran movimiento de destitución](/es/history/great-recall-movement-2024).
 
 ### La cooperación azul-blanca y la prueba de 2026
 
@@ -217,11 +217,11 @@ Cabe señalar que el sistema de dos votos en distrito único implementado en 200
 
 **Lectura complementaria**
 
-- [Transición democrática de Taiwán](/history/台灣民主轉型) — El panorama completo de cuarenta años de transición, de la ley marcial a la democratización
-- [Incidente de Formosa](/history/美麗島事件) — Aquella noche de 1979 que cambió el destino de Taiwán
-- [Periodo de ley marcial](/history/戒嚴時期) — Cómo treinta y ocho años de ley marcial moldearon la sociedad taiwana
-- [Resolución sobre el futuro de Taiwán](/history/臺灣前途決議文) — La transición de línea del DPP desde la independencia hasta la resolución de futuro, y cómo reconfiguró el panorama electoral taiwanés
-- [Gran movimiento de destitución](/history/大罷免) — El contexto completo del mayor movimiento de destitución ciudadana en la historia, 2025
+- [Transición democrática de Taiwán](/es/history/taiwan-democratization) — El panorama completo de cuarenta años de transición, de la ley marcial a la democratización
+- [Incidente de Formosa](/es/history/kaohsiung-incident-formosa-incident) — Aquella noche de 1979 que cambió el destino de Taiwán
+- [Periodo de ley marcial](/es/history/martial-law-era) — Cómo treinta y ocho años de ley marcial moldearon la sociedad taiwana
+- [Resolución sobre el futuro de Taiwán](/es/history/resolution-on-taiwans-future) — La transición de línea del DPP desde la independencia hasta la resolución de futuro, y cómo reconfiguró el panorama electoral taiwanés
+- [Gran movimiento de destitución](/es/history/great-recall-movement-2024) — El contexto completo del mayor movimiento de destitución ciudadana en la historia, 2025
 - [Elecciones unificadas de 2026](/society/2026九合一選舉) — Despliegue de la batalla electoral en 22 condados y ciudades y prueba del sistema
 - [Qué son las elecciones unificadas](/society/九合一選舉是什麼) — Explicación del sistema de elecciones locales unificadas
 - [Sistema de juntas de barrio](/society/村里長制度) — El cargo de elección popular más básico en Taiwán

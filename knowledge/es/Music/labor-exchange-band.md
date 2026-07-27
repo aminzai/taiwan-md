@@ -110,10 +110,10 @@ Chen Shui-bian anunció en 2000 que no construiría la presa de Meinong durante 
 
 ## Lecturas complementarias
 
-- [Música hakka de Taiwán](/music/台灣客家音樂/)
-- [Movimiento de la canción folclórica de Taiwán](/music/台灣民歌運動/)
-- [Música independiente de Taiwán](/music/台灣獨立音樂/)
-- [Historia del rock en Taiwán](/music/台灣搖滾樂發展史/)
+- [Música hakka de Taiwán](/es/music/taiwan-hakka-music-from-mountain-songs-to-rock/)
+- [Movimiento de la canción folclórica de Taiwán](/es/music/taiwan-campus-folk-song-movement/)
+- [Música independiente de Taiwán](/es/music/indie-music-scene/)
+- [Historia del rock en Taiwán](/es/music/taiwan-rock-from-underground-to-mainstream/)
 
 ## Referencias
 

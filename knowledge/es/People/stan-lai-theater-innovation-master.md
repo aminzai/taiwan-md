@@ -117,4 +117,4 @@ En los últimos años, la producción de Lai se ha centrado cada vez más en la 
 ## Lecturas complementarias
 
 - [Performance Workshop](http://www.pw-theatre.com/) — Sitio web oficial de la compañía fundada por Stan Lai, con el catálogo histórico de obras e información de venta de entradas.
-- [_Secret Love in Peach Blossom Land_](/people/賴聲川) — Obra clásica del teatro en lengua china.
+- [_Secret Love in Peach Blossom Land_](/es/people/stan-lai-theater-innovation-master) — Obra clásica del teatro en lengua china.

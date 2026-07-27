@@ -150,10 +150,10 @@ La tipografía de la papeleta que tuviste en la mano se llama Siyuan Heiti redon
 
 ## Lecturas relacionadas
 
-- [Aaron Nieh](/people/聶永真) — Uno de los diseñadores gráficos más representativos de Taiwán y protagonista de la controversia por la optimización de identidad visual de Taipower; un nombre inevitable en la discusión sobre el «diseño como logro gubernamental».
-- [Transformación y modernización industrial de Taiwán](/economy/台灣產業轉型升級) — La historia completa del paso de la isla de manufactura por contrato hacia un mayor valor agregado; la apuesta del TDRI por «cómo se ven las cosas» es una rama menos comentada de esa trayectoria.
-- [Public Television Service](/society/公視) — También una fundación pública, también una institución que camina en la cuerda floja entre «lo público» y «ser examinada».
-- [Arquitectura taiwanesa](/art/台灣建築) — El campo original de Chang Chi-yi; ayuda a entender por qué un arquitecto cree que el diseño espacial puede cambiar la distancia entre el gobierno y la gente.
+- [Aaron Nieh](/es/people/nieh-yung-jen) — Uno de los diseñadores gráficos más representativos de Taiwán y protagonista de la controversia por la optimización de identidad visual de Taipower; un nombre inevitable en la discusión sobre el «diseño como logro gubernamental».
+- [Transformación y modernización industrial de Taiwán](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — La historia completa del paso de la isla de manufactura por contrato hacia un mayor valor agregado; la apuesta del TDRI por «cómo se ven las cosas» es una rama menos comentada de esa trayectoria.
+- [Public Television Service](/es/society/pts-public-television-service) — También una fundación pública, también una institución que camina en la cuerda floja entre «lo público» y «ser examinada».
+- [Arquitectura taiwanesa](/es/art/taiwanese-architecture) — El campo original de Chang Chi-yi; ayuda a entender por qué un arquitecto cree que el diseño espacial puede cambiar la distancia entre el gobierno y la gente.
 
 ## Fuentes de imágenes
 

@@ -442,12 +442,12 @@ Los problemas complejos no tienen respuestas simples. Pero la pregunta ya está 
 
 **Lecturas adicionales**:
 
-- [Conservación del gato leopardo en Taiwán](/nature/台灣石虎保育) — La especie protagonista de los 21 casos de muerte por perros citados en este artículo, con menos de quinientos individuos restantes y hábitat en zonas de transición de montaña baja
-- [Oso negro de Taiwán](/nature/台灣黑熊) — Especie indicadora del ecosistema de Yushan y otra línea de frente tras la expansión de perros errantes hacia bajas altitudes
-- [Pangolín de Taiwán](/nature/台灣穿山甲) — Entre los individuos recibidos en estaciones de rescate, la mitad presenta mordeduras de perros errantes en la cola
-- [Problema de colisión de aves contra ventanas en Taiwán](/nature/台灣鳥類窗殺議題) — Otro costo invisible del entorno construido por humanos para la fauna silvestre
-- [Zoológicos y ética de los animales de exhibición](/society/動物園與展演動物倫理) — Otra dimensión del bienestar animal: los dilemas cuando los humanos deciden por los animales
-- [Controversias sobre medicamentos veterinarios en Taiwán](/society/台灣動物用藥爭議) — Cuando la política de sacrificio cero ya cumple una década, la siguiente pregunta que esta isla debe enfrentar es: cuando enferman, no pueden conseguir medicamentos
+- [Conservación del gato leopardo en Taiwán](/es/nature/taiwanese-leopard-cat-conservation) — La especie protagonista de los 21 casos de muerte por perros citados en este artículo, con menos de quinientos individuos restantes y hábitat en zonas de transición de montaña baja
+- [Oso negro de Taiwán](/es/nature/taiwanese-black-bear) — Especie indicadora del ecosistema de Yushan y otra línea de frente tras la expansión de perros errantes hacia bajas altitudes
+- [Pangolín de Taiwán](/es/nature/taiwan-pangolin) — Entre los individuos recibidos en estaciones de rescate, la mitad presenta mordeduras de perros errantes en la cola
+- [Problema de colisión de aves contra ventanas en Taiwán](/es/nature/bird-window-collision-taiwan) — Otro costo invisible del entorno construido por humanos para la fauna silvestre
+- [Zoológicos y ética de los animales de exhibición](/es/society/zoo-and-exhibition-animal-ethics) — Otra dimensión del bienestar animal: los dilemas cuando los humanos deciden por los animales
+- [Controversias sobre medicamentos veterinarios en Taiwán](/es/society/taiwan-animal-drug-controversy) — Cuando la política de sacrificio cero ya cumple una década, la siguiente pregunta que esta isla debe enfrentar es: cuando enferman, no pueden conseguir medicamentos
 
 ---
 

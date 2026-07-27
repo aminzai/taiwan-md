@@ -107,15 +107,15 @@ Tsui Ing-wen demostró en ocho años que una académica que no le gusta hablar e
 
 **Lecturas complementarias**
 
-- [Transformación democrática de Taiwán](/history/台灣民主轉型) — Evolución institucional de la dictadura a la libertad
-- [Lai Ching-te](/people/賴清德) — Sucesor de Tsui Ing-wen, presidente actual de Taiwán
-- [Matrimonio igualitario y derechos de género en Taiwán](/society/台灣同婚與性別平權) — Proceso legislativo de la primera ley de matrimonio igualitario de Asia
-- [Historia de los pueblos indígenas de Taiwán y movimiento de reconocimiento](/history/台灣原住民族歷史與正名運動) — De «pueblo de montaña» a «pueblos indígenas» en la lucha
-- [Movimiento Sunflower](/society/太陽花學運) — Protesta de 2014 que cambió el panorama político de Taiwán
-- [Ma Ying-jeou](/people/馬英九) — Tsui Ing-wen debatió con él sobre el ECFA en 2010; en 2016 tomó el poder y cambió radicalmente su enfoque de relaciones a ambos lados del estrecho
-- [Chou Tzu-yu](/people/周子瑜) — El video de disculpa de 90 segundos antes de las elecciones de 2016 desencadenó su discurso ganador «Nadie necesita disculparse por su identidad»
-- [Foro Xiang‑xiang](/society/想想論壇) — Plataforma de comentarios del Fondo Educativo Xiao‑ying, fundada por Tsui después de su derrota en 2012; relanzada en octubre de 2025
-- [La nación invisible](/art/看不見的國家) — Documental de la directora estadounidense Vanessa Hope, que acompañó a Tsai Ing-wen durante siete años; en 2025 superó los 37 millones de NT$ en taquilla taiwanesa, situándose en el tercer puesto histórico de los documentales en Taiwán.
+- [Transformación democrática de Taiwán](/es/history/taiwan-democratization) — Evolución institucional de la dictadura a la libertad
+- [Lai Ching-te](/es/people/lai-ching-te) — Sucesor de Tsui Ing-wen, presidente actual de Taiwán
+- [Matrimonio igualitario y derechos de género en Taiwán](/es/society/taiwan-marriage-equality-lgbtq-rights) — Proceso legislativo de la primera ley de matrimonio igualitario de Asia
+- [Historia de los pueblos indígenas de Taiwán y movimiento de reconocimiento](/es/history/indigenous-peoples-history-and-naming-movement) — De «pueblo de montaña» a «pueblos indígenas» en la lucha
+- [Movimiento Sunflower](/es/society/sunflower-movement) — Protesta de 2014 que cambió el panorama político de Taiwán
+- [Ma Ying-jeou](/es/people/ma-ying-jeou-cross-strait-reconciliation-leader) — Tsui Ing-wen debatió con él sobre el ECFA en 2010; en 2016 tomó el poder y cambió radicalmente su enfoque de relaciones a ambos lados del estrecho
+- [Chou Tzu-yu](/es/people/tzuyu) — El video de disculpa de 90 segundos antes de las elecciones de 2016 desencadenó su discurso ganador «Nadie necesita disculparse por su identidad»
+- [Foro Xiang‑xiang](/es/society/thinking-taiwan-forum) — Plataforma de comentarios del Fondo Educativo Xiao‑ying, fundada por Tsui después de su derrota en 2012; relanzada en octubre de 2025
+- [La nación invisible](/es/art/invisible-nation) — Documental de la directora estadounidense Vanessa Hope, que acompañó a Tsai Ing-wen durante siete años; en 2025 superó los 37 millones de NT$ en taquilla taiwanesa, situándose en el tercer puesto histórico de los documentales en Taiwán.
 
 ## Referencias
 

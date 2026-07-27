@@ -135,10 +135,10 @@ Lo que realmente vale la pena recordar es quizás aquella hora de la madrugada e
 
 **Lecturas complementarias**:
 
-- [林強](/people/林強) — Figura cultural taiwanesa que también completó una transformación de identidad (de ídolo del rock en mandarín a pionero de bandas sonoras de cine), que al igual que Chia Yung-chieh redefinió en la segunda mitad de su vida la posición en la que el mercado la había clasificado
-- [蔡英文](/people/蔡英文) — El otro extremo de esa llamada telefónica de «belleza al 120%» de junio de 2021; la recaudación de fondos para HFNC fue una operación sincónica rara entre dos sistemas de movilización: el civil y la Oficina Presidencial
-- [周杰倫](/people/周杰倫) — Otro camino para convertir la identidad de celebridad en influencia transfronteriza (música→cine→marca→beneficencia), para lectura comparativa con la transición de Chia Yung-chieh de «celebridad a gobernanza de acciones públicas»
-- [台灣志工文化與公益參與](/society/台灣志工文化與公益參與) — La base cultural de la movilización civil para HFNC en 2021; la tradición de vínculos horizontales de la sociedad civil taiwanesa durante eventos importantes
+- [林強](/es/people/lim-giong) — Figura cultural taiwanesa que también completó una transformación de identidad (de ídolo del rock en mandarín a pionero de bandas sonoras de cine), que al igual que Chia Yung-chieh redefinió en la segunda mitad de su vida la posición en la que el mercado la había clasificado
+- [蔡英文](/es/people/tsai-ing-wen) — El otro extremo de esa llamada telefónica de «belleza al 120%» de junio de 2021; la recaudación de fondos para HFNC fue una operación sincónica rara entre dos sistemas de movilización: el civil y la Oficina Presidencial
+- [周杰倫](/es/people/jay-chou) — Otro camino para convertir la identidad de celebridad en influencia transfronteriza (música→cine→marca→beneficencia), para lectura comparativa con la transición de Chia Yung-chieh de «celebridad a gobernanza de acciones públicas»
+- [台灣志工文化與公益參與](/es/society/volunteering-and-civic-charity-in-taiwan) — La base cultural de la movilización civil para HFNC en 2021; la tradición de vínculos horizontales de la sociedad civil taiwanesa durante eventos importantes
 
 ## Referencias
 

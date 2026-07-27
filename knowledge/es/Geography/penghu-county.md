@@ -198,13 +198,13 @@ Volar de Taipéi a Magong lleva solo 50 minutos. La próxima vez que vayas a Pen
 
 ## Lecturas complementarias
 
-- [Cultura popular de Penghu](/culture/澎湖民俗文化) — Registro completo de la cultura popular local: Tianhou Temple de la Fundación de Taiwán, la creencia en Mazu, las canciones populares de Erkan, los rituales de los barcos Wangchuan
-- [Islas periféricas y cultura marítima](/geography/離島與海洋文化) — El sistema de cultura marítima de las islas periféricas de Taiwán compuesto por Penghu, Kinmen, Matsu, Orchid Island e Isla Verde
-- [Características geográficas y formación de las islas de Taiwán](/geography/台灣島嶼地理特色與形成) — Diferencias geológicas entre el archipiélago de basalto de Penghu y el orogenia de la isla principal de Taiwán
-- [Las leyendas de Mazu y Dadaogong](/culture/媽祖與大道公的傳說) — Orígenes transmarinos de la creencia en Mazu en la ubicación del Tianhou Temple de la Fundación de Taiwán
-- [División administrativa de Taiwán](/geography/台灣行政區劃) — Contexto de la reforma del sistema local de 1920 cuando Magong pasó a llamarse Makung
-- [Guerra Sino-Francesa](/history/清法戰爭) — Panorama completo del frente de batalla de Taiwán-Penghu: la ocupación francesa de Penghu en 1885, la muerte de Courbet en el puerto de Magong, el Tratado de Tianjin
-- [Período holandés-español-Ming Zheng](/history/荷西明鄭時期) — La transición clave de 1622-1624 cuando los holandeses se retiraron de Fengguetou en Penghu hacia Zeelandia en Tainan
+- [Cultura popular de Penghu](/es/culture/penghu-folk-culture) — Registro completo de la cultura popular local: Tianhou Temple de la Fundación de Taiwán, la creencia en Mazu, las canciones populares de Erkan, los rituales de los barcos Wangchuan
+- [Islas periféricas y cultura marítima](/es/geography/offshore-islands-and-maritime-culture) — El sistema de cultura marítima de las islas periféricas de Taiwán compuesto por Penghu, Kinmen, Matsu, Orchid Island e Isla Verde
+- [Características geográficas y formación de las islas de Taiwán](/es/geography/geography-and-geology) — Diferencias geológicas entre el archipiélago de basalto de Penghu y el orogenia de la isla principal de Taiwán
+- [Las leyendas de Mazu y Dadaogong](/es/culture/mazu-dadaogong-legend) — Orígenes transmarinos de la creencia en Mazu en la ubicación del Tianhou Temple de la Fundación de Taiwán
+- [División administrativa de Taiwán](/es/geography/administrative-divisions-of-taiwan) — Contexto de la reforma del sistema local de 1920 cuando Magong pasó a llamarse Makung
+- [Guerra Sino-Francesa](/es/history/sino-french-war-in-taiwan) — Panorama completo del frente de batalla de Taiwán-Penghu: la ocupación francesa de Penghu en 1885, la muerte de Courbet en el puerto de Magong, el Tratado de Tianjin
+- [Período holandés-español-Ming Zheng](/es/history/dutch-spanish-and-koxinga-era) — La transición clave de 1622-1624 cuando los holandeses se retiraron de Fengguetou en Penghu hacia Zeelandia en Tainan
 
 ## Créditos de imágenes
 

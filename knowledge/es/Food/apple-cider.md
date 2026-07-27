@@ -219,11 +219,11 @@ Nadie puede responder con un anuncio de disposición de activos cómo sostenerá
 
 **Lecturas complementarias**:
 
-- [Cultura taiwanesa del ban-doh](/food/台灣辦桌文化) — El contexto de la cultura de bebidas en mesas de re chao y banquetes, y el lugar de Apple Sidra en ese sistema
-- [Cultura taiwanesa de bebidas de té agitadas a mano](/food/台灣手搖飲文化) — De las bebidas de té a las carbonatadas, la evolución de qué beben los taiwaneses
-- [Empresas taiwanesas: Uni-President Enterprises](/economy/台灣企業：統一企業) — Un competidor principal del mercado de bebidas de la misma época
-- [Empresas taiwanesas: I-Mei Foods](/economy/台灣企業：義美食品) — Otra marca tradicional que atravesó crisis de seguridad alimentaria
-- [Bolsa y mercado de capitales de Taiwán](/economy/台灣股市與資本市場) — El contexto histórico del caso de la décima cooperativa de crédito de 1985, el caso Hung Yuan de 1990 y la circulación de marcas entre 1985 y 1995 descrita en este artículo
+- [Cultura taiwanesa del ban-doh](/es/food/taiwan-banquet-culture) — El contexto de la cultura de bebidas en mesas de re chao y banquetes, y el lugar de Apple Sidra en ese sistema
+- [Cultura taiwanesa de bebidas de té agitadas a mano](/es/food/hand-shaken-drink-culture) — De las bebidas de té a las carbonatadas, la evolución de qué beben los taiwaneses
+- [Empresas taiwanesas: Uni-President Enterprises](/es/economy/taiwan-enterprise-uni-president) — Un competidor principal del mercado de bebidas de la misma época
+- [Empresas taiwanesas: I-Mei Foods](/es/economy/imei-foods-corporation) — Otra marca tradicional que atravesó crisis de seguridad alimentaria
+- [Bolsa y mercado de capitales de Taiwán](/es/economy/taiwan-stock-market) — El contexto histórico del caso de la décima cooperativa de crédito de 1985, el caso Hung Yuan de 1990 y la circulación de marcas entre 1985 y 1995 descrita en este artículo
 
 ## Fuentes de las imágenes
 

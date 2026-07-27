@@ -246,37 +246,37 @@ Ningún plato es puramente taiwanés. Cada plato es lo más taiwanés que hay.
 
 **Estratos profundos de la isla**:
 
-- [Cultura alimentaria de los pueblos indígenas de Taiwán](/food/台灣原住民飲食文化) — Los 16 pueblos tienen cada uno su propia manera de comer, desde carne asada sobre laja hasta sopa agria y picante binaleng
-- [Cultura alimentaria hakka](/food/客家飲食文化) — “Grasa, salada y aromática” y la sabiduría de conservación en los caminos migratorios
+- [Cultura alimentaria de los pueblos indígenas de Taiwán](/es/food/taiwan-indigenous-foodways) — Los 16 pueblos tienen cada uno su propia manera de comer, desde carne asada sobre laja hasta sopa agria y picante binaleng
+- [Cultura alimentaria hakka](/es/food/hakka-food-culture) — “Grasa, salada y aromática” y la sabiduría de conservación en los caminos migratorios
 
 **Mestizaje migrante**:
 
-- [Cocina de aldeas militares de Taiwán](/food/台灣眷村菜) — Las ocho grandes cocinas traídas por aquellos 1,21 millones de personas en 1949, recalibradas por la isla
-- [Sopa de fideos con res](/food/牛肉麵) — El doubanjiang picante de veteranos sichuaneses en aldeas militares de Gangshan, Kaohsiung, sumado a la soya taiwanesa
+- [Cocina de aldeas militares de Taiwán](/es/food/military-dependents-village-cuisine) — Las ocho grandes cocinas traídas por aquellos 1,21 millones de personas en 1949, recalibradas por la isla
+- [Sopa de fideos con res](/es/food/beef-noodle-soup) — El doubanjiang picante de veteranos sichuaneses en aldeas militares de Gangshan, Kaohsiung, sumado a la soya taiwanesa
 
 **Cotidianidad popular**:
 
-- [Arroz con cerdo estofado](/food/台灣滷肉飯) — Recortes de carne y grasa de la pobreza de la primera posguerra, vertidos hasta convertirse en arroz nacional
-- [Cultura de mercados nocturnos](/food/夜市文化) — 300 mercados nocturnos en todo Taiwán: el mapa sensorial de Shilin, Ningxia, Raohe, Liuhe y Fengjia
-- [Bocadillos taiwaneses](/food/台灣小吃) — De la tortilla de ostras al pollo salado crujiente, el repertorio completo de los sabores de callejón
+- [Arroz con cerdo estofado](/es/food/braised-pork-rice) — Recortes de carne y grasa de la pobreza de la primera posguerra, vertidos hasta convertirse en arroz nacional
+- [Cultura de mercados nocturnos](/es/food/night-market-culture) — 300 mercados nocturnos en todo Taiwán: el mapa sensorial de Shilin, Ningxia, Raohe, Liuhe y Fengjia
+- [Bocadillos taiwaneses](/es/food/taiwanese-street-food) — De la tortilla de ostras al pollo salado crujiente, el repertorio completo de los sabores de callejón
 
 **Revolución líquida**:
 
-- [Té con leche de perlas](/food/珍珠奶茶) — Una tarde de 1986 en Chun Shui Tang que cambió el mapa mundial de las bebidas
-- [Cultura taiwanesa de bebidas preparadas a mano](/food/台灣手搖飲文化) — 50 Lan, Gong Cha y CoCo hacia más de 40 países
-- [Cultura del té](/food/茶文化) — Del oolong de John Dodd en 1865 al té de alta montaña de Alishan actual
+- [Té con leche de perlas](/es/food/bubble-tea) — Una tarde de 1986 en Chun Shui Tang que cambió el mapa mundial de las bebidas
+- [Cultura taiwanesa de bebidas preparadas a mano](/es/food/hand-shaken-drink-culture) — 50 Lan, Gong Cha y CoCo hacia más de 40 países
+- [Cultura del té](/es/food/golden-age-echoes-taiwan-tea-culture) — Del oolong de John Dodd en 1865 al té de alta montaña de Alishan actual
 
 **Ritual y refinamiento**:
 
-- [Cultura bantoh de Taiwán](/food/台灣辦桌文化) — Lin Tiansheng, Lin Ming-tsan y los doce platos de afecto, justicia, ritual y etiqueta
-- [Michelin y alta cocina en Taiwán](/food/台灣米其林與精緻餐飲) — La trayectoria desde la entrada en 2018 hasta los 419 locales de 2025
-- [Cultura del desayuno taiwanés](/food/台灣早餐文化) — De la leche de soya bajo el puente de Yonghe a las cadenas de desayuno de 24 horas
+- [Cultura bantoh de Taiwán](/es/food/taiwan-banquet-culture) — Lin Tiansheng, Lin Ming-tsan y los doce platos de afecto, justicia, ritual y etiqueta
+- [Michelin y alta cocina en Taiwán](/es/food/taiwan-michelin-fine-dining) — La trayectoria desde la entrada en 2018 hasta los 419 locales de 2025
+- [Cultura del desayuno taiwanés](/es/food/taiwan-breakfast-culture) — De la leche de soya bajo el puente de Yonghe a las cadenas de desayuno de 24 horas
 
 **Extensiones plurales**:
 
-- [Fusión gastronómica de nuevos inmigrantes en Taiwán](/food/台灣新住民美食融合) — El mapa del Sudeste Asiático traído por 1,87 millones de nuevos inmigrantes
-- [Cultura vegetariana de Taiwán](/food/台灣素食文化) — La tercera proporción de población vegetariana del mundo
-- [Taiwán, reino de las frutas](/food/台灣水果王國) — El mapa frutal de la isla, de los duraznos de alta montaña a las anonas tropicales
+- [Fusión gastronómica de nuevos inmigrantes en Taiwán](/es/food/taiwanese-new-immigrant-culinary-fusion) — El mapa del Sudeste Asiático traído por 1,87 millones de nuevos inmigrantes
+- [Cultura vegetariana de Taiwán](/es/food/taiwan-vegetarian-culture) — La tercera proporción de población vegetariana del mundo
+- [Taiwán, reino de las frutas](/es/food/taiwan-fruit-kingdom) — El mapa frutal de la isla, de los duraznos de alta montaña a las anonas tropicales
 - [Food Hub](/food) — Índice general de la categoría alimentos
 
 ---

@@ -187,11 +187,11 @@ Pingxi está probando este cuarto camino, y el valle del próximo Festival de lo
 
 **Lecturas complementarias**:
 
-- [Festivales de templos taiwaneses y procesiones de danza](/culture/台灣廟會與陣頭文化) — Al igual que los faroles de cielo, otro caso de tensión entre patrimonio cultural y cuestiones ambientales en festivales populares
-- [Festivales y celebraciones tradicionales](/culture/傳統節慶與慶典) — Panorama general de los festivales taiwaneses, para ver el lugar que ocupan los faroles de cielo entre el Festival de los Faroles y otros festivales
-- [Religión y cultura de templos en Taiwán](/culture/台灣宗教與寺廟文化) — Desde la fe en Mazu del templo Cheng'an hasta la continuidad de los símbolos de bendición
-- [Historia del ferrocarril en Taiwán](/history/台灣鐵道史) — Por qué la línea ferroviaria de Pingxi convirtió el festival de faroles de este valle en una marca internacional
-- [Ecosistemas forestales de Taiwán](/nature/台灣森林生態系) — El impacto real de los restos de faroles de cielo en los sistemas forestales
+- [Festivales de templos taiwaneses y procesiones de danza](/es/culture/taiwan-temple-festivals-and-performance-troupes) — Al igual que los faroles de cielo, otro caso de tensión entre patrimonio cultural y cuestiones ambientales en festivales populares
+- [Festivales y celebraciones tradicionales](/es/culture/traditional-festivals-and-celebrations) — Panorama general de los festivales taiwaneses, para ver el lugar que ocupan los faroles de cielo entre el Festival de los Faroles y otros festivales
+- [Religión y cultura de templos en Taiwán](/es/culture/taiwan-religion-and-temple-culture) — Desde la fe en Mazu del templo Cheng'an hasta la continuidad de los símbolos de bendición
+- [Historia del ferrocarril en Taiwán](/es/history/taiwan-railway-history) — Por qué la línea ferroviaria de Pingxi convirtió el festival de faroles de este valle en una marca internacional
+- [Ecosistemas forestales de Taiwán](/es/nature/taiwan-forest-ecosystems) — El impacto real de los restos de faroles de cielo en los sistemas forestales
 
 ## Créditos de imágenes
 

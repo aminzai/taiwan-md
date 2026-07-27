@@ -104,9 +104,9 @@ Mayday seguirá cantando. Pero después de esas cuatro palabras de 2024, los tai
 
 ## Lectura adicional
 
-- [Música popular taiwanesa](/music/台灣流行音樂/)
-- [Fire EX.](/music/滅火器樂團/)
-- [Música independiente taiwanesa](/music/台灣獨立音樂/)
+- [Música popular taiwanesa](/es/music/golden-melodies-legacy-taiwan-pop-music/)
+- [Fire EX.](/es/music/fire-ex/)
+- [Música independiente taiwanesa](/es/music/indie-music-scene/)
 
 ## Referencias
 

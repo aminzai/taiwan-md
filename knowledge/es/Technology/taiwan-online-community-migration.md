@@ -147,12 +147,12 @@ La próxima vez que alguien te pregunte "¿por qué hacer copias de seguridad de
 
 ## Lecturas complementarias
 
-- [Wretch: La juventud puesta en servidores que otros pueden apagar](/culture/無名小站)
-- [PTT: La ciudad-estado nacida de la red académica](/technology/PTT批踢踢)
-- [Facebook en Taiwán](/technology/Facebook)
-- [Threads en Taiwán: Threads y los 11 minutos y 31 segundos](/technology/Threads在台灣)
-- [Instagram en Taiwán](/technology/IG)
-- [Miin: El refugio de "vamos a miin" en 2026](/technology/迷音Miin)
+- [Wretch: La juventud puesta en servidores que otros pueden apagar](/es/culture/wretch)
+- [PTT: La ciudad-estado nacida de la red académica](/es/technology/ptt-bulletin-board-system)
+- [Facebook en Taiwán](/es/technology/facebook-in-taiwan)
+- [Threads en Taiwán: Threads y los 11 minutos y 31 segundos](/es/technology/threads-in-taiwan)
+- [Instagram en Taiwán](/es/technology/instagram-in-taiwan)
+- [Miin: El refugio de "vamos a miin" en 2026](/es/technology/miin-music-app)
 
 ---
 

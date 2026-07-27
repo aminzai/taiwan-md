@@ -179,8 +179,8 @@ La perplejidad del profesor alemán es, en realidad, la respuesta.
 
 ## Temas relacionados
 
-- [Cultura de los mercados nocturnos](/food/夜市文化) — Análisis profundo de los mercados nocturnos como espacio social
-- [Té de burbujas](/food/珍珠奶茶) — La hegemonía global de las bebidas líquidas
-- [Arroz con cerdo guisado de Taiwán](/food/台灣滷肉飯) — La memoria étnica de un tazón de arroz con cerdo guisado
-- [Cultura alimentaria hakka](/food/客家飲食文化) — La sabiduría alimentaria de la comunidad hakka
-- [Fusión de la nueva gastronomía de los residentes de Taiwán](/food/台灣新住民美食融合) — La próxima mezcla alimentaria está ocurriendo
+- [Cultura de los mercados nocturnos](/es/food/night-market-culture) — Análisis profundo de los mercados nocturnos como espacio social
+- [Té de burbujas](/es/food/bubble-tea) — La hegemonía global de las bebidas líquidas
+- [Arroz con cerdo guisado de Taiwán](/es/food/braised-pork-rice) — La memoria étnica de un tazón de arroz con cerdo guisado
+- [Cultura alimentaria hakka](/es/food/hakka-food-culture) — La sabiduría alimentaria de la comunidad hakka
+- [Fusión de la nueva gastronomía de los residentes de Taiwán](/es/food/taiwanese-new-immigrant-culinary-fusion) — La próxima mezcla alimentaria está ocurriendo

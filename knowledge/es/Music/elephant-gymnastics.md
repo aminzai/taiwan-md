@@ -239,11 +239,11 @@ El documental se titula _More Real than Dreams_. El camino que recorrieron los t
 
 ## Lecturas complementarias
 
-- [Sorry Youth](/Music/拍謝少年) — Otra banda contemporánea originaria del sur que define su identidad mediante la lengua, pero ellos eligieron el taiwanés y eligieron la voz humana.
-- [Fire EX.](/Music/滅火器樂團) — Banda hermana de Kaohsiung; otro grupo kaohsiungués que se presentó en la misma edición de Fuji Rock en 2022.
-- [Sunset Rollercoaster](/Music/落日飛車) — Representante de la misma generación de internacionalización del indie taiwanés; con una textura suave de city pop y letras en inglés, traza una ruta en contraste con el tecnicismo instrumental de Elephant Gym.
-- [Historia del desarrollo del rock taiwanés](/Music/台灣搖滾樂發展史) — Contexto del desarrollo desde Wu Bai y Mayday hasta la generación posterior a Sunset Rollercoaster.
-- [Música independiente taiwanesa](/Music/台灣獨立音樂) — La escena indie de Taiwán y su ecosistema de sellos.
+- [Sorry Youth](/es/music/sorry-youth-band) — Otra banda contemporánea originaria del sur que define su identidad mediante la lengua, pero ellos eligieron el taiwanés y eligieron la voz humana.
+- [Fire EX.](/es/music/fire-ex) — Banda hermana de Kaohsiung; otro grupo kaohsiungués que se presentó en la misma edición de Fuji Rock en 2022.
+- [Sunset Rollercoaster](/es/music/sunset-rollercoaster) — Representante de la misma generación de internacionalización del indie taiwanés; con una textura suave de city pop y letras en inglés, traza una ruta en contraste con el tecnicismo instrumental de Elephant Gym.
+- [Historia del desarrollo del rock taiwanés](/es/music/taiwan-rock-from-underground-to-mainstream) — Contexto del desarrollo desde Wu Bai y Mayday hasta la generación posterior a Sunset Rollercoaster.
+- [Música independiente taiwanesa](/es/music/indie-music-scene) — La escena indie de Taiwán y su ecosistema de sellos.
 
 ---
 

@@ -58,7 +58,7 @@ La “ayuda entre vecinos” era otra característica de las cocinas de las vill
 
 ## El origen villano de la sopa de fideos con carne de res estofada: Gangshan, Kaohsiung, y la pasta de habas Mingde
 
-Al hablar de la cocina de las villas de dependientes militares, es imposible no mencionar la [sopa de fideos con carne de res](/es/Food/beef-noodle-soup/). Aunque hoy se la considera un plato nacional de Taiwán, su origen puede rastrearse efectivamente hasta la cultura de las villas; más concretamente, hasta **las villas de dependientes de la Fuerza Aérea en Gangshan, Kaohsiung, durante la década de 1950**.[^7]
+Al hablar de la cocina de las villas de dependientes militares, es imposible no mencionar la [sopa de fideos con carne de res](/es/food/beef-noodle-soup/). Aunque hoy se la considera un plato nacional de Taiwán, su origen puede rastrearse efectivamente hasta la cultura de las villas; más concretamente, hasta **las villas de dependientes de la Fuerza Aérea en Gangshan, Kaohsiung, durante la década de 1950**.[^7]
 
 El punto de partida de la historia fue el suboficial de la Fuerza Aérea **Liu Mingde**. Llegó a Taiwán con el ejército en 1948, se retiró en 1950 y se estableció en una villa de Gangshan. Para ganarse la vida, recordó la técnica de elaboración de doubanjiang que había aprendido durante las marchas militares; con sus últimos ahorros compró materias primas y empezó a producir pasta picante de habas y pasta dulce de trigo con sabor de su tierra. **“Mingde Doubanjiang”** se convirtió en el condimento emblemático dentro y fuera de las villas de Gangshan, y también proporcionó de manera inesperada la base de sabor más decisiva para la sopa de fideos con carne de res estofada al estilo sichuanés.[^6]
 

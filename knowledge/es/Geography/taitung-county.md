@@ -241,18 +241,18 @@ El condado de menor densidad albergó a las personas más antiguas. Los jue de j
 
 ## Lecturas complementarias
 
-- [Ecosistema de Lanyu](/nature/蘭嶼生態系) — Las especies endémicas y ecosistemas de la isla volcánica de Lanyu, y la base biogeográfica que convive con la cultura tradicional tao
-- [Prisión de la isla Verde](/history/綠島監獄) — Historia del encarcelamiento de presos políticos en el Centro de Reeducación de Nuevos Estudiantes y Oasis Villa entre 1951 y 1987; extensión de la sección §Huoshaodao de este artículo
-- [Ciudad de Keelung](/geography/基隆市) — Otra ciudad de línea de falla en la serie de 22 condados y ciudades; como Taitung, queda invisible a escala de la capital, pero sigue una trayectoria de “puerto en declive” y no de “condado de menor densidad”
-- [Condado de Penghu](/geography/澎湖縣) — Serie de 22 condados y ciudades: elección soberana de unas islas periféricas que rechazaron dos veces el juego; como Taitung, es uno de los condados más alejados de la isla principal, pero habitado por migrantes han y no por pueblos indígenas
-- [Condado de Lienchiang](/geography/連江縣) — Serie de 22 condados y ciudades: islas periféricas con 36 años de administración de zona de guerra en Taiwán, una línea temporal casi paralela a los 36 años de presos políticos en la isla Verde
-- [Terror Blanco en Taiwán](/history/台灣白色恐怖) — Contexto de la opresión política posterior a 1949 en toda la isla; la isla Verde es uno de sus testimonios físicos
-- [Justicia territorial y territorios tradicionales de los pueblos indígenas de Taiwán](/society/台灣原住民族土地正義與傳統領域) — Tierra, territorios tradicionales y controversias contemporáneas desde la perspectiva indígena; la posición de los seis pueblos de Taitung en ese mapa
-- [Cantautores indígenas contemporáneos](/music/當代原住民創作歌手) — De Hu Defu a Chen Jian-nian y A-Mei; el contexto de la comunidad Nanwang como tierra natal de los Golden Melody
-- [Relieve costero y paisajes marinos de Taiwán](/geography/台灣海岸地形與海洋地景) — Formación geológica de la cordillera Central, la cordillera Costera y el valle longitudinal de Hualien-Taitung
-- [Condado de Miaoli](/geography/苗栗縣) — Serie de 22 condados y ciudades: la obstinación hakka frente a la paradoja del magistrado cinco estrellas; como Taitung, un condado mal leído a escala de la capital
-- [Condado de Yilan](/geography/宜蘭縣) — Serie de 22 condados y ciudades: dos Yilan antes y después del túnel de Hsuehshan; como Taitung, enfrenta la presión turística de ser “la última tierra pura del este”
-- [Ciudad de Chiayi](/geography/嘉義市) — Serie de 22 condados y ciudades: una ciudad provincial nombrada Chiayi por un emperador, pero entre las más fáciles de pasar por alto; como Taitung, posee una profundidad histórica ignorada
+- [Ecosistema de Lanyu](/es/nature/orchid-island-ecosystem) — Las especies endémicas y ecosistemas de la isla volcánica de Lanyu, y la base biogeográfica que convive con la cultura tradicional tao
+- [Prisión de la isla Verde](/es/history/green-island-prison) — Historia del encarcelamiento de presos políticos en el Centro de Reeducación de Nuevos Estudiantes y Oasis Villa entre 1951 y 1987; extensión de la sección §Huoshaodao de este artículo
+- [Ciudad de Keelung](/es/geography/keelung-city) — Otra ciudad de línea de falla en la serie de 22 condados y ciudades; como Taitung, queda invisible a escala de la capital, pero sigue una trayectoria de “puerto en declive” y no de “condado de menor densidad”
+- [Condado de Penghu](/es/geography/penghu-county) — Serie de 22 condados y ciudades: elección soberana de unas islas periféricas que rechazaron dos veces el juego; como Taitung, es uno de los condados más alejados de la isla principal, pero habitado por migrantes han y no por pueblos indígenas
+- [Condado de Lienchiang](/es/geography/lienchiang-county) — Serie de 22 condados y ciudades: islas periféricas con 36 años de administración de zona de guerra en Taiwán, una línea temporal casi paralela a los 36 años de presos políticos en la isla Verde
+- [Terror Blanco en Taiwán](/es/history/taiwan-white-terror) — Contexto de la opresión política posterior a 1949 en toda la isla; la isla Verde es uno de sus testimonios físicos
+- [Justicia territorial y territorios tradicionales de los pueblos indígenas de Taiwán](/es/society/indigenous-land-justice-and-traditional-territories) — Tierra, territorios tradicionales y controversias contemporáneas desde la perspectiva indígena; la posición de los seis pueblos de Taitung en ese mapa
+- [Cantautores indígenas contemporáneos](/es/music/contemporary-indigenous-singer-songwriters) — De Hu Defu a Chen Jian-nian y A-Mei; el contexto de la comunidad Nanwang como tierra natal de los Golden Melody
+- [Relieve costero y paisajes marinos de Taiwán](/es/geography/taiwan-coastal-landforms-and-seascapes) — Formación geológica de la cordillera Central, la cordillera Costera y el valle longitudinal de Hualien-Taitung
+- [Condado de Miaoli](/es/geography/miaoli-county) — Serie de 22 condados y ciudades: la obstinación hakka frente a la paradoja del magistrado cinco estrellas; como Taitung, un condado mal leído a escala de la capital
+- [Condado de Yilan](/es/geography/yilan-county) — Serie de 22 condados y ciudades: dos Yilan antes y después del túnel de Hsuehshan; como Taitung, enfrenta la presión turística de ser “la última tierra pura del este”
+- [Ciudad de Chiayi](/es/geography/chiayi-city) — Serie de 22 condados y ciudades: una ciudad provincial nombrada Chiayi por un emperador, pero entre las más fáciles de pasar por alto; como Taitung, posee una profundidad histórica ignorada
 
 ## Fuentes de las imágenes
 

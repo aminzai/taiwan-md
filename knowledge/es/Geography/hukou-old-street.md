@@ -95,10 +95,10 @@ El año en que fue abandonada debería haber marcado el final de esta calle; en 
 
 **Lectura complementaria:**
 
-- [Condado de Hsinchu](/geography/新竹縣) — El contexto completo del condado de Hsinchu donde se ubica Hukou: creencias hakka, el Festival de los Héroes Yimin y una percepción temporal distinta en la cuenca del río Touqian
-- [Campamento de Hukou y la memoria de la calle Shengli](/history/湖口營區與勝利路記憶) — Un mismo Hukou, una memoria militar y política diferente dentro y fuera de los muros
-- [Cultura gastronómica hakka](/food/客家飲食文化) — El contexto culinario hakka detrás de los aperitivos de la calle antigua como el taro y el tofu
-- [Calle termal de Beitou](/geography/北投溫泉街) — Otra calle antigua que experimentó altibajos por las obras de transporte y renació gracias a la conservación espontánea de sus residentes
+- [Condado de Hsinchu](/es/geography/hsinchu-county) — El contexto completo del condado de Hsinchu donde se ubica Hukou: creencias hakka, el Festival de los Héroes Yimin y una percepción temporal distinta en la cuenca del río Touqian
+- [Campamento de Hukou y la memoria de la calle Shengli](/es/history/hukou-camp-shengli-road-memory) — Un mismo Hukou, una memoria militar y política diferente dentro y fuera de los muros
+- [Cultura gastronómica hakka](/es/food/hakka-food-culture) — El contexto culinario hakka detrás de los aperitivos de la calle antigua como el taro y el tofu
+- [Calle termal de Beitou](/es/geography/beitou-hot-spring-street) — Otra calle antigua que experimentó altibajos por las obras de transporte y renació gracias a la conservación espontánea de sus residentes
 
 ## Referencias
 

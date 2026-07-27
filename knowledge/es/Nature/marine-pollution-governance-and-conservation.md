@@ -584,7 +584,7 @@ El núcleo de la conservación marina es la equidad intergeneracional: las decis
 
 **Lecturas complementarias**:
 
-- [Crisis climática y transición a cero emisiones en Taiwán](/nature/台灣氣候危機與淨零轉型) — Blanqueamiento de coral en la toma de agua de la central nuclear de Hengchun, conflictos pesqueros por la energía eólica marina, controversias de evaluación ambiental por la tercera terminal de gas natural en el arrecife de algas: cómo la transición climática está reconfigurando el campo de batalla de la gobernanza marina.
+- [Crisis climática y transición a cero emisiones en Taiwán](/es/nature/taiwan-climate-change-net-zero-transition) — Blanqueamiento de coral en la toma de agua de la central nuclear de Hengchun, conflictos pesqueros por la energía eólica marina, controversias de evaluación ambiental por la tercera terminal de gas natural en el arrecife de algas: cómo la transición climática está reconfigurando el campo de batalla de la gobernanza marina.
 
 ## Referencias
 

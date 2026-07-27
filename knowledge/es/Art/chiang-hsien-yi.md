@@ -273,10 +273,10 @@ Falta una hora para que el sol suba desde detrás de la Isla Verde.
 
 **Lecturas complementarias**:
 
-- [Desarrollo de la escultura contemporánea taiwanesa](/art/台灣當代雕塑發展) — De Huang Tu-shui a Yang Ying-feng y a la instalación contemporánea, un siglo de creación tridimensional en Taiwán
-- [Educación artística y desarrollo académico en Taiwán](/art/台灣藝術教育與學院發展) — Los sistemas de formación del Departamento de Arte de la Universidad Normal, la Escuela Nacional de Artes y el Departamento de Bellas Artes de Tunghai, y el trasfondo académico de Chiang Hsien-yi
-- [Curadores taiwaneses y construcción de cultura artística](/art/台灣策展人與藝術文化建構) — De Wang Jiaji a la práctica curatorial contemporánea: cómo una retrospectiva reformula la imagen pública de un artista
-- [Arte contemporáneo](/art/當代藝術) — El contexto general del movimiento de pintura abstracta posterior a la década de 1960 en Taiwán, la Fifth Moon Group y la Ton Fan Art Group
+- [Desarrollo de la escultura contemporánea taiwanesa](/es/art/development-of-contemporary-taiwanese-sculpture) — De Huang Tu-shui a Yang Ying-feng y a la instalación contemporánea, un siglo de creación tridimensional en Taiwán
+- [Educación artística y desarrollo académico en Taiwán](/es/art/taiwanese-art-education-and-academic-development) — Los sistemas de formación del Departamento de Arte de la Universidad Normal, la Escuela Nacional de Artes y el Departamento de Bellas Artes de Tunghai, y el trasfondo académico de Chiang Hsien-yi
+- [Curadores taiwaneses y construcción de cultura artística](/es/art/taiwanese-curators-and-artistic-cultural-construction) — De Wang Jiaji a la práctica curatorial contemporánea: cómo una retrospectiva reformula la imagen pública de un artista
+- [Arte contemporáneo](/es/art/contemporary-art) — El contexto general del movimiento de pintura abstracta posterior a la década de 1960 en Taiwán, la Fifth Moon Group y la Ton Fan Art Group
 
 ## Fuentes de las imágenes
 

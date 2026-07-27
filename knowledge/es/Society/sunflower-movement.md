@@ -42,11 +42,11 @@ A las 21:30 del 18 de marzo, más de doscientos estudiantes y miembros de orga
 
 Fue la primera ocupación del Congreso desde la democratización de Taiwán.
 
-Dentro del hemiciclo, los estudiantes presentaron tres demandas: retirar el Acuerdo de Comercio Transfronterizo, que el presidente [馬英九](/es/People/ma-ying-jeou-cross-strait-reconciliation-leader/) se disculpara, y que el premier Jiang Yi-hua renunciara. Afuera, miles de personas se reunían alrededor del edificio, superando los diez mil en los picos de asistencia. Lo que realmente distinguió a este movimiento no fue la cantidad de gente.
+Dentro del hemiciclo, los estudiantes presentaron tres demandas: retirar el Acuerdo de Comercio Transfronterizo, que el presidente [馬英九](/es/people/ma-ying-jeou-cross-strait-reconciliation-leader/) se disculpara, y que el premier Jiang Yi-hua renunciara. Afuera, miles de personas se reunían alrededor del edificio, superando los diez mil en los picos de asistencia. Lo que realmente distinguió a este movimiento no fue la cantidad de gente.
 
 ## Un iPad contra todas las cámaras
 
-La noche de la ocupación, ingenieros del gobierno digital de la iniciativa de tiempo cero [開源社群與g0v](/es/Technology/open-source-and-g0v/) se instalaron en el hemiciclo. Crearon, con Hackpad, una tabla descentralizada de necesidades de suministros y horarios; con Hackfoldr (uno de sus principales mantenedores, luego comisionado digital, Audrey Tang) integraron todos los puntos de información; y lo más crucial, un iPad quedó sujeto al soporte del micrófono, transmitiendo en vivo 24 horas por Ustream, sorteando el marco interpretativo de los medios tradicionales[^5].
+La noche de la ocupación, ingenieros del gobierno digital de la iniciativa de tiempo cero [開源社群與g0v](/es/technology/open-source-and-g0v/) se instalaron en el hemiciclo. Crearon, con Hackpad, una tabla descentralizada de necesidades de suministros y horarios; con Hackfoldr (uno de sus principales mantenedores, luego comisionado digital, Audrey Tang) integraron todos los puntos de información; y lo más crucial, un iPad quedó sujeto al soporte del micrófono, transmitiendo en vivo 24 horas por Ustream, sorteando el marco interpretativo de los medios tradicionales[^5].
 
 > **📝 Nota del curador**  
 > En 2014 Taiwán aún no tenía TikTok; Instagram apenas empezaba a popularizarse. Un iPad era el medio independiente de la época. Cuando la señal 3G se saturó, un equipo del Academia Sinica instaló una antena direccional para introducir señal Wi‑Max y llevó más de veinte cables Ethernet USB al recinto. No fue improvisación, sino infraestructura básica construida por ingenieros.
@@ -155,17 +155,17 @@ Aquellos treinta segundos, Zhang Qingzhong probablemente no imaginó que no esta
 
 **Lecturas relacionadas**:
 
-- [Transformación democrática de Taiwán](/history/台灣民主轉型) — De la dictadura a la democracia, la base institucional del movimiento Sunflower
-- [Incidente de la Isla Hermosa](/history/美麗島事件) — Cómo los activistas de 1979 abrieron la puerta a la democracia en la calle
-- [開源社群與 g0v](/technology/開源社群與g0v) — La comunidad de ingenieros detrás de la infraestructura digital del Sunflower
-- [Movimientos sociales y participación cívica](/society/社會運動與公民參與) — La evolución de la sociedad civil en Taiwán después del Sunflower
-- [Crisis del estrecho de Taiwán y desarrollo de relaciones a ambos lados del estrecho](/history/台海危機與兩岸關係發展) — El contexto geopolítico más amplio del debate del Acuerdo
-- [馬英九](/people/馬英九) — Decisiones presidenciales durante el paso del Acuerdo, el desalojo del gabinete ejecutivo el 24 de marzo y la salida del movimiento el 10 de abril
-- [Escuela de la mezcolanza](/society/雜學校) — La continuación de la energía fuera del sistema tras el 318: traducir la rebelión callejera en un caso de educación en Taiwán
-- [Festival de vida compleja](/society/複雜生活節) — La cuarta salida del “Sembrar fuera” del 318: sin elecciones, sin codificación, sin reclutamiento, reuniendo a cientos de “no exitosos” cada año
-- [Taiwán y Esuatini](/society/台灣與史瓦帝尼) — Declaraciones externas diez años después del Sunflower, cuando Lai Ching‑te reforzó los lazos diplomáticos: el significado concreto de “estado soberano”
-- [聶永真](/people/聶永真) — El diseñador detrás del anuncio de madrugada “Democracy at 4 am” del _New York Times_, registro del diseño que llevó al movimiento a la vista internacional
-- [La nación invisible](/art/看不見的國家) — El documental de Vanessa Hope sitúa el Movimiento Sunflower como uno de los hitos clave del arco de cuatrocientos años de democracia taiwanesa.
+- [Transformación democrática de Taiwán](/es/history/taiwan-democratization) — De la dictadura a la democracia, la base institucional del movimiento Sunflower
+- [Incidente de la Isla Hermosa](/es/history/kaohsiung-incident-formosa-incident) — Cómo los activistas de 1979 abrieron la puerta a la democracia en la calle
+- [開源社群與 g0v](/es/technology/open-source-and-g0v) — La comunidad de ingenieros detrás de la infraestructura digital del Sunflower
+- [Movimientos sociales y participación cívica](/es/society/social-movements-and-civic-participation) — La evolución de la sociedad civil en Taiwán después del Sunflower
+- [Crisis del estrecho de Taiwán y desarrollo de relaciones a ambos lados del estrecho](/es/history/taiwan-strait-crises-and-cross-strait-relations) — El contexto geopolítico más amplio del debate del Acuerdo
+- [馬英九](/es/people/ma-ying-jeou-cross-strait-reconciliation-leader) — Decisiones presidenciales durante el paso del Acuerdo, el desalojo del gabinete ejecutivo el 24 de marzo y la salida del movimiento el 10 de abril
+- [Escuela de la mezcolanza](/es/society/za-share) — La continuación de la energía fuera del sistema tras el 318: traducir la rebelión callejera en un caso de educación en Taiwán
+- [Festival de vida compleja](/es/society/complex-life-festival) — La cuarta salida del “Sembrar fuera” del 318: sin elecciones, sin codificación, sin reclutamiento, reuniendo a cientos de “no exitosos” cada año
+- [Taiwán y Esuatini](/es/society/taiwan-eswatini-relations) — Declaraciones externas diez años después del Sunflower, cuando Lai Ching‑te reforzó los lazos diplomáticos: el significado concreto de “estado soberano”
+- [聶永真](/es/people/nieh-yung-jen) — El diseñador detrás del anuncio de madrugada “Democracy at 4 am” del _New York Times_, registro del diseño que llevó al movimiento a la vista internacional
+- [La nación invisible](/es/art/invisible-nation) — El documental de Vanessa Hope sitúa el Movimiento Sunflower como uno de los hitos clave del arco de cuatrocientos años de democracia taiwanesa.
 
 ## Referencias
 

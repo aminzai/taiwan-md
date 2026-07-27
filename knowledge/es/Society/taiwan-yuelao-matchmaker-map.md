@@ -176,5 +176,5 @@ Esa cuerda roja que se extiende desde la dinastía Tang hasta el siglo XXI, en s
 
 ## Lecturas complementarias
 
-- [Matrimonio igualitario y equidad de género en Taiwán](/Society/台灣同婚與性別平權) — El contexto social más amplio del templo Wei Ming Tang del dios conejo Tu'er Shen como uno de los pocos templos exclusivos LGBT del mundo
-- [Cultura del voluntariado y participación en el bienestar público en Taiwán](/Society/台灣志工文化與公益參與) — La intersección entre las creencias populares y la cultura comunitaria
+- [Matrimonio igualitario y equidad de género en Taiwán](/es/society/taiwan-marriage-equality-lgbtq-rights) — El contexto social más amplio del templo Wei Ming Tang del dios conejo Tu'er Shen como uno de los pocos templos exclusivos LGBT del mundo
+- [Cultura del voluntariado y participación en el bienestar público en Taiwán](/es/society/volunteering-and-civic-charity-in-taiwan) — La intersección entre las creencias populares y la cultura comunitaria

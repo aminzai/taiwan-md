@@ -138,7 +138,7 @@ Desde la plata de Tokio hasta el primer puesto mundial, desde el oro asiático h
 
 **Lectura relacionada:**
 
-- [Kuo Hsing-chun](/people/郭婞淳) — Oro en halterofilia en los Juegos de Tokio, medallista olímpica taiwanés en tres ediciones consecutivas
+- [Kuo Hsing-chun](/es/people/kuo-hsing-chun-olympic-weightlifting-champion) — Oro en halterofilia en los Juegos de Tokio, medallista olímpica taiwanés en tres ediciones consecutivas
 
 ## Referencias
 

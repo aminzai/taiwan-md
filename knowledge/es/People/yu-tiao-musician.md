@@ -100,9 +100,9 @@ Catorce años, tres personas, desde Zhongzheng hasta hoy. Dicen que no predican,
 **Lecturas complementarias**:
 
 - [Música independiente taiwanesa](/es/music/taiwan-independent-music-scene-evolution/) — Del indie natural de Natural Q al post-rock de No Party For Cao Dong y el post-hardcore de Fish Stick: el contexto evolutivo de la música independiente taiwanesa
-- [No Party For Cao Dong](/people/草東沒有派對) — También formados por compañeros de secundaria en Taipéi, dos veces mejor banda en los Golden Premios, contrapunto post-rock
-- [坏特](/people/壞特) — Músico independiente taiwanés contemporáneo, camino completamente opuesto por la vía del R&B bedroom-pop
-- [康士坦的變化球](/people/康士坦的變化球) — Escena de rock independiente de Taipéi, referencia en la línea narrativa vocal
+- [No Party For Cao Dong](/es/people/no-party-for-cao-dong) — También formados por compañeros de secundaria en Taipéi, dos veces mejor banda en los Golden Premios, contrapunto post-rock
+- [坏特](/es/people/huai-te-indie-singer) — Músico independiente taiwanés contemporáneo, camino completamente opuesto por la vía del R&B bedroom-pop
+- [康士坦的變化球](/es/people/constant-and-change-band) — Escena de rock independiente de Taipéi, referencia en la línea narrativa vocal
 
 ## Enlaces externos
 

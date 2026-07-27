@@ -146,11 +146,11 @@ Estos números siguen fluyendo.
 
 **Lectura adicional**:
 
-- [Linguistic Diversity and Mother Tongue Culture](/culture/語言多樣性與母語文化) — La velocidad de pérdida del taiwanés, hakka y lenguajes indígenas y los movimientos de revitalización
-- [Historia de los Pueblos Indígenas de Taiwán y el Movimiento de Corrección de Nombres](/history/台灣原住民族歷史與正名運動) — La lucha de diez años de corrección de nombres de «shanbao» a «pueblos indígenas»
-- [Mapa Cultural de las 16 Etnias de los Pueblos Indígenas de Taiwán](/culture/台灣原住民族16族文化地圖) — Distribución, lenguajes y características culturales de las 16 etnias
-- [Cultura Hakka y Lenguaje](/culture/客家文化與語言) — Migración histórica y conservación cultural del grupo hakka
-- [El Incidente del 28 de Febrero](/history/二二八事件) — El origen histórico de los conflictos étnicos de posguerra
+- [Linguistic Diversity and Mother Tongue Culture](/es/culture/linguistic-diversity-and-mother-tongue-culture) — La velocidad de pérdida del taiwanés, hakka y lenguajes indígenas y los movimientos de revitalización
+- [Historia de los Pueblos Indígenas de Taiwán y el Movimiento de Corrección de Nombres](/es/history/indigenous-peoples-history-and-naming-movement) — La lucha de diez años de corrección de nombres de «shanbao» a «pueblos indígenas»
+- [Mapa Cultural de las 16 Etnias de los Pueblos Indígenas de Taiwán](/es/culture/indigenous-peoples-16-tribes-cultural-map) — Distribución, lenguajes y características culturales de las 16 etnias
+- [Cultura Hakka y Lenguaje](/es/culture/hakka-culture-and-language) — Migración histórica y conservación cultural del grupo hakka
+- [El Incidente del 28 de Febrero](/es/history/228-incident) — El origen histórico de los conflictos étnicos de posguerra
 
 ## Referencias
 

@@ -245,13 +245,13 @@ Después de esos 102 segundos a la 1:47 a. m., Nantou no se convirtió en ruinas
 
 ## Lecturas adicionales
 
-- [Lago Sun Moon](/geography/日月潭) — El proyecto de la presa de Wujie de 1934 que elevó la superficie del lago 18,18 metros, la mayor instalación hidroeléctrica de Asia, la historia completa de la migración de los Thao
-- [Monte Yushan](/geography/玉山) — El pico más alto de Taiwán a 3.952 metros, el Parque Nacional Yushan abarca cuatro condados: Xinyi en Nantou / Alishan en Chiayi / Taoyuan en Kaohsiung / Zhuoxi en Hualien
-- [Historia de los pueblos indígenas de Taiwán y movimientos de reconocimiento](/history/台灣原住民族歷史與正名運動) — El contexto nacional del reconocimiento de los Thao como décimo pueblo en 2001, los Taroko en 2004 y los Seediq en 2008
-- [Canto de ocho partes](/music/八部合音) — El pasibutbut solo se transmite entre las comunidades Luanshe y Junshe del pueblo Bunun; la verdad sobre la comunidad Mingde
-- [Era prehistórica e indígenas](/history/史前時代與原住民) — La línea temporal de mil años de residencia de los pueblos Seediq, Bunun, Thao y Tsou en la cordillera central
-- [Condado de Keelung](/geography/基隆市) — Piloto de la serie de 22 condados: del séptimo puerto de contenedores del mundo en 1984 al puesto 113 en 2018, un condado igualmente omitido por la narrativa central
-- [Condado de Miaoli](/geography/苗栗縣) — Hermano interior del lote 1 de la serie de 22 condados: la tenacidad Hakka frente a la deuda duplicada del tesoro del condado, enfrentando el mismo doble dilema de «emigración de población montañesa + teatro político»
+- [Lago Sun Moon](/es/geography/sun-moon-lake) — El proyecto de la presa de Wujie de 1934 que elevó la superficie del lago 18,18 metros, la mayor instalación hidroeléctrica de Asia, la historia completa de la migración de los Thao
+- [Monte Yushan](/es/geography/yushan-jade-mountain) — El pico más alto de Taiwán a 3.952 metros, el Parque Nacional Yushan abarca cuatro condados: Xinyi en Nantou / Alishan en Chiayi / Taoyuan en Kaohsiung / Zhuoxi en Hualien
+- [Historia de los pueblos indígenas de Taiwán y movimientos de reconocimiento](/es/history/indigenous-peoples-history-and-naming-movement) — El contexto nacional del reconocimiento de los Thao como décimo pueblo en 2001, los Taroko en 2004 y los Seediq en 2008
+- [Canto de ocho partes](/es/music/bunun-pasibutbut-eight-part-polyphony) — El pasibutbut solo se transmite entre las comunidades Luanshe y Junshe del pueblo Bunun; la verdad sobre la comunidad Mingde
+- [Era prehistórica e indígenas](/es/history/prehistoric-era-and-indigenous-peoples) — La línea temporal de mil años de residencia de los pueblos Seediq, Bunun, Thao y Tsou en la cordillera central
+- [Condado de Keelung](/es/geography/keelung-city) — Piloto de la serie de 22 condados: del séptimo puerto de contenedores del mundo en 1984 al puesto 113 en 2018, un condado igualmente omitido por la narrativa central
+- [Condado de Miaoli](/es/geography/miaoli-county) — Hermano interior del lote 1 de la serie de 22 condados: la tenacidad Hakka frente a la deuda duplicada del tesoro del condado, enfrentando el mismo doble dilema de «emigración de población montañesa + teatro político»
 
 ## Fuentes de las imágenes
 

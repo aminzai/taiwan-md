@@ -53,10 +53,10 @@ Su tesis central no ha cambiado: la educación taiwanesa entrena a los estudiant
 
 **Lecturas complementarias**:
 
-- [Huang Kuo-chen](/people/黃國珍) — Otro innovador educativo impulsor de la enseñanza de competencias lectoras en Taiwán
-- [Lu Kuan-wei](/people/呂冠緯) — Presidente de la plataforma educativa Junyi Academy, dejó la medicina por la educación para crear la versión taiwanesa de Khan Academy
-- [Yen Chang-shou](/people/嚴長壽) — Empresario social que pasó del sector turístico a la educación rural
-- [Audrey Tang](/people/唐鳳) — Punto de encuentro entre gobernanza digital e innovación educativa
+- [Huang Kuo-chen](/es/people/huang-kuo-chen) — Otro innovador educativo impulsor de la enseñanza de competencias lectoras en Taiwán
+- [Lu Kuan-wei](/es/people/lu-guan-wei-junyiacademy-founder) — Presidente de la plataforma educativa Junyi Academy, dejó la medicina por la educación para crear la versión taiwanesa de Khan Academy
+- [Yen Chang-shou](/es/people/stanley-yen) — Empresario social que pasó del sector turístico a la educación rural
+- [Audrey Tang](/es/people/audrey-tang) — Punto de encuentro entre gobernanza digital e innovación educativa
 
 ## Referencias
 

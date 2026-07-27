@@ -124,9 +124,9 @@ En el sótano del número 286 de Linsen North Road, el Two Three Comedy Club, Bo
 
 **Lecturas complementarias**:
 
-- [Tsai Ing-wen](/people/蔡英文) — La primera candidata presidencial que entró al estudio de _The Night Night Show with Brian Tseng_ en 2019
-- [Han Kuo-yu](/people/韓國瑜) — El extraño más familiar de la misma temporada del programa; su único pedido fue que no bromearan sobre su peinado
-- [Cheng Nan-jung](/people/鄭南榕) — Activista del movimiento tangwai que se autoinmoló en 1989 en busca de una libertad de expresión del cien por ciento y que en 2019 se convirtió en el punto de partida del desajuste de Bo-en
+- [Tsai Ing-wen](/es/people/tsai-ing-wen) — La primera candidata presidencial que entró al estudio de _The Night Night Show with Brian Tseng_ en 2019
+- [Han Kuo-yu](/es/people/han-kuo-yu) — El extraño más familiar de la misma temporada del programa; su único pedido fue que no bromearan sobre su peinado
+- [Cheng Nan-jung](/es/people/zheng-nanrong) — Activista del movimiento tangwai que se autoinmoló en 1989 en busca de una libertad de expresión del cien por ciento y que en 2019 se convirtió en el punto de partida del desajuste de Bo-en
 
 ## Fuentes de imágenes
 

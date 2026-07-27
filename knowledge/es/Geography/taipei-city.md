@@ -198,15 +198,15 @@ La próxima vez que vayas a Taipéi, no recorras solo el 101 de Xinyi y el merca
 
 ## Lecturas complementarias
 
-- [Ciudad de Keelung](/geography/基隆市) — piloto de la serie de 22 ciudades y condados: el puerto más cercano a Taipéi, el puerto madre de Taipéi; en 1949 el Gobierno Nacionalista desembarcó en el puerto de Keelung antes de llegar a Taipéi
-- [Nuevo Taipéi](/geography/新北市) — ciudad satélite que rodea a la ciudad de Taipéi; cada día más de 1 millón de personas viajan desde Nuevo Taipéi para trabajar en Taipéi
-- [Ciudad de Taoyuan](/geography/桃園市) — en 1979 se inauguró el Aeropuerto Internacional Chiang Kai-shek de Taoyuan; la puerta taiwanesa de pasajeros al exterior pasó de Keelung a Taoyuan, y Taipéi perdió su puerta marítima
-- [Ciudad de Kaohsiung](/geography/高雄市) — la segunda municipalidad especial, elevada en 1979, 12 años después que Taipéi; el asesinato de la familia Lin de 1980 ocurrió en el número 16 del carril 31, sección 3, Xinyi Road, ciudad de Taipéi
-- [Ciudad de Taichung](/geography/台中市) — elevada a municipalidad especial en 2010, 43 años después que Taipéi; dos formas de división de funciones entre una ciudad del centro de Taiwán y Taipéi
-- [Ciudad de Tainan](/geography/台南市) — capital inicial del período Qing desde 1683; en 1920 fue establecida como ciudad al mismo tiempo que Taipéi y Taichung
-- [Incidente del 28 de Febrero](/history/二二八事件) — el primer disparo del 27 de febrero de 1947 en la Casa de Té Tianma de Nanjing West Road, Taipéi; la herida política más profunda de la Taiwán de posguerra
-- [Movimiento estudiantil Lirio Silvestre](/society/野百合學運) — del 16 al 22 de marzo de 1990 frente al Salón Conmemorativo de Chiang Kai-shek, 7 días y 6 noches, 6.000 estudiantes y cuatro demandas principales
-- [Movimiento estudiantil Girasol](/society/太陽花學運) — el 18 de marzo de 2014, ocupación del Yuan Legislativo de Taipéi durante 24 días
+- [Ciudad de Keelung](/es/geography/keelung-city) — piloto de la serie de 22 ciudades y condados: el puerto más cercano a Taipéi, el puerto madre de Taipéi; en 1949 el Gobierno Nacionalista desembarcó en el puerto de Keelung antes de llegar a Taipéi
+- [Nuevo Taipéi](/es/geography/new-taipei-city) — ciudad satélite que rodea a la ciudad de Taipéi; cada día más de 1 millón de personas viajan desde Nuevo Taipéi para trabajar en Taipéi
+- [Ciudad de Taoyuan](/es/geography/taoyuan-city) — en 1979 se inauguró el Aeropuerto Internacional Chiang Kai-shek de Taoyuan; la puerta taiwanesa de pasajeros al exterior pasó de Keelung a Taoyuan, y Taipéi perdió su puerta marítima
+- [Ciudad de Kaohsiung](/es/geography/kaohsiung-city) — la segunda municipalidad especial, elevada en 1979, 12 años después que Taipéi; el asesinato de la familia Lin de 1980 ocurrió en el número 16 del carril 31, sección 3, Xinyi Road, ciudad de Taipéi
+- [Ciudad de Taichung](/es/geography/taichung-city) — elevada a municipalidad especial en 2010, 43 años después que Taipéi; dos formas de división de funciones entre una ciudad del centro de Taiwán y Taipéi
+- [Ciudad de Tainan](/es/geography/tainan-city) — capital inicial del período Qing desde 1683; en 1920 fue establecida como ciudad al mismo tiempo que Taipéi y Taichung
+- [Incidente del 28 de Febrero](/es/history/228-incident) — el primer disparo del 27 de febrero de 1947 en la Casa de Té Tianma de Nanjing West Road, Taipéi; la herida política más profunda de la Taiwán de posguerra
+- [Movimiento estudiantil Lirio Silvestre](/es/society/wild-lily-student-movement) — del 16 al 22 de marzo de 1990 frente al Salón Conmemorativo de Chiang Kai-shek, 7 días y 6 noches, 6.000 estudiantes y cuatro demandas principales
+- [Movimiento estudiantil Girasol](/es/society/sunflower-movement) — el 18 de marzo de 2014, ocupación del Yuan Legislativo de Taipéi durante 24 días
 
 ## Fuentes de imágenes
 

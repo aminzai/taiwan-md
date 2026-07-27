@@ -84,7 +84,7 @@ Aquella cuota de 10 yuanes pagada al matriculante representaba la oportunidad de
 
 **Lectura complementaria**:
 
-- [La cultura de las tiendas de conveniencia en Taiwán](/lifestyle/台灣便利商店文化) — El principal proveedor de alimentos escolares tras la desaparición de las cooperativas, el caso más típico de "cadena global + adaptación local" en el comercio minorista taiwanés tras el levantamiento de la ley marcial.
+- [La cultura de las tiendas de conveniencia en Taiwán](/es/lifestyle/convenience-store-culture) — El principal proveedor de alimentos escolares tras la desaparición de las cooperativas, el caso más típico de "cadena global + adaptación local" en el comercio minorista taiwanés tras el levantamiento de la ley marcial.
 
 ## Referencias
 

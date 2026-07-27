@@ -107,9 +107,9 @@ Oso dijo una vez: «La gente común no es mediocre por definición». Esta frase
 
 ## Lecturas complementarias
 
-- [大宇雙劍](/technology/大宇雙劍) — El punto de partida de los videojuegos de artes marciales taiwaneses hace treinta años
-- [赤燭遊戲](/technology/赤燭遊戲) — Otro camino para los videojuegos independientes taiwaneses
-- [台灣遊戲產業與數位娛樂](/technology/台灣遊戲產業與數位娛樂) — Panorama completo: de la distribución a la creación original
+- [大宇雙劍](/es/technology/softstar-twin-classics) — El punto de partida de los videojuegos de artes marciales taiwaneses hace treinta años
+- [赤燭遊戲](/es/technology/red-candle-games) — Otro camino para los videojuegos independientes taiwaneses
+- [台灣遊戲產業與數位娛樂](/es/technology/taiwan-gaming-industry) — Panorama completo: de la distribución a la creación original
 
 ---
 

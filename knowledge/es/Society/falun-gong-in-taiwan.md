@@ -69,8 +69,8 @@ La presencia tranquila de Falun Gong en Taiwán constituye una forma de resisten
 
 **Lecturas complementarias**
 
-- [Equipo de trabajo unificado](/society/統戰團) — De los viajes turísticos de bajo costo a la influencia de los influencers, análisis de las nuevas y viejas tácticas del Partido Comunista en la línea de unificación contra Taiwán.
-- [Operaciones de información](/society/認知作戰) — Marco sistémico de la manipulación cognitiva y las respuestas de Taiwán, desde el análisis académico hasta la educación cívica práctica.
+- [Equipo de trabajo unificado](/es/society/united-front-tour-groups) — De los viajes turísticos de bajo costo a la influencia de los influencers, análisis de las nuevas y viejas tácticas del Partido Comunista en la línea de unificación contra Taiwán.
+- [Operaciones de información](/es/society/cognitive-warfare-against-taiwan) — Marco sistémico de la manipulación cognitiva y las respuestas de Taiwán, desde el análisis académico hasta la educación cívica práctica.
 
 ## Referencias
 

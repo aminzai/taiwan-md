@@ -95,6 +95,6 @@ La energía artística ya no se concentra únicamente en Taipéi; Taichung, Tain
 
 **Lecturas complementarias**
 
-- [Tehching Hsieh (Xie Deqing)](/art/謝德慶) — Pionero del arte de performance taiwanés con sus cinco performances de un año en Nueva York en la década de 1980, coordenada temprana de la visibilidad internacional del arte contemporáneo
-- [Wang Xinren (Aluan)](/art/王新仁) — Primer artista generativo taiwanés en Art Blocks (2021), figura representativa del arte blockchain y del proyecto Baishan de FAB DAO
-- [Zheng Wenqi: 12 años impulsando el círculo artístico taiwanés hacia el archipiélago malayo](/people/鄭文琦) — Editor de _Digital Wilderness_ (_Shuipang Huangyuan_), cuatro marcos — archipiéliferos/periferia/descolonización/circum Pacífico — que añaden una perspectiva meridional al mapa discursivo del arte contemporáneo
+- [Tehching Hsieh (Xie Deqing)](/es/art/tehching-hsieh-performance-artist) — Pionero del arte de performance taiwanés con sus cinco performances de un año en Nueva York en la década de 1980, coordenada temprana de la visibilidad internacional del arte contemporáneo
+- [Wang Xinren (Aluan)](/es/art/wang-hsin-jen-artist) — Primer artista generativo taiwanés en Art Blocks (2021), figura representativa del arte blockchain y del proyecto Baishan de FAB DAO
+- [Zheng Wenqi: 12 años impulsando el círculo artístico taiwanés hacia el archipiélago malayo](/es/people/cheng-wen-chi) — Editor de _Digital Wilderness_ (_Shuipang Huangyuan_), cuatro marcos — archipiéliferos/periferia/descolonización/circum Pacífico — que añaden una perspectiva meridional al mapa discursivo del arte contemporáneo

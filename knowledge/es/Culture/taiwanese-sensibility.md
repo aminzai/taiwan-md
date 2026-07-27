@@ -133,13 +133,13 @@ El puente peatonal Heping-Xinsheng ya es un terreno vacío. Pero en las fotos de
 
 **Lecturas complementarias**:
 
-- [Arquitectura taiwanesa](/art/台灣建築) — Desde el período colonial japonés hasta la actualidad, cómo la arquitectura de Taiwán se ha ido superponiendo capa tras capa hasta convertirse en lo que es hoy
-- [Cine taiwanés](/art/台灣電影) — Los planos secuencia de Hou Hsiao-hsien, Edward Yang y Tsai Ming-liang son el gen cinematográfico de la sensibilidad taiwanesa
-- [Ceremonia del té taiwanesa y estética de la vida cotidiana](/culture/台灣茶道與生活美學) — Otra representación de la vida lenta en Taiwán: la estética cotidiana taiwanesa a través de la mesa de té
-- [Cultura de las tiendas de conveniencia en Taiwán](/lifestyle/台灣便利商店文化) — Las tiendas de conveniencia iluminadas de noche son una escena clásica de la sensibilidad taiwanesa
-- [Religión y cultura de los templos en Taiwán](/culture/台灣宗教與寺廟文化) — Los templos son el estrato de color y fe más intenso del paisaje urbano taiwanés
-- [Tzuyu Chou](/people/周子瑜) — Uno de los rostros taiwaneses que aparecen primero en la ruta de conocimiento que los coreanos tienen de Taiwán
-- [Tehching Hsieh](/art/謝德慶) — El artista de performance taiwanés que toma «el tiempo y la vida» directamente como obra: otra versión extrema de la sensibilidad taiwanesa
+- [Arquitectura taiwanesa](/es/art/taiwanese-architecture) — Desde el período colonial japonés hasta la actualidad, cómo la arquitectura de Taiwán se ha ido superponiendo capa tras capa hasta convertirse en lo que es hoy
+- [Cine taiwanés](/es/art/taiwanese-cinema) — Los planos secuencia de Hou Hsiao-hsien, Edward Yang y Tsai Ming-liang son el gen cinematográfico de la sensibilidad taiwanesa
+- [Ceremonia del té taiwanesa y estética de la vida cotidiana](/es/culture/taiwan-tea-ceremony-and-aesthetic-living) — Otra representación de la vida lenta en Taiwán: la estética cotidiana taiwanesa a través de la mesa de té
+- [Cultura de las tiendas de conveniencia en Taiwán](/es/lifestyle/convenience-store-culture) — Las tiendas de conveniencia iluminadas de noche son una escena clásica de la sensibilidad taiwanesa
+- [Religión y cultura de los templos en Taiwán](/es/culture/taiwan-religion-and-temple-culture) — Los templos son el estrato de color y fe más intenso del paisaje urbano taiwanés
+- [Tzuyu Chou](/es/people/tzuyu) — Uno de los rostros taiwaneses que aparecen primero en la ruta de conocimiento que los coreanos tienen de Taiwán
+- [Tehching Hsieh](/es/art/tehching-hsieh-performance-artist) — El artista de performance taiwanés que toma «el tiempo y la vida» directamente como obra: otra versión extrema de la sensibilidad taiwanesa
 
 ## Referencias
 

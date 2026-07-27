@@ -142,10 +142,10 @@ El Zun en el video de la nueva casa es la misma persona que el transmisor de vid
 
 **Lectura adicional:**
 
-- [A-Shen](/people/阿神) — También comenzó con videos de videojuegos; la publicación diaria de once años de A-Shen y la posterior retirada del compromiso de publicación fija pueden contrastar con el ritmo de trabajo de otro creador a largo plazo.
-- [HowHow](/people/Howhow) — También vino desde los primeros días de YouTube en Taiwán, poniendo comedia absurda, patrocinios y vida familiar en la misma identidad creativa.
-- [Cai A-Ga](/people/蔡阿嘎) — Pasó de videos individuales a canales de equipo y familia, contrastando con la trayectoria de madurez de otro creador a largo plazo.
-- [Gamer](/culture/巴哈姆特) — Una entrada importante para los videojuegos y la comunidad en línea en Taiwán, también fue uno de los suelos donde creció la cultura temprana de las transmisiones.
+- [A-Shen](/es/people/red-shin-minecraft-youtuber) — También comenzó con videos de videojuegos; la publicación diaria de once años de A-Shen y la posterior retirada del compromiso de publicación fija pueden contrastar con el ritmo de trabajo de otro creador a largo plazo.
+- [HowHow](/es/people/howhow) — También vino desde los primeros días de YouTube en Taiwán, poniendo comedia absurda, patrocinios y vida familiar en la misma identidad creativa.
+- [Cai A-Ga](/es/people/tsai-a-ga-youtuber) — Pasó de videos individuales a canales de equipo y familia, contrastando con la trayectoria de madurez de otro creador a largo plazo.
+- [Gamer](/es/culture/bahamut-taiwan-gaming-community) — Una entrada importante para los videojuegos y la comunidad en línea en Taiwán, también fue uno de los suelos donde creció la cultura temprana de las transmisiones.
 
 ## Fuentes de imagen
 

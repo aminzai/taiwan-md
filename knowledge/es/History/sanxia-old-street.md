@@ -58,8 +58,8 @@ La historia de la calle antigua continúa. Ya no se trata simplemente de transac
 
 **Lectura complementaria**:
 
-- [Tintorería azul](/culture/藍染) — La propia artesanía que hizo proliferar los tintoreros en Sanjiao Yong: la historia completa de revitalización, desde los grandes volúmenes de exportación en la época Qing hasta la confección en 1999 de la primera pañoleta azul en setenta años
-- [Artesanía tradicional taiwanesa y patrimonio cultural inmaterial](/culture/台灣傳統工藝與無形文化資產) — La posición de la revitalización de la tintorería azul de Sanxia dentro del sistema de conservación de la artesanía en Taiwán
+- [Tintorería azul](/es/culture/taiwan-indigo-dyeing) — La propia artesanía que hizo proliferar los tintoreros en Sanjiao Yong: la historia completa de revitalización, desde los grandes volúmenes de exportación en la época Qing hasta la confección en 1999 de la primera pañoleta azul en setenta años
+- [Artesanía tradicional taiwanesa y patrimonio cultural inmaterial](/es/culture/traditional-crafts-intangible-cultural-heritage) — La posición de la revitalización de la tintorería azul de Sanxia dentro del sistema de conservación de la artesanía en Taiwán
 
 ## Referencias
 

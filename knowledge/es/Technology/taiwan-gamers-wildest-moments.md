@@ -143,11 +143,11 @@ Ese camión ya se fue hace tiempo. Pero quienes lo persiguieron recuerdan la dir
 
 ## Lecturas complementarias
 
-- [Industria del juego y entretenimiento digital en Taiwán](/technology/台灣遊戲產業與數位娛樂) — Panorama completo del gaming taiwanés, desde la distribución hasta la creación original
-- [Cultura de las tiendas de conveniencia en Taiwán](/lifestyle/台灣便利商店文化) — El requisito previo para perseguir camiones de logística: la segunda mayor densidad de tiendas de conveniencia del mundo
-- [Historia de la migración de las comunidades en línea en Taiwán](/technology/台灣網路社群遷徙史) — La infraestructura de difusión de información detrás de estos momentos de locura
-- [Las dos espadas de Softstar](/technology/大宇雙劍) — La educación sentimental de una generación anterior de jugadores taiwaneses
-- [不入地窖焉能睡覺](/technology/不入地窖焉能睡覺) — El escenario de las plataformas sociales donde ocurrieron estos momentos de locura
+- [Industria del juego y entretenimiento digital en Taiwán](/es/technology/taiwan-gaming-industry) — Panorama completo del gaming taiwanés, desde la distribución hasta la creación original
+- [Cultura de las tiendas de conveniencia en Taiwán](/es/lifestyle/convenience-store-culture) — El requisito previo para perseguir camiones de logística: la segunda mayor densidad de tiendas de conveniencia del mundo
+- [Historia de la migración de las comunidades en línea en Taiwán](/es/technology/taiwan-online-community-migration) — La infraestructura de difusión de información detrás de estos momentos de locura
+- [Las dos espadas de Softstar](/es/technology/softstar-twin-classics) — La educación sentimental de una generación anterior de jugadores taiwaneses
+- [不入地窖焉能睡覺](/es/technology/into-the-cellar-taiwan-game-podcast) — El escenario de las plataformas sociales donde ocurrieron estos momentos de locura
 
 ---
 

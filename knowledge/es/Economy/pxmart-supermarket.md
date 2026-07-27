@@ -65,7 +65,7 @@ Lin Min-hsiung dijo alguna vez que Pxmart es "el centro de bienestar de los taiw
 
 ## Lectura complementaria
 
-- **[Mascotas corporativas](/lifestyle/吉祥物)** — El oso de Pxmart y Open-chan: la gestión de propiedad intelectual de las mascotas minoristas
+- **[Mascotas corporativas](/es/lifestyle/mascot-culture-in-taiwan)** — El oso de Pxmart y Open-chan: la gestión de propiedad intelectual de las mascotas minoristas
 - **[La cultura de las tiendas de conveniencia en Taiwán](/culture/台灣便利商店文化)** — El lugar de Pxmart, 7-Eleven y FamilyMap en el comercio minorista taiwanés
 - **[La economía de la entrega a domicilio en Taiwán](/economy/台灣外送經濟)** — Cómo Pxmart 小時達 irrumpió en el mercado de foodpanda y Uber Eats
 - **[Pagos móviles en Taiwán](/technology/台灣行動支付)** — El panorama competitivo de pagos electrónicos: PXPay, JKOPay y LINE Pay

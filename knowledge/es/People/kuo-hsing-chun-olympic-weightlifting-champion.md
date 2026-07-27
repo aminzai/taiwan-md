@@ -5,7 +5,18 @@ date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '體育'
-tags: ['personas', 'Kuo Hsing-chun', 'halterofilia', 'Juegos Olímpicos', 'medalla de oro', 'deportista', 'Taiwán', 'pueblo amis', 'pueblos indígenas']
+tags:
+  [
+    'personas',
+    'Kuo Hsing-chun',
+    'halterofilia',
+    'Juegos Olímpicos',
+    'medalla de oro',
+    'deportista',
+    'Taiwán',
+    'pueblo amis',
+    'pueblos indígenas',
+  ]
 lastVerified: 2026-05-16
 lastHumanReview: true
 featured: false
@@ -96,11 +107,11 @@ Su bisabuela transmitió cultura con la voz; ella lo hace con la barra y la cheq
 
 **Lecturas relacionadas**:
 
-- [Tai Tzu-ying](/people/戴資穎) — Figura central de la delegación taiwanesa en los Juegos Olímpicos de Tokio y reina mundial del bádminton
-- [Yang Yung-wei](/people/楊勇緯) — Plata olímpica en judo en Tokio y primera medalla olímpica del judo taiwanés
-- [La dupla Lin-Yang](/people/麟洋配) — Oro olímpico en dobles masculinos de bádminton en Tokio; la historia de Wang Chi-lin y Lee Yang
-- [Lee Yang](/people/李洋) — Biografía del doble campeón olímpico que pasó a ser el primer ministro de Deportes
-- [Lee Chih-kai](/people/李智凱) — Plata olímpica en caballo con arzones en Tokio; dos décadas de trayectoria del “niño que daba vueltas”
+- [Tai Tzu-ying](/es/people/tai-tzu-ying) — Figura central de la delegación taiwanesa en los Juegos Olímpicos de Tokio y reina mundial del bádminton
+- [Yang Yung-wei](/es/people/yang-yung-wei-judo-olympic-silver) — Plata olímpica en judo en Tokio y primera medalla olímpica del judo taiwanés
+- [La dupla Lin-Yang](/es/people/lin-yang-duo-taiwan-badminton-champions) — Oro olímpico en dobles masculinos de bádminton en Tokio; la historia de Wang Chi-lin y Lee Yang
+- [Lee Yang](/es/people/lee-yang-badminton) — Biografía del doble campeón olímpico que pasó a ser el primer ministro de Deportes
+- [Lee Chih-kai](/es/people/li-chih-kai) — Plata olímpica en caballo con arzones en Tokio; dos décadas de trayectoria del “niño que daba vueltas”
 
 ## Referencias
 

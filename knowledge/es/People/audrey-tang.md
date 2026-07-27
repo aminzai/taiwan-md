@@ -224,9 +224,9 @@ _Firma personal publicada por Audrey Tang en agosto de 2021, originalmente para 
 
 ## Lecturas complementarias
 
-- [Sodagreen: del pequeño escenario de Gongliao a la lucha de «Oaeen», una batalla de veinte años por recuperar la soberanía musical](/music/蘇打綠) — otro caso atípico taiwanés surgido en la década de 2000, y otra lucha prolongada por «rechazar ser encuadrado por una identidad establecida»; solo que el escenario fue la industria musical y no el gobierno
-- [Hsiao Shang-nung](/people/蕭上農) — cofundador de INSIDE y iCook, también define su papel en el ecosistema tecnológico taiwanés a partir de «cruzar múltiples campos»
-- [Wu Ta-you](/people/吳大猷) — una transmisión de élites del conocimiento taiwanés de la ciencia a la tecnología; como presidente de la Academia Sinica, Wu Ta-you sentó bases para el sistema taiwanés de investigación científica
+- [Sodagreen: del pequeño escenario de Gongliao a la lucha de «Oaeen», una batalla de veinte años por recuperar la soberanía musical](/es/music/sodagreen) — otro caso atípico taiwanés surgido en la década de 2000, y otra lucha prolongada por «rechazar ser encuadrado por una identidad establecida»; solo que el escenario fue la industria musical y no el gobierno
+- [Hsiao Shang-nung](/es/people/tony-hsiao-inside-founder) — cofundador de INSIDE y iCook, también define su papel en el ecosistema tecnológico taiwanés a partir de «cruzar múltiples campos»
+- [Wu Ta-you](/es/people/tai-yu-wu) — una transmisión de élites del conocimiento taiwanés de la ciencia a la tecnología; como presidente de la Academia Sinica, Wu Ta-you sentó bases para el sistema taiwanés de investigación científica
 
 ---
 

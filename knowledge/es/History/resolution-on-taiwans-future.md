@@ -196,7 +196,7 @@ Los jóvenes taiwaneses de veinte años consideran un sentido común que "Taiwá
 
 ## Lecturas complementarias
 
-- [Transición democrática de Taiwán](/History/台灣民主轉型) — Del estado de excepción a la democratización: el contexto más amplio en el que nació la Resolución sobre el Futuro.
-- [Elecciones y partidos políticos en Taiwán](/History/台灣選舉與政黨政治) — Cómo la transformación de línea del DPP influyó en la política electoral taiwanesa.
-- [Incidente de Formosa](/History/美麗島事件) — El punto de partida de los veinticinco años de prisión política de Shih Ming-teh: para comprender el contexto histórico del movimiento extrapartidista.
-- [Crisis del estrecho y desarrollo de las relaciones a través del estrecho](/History/台海危機與兩岸關係發展) — Cómo la crisis del estrecho de 1996 aceleró la pragmatización del DPP.
+- [Transición democrática de Taiwán](/es/history/taiwan-democratization) — Del estado de excepción a la democratización: el contexto más amplio en el que nació la Resolución sobre el Futuro.
+- [Elecciones y partidos políticos en Taiwán](/es/history/taiwan-elections-and-party-politics) — Cómo la transformación de línea del DPP influyó en la política electoral taiwanesa.
+- [Incidente de Formosa](/es/history/kaohsiung-incident-formosa-incident) — El punto de partida de los veinticinco años de prisión política de Shih Ming-teh: para comprender el contexto histórico del movimiento extrapartidista.
+- [Crisis del estrecho y desarrollo de las relaciones a través del estrecho](/es/history/taiwan-strait-crises-and-cross-strait-relations) — Cómo la crisis del estrecho de 1996 aceleró la pragmatización del DPP.

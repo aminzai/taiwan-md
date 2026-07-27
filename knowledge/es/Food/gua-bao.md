@@ -148,11 +148,11 @@ Comer un gua bao es comer cuatrocientos años de rutas marítimas migratorias de
 
 ## Lecturas complementarias
 
-- [Bocadillos taiwaneses](/food/台灣小吃) — El ecosistema general de la comida callejera, dentro del cual el gua bao es una línea clave
-- [Cultura de los mercados nocturnos](/food/夜市文化) — La historia del gua bao al salir del contexto del weiya y entrar en los mercados nocturnos
-- [Cultura taiwanesa del banquete callejero](/food/台灣辦桌文化) — La lógica ritual del weiya y del _bando_, con la cabeza del pollo y el “tigre que muerde al cerdo”
-- [Cultura taiwanesa del arroz](/food/台灣米食文化) — El contexto de masas del gua bao y la doble estructura alimentaria taiwanesa de arroz y trigo
-- [Pollo frito salado taiwanés](/food/台灣鹽酥雞) — Otro bocadillo popular que pasó de Taiwán a la mirada internacional de CNN
+- [Bocadillos taiwaneses](/es/food/taiwanese-street-food) — El ecosistema general de la comida callejera, dentro del cual el gua bao es una línea clave
+- [Cultura de los mercados nocturnos](/es/food/night-market-culture) — La historia del gua bao al salir del contexto del weiya y entrar en los mercados nocturnos
+- [Cultura taiwanesa del banquete callejero](/es/food/taiwan-banquet-culture) — La lógica ritual del weiya y del _bando_, con la cabeza del pollo y el “tigre que muerde al cerdo”
+- [Cultura taiwanesa del arroz](/es/food/taiwan-rice-cuisine-culture) — El contexto de masas del gua bao y la doble estructura alimentaria taiwanesa de arroz y trigo
+- [Pollo frito salado taiwanés](/es/food/taiwanese-popcorn-chicken-redux) — Otro bocadillo popular que pasó de Taiwán a la mirada internacional de CNN
 
 ## Fuentes de las imágenes
 

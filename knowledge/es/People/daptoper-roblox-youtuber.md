@@ -62,9 +62,9 @@ Cuando hablamos de la cultura digital en Taiwán, la historia de Chih-hsuan Zhou
 
 ## Lecturas complementarias
 
-- [阿神](/people/阿神) — Otro YouTuber taiwanés surgido de Minecraft, para comparar trayectorias de transición distintas
-- [阿滴](/people/阿滴) — Creador de contenido de la misma generación con formación en Tsing Hua (aunque en un ámbito diferente)
-- [蔡阿嘎](/people/蔡阿嘎) — Otra trayectoria profesional de un YouTuber taiwanés con un millón de suscriptores
+- [阿神](/es/people/red-shin-minecraft-youtuber) — Otro YouTuber taiwanés surgido de Minecraft, para comparar trayectorias de transición distintas
+- [阿滴](/es/people/ray-du-english-youtuber) — Creador de contenido de la misma generación con formación en Tsing Hua (aunque en un ámbito diferente)
+- [蔡阿嘎](/es/people/tsai-a-ga-youtuber) — Otra trayectoria profesional de un YouTuber taiwanés con un millón de suscriptores
 
 ## Referencias
 

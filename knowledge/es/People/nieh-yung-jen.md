@@ -164,9 +164,9 @@ En el último párrafo de “El dilema del tranvía”, publicado por BIOS month
 
 **Lecturas relacionadas**:
 
-- [Tsai Ing-wen](/people/蔡英文) — El otro extremo de la identidad visual de campaña Light Up Taiwan y de las dos ceremonias de investidura; el contexto de los encargos de diseño político de 2016 a 2024
-- [Movimiento Estudiantil Girasol](/society/太陽花學運) — El sitio histórico del anuncio de The New York Times a las cuatro de la madrugada de 2014
-- [Nuevos medios artísticos de Taiwán](/art/台灣新媒體藝術) — La posición de Aaron Nieh Workshop y la cultura visual contemporánea taiwanesa
+- [Tsai Ing-wen](/es/people/tsai-ing-wen) — El otro extremo de la identidad visual de campaña Light Up Taiwan y de las dos ceremonias de investidura; el contexto de los encargos de diseño político de 2016 a 2024
+- [Movimiento Estudiantil Girasol](/es/society/sunflower-movement) — El sitio histórico del anuncio de The New York Times a las cuatro de la madrugada de 2014
+- [Nuevos medios artísticos de Taiwán](/es/art/taiwan-new-media-art) — La posición de Aaron Nieh Workshop y la cultura visual contemporánea taiwanesa
 
 ## Referencias
 

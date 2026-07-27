@@ -103,11 +103,11 @@ La cultura del cerdo divino resume la diversidad de creencias en Taiwán, portan
 
 ## Lecturas complementarias
 
-- **[Cultura y lengua Hakka](/culture/客家文化與語言)** — Historia y raíces de la comunidad Hakka, suelo cultural de la fe de los héroes altruistas
-- **[Festivales de templos y grupos de percusión en Taiwán](/culture/台灣廟會與陣頭文化)** — Prácticas festivas y movilización comunitaria en la fe popular
-- **[Religión y cultura de los templos en Taiwán](/culture/台灣宗教與寺廟文化)** — Contexto de la fe popular donde se sitúa el cerdo divino
-- **[Festividades tradicionales](/culture/傳統節慶與慶典)** — Panorama de los rituales del Festival de los héroes altruistas y celebraciones lunisolares
-- **[Grupos étnicos (min‑hakka, min‑nan, indígenas, externos)](/culture/族群（閩南客家原住民外省新住民）)** — Diferencias y fusiones en la práctica cultural de los grupos min‑hakka
+- **[Cultura y lengua Hakka](/es/culture/hakka-culture-and-language)** — Historia y raíces de la comunidad Hakka, suelo cultural de la fe de los héroes altruistas
+- **[Festivales de templos y grupos de percusión en Taiwán](/es/culture/taiwan-temple-festivals-and-performance-troupes)** — Prácticas festivas y movilización comunitaria en la fe popular
+- **[Religión y cultura de los templos en Taiwán](/es/culture/taiwan-religion-and-temple-culture)** — Contexto de la fe popular donde se sitúa el cerdo divino
+- **[Festividades tradicionales](/es/culture/traditional-festivals-and-celebrations)** — Panorama de los rituales del Festival de los héroes altruistas y celebraciones lunisolares
+- **[Grupos étnicos (min‑hakka, min‑nan, indígenas, externos)](/es/culture/ethnic-groups)** — Diferencias y fusiones en la práctica cultural de los grupos min‑hakka
 
 ## Referencias
 

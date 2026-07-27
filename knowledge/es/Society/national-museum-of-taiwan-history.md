@@ -211,11 +211,11 @@ Si algún día la perspectiva histórica insular de Taiwán se convierte en el m
 
 **Lecturas complementarias**:
 
-- [Perspectiva histórica insular de Taiwán](/history/台灣島史觀) — el artículo de Ts’ao Yung-ho de 1990 definió el marco histórico de «tomar la isla como sujeto»; el NMTH es la práctica expositiva de esta perspectiva histórica
-- [Tres extranjeros miran 1895](/history/三個外國人看乙未) — fuentes históricas de Davidson, Endō Makoto y Hosokawa Ryū sobre 1895, incluidas en tres volúmenes publicados por el NMTH sobre la guerra de Yiwei
-- [La guerra del alcanfor en el siglo XIX](/history/19世紀的樟腦戰爭) — informe de investigación sobre el alcanfor de Swinhoe de 1864, fuente primaria conservada en NMTH Collections
-- [Período neerlandés, español y de Ming Zheng](/history/荷西明鄭時期) — motivo central de la zona 3 de la exposición permanente del NMTH, «La isla y las personas que viven junto al mar», y de la exposición Transcender 1624
-- [Formosa](/history/福爾摩沙) — la traducción china de _The Island of Formosa, Past and Present_ de Davidson fue publicada por el NMTH
+- [Perspectiva histórica insular de Taiwán](/es/history/taiwan-island-historiography) — el artículo de Ts’ao Yung-ho de 1990 definió el marco histórico de «tomar la isla como sujeto»; el NMTH es la práctica expositiva de esta perspectiva histórica
+- [Tres extranjeros miran 1895](/es/history/three-foreigners-witness-1895-taiwan) — fuentes históricas de Davidson, Endō Makoto y Hosokawa Ryū sobre 1895, incluidas en tres volúmenes publicados por el NMTH sobre la guerra de Yiwei
+- [La guerra del alcanfor en el siglo XIX](/es/history/19th-century-camphor-wars) — informe de investigación sobre el alcanfor de Swinhoe de 1864, fuente primaria conservada en NMTH Collections
+- [Período neerlandés, español y de Ming Zheng](/es/history/dutch-spanish-and-koxinga-era) — motivo central de la zona 3 de la exposición permanente del NMTH, «La isla y las personas que viven junto al mar», y de la exposición Transcender 1624
+- [Formosa](/es/history/formosa-historical-name) — la traducción china de _The Island of Formosa, Past and Present_ de Davidson fue publicada por el NMTH
 
 ## Fuentes de las imágenes
 

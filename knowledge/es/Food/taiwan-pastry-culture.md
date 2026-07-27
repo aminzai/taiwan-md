@@ -135,12 +135,12 @@ El tiempo que contiene una pastel es mucho más largo de lo que crees.
 
 ## Lectura complementaria
 
-- [Pastel de sol](/food/太陽餅) — Historia en profundidad de un solo producto: el pastel de sol mejorado por el Maestro Aming Wei Qinghai a partir del pastel de malta de Kunpai en Shenkang, Taichung
-- [Pastel de piña](/food/鳳梨酥) — Ochenta años de evolución desde el gran pastel de piña de Yifutang en el periodo colonial japonés hasta la revolución de la cuadratura
-- [Pan y repostería de Taiwán](/food/台灣麵包與烘焙) — La historia de los panaderos taiwaneses, desde Wu Baochun hasta Chen Yaoxun, abriéndose camino al escenario mundial
-- [La cultura del arroz en Taiwán](/food/台灣米食文化) — El arroz y la repostería son dos líneas principales en la misma mesa; para entender la repostería hay que entender el arroz
-- [Rituales de bodas, funerales y celebraciones en Taiwán](/culture/台灣婚喪喜慶與人生禮俗) — El papel concreto de las cajas de pasteles de boda en los seis ritos y los doce regalos
-- [La cultura del té en Taiwán](/culture/台灣茶文化) — Los pasteles Han y el té son una combinación centenaria; el pastel de ojos de fénix de Yuzhenzhai se comía originalmente acompañado de té
+- [Pastel de sol](/es/food/sun-cake) — Historia en profundidad de un solo producto: el pastel de sol mejorado por el Maestro Aming Wei Qinghai a partir del pastel de malta de Kunpai en Shenkang, Taichung
+- [Pastel de piña](/es/food/pineapple-cake) — Ochenta años de evolución desde el gran pastel de piña de Yifutang en el periodo colonial japonés hasta la revolución de la cuadratura
+- [Pan y repostería de Taiwán](/es/food/taiwan-bread-and-baking) — La historia de los panaderos taiwaneses, desde Wu Baochun hasta Chen Yaoxun, abriéndose camino al escenario mundial
+- [La cultura del arroz en Taiwán](/es/food/taiwan-rice-cuisine-culture) — El arroz y la repostería son dos líneas principales en la misma mesa; para entender la repostería hay que entender el arroz
+- [Rituales de bodas, funerales y celebraciones en Taiwán](/es/culture/taiwanese-life-ceremony-traditions) — El papel concreto de las cajas de pasteles de boda en los seis ritos y los doce regalos
+- [La cultura del té en Taiwán](/es/culture/taiwanese-tea-culture-and-living-aesthetics) — Los pasteles Han y el té son una combinación centenaria; el pastel de ojos de fénix de Yuzhenzhai se comía originalmente acompañado de té
 
 ## Referencias
 

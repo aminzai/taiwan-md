@@ -144,7 +144,7 @@ Un pasaje en la sección de comentarios fue tradución al chino innumerables vec
 
 Tres años después del incidente de la bandera, era la primera vez que hablaba en primera persona sobre la "infelicidad" en un espacio público. No mencionó ningún evento específico, no explicó, no se quejó, no acusó. Pero hizo que todos los que leyeron ese texto supieran que **lo estaba pasando mal**.
 
-En los años siguientes, TWICE se hizo aún más famosa, y Tzuyu se hizo aún más difícil de encontrar. En 2020, publicó su libro de fotos personal _Yes, I am Tzuyu._, siendo la primera integrante de TWICE en hacerlo[^1]. En mayo de 2022, todas las miembros de TWICE abrieron cuentas personales de Instagram; la de Tzuyu se llamaba @thinkaboutzu. En marzo de 2023, esta cuenta superó los **10 millones de seguidores**, colocándola como la segunda artista taiwanesa con más seguidores en Instagram, solo por detrás de [Jay Chou](/es/People/jay-chou/)[^17].
+En los años siguientes, TWICE se hizo aún más famosa, y Tzuyu se hizo aún más difícil de encontrar. En 2020, publicó su libro de fotos personal _Yes, I am Tzuyu._, siendo la primera integrante de TWICE en hacerlo[^1]. En mayo de 2022, todas las miembros de TWICE abrieron cuentas personales de Instagram; la de Tzuyu se llamaba @thinkaboutzu. En marzo de 2023, esta cuenta superó los **10 millones de seguidores**, colocándola como la segunda artista taiwanesa con más seguidores en Instagram, solo por detrás de [Jay Chou](/es/people/jay-chou/)[^17].
 
 > **💡 ¿Sabías que...?**
 > En diciembre de 2024, durante el 30.º aniversario de la escuela primaria Fuxing en el distrito este de Tainan, al presentar a sus egresados distinguidos, se reveló inesperadamente algo que Tzuyu nunca había mencionado: había obtenido una **maestría en psicología aplicada** por la Universidad Cervantes de España[^18]. No había asistido universidad. La escuela sustituyó el requisito de licenciatura por su amplia experiencia laboral; durante la pandemia, recomendada por un profesor universitario que conocía, completó 8 cursos en línea más una tesis en algo más de un año[^11]. No dio conferencia de prensa, no publicó historias, ni siquiera lo subió a Instagram. Lo publicó la propia escuela.
@@ -202,11 +202,11 @@ Y esta isla, después de aquella noche del 15 de enero, aprendió a terminar de 
 
 ## Lecturas complementarias
 
-- [Tsai Ing-wen](/people/蔡英文) — Su discurso de victoria del 16/1/16, "nadie necesita disculparse por su identidad", fue una respuesta directa a aquellos 90 segundos.
-- [Jay Chou](/es/People/jay-chou/) — Además de los 10 millones de seguidores de Tzuyu en Instagram, el único artista taiwanesa por delante de ella es él.
+- [Tsai Ing-wen](/es/people/tsai-ing-wen) — Su discurso de victoria del 16/1/16, "nadie necesita disculparse por su identidad", fue una respuesta directa a aquellos 90 segundos.
+- [Jay Chou](/es/people/jay-chou/) — Además de los 10 millones de seguidores de Tzuyu en Instagram, el único artista taiwanesa por delante de ella es él.
 - _Sensibilidad taiwanesa_ — Cómo ven Corea del Sur a Taiwán: Tzuyu fue uno de los primeros rostros taiwaneses en aparecer en este camino.
-- [Transición democrática de Taiwán](/history/台灣民主轉型) — Las elecciones de 2016 fueron la tercera alternancia de partidos en Taiwán, y aquellos 90 segundos fueron el capítulo más pesado.
-- [Tai Tzu-ying](/people/戴資穎) — De la misma generación, otra chica de Tainan que dejó su hogar a los 13 años para luchar por su sueño.
+- [Transición democrática de Taiwán](/es/history/taiwan-democratization) — Las elecciones de 2016 fueron la tercera alternancia de partidos en Taiwán, y aquellos 90 segundos fueron el capítulo más pesado.
+- [Tai Tzu-ying](/es/people/tai-tzu-ying) — De la misma generación, otra chica de Tainan que dejó su hogar a los 13 años para luchar por su sueño.
 
 ## Referencias
 

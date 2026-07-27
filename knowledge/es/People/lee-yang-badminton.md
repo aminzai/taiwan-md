@@ -251,11 +251,11 @@ Pero hay una versión de él de catorce años que todavía está en alguna tiend
 
 ## Lecturas complementarias
 
-- [Wang Chi-lin y Lee Yang (pareja Chi-Lin/Yang)](/es/People/golden-duo-chi-lin-yang/) — Cómo dos compañeros de secundaria reescribieron en treinta y cuatro minutos la historia del bádminton taiwanés
-- [Tai Tzu-ying](/es/People/tai-tzu-ying/) — Campeona mundial de individual femenino, perteneciente a la misma generación dorada del bádminton taiwanés que la pareja Chi-Lin/Yang
-- [Kuo Hsing-chun](/people/郭婞淳) — Oro olímpico en halterofilia en Tokio, otro rostro representativo de la generación dorada olímpica de Taiwán
-- [Transición democrática de Taiwán](/history/台灣民主轉型) — Explica por qué el ministerio de Deportes no se elevó de agencia a ministerio hasta 2025
-- [Lai Ching-te](/es/People/lai-ching-te/) — El presidente que presidió la toma de juramento de Lee Yang, cuarto presidente en ejercicio del Partido Democrático Progresista
+- [Wang Chi-lin y Lee Yang (pareja Chi-Lin/Yang)](/es/people/golden-duo-chi-lin-yang/) — Cómo dos compañeros de secundaria reescribieron en treinta y cuatro minutos la historia del bádminton taiwanés
+- [Tai Tzu-ying](/es/people/tai-tzu-ying/) — Campeona mundial de individual femenino, perteneciente a la misma generación dorada del bádminton taiwanés que la pareja Chi-Lin/Yang
+- [Kuo Hsing-chun](/es/people/kuo-hsing-chun-olympic-weightlifting-champion) — Oro olímpico en halterofilia en Tokio, otro rostro representativo de la generación dorada olímpica de Taiwán
+- [Transición democrática de Taiwán](/es/history/taiwan-democratization) — Explica por qué el ministerio de Deportes no se elevó de agencia a ministerio hasta 2025
+- [Lai Ching-te](/es/people/lai-ching-te/) — El presidente que presidió la toma de juramento de Lee Yang, cuarto presidente en ejercicio del Partido Democrático Progresista
 
 ## Referencias
 

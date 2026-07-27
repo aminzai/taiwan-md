@@ -262,17 +262,17 @@ El Monte Sagrado dominó el presente con 50 años de experiencia en ingeniería.
 
 **Lectura adicional**:
 
-- [Empresa de Taiwán: TSMC](/economy/台灣企業：台積電) — Gobernanza corporativa, estructura financiera y escala de gasto de capital del Monte Sagrado
-- [Empresa de Taiwán: MediaTek](/economy/台灣企業：聯發科技) — Cómo el líder del diseño de IC ocupa posiciones en chips de teléfonos y computación perimetral de IA
-- [Empresa de Taiwán: ASE Semiconductor](/economy/台灣企業：日月光半導體) — Número 1 mundial en empaquetado y pruebas, ecosistema de procesos posteriores a CoWoS
-- [Creadores de Montañas: La Apuesta del Siglo](/art/造山者世紀的賭注) — Documental de 2025 de Hsiao Bi-khim, 5 años de entrevistas a más de 80 veteranos de semiconductores, entrando en 2026 a los tres puntos calientes de inversión de la CHIPS Act en Purdue / Wisconsin / Michigan
-- [Wu Da-you](/people/吳大猷) — Mientras Taiwán construía semiconductores en la década de 1980, actuó como presidente del ASMC, insistiendo en la importancia de la ciencia básica, sentando las bases del sistema de investigación de Taiwán
-- [Industria de Robots de Taiwán](/technology/台灣機器人產業) — ¿Por qué la isla número 1 en semiconductores es un estudiante que está recuperando el tiempo en la era de los robots? Mirando la inauguración de NCAIR para ver la brecha industrial
-- [Bolsa y Mercado de Capitales de Taiwán](/economy/台灣股市與資本市場) — Cómo se presenta en el mercado de capitales toda la cadena de suministro que sostiene la identidad de Taiwán como la 6ª economía más grande del mundo en 2026
+- [Empresa de Taiwán: TSMC](/es/economy/tsmc) — Gobernanza corporativa, estructura financiera y escala de gasto de capital del Monte Sagrado
+- [Empresa de Taiwán: MediaTek](/es/economy/mediatek) — Cómo el líder del diseño de IC ocupa posiciones en chips de teléfonos y computación perimetral de IA
+- [Empresa de Taiwán: ASE Semiconductor](/es/economy/taiwan-enterprise-ase-semiconductor) — Número 1 mundial en empaquetado y pruebas, ecosistema de procesos posteriores a CoWoS
+- [Creadores de Montañas: La Apuesta del Siglo](/es/art/mountain-makers-tsmc-documentary) — Documental de 2025 de Hsiao Bi-khim, 5 años de entrevistas a más de 80 veteranos de semiconductores, entrando en 2026 a los tres puntos calientes de inversión de la CHIPS Act en Purdue / Wisconsin / Michigan
+- [Wu Da-you](/es/people/tai-yu-wu) — Mientras Taiwán construía semiconductores en la década de 1980, actuó como presidente del ASMC, insistiendo en la importancia de la ciencia básica, sentando las bases del sistema de investigación de Taiwán
+- [Industria de Robots de Taiwán](/es/technology/taiwan-robotics-industry) — ¿Por qué la isla número 1 en semiconductores es un estudiante que está recuperando el tiempo en la era de los robots? Mirando la inauguración de NCAIR para ver la brecha industrial
+- [Bolsa y Mercado de Capitales de Taiwán](/es/economy/taiwan-stock-market) — Cómo se presenta en el mercado de capitales toda la cadena de suministro que sostiene la identidad de Taiwán como la 6ª economía más grande del mundo en 2026
 - [Cadena de Suministro de Tungsteno de Taiwán](/technology/台灣鎢供應鏈) — El hexafluoruro de tungsteno rellena las ventanas de contacto y las líneas de caracteres de 3D NAND; Taiwán, sin minas de tungsteno, se posiciona en el medio de esta fuente de materiales gracias al reciclaje y refinamiento
-- [Escuela de IA de Taiwán](/technology/台灣人工智慧學校) — Cómo los 10.000 ingenieros de IA entrenados por AIA durante 8 años regresan a la cadena ICT existente de semiconductores, reforzando el lado de software de Taiwán
-- [Computex: Tres de las tres grandes ferias internacionales de computadoras se han cerrado, la que queda crece en Taipéi](/technology/Computex) — El CoWoS de TSMC y los procesos avanzados, cada final de mayo, estrechan manos con los gigantes globales de IA en esta feria de computación de 45 años de antigüedad en Taipéi
-- [Parques Científicos de Taiwán](/technology/科技園區發展) — Los tres parques Hsinchu, Nantou y Taichung, el soporte físico del clúster de semiconductores, y también el centro geográfico del escudo de silicio
+- [Escuela de IA de Taiwán](/es/technology/taiwan-ai-academy) — Cómo los 10.000 ingenieros de IA entrenados por AIA durante 8 años regresan a la cadena ICT existente de semiconductores, reforzando el lado de software de Taiwán
+- [Computex: Tres de las tres grandes ferias internacionales de computadoras se han cerrado, la que queda crece en Taipéi](/es/technology/computex-taipei) — El CoWoS de TSMC y los procesos avanzados, cada final de mayo, estrechan manos con los gigantes globales de IA en esta feria de computación de 45 años de antigüedad en Taipéi
+- [Parques Científicos de Taiwán](/es/technology/science-park-development) — Los tres parques Hsinchu, Nantou y Taichung, el soporte físico del clúster de semiconductores, y también el centro geográfico del escudo de silicio
 
 ## Fuentes de imágenes
 

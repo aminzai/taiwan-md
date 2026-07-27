@@ -41,7 +41,7 @@ Durante su estancia en Estados Unidos, Yang asistió brevemente a la Escuela de 
 
 ## Regreso a Taiwán y el Nuevo Cine taiwanés
 
-Yang regresó a Taiwán en 1981, en un momento de crisis para la industria cinematográfica local. Junto con [Hou Hsiao-hsien](/es/People/hou-hsiao-hsien/), Wu Nien-jen, Wan Ren y otros, impulsó el "Nuevo Cine taiwanés", un movimiento que buscaba reflejar la realidad social de Taiwán con un enfoque más auténtico.
+Yang regresó a Taiwán en 1981, en un momento de crisis para la industria cinematográfica local. Junto con [Hou Hsiao-hsien](/es/people/hou-hsiao-hsien/), Wu Nien-jen, Wan Ren y otros, impulsó el "Nuevo Cine taiwanés", un movimiento que buscaba reflejar la realidad social de Taiwán con un enfoque más auténtico.
 
 En 1982, Yang participó en el segmento _Expectativa_ de la película _En los tiempos de la juventud_, su debut cinematográfico. Con planos secuencia estáticos y una narrativa contenida, la película retrataba el estado psicológico de los adolescentes, mostrando los primeros rasgos de su estilo como director. En 1983, _Un día en la playa_ exploraba los dilemas emocionales de la mujer urbana moderna mediante una compleja estructura temporal, consolidando su posición dentro del Nuevo Cine taiwanés.[^2]
 
@@ -85,7 +85,7 @@ La estética de Yang Dechang está profundamente influida por el cine de arte eu
 
 Aunque su filmografía no es extensa, cada una de sus obras es una pieza de excelencia. El 29 de junio de 2007, Yang Dechang falleció de cáncer de colon en Beverly Hills, Estados Unidos, a la edad de 59 años. Su muerte fue una pérdida significativa para el cine taiwanés, pero sus obras y su visión cinematográfica siguen inspirando a las generaciones posteriores de creadores.
 
-Junto con directores como [Hou Hsiao-hsien](/es/People/hou-hsiao-hsien/) y [Ang Lee](/es/People/ang-lee/), Yang Dechang abrió el camino de la visibilidad internacional del cine taiwanés. Sus películas no solo documentan las transformaciones de la sociedad taiwanesa, sino que, con su aguda observación urbana, ocupan un lugar insustituible en la historia del cine mundial.
+Junto con directores como [Hou Hsiao-hsien](/es/people/hou-hsiao-hsien/) y [Ang Lee](/es/people/ang-lee/), Yang Dechang abrió el camino de la visibilidad internacional del cine taiwanés. Sus películas no solo documentan las transformaciones de la sociedad taiwanesa, sino que, con su aguda observación urbana, ocupan un lugar insustituible en la historia del cine mundial.
 
 ## Referencias
 

@@ -281,13 +281,13 @@ Luego la cámara pasó al siguiente premio.
 
 **Lecturas complementarias**:
 
-- [Waa Wei](/people/魏如萱) — parte del mismo ecosistema de música independiente de la década de 2010; un contrapunto desde la trayectoria de la voz femenina
-- [KST](/people/康士坦的變化球) — también dentro del espectro post-rock, pero con una ruta de narración vocal distinta
-- [Cicada](/people/Cicada) — una ruta completamente instrumental y sin voces, justo lo contrario de Cao Dong y su “letra como sociología”
-- [Crowd Lu](/people/盧廣仲) — otra ruta de la música independiente: la del “cantautor de obra”
-- [Música popular y Golden Melody Awards](/music/金曲獎) — las coordenadas del escenario donde Cao Dong ganó dos veces Mejor Banda
-- [Música independiente taiwanesa](/music/台灣獨立音樂) — la evolución de la música independiente, de Nature Q a Cao Dong y Accusefive
-- [Música popular taiwanesa](/music/台灣流行音樂) — el entorno industrial de la música popular en mandarín
+- [Waa Wei](/es/people/waa-wei-singer) — parte del mismo ecosistema de música independiente de la década de 2010; un contrapunto desde la trayectoria de la voz femenina
+- [KST](/es/people/constant-and-change-band) — también dentro del espectro post-rock, pero con una ruta de narración vocal distinta
+- [Cicada](/es/people/cicada-band) — una ruta completamente instrumental y sin voces, justo lo contrario de Cao Dong y su “letra como sociología”
+- [Crowd Lu](/es/people/crowd-lu-indie-folk-treasure) — otra ruta de la música independiente: la del “cantautor de obra”
+- [Música popular y Golden Melody Awards](/es/music/pop-music-and-golden-melody-awards) — las coordenadas del escenario donde Cao Dong ganó dos veces Mejor Banda
+- [Música independiente taiwanesa](/es/music/indie-music-scene) — la evolución de la música independiente, de Nature Q a Cao Dong y Accusefive
+- [Música popular taiwanesa](/es/music/golden-melodies-legacy-taiwan-pop-music) — el entorno industrial de la música popular en mandarín
 
 ## Fuentes de las imágenes
 

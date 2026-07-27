@@ -127,7 +127,7 @@ La historia de la arquitectura de Taiwán no es una línea recta, sino más bien
 
 **Lectura complementaria**:
 
-- [Sensibilidad taiwanesa: la estética taiwanesa a ojos de los coreanos](/culture/台灣感性) — Los ventanales de hierro, los portales (騎樓) y las fachadas de edificios antiguos: cómo estos elementos arquitectónicos se convirtieron en el núcleo visual de la «대만감성» coreana
+- [Sensibilidad taiwanesa: la estética taiwanesa a ojos de los coreanos](/es/culture/taiwanese-sensibility) — Los ventanales de hierro, los portales (騎樓) y las fachadas de edificios antiguos: cómo estos elementos arquitectónicos se convirtieron en el núcleo visual de la «대만감성» coreana
 
 ## Referencias
 

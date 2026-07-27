@@ -120,12 +120,12 @@ Ese pájaro sigue cantando en las montañas de Taiwán. No conoce su nombre cien
 
 **Lecturas complementarias**:
 
-- [Ornitología de Formosa](/nature/福爾摩沙鳥類學) — Análisis en profundidad de _The Ornithology of Formosa_ (1863): 201 nombres latinos, 30 cazadores y la cordillera central a la que nunca llegó
-- [Período Qing](/history/清治時期) — El contexto histórico de la llegada de Swinhoe: apertura de puertos, conflictos del alcanfor y Formosa entre imperios
-- [Especies endémicas de Taiwán](/nature/特有種) — Muchas de las especies documentadas por Swinhoe fueron después confirmadas como endémicas de Taiwán
-- [Urocissa caerulea](/nature/台灣藍鵲) — Especímenes recolectados por Swinhoe en 1862; ganadora de la votación para ave nacional en 2007
-- [Charles Le Gendre](/people/李仙得) — Otro diplomático extranjero que dejó una profunda huella en Formosa durante el mismo periodo, pero con motivaciones muy distintas
-- [La guerra del alcanfor en el siglo XIX](/history/19世紀的樟腦戰爭) — El artículo de Swinhoe «Formosa Camphor» (1864) como prehistoria del conflicto: tres niveles de precios, regalos a cambio de permisos de tala, producción anual de 6.000 _piculs_ en Tamsui
+- [Ornitología de Formosa](/es/nature/the-ornithology-of-formosa) — Análisis en profundidad de _The Ornithology of Formosa_ (1863): 201 nombres latinos, 30 cazadores y la cordillera central a la que nunca llegó
+- [Período Qing](/es/history/qing-dynasty-rule) — El contexto histórico de la llegada de Swinhoe: apertura de puertos, conflictos del alcanfor y Formosa entre imperios
+- [Especies endémicas de Taiwán](/es/nature/endemic-species) — Muchas de las especies documentadas por Swinhoe fueron después confirmadas como endémicas de Taiwán
+- [Urocissa caerulea](/es/nature/taiwan-blue-magpie) — Especímenes recolectados por Swinhoe en 1862; ganadora de la votación para ave nacional en 2007
+- [Charles Le Gendre](/es/people/charles-le-gendre) — Otro diplomático extranjero que dejó una profunda huella en Formosa durante el mismo periodo, pero con motivaciones muy distintas
+- [La guerra del alcanfor en el siglo XIX](/es/history/19th-century-camphor-wars) — El artículo de Swinhoe «Formosa Camphor» (1864) como prehistoria del conflicto: tres niveles de precios, regalos a cambio de permisos de tala, producción anual de 6.000 _piculs_ en Tamsui
 
 ## Referencias
 

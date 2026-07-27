@@ -304,12 +304,12 @@ Tres épocas de fe en Taipéi se alinean en un eje de 1,5 kilómetros, sin antes
 
 **Lecturas relacionadas**:
 
-- [Ciudad de Taipéi](/geography/台北市) — el contexto completo de la ciudad donde se encuentra Dalongdong, desde la empresa colonizadora Chen-Lai-Zhang de 1709 hasta una panorámica narrativa de 2026
-- [Monga](/geography/艋舺) — el primer barrio de Taipéi del período Qing, formado en torno al templo Longshan de 1738, y el otro extremo del conflicto de Dingxiajiaopin de 1853
-- [Dadaocheng](/geography/大稻埕) — destino final de los tonganeses en 1853 y centro del comercio del té desde 1860; una calle hermana de Dalongdong, con el mismo origen y un camino distinto
-- [Ximending](/geography/西門町) — zona de ocio del período japonés desde 1908; contemporánea de Dalongdong, pero resultado de un experimento urbano completamente diferente
-- [Religión y cultura templaria de Taiwán](/culture/台灣宗教與寺廟文化) — contexto completo del templo Baoan, la restauración de Liao Wu-chih y el premio UNESCO
-- [Shilin](/geography/士林) — las peleas armadas entre grupos de Zhangzhou y Quanzhou en 1859 y la acogida de refugiados tonganeses del Dingxiajiaopin de 1853 en Dalongdong forman dos paisajes de conflicto étnico en el norte de Taiwán del período Qing
+- [Ciudad de Taipéi](/es/geography/taipei-city) — el contexto completo de la ciudad donde se encuentra Dalongdong, desde la empresa colonizadora Chen-Lai-Zhang de 1709 hasta una panorámica narrativa de 2026
+- [Monga](/es/geography/bangka) — el primer barrio de Taipéi del período Qing, formado en torno al templo Longshan de 1738, y el otro extremo del conflicto de Dingxiajiaopin de 1853
+- [Dadaocheng](/es/geography/dadaocheng) — destino final de los tonganeses en 1853 y centro del comercio del té desde 1860; una calle hermana de Dalongdong, con el mismo origen y un camino distinto
+- [Ximending](/es/geography/ximending) — zona de ocio del período japonés desde 1908; contemporánea de Dalongdong, pero resultado de un experimento urbano completamente diferente
+- [Religión y cultura templaria de Taiwán](/es/culture/taiwan-religion-and-temple-culture) — contexto completo del templo Baoan, la restauración de Liao Wu-chih y el premio UNESCO
+- [Shilin](/es/geography/shilin) — las peleas armadas entre grupos de Zhangzhou y Quanzhou en 1859 y la acogida de refugiados tonganeses del Dingxiajiaopin de 1853 en Dalongdong forman dos paisajes de conflicto étnico en el norte de Taiwán del período Qing
 
 ## Fuentes de las imágenes
 

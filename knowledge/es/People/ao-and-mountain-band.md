@@ -155,11 +155,11 @@ Eso es 凹與山.
 
 ## Lecturas complementarias
 
-- [Música independiente taiwanesa](/music/台灣獨立音樂) — Ecosistema de bandas independientes de Taiwán en las décadas de 2010-2020 y contexto histórico del género folktronica
-- [Música pop taiwanesa](/music/台灣流行音樂) — Estructura de la industria del pop en mandarín y posición de las bandas independientes dentro de ella
-- [Cicada](/people/Cicada) — Banda independiente que también sigue una ruta instrumental/no convencional, como contrapunto a dos estrategias creativas de "no seguir la ruta del ídolo"
-- [魏如萱](/people/魏如萱) — Otra trayectoria de creadora femenina que cruza la frontera entre lo mainstream y lo independiente
-- [Hello Nico](/people/Hello-Nico) — Otra voz femenina independiente de Taiwán de la década de 2010, con líneas de dream pop que envuelven la represión: "la mayor dificultad de hacer música es lidiar contigo misma"
+- [Música independiente taiwanesa](/es/music/indie-music-scene) — Ecosistema de bandas independientes de Taiwán en las décadas de 2010-2020 y contexto histórico del género folktronica
+- [Música pop taiwanesa](/es/music/golden-melodies-legacy-taiwan-pop-music) — Estructura de la industria del pop en mandarín y posición de las bandas independientes dentro de ella
+- [Cicada](/es/people/cicada-band) — Banda independiente que también sigue una ruta instrumental/no convencional, como contrapunto a dos estrategias creativas de "no seguir la ruta del ídolo"
+- [魏如萱](/es/people/waa-wei-singer) — Otra trayectoria de creadora femenina que cruza la frontera entre lo mainstream y lo independiente
+- [Hello Nico](/es/people/hello-nico-band) — Otra voz femenina independiente de Taiwán de la década de 2010, con líneas de dream pop que envuelven la represión: "la mayor dificultad de hacer música es lidiar contigo misma"
 
 ## Referencias
 

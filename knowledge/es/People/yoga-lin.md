@@ -118,11 +118,11 @@ Aquella carta de renuncia escrita por su cuerpo, al final la recibió con un ál
 
 **Lecturas complementarias**:
 
-- [Waa Wei](/people/魏如萱) — Cantante de la misma generación, dos veces ganadora del premio a Mejor Cantante Femenina en los Golden Melody, veinte años desde vocalista de Natural Q hasta ser confundida con «una ciudadana común» en la calle
-- [Chang Yu-sheng](/people/張雨生) — Un caso temprano de la tensión entre las identidades de «ídolo» y «músico» en la música pop en mandarín
-- [Chen Jianqi](/people/陳建騏) — Subgénero de productores: guardián de los límites del sonido en la música pop en mandarín
-- [Enno Cheng](/people/鄭宜農) — Cantautora de la misma generación, escribiendo las canciones más honestas en el idioma más desconocido
-- [Programas de variedades taiwaneses](/culture/台灣綜藝) — Historia de la creación de estrellas por televisión en Taiwán, medio siglo de contexto desde <em>Stars Gathering</em> hasta <em>Super Star Avenue</em>
+- [Waa Wei](/es/people/waa-wei-singer) — Cantante de la misma generación, dos veces ganadora del premio a Mejor Cantante Femenina en los Golden Melody, veinte años desde vocalista de Natural Q hasta ser confundida con «una ciudadana común» en la calle
+- [Chang Yu-sheng](/es/people/chang-yu-sheng-singer) — Un caso temprano de la tensión entre las identidades de «ídolo» y «músico» en la música pop en mandarín
+- [Chen Jianqi](/es/people/chen-chien-chi-music-producer) — Subgénero de productores: guardián de los límites del sonido en la música pop en mandarín
+- [Enno Cheng](/es/people/cheng-i-nung) — Cantautora de la misma generación, escribiendo las canciones más honestas en el idioma más desconocido
+- [Programas de variedades taiwaneses](/es/culture/taiwan-variety-shows) — Historia de la creación de estrellas por televisión en Taiwán, medio siglo de contexto desde <em>Stars Gathering</em> hasta <em>Super Star Avenue</em>
 
 ---
 

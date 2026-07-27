@@ -157,10 +157,10 @@ Según [§Stage 4.5 matriz de licencias de imagen](../../reports/research/2026-0
 
 ## Lectura complementaria
 
-- [Paisaje sonoro de Taiwán](/music/台灣聲音地景) — la posición de artistas sonoros como Fujui Wang, Yao Chung-Han y Chang Yung-Ta en el paisaje sonoro de Taiwán; este artículo pasa de menciones a nivel de lista a entradas en profundidad.
-- [Wang Lien-Cheng](/art/王連晟) — artista sonoro y de nuevos medios, egresado del Departamento de Nuevos Medios de la TNUA y alumno de Wang; continuación de la ola de institucionalización estudiantil del Lacking Sound Festival de 2007.
-- [Arte de nuevos medios en Taiwán](/art/台灣新媒體藝術) — historia del desarrollo del arte digital y de medios desde Etat en 1995 hasta el Festival de Arte Digital de Taipéi en los años 2000; Wang es un nodo clave en el eje del sonido.
-- [Música independiente taiwanesa](/music/台灣獨立音樂) — otro eje de la escena musical underground taiwana en los años 90, paralelo y complementario a la escena de ruido y música experimental.
+- [Paisaje sonoro de Taiwán](/es/music/taiwan-soundscape) — la posición de artistas sonoros como Fujui Wang, Yao Chung-Han y Chang Yung-Ta en el paisaje sonoro de Taiwán; este artículo pasa de menciones a nivel de lista a entradas en profundidad.
+- [Wang Lien-Cheng](/es/art/wang-lien-cheng-artist) — artista sonoro y de nuevos medios, egresado del Departamento de Nuevos Medios de la TNUA y alumno de Wang; continuación de la ola de institucionalización estudiantil del Lacking Sound Festival de 2007.
+- [Arte de nuevos medios en Taiwán](/es/art/taiwan-new-media-art) — historia del desarrollo del arte digital y de medios desde Etat en 1995 hasta el Festival de Arte Digital de Taipéi en los años 2000; Wang es un nodo clave en el eje del sonido.
+- [Música independiente taiwanesa](/es/music/indie-music-scene) — otro eje de la escena musical underground taiwana en los años 90, paralelo y complementario a la escena de ruido y música experimental.
 
 ## Referencias
 

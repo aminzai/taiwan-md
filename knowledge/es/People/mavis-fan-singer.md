@@ -107,11 +107,11 @@ Su próxima «desaparición» probablemente tampoco será una desaparición. Ser
 
 **Para seguir leyendo:**
 
-- [Rainie Yang](/people/楊丞琳) — Otra cantante taiwanesa que se reinventó desde una trayectoria idol, recuperando centímetro a centímetro la definición de quién era, hasta que el crédito de producción llevó su propio nombre
-- [Waa Wei](/people/魏如萱) — Trayectoria similar de retirada de la escena mainstream a la música independiente a mediados de la década de 2000, donde su voz se volvió más reconocible que su rostro
-- [Chen Jianqi](/people/陳建騏) — Productor activo en el mismo periodo que el estudio Lin Zhezhe; contexto relevante para la época de _Is There Any Other Way?_
-- [Enno Cheng](/people/鄭宜農) — Otra artista que escribió públicamente sobre su propia crisis y luego usó su obra para acompañar a otras personas en crisis
-- [Kowen Ko](/people/柯智棠) — Otro cantautor que lleva años moviéndose en el límite entre lo mainstream y lo independiente, trabajando a su propio ritmo
+- [Rainie Yang](/es/people/rainie-yang) — Otra cantante taiwanesa que se reinventó desde una trayectoria idol, recuperando centímetro a centímetro la definición de quién era, hasta que el crédito de producción llevó su propio nombre
+- [Waa Wei](/es/people/waa-wei-singer) — Trayectoria similar de retirada de la escena mainstream a la música independiente a mediados de la década de 2000, donde su voz se volvió más reconocible que su rostro
+- [Chen Jianqi](/es/people/chen-chien-chi-music-producer) — Productor activo en el mismo periodo que el estudio Lin Zhezhe; contexto relevante para la época de _Is There Any Other Way?_
+- [Enno Cheng](/es/people/cheng-i-nung) — Otra artista que escribió públicamente sobre su propia crisis y luego usó su obra para acompañar a otras personas en crisis
+- [Kowen Ko](/es/people/ke-zhi-tang-musician) — Otro cantautor que lleva años moviéndose en el límite entre lo mainstream y lo independiente, trabajando a su propio ritmo
 
 ---
 

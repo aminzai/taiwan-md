@@ -238,7 +238,7 @@ Every energy path has its own opponents, and every opponent has their own histor
 
 > 📝 **Curator's Note:** Common environmental justice discussions often stop at "balancing development and environmental protection," but this framing flattens the problem. The true commonality of Lanyu, Algae Reef, and Meigong is: **they are all post-1980s decision legacies, paid for by 1990-2020 social movements**. Energy transition will produce many new "Lanyus" and "Algae Reefs" before 2050 (Changhua fishermen for offshore wind, Yilan indigenous for geothermal, Tainan salt fields for solar). The real question is "Can we avoid repeating the 1982 decision-making model?"
 
-For detailed environmental justice historical context, see [Taiwan Environmental Movement History](/nature/台灣環境運動史) and [Taiwan Marine Pollution Governance and Conservation Challenges](/nature/台灣海洋污染治理與保育挑戰).
+For detailed environmental justice historical context, see [Taiwan Environmental Movement History](/es/nature/taiwan-environmental-movement-history) and [Taiwan Marine Pollution Governance and Conservation Challenges](/es/nature/marine-pollution-governance-and-conservation).
 
 ## 9 Trillion NTD and Physical Limits
 
@@ -307,14 +307,14 @@ Lanyu's 97,672 barrels will not disappear because the referendum passed or faile
 
 **Further Reading**:
 
-- [Taiwan and Nuclear Energy Discussion](/society/台灣與核能的討論) — This article writes about energy and physical limits; that article writes about the nuclear energy debate itself: 40 years of anti-nuclear/pro-nuclear, three referendums, and the social struggle of Lanyu nuclear waste.
-- [Taiwan Environmental Movement History](/nature/台灣環境運動史) — From anti-nuclear to anti-air pollution, how Lanyu Dawu, Meigong Anti-Dam, and Algae Reef Referendum shaped today's energy politics.
-- [Taiwan Marine Pollution Governance and Conservation Challenges](/nature/台灣海洋污染治理與保育挑戰) — Nuclear Three outfall 80% coral bleaching, marine waste, and the ecological intersection of offshore wind.
-- [Taiwan Hot Springs and Geothermal](/nature/台灣溫泉與地熱) — From Qingshui Geothermal 1981 failure to 2024 restart, how 30 years of geothermal silence formed.
-- [Taiwan Environmental Justice and NIMBY Controversies](/society/台灣環境正義與鄰避爭議) — Lanyu, Algae Reef, Meigong: The distribution politics of energy transition costs.
-- [Taiwan Industrial Transformation and Upgrading](/economy/台灣產業轉型升級) — From energy-intensive manufacturing to green energy industries, TSMC RE100, CBAM, and the energy bill of the "Protecting Mountain God."
-- [Taiwan Agricultural Modernization Development](/economy/台灣農業現代化發展) — Agricultural transformation pressure and land use conflicts behind agrivoltaics.
-- [Plum Rain](/nature/梅雨) — Climate change local observations of "Spring rain doesn't come, Plum Rain concentrates."
+- [Taiwan and Nuclear Energy Discussion](/es/society/taiwan-nuclear-debate) — This article writes about energy and physical limits; that article writes about the nuclear energy debate itself: 40 years of anti-nuclear/pro-nuclear, three referendums, and the social struggle of Lanyu nuclear waste.
+- [Taiwan Environmental Movement History](/es/nature/taiwan-environmental-movement-history) — From anti-nuclear to anti-air pollution, how Lanyu Dawu, Meigong Anti-Dam, and Algae Reef Referendum shaped today's energy politics.
+- [Taiwan Marine Pollution Governance and Conservation Challenges](/es/nature/marine-pollution-governance-and-conservation) — Nuclear Three outfall 80% coral bleaching, marine waste, and the ecological intersection of offshore wind.
+- [Taiwan Hot Springs and Geothermal](/es/nature/Taiwan Hot Springs and Geothermal Energy) — From Qingshui Geothermal 1981 failure to 2024 restart, how 30 years of geothermal silence formed.
+- [Taiwan Environmental Justice and NIMBY Controversies](/es/society/taiwan-environmental-justice-nimby-conflicts) — Lanyu, Algae Reef, Meigong: The distribution politics of energy transition costs.
+- [Taiwan Industrial Transformation and Upgrading](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — From energy-intensive manufacturing to green energy industries, TSMC RE100, CBAM, and the energy bill of the "Protecting Mountain God."
+- [Taiwan Agricultural Modernization Development](/es/economy/taiwan-agricultural-modernization) — Agricultural transformation pressure and land use conflicts behind agrivoltaics.
+- [Plum Rain](/es/nature/meiyu-stagnant-front) — Climate change local observations of "Spring rain doesn't come, Plum Rain concentrates."
 
 ## References
 

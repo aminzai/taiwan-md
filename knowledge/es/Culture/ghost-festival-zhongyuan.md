@@ -76,8 +76,8 @@ El Festival de los Muertos nos recuerda que la paz en esta isla no es algo natur
 
 ## Lecturas Adicionales
 
-- [Séptimo Mes Lunar](/culture/農曆七月) — El ritmo social del mes de los fantasmas
-- [Festival del Duanwu](/culture/端午節) — Cómo se localizan las herramientas festivas en Taiwán
+- [Séptimo Mes Lunar](/es/culture/lunar-july-ghost-month) — El ritmo social del mes de los fantasmas
+- [Festival del Duanwu](/es/culture/dragon-boat-festival) — Cómo se localizan las herramientas festivas en Taiwán
 
 ## Referencias
 

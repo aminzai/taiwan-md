@@ -74,7 +74,7 @@ Durante la pandemia a partir de 2020, Taiwan AI Labs colaboró con el gobierno p
 
 ## Lecturas complementarias
 
-- [Desarrollo y estrategia futura de la inteligencia artificial en Taiwán: del doble Nobel de 2024 al mercado nocturno de Ningxia](/technology/台灣人工智慧發展與未來策略) — Sitúa a Taiwan AI Labs en el panorama general de la hegemonía en hardware + el doble Nobel de 2024, para evaluar la distancia entre TAIDE y la investigación global en fundamentos de IA.
+- [Desarrollo y estrategia futura de la inteligencia artificial en Taiwán: del doble Nobel de 2024 al mercado nocturno de Ningxia](/es/technology/artificial-intelligence-development-strategy) — Sitúa a Taiwan AI Labs en el panorama general de la hegemonía en hardware + el doble Nobel de 2024, para evaluar la distancia entre TAIDE y la investigación global en fundamentos de IA.
 - [Sitio web oficial de Taiwan AI Labs](https://ailabs.tw/)
 - [Du Yijin — Wikipedia](https://zh.wikipedia.org/zh-tw/杜奕瑾)
 - [BNext: Du Yijin regresa a Taiwán para fundar un laboratorio de IA](https://www.bnext.com.tw/article/44267/founder-of-ptt-ethan-tu-back-to-taiwan-to-establish-an-ai-lab)

@@ -142,12 +142,12 @@ Desde aquella puerta cerrada al «Taiwan» de Montreal 1976 hasta el equipo que 
 
 ## Lecturas complementarias
 
-- [Tai Tzu-ying](/People/戴資穎): de niña de Zuoying, Kaohsiung, a tres veces número uno mundial
-- [Kuo Hsing-chun](/People/郭婞淳): el camino de halterofilia de una medallista olímpica en tres ediciones consecutivas
-- [Lee Yang](/People/李洋): la dupla Lee-Wang escribe la primera defensa consecutiva del título masculino de dobles en la historia olímpica
-- [Yang Yung-wei](/People/楊勇緯): el sistema de entrenamiento detrás de la plata en judo en Tokio 2020
-- [Chuang Chih-yuan](/People/莊智淵): el solitario rey del tenis de mesa, cuatro veces campeón asiático
-- [Cultura del béisbol taiwanés](/Culture/台灣棒球文化): cien años de béisbol, de Kano a la CPBL
+- [Tai Tzu-ying](/es/people/tai-tzu-ying): de niña de Zuoying, Kaohsiung, a tres veces número uno mundial
+- [Kuo Hsing-chun](/es/people/kuo-hsing-chun-olympic-weightlifting-champion): el camino de halterofilia de una medallista olímpica en tres ediciones consecutivas
+- [Lee Yang](/es/people/lee-yang-badminton): la dupla Lee-Wang escribe la primera defensa consecutiva del título masculino de dobles en la historia olímpica
+- [Yang Yung-wei](/es/people/yang-yung-wei-judo-olympic-silver): el sistema de entrenamiento detrás de la plata en judo en Tokio 2020
+- [Chuang Chih-yuan](/es/people/chuang-chih-yuan-table-tennis-legend): el solitario rey del tenis de mesa, cuatro veces campeón asiático
+- [Cultura del béisbol taiwanés](/es/culture/taiwan-baseball-culture): cien años de béisbol, de Kano a la CPBL
 
 ## Referencias
 

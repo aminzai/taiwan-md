@@ -190,10 +190,10 @@ Volvamos a aquel césped bajo la llovizna. La oficinista que apretaba el torniqu
 
 **Lecturas complementarias**:
 
-- [Puma Shen](/people/沈伯洋) — Cofundador y decano honorario de la Academia Kuma; investiga la guerra cognitiva del Partido Comunista Chino y luego fue investigado por China por “delito de secesión”
-- [Guerra cognitiva](/society/認知作戰) — Contexto completo de uno de los cuatro módulos del campamento básico de la Academia Kuma y panorama de la guerra informativa del Partido Comunista Chino contra Taiwán
-- [Defensa nacional y modernización militar de Taiwán](/society/台灣國防與軍事現代化) — Relación complementaria entre defensa civil y defensa nacional total; otra cara para entender por qué “defensa civil no es defensa nacional”
-- [El país invisible](/art/看不見的國家) — El documental concluye con taiwaneses tomando clases de defensa civil: la versión audiovisual de esta clase de la Academia Kuma
+- [Puma Shen](/es/people/puma-shen) — Cofundador y decano honorario de la Academia Kuma; investiga la guerra cognitiva del Partido Comunista Chino y luego fue investigado por China por “delito de secesión”
+- [Guerra cognitiva](/es/society/cognitive-warfare-against-taiwan) — Contexto completo de uno de los cuatro módulos del campamento básico de la Academia Kuma y panorama de la guerra informativa del Partido Comunista Chino contra Taiwán
+- [Defensa nacional y modernización militar de Taiwán](/es/society/taiwan-defense-modernization) — Relación complementaria entre defensa civil y defensa nacional total; otra cara para entender por qué “defensa civil no es defensa nacional”
+- [El país invisible](/es/art/invisible-nation) — El documental concluye con taiwaneses tomando clases de defensa civil: la versión audiovisual de esta clase de la Academia Kuma
 
 ## Fuentes de las imágenes
 

@@ -1,11 +1,19 @@
 ---
 title: 'Zheng Nanrong: la ecuación de un hijo de inmigrante continental que cambió su vida por la libertad de expresión'
-description: "En 1947, durante el Incidente del 28 de Febrero, el padre de Zheng, Zheng Musen, fue escondido por sus vecinos taiwaneses y así sobrevivió. Cuarenta y un años después, el hijo mayor de aquella pareja, Zheng Nanrong, encendió gasolina en su propia oficina editorial. En 1984 fundó la revista *Era de la Libertad*, operó con 24 licencias y fue censurada 18 veces sin dejar de publicarse; en 1988 publicó el *Proyecto de Constitución de la República de Taiwán* redactado por Xu Shikai, y el 7 de abril de 1989 se inmoló. A partir de entonces, Ye Julán ingresó en la política, desempeñándose sucesivamente como legisladora, ministra de Transportes, presidenta del Consejo de Asuntos Hakka, viceprimera ministra del Yuan Ejecutivo y secretaria general de la Oficina Presidencial. La decisión de Zheng sigue siendo objeto de controversia: sus partidarios la consideran un martirio por una causa, mientras que sus críticos la juzgan una elección personal extrema. La libertad de expresión en Taiwán es hoy algo tan cotidiano que muchos han olvidado que alguna vez hubo que pagarla con la vida."
+description: 'En 1947, durante el Incidente del 28 de Febrero, el padre de Zheng, Zheng Musen, fue escondido por sus vecinos taiwaneses y así sobrevivió. Cuarenta y un años después, el hijo mayor de aquella pareja, Zheng Nanrong, encendió gasolina en su propia oficina editorial. En 1984 fundó la revista *Era de la Libertad*, operó con 24 licencias y fue censurada 18 veces sin dejar de publicarse; en 1988 publicó el *Proyecto de Constitución de la República de Taiwán* redactado por Xu Shikai, y el 7 de abril de 1989 se inmoló. A partir de entonces, Ye Julán ingresó en la política, desempeñándose sucesivamente como legisladora, ministra de Transportes, presidenta del Consejo de Asuntos Hakka, viceprimera ministra del Yuan Ejecutivo y secretaria general de la Oficina Presidencial. La decisión de Zheng sigue siendo objeto de controversia: sus partidarios la consideran un martirio por una causa, mientras que sus críticos la juzgan una elección personal extrema. La libertad de expresión en Taiwán es hoy algo tan cotidiano que muchos han olvidado que alguna vez hubo que pagarla con la vida.'
 date: 2026-03-25
 author: 'Taiwan.md Contributors'
 category: 'People'
 subcategory: '政治與民主'
-tags: ['Movimiento democrático', 'Libertad de expresión', 'Era de la Libertad', 'Mártir', '228', 'Independencia de Taiwán']
+tags:
+  [
+    'Movimiento democrático',
+    'Libertad de expresión',
+    'Era de la Libertad',
+    'Mártir',
+    '228',
+    'Independencia de Taiwán',
+  ]
 lastVerified: 2026-05-13
 lastHumanReview: false
 featured: true
@@ -45,19 +53,19 @@ Tras cumplir el servicio militar, Zheng Nanrong trabajó en exportación de text
 
 ## Veinticuatro licencias
 
-El 12 de marzo de 1984 se publicó el primer número de la *Semanario Era de la Libertad*.[^1] El fundador era Zheng Nanrong, el director Li Ao, el presidente Chen Shui-bian y el editor Lin Shiyu. Su eslogan era uno solo: «Luchar por el cien por cien de libertad.»
+El 12 de marzo de 1984 se publicó el primer número de la _Semanario Era de la Libertad_.[^1] El fundador era Zheng Nanrong, el director Li Ao, el presidente Chen Shui-bian y el editor Lin Shiyu. Su eslogan era uno solo: «Luchar por el cien por cien de libertad.»
 
 Pero Zheng Nanrong hizo algo que nadie esperaba: antes del lanzamiento, reunió por todas partes certificados de graduación universitaria y solicitó a la Oficina de Prensa **24 licencias de publicación**.[^1]
 
 Porque sabía que el gobierno censuraría la revista. Cuando una fuera prohibida, la siguiente saldría inmediatamente con una nueva licencia, y el título seguiría llevando la palabra «Era». Al final utilizó varias de ellas. El gobierno la censuró en múltiples ocasiones, y él simplemente cambiaba de licencia y seguía publicando. Cada licencia tenía su uso calculado antes incluso de que la revista viera la luz.
 
-La *Era de la Libertad* publicaba durante la ley marcial aquello que el gobierno no permitía decir: reformas políticas, protección de derechos humanos, igualdad étnica y el futuro de Taiwán, además de ofrecer espacio a los movimientos medioambientales y a las demandas de los pueblos indígenas, siendo uno de los pocos medios de la época dispuestos a acoger una amplia gama de causas sociales. Cada número bailaba sobre la punta de un cuchillo. Zheng Nanrong fue acusado en varias ocasiones, pero nunca retrocedió. Decía: «Para alguien con mi profunda formación intelectual, publicar una revista es la forma más apropiada de poner en práctica mis convicciones.»
+La _Era de la Libertad_ publicaba durante la ley marcial aquello que el gobierno no permitía decir: reformas políticas, protección de derechos humanos, igualdad étnica y el futuro de Taiwán, además de ofrecer espacio a los movimientos medioambientales y a las demandas de los pueblos indígenas, siendo uno de los pocos medios de la época dispuestos a acoger una amplia gama de causas sociales. Cada número bailaba sobre la punta de un cuchillo. Zheng Nanrong fue acusado en varias ocasiones, pero nunca retrocedió. Decía: «Para alguien con mi profunda formación intelectual, publicar una revista es la forma más apropiada de poner en práctica mis convicciones.»
 
-En 1987, la *Era de la Libertad* hizo algo sin precedentes: organizó públicamente un acto conmemorativo del Incidente del 28 de Febrero. Fue la primera vez en cuarenta años que un medio público se atrevía a hablar del 228.[^2]
+En 1987, la _Era de la Libertad_ hizo algo sin precedentes: organizó públicamente un acto conmemorativo del Incidente del 28 de Febrero. Fue la primera vez en cuarenta años que un medio público se atrevía a hablar del 228.[^2]
 
 ## Aquel proyecto de constitución
 
-En diciembre de 1988, Zheng Nanrong publicó en el número 254 de la *Era de la Libertad* el *Proyecto de Constitución de la República de Taiwán*, redactado por Xu Shikai.[^3]
+En diciembre de 1988, Zheng Nanrong publicó en el número 254 de la _Era de la Libertad_ el _Proyecto de Constitución de la República de Taiwán_, redactado por Xu Shikai.[^3]
 
 En aquella época, abogar por la independencia de Taiwán equivalía al delito de sedición, castigado con la pena de muerte.
 
@@ -97,7 +105,7 @@ La trayectoria de esta familia se convirtió en un caso poco frecuente de «duel
 > **⚖️ Perspectiva de controversia**
 > La decisión de Zheng Nanrong sigue admitiendo distintas interpretaciones. Sus partidarios consideran la inmolación una declaración de convicción calculada con precisión, y sostienen que pagó el precio más alto para garantizar que la cuestión de la libertad de expresión no pudiera ser ignorada. Sus críticos, en cambio, juzgan la inmolación una elección personal extrema, una forma desproporcionada de perseguir un objetivo que difuminó las posibles vías de reforma a través de la resistencia institucional; Hou Youyi ejecutó una orden de arresto legal y no puede ser reducido simplemente a la categoría de «agresor». Ambos marcos interpretativos coexisten en el debate sobre la historia democrática de Taiwán, y el lector puede formarse su propio juicio.
 
-El 22 de diciembre de 2016, el Yuan Ejecutivo designó oficialmente el 7 de abril como «[Día de la Libertad de Expresión](https://zh.wikipedia.org/wiki/%E8%A8%80%E8%AB%96%E8%87%AA%E7%94%B1%E6%97%A5_(%E8%87%BA%E7%81%A3))».[^6] El [Museo Conmemorativo de Zheng Nanrong](https://www.nfreedommemorialfoundation.org/) en Taipéi (antigua sede de la revista) conserva su última oficina, donde las paredes aún conservan las marcas del fuego.
+El 22 de diciembre de 2016, el Yuan Ejecutivo designó oficialmente el 7 de abril como «[Día de la Libertad de Expresión](<https://zh.wikipedia.org/wiki/%E8%A8%80%E8%AB%96%E8%87%AA%E7%94%B1%E6%97%A5_(%E8%87%BA%E7%81%A3)>)».[^6] El [Museo Conmemorativo de Zheng Nanrong](https://www.nfreedommemorialfoundation.org/) en Taipéi (antigua sede de la revista) conserva su última oficina, donde las paredes aún conservan las marcas del fuego.
 
 ## El legado de un pensador de acción
 
@@ -112,17 +120,22 @@ Lo que Zheng Nanrong dejó es una pregunta que sigue abierta al debate: ¿por qu
 ## Referencias
 
 [^1]: [自由时代周刊 — 维基百科](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%99%82%E4%BB%A3%E5%91%A8%E5%88%8A) — Confirma la fecha de fundación, 12 de marzo de 1984, la solicitud de 24 licencias y el registro de 18 censuras.
+
 [^2]: [郑南榕基金会．纪念馆](https://www.nfreedommemorialfoundation.org/) — Cronología biográfica: organización pública de la conmemoración del 228 en 1987; secuencia temporal de la acusación por sedición del 21 de enero de 1989.
-[^3]: [许世楷 — 维基百科](https://zh.wikipedia.org/wiki/%E8%A8%B1%E4%B8%96%E6%A5%B7) — Antecedentes del autor del *Proyecto de Constitución de la República de Taiwán*; el proceso que condujo a la acusación tras su publicación en el número 254 de la *Era de la Libertad*.
+
+[^3]: [许世楷 — 维基百科](https://zh.wikipedia.org/wiki/%E8%A8%B1%E4%B8%96%E6%A5%B7) — Antecedentes del autor del _Proyecto de Constitución de la República de Taiwán_; el proceso que condujo a la acusación tras su publicación en el número 254 de la _Era de la Libertad_.
+
 [^4]: [郑南榕 — 维基百科](https://zh.wikipedia.org/wiki/%E9%84%AD%E5%8D%97%E6%A6%95) — Confirma que el operativo del 7 de abril de 1989 fue dirigido por Hou Youyi de la comisaría de Zhongshan; Zhan Yihua se inmoló siete días después durante el cortejo fúnebre.
+
 [^5]: [叶菊兰 — 维基百科](https://zh.wikipedia.org/wiki/%E8%91%89%E8%8F%8A%E8%98%AD) — Confirma los cargos públicos ocupados: legisladora, ministra de Transportes, presidenta del Consejo de Asuntos Hakka, viceprimera ministra del Yuan Ejecutivo y secretaria general de la Oficina Presidencial (2006–2007).
+
 [^6]: [言论自由日 — 行政院](https://www.ey.gov.tw/) — Comunicado de la designación del 7 de abril como Día de la Libertad de Expresión, aprobado el 22 de diciembre de 2016.
 
 **Lecturas complementarias**
 
-- [曾博恩](/people/曾博恩) — En agosto de 2019, el presentador de *夜夜秀 de Boen* citó en un segmento de Open Mic la inmolación de Zheng Nanrong, provocando una fuerte reacción social y la primera suspensión de su colaboración con Satyr.
+- [曾博恩](/es/people/bernard-tseng) — En agosto de 2019, el presentador de _夜夜秀 de Boen_ citó en un segmento de Open Mic la inmolación de Zheng Nanrong, provocando una fuerte reacción social y la primera suspensión de su colaboración con Satyr.
 - [Museo Nacional de Derechos Humanos](https://www.nhrm.gov.tw/) — Historia oral del Terror Blanco y el movimiento democrático.
-- Hu Huiling, *百年追求：台湾民主运动的故事* — Registro detallado de Zheng Nanrong y el movimiento disidente.
+- Hu Huiling, _百年追求：台湾民主运动的故事_ — Registro detallado de Zheng Nanrong y el movimiento disidente.
 - [Fundación Conmemorativa del Incidente del 28 de Febrero](https://www.228.org.tw/) — La conexión entre la familia Zheng Nanrong y el 228.
 - [美麗島事件 — 維基百科](https://zh.wikipedia.org/wiki/%E7%BE%8E%E9%BA%97%E5%B3%B6%E4%BA%8B%E4%BB%B6) — El evento clave que impulsó a Zheng Nanrong a involucrarse en el activismo social.
-- Documental *自由的靈魂 Nylon* (director: Cai Chonglong, 2009) — Reconstrucción de la vida de Zheng Nanrong y de su decisión de inmolación a través de entrevistas a los protagonistas e imágenes de archivo.
+- Documental _自由的靈魂 Nylon_ (director: Cai Chonglong, 2009) — Reconstrucción de la vida de Zheng Nanrong y de su decisión de inmolación a través de entrevistas a los protagonistas e imágenes de archivo.

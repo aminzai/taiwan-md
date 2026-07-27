@@ -178,11 +178,11 @@ Pero la historia de [[鄭南榕|Zheng Nanrong]] nos recuerda que este camino es 
 
 **Lectura adicional**:
 
-- [Museo Nacional de Derechos Humanos](/history/國家人權博物館) — Museo construido por el estado mismo para conmemorar a las víctimas políticas, inaugurado en 2018, el presupuesto de 2025 fue congelado
-- [Taiwán Terror Blanco](/history/台灣白色恐怖) — El cuerpo histórico contra el cual se revocaron las sentencias
-- [Período de Ley Marcial](/history/戒嚴時期) — El contenedor legal de 1949-1987
-- [Incidente del 28 de Febrero](/history/二二八事件) — La represión en Taiwán tras la guerra de 1947, otra línea del trabajo de justicia transicional
-- [Factura: El papel de 1951 que convirtió a todos los ciudadanos en inspectores fiscales](/economy/發票) — El diseñador de la factura unificada, Ren Xian-qun, tardó años en lograr la rehabilitación cruzando los gobiernos de Ma Ying-jeou y Tsai Ing-wen, un caso concreto del trabajo de justicia transicional
+- [Museo Nacional de Derechos Humanos](/es/history/national-human-rights-museum) — Museo construido por el estado mismo para conmemorar a las víctimas políticas, inaugurado en 2018, el presupuesto de 2025 fue congelado
+- [Taiwán Terror Blanco](/es/history/taiwan-white-terror) — El cuerpo histórico contra el cual se revocaron las sentencias
+- [Período de Ley Marcial](/es/history/martial-law-era) — El contenedor legal de 1949-1987
+- [Incidente del 28 de Febrero](/es/history/228-incident) — La represión en Taiwán tras la guerra de 1947, otra línea del trabajo de justicia transicional
+- [Factura: El papel de 1951 que convirtió a todos los ciudadanos en inspectores fiscales](/es/economy/taiwan-uniform-invoice) — El diseñador de la factura unificada, Ren Xian-qun, tardó años en lograr la rehabilitación cruzando los gobiernos de Ma Ying-jeou y Tsai Ing-wen, un caso concreto del trabajo de justicia transicional
 
 ## Referencias
 

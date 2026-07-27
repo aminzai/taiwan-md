@@ -122,9 +122,9 @@ Las futuras mascotas de Taiwán quizás no necesiten más osos negros, sino más
 ## Lectura complementaria
 
 - \*\*[Programas de variedades taiwaneses](/culture/台灣綜藝節目) — Diseño de personajes y mecanismos de interacción con la audiencia en la industria del entretenimiento
-- \*\*[Memes taiwaneses](/culture/台灣迷因) — Cómo los juegos de palabras fonéticos, el feísmo adorable y el contraste tierno se propagan en la red taiwanesa
-- \*\*[Pxmart](/economy/全聯福利中心) — Gestión de marca y estrategia de propiedad intelectual detrás del Oso de la Fortuna
-- \*\*[Oso negro de Taiwán](/nature/台灣黑熊) — El arquetipo biológico y las cuestiones de conservación como símbolo cultural
+- \*\*[Memes taiwaneses](/es/culture/taiwan-meme-culture) — Cómo los juegos de palabras fonéticos, el feísmo adorable y el contraste tierno se propagan en la red taiwanesa
+- \*\*[Pxmart](/es/economy/pxmart-supermarket) — Gestión de marca y estrategia de propiedad intelectual detrás del Oso de la Fortuna
+- \*\*[Oso negro de Taiwán](/es/nature/taiwanese-black-bear) — El arquetipo biológico y las cuestiones de conservación como símbolo cultural
 
 ## Referencias
 

@@ -145,7 +145,7 @@ Ella no respondió de frente. Dijo otra cosa:[^30]
 
 E hizo una profunda reverencia a quienes sostenían las banderas.
 
-Al día siguiente, 13 de octubre, en el mismo festival, Sam Yang —vocalista de [Fire EX.](/music/滅火器樂團/)— se detuvo en escena y dedicó casi siete minutos a este asunto.[^30][^32]
+Al día siguiente, 13 de octubre, en el mismo festival, Sam Yang —vocalista de [Fire EX.](/es/music/fire-ex/)— se detuvo en escena y dedicó casi siete minutos a este asunto.[^30][^32]
 
 No defendió a Anpu ni se sumó al linchamiento. Habló de la estructura: "Es la incomodidad de una época, también la del mercado. Tenemos suerte de no tener que pensar en el mercado chino. Pero quienes lo enfrentan tienen otro problema: una tentación enorme; quizá la voluntad de mantener a más gente." Su "ellos" apuntaba a la vez a Anpu, a Mayday y a Wu Kang-jen, los tres artistas blanco de la indignación taiwanesa esa misma semana por sus mensajes del 1 de octubre en Weibo.[^32]
 
@@ -171,11 +171,11 @@ Puede que la hija haya aprendido del padre exactamente eso. Solo que la respuest
 
 ## Lectura ampliada
 
-- [Música independiente taiwanesa](/music/台灣獨立音樂/)
-- [Historia del rock taiwanés](/music/台灣搖滾樂發展史/)
-- [Movimiento del Girasol](/society/太陽花學運/)
-- [Cultura de festivales musicales en Taiwán](/music/台灣音樂祭文化/)
-- [Rainie Yang](/people/楊丞琳)
+- [Música independiente taiwanesa](/es/music/indie-music-scene/)
+- [Historia del rock taiwanés](/es/music/taiwan-rock-from-underground-to-mainstream/)
+- [Movimiento del Girasol](/es/society/sunflower-movement/)
+- [Cultura de festivales musicales en Taiwán](/es/music/taiwan-music-festival-culture/)
+- [Rainie Yang](/es/people/rainie-yang)
 
 ## Referencias
 

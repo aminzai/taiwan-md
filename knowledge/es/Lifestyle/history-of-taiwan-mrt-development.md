@@ -275,7 +275,7 @@ Demuestra algo: una sociedad puede aprender de sus errores y construir mejores i
 
 ## Lectura complementaria
 
-- [La cultura de la motocicleta en Taiwán](/lifestyle/台灣機車文化) — cómo el mayor competidor del MRT moldea la vida urbana
+- [La cultura de la motocicleta en Taiwán](/es/lifestyle/taiwan-scooter-culture) — cómo el mayor competidor del MRT moldea la vida urbana
 
 ## Lectura complementaria
 

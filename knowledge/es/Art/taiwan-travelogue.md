@@ -153,12 +153,12 @@ _19 de noviembre de 2024, lectura de finalistas de los National Book Awards: Yan
 
 **Lecturas relacionadas**:
 
-- [Literatura del período de dominio japonés](/art/日治時期文學) — Contexto histórico en el que se sitúa 《Taiwan Travelogue》 en 1938, y la genealogía de escritura femenina y local abierta por autoras y autores como Yang Chian-he, Lai He y Lung Ying-tsung
-- [Literatura taiwanesa contemporánea](/art/當代台灣文學) — Cómo la generación de Yang Shuang-zi continúa la escritura local de Wu Ming-yi, Lin Yi-han y Lo Yi-chin y avanza hacia el mercado internacional de la literatura traducida
-- [Literatura taiwanesa después del levantamiento de la ley marcial](/art/解嚴後台灣文學) — Desde el levantamiento de la ley marcial en 1987 hasta la década de 2020: escritura femenina, escritura LGBTQ+ y literatura en lenguas maternas; de aquí proviene la tradición “yuri” de Yang Shuang-zi
-- [Historia de la literatura taiwanesa](/art/台灣文學史) — El contexto general al que corresponde la “pregunta de cien años” mencionada por Yang Shuang-zi al recibir el premio
-- [Chu Tien-wen](/people/朱天文) — Escritora representativa de la escritura femenina después del levantamiento de la ley marcial; las estrategias de atribución ficticia en 《Notas de un hombre desolado》 y 《La ciudad antigua》 son antecedentes importantes de la falsa traducción en la literatura taiwanesa
-- [Wu Ming-yi](/people/吳明益) — También escritor taiwanés representativo de la ola internacional de literatura traducida en la década de 2020; 《El hombre de los ojos compuestos》 y 《La bicicleta robada》 han alcanzado visibilidad en el mundo anglófono
+- [Literatura del período de dominio japonés](/es/art/taiwanese-literature-during-japanese-rule) — Contexto histórico en el que se sitúa 《Taiwan Travelogue》 en 1938, y la genealogía de escritura femenina y local abierta por autoras y autores como Yang Chian-he, Lai He y Lung Ying-tsung
+- [Literatura taiwanesa contemporánea](/es/art/contemporary-taiwanese-literature) — Cómo la generación de Yang Shuang-zi continúa la escritura local de Wu Ming-yi, Lin Yi-han y Lo Yi-chin y avanza hacia el mercado internacional de la literatura traducida
+- [Literatura taiwanesa después del levantamiento de la ley marcial](/es/art/post-martial-law-taiwanese-literature) — Desde el levantamiento de la ley marcial en 1987 hasta la década de 2020: escritura femenina, escritura LGBTQ+ y literatura en lenguas maternas; de aquí proviene la tradición “yuri” de Yang Shuang-zi
+- [Historia de la literatura taiwanesa](/es/art/history-of-taiwanese-literature) — El contexto general al que corresponde la “pregunta de cien años” mencionada por Yang Shuang-zi al recibir el premio
+- [Chu Tien-wen](/es/people/chu-tien-wen) — Escritora representativa de la escritura femenina después del levantamiento de la ley marcial; las estrategias de atribución ficticia en 《Notas de un hombre desolado》 y 《La ciudad antigua》 son antecedentes importantes de la falsa traducción en la literatura taiwanesa
+- [Wu Ming-yi](/es/people/wu-ming-yi) — También escritor taiwanés representativo de la ola internacional de literatura traducida en la década de 2020; 《El hombre de los ojos compuestos》 y 《La bicicleta robada》 han alcanzado visibilidad en el mundo anglófono
 
 ## Referencias
 

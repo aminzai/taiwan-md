@@ -103,10 +103,10 @@ Sesenta y nueve años de diplomacia no residen en la retórica: residen en la co
 
 **Lecturas adicionales**:
 
-- [Aliados diplomáticos de Taiwán y diplomacia internacional](/society/台灣邦交國與國際外交) — Una visión panorámica de los 12 aliados, bases en el extranjero y la red de exención de visados.
-- [Taiwán y Eswatini](/society/台灣與史瓦帝尼) — El único aliado en África, otro caso de «cooperación a largo plazo y política vulnerable».
-- [Operaciones de información (Guerra Cognitiva)](/society/認知作戰) — El marco de manipulación de información, lenguaje y presión de China contra Taiwán.
-- [Cumbre Zheng-Xi 2026 y el reencuentro tras una década](/society/2026鄭習會與國共十年再會) — Dinámicas políticas en ambos lados del estrecho en el mismo periodo, para entender el contexto de la presión china sobre Taiwán.
+- [Aliados diplomáticos de Taiwán y diplomacia internacional](/es/society/taiwan-diplomatic-allies-and-international-relations) — Una visión panorámica de los 12 aliados, bases en el extranjero y la red de exención de visados.
+- [Taiwán y Eswatini](/es/society/taiwan-eswatini-relations) — El único aliado en África, otro caso de «cooperación a largo plazo y política vulnerable».
+- [Operaciones de información (Guerra Cognitiva)](/es/society/cognitive-warfare-against-taiwan) — El marco de manipulación de información, lenguaje y presión de China contra Taiwán.
+- [Cumbre Zheng-Xi 2026 y el reencuentro tras una década](/es/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Dinámicas políticas en ambos lados del estrecho en el mismo periodo, para entender el contexto de la presión china sobre Taiwán.
 
 ## Fuentes de las imágenes
 

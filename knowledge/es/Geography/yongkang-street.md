@@ -198,14 +198,14 @@ La próxima vez que camines por la calle Yongkang, **levanta la vista hacia los 
 
 **Lecturas complementarias**:
 
-- [Ciudad de Taipéi: tres tiempos dentro de una ciudad, el templo Longshan de 1738 mirando al 101 de 2004](/geography/台北市) — Panorama de los 12 distritos de Taipéi; el núcleo del “Taipéi cultural y educativo” en el distrito de Da'an, donde se ubica la calle Yongkang
-- [Cultura de calles antiguas y barrios comerciales de Taiwán](/culture/台灣老街文化與商業街區) — Catálogo principal de calles antiguas; comparación entre la calle Yongkang, la calle Dihua, Bopiliao y la calle antigua de Anping
-- [Grupos étnicos (hoklo, hakka, pueblos indígenas, continentales y nuevos residentes)](/culture/族群（閩南客家原住民外省新住民）) — Narrativa de la migración continental de 1949; la calle Yongkang y Sisinan Village como dos modelos distintos de asentamiento continental
-- [Cultura taiwanesa de fideos y masas](/food/台灣麵食文化) — Relación entre Yongkang Beef Noodles, Dongmen Dumpling House, los xiaolongbao de Din Tai Fung y el mapa de comida de origen continental de posguerra
-- [Cocina taiwanesa de aldeas de dependientes militares](/food/台灣眷村菜) — Cruces culinarios entre la calle Yongkang, Sisinan Village, Youth Park y las aldeas de dependientes militares de Beitou
-- [Dadaocheng: 800 metros y tres siglos, de Formosa Tea al primer disparo del 28 de Febrero](/geography/大稻埕) — Artículo hermano del mismo batch 1 de barrios históricos: calle comercial de época Qing frente a zona residencial de alta categoría del periodo japonés, dos formas de “momento de formación de una calle”
-- [Gongguan](/geography/公館) — La calle Yongkang y Gongguan sostienen conjuntamente el círculo de consumo de docentes y estudiantes de la Universidad Nacional de Taiwán, desde la época de la universidad imperial en 1928 hasta el eje mesa académica-estudiantil de 2026
-- [Sisinan Village](/geography/四四南村) — Aldea de dependientes militares de un arsenal en 1948; contraste entre el modelo “aldea de dependientes” y el modelo “toma de residencias japonesas” de la calle Yongkang y la calle Qingtian
+- [Ciudad de Taipéi: tres tiempos dentro de una ciudad, el templo Longshan de 1738 mirando al 101 de 2004](/es/geography/taipei-city) — Panorama de los 12 distritos de Taipéi; el núcleo del “Taipéi cultural y educativo” en el distrito de Da'an, donde se ubica la calle Yongkang
+- [Cultura de calles antiguas y barrios comerciales de Taiwán](/es/culture/taiwan-historic-streets-and-commercial-districts) — Catálogo principal de calles antiguas; comparación entre la calle Yongkang, la calle Dihua, Bopiliao y la calle antigua de Anping
+- [Grupos étnicos (hoklo, hakka, pueblos indígenas, continentales y nuevos residentes)](/es/culture/ethnic-groups) — Narrativa de la migración continental de 1949; la calle Yongkang y Sisinan Village como dos modelos distintos de asentamiento continental
+- [Cultura taiwanesa de fideos y masas](/es/food/taiwanese-noodle-culture) — Relación entre Yongkang Beef Noodles, Dongmen Dumpling House, los xiaolongbao de Din Tai Fung y el mapa de comida de origen continental de posguerra
+- [Cocina taiwanesa de aldeas de dependientes militares](/es/food/military-dependents-village-cuisine) — Cruces culinarios entre la calle Yongkang, Sisinan Village, Youth Park y las aldeas de dependientes militares de Beitou
+- [Dadaocheng: 800 metros y tres siglos, de Formosa Tea al primer disparo del 28 de Febrero](/es/geography/dadaocheng) — Artículo hermano del mismo batch 1 de barrios históricos: calle comercial de época Qing frente a zona residencial de alta categoría del periodo japonés, dos formas de “momento de formación de una calle”
+- [Gongguan](/es/geography/gongguan) — La calle Yongkang y Gongguan sostienen conjuntamente el círculo de consumo de docentes y estudiantes de la Universidad Nacional de Taiwán, desde la época de la universidad imperial en 1928 hasta el eje mesa académica-estudiantil de 2026
+- [Sisinan Village](/es/geography/44-south-village) — Aldea de dependientes militares de un arsenal en 1948; contraste entre el modelo “aldea de dependientes” y el modelo “toma de residencias japonesas” de la calle Yongkang y la calle Qingtian
 
 ## Fuentes de imágenes
 

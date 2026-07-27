@@ -150,19 +150,19 @@ Los F-16V Block 70, originalmente programados para 2024, se retrasaron hasta 202
 
 **Lecturas complementarias**:
 
-- [Crisis del Estrecho de Taiwán y desarrollo de las relaciones entre las dos orillas](/history/台海危機與兩岸關係發展) — Cómo las tres crisis del estrecho moldearon la lógica estructural de la confrontación militar actual.
-- [Relaciones diplomáticas y presencia internacional de Taiwán](/society/台灣邦交國與國際外交) — La otra vía más allá de la autodefensa militar: la búsqueda de reconocimiento diplomático en el sistema internacional.
-- [Entorno político y sistema electoral de Taiwán](/society/台灣政治環境與選舉制度) — Por qué el presupuesto especial de 1,25 billones fue bloqueado ocho veces en el Legislativo: la defensa no depende de un solo gobierno.
-- [Desarrollo de la industria de ciberseguridad en Taiwán](/technology/台灣資安產業發展) — La primera línea de la guerra en la zona gris no son las minas navales, sino los cortafuegos.
-- [Desarrollo de la industria espacial en Taiwán](/technology/台灣太空產業發展) — De satélites civiles a comunicaciones de defensa: el espacio como nuevo campo de batalla para la resiliencia defensiva.
-- [Reunión Zheng-Xi de 2026: diez minutos del reencuentro de líderes del Kuomintang y el PCCh tras una década](/society/2026鄭習會與國共十年再會) — Cuando Zheng Lihwen propone "arreglos institucionales para prevenir la guerra", detrás se esconde la pugna política del presupuesto especial de defensa.
-- [Shen Po-yang](/people/沈伯洋) — Cofundador de la Academia Oso Negro, que refuerza la resiliencia de la defensa nacional mediante educación civil; tras siete años investigando la guerra cognitiva del PCCh, fue imputado por China bajo el cargo de "delito de secesión".
-- [Academia Oso Negro](/society/黑熊學院) — Educación civil de defensa de todo el pueblo, surgida desde la sociedad civil; una segunda línea de resiliencia más allá de la defensa estatal, una escuela que aspira a que algún día no necesite existir.
-- [Cho Jung-tai](/people/卓榮泰) — Principal impulsor en el Yuan Ejecutivo del presupuesto especial de defensa de 1,25 billones; proponente del "Escudo de Taiwán" y las "Tres buenas pelotas".
-- [Lu Shiow-yen](/people/盧秀燕) — Vicepresidenta del Kuomintang / alcaldesa de Taichung; adoptó una posición intermedia de "800 000 a 1 billón" en la controversia de compras militares de 2026.
-- [Hsu Chiao-hsin](/people/徐巧芯) — Legisladora del Kuomintang / principal impulsora de la versión de 800 000 millones en compras militares; arquetipo político que chocó repetidamente con Lai Ching-te en la sala de interrogatorios.
-- [Chi Lin-lian](/people/季麟連) — Vicepresidenta del Kuomintang / general en retiro; detonó la división interna en el Kuomintang sobre la línea de compras militares en la reunión del Comité Permanente del 29 de abril.
-- [Samuel Yin](/people/尹衍樑) — El método de prefabricación que redujo la construcción de plantas de TSMC, Google y Microsoft en Taiwán a 100 días, infraestructura oculta de la competitividad de semiconductores; al mismo tiempo, arquetipo del empresario taiwánés con apuesta dual en ambas orillas tras su declaración de 2013 de que "la reunificación es inevitable".
+- [Crisis del Estrecho de Taiwán y desarrollo de las relaciones entre las dos orillas](/es/history/taiwan-strait-crises-and-cross-strait-relations) — Cómo las tres crisis del estrecho moldearon la lógica estructural de la confrontación militar actual.
+- [Relaciones diplomáticas y presencia internacional de Taiwán](/es/society/taiwan-diplomatic-allies-and-international-relations) — La otra vía más allá de la autodefensa militar: la búsqueda de reconocimiento diplomático en el sistema internacional.
+- [Entorno político y sistema electoral de Taiwán](/es/society/taiwan-political-landscape-and-electoral-system) — Por qué el presupuesto especial de 1,25 billones fue bloqueado ocho veces en el Legislativo: la defensa no depende de un solo gobierno.
+- [Desarrollo de la industria de ciberseguridad en Taiwán](/es/technology/taiwan-cybersecurity-industry-development) — La primera línea de la guerra en la zona gris no son las minas navales, sino los cortafuegos.
+- [Desarrollo de la industria espacial en Taiwán](/es/technology/taiwan-space-industry-development) — De satélites civiles a comunicaciones de defensa: el espacio como nuevo campo de batalla para la resiliencia defensiva.
+- [Reunión Zheng-Xi de 2026: diez minutos del reencuentro de líderes del Kuomintang y el PCCh tras una década](/es/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Cuando Zheng Lihwen propone "arreglos institucionales para prevenir la guerra", detrás se esconde la pugna política del presupuesto especial de defensa.
+- [Shen Po-yang](/es/people/puma-shen) — Cofundador de la Academia Oso Negro, que refuerza la resiliencia de la defensa nacional mediante educación civil; tras siete años investigando la guerra cognitiva del PCCh, fue imputado por China bajo el cargo de "delito de secesión".
+- [Academia Oso Negro](/es/society/kuma-academy-civil-defense-school) — Educación civil de defensa de todo el pueblo, surgida desde la sociedad civil; una segunda línea de resiliencia más allá de la defensa estatal, una escuela que aspira a que algún día no necesite existir.
+- [Cho Jung-tai](/es/people/cho-jung-tai) — Principal impulsor en el Yuan Ejecutivo del presupuesto especial de defensa de 1,25 billones; proponente del "Escudo de Taiwán" y las "Tres buenas pelotas".
+- [Lu Shiow-yen](/es/people/lu-hsiu-yan) — Vicepresidenta del Kuomintang / alcaldesa de Taichung; adoptó una posición intermedia de "800 000 a 1 billón" en la controversia de compras militares de 2026.
+- [Hsu Chiao-hsin](/es/people/hsu-chiao-hsin) — Legisladora del Kuomintang / principal impulsora de la versión de 800 000 millones en compras militares; arquetipo político que chocó repetidamente con Lai Ching-te en la sala de interrogatorios.
+- [Chi Lin-lian](/es/people/ji-lin-lian) — Vicepresidenta del Kuomintang / general en retiro; detonó la división interna en el Kuomintang sobre la línea de compras militares en la reunión del Comité Permanente del 29 de abril.
+- [Samuel Yin](/es/people/samuel-yin-yan-liang) — El método de prefabricación que redujo la construcción de plantas de TSMC, Google y Microsoft en Taiwán a 100 días, infraestructura oculta de la competitividad de semiconductores; al mismo tiempo, arquetipo del empresario taiwánés con apuesta dual en ambas orillas tras su declaración de 2013 de que "la reunificación es inevitable".
 
 ## Referencias
 

@@ -267,15 +267,15 @@ Cada módulo se escribe en el Markdown del artículo dentro de un bloque ` ```tw
 
 Este sistema se inspira en la filosofía editorial de medios narrativos como [The Pudding](https://pudding.cool/): el problema antes que los datos, conclusiones claras, y la atribución como protagonista — pero adaptado a la anatomía propia de Taiwan.md: estático, multilingüe y legible por IA. El contexto completo del diseño está en el [Informe del sistema de visualización](https://github.com/frank890417/taiwan-md/blob/main/reports/article-visualization-design-2026-06-06.md).
 
-Para ver cómo estos módulos se insertan en un artículo profundo, lee [Vivienda pública y justicia habitacional](/society/國宅與居住正義) — la mayoría de los datos de esta página provienen de esa investigación.
+Para ver cómo estos módulos se insertan en un artículo profundo, lee [Vivienda pública y justicia habitacional](/es/society/public-housing-justice) — la mayoría de los datos de esta página provienen de esa investigación.
 
 **Lecturas complementarias**:
 
-- [Vivienda pública y justicia habitacional](/society/國宅與居住正義) — la historia completa detrás de los datos de vivienda: cómo la vivienda pública pasó de ser vivienda barata a una escalera de activos, y la mayor parte de los módulos usan esas cifras.
-- [Ver Taiwán con datos](/geography/用數據看台灣22縣市) — los datos de envejecimiento para los diagramas de puntos, pirámide y mosaico provienen de este análisis de los 22 municipios.
-- [Debate sobre la energía nuclear en Taiwán](/society/台灣與核能的討論) — la historia completa de los tres referéndums que alimentan el diagrama de barras apiladas.
-- [Vivienda social y justicia habitacional](/society/社會住宅與居住正義) — la ruta de “solo alquiler, no venta” después de 2016.
-- [Crisis de natalidad en Taiwán](/society/台灣少子化危機) — la imposibilidad de comprar vivienda y la falta de hijos, otra cara de la justicia generacional.
+- [Vivienda pública y justicia habitacional](/es/society/public-housing-justice) — la historia completa detrás de los datos de vivienda: cómo la vivienda pública pasó de ser vivienda barata a una escalera de activos, y la mayor parte de los módulos usan esas cifras.
+- [Ver Taiwán con datos](/es/geography/data-taiwan-22-cities) — los datos de envejecimiento para los diagramas de puntos, pirámide y mosaico provienen de este análisis de los 22 municipios.
+- [Debate sobre la energía nuclear en Taiwán](/es/society/taiwan-nuclear-debate) — la historia completa de los tres referéndums que alimentan el diagrama de barras apiladas.
+- [Vivienda social y justicia habitacional](/es/society/social-housing-and-housing-justice) — la ruta de “solo alquiler, no venta” después de 2016.
+- [Crisis de natalidad en Taiwán](/es/society/taiwan-low-birth-rate-crisis) — la imposibilidad de comprar vivienda y la falta de hijos, otra cara de la justicia generacional.
 
 ## Referencias
 
@@ -285,9 +285,9 @@ Para ver cómo estos módulos se insertan en un artículo profundo, lee [Viviend
 
 [^3]: [行政院廢止國民住宅條例新聞稿](https://www.ey.gov.tw/Page/9277F759E41CCD91/d4afaf10-ece5-4b4f-9482-35ce16bdc657) — número acumulado de viviendas públicas (≈ 390 mil).
 
-[^4]: [內政部戶政司人口統計資料](https://www.ris.gov.tw/app/portal/346) — proporción de población mayor de 65 años y índice de envejecimiento al final de 2025; datos para los diagramas de puntos, pirámide, mosaico y caja explicativa; cadena de verificación completa en〈[Ver Taiwán con datos](/geography/用數據看台灣22縣市)〉.
+[^4]: [內政部戶政司人口統計資料](https://www.ris.gov.tw/app/portal/346) — proporción de población mayor de 65 años y índice de envejecimiento al final de 2025; datos para los diagramas de puntos, pirámide, mosaico y caja explicativa; cadena de verificación completa en〈[Ver Taiwán con datos](/es/geography/data-taiwan-22-cities)〉.
 
-[^5]: [中央選舉委員會 2018 年第 16 案公投結果（PDF）](https://web.cec.gov.tw/api/file/0132581c-18b5-4951-bc24-3cc083924666.pdf) — resultados oficiales de los tres referéndums nucleares (59 %/47 %/74 %); cadena de verificación completa en〈[Debate sobre la energía nuclear en Taiwán](/society/台灣與核能的討論)〉.
+[^5]: [中央選舉委員會 2018 年第 16 案公投結果（PDF）](https://web.cec.gov.tw/api/file/0132581c-18b5-4951-bc24-3cc083924666.pdf) — resultados oficiales de los tres referéndums nucleares (59 %/47 %/74 %); cadena de verificación completa en〈[Debate sobre la energía nuclear en Taiwán](/es/society/taiwan-nuclear-debate)〉.
 
 ## Fuente de la imagen
 

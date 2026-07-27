@@ -127,12 +127,12 @@ Volvamos a aquella tarde de 2015 en Nueva York. Un joven con menos de cien mil s
 
 **Lecturas relacionadas**:
 
-- [Tsai A-ga: del pionero de los influencers a la vocación de trabajador social, el hombre que usó 18 años de tráfico para cambiar su destino](/people/蔡阿嘎) — El primer YouTuber taiwanés en alcanzar un millón de suscriptores; lo logró en 2014, cuatro años antes que Howhow, y es el punto de partida de esta línea de tiempo de profesionalización.
-- [A Shen](/people/阿神) — Creador de videojuegos que cruzó el umbral del millón en la misma etapa que Saint (2017), con una estrategia de supervivencia completamente distinta a la de Howhow.
-- [Brian Tseng: puede calcular el chiste, pero no la sociedad](/people/曾博恩) — También se hizo famoso con una «comedia de ritmo calculado», pero llevó los chistes hacia asuntos sociales más sensibles que el contenido patrocinado.
-- [Zun: del cuarto en segundo de secundaria a dos canales millonarios, la crónica de la mayoría de edad de un YouTuber](/people/尊) — También surgido de los primeros tiempos de YouTube en Taiwán, con un registro público que atraviesa la grabación de videos en la adolescencia, el peso de un millón de suscriptores y la vida cotidiana como adulto.
-- [Industria y cultura de los YouTubers taiwaneses: de Tsai A-ga a Chi Hsuan, la historia de evolución digital de una isla](/culture/台灣YouTuber產業與文化) — El paisaje industrial completo en el que se ubica Howhow, y cómo los creadores de su generación sostuvieron la memoria de internet de toda una época.
-- [La economía de los creadores de medios propios en Taiwán: el campo de batalla fragmentado de 23 millones de personas](/economy/台灣自媒體創作者經濟) — Una forma de entender, desde la estructura industrial, la aritmética del reparto publicitario detrás de «el contenido patrocinado es una necesidad de supervivencia».
+- [Tsai A-ga: del pionero de los influencers a la vocación de trabajador social, el hombre que usó 18 años de tráfico para cambiar su destino](/es/people/tsai-a-ga-youtuber) — El primer YouTuber taiwanés en alcanzar un millón de suscriptores; lo logró en 2014, cuatro años antes que Howhow, y es el punto de partida de esta línea de tiempo de profesionalización.
+- [A Shen](/es/people/red-shin-minecraft-youtuber) — Creador de videojuegos que cruzó el umbral del millón en la misma etapa que Saint (2017), con una estrategia de supervivencia completamente distinta a la de Howhow.
+- [Brian Tseng: puede calcular el chiste, pero no la sociedad](/es/people/bernard-tseng) — También se hizo famoso con una «comedia de ritmo calculado», pero llevó los chistes hacia asuntos sociales más sensibles que el contenido patrocinado.
+- [Zun: del cuarto en segundo de secundaria a dos canales millonarios, la crónica de la mayoría de edad de un YouTuber](/es/people/zun) — También surgido de los primeros tiempos de YouTube en Taiwán, con un registro público que atraviesa la grabación de videos en la adolescencia, el peso de un millón de suscriptores y la vida cotidiana como adulto.
+- [Industria y cultura de los YouTubers taiwaneses: de Tsai A-ga a Chi Hsuan, la historia de evolución digital de una isla](/es/culture/taiwan-youtuber-industry) — El paisaje industrial completo en el que se ubica Howhow, y cómo los creadores de su generación sostuvieron la memoria de internet de toda una época.
+- [La economía de los creadores de medios propios en Taiwán: el campo de batalla fragmentado de 23 millones de personas](/es/economy/taiwan-self-media-creator-economy) — Una forma de entender, desde la estructura industrial, la aritmética del reparto publicitario detrás de «el contenido patrocinado es una necesidad de supervivencia».
 
 ## Fuentes de imágenes
 

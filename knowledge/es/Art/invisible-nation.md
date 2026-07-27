@@ -208,13 +208,13 @@ En aquella función de prensa de junio de 2025, el suelo tembló antes de que se
 
 ## Lecturas relacionadas
 
-- [Tsai Ing-wen](/people/蔡英文) — protagonista filmada de cerca durante siete años en esta película, primera presidenta de Taiwán, de una derrota por 800.000 votos a una reelección con 8,17 millones
-- [Movimiento Girasol](/society/太陽花學運) — punto clave del arco democrático en la película, los 24 días de 2014 que remodelaron la conciencia política de una generación
-- [Chi Cheng](/people/紀政) — la «gacela voladora» que en la película muestra su bronce olímpico de México 1968 y pregunta si «Taipéi Chino» es el nombre de un país
-- [Taipéi Chino](/society/中華台北) — el mecanismo del nombre olímpico detrás de esa «medalla que no puede llevar su propio nombre» de Chi Cheng
-- [Espectro unificación-independencia de Taiwán](/society/台灣統獨光譜) — las coordenadas soberanas de la frase de Tsai Ing-wen en la película: «Taiwán ya es un país independiente»
-- [Puma Shen](/people/沈伯洋) — la versión real de la clase de defensa civil del final: cofundador de la Academia Kuma y legislador que enseña a civiles «cómo sobrevivir»
-- [Chipmakers: The Century's Wager](/art/造山者世紀的賭注) — otro documental de «valores taiwaneses» estrenado el mismo día que esta película, sobre la historia de los semiconductores de Taiwán
+- [Tsai Ing-wen](/es/people/tsai-ing-wen) — protagonista filmada de cerca durante siete años en esta película, primera presidenta de Taiwán, de una derrota por 800.000 votos a una reelección con 8,17 millones
+- [Movimiento Girasol](/es/society/sunflower-movement) — punto clave del arco democrático en la película, los 24 días de 2014 que remodelaron la conciencia política de una generación
+- [Chi Cheng](/es/people/chi-cheng-flying-antelope) — la «gacela voladora» que en la película muestra su bronce olímpico de México 1968 y pregunta si «Taipéi Chino» es el nombre de un país
+- [Taipéi Chino](/es/society/chinese-taipei) — el mecanismo del nombre olímpico detrás de esa «medalla que no puede llevar su propio nombre» de Chi Cheng
+- [Espectro unificación-independencia de Taiwán](/es/society/taiwan-unification-independence-spectrum) — las coordenadas soberanas de la frase de Tsai Ing-wen en la película: «Taiwán ya es un país independiente»
+- [Puma Shen](/es/people/puma-shen) — la versión real de la clase de defensa civil del final: cofundador de la Academia Kuma y legislador que enseña a civiles «cómo sobrevivir»
+- [Chipmakers: The Century's Wager](/es/art/mountain-makers-tsmc-documentary) — otro documental de «valores taiwaneses» estrenado el mismo día que esta película, sobre la historia de los semiconductores de Taiwán
 
 ## Fuentes de imágenes
 

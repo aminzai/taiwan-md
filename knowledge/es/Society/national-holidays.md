@@ -213,14 +213,14 @@ Pero nunca es sólo una cuestión nacional. También es una pregunta más sencil
 
 **Lecturas relacionadas**:
 
-- [Incidente del 228](/history/二二八事件) — La masacre de 1947 y cómo en 1997 se convirtió en el primer feriado nacional legal de Taiwán
-- [Período de ley marcial](/history/戒嚴時期) — El “octubre glorioso” y el calendario autoritario detrás del feriado por el natalicio de Chiang
-- [Justicia transicional en Taiwán](/history/台灣轉型正義) — Por qué el Día de Memoria del Terror Blanco aún no entra al calendario
-- [Espectro independencia-unificación de Taiwán](/society/台灣統獨光譜) — El mapa identitario detrás de tres visiones: “retrocesión”, “fin de la guerra” y “toma de control”
-- [Taipéi Chino](/society/中華台北) — Otra cara de la disputa entre el Día Nacional del Doble Diez y el Día Nacional de Taiwán bajo una misma “República de China (Taiwán)”
-- [Feriado por tifón](/society/颱風假) — Otra forma de preguntar “de quién es el descanso y de quién el turno”: quienes trabajan igual bajo viento y lluvia
-- [Festival del Bote del Dragón](/culture/端午節) — Cómo una festividad popular se convierte en “un día libre” dentro del calendario
-- [Entorno político y sistema electoral de Taiwán](/society/台灣政治環境與選舉制度) — Cómo la correlación de fuerzas azul-blanca-verde en el Yuan Legislativo decide las fechas rojas del calendario
+- [Incidente del 228](/es/history/228-incident) — La masacre de 1947 y cómo en 1997 se convirtió en el primer feriado nacional legal de Taiwán
+- [Período de ley marcial](/es/history/martial-law-era) — El “octubre glorioso” y el calendario autoritario detrás del feriado por el natalicio de Chiang
+- [Justicia transicional en Taiwán](/es/history/taiwan-transitional-justice) — Por qué el Día de Memoria del Terror Blanco aún no entra al calendario
+- [Espectro independencia-unificación de Taiwán](/es/society/taiwan-unification-independence-spectrum) — El mapa identitario detrás de tres visiones: “retrocesión”, “fin de la guerra” y “toma de control”
+- [Taipéi Chino](/es/society/chinese-taipei) — Otra cara de la disputa entre el Día Nacional del Doble Diez y el Día Nacional de Taiwán bajo una misma “República de China (Taiwán)”
+- [Feriado por tifón](/es/society/typhoon-day) — Otra forma de preguntar “de quién es el descanso y de quién el turno”: quienes trabajan igual bajo viento y lluvia
+- [Festival del Bote del Dragón](/es/culture/dragon-boat-festival) — Cómo una festividad popular se convierte en “un día libre” dentro del calendario
+- [Entorno político y sistema electoral de Taiwán](/es/society/taiwan-political-landscape-and-electoral-system) — Cómo la correlación de fuerzas azul-blanca-verde en el Yuan Legislativo decide las fechas rojas del calendario
 
 ---
 

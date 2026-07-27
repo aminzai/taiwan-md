@@ -95,7 +95,7 @@ En 2025, la Universidad de Taitung le otorgó un doctorado honorario. Al subir a
 
 - [Mercado Central de Taitung](/lifestyle/台東市集) — Sede del puesto de verduras donde Chen Shu-chu trabajó durante cincuenta años; espacio representativo de la economía popular de Taitung
 - [Cultura filantrópica taiwanesa](/society/台灣慈善文化) — Desde Tzu Chi de la maestra Cheng Yen hasta la vendedora Chen Shu-chu: dos modelos de filantropía civil en Taiwán
-- [Educación en zonas remotas de Taiwán](/society/台灣偏鄉教育) — Principales destinatarios de las donaciones de Chen Shu-chu a lo largo de los años: bibliotecas, escuelas y orfanatos, con un seguimiento sostenido en el tiempo
+- [Educación en zonas remotas de Taiwán](/es/society/taiwan-rural-education) — Principales destinatarios de las donaciones de Chen Shu-chu a lo largo de los años: bibliotecas, escuelas y orfanatos, con un seguimiento sostenido en el tiempo
 
 ## Referencias
 

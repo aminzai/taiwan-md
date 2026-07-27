@@ -188,10 +188,10 @@ Cómo mantener la calidad educativa y la competitividad al tiempo que se crea un
 
 **Lecturas complementarias:**
 
-- [Educación rural en Taiwán](/society/台灣偏鄉教育) — Si se desea comprender la desigualdad educativa en su totalidad, desde los niños, las escuelas, las familias y las comunidades hasta la imaginación del éxito social, este artículo ofrece el panorama más amplio.
-- [Enseñar para Taiwán (TFT)](/society/為台灣而教TFT) — Este artículo se centra en una organización que responde de manera concreta a la brecha educativa rural, complementando el contexto de los actores y las controversias.
-- [Crisis de baja natalidad en Taiwán](/society/台灣少子化危機) — Más allá del sistema de admisión y la cultura de competencia, la baja natalidad también está reescribiendo la supervivencia de las escuelas y la distribución de recursos educativos.
-- [Za School](/society/雜學校) — Un carnaval de educación alternativa surgido tras el movimiento estudiantil del 18 de marzo, es un espacio concreto de imaginación fuera del sistema centrado en el ingreso académico.
+- [Educación rural en Taiwán](/es/society/taiwan-rural-education) — Si se desea comprender la desigualdad educativa en su totalidad, desde los niños, las escuelas, las familias y las comunidades hasta la imaginación del éxito social, este artículo ofrece el panorama más amplio.
+- [Enseñar para Taiwán (TFT)](/es/society/teach-for-taiwan) — Este artículo se centra en una organización que responde de manera concreta a la brecha educativa rural, complementando el contexto de los actores y las controversias.
+- [Crisis de baja natalidad en Taiwán](/es/society/taiwan-low-birth-rate-crisis) — Más allá del sistema de admisión y la cultura de competencia, la baja natalidad también está reescribiendo la supervivencia de las escuelas y la distribución de recursos educativos.
+- [Za School](/es/society/za-share) — Un carnaval de educación alternativa surgido tras el movimiento estudiantil del 18 de marzo, es un espacio concreto de imaginación fuera del sistema centrado en el ingreso académico.
 
 [^1]: Departamento de Estadísticas del Ministerio de Educación, «Estadísticas de acceso a la educación superior», https://stats.moe.gov.tw/
 

@@ -210,9 +210,9 @@ Aunque Lee Yang ya se retiró, el nombre de la dupla Lin-Yang quedará para siem
 
 **Lecturas complementarias**:
 
-- [Kuo Hsing-chun](/people/郭婞淳) — medallista de oro en levantamiento de pesas en los Juegos Olímpicos de Tokio y, junto con la dupla Lin-Yang, representante de la generación dorada olímpica de Taiwán
-- [Lee Yang](/people/李洋) — biografía personal de la mitad derecha de la dupla Lin-Yang: de la sentencia de su padre, “no tiene madera para jugar bádminton”, al ministro de Deportes más joven de la historia
-- [Tai Tzu-ying](/people/戴資穎) — reina mundial del individual femenino contemporánea de la dupla Lin-Yang, otro rostro representativo de la generación dorada del bádminton taiwanés
+- [Kuo Hsing-chun](/es/people/kuo-hsing-chun-olympic-weightlifting-champion) — medallista de oro en levantamiento de pesas en los Juegos Olímpicos de Tokio y, junto con la dupla Lin-Yang, representante de la generación dorada olímpica de Taiwán
+- [Lee Yang](/es/people/lee-yang-badminton) — biografía personal de la mitad derecha de la dupla Lin-Yang: de la sentencia de su padre, “no tiene madera para jugar bádminton”, al ministro de Deportes más joven de la historia
+- [Tai Tzu-ying](/es/people/tai-tzu-ying) — reina mundial del individual femenino contemporánea de la dupla Lin-Yang, otro rostro representativo de la generación dorada del bádminton taiwanés
 
 ## Referencias
 

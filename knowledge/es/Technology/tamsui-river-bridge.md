@@ -86,8 +86,8 @@ La finalización del Puente del Río Tamsui marca un hito importante en la trans
 
 ## Lectura complementaria
 
-- [Sistema de transporte de Taiwán](/lifestyle/台灣交通系統) — Sitúa el puente en el contexto general de carreteras, puentes y transporte público de Taiwán.
-- [Desarrollo urbano y disparidad rural en Taiwán](/geography/台灣都市發展與城鄉差距) — Para comprender cómo las grandes infraestructuras de transporte transforman la demografía regional y el mercado inmobiliario.
+- [Sistema de transporte de Taiwán](/es/lifestyle/transportation-system) — Sitúa el puente en el contexto general de carreteras, puentes y transporte público de Taiwán.
+- [Desarrollo urbano y disparidad rural en Taiwán](/es/geography/taiwan-urban-development-and-rural-urban-divide) — Para comprender cómo las grandes infraestructuras de transporte transforman la demografía regional y el mercado inmobiliario.
 
 ## Referencias
 

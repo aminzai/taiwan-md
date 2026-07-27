@@ -181,10 +181,10 @@ Has usado sus resultados: el mapa de mascarillas, el bot de verificación, la co
 
 ## Lecturas complementarias
 
-- [Comunidades de código abierto y g0v](/technology/開源社群與g0v) — OCF nació originalmente para ayudar a comunidades como g0v a rendir cuentas: esos hackers cívicos que “forkearon el gobierno” y crearon el mapa de mascarillas en 72 horas.
-- [El espíritu de código abierto de Taiwán](/technology/台灣開源精神) — La idea de “Dinero público, código público” que encarna OCF es una extensión de la cultura taiwanesa de código abierto desde el círculo técnico hacia la gobernanza pública.
-- [Audrey Tang](/people/唐鳳) — De participante de g0v a primera ministra de Desarrollo Digital, OCF interactuó muchas veces con el Ministerio de Desarrollo Digital que ella encabezó: cooperando y también vigilando.
-- [Guerra cognitiva](/society/認知作戰) — El campo de batalla de desinformación que enfrenta el bot de verificación Cofacts y las manipulaciones informativas que encara Taiwán.
+- [Comunidades de código abierto y g0v](/es/technology/open-source-and-g0v) — OCF nació originalmente para ayudar a comunidades como g0v a rendir cuentas: esos hackers cívicos que “forkearon el gobierno” y crearon el mapa de mascarillas en 72 horas.
+- [El espíritu de código abierto de Taiwán](/es/technology/taiwan-open-source-spirit) — La idea de “Dinero público, código público” que encarna OCF es una extensión de la cultura taiwanesa de código abierto desde el círculo técnico hacia la gobernanza pública.
+- [Audrey Tang](/es/people/audrey-tang) — De participante de g0v a primera ministra de Desarrollo Digital, OCF interactuó muchas veces con el Ministerio de Desarrollo Digital que ella encabezó: cooperando y también vigilando.
+- [Guerra cognitiva](/es/society/cognitive-warfare-against-taiwan) — El campo de batalla de desinformación que enfrenta el bot de verificación Cofacts y las manipulaciones informativas que encara Taiwán.
 
 ## Fuentes de imágenes
 

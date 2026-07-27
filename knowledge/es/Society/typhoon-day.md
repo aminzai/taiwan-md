@@ -173,7 +173,7 @@ Pero cada verano, en el momento en que aparece en el celular el aviso de suspens
 
 ## Lecturas complementarias
 
-- [Tifón](/Nature/颱風) — Una panorámica de cuatro siglos de convivencia entre Taiwán y los tifones, desde los primeros pobladores de la dinastía Qing que presenciaron huracanes en Penghu hasta la aldea de Xiaolin en 2009
+- [Tifón](/es/nature/typhoons-in-taiwan) — Una panorámica de cuatro siglos de convivencia entre Taiwán y los tifones, desde los primeros pobladores de la dinastía Qing que presenciaron huracanes en Penghu hasta la aldea de Xiaolin en 2009
 - Business Weekly, “¿Puede el día libre por tifón agradar realmente a los votantes de las pequeñas certezas? Los resultados estadísticos muestran que solo funciona cuando el descanso es correcto” — Análisis cuantitativo de ciencia política sobre la decisión de declarar días libres por tifón
 - Coolloud, “Llega la temporada de tifones: ¿qué espera la legislación sobre licencia remunerada por desastres naturales?” — Perspectiva laboral de la campaña para incorporar el día libre por tifón en la ley
 

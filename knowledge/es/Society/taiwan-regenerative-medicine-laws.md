@@ -273,10 +273,10 @@ Cada octubre, una anciana húngara solía encender la radio y escuchar en silenc
 
 **Lecturas ampliadas**:
 
-- [Sistema taiwanés de salud pública y prevención epidémica](/society/台灣公共衛生與防疫體系) — contexto completo del sistema taiwanés de prevención epidémica durante la COVID-19; la compra de BNT de 2021 tratada en este artículo es una parte de esa historia.
-- [Ley Médica](/society/醫療法) — las leyes gemelas de medicina regenerativa son leyes especiales independizadas de la Ley Médica; la Ley Médica es la norma raíz de la regulación institucional de la atención médica en Taiwán.
+- [Sistema taiwanés de salud pública y prevención epidémica](/es/society/taiwan-public-health-epidemic-response) — contexto completo del sistema taiwanés de prevención epidémica durante la COVID-19; la compra de BNT de 2021 tratada en este artículo es una parte de esa historia.
+- [Ley Médica](/es/society/medical-care-act) — las leyes gemelas de medicina regenerativa son leyes especiales independizadas de la Ley Médica; la Ley Médica es la norma raíz de la regulación institucional de la atención médica en Taiwán.
 - [Desarrollo de la industria biotecnológica de Taiwán](/technology/台灣生技產業發展) — panorama general de la biotecnología desde la investigación académica hasta la industrialización; la terapia celular y la plataforma de mRNA son dos de sus ramas.
-- [Salud y seguro médico universal en Taiwán](/lifestyle/台灣醫療與全民健保) — que la terapia celular pueda incorporarse a la cobertura del seguro de salud es clave para la visión de un «banco celular asiático»; la estructura del presupuesto global del seguro también determina la vía de comercialización de la medicina regenerativa.
+- [Salud y seguro médico universal en Taiwán](/es/lifestyle/taiwan-healthcare-and-national-health-insurance) — que la terapia celular pueda incorporarse a la cobertura del seguro de salud es clave para la visión de un «banco celular asiático»; la estructura del presupuesto global del seguro también determina la vía de comercialización de la medicina regenerativa.
 - [Industria médica de Taiwán](/economy/台灣醫療產業) — dimensión industrial de la fabricación de nuevos fármacos y los CDMO, complementaria a la perspectiva regulatoria de este artículo.
 
 ## Fuentes de imágenes

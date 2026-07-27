@@ -215,5 +215,5 @@ La respuesta todavía se está escribiendo, y cada persona dispuesta a contribui
 ## Temas relacionados
 
 - [Open Culture Foundation](/es/technology/open-culture-foundation): la fundación sin fines de lucro detrás de g0v que rinde cuentas, emite facturas y carga con toda la gestión administrativa de la comunidad, y la historia de cómo ese back office se convirtió en guardián de los derechos digitales
-- [Industria de semiconductores](/technology/半導體產業)：la base del poderío tecnológico de Taiwán
-- [Mini Taiwan Pulse](/technology/mini-taiwan-pulse)：una implementación personal de código abierto de tecnología cívica en 2026 — usando datos abiertos de TDX + Three.js para dibujar Taiwán en trayectorias de luz 3D
+- [Industria de semiconductores](/es/technology/taiwan-semiconductor-industry)：la base del poderío tecnológico de Taiwán
+- [Mini Taiwan Pulse](/es/technology/mini-taiwan-pulse-civic-tech)：una implementación personal de código abierto de tecnología cívica en 2026 — usando datos abiertos de TDX + Three.js para dibujar Taiwán en trayectorias de luz 3D

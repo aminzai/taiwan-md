@@ -201,13 +201,13 @@ El último vínculo diplomático en África pende de una sola persona. Este es s
 
 **Lecturas complementarias**:
 
-- [Países aliados de Taiwán y diplomacia internacional](/society/台灣邦交國與國際外交) — La arquitectura de tres niveles: 12 países aliados vs 113 sedes en el extranjero vs 177 destinos con exención de visa. Eswatini es la pieza africana más crucial.
-- [Lai Ching-te](/people/賴清德) — De médico de Tainan a presidente de la República de China: la evolución del discurso de relaciones exteriores de Lai tras asumir el cargo.
-- [Tsai Ing-wen](/people/蔡英文) — La presidenta que visitó Eswatini en dos ocasiones: los puntos temporales de 2018 y 2023 corresponden a dos etapas de las relaciones Taiwán-Eswatini.
-- [Movimiento del Girasol](/society/太陽花學運) — Cómo las calles de 2014 se convirtieron en la base del discurso exterior institucional de 2024-2025.
-- [Reunión Zheng-Xi 2026 y el reencuentro Kuomintang-Partido Comunista tras diez años](/society/2026鄭習會與國共十年再會) — La dinámica simultánea a través del estrecho para comprender el contexto más amplio de la presión de China sobre Taiwán.
-- [Guerra cognitiva](/society/認知作戰) — Un marco más sistemático para las operaciones lingüísticas de China como "rata" o "escapada farsante".
-- [Paraguay y Taiwán](/society/巴拉圭與台灣) — El único aliado en Sudamérica, otro tipo de relación sostenida por cooperación a largo plazo bajo presión china.
+- [Países aliados de Taiwán y diplomacia internacional](/es/society/taiwan-diplomatic-allies-and-international-relations) — La arquitectura de tres niveles: 12 países aliados vs 113 sedes en el extranjero vs 177 destinos con exención de visa. Eswatini es la pieza africana más crucial.
+- [Lai Ching-te](/es/people/lai-ching-te) — De médico de Tainan a presidente de la República de China: la evolución del discurso de relaciones exteriores de Lai tras asumir el cargo.
+- [Tsai Ing-wen](/es/people/tsai-ing-wen) — La presidenta que visitó Eswatini en dos ocasiones: los puntos temporales de 2018 y 2023 corresponden a dos etapas de las relaciones Taiwán-Eswatini.
+- [Movimiento del Girasol](/es/society/sunflower-movement) — Cómo las calles de 2014 se convirtieron en la base del discurso exterior institucional de 2024-2025.
+- [Reunión Zheng-Xi 2026 y el reencuentro Kuomintang-Partido Comunista tras diez años](/es/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — La dinámica simultánea a través del estrecho para comprender el contexto más amplio de la presión de China sobre Taiwán.
+- [Guerra cognitiva](/es/society/cognitive-warfare-against-taiwan) — Un marco más sistemático para las operaciones lingüísticas de China como "rata" o "escapada farsante".
+- [Paraguay y Taiwán](/es/society/paraguay-taiwan) — El único aliado en Sudamérica, otro tipo de relación sostenida por cooperación a largo plazo bajo presión china.
 
 ## Créditos de imágenes
 
