@@ -83,6 +83,8 @@ st = import_module("structured-translate")             # backend / Phase F / Pha
 status_mod = import_module("status")                    # body_hash / body_hash_pure canonical (見上方 docstring)
 cjkleak = import_module("cjk-leak-check")
 
+import cross_link_localizer as _xlink  # noqa: E402 — 站內連結在地化（防新增，見 zh_chunk 抽取點）
+
 LANG_NAMES = st.LANG_NAMES
 load_lang_guide_sections = st.load_lang_guide_sections
 INLINE_FN_REF_RE = st.INLINE_FN_REF_RE
@@ -647,6 +649,12 @@ def main() -> int:
             new_tr_chapter_lines[i] = tr_body_lines[tr_chapters[i]["start"]:tr_chapters[i]["end"]]
             continue
         zh_chunk = chapter_text(zh_body_lines, zh_chapters[i])
+        # 站內連結在地化（防新增，reports/cross-link-localization-2026-07-27.md
+        # 第二段）：只碰「要送模型」的這份章節文字副本，不動 zh_body_lines / zh_content
+        # ——hunk 行號對齊、sourceContentHash 全都繼續吃未改動的原始 zh，這裡改完的
+        # zh_chunk 同時是 prompt 內容也是 _validate_chunk() 的 URL 比對基準，兩邊一致
+        # 不會因為改了 URL 就誤判「模型漏抄連結」。
+        zh_chunk, _ = _xlink.localize_body(zh_chunk, args.lang)
         c_metrics: dict = {}
         if FN_DEF_RE.search(zh_chunk):
             out, issues = translate_footnote_chapter(zh_chunk, args.lang, backend, c_metrics, tmp_dir)

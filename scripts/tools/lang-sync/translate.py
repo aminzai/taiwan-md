@@ -75,6 +75,8 @@ render_scalar = _structured_mod.render_scalar                # bool/int/float/da
 _or_mod = _import_module("openrouter-translate")
 LANG_NAMES = _or_mod.LANG_NAMES
 
+import cross_link_localizer as _xlink  # noqa: E402 — 站內連結在地化（防新增，見 tokenize_urls）
+
 REPO = Path(__file__).resolve().parent.parent.parent.parent
 KNOWLEDGE = REPO / "knowledge"
 
@@ -329,18 +331,33 @@ _URL_TOKEN_RE = re.compile(
 )
 
 
-def tokenize_urls(text: str) -> tuple[str, list[str]]:
+def tokenize_urls(text: str, lang: str | None = None) -> tuple[str, list[str]]:
     """Transform 2（常駐，2026-07-26 A/B 實測 200/200 token 零失手，見
     reports/armored-input-ab-2026-07-26.md §4.1）：把 text 內所有 URL 換成
     ⟦U1⟧…⟦Un⟧，回傳 (換好的文字, [原始URL, ...])（index i 對應 token
-    ⟦U{i+1}⟧，1-indexed 方便直接報號）。對所有呼叫常駐生效，不分 armor 旗標。"""
+    ⟦U{i+1}⟧，1-indexed 方便直接報號）。對所有呼叫常駐生效，不分 armor 旗標。
+
+    2026-07-27 補站內連結在地化（reports/cross-link-localization-2026-07-27.md
+    第二段，防新增）：markdown 連結 target 在進 token 之前，先用
+    `cross_link_localizer` 查一次——是站內連結且該語言有譯文，換成譯文網址再
+    token 化；查無對應或本來就不是站內連結，原樣 token 化（跟舊行為一致）。
+    模型從頭到尾看不到 URL（token 化擋住了），還原回來的已經是對的網址，不必
+    再靠 prompt 指示「URL 原樣保留」去猜站內／站外——那句指示對外部引用本來就
+    是對的，內部連結現在也對了。`lang=None`（呼叫端沒傳，或 lang 不在翻譯語言
+    清單）→ 跳過在地化，等同舊行為，不影響既有呼叫點。"""
     urls: list[str] = []
+    index = _xlink.load_index() if lang else None
 
     def repl(m: re.Match) -> str:
         idx = len(urls) + 1
         token = f"⟦U{idx}⟧"
         if m.group(2) is not None:  # markdown 連結／圖片 target
-            urls.append(m.group(2))
+            url = m.group(2)
+            if index is not None:
+                new_url, status = _xlink.localize_url(url, lang, index)
+                if status == "rewritten" and new_url:
+                    url = new_url
+            urls.append(url)
             return f"{m.group(1)}{token}{m.group(3)}"
         urls.append(m.group(4))     # 裸 URL
         return token
@@ -450,8 +467,8 @@ def armor_pre(article: dict, zh_content: str, lang: str, armor: bool = False) ->
     # ---- Transform 1（常駐）: frontmatter 卸甲 ----
     fm_prompt_block = disarm_frontmatter(zh_fm)
 
-    # ---- Transform 2（常駐）: URL token 化（body 含腳註定義行）----
-    tokenized_body, url_list = tokenize_urls(body)
+    # ---- Transform 2（常駐）: URL token 化（body 含腳註定義行）+ 站內連結在地化 ----
+    tokenized_body, url_list = tokenize_urls(body, lang)
 
     lang_name = LANG_NAMES.get(lang, lang)
 

@@ -77,6 +77,8 @@ PASSTHROUGH = _verify.PASSTHROUGH  # 同源 SSOT — author/date/featured/readin
 
 cjkleak = _import_module("cjk-leak-check")
 
+import cross_link_localizer as _xlink  # noqa: E402 — 站內連結在地化（防新增，見 main() Phase B 前置處理）
+
 
 # ────────────────── shared regex / constants ──────────────────
 
@@ -863,6 +865,16 @@ def main():
     # ── Phase F ──
     t0 = time.time()
     zh_fm, body = parse_zh_frontmatter(zh_content)
+
+    # 站內連結在地化（防新增，reports/cross-link-localization-2026-07-27.md 第二段）：
+    # 在 body 進 Phase N/B 之前，把 `[文字](/分類/中文slug)` 這類站內連結改成
+    # `args.lang` 的譯文網址（查無對應保守不動）。這樣 base_system 裡「URL 原樣
+    # 保留 VERBATIM」的指示對站內連結也是對的——模型看到的已經是目標網址，
+    # 不必再靠 prompt 猜它是站內還是站外連結。在 Phase N（footnote 抽取）之前做，
+    # 兩邊都吃得到改好的版本；純字串替換不加減行數，不影響任何行號依賴的邏輯。
+    body, _xlink_count = _xlink.localize_body(body, args.lang)
+    metrics["cross_links_localized"] = _xlink_count
+
     f_metrics: dict = {}
     fm_block = translate_frontmatter(zh_fm, zh_content, args.zh_path, args.lang, backend, f_metrics)
     fm_problems = validate_frontmatter_block(fm_block, args.lang)
