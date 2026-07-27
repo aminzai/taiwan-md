@@ -1,40 +1,40 @@
 {
-  "totalArticles": 7203,
+  "totalArticles": 7743,
   "totalCategories": 26,
   "estimatedContributors": 67,
-  "totalTags": 5801,
+  "totalTags": 5694,
   "categories": [
     {
       "name": "es",
-      "count": 861
+      "count": 863
     },
     {
       "name": "ko",
-      "count": 860
-    },
-    {
-      "name": "fr",
       "count": 862
     },
     {
+      "name": "fr",
+      "count": 865
+    },
+    {
       "name": "en",
-      "count": 834
+      "count": 846
     },
     {
       "name": "ja",
-      "count": 857
+      "count": 859
     },
     {
       "name": "vi",
-      "count": 223
+      "count": 268
     },
     {
       "name": "hi",
-      "count": 354
+      "count": 432
     },
     {
       "name": "ru",
-      "count": 370
+      "count": 477
     },
     {
       "name": "History",
@@ -42,11 +42,11 @@
     },
     {
       "name": "id",
-      "count": 316
+      "count": 373
     },
     {
       "name": "ar",
-      "count": 320
+      "count": 450
     },
     {
       "name": "Politics",
@@ -58,7 +58,7 @@
     },
     {
       "name": "pt",
-      "count": 477
+      "count": 579
     },
     {
       "name": "Food",
@@ -112,15 +112,15 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 71
+      "count": 70
     },
     {
       "name": "人物",
-      "count": 63
+      "count": 61
     },
     {
       "name": "企業",
-      "count": 58
+      "count": 57
     },
     {
       "name": "科技與企業",
@@ -147,6 +147,10 @@
       "count": 24
     },
     {
+      "name": "民主化",
+      "count": 24
+    },
+    {
       "name": "歷史",
       "count": 24
     },
@@ -156,10 +160,6 @@
     },
     {
       "name": "政治",
-      "count": 23
-    },
-    {
-      "name": "民主化",
       "count": 23
     },
     {
@@ -183,22 +183,22 @@
       "count": 23
     },
     {
-      "name": "인물",
+      "name": "奧運",
       "count": 22
     },
     {
-      "name": "奧運",
-      "count": 22
+      "name": "金曲獎",
+      "count": 21
     }
   ],
   "languageDistribution": {
-    "zh-TW": 7203,
+    "zh-TW": 7743,
     "en": 0
   },
-  "lastUpdated": "2026-07-26T22:13:12.359Z",
+  "lastUpdated": "2026-07-27T22:13:18.453Z",
   "stars": 1120,
-  "forks": 168,
+  "forks": 167,
   "zhPages": 867,
-  "enPages": 834,
+  "enPages": 846,
   "totalPages": 867
 }

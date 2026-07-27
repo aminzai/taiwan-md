@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26",
+  "lastUpdated": "2026-07-27",
   "totalDetected": 12,
   "publicConfirmed": 5,
   "privateOrUnconfirmed": 7,
@@ -53,7 +53,7 @@
       "cognitiveLayer": "no docs/semiont",
       "health": "active",
       "firstSeen": "2026-03",
-      "views365d": 206
+      "views365d": 214
     },
     {
       "label": "LagunaBeach.md",

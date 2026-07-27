@@ -97,19 +97,19 @@ a human — that boundary is the design, not a limitation. The full contract is
 | ------------------------------ | ----- |
 | 📄 Total articles (zh-TW SSOT) | 867   |
 | 🇹🇼 Chinese (zh-TW)             | 867   |
-| 🇺🇸 English (en)                | 834   |
-| 🇯🇵 日本語 (ja)                 | 857   |
-| 🇰🇷 한국어 (ko)                 | 860   |
-| 🇪🇸 Español (es)                | 861   |
-| 🇫🇷 Français (fr)               | 862   |
+| 🇺🇸 English (en)                | 846   |
+| 🇯🇵 日本語 (ja)                 | 859   |
+| 🇰🇷 한국어 (ko)                 | 862   |
+| 🇪🇸 Español (es)                | 863   |
+| 🇫🇷 Français (fr)               | 865   |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 67    |
 | ⭐ GitHub Stars                | 1120  |
-| 🍴 Forks                       | 168   |
-| 📅 Articles last 7 days        | 157   |
-| 📅 Articles last 30 days       | 236   |
+| 🍴 Forks                       | 167   |
+| 📅 Articles last 7 days        | 14    |
+| 📅 Articles last 30 days       | 234   |
 
 <!-- STATS:END -->
 
