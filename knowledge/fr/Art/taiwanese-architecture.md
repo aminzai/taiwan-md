@@ -2,6 +2,7 @@
 title: "L'architecture de Taïwan"
 description: "Des maisons en ardoise aux gratte-ciel : un voyage dans le temps architectural d'une île"
 date: 2026-03-28
+category: 'Art'
 tags:
   [
     'architecture',
@@ -11,17 +12,16 @@ tags:
     'période japonaise',
   ]
 subcategory: 'Architecture'
-category: 'Art'
 author: 'Taiwan.md'
-readingTime: 15
 featured: true
-translatedFrom: 'Art/台灣建築.md'
 lastVerified: 2026-03-28
-sourceCommitSha: 'eac12cd9'
-sourceContentHash: 'sha256:211251c042500a3e'
-sourceBodyHash: 'sha256:41c2c3ee5e118612'
-translatedAt: '2026-07-03T16:37:39Z'
 lastHumanReview: true
+revision: 2
+translatedFrom: 'Art/台灣建築.md'
+sourceCommitSha: 'd520299ba'
+sourceContentHash: 'sha256:af80f0616e9c061e'
+sourceBodyHash: 'sha256:a2382584d5d27df7'
+translatedAt: '2026-07-27T11:37:18.252289+00:00'
 ---
 
 # L'architecture de Taïwan : un poème en volumes au carrefour des civilisations
@@ -125,17 +125,17 @@ Achevé en 2011, le Green Magic School de l'Université nationale Cheng Kung est
 
 L'architecture traditionnelle des peuples autochtones de Taïwan est également redécouverte dans ce contexte. Les maisons en ardoise n'ont jamais été une « vieille façon de vivre peu écologique » — elles constituent un système d'adaptation climatique locale d'une précision extrême. Des chercheurs et des concepteurs ont commencé ces dernières années à recenser systématiquement les savoirs architecturaux des Paiwan, Rukai, Puyuma et autres groupes ethniques, pour tenter de traduire ces intuitions thermiques millénaires en vocabulaire de l'architecture contemporaine. Des architectes tels que Kris Yao et Lin Yu-han explorent chacun à leur façon le point de jonction entre la localité taïwanaise et le vocabulaire global : sans imiter les grands maîtres étrangers, sans décalquer des symboles traditionnels, mais en partant de leur propre terre, de leur propre climat, de leur propre mode de vie, pour trouver un langage architectural qui ne peut naître qu'à Taïwan.
 
-## Le dernier accord architectural d'une île
+## Une rémanence architecturale d'une île
 
-Depuis n'importe quel belvédère de Taipei, vous pouvez voir simultanément trois siècles d'architecture superposés : les édifices en briques rouges de la période japonaise, les réservoirs d'eau sur les toits des immeubles des années 1970, les tours à façades vitrées des années 1990, et au loin la silhouette en bambou de 508 mètres. Cette superposition temporelle existe dans bien des villes du monde, mais la version taïwanaise est particulièrement dense, particulièrement désordonnée — comme la trace laissée par une île qui, en quelques siècles à peine, aurait tout essayé.
+Depuis n'importe quel point culminant de Taipei, vous pouvez voir simultanément trois siècles d'histoire architecturale : les bâtiments en briques rouges de l'époque coloniale japonaise, les châteaux d'eau des appartements des années 1970, les tours de bureaux à rideaux de verre des années 90, et au loin la silhouette en bambou de 508 mètres. Cette superposition temporelle existe dans de nombreuses villes du monde, mais la version de Taïwan est particulièrement dense, particulièrement dépourvue d'ordre, particulièrement semblable aux traces laissées par une île qui aurait tout essayé en l'espace de quelques centaines d'années.
 
-Moriyama Matsunosuke a légué la grammaire de l'Empire. Wang Ta-hung a ramené l'esprit de l'architecture moderne. Toyo Ito, avec ses 58 murs courbes, a révélé le potentiel des artisans taïwanais. Huang Sheng-yuan, dans les rizières de Yilan, nous rappelle que l'architecture n'est pas seulement un abri, mais une façon de changer la position depuis laquelle on regarde le monde. Et dans les montagnes profondes de Wutai à Pingtung, l'ancien Kucapungane attend toujours : les ardoises sont là, le foyer est froid, mais les habitants disent que les esprits ancestraux n'ont pas encore quitté les lieux.
+Moriyama Matsunosuke a laissé la grammaire de l'empire, Wang Da-hong a ramené l'esprit de l'architecture moderne, Ito Toyo a fait émerger le potentiel des artisans taïwanais avec 58 murs courbes, Huang Sheng-yuan dans les rizières de Yilan nous rappelle que l'architecture n'est pas seulement un abri, mais une façon de changer notre regard sur le monde. Et dans les montagnes profondes de Wutai à Pingtung, une vieille _hosa_ inoccupée, les dalles de pierre sont encore là, le foyer est froid, les membres du clan disent que les esprits ancestraux n'ont pas encore quitté les lieux.
 
-L'histoire architecturale de Taïwan n'est pas une ligne droite — elle ressemble plutôt à plusieurs cours d'eau qui confluent sur un même territoire, se mêlant parfois, s'affrontant parfois, mais sans qu'aucun disparaisse jamais complètement. Chaque époque a apporté un nouveau langage architectural, et chaque langage a laissé dans les joints de brique, les toitures, les murs courbes, des détails que seule la proximité permet de voir. Devant l'architecture de Taïwan, ce que vous percevez — c'est la trace d'une vie réellement vécue, l'accumulation de siècles d'existences humaines, et non un paysage construit pour l'exhibition.
+L'histoire de l'architecture de Taïwan n'est pas une ligne droite, elle ressemble plutôt à plusieurs fleuves qui convergent sur une même terre, se mêlant parfois, s'affrontant parfois, mais sans qu'aucun ne disparaisse complètement. Chaque époque a apporté un nouveau langage architectural, et chaque langage a laissé dans les joints de briques, les toits, les murs courbes des détails que seul celui qui s'approche peut voir. Face à l'architecture de Taïwan, ce parfum que vous ressentez — ce sont les traces d'une vie véritablement vécue, l'accumulation de plusieurs centaines d'années de vies humaines, et non un paysage construit pour l'exposition.
 
-**Pour aller plus loin :**
+**Lectures complémentaires** :
 
-- L'esthétique taïwanaise vue du Japon et de Corée — grilles en fer forgé, arcades, façades d'immeubles anciens comme éléments visuels d'une sensibilité insulaire
+- [Sensibilité taïwanaise : faut-il que les Coréens likent d'abord pour que nous osions dire que nos vieilles maisons sont belles ?](/fr/culture/taiwanese-sensibility) — Les grilles en fer, les arcades, le contexte architectural derrière les façades des vieux appartements, les Taïwanais ont eux-mêmes redécouvert ces vieilles maisons, en fait onze ans avant le « 대만감성 » coréen
 
 ## Références
 

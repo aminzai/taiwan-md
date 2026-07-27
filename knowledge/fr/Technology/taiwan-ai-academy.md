@@ -2,9 +2,7 @@
 title: 'L’École taïwanaise d’intelligence artificielle : cet appel resté inachevé, et dix mille ingénieurs en IA'
 description: 'Le 27 mars 2020, Chen Shengwei appela avec gravité la rédactrice en chef du magazine CommonWealth : il voulait lancer un cours de programmation gratuit pour toute la population. Deux jours plus tard, il chuta en rollers ; treize jours après, il mourut, à 44 ans. Au moment de sa disparition, l’École taïwanaise d’intelligence artificielle (AIA), qu’il avait fondée en 2018, avait déjà formé plus de 6 000 personnes. À la même période, le Conseil national du développement annonçait, avec sa stratégie « petit pays, grande stratégie IA », 16 milliards de dollars taïwanais sur cinq ans ; lui créa son école grâce à 180 millions de dollars taïwanais levés auprès de six entreprises, dont Formosa Plastics, Chi Mei et Inventec. Huit ans plus tard, les anciens élèves dépassent les dix mille. L’AIA est, dans la montée en gamme industrielle de Taïwan, la pièce du puzzle la moins typiquement taïwanaise.'
 date: 2026-05-18
-author: 'Taiwan.md'
 category: 'Technology'
-subcategory: '人工智慧'
 tags:
   [
     'intelligence artificielle',
@@ -15,19 +13,21 @@ tags:
     'Academia Sinica',
     'politique de l’IA',
   ]
-readingTime: 18
+subcategory: '人工智慧'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-18
 lastHumanReview: true
-featured: true
-translatedFrom: 'Technology/台灣人工智慧學校.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:4e403df024cd43dc'
-sourceBodyHash: 'sha256:04e9009c16ede3cb'
-translatedAt: '2026-06-16T16:54:51Z'
+readingTime: 18
 image: '/article-images/technology/taiwan-ai-academy-chen-shengwei-portrait-2018.webp'
 imageCredit: '台灣人工智慧學校官方'
 imageLicense: 'Fair use editorial commentary on AIA founder portrait'
 imageSource: 'https://aiacademy.tw/swc/'
+translatedFrom: 'Technology/台灣人工智慧學校.md'
+sourceCommitSha: 'c8e5ac9ea'
+sourceContentHash: 'sha256:aeb22f9372adc2ef'
+sourceBodyHash: 'sha256:6ec984b54802baea'
+translatedAt: '2026-07-27T11:34:14.205236+00:00'
 ---
 
 # L’École taïwanaise d’intelligence artificielle : cet appel resté inachevé, et dix mille ingénieurs en IA
@@ -281,27 +281,28 @@ Tsai Ming-shun reçut en 2025 la distinction de la 18e édition des « 100MVP Ma
 
 De 2018 à 2026, l’AIA a parcouru huit années. Chen Shengwei n’en a vécu que les trois premières.
 
-## Le cours qui ne fut jamais créé
+## Le cours qui n'a pas vu le jour
 
-Personne n’entendit l’intégralité de l’idée contenue dans l’appel du 27 mars 2020.
+Le 27 mars 2020, personne n'a entendu jusqu'au bout la vision exposée lors de cet appel.
 
-Deux jours plus tard, Chen Shengwei tomba. Treize jours plus tard, il mourut. Le cours de programmation gratuit pour toute la population qu’il voulait créer ne vit jamais le jour.
+Deux jours plus tard, Chen Shengwei fait une chute. Treize jours plus tard, il s'éteint. Le cours de programmation gratuit pour tous qu'il voulait lancer n'a pas vu le jour.
 
-Mais en mai 2024, le nombre d’anciens élèves de l’AIA dépassa les dix mille. Lors de la conférence de presse, Tsai Ming-shun n’avait plus besoin de répéter cette phrase que Chen Shengwei avait constamment à la bouche : « Faire en sorte que, lorsque le monde voit Taïwan, il pense à l’IA. » Au cours des six années précédentes, cette phrase avait déjà été inscrite dans les CV de l’industrie technologique taïwanaise par plus de dix mille ingénieurs.
+Mais en mai 2024, le nombre d'anciens élèves de l'AIA dépasse les dix mille. Lors de sa conférence de presse, Tsai Ming-shun n'a plus besoin de répéter cette phrase que Chen Shengwei avait toujours en bouche : « Pour que le monde voie Taïwan, qu'il pense à l'IA. » Au cours des six dernières années, cette phrase s'est inscrite dans les CV de plus de dix mille ingénieurs de l'industrie technologique taïwanaise.
 
-L’AIA est passée d’un camp intensif à plein temps de douze semaines à 48 000 NT$ à un cours court sur les LLM de trois jours et vingt et une heures à 17 000 NT$. Des leaders techniques à la diffusion industrielle. D’une école à une chaîne de production de talents.
+L'AIA est passée d'un bootcamp intensif à temps plein de 12 semaines à 48 000 NT$, à un cours court sur les LLM de 3 jours et 21 heures à 17 000 NT$. De la formation de leaders techniques à la diffusion dans l'industrie. D'une école à une chaîne de production de talents.
 
-Le « cours de programmation gratuit pour toute la population » que voulait Chen Shengwei n’a pas été créé. Mais l’autre chose qu’il voulait — « que plus personne ne prenne du retard faute de trouver des talents en IA » — a été réalisée à moitié.
+Le « cours de programmation gratuit pour tous » que voulait Chen Shengwei n'a pas vu le jour. Mais l'autre chose qu'il souhaitait — « que personne ne prenne de retard faute de trouver des talents en IA » — s'est réalisée à moitié.
 
-Cet appel resté inachevé a laissé un projet inaccompli, et dix mille personnes qui se sont un jour assises dans une salle de classe de l’AIA.
+Cet appel inachevé a laissé une ambition inachevée, et dix mille personnes qui ont un jour pris place dans les salles de classe de l'AIA.
 
 ---
 
 **Pour aller plus loin** :
 
-- [L’essor d’une île IA : développement de l’intelligence artificielle à Taïwan et stratégies d’avenir](/fr/technology/ai-development-in-taiwan) — récit panoramique de l’architecture des politiques d’IA de Taïwan, de son déploiement industriel, de ses cinq grands domaines stratégiques et de sa coopération internationale
-- [L’IA dans le quotidien taïwanais](/fr/technology/taiwan-ai-in-daily-life) — mise en pratique de l’IA dans les scènes quotidiennes de Taïwan : supérettes, hôpitaux, champs agricoles, salles de classe
-- [L’industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — comment les ingénieurs IA formés par l’AIA en huit ans se reconnectent à l’écosystème ICT existant d’une puissance des semi-conducteurs
+- [L'essor de la nation-île de l'IA : développement et stratégie future de l'intelligence artificielle à Taïwan](/fr/technology/ai-development-in-taiwan) — Récit panoramique du cadre politique de l'IA à Taïwan, de la disposition industrielle, des cinq domaines stratégiques et de la coopération internationale
+- [L'IA au quotidien à Taïwan](/fr/technology/taiwan-ai-in-daily-life) — Mise en œuvre concrète de l'IA dans les scènes quotidiennes taïwanaises : supérettes, hôpitaux, champs, salles de classe
+- [L'industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Comment les ingénieurs en IA formés en huit ans par l'AIA se reconnectent à l'écosystème ICT existant de la puissance des semi-conducteurs
+- [Pourquoi Taïwan a besoin de sa propre base de connaissances](/fr/about/why-taiwan-needs-its-own-knowledge-base) — Le doyen Tsai Ming-shun affirme que les données locales taïwanaises représentent moins de 0,1 % du web ; cet article quantifie ce déficit et discute de qui doit en écrire la version
 
 ## Sources des images
 

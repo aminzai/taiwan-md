@@ -2,9 +2,7 @@
 title: "Le dernier chant de l'île : le 0,695 que même l'année du Dragon n'a pas sauvé"
 description: "2024 était l'année du Dragon : les Taïwanais auraient dû se hâter d'avoir des enfants pour porter chance. Cette année-là a pourtant compté 715 bébés de moins que l'année précédente : pour la première fois en 48 ans, la magie du Dragon n'a pas opéré. L'année suivante, le taux de fécondité s'est effondré à 0,695. Mais le vrai code n'a jamais été que les Taïwanais ne font pas d'enfants (après le mariage, plus de sept couples sur dix en ont deux ou plus), mais qu'ils ne se marient pas ; or l'État a versé de l'argent pendant dix ans à ceux qui « n'osent pas enfanter », alors qu'aucun pays au monde n'a jamais racheté son taux de fécondité à coups de subventions."
 date: 2026-03-24
-author: 'Taiwan.md Contributors'
 category: 'Society'
-subcategory: '人口與世代'
 tags:
   [
     'dénatalité',
@@ -15,14 +13,18 @@ tags:
     'politique démographique',
     'générations',
   ]
+subcategory: '人口與世代'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-17
 lastHumanReview: false
-featured: false
+researchReport: 'reports/research/2026-06/台灣少子化危機.md'
+rationale: "{'why_this_hook': '2024 龍年生肖魔法失靈 + 2025 崩到 0.695 是最新且最反直覺的切角；核心矛盾「不是不生是不婚」推翻通行的「養不起」敘事。', 'whats_excluded': '海外台僑回流（本篇 scope 外）；地緣政治壓抑生育（僅評論者假說、無實證，不寫成事實）。', 'where_it_hedges': 'TFR 標明為時期生育率（period TFR，受 tempo 失真，非「終身只生 0.7」）；「全球最低」限定主權國家（澳門、香港等特區更低）；大學生源懸崖長期為真但短期缺額數字波動；2025 TFR 0.695 basis 待官方年報確認。', 'whos_pushing_back': '反方 reframe 已納入 §誰的危機：江岷欽（價格訊號）、勵馨／台灣女人連線（女性自主、反國安化逼生）、今周刊（移民才是解方）、vocus（人均 GDP 角度）。'}"
 translatedFrom: 'Society/台灣少子化危機.md'
-sourceCommitSha: '80abaab10'
-sourceContentHash: 'sha256:4d4988b8bf883dac'
-sourceBodyHash: 'sha256:c3704f8a5bbd569e'
-translatedAt: '2026-06-17T01:18:26+08:00'
+sourceCommitSha: 'd96dbc4bb'
+sourceContentHash: 'sha256:22f624258f9ada15'
+sourceBodyHash: 'sha256:be7b46d45d345648'
+translatedAt: '2026-07-27T11:40:50.788481+00:00'
 ---
 
 # Le dernier chant de l'île : le 0,695 que même l'année du Dragon n'a pas sauvé
@@ -126,37 +128,35 @@ Il ajoute une phrase qui explique pourquoi ce sujet est si difficile à prendre 
 
 ---
 
-## Aucun pays ne l'a racheté
+## Aucun pays ne l'a rachetée
 
-À ce stade, une objection naturelle surgit : et les autres pays ? Il y en a bien qui ont réussi, non ? Taïwan ne devrait-il pas copier les devoirs d'un autre ?
+Une question naturelle surgit à ce stade : et les autres pays ? Certains ont forcément réussi, non ? Taïwan devrait-il copier leurs devoirs ?
 
-Voici la phrase qu'il faut le plus retenir de tout cet article : **jusqu'à présent, aucun pays développé n'a réussi, par des politiques publiques, à racheter son taux de fécondité jusqu'au niveau de remplacement de 2,1.** Pas un seul.
+C'est la phrase qu'il faut retenir de tout cet article : **à ce jour, aucun pays développé n'est parvenu, par la politique, à ramener son taux de fécondité au seuil de remplacement de 2,1.** Pas un seul.
 
-Cette phrase paraît pessimiste, mais c'est une conclusion sans cesse confirmée par les organisations internationales. Les travaux d'IZA World of Labor indiquent que les politiques natalistes peuvent certes faire légèrement remonter la fécondité, mais qu'il est « peu probable » qu'elles la ramènent au niveau de remplacement[^38]. L'économiste Gietel-Basten a ajouté, au sujet de la faible fécondité en Asie, une note plus directe : « jeter de l'argent sur le problème ne le résoudra pas »[^39]. Une fois les preuves étalées, on observe ceci :
+Cette phrase peut sembler pessimiste, mais c'est une conclusion que les organisations internationales ont vérifiée à maintes reprises. Les recherches d'IZA World of Labor indiquent que les politiques natalistes peuvent certes faire légèrement remonter le taux de fécondité, mais qu'elles sont « peu susceptibles de le ramener au seuil de remplacement »[^38]. L'économiste Gietel-Basten résume plus trivialement la faible fécondité asiatique : « Jeter de l'argent sur le problème ne le résoudra pas. »[^39] Les preuves sont là :
 
-- **La Hongrie** est présentée comme l'élève modèle du natalisme conservateur. Les dépenses familiales du gouvernement Orbán représentent depuis des années environ 5 % du PIB, parmi les plus élevées d'Europe, mais le taux de fécondité n'était encore que de 1,39 en 2024 ; l'AEI estime même que, si le monde voulait relever la fécondité de 0,2 par des politiques publiques, il faudrait dépenser environ 250 milliards de dollars supplémentaires par an[^40].
-- **La Corée du Sud** a dépensé plus de 270 milliards de dollars, tout en restant parmi les fécondités les plus basses du monde[^41].
-- Même la France et les pays nordiques, références en matière de politiques « favorables aux familles », ne tiennent plus : en France, le taux de fécondité de 2025, 1,56, est le plus bas depuis la Première Guerre mondiale ; en Finlande, 1,25, un plus bas historique[^42]. Tous les pays modèles reculent.
+- **La Hongrie** est présentée comme l'élève modèle des natalistes conservateurs : les dépenses familiales du gouvernement Orbán représentent depuis longtemps autour de 5 % du PIB, parmi les plus élevées d'Europe, mais le taux de fécondité n'était encore que de 1,39 en 2024. L'AEI estime même que pour augmenter le taux de fécondité mondial de 0,2 par la politique, il faudrait dépenser chaque année environ 250 milliards de dollars supplémentaires[^40].
+- **La Corée du Sud** a dépensé plus de 270 milliards de dollars, pour rester l'un des taux les plus bas au monde[^41].
+- Même la France et les pays nordiques, ces « modèles familiaux », ne tiennent plus : la France affiche 1,56 en 2025, son plus bas depuis la Première Guerre mondiale ; la Finlande 1,25, un record à la baisse[^42]. Tous les pays modèles sont en chute.
 
-L'histoire sud-coréenne mérite d'être décortiquée en particulier, car elle est très facilement lue à tort comme un cas de « politique efficace ». Le taux de fécondité sud-coréen a effectivement remonté pendant deux années consécutives : 0,72 en 2023, 0,75 en 2024, puis **0,80** en 2025[^43]. On pourrait croire que tout n'est pas perdu. Mais Statistics Korea affirme lui-même que cette remontée est « très probablement liée à l'augmentation du nombre de mariages depuis août 2022 »[^44] : il s'agissait d'une vague de mariages reportés après la pandémie, combinée au dividende démographique d'un nombre accru de femmes en âge de se marier au début de la trentaine, **pas du mérite d'une politique nataliste**.
+L'histoire de la Corée du Sud mérite qu'on s'y attarde, car c'est celle qu'on interprète le plus facilement comme un « succès des politiques ». Le taux de fécondité coréen a effectivement remonté deux années de suite : 0,72 en 2023, 0,75 en 2024, et **0,80** en 2025[^43]. On croirait qu'il y a de l'espoir. Mais l'Office statistique coréen lui-même affirme que ce rebond « est très probablement dû à l'augmentation des mariages depuis août 2022 »[^44] : il s'agit d'une vague de mariages reportés après la pandémie, concentrés sur une courte période, combinée à un dividende structurel — le nombre de femmes en âge de se marier, autour de la trentaine, a augmenté —, **et non au mérite d'une quelconque politique nataliste**.
 
 ```tw-slope
-Croisement des taux de fécondité de Taïwan et de la Corée du Sud : qui remonte, qui s'effondre
+Taïwan et Corée du Sud : qui monte, qui s'effondre
 2023 | 2025
-Corée du Sud | 0,72 | 0,80
-*Taïwan | 0,865 | 0,695
-Sources : Statistics Korea, Département de l'enregistrement des ménages du ministère de l'Intérieur, 2025
+Corée du Sud | 0.72 | 0.80
+*Taïwan | 0.865 | 0.695
+Source : Statistics Korea, Département de l'enregistrement des ménages du ministère de l'Intérieur, 2025
 ```
 
-(Note : pour Taïwan, il s'agit ici du taux de fécondité total par période ; selon les modèles de la Banque mondiale et de l'ONU, Taïwan se situe autour de 1,1, ce qui relève d'un système différent. Les deux ne doivent pas être mélangés[^45].)
+(Note : Taïwan utilise ici le taux de fécondité total conjoncturel (period TFR) ; selon les modèles Banque mondiale/ONU, Taïwan serait à environ 1,1, ce qui relève d'un autre système — les deux ne sont pas comparables[^45].)
 
-Un fait encore plus cruel se cache ici. La fécondité sud-coréenne a remonté pendant deux ans, mais la population **continue de se contracter**[^46]. Pourquoi ? À cause de « l'inertie démographique ». La structure démographique d'une société ressemble à un immense navire : même si, par miracle, le taux de fécondité revenait à 2,1 du jour au lendemain, le nombre de femmes en âge de procréer a déjà fortement diminué, et la population totale continuerait de baisser pendant plusieurs décennies[^47]. La population totale de Taïwan a atteint son pic à la fin de 2019, avec 23 603 121 habitants[^48], puis elle a décliné. Cette pente descendante ne peut plus être inversée par aucune politique publique.
+Et voici une réalité encore plus cruelle. Le taux de fécondité coréen a remonté pendant deux ans, mais la population **continue de se contracter**[^46]. Pourquoi ? À cause de « l'inertie démographique ». La structure d'âge d'une société ressemble à un paquebot : même si le taux de fécondité remontait miraculeusement du jour au lendemain à 2,1, le nombre de femmes en âge de procréer a déjà chuté drastiquement, et la population totale continuerait de baisser pendant plusieurs décennies[^47]. La population totale de Taïwan a culminé à 23 603 121 habitants fin 2019[^48], et ne fait que décliner depuis. Aucune politique ne peut faire rebrousser chemin à cette pente.
 
-> 📝 **Note curatoriale :** voilà pourquoi la question « la natalité encouragée par l'État peut-elle inverser la dénatalité ? » est elle-même mal posée. Inverser signifie ramener la population totale vers le haut ; l'inertie démographique montre que c'est déjà physiquement impossible. Les politiques publiques peuvent tout au plus « ralentir la vitesse de la baisse » ; elles ne peuvent pas « faire demi-tour ». La Corée du Sud en est la preuve vivante : une hausse du taux de fécondité et une diminution continue de la population peuvent se produire en même temps, sans contradiction. Fixer l'objectif à « sauver la population » condamne à une bataille perdue d'avance ; le remplacer par « tomber moins durement et vivre mieux pendant la diminution » reste une option encore à portée de main.
+> 📝 **Note du curateur :** C'est pourquoi le cadrage même de la question « les politiques natalistes peuvent-elles inverser le déclin des naissances ? » est erroné. Inverser, cela signifierait ramener la population totale à la hausse, or l'inertie démographique montre que c'est physiquement impossible. Le maximum que les politiques puissent faire, c'est « ralentir la vitesse de la baisse », pas « faire demi-tour vers le haut ». La Corée du Sud en est la preuve vivante : la hausse du taux de fécondité et la poursuite du déclin de la population se produisent simultanément, et il n'y a aucune contradiction. Fixer pour objectif de « sauver la population » condamne à une bataille perdue d'avance ; changer l'objectif pour « moins chuter, mieux vivre dans le processus de déclin » est la seule option qui reste entre nos mains.
 
-Au passage, clarifions une ancienne version souvent citée : de nombreux articles affirment que la Corée du Sud a créé un ministère dédié à la « planification stratégique démographique », et que ses politiques auraient donc produit des effets. En réalité, Yoon Suk-yeol a bien annoncé en mai 2024 son intention de créer ce ministère, tout en déclarant l'état d'urgence démographique national ; mais les projets de loi correspondants sont restés bloqués au Parlement, puis ont été enterrés avec la destitution de Yoon Suk-yeol. **Ce ministère n'a jamais réellement été créé**[^49]. Prendre un ministère inexistant comme exemple de réussite, c'est se tromper.
-
----
+Précisons au passage une version obsédante souvent citée : de nombreux reportages affirment que la Corée du Sud a créé un « Ministère de la stratégie démographique » dédié, et que les politiques ont donc porté leurs fruits. En réalité, Yoon Suk-yeol a bien annoncé en mai 2024 la création de ce ministère et déclaré l'état d'urgence démographique national, mais le projet de loi est resté bloqué à l'Assemblée nationale, pour finalement avorter avec la destitution de Yoon Suk-yeol. **Ce ministère n'a jamais véritablement vu le jour**[^49]. Prendre un ministère inexistant pour un cas de succès, c'est se tromper.
 
 ## Les campagnes ont déjà traversé tout cela
 
@@ -204,28 +204,29 @@ Si l'encouragement des naissances est voué à l'échec et que la pénurie de ma
 
 ---
 
-## Bien vivre sur une île appelée à diminuer
+## Bien vivre sur une île vouée au dépeuplement
 
-La démographie a quelque chose de particulièrement cruel et honnête : elle ne laisse presque aucune place aux miracles.
+La chose la plus cruelle, et aussi la plus honnête, en démographie, c'est qu'il n'y a presque jamais de miracle.
 
-Dix ans de politiques natalistes, près de 500 milliards de dollars taïwanais dépensés, et même l'année du Dragon n'a pas pu être rachetée. La part de la fécondité écrasée par l'incapacité à assumer financièrement est bien moindre que celle vidée par le non-mariage ; or l'État a passé dix ans à verser de l'argent à ceux qui « n'osent pas enfanter », c'est-à-dire à des personnes déjà mariées, sans toucher la partie qui s'effondre vraiment. Même si l'argent était précisément placé dans les mains de chaque famille hésitante, l'expérience de Yang Tzu-ting sur la loterie l'a dit : cela ne vaut que 0,07 enfant. À l'échelle mondiale, Hongrie, Corée du Sud, France, pays nordiques : aucun pays n'a racheté son taux de fécondité jusqu'au niveau de remplacement. Depuis le pic de la population totale de Taïwan en 2019, aucune politique ne peut plus faire demi-tour sur cette pente descendante.
+Dix ans de politiques natalistes, près de 500 milliards dépensés, sans parvenir à faire remonter les naissances même pendant l'année du Dragon. La part de la chute de la fécondité imputable à l'incapacité financière d'élever des enfants est bien moindre que celle imputable au non-mariage qui l'assèche ; pourtant, depuis dix ans, le gouvernement verse de l'argent pour répondre à la « peur d'avoir des enfants », le donnant à ceux qui sont déjà mariés, sans atteindre le véritable point de rupture. Même si l'on mettait l'argent précisément dans les mains de chaque famille hésitante, l'expérience de la loterie de Yang Tzu-ting montre que cela ne vaut que 0,07 enfant. Partout dans le monde — Hongrie, Corée du Sud, France, pays nordiques —, aucun pays n'a réussi à racheter son taux de fécondité pour le ramener au niveau de remplacement. Depuis que la population totale de Taïwan a atteint son pic en 2019, cette pente descendante ne peut être inversée par aucune politique.
 
-Ce que cet article veut laisser, plutôt qu'une nouvelle formule creuse du type « Taïwan a besoin d'une meilleure société », ressemble davantage à un ajustement du regard : nous avons peut-être toujours posé la mauvaise question. À la question « comment faire pour que les Taïwanais aient plus d'enfants », dix ans ont répondu : 0,695, et la cour vide de l'école primaire Xinwei. Les vraies questions sont deux autres : comment faire pour que ceux qui veulent réellement se marier et avoir des enfants n'aient pas à être ligotés par tout un ensemble de structures qu'ils ne peuvent accepter ; et comment, sur une île appelée à devenir moins peuplée et plus âgée, vivre avec dignité, chaleur, et des personnes capables de se soutenir les unes les autres.
+Ce que cet article souhaite vous laisser, plus qu'une énième phrase creuse du type « Taïwan a besoin d'une meilleure société », ressemble plutôt à un ajustement de perspective : nous posons peut-être la mauvaise question depuis le début. La réponse à la question « Comment faire pour que les Taïwanais fassent plus d'enfants » après dix ans, c'est 0,695, c'est la cour de récréation vide de l'école primaire Xinwei. Les vraies questions à poser sont deux autres : comment permettre à ceux qui veulent réellement se marier et avoir des enfants de ne pas être enchaînés à tout un système de structures qu'ils ne peuvent accepter ; et comment, sur une île vouée à se dépeupler et à vieillir, faire en sorte que les jours se passent avec dignité, chaleur, et que l'on puisse compter les uns sur les autres.
 
-Ce jour de l'année du Dragon 2024, dans la cour de l'école primaire Xinwei, il n'y avait pas un seul nouvel élève de première année portant un uniforme neuf et un cartable trop grand.
+Ce jour-là, en l'année du Dragon 2024, sur la cour de l'école primaire Xinwei, il n'y avait pas un seul élève de première année portant son nouvel uniforme, un cartable trop grand sur le dos.
 
-C'était une image très silencieuse. Si silencieuse qu'on ne peut s'empêcher de se demander : combien de temps faudra-t-il encore à cette île pour accepter de cesser de crier vers les maternités, se retourner, et regarder vraiment celles et ceux qui sont déjà là dans la cour ?
+C'est une image très silencieuse. Un silence qui vous fait irrésistiblement vous demander : combien de temps encore cette île mettra-t-elle à cesser de crier vers les salles d'accouchement, pour se retourner et regarder vraiment les gens qui sont déjà là, sur la cour de récréation ?
 
-Le chant deviendra plus faible ; mais tant qu'il reste quelqu'un pour chanter, ce n'est pas encore le dernier.
+Le chant deviendra plus faible, mais tant qu'il y aura encore quelqu'un pour chanter, ce ne sera pas la dernière chanson.
 
 ---
 
-**Pour aller plus loin** :
+**Lectures complémentaires** :
 
-- [L'éducation dans les zones rurales de Taïwan](/fr/society/taiwan-rural-education) — Lorsque les campagnes sont entrées dans la dénatalité quarante ans avant les villes, les petites écoles rurales ont été les premières à recevoir cette lettre.
-- [Le système éducatif et la culture de l'examen à Taïwan](/fr/society/education-system-and-admissions-culture) — La sortie d'universités du système et la falaise démographique étudiante sont indissociables de la manière dont toute la société considère « l'accès aux études ».
-- [Le développement du système taïwanais de soins de longue durée](/fr/society/long-term-care-system-development) — Quand les plus de 65 ans dépassent 20 % et que 215 000 aides-soignants étrangers soutiennent les lits de soins, les soins de longue durée sont l'autre extrémité de la dénatalité.
-- [L'industrie robotique de Taïwan](/fr/technology/taiwan-robotics-industry) — Si la diminution de la population est acquise, l'automatisation sera l'une des réponses clés pour « réorganiser la production dans une population qui diminue ».
+- [Éducation rurale à Taïwan](/fr/society/taiwan-rural-education) — Lorsque les zones rurales entrent dans la dénatalité quarante ans avant les villes, les petites écoles rurales sont les premières à recevoir ce message.
+- [Système éducatif et culture de l'admission](/fr/society/education-system-and-admissions-culture) — Le retrait des universités, la falaise des effectifs étudiants, sont indissociables de la manière dont l'ensemble de la société considère la « poursuite d'études ».
+- [Développement du système de soins de longue durée à Taïwan](/fr/society/long-term-care-system-development) — Lorsque les plus de 65 ans dépassent 20 % et que les aides-soignants étrangers soutiennent 215 000 lits, les soins de longue durée sont l'autre face de la dénatalité.
+- [Industrie de la robotique à Taïwan](/fr/technology/taiwan-robotics-industry) — Si la diminution de la population est une certitude, l'automatisation sera l'une des réponses clés pour « réorganiser la production au sein d'une population qui diminue ».
+- [Expansion et retrait de l'enseignement supérieur à Taïwan](/fr/society/taiwan-higher-education-expansion-and-decline) — Le mur de la dénatalité heurte l'université : après le passage de 58 à 148 établissements promus, comment les écoles ferment-elles, et qui en assume le coût ?
 
 ## Références
 
