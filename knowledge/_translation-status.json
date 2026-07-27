@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-28T07:48:29+08:00",
-    "zhCommitHead": "a9ae73c37",
+    "lastUpdated": "2026-07-28T07:58:51+08:00",
+    "zhCommitHead": "b4f4d89de",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -35,34 +35,34 @@
       },
       "ko": {
         "total_zh": 869,
-        "fresh": 828,
-        "stale": 35,
+        "fresh": 831,
+        "stale": 32,
         "metadata_stale": 0,
         "missing": 6,
         "orphan": 0
       },
       "es": {
         "total_zh": 869,
-        "fresh": 830,
-        "stale": 33,
+        "fresh": 831,
+        "stale": 32,
         "metadata_stale": 0,
         "missing": 6,
         "orphan": 0
       },
       "fr": {
         "total_zh": 869,
-        "fresh": 824,
-        "stale": 41,
+        "fresh": 825,
+        "stale": 40,
         "metadata_stale": 1,
         "missing": 3,
         "orphan": 0
       },
       "vi": {
         "total_zh": 869,
-        "fresh": 293,
+        "fresh": 296,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 570,
+        "missing": 567,
         "orphan": 0
       },
       "id": {
@@ -83,10 +83,10 @@
       },
       "hi": {
         "total_zh": 869,
-        "fresh": 458,
+        "fresh": 459,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 411,
+        "missing": 410,
         "orphan": 0
       },
       "ar": {
@@ -815,16 +815,16 @@
         "ko": {
           "path": "ko/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md",
           "translatedFrom": "Music/台灣樂器製造.md",
-          "sourceCommitSha": "ce74fa26",
-          "sourceContentHash": "sha256:d7bd090bae6990bf",
-          "sourceBodyHash": "sha256:381c1171bf2bf67f",
-          "translatedAt": "2026-06-06T00:00:00Z",
+          "sourceCommitSha": "b4f3dab63",
+          "sourceContentHash": "sha256:5ffbb5b925e1997f",
+          "sourceBodyHash": "sha256:cda00c8983ea5b23",
+          "translatedAt": "2026-07-28T05:31:30+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
-          "footnoteDefs": 10,
-          "status": "stale",
-          "reason": "footnote-loss (46→10)"
+          "footnoteDefs": 46,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories.md",
@@ -15801,7 +15801,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Technology/hsuehshan-tunnel.md",
+          "translatedFrom": "Technology/雪山隧道.md",
+          "sourceCommitSha": "9ecd20d61",
+          "sourceContentHash": "sha256:9e7ddff3899aaa85",
+          "sourceBodyHash": "sha256:909022379c9cd8a0",
+          "translatedAt": "2026-07-28T07:06:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -19982,7 +19993,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/submarine-cables-taiwan-lifeline.md",
+          "translatedFrom": "Technology/海底電纜.md",
+          "sourceCommitSha": "5ff155c10",
+          "sourceContentHash": "sha256:a528d560e37c40b9",
+          "sourceBodyHash": "sha256:1790c4ef1b7a9b20",
+          "translatedAt": "2026-07-28T06:16:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 49,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -29522,18 +29544,16 @@
         "es": {
           "path": "es/Lifestyle/convenience-store-culture.md",
           "translatedFrom": "Lifestyle/台灣便利商店文化.md",
-          "sourceCommitSha": "50617dc1",
-          "sourceContentHash": "sha256:270d23d188160eb0",
-          "sourceBodyHash": "sha256:3cc86e403e9f38f1",
-          "translatedAt": "2026-07-13T16:30:00Z",
+          "sourceCommitSha": "d520299ba",
+          "sourceContentHash": "sha256:15b1d886569defdd",
+          "sourceBodyHash": "sha256:5c3b9cff7c172cb0",
+          "translatedAt": "2026-07-28T04:03:51+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Lifestyle/convenience-store-culture.md",
@@ -34408,8 +34428,8 @@
           "sourceContentHash": "sha256:54b5e89e9e06fd0e",
           "sourceBodyHash": "sha256:3a7e69bdd14827b6",
           "translatedAt": "2026-07-28T05:31:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b4f4d89d",
+          "translationLastModified": "2026-07-28T07:48:29+08:00",
           "inferred": false,
           "footnoteDefs": 62,
           "status": "fresh",
@@ -34469,18 +34489,16 @@
         "ko": {
           "path": "ko/Society/education-system-and-admissions-culture.md",
           "translatedFrom": "Society/教育制度與升學文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:0a7458b73a859fea",
-          "sourceBodyHash": "sha256:b2b271a1c8432769",
-          "translatedAt": "2026-05-20T05:08:30+08:00",
+          "sourceCommitSha": "9d6716713",
+          "sourceContentHash": "sha256:b3fec964553963ea",
+          "sourceBodyHash": "sha256:605626e47ccc1b01",
+          "translatedAt": "2026-07-28T04:03:50+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Society/education-system-and-admissions-culture.md",
@@ -40223,8 +40241,8 @@
           "sourceContentHash": "sha256:288b132714804aff",
           "sourceBodyHash": "sha256:f51e2d5a46bf8d87",
           "translatedAt": "2026-07-28T05:31:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b4f4d89d",
+          "translationLastModified": "2026-07-28T07:48:29+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "status": "fresh",
@@ -67833,7 +67851,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/tanya-chua-singer.md",
+          "translatedFrom": "People/蔡健雅.md",
+          "sourceCommitSha": "dc7865f06",
+          "sourceContentHash": "sha256:0b4776a25d38b2ed",
+          "sourceBodyHash": "sha256:126c0129a0743d8a",
+          "translatedAt": "2026-07-28T07:06:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -95941,18 +95970,16 @@
         "ko": {
           "path": "ko/History/taiwan-white-terror.md",
           "translatedFrom": "History/台灣白色恐怖.md",
-          "sourceCommitSha": "6c2f8ea8",
-          "sourceContentHash": "sha256:95fed80eda56f46a",
-          "sourceBodyHash": "sha256:c81706526bb2277b",
-          "translatedAt": "2026-05-29T00:35:00+08:00",
+          "sourceCommitSha": "710263a86",
+          "sourceContentHash": "sha256:bc916494357a8d5d",
+          "sourceBodyHash": "sha256:cbfe5f14ffa2e661",
+          "translatedAt": "2026-07-27T23:51:16.384090+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/taiwan-white-terror.md",
@@ -95971,18 +95998,16 @@
         "fr": {
           "path": "fr/History/taiwan-white-terror.md",
           "translatedFrom": "History/台灣白色恐怖.md",
-          "sourceCommitSha": "6c2f8ea8",
-          "sourceContentHash": "sha256:95fed80eda56f46a",
-          "sourceBodyHash": "sha256:c81706526bb2277b",
-          "translatedAt": "2026-05-29T00:35:00+08:00",
+          "sourceCommitSha": "710263a86",
+          "sourceContentHash": "sha256:bc916494357a8d5d",
+          "sourceBodyHash": "sha256:cbfe5f14ffa2e661",
+          "translatedAt": "2026-07-27T23:53:37.433163+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/History/taiwan-white-terror.md",
@@ -104094,7 +104119,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/climate.md",
+          "translatedFrom": "Geography/氣候.md",
+          "sourceCommitSha": "ceeee0ae6",
+          "sourceContentHash": "sha256:0275e27f1a1e4e68",
+          "sourceBodyHash": "sha256:c3a7643c439033af",
+          "translatedAt": "2026-07-28T07:06:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
