@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-28T07:17:04+08:00",
-    "zhCommitHead": "7ac33d61a",
+    "lastUpdated": "2026-07-28T07:46:26+08:00",
+    "zhCommitHead": "f37f78913",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -35,34 +35,34 @@
       },
       "ko": {
         "total_zh": 869,
-        "fresh": 826,
-        "stale": 37,
+        "fresh": 828,
+        "stale": 35,
         "metadata_stale": 0,
         "missing": 6,
         "orphan": 0
       },
       "es": {
         "total_zh": 869,
-        "fresh": 827,
-        "stale": 36,
+        "fresh": 830,
+        "stale": 33,
         "metadata_stale": 0,
         "missing": 6,
         "orphan": 0
       },
       "fr": {
         "total_zh": 869,
-        "fresh": 822,
-        "stale": 43,
+        "fresh": 823,
+        "stale": 42,
         "metadata_stale": 1,
         "missing": 3,
         "orphan": 0
       },
       "vi": {
         "total_zh": 869,
-        "fresh": 291,
+        "fresh": 293,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 572,
+        "missing": 570,
         "orphan": 0
       },
       "id": {
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 612,
+        "fresh": 613,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 251,
+        "missing": 250,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 474,
+        "fresh": 477,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 395,
+        "missing": 392,
         "orphan": 0
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 506,
+        "fresh": 507,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 363,
+        "missing": 362,
         "orphan": 0
       }
     },
@@ -10553,18 +10553,16 @@
         "ko": {
           "path": "ko/Economy/taiwan-stock-market.md",
           "translatedFrom": "Economy/台灣股市與資本市場.md",
-          "sourceCommitSha": "e10215bc7",
-          "sourceContentHash": "sha256:5f40e129854187a5",
-          "sourceBodyHash": "sha256:fa7e9d68ca508066",
-          "translatedAt": "2026-05-12T11:51:04+08:00",
+          "sourceCommitSha": "9c5ad569a",
+          "sourceContentHash": "sha256:323486e516e428ed",
+          "sourceBodyHash": "sha256:c34c5e10c2fbc812",
+          "translatedAt": "2026-07-27T23:33:04.196636+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 24,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Economy/taiwan-stock-market.md",
@@ -24275,13 +24273,35 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Art/tehching-hsieh-performance-artist.md",
+          "translatedFrom": "Art/謝德慶.md",
+          "sourceCommitSha": "d520299ba",
+          "sourceContentHash": "sha256:97f19e04671843c8",
+          "sourceBodyHash": "sha256:63227fedc7d1144a",
+          "translatedAt": "2026-07-28T07:06:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Art/tehching-hsieh-performance-artist.md",
+          "translatedFrom": "Art/謝德慶.md",
+          "sourceCommitSha": "d520299ba",
+          "sourceContentHash": "sha256:97f19e04671843c8",
+          "sourceBodyHash": "sha256:63227fedc7d1144a",
+          "translatedAt": "2026-07-28T06:15:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -33351,7 +33371,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/commonwealth-magazine.md",
+          "translatedFrom": "Society/天下雜誌.md",
+          "sourceCommitSha": "d317f1649",
+          "sourceContentHash": "sha256:cfcffc0d37076c22",
+          "sourceBodyHash": "sha256:a2fb34529fea33ac",
+          "translatedAt": "2026-07-28T06:16:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -34454,18 +34485,16 @@
         "es": {
           "path": "es/Society/education-system-and-admissions-culture.md",
           "translatedFrom": "Society/教育制度與升學文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:0a7458b73a859fea",
-          "sourceBodyHash": "sha256:b2b271a1c8432769",
-          "translatedAt": "2026-05-20T05:08:32+08:00",
+          "sourceCommitSha": "9d6716713",
+          "sourceContentHash": "sha256:b3fec964553963ea",
+          "sourceBodyHash": "sha256:605626e47ccc1b01",
+          "translatedAt": "2026-07-28T04:03:51+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/education-system-and-admissions-culture.md",
@@ -60968,18 +60997,16 @@
         "ko": {
           "path": "ko/People/jensen-huang.md",
           "translatedFrom": "People/黃仁勳.md",
-          "sourceCommitSha": "7852e7f7",
-          "sourceContentHash": "sha256:fefdcc28d82e9ce0",
-          "sourceBodyHash": "sha256:8e44f1173a86a8b9",
-          "translatedAt": "2026-06-28T00:40:19+08:00",
+          "sourceCommitSha": "09c1bf1a9",
+          "sourceContentHash": "sha256:e9178b000513a553",
+          "sourceBodyHash": "sha256:0447f104316070ca",
+          "translatedAt": "2026-07-27T23:19:46.802070+00:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/jensen-huang.md",
@@ -60998,18 +61025,16 @@
         "fr": {
           "path": "fr/People/jensen-huang.md",
           "translatedFrom": "People/黃仁勳.md",
-          "sourceCommitSha": "7852e7f7",
-          "sourceContentHash": "sha256:fefdcc28d82e9ce0",
-          "sourceBodyHash": "sha256:8e44f1173a86a8b9",
-          "translatedAt": "2026-06-28T00:40:14+08:00",
+          "sourceCommitSha": "09c1bf1a9",
+          "sourceContentHash": "sha256:e9178b000513a553",
+          "sourceBodyHash": "sha256:0447f104316070ca",
+          "translatedAt": "2026-07-27T23:21:58.924024+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 18,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/jensen-huang.md",
@@ -66221,7 +66246,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/howhow.md",
+          "translatedFrom": "People/Howhow.md",
+          "sourceCommitSha": "f5975a224",
+          "sourceContentHash": "sha256:c742af5d03f4c9ab",
+          "sourceBodyHash": "sha256:a358cb4047d78691",
+          "translatedAt": "2026-07-28T07:06:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -69611,8 +69647,8 @@
           "sourceContentHash": "sha256:736443e43dba4c29",
           "sourceBodyHash": "sha256:b6b66329e69543f7",
           "translatedAt": "2026-07-28T04:03:49+08:00",
-          "translationLastCommit": "d43c523f",
-          "translationLastModified": "2026-07-24T17:35:54+08:00",
+          "translationLastCommit": "f37f7891",
+          "translationLastModified": "2026-07-28T07:17:04+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -80107,7 +80143,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/ang-lee.md",
+          "translatedFrom": "People/李安.md",
+          "sourceCommitSha": "09c1bf1a9",
+          "sourceContentHash": "sha256:270ebb8ad85e9750",
+          "sourceBodyHash": "sha256:1c12395477bc0a4e",
+          "translatedAt": "2026-07-28T06:16:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 50,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -95899,18 +95946,16 @@
         "es": {
           "path": "es/History/taiwan-white-terror.md",
           "translatedFrom": "History/台灣白色恐怖.md",
-          "sourceCommitSha": "6c2f8ea8",
-          "sourceContentHash": "sha256:95fed80eda56f46a",
-          "sourceBodyHash": "sha256:c81706526bb2277b",
-          "translatedAt": "2026-05-29T00:35:00+08:00",
+          "sourceCommitSha": "710263a86",
+          "sourceContentHash": "sha256:bc916494357a8d5d",
+          "sourceBodyHash": "sha256:cbfe5f14ffa2e661",
+          "translatedAt": "2026-07-27T23:33:35.840720+00:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/History/taiwan-white-terror.md",
@@ -97514,7 +97559,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/jinguashi.md",
+          "translatedFrom": "Geography/金瓜石.md",
+          "sourceCommitSha": "9c5ad569a",
+          "sourceContentHash": "sha256:c3748ae1610fed44",
+          "sourceBodyHash": "sha256:68f6beb778ba92ff",
+          "translatedAt": "2026-07-28T06:16:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -105205,18 +105261,16 @@
         "es": {
           "path": "es/Culture/taiwan-religion-and-temple-culture.md",
           "translatedFrom": "Culture/台灣宗教與寺廟文化.md",
-          "sourceCommitSha": "dd39065b",
-          "sourceContentHash": "sha256:8d534bf965b094a9",
-          "sourceBodyHash": "sha256:ef11b70d69d87737",
-          "translatedAt": "2026-06-10T16:45:00+00:00",
+          "sourceCommitSha": "d56c5a60e",
+          "sourceContentHash": "sha256:518362b111919aa4",
+          "sourceBodyHash": "sha256:b2ec869950288157",
+          "translatedAt": "2026-07-28T05:31:30+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+17 -16"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Culture/taiwan-religion-and-temple-culture.md",
@@ -112943,8 +112997,8 @@
           "sourceContentHash": "sha256:c5c6c2825029a48f",
           "sourceBodyHash": "sha256:f0cb0ab3b5428edc",
           "translatedAt": "2026-07-27T22:12:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f37f7891",
+          "translationLastModified": "2026-07-28T07:17:04+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -114418,7 +114472,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/taiwanese-sensibility.md",
+          "translatedFrom": "Culture/台灣感性.md",
+          "sourceCommitSha": "54ed6c788",
+          "sourceContentHash": "sha256:01da220d6681931b",
+          "sourceBodyHash": "sha256:71edee5e89546764",
+          "translatedAt": "2026-07-28T06:16:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 32,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
