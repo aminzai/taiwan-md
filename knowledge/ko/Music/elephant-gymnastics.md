@@ -239,11 +239,11 @@ Topshelf Records는 다큐멘터리 홍보 문안에 이렇게 직접 썼다. �
 
 ## 더 읽을거리
 
-- [Sorry Youth](/Music/拍謝少年) — 마찬가지로 남부 출신이며 언어로 자신을 위치 짓는 동시대 밴드. 다만 이들은 타이완어와 사람 목소리를 택했다
-- [Fire EX.](/Music/滅火器樂團) — 가오슝 sibling, 2022년 Fuji Rock 같은 해에 등장한 또 다른 가오슝 밴드
-- [Sunset Rollercoaster](/Music/落日飛車) — 같은 세대 타이완 indie 해외 진출의 대표 사례. city pop의 느슨한 질감과 영어 보컬을 택해, 대상체조의 instrumental 기술파와 두 갈래의 대조적 경로를 이룬다
-- [타이완 록 음악 발전사](/Music/台灣搖滾樂發展史) — 우바이, Mayday에서 포스트 Sunset Rollercoaster 세대까지 이어지는 발전 맥락
-- [타이완 독립음악](/Music/台灣獨立音樂) — 타이완 indie 장면과 레이블 생태
+- [Sorry Youth](/ko/music/sorry-youth-band) — 마찬가지로 남부 출신이며 언어로 자신을 위치 짓는 동시대 밴드. 다만 이들은 타이완어와 사람 목소리를 택했다
+- [Fire EX.](/ko/music/fire-ex) — 가오슝 sibling, 2022년 Fuji Rock 같은 해에 등장한 또 다른 가오슝 밴드
+- [Sunset Rollercoaster](/ko/music/sunset-rollercoaster) — 같은 세대 타이완 indie 해외 진출의 대표 사례. city pop의 느슨한 질감과 영어 보컬을 택해, 대상체조의 instrumental 기술파와 두 갈래의 대조적 경로를 이룬다
+- [타이완 록 음악 발전사](/ko/music/taiwan-rock-from-underground-to-mainstream) — 우바이, Mayday에서 포스트 Sunset Rollercoaster 세대까지 이어지는 발전 맥락
+- [타이완 독립음악](/ko/music/indie-music-scene) — 타이완 indie 장면과 레이블 생태
 
 ---
 

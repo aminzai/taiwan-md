@@ -96,6 +96,6 @@ KTV(카라오케 TV)는 대만 야생활의 핵심이다. 방식 KTV가 1990년�
 
 ## 더 읽어보기
 
-- [대만 교통 시스템](/lifestyle/台灣交通系統) — 야간 교통이 야생활 문화를 어떻게 지탱하는가
-- [대만 편의점 문화](/lifestyle/台灣便利商店文化) — 24시간 편의점과 불야성 문화의 관계
-- [대만 종교 신앙](/culture/台灣宗教與寺廟文化) — 야간 사당 행사와 전통 축제의 야생활
+- [대만 교통 시스템](/ko/lifestyle/transportation-system) — 야간 교통이 야생활 문화를 어떻게 지탱하는가
+- [대만 편의점 문화](/ko/lifestyle/convenience-store-culture) — 24시간 편의점과 불야성 문화의 관계
+- [대만 종교 신앙](/ko/culture/taiwan-religion-and-temple-culture) — 야간 사당 행사와 전통 축제의 야생활

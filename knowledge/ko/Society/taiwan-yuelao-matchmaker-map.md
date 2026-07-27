@@ -176,5 +176,5 @@ PTT, Dcard 등 커뮤니티 플랫폼에는 “이번 달에 어느 월하노인
 
 ## 더 읽을거리
 
-- [대만의 동성결혼과 성평등](/Society/台灣同婚與性別平權) — 토아신 웨이밍탕이 전 세계에서도 드문 LGBT 전용 사원이라는 더 큰 사회적 맥락
-- [대만의 자원봉사 문화와 공익 참여](/Society/台灣志工文化與公益參與) — 민속신앙과 커뮤니티 문화의 교차
+- [대만의 동성결혼과 성평등](/ko/society/taiwan-marriage-equality-lgbtq-rights) — 토아신 웨이밍탕이 전 세계에서도 드문 LGBT 전용 사원이라는 더 큰 사회적 맥락
+- [대만의 자원봉사 문화와 공익 참여](/ko/society/volunteering-and-civic-charity-in-taiwan) — 민속신앙과 커뮤니티 문화의 교차

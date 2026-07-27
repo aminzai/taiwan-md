@@ -108,9 +108,9 @@ translatedAt: '2026-05-02T13:31:21+08:00'
 
 **더 읽기**:
 
-- [사회주택과 거주 정의](/society/社會住宅與居住正義) — 대만 사회주택 추진의 난제와 임대시장 문제, 철판 건물 문제가 속한 더 큰 주거 구조
-- [대만 환경 정의와 님비 논쟁](/society/台灣環境正義與鄰避爭議) — 원쯔촌 철판 공장 철거 이면의 토지 이용과 환경 오염 문제 확장
-- [대만 원주민 토지 정의와 전통 영역](/society/台灣原住民族土地正義與傳統領域) — 다른 관점에서 대만 "합법과 위법" 사이의 토지 이용 복잡성 이해
+- [사회주택과 거주 정의](/ko/society/social-housing-and-housing-justice) — 대만 사회주택 추진의 난제와 임대시장 문제, 철판 건물 문제가 속한 더 큰 주거 구조
+- [대만 환경 정의와 님비 논쟁](/ko/society/taiwan-environmental-justice-nimby-conflicts) — 원쯔촌 철판 공장 철거 이면의 토지 이용과 환경 오염 문제 확장
+- [대만 원주민 토지 정의와 전통 영역](/ko/society/indigenous-land-justice-and-traditional-territories) — 다른 관점에서 대만 "합법과 위법" 사이의 토지 이용 복잡성 이해
 
 ## 참고 자료
 

@@ -86,7 +86,7 @@ translatedAt: '2026-06-11T16:38:39Z'
 
 1969년 타이난 영강에서 태어나, 2000년에 50만 원으로 5분 작품을 찍고도 자금을 구하지 못하고, 2008년 5억 3천만 흥행, 2011년 베니스 경쟁 부문. 이 선은 인내의 축적이지, 기적과는 무관하다.
 
-**더 읽기:** [모나 루다오: 20원 동전에 새겨진 항일 영웅](/people/莫那·魯道)（《사이더크·바라이》의 주인공 원형, 그리고 영화가 어떻게 기억을 재형성했는가）｜ [웨이더성 — 위키백과](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [대만 영화 데이터베이스: 웨이더성](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [금마장 공식 사이트](https://www.goldenhorse.org.tw/)
+**더 읽기:** [모나 루다오: 20원 동전에 새겨진 항일 영웅](/ko/people/mona-rudao)（《사이더크·바라이》의 주인공 원형, 그리고 영화가 어떻게 기억을 재형성했는가）｜ [웨이더성 — 위키백과](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [대만 영화 데이터베이스: 웨이더성](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [금마장 공식 사이트](https://www.goldenhorse.org.tw/)
 
 ## 참고 문헌
 

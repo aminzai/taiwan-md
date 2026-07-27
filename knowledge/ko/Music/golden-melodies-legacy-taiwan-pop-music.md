@@ -254,11 +254,11 @@ _리주신 〈水 Suí〉 official. 리주신 Siri Lee 공식 채널. 2025년 �
 
 **더 읽기**:
 
-- [타이완 민가 운동: “자신의 노래를 부른다”는 것은 누구의 노래를 부르는 일이었나](/music/台灣民歌運動)
-- [타이완 타이완어 노래의 변천: 금지된 모어에서 올해의 앨범까지](/music/台灣台語歌曲演進)
-- [금곡상](/music/金曲獎)
-- [타이완 음악 산업과 스트리밍 시대: 실물 음반 붕괴 이후의 회복](/music/台灣音樂產業與串流時代)
-- [덩리쥔: 해협 양안과 홍콩·마카오까지 노래했지만, 죽을 때까지 중국 대륙에서 공연하지 못한 가후](/people/鄧麗君)
+- [타이완 민가 운동: “자신의 노래를 부른다”는 것은 누구의 노래를 부르는 일이었나](/ko/music/taiwan-campus-folk-song-movement)
+- [타이완 타이완어 노래의 변천: 금지된 모어에서 올해의 앨범까지](/ko/music/taiwanese-hokkien-song-evolution)
+- [금곡상](/ko/music/pop-music-and-golden-melody-awards)
+- [타이완 음악 산업과 스트리밍 시대: 실물 음반 붕괴 이후의 회복](/ko/music/taiwan-music-industry-and-the-streaming-era)
+- [덩리쥔: 해협 양안과 홍콩·마카오까지 노래했지만, 죽을 때까지 중국 대륙에서 공연하지 못한 가후](/ko/people/teresa-teng)
 
 ## 이미지 출처
 

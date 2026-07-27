@@ -80,10 +80,10 @@ Facebook의 이야기는 대만 디지털 전환 20년의 축소판이다. 가�
 
 **더 읽어보기:**
 
-- [Instagram: 사진작가의 필터에서 대만인의 "쥐이" 불안까지](/technology/IG) — Meta 산하 또 다른 대만 주력 플랫폼으로, Facebook과 다른 이용 맥락을 형성한다. Facebook이 "어른들과 연락하는 곳"이라면 IG는 "자신을 위한 공간", Threads는 "큰 싸움이 일어나는 광장"이다.
+- [Instagram: 사진작가의 필터에서 대만인의 "쥐이" 불안까지](/ko/technology/instagram-in-taiwan) — Meta 산하 또 다른 대만 주력 플랫폼으로, Facebook과 다른 이용 맥락을 형성한다. Facebook이 "어른들과 연락하는 곳"이라면 IG는 "자신을 위한 공간", Threads는 "큰 싸움이 일어나는 광장"이다.
 - [Threads in Taiwan](/technology/Threads%20%E5%9C%A8%E5%8F%B0%E6%B9%BE) — 대만인은 왜 Threads를 "쥐이(脆)"라고 부를까? FB 난민 물결부터 "쥐이"의 전 세계 트래픽 1위까지, Meta 생태계 안에서 대만 이용자의 독특한 위치.
 - [대만 인터넷 커뮤니티 이주 역사](/technology/%E5%8F%B0%E6%B9%BE%E7%B6%B2%E8%B7%AF%E7%A4%BE%E7%BE%A4%E9%81%8B%E7%A7%BB%E5%8F%B2) — BBS, 무명소잔(無名小站), Plurk에서 Facebook, IG, Threads까지. Facebook이 대만에서 왜 부상했고 왜 퇴조하기 시작했는지 이해하려면 이 완전한 이주 지도가 필요하다.
-- [우밍샤오잔(無名小站)](/culture/無名小站) — Facebook이 대만에서 추월하고 결국 대체한 본토 플랫폼. 2008년 우밍은 야후를 누르고 대만 1위였으나, 2009년부터 Facebook의 뉴스피드 체류 점성으로 역전당했다.
+- [우밍샤오잔(無名小站)](/ko/culture/wretch) — Facebook이 대만에서 추월하고 결국 대체한 본토 플랫폼. 2008년 우밍은 야후를 누르고 대만 1위였으나, 2009년부터 Facebook의 뉴스피드 체류 점성으로 역전당했다.
 
 ## 참고자료
 

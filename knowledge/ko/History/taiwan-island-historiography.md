@@ -41,7 +41,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan
 > **📝 큐레이터 노트**
 > 차오융허의 위대함은 그가 17세기 네덜란드어와 스페인어 문헌을 연구함으로써 대만사를 대륙 사관의 그늘에서 구해내고, 섬 그 자체에게 돌려주었다는 데 있다.
 
-관련 확장: [대만 해양 무역사](/ko/History/taiwan-maritime-trade-history/), [선사시대와 원주민](/ko/History/prehistoric-era-and-indigenous-peoples/)
+관련 확장: [대만 해양 무역사](/ko/history/taiwan-maritime-trade-history/), [선사시대와 원주민](/ko/history/prehistoric-era-and-indigenous-peoples/)
 
 ## 2. 오스트로네시아어족의 해양 유전자: 섬성은 곧 세계성이다
 
@@ -49,7 +49,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan
 
 이는 대만의 ‘해양적 성격’이 외부에서 덧붙여진 것이 아니라 태생적인 것임을 증명한다. 우리가 섬 사관을 논할 때, 우리는 ‘섬을 집으로 삼는’ 하나의 문명 기술을 말하고 있다. 이는 대륙 문명의 농경 논리와는 완전히 다르다. 섬성은 고립을 뜻하지 않는다. 오히려 세계로 향하는 무한한 가능성을 뜻한다.
 
-관련 확장: [대만 원주민족 역사와 정명 운동](/ko/History/indigenous-peoples-history-and-naming-movement/)
+관련 확장: [대만 원주민족 역사와 정명 운동](/ko/history/indigenous-peoples-history-and-naming-movement/)
 
 ## 3. 제국의 첫 충돌: 다두 왕국과 세계 무역
 
@@ -60,7 +60,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan
 > **💡 알고 있었나요**
 > 17세기 대만의 사슴가죽은 일본 사무라이 갑옷의 필수품이었다. 당시 이름 없는 사슴가죽 상인들이야말로 대만을 세계 경제의 물결 속으로 끌어들인 진정한 행위자였으며, 그들은 대만 섬과 교토의 군사 장비를 직접 연결했다.
 
-관련 확장: [네덜란드·스페인·명정 시기](/ko/History/dutch-spanish-and-koxinga-era/)
+관련 확장: [네덜란드·스페인·명정 시기](/ko/history/dutch-spanish-and-koxinga-era/)
 
 ## 4. 이주의 최전선: 한인 이민과 제도 이식
 
@@ -68,7 +68,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan
 
 사람들은 농경 지혜와 종족 조직을 가지고 섬에 왔다. 그러나 빈번히 변동하는 환경에서 살아남기 위해, 그들은 대륙의 모국보다 더 유연하고 더 현실적인 사회계약을 익혔다. 대만의 ‘한인 사회’는 처음부터 어떤 불안정성과 모험의 유전자를 지니고 있었으며, 이는 청치 시기의 빈번한 봉기, 예컨대 “3년에 한 번 작은 반란, 5년에 한 번 큰 소요”라는 말에서 단적으로 드러난다.
 
-관련 확장: [청치 시기](/ko/History/qing-dynasty-rule/), [대만 경제 기적](/ko/economy/economic-miracle/)
+관련 확장: [청치 시기](/ko/history/qing-dynasty-rule/), [대만 경제 기적](/ko/economy/economic-miracle/)
 
 ## 5. 1895: 식민지 근대성의 양날
 
@@ -79,7 +79,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan
 > **⚠️ 논쟁적 관점**
 > 식민지 근대성은 대만사에서 가장 다루기 어려운 부분이다. 우리는 억압받은 고통과 제도가 가져온 진보를 어떻게 동시에 기억할 수 있는가? 바로 이것이 섬 사관이 엮어내려는 긴장이다. 우리는 제도를 받아들였지만, 동화되기를 거부했다.
 
-관련 확장: [일치 시기](/ko/History/japanese-colonial-era/), [대만 철도사](/ko/History/taiwan-railway-history/)
+관련 확장: [일치 시기](/ko/history/japanese-colonial-era/), [대만 철도사](/ko/history/taiwan-railway-history/)
 
 ## 6. 권위주의와 기억의 지층
 
@@ -87,7 +87,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan
 
 그러나 섬 사관에서 보면, 이 시기는 ‘기억의 지층’이 가장 두텁게 쌓인 순간이기도 했다. 군인 마을, 뤼다오 감옥, 방언 사용이 금지된 교실, 침묵하는 거실. 이처럼 단절처럼 보이는 기억들은 1987년 계엄 해제 이후 대만 다문화의 자양분으로 분출했다. 섬 사관은 이 역사를 일종의 ‘압축 뒤의 폭발’로 본다. 그것은 대만 주체 정체성의 마지막 용광로였다.
 
-관련 확장: [2·28 사건](/ko/History/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory/), [계엄 시기](/ko/History/martial-law-era/), [대만 백색테러](/ko/History/taiwan-white-terror/), 메이리다오 사건: 대만의 운명을 바꾼 그날 밤
+관련 확장: [2·28 사건](/ko/history/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory/), [계엄 시기](/ko/history/martial-law-era/), [대만 백색테러](/ko/history/taiwan-white-terror/), 메이리다오 사건: 대만의 운명을 바꾼 그날 밤
 
 ## 7. 섬 사관의 네 가지 핵심 주장
 
@@ -133,8 +133,8 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan
 
 **더 읽을거리**:
 
-- [포르모사](/history/福爾摩沙) — Psalmanazar의 사기극에서 국립대만역사박물관의 회수에 이르기까지: 400년에 걸친 서구 ‘발견’ 서사의 해체와 반전
-- [국립대만역사박물관](/society/國立臺灣歷史博物館) — 2011년 개관한 국가급 3급 기관으로, 1990년 차오융허의 논문을 실체 전시장 “이 땅, 이 사람들——대만의 이야기”로 구현한 곳이며, 대만 섬 사관의 institutional instantiation이다
+- [포르모사](/ko/history/formosa-historical-name) — Psalmanazar의 사기극에서 국립대만역사박물관의 회수에 이르기까지: 400년에 걸친 서구 ‘발견’ 서사의 해체와 반전
+- [국립대만역사박물관](/ko/society/national-museum-of-taiwan-history) — 2011년 개관한 국가급 3급 기관으로, 1990년 차오융허의 논문을 실체 전시장 “이 땅, 이 사람들——대만의 이야기”로 구현한 곳이며, 대만 섬 사관의 institutional instantiation이다
 
 ## 참고 자료
 

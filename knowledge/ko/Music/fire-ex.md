@@ -129,12 +129,12 @@ translatedAt: '2026-05-01T20:54:10+08:00'
 
 ## 더 읽기
 
-- [대만 인디 음악](/music/台灣獨立音樂/) — 소방기가 속한 인디 음악 씬
-- [대만 록 발전사](/music/台灣搖滾樂發展史/) — 금지곡 시대에서 대항개창까지
-- [태양화학운동](/society/太陽花學運/) — 〈섬의 빛〉이 태어난 그 3월
-- [대만 음악제 문화](/music/台灣音樂祭文化/) — 공뢰에서 화구제까지
-- [장현과 안푸](/music/張懸與安溥/) — 다구제 7분의 다른 한쪽
-- [탁수계공사](/music/濁水溪公社/) — 마찬가지로 대만어 펑크로 시대를 기록한, 한 세대 앞선 언더그라운드 록
+- [대만 인디 음악](/ko/music/indie-music-scene/) — 소방기가 속한 인디 음악 씬
+- [대만 록 발전사](/ko/music/taiwan-rock-from-underground-to-mainstream/) — 금지곡 시대에서 대항개창까지
+- [태양화학운동](/ko/society/sunflower-movement/) — 〈섬의 빛〉이 태어난 그 3월
+- [대만 음악제 문화](/ko/music/taiwan-music-festival-culture/) — 공뢰에서 화구제까지
+- [장현과 안푸](/ko/music/deserts-chang-and-anpu/) — 다구제 7분의 다른 한쪽
+- [탁수계공사](/ko/music/loh-tsui-kang-commune/) — 마찬가지로 대만어 펑크로 시대를 기록한, 한 세대 앞선 언더그라운드 록
 
 ## 참고 자료
 

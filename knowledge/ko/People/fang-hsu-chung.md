@@ -113,4 +113,4 @@ translatedAt: '2026-05-16T05:07:55+08:00'
 ## 더 읽을거리
 
 - [주팡서 공식 웹사이트](https://joefangstudio.com/) — 팡쉬중이 창립한 디자인 스튜디오
-- [샤오칭양](/people/蕭青陽) — 같은 세대의 타이완 시각 디자이너이자 그래미상 수상자
+- [샤오칭양](/ko/people/xiao-qing-yang-grammy-designer) — 같은 세대의 타이완 시각 디자이너이자 그래미상 수상자

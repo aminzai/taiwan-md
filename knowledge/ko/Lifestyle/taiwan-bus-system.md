@@ -235,7 +235,7 @@ Seamless Bay Area 분석
 
 그 마지막 5658번은 떠났다. 그러나 정류장 아래에서 손을 드는 사람이 아직 있는 한, 그들을 위해 와야 할 차 한 대는 여전히 빚으로 남아 있다.
 
-**더 읽기**: [타이완 교통 시스템](/lifestyle/台灣交通系統), [타이완 스쿠터 문화](/lifestyle/台灣機車文化), [타이완 도시철도 발전사](/lifestyle/台灣捷運發展史), [관광버스](/lifestyle/遊覽車)
+**더 읽기**: [타이완 교통 시스템](/ko/lifestyle/transportation-system), [타이완 스쿠터 문화](/ko/lifestyle/taiwan-scooter-culture), [타이완 도시철도 발전사](/ko/lifestyle/history-of-taiwan-mrt-development), [관광버스](/ko/lifestyle/tour-bus)
 
 ## 이미지 출처
 

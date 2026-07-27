@@ -95,7 +95,7 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 
 ## 관련 주제
 
-- [야시장 문화](/Food/夜市文化) — 야시장이 사회적 장(場)으로서의 심층 분석
-- [대만 길거리 음식](/Food/台灣小吃) — 대만 서민 음식의 풀뿌리 용기
-- [대만 루루판(滷肉飯)](/Food/台灣滷肉飯) — 한 그릇 루루판의 민족 기억
-- [객가 음식 文化](/Food/客家飲食文化) — 객가 민족의 음식 지혜
+- [야시장 문화](/ko/food/night-market-culture) — 야시장이 사회적 장(場)으로서의 심층 분석
+- [대만 길거리 음식](/ko/food/taiwanese-street-food) — 대만 서민 음식의 풀뿌리 용기
+- [대만 루루판(滷肉飯)](/ko/food/braised-pork-rice) — 한 그릇 루루판의 민족 기억
+- [객가 음식 文化](/ko/food/hakka-food-culture) — 객가 민족의 음식 지혜

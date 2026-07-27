@@ -215,5 +215,5 @@ g0v와 정부의 관계는 미묘하다: 협력하면서도 감시한다. 정부
 ## 관련 주제
 
 - [오픈컬처재단](/ko/technology/open-culture-foundation): g0v 뒤에서 영수증을 처리하고, 세금계산서를 발행하고, 커뮤니티의 행정을 떠맡아온 재단법인, 그리고 그 조직이 뒷무대에서 디지털 인권 감시견으로 성장한 이야기
-- [반도체 산업](/technology/半導體產業): 대만의 기술력 기반
-- [Mini Taiwan Pulse](/technology/mini-taiwan-pulse): 2026년 시민 기술의 개인 오픈소스 실천 — TDX 공개 데이터 + Three.js로 대만을 3D 광궤로 그리기
+- [반도체 산업](/ko/technology/taiwan-semiconductor-industry): 대만의 기술력 기반
+- [Mini Taiwan Pulse](/ko/technology/mini-taiwan-pulse-civic-tech): 2026년 시민 기술의 개인 오픈소스 실천 — TDX 공개 데이터 + Three.js로 대만을 3D 광궤로 그리기

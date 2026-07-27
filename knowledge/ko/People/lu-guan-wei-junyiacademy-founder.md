@@ -246,10 +246,10 @@ _쥔이 교육 플랫폼 공식 채널: 뤼관웨이가 저출생 곱하기 AI�
 
 ## 더 읽을거리
 
-- [예빙청](/people/葉丙成): PaGamO는 숙제를 몬스터 사냥으로 바꾸었다. 게임화된 교육 혁신의 또 다른 길
-- [황궈전](/people/黃國珍): 핀쉐탕과 《독해 이해》, “읽을 줄 안다”는 일을 하나의 기술로 가르치다
-- [류안팅](/people/劉安婷): Teach For Taiwan(TFT), 젊은이들을 농산어촌 교실로 보내는 2년
-- [옌창서우](/people/嚴長壽): 관광의 대부에서 농산어촌 교육으로 돌아서다. 쥔이의 이름은 그에게서 빌렸다
+- [예빙청](/ko/people/yeh-ping-cheng-education-innovator): PaGamO는 숙제를 몬스터 사냥으로 바꾸었다. 게임화된 교육 혁신의 또 다른 길
+- [황궈전](/ko/people/huang-kuo-chen): 핀쉐탕과 《독해 이해》, “읽을 줄 안다”는 일을 하나의 기술로 가르치다
+- [류안팅](/ko/people/liu-an-ting-teach-for-taiwan): Teach For Taiwan(TFT), 젊은이들을 농산어촌 교실로 보내는 2년
+- [옌창서우](/ko/people/stanley-yen): 관광의 대부에서 농산어촌 교육으로 돌아서다. 쥔이의 이름은 그에게서 빌렸다
 
 ## 참고 자료
 

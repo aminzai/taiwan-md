@@ -74,7 +74,7 @@ Taiwan AI Labs는 세 가지 정체 중국어 관련 오픈소스 모델을 공�
 
 ## 더 읽기
 
-- [대만 인공지능 발전과 미래 전략: 2024년 이중 노벨상에서 닝샤 야시장(寧夏夜市)까지](/technology/台灣人工智慧發展與未來策略) — Taiwan AI Labs를 하드웨어 패권 + 2024년 이중 노벨상이라는 전체 맥락에 놓고, TAIDE와 글로벌 AI 기초 연구 사이의 거리를 조망한다.
+- [대만 인공지능 발전과 미래 전략: 2024년 이중 노벨상에서 닝샤 야시장(寧夏夜市)까지](/ko/technology/artificial-intelligence-development-strategy) — Taiwan AI Labs를 하드웨어 패권 + 2024년 이중 노벨상이라는 전체 맥락에 놓고, TAIDE와 글로벌 AI 기초 연구 사이의 거리를 조망한다.
 - [Taiwan AI Labs 공식 웹사이트](https://ailabs.tw/)
 - [두이진(杜奕瑾) — 위키피디아](https://zh.wikipedia.org/zh-tw/杜奕瑾)
 - [BNext: 두이진, 귀국하여 AI Lab 설립](https://www.bnext.com.tw/article/44267/founder-of-ptt-ethan-tu-back-to-taiwan-to-establish-an-ai-lab)

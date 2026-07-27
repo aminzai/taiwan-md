@@ -96,8 +96,8 @@ translatedAt: '2026-07-23T23:06:50+08:00'
 
 ## 추가 독서
 
-- [후쿠코(湖口) 막사 및 승리로 기억](/history/湖口營區與勝利路記憶) — 군사 공간의 일상적 기억
-- [흑웅학원(黑熊學院)](/society/黑熊學院) — 민간 방위 의식의 현대적 버전
+- [후쿠코(湖口) 막사 및 승리로 기억](/ko/history/hukou-camp-shengli-road-memory) — 군사 공간의 일상적 기억
+- [흑웅학원(黑熊學院)](/ko/society/kuma-academy-civil-defense-school) — 민간 방위 의식의 현대적 버전
 
 ## 참고 문헌
 

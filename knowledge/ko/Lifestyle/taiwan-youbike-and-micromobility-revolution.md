@@ -112,9 +112,9 @@ YouBike에서 가장 깊이 생각해 볼 점은 그것이 어떤 교통수단�
 
 **더 읽기:**
 
-- [타이완 교통 시스템](/lifestyle/台灣交通系統) — YouBike는 이 시스템의 마지막 1마일이며, 이 글은 그보다 상위의 맥락을 보충한다.
-- [타이완 지하철 발전사](/lifestyle/台灣捷運發展史) — 왜 YouBike는 반드시 MRT와 연결되어야 하는가? 환승이라는 것이 어떻게 일상 인프라가 되었는가.
-- [타이완 기후 위기와 넷제로 전환](/nature/台灣氣候危機與淨零轉型) — 마이크로모빌리티가 28% 녹색교통 비율 안에서 차지하는 위치.
+- [타이완 교통 시스템](/ko/lifestyle/transportation-system) — YouBike는 이 시스템의 마지막 1마일이며, 이 글은 그보다 상위의 맥락을 보충한다.
+- [타이완 지하철 발전사](/ko/lifestyle/history-of-taiwan-mrt-development) — 왜 YouBike는 반드시 MRT와 연결되어야 하는가? 환승이라는 것이 어떻게 일상 인프라가 되었는가.
+- [타이완 기후 위기와 넷제로 전환](/ko/nature/taiwan-climate-change-net-zero-transition) — 마이크로모빌리티가 28% 녹색교통 비율 안에서 차지하는 위치.
 
 ## 참고 문헌
 

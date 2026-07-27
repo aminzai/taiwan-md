@@ -152,12 +152,17 @@ translatedAt: '2026-05-20T05:08:30+08:00'
 ## 참고 자료
 
 [^1]: [원주민족예술발전센터](https://www.tacp.gov.tw/) — 원주민 동시대 미술 발전 정보
+
 [^2]: 린젠청(2002) [《대만 원주민 예술 현장 노트》](https://www.books.com.tw/products/0010192578), 예술가출판사
+
 [^3]: [대만미술비엔날레](https://www.museum.ntm.gov.tw/) — 동시대 미술 전시 정보
+
 [^4]: [베니스 비엔날레 대만관](https://www.venezia.culture.tw/) — 역대 대만관 자료
+
 [^5]: 가오쥔훙(2017) [《횡단기: 대만 산림 전쟁, 제국과 이미지》](https://www.books.com.tw/products/0010768319), 위안쭈문화
+
 [^7]: [대만 현대·동시대 원주민족 문학과 문화 데이터베이스](http://140.109.24.175/iplm/) — 중산대학 구축
 
 ---
 
-_더 읽을거리: [대만 원주민족 역사와 정명 운동](/ko/History/indigenous-peoples-history-and-naming-movement/) · [대만 원주민족 토지 정의와 전통 영역](/ko/Society/indigenous-land-justice-and-traditional-territories/) · [대만 원주민족 16족 문화 지도](/ko/Culture/indigenous-peoples-16-tribes-cultural-map/) · [대만 원주민 언어 부흥 운동](/ko/Culture/indigenous-language-revitalization-movement/) · [대만 원주민 음식 문화](/ko/Food/taiwan-indigenous-foodways/) · [대만 원주민 생태 지혜와 환경 보전](/ko/Nature/taiwanese-indigenous-ecological-wisdom-conservation/)_
+_더 읽을거리: [대만 원주민족 역사와 정명 운동](/ko/history/indigenous-peoples-history-and-naming-movement/) · [대만 원주민족 토지 정의와 전통 영역](/ko/society/indigenous-land-justice-and-traditional-territories/) · [대만 원주민족 16족 문화 지도](/ko/culture/indigenous-peoples-16-tribes-cultural-map/) · [대만 원주민 언어 부흥 운동](/ko/culture/indigenous-language-revitalization-movement/) · [대만 원주민 음식 문화](/ko/food/taiwan-indigenous-foodways/) · [대만 원주민 생태 지혜와 환경 보전](/ko/nature/taiwanese-indigenous-ecological-wisdom-conservation/)_

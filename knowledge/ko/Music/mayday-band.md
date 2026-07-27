@@ -105,9 +105,9 @@ lastHumanReview: true
 
 ## 더 읽기
 
-- [대만 팝 음악](/music/台灣流行音樂/)
-- [滅火器 밴드](/music/滅火器樂團/)
-- [대만 인디 음악](/music/台灣獨立音樂/)
+- [대만 팝 음악](/ko/music/golden-melodies-legacy-taiwan-pop-music/)
+- [滅火器 밴드](/ko/music/fire-ex/)
+- [대만 인디 음악](/ko/music/indie-music-scene/)
 
 ## 참고 자료
 

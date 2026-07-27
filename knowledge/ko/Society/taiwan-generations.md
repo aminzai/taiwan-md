@@ -170,11 +170,11 @@ Fewer people, the cake didn't get bigger, buildings got higher. On this terrain,
 
 **Further Reading**:
 
-- [Taiwan's Slash Generation](/society/台灣斜槓世代) — The survival math of 7th and 8th graders splitting one salary into three jobs under a low-wage structure
-- [Taiwanese Youth's Career Lost](/society/台灣青年的生涯迷航) — Spending sixteen years in school, the most common question on graduation day is "I don't know what I want to do"
-- [Taiwan's Low Birth Rate Crisis](/society/台灣少子化危機) — Birth numbers crashed from 420,000 to 160,000, how the cake gets smaller year by year
-- [Taiwan Unification-Independence Spectrum](/society/台灣統獨光譜) — The full picture of the identity watershed, from "Who am I" to "Where to go"
-- [MySpace (WuMing XiaoZhan)](/culture/無名小站) — The digital server of 7th graders' youth, shut down in 2013, appeared again on Threads in 2025
+- [Taiwan's Slash Generation](/ko/society/taiwan-slash-generation-multi-job-economy) — The survival math of 7th and 8th graders splitting one salary into three jobs under a low-wage structure
+- [Taiwanese Youth's Career Lost](/ko/society/taiwan-youth-career-confusion) — Spending sixteen years in school, the most common question on graduation day is "I don't know what I want to do"
+- [Taiwan's Low Birth Rate Crisis](/ko/society/taiwan-low-birth-rate-crisis) — Birth numbers crashed from 420,000 to 160,000, how the cake gets smaller year by year
+- [Taiwan Unification-Independence Spectrum](/ko/society/taiwan-unification-independence-spectrum) — The full picture of the identity watershed, from "Who am I" to "Where to go"
+- [MySpace (WuMing XiaoZhan)](/ko/culture/wretch) — The digital server of 7th graders' youth, shut down in 2013, appeared again on Threads in 2025
 
 ## Image Sources
 

@@ -132,8 +132,8 @@ GitHub에서 Taiwan으로 표기한 사용자는 44,408명이다(2026년 3월 �
 
 ## 더 읽기
 
-- [오픈소스 커뮤니티와 g0v](/technology/開源社群與g0v) — 정부를 fork하는 집단 서사
-- [대만 온라인 커뮤니티 이주사](/technology/台灣網路社群遷徙史) — BBS에서 Discord까지의 세대사
-- [Mini Taiwan Pulse](/technology/mini-taiwan-pulse) — 시민기술의 개인적 오픈소스 실천, 6주간 193건의 커밋으로 개방 데이터를 3D 광궤로 변환
-- [대우쌍검(大宇雙劍)](/technology/大宇雙劍) — "열정으로 규모를 초월하는 것을 만들어내는" 또 다른 대만 이야기 (광화시장에서 구른 RPG)
-- [지하 술집에 들어가지 않고 어찌 잠을 자겠는가](/technology/不入地窖焉能睡覺) — 중앙대학교 기숙사에서 자란 600만 회원 플레이어 커뮤니티
+- [오픈소스 커뮤니티와 g0v](/ko/technology/open-source-and-g0v) — 정부를 fork하는 집단 서사
+- [대만 온라인 커뮤니티 이주사](/ko/technology/taiwan-online-community-migration) — BBS에서 Discord까지의 세대사
+- [Mini Taiwan Pulse](/ko/technology/mini-taiwan-pulse-civic-tech) — 시민기술의 개인적 오픈소스 실천, 6주간 193건의 커밋으로 개방 데이터를 3D 광궤로 변환
+- [대우쌍검(大宇雙劍)](/ko/technology/softstar-twin-classics) — "열정으로 규모를 초월하는 것을 만들어내는" 또 다른 대만 이야기 (광화시장에서 구른 RPG)
+- [지하 술집에 들어가지 않고 어찌 잠을 자겠는가](/ko/technology/into-the-cellar-taiwan-game-podcast) — 중앙대학교 기숙사에서 자란 600만 회원 플레이어 커뮤니티

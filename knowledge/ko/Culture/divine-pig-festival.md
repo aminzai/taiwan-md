@@ -105,11 +105,11 @@ featured: false
 
 ## 더 읽어보기
 
-- **[하카 문화와 언어](/culture/客家文化與語言)** — 하카 민족의 역사와 신앙의 뿌리, 의민 신앙의 문화적 토양
-- **[타이완 사당 굿과 진두 문화](/culture/台灣廟會與陣頭文化)** — 타이완 민간 신앙의 축제 실천과 공동체 동원
-- **[타이완 종교와 사당 문화](/culture/台灣宗教與寺廟文化)** — 신돼지 제사가 이루어지는 민간 신앙의 맥락
-- **[전통 명절과 축제](/culture/傳統節慶與慶典)** — 의민제, 음력 명절의 제사 문화 전경
-- **[민족 집단(민남·하카·원주민·외성인·신거주민)](/culture/族群（閩南客家原住民外省新住民）)** — 민남·하카 민족의 문화적 실천 차이와 융합
+- **[하카 문화와 언어](/ko/culture/hakka-culture-and-language)** — 하카 민족의 역사와 신앙의 뿌리, 의민 신앙의 문화적 토양
+- **[타이완 사당 굿과 진두 문화](/ko/culture/taiwan-temple-festivals-and-performance-troupes)** — 타이완 민간 신앙의 축제 실천과 공동체 동원
+- **[타이완 종교와 사당 문화](/ko/culture/taiwan-religion-and-temple-culture)** — 신돼지 제사가 이루어지는 민간 신앙의 맥락
+- **[전통 명절과 축제](/ko/culture/traditional-festivals-and-celebrations)** — 의민제, 음력 명절의 제사 문화 전경
+- **[민족 집단(민남·하카·원주민·외성인·신거주민)](/ko/culture/ethnic-groups)** — 민남·하카 민족의 문화적 실천 차이와 융합
 
 ## 참고 자료
 

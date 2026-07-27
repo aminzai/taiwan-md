@@ -57,7 +57,7 @@ translatedAt: 2026-05-09T11:09:57+08:00
 
 마타안 사람들에게 바라가오는 땅과 대화하는 방식이다. 그것은 우리에게 일깨워 준다: 인간이 자연에게 취하기 전에 먼저 베풀어야 한다는 것[^16]. 물고기의 집이 있는 한, 하천의 생명력은 고갈되지 않을 것이다. 자연과 공존하는 이 지혜는 현대 환경 교육과 생태 관광을 통해 지속적으로 세계에 그 깊은 영향력을 전하고 있다[^17][^18].
 
-**더 읽기**: [대만 원주민 생태 지혜와 환경 보전](/ko/Nature/taiwanese-indigenous-ecological-wisdom-conservation/) ｜ [도서(離島)와 해양 문화](/ko/Geography/offshore-islands-and-maritime-culture/)
+**더 읽기**: [대만 원주민 생태 지혜와 환경 보전](/ko/nature/taiwanese-indigenous-ecological-wisdom-conservation/) ｜ [도서(離島)와 해양 문화](/ko/geography/offshore-islands-and-maritime-culture/)
 
 ## 참고 문헌
 

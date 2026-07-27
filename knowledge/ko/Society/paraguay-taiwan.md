@@ -102,10 +102,10 @@ imageSource: 'https://www.president.gov.tw/NEWS/20543'
 
 **더 읽기:**
 
-- [대만 수교국과 국제 외교](/society/台灣邦交國與國際外交) — 12개 수교국, 해외 거점 및 무비자 네트워크의 전경
-- [대만와 에스와티니](/society/台灣與史瓦帝尼) — 아프리카 유일 수교국, 또 다른 "장기 협력과 취약한 정치" 사례
-- [인지전](/society/認知作戰) — 대만에 대한 중국의 외교전에 대한 정보, 언어 및 압력 운영 프레임워크
-- [2026 정시회와 국공 10년 재회](/society/2026鄭習會與國共十年再會) — 같은 시기 양안 정치 동향, 대만에 대한 중국의 압박이라는 더 큰 맥락 이해
+- [대만 수교국과 국제 외교](/ko/society/taiwan-diplomatic-allies-and-international-relations) — 12개 수교국, 해외 거점 및 무비자 네트워크의 전경
+- [대만와 에스와티니](/ko/society/taiwan-eswatini-relations) — 아프리카 유일 수교국, 또 다른 "장기 협력과 취약한 정치" 사례
+- [인지전](/ko/society/cognitive-warfare-against-taiwan) — 대만에 대한 중국의 외교전에 대한 정보, 언어 및 압력 운영 프레임워크
+- [2026 정시회와 국공 10년 재회](/ko/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — 같은 시기 양안 정치 동향, 대만에 대한 중국의 압박이라는 더 큰 맥락 이해
 
 ## 이미지 출처
 

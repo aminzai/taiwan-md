@@ -106,11 +106,11 @@ lastHumanReview: true
 
 **더 읽기**：
 
-- [대만 산림 생태계](/nature/台灣森林生態系) — 녹나무 활엽수림에서 냉삼 침엽수림까지, 해발에 따른 수직 생태대 완전 가이드
-- [대만 고산 생태계와 빙하기 유존 종](/nature/台灣高山生態系與冰河孑遺) — 3천 미터 이상 고산 초원과 빙하기에 남겨진 유존 종
-- [대만 국립공원](/nature/台灣國家公園) — 위산·설파·타이루거 3개 고산형 국립공원의 관리와 보전
-- [대만 탐방로 문화와 시민 보호](/nature/台灣步道文化與公民守護) — 흔적 없는 산림 운동과 시민 참여 탐방로 유지·보수의 현장
-- [대만 원주민 생태 지혜와 환경 보전](/nature/台灣原住民生態智慧與環境保育) — 수천 년의 산림 지혜가 어떻게 현대 보전과 대화하는가
+- [대만 산림 생태계](/ko/nature/taiwan-forest-ecosystems) — 녹나무 활엽수림에서 냉삼 침엽수림까지, 해발에 따른 수직 생태대 완전 가이드
+- [대만 고산 생태계와 빙하기 유존 종](/ko/nature/taiwan-alpine-ecosystems-glacial-relicts) — 3천 미터 이상 고산 초원과 빙하기에 남겨진 유존 종
+- [대만 국립공원](/ko/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — 위산·설파·타이루거 3개 고산형 국립공원의 관리와 보전
+- [대만 탐방로 문화와 시민 보호](/ko/nature/trail-culture-and-civic-stewardship) — 흔적 없는 산림 운동과 시민 참여 탐방로 유지·보수의 현장
+- [대만 원주민 생태 지혜와 환경 보전](/ko/nature/taiwanese-indigenous-ecological-wisdom-conservation) — 수천 년의 산림 지혜가 어떻게 현대 보전과 대화하는가
 
 ## 참고 자료
 

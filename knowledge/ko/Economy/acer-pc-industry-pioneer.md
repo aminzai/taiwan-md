@@ -187,11 +187,11 @@ _TEDxTaipei 공식 채널, 2012년: 스진융 〈왕도와 공동창조 및 공�
 
 **延伸阅读**:
 
-- [施振荣](/people/施振榮) — 画出微笑曲线、两度回锅救火的아세르创始人,从科技教父到专做社会公益
-- [台湾企业:纬创资通](/economy/台灣企業：緯創資通) — 大分家时最不被看好的代工小弟,AI时代爬到微笑曲线顶端的那一家
-- [台湾企业:华硕](/economy/台灣企業：華碩) — 2008年才切出和硕、走另一条分家路的对照组,如今市值反超아세르
-- [Computex: 三大国际电脑展收了两个,剩下的那个长在台北](/technology/Computex) — 아세르三十年浮沉的同一个舞台,也是台湾制造业的年度主场
-- [台湾产业转型升级](/economy/台灣產業轉型升級) — 从代工中段往两端爬,是不是唯一的路?微笑曲线之后的整个大命题
+- [施振荣](/ko/people/stan-shih) — 画出微笑曲线、两度回锅救火的아세르创始人,从科技教父到专做社会公益
+- [台湾企业:纬创资通](/ko/economy/wistron-global-manufacturing-transformation-pioneer) — 大分家时最不被看好的代工小弟,AI时代爬到微笑曲线顶端的那一家
+- [台湾企业:华硕](/ko/economy/asus-computer) — 2008年才切出和硕、走另一条分家路的对照组,如今市值反超아세르
+- [Computex: 三大国际电脑展收了两个,剩下的那个长在台北](/ko/technology/computex-taipei) — 아세르三十年浮沉的同一个舞台,也是台湾制造业的年度主场
+- [台湾产业转型升级](/ko/economy/industrial-transformation-from-manufacturing-to-innovation) — 从代工中段往两端爬,是不是唯一的路?微笑曲线之后的整个大命题
 
 ## 图片来源
 

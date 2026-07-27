@@ -64,8 +64,8 @@ author: 'Taiwan.md Contributors'
 
 ## 추가 독서
 
-- [대만 편의점 문화](/lifestyle/台灣便利商店文化) — 편의점이 어떻게 대만의 공공 기반 시설이 되었는가
-- [복권(發票)](/economy/發票) — 통일 복권과 편의점 수거의 일상 경제
+- [대만 편의점 문화](/ko/lifestyle/convenience-store-culture) — 편의점이 어떻게 대만의 공공 기반 시설이 되었는가
+- [복권(發票)](/ko/economy/taiwan-uniform-invoice) — 통일 복권과 편의점 수거의 일상 경제
 
 ## 참고 자료
 

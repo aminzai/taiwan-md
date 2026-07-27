@@ -122,9 +122,9 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 
 ## 더 읽기
 
-- [대만 발효 식품과 절임 문화](/food/台灣發酵食品與醃製文化): 대만 절임 식품의 과학과 문화
-- [차 문화](/food/茶文化): 대만 차 문화의 발전 맥락
-- [대만 소식](/food/台灣小吃): 대만 다양한 소식 문화
+- [대만 발효 식품과 절임 문화](/ko/food/taiwan-fermented-and-pickled-foods): 대만 절임 식품의 과학과 문화
+- [차 문화](/ko/food/golden-age-echoes-taiwan-tea-culture): 대만 차 문화의 발전 맥락
+- [대만 소식](/ko/food/taiwanese-street-food): 대만 다양한 소식 문화
 
 ## 참고 자료
 

@@ -251,11 +251,11 @@ difficulty: 'beginner'
 
 ## 더 읽기
 
-- [왕치린과 리양(린양페이)](/ko/People/golden-duo-chi-lin-yang/) — 두 중학교 동창이 34분 만에 타이완 배드민턴사를 어떻게 바꾸었는가
-- [타이쯔잉](/ko/People/tai-tzu-ying/) — 린양페이와 함께 타이완 배드민턴 황금 세대를 이끈 여자단식 세계 랭킹 1위
-- [곽셩춘](/people/郭婞淳) — 도쿄올림픽 역도 금메달리스트, 타이완 올림픽 황금 세대의 또 다른 대표 얼굴
-- [타이완 민주 전환](/history/台灣民主轉型) — 체육운동부가 2025년에야 체육청에서 부로 승격된 이유를 설명한다
-- [라이칭더](/ko/People/lai-ching-te/) — 리양이 취임 선서를 했을 때 주관한 대통령, 민진당 넷째 집권 대통령
+- [왕치린과 리양(린양페이)](/ko/people/golden-duo-chi-lin-yang/) — 두 중학교 동창이 34분 만에 타이완 배드민턴사를 어떻게 바꾸었는가
+- [타이쯔잉](/ko/people/tai-tzu-ying/) — 린양페이와 함께 타이완 배드민턴 황금 세대를 이끈 여자단식 세계 랭킹 1위
+- [곽셩춘](/ko/people/kuo-hsing-chun-olympic-weightlifting-champion) — 도쿄올림픽 역도 금메달리스트, 타이완 올림픽 황금 세대의 또 다른 대표 얼굴
+- [타이완 민주 전환](/ko/history/taiwan-democratization) — 체육운동부가 2025년에야 체육청에서 부로 승격된 이유를 설명한다
+- [라이칭더](/ko/people/lai-ching-te/) — 리양이 취임 선서를 했을 때 주관한 대통령, 민진당 넷째 집권 대통령
 
 ## 참고 문헌
 

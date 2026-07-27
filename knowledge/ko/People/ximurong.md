@@ -79,14 +79,20 @@ translatedAt: 2026-05-17T05:34:52+08:00
 ## 참고 문헌
 
 [^1]: [국립 대만 사범대학 미술학과](https://www.ntnu.edu.tw/art/) — 대만 사대 미술학과 설립 배경과 동문 정보.
+
 [^2]: [브뤼셀 왕립 예술 아카데미(Académie Royale des Beaux-Arts)](https://www.arba-esi.be/) — 시무용의 유학 기관, 벨기에 국립 예술 아카데미.
+
 [^3]: [국립 대만 문학관 — 시무용 특별전](https://www.nmtl.gov.tw/) — 《칠리향》 출간 및 재판 기록, 시집 판매 데이터 및 전시 자료 포함.
+
 [^4]: [대만 전자도서 연합 — 시무용 작품 페이지](https://www.taaze.tw/) — 《무원의 청춘》 초판 자료 및 출간 연도 확인.
+
 [^5]: [몽장 문화관 — 시무용의 몽골 문학 창작](https://www.mtac.gov.tw/) — 정부 기관의 시무용 몽골 문학 창작에 대한 특별 소개.
+
 [^6]: [시무용 공식 웹사이트](http://www.ximurong.tw) — 시인 공식 웹사이트, 작품 정보, 회화전 기록 및 창작 과정 수록.
+
 [^7]: [국가 문예상 — 국가 문화 예술 재단](https://www.ncafroc.org.tw/) — 시무용 수상 기록 및 심사 설명.
 
 ## 더 읽을거리
 
 - [국립 대만 문학관](https://www.nmtl.gov.tw/) — 대만 문학관이 소장한 시무용 작품과 유물
-- [백선용](/ko/People/pai-hsien-yung-literary-master/) — 같은 시대의 대만 문학가, 《타이베이 사람》으로 유명
+- [백선용](/ko/people/pai-hsien-yung-literary-master/) — 같은 시대의 대만 문학가, 《타이베이 사람》으로 유명

@@ -148,12 +148,12 @@ LINE 이용약관 4.7조는 이 논리를 매우 노골적으로 쓰고 있다: 
 
 ## 더 읽기
 
-- [우밍샤오잔——남이 끌 수 있는 서버에 두고 온 청춘](/ko/Culture/wretch/)
-- [PTT 비티——학술망에서 자란 도시국가](/ko/Technology/ptt-bulletin-board-system/)
-- [Facebook in Taiwan](/ko/Technology/facebook-in-taiwan/)
-- [Threads in Taiwan——脆와 11분 31초](/ko/Technology/threads-in-taiwan/)
-- [Instagram in Taiwan](/ko/Technology/instagram-in-taiwan/)
-- [Miin——2026년 「走了走了我們去 miin」의 피난처](/ko/Technology/miin-music-app/)
+- [우밍샤오잔——남이 끌 수 있는 서버에 두고 온 청춘](/ko/culture/wretch/)
+- [PTT 비티——학술망에서 자란 도시국가](/ko/technology/ptt-bulletin-board-system/)
+- [Facebook in Taiwan](/ko/technology/facebook-in-taiwan/)
+- [Threads in Taiwan——脆와 11분 31초](/ko/technology/threads-in-taiwan/)
+- [Instagram in Taiwan](/ko/technology/instagram-in-taiwan/)
+- [Miin——2026년 「走了走了我們去 miin」의 피난처](/ko/technology/miin-music-app/)
 
 ---
 

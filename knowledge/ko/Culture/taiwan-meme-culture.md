@@ -92,13 +92,13 @@ translatedAt: '2026-07-24T22:03:24+08:00'
 
 ## 더 읽을거리
 
-- [PTT批踢踢](/technology/PTT批踢踢) — 타이완 대부분의 밈과 향민 문화의 발원지
+- [PTT批踢踢](/ko/technology/ptt-bulletin-board-system) — 타이완 대부분의 밈과 향민 문화의 발원지
 
-- [마잉주 밈](/society/馬英九迷因) — 정치인의 밈화된 고전 사례 연구
+- [마잉주 밈](/ko/society/ma-ying-jeou-meme) — 정치인의 밈화된 고전 사례 연구
 
-- [노년층 이미지(長輩圖)](/culture/長輩圖) — 타이완 특색을 지닌 또 다른 인터넷 전파 경로
+- [노년층 이미지(長輩圖)](/ko/culture/elder-greeting-images) — 타이완 특색을 지닌 또 다른 인터넷 전파 경로
 
-- [타이완 VTuber](/culture/台灣VTuber) — 가상 캐릭터와 밈 문화의 현대적 융합
+- [타이완 VTuber](/ko/culture/taiwan-vtuber) — 가상 캐릭터와 밈 문화의 현대적 융합
 
 ---
 

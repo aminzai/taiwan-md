@@ -169,14 +169,14 @@ This is not hatred; it is a ledger. The day White Terror ends will not be the da
 
 **Further Reading**:
 
-- [Taiwan's Democratic Transition](/history/台灣民主轉型) — The full picture of the forty-year transition from martial law to Asia's most free democratic system
-- [Martial Law Period](/history/戒嚴時期) — The legal container of 38 years and 56 days and the process of lifting martial law
-- [Taiwan's Transitional Justice](/history/台灣轉型正義) — The unfinished business of truth-seeking and holding perpetrators accountable after the lifting of martial law
-- [국가인권박물관](/history/國家人權博物館) — 경미(景美)와 녹도(綠島) 두 백색공포 기념공원의 운영 기관, 6년 준비 끝에 개관하여 2025년 예산 동결 위기까지
-- [February 28 Incident](/history/二二八事件) — The prelude to White Terror: how the 1947 suppression foreshadowed the martial law regime
-- [Beautiful Island Incident](/history/美麗島事件) — A key turning point in the late White Terror period in 1979
-- [Alishan: The Empire's Forest Plantation and Gao Yi-sheng's Mountain](/history/阿里山：帝國的林場與高一生的山) — The story of Gao Yi-sheng's mountain and the silenced ethnic group
-- [Yin Haiguang](/people/殷海光) — The National Taiwan University philosophy professor confined to No. 18 Wenzhou Street after the 1960 Lei Zhen case, the founder of Taiwan's liberalism
+- [Taiwan's Democratic Transition](/ko/history/taiwan-democratization) — The full picture of the forty-year transition from martial law to Asia's most free democratic system
+- [Martial Law Period](/ko/history/martial-law-era) — The legal container of 38 years and 56 days and the process of lifting martial law
+- [Taiwan's Transitional Justice](/ko/history/taiwan-transitional-justice) — The unfinished business of truth-seeking and holding perpetrators accountable after the lifting of martial law
+- [국가인권박물관](/ko/history/national-human-rights-museum) — 경미(景美)와 녹도(綠島) 두 백색공포 기념공원의 운영 기관, 6년 준비 끝에 개관하여 2025년 예산 동결 위기까지
+- [February 28 Incident](/ko/history/228-incident) — The prelude to White Terror: how the 1947 suppression foreshadowed the martial law regime
+- [Beautiful Island Incident](/ko/history/kaohsiung-incident-formosa-incident) — A key turning point in the late White Terror period in 1979
+- [Alishan: The Empire's Forest Plantation and Gao Yi-sheng's Mountain](/ko/history/alishan-empire-forest-and-uongu-yatauyungana) — The story of Gao Yi-sheng's mountain and the silenced ethnic group
+- [Yin Haiguang](/ko/people/yin-haiguang-liberalism-philosopher) — The National Taiwan University philosophy professor confined to No. 18 Wenzhou Street after the 1960 Lei Zhen case, the founder of Taiwan's liberalism
 
 ## References
 

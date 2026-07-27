@@ -130,9 +130,9 @@ translatedAt: '2026-05-01T22:19:01+08:00'
 
 ## 더 읽기
 
-- [대만 게임 산업과 디지털 엔터테인먼트](/technology/台灣遊戲產業與數位娛樂) — 라이선스에서 오리지널까지, 대만 게임의 전경
-- [대우 쌍검](/technology/大宇雙劍) — 대만 싱글플레이어 RPG의 감성적 계몽, 전설 인터넷의 이전 시대
-- [지하 술집에 들어가지 않고 어떻게 잠을 자겠는가](/technology/不入地窖焉能睡覺) — 대만 게임 커뮤니티 30년
+- [대만 게임 산업과 디지털 엔터테인먼트](/ko/technology/taiwan-gaming-industry) — 라이선스에서 오리지널까지, 대만 게임의 전경
+- [대우 쌍검](/ko/technology/softstar-twin-classics) — 대만 싱글플레이어 RPG의 감성적 계몽, 전설 인터넷의 이전 시대
+- [지하 술집에 들어가지 않고 어떻게 잠을 자겠는가](/ko/technology/into-the-cellar-taiwan-game-podcast) — 대만 게임 커뮤니티 30년
 
 ---
 

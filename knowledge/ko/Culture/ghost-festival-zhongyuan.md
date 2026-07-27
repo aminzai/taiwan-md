@@ -69,8 +69,8 @@ translatedAt: '2026-07-23T23:06:50+08:00'
 
 ## 심화 학습
 
-- [음력 7월](/culture/農曆七月) — 귀신이 들끓는 달의 사회적 리듬
-- [단오절(端午節)](/culture/端午節) — 축제 도구들이 대만에서 현지화되는 과정
+- [음력 7월](/ko/culture/lunar-july-ghost-month) — 귀신이 들끓는 달의 사회적 리듬
+- [단오절(端午節)](/ko/culture/dragon-boat-festival) — 축제 도구들이 대만에서 현지화되는 과정
 
 ## 참고 자료
 

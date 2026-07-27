@@ -169,7 +169,7 @@ lastHumanReview: false
 
 ## 관련 주제
 
-- [계엄 시기](/history/戒嚴時期): 민주화 이전 38년간의 권위주의 통치
-- [타이완 백색테러](/history/台灣白色恐怖): 14만 명이 정치적 탄압을 받은 역사
-- [2·28 사건](/history/二二八事件): 전후 타이완 정치적 트라우마의 출발점
-- [타이완 선거와 정당 정치](/history/台灣選舉與政黨政治): 민주화 이후 선거 제도의 변천
+- [계엄 시기](/ko/history/martial-law-era): 민주화 이전 38년간의 권위주의 통치
+- [타이완 백색테러](/ko/history/taiwan-white-terror): 14만 명이 정치적 탄압을 받은 역사
+- [2·28 사건](/ko/history/228-incident): 전후 타이완 정치적 트라우마의 출발점
+- [타이완 선거와 정당 정치](/ko/history/taiwan-elections-and-party-politics): 민주화 이후 선거 제도의 변천

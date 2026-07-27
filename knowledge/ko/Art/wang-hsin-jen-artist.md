@@ -147,11 +147,11 @@ NFT 시장은 2022년 하반기에 붕괴되었고, 2023~2024년 전체 Web3 아
 
 ## 더 읽기
 
-- **[FAB DAO와 백악계획](/art/FAB%20DAO與百岳計畫)** — 왕신인이 참여한 여섯 명의 공익 NFT 계획, 백악의 완전한 생태적 맥락 이해
-- **[오철우](/people/吳哲宇)** — 백악계획 국제 그룹 아티스트, FAB DAO 공동 창립자, Art Blocks Project Electriz에서 베니스 비엔날레까지
-- **[대만 신미디어 예술](/art/台灣新媒體藝術)** — 황심건, 원광명에서 왕신인까지, 대만 신미디어 예술 40년의 완전한 계보
-- **[대만 현대 예술](/art/當代藝術)** — 대만 현대 예술사에서 제너러티브 아트의 위치와 좌표
-- **[왕연성(하바)](/art/王連晟)** — 백악계획 동일 그룹 사운드 장치 아티스트, 2017년 Lumen Prize 3D/Sculpture Award 수상자(작품 《독서계획》 Reading Plan)
+- **[FAB DAO와 백악계획](/ko/art/fab-dao)** — 왕신인이 참여한 여섯 명의 공익 NFT 계획, 백악의 완전한 생태적 맥락 이해
+- **[오철우](/ko/people/che-yu-wu)** — 백악계획 국제 그룹 아티스트, FAB DAO 공동 창립자, Art Blocks Project Electriz에서 베니스 비엔날레까지
+- **[대만 신미디어 예술](/ko/art/taiwan-new-media-art)** — 황심건, 원광명에서 왕신인까지, 대만 신미디어 예술 40년의 완전한 계보
+- **[대만 현대 예술](/ko/art/contemporary-art)** — 대만 현대 예술사에서 제너러티브 아트의 위치와 좌표
+- **[왕연성(하바)](/ko/art/wang-lien-cheng-artist)** — 백악계획 동일 그룹 사운드 장치 아티스트, 2017년 Lumen Prize 3D/Sculpture Award 수상자(작품 《독서계획》 Reading Plan)
 
 ## 참고 자료
 

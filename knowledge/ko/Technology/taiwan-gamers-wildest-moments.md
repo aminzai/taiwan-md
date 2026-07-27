@@ -143,11 +143,11 @@ TPA는 3대 1로 월드 챔피언을 차지했다. 상금 100만 달러, 약 3,0
 
 ## 더 읽기
 
-- [대만 게임 산업과 디지털 엔터테인먼트](/technology/台灣遊戲產業與數位娛樂) — 대리 운영에서 자체 개발까지, 대만 게임의 전경
-- [대만 편의점 문화](/lifestyle/台灣便利商店文化) — 물류 차량을 쫓기 위한 전제 조건: 세계 2위의 편의점 밀도
-- [대만 온라인 커뮤니티 이주사](/technology/台灣網路社群遷徙史) — 이 광적인 순간들이 퍼져나간 메시지 전파의 인프라
-- [대우 쌍검](/technology/大宇雙劍) — 한 세대 앞선 대만 게이머들의 감성 입문
-- [지하 전당에 들어가지 않고 어찌 잠을 자리오](/technology/不入地窖焉能睡覺) — 이 광적인 순간들이 펼쳐진 커뮤니티 플랫폼의 무대
+- [대만 게임 산업과 디지털 엔터테인먼트](/ko/technology/taiwan-gaming-industry) — 대리 운영에서 자체 개발까지, 대만 게임의 전경
+- [대만 편의점 문화](/ko/lifestyle/convenience-store-culture) — 물류 차량을 쫓기 위한 전제 조건: 세계 2위의 편의점 밀도
+- [대만 온라인 커뮤니티 이주사](/ko/technology/taiwan-online-community-migration) — 이 광적인 순간들이 퍼져나간 메시지 전파의 인프라
+- [대우 쌍검](/ko/technology/softstar-twin-classics) — 한 세대 앞선 대만 게이머들의 감성 입문
+- [지하 전당에 들어가지 않고 어찌 잠을 자리오](/ko/technology/into-the-cellar-taiwan-game-podcast) — 이 광적인 순간들이 펼쳐진 커뮤니티 플랫폼의 무대
 
 ---
 

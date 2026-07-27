@@ -204,11 +204,11 @@ NMTH는 제도 차원의 두께를 제공한다. 입법으로 부여된 전장 �
 
 **더 읽을거리**:
 
-- [타이완 섬 역사관](/history/台灣島史觀) — 1990년 차오융허의 논문이 「섬을 주체로 삼는」 역사 틀을 정의했으며, NMTH는 이 역사관의 전시적 실천이다
-- [세 외국인이 본 을미](/history/三個外國人看乙未) — 1895년 Davidson, 엔도 마코토, 호소카와 류의 사료. NMTH가 출판한 을미 총서 세 권에 수록
-- [19세기의 장뇌 전쟁](/history/19世紀的樟腦戰爭) — 스윈호의 1864년 장뇌 조사 보고서. NMTH 전장망이 1차 사료를 소장
-- [네덜란드·스페인·명정 시기](/history/荷西明鄭時期) — NMTH 상설전 제3전시구역 「바다에 기대어 살아온 섬과 사람」과 「1624를 넘어서」 특별전의 모티프
-- [포르모사](/history/福爾摩沙) — Davidson의 《포르모사섬의 과거와 현재》 중국어 번역판은 NMTH가 출판
+- [타이완 섬 역사관](/ko/history/taiwan-island-historiography) — 1990년 차오융허의 논문이 「섬을 주체로 삼는」 역사 틀을 정의했으며, NMTH는 이 역사관의 전시적 실천이다
+- [세 외국인이 본 을미](/ko/history/three-foreigners-witness-1895-taiwan) — 1895년 Davidson, 엔도 마코토, 호소카와 류의 사료. NMTH가 출판한 을미 총서 세 권에 수록
+- [19세기의 장뇌 전쟁](/ko/history/19th-century-camphor-wars) — 스윈호의 1864년 장뇌 조사 보고서. NMTH 전장망이 1차 사료를 소장
+- [네덜란드·스페인·명정 시기](/ko/history/dutch-spanish-and-koxinga-era) — NMTH 상설전 제3전시구역 「바다에 기대어 살아온 섬과 사람」과 「1624를 넘어서」 특별전의 모티프
+- [포르모사](/ko/history/formosa-historical-name) — Davidson의 《포르모사섬의 과거와 현재》 중국어 번역판은 NMTH가 출판
 
 ## 이미지 출처
 

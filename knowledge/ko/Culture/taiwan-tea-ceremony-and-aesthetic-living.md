@@ -129,6 +129,6 @@ difficulty: 'beginner'
 
 ## 관련 글
 
-- [대만 차 문화](/culture/台灣茶文化) - 차 품종·산지 심층 가이드
-- [전통 명절과 축제](/culture/傳統節慶與慶典) - 명절 속 차의 역할
-- [하카 문화와 언어](/culture/客家文化與語言) - 동방미인차와 하카 차향(茶鄉)의 연결
+- [대만 차 문화](/ko/culture/taiwanese-tea-culture-and-living-aesthetics) - 차 품종·산지 심층 가이드
+- [전통 명절과 축제](/ko/culture/traditional-festivals-and-celebrations) - 명절 속 차의 역할
+- [하카 문화와 언어](/ko/culture/hakka-culture-and-language) - 동방미인차와 하카 차향(茶鄉)의 연결

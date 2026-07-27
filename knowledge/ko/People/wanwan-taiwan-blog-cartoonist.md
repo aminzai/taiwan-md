@@ -227,8 +227,8 @@ _완완(후자웨이). — Photo: chungkeng ryu / Wikimedia Commons, CC BY-SA 2.
 
 **더 읽을거리**:
 
-- [우밍샤오잔: Facebook보다 앞섰던 타이완 소셜 플랫폼](/culture/無名小站)
-- [타이완 인터넷 커뮤니티 이동사](/technology/台灣網路社群遷徙史)
-- [타이완 밈](/culture/台灣迷因)
-- [Dcard](/culture/Dcard)
-- [양청린](/people/楊丞琳)
+- [우밍샤오잔: Facebook보다 앞섰던 타이완 소셜 플랫폼](/ko/culture/wretch)
+- [타이완 인터넷 커뮤니티 이동사](/ko/technology/taiwan-online-community-migration)
+- [타이완 밈](/ko/culture/taiwan-meme-culture)
+- [Dcard](/ko/culture/dcard-taiwan-social-platform)
+- [양청린](/ko/people/rainie-yang)

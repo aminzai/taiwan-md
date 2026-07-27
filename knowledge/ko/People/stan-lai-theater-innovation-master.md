@@ -109,4 +109,4 @@ translatedAt: '2026-05-16T05:07:55+08:00'
 ## 더 읽기
 
 - [공작공방](http://www.pw-theatre.com/) — 라이성천이 창립한 극단 공식 웹사이트, 역대 작품 및 티켓 정보 포함
-- [《암련도원화》](/people/賴聲川) — 중화어 연극의 고전적 작품
+- [《암련도원화》](/ko/people/stan-lai-theater-innovation-master) — 중화어 연극의 고전적 작품

@@ -112,6 +112,6 @@ lastHumanReview: false
 
 관련 읽을거리:
 
-- [네덜란드·스페인·정씨 왕조 시대](/history/荷西明鄭時期)
-- [청 통치 시대](/history/清治時期)
-- [타이완 해안 지형과 해양 경관](/geography/台灣海岸地形與海洋地景)
+- [네덜란드·스페인·정씨 왕조 시대](/ko/history/dutch-spanish-and-koxinga-era)
+- [청 통치 시대](/ko/history/qing-dynasty-rule)
+- [타이완 해안 지형과 해양 경관](/ko/geography/taiwan-coastal-landforms-and-seascapes)

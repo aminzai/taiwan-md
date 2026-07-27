@@ -85,7 +85,7 @@ translatedAt: '2026-05-18T05:08:08+08:00'
 
 광시성 구이린에서 타이베이 신공원으로, 《현대문학》에서 쑤저우 곤극원(蘇州崑劇院)까지, 파이셩용의 60년 궤적은 「기억」이라는 것을 끝내 놓지 않은 한 사람의 표본이다.
 
-**더 읽기:** [파이셩용 — 위키백과](https://zh.wikipedia.org/wiki/白先勇) ｜ [국가문예상: 파이셩용 수상 기록](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [국립대만문학관](https://www.nmtl.gov.tw/) ｜ [산마오(三毛)](/People/三毛): 파이셩용이 그녀의 데뷔작 〈혼(惑)〉을 《현대문학》에 추천 게재함
+**더 읽기:** [파이셩용 — 위키백과](https://zh.wikipedia.org/wiki/白先勇) ｜ [국가문예상: 파이셩용 수상 기록](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [국립대만문학관](https://www.nmtl.gov.tw/) ｜ [산마오(三毛)](/ko/people/san-mao): 파이셩용이 그녀의 데뷔작 〈혼(惑)〉을 《현대문학》에 추천 게재함
 
 ## 참고 문헌
 

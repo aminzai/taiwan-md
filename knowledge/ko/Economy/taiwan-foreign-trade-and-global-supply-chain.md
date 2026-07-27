@@ -282,7 +282,7 @@ ECFA 조기수확 목록은 여러 항목의 관세를 낮춰 대만의 대중�
 
 ## 더 읽을거리
 
-- [대만의 중소기업과 히든 챔피언](/economy/台灣中小企業與隱形冠軍)
-- [대만 농업과 농촌 재생](/economy/台灣農業與農村再生)
-- [스타트업 생태계](/economy/新創生態系)
-- [대만 기업: 폭스콘 정밀](/economy/台灣企業：鴻海精密) — 24개국 90만 명의 글로벌 배치는 대만 제조업 초국경 거버넌스의 최대 실험장
+- [대만의 중소기업과 히든 챔피언](/ko/economy/taiwan-smes-and-hidden-champions)
+- [대만 농업과 농촌 재생](/ko/economy/taiwan-agriculture-and-rural-revitalization)
+- [스타트업 생태계](/ko/economy/taiwan-startup-ecosystem-overview)
+- [대만 기업: 폭스콘 정밀](/ko/economy/foxconn-precision-industry) — 24개국 90만 명의 글로벌 배치는 대만 제조업 초국경 거버넌스의 최대 실험장

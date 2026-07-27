@@ -92,7 +92,7 @@ translatedAt: '2026-05-16T05:07:55+08:00'
 
 ## 문학적 성취와 역사적 위치
 
-대만 문학사에서 천잉전의 위치는 높다. 그는 [바이셴융](/ko/People/pai-hsien-yung-literary-master/), [황춘밍](/ko/People/huang-chun-ming-taiwanese-literary-master/), 왕전허 등과 함께 대만 현대문학의 중요한 진용을 구성했다. 다른 점이 있다면, [바이셴융](/ko/People/pai-hsien-yung-literary-master/)이 도시 지식인의 정신세계를 주목했고 [황춘밍](/ko/People/huang-chun-ming-taiwanese-literary-master/)이 소시민의 생활 정취를 묘사했다면, 천잉전이 주목한 것은 사회 전체의 구조적 문제였다는 점이다.
+대만 문학사에서 천잉전의 위치는 높다. 그는 [바이셴융](/ko/people/pai-hsien-yung-literary-master/), [황춘밍](/ko/people/huang-chun-ming-taiwanese-literary-master/), 왕전허 등과 함께 대만 현대문학의 중요한 진용을 구성했다. 다른 점이 있다면, [바이셴융](/ko/people/pai-hsien-yung-literary-master/)이 도시 지식인의 정신세계를 주목했고 [황춘밍](/ko/people/huang-chun-ming-taiwanese-literary-master/)이 소시민의 생활 정취를 묘사했다면, 천잉전이 주목한 것은 사회 전체의 구조적 문제였다는 점이다.
 
 그의 작품은 강렬한 사회 비판 정신과 깊은 인도주의적 색채를 지니며, 대만 문학에 리얼리즘적 내용을 불어넣었다. 그의 작품 속 인물들은 대체로 하층 민중이지만, 모두 선명한 개성과 깊은 내면세계를 지니고 있으며, 이는 인간성에 대한 작가의 이해를 드러낸다.
 
@@ -136,4 +136,4 @@ translatedAt: '2026-05-16T05:07:55+08:00'
 ## 더 읽을거리
 
 - [대만문학관 — 천잉전](https://www.nmtl.gov.tw/) — 천잉전의 생애, 작품 연표, 원고 소장 자료
-- [바이셴융](/people/白先勇) — 동시대 대만 문학의 명가로, 《타이베이 사람들》로 잘 알려져 있다.
+- [바이셴융](/ko/people/pai-hsien-yung-literary-master) — 동시대 대만 문학의 명가로, 《타이베이 사람들》로 잘 알려져 있다.

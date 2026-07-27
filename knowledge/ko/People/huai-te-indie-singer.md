@@ -138,7 +138,7 @@ On July 31, 2020, she released her first full-length album _A Bedroom of One's O
 Her songwriting method matches the amateur feel of the recording studio: voice memos on her phone record phrases at any time, organized once a month accumulating dozens of audio files, and in three to four hours at Tower's house, she had to piece together a song[^7]. Her English lyrics were not written out of thin air; she would Google strings like "how to name your lover" or "how to call your lover" on her phone,捞 a long list of candidate words back to try singing line by line[^7].
 
 > **📝 Curator's Note**
-> What she did from 2019 to 2020 was a path that many new generation female R&B creators of her generation had walked: writing herself, singing herself, bedroom-level production, releasing lyric videos instead of MVs, releasing on SoundCloud and StreetVoice before going to KKBOX and Spotify. She is on a different branch of the same indie ecosystem as 9m88, Zheng Jingru (deca joins), and later [Hello Nico] creators. The global lo-fi wave was also heating up with Joji (Japanese lo-fi R&B representative) and keshi (Korean Texas bedroom pop representative) at the same time. This Taiwan branch bloomed simultaneously with the global. Refer to the context of [Taiwan Independent Music](/music/台灣獨立音樂) where multiple branches bloom simultaneously.
+> What she did from 2019 to 2020 was a path that many new generation female R&B creators of her generation had walked: writing herself, singing herself, bedroom-level production, releasing lyric videos instead of MVs, releasing on SoundCloud and StreetVoice before going to KKBOX and Spotify. She is on a different branch of the same indie ecosystem as 9m88, Zheng Jingru (deca joins), and later [Hello Nico] creators. The global lo-fi wave was also heating up with Joji (Japanese lo-fi R&B representative) and keshi (Korean Texas bedroom pop representative) at the same time. This Taiwan branch bloomed simultaneously with the global. Refer to the context of [Taiwan Independent Music](/ko/music/indie-music-scene) where multiple branches bloom simultaneously.
 
 In the last few years of her hospital internship, she also wrote a song called "Seh Ah Seh"[^32]. "Seh" is the romanization of the Taiwanese word "xué" (wander). She wrote this song out of boredom while "aimlessly doing the same work" in the hospital corridors, but the lyrics superficially talk about the fatigue of migrant workers alone after work. She turned the boredom of an intern into the loneliness of a migrant worker. This song later became the track she performed live at the Golden Melody Awards[^32].
 
@@ -294,10 +294,10 @@ When she said "please don't be afraid" to the audience at the Golden Melody Awar
 
 ## Further Reading
 
-- [Taiwan Independent Music](/music/台灣獨立音樂) — bedroom pop / lo-fi R&B in the 2019-2020 contemporary ecology
-- [Taiwan Hip Hop and Rap Development](/music/台灣嘻哈與饒舌發展) — her cross-boundary support, organizing the 2025 misogyny debate of She Vibes, placed in the context of Taiwan rap for forty years
-- [Hebe Tien](/people/田馥甄) — Winner of the Female Singer Award at the 32nd Golden Melody Awards, two ends separated by 19 editions of debut qualifications
-- [Chen Jianqi](/people/陳建騏) — Another line in the lineage of contemporary Mandarin pop music producers
+- [Taiwan Independent Music](/ko/music/indie-music-scene) — bedroom pop / lo-fi R&B in the 2019-2020 contemporary ecology
+- [Taiwan Hip Hop and Rap Development](/ko/music/taiwan-hip-hop-and-rap) — her cross-boundary support, organizing the 2025 misogyny debate of She Vibes, placed in the context of Taiwan rap for forty years
+- [Hebe Tien](/ko/people/hebe-tien-singer) — Winner of the Female Singer Award at the 32nd Golden Melody Awards, two ends separated by 19 editions of debut qualifications
+- [Chen Jianqi](/ko/people/chen-chien-chi-music-producer) — Another line in the lineage of contemporary Mandarin pop music producers
 
 ---
 
@@ -347,7 +347,7 @@ When she said "please don't be afraid" to the audience at the Golden Melody Awar
 
 [^25]: [From Medical Student, Golden Melody Newcomer, to Independent Singer-Songwriter - HEAVEN RAVEN Interview](https://www.heavenraven.com/2023/05/15/whyte-music-interview/) — Original words "I even listened to my own song while assisting the attending physician in the operating room. Because basically in the hospital we wear masks, and during internship we change departments once a month".
 
-[^26]: [Hebe Tien - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%94%B0%E9%A6%A5%E7%94%84) — Hebe Tien won Best Mandarin Female Singer Award at 32nd Golden Melody Awards with _Nobody Knows_; Refer to [Hebe Tien Article](/people/田馥甄).
+[^26]: [Hebe Tien - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%94%B0%E9%A6%A5%E7%94%84) — Hebe Tien won Best Mandarin Female Singer Award at 32nd Golden Melody Awards with _Nobody Knows_; Refer to [Hebe Tien Article](/ko/people/hebe-tien-singer).
 
 [^27]: [准-Doc ?te Whyte Inlaid Gold, NTU Professor Snaps Back - UDN Stars](https://stars.udn.com/star/story/10092/5694350) — ⚠️ Link now 404; After winning award in 2021, network once spread a questioning article signed by an "NTU Medical School Professor" asking "Are you confident letting her perform surgery", original source cannot be traced back. This audit downgraded to general statement "network appeared questioning", no longer attributed to specific professor identity.
 

@@ -238,6 +238,6 @@ difficulty: 'beginner'
 
 더 읽어보기:
 
-- [대만의 하천 시스템과 수문 특성](/geography/台灣河川系統與水文特色)
-- [기후](/geography/氣候)
-- [대만의 판 구조 운동과 지진 활동](/geography/台灣板塊運動與地震活動)
+- [대만의 하천 시스템과 수문 특성](/ko/geography/taiwan-river-systems-and-hydrology)
+- [기후](/ko/geography/climate)
+- [대만의 판 구조 운동과 지진 활동](/ko/geography/tectonic-plates-and-seismic-activity)

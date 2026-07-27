@@ -239,8 +239,8 @@ translatedAt: '2026-05-15T13:52:06+08:00'
 
 ## 더 읽을거리
 
-- [대만 중소기업과 히든 챔피언](/economy/台灣中小企業與隱形冠軍)
-- [대만 대외무역과 글로벌 공급망](/economy/台灣外貿與全球供應鏈)
+- [대만 중소기업과 히든 챔피언](/ko/economy/taiwan-smes-and-hidden-champions)
+- [대만 대외무역과 글로벌 공급망](/ko/economy/taiwan-foreign-trade-and-global-supply-chain)
 
 ## 참고자료
 

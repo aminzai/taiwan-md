@@ -270,11 +270,11 @@ _NVIDIA 공식 채널: 젠슨 황의 2024년 COMPUTEX 기조연설 전체 영상
 
 **더 읽을거리**:
 
-- [반도체 산업](/Technology/半導體產業) — Computex 메인 스테이지를 떠받치는 이 사슬의 원천은 신주, 타이중, 타이난의 웨이퍼 팹에 있다
-- [타이완 인공지능 발전과 미래 전략](/Technology/台灣人工智慧發展與未來策略) — 서버 조립에서 피지컬 AI까지, 타이완 AI 산업은 두 번째 몸을 갈아입고 있다
-- [타이완 로봇 산업](/Technology/台灣機器人產業) — 상인의 첫 Computex 등장은 이 공급망이 형성되는 결정적 절편이다
-- [타이완 전기차 산업사슬의 발전](/Technology/台灣電動車產業鏈發展) — AI 서버와 나란히 놓인 또 다른 제조 축
-- [NVIDIA와 타이완](/Technology/NVIDIA在台灣) — 젠슨 황의 타이난 유년기부터 타이베이의 GTC Taipei 홈그라운드까지
+- [반도체 산업](/ko/technology/taiwan-semiconductor-industry) — Computex 메인 스테이지를 떠받치는 이 사슬의 원천은 신주, 타이중, 타이난의 웨이퍼 팹에 있다
+- [타이완 인공지능 발전과 미래 전략](/ko/technology/artificial-intelligence-development-strategy) — 서버 조립에서 피지컬 AI까지, 타이완 AI 산업은 두 번째 몸을 갈아입고 있다
+- [타이완 로봇 산업](/ko/technology/taiwan-robotics-industry) — 상인의 첫 Computex 등장은 이 공급망이 형성되는 결정적 절편이다
+- [타이완 전기차 산업사슬의 발전](/ko/technology/taiwan-electric-vehicle-industry-chain) — AI 서버와 나란히 놓인 또 다른 제조 축
+- [NVIDIA와 타이완](/ko/technology/nvidia-in-taiwan) — 젠슨 황의 타이난 유년기부터 타이베이의 GTC Taipei 홈그라운드까지
 
 ## 이미지 출처
 

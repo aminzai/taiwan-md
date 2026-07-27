@@ -196,7 +196,7 @@ translatedAt: 2026-05-18T05:08:08+08:00
 
 ## 더 읽기
 
-- [대만 민주 전환](/History/台灣民主轉型) — 계엄에서 민주화까지, 전망 결의문이 탄생한 더 큰 맥락
-- [대만 선거와 정당 정치](/History/台灣選舉與政黨政治) — 민진당 노선 전환이 대만 선거 정치에 미친 영향
-- [뷰티아오 사건](/History/美麗島事件) — 스밍더 25년 정치적 옥살이의 출발점, 당외 운동의 역사적 배경 이해
-- [대해 위기와 양안 관계 발전](/History/台海危機與兩岸關係發展) — 1996년 대해 위기가 민진당의 실용화를 어떻게 가속화했는가
+- [대만 민주 전환](/ko/history/taiwan-democratization) — 계엄에서 민주화까지, 전망 결의문이 탄생한 더 큰 맥락
+- [대만 선거와 정당 정치](/ko/history/taiwan-elections-and-party-politics) — 민진당 노선 전환이 대만 선거 정치에 미친 영향
+- [뷰티아오 사건](/ko/history/kaohsiung-incident-formosa-incident) — 스밍더 25년 정치적 옥살이의 출발점, 당외 운동의 역사적 배경 이해
+- [대해 위기와 양안 관계 발전](/ko/history/taiwan-strait-crises-and-cross-strait-relations) — 1996년 대해 위기가 민진당의 실용화를 어떻게 가속화했는가

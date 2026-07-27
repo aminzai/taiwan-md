@@ -137,11 +137,11 @@ translatedAt: '2026-07-26T05:17:36+08:00'
 
 **더 읽을거리**:
 
-- [語言多樣性與母語文化](/culture/語言多樣性與母語文化) — 타이완어, 하카어, 원주민어의 유실 속도와 부흥 운동
-- [台灣原住民族歷史與正名運動](/history/台灣原住民族歷史與正名運動) — '산포'에서 '원주민'으로의 10년 정명 투쟁
-- [台灣原住民族16族文化地圖](/culture/台灣原住民族16族文化地圖) — 16개 부족의 분포, 언어 및 문화 특징
-- [客家文化與語言](/culture/客家文化與語言) — 하카 민족의 역사적 이주와 문화 보존
-- [二二八事件](/history/二二八事件) — 전후 민족 충돌의 역사적 기원
+- [語言多樣性與母語文化](/ko/culture/linguistic-diversity-and-mother-tongue-culture) — 타이완어, 하카어, 원주민어의 유실 속도와 부흥 운동
+- [台灣原住民族歷史與正名運動](/ko/history/indigenous-peoples-history-and-naming-movement) — '산포'에서 '원주민'으로의 10년 정명 투쟁
+- [台灣原住民族16族文化地圖](/ko/culture/indigenous-peoples-16-tribes-cultural-map) — 16개 부족의 분포, 언어 및 문화 특징
+- [客家文化與語言](/ko/culture/hakka-culture-and-language) — 하카 민족의 역사적 이주와 문화 보존
+- [二二八事件](/ko/history/228-incident) — 전후 민족 충돌의 역사적 기원
 
 ## 참고 자료
 

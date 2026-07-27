@@ -141,11 +141,11 @@ The method changed. The spirit of "someone put the answer here for you" did not.
 
 ## Further Reading
 
-- [History of Taiwan's Online Community Migration](/technology/台灣網路社群遷徙史) — From BBS to Threads, the history of Taiwan people moving their community platforms
-- [Taiwan's Open Source Spirit](/technology/台灣開源精神) — Another group of Taiwanese "powered by love"
-- [PTT Pttkick](/technology/PTT批踢踢) — Taiwan's longest-surviving BBS, a contemporary product of Bahamut
-- [Softstar's Twin Swords](/technology/大宇雙劍) — The source of emotional enlightenment for Taiwan's single-player games in the same era
-- [The Crazy Moments of Taiwan Players](/technology/台灣玩家的瘋狂時刻) — The collective frenzy of the Dungeon/Gamebase/Bahamut generation players
+- [History of Taiwan's Online Community Migration](/ko/technology/taiwan-online-community-migration) — From BBS to Threads, the history of Taiwan people moving their community platforms
+- [Taiwan's Open Source Spirit](/ko/technology/taiwan-open-source-spirit) — Another group of Taiwanese "powered by love"
+- [PTT Pttkick](/ko/technology/ptt-bulletin-board-system) — Taiwan's longest-surviving BBS, a contemporary product of Bahamut
+- [Softstar's Twin Swords](/ko/technology/softstar-twin-classics) — The source of emotional enlightenment for Taiwan's single-player games in the same era
+- [The Crazy Moments of Taiwan Players](/ko/technology/taiwan-gamers-wildest-moments) — The collective frenzy of the Dungeon/Gamebase/Bahamut generation players
 
 ---
 

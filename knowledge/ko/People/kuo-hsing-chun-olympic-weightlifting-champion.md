@@ -1,19 +1,30 @@
 ---
-title: "궈싱춘: 141킬로그램이 내려친 부상에서 세 차례 올림픽 시상대에 오른 역도 여정"
-description: "대만의 역도 선수, 세 차례 올림픽 메달리스트(2016 동메달, 2021 금메달, 2024 동메달), 59킬로그램급 세계 기록 보유자, 아메이족 마란부락 후예"
+title: '궈싱춘: 141킬로그램이 내려친 부상에서 세 차례 올림픽 시상대에 오른 역도 여정'
+description: '대만의 역도 선수, 세 차례 올림픽 메달리스트(2016 동메달, 2021 금메달, 2024 동메달), 59킬로그램급 세계 기록 보유자, 아메이족 마란부락 후예'
 date: 2026-03-19
-author: "Taiwan.md"
-category: "People"
-subcategory: "體育"
-tags: ["인물", "궈싱춘", "역도", "올림픽", "금메달", "운동선수", "대만", "아메이족", "원주민족"]
+author: 'Taiwan.md'
+category: 'People'
+subcategory: '體育'
+tags:
+  [
+    '인물',
+    '궈싱춘',
+    '역도',
+    '올림픽',
+    '금메달',
+    '운동선수',
+    '대만',
+    '아메이족',
+    '원주민족',
+  ]
 lastVerified: 2026-05-16
 lastHumanReview: true
 featured: false
-translatedFrom: "People/郭婞淳.md"
-sourceCommitSha: "85926aa3b"
-sourceContentHash: "sha256:92e1170fe2ebdab8"
-sourceBodyHash: "sha256:45d6a810707daa5c"
-translatedAt: "2026-05-20T05:08:30+08:00"
+translatedFrom: 'People/郭婞淳.md'
+sourceCommitSha: '85926aa3b'
+sourceContentHash: 'sha256:92e1170fe2ebdab8'
+sourceBodyHash: 'sha256:45d6a810707daa5c'
+translatedAt: '2026-05-20T05:08:30+08:00'
 ---
 
 # 궈싱춘
@@ -96,11 +107,11 @@ translatedAt: "2026-05-20T05:08:30+08:00"
 
 **더 읽어보기**:
 
-- [다이쯔잉](/people/戴資穎) — 도쿄 올림픽 대만 대표단의 또 다른 핵심 선수이자 배드민턴 세계 여왕
-- [양융웨이](/people/楊勇緯) — 도쿄 올림픽 유도 은메달리스트, 대만 유도 첫 올림픽 메달
-- [린양 페어](/people/麟洋配) — 도쿄 올림픽 배드민턴 남자 복식 금메달, 왕치린과 리양의 이야기
-- [리양](/people/李洋) — 올림픽 2관왕에서 초대 체육부 장관으로 변신한 인물의 전기
-- [리즈카이](/people/李智凱) — 도쿄 올림픽 체조 안마 은메달리스트, ‘텀블링 소년’의 20년 여정
+- [다이쯔잉](/ko/people/tai-tzu-ying) — 도쿄 올림픽 대만 대표단의 또 다른 핵심 선수이자 배드민턴 세계 여왕
+- [양융웨이](/ko/people/yang-yung-wei-judo-olympic-silver) — 도쿄 올림픽 유도 은메달리스트, 대만 유도 첫 올림픽 메달
+- [린양 페어](/ko/people/lin-yang-duo-taiwan-badminton-champions) — 도쿄 올림픽 배드민턴 남자 복식 금메달, 왕치린과 리양의 이야기
+- [리양](/ko/people/lee-yang-badminton) — 올림픽 2관왕에서 초대 체육부 장관으로 변신한 인물의 전기
+- [리즈카이](/ko/people/li-chih-kai) — 도쿄 올림픽 체조 안마 은메달리스트, ‘텀블링 소년’의 20년 여정
 
 ## 참고 자료
 

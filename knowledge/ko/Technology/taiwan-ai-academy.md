@@ -299,9 +299,9 @@ AIA는 12주 NT$48,000짜리 종일 집중 캠프에서, 3일 21시간 NT$17,000
 
 **더 읽을거리**:
 
-- [AI 섬나라의 부상: 대만 인공지능 발전과 미래 전략](/technology/AI發展) — 대만 AI 정책 구조, 산업 배치, 5대 전략 분야와 국제협력을 조망하는 전체 서사
-- [대만의 AI 일상](/technology/台灣AI日常) — 대만의 편의점, 병원, 농지, 교실 등 일상 장면에 AI가 구현되는 실제 사례
-- [반도체 산업](/technology/半導體產業) — AIA가 8년 동안 길러낸 AI 엔지니어가 반도체 강국의 기존 ICT 생태계와 어떻게 다시 연결되는가
+- [AI 섬나라의 부상: 대만 인공지능 발전과 미래 전략](/ko/technology/ai-development-in-taiwan) — 대만 AI 정책 구조, 산업 배치, 5대 전략 분야와 국제협력을 조망하는 전체 서사
+- [대만의 AI 일상](/ko/technology/taiwan-ai-in-daily-life) — 대만의 편의점, 병원, 농지, 교실 등 일상 장면에 AI가 구현되는 실제 사례
+- [반도체 산업](/ko/technology/taiwan-semiconductor-industry) — AIA가 8년 동안 길러낸 AI 엔지니어가 반도체 강국의 기존 ICT 생태계와 어떻게 다시 연결되는가
 
 ## 이미지 출처
 

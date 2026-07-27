@@ -202,10 +202,10 @@ Spotify는 당신에게 “이 노래 사실 그렇게 좋진 않아”라고 �
 
 ### 관련 주제
 
-- [편의점 문화](/lifestyle/台灣便利商店文化)
-- [대만 지역사회와 리 문화](/society/台灣社區與里文化)
-- [대만 아침 식사 문화](/food/台灣早餐文化)
-- [대만 시장 문화와 전통시장](/lifestyle/台灣市場文化與傳統市場)
+- [편의점 문화](/ko/lifestyle/convenience-store-culture)
+- [대만 지역사회와 리 문화](/ko/society/taiwan-neighborhood-and-li-culture)
+- [대만 아침 식사 문화](/ko/food/taiwan-breakfast-culture)
+- [대만 시장 문화와 전통시장](/ko/lifestyle/taiwan-traditional-markets-and-market-culture)
 
 ---
 

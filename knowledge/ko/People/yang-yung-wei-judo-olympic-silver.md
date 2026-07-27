@@ -117,7 +117,7 @@ lastHumanReview: true
 
 **관련 읽을거리:**
 
-- [궈싱춘(郭婞淳)](/people/郭婞淳) — 도쿄 올림픽 역도 금메달, 대만의 3회 연속 올림픽 메달리스트
+- [궈싱춘(郭婞淳)](/ko/people/kuo-hsing-chun-olympic-weightlifting-champion) — 도쿄 올림픽 역도 금메달, 대만의 3회 연속 올림픽 메달리스트
 
 ## 참고 자료
 

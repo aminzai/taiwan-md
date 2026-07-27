@@ -107,9 +107,9 @@ Steam 호평률이 며칠 만에 30% 아래로 떨어졌다. "압도적 호평"�
 
 ## 더 읽기
 
-- [大宇雙劍](/technology/大宇雙劍) — 30년 전 대만 무협 게임의 시작
-- [赤燭遊戲](/technology/赤燭遊戲) — 대만 인디 게임의 또 다른 길
-- [台灣遊戲產業與數位娛樂](/technology/台灣遊戲產業與數位娛樂) — 대사에서 오리지널까지의 전경
+- [大宇雙劍](/ko/technology/softstar-twin-classics) — 30년 전 대만 무협 게임의 시작
+- [赤燭遊戲](/ko/technology/red-candle-games) — 대만 인디 게임의 또 다른 길
+- [台灣遊戲產業與數位娛樂](/ko/technology/taiwan-gaming-industry) — 대사에서 오리지널까지의 전경
 
 ---
 

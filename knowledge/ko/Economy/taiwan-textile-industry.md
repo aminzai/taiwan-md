@@ -76,8 +76,8 @@ translatedAt: '2026-07-23T23:06:50+08:00'
 
 ## 추가 참고 자료
 
-- [대만 순환 경제와 자원 재활용](/economy/台灣循環經濟與資源再利用) — 병에서 옷으로의 순환 경제 배경
-- [대만 산업 전환 및 업그레이드](/economy/台灣產業轉型升級) — 전통 산업 전환에 대한 더 큰 틀
+- [대만 순환 경제와 자원 재활용](/ko/economy/circular-economy-and-resource-recycling) — 병에서 옷으로의 순환 경제 배경
+- [대만 산업 전환 및 업그레이드](/ko/economy/industrial-transformation-from-manufacturing-to-innovation) — 전통 산업 전환에 대한 더 큰 틀
 
 ## 참고 자료 및 출처
 

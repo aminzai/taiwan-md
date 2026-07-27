@@ -177,13 +177,13 @@ AI 하드웨어의 공급망이 대만에 준 것은 외화와 수주 말고도,
 
 ## 더 읽을거리
 
-- [台灣外貿與全球供應鏈](/economy/台灣外貿與全球供應鏈) — 수출 주도, 삼각 무역에서 미중의 공급망 재편까지의 거시적인 배경.
-- [NVIDIA 在台灣](/technology/NVIDIA在台灣) — NVIDIA가 어떻게 칩 제조, 패키징, 서버 조립을 대만에 깊이 맡기고 있는가.
-- [半導體產業](/technology/半導體產業) — RCA로부터의 기술 이전, TSMC의 파운드리, 그리고 재료와 패키징의 전장까지의 긴 배경.
-- [Computex](/technology/Computex) — 왜 타이베이의 컴퓨터 견본시가 AI의 시대에 세계의 하드웨어 공급 측의 순례의 장이 되었는가.
-- [台灣的電力與半導體](/technology/台灣的電力與半導體) — AI 공급망의 배후에 있는 전력의 청구서, 그린 전력의 압력, 에너지 안보.
-- [半導體用水與台灣水資源](/technology/半導體用水與台灣水資源) — 웨이퍼 공장이 어떻게 댐, 가뭄, 재생수, 지역의 거버넌스로 이어져 있는가.
-- [AI 供應鏈海外設廠](/technology/AI供應鏈海外設廠) — TSMC, 훙하이, 웨이촹에서 타이다까지, 대만의 공급망이 어떻게 세계로부터 불려 나가고 있는가.
+- [台灣外貿與全球供應鏈](/ko/economy/taiwan-foreign-trade-and-global-supply-chain) — 수출 주도, 삼각 무역에서 미중의 공급망 재편까지의 거시적인 배경.
+- [NVIDIA 在台灣](/ko/technology/nvidia-in-taiwan) — NVIDIA가 어떻게 칩 제조, 패키징, 서버 조립을 대만에 깊이 맡기고 있는가.
+- [半導體產業](/ko/technology/taiwan-semiconductor-industry) — RCA로부터의 기술 이전, TSMC의 파운드리, 그리고 재료와 패키징의 전장까지의 긴 배경.
+- [Computex](/ko/technology/computex-taipei) — 왜 타이베이의 컴퓨터 견본시가 AI의 시대에 세계의 하드웨어 공급 측의 순례의 장이 되었는가.
+- [台灣的電力與半導體](/ko/technology/taiwan-electricity-and-semiconductors) — AI 공급망의 배후에 있는 전력의 청구서, 그린 전력의 압력, 에너지 안보.
+- [半導體用水與台灣水資源](/ko/technology/semiconductor-water-use-and-taiwan-water-resources) — 웨이퍼 공장이 어떻게 댐, 가뭄, 재생수, 지역의 거버넌스로 이어져 있는가.
+- [AI 供應鏈海外設廠](/ko/technology/ai-supply-chain-overseas-manufacturing) — TSMC, 훙하이, 웨이촹에서 타이다까지, 대만의 공급망이 어떻게 세계로부터 불려 나가고 있는가.
 
 ## 이미지 출처
 

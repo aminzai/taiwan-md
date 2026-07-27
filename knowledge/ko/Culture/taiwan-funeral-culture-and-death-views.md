@@ -97,9 +97,9 @@ lastHumanReview: false
 
 **더 읽어보기**
 
-- [대만의 종교와 사원 문화](/culture/台灣宗教與寺廟文化) — 민간 신앙이 장례 관념에 미친 영향
-- [대만의 관혼상제와 인생 예속](/culture/台灣婚喪喜慶與人生禮俗) — 탄생에서 죽음까지 완전한 예속의 스펙트럼
-- [대만의 환경 정의와 님비 분쟁](/society/台灣環境正義與鄰避爭議) — 소각로, 묘지 선정의 사회적 갈등
+- [대만의 종교와 사원 문화](/ko/culture/taiwan-religion-and-temple-culture) — 민간 신앙이 장례 관념에 미친 영향
+- [대만의 관혼상제와 인생 예속](/ko/culture/taiwanese-life-ceremony-traditions) — 탄생에서 죽음까지 완전한 예속의 스펙트럼
+- [대만의 환경 정의와 님비 분쟁](/ko/society/taiwan-environmental-justice-nimby-conflicts) — 소각로, 묘지 선정의 사회적 갈등
 
 ## 참고 자료
 

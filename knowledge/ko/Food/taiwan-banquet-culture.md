@@ -213,11 +213,11 @@ The dishes have proven they can enter five-star hotels, fly to California, and b
 
 **Further Reading**:
 
-- [Taiwanese Hand-Road Dishes](/food/台灣手路菜)
-- [Hulao (Tiger Bites Pig)](/food/刈包)
-- [Taiwanese Seafood Culture](/food/台灣海鮮文化)
-- [Night Market Culture](/food/夜市文化)
-- [Chen Yu-Hsun](/people/陳玉勳)
+- [Taiwanese Hand-Road Dishes](/ko/food/taiwan-specialty-home-cooking)
+- [Hulao (Tiger Bites Pig)](/ko/food/gua-bao)
+- [Taiwanese Seafood Culture](/ko/food/taiwan-seafood-culture)
+- [Night Market Culture](/ko/food/night-market-culture)
+- [Chen Yu-Hsun](/ko/people/chen-yu-hsun-taiwan-comedy-film-magician)
 
 ## Image Sources
 

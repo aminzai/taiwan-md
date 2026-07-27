@@ -223,11 +223,11 @@ _Google이 공식 공개한 Project Astra 비전 영상이다. 이것은 지화�
 
 ## 더 읽을거리
 
-- [황런쉰](/people/黃仁勳)——AI를 더 빠르게 달리게 한 타이완의 빛, 하드웨어의 한 면
-- [장중머우](/people/張忠謀)——타이완 반도체의 창립자, 지화이신이 말한 “지위가 흔들리기 어렵다”는 그 산
-- [AI 인공지능 산업](/technology/AI人工智慧產業)——글로벌 AI 공급망에서 타이완의 위치
-- [타이완 인공지능 발전과 미래 전략](/technology/台灣人工智慧發展與未來策略)——타이완 AI의 전체 그림
-- [타이완 AI 일상](/technology/台灣AI日常)——AI는 이미 어떻게 타이완인의 생활 속으로 들어왔는가
+- [황런쉰](/ko/people/jensen-huang)——AI를 더 빠르게 달리게 한 타이완의 빛, 하드웨어의 한 면
+- [장중머우](/ko/people/tsmc-morris-chang)——타이완 반도체의 창립자, 지화이신이 말한 “지위가 흔들리기 어렵다”는 그 산
+- [AI 인공지능 산업](/ko/technology/artificial-intelligence-industry)——글로벌 AI 공급망에서 타이완의 위치
+- [타이완 인공지능 발전과 미래 전략](/ko/technology/artificial-intelligence-development-strategy)——타이완 AI의 전체 그림
+- [타이완 AI 일상](/ko/technology/taiwan-ai-in-daily-life)——AI는 이미 어떻게 타이완인의 생활 속으로 들어왔는가
 
 ## 참고자료
 

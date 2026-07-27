@@ -131,10 +131,10 @@ translatedAt: '2026-05-13T01:08:20Z'
 
 **더 읽을거리**:
 
-- [대만 5대 지형과 지리 구조](/geography/台灣五大地形與地理結構) — 5대 지형의 지질 성인과 상세 분포
-- [대만 판구조 운동과 지진 활동](/geography/台灣板塊運動與地震活動) — 대만에 왜 이렇게 산이 많은가: 필리핀해판과 유라시아판의 충돌
-- [네덜란드-스페인-정씨 시대](/history/荷西明鄭時期) — 1624-1683, 유럽인이 최초로 대만의 상세 지도를 그린 시대
-- [이도와 해양 문화](/geography/離島與海洋文化) — 진먼(金門), 마쭈(馬祖), 펑후(澎湖): 지도 위에서 대만에서 가장 멀고 중국에서 가장 가까운 "대만"
+- [대만 5대 지형과 지리 구조](/ko/geography/taiwan-five-major-landforms-and-geographic-structure) — 5대 지형의 지질 성인과 상세 분포
+- [대만 판구조 운동과 지진 활동](/ko/geography/tectonic-plates-and-seismic-activity) — 대만에 왜 이렇게 산이 많은가: 필리핀해판과 유라시아판의 충돌
+- [네덜란드-스페인-정씨 시대](/ko/history/dutch-spanish-and-koxinga-era) — 1624-1683, 유럽인이 최초로 대만의 상세 지도를 그린 시대
+- [이도와 해양 문화](/ko/geography/offshore-islands-and-maritime-culture) — 진먼(金門), 마쭈(馬祖), 펑후(澎湖): 지도 위에서 대만에서 가장 멀고 중국에서 가장 가까운 "대만"
 
 ## 참고 자료
 

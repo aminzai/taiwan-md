@@ -110,7 +110,7 @@ translatedAt: '2026-05-28T05:08:34+08:00'
 
 그가 남긴 것은 단순히 그룹이 아니라 대만식 정밀 철학이다: 비용을 명확히 하고, 프로세스를 근본까지 질문하고, 평생 이를 반복한다. 이 철학은 그의 공장, 그의 병원, 그의 쌀가게 이야기 모두에서 같은 한 마디를 말한다.
 
-**연관 읽기**: [왕영경 — 위키백과](https://zh.wikipedia.org/wiki/王永慶) ｜ [대만플라스틱 제6경유분해공장: 대만 석유화학 산업의 핵심 전환](https://storystudio.tw/article/gushi/taiwan-plastic-industry) ｜ [윤연량: 그가 만든 과학상은 노벨상보다 비싸다](/people/尹衍樑) — 동시대 대만 산업 리더가 자선가로 변모한 사례
+**연관 읽기**: [왕영경 — 위키백과](https://zh.wikipedia.org/wiki/王永慶) ｜ [대만플라스틱 제6경유분해공장: 대만 석유화학 산업의 핵심 전환](https://storystudio.tw/article/gushi/taiwan-plastic-industry) ｜ [윤연량: 그가 만든 과학상은 노벨상보다 비싸다](/ko/people/samuel-yin-yan-liang) — 동시대 대만 산업 리더가 자선가로 변모한 사례
 
 ## 참고 자료
 

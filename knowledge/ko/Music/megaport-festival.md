@@ -94,7 +94,7 @@ _정예농 2018년 메가포트. 사진: Ken26729264 / Wikimedia Commons, CC BY-
 
 어떤 음악 축제는 semplicemente 프로그램 표처럼 보이지만, 메가포트는 오히려 임시 도시에 가깝다. 이틀 동안 항구 쪽의 창고, 부두, 잔디밭 및 시설이 소리로 재명명된다. 불이 꺼지고 무대가 dismantled 된 후, 많은 사람들이 이듬해 다시 돌아와, 오직 3월에만 나타나는 고향처럼 느껴진다.
 
-**추가 읽기**：린창조, 샤오링, [台灣音樂祭文化](/ko/Music/taiwan-music-festival-culture/), [台灣獨立音樂](/ko/Music/taiwan-independent-music-scene-evolution/), [滅火器樂團](/ko/Music/fire-ex/)
+**추가 읽기**：린창조, 샤오링, [台灣音樂祭文化](/ko/music/taiwan-music-festival-culture/), [台灣獨立音樂](/ko/music/taiwan-independent-music-scene-evolution/), [滅火器樂團](/ko/music/fire-ex/)
 
 ## 이미지 출처
 

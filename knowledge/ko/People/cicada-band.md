@@ -267,15 +267,15 @@ Cicada가 왜 독특한지 이해하려면, 이들의 전체 방법론의 철학
 
 **더 읽기**:
 
-- [웨이루쉬안](/people/魏如萱) — 2010년대 독립음악 생태계에 함께 속하되, 기악이 아니라 보컬의 길을 간 사례
-- [차오둥메이유파이두이](/people/草東沒有派對) — 같은 시기에 부상했지만 외향적 분노의 밴드 경로를 간 대조군
-- [콘스탄트 앤 체인지스](/people/康士坦的變化球) — 같은 포스트록 스펙트럼에 속하되, 보컬 서사의 길을 간 사례
-- [루광중](/people/盧廣仲) — 독립음악의 또 다른 경로
-- [금곡장](/music/金曲獎) — Cicada가 금곡장 최우수 연주 앨범 후보에 오른 제도적 맥락
-- [타이완 독립음악](/music/台灣獨立音樂) — 2010년대 이후 독립음악 스펙트럼
-- [타이완 산림 생태계](/nature/台灣森林生態系) — Cicada 《走入有霧的森林》과 《棲居在溪源之上》의 경관
-- [타이완 해양 생태](/nature/台灣海洋生態) — 밴드의 2017년 해양 주제 앨범의 생태적 배경
-- [타이완 산악과 등산 문화](/nature/台灣山岳與登山文化) — 장즈제의 등산 철학 맥락
+- [웨이루쉬안](/ko/people/waa-wei-singer) — 2010년대 독립음악 생태계에 함께 속하되, 기악이 아니라 보컬의 길을 간 사례
+- [차오둥메이유파이두이](/ko/people/no-party-for-cao-dong) — 같은 시기에 부상했지만 외향적 분노의 밴드 경로를 간 대조군
+- [콘스탄트 앤 체인지스](/ko/people/constant-and-change-band) — 같은 포스트록 스펙트럼에 속하되, 보컬 서사의 길을 간 사례
+- [루광중](/ko/people/crowd-lu-indie-folk-treasure) — 독립음악의 또 다른 경로
+- [금곡장](/ko/music/pop-music-and-golden-melody-awards) — Cicada가 금곡장 최우수 연주 앨범 후보에 오른 제도적 맥락
+- [타이완 독립음악](/ko/music/indie-music-scene) — 2010년대 이후 독립음악 스펙트럼
+- [타이완 산림 생태계](/ko/nature/taiwan-forest-ecosystems) — Cicada 《走入有霧的森林》과 《棲居在溪源之上》의 경관
+- [타이완 해양 생태](/ko/nature/taiwan-marine-ecology) — 밴드의 2017년 해양 주제 앨범의 생태적 배경
+- [타이완 산악과 등산 문화](/ko/nature/taiwan-mountains-and-hiking-culture) — 장즈제의 등산 철학 맥락
 
 ## 참고 자료
 

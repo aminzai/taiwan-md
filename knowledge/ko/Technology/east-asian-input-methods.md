@@ -228,7 +228,7 @@ translatedAt: '2026-05-15T14:23:13+08:00'
 
 ## 더 읽기
 
-- [반도체 산업](/technology/半導體產業) — 키보드 뒤의 칩을 생산하는 산업
+- [반도체 산업](/ko/technology/taiwan-semiconductor-industry) — 키보드 뒤의 칩을 생산하는 산업
 
 ## 참고 자료
 

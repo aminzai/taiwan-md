@@ -114,7 +114,7 @@ lastHumanReview: true
 
 **더 읽기:**
 
-- [궈싱춘(郭婞淳)](/people/郭婞淳) — 도쿄 올림픽 역도 금메달리스트, 대만 스포츠계 사회 공헌의 상징
+- [궈싱춘(郭婞淳)](/ko/people/kuo-hsing-chun-olympic-weightlifting-champion) — 도쿄 올림픽 역도 금메달리스트, 대만 스포츠계 사회 공헌의 상징
 
 ## 참고 자료
 

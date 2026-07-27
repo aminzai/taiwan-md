@@ -272,14 +272,14 @@ _타이베이 난강 전람관의 Computex 전시장. 매년 6월 전 세계 바
 
 **더 읽을거리**:
 
-- [황런쉰: 화장실을 청소하던 소년에서 5조 달러 제국의 가죽 재킷 교주까지](/people/黃仁勳) — NVIDIA 창업자의 개인 생애사. 이 글에서는 가볍게만 다룬 그의 타이난 родина와 성장 이야기는 여기에 있다
-- [반도체 산업](/technology/半導體產業) — 타이완은 왜 세계 칩 제조의 중심이 될 수 있었는가. 이 글이 다룬 공급망의 더 넓은 맥락은 여기에 있다
-- [타이완 기업: TSMC](/economy/台灣企業：台積電) — NVIDIA의 모든 칩을 제조하는 “호국신산”과, 그것이 빨려 마르는 다른 측면
-- [장중머우: 그 편지의 수신자와 그가 만든 파운드리 제국](/people/張忠謀) — 1996년 황런쉰의 그 편지를 받은 사람, TSMC의 창업자
-- [Computex: 타이베이의 컴퓨터 전시회는 어떻게 세계 AI의 개막식이 되었는가](/technology/Computex) — 그 로고 벽이 켜진 무대, 타이완 기술 산업의 연례 본무대
-- [AI 인공지능 산업](/technology/AI人工智慧產業) — NVIDIA 칩 제조에서 AI 생태계 구축까지, AI 물결 속 타이완의 위치
-- [타이완 인공지능 발전과 미래 전략](/technology/台灣人工智慧發展與未來策略) — 주권 AI, TAIDE, 그리고 타이완이 위탁생산에서 위로 올라가려는 국가적 시도
-- [타이완 기업: 훙하이 정밀](/economy/台灣企業：鴻海精密) — 전 세계 AI 랙의 40%를 조립하는 위탁생산 거인, 스마일 커브 바닥의 가장 큰 손
+- [황런쉰: 화장실을 청소하던 소년에서 5조 달러 제국의 가죽 재킷 교주까지](/ko/people/jensen-huang) — NVIDIA 창업자의 개인 생애사. 이 글에서는 가볍게만 다룬 그의 타이난 родина와 성장 이야기는 여기에 있다
+- [반도체 산업](/ko/technology/taiwan-semiconductor-industry) — 타이완은 왜 세계 칩 제조의 중심이 될 수 있었는가. 이 글이 다룬 공급망의 더 넓은 맥락은 여기에 있다
+- [타이완 기업: TSMC](/ko/economy/tsmc) — NVIDIA의 모든 칩을 제조하는 “호국신산”과, 그것이 빨려 마르는 다른 측면
+- [장중머우: 그 편지의 수신자와 그가 만든 파운드리 제국](/ko/people/tsmc-morris-chang) — 1996년 황런쉰의 그 편지를 받은 사람, TSMC의 창업자
+- [Computex: 타이베이의 컴퓨터 전시회는 어떻게 세계 AI의 개막식이 되었는가](/ko/technology/computex-taipei) — 그 로고 벽이 켜진 무대, 타이완 기술 산업의 연례 본무대
+- [AI 인공지능 산업](/ko/technology/artificial-intelligence-industry) — NVIDIA 칩 제조에서 AI 생태계 구축까지, AI 물결 속 타이완의 위치
+- [타이완 인공지능 발전과 미래 전략](/ko/technology/artificial-intelligence-development-strategy) — 주권 AI, TAIDE, 그리고 타이완이 위탁생산에서 위로 올라가려는 국가적 시도
+- [타이완 기업: 훙하이 정밀](/ko/economy/foxconn-precision-industry) — 전 세계 AI 랙의 40%를 조립하는 위탁생산 거인, 스마일 커브 바닥의 가장 큰 손
 
 ## 이미지 출처
 

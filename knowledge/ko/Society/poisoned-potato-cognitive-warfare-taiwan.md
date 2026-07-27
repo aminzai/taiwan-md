@@ -316,12 +316,12 @@ framing chain은 '공산당 주문 → 국민당 확산 → 미디어 확대'보
 
 ##延伸阅读
 
-- [인지전](/society/認知作戰) — 공산당 정보 조작의 전체 프레임과 대만 사회 반제 메커니즘
-- [2026 정습회와 국공 10년 재회](/society/2026鄭習會與國共十年再會) — 동시 양안 관계의 다른 inflection point
-- [해해 위기 및 양안 관계 발전](/history/台海危機與兩岸關係發展) — '투명장' 서사의 장기 역사 맥락
-- [차이잉원](/people/蔡英文) — 2020-2021 라지우 정책의 의사결정자, 흉터의 전 층
-- [라이칭더](/people/賴清德) — ART 협정 서명 당해의 대통령 임기
-- [생생論壇](/society/想想論壇) — 차이잉원 2025 리뉴얼 후 기간栏目 '연도 중국 관측 보고서'가 포괄하는 동일 인지전 안건
+- [인지전](/ko/society/cognitive-warfare-against-taiwan) — 공산당 정보 조작의 전체 프레임과 대만 사회 반제 메커니즘
+- [2026 정습회와 국공 10년 재회](/ko/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — 동시 양안 관계의 다른 inflection point
+- [해해 위기 및 양안 관계 발전](/ko/history/taiwan-strait-crises-and-cross-strait-relations) — '투명장' 서사의 장기 역사 맥락
+- [차이잉원](/ko/people/tsai-ing-wen) — 2020-2021 라지우 정책의 의사결정자, 흉터의 전 층
+- [라이칭더](/ko/people/lai-ching-te) — ART 협정 서명 당해의 대통령 임기
+- [생생論壇](/ko/society/thinking-taiwan-forum) — 차이잉원 2025 리뉴얼 후 기간栏目 '연도 중국 관측 보고서'가 포괄하는 동일 인지전 안건
 
 ---
 

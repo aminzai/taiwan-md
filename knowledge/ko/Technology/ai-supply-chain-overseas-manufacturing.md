@@ -194,14 +194,14 @@ TSMC의 공식 애리조나 페이지는 Phoenix의 캠퍼스로의 투자가 16
 
 ## 더 읽을거리
 
-- [AI 硬體供應鏈](/technology/AI硬體供應鏈) — 왜 세계는 대만에게 클라우드의 수요를 기계로 바꾸어 달라고 할 필요가 있는가.
-- [AI 硬體供應鏈](/technology/AI硬體供應鏈) — GPU에서 랙까지, 대만의 ODM / EMS가 어떻게 AI 데이터센터의 하드웨어를 받아 내고 있는가.
-- [台灣的電力與半導體](/technology/台灣的電力與半導體) — 선단의 제조가 어떻게 전력과 에너지 안보로 돌아오는가.
-- [半導體用水與台灣水資源](/technology/半導體用水與台灣水資源) — 웨이퍼 공장이 어떻게 댐, 가뭄, 재생수의 거버넌스로 들어가는가.
-- [台灣企業：台積電](/economy/台灣企業：台積電) — TSMC의 파운드리의 모델이 어떻게 세계의 반도체의 분업을 고쳐 썼는가.
-- [台灣企業：鴻海精密](/economy/台灣企業：鴻海精密) — 전자의 수탁 제조에서 AI 서버와 데이터센터의 하드웨어까지.
-- [台灣企業：台達電子](/economy/台灣企業：台達電子) — 전원, 방열, 에너지 관리가 어떻게 AI 인프라의 일부가 되었는가.
-- [科技園區發展](/technology/科技園區發展) — 대만의 반도체의 집적이 어떻게 토지와 도시에서 자라 왔는가.
+- [AI 硬體供應鏈](/ko/technology/ai-hardware-supply-chain) — 왜 세계는 대만에게 클라우드의 수요를 기계로 바꾸어 달라고 할 필요가 있는가.
+- [AI 硬體供應鏈](/ko/technology/ai-hardware-supply-chain) — GPU에서 랙까지, 대만의 ODM / EMS가 어떻게 AI 데이터센터의 하드웨어를 받아 내고 있는가.
+- [台灣的電力與半導體](/ko/technology/taiwan-electricity-and-semiconductors) — 선단의 제조가 어떻게 전력과 에너지 안보로 돌아오는가.
+- [半導體用水與台灣水資源](/ko/technology/semiconductor-water-use-and-taiwan-water-resources) — 웨이퍼 공장이 어떻게 댐, 가뭄, 재생수의 거버넌스로 들어가는가.
+- [台灣企業：台積電](/ko/economy/tsmc) — TSMC의 파운드리의 모델이 어떻게 세계의 반도체의 분업을 고쳐 썼는가.
+- [台灣企業：鴻海精密](/ko/economy/foxconn-precision-industry) — 전자의 수탁 제조에서 AI 서버와 데이터센터의 하드웨어까지.
+- [台灣企業：台達電子](/ko/economy/delta-electronics-taiwan-power-giant) — 전원, 방열, 에너지 관리가 어떻게 AI 인프라의 일부가 되었는가.
+- [科技園區發展](/ko/technology/science-park-development) — 대만의 반도체의 집적이 어떻게 토지와 도시에서 자라 왔는가.
 
 ## 이미지 출처
 

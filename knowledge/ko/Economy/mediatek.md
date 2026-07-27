@@ -106,8 +106,8 @@ translatedAt: '2026-07-25T00:39:25+08:00'
 
 ## 더 읽을 거리
 
-- [타이완 기업: TSMC](/economy/台灣企業：台積電)
-- [반도체 산업](/technology/半導體產業) — 1973년 RCA 기술 이전부터 2나노 양산에 이르기까지 전체 반도체 생태계. 미디어텍은 IC 설계 측면의 대표주자다.
+- [타이완 기업: TSMC](/ko/economy/tsmc)
+- [반도체 산업](/ko/technology/taiwan-semiconductor-industry) — 1973년 RCA 기술 이전부터 2나노 양산에 이르기까지 전체 반도체 생태계. 미디어텍은 IC 설계 측면의 대표주자다.
 
 ---
 

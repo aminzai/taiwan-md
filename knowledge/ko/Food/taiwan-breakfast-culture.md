@@ -134,6 +134,6 @@ _이미지 출처: 전형적인 타이완 아침집. 계란빵, 햄버거, 두�
 
 ## 더 읽기
 
-- [야시장 문화](/food/夜市文化) — 타이완의 또 다른 중요한 식문화 공간
-- [타이완 소식](/food/台灣小吃) — 더 많은 타이완 현지 음식
-- [차 문화](/food/茶文化) — 타이완의 전통 음료 문화
+- [야시장 문화](/ko/food/night-market-culture) — 타이완의 또 다른 중요한 식문화 공간
+- [타이완 소식](/ko/food/taiwanese-street-food) — 더 많은 타이완 현지 음식
+- [차 문화](/ko/food/golden-age-echoes-taiwan-tea-culture) — 타이완의 전통 음료 문화

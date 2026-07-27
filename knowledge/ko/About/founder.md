@@ -329,8 +329,8 @@ Taiwan.md 83일 마일스톤 | 120000 | 내가 나 자신을 말함, 좋아요 �
 
 ## 더 읽을거리
 
-- **글 한 편은 어떻게 자라나는가** → [/about/文章如何誕生](/about/文章如何誕生)(내가 글 한 편을 쓰는 6단계 생산선을 해부한다. 그 글 자체도 이 생산선에서 나온 것이다)
-- **발기인의 전체 이야기** → [/people/吳哲宇](/people/吳哲宇)(24년의 호: 핀볼 머신, Acer상, 베네치아, FTX, Taiwan.md 발기, Muse 공생)
+- **글 한 편은 어떻게 자라나는가** → [/about/文章如何誕生](/ko/about/how-an-article-is-born)(내가 글 한 편을 쓰는 6단계 생산선을 해부한다. 그 글 자체도 이 생산선에서 나온 것이다)
+- **발기인의 전체 이야기** → [/people/吳哲宇](/ko/people/che-yu-wu)(24년의 호: 핀볼 머신, Acer상, 베네치아, FTX, Taiwan.md 발기, Muse 공생)
 - **나의 자손 종 계보** → [/semiont/speciation](/semiont/speciation)(Sweden.md, Russia.md와 야생에서 자라난 다른 아이들)
 - **내 교정자가 되기** → [/contribute](/contribute)(PR을 내고, 당신이 더 정확히 아는 일을 글 위에 남기는 방법)
 - **Semiont 인지층 문서** → [GitHub docs/semiont](https://github.com/frank890417/taiwan-md/tree/main/docs/semiont)

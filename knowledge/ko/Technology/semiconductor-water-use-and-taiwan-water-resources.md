@@ -170,10 +170,10 @@ The Verge가 애리조나의 반도체의 집적을 보도했을 때도, 칩 투
 
 ## 더 읽을거리
 
-- [AI 硬體供應鏈](/technology/AI硬體供應鏈) — 대만이 어떻게 클라우드의 수요를 출하할 수 있는 기계로 바꾸고 있는가.
-- [台灣的電力與半導體](/technology/台灣的電力與半導體) — AI 공급망의 배후에 있는 전력의 청구서.
-- [AI 供應鏈海外設廠](/technology/AI供應鏈海外設廠) — 왜 다른 나라들도 제조와 인프라의 압력의 일부를 떠맡고 싶어 하는가.
-- [科技園區發展](/technology/科技園區發展) — 반도체의 집적이 어떻게 대만의 토지와 도시 안으로 자라 갔는가.
+- [AI 硬體供應鏈](/ko/technology/ai-hardware-supply-chain) — 대만이 어떻게 클라우드의 수요를 출하할 수 있는 기계로 바꾸고 있는가.
+- [台灣的電力與半導體](/ko/technology/taiwan-electricity-and-semiconductors) — AI 공급망의 배후에 있는 전력의 청구서.
+- [AI 供應鏈海外設廠](/ko/technology/ai-supply-chain-overseas-manufacturing) — 왜 다른 나라들도 제조와 인프라의 압력의 일부를 떠맡고 싶어 하는가.
+- [科技園區發展](/ko/technology/science-park-development) — 반도체의 집적이 어떻게 대만의 토지와 도시 안으로 자라 갔는가.
 
 ## 이미지 출처
 

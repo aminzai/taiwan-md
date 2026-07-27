@@ -142,12 +142,12 @@ NHK는 "台湾です"라고 말했고, France 2는 "바로 우리가 잘 아는 
 
 ## 더 읽을거리
 
-- [다이쯔잉](/People/戴資穎): 가오슝 쭤잉의 소녀에서 세 차례 세계 배드민턴 여왕으로
-- [궈싱춘](/People/郭婞淳): 올림픽 3회 연속 메달을 딴 역도 여정
-- [리양](/People/李洋): 린양 조가 쓴 올림픽 사상 첫 남자 복식 2연패
-- [양융웨이](/People/楊勇緯): 2020 도쿄 유도 은메달의 훈련 시스템
-- [좡즈위안](/People/莊智淵): 탁구 아시아 4연패의 고독한 왕자
-- [타이완 야구 문화](/Culture/台灣棒球文化): 자농에서 CPBL까지의 100년 야구사
+- [다이쯔잉](/ko/people/tai-tzu-ying): 가오슝 쭤잉의 소녀에서 세 차례 세계 배드민턴 여왕으로
+- [궈싱춘](/ko/people/kuo-hsing-chun-olympic-weightlifting-champion): 올림픽 3회 연속 메달을 딴 역도 여정
+- [리양](/ko/people/lee-yang-badminton): 린양 조가 쓴 올림픽 사상 첫 남자 복식 2연패
+- [양융웨이](/ko/people/yang-yung-wei-judo-olympic-silver): 2020 도쿄 유도 은메달의 훈련 시스템
+- [좡즈위안](/ko/people/chuang-chih-yuan-table-tennis-legend): 탁구 아시아 4연패의 고독한 왕자
+- [타이완 야구 문화](/ko/culture/taiwan-baseball-culture): 자농에서 CPBL까지의 100년 야구사
 
 ## 참고 자료
 

@@ -82,9 +82,9 @@ featured: false
 
 ## 더 읽어보기
 
-- [타이완 도시 발전과 도시-농촌 격차](/geography/台灣都市發展與城鄉差距) — 지역 계획 관점에서 린커우 신진의 발전 곡선을 이해한다.
-- [베이다 특구(北大特區)](/geography/北大特區) — 교통, 학군, 부동산이 함께 추진한 또 다른 신흥 재개발 구역과 비교한다.
-- [타이완 교통 시스템](/lifestyle/台灣交通系統) — 공항 철도, 고속도로, 도시 통근이 신진을 어떻게 형성하는지 더 읽어본다.
+- [타이완 도시 발전과 도시-농촌 격차](/ko/geography/taiwan-urban-development-and-rural-urban-divide) — 지역 계획 관점에서 린커우 신진의 발전 곡선을 이해한다.
+- [베이다 특구(北大特區)](/ko/geography/beida-special-district-sanxia) — 교통, 학군, 부동산이 함께 추진한 또 다른 신흥 재개발 구역과 비교한다.
+- [타이완 교통 시스템](/ko/lifestyle/transportation-system) — 공항 철도, 고속도로, 도시 통근이 신진을 어떻게 형성하는지 더 읽어본다.
 
 ## 참고 자료
 

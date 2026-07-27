@@ -281,13 +281,13 @@ _〈단〉(Damn), 2023. 《와허》의 마지막 신곡으로, 보컬은 거의
 
 **더 읽을거리**:
 
-- [웨이루쉬안](/people/魏如萱) — 2010년대 인디 음악 생태계에 함께 속하며, 여성 보컬 경로의 대비 사례
-- [캉스탄더볜화추](/people/康士坦的變化球) — 포스트록 스펙트럼에 함께 속하지만, 보컬 서사 경로를 걷는 대비 사례
-- [Cicada](/people/Cicada) — 전곡 기악, 무보컬 경로를 걷는 밴드로, 차오둥의 “가사 즉 사회학”과 정반대
-- [루광중](/people/盧廣仲) — 인디 음악의 또 다른 “작품형 싱어송라이터” 경로
-- [금곡상](/music/金曲獎) — 차오둥이 두 차례 최우수 밴드를 수상한 무대 좌표
-- [타이완 인디 음악](/music/台灣獨立音樂) — 자연권에서 차오둥, Accusefive까지 이어지는 인디 음악의 진화
-- [타이완 대중음악](/music/台灣流行音樂) — 중화권 대중음악 산업 환경
+- [웨이루쉬안](/ko/people/waa-wei-singer) — 2010년대 인디 음악 생태계에 함께 속하며, 여성 보컬 경로의 대비 사례
+- [캉스탄더볜화추](/ko/people/constant-and-change-band) — 포스트록 스펙트럼에 함께 속하지만, 보컬 서사 경로를 걷는 대비 사례
+- [Cicada](/ko/people/cicada-band) — 전곡 기악, 무보컬 경로를 걷는 밴드로, 차오둥의 “가사 즉 사회학”과 정반대
+- [루광중](/ko/people/crowd-lu-indie-folk-treasure) — 인디 음악의 또 다른 “작품형 싱어송라이터” 경로
+- [금곡상](/ko/music/pop-music-and-golden-melody-awards) — 차오둥이 두 차례 최우수 밴드를 수상한 무대 좌표
+- [타이완 인디 음악](/ko/music/indie-music-scene) — 자연권에서 차오둥, Accusefive까지 이어지는 인디 음악의 진화
+- [타이완 대중음악](/ko/music/golden-melodies-legacy-taiwan-pop-music) — 중화권 대중음악 산업 환경
 
 ## 이미지 출처
 

@@ -107,8 +107,8 @@ translatedAt: '2026-07-23T23:06:50+08:00'
 
 ## 심화 독서
 
-- [중원절](/culture/中元節) — 사회 평화 조약으로서 중원절을 읽는 역사적 관점
-- [단오절](/culture/端午節) — 대만이 새롭게 재발견한 또 하나의 축제
+- [중원절](/ko/culture/ghost-festival-zhongyuan) — 사회 평화 조약으로서 중원절을 읽는 역사적 관점
+- [단오절](/ko/culture/dragon-boat-festival) — 대만이 새롭게 재발견한 또 하나의 축제
 
 ## 참고 자료
 

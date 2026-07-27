@@ -73,4 +73,4 @@ translatedAt: 2026-05-16T05:07:55+08:00
 ## 더 읽을거리
 
 - [그래미 어워드 Best Recording Package 역대 수상자 — Grammy.com](https://www.grammy.com/) — 최고 앨범 패키지 디자인 역대 후보 및 수상 명단
-- [린창(林強)](/ko/People/lim-giong/) — 샤오칭양이 초기에 협업한 대만 음악가
+- [린창(林強)](/ko/people/lim-giong/) — 샤오칭양이 초기에 협업한 대만 음악가

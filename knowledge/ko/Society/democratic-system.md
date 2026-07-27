@@ -83,4 +83,4 @@ translatedAt: '2026-05-22T05:08:46+08:00'
 
 ## 관련 주제
 
-- [인권과 성평등](/society/人權與性別平等)
+- [인권과 성평등](/ko/society/human-rights-and-gender-equality)

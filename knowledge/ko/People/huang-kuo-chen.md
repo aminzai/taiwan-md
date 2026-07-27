@@ -40,7 +40,7 @@ lastHumanReview: false
 
 ## 관련 인물
 
-- [葉丙成](/people/葉丙成): 타이완대학교 교수, PaGamO 게임형 학습 플랫폼 개발자
-- [呂冠緯](/people/呂冠緯): 쥔이 교육 플랫폼 창립자
-- [黃春明](/people/黃春明): 타이완 향토문학의 거장, 황궈전의 부친
-- [嚴長壽](/people/嚴長壽): 농촌 벽지 교육에 뛰어든 관광업계의 원로
+- [葉丙成](/ko/people/yeh-ping-cheng-education-innovator): 타이완대학교 교수, PaGamO 게임형 학습 플랫폼 개발자
+- [呂冠緯](/ko/people/lu-guan-wei-junyiacademy-founder): 쥔이 교육 플랫폼 창립자
+- [黃春明](/ko/people/huang-chun-ming-taiwanese-literary-master): 타이완 향토문학의 거장, 황궈전의 부친
+- [嚴長壽](/ko/people/stanley-yen): 농촌 벽지 교육에 뛰어든 관광업계의 원로

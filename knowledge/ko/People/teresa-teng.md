@@ -160,12 +160,12 @@ translatedAt: '2026-05-02T09:04:00+08:00'
 
 **더 읽어보기**:
 
-- [대만 대중음악](/music/台灣流行音樂) — 그녀가 살았던 중화권 대중음악 황금 시대와 산업 맥락
-- [대만 민가 운동](/music/台灣民歌運動) — 그녀와 동시대, 1970년대 대만 음악 신의 본토 자각 운동
-- [계엄 시기](/history/戒嚴時期) — 그녀가 20세에 일본으로 가기 전 대만 사회의 기본 정치 구조
-- [대만 백색 테러](/history/台灣白色恐怖) — 그녀의 성장기 대만의 정치 기후 배경
-- [대만해 위기와 양안 관계 발전](/history/台海危機與兩岸關係發展) — 그녀가 노래로 우회한 그 냉전 경계
-- [린칭샤](/people/林青霞) — 동시대 대만 영상 거성, 1970-80년대 동아시아 중화권 스타 네트워크의 또 다른 좌표
+- [대만 대중음악](/ko/music/golden-melodies-legacy-taiwan-pop-music) — 그녀가 살았던 중화권 대중음악 황금 시대와 산업 맥락
+- [대만 민가 운동](/ko/music/taiwan-campus-folk-song-movement) — 그녀와 동시대, 1970년대 대만 음악 신의 본토 자각 운동
+- [계엄 시기](/ko/history/martial-law-era) — 그녀가 20세에 일본으로 가기 전 대만 사회의 기본 정치 구조
+- [대만 백색 테러](/ko/history/taiwan-white-terror) — 그녀의 성장기 대만의 정치 기후 배경
+- [대만해 위기와 양안 관계 발전](/ko/history/taiwan-strait-crises-and-cross-strait-relations) — 그녀가 노래로 우회한 그 냉전 경계
+- [린칭샤](/ko/people/brigitte-lin-legendary-actress) — 동시대 대만 영상 거성, 1970-80년대 동아시아 중화권 스타 네트워크의 또 다른 좌표
 
 ## 참고 자료
 

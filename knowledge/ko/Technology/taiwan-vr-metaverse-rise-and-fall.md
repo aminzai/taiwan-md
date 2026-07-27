@@ -204,9 +204,9 @@ XRSPACE의 저우윈밍은 "소셜 VR"을 하고 싶었고, HTC의 왕슈에홍�
 
 ## 더 읽기
 
-- [대만 기업: 홍타이전(宏達電)](/economy/台灣企業：宏達電) — 안드로이드 스마트폰에서 VR 전환까지 HTC의 기업 이야기
-- [대만 오픈소스 정신](/technology/台灣開源精神) — "사랑으로 전기를 만드는" 또 다른 대만 테크 커뮤니티 이야기
-- [대만 디지털 영상 및 애니메이션 산업](/technology/台灣數位影像與動畫產業) — VR 콘텐츠 뒤에 있는 기술과 인재의 기반
+- [대만 기업: 홍타이전(宏達電)](/ko/economy/htc-android-pioneer-vr-transformation) — 안드로이드 스마트폰에서 VR 전환까지 HTC의 기업 이야기
+- [대만 오픈소스 정신](/ko/technology/taiwan-open-source-spirit) — "사랑으로 전기를 만드는" 또 다른 대만 테크 커뮤니티 이야기
+- [대만 디지털 영상 및 애니메이션 산업](/ko/technology/taiwan-digital-animation-industry) — VR 콘텐츠 뒤에 있는 기술과 인재의 기반
 
 ---
 

@@ -155,11 +155,11 @@ IT 회사 직장인의 퇴근 시간, 신디사이저 앞에 앉아 낮에 말�
 
 ## 더 읽어보기
 
-- [대만 인디 음악](/music/台灣獨立音樂) — 2010s-2020s 대만 인디 밴드 생태와 Folktronica 유형의 역사적 맥락
-- [대만 대중음악](/music/台灣流行音樂) — 중국어 대중음악 산업 구조와 그 안에서 인디 밴드의 위치
-- [Cicada](/people/Cicada) — 마찬가지로 기악/비주류 노선을 가는 인디 밴드, 두 가지 '아이돌 노선을 가지 않는' 창작 전략의 대조
-- [웨이루쉬안](/people/魏如萱) — 주류와 인디를 넘나드는, 여성 창작자의 다른 한 경로
-- [Hello Nico](/people/Hello-Nico) — 마찬가지로 2010년대 대만의 인디 여성 보컬, Dream Pop 보컬 라인이 억압을 감싸는 "음악을 만드는 가장 큰 어려움은 자기 자신과의 갈등"
+- [대만 인디 음악](/ko/music/indie-music-scene) — 2010s-2020s 대만 인디 밴드 생태와 Folktronica 유형의 역사적 맥락
+- [대만 대중음악](/ko/music/golden-melodies-legacy-taiwan-pop-music) — 중국어 대중음악 산업 구조와 그 안에서 인디 밴드의 위치
+- [Cicada](/ko/people/cicada-band) — 마찬가지로 기악/비주류 노선을 가는 인디 밴드, 두 가지 '아이돌 노선을 가지 않는' 창작 전략의 대조
+- [웨이루쉬안](/ko/people/waa-wei-singer) — 주류와 인디를 넘나드는, 여성 창작자의 다른 한 경로
+- [Hello Nico](/ko/people/hello-nico-band) — 마찬가지로 2010년대 대만의 인디 여성 보컬, Dream Pop 보컬 라인이 억압을 감싸는 "음악을 만드는 가장 큰 어려움은 자기 자신과의 갈등"
 
 ## 참고 자료
 

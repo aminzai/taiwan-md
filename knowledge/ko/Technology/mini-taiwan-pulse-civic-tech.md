@@ -261,10 +261,10 @@ Kepler.gl에 CSV 파일을 드래그하며 "지도로 만드는 건 어렵지 �
 
 ##延伸阅读 (더 읽을 거리)
 
-- [우젤위(哲宇)](/people/吳哲宇): Taiwan.md의 창조자, 또한 프로그래밍과 생성형 도구로 '스스로 성장하는 것'에 접근
-- [오픈소스 커뮤니티와 g0v](/technology/開源社群與g0v): '프로그래밍으로 사회를 개조하자'의 집단적 맥락, Migu 개인 × Agent 양상의 대조군
-- [대만 오픈소스 정신](/technology/台灣開源精神): 키보드 구국에서 오픈 데이터까지, 대만 시민 기술의 하부 문화
-- [디지털 신분증과 디지털 정부](/technology/數位身分證與數位政府): 정부 오픈 데이터 인프라의 다른 면
+- [우젤위(哲宇)](/ko/people/che-yu-wu): Taiwan.md의 창조자, 또한 프로그래밍과 생성형 도구로 '스스로 성장하는 것'에 접근
+- [오픈소스 커뮤니티와 g0v](/ko/technology/open-source-and-g0v): '프로그래밍으로 사회를 개조하자'의 집단적 맥락, Migu 개인 × Agent 양상의 대조군
+- [대만 오픈소스 정신](/ko/technology/taiwan-open-source-spirit): 키보드 구국에서 오픈 데이터까지, 대만 시민 기술의 하부 문화
+- [디지털 신분증과 디지털 정부](/ko/technology/digital-id-and-digital-government): 정부 오픈 데이터 인프라의 다른 면
 
 ## 프로젝트 링크
 
