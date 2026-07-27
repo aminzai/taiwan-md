@@ -189,11 +189,11 @@ Dans la dernière section du recueil de 1989, « Nous ne voyons plus l’obscuri
 
 **Pour aller plus loin** :
 
-- [Chen Ying-chen](/people/陳映真) — auteur de la longue préface « Un poète colonial à l’intérieur de Taïwan » au recueil de Monaneng en 1989, figure centrale du milieu littéraire de gauche pro-unification
-- [Histoire des peuples autochtones de Taïwan et mouvement de rectification des noms](/history/台灣原住民族歷史與正名運動) — histoire complète du mouvement, de l’Association des droits autochtones en 1984 au campement de Ketagalan Boulevard en 2017, avec le contexte du mouvement Rendez-nous nos terres de 1988
-- [Préhistoire et Autochtones](/history/史前時代與原住民) — arrière-plan de longue durée des peuples autochtones de Taïwan sur cette île
-- [Incident du 28 février](/history/二二八事件) — origine de la formation des discours d’unification et d’indépendance dans le Taïwan d’après-guerre, et arrière-plan historique de la position de gauche pro-unification de Monaneng
-- [Transition démocratique de Taïwan](/history/台灣民主轉型) — contexte de la levée de la loi martiale dans les années 1980, moment politique dans lequel s’inscrivent les poèmes de Monaneng
+- [Chen Ying-chen](/fr/people/chen-yingzhen) — auteur de la longue préface « Un poète colonial à l’intérieur de Taïwan » au recueil de Monaneng en 1989, figure centrale du milieu littéraire de gauche pro-unification
+- [Histoire des peuples autochtones de Taïwan et mouvement de rectification des noms](/fr/history/indigenous-peoples-history-and-naming-movement) — histoire complète du mouvement, de l’Association des droits autochtones en 1984 au campement de Ketagalan Boulevard en 2017, avec le contexte du mouvement Rendez-nous nos terres de 1988
+- [Préhistoire et Autochtones](/fr/history/prehistoric-era-and-indigenous-peoples) — arrière-plan de longue durée des peuples autochtones de Taïwan sur cette île
+- [Incident du 28 février](/fr/history/228-incident) — origine de la formation des discours d’unification et d’indépendance dans le Taïwan d’après-guerre, et arrière-plan historique de la position de gauche pro-unification de Monaneng
+- [Transition démocratique de Taïwan](/fr/history/taiwan-democratization) — contexte de la levée de la loi martiale dans les années 1980, moment politique dans lequel s’inscrivent les poèmes de Monaneng
 
 ## Sources des images
 

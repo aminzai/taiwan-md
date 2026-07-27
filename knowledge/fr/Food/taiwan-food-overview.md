@@ -246,37 +246,37 @@ Aucune cuisine n'est purement taïwanaise. Chaque plat est le plus taïwanais.
 
 **Couche fondamentale de l'île** :
 
-- [Culture alimentaire des autochtones de Taïwan](/food/台灣原住民飲食文化) — 16 ethnies avec chacune leur propre façon de manger, du porc de montagne grillé à la soupe aigre-épicée _binaleng_
-- [Culture alimentaire Hakka](/food/客家飲食文化) — « gras, salé, parfumé » et la sagesse de conservation sur la route de la migration
+- [Culture alimentaire des autochtones de Taïwan](/fr/food/taiwan-indigenous-foodways) — 16 ethnies avec chacune leur propre façon de manger, du porc de montagne grillé à la soupe aigre-épicée _binaleng_
+- [Culture alimentaire Hakka](/fr/food/hakka-food-culture) — « gras, salé, parfumé » et la sagesse de conservation sur la route de la migration
 
 **Métissage de l'immigration** :
 
-- [Cuisine des villages militaires de Taïwan](/food/台灣眷村菜) — Les huit grands styles culinaires apportés par ces 1,21 million de personnes de 1949, recalibrés par l'île
-- [Nouilles au bœuf](/food/牛肉麵) — Le piment du Sichuan des anciens soldats de Gangshan (Kaohsiung) + le soja taïwanais
+- [Cuisine des villages militaires de Taïwan](/fr/food/military-dependents-village-cuisine) — Les huit grands styles culinaires apportés par ces 1,21 million de personnes de 1949, recalibrés par l'île
+- [Nouilles au bœuf](/fr/food/beef-noodle-soup) — Le piment du Sichuan des anciens soldats de Gangshan (Kaohsiung) + le soja taïwanais
 
 **Quotidien populaire** :
 
-- [Riz braisé](/food/台灣滷肉飯) — Les restes de viande et la graisse de la pauvreté de l'après-guerre, nappés en plat national
-- [Culture des marchés de nuit](/food/夜市文化) — 300 marchés de nuit à Taïwan, la carte gustative de Shilin, Ningxia, Raohe, Liuhe, Fengjia
-- [Snacks de Taïwan](/food/台灣小吃) — De l'omelette aux huîtres au poulet frit croustillant, la collection complète des saveurs des ruelles
+- [Riz braisé](/fr/food/braised-pork-rice) — Les restes de viande et la graisse de la pauvreté de l'après-guerre, nappés en plat national
+- [Culture des marchés de nuit](/fr/food/night-market-culture) — 300 marchés de nuit à Taïwan, la carte gustative de Shilin, Ningxia, Raohe, Liuhe, Fengjia
+- [Snacks de Taïwan](/fr/food/taiwanese-street-food) — De l'omelette aux huîtres au poulet frit croustillant, la collection complète des saveurs des ruelles
 
 **Révolution liquide** :
 
-- [Thé aux perles](/food/珍珠奶茶) — L'après-midi de 1986 chez Chunshui Tang, changeant la carte des boissons du monde
-- [Culture des boissons à la main de Taïwan](/food/台灣手搖飲文化) — 50 Lan, Gong Cha, CoCo vers plus de 40 pays
-- [Culture du thé](/food/茶文化) — De l'Oolong de Dodd en 1865 au thé de haute montagne d'Alishan aujourd'hui
+- [Thé aux perles](/fr/food/bubble-tea) — L'après-midi de 1986 chez Chunshui Tang, changeant la carte des boissons du monde
+- [Culture des boissons à la main de Taïwan](/fr/food/hand-shaken-drink-culture) — 50 Lan, Gong Cha, CoCo vers plus de 40 pays
+- [Culture du thé](/fr/food/golden-age-echoes-taiwan-tea-culture) — De l'Oolong de Dodd en 1865 au thé de haute montagne d'Alishan aujourd'hui
 
 **Rites et gastronomie de précision** :
 
-- [Culture du banquet de Taïwan](/food/台灣辦桌文化) — Le père et fils Lin Tiansheng, Lin Mingcan, les douze plats de relations humaines et de rites
-- [Michelin et gastronomie de précision de Taïwan](/food/台灣米其林與精緻餐飲) — Entrée en 2018, trajectoire de 419 en 2025
-- [Culture du petit-déjeuner de Taïwan](/food/台灣早餐文化) — Du lait de soja sous le pont de Yonghe aux chaînes de petit-déjeuner ouvertes 24h/24
+- [Culture du banquet de Taïwan](/fr/food/taiwan-banquet-culture) — Le père et fils Lin Tiansheng, Lin Mingcan, les douze plats de relations humaines et de rites
+- [Michelin et gastronomie de précision de Taïwan](/fr/food/taiwan-michelin-fine-dining) — Entrée en 2018, trajectoire de 419 en 2025
+- [Culture du petit-déjeuner de Taïwan](/fr/food/taiwan-breakfast-culture) — Du lait de soja sous le pont de Yonghe aux chaînes de petit-déjeuner ouvertes 24h/24
 
 **Extensions multiples** :
 
-- [Fusion gastronomique des nouveaux résidents de Taïwan](/food/台灣新住民美食融合) — La carte sud-asiatique apportée par 1,87 million de nouveaux résidents
-- [Culture végétarienne de Taïwan](/food/台灣素食文化) — La proportion de population végétarienne troisième au monde
-- [Royaume des fruits de Taïwan](/food/台灣水果王國) — La carte des fruits insulaires du pêche de haute montagne à la carambole tropicale
+- [Fusion gastronomique des nouveaux résidents de Taïwan](/fr/food/taiwanese-new-immigrant-culinary-fusion) — La carte sud-asiatique apportée par 1,87 million de nouveaux résidents
+- [Culture végétarienne de Taïwan](/fr/food/taiwan-vegetarian-culture) — La proportion de population végétarienne troisième au monde
+- [Royaume des fruits de Taïwan](/fr/food/taiwan-fruit-kingdom) — La carte des fruits insulaires du pêche de haute montagne à la carambole tropicale
 - [Food Hub](/food) — Index global de la catégorie alimentaire
 
 ---

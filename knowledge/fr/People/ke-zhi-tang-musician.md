@@ -137,9 +137,9 @@ L'étudiant qui jouait Coldplay en acoustique au concours Hai Xian en 2013, et l
 
 ## Pour aller plus loin
 
-- **[Waa Wei](/people/魏如萱)** — Cousine de Kowen Ko, l'une des deux reines de la chanson, également produite par Chen Jian-qi
-- **[Chen Jian-qi](/people/陳建騏)** — Producteur des trois albums de Kowen Ko, figure centrale des coulisses de la musique populaire sinophone
-- **[Hello Nico](/people/Hello-Nico)** — Un autre groupe représentatif de la musique indépendante taïwanaise revenu après une longue période de silence, partageant avec Kowen Ko le spectre des « créateurs à rythme lent »
+- **[Waa Wei](/fr/people/waa-wei-singer)** — Cousine de Kowen Ko, l'une des deux reines de la chanson, également produite par Chen Jian-qi
+- **[Chen Jian-qi](/fr/people/chen-chien-chi-music-producer)** — Producteur des trois albums de Kowen Ko, figure centrale des coulisses de la musique populaire sinophone
+- **[Hello Nico](/fr/people/hello-nico-band)** — Un autre groupe représentatif de la musique indépendante taïwanaise revenu après une longue période de silence, partageant avec Kowen Ko le spectre des « créateurs à rythme lent »
 
 ## Références
 

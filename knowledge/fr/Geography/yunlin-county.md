@@ -227,16 +227,16 @@ La prochaine fois que vous irez à Yunlin, n'allez pas seulement boire un café 
 
 ## Pour aller plus loin
 
-- [Comté de Yilan](/geography/宜蘭縣) — article frère de la série des 22 villes et comtés : le 13 décembre 1987, Chen Ding-nan écarta le Sixième complexe de la plaine de Lanyang ; en juin 1991, le Yuan exécutif approuva son transfert à Mailiao, Yunlin. C'est la phrase de destin commune à Yilan et Yunlin
-- [Ville de Keelung](/geography/基隆市) — article pilote de la série des 22 villes et comtés ; comme Yunlin, Keelung est une « ville ou un comté moyen écrasé par le cadre de la capitale », utile pour comparer deux formes locales oubliées par le récit central
-- [Comté de Chiayi](/geography/嘉義縣) — article frère de la série des 22 villes et comtés ; la querelle d'orthodoxie de Benkang entre le temple Fengtian de Xingang et le temple Chaotian de Beigang traverse les frontières de comtés depuis plus de deux cents ans
-- [Ville de Chiayi](/geography/嘉義市) — article frère de la série des 22 villes et comtés ; avec Beigang, elle appartient au noyau historique de Benkang et à ses héritages contemporains
-- [Groupe Formosa Plastics](/economy/台灣企業：台塑集團) — histoire complète de l'entreprise, de la proposition par Wang Yung-ching en 1973 d'une usine de craquage du naphta jusqu'à l'entrée en service du Sixième complexe à Yunlin en 1998
-- [Taiwan Sugar](/economy/台糖) — 90 ans d'histoire sucrière taïwanaise, de la première cheminée fumante de la raffinerie de Huwei en 1909 à l'arrêt de la production de sucre de canne en 1999
-- [La légende de Mazu et de Dadaogong](/culture/媽祖與大道公的傳說) — la place de la foi en Mazu vénérée au temple Chaotian de Beigang dans la religion populaire taïwanaise
-- [Divisions administratives de Taïwan](/geography/台灣行政區劃) — évolution complète : création du comté de Yunlin en 1887 ; transfert du siège de Linqipu à Douliu en 1893 ; intégration en 1920 à la province de Tainan, districts de Huwei et Beigang ; rétablissement du comté en 1945
-- [Systèmes fluviaux et caractéristiques hydrologiques de Taïwan](/geography/台灣河川系統與水文特色) — influence décisive des cônes alluviaux de la Zhuoshui et de la Beigang sur le paysage agricole de Yunlin
-- [Paysages agricoles et répartition industrielle de Taïwan](/geography/台灣農業地景與產業分布) — position des identités de grenier à riz de Xiluo et de Chishang dans le paysage agricole taïwanais
+- [Comté de Yilan](/fr/geography/yilan-county) — article frère de la série des 22 villes et comtés : le 13 décembre 1987, Chen Ding-nan écarta le Sixième complexe de la plaine de Lanyang ; en juin 1991, le Yuan exécutif approuva son transfert à Mailiao, Yunlin. C'est la phrase de destin commune à Yilan et Yunlin
+- [Ville de Keelung](/fr/geography/keelung-city) — article pilote de la série des 22 villes et comtés ; comme Yunlin, Keelung est une « ville ou un comté moyen écrasé par le cadre de la capitale », utile pour comparer deux formes locales oubliées par le récit central
+- [Comté de Chiayi](/fr/geography/chiayi-county) — article frère de la série des 22 villes et comtés ; la querelle d'orthodoxie de Benkang entre le temple Fengtian de Xingang et le temple Chaotian de Beigang traverse les frontières de comtés depuis plus de deux cents ans
+- [Ville de Chiayi](/fr/geography/chiayi-city) — article frère de la série des 22 villes et comtés ; avec Beigang, elle appartient au noyau historique de Benkang et à ses héritages contemporains
+- [Groupe Formosa Plastics](/fr/economy/formosa-plastics-group) — histoire complète de l'entreprise, de la proposition par Wang Yung-ching en 1973 d'une usine de craquage du naphta jusqu'à l'entrée en service du Sixième complexe à Yunlin en 1998
+- [Taiwan Sugar](/fr/economy/taiwan-sugar) — 90 ans d'histoire sucrière taïwanaise, de la première cheminée fumante de la raffinerie de Huwei en 1909 à l'arrêt de la production de sucre de canne en 1999
+- [La légende de Mazu et de Dadaogong](/fr/culture/mazu-dadaogong-legend) — la place de la foi en Mazu vénérée au temple Chaotian de Beigang dans la religion populaire taïwanaise
+- [Divisions administratives de Taïwan](/fr/geography/administrative-divisions-of-taiwan) — évolution complète : création du comté de Yunlin en 1887 ; transfert du siège de Linqipu à Douliu en 1893 ; intégration en 1920 à la province de Tainan, districts de Huwei et Beigang ; rétablissement du comté en 1945
+- [Systèmes fluviaux et caractéristiques hydrologiques de Taïwan](/fr/geography/taiwan-river-systems-and-hydrology) — influence décisive des cônes alluviaux de la Zhuoshui et de la Beigang sur le paysage agricole de Yunlin
+- [Paysages agricoles et répartition industrielle de Taïwan](/fr/geography/taiwan-agricultural-landscapes-and-industry-belts) — position des identités de grenier à riz de Xiluo et de Chishang dans le paysage agricole taïwanais
 
 ## Sources des images
 

@@ -167,7 +167,7 @@ Le 26 juillet, le premier tour de 25 votes et le 23 août, le second tour de 7 v
 
 Les résultats de la révocation n'ont pas modifié la répartition des sièges au Yuan législatif, mais ils ont laissé des traces dignes d'observation à long terme. La capacité de mobilisation de la société civile lors de la phase de pétition était sans précédent — cette énergie se prolongera-t-elle jusqu'aux élections locales de 2026 reste inconnu. La position des troisièmes forces (Parti populaire de Taïwan, Nouvelle Force, Taïwan Statebuilding Party) pendant le processus de révocation était relativement floue — les partisans du Parti populaire de Taïwan ont majoritairement voté contre ou se sont abstenus, ce qui constitue un test pour la capacité du camp blanc à maintenir une troisième voie en 2026. Une autre tension concerne la relation entre la mobilisation électorale et la volonté citoyenne : dans certaines circonscriptions, les voix favorables à la révocation ont dépassé le score d'élection du législateur, mais ont été battues par une mobilisation défavorable mieux organisée. La question de savoir si l'outil de la démocratie directe peut atteindre ses objectifs dans un environnement fortement polarisé est un défi que chaque élection taïwanaise devra affronter après 2025.[^24]
 
-Pour une chronologie complète de l'événement, voir [大罷免](/history/大罷免).
+Pour une chronologie complète de l'événement, voir [大罷免](/fr/history/great-recall-movement-2024).
 
 ### Alliance bleu-blanc et test institutionnel de 2026
 
@@ -217,11 +217,11 @@ Il convient de noter que le scrutin uninominal mixte mis en place en 2008 a stru
 
 **Pour aller plus loin**
 
-- [台灣民主轉型](/history/台灣民主轉型) — Vue d'ensemble de la quarantaine d'années de transition, de la loi martiale à sa levée
-- [美麗島事件](/history/美麗島事件) — La nuit de 1979 qui a changé le destin de Taïwan
-- [戒嚴時期](/history/戒嚴時期) — Comment trente-huit ans de loi martiale ont façonné la société taïwanaise
-- [臺灣前途決議文](/history/臺灣前途決議文) — La transition de ligne du DPP, du programme d'indépendance à la résolution sur l'avenir, et comment elle a redessiné le paysage électoral taïwanais
-- [大罷免](/history/大罷免) — Chronologie complète de la plus grande campagne de révocation lancée par la société civile en 2025
+- [台灣民主轉型](/fr/history/taiwan-democratization) — Vue d'ensemble de la quarantaine d'années de transition, de la loi martiale à sa levée
+- [美麗島事件](/fr/history/kaohsiung-incident-formosa-incident) — La nuit de 1979 qui a changé le destin de Taïwan
+- [戒嚴時期](/fr/history/martial-law-era) — Comment trente-huit ans de loi martiale ont façonné la société taïwanaise
+- [臺灣前途決議文](/fr/history/resolution-on-taiwans-future) — La transition de ligne du DPP, du programme d'indépendance à la résolution sur l'avenir, et comment elle a redessiné le paysage électoral taïwanais
+- [大罷免](/fr/history/great-recall-movement-2024) — Chronologie complète de la plus grande campagne de révocation lancée par la société civile en 2025
 - [2026 九合一選舉](/society/2026九合一選舉) — Dispositif des campagnes dans les 22 comtés et villes et test institutionnel
 - [九合一選舉是什麼](/society/九合一選舉是什麼) — Explication du système des élections locales unifiées
 - [村里長制度](/society/村里長制度) — Le poste élu le plus local à Taïwan

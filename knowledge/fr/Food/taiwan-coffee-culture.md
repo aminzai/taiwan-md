@@ -116,9 +116,9 @@ La porte en bois de Bee Da Coffee est toujours ouverte. En la poussant, on ne bo
 
 **Pour aller plus loin** :
 
-- [La culture de la supérette à Taïwan](/lifestyle/台灣便利商店文化) — Si City Café a réussi, c'est parce que la supérette est déjà une infrastructure de la vie quotidienne taïwanaise
-- [La culture des boissons à bulles taïwanaises](/food/台灣手搖飲文化) — L'autre face du café : Taïwan a inventé le bubble tea et a conquis le monde avec les boissons à secouer
-- [La culture du thé à Taïwan](/food/茶文化) — Avant le café, les Taïwanais ont bu du thé pendant quatre cents ans
+- [La culture de la supérette à Taïwan](/fr/lifestyle/convenience-store-culture) — Si City Café a réussi, c'est parce que la supérette est déjà une infrastructure de la vie quotidienne taïwanaise
+- [La culture des boissons à bulles taïwanaises](/fr/food/hand-shaken-drink-culture) — L'autre face du café : Taïwan a inventé le bubble tea et a conquis le monde avec les boissons à secouer
+- [La culture du thé à Taïwan](/fr/food/golden-age-echoes-taiwan-tea-culture) — Avant le café, les Taïwanais ont bu du thé pendant quatre cents ans
 
 ## Références
 

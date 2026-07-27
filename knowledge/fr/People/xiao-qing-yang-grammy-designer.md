@@ -80,4 +80,4 @@ La victoire de Xiao Qing-yang aux Grammy Awards trace une voie exemplaire pour l
 ## Pour aller plus loin
 
 - [Lauréats des Grammy Awards Best Recording Package — Grammy.com](https://www.grammy.com/) — Liste historique des nominations et lauréats du meilleur design de pochette d'album
-- [Lim Giong](/fr/People/lim-giong/) — Musicien taïwanais avec lequel Xiao Qing-yang a collaboré à ses débuts
+- [Lim Giong](/fr/people/lim-giong/) — Musicien taïwanais avec lequel Xiao Qing-yang a collaboré à ses débuts

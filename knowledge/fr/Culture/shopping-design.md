@@ -164,11 +164,11 @@ La couverture de « Recherche design » est donc aussi un examen. Ce qu’elle v
 
 ## Pour aller plus loin
 
-- [Revues](/culture/雜誌) — cent ans d’évolution de la revue taïwanaise ; Shopping Design est le cas représentatif de la branche des « revues molles »
-- [Revue Ren Jian](/culture/人間雜誌) — une autre âme de la revue taïwanaise, qui a distingué et nommé la société d’en bas par le photojournalisme ; c’est l’autre face de la médaille par rapport à la revue d’achat de design
-- [Histoire de la publicité à Taïwan](/culture/台灣廣告史) — la source de la formation de Huang Wei-jung et Li Hui-chen ; pour comprendre comment cette génération d’« Ideology » a porté son art du récit dans les revues
-- [Cérémonie du thé et esthétique du quotidien à Taïwan](/culture/台灣茶道與生活美學) — comment l’esthétique de la vie a poussé à Taïwan jusqu’à devenir un quotidien dont on parle et que l’on achète
-- [Aaron Nieh](/people/聶永真) — un autre nom du même contexte du design taïwanais, qui l’a poussé sous les yeux du grand public
+- [Revues](/fr/culture/magazine) — cent ans d’évolution de la revue taïwanaise ; Shopping Design est le cas représentatif de la branche des « revues molles »
+- [Revue Ren Jian](/fr/culture/renjian-magazine) — une autre âme de la revue taïwanaise, qui a distingué et nommé la société d’en bas par le photojournalisme ; c’est l’autre face de la médaille par rapport à la revue d’achat de design
+- [Histoire de la publicité à Taïwan](/fr/culture/taiwan-advertising-history) — la source de la formation de Huang Wei-jung et Li Hui-chen ; pour comprendre comment cette génération d’« Ideology » a porté son art du récit dans les revues
+- [Cérémonie du thé et esthétique du quotidien à Taïwan](/fr/culture/taiwan-tea-ceremony-and-aesthetic-living) — comment l’esthétique de la vie a poussé à Taïwan jusqu’à devenir un quotidien dont on parle et que l’on achète
+- [Aaron Nieh](/fr/people/nieh-yung-jen) — un autre nom du même contexte du design taïwanais, qui l’a poussé sous les yeux du grand public
 
 ## Références
 

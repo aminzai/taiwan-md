@@ -178,8 +178,8 @@ L’histoire d’ASUS montre qu’à l’ère de la mondialisation, un Taïwan p
 
 **Lectures complémentaires** :
 
-- [台灣企業：宏碁 (Acer)](/economy/台灣企業：宏碁) — Le contre-exemple qui a choisi une autre voie de scission. Acer a séparé sa sous-traitance (Pegatron) dès 2000, tandis qu’ASUS n’a scindé Pegatron qu’en 2008 ; les résultats de ces deux trajectoires sont devenus un débat classique dans l’industrie électronique taïwanaise.
-- [台灣企業：緯創資通 (Wistron)](/economy/台灣企業：緯創資通) — Le « petit frère » de la sous-traitance issu de la scission d’Acer, qui, tout comme Pegatron issu d’ASUS, prouve que la partie « abandonnée » du milieu de chaîne finit souvent par grimper plus haut.
+- [台灣企業：宏碁 (Acer)](/fr/economy/acer-pc-industry-pioneer) — Le contre-exemple qui a choisi une autre voie de scission. Acer a séparé sa sous-traitance (Pegatron) dès 2000, tandis qu’ASUS n’a scindé Pegatron qu’en 2008 ; les résultats de ces deux trajectoires sont devenus un débat classique dans l’industrie électronique taïwanaise.
+- [台灣企業：緯創資通 (Wistron)](/fr/economy/wistron-global-manufacturing-transformation-pioneer) — Le « petit frère » de la sous-traitance issu de la scission d’Acer, qui, tout comme Pegatron issu d’ASUS, prouve que la partie « abandonnée » du milieu de chaîne finit souvent par grimper plus haut.
 
 ## Références
 

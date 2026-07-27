@@ -157,10 +157,10 @@ Entre la ligne de production de Thunder Tiger à Taichung, commencée en 1979 av
 
 **À lire également**
 
-- [Modernisation de la défense et du militaire taïwanais](/society/台灣國防與軍事現代化) — La vue d'ensemble de la stratégie du hérisson derrière les 200 000 drones
-- [Industrie des semi-conducteurs](/technology/半導體產業) — Le secteur stratégique précédent de Taïwan, né de la géopolitique
-- [Développement de l'industrie spatiale taïwanaise](/technology/台灣太空產業發展) — Des drones aux satellites, l'ambition céleste de Taïwan
-- [Industrie robotique taïwanaise](/technology/台灣機器人產業) — Un autre cas de « forts en composants, faibles en ensembles », partageant les mêmes difficultés structurelles avec les drones
+- [Modernisation de la défense et du militaire taïwanais](/fr/society/taiwan-defense-modernization) — La vue d'ensemble de la stratégie du hérisson derrière les 200 000 drones
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Le secteur stratégique précédent de Taïwan, né de la géopolitique
+- [Développement de l'industrie spatiale taïwanaise](/fr/technology/taiwan-space-industry-development) — Des drones aux satellites, l'ambition céleste de Taïwan
+- [Industrie robotique taïwanaise](/fr/technology/taiwan-robotics-industry) — Un autre cas de « forts en composants, faibles en ensembles », partageant les mêmes difficultés structurelles avec les drones
 
 ## Références
 

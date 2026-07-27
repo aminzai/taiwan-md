@@ -142,12 +142,12 @@ De la porte « Taiwan » fermée à Montréal en 1976 à l’équipe que le mond
 
 ## Lectures complémentaires
 
-- [Tai Tzu-ying](/People/戴資穎) : de jeune fille de Zuoying, Kaohsiung, à triple numéro un mondiale
-- [Kuo Hsing-chun](/People/郭婞淳) : le parcours d’une haltérophile médaillée lors de trois Jeux olympiques consécutifs
-- [Lee Yang](/People/李洋) : la paire Lee-Wang écrit la première conservation du titre en double hommes de l’histoire olympique
-- [Yang Yung-wei](/People/楊勇緯) : le système d’entraînement derrière l’argent en judo à Tokyo 2020
-- [Chuang Chih-yuan](/People/莊智淵) : le roi solitaire du tennis de table, quatre fois champion d’Asie
-- [Culture du baseball taïwanais](/Culture/台灣棒球文化) : un siècle d’histoire du baseball, de Kano à la CPBL
+- [Tai Tzu-ying](/fr/people/tai-tzu-ying) : de jeune fille de Zuoying, Kaohsiung, à triple numéro un mondiale
+- [Kuo Hsing-chun](/fr/people/kuo-hsing-chun-olympic-weightlifting-champion) : le parcours d’une haltérophile médaillée lors de trois Jeux olympiques consécutifs
+- [Lee Yang](/fr/people/lee-yang-badminton) : la paire Lee-Wang écrit la première conservation du titre en double hommes de l’histoire olympique
+- [Yang Yung-wei](/fr/people/yang-yung-wei-judo-olympic-silver) : le système d’entraînement derrière l’argent en judo à Tokyo 2020
+- [Chuang Chih-yuan](/fr/people/chuang-chih-yuan-table-tennis-legend) : le roi solitaire du tennis de table, quatre fois champion d’Asie
+- [Culture du baseball taïwanais](/fr/culture/taiwan-baseball-culture) : un siècle d’histoire du baseball, de Kano à la CPBL
 
 ## Références
 

@@ -136,7 +136,7 @@ Les glycines du pavillon Zitetu fleurissent chaque printemps. Zhou Yu, âgé de 
 
 ## Lectures complémentaires
 
-- [台灣茶文化](/culture/台灣茶文化) - Guide approfondi des variétés de thé et des zones de production
-- [傳統節慶與慶典](/culture/傳統節慶與慶典) - Le rôle du thé dans les festivals
-- [台灣感性：我們是不是要韓國人先按讚，才敢說自己的老房子很美？](/culture/台灣感性) — Une autre redécouverte de l'esthétique quotidienne taïwanaise, les grilles de fer forgé, le terrazzo, les vieilles maisons : cet article se demande si cette redécouverte doit attendre que d'autres like d'abord
-- [客家文化與語言](/culture/客家文化與語言) - Le lien entre le thé Oriental Beauty et les villages du thé hakka
+- [台灣茶文化](/fr/culture/taiwanese-tea-culture-and-living-aesthetics) - Guide approfondi des variétés de thé et des zones de production
+- [傳統節慶與慶典](/fr/culture/traditional-festivals-and-celebrations) - Le rôle du thé dans les festivals
+- [台灣感性：我們是不是要韓國人先按讚，才敢說自己的老房子很美？](/fr/culture/taiwanese-sensibility) — Une autre redécouverte de l'esthétique quotidienne taïwanaise, les grilles de fer forgé, le terrazzo, les vieilles maisons : cet article se demande si cette redécouverte doit attendre que d'autres like d'abord
+- [客家文化與語言](/fr/culture/hakka-culture-and-language) - Le lien entre le thé Oriental Beauty et les villages du thé hakka

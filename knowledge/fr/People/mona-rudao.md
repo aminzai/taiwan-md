@@ -265,10 +265,10 @@ Peut-être que la première étape pour véritablement connaître Mona Rudaw n'e
 
 **Lectures complémentaires** :
 
-- [Wei De-Sheng](/people/魏德聖) — Réalisateur de _Seediq Bale_ ayant porté Mona Rudaw à l'écran, c'est aussi le « revers » de cet article sur « comment le cinéma a remodelé la mémoire ».
-- [Histoire et mouvement de reconnaissance des peuples autochtones de Taïwan](/history/台灣原住民族歷史與正名運動) — Comment le peuple Sedeq s'est独立é du peuple Atayal en 2008, devenant la 14e ethnie de Taïwan.
-- [Période de domination japonaise](/history/日治時期) — Politique de pacification des barbares et cinquante ans de colonisation de Taïwan, contexte de l'événement de Wushe.
-- [Justice foncière et territoires traditionnels des peuples autochtones de Taïwan](/society/台灣原住民族土地正義與傳統領域) — Les champs de chasse que Mona a défendus s'étendent jusqu'aux controverses actuelles de délimitation des territoires traditionnels.
+- [Wei De-Sheng](/fr/people/wei-te-sheng-taiwanese-epic-filmmaker) — Réalisateur de _Seediq Bale_ ayant porté Mona Rudaw à l'écran, c'est aussi le « revers » de cet article sur « comment le cinéma a remodelé la mémoire ».
+- [Histoire et mouvement de reconnaissance des peuples autochtones de Taïwan](/fr/history/indigenous-peoples-history-and-naming-movement) — Comment le peuple Sedeq s'est独立é du peuple Atayal en 2008, devenant la 14e ethnie de Taïwan.
+- [Période de domination japonaise](/fr/history/japanese-colonial-era) — Politique de pacification des barbares et cinquante ans de colonisation de Taïwan, contexte de l'événement de Wushe.
+- [Justice foncière et territoires traditionnels des peuples autochtones de Taïwan](/fr/society/indigenous-land-justice-and-traditional-territories) — Les champs de chasse que Mona a défendus s'étendent jusqu'aux controverses actuelles de délimitation des territoires traditionnels.
 
 ## Sources des images et vidéos
 

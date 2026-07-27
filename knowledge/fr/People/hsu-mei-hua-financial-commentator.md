@@ -115,15 +115,15 @@ Mais ce pseudonyme anonyme est toujours là.
 
 **Pour aller plus loin** :
 
-- [Industrie des semi-conducteurs](/technology/半導體產業) — Le contexte industriel de la bataille anti-UniLight : la structure de Taïwan, de la sous-traitance aux leaders du test/encapsulation et de la conception, et cette frontière invisible « où le capital chinois ne passe pas »
-- [Entreprise taïwanaise : TSMC](/economy/台灣企業：台積電) — La montagne protectrice de la nation que n'osait pas attaquer UniLight, mais qui a déterminé l'autonomie technologique de Taïwan
-- [Entreprise taïwanaise : ASE Technology](/economy/台灣企業：日月月光半導體) — Le géant de l'encapsulation et du test visé simultanément par le capital lors des événements de 2015, un autre repère sur la ligne de front de Hsu Mei-hua dans le domaine des semi-conducteurs
-- [Mouvements sociaux et participation citoyenne](/society/社會運動與公民參與) — De la révolution du Tournesol à la grande révocation, l'évolution du modèle de mobilisation par pseudonyme citoyen comme celui de Hsu Mei-hua à Taïwan
-- [Système démocratique](/society/民主制度) — Le droit de révocation comme outil de démocratie directe dans le système représentatif taïwanais, et le débat autour du seuil derrière les « 7 circonscriptions ayant dépassé 25 % » en 2025
-- [Rencontre Zheng-Xi 2026 : dix minutes pour une nouvelle rencontre des dirigeants du PCC et du KMT après dix ans](/society/2026鄭習會與國共十年再會) — Après l'échec de la grande révocation, comment le scénario politique transstraitier se poursuit
-- [Cheng Li-wen](/people/鄭麗文) – Du côté opposé à la grande révocation : la figure politique centrale qui a mené la contre-offensive du Kuomintang en 2025 et proposé la « coopération bleu-blanc »
-- [Han Kuo-yu](/people/韓國瑜) — La loi de réforme parlementaire sous sa présidence du Yuan législatif, qui a été le détonateur de la grande révocation de 2025
-- [Réforme judiciaire taïwanaise et système de détention préventive](/society/台灣司法改革與預防性羈押制度) — Un autre front de tension entre la société civile et les partis au sein du Yuan législatif en 2025
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Le contexte industriel de la bataille anti-UniLight : la structure de Taïwan, de la sous-traitance aux leaders du test/encapsulation et de la conception, et cette frontière invisible « où le capital chinois ne passe pas »
+- [Entreprise taïwanaise : TSMC](/fr/economy/tsmc) — La montagne protectrice de la nation que n'osait pas attaquer UniLight, mais qui a déterminé l'autonomie technologique de Taïwan
+- [Entreprise taïwanaise : ASE Technology](/economy/台灣企業：日月光半導體) — Le géant de l'encapsulation et du test visé simultanément par le capital lors des événements de 2015, un autre repère sur la ligne de front de Hsu Mei-hua dans le domaine des semi-conducteurs
+- [Mouvements sociaux et participation citoyenne](/fr/society/social-movements-and-civic-participation) — De la révolution du Tournesol à la grande révocation, l'évolution du modèle de mobilisation par pseudonyme citoyen comme celui de Hsu Mei-hua à Taïwan
+- [Système démocratique](/fr/society/democratic-system) — Le droit de révocation comme outil de démocratie directe dans le système représentatif taïwanais, et le débat autour du seuil derrière les « 7 circonscriptions ayant dépassé 25 % » en 2025
+- [Rencontre Zheng-Xi 2026 : dix minutes pour une nouvelle rencontre des dirigeants du PCC et du KMT après dix ans](/fr/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Après l'échec de la grande révocation, comment le scénario politique transstraitier se poursuit
+- [Cheng Li-wen](/fr/people/cheng-li-wun) – Du côté opposé à la grande révocation : la figure politique centrale qui a mené la contre-offensive du Kuomintang en 2025 et proposé la « coopération bleu-blanc »
+- [Han Kuo-yu](/fr/people/han-kuo-yu) — La loi de réforme parlementaire sous sa présidence du Yuan législatif, qui a été le détonateur de la grande révocation de 2025
+- [Réforme judiciaire taïwanaise et système de détention préventive](/fr/society/taiwan-judicial-reform-and-preventive-detention) — Un autre front de tension entre la société civile et les partis au sein du Yuan législatif en 2025
 
 ## Références
 

@@ -91,12 +91,12 @@ Vingt-trois ans après la mise sous scellés de l'hôpital Hoping, le bâtiment 
 
 **Pour aller plus loin**
 
-- [La salle des fumeurs de Taipei : la boîte de verre qui respire dans une ville sans fumée](/society/台北吸菸室) — Le dernier chapitre d'une lutte de quarante ans contre le tabagisme, alors que le front de bataille se déplace de l'intérieur vers l'extérieur
+- [La salle des fumeurs de Taipei : la boîte de verre qui respire dans une ville sans fumée](/fr/society/taipei-smoking-room) — Le dernier chapitre d'une lutte de quarante ans contre le tabagisme, alors que le front de bataille se déplace de l'intérieur vers l'extérieur
 
 - Système médical et assurance maladie universelle à Taïwan — L'infrastructure de base du système épidémiologique : la base de données de 23,4 millions d'assurés
 - Audrey Tang — La ministre déléguée au numérique derrière la carte des masques
 - Système de médecine d'urgence face aux catastrophes à Taïwan — Du séisme du 21 septembre au SRAS : comment les catastrophes ont transformé la médecine
-- [Deux lois sur la médecine régénérative × 30 ans d'ARNm](/society/台灣再生醫療雙法沿革從業人員告白) — L'achat de BNT en 2021 et la législation sur la thérapie cellulaire : double récit en parallèle, prolongement du volet COVID de cet article
+- [Deux lois sur la médecine régénérative × 30 ans d'ARNm](/fr/society/taiwan-regenerative-medicine-laws) — L'achat de BNT en 2021 et la législation sur la thérapie cellulaire : double récit en parallèle, prolongement du volet COVID de cet article
 
 ## Références
 

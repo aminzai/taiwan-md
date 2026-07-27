@@ -113,11 +113,11 @@ Sa prochaine « disparition » ne sera peut-être pas une disparition non plus. 
 
 **Pour aller plus loin :**
 
-- [Rainie Yang](/people/楊丞琳) — une autre chanteuse taïwanaise ayant opéré une transition depuis une trajectoire d'idole, 25 ans à reprendre pouce par pouce le droit d'être définie par quelqu'un d'autre, jusqu'à voir son nom inscrit dans la case « productrice »
-- [Waa Wei](/people/魏如萱) — une trajectoire similaire, quittant la scène grand public dans la seconde moitié des années 2000 pour la musique indépendante, jusqu'à ce que sa voix soit plus reconnaissable que son visage
-- [Chen Chien-chi](/people/陳建騏) — producteur actif à la même époque que le studio Lin Wei-che, contexte lié à la période de _Is There Any Other Way?_
-- [Enno Cheng](/people/鄭宜農) — une autre artiste qui a choisi d'écrire publiquement son propre effondrement, puis de revenir avec des œuvres pour prendre soin d'autres personnes en effondrement
-- [Kowen Ko](/people/柯智棠) — un autre auteur-compositeur-interprète naviguant depuis longtemps à la frontière entre grand public et indépendant, travaillant à son propre rythme
+- [Rainie Yang](/fr/people/rainie-yang) — une autre chanteuse taïwanaise ayant opéré une transition depuis une trajectoire d'idole, 25 ans à reprendre pouce par pouce le droit d'être définie par quelqu'un d'autre, jusqu'à voir son nom inscrit dans la case « productrice »
+- [Waa Wei](/fr/people/waa-wei-singer) — une trajectoire similaire, quittant la scène grand public dans la seconde moitié des années 2000 pour la musique indépendante, jusqu'à ce que sa voix soit plus reconnaissable que son visage
+- [Chen Chien-chi](/fr/people/chen-chien-chi-music-producer) — producteur actif à la même époque que le studio Lin Wei-che, contexte lié à la période de _Is There Any Other Way?_
+- [Enno Cheng](/fr/people/cheng-i-nung) — une autre artiste qui a choisi d'écrire publiquement son propre effondrement, puis de revenir avec des œuvres pour prendre soin d'autres personnes en effondrement
+- [Kowen Ko](/fr/people/ke-zhi-tang-musician) — un autre auteur-compositeur-interprète naviguant depuis longtemps à la frontière entre grand public et indépendant, travaillant à son propre rythme
 
 ---
 

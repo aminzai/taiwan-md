@@ -175,11 +175,11 @@ Par l'errance de toute une vie, il a posé pour toute une génération la questi
 
 **Pour aller plus loin** :
 
-- [La musique populaire taïwanaise : du nakashi à Jay Chou, comment une île a fait de la chanson sa propre voix](/music/台灣流行音樂) — Lo Ta-yu est une figure charnière de cette histoire générale
-- [Le mouvement de la chanson folk taïwanaise : comment « chanter ses propres chansons » a réécrit la musique populaire de Taïwan](/music/台灣民歌運動) — la vague qui précède l'ascension de Lo Ta-yu ; pour le comprendre, il faut d'abord comprendre cette époque
-- [Musique populaire et Golden Melody Awards : comment Taïwan définit la musique sinophone par un prix](/music/金曲獎) — Lo Ta-yu a reçu en 2021 le Prix spécial de contribution des 32e Golden Melody Awards
-- [Sylvia Chang : de jeune première à lauréate des Golden Horse, légende double du cinéma et de la musique taïwanais](/people/張艾嘉) — l'album _Enfance_ de 1981 fit connaître pour la première fois « Enfance » et « L'Histoire du temps », écrites par Lo Ta-yu
-- [Sanmao : une légende générationnelle de la littérature de l'errance](/people/三毛) — scénariste du film homonyme _Poussière rouge qui roule_ ; les paroles et la musique de la chanson sont en réalité de Lo Ta-yu
+- [La musique populaire taïwanaise : du nakashi à Jay Chou, comment une île a fait de la chanson sa propre voix](/fr/music/golden-melodies-legacy-taiwan-pop-music) — Lo Ta-yu est une figure charnière de cette histoire générale
+- [Le mouvement de la chanson folk taïwanaise : comment « chanter ses propres chansons » a réécrit la musique populaire de Taïwan](/fr/music/taiwan-campus-folk-song-movement) — la vague qui précède l'ascension de Lo Ta-yu ; pour le comprendre, il faut d'abord comprendre cette époque
+- [Musique populaire et Golden Melody Awards : comment Taïwan définit la musique sinophone par un prix](/fr/music/pop-music-and-golden-melody-awards) — Lo Ta-yu a reçu en 2021 le Prix spécial de contribution des 32e Golden Melody Awards
+- [Sylvia Chang : de jeune première à lauréate des Golden Horse, légende double du cinéma et de la musique taïwanais](/fr/people/sylvia-chang) — l'album _Enfance_ de 1981 fit connaître pour la première fois « Enfance » et « L'Histoire du temps », écrites par Lo Ta-yu
+- [Sanmao : une légende générationnelle de la littérature de l'errance](/fr/people/san-mao) — scénariste du film homonyme _Poussière rouge qui roule_ ; les paroles et la musique de la chanson sont en réalité de Lo Ta-yu
 
 ## Sources des images
 

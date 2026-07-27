@@ -230,16 +230,16 @@ La prochaine fois que vous passez par Taichung, ne vous rendez pas seulement dan
 
 ## Lectures complémentaires
 
-- [Industrie de fabrication d'instruments de musique de Taïwan : Taïwan dans le son mondial](/music/台灣樂器製造) — Le cluster de saxophone de Houli et le carillon de Wufeng sont la géographie de précision et de musique au-delà de l'industrie de Taichung.
+- [Industrie de fabrication d'instruments de musique de Taïwan : Taïwan dans le son mondial](/fr/music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories) — Le cluster de saxophone de Houli et le carillon de Wufeng sont la géographie de précision et de musique au-delà de l'industrie de Taichung.
 
-- [Keelung](/geography/基隆市) — Série des 22 comtés/villes pilot : de 7e plus grand port de conteneurs mondial en 1984 à 113e en 2018, comme Taichung, un comté/ville « dont le statut administratif a été vu puis réécrit ».
-- [Comté de Nantou](/geography/南投縣) — Frère batch 3 de la série des 22 comtés/villes : seul comté sans mer, l'épicentre du 921 est au centre, partageant le traumatisme de la faille de Chelungpu avec Taichung.
-- [Comté de Changhua](/geography/彰化縣) — Frère batch 4 : irrigation du bassin Babao en 1709, événement de Lin Shuangwen en 1786, expulsion de DuPont par les gens de Lukang en 1986, faisant partie de la vie de la chaîne de montagnes Bagua du centre avec Taichung.
-- [Comté de Yunlin](/geography/雲林縣) — Frère batch 4 : la procession de Mazu de Dajia passe par Xiluo, Huwei, Tuoku, Taichung est le milieu de cette route Mazu.
-- [Ville de Chiayi](/geography/嘉義市) — Frère batch 2 : le point final de la procession de Mazu de Dajia, Xingang, est dans le comté de Chiayi, les deux extrémités de cette route religieuse de 340 km avec Taichung.
-- [Comté de Miaoli](/geography/苗栗縣) — Frère batch 1 : comté voisin au nord, hakka têtu et dette du trésor du comté intérieur, formant la carte hakka du centre avec le littoral de Qingshui et la montagne de Dongshi de Taichung.
-- [Division administrative de Taïwan](/geography/台灣行政區劃) — Histoire complète du système : établissement de la préfecture de Taïwan à Taichung en 1887, district de Taichung en 1920, séparation comté/ville en 1945, fusion et promotion à statut spécial en 2010.
-- [Caractéristiques urbaines et culture régionale](/geography/城市特色與區域文化) — Contexte de comparaison inter-comtés de Taichung en tant que pivot de la vie du centre.
+- [Keelung](/fr/geography/keelung-city) — Série des 22 comtés/villes pilot : de 7e plus grand port de conteneurs mondial en 1984 à 113e en 2018, comme Taichung, un comté/ville « dont le statut administratif a été vu puis réécrit ».
+- [Comté de Nantou](/fr/geography/nantou-county) — Frère batch 3 de la série des 22 comtés/villes : seul comté sans mer, l'épicentre du 921 est au centre, partageant le traumatisme de la faille de Chelungpu avec Taichung.
+- [Comté de Changhua](/fr/geography/changhua-county) — Frère batch 4 : irrigation du bassin Babao en 1709, événement de Lin Shuangwen en 1786, expulsion de DuPont par les gens de Lukang en 1986, faisant partie de la vie de la chaîne de montagnes Bagua du centre avec Taichung.
+- [Comté de Yunlin](/fr/geography/yunlin-county) — Frère batch 4 : la procession de Mazu de Dajia passe par Xiluo, Huwei, Tuoku, Taichung est le milieu de cette route Mazu.
+- [Ville de Chiayi](/fr/geography/chiayi-city) — Frère batch 2 : le point final de la procession de Mazu de Dajia, Xingang, est dans le comté de Chiayi, les deux extrémités de cette route religieuse de 340 km avec Taichung.
+- [Comté de Miaoli](/fr/geography/miaoli-county) — Frère batch 1 : comté voisin au nord, hakka têtu et dette du trésor du comté intérieur, formant la carte hakka du centre avec le littoral de Qingshui et la montagne de Dongshi de Taichung.
+- [Division administrative de Taïwan](/fr/geography/administrative-divisions-of-taiwan) — Histoire complète du système : établissement de la préfecture de Taïwan à Taichung en 1887, district de Taichung en 1920, séparation comté/ville en 1945, fusion et promotion à statut spécial en 2010.
+- [Caractéristiques urbaines et culture régionale](/fr/geography/urban-character-and-regional-culture) — Contexte de comparaison inter-comtés de Taichung en tant que pivot de la vie du centre.
 
 ## Sources d'images
 

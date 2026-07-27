@@ -194,7 +194,7 @@ Les jeunes Taïwanais de vingt ans considèrent comme un sens commun que « Ta
 
 ## Lectures complémentaires
 
-- [Démocratisation de Taïwan](/History/台灣民主轉型) — Du martial law à la démocratie, le contexte plus large de la résolution.
-- [Élections et politique partisane à Taïwan](/History/台灣選舉與政黨政治) — Comment la transformation du DPP a influencé la politique électorale.
-- [Affaire Beautiful Island](/History/美麗島事件) — Le point de départ de Shih Ming‑te, comprendre le mouvement d’opposition.
-- [Crises du détroit et évolution des relations cross‑strait](/History/台海危機與兩岸關係發展) — Comment la crise de 1996 a accéléré la pragmatisation du DPP.
+- [Démocratisation de Taïwan](/fr/history/taiwan-democratization) — Du martial law à la démocratie, le contexte plus large de la résolution.
+- [Élections et politique partisane à Taïwan](/fr/history/taiwan-elections-and-party-politics) — Comment la transformation du DPP a influencé la politique électorale.
+- [Affaire Beautiful Island](/fr/history/kaohsiung-incident-formosa-incident) — Le point de départ de Shih Ming‑te, comprendre le mouvement d’opposition.
+- [Crises du détroit et évolution des relations cross‑strait](/fr/history/taiwan-strait-crises-and-cross-strait-relations) — Comment la crise de 1996 a accéléré la pragmatisation du DPP.

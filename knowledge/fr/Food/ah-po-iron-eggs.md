@@ -105,7 +105,7 @@ Les œufs de fer ne sont pas qu'une simple collation : ils portent en eux l'hist
 
 ## Thèmes connexes
 
-- [Culture des marchés nocturnes](/Food/夜市文化) — Analyse approfondie du marché nocturne en tant qu'espace social
-- [Cuisine de rue taïwanaise](/Food/台灣小吃) — Le courage populaire de la cuisine quotidienne taïwanaise
-- [Le _lu rou fan_ taïwanais](/Food/台灣滷肉飯) — La mémoire ethnique dans un bol de riz à la viande braisée
-- [Culture culinaire hakka](/Food/客家飲食文化) — La sagesse alimentaire du peuple hakka
+- [Culture des marchés nocturnes](/fr/food/night-market-culture) — Analyse approfondie du marché nocturne en tant qu'espace social
+- [Cuisine de rue taïwanaise](/fr/food/taiwanese-street-food) — Le courage populaire de la cuisine quotidienne taïwanaise
+- [Le _lu rou fan_ taïwanais](/fr/food/braised-pork-rice) — La mémoire ethnique dans un bol de riz à la viande braisée
+- [Culture culinaire hakka](/fr/food/hakka-food-culture) — La sagesse alimentaire du peuple hakka

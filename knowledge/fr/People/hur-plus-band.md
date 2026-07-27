@@ -61,14 +61,14 @@ Entre cinquante millions et quatre cents millions, c'est la distance réelle ent
 
 À ses débuts, HUR était un groupe de six membres :
 
-| Nom de scène                  | Nom réel      | Origine               | Rôle                                     |
-| ----------------------------- | ------------- | --------------------- | ---------------------------------------- |
-| Cindy                         | Li Shan-zhen  | Pingtung              | Leader, choriste, visuel                 |
-| Jasmine                       | Pei Jie       | Taipei                | Vocaliste principale, centre             |
-| C.Holly                       | Wang Can-yun  | Royaume-Uni           | Rappeuse principale, danseuse principale |
-| **[Lien Ying](/people/連穎)** | **Lien Ying** | **Taichung**          | **Danseuse principale, choriste**        |
-| Sizi                          | Ba Lunyue     | Oulan-Bator, Mongolie | Vocaliste principale                     |
-| Jennifer                      | Xi Ziqi       | Nouveau Taipei        | Choriste, danseuse                       |
+| Nom de scène                          | Nom réel      | Origine               | Rôle                                     |
+| ------------------------------------- | ------------- | --------------------- | ---------------------------------------- |
+| Cindy                                 | Li Shan-zhen  | Pingtung              | Leader, choriste, visuel                 |
+| Jasmine                               | Pei Jie       | Taipei                | Vocaliste principale, centre             |
+| C.Holly                               | Wang Can-yun  | Royaume-Uni           | Rappeuse principale, danseuse principale |
+| **[Lien Ying](/fr/people/lien-ying)** | **Lien Ying** | **Taichung**          | **Danseuse principale, choriste**        |
+| Sizi                                  | Ba Lunyue     | Oulan-Bator, Mongolie | Vocaliste principale                     |
+| Jennifer                              | Xi Ziqi       | Nouveau Taipei        | Choriste, danseuse                       |
 
 Deux des six membres n'étaient pas taïwanais : C.Holly venait du Royaume-Uni, Sizi d'Oulan-Bator, en Mongolie. Felipe.Z l'a voulu dès le départ : intégrer une dimension internationale dans la composition du groupe[^2].
 
@@ -192,7 +192,7 @@ Ce choix a rendu la croissance de HUR+ beaucoup plus lente que celle d'un groupe
 
 ## Jusqu'où un groupe féminin taïwanais peut-il aller
 
-En ce moment, en avril 2026, HUR+ compte neuf membres, trois albums, un total cumulé de 2,61 millions de vues sur YouTube, et une première en Asie du Sud-Est tout juste achevée à Bangkok. La danseuse principale du groupe, [Lien Ying](/people/連穎), s'est lancée dans une carrière solo avec un EP intitulé _EZ_ orienté hip-hop, et les fans ont organisé des actions de soutien simultanées dans trois pays[^10]. La leader Li Shan-zson a quitté son emploi d'hôtesse de l'air pour ce groupe[^11]. C.Holly est montée sur scène avec un plâtre après une fracture de la main[^13]. Les fans de Hong Kong prennent régulièrement l'avion pour la suivre[^15].
+En ce moment, en avril 2026, HUR+ compte neuf membres, trois albums, un total cumulé de 2,61 millions de vues sur YouTube, et une première en Asie du Sud-Est tout juste achevée à Bangkok. La danseuse principale du groupe, [Lien Ying](/fr/people/lien-ying), s'est lancée dans une carrière solo avec un EP intitulé _EZ_ orienté hip-hop, et les fans ont organisé des actions de soutien simultanées dans trois pays[^10]. La leader Li Shan-zson a quitté son emploi d'hôtesse de l'air pour ce groupe[^11]. C.Holly est montée sur scène avec un plâtre après une fracture de la main[^13]. Les fans de Hong Kong prennent régulièrement l'avion pour la suivre[^15].
 
 HUR+ n'est pas une histoire de succès — si le critère de succès est celui de TWICE ou BLACKPINK. Mais c'est une **histoire de survie**. Dans un environnement où la durée de vie moyenne d'un groupe d'idols taïwanais est inférieure à trois ans, continuer à sortir de nouvelles chansons, à donner des concerts, à jouer de Taipei jusqu'à Bangkok, et avoir des fans prêts à débourser 1,5 million de dollars taïwanais en dix minutes pour t'envoyer en Corée du Sud, c'est déjà une réponse en soi.
 
@@ -204,11 +204,11 @@ HUR+ est en train de prouver cette hypothèse. Pas encore complètement, mais ch
 
 ## Pour aller plus loin
 
-- [Lien Ying](/people/連穎) — Danseuse principale de HUR+, première membre d'un groupe taïwanais à se lancer en solo. « Le niveau de danse qu'un groupe féminin devrait avoir »
-- [La nouvelle génération d'idols taïwanais](/culture/台灣新偶像世代) — De DD52 à Cosmic Cheerleaders, six ans d'expérimentation industrielle du télé-crochet idol à Taïwan
-- [Rainie Yang](/people/楊丞琳) — Mentor en chef de DD52, et vingt-cinq ans d'émancipation au sein du système idol
+- [Lien Ying](/fr/people/lien-ying) — Danseuse principale de HUR+, première membre d'un groupe taïwanais à se lancer en solo. « Le niveau de danse qu'un groupe féminin devrait avoir »
+- [La nouvelle génération d'idols taïwanais](/fr/culture/taiwan-new-idol-generation) — De DD52 à Cosmic Cheerleaders, six ans d'expérimentation industrielle du télé-crochet idol à Taïwan
+- [Rainie Yang](/fr/people/rainie-yang) — Mentor en chef de DD52, et vingt-cinq ans d'émancipation au sein du système idol
 - [Mayday](/people/五月天) — L'autre histoire d'un groupe de musique taïwanais, des petites scènes aux stades d'Asie
-- [La musique indépendante taïwanaise](/music/台灣獨立音樂) — L'intersection entre le style musical de HUR+ et l'électronique indépendante
+- [La musique indépendante taïwanaise](/fr/music/indie-music-scene) — L'intersection entre le style musical de HUR+ et l'électronique indépendante
 
 ## Références
 

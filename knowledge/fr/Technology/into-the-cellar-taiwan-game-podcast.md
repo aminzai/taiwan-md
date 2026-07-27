@@ -141,11 +141,11 @@ Les méthodes ont changé. L'esprit — « quelqu'un a déposé la réponse ici 
 
 ## Pour aller plus loin
 
-- [Histoire des migrations des communautés en ligne à Taïwan](/technology/台灣網路社群遷徙史) — Du BBS à Threads, l'histoire des déménagements des plateformes communautaires taïwanaises
-- [L'esprit open source taïwanais](/technology/台灣開源精神) — D'autres Taïwanais qui font tourner des projets « par passion »
-- [PTT (Ptt)](/technology/PTT批踢踢) — Le plus ancien BBS de Taïwan, contemporain de Bahamut
-- [Les deux épées de Softstar](/technology/大宇雙劍) — Les racines émotionnelles du jeu solo taïwanais à la même époque
-- [Les moments de folie des joueurs taïwanais](/technology/台灣玩家的瘋狂時刻) — Les passions collectives des générations de joueurs de la Cave, Gamebase et Bahamut
+- [Histoire des migrations des communautés en ligne à Taïwan](/fr/technology/taiwan-online-community-migration) — Du BBS à Threads, l'histoire des déménagements des plateformes communautaires taïwanaises
+- [L'esprit open source taïwanais](/fr/technology/taiwan-open-source-spirit) — D'autres Taïwanais qui font tourner des projets « par passion »
+- [PTT (Ptt)](/fr/technology/ptt-bulletin-board-system) — Le plus ancien BBS de Taïwan, contemporain de Bahamut
+- [Les deux épées de Softstar](/fr/technology/softstar-twin-classics) — Les racines émotionnelles du jeu solo taïwanais à la même époque
+- [Les moments de folie des joueurs taïwanais](/fr/technology/taiwan-gamers-wildest-moments) — Les passions collectives des générations de joueurs de la Cave, Gamebase et Bahamut
 
 ---
 

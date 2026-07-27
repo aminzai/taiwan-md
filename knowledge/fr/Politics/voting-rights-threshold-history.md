@@ -83,7 +83,7 @@ Lorsque les délégués de l'Assemblée nationale de mission de 2005 ont conçu 
 L'abaissement de l'âge du droit de vote à 18 ans à Taïwan n'est pas une revendication apparue en 2022. En déroulant la chronologie, on peut constater au moins vingt ans d'accumulation :
 
 - **2005** : Deuxième année d'application de la Loi sur le référendum, les associations civiles « Fondation pour la jeunesse » et « Alliance 95 pour le travail des jeunes » commencent à discuter des seuils de participation politique des jeunes[^12]
-- **2014** : Après le [Mouvement des tournesols](/fr/Society/sunflower-movement/), l'éveil de la conscience politique des jeunes générations fait du « droit de vote à 18 ans » une revendication commune des organisations de jeunesse transpartisanes[^13]
+- **2014** : Après le [Mouvement des tournesols](/fr/society/sunflower-movement/), l'éveil de la conscience politique des jeunes générations fait du « droit de vote à 18 ans » une revendication commune des organisations de jeunesse transpartisanes[^13]
 - **2017** : Le Conseil national de développement du Yuan exécutif convoque une « Conférence nationale sur la vision de la jeunesse », dont l'une des conclusions est « recommander l'abaissement de l'âge du droit de vote à 18 ans »[^14]
 - **2018** : L'âge de la majorité civile est abaissé à 18 ans (modification de l'article 12 du Code civil), mais l'article 7 de la Loi sur le référendum abaisse simultanément l'âge du vote référendaire de 20 à 18 ans, créant un décalage institutionnel où « 18 ans permet de voter aux référendums mais pas aux élections présidentielles »[^15]
 - **2020** : Le Comité de révision constitutionnelle du Yuan législatif est établi pour discuter de la révision de l'article 130 de la Constitution
@@ -182,13 +182,13 @@ La fréquence de révision constitutionnelle dans les démocraties n'est génér
 
 ## Pourquoi ce chiffre est important
 
-En élargissant encore la perspective, dans les récits de la [démocratisation](/fr/History/taiwan-democratization-history/) et de la [transition démocratique taïwanaise](/fr/History/taiwan-democratization/), le seuil du droit de vote est souvent traité comme une « question formelle » — moins visible que l'équité électorale, l'alternance politique ou la liberté de la presse. Mais ce seuil d'âge touche à la ** définition fondamentale de « qui est citoyen »** :
+En élargissant encore la perspective, dans les récits de la [démocratisation](/fr/history/taiwan-democratization-history/) et de la [transition démocratique taïwanaise](/fr/history/taiwan-democratization/), le seuil du droit de vote est souvent traité comme une « question formelle » — moins visible que l'équité électorale, l'alternance politique ou la liberté de la presse. Mais ce seuil d'âge touche à la ** définition fondamentale de « qui est citoyen »** :
 
 - Le seuil de 20 ans signifie que la société taïwanaise considère par défaut que les jeunes de 18-19 ans « **ne sont pas encore des citoyens politiques à part entière** »
 - Or ces mêmes personnes sont **déjà des sujets de responsabilité civile à part entière, des sujets de responsabilité pénale, des contribuables, des assujettis au service militaire**
 - Cet écart n'affecte pas la vie quotidienne, mais est remis en lumière à chaque année électorale (élection présidentielle tous les quatre ans, élections unifiées tous les quatre ans)
 
-En novembre 2026 se tiendront les prochaines élections unifiées. Si le Yuan législatif n'a pas relancé la procédure de révision constitutionnelle d'ici là, les jeunes de 18-19 ans en 2026 (nés en 2007-2008) ne pourront toujours pas voter — ils devront attendre 2028 (élection présidentielle) ou 2030 (prochaines élections unifiées) pour obtenir le droit de vote. Parmi ces jeunes, beaucoup étaient encore à l'école primaire lors du [Mouvement des tournesols](/fr/Society/sunflower-movement/) en 2014 ; quand ils auront l'âge de voter, le mouvement aura déjà 14 ans.
+En novembre 2026 se tiendront les prochaines élections unifiées. Si le Yuan législatif n'a pas relancé la procédure de révision constitutionnelle d'ici là, les jeunes de 18-19 ans en 2026 (nés en 2007-2008) ne pourront toujours pas voter — ils devront attendre 2028 (élection présidentielle) ou 2030 (prochaines élections unifiées) pour obtenir le droit de vote. Parmi ces jeunes, beaucoup étaient encore à l'école primaire lors du [Mouvement des tournesols](/fr/society/sunflower-movement/) en 2014 ; quand ils auront l'âge de voter, le mouvement aura déjà 14 ans.
 
 L'échelle de temps des institutions démocratiques est plus longue qu'une génération. Les 20 ans fixés lors de la promulgation de la Constitution en 1947 affectent aujourd'hui la génération née en 2007. **L'année à partir de laquelle cette ligne pourra être abaissée n'a pas encore de réponse.**
 
@@ -198,9 +198,9 @@ L'échelle de temps des institutions démocratiques est plus longue qu'une gén�
 
 - Élections unifiées (九合一選舉是什麼) : origine du système d'élections locales à neuf types de postes qui se tiendra en novembre 2026
 - Élections unifiées 2026 (2026 九合一選舉) : calendrier, nominations et suivi des enjeux de ces élections
-- [Mouvement des tournesols](/fr/Society/sunflower-movement/) : l'événement emblématique de l'éveil de la conscience politique des jeunes générations en 2014
-- [Démocratisation](/fr/History/taiwan-democratization-history/) : la structure à long terme de la démocratisation de Taïwan d'après-guerre
-- [Transition démocratique taïwanaise](/fr/History/taiwan-democratization/) : la transition institutionnelle de l'autoritarisme à la démocratie
+- [Mouvement des tournesols](/fr/society/sunflower-movement/) : l'événement emblématique de l'éveil de la conscience politique des jeunes générations en 2014
+- [Démocratisation](/fr/history/taiwan-democratization-history/) : la structure à long terme de la démocratisation de Taïwan d'après-guerre
+- [Transition démocratique taïwanaise](/fr/history/taiwan-democratization/) : la transition institutionnelle de l'autoritarisme à la démocratie
 - Portail politique : panorama des connaissances sur le système politique taïwanais
 
 ---

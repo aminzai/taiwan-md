@@ -293,11 +293,11 @@ Kaohsiung n’est pas le bas du corps de Taïwan. Kaohsiung est la ville où l�
 
 ## Pour aller plus loin
 
-- [Ville de Keelung](/geography/基隆市) — pilote de la série des 22 villes et comtés : un port dépassé par Kaohsiung à partir de 1969, à lire en regard de Kaohsiung comme les deux extrémités du « renversement nord-sud du centre de gravité économique de Taïwan »
-- [Comté de Pingtung](/geography/屏東縣) — comté voisin dans la série des 22 villes et comtés : incident de Mudan de 1874, coexistence entre le « camp gauche » hakka des Liudui et le « camp droit » de Kaohsiung, inondation simultanée de Linbian et des montagnes de Kaohsiung lors de la catastrophe du 8 août 2009
-- [Ville de Taipei](/geography/台北市) — première municipalité spéciale, promue en 1967, douze ans avant Kaohsiung en 1979 ; le massacre de la famille Lin de 1980 eut lieu rue Xinyi, à Taipei
-- [Incident du 28-Février](/history/二二八事件) — le 6 mars 1947, Peng Meng-chi, commandant de la forteresse de Kaohsiung, ordonna la répression ; défense du lycée de Kaohsiung
-- [Incident de Formosa](/history/美麗島事件) — 10 décembre 1979, rond-point de Dagangpu, événement clé du mouvement tangwai à la fin de la loi martiale
+- [Ville de Keelung](/fr/geography/keelung-city) — pilote de la série des 22 villes et comtés : un port dépassé par Kaohsiung à partir de 1969, à lire en regard de Kaohsiung comme les deux extrémités du « renversement nord-sud du centre de gravité économique de Taïwan »
+- [Comté de Pingtung](/fr/geography/pingtung-county) — comté voisin dans la série des 22 villes et comtés : incident de Mudan de 1874, coexistence entre le « camp gauche » hakka des Liudui et le « camp droit » de Kaohsiung, inondation simultanée de Linbian et des montagnes de Kaohsiung lors de la catastrophe du 8 août 2009
+- [Ville de Taipei](/fr/geography/taipei-city) — première municipalité spéciale, promue en 1967, douze ans avant Kaohsiung en 1979 ; le massacre de la famille Lin de 1980 eut lieu rue Xinyi, à Taipei
+- [Incident du 28-Février](/fr/history/228-incident) — le 6 mars 1947, Peng Meng-chi, commandant de la forteresse de Kaohsiung, ordonna la répression ; défense du lycée de Kaohsiung
+- [Incident de Formosa](/fr/history/kaohsiung-incident-formosa-incident) — 10 décembre 1979, rond-point de Dagangpu, événement clé du mouvement tangwai à la fin de la loi martiale
 - [Massacre de la famille Lin](/history/林宅血案) — 28 février 1980, ruelle 31, section 3 de la rue Xinyi à Taipei ; la mère de Lin Yi-hsiung et ses deux filles jumelles furent assassinées
 - [Levée de la loi martiale à Taïwan](/history/台灣解嚴) — de l’incident de Formosa en 1979 à la levée de la loi martiale en 1987, sept ans et demi de transition
 - [Zones franches industrielles de Taïwan](/society/台灣加工出口區) — la zone franche de Qianzhen à Kaohsiung en 1966 fut le point de départ physique du miracle économique taïwanais

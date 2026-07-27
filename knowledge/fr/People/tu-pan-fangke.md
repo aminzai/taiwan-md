@@ -65,7 +65,7 @@ _Nouvelle‑Xinpu — trace matérielle du réseau d’écrivains Hakka. Pho
 
 ## La voix féminine sous le chapeau du Liège
 
-En 1965, elle rejoint la [Société Li Poésie](/fr/Art/li-poetry-society/) — créée en 1964 comme un collectif poétique à conscience locale. [^1][^7] Elle n’est pas l’une des douze fondatrices, mais la première femme à intégrer le groupe l’année suivante, soutenue par Li Yuan‑chen, Li Min‑yong et d’autres. [^5]
+En 1965, elle rejoint la [Société Li Poésie](/fr/art/li-poetry-society/) — créée en 1964 comme un collectif poétique à conscience locale. [^1][^7] Elle n’est pas l’une des douze fondatrices, mais la première femme à intégrer le groupe l’année suivante, soutenue par Li Yuan‑chen, Li Min‑yong et d’autres. [^5]
 
 En juillet 1966, le magazine _Taiwan Literature_ publie son poème « Printemps ». Un article anglais précise qu’il s’agit d’un manuscrit japonais traduit en mandarin par Wu Zhuoliu. Ce processus, typique de la génération transculturelle, consiste à écrire d’abord en japonais, puis à faire « transférer » le texte dans le mandarin. Li Yuan‑chen note que les premières versions mandarin étaient souvent traduites par des hommes, ce qui atténuait les nuances féminines et a contribué à sous‑estimer l’influence de Du Pan Fang‑ge. [^4]
 
@@ -179,12 +179,12 @@ Du Pan Fang‑ge s’est éteinte en 2016. En 2017, ses manuscrits ont été dé
 
 **Lectures complémentaires** :
 
-- [Société Li Poésie](/art/笠詩社) — Le collectif poétique local auquel elle a adhéré en 1965
-- [Événement du 28 février 1947](/history/二二八事件) — Contexte du massacre qui a touché la famille Zhang
-- [Terreur blanche à Taïwan](/history/台灣白色恐怖) — Cadre politique du _Pi‑an‑hsi_
-- [Histoire de la littérature taïwanaise](/art/台灣文學史) — Position de la génération transculturelle et de la littérature en langue maternelle
-- [Monah‑Neng](/people/莫那能) — Autre figure qui a utilisé une langue non maternelle pour s’exprimer
-- [Poésie moderne taïwanaise](/art/台灣現代詩) — Cartographie des réseaux poétiques d’après‑guerre
+- [Société Li Poésie](/fr/art/li-poetry-society) — Le collectif poétique local auquel elle a adhéré en 1965
+- [Événement du 28 février 1947](/fr/history/228-incident) — Contexte du massacre qui a touché la famille Zhang
+- [Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — Cadre politique du _Pi‑an‑hsi_
+- [Histoire de la littérature taïwanaise](/fr/art/history-of-taiwanese-literature) — Position de la génération transculturelle et de la littérature en langue maternelle
+- [Monah‑Neng](/fr/people/monaneng) — Autre figure qui a utilisé une langue non maternelle pour s’exprimer
+- [Poésie moderne taïwanaise](/fr/art/taiwanese-modern-poetry) — Cartographie des réseaux poétiques d’après‑guerre
 
 ## Sources d’images
 

@@ -174,19 +174,19 @@ Depuis que Qianlong lui a donné le nom de « Jiayi », elle n’a jamais quitt�
 
 Contextes locaux de Chiayi :
 
-- [Chen Cheng-po](/people/陳澄波) — peintre mort devant la gare de Chiayi en 1947, premier Taïwanais sélectionné à l’exposition impériale japonaise pour une peinture occidentale en 1926
-- [Riz au dindon de Chiayi](/food/嘉義火雞肉飯) — histoire alimentaire complète d’un plat populaire propre à Chiayi, passé du poulet de chair au dindon en 1949, puis des dindons blancs de l’aide américaine à une cuisine locale
-- [Alishan : la forêt de l’Empire et la montagne de Gao Yisheng](/history/阿里山：帝國的林場與高一生的山) — la montagne qui transforma Chiayi en capitale du bois, et les communautés tsou qui descendirent en 1947 aider au maintien de l’ordre
+- [Chen Cheng-po](/fr/people/chen-cheng-po) — peintre mort devant la gare de Chiayi en 1947, premier Taïwanais sélectionné à l’exposition impériale japonaise pour une peinture occidentale en 1926
+- [Riz au dindon de Chiayi](/fr/food/chiayi-turkey-rice) — histoire alimentaire complète d’un plat populaire propre à Chiayi, passé du poulet de chair au dindon en 1949, puis des dindons blancs de l’aide américaine à une cuisine locale
+- [Alishan : la forêt de l’Empire et la montagne de Gao Yisheng](/fr/history/alishan-empire-forest-and-uongu-yatauyungana) — la montagne qui transforma Chiayi en capitale du bois, et les communautés tsou qui descendirent en 1947 aider au maintien de l’ordre
 
 Coordonnées historiques plus larges :
 
-- [Incident du 28-Février](/history/二二八事件) — contexte historique de la tragédie politique taïwanaise de 1947 ; Chiayi fut l’une des villes où les affrontements furent les plus violents
-- [Cent ans d’évolution de l’aquarelle taïwanaise](/art/台灣水彩畫的百年流變) — place de l’école picturale de Chiayi dans l’histoire de l’art taïwanais, de l’exposition impériale à l’exposition préfectorale
-- [Culture du baseball à Taïwan](/culture/台灣棒球文化) — position de la deuxième place de Jianong au Kōshien en 1931 dans l’histoire du baseball taïwanais
-- [Histoire ferroviaire de Taïwan](/history/台灣鐵道史) — contexte plus large dans lequel l’achèvement de la ligne longitudinale en 1908 entraîna la construction de la borne du tropique du Cancer
-- [Histoire de l’exploitation forestière à Taïwan](/history/台灣森林開發史) — échelle plus large des 50 ans de foresterie d’Alishan (1914-1963)
-- [Comté de Chiayi](/geography/嘉義縣) — deuxième lot de la série des 22 collectivités locales : le comté qui entoure entièrement cette ville, séparé d’elle en 1950, dont le siège fut déplacé à Taibao en 1991, et qui constitue l’autre moitié du récit de cet article
-- [Ville de Keelung](/geography/基隆市) — premier article de la série des 22 collectivités locales, autre ville portuaire moyenne écrasée par le cadre de la capitale ; comparaison de lignes de fracture différentes entre deux villes moyennes
+- [Incident du 28-Février](/fr/history/228-incident) — contexte historique de la tragédie politique taïwanaise de 1947 ; Chiayi fut l’une des villes où les affrontements furent les plus violents
+- [Cent ans d’évolution de l’aquarelle taïwanaise](/fr/art/century-of-taiwanese-watercolor-painting) — place de l’école picturale de Chiayi dans l’histoire de l’art taïwanais, de l’exposition impériale à l’exposition préfectorale
+- [Culture du baseball à Taïwan](/fr/culture/taiwan-baseball-culture) — position de la deuxième place de Jianong au Kōshien en 1931 dans l’histoire du baseball taïwanais
+- [Histoire ferroviaire de Taïwan](/fr/history/taiwan-railway-history) — contexte plus large dans lequel l’achèvement de la ligne longitudinale en 1908 entraîna la construction de la borne du tropique du Cancer
+- [Histoire de l’exploitation forestière à Taïwan](/fr/history/taiwan-forestry-history) — échelle plus large des 50 ans de foresterie d’Alishan (1914-1963)
+- [Comté de Chiayi](/fr/geography/chiayi-county) — deuxième lot de la série des 22 collectivités locales : le comté qui entoure entièrement cette ville, séparé d’elle en 1950, dont le siège fut déplacé à Taibao en 1991, et qui constitue l’autre moitié du récit de cet article
+- [Ville de Keelung](/fr/geography/keelung-city) — premier article de la série des 22 collectivités locales, autre ville portuaire moyenne écrasée par le cadre de la capitale ; comparaison de lignes de fracture différentes entre deux villes moyennes
 
 ## Sources des images
 

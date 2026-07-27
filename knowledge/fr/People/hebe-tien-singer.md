@@ -56,7 +56,7 @@ Cette phrase ne parle qu'à ceux qui connaissent son enfance. Née en 1983 dans 
 
 En 2000, Tian Fuzhen participe à Hsinchu au concours « Cosmic 2000 : Battle of the Ultimate Pretty Girls », organisé par Cosmic Music, prédécesseur de HIM International Music. En finale, elle chante _I Like You_ de Kit Chan, oublie les paroles en plein milieu, et perd la première place[^2].
 
-Mais elle n'a pas perdu. Après le concours, la maison de disques la met en duo avec Ren Jiayuan (Selina) et Chen Jiahua (Ella) pour former le trio S.H.E. Le 11 septembre 2001, ils sortent leur premier album _Girl's Dormitory_[^3]. Chacune a son rôle : Selina la douceur, Ella le courage, Hebe la confiance, couleur verte. Au cours des dix années suivantes, S.H.E sort 13 albums, pour un total de ventes dépassant les 10 millions d'exemplaires[^4]. Ils sont le nom propre des groupes féminins dans la pop mandarine de 2001 à 2010. On peut se référer à l'article sur [la nouvelle génération d'idoles taïwanaises](/culture/台灣新偶像世代) pour comprendre le poids de S.H.E à cette époque, dans une chaîne de production de groupes d'idoles aujourd'hui rompue.
+Mais elle n'a pas perdu. Après le concours, la maison de disques la met en duo avec Ren Jiayuan (Selina) et Chen Jiahua (Ella) pour former le trio S.H.E. Le 11 septembre 2001, ils sortent leur premier album _Girl's Dormitory_[^3]. Chacune a son rôle : Selina la douceur, Ella le courage, Hebe la confiance, couleur verte. Au cours des dix années suivantes, S.H.E sort 13 albums, pour un total de ventes dépassant les 10 millions d'exemplaires[^4]. Ils sont le nom propre des groupes féminins dans la pop mandarine de 2001 à 2010. On peut se référer à l'article sur [la nouvelle génération d'idoles taïwanaises](/fr/culture/taiwan-new-idol-generation) pour comprendre le poids de S.H.E à cette époque, dans une chaîne de production de groupes d'idoles aujourd'hui rompue.
 
 > **📝 Note du curateur**
 > Les chanteuses de la génération de Tian Fuzhen ont rarement eu d'« album solo ». Elle était une voix de S.H.E, un visage, une couleur. Dix ans, 13 albums, plus de dix millions de ventes — la maison de disques n'avait aucune raison de la laisser partir en solo. Le risque d'un album solo était de démanteler ce trio rentable.
@@ -196,9 +196,9 @@ Le sixième album sortira-t-il cette année ? En 2025, elle a chanté dans des s
 
 ## Pour aller plus loin
 
-- [Chen Jianqi](/people/陳建騏) — Producteur attitré de Tian Fuzhen depuis 2013, meilleur producteur d'album aux 32e Golden Melody Awards
-- [La nouvelle génération d'idoles taïwanaises](/culture/台灣新偶像世代) — Vingt ans de rupture dans la production de groupes d'idoles après S.H.E
-- [Huang Shaoyong](/people/黃少雍) — Producteur considéré, avec Chen Jianqi, comme l'une des deux frontières sonores de la pop mandarine de la dernière décennie
+- [Chen Jianqi](/fr/people/chen-chien-chi-music-producer) — Producteur attitré de Tian Fuzhen depuis 2013, meilleur producteur d'album aux 32e Golden Melody Awards
+- [La nouvelle génération d'idoles taïwanaises](/fr/culture/taiwan-new-idol-generation) — Vingt ans de rupture dans la production de groupes d'idoles après S.H.E
+- [Huang Shaoyong](/fr/people/huang-shao-yong-musician) — Producteur considéré, avec Chen Jianqi, comme l'une des deux frontières sonores de la pop mandarine de la dernière décennie
 
 ---
 

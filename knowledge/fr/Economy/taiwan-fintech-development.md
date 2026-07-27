@@ -125,10 +125,10 @@ En décembre 2025, LINE Bank a annoncé son premier mois de profit. Le montant e
 
 **Lecture complémentaire :**
 
-- [Industrie des semi-conducteurs](/technology/半導體產業) — Un autre secteur taïwanais qui, soutenu par des politiques publiques, a fini par transformer l'équilibre mondial.
-- [Écosystème des startups](/economy/新創生態系) — Panorama de l'écosystème des startups à Taïwan, où se situe JKO Pay.
-- [E-commerce et écosystème de paiement numérique](/technology/電子商務與數位支付生態系) — L'infrastructure du commerce électronique derrière le paiement mobile.
-- [Bourse et marché des capitaux de Taïwan](/economy/台灣股市與資本市場) — De l'époque des appels téléphoniques à l'investissement programmé sur smartphone : l'évolution des infrastructures financières et des marchés de capitaux.
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Un autre secteur taïwanais qui, soutenu par des politiques publiques, a fini par transformer l'équilibre mondial.
+- [Écosystème des startups](/fr/economy/taiwan-startup-ecosystem-overview) — Panorama de l'écosystème des startups à Taïwan, où se situe JKO Pay.
+- [E-commerce et écosystème de paiement numérique](/fr/technology/e-commerce-and-digital-payment-ecosystem) — L'infrastructure du commerce électronique derrière le paiement mobile.
+- [Bourse et marché des capitaux de Taïwan](/fr/economy/taiwan-stock-market) — De l'époque des appels téléphoniques à l'investissement programmé sur smartphone : l'évolution des infrastructures financières et des marchés de capitaux.
 
 ## Références
 

@@ -179,8 +179,8 @@ La confusion du professeur allemand est, en fait, la réponse.
 
 ## Sujets connexes
 
-- [Culture des marchés nocturnes](/food/夜市文化) — Analyse approfondie du marché nocturne en tant que champ social
-- [Thé au lait aux perles](/food/珍珠奶茶) — Hégémonie mondiale des snacks liquides
-- [Riz au porc braisé taïwanais](/food/台灣滷肉飯) — Mémoire ethnique d'un bol de riz au porc braisé
-- [Culture alimentaire Hakka](/food/客家飲食文化) — Savoir-faire culinaire du groupe Hakka
-- [Fusion culinaire des nouveaux résidents de Taïwan](/food/台灣新住民美食融合) — Le prochain métissage culinaire est en train de se produire
+- [Culture des marchés nocturnes](/fr/food/night-market-culture) — Analyse approfondie du marché nocturne en tant que champ social
+- [Thé au lait aux perles](/fr/food/bubble-tea) — Hégémonie mondiale des snacks liquides
+- [Riz au porc braisé taïwanais](/fr/food/braised-pork-rice) — Mémoire ethnique d'un bol de riz au porc braisé
+- [Culture alimentaire Hakka](/fr/food/hakka-food-culture) — Savoir-faire culinaire du groupe Hakka
+- [Fusion culinaire des nouveaux résidents de Taïwan](/fr/food/taiwanese-new-immigrant-culinary-fusion) — Le prochain métissage culinaire est en train de se produire

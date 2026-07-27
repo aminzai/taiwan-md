@@ -2,27 +2,28 @@
 title: "Le pont de Tamsui : à l'horizon de l'estuaire, un monument colossal conçu pour la « transparence »"
 description: "Le pont de Tamsui devrait être inauguré le 12 mai 2026. Conçu par l'équipe de l'architecte Zaha Hadid, ce pont à haubans asymétrique à pylône unique, fruit de trente ans de planification, tente de concilier la préservation du coucher de soleil sur Tamsui et la fluidification du trafic, redéfinissant le paysage de l'estuaire par ses lignes fluides."
 date: 2026-04-29
-author: "Taiwan.md Contributors"
-category: "Technology"
-subcategory: "科技園區"
-tags: [
-    "淡江大橋",
-    "Zaha Hadid",
-    "淡水夕照",
-    "交通建設",
-    "建築美學",
-    "環境保護",
-    "工程技術",
+author: 'Taiwan.md Contributors'
+category: 'Technology'
+subcategory: '科技園區'
+tags:
+  [
+    '淡江大橋',
+    'Zaha Hadid',
+    '淡水夕照',
+    '交通建設',
+    '建築美學',
+    '環境保護',
+    '工程技術',
   ]
 readingTime: 10
 lastVerified: 2026-04-29
 lastHumanReview: false
 featured: false
-translatedFrom: "Technology/淡江大橋.md"
-sourceCommitSha: "4b6d28c54"
-sourceContentHash: "sha256:58ac62b3c0ac9558"
-sourceBodyHash: "sha256:2f938b13f0ca156c"
-translatedAt: "2026-05-20T05:08:34+08:00"
+translatedFrom: 'Technology/淡江大橋.md'
+sourceCommitSha: '4b6d28c54'
+sourceContentHash: 'sha256:58ac62b3c0ac9558'
+sourceBodyHash: 'sha256:2f938b13f0ca156c'
+translatedAt: '2026-05-20T05:08:34+08:00'
 ---
 
 > **En 30 secondes :**
@@ -38,11 +39,11 @@ Les retards ont eu des causes complexes. Initialement dus au développement insu
 
 « C'est un habitat d'incubation stable », a déclaré Zhou Chuanxia, bénévole de la Société de Protection de la Nature Sauvage, en enregistrant la reproduction abondante du gravelot à collier interrompu sur les vasières de Wazihwei [^2]. La zone naturelle protégée de Wazihwei est l'une des rares zones humides de Taïwan à conserver un écosystème estuaire complet, abritant une riche mangrove, foyer de poissons-grenouilles et de crabes violonistes, et servant d'étape cruciale pour de nombreux oiseaux migrateurs. Pour répondre à ces préoccupations, l'équipe d'ingénierie a révisé le design à plusieurs reprises, déplaçant la rampe d'accès de Bali de 500 mètres vers le sud pour éviter la zone protégée, et a finalement opté pour un concours international afin de trouver la meilleure solution esthétique et environnementale [^2].
 
-| Point d'achoppement | Impact | Mesure corrective |
-| :------------------- | :--------------------------------------- | :------------------------------------------------ |
-| Paysage du coucher de soleil de Tamsui | Le pont pourrait masquer le coucher de soleil | Adoption d'un design à haubans asymétrique à pylône unique, réduisant l'obstruction visuelle [^1] |
-| Écosystème de la zone protégée de Wazihwei | Les travaux risquent de détruire les habitats d'oiseaux | Déplacement de la rampe de Bali de 500 mètres vers le sud, évitant la zone protégée [^2] |
-| Difficultés techniques et appels d'offres | Traversée du fleuve Tamsui, défis techniques élevés, 7 appels d'offres infructueux [^7] | Concours international avec l'équipe Zaha Hadid, améliorant design et méthodes [^7] |
+| Point d'achoppement                        | Impact                                                                                  | Mesure corrective                                                                                 |
+| :----------------------------------------- | :-------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
+| Paysage du coucher de soleil de Tamsui     | Le pont pourrait masquer le coucher de soleil                                           | Adoption d'un design à haubans asymétrique à pylône unique, réduisant l'obstruction visuelle [^1] |
+| Écosystème de la zone protégée de Wazihwei | Les travaux risquent de détruire les habitats d'oiseaux                                 | Déplacement de la rampe de Bali de 500 mètres vers le sud, évitant la zone protégée [^2]          |
+| Difficultés techniques et appels d'offres  | Traversée du fleuve Tamsui, défis techniques élevés, 7 appels d'offres infructueux [^7] | Concours international avec l'équipe Zaha Hadid, améliorant design et méthodes [^7]               |
 
 📝 Note du curateur : Ce projet d'infrastructure traite simultanément les valeurs publiques du « progrès » et de la « préservation ».
 
@@ -70,10 +71,10 @@ Cependant, derrière cette persévérance esthétique se cache une difficulté d
 
 Selon l'évaluation des bénéfices de l'inauguration, le trajet entre Tamsui et Bali pourrait être réduit de 15 kilomètres, économisant environ 25 minutes [^3] [^5], mais les controverses ne sont pas entièrement dissipées. Huang Ruei-mao, professeur d'architecture à l'Université de Tamsui, s'est inquiété que ce pont ressemble au « cheval de Troie », introduisant un flux touristique excessif qui nuirait à la qualité de la petite ville de Tamsui [^2].
 
-| Bénéfice de transport | Avant amélioration (estimation) | Après amélioration (estimation) | Temps/distance économisés |
-| :--------------- | :------------- | :------------- | :------------ |
-| Trajet Tamsui-Bali | 30-40 minutes | 5-15 minutes | 25 minutes |
-| Détour par le pont de Kuandu | 15 kilomètres | 0 kilomètre | 15 kilomètres |
+| Bénéfice de transport        | Avant amélioration (estimation) | Après amélioration (estimation) | Temps/distance économisés |
+| :--------------------------- | :------------------------------ | :------------------------------ | :------------------------ |
+| Trajet Tamsui-Bali           | 30-40 minutes                   | 5-15 minutes                    | 25 minutes                |
+| Détour par le pont de Kuandu | 15 kilomètres                   | 0 kilomètre                     | 15 kilomètres             |
 
 De plus, l'effet de vent au niveau du pylône principal et les problèmes de sécurité des voies motocyclistes restent des sujets de discussion au sein de la communauté locale [^3]. Le bureau des transports a également prévu d'exploiter 4 nouvelles lignes de bus en phase d'essai après l'inauguration, tentant de guider les flux touristiques et de réduire l'impact des véhicules privés sur les rues historiques [^3].
 
@@ -85,8 +86,8 @@ L'achèvement du pont de Tamsui marque une étape importante dans la transition 
 
 ## Pour aller plus loin
 
-- [Système de transport taïwanais](/lifestyle/台灣交通系統) — Replacer dans le contexte global des routes, ponts et transports en commun de Taïwan.
-- [Développement urbain et disparités rurales-urbaines à Taïwan](/geography/台灣都市發展與城鄉差距) — Comprendre comment les grandes infrastructures de transport modifient la population régionale et le marché immobilier.
+- [Système de transport taïwanais](/fr/lifestyle/transportation-system) — Replacer dans le contexte global des routes, ponts et transports en commun de Taïwan.
+- [Développement urbain et disparités rurales-urbaines à Taïwan](/fr/geography/taiwan-urban-development-and-rural-urban-divide) — Comprendre comment les grandes infrastructures de transport modifient la population régionale et le marché immobilier.
 
 ## Références
 

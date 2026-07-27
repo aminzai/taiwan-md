@@ -58,7 +58,7 @@ Sur la scène internationale, le Palakaw a également suscité un large intérê
 
 Pour les habitants de Fataan, le Palakaw est un moyen de dialoguer avec la terre. Il nous rappelle qu'avant de prendre à la nature, l'homme doit d'abord apprendre à donner[^16]. Tant que la maison des poissons existe, la vitalité du cours d'eau ne s'épuisera pas. Cette sagesse de coexistence avec la nature continue de rayonner dans le monde à travers l'éducation environnementale et l'écotourisme contemporains[^17][^18].
 
-**Pour aller plus loin** : [Sagesse écologique et conservation environnementale des peuples autochtones de Taïwan](/fr/Nature/taiwanese-indigenous-ecological-wisland-conservation/) ｜ [Îles périphériques et culture maritime](/fr/Geography/offshore-islands-and-maritime-culture/)
+**Pour aller plus loin** : [Sagesse écologique et conservation environnementale des peuples autochtones de Taïwan](/fr/nature/taiwanese-indigenous-ecological-wisdom-conservation) ｜ [Îles périphériques et culture maritime](/fr/geography/offshore-islands-and-maritime-culture/)
 
 ## Références
 

@@ -115,9 +115,9 @@ l'Ours a dit un jour : « Les gens ordinaires ne sont pas médiocres. » Cette p
 
 ## Pour aller plus loin
 
-- [Les Deux Épées de Softstar](/technology/大宇雙劍) — Le point de départ du jeu d'arts martiaux taïwanais il y a trente ans
-- [Red Candle Games](/technology/赤燭遊戲) — Une autre voie pour le jeu indépendant taïwanais
-- [L'industrie du jeu vidéo et du divertissement numérique à Taïwan](/technology/台灣遊戲產業與數位娛樂) — Panorama, de l'agence à la création originale
+- [Les Deux Épées de Softstar](/fr/technology/softstar-twin-classics) — Le point de départ du jeu d'arts martiaux taïwanais il y a trente ans
+- [Red Candle Games](/fr/technology/red-candle-games) — Une autre voie pour le jeu indépendant taïwanais
+- [L'industrie du jeu vidéo et du divertissement numérique à Taïwan](/fr/technology/taiwan-gaming-industry) — Panorama, de l'agence à la création originale
 
 ---
 

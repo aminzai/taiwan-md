@@ -240,13 +240,13 @@ La prochaine fois que vous irez à Yilan, ne vous contentez pas des thermes de J
 
 ## Lectures complémentaires
 
-- [Île Guishan](/geography/龜山島) — L’histoire propre de cette « coordonnée invariable » au large de la plaine de Lanyang : volcan actif, village déplacé sans compensation, 22 ans de zone militaire interdite, et la maison que les habitants de l’île ne peuvent pas retrouver
-- [Divisions administratives de Taïwan](/geography/台灣行政區劃) — L’évolution administrative de 1812 (établissement du bureau de Kavalan), 1875 (rebaptisé comté de Yilan), 1895 (système administratif de l’ère coloniale japonaise)
-- [Topographie côtière et paysages marins de Taïwan](/geography/台灣海岸地形與海洋地景) — Le contexte géologique de l’île volcanique Guishan, du cône alluvial de la rivière Lanyang, de la bande côtière de Su-Hua
-- [Paysages agricoles et distribution industrielle de Taïwan](/geography/台灣農業地景與產業分布) — La position de la fragmentation des terres agricoles de la plaine de Lanyang dans les paysages agricoles de Taïwan
-- [Développement urbain et écart urbain-rural de Taïwan](/geography/台灣都市發展與城鄉差距) — L’effet de ville satellite de Yilan intégrée dans la vie quotidienne d’une journée de Taipei après l’ouverture du tunnel Xueshan
-- [Paysages thermaux de Taïwan](/geography/台灣溫泉地景) — La position spéciale des thermes de Jiaoxi dans la géographie thermale de Taïwan
-- [Ville de Keelung](/geography/基隆市) — Article de la série des 22 comtés et villes, avec Yilan, l’un des comtés et villes du nord-est « invisibles pour Taipei »
+- [Île Guishan](/fr/geography/gueishan-island) — L’histoire propre de cette « coordonnée invariable » au large de la plaine de Lanyang : volcan actif, village déplacé sans compensation, 22 ans de zone militaire interdite, et la maison que les habitants de l’île ne peuvent pas retrouver
+- [Divisions administratives de Taïwan](/fr/geography/administrative-divisions-of-taiwan) — L’évolution administrative de 1812 (établissement du bureau de Kavalan), 1875 (rebaptisé comté de Yilan), 1895 (système administratif de l’ère coloniale japonaise)
+- [Topographie côtière et paysages marins de Taïwan](/fr/geography/taiwan-coastal-landforms-and-seascapes) — Le contexte géologique de l’île volcanique Guishan, du cône alluvial de la rivière Lanyang, de la bande côtière de Su-Hua
+- [Paysages agricoles et distribution industrielle de Taïwan](/fr/geography/taiwan-agricultural-landscapes-and-industry-belts) — La position de la fragmentation des terres agricoles de la plaine de Lanyang dans les paysages agricoles de Taïwan
+- [Développement urbain et écart urbain-rural de Taïwan](/fr/geography/taiwan-urban-development-and-rural-urban-divide) — L’effet de ville satellite de Yilan intégrée dans la vie quotidienne d’une journée de Taipei après l’ouverture du tunnel Xueshan
+- [Paysages thermaux de Taïwan](/fr/geography/taiwan-hot-springs-landscape) — La position spéciale des thermes de Jiaoxi dans la géographie thermale de Taïwan
+- [Ville de Keelung](/fr/geography/keelung-city) — Article de la série des 22 comtés et villes, avec Yilan, l’un des comtés et villes du nord-est « invisibles pour Taipei »
 
 ## Sources d’images
 

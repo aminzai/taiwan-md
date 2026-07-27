@@ -210,9 +210,9 @@ Même si Lee Yang a désormais pris sa retraite, le nom de la paire Lin-Yang res
 
 **Lectures complémentaires** :
 
-- [Kuo Hsing-chun](/people/郭婞淳) — médaillée d’or en haltérophilie aux Jeux olympiques de Tokyo, représentante comme la paire Lin-Yang de la génération dorée olympique taïwanaise
-- [Lee Yang](/people/李洋) — biographie individuelle de la moitié droite de la paire Lin-Yang : du jugement paternel selon lequel il n’était « pas fait pour le badminton » au plus jeune ministre des Sports de l’histoire
-- [Tai Tzu-ying](/people/戴資穎) — numéro un mondiale du simple féminin de la même génération que la paire Lin-Yang, autre visage représentatif de l’âge d’or du badminton taïwanais
+- [Kuo Hsing-chun](/fr/people/kuo-hsing-chun-olympic-weightlifting-champion) — médaillée d’or en haltérophilie aux Jeux olympiques de Tokyo, représentante comme la paire Lin-Yang de la génération dorée olympique taïwanaise
+- [Lee Yang](/fr/people/lee-yang-badminton) — biographie individuelle de la moitié droite de la paire Lin-Yang : du jugement paternel selon lequel il n’était « pas fait pour le badminton » au plus jeune ministre des Sports de l’histoire
+- [Tai Tzu-ying](/fr/people/tai-tzu-ying) — numéro un mondiale du simple féminin de la même génération que la paire Lin-Yang, autre visage représentatif de l’âge d’or du badminton taïwanais
 
 ## Références
 

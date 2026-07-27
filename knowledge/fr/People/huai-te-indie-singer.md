@@ -138,7 +138,7 @@ Le 31 juillet 2020, elle a sorti son premier album complet _A Bedroom of One's O
 Sa méthode d'écriture allait de pair avec cette esthétique : mémos vocaux sur téléphone pour capturer des mélodies à tout moment, tri une fois par mois d'une dizaine de fichiers audio accumulés, puis trois à quatre heures chez Tower pour assembler une chanson[^7]. Les paroles en anglais non plus n'étaient pas écrites de tête : elle cherchait sur Google des chaînes comme « how to name your lover », « how to call your lover », récupérait une longue liste de mots candidats, puis les essayait un par un en chantant[^7].
 
 > **📝 Note du curateur**
-> Entre 2019 et 2020, elle a suivi un chemin emprunté par beaucoup de créatrices R&B de la nouvelle génération : écrire soi-même, chanter soi-même, production de niveau _bedroom_, publier des _lyric videos_ plutôt que des clips, passer par SoundCloud et StreetVoice avant KKBOX et Spotify. Elle et 9m88, le chanteur de deca joins Cheng Jung-ju, et les créateurs de la filière Hello Nico étaient des branches différentes du même écosystème indépendant. Au même moment, la vague lo-fi mondiale de Joji (représentant japonais du lo-fi R&B) et de keshi (représentant coréen du _bedroom pop_ au Texas) montait en puissance ; la branche taïwanaise fleurissait en même temps que le reste du monde. Voir l'article [台灣獨立音樂](/music/台灣獨立音樂) pour le contexte de cette floraison synchronisée.
+> Entre 2019 et 2020, elle a suivi un chemin emprunté par beaucoup de créatrices R&B de la nouvelle génération : écrire soi-même, chanter soi-même, production de niveau _bedroom_, publier des _lyric videos_ plutôt que des clips, passer par SoundCloud et StreetVoice avant KKBOX et Spotify. Elle et 9m88, le chanteur de deca joins Cheng Jung-ju, et les créateurs de la filière Hello Nico étaient des branches différentes du même écosystème indépendant. Au même moment, la vague lo-fi mondiale de Joji (représentant japonais du lo-fi R&B) et de keshi (représentant coréen du _bedroom pop_ au Texas) montait en puissance ; la branche taïwanaise fleurissait en même temps que le reste du monde. Voir l'article [台灣獨立音樂](/fr/music/indie-music-scene) pour le contexte de cette floraison synchronisée.
 
 Durant ses dernières années d'internat à l'hôpital, elle a aussi écrit une chanson intitulée _Seh Ah Seh_[^32]. _Seh_ est la romanisation taïwanaise de 踅 (_se̍h_), qui signifie « errer ». Elle a écrit cette chanson en « faisant les mêmes gestes sans but dans les couloirs de l'hôpital », par ennui ; les paroles décrivent pourtant la fatigue solitaire d'un travailleur migrant après le travail. Elle a transformé l'ennui de l'interne en solitude du travailleur migrant. Cette chanson est devenue celle qu'elle a interprétée en direct lors de la cérémonie des Golden Melody[^32].
 
@@ -294,10 +294,10 @@ Quand elle a dit « S'il vous plaît, n'ayez pas peur » sous les projecteurs de
 
 ## Pour aller plus loin
 
-- [台灣獨立音樂](/music/台灣獨立音樂) — l'écosystème contemporain du _bedroom pop_ / lo-fi R&B en 2019-2020
-- [台灣嘻哈與饒舌發展](/music/台灣嘻哈與饒舌發展) — la polémique misogyne de 2025, qu'elle a soutenue en traversant les frontières, replacée dans le contexte de quarante ans de rap taïwan
-- [田馥甄](/people/田馥甄) — lauréate du prix de la meilleure chanteuse aux mêmes 32e Golden Melody Awards, aux deux extrémités d'une carrière de dix-neuf éditions d'écart
-- [陳建騏](/people/陳建騏) — une autre ligne dans la filière des producteurs de pop mandarine de la même génération
+- [台灣獨立音樂](/fr/music/indie-music-scene) — l'écosystème contemporain du _bedroom pop_ / lo-fi R&B en 2019-2020
+- [台灣嘻哈與饒舌發展](/fr/music/taiwan-hip-hop-and-rap) — la polémique misogyne de 2025, qu'elle a soutenue en traversant les frontières, replacée dans le contexte de quarante ans de rap taïwan
+- [田馥甄](/fr/people/hebe-tien-singer) — lauréate du prix de la meilleure chanteuse aux mêmes 32e Golden Melody Awards, aux deux extrémités d'une carrière de dix-neuf éditions d'écart
+- [陳建騏](/fr/people/chen-chien-chi-music-producer) — une autre ligne dans la filière des producteurs de pop mandarine de la même génération
 
 ---
 
@@ -347,7 +347,7 @@ Quand elle a dit « S'il vous plaît, n'ayez pas peur » sous les projecteurs de
 
 [^25]: [D'étudiante en médecine à nouvelle artiste aux Golden Melody, puis auteure-compositrice indépendante — Entretien HEAVEN RAVEN](https://www.heavenraven.com/2023/05/15/whyte-music-interview/) — Citation directe : « J'ai entendu ma propre chanson alors que j'étais en salle d'opération à assister le médecin référent. Parce qu'à l'hôpital on porte un masque en permanence, et pendant le stage on change de service tous les mois. »
 
-[^26]: [Tien Fu-chen — Wikipédia](https://zh.wikipedia.org/zh-tw/%E7%94%B0%E9%A6%A5%E7%94%84) — Tien Fu-chen a remporté le prix de la meilleure chanteuse aux 32e Golden Melody Awards avec _Nobody Knows_ ; voir l'article [田馥甄](/people/田馥甄).
+[^26]: [Tien Fu-chen — Wikipédia](https://zh.wikipedia.org/zh-tw/%E7%94%B0%E9%A6%A5%E7%94%84) — Tien Fu-chen a remporté le prix de la meilleure chanteuse aux 32e Golden Melody Awards avec _Nobody Knows_ ; voir l'article [田馥甄](/fr/people/hebe-tien-singer).
 
 [^27]: [La « quasi-médecin » ?te Whyte primée, un professeur de la faculté de médecine de Taïwan s'indigne — _Stars United Daily News_](https://stars.udn.com/star/story/10092/5694350) — ⚠️ Le lien renvoie désormais une erreur 404 ; après la remise du prix en 2021, un article signé comme étant d'un professeur de la faculté de médecine de Taïwan, « Vous la laisseriez vous opérer ? », a circulé en ligne, mais la source originale n'est plus traçable. Cette note a été déclassée lors de l'audit en une déclaration générale « des critiques sont apparues en ligne », sans attribution nominative à un professeur spécifique.
 

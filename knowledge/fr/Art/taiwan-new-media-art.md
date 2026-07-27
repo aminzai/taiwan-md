@@ -146,19 +146,19 @@ Lorsque le nom de Yu Shien Yang apparaît sur la liste des lauréats de l'Ars El
 **Pour aller plus loin** :
 
 - [Le développement de la littérature contemporaine taïwanaise](/art/台灣當代文學發展) — L'écosystème créatif taïwanais contemporain, émergé en parallèle de l'art des nouveaux médias, pour comprendre le contexte culturel global
-- [Le théâtre et les arts de la scène à Taïwan](/art/台灣劇場與表演藝術) — Le parcours en arts de la scène d'artistes interdisciplinaires comme Huang Yi, à la croisée du corps et de la technologie
-- [Le cinéma taïwanais](/art/台灣電影) — Un autre fil de l'art visuel taïwanais, partageant les mêmes scènes de festivals que l'art des nouveaux médias
-- [La communauté open source et g0v](/technology/開源社群與g0v) — Une autre facette de la culture technologique taïwanaise, à l'intersection de l'esprit du code ouvert et du monde de l'art
-- [L'histoire de l'industrie télévisuelle taïwanaise](/technology/台灣電視產業史) — L'évolution médiatique de la radio-télévision à l'OTT, le contexte institutionnel de la technologie visuelle
-- [justfont et le développement de la typographie taïwanaise](/technology/justfont與台灣字體發展) — Un autre collectif de créateurs à la croisée du design, de la technologie et de l'identité culturelle : ceux qui réapprennent les caractères taïwanais, trait par trait
-- [Tehching Hsieh](/art/謝德慶) — Le médium du corps avant les nouveaux médias, pionnier de l'art de la performance taïwanaise et maître international des cinq œuvres d'un an
-- [Wang Xin-Ren (A-Luan)](/art/王新仁) — Premier artiste génératif taïwanais à exposer sur Art Blocks, figure centrale des projets akaSwap FAB DAO et Hundred Peaks
-- [Wang Lian-Cheng (Shiba)](/art/王連晟) — Lauréat du premier prix de la catégorie sculpture aux Lumen Awards 2017, membre de l'i/O Lab et directeur du Lacking Sound Festival, figure majeure de l'art sonore d'installation à Taïwan
-- [Wu Zhe-Yu](/people/吳哲宇) — Artiste des nouveaux médias se décrivant comme un « vieil horloger », présent à la Biennale de Venise Personal Structures × Art Basel Miami × initiateur du projet open source Taiwan.md
-- [Le Reporter : dix ans pour sauver le journalisme d'investigation du registre commercial et en faire un bien public](/society/報導者) — Un autre cas de Taiwan-DNA porté par une communauté citoyenne et une croissance transdisciplinaire, illustrant une autre voie de construction de biens publics par la société civile après 2015
-- [justfont et le développement de la typographie taïwanaise : vingt-cinq ans chez Dynatype à soixante-sept minutes pour Jin-Xuan](/technology/justfont與台灣字體發展) — La typographie comme infrastructure culturelle, une autre dimension de la souveraineté visuelle taïwanaise, au même titre que l'art des nouveaux médias
-- [Les câbles sous-marins : visibles au sommet du Bouclier de silicium, invisibles sous la ligne de vie](/technology/海底電纜) — 99 % des collaborations de commissariat et de présentation d'art des nouveaux médias transnationaux transitent par les câbles sous-marins ; cet article révèle cette infrastructure culturelle numérique invisible
-- [Nieh Yung-chen](/people/聶永真) — Premier membre taïwanais de l'Alliance graphique internationale (AGI), son studio Forever Studio et sa position curatrice au sein de la culture visuelle contemporaine taïwanaise
+- [Le théâtre et les arts de la scène à Taïwan](/fr/art/taiwanese-theater-and-performing-arts) — Le parcours en arts de la scène d'artistes interdisciplinaires comme Huang Yi, à la croisée du corps et de la technologie
+- [Le cinéma taïwanais](/fr/art/taiwanese-cinema) — Un autre fil de l'art visuel taïwanais, partageant les mêmes scènes de festivals que l'art des nouveaux médias
+- [La communauté open source et g0v](/fr/technology/open-source-and-g0v) — Une autre facette de la culture technologique taïwanaise, à l'intersection de l'esprit du code ouvert et du monde de l'art
+- [L'histoire de l'industrie télévisuelle taïwanaise](/fr/technology/taiwan-television-industry-history) — L'évolution médiatique de la radio-télévision à l'OTT, le contexte institutionnel de la technologie visuelle
+- [justfont et le développement de la typographie taïwanaise](/fr/technology/justfont-and-taiwan-typography) — Un autre collectif de créateurs à la croisée du design, de la technologie et de l'identité culturelle : ceux qui réapprennent les caractères taïwanais, trait par trait
+- [Tehching Hsieh](/fr/art/tehching-hsieh-performance-artist) — Le médium du corps avant les nouveaux médias, pionnier de l'art de la performance taïwanaise et maître international des cinq œuvres d'un an
+- [Wang Xin-Ren (A-Luan)](/fr/art/wang-hsin-jen-artist) — Premier artiste génératif taïwanais à exposer sur Art Blocks, figure centrale des projets akaSwap FAB DAO et Hundred Peaks
+- [Wang Lian-Cheng (Shiba)](/fr/art/wang-lien-cheng-artist) — Lauréat du premier prix de la catégorie sculpture aux Lumen Awards 2017, membre de l'i/O Lab et directeur du Lacking Sound Festival, figure majeure de l'art sonore d'installation à Taïwan
+- [Wu Zhe-Yu](/fr/people/che-yu-wu) — Artiste des nouveaux médias se décrivant comme un « vieil horloger », présent à la Biennale de Venise Personal Structures × Art Basel Miami × initiateur du projet open source Taiwan.md
+- [Le Reporter : dix ans pour sauver le journalisme d'investigation du registre commercial et en faire un bien public](/fr/society/the-reporter-investigative-journalism) — Un autre cas de Taiwan-DNA porté par une communauté citoyenne et une croissance transdisciplinaire, illustrant une autre voie de construction de biens publics par la société civile après 2015
+- [justfont et le développement de la typographie taïwanaise : vingt-cinq ans chez Dynatype à soixante-sept minutes pour Jin-Xuan](/fr/technology/justfont-and-taiwan-typography) — La typographie comme infrastructure culturelle, une autre dimension de la souveraineté visuelle taïwanaise, au même titre que l'art des nouveaux médias
+- [Les câbles sous-marins : visibles au sommet du Bouclier de silicium, invisibles sous la ligne de vie](/fr/technology/submarine-cables-taiwan-lifeline) — 99 % des collaborations de commissariat et de présentation d'art des nouveaux médias transnationaux transitent par les câbles sous-marins ; cet article révèle cette infrastructure culturelle numérique invisible
+- [Nieh Yung-chen](/fr/people/nieh-yung-jen) — Premier membre taïwanais de l'Alliance graphique internationale (AGI), son studio Forever Studio et sa position curatrice au sein de la culture visuelle contemporaine taïwanaise
 
 ## Références
 

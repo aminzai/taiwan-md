@@ -146,9 +146,9 @@ Il y a quarante-cinq ans, cette rizière misait sur la survie. Une fois le pari 
 
 **Lectures complémentaires** :
 
-- [Industrie des semi-conducteurs](/technology/半導體產業) — Cinquante ans de révolution des matériaux, du transfert de technologie de RCA au nitrure de gallium et à l'encapsulation quantique : comment les puces des parcs sont devenues les plus avancées au monde
-- [Les 50 plus grandes entreprises de Taïwan](/economy/台灣前50大企業) — La « montagne sacrée qui protège le pays » soutient un tableau, mais aussi un pays à point de défaillance unique : l'autre face de la concentration de la valeur de production dans les parcs scientifiques
-- [Les faiseurs de montagne : le pari du siècle](/art/造山者世紀的賭注) — Documentaire de Hsiao Chu-chen sorti en 2025, cinq ans d'entretiens avec plus de quatre-vingts pionniers des semi-conducteurs pour porter à l'écran ce pari du siècle
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Cinquante ans de révolution des matériaux, du transfert de technologie de RCA au nitrure de gallium et à l'encapsulation quantique : comment les puces des parcs sont devenues les plus avancées au monde
+- [Les 50 plus grandes entreprises de Taïwan](/fr/economy/top-50-companies-taiwan) — La « montagne sacrée qui protège le pays » soutient un tableau, mais aussi un pays à point de défaillance unique : l'autre face de la concentration de la valeur de production dans les parcs scientifiques
+- [Les faiseurs de montagne : le pari du siècle](/fr/art/mountain-makers-tsmc-documentary) — Documentaire de Hsiao Chu-chen sorti en 2025, cinq ans d'entretiens avec plus de quatre-vingts pionniers des semi-conducteurs pour porter à l'écran ce pari du siècle
 
 ---
 

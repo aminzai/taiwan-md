@@ -115,11 +115,11 @@ Robert Swinhoe a écrit le mot « rare » à Tamsui il y a 160 ans. Aujourd'hui,
 
 **Pour aller plus loin** :
 
-- [Le problème de la mortalité des oiseaux par collision avec les vitres à Taïwan](/nature/台灣鳥類窗殺議題) — L'écrasement routier du bihoreau malais n'est qu'une facette des risques pour les oiseaux urbains ; les collisions avec les façades vitrées des immeubles causent chaque année une mortalité à une échelle encore plus insidieuse
-- [L'ornithologie de Formosa](/nature/福爾摩沙鳥類學) — En 1865, l'écriture par Swinhoe du mot « rare » pour le bihoreau malais à Tamsui constitue l'une des premières notes de l'ornithologie de cette île
-- [Les écosystèmes forestiers de Taïwan](/nature/台灣森林生態系) — L'habitat d'origine du bihoreau malais en forêt de feuillus de basse altitude, le groupe témoin pour comprendre son urbanisation
-- [Le macaque de Taïwan](/nature/台灣獼猴) — Un autre cas d'animal sauvage pénétrant dans l'espace humain, en sens inverse de l'expansion du bihoreau malais : les humains le croisent constamment sur les chemins
-- [Espèces endémiques](/nature/特有種) — Le bihoreau malais n'est pas une espèce endémique de Taïwan, mais l'ampleur de l'expansion de sa population urbaine à Taïwan est unique au monde
+- [Le problème de la mortalité des oiseaux par collision avec les vitres à Taïwan](/fr/nature/bird-window-collision-taiwan) — L'écrasement routier du bihoreau malais n'est qu'une facette des risques pour les oiseaux urbains ; les collisions avec les façades vitrées des immeubles causent chaque année une mortalité à une échelle encore plus insidieuse
+- [L'ornithologie de Formosa](/fr/nature/the-ornithology-of-formosa) — En 1865, l'écriture par Swinhoe du mot « rare » pour le bihoreau malais à Tamsui constitue l'une des premières notes de l'ornithologie de cette île
+- [Les écosystèmes forestiers de Taïwan](/fr/nature/taiwan-forest-ecosystems) — L'habitat d'origine du bihoreau malais en forêt de feuillus de basse altitude, le groupe témoin pour comprendre son urbanisation
+- [Le macaque de Taïwan](/fr/nature/formosan-rock-macaque) — Un autre cas d'animal sauvage pénétrant dans l'espace humain, en sens inverse de l'expansion du bihoreau malais : les humains le croisent constamment sur les chemins
+- [Espèces endémiques](/fr/nature/endemic-species) — Le bihoreau malais n'est pas une espèce endémique de Taïwan, mais l'ampleur de l'expansion de sa population urbaine à Taïwan est unique au monde
 
 ## Crédits photographiques
 

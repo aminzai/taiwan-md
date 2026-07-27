@@ -396,11 +396,11 @@ En 2024, la capitalisation de TSMC dépasse les dix mille milliards de dollars t
 
 ## Lectures complémentaires
 
-- [台灣企業：台積電 (TSMC)](/economy/台灣企業：台積電) — La « montagne sacrée protectrice de la nation », fondée par lui en 1987 selon le modèle de la fonderie de wafers, aujourd'hui valorisée à plus de soixante mille milliards de dollars taïwanais ; l'entreprise elle-même reste la note explicative la plus complète sur Morris Chang.
-- [施振榮 (Stan Shih)](/people/施振榮) — Le fondateur d'Acer qu'il a invité à siéger au conseil d'administration de TSMC pendant vingt et un ans, et auteur du concept de la « courbe du sourire ». Or la « fabrication intermédiaire » de TSMC est précisément le segment que cette courbe jugeait le moins rentable — et qui s'est révélé, dans les faits, le plus précieux.
-- [郭台銘 (Terry Gou)](/people/郭台銘) — Un autre entrepreneur taïwanais qui a changé le monde par la « sous-traitance » : l'assemblage sous-traité de Foxconn et la fonderie de wafers de TSMC sont les deux voies par lesquelles l'industrie manufacturière taïwanaise a conquis le monde.
-- [半導體產業 (Industrie des semi-conducteurs)](/technology/半導體產業) — Du transfert de technologie de RCA en 1976 à la « montagne sacrée protectrice de la nation » : tout le champ de bataille industriel dans lequel Morris Chang a fait entrer Taïwan de ses propres mains.
-- [台灣產業轉型升級 (Transformation industrielle de Taïwan)](/economy/台灣產業轉型升級) — TSMC est l'exemple le plus concret du passage de Taïwan d'une « île de sous-traitance » à une « île technologique », et le repère central de cette transformation de quarante ans.
+- [台灣企業：台積電 (TSMC)](/fr/economy/tsmc) — La « montagne sacrée protectrice de la nation », fondée par lui en 1987 selon le modèle de la fonderie de wafers, aujourd'hui valorisée à plus de soixante mille milliards de dollars taïwanais ; l'entreprise elle-même reste la note explicative la plus complète sur Morris Chang.
+- [施振榮 (Stan Shih)](/fr/people/stan-shih) — Le fondateur d'Acer qu'il a invité à siéger au conseil d'administration de TSMC pendant vingt et un ans, et auteur du concept de la « courbe du sourire ». Or la « fabrication intermédiaire » de TSMC est précisément le segment que cette courbe jugeait le moins rentable — et qui s'est révélé, dans les faits, le plus précieux.
+- [郭台銘 (Terry Gou)](/fr/people/terry-gou) — Un autre entrepreneur taïwanais qui a changé le monde par la « sous-traitance » : l'assemblage sous-traité de Foxconn et la fonderie de wafers de TSMC sont les deux voies par lesquelles l'industrie manufacturière taïwanaise a conquis le monde.
+- [半導體產業 (Industrie des semi-conducteurs)](/fr/technology/taiwan-semiconductor-industry) — Du transfert de technologie de RCA en 1976 à la « montagne sacrée protectrice de la nation » : tout le champ de bataille industriel dans lequel Morris Chang a fait entrer Taïwan de ses propres mains.
+- [台灣產業轉型升級 (Transformation industrielle de Taïwan)](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC est l'exemple le plus concret du passage de Taïwan d'une « île de sous-traitance » à une « île technologique », et le repère central de cette transformation de quarante ans.
 
 ---
 

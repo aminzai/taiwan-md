@@ -138,7 +138,7 @@ L'année prochaine, que les marins rentrent.
 
 **Lectures complémentaires** :
 
-- [Culture religieuse et temple de Taïwan](/culture/台灣宗教與寺廟文化) — Densité des temples de Taïwan et fonction sociale de la croyance populaire
-- [Culture des processions templaires et des troupes artistiques de Taïwan](/culture/台灣廟會與陣頭文化) — Des troupes artistiques aux Princes San Tai Zi électroniques, comment les processions templaires se transforment dans la société moderne
-- [Fêtes traditionnelles et célébrations](/culture/傳統節慶與慶典) — Panorama des fêtes taïwanaises : Festival des Lanternes, Festival des fantômes, processions de Mazu, etc.
-- [Croyance en la Déesse Xuan Nu](/culture/九天玄女信仰) — Déesses féminines et divinités protectrices locales dans la croyance populaire taïwanaise
+- [Culture religieuse et temple de Taïwan](/fr/culture/taiwan-religion-and-temple-culture) — Densité des temples de Taïwan et fonction sociale de la croyance populaire
+- [Culture des processions templaires et des troupes artistiques de Taïwan](/fr/culture/taiwan-temple-festivals-and-performance-troupes) — Des troupes artistiques aux Princes San Tai Zi électroniques, comment les processions templaires se transforment dans la société moderne
+- [Fêtes traditionnelles et célébrations](/fr/culture/traditional-festivals-and-celebrations) — Panorama des fêtes taïwanaises : Festival des Lanternes, Festival des fantômes, processions de Mazu, etc.
+- [Croyance en la Déesse Xuan Nu](/fr/culture/jiutian-xuannu-belief) — Déesses féminines et divinités protectrices locales dans la croyance populaire taïwanaise

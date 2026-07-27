@@ -230,11 +230,11 @@ La prochaine fois que quelqu’un vous demandera « à quel lieu Taïwan apparti
 
 ## Pour aller plus loin
 
-- [Une histoire insulaire de Taïwan : comment une île gouvernée à répétition a inventé sa propre subjectivité](/history/台灣島史觀) — La méthodologie insulaire de Ts’ao Yung-ho, qui fournit à la « pensée archipélagique » une base historiographique de l’insularité
-- [Art contemporain autochtone taïwanais](/art/台灣原住民當代藝術) — Les peuples autochtones austronésiens comme porteurs vivants du « continuum archipélagique » dans la pratique artistique contemporaine
-- [Traditions musicales des peuples autochtones de Taïwan](/music/台灣原住民音樂傳統) — La forte proximité entre les musiques traditionnelles des 16 peuples autochtones et les musiques d’Océanie, à l’appui de la théorie de l’origine austronésienne
-- [Histoire du commerce maritime de Taïwan](/history/台灣海洋貿易史) — Du jade de Beinan à l’âge des grandes navigations, les connexions maritimes de Taïwan
-- [Carte culturelle des 16 peuples autochtones de Taïwan](/culture/台灣原住民族16族文化地圖) — Les systèmes linguistiques des 16 peuples et leur correspondance avec les neuf grandes branches austronésiennes de Taïwan
+- [Une histoire insulaire de Taïwan : comment une île gouvernée à répétition a inventé sa propre subjectivité](/fr/history/taiwan-island-historiography) — La méthodologie insulaire de Ts’ao Yung-ho, qui fournit à la « pensée archipélagique » une base historiographique de l’insularité
+- [Art contemporain autochtone taïwanais](/fr/art/contemporary-indigenous-art-taiwan) — Les peuples autochtones austronésiens comme porteurs vivants du « continuum archipélagique » dans la pratique artistique contemporaine
+- [Traditions musicales des peuples autochtones de Taïwan](/fr/music/indigenous-music-traditions) — La forte proximité entre les musiques traditionnelles des 16 peuples autochtones et les musiques d’Océanie, à l’appui de la théorie de l’origine austronésienne
+- [Histoire du commerce maritime de Taïwan](/fr/history/taiwan-maritime-trade-history) — Du jade de Beinan à l’âge des grandes navigations, les connexions maritimes de Taïwan
+- [Carte culturelle des 16 peuples autochtones de Taïwan](/fr/culture/indigenous-peoples-16-tribes-cultural-map) — Les systèmes linguistiques des 16 peuples et leur correspondance avec les neuf grandes branches austronésiennes de Taïwan
 
 ![Le pilier de pierre en forme de lune du parc du site de Beinan est un vestige emblématique de la culture de Beinan, datée de 5300 à 2300 ans avant le présent. Plus de 5000 objets en jade ont été exhumés du site de Beinan ; certains ont ensuite été retrouvés par les archéologues dans des sites préhistoriques des Philippines, du Vietnam et de Thaïlande.](/article-images/culture/beinan-stone-pillar.webp)
 

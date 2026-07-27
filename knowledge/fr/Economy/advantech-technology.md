@@ -125,7 +125,7 @@ Depuis sa création en 1983 par trois ingénieurs de Hewlett-Packard jusqu'à sa
 
 **Pour aller plus loin** :
 
-- [Programme AAMA du berceau de Taipei](/fr/economy/AAMA台北搖籃計畫) : la Fondation Advantech pour l'éducation et la culture fait partie des donateurs qui ont accompagné la transformation de ce programme de mentorat entrepreneurial en fondation, et le président Liu Kezhen a lui-même exercé la fonction de mentor. Les deux organisations mènent conjointement le « Programme de co-création d'entreprises AAMA AIoT »
+- [Programme AAMA du berceau de Taipei](/fr/economy/aama-taipei-cradle-program) : la Fondation Advantech pour l'éducation et la culture fait partie des donateurs qui ont accompagné la transformation de ce programme de mentorat entrepreneurial en fondation, et le président Liu Kezhen a lui-même exercé la fonction de mentor. Les deux organisations mènent conjointement le « Programme de co-création d'entreprises AAMA AIoT »
 
 ## Références
 

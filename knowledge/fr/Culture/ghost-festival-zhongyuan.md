@@ -76,8 +76,8 @@ Le festival des morts nous rappelle que la paix sur cette île n'est pas acquise
 
 ## Lectures complémentaires
 
-- [Le mois lunaire septième](/culture/農曆七月) — Le rythme social du mois des fantômes
-- [Le Festival de Duanwu](/culture/端午節) — Comment les outils festifs se localisent à Taïwan
+- [Le mois lunaire septième](/fr/culture/lunar-july-ghost-month) — Le rythme social du mois des fantômes
+- [Le Festival de Duanwu](/fr/culture/dragon-boat-festival) — Comment les outils festifs se localisent à Taïwan
 
 ## Sources
 

@@ -159,14 +159,14 @@ Singapour 2015, c'était une poignée de main. Pékin 2026, c'est une mise en sc
 
 **Pour aller plus loin** :
 
-- [Crises dans le détroit de Taïwan et évolution des relations entre les deux rives](/history/台海危機與兩岸關係發展) — Soixante-dix ans d'interactions entre les deux rives, de 1949 à 2016 : le sommet Zheng-Xi n'est que le dernier chapitre de ce long fleuve.
-- [Environnement politique et système électoral de Taïwan](/society/台灣政治環境與選舉制度) — Comprendre « pourquoi Cheng Li-wên » nécessite d'abord de comprendre le débat d'orientation interne au KMT lors de l'élection à la présidence du parti en 2025.
-- [La transition démocratique de Taïwan](/history/台灣民主轉型) — Pourquoi l'AIT insiste-t-elle sur le « dialogue avec les dirigeants élus » ? Le principe trouve ici sa fondation.
-- [Défense nationale et modernisation militaire de Taïwan](/society/台灣國防與軍事現代化) — Derrière les « arrangements institutionnels de prévention de la guerre » de Cheng se cache un bras de fer politique autour du budget de défense.
-- [Lai Ching-te](/people/賴清德) — L'autre protagoniste de la pièce, celui que l'on a délibérément laissé hors cadre.
-- [Cheng Li-wên](/people/鄭麗文) — De la militante étudiante qui entamait une grève de la faim pour l'indépendance de Taïwan aux portes de l'Université nationale de Taïwan en 1988, à la présidente du KMT déclarant en 2026 à Pékin que « les compatriotes des deux rives sont tous des Chinois ».
-- [Han Kuo-yu](/people/韓國瑜) — Président du Yuan législatif, qui présidait cette semaine-là les négociations budgétaires au Parlement : un autre personnage clé de la pièce.
-- [Taïwan et l'Eswatini](/society/台灣與史瓦帝尼) — À la même période, le discours de Lai Ching-te lors de sa visite à un pays partenaire diplomatique : la mise en regard de « la République de Chine (Taïwan) est un État souverain qui appartient au monde » et de « les compatriotes des deux rives sont tous des Chinois ».
+- [Crises dans le détroit de Taïwan et évolution des relations entre les deux rives](/fr/history/taiwan-strait-crises-and-cross-strait-relations) — Soixante-dix ans d'interactions entre les deux rives, de 1949 à 2016 : le sommet Zheng-Xi n'est que le dernier chapitre de ce long fleuve.
+- [Environnement politique et système électoral de Taïwan](/fr/society/taiwan-political-landscape-and-electoral-system) — Comprendre « pourquoi Cheng Li-wên » nécessite d'abord de comprendre le débat d'orientation interne au KMT lors de l'élection à la présidence du parti en 2025.
+- [La transition démocratique de Taïwan](/fr/history/taiwan-democratization) — Pourquoi l'AIT insiste-t-elle sur le « dialogue avec les dirigeants élus » ? Le principe trouve ici sa fondation.
+- [Défense nationale et modernisation militaire de Taïwan](/fr/society/taiwan-defense-modernization) — Derrière les « arrangements institutionnels de prévention de la guerre » de Cheng se cache un bras de fer politique autour du budget de défense.
+- [Lai Ching-te](/fr/people/lai-ching-te) — L'autre protagoniste de la pièce, celui que l'on a délibérément laissé hors cadre.
+- [Cheng Li-wên](/fr/people/cheng-li-wun) — De la militante étudiante qui entamait une grève de la faim pour l'indépendance de Taïwan aux portes de l'Université nationale de Taïwan en 1988, à la présidente du KMT déclarant en 2026 à Pékin que « les compatriotes des deux rives sont tous des Chinois ».
+- [Han Kuo-yu](/fr/people/han-kuo-yu) — Président du Yuan législatif, qui présidait cette semaine-là les négociations budgétaires au Parlement : un autre personnage clé de la pièce.
+- [Taïwan et l'Eswatini](/fr/society/taiwan-eswatini-relations) — À la même période, le discours de Lai Ching-te lors de sa visite à un pays partenaire diplomatique : la mise en regard de « la République de Chine (Taïwan) est un État souverain qui appartient au monde » et de « les compatriotes des deux rives sont tous des Chinois ».
 
 ## Références
 

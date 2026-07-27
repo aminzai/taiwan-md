@@ -186,9 +186,9 @@ La publicité sert à vendre des choses. Pourtant, dans les publicités taïwana
 
 ## Lectures complémentaires
 
-- [Histoire de l’industrie télévisuelle taïwanaise](/technology/台灣電視產業史) — des trois anciennes chaînes à la télévision câblée et à l’OTT, comment l’écran porteur de la publicité a lui-même évolué
-- [Pxmart](/economy/全聯福利中心) — de la coopérative sombre et malodorante au roi de la distribution, le contexte commercial des publicités Ogilvy sur « l’esthétique économique »
-- [Industrie musicale taïwanaise et ère du streaming](/music/台灣音樂產業與串流時代) — des chansons publicitaires qui rendent des chanteurs célèbres à la consommation musicale segmentée du streaming
+- [Histoire de l’industrie télévisuelle taïwanaise](/fr/technology/taiwan-television-industry-history) — des trois anciennes chaînes à la télévision câblée et à l’OTT, comment l’écran porteur de la publicité a lui-même évolué
+- [Pxmart](/fr/economy/pxmart-supermarket) — de la coopérative sombre et malodorante au roi de la distribution, le contexte commercial des publicités Ogilvy sur « l’esthétique économique »
+- [Industrie musicale taïwanaise et ère du streaming](/fr/music/taiwan-music-industry-and-the-streaming-era) — des chansons publicitaires qui rendent des chanteurs célèbres à la consommation musicale segmentée du streaming
 
 ---
 

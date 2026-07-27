@@ -91,12 +91,12 @@ Alishan n'est pas une montagne, c'est un livre d'histoire pas encore terminé. L
 
 **Pour aller plus loin** :
 
-- [Histoire de l'exploitation forestière à Taïwan](/history/台灣森林開發史) — Comment trois siècles de politique forestière ont transformé Alishan, Taipingshan et Baxianshan en domaines impériaux
-- [La Terreur blanche à Taïwan](/history/台灣白色恐怖) — L'affaire Uongu Yatauyungana n'est qu'une partie de l'épuration des élites tsou ; l'ampleur de la violence politique dans les années 1950
-- [Histoire des peuples autochtones de Taïwan et mouvements de reconnaissance](/history/台灣原住民族歷史與正名運動) — La situation et les luttes du peuple tsou et des autres peuples autochtones dans le Taïwan d'après-guerre
-- [L'Incident du 28 février](/history/二二八事件) — Pourquoi la bonté de Uongu Yatauyungana, qui avait hébergé des provinciaux fuyant les violences, devint finalement l'un de ses chefs d'accusation
-- [La période coloniale japonaise](/history/日治時期) — Le système forestier impérial derrière Kawai Eitarō
-- [Les guerres du camphre au XIXᵉ siècle](/history/19世紀的樟腦戰爭) — Avant la forêt de cyprès d'Alishan, ce furent les camphriers abattus à la fin de la période Qing. La même ligne, de Robert Swinhoe en 1864 à Dabao-she en 1906
+- [Histoire de l'exploitation forestière à Taïwan](/fr/history/taiwan-forestry-history) — Comment trois siècles de politique forestière ont transformé Alishan, Taipingshan et Baxianshan en domaines impériaux
+- [La Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — L'affaire Uongu Yatauyungana n'est qu'une partie de l'épuration des élites tsou ; l'ampleur de la violence politique dans les années 1950
+- [Histoire des peuples autochtones de Taïwan et mouvements de reconnaissance](/fr/history/indigenous-peoples-history-and-naming-movement) — La situation et les luttes du peuple tsou et des autres peuples autochtones dans le Taïwan d'après-guerre
+- [L'Incident du 28 février](/fr/history/228-incident) — Pourquoi la bonté de Uongu Yatauyungana, qui avait hébergé des provinciaux fuyant les violences, devint finalement l'un de ses chefs d'accusation
+- [La période coloniale japonaise](/fr/history/japanese-colonial-era) — Le système forestier impérial derrière Kawai Eitarō
+- [Les guerres du camphre au XIXᵉ siècle](/fr/history/19th-century-camphor-wars) — Avant la forêt de cyprès d'Alishan, ce furent les camphriers abattus à la fin de la période Qing. La même ligne, de Robert Swinhoe en 1864 à Dabao-she en 1906
 
 ## Références
 

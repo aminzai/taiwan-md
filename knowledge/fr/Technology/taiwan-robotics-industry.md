@@ -146,7 +146,7 @@ La différence entre ces deux réponses, c'est le vrai bulletin de notes de l'in
 - La crise de la dénatalité à Taïwan — Pourquoi le NCAIR place-t-il l'assistance aux personnes âgées en tête de liste ? La réponse est dans la démographie
 - La transformation industrielle de Taïwan — De la sous-traitance à la marque, des composants à l'intégration système : un défi structurel évoqué depuis vingt ans
 - L'industrie des machines-outils à Taïwan — Les 1 500 fabricants de mécanique de précision dans la vallée dorée de Dadu Mountain, base amont du hardware robotique
-- [Computex : sur les trois grands salons informatiques internationaux, deux ont disparu, et celui qui reste pousse à Taipei](/technology/Computex) — l'édition 2026 du Computex met l'accent sur l'« IA physique » et l'intelligence incarnée ; la chaîne d'approvisionnement robotique taïwanaise s'y prolonge, de l'assemblage des serveurs IA à celui des robots, comme scène annuelle d'exposition
+- [Computex : sur les trois grands salons informatiques internationaux, deux ont disparu, et celui qui reste pousse à Taipei](/fr/technology/computex-taipei) — l'édition 2026 du Computex met l'accent sur l'« IA physique » et l'intelligence incarnée ; la chaîne d'approvisionnement robotique taïwanaise s'y prolonge, de l'assemblage des serveurs IA à celui des robots, comme scène annuelle d'exposition
 
 ## Références
 

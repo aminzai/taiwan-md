@@ -229,18 +229,18 @@ Le champ de bataille ultime de la guerre cognitive est **la relation de confianc
 
 ## Lectures complémentaires
 
-- [造山者：世紀的賭注](/art/造山者世紀的賭注) — Documentaire de 2025 de Hsiao Ju-chun, 5 ans d’entretiens avec 80+ pionniers des semi-conducteurs, entrant en 2026 dans trois bastions d’investissement de la CHIPS Act à Purdue/Wisconsin/Michigan
+- [造山者：世紀的賭注](/fr/art/mountain-makers-tsmc-documentary) — Documentaire de 2025 de Hsiao Ju-chun, 5 ans d’entretiens avec 80+ pionniers des semi-conducteurs, entrant en 2026 dans trois bastions d’investissement de la CHIPS Act à Purdue/Wisconsin/Michigan
 
-- [Threads à Taïwan](/technology/Threads在台灣) — Histoire de la migration des communautés taïwanaises et structure de la plateforme du champ de bataille de l’information
-- [Miin (Miin)](/technology/迷音Miin) — Plateforme anti-fake news de Du Yi-jin et du Laboratoire d’IA de Taïwan, utilisant l’IA pour traquer les comptes d’opérations coordonnées (pas de vérification cas par cas du contenu)
-- [Fondation pour la culture ouverte](/technology/開放文化基金會) — Héberge le bot de vérification Cofacts, l’organisation arrière-garde veillant sur la liberté internet de Taïwan
-- [Histoire de la migration des communautés réseau de Taïwan](/technology/台灣網路社群遷徙史) — Comprendre le rôle des plateformes PTT, Dcard, Threads dans la guerre cognitive
-- [Médias et liberté de la presse à Taïwan](/society/台灣媒體與新聞自由) — Écosystème journalistique et responsabilité de la plateforme dans la guerre cognitive
-- [Shen Pei-yang](/people/沈伯洋) — L’un des principaux chercheurs sur la guerre cognitive, devient en 2025 la première figure politique élue taïwanaise inculpée par la Chine pour « séparatisme »
-- [Académie des Ours noirs](/society/黑熊學院) — Organisation civile intégrant l’identification de la guerre cognitive dans les camps de base de la défense civile, enseignant au grand public à garder son jugement face aux fake news et à la guerre psychologique
-- [Pommes de terre empoisonnées : au-delà de 200 ppm, il y a 30 ppm, 14 jours et 15 ans de cicatrices alimentaires](/society/毒馬鈴薯認知作戰) — Anatomie de la narration « acte de foi » du Bureau des affaires des Détroits en avril 2026, piétinant précisément les 15 ans de cicatrices alimentaires depuis l’affaire des plastifiants de 2011
-- [Taïwan et l’Eswatini](/society/台灣與史瓦帝尼) — Scénarios concrets des opérations linguistiques du PCC telles que « rat », « infiltration furtive », « risée internationale » : réaction de Lai Ching-te lors de sa visite en Eswatini en mai 2026
-- [Taïwan et le Paraguay](/society/巴拉圭與台灣) — Comment Taïwan soutient le seul partenaire diplomatique en Amérique du Sud face aux appâts du marché chinois et au lobbying politique
+- [Threads à Taïwan](/fr/technology/threads-in-taiwan) — Histoire de la migration des communautés taïwanaises et structure de la plateforme du champ de bataille de l’information
+- [Miin (Miin)](/fr/technology/miin-music-app) — Plateforme anti-fake news de Du Yi-jin et du Laboratoire d’IA de Taïwan, utilisant l’IA pour traquer les comptes d’opérations coordonnées (pas de vérification cas par cas du contenu)
+- [Fondation pour la culture ouverte](/fr/technology/open-culture-foundation) — Héberge le bot de vérification Cofacts, l’organisation arrière-garde veillant sur la liberté internet de Taïwan
+- [Histoire de la migration des communautés réseau de Taïwan](/fr/technology/taiwan-online-community-migration) — Comprendre le rôle des plateformes PTT, Dcard, Threads dans la guerre cognitive
+- [Médias et liberté de la presse à Taïwan](/fr/society/media-and-press-freedom-in-taiwan) — Écosystème journalistique et responsabilité de la plateforme dans la guerre cognitive
+- [Shen Pei-yang](/fr/people/puma-shen) — L’un des principaux chercheurs sur la guerre cognitive, devient en 2025 la première figure politique élue taïwanaise inculpée par la Chine pour « séparatisme »
+- [Académie des Ours noirs](/fr/society/kuma-academy-civil-defense-school) — Organisation civile intégrant l’identification de la guerre cognitive dans les camps de base de la défense civile, enseignant au grand public à garder son jugement face aux fake news et à la guerre psychologique
+- [Pommes de terre empoisonnées : au-delà de 200 ppm, il y a 30 ppm, 14 jours et 15 ans de cicatrices alimentaires](/fr/society/poisoned-potato-cognitive-warfare-taiwan) — Anatomie de la narration « acte de foi » du Bureau des affaires des Détroits en avril 2026, piétinant précisément les 15 ans de cicatrices alimentaires depuis l’affaire des plastifiants de 2011
+- [Taïwan et l’Eswatini](/fr/society/taiwan-eswatini-relations) — Scénarios concrets des opérations linguistiques du PCC telles que « rat », « infiltration furtive », « risée internationale » : réaction de Lai Ching-te lors de sa visite en Eswatini en mai 2026
+- [Taïwan et le Paraguay](/fr/society/paraguay-taiwan) — Comment Taïwan soutient le seul partenaire diplomatique en Amérique du Sud face aux appâts du marché chinois et au lobbying politique
 
 ## Références
 

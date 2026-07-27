@@ -249,11 +249,11 @@ Et les deux camps disent se tenir du côté de l'avenir.
 
 ## Pour aller plus loin
 
-- [Crise climatique et transition zéro émission à Taïwan](/nature/台灣氣候危機與淨零轉型) — L'autre face de la même question énergétique : limites physiques, offre et demande d'électricité, calendrier de décarbonation ; un article jumeau de celui-ci
-- [Histoire du mouvement environnemental taïwanais](/nature/台灣環境運動史) — L'antinucléaire comme partie du mouvement environnemental taïwanais d'après-guerre, depuis la mobilisation de Lukang contre DuPont jusqu'au contexte complet de Gongliao
-- [Justice environnementale et controverses NIMBY à Taïwan](/society/台灣環境正義與鄰避爭議) — La structure NIMBY derrière les déchets nucléaires et Lanyu : pourquoi les risques tombent toujours sur les lieux qui ont le moins de voix
-- [Mouvements sociaux et participation citoyenne](/society/社會運動與公民參與) — Comment l'antinucléaire a partagé avec le mouvement démocratique taïwanais un même langage et une même énergie
-- [Mouvement des Tournesols](/society/太陽花學運) — Une mobilisation citoyenne de la même génération, pour comprendre l'atmosphère des années du jeûne de Lin Yi-hsiung
+- [Crise climatique et transition zéro émission à Taïwan](/fr/nature/taiwan-climate-change-net-zero-transition) — L'autre face de la même question énergétique : limites physiques, offre et demande d'électricité, calendrier de décarbonation ; un article jumeau de celui-ci
+- [Histoire du mouvement environnemental taïwanais](/fr/nature/taiwan-environmental-movement-history) — L'antinucléaire comme partie du mouvement environnemental taïwanais d'après-guerre, depuis la mobilisation de Lukang contre DuPont jusqu'au contexte complet de Gongliao
+- [Justice environnementale et controverses NIMBY à Taïwan](/fr/society/taiwan-environmental-justice-nimby-conflicts) — La structure NIMBY derrière les déchets nucléaires et Lanyu : pourquoi les risques tombent toujours sur les lieux qui ont le moins de voix
+- [Mouvements sociaux et participation citoyenne](/fr/society/social-movements-and-civic-participation) — Comment l'antinucléaire a partagé avec le mouvement démocratique taïwanais un même langage et une même énergie
+- [Mouvement des Tournesols](/fr/society/sunflower-movement) — Une mobilisation citoyenne de la même génération, pour comprendre l'atmosphère des années du jeûne de Lin Yi-hsiung
 
 ## Données publiques
 

@@ -27,7 +27,7 @@ sourceBodyHash: 'sha256:3765efbdda716be7'
 translatedAt: 2026-05-01T20:54:17+08:00
 ---
 
-> **En 30 secondes :** Lien Ying (Erin), née en 1999 à Taichung, commence le ballet, la danse folklorique et la danse chinoise dès le CE2, puis passe au hip-hop au lycée. En 2020, elle participe à _Diamond Girls 52_ (DD52) et affronte son mentor Pan Weibo lors du deuxième épisode : « Je veux que tout le monde sache quel est le niveau de danse qu'un girl group devrait avoir. » Cette phrase devient sa signature. Son équipe, les Storm Spades, termine deuxième du concours et débute sous le nom de [HUR+](/people/HUR-plus), dont elle est la danseuse principale. En 2025, elle sort son premier EP solo, _EZ_, aux sonorités hip-hop / R&B avec des éléments en taïwanais, délibérément loin du registre pop ballade consensuel. Le jour de son anniversaire en 2026, ses fans financent collectivement un spectacle à Dadaocheng où elle interprète en avant-première son nouveau titre _Une seconde de retard_. Elle mène de front les activités de groupe et sa carrière solo. À Taïwan, elle est la première membre d'un girl group à procéder ainsi.
+> **En 30 secondes :** Lien Ying (Erin), née en 1999 à Taichung, commence le ballet, la danse folklorique et la danse chinoise dès le CE2, puis passe au hip-hop au lycée. En 2020, elle participe à _Diamond Girls 52_ (DD52) et affronte son mentor Pan Weibo lors du deuxième épisode : « Je veux que tout le monde sache quel est le niveau de danse qu'un girl group devrait avoir. » Cette phrase devient sa signature. Son équipe, les Storm Spades, termine deuxième du concours et débute sous le nom de [HUR+](/fr/people/hur-plus-band), dont elle est la danseuse principale. En 2025, elle sort son premier EP solo, _EZ_, aux sonorités hip-hop / R&B avec des éléments en taïwanais, délibérément loin du registre pop ballade consensuel. Le jour de son anniversaire en 2026, ses fans financent collectivement un spectacle à Dadaocheng où elle interprète en avant-première son nouveau titre _Une seconde de retard_. Elle mène de front les activités de groupe et sa carrière solo. À Taïwan, elle est la première membre d'un girl group à procéder ainsi.
 
 Le 19 juin 2020, deuxième épisode de _Diamond Girls 52_ (DD52).
 
@@ -64,7 +64,7 @@ Dans sa présentation officielle sur le site de DD52, elle se décrit ainsi : «
 
 Le 4 septembre 2020, finale de DD52. Les Storm Spades de Lien Ying obtiennent 55,4 points, devancées par les Flaming Hearts et leurs 57,9 points. Elles terminent vice-championnes[^5].
 
-Après l'émission, le producteur Felipe signe les six membres des Storm Spades et fonde [HUR+](/people/HUR-plus). Le rôle de Lien Ying dans le groupe est **danseuse principale et choriste** : la notoriété qu'elle a construite à DD52 avec cette phrase emblématique se traduit directement en positionnement au sein du groupe[^2].
+Après l'émission, le producteur Felipe signe les six membres des Storm Spades et fonde [HUR+](/fr/people/hur-plus-band). Le rôle de Lien Ying dans le groupe est **danseuse principale et choriste** : la notoriété qu'elle a construite à DD52 avec cette phrase emblématique se traduit directement en positionnement au sein du groupe[^2].
 
 Le 6 novembre 2020, HUR débute. DD52 remporte le prix du meilleur programme de variétés lors de la 56e cérémonie des Golden Bell Awards[^5].
 
@@ -110,7 +110,7 @@ Lors du même entretien, elle ajoute une autre phrase :
 
 > **✦** « Jolin est ma déesse, j'ai encore beaucoup à apprendre d'elle ! »[^8]
 
-[Cai Yilin](/people/蔡依林), celle qui est passée de « dernière en danse » à reine du chant et de la danse sinophone, est l'idole publiquement revendiquée par Lien Ying. Le parallèle est fascinant : Cai Yilin a mis vingt-cinq ans pour passer de « pas faite pour danser » à une artiste capable de faire des figures à dix mètres du sol, et Lien Ying emprunte sa propre voie dans une direction similaire, partant de la danse pour repousser les limites du cadre de l'idole.
+[Cai Yilin](/fr/people/jolin-tsai), celle qui est passée de « dernière en danse » à reine du chant et de la danse sinophone, est l'idole publiquement revendiquée par Lien Ying. Le parallèle est fascinant : Cai Yilin a mis vingt-cinq ans pour passer de « pas faite pour danser » à une artiste capable de faire des figures à dix mètres du sol, et Lien Ying emprunte sa propre voie dans une direction similaire, partant de la danse pour repousser les limites du cadre de l'idole.
 
 > **📝 Note du commissaire**
 > L'épisode S3EP.89 du podcast _Taiwan Hip Hop Voice_ comprend une interview de Lien Ying intitulée « De la démonstration du niveau de danse d'un girl group à la redéfinition de l'artiste complète chant et danse »[^9]. Ce titre décrit précisément l'arc qui va de DD52 à l'EP solo : en 2020, elle définissait le « niveau de danse d'un girl group » ; en 2025, elle s'affranchit de cette définition.
@@ -171,11 +171,11 @@ Commencer la danse au CE2, se réinventer au lycée, être stagiaire, passer de 
 
 ## Pour aller plus loin
 
-- [HUR+](/people/HUR-plus) — Le groupe de Lien Ying. Vice-champions de DD52, le seul groupe encore actif et qui sort des albums six ans plus tard
-- [La nouvelle génération d'idoles taïwanaises](/culture/台灣新偶像世代) — De DD52 aux Cosmic Girls, l'expérience industrielle des émissions de survie pour idoles à Taïwan
-- [Cai Yilin](/people/蔡依林) — La « déesse » de Lien Ying. Une autre histoire de danseuse qui repousse les limites du cadre de l'idole
-- [Yang Chenglin](/people/楊丞琳) — Mentor principale de DD52. De 4 in Love à _Ambiguous 2025_, vingt-cinq ans de carrière
-- [Zhou Ziyu](/people/周子瑜) — Une autre jeune Taïwanaise qui a trouvé sa place dans le système des idoles
+- [HUR+](/fr/people/hur-plus-band) — Le groupe de Lien Ying. Vice-champions de DD52, le seul groupe encore actif et qui sort des albums six ans plus tard
+- [La nouvelle génération d'idoles taïwanaises](/fr/culture/taiwan-new-idol-generation) — De DD52 aux Cosmic Girls, l'expérience industrielle des émissions de survie pour idoles à Taïwan
+- [Cai Yilin](/fr/people/jolin-tsai) — La « déesse » de Lien Ying. Une autre histoire de danseuse qui repousse les limites du cadre de l'idole
+- [Yang Chenglin](/fr/people/rainie-yang) — Mentor principale de DD52. De 4 in Love à _Ambiguous 2025_, vingt-cinq ans de carrière
+- [Zhou Ziyu](/fr/people/tzuyu) — Une autre jeune Taïwanaise qui a trouvé sa place dans le système des idoles
 
 ## Références
 

@@ -115,8 +115,8 @@ La renaissance de la BD taïwanaise est à la fois une question industrielle et 
 
 ## Pour aller plus loin
 
-- [Culture anime et manga à Taïwan](/culture/台灣動漫文化) — La culture de consommation du point de vue du lecteur : cosplay, _doujinshi_, conventions, mémoire générationnelle
-- [Le cinéma taïwanais](/art/台灣電影) — Un autre axe de la narration visuelle taïwanaise
+- [Culture anime et manga à Taïwan](/fr/culture/taiwan-anime-culture) — La culture de consommation du point de vue du lecteur : cosplay, _doujinshi_, conventions, mémoire générationnelle
+- [Le cinéma taïwanais](/fr/art/taiwanese-cinema) — Un autre axe de la narration visuelle taïwanaise
 - [L'évolution de la littérature contemporaine taïwanaise](/art/台灣當代文學發展) — La dimension textuelle de la conscience créatrice taïwanaise
 
 ## Références
@@ -137,4 +137,4 @@ La renaissance de la BD taïwanaise est à la fois une question industrielle et 
 
 ---
 
-_Dernière vérification : 2026-04-19 (Issue #556, proposition de @idlccp1984 de fusionner les articles originaux « BD et illustration taïwanaises » et « BD et culture anime taïwanaises » ; la partie anime a été séparée en [Culture anime et manga à Taïwan](/culture/台灣動漫文化))_
+_Dernière vérification : 2026-04-19 (Issue #556, proposition de @idlccp1984 de fusionner les articles originaux « BD et illustration taïwanaises » et « BD et culture anime taïwanaises » ; la partie anime a été séparée en [Culture anime et manga à Taïwan](/fr/culture/taiwan-anime-culture))_

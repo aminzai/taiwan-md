@@ -105,11 +105,11 @@ L'eau du lac Jiaming reflète le ciel, que quelqu'un regarde ou non.
 
 **Pour aller plus loin :**
 
-- [台灣森林生態系](/nature/台灣森林生態系) — De la forêt de feuillus au sapin de haute altitude, une gamme écologique complète selon l'altitude.
-- [台灣高山生態系與冰河孑遺](/nature/台灣高山生態系與冰河孑遺) — Les prairies alpines au-dessus de 3 000 mètres et les espèces reliques de l'ère glaciaire.
-- [台灣國家公園](/nature/台灣國家公園) — Gestion et conservation des trois parcs nationaux montagneux (Yushan, Shei-Pa, Taroko).
-- [台灣步道文化與公民守護](/nature/台灣步道文化與公民守護) — Pratiques locales du mouvement "Leave No Trace" et participation citoyenne à l'entretien des sentiers.
-- [台灣原住民生態智慧與環境保育](/nature/台灣原住民生態智慧與環境保育) — Comment la sagesse millénaire des autochtones dialogue avec la conservation moderne.
+- [台灣森林生態系](/fr/nature/taiwan-forest-ecosystems) — De la forêt de feuillus au sapin de haute altitude, une gamme écologique complète selon l'altitude.
+- [台灣高山生態系與冰河孑遺](/fr/nature/taiwan-alpine-ecosystems-glacial-relicts) — Les prairies alpines au-dessus de 3 000 mètres et les espèces reliques de l'ère glaciaire.
+- [台灣國家公園](/fr/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Gestion et conservation des trois parcs nationaux montagneux (Yushan, Shei-Pa, Taroko).
+- [台灣步道文化與公民守護](/fr/nature/trail-culture-and-civic-stewardship) — Pratiques locales du mouvement "Leave No Trace" et participation citoyenne à l'entretien des sentiers.
+- [台灣原住民生態智慧與環境保育](/fr/nature/taiwanese-indigenous-ecological-wisdom-conservation) — Comment la sagesse millénaire des autochtones dialogue avec la conservation moderne.
 
 ## Références
 

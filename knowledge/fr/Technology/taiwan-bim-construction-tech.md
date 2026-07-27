@@ -265,11 +265,11 @@ Le jour où Shuotao a publié `REVIT_MCP_study` sur GitHub en décembre 2025[^48
 
 **Pour aller plus loin** :
 
-- [Architecture taïwanaise](/art/台灣建築) — récit culturel de l'architecture, des maisons en pierre aux gratte-ciel, cet article est le volet jumeau de la numérisation technique du présent texte
-- [Logement social et justice du logement](/society/社會住宅與居住正義) — l'application du BIM à la gestion de la maintenance du logement social est un axe prioritaire des récents plans de l'Institut de recherche en architecture du Ministère de l'Intérieur
-- [Entreprise taïwanaise : TSMC](/economy/台灣企業：台積電) — l'application du BIM dans les usines de TSMC est le principal champ d'application concret pour des entreprises de construction comme Futsu et Daxin
-- [Développement de l'IA à Taïwan](/technology/AI發展) — MCP d'Anthropic et serveur MCP natif dans Revit 2027 sont un cas concret d'IA × industrie
-- [Industrie des semi-conducteurs](/technology/半導體產業) — solutions d'ingénierie globale pour les usines de fabrication de semi-conducteurs + construction intelligente BIM constituent la base technique de l'expansion des pôles de semi-conducteurs
+- [Architecture taïwanaise](/fr/art/taiwanese-architecture) — récit culturel de l'architecture, des maisons en pierre aux gratte-ciel, cet article est le volet jumeau de la numérisation technique du présent texte
+- [Logement social et justice du logement](/fr/society/social-housing-and-housing-justice) — l'application du BIM à la gestion de la maintenance du logement social est un axe prioritaire des récents plans de l'Institut de recherche en architecture du Ministère de l'Intérieur
+- [Entreprise taïwanaise : TSMC](/fr/economy/tsmc) — l'application du BIM dans les usines de TSMC est le principal champ d'application concret pour des entreprises de construction comme Futsu et Daxin
+- [Développement de l'IA à Taïwan](/fr/technology/ai-development-in-taiwan) — MCP d'Anthropic et serveur MCP natif dans Revit 2027 sont un cas concret d'IA × industrie
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — solutions d'ingénierie globale pour les usines de fabrication de semi-conducteurs + construction intelligente BIM constituent la base technique de l'expansion des pôles de semi-conducteurs
 
 ## Sources des images
 

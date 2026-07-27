@@ -187,11 +187,11 @@ Pingxi essaie cette quatrième voie, et la vallée lors de la prochaine fête de
 
 **Pour aller plus loin :**
 
-- [台灣廟會與陣頭文化](/culture/台灣廟會與陣頭文化) — Autre cas de tension entre patrimoine culturel et enjeux environnementaux, comme les lanternes célestes
-- [傳統節慶與慶典](/culture/傳統節慶與慶典) — Panorama général des fêtes taiwanaises, pour situer les lanternes célestes parmi les autres fêtes de la fête des Lanternes
-- [台灣宗教與寺廟文化](/culture/台灣宗教與寺廟文化) — De la déesse Mazu du temple Cheng-an à la continuité des symboles de bénédiction
-- [台灣鐵道史](/history/台灣鐵道史) — Pourquoi la ligne de chemin de fer de Pingxi a transformé la fête des lanternes de cette vallée en marque internationale
-- [台灣森林生態系](/nature/台灣森林生態系) — L'impact réel des débris de lanternes célestes sur les systèmes forestiers
+- [台灣廟會與陣頭文化](/fr/culture/taiwan-temple-festivals-and-performance-troupes) — Autre cas de tension entre patrimoine culturel et enjeux environnementaux, comme les lanternes célestes
+- [傳統節慶與慶典](/fr/culture/traditional-festivals-and-celebrations) — Panorama général des fêtes taiwanaises, pour situer les lanternes célestes parmi les autres fêtes de la fête des Lanternes
+- [台灣宗教與寺廟文化](/fr/culture/taiwan-religion-and-temple-culture) — De la déesse Mazu du temple Cheng-an à la continuité des symboles de bénédiction
+- [台灣鐵道史](/fr/history/taiwan-railway-history) — Pourquoi la ligne de chemin de fer de Pingxi a transformé la fête des lanternes de cette vallée en marque internationale
+- [台灣森林生態系](/fr/nature/taiwan-forest-ecosystems) — L'impact réel des débris de lanternes célestes sur les systèmes forestiers
 
 ## Sources des images
 

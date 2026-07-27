@@ -70,7 +70,7 @@ Le deuxième est l’ETF. En juin 2003, Yuanta SITC lance le 0050, le Yuanta Tai
 
 Le troisième facteur est plus important que les deux premiers réunis : TSMC.
 
-Parler de la Bourse taïwanaise en 2026 impose de parler de [TSMC, entreprise taïwanaise](/fr/Economy/tsmc-taiwan-semiconductor/). La Bourse taïwanaise ressemble à un système solaire, et TSMC en est le soleil. **Au 10 mars 2026, le poids de TSMC dans l’indice pondéré atteignait 45,0041 %**[^TWSE權重]. Lorsque son cours se situe autour de 2 265 dollars taïwanais, chaque variation d’un dollar de cette seule action fait bouger l’indice d’environ 8 points[^TWSE權重].
+Parler de la Bourse taïwanaise en 2026 impose de parler de [TSMC, entreprise taïwanaise](/fr/economy/tsmc-taiwan-semiconductor/). La Bourse taïwanaise ressemble à un système solaire, et TSMC en est le soleil. **Au 10 mars 2026, le poids de TSMC dans l’indice pondéré atteignait 45,0041 %**[^TWSE權重]. Lorsque son cours se situe autour de 2 265 dollars taïwanais, chaque variation d’un dollar de cette seule action fait bouger l’indice d’environ 8 points[^TWSE權重].
 
 Décrire cette proportion comme celle d’une « composante importante » serait gravement inexact. Elle est déjà le marché lui-même.
 
@@ -177,13 +177,13 @@ Qu’apprendra le marché de capitaux taïwanais au cours des trente prochaines 
 
 **Pour aller plus loin**
 
-- [TSMC, entreprise taïwanaise](/economy/台灣企業：台積電) — le soleil qui pèse 45 % de la Bourse taïwanaise, et l’histoire derrière l’expression « montagne sacrée protégeant la nation »
-- [Industrie des semi-conducteurs](/technology/半導體產業) — tout l’écosystème de chaîne d’approvisionnement qui soutient l’identité de Taïwan comme 6e marché mondial
-- [Hon Hai Precision, entreprise taïwanaise](/economy/台灣企業：鴻海精密) — un autre poids lourd de la liste des 25 titres à l’achat de Goldman Sachs, du géant de la sous-traitance à l’acteur en transition vers les serveurs d’IA
-- [Transformation et montée en gamme de l’industrie taïwanaise](/economy/台灣產業轉型升級) — la trajectoire allant de la sous-traitance des années 1980 au dividende de l’IA en 2026
+- [TSMC, entreprise taïwanaise](/fr/economy/tsmc) — le soleil qui pèse 45 % de la Bourse taïwanaise, et l’histoire derrière l’expression « montagne sacrée protégeant la nation »
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — tout l’écosystème de chaîne d’approvisionnement qui soutient l’identité de Taïwan comme 6e marché mondial
+- [Hon Hai Precision, entreprise taïwanaise](/fr/economy/foxconn-precision-industry) — un autre poids lourd de la liste des 25 titres à l’achat de Goldman Sachs, du géant de la sous-traitance à l’acteur en transition vers les serveurs d’IA
+- [Transformation et montée en gamme de l’industrie taïwanaise](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — la trajectoire allant de la sous-traitance des années 1980 au dividende de l’IA en 2026
 - [Miracle économique taïwanais](/fr/economy/economic-miracle) — l’argent de l’époque où « l’argent de Taïwan montait jusqu’aux chevilles » a finalement afflué vers la Bourse de 1990 et Hung Yuan
-- [Développement de la fintech à Taïwan](/economy/台灣金融科技發展) — du téléphone de maison de courtage au plan d’investissement périodique sur smartphone, l’infrastructure financière derrière un compte
-- [Apple Sidra](/food/蘋果西打) — la chaîne de transferts de participation d’Atlantic Beverage, société cotée en 1965 (code 1213), constitue un cas miniature reliant deux moments de l’histoire du capital : l’affaire de la Tenth Credit Cooperative en 1985 et l’affaire Hung Yuan en 1990
+- [Développement de la fintech à Taïwan](/fr/economy/taiwan-fintech-development) — du téléphone de maison de courtage au plan d’investissement périodique sur smartphone, l’infrastructure financière derrière un compte
+- [Apple Sidra](/fr/food/apple-cider) — la chaîne de transferts de participation d’Atlantic Beverage, société cotée en 1965 (code 1213), constitue un cas miniature reliant deux moments de l’histoire du capital : l’affaire de la Tenth Credit Cooperative en 1985 et l’affaire Hung Yuan en 1990
 
 ## Références
 

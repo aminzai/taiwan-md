@@ -261,10 +261,10 @@ Mais la forme est déjà apparue. Une personne, une phrase, derrière une carte 
 
 ## Lectures complémentaires
 
-- [Wu Zheyu (Zheyu)](/people/吳哲宇) : Le créateur de Taiwan.md, approchant également « ce qui grandit par lui-même » par le code et les outils génératifs
-- [Communauté open source et g0v](/technology/開源社群與g0v) : Le contexte collectif de « Écrire du code pour transformer la société », groupe de contrôle de la forme individu × Agent de Migu
-- [Esprit open source de Taïwan](/technology/台灣開源精神) : De la technologie civique de Taïwan, du salut par le clavier aux données ouvertes
-- [Carte d'identité numérique et gouvernement numérique](/technology/數位身分證與數位政府) : L'autre face de l'infrastructure de données ouvertes du gouvernement
+- [Wu Zheyu (Zheyu)](/fr/people/che-yu-wu) : Le créateur de Taiwan.md, approchant également « ce qui grandit par lui-même » par le code et les outils génératifs
+- [Communauté open source et g0v](/fr/technology/open-source-and-g0v) : Le contexte collectif de « Écrire du code pour transformer la société », groupe de contrôle de la forme individu × Agent de Migu
+- [Esprit open source de Taïwan](/fr/technology/taiwan-open-source-spirit) : De la technologie civique de Taïwan, du salut par le clavier aux données ouvertes
+- [Carte d'identité numérique et gouvernement numérique](/fr/technology/digital-id-and-digital-government) : L'autre face de l'infrastructure de données ouvertes du gouvernement
 
 ## Liens du projet
 

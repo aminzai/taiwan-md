@@ -95,15 +95,15 @@ Parallèlement, la nouvelle génération de fans de manga redéfinit aussi le co
 
 Le développement de la culture manga taïwanaise offre une leçon importante : l'influence culturelle est un processus de transformation mutuelle. Taïwan a importé l'animation du Japon, mais en 40 ans, à travers le doublage en mandarin, les salons doujinshi, le cosplay, les VTuber et d'autres formes, il l'a transformée en « culture manga taïwanaise ». Cette culture n'est pas tout à fait la même que celle du Japon, ni tout à fait la même que celle de la Chine — elle a son propre vocabulaire, ses propres communautés, ses propres trajectoires créatives.
 
-Cela constitue un axe différent de celui du [manga taïwanais](/art/台灣漫畫), mais les deux s'entrelacent. Le manga se concentre sur « qui a créé les œuvres », tandis que la culture manga et animation se concentre sur « qui a regardé les œuvres, comment, et ce qu'ils en ont fait après ». L'un est le côté création, l'autre le côté consommation ; l'un concerne quelques maîtres, l'autre le comportement collectif de centaines de milliers de passionnés.
+Cela constitue un axe différent de celui du [manga taïwanais](/fr/art/taiwanese-comics-and-illustration), mais les deux s'entrelacent. Le manga se concentre sur « qui a créé les œuvres », tandis que la culture manga et animation se concentre sur « qui a regardé les œuvres, comment, et ce qu'ils en ont fait après ». L'un est le côté création, l'autre le côté consommation ; l'un concerne quelques maîtres, l'autre le comportement collectif de centaines de milliers de passionnés.
 
 Les deux axes réunis forment l'image complète de l'écosystème manga taïwanais.
 
 ## Pour aller plus loin
 
-- [Manga taïwanais](/art/台灣漫畫) — Le côté création : la généalogie complète de Zheng Wen, Cai Zhizhong, Liu Xingxin, Ao Youxiang et la collection CCC
-- [Histoire de la migration des communautés en ligne à Taïwan](/technology/台灣網路社群遷徙史) — L'axe de migration des fans de manga à travers BBS, Wretch, Facebook et Discord
-- [Threads à Taïwan](/technology/Threads在台灣) — Les modes de rassemblement de la communauté _seijin_ sur les nouvelles plateformes
+- [Manga taïwanais](/fr/art/taiwanese-comics-and-illustration) — Le côté création : la généalogie complète de Zheng Wen, Cai Zhizhong, Liu Xingxin, Ao Youxiang et la collection CCC
+- [Histoire de la migration des communautés en ligne à Taïwan](/fr/technology/taiwan-online-community-migration) — L'axe de migration des fans de manga à travers BBS, Wretch, Facebook et Discord
+- [Threads à Taïwan](/fr/technology/threads-in-taiwan) — Les modes de rassemblement de la communauté _seijin_ sur les nouvelles plateformes
 
 ## Références
 
@@ -113,4 +113,4 @@ Les deux axes réunis forment l'image complète de l'écosystème manga taïwana
 
 ---
 
-_Dernière vérification : 2026-04-19 (Issue #556, proposé par @idlccp1984 pour séparer la culture manga et animation du manga lui-même, le contenu principal du manga étant déplacé vers [Manga taïwanais](/art/台灣漫畫))_
+_Dernière vérification : 2026-04-19 (Issue #556, proposé par @idlccp1984 pour séparer la culture manga et animation du manga lui-même, le contenu principal du manga étant déplacé vers [Manga taïwanais](/fr/art/taiwanese-comics-and-illustration))_

@@ -118,11 +118,11 @@ Ce drapeau au tigre jaune se trouve dans une vitrine de musée. Il est silencieu
 
 **Pour aller plus loin** :
 
-- [Trois étrangers face à la Guerre de Yiwei : l'album du photographe, les notes du journaliste, le journal du pasteur](/history/三個外國人看乙未) — Série D-2. Le photographe japonais Endo Makoto, le journaliste américain Davidson, le pasteur japonais Hosokawa Shūhei — trois des témoignages oculaires en langue étrangère les plus importants de la Guerre de Yiwei, ainsi que les limites de perspective propres à chacun de ces documents
+- [Trois étrangers face à la Guerre de Yiwei : l'album du photographe, les notes du journaliste, le journal du pasteur](/fr/history/three-foreigners-witness-1895-taiwan) — Série D-2. Le photographe japonais Endo Makoto, le journaliste américain Davidson, le pasteur japonais Hosokawa Shūhei — trois des témoignages oculaires en langue étrangère les plus importants de la Guerre de Yiwei, ainsi que les limites de perspective propres à chacun de ces documents
 - [Période Qing](/fr/history/qing-dynasty-era/) — La Guerre de Yiwei marqua la fin de la période Qing ; comprendre deux siècles d'administration de Taïwan
 - [Période coloniale japonaise](/fr/history/japanese-colonial-era/) — Après la disparition de la République, le début de cinquante ans de domination japonaise sur Taïwan
-- [Guerre franco-chinoise](/history/清法戰爭) — Dix ans plus tôt, l'armée française attaqua Taïwan, Liu Mingchuan défendit Keelung. Dix ans plus tard, la province qu'il avait fondée fut cédée
-- [Robert Swinhoe](/people/史溫侯) — Trente ans auparavant, un consul britannique documentait l'histoire naturelle sur cette même île ; au moment de la Guerre de Yiwei, ce monde avait déjà pris fin
+- [Guerre franco-chinoise](/fr/history/sino-french-war-in-taiwan) — Dix ans plus tôt, l'armée française attaqua Taïwan, Liu Mingchuan défendit Keelung. Dix ans plus tard, la province qu'il avait fondée fut cédée
+- [Robert Swinhoe](/fr/people/robert-swinhoe-naturalist) — Trente ans auparavant, un consul britannique documentait l'histoire naturelle sur cette même île ; au moment de la Guerre de Yiwei, ce monde avait déjà pris fin
 
 ## Références
 

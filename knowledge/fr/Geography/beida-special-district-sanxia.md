@@ -164,9 +164,9 @@ En 2026, lorsque les trains de la ligne Sanying entreront officiellement en serv
 
 ## Pour aller plus loin
 
-- [Développement urbain et disparités rurales-urbaines à Taïwan](/geography/台灣都市發展與城鄉差距) — Replacer le secteur Beida dans le contexte à long terme des secteurs de réaménagement et de l'expansion urbaine à Taïwan.
-- [Nouvelle ville de Linkou](/geography/林口新市鎮) — Comparer avec la manière dont une autre nouvelle ville autrefois qualifiée de « ville fantôme » a atteint sa maturité.
-- [Le thé de Sanxia](/food/三峽茶) — Approfondir la lecture des couches culturelles du vieux centre-ville de Sanxia et des industries locales.
+- [Développement urbain et disparités rurales-urbaines à Taïwan](/fr/geography/taiwan-urban-development-and-rural-urban-divide) — Replacer le secteur Beida dans le contexte à long terme des secteurs de réaménagement et de l'expansion urbaine à Taïwan.
+- [Nouvelle ville de Linkou](/fr/geography/linkou-new-town) — Comparer avec la manière dont une autre nouvelle ville autrefois qualifiée de « ville fantôme » a atteint sa maturité.
+- [Le thé de Sanxia](/fr/food/sanxia-tea) — Approfondir la lecture des couches culturelles du vieux centre-ville de Sanxia et des industries locales.
 
 ## Références
 

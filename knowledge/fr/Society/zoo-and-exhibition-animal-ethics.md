@@ -1,20 +1,29 @@
 ---
-title: "Zoos et éthique des animaux de spectacle"
-description: "Des éléphants derrière les barreaux au mur de méduses de Xpark — Taïwan redéfinit la relation entre les humains et les animaux exposés"
+title: 'Zoos et éthique des animaux de spectacle'
+description: 'Des éléphants derrière les barreaux au mur de méduses de Xpark — Taïwan redéfinit la relation entre les humains et les animaux exposés'
 date: 2026-03-18
-author: "Taiwan.md Contributors"
-category: "Society"
-subcategory: "動物與倫理"
-tags: ["zoo", "animaux de spectacle", "bien-être animal", "Xpark", "zoo de Taipei", "éthique animale", "zoo de Hsinchu"]
+author: 'Taiwan.md Contributors'
+category: 'Society'
+subcategory: '動物與倫理'
+tags:
+  [
+    'zoo',
+    'animaux de spectacle',
+    'bien-être animal',
+    'Xpark',
+    'zoo de Taipei',
+    'éthique animale',
+    'zoo de Hsinchu',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
-translatedFrom: "Society/動物園與展演動物倫理.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:942c806351e32e6f"
-sourceBodyHash: "sha256:d25050b0162be631"
-translatedAt: "2026-05-17T05:34:56+08:00"
+translatedFrom: 'Society/動物園與展演動物倫理.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:942c806351e32e6f'
+sourceBodyHash: 'sha256:d25050b0162be631'
+translatedAt: '2026-05-17T05:34:56+08:00'
 ---
 
 # Zoos et éthique des animaux de spectacle
@@ -170,16 +179,20 @@ Le chemin est encore long. Chaque choix (quel zoo visiter, quel spectacle animal
 **L'avenir des zoos, c'est notre choix.**
 
 [^1]: Zoo municipal de Hsinchu, « Philosophie de la rénovation du zoo », https://zoo.hccg.gov.tw/
+
 [^2]: Wuo-Wuo Media, « Enquête approfondie sur les controverses de bien-être animal après l'ouverture de Xpark », https://wuo-wuo.com/
+
 [^3]: Ministère de l'Agriculture, « Annonce de révision du Règlement sur la gestion des spectacles d'animaux » (juillet 2024), https://www.moa.gov.tw/
+
 [^4]: Site d'information sur la protection animale du ministère de l'Agriculture, « Règlement sur la gestion des spectacles d'animaux », https://animal.moa.gov.tw/
+
 [^5]: Société taïwanaise de recherche sur les animaux, « État actuel de la gestion des micro-animaux de spectacle », https://www.east.org.tw/
 
 ---
 
 **Pour aller plus loin**
 
-- [Controverse sur les médicaments vétérinaires à Taïwan](/society/台灣動物用藥爭議) — Des controverses éthiques sur les animaux de spectacle aux lacunes juridiques concernant les médicaments pour animaux de compagnie, c'est le même problème sous différents angles : le droit taïwanais n'a pas encore appris à considérer ces êtres vivants qui ne sont « ni humains ni propriété »
+- [Controverse sur les médicaments vétérinaires à Taïwan](/fr/society/taiwan-animal-drug-controversy) — Des controverses éthiques sur les animaux de spectacle aux lacunes juridiques concernant les médicaments pour animaux de compagnie, c'est le même problème sous différents angles : le droit taïwanais n'a pas encore appris à considérer ces êtres vivants qui ne sont « ni humains ni propriété »
 
 ---
 

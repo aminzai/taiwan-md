@@ -170,10 +170,10 @@ C’est là ce qui mérite le plus d’être compris dans l’eau des semi-condu
 
 ## Pour aller plus loin
 
-- [Chaîne d’approvisionnement du matériel d’IA](/technology/AI硬體供應鏈) — comment Taïwan transforme la demande du nuage en machines prêtes à être expédiées.
-- [Électricité et semi-conducteurs à Taïwan](/technology/台灣的電力與半導體) — la facture électrique derrière la chaîne de l’IA.
-- [Usines de la chaîne d’IA à l’étranger](/technology/AI供應鏈海外設廠) — pourquoi d’autres pays veulent eux aussi assumer une part de la pression de fabrication et d’infrastructure.
-- [Développement des parcs scientifiques](/technology/科技園區發展) — comment le cluster des semi-conducteurs a poussé dans les terres et les villes de Taïwan.
+- [Chaîne d’approvisionnement du matériel d’IA](/fr/technology/ai-hardware-supply-chain) — comment Taïwan transforme la demande du nuage en machines prêtes à être expédiées.
+- [Électricité et semi-conducteurs à Taïwan](/fr/technology/taiwan-electricity-and-semiconductors) — la facture électrique derrière la chaîne de l’IA.
+- [Usines de la chaîne d’IA à l’étranger](/fr/technology/ai-supply-chain-overseas-manufacturing) — pourquoi d’autres pays veulent eux aussi assumer une part de la pression de fabrication et d’infrastructure.
+- [Développement des parcs scientifiques](/fr/technology/science-park-development) — comment le cluster des semi-conducteurs a poussé dans les terres et les villes de Taïwan.
 
 ## Sources des images
 

@@ -114,8 +114,8 @@ Début 2025, Tsai Ming-chien est entré sur la liste des clients du processus 2 
 
 ## Lectures complémentaires
 
-- [Entreprise taïwanaise : TSMC](/economy/台灣企業：台積電)
-- [Industrie des semi-conducteurs](/technology/半導體產業) — De la licence technologique RCA de 1973 à la production en série du 2 nm, tout l'écosystème des semi-conducteurs ; MediaTek en est le représentant de l'extrémité conception de CI.
+- [Entreprise taïwanaise : TSMC](/fr/economy/tsmc)
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — De la licence technologique RCA de 1973 à la production en série du 2 nm, tout l'écosystème des semi-conducteurs ; MediaTek en est le représentant de l'extrémité conception de CI.
 
 ---
 

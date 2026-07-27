@@ -223,11 +223,11 @@ Un enfant de Tamsui, âgé d’environ 15 ans, arrive au Minnesota avec sa mère
 
 ## Pour aller plus loin
 
-- [Jensen Huang](/people/黃仁勳) — la lumière taïwanaise qui fait tourner l’IA plus vite, côté matériel
-- [Morris Chang](/people/張忠謀) — le fondateur des semi-conducteurs taïwanais, la montagne dont Chi Huai-hsin dit que la « position est très difficile à ébranler »
-- [Industrie de l’intelligence artificielle](/technology/AI人工智慧產業) — la place de Taïwan dans la chaîne d’approvisionnement mondiale de l’IA
-- [Développement de l’intelligence artificielle à Taïwan et stratégies futures](/technology/台灣人工智慧發展與未來策略) — vue d’ensemble de l’IA à Taïwan
-- [L’IA dans le quotidien taïwanais](/technology/台灣AI日常) — comment l’IA est déjà entrée dans la vie des Taïwanais
+- [Jensen Huang](/fr/people/jensen-huang) — la lumière taïwanaise qui fait tourner l’IA plus vite, côté matériel
+- [Morris Chang](/fr/people/tsmc-morris-chang) — le fondateur des semi-conducteurs taïwanais, la montagne dont Chi Huai-hsin dit que la « position est très difficile à ébranler »
+- [Industrie de l’intelligence artificielle](/fr/technology/artificial-intelligence-industry) — la place de Taïwan dans la chaîne d’approvisionnement mondiale de l’IA
+- [Développement de l’intelligence artificielle à Taïwan et stratégies futures](/fr/technology/artificial-intelligence-development-strategy) — vue d’ensemble de l’IA à Taïwan
+- [L’IA dans le quotidien taïwanais](/fr/technology/taiwan-ai-in-daily-life) — comment l’IA est déjà entrée dans la vie des Taïwanais
 
 ## Références
 

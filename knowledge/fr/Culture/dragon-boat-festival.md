@@ -160,10 +160,10 @@ L’œuf que l’examen demandait de réfuter et l’œuf que plus de quatre mil
 
 **Pour aller plus loin** :
 
-- [Jours fériés nationaux](/society/國定假日) — Comment Duanwu est passé d’un ordre administratif à un jour férié légal, une autre histoire écrite par les Taïwanais avec les mots « ne pas travailler »
-- [Fêtes et célébrations traditionnelles](/culture/傳統節慶與慶典) — Des épidémies aux feux d’artifice, comment la culture festive taïwanaise a évolué de manière inattendue
-- [Petite cuisine taïwanaise](/food/台灣小吃) — Les zongzi du Nord et du Sud ne sont que le prologue : l’obsession taïwanaise pour la nourriture a bien d’autres champs de bataille
-- [Koxinga](/people/鄭成功) — Le personnage principal de la légende du puits de l’Épée, une figure historique qui a laissé des traces, et des légendes, partout à Taïwan
+- [Jours fériés nationaux](/fr/society/national-holidays) — Comment Duanwu est passé d’un ordre administratif à un jour férié légal, une autre histoire écrite par les Taïwanais avec les mots « ne pas travailler »
+- [Fêtes et célébrations traditionnelles](/fr/culture/traditional-festivals-and-celebrations) — Des épidémies aux feux d’artifice, comment la culture festive taïwanaise a évolué de manière inattendue
+- [Petite cuisine taïwanaise](/fr/food/taiwanese-street-food) — Les zongzi du Nord et du Sud ne sont que le prologue : l’obsession taïwanaise pour la nourriture a bien d’autres champs de bataille
+- [Koxinga](/fr/people/koxinga) — Le personnage principal de la légende du puits de l’Épée, une figure historique qui a laissé des traces, et des légendes, partout à Taïwan
 
 ## Sources des images
 

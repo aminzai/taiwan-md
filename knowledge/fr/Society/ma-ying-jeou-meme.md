@@ -153,9 +153,9 @@ La formation et la diffusion des mèmes de Ma Ying-jeou ne sont pas seulement un
 
 ## Pour aller plus loin
 
-- [Ma Ying-jeou](/people/馬英九) — La biographie du protagoniste des mèmes : artisan du dégagement des relations inter-détroit, symbole de la génération des 22K, pour comprendre le contexte politique derrière les mèmes
-- [Mèmes taïwanais](/culture/台灣迷因) — Panorama de l'écosystème des mèmes taïwanais : encyclopédie des _xiangmin_ de PTT, images pour aînés, VTubers et trajectoires d'évolution des différents types de mèmes
-- [Images pour aînés](/culture/長輩圖) — Un autre vecteur de diffusion des mèmes politiques : le langage visuel politique qui se propage via les groupes LINE
+- [Ma Ying-jeou](/fr/people/ma-ying-jeou-cross-strait-reconciliation-leader) — La biographie du protagoniste des mèmes : artisan du dégagement des relations inter-détroit, symbole de la génération des 22K, pour comprendre le contexte politique derrière les mèmes
+- [Mèmes taïwanais](/fr/culture/taiwan-meme-culture) — Panorama de l'écosystème des mèmes taïwanais : encyclopédie des _xiangmin_ de PTT, images pour aînés, VTubers et trajectoires d'évolution des différents types de mèmes
+- [Images pour aînés](/fr/culture/elder-greeting-images) — Un autre vecteur de diffusion des mèmes politiques : le langage visuel politique qui se propage via les groupes LINE
 
 ## Sources
 

@@ -214,11 +214,11 @@ Le 8 août 2025, ils sortent à nouveau sans préavis leur cinquième album comp
 
 **Pour aller plus loin** :
 
-- [Musique indépendante taïwanaise](/music/台灣獨立音樂) — De Crystal Records dans les années 1980 à Sunset Rollercoaster, No Party for Cao Dong et Collage dans les années 2020 : les lignes de développement de la musique indépendante taïwanaise
-- [Culture des festivals de musique à Taïwan](/music/台灣音樂祭文化) — De Spring Scream et Megaport Festival au Hohaiyan Rock Festival : les transformations des scènes festivalières taïwanaises
-- [Musique populaire taïwanaise](/music/台灣流行音樂) — De la folk song movement des années 1970 à l'ère du streaming dans les années 2020 : histoire de la pop taïwanaise
-- [Industrie musicale taïwanaise et ère du streaming](/music/台灣音樂產業與串流時代) — Les mécanismes de portée mondiale des groupes taïwanais à l'époque de l'algorithme Spotify
-- [Deserts Chang et Anpu](/music/張懸與安溥) — Les collaborations scéniques de Kuo Kuo comme guitariste du groupe Algae entre 2012 et 2016
+- [Musique indépendante taïwanaise](/fr/music/indie-music-scene) — De Crystal Records dans les années 1980 à Sunset Rollercoaster, No Party for Cao Dong et Collage dans les années 2020 : les lignes de développement de la musique indépendante taïwanaise
+- [Culture des festivals de musique à Taïwan](/fr/music/taiwan-music-festival-culture) — De Spring Scream et Megaport Festival au Hohaiyan Rock Festival : les transformations des scènes festivalières taïwanaises
+- [Musique populaire taïwanaise](/fr/music/golden-melodies-legacy-taiwan-pop-music) — De la folk song movement des années 1970 à l'ère du streaming dans les années 2020 : histoire de la pop taïwanaise
+- [Industrie musicale taïwanaise et ère du streaming](/fr/music/taiwan-music-industry-and-the-streaming-era) — Les mécanismes de portée mondiale des groupes taïwanais à l'époque de l'algorithme Spotify
+- [Deserts Chang et Anpu](/fr/music/deserts-chang-and-anpu) — Les collaborations scéniques de Kuo Kuo comme guitariste du groupe Algae entre 2012 et 2016
 
 ---
 

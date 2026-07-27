@@ -201,15 +201,15 @@ Le cou raide, c'est cela : on ne quitte pas la terre. Même quand il s'est pass�
 
 ## Pour aller plus loin
 
-- [Culture et langue Hakka](/culture/客家文化與語言) — La répartition des quatre variétés du hakka (Sìxiàn, principalement parlé à Miaoli, Hǎilù, Dàbù, Ráopíng) à travers Taïwan, et le contexte de la proportion de 62,5 % à Miaoli
-- [Gastronomie Hakka](/food/客家飲食文化) — Le contexte culinaire des villages Hakka : _bántiáo_, poêlée de gingembre et de gros intestins, sauté Hakka, _léi chá_ (thé pilé)
-- [Carte culturelle des 16 peuples autochtones de Taïwan](/culture/台灣原住民族16族文化地圖) — La place des Saisiat dans le paysage des peuples autochtones taïwanais, la branche sud (Nanzhuang) vs la branche nord (Wufeng)
-- [Zhong Lihe](/people/鍾理和) — Figure majeure de la littérature Hakka de Miaoli (bien que Zhong Lihe fût originaire de Meinong à Kaohsiung, l'écriture Hakka partage un contexte commun)
-- [Artisanat traditionnel et patrimoine culturel immatériel de Taïwan](/culture/台灣傳統工藝與無形文化資產) — La sculpture sur bois de Sanyi comme représentante de l'art de la sculpture sur bois taïwanaise, le rituel paSta'ay des Saisiat comme patrimoine folklorique national important
-- [Comté de Keelung](/geography/基隆市) — Série des 22 municipalités et comtés, lot 1, un autre comté laissé pour compte par les tournants de l'histoire
-- [Comté de Hsinchu](/geography/新竹縣) — Série des 22 municipalités et comtés, lot 2, le comté à la plus forte proportion Hakka (67,8 %), offrant une autre expérience Hakka en regard de celle de Miaoli : la foi Yimin à côté de l'extension de TSMC à Baoshan
-- [Divisions administratives de Taïwan](/geography/台灣行政區劃) — Chronologie administrative : création du comté de Miaoli en 1889, redécoupage d'après-guerre en 1950, élévation de Toufen au rang de ville en 2015
-- [Développement urbain et disparités rurales à Taïwan](/geography/台灣都市發展與城鄉差距) — À plus grande échelle, la position de Miaoli en tant que « comté intérieur Hakka en exode démographique » dans la structure urbain-rurale de Taïwan
+- [Culture et langue Hakka](/fr/culture/hakka-culture-and-language) — La répartition des quatre variétés du hakka (Sìxiàn, principalement parlé à Miaoli, Hǎilù, Dàbù, Ráopíng) à travers Taïwan, et le contexte de la proportion de 62,5 % à Miaoli
+- [Gastronomie Hakka](/fr/food/hakka-food-culture) — Le contexte culinaire des villages Hakka : _bántiáo_, poêlée de gingembre et de gros intestins, sauté Hakka, _léi chá_ (thé pilé)
+- [Carte culturelle des 16 peuples autochtones de Taïwan](/fr/culture/indigenous-peoples-16-tribes-cultural-map) — La place des Saisiat dans le paysage des peuples autochtones taïwanais, la branche sud (Nanzhuang) vs la branche nord (Wufeng)
+- [Zhong Lihe](/fr/people/zhong-lihe-nativeland-eternal-seeker) — Figure majeure de la littérature Hakka de Miaoli (bien que Zhong Lihe fût originaire de Meinong à Kaohsiung, l'écriture Hakka partage un contexte commun)
+- [Artisanat traditionnel et patrimoine culturel immatériel de Taïwan](/fr/culture/traditional-crafts-intangible-cultural-heritage) — La sculpture sur bois de Sanyi comme représentante de l'art de la sculpture sur bois taïwanaise, le rituel paSta'ay des Saisiat comme patrimoine folklorique national important
+- [Comté de Keelung](/fr/geography/keelung-city) — Série des 22 municipalités et comtés, lot 1, un autre comté laissé pour compte par les tournants de l'histoire
+- [Comté de Hsinchu](/fr/geography/hsinchu-county) — Série des 22 municipalités et comtés, lot 2, le comté à la plus forte proportion Hakka (67,8 %), offrant une autre expérience Hakka en regard de celle de Miaoli : la foi Yimin à côté de l'extension de TSMC à Baoshan
+- [Divisions administratives de Taïwan](/fr/geography/administrative-divisions-of-taiwan) — Chronologie administrative : création du comté de Miaoli en 1889, redécoupage d'après-guerre en 1950, élévation de Toufen au rang de ville en 2015
+- [Développement urbain et disparités rurales à Taïwan](/fr/geography/taiwan-urban-development-and-rural-urban-divide) — À plus grande échelle, la position de Miaoli en tant que « comté intérieur Hakka en exode démographique » dans la structure urbain-rurale de Taïwan
 
 ## Crédits photographiques
 

@@ -197,7 +197,7 @@ Quand la prochaine catastrophe frappera, ce ne sera pas l'équipement le plus on
 
 **Pour aller plus loin**
 
-- [Loi médicale](/society/醫療法) — Le fondement juridique de la médecine de catastrophe s'ancre dans l'article 1 de la Loi médicale (« répartition rationnelle des ressources médicales ») et dans les normes de classification des établissements ; les scénarios de catastrophe décrits ici sont la mise en œuvre concrète de la Loi médicale en conditions extrêmes
+- [Loi médicale](/fr/society/medical-care-act) — Le fondement juridique de la médecine de catastrophe s'ancre dans l'article 1 de la Loi médicale (« répartition rationnelle des ressources médicales ») et dans les normes de classification des établissements ; les scénarios de catastrophe décrits ici sont la mise en œuvre concrète de la Loi médicale en conditions extrêmes
 - Médecine vétérinaire et médicaments animaux à Taïwan — Les humains disposent d'un système de médecine d'urgence, du 119, de l'assurance maladie universelle et du DMAT ; pour les animaux, même l'oxygène doit être consigné poste par poste. L'écart de ressources entre ces deux systèmes est le miroir des priorités de cette île.
 
 ---

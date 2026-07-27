@@ -232,11 +232,11 @@ Plus la liste s’allonge, moins il reste de personnes capables d’enseigner. L
 
 **Pour aller plus loin** :
 
-- [Teinture à l’indigo](/culture/藍染) — l’histoire complète de la teinture indigo, de produit majeur d’exportation sous les Qing à sa quasi-disparition en 1940, jusqu’à sa renaissance actuelle à Sanxia, Miaoli, Taiping et Jingliao
-- [Tissus fleuris taïwanais](/culture/台灣花布) — le voyage identitaire du tissu rouge fleuri hakka, de produit d’usine sous la période japonaise à symbole culturel local
-- [Ombrelles en papier](/culture/紙傘) — la transformation des ombrelles en papier de Meinong, d’objets utilitaires contre la pluie en œuvres d’art
-- [Chapeaux coniques](/culture/斗笠) — la vannerie de jonc et l’objet emblématique de l’artisanat rural taïwanais
-- [Fêtes et célébrations traditionnelles](/culture/傳統節慶與慶典) — l’artisanat comme support matériel des fêtes, des structures en papier des pétards de Yanshui aux palanquins divins des processions de Mazu
+- [Teinture à l’indigo](/fr/culture/taiwan-indigo-dyeing) — l’histoire complète de la teinture indigo, de produit majeur d’exportation sous les Qing à sa quasi-disparition en 1940, jusqu’à sa renaissance actuelle à Sanxia, Miaoli, Taiping et Jingliao
+- [Tissus fleuris taïwanais](/fr/culture/taiwan-floral-fabric) — le voyage identitaire du tissu rouge fleuri hakka, de produit d’usine sous la période japonaise à symbole culturel local
+- [Ombrelles en papier](/fr/culture/taiwan-paper-umbrella) — la transformation des ombrelles en papier de Meinong, d’objets utilitaires contre la pluie en œuvres d’art
+- [Chapeaux coniques](/fr/culture/bamboo-hat-craft) — la vannerie de jonc et l’objet emblématique de l’artisanat rural taïwanais
+- [Fêtes et célébrations traditionnelles](/fr/culture/traditional-festivals-and-celebrations) — l’artisanat comme support matériel des fêtes, des structures en papier des pétards de Yanshui aux palanquins divins des processions de Mazu
 
 ---
 

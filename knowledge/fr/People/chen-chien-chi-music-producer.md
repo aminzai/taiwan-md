@@ -200,16 +200,16 @@ En 2021, il a dit que « c'est le Golden Melody qui m'attendait ». Une formulat
 
 **Pour aller plus loin** :
 
-- [Waa Wei](/people/魏如萱) — la concrétisation de la relation de mentorat producteur de plus de 25 ans de Chen Chien-chi ; la même trajectoire vocale de Natural Q à 《珍珠刑》
-- [Lala Hsu](/people/徐佳瑩) — le point d'entrée de Chen Chien-chi dans la production de musique pop (〈失落沙洲〉, 2008)
-- [Hebe Tien](/people/田馥甄) — Chen Chien-chi, meilleur producteur d'album aux 32e Golden Melody Awards pour 《無人知曉》
-- [Rainie Yang](/people/楊丞琳) — un parallèle dans la construction identitaire d'une chanteuse pop sinophone de la même génération (Yang productrice de ses propres œuvres, Chen producteur pour d'autres)
-- [Musique pop et Golden Melody Awards](/music/金曲獎) — les coordonnées complètes des trois Golden Melody de Chen Chien-chi, couvrant l'arrangement, le single et l'album
-- [Musique pop taïwanaise](/music/台灣流行音樂) — le contexte historique de la ligne rouge sonore que Chen Chien-chi a aboli dans la musique pop sinophone pendant 25 ans
-- [Musique indépendante taïwanaise](/music/台灣獨立音樂) — la position des labels « Good Many Music » et « HerMusic » de Chen Chien-chi dans l'écosystème de la musique indépendante
-- [Ko Chih-tang](/people/柯智棠) — le chanteur folk britannique entièrement produit par Chen Chien-chi sur trois albums, co-lauréat du prix de la chanson originale dramatique aux Golden Bell Awards 2025 pour 〈神的回信〉
-- [Yoga Lin](/people/林宥嘉) — Chen Chien-chi a participé à la production de 《大小說家》 (2012) et 《今日營業中》 (2016) ; la trajectoire de Yoga Lin, d'un chanteur écrit par d'autres à producteur de ses propres œuvres
-- [Huang Shao-yung](/people/黃少雍) — l'autre producteur principal de 《珍珠刑》 ; là où Chen Chien-chi a aboli la ligne rouge pour les voix sinophones, Huang l'a abolie pour les langues non sinophones (Paiwan, Amis, taïwanais)
+- [Waa Wei](/fr/people/waa-wei-singer) — la concrétisation de la relation de mentorat producteur de plus de 25 ans de Chen Chien-chi ; la même trajectoire vocale de Natural Q à 《珍珠刑》
+- [Lala Hsu](/fr/people/lala-hsu-singer) — le point d'entrée de Chen Chien-chi dans la production de musique pop (〈失落沙洲〉, 2008)
+- [Hebe Tien](/fr/people/hebe-tien-singer) — Chen Chien-chi, meilleur producteur d'album aux 32e Golden Melody Awards pour 《無人知曉》
+- [Rainie Yang](/fr/people/rainie-yang) — un parallèle dans la construction identitaire d'une chanteuse pop sinophone de la même génération (Yang productrice de ses propres œuvres, Chen producteur pour d'autres)
+- [Musique pop et Golden Melody Awards](/fr/music/pop-music-and-golden-melody-awards) — les coordonnées complètes des trois Golden Melody de Chen Chien-chi, couvrant l'arrangement, le single et l'album
+- [Musique pop taïwanaise](/fr/music/golden-melodies-legacy-taiwan-pop-music) — le contexte historique de la ligne rouge sonore que Chen Chien-chi a aboli dans la musique pop sinophone pendant 25 ans
+- [Musique indépendante taïwanaise](/fr/music/indie-music-scene) — la position des labels « Good Many Music » et « HerMusic » de Chen Chien-chi dans l'écosystème de la musique indépendante
+- [Ko Chih-tang](/fr/people/ke-zhi-tang-musician) — le chanteur folk britannique entièrement produit par Chen Chien-chi sur trois albums, co-lauréat du prix de la chanson originale dramatique aux Golden Bell Awards 2025 pour 〈神的回信〉
+- [Yoga Lin](/fr/people/yoga-lin) — Chen Chien-chi a participé à la production de 《大小說家》 (2012) et 《今日營業中》 (2016) ; la trajectoire de Yoga Lin, d'un chanteur écrit par d'autres à producteur de ses propres œuvres
+- [Huang Shao-yung](/fr/people/huang-shao-yong-musician) — l'autre producteur principal de 《珍珠刑》 ; là où Chen Chien-chi a aboli la ligne rouge pour les voix sinophones, Huang l'a abolie pour les langues non sinophones (Paiwan, Amis, taïwanais)
 
 ## Références
 

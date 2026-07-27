@@ -235,14 +235,14 @@ Le parc national de Taroko sera peut-être rouverte dans 7 ans. Mais après le 0
 
 ## Lectures complémentaires
 
-- [Comté de Yilan](/geography/宜蘭縣) — Article同期 de la série 22 Comtés et Cités, les Kavalan du clan de Kalawan migrent du sud depuis la plaine de Lanyang (Yilan) vers Hualien dans les années 1830, les deux articles sont des extensions l'un de l'autre.
-- [Ville de Keelung](/geography/基隆市) — Premier article pilote de la série 22 Comtés et Cités, partage avec Hualien le statut de comtés côtiers du nord-est « invisibles pour la capitale ».
-- [Parc national de Taroko](/nature/台灣國家公園) — 4e parc national de Taïwan créé en 1986, estimé à 7 ans de récupération après le séisme du 0403.
-- [Mouvement tectonique et activité sismique de Taïwan](/geography/台灣板塊運動與地震活動) — La place du séisme du 0403 dans l'histoire sismique de Taïwan : le système de failles de la vallée de collision entre la plaque de la mer des Philippines et la plaque eurasienne.
-- [Histoire et mouvement de reconnaissance des autochtones de Taïwan](/history/台灣原住民族歷史與正名運動) — La trajectoire du mouvement de reconnaissance des Sakizaya, Taroko, Seediq et Kavalan à Hualien.
-- [Carte culturelle des 16 ethnies autochtones de Taïwan](/culture/台灣原住民族16族文化地圖) — La distribution des Ami, Taroko, Sakizaya, Seediq, Bunu et Kavalan à Hualien.
-- [Période coloniale japonaise](/history/日治時期) — Les trois villages de colons Fengtian, Jinye, Lintian en 1913 ; l'incident de Taroko en 1914 ; la migration en groupe des Bunu dans les années 1930.
-- [Lin Yi-xiong](/people/林義雄) — Figure du mouvement démocratique, originaire du canton de Wujie (Yilan), partage avec Hualien le même axe de démocratisation de Taïwan dans les années 1980.
+- [Comté de Yilan](/fr/geography/yilan-county) — Article同期 de la série 22 Comtés et Cités, les Kavalan du clan de Kalawan migrent du sud depuis la plaine de Lanyang (Yilan) vers Hualien dans les années 1830, les deux articles sont des extensions l'un de l'autre.
+- [Ville de Keelung](/fr/geography/keelung-city) — Premier article pilote de la série 22 Comtés et Cités, partage avec Hualien le statut de comtés côtiers du nord-est « invisibles pour la capitale ».
+- [Parc national de Taroko](/fr/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — 4e parc national de Taïwan créé en 1986, estimé à 7 ans de récupération après le séisme du 0403.
+- [Mouvement tectonique et activité sismique de Taïwan](/fr/geography/tectonic-plates-and-seismic-activity) — La place du séisme du 0403 dans l'histoire sismique de Taïwan : le système de failles de la vallée de collision entre la plaque de la mer des Philippines et la plaque eurasienne.
+- [Histoire et mouvement de reconnaissance des autochtones de Taïwan](/fr/history/indigenous-peoples-history-and-naming-movement) — La trajectoire du mouvement de reconnaissance des Sakizaya, Taroko, Seediq et Kavalan à Hualien.
+- [Carte culturelle des 16 ethnies autochtones de Taïwan](/fr/culture/indigenous-peoples-16-tribes-cultural-map) — La distribution des Ami, Taroko, Sakizaya, Seediq, Bunu et Kavalan à Hualien.
+- [Période coloniale japonaise](/fr/history/japanese-colonial-era) — Les trois villages de colons Fengtian, Jinye, Lintian en 1913 ; l'incident de Taroko en 1914 ; la migration en groupe des Bunu dans les années 1930.
+- [Lin Yi-xiong](/fr/people/lin-yi-hsiung-democracy-advocate-tragedy-survivor) — Figure du mouvement démocratique, originaire du canton de Wujie (Yilan), partage avec Hualien le même axe de démocratisation de Taïwan dans les années 1980.
 
 ## Sources d'images
 

@@ -103,8 +103,8 @@ Le système de service militaire à Taïwan est une conversation prolongée sur 
 
 ## Lectures complémentaires
 
-- [Mémoire du camp de Hukou et de la route de Victory](/history/湖口營區與勝利路記憶) — Mémoire quotidienne de l'espace militaire
-- [Académie Black Bear](/society/黑熊學院) — Version contemporaine de la conscience de défense civile
+- [Mémoire du camp de Hukou et de la route de Victory](/fr/history/hukou-camp-shengli-road-memory) — Mémoire quotidienne de l'espace militaire
+- [Académie Black Bear](/fr/society/kuma-academy-civil-defense-school) — Version contemporaine de la conscience de défense civile
 
 ## Sources
 

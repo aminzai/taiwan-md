@@ -211,11 +211,11 @@ Si, un jour, l’historiographie de l’île de Taïwan devient le cadre histori
 
 **Pour aller plus loin** :
 
-- [Historiographie de l’île de Taïwan](/history/台灣島史觀) — l’article de Ts’ao Yung-ho de 1990 définit un cadre historique « prenant l’île pour sujet » ; le NMTH en est la mise en scène
-- [Trois étrangers regardent l’année Yiwei](/history/三個外國人看乙未) — sources de Davidson, Endō Makoto et Hosokawa Ryū sur 1895 ; le NMTH a publié trois volumes de la collection Yiwei qui les incluent
-- [Les guerres du camphre au XIXe siècle](/history/19世紀的樟腦戰爭) — rapport d’enquête de Swinhoe sur le camphre en 1864 ; le site des collections du NMTH conserve des sources primaires
-- [Période hollandaise, espagnole et Zheng](/history/荷西明鄭時期) — motifs communs à la troisième section de l’exposition permanente du NMTH, « Une île et des hommes nés face à la mer », et à l’exposition spéciale « Traverser 1624 »
-- [Formose](/history/福爾摩沙) — la traduction chinoise de _The Island of Formosa, Past and Present_ de Davidson a été publiée par le NMTH
+- [Historiographie de l’île de Taïwan](/fr/history/taiwan-island-historiography) — l’article de Ts’ao Yung-ho de 1990 définit un cadre historique « prenant l’île pour sujet » ; le NMTH en est la mise en scène
+- [Trois étrangers regardent l’année Yiwei](/fr/history/three-foreigners-witness-1895-taiwan) — sources de Davidson, Endō Makoto et Hosokawa Ryū sur 1895 ; le NMTH a publié trois volumes de la collection Yiwei qui les incluent
+- [Les guerres du camphre au XIXe siècle](/fr/history/19th-century-camphor-wars) — rapport d’enquête de Swinhoe sur le camphre en 1864 ; le site des collections du NMTH conserve des sources primaires
+- [Période hollandaise, espagnole et Zheng](/fr/history/dutch-spanish-and-koxinga-era) — motifs communs à la troisième section de l’exposition permanente du NMTH, « Une île et des hommes nés face à la mer », et à l’exposition spéciale « Traverser 1624 »
+- [Formose](/fr/history/formosa-historical-name) — la traduction chinoise de _The Island of Formosa, Past and Present_ de Davidson a été publiée par le NMTH
 
 ## Sources des images
 

@@ -103,8 +103,8 @@ NET n'est pas seulement une entreprise qui vend des vêtements ; c'est le récep
 
 ## Lectures complémentaires
 
-- [Industrie textile](/economy/紡織業) — Le contexte amont pour les champions invisibles du textile taïwanais
-- [Entreprises de Taïwan : Foxconn Precision](/economy/台灣企業：鴻海精密) — Un autre récit de la mise à l'échelle d'une entreprise locale
+- [Industrie textile](/fr/economy/taiwan-textile-industry) — Le contexte amont pour les champions invisibles du textile taïwanais
+- [Entreprises de Taïwan : Foxconn Precision](/fr/economy/foxconn-precision-industry) — Un autre récit de la mise à l'échelle d'une entreprise locale
 
 ## Références
 

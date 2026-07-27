@@ -157,10 +157,10 @@ Chen Chih-peng a dit qu’il ne voulait pas que les autres « l’y ramènent »
 
 **Pour aller plus loin** :
 
-- [Pop taïwanaise](/music/台灣流行音樂) — Des chants folkloriques à la Mandopop et à l’industrie des idoles : toute une trajectoire dans laquelle les Little Tigers occupent une place essentielle
-- [Pop et Golden Melody Awards](/music/金曲獎) — Comment Taïwan a utilisé un prix pour définir ce que signifie une « bonne pop en mandarin »
-- [Jay Chou](/people/周杰倫) — Après l’industrie des idoles, une autre subjectivité musicale sinophone née à Taïwan
-- [Mayday](/music/五月天) — Un groupe lui aussi parti du local pour conquérir le monde sinophone, mais par une voie radicalement différente de celle des groupes d’idoles
+- [Pop taïwanaise](/fr/music/golden-melodies-legacy-taiwan-pop-music) — Des chants folkloriques à la Mandopop et à l’industrie des idoles : toute une trajectoire dans laquelle les Little Tigers occupent une place essentielle
+- [Pop et Golden Melody Awards](/fr/music/pop-music-and-golden-melody-awards) — Comment Taïwan a utilisé un prix pour définir ce que signifie une « bonne pop en mandarin »
+- [Jay Chou](/fr/people/jay-chou) — Après l’industrie des idoles, une autre subjectivité musicale sinophone née à Taïwan
+- [Mayday](/fr/music/mayday-band) — Un groupe lui aussi parti du local pour conquérir le monde sinophone, mais par une voie radicalement différente de celle des groupes d’idoles
 
 ## Sources des images
 

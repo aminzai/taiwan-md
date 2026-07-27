@@ -295,9 +295,9 @@ Mais une chose est certaine : si nous ne regardons qu’avec le critère bleu-ve
 
 ## Pour aller plus loin
 
-- [Transition démocratique de Taïwan](/history/台灣民主轉型) — Du 28 Février au mouvement des Tournesols, comment l’autoritarisme a lui-même formé la force qui l’a enterré
-- [Justice transitionnelle à Taïwan](/history/台灣轉型正義) — L’écart entre l’annulation de près de six mille condamnations et la quasi-absence de poursuites contre les responsables
-- [Crises du détroit de Taïwan et évolution des relations inter-détroit](/history/台海危機與兩岸關係發展) — Le contexte complet de la crise des missiles de 1996
+- [Transition démocratique de Taïwan](/fr/history/taiwan-democratization) — Du 28 Février au mouvement des Tournesols, comment l’autoritarisme a lui-même formé la force qui l’a enterré
+- [Justice transitionnelle à Taïwan](/fr/history/taiwan-transitional-justice) — L’écart entre l’annulation de près de six mille condamnations et la quasi-absence de poursuites contre les responsables
+- [Crises du détroit de Taïwan et évolution des relations inter-détroit](/fr/history/taiwan-strait-crises-and-cross-strait-relations) — Le contexte complet de la crise des missiles de 1996
 
 ---
 

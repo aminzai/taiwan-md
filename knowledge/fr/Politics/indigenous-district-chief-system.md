@@ -250,11 +250,11 @@ Le système fonctionne depuis douze ans. 2026 marque le début du prochain cycle
 
 - [Hub politique](/politics) — Centre de connaissances sur les élections politiques de Taiwan.md
 - [Élections unifiées de 2026](/politics/2026 九合一選舉) — Système complet et calendrier
-- [Que sont les élections unifiées](/politics/九合一選舉是什麼) — Décomposition des neuf types de postes des « élections unifiées »
-- [Système des chefs de village](/politics/村里長制度) — 7 748 chefs élus, l'unité politique la plus locale
-- [Système des conseillers municipaux et départementaux](/politics/議員制度) — Pouvoirs statutaires et fonctionnement réel des conseillers municipaux et départementaux
-- [Système de la Commission électorale centrale](/politics/中選會制度) — Conception institutionnelle de l'administration électorale
-- [Démocratisation](/history/民主化) — Le parcours de Taïwan de l'autoritarisme à la démocratie
+- [Que sont les élections unifiées](/fr/politics/nine-in-one-elections-explained) — Décomposition des neuf types de postes des « élections unifiées »
+- [Système des chefs de village](/fr/politics/village-chief-system) — 7 748 chefs élus, l'unité politique la plus locale
+- [Système des conseillers municipaux et départementaux](/fr/politics/city-councilor-system-taiwan) — Pouvoirs statutaires et fonctionnement réel des conseillers municipaux et départementaux
+- [Système de la Commission électorale centrale](/fr/politics/central-election-commission) — Conception institutionnelle de l'administration électorale
+- [Démocratisation](/fr/history/taiwan-democratization-history) — Le parcours de Taïwan de l'autoritarisme à la démocratie
 
 ---
 

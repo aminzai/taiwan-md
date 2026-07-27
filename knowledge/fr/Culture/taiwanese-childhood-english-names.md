@@ -236,10 +236,10 @@ Le geste d'assigner un nom n'a jamais été aboli : il a seulement changé de pe
 
 ## Pour aller plus loin
 
-- [Emprunts linguistiques et contacts de langues à Taïwan](/culture/台灣外來語與語言接觸) — À partir des emprunts entre japonais, anglais et taïwanais, comprendre comment s'empilent les couches plurilingues de Taïwan
-- [Le mouvement de revitalisation des langues autochtones de Taïwan](/culture/台灣原住民語言復振運動) — Une autre ligne de récupération du droit de nommer, de la revitalisation des langues autochtones à la réforme de la Loi sur les noms en 2024
-- [Chiung Wi-vun](/people/蔣為文) — Un contrepoint au prolongement de la logique de « désinisation » dans le mouvement de l'écriture taïwanaise, autre versant de la souveraineté du nom et de l'écriture
-- [Sensibilité taïwanaise](/culture/台灣感性) — Un angle curatorial sur les mentalités culturelles pour comprendre une autre couche de la question : « pourquoi les Taïwanais ont-ils toujours l'impression d'avoir besoin d'un nom étranger ? »
+- [Emprunts linguistiques et contacts de langues à Taïwan](/fr/culture/loanwords-and-language-contact-in-taiwan) — À partir des emprunts entre japonais, anglais et taïwanais, comprendre comment s'empilent les couches plurilingues de Taïwan
+- [Le mouvement de revitalisation des langues autochtones de Taïwan](/fr/culture/indigenous-language-revitalization-movement) — Une autre ligne de récupération du droit de nommer, de la revitalisation des langues autochtones à la réforme de la Loi sur les noms en 2024
+- [Chiung Wi-vun](/fr/people/chiung-wi-vun) — Un contrepoint au prolongement de la logique de « désinisation » dans le mouvement de l'écriture taïwanaise, autre versant de la souveraineté du nom et de l'écriture
+- [Sensibilité taïwanaise](/fr/culture/taiwanese-sensibility) — Un angle curatorial sur les mentalités culturelles pour comprendre une autre couche de la question : « pourquoi les Taïwanais ont-ils toujours l'impression d'avoir besoin d'un nom étranger ? »
 
 ## Sources des images
 

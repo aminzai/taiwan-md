@@ -72,9 +72,9 @@ Pour la troisième génération, « gens de l'extérieur » n'est souvent qu'un 
 
 ## Pour aller plus loin
 
-- [Communautés ethniques (Hokkien, Hakka, Autochtones, Gens de l'extérieur, Nouveaux arrivants)](/culture/族群（閩南客家原住民外省新住民）) — Comprendre les interactions entre les « gens de l'extérieur » et les autres groupes dans le cadre plus large de la classification ethnique.
-- [Histoire des villages militaires à Taïwan](/history/台灣眷村歷史) — Compléter le tableau des espaces de vie, des réseaux communautaires et de la mémoire culturelle après l'installation des migrants.
-- [La Terreur blanche à Taïwan](/history/台灣白色恐怖) — Relier l'expérience de victimisation de la communauté des « gens de l'extérieur » sous le régime autoritaire et dans les affaires politiques.
+- [Communautés ethniques (Hokkien, Hakka, Autochtones, Gens de l'extérieur, Nouveaux arrivants)](/fr/culture/ethnic-groups) — Comprendre les interactions entre les « gens de l'extérieur » et les autres groupes dans le cadre plus large de la classification ethnique.
+- [Histoire des villages militaires à Taïwan](/fr/history/taiwan-military-dependents-villages-history) — Compléter le tableau des espaces de vie, des réseaux communautaires et de la mémoire culturelle après l'installation des migrants.
+- [La Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — Relier l'expérience de victimisation de la communauté des « gens de l'extérieur » sous le régime autoritaire et dans les affaires politiques.
 
 ## Références
 

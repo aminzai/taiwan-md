@@ -243,8 +243,8 @@ Dans cette nouvelle ère de recomposition des chaînes d'approvisionnement et de
 
 **Lectures complémentaires** :
 
-- [台灣企業：宏碁 (Acer)](/economy/台灣企業：宏碁) — La maison mère de Wistron. Le « petit frère » de la sous-traitance, le moins bien considéré au moment de la scission, a vu sa capitalisation dépasser celle d'Acer elle-même à l'ère des serveurs IA, alors qu'Acer s'était concentrée sur sa marque.
-- [施振榮 (Stan Shih)](/people/施振榮) — Le fondateur d'Acer qui a tranché pour scinder la marque et la sous-traitance en deux entités distinctes ; une phrase — « tiens, tu pensais pareil » — a suffi à faire naître Wistron en tant qu'entreprise indépendante.
+- [台灣企業：宏碁 (Acer)](/fr/economy/acer-pc-industry-pioneer) — La maison mère de Wistron. Le « petit frère » de la sous-traitance, le moins bien considéré au moment de la scission, a vu sa capitalisation dépasser celle d'Acer elle-même à l'ère des serveurs IA, alors qu'Acer s'était concentrée sur sa marque.
+- [施振榮 (Stan Shih)](/fr/people/stan-shih) — Le fondateur d'Acer qui a tranché pour scinder la marque et la sous-traitance en deux entités distinctes ; une phrase — « tiens, tu pensais pareil » — a suffi à faire naître Wistron en tant qu'entreprise indépendante.
 
 ## Références
 

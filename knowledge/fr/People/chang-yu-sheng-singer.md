@@ -105,8 +105,8 @@ En 2017, vingt ans après sa mort, les Golden Melody Awards décernent à titre 
 
 - [Zhang Hui-mei (張惠妹)](/fr/people/zhang-hui-mei/) — Chang Yu-sheng a produit en coulisses ses albums _Sœurs_ et _Bad Boy_, la propulsant au rang de diva sinophone ; la chanson chantée aux Golden Melody Awards de 2017 est l'hommage le plus profond.
 - [Pop music taïwanaise](/fr/music/pop-music/) — Le contexte de l'industrie de la musique pop sinophone des années 1980-1990, et la place historique des créations expérimentales de Chang Yu-sheng.
-- [Wei Ruxuan (魏如萱)](/people/魏如萱) — Une autre trajectoire entre la tension de l'idole grand public et l'identité d'auteur : un autre chemin de négociation entre marché et création.
-- [Lin Youjia (林宥嘉)](/people/林宥嘉) — Une autre génération, une autre forme de tension entre « idole et musicien » : du concours _Super Star_ en 2007 à sa lettre de départ en tant que producteur en 2024, dix-sept ans de parcours.
+- [Wei Ruxuan (魏如萱)](/fr/people/waa-wei-singer) — Une autre trajectoire entre la tension de l'idole grand public et l'identité d'auteur : un autre chemin de négociation entre marché et création.
+- [Lin Youjia (林宥嘉)](/fr/people/yoga-lin) — Une autre génération, une autre forme de tension entre « idole et musicien » : du concours _Super Star_ en 2007 à sa lettre de départ en tant que producteur en 2024, dix-sept ans de parcours.
 
 ## Références
 

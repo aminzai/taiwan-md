@@ -90,4 +90,4 @@ Taïwan est qualifié de « miracle démocratique » et est depuis longtemps cla
 
 ## Thèmes liés
 
-- [Droits humains et égalité de genre](/society/人權與性別平等)
+- [Droits humains et égalité de genre](/fr/society/human-rights-and-gender-equality)

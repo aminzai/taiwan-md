@@ -176,5 +176,5 @@ Ce fil rouge qui relie la dynastie Tang au 21ᵉ siècle est aujourd'hui attach�
 
 ## Pour aller plus loin
 
-- [Mariage homosexuel et égalité des genres à Taïwan](/Society/台灣同婚與性別平權) — Le contexte social plus large du temple Weimingtang du Tùérshén en tant que l'un des rares temples dédiés aux personnes LGBT
-- [Culture du bénévolat et engagement d'intérêt public à Taïwan](/Society/台灣志工文化與公益參與) — L'entrelacement des croyances populaires et de la culture communautaire
+- [Mariage homosexuel et égalité des genres à Taïwan](/fr/society/taiwan-marriage-equality-lgbtq-rights) — Le contexte social plus large du temple Weimingtang du Tùérshén en tant que l'un des rares temples dédiés aux personnes LGBT
+- [Culture du bénévolat et engagement d'intérêt public à Taïwan](/fr/society/volunteering-and-civic-charity-in-taiwan) — L'entrelacement des croyances populaires et de la culture communautaire

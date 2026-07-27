@@ -175,10 +175,10 @@ La couleur dans la cuve est revenue à la vie. Quant à la manière dont cette c
 
 ## Lectures complémentaires
 
-- [台灣傳統工藝與無形文化資產](/culture/台灣傳統工藝與無形文化資產) — La place de la revitalisation de la teinture à l'indigo de Sanxia dans le système de préservation de l'artisanat taïwanais, et le contexte plus large de « la société agit en premier, les institutions entérinent ensuite »
-- [三峽老街](/history/三峽老街) — L'histoire de la préservation architecturale de la vieille rue de Sanxia ; le présent article traite de l'artisanat lui-même, tandis que celui-ci aborde la rue et les monuments historiques
-- [客家文化與語言](/culture/客家文化與語言) — Le contexte culturel ethnique plus complet derrière le vêtement bleu hakka et le grand col
-- [台灣花布](/culture/台灣花布) — Un autre motif de teinture et de tissage autrefois considéré comme le symbole hakka, dont les origines se révèlent plus complexes
+- [台灣傳統工藝與無形文化資產](/fr/culture/traditional-crafts-intangible-cultural-heritage) — La place de la revitalisation de la teinture à l'indigo de Sanxia dans le système de préservation de l'artisanat taïwanais, et le contexte plus large de « la société agit en premier, les institutions entérinent ensuite »
+- [三峽老街](/fr/history/sanxia-old-street) — L'histoire de la préservation architecturale de la vieille rue de Sanxia ; le présent article traite de l'artisanat lui-même, tandis que celui-ci aborde la rue et les monuments historiques
+- [客家文化與語言](/fr/culture/hakka-culture-and-language) — Le contexte culturel ethnique plus complet derrière le vêtement bleu hakka et le grand col
+- [台灣花布](/fr/culture/taiwan-floral-fabric) — Un autre motif de teinture et de tissage autrefois considéré comme le symbole hakka, dont les origines se révèlent plus complexes
 
 ## Crédits images
 

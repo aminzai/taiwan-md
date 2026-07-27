@@ -66,8 +66,8 @@ En 2006, la municipalité de Taipei a organisé la première « Fête culturelle
 
 ## Pour aller plus loin
 
-- [Culture de la pâtisserie taïwanaise](/food/台灣糕餅文化) — Les gènes multicouches de l'art des gâteaux han et des desserts modernes ; à lire avec le gâteau à l'ananas pour comprendre la transformation de la pâtisserie taïwanaise
-- [Nouilles au bœuf](/food/牛肉麵) — Un autre représentant de la « diplomatie populaire » qui définit la mémoire gustative taïwanaise ; un miroir intérieur-extérieur du gâteau à l'ananas
+- [Culture de la pâtisserie taïwanaise](/fr/food/taiwan-pastry-culture) — Les gènes multicouches de l'art des gâteaux han et des desserts modernes ; à lire avec le gâteau à l'ananas pour comprendre la transformation de la pâtisserie taïwanaise
+- [Nouilles au bœuf](/fr/food/beef-noodle-soup) — Un autre représentant de la « diplomatie populaire » qui définit la mémoire gustative taïwanaise ; un miroir intérieur-extérieur du gâteau à l'ananas
 - [Modernisation de l'agriculture taïwanaise](/economy/台灣農業現代化) — Des difficultés de production et de commercialisation à la transition vers l'agro-industrie, le gâteau à l'ananas est un chapitre de ce long parcours
 
 ## Références

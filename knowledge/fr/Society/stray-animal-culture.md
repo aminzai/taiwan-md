@@ -442,12 +442,12 @@ Les problèmes complexes n'ont pas de réponse simple. Mais la question est dés
 
 **Pour aller plus loin** :
 
-- [Conservation du chat-léopard de Taïwan](/nature/台灣石虎保育) — L'espèce centrale de cet article, avec moins de cinq cents individus restants à Taïwan, vivant dans les zones de piémont où habitats humains et sauvages s'entrecroisent, et concernée par les 21 cas de mort par chiens
-- [Ours noir de Taïwan](/nature/台灣黑熊) — Espèce indicatrice de l'écosystème du Yushan, autre front après l'expansion des chiens errants vers les basses altitudes
-- [Pangolin de Taïwan](/nature/台灣穿山甲) — Parmi les individus accueillis en poste de secours, la moitié ont la queue blessée par des morsures de chiens errants
-- [Le problème des collisions d'oiseaux contre les vitres à Taïwan](/nature/台灣鳥類窗殺議題) — Un autre coût invisible de l'environnement humain sur la faune sauvage
-- [Éthique des zoos et des animaux de spectacle](/society/動物園與展演動物倫理) — Une autre face du bien-être animal : les dilemmes lorsque les humains décident pour les animaux
-- [Controverses sur les médicaments vétérinaires à Taïwan](/society/台灣動物用藥爭議) — Alors que la politique de zéro abattage approche dix ans, la prochaine question que cette île doit affronter est celle-ci : que faire quand ils tombent malades et que les médicaments sont introuvables ?
+- [Conservation du chat-léopard de Taïwan](/fr/nature/taiwanese-leopard-cat-conservation) — L'espèce centrale de cet article, avec moins de cinq cents individus restants à Taïwan, vivant dans les zones de piémont où habitats humains et sauvages s'entrecroisent, et concernée par les 21 cas de mort par chiens
+- [Ours noir de Taïwan](/fr/nature/taiwanese-black-bear) — Espèce indicatrice de l'écosystème du Yushan, autre front après l'expansion des chiens errants vers les basses altitudes
+- [Pangolin de Taïwan](/fr/nature/taiwan-pangolin) — Parmi les individus accueillis en poste de secours, la moitié ont la queue blessée par des morsures de chiens errants
+- [Le problème des collisions d'oiseaux contre les vitres à Taïwan](/fr/nature/bird-window-collision-taiwan) — Un autre coût invisible de l'environnement humain sur la faune sauvage
+- [Éthique des zoos et des animaux de spectacle](/fr/society/zoo-and-exhibition-animal-ethics) — Une autre face du bien-être animal : les dilemmes lorsque les humains décident pour les animaux
+- [Controverses sur les médicaments vétérinaires à Taïwan](/fr/society/taiwan-animal-drug-controversy) — Alors que la politique de zéro abattage approche dix ans, la prochaine question que cette île doit affronter est celle-ci : que faire quand ils tombent malades et que les médicaments sont introuvables ?
 
 ---
 

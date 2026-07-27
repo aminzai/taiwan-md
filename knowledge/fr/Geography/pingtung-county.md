@@ -204,15 +204,15 @@ La prochaine fois que vous irez à Pingtung, vous pourrez faire un détour par W
 
 ## Pour aller plus loin
 
-- [Charles Le Gendre](/people/李仙得) — personnage de contexte de l’incident de Mudan de 1874 ; les propos de ce consul américain à Xiamen selon lesquels les « territoires barbares ne relevaient pas de la Chine » déclenchèrent directement l’expédition japonaise à Pingtung
-- [L’incident du Rover et Toketok](/history/羅發號事件與卓杞篤) — le naufrage du navire marchand américain Rover à l’extrémité sud de la péninsule de Hengchun en 1867, quatre ans avant l’incident des naufragés ryūkyūans de 1871, dans les mêmes eaux et sur le même territoire paiwan
-- [La perspective historique insulaire de Taïwan](/history/台灣島史觀) — le cadre insulaire de Cao Yonghe ; l’histoire stratifiée de la péninsule de Pingtung en est l’un des développements les plus concrets
-- [Comté de Penghu](/geography/澎湖縣) — série des 22 villes et comtés : le choix souverain d’un archipel qui a refusé deux fois les casinos, et qui, comme Pingtung, porte une identité géographique « la plus au sud/la plus à l’ouest » oubliée
-- [Ville de Keelung](/geography/基隆市) — autre port-comté invisible depuis la capitale dans la série des 22 villes et comtés ; comme Pingtung, un nœud essentiel que le récit central laisse de côté
-- [Comté de Lienchiang](/geography/連江縣) — série des 22 villes et comtés : la distance entre l’héritage de zone de guerre et le récit dominant, à lire en parallèle avec les mémoires superposées de l’incident de Mudan et du sanctuaire de Kuskus à Pingtung
-- [Wei Te-sheng](/people/魏德聖) — Cape No. 7, tourné à Hengchun et totalisant 530 millions de dollars taïwanais au box-office, a inscrit la péninsule du sud de Taïwan dans la mémoire cinématographique nationale
-- [La culture taïwanaise des bénévoles de catastrophe](/society/台灣災難志工文化) — comment le double désastre, montagnard et littoral, de la catastrophe du 8 août a remodelé le réseau taïwanais de secours
-- [Typhons](/nature/颱風) — le record de 1 897 millimètres en une journée sous Morakot constitue un tournant dans la relation entre Taïwan et les typhons
+- [Charles Le Gendre](/fr/people/charles-le-gendre) — personnage de contexte de l’incident de Mudan de 1874 ; les propos de ce consul américain à Xiamen selon lesquels les « territoires barbares ne relevaient pas de la Chine » déclenchèrent directement l’expédition japonaise à Pingtung
+- [L’incident du Rover et Toketok](/fr/history/rover-incident-and-tauketok) — le naufrage du navire marchand américain Rover à l’extrémité sud de la péninsule de Hengchun en 1867, quatre ans avant l’incident des naufragés ryūkyūans de 1871, dans les mêmes eaux et sur le même territoire paiwan
+- [La perspective historique insulaire de Taïwan](/fr/history/taiwan-island-historiography) — le cadre insulaire de Cao Yonghe ; l’histoire stratifiée de la péninsule de Pingtung en est l’un des développements les plus concrets
+- [Comté de Penghu](/fr/geography/penghu-county) — série des 22 villes et comtés : le choix souverain d’un archipel qui a refusé deux fois les casinos, et qui, comme Pingtung, porte une identité géographique « la plus au sud/la plus à l’ouest » oubliée
+- [Ville de Keelung](/fr/geography/keelung-city) — autre port-comté invisible depuis la capitale dans la série des 22 villes et comtés ; comme Pingtung, un nœud essentiel que le récit central laisse de côté
+- [Comté de Lienchiang](/fr/geography/lienchiang-county) — série des 22 villes et comtés : la distance entre l’héritage de zone de guerre et le récit dominant, à lire en parallèle avec les mémoires superposées de l’incident de Mudan et du sanctuaire de Kuskus à Pingtung
+- [Wei Te-sheng](/fr/people/wei-te-sheng-taiwanese-epic-filmmaker) — Cape No. 7, tourné à Hengchun et totalisant 530 millions de dollars taïwanais au box-office, a inscrit la péninsule du sud de Taïwan dans la mémoire cinématographique nationale
+- [La culture taïwanaise des bénévoles de catastrophe](/fr/society/taiwan-disaster-volunteer-culture) — comment le double désastre, montagnard et littoral, de la catastrophe du 8 août a remodelé le réseau taïwanais de secours
+- [Typhons](/fr/nature/typhoons-in-taiwan) — le record de 1 897 millimètres en une journée sous Morakot constitue un tournant dans la relation entre Taïwan et les typhons
 
 ## Sources des images
 

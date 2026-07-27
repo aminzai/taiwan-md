@@ -90,7 +90,7 @@ Cette protestation qui se déroule sur les rives de la rivière Zhuoshui n''est 
 
 ## Pour aller plus loin
 
-- [Zoos et éthique des animaux de spectacle](/society/動物園與展演動物倫理) — Un autre cas de tension entre « conservation et développement » (la tortue boîte à couvercle dans cet article vs les animaux en captivité dans celui-ci)
+- [Zoos et éthique des animaux de spectacle](/fr/society/zoo-and-exhibition-animal-ethics) — Un autre cas de tension entre « conservation et développement » (la tortue boîte à couvercle dans cet article vs les animaux en captivité dans celui-ci)
 
 ## Références
 

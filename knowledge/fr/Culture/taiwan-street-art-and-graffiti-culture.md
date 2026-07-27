@@ -86,4 +86,4 @@ Les technologies numériques ouvrent également de nouvelles possibilités. Les 
 ## Pour aller plus loin
 
 - [Art contemporain taïwan](/culture/台灣當代藝術) — La rencontre entre l'art urbain taïwanais et l'écosystème de l'art contemporain
-- [Musique électronique et culture des soirées à Taïwan](/music/台灣電子音樂與派對文化) — La scène de musique électronique partageant des racines sous-culturelles avec l'art urbain
+- [Musique électronique et culture des soirées à Taïwan](/fr/music/taiwan-electronic-music-and-party-culture) — La scène de musique électronique partageant des racines sous-culturelles avec l'art urbain

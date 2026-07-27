@@ -131,10 +131,10 @@ La prochaine fois que vous tomberez sur ce « on part, on part, on va vers miin 
 
 ## Lectures complémentaires
 
-- [杜奕瑾](/people/杜奕瑾) — A fondé PTT avec un ordinateur 486, dirigé Cortana chez Microsoft, puis est revenu à Taïwan pour faire de l'IA à but non lucratif : trente ans de trajectoire
-- [台灣人工智慧實驗室](/technology/台灣人工智慧實驗室) — L'institution d'IA à but non lucratif derrière Miin, de TAIDE à la prévention de la guerre cognitive
-- [認知作戰](/society/認知作戰) — Pourquoi Taïwan est écrit par le milieu académique comme la ligne de front de cette guerre de l'information
-- [台灣網路社群遷徙史](/technology/台灣網路社群遷徙史) — De BBS à PTT, de MySpace à Threads, l'histoire des déménagements répétés des Taïwanais
+- [杜奕瑾](/fr/people/ethan-tu) — A fondé PTT avec un ordinateur 486, dirigé Cortana chez Microsoft, puis est revenu à Taïwan pour faire de l'IA à but non lucratif : trente ans de trajectoire
+- [台灣人工智慧實驗室](/fr/technology/taiwan-ai-labs) — L'institution d'IA à but non lucratif derrière Miin, de TAIDE à la prévention de la guerre cognitive
+- [認知作戰](/fr/society/cognitive-warfare-against-taiwan) — Pourquoi Taïwan est écrit par le milieu académique comme la ligne de front de cette guerre de l'information
+- [台灣網路社群遷徙史](/fr/technology/taiwan-online-community-migration) — De BBS à PTT, de MySpace à Threads, l'histoire des déménagements répétés des Taïwanais
 
 ## Crédits images
 

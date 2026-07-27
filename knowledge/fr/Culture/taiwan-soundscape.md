@@ -190,8 +190,8 @@ Alors la prochaine fois que _La Prière d'une vierge_ d'un camion-poubelle gliss
 
 ## Pour aller plus loin
 
-- [Paysage sonore de Taïwan](/music/台灣聲音地景) — Une autre approche de la carte sonore de Taïwan et de l'écoute urbaine
-- [Fêtes de temple et culture des troupes rituelles à Taïwan](/culture/台灣廟會與陣頭文化) — Le contexte folklorique et sonore plus complet derrière les Techno San Taizi
-- [Histoire du développement du métro à Taïwan](/lifestyle/台灣捷運發展史) — L'histoire du système qui porte lui-même le projet de paysage sonore
-- [Culture des marchés de nuit](/food/夜市文化) — Une autre facette de cette masse de « bruits de véhicules, voix humaines et cris de marchands »
-- [Cérémonie du thé et esthétique du quotidien à Taïwan](/culture/台灣茶道與生活美學) — Une autre ligne de réflexion sur la manière dont les Taïwanais transforment les expériences sensorielles du quotidien en culture
+- [Paysage sonore de Taïwan](/fr/music/taiwan-soundscape) — Une autre approche de la carte sonore de Taïwan et de l'écoute urbaine
+- [Fêtes de temple et culture des troupes rituelles à Taïwan](/fr/culture/taiwan-temple-festivals-and-performance-troupes) — Le contexte folklorique et sonore plus complet derrière les Techno San Taizi
+- [Histoire du développement du métro à Taïwan](/fr/lifestyle/history-of-taiwan-mrt-development) — L'histoire du système qui porte lui-même le projet de paysage sonore
+- [Culture des marchés de nuit](/fr/food/night-market-culture) — Une autre facette de cette masse de « bruits de véhicules, voix humaines et cris de marchands »
+- [Cérémonie du thé et esthétique du quotidien à Taïwan](/fr/culture/taiwan-tea-ceremony-and-aesthetic-living) — Une autre ligne de réflexion sur la manière dont les Taïwanais transforment les expériences sensorielles du quotidien en culture

@@ -198,11 +198,11 @@ Et la question de savoir si elle devrait sortir de Taichung ou continuer à rest
 
 **Pour aller plus loin** :
 
-- [Cheng Li-wen](/people/鄭麗文) — Celle qui a été élue 12e présidente du Kuomintang en octobre 2025 avec 50,15 % des voix. Le « non » de Lu Hsiu-yan lui a ouvert la voie.
-- [Han Kuo-yu](/people/韓國瑜) — L'autre pôle du courant Han de 2018, ayant basculé le bleu au bleu la même année que Lu Hsiu-yan ; président du Yuan législatif en 2024, l'un des « 3+1 » de 2028.
-- [Cho Jung-tai](/people/卓榮泰) — Premier président du Yuan exécutif sous Lai Ching-te, principal promoteur du projet d'achat d'armes de 1 250 milliards de NT$, en opposition politique avec la fourchette « 800 milliards à 1 000 milliards » de Lu.
-- [Défense taïwanaise et modernisation militaire](/society/台灣國防與軍事現代化) — Le contexte complet de la controverse sur les 1 250 milliards d'achat d'armes, des drones et de la puissance asymétrique, toile de fond politique de la visite de Lu Hsiu-yan aux États-Unis en 2026.
-- [Justice environnementale et controverses NIMBY à Taïwan](/society/台灣環境正義與鄰避爭議) — La structure NIMBY derrière la centrale de Taichung, les PM2.5 et la transition énergétique, champ de bataille politique où Lu Hsiu-yan a remporté Taichung en 2018 sur la question de l'air.
+- [Cheng Li-wen](/fr/people/cheng-li-wun) — Celle qui a été élue 12e présidente du Kuomintang en octobre 2025 avec 50,15 % des voix. Le « non » de Lu Hsiu-yan lui a ouvert la voie.
+- [Han Kuo-yu](/fr/people/han-kuo-yu) — L'autre pôle du courant Han de 2018, ayant basculé le bleu au bleu la même année que Lu Hsiu-yan ; président du Yuan législatif en 2024, l'un des « 3+1 » de 2028.
+- [Cho Jung-tai](/fr/people/cho-jung-tai) — Premier président du Yuan exécutif sous Lai Ching-te, principal promoteur du projet d'achat d'armes de 1 250 milliards de NT$, en opposition politique avec la fourchette « 800 milliards à 1 000 milliards » de Lu.
+- [Défense taïwanaise et modernisation militaire](/fr/society/taiwan-defense-modernization) — Le contexte complet de la controverse sur les 1 250 milliards d'achat d'armes, des drones et de la puissance asymétrique, toile de fond politique de la visite de Lu Hsiu-yan aux États-Unis en 2026.
+- [Justice environnementale et controverses NIMBY à Taïwan](/fr/society/taiwan-environmental-justice-nimby-conflicts) — La structure NIMBY derrière la centrale de Taichung, les PM2.5 et la transition énergétique, champ de bataille politique où Lu Hsiu-yan a remporté Taichung en 2018 sur la question de l'air.
 
 ## Références
 

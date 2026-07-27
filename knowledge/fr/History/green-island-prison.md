@@ -86,10 +86,10 @@ La prison de Green Island, cet îlot du Pacifique, porte la mémoire la plus lou
 
 **Pour aller plus loin** :
 
-- [Musée national des droits humains](/history/國家人權博物館) — L'institution nationale dont dépend le site de Green Island, du Centre de rééducation au processus de muséification
-- [La Terreur blanche à Taïwan](/history/台灣白色恐怖) — L'ensemble des affaires politiques sous les 38 ans de loi martiale, Green Island en étant le centre de détention et de transformation idéologique
-- [La période de loi martiale](/history/戒嚴時期) — Le cadre juridique de 1949 à 1987
-- [La justice transitionnelle à Taïwan](/history/台灣轉型正義) — L'entreprise inachevée de révision des jugements et de responsabilisation des auteurs
+- [Musée national des droits humains](/fr/history/national-human-rights-museum) — L'institution nationale dont dépend le site de Green Island, du Centre de rééducation au processus de muséification
+- [La Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — L'ensemble des affaires politiques sous les 38 ans de loi martiale, Green Island en étant le centre de détention et de transformation idéologique
+- [La période de loi martiale](/fr/history/martial-law-era) — Le cadre juridique de 1949 à 1987
+- [La justice transitionnelle à Taïwan](/fr/history/taiwan-transitional-justice) — L'entreprise inachevée de révision des jugements et de responsabilisation des auteurs
 
 ## Sources des images
 

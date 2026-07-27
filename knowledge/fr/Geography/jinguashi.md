@@ -125,13 +125,13 @@ Jinguashi n’est pas seulement de l’or. C’est le sable d’or de 1890, les 
 
 **Lectures complémentaires** :
 
-- [Période coloniale japonaise](/history/日治時期) — comment le « Règlement minier de Taïwan » a privé les autochtones de leurs droits d’exploitation.
+- [Période coloniale japonaise](/fr/history/japanese-colonial-era) — comment le « Règlement minier de Taïwan » a privé les autochtones de leurs droits d’exploitation.
 - [Taiwan Metal Mining Co.](/fr/economy/economic-miracle) — de la création de Tai‑Kin en 1955 à sa fermeture en 1987, le parcours complet de la gestion de Jinguashi par le capital d’État.
-- [Histoire du développement forestier de Taïwan](/history/台灣森林開發史) — Jinguashi, comme Alishan ou Taiping, faisait partie du système colonial d’exploitation des ressources de l’Empire japonais.
-- [Sun Moon Lake](/geography/日月潭), [Alishan : forêts impériales et montagnes](/history/阿里山：帝國的林場與高一生的山) — trois « sites touristiques » dont le récit cache une économie impériale.
-- [Histoire du commerce maritime taïwanais](/history/台灣海洋貿易史) — les routes maritimes qui transportaient l’or et le cuivre de Jinguashi vers le Japon.
+- [Histoire du développement forestier de Taïwan](/fr/history/taiwan-forestry-history) — Jinguashi, comme Alishan ou Taiping, faisait partie du système colonial d’exploitation des ressources de l’Empire japonais.
+- [Sun Moon Lake](/fr/geography/sun-moon-lake), [Alishan : forêts impériales et montagnes](/fr/history/alishan-empire-forest-and-uongu-yatauyungana) — trois « sites touristiques » dont le récit cache une économie impériale.
+- [Histoire du commerce maritime taïwanais](/fr/history/taiwan-maritime-trade-history) — les routes maritimes qui transportaient l’or et le cuivre de Jinguashi vers le Japon.
 - [Croyances populaires : Guan Yu](/culture/民間信仰) — pourquoi les mineurs priaient Guan Yu ; la logique du risque derrière la statue de 25 tonnes.
-- [Keelung](/geography/基隆市) — du téléphérique de Jinguashi à Shuinandong, puis à Badou et au port de Niuchou, le trajet du cuivre vers le Japon.
+- [Keelung](/fr/geography/keelung-city) — du téléphérique de Jinguashi à Shuinandong, puis à Badou et au port de Niuchou, le trajet du cuivre vers le Japon.
 
 ## Références
 

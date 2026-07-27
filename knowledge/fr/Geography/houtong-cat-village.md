@@ -212,11 +212,11 @@ C'est la même eau de la rivière Keelung.
 
 **Pour aller plus loin :**
 
-- [Jinuangshi](/geography/金瓜石) — Village sœur en amont de la rivière Keelung, transition du site minier vers la voie de l'« éco-musée » du « Parc muséal de l'or »
-- [Histoire ferroviaire de Taïwan](/history/台灣鐵道史) — La mise en service de la ligne Pingxi en 1990 est la base physique de l'ossature touristique de cette route Houtong / Pingxi / Jingtong / Shifen
-- [Culture des animaux errants à Taïwan](/society/台灣流浪動物文化) — Le contexte taïwanais de la mise en œuvre de la politique TNVR, Houtong étant l'un des cas de succès
-- [Zoos et éthique des animaux de spectacle](/society/動物園與展演動物倫理) — La même tension éthique animale entre le « tourisme des chats » et les zoos / aquariums
-- [Lanternes célestes](/culture/天燈) — Le festival des lanternes célestes de Pingxi fait face aux mêmes tensions de transition de village de site minier : « économie locale vs responsabilité de protection animale / environnementale »
+- [Jinuangshi](/fr/geography/jinguashi) — Village sœur en amont de la rivière Keelung, transition du site minier vers la voie de l'« éco-musée » du « Parc muséal de l'or »
+- [Histoire ferroviaire de Taïwan](/fr/history/taiwan-railway-history) — La mise en service de la ligne Pingxi en 1990 est la base physique de l'ossature touristique de cette route Houtong / Pingxi / Jingtong / Shifen
+- [Culture des animaux errants à Taïwan](/fr/society/stray-animal-culture) — Le contexte taïwanais de la mise en œuvre de la politique TNVR, Houtong étant l'un des cas de succès
+- [Zoos et éthique des animaux de spectacle](/fr/society/zoo-and-exhibition-animal-ethics) — La même tension éthique animale entre le « tourisme des chats » et les zoos / aquariums
+- [Lanternes célestes](/fr/culture/sky-lanterns-pingxi) — Le festival des lanternes célestes de Pingxi fait face aux mêmes tensions de transition de village de site minier : « économie locale vs responsabilité de protection animale / environnementale »
 
 ## Sources des images
 

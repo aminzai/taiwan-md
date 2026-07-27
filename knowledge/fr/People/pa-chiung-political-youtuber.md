@@ -73,9 +73,9 @@ Au mois d'avril 2026, le nombre d'abonnés à la chaîne « Photographer Diary F
 
 **Pour aller plus loin** :
 
-- [Puma Shen](/people/沈伯洋) — Député taïwanais et co-fondateur de la Kuma Academy, également ciblé par le PCC, premier responsable politique élu à faire l'objet d'un dossier ouvert par la Chine pour « scission de l'État » en 2025
-- [Guerre cognitive](/society/認知作戰) — Cadre complet de la guerre informationnelle du PCC contre Taïwan, dont Pa Chiung est un représentant de la résistance civile par l'humour
-- [Lai Ching-te](/people/賴清德) — Président taïwanais figurant lui aussi sur la liste des « partisans obstinés de l'indépendance taïwanaise » du PCC
+- [Puma Shen](/fr/people/puma-shen) — Député taïwanais et co-fondateur de la Kuma Academy, également ciblé par le PCC, premier responsable politique élu à faire l'objet d'un dossier ouvert par la Chine pour « scission de l'État » en 2025
+- [Guerre cognitive](/fr/society/cognitive-warfare-against-taiwan) — Cadre complet de la guerre informationnelle du PCC contre Taïwan, dont Pa Chiung est un représentant de la résistance civile par l'humour
+- [Lai Ching-te](/fr/people/lai-ching-te) — Président taïwanais figurant lui aussi sur la liste des « partisans obstinés de l'indépendance taïwanaise » du PCC
 
 ---
 

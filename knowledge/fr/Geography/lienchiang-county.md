@@ -230,16 +230,16 @@ Fuzhou est à 16 km. Taïwan est à 200 km. **Cette distance ne changera pas** ;
 
 ## Lectures complémentaires
 
-- [Les îles lointaines et la culture maritime](/geography/離島與海洋文化) — L'archipel des îles lointaines formé conjointement par Matsu, Penghu, Kinmen, Lanyu et Lüdao ; les différentes approches de la culture maritime.
-- [Les caractéristiques géographiques et la formation des îles de Taïwan](/geography/台灣島嶼地理特色與形成) — La comparaison entre la géologie granitique de l'archipel de Matsu et les mécanismes de formation des autres îles de Taïwan.
-- [Keelung](/geography/基隆市) — Le ferry de Taïwan à Matsu part de Keelung et met 8 à 10 heures pour atteindre Nangan ; Keelung est le point de liaison physique entre Matsu et l'île principale de Taïwan.
-- [La période de loi martiale](/history/戒嚴時期) — L'île principale de Taïwan fut libérée en 1987, Kinmen et Matsu maintinrent l'administration militaire jusqu'en 1992 ; cette comparaison montre les deux versions de la loi martiale.
-- [La modernisation de la défense nationale et militaire de Taïwan](/society/台灣國防與軍事現代化) — La comparaison entre la taille actuelle de 4 000 personnes du Commandement de défense de Matsu et la structure de force de 50 000 personnes au plus fort de l'ère de la guerre.
-- [La diversité linguistique et la culture de la langue maternelle](/culture/語言多樣性與母語文化) — La position du Min-Dong (dialecte de Matsu) en tant que quatrième langue maternelle de Taïwan.
-- [Les légendes de Mazu et du Grand Seigneur Da](/culture/媽祖與大道公的傳說) — La croyance au trou spirituel du Temple de Tianhou de Matsu, et la différence avec le Mazu Hokkien de l'île principale de Taïwan.
-- [La topographie côtière et le paysage maritime de Taïwan](/geography/台灣海岸地形與海洋地景) — La structure de la mer entre l'archipel de Matsu et la péninsule de Beijiao à 9,25 km.
-- [Le comté de Pingtung](/geography/屏東縣) — Série des 22 comtés et districts : l'événement Mudan de 1874 + le typhon Morakot + 5 peuples autochtones vivant ensemble pour 780 000 habitants ; un point nodal clé passé sous silence par le récit central, tout comme Matsu.
-- [Le comté de Kinmen](/geography/金門縣) — Frère de la série des 22 comtés et districts, l'autre comté insulaire de la province du Fujian. Même administration militaire en 1956, abolition en 1992, petit troisieme lien en 2001, mais Kinmen parle le Hokkien de Xiamen, est à 1,8 km de Xiamen, et a eu deux batailles décisives à Guling et Bagushan ; il est du même système mais d'une chair et d'un os différents du comté de Lianjiang.
+- [Les îles lointaines et la culture maritime](/fr/geography/offshore-islands-and-maritime-culture) — L'archipel des îles lointaines formé conjointement par Matsu, Penghu, Kinmen, Lanyu et Lüdao ; les différentes approches de la culture maritime.
+- [Les caractéristiques géographiques et la formation des îles de Taïwan](/fr/geography/geography-and-geology) — La comparaison entre la géologie granitique de l'archipel de Matsu et les mécanismes de formation des autres îles de Taïwan.
+- [Keelung](/fr/geography/keelung-city) — Le ferry de Taïwan à Matsu part de Keelung et met 8 à 10 heures pour atteindre Nangan ; Keelung est le point de liaison physique entre Matsu et l'île principale de Taïwan.
+- [La période de loi martiale](/fr/history/martial-law-era) — L'île principale de Taïwan fut libérée en 1987, Kinmen et Matsu maintinrent l'administration militaire jusqu'en 1992 ; cette comparaison montre les deux versions de la loi martiale.
+- [La modernisation de la défense nationale et militaire de Taïwan](/fr/society/taiwan-defense-modernization) — La comparaison entre la taille actuelle de 4 000 personnes du Commandement de défense de Matsu et la structure de force de 50 000 personnes au plus fort de l'ère de la guerre.
+- [La diversité linguistique et la culture de la langue maternelle](/fr/culture/linguistic-diversity-and-mother-tongue-culture) — La position du Min-Dong (dialecte de Matsu) en tant que quatrième langue maternelle de Taïwan.
+- [Les légendes de Mazu et du Grand Seigneur Da](/fr/culture/mazu-dadaogong-legend) — La croyance au trou spirituel du Temple de Tianhou de Matsu, et la différence avec le Mazu Hokkien de l'île principale de Taïwan.
+- [La topographie côtière et le paysage maritime de Taïwan](/fr/geography/taiwan-coastal-landforms-and-seascapes) — La structure de la mer entre l'archipel de Matsu et la péninsule de Beijiao à 9,25 km.
+- [Le comté de Pingtung](/fr/geography/pingtung-county) — Série des 22 comtés et districts : l'événement Mudan de 1874 + le typhon Morakot + 5 peuples autochtones vivant ensemble pour 780 000 habitants ; un point nodal clé passé sous silence par le récit central, tout comme Matsu.
+- [Le comté de Kinmen](/fr/geography/kinmen-county) — Frère de la série des 22 comtés et districts, l'autre comté insulaire de la province du Fujian. Même administration militaire en 1956, abolition en 1992, petit troisieme lien en 2001, mais Kinmen parle le Hokkien de Xiamen, est à 1,8 km de Xiamen, et a eu deux batailles décisives à Guling et Bagushan ; il est du même système mais d'une chair et d'un os différents du comté de Lianjiang.
 
 ## Sources des images
 

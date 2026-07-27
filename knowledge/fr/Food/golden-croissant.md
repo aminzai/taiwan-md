@@ -55,9 +55,9 @@ La prochaine fois que vous croquerez dans une pointe dorée et croustillante, ra
 
 ## Pour aller plus loin
 
-- **[Snacks taïwanais](/food/台灣小吃)** — La place du croissant doré dans le paysage des snacks locaux taïwanais
+- **[Snacks taïwanais](/fr/food/taiwanese-street-food)** — La place du croissant doré dans le paysage des snacks locaux taïwanais
 - **[Vieille rue de Sanxia](/geography/三峽老街)** — Le paysage culturel où le croissant doré a vu le jour (à développer si l'entrée n'existe pas)
-- **[Culture de la pâtisserie taïwanaise](/food/台灣糕餅文化)** — Comment l'héritage de la pâtisserie chinoise a influencé les nouvelles pâtisseries
+- **[Culture de la pâtisserie taïwanaise](/fr/food/taiwan-pastry-culture)** — Comment l'héritage de la pâtisserie chinoise a influencé les nouvelles pâtisseries
 - **[Économie des cadeaux de voyage taïwanais](/economy/台灣伴手禮經濟)** — Un cas d'économie locale : tourisme de la vieille rue × querelles familiales de marques
 
 ## Références

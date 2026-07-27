@@ -90,8 +90,8 @@ Avec l'évolution des temps, le you fan fait aussi face aux défis de la moderni
 
 **Pour aller plus loin** :
 
-- [Taïwan street food](/food/台灣小吃) — Le contexte culturel de la street food taïwanaise à laquelle appartient le you fan
-- [Cuisine taïwanaise traditionnelle](/food/台灣手路菜) — La place technique du you fan dans la culture du banquet et le déroulement du repas
+- [Taïwan street food](/fr/food/taiwanese-street-food) — Le contexte culturel de la street food taïwanaise à laquelle appartient le you fan
+- [Cuisine taïwanaise traditionnelle](/fr/food/taiwan-specialty-home-cooking) — La place technique du you fan dans la culture du banquet et le déroulement du repas
 
 ## Références
 

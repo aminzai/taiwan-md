@@ -213,11 +213,11 @@ Les plats, eux, ont prouvé qu'ils pouvaient entrer dans les hôtels cinq étoil
 
 **Pour aller plus loin** :
 
-- [Les _shǒu lù cài_ taïwanais](/food/台灣手路菜)
-- [Le _guàbāo_](/food/刈包)
-- [La culture maritime taïwanaise](/food/台灣海鮮文化)
-- [La culture des _yèshì_ (marchés nocturnes)](/food/夜市文化)
-- [Chen Yu-hsun](/people/陳玉勳)
+- [Les _shǒu lù cài_ taïwanais](/fr/food/taiwan-specialty-home-cooking)
+- [Le _guàbāo_](/fr/food/gua-bao)
+- [La culture maritime taïwanaise](/fr/food/taiwan-seafood-culture)
+- [La culture des _yèshì_ (marchés nocturnes)](/fr/food/night-market-culture)
+- [Chen Yu-hsun](/fr/people/chen-yu-hsun-taiwan-comedy-film-magician)
 
 ## Crédits photographiques
 

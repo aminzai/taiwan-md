@@ -96,6 +96,6 @@ Ce « héros anonyme » a soutenu, grâce à une mince couche de film plastique,
 
 ## Lectures complémentaires
 
-- [Culture taiwanaise des boissons préparées à la main](/food/台灣手搖飲文化) — l’écosystème alimentaire et culturel soutenu après la diffusion des machines de scellage par film
-- [Thé au lait aux perles](/food/珍珠奶茶) — la boisson nationale taiwanaise qui prit son essor dans les années 1980 en même temps que l’operculeuse
-- [Industrie des semi-conducteurs](/technology/半導體產業) — une autre trajectoire de réussite de l’industrie taiwanaise du matériel à la même époque
+- [Culture taiwanaise des boissons préparées à la main](/fr/food/hand-shaken-drink-culture) — l’écosystème alimentaire et culturel soutenu après la diffusion des machines de scellage par film
+- [Thé au lait aux perles](/fr/food/bubble-tea) — la boisson nationale taiwanaise qui prit son essor dans les années 1980 en même temps que l’operculeuse
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — une autre trajectoire de réussite de l’industrie taiwanaise du matériel à la même époque

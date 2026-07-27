@@ -327,8 +327,8 @@ Cette trajectoire n'est pas complète : les talents de recherche avancée en IA 
 
 **Pour aller plus loin** :
 
-- [Wu Che-yu](/people/吳哲宇) — Comment cet artiste des nouveaux médias persiste, à « l'ère de la prolifération de la génération par IA », à se comporter en horloger : un autre point de vue de créateur, en dehors de l'industrie de l'IA
-- [École taïwanaise d'intelligence artificielle](/technology/台灣人工智慧學校) — Le « don » de Chen Shengwei et la collecte de fonds civile de 180 millions de dollars : comment ce pipeline de talents compense la stratégie gouvernementale de l'IA depuis l'extérieur
+- [Wu Che-yu](/fr/people/che-yu-wu) — Comment cet artiste des nouveaux médias persiste, à « l'ère de la prolifération de la génération par IA », à se comporter en horloger : un autre point de vue de créateur, en dehors de l'industrie de l'IA
+- [École taïwanaise d'intelligence artificielle](/fr/technology/taiwan-ai-academy) — Le « don » de Chen Shengwei et la collecte de fonds civile de 180 millions de dollars : comment ce pipeline de talents compense la stratégie gouvernementale de l'IA depuis l'extérieur
 
 ## Références
 

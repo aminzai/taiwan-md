@@ -220,13 +220,13 @@ Séparée d'UMC en 1997, MediaTek a commencé par les puces de stockage optique 
 
 ## Lectures complémentaires
 
-- [Industrie des semi-conducteurs](/technology/半導體產業) — De l'accord technologique RCA en 1976 à la domination de 60 % du marché mondial en 2024.
-- [Morris Chang](/people/張忠謀) — Figure clé ayant fondé TSMC en 1987 et moteur de l'essor des semi-conducteurs taïwanais.
-- [Shi Chun-young](/people/施振榮) — Auteur de la théorie de la courbe du sourire : un appel à sortir du milieu de la fabrication.
-- [Commerce extérieur de Taïwan et chaînes mondiales](/economy/台灣外貿與全球供應鏈) — Trajectoire des devises des zones d'exportation jusqu'aux semi-conducteurs en 2024.
-- [Écosystème de start-ups](/economy/新創生態系) — Une autre voie vers la puissance d'innovation via les startups et le secteur fabless.
-- [Développement et stratégie de l'IA à Taïwan](/technology/台灣人工智慧發展與未來策略) — La prochaine vague après 2024 : du matériel vers les applications IA.
-- [Programme de leadership entrepreneurial SLP Taipei](/economy/SLP台北創業領導計畫) — Un programme d'entraînement qui illustre la professionnalisation de l'écosystème des start-ups.
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — De l'accord technologique RCA en 1976 à la domination de 60 % du marché mondial en 2024.
+- [Morris Chang](/fr/people/tsmc-morris-chang) — Figure clé ayant fondé TSMC en 1987 et moteur de l'essor des semi-conducteurs taïwanais.
+- [Shi Chun-young](/fr/people/stan-shih) — Auteur de la théorie de la courbe du sourire : un appel à sortir du milieu de la fabrication.
+- [Commerce extérieur de Taïwan et chaînes mondiales](/fr/economy/taiwan-foreign-trade-and-global-supply-chain) — Trajectoire des devises des zones d'exportation jusqu'aux semi-conducteurs en 2024.
+- [Écosystème de start-ups](/fr/economy/taiwan-startup-ecosystem-overview) — Une autre voie vers la puissance d'innovation via les startups et le secteur fabless.
+- [Développement et stratégie de l'IA à Taïwan](/fr/technology/artificial-intelligence-development-strategy) — La prochaine vague après 2024 : du matériel vers les applications IA.
+- [Programme de leadership entrepreneurial SLP Taipei](/fr/economy/slp-taipei-startup-leadership-program) — Un programme d'entraînement qui illustre la professionnalisation de l'écosystème des start-ups.
 
 ---
 

@@ -35,7 +35,7 @@ En 1977, Lin Yi-hsiung est élu **conseiller provincial de Taïwan** (siégeant 
 
 ## Arrestation lors de l'incident de Kaohsiung
 
-Fin 1979, l'incident de Kaohsiung (美麗島事件) éclate. Lin Yi-hsiung est arrêté en même temps que [Shi Ming-te](/fr/People/shih-ming-te/), Huang Hsin-chieh et d'autres, et jugé par un tribunal militaire pour sédition. À l'audience, il insiste pour se défendre lui-même et refuse de plaider coupable, montrant le refus de compromis propre à un juriste. C'est pendant le déroulement du procès que survient le massacre de la maison Lin, changeant radicalement le cours de sa vie.[^2]
+Fin 1979, l'incident de Kaohsiung (美麗島事件) éclate. Lin Yi-hsiung est arrêté en même temps que [Shi Ming-te](/fr/people/shih-ming-te/), Huang Hsin-chieh et d'autres, et jugé par un tribunal militaire pour sédition. À l'audience, il insiste pour se défendre lui-même et refuse de plaider coupable, montrant le refus de compromis propre à un juriste. C'est pendant le déroulement du procès que survient le massacre de la maison Lin, changeant radicalement le cours de sa vie.[^2]
 
 ## Le massacre de la maison Lin
 
@@ -92,4 +92,4 @@ Les jugements sur sa personne restent partagés : ses partisans le considèrent 
 ## Pour aller plus loin
 
 - [Fondation Tzulin pour l'éducation civique](https://www.tzlin.org.tw/) — Site officiel de l'organisation d'éducation civique fondée par Lin Yi-hsiung
-- [Shi Ming-te](/fr/People/shih-ming-te/) — Codélinquent lors de l'incident de Kaohsiung, figure majeure du mouvement dissident
+- [Shi Ming-te](/fr/people/shih-ming-te/) — Codélinquent lors de l'incident de Kaohsiung, figure majeure du mouvement dissident

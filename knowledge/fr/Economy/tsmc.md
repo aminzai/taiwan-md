@@ -207,7 +207,7 @@ L'investissement de chaque generation de procede depasse celui de la precedente 
 
 En mai 2026, la capitalisation boursière de TSMC equivaut à environ 2,3 fois le PIB annuel de Taiwan. Une seule entreprise vaut plus que la production economique de tout un pays en une annee — il n'existe pas de second exemple dans le monde.
 
-Morris Chang a confie au Wall Street Journal qu'il s'estimait « accompli », se comparant à un vieux soldat — « ne mourant pas, mais s'effaçant lentement »[^27]. Mais ce qu'il a cree depasse de loin une simple entreprise. Autour de TSMC, Taiwan a bati le tissu industriel de [semi-conducteurs](/fr/Technology/semiconductor-industry/) le plus dense au monde — des equipements aux materiaux, en passant par l'encapsulation et les tests, toute la chaîne d'approvisionnement tient dans un rayon de cent kilomètres. Cette densite permet à TSMC de repondre aux modifications techniques d'un client en moins de 24 heures — Samsung et Intel ne peuvent pas en dire autant.
+Morris Chang a confie au Wall Street Journal qu'il s'estimait « accompli », se comparant à un vieux soldat — « ne mourant pas, mais s'effaçant lentement »[^27]. Mais ce qu'il a cree depasse de loin une simple entreprise. Autour de TSMC, Taiwan a bati le tissu industriel de [semi-conducteurs](/fr/technology/semiconductor-industry/) le plus dense au monde — des equipements aux materiaux, en passant par l'encapsulation et les tests, toute la chaîne d'approvisionnement tient dans un rayon de cent kilomètres. Cette densite permet à TSMC de repondre aux modifications techniques d'un client en moins de 24 heures — Samsung et Intel ne peuvent pas en dire autant.
 
 En 1987, Morris Chang disait qu'il « voulait juste survivre ». Trente-huit ans plus tard, le monde entier a besoin que TSMC survive. D'une quête de survie individuelle, à la survie d'une île, puis à la survie d'une civilisation.
 
@@ -215,10 +215,10 @@ Personne n'avait planifie un transfert de cette ampleur. Mais dans la pire seche
 
 ## Pour aller plus loin
 
-- [Entreprises taiwanaises : MediaTek](/economy/台灣企業：聯發科技) — Troisième fabricant mondial de puces pour telephones mobiles, representant national du modèle fabless, complementaire à TSMC
-- [Entreprises taiwanaises : ASE Semiconductor](/economy/台灣企業：日月光半導體) — Plus grand fabricant mondial d'encapsulation et de test, maillon aval crucial de la même chaîne d'approvisionnement que TSMC
-- [Marche boursier et marches de capitaux taiwanais](/economy/台灣股市與資本市場) — La capitalisation de TSMC represente environ 35 % du total du marche taiwanais
-- [Transformation industrielle de Taiwan](/economy/台灣產業轉型升級) — TSMC est l'exemple concret de la transformation de Taiwan d'île de sous-traitance en île technologique
+- [Entreprises taiwanaises : MediaTek](/fr/economy/mediatek) — Troisième fabricant mondial de puces pour telephones mobiles, representant national du modèle fabless, complementaire à TSMC
+- [Entreprises taiwanaises : ASE Semiconductor](/fr/economy/taiwan-enterprise-ase-semiconductor) — Plus grand fabricant mondial d'encapsulation et de test, maillon aval crucial de la même chaîne d'approvisionnement que TSMC
+- [Marche boursier et marches de capitaux taiwanais](/fr/economy/taiwan-stock-market) — La capitalisation de TSMC represente environ 35 % du total du marche taiwanais
+- [Transformation industrielle de Taiwan](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC est l'exemple concret de la transformation de Taiwan d'île de sous-traitance en île technologique
 
 ## Références
 

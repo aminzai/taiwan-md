@@ -148,11 +148,11 @@ Manger un gua bao, c’est avaler quatre siècles de routes migratoires fuzhouie
 
 ## Pour aller plus loin
 
-- [En-cas taïwanais](/food/台灣小吃) — l’écosystème d’ensemble de la cuisine de rue, dont le gua bao constitue une lignée essentielle
-- [Culture des marchés de nuit](/food/夜市文化) — l’histoire de l’entrée du gua bao dans les marchés de nuit après sa sortie du contexte du weiya
-- [Culture taïwanaise du banquet de rue](/food/台灣辦桌文化) — la logique rituelle du weiya et des banquets, de l’orientation de la tête du poulet au « tigre mord le porc »
-- [Culture taïwanaise du riz](/food/台灣米食文化) — le contexte des pâtes du gua bao et la double structure riz-pâtes de l’alimentation taïwanaise
-- [Poulet frit salé taïwanais](/food/台灣鹽酥雞) — un autre en-cas populaire passé de Taïwan au champ de vision international de CNN
+- [En-cas taïwanais](/fr/food/taiwanese-street-food) — l’écosystème d’ensemble de la cuisine de rue, dont le gua bao constitue une lignée essentielle
+- [Culture des marchés de nuit](/fr/food/night-market-culture) — l’histoire de l’entrée du gua bao dans les marchés de nuit après sa sortie du contexte du weiya
+- [Culture taïwanaise du banquet de rue](/fr/food/taiwan-banquet-culture) — la logique rituelle du weiya et des banquets, de l’orientation de la tête du poulet au « tigre mord le porc »
+- [Culture taïwanaise du riz](/fr/food/taiwan-rice-cuisine-culture) — le contexte des pâtes du gua bao et la double structure riz-pâtes de l’alimentation taïwanaise
+- [Poulet frit salé taïwanais](/fr/food/taiwanese-popcorn-chicken-redux) — un autre en-cas populaire passé de Taïwan au champ de vision international de CNN
 
 ## Sources des images
 

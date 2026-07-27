@@ -171,9 +171,9 @@ Ya Hsien a laissé quatre-vingt-dix poèmes. Dans la préface de L'Abîme, il ci
 
 **Lectures complémentaires** :
 
-- [Cheng Chou-yu : le vagabond qui écrivit « Erreur », finalement domicilié à Kinmen](/people/鄭愁予) — poète de la même génération que la Société poétique Genesis, mort en juin 2025
-- [Période de la loi martiale](/history/戒嚴時期) — contexte historique de la censure littéraire, du Commandement général de la garnison et de l'obscurité comme protestation politique
-- [Médias taïwanais et liberté de la presse](/society/台灣媒體與新聞自由) — contexte historique du rôle dominant joué par les suppléments littéraires des deux grands journaux, l'United Daily News et le China Times, dans le monde littéraire taïwanais entre les années 1950 et 1990
+- [Cheng Chou-yu : le vagabond qui écrivit « Erreur », finalement domicilié à Kinmen](/fr/people/cheng-chou-yu-poet) — poète de la même génération que la Société poétique Genesis, mort en juin 2025
+- [Période de la loi martiale](/fr/history/martial-law-era) — contexte historique de la censure littéraire, du Commandement général de la garnison et de l'obscurité comme protestation politique
+- [Médias taïwanais et liberté de la presse](/fr/society/media-and-press-freedom-in-taiwan) — contexte historique du rôle dominant joué par les suppléments littéraires des deux grands journaux, l'United Daily News et le China Times, dans le monde littéraire taïwanais entre les années 1950 et 1990
 
 ## Références
 

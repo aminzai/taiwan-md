@@ -142,7 +142,7 @@ Dans les salles de classe des écoles rurales, les néons clignotent parfois. La
 - Justice foncière et territoires traditionnels des peuples autochtones à Taïwan — de nombreuses écoles où TFT intervient se trouvent dans des régions autochtones, où la question éducative se mêle à celle de la justice territoriale et de la transmission culturelle
 - Yan Chang-Shou — l'un des pères spirituels de TFT, fondateur de la Fondation de la plateforme de bien-être public, dont les expériences éducatives à Taitung forment avec TFT deux bras d'un même fleuve
 - Culture du bénévolat et engagement civique à Taïwan — la tradition bénévole de la société civile taïwanaise est le terreau qui a permis à TFT de recruter quatre cents personnes
-- [Zashugiao](/society/雜學校) — autre startup éducative née après le mouvement du 18 mars 2014 ; là où TFT recrute par organisation, Zashugiao opte pour la fête du savoir : deux méthodes de commissariat différentes
+- [Zashugiao](/fr/society/za-share) — autre startup éducative née après le mouvement du 18 mars 2014 ; là où TFT recrute par organisation, Zashugiao opte pour la fête du savoir : deux méthodes de commissariat différentes
 
 ## Références
 

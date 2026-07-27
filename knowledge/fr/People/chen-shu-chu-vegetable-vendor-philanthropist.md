@@ -96,7 +96,7 @@ En 2025, l'Université nationale de Taïdong lui décerne un doctorat honoris ca
 
 - [Marché central de Taïdong](/lifestyle/台東市集) — Lieu où s'est tenu l'étal de Chen Shu-chu pendant cinquante ans, scène représentative de l'économie populaire de Taïdong
 - [Culture de la philanthropie à Taïwan](/society/台灣慈善文化) — De la maître Cheng Yen et Tzu Chi à Chen Shu-chu, deux modèles de philanthropie civile taïwanaise
-- [Éducation dans les zones rurales de Taïwan](/society/台灣偏鄉教育) — Les principaux destinataires des dons de Chen Shu-chu au fil des années : bibliothèques, écoles et orphelinats, et le contexte de leur soutien à long terme
+- [Éducation dans les zones rurales de Taïwan](/fr/society/taiwan-rural-education) — Les principaux destinataires des dons de Chen Shu-chu au fil des années : bibliothèques, écoles et orphelinats, et le contexte de leur soutien à long terme
 
 ## Références
 

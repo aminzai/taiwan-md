@@ -80,10 +80,10 @@ Facebook's story is a microcosm of Taiwan's 20-year digital transformation: it t
 
 **Further Reading**:
 
-- [IG: From Photographers' Filters to Taiwan People's "Crispy" Anxiety](/technology/IG) — Another key Meta platform in Taiwan, forming different usage scenarios with Facebook: Facebook is for "contacting elders," IG is for "looking at oneself," and Threads is the "big argument square."
-- [Threads in Taiwan](/technology/Threads在台灣) — Why do Taiwan people call Threads "Crispy" (脆)? From the FB refugee wave to "Crispy" being the global traffic leader, the unique position of Taiwan users in the Meta ecosystem.
-- [History of Taiwan Internet Community Migration](/technology/台灣網路社群遷徙史) — From BBS, Wretch, Plurk to Facebook, IG, Threads. To understand why Facebook rose and began to recede in Taiwan, this complete migration map is necessary.
-- [Wretch (Wuming Xiaozhan)](/culture/無名小站) — La plateforme locale que Facebook a d’abord dépassée à Taïwan, puis remplacée : en 2008 Wretch devançait encore Yahoo comme numéro un national ; à partir de 2009, Facebook a pris l’ascendant grâce à la viscosité du fil d’actualité.
+- [IG: From Photographers' Filters to Taiwan People's "Crispy" Anxiety](/fr/technology/instagram-in-taiwan) — Another key Meta platform in Taiwan, forming different usage scenarios with Facebook: Facebook is for "contacting elders," IG is for "looking at oneself," and Threads is the "big argument square."
+- [Threads in Taiwan](/fr/technology/threads-in-taiwan) — Why do Taiwan people call Threads "Crispy" (脆)? From the FB refugee wave to "Crispy" being the global traffic leader, the unique position of Taiwan users in the Meta ecosystem.
+- [History of Taiwan Internet Community Migration](/fr/technology/taiwan-online-community-migration) — From BBS, Wretch, Plurk to Facebook, IG, Threads. To understand why Facebook rose and began to recede in Taiwan, this complete migration map is necessary.
+- [Wretch (Wuming Xiaozhan)](/fr/culture/wretch) — La plateforme locale que Facebook a d’abord dépassée à Taïwan, puis remplacée : en 2008 Wretch devançait encore Yahoo comme numéro un national ; à partir de 2009, Facebook a pris l’ascendant grâce à la viscosité du fil d’actualité.
 
 ## References
 

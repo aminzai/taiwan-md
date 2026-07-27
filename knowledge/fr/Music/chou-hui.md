@@ -353,10 +353,10 @@ La prochaine fois qu’un auditeur taïwanais contemporain entrera dans un KTV, 
 
 **Lectures complémentaires** :
 
-- [Deserts Chang et Anpu](/music/張懸與安溥) — Autre voix féminine taïwanaise : Anpu utilise deux noms de scène pour répondre à la question « de quel côté se tenir » ; le choix de Chou Hui est de ne pas choisir de camp
-- [La culture KTV à Taïwan](/music/台灣KTV文化) — L’âge d’or du KTV de la fin des années 1990 au début des années 2000 est la base matérielle qui permet à « Promesse » de durer 25 ans
-- [La musique populaire taïwanaise](/music/台灣流行音樂) — L’émergence et la dissolution du cadre des « quatre petites reines de la pop » en 1999 offrent une coupe de l’industrialisation de la pop mandarinophone des années 1990
-- [Musique populaire et Golden Melody Awards](/music/金曲獎) — Chou Hui n’a jamais remporté le Golden Melody de la meilleure chanteuse, mais sa carrière de 25 ans a établi un autre indice de longévité en dehors du système des Golden Melody Awards
+- [Deserts Chang et Anpu](/fr/music/deserts-chang-and-anpu) — Autre voix féminine taïwanaise : Anpu utilise deux noms de scène pour répondre à la question « de quel côté se tenir » ; le choix de Chou Hui est de ne pas choisir de camp
+- [La culture KTV à Taïwan](/fr/music/ktv-culture) — L’âge d’or du KTV de la fin des années 1990 au début des années 2000 est la base matérielle qui permet à « Promesse » de durer 25 ans
+- [La musique populaire taïwanaise](/fr/music/golden-melodies-legacy-taiwan-pop-music) — L’émergence et la dissolution du cadre des « quatre petites reines de la pop » en 1999 offrent une coupe de l’industrialisation de la pop mandarinophone des années 1990
+- [Musique populaire et Golden Melody Awards](/fr/music/pop-music-and-golden-melody-awards) — Chou Hui n’a jamais remporté le Golden Melody de la meilleure chanteuse, mais sa carrière de 25 ans a établi un autre indice de longévité en dehors du système des Golden Melody Awards
 
 ## Sources des images
 

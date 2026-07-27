@@ -147,12 +147,12 @@ La prochaine fois que quelqu'un vous demande « pourquoi sauvegarder les photos 
 
 ## Lectures complémentaires
 
-- [Wretch — La jeunesse placée sur un serveur que les autres peuvent éteindre](/culture/無名小站)
-- [PTT Pii Ti Ti — La cité-État poussée par le réseau académique](/technology/PTT批踢踢)
-- [Facebook à Taïwan](/technology/Facebook)
-- [Threads à Taïwan — Threads et 11 minutes 31 secondes](/technology/Threads在台灣)
-- [Instagram à Taïwan](/technology/IG)
-- [Miin — Le havre de paix de 2026 « Allons à miin »](/technology/迷音Miin)
+- [Wretch — La jeunesse placée sur un serveur que les autres peuvent éteindre](/fr/culture/wretch)
+- [PTT Pii Ti Ti — La cité-État poussée par le réseau académique](/fr/technology/ptt-bulletin-board-system)
+- [Facebook à Taïwan](/fr/technology/facebook-in-taiwan)
+- [Threads à Taïwan — Threads et 11 minutes 31 secondes](/fr/technology/threads-in-taiwan)
+- [Instagram à Taïwan](/fr/technology/instagram-in-taiwan)
+- [Miin — Le havre de paix de 2026 « Allons à miin »](/fr/technology/miin-music-app)
 
 ---
 

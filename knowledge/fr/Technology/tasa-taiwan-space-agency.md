@@ -260,10 +260,10 @@ Zeppelin a vu Taïwan depuis un hélicoptère, ne l’a pas fini l’année de s
 
 ## Lectures complémentaires
 
-- [Développement de l'industrie spatiale taïwanaise](/technology/台灣太空產業發展) — Cet article traite de la façon dont l'institution elle-même grandit ; celui-là traite de la chaîne d'approvisionnement derrière elle : quels fabricants fabriquent les composants des satellites, comment la semi-conducteur entre dans l'espace, comment l'écosystème des startups se forme.
-- [Industrie des semi-conducteurs](/technology/半導體產業) — La base industrielle de l'« autonomie » spatiale de Taïwan est largement construite sur la capacité existante de semi-conducteurs et de fabrication de précision de cette île.
-- [Taipei chinois](/society/中華台北) — La ligne de souveraineté de « remettre Taiwan dans le nom » a une autre face sur les stades.
-- [Lin Qi'er](/people/林琪兒) — Portrait d'une autre figure travaillant pour Taïwan sur le terrain scientifique.
+- [Développement de l'industrie spatiale taïwanaise](/fr/technology/taiwan-space-industry-development) — Cet article traite de la façon dont l'institution elle-même grandit ; celui-là traite de la chaîne d'approvisionnement derrière elle : quels fabricants fabriquent les composants des satellites, comment la semi-conducteur entre dans l'espace, comment l'écosystème des startups se forme.
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — La base industrielle de l'« autonomie » spatiale de Taïwan est largement construite sur la capacité existante de semi-conducteurs et de fabrication de précision de cette île.
+- [Taipei chinois](/fr/society/chinese-taipei) — La ligne de souveraineté de « remettre Taiwan dans le nom » a une autre face sur les stades.
+- [Lin Qi'er](/fr/people/lin-chi-er-astronaut) — Portrait d'une autre figure travaillant pour Taïwan sur le terrain scientifique.
 
 ## Sources des vidéos
 

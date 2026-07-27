@@ -194,14 +194,14 @@ C’est la question la plus importante des usines de la chaîne d’IA à l’é
 
 ## Pour aller plus loin
 
-- [Chaîne d’approvisionnement du matériel d’IA](/technology/AI硬體供應鏈) — pourquoi le monde a besoin que Taïwan transforme la demande du nuage en machines.
-- [Chaîne d’approvisionnement du matériel d’IA](/technology/AI硬體供應鏈) — du GPU au rack : comment les ODM/EMS taïwanais captent le matériel des centres de données d’IA.
-- [Électricité et semi-conducteurs à Taïwan](/technology/台灣的電力與半導體) — comment la fabrication de pointe revient à l’électricité et à la sécurité énergétique.
-- [L’eau des semi-conducteurs et les ressources hydriques de Taïwan](/technology/半導體用水與台灣水資源) — comment les usines de plaquettes entrent dans les barrages, les sécheresses et la gestion de l’eau régénérée.
-- [Entreprises taïwanaises : TSMC](/economy/台灣企業：台積電) — comment le modèle de fonderie de TSMC a réécrit la division mondiale du travail dans les semi-conducteurs.
-- [Entreprises taïwanaises : Foxconn](/economy/台灣企業：鴻海精密) — de la sous-traitance électronique aux serveurs d’IA et au matériel des centres de données.
-- [Entreprises taïwanaises : Delta Electronics](/economy/台灣企業：台達電子) — comment l’alimentation, la dissipation et la gestion de l’énergie sont devenues une part de l’infrastructure d’IA.
-- [Développement des parcs scientifiques](/technology/科技園區發展) — comment le cluster taïwanais des semi-conducteurs a poussé depuis les terres et les villes.
+- [Chaîne d’approvisionnement du matériel d’IA](/fr/technology/ai-hardware-supply-chain) — pourquoi le monde a besoin que Taïwan transforme la demande du nuage en machines.
+- [Chaîne d’approvisionnement du matériel d’IA](/fr/technology/ai-hardware-supply-chain) — du GPU au rack : comment les ODM/EMS taïwanais captent le matériel des centres de données d’IA.
+- [Électricité et semi-conducteurs à Taïwan](/fr/technology/taiwan-electricity-and-semiconductors) — comment la fabrication de pointe revient à l’électricité et à la sécurité énergétique.
+- [L’eau des semi-conducteurs et les ressources hydriques de Taïwan](/fr/technology/semiconductor-water-use-and-taiwan-water-resources) — comment les usines de plaquettes entrent dans les barrages, les sécheresses et la gestion de l’eau régénérée.
+- [Entreprises taïwanaises : TSMC](/fr/economy/tsmc) — comment le modèle de fonderie de TSMC a réécrit la division mondiale du travail dans les semi-conducteurs.
+- [Entreprises taïwanaises : Foxconn](/fr/economy/foxconn-precision-industry) — de la sous-traitance électronique aux serveurs d’IA et au matériel des centres de données.
+- [Entreprises taïwanaises : Delta Electronics](/fr/economy/delta-electronics-taiwan-power-giant) — comment l’alimentation, la dissipation et la gestion de l’énergie sont devenues une part de l’infrastructure d’IA.
+- [Développement des parcs scientifiques](/fr/technology/science-park-development) — comment le cluster taïwanais des semi-conducteurs a poussé depuis les terres et les villes.
 
 ## Sources des images
 

@@ -96,11 +96,11 @@ En 2019, Megaport a annoncé son annulation, puis est revenu en 2021. Au moment 
 
 Le site officiel indique que le Megaport 2026 est fixé aux 21 et 22 mars, au Pier-2 Art Center de Kaohsiung ; l’affiche comprend Sunset Rollercoaster, Kessoku Band, AiNA THE END, Fire EX., Hiromi's Sonicwonder, Käärijä, Yang Fan ou Bloody Blender. Cette liste conserve le métissage propre à Megaport : un projet de groupe d’anime japonais, une figure médiatique finlandaise de l’Eurovision, du rock taïwanais et la mémoire de la pop en taïwanais peuvent apparaître côte à côte le même week-end portuaire.[^10]
 
-Si Megaport mérite une entrée à part entière, ce n’est pas seulement parce qu’il est grand, que les billets sont difficiles à obtenir ou que l’affiche est belle. Le plus important, c’est qu’il relie plusieurs fils essentiels de la [culture des festivals à Taïwan](/music/台灣音樂祭文化) : le regard local et international de CHTHONIC, l’identité urbaine du sud de Taïwan, l’écosystème du live de la [musique indépendante taïwanaise](/music/台灣獨立音樂), le retour du taïwanais comme langue contemporaine et la possibilité du festival comme espace public.
+Si Megaport mérite une entrée à part entière, ce n’est pas seulement parce qu’il est grand, que les billets sont difficiles à obtenir ou que l’affiche est belle. Le plus important, c’est qu’il relie plusieurs fils essentiels de la [culture des festivals à Taïwan](/fr/music/taiwan-music-festival-culture) : le regard local et international de CHTHONIC, l’identité urbaine du sud de Taïwan, l’écosystème du live de la [musique indépendante taïwanaise](/fr/music/indie-music-scene), le retour du taïwanais comme langue contemporaine et la possibilité du festival comme espace public.
 
 Certains festivals ressemblent à un programme de salle ; Megaport ressemble plutôt à une ville provisoire. En deux jours, les entrepôts, les quais, les pelouses et les salles du port sont renommés par le son. Quand les lumières s’éteignent et que les scènes sont démontées, beaucoup reviennent l’année suivante, comme on rentre dans un pays natal qui n’existe qu’en mars.
 
-**Pour aller plus loin** : Freddy Lim, CHTHONIC, [culture des festivals à Taïwan](/music/台灣音樂祭文化), [musique indépendante taïwanaise](/music/台灣獨立音樂), [Fire EX.](/music/滅火器樂團)
+**Pour aller plus loin** : Freddy Lim, CHTHONIC, [culture des festivals à Taïwan](/fr/music/taiwan-music-festival-culture), [musique indépendante taïwanaise](/fr/music/indie-music-scene), [Fire EX.](/fr/music/fire-ex)
 
 ## Sources des images
 

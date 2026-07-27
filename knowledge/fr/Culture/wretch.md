@@ -176,7 +176,7 @@ La caractéristique la plus simple de cet ordinateur récupéré, à l’époque
 
 ## Pour aller plus loin
 
-[l’histoire des migrations des communautés en ligne à Taïwan](/fr/Technology/taiwan-online-community-migration/), [PTT](/fr/Technology/ptt-bulletin-board-system/), [Bahamut](/fr/Culture/bahamut-taiwan-gaming-community/), [Dcard](/fr/Culture/dcard-taiwan-social-platform/), [Plurk](/fr/Culture/plurk-taiwan-microblog/), [Facebook](/fr/Technology/facebook-in-taiwan/), [l’industrie et la culture des YouTubeurs à Taïwan](/fr/Culture/taiwan-youtuber-industry/), [la nouvelle génération d’idoles taïwanaises](/fr/Culture/taiwan-new-idol-generation/), [Huang Shan-liao](/fr/People/huang-shan-liao/) et [les générations par année scolaire à Taïwan](/fr/Society/taiwan-generations/).
+[l’histoire des migrations des communautés en ligne à Taïwan](/fr/technology/taiwan-online-community-migration/), [PTT](/fr/technology/ptt-bulletin-board-system/), [Bahamut](/fr/culture/bahamut-taiwan-gaming-community/), [Dcard](/fr/culture/dcard-taiwan-social-platform/), [Plurk](/fr/culture/plurk-taiwan-microblog/), [Facebook](/fr/technology/facebook-in-taiwan/), [l’industrie et la culture des YouTubeurs à Taïwan](/fr/culture/taiwan-youtuber-industry/), [la nouvelle génération d’idoles taïwanaises](/fr/culture/taiwan-new-idol-generation/), [Huang Shan-liao](/fr/people/huang-shan-liao/) et [les générations par année scolaire à Taïwan](/fr/society/taiwan-generations/).
 
 ## Sources des images
 

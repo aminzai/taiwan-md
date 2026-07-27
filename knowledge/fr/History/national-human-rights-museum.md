@@ -320,11 +320,11 @@ Ce qui peut être gelé, ce n’est pas ce musée. C’est cette infrastructure 
 
 **Pour aller plus loin** :
 
-- [Prison de Green Island](/history/綠島監獄) — Une même île, des prisons politiques noires au « pays natal des grands frères », avec des couches de mémoire superposées. Le présent article se concentre sur l’institution muséale ; celui-ci traite de la mémoire spatiale.
-- [Période de la loi martiale](/history/戒嚴時期) — Les trente-huit années de loi martiale, de 1949 à 1987, base juridique de l’histoire exposée par ce musée.
-- [Terreur blanche à Taïwan](/history/台灣白色恐怖) — 29 407 affaires de justice militaire, 140 000 familles de victimes : l’échelle concrète commémorée par le monument des larmes.
-- [Justice transitionnelle à Taïwan](/history/台灣轉型正義) — La tension d’un processus qui a annulé six mille jugements sans parvenir à établir la responsabilité des auteurs ; cet article en offre un fragment institutionnel.
-- [Incident du 28 février](/history/二二八事件) — La plus grande révolte populaire de l’après-guerre à Taïwan, point de départ qui engendra trente-huit années de loi martiale.
+- [Prison de Green Island](/fr/history/green-island-prison) — Une même île, des prisons politiques noires au « pays natal des grands frères », avec des couches de mémoire superposées. Le présent article se concentre sur l’institution muséale ; celui-ci traite de la mémoire spatiale.
+- [Période de la loi martiale](/fr/history/martial-law-era) — Les trente-huit années de loi martiale, de 1949 à 1987, base juridique de l’histoire exposée par ce musée.
+- [Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — 29 407 affaires de justice militaire, 140 000 familles de victimes : l’échelle concrète commémorée par le monument des larmes.
+- [Justice transitionnelle à Taïwan](/fr/history/taiwan-transitional-justice) — La tension d’un processus qui a annulé six mille jugements sans parvenir à établir la responsabilité des auteurs ; cet article en offre un fragment institutionnel.
+- [Incident du 28 février](/fr/history/228-incident) — La plus grande révolte populaire de l’après-guerre à Taïwan, point de départ qui engendra trente-huit années de loi martiale.
 
 ## Références
 

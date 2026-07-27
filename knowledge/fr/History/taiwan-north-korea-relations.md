@@ -110,8 +110,8 @@ Le passage du paradigme de la Corée du Nord vers la « théorie des deux États
 
 ## Pour aller plus loin
 
-- [Retrait de l'ONU](/history/退出聯合國) — Le tournant structurel du statut international de la Taïwan
-- [Commerce extérieur de la Taïwan et chaîne d'approvisionnement mondiale](/economy/台灣外貿與全球供應鏈) — Comment l'exportation a façonné le commerce de la zone grise
+- [Retrait de l'ONU](/fr/history/withdrawal-from-united-nations) — Le tournant structurel du statut international de la Taïwan
+- [Commerce extérieur de la Taïwan et chaîne d'approvisionnement mondiale](/fr/economy/taiwan-foreign-trade-and-global-supply-chain) — Comment l'exportation a façonné le commerce de la zone grise
 
 ## Références
 

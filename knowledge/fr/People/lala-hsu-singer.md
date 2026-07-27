@@ -56,7 +56,7 @@ Cette transposition est profondément taïwanaise. La tradition n'est pas relég
 
 Le 15 août 2008, elle remporte le titre de championne de la troisième saison. L'année suivante, le 29 mai 2009, sort _Lala Hsu 1st Album_, qui reprend _Riding a White Horse_, [_Lost Desert Oasis_](https://www.youtube.com/watch?v=9IP2S9aSWfI), _The Same Moonlight_ et d'autres compositions originales nées pendant la compétition. Le ministère de la Culture indique que cet album la propulse rapidement parmi les représentantes d'une nouvelle génération de chanteureuses pop taïwanaises.[^1]
 
-C'est aussi par elle que [Chen Chien-chi](/people/陳建騏) fait son entrée dans la pop mandarine. En 2008, _Lost Desert Oasis_ est sa première production de chanson pop ; en 2009, _Lala Hsu 1st Album_, puis en 2010, _Limits_, Lala Hsu devient pendant trois ans consécutifs le chantier où il passe du théâtre et de la musique indépendante à la production grand public.[^10]
+C'est aussi par elle que [Chen Chien-chi](/fr/people/chen-chien-chi-music-producer) fait son entrée dans la pop mandarine. En 2008, _Lost Desert Oasis_ est sa première production de chanson pop ; en 2009, _Lala Hsu 1st Album_, puis en 2010, _Limits_, Lala Hsu devient pendant trois ans consécutifs le chantier où il passe du théâtre et de la musique indépendante à la production grand public.[^10]
 
 > **✦** Sa première chanson emblématique montre que la tradition n'a pas besoin de costume cravate pour s'installer dans une chanson pop.
 
@@ -127,11 +127,11 @@ Ce billet de bus failli pour Taichung n'a pas disparu. Il est toujours dans ses 
 
 **Pour aller plus loin** :
 
-- [Chen Chien-chi](/people/陳建騏) — _Lost Desert Oasis_ en 2008 est la première production pop de Chen Chien-chi, et le chantier décisif où le son des débuts de Lala Hsu s'est construit
-- [Yoga Lin](/people/林宥嘉) — Issu lui aussi de _Super Star Avenue_, un autre parcours de champion de télé-crochet devenu producteur autonome
-- [Hebe Tien](/people/田馥甄) — Figure centrale des voix féminines mandarines des années 2010, qui a su se détacher du système des idoles pour trouver sa propre voix
-- [Waa Wei](/people/魏如萱) — Reine des Golden Melody de la même génération, avec qui Lala Hsu compose une lignée non conventionnelle de chanteureuses-compositrices taïwanaises
-- [Variétés taïwanaises](/culture/台灣綜藝) — Comprendre comment les émissions de télé-crochet taïwanaises comme _Super Star Avenue_ ont transformé la pop mandarine dans les années 2000
+- [Chen Chien-chi](/fr/people/chen-chien-chi-music-producer) — _Lost Desert Oasis_ en 2008 est la première production pop de Chen Chien-chi, et le chantier décisif où le son des débuts de Lala Hsu s'est construit
+- [Yoga Lin](/fr/people/yoga-lin) — Issu lui aussi de _Super Star Avenue_, un autre parcours de champion de télé-crochet devenu producteur autonome
+- [Hebe Tien](/fr/people/hebe-tien-singer) — Figure centrale des voix féminines mandarines des années 2010, qui a su se détacher du système des idoles pour trouver sa propre voix
+- [Waa Wei](/fr/people/waa-wei-singer) — Reine des Golden Melody de la même génération, avec qui Lala Hsu compose une lignée non conventionnelle de chanteureuses-compositrices taïwanaises
+- [Variétés taïwanaises](/fr/culture/taiwan-variety-shows) — Comprendre comment les émissions de télé-crochet taïwanaises comme _Super Star Avenue_ ont transformé la pop mandarine dans les années 2000
 
 ## Références
 

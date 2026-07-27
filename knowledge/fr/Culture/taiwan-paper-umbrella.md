@@ -74,10 +74,10 @@ Cependant, l'histoire de l'ombrelle de Meinong offre une leçon précieuse aux a
 
 ## Pour aller plus loin
 
-- **[Culture et langue hakka](/culture/客家文化與語言)** — La préservation linguistique et la transmission culturelle du peuple hakka, terreau culturel de l'ombrelle en papier
-- **[Culture des tabous homophones à Taïwan](/culture/台灣諧音禁忌文化)** — Le tabou hoklo d'« offrir une ombrelle » contre les vœux hakka de l'ombrelle en papier : la logique homophone d'un même objet aux interprétations opposées
-- **[Les tissus fleuris taïwanais](/culture/台灣花布)** — Un autre motif traditionnel taïwanais passé de l'usage quotidien au rang de symbole culturel
-- **[La teinture à l'indigo](/culture/藍染)** — Un artisanat traditionnel taïwanais confronté aux mêmes défis de transmission
+- **[Culture et langue hakka](/fr/culture/hakka-culture-and-language)** — La préservation linguistique et la transmission culturelle du peuple hakka, terreau culturel de l'ombrelle en papier
+- **[Culture des tabous homophones à Taïwan](/fr/culture/taiwanese-homophone-taboos)** — Le tabou hoklo d'« offrir une ombrelle » contre les vœux hakka de l'ombrelle en papier : la logique homophone d'un même objet aux interprétations opposées
+- **[Les tissus fleuris taïwanais](/fr/culture/taiwan-floral-fabric)** — Un autre motif traditionnel taïwanais passé de l'usage quotidien au rang de symbole culturel
+- **[La teinture à l'indigo](/fr/culture/taiwan-indigo-dyeing)** — Un artisanat traditionnel taïwanais confronté aux mêmes défis de transmission
 
 ## Références
 

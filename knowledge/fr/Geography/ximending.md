@@ -178,15 +178,15 @@ La prochaine fois que vous passerez devant la salle octogonale de la Maison roug
 
 **Pour aller plus loin** :
 
-- [La salle à fumer de Taipei : dans une ville sans tabac, la boîte de verre qui respire](/society/台北吸菸室) — la première cabine à fumer extérieure à pression négative de Taïwan, installée dans la rue à la sortie du métro de Ximen
+- [La salle à fumer de Taipei : dans une ville sans tabac, la boîte de verre qui respire](/fr/society/taipei-smoking-room) — la première cabine à fumer extérieure à pression négative de Taïwan, installée dans la rue à la sortie du métro de Ximen
 
-- [Ville de Taipei : trois temporalités dans une même ville, le temple Longshan de 1738 regardant Taipei 101 de 2004](/geography/台北市) — la place de Ximending parmi les 12 districts, mise en parallèle avec les trois lignes temporelles de Bangka, Dadaocheng et Xinyi
-- [Culture taïwanaise de l’animation et du manga](/culture/台灣動漫文化) — pourquoi le cosplay se rassemble régulièrement le week-end devant la Maison rouge de Ximen, et son lien avec l’origine de Fancy Frontier en 1999
-- [Art de rue et culture du graffiti à Taïwan](/culture/台灣街頭藝術與塗鴉文化) — le contexte des graffitis du mur bleu du Cinema Theme Park de Ximending et de l’émergence de la culture de rue taïwanaise après la levée de la loi martiale
-- [Culture des vieilles rues et quartiers commerciaux de Taïwan](/culture/台灣老街文化與商業街區) — Ximending comme quartier de divertissement planifié sous la domination japonaise, et ses différences structurelles avec les vieilles rues des Qing comme Lukang, Bangka et Dadaocheng
-- [Bangka](/geography/艋舺) — sibling du même batch 1 des quartiers historiques : lorsque les Japonais planifièrent Ximending en 1896, Bangka, juste à côté, était le port le plus animé du nord de Taïwan sous les Qing
-- [Dadaocheng](/geography/大稻埕) — sibling du même batch 1 des quartiers historiques : rue commerciale du thé apparue après les affrontements Ding-Xia-Jiao de 1853, elle représente un autre « moment de formation de rue » que le quartier de divertissement japonais de Ximending
-- [Tiaotong de Zhongshan North Road](/geography/中山北路條通) — avenue arborée de l’époque japonaise aménagée en 1898 comme « route de l’envoyé impérial » vers le sanctuaire de Taïwan à Yuanshan, contemporaine de Ximending mais issue d’une expérience urbaine complètement différente
+- [Ville de Taipei : trois temporalités dans une même ville, le temple Longshan de 1738 regardant Taipei 101 de 2004](/fr/geography/taipei-city) — la place de Ximending parmi les 12 districts, mise en parallèle avec les trois lignes temporelles de Bangka, Dadaocheng et Xinyi
+- [Culture taïwanaise de l’animation et du manga](/fr/culture/taiwan-anime-culture) — pourquoi le cosplay se rassemble régulièrement le week-end devant la Maison rouge de Ximen, et son lien avec l’origine de Fancy Frontier en 1999
+- [Art de rue et culture du graffiti à Taïwan](/fr/culture/taiwan-street-art-and-graffiti-culture) — le contexte des graffitis du mur bleu du Cinema Theme Park de Ximending et de l’émergence de la culture de rue taïwanaise après la levée de la loi martiale
+- [Culture des vieilles rues et quartiers commerciaux de Taïwan](/fr/culture/taiwan-historic-streets-and-commercial-districts) — Ximending comme quartier de divertissement planifié sous la domination japonaise, et ses différences structurelles avec les vieilles rues des Qing comme Lukang, Bangka et Dadaocheng
+- [Bangka](/fr/geography/bangka) — sibling du même batch 1 des quartiers historiques : lorsque les Japonais planifièrent Ximending en 1896, Bangka, juste à côté, était le port le plus animé du nord de Taïwan sous les Qing
+- [Dadaocheng](/fr/geography/dadaocheng) — sibling du même batch 1 des quartiers historiques : rue commerciale du thé apparue après les affrontements Ding-Xia-Jiao de 1853, elle représente un autre « moment de formation de rue » que le quartier de divertissement japonais de Ximending
+- [Tiaotong de Zhongshan North Road](/fr/geography/zhongshan-north-road-tiaotong) — avenue arborée de l’époque japonaise aménagée en 1898 comme « route de l’envoyé impérial » vers le sanctuaire de Taïwan à Yuanshan, contemporaine de Ximending mais issue d’une expérience urbaine complètement différente
 
 ## Sources des images
 

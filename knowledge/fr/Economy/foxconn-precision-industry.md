@@ -1,6 +1,6 @@
 ---
-title: 'Entreprises taïwanaises : Foxconn — 8 000 milliards de chiffre d''affaires et la guerre anti-corruption interne sur le même bilan'
-description: 'Le 30 avril 2026 au matin, le magazine Time inscrivait Foxconn parmi les 100 entreprises les plus influentes au monde ; le même jour en fin d''après-midi, des enquêteurs munis de mandats de perquisition entraient dans l''usine Foxconn de Tucheng. De 1974, lorsque la mère de Terry Gou emprunta 100 000 dollars taïwanais lors d''une tontine, à 2025, année où le cloud et les réseaux dépassèrent l''électronique grand public pour atteindre 8 000 milliards de chiffre d''affaires, le plus difficile à gérer chez Foxconn n''est ni la géopolitique, ni le rythme d''expédition des baies de serveurs d''IA — c''est son propre personnel.'
+title: "Entreprises taïwanaises : Foxconn — 8 000 milliards de chiffre d'affaires et la guerre anti-corruption interne sur le même bilan"
+description: "Le 30 avril 2026 au matin, le magazine Time inscrivait Foxconn parmi les 100 entreprises les plus influentes au monde ; le même jour en fin d'après-midi, des enquêteurs munis de mandats de perquisition entraient dans l'usine Foxconn de Tucheng. De 1974, lorsque la mère de Terry Gou emprunta 100 000 dollars taïwanais lors d'une tontine, à 2025, année où le cloud et les réseaux dépassèrent l'électronique grand public pour atteindre 8 000 milliards de chiffre d'affaires, le plus difficile à gérer chez Foxconn n'est ni la géopolitique, ni le rythme d'expédition des baies de serveurs d'IA — c'est son propre personnel."
 date: 2026-05-03
 category: 'Economy'
 tags:
@@ -10,9 +10,9 @@ tags:
     'Fabrication électronique',
     'Sous-traitance',
     'Foxconn',
-    'Gouvernance d''entreprise',
+    "Gouvernance d'entreprise",
   ]
-subcategory: 'Chroniques d''entreprises'
+subcategory: "Chroniques d'entreprises"
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-03
@@ -33,7 +33,7 @@ translatedAt: '2026-05-09T14:31:09Z'
 
 L''iPhone entre vos mains, la PlayStation dans votre salon, les baies de serveurs NVIDIA GB200 utilisées pour entraîner GPT dans le cloud — l''assemblage final de ces produits sort très probablement d''une usine Foxconn[^10][^14].
 
-De la création de « Honghai Plastics » en 1974 par [Terry Gou](/people/郭台銘) avec les 100 000 dollars taïwanais empruntés par sa mère Chu Yung-chen lors d''une tontine[^13], à 2025, année où Foxconn est devenue la première entreprise cotée de Taïwan à dépasser les 8 000 milliards de chiffre d''affaires annuel[^9], l''histoire de Foxconn a été racontée des centaines de fois. Cet article ne répète pas ce récit.
+De la création de « Honghai Plastics » en 1974 par [Terry Gou](/fr/people/terry-gou) avec les 100 000 dollars taïwanais empruntés par sa mère Chu Yung-chen lors d''une tontine[^13], à 2025, année où Foxconn est devenue la première entreprise cotée de Taïwan à dépasser les 8 000 milliards de chiffre d''affaires annuel[^9], l''histoire de Foxconn a été racontée des centaines de fois. Cet article ne répète pas ce récit.
 
 Le 30 avril 2026 est la journée la plus contradictoire de l''histoire récente de Foxconn : le matin, c''est le champion mondial de la sous-traitance en IA désigné par le magazine Time ; le soir, c''est l''objet d''une perquisition du parquet de Nouveau Taipei[^1][^10]. Le même bilan, deux écritures simultanées dans des directions opposées. C''est le cœur de cette réécriture.
 
@@ -55,11 +55,11 @@ La formulation de ce communiqué suit presque le format standard de divulgation 
 
 Le 1er mai 2026, le magazine Mirror Weekly a révélé en exclusivité que les personnes présentes « tout au long de la perquisition, supervisant de près », faisaient partie d''une équipe interne de Foxconn baptisée par les médias la « chasse aux fantômes » (抓鬼三人組)[^5].
 
-| Rôle | Nom | Parcours antérieur |
-|---|---|---|
-| Chef de l''audit | Li Shunbao | Ancien vice-chef de l''audit au Bureau de l''audit |
-| Directeur du département de prévention des irrégularités | Li Mingyin | Ancien chef de la section de prévention criminelle du Bureau d''enquête de Taoyuan / Ancien chef du poste mobile de Taoyuan |
-| Manager du département de prévention des irrégularités | Lin Minghong | Ancien chef adjoint du poste d''enquête de Penghu / Ancien chef adjoint du poste mobile de Taoyuan |
+| Rôle                                                     | Nom          | Parcours antérieur                                                                                                          |
+| -------------------------------------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------- |
+| Chef de l''audit                                         | Li Shunbao   | Ancien vice-chef de l''audit au Bureau de l''audit                                                                          |
+| Directeur du département de prévention des irrégularités | Li Mingyin   | Ancien chef de la section de prévention criminelle du Bureau d''enquête de Taoyuan / Ancien chef du poste mobile de Taoyuan |
+| Manager du département de prévention des irrégularités   | Lin Minghong | Ancien chef adjoint du poste d''enquête de Penghu / Ancien chef adjoint du poste mobile de Taoyuan                          |
 
 Trois personnes, trois parcours issus de la lutte anti-corruption gouvernementale. Ce ne sont pas des « responsables de conformité d''entreprise » de niveau relations publiques — ce sont des personnes qui ont transposé la logique d''enquête du Bureau d''enquête au sein de Foxconn[^5].
 
@@ -85,7 +85,7 @@ L''affaire Liao Wanchen est une histoire judiciaire longue, mais pour Foxconn, e
 
 ## La décision de 2015
 
-Mi-2015, en plus du département juridique et du département d''audit, [Terry Gou](/people/郭台銘) a créé un département indépendant : le **département de prévention des irrégularités**[^6].
+Mi-2015, en plus du département juridique et du département d''audit, [Terry Gou](/fr/people/terry-gou) a créé un département indépendant : le **département de prévention des irrégularités**[^6].
 
 Le magazine CommonWealth l''a qualifié de « bureau anti-corruption de Foxconn »[^6]. Terry Gou a simultanément mis en place une prime de dénonciation pouvant atteindre 50 millions de dollars taïwanais par affaire, afin d''encourager les employés à signaler les irrégularités internes[^6.
 
@@ -154,11 +154,11 @@ Le classement du magazine Time continuera d''être mis à jour. Le bénéfice pa
 
 ## Pour aller plus loin
 
-- [Terry Gou](/people/郭台銘) — Fondateur de Foxconn, de la tontine de 100 000 dollars de sa mère à l''empire manufacturier mondial
-- [Entreprises taïwanaises : TSMC](/economy/台灣企業：台積電) — Autre fleuron taïwanais de portée internationale, mais sur le modèle de la fonderie de semi-conducteurs ; structure de gouvernance radicalement différente de l''empire de sous-traitance Foxconn
-- [Bourse de Taïwan et marchés financiers](/economy/台灣股市與資本市場) — Foxconn, code boursier 2317, et le fonctionnement du mécanisme de divulgation des informations privilégiées
-- [Transformation industrielle de Taïwan](/economy/台灣產業轉型升級) — De la sous-traitance à forte intensité de main-d''œuvre à l''assemblage de serveurs d''IA, Foxconn est le condensé de ce parcours
-- [Commerce extérieur et chaînes d''approvisionnement mondiales de Taïwan](/economy/台灣外貿與全球供應鏈) — Un déploiement mondial de 24 pays et 900 000 personnes, le plus grand laboratoire de gouvernance transfrontalière de l''industrie manufacturière taïwanaise
+- [Terry Gou](/fr/people/terry-gou) — Fondateur de Foxconn, de la tontine de 100 000 dollars de sa mère à l''empire manufacturier mondial
+- [Entreprises taïwanaises : TSMC](/fr/economy/tsmc) — Autre fleuron taïwanais de portée internationale, mais sur le modèle de la fonderie de semi-conducteurs ; structure de gouvernance radicalement différente de l''empire de sous-traitance Foxconn
+- [Bourse de Taïwan et marchés financiers](/fr/economy/taiwan-stock-market) — Foxconn, code boursier 2317, et le fonctionnement du mécanisme de divulgation des informations privilégiées
+- [Transformation industrielle de Taïwan](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — De la sous-traitance à forte intensité de main-d''œuvre à l''assemblage de serveurs d''IA, Foxconn est le condensé de ce parcours
+- [Commerce extérieur et chaînes d''approvisionnement mondiales de Taïwan](/fr/economy/taiwan-foreign-trade-and-global-supply-chain) — Un déploiement mondial de 24 pays et 900 000 personnes, le plus grand laboratoire de gouvernance transfrontalière de l''industrie manufacturière taïwanaise
 
 ---
 

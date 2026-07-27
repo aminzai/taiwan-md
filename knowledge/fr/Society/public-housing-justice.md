@@ -275,10 +275,10 @@ Les élus qui ont appuyé sur le bouton de vote le jour de la troisième lecture
 
 **Pour aller plus loin** :
 
-- [Logement social et justice résidentielle](/society/社會住宅與居住正義) — la voie du logement social « louer seulement, ne pas vendre » après 2016 : 200 000 logements en huit ans, double voie de la construction directe et de l'intermédiation locative avec gestion déléguée, et manière dont la mixité résidentielle tente d'éviter la stigmatisation du logement social (article jumeau de celui-ci, qui prolonge l'histoire après la sortie de scène du logement national en 2015)
-- [La crise de la faible natalité à Taïwan](/society/台灣少子化危機) — ne pas pouvoir acheter un logement et ne pas pouvoir avoir d'enfants sont les deux extrémités d'une même fracture structurelle, autre facette de la justice intergénérationnelle
-- [Maisons en tôle](/society/鐵皮屋) — lorsque l'on ne peut ni acheter ni louer de façon stable, comment les Taïwanais ajoutent avec les moyens du bord un abri où vivre
-- [Justice environnementale et controverses NIMBY à Taïwan](/society/台灣環境正義與鄰避爭議) — où faut-il construire les logements sociaux et les équipements indésirables ? La zone de contact entre justice résidentielle et justice spatiale
+- [Logement social et justice résidentielle](/fr/society/social-housing-and-housing-justice) — la voie du logement social « louer seulement, ne pas vendre » après 2016 : 200 000 logements en huit ans, double voie de la construction directe et de l'intermédiation locative avec gestion déléguée, et manière dont la mixité résidentielle tente d'éviter la stigmatisation du logement social (article jumeau de celui-ci, qui prolonge l'histoire après la sortie de scène du logement national en 2015)
+- [La crise de la faible natalité à Taïwan](/fr/society/taiwan-low-birth-rate-crisis) — ne pas pouvoir acheter un logement et ne pas pouvoir avoir d'enfants sont les deux extrémités d'une même fracture structurelle, autre facette de la justice intergénérationnelle
+- [Maisons en tôle](/fr/society/taiwan-tin-shed-houses) — lorsque l'on ne peut ni acheter ni louer de façon stable, comment les Taïwanais ajoutent avec les moyens du bord un abri où vivre
+- [Justice environnementale et controverses NIMBY à Taïwan](/fr/society/taiwan-environmental-justice-nimby-conflicts) — où faut-il construire les logements sociaux et les équipements indésirables ? La zone de contact entre justice résidentielle et justice spatiale
 
 ## Données ouvertes
 

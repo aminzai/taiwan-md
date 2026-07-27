@@ -117,4 +117,4 @@ Ces dernières années, les créations de Stan Lai se concentrent davantage sur 
 ## Pour aller plus loin
 
 - [Performance Workshop](http://www.pw-theatre.com/) — Site officiel de la troupe fondée par Stan Lai, avec les œuvres des années passées et les informations de billetterie
-- [_Secret Love in Peach Blossom Land_](/people/賴聲川) — Œuvre classique du théâtre sinophone
+- [_Secret Love in Peach Blossom Land_](/fr/people/stan-lai-theater-innovation-master) — Œuvre classique du théâtre sinophone

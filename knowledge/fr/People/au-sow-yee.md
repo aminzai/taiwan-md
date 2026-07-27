@@ -269,10 +269,10 @@ Si Au Sow Yee elle-même ou son agence a la moindre préoccupation concernant l'
 
 ## Pour aller plus loin
 
-- [Cheng Wen-Chi](/people/鄭文琦) — Rédacteur en chef de NML et co-initiateur des Archives de l'archipel ; de la fondation de NML en 2011 au lancement de l'archipel en 2017, puis jusqu'à leur collaboration continue en 2024, il est le partenaire de travail le plus important d'Au Sow Yee dans le milieu artistique taïwanais
-- [Curateurs taïwanais et construction de la culture artistique](/art/台灣策展人與藝術文化建構) — Le développement discursif de la génération de curateurs taïwanais, dont Kao Chung-Li, l'un des consultants éditoriaux de NML, entre en dialogue continu avec le discours de l'archipel d'Au Sow Yee à la Biennale de Taipei et à la Biennale d'art asiatique
-- [Art des nouveaux médias à Taïwan](/art/台灣新媒體藝術) — Au Sow Yee emploie principalement l'installation vidéo comme médium ; cet axe fournit l'arrière-plan historique de l'art vidéo et médiatique taïwanais
-- [Art contemporain](/art/當代藝術) — Aperçu général de l'écosystème de l'art contemporain à Taïwan ; l'ajout du framework de l'« archipel » d'Au Sow Yee permet d'y voir l'axe Asie du Sud-Est / Sud de l'art contemporain taïwanais
+- [Cheng Wen-Chi](/fr/people/cheng-wen-chi) — Rédacteur en chef de NML et co-initiateur des Archives de l'archipel ; de la fondation de NML en 2011 au lancement de l'archipel en 2017, puis jusqu'à leur collaboration continue en 2024, il est le partenaire de travail le plus important d'Au Sow Yee dans le milieu artistique taïwanais
+- [Curateurs taïwanais et construction de la culture artistique](/fr/art/taiwanese-curators-and-artistic-cultural-construction) — Le développement discursif de la génération de curateurs taïwanais, dont Kao Chung-Li, l'un des consultants éditoriaux de NML, entre en dialogue continu avec le discours de l'archipel d'Au Sow Yee à la Biennale de Taipei et à la Biennale d'art asiatique
+- [Art des nouveaux médias à Taïwan](/fr/art/taiwan-new-media-art) — Au Sow Yee emploie principalement l'installation vidéo comme médium ; cet axe fournit l'arrière-plan historique de l'art vidéo et médiatique taïwanais
+- [Art contemporain](/fr/art/contemporary-art) — Aperçu général de l'écosystème de l'art contemporain à Taïwan ; l'ajout du framework de l'« archipel » d'Au Sow Yee permet d'y voir l'axe Asie du Sud-Est / Sud de l'art contemporain taïwanais
 
 ## Références
 

@@ -215,5 +215,5 @@ La réponse est encore en train de s'écrire, et chaque personne prête à contr
 ## Thèmes connexes
 
 - [Open Culture Foundation](/fr/technology/open-culture-foundation) : la fondation à but non lucratif qui tient la comptabilité, émet les factures et gère les formalités administratives pour le compte de g0v — et comment cette infrastructure de l'ombre est devenue un chien de garde des droits numériques
-- [Industrie des semi-conducteurs](/technology/半導體產業) : les fondements de la puissance technologique de Taïwan
-- [Mini Taiwan Pulse](/technology/mini-taiwan-pulse) : un projet open source personnel de technologie citoyenne en 2026 — utiliser les données ouvertes TDX + Three.js pour dessiner Taïwan en trajectoires lumineuses 3D
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) : les fondements de la puissance technologique de Taïwan
+- [Mini Taiwan Pulse](/fr/technology/mini-taiwan-pulse-civic-tech) : un projet open source personnel de technologie citoyenne en 2026 — utiliser les données ouvertes TDX + Three.js pour dessiner Taïwan en trajectoires lumineuses 3D

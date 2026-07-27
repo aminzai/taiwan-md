@@ -160,8 +160,8 @@ Prix de la jeunesse littéraire et artistique, Prix de la culture Zhongshan, Pri
 
 ## Pour aller plus loin
 
-- [Poésie moderne taïwanaise](/art/台灣現代詩) — le contexte complet de l'histoire poétique, du mouvement Moderniste de Ji Xian à Blue Star, _Chuang Shi Ji_, jusqu'à la polémique sur la littérature nativiste
-- [Deschang et An Pu](/music/張懸與安溥) — la liste de lecture d'An Pu inclut Cheng Chou-yu, aux côtés de Kafka, Mishima Yukio, Shen Congwen, Bei Dao et Eliot
+- [Poésie moderne taïwanaise](/fr/art/taiwanese-modern-poetry) — le contexte complet de l'histoire poétique, du mouvement Moderniste de Ji Xian à Blue Star, _Chuang Shi Ji_, jusqu'à la polémique sur la littérature nativiste
+- [Deschang et An Pu](/fr/music/deserts-chang-and-anpu) — la liste de lecture d'An Pu inclut Cheng Chou-yu, aux côtés de Kafka, Mishima Yukio, Shen Congwen, Bei Dao et Eliot
 
 ## Sources des images
 

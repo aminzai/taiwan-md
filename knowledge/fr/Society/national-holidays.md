@@ -213,14 +213,14 @@ Voici une histoire de Taïwan écrite par les jours où l'on ne travaille pas. E
 
 **Pour aller plus loin** :
 
-- [Incident du 28-Février](/history/二二八事件) — Le massacre de 1947 et la manière dont il devint, en 1997, le premier jour férié national légal de Taïwan
-- [Période de la loi martiale](/history/戒嚴時期) — L'« Octobre glorieux » et le calendrier autoritaire derrière le congé de l'anniversaire de Tchang Kaï-chek
-- [Justice transitionnelle à Taïwan](/history/台灣轉型正義) — Pourquoi le Jour de mémoire de la Terreur blanche n'entre toujours pas dans le calendrier
-- [Spectre indépendantiste-unificationniste à Taïwan](/society/台灣統獨光譜) — La carte des identités derrière les trois lectures « rétrocession / fin de la guerre / prise en charge »
-- [Taipei chinois](/society/中華台北) — Une autre face de la même « République de Chine » : la dispute entre fête nationale du Double-Dix et fête nationale taïwanaise
-- [Congé de typhon](/society/颱風假) — Une autre manière de demander « le congé de qui, le travail de qui » : ceux qui continuent de travailler sous la pluie et le vent
-- [Fête des bateaux-dragons](/culture/端午節) — Comment une fête populaire devient une institution : « un jour de congé » sur le calendrier
-- [Environnement politique et système électoral de Taïwan](/society/台灣政治環境與選舉制度) — Comment la répartition bleu-blanc-vert au Yuan législatif détermine les dates rouges du calendrier
+- [Incident du 28-Février](/fr/history/228-incident) — Le massacre de 1947 et la manière dont il devint, en 1997, le premier jour férié national légal de Taïwan
+- [Période de la loi martiale](/fr/history/martial-law-era) — L'« Octobre glorieux » et le calendrier autoritaire derrière le congé de l'anniversaire de Tchang Kaï-chek
+- [Justice transitionnelle à Taïwan](/fr/history/taiwan-transitional-justice) — Pourquoi le Jour de mémoire de la Terreur blanche n'entre toujours pas dans le calendrier
+- [Spectre indépendantiste-unificationniste à Taïwan](/fr/society/taiwan-unification-independence-spectrum) — La carte des identités derrière les trois lectures « rétrocession / fin de la guerre / prise en charge »
+- [Taipei chinois](/fr/society/chinese-taipei) — Une autre face de la même « République de Chine » : la dispute entre fête nationale du Double-Dix et fête nationale taïwanaise
+- [Congé de typhon](/fr/society/typhoon-day) — Une autre manière de demander « le congé de qui, le travail de qui » : ceux qui continuent de travailler sous la pluie et le vent
+- [Fête des bateaux-dragons](/fr/culture/dragon-boat-festival) — Comment une fête populaire devient une institution : « un jour de congé » sur le calendrier
+- [Environnement politique et système électoral de Taïwan](/fr/society/taiwan-political-landscape-and-electoral-system) — Comment la répartition bleu-blanc-vert au Yuan législatif détermine les dates rouges du calendrier
 
 ---
 

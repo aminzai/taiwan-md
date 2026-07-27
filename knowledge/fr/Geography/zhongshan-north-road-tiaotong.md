@@ -201,13 +201,13 @@ La prochaine fois que vous passerez devant Spot Taipei, sur la section 2 de Zhon
 
 **Pour aller plus loin** :
 
-- [Ville de Taipei : trois temps dans une même ville, le temple Longshan de 1738 regardant le Taipei 101 de 2004](/geography/台北市) — la place de Zhongshan Nord parmi les 12 arrondissements, aux côtés des trois lignes temporelles de Monga, Dadaocheng et Xinyi
-- [Dadaocheng : une rue de 800 mètres capable de contenir trois siècles](/geography/大稻埕) — autre quartier historique du même batch 1, rue née à l'époque du thé des années 1860 ; le premier coup de feu du 28 février 1947 eut lieu au 189, Nanjing Ouest, à Dadaocheng
-- [Monga : le lieu le plus animé du Taipei sous les Qing, aujourd'hui l'arrondissement à l'âge moyen le plus élevé de Taipei](/geography/艋舺) — autre quartier historique du même batch 1 ; sa formation urbaine diffère de celle des tiaotong, issus de la planification japonaise
-- [Ximending : le quartier de divertissement construit par les Japonais en 1896 reste, 130 ans plus tard, la rue la plus jeune de Taipei](/geography/西門町) — autre quartier historique du même batch 1 ; comme les tiaotong, c'est un quartier de divertissement extra-muros planifié sous la domination japonaise, mais il a suivi une trajectoire subculturelle totalement différente
-- [Cérémonie du thé taïwanaise et esthétique de la vie](/culture/台灣茶道與生活美學) — les influences croisées entre l'esthétique japonaise de la culture tiaotong et le mouvement de renaissance de la voie du thé taïwanaise après-guerre
-- [Incident du 28 février](/history/二二八事件) — le 28 février 1947 à 13 h, une foule marchant jusqu'au carrefour de Zhongshan fut mitraillée par les gardes ; le Zhongshan Hall tint le même jour une réunion d'urgence et devint le siège du comité de traitement de l'incident
-- [Rue thermale de Beitou](/geography/北投溫泉街) — abolition de la prostitution à Beitou en 1979 puis dans toute la ville en 1997 ; avec les tiaotong de Linsen Nord, deux branches du paysage des industries spéciales du Taipei d'après-guerre
+- [Ville de Taipei : trois temps dans une même ville, le temple Longshan de 1738 regardant le Taipei 101 de 2004](/fr/geography/taipei-city) — la place de Zhongshan Nord parmi les 12 arrondissements, aux côtés des trois lignes temporelles de Monga, Dadaocheng et Xinyi
+- [Dadaocheng : une rue de 800 mètres capable de contenir trois siècles](/fr/geography/dadaocheng) — autre quartier historique du même batch 1, rue née à l'époque du thé des années 1860 ; le premier coup de feu du 28 février 1947 eut lieu au 189, Nanjing Ouest, à Dadaocheng
+- [Monga : le lieu le plus animé du Taipei sous les Qing, aujourd'hui l'arrondissement à l'âge moyen le plus élevé de Taipei](/fr/geography/bangka) — autre quartier historique du même batch 1 ; sa formation urbaine diffère de celle des tiaotong, issus de la planification japonaise
+- [Ximending : le quartier de divertissement construit par les Japonais en 1896 reste, 130 ans plus tard, la rue la plus jeune de Taipei](/fr/geography/ximending) — autre quartier historique du même batch 1 ; comme les tiaotong, c'est un quartier de divertissement extra-muros planifié sous la domination japonaise, mais il a suivi une trajectoire subculturelle totalement différente
+- [Cérémonie du thé taïwanaise et esthétique de la vie](/fr/culture/taiwan-tea-ceremony-and-aesthetic-living) — les influences croisées entre l'esthétique japonaise de la culture tiaotong et le mouvement de renaissance de la voie du thé taïwanaise après-guerre
+- [Incident du 28 février](/fr/history/228-incident) — le 28 février 1947 à 13 h, une foule marchant jusqu'au carrefour de Zhongshan fut mitraillée par les gardes ; le Zhongshan Hall tint le même jour une réunion d'urgence et devint le siège du comité de traitement de l'incident
+- [Rue thermale de Beitou](/fr/geography/beitou-hot-spring-street) — abolition de la prostitution à Beitou en 1979 puis dans toute la ville en 1997 ; avec les tiaotong de Linsen Nord, deux branches du paysage des industries spéciales du Taipei d'après-guerre
 
 ## Sources des images
 

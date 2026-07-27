@@ -242,10 +242,10 @@ La différence, c'est après ce matin du 8 septembre 2015. Aujourd'hui, Taïwan 
 
 **Pour aller plus loin** :
 
-- [The Reporter : dix ans pour sauver le journalisme d'investigation](/society/報導者) : une autre histoire de lecteurs taïwanais votant avec leur argent pour financer un bien public — les donateurs de The Reporter et les contributeurs de Jin Xuan partagent la même logique.
-- [Art des nouveaux médias à Taïwan](/art/台灣新媒體藝術) : un autre groupe de créateurs taïwanais à l'intersection du design, de la technologie et de l'identité culturelle.
-- [Mouvements sociaux et participation citoyenne](/society/社會運動與公民參與) : l'énergie de la polémique Jin Xuan, ce « se battre pour les affaires publiques », a un contexte plus large dans la société taïwanaise.
-- [Câbles sous-marins](/technology/海底電纜) : une autre infrastructure que tout le monde utilise chaque jour sans presque personne pour la voir.
+- [The Reporter : dix ans pour sauver le journalisme d'investigation](/fr/society/the-reporter-investigative-journalism) : une autre histoire de lecteurs taïwanais votant avec leur argent pour financer un bien public — les donateurs de The Reporter et les contributeurs de Jin Xuan partagent la même logique.
+- [Art des nouveaux médias à Taïwan](/fr/art/taiwan-new-media-art) : un autre groupe de créateurs taïwanais à l'intersection du design, de la technologie et de l'identité culturelle.
+- [Mouvements sociaux et participation citoyenne](/fr/society/social-movements-and-civic-participation) : l'énergie de la polémique Jin Xuan, ce « se battre pour les affaires publiques », a un contexte plus large dans la société taïwanaise.
+- [Câbles sous-marins](/fr/technology/submarine-cables-taiwan-lifeline) : une autre infrastructure que tout le monde utilise chaque jour sans presque personne pour la voir.
 
 ## Références
 

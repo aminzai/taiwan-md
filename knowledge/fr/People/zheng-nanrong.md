@@ -2,18 +2,26 @@
 title: "Zheng Nanrong : l'équation d'un fils de continent qui échangea sa vie contre la liberté d'expression"
 description: "En 1947, lors du 228, son père Zheng Musen fut caché par des voisins taïwanais pour échapper à la mort ; quarante et un ans plus tard, le fils aîné de ce couple, Zheng Nanrong, s'embrasa dans sa propre rédaction. Il fonda *Free Times Weekly* en 1984, détenant 24 licences et publiant malgré 18 interdictions ; en 1988, il publia le *Projet de constitution de la République de Taïwan* de Xu Shikai, puis s'immola le 7 avril 1989. Ye Julan entra ensuite en politique, successivement députée, ministre des Transports, présidente du Conseil des affaires hakka, vice-première ministre et secrétaire générale de la Présidence. Le choix de Zheng reste controversé : ses partisans y voient un sacrifice suprême, ses détracteurs un geste individuel excessif. L'air de la liberté d'expression à Taïwan est aujourd'hui si quotidien que beaucoup ont oublié qu'il fallut un jour le payer de sa vie."
 date: 2026-03-25
-author: "Taiwan.md Contributors"
-category: "People"
-subcategory: "政治與民主"
-tags: ["Mouvement démocratique", "Liberté d'expression", "Free Times", "Martyr", "228", "Indépendance de Taïwan"]
+author: 'Taiwan.md Contributors'
+category: 'People'
+subcategory: '政治與民主'
+tags:
+  [
+    'Mouvement démocratique',
+    "Liberté d'expression",
+    'Free Times',
+    'Martyr',
+    '228',
+    'Indépendance de Taïwan',
+  ]
 lastVerified: 2026-05-13
 lastHumanReview: false
 featured: true
-translatedFrom: "People/鄭南榕.md"
-sourceCommitSha: "18157ab5d"
-sourceContentHash: "sha256:97d9bc4f07653a81"
-sourceBodyHash: "sha256:91b4c7638f35fd2f"
-translatedAt: "2026-05-20T05:08:34+08:00"
+translatedFrom: 'People/鄭南榕.md'
+sourceCommitSha: '18157ab5d'
+sourceContentHash: 'sha256:97d9bc4f07653a81'
+sourceBodyHash: 'sha256:91b4c7638f35fd2f'
+translatedAt: '2026-05-20T05:08:34+08:00'
 ---
 
 # Zheng Nanrong
@@ -45,19 +53,19 @@ Après son service militaire, Zheng Nanrong tenta plusieurs activités : exporta
 
 ## Vingt-quatre licences
 
-Le 12 mars 1984, *Free Times Weekly* parut pour la première fois.[^1] Fondateur : Zheng Nanrong ; directeur de la rédaison : Li Ao ; directeur de la publication : Chen Shui-bian ; éditeur : Lin Shiyu. Un seul slogan : « Luttez pour une liberté à cent pour cent. »
+Le 12 mars 1984, _Free Times Weekly_ parut pour la première fois.[^1] Fondateur : Zheng Nanrong ; directeur de la rédaison : Li Ao ; directeur de la publication : Chen Shui-bian ; éditeur : Lin Shiyu. Un seul slogan : « Luttez pour une liberté à cent pour cent. »
 
 Mais Zheng Nanrong fit ce à quoi personne ne s'attendait : avant le lancement, il rassembla des diplômes universitaires et demanda **24 licences de presse** auprès du Bureau de l'Information.[^1]
 
 Car il savait que le gouvernement interdirait. Quand un numéro serait interdit, le suivant paraîtrait immédiatement sous une nouvelle licence, le nom du magazine conservant toujours le mot « Times ». Il en utilisa plusieurs. Le gouvernement interdit à plusieurs reprises, il changeait de licence et continuait à publier. Chaque licence avait été prévue à l'avance pour cet usage.
 
-*Free Times* publiait, sous la loi martiale, ce que le gouvernement interdisait de dire : réformes politiques, droits de l'homme, égalité des communautés, avenir de Taïwan. Le magazine offrit aussi une tribune aux mouvements environnementaux et aux droits des peuples autochtones, faisant partie des rares médias de l'époque prêts à accueillir des causes sociales diverses. Chaque numéro dansait sur le fil du rasoir. Zheng Nanrong fut poursuivi à plusieurs reprises, mais ne recula jamais. Il disait : « Pour quelqu'un comme moi, doté d'une solide formation intellectuelle, publier un magazine est la manière la plus appropriée de mettre sa foi en pratique. »
+_Free Times_ publiait, sous la loi martiale, ce que le gouvernement interdisait de dire : réformes politiques, droits de l'homme, égalité des communautés, avenir de Taïwan. Le magazine offrit aussi une tribune aux mouvements environnementaux et aux droits des peuples autochtones, faisant partie des rares médias de l'époque prêts à accueillir des causes sociales diverses. Chaque numéro dansait sur le fil du rasoir. Zheng Nanrong fut poursuivi à plusieurs reprises, mais ne recula jamais. Il disait : « Pour quelqu'un comme moi, doté d'une solide formation intellectuelle, publier un magazine est la manière la plus appropriée de mettre sa foi en pratique. »
 
-En 1987, *Free Times* fit quelque chose d'inédit : organiser publiquement une commémoration de l'incident du 228. C'était la première fois en quarante ans qu'un média osait aborder publiquement le 228.[^2]
+En 1987, _Free Times_ fit quelque chose d'inédit : organiser publiquement une commémoration de l'incident du 228. C'était la première fois en quarante ans qu'un média osait aborder publiquement le 228.[^2]
 
 ## Ce projet de constitution
 
-En décembre 1988, Zheng Nanrong publia dans le numéro 254 de *Free Times* le *Projet de constitution de la République de Taïwan* rédigé par Xu Shikai.[^3]
+En décembre 1988, Zheng Nanrong publia dans le numéro 254 de _Free Times_ le _Projet de constitution de la République de Taïwan_ rédigé par Xu Shikai.[^3]
 
 À l'époque, prôner l'indépendance de Taïwan équivalait à un crime de sédition, passible de la peine de mort.
 
@@ -112,17 +120,22 @@ Ce que Zheng Nanrong laisse derrière lui est une question qui peut continuer d'
 ## Références
 
 [^1]: [Free Times Weekly — Wikipédia](https://zh.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E6%99%82%E4%BB%A3%E5%91%A8%E5%88%8A) — Confirmation de la date de fondation (12 mars 1984), des 24 licences demandées et des 18 interdictions.
+
 [^2]: [Fondation et Mémorial Zheng Nanrong](https://www.nfreedommemorialfoundation.org/) — Chronologie : commémoration publique du 228 en 1987, inculpation pour sédition le 21 janvier 1989.
-[^3]: [Xu Shikai — Wikipédia](https://zh.wikipedia.org/wiki/%E8%A8%B1%E4%B8%96%E6%A5%B7) — Contexte de l'auteur du *Projet de constitution de la République de Taïwan* ; circonstances de la publication dans le numéro 254 de *Free Times* et de l'inculpation qui s'ensuivit.
+
+[^3]: [Xu Shikai — Wikipédia](https://zh.wikipedia.org/wiki/%E8%A8%B1%E4%B8%96%E6%A5%B7) — Contexte de l'auteur du _Projet de constitution de la République de Taïwan_ ; circonstances de la publication dans le numéro 254 de _Free Times_ et de l'inculpation qui s'ensuivit.
+
 [^4]: [Zheng Nanrong — Wikipédia](https://zh.wikipedia.org/wiki/%E9%84%AD%E5%8D%97%E6%A6%95) — Confirmation que l'assaut du 7 avril 1989 fut mené par Hou Youyi du commissariat de Zhongshan ; Zhan Yihua s'immola sept jours plus tard lors du cortège funèbre.
+
 [^5]: [Ye Julan — Wikipédia](https://zh.wikipedia.org/wiki/%E8%91%89%E8%8F%8A%E8%98%AD) — Confirmation des fonctions occupées : députée, ministre des Transports, présidente du Conseil des affaires hakka, vice-première ministre, secrétaire générale de la Présidence (2006–2007).
+
 [^6]: [Jour de la liberté d'expression — Yuan exécutif](https://www.ey.gov.tw/) — Annonce du 22 décembre 2016 désignant le 7 avril comme Jour de la liberté d'expression.
 
 ## Pour aller plus loin
 
-- [Zeng Bo'en](/people/曾博恩) — En août 2019, l'animateur de *The Night Night Show with Brian Tseng* cita l'immolation de Zheng Nanrong lors d'un Open Mic, provoquant une violente réaction sociale et la première suspension de sa collaboration avec Strayer.
+- [Zeng Bo'en](/fr/people/bernard-tseng) — En août 2019, l'animateur de _The Night Night Show with Brian Tseng_ cita l'immolation de Zheng Nanrong lors d'un Open Mic, provoquant une violente réaction sociale et la première suspension de sa collaboration avec Strayer.
 - [Musée national des droits de l'homme](https://www.nhrm.gov.tw/) — Histoires orales de la Terreur blanche et du mouvement démocratique.
-- Hu Huiling, *Cent ans de quête : l'histoire du mouvement démocratique taïwanais* — Récit détaillé de Zheng Nanrong et du mouvement d'opposition.
+- Hu Huiling, _Cent ans de quête : l'histoire du mouvement démocratique taïwanais_ — Récit détaillé de Zheng Nanrong et du mouvement d'opposition.
 - [Fondation de commémoration de l'incident du 228](https://www.228.org.tw/) — Lien entre la famille Zheng Nanrong et le 228.
 - [Incident de Formose — Wikipédia](https://zh.wikipedia.org/wiki/%E7%BE%8E%E9%BA%97%E5%B3%B6%E4%BA%8B%E4%BB%B6) — L'événement catalyseur qui poussa Zheng Nanrong à s'engager dans le mouvement social.
-- Documentaire *Nylon, l'âme libre* (réalisateur : Cai Chonglong, 2009) — Reconstitution de la vie de Zheng Nanrong et de sa décision d'immolation à travers des témoignages et des images d'archives.
+- Documentaire _Nylon, l'âme libre_ (réalisateur : Cai Chonglong, 2009) — Reconstitution de la vie de Zheng Nanrong et de sa décision d'immolation à travers des témoignages et des images d'archives.

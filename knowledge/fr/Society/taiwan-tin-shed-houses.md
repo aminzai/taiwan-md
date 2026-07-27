@@ -115,9 +115,9 @@ Où brûlera le prochain incendie au troisième étage d'une construction illég
 
 **Pour aller plus loin** :
 
-- [Logement social et justice sociale en matière de logement](/society/社會住宅與居住正義) — Les difficultés de promotion du logement social à Taïwan et les problèmes du marché locatif, la structure du logement plus large à laquelle appartient le problème des toits en tôle ondulée.
-- [Justice environnementale à Taïwan et controverses NIMBY](/society/台灣環境正義與鄰避爭議) — Extension des questions d'utilisation des terres et de pollution environnementale derrière la migration des usines en tôle ondulée de Wanzai Zhen.
-- [Justice foncière des peuples autochtones de Taïwan et territoires traditionnels](/society/台灣原住民族土地正義與傳統領域) — Comprendre la complexité de l'utilisation des terres entre « légal » et « illégal » à Taïwan sous différents angles.
+- [Logement social et justice sociale en matière de logement](/fr/society/social-housing-and-housing-justice) — Les difficultés de promotion du logement social à Taïwan et les problèmes du marché locatif, la structure du logement plus large à laquelle appartient le problème des toits en tôle ondulée.
+- [Justice environnementale à Taïwan et controverses NIMBY](/fr/society/taiwan-environmental-justice-nimby-conflicts) — Extension des questions d'utilisation des terres et de pollution environnementale derrière la migration des usines en tôle ondulée de Wanzai Zhen.
+- [Justice foncière des peuples autochtones de Taïwan et territoires traditionnels](/fr/society/indigenous-land-justice-and-traditional-territories) — Comprendre la complexité de l'utilisation des terres entre « légal » et « illégal » à Taïwan sous différents angles.
 
 ## Références
 

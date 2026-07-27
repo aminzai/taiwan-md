@@ -99,9 +99,9 @@ Xuē Mènghui feuillette l'almanach rempli par son père, chaque page une strate
 
 **Lectures complémentaires** :
 
-- [La culture du _pān-toh_ taïwanais](/food/台灣辦桌文化) — le théâtre où s'exprime le plus densément la cuisine de virtuose : du royaume des maîtres-traiteurs forgé dans la terre ingrate de Neimen jusqu'à tout un savoir cérémoniel qui enjambe les mondes humain, divin et spectral
-- [Chen Yu-hsun](/people/陳玉勳) — réalisateur de _Zone Pro Site_, qui a porté à l'écran ces plats virtuoses au bord de l'oubli comme la _tortue à l'estomac de porc et au poulet_
-- [La culture des produits de la mer à Taïwan](/food/台灣海鮮文化) — derrière les crabes rouges, langoustes et poissons cuits à la vapeur des grandes tables de banquet, la généalogie maritime taïwanaise
+- [La culture du _pān-toh_ taïwanais](/fr/food/taiwan-banquet-culture) — le théâtre où s'exprime le plus densément la cuisine de virtuose : du royaume des maîtres-traiteurs forgé dans la terre ingrate de Neimen jusqu'à tout un savoir cérémoniel qui enjambe les mondes humain, divin et spectral
+- [Chen Yu-hsun](/fr/people/chen-yu-hsun-taiwan-comedy-film-magician) — réalisateur de _Zone Pro Site_, qui a porté à l'écran ces plats virtuoses au bord de l'oubli comme la _tortue à l'estomac de porc et au poulet_
+- [La culture des produits de la mer à Taïwan](/fr/food/taiwan-seafood-culture) — derrière les crabes rouges, langoustes et poissons cuits à la vapeur des grandes tables de banquet, la généalogie maritime taïwanaise
 
 ## Références
 

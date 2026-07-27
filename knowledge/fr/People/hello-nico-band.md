@@ -88,11 +88,11 @@ Hello Nico est toujours sur scène.
 
 **Pour aller plus loin** :
 
-- [Our Shame (凹與山)](/people/凹與山) — Autre voix féminine indépendante taïwanaise des années 2010, capturant les émotions urbaines au synthétiseur
-- [VH (Vast & Hazy)](/people/VH) — Une autre voie de douceur dans la scène indépendante de la même époque, « groupe de la sortie »
-- [Cao Dong Mei You Pai Dui (草東沒有派對)](/people/草東沒有派對) — Même scène indépendante taïwanaise des années 2010, contrepoint de colère et de répression
-- [Ko Chih-Tang (柯智棠)](/people/柯智棠) – Un autre artiste indépendant taïwanais revenu après sept ans de silence, appartenant au même spectre de « créateurs au rythme lent »
-- [Chi Po-Hao (紀柏豪)](/art/紀柏豪) — Ancien synthétiseur de Hello Nico, reconverti dans l'art sonore, lauréat du MIT Schnitzer Prize
+- [Our Shame (凹與山)](/fr/people/ao-and-mountain-band) — Autre voix féminine indépendante taïwanaise des années 2010, capturant les émotions urbaines au synthétiseur
+- [VH (Vast & Hazy)](/fr/people/vh-band) — Une autre voie de douceur dans la scène indépendante de la même époque, « groupe de la sortie »
+- [Cao Dong Mei You Pai Dui (草東沒有派對)](/fr/people/no-party-for-cao-dong) — Même scène indépendante taïwanaise des années 2010, contrepoint de colère et de répression
+- [Ko Chih-Tang (柯智棠)](/fr/people/ke-zhi-tang-musician) – Un autre artiste indépendant taïwanais revenu après sept ans de silence, appartenant au même spectre de « créateurs au rythme lent »
+- [Chi Po-Hao (紀柏豪)](/fr/art/chi-po-hao-musician) — Ancien synthétiseur de Hello Nico, reconverti dans l'art sonore, lauréat du MIT Schnitzer Prize
 
 ## Références
 

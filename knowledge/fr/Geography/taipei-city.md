@@ -198,15 +198,15 @@ La prochaine fois que vous irez à Taipei, ne vous contentez pas de visiter le 1
 
 ## Pour aller plus loin
 
-- [Comté de Keelung](/geography/基隆市) — Série des 22 municipalités et comtés, pilote : le port le plus proche de Taipei, le port-mère de Taipei ; en 1949, le gouvernement nationaliste est arrivé par le port de Keelung puis s'est rendu à Taipei
-- [Nouveau Taipei](/geography/新北市) — Villes satellites entourant Taipei, plus d'un million de personnes commutent chaque jour du Nouveau Taipei vers Taipei pour travailler
-- [Taoyuan](/geography/桃園市) — L'aéroport international de Taoyuan a ouvert en 1979, la porte d'entrée du transport de passagers de Taïwan est passée de Keelung à Taoyuan, Taipei a perdu sa porte portuaire
-- [Kaohsiung](/geography/高雄市) — Deuxième municipalité spéciale promue en 1979 (12 ans après Taipei), l'assassinat de la famille Lin en 1980 a eu lieu au 16, 31e ruelle, 3e section de Xinyi Road, Taipei
-- [Taichung](/geography/台中市) — Promue municipalité spéciale en 2010 (43 ans après Taipei), deux visages de la division du travail entre la ville du centre et Taipei
-- [Tainan](/geography/台南市) — Capitale du début de la période Qing à partir de 1683 ; ville créée en même temps que Taipei et Taichung en 1920
-- [Incident du 228](/history/二二八事件) — Le premier coup de feu du 27 février 197 au salon de thé Tianma, 189 Nanjing West Road, Taipei, la blessure politique la plus profonde de Taïwan d'après-guerre
-- [Mouvement du Lys sauvage](/society/野百合學運) — 16-22 mars 1990, sept jours et six nuits devant le Mémorial Chiang Kai-shek, 6 000 étudiants, quatre revendications
-- [Mouvement du Tournesol](/society/太陽花學運) — 18 mars 2014, occupation du Parlement de Taipei pendant 24 jours
+- [Comté de Keelung](/fr/geography/keelung-city) — Série des 22 municipalités et comtés, pilote : le port le plus proche de Taipei, le port-mère de Taipei ; en 1949, le gouvernement nationaliste est arrivé par le port de Keelung puis s'est rendu à Taipei
+- [Nouveau Taipei](/fr/geography/new-taipei-city) — Villes satellites entourant Taipei, plus d'un million de personnes commutent chaque jour du Nouveau Taipei vers Taipei pour travailler
+- [Taoyuan](/fr/geography/taoyuan-city) — L'aéroport international de Taoyuan a ouvert en 1979, la porte d'entrée du transport de passagers de Taïwan est passée de Keelung à Taoyuan, Taipei a perdu sa porte portuaire
+- [Kaohsiung](/fr/geography/kaohsiung-city) — Deuxième municipalité spéciale promue en 1979 (12 ans après Taipei), l'assassinat de la famille Lin en 1980 a eu lieu au 16, 31e ruelle, 3e section de Xinyi Road, Taipei
+- [Taichung](/fr/geography/taichung-city) — Promue municipalité spéciale en 2010 (43 ans après Taipei), deux visages de la division du travail entre la ville du centre et Taipei
+- [Tainan](/fr/geography/tainan-city) — Capitale du début de la période Qing à partir de 1683 ; ville créée en même temps que Taipei et Taichung en 1920
+- [Incident du 228](/fr/history/228-incident) — Le premier coup de feu du 27 février 197 au salon de thé Tianma, 189 Nanjing West Road, Taipei, la blessure politique la plus profonde de Taïwan d'après-guerre
+- [Mouvement du Lys sauvage](/fr/society/wild-lily-student-movement) — 16-22 mars 1990, sept jours et six nuits devant le Mémorial Chiang Kai-shek, 6 000 étudiants, quatre revendications
+- [Mouvement du Tournesol](/fr/society/sunflower-movement) — 18 mars 2014, occupation du Parlement de Taipei pendant 24 jours
 
 ## Sources des images
 

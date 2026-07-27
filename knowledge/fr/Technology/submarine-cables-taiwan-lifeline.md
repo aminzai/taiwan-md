@@ -189,10 +189,10 @@ C'est pourquoi le bâtiment 506 n'a pas d'enseigne.
 
 ## Pour aller plus loin
 
-- [Le Reporter : sauver le journalisme d'investigation des activités commerciales pour en faire un bien public pendant dix ans](/society/報導者) — un autre cas portant sur la crédibilité de la société civile et des infrastructures à Taïwan après 2015
-- [L'art des nouveaux médias à Taïwan](/art/台灣新媒體藝術) — l'infrastructure culturelle numérique portée par les câbles sous-marins
-- [Mouvements sociaux et participation citoyenne](/society/社會運動與公民參與) — le contexte plus large de la pression de la société civile liée à la législation des sept lois sur les câbles et aux plateformes d'urgence locales
-- [justfont et le développement de la typographie taïwanaise](/technology/justfont與台灣字體發展) — un autre axe montrant la dimension « infrastructure culturelle »
+- [Le Reporter : sauver le journalisme d'investigation des activités commerciales pour en faire un bien public pendant dix ans](/fr/society/the-reporter-investigative-journalism) — un autre cas portant sur la crédibilité de la société civile et des infrastructures à Taïwan après 2015
+- [L'art des nouveaux médias à Taïwan](/fr/art/taiwan-new-media-art) — l'infrastructure culturelle numérique portée par les câbles sous-marins
+- [Mouvements sociaux et participation citoyenne](/fr/society/social-movements-and-civic-participation) — le contexte plus large de la pression de la société civile liée à la législation des sept lois sur les câbles et aux plateformes d'urgence locales
+- [justfont et le développement de la typographie taïwanaise](/fr/technology/justfont-and-taiwan-typography) — un autre axe montrant la dimension « infrastructure culturelle »
 
 ## Références
 

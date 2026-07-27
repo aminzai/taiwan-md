@@ -262,8 +262,8 @@ La pénurie de talents en cybersécurité, l’insuffisance des investissements 
 
 **Pour aller plus loin** :
 
-- [Défense nationale et modernisation militaire de Taïwan](/society/台灣國防與軍事現代化) — La première ligne de la guerre en zone grise n’est pas la mine marine, mais le pare-feu. Le scénario des trois premiers jours de l’exercice Han Kuang 41 portait précisément sur la guerre cyber et cognitive
-- [Développement de l’IA à Taïwan](/technology/AI發展) — Le double rôle de l’IA dans la cybersécurité et la défense nationale
+- [Défense nationale et modernisation militaire de Taïwan](/fr/society/taiwan-defense-modernization) — La première ligne de la guerre en zone grise n’est pas la mine marine, mais le pare-feu. Le scénario des trois premiers jours de l’exercice Han Kuang 41 portait précisément sur la guerre cyber et cognitive
+- [Développement de l’IA à Taïwan](/fr/technology/ai-development-in-taiwan) — Le double rôle de l’IA dans la cybersécurité et la défense nationale
 
 ## Références
 

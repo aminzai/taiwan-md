@@ -100,13 +100,13 @@ En regardant en arrière sur ces trente années, la culture des mèmes taïwanai
 
 ## Pour aller plus loin
 
-- [PTT批踢踢](/technology/PTT批踢踢) — Le lieu de naissance de la majorité des mèmes et de la culture des utilisateurs de Taïwan
+- [PTT批踢踢](/fr/technology/ptt-bulletin-board-system) — Le lieu de naissance de la majorité des mèmes et de la culture des utilisateurs de Taïwan
 
-- [馬英九迷因](/society/馬英九迷因) — Étude de cas classique de la politisation des mèmes
+- [馬英九迷因](/fr/society/ma-ying-jeou-meme) — Étude de cas classique de la politisation des mèmes
 
-- [長輩圖](/culture/長輩圖) — Un autre chemin de diffusion Internet aux caractéristiques taïwanaises
+- [長輩圖](/fr/culture/elder-greeting-images) — Un autre chemin de diffusion Internet aux caractéristiques taïwanaises
 
-- [台灣VTuber](/culture/台灣VTuber) — Fusion contemporaine des personnages virtuels et de la culture des mèmes
+- [台灣VTuber](/fr/culture/taiwan-vtuber) — Fusion contemporaine des personnages virtuels et de la culture des mèmes
 
 ---
 

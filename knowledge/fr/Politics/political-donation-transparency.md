@@ -271,11 +271,11 @@ Vingt-deux ans, un flux financier invisible devenu consultable.
 
 ## Pour aller plus loin
 
-- [Communauté open source et g0v](/technology/開源社群與g0v) — comment fonctionne la communauté de hackers citoyens et pourquoi Taïwan a cet écosystème
+- [Communauté open source et g0v](/fr/technology/open-source-and-g0v) — comment fonctionne la communauté de hackers citoyens et pourquoi Taïwan a cet écosystème
 - [Hub politique](/politics) — vue d'ensemble de l'infrastructure démocratique
 - [Élection unifiée de 2026](/politics/2026 九合一選舉) — organisation institutionnelle et calendrier de l'élection de 2026
-- [Système de la Commission électorale centrale](/politics/中選會制度) — conception et fonctionnement de la Commission électorale centrale
-- [Qu'est-ce que l'élection unifiée](/politics/九合一選舉是什麼) — neuf types de postes, neuf histoires
+- [Système de la Commission électorale centrale](/fr/politics/central-election-commission) — conception et fonctionnement de la Commission électorale centrale
+- [Qu'est-ce que l'élection unifiée](/fr/politics/nine-in-one-elections-explained) — neuf types de postes, neuf histoires
 
 ---
 

@@ -282,7 +282,7 @@ La réorganisation des chaînes d’approvisionnement n’apporte pas seulement 
 
 ## Lectures complémentaires
 
-- [PME taïwanaises et champions cachés](/economy/台灣中小企業與隱形冠軍)
-- [Agriculture taïwanaise et régénération rurale](/economy/台灣農業與農村再生)
-- [Écosystème des start-up](/economy/新創生態系)
-- [Entreprise taïwanaise : Hon Hai Precision](/economy/台灣企業：鴻海精密) — Avec une présence mondiale dans 24 pays et 900 000 personnes, il s’agit du plus grand terrain d’expérimentation de la gouvernance transfrontalière de l’industrie manufacturière taïwanaise
+- [PME taïwanaises et champions cachés](/fr/economy/taiwan-smes-and-hidden-champions)
+- [Agriculture taïwanaise et régénération rurale](/fr/economy/taiwan-agriculture-and-rural-revitalization)
+- [Écosystème des start-up](/fr/economy/taiwan-startup-ecosystem-overview)
+- [Entreprise taïwanaise : Hon Hai Precision](/fr/economy/foxconn-precision-industry) — Avec une présence mondiale dans 24 pays et 900 000 personnes, il s’agit du plus grand terrain d’expérimentation de la gouvernance transfrontalière de l’industrie manufacturière taïwanaise

@@ -324,12 +324,12 @@ Puma Shen a aussi prononcé une autre phrase, de portée plus générale : « L�
 
 ## Pour aller plus loin
 
-- [Guerre cognitive](/society/認知作戰) — cadre général de la manipulation informationnelle du PCC et mécanismes de riposte de la société taïwanaise
-- [La rencontre Cheng-Xi de 2026 et les retrouvailles KMT-PCC dix ans après](/society/2026鄭習會與國共十年再會) — un autre point d’inflexion contemporain des relations inter-détroit
-- [Crises du détroit de Taïwan et développement des relations inter-détroit](/history/台海危機與兩岸關係發展) — contexte historique long du récit du « gage de soumission »
-- [Tsai Ing-wen](/people/蔡英文) — décideuse de la politique du porc à la ractopamine en 2020-2021, couche précédente de la cicatrice
-- [Lai Ching-te](/people/賴清德) — président en exercice lors de la signature de l’accord ART
-- [Thinking Taiwan](/society/想想論壇) — questions analogues de guerre cognitive couvertes par la rubrique phare « Rapport annuel d’observation de la Chine » relancée après la refonte de 2025 par Tsai Ing-wen
+- [Guerre cognitive](/fr/society/cognitive-warfare-against-taiwan) — cadre général de la manipulation informationnelle du PCC et mécanismes de riposte de la société taïwanaise
+- [La rencontre Cheng-Xi de 2026 et les retrouvailles KMT-PCC dix ans après](/fr/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — un autre point d’inflexion contemporain des relations inter-détroit
+- [Crises du détroit de Taïwan et développement des relations inter-détroit](/fr/history/taiwan-strait-crises-and-cross-strait-relations) — contexte historique long du récit du « gage de soumission »
+- [Tsai Ing-wen](/fr/people/tsai-ing-wen) — décideuse de la politique du porc à la ractopamine en 2020-2021, couche précédente de la cicatrice
+- [Lai Ching-te](/fr/people/lai-ching-te) — président en exercice lors de la signature de l’accord ART
+- [Thinking Taiwan](/fr/society/thinking-taiwan-forum) — questions analogues de guerre cognitive couvertes par la rubrique phare « Rapport annuel d’observation de la Chine » relancée après la refonte de 2025 par Tsai Ing-wen
 
 ---
 

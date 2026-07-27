@@ -85,7 +85,7 @@ L'avenir de la souveraineté taïwanaise du savoir n'est peut-être pas dans un 
 
 - [Ministère de la Culture](../Society/文化部) — Organisme gouvernemental dirigeant le projet
 - [Wikipédia](維基百科) — Paradigme contemporain d'encyclopédie collaborative Web 2.0
-- [PanSci](/society/泛科學) — Communauté de vulgarisation scientifique et plateforme de savoir civile ; des articles aux cours, des vidéos aux services créateurs, l'exemple de la transformation du savoir dans l'économie de plateforme
+- [PanSci](/fr/society/pansci) — Communauté de vulgarisation scientifique et plateforme de savoir civile ; des articles aux cours, des vidéos aux services créateurs, l'exemple de la transformation du savoir dans l'économie de plateforme
 - [Mémoire culturelle nationale](國家文化記憶庫) — Plateforme successeur recevant les entrées du projet
 
 ---

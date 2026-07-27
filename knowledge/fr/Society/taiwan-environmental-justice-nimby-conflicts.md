@@ -222,13 +222,13 @@ Dans une démocratie, les décisions environnementales devraient reposer sur une
 
 **Pour aller plus loin** :
 
-- [Les fumoirs de Taipei : la boîte de verre qui respire au cœur d'une ville sans tabac](/society/台北吸菸室) — À qui la porte du fumoir, les sans-abri vont-ils s'y rassembler : un dilemme NIMBY à l'échelle de la rue
+- [Les fumoirs de Taipei : la boîte de verre qui respire au cœur d'une ville sans tabac](/fr/society/taipei-smoking-room) — À qui la porte du fumoir, les sans-abri vont-ils s'y rassembler : un dilemme NIMBY à l'échelle de la rue
 
-- [Débat sur le nucléaire à Taïwan](/society/台灣與核能的討論) — Les Tao de Lanyu portent le fardeau des déchets nucléaires sans être au centre du débat : la fracture NIMBY et de justice environnementale la plus profonde dans la controverse nucléaire
-- [Les bâtiments en tôle ondulée](/society/鐵皮屋) — La démolition de Yunzihchen est un cas emblématique de justice environnementale : pollution, démantèlement et difficultés de relogement d'un ensemble de 400 hectares d'usines en tôle ondulée
-- [Logement social et justice résidentielle](/society/社會住宅與居住正義) — La dimension politique des questions de logement : offre de logements sociaux et réforme du marché locatif
-- [Lu Shiow-yen](/people/盧秀燕) — La personnalité politique qui a remporté Taichung en 2018 sur la question de l'air : champ de bataille politique concret autour de la centrale de Taichung, des PM~2,5~ et de la transition énergétique
-- [Crise climatique et transition vers la neutralité carbone à Taïwan](/nature/台灣氣候危機與淨零轉型) — 97 672 fûts à Lanyu, référendum sur la centrale n° 3 en 2025, troisième terminal gazier des récifs d'algues, déficit de 27 fois pour la géothermie : la fracture de justice environnementale correspondant à chaque voie de la transition énergétique
+- [Débat sur le nucléaire à Taïwan](/fr/society/taiwan-nuclear-debate) — Les Tao de Lanyu portent le fardeau des déchets nucléaires sans être au centre du débat : la fracture NIMBY et de justice environnementale la plus profonde dans la controverse nucléaire
+- [Les bâtiments en tôle ondulée](/fr/society/taiwan-tin-shed-houses) — La démolition de Yunzihchen est un cas emblématique de justice environnementale : pollution, démantèlement et difficultés de relogement d'un ensemble de 400 hectares d'usines en tôle ondulée
+- [Logement social et justice résidentielle](/fr/society/social-housing-and-housing-justice) — La dimension politique des questions de logement : offre de logements sociaux et réforme du marché locatif
+- [Lu Shiow-yen](/fr/people/lu-hsiu-yan) — La personnalité politique qui a remporté Taichung en 2018 sur la question de l'air : champ de bataille politique concret autour de la centrale de Taichung, des PM~2,5~ et de la transition énergétique
+- [Crise climatique et transition vers la neutralité carbone à Taïwan](/fr/nature/taiwan-climate-change-net-zero-transition) — 97 672 fûts à Lanyu, référendum sur la centrale n° 3 en 2025, troisième terminal gazier des récifs d'algues, déficit de 27 fois pour la géothermie : la fracture de justice environnementale correspondant à chaque voie de la transition énergétique
 
 ## Références
 

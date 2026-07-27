@@ -216,11 +216,11 @@ La prochaine fois que vous rentrerez en voiture à Yilan et qu’en sortant du t
 
 ## Pour aller plus loin
 
-- [Comté de Yilan](/geography/宜蘭縣) — le comté auquel appartient l’île Guishan ; l’histoire de deux choix décisifs faits par la plaine de Lanyang à des moments clés de l’histoire, avec l’île Guishan comme « repère immuable »
-- [Formes côtières et paysages marins de Taïwan](/geography/台灣海岸地形與海洋地景) — la place de l’île volcanique de Guishan, de ses sources hydrothermales sous-marines et des remontées d’eau dans les paysages marins de Taïwan
-- [Les cétacés de Taïwan](/nature/臺灣的鯨豚) — l’écologie des cétacés portée par le Kuroshio, et le contexte du début de l’observation des cétacés à Taïwan depuis le port de Shiti, à Hualien
-- [Îles périphériques et cultures maritimes](/geography/離島與海洋文化) — les questions communes aux villages insulaires, aux croyances des villages de pêcheurs et aux histoires de déplacement de villages à Taïwan
-- [Prison de l’île Verte](/history/綠島監獄) — une autre histoire d’île périphérique militarisée, passée de zone interdite à espace ouvert
+- [Comté de Yilan](/fr/geography/yilan-county) — le comté auquel appartient l’île Guishan ; l’histoire de deux choix décisifs faits par la plaine de Lanyang à des moments clés de l’histoire, avec l’île Guishan comme « repère immuable »
+- [Formes côtières et paysages marins de Taïwan](/fr/geography/taiwan-coastal-landforms-and-seascapes) — la place de l’île volcanique de Guishan, de ses sources hydrothermales sous-marines et des remontées d’eau dans les paysages marins de Taïwan
+- [Les cétacés de Taïwan](/fr/nature/cetaceans-of-taiwan) — l’écologie des cétacés portée par le Kuroshio, et le contexte du début de l’observation des cétacés à Taïwan depuis le port de Shiti, à Hualien
+- [Îles périphériques et cultures maritimes](/fr/geography/offshore-islands-and-maritime-culture) — les questions communes aux villages insulaires, aux croyances des villages de pêcheurs et aux histoires de déplacement de villages à Taïwan
+- [Prison de l’île Verte](/fr/history/green-island-prison) — une autre histoire d’île périphérique militarisée, passée de zone interdite à espace ouvert
 
 ## Sources des images
 

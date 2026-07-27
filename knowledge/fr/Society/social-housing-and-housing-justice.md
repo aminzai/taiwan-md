@@ -292,9 +292,9 @@ La réalisation de la justice résidentielle requiert les efforts conjugués de 
 
 **Pour aller plus loin** :
 
-- [Logements nationaux et justice résidentielle](/society/國宅與居住正義) — La voie « construire pour vendre » abandonnée avant le plan de 2016 : de la loi de 1975 sur les logements nationaux à son abrogation en 2015, comment les logements nationaux sont devenus un tremplin patrimonial, et le débat contemporain autour du logement abordable à Taoyuan en 2026 qui réintroduit la dimension de la vente (article complémentaire à celui-ci)
-- [Constructions en tôle ondulée](/society/鐵皮屋) — Le défi de la gouvernance de 716 000 constructions illégales à travers Taïwan : les surélévations de toits en tôle et les constructions non autorisées constituent l'une des structures profondes de la question de la justice résidentielle
-- [Justice environnementale et conflits de type NIMBY à Taïwan](/society/台灣環境正義與鄰避爭議) — Le prolongement foncier des questions de logement : la répartition inégale des risques environnementaux et les conflits communautaires liés aux installations de type NIMBY
+- [Logements nationaux et justice résidentielle](/fr/society/public-housing-justice) — La voie « construire pour vendre » abandonnée avant le plan de 2016 : de la loi de 1975 sur les logements nationaux à son abrogation en 2015, comment les logements nationaux sont devenus un tremplin patrimonial, et le débat contemporain autour du logement abordable à Taoyuan en 2026 qui réintroduit la dimension de la vente (article complémentaire à celui-ci)
+- [Constructions en tôle ondulée](/fr/society/taiwan-tin-shed-houses) — Le défi de la gouvernance de 716 000 constructions illégales à travers Taïwan : les surélévations de toits en tôle et les constructions non autorisées constituent l'une des structures profondes de la question de la justice résidentielle
+- [Justice environnementale et conflits de type NIMBY à Taïwan](/fr/society/taiwan-environmental-justice-nimby-conflicts) — Le prolongement foncier des questions de logement : la répartition inégale des risques environnementaux et les conflits communautaires liés aux installations de type NIMBY
 
 [^1]: Administration de l'aménagement territorial du ministère de l'Intérieur, « Rapport sur les résultats de la promotion du logement social », décembre 2024, https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7
 

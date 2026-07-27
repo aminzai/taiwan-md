@@ -106,11 +106,11 @@ Il ne gère pas ses propres pages de fans et utilise peu les réseaux sociaux[^1
 
 **Pour aller plus loin :**
 
-- [Tai Tzu-ying](/people/戴資穎) — La reine mondiale du badminton taïwanaise de la même génération et « numéro deux » partageant avec Chou Tien-chen un entraîneur éveilleur commun
-- [Lee Yang](/people/李洋) — Carrière d'athlète taïwanais passant des Jeux olympiques (or en badminton double hommes) au premier ministre du ministère des Sports
-- [Ko Hsin-chun](/people/郭婞淳) — Athlète taïwanaise ayant également forgé son parcours par les blessures et l'adversité, or olympique en haltérophilie
-- [Jeremy Lin](/people/林書豪) — Un autre visage taïwanais qui a réécrit la perception des athlètes asiatiques grâce à une trajectoire hors norme
-- [Chine Taipei](/society/中華台北) — Le nom « Chinese Taipei » sous lequel Chou Tien-chen concourt, les contextes politiques internationaux derrière
+- [Tai Tzu-ying](/fr/people/tai-tzu-ying) — La reine mondiale du badminton taïwanaise de la même génération et « numéro deux » partageant avec Chou Tien-chen un entraîneur éveilleur commun
+- [Lee Yang](/fr/people/lee-yang-badminton) — Carrière d'athlète taïwanais passant des Jeux olympiques (or en badminton double hommes) au premier ministre du ministère des Sports
+- [Ko Hsin-chun](/fr/people/kuo-hsing-chun-olympic-weightlifting-champion) — Athlète taïwanaise ayant également forgé son parcours par les blessures et l'adversité, or olympique en haltérophilie
+- [Jeremy Lin](/fr/people/jeremy-lin) — Un autre visage taïwanais qui a réécrit la perception des athlètes asiatiques grâce à une trajectoire hors norme
+- [Chine Taipei](/fr/society/chinese-taipei) — Le nom « Chinese Taipei » sous lequel Chou Tien-chen concourt, les contextes politiques internationaux derrière
 
 ## Sources d'images
 

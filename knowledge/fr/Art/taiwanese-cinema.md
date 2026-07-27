@@ -430,9 +430,9 @@ Cet article utilise 4 images, toutes mises en cache dans `public/article-images/
 
 ## Pour aller plus loin
 
-- [Hou Hsiao-hsien](/people/侯孝賢) : maître du plan long, Lion d’or à Venise, qui porta l’incident du 28 février à l’écran
-- [Edward Yang](/people/楊德昌) : observateur de la ville, avec deux films dans le Top 100 historique de Sight & Sound
-- [Tsai Ming-liang](/people/蔡明亮) : lauréat du Lion d’or à Venise, qui fit entrer le cinéma lent au Louvre
-- [Ang Lee](/people/李安) : de Taïwan à Hollywood, deux fois Oscar du meilleur réalisateur
-- [Wei Te-sheng](/people/魏德聖) : l’homme qui tourna Cape No. 7 en cinq langues et fit revivre les films nationaux
-- [Invisible Nation](/art/看不見的國家) : dans le documentaire de Vanessa Hope, une autre manière pour Taïwan d’être vu
+- [Hou Hsiao-hsien](/fr/people/hou-hsiao-hsien) : maître du plan long, Lion d’or à Venise, qui porta l’incident du 28 février à l’écran
+- [Edward Yang](/fr/people/yang-dechang) : observateur de la ville, avec deux films dans le Top 100 historique de Sight & Sound
+- [Tsai Ming-liang](/fr/people/tsai-ming-liang) : lauréat du Lion d’or à Venise, qui fit entrer le cinéma lent au Louvre
+- [Ang Lee](/fr/people/ang-lee) : de Taïwan à Hollywood, deux fois Oscar du meilleur réalisateur
+- [Wei Te-sheng](/fr/people/wei-te-sheng-taiwanese-epic-filmmaker) : l’homme qui tourna Cape No. 7 en cinq langues et fit revivre les films nationaux
+- [Invisible Nation](/fr/art/invisible-nation) : dans le documentaire de Vanessa Hope, une autre manière pour Taïwan d’être vu

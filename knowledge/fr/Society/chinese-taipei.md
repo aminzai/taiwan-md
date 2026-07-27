@@ -193,12 +193,12 @@ Et ce laissez-passer ne permet toujours à Taïwan d’entrer sur la scène que 
 
 ## Lectures complémentaires
 
-- [Le problème de l’identification de Taïwan dans les normes internationales](/society/台灣在國際標準中的標示問題) — De l’ISO 3166 aux logiciels open source, comment le nom de « Taïwan » est écrit et contesté dans l’infrastructure numérique mondiale, une origine commune mais un champ de bataille différent de celui des Jeux olympiques
-- [Le spectre de l’unification et de l’indépendance de Taïwan](/society/台灣統獨光譜) — Pourquoi les Taïwanais ont des sentiments si divergents envers les deux noms « Chine » et « Taïwan », l’analyse complète du spectre d’identité
-- [Les pays alliés de Taïwan et la diplomatie internationale](/society/台灣邦交國與國際外交) — Au-delà du débordement du « modèle du CIO », le même dilemme du nom auquel Taïwan est confronté dans les domaines diplomatiques formels
-- [Chi Cheng](/people/紀政) — L’arc complet de la Gazelle qui saute, de la médaille de bronze de Mexico 1968, figure clé du système en 1981, à l’initiatrice du changement de nom en 2018
-- [Yang Ch’uan-kuang](/people/楊傳廣) — L’athlète asiatique qui a remporté la première médaille olympique de Taïwan en 1960 sous le nom de « Formose »
-- [L’État invisible](/art/看不見的國家) — Chi Cheng sort sa médaille de bronze olympique de 1968 dans ce documentaire, demandant « Taïwan chinois est-il le nom d’un pays ? »
+- [Le problème de l’identification de Taïwan dans les normes internationales](/fr/society/taiwans-labeling-in-international-standards) — De l’ISO 3166 aux logiciels open source, comment le nom de « Taïwan » est écrit et contesté dans l’infrastructure numérique mondiale, une origine commune mais un champ de bataille différent de celui des Jeux olympiques
+- [Le spectre de l’unification et de l’indépendance de Taïwan](/fr/society/taiwan-unification-independence-spectrum) — Pourquoi les Taïwanais ont des sentiments si divergents envers les deux noms « Chine » et « Taïwan », l’analyse complète du spectre d’identité
+- [Les pays alliés de Taïwan et la diplomatie internationale](/fr/society/taiwan-diplomatic-allies-and-international-relations) — Au-delà du débordement du « modèle du CIO », le même dilemme du nom auquel Taïwan est confronté dans les domaines diplomatiques formels
+- [Chi Cheng](/fr/people/chi-cheng-flying-antelope) — L’arc complet de la Gazelle qui saute, de la médaille de bronze de Mexico 1968, figure clé du système en 1981, à l’initiatrice du changement de nom en 2018
+- [Yang Ch’uan-kuang](/fr/people/yang-chuan-kwang-asian-iron-man) — L’athlète asiatique qui a remporté la première médaille olympique de Taïwan en 1960 sous le nom de « Formose »
+- [L’État invisible](/fr/art/invisible-nation) — Chi Cheng sort sa médaille de bronze olympique de 1968 dans ce documentaire, demandant « Taïwan chinois est-il le nom d’un pays ? »
 
 ## Sources des images
 

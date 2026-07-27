@@ -129,10 +129,10 @@ De la carte en vélin de Lopo Homem en 1554 au Google Maps de votre téléphone 
 
 **Lectures complémentaires :**
 
-- [Les cinq reliefs de Taïwan et sa structure géographique](/geography/台灣五大地形與地理結構) — Origines géologiques et distribution détaillée des cinq types de relief
-- [Tectonique des plaques et activité sismique à Taïwan](/geography/台灣板塊運動與地震活動) — Pourquoi Taïwan est si montagneuse : la collision entre la plaque des Philippines et la plaque eurasienne
-- [L'époque hollandaise, espagnole et Koxinga](/history/荷西明鄭時期) — 1624-1683, l'âge où les Européens dressèrent les premières cartes détaillées de Taïwan
-- [Les îles périphériques et la culture maritime](/geography/離島與海洋文化) — Kinmen, Matsu, Penghu : les « Taïwan » les plus éloignées de Taïwan sur la carte, les plus proches de la Chine
+- [Les cinq reliefs de Taïwan et sa structure géographique](/fr/geography/taiwan-five-major-landforms-and-geographic-structure) — Origines géologiques et distribution détaillée des cinq types de relief
+- [Tectonique des plaques et activité sismique à Taïwan](/fr/geography/tectonic-plates-and-seismic-activity) — Pourquoi Taïwan est si montagneuse : la collision entre la plaque des Philippines et la plaque eurasienne
+- [L'époque hollandaise, espagnole et Koxinga](/fr/history/dutch-spanish-and-koxinga-era) — 1624-1683, l'âge où les Européens dressèrent les premières cartes détaillées de Taïwan
+- [Les îles périphériques et la culture maritime](/fr/geography/offshore-islands-and-maritime-culture) — Kinmen, Matsu, Penghu : les « Taïwan » les plus éloignées de Taïwan sur la carte, les plus proches de la Chine
 
 ## Références
 

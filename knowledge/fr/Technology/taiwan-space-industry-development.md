@@ -157,9 +157,9 @@ Taïwan est une grande puissance de fabrication de satellites, mais elle n'a pas
 
 **Pour aller plus loin** :
 
-- [Centre spatial national](/technology/國家太空中心) — Cet article traite de la chaîne industrielle ; cet autre article traite de l'institution qui la soutient : comment le Centre spatial national est passé d'un « bureau de préparation » à une entité administrative indépendante TASA, en rassemblant un à un son nom, son statut juridique, ses terrains et ses fusées.
-- [Industrie des semi-conducteurs](/technology/半導體產業) — la base en amont de l'industrie spatiale, les puces satellites proviennent de la même chaîne d'approvisionnement
-- [Écosystème startup](/economy/新創生態系) — comment les startups spatiales privées s'articulent avec les programmes nationaux
-- [Déploiement du réseau 5G et transformation numérique à Taïwan](/technology/台灣5G網路建設與數位轉型) — la complémentarité résiliente entre communication satellite et 5G terrestre
-- [Défense et modernisation militaire de Taïwan](/society/台灣國防與軍事現代化) — des satellites civils à la communication de défense, l'espace comme nouveau champ de bataille pour la résilience défensive de Taïwan
-- [Lin Chi-erh](/people/林琪兒) — astronaute née à Taipei, membre du pool de qualification Artemis, un regard personnel sur le lien entre Taïwan et l'exploration spatiale mondiale
+- [Centre spatial national](/fr/technology/tasa-taiwan-space-agency) — Cet article traite de la chaîne industrielle ; cet autre article traite de l'institution qui la soutient : comment le Centre spatial national est passé d'un « bureau de préparation » à une entité administrative indépendante TASA, en rassemblant un à un son nom, son statut juridique, ses terrains et ses fusées.
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — la base en amont de l'industrie spatiale, les puces satellites proviennent de la même chaîne d'approvisionnement
+- [Écosystème startup](/fr/economy/taiwan-startup-ecosystem-overview) — comment les startups spatiales privées s'articulent avec les programmes nationaux
+- [Déploiement du réseau 5G et transformation numérique à Taïwan](/fr/technology/taiwan-5g-digital-transformation) — la complémentarité résiliente entre communication satellite et 5G terrestre
+- [Défense et modernisation militaire de Taïwan](/fr/society/taiwan-defense-modernization) — des satellites civils à la communication de défense, l'espace comme nouveau champ de bataille pour la résilience défensive de Taïwan
+- [Lin Chi-erh](/fr/people/lin-chi-er-astronaut) — astronaute née à Taipei, membre du pool de qualification Artemis, un regard personnel sur le lien entre Taïwan et l'exploration spatiale mondiale

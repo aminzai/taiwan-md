@@ -235,7 +235,7 @@ La prochaine fois que vous attendrez sous un arrêt, que ce soit à Taipei en tr
 
 Le dernier 5658 est parti. Mais tant qu’il restera quelqu’un pour lever la main sous un arrêt, il restera un véhicule tenu de venir pour lui.
 
-**Pour aller plus loin** : [Système de transport de Taïwan](/lifestyle/台灣交通系統), [Culture du scooter à Taïwan](/lifestyle/台灣機車文化), [Histoire du développement du métro à Taïwan](/lifestyle/台灣捷運發展史), [Autocar de tourisme](/lifestyle/遊覽車)
+**Pour aller plus loin** : [Système de transport de Taïwan](/fr/lifestyle/transportation-system), [Culture du scooter à Taïwan](/fr/lifestyle/taiwan-scooter-culture), [Histoire du développement du métro à Taïwan](/fr/lifestyle/history-of-taiwan-mrt-development), [Autocar de tourisme](/fr/lifestyle/tour-bus)
 
 ## Sources des images
 

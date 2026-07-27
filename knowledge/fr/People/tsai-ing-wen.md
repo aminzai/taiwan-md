@@ -115,15 +115,15 @@ Tsai Ing-wen prouva en huit ans une chose : une femme politique de type universi
 
 **Pour aller plus loin** :
 
-- [Transition démocratique de Taïwan](/history/台灣民主轉型) — L'évolution institutionnelle de l'autoritarisme à la liberté
-- [Lai Ching-te](/people/賴清德) — Le successeur de Tsai Ing-wen, actuel président de Taïwan
-- [Mariage homosexuel et égalité des genres à Taïwan](/society/台灣同婚與性別平權) — Le processus législatif de la première loi sur le mariage homosexuel en Asie
-- [Histoire des peuples autochtones de Taïwan et mouvement de reconnaissance](/history/台灣原住民族歷史與正名運動) — De « compatriotes des montagnes » à « peuples autochtones » : un combat
-- [Mouvement du Tournesol](/society/太陽花學運) — Le mouvement social de 2014 qui transforma la carte politique de Taïwan
-- [Ma Ying-jeou](/people/馬英九) — Tsai Ing-wen débat avec lui le 25 avril 2010 sur l'ECFA, lui succède en 2016 et opère un quasi-retournement complet sur le cadre bilatéral du détroit hérité de son prédécesseur
-- [Chou Tzu-yu](/people/周子瑜) — Les 90 secondes de vidéo d'excuses la veille de l'élection de 2016, qui déclenchèrent la réplique de Tsai Ing-wen dans son discours de victoire : « personne ne devrait s'excuser pour son identité »
-- [Invisible Nation](/art/看不見的國家) — documentaire de la réalisatrice américaine Joyce Keng, tourné aux côtés de Tsai Ing-wen pendant sept ans ; sorti à Taïwan en 2025, il a dépassé 37 millions de dollars taïwanais au box-office et se classe troisième de l’histoire du documentaire à Taïwan
-- [Think Forum](/society/想想論壇) — plateforme d'opinion de la Fondation Small Light créée par Tsai après sa défaite électorale de 2012, relancée en octobre 2025, cinq mois après son départ
+- [Transition démocratique de Taïwan](/fr/history/taiwan-democratization) — L'évolution institutionnelle de l'autoritarisme à la liberté
+- [Lai Ching-te](/fr/people/lai-ching-te) — Le successeur de Tsai Ing-wen, actuel président de Taïwan
+- [Mariage homosexuel et égalité des genres à Taïwan](/fr/society/taiwan-marriage-equality-lgbtq-rights) — Le processus législatif de la première loi sur le mariage homosexuel en Asie
+- [Histoire des peuples autochtones de Taïwan et mouvement de reconnaissance](/fr/history/indigenous-peoples-history-and-naming-movement) — De « compatriotes des montagnes » à « peuples autochtones » : un combat
+- [Mouvement du Tournesol](/fr/society/sunflower-movement) — Le mouvement social de 2014 qui transforma la carte politique de Taïwan
+- [Ma Ying-jeou](/fr/people/ma-ying-jeou-cross-strait-reconciliation-leader) — Tsai Ing-wen débat avec lui le 25 avril 2010 sur l'ECFA, lui succède en 2016 et opère un quasi-retournement complet sur le cadre bilatéral du détroit hérité de son prédécesseur
+- [Chou Tzu-yu](/fr/people/tzuyu) — Les 90 secondes de vidéo d'excuses la veille de l'élection de 2016, qui déclenchèrent la réplique de Tsai Ing-wen dans son discours de victoire : « personne ne devrait s'excuser pour son identité »
+- [Invisible Nation](/fr/art/invisible-nation) — documentaire de la réalisatrice américaine Joyce Keng, tourné aux côtés de Tsai Ing-wen pendant sept ans ; sorti à Taïwan en 2025, il a dépassé 37 millions de dollars taïwanais au box-office et se classe troisième de l’histoire du documentaire à Taïwan
+- [Think Forum](/fr/society/thinking-taiwan-forum) — plateforme d'opinion de la Fondation Small Light créée par Tsai après sa défaite électorale de 2012, relancée en octobre 2025, cinq mois après son départ
 
 ## Références
 

@@ -5,7 +5,15 @@ date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '體育'
-tags: ['sport', 'baseball', 'MLB', 'Yankees', 'lanceur taïwanais aux États-Unis', 'équipe de Chinese Taipei']
+tags:
+  [
+    'sport',
+    'baseball',
+    'MLB',
+    'Yankees',
+    'lanceur taïwanais aux États-Unis',
+    'équipe de Chinese Taipei',
+  ]
 readingTime: 9
 # design_rationale:
 #   why_this_hook: "從『並列勝投王』而非『亞軍』切入，這個細節的精確度代表了王建民整個職業生涯的質感：他不是第二，他是並列第一，只是台灣媒體報錯了。"
@@ -105,7 +113,7 @@ Du lanceur partant à 19 victoires aperçu sur les télévisions des breakfast s
 >
 > La course sur base du 15 juin 2008 est l’un des « petits événements aux grandes conséquences » les plus discutés de l’histoire du baseball. Un geste normal de course sur base a changé tout le reste de la carrière d’un lanceur. Mais Chien-Ming Wang n’a pas laissé cette journée le définir : son retour de 2016, le documentaire de 2018 et sa place dans le staff champion du Premier12 2024 sont les réponses qu’il a continué d’écrire.
 
-Après Chen Wei-yin, la présence en Major League des lanceurs taïwanais passés par les États-Unis a hérité de la possibilité ouverte par Chien-Ming Wang : celle qu’un lanceur asiatique puisse survivre dans l’AL East. Mais dans le récit du baseball taïwanais, la place de Wang dépasse celle d’un prédécesseur technique. Il est le point de détonation qui a porté l’engouement national pour le baseball taïwanais à son plus haut niveau historique. Cette chaleur s’est ensuite transformée en attention durable pour des lanceurs partis aux États-Unis comme [Chen Wei-yin](/fr/People/chen-wei-yin-mlb-pitcher/) et [Hong-Chih Kuo](/fr/People/hong-chih-kuo-taiwanese-left-handed-pitcher/), puis en résonance nationale lors de la nuit du titre au Premier12.
+Après Chen Wei-yin, la présence en Major League des lanceurs taïwanais passés par les États-Unis a hérité de la possibilité ouverte par Chien-Ming Wang : celle qu’un lanceur asiatique puisse survivre dans l’AL East. Mais dans le récit du baseball taïwanais, la place de Wang dépasse celle d’un prédécesseur technique. Il est le point de détonation qui a porté l’engouement national pour le baseball taïwanais à son plus haut niveau historique. Cette chaleur s’est ensuite transformée en attention durable pour des lanceurs partis aux États-Unis comme [Chen Wei-yin](/fr/people/chen-wei-yin-mlb-pitcher/) et [Hong-Chih Kuo](/fr/people/hong-chih-kuo-taiwanese-left-handed-pitcher/), puis en résonance nationale lors de la nuit du titre au Premier12.
 
 Du collège Jianxing de Tainan au Yankee Stadium, de la seconde de l’entorse en course sur base aux Royals de Kansas City, du documentaire _Late Life_ au rôle d’entraîneur de l’enclos des releveurs de Chinese Taipei, la carrière de Chien-Ming Wang est une ligne qui se prolonge malgré plusieurs oscillations, et non l’histoire d’un seul pic. La série de noms de l’alignement que les grands-mères des breakfast shops connaissaient par cœur est désormais une empreinte fixe de la mémoire du baseball taïwanais ; et devant cette série de noms se tient un lanceur gaucher de Tainan, parti du collège Jianxing, dont le sinker a fait gagner les Yankees pendant deux saisons, et qui a ensuite continué à rester au bord du terrain.
 

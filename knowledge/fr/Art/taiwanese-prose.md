@@ -1,32 +1,33 @@
 ---
-title: "Prose taïwanaise"
+title: 'Prose taïwanaise'
 description: "De la nostalgie des immigrants du continent à l'affirmation locale, du paysage littéraire dominé par les hommes à celui dirigé par les femmes. Depuis un demi-siècle, cette forme littéraire la plus proche du quotidien reste la plus difficile à définir : comment est-elle devenue le porte‑voyageur de la mémoire émotionnelle des Taïwanais ?"
 date: 2026-03-24
-category: "Art"
+category: 'Art'
 tags:
-  - "prose"
-  - "littérature"
-  - "histoire de la littérature taïwanaise"
-  - "auteures"
-  - "écriture de la vie"
-  - "écriture de la nature"
-subcategory: "文學"
-author: "Taiwan.md"
+  - 'prose'
+  - 'littérature'
+  - 'histoire de la littérature taïwanaise'
+  - 'auteures'
+  - 'écriture de la vie'
+  - 'écriture de la nature'
+subcategory: '文學'
+author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: false
 readingTime: 8
-translatedFrom: "Art/台灣散文.md"
-sourceCommitSha: "7415dcaae"
-sourceContentHash: "sha256:073fd0e58756d2a3"
-sourceBodyHash: "sha256:2c9c292fec3fdb34"
-translatedAt: "2026-05-18T05:08:09+08:00"
+translatedFrom: 'Art/台灣散文.md'
+sourceCommitSha: '7415dcaae'
+sourceContentHash: 'sha256:073fd0e58756d2a3'
+sourceBodyHash: 'sha256:2c9c292fec3fdb34'
+translatedAt: '2026-05-18T05:08:09+08:00'
 ---
+
 # Prose taïwanaise : le paysage littéraire renversé par les femmes
 
 > Yu Kuo‑chung a déclaré un jour : « Le monde de la prose taïwanaise, depuis un demi‑siècle, repose à moitié sur les femmes. » Mais ce phénomène est en soi une énigme : pourquoi, dans un contexte littéraire traditionnel dominé par les hommes, le domaine de la prose a‑t‑il connu une telle inversion de genre ?
 
-En 1954, lorsque Chi‑chun publia son premier recueil de prose *Qín Xīn* (《琴心》), le monde littéraire taïwanais ne s’attendait pas à la révolution silencieuse qui s’opérait. Plus de soixante ans plus tard, parmi les « 30 classiques de la littérature taïwanaise » choisis par le supplément du *United Daily News*, trois des sept recueils de prose proviennent d’auteures (Chi‑chun *Yān Chóu*, Jane Jian *Nǚ’ér Hóng* et le masculin Chen Guan‑xue, connu pour son style délicat). Cette proportion est absente dans la poésie et le roman.
+En 1954, lorsque Chi‑chun publia son premier recueil de prose _Qín Xīn_ (《琴心》), le monde littéraire taïwanais ne s’attendait pas à la révolution silencieuse qui s’opérait. Plus de soixante ans plus tard, parmi les « 30 classiques de la littérature taïwanaise » choisis par le supplément du _United Daily News_, trois des sept recueils de prose proviennent d’auteures (Chi‑chun _Yān Chóu_, Jane Jian _Nǚ’ér Hóng_ et le masculin Chen Guan‑xue, connu pour son style délicat). Cette proportion est absente dans la poésie et le roman.
 
 La prose, forme littéraire la plus proche du quotidien, a-t‑elle développé un gène particulier à Taïwan qui en fait la scène la plus résonnante pour les voix féminines ?
 
@@ -50,11 +51,11 @@ Dans les premières décennies d’après‑guerre, la prose taïwanaise perpét
 
 ### Années 1950‑1960 : l’essor collectif des voix féminines
 
-Le véritable changement commence avec la génération de femmes auteures menée par Chi‑chun. En 1954, Chi‑chun publie *Qín Xīn*; en 1958, Zhang Xiu‑ya publie *Běi Chuāng Xià*; en 1961, Luo Lan commence à écrire une chronique de prose dans le supplément d’un quotidien; en 1965, Lin Hai‑yin devient rédactrice en chef du supplément du *United Daily News* — **ce n’est pas un hasard, mais une reconstruction consciente du champ littéraire**.
+Le véritable changement commence avec la génération de femmes auteures menée par Chi‑chun. En 1954, Chi‑chun publie _Qín Xīn_; en 1958, Zhang Xiu‑ya publie _Běi Chuāng Xià_; en 1961, Luo Lan commence à écrire une chronique de prose dans le supplément d’un quotidien; en 1965, Lin Hai‑yin devient rédactrice en chef du supplément du *United Daily News* — **ce n’est pas un hasard, mais une reconstruction consciente du champ littéraire**.
 
 Quelles révolutions Chi‑chun a‑t‑elle introduites ?
 
-Premièrement, **l’intensité émotionnelle**. Contrairement à la retenue élégante des lettrés masculins, la prose de Chi‑chun est directe et passionnée. Dans *Chūn Jiǔ* (« Vin de printemps »), elle écrit à propos de sa mère : « Nous n’osions jamais dire le mot « vin » devant elle, encore moins boire le vin de notre mère. » Cette expression directe était alors étrangère au milieu littéraire.
+Premièrement, **l’intensité émotionnelle**. Contrairement à la retenue élégante des lettrés masculins, la prose de Chi‑chun est directe et passionnée. Dans _Chūn Jiǔ_ (« Vin de printemps »), elle écrit à propos de sa mère : « Nous n’osions jamais dire le mot « vin » devant elle, encore moins boire le vin de notre mère. » Cette expression directe était alors étrangère au milieu littéraire.
 
 Deuxièmement, **l’attention aux détails du quotidien**. Chi‑chun n’écrit pas les « grands événements », mais les petites choses : le plat préparé par sa mère, les bavardages des voisins, les collations d’enfance. Elle montre que les « petites choses » peuvent porter des émotions profondes et des mémoires culturelles.
 
@@ -64,7 +65,7 @@ Deuxièmement, **l’attention aux détails du quotidien**. Chi‑chun n’écri
 
 Selon le professeur Yang Wen‑hsiong de l’Université nationale de Cheng‑Kong, dans les diverses anthologies de prose classique, la proportion d’auteures est étonnamment élevée :
 
-- Dans le vote du supplément du *United Daily News* pour les « 7 classiques de la prose taïwanaise », les auteures ou les œuvres à forte écriture féminine représentent **42,8 %**.
+- Dans le vote du supplément du _United Daily News_ pour les « 7 classiques de la prose taïwanaise », les auteures ou les œuvres à forte écriture féminine représentent **42,8 %**.
 - Dans le « paysage de la prose féminine » de Yu Kuo‑chung, découpé en décennies de dix ans, chaque période possède des figures représentatives :
   - Première période (1950‑1960) : Chi‑chun, Luo Lan, Lin Hai‑yin, Zhang Xiu‑ya
   - Deuxième période (1960‑1970) : Lin Wen‑yue
@@ -80,19 +81,19 @@ Selon le professeur Yang Wen‑hsiong de l’Université nationale de Cheng‑
 
 Le trait le plus caractéristique de la prose taïwanaise est « l’écriture de la vie » — élever l’expérience quotidienne au rang littéraire. Cette tradition débute avec Chi‑chun, se développe grâce à Lin Wen‑yue, Zhang Xiao‑feng et Jane Jian, et forme une esthétique singulière.
 
-**Le *Salon de l’après‑midi* de Lin Wen‑yue** (années 1980) montre l’esthétique de la vie d’une femme érudite. Elle écrit sur son travail de traduction, ses recettes, ses échanges avec des amis lettrés ; son style est élégant sans prétention, érudit sans ostentation. Elle prouve qu’une intellectuelle peut aussi produire une prose chaleureuse.
+**Le _Salon de l’après‑midi_ de Lin Wen‑yue** (années 1980) montre l’esthétique de la vie d’une femme érudite. Elle écrit sur son travail de traduction, ses recettes, ses échanges avec des amis lettrés ; son style est élégant sans prétention, érudit sans ostentation. Elle prouve qu’une intellectuelle peut aussi produire une prose chaleureuse.
 
-**Le rôle « de transition » de Zhang Xiao‑feng** est encore plus crucial. Son *L’autre bout du tapis* (1966) combine la formation classique et l’observation féminine moderne, mêlant la profondeur sentimentale de Chi‑chun à une réflexion philosophique propre. Ses textes partent d’un petit événement pour atteindre une vision cosmique ; dans *Insomnie immortelle*, elle cite Zhang Ji : « Vraiment, le poète ne peut pas vieillir. »
+**Le rôle « de transition » de Zhang Xiao‑feng** est encore plus crucial. Son _L’autre bout du tapis_ (1966) combine la formation classique et l’observation féminine moderne, mêlant la profondeur sentimentale de Chi‑chun à une réflexion philosophique propre. Ses textes partent d’un petit événement pour atteindre une vision cosmique ; dans _Insomnie immortelle_, elle cite Zhang Ji : « Vraiment, le poète ne peut pas vieillir. »
 
-**Le *Nǚ’ér Hóng* de Jane Jian** (1988) incarne l’éveil de la conscience féminine des années 1980. Son langage est plus libre, ses émotions plus directes, sa narration plus expérimentale. Elle écrit : « Je suis le vin de fille, enfoui dans les profondeurs du temps, attendant que quelqu’un vienne le déboucher. »
+**Le _Nǚ’ér Hóng_ de Jane Jian** (1988) incarne l’éveil de la conscience féminine des années 1980. Son langage est plus libre, ses émotions plus directes, sa narration plus expérimentale. Elle écrit : « Je suis le vin de fille, enfoui dans les profondeurs du temps, attendant que quelqu’un vienne le déboucher. »
 
 ### Écriture de la nature : du paysage lettré à la conscience écologique
 
 À partir des années 1980, un nouveau courant, l’« écriture de la nature », apparaît, en phase avec la prise de conscience environnementale à Taïwan.
 
-**Liu Ke‑hsiang est le pionnier de l’écriture de la nature taïwanaise.** Son *Vent d’oiseau Pinocchia* (1986) mêle connaissances biologiques et sensibilité littéraire, créant un nouveau type de prose : il n’écrit pas le « paysage », mais le « système écologique ».
+**Liu Ke‑hsiang est le pionnier de l’écriture de la nature taïwanaise.** Son _Vent d’oiseau Pinocchia_ (1986) mêle connaissances biologiques et sensibilité littéraire, créant un nouveau type de prose : il n’écrit pas le « paysage », mais le « système écologique ».
 
-**Wu Ming‑yi poursuit cette tradition, mais y ajoute une réflexion historique.** Son *Chronique du papillon perdu* (2001) n’est pas seulement une observation de la nature ; c’est aussi une méditation sur l’histoire coloniale et la catastrophe écologique. Il écrit : « Chaque espèce disparue est un livre brûlé. »
+**Wu Ming‑yi poursuit cette tradition, mais y ajoute une réflexion historique.** Son _Chronique du papillon perdu_ (2001) n’est pas seulement une observation de la nature ; c’est aussi une méditation sur l’histoire coloniale et la catastrophe écologique. Il écrit : « Chaque espèce disparue est un livre brûlé. »
 
 Ces productions reflètent l’intérêt croissant de la société taïwanaise pour les enjeux environnementaux et résonnent avec le mouvement démocratique des années 1980 : redécouvrir la terre devient un acte politique.
 
@@ -100,9 +101,9 @@ Ces productions reflètent l’intérêt croissant de la société taïwanaise p
 
 Après les années 1990, la prose taïwanaise développe un autre courant : la littérature gastronomique.
 
-**Jiao Tong est un acteur majeur de ce domaine.** Son *Saveurs de Formose* ne se limite pas à la critique culinaire ; il utilise l’alimentation pour retracer la mémoire culturelle de Taïwan. Il écrit à propos du bœuf‑nouilles : « Le bœuf‑nouilles est le cristal de la nostalgie des immigrants du continent, et il symbolise aussi l’inclusivité de la cuisine taïwanaise. »
+**Jiao Tong est un acteur majeur de ce domaine.** Son _Saveurs de Formose_ ne se limite pas à la critique culinaire ; il utilise l’alimentation pour retracer la mémoire culturelle de Taïwan. Il écrit à propos du bœuf‑nouilles : « Le bœuf‑nouilles est le cristal de la nostalgie des immigrants du continent, et il symbolise aussi l’inclusivité de la cuisine taïwanaise. »
 
-**Cai Zhu‑er affine encore davantage cette écriture.** Elle transforme le processus de cuisson en poésie, le goût en philosophie. Dans *Porc braisé*, elle déclare : « Le porc braisé est l’art du temps, la pratique de la patience. »
+**Cai Zhu‑er affine encore davantage cette écriture.** Elle transforme le processus de cuisson en poésie, le goût en philosophie. Dans _Porc braisé_, elle déclare : « Le porc braisé est l’art du temps, la pratique de la patience. »
 
 L’essor de la littérature gastronomique reflète la transition de Taïwan d’une société agricole à une société urbaine, et la redécouverte du « goût de la maison ».
 
@@ -124,7 +125,7 @@ Dans les années 1950, la parole publique des femmes était restreinte ; la pr
 
 ### 4. Le rôle catalyseur des suppléments
 
-Lorsque Lin Hai‑yin dirigea le supplément du *United Daily News* (1963‑1974), elle soutint activement les femmes auteures, créant un cercle vertueux de production de prose. Le supplément devint une plateforme cruciale pour le développement de la prose féminine.
+Lorsque Lin Hai‑yin dirigea le supplément du _United Daily News_ (1963‑1974), elle soutint activement les femmes auteures, créant un cercle vertueux de production de prose. Le supplément devint une plateforme cruciale pour le développement de la prose féminine.
 
 ## Développements contemporains : la nouvelle apparence de la prose à l’ère numérique
 
@@ -132,7 +133,7 @@ Au XXIᵉ siècle, la prose taïwanaise fait face à de nouveaux défis et oppor
 
 ### Influence des nouveaux médias
 
-L’essor des blogs a démocratisé l’écriture de prose. L’auteur de *Those Years, We Chased the Girl Together*, Giddens Ko, a débuté dans la prose en ligne.
+L’essor des blogs a démocratisé l’écriture de prose. L’auteur de _Those Years, We Chased the Girl Together_, Giddens Ko, a débuté dans la prose en ligne.
 
 La contrainte de longueur des réseaux sociaux a également modifié la forme, donnant naissance à la « micro‑prose ».
 
@@ -158,7 +159,7 @@ C’est peut‑être la plus grande contribution de la prose taïwanaise : ram
 
 ## Lectures complémentaires
 
-- [San‑Mao](/People/三毛) — figure emblématique de l’écriture vagabonde dans la prose taïwanaise, la série du Sahara a influencé toute une génération de lecteurs en langue chinoise
+- [San‑Mao](/fr/people/san-mao) — figure emblématique de l’écriture vagabonde dans la prose taïwanaise, la série du Sahara a influencé toute une génération de lecteurs en langue chinoise
 
 ---
 
@@ -166,11 +167,11 @@ C’est peut‑être la plus grande contribution de la prose taïwanaise : ram
 
 **Recueils classiques de prose :**
 
-- Chi‑chun *Yān Chóu* — classique de la prose nostalgique taïwanaise
-- Wang Ding‑jun *Vie ouverte* — modèle de la prose philosophique
-- Jane Jian *Nǚ’ér Hóng* — représentation de l’écriture féminine des années 1980
-- Chen Guan‑xue *Automne champêtre* — œuvre pionnière de l’écriture de la nature
-- Yang Mu *Le chercheur* — haut niveau esthétique de la prose intellectuelle
+- Chi‑chun _Yān Chóu_ — classique de la prose nostalgique taïwanaise
+- Wang Ding‑jun _Vie ouverte_ — modèle de la prose philosophique
+- Jane Jian _Nǚ’ér Hóng_ — représentation de l’écriture féminine des années 1980
+- Chen Guan‑xue _Automne champêtre_ — œuvre pionnière de l’écriture de la nature
+- Yang Mu _Le chercheur_ — haut niveau esthétique de la prose intellectuelle
 
 **Sources de recherche :**
 

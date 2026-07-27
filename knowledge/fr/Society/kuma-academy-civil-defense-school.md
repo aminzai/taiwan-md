@@ -190,10 +190,10 @@ Revenons à cette pelouse sous une pluie fine. L’employée qui serre un garrot
 
 **Pour aller plus loin** :
 
-- [Puma Shen](/people/沈伯洋) — cofondateur et doyen honoraire de l’Académie Kuma, spécialiste des opérations cognitives du Parti communiste chinois, ensuite visé par une enquête ouverte par la Chine pour « crime de sécession »
-- [Opérations cognitives](/society/認知作戰) — contexte complet de l’un des quatre modules du camp de base de l’Académie Kuma, et panorama de la guerre informationnelle menée par le PCC contre Taïwan
-- [Défense nationale et modernisation militaire de Taïwan](/society/台灣國防與軍事現代化) — complémentarité entre défense civile et défense de toute la population, pour comprendre l’autre face de l’idée selon laquelle « la défense civile n’est pas la défense nationale »
-- [Le pays invisible](/art/看不見的國家) — le documentaire se conclut par des Taïwanais suivant un cours de défense civile, version filmée de cette leçon de l’Académie Kuma
+- [Puma Shen](/fr/people/puma-shen) — cofondateur et doyen honoraire de l’Académie Kuma, spécialiste des opérations cognitives du Parti communiste chinois, ensuite visé par une enquête ouverte par la Chine pour « crime de sécession »
+- [Opérations cognitives](/fr/society/cognitive-warfare-against-taiwan) — contexte complet de l’un des quatre modules du camp de base de l’Académie Kuma, et panorama de la guerre informationnelle menée par le PCC contre Taïwan
+- [Défense nationale et modernisation militaire de Taïwan](/fr/society/taiwan-defense-modernization) — complémentarité entre défense civile et défense de toute la population, pour comprendre l’autre face de l’idée selon laquelle « la défense civile n’est pas la défense nationale »
+- [Le pays invisible](/fr/art/invisible-nation) — le documentaire se conclut par des Taïwanais suivant un cours de défense civile, version filmée de cette leçon de l’Académie Kuma
 
 ## Sources des images
 

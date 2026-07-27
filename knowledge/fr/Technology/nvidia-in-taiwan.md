@@ -272,14 +272,14 @@ Les noms sur le mur se multiplient. Le stylo passera-t-il entre ses propres main
 
 **Lectures complémentaires** :
 
-- [Jensen Huang : du garçon qui nettoyait les toilettes au gourou en blouson de cuir d’un empire de cinq billions](/people/黃仁勳) — La trajectoire personnelle du fondateur de NVIDIA, seulement esquissée ici ; son lien familial avec Tainan et son enfance y sont racontés
-- [L’industrie des semi-conducteurs](/technology/半導體產業) — Pourquoi Taïwan est devenue le centre mondial de la fabrication des puces ; la chaîne d’approvisionnement évoquée ici y est replacée dans un contexte plus complet
-- [Entreprise taïwanaise : TSMC](/economy/台灣企業：台積電) — La « montagne sacrée protectrice du pays » qui fabrique chaque puce NVIDIA, et son autre face, celle des ressources aspirées
-- [Morris Chang : le destinataire de cette lettre et l’homme qui a construit l’empire de la fonderie](/people/張忠謀) — L’homme qui a reçu la lettre de Jensen Huang en 1996, fondateur de TSMC
-- [Computex : comment le salon informatique de Taipei est devenu la cérémonie d’ouverture mondiale de l’IA](/technology/Computex) — La scène où le mur de logos s’est allumé, grand rendez-vous annuel de l’industrie technologique taïwanaise
-- [L’industrie de l’intelligence artificielle](/technology/AI人工智慧產業) — De la fabrication des puces NVIDIA à la construction d’un écosystème d’IA, la place de Taïwan dans la vague de l’IA
-- [Développement de l’intelligence artificielle à Taïwan et stratégies futures](/technology/台灣人工智慧發展與未來策略) — IA souveraine, TAIDE et ambition nationale de Taïwan pour remonter depuis la sous-traitance
-- [Entreprise taïwanaise : Hon Hai Precision](/economy/台灣企業：鴻海精密) — Le géant de la sous-traitance qui assemble 40 % des racks d’IA mondiaux, la plus grande paire de mains au bas de la courbe du sourire
+- [Jensen Huang : du garçon qui nettoyait les toilettes au gourou en blouson de cuir d’un empire de cinq billions](/fr/people/jensen-huang) — La trajectoire personnelle du fondateur de NVIDIA, seulement esquissée ici ; son lien familial avec Tainan et son enfance y sont racontés
+- [L’industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Pourquoi Taïwan est devenue le centre mondial de la fabrication des puces ; la chaîne d’approvisionnement évoquée ici y est replacée dans un contexte plus complet
+- [Entreprise taïwanaise : TSMC](/fr/economy/tsmc) — La « montagne sacrée protectrice du pays » qui fabrique chaque puce NVIDIA, et son autre face, celle des ressources aspirées
+- [Morris Chang : le destinataire de cette lettre et l’homme qui a construit l’empire de la fonderie](/fr/people/tsmc-morris-chang) — L’homme qui a reçu la lettre de Jensen Huang en 1996, fondateur de TSMC
+- [Computex : comment le salon informatique de Taipei est devenu la cérémonie d’ouverture mondiale de l’IA](/fr/technology/computex-taipei) — La scène où le mur de logos s’est allumé, grand rendez-vous annuel de l’industrie technologique taïwanaise
+- [L’industrie de l’intelligence artificielle](/fr/technology/artificial-intelligence-industry) — De la fabrication des puces NVIDIA à la construction d’un écosystème d’IA, la place de Taïwan dans la vague de l’IA
+- [Développement de l’intelligence artificielle à Taïwan et stratégies futures](/fr/technology/artificial-intelligence-development-strategy) — IA souveraine, TAIDE et ambition nationale de Taïwan pour remonter depuis la sous-traitance
+- [Entreprise taïwanaise : Hon Hai Precision](/fr/economy/foxconn-precision-industry) — Le géant de la sous-traitance qui assemble 40 % des racks d’IA mondiaux, la plus grande paire de mains au bas de la courbe du sourire
 
 ## Sources des images
 

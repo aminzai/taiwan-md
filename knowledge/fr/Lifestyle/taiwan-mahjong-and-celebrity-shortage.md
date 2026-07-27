@@ -149,9 +149,9 @@ Il n'a pas répondu.
 
 ## Pour aller plus loin
 
-- [L'industrie du jeu vidéo taïwanais et le divertissement numérique](/technology/台灣遊戲產業與數位娛樂) — Panorama complet du jeu vidéo taïwanais, de l'agence à la création originale
-- [Vie nocturne et culture du karaoké](/lifestyle/夜生活與KTV文化) — Un autre rituel social taïwanais
-- [La culture de la supérette taïwanaise](/lifestyle/台灣便利商店文化) — L'infrastructure quotidienne taïwanaise disponible 24 heures sur 24
+- [L'industrie du jeu vidéo taïwanais et le divertissement numérique](/fr/technology/taiwan-gaming-industry) — Panorama complet du jeu vidéo taïwanais, de l'agence à la création originale
+- [Vie nocturne et culture du karaoké](/fr/lifestyle/nightlife-and-ktv-culture) — Un autre rituel social taïwanais
+- [La culture de la supérette taïwanaise](/fr/lifestyle/convenience-store-culture) — L'infrastructure quotidienne taïwanaise disponible 24 heures sur 24
 
 ---
 

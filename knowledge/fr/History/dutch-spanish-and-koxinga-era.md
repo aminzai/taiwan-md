@@ -113,13 +113,13 @@ L’exotisme et la diversité culturelle arrivèrent à Taïwan par la mer et en
 
 **Pour aller plus loin** :
 
-- [Préhistoire et peuples autochtones](/history/史前時代與原住民) — Les sociétés autonomes déjà présentes sur l’île avant le débarquement des Néerlandais
-- [Période de domination Qing](/history/清治時期) — Les 212 années après 1683, durant lesquelles Taïwan passa d’une « petite préfecture » à une province
-- [Histoire du commerce maritime de Taïwan](/history/台灣海洋貿易史) — Le contexte complet des réseaux commerciaux, des Néerlandais à Tungning, puis à la domination Qing
-- [Histoire des peuples autochtones de Taïwan et mouvement de rectification des noms](/history/台灣原住民族歷史與正名運動) — Les peuples des plaines frappés par la vague migratoire han
-- [Perspective insulaire de l’histoire de Taïwan](/history/台灣島史觀) — La conception historique de Cao Yonghe centrée sur l’île comme sujet, fil conducteur de cette période
-- [Formose](/history/福爾摩沙) — Les débats sur l’origine du nom « Formosa » et la manière dont les Occidentaux ont écrit cette île pendant quatre siècles
-- [Musée national d’histoire de Taïwan](/society/國立臺灣歷史博物館) — La section 3 de l’exposition permanente du NMTH, « Une île et des hommes vivant avec la mer », ainsi que l’exposition internationale 2024 « Traverser 1624 », présentent directement cette période ; 1624 est l’année où la Compagnie néerlandaise des Indes orientales établit le fort Zeelandia à Tayouan
+- [Préhistoire et peuples autochtones](/fr/history/prehistoric-era-and-indigenous-peoples) — Les sociétés autonomes déjà présentes sur l’île avant le débarquement des Néerlandais
+- [Période de domination Qing](/fr/history/qing-dynasty-rule) — Les 212 années après 1683, durant lesquelles Taïwan passa d’une « petite préfecture » à une province
+- [Histoire du commerce maritime de Taïwan](/fr/history/taiwan-maritime-trade-history) — Le contexte complet des réseaux commerciaux, des Néerlandais à Tungning, puis à la domination Qing
+- [Histoire des peuples autochtones de Taïwan et mouvement de rectification des noms](/fr/history/indigenous-peoples-history-and-naming-movement) — Les peuples des plaines frappés par la vague migratoire han
+- [Perspective insulaire de l’histoire de Taïwan](/fr/history/taiwan-island-historiography) — La conception historique de Cao Yonghe centrée sur l’île comme sujet, fil conducteur de cette période
+- [Formose](/fr/history/formosa-historical-name) — Les débats sur l’origine du nom « Formosa » et la manière dont les Occidentaux ont écrit cette île pendant quatre siècles
+- [Musée national d’histoire de Taïwan](/fr/society/national-museum-of-taiwan-history) — La section 3 de l’exposition permanente du NMTH, « Une île et des hommes vivant avec la mer », ainsi que l’exposition internationale 2024 « Traverser 1624 », présentent directement cette période ; 1624 est l’année où la Compagnie néerlandaise des Indes orientales établit le fort Zeelandia à Tayouan
 
 ## Références
 

@@ -245,6 +245,6 @@ L'eau est source de vie et fondement du développement économique. Sur cette be
 
 Lectures complémentaires :
 
-- [Systèmes fluviaux et caractéristiques hydrologiques de Taïwan](/geography/台灣河川系統與水文特色)
-- [Climat](/geography/氣候)
-- [Tectonique des plaques et activité sismique à Taïwan](/geography/台灣板塊運動與地震活動)
+- [Systèmes fluviaux et caractéristiques hydrologiques de Taïwan](/fr/geography/taiwan-river-systems-and-hydrology)
+- [Climat](/fr/geography/climate)
+- [Tectonique des plaques et activité sismique à Taïwan](/fr/geography/tectonic-plates-and-seismic-activity)

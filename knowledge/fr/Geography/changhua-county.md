@@ -208,16 +208,16 @@ La prochaine fois que vous irez à Changhua, ne vous contentez pas de flâner da
 
 ## Pour aller plus loin
 
-- [Culture des vieilles rues et quartiers commerçants de Taïwan](/culture/台灣老街文化與商業街區) — Contexte comparatif entre la forme de rue commerçante portuaire Qing de la vieille rue de Lukang et les autres vieilles rues taïwanaises
-- [Système fluvial et caractéristiques hydrologiques de Taïwan](/geography/台灣河川系統與水文特色) — Comment la Zhuoshui et la Dadu ont façonné la plaine de Changhua, et l'arrière-plan hydrologique du canal Babao
-- [Paysages agricoles et répartition industrielle de Taïwan](/geography/台灣農業地景與產業分布) — La place de Changhua, grand comté agricole, dans la carte agricole de Taïwan
-- [Divisions administratives de Taïwan](/geography/台灣行政區劃) — Évolution administrative complète : création du comté en 1723, intégration à la préfecture de Taichung en 1920, rétablissement du comté de Changhua en 1945
-- [Mouvements sociaux et participation citoyenne](/society/社會運動與公民參與) — Place de l'incident d'Erlin de 1925 et du mouvement anti-DuPont de 1986 dans l'histoire des mouvements sociaux taïwanais
-- [Protection de l'environnement et développement durable](/society/環保與永續發展) — Le mouvement anti-DuPont de Lukang en 1986 comme point de départ du premier mouvement écologiste taïwanais
-- [Culture taïwanaise des pâtisseries](/food/台灣糕餅文化) — Origines du ba-wan de Beidou en 1898 et transmission centenaire des pâtisseries de Lukang
-- [Taiwan Sugar](/economy/台糖) — La Lin Ben Yuan Sugar Co. et l'empire sucrier de l'époque japonaise derrière l'incident d'Erlin de 1925
-- [Ville de Keelung](/geography/基隆市) — Dans la série des 22 villes et comtés, une autre ville façonnée par son port ; comparaison entre deux types de « villes portuaires en déclin » et leurs lignes de fracture
-- [Comté de Hsinchu](/geography/新竹縣) — Série des 22 villes et comtés : des villages hakka autour d'un parc scientifique, formant avec le grand comté agricole de Changhua deux structures démographiques différentes à l'intérieur du corridor central
+- [Culture des vieilles rues et quartiers commerçants de Taïwan](/fr/culture/taiwan-historic-streets-and-commercial-districts) — Contexte comparatif entre la forme de rue commerçante portuaire Qing de la vieille rue de Lukang et les autres vieilles rues taïwanaises
+- [Système fluvial et caractéristiques hydrologiques de Taïwan](/fr/geography/taiwan-river-systems-and-hydrology) — Comment la Zhuoshui et la Dadu ont façonné la plaine de Changhua, et l'arrière-plan hydrologique du canal Babao
+- [Paysages agricoles et répartition industrielle de Taïwan](/fr/geography/taiwan-agricultural-landscapes-and-industry-belts) — La place de Changhua, grand comté agricole, dans la carte agricole de Taïwan
+- [Divisions administratives de Taïwan](/fr/geography/administrative-divisions-of-taiwan) — Évolution administrative complète : création du comté en 1723, intégration à la préfecture de Taichung en 1920, rétablissement du comté de Changhua en 1945
+- [Mouvements sociaux et participation citoyenne](/fr/society/social-movements-and-civic-participation) — Place de l'incident d'Erlin de 1925 et du mouvement anti-DuPont de 1986 dans l'histoire des mouvements sociaux taïwanais
+- [Protection de l'environnement et développement durable](/fr/society/environmental-awakening-and-net-zero-transition) — Le mouvement anti-DuPont de Lukang en 1986 comme point de départ du premier mouvement écologiste taïwanais
+- [Culture taïwanaise des pâtisseries](/fr/food/taiwan-pastry-culture) — Origines du ba-wan de Beidou en 1898 et transmission centenaire des pâtisseries de Lukang
+- [Taiwan Sugar](/fr/economy/taiwan-sugar) — La Lin Ben Yuan Sugar Co. et l'empire sucrier de l'époque japonaise derrière l'incident d'Erlin de 1925
+- [Ville de Keelung](/fr/geography/keelung-city) — Dans la série des 22 villes et comtés, une autre ville façonnée par son port ; comparaison entre deux types de « villes portuaires en déclin » et leurs lignes de fracture
+- [Comté de Hsinchu](/fr/geography/hsinchu-county) — Série des 22 villes et comtés : des villages hakka autour d'un parc scientifique, formant avec le grand comté agricole de Changhua deux structures démographiques différentes à l'intérieur du corridor central
 
 ## Sources des images
 

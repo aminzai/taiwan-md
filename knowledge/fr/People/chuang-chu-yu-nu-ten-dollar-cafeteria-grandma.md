@@ -62,8 +62,8 @@ Aujourd'hui, le fils aîné Chuang Ji-hsiung a officiellement fondé l'« Associ
 
 ## Pour aller plus loin
 
-- [Culture du bénévolat et engagement social à Taïwan](/society/台灣志工文化與公益參與) — Comprendre les racines à long terme de l'action sociale taïwanaise, entre institutions et initiatives citoyennes.
-- [Cuisine des villages de militaires à Taïwan](/food/台灣眷村菜) — Un regard sur la façon dont la cuisine populaire se forge dans la mobilité, la pauvreté et l'entraide communautaire.
+- [Culture du bénévolat et engagement social à Taïwan](/fr/society/volunteering-and-civic-charity-in-taiwan) — Comprendre les racines à long terme de l'action sociale taïwanaise, entre institutions et initiatives citoyennes.
+- [Cuisine des villages de militaires à Taïwan](/fr/food/military-dependents-village-cuisine) — Un regard sur la façon dont la cuisine populaire se forge dans la mobilité, la pauvreté et l'entraide communautaire.
 
 ## Références
 

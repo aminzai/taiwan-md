@@ -216,11 +216,11 @@ Et maintenant, au-dessus de cette gorge sans nom près de la source du fleuve Da
 
 **Pour aller plus loin** :
 
-- [Chouette-pêcheuse brune](/nature/黃魚鴞) — Elle dépend elle aussi des vieux arbres géants de moyenne altitude et des cours d’eau non bétonnés ; le plus grand hibou de Taïwan vit également dans l’interstice où « les arbres géants ne sont pas encore tombés » et « les rivières n’ont pas encore été aménagées »
-- [Saumon masou de Formose](/nature/櫻花鉤吻鮭) — Un autre survivant relique de l’âge glaciaire, caché lui aussi dans le bassin du Qijiawan, à Shei-Pa
-- [Ours noir de Taïwan](/nature/台灣黑熊) — Lui aussi dépend de vastes forêts primaires peu fréquentées, autre indicateur de l’intégrité des forêts montagneuses taïwanaises
-- [Écosystèmes forestiers de Taïwan](/nature/台灣森林生態系) — Les coordonnées écologiques des forêts de nuages, des cinq conifères précieux et des arbres géants ; l’épée Yitian en est le point culminant
-- [Parcs nationaux de Taïwan](/nature/台灣國家公園) — Le parc national de Shei-Pa et les territoires relevant de l’Agence des forêts et de la conservation de la nature sont les derniers refuges de ces arbres géants
+- [Chouette-pêcheuse brune](/fr/nature/tawny-fish-owl) — Elle dépend elle aussi des vieux arbres géants de moyenne altitude et des cours d’eau non bétonnés ; le plus grand hibou de Taïwan vit également dans l’interstice où « les arbres géants ne sont pas encore tombés » et « les rivières n’ont pas encore été aménagées »
+- [Saumon masou de Formose](/fr/nature/formosan-landlocked-salmon) — Un autre survivant relique de l’âge glaciaire, caché lui aussi dans le bassin du Qijiawan, à Shei-Pa
+- [Ours noir de Taïwan](/fr/nature/taiwanese-black-bear) — Lui aussi dépend de vastes forêts primaires peu fréquentées, autre indicateur de l’intégrité des forêts montagneuses taïwanaises
+- [Écosystèmes forestiers de Taïwan](/fr/nature/taiwan-forest-ecosystems) — Les coordonnées écologiques des forêts de nuages, des cinq conifères précieux et des arbres géants ; l’épée Yitian en est le point culminant
+- [Parcs nationaux de Taïwan](/fr/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Le parc national de Shei-Pa et les territoires relevant de l’Agence des forêts et de la conservation de la nature sont les derniers refuges de ces arbres géants
 
 ## Références
 

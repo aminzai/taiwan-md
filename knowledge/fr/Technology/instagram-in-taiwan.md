@@ -69,9 +69,9 @@ Et l'essor du « Cui » illustre peut-être une chose : quand les filtres sont d
 
 **Pour aller plus loin** :
 
-- [Facebook : De la folie FarmVille au double tranchant de la démocratie numérique](/technology/Facebook) — L'autre terrain de Meta à Taïwan, de _Happy Farm_ en 2009 aux controverses de modération en 2025, un contexte nécessaire pour comprendre la stratégie de Meta à Taïwan.
-- [Threads à Taïwan](/technology/Threads在台灣) — Le « Cui » jumeau d'IG, comment il est passé de zéro à la troisième plateforme taïwanaise en 2024, et sa relation de symbiose et de compétition avec IG.
-- [Histoire des migrations des communautés en ligne à Taïwan](/technology/台灣網路社群遷徙史) — De BBS, Wimbo, Plurk à Facebook, IG et Threads, l'histoire des déplacements collectifs des internautes taïwanais offre une perspective de long terme pour comprendre le déclin d'IG.
+- [Facebook : De la folie FarmVille au double tranchant de la démocratie numérique](/fr/technology/facebook-in-taiwan) — L'autre terrain de Meta à Taïwan, de _Happy Farm_ en 2009 aux controverses de modération en 2025, un contexte nécessaire pour comprendre la stratégie de Meta à Taïwan.
+- [Threads à Taïwan](/fr/technology/threads-in-taiwan) — Le « Cui » jumeau d'IG, comment il est passé de zéro à la troisième plateforme taïwanaise en 2024, et sa relation de symbiose et de compétition avec IG.
+- [Histoire des migrations des communautés en ligne à Taïwan](/fr/technology/taiwan-online-community-migration) — De BBS, Wimbo, Plurk à Facebook, IG et Threads, l'histoire des déplacements collectifs des internautes taïwanais offre une perspective de long terme pour comprendre le déclin d'IG.
 
 ## Références
 

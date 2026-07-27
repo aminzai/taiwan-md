@@ -141,9 +141,9 @@ Sept ans, c'est si court, et pourtant les spores ont duré trente ans. La procha
 
 **Lectures complémentaires :**
 
-- [L'art contemporain à Taïwan](/art/當代藝術) — Le contexte global du développement de l'art contemporané taïwanais après la levée de la loi martiale ; le Nouvel Écologique est un nœud représentatif du sud de Taïwan à cette période.
-- [Curateurs taïwanais et construction de la culture artistique](/art/台灣策展人與藝術文化建構) — Le processus de localisation des concepts de commissariat d'exposition à Taïlan dans les années 90 ; Zheng Ming-quan est un exemple parmi d'autres.
-- [Nouveaux médias artistiques à Taïwan](/art/台灣新媒體藝術) — L'initiative « Expérience Locale » (ET@T) lancée par Huang Wen-hao à la même époque, un cas parallèle de 1995.
+- [L'art contemporain à Taïwan](/fr/art/contemporary-art) — Le contexte global du développement de l'art contemporané taïwanais après la levée de la loi martiale ; le Nouvel Écologique est un nœud représentatif du sud de Taïwan à cette période.
+- [Curateurs taïwanais et construction de la culture artistique](/fr/art/taiwanese-curators-and-artistic-cultural-construction) — Le processus de localisation des concepts de commissariat d'exposition à Taïlan dans les années 90 ; Zheng Ming-quan est un exemple parmi d'autres.
+- [Nouveaux médias artistiques à Taïwan](/fr/art/taiwan-new-media-art) — L'initiative « Expérience Locale » (ET@T) lancée par Huang Wen-hao à la même époque, un cas parallèle de 1995.
 
 ## Sources des images
 

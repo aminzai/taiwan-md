@@ -222,11 +222,11 @@ Il avait 76 ans.
 
 **À lire également** :
 
-- [Xu Zhuoyun : deux doigts pour écrire le fleuve long de l'histoire chinoise](/people/許倬雲) — lauréat du prix de sinologie de la sixième édition du Tang Prize en 2024, qui a fait don de la totalité de ses 50 millions de dollars taïwanais pour créer la « bourse Xu-Sun »
-- [Morris Chang](/people/張忠謀) — figure de la même génération dans l'industrie taïwanaise, académicien de l'ITRI et fondateur de TSMC
-- [Stan Shih](/people/施振榮) — homme d'affaires devenu philanthrope de la même génération, fondateur d'Acer
-- [Wang Yung-ching](/people/王永慶) — figure de la génération précédente dans l'industrie taïwanaise, fondateur de Formosa Plastics et de l'hôpital Chang Gung, pionnier de dons d'une ampleur comparable
-- [Défense et modernisation militaire de Taïwan](/society/台灣國防與軍事現代化) — un autre axe de la préservation de la souveraineté taïwanaise
+- [Xu Zhuoyun : deux doigts pour écrire le fleuve long de l'histoire chinoise](/fr/people/cho-yun-hsu-bridging-historian) — lauréat du prix de sinologie de la sixième édition du Tang Prize en 2024, qui a fait don de la totalité de ses 50 millions de dollars taïwanais pour créer la « bourse Xu-Sun »
+- [Morris Chang](/fr/people/tsmc-morris-chang) — figure de la même génération dans l'industrie taïwanaise, académicien de l'ITRI et fondateur de TSMC
+- [Stan Shih](/fr/people/stan-shih) — homme d'affaires devenu philanthrope de la même génération, fondateur d'Acer
+- [Wang Yung-ching](/fr/people/yung-ching-wang-formosa-plastics-founder) — figure de la génération précédente dans l'industrie taïwanaise, fondateur de Formosa Plastics et de l'hôpital Chang Gung, pionnier de dons d'une ampleur comparable
+- [Défense et modernisation militaire de Taïwan](/fr/society/taiwan-defense-modernization) — un autre axe de la préservation de la souveraineté taïwanaise
 
 ## Sources des images
 
@@ -300,7 +300,7 @@ Cet article utilise 5 images sous licence CC BY ou données ouvertes gouvernemen
 
 [^30]: [Jane Goodall, lauréate du prix de développement durable du Tang Prize 2020](https://www.gbimonthly.com/2020/06/72629/) — Reportage de Global Biotech & Monthly 2020, documentant les contributions scientifiques de Jane Goodall et le contexte de son prix.
 
-[^31]: [Xu Zhuoyun, lauréat du prix de sinologie du Tang Prize 2024](https://www.tang-prize.org/owner.php?Lang=tw) — Page officielle de la fondation éducative Tang Prize pour le lauréat du prix de sinologie de la sixième édition, documentant les contributions académiques de Xu Zhuoyun et les motifs de sa sélection ; voir aussi l'article approfondi correspondant : [Xu Zhuoyun : deux doigts pour écrire le fleuve long de l'histoire chinoise](/people/許倬雲).
+[^31]: [Xu Zhuoyun, lauréat du prix de sinologie du Tang Prize 2024](https://www.tang-prize.org/owner.php?Lang=tw) — Page officielle de la fondation éducative Tang Prize pour le lauréat du prix de sinologie de la sixième édition, documentant les contributions académiques de Xu Zhuoyun et les motifs de sa sélection ; voir aussi l'article approfondi correspondant : [Xu Zhuoyun : deux doigts pour écrire le fleuve long de l'histoire chinoise](/fr/people/cho-yun-hsu-bridging-historian).
 
 [^32]: [Affaire des comptes secrets de la sécurité nationale 2012 : sursis d'un an et versement de 10 millions](https://www.ettoday.net/news/20120806/1542044.htm) — Reportage ETtoday du 6 août 2012, documentant le plaidoyer de culpabilité de Samuel Yin à l'audience, le versement volontaire de 10 millions de dollars taïwanais au Trésor public, le sursis d'un an, et les chefs d'accusation (violation de la loi sur la comptabilité commerciale et falsification de documents).
 

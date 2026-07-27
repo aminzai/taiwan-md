@@ -214,10 +214,10 @@ La montagne de Brokeback n’a jamais été déplacée. Ce père qui s’opposa 
 
 **Pour aller plus loin** :
 
-- [Cinéma taïwanais](/art/台灣電影) — Le fil complet allant des films en taïwanais au réalisme sain, puis à la Nouvelle Vague taïwanaise et au cinéma contemporain : la tradition qu’Ang Lee a reçue avant de la porter vers l’extérieur
-- [Hou Hsiao-hsien](/people/侯孝賢) — Figure de proue de la Nouvelle Vague taïwanaise de la même génération, qui choisit une voie d’auteur radicalement différente de celle d’Ang Lee
-- [Edward Yang](/people/楊德昌) — Le réalisateur qui anatomisa l’angoisse moderne de Taïwan à travers une ville, autre sommet de la Nouvelle Vague taïwanaise
-- [Tsai Ming-liang](/people/蔡明亮) — Auteur taïwanais qui poussa la solitude et la lenteur à l’extrême, à l’opposé du chemin hollywoodien d’Ang Lee
+- [Cinéma taïwanais](/fr/art/taiwanese-cinema) — Le fil complet allant des films en taïwanais au réalisme sain, puis à la Nouvelle Vague taïwanaise et au cinéma contemporain : la tradition qu’Ang Lee a reçue avant de la porter vers l’extérieur
+- [Hou Hsiao-hsien](/fr/people/hou-hsiao-hsien) — Figure de proue de la Nouvelle Vague taïwanaise de la même génération, qui choisit une voie d’auteur radicalement différente de celle d’Ang Lee
+- [Edward Yang](/fr/people/yang-dechang) — Le réalisateur qui anatomisa l’angoisse moderne de Taïwan à travers une ville, autre sommet de la Nouvelle Vague taïwanaise
+- [Tsai Ming-liang](/fr/people/tsai-ming-liang) — Auteur taïwanais qui poussa la solitude et la lenteur à l’extrême, à l’opposé du chemin hollywoodien d’Ang Lee
 
 ## Sources des images
 

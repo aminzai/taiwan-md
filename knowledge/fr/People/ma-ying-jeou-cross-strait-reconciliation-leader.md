@@ -200,11 +200,11 @@ La poignée de main de 80 secondes au Shangri-La de Singapour a duré 1 minute 2
 
 **Pour aller plus loin** :
 
-- [Mouvement étudiant des Tournesols](/society/太陽花學運) — comment l'occupation de l'hémicycle du 18 mars au 10 avril 2014 est passée d'un mouvement contre l'accord sur les services à un rite de passage vers l'âge adulte pour la société civile taïwanaise
-- [Tsai Ing-wen](/people/蔡英文) — la dirigeante qui lui succède, son adversaire dans le débat ECFA de 2010 et l'intégratrice du camp d'opposition après les Tournesols
-- [Chen Shui-bian](/people/陳水扁) — son adversaire dans l'élection municipale de Taipei en 1998 et le dirigeant de l'alternance politique de 2000
-- [Mèmes de Ma Ying-jeou](/society/馬英九迷因) — bois de cerf, boîtes-repas, logements permanents de Provence, poignée de main mortelle : comment 19 mèmes Internet sont devenus l'autre visage de son image publique
-- [Crises du détroit de Taïwan et développement des relations entre les deux rives](/history/台海危機與兩岸關係發展) — la place de la rencontre Ma-Xi et de l'ECFA dans la longue durée des relations du détroit
+- [Mouvement étudiant des Tournesols](/fr/society/sunflower-movement) — comment l'occupation de l'hémicycle du 18 mars au 10 avril 2014 est passée d'un mouvement contre l'accord sur les services à un rite de passage vers l'âge adulte pour la société civile taïwanaise
+- [Tsai Ing-wen](/fr/people/tsai-ing-wen) — la dirigeante qui lui succède, son adversaire dans le débat ECFA de 2010 et l'intégratrice du camp d'opposition après les Tournesols
+- [Chen Shui-bian](/fr/people/chen-shui-bian-controversial-president) — son adversaire dans l'élection municipale de Taipei en 1998 et le dirigeant de l'alternance politique de 2000
+- [Mèmes de Ma Ying-jeou](/fr/society/ma-ying-jeou-meme) — bois de cerf, boîtes-repas, logements permanents de Provence, poignée de main mortelle : comment 19 mèmes Internet sont devenus l'autre visage de son image publique
+- [Crises du détroit de Taïwan et développement des relations entre les deux rives](/fr/history/taiwan-strait-crises-and-cross-strait-relations) — la place de la rencontre Ma-Xi et de l'ECFA dans la longue durée des relations du détroit
 
 ---
 

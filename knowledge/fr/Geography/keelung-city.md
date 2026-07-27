@@ -188,19 +188,19 @@ La prochaine fois que vous irez à Keelung, ne vous contentez pas de visiter Mia
 
 ## Pour aller plus loin
 
-- [Développement urbain et disparités rurales-urbaines à Taïwan](/geography/台灣都市發展與城鄉差距) — Keelung en tant que « port en déclin » dans la structure urbaine nationale, à une échelle plus large
-- [Divisions administratives de Taïwan](/geography/台灣行政區劃) — Chronologie administrative : changement de nom par Shen Baozhen en 1875, élévation au rang de ville en 1924, passage en ville provinciale en 1945
-- [Caractéristiques urbaines et culture régionale](/geography/城市特色與區域文化) — Keelung dans le contexte comparatif avec les autres villes et comtés
-- [Jingoueshi](/geography/金瓜石) — La plus grande industrie de l'arrière-pays du port de Keelung : en 1932, le téléphérique de Shuiandong acheminait l'or vers le port de pêche de Zhengbin pour être chargé sur des navires à destination du Japon
-- [Yehliu](/geography/野柳) — Appartenant à la même ceinture géologique de la côte nord
-- [Relief côtier et paysages marins de Taïwan](/geography/台灣海岸地形與海洋地景) — Formation de l'île de Keelung et du volcanisme de Keelung
-- [Ville de Chiayi](/geography/嘉義市) — Une autre ville provinciale de taille moyenne de la série des 22 villes et comtés, également écrasée par le cadre de la capitale, pour comparer deux lignes de faille différentes
-- [Comté de Lienchiang](/geography/連江縣) — Série des 22 villes et comtés : le ferry Taïwan-Matsu met 8 à 10 heures pour aller du port de Keelung à Nangan. Keelung est le point de liaison physique entre les îles Matsu et l'île principale de Taïwan
-- [Comté de Miaoli](/geography/苗栗縣) — Série des 22 villes et comtés : le paradoxe de l'entêtée culture hakka face au comté cinq étoiles, juxtaposé à Keelung « invisible pour la capitale », deux visages de la politique locale
-- [Comté de Penghu](/geography/澎湖縣) — Série des 22 villes et comtés : l'île qui a deux fois refusé les casinos, un choix de souveraineté insulaire, également un point de départ portuaire oublié comme Keelung
-- [Comté de Yilan](/geography/宜蘭縣) — Série des 22 villes et comtés : les deux Yilan, avant et après le tunnel de Xueshan, confrontés au même destin d'être « trop proches de la capitale » que Keelung
-- [Comté de Pingtung](/geography/屏東縣) — Série des 22 villes et comtés : le point de départ de l'incident de Mudan en 1874 qui a changé le destin de Taïwan / la zone sinistrée de Linbian submergée pendant un mois lors de la tempête Morakot en 2009, également un « nœud clé manqué par le récit central » comme Keelung
-- [Comté de Kinmen](/geography/金門縣) — Série des 22 villes et comtés : les 56 heures de la bataille de Guningtou en 1949 qui ont déterminé le destin de Kinmen pour 75 ans et celui de Taïwan / les 474 910 obus tirés en 44 jours lors de la crise du 23 août 1958, une autre version du « front de guerre froide et chaude » avec Keelung
+- [Développement urbain et disparités rurales-urbaines à Taïwan](/fr/geography/taiwan-urban-development-and-rural-urban-divide) — Keelung en tant que « port en déclin » dans la structure urbaine nationale, à une échelle plus large
+- [Divisions administratives de Taïwan](/fr/geography/administrative-divisions-of-taiwan) — Chronologie administrative : changement de nom par Shen Baozhen en 1875, élévation au rang de ville en 1924, passage en ville provinciale en 1945
+- [Caractéristiques urbaines et culture régionale](/fr/geography/urban-character-and-regional-culture) — Keelung dans le contexte comparatif avec les autres villes et comtés
+- [Jingoueshi](/fr/geography/jinguashi) — La plus grande industrie de l'arrière-pays du port de Keelung : en 1932, le téléphérique de Shuiandong acheminait l'or vers le port de pêche de Zhengbin pour être chargé sur des navires à destination du Japon
+- [Yehliu](/fr/geography/yehliu-geopark) — Appartenant à la même ceinture géologique de la côte nord
+- [Relief côtier et paysages marins de Taïwan](/fr/geography/taiwan-coastal-landforms-and-seascapes) — Formation de l'île de Keelung et du volcanisme de Keelung
+- [Ville de Chiayi](/fr/geography/chiayi-city) — Une autre ville provinciale de taille moyenne de la série des 22 villes et comtés, également écrasée par le cadre de la capitale, pour comparer deux lignes de faille différentes
+- [Comté de Lienchiang](/fr/geography/lienchiang-county) — Série des 22 villes et comtés : le ferry Taïwan-Matsu met 8 à 10 heures pour aller du port de Keelung à Nangan. Keelung est le point de liaison physique entre les îles Matsu et l'île principale de Taïwan
+- [Comté de Miaoli](/fr/geography/miaoli-county) — Série des 22 villes et comtés : le paradoxe de l'entêtée culture hakka face au comté cinq étoiles, juxtaposé à Keelung « invisible pour la capitale », deux visages de la politique locale
+- [Comté de Penghu](/fr/geography/penghu-county) — Série des 22 villes et comtés : l'île qui a deux fois refusé les casinos, un choix de souveraineté insulaire, également un point de départ portuaire oublié comme Keelung
+- [Comté de Yilan](/fr/geography/yilan-county) — Série des 22 villes et comtés : les deux Yilan, avant et après le tunnel de Xueshan, confrontés au même destin d'être « trop proches de la capitale » que Keelung
+- [Comté de Pingtung](/fr/geography/pingtung-county) — Série des 22 villes et comtés : le point de départ de l'incident de Mudan en 1874 qui a changé le destin de Taïwan / la zone sinistrée de Linbian submergée pendant un mois lors de la tempête Morakot en 2009, également un « nœud clé manqué par le récit central » comme Keelung
+- [Comté de Kinmen](/fr/geography/kinmen-county) — Série des 22 villes et comtés : les 56 heures de la bataille de Guningtou en 1949 qui ont déterminé le destin de Kinmen pour 75 ans et celui de Taïwan / les 474 910 obus tirés en 44 jours lors de la crise du 23 août 1958, une autre version du « front de guerre froide et chaude » avec Keelung
 
 ## Crédits photographiques
 

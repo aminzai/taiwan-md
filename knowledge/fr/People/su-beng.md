@@ -122,9 +122,9 @@ Quel que soit le camp, il est rare de contester sa constance. De la désillusion
 
 **Lectures complémentaires** :
 
-- [Spectre politique Taïwan‑indépendance](/society/台灣統獨光譜) — Comprendre la position de Su Beng dans le spectre politique taïwanais.
-- [Événement du 28 février](/history/二二八事件) — Le traumatisme historique qui a conduit Su Beng à la résistance armée.
-- [Terreur blanche à Taïwan](/history/台灣白色恐怖) — Contexte de l’« affaire Independent Taiwan Society » et de l’exil de Su Beng.
+- [Spectre politique Taïwan‑indépendance](/fr/society/taiwan-unification-independence-spectrum) — Comprendre la position de Su Beng dans le spectre politique taïwanais.
+- [Événement du 28 février](/fr/history/228-incident) — Le traumatisme historique qui a conduit Su Beng à la résistance armée.
+- [Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — Contexte de l’« affaire Independent Taiwan Society » et de l’exil de Su Beng.
 
 ## Sources d’images
 

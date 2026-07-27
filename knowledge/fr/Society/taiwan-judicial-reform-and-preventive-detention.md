@@ -197,9 +197,9 @@ La prochaine fois que le Yuan législatif élargira cet article — que ce soit 
 
 ## Pour aller plus loin
 
-- [Le système démocratique taïwanais](/society/民主制度) — L'élargissement ou non du régime de détention préventive relève en dernière instance du jugement collectif d'une démocratie sur « le pouvoir de l'État vs. la liberté individuelle ».
-- [Droits humains et égalité des genres](/society/人權與性別平等) — L'inclusion de l'exploitation sexuelle des mineurs et du harcèlement sexuel dans la détention préventive s'inscrit dans le mouvement de lutte contre la violence de genre.
-- [La controverse sur les médicaments vétérinaires à Taïwan](/society/台灣動物用藥爭議) — Une autre question de « transparence institutionnelle », illustrant la tension entre expertise et démocratie dans la gouvernance taïwanaise.
+- [Le système démocratique taïwanais](/fr/society/democratic-system) — L'élargissement ou non du régime de détention préventive relève en dernière instance du jugement collectif d'une démocratie sur « le pouvoir de l'État vs. la liberté individuelle ».
+- [Droits humains et égalité des genres](/fr/society/human-rights-and-gender-equality) — L'inclusion de l'exploitation sexuelle des mineurs et du harcèlement sexuel dans la détention préventive s'inscrit dans le mouvement de lutte contre la violence de genre.
+- [La controverse sur les médicaments vétérinaires à Taïwan](/fr/society/taiwan-animal-drug-controversy) — Une autre question de « transparence institutionnelle », illustrant la tension entre expertise et démocratie dans la gouvernance taïwanaise.
 
 ## Références
 

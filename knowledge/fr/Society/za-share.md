@@ -139,12 +139,12 @@ Su Yang-chih told [INSIDE Side Chat E376](https://www.inside.com.tw/feature/side
 
 **Further Reading**:
 
-- [Education System and Academic Advancement Culture](/society/教育制度與升學文化) — The object of Za School's rebellion: How Taiwan's academic advancementism is structurally replicated
-- [Teach For Taiwan (TFT)](/society/為台灣而教TFT) — Alternative education startups after the 318 Student Movement; the organizational recruitment route of TFT and the carnival route of Za School are two different curation methods
-- [The Birth of a Teacher: Taiwan's Teacher Training System](/society/一個教師的誕生：台灣師資培育制度) — How system-internal teachers are cultivated; how to place Za School's "Principal" identity in this control group
-- [Sunflower Student Movement](/society/太陽花學運) — The historical background of Za School: How the 318 Student Movement continued as out-of-system social practice after dispersing from the streets
-- [Complex Life Festival](/society/複雜生活節) — The version of "deliberately staying small" from the same wave of 318 energy: the 8th-grade "Failed Forum" with two or three hundred people, compared with Za School growing into Asia's largest education carnival, are two curation choices of intimacy and scale
-- [Rural Education in Taiwan](/society/台灣偏鄉教育) — Another main line of educational inequality, forming the two ends of Taiwan's education with Za School's "alternative" position
+- [Education System and Academic Advancement Culture](/fr/society/education-system-and-admissions-culture) — The object of Za School's rebellion: How Taiwan's academic advancementism is structurally replicated
+- [Teach For Taiwan (TFT)](/fr/society/teach-for-taiwan) — Alternative education startups after the 318 Student Movement; the organizational recruitment route of TFT and the carnival route of Za School are two different curation methods
+- [The Birth of a Teacher: Taiwan's Teacher Training System](/fr/society/becoming-a-teacher-taiwan-teacher-training) — How system-internal teachers are cultivated; how to place Za School's "Principal" identity in this control group
+- [Sunflower Student Movement](/fr/society/sunflower-movement) — The historical background of Za School: How the 318 Student Movement continued as out-of-system social practice after dispersing from the streets
+- [Complex Life Festival](/fr/society/complex-life-festival) — The version of "deliberately staying small" from the same wave of 318 energy: the 8th-grade "Failed Forum" with two or three hundred people, compared with Za School growing into Asia's largest education carnival, are two curation choices of intimacy and scale
+- [Rural Education in Taiwan](/fr/society/taiwan-rural-education) — Another main line of educational inequality, forming the two ends of Taiwan's education with Za School's "alternative" position
 
 ## References
 

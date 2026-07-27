@@ -124,9 +124,9 @@ Au sous-sol du 286, Linsen North Road, au Two Three Comedy Club, Tseng anime tou
 
 **Pour aller plus loin** :
 
-- [Tsai Ing-wen](/people/蔡英文) — la première candidate présidentielle à entrer dans le studio de _The Night Night Show_ en 2019
-- [Han Kuo-yu](/people/韓國瑜) — l’inconnu le plus familier de la même saison, dont la seule exigence était qu’on ne plaisante pas sur sa coiffure
-- [Nylon Cheng](/people/鄭南榕) — militant dangwai qui s’est immolé par le feu en 1989 pour une liberté d’expression à 100 %, et qui devient en 2019 le point de départ des mauvais calculs de Brian Tseng
+- [Tsai Ing-wen](/fr/people/tsai-ing-wen) — la première candidate présidentielle à entrer dans le studio de _The Night Night Show_ en 2019
+- [Han Kuo-yu](/fr/people/han-kuo-yu) — l’inconnu le plus familier de la même saison, dont la seule exigence était qu’on ne plaisante pas sur sa coiffure
+- [Nylon Cheng](/fr/people/zheng-nanrong) — militant dangwai qui s’est immolé par le feu en 1989 pour une liberté d’expression à 100 %, et qui devient en 2019 le point de départ des mauvais calculs de Brian Tseng
 
 ## Sources des images
 

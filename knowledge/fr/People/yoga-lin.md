@@ -118,11 +118,11 @@ Cette lettre de démission écrite par son corps, il l'a finalement reçue avec 
 
 **Pour aller plus loin :**
 
-- [Waa Wei](/people/魏如萱) — Chanteuse de la même génération, double lauréate du Golden Melody Award de la meilleure chanteuse, vingt ans entre le groupe Natural Q et être prise pour une « passante » dans la rue
-- [Chang Yu-sheng](/people/張雨生) — Un autre cas précoce de tension entre les statuts d'« idole » et de « musicien » dans la musique pop sinophone
-- [Chen Jianqi](/people/陳建騏) — Producteur, gardien des frontières sonores de la musique pop sinophone
-- [Enno Cheng](/people/鄭宜農) — Chanteuse-compositrice de la même génération, écrit les chansons les plus honnêtes dans la langue la plus étrangère
-- [Variétés taïwanaises](/culture/台灣綜藝) — Histoire de la fabrication de stars par la télévision à Taïwan, du _Chorale Club_ (群星會) à _One Million Star_ en un demi-siècle
+- [Waa Wei](/fr/people/waa-wei-singer) — Chanteuse de la même génération, double lauréate du Golden Melody Award de la meilleure chanteuse, vingt ans entre le groupe Natural Q et être prise pour une « passante » dans la rue
+- [Chang Yu-sheng](/fr/people/chang-yu-sheng-singer) — Un autre cas précoce de tension entre les statuts d'« idole » et de « musicien » dans la musique pop sinophone
+- [Chen Jianqi](/fr/people/chen-chien-chi-music-producer) — Producteur, gardien des frontières sonores de la musique pop sinophone
+- [Enno Cheng](/fr/people/cheng-i-nung) — Chanteuse-compositrice de la même génération, écrit les chansons les plus honnêtes dans la langue la plus étrangère
+- [Variétés taïwanaises](/fr/culture/taiwan-variety-shows) — Histoire de la fabrication de stars par la télévision à Taïwan, du _Chorale Club_ (群星會) à _One Million Star_ en un demi-siècle
 
 ---
 

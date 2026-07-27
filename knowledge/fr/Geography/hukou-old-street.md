@@ -95,10 +95,10 @@ L’année où la rue a été abandonnée aurait dû marquer sa fin, mais elle e
 
 **Lectures complémentaires** :
 
-- [Comté de Hsinchu](/geography/新竹縣) — Le contexte du comté où se situe Hukou : croyances Hakka, fête des justes, perception du temps dans le bassin de la rivière Touqian.
-- [Camp militaire de Hukou et mémoire de la route de la Victoire](/history/湖口營區與勝利路記憶) — Le même Hukou, une autre histoire militaire et politique à l’intérieur et à l’extérieur des murs.
-- [Culture culinaire Hakka](/food/客家飲食文化) — Le contexte gastronomique Hakka derrière le tofu, le taro et autres spécialités de la vieille rue.
-- [Rue des sources de Beitou](/geography/北投溫泉街) — Une autre rue dont le destin a fluctué avec les infrastructures de transport, puis a été revitalisée grâce à l’initiative citoyenne.
+- [Comté de Hsinchu](/fr/geography/hsinchu-county) — Le contexte du comté où se situe Hukou : croyances Hakka, fête des justes, perception du temps dans le bassin de la rivière Touqian.
+- [Camp militaire de Hukou et mémoire de la route de la Victoire](/fr/history/hukou-camp-shengli-road-memory) — Le même Hukou, une autre histoire militaire et politique à l’intérieur et à l’extérieur des murs.
+- [Culture culinaire Hakka](/fr/food/hakka-food-culture) — Le contexte gastronomique Hakka derrière le tofu, le taro et autres spécialités de la vieille rue.
+- [Rue des sources de Beitou](/fr/geography/beitou-hot-spring-street) — Une autre rue dont le destin a fluctué avec les infrastructures de transport, puis a été revitalisée grâce à l’initiative citoyenne.
 
 ## Références
 

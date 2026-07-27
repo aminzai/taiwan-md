@@ -67,7 +67,7 @@ La CEC n'est pas apparue ex nihilo en 1980. Ses origines remontent à la structu
 
 **1980** : la Commission électorale centrale est officiellement créée, mais reste rattachée au ministère de l'Intérieur et ses membres sont pour la plupart nommés par l'appareil du parti au pouvoir. Cette version de la CEC ressemble davantage à un « organe de coordination administrative électorale » qu'à un « organe électoral indépendant » au sens contemporain.
 
-**Années 1990** : la levée de la loi martiale (1987), les révisions constitutionnelles (1991-2000) et l'élection présidentielle au suffrage universel direct (1996) — cette série de processus de [démocratisation](/fr/History/taiwan-democratization-history/) a contraint la structure de la CEC à s'adapter progressivement[^5]. À partir des années 1990, la procédure de désignation des membres a commencé à intégrer des exigences « transpartisanes », mais sans base juridique claire.
+**Années 1990** : la levée de la loi martiale (1987), les révisions constitutionnelles (1991-2000) et l'élection présidentielle au suffrage universel direct (1996) — cette série de processus de [démocratisation](/fr/history/taiwan-democratization-history/) a contraint la structure de la CEC à s'adapter progressivement[^5]. À partir des années 1990, la procédure de désignation des membres a commencé à intégrer des exigences « transpartisanes », mais sans base juridique claire.
 
 **2009** : adoption de la _Loi organique de la Commission électorale centrale_[^6]. La CEC passe du statut d'« organe de coordination au niveau réglementaire » à celui d'« organe indépendant consacré par la loi », dont les membres doivent être confirmés par le Yuan législatif, avec la clause du « tiers maximum pour un même parti » et l'interdiction de renouvellement. C'est la CEC telle que nous la connaissons aujourd'hui.
 
@@ -172,7 +172,7 @@ L'intégrité électorale n'est pas un vain mot — elle est soutenue par ces m�
 
 ---
 
-[Hub politique](/politics) · 2026 九合一選舉 (zh) · 政治獻金透明度 (zh) · 九合一選舉是什麼 (zh) · 選舉公報 (zh) · [Démocratisation](/fr/History/taiwan-democratization-history/)
+[Hub politique](/politics) · 2026 九合一選舉 (zh) · 政治獻金透明度 (zh) · 九合一選舉是什麼 (zh) · 選舉公報 (zh) · [Démocratisation](/fr/history/taiwan-democratization-history/)
 
 ---
 

@@ -89,7 +89,7 @@ L'héritage le plus précieux que ces projets ont laissé à Taïwan n'est peut-
 
 ## Lectures complémentaires
 
-- [Autoroutes](/lifestyle/高速公路) — L'autoroute Zhongshan n'est que le premier des Dix Grands Projets ; cet article explore en profondeur l'histoire de cinquante ans de pouvoir et de coûts liée à la route MacArthur et au tunnel Xueshan, reliés par l'autoroute nationale 7.
+- [Autoroutes](/fr/lifestyle/national-highway-system) — L'autoroute Zhongshan n'est que le premier des Dix Grands Projets ; cet article explore en profondeur l'histoire de cinquante ans de pouvoir et de coûts liée à la route MacArthur et au tunnel Xueshan, reliés par l'autoroute nationale 7.
 
 ## Références
 

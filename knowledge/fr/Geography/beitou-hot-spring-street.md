@@ -284,12 +284,12 @@ C'est déjà une forme de magie.
 
 **Pour aller plus loin** :
 
-- [Ville de Taipei](/geography/台北市) — panorama des 12 arrondissements, position de Beitou et relation avec les autres quartiers historiques de Taipei
-- [Carte culturelle des 16 peuples autochtones de Taïwan](/culture/台灣原住民族16族文化地圖) — répartition des Ketagalan et des autres peuples des plaines à Taïwan
-- [Dadaocheng](/geography/大稻埕) — quartier historique de la même période, autre centre commercial clé de Taipei après l'ouverture du port en 1860
-- [Monga](/geography/艋舺) — point de départ prospère du Taipei de l'époque Qing, dans la formule « Tainan d'abord, Lukang ensuite, Monga en troisième », et ses liens avec Beitou
-- [Ximending](/geography/西門町) — quartier de divertissement planifié par les Japonais en 1896, en parallèle des débuts du Tengu-an de Hirata Gengo à Beitou la même année
-- [Les allées de Zhongshan North Road](/geography/中山北路條通) — l'avenue bordée d'arbres de 1898 menant au sanctuaire de Yuanshan ; après la rupture diplomatique sino-japonaise de 1972, la culture des izakaya des entreprises japonaises et l'abolition de la prostitution à Beitou en 1979 deviennent deux trajectoires distinctes du paysage des industries spéciales dans le Taipei d'après-guerre
+- [Ville de Taipei](/fr/geography/taipei-city) — panorama des 12 arrondissements, position de Beitou et relation avec les autres quartiers historiques de Taipei
+- [Carte culturelle des 16 peuples autochtones de Taïwan](/fr/culture/indigenous-peoples-16-tribes-cultural-map) — répartition des Ketagalan et des autres peuples des plaines à Taïwan
+- [Dadaocheng](/fr/geography/dadaocheng) — quartier historique de la même période, autre centre commercial clé de Taipei après l'ouverture du port en 1860
+- [Monga](/fr/geography/bangka) — point de départ prospère du Taipei de l'époque Qing, dans la formule « Tainan d'abord, Lukang ensuite, Monga en troisième », et ses liens avec Beitou
+- [Ximending](/fr/geography/ximending) — quartier de divertissement planifié par les Japonais en 1896, en parallèle des débuts du Tengu-an de Hirata Gengo à Beitou la même année
+- [Les allées de Zhongshan North Road](/fr/geography/zhongshan-north-road-tiaotong) — l'avenue bordée d'arbres de 1898 menant au sanctuaire de Yuanshan ; après la rupture diplomatique sino-japonaise de 1972, la culture des izakaya des entreprises japonaises et l'abolition de la prostitution à Beitou en 1979 deviennent deux trajectoires distinctes du paysage des industries spéciales dans le Taipei d'après-guerre
 
 ## Sources des images
 

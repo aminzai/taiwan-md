@@ -60,7 +60,7 @@ Depuis quatre cents ans, Taïwan est appelée « Formosa » sur la scène intern
 
 ## Il y avait déjà des habitants il y a six mille ans
 
-Avant l’arrivée du moindre Européen, Taïwan était déjà habitée depuis au moins six mille ans. La [culture de Dabenkeng](/fr/History/prehistoric-era-and-indigenous-peoples/) (vers 5 000-4 500 av. J.-C.) est la plus ancienne culture néolithique actuellement connue à Taïwan, et elle est étroitement liée à la diffusion des peuples austronésiens[^9]. Les recherches linguistiques et génétiques montrent que Taïwan fut très probablement le foyer originel de l’ensemble des peuples austronésiens, répartis dans le Pacifique et l’océan Indien et représentant 400 millions de personnes.
+Avant l’arrivée du moindre Européen, Taïwan était déjà habitée depuis au moins six mille ans. La [culture de Dabenkeng](/fr/history/prehistoric-era-and-indigenous-peoples/) (vers 5 000-4 500 av. J.-C.) est la plus ancienne culture néolithique actuellement connue à Taïwan, et elle est étroitement liée à la diffusion des peuples austronésiens[^9]. Les recherches linguistiques et génétiques montrent que Taïwan fut très probablement le foyer originel de l’ensemble des peuples austronésiens, répartis dans le Pacifique et l’océan Indien et représentant 400 millions de personnes.
 
 Les sources chinoises mentionnent Taïwan plus tôt que les sources européennes, mais de manière tout aussi floue. La question de savoir si le « Yizhou » mentionné dans le _Sanguozhi_ et le « Liuqiu » mentionné dans le _Livre des Sui_ désignent Taïwan reste débattue dans le monde académique[^10].
 
@@ -68,7 +68,7 @@ Les sources chinoises mentionnent Taïwan plus tôt que les sources européennes
 
 ## Les premiers Européens à avoir réellement posé le pied sur l’île
 
-En 1624, la Compagnie néerlandaise des Indes orientales établit Fort Zeelandia à Tayouan, dans le sud de Taïwan, aujourd’hui Anping, ouvrant trente-huit années de [domination coloniale](/fr/History/dutch-spanish-and-koxinga-era/)[^11].
+En 1624, la Compagnie néerlandaise des Indes orientales établit Fort Zeelandia à Tayouan, dans le sud de Taïwan, aujourd’hui Anping, ouvrant trente-huit années de [domination coloniale](/fr/history/dutch-spanish-and-koxinga-era/)[^11].
 
 Le missionnaire néerlandais George Candidius rédigea en 1628 la première ethnographie sérieuse de Taïwan produite par le monde occidental. Il décrivit les _inibs_ des Siraya, c’est-à-dire les _ang-i_, prêtresses, ainsi que les pratiques d’avortement forcé, les conceptions de l’âme et les rites sacrificiels[^12]. Ce n’était pas une fantaisie à la Psalmanazar, mais le relevé d’observation d’une personne ayant réellement vécu dans un village autochtone.
 
@@ -78,9 +78,9 @@ En 1670, le Néerlandais Olfert Dapper publia _Gedenkwaerdig bedryf der Nederlan
 
 Après 1856, les écrits occidentaux sur Taïwan entrèrent dans une nouvelle phase. Il ne s’agissait plus de fragments consignés par des missionnaires et des marchands, mais d’enquêtes scientifiques et de rapports diplomatiques systématiques.
 
-[Robert Swinhoe](/fr/People/robert-swinhoe-naturalist/) fut le premier. Consul britannique à Taïwan, il écrivit 52 articles en quatre ans et recensa 227 espèces d’oiseaux. Ce qu’il voyait, c’étaient des espèces.
+[Robert Swinhoe](/fr/people/robert-swinhoe-naturalist/) fut le premier. Consul britannique à Taïwan, il écrivit 52 articles en quatre ans et recensa 227 espèces d’oiseaux. Ce qu’il voyait, c’étaient des espèces.
 
-[Charles Le Gendre](/fr/People/charles-le-gendre/) fut le deuxième. Consul des États-Unis à Xiamen, il se rendit huit fois à Taïwan et laissa 1 600 pages de manuscrits. Ce qu’il voyait, c’était du renseignement.
+[Charles Le Gendre](/fr/people/charles-le-gendre/) fut le deuxième. Consul des États-Unis à Xiamen, il se rendit huit fois à Taïwan et laissa 1 600 pages de manuscrits. Ce qu’il voyait, c’était du renseignement.
 
 L’officier français Eugène Garnot fut le troisième. Présent à Taïwan avec l’armée pendant la guerre franco-chinoise de 1884-1885, il rédigea un mémoire d’expédition. Ce qu’il voyait, c’était un champ de bataille.
 
@@ -93,7 +93,7 @@ Ces observateurs avaient un point commun : ils venaient tous de l’extérieur d
 
 ## De l’objet écrit au sujet qui s’écrit lui-même
 
-En 1990, l’historien Ts’ao Yung-ho proposa l’« [historiographie centrée sur l’île de Taïwan](/fr/History/taiwan-island-historiography/) » : prendre l’île pour sujet et observer comment les cultures venues de l’extérieur ont interagi et se sont recomposées sur l’île à différentes époques[^16].
+En 1990, l’historien Ts’ao Yung-ho proposa l’« [historiographie centrée sur l’île de Taïwan](/fr/history/taiwan-island-historiography/) » : prendre l’île pour sujet et observer comment les cultures venues de l’extérieur ont interagi et se sont recomposées sur l’île à différentes époques[^16].
 
 Cette perspective renverse tout le récit : Taïwan n’est l’appendice d’aucun empire, ni un objet « découvert ». C’est une île où, depuis six mille ans, différents groupes humains ont accosté, vécu et quitté les lieux. Portugais, Néerlandais, Espagnols, Qing, Japon, gouvernement nationaliste : tous ne sont qu’un chapitre dans l’histoire de l’île.
 
@@ -111,11 +111,11 @@ Les habitants de l’île continuent d’avancer.
 
 **Pour aller plus loin** :
 
-- [Historiographie centrée sur l’île de Taïwan](/history/台灣島史觀) — le cadre proposé par Ts’ao Yung-ho en 1990 : regarder l’histoire depuis l’île comme sujet, et non depuis la perspective d’un empire
-- [Préhistoire et peuples autochtones](/history/史前時代與原住民) — les six mille ans de Taïwan avant la « découverte » européenne, la culture de Dabenkeng et le foyer originel des peuples austronésiens
-- [Période néerlandaise, espagnole et Ming-Zheng](/history/荷西明鄭時期) — les trente-huit années des premiers colonisateurs européens à Taïwan ; l’ethnographie de Candidius commence ici
-- [Robert Swinhoe](/people/史溫侯) — un type représentatif d’observateur occidental du XIXe siècle : regarder Taïwan avec l’œil de la science et laisser des traces plus durables que sa carrière diplomatique
-- [Musée national de l’histoire de Taïwan](/society/國立臺灣歷史博物館) — en 2014, le NMTH a publié la traduction chinoise annotée par Chen Cheng-san de l’ouvrage original de Davidson paru en 1903, _The Island of Formosa, Past and Present_, un exemple concret d’institutional instantiation du passage « de l’objet écrit au sujet qui s’écrit lui-même »
+- [Historiographie centrée sur l’île de Taïwan](/fr/history/taiwan-island-historiography) — le cadre proposé par Ts’ao Yung-ho en 1990 : regarder l’histoire depuis l’île comme sujet, et non depuis la perspective d’un empire
+- [Préhistoire et peuples autochtones](/fr/history/prehistoric-era-and-indigenous-peoples) — les six mille ans de Taïwan avant la « découverte » européenne, la culture de Dabenkeng et le foyer originel des peuples austronésiens
+- [Période néerlandaise, espagnole et Ming-Zheng](/fr/history/dutch-spanish-and-koxinga-era) — les trente-huit années des premiers colonisateurs européens à Taïwan ; l’ethnographie de Candidius commence ici
+- [Robert Swinhoe](/fr/people/robert-swinhoe-naturalist) — un type représentatif d’observateur occidental du XIXe siècle : regarder Taïwan avec l’œil de la science et laisser des traces plus durables que sa carrière diplomatique
+- [Musée national de l’histoire de Taïwan](/fr/society/national-museum-of-taiwan-history) — en 2014, le NMTH a publié la traduction chinoise annotée par Chen Cheng-san de l’ouvrage original de Davidson paru en 1903, _The Island of Formosa, Past and Present_, un exemple concret d’institutional instantiation du passage « de l’objet écrit au sujet qui s’écrit lui-même »
 
 ## Références
 

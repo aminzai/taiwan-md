@@ -1,20 +1,28 @@
 ---
-title: "Lai Ching-te : du fils de mineur au médecin de santé publique devenu président"
+title: 'Lai Ching-te : du fils de mineur au médecin de santé publique devenu président'
 description: "16e président de Taïwan, premier personnage politique de l'histoire constitutionnelle de la République de Chine à se présenter et à être élu président alors qu'il était vice-président"
 date: 2026-03-19
-author: "Taiwan.md"
-category: "People"
-subcategory: "政治與民主"
-tags: ["Président", "Médecin", "Personnalité politique", "Parti démocrate progressiste", "Santé publique", "Tainan"]
+author: 'Taiwan.md'
+category: 'People'
+subcategory: '政治與民主'
+tags:
+  [
+    'Président',
+    'Médecin',
+    'Personnalité politique',
+    'Parti démocrate progressiste',
+    'Santé publique',
+    'Tainan',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
-translatedFrom: "People/賴清德.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:e9ba487782481314"
-sourceBodyHash: "sha256:7455a72c92fc69c9"
-translatedAt: "2026-05-20T05:08:34+08:00"
+translatedFrom: 'People/賴清德.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:e9ba487782481314'
+sourceBodyHash: 'sha256:7455a72c92fc69c9'
+translatedAt: '2026-05-20T05:08:34+08:00'
 ---
 
 # Lai Ching-te : du fils de mineur au médecin de santé publique devenu président
@@ -159,23 +167,29 @@ Le maintien des relations diplomatiques après l'investiture fait également l'o
 
 **Pour aller plus loin** :
 
-- [2026 鄭習會：國共領導人十年再會的十分鐘](/society/2026鄭習會與國共十年再會) — L'autre protagoniste de cette scène, celui délibérément laissé hors champ
-- [蕭美琴](/people/蕭美琴) — La colistière vice-présidente de Lai Ching-te, de la représentante de Taïwan à Washington à la vice-présidente « chat de guerre »
-- [台灣國防與軍事現代化](/society/台灣國防與軍事現代化) — La politique la plus emblématique du mandat de Lai Ching-te : le budget spécial de 1 250 milliards et la mise en service du bataillon de chars M1A2T
-- [台灣民主轉型](/history/台灣民主轉型) — Le fait que le fils d'un mineur de Wanli puisse devenir président est en soi un produit de la transition démocratique
-- [李洋](/people/李洋) — Le plus jeune membre de l'histoire du Cabinet, nommé par Lai Ching-te lors de la cérémonie de prestation de serment, premier ministre des Sports
-- [沈伯洋](/people/沈伯洋) — Législateur du Parti démocrate progressiste inscrit sur la même liste de « séparatistes taïwanais obstinés », devenu en 2025 le premier élu taïwanais poursuivi par la Chine pour crime de sécession
-- [卓榮泰](/people/卓榮泰) — Premier président du Yuan exécutif sous Lai Ching-te en 2024, coordinateur depuis 38 ans, devenu en décembre 2025 le premier président du Yuan exécutif de l'histoire constitutionnelle à ne pas cosigner la loi de répartition financière
-- [徐巧芯](/people/徐巧芯) — Législatrice du Kuomintang qui s'est affrontée à plusieurs reprises à Lai Ching-te lors des séances de questions, promotrice de la version à 800 milliards de la controverse sur les achats militaires de 2026
-- [台灣與史瓦帝尼](/society/台灣與史瓦帝尼) — Première visite dans un pays allié après l'entrée en fonction de Lai Ching-te, le moment historique de mai 2026 où le roi d'Eswatini a prêté son Airbus A340 pour accueillir le président à Taipei
-- [想想論壇](/society/想想論壇) — Lors de la refonte et du relancement du forum par Tsai Ing-wen en octobre 2025, le titre de l'éditorial express du United Daily News, « Lai Ching-te est encore en route ? », établissait un contraste implicite, présentant la refonte de la plateforme comme un rappel à l'égard de la ligne de gouvernance de Lai
+- [2026 鄭習會：國共領導人十年再會的十分鐘](/fr/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — L'autre protagoniste de cette scène, celui délibérément laissé hors champ
+- [蕭美琴](/fr/people/hsiao-bi-khim) — La colistière vice-présidente de Lai Ching-te, de la représentante de Taïwan à Washington à la vice-présidente « chat de guerre »
+- [台灣國防與軍事現代化](/fr/society/taiwan-defense-modernization) — La politique la plus emblématique du mandat de Lai Ching-te : le budget spécial de 1 250 milliards et la mise en service du bataillon de chars M1A2T
+- [台灣民主轉型](/fr/history/taiwan-democratization) — Le fait que le fils d'un mineur de Wanli puisse devenir président est en soi un produit de la transition démocratique
+- [李洋](/fr/people/lee-yang-badminton) — Le plus jeune membre de l'histoire du Cabinet, nommé par Lai Ching-te lors de la cérémonie de prestation de serment, premier ministre des Sports
+- [沈伯洋](/fr/people/puma-shen) — Législateur du Parti démocrate progressiste inscrit sur la même liste de « séparatistes taïwanais obstinés », devenu en 2025 le premier élu taïwanais poursuivi par la Chine pour crime de sécession
+- [卓榮泰](/fr/people/cho-jung-tai) — Premier président du Yuan exécutif sous Lai Ching-te en 2024, coordinateur depuis 38 ans, devenu en décembre 2025 le premier président du Yuan exécutif de l'histoire constitutionnelle à ne pas cosigner la loi de répartition financière
+- [徐巧芯](/fr/people/hsu-chiao-hsin) — Législatrice du Kuomintang qui s'est affrontée à plusieurs reprises à Lai Ching-te lors des séances de questions, promotrice de la version à 800 milliards de la controverse sur les achats militaires de 2026
+- [台灣與史瓦帝尼](/fr/society/taiwan-eswatini-relations) — Première visite dans un pays allié après l'entrée en fonction de Lai Ching-te, le moment historique de mai 2026 où le roi d'Eswatini a prêté son Airbus A340 pour accueillir le président à Taipei
+- [想想論壇](/fr/society/thinking-taiwan-forum) — Lors de la refonte et du relancement du forum par Tsai Ing-wen en octobre 2025, le titre de l'éditorial express du United Daily News, « Lai Ching-te est encore en route ? », établissait un contraste implicite, présentant la refonte de la plateforme comme un rappel à l'égard de la ligne de gouvernance de Lai
 
 ## Références
 
 [^1]: Site officiel de la Présidence de la République de Chine, Biographie du président, https://www.president.gov.tw/Page/694
+
 [^2]: Article « Lai Ching-te » de Wikipédia, https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E6%B8%85%E5%BE%B7
+
 [^3]: Reportages et entretiens de CommonWealth Magazine au fil des années, https://www.cw.com.tw/article/5128853
+
 [^4]: Données sur les diplômes de la faculté de médecine de l'Université nationale de Cheng Kung, https://www.ncku.edu.tw/
+
 [^5]: Bulletin électoral de l'élection présidentielle de 2024 de la Commission électorale centrale, https://bulletin.cec.gov.tw/
+
 [^6]: Rapports annuels de gouvernance de la mairie de Tainan, https://www.tainan.gov.tw/News.aspx?n=4975&sms=13709
+
 [^7]: Article « Lai Ching-te » de Wikipédia, archives de la formation à la faculté de santé publique de l'Université Harvard (2000–2003), https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E6%B8%85%E5%BE%B7

@@ -132,10 +132,10 @@ Les batailles commerciales sur cette île ne s'arrêteront pas. Chaque nouveau Q
 
 **Pour aller plus loin :**
 
-- [Le développement de la fintech à Taïwan](/economy/台灣金融科技發展) — Banques entièrement en ligne, open banking et sandbox réglementaire : le panorama de la transformation numérique bancaire
-- [Construction du réseau 5G et transformation numérique à Taïwan](/technology/台灣5G網路建設與數位轉型) — Comment les infrastructures 5G transforment le suivi logistique, le live shopping et le commerce connecté
-- [Le développement de l'industrie logicielle à Taïwan](/technology/台灣軟體產業發展) — De la sous-traitance aux marques propres : comment l'industrie logicielle soutient les fondations techniques des plateformes e-commerce
-- [L'industrie des semi-conducteurs](/technology/半導體產業) — D'où viennent les puces qui alimentent les paiements numériques et les infrastructures du commerce en ligne
+- [Le développement de la fintech à Taïwan](/fr/economy/taiwan-fintech-development) — Banques entièrement en ligne, open banking et sandbox réglementaire : le panorama de la transformation numérique bancaire
+- [Construction du réseau 5G et transformation numérique à Taïwan](/fr/technology/taiwan-5g-digital-transformation) — Comment les infrastructures 5G transforment le suivi logistique, le live shopping et le commerce connecté
+- [Le développement de l'industrie logicielle à Taïwan](/fr/technology/taiwan-software-industry-development) — De la sous-traitance aux marques propres : comment l'industrie logicielle soutient les fondations techniques des plateformes e-commerce
+- [L'industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — D'où viennent les puces qui alimentent les paiements numériques et les infrastructures du commerce en ligne
 
 ## Références
 

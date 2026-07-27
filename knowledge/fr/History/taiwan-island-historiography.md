@@ -41,7 +41,7 @@ Si l’on considère Taïwan comme une « petite île », une grande partie de s
 > **📝 Note du commissaire**
 > La grandeur de Ts’ao Yung-ho tient à ce qu’en étudiant les sources néerlandaises et espagnoles du XVIIe siècle, il a arraché l’histoire de Taïwan à l’ombre d’une historiographie continentale et l’a rendue à l’île elle-même.
 
-Pour aller plus loin : [Histoire du commerce maritime de Taïwan](/fr/History/taiwan-maritime-trade-history/), [Préhistoire et peuples autochtones](/fr/History/prehistoric-era-and-indigenous-peoples/)
+Pour aller plus loin : [Histoire du commerce maritime de Taïwan](/fr/history/taiwan-maritime-trade-history/), [Préhistoire et peuples autochtones](/fr/history/prehistoric-era-and-indigenous-peoples/)
 
 ## II. Le gène maritime des Austronésiens : l’insularité comme mondialité
 
@@ -49,7 +49,7 @@ Le point de départ de l’histoire taïwanaise est bien antérieur à 1624. Il 
 
 Cela prouve que le « caractère maritime » de Taïwan n’est pas un ajout extérieur, mais une disposition native. Lorsque nous parlons de perspective insulaire, nous parlons d’une technologie civilisationnelle qui consiste à « faire de l’île son foyer », radicalement différente de la logique agricole des civilisations continentales. L’insularité ne signifie pas l’isolement ; elle signifie au contraire une possibilité infinie d’accès au monde.
 
-Pour aller plus loin : [Histoire des peuples autochtones de Taïwan et mouvement de rectification des noms](/fr/History/indigenous-peoples-history-and-naming-movement/)
+Pour aller plus loin : [Histoire des peuples autochtones de Taïwan et mouvement de rectification des noms](/fr/history/indigenous-peoples-history-and-naming-movement/)
 
 ## III. Le premier choc des empires : le royaume de Middag et le commerce mondial
 
@@ -60,7 +60,7 @@ Il s’agissait d’un royaume interethnique formé de peuples autochtones, qui 
 > **💡 Le saviez-vous ?**
 > Au XVIIe siècle, les peaux de cerf de Taïwan étaient indispensables aux armures des samouraïs japonais. Les marchands anonymes de peaux de cerf de l’époque furent les véritables acteurs qui entraînèrent Taïwan dans la vague de l’économie mondiale, en créant un lien direct entre l’île de Taïwan et l’équipement militaire de Kyoto.
 
-Pour aller plus loin : [Période néerlandaise, espagnole et du royaume de Koxinga](/fr/History/dutch-spanish-and-koxinga-era/)
+Pour aller plus loin : [Période néerlandaise, espagnole et du royaume de Koxinga](/fr/history/dutch-spanish-and-koxinga-era/)
 
 ## IV. Le front de la migration : immigration han et transplantation institutionnelle
 
@@ -68,7 +68,7 @@ En 1662, Zheng Chenggong expulsa les Néerlandais ; en 1683, l’armée Qing pri
 
 Les gens arrivèrent sur l’île avec leur savoir agricole et leurs organisations lignagères ; mais pour survivre dans un environnement soumis à des transformations fréquentes, ils apprirent à élaborer un contrat social plus souple et plus réaliste que celui de la patrie continentale. Dès l’origine, la « société han » de Taïwan porta en elle une forme d’instabilité et d’aventure, perceptible dans les soulèvements fréquents de la période Qing, comme le disait l’adage : « une petite révolte tous les trois ans, un grand désordre tous les cinq ans ».
 
-Pour aller plus loin : [Période de domination Qing](/fr/History/qing-dynasty-rule/), [Miracle économique taïwanais](/fr/economy/economic-miracle/)
+Pour aller plus loin : [Période de domination Qing](/fr/history/qing-dynasty-rule/), [Miracle économique taïwanais](/fr/economy/economic-miracle/)
 
 ## V. 1895 : le double tranchant de la modernité coloniale
 
@@ -79,7 +79,7 @@ La perspective insulaire ne nie pas l’oppression coloniale, mais elle reconna�
 > **⚠️ Point de vue controversé**
 > La modernité coloniale est la partie la plus difficile à traiter de l’histoire taïwanaise. Comment se souvenir simultanément de la douleur de l’oppression et des progrès apportés par les institutions ? C’est précisément la tension que la perspective insulaire tente de tisser : nous avons accepté les institutions, mais nous avons refusé l’assimilation.
 
-Pour aller plus loin : [Période coloniale japonaise](/fr/History/japanese-colonial-era/), [Histoire du chemin de fer à Taïwan](/fr/History/taiwan-railway-history/)
+Pour aller plus loin : [Période coloniale japonaise](/fr/history/japanese-colonial-era/), [Histoire du chemin de fer à Taïwan](/fr/history/taiwan-railway-history/)
 
 ## VI. Les strates de l’autoritarisme et de la mémoire
 
@@ -87,7 +87,7 @@ En 1945, à la fin de la Seconde Guerre mondiale, Taïwan fut de nouveau confron
 
 Mais vue depuis la perspective insulaire, cette période fut aussi le moment où les « strates de mémoire » s’accumulèrent le plus densément. Les villages de militaires dépendants, la prison de l’île Verte, les salles de classe où les langues dites dialectales étaient interdites, les salons silencieux : ces mémoires en apparence disjointes jaillirent, après la levée de la loi martiale en 1987, comme une ressource nourrissant le multiculturalisme taïwanais. La perspective insulaire voit cette histoire comme une « explosion après compression », dernier creuset de l’identité subjective taïwanaise.
 
-Pour aller plus loin : [Incident du 28 février](/fr/History/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory/), [Période de la loi martiale](/fr/History/martial-law-era/), [Terreur blanche à Taïwan](/fr/History/taiwan-white-terror/), l’incident de Kaohsiung : la nuit qui changea le destin de Taïwan
+Pour aller plus loin : [Incident du 28 février](/fr/history/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory/), [Période de la loi martiale](/fr/history/martial-law-era/), [Terreur blanche à Taïwan](/fr/history/taiwan-white-terror/), l’incident de Kaohsiung : la nuit qui changea le destin de Taïwan
 
 ## VII. Les quatre thèses centrales de la perspective insulaire
 
@@ -133,8 +133,8 @@ Sur la carte du monde, Taïwan est une petite île ; par la densité de son hist
 
 **Lectures complémentaires** :
 
-- [Formose](/history/福爾摩沙) — de l’imposture de Psalmanazar à sa réappropriation par le Musée national de l’histoire de Taïwan : déconstruction et renversement de quatre siècles de récits occidentaux de « découverte »
-- [Musée national de l’histoire de Taïwan](/society/國立臺灣歷史博物館) — institution nationale de troisième niveau ouverte en 2011, qui a transformé l’article de Ts’ao Yung-ho de 1990 en exposition physique, « Cette terre, ce peuple — l’histoire de Taïwan », constituant une institutional instantiation de la perspective historiographique de l’île de Taïwan
+- [Formose](/fr/history/formosa-historical-name) — de l’imposture de Psalmanazar à sa réappropriation par le Musée national de l’histoire de Taïwan : déconstruction et renversement de quatre siècles de récits occidentaux de « découverte »
+- [Musée national de l’histoire de Taïwan](/fr/society/national-museum-of-taiwan-history) — institution nationale de troisième niveau ouverte en 2011, qui a transformé l’article de Ts’ao Yung-ho de 1990 en exposition physique, « Cette terre, ce peuple — l’histoire de Taïwan », constituant une institutional instantiation de la perspective historiographique de l’île de Taïwan
 
 ## Références
 

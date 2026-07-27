@@ -150,10 +150,10 @@ La police du bulletin de vote que vous tenez en main s'appelle Siyuan Rounded. V
 
 ## Pour aller plus loin
 
-- [Aaron Nieh](/people/聶永真) — L'un des graphistes les plus représentatifs de Taïwan, protagoniste de la controverse sur l'optimisation de l'identité visuelle de Taipower, et un nom incontournable dans les débats sur le « design comme bilan politique ».
-- [Transformation et montée en gamme de l'industrie taïwanaise](/economy/台灣產業轉型升級) — L'histoire complète du passage d'une île de sous-traitance à une économie à plus forte valeur ajoutée ; le pari du TDRI sur « l'apparence des choses » en constitue une branche moins souvent racontée.
-- [Public Television Service](/society/公視) — Une autre fondation publique qui, elle aussi, marche sur une ligne de crête entre « intérêt public » et « examen public ».
-- [Architecture taïwanaise](/art/台灣建築) — Le métier d'origine de Chang Chi-yi ; une clé pour comprendre pourquoi un architecte peut croire que le design spatial modifie la distance entre l'État et la population.
+- [Aaron Nieh](/fr/people/nieh-yung-jen) — L'un des graphistes les plus représentatifs de Taïwan, protagoniste de la controverse sur l'optimisation de l'identité visuelle de Taipower, et un nom incontournable dans les débats sur le « design comme bilan politique ».
+- [Transformation et montée en gamme de l'industrie taïwanaise](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — L'histoire complète du passage d'une île de sous-traitance à une économie à plus forte valeur ajoutée ; le pari du TDRI sur « l'apparence des choses » en constitue une branche moins souvent racontée.
+- [Public Television Service](/fr/society/pts-public-television-service) — Une autre fondation publique qui, elle aussi, marche sur une ligne de crête entre « intérêt public » et « examen public ».
+- [Architecture taïwanaise](/fr/art/taiwanese-architecture) — Le métier d'origine de Chang Chi-yi ; une clé pour comprendre pourquoi un architecte peut croire que le design spatial modifie la distance entre l'État et la population.
 
 ## Sources des images
 

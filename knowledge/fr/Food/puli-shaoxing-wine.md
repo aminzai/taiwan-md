@@ -114,9 +114,9 @@ Aujourd'hui, plus personne ne pense que cette saveur est « continentale » ou �
 
 **Pour aller plus loin** :
 
-- [Cuisine des juancun taïwanais](/food/台灣眷村菜) — Mémoire alimentaire apportée à Taïwan par la migration massive d'après 1949 ; la cuisine des juancun et le vin de Shaoxing de Puli partagent la même origine : un repli porteur de mémoire culinaire.
-- [Aliments fermentés et culture du saumurage taïwanais](/food/台灣發酵食品與醃製文化) — Du tofu fermenté à la sauce soja, la généalogie artisanale des aliments fermentés taïwanais ; le vin de Shaoxing en est la variété à la généalogie politique la plus chargée.
-- [Culture rizicole taïwanaise](/food/台灣米食文化) — Le riz gluant est la matière de base du vin de Shaoxing ; la culture rizicole fournit le contexte complet pour comprendre cette bouteille, de l'agriculture à l'industrie puis au tourisme.
+- [Cuisine des juancun taïwanais](/fr/food/military-dependents-village-cuisine) — Mémoire alimentaire apportée à Taïwan par la migration massive d'après 1949 ; la cuisine des juancun et le vin de Shaoxing de Puli partagent la même origine : un repli porteur de mémoire culinaire.
+- [Aliments fermentés et culture du saumurage taïwanais](/fr/food/taiwan-fermented-and-pickled-foods) — Du tofu fermenté à la sauce soja, la généalogie artisanale des aliments fermentés taïwanais ; le vin de Shaoxing en est la variété à la généalogie politique la plus chargée.
+- [Culture rizicole taïwanaise](/fr/food/taiwan-rice-cuisine-culture) — Le riz gluant est la matière de base du vin de Shaoxing ; la culture rizicole fournit le contexte complet pour comprendre cette bouteille, de l'agriculture à l'industrie puis au tourisme.
 
 ## Références
 

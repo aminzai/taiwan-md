@@ -228,7 +228,7 @@ Mais les méthodes de saisie ne disparaîtront pas. Car elles ne sont pas que de
 
 ## Pour aller plus loin
 
-- [Industrie des semi-conducteurs](/technology/半導體產業) — L'industrie qui fabrique les puces derrière les claviers
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — L'industrie qui fabrique les puces derrière les claviers
 
 ## Références
 

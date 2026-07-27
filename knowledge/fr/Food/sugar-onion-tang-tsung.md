@@ -87,7 +87,7 @@ L’histoire du sucre‑oignon est avant tout une histoire de « résilience�
 
 ## Lectures complémentaires
 
-- [角牛角](/food/金牛角) — Un autre dessert taïwanais qui porte la mémoire locale, originaire de la vieille rue de Sanxia et diffusé à travers l’île
+- [角牛角](/fr/food/golden-croissant) — Un autre dessert taïwanais qui porte la mémoire locale, originaire de la vieille rue de Sanxia et diffusé à travers l’île
 
 ## Références
 

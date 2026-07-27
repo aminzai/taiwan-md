@@ -147,11 +147,11 @@ La vente totale en cette nuit du 22 août 2021, vue sous l'angle du résultat, e
 
 ## Pour aller plus loin
 
-- **[FAB DAO et le _Project %_](/art/FAB%20DAO與百岳計畫)** — Le projet NFT philanthropique de six artistes auquel Wang Hsin-jen a participé, pour comprendre l'écosystème complet du _Project %_
-- **[Wu Zheyu](/people/吳哲宇)** — Artiste du groupe international du _Project %_ et cofondateur de FAB DAO, de _Electriz_ sur Art Blocks à la Biennale de Venise
-- **[Nouveaux médias taïwanais](/art/台灣新媒體藝術)** — De Huang Xinjiang à Yuan Guangming en passant par Wang Hsin-jen, une généalogie complète de quarante ans d'arts des nouveaux médias à Taïwan
-- **[Art contemporain taïwanais](/art/當代藝術)** — La place et les coordonnées de l'art génératif dans l'histoire de l'art contemporain taïwanais
-- **[Wang Liansheng (Shrimp Dad)](/art/王連晟)** — Artiste sonore du même groupe que Wang Hsin-jen dans le _Project %_, lauréat du prix 3D/Sculpture Award du Lumen Prize 2017 (œuvre _Reading Plan_)
+- **[FAB DAO et le _Project %_](/fr/art/fab-dao)** — Le projet NFT philanthropique de six artistes auquel Wang Hsin-jen a participé, pour comprendre l'écosystème complet du _Project %_
+- **[Wu Zheyu](/fr/people/che-yu-wu)** — Artiste du groupe international du _Project %_ et cofondateur de FAB DAO, de _Electriz_ sur Art Blocks à la Biennale de Venise
+- **[Nouveaux médias taïwanais](/fr/art/taiwan-new-media-art)** — De Huang Xinjiang à Yuan Guangming en passant par Wang Hsin-jen, une généalogie complète de quarante ans d'arts des nouveaux médias à Taïwan
+- **[Art contemporain taïwanais](/fr/art/contemporary-art)** — La place et les coordonnées de l'art génératif dans l'histoire de l'art contemporain taïwanais
+- **[Wang Liansheng (Shrimp Dad)](/fr/art/wang-lien-cheng-artist)** — Artiste sonore du même groupe que Wang Hsin-jen dans le _Project %_, lauréat du prix 3D/Sculpture Award du Lumen Prize 2017 (œuvre _Reading Plan_)
 
 ## Références
 

@@ -222,10 +222,10 @@ Le chant deviendra plus faible ; mais tant qu'il reste quelqu'un pour chanter, c
 
 **Pour aller plus loin** :
 
-- [L'éducation dans les zones rurales de Taïwan](/society/台灣偏鄉教育) — Lorsque les campagnes sont entrées dans la dénatalité quarante ans avant les villes, les petites écoles rurales ont été les premières à recevoir cette lettre.
-- [Le système éducatif et la culture de l'examen à Taïwan](/society/教育制度與升學文化) — La sortie d'universités du système et la falaise démographique étudiante sont indissociables de la manière dont toute la société considère « l'accès aux études ».
-- [Le développement du système taïwanais de soins de longue durée](/society/台灣長期照顧制度發展) — Quand les plus de 65 ans dépassent 20 % et que 215 000 aides-soignants étrangers soutiennent les lits de soins, les soins de longue durée sont l'autre extrémité de la dénatalité.
-- [L'industrie robotique de Taïwan](/technology/台灣機器人產業) — Si la diminution de la population est acquise, l'automatisation sera l'une des réponses clés pour « réorganiser la production dans une population qui diminue ».
+- [L'éducation dans les zones rurales de Taïwan](/fr/society/taiwan-rural-education) — Lorsque les campagnes sont entrées dans la dénatalité quarante ans avant les villes, les petites écoles rurales ont été les premières à recevoir cette lettre.
+- [Le système éducatif et la culture de l'examen à Taïwan](/fr/society/education-system-and-admissions-culture) — La sortie d'universités du système et la falaise démographique étudiante sont indissociables de la manière dont toute la société considère « l'accès aux études ».
+- [Le développement du système taïwanais de soins de longue durée](/fr/society/long-term-care-system-development) — Quand les plus de 65 ans dépassent 20 % et que 215 000 aides-soignants étrangers soutiennent les lits de soins, les soins de longue durée sont l'autre extrémité de la dénatalité.
+- [L'industrie robotique de Taïwan](/fr/technology/taiwan-robotics-industry) — Si la diminution de la population est acquise, l'automatisation sera l'une des réponses clés pour « réorganiser la production dans une population qui diminue ».
 
 ## Références
 

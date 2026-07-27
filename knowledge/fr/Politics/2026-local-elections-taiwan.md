@@ -110,7 +110,7 @@ Pour comprendre pourquoi 2026 est important, il faut d'abord situer cette élect
 
 Chacun de ces cinq repères historiques n'est pas clos. 2026 n'est pas la fin de ces histoires, mais leur prochain nœud.
 
-Pour le contexte historique détaillé : [Histoire de la démocratisation de Taïwan](/fr/History/taiwan-democratization-history/) · [Transition démocratique de Taïwan](/fr/History/taiwan-democratization/) · [Grand Rappel de 2024](/fr/History/great-recall-movement-2024/) · [Élections et politique partisane à Taïwan](/fr/History/taiwan-elections-and-party-politics/)
+Pour le contexte historique détaillé : [Histoire de la démocratisation de Taïwan](/fr/history/taiwan-democratization-history/) · [Transition démocratique de Taïwan](/fr/history/taiwan-democratization/) · [Grand Rappel de 2024](/fr/history/great-recall-movement-2024/) · [Élections et politique partisane à Taïwan](/fr/history/taiwan-elections-and-party-politics/)
 
 ---
 
@@ -173,7 +173,7 @@ L'énergie de 1,3 million de signatures ne disparaîtra pas le jour de la clôtu
 
 Le TPP a obtenu 8 sièges de représentation proportionnelle aux législatives de 2024, devenant l'arbitre au Parlement. 2026 est la première fois que cette troisième force se présente aux élections locales en tant que « troisième parti clé à la Diété » — par le passé, la base organisationnelle du TPP au niveau local était relativement faible. 2026 est le test crucial pour déterminer s'il peut transformer son soutien au niveau central en sièges locaux.
 
-Pour plus de détails : [Élections et politique partisane à Taïwan](/fr/History/taiwan-elections-and-party-politics/) · [Grand Rappel de 2024](/fr/History/great-recall-movement-2024/)
+Pour plus de détails : [Élections et politique partisane à Taïwan](/fr/history/taiwan-elections-and-party-politics/) · [Grand Rappel de 2024](/fr/history/great-recall-movement-2024/)
 
 ---
 
@@ -293,10 +293,10 @@ Selon ce que vous cherchez à comprendre, cette catégorie propose différentes 
 [/elections/2026/](/elections/2026/) — tableau de bord / candidats / contributions politiques / perspectives multi-angles
 
 **Pour comprendre le contexte historique :**
-[Histoire de la démocratisation de Taïwan](/fr/History/taiwan-democratization-history/) · [Transition démocratique de Taïwan](/fr/History/taiwan-democratization/) · [Grand Rappel de 2024](/fr/History/great-recall-movement-2024/) · [Élections et politique partisane à Taïwan](/fr/History/taiwan-elections-and-party-politics/)
+[Histoire de la démocratisation de Taïwan](/fr/history/taiwan-democratization-history/) · [Transition démocratique de Taïwan](/fr/history/taiwan-democratization/) · [Grand Rappel de 2024](/fr/history/great-recall-movement-2024/) · [Élections et politique partisane à Taïwan](/fr/history/taiwan-elections-and-party-politics/)
 
 **Pour accéder aux outils de surveillance citoyenne :**
-[Communauté open source et g0v](/fr/Technology/open-source-and-g0v/) · 政治獻金透明度 (zh only — 政治獻金透明度) · [Ressources externes (via /elections/2026/)](/elections/2026/)
+[Communauté open source et g0v](/fr/technology/open-source-and-g0v/) · 政治獻金透明度 (zh only — 政治獻金透明度) · [Ressources externes (via /elections/2026/)](/elections/2026/)
 
 **Pour comprendre le contexte politique d'un comté ou d'une ville spécifique :**
 [Hub de géographie](/geography) → le comté ou la ville qui vous intéresse → la section paysage politique de ce comté ou cette ville (la couche de complémentation Tier 1.2 est en attente de publication)

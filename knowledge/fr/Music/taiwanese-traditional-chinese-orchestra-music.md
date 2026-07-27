@@ -169,13 +169,13 @@ La question « la nation du guoyue, c'est laquelle ? » n'a peut-être jamais eu
 
 **Lectures complémentaires :**
 
-- [Traditions musicales des peuples autochtones de Taïwan](/music/台灣原住民音樂傳統) — Les harmonies en huit parties des Bunun, le chant polyphonique des Amis : une autre logique musicale que le guoyue tente d'assimiler
-- [Les harmonies en huit parties](/music/八部合音) — Le système harmonique de partiels du pasibutbut, matériau central du dialogue entre guoyue et musique autochtone
-- [La musique hakka de Taïwan](/music/台灣客家音樂) — Les arrangements de chants hakka que l'Orchestre de Kaohsiung interprète abondamment, une autre voie du guoyue dans le sud de Taïwan
-- [La fabrication d'instruments à Taïwan](/music/台灣樂器製造) — Du saxophone de Houli aux instruments nationaux, comment Taïwan est passé d'« utilisateur » à « fabricant »
-- [Le mouvement de la chanson populaire taïwanaise](/music/台灣民歌運動) — Le mouvement « chanter ses propres chansons » des années 1970, partageant le même esprit d'époque que la localisation du guoyue
-- [Le paysage sonore de Taïwan](/music/台灣聲音地景) — Comment l'environnement sonore de l'île s'infiltre dans les oreilles des compositeurs
-- [Chansons populaires et mélodies taïwanaises](/music/台灣民謠與歌謠) — Nan-guan, bei-guan, chansons en langue locale : les traditions sonores déjà présentes sur l'île avant l'arrivée du guoyue
+- [Traditions musicales des peuples autochtones de Taïwan](/fr/music/indigenous-music-traditions) — Les harmonies en huit parties des Bunun, le chant polyphonique des Amis : une autre logique musicale que le guoyue tente d'assimiler
+- [Les harmonies en huit parties](/fr/music/bunun-pasibutbut-eight-part-polyphony) — Le système harmonique de partiels du pasibutbut, matériau central du dialogue entre guoyue et musique autochtone
+- [La musique hakka de Taïwan](/fr/music/taiwan-hakka-music-from-mountain-songs-to-rock) — Les arrangements de chants hakka que l'Orchestre de Kaohsiung interprète abondamment, une autre voie du guoyue dans le sud de Taïwan
+- [La fabrication d'instruments à Taïwan](/fr/music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories) — Du saxophone de Houli aux instruments nationaux, comment Taïwan est passé d'« utilisateur » à « fabricant »
+- [Le mouvement de la chanson populaire taïwanaise](/fr/music/taiwan-campus-folk-song-movement) — Le mouvement « chanter ses propres chansons » des années 1970, partageant le même esprit d'époque que la localisation du guoyue
+- [Le paysage sonore de Taïwan](/fr/music/taiwan-soundscape) — Comment l'environnement sonore de l'île s'infiltre dans les oreilles des compositeurs
+- [Chansons populaires et mélodies taïwanaises](/fr/music/Taiwan Folk Music and Songs) — Nan-guan, bei-guan, chansons en langue locale : les traditions sonores déjà présentes sur l'île avant l'arrivée du guoyue
 
 ## Références
 

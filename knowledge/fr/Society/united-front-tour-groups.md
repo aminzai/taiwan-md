@@ -113,11 +113,11 @@ And uncertainty may well be the ultimate product of this cognitive game.
 
 **Further Reading**
 
-- [Cognitive Warfare](/society/認知作戰) — The systematic framework of cognitive operations and Taiwan's corresponding mechanisms, from academic analysis to concrete practices in civic education.
-- [Falun Gong in Taiwan](/society/法輪功在台灣) — From the Yangming Mountain Flower Clock to Taipei 101, the same mirror image of cross-strait comparison, how religious freedom becomes a touchstone for Taiwan's democratic values.
-- [Porter King](/people/波特王) — The first Taiwanese creator to expose the details of influencer United Front invitations on public platforms, the beginning and end of the exposure event.
-- [Pa Chiung](/people/八炯) — From the organizer of the United Front documentary to the Ketagalan Boulevard rally, Taiwan's civil society's attempts to counter cognitive warfare.
-- [Poison Potato Cognitive Warfare](/society/毒馬鈴薯認知作戰) — A false message about Taiwanese potatoes in 2022, how it became a typical case for observing cross-strait information warfare.
+- [Cognitive Warfare](/fr/society/cognitive-warfare-against-taiwan) — The systematic framework of cognitive operations and Taiwan's corresponding mechanisms, from academic analysis to concrete practices in civic education.
+- [Falun Gong in Taiwan](/fr/society/falun-gong-in-taiwan) — From the Yangming Mountain Flower Clock to Taipei 101, the same mirror image of cross-strait comparison, how religious freedom becomes a touchstone for Taiwan's democratic values.
+- [Porter King](/fr/people/potter-king-youtuber) — The first Taiwanese creator to expose the details of influencer United Front invitations on public platforms, the beginning and end of the exposure event.
+- [Pa Chiung](/fr/people/pa-chiung-political-youtuber) — From the organizer of the United Front documentary to the Ketagalan Boulevard rally, Taiwan's civil society's attempts to counter cognitive warfare.
+- [Poison Potato Cognitive Warfare](/fr/society/poisoned-potato-cognitive-warfare-taiwan) — A false message about Taiwanese potatoes in 2022, how it became a typical case for observing cross-strait information warfare.
 
 ## References
 

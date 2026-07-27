@@ -186,10 +186,10 @@ Du moment où, en 1944 sur les rives de la rivière Jiulong, il a perdu son pèr
 
 **Pour aller plus loin :**
 
-- [Littérature taïwanaise d'après-guerre](/art/戰後台灣文學) — Le contexte historique plus large de la génération de Lin Liang, ces « continentaux venus par-delà la mer qui ont commencé à écrire pour les enfants sur cette île »
-- [Littérature taïwanaise après la levée de la loi martiale](/art/解嚴後台灣文學) — La période durant laquelle Lin Liang a vu et participé à la transition de la littérature jeunesse, de la marge vers le centre
-- [Littérature de la période coloniale japonaise](/art/日治時期文學) — Le contexte littéraire taïwanais avant l'arrivée de Lin Liang, pour comprendre le contraste historique de sa position de « promoteur du mandarin »
-- [Histoire de la littérature taïwanaise](/art/台灣文學史) — La littérature jeunesse comme branche de la littérature taïwanaise d'après-guerre, dont Lin Liang est un fondateur
+- [Littérature taïwanaise d'après-guerre](/fr/art/postwar-taiwanese-literature) — Le contexte historique plus large de la génération de Lin Liang, ces « continentaux venus par-delà la mer qui ont commencé à écrire pour les enfants sur cette île »
+- [Littérature taïwanaise après la levée de la loi martiale](/fr/art/post-martial-law-taiwanese-literature) — La période durant laquelle Lin Liang a vu et participé à la transition de la littérature jeunesse, de la marge vers le centre
+- [Littérature de la période coloniale japonaise](/fr/art/taiwanese-literature-during-japanese-rule) — Le contexte littéraire taïwanais avant l'arrivée de Lin Liang, pour comprendre le contraste historique de sa position de « promoteur du mandarin »
+- [Histoire de la littérature taïwanaise](/fr/art/history-of-taiwanese-literature) — La littérature jeunesse comme branche de la littérature taïwanaise d'après-guerre, dont Lin Liang est un fondateur
 
 ## Références
 

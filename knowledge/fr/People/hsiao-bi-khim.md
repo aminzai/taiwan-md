@@ -135,13 +135,13 @@ Pourtant, cela pourrait bien être la réponse que Taïwan devra accepter à l�
 
 **Lectures complémentaires** :
 
-- [2026 Zheng‑Xi Meeting: a ten‑minute reunion of the leaders of the two parties](/society/2026%E9%84%AD%E7%BF%92%E6%9C%83%E8%88%87%E5%9C%8B%E5%85%B1%E5%8D%81%E5%B9%B4%E5%86%8D%E6%9C%83) — Lorsque Zheng Lì‑wén parlait à Pékin, la réponse discrète d’Hsiao Bi-khim sur la scène internationale soulevait la question « qui représente Taïwan ? »
-- [Lai Ching‑te](/people/賴清德) — L’autre moitié du duo : technocrate du secteur intérieur face à la guerrière diplomatique
-- [Zheng Lì‑wén](/people/鄭麗文) — Lecture comparative : les deux femmes politiques taïwanaises les plus médiatisées en 2026, aux trajectoires très différentes
-- [Crise du détroit et évolution des relations inter‑rives](/history/台海危機與兩岸關係發展) — La période où Hsiao Bi-khim était représentante à Washington correspondait au pivot complet de la politique américaine envers la RPC
-- [Transition démocratique de Taïwan](/history/台灣民主轉型) — Le contexte ecclésiastique presbytérien du père d’Hsiao Bi-khim a nourri l’un des courants spirituels de la démocratisation taïwanaise
-- [Tchao Jông‑tài](/people/卓榮泰) — Premier Premier ministre de Lai Ching‑te, il a reçu le sceau d’Hsiao Bi-khim lors de la cérémonie d’investiture du 20 mai 2024
-- [Hsu Chiao‑hsin](/people/徐巧芯) — Un autre modèle féminin de la politique taïwanaise, diamétralement opposé à Hsiao Bi-khim
+- [2026 Zheng‑Xi Meeting: a ten‑minute reunion of the leaders of the two parties](/fr/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Lorsque Zheng Lì‑wén parlait à Pékin, la réponse discrète d’Hsiao Bi-khim sur la scène internationale soulevait la question « qui représente Taïwan ? »
+- [Lai Ching‑te](/fr/people/lai-ching-te) — L’autre moitié du duo : technocrate du secteur intérieur face à la guerrière diplomatique
+- [Zheng Lì‑wén](/fr/people/cheng-li-wun) — Lecture comparative : les deux femmes politiques taïwanaises les plus médiatisées en 2026, aux trajectoires très différentes
+- [Crise du détroit et évolution des relations inter‑rives](/fr/history/taiwan-strait-crises-and-cross-strait-relations) — La période où Hsiao Bi-khim était représentante à Washington correspondait au pivot complet de la politique américaine envers la RPC
+- [Transition démocratique de Taïwan](/fr/history/taiwan-democratization) — Le contexte ecclésiastique presbytérien du père d’Hsiao Bi-khim a nourri l’un des courants spirituels de la démocratisation taïwanaise
+- [Tchao Jông‑tài](/fr/people/cho-jung-tai) — Premier Premier ministre de Lai Ching‑te, il a reçu le sceau d’Hsiao Bi-khim lors de la cérémonie d’investiture du 20 mai 2024
+- [Hsu Chiao‑hsin](/fr/people/hsu-chiao-hsin) — Un autre modèle féminin de la politique taïwanaise, diamétralement opposé à Hsiao Bi-khim
 
 ## Références
 

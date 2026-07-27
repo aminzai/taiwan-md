@@ -64,8 +64,8 @@ L'histoire de Hi-Life n'est pas seulement celle du déclin ou de la prospérité
 
 ## Lectures complémentaires
 
-- [Culture des magasins de proximité à Taïwan](/lifestyle/台灣便利商店文化) — Comment les chaînes de convenience sont devenues une infrastructure publique à Taïwan
-- [Coupons de loterie](/economy/發票) — L'économie quotidienne des coupons de loterie et du paiement par les magasins de proximité
+- [Culture des magasins de proximité à Taïwan](/fr/lifestyle/convenience-store-culture) — Comment les chaînes de convenience sont devenues une infrastructure publique à Taïwan
+- [Coupons de loterie](/fr/economy/taiwan-uniform-invoice) — L'économie quotidienne des coupons de loterie et du paiement par les magasins de proximité
 
 ## Références
 

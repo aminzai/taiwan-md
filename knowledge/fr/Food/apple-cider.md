@@ -219,11 +219,11 @@ Personne ne peut répondre par une simple annonce de cession d’actifs à la qu
 
 **Pour aller plus loin** :
 
-- [Culture taïwanaise des banquets ba’n-doh](/food/台灣辦桌文化) — Contexte de la culture des boissons dans les restaurants rechao et les banquets, et place d’Apple Sidra dans ce système
-- [Culture taïwanaise des boissons préparées à la main](/food/台灣手搖飲文化) — De la boisson au thé aux sodas, l’évolution de ce que boivent les Taïwanais
-- [Entreprise taïwanaise : Uni-President Enterprises](/economy/台灣企業：統一企業) — Principal concurrent de la même période sur le marché des boissons
-- [Entreprise taïwanaise : I-Mei Foods](/economy/台灣企業：義美食品) — Une autre marque historique ayant traversé des crises de sécurité alimentaire
-- [Bourse et marchés de capitaux de Taïwan](/economy/台灣股市與資本市場) — Contexte historique de l’affaire de la Tenth Credit Cooperative en 1985, de l’affaire Hongyuan en 1990 et des transferts de marque de 1985-1995 décrits ici
+- [Culture taïwanaise des banquets ba’n-doh](/fr/food/taiwan-banquet-culture) — Contexte de la culture des boissons dans les restaurants rechao et les banquets, et place d’Apple Sidra dans ce système
+- [Culture taïwanaise des boissons préparées à la main](/fr/food/hand-shaken-drink-culture) — De la boisson au thé aux sodas, l’évolution de ce que boivent les Taïwanais
+- [Entreprise taïwanaise : Uni-President Enterprises](/fr/economy/taiwan-enterprise-uni-president) — Principal concurrent de la même période sur le marché des boissons
+- [Entreprise taïwanaise : I-Mei Foods](/fr/economy/imei-foods-corporation) — Une autre marque historique ayant traversé des crises de sécurité alimentaire
+- [Bourse et marchés de capitaux de Taïwan](/fr/economy/taiwan-stock-market) — Contexte historique de l’affaire de la Tenth Credit Cooperative en 1985, de l’affaire Hongyuan en 1990 et des transferts de marque de 1985-1995 décrits ici
 
 ## Sources des images
 

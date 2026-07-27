@@ -87,7 +87,7 @@ La zone grise des faits est ici : Liu Mingchuan a bel et bien construit le premi
 
 L’un est un rêveur, l’autre un exécutant. Le choix du « père » dépend de ce que l’on juge le plus important : le commencement, ou l’achèvement. (Formulation issue du raisonnement développé par le commentaire de Chiang Ping-lun dans [UDN Opinion](https://opinion.udn.com/opinion/story/12705/4720975).)
 
-> 📝 **Point de vue curatorial :** La querelle autour du « père des chemins de fer » est en surface une question d’érudition historique ; en dessous, elle relève de la politique identitaire que la société taïwanaise ne cesse de traiter : entre l’héritage des Qing et celui de la colonisation japonaise, lequel est « davantage le nôtre » ? Cette question n’apparaît pas seulement dans les chemins de fer, mais aussi dans l’[architecture de la période coloniale japonaise](/fr/History/japanese-colonial-era/), les installations hydrauliques, et même le système médical.
+> 📝 **Point de vue curatorial :** La querelle autour du « père des chemins de fer » est en surface une question d’érudition historique ; en dessous, elle relève de la politique identitaire que la société taïwanaise ne cesse de traiter : entre l’héritage des Qing et celui de la colonisation japonaise, lequel est « davantage le nôtre » ? Cette question n’apparaît pas seulement dans les chemins de fer, mais aussi dans l’[architecture de la période coloniale japonaise](/fr/history/japanese-colonial-era/), les installations hydrauliques, et même le système médical.
 
 ## 1908 : ce jour-là au parc de Taichung
 
@@ -251,8 +251,8 @@ Cet article utilise 3 images sous licence CC, toutes mises en cache dans `public
 
 ## Pour aller plus loin
 
-- [Période des Qing](/history/清治時期) — Le contexte politique dans lequel Liu Mingchuan commença à poser des rails
-- [Période coloniale japonaise](/history/日治時期) — Le contexte colonial dans lequel Hasegawa Kinsuke et Kawai Shitarō reprirent la construction ferroviaire de Taïwan
-- [Guerre franco-chinoise](/history/清法戰爭) — La guerre à la suite de laquelle Liu Mingchuan fut nommé premier gouverneur de Taïwan, puis lança immédiatement la construction du chemin de fer de Keelung à Hsinchu
-- [Système de transport de Taïwan](/lifestyle/台灣交通系統) — La place du chemin de fer d’après-guerre dans un réseau de transports diversifié, entre routes, aéroports et métro
-- [Train à grande vitesse de Taïwan](/lifestyle/台灣高鐵) — Le système ferroviaire à grande vitesse ouvert en 2007, prolongement contemporain de l’histoire ferroviaire de Taïwan
+- [Période des Qing](/fr/history/qing-dynasty-rule) — Le contexte politique dans lequel Liu Mingchuan commença à poser des rails
+- [Période coloniale japonaise](/fr/history/japanese-colonial-era) — Le contexte colonial dans lequel Hasegawa Kinsuke et Kawai Shitarō reprirent la construction ferroviaire de Taïwan
+- [Guerre franco-chinoise](/fr/history/sino-french-war-in-taiwan) — La guerre à la suite de laquelle Liu Mingchuan fut nommé premier gouverneur de Taïwan, puis lança immédiatement la construction du chemin de fer de Keelung à Hsinchu
+- [Système de transport de Taïwan](/fr/lifestyle/transportation-system) — La place du chemin de fer d’après-guerre dans un réseau de transports diversifié, entre routes, aéroports et métro
+- [Train à grande vitesse de Taïwan](/fr/lifestyle/taiwan-high-speed-rail) — Le système ferroviaire à grande vitesse ouvert en 2007, prolongement contemporain de l’histoire ferroviaire de Taïwan

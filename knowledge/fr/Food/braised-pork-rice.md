@@ -86,9 +86,9 @@ De la nostalgie d'une grand-mère de village militaire au déjeuner réconfortan
 
 ## Pour aller plus loin
 
-- [Bœuf nouilles](/food/牛肉麵) — Autre mets national introduit à Taïwan par les migrants de 1949, partageant avec le riz au porc braisé l'héritage des villages militaires
-- [Culture du petit-déjeuner taïwanais](/food/台灣早餐文化) — De la galette farcie aux burgers et boulettes de riz, une autre facette de la fusion alimentaire taïwanaise
-- [Repli du gouvernement nationaliste et reconstruction d'après-guerre](/history/國民政府遷台與戰後重建) — Le contexte historique de la naissance du riz au porc braisé : la recomposition alimentaire après le repli de 1,2 million de militaires et civils
+- [Bœuf nouilles](/fr/food/beef-noodle-soup) — Autre mets national introduit à Taïwan par les migrants de 1949, partageant avec le riz au porc braisé l'héritage des villages militaires
+- [Culture du petit-déjeuner taïwanais](/fr/food/taiwan-breakfast-culture) — De la galette farcie aux burgers et boulettes de riz, une autre facette de la fusion alimentaire taïwanaise
+- [Repli du gouvernement nationaliste et reconstruction d'après-guerre](/fr/history/kmt-government-relocation-and-postwar-reconstruction) — Le contexte historique de la naissance du riz au porc braisé : la recomposition alimentaire après le repli de 1,2 million de militaires et civils
 
 ## Références
 

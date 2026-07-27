@@ -262,17 +262,17 @@ La montagne sacrée domine le présent grâce à 50 ans d'expérience industriel
 
 **Lectures complémentaires** :
 
-- [Entreprises taïwanaises : TSMC](/economy/台灣企業：台積電) — Gouvernance d'entreprise, structure financière et ampleur des investissements de la montagne sacrée
-- [Entreprises taïwanaises : MediaTek](/economy/台灣企業：聯發科技) — Comment le leader de la conception IC prend position dans les puces mobiles et le calcul de bord IA
-- [Entreprises taïwanaises : ASE Semiconductor](/economy/台灣企業：日月光半導體) — N°1 mondial dans l'emballage et le test, l'écosystème en aval au-delà de CoWoS
-- [Les créateurs de montagnes : Le pari du siècle](/art/造山者世紀的賭注) — Documentaire de 2025 de Hsiao Chu-chen, 5 ans d'entretiens avec 80+ vétérans des semi-conducteurs, entrant en 2026 dans les trois foyers d'investissement de la loi CHIPS à Purdue, Wisconsin et Michigan
-- [Wu Da-you](/people/吳大猷) — Pendant que Taïwan construisait les semi-conducteurs dans les années 1980, il a servi comme président de l'Academia Sinica, insistant sur l'importance des sciences fondamentales, posant les bases du système de recherche taïwanais
-- [Industrie robotique taïwanaise](/technology/台灣機器人產業) — Pourquoi l'île n°1 des semi-conducteurs est-elle en retard dans l'ère robotique ? Regard sur les fractures industrielles à travers l'ouverture de NCAIR
-- [Bourse taïwanaise et marché des capitaux](/economy/台灣股市與資本市場) — Comment l'écosystème de la chaîne d'approvisionnement soutenant le statut de Taïwan comme 6e économie mondiale en 2026 se manifeste sur le marché des capitaux
+- [Entreprises taïwanaises : TSMC](/fr/economy/tsmc) — Gouvernance d'entreprise, structure financière et ampleur des investissements de la montagne sacrée
+- [Entreprises taïwanaises : MediaTek](/fr/economy/mediatek) — Comment le leader de la conception IC prend position dans les puces mobiles et le calcul de bord IA
+- [Entreprises taïwanaises : ASE Semiconductor](/fr/economy/taiwan-enterprise-ase-semiconductor) — N°1 mondial dans l'emballage et le test, l'écosystème en aval au-delà de CoWoS
+- [Les créateurs de montagnes : Le pari du siècle](/fr/art/mountain-makers-tsmc-documentary) — Documentaire de 2025 de Hsiao Chu-chen, 5 ans d'entretiens avec 80+ vétérans des semi-conducteurs, entrant en 2026 dans les trois foyers d'investissement de la loi CHIPS à Purdue, Wisconsin et Michigan
+- [Wu Da-you](/fr/people/tai-yu-wu) — Pendant que Taïwan construisait les semi-conducteurs dans les années 1980, il a servi comme président de l'Academia Sinica, insistant sur l'importance des sciences fondamentales, posant les bases du système de recherche taïwanais
+- [Industrie robotique taïwanaise](/fr/technology/taiwan-robotics-industry) — Pourquoi l'île n°1 des semi-conducteurs est-elle en retard dans l'ère robotique ? Regard sur les fractures industrielles à travers l'ouverture de NCAIR
+- [Bourse taïwanaise et marché des capitaux](/fr/economy/taiwan-stock-market) — Comment l'écosystème de la chaîne d'approvisionnement soutenant le statut de Taïwan comme 6e économie mondiale en 2026 se manifeste sur le marché des capitaux
 - [Chaîne d'approvisionnement en tungstène taïwanaise](/technology/台灣鎢供應鏈) — Le hexafluorure de tungstène remplit les fenêtres de contact et les lignes de caractères 3D NAND ; Taïwan, dépourvue de mines de tungstène, se place au milieu de cette source de matériaux grâce au recyclage et à la raffinage
-- [École d'intelligence artificielle taïwanaise](/technology/台灣人工智慧學校) — Comment les 10 000 ingénieurs IA formés pendant huit ans par l'AIA retournent à la chaîne ICT existante des semi-conducteurs, renforçant le côté logiciel de Taïwan
-- [Computex : Trois salons informatiques internationaux en ont fermé deux, celui qui reste est né à Taipei](/technology/Computex) — CoWoS et procédés avancés de TSMC se serrent la main chaque fin mai avec les géants mondiaux de l'IA lors de ce salon informatique taïwanais de 45 ans
-- [Parcs scientifiques taïwanais](/technology/科技園區發展) — Les trois parcs de Hsinchu, Taichung et Tainan, supports physiques de l'écosystème semi-conducteur, et centre géographique du bouclier de silicium
+- [École d'intelligence artificielle taïwanaise](/fr/technology/taiwan-ai-academy) — Comment les 10 000 ingénieurs IA formés pendant huit ans par l'AIA retournent à la chaîne ICT existante des semi-conducteurs, renforçant le côté logiciel de Taïwan
+- [Computex : Trois salons informatiques internationaux en ont fermé deux, celui qui reste est né à Taipei](/fr/technology/computex-taipei) — CoWoS et procédés avancés de TSMC se serrent la main chaque fin mai avec les géants mondiaux de l'IA lors de ce salon informatique taïwanais de 45 ans
+- [Parcs scientifiques taïwanais](/fr/technology/science-park-development) — Les trois parcs de Hsinchu, Taichung et Tainan, supports physiques de l'écosystème semi-conducteur, et centre géographique du bouclier de silicium
 
 ## Sources d'images
 

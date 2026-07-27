@@ -181,10 +181,10 @@ Vous avez utilisé ses résultats (carte des masques, bot de vérification, conf
 
 ## Pour aller plus loin
 
-- [Communautés open source et g0v](/technology/開源社群與g0v) — L'OCF est née précisément pour tenir la comptabilité de communautés comme g0v, ces hackers citoyens qui « forkent le gouvernement », et la carte des masques en 72 heures.
-- [L'esprit open source taïwan](/technology/台灣開源精神) — Le concept « Argent public, code public » incarné par l'OCF est le prolongement de la culture open source taïwanaise, passant de la sphère technique à la gouvernance publique.
-- [Audrey Tang](/people/唐鳳) — De participante g0v à première ministre du Numérique, l'OCF a interagi à plusieurs reprises avec le ministère sous sa direction, tant en collaboration qu'en vigilance.
-- [Guerre cognitive](/society/認知作戰) — Le champ de bataille des infox combattu par le bot de vérification Cofacts, et les manipulations de l'information auxquelles Taïwan fait face.
+- [Communautés open source et g0v](/fr/technology/open-source-and-g0v) — L'OCF est née précisément pour tenir la comptabilité de communautés comme g0v, ces hackers citoyens qui « forkent le gouvernement », et la carte des masques en 72 heures.
+- [L'esprit open source taïwan](/fr/technology/taiwan-open-source-spirit) — Le concept « Argent public, code public » incarné par l'OCF est le prolongement de la culture open source taïwanaise, passant de la sphère technique à la gouvernance publique.
+- [Audrey Tang](/fr/people/audrey-tang) — De participante g0v à première ministre du Numérique, l'OCF a interagi à plusieurs reprises avec le ministère sous sa direction, tant en collaboration qu'en vigilance.
+- [Guerre cognitive](/fr/society/cognitive-warfare-against-taiwan) — Le champ de bataille des infox combattu par le bot de vérification Cofacts, et les manipulations de l'information auxquelles Taïwan fait face.
 
 ## Sources des images
 

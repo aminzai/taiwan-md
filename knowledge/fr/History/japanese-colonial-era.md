@@ -88,5 +88,5 @@ Les historiens débattent encore de l’interprétation de la période coloniale
 
 ## Lectures complémentaires
 
-- [乙未之役](/history/乙未之役) — Le point de départ de la période coloniale japonaise : le débarquement des troupes japonaises en 1895 et la résistance de la République de Formose.
-- [清治時期](/history/清治時期) — L’histoire de Taïwan avant la colonisation japonaise.
+- [乙未之役](/fr/history/1895-taiwan-resistance-war) — Le point de départ de la période coloniale japonaise : le débarquement des troupes japonaises en 1895 et la résistance de la République de Formose.
+- [清治時期](/fr/history/qing-dynasty-rule) — L’histoire de Taïwan avant la colonisation japonaise.

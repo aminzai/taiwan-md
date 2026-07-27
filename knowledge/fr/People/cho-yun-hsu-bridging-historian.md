@@ -269,12 +269,12 @@ Ce qu'il a laissé est un long cours qui continue de couler, sans réponse final
 
 **Lectures complémentaires** :
 
-- [Jay Chou](/people/周杰倫) — Figure représentante de la musique pop sino-phone de la même génération (contemporain de Wang Leehom, le petit-neveu maternel de Hsu Cho-yun)
-- [Lin Youjia](/people/林宥嘉) — Tranche générationnelle de la musique pop sino-phone (contrepoint générationnel avec Wang Leehom)
-- [Chen Jian-nian](/people/陳建年) — Modèle narratif à longue échelle d'une figure culturelle de la catégorie People
-- [Les Taïwanais de l'extérieur du détroit](/society/外省人) — Contexte post-1949 de Taïwan des familles d'intellectuels de la deuxième génération de l'extérieur du détroit ayant suivi Taïwan en 1949 (la famille de Hsu Cho-yun, Hsu Liu-fen, Hsu Wan-qing appartient à ce groupe)
-- [L'incident du 28 février](/history/二二八事件) — Tournant historique commun que les intellectuels de la même génération que Hsu Cho-yun ont affronté après avoir suivi Taïwan
-- [Yin Yan-liang : Le prix de la science qu'il a construit est plus cher que le Nobel](/people/尹衍樑) — Fondateur du prix Tang, 2024 sixième prix de sinologie décerné à Hsu Cho-yun, 50 millions de dollars de prix entièrement donnés pour créer la « bourse Hsu-Sun »
+- [Jay Chou](/fr/people/jay-chou) — Figure représentante de la musique pop sino-phone de la même génération (contemporain de Wang Leehom, le petit-neveu maternel de Hsu Cho-yun)
+- [Lin Youjia](/fr/people/yoga-lin) — Tranche générationnelle de la musique pop sino-phone (contrepoint générationnel avec Wang Leehom)
+- [Chen Jian-nian](/fr/people/chen-chien-nien) — Modèle narratif à longue échelle d'une figure culturelle de la catégorie People
+- [Les Taïwanais de l'extérieur du détroit](/fr/society/mainlanders-in-taiwan) — Contexte post-1949 de Taïwan des familles d'intellectuels de la deuxième génération de l'extérieur du détroit ayant suivi Taïwan en 1949 (la famille de Hsu Cho-yun, Hsu Liu-fen, Hsu Wan-qing appartient à ce groupe)
+- [L'incident du 28 février](/fr/history/228-incident) — Tournant historique commun que les intellectuels de la même génération que Hsu Cho-yun ont affronté après avoir suivi Taïwan
+- [Yin Yan-liang : Le prix de la science qu'il a construit est plus cher que le Nobel](/fr/people/samuel-yin-yan-liang) — Fondateur du prix Tang, 2024 sixième prix de sinologie décerné à Hsu Cho-yun, 50 millions de dollars de prix entièrement donnés pour créer la « bourse Hsu-Sun »
 
 ## Sources d'images
 

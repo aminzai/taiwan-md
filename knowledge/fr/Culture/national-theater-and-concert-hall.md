@@ -73,9 +73,9 @@ Lors d'une interview, Liu Yi-ru a également déclaré : « Les anciennes règle
 
 **Pour aller plus loin** :
 
-- [Mémorial Tchang Kaï-chek](/history/中正紀念堂) — Conçu par le même architecte Yang Cho-cheng à la même époque, lieu central du paysage politique de Tchang Kaï-chek et des questions de justice transitionnelle
-- [Période de la loi martiale](/history/戒嚴時期) — 1987, l'année d'inauguration des Deux Salles nationales, est aussi celle de la levée de la loi martiale ; comprendre le contexte politique aide à saisir la signification historique de l'édifice
-- [Théâtre de marionnettes Budaixi](/culture/布袋戲) — Une autre forme populaire des arts du spectacle taïwanais, tradition théâtrale plébéienne coexistant avec l'art raffiné des Deux Salles nationales
+- [Mémorial Tchang Kaï-chek](/fr/history/chiang-kai-shek-memorial-hall) — Conçu par le même architecte Yang Cho-cheng à la même époque, lieu central du paysage politique de Tchang Kaï-chek et des questions de justice transitionnelle
+- [Période de la loi martiale](/fr/history/martial-law-era) — 1987, l'année d'inauguration des Deux Salles nationales, est aussi celle de la levée de la loi martiale ; comprendre le contexte politique aide à saisir la signification historique de l'édifice
+- [Théâtre de marionnettes Budaixi](/fr/culture/taiwanese-glove-puppetry-budaixi) — Une autre forme populaire des arts du spectacle taïwanais, tradition théâtrale plébéienne coexistant avec l'art raffiné des Deux Salles nationales
 
 ## Références
 

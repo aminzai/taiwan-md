@@ -180,12 +180,12 @@ Diane Ying portait un jean rouge bordeaux emprunté lorsqu’elle alla interview
 
 **Lectures complémentaires** :
 
-- [The Reporter](/society/報導者) — un autre média taïwanais orienté vers le reportage de fond, mais suivant la voie opposée du non lucratif, du refus de la publicité et du financement par des dons de lecteurs inconnus ; le contraste le plus direct avec le mur payant et l’écosystème d’entreprises de CommonWealth
-- [PanSci](/society/泛科學) — un autre nouveau média taïwanais né dans les années 2010, qui maintient un espace de discussion publique par la communication scientifique et les services de savoir
-- [PTS](/society/公視) — une autre voie pour les médias publics taïwanais, qui traite la même difficulté, « à qui les médias doivent-ils répondre ? », par le budget public plutôt que par le mécanisme du marché
-- [Médias et liberté de la presse à Taïwan](/society/台灣媒體與新聞自由) — la controverse du retrait d’article de CommonWealth, ses classements de confiance et le contexte de la guerre informationnelle de la RPC s’inscrivent tous dans le cadre général de la liberté de la presse à Taïwan
-- [Les 50 plus grandes entreprises de Taïwan](/economy/台灣前50大企業) — les entreprises définies par les classements des « 2 000 plus grandes » et des « 50 plus grands groupes » de CommonWealth sont les protagonistes qui se trouvent derrière cette liste
-- [Entreprise taïwanaise : TSMC](/economy/台灣企業：台積電) — l’entreprise qui figure depuis longtemps en tête des classements des entreprises de référence et des 50 plus grands groupes de CommonWealth, et qui est aussi l’un des plus importants mécènes de sa fondation éducative
+- [The Reporter](/fr/society/the-reporter-investigative-journalism) — un autre média taïwanais orienté vers le reportage de fond, mais suivant la voie opposée du non lucratif, du refus de la publicité et du financement par des dons de lecteurs inconnus ; le contraste le plus direct avec le mur payant et l’écosystème d’entreprises de CommonWealth
+- [PanSci](/fr/society/pansci) — un autre nouveau média taïwanais né dans les années 2010, qui maintient un espace de discussion publique par la communication scientifique et les services de savoir
+- [PTS](/fr/society/pts-public-television-service) — une autre voie pour les médias publics taïwanais, qui traite la même difficulté, « à qui les médias doivent-ils répondre ? », par le budget public plutôt que par le mécanisme du marché
+- [Médias et liberté de la presse à Taïwan](/fr/society/media-and-press-freedom-in-taiwan) — la controverse du retrait d’article de CommonWealth, ses classements de confiance et le contexte de la guerre informationnelle de la RPC s’inscrivent tous dans le cadre général de la liberté de la presse à Taïwan
+- [Les 50 plus grandes entreprises de Taïwan](/fr/economy/top-50-companies-taiwan) — les entreprises définies par les classements des « 2 000 plus grandes » et des « 50 plus grands groupes » de CommonWealth sont les protagonistes qui se trouvent derrière cette liste
+- [Entreprise taïwanaise : TSMC](/fr/economy/tsmc) — l’entreprise qui figure depuis longtemps en tête des classements des entreprises de référence et des 50 plus grands groupes de CommonWealth, et qui est aussi l’un des plus importants mécènes de sa fondation éducative
 
 ## Sources des images
 

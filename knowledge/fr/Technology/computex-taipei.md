@@ -258,11 +258,11 @@ _Chaîne officielle de NVIDIA : version intégrale du discours-programme de Jens
 
 **Lectures complémentaires** :
 
-- [L'industrie des semi-conducteurs](/Technology/半導體產業) — La chaîne qui soutient la scène principale de Computex prend sa source dans les fabs de Hsinchu, Taichung et Tainan
-- [Développement et stratégie future de l'intelligence artificielle à Taïwan](/Technology/台灣人工智慧發展與未來策略) — De l'assemblage de serveurs à l'IA physique, l'industrie taïwanaise de l'IA opère sa deuxième mue
-- [L'industrie robotique taïwanaise](/Technology/台灣機器人產業) — Le premier passage de Hiwin à Computex, coupe transversale décisive de la formation de cette chaîne d'approvisionnement
-- [Le développement de la chaîne industrielle taïwanaise du véhicule électrique](/Technology/台灣電動車產業鏈發展) — Un autre axe majeur de fabrication, côte à côte avec les serveurs d'IA
-- [NVIDIA à Taïwan](/Technology/NVIDIA在台灣) — De l'enfance de Jensen Huang à Tainan à la scène principale de GTC Taipei
+- [L'industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — La chaîne qui soutient la scène principale de Computex prend sa source dans les fabs de Hsinchu, Taichung et Tainan
+- [Développement et stratégie future de l'intelligence artificielle à Taïwan](/fr/technology/artificial-intelligence-development-strategy) — De l'assemblage de serveurs à l'IA physique, l'industrie taïwanaise de l'IA opère sa deuxième mue
+- [L'industrie robotique taïwanaise](/fr/technology/taiwan-robotics-industry) — Le premier passage de Hiwin à Computex, coupe transversale décisive de la formation de cette chaîne d'approvisionnement
+- [Le développement de la chaîne industrielle taïwanaise du véhicule électrique](/fr/technology/taiwan-electric-vehicle-industry-chain) — Un autre axe majeur de fabrication, côte à côte avec les serveurs d'IA
+- [NVIDIA à Taïwan](/fr/technology/nvidia-in-taiwan) — De l'enfance de Jensen Huang à Tainan à la scène principale de GTC Taipei
 
 ## Sources des images
 

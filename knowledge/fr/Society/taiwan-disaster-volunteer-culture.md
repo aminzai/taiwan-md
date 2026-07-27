@@ -182,10 +182,10 @@ La prochaine catastrophe viendra inévitablement. Le quai de la gare de Guangfu 
 
 **Lecture complémentaire** :
 
-- [Chanteurs-compositeurs autochtones contemporains](/music/當代原住民創作歌手) — Comment Chen Chien-nian, Hu Defu et d'autres musiciens autochtones intègrent l'expérience tribale dans la carte sonore de la Taïwan contemporaine
-- [Culture du bénévolat et participation philanthropique à Taïwan](/society/台灣志工文化與公益參與) — De Tzu Chi à d'innombrables petites ONG, l'écologie de la société civile taïwanaise
-- [Mythes autochtones](/culture/原住民神話) — Des mythes de création de Mataian aux thèmes de l'inondation dans les légendes de Taroko et Paiwan, et la mémoire géographique insulaire de Taïwan
-- [Justice foncière et territoires traditionnels des peuples autochtones de Taïwan](/society/台灣原住民族土地正義與傳統領域) — Autonomie tribale, délimitation des territoires traditionnels et subjectivité tribale dans la reconstruction post-catastrophe
+- [Chanteurs-compositeurs autochtones contemporains](/fr/music/contemporary-indigenous-singer-songwriters) — Comment Chen Chien-nian, Hu Defu et d'autres musiciens autochtones intègrent l'expérience tribale dans la carte sonore de la Taïwan contemporaine
+- [Culture du bénévolat et participation philanthropique à Taïwan](/fr/society/volunteering-and-civic-charity-in-taiwan) — De Tzu Chi à d'innombrables petites ONG, l'écologie de la société civile taïwanaise
+- [Mythes autochtones](/fr/culture/taiwan-indigenous-mythology) — Des mythes de création de Mataian aux thèmes de l'inondation dans les légendes de Taroko et Paiwan, et la mémoire géographique insulaire de Taïwan
+- [Justice foncière et territoires traditionnels des peuples autochtones de Taïwan](/fr/society/indigenous-land-justice-and-traditional-territories) — Autonomie tribale, délimitation des territoires traditionnels et subjectivité tribale dans la reconstruction post-catastrophe
 
 ## Sources d'images
 

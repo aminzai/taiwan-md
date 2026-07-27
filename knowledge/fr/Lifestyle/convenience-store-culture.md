@@ -249,9 +249,9 @@ Dans la vague de mondialisation, la culture des supérettes taïwanaises est dev
 
 **Pour aller plus loin :**
 
-- [台灣感性：韓國人眼中的台式美學](/culture/台灣感性) — Les supérettes illuminées au milieu de la nuit sont une scène classique du « 대만감성 » (sensibilité taïwanaise) capturée par les objectifs coréens
-- [發票：1951 年那張把全民變成稅務稽查員的紙](/economy/發票) — Le portefeuille de factures électroniques sur le cloud est le plus souvent utilisé en supérette : chaque passage en caisse est simultanément le dernier kilomètre de la mobilisation fiscale quotidienne
-- [台灣企業：統一企業](/economy/台灣企業：統一企業) — Le groupe Uni-President, derrière 7-ELEVEN, est passé d'un simple paquet de nouilles Uni-President à un empire de la distribution qui rythme toute la journée des Taïwanais
+- [台灣感性：韓國人眼中的台式美學](/fr/culture/taiwanese-sensibility) — Les supérettes illuminées au milieu de la nuit sont une scène classique du « 대만감성 » (sensibilité taïwanaise) capturée par les objectifs coréens
+- [發票：1951 年那張把全民變成稅務稽查員的紙](/fr/economy/taiwan-uniform-invoice) — Le portefeuille de factures électroniques sur le cloud est le plus souvent utilisé en supérette : chaque passage en caisse est simultanément le dernier kilomètre de la mobilisation fiscale quotidienne
+- [台灣企業：統一企業](/fr/economy/taiwan-enterprise-uni-president) — Le groupe Uni-President, derrière 7-ELEVEN, est passé d'un simple paquet de nouilles Uni-President à un empire de la distribution qui rythme toute la journée des Taïwanais
 
 ## Références
 

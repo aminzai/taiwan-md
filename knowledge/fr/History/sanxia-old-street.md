@@ -56,8 +56,8 @@ L’histoire de la rue continue. Elle n’est plus seulement un lieu de commerce
 
 **Lectures complémentaires** :
 
-- [Teinture bleue](/culture/藍染) — L’art des ateliers de teinture de Sanjiaoyong, du commerce d’exportation de l’époque Qing à la première écharpe bleue produite en 1999 après soixante‑dix ans de relance.
-- [Artisanat traditionnel taïwanais et patrimoine immatériel](/culture/台灣傳統工藝與無形文化資產) — Position de la relance de la teinture bleue de Sanxia dans le système de sauvegarde de l’artisanat taïwanais.
+- [Teinture bleue](/fr/culture/taiwan-indigo-dyeing) — L’art des ateliers de teinture de Sanjiaoyong, du commerce d’exportation de l’époque Qing à la première écharpe bleue produite en 1999 après soixante‑dix ans de relance.
+- [Artisanat traditionnel taïwanais et patrimoine immatériel](/fr/culture/traditional-crafts-intangible-cultural-heritage) — Position de la relance de la teinture bleue de Sanxia dans le système de sauvegarde de l’artisanat taïwanais.
 
 ## Références
 

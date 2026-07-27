@@ -109,7 +109,7 @@ Fire Ex est interdit en Chine. Après _Île de Lumière_, toute relation avec le
 
 ## 2024 : Sept minutes au Takao Festival
 
-Début octobre 2024, trois artistes — Anpu (Deserts Chang), Mayday et Wu Kang-ren — ont été la cible d'une campagne de vindicte sur les réseaux sociaux taïwanais après avoir publié des messages de félicitations pour la fête nationale du 1er octobre sur Weibo. Les 12 et 13 octobre, le Takao Festival se tenait à Kaohsiung, attirant environ cent mille personnes en deux jours. [Anpu est montée sur scène le 12](/music/張懸與安溥/), face aux drapeaux de baleines et aux drapeaux du Mont Yushan dans le public : « Dans mes concerts, vous serez toujours libres et en sécurité. »
+Début octobre 2024, trois artistes — Anpu (Deserts Chang), Mayday et Wu Kang-ren — ont été la cible d'une campagne de vindicte sur les réseaux sociaux taïwanais après avoir publié des messages de félicitations pour la fête nationale du 1er octobre sur Weibo. Les 12 et 13 octobre, le Takao Festival se tenait à Kaohsiung, attirant environ cent mille personnes en deux jours. [Anpu est montée sur scène le 12](/fr/music/deserts-chang-and-anpu/), face aux drapeaux de baleines et aux drapeaux du Mont Yushan dans le public : « Dans mes concerts, vous serez toujours libres et en sécurité. »
 
 Le lendemain, 13 octobre, Fire Ex clôturait le festival. Sam Yang s'est arrêté sur la scène du Kaohsiung Music Center et a pris près de sept minutes pour aborder la question [^19].
 
@@ -129,12 +129,12 @@ Ovation générale. Ces sept minutes, filmées par des spectateurs et partagées
 
 ## Pour aller plus loin
 
-- [La musique indépendante taïwanaise](/music/台灣獨立音樂/) — La scène indépendante dont Fire Ex fait partie
-- [Histoire du rock taïwan](/music/台灣搖滾樂發展史/) — De l'époque des chansons interdites au Megaport Festival
-- [Le mouvement tournesol](/society/太陽花學運/) — Ce mois de mars où _Île de Lumière_ est née
-- [La culture des festivals de musique à Taïwan](/music/台灣音樂祭文化/) — De Fulong au Fireball Fest
-- [Zhang Xuan et Anpu](/music/張懸與安溥/) — L'autre face des sept minutes du Takao Festival
-- [Lizhi Heishe](/music/濁水溪公社/) — Le punk taïwanais qui documentait l'époque une génération plus tôt, dans l'underground
+- [La musique indépendante taïwanaise](/fr/music/indie-music-scene/) — La scène indépendante dont Fire Ex fait partie
+- [Histoire du rock taïwan](/fr/music/taiwan-rock-from-underground-to-mainstream/) — De l'époque des chansons interdites au Megaport Festival
+- [Le mouvement tournesol](/fr/society/sunflower-movement/) — Ce mois de mars où _Île de Lumière_ est née
+- [La culture des festivals de musique à Taïwan](/fr/music/taiwan-music-festival-culture/) — De Fulong au Fireball Fest
+- [Zhang Xuan et Anpu](/fr/music/deserts-chang-and-anpu/) — L'autre face des sept minutes du Takao Festival
+- [Lizhi Heishe](/fr/music/loh-tsui-kang-commune/) — Le punk taïwanais qui documentait l'époque une génération plus tôt, dans l'underground
 
 ## Références
 

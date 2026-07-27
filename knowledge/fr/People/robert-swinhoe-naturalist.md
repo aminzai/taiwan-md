@@ -120,12 +120,12 @@ Cet oiseau chante encore dans les montagnes de Taïwan. Il ne connaît pas son n
 
 **Pour aller plus loin** :
 
-- [Ornithologie de Formose](/nature/福爾摩沙鳥類學) — Analyse approfondie de _The Ornithology of Formosa_ (1863) de Swinhoe : 201 noms latins, 30 chasseurs, et la cordillère centrale qu'il n'atteignit jamais
-- [Période Qing](/history/清治時期) — Le contexte historique de l'arrivée de Swinhoe : ouverture des ports, conflits du camphre, Formose prise entre les empires
-- [Espèces endémiques de Taïwan](/nature/特有種) — De nombreuses espèces documentées par Swinhoe furent ultérieurement confirmées comme endémiques de Taïwan
-- [Pirolle de Taïwan](/nature/台灣藍鵲) — Spécimen collecté par Swinhoe en 1862, élu oiseau national en 2007
-- [Charles Le Gendre](/people/李仙得) — Un autre diplomate étranger qui laissa une empreinte profonde à Formose à la même époque, mais avec des motivations très différentes
-- [La guerre du camphre au XIXe siècle](/history/19世紀的樟腦戰爭) — L'article de Swinhoe « Formosa Camphor » (1864) est la préhistoire de ce conflit : trois paliers de prix, obtention de droits de coupe par le don, production annuelle de 6 000 piculs à Tamsui
+- [Ornithologie de Formose](/fr/nature/the-ornithology-of-formosa) — Analyse approfondie de _The Ornithology of Formosa_ (1863) de Swinhoe : 201 noms latins, 30 chasseurs, et la cordillère centrale qu'il n'atteignit jamais
+- [Période Qing](/fr/history/qing-dynasty-rule) — Le contexte historique de l'arrivée de Swinhoe : ouverture des ports, conflits du camphre, Formose prise entre les empires
+- [Espèces endémiques de Taïwan](/fr/nature/endemic-species) — De nombreuses espèces documentées par Swinhoe furent ultérieurement confirmées comme endémiques de Taïwan
+- [Pirolle de Taïwan](/fr/nature/taiwan-blue-magpie) — Spécimen collecté par Swinhoe en 1862, élu oiseau national en 2007
+- [Charles Le Gendre](/fr/people/charles-le-gendre) — Un autre diplomate étranger qui laissa une empreinte profonde à Formose à la même époque, mais avec des motivations très différentes
+- [La guerre du camphre au XIXe siècle](/fr/history/19th-century-camphor-wars) — L'article de Swinhoe « Formosa Camphor » (1864) est la préhistoire de ce conflit : trois paliers de prix, obtention de droits de coupe par le don, production annuelle de 6 000 piculs à Tamsui
 
 ## Références
 

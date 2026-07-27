@@ -332,11 +332,11 @@ L'horloger continue de marcher. Le mécanisme de l'horloge continue de tourner. 
 
 ## Pour aller plus loin
 
-- **[FAB DAO et le projet des Cent Montagnes](/art/FAB%20DAO與百岳計畫)** — La genèse complète de l'organisation autonome de NFT philanthropiques cofondée par Wu Che-Yu
-- **[L'art des nouveaux médias à Taïwan](/art/台灣新媒體藝術)** — Quarante ans de généalogie de l'art des nouveaux médias taïwanais, de Yuan Guangming et Huang Xinjiang à Wu Che-Yu
-- **[Wang Xinren (Aluan)](/art/王新仁)** — Artiste taïwanais parmi les premiers sur Art Blocks, membre central du même groupe que Wu Che-Yu dans le projet des Cent Montagnes
-- **[Wang Liancheng (Shaba)](/art/王連晟)** — Lauréat du prix de sculpture Lumen Award 2017, artiste en installation sonore du même groupe dans le projet des Cent Montagnes
-- **[Taiwan.md écrit Taiwan.md](/about/taiwan-md)** — La base de connaissances open source qu'il a lancée en 2026, racontant sa propre genèse et croissance à la première personne
+- **[FAB DAO et le projet des Cent Montagnes](/fr/art/fab-dao)** — La genèse complète de l'organisation autonome de NFT philanthropiques cofondée par Wu Che-Yu
+- **[L'art des nouveaux médias à Taïwan](/fr/art/taiwan-new-media-art)** — Quarante ans de généalogie de l'art des nouveaux médias taïwanais, de Yuan Guangming et Huang Xinjiang à Wu Che-Yu
+- **[Wang Xinren (Aluan)](/fr/art/wang-hsin-jen-artist)** — Artiste taïwanais parmi les premiers sur Art Blocks, membre central du même groupe que Wu Che-Yu dans le projet des Cent Montagnes
+- **[Wang Liancheng (Shaba)](/fr/art/wang-lien-cheng-artist)** — Lauréat du prix de sculpture Lumen Award 2017, artiste en installation sonore du même groupe dans le projet des Cent Montagnes
+- **[Taiwan.md écrit Taiwan.md](/fr/about/founder)** — La base de connaissances open source qu'il a lancée en 2026, racontant sa propre genèse et croissance à la première personne
 
 ## Références
 

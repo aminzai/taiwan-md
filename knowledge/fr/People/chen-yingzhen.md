@@ -92,7 +92,7 @@ La ligne éditoriale de Renjian incarne la position culturelle constante de Chen
 
 ## Accomplissement littéraire et place historique
 
-La place de Chen Yingzhen dans l’histoire littéraire taïwanaise est éminente. Avec [Pai Hsien-yung](/fr/People/pai-hsien-yung-literary-master/), [Huang Chun-ming](/fr/People/huang-chun-ming-taiwanese-literary-master/), Wang Zhenhe et d’autres, il forme une constellation majeure de la littérature moderne taïwanaise. La différence tient à ceci : si [Pai Hsien-yung](/fr/People/pai-hsien-yung-literary-master/) s’intéresse au monde spirituel des intellectuels urbains, et si [Huang Chun-ming](/fr/People/huang-chun-ming-taiwanese-literary-master/) décrit la vie et les saveurs des petites gens, Chen Yingzhen, lui, se concentre sur les problèmes structurels de l’ensemble de la société.
+La place de Chen Yingzhen dans l’histoire littéraire taïwanaise est éminente. Avec [Pai Hsien-yung](/fr/people/pai-hsien-yung-literary-master/), [Huang Chun-ming](/fr/people/huang-chun-ming-taiwanese-literary-master/), Wang Zhenhe et d’autres, il forme une constellation majeure de la littérature moderne taïwanaise. La différence tient à ceci : si [Pai Hsien-yung](/fr/people/pai-hsien-yung-literary-master/) s’intéresse au monde spirituel des intellectuels urbains, et si [Huang Chun-ming](/fr/people/huang-chun-ming-taiwanese-literary-master/) décrit la vie et les saveurs des petites gens, Chen Yingzhen, lui, se concentre sur les problèmes structurels de l’ensemble de la société.
 
 Son œuvre possède un puissant esprit de critique sociale et une profonde dimension humaniste, apportant un contenu réaliste à la littérature taïwanaise. Même si la plupart de ses personnages appartiennent aux classes populaires, ils ont tous une personnalité nette et une intériorité profonde, ce qui traduit la compréhension que l’auteur a de la nature humaine.
 
@@ -136,4 +136,4 @@ Ses œuvres représentatives couvrent les recueils et séries de fiction La Trib
 ## Lectures complémentaires
 
 - [台灣文學館 — 陳映真](https://www.nmtl.gov.tw/) — Biographie de Chen Yingzhen, chronologie de ses œuvres et conservation de ses manuscrits
-- [白先勇](/people/白先勇) — Grand écrivain taïwanais de la même génération, connu pour Gens de Taipei
+- [白先勇](/fr/people/pai-hsien-yung-literary-master) — Grand écrivain taïwanais de la même génération, connu pour Gens de Taipei

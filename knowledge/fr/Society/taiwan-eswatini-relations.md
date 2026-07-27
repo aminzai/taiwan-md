@@ -201,13 +201,13 @@ La dernière artère diplomatique africaine, suspendue à une seule personne. C'
 
 **Pour aller plus loin :**
 
-- [Les alliés diplomatiques de Taïwan et les relations internationales](/society/台灣邦交國與國際外交) — l'architecture à trois niveaux : 12 alliés diplomatiques, 113 représentations à l'étranger, 177 destinations sans visa ; Eswatini est la pièce africaine la plus cruciale
-- [Lai Ching-te](/people/賴清德) — de médecin de Tainan à président de la République de Chine, l'évolution du discours de Lai sur les relations extérieures depuis son entrée en fonction
-- [Tsai Ing-wen](/people/蔡英文) — la présidente qui a visité Eswatini à deux reprises, en 2018 et 2023, deux moments correspondant à deux phases des relations bilatérales
-- [Le mouvement du Tournesol](/society/太陽花學運) — comment la rue de 2014 est devenue le socle du discours institutionnel vers l'extérieur en 2024-2025
-- [La rencontre Zheng-Xi de 2026 et la reprise de contact Kuomintang-Parti communiste](/society/2026鄭習會與國共十年再會) — les dynamiques simultanées entre les deux rives, pour comprendre le contexte plus large de la pression chinoise sur Taïwan
-- [La guerre cognitive](/society/認知作戰) — un cadre plus systémique pour les opérations langagières chinoises comme « rat » ou « escapade de contrebande »
-- [Le Paraguay et Taïwan](/society/巴拉圭與台灣) — le seul allié sud-américain, un autre type de relation maintenue sous pression chinoise grâce à une coopération de long terme
+- [Les alliés diplomatiques de Taïwan et les relations internationales](/fr/society/taiwan-diplomatic-allies-and-international-relations) — l'architecture à trois niveaux : 12 alliés diplomatiques, 113 représentations à l'étranger, 177 destinations sans visa ; Eswatini est la pièce africaine la plus cruciale
+- [Lai Ching-te](/fr/people/lai-ching-te) — de médecin de Tainan à président de la République de Chine, l'évolution du discours de Lai sur les relations extérieures depuis son entrée en fonction
+- [Tsai Ing-wen](/fr/people/tsai-ing-wen) — la présidente qui a visité Eswatini à deux reprises, en 2018 et 2023, deux moments correspondant à deux phases des relations bilatérales
+- [Le mouvement du Tournesol](/fr/society/sunflower-movement) — comment la rue de 2014 est devenue le socle du discours institutionnel vers l'extérieur en 2024-2025
+- [La rencontre Zheng-Xi de 2026 et la reprise de contact Kuomintang-Parti communiste](/fr/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — les dynamiques simultanées entre les deux rives, pour comprendre le contexte plus large de la pression chinoise sur Taïwan
+- [La guerre cognitive](/fr/society/cognitive-warfare-against-taiwan) — un cadre plus systémique pour les opérations langagières chinoises comme « rat » ou « escapade de contrebande »
+- [Le Paraguay et Taïwan](/fr/society/paraguay-taiwan) — le seul allié sud-américain, un autre type de relation maintenue sous pression chinoise grâce à une coopération de long terme
 
 ## Crédits photographiques
 

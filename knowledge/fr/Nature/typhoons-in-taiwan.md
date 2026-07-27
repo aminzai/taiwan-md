@@ -162,7 +162,7 @@ Mais ce calcul laisse de côté un problème structurel. Une enquête de yes123 
 >
 > L’histoire du congé typhon et celle de la « montagne sacrée qui protège le pays » sont en réalité deux versions d’une même histoire. La montagne transforme le vent en eau : sur quelles maisons la déverse-t-elle ? L’annonce de suspension du travail donne un congé à qui, et oublie qui ? Dans un même typhon, la pluviométrie paraît uniforme sur la carte, mais ceux qui en supportent le coût ne le sont jamais.
 
-La distribution sociale complète du congé typhon, les angles morts derrière le calcul des 31,5 milliards, et la situation des travailleurs migrants : tout cela relève d’une autre histoire indépendante, racontée dans l’article [Congé typhon](/Society/颱風假).
+La distribution sociale complète du congé typhon, les angles morts derrière le calcul des 31,5 milliards, et la situation des travailleurs migrants : tout cela relève d’une autre histoire indépendante, racontée dans l’article [Congé typhon](/fr/society/typhoon-day).
 
 ## Les stations météo des tribus : une sagesse millénaire comme dernier filet de sécurité
 
@@ -214,11 +214,11 @@ Nous pouvons prévoir le vent et la pluie, mais pas le destin.
 
 ## Lectures complémentaires
 
-- [Congé typhon](/Society/颱風假) — Dans un même typhon, les cols blancs du secteur public restent chez eux, les travailleurs du commerce de gros et de détail sortent. La fracture de classe oubliée par le calcul des 31,5 milliards
-- [Crise climatique et transition vers le zéro émission nette à Taïwan](/Nature/台灣氣候危機與淨零轉型) — Derrière l’augmentation de 40 % de l’intensité des pluies cycloniques, il y a le contexte plus large du réchauffement global et de la transition énergétique de Taïwan
-- [Écosystèmes de haute montagne et reliques glaciaires à Taïwan](/Nature/台灣高山生態系與冰河孑遺) — La chaîne centrale ne modifie pas seulement les trajectoires des typhons ; elle abrite aussi les écosystèmes de haute altitude parmi les plus élevés du monde
-- [Pluies de prunes](/Nature/梅雨) — En dehors des typhons, la saison des pluies de prunes est une autre grande source de précipitations à Taïwan, elle aussi affectée par le changement climatique
-- [Îles périphériques et cultures océaniques](/Geography/離島與海洋文化) — Les architectures traditionnelles et les savoirs toponymiques des Tao de Lanyu ont une valeur particulière de prévention des catastrophes à l’ère des typhons
+- [Congé typhon](/fr/society/typhoon-day) — Dans un même typhon, les cols blancs du secteur public restent chez eux, les travailleurs du commerce de gros et de détail sortent. La fracture de classe oubliée par le calcul des 31,5 milliards
+- [Crise climatique et transition vers le zéro émission nette à Taïwan](/fr/nature/taiwan-climate-change-net-zero-transition) — Derrière l’augmentation de 40 % de l’intensité des pluies cycloniques, il y a le contexte plus large du réchauffement global et de la transition énergétique de Taïwan
+- [Écosystèmes de haute montagne et reliques glaciaires à Taïwan](/fr/nature/taiwan-alpine-ecosystems-glacial-relicts) — La chaîne centrale ne modifie pas seulement les trajectoires des typhons ; elle abrite aussi les écosystèmes de haute altitude parmi les plus élevés du monde
+- [Pluies de prunes](/fr/nature/meiyu-stagnant-front) — En dehors des typhons, la saison des pluies de prunes est une autre grande source de précipitations à Taïwan, elle aussi affectée par le changement climatique
+- [Îles périphériques et cultures océaniques](/fr/geography/offshore-islands-and-maritime-culture) — Les architectures traditionnelles et les savoirs toponymiques des Tao de Lanyu ont une valeur particulière de prévention des catastrophes à l’ère des typhons
 
 ## Sources des images
 

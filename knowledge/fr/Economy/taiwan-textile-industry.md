@@ -67,8 +67,8 @@ Zhou Li-ping, PDG de Juyang, a déclaré lors de la transmission du flambeau à 
 
 ## Lectures complémentaires
 
-- [Économie circulaire et réutilisation des ressources à Taïwan](/economy/台灣循環經濟與資源再利用) — Contexte de l'économie "bouteille à vêtement"
-- [Montée en gamme industrielle à Taïwan](/economy/台灣產業轉型升級) — Cadre plus large de la transformation industrielle
+- [Économie circulaire et réutilisation des ressources à Taïwan](/fr/economy/circular-economy-and-resource-recycling) — Contexte de l'économie "bouteille à vêtement"
+- [Montée en gamme industrielle à Taïwan](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — Cadre plus large de la transformation industrielle
 
 ## Références et sources
 

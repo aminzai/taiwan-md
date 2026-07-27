@@ -117,8 +117,8 @@ La France a obtenu le Vietnam. La Chine des Qing a gardé Taïwan. Six cents sol
 
 **Pour aller plus loin :**
 
-- [La période Qing à Taïwan](/history/清治時期) — Le contexte dans lequel s'inscrit la guerre sino-française : l'ouverture des ports, l'arrivée des puissances étrangères sur Formose
-- [L'histoire du chemin de fer taïwanais](/history/台灣鐵道史) — La ligne Keelung–Hsinchu construite par Liu Mingchuan après la guerre, point de départ du réseau ferroviaire taïwanais
+- [La période Qing à Taïwan](/fr/history/qing-dynasty-rule) — Le contexte dans lequel s'inscrit la guerre sino-française : l'ouverture des ports, l'arrivée des puissances étrangères sur Formose
+- [L'histoire du chemin de fer taïwanais](/fr/history/taiwan-railway-history) — La ligne Keelung–Hsinchu construite par Liu Mingchuan après la guerre, point de départ du réseau ferroviaire taïwanais
 - [Le Mouvement des tournesols](/history/太陽花學運) — Un autre moment où Taïwan a résisté à une pression extérieure en s'appuyant sur la mobilisation populaire
 
 ## Références

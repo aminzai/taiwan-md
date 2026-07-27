@@ -143,7 +143,7 @@ Elle ne répond pas frontalement. Elle dit autre chose [^30] :
 
 Puis elle s'incline profondément devant ceux qui brandissent les drapeaux.
 
-Le lendemain, 13 octobre, même festival Takao. Sam Yang, chanteur principal de [Fire EX.](/music/滅火器樂團/), s'arrête en plein concert et passe près de sept minutes à parler de cette affaire [^30][^32].
+Le lendemain, 13 octobre, même festival Takao. Sam Yang, chanteur principal de [Fire EX.](/fr/music/fire-ex/), s'arrête en plein concert et passe près de sept minutes à parler de cette affaire [^30][^32].
 
 Il ne défend pas Anpu et ne se joint pas non plus au lynchage. Il parle de structure : « C'est l'embarras d'une époque, et l'embarras d'un marché. Nous avons la chance de ne pas avoir à penser au marché chinois. Mais ce qu'eux affrontent est différent — une tentation gigantesque, et peut-être l'envie de nourrir plus de monde. » Par « eux », il vise simultanément Anpu, Mayday et Wu Kang-jen — trois groupes ou artistes attaqués la même semaine sur Taïwan pour leurs publications Weibo de la fête nationale [^32].
 
@@ -169,11 +169,11 @@ Peut-être la fille a-t-elle appris la même chose de son père. Sauf que la ré
 
 ## Pour aller plus loin
 
-- [Musique indépendante taïwanaise](/music/台灣獨立音樂/) — La scène à laquelle appartient Deserts Chang
-- [Histoire du rock à Taïwan](/music/台灣搖滾樂發展史/) — De l'ère des chansons interdites au Hohaiyan Rock Festival
-- [Mouvement Tournesol](/society/太陽花學運/) — Après les trente secondes qui ont changé Taïwan en 2014
-- [Culture des festivals de musique à Taïwan](/music/台灣音樂祭文化/) — De Gongliao au festival Takao
-- [Rainie Yang](/people/楊丞琳) — Un autre parcours de chanteuse sinophone sur 25 ans, du modèle « produite » au modèle « auto-productrice »
+- [Musique indépendante taïwanaise](/fr/music/indie-music-scene/) — La scène à laquelle appartient Deserts Chang
+- [Histoire du rock à Taïwan](/fr/music/taiwan-rock-from-underground-to-mainstream/) — De l'ère des chansons interdites au Hohaiyan Rock Festival
+- [Mouvement Tournesol](/fr/society/sunflower-movement/) — Après les trente secondes qui ont changé Taïwan en 2014
+- [Culture des festivals de musique à Taïwan](/fr/music/taiwan-music-festival-culture/) — De Gongliao au festival Takao
+- [Rainie Yang](/fr/people/rainie-yang) — Un autre parcours de chanteuse sinophone sur 25 ans, du modèle « produite » au modèle « auto-productrice »
 
 ## Références
 

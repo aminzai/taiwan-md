@@ -230,14 +230,14 @@ Tainan est le lieu de Taïwan qui fut le plus tôt colonisé, le premier à éta
 
 ## Pour aller plus loin
 
-- [Zheng Chenggong](/people/鄭成功) — Débarqua à Luermen le 30 avril 1661, mourut à Chengtianfu le 23 juin 1662 à l'âge de 38 ans, fondateur du premier pouvoir politique Han à Taïwan
-- [Époque néerlandaise, espagnole et Ming-Zheng](/history/荷西明鄭時期) — L'histoire complète des 60 ans de Tainan, de Fort Zeelandia au royaume de Tungning, de 1624 à 1683
-- [Incident du 28 février](/history/二二八事件) — Le contexte national de la mort de Tang Te-chang en 1947
-- [Lai Ching-te](/people/賴清德) — Premier maire après la fusion du comté et de la ville de Tainan en 2010, fixa en 2014 le 13 mars comme Journée de la justice et du courage, devint président en 2024
-- [Lac du Soleil et de la Lune](/geography/日月潭) — Repère du centre de Taïwan aux côtés de Tainan ; le barrage de Wujie de 1934 et le canal de Jianan de 1930 appartiennent au même âge d'or des travaux hydrauliques japonais
-- [Industrie des semi-conducteurs](/technology/半導體產業) — Le contexte industriel complet du STSP, qui dépassa le Hsinchu Science Park en 2023 avec 1 585,5 milliards de dollars taïwanais
-- [Ville de Keelung](/geography/基隆市) — Pilote de la série des 22 villes et comtés : comme Tainan, une ville portuaire Qing souvent oubliée par les récits centrés sur le pouvoir
-- [Comté de Nantou](/geography/南投縣) — Article frère du batch 3 de la série des 22 villes et comtés : comme Tainan, un territoire avec une histoire de reconnaissance des peuples autochtones
+- [Zheng Chenggong](/fr/people/koxinga) — Débarqua à Luermen le 30 avril 1661, mourut à Chengtianfu le 23 juin 1662 à l'âge de 38 ans, fondateur du premier pouvoir politique Han à Taïwan
+- [Époque néerlandaise, espagnole et Ming-Zheng](/fr/history/dutch-spanish-and-koxinga-era) — L'histoire complète des 60 ans de Tainan, de Fort Zeelandia au royaume de Tungning, de 1624 à 1683
+- [Incident du 28 février](/fr/history/228-incident) — Le contexte national de la mort de Tang Te-chang en 1947
+- [Lai Ching-te](/fr/people/lai-ching-te) — Premier maire après la fusion du comté et de la ville de Tainan en 2010, fixa en 2014 le 13 mars comme Journée de la justice et du courage, devint président en 2024
+- [Lac du Soleil et de la Lune](/fr/geography/sun-moon-lake) — Repère du centre de Taïwan aux côtés de Tainan ; le barrage de Wujie de 1934 et le canal de Jianan de 1930 appartiennent au même âge d'or des travaux hydrauliques japonais
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Le contexte industriel complet du STSP, qui dépassa le Hsinchu Science Park en 2023 avec 1 585,5 milliards de dollars taïwanais
+- [Ville de Keelung](/fr/geography/keelung-city) — Pilote de la série des 22 villes et comtés : comme Tainan, une ville portuaire Qing souvent oubliée par les récits centrés sur le pouvoir
+- [Comté de Nantou](/fr/geography/nantou-county) — Article frère du batch 3 de la série des 22 villes et comtés : comme Tainan, un territoire avec une histoire de reconnaissance des peuples autochtones
 
 ## Sources des images
 

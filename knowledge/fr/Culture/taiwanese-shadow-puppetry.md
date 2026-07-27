@@ -75,9 +75,9 @@ Le théâtre d'ombres taïwanais est sorti des bords des étangs piscicoles de M
 
 **Pour aller plus loin**
 
-- [Budaixi](/culture/布袋戲) — Théâtre traditionnel de marionnettes ayant lui aussi traversé l'oppression de la kominka, l'interdiction télévisée et la transformation commerciale ; les deux constituent ensemble les deux grandes lignes des marionnettes traditionnelles taïwanaises
-- [Culture des fêtes de temple et des cortèges zhentou taïwanais](/culture/台灣廟會與陣頭文化) — Le théâtre d'ombres se jouait à l'origine sur les parvis ; la sphère des fêtes de temple est le point de départ commun de tous les arts traditionnels du spectacle taïwanais
-- [Culture et langue hakka](/culture/客家文化與語言) — Autre facette de la culture des groupes ethniques du sud de Taïwan, partageant l'écosystème culturel du sud avec le théâtre d'ombres de tradition minnan
+- [Budaixi](/fr/culture/taiwanese-glove-puppetry-budaixi) — Théâtre traditionnel de marionnettes ayant lui aussi traversé l'oppression de la kominka, l'interdiction télévisée et la transformation commerciale ; les deux constituent ensemble les deux grandes lignes des marionnettes traditionnelles taïwanaises
+- [Culture des fêtes de temple et des cortèges zhentou taïwanais](/fr/culture/taiwan-temple-festivals-and-performance-troupes) — Le théâtre d'ombres se jouait à l'origine sur les parvis ; la sphère des fêtes de temple est le point de départ commun de tous les arts traditionnels du spectacle taïwanais
+- [Culture et langue hakka](/fr/culture/hakka-culture-and-language) — Autre facette de la culture des groupes ethniques du sud de Taïwan, partageant l'écosystème culturel du sud avec le théâtre d'ombres de tradition minnan
 
 ## Références
 

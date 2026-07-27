@@ -62,9 +62,9 @@ Lorsque l'on parle de la culture numérique taïwanaise, l'histoire de Zhou Zhi-
 
 ## Pour aller plus loin
 
-- [阿神](/people/阿神) — Un autre YouTuber taïwanais issu de la communauté Minecraft, pour comparer des trajectoires de transition différentes
-- [阿滴](/people/阿滴) — Un créateur de contenu de la même génération, issu du même milieu universitaire (bien que dans un domaine différent)
-- [蔡阿嘎](/people/蔡阿嘎) — Une autre trajectoire de carrière vers le million d'abonnés sur YouTube à Taïwan
+- [阿神](/fr/people/red-shin-minecraft-youtuber) — Un autre YouTuber taïwanais issu de la communauté Minecraft, pour comparer des trajectoires de transition différentes
+- [阿滴](/fr/people/ray-du-english-youtuber) — Un créateur de contenu de la même génération, issu du même milieu universitaire (bien que dans un domaine différent)
+- [蔡阿嘎](/fr/people/tsai-a-ga-youtuber) — Une autre trajectoire de carrière vers le million d'abonnés sur YouTube à Taïwan
 
 ## Notes
 

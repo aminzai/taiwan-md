@@ -214,7 +214,7 @@ _Miss Ko au festival CMJ de New York en 2013. Première rappeuse taïwanaise à 
 
 Le vrai point d'explosion survient au début de 2025. Le déclencheur fut une chanson publiée en novembre 2024, devenue virale sur Douyin et critiquée comme misogyne : « I Really Have No Way to Love You » de Yi Yi. Le 22 janvier 2025, RapShark, de son vrai nom Chang Po-han, née en 2000 à Tainan et issue du club de musique noire de Chengchi, publie le diss « [Stop Arguing, Trash](https://www.youtube.com/watch?v=wyjDlPigQ50) », devenant la première rappeuse à riposter frontalement[^45].
 
-La personne qui lui apporte ensuite son soutien n'a, à l'origine, pas grand-chose à voir avec cette guerre interne : [?te](/people/壞特), de son vrai nom Lin Chih-yi. Elle ne rappe pas vraiment ; c'est une autrice-compositrice de lo-fi R&B, formée neuf ans à la National Defense Medical Center, lauréate du prix de la meilleure nouvelle artiste à la 32e édition des Golden Melody Awards. C'est précisément pour cela que sa critique sur Threads de chansons « pleines de masculinité traditionnelle » a paru particulièrement visible dans la règle tacite de « ne pas se marcher dessus » du milieu hip-hop, et qu'elle fut immédiatement attaquée en masse[^46]. Après ces attaques, elle ne s'est pas retirée ; elle a précisé sa position sur Threads : « je savais que je faisais ce qu'il fallait. Ce que je fais représente aussi les valeurs fondamentales du hip-hop »[^47].
+La personne qui lui apporte ensuite son soutien n'a, à l'origine, pas grand-chose à voir avec cette guerre interne : [?te](/fr/people/huai-te-indie-singer), de son vrai nom Lin Chih-yi. Elle ne rappe pas vraiment ; c'est une autrice-compositrice de lo-fi R&B, formée neuf ans à la National Defense Medical Center, lauréate du prix de la meilleure nouvelle artiste à la 32e édition des Golden Melody Awards. C'est précisément pour cela que sa critique sur Threads de chansons « pleines de masculinité traditionnelle » a paru particulièrement visible dans la règle tacite de « ne pas se marcher dessus » du milieu hip-hop, et qu'elle fut immédiatement attaquée en masse[^46]. Après ces attaques, elle ne s'est pas retirée ; elle a précisé sa position sur Threads : « je savais que je faisais ce qu'il fallait. Ce que je fais représente aussi les valeurs fondamentales du hip-hop »[^47].
 
 Le champ de bataille explose le 12 février 2025 avec une chanson. Yang Shu-ya, née en 1999, diplômée du département de science politique de l'Université nationale de Taïwan, issue de la société de recherche hip-hop et ancienne enseignante dans une école primaire de Hualien, publie « [Rule Man Freestyle](https://www.youtube.com/watch?v=MHHHWAyq8qM) ». La ligne « _Real_ n'est pas le cache-sexe de ta misogynie » renverse la table[^48]. Sans aucune ressource de label, le morceau atteint en moins de vingt-quatre heures la première place du classement instantané de StreetVoice, approche les 100 000 vues sur YouTube, et est partagé par le critique musical Ma Shih-fang et l'écrivaine Huang Li-chun[^49]. Qu'une femme issue d'un club universitaire, sans société derrière elle, traverse l'industrie musicale et le monde littéraire avec une seule chanson prouve avec force ce rôle d'« entrée académique » propre au hip-hop taïwanais.
 
@@ -253,11 +253,11 @@ Les quatre tons du chinois, les sept tons du taïwanais hoklo, les langues des s
 
 **Pour aller plus loin** :
 
-- [Musique populaire taïwanaise](/music/台灣流行音樂) — De la chanson _nakashi_ à Jay Chou, comment une île chante ses propres chansons
-- [Évolution des chansons en taïwanais hoklo](/music/台灣台語歌曲演進) — De « Longing for the Spring Breeze » au nouveau mouvement de la chanson taïwanaise, comment une langue revient chanter dans le mainstream
-- [Auteurs-compositeurs-interprètes autochtones contemporains](/music/當代原住民創作歌手) — Des scènes des Golden Melody Awards à la revitalisation des langues autochtones, comment les voix des seize peuples se font entendre
-- [Musique indépendante taïwanaise](/music/台灣獨立音樂) — Underground, _livehouses_ et une longue bataille pour la liberté
-- [Musique populaire et Golden Melody Awards](/music/金曲獎) — Comment un prix a défini les standards de la scène mandopop
+- [Musique populaire taïwanaise](/fr/music/golden-melodies-legacy-taiwan-pop-music) — De la chanson _nakashi_ à Jay Chou, comment une île chante ses propres chansons
+- [Évolution des chansons en taïwanais hoklo](/fr/music/taiwanese-hokkien-song-evolution) — De « Longing for the Spring Breeze » au nouveau mouvement de la chanson taïwanaise, comment une langue revient chanter dans le mainstream
+- [Auteurs-compositeurs-interprètes autochtones contemporains](/fr/music/contemporary-indigenous-singer-songwriters) — Des scènes des Golden Melody Awards à la revitalisation des langues autochtones, comment les voix des seize peuples se font entendre
+- [Musique indépendante taïwanaise](/fr/music/indie-music-scene) — Underground, _livehouses_ et une longue bataille pour la liberté
+- [Musique populaire et Golden Melody Awards](/fr/music/pop-music-and-golden-melody-awards) — Comment un prix a défini les standards de la scène mandopop
 
 ## Sources des images
 

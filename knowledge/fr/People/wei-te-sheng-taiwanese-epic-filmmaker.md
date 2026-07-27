@@ -86,7 +86,7 @@ Le chemin du cinéma n'a pas de raccourci. Du département de génie électrique
 
 Né en 1969 à Yongkang, Tainan ; en 2000, 500 000 dollars pour cinq minutes de film sans trouver de financement ; en 2008, 530 millions de recettes ; en 2011, la compétition de Venise. Cette trajectoire est une accumulation d'endurance, rien à voir avec un miracle.
 
-**Pour aller plus loin** : [Mona Rudao : le héros anti-japonais gravé sur la pièce de vingt yuans](/people/莫那·魯道) (le modèle du personnage principal de _Seediq Bala_, et comment le film a reconfiguré la mémoire) ｜ [Wei Te-sheng — Wikipédia](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [Base de données du cinéma taïwanais : Wei Te-sheng](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [Site officiel des Golden Horse Awards](https://www.goldenhorse.org.tw/)
+**Pour aller plus loin** : [Mona Rudao : le héros anti-japonais gravé sur la pièce de vingt yuans](/fr/people/mona-rudao) (le modèle du personnage principal de _Seediq Bala_, et comment le film a reconfiguré la mémoire) ｜ [Wei Te-sheng — Wikipédia](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [Base de données du cinéma taïwanais : Wei Te-sheng](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [Site officiel des Golden Horse Awards](https://www.goldenhorse.org.tw/)
 
 ## Références
 

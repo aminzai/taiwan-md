@@ -153,12 +153,12 @@ _19 novembre 2024, lecture des finalistes du NBA, Yang Shuangzi lit un extrait e
 
 **Pour aller plus loin** :
 
-- [Littérature de la période coloniale japonaise](/art/日治時期文學) — Le contexte historique dans lequel se situe Taiwan Travelogue en 1938, la tradition d'écriture féminine et locale inaugurée par Yang Chian-ho, Lai He, Long Yingzong et d'autres
-- [Littérature taïwanaise contemporaine](/art/當代台灣文學) — Comment la génération de Yang Shuangzi poursuit l'écriture locale de Wu Ming-yi, Lin Yi-han et Luo Yijun, en se tournant vers le marché international de la littérature traduite
-- [Littérature taïwanaise après la levée de la loi martiale](/art/解嚴後台灣文學) — De la levée de la loi martiale en 1987 aux années 2020, l'écriture féminine, l'écriture queer et la vague de littérature en langues maternelles — la tradition « yuri » de Yang Shuangzi vient de là
-- [Histoire de la littérature taïwanaise](/art/台灣文學史) — La trame globale correspondant à la « quête centenaire » évoquée par Yang Shuangzi lors de la remise du prix
-- [Zhu Tianwen](/people/朱天文) — Romancière majeure de l'écriture féminine après la levée de la loi martiale, dont les procédés de fausse attribution dans _Notes d'un homme sauvage_ et _La Vieille Capitale_ sont un précédent important de la structure de fausse traduction dans la littérature taïwanaise
-- [Wu Ming-yi](/people/吳明益) — Autre écrivain taïwanais majeur de la vague de littérature traduite internationale des années 2020, dont _L'Homme aux yeux composés_ et _Le Vol du vélo_ ont une grande visibilité dans le monde anglophone
+- [Littérature de la période coloniale japonaise](/fr/art/taiwanese-literature-during-japanese-rule) — Le contexte historique dans lequel se situe Taiwan Travelogue en 1938, la tradition d'écriture féminine et locale inaugurée par Yang Chian-ho, Lai He, Long Yingzong et d'autres
+- [Littérature taïwanaise contemporaine](/fr/art/contemporary-taiwanese-literature) — Comment la génération de Yang Shuangzi poursuit l'écriture locale de Wu Ming-yi, Lin Yi-han et Luo Yijun, en se tournant vers le marché international de la littérature traduite
+- [Littérature taïwanaise après la levée de la loi martiale](/fr/art/post-martial-law-taiwanese-literature) — De la levée de la loi martiale en 1987 aux années 2020, l'écriture féminine, l'écriture queer et la vague de littérature en langues maternelles — la tradition « yuri » de Yang Shuangzi vient de là
+- [Histoire de la littérature taïwanaise](/fr/art/history-of-taiwanese-literature) — La trame globale correspondant à la « quête centenaire » évoquée par Yang Shuangzi lors de la remise du prix
+- [Zhu Tianwen](/fr/people/chu-tien-wen) — Romancière majeure de l'écriture féminine après la levée de la loi martiale, dont les procédés de fausse attribution dans _Notes d'un homme sauvage_ et _La Vieille Capitale_ sont un précédent important de la structure de fausse traduction dans la littérature taïwanaise
+- [Wu Ming-yi](/fr/people/wu-ming-yi) — Autre écrivain taïwanais majeur de la vague de littérature traduite internationale des années 2020, dont _L'Homme aux yeux composés_ et _Le Vol du vélo_ ont une grande visibilité dans le monde anglophone
 
 ## Références
 

@@ -143,11 +143,11 @@ Des étals halal de Taoyuan Jie à Taipei, aux enseignes historiques de Yongkang
 
 ## Pour aller plus loin
 
-- [Panorama de la gastronomie taïwanaise](/food/台灣美食總覽) — Une cartographie complète des saveurs métissées sur quatre siècles : la place de la soupe de nouilles au bœuf
-- [Culture du petit-déjeuner taïwanais](/food/台灣早餐文化) — Les galettes (燒餅, shāobǐng), beignets (油條, yóutiáo) et lait de soja (豆浆, dòujiāng) apportés par les immigrants continentaux en 1949, symboles emblématiques de la fusion culinaire d'après-guerre au même titre que la soupe de nouilles au bœuf
-- [Riz au porc braisé taïwanais](/food/台灣滷肉飯) — Un autre chemin de la cuisine des villages de militaires à la cuisine nationale, partageant avec la soupe de nouilles au bœuf la double filiation de la nostalgie de l'immigration et de l'adaptation locale
-- [Repli du gouvernement nationaliste et reconstruction d'après-guerre](/history/國民政府遷台與戰後重建) — Le tournant culturel culinaire provoqué par la migration de 1,2 million de militaires et civils vers le sud, contexte historique de la naissance de la soupe de nouilles au bœuf
-- [Culture des night markets taïwanais](/food/夜市文化) — Le champ de circulation populaire central après la sortie de la soupe de nouilles au bœuf des villages de militaires
+- [Panorama de la gastronomie taïwanaise](/fr/food/taiwan-food-overview) — Une cartographie complète des saveurs métissées sur quatre siècles : la place de la soupe de nouilles au bœuf
+- [Culture du petit-déjeuner taïwanais](/fr/food/taiwan-breakfast-culture) — Les galettes (燒餅, shāobǐng), beignets (油條, yóutiáo) et lait de soja (豆浆, dòujiāng) apportés par les immigrants continentaux en 1949, symboles emblématiques de la fusion culinaire d'après-guerre au même titre que la soupe de nouilles au bœuf
+- [Riz au porc braisé taïwanais](/fr/food/braised-pork-rice) — Un autre chemin de la cuisine des villages de militaires à la cuisine nationale, partageant avec la soupe de nouilles au bœuf la double filiation de la nostalgie de l'immigration et de l'adaptation locale
+- [Repli du gouvernement nationaliste et reconstruction d'après-guerre](/fr/history/kmt-government-relocation-and-postwar-reconstruction) — Le tournant culturel culinaire provoqué par la migration de 1,2 million de militaires et civils vers le sud, contexte historique de la naissance de la soupe de nouilles au bœuf
+- [Culture des night markets taïwanais](/fr/food/night-market-culture) — Le champ de circulation populaire central après la sortie de la soupe de nouilles au bœuf des villages de militaires
 
 ---
 

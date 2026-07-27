@@ -169,11 +169,11 @@ Le repère de « génération » n'est qu'une entrée. Il est utile car il nous 
 
 **Pour aller plus loin** :
 
-- [Taïwan : la génération斜槓 (slash)](/society/台灣斜槓世代) — Septième et huitième générations sous une structure de bas-salaires, la mathématique de la survie en divisant un salaire en trois emplois
-- [Taïwan : la perte de cap de la jeunesse](/society/台灣青年的生涯迷航) — Seize ans d'études, la question la plus fréquente à la fin de l'obtention du diplôme : « Je ne sais pas ce que je veux faire »
-- [Taïwan : la crise de la faible natalité](/society/台灣少子化危機) — Les naissances passent de 420 000 à 160 000, comment le gâteau devient de plus en plus petit
-- [Taïwan : le spectre de l'unification et de l'indépendance](/society/台灣統獨光譜) — Le paysage complet de la ligne de partage des identités, de « qui suis-je » à « où allons-nous »
-- [MySpace](/culture/無名小站) — Le serveur numérique de la jeunesse de la septième génération, fermé en 2013, réapparu une fois sur Threads en 2025
+- [Taïwan : la génération斜槓 (slash)](/fr/society/taiwan-slash-generation-multi-job-economy) — Septième et huitième générations sous une structure de bas-salaires, la mathématique de la survie en divisant un salaire en trois emplois
+- [Taïwan : la perte de cap de la jeunesse](/fr/society/taiwan-youth-career-confusion) — Seize ans d'études, la question la plus fréquente à la fin de l'obtention du diplôme : « Je ne sais pas ce que je veux faire »
+- [Taïwan : la crise de la faible natalité](/fr/society/taiwan-low-birth-rate-crisis) — Les naissances passent de 420 000 à 160 000, comment le gâteau devient de plus en plus petit
+- [Taïwan : le spectre de l'unification et de l'indépendance](/fr/society/taiwan-unification-independence-spectrum) — Le paysage complet de la ligne de partage des identités, de « qui suis-je » à « où allons-nous »
+- [MySpace](/fr/culture/wretch) — Le serveur numérique de la jeunesse de la septième génération, fermé en 2013, réapparu une fois sur Threads en 2025
 
 ## Sources des images
 

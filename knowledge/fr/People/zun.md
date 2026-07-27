@@ -141,8 +141,8 @@ Pour le public qui a grandi avec Zun pendant la vague de 2014-2018, cet article 
 
 **Lectures complémentaires** :
 
-- [HowHow](/people/Howhow) — YouTuber millionnaire de la même période, autre exemple de transformation autour du roi des placements de produit
-- [Tsai Aga](/people/蔡阿嘎) — YouTuber taïwanais de 14 ans l’aîné de Zun, référence en profondeur d’une trajectoire familiale menée jusqu’au bout
+- [HowHow](/fr/people/howhow) — YouTuber millionnaire de la même période, autre exemple de transformation autour du roi des placements de produit
+- [Tsai Aga](/fr/people/tsai-a-ga-youtuber) — YouTuber taïwanais de 14 ans l’aîné de Zun, référence en profondeur d’une trajectoire familiale menée jusqu’au bout
 - [Histoire de YouTube à Taïwan](/culture/台灣youtube發展史) — Cartographie générale, de la période de maturation de 2010 au grand reflux de 2024
 
 ## Références

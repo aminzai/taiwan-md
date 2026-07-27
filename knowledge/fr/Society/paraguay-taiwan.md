@@ -103,10 +103,10 @@ Soixante-neuf ans de relations diplomatiques ne résident pas dans les formules 
 
 **Pour aller plus loin** :
 
-- [Les pays partenaires diplomatiques de Taïwan et la diplomatie internationale](/society/台灣邦交國與國際外交) — Vue d'ensemble des 12 pays partenaires, des bases à l'étranger et du réseau d'exemption de visa
-- [Taïwan et l'Eswatini](/society/台灣與史瓦帝尼) — Le seul partenaire en Afrique, un autre cas de figure de « coopération à long terme et de fragilité politique »
-- [La guerre cognitive](/society/認知作戰) — Cadre d'analyse des opérations d'information, linguistiques et de pression de la Chine dans la guerre diplomatique contre Taïwan
-- [La rencontre Xi-Zheng de 2026 et la réunion décennale du Kuomintang](/society/2026鄭習會與國共十年再會) — Dynamiques politiques croisées à la même période, pour comprendre le contexte plus large de la pression exercée par la Chine sur Taïwan
+- [Les pays partenaires diplomatiques de Taïwan et la diplomatie internationale](/fr/society/taiwan-diplomatic-allies-and-international-relations) — Vue d'ensemble des 12 pays partenaires, des bases à l'étranger et du réseau d'exemption de visa
+- [Taïwan et l'Eswatini](/fr/society/taiwan-eswatini-relations) — Le seul partenaire en Afrique, un autre cas de figure de « coopération à long terme et de fragilité politique »
+- [La guerre cognitive](/fr/society/cognitive-warfare-against-taiwan) — Cadre d'analyse des opérations d'information, linguistiques et de pression de la Chine dans la guerre diplomatique contre Taïwan
+- [La rencontre Xi-Zheng de 2026 et la réunion décennale du Kuomintang](/fr/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Dynamiques politiques croisées à la même période, pour comprendre le contexte plus large de la pression exercée par la Chine sur Taïwan
 
 ## Crédits photo
 

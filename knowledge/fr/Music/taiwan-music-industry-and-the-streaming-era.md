@@ -2,19 +2,27 @@
 title: "L'industrie musicale taïwanaise à l'ère du streaming : de la boutique de disques aux plateformes numériques"
 description: "Analyse de la manière dont l'industrie musicale taïwanaise est passée de l'âge d'or des boutiques de disques à la crise du piratage, avant de développer avec KKBOX la première plateforme légale de streaming au monde, jusqu'à l'écosystème actuel où coexistent Spotify, Apple Music et d'autres services numériques"
 date: 2026-03-19
-author: "Taiwan.md"
-category: "Music"
-subcategory: "獨立與搖滾"
-tags: ["industrie musicale", "musique en streaming", "KKBOX", "musique numérique", "boutiques de disques", "musique indépendante"]
+author: 'Taiwan.md'
+category: 'Music'
+subcategory: '獨立與搖滾'
+tags:
+  [
+    'industrie musicale',
+    'musique en streaming',
+    'KKBOX',
+    'musique numérique',
+    'boutiques de disques',
+    'musique indépendante',
+  ]
 readingTime: 15
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
-translatedFrom: "Music/台灣音樂產業與串流時代.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:f71f072559f005b7"
-sourceBodyHash: "sha256:39fa5a6a860830cc"
-translatedAt: "2026-05-20T05:08:34+08:00"
+translatedFrom: 'Music/台灣音樂產業與串流時代.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:f71f072559f005b7'
+sourceBodyHash: 'sha256:39fa5a6a860830cc'
+translatedAt: '2026-05-20T05:08:34+08:00'
 ---
 
 # L'industrie musicale taïwanaise à l'ère du streaming : de la boutique de disques aux plateformes numériques
@@ -41,7 +49,7 @@ L'intérêt de ce cas de transformation tient au fait qu'il montre comment une i
 
 Les années 1990 furent l'âge d'or de l'industrie du disque à Taïwan. Le pays comptait alors plus de 3 000 boutiques de disques, des chaînes comme Rose Records et Tachung Records ou Chia Chia jusqu'aux petits disquaires de quartier, formant un réseau dense de consommation musicale. Chaque vendredi était le « jour de sortie des nouvelles chansons » : les fans se rendaient spécialement en boutique pour acheter les derniers albums, et les vendeurs connaissaient toujours les particularités de chaque disque.
 
-À cette époque, il était courant qu'un album se vende à plusieurs centaines de milliers d'exemplaires. Le premier album de [Jay Chou](/fr/People/jay-chou/), *Jay*, sorti en 2000, s'est écoulé à plus de 300 000 exemplaires à Taïwan ; *People Life, Ocean Wild* (2001) de [Mayday](/fr/Music/mayday-band/) a même atteint un record de 500 000 exemplaires vendus.[^1] Les boutiques de disques n'étaient pas seulement des lieux d'achat de musique, mais aussi des espaces de sociabilité pour les amateurs de musique.
+À cette époque, il était courant qu'un album se vende à plusieurs centaines de milliers d'exemplaires. Le premier album de [Jay Chou](/fr/people/jay-chou/), _Jay_, sorti en 2000, s'est écoulé à plus de 300 000 exemplaires à Taïwan ; _People Life, Ocean Wild_ (2001) de [Mayday](/fr/music/mayday-band/) a même atteint un record de 500 000 exemplaires vendus.[^1] Les boutiques de disques n'étaient pas seulement des lieux d'achat de musique, mais aussi des espaces de sociabilité pour les amateurs de musique.
 
 ### Un écosystème industriel complet
 
@@ -131,7 +139,7 @@ Le plus grand changement de l'ère du streaming a été l'abaissement du seuil d
 
 ### Cas de réussite : No Party For Cao Dong
 
-**No Party For Cao Dong** est un exemple de réussite de la musique indépendante taïwanaise à l'ère du streaming. Leur album *The Servile*, sorti en 2016 sans le soutien d'une grande maison de disques, est pourtant devenu un phénomène sur les réseaux sociaux et les plateformes de streaming. La chanson « Simon Says » a dépassé les 50 millions de vues sur YouTube, montrant la capacité d'explosion d'une création de qualité à l'ère numérique.
+**No Party For Cao Dong** est un exemple de réussite de la musique indépendante taïwanaise à l'ère du streaming. Leur album _The Servile_, sorti en 2016 sans le soutien d'une grande maison de disques, est pourtant devenu un phénomène sur les réseaux sociaux et les plateformes de streaming. La chanson « Simon Says » a dépassé les 50 millions de vues sur YouTube, montrant la capacité d'explosion d'une création de qualité à l'ère numérique.
 
 ### De nouveaux modèles de revenus
 
@@ -147,7 +155,7 @@ Les revenus des musiciens indépendants ne dépendent plus d'un seul canal. Les 
 
 L'ère du streaming a rendu l'industrie musicale davantage orientée par les données. Le nombre d'écoutes, le taux d'écoute complète ou la proportion d'ajouts à des playlists sont autant d'indicateurs concrets pour évaluer la performance d'une chanson.
 
-« Blue and White Porcelain » de [Jay Chou](/fr/People/jay-chou/) a dépassé les 100 millions d'écoutes sur Spotify à Taïwan, tandis que « Stubborn » de [Mayday](/fr/Music/mayday-band/) a atteint 80 millions d'écoutes. Ces données reflètent la vitalité durable des chansons classiques à l'ère numérique.
+« Blue and White Porcelain » de [Jay Chou](/fr/people/jay-chou/) a dépassé les 100 millions d'écoutes sur Spotify à Taïwan, tandis que « Stubborn » de [Mayday](/fr/music/mayday-band/) a atteint 80 millions d'écoutes. Ces données reflètent la vitalité durable des chansons classiques à l'ère numérique.
 
 ### L'influence des recommandations personnalisées
 
@@ -165,7 +173,7 @@ En 2020, la pandémie de COVID-19 a durement frappé l'industrie de la musique l
 
 ### L'essor des concerts en ligne
 
-Pendant la pandémie, de nombreux chanteurs ont commencé à expérimenter les concerts en ligne. Le concert en ligne organisé par [Mayday](/fr/Music/mayday-band/) en 2020 a attiré plus de 30 millions de spectateurs simultanés, établissant un record pour la diffusion en direct de musique sinophone.
+Pendant la pandémie, de nombreux chanteurs ont commencé à expérimenter les concerts en ligne. Le concert en ligne organisé par [Mayday](/fr/music/mayday-band/) en 2020 a attiré plus de 30 millions de spectateurs simultanés, établissant un record pour la diffusion en direct de musique sinophone.
 
 ### La montée des podcasts
 
@@ -218,13 +226,22 @@ Pour les auditeurs, l'offre musicale est plus abondante qu'à toute autre époqu
 
 ## Références
 
-[^1]: L'album de Mayday sorti en 2001 est *People Life, Ocean Wild* ; *Second Round* est sorti en 2011. Voir l'[article Wikipédia sur Mayday](https://zh.wikipedia.org/wiki/%E4%BA%94%E6%9C%88%E5%A4%A9)
+[^1]: L'album de Mayday sorti en 2001 est _People Life, Ocean Wild_ ; _Second Round_ est sorti en 2011. Voir l'[article Wikipédia sur Mayday](https://zh.wikipedia.org/wiki/%E4%BA%94%E6%9C%88%E5%A4%A9)
+
 [^2]: [Site officiel de KKBOX](https://www.kkbox.com/) — Historique du développement de KKBOX et présentation du service
-[^3]: [*Histoire du développement de l'industrie musicale taïwanaise*, Bureau du développement de l'audiovisuel, de la musique et des industries de la culture populaire, ministère de la Culture](https://www.bamid.gov.tw/) — Données statistiques officielles du secteur
-[^4]: [*Le streaming musical transforme l'écosystème musical taïwanais*, INSIDE, 2020](https://www.inside.com.tw/article/21245-streaming-music-taiwan) — Analyse du marché du streaming musical
-[^5]: [*Chris Lin, fondateur de KKBOX*, Business Weekly, 2018](https://www.businessweekly.com.tw/focus/blog/3007895) — Entretien avec le fondateur de KKBOX
-[^6]: [*Analyse de la stratégie d'entrée de Spotify sur le marché taïwanais*, Brain Magazine, 2014](https://www.brain.com.tw/news/articlecontent?ID=19234) — Analyse de la concurrence des plateformes internationales
-[^7]: [*No Party For Cao Dong : la réussite numérique de la musique indépendante*, The News Lens, 2017](https://www.thenewslens.com/article/68492) — Analyse d'un cas de musique indépendante
-[^8]: [*Rapport d'enquête sur le marché taïwanais du streaming musical*, MIC, Institute for Information Industry, 2021](https://mic.iii.org.tw/aisp/reports.aspx?id=CDOC20210324001) — Statistiques de marché
-[^9]: [*L'impact du COVID-19 sur l'industrie musicale taïwanaise*, ministère de la Culture, 2021](https://www.moc.gov.tw/information_250_137321.html) — Analyse des effets de la pandémie
-[^10]: [*Droits de la musique numérique et mécanismes de répartition des revenus*, Music Copyright Society of Chinese Taipei](http://www.must.org.tw/) — Explication des mécanismes de répartition des droits
+
+[^3]: [_Histoire du développement de l'industrie musicale taïwanaise_, Bureau du développement de l'audiovisuel, de la musique et des industries de la culture populaire, ministère de la Culture](https://www.bamid.gov.tw/) — Données statistiques officielles du secteur
+
+[^4]: [_Le streaming musical transforme l'écosystème musical taïwanais_, INSIDE, 2020](https://www.inside.com.tw/article/21245-streaming-music-taiwan) — Analyse du marché du streaming musical
+
+[^5]: [_Chris Lin, fondateur de KKBOX_, Business Weekly, 2018](https://www.businessweekly.com.tw/focus/blog/3007895) — Entretien avec le fondateur de KKBOX
+
+[^6]: [_Analyse de la stratégie d'entrée de Spotify sur le marché taïwanais_, Brain Magazine, 2014](https://www.brain.com.tw/news/articlecontent?ID=19234) — Analyse de la concurrence des plateformes internationales
+
+[^7]: [_No Party For Cao Dong : la réussite numérique de la musique indépendante_, The News Lens, 2017](https://www.thenewslens.com/article/68492) — Analyse d'un cas de musique indépendante
+
+[^8]: [_Rapport d'enquête sur le marché taïwanais du streaming musical_, MIC, Institute for Information Industry, 2021](https://mic.iii.org.tw/aisp/reports.aspx?id=CDOC20210324001) — Statistiques de marché
+
+[^9]: [_L'impact du COVID-19 sur l'industrie musicale taïwanaise_, ministère de la Culture, 2021](https://www.moc.gov.tw/information_250_137321.html) — Analyse des effets de la pandémie
+
+[^10]: [_Droits de la musique numérique et mécanismes de répartition des revenus_, Music Copyright Society of Chinese Taipei](http://www.must.org.tw/) — Explication des mécanismes de répartition des droits

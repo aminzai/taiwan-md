@@ -95,6 +95,6 @@ L'énergie artistique ne se concentre plus uniquement à Taipei : Taichung, Tain
 
 **Pour aller plus loin**
 
-- [Tehching Hsieh](/art/謝德慶) — Pionnier de l'art performatif taïwanais, auteur de cinq performances d'un an à New York dans les années 1980, repère précoce de la visibilité internationale de l'art contemporain taïwanais
-- [Wang Xinren (Aluan)](/art/王新仁) — Premier artiste génératif taïwanais à exposer sur Art Blocks en 2021, figure majeure de l'art blockchain et du projet Hundred Peaks de FAB DAO
-- [Cheng Wen-chi : 12 ans pour pousser la scène artistique taïwanaise vers l'archipel malais](/people/鄭文琦) — Rédactrice en chef de _Digital Wilderness_, quatre cadres — archipel / périphérie / décolonisation / Pacifique — qui ajoutent une perspective méridionale à la cartographie du discours sur l'art contemporain
+- [Tehching Hsieh](/fr/art/tehching-hsieh-performance-artist) — Pionnier de l'art performatif taïwanais, auteur de cinq performances d'un an à New York dans les années 1980, repère précoce de la visibilité internationale de l'art contemporain taïwanais
+- [Wang Xinren (Aluan)](/fr/art/wang-hsin-jen-artist) — Premier artiste génératif taïwanais à exposer sur Art Blocks en 2021, figure majeure de l'art blockchain et du projet Hundred Peaks de FAB DAO
+- [Cheng Wen-chi : 12 ans pour pousser la scène artistique taïwanaise vers l'archipel malais](/fr/people/cheng-wen-chi) — Rédactrice en chef de _Digital Wilderness_, quatre cadres — archipel / périphérie / décolonisation / Pacifique — qui ajoutent une perspective méridionale à la cartographie du discours sur l'art contemporain

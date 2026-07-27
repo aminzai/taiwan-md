@@ -166,9 +166,9 @@ La feuille blanche avec les lettres découpées du 31 décembre 1999 à minuit s
 
 ## Pour aller plus loin
 
-- **[Art des nouveaux médias à Taïwan](/art/台灣新媒體藝術)** — De Nie Yongzhen à la généalogie de l'art vidéo contemporain taïwanais, Hsieh est l'une des sources de cette lignée
-- **[Art contemporain taïwanais](/art/當代藝術)** — La place de Hsieh dans l'histoire de l'art d'avant-garde taïwanais (si existant)
-- **[Sensibilité taïwanaise](/culture/台灣感性)** — Un autre regard sur l'exportation culturelle taïwanaise, vu de Corée ; Hsieh est le représentant international de l'esthétique taïwanaise de l'extrême concentration
+- **[Art des nouveaux médias à Taïwan](/fr/art/taiwan-new-media-art)** — De Nie Yongzhen à la généalogie de l'art vidéo contemporain taïwanais, Hsieh est l'une des sources de cette lignée
+- **[Art contemporain taïwanais](/fr/art/contemporary-art)** — La place de Hsieh dans l'histoire de l'art d'avant-garde taïwanais (si existant)
+- **[Sensibilité taïwanaise](/fr/culture/taiwanese-sensibility)** — Un autre regard sur l'exportation culturelle taïwanaise, vu de Corée ; Hsieh est le représentant international de l'esthétique taïwanaise de l'extrême concentration
 
 ## Références
 

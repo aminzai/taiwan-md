@@ -213,10 +213,10 @@ Le tabac n’a jamais vraiment disparu. Il s’est retiré du cendrier de bureau
 
 **Pour aller plus loin** :
 
-- [Ximending](/geography/西門町) — le premier fumoir extérieur à pression négative de Taïwan se dresse dans la rue, à la sortie du métro Ximen ; comment un quartier commerçant né du quartier de loisirs de l’époque japonaise est devenu le terrain d’essai d’une nouvelle politique
-- [Système de santé publique et de prévention épidémique de Taïwan](/society/台灣公共衛生與防疫體系) — la lutte antitabac fait partie de la longue marche de la santé publique taïwanaise et partage avec le système de prévention la même logique de « priorité à la santé collective »
-- [Justice environnementale et conflits NIMBY à Taïwan](/society/台灣環境正義與鄰避爭議) — où bâtir le fumoir et savoir si des personnes sans domicile s’y rassembleront relève, au fond, d’un dilemme NIMBY à l’échelle de la rue
-- [Période de loi martiale](/history/戒嚴時期) — l’époque où la cigarette Longévité détenait 70 % du marché et où le Bureau du monopole contrôlait tabac et alcool est justement le contexte historique d’un État gérant le quotidien
+- [Ximending](/fr/geography/ximending) — le premier fumoir extérieur à pression négative de Taïwan se dresse dans la rue, à la sortie du métro Ximen ; comment un quartier commerçant né du quartier de loisirs de l’époque japonaise est devenu le terrain d’essai d’une nouvelle politique
+- [Système de santé publique et de prévention épidémique de Taïwan](/fr/society/taiwan-public-health-epidemic-response) — la lutte antitabac fait partie de la longue marche de la santé publique taïwanaise et partage avec le système de prévention la même logique de « priorité à la santé collective »
+- [Justice environnementale et conflits NIMBY à Taïwan](/fr/society/taiwan-environmental-justice-nimby-conflicts) — où bâtir le fumoir et savoir si des personnes sans domicile s’y rassembleront relève, au fond, d’un dilemme NIMBY à l’échelle de la rue
+- [Période de loi martiale](/fr/history/martial-law-era) — l’époque où la cigarette Longévité détenait 70 % du marché et où le Bureau du monopole contrôlait tabac et alcool est justement le contexte historique d’un État gérant le quotidien
 
 ## Sources des images
 

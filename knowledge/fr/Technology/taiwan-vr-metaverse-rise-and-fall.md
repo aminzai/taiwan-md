@@ -212,9 +212,9 @@ Deux salles, la même technologie, deux avenirs.
 
 ## Pour aller plus loin
 
-- [Entreprises taïwanaises : HTC](/economy/台灣企業：宏達電) — La biographie d'entreprise de HTC, des téléphones Android à la transition VR
-- [L'esprit open source à Taïwan](/technology/台灣開源精神) — Une autre histoire de communauté technologique taïwanaise « animée par la passion »
-- [L'industrie taïwanaise de l'image numérique et de l'animation](/technology/台灣數位影像與動畫產業) — Les bases techniques et humaines derrière le contenu VR
+- [Entreprises taïwanaises : HTC](/fr/economy/htc-android-pioneer-vr-transformation) — La biographie d'entreprise de HTC, des téléphones Android à la transition VR
+- [L'esprit open source à Taïwan](/fr/technology/taiwan-open-source-spirit) — Une autre histoire de communauté technologique taïwanaise « animée par la passion »
+- [L'industrie taïwanaise de l'image numérique et de l'animation](/fr/technology/taiwan-digital-animation-industry) — Les bases techniques et humaines derrière le contenu VR
 
 ---
 

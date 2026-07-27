@@ -117,11 +117,11 @@ L'homme qui a signé le traité du Cap Sud et celui qui a vendu les renseignemen
 
 **Pour aller plus loin :**
 
-- [L'incident du Rover et Tauketok](/history/羅發號事件與卓杞篤) — L'article miroir C-2 de ce texte : la même histoire vue du point de vue de Tauketok ; comment le traité du Cap Sud a protégé son peuple, et comment il a été trahi par l'autre partie à l'accord
+- [L'incident du Rover et Tauketok](/fr/history/rover-incident-and-tauketok) — L'article miroir C-2 de ce texte : la même histoire vue du point de vue de Tauketok ; comment le traité du Cap Sud a protégé son peuple, et comment il a été trahi par l'autre partie à l'accord
 - [Histoire des peuples indigènes de Taïwan et mouvement de dénomination](/fr/history/indigenous-peoples-history-and-renaming/) — Les Paiwan du traité du Cap Sud, du « territoire sauvage » à la longue quête de dénomination officielle
 - [Époque Qing](/fr/history/qing-dynasty-era/) — La structure administrative Qing à l'époque des visites de Le Gendre, pour comprendre le contexte institutionnel de la réponse « hors juridiction »
 - [Robert Swinhoe](/fr/people/robert-swinhoe/) — Un autre étranger ayant laissé une trace profonde à Taïwan à la même époque, mais motivé par la science plutôt que par le pouvoir
-- [Guerre franco-chinoise](/history/清法戰爭) — Huit ans après le départ de Le Gendre, la France attaque Taïwan avec une logique impériale similaire
+- [Guerre franco-chinoise](/fr/history/sino-french-war-in-taiwan) — Huit ans après le départ de Le Gendre, la France attaque Taïwan avec une logique impériale similaire
 
 ## Références
 

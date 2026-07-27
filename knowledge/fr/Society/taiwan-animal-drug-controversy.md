@@ -307,7 +307,7 @@ Cet article ne choisit pas pour vous. Il ouvre simplement l'espace, pour que vou
 - Éthique des zoos et des animaux en spectacle — Un autre champ de controverse sur les soins et les médicaments administrés aux animaux dans la société humaine, une autre section du même problème que les médicaments pour animaux de compagnie
 - La médecine et l'assurance maladie universelle à Taïwan — L'autre versant du système de médicaments humains : la plus grande expérience nationale de santé au monde, sans pont institutionnel vers la médecine vétérinaire. Le « principe de séparation prescription-dispensation » mentionné dans cet article est né à l'ère de l'assurance maladie
 - Le système de médecine d'urgence lors de catastrophes à Taïwan — Le filet de sécurité des urgences humaines, c'est le 119 et les réseaux de premiers secours ; les urgences vétérinaires n'ont même pas ce plancher. La lecture comparative révèle le fossé de ressources entre les deux systèmes
-- [Deux lois sur la médecine régénérative × 30 ans d'ARNm](/society/台灣再生醫療雙法沿革從業人員告白) — L'adoption en 2024 des deux lois sur la médecine régénérative humaine et la mise à niveau en cours de la plateforme ARNm à Taïwan partagent avec la controverse sur les médicaments vétérinaires la philosophie réglementaire de « comment l'État encadre les technologies médicales de pointe »
+- [Deux lois sur la médecine régénérative × 30 ans d'ARNm](/fr/society/taiwan-regenerative-medicine-laws) — L'adoption en 2024 des deux lois sur la médecine régénérative humaine et la mise à niveau en cours de la plateforme ARNm à Taïwan partagent avec la controverse sur les médicaments vétérinaires la philosophie réglementaire de « comment l'État encadre les technologies médicales de pointe »
 
 ## Références
 

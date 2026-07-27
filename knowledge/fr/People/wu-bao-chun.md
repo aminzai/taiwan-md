@@ -92,10 +92,10 @@ Ce résultat paraît paradoxal — et c’est précisément là que réside le
 
 **Lectures complémentaires** :
 
-- [Jiang Zhen‑cheng](/people/江振誠) — De l’école technique de Tamsui à la 14ᵉ place mondiale, une autre histoire de chef taïwanais qui a conquis l’international avec les saveurs de Taïwan.
-- [Carte culturelle des 16 peuples autochtones de Taïwan](/culture/台灣原住民族16族文化地圖) — Contexte culturel du vin de millet Paiwan utilisé dans le pain au litchi‑rose.
-- [Culture des marchés nocturnes](/food/夜市文化) — Fondement de l’alimentation populaire taïwanaise, d’où émerge l’esthétique des ingrédients de Wu Pao‑chun.
-- [Huang Shan‑liao](/people/黃山料) — Un autre Taïwanais couronné à l’international (Fashion Week de Londres), qui a choisi une trajectoire opposée : quitter l’artisanat pour transformer la visibilité en best‑seller.
+- [Jiang Zhen‑cheng](/fr/people/andre-chiang-taiwanese-culinary-innovator) — De l’école technique de Tamsui à la 14ᵉ place mondiale, une autre histoire de chef taïwanais qui a conquis l’international avec les saveurs de Taïwan.
+- [Carte culturelle des 16 peuples autochtones de Taïwan](/fr/culture/indigenous-peoples-16-tribes-cultural-map) — Contexte culturel du vin de millet Paiwan utilisé dans le pain au litchi‑rose.
+- [Culture des marchés nocturnes](/fr/food/night-market-culture) — Fondement de l’alimentation populaire taïwanaise, d’où émerge l’esthétique des ingrédients de Wu Pao‑chun.
+- [Huang Shan‑liao](/fr/people/huang-shan-liao) — Un autre Taïwanais couronné à l’international (Fashion Week de Londres), qui a choisi une trajectoire opposée : quitter l’artisanat pour transformer la visibilité en best‑seller.
 
 ## Références
 

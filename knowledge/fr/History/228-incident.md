@@ -202,11 +202,11 @@ Peu importe ce que ce papier contenait. Ce qui compte, c'est que quelqu'un, enfi
 
 **Pour aller plus loin :**
 
-- [Musée national des droits de l'homme](/history/國家人權博物館) — institutionnalisation de la commémoration des victimes et de la mise en cause des responsables, inauguré en 2018, budget gelé en 2025
-- [La loi martiale à Taïwan](/history/戒嚴時期) — contenant juridique de 38 ans depuis 1949, prolongement de la répression de 1947
-- [La Terreur blanche à Taïwan](/history/台灣白色恐怖) — les affaires politiques des 38 ans de loi martiale
-- [La justice transitionnelle à Taïwan](/history/台灣轉型正義) — tension entre l'annulation des condamnations et la mise en cause des responsables
-- [Les jours fériés nationaux](/society/國定假日) — comment le 28 Février est devenu, en 1997, le premier jour férié national de la République de Chine
+- [Musée national des droits de l'homme](/fr/history/national-human-rights-museum) — institutionnalisation de la commémoration des victimes et de la mise en cause des responsables, inauguré en 2018, budget gelé en 2025
+- [La loi martiale à Taïwan](/fr/history/martial-law-era) — contenant juridique de 38 ans depuis 1949, prolongement de la répression de 1947
+- [La Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — les affaires politiques des 38 ans de loi martiale
+- [La justice transitionnelle à Taïwan](/fr/history/taiwan-transitional-justice) — tension entre l'annulation des condamnations et la mise en cause des responsables
+- [Les jours fériés nationaux](/fr/society/national-holidays) — comment le 28 Février est devenu, en 1997, le premier jour férié national de la République de Chine
 
 ## Références
 

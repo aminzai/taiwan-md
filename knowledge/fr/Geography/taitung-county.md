@@ -241,18 +241,18 @@ Le comté à la plus faible densité a abrité les plus anciens habitants. Les a
 
 ## Pour aller plus loin
 
-- [Écosystème de Lanyu](/nature/蘭嶼生態系) — les espèces endémiques et les écosystèmes de l'île volcanique de Lanyu, base biogéographique en symbiose avec la culture traditionnelle tao
-- [Prison de Green Island](/history/綠島監獄) — histoire de la détention des prisonniers politiques au Centre de rééducation des nouveaux arrivants et à la Villa Oasis, 1951-1987, prolongement de la section Huoshaodao de cet article
-- [Ville de Keelung](/geography/基隆市) — autre ville de faille de la série des 22 villes et comtés ; comme Taitung, elle reste invisible à l'échelle de la capitale, mais suit une trajectoire de « port en déclin » plutôt que de « comté à plus faible densité »
-- [Comté de Penghu](/geography/澎湖縣) — série des 22 villes et comtés : choix de souveraineté d'une île périphérique ayant refusé deux fois les jeux d'argent ; comme Taitung, l'un des comtés les plus éloignés de l'île principale, mais habité par des migrants han plutôt que par des Autochtones
-- [Comté de Lienchiang](/geography/連江縣) — série des 22 villes et comtés : îles de 36 ans d'administration militaire taïwanaise, avec une chronologie presque parallèle aux 36 ans de prisonniers politiques de Green Island
-- [Terreur blanche à Taïwan](/history/台灣白色恐怖) — contexte insulaire de l'oppression politique après 1949 ; Green Island en est l'un des témoins physiques
-- [Justice foncière autochtone et territoires traditionnels à Taïwan](/society/台灣原住民族土地正義與傳統領域) — terres, territoires traditionnels et controverses contemporaines vus depuis les peuples autochtones ; la place des six peuples de Taitung sur cette carte
-- [Auteurs-compositeurs-interprètes autochtones contemporains](/music/當代原住民創作歌手) — de Hu Defu à Chen Chien-nien et A-Mei, le contexte de Nanwang comme patrie des Golden Melody Awards
-- [Formes côtières et paysages marins de Taïwan](/geography/台灣海岸地形與海洋地景) — formation géologique de la chaîne centrale, de la chaîne côtière et de la vallée longitudinale Huadong
-- [Comté de Miaoli](/geography/苗栗縣) — série des 22 villes et comtés : ténacité hakka contre paradoxe du magistrat cinq étoiles ; comme Taitung, un comté mal lu à l'échelle de la capitale
-- [Comté de Yilan](/geography/宜蘭縣) — série des 22 villes et comtés : deux Yilan avant et après le tunnel du Xueshan ; comme Taitung, il fait face à la pression touristique du « dernier morceau de terre pure de l'Est »
-- [Ville de Chiayi](/geography/嘉義市) — série des 22 villes et comtés : ville provinciale nommée Chiayi par un empereur mais si facilement oubliée ; comme Taitung, une épaisseur historique négligée
+- [Écosystème de Lanyu](/fr/nature/orchid-island-ecosystem) — les espèces endémiques et les écosystèmes de l'île volcanique de Lanyu, base biogéographique en symbiose avec la culture traditionnelle tao
+- [Prison de Green Island](/fr/history/green-island-prison) — histoire de la détention des prisonniers politiques au Centre de rééducation des nouveaux arrivants et à la Villa Oasis, 1951-1987, prolongement de la section Huoshaodao de cet article
+- [Ville de Keelung](/fr/geography/keelung-city) — autre ville de faille de la série des 22 villes et comtés ; comme Taitung, elle reste invisible à l'échelle de la capitale, mais suit une trajectoire de « port en déclin » plutôt que de « comté à plus faible densité »
+- [Comté de Penghu](/fr/geography/penghu-county) — série des 22 villes et comtés : choix de souveraineté d'une île périphérique ayant refusé deux fois les jeux d'argent ; comme Taitung, l'un des comtés les plus éloignés de l'île principale, mais habité par des migrants han plutôt que par des Autochtones
+- [Comté de Lienchiang](/fr/geography/lienchiang-county) — série des 22 villes et comtés : îles de 36 ans d'administration militaire taïwanaise, avec une chronologie presque parallèle aux 36 ans de prisonniers politiques de Green Island
+- [Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — contexte insulaire de l'oppression politique après 1949 ; Green Island en est l'un des témoins physiques
+- [Justice foncière autochtone et territoires traditionnels à Taïwan](/fr/society/indigenous-land-justice-and-traditional-territories) — terres, territoires traditionnels et controverses contemporaines vus depuis les peuples autochtones ; la place des six peuples de Taitung sur cette carte
+- [Auteurs-compositeurs-interprètes autochtones contemporains](/fr/music/contemporary-indigenous-singer-songwriters) — de Hu Defu à Chen Chien-nien et A-Mei, le contexte de Nanwang comme patrie des Golden Melody Awards
+- [Formes côtières et paysages marins de Taïwan](/fr/geography/taiwan-coastal-landforms-and-seascapes) — formation géologique de la chaîne centrale, de la chaîne côtière et de la vallée longitudinale Huadong
+- [Comté de Miaoli](/fr/geography/miaoli-county) — série des 22 villes et comtés : ténacité hakka contre paradoxe du magistrat cinq étoiles ; comme Taitung, un comté mal lu à l'échelle de la capitale
+- [Comté de Yilan](/fr/geography/yilan-county) — série des 22 villes et comtés : deux Yilan avant et après le tunnel du Xueshan ; comme Taitung, il fait face à la pression touristique du « dernier morceau de terre pure de l'Est »
+- [Ville de Chiayi](/fr/geography/chiayi-city) — série des 22 villes et comtés : ville provinciale nommée Chiayi par un empereur mais si facilement oubliée ; comme Taitung, une épaisseur historique négligée
 
 ## Sources des images
 

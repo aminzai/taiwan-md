@@ -172,14 +172,14 @@ Si vous vous rendez à nouveau dans le comté de Hsinchu, ne vous contentez pas 
 
 ## Pour aller plus loin
 
-- [Comté de Keelung](/geography/基隆市) — Pilote du lot 1 de la série des 22 comtés et villes, un autre comté écrasé par le cadre de la capitale, pour comparer deux visages de politique locale
-- [Comté de Miaoli](/geography/苗栗縣) — Série sœur des 22 comtés et villes, le deuxième comté avec la plus forte proportion de Hakka (62,5 %), offrant une autre expérience hakka en parallèle avec le « culte des Yimin vs parc scientifique » de Hsinchu
-- [Culture et langue hakka](/culture/客家文化與語言) — La répartition à l'échelle de Taïwan du siangien hakka (principal à Miaoli) et du hailu (principal à Hsinchu), le contexte du taux de 67,8 % du comté de Hsinchu
-- [Cuisine hakka](/food/客家飲食文化) — Le contexte de la table des villages hakka : _ban tiao_, thé pilé, sauté hakka, thé Beauté orientale, avec les origines des _ban tiao_ de Xinpu et du thé pilé de Beipu
-- [Ethnies (Hoklo, Hakka, autochtones, continentaux, nouveaux immigrants)](/culture/族群（閩南客家原住民外省新住民）) — La structure de cohabitation triethnique Min-Hakka-autochtone du comté de Hsinchu à plus grande échelle
-- [Entreprise taïwanaise : TSMC](/economy/台灣企業：台積電) — L'usine de wafers de 2 nm de Baoshan phase 2 est le moteur du doublement de la population de la zone TGV de Zhubei dans le comté de Hsinchu
-- [Industrie des semi-conducteurs](/technology/半導體產業) — Le parcours d'expansion du parc scientifique de Hsinchu traversant la ville de Hsinchu, Baoshan (comté de Hsinchu) et Tongluo (comté de Miaoli)
-- [Divisions administratives de Taïwan](/geography/台灣行政區劃) — L'évolution administrative : création du comté de Hsinchu en 1875, séparation du comté et de la ville en 1950, élévation de la ville de Hsinchu au rang de ville de niveau provincial en 1982, transfert du gouvernement du comté à Zhubei en 1989
+- [Comté de Keelung](/fr/geography/keelung-city) — Pilote du lot 1 de la série des 22 comtés et villes, un autre comté écrasé par le cadre de la capitale, pour comparer deux visages de politique locale
+- [Comté de Miaoli](/fr/geography/miaoli-county) — Série sœur des 22 comtés et villes, le deuxième comté avec la plus forte proportion de Hakka (62,5 %), offrant une autre expérience hakka en parallèle avec le « culte des Yimin vs parc scientifique » de Hsinchu
+- [Culture et langue hakka](/fr/culture/hakka-culture-and-language) — La répartition à l'échelle de Taïwan du siangien hakka (principal à Miaoli) et du hailu (principal à Hsinchu), le contexte du taux de 67,8 % du comté de Hsinchu
+- [Cuisine hakka](/fr/food/hakka-food-culture) — Le contexte de la table des villages hakka : _ban tiao_, thé pilé, sauté hakka, thé Beauté orientale, avec les origines des _ban tiao_ de Xinpu et du thé pilé de Beipu
+- [Ethnies (Hoklo, Hakka, autochtones, continentaux, nouveaux immigrants)](/fr/culture/ethnic-groups) — La structure de cohabitation triethnique Min-Hakka-autochtone du comté de Hsinchu à plus grande échelle
+- [Entreprise taïwanaise : TSMC](/fr/economy/tsmc) — L'usine de wafers de 2 nm de Baoshan phase 2 est le moteur du doublement de la population de la zone TGV de Zhubei dans le comté de Hsinchu
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Le parcours d'expansion du parc scientifique de Hsinchu traversant la ville de Hsinchu, Baoshan (comté de Hsinchu) et Tongluo (comté de Miaoli)
+- [Divisions administratives de Taïwan](/fr/geography/administrative-divisions-of-taiwan) — L'évolution administrative : création du comté de Hsinchu en 1875, séparation du comté et de la ville en 1950, élévation de la ville de Hsinchu au rang de ville de niveau provincial en 1982, transfert du gouvernement du comté à Zhubei en 1989
 
 ## Sources des images
 

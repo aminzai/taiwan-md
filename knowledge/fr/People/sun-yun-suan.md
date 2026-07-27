@@ -76,8 +76,8 @@ Cependant, avec l'évolution des temps, certains historiens soulignent qu'un cul
 
 ## Pour aller plus loin
 
-- [Industrie des semi-conducteurs](/technology/半導體產業) — Pour approfondir la compréhension du parcours de développement de l'industrie high-tech impulsé par Sun Yun-suan, Li Guoding et l'ITRI.
-- [Système de transport de Taïwan](/lifestyle/台灣交通系統) — Pour comparer les Dix Grands Projets avec la pensée infrastructurelle issue de la gouvernance technocratique de l'après-guerre.
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Pour approfondir la compréhension du parcours de développement de l'industrie high-tech impulsé par Sun Yun-suan, Li Guoding et l'ITRI.
+- [Système de transport de Taïwan](/fr/lifestyle/transportation-system) — Pour comparer les Dix Grands Projets avec la pensée infrastructurelle issue de la gouvernance technocratique de l'après-guerre.
 
 ## Références
 

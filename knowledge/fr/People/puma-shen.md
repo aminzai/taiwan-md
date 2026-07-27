@@ -155,7 +155,7 @@ Les réactions internationales se regroupèrent en deux jours. Maya Wang, direct
 
 Le Yuan législatif réagit lui aussi. Le 19 novembre 2025, la commission des affaires étrangères et de la défense nationale du Yuan législatif, celle-là même dont Puma Shen était membre convoquant, adopta une motion de condamnation proposée notamment par Wang Ting-yu. Celui-ci déclara : « **Même lorsqu'on n'est pas d'accord, on a le droit d'être protégé par l'État et par la Constitution**. La République populaire de Chine n'a pas le droit de mener ce type d'action politique contre qui que ce soit sur la base d'accusations aussi infondées. »[^49]
 
-La Chine n'avait pas encore inscrit Puma Shen sur la liste officielle des personnes visées par une prime au titre de la version hongkongaise de la loi sur la sécurité nationale ; à la même période, les personnes visées par une prime pouvant atteindre 250 000 yuans étaient le [YouTubeur « Pa Chiung »](/people/八炯) et « Mnan Wolf ».[^50] Mais la combinaison d'une enquête pour « crime de sécession » et d'une menace de « recherche mondiale » par CCTV l'avait déjà placé dans une position voisine.
+La Chine n'avait pas encore inscrit Puma Shen sur la liste officielle des personnes visées par une prime au titre de la version hongkongaise de la loi sur la sécurité nationale ; à la même période, les personnes visées par une prime pouvant atteindre 250 000 yuans étaient le [YouTubeur « Pa Chiung »](/fr/people/pa-chiung-political-youtuber) et « Mnan Wolf ».[^50] Mais la combinaison d'une enquête pour « crime de sécession » et d'une menace de « recherche mondiale » par CCTV l'avait déjà placé dans une position voisine.
 
 ## La vis devant la porte
 
@@ -252,12 +252,12 @@ En mai 2026, il a passé l'écharpe de campagne pour livrer une autre bataille �
 
 **Lectures complémentaires** :
 
-- [Kuma Academy](/society/黑熊學院) — l'organisation civile d'éducation à la défense civile cofondée par Puma Shen et Ho Cheng-hui, une école qui « espère qu'un jour Taïwan n'aura plus besoin d'elle »
-- [Guerre cognitive](/society/認知作戰) — le cadre complet de la guerre informationnelle du PCC contre Taïwan, dont Puma Shen est l'un des principaux chercheurs
-- [Pa Chiung](/people/八炯) — YouTubeur taïwanais également ciblé par le PCC, visé en novembre 2025 par une prime chinoise pouvant atteindre 250 000 yuans
-- [Lai Ching-te](/people/賴清德) — également inscrit sur la liste des « irréductibles de l'indépendance de Taïwan », il a publiquement soutenu Puma Shen en novembre 2025
-- [Défense nationale et modernisation militaire de Taïwan](/society/台灣國防與軍事現代化) — la relation de complémentarité entre l'éducation à la défense civile de la Kuma Academy et la défense nationale pour tous
-- [État invisible](/art/看不見的國家) — le documentaire se conclut sur des Taïwanais suivant un cours de défense civile ; la Kuma Academy est la version réelle de ce cours final
+- [Kuma Academy](/fr/society/kuma-academy-civil-defense-school) — l'organisation civile d'éducation à la défense civile cofondée par Puma Shen et Ho Cheng-hui, une école qui « espère qu'un jour Taïwan n'aura plus besoin d'elle »
+- [Guerre cognitive](/fr/society/cognitive-warfare-against-taiwan) — le cadre complet de la guerre informationnelle du PCC contre Taïwan, dont Puma Shen est l'un des principaux chercheurs
+- [Pa Chiung](/fr/people/pa-chiung-political-youtuber) — YouTubeur taïwanais également ciblé par le PCC, visé en novembre 2025 par une prime chinoise pouvant atteindre 250 000 yuans
+- [Lai Ching-te](/fr/people/lai-ching-te) — également inscrit sur la liste des « irréductibles de l'indépendance de Taïwan », il a publiquement soutenu Puma Shen en novembre 2025
+- [Défense nationale et modernisation militaire de Taïwan](/fr/society/taiwan-defense-modernization) — la relation de complémentarité entre l'éducation à la défense civile de la Kuma Academy et la défense nationale pour tous
+- [État invisible](/fr/art/invisible-nation) — le documentaire se conclut sur des Taïwanais suivant un cours de défense civile ; la Kuma Academy est la version réelle de ce cours final
 
 ## Sources des images
 

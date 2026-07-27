@@ -273,7 +273,7 @@ Elle prouve une chose : une société peut apprendre de ses erreurs, peut bâtir
 
 ## À lire aussi
 
-- [La culture du scooter à Taïwan](/lifestyle/台灣機車文化) — Comment le plus grand concurrent du métro façonne la vie urbaine
+- [La culture du scooter à Taïwan](/fr/lifestyle/taiwan-scooter-culture) — Comment le plus grand concurrent du métro façonne la vie urbaine
 
 ## Références
 

@@ -198,14 +198,14 @@ La prochaine fois que vous marcherez rue Yongkang, **levez les yeux vers les toi
 
 **Pour aller plus loin** :
 
-- [Ville de Taipei : trois temps dans une même ville, du Longshan Temple de 1738 au Taipei 101 de 2004](/geography/台北市) — panorama des 12 districts de Taipei, avec le district de Da’an, où se situe la rue Yongkang, comme noyau du « Taipei culturel et éducatif »
-- [Culture des vieilles rues et quartiers commerciaux de Taïwan](/culture/台灣老街文化與商業街區) — catalogue principal des vieilles rues, comparant Yongkang à Dihua Street, Bopiliao et Anping Old Street
-- [Groupes ethniques (Hokkien, Hakka, peuples autochtones, Waishengren, nouveaux immigrants)](/culture/族群（閩南客家原住民外省新住民）) — récit de la migration waishengren de 1949 ; Yongkang et le Village militaire 44 Sud illustrent deux modes d’installation waishengren
-- [Culture des pâtes de blé à Taïwan](/food/台灣麵食文化) — liens entre Yongkang Beef Noodles, Dongmen Dumpling House, les xiaolongbao de Din Tai Fung et la carte waishengren des pâtes de blé d’après-guerre
-- [Cuisine des villages militaires taïwanais](/food/台灣眷村菜) — croisement culinaire entre Yongkang, le Village militaire 44 Sud, Youth Park et les villages militaires de Beitou
-- [Dadaocheng : 800 mètres et trois siècles, du Formosa Tea au premier coup de feu du 28 février](/geography/大稻埕) — autre quartier historique du même batch 1 ; comparaison entre rue commerçante de l’époque Qing et quartier résidentiel de haut rang japonais, deux « moments de formation » de rue
-- [Gongguan](/geography/公館) — Yongkang et Gongguan soutiennent ensemble le cercle de consommation des enseignants et étudiants de l’Université nationale de Taïwan, de l’époque de l’université impériale en 1928 à l’axe professeur-étudiant des tables de 2026
-- [Village militaire 44 Sud](/geography/四四南村) — village de familles de l’arsenal de 1948, mis en contraste avec le mode d’installation waishengren par reprise de dortoirs japonais à Yongkang-Qingtian : « logement militaire » versus « reprise »
+- [Ville de Taipei : trois temps dans une même ville, du Longshan Temple de 1738 au Taipei 101 de 2004](/fr/geography/taipei-city) — panorama des 12 districts de Taipei, avec le district de Da’an, où se situe la rue Yongkang, comme noyau du « Taipei culturel et éducatif »
+- [Culture des vieilles rues et quartiers commerciaux de Taïwan](/fr/culture/taiwan-historic-streets-and-commercial-districts) — catalogue principal des vieilles rues, comparant Yongkang à Dihua Street, Bopiliao et Anping Old Street
+- [Groupes ethniques (Hokkien, Hakka, peuples autochtones, Waishengren, nouveaux immigrants)](/fr/culture/ethnic-groups) — récit de la migration waishengren de 1949 ; Yongkang et le Village militaire 44 Sud illustrent deux modes d’installation waishengren
+- [Culture des pâtes de blé à Taïwan](/fr/food/taiwanese-noodle-culture) — liens entre Yongkang Beef Noodles, Dongmen Dumpling House, les xiaolongbao de Din Tai Fung et la carte waishengren des pâtes de blé d’après-guerre
+- [Cuisine des villages militaires taïwanais](/fr/food/military-dependents-village-cuisine) — croisement culinaire entre Yongkang, le Village militaire 44 Sud, Youth Park et les villages militaires de Beitou
+- [Dadaocheng : 800 mètres et trois siècles, du Formosa Tea au premier coup de feu du 28 février](/fr/geography/dadaocheng) — autre quartier historique du même batch 1 ; comparaison entre rue commerçante de l’époque Qing et quartier résidentiel de haut rang japonais, deux « moments de formation » de rue
+- [Gongguan](/fr/geography/gongguan) — Yongkang et Gongguan soutiennent ensemble le cercle de consommation des enseignants et étudiants de l’Université nationale de Taïwan, de l’époque de l’université impériale en 1928 à l’axe professeur-étudiant des tables de 2026
+- [Village militaire 44 Sud](/fr/geography/44-south-village) — village de familles de l’arsenal de 1948, mis en contraste avec le mode d’installation waishengren par reprise de dortoirs japonais à Yongkang-Qingtian : « logement militaire » versus « reprise »
 
 ## Sources des images
 

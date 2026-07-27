@@ -121,8 +121,8 @@ Trente yuans. Soixante-dix ans. Une ville.
 
 ## Pour aller plus loin
 
-- [Taiwan Shoulucai](/food/台灣手路菜) — Les racines culturelles de la cuisine familiale taïwanaise
-- [La culture du _bantanzi_ à Taïwan](/food/台灣辦桌文化) — Une autre tradition culinaire née du peuple
+- [Taiwan Shoulucai](/fr/food/taiwan-specialty-home-cooking) — Les racines culturelles de la cuisine familiale taïwanaise
+- [La culture du _bantanzi_ à Taïwan](/fr/food/taiwan-banquet-culture) — Une autre tradition culinaire née du peuple
 
 ---
 

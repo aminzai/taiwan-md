@@ -227,8 +227,8 @@ Le personnage chauve ne se souviendra pas pour qui il a fait des heures supplém
 
 **Pour aller plus loin** :
 
-- [Wretch : le réseau social taïwanais qui a précédé Facebook](/culture/無名小站)
-- [Histoire des migrations des communautés Internet à Taïwan](/technology/台灣網路社群遷徙史)
-- [Mèmes taïwanais](/culture/台灣迷因)
-- [Dcard](/culture/Dcard)
-- [Rainie Yang](/people/楊丞琳)
+- [Wretch : le réseau social taïwanais qui a précédé Facebook](/fr/culture/wretch)
+- [Histoire des migrations des communautés Internet à Taïwan](/fr/technology/taiwan-online-community-migration)
+- [Mèmes taïwanais](/fr/culture/taiwan-meme-culture)
+- [Dcard](/fr/culture/dcard-taiwan-social-platform)
+- [Rainie Yang](/fr/people/rainie-yang)

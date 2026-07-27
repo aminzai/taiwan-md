@@ -110,9 +110,9 @@ Ce train a quitté le quai de la gare de Taipei depuis longtemps. Le jeune homme
 
 **Pour aller plus loin** :
 
-- [Hou Hsiao-hsien](/people/侯孝賢) — Premier maître de cinéma de Lim Giong, figure centrale du Nouveau cinéma taïwanais
-- [Évolution de la chanson en taïwanais](/music/台灣台語歌曲演進) — Vague culturelle à laquelle appartient « Marche en avant » de Lim Giong, contexte de l'évolution du registre triste vers le rock en taïwanais
-- [Chia Yung-chieh](/people/賈永婕) — Personnalité publique taïwanaise ayant elle aussi accompli une transformation identitaire, du statut d'artiste à celui de force de mobilisation pour la gouvernance publique
+- [Hou Hsiao-hsien](/fr/people/hou-hsiao-hsien) — Premier maître de cinéma de Lim Giong, figure centrale du Nouveau cinéma taïwanais
+- [Évolution de la chanson en taïwanais](/fr/music/taiwanese-hokkien-song-evolution) — Vague culturelle à laquelle appartient « Marche en avant » de Lim Giong, contexte de l'évolution du registre triste vers le rock en taïwanais
+- [Chia Yung-chieh](/fr/people/chia-yung-chieh) — Personnalité publique taïwanaise ayant elle aussi accompli une transformation identitaire, du statut d'artiste à celui de force de mobilisation pour la gouvernance publique
 
 ## Références
 

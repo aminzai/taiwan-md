@@ -148,8 +148,8 @@ La réponse du mouvement folklorique taïwanais est : n'ayez pas peur de créer 
 ## Pour aller plus loin
 
 - [Le développement de la musique pop taïwanaise](/music/台灣流行音樂發展) — L'axe principal de la musique pop sinophone après le folk, de Lo Ta-yu à Cheer Chen et Deserts Chang
-- [La littérature taïwanaise après la levée de la loi martiale](/art/解嚴後台灣文學) — Un autre mouvement de conscience culturelle après 1987, apparenté à l'esprit de « chanter nos propres chansons » du folk
-- [Le cinéma taïwanais](/art/台灣電影) — Le mouvement du Nouveau Cinéma taïwanais, un autre axe de l'éveil culturel local taïwanais dans les années 1970-80
+- [La littérature taïwanaise après la levée de la loi martiale](/fr/art/post-martial-law-taiwanese-literature) — Un autre mouvement de conscience culturelle après 1987, apparenté à l'esprit de « chanter nos propres chansons » du folk
+- [Le cinéma taïwanais](/fr/art/taiwanese-cinema) — Le mouvement du Nouveau Cinéma taïwanais, un autre axe de l'éveil culturel local taïwanais dans les années 1970-80
 
 ---
 

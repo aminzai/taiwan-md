@@ -130,9 +130,9 @@ Quand quelqu'un qui a perdu quatre cents millions prononce ces mots, chaque syll
 
 ## Pour aller plus loin
 
-- [Industrie du jeu vidéo taïwanaise et divertissement numérique](/technology/台灣遊戲產業與數位娛樂) — Panorama complet du jeu taïwanais, de la licence à la création originale
-- [Les Deux Épées de Softstar](/technology/大宇雙劍) — L'initiation émotionnelle du RPG taïwanais sur console, l'époque précédant X-Legend
-- [Qui n'entre pas dans la cave ne peut dormir](/technology/不入地窖焉能睡覺) — Trente ans de communautés de joueurs taïwanais
+- [Industrie du jeu vidéo taïwanaise et divertissement numérique](/fr/technology/taiwan-gaming-industry) — Panorama complet du jeu taïwanais, de la licence à la création originale
+- [Les Deux Épées de Softstar](/fr/technology/softstar-twin-classics) — L'initiation émotionnelle du RPG taïwanais sur console, l'époque précédant X-Legend
+- [Qui n'entre pas dans la cave ne peut dormir](/fr/technology/into-the-cellar-taiwan-game-podcast) — Trente ans de communautés de joueurs taïwanais
 
 ---
 

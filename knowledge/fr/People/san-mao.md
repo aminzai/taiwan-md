@@ -136,11 +136,11 @@ Une personne qui a passé sa vie à fuir est finalement devenue le chemin des au
 
 ## À lire également
 
-- [Bai Xianyong](/People/白先勇) : celui qui a poussé la première œuvre de San Mao dans _Modern Literature_
-- [Lin Qingxia](/People/林青霞) : _Le Poussier Rouge_ lui a valu le titre de reine, mais lui a aussi fait perdre une amie
-- [Mouvement de la chanson folk taïwanaise](/Music/台灣民歌運動) : le terreau dans lequel _L'Arbre à oliviers_ est né
-- [Essai taïwanais](/Art/台灣散文) : le territoire littéraire que San Mao occupe
-- [Xi Murong](/People/席慕蓉) : une autre écrivaine contemporaine qui a écrit l'étranger dans le cœur des Taïwanais
+- [Bai Xianyong](/fr/people/pai-hsien-yung-literary-master) : celui qui a poussé la première œuvre de San Mao dans _Modern Literature_
+- [Lin Qingxia](/fr/people/brigitte-lin-legendary-actress) : _Le Poussier Rouge_ lui a valu le titre de reine, mais lui a aussi fait perdre une amie
+- [Mouvement de la chanson folk taïwanaise](/fr/music/taiwan-campus-folk-song-movement) : le terreau dans lequel _L'Arbre à oliviers_ est né
+- [Essai taïwanais](/fr/art/taiwanese-prose) : le territoire littéraire que San Mao occupe
+- [Xi Murong](/fr/people/ximurong) : une autre écrivaine contemporaine qui a écrit l'étranger dans le cœur des Taïwanais
 
 ## Références
 

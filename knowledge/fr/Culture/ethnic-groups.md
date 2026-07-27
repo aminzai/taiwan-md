@@ -146,11 +146,11 @@ Ces chiffres continuent d'évoluer.
 
 **Lectures complémentaires :**
 
-- [Diversité linguistique et culture des langues maternelles](/culture/linguistic-diversity-and-mother-tongue-culture) — Vitesse de perte et mouvements de revitalisation du taiwanais, hakka et des langues autochtones
+- [Diversité linguistique et culture des langues maternelles](/fr/culture/linguistic-diversity-and-mother-tongue-culture) — Vitesse de perte et mouvements de revitalisation du taiwanais, hakka et des langues autochtones
 - [Histoire des peuples autochtones de Taïwan et mouvement pour le rétablissement du nom](/history/taiwans-indigenous-peoples-history-and-naming-movement) — De « Shanpao » à « Peuples autochtones », dix ans de lutte pour la reconnaissance
 - [Carte culturelle des 16 tribus autochtones de Taïwan](/culture/taiwans-indigenous-peoples-16-tribes-cultural-map) — Distribution, langues et caractéristiques culturelles des 16 tribus
-- [Culture et langue Hakka](/culture/hakka-culture-and-language) — Histoire des migrations de la communauté Hakka et préservation culturelle
-- [Incident du 22 août](/history/228-incident/) — Point de départ historique des conflits ethniques après-guerre
+- [Culture et langue Hakka](/fr/culture/hakka-culture-and-language) — Histoire des migrations de la communauté Hakka et préservation culturelle
+- [Incident du 22 août](/fr/history/228-incident/) — Point de départ historique des conflits ethniques après-guerre
 
 ## Références
 

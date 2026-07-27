@@ -245,13 +245,13 @@ Après ces 102 secondes à 1 h 47 du matin, Nantou n'est pas devenu une ruine. I
 
 ## Pour aller plus loin
 
-- [Lac du Soleil et de la Lune](/geography/日月潭) — histoire complète du projet du barrage de Wujie de 1934, qui éleva le lac de 18,18 mètres, de la plus grande centrale hydroélectrique d'Asie, et du déplacement des Thao
-- [Yushan](/geography/玉山) — plus haut sommet de Taïwan à 3 952 mètres ; le parc national du Yushan couvre quatre villes et comtés : Xinyi à Nantou / Alishan à Chiayi / Taoyuan à Kaohsiung / Zhuoxi à Hualien
-- [Histoire des peuples autochtones de Taïwan et mouvements de reconnaissance des noms](/history/台灣原住民族歷史與正名運動) — contexte national des mouvements de reconnaissance des Thao comme 10e peuple en 2001, des Taroko en 2004 et des Seediq en 2008
-- [Chant à huit voix](/music/八部合音) — la réalité du Pasibutbut, transmis uniquement parmi les groupes Takbanuaz et Isbukun des Bunun, et de la communauté de Mingde
-- [Préhistoire et peuples autochtones](/history/史前時代與原住民) — chronologie millénaire de l'habitation des Seediq, Bunun, Thao et Tsou dans la chaîne centrale
-- [Ville de Keelung](/geography/基隆市) — pilote de la série des 22 villes et comtés : du 7e port à conteneurs mondial en 1984 au 113e port en 2018, un comté lui aussi oublié par le récit central
-- [Comté de Miaoli](/geography/苗栗縣) — comté intérieur frère du batch 1 de la série des 22 villes et comtés : la « nuque raide » hakka face au doublement de la dette du trésor du comté, confronté comme Nantou au double enjeu de « l'exode des populations de montagne + théâtre politique »
+- [Lac du Soleil et de la Lune](/fr/geography/sun-moon-lake) — histoire complète du projet du barrage de Wujie de 1934, qui éleva le lac de 18,18 mètres, de la plus grande centrale hydroélectrique d'Asie, et du déplacement des Thao
+- [Yushan](/fr/geography/yushan-jade-mountain) — plus haut sommet de Taïwan à 3 952 mètres ; le parc national du Yushan couvre quatre villes et comtés : Xinyi à Nantou / Alishan à Chiayi / Taoyuan à Kaohsiung / Zhuoxi à Hualien
+- [Histoire des peuples autochtones de Taïwan et mouvements de reconnaissance des noms](/fr/history/indigenous-peoples-history-and-naming-movement) — contexte national des mouvements de reconnaissance des Thao comme 10e peuple en 2001, des Taroko en 2004 et des Seediq en 2008
+- [Chant à huit voix](/fr/music/bunun-pasibutbut-eight-part-polyphony) — la réalité du Pasibutbut, transmis uniquement parmi les groupes Takbanuaz et Isbukun des Bunun, et de la communauté de Mingde
+- [Préhistoire et peuples autochtones](/fr/history/prehistoric-era-and-indigenous-peoples) — chronologie millénaire de l'habitation des Seediq, Bunun, Thao et Tsou dans la chaîne centrale
+- [Ville de Keelung](/fr/geography/keelung-city) — pilote de la série des 22 villes et comtés : du 7e port à conteneurs mondial en 1984 au 113e port en 2018, un comté lui aussi oublié par le récit central
+- [Comté de Miaoli](/fr/geography/miaoli-county) — comté intérieur frère du batch 1 de la série des 22 villes et comtés : la « nuque raide » hakka face au doublement de la dette du trésor du comté, confronté comme Nantou au double enjeu de « l'exode des populations de montagne + théâtre politique »
 
 ## Sources des images
 

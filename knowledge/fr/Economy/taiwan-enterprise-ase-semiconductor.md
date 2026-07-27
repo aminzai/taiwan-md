@@ -172,9 +172,9 @@ De l'investissement familial de 1984, porté par Constance Chang et ses deux fil
 
 **Lectures complémentaires** :
 
-- [Entreprises taïwanaises : TSMC](/economy/台灣企業：台積電) — la relation symbiotique entre la « montagne sacrée » et les fonderies de packaging en aval
-- [Entreprises taïwanaises : MediaTek](/economy/台灣企業：聯發科技) — le leader taïwanais du design de puces, qui, comme ASE, appartient à l'écosystème complet de la chaîne d'approvisionnement
-- [Industrie des semi-conducteurs](/technology/半導體產業) — de la technologie RCA au packaging avancé CoWoS, 50 ans de science des matériaux, et la place d'ASE dans le packaging traditionnel
+- [Entreprises taïwanaises : TSMC](/fr/economy/tsmc) — la relation symbiotique entre la « montagne sacrée » et les fonderies de packaging en aval
+- [Entreprises taïwanaises : MediaTek](/fr/economy/mediatek) — le leader taïwanais du design de puces, qui, comme ASE, appartient à l'écosystème complet de la chaîne d'approvisionnement
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — de la technologie RCA au packaging avancé CoWoS, 50 ans de science des matériaux, et la place d'ASE dans le packaging traditionnel
 
 ## Références
 

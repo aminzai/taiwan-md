@@ -143,12 +143,12 @@ Après avoir écrit pendant trente ans les meilleures chansons des autres, il fi
 
 **Pour aller plus loin** :
 
-- [Lo Ta-yu](/people/羅大佑) — l'autre parrain de la musique mandarine ; « observer le monde » face au « sonder le coeur » de Lee Tsung-sheng, la personne qu'il faut le plus lire en parallèle
-- [Sylvia Chang](/people/張艾嘉) — 《忙與盲》, premier projet produit par Lee Tsung-sheng chez Rock Records, point de départ de la lignée des « femmes urbaines »
-- [A-Mei](/people/張惠妹) — une voix de diva de la même grande époque de Rock Records, autre trajectoire de la voix féminine pop taïwanaise
-- [Le mouvement folk taïwanais](/music/台灣民歌運動) — le train des années 1970 dans lequel Lee Tsung-sheng est monté, le terreau du groupe 木吉他 et du prix Golden Melody folk
-- [L'évolution du mandarin taïwanais](/culture/台灣華語的演化) — si l'entrée du langage ordinaire dans la chanson touche si fortement, c'est aussi lié à la manière dont le mandarin taïwanais est devenu une langue du quotidien
-- [Huang Ta-wei](/people/黃大煒) — auteur-compositeur-interprète et musicien complet de la même génération, qui s'est forgé son propre style avec une voix rauque ; lui et Lee Tsung-sheng représentent deux façons différentes d'ouvrir une voie à la ballade sentimentale en mandarin
+- [Lo Ta-yu](/fr/people/luo-dayou) — l'autre parrain de la musique mandarine ; « observer le monde » face au « sonder le coeur » de Lee Tsung-sheng, la personne qu'il faut le plus lire en parallèle
+- [Sylvia Chang](/fr/people/sylvia-chang) — 《忙與盲》, premier projet produit par Lee Tsung-sheng chez Rock Records, point de départ de la lignée des « femmes urbaines »
+- [A-Mei](/fr/people/a-mei) — une voix de diva de la même grande époque de Rock Records, autre trajectoire de la voix féminine pop taïwanaise
+- [Le mouvement folk taïwanais](/fr/music/taiwan-campus-folk-song-movement) — le train des années 1970 dans lequel Lee Tsung-sheng est monté, le terreau du groupe 木吉他 et du prix Golden Melody folk
+- [L'évolution du mandarin taïwanais](/fr/culture/taiwan-mandarin-evolution) — si l'entrée du langage ordinaire dans la chanson touche si fortement, c'est aussi lié à la manière dont le mandarin taïwanais est devenu une langue du quotidien
+- [Huang Ta-wei](/fr/people/david-wong) — auteur-compositeur-interprète et musicien complet de la même génération, qui s'est forgé son propre style avec une voix rauque ; lui et Lee Tsung-sheng représentent deux façons différentes d'ouvrir une voie à la ballade sentimentale en mandarin
 
 ## Sources des images
 

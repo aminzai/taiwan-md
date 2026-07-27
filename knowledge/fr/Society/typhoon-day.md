@@ -173,7 +173,7 @@ Mais chaque été, au moment où l’on ouvre son téléphone pour lire l’anno
 
 ## Lectures complémentaires
 
-- [Typhon](/Nature/颱風) — Des premiers habitants de l’époque Qing témoins d’ouragans aux Penghu jusqu’au village de Xiaolin en 2009, une vue d’ensemble de quatre siècles de coexistence entre Taïwan et les typhons
+- [Typhon](/fr/nature/typhoons-in-taiwan) — Des premiers habitants de l’époque Qing témoins d’ouragans aux Penghu jusqu’au village de Xiaolin en 2009, une vue d’ensemble de quatre siècles de coexistence entre Taïwan et les typhons
 - Business Weekly, « Les congés pour typhon peuvent-ils vraiment séduire les électeurs attachés aux petits bonheurs ? Les résultats statistiques montrent que seule la bonne décision de congé compte » — Analyse quantitative de science politique sur les décisions de congé pour typhon
 - Coolloud, « La saison des typhons arrive : qu’attend-on pour légiférer sur un congé payé en cas de catastrophe naturelle ? » — Perspective syndicale sur l’inscription du congé pour typhon dans la loi
 

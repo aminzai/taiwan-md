@@ -103,8 +103,8 @@ Après quarante ans d’évolution, le mouvement environnemental taïwanais est 
 
 **Lectures complémentaires** :
 
-- [Discussion sur le nucléaire à Taïwan](/society/台灣與核能的討論) — Comment le mouvement anti‑nucléaire s’est développé à partir du mouvement environnemental et a été reconfiguré par les enjeux climatiques : histoire complète des trois référendums sur quatre décennies
-- [Crise climatique à Taïwan et transition vers le zéro net](/nature/台灣氣候危機與淨零轉型) — Transformation de la conscience environnementale en politiques nationales de neutralité carbone et de réorganisation du mix énergétique
+- [Discussion sur le nucléaire à Taïwan](/fr/society/taiwan-nuclear-debate) — Comment le mouvement anti‑nucléaire s’est développé à partir du mouvement environnemental et a été reconfiguré par les enjeux climatiques : histoire complète des trois référendums sur quatre décennies
+- [Crise climatique à Taïwan et transition vers le zéro net](/fr/nature/taiwan-climate-change-net-zero-transition) — Transformation de la conscience environnementale en politiques nationales de neutralité carbone et de réorganisation du mix énergétique
 
 ## Références
 

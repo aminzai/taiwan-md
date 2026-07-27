@@ -189,9 +189,9 @@ Les mots écrits dans la loi seront lus par les lecteurs. Les mots qui n’y fig
 
 **Pour aller plus loin** :
 
-- [Soins médicaux et assurance maladie nationale à Taïwan](/lifestyle/台灣醫療與全民健保) — Le taux de couverture mondialement connu et la structure de paiement du système d’assurance maladie, partenaire du « volet paiement » après l’application de la Loi sur les soins médicaux
-- [Évolution des deux lois taïwanaises sur la médecine régénérative, témoignage d’un professionnel](/society/台灣再生醫療雙法沿革從業人員告白) — Les deux lois sur la médecine régénérative adoptées en 2024 sont des lois spéciales sorties de la Loi sur les soins médicaux, qui complètent la réglementation des thérapies cellulaires
-- [Système taïwanais de médecine de catastrophe](/technology/台灣災難醫療體系) — Le fonctionnement concret de la « répartition rationnelle des ressources médicales » de l’article 1 de la Loi sur les soins médicaux dans les situations de catastrophe majeure
+- [Soins médicaux et assurance maladie nationale à Taïwan](/fr/lifestyle/taiwan-healthcare-and-national-health-insurance) — Le taux de couverture mondialement connu et la structure de paiement du système d’assurance maladie, partenaire du « volet paiement » après l’application de la Loi sur les soins médicaux
+- [Évolution des deux lois taïwanaises sur la médecine régénérative, témoignage d’un professionnel](/fr/society/taiwan-regenerative-medicine-laws) — Les deux lois sur la médecine régénérative adoptées en 2024 sont des lois spéciales sorties de la Loi sur les soins médicaux, qui complètent la réglementation des thérapies cellulaires
+- [Système taïwanais de médecine de catastrophe](/fr/technology/taiwan-disaster-medicine-system) — Le fonctionnement concret de la « répartition rationnelle des ressources médicales » de l’article 1 de la Loi sur les soins médicaux dans les situations de catastrophe majeure
 
 ## Références
 

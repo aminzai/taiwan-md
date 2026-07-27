@@ -159,12 +159,12 @@ Le 8 mai 2026 marquera le 31e anniversaire de sa mort. La suite du 15e étage de
 
 **Pour aller plus loin** :
 
-- [Musique pop taïwanaise](/music/台灣流行音樂) — L'âge d'or de la pop sinophone qu'elle a habité
-- [Mouvement de la chanson populaire taïwanaise](/music/台灣民歌運動) — Mouvement contemporain de prise de conscience locale dans la scène musicale des années 1970
-- [La période de la loi martiale](/history/戒嚴時期) — Structure politique de Taïwan avant son départ pour le Japon à 20 ans
-- [Terreur blanche à Taïwan](/history/台灣白色恐怖) — Le climat politique de son enfance
-- [Crises du détroit et relations entre les deux rives](/history/台海危機與兩岸關係發展) — La frontière de la guerre froide qu'elle a contournée par sa voix
-- [Brigitte Lin](/people/林青霞) — Géante du cinéma de la même génération, autre repère du réseau des stars sinophones est-asiatiques 1970-80
+- [Musique pop taïwanaise](/fr/music/golden-melodies-legacy-taiwan-pop-music) — L'âge d'or de la pop sinophone qu'elle a habité
+- [Mouvement de la chanson populaire taïwanaise](/fr/music/taiwan-campus-folk-song-movement) — Mouvement contemporain de prise de conscience locale dans la scène musicale des années 1970
+- [La période de la loi martiale](/fr/history/martial-law-era) — Structure politique de Taïwan avant son départ pour le Japon à 20 ans
+- [Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — Le climat politique de son enfance
+- [Crises du détroit et relations entre les deux rives](/fr/history/taiwan-strait-crises-and-cross-strait-relations) — La frontière de la guerre froide qu'elle a contournée par sa voix
+- [Brigitte Lin](/fr/people/brigitte-lin-legendary-actress) — Géante du cinéma de la même génération, autre repère du réseau des stars sinophones est-asiatiques 1970-80
 
 ## Références
 

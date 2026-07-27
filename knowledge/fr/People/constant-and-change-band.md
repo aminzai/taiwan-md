@@ -158,13 +158,13 @@ Et cette ligne ferroviaire de _Mianyue_, dans leurs chansons, continue de rouler
 
 **Lecture complémentaire :**
 
-- [No Party for Cao Dong](/people/草東沒有派對) — Groupe indépendant émergé en 2016, exprime la colère de la jeunesse ; KST écrit sur l'échec dix ans plus tard — deux phases d'une même génération.
-- [Hsü Wei-hsuan](/people/魏如萱) — Chanteuse de la scène indépendante des années 2010, privilégiant la voix au post-rock.
-- [Cicada](/people/Cicada) — Post-rock instrumental pur, en contraste avec le style "post-rock + voix" de KST.
-- [Lu Guang-zhong](/people/盧廣仲) — Une autre voie de la musique indépendante : un artiste polyvalent récompensé par les trois grands prix.
-- [Golden Melody Awards](/music/金曲獎) — Le cadre institutionnel où KST a été nommé au 32e Golden Melody Awards.
-- [Musique indépendante de Taïwan](/music/台灣獨立音樂) — La généalogie de la scène indépendante, de Natural捲 à KST, Cao Dong et Accuse シヴァ。
-- [Musique populaire de Taïpunk](/music/台灣流行音樂) — L'environnement de l'industrie de la pop mandarine.
+- [No Party for Cao Dong](/fr/people/no-party-for-cao-dong) — Groupe indépendant émergé en 2016, exprime la colère de la jeunesse ; KST écrit sur l'échec dix ans plus tard — deux phases d'une même génération.
+- [Hsü Wei-hsuan](/fr/people/waa-wei-singer) — Chanteuse de la scène indépendante des années 2010, privilégiant la voix au post-rock.
+- [Cicada](/fr/people/cicada-band) — Post-rock instrumental pur, en contraste avec le style "post-rock + voix" de KST.
+- [Lu Guang-zhong](/fr/people/crowd-lu-indie-folk-treasure) — Une autre voie de la musique indépendante : un artiste polyvalent récompensé par les trois grands prix.
+- [Golden Melody Awards](/fr/music/pop-music-and-golden-melody-awards) — Le cadre institutionnel où KST a été nommé au 32e Golden Melody Awards.
+- [Musique indépendante de Taïwan](/fr/music/indie-music-scene) — La généalogie de la scène indépendante, de Natural捲 à KST, Cao Dong et Accuse シヴァ。
+- [Musique populaire de Taïpunk](/fr/music/golden-melodies-legacy-taiwan-pop-music) — L'environnement de l'industrie de la pop mandarine.
 
 ## Références
 

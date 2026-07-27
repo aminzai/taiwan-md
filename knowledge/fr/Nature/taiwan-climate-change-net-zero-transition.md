@@ -238,7 +238,7 @@ Chaque trajectoire énergétique a ses opposants, et chaque opposant a son histo
 
 > 📝 **Note curatoriale** : le débat courant sur la justice environnementale s’arrête souvent à « équilibrer développement et protection de l’environnement », mais ce cadrage aplatit le problème. Le vrai point commun entre Lanyu, les récifs algaires et Meinong est le suivant : **tous sont des effets différés de décisions prises après les années 1980, dont les mouvements sociaux des années 1990-2020 ont dû payer la facture**. D’ici 2050, la transition énergétique fera naître beaucoup de nouveaux « Lanyu » et « récifs algaires » : les pêcheurs de Changhua face à l’éolien en mer, les Autochtones de Yilan face à la géothermie, les marais salants de Tainan face au photovoltaïque. La vraie question est de savoir si l’on peut éviter de répéter le modèle décisionnel de 1982.
 
-Pour un contexte historique détaillé de la justice environnementale, voir [Histoire du mouvement environnemental taïwanais](/nature/台灣環境運動史) et [Gouvernance de la pollution marine et défis de conservation à Taïwan](/nature/台灣海洋污染治理與保育挑戰).
+Pour un contexte historique détaillé de la justice environnementale, voir [Histoire du mouvement environnemental taïwanais](/fr/nature/taiwan-environmental-movement-history) et [Gouvernance de la pollution marine et défis de conservation à Taïwan](/fr/nature/marine-pollution-governance-and-conservation).
 
 ## 9 000 milliards de dollars taïwanais et les limites physiques
 
@@ -307,13 +307,13 @@ Les 97 672 fûts de Lanyu ne disparaîtront pas parce qu’un référendum passe
 
 **Lectures complémentaires** :
 
-- [Histoire du mouvement environnemental taïwanais](/nature/台灣環境運動史) — Du mouvement antinucléaire à la lutte contre la pollution de l’air, comment les Tao de Lanyu, le mouvement anti-barrage de Meinong et le référendum sur les récifs algaires ont façonné la politique énergétique actuelle
-- [Gouvernance de la pollution marine et défis de conservation à Taïwan](/nature/台灣海洋污染治理與保育挑戰) — 80 % de coraux blanchis à la sortie d’eau de la centrale nucléaire no 3, déchets marins et croisement écologique de l’éolien en mer
-- [Sources chaudes et géothermie à Taïwan](/nature/台灣溫泉與地熱) — De l’échec de Qingshui en 1981 à sa relance en 2024, comment s’est formé un silence géothermique de 30 ans
-- [Justice environnementale et controverses NIMBY à Taïwan](/society/台灣環境正義與鄰避爭議) — Lanyu, récifs algaires, Meinong : la politique de répartition des coûts de la transition énergétique
-- [Transformation et montée en gamme de l’industrie taïwanaise](/economy/台灣產業轉型升級) — De l’industrie manufacturière énergivore aux industries vertes, le compte énergétique de TSMC, RE100, CBAM et de la « montagne sacrée protégeant le pays »
-- [Modernisation de l’agriculture taïwanaise](/economy/台灣農業現代化發展) — Les pressions de transformation agricole et les conflits d’usage des sols derrière l’agrivoltaïsme
-- [Pluie de prunes](/nature/梅雨) — Observation locale du changement climatique : « les pluies de printemps ne viennent plus, les pluies de prunes se concentrent »
+- [Histoire du mouvement environnemental taïwanais](/fr/nature/taiwan-environmental-movement-history) — Du mouvement antinucléaire à la lutte contre la pollution de l’air, comment les Tao de Lanyu, le mouvement anti-barrage de Meinong et le référendum sur les récifs algaires ont façonné la politique énergétique actuelle
+- [Gouvernance de la pollution marine et défis de conservation à Taïwan](/fr/nature/marine-pollution-governance-and-conservation) — 80 % de coraux blanchis à la sortie d’eau de la centrale nucléaire no 3, déchets marins et croisement écologique de l’éolien en mer
+- [Sources chaudes et géothermie à Taïwan](/fr/nature/Taiwan Hot Springs and Geothermal Energy) — De l’échec de Qingshui en 1981 à sa relance en 2024, comment s’est formé un silence géothermique de 30 ans
+- [Justice environnementale et controverses NIMBY à Taïwan](/fr/society/taiwan-environmental-justice-nimby-conflicts) — Lanyu, récifs algaires, Meinong : la politique de répartition des coûts de la transition énergétique
+- [Transformation et montée en gamme de l’industrie taïwanaise](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — De l’industrie manufacturière énergivore aux industries vertes, le compte énergétique de TSMC, RE100, CBAM et de la « montagne sacrée protégeant le pays »
+- [Modernisation de l’agriculture taïwanaise](/fr/economy/taiwan-agricultural-modernization) — Les pressions de transformation agricole et les conflits d’usage des sols derrière l’agrivoltaïsme
+- [Pluie de prunes](/fr/nature/meiyu-stagnant-front) — Observation locale du changement climatique : « les pluies de printemps ne viennent plus, les pluies de prunes se concentrent »
 
 ## Références
 

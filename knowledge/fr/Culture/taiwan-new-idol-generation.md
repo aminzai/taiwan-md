@@ -45,7 +45,7 @@ Le 12 juin 2020, « 菱格世代 DD52 » a été diffusé simultanément
 
 Le budget de DD52 dépassait largement celui des émissions de sélection contemporaines. Le producteur Chan Jen-hsiung (l’un des meilleurs créateurs d’émissions de variétés à Taïwan) a collaboré avec Liang Ting-hao, injectant **130 millions de NT$**. Ce chiffre était cinq à six fois le budget moyen des programmes similaires à l’époque. Seules les chansons originales ont coûté 18 millions, et les installations techniques représentaient 2,5 fois celles de « Star Avenue »[^2].
 
-104 jeunes filles, âgées de 13 à 25 ans, ont été réparties en quatre équipes : Hurricane, Blaze Love, Pink Fun et White Diamond[^3]. Les mentors principaux étaient [Yang Cheng‑lin](/people/楊丞琳) et Pan Wei‑bo, tandis que le corps enseignant comprenait Chen Li‑nong, EggPlant Egg, Wang Xin‑ling, [Hsiao Jing‑teng](/people/蕭敬騰), Zhou Xing‑zhe, [Wei Ru‑xuan](/people/魏如萱), 9m88, Wu Zhuoyuan et seize autres musiciens[^3].
+104 jeunes filles, âgées de 13 à 25 ans, ont été réparties en quatre équipes : Hurricane, Blaze Love, Pink Fun et White Diamond[^3]. Les mentors principaux étaient [Yang Cheng‑lin](/fr/people/rainie-yang) et Pan Wei‑bo, tandis que le corps enseignant comprenait Chen Li‑nong, EggPlant Egg, Wang Xin‑ling, [Hsiao Jing‑teng](/fr/people/jam-hsiao), Zhou Xing‑zhe, [Wei Ru‑xuan](/fr/people/waa-wei-singer), 9m88, Wu Zhuoyuan et seize autres musiciens[^3].
 
 Treize épisodes de deux heures chacun. La finale a eu lieu le 4 septembre 2020.
 
@@ -66,7 +66,7 @@ Mais la véritable histoire commence après la finale.
 
 Après leurs débuts, G.O.F a rapidement perdu en visibilité. PINK FUN a connu des départs de membres. Parmi les trois groupes, c’est **le deuxième, HUR, qui a le plus longtemps survécu**[^5].
 
-Les données de présence sur les réseaux sociaux sont implacables : G.O.F 517 mentions, PINK FUN 621, HUR 604 — le champion affiche le chiffre le plus bas. En 2026, six ans plus tard, seul HUR (désormais [HUR+](/people/HUR-plus)) continue de sortir des albums, d’organiser des concerts et de financer un séjour en Corée pour promouvoir ses titres[^4].
+Les données de présence sur les réseaux sociaux sont implacables : G.O.F 517 mentions, PINK FUN 621, HUR 604 — le champion affiche le chiffre le plus bas. En 2026, six ans plus tard, seul HUR (désormais [HUR+](/fr/people/hur-plus-band)) continue de sortir des albums, d’organiser des concerts et de financer un séjour en Corée pour promouvoir ses titres[^4].
 
 Ce revirement n’est pas le fruit du hasard. Le producteur de HUR+, Felipe Z, a suivi une voie totalement différente de celle du champion : il n’a pas copié la Corée.
 
@@ -105,7 +105,7 @@ Atomic Boy a remporté le **prix du meilleur réalisateur aux 58ᵉ Golden Bell 
 
 En juillet 2023, le format des émissions de sélection a évolué. « Future Girl » ne recherchait plus des novices, mais **des groupes féminins déjà actifs**[^8].
 
-Six groupes se sont affrontés : Sun‑light Orange, Mint Crystal, Obsidian Elf, Purple Moonlight, Crimson Shadow (formation de neuf membres de [HUR+](/people/HUR-plus)), Azure Little Bear, plus une équipe cachée débloquée par le vote du public, Ghost Crystal[^8].
+Six groupes se sont affrontés : Sun‑light Orange, Mint Crystal, Obsidian Elf, Purple Moonlight, Crimson Shadow (formation de neuf membres de [HUR+](/fr/people/hur-plus-band)), Azure Little Bear, plus une équipe cachée débloquée par le vote du public, Ghost Crystal[^8].
 
 Le groupe champion, Azure Little Bear (GenBlue), a remporté six titres en neuf rondes, a gagné le prix du million de voitures, puis, le 2 septembre 2024, a fait ses débuts en Corée avec le single « COCOCO », devenant le premier cas de succès d’une émission taïwanaise exportée vers le marché coréen[^8].
 
@@ -151,7 +151,7 @@ Produit par Wei‑Lai Television et Titan Star Creative, le producteur B2 Chen Y
 
 Deux particularités rendent ce programme notable.
 
-Premièrement, **le point d’entrée est la culture des cheerleaders**. Depuis 2023, les cheerleaders du baseball professionnel taïwanais sont devenus un phénomène culturel à part entière. Des personnalités comme [Li Duo‑hui](/people/李多慧), Bian He‑lu et Nan Min‑jeong ont une influence qui dépasse largement le stade de baseball. Cosmic Cheerleading Team a canalisé cette énergie dans une émission d’idoles, créant une fusion culturelle précise[^11].
+Premièrement, **le point d’entrée est la culture des cheerleaders**. Depuis 2023, les cheerleaders du baseball professionnel taïwanais sont devenus un phénomène culturel à part entière. Des personnalités comme [Li Duo‑hui](/fr/people/lee-da-hye), Bian He‑lu et Nan Min‑jeong ont une influence qui dépasse largement le stade de baseball. Cosmic Cheerleading Team a canalisé cette énergie dans une émission d’idoles, créant une fusion culturelle précise[^11].
 
 Deuxièmement, **l’animateur est Sung‑min (Silver‑Kk) de SUPER JUNIOR**. Un idole coréen de premier plan participe directement à la production taïwanaise en tant qu’animateur permanent, bien au‑delà du simple rôle de mentor invité. Les candidats se rendent en Corée pour une formation professionnelle[^11]. C’est la première fois qu’une émission taïwanaise intègre directement des ressources coréennes, dépassant le simple mimétisme de format.
 
@@ -196,9 +196,9 @@ DD52 a produit trois groupes, Atomic Boy sept, Atomic Boy 2 deux groupes suppl
 
 Malgré le récit « début facile, survie difficile », certains cas montrent des trajectoires différentes.
 
-Le producteur de [HUR+](/people/HUR-plus) a adopté une stratégie « pas comme les groupes coréens », permettant au groupe de survivre six ans, avec trois albums, un financement participatif pour aller en Corée, et des membres d’origines mongoles, britanniques, indonésiennes et vietnamiennes, chaque nouveau membre ciblant un marché spécifique[^4].
+Le producteur de [HUR+](/fr/people/hur-plus-band) a adopté une stratégie « pas comme les groupes coréens », permettant au groupe de survivre six ans, avec trois albums, un financement participatif pour aller en Corée, et des membres d’origines mongoles, britanniques, indonésiennes et vietnamiennes, chaque nouveau membre ciblant un marché spécifique[^4].
 
-[ Lian Ying ](/people/連穎) (danseuse principale de HUR+) a quitté le groupe pour une carrière solo, sortant en 2025 l’EP « EZ », mêlant hip‑hop et R&B. Ses fans ont financé une scène d’anniversaire à Dadaocheng et ont diffusé des publicités de soutien simultanément à Taïwan, au Japon et en Thaïlande[^13]. La culture de soutien à la K‑pop se localise progressivement dans les communautés de fans taïwanais.
+[ Lian Ying ](/fr/people/lien-ying) (danseuse principale de HUR+) a quitté le groupe pour une carrière solo, sortant en 2025 l’EP « EZ », mêlant hip‑hop et R&B. Ses fans ont financé une scène d’anniversaire à Dadaocheng et ont diffusé des publicités de soutien simultanément à Taïwan, au Japon et en Thaïlande[^13]. La culture de soutien à la K‑pop se localise progressivement dans les communautés de fans taïwanais.
 
 GenBlue (Azure Little Bear) a, après sa victoire dans Future Girl, effectivement débuts en Corée en 2024. Ozone a été le premier groupe masculin de la nouvelle génération à organiser un concert à la Petite Pomme. F.F.O a reçu une reconnaissance de marché avec son album de lancement[^10].
 
@@ -218,12 +218,12 @@ La réponse n’est pas encore claire. Mais ceux qui restent sur scène — le
 
 ## Lectures complémentaires
 
-- [HUR+](/people/HUR-plus) — deuxième du DD52, le seul groupe encore actif six ans plus tard. « Pas comme les groupes coréens, c’est la clé pour ne pas être dépassé ».
-- [Lian Ying](/people/連穎) — danseuse principale de HUR+, exemple d’une membre de groupe qui passe en solo.
-- [Yang Cheng‑lin](/people/楊丞琳) — mentor principal du DD52, elle-même issue du système d’idoles depuis vingt‑cinq ans.
-- [Jolin Tsai](/people/蔡依林) — « reine du talent » taïwanaise, [Lian Ying](/people/連穎) la cite comme « ma déesse ».
-- [Musique pop de Taïwan](/music/台灣流行音樂) — comment Taïwan occupe le centre de la scène musicale mandarine.
-- [Culture du baseball à Taïwan](/culture/台灣棒球文化) — le socle de la culture des cheerleaders, point d’entrée de Cosmic Cheerleading Team.
+- [HUR+](/fr/people/hur-plus-band) — deuxième du DD52, le seul groupe encore actif six ans plus tard. « Pas comme les groupes coréens, c’est la clé pour ne pas être dépassé ».
+- [Lian Ying](/fr/people/lien-ying) — danseuse principale de HUR+, exemple d’une membre de groupe qui passe en solo.
+- [Yang Cheng‑lin](/fr/people/rainie-yang) — mentor principal du DD52, elle-même issue du système d’idoles depuis vingt‑cinq ans.
+- [Jolin Tsai](/fr/people/jolin-tsai) — « reine du talent » taïwanaise, [Lian Ying](/fr/people/lien-ying) la cite comme « ma déesse ».
+- [Musique pop de Taïwan](/fr/music/golden-melodies-legacy-taiwan-pop-music) — comment Taïwan occupe le centre de la scène musicale mandarine.
+- [Culture du baseball à Taïwan](/fr/culture/taiwan-baseball-culture) — le socle de la culture des cheerleaders, point d’entrée de Cosmic Cheerleading Team.
 
 ## Références
 

@@ -98,10 +98,10 @@ Sur cette île, cent montagnes se soulèvent, cent rêves germent. Et chacun d'e
 
 **Pour aller plus loin** :
 
-- [Wang Xin Ren (A Luan)](/art/王新仁) — Créateur de « Sommet » pour le Projet Cent Sommets, premier artiste génératif taïwanais à figurer sur Art Blocks
-- [Wang Lian Cheng (Papa Crevette)](/art/王連晟) — Créateur de l'algorithme récursif de paysages pour le Projet Cent Sommets, lauréat du grand prix de sculpture du Lumen Prize 2017
-- [Nouveaux médias à Taïwan](/art/台灣新媒體藝術) — Du vidéo art à l'art génératif, le contexte des nouveaux médias taïwanais dans lequel s'inscrit FAB DAO
-- [Art contemporain taïwanais](/art/當代藝術) — La place de l'art blockchain dans l'écosystème de l'art contemporain taïwanais
+- [Wang Xin Ren (A Luan)](/fr/art/wang-hsin-jen-artist) — Créateur de « Sommet » pour le Projet Cent Sommets, premier artiste génératif taïwanais à figurer sur Art Blocks
+- [Wang Lian Cheng (Papa Crevette)](/fr/art/wang-lien-cheng-artist) — Créateur de l'algorithme récursif de paysages pour le Projet Cent Sommets, lauréat du grand prix de sculpture du Lumen Prize 2017
+- [Nouveaux médias à Taïwan](/fr/art/taiwan-new-media-art) — Du vidéo art à l'art génératif, le contexte des nouveaux médias taïwanais dans lequel s'inscrit FAB DAO
+- [Art contemporain taïwanais](/fr/art/contemporary-art) — La place de l'art blockchain dans l'écosystème de l'art contemporain taïwanais
 
 ## Références
 

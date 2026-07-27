@@ -170,11 +170,11 @@ _Lim Giong. De roi du rock taïwanais en hoklo avec Marching Forward à composit
 
 **Lectures complémentaires** :
 
-- [Lim Giong](/people/林強) — du mouvement de la nouvelle chanson taïwanaise à la musique de film, le parcours musical complet de Lim Giong
-- [Hou Hsiao-hsien](/people/侯孝賢) — le réalisateur qui a amené Lim Giong à se tourner vers la musique de film, figure majeure du Nouveau cinéma taïwanais
-- [Cinéma taïwanais](/art/台灣電影) — du Nouveau cinéma au renouveau du film national, la scène où se déploie la musique pour l’écran
-- [Red Candle Games](/technology/赤燭遊戲) — l’équipe derrière Detention et Devotion, et la manière dont la musique de jeu vidéo tisse le son d’une époque
-- [Industrie taïwanaise du jeu vidéo et du divertissement numérique](/technology/台灣遊戲產業與數位娛樂) — Rayark, SIGONO et le contexte industriel de l’essor de la musique taïwanaise de jeu vidéo
+- [Lim Giong](/fr/people/lim-giong) — du mouvement de la nouvelle chanson taïwanaise à la musique de film, le parcours musical complet de Lim Giong
+- [Hou Hsiao-hsien](/fr/people/hou-hsiao-hsien) — le réalisateur qui a amené Lim Giong à se tourner vers la musique de film, figure majeure du Nouveau cinéma taïwanais
+- [Cinéma taïwanais](/fr/art/taiwanese-cinema) — du Nouveau cinéma au renouveau du film national, la scène où se déploie la musique pour l’écran
+- [Red Candle Games](/fr/technology/red-candle-games) — l’équipe derrière Detention et Devotion, et la manière dont la musique de jeu vidéo tisse le son d’une époque
+- [Industrie taïwanaise du jeu vidéo et du divertissement numérique](/fr/technology/taiwan-gaming-industry) — Rayark, SIGONO et le contexte industriel de l’essor de la musique taïwanaise de jeu vidéo
 
 ## Sources des images
 

@@ -5,7 +5,15 @@ date: 2026-03-18
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '社區與日常'
-tags: ['petit-déjeuner', 'culture de quartier', 'chaleur humaine', 'supérette', 'vie quotidienne', 'réseau de quartier']
+tags:
+  [
+    'petit-déjeuner',
+    'culture de quartier',
+    'chaleur humaine',
+    'supérette',
+    'vie quotidienne',
+    'réseau de quartier',
+  ]
 readingTime: 8
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -157,9 +165,9 @@ Ces trois éléments combinés produisent un rôle :
 
 **La « base de données non officielle » du quartier.**
 
-En langage académique, les sociologues appellent cela « la force des liens faibles » (*the strength of weak ties*). Le sociologue américain Mark Granovetter a proposé ce concept en 1973 : les gens obtiennent souvent des informations plus diversifiées et plus utiles de la part de « personnes qu'ils ne connaissent pas très bien mais qu'ils croisent régulièrement » que de leurs amis proches.[^1]
+En langage académique, les sociologues appellent cela « la force des liens faibles » (_the strength of weak ties_). Le sociologue américain Mark Granovetter a proposé ce concept en 1973 : les gens obtiennent souvent des informations plus diversifiées et plus utiles de la part de « personnes qu'ils ne connaissent pas très bien mais qu'ils croisent régulièrement » que de leurs amis proches.[^1]
 
-La tante du petit-déjeuner est l'incarnation parfaite de cette théorie. Elle n'a de relation profonde avec personne, mais elle entretient un contact quotidien stable avec tous les habitants du quartier. Elle est le nœud ayant la centralité d'intermédiarité (*betweenness centrality*) la plus élevée dans la communauté.
+La tante du petit-déjeuner est l'incarnation parfaite de cette théorie. Elle n'a de relation profonde avec personne, mais elle entretient un contact quotidien stable avec tous les habitants du quartier. Elle est le nœud ayant la centralité d'intermédiarité (_betweenness centrality_) la plus élevée dans la communauté.
 
 (Bien sûr, quand Granovetter a écrit son article, il n'imaginait probablement pas que le meilleur exemple de sa théorie serait une tante taïwanaise qui, tout en retournant des omelettes, vous demande « comment ça va en ce moment ? ».)
 
@@ -194,17 +202,21 @@ mais personne ne rajoutera une tranche de fromage en plus pour vous dire :
 
 ### Thèmes connexes
 
-- [Culture des supérettes](/lifestyle/台灣便利商店文化)
-- [Quartiers et culture du *li* (里) à Taïwan](/society/台灣社區與里文化)
-- [Culture du petit-déjeuner taïwanais](/food/台灣早餐文化)
-- [Culture des marchés et marchés traditionnels à Taïwan](/lifestyle/台灣市場文化與傳統市場)
+- [Culture des supérettes](/fr/lifestyle/convenience-store-culture)
+- [Quartiers et culture du _li_ (里) à Taïwan](/fr/society/taiwan-neighborhood-and-li-culture)
+- [Culture du petit-déjeuner taïwanais](/fr/food/taiwan-breakfast-culture)
+- [Culture des marchés et marchés traditionnels à Taïwan](/fr/lifestyle/taiwan-traditional-markets-and-market-culture)
 
 ---
 
-[^1]: Mark Granovetter, « The Strength of Weak Ties », *American Journal of Sociology*, 1973, https://www.jstor.org/stable/2776392
+[^1]: Mark Granovetter, « The Strength of Weak Ties », _American Journal of Sociology_, 1973, https://www.jstor.org/stable/2776392
+
 [^2]: 經濟部統計處，〈批發、零售及餐飲業經營實況調查〉, https://www.moea.gov.tw/MNS/dos/home/Home.aspx
+
 [^3]: 財政部財政資訊中心，〈營利事業家數統計〉, https://www.fia.gov.tw/
+
 [^4]: 報導者，〈台灣早餐店的消失與轉型〉, https://www.twreporter.org/
+
 [^5]: 台灣光華雜誌，〈台灣早餐文化專題〉, https://www.taiwan-panorama.com/
 
 ## Références

@@ -96,11 +96,11 @@ Si Taïwan continue de présenter l'éducation r'urale comme « l'envoi de passi
 
 **Lectures complémentaires :**
 
-- [Teach For Taiwan (TFT)](/society/為台灣而教TFT) — Si vous souhaitez approfondir la genèse, les controverses et l'impact de cette organisation sur dix ans.
-- [Système éducatif et culture de l'admission](/society/教育制度與升學文化) — L'éducation rurale n'est pas un problème isolé ; elle est étroitement liée à la manière dont Taïwan définit globalement les notes, l'admission et le succès.
-- [Crise de la faible natalité à Taïwan](/society/台灣少子化危機) — De nombreuses petites écoles rurales subissent non seulement la pression des politiques éducatives, mais aussi les changements à long terme liés à la dépopulation locale.
-- [Mouvement de revitalisation des langues autochtones de Taïwan](/culture/台灣原住民語言復振運動) — Le cœur de l'éducation en zone autochtone ne réside pas seulement dans le niveau scolaire, mais dans la capacité de l'école à intégrer les langues, les cultures et les modes de vie locaux.
-- [Écoles alternatives (Zá xué xiào)](/society/雜學校) — Un contrepoint à l'éducation hors système : elles ne sont pas en zone rurale, mais organisent des expositions dans des parcs créatifs, tout en traitant, comme l'éducation rurale, des « possibilités d'apprentissage en dehors des récits dominants ».
+- [Teach For Taiwan (TFT)](/fr/society/teach-for-taiwan) — Si vous souhaitez approfondir la genèse, les controverses et l'impact de cette organisation sur dix ans.
+- [Système éducatif et culture de l'admission](/fr/society/education-system-and-admissions-culture) — L'éducation rurale n'est pas un problème isolé ; elle est étroitement liée à la manière dont Taïwan définit globalement les notes, l'admission et le succès.
+- [Crise de la faible natalité à Taïwan](/fr/society/taiwan-low-birth-rate-crisis) — De nombreuses petites écoles rurales subissent non seulement la pression des politiques éducatives, mais aussi les changements à long terme liés à la dépopulation locale.
+- [Mouvement de revitalisation des langues autochtones de Taïwan](/fr/culture/indigenous-language-revitalization-movement) — Le cœur de l'éducation en zone autochtone ne réside pas seulement dans le niveau scolaire, mais dans la capacité de l'école à intégrer les langues, les cultures et les modes de vie locaux.
+- [Écoles alternatives (Zá xué xiào)](/fr/society/za-share) — Un contrepoint à l'éducation hors système : elles ne sont pas en zone rurale, mais organisent des expositions dans des parcs créatifs, tout en traitant, comme l'éducation rurale, des « possibilités d'apprentissage en dehors des récits dominants ».
 
 ## Références
 

@@ -210,18 +210,18 @@ Depuis le changement de nom décrété par Qianlong en 1787 — soit 239 ans —
 
 Contexte interne au comté de Chiayi :
 
-- [Alishan : la forêt de l'Empire et la montagne de Gao Yisheng](/history/阿里山：帝國的林場與高一生的山) — La voie ferrée forestière inaugurée en 1912 et Gao Yisheng sur le site d'exécution d'Ankeng en 1954 : les deux histoires de cette montagne
-- [Musée national du Palais](/culture/國立故宮博物院) — Le Musée du Palais Sud replacé dans le contexte plus large d'une tentative d'équilibrage nord-sud
-- [Chen Chengbo](/people/陳澄波) — Le peintre mort devant la gare de Chiayi en 1947, l'autre visage de l'incident du 28 Février à Chiayi
-- [Hatta Yoichi](/people/八田與一) — Les travaux du canal de Chiayi-Tainan (1920-1930) ont transformé ce comté en grenier à riz de Taïwan
+- [Alishan : la forêt de l'Empire et la montagne de Gao Yisheng](/fr/history/alishan-empire-forest-and-uongu-yatauyungana) — La voie ferrée forestière inaugurée en 1912 et Gao Yisheng sur le site d'exécution d'Ankeng en 1954 : les deux histoires de cette montagne
+- [Musée national du Palais](/fr/culture/national-palace-museum) — Le Musée du Palais Sud replacé dans le contexte plus large d'une tentative d'équilibrage nord-sud
+- [Chen Chengbo](/fr/people/chen-cheng-po) — Le peintre mort devant la gare de Chiayi en 1947, l'autre visage de l'incident du 28 Février à Chiayi
+- [Hatta Yoichi](/fr/people/hatta-yoichi) — Les travaux du canal de Chiayi-Tainan (1920-1930) ont transformé ce comté en grenier à riz de Taïwan
 
 Coordonnées historiques à plus grande échelle :
 
-- [Incident du 28 Février](/history/二二八事件) — La tragédie politique à l'échelle nationale en 1947 ; les Tsou qui descendirent aider les milices civiles de la plaine en sont le chapitre le moins évoqué
-- [Terreur blanche à Taïwan](/history/台灣白色恐怖) — Gao Yisheng et Yapasuyongʉ au site d'exécution d'Ankeng, Xindian, en 1954
-- [Histoire des chemins de fer de Taïwan](/history/台灣鐵道史) — La place particulière de la ligne forestière d'Alishan dans le développement ferroviaire taïwanais
-- [Ville de Chiayi](/geography/嘉義市) — La ville provinciale entièrement encerclée par le comté de Chiayi, un miroir de 76 ans de scission administrative
-- [Ville de Keelung](/geography/基隆市) — Premier article de la série des 22 comtés et villes, une autre ville « écrasée par le cadre de la capitale » — comparer deux types de failles différentes
+- [Incident du 28 Février](/fr/history/228-incident) — La tragédie politique à l'échelle nationale en 1947 ; les Tsou qui descendirent aider les milices civiles de la plaine en sont le chapitre le moins évoqué
+- [Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — Gao Yisheng et Yapasuyongʉ au site d'exécution d'Ankeng, Xindian, en 1954
+- [Histoire des chemins de fer de Taïwan](/fr/history/taiwan-railway-history) — La place particulière de la ligne forestière d'Alishan dans le développement ferroviaire taïwanais
+- [Ville de Chiayi](/fr/geography/chiayi-city) — La ville provinciale entièrement encerclée par le comté de Chiayi, un miroir de 76 ans de scission administrative
+- [Ville de Keelung](/fr/geography/keelung-city) — Premier article de la série des 22 comtés et villes, une autre ville « écrasée par le cadre de la capitale » — comparer deux types de failles différentes
 
 ## Sources des images
 

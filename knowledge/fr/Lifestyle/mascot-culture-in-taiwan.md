@@ -122,9 +122,9 @@ Les futures mascottes taïwanaises n'auront peut-être pas besoin de davantage d
 ## Pour aller plus loin
 
 - **[Émissions de variétés taïwanaises](/culture/台灣綜藝節目)** — Conception des personnages et mécanismes d'interaction avec le public dans l'industrie du divertissement
-- **[Mèmes taïwanais](/culture/台灣迷因)** — Comment les jeux de mots, le mignon laid et le charme contrasté se propagent sur Internet à Taïwan
-- **[Pxmart](/economy/全聯福利中心)** — Stratégie de marque et gestion de propriété intellectuelle derrière Fulibear
-- **[Ours noir taïwanais](/nature/台灣黑熊)** — Le prototype biologique et les enjeux de conservation en tant que totem culturel
+- **[Mèmes taïwanais](/fr/culture/taiwan-meme-culture)** — Comment les jeux de mots, le mignon laid et le charme contrasté se propagent sur Internet à Taïwan
+- **[Pxmart](/fr/economy/pxmart-supermarket)** — Stratégie de marque et gestion de propriété intellectuelle derrière Fulibear
+- **[Ours noir taïwanais](/fr/nature/taiwanese-black-bear)** — Le prototype biologique et les enjeux de conservation en tant que totem culturel
 
 ## Références
 

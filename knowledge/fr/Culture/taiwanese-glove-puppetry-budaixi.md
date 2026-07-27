@@ -75,9 +75,9 @@ Gen Urobuchi déclare lui-même être un fan de Pili ; le point de départ de la
 
 **Pour aller plus loin**
 
-- [Théâtre d'ombres taïwanais](/culture/皮影戲) — Théâtre traditionnel de marionnettes lumineuses également originaire du Min-Yue, enraciné à Mituo (Kaohsiung), qui a survécu à la kominka en adaptant des scénarios japonais ; autre filiation des marionnettes traditionnelles taïwanaises
-- [Culture des fêtes de temple et des cortèges zhentou taïwanais](/culture/台灣廟會與陣頭文化) — Le parvis du temple fut la première scène du budaixi ; cortèges et budaixi partagent le même ciel dans le champ de la croyance populaire taïwanaise
-- [Les Deux Salles nationales](/culture/兩廳院) — Une autre facette du passage des arts du spectacle traditionnels taïwanais des parvis aux scènes contemporaines, témoignant depuis 1987 de la démocratisation culturelle taïwanaise
+- [Théâtre d'ombres taïwanais](/fr/culture/taiwanese-shadow-puppetry) — Théâtre traditionnel de marionnettes lumineuses également originaire du Min-Yue, enraciné à Mituo (Kaohsiung), qui a survécu à la kominka en adaptant des scénarios japonais ; autre filiation des marionnettes traditionnelles taïwanaises
+- [Culture des fêtes de temple et des cortèges zhentou taïwanais](/fr/culture/taiwan-temple-festivals-and-performance-troupes) — Le parvis du temple fut la première scène du budaixi ; cortèges et budaixi partagent le même ciel dans le champ de la croyance populaire taïwanaise
+- [Les Deux Salles nationales](/fr/culture/national-theater-and-concert-hall) — Une autre facette du passage des arts du spectacle traditionnels taïwanais des parvis aux scènes contemporaines, témoignant depuis 1987 de la démocratisation culturelle taïwanaise
 
 ## Références
 

@@ -174,10 +174,10 @@ Après le millénaire, la scène passe à une nouvelle génération de voix : Wu
 
 ## Pour aller plus loin
 
-- [La littérature taïwanaise d'après-guerre](/art/戰後台灣文學) — 1945-1987 : 42 ans entre mutisme, modernisme, débat nativiste et éveil féminin sous la loi martiale
-- [La littérature taïwanaise contemporaine](/art/當代台灣文學) — XXIe siècle : l'internationalisation de Wu Ming-yi, Lin Yi-han, la relève de la littérature numérique
-- [Histoire de la littérature taïwanaise](/art/台灣文學史) — Le fil conducteur global de la période hollandaise, des dynasties Ming et Qing, de la période coloniale japonaise, d'après-guerre jusqu'à l'époque contemporaine
-- [Lin Liang](/people/林良) — Fondateur de la Société de littérature pour enfants de la République de Chine en 1984, après la levée de la loi martiale, pionnier de la littérature jeunesse taïwanaise, dont la colonne _Regarder les images et parler_ (看圖說話) a accompagné des générations d'enfants taïwanais
+- [La littérature taïwanaise d'après-guerre](/fr/art/postwar-taiwanese-literature) — 1945-1987 : 42 ans entre mutisme, modernisme, débat nativiste et éveil féminin sous la loi martiale
+- [La littérature taïwanaise contemporaine](/fr/art/contemporary-taiwanese-literature) — XXIe siècle : l'internationalisation de Wu Ming-yi, Lin Yi-han, la relève de la littérature numérique
+- [Histoire de la littérature taïwanaise](/fr/art/history-of-taiwanese-literature) — Le fil conducteur global de la période hollandaise, des dynasties Ming et Qing, de la période coloniale japonaise, d'après-guerre jusqu'à l'époque contemporaine
+- [Lin Liang](/fr/people/lin-liang-childrens-literature) — Fondateur de la Société de littérature pour enfants de la République de Chine en 1984, après la levée de la loi martiale, pionnier de la littérature jeunesse taïwanaise, dont la colonne _Regarder les images et parler_ (看圖說話) a accompagné des générations d'enfants taïwanais
 
 ---
 

@@ -156,10 +156,10 @@ Conformément à la [§Matrice de licences images Stage 4.5](../../reports/resea
 
 ## Pour aller plus loin
 
-- [Paysage sonore de Taïwan](/music/台灣聲音地景) — la place de Fujui Wang, Yao Chung-Han, Chang Yung-Ta et d'autres artistes sonores dans le paysage sonore taïwanais ; cet article passe d'une mention au niveau de la liste à une entrée approfondie
-- [Wang Lian-Cheng](/art/王連晟) — artiste sonore et nouveaux médias, élève de Fujui Wang au Département des nouveaux médias de la TNUA, prolongement de la vague d'institutionnalisation des élèves de la génération Lacking Sound Festival 2007
-- [Art des nouveaux médias à Taïwan](/art/台灣新媒體藝術) — histoire du développement de l'art numérique et médiatique des années 1995 (Etat) aux années 2000 (Taipei Digital Art Festival), Fujui Wang étant un nœud clé de l'axe sonore
-- [Musique indépendante taïwanaise](/music/台灣獨立音樂) — un autre axe de la scène musicale underground taïwanaise des années 1990, parallèle à la scène bruitiste et expérimentale
+- [Paysage sonore de Taïwan](/fr/music/taiwan-soundscape) — la place de Fujui Wang, Yao Chung-Han, Chang Yung-Ta et d'autres artistes sonores dans le paysage sonore taïwanais ; cet article passe d'une mention au niveau de la liste à une entrée approfondie
+- [Wang Lian-Cheng](/fr/art/wang-lien-cheng-artist) — artiste sonore et nouveaux médias, élève de Fujui Wang au Département des nouveaux médias de la TNUA, prolongement de la vague d'institutionnalisation des élèves de la génération Lacking Sound Festival 2007
+- [Art des nouveaux médias à Taïwan](/fr/art/taiwan-new-media-art) — histoire du développement de l'art numérique et médiatique des années 1995 (Etat) aux années 2000 (Taipei Digital Art Festival), Fujui Wang étant un nœud clé de l'axe sonore
+- [Musique indépendante taïwanaise](/fr/music/indie-music-scene) — un autre axe de la scène musicale underground taïwanaise des années 1990, parallèle à la scène bruitiste et expérimentale
 
 ## Références
 

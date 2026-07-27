@@ -584,7 +584,7 @@ Le cœur de la conservation marine est l'équité intergénérationnelle : les d
 
 **Pour aller plus loin** :
 
-- [Crise climatique et transition vers la neutralité carbone à Taïwan](/nature/台灣氣候危機與淨零轉型) — Blanchissement des coraux à la prise d'eau de la centrale nucléaire de He-Mu, conflits entre l'énergie éolienne en mer et la pêche, controverses d'évaluation environnementale du terminal GNL d'algues : comment la transition climatique reconfigure le champ de bataille de la gouvernance marine
+- [Crise climatique et transition vers la neutralité carbone à Taïwan](/fr/nature/taiwan-climate-change-net-zero-transition) — Blanchissement des coraux à la prise d'eau de la centrale nucléaire de He-Mu, conflits entre l'énergie éolienne en mer et la pêche, controverses d'évaluation environnementale du terminal GNL d'algues : comment la transition climatique reconfigure le champ de bataille de la gouvernance marine
 
 ## Références
 

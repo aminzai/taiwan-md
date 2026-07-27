@@ -82,9 +82,9 @@ Bien que Linkou New Town ait réussi à se débarrasser du surnom de « ville fa
 
 ## Pour aller plus loin
 
-- [Développement urbain et disparités rurales-urbaines à Taïwan](/geography/台灣都市發展與城鄉差距) — Comprendre la courbe de développement de Linkou New Town du point de vue de la planification régionale.
-- [Zone de réaménagement de Beida](/geography/北大特區) — Comparer avec une autre zone de réaménagement émergente portée par les transports, les districts scolaires et le marché immobilier.
-- [Système de transport taïwanais](/lifestyle/台灣交通系統) — En savoir plus sur la façon dont l'aérotrain, les autoroutes et les trajets domicile-travail façonnent les nouvelles villes.
+- [Développement urbain et disparités rurales-urbaines à Taïwan](/fr/geography/taiwan-urban-development-and-rural-urban-divide) — Comprendre la courbe de développement de Linkou New Town du point de vue de la planification régionale.
+- [Zone de réaménagement de Beida](/fr/geography/beida-special-district-sanxia) — Comparer avec une autre zone de réaménagement émergente portée par les transports, les districts scolaires et le marché immobilier.
+- [Système de transport taïwanais](/fr/lifestyle/transportation-system) — En savoir plus sur la façon dont l'aérotrain, les autoroutes et les trajets domicile-travail façonnent les nouvelles villes.
 
 ## Références
 

@@ -155,12 +155,12 @@ La littérature taïwanaise de cette période a fourni des accumulations substan
 
 ## Pour aller plus loin
 
-- [Promenade à Taïwan](/art/臺灣漫遊錄) — Roman de « pseudo-traduction » de Yang Shuangzi paru en 2020, qui retrace un voyage en 1938-39 sur le chemin de fer transinsulaire taïwanais durant la période coloniale japonais, transformant le périple en un récit de nourriture et de pouvoir entre deux femmes ; double reconnaissance internationale en 2024 (National Book Award) et 2026 (International Booker Prize)
-- [La littérature taïwanaise d'après-guerre](/art/戰後台灣文學) — Comment la filiation de la période coloniale (Lai He, Lü Heruo, Zhang Wenhuan) s'est poursuivie après la rupture linguistique de 1945 : la page blanche de Ye Shitao, le modernisme, la querrière sur la littérature natale, l'éveil féminin
-- [La littérature taïwanaise après la levée de la loi martiale](/art/解嚴後台灣文學) — L'explosion de diversité après la fin de la loi martiale en 1987
-- [La littérature taïwanaise contemporaine](/art/當代台灣文學) — Internationalisation au XXIe siècle, Wu Ming-yi, littérature numérique
-- [Histoire de la littérature taïwanaise](/art/台灣文學史) — La trajectoire globale de la période hollandaise aux dynasties Ming et Qing, puis à la période coloniale japonaise jusqu'à l'époque contemporaine
-- [Lin Liang](/people/林良) — Pionnier de la littérature jeunesse, arrivé de Xiamen après la guerre, offrant un contraste avec la position linguistique de la littérature de la période coloniale japonaise
+- [Promenade à Taïwan](/fr/art/taiwan-travelogue) — Roman de « pseudo-traduction » de Yang Shuangzi paru en 2020, qui retrace un voyage en 1938-39 sur le chemin de fer transinsulaire taïwanais durant la période coloniale japonais, transformant le périple en un récit de nourriture et de pouvoir entre deux femmes ; double reconnaissance internationale en 2024 (National Book Award) et 2026 (International Booker Prize)
+- [La littérature taïwanaise d'après-guerre](/fr/art/postwar-taiwanese-literature) — Comment la filiation de la période coloniale (Lai He, Lü Heruo, Zhang Wenhuan) s'est poursuivie après la rupture linguistique de 1945 : la page blanche de Ye Shitao, le modernisme, la querrière sur la littérature natale, l'éveil féminin
+- [La littérature taïwanaise après la levée de la loi martiale](/fr/art/post-martial-law-taiwanese-literature) — L'explosion de diversité après la fin de la loi martiale en 1987
+- [La littérature taïwanaise contemporaine](/fr/art/contemporary-taiwanese-literature) — Internationalisation au XXIe siècle, Wu Ming-yi, littérature numérique
+- [Histoire de la littérature taïwanaise](/fr/art/history-of-taiwanese-literature) — La trajectoire globale de la période hollandaise aux dynasties Ming et Qing, puis à la période coloniale japonaise jusqu'à l'époque contemporaine
+- [Lin Liang](/fr/people/lin-liang-childrens-literature) — Pionnier de la littérature jeunesse, arrivé de Xiamen après la guerre, offrant un contraste avec la position linguistique de la littérature de la période coloniale japonaise
 
 ---
 

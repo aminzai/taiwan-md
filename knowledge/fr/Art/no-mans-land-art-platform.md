@@ -168,11 +168,11 @@ _Septembre 2017, No Man’s Land Issue 34 « Hermeneutics of Nusantara » : bila
 
 ## Lectures complémentaires
 
-- [Cheng Wen-chi](/people/鄭文琦) — douze années de pratique archipélique du rédacteur en chef de No Man’s Land : d’auteur invité pour _Art & Collection_ à initiateur de _Nusantara Archive_
-- [Art contemporain](/art/當代藝術) — carte des discours sur l’art contemporain à Taïwan, et position de No Man’s Land comme plateforme curatoriale de perspective du Sud
-- [Art des nouveaux médias à Taïwan](/art/台灣新媒體藝術) — généalogie taïwanaise des nouveaux médias, d’ET@T (1995) à la Digital Art Foundation (2008)
-- [Wang Fujui](/people/王福瑞) — fondateur de la revue _NOISE_ en 1993, éditeur prototype de la presse expérimentale taïwanaise, relié par lignée à l’institution d’hébergement de No Man’s Land
-- [Curateurs taïwanais et construction de la culture artistique](/art/台灣策展人與藝術文化建構) — généalogie des curateurs taïwanais, avec Cheng Wen-chi comme cas de « réseau curatorial transnational de résidences »
+- [Cheng Wen-chi](/fr/people/cheng-wen-chi) — douze années de pratique archipélique du rédacteur en chef de No Man’s Land : d’auteur invité pour _Art & Collection_ à initiateur de _Nusantara Archive_
+- [Art contemporain](/fr/art/contemporary-art) — carte des discours sur l’art contemporain à Taïwan, et position de No Man’s Land comme plateforme curatoriale de perspective du Sud
+- [Art des nouveaux médias à Taïwan](/fr/art/taiwan-new-media-art) — généalogie taïwanaise des nouveaux médias, d’ET@T (1995) à la Digital Art Foundation (2008)
+- [Wang Fujui](/fr/people/fujui-wang) — fondateur de la revue _NOISE_ en 1993, éditeur prototype de la presse expérimentale taïwanaise, relié par lignée à l’institution d’hébergement de No Man’s Land
+- [Curateurs taïwanais et construction de la culture artistique](/fr/art/taiwanese-curators-and-artistic-cultural-construction) — généalogie des curateurs taïwanais, avec Cheng Wen-chi comme cas de « réseau curatorial transnational de résidences »
 
 ## Sources des images
 

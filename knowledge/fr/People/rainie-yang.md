@@ -241,11 +241,11 @@ Chaque espace a été un lieu de négociation avec la question « par qui suis-j
 
 ## Pour aller plus loin
 
-- [Zhang Xuan et An Pu](/music/張懸與安溥) — Une autre chanteuse taïwanaise passée du statut de jeune artiste à celui d'auteure complète, offrant un parcours parallèle de « la définition par autrui à l'autodéfinition »
-- [Wei Ru-xuan](/people/魏如萱) — Deux fois lauréate du prix de la meilleure chanteuse mandarine aux Golden Melody Awards, de la même génération que Rainie Yang, formant un contraste structurel « marché vs institution »
-- [La pop taïwanaise](/music/台灣流行音樂) — Le contexte historique de la structure de l'industrie musicale sinophone et du double positionnement drama d'idols / chanteuse
-- [La culture du karaoké à Taïwan](/music/台灣KTV文化) — Le contexte social qui a fait d'« Ambiguous » le titre le plus demandé en karaoké en 2005, et le rôle du karaoké comme nœud de diffusion de la pop mandarine
-- [Tanya Chua](/people/蔡健雅) — Auteure de « Loneliness Is a Form of Security » (2013) pour Rainie Yang, quatre fois lauréate du titre de meilleure chanteuse aux Golden Melody Awards, à la fois interprète et productrice
+- [Zhang Xuan et An Pu](/fr/music/deserts-chang-and-anpu) — Une autre chanteuse taïwanaise passée du statut de jeune artiste à celui d'auteure complète, offrant un parcours parallèle de « la définition par autrui à l'autodéfinition »
+- [Wei Ru-xuan](/fr/people/waa-wei-singer) — Deux fois lauréate du prix de la meilleure chanteuse mandarine aux Golden Melody Awards, de la même génération que Rainie Yang, formant un contraste structurel « marché vs institution »
+- [La pop taïwanaise](/fr/music/golden-melodies-legacy-taiwan-pop-music) — Le contexte historique de la structure de l'industrie musicale sinophone et du double positionnement drama d'idols / chanteuse
+- [La culture du karaoké à Taïwan](/fr/music/ktv-culture) — Le contexte social qui a fait d'« Ambiguous » le titre le plus demandé en karaoké en 2005, et le rôle du karaoké comme nœud de diffusion de la pop mandarine
+- [Tanya Chua](/fr/people/tanya-chua-singer) — Auteure de « Loneliness Is a Form of Security » (2013) pour Rainie Yang, quatre fois lauréate du titre de meilleure chanteuse aux Golden Melody Awards, à la fois interprète et productrice
 
 ## Références
 

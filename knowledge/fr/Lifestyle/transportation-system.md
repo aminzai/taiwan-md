@@ -165,11 +165,11 @@ L'histoire maritime est encore plus spectaculaire. Des années 1980 aux années 
 
 **Pour aller plus loin** :
 
-- [Le système de bus de Taïwan](/lifestyle/台灣的公車系統) — comment se déplacent les « personnes sans volant » sur une île à scooters, et pourquoi ce système s'effondre d'abord dans les zones rurales
-- [La culture des supérettes taïwanaises](/lifestyle/台灣便利商店文化) — une autre infrastructure qui tourne 24 heures sur 24, comme le système de transport
-- [La culture du scooter à Taïwan](/lifestyle/台灣機車文化) — derrière 14 millions de scooters : conception urbaine, politique de classe et guerre des droits routiers
-- [Le développement de la chaîne industrielle des véhicules électriques à Taïwan](/technology/台灣電動車產業鏈發展) — au-delà de Gogoro, le rôle de Taïwan dans la chaîne d'approvisionnement mondiale des véhicules électriques
-- [Les caractéristiques géographiques et la formation de l'île de Taïwan](/geography/台灣島嶼地理特色與形成) — la chaîne de montagnes centrale, la divergence est-ouest, et les origines géologiques des plaques tectoniques
+- [Le système de bus de Taïwan](/fr/lifestyle/taiwan-bus-system) — comment se déplacent les « personnes sans volant » sur une île à scooters, et pourquoi ce système s'effondre d'abord dans les zones rurales
+- [La culture des supérettes taïwanaises](/fr/lifestyle/convenience-store-culture) — une autre infrastructure qui tourne 24 heures sur 24, comme le système de transport
+- [La culture du scooter à Taïwan](/fr/lifestyle/taiwan-scooter-culture) — derrière 14 millions de scooters : conception urbaine, politique de classe et guerre des droits routiers
+- [Le développement de la chaîne industrielle des véhicules électriques à Taïwan](/fr/technology/taiwan-electric-vehicle-industry-chain) — au-delà de Gogoro, le rôle de Taïwan dans la chaîne d'approvisionnement mondiale des véhicules électriques
+- [Les caractéristiques géographiques et la formation de l'île de Taïwan](/fr/geography/geography-and-geology) — la chaîne de montagnes centrale, la divergence est-ouest, et les origines géologiques des plaques tectoniques
 
 ## Données publiques
 

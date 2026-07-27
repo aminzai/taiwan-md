@@ -173,15 +173,15 @@ La prochaine fois que vous pensez à Taoyuan, ne pensez pas seulement à l\'aér
 
 ## Pour aller plus loin
 
-- [Comté de Keelung](/geography/基隆市) — Série des 22 comtés et villes, pilote : l\'année de l\'ouverture de l\'aéroport de Taoyuan en 1979, la porte d\'entrée et de sortie de Taïwan est passée du port de Keelung à Taoyuan, et le port de Keelung est tombé de la 7e à la 113e place mondiale
-- [Comté de Hsinchu](/geography/新竹縣) — Voisin méridional de la zone hakka de Taoyuan : en 1895, Jiang Shaozu est parti de Beipu, Hsinchu, pour participer à la bataille de Dakekeng
-- [Ville de Hsinchu](/geography/新竹市) — Avec Taoyuan, constitue le centre de la zone de répartition hakka du nord : en 1875, la région de Taoyuan a été rattachée au comté de Hsinchu
-- [Comté de Miaoli](/geography/苗栗市) — Série des 22 comtés et villes, lot 1 : point de départ de la bande d\'immigration hakka montant de Miaoli à Taoyuan ; Wu Tangxing est monté vers le nord en 1895 pour résister aux Japonais
-- [Comté de Nantou](/geography/南投縣) — Série des 22 comtés et villes, lot 3 : le seul comté sans littoral face au plateau d\'import-export de Taoyuan, une confrontation de deux types de « frontières »
-- [Culture et langue hakka](/culture/客家文化與語言) — Plus de 800 000 Hakkas à Taoyuan, le plus grand nombre du pays
-- [Travailleurs migrants](/society/移工) — 132 158 travailleurs migrants à Taoyuan, le plus grand nombre du pays
-- [Guerre de 1895](/history/乙未之役) — En 1895, Jiang Shaozu, Wu Tangxing et Jiang Guohui ont résisté aux Japonais à Dakekeng, Taoyuan
-- [Chiang Kai-shek](/people/蔣中正) — Décédé en 1975 et enterré à Cihu, Daxi, Taoyuan ; le parc commémoratif des sculptures de Cihu accueille les statues en bronze de Chiang Kai-shek retirées de tout le pays
+- [Comté de Keelung](/fr/geography/keelung-city) — Série des 22 comtés et villes, pilote : l\'année de l\'ouverture de l\'aéroport de Taoyuan en 1979, la porte d\'entrée et de sortie de Taïwan est passée du port de Keelung à Taoyuan, et le port de Keelung est tombé de la 7e à la 113e place mondiale
+- [Comté de Hsinchu](/fr/geography/hsinchu-county) — Voisin méridional de la zone hakka de Taoyuan : en 1895, Jiang Shaozu est parti de Beipu, Hsinchu, pour participer à la bataille de Dakekeng
+- [Ville de Hsinchu](/fr/geography/hsinchu-city) — Avec Taoyuan, constitue le centre de la zone de répartition hakka du nord : en 1875, la région de Taoyuan a été rattachée au comté de Hsinchu
+- [Comté de Miaoli](/geography/苗栗縣) — Série des 22 comtés et villes, lot 1 : point de départ de la bande d\'immigration hakka montant de Miaoli à Taoyuan ; Wu Tangxing est monté vers le nord en 1895 pour résister aux Japonais
+- [Comté de Nantou](/fr/geography/nantou-county) — Série des 22 comtés et villes, lot 3 : le seul comté sans littoral face au plateau d\'import-export de Taoyuan, une confrontation de deux types de « frontières »
+- [Culture et langue hakka](/fr/culture/hakka-culture-and-language) — Plus de 800 000 Hakkas à Taoyuan, le plus grand nombre du pays
+- [Travailleurs migrants](/fr/society/migrant-workers-in-taiwan) — 132 158 travailleurs migrants à Taoyuan, le plus grand nombre du pays
+- [Guerre de 1895](/fr/history/1895-taiwan-resistance-war) — En 1895, Jiang Shaozu, Wu Tangxing et Jiang Guohui ont résisté aux Japonais à Dakekeng, Taoyuan
+- [Chiang Kai-shek](/fr/people/chiang-kai-shek) — Décédé en 1975 et enterré à Cihu, Daxi, Taoyuan ; le parc commémoratif des sculptures de Cihu accueille les statues en bronze de Chiang Kai-shek retirées de tout le pays
 
 ## Sources des images
 

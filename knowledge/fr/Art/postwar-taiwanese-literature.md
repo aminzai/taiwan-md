@@ -159,14 +159,14 @@ Les 42 années suivantes seront écrites par d'autres.
 
 ## Pour aller plus loin
 
-- [Littérature taïwanaise après la levée de la loi martiale](/art/解嚴後台灣文學) — de la levée de la loi martiale en 1987 à l'an 2000 : explosion de la localisation, du genre et de la diversité linguistique maternelle
-- [Littérature taïwanaise contemporaine](/art/當代台灣文學) — le XXIe siècle : internationalisation de Wu Ming-yi, Lin Yi-han, vague numérique
-- [Histoire de la littérature taïwanaise](/art/台灣文學史) — le fil conducteur global de l'époque hollandaise, des dynasties Ming et Qing, de l'époque coloniale japonaise, de l'après-guerre à l'époque contemporaine
-- [Littérature de l'époque coloniale japonaise](/art/日治時期文學) — le point de départ colonial de Lai He, Lü Hèruo, Zhang Wenhuan et Yang Kui, l'autre extrémité du mutisme d'après-guerre
-- [Lin Liang](/people/林良) — pionnier de la littérature jeunesse venu de Chine continentale après-guerre, 57 ans de carrière au _Mandarin Daily News_, « l'art du langage simple » a défini le point de départ littéraire de plusieurs générations d'enfants taïwanais
+- [Littérature taïwanaise après la levée de la loi martiale](/fr/art/post-martial-law-taiwanese-literature) — de la levée de la loi martiale en 1987 à l'an 2000 : explosion de la localisation, du genre et de la diversité linguistique maternelle
+- [Littérature taïwanaise contemporaine](/fr/art/contemporary-taiwanese-literature) — le XXIe siècle : internationalisation de Wu Ming-yi, Lin Yi-han, vague numérique
+- [Histoire de la littérature taïwanaise](/fr/art/history-of-taiwanese-literature) — le fil conducteur global de l'époque hollandaise, des dynasties Ming et Qing, de l'époque coloniale japonaise, de l'après-guerre à l'époque contemporaine
+- [Littérature de l'époque coloniale japonaise](/fr/art/taiwanese-literature-during-japanese-rule) — le point de départ colonial de Lai He, Lü Hèruo, Zhang Wenhuan et Yang Kui, l'autre extrémité du mutisme d'après-guerre
+- [Lin Liang](/fr/people/lin-liang-childrens-literature) — pionnier de la littérature jeunesse venu de Chine continentale après-guerre, 57 ans de carrière au _Mandarin Daily News_, « l'art du langage simple » a défini le point de départ littéraire de plusieurs générations d'enfants taïwanais
 - [Terreur blanche](/history/白色恐怖) — le contexte politique de l'emprisonnement de Ye Shih-tao, de Yang Kui à l'île Verte et de Lü Hèruo à Luku
-- [Incident du 228](/history/二二八事件) — l'impact sur le monde littéraire en 1947 (Wang Tian-deng, Yang Kui, Ye Tao)
-- [Période de la loi martiale](/history/戒嚴時期) — les conditions politiques de l'activité littéraire de 1949 à 1987
+- [Incident du 228](/fr/history/228-incident) — l'impact sur le monde littéraire en 1947 (Wang Tian-deng, Yang Kui, Ye Tao)
+- [Période de la loi martiale](/fr/history/martial-law-era) — les conditions politiques de l'activité littéraire de 1949 à 1987
 
 ---
 

@@ -141,10 +141,10 @@ La protection la plus efficace ne réside pas dans l’étiquette « guerre co
 
 ## Lectures complémentaires
 
-- [Opérations cognitives](/society/認知作戰) — Cadre, limites et principes d’interprétation.
-- [Opérations cognitives « Patate toxique »](/society/毒馬鈴薯認知作戰) — Exemple de narration qui privilégie la complexité à la justesse.
-- [Laboratoire taïwanais d’intelligence artificielle](/technology/台灣人工智慧實驗室) — Technologies locales de détection des opérations coordonnées.
-- [Médias taïwanais et liberté de la presse](/society/台灣媒體與新聞自由) — Contexte du groupe Want Want et de ses controverses.
+- [Opérations cognitives](/fr/society/cognitive-warfare-against-taiwan) — Cadre, limites et principes d’interprétation.
+- [Opérations cognitives « Patate toxique »](/fr/society/poisoned-potato-cognitive-warfare-taiwan) — Exemple de narration qui privilégie la complexité à la justesse.
+- [Laboratoire taïwanais d’intelligence artificielle](/fr/technology/taiwan-ai-labs) — Technologies locales de détection des opérations coordonnées.
+- [Médias taïwanais et liberté de la presse](/fr/society/media-and-press-freedom-in-taiwan) — Contexte du groupe Want Want et de ses controverses.
 
 ## Références
 

@@ -147,9 +147,9 @@ Xu Tai-ping dit que lors de la formation il y avait eu émotion et étincelle, m
 
 ## Lectures complémentaires
 
-- [Système éducatif taïwanais](/lifestyle/台灣教育制度) — De l'examen d'entrée au système éducatif de douze ans, examiner le cadre systémique où se situe l'innovation des enseignants
-- [Stratégie de développement de l'IA à Taïwan](/technology/台灣人工智慧發展與未來策略) — Comprendre la disposition globale de l'IA à Taïwan à travers les industries et les politiques
-- [École d'IA de Taïwan](/technology/台灣人工智慧學校) — Comment la formation par des citoyens peut former la première vague de talents IA industriels de Taïwan
+- [Système éducatif taïwanais](/fr/lifestyle/taiwan-education-system) — De l'examen d'entrée au système éducatif de douze ans, examiner le cadre systémique où se situe l'innovation des enseignants
+- [Stratégie de développement de l'IA à Taïwan](/fr/technology/artificial-intelligence-development-strategy) — Comprendre la disposition globale de l'IA à Taïwan à travers les industries et les politiques
+- [École d'IA de Taïwan](/fr/technology/taiwan-ai-academy) — Comment la formation par des citoyens peut former la première vague de talents IA industriels de Taïwan
 
 ---
 

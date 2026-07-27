@@ -121,8 +121,8 @@ Lorsque vous empruntez le tunnel de Hsuehshan, ralentissez et respectez le code 
 
 ## Lectures complémentaires
 
-- [Système de transport de Taïwan](/lifestyle/台灣交通系統) — Comprendre l'importance du tunnel de Hsuehshan à partir des réseaux routiers, ferroviaires et de transports publics.
-- [Développement urbain et écarts ville-campagne à Taïwan](/geography/台灣都市發展與城鄉差距) — Pour prolonger la lecture sur la façon dont les infrastructures de transport transforment le développement local et les mouvements de population.
+- [Système de transport de Taïwan](/fr/lifestyle/transportation-system) — Comprendre l'importance du tunnel de Hsuehshan à partir des réseaux routiers, ferroviaires et de transports publics.
+- [Développement urbain et écarts ville-campagne à Taïwan](/fr/geography/taiwan-urban-development-and-rural-urban-divide) — Pour prolonger la lecture sur la façon dont les infrastructures de transport transforment le développement local et les mouvements de population.
 
 ## Références
 

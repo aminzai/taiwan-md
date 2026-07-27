@@ -278,10 +278,10 @@ Il faudra encore une heure avant que le soleil monte derrière l'île Verte.
 
 **Pour aller plus loin** :
 
-- [Le développement de la sculpture contemporaine à Taïwan](/art/台灣當代雕塑發展) — De Huang Tu-shui à Yang Ying-feng puis aux installations contemporaines, un siècle de création tridimensionnelle taïwanaise
-- [L'éducation artistique et le développement des académies d'art à Taïwan](/art/台灣藝術教育與學院發展) — Les systèmes de formation du département des beaux-arts de la NTNU, du Collège national des arts et du département des beaux-arts de Tunghai, et le contexte académique de Jiang Hsien-yi
-- [Commissaires d'exposition et construction de la culture artistique à Taïwan](/art/台灣策展人與藝術文化建構) — De Wang Chia-chi aux pratiques curatoriales contemporaines, comment les rétrospectives reforment l'image publique des artistes
-- [Art contemporain](/art/當代藝術) — Le contexte général du mouvement de peinture abstraite taïwanais après les années 1960, du Groupe de Mai et du Groupe oriental
+- [Le développement de la sculpture contemporaine à Taïwan](/fr/art/development-of-contemporary-taiwanese-sculpture) — De Huang Tu-shui à Yang Ying-feng puis aux installations contemporaines, un siècle de création tridimensionnelle taïwanaise
+- [L'éducation artistique et le développement des académies d'art à Taïwan](/fr/art/taiwanese-art-education-and-academic-development) — Les systèmes de formation du département des beaux-arts de la NTNU, du Collège national des arts et du département des beaux-arts de Tunghai, et le contexte académique de Jiang Hsien-yi
+- [Commissaires d'exposition et construction de la culture artistique à Taïwan](/fr/art/taiwanese-curators-and-artistic-cultural-construction) — De Wang Chia-chi aux pratiques curatoriales contemporaines, comment les rétrospectives reforment l'image publique des artistes
+- [Art contemporain](/fr/art/contemporary-art) — Le contexte général du mouvement de peinture abstraite taïwanais après les années 1960, du Groupe de Mai et du Groupe oriental
 
 ## Sources des images
 

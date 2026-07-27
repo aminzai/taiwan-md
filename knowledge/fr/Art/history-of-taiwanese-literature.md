@@ -185,11 +185,11 @@ Comme le poète Yu Guangzhong l'a dit : « Ce qu'il y a de plus beau à Taïwan,
 
 ## Pour aller plus loin
 
-- [Littérature de la période coloniale japonaise](/art/日治時期文學) — 1895-1945 : l'ère du japonais pour Lai He, Yang Kui, Lü Heruo et Zhang Wenhuan
-- [Littérature taïwanaise d'après-guerre](/art/戰後台灣文學) — 1945-1987 : 42 ans entre mutisme, modernisme, querelle nativiste et éveil féminin sous la loi martiale
-- [Littérature taïwanaise après la levée de la loi martiale](/art/解嚴後台灣文學) — 1987-2000 : l'ère intermédiaire de l'explosion pluraliste du politique, du genre et des langues maternelles
-- [Littérature taïwanaise contemporaine](/art/當代台灣文學) — 21e siècle : internationalisation, Lin Yihan, littérature numérique
-- [Lin Liang](/people/林良) — Fondateur de la littérature jeunesse taïwanaise d'après-guerre, 1948-2019, qui a défini par « l'art du langage simple » le fait « d'écrire pour les enfants » comme un travail sérieux
+- [Littérature de la période coloniale japonaise](/fr/art/taiwanese-literature-during-japanese-rule) — 1895-1945 : l'ère du japonais pour Lai He, Yang Kui, Lü Heruo et Zhang Wenhuan
+- [Littérature taïwanaise d'après-guerre](/fr/art/postwar-taiwanese-literature) — 1945-1987 : 42 ans entre mutisme, modernisme, querelle nativiste et éveil féminin sous la loi martiale
+- [Littérature taïwanaise après la levée de la loi martiale](/fr/art/post-martial-law-taiwanese-literature) — 1987-2000 : l'ère intermédiaire de l'explosion pluraliste du politique, du genre et des langues maternelles
+- [Littérature taïwanaise contemporaine](/fr/art/contemporary-taiwanese-literature) — 21e siècle : internationalisation, Lin Yihan, littérature numérique
+- [Lin Liang](/fr/people/lin-liang-childrens-literature) — Fondateur de la littérature jeunesse taïwanaise d'après-guerre, 1948-2019, qui a défini par « l'art du langage simple » le fait « d'écrire pour les enfants » comme un travail sérieux
 
 ---
 

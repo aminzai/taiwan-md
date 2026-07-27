@@ -116,9 +116,9 @@ Chen Si-hong écrit en mandarin depuis Berlin sur Yongjing, dans le Changhua ; W
 
 ## Pour aller plus loin
 
-- [La littérature taïwanaise après la levée de la loi martiale](/art/解嚴後台灣文學) — La génération intermédiaire (1987-2000) : explosion pluraliste (romans politiques, féminins, autochtones, en langues maternelles), où Lo Yi-chun, Chu Tien-wen et Chu Tien-hsing atteignent leur maturité
-- [La littérature taïwanaise d'après-guerre](/art/戰後台灣文學) — Les 42 ans de la période de loi martiale (1945-1987) : de l'aphasie au modernisme, des débats sur la littérature rurale à l'éveil féminin
-- [Histoire de la littérature taïwanaise](/art/台灣文學史) — La trajectoire globale de la période hollandaise aux Qing, à l'ère japonaise, à l'après-guerre et à l'époque contemporaine
+- [La littérature taïwanaise après la levée de la loi martiale](/fr/art/post-martial-law-taiwanese-literature) — La génération intermédiaire (1987-2000) : explosion pluraliste (romans politiques, féminins, autochtones, en langues maternelles), où Lo Yi-chun, Chu Tien-wen et Chu Tien-hsing atteignent leur maturité
+- [La littérature taïwanaise d'après-guerre](/fr/art/postwar-taiwanese-literature) — Les 42 ans de la période de loi martiale (1945-1987) : de l'aphasie au modernisme, des débats sur la littérature rurale à l'éveil féminin
+- [Histoire de la littérature taïwanaise](/fr/art/history-of-taiwanese-literature) — La trajectoire globale de la période hollandaise aux Qing, à l'ère japonaise, à l'après-guerre et à l'époque contemporaine
 
 ## Références
 

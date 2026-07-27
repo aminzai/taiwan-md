@@ -132,11 +132,11 @@ La dette n'est pas soldée.
 
 ## Pour aller plus loin
 
-- [Robert Swinhoe : quand le diplomate devient naturaliste](/people/史溫侯) — L'auteur de la source primaire de cet article ; son _Formosa Camphor_ de 1864 est la préhistoire de la guerre du camphre
-- [Période Qing](/history/清治時期) — Comment l'ouverture portuaire de 1860 a restructuré l'économie politique de Taïwan
-- [Période japonaise](/history/日治時期) — Le Bureau du monopole du camphre et la politique d'« ouverture des montagnes et pacification des tribus » comme prolongement des politiques forestières de la fin de la période Qing
-- [Histoire de l'exploitation forestière à Taïwan](/history/台灣森林開發史) — Du camphrier au cyprès de Taïwan, la chronologie complète de l'exploitation des forêts taïwanaises
-- [Alishan : la forêt de l'empire et la montagne de Kao Yi-sheng](/history/阿里山：帝國的林場與高一生的山) — Comment le pillage forestier s'est étendu à Alishan sous l'ère japonaise puis à la Terreur blanche d'après-guerre
+- [Robert Swinhoe : quand le diplomate devient naturaliste](/fr/people/robert-swinhoe-naturalist) — L'auteur de la source primaire de cet article ; son _Formosa Camphor_ de 1864 est la préhistoire de la guerre du camphre
+- [Période Qing](/fr/history/qing-dynasty-rule) — Comment l'ouverture portuaire de 1860 a restructuré l'économie politique de Taïwan
+- [Période japonaise](/fr/history/japanese-colonial-era) — Le Bureau du monopole du camphre et la politique d'« ouverture des montagnes et pacification des tribus » comme prolongement des politiques forestières de la fin de la période Qing
+- [Histoire de l'exploitation forestière à Taïwan](/fr/history/taiwan-forestry-history) — Du camphrier au cyprès de Taïwan, la chronologie complète de l'exploitation des forêts taïwanaises
+- [Alishan : la forêt de l'empire et la montagne de Kao Yi-sheng](/fr/history/alishan-empire-forest-and-uongu-yatauyungana) — Comment le pillage forestier s'est étendu à Alishan sous l'ère japonaise puis à la Terreur blanche d'après-guerre
 
 ---
 

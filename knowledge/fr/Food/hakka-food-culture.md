@@ -132,9 +132,9 @@ En savourant la cuisine hakka, on ne fait pas seulement l'expérience d'une sati
 
 ## Pour aller plus loin
 
-- [Les aliments fermentés et la culture du marinage à Taïwan](/food/台灣發酵食品與醃製文化) : La science et la culture des aliments marinés à Taïwan
-- [La culture du thé](/food/茶文化) : L'évolution de la culture du thé à Taïwan
-- [Les petits plats de Taïwan](/food/台灣小吃) : La diversité de la culture des petits plats taïwanais
+- [Les aliments fermentés et la culture du marinage à Taïwan](/fr/food/taiwan-fermented-and-pickled-foods) : La science et la culture des aliments marinés à Taïwan
+- [La culture du thé](/fr/food/golden-age-echoes-taiwan-tea-culture) : L'évolution de la culture du thé à Taïwan
+- [Les petits plats de Taïwan](/fr/food/taiwanese-street-food) : La diversité de la culture des petits plats taïwanais
 
 ## Références
 

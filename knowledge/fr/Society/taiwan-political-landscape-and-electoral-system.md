@@ -90,7 +90,7 @@ La résilience de la démocratie taïwanaise provient à la fois de la conceptio
 
 **Pour aller plus loin**
 
-- [Défense nationale et modernisation militaire de Taïwan](/society/台灣國防與軍事現代化) — Comment la cohabitation affecte concrètement la politique de défense
-- [Alliances diplomatiques et relations internationales de Taïwan](/society/台灣邦交國與國際外交) — Comment les différences de position entre partis se prolongent dans l'oscillation des lignes diplomatiques
-- [Rencontre Zheng-Xi 2026 : dix minutes pour une rencontre décennale des dirigeants du Kuomintang et du PCC](/society/2026鄭習會與國共十年再會) — Le débat sur l'orientation lors de l'élection présidentielle du Kuomintang en 2025
-- [Ji Linlian](/people/季麟連) — Général à la retraite nommé vice-président du Kuomintang, l'incident de la scission lors de la réunion du comité central de 2026 révélant la structure du département du Huangfuxing
+- [Défense nationale et modernisation militaire de Taïwan](/fr/society/taiwan-defense-modernization) — Comment la cohabitation affecte concrètement la politique de défense
+- [Alliances diplomatiques et relations internationales de Taïwan](/fr/society/taiwan-diplomatic-allies-and-international-relations) — Comment les différences de position entre partis se prolongent dans l'oscillation des lignes diplomatiques
+- [Rencontre Zheng-Xi 2026 : dix minutes pour une rencontre décennale des dirigeants du Kuomintang et du PCC](/fr/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Le débat sur l'orientation lors de l'élection présidentielle du Kuomintang en 2025
+- [Ji Linlian](/fr/people/ji-lin-lian) — Général à la retraite nommé vice-président du Kuomintang, l'incident de la scission lors de la réunion du comité central de 2026 révélant la structure du département du Huangfuxing

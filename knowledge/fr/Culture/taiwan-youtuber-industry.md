@@ -82,9 +82,9 @@ De la première vidéo de Tsai A-ga aux dix millions d’abonnés de Chi Hsuan, 
 
 **Pour aller plus loin** :
 
-- [A Shen](/people/阿神) — De son propre récit de onze années de mise à jour quotidienne, en passant par deux annonces distinctes d’arrêt, jusqu’à son retour en 2026, un exemple concret de la manière dont les créateurs réécrivent leurs engagements de publication fixes.
-- [PanSci](/society/泛科學) — De la vulgarisation scientifique écrite aux vidéos courtes, aux MCN YouTube et aux services destinés aux créateurs de savoir, ce cas complète l’analyse de la manière dont les créateurs de contenus éducatifs affrontent l’algorithme et la commercialisation.
-- [Wretch (Wuming Xiaozhan)](/culture/無名小站) — Berceau de la première génération de créateurs amateurs taïwanais (Wanwan, Giddens Ko, les albums de jolies filles) ; l’économie des créateurs taïwanais existait déjà ici, avant que les YouTubeurs n’apparaissent.
+- [A Shen](/fr/people/red-shin-minecraft-youtuber) — De son propre récit de onze années de mise à jour quotidienne, en passant par deux annonces distinctes d’arrêt, jusqu’à son retour en 2026, un exemple concret de la manière dont les créateurs réécrivent leurs engagements de publication fixes.
+- [PanSci](/fr/society/pansci) — De la vulgarisation scientifique écrite aux vidéos courtes, aux MCN YouTube et aux services destinés aux créateurs de savoir, ce cas complète l’analyse de la manière dont les créateurs de contenus éducatifs affrontent l’algorithme et la commercialisation.
+- [Wretch (Wuming Xiaozhan)](/fr/culture/wretch) — Berceau de la première génération de créateurs amateurs taïwanais (Wanwan, Giddens Ko, les albums de jolies filles) ; l’économie des créateurs taïwanais existait déjà ici, avant que les YouTubeurs n’apparaissent.
 
 ## Références
 

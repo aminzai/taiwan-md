@@ -110,10 +110,10 @@ Chen Shui-bian avait annoncé en 2000 qu'aucun barrage ne serait construit à Me
 
 ## Pour aller plus loin
 
-- [Musique hakka taïwanaise](/music/台灣客家音樂/)
-- [Le mouvement folk taïwan](/music/台灣民歌運動/)
-- [Musique indépendante taïwanaise](/music/台灣獨立音樂/)
-- [Histoire du rock à Taïwan](/music/台灣搖滾樂發展史/)
+- [Musique hakka taïwanaise](/fr/music/taiwan-hakka-music-from-mountain-songs-to-rock/)
+- [Le mouvement folk taïwan](/fr/music/taiwan-campus-folk-song-movement/)
+- [Musique indépendante taïwanaise](/fr/music/indie-music-scene/)
+- [Histoire du rock à Taïwan](/fr/music/taiwan-rock-from-underground-to-mainstream/)
 
 ## Références
 

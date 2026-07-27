@@ -123,4 +123,4 @@ Ce n'est pas seulement l'histoire d'une tasse de thé. C'est l'histoire d'une î
 
 ## Sujets connexes
 
-- [Cuisine de rue taïwanaise](/food/台灣小吃)
+- [Cuisine de rue taïwanaise](/fr/food/taiwanese-street-food)

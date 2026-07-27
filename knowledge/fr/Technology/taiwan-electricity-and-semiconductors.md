@@ -176,10 +176,10 @@ Les semi-conducteurs ont rendu Taïwan nécessaire au monde. L’électricité l
 
 ## Pour aller plus loin
 
-- [Chaîne d’approvisionnement du matériel d’IA](/technology/AI硬體供應鏈) — comment Taïwan transforme la demande du nuage en machines prêtes à être expédiées.
-- [L’eau des semi-conducteurs et les ressources hydriques de Taïwan](/technology/半導體用水與台灣水資源) — comment la fabrication des plaquettes entre dans les barrages, les sécheresses et la gestion de l’eau régénérée.
-- [Usines de la chaîne d’IA à l’étranger](/technology/AI供應鏈海外設廠) — comment la construction d’usines à l’étranger lie chaîne d’approvisionnement, électricité et infrastructures locales.
-- [Entreprises taïwanaises : TSMC](/economy/台灣企業：台積電) — comment le modèle de fonderie pure est devenu le goulot d’étranglement mondial des puces de pointe.
+- [Chaîne d’approvisionnement du matériel d’IA](/fr/technology/ai-hardware-supply-chain) — comment Taïwan transforme la demande du nuage en machines prêtes à être expédiées.
+- [L’eau des semi-conducteurs et les ressources hydriques de Taïwan](/fr/technology/semiconductor-water-use-and-taiwan-water-resources) — comment la fabrication des plaquettes entre dans les barrages, les sécheresses et la gestion de l’eau régénérée.
+- [Usines de la chaîne d’IA à l’étranger](/fr/technology/ai-supply-chain-overseas-manufacturing) — comment la construction d’usines à l’étranger lie chaîne d’approvisionnement, électricité et infrastructures locales.
+- [Entreprises taïwanaises : TSMC](/fr/economy/tsmc) — comment le modèle de fonderie pure est devenu le goulot d’étranglement mondial des puces de pointe.
 
 ## Sources des images
 

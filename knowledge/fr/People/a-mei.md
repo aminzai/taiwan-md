@@ -84,7 +84,7 @@ Elle a porté les questions LGBTQ+ dans le paysage du divertissement grand publi
 
 Des nuits passées à chanter dans les restaurants de Taitung aux cinq concerts du Taipei Dome, avec des montgolfières s'élevant au-dessus du public — le parcours d'A-mei n'est pas le scénario standard de l'industrie du divertissement taïwanais, mais celui d'une jeune femme autochtone qui, par sa voix, a ouvert un espace plus grand, puis y a fait entrer tout le monde.
 
-**Pour aller plus loin :** [A-mei — Wikipédia](https://zh.wikipedia.org/wiki/張惠妹) ｜ [Chang Yu-sheng](/people/張雨生) — l'âme productrice de _Sisters_
+**Pour aller plus loin :** [A-mei — Wikipédia](https://zh.wikipedia.org/wiki/張惠妹) ｜ [Chang Yu-sheng](/fr/people/chang-yu-sheng-singer) — l'âme productrice de _Sisters_
 
 ## Références
 

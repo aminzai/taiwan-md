@@ -127,12 +127,12 @@ Revenons à cet après-midi new-yorkais de 2015. Un jeune homme comptant moins d
 
 **Pour aller plus loin** :
 
-- [Tsai A-ga : de pionnier des influenceurs à vocation de travailleur social, l’homme qui a renversé son destin avec 18 ans d’audience](/people/蔡阿嘎) — Premier YouTubeur taïwanais à atteindre le million d’abonnés, en 2014, quatre ans avant Howhow ; il marque le point de départ de cette chronologie de professionnalisation.
-- [A-Shen](/people/阿神) — Créateur spécialisé dans le jeu vidéo ayant franchi le million d’abonnés en même temps que Saint (2017), selon une stratégie de survie tout à fait différente de celle de Howhow.
-- [Tseng Po-en : calculer les rires, sans pouvoir calculer la société](/people/曾博恩) — Lui aussi devenu célèbre grâce à une « comédie au rythme calculé », mais en poussant les blagues vers des enjeux sociaux plus sensibles que les placements de produit.
-- [Zun : de la chambre d’un collégien au million sur deux chaînes, le journal d’un YouTubeur devenu adulte](/people/尊) — Venu lui aussi des débuts de YouTube à Taïwan, il documente publiquement son parcours, des tournages d’adolescent au poids du million, jusqu’au quotidien de l’âge adulte.
-- [L’industrie et la culture des YouTubeurs taïwanais : de Tsai A-ga à Chi Hsuan, l’histoire de l’évolution numérique d’une île](/culture/台灣YouTuber產業與文化) — Le paysage industriel dans lequel se situe Howhow, pour comprendre comment cette génération de créateurs a porté la mémoire numérique d’une époque.
-- [L’économie des créateurs indépendants à Taïwan : le champ de bataille fragmenté de 23 millions de personnes](/economy/台灣自媒體創作者經濟) — Pour comprendre, à partir de la structure industrielle, le calcul publicitaire qui se cache derrière l’idée que « le placement de produit est une nécessité de survie ».
+- [Tsai A-ga : de pionnier des influenceurs à vocation de travailleur social, l’homme qui a renversé son destin avec 18 ans d’audience](/fr/people/tsai-a-ga-youtuber) — Premier YouTubeur taïwanais à atteindre le million d’abonnés, en 2014, quatre ans avant Howhow ; il marque le point de départ de cette chronologie de professionnalisation.
+- [A-Shen](/fr/people/red-shin-minecraft-youtuber) — Créateur spécialisé dans le jeu vidéo ayant franchi le million d’abonnés en même temps que Saint (2017), selon une stratégie de survie tout à fait différente de celle de Howhow.
+- [Tseng Po-en : calculer les rires, sans pouvoir calculer la société](/fr/people/bernard-tseng) — Lui aussi devenu célèbre grâce à une « comédie au rythme calculé », mais en poussant les blagues vers des enjeux sociaux plus sensibles que les placements de produit.
+- [Zun : de la chambre d’un collégien au million sur deux chaînes, le journal d’un YouTubeur devenu adulte](/fr/people/zun) — Venu lui aussi des débuts de YouTube à Taïwan, il documente publiquement son parcours, des tournages d’adolescent au poids du million, jusqu’au quotidien de l’âge adulte.
+- [L’industrie et la culture des YouTubeurs taïwanais : de Tsai A-ga à Chi Hsuan, l’histoire de l’évolution numérique d’une île](/fr/culture/taiwan-youtuber-industry) — Le paysage industriel dans lequel se situe Howhow, pour comprendre comment cette génération de créateurs a porté la mémoire numérique d’une époque.
+- [L’économie des créateurs indépendants à Taïwan : le champ de bataille fragmenté de 23 millions de personnes](/fr/economy/taiwan-self-media-creator-economy) — Pour comprendre, à partir de la structure industrielle, le calcul publicitaire qui se cache derrière l’idée que « le placement de produit est une nécessité de survie ».
 
 ## Sources des images
 

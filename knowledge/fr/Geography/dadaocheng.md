@@ -209,16 +209,16 @@ La prochaine fois que vous marcherez rue Dihua, levez les yeux vers les reliefs 
 
 **Pour aller plus loin** :
 
-- [Taipei : trois temporalités dans une ville, le temple Longshan de 1738 face à la Taipei 101 de 2004](/geography/台北市) — panorama des 12 districts de Taipei, et la place de Dadaocheng dans les trois bourgs
-- [Culture des vieilles rues et quartiers commerçants de Taïwan](/culture/台灣老街文化與商業街區) — dossier principal des vieilles rues, comparaison entre la rue Dihua, Lukang, Bangka et Sanxia
-- [Culture du thé à Taïwan](/culture/台灣茶文化) — contexte complet du Formosa Tea et de l’industrie du thé dans le nord de Taïwan
-- [Incident du 28 février](/history/二二八事件) — l’événement allumé par ce paquet de cigarettes de 1947, la répression qui suivit et la justice transitionnelle
-- [Mouvements sociaux à Taïwan sous la domination japonaise](/history/日治時期臺灣社會運動) — Chiang Wei-shui et l’Association culturelle au no 199 de Taiping-chō
-- [Chants populaires et chansons de Taïwan](/music/台灣民謠與歌謠) — 〈Bāng Chhun-hong〉 de 1932 et Columbia Records à Taiping-chō
-- [Bangka](/geography/艋舺) — les Tong’an défaits lors du conflit Dingxia jiaopin de 1853 s’enfuirent du village Bajia de Bangka vers Dadaocheng ; les deux rues sont le résultat bifurqué d’une même rixe armée
-- [Ximending](/geography/西門町) — quartier historique du même batch 1, zone de divertissement de l’époque japonaise née en 1896 contre rue commerciale Qing de Dadaocheng : comparaison de deux « moments de formation de rue »
-- [Dalongdong](/geography/大龍峒) — après leur défaite dans le conflit Dingxia jiaopin de 1853, les Tong’an se replièrent d’abord à Dalongdong, autour du temple Bao’an comme centre défensif, puis migrèrent vers Dadaocheng : une station intermédiaire souvent absente du récit courant de Dadaocheng
-- [Shilin](/geography/士林) — la rixe Zhangzhou-Quanzhou de 1859 et le conflit Dingxia jiaopin de Bangka en 1853 sont deux rixes différentes ; Shilin est un autre résultat de bifurcation, reconstruit après l’incendie d’une rue de Zhangzhou par des gens de Quanzhou
+- [Taipei : trois temporalités dans une ville, le temple Longshan de 1738 face à la Taipei 101 de 2004](/fr/geography/taipei-city) — panorama des 12 districts de Taipei, et la place de Dadaocheng dans les trois bourgs
+- [Culture des vieilles rues et quartiers commerçants de Taïwan](/fr/culture/taiwan-historic-streets-and-commercial-districts) — dossier principal des vieilles rues, comparaison entre la rue Dihua, Lukang, Bangka et Sanxia
+- [Culture du thé à Taïwan](/fr/culture/taiwanese-tea-culture-and-living-aesthetics) — contexte complet du Formosa Tea et de l’industrie du thé dans le nord de Taïwan
+- [Incident du 28 février](/fr/history/228-incident) — l’événement allumé par ce paquet de cigarettes de 1947, la répression qui suivit et la justice transitionnelle
+- [Mouvements sociaux à Taïwan sous la domination japonaise](/fr/history/social-movements-during-japanese-rule) — Chiang Wei-shui et l’Association culturelle au no 199 de Taiping-chō
+- [Chants populaires et chansons de Taïwan](/fr/music/Taiwan Folk Music and Songs) — 〈Bāng Chhun-hong〉 de 1932 et Columbia Records à Taiping-chō
+- [Bangka](/fr/geography/bangka) — les Tong’an défaits lors du conflit Dingxia jiaopin de 1853 s’enfuirent du village Bajia de Bangka vers Dadaocheng ; les deux rues sont le résultat bifurqué d’une même rixe armée
+- [Ximending](/fr/geography/ximending) — quartier historique du même batch 1, zone de divertissement de l’époque japonaise née en 1896 contre rue commerciale Qing de Dadaocheng : comparaison de deux « moments de formation de rue »
+- [Dalongdong](/fr/geography/dalongdong) — après leur défaite dans le conflit Dingxia jiaopin de 1853, les Tong’an se replièrent d’abord à Dalongdong, autour du temple Bao’an comme centre défensif, puis migrèrent vers Dadaocheng : une station intermédiaire souvent absente du récit courant de Dadaocheng
+- [Shilin](/fr/geography/shilin) — la rixe Zhangzhou-Quanzhou de 1859 et le conflit Dingxia jiaopin de Bangka en 1853 sont deux rixes différentes ; Shilin est un autre résultat de bifurcation, reconstruit après l’incendie d’une rue de Zhangzhou par des gens de Quanzhou
 
 ## Sources des images
 

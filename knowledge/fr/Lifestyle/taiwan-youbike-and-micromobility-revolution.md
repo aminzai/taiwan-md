@@ -112,9 +112,9 @@ Quand cela se produit, la question de l''urbanisme ne se limite plus à « les r
 
 **Pour aller plus loin** :
 
-- [Système de transport taïwan](/lifestyle/台灣交通系統) — YouBike constitue le dernier kilomètre de cet écosystème ; cet article en fournit le contexte en amont.
-- [Histoire du développement du MRT à Taïwan](/lifestyle/台灣捷運發展史) — Pourquoi YouBike doit-il se connecter au MRT ? Comment cette intermodalité est-elle devenue une infrastructure du quotidien ?
-- [Crise climatique et transition vers le zéro net à Taïwan](/nature/台灣氣候危機與淨零轉型) — La place de la micromobilité dans les 28 % de part des transports doux.
+- [Système de transport taïwan](/fr/lifestyle/transportation-system) — YouBike constitue le dernier kilomètre de cet écosystème ; cet article en fournit le contexte en amont.
+- [Histoire du développement du MRT à Taïwan](/fr/lifestyle/history-of-taiwan-mrt-development) — Pourquoi YouBike doit-il se connecter au MRT ? Comment cette intermodalité est-elle devenue une infrastructure du quotidien ?
+- [Crise climatique et transition vers le zéro net à Taïwan](/fr/nature/taiwan-climate-change-net-zero-transition) — La place de la micromobilité dans les 28 % de part des transports doux.
 
 ## Références
 

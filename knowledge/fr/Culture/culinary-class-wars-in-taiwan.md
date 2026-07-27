@@ -126,9 +126,9 @@ Mais une chose restera : de 2024 à 2026, les consommateurs taïwanais ont vu le
 
 ## Lectures complémentaires
 
-- [La culture des dépanneurs à Taïwan](/lifestyle/台灣便利商店文化) — Le scénario industriel où la collaboration 7-ELEVEN × Baek Jong-wen a eu lieu, comprendre la logique de la concurrence sur le champ de bataille des plats frais de dépanneur
-- [La culture des boissons à thé à Taïwan](/food/台灣手搖飲文化) — Le contexte de l'industrie des boissons à thé où la collaboration Kim Tae-sung × Shisheng a eu lieu, le champ de bataille de boissons le plus exportable de Taïwan
-- [Boba tea](/food/珍珠奶茶) — Le symbole représentatif des boissons à thé à Taïwan, formant un contraste culturel de consommation avec les marques de boissons à thé coréennes entrées à l'époque de _Black and White Chef_
+- [La culture des dépanneurs à Taïwan](/fr/lifestyle/convenience-store-culture) — Le scénario industriel où la collaboration 7-ELEVEN × Baek Jong-wen a eu lieu, comprendre la logique de la concurrence sur le champ de bataille des plats frais de dépanneur
+- [La culture des boissons à thé à Taïwan](/fr/food/hand-shaken-drink-culture) — Le contexte de l'industrie des boissons à thé où la collaboration Kim Tae-sung × Shisheng a eu lieu, le champ de bataille de boissons le plus exportable de Taïwan
+- [Boba tea](/fr/food/bubble-tea) — Le symbole représentatif des boissons à thé à Taïwan, formant un contraste culturel de consommation avec les marques de boissons à thé coréennes entrées à l'époque de _Black and White Chef_
 
 ## Références
 

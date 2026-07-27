@@ -177,13 +177,13 @@ Et c’est aussi l’une des positions les plus claires — et les plus nécessa
 
 ## Pour aller plus loin
 
-- [Commerce extérieur de Taïwan et chaînes d’approvisionnement mondiales](/economy/台灣外貿與全球供應鏈) — le contexte macro, de l’orientation exportatrice et du commerce triangulaire à la recomposition des chaînes entre les États-Unis et la Chine.
-- [NVIDIA à Taïwan](/technology/NVIDIA在台灣) — comment NVIDIA confie à Taïwan la fabrication des puces, l’encapsulation et l’assemblage des serveurs.
-- [Industrie des semi-conducteurs](/technology/半導體產業) — le long contexte, du transfert technologique de RCA à la fonderie de TSMC jusqu’au champ de bataille des matériaux et de l’encapsulation.
-- [Computex](/technology/Computex) — pourquoi le salon informatique de Taipei est devenu, à l’ère de l’IA, le lieu de pèlerinage de l’offre matérielle mondiale.
-- [Électricité et semi-conducteurs à Taïwan](/technology/台灣的電力與半導體) — la facture électrique, la pression de l’énergie verte et la sécurité énergétique derrière la chaîne de l’IA.
-- [L’eau des semi-conducteurs et les ressources hydriques de Taïwan](/technology/半導體用水與台灣水資源) — comment les usines de plaquettes se relient aux barrages, aux sécheresses, à l’eau régénérée et à la gouvernance locale.
-- [Usines de la chaîne d’IA à l’étranger](/technology/AI供應鏈海外設廠) — comment le monde fait sortir la chaîne taïwanaise, de TSMC, Foxconn et Wistron jusqu’à Delta.
+- [Commerce extérieur de Taïwan et chaînes d’approvisionnement mondiales](/fr/economy/taiwan-foreign-trade-and-global-supply-chain) — le contexte macro, de l’orientation exportatrice et du commerce triangulaire à la recomposition des chaînes entre les États-Unis et la Chine.
+- [NVIDIA à Taïwan](/fr/technology/nvidia-in-taiwan) — comment NVIDIA confie à Taïwan la fabrication des puces, l’encapsulation et l’assemblage des serveurs.
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — le long contexte, du transfert technologique de RCA à la fonderie de TSMC jusqu’au champ de bataille des matériaux et de l’encapsulation.
+- [Computex](/fr/technology/computex-taipei) — pourquoi le salon informatique de Taipei est devenu, à l’ère de l’IA, le lieu de pèlerinage de l’offre matérielle mondiale.
+- [Électricité et semi-conducteurs à Taïwan](/fr/technology/taiwan-electricity-and-semiconductors) — la facture électrique, la pression de l’énergie verte et la sécurité énergétique derrière la chaîne de l’IA.
+- [L’eau des semi-conducteurs et les ressources hydriques de Taïwan](/fr/technology/semiconductor-water-use-and-taiwan-water-resources) — comment les usines de plaquettes se relient aux barrages, aux sécheresses, à l’eau régénérée et à la gouvernance locale.
+- [Usines de la chaîne d’IA à l’étranger](/fr/technology/ai-supply-chain-overseas-manufacturing) — comment le monde fait sortir la chaîne taïwanaise, de TSMC, Foxconn et Wistron jusqu’à Delta.
 
 ## Sources des images
 

@@ -132,8 +132,8 @@ La communauté open source taïwanaise présente une autre caractéristique rare
 
 ## Pour aller plus loin
 
-- [開源社群與g0v](/technology/開源社群與g0v) — Le récit collectif d'un fork du gouvernement
-- [台灣網路社群遷徙史](/technology/台灣網路社群遷徙史) — L'histoire générationnelle de la migration des communautés en ligne, du BBS à Discord
-- [Mini Taiwan Pulse](/technology/mini-taiwan-pulse) — L'open source personnel au service de la civic tech : 193 commits en six semaines pour transformer des données ouvertes en trajectoires lumineuses 3D
-- [大宇雙劍](/technology/大宇雙劍) — Une autre histoire taïwanaise de « passion dépassant les moyens » (des RPG nés dans les marchés informatiques de Guanghua)
-- [不入地窖焉能睡覺](/technology/不入地窖焉能睡覺) — Une communauté de joueurs de 6 millions de membres née dans les résidences universitaires de l'Université nationale centrale
+- [開源社群與g0v](/fr/technology/open-source-and-g0v) — Le récit collectif d'un fork du gouvernement
+- [台灣網路社群遷徙史](/fr/technology/taiwan-online-community-migration) — L'histoire générationnelle de la migration des communautés en ligne, du BBS à Discord
+- [Mini Taiwan Pulse](/fr/technology/mini-taiwan-pulse-civic-tech) — L'open source personnel au service de la civic tech : 193 commits en six semaines pour transformer des données ouvertes en trajectoires lumineuses 3D
+- [大宇雙劍](/fr/technology/softstar-twin-classics) — Une autre histoire taïwanaise de « passion dépassant les moyens » (des RPG nés dans les marchés informatiques de Guanghua)
+- [不入地窖焉能睡覺](/fr/technology/into-the-cellar-taiwan-game-podcast) — Une communauté de joueurs de 6 millions de membres née dans les résidences universitaires de l'Université nationale centrale

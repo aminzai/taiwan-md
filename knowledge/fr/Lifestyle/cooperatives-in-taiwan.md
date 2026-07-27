@@ -84,7 +84,7 @@ Ces 10 NTD de cotisation versés lors de l'inscription représentaient la possib
 
 **Pour aller plus loin** :
 
-- [La culture des supérettes à Taïwan](/lifestyle/台灣便利商店文化) — Les principaux fournisseurs alimentaires scolaires ayant remplacé les coopératives, cas emblématique taïwanais de « chaîne globale + adaptation locale » dans le commerce de détail après la levée de la loi martiale
+- [La culture des supérettes à Taïwan](/fr/lifestyle/convenience-store-culture) — Les principaux fournisseurs alimentaires scolaires ayant remplacé les coopératives, cas emblématique taïwanais de « chaîne globale + adaptation locale » dans le commerce de détail après la levée de la loi martiale
 
 ## Références
 

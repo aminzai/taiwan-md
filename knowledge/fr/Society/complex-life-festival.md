@@ -272,9 +272,9 @@ Source : Medium officiel du Festival de la vie complexe, données annuelles du F
 
 **Pour aller plus loin** :
 
-- [Mouvement des fleurs de l'osmanthe](/society/太陽花學運) — Contexte historique du Festival de la vie complexe : comment ce mouvement de 2014, après sa dispersion dans la rue, s'est divisé en la Force Times, g0v, Za Xue Xiao et le Festival de la vie complexe comme sorties de jeunesse
-- [Za Xue Xiao](/society/雜學校) — L'énergie alternative post-318 suivant une ligne opposée : grandissant jusqu'à devenir le plus grand carnaval éducatif d'Asie, opposant l'échelle et l'intimité au « petit maintenu délibérément » du Festival de la vie complexe
-- [La génération polyvalente de Taïwan](/society/台灣斜槓世代) — Contexte structurel pour l'autodésignation de « maniaque du travail » des participants du Festival de la vie complexe : comment le salaire médian et la pression de survie ont poussé cette génération à porter plusieurs casquettes
+- [Mouvement des fleurs de l'osmanthe](/fr/society/sunflower-movement) — Contexte historique du Festival de la vie complexe : comment ce mouvement de 2014, après sa dispersion dans la rue, s'est divisé en la Force Times, g0v, Za Xue Xiao et le Festival de la vie complexe comme sorties de jeunesse
+- [Za Xue Xiao](/fr/society/za-share) — L'énergie alternative post-318 suivant une ligne opposée : grandissant jusqu'à devenir le plus grand carnaval éducatif d'Asie, opposant l'échelle et l'intimité au « petit maintenu délibérément » du Festival de la vie complexe
+- [La génération polyvalente de Taïwan](/fr/society/taiwan-slash-generation-multi-job-economy) — Contexte structurel pour l'autodésignation de « maniaque du travail » des participants du Festival de la vie complexe : comment le salaire médian et la pression de survie ont poussé cette génération à porter plusieurs casquettes
 - [FAB DAO et le Projet des Cent Montagnes](/art/FAB_DAO_Yu_Bai_Yue_Ji_Hua) — Où Huang Dou-ni est allé après avoir quitté la médecine : la prochaine œuvre intégrant « l'esprit cypherpunk dans la société numérique taïwanaise »
 
 ## Sources des images

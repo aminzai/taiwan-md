@@ -119,8 +119,8 @@ La diversité même des espaces de coiffure est un reflet de la société : des 
 
 ## Pour aller plus loin
 
-- [La culture de la moto à Taïwan](/lifestyle/台灣機車文化) — La coupe d'A-Zhi associée aux vêtements moulants et au gros B (Yamaha BWS) forme le trio classique des rues taïwanaises
-- [La culture des convenience stores à Taïwan](/lifestyle/台灣便利商店文化) — La logique d'implantation des coupes rapides à cent dollars suit la même logique de densité que celle des convenience stores
+- [La culture de la moto à Taïwan](/fr/lifestyle/taiwan-scooter-culture) — La coupe d'A-Zhi associée aux vêtements moulants et au gros B (Yamaha BWS) forme le trio classique des rues taïwanaises
+- [La culture des convenience stores à Taïwan](/fr/lifestyle/convenience-store-culture) — La logique d'implantation des coupes rapides à cent dollars suit la même logique de densité que celle des convenience stores
 
 ## Références
 

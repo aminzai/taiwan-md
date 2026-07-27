@@ -254,11 +254,11 @@ Depuis plus de trente ans, au fond, les Golden Melody Awards ne se contentent pa
 
 ## Pour aller plus loin
 
-- [Musique pop taïwanaise](/music/台灣流行音樂) — Toute l’histoire des hauts et des bas de l’industrie, de l’ère du disque à celle du streaming ; les Golden Melody Awards en sont la graduation officielle
-- [Évolution des chansons en taïwanais](/music/台灣台語歌曲演進) — Des complaintes mélancoliques au virage rock de « Marching Forward » de Lim Giong, comment les chansons en taïwanais sont entrées dans le courant dominant
-- [Traditions musicales autochtones de Taïwan](/music/台灣原住民音樂傳統) — Des chants de village à Chen Chien-nien et ABAO, les racines et le présent de la musique autochtone
-- [Auteurs-compositeurs-interprètes autochtones contemporains](/music/當代原住民創作歌手) — Les voix et les conditions de création d’une lignée qui va de Samingad à Panai et ABAO
-- [Musique indépendante taïwanaise](/music/台灣獨立音樂) — Comment No Party for Cao Dong et la génération StreetVoice ont contourné l’industrie du disque pour atteindre la plus haute scène des Golden Melody Awards
+- [Musique pop taïwanaise](/fr/music/golden-melodies-legacy-taiwan-pop-music) — Toute l’histoire des hauts et des bas de l’industrie, de l’ère du disque à celle du streaming ; les Golden Melody Awards en sont la graduation officielle
+- [Évolution des chansons en taïwanais](/fr/music/taiwanese-hokkien-song-evolution) — Des complaintes mélancoliques au virage rock de « Marching Forward » de Lim Giong, comment les chansons en taïwanais sont entrées dans le courant dominant
+- [Traditions musicales autochtones de Taïwan](/fr/music/indigenous-music-traditions) — Des chants de village à Chen Chien-nien et ABAO, les racines et le présent de la musique autochtone
+- [Auteurs-compositeurs-interprètes autochtones contemporains](/fr/music/contemporary-indigenous-singer-songwriters) — Les voix et les conditions de création d’une lignée qui va de Samingad à Panai et ABAO
+- [Musique indépendante taïwanaise](/fr/music/indie-music-scene) — Comment No Party for Cao Dong et la génération StreetVoice ont contourné l’industrie du disque pour atteindre la plus haute scène des Golden Melody Awards
 
 ## Sources des images
 

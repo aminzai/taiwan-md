@@ -120,10 +120,10 @@ Du pianiste timide de 1997 au roi de la musique pop asiatique en 2026, le parcou
 
 **Pour aller plus loin :**
 
-- [周子瑜](/people/周子瑜) — La deuxième personnalité taïwanaise la plus suivie sur Instagram, juste derrière Jay Chou
-- [台灣流行音樂](/music/台灣流行音樂) — L'ensemble de l'écosystème industriel et des tournants générationnels auxquels appartient Jay Chou
-- [孫燕姿](/people/孫燕姿/) — Nominée la même année que lui aux 12e Golden Melody Awards dans la catégorie meilleure artiste émergente, à un vote près, définissant deux trajectoires musicales parallèles des années 2000
-- [賈永婕](/people/賈永婕) — Un autre parcours taïwanais de transformation de la célébrité en influence transdisciplinaire (variétés → marque de robes de mariée → mobilisation publique → gouvernance d'entreprise publique), à mettre en regard avec le parcours de Jay Chou dans l'industrie culturelle
+- [周子瑜](/fr/people/tzuyu) — La deuxième personnalité taïwanaise la plus suivie sur Instagram, juste derrière Jay Chou
+- [台灣流行音樂](/fr/music/golden-melodies-legacy-taiwan-pop-music) — L'ensemble de l'écosystème industriel et des tournants générationnels auxquels appartient Jay Chou
+- [孫燕姿](/fr/people/stefanie-sun/) — Nominée la même année que lui aux 12e Golden Melody Awards dans la catégorie meilleure artiste émergente, à un vote près, définissant deux trajectoires musicales parallèles des années 2000
+- [賈永婕](/fr/people/chia-yung-chieh) — Un autre parcours taïwanais de transformation de la célébrité en influence transdisciplinaire (variétés → marque de robes de mariée → mobilisation publique → gouvernance d'entreprise publique), à mettre en regard avec le parcours de Jay Chou dans l'industrie culturelle
 
 ## Références
 

@@ -98,7 +98,7 @@ Ce licenciement ouvrit une histoire de contestation qui dura onze ans. Genoux au
 
 En 2016, après avoir fait le guet pendant plus de trente heures devant le siège du Parti démocrate progressiste, ils finirent par obtenir un accord avec le nouveau gouvernement, puis l'accord fut réduit. Le 19 décembre 2019, Sun Xiu-luan, présidente de l'association d'auto-assistance, perdit en première instance devant le Tribunal administratif supérieur de Taipei ; émue, elle déclara « nous ne pouvons vraiment pas accepter ce résultat », accusant le tribunal d'« avoir piétiné la crédibilité du gouvernement »[^23].
 
-L'appel fut porté devant la Cour suprême administrative, qui renvoya l'affaire pour réexamen. Finalement, un accord de médiation fut établi le 30 décembre 2024, exactement onze ans après la date de licenciement, le même jour du calendrier. Le 15 février 2025, 20 tables de banquet furent organisées à Kaohsiung pour célébrer la fin de la contestation[^24]. Cette chronologie complète de onze ans a été approfondie dans l'article frère de cet article, [Autoroute](/lifestyle/高速公路). Il y est question des genoux au sol, des visages peints en bleu, de l'escalade des portiques ETC, ainsi que de l'analyse selon laquelle « les promesses politiques non tenues et la question de savoir si cela constitue un contrat administratif sont deux choses différentes ». Les lecteurs peuvent se référer directement à cet article.
+L'appel fut porté devant la Cour suprême administrative, qui renvoya l'affaire pour réexamen. Finalement, un accord de médiation fut établi le 30 décembre 2024, exactement onze ans après la date de licenciement, le même jour du calendrier. Le 15 février 2025, 20 tables de banquet furent organisées à Kaohsiung pour célébrer la fin de la contestation[^24]. Cette chronologie complète de onze ans a été approfondie dans l'article frère de cet article, [Autoroute](/fr/lifestyle/national-highway-system). Il y est question des genoux au sol, des visages peints en bleu, de l'escalade des portiques ETC, ainsi que de l'analyse selon laquelle « les promesses politiques non tenues et la question de savoir si cela constitue un contrat administratif sont deux choses différentes ». Les lecteurs peuvent se référer directement à cet article.
 
 Sun Xiu-luan, présidente de l'association d'auto-assistance, le dit plus clairement que toute synthèse extérieure : « Jeter les péagistes après les avoir utilisées est un traitement injuste et irraisonnable des travailleurs »[^25].
 
@@ -122,8 +122,8 @@ Les trois cabines sont alignées le long de l'autoroute : on peut les regarder, 
 
 ## Pour aller plus loin
 
-- [Autoroute](/lifestyle/高速公路) — Le pouvoir et la vitesse de l'autoroute taïwanaise pendant cinquante ans ; la section « Onze ans pour un accord non public » raconte en détail l'histoire de la contestation des péagistes.
-- [Système de transport de Taïwan](/lifestyle/台灣交通系統) — Le réseau de transport global, des autoroutes et du TGV au métro et aux routes locales.
+- [Autoroute](/fr/lifestyle/national-highway-system) — Le pouvoir et la vitesse de l'autoroute taïwanaise pendant cinquante ans ; la section « Onze ans pour un accord non public » raconte en détail l'histoire de la contestation des péagistes.
+- [Système de transport de Taïwan](/fr/lifestyle/transportation-system) — Le réseau de transport global, des autoroutes et du TGV au métro et aux routes locales.
 
 ---
 

@@ -182,7 +182,7 @@ Après son départ, ICE continue de créer en tant qu’artiste indépendant. En
 
 C’est la version Rayark d’une « mine politique », et le deuxième conflit entre la logique de « promesse esthétique » et les relations commerciales. Trois ans plus tôt, dans l’affaire VK克, Rayark avait choisi la priorité aux relations commerciales ; cette fois, le marché en jeu est beaucoup plus vaste, mais la structure décisionnelle est exactement la même.
 
-Un an plus tôt, en 2019, Devotion de [Red Candle Games](/technology/赤燭遊戲) est retiré de la zone chinoise de Steam le 23 février à cause d’une affaire de talisman ; trois jours plus tard, Red Candle annonce son retrait complet de Steam[^cedargames-wiki]. Par la suite, l’éditeur Shanghai JuMiao Information Technology fait l’objet d’une enquête de l’Administration de supervision du marché du district de Yangpu, puis sa licence commerciale est révoquée le 17 juin[^cedargames-wiki]. **Le coût réel est supporté par la partie éditoriale** : Red Candle conserve le contenu original sans céder, mais l’éditeur est détruit. Dans l’affaire ICE de 2020, Rayark choisit une autre voie : laisser la personne concernée partir, modifier le jeu pour se conformer aux exigences, conserver le canal de distribution chinois. La priorité aux relations commerciales reste la même logique que dans l’affaire VK克.
+Un an plus tôt, en 2019, Devotion de [Red Candle Games](/fr/technology/red-candle-games) est retiré de la zone chinoise de Steam le 23 février à cause d’une affaire de talisman ; trois jours plus tard, Red Candle annonce son retrait complet de Steam[^cedargames-wiki]. Par la suite, l’éditeur Shanghai JuMiao Information Technology fait l’objet d’une enquête de l’Administration de supervision du marché du district de Yangpu, puis sa licence commerciale est révoquée le 17 juin[^cedargames-wiki]. **Le coût réel est supporté par la partie éditoriale** : Red Candle conserve le contenu original sans céder, mais l’éditeur est détruit. Dans l’affaire ICE de 2020, Rayark choisit une autre voie : laisser la personne concernée partir, modifier le jeu pour se conformer aux exigences, conserver le canal de distribution chinois. La priorité aux relations commerciales reste la même logique que dans l’affaire VK克.
 
 > **⚠️ Point de vue controversé**
 > Ce sont deux choix radicalement différents de deux équipes indie taïwanaises emblématiques face à la pression du marché chinois. Red Candle ne cède pas sur le contenu, et l’éditeur paie le prix de sa destruction ; Rayark fait reculer le contenu et conserve le canal de distribution chinois. Le média anglophone PocketGamer.biz titre « China pulls Cytus II from the App Store for secret pro-democracy Morse code message »[^pocketgamer-cytus2], tandis que les discussions dans le monde sinophone se concentrent sur « Rayark s’est agenouillé » ou « la coupure était-elle correcte ? ». Une même affaire, deux lectures. Le choix de Rayark cette fois-ci est le prolongement de la même logique de marque que celle de 2014-2017 face à VK克, appliquée à une autre source de pression.
@@ -251,10 +251,10 @@ L’affaire ICE montre le résultat inévitable de l’extension de la logique d
 
 ## Pour aller plus loin
 
-- [L’industrie taïwanaise du jeu vidéo et du divertissement numérique](/technology/台灣遊戲產業與數位娛樂) — Panorama du jeu taïwanais, de la distribution à la création originale
-- [Red Candle Games](/technology/赤燭遊戲) — Une autre voie du jeu indépendant taïwanais : raconter l’histoire par l’Histoire, et choisir de quitter le marché chinois
-- [Les deux épées de Softstar](/technology/大宇雙劍) — Le point de départ des jeux taïwanais racontant des histoires en chinois
-- [X-Legend et l’internationalisation des jeux en ligne taïwanais](/technology/傳奇網路與台灣線上遊戲出海) — Une autre histoire internationale du jeu taïwanais
+- [L’industrie taïwanaise du jeu vidéo et du divertissement numérique](/fr/technology/taiwan-gaming-industry) — Panorama du jeu taïwanais, de la distribution à la création originale
+- [Red Candle Games](/fr/technology/red-candle-games) — Une autre voie du jeu indépendant taïwanais : raconter l’histoire par l’Histoire, et choisir de quitter le marché chinois
+- [Les deux épées de Softstar](/fr/technology/softstar-twin-classics) — Le point de départ des jeux taïwanais racontant des histoires en chinois
+- [X-Legend et l’internationalisation des jeux en ligne taïwanais](/fr/technology/chuanqi-net-and-taiwan-online-gaming) — Une autre histoire internationale du jeu taïwanais
 
 ---
 

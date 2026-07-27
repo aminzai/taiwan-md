@@ -26,7 +26,7 @@ category: 'resources'
 
 # Mini Taiwan Pulse — Visualisation 3D en temps réel des transports à Taïwan 🌐
 
-> 📖 **Article approfondi** : cette ressource a fait l''objet d''un article de recherche dédié aux technologies civiques. Pour la version complète, voir [Mini Taiwan Pulse : comment un analyste de données a transformé le pouls des transports taïwanais en traînées lumineuses 3D vivantes](/technology/mini-taiwan-pulse) (2026-04-19). Cette page est conservée comme entrée d''index dans la liste des ressources.
+> 📖 **Article approfondi** : cette ressource a fait l''objet d''un article de recherche dédié aux technologies civiques. Pour la version complète, voir [Mini Taiwan Pulse : comment un analyste de données a transformé le pouls des transports taïwanais en traînées lumineuses 3D vivantes](/fr/technology/mini-taiwan-pulse-civic-tech) (2026-04-19). Cette page est conservée comme entrée d''index dans la liste des ressources.
 
 > **Aperçu en 30 secondes :** un projet open source qui transforme en temps réel la dynamique des transports à Taïwan en sphères et traînées lumineuses 3D. Les avions tracent des arcs dans le ciel, des navires laissent des sillages à la surface de la mer, des trains foncent sur les rails — 23 couches activables vous permettent de « voir » le pouls de Taïwan.
 

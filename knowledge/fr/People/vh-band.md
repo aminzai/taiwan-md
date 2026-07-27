@@ -115,10 +115,10 @@ Le surnom de « groupe-exutoire » vient des fans, pas d''eux-mêmes. Et c''est 
 
 **Pour aller plus loin** :
 
-- [草東沒有派對](/people/草東沒有派對) — Le même paysage indépendant taiwanais de la fin des années 2010, la ligne du rock politique en contrepoint de la ligne douce de VH
-- [魏如萱](/people/魏如萱) — Une autre musicienne indépendante taiwanaise suivant une trajectoire « l''œuvre d''abord, l''exposition ensuite »
-- [台灣獨立音樂](/music/台灣獨立音樂) — Le contexte écosystémique de l''émergence de VH
-- [Hello Nico](/people/Hello-Nico) — Même génération de la scène indépendante, retour en 2024 avec _Plan B_ après huit ans de silence, un autre contrepoint entre douceur et répression
+- [草東沒有派對](/fr/people/no-party-for-cao-dong) — Le même paysage indépendant taiwanais de la fin des années 2010, la ligne du rock politique en contrepoint de la ligne douce de VH
+- [魏如萱](/fr/people/waa-wei-singer) — Une autre musicienne indépendante taiwanaise suivant une trajectoire « l''œuvre d''abord, l''exposition ensuite »
+- [台灣獨立音樂](/fr/music/indie-music-scene) — Le contexte écosystémique de l''émergence de VH
+- [Hello Nico](/fr/people/hello-nico-band) — Même génération de la scène indépendante, retour en 2024 avec _Plan B_ après huit ans de silence, un autre contrepoint entre douceur et répression
 
 ## Références
 

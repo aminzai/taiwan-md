@@ -189,7 +189,7 @@ Il avait prévu de prendre sa retraite une seconde fois à 85 ans[^70], de remet
 
 L’enfant qui grandissait à Lugang en regardant sa mère vendre des œufs de canard, à la fin, restait ce jardinier qui voulait planter un jardin entier.
 
-**Pour aller plus loin** : [Acer](/economy/台灣企業：宏碁) (la marque fondée par Stan Shih et portée sur la scène mondiale, voici son histoire complète), [Morris Chang](/people/張忠謀) (celui qui avait invité Stan Shih à être administrateur de TSMC pendant 21 ans, suivait une autre voie technologique taïwanaise), [TSMC](/economy/台灣企業：台積電) (cette entreprise qui faisait la « fabrication du milieu » mais était devenue la montagne sacrée protectrice de Taïwan, aussi l’endroit où Stan Shih détenait le plus d’actions), [La transformation et la montée en gamme de l’industrie taïwanaise](/economy/台灣產業轉型升級) (derrière la courbe du sourire et la Voie royale, la voie de Taïwan entre la fabrication et la marque sur quarante ans).
+**Pour aller plus loin** : [Acer](/fr/economy/acer-pc-industry-pioneer) (la marque fondée par Stan Shih et portée sur la scène mondiale, voici son histoire complète), [Morris Chang](/fr/people/tsmc-morris-chang) (celui qui avait invité Stan Shih à être administrateur de TSMC pendant 21 ans, suivait une autre voie technologique taïwanaise), [TSMC](/fr/economy/tsmc) (cette entreprise qui faisait la « fabrication du milieu » mais était devenue la montagne sacrée protectrice de Taïwan, aussi l’endroit où Stan Shih détenait le plus d’actions), [La transformation et la montée en gamme de l’industrie taïwanaise](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) (derrière la courbe du sourire et la Voie royale, la voie de Taïwan entre la fabrication et la marque sur quarante ans).
 
 ## Références
 

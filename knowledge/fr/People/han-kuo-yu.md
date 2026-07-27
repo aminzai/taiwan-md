@@ -163,15 +163,15 @@ La vérité se situe probablement entre les deux. Et _Han Kuo-yu_ lui‑même es
 
 **Lectures complémentaires** :
 
-- [2026 Zheng‑Xi Meeting : dix minutes pour la rencontre des dirigeants du PCC et du KMT](/society/2026%E9%84%AD%E7%BF%92%E6%9C%83%E8%88%87%E5%9C%8B%E5%85%B1%E5%8D%81%E5%B9%B4%E5%86%8D%E6%9C%83) — La négociation du budget législatif d’avril 2026, présidée par _Han Kuo-yu_.
-- [Zheng Li‑wen](/people/鄭麗文) — Deux figures majeures du KMT 2025‑2026, le président du parti et le président de la Chambre.
-- [Hsiao Bi‑khim](/people/蕭美琴) — Lecture comparative : Hsiao Bi‑khim a remporté une fois à Hualien en six ans, _Han Kuo-yu_ a été destitué en 528 jours.
-- [Environnement politique taïwanais et système électoral](/society/台灣政治環境與選舉制度) — Pourquoi le système des parlementaires non élus permet‑il à des politiciens « destitués » de revenir ?
-- [Ko Wen‑je](/people/柯文哲) — Un autre parcours du citoyen au maire, puis au candidat présidentiel, puis au centre de la tempête.
-- [Lu Hsiu‑yan](/people/盧秀燕) — L’autre extrême du « Han‑liu » : maire de Taichung, élue la même année.
-- [Hsu Chiao‑hsin](/people/徐巧芯) — Principale promotrice du projet d’achat d’armes de 8 000 milliards en 2026, acteur clé des négociations de _Han Kuo-yu_.
-- [Ji Lin‑lian](/people/季麟連) — Vice‑président du parti en avril 2026, a menacé d’expulser les membres « vendus au parti », ciblant directement _Han Kuo-yu_.
-- [Zeng Bo‑en](/people/曾博恩) — Invité du « Night Show » de Bo‑en en décembre 2019, a demandé « pas de blagues sur la coupe de cheveux », le qualifiant de « l’étranger le plus familier ».
+- [2026 Zheng‑Xi Meeting : dix minutes pour la rencontre des dirigeants du PCC et du KMT](/fr/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — La négociation du budget législatif d’avril 2026, présidée par _Han Kuo-yu_.
+- [Zheng Li‑wen](/fr/people/cheng-li-wun) — Deux figures majeures du KMT 2025‑2026, le président du parti et le président de la Chambre.
+- [Hsiao Bi‑khim](/fr/people/hsiao-bi-khim) — Lecture comparative : Hsiao Bi‑khim a remporté une fois à Hualien en six ans, _Han Kuo-yu_ a été destitué en 528 jours.
+- [Environnement politique taïwanais et système électoral](/fr/society/taiwan-political-landscape-and-electoral-system) — Pourquoi le système des parlementaires non élus permet‑il à des politiciens « destitués » de revenir ?
+- [Ko Wen‑je](/fr/people/ko-wen-je) — Un autre parcours du citoyen au maire, puis au candidat présidentiel, puis au centre de la tempête.
+- [Lu Hsiu‑yan](/fr/people/lu-hsiu-yan) — L’autre extrême du « Han‑liu » : maire de Taichung, élue la même année.
+- [Hsu Chiao‑hsin](/fr/people/hsu-chiao-hsin) — Principale promotrice du projet d’achat d’armes de 8 000 milliards en 2026, acteur clé des négociations de _Han Kuo-yu_.
+- [Ji Lin‑lian](/fr/people/ji-lin-lian) — Vice‑président du parti en avril 2026, a menacé d’expulser les membres « vendus au parti », ciblant directement _Han Kuo-yu_.
+- [Zeng Bo‑en](/fr/people/bernard-tseng) — Invité du « Night Show » de Bo‑en en décembre 2019, a demandé « pas de blagues sur la coupe de cheveux », le qualifiant de « l’étranger le plus familier ».
 
 ## Références
 

@@ -246,10 +246,10 @@ Cet article utilise 3 images sous licence ouverte et 3 vidéos officielles de Ju
 
 ## Lectures complémentaires
 
-- [Yeh Ping-cheng](/people/葉丙成) : PaGamO a transformé les devoirs en chasse au monstre — une autre voie d'innovation éducative gamifiée
-- [Huang Kuo-chen](/people/黃國珍) : Pinxue Tang et _La compréhension de lecture_, ou comment enseigner « savoir lire » comme un métier
-- [Liu An-ting](/people/劉安婷) : Teach For Taiwan (TFT), programme de deux ans qui envoie des jeunes dans les classes rurales
-- [Stanley Yen](/people/嚴長壽) : du parrain du tourisme au défenseur de l'éducation en milieu rural — la personne à qui Junyi a emprunté son nom
+- [Yeh Ping-cheng](/fr/people/yeh-ping-cheng-education-innovator) : PaGamO a transformé les devoirs en chasse au monstre — une autre voie d'innovation éducative gamifiée
+- [Huang Kuo-chen](/fr/people/huang-kuo-chen) : Pinxue Tang et _La compréhension de lecture_, ou comment enseigner « savoir lire » comme un métier
+- [Liu An-ting](/fr/people/liu-an-ting-teach-for-taiwan) : Teach For Taiwan (TFT), programme de deux ans qui envoie des jeunes dans les classes rurales
+- [Stanley Yen](/fr/people/stanley-yen) : du parrain du tourisme au défenseur de l'éducation en milieu rural — la personne à qui Junyi a emprunté son nom
 
 ## Références
 

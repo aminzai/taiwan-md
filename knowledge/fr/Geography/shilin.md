@@ -226,15 +226,15 @@ La prochaine fois qu'à 19 h 30 vous vous tiendrez à l'entrée du marché de nu
 
 **Lectures complémentaires** :
 
-- [Ville de Taipei](/geography/台北市) — panorama des 12 districts ; avant son intégration à la ville de Taipei en 1968, Shilin relevait de l'Administration de Yangmingshan
-- [Culture des vieilles rues et quartiers commerçants de Taïwan](/culture/台灣老街文化與商業街區) — dossier principal sur la culture des vieilles rues ; la nouvelle rue de Shilin est l'un des rares ensembles urbains de Taïwan dont le plan d'ensemble puisse remonter à 1860, année gengshen
-- [Mengjia](/geography/艋舺) — autre article du même batch 1 ; la querelle Ding-Xia de 1853 est le prélude aux affrontements Zhangzhou-Quanzhou de 1859, un autre angle du triangle des trois rues marchandes
-- [Dadaocheng](/geography/大稻埕) — autre article du même batch 1 ; en 1853, les Tong'an s'y réfugièrent pour ouvrir un port marchand, dans la même chaîne structurelle que les Zhangzhou de Shilin fuyant l'ancienne rue vers la nouvelle
-- [Ximending](/geography/西門町) — autre article du même batch 1 ; quartier de divertissement japonais de 1896 contre marché civil japonais de Shilin en 1909, deux structures matérielles laissées par les Japonais
-- [Religion et culture des temples à Taïwan](/culture/台灣宗教與寺廟文化) — le temple Cixian est un nœud important du culte de Mazu à Taipei, aux côtés du temple Xiahai du dieu de la ville à Dadaocheng et du temple Longshan à Mengjia
-- [Incident du 28-Février](/history/二二八事件) — contexte d'époque de l'afflux massif de continentaux à Shilin après l'incident du 28-Février de 1947, de l'élargissement de Wenlin Road et de l'établissement de la résidence officielle de Shilin
-- [Période Qing](/history/清治時期) — arrière-plan du siècle Qing, de 1796 à 1895 : mise en culture han, affrontements Zhangzhou-Quanzhou, planification de la nouvelle rue par Pan Yongqing
-- [Dalongdong](/geography/大龍峒) — centre défensif où les Tong'an vaincus lors de la querelle Ding-Xia de 1853 se replièrent ; avec les affrontements Zhangzhou-Quanzhou de Shilin en 1859, il forme deux paysages d'affrontements communautaires dans le nord de Taïwan sous les Qing
+- [Ville de Taipei](/fr/geography/taipei-city) — panorama des 12 districts ; avant son intégration à la ville de Taipei en 1968, Shilin relevait de l'Administration de Yangmingshan
+- [Culture des vieilles rues et quartiers commerçants de Taïwan](/fr/culture/taiwan-historic-streets-and-commercial-districts) — dossier principal sur la culture des vieilles rues ; la nouvelle rue de Shilin est l'un des rares ensembles urbains de Taïwan dont le plan d'ensemble puisse remonter à 1860, année gengshen
+- [Mengjia](/fr/geography/bangka) — autre article du même batch 1 ; la querelle Ding-Xia de 1853 est le prélude aux affrontements Zhangzhou-Quanzhou de 1859, un autre angle du triangle des trois rues marchandes
+- [Dadaocheng](/fr/geography/dadaocheng) — autre article du même batch 1 ; en 1853, les Tong'an s'y réfugièrent pour ouvrir un port marchand, dans la même chaîne structurelle que les Zhangzhou de Shilin fuyant l'ancienne rue vers la nouvelle
+- [Ximending](/fr/geography/ximending) — autre article du même batch 1 ; quartier de divertissement japonais de 1896 contre marché civil japonais de Shilin en 1909, deux structures matérielles laissées par les Japonais
+- [Religion et culture des temples à Taïwan](/fr/culture/taiwan-religion-and-temple-culture) — le temple Cixian est un nœud important du culte de Mazu à Taipei, aux côtés du temple Xiahai du dieu de la ville à Dadaocheng et du temple Longshan à Mengjia
+- [Incident du 28-Février](/fr/history/228-incident) — contexte d'époque de l'afflux massif de continentaux à Shilin après l'incident du 28-Février de 1947, de l'élargissement de Wenlin Road et de l'établissement de la résidence officielle de Shilin
+- [Période Qing](/fr/history/qing-dynasty-rule) — arrière-plan du siècle Qing, de 1796 à 1895 : mise en culture han, affrontements Zhangzhou-Quanzhou, planification de la nouvelle rue par Pan Yongqing
+- [Dalongdong](/fr/geography/dalongdong) — centre défensif où les Tong'an vaincus lors de la querelle Ding-Xia de 1853 se replièrent ; avec les affrontements Zhangzhou-Quanzhou de Shilin en 1859, il forme deux paysages d'affrontements communautaires dans le nord de Taïwan sous les Qing
 
 ## Références
 

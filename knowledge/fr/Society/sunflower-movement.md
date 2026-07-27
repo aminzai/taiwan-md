@@ -157,17 +157,17 @@ Ces trente secondes, Chang Ching-chung n'imaginait probablement pas qu'il était
 
 **Pour aller plus loin** :
 
-- [Transition démocratique de Taïwan](/history/台灣民主轉型) — De l'autoritarisme à la démocratie, les fondements institutionnels du mouvement des Tournesols
-- [Incident de Kaohsiung](/history/美麗島事件) — Comment les aînés de 1979 ouvrirent la porte de la démocratie par la rue
-- [Communauté open source et g0v](/technology/開源社群與g0v) — La communauté d'ingénieurs derrière l'infrastructure numérique du mouvement des Tournesols
-- [Mouvement social et participation citoyenne](/society/社會運動與公民參與) — L'évolution de la société civile taïwanaise après le mouvement des Tournesols
-- [Crise du détroit et développement des relations inter-détroit](/history/台海危機與兩岸關係發展) — Le contexte géopolitique plus large de la controverse du CSSTA
-- [Ma Ying-jeou](/people/馬英九) — Les décisions présidentielles durant la période du passage en 30 secondes du CSSTA, de l'évacuation du Yuan exécutif du 24 mars à l'aube et du retrait du mouvement étudiant du 10 avril
-- [Za School](/society/雜學校) — Une autre prolongation de l'énergie extra-institutionnelle après le mouvement du 18 mars : le cas taïwanais de la traduction de la rébellion de rue en carnaval éducatif
-- [Complex Life Festival](/society/複雜生活節) — La quatrième voie de sortie du « sortir pour semencer » du 18 mars : ni élection, ni programmation, ni recrutement, rassembler chaque année les milléniaux désorientés par les bas salaires dans un « forum des non-réussis » de deux à trois cents personnes
-- [Taïwan et Eswatini](/society/台灣與史瓦帝尼) — Dix ans après le mouvement du 18 mars, la visite de Lai Ching-te en Eswatini pour consolider les relations diplomatiques : le scénario concret des quatre mots « État souverain »
-- [Invisible Nation](/art/看不見的國家) — le documentaire de Joyce Keng place le mouvement des Tournesols comme un moment-clé dans l’arc des quatre siècles de la démocratie taïwanaise
-- [Nie Yongzhen](/people/聶永真) — Le graphiste qui conçut la publicité « Democracy at 4am » en pleine page du _New York Times_ à quatre heures du matin en 2014, comment le mouvement étudiant entra dans la scène internationale vue du côté du design
+- [Transition démocratique de Taïwan](/fr/history/taiwan-democratization) — De l'autoritarisme à la démocratie, les fondements institutionnels du mouvement des Tournesols
+- [Incident de Kaohsiung](/fr/history/kaohsiung-incident-formosa-incident) — Comment les aînés de 1979 ouvrirent la porte de la démocratie par la rue
+- [Communauté open source et g0v](/fr/technology/open-source-and-g0v) — La communauté d'ingénieurs derrière l'infrastructure numérique du mouvement des Tournesols
+- [Mouvement social et participation citoyenne](/fr/society/social-movements-and-civic-participation) — L'évolution de la société civile taïwanaise après le mouvement des Tournesols
+- [Crise du détroit et développement des relations inter-détroit](/fr/history/taiwan-strait-crises-and-cross-strait-relations) — Le contexte géopolitique plus large de la controverse du CSSTA
+- [Ma Ying-jeou](/fr/people/ma-ying-jeou-cross-strait-reconciliation-leader) — Les décisions présidentielles durant la période du passage en 30 secondes du CSSTA, de l'évacuation du Yuan exécutif du 24 mars à l'aube et du retrait du mouvement étudiant du 10 avril
+- [Za School](/fr/society/za-share) — Une autre prolongation de l'énergie extra-institutionnelle après le mouvement du 18 mars : le cas taïwanais de la traduction de la rébellion de rue en carnaval éducatif
+- [Complex Life Festival](/fr/society/complex-life-festival) — La quatrième voie de sortie du « sortir pour semencer » du 18 mars : ni élection, ni programmation, ni recrutement, rassembler chaque année les milléniaux désorientés par les bas salaires dans un « forum des non-réussis » de deux à trois cents personnes
+- [Taïwan et Eswatini](/fr/society/taiwan-eswatini-relations) — Dix ans après le mouvement du 18 mars, la visite de Lai Ching-te en Eswatini pour consolider les relations diplomatiques : le scénario concret des quatre mots « État souverain »
+- [Invisible Nation](/fr/art/invisible-nation) — le documentaire de Joyce Keng place le mouvement des Tournesols comme un moment-clé dans l’arc des quatre siècles de la démocratie taïwanaise
+- [Nie Yongzhen](/fr/people/nieh-yung-jen) — Le graphiste qui conçut la publicité « Democracy at 4am » en pleine page du _New York Times_ à quatre heures du matin en 2014, comment le mouvement étudiant entra dans la scène internationale vue du côté du design
 
 ## Références
 

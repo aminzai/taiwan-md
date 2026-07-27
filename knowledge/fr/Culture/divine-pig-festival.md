@@ -105,11 +105,11 @@ La culture du cochon divin est un microcosme de la diversité religieuse de Taï
 
 ## Pour aller plus loin
 
-- **[Culture et langue hakka](/culture/客家文化與語言)** — Racines historiques et foi du peuple hakka, terreau culturel de la croyance des Yimin
-- **[Festivals de temples et processions à Taïwan](/culture/台灣廟會與陣頭文化)** — Pratiques festives et mobilisation communautaire dans la foi populaire taïwanaise
-- **[Religion et culture des temples à Taïwan](/culture/台灣宗教與寺廟文化)** — Le contexte de la foi populaire dans lequel s'inscrit le sacrifice du cochon divin
-- **[Fêtes traditionnelles et célébrations](/culture/傳統節慶與慶典)** — Panorama de la culture sacrificielle de la fête des Yimin et des fêtes du calendrier lunaire
-- **[Groupes ethnologiques (minnan, hakka, autochtones, continentaux, nouveaux résidents)](/culture/族群（閩南客家原住民外省新住民）)** — Différences et fusions des pratiques culturelles entre les groupes minnan et hakka
+- **[Culture et langue hakka](/fr/culture/hakka-culture-and-language)** — Racines historiques et foi du peuple hakka, terreau culturel de la croyance des Yimin
+- **[Festivals de temples et processions à Taïwan](/fr/culture/taiwan-temple-festivals-and-performance-troupes)** — Pratiques festives et mobilisation communautaire dans la foi populaire taïwanaise
+- **[Religion et culture des temples à Taïwan](/fr/culture/taiwan-religion-and-temple-culture)** — Le contexte de la foi populaire dans lequel s'inscrit le sacrifice du cochon divin
+- **[Fêtes traditionnelles et célébrations](/fr/culture/traditional-festivals-and-celebrations)** — Panorama de la culture sacrificielle de la fête des Yimin et des fêtes du calendrier lunaire
+- **[Groupes ethnologiques (minnan, hakka, autochtones, continentaux, nouveaux résidents)](/fr/culture/ethnic-groups)** — Différences et fusions des pratiques culturelles entre les groupes minnan et hakka
 
 ## Références
 

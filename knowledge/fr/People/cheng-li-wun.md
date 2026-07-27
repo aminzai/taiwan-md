@@ -135,17 +135,17 @@ So the real question is not "Has Cheng Li-wen changed?" but: **Has Taiwan change
 
 **Further Reading**:
 
-- [2026 Cheng-Xi Meeting: The Ten Minutes of the First KMT-CCP Leadership Meeting in Ten Years](/society/2026鄭習會與國共十年再會) — The current endpoint of Cheng Li-wen's personal trajectory, the full scene and aftermath of that meeting
-- [Taiwan Strait Crisis and Development of Cross-Strait Relations](/history/台海危機與兩岸關係發展) — The historical structure Cheng Li-wen was in ten years before and ten years after, the invisible forces that led this figure to Beijing
-- [Taiwan Political Environment and Electoral System](/society/台灣政治環境與選舉制度) — Why could "I am Chinese" become the KMT Chairperson's election slogan? The party member structure in the electoral system provides the answer
-- [Taiwan Democratic Transition](/history/台灣民主轉型) — The year Cheng Li-wen went on a hunger strike was the first year after lifting martial law; to understand her starting point, one must first understand the youth culture of those five years of democratization
-- [Ko Wen-je](/people/柯文哲) — Another cross-boundary political figure from green to blue (or white to blue); their paths have similarities and differences
-- [Hsieh Ying-chun](/people/蕭美琴) — Another prototype of female political figures on the same 2026 stage, with a completely different path and corresponding view of Taiwan
-- [Han Kuo-yu](/people/韓國瑜) — The "Chairperson + Speaker of the Legislative Yuan" dual structure of the KMT in 2025-2026; Cheng Li-wen in the party, Han Kuo-yu in the Yuan
-- [Chao Rong-tai](/people/卓榮泰) — The main proponent of the 1.25 trillion military purchase in the Executive Yuan, Cheng Li-wen's opposing position of "Party Version 380 Billion + N"
-- [Liu Hsiu-yan](/people/盧秀燕) — Cheng Li-wen's opponent in the 2025 KMT Chairperson election, who opened Cheng Li-wen's entry channel by "not running"
-- [Hsu Chiao-hsin](/people/徐巧芯) — In the 2026 military purchase controversy, the main proponent of the "800 Billion" version colliding with Cheng Li-wen's "Party Version 380 Billion + N"
-- [Chi Lin-lian](/people/季麟連) — The Vice Chairperson appointed by Cheng Li-wen in 2026, the party member who pointed out Han Kuo-yu at the Central Executive Committee meeting on 4/29, triggering the event that split the blue camp
+- [2026 Cheng-Xi Meeting: The Ten Minutes of the First KMT-CCP Leadership Meeting in Ten Years](/fr/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — The current endpoint of Cheng Li-wen's personal trajectory, the full scene and aftermath of that meeting
+- [Taiwan Strait Crisis and Development of Cross-Strait Relations](/fr/history/taiwan-strait-crises-and-cross-strait-relations) — The historical structure Cheng Li-wen was in ten years before and ten years after, the invisible forces that led this figure to Beijing
+- [Taiwan Political Environment and Electoral System](/fr/society/taiwan-political-landscape-and-electoral-system) — Why could "I am Chinese" become the KMT Chairperson's election slogan? The party member structure in the electoral system provides the answer
+- [Taiwan Democratic Transition](/fr/history/taiwan-democratization) — The year Cheng Li-wen went on a hunger strike was the first year after lifting martial law; to understand her starting point, one must first understand the youth culture of those five years of democratization
+- [Ko Wen-je](/fr/people/ko-wen-je) — Another cross-boundary political figure from green to blue (or white to blue); their paths have similarities and differences
+- [Hsieh Ying-chun](/fr/people/hsiao-bi-khim) — Another prototype of female political figures on the same 2026 stage, with a completely different path and corresponding view of Taiwan
+- [Han Kuo-yu](/fr/people/han-kuo-yu) — The "Chairperson + Speaker of the Legislative Yuan" dual structure of the KMT in 2025-2026; Cheng Li-wen in the party, Han Kuo-yu in the Yuan
+- [Chao Rong-tai](/fr/people/cho-jung-tai) — The main proponent of the 1.25 trillion military purchase in the Executive Yuan, Cheng Li-wen's opposing position of "Party Version 380 Billion + N"
+- [Liu Hsiu-yan](/fr/people/lu-hsiu-yan) — Cheng Li-wen's opponent in the 2025 KMT Chairperson election, who opened Cheng Li-wen's entry channel by "not running"
+- [Hsu Chiao-hsin](/fr/people/hsu-chiao-hsin) — In the 2026 military purchase controversy, the main proponent of the "800 Billion" version colliding with Cheng Li-wen's "Party Version 380 Billion + N"
+- [Chi Lin-lian](/fr/people/ji-lin-lian) — The Vice Chairperson appointed by Cheng Li-wen in 2026, the party member who pointed out Han Kuo-yu at the Central Executive Committee meeting on 4/29, triggering the event that split the blue camp
 
 ## References
 

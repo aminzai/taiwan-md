@@ -273,10 +273,10 @@ Chaque mois d’octobre, une vieille dame hongroise allumait autrefois sa radio 
 
 **Lectures complémentaires** :
 
-- [Système taïwanais de santé publique et de lutte contre les épidémies](/society/台灣公共衛生與防疫體系) — contexte complet du système taïwanais de lutte contre les épidémies pendant la COVID-19 ; l’achat de BNT en 2021 traité ici en constitue un épisode
-- [Loi médicale](/society/醫療法) — les deux lois sur la médecine régénérative sont des lois spéciales séparées de la Loi médicale ; celle-ci constitue la loi fondamentale de la réglementation institutionnelle des soins à Taïwan
+- [Système taïwanais de santé publique et de lutte contre les épidémies](/fr/society/taiwan-public-health-epidemic-response) — contexte complet du système taïwanais de lutte contre les épidémies pendant la COVID-19 ; l’achat de BNT en 2021 traité ici en constitue un épisode
+- [Loi médicale](/fr/society/medical-care-act) — les deux lois sur la médecine régénérative sont des lois spéciales séparées de la Loi médicale ; celle-ci constitue la loi fondamentale de la réglementation institutionnelle des soins à Taïwan
 - [Développement de l’industrie biotechnologique taïwanaise](/technology/台灣生技產業發展) — panorama global de la biotechnologie, de la recherche académique à l’industrialisation ; la thérapie cellulaire et les plateformes ARNm en sont deux branches
-- [Système médical taïwanais et assurance maladie universelle](/lifestyle/台灣醫療與全民健保) — l’intégration éventuelle de la thérapie cellulaire au remboursement de l’assurance maladie est un enjeu clé de la vision d’une « banque cellulaire asiatique » ; la structure du budget global de l’assurance maladie détermine également la voie de commercialisation de la médecine régénérative
+- [Système médical taïwanais et assurance maladie universelle](/fr/lifestyle/taiwan-healthcare-and-national-health-insurance) — l’intégration éventuelle de la thérapie cellulaire au remboursement de l’assurance maladie est un enjeu clé de la vision d’une « banque cellulaire asiatique » ; la structure du budget global de l’assurance maladie détermine également la voie de commercialisation de la médecine régénérative
 - [Industrie médicale taïwanaise](/economy/台灣醫療產業) — versant industriel de la fabrication de nouveaux médicaments et des CDMO, complémentaire de l’angle conformité de cet article
 
 ## Sources des images

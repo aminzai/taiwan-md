@@ -66,7 +66,7 @@ Après plusieurs années de retrait relatif, Chen Yu-hsun sort _Zone Pro Site_ e
 
 Le succès de _Zone Pro Site_ tient à son exploration approfondie de la culture traditionnelle taïwanaise. Chen Yu-hsun présente l’essence de la culture du _bànzhuō_ sous la forme de la comédie, permettant aux jeunes spectateurs de découvrir la valeur des savoir-faire traditionnels.
 
-Le film réunit une distribution de vedettes, dont Tony Yang et [Brigitte Lin](/fr/People/brigitte-lin-legendary-actress/), et trouve un bon équilibre entre dimension commerciale et valeur artistique. _Zone Pro Site_ ne réussit pas seulement au box-office : il reçoit aussi la reconnaissance de la critique.
+Le film réunit une distribution de vedettes, dont Tony Yang et [Brigitte Lin](/fr/people/brigitte-lin-legendary-actress/), et trouve un bon équilibre entre dimension commerciale et valeur artistique. _Zone Pro Site_ ne réussit pas seulement au box-office : il reçoit aussi la reconnaissance de la critique.
 
 ## Réalisme magique : _My Missing Valentine_
 

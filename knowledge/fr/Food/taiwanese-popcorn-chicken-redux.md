@@ -91,9 +91,9 @@ Il y a cinquante ans, Chen Ting-zhi ne se doutait probablement pas que sa charre
 
 ## Pour aller plus loin
 
-- [Culture des marchés nocturnes](/food/夜市文化) — le principal terrain de circulation du salt-and-pepper chicken, scène centrale de l'écosystème du grignotage nocturne taïwanais
-- [Culture du petit-déjeuner taïwanais](/food/台灣早餐文化) — de l'aube à la nuit profonde, mise en miroir des deux grands moments alimentaires de Taïwan
-- [Culture des supérettes à Taïwan](/lifestyle/台灣便利商店文化) — étals de salt-and-pepper chicken et supérettes composent ensemble le paysage alimentaire 24 h sur 24 de l'île
+- [Culture des marchés nocturnes](/fr/food/night-market-culture) — le principal terrain de circulation du salt-and-pepper chicken, scène centrale de l'écosystème du grignotage nocturne taïwanais
+- [Culture du petit-déjeuner taïwanais](/fr/food/taiwan-breakfast-culture) — de l'aube à la nuit profonde, mise en miroir des deux grands moments alimentaires de Taïwan
+- [Culture des supérettes à Taïwan](/fr/lifestyle/convenience-store-culture) — étals de salt-and-pepper chicken et supérettes composent ensemble le paysage alimentaire 24 h sur 24 de l'île
 
 ## Références
 

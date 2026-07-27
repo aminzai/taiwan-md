@@ -101,7 +101,7 @@ L'enfant d'une famille paysanne de Xindian en 1917, le plus grand projet de terr
 
 Il ne laisse pas seulement un groupe, mais aussi une philosophie taïwanaise de l'optimisation au plus juste : rendre les coûts explicites, questionner les processus jusqu'à la racine, puis répéter cela toute une vie. Cette philosophie, dans ses usines, ses hôpitaux, l'histoire de son commerce de riz, dit toujours la même chose.
 
-**Pour aller plus loin** : [Wang Yung-ching — Wikipédia](https://zh.wikipedia.org/wiki/王永慶) ｜ [La Sixième Raffinerie de Formosa Plastics : un tournant de l'industrie pétrochimique taïwanaise](https://storystudio.tw/article/gushi/taiwan-plastic-industry) ｜ [Yin Yanleng : le prix scientifique qu'il a créé vaut plus que le Nobel](/people/尹衍樑) — un cas miroir de dirigeant industriel taïwanais de la même génération devenu philanthrope
+**Pour aller plus loin** : [Wang Yung-ching — Wikipédia](https://zh.wikipedia.org/wiki/王永慶) ｜ [La Sixième Raffinerie de Formosa Plastics : un tournant de l'industrie pétrochimique taïwanaise](https://storystudio.tw/article/gushi/taiwan-plastic-industry) ｜ [Yin Yanleng : le prix scientifique qu'il a créé vaut plus que le Nobel](/fr/people/samuel-yin-yan-liang) — un cas miroir de dirigeant industriel taïwanais de la même génération devenu philanthrope
 
 ## Références
 

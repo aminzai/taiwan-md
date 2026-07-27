@@ -58,7 +58,7 @@ Lin Min-hsiung a dit un jour que Pxmart était « le centre de bien-être des Ta
 
 ## Pour aller plus loin
 
-- **[Mascottes](/lifestyle/吉祥物)** — L'ours Pxmart et Open-chan : la gestion de propriété intellectuelle des mascottes de distribution
+- **[Mascottes](/fr/lifestyle/mascot-culture-in-taiwan)** — L'ours Pxmart et Open-chan : la gestion de propriété intellectuelle des mascottes de distribution
 - **[La culture des supérettes à Taïwan](/culture/台灣便利商店文化)** — Pxmart, 7-Eleven et FamilyMap dans le paysage commercial taïwanais
 - **[L'économie de la livraison à Taïwan](/economy/台灣外送經濟)** — Comment Pxmart Heure Express a pénétré le marché de foodpanda et Uber Eats
 - **[Le paiement mobile à Taïwan](/technology/台灣行動支付)** — Le paysage concurrentiel du paiement électronique : PXPay Plus, JKO Pay et LINE Pay

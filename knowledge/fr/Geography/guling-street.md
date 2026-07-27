@@ -183,14 +183,14 @@ La rue du livre a été démantelée, mais l’étang produit encore des lotus a
 
 **Lectures complémentaires** :
 
-- [Taipei](/geography/台北市) — récit centenaire des 12 districts, et contexte de formation d’après-guerre du district de Zhongzheng auquel appartient Guling Street
-- [Dadaocheng](/geography/大稻埕) — autre mémoire générationnelle dans l’un des trois anciens centres urbains de Taipei, du commerce de 1851 au 28 Février 1947
-- [Monga](/geography/艋舺) — le plus ancien quartier urbain de Taipei sous les Qing, du temple Longshan en 1738 au film _Monga_ en 2010
-- [Ximending](/geography/西門町) — du quartier de loisirs japonais de 1896 à la capitale des sous-cultures en 2026, autre quartier du district de Zhongzheng façonné par la planification japonaise, comme Guling Street
-- [Cinéma taïwanais](/art/台灣電影) — la place d’_A Brighter Summer Day_ d’Edward Yang dans l’histoire du Nouveau Cinéma taïwanais
-- [Edward Yang](/people/楊德昌) — figure centrale du Nouveau Cinéma taïwanais, auteur du film de 237 minutes _A Brighter Summer Day_
-- [Gongguan](/geography/公館) — paysage frère de la culture des savants continentaux et des rues de livres d’occasion après-guerre, formant avec Guling Street deux foyers intellectuels continentaux
-- [Village 44 South](/geography/四四南村) — les logements d’une usine militaire et la rue du livre de Guling Street montrent deux structures d’installation continentales d’après-guerre : « armée-industrie » contre « lettrés »
+- [Taipei](/fr/geography/taipei-city) — récit centenaire des 12 districts, et contexte de formation d’après-guerre du district de Zhongzheng auquel appartient Guling Street
+- [Dadaocheng](/fr/geography/dadaocheng) — autre mémoire générationnelle dans l’un des trois anciens centres urbains de Taipei, du commerce de 1851 au 28 Février 1947
+- [Monga](/fr/geography/bangka) — le plus ancien quartier urbain de Taipei sous les Qing, du temple Longshan en 1738 au film _Monga_ en 2010
+- [Ximending](/fr/geography/ximending) — du quartier de loisirs japonais de 1896 à la capitale des sous-cultures en 2026, autre quartier du district de Zhongzheng façonné par la planification japonaise, comme Guling Street
+- [Cinéma taïwanais](/fr/art/taiwanese-cinema) — la place d’_A Brighter Summer Day_ d’Edward Yang dans l’histoire du Nouveau Cinéma taïwanais
+- [Edward Yang](/fr/people/yang-dechang) — figure centrale du Nouveau Cinéma taïwanais, auteur du film de 237 minutes _A Brighter Summer Day_
+- [Gongguan](/fr/geography/gongguan) — paysage frère de la culture des savants continentaux et des rues de livres d’occasion après-guerre, formant avec Guling Street deux foyers intellectuels continentaux
+- [Village 44 South](/fr/geography/44-south-village) — les logements d’une usine militaire et la rue du livre de Guling Street montrent deux structures d’installation continentales d’après-guerre : « armée-industrie » contre « lettrés »
 
 ## Sources des images
 

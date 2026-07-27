@@ -137,14 +137,14 @@ Si en 2050 quelqu'un veut savoir ce qui préoccupait les Taïwanais en 1987, peu
 
 **Pour aller plus loin** :
 
-- [Transition démocratique taïwanaise](/history/台灣民主轉型) — Quarante ans de transition de la loi martiale au système démocratique le plus libre d'Asie
-- [Terreur blanche taïwanaise](/history/台灣白色恐怖) — Le coût réel de 38 ans de loi martiale : affaires politiques, victimes et système de « cautionnement collectif »
-- [Incident de Formose](/history/美麗島事件) — Tournant majeur de la fin de la période de la loi martiale en 1979
-- [Démocratisation](/history/民主化) — Le parcours de Taïwan vers la démocratie après la levée de la loi martiale
-- [Incident du 28 février](/history/二二八事件) — Tournant historique de 1947, à la veille de la loi martiale
-- [Justice transitionnelle taïwanaise](/history/台灣轉型正義) — Enquêtes sur la vérité et poursuites des auteurs après la levée de la loi martiale
-- [Teresa Teng](/people/鄧麗君) — Fille d'un militaire continental ayant grandi sous la loi martiale, toute une vie en première ligne de la guerre froide : du divertissement aux troupes à Kinmen au virage du Happy Valley en 1989, brandissant un panneau « Contre la loi martiale »
-- [Les Deux Salles nationales](/culture/兩廳院) — Inaugurées en 1987, l'année même de la levée de la loi martiale, parties d'un vocabulaire architectural autoritaire ; témoin de la démocratisation des espaces culturels taïwanais après la levée de la loi martiale
+- [Transition démocratique taïwanaise](/fr/history/taiwan-democratization) — Quarante ans de transition de la loi martiale au système démocratique le plus libre d'Asie
+- [Terreur blanche taïwanaise](/fr/history/taiwan-white-terror) — Le coût réel de 38 ans de loi martiale : affaires politiques, victimes et système de « cautionnement collectif »
+- [Incident de Formose](/fr/history/kaohsiung-incident-formosa-incident) — Tournant majeur de la fin de la période de la loi martiale en 1979
+- [Démocratisation](/fr/history/taiwan-democratization-history) — Le parcours de Taïwan vers la démocratie après la levée de la loi martiale
+- [Incident du 28 février](/fr/history/228-incident) — Tournant historique de 1947, à la veille de la loi martiale
+- [Justice transitionnelle taïwanaise](/fr/history/taiwan-transitional-justice) — Enquêtes sur la vérité et poursuites des auteurs après la levée de la loi martiale
+- [Teresa Teng](/fr/people/teresa-teng) — Fille d'un militaire continental ayant grandi sous la loi martiale, toute une vie en première ligne de la guerre froide : du divertissement aux troupes à Kinmen au virage du Happy Valley en 1989, brandissant un panneau « Contre la loi martiale »
+- [Les Deux Salles nationales](/fr/culture/national-theater-and-concert-hall) — Inaugurées en 1987, l'année même de la levée de la loi martiale, parties d'un vocabulaire architectural autoritaire ; témoin de la démocratisation des espaces culturels taïwanais après la levée de la loi martiale
 
 ---
 

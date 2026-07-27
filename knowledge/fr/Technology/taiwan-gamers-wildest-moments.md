@@ -143,11 +143,11 @@ Ce camion est depuis longtemps parti. Mais ceux qui l'ont poursuivi se souvienne
 
 ## Pour aller plus loin
 
-- [L'industrie du jeu vidéo et du divertissement numérique à Taïwan](/technology/台灣遊戲產業與數位娛樂) — Panorama complet du jeu vidéo taïwanais, de l'agence à la création originale
-- [La culture des supérettes à Taïwan](/lifestyle/台灣便利商店文化) — La condition préalable à la poursuite des camions logistiques : la deuxième densité de supérettes au monde
-- [L'histoire de la migration des communautés en ligne taïwanaises](/technology/台灣網路社群遷徙史) — L'infrastructure de diffusion de l'information derrière ces moments de folie
-- [Les deux épées de Softstar](/technology/大宇雙劍) — L'éveil émotionnel d'une génération précédente de joueurs taïwanais
-- [Qui ne descend pas en cave ne peut dormir](/technology/不入地窖焉能睡覺) — La scène communautaire de ces moments de folie
+- [L'industrie du jeu vidéo et du divertissement numérique à Taïwan](/fr/technology/taiwan-gaming-industry) — Panorama complet du jeu vidéo taïwanais, de l'agence à la création originale
+- [La culture des supérettes à Taïwan](/fr/lifestyle/convenience-store-culture) — La condition préalable à la poursuite des camions logistiques : la deuxième densité de supérettes au monde
+- [L'histoire de la migration des communautés en ligne taïwanaises](/fr/technology/taiwan-online-community-migration) — L'infrastructure de diffusion de l'information derrière ces moments de folie
+- [Les deux épées de Softstar](/fr/technology/softstar-twin-classics) — L'éveil émotionnel d'une génération précédente de joueurs taïwanais
+- [Qui ne descend pas en cave ne peut dormir](/fr/technology/into-the-cellar-taiwan-game-podcast) — La scène communautaire de ces moments de folie
 
 ---
 

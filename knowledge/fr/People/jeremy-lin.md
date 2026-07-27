@@ -1,9 +1,19 @@
 ---
-title: "Jeremy Lin : de deux licenciements en 15 jours à une retraite en double MVP en TPBL"
+title: 'Jeremy Lin : de deux licenciements en 15 jours à une retraite en double MVP en TPBL'
 description: "Champion d'État au lycée sans obtenir de bourse, non drafté, licencié deux fois en 15 jours — puis il a fait découvrir au monde la « Linsanity »"
 date: 2026-03-19
 category: 'People'
-tags: ['Personnalité', 'Basket-ball', 'Américain d''origine taïwanaise', 'NBA', 'Linsanity', 'Université Harvard', 'P.League+', 'TPBL']
+tags:
+  [
+    'Personnalité',
+    'Basket-ball',
+    "Américain d'origine taïwanaise",
+    'NBA',
+    'Linsanity',
+    'Université Harvard',
+    'P.League+',
+    'TPBL',
+  ]
 subcategory: '體育'
 author: 'Taiwan.md'
 featured: true
@@ -54,15 +64,15 @@ En février 2012, le meneur titulaire des Knicks s'est blessé. L'entraîneur Mi
 
 Ce qui s'est passé ensuite, personne ne l'avait vu venir :[^9]
 
-| Date | Adversaire | Points | Passes décisives |
-| ---- | ---------- | ------ | ---------------- |
-| 2/4 | Nets | 25 | 7 |
-| 2/6 | Jazz | 28 | 8 |
-| 2/8 | Wizards | 23 | 10 |
-| 2/10 | Lakers | 38 | 7 |
-| 2/11 | Timberwolves | 20 | 8 |
-| 2/14 | Raptors | 27 | 11 |
-| 2/15 | Kings | 10 | 13 |
+| Date | Adversaire   | Points | Passes décisives |
+| ---- | ------------ | ------ | ---------------- |
+| 2/4  | Nets         | 25     | 7                |
+| 2/6  | Jazz         | 28     | 8                |
+| 2/8  | Wizards      | 23     | 10               |
+| 2/10 | Lakers       | 38     | 7                |
+| 2/11 | Timberwolves | 20     | 8                |
+| 2/14 | Raptors      | 27     | 11               |
+| 2/15 | Kings        | 10     | 13               |
 
 Sept victoires consécutives. Moyenne de 24,4 points et 9,1 passes décisives par match, avec un pourcentage au tir de 51,2 %.[^9]
 
@@ -104,11 +114,11 @@ La carrière de Jeremy Lin n'a jamais correspondu aux attentes de quiconque — 
 
 **À lire aussi** :
 
-- [Guo Lingling](/people/郭婞淳) — Athlète taïwanaise de la même génération, médaillée olympique à trois reprises et onze fois recordman du monde en haltérophilie
-- [Tai Tzu-ying](/people/戴資穎) — Autre athlète taïwanaise sur la scène mondiale, reine mondiale du badminton
-- [Jay Chou](/people/周杰倫) — Figure musicale taïwanaise qui a rendu hommage à Jeremy Lin lors de sa cérémonie de retraite
+- [Guo Lingling](/fr/people/kuo-hsing-chun-olympic-weightlifting-champion) — Athlète taïwanaise de la même génération, médaillée olympique à trois reprises et onze fois recordman du monde en haltérophilie
+- [Tai Tzu-ying](/fr/people/tai-tzu-ying) — Autre athlète taïwanaise sur la scène mondiale, reine mondiale du badminton
+- [Jay Chou](/fr/people/jay-chou) — Figure musicale taïwanaise qui a rendu hommage à Jeremy Lin lors de sa cérémonie de retraite
 - [Relations Taïwan–États-Unis](/society/台灣與美國關係) — En tant qu'Américain d'origine taïwanaise, Jeremy Lin incarne la trajectoire de la génération taïwanaise partie étudier aux États-Unis après 1965
-- [Li Yang](/people/李洋) — Un autre parcours d'athlète taïwanais, de la médaille d'or olympique au poste de premier ministre des Sports
+- [Li Yang](/fr/people/lee-yang-badminton) — Un autre parcours d'athlète taïwanais, de la médaille d'or olympique au poste de premier ministre des Sports
 
 ## Références
 

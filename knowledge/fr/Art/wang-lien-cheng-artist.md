@@ -130,9 +130,9 @@ De ces 23 machines tournant les pages simultanément à Linz en septembre 2017, 
 
 ## À lire aussi
 
-- **[Wang Hsin-jen (A Luan)](/art/王新仁)** — Artiste du même groupe que le projet _Project %_, premier artiste taïwanais d'Art Blocks, ayant collaboré à plusieurs reprises avec Lien-Cheng Wang
-- **[FAB DAO et le projet _Project %_](/art/FAB%20DAO與百岳計畫)** — Le contexte complet du projet NFT philanthropique à six artistes auquel appartient Lien-Cheng Wang
-- **[Arts des nouveaux médias taïwanais](/art/台灣新媒體藝術)** — De Huang Hsin-chien à Lien-Cheng Wang, la généalogie complète de quarante ans des arts des nouveaux médias taïwanais
+- **[Wang Hsin-jen (A Luan)](/fr/art/wang-hsin-jen-artist)** — Artiste du même groupe que le projet _Project %_, premier artiste taïwanais d'Art Blocks, ayant collaboré à plusieurs reprises avec Lien-Cheng Wang
+- **[FAB DAO et le projet _Project %_](/fr/art/fab-dao)** — Le contexte complet du projet NFT philanthropique à six artistes auquel appartient Lien-Cheng Wang
+- **[Arts des nouveaux médias taïwanais](/fr/art/taiwan-new-media-art)** — De Huang Hsin-chien à Lien-Cheng Wang, la généalogie complète de quarante ans des arts des nouveaux médias taïwanais
 
 ## Références
 

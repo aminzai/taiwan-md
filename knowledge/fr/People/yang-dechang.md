@@ -41,7 +41,7 @@ Durant son séjour américain, Yang suit brièvement les cours de l'USC School o
 
 ## Retour à Taïwan et Nouveau Cinéma
 
-Yang Dechang rentre à Taïwan en 1981, alors que l'industrie cinématographique locale traverse une crise. Aux côtés de [Hou Hsiao-hsien](/fr/People/hou-hsiao-hsien/), Wu Nianzhen et Wan Ren, il impulse le « Nouveau Cinéma taïwanais », un mouvement qui vise à refléter la réalité sociale de Taïwan avec plus d'authenticité.
+Yang Dechang rentre à Taïwan en 1981, alors que l'industrie cinématographique locale traverse une crise. Aux côtés de [Hou Hsiao-hsien](/fr/people/hou-hsiao-hsien/), Wu Nianzhen et Wan Ren, il impulse le « Nouveau Cinéma taïwanais », un mouvement qui vise à refléter la réalité sociale de Taïwan avec plus d'authenticité.
 
 En 1982, il réalise le segment « Expectation » dans _In Our Time_, son premier film. Par des plans-séquences statiques et une narration contenue, il dépeint la psychologie adolescente, esquissant déjà son style singulier. En 1983, _That Day, on the Beach_ explore, à travers une structure spatio-temporelle complexe, les tourments émotionnels d'une femme dans la métropole moderne, consolidant sa place au sein du mouvement.[^2]
 
@@ -85,7 +85,7 @@ L'esthétique de Yang Dechang est profondément nourrie par le cinéma d'art eur
 
 Bien que son œuvre soit quantitativement restreinte, chaque film est une pièce maîtresse. Le 29 juin 2007, Yang Dechang décède d'un cancer du côlon à Beverly Hills, en Californie, à l'âge de 59 ans. Sa disparition constitue une perte immense pour le cinéma taïwanais, mais ses œuvres et sa vision continuent d'inspirer les créateurs qui lui succèdent.
 
-Aux côtés de [Hou Hsiao-hsien](/fr/People/hou-hsiao-hsien/) et d'[Ang Lee](/fr/People/ang-lee/), Yang Dechang a ouvert la voie à la visibilité internationale du cinéma taïwanais. Son œuvre ne se contente pas de documenter les mutations de la société taïwanaise : par son observation précise de la vie urbaine, elle occupe une place irremplaçable dans l'histoire du cinéma mondial.
+Aux côtés de [Hou Hsiao-hsien](/fr/people/hou-hsiao-hsien/) et d'[Ang Lee](/fr/people/ang-lee/), Yang Dechang a ouvert la voie à la visibilité internationale du cinéma taïwanais. Son œuvre ne se contente pas de documenter les mutations de la société taïwanaise : par son observation précise de la vie urbaine, elle occupe une place irremplaçable dans l'histoire du cinéma mondial.
 
 ## Références
 

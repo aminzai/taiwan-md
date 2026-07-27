@@ -221,12 +221,12 @@ Celui qui faisait ces efforts n'est plus là. Mais les outils qu'il a laissés, 
 
 **Lectures complémentaires** :
 
-- [Art des nouveaux médias à Taïwan](/art/台灣新媒體藝術) — Quarante ans d'art des nouveaux médias à Taïwan, de Wang Fujui et Huang Wen-Hao dans les années 1980 à Yeh Ting-Hao et Wang Lien-Cheng dans les années 2020
-- [Wang Fujui](/people/王福瑞) — Fondateur en 1993 du label de musique expérimentale _Noise_, figure tutélaire de l'art sonore taïwanais et enseignant de Yeh Ting-Hao à l'Institut d'art et technologie de l'Université nationale des arts de Taipei
-- [Wang Lien-Cheng](/art/王連晟) — Camarade de génération de Yeh Ting-Hao à i/O Lab et successeur à la direction du Lacking Sound Festival en 2009-2010 ; lauréat en 2017 du Lumen Prize à Londres avec _Reading Plan_
-- [Paysages sonores taïwanais](/music/台灣聲音地景) — L'évolution du paysage sonore taïwanais, du son à l'audiovisuel, du bruit à l'art génératif
-- [Digital Wasteland](/art/數位荒原) — Plateforme critique taïwanaise d'art des nouveaux médias de la même génération, qui a documenté les œuvres clés de la génération de Yeh Ting-Hao
-- [Musique électronique et culture des fêtes à Taïwan](/music/台灣電子音樂與派對文化) — La scène techno et électronique expérimentale taïwanaise dans laquelle s'inscrit le duo HH
+- [Art des nouveaux médias à Taïwan](/fr/art/taiwan-new-media-art) — Quarante ans d'art des nouveaux médias à Taïwan, de Wang Fujui et Huang Wen-Hao dans les années 1980 à Yeh Ting-Hao et Wang Lien-Cheng dans les années 2020
+- [Wang Fujui](/fr/people/fujui-wang) — Fondateur en 1993 du label de musique expérimentale _Noise_, figure tutélaire de l'art sonore taïwanais et enseignant de Yeh Ting-Hao à l'Institut d'art et technologie de l'Université nationale des arts de Taipei
+- [Wang Lien-Cheng](/fr/art/wang-lien-cheng-artist) — Camarade de génération de Yeh Ting-Hao à i/O Lab et successeur à la direction du Lacking Sound Festival en 2009-2010 ; lauréat en 2017 du Lumen Prize à Londres avec _Reading Plan_
+- [Paysages sonores taïwanais](/fr/music/taiwan-soundscape) — L'évolution du paysage sonore taïwanais, du son à l'audiovisuel, du bruit à l'art génératif
+- [Digital Wasteland](/fr/art/no-mans-land-art-platform) — Plateforme critique taïwanaise d'art des nouveaux médias de la même génération, qui a documenté les œuvres clés de la génération de Yeh Ting-Hao
+- [Musique électronique et culture des fêtes à Taïwan](/fr/music/taiwan-electronic-music-and-party-culture) — La scène techno et électronique expérimentale taïwanaise dans laquelle s'inscrit le duo HH
 
 ## Sources des images
 

@@ -83,10 +83,10 @@ Plutôt que de les considérer comme des voyous, réapprenons à maintenir une �
 
 ## Pour aller plus loin
 
-- [Éthique des parcs zoologiques et animaux de spectacle](/society/動物園與展演動物倫理) — Débat sur l'éthique des animaux en captivité, complémentaire au cadre de « voisinage » des macaques sauvages abordé dans cet article
-- [Quels sont les zoos de Taïwan](/society/台灣有哪些動物園) — Le zoo de Chaishan et la coexistence géographique avec la population de macaques du mont Chaishan
-- [Robert Swinhoe : quand un diplomate devient naturaliste](/people/史溫侯) — Le naturaliste britannique qui a nommé _Macaca cyclopis_ en 1862, contexte historique des notes [^4][^5] de cet article
-- [Le martin-chasseur à couronne noire](/nature/黑冠麻鷺) — Un autre cas d'animal sauvage pénétrant dans l'espace humain ; l'approche des macaques est principalement motivée par la nourriture, tandis que l'installation du martin-chasseur en ville relève davantage d'une expansion d'habitat — l'homme ayant involontairement créé en milieu urbain une niche écologique semblable à une forêt de basse altitude
+- [Éthique des parcs zoologiques et animaux de spectacle](/fr/society/zoo-and-exhibition-animal-ethics) — Débat sur l'éthique des animaux en captivité, complémentaire au cadre de « voisinage » des macaques sauvages abordé dans cet article
+- [Quels sont les zoos de Taïwan](/fr/society/taiwan-zoos) — Le zoo de Chaishan et la coexistence géographique avec la population de macaques du mont Chaishan
+- [Robert Swinhoe : quand un diplomate devient naturaliste](/fr/people/robert-swinhoe-naturalist) — Le naturaliste britannique qui a nommé _Macaca cyclopis_ en 1862, contexte historique des notes [^4][^5] de cet article
+- [Le martin-chasseur à couronne noire](/fr/nature/malayan-night-heron) — Un autre cas d'animal sauvage pénétrant dans l'espace humain ; l'approche des macaques est principalement motivée par la nourriture, tandis que l'installation du martin-chasseur en ville relève davantage d'une expansion d'habitat — l'homme ayant involontairement créé en milieu urbain une niche écologique semblable à une forêt de basse altitude
 
 ## Références
 

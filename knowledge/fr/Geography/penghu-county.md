@@ -198,13 +198,13 @@ Le vol de Taipei à Magong ne prend que 50 minutes. La prochaine fois que vous i
 
 ## Pour aller plus loin
 
-- [Culture populaire de Penghu](/culture/澎湖民俗文化) — Registres complets des traditions populaires locales : Temple Tianhou de Taïwan, culte de Mazu, chansons de Erkan, rituels des bateaux-roi
-- [Îles éloignées et culture maritime](/geography/離島與海洋文化) — Le système culturel maritime des îles éloignées de Taïwan composé de Penghu, Kinmen, Matsu, Lanyu et Lüdao
-- [Caractéristiques géographiques et formation des îles taïwanaises](/geography/台灣島嶼地理特色與形成) — Différences géologiques entre l'archipel basaltique de Penghu et la formation de l'île principale de Taïwan
-- [Mazu et Daodaogong : légendes](/culture/媽祖與大道公的傳說) — Origines transmaritimes du culte de Mazu au lieu du Temple Tianhou de Taïwan
-- [Divisions administratives de Taïwan](/geography/台灣行政區劃) — Contexte de la réforme du système local de 1920 ayant renommé Magong
-- [Guerre sino-française](/history/清法戰爭) — Panorama complet du front taïwanais et de Penghu en 1885 : occupation française de Penghu, mort de Courbet au port de Magong, _Traité de Tianjin_
-- [Période néerlandaise, espagnole et Zheng](/history/荷西明鄭時期) — Le tournant décisif du retrait néerlandais de Fengguetou à Penghu vers Tayouan (Tainan) en 1622-1624
+- [Culture populaire de Penghu](/fr/culture/penghu-folk-culture) — Registres complets des traditions populaires locales : Temple Tianhou de Taïwan, culte de Mazu, chansons de Erkan, rituels des bateaux-roi
+- [Îles éloignées et culture maritime](/fr/geography/offshore-islands-and-maritime-culture) — Le système culturel maritime des îles éloignées de Taïwan composé de Penghu, Kinmen, Matsu, Lanyu et Lüdao
+- [Caractéristiques géographiques et formation des îles taïwanaises](/fr/geography/geography-and-geology) — Différences géologiques entre l'archipel basaltique de Penghu et la formation de l'île principale de Taïwan
+- [Mazu et Daodaogong : légendes](/fr/culture/mazu-dadaogong-legend) — Origines transmaritimes du culte de Mazu au lieu du Temple Tianhou de Taïwan
+- [Divisions administratives de Taïwan](/fr/geography/administrative-divisions-of-taiwan) — Contexte de la réforme du système local de 1920 ayant renommé Magong
+- [Guerre sino-française](/fr/history/sino-french-war-in-taiwan) — Panorama complet du front taïwanais et de Penghu en 1885 : occupation française de Penghu, mort de Courbet au port de Magong, _Traité de Tianjin_
+- [Période néerlandaise, espagnole et Zheng](/fr/history/dutch-spanish-and-koxinga-era) — Le tournant décisif du retrait néerlandais de Fengguetou à Penghu vers Tayouan (Tainan) en 1622-1624
 
 ## Crédits photographiques
 

@@ -133,13 +133,13 @@ Le pont piétonnier Heping Xinsheng est devenu un terrain vague. Mais sur les ph
 
 **Pour aller plus loin** :
 
-- [Architecture taïwanaise](/art/台灣建築) — De la période japonaise à l'époque contemporaine, comment l'architecture taïwanaise s'est superposée jusqu'à prendre sa forme actuelle
-- [Cinéma taïwanais](/art/台灣電影) — Les plans-séquences de Hou Hsiao-hsien, Edward Yang et Tsai Ming-liang sont les gènes cinématographiques de la sensibilité taïwanaise
-- [Cérémonie du taïwanais et esthétique de vie](/culture/台灣茶道與生活美學) — Une autre facette de la vie lente taïwanaise, l'esthétique du quotidien à travers la cérémonie du thé
-- [Culture des supérettes taïwanaises](/lifestyle/台灣便利商店文化) — Les supérettes éclairées au milieu de la nuit sont un décor classique de la sensibilité taïwanaise
-- [Religion et culture des temples taïwanais](/culture/台灣宗教與寺廟文化) — Les temples sont la couleur la plus intense et la strate de foi la plus marquante du paysage urbain taïwanais
-- [Tzuyu Chou](/people/周子瑜) — L'un des premiers visages taïwanais à apparaître sur le chemin par lequel les Coréens découvrent Taïwan
-- [Tehching Hsieh](/art/謝德慶) — L'artiste de performance taïwanais qui fait du « temps et de la vie » son matériau direct, une version extrême de la sensibilité taïwanaise
+- [Architecture taïwanaise](/fr/art/taiwanese-architecture) — De la période japonaise à l'époque contemporaine, comment l'architecture taïwanaise s'est superposée jusqu'à prendre sa forme actuelle
+- [Cinéma taïwanais](/fr/art/taiwanese-cinema) — Les plans-séquences de Hou Hsiao-hsien, Edward Yang et Tsai Ming-liang sont les gènes cinématographiques de la sensibilité taïwanaise
+- [Cérémonie du taïwanais et esthétique de vie](/fr/culture/taiwan-tea-ceremony-and-aesthetic-living) — Une autre facette de la vie lente taïwanaise, l'esthétique du quotidien à travers la cérémonie du thé
+- [Culture des supérettes taïwanaises](/fr/lifestyle/convenience-store-culture) — Les supérettes éclairées au milieu de la nuit sont un décor classique de la sensibilité taïwanaise
+- [Religion et culture des temples taïwanais](/fr/culture/taiwan-religion-and-temple-culture) — Les temples sont la couleur la plus intense et la strate de foi la plus marquante du paysage urbain taïwanais
+- [Tzuyu Chou](/fr/people/tzuyu) — L'un des premiers visages taïwanais à apparaître sur le chemin par lequel les Coréens découvrent Taïwan
+- [Tehching Hsieh](/fr/art/tehching-hsieh-performance-artist) — L'artiste de performance taïwanais qui fait du « temps et de la vie » son matériau direct, une version extrême de la sensibilité taïwanaise
 
 ## Références
 

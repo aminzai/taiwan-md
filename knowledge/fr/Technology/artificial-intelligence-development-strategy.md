@@ -144,7 +144,7 @@ _Chaîne officielle de l’Académie royale des sciences de Suède : conférence
 
 Revenons à Taïwan. Au moment où Hopfield formule son modèle de mémoire, l’île commence à peine à ouvrir des départements d’informatique.
 
-En 1995, Ethan Tu, alors étudiant en deuxième année au département d’informatique de l’Université nationale de Taïwan, utilise un ordinateur 486 et des logiciels open source pour mettre en place dans son dortoir [PTT](/fr/Technology/ptt-bulletin-board-system/), qui deviendra plus tard le plus grand système de bulletin board de Taïwan. Trente ans plus tard, PTT compte toujours plusieurs centaines de milliers de connexions quotidiennes et demeure un fossile vivant de la culture Internet taïwanaise.
+En 1995, Ethan Tu, alors étudiant en deuxième année au département d’informatique de l’Université nationale de Taïwan, utilise un ordinateur 486 et des logiciels open source pour mettre en place dans son dortoir [PTT](/fr/technology/ptt-bulletin-board-system/), qui deviendra plus tard le plus grand système de bulletin board de Taïwan. Trente ans plus tard, PTT compte toujours plusieurs centaines de milliers de connexions quotidiennes et demeure un fossile vivant de la culture Internet taïwanaise.
 
 Ethan Tu part ensuite chez Microsoft, où il participe au développement de l’assistant vocal Cortana. En avril 2017, il renonce à un salaire élevé dans la Silicon Valley pour rentrer à Taïwan et fonde Taiwan AI Labs, le premier organisme de recherche en IA à but non lucratif et ouvert d’Asie[^11].
 
@@ -260,13 +260,13 @@ Le repas du marché nocturne de Ningxia représente la position que Taïwan a ac
 
 **Pour aller plus loin** :
 
-- [L’essor d’une île IA : développement de l’intelligence artificielle à Taïwan et stratégies d’avenir](/technology/AI發展) — Version antérieure du récit de l’architecture politique : plan d’action IA, cinq domaines stratégiques, et manière dont la « montagne sacrée » des semi-conducteurs s’articule à la révolution de l’IA.
-- [Taiwan AI Labs](/technology/台灣人工智慧實驗室) — Le parcours complet d’Ethan Tu, de PTT à AI Labs, et l’écosystème des modèles de langue open source TAIDE / TAME / FedGPT.
-- [Taiwan AI Academy](/technology/台灣人工智慧學校) — L’appel téléphonique inachevé et l’« école militaire de l’IA » fondée par Chen Sheng-wei grâce à 180 millions de dollars taïwanais de financement privé : huit ans d’histoire de formation des talents et plus de dix mille anciens.
-- [L’IA dans le quotidien taïwanais](/technology/台灣AI日常) — Chronique de l’entrée de l’IA générative dans la vie quotidienne à Taïwan, des commandes en supérette aux examens groupés de l’Administration nationale de l’assurance maladie.
-- [Entreprise taïwanaise : TSMC](/economy/台灣企業：台積電) — Leader mondial de la fonderie de wafers, cœur de la fabrication des puces d’IA, du modèle de fonderie pure de Morris Chang aux technologies de packaging avancé.
-- [Industrie des semi-conducteurs](/technology/半導體產業) — Panorama complet de l’écosystème taïwanais des semi-conducteurs, de la conception IC au packaging et aux tests.
-- [Développement de l’industrie taïwanaise de la cybersécurité](/technology/台灣資安產業發展) — Comment la pression géopolitique a fait naître une industrie de cybersécurité IA de niveau Asie-Pacifique.
+- [L’essor d’une île IA : développement de l’intelligence artificielle à Taïwan et stratégies d’avenir](/fr/technology/ai-development-in-taiwan) — Version antérieure du récit de l’architecture politique : plan d’action IA, cinq domaines stratégiques, et manière dont la « montagne sacrée » des semi-conducteurs s’articule à la révolution de l’IA.
+- [Taiwan AI Labs](/fr/technology/taiwan-ai-labs) — Le parcours complet d’Ethan Tu, de PTT à AI Labs, et l’écosystème des modèles de langue open source TAIDE / TAME / FedGPT.
+- [Taiwan AI Academy](/fr/technology/taiwan-ai-academy) — L’appel téléphonique inachevé et l’« école militaire de l’IA » fondée par Chen Sheng-wei grâce à 180 millions de dollars taïwanais de financement privé : huit ans d’histoire de formation des talents et plus de dix mille anciens.
+- [L’IA dans le quotidien taïwanais](/fr/technology/taiwan-ai-in-daily-life) — Chronique de l’entrée de l’IA générative dans la vie quotidienne à Taïwan, des commandes en supérette aux examens groupés de l’Administration nationale de l’assurance maladie.
+- [Entreprise taïwanaise : TSMC](/fr/economy/tsmc) — Leader mondial de la fonderie de wafers, cœur de la fabrication des puces d’IA, du modèle de fonderie pure de Morris Chang aux technologies de packaging avancé.
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — Panorama complet de l’écosystème taïwanais des semi-conducteurs, de la conception IC au packaging et aux tests.
+- [Développement de l’industrie taïwanaise de la cybersécurité](/fr/technology/taiwan-cybersecurity-industry-development) — Comment la pression géopolitique a fait naître une industrie de cybersécurité IA de niveau Asie-Pacifique.
 
 ---
 

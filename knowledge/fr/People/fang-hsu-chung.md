@@ -120,4 +120,4 @@ Cette participation locale se reflète aussi dans sa présence médiatique perso
 ## Pour aller plus loin
 
 - [Site officiel de Joe Fang Studio](https://joefangstudio.com/) — Le studio de design fondé par Fang Hsu-chung
-- [蕭青陽](/people/蕭青陽) — Designer visuel taïwanais de la même génération, lauréat d’un Grammy Award
+- [蕭青陽](/fr/people/xiao-qing-yang-grammy-designer) — Designer visuel taïwanais de la même génération, lauréat d’un Grammy Award

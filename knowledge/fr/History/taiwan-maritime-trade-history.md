@@ -119,6 +119,6 @@ Face aux défis du XXIe siècle, Taïwan gagnerait peut-être à redécouvrir so
 
 Pour aller plus loin :
 
-- [La période néerlandaise, espagnole et du royaume Koxinga](/history/荷西明鄭時期)
-- [La période Qing](/history/清治時期)
-- [Le littoral et les paysages maritimes de Taïwan](/geography/台灣海岸地形與海洋地景)
+- [La période néerlandaise, espagnole et du royaume Koxinga](/fr/history/dutch-spanish-and-koxinga-era)
+- [La période Qing](/fr/history/qing-dynasty-rule)
+- [Le littoral et les paysages maritimes de Taïwan](/fr/geography/taiwan-coastal-landforms-and-seascapes)

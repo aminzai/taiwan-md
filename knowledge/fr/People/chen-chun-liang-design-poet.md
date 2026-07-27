@@ -74,4 +74,4 @@ Il compile également ses réflexions créatives et rédige des essais théoriqu
 ## Pour aller plus loin
 
 - [Freeimage Design Co., Ltd. — Taiwan Company Network](https://www.twincn.com/item.aspx?no=84491727) — Informations d'enregistrement de Freeimage Design (FREEIMAGE DESIGN CO., LTD.)
-- [Fang Hsu-chung](/people/方序中) — Designer visuel taïwanais de la même génération, responsable des identités visuelles des Golden Melody Awards et des Golden Horse Awards
+- [Fang Hsu-chung](/fr/people/fang-hsu-chung) — Designer visuel taïwanais de la même génération, responsable des identités visuelles des Golden Melody Awards et des Golden Horse Awards

@@ -436,11 +436,11 @@ C'est peut-être la valeur la plus précieuse des cérémonies de vie taïwanais
 
 ## Pour aller plus loin
 
-- [Fêtes et célébrations traditionnelles](/culture/傳統節慶與慶典) — Comprendre le lien entre cérémonies de vie et fêtes traditionnelles
-- [Communautés ethniques (Hoklo, Hakka, autochtones, provinces extérieures, nouveaux résidents)](/culture/族群（閩南客家原住民外省新住民）) — Explorer les particularités cérémonielles des différentes communautés
-- [Religion et culture des temples à Taiwan](/culture/台灣宗教與寺廟文化) — Découvrir le rôle de la religion dans les cérémonies de vie
-- [L'art du thé et l'esthétique de la vie à Taiwan](/culture/台灣茶道與生活美學) — Vivre les éléments esthétiques des cérémonies
-- [La culture des pâtisseries et gâteaux à Taiwan](/food/台灣糕餅文化) — Le rôle concret des coffrets de galettes de mariage dans les six et douze rites, de la pâtisserie Yuzhenzhai de Lukang (1877) à l'ère des files d'attente de 30 secondes en 2026
+- [Fêtes et célébrations traditionnelles](/fr/culture/traditional-festivals-and-celebrations) — Comprendre le lien entre cérémonies de vie et fêtes traditionnelles
+- [Communautés ethniques (Hoklo, Hakka, autochtones, provinces extérieures, nouveaux résidents)](/fr/culture/ethnic-groups) — Explorer les particularités cérémonielles des différentes communautés
+- [Religion et culture des temples à Taiwan](/fr/culture/taiwan-religion-and-temple-culture) — Découvrir le rôle de la religion dans les cérémonies de vie
+- [L'art du thé et l'esthétique de la vie à Taiwan](/fr/culture/taiwan-tea-ceremony-and-aesthetic-living) — Vivre les éléments esthétiques des cérémonies
+- [La culture des pâtisseries et gâteaux à Taiwan](/fr/food/taiwan-pastry-culture) — Le rôle concret des coffrets de galettes de mariage dans les six et douze rites, de la pâtisserie Yuzhenzhai de Lukang (1877) à l'ère des files d'attente de 30 secondes en 2026
 
 ---
 

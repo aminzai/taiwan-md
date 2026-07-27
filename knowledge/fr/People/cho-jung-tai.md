@@ -216,11 +216,11 @@ Et la majorité bleue et blanche du Yuan législatif ne déposa pas réellement 
 
 **Pour aller plus loin** :
 
-- [Lai Ching-te](/people/賴清德) — Celui qui plaça Cho Jung-tai au poste de Premier ministre, du fils de mineur au 16e président de Taïwan
-- [Hsiao Bi-khim](/people/蕭美琴) — La vice-présidente qui remit le sceau officiel à Cho Jung-tai lors de la cérémonie de passation du 20 mai 2024, de la représentante à Washington à Taipei
-- [Cheng Li-wen](/people/鄭麗文) — La présidente du Kuomtenant qui s'adressa à Xi Jinping à Pékin en avril 2026, l'une des adversaires politiques du blocage des 1 250 milliards par la coalition bleue et blanche
-- [Défense taïwanaise et modernisation militaire](/society/台灣國防與軍事現代化) — Le contexte politique complet des « trois bons lancers » de Cho Jung-tai, du budget spécial de 1 250 milliards et du Bouclier de Taïwan
-- [Diplomatie et relations internationales de Taïwan](/society/台灣邦交國與國際外交) — L'accord tarifaire États-Unis–Taïwan de 2026 et le cadre diplomatique du second mandat de Trump, la plus grande variable externe du cabinet Cho
+- [Lai Ching-te](/fr/people/lai-ching-te) — Celui qui plaça Cho Jung-tai au poste de Premier ministre, du fils de mineur au 16e président de Taïwan
+- [Hsiao Bi-khim](/fr/people/hsiao-bi-khim) — La vice-présidente qui remit le sceau officiel à Cho Jung-tai lors de la cérémonie de passation du 20 mai 2024, de la représentante à Washington à Taipei
+- [Cheng Li-wen](/fr/people/cheng-li-wun) — La présidente du Kuomtenant qui s'adressa à Xi Jinping à Pékin en avril 2026, l'une des adversaires politiques du blocage des 1 250 milliards par la coalition bleue et blanche
+- [Défense taïwanaise et modernisation militaire](/fr/society/taiwan-defense-modernization) — Le contexte politique complet des « trois bons lancers » de Cho Jung-tai, du budget spécial de 1 250 milliards et du Bouclier de Taïwan
+- [Diplomatie et relations internationales de Taïwan](/fr/society/taiwan-diplomatic-allies-and-international-relations) — L'accord tarifaire États-Unis–Taïwan de 2026 et le cadre diplomatique du second mandat de Trump, la plus grande variable externe du cabinet Cho
 
 ## Références
 

@@ -1,11 +1,19 @@
 ---
 title: "L'art contemporain des peuples autochtones de Taïwan"
-description: "Des artisanats traditionnels à la création contemporaine, explorer la manière dont les artistes autochtones de Taïwan prennent la parole sur la scène artistique mondiale et redéfinissent le dialogue entre identité autochtone et art contemporain"
+description: 'Des artisanats traditionnels à la création contemporaine, explorer la manière dont les artistes autochtones de Taïwan prennent la parole sur la scène artistique mondiale et redéfinissent le dialogue entre identité autochtone et art contemporain'
 date: 2026-03-20
 author: 'Taiwan.md Contributors'
 category: 'Art'
 subcategory: '當代藝術'
-tags: ['peuples autochtones', 'art contemporain', 'artisanat traditionnel', 'identité', 'artistes', 'revitalisation culturelle']
+tags:
+  [
+    'peuples autochtones',
+    'art contemporain',
+    'artisanat traditionnel',
+    'identité',
+    'artistes',
+    'revitalisation culturelle',
+  ]
 readingTime: 8
 lastVerified: 2026-03-20
 lastHumanReview: false
@@ -152,12 +160,17 @@ Les installations de Rahic Talif, les photographies de Sapu Kacaw, les sculpture
 ## Références
 
 [^1]: [Centre de développement de l'art des peuples autochtones](https://www.tacp.gov.tw/) — informations sur le développement de l'art contemporain autochtone
+
 [^2]: Lin Jiancheng (2002), [《臺灣原住民藝術田野筆記》](https://www.books.com.tw/products/0010192578), Artist Publishing
+
 [^3]: [Biennale d'art de Taïwan](https://www.museum.ntm.gov.tw/) — informations sur les expositions d'art contemporain
+
 [^4]: [Pavillon de Taïwan à la Biennale de Venise](https://www.venezia.culture.tw/) — archives des pavillons taïwanais
+
 [^5]: Kao Chun-hung (2017), [《橫斷記：臺灣山林戰爭、帝國與影像》](https://www.books.com.tw/products/0010768319), Walkers Cultural Enterprise
+
 [^7]: [Base de données sur la littérature et la culture autochtones modernes et contemporaines de Taïwan](http://140.109.24.175/iplm/) — établie par l'Université nationale Sun Yat-sen
 
 ---
 
-_Lectures complémentaires : [Histoire des peuples autochtones de Taïwan et mouvement de rectification des noms](/fr/History/indigenous-peoples-history-and-naming-movement/) · [Justice foncière et territoires traditionnels des peuples autochtones de Taïwan](/fr/Society/indigenous-land-justice-and-traditional-territories/) · [Carte culturelle des 16 peuples autochtones de Taïwan](/fr/Culture/indigenous-peoples-16-tribes-cultural-map/) · [Mouvement de revitalisation des langues autochtones de Taïwan](/fr/Culture/indigenous-language-revitalization-movement/) · [Cultures alimentaires autochtones de Taïwan](/fr/Food/taiwan-indigenous-foodways/) · [Sagesse écologique autochtone taïwanaise et conservation de l'environnement](/fr/Nature/taiwanese-indigenous-ecological-wisdom-conservation/)_
+_Lectures complémentaires : [Histoire des peuples autochtones de Taïwan et mouvement de rectification des noms](/fr/history/indigenous-peoples-history-and-naming-movement/) · [Justice foncière et territoires traditionnels des peuples autochtones de Taïwan](/fr/society/indigenous-land-justice-and-traditional-territories/) · [Carte culturelle des 16 peuples autochtones de Taïwan](/fr/culture/indigenous-peoples-16-tribes-cultural-map/) · [Mouvement de revitalisation des langues autochtones de Taïwan](/fr/culture/indigenous-language-revitalization-movement/) · [Cultures alimentaires autochtones de Taïwan](/fr/food/taiwan-indigenous-foodways/) · [Sagesse écologique autochtone taïwanaise et conservation de l'environnement](/fr/nature/taiwanese-indigenous-ecological-wisdom-conservation/)_

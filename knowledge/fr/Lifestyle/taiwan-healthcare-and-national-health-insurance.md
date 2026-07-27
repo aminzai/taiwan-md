@@ -175,10 +175,10 @@ _Bâtiment principal de l’Hôpital de l’Université nationale de Taïwan. Fo
 
 **Lectures complémentaires** :
 
-- [Loi médicale](/society/醫療法) — la loi sur l’assurance maladie encadre les « prestations », la loi médicale encadre les « établissements » ; ensemble, elles forment les deux rails de la gouvernance médicale taïwanaise, côté paiement et côté institutions
-- [Histoire des deux lois taïwanaises sur la médecine régénérative racontée par un professionnel du secteur](/society/台灣再生醫療雙法沿革從業人員告白) — hors du périmètre des remboursements de l’assurance maladie, les deux lois sur la médecine régénérative adoptées en 2024 constituent une autre voie de gouvernance, à côté des procédures standard de l’assurance maladie
-- [Controverses autour des médicaments vétérinaires à Taïwan](/society/台灣動物用藥爭議) — l’assurance maladie couvre les humains, pas les animaux ; le débat sur les médicaments pour animaux de compagnie sert de groupe de comparaison au système d’assurance maladie
-- [Système de médecine de catastrophe à Taïwan](/technology/台灣災難醫療體系) — l’assurance maladie soutient les soins ordinaires, le système de médecine de catastrophe soutient les périodes exceptionnelles ; les deux systèmes co-construisent les dimensions normale et d’urgence de la gouvernance médicale publique à Taïwan
+- [Loi médicale](/fr/society/medical-care-act) — la loi sur l’assurance maladie encadre les « prestations », la loi médicale encadre les « établissements » ; ensemble, elles forment les deux rails de la gouvernance médicale taïwanaise, côté paiement et côté institutions
+- [Histoire des deux lois taïwanaises sur la médecine régénérative racontée par un professionnel du secteur](/fr/society/taiwan-regenerative-medicine-laws) — hors du périmètre des remboursements de l’assurance maladie, les deux lois sur la médecine régénérative adoptées en 2024 constituent une autre voie de gouvernance, à côté des procédures standard de l’assurance maladie
+- [Controverses autour des médicaments vétérinaires à Taïwan](/fr/society/taiwan-animal-drug-controversy) — l’assurance maladie couvre les humains, pas les animaux ; le débat sur les médicaments pour animaux de compagnie sert de groupe de comparaison au système d’assurance maladie
+- [Système de médecine de catastrophe à Taïwan](/fr/technology/taiwan-disaster-medicine-system) — l’assurance maladie soutient les soins ordinaires, le système de médecine de catastrophe soutient les périodes exceptionnelles ; les deux systèmes co-construisent les dimensions normale et d’urgence de la gouvernance médicale publique à Taïwan
 
 ---
 

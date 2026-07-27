@@ -358,7 +358,7 @@ Le moteur de la modernisation agricole taïwanaise a toujours été la pression 
 
 **Lectures complémentaires** :
 
-- [Crise climatique et transition vers le zéro émission nette à Taïwan](/nature/台灣氣候危機與淨零轉型) — Les effets du changement climatique sur l’agriculture et la pêche, ainsi que les conflits d’usage des terres suscités par les politiques d’agrivoltaïsme
+- [Crise climatique et transition vers le zéro émission nette à Taïwan](/fr/nature/taiwan-climate-change-net-zero-transition) — Les effets du changement climatique sur l’agriculture et la pêche, ainsi que les conflits d’usage des terres suscités par les politiques d’agrivoltaïsme
 
 ## Références
 

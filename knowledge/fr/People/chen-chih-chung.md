@@ -61,7 +61,7 @@ L'histoire de Chen Chih-chung, de l'aura de la « première famille » au statut
 
 **Pour aller plus loin :**
 
-- [Chen Shui-bian](/people/陳水扁) : d'un fils de famille paysanne pauvre au premier président élu de Taïwan, comment a-t-il réécrit l'histoire politique taïwanaise, et pourquoi s'est-il retrouvé derrière les barreaux ?
+- [Chen Shui-bian](/fr/people/chen-shui-bian-controversial-president) : d'un fils de famille paysanne pauvre au premier président élu de Taïwan, comment a-t-il réécrit l'histoire politique taïwanaise, et pourquoi s'est-il retrouvé derrière les barreaux ?
 - Réforme judiciaire à Taïwan : de l'affaire Chen à l'anti-corruption clause, comment la justice taïwanaise a-t-elle répondu aux attentes sociales et aux pressions politiques ?
 - Politique sociale : comment des plateformes comme Threads transforment-elles le mode de communication entre les politiciens taïwanais et les électeurs ?
 

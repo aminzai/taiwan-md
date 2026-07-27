@@ -182,12 +182,12 @@ C'est sa plus grande réussite, et aussi sa plus profonde limite.
 
 **Pour aller plus loin** :
 
-- [Han Kuo-yu](/people/韓國瑜) — Président des négociations sur les acquisitions militaires de 2026, acteur clé de la controverse sur les acquisitions impliquant Hsu Chiao-hsin ; le côté parlementaire de la structure binaire « président du parti — président du Yuan législatif » au sein du camp bleu
-- [Cheng Li-wen](/people/鄭麗文) — Présidente du parti lors de la même controverse sur les acquisitions militaires, maintenant fermement la ligne du parti de 380 milliards + N conjointement avec Fu Kun-chi, en confrontation avec la version de 800 milliards de Hsu Chiao-hsin
-- [Cho Jung-tai](/people/卓榮泰) — Principal promoteur du budget spécial d'acquisitions militaires de 1 250 milliards du Yuan exécutif, le cadrage adverse auquel la version de Hsu Chiao-hsin (800 milliards) devait répondre
-- [Lai Ching-te](/people/賴清德) — Directeur politique du budget d'acquisitions militaires de 1 250 milliards, l'interlocuteur récurrent de Hsu Chiao-hsin lors de ses interpellations au Yuan législatif
-- [Défense nationale et modernisation militaire de Taïwan](/society/台灣國防與軍事現代化) — Le contexte politique complet de la confrontation entre 800 milliards, 380 milliards + N et 1 250 milliards
-- [Hsiao Bi-khim](/people/蕭美琴) — Un autre prototype de femme politique dans la même structure politique, un chemin totalement opposé à celui de Hsu Chiao-hsin et la vision correspondante de Taïwan
+- [Han Kuo-yu](/fr/people/han-kuo-yu) — Président des négociations sur les acquisitions militaires de 2026, acteur clé de la controverse sur les acquisitions impliquant Hsu Chiao-hsin ; le côté parlementaire de la structure binaire « président du parti — président du Yuan législatif » au sein du camp bleu
+- [Cheng Li-wen](/fr/people/cheng-li-wun) — Présidente du parti lors de la même controverse sur les acquisitions militaires, maintenant fermement la ligne du parti de 380 milliards + N conjointement avec Fu Kun-chi, en confrontation avec la version de 800 milliards de Hsu Chiao-hsin
+- [Cho Jung-tai](/fr/people/cho-jung-tai) — Principal promoteur du budget spécial d'acquisitions militaires de 1 250 milliards du Yuan exécutif, le cadrage adverse auquel la version de Hsu Chiao-hsin (800 milliards) devait répondre
+- [Lai Ching-te](/fr/people/lai-ching-te) — Directeur politique du budget d'acquisitions militaires de 1 250 milliards, l'interlocuteur récurrent de Hsu Chiao-hsin lors de ses interpellations au Yuan législatif
+- [Défense nationale et modernisation militaire de Taïwan](/fr/society/taiwan-defense-modernization) — Le contexte politique complet de la confrontation entre 800 milliards, 380 milliards + N et 1 250 milliards
+- [Hsiao Bi-khim](/fr/people/hsiao-bi-khim) — Un autre prototype de femme politique dans la même structure politique, un chemin totalement opposé à celui de Hsu Chiao-hsin et la vision correspondante de Taïwan
 
 ## Références
 

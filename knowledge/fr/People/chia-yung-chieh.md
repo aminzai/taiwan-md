@@ -135,10 +135,10 @@ Ce qui mérite peut-être d'être retenu, c'est cette heure du matin où elle a 
 
 **Pour aller plus loin** :
 
-- [Lim Giong](/people/林強) — Figure culturelle taïwanaise ayant également accompli une transformation identitaire (de l'idole du rock taïwanais au pionnier de la musique de film), qui, comme Chia Yung-chieh, a redéfini la position que le marché lui avait assignée dans la seconde moitié de sa vie
-- [Tsai Ing-wen](/people/蔡英文) — L'autre bout du fil de l'appel « beauté à 120 % » de juin 2021 ; la collecte de HFNC a été une synchronisation rare entre deux systèmes de mobilisation, l'un civil et l'autre présidentiel
-- [Jay Chou](/people/周杰倫) — Un autre chemin de conversion de l'identité de célébrité en influence transsectorielle (musique → cinéma → marque → philanthropie), à lire en regard de la trajectoire « artiste vers gouvernance à capitaux publics » de Chia Yung-chieh
-- [Culture du bénévolat et engagement philanthropique à Taïwan](/society/台灣志工文化與公益參與) — Le substrat culturel de la mobilisation civile des HFNC en 2021 ; la tradition de liens horizontaux de la société civile taïwanaise lors d'événements majeurs
+- [Lim Giong](/fr/people/lim-giong) — Figure culturelle taïwanaise ayant également accompli une transformation identitaire (de l'idole du rock taïwanais au pionnier de la musique de film), qui, comme Chia Yung-chieh, a redéfini la position que le marché lui avait assignée dans la seconde moitié de sa vie
+- [Tsai Ing-wen](/fr/people/tsai-ing-wen) — L'autre bout du fil de l'appel « beauté à 120 % » de juin 2021 ; la collecte de HFNC a été une synchronisation rare entre deux systèmes de mobilisation, l'un civil et l'autre présidentiel
+- [Jay Chou](/fr/people/jay-chou) — Un autre chemin de conversion de l'identité de célébrité en influence transsectorielle (musique → cinéma → marque → philanthropie), à lire en regard de la trajectoire « artiste vers gouvernance à capitaux publics » de Chia Yung-chieh
+- [Culture du bénévolat et engagement philanthropique à Taïwan](/fr/society/volunteering-and-civic-charity-in-taiwan) — Le substrat culturel de la mobilisation civile des HFNC en 2021 ; la tradition de liens horizontaux de la société civile taïwanaise lors d'événements majeurs
 
 ## Références
 

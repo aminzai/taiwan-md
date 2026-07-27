@@ -1,11 +1,22 @@
 ---
 title: "Kuo Hsing-chun : de la blessure provoquée par 141 kg à un parcours d'haltérophile sur trois podiums olympiques"
-description: "Haltérophile taïwanaise, médaillée olympique à trois reprises (bronze en 2016, or en 2021, bronze en 2024), détentrice du record du monde des 59 kg, descendante de la communauté Malan du peuple Amis"
+description: 'Haltérophile taïwanaise, médaillée olympique à trois reprises (bronze en 2016, or en 2021, bronze en 2024), détentrice du record du monde des 59 kg, descendante de la communauté Malan du peuple Amis'
 date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '體育'
-tags: ['personnalité', 'Kuo Hsing-chun', 'haltérophilie', 'Jeux olympiques', 'médaille d’or', 'athlète', 'Taïwan', 'Amis', 'peuples autochtones']
+tags:
+  [
+    'personnalité',
+    'Kuo Hsing-chun',
+    'haltérophilie',
+    'Jeux olympiques',
+    'médaille d’or',
+    'athlète',
+    'Taïwan',
+    'Amis',
+    'peuples autochtones',
+  ]
 lastVerified: 2026-05-16
 lastHumanReview: true
 featured: false
@@ -96,11 +107,11 @@ Son arrière-grand-mère transmettait la culture par le chant ; elle le fait ave
 
 **Pour aller plus loin** :
 
-- [Tai Tzu-ying](/people/戴資穎) — autre figure centrale de la délégation taïwanaise aux Jeux de Tokyo, reine mondiale du badminton
-- [Yang Yung-wei](/people/楊勇緯) — médaillé d’argent en judo aux Jeux de Tokyo, première médaille olympique du judo taïwanais
-- [La paire Lin-Yang](/people/麟洋配) — médaille d’or du double masculin en badminton aux Jeux de Tokyo, l’histoire de Wang Chi-lin et Lee Yang
-- [Lee Yang](/people/李洋) — biographie personnelle d’un double champion olympique devenu premier ministre des Sports
-- [Lee Chih-kai](/people/李智凱) — médaille d’argent au cheval d’arçons aux Jeux de Tokyo, vingt ans de parcours pour le « garçon qui faisait des roulades »
+- [Tai Tzu-ying](/fr/people/tai-tzu-ying) — autre figure centrale de la délégation taïwanaise aux Jeux de Tokyo, reine mondiale du badminton
+- [Yang Yung-wei](/fr/people/yang-yung-wei-judo-olympic-silver) — médaillé d’argent en judo aux Jeux de Tokyo, première médaille olympique du judo taïwanais
+- [La paire Lin-Yang](/fr/people/lin-yang-duo-taiwan-badminton-champions) — médaille d’or du double masculin en badminton aux Jeux de Tokyo, l’histoire de Wang Chi-lin et Lee Yang
+- [Lee Yang](/fr/people/lee-yang-badminton) — biographie personnelle d’un double champion olympique devenu premier ministre des Sports
+- [Lee Chih-kai](/fr/people/li-chih-kai) — médaille d’argent au cheval d’arçons aux Jeux de Tokyo, vingt ans de parcours pour le « garçon qui faisait des roulades »
 
 ## Références
 

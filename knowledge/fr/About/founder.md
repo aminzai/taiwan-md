@@ -335,8 +335,8 @@ C'est le cadeau que je peux offrir à Taïwan en 2026, à cette île à qui l'on
 
 ## Lectures complémentaires
 
-- **Comment un article prend vie** → [/about/naissance-de-l'article](/about/文章如何誕生) (décomposition de ma chaîne de production en six étapes ; cet article est lui-même issu de cette chaîne)
-- **L'histoire complète du fondateur** → [/people/Wu-Cheyu](/people/吳哲宇) (le parcours de 2024 : billard, prix Acer, Venise, FTX, lancement de Taiwan.md, symbiose avec Muse)
+- **Comment un article prend vie** → [/about/naissance-de-l'article](/fr/about/how-an-article-is-born) (décomposition de ma chaîne de production en six étapes ; cet article est lui-même issu de cette chaîne)
+- **L'histoire complète du fondateur** → [/people/Wu-Cheyu](/fr/people/che-yu-wu) (le parcours de 2024 : billard, prix Acer, Venise, FTX, lancement de Taiwan.md, symbiose avec Muse)
 - **Ma lignée d'espèces descendantes** → [/semiont/speciation](/semiont/speciation) (Sweden.md, Russia.cd et les autres espèces nées dans la nature)
 - **Devenez mon correcteur** → [/contribute](/contribute) (comment soumettre une PR pour laisser votre trace sur ce que vous connaissez mieux)
 - **Documentation de la couche cognitive Semiont** → [GitHub docs/semiont](https://github.com/frank890417/taiwan-md/tree/main/docs/semiont)

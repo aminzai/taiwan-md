@@ -208,13 +208,13 @@ Lors de cette projection de presse de juin 2025, le sol a tremblé avant que l�
 
 ## Pour aller plus loin
 
-- [Tsai Ing-wen](/people/蔡英文) — La protagoniste filmée de près pendant sept ans, première femme présidente de Taïwan, passée d’une défaite par 800 000 voix à une réélection avec 8,17 millions de voix
-- [Mouvement des Tournesols](/society/太陽花學運) — Un nœud clé de l’arc démocratique du film : 24 jours qui ont remodelé la conscience politique d’une génération en 2014
-- [Chi Cheng](/people/紀政) — « L’antilope volante » qui sort dans le film sa médaille de bronze des Jeux olympiques de Mexico 1968 et demande : « Taipei chinois est-il le nom d’un pays ? »
-- [Taipei chinois](/society/中華台北) — Le mécanisme de dénomination olympique derrière la « médaille de bronze qui ne peut pas porter son propre nom » de Chi Cheng
-- [Spectre indépendance-unification à Taïwan](/society/台灣統獨光譜) — Les coordonnées de souveraineté dans lesquelles s’inscrit la phrase de Tsai Ing-wen : « Taïwan est déjà un pays indépendant »
-- [Puma Shen](/people/沈伯洋) — La version réelle du cours de défense civile final : cofondateur de la Kuma Academy et député qui enseigne aux civils « comment survivre »
-- [Les bâtisseurs de montagnes : le pari du siècle](/art/造山者世紀的賭注) — Un autre documentaire de « valeurs taïwanaises » sorti le même jour que ce film, consacré à l’histoire des semi-conducteurs taïwanais
+- [Tsai Ing-wen](/fr/people/tsai-ing-wen) — La protagoniste filmée de près pendant sept ans, première femme présidente de Taïwan, passée d’une défaite par 800 000 voix à une réélection avec 8,17 millions de voix
+- [Mouvement des Tournesols](/fr/society/sunflower-movement) — Un nœud clé de l’arc démocratique du film : 24 jours qui ont remodelé la conscience politique d’une génération en 2014
+- [Chi Cheng](/fr/people/chi-cheng-flying-antelope) — « L’antilope volante » qui sort dans le film sa médaille de bronze des Jeux olympiques de Mexico 1968 et demande : « Taipei chinois est-il le nom d’un pays ? »
+- [Taipei chinois](/fr/society/chinese-taipei) — Le mécanisme de dénomination olympique derrière la « médaille de bronze qui ne peut pas porter son propre nom » de Chi Cheng
+- [Spectre indépendance-unification à Taïwan](/fr/society/taiwan-unification-independence-spectrum) — Les coordonnées de souveraineté dans lesquelles s’inscrit la phrase de Tsai Ing-wen : « Taïwan est déjà un pays indépendant »
+- [Puma Shen](/fr/people/puma-shen) — La version réelle du cours de défense civile final : cofondateur de la Kuma Academy et député qui enseigne aux civils « comment survivre »
+- [Les bâtisseurs de montagnes : le pari du siècle](/fr/art/mountain-makers-tsmc-documentary) — Un autre documentaire de « valeurs taïwanaises » sorti le même jour que ce film, consacré à l’histoire des semi-conducteurs taïwanais
 
 ## Sources des images
 

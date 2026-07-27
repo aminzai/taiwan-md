@@ -172,16 +172,16 @@ Quarante‑et‑une ans, de la lettre d’adieu à la présidence du Contrôle a
 
 **Lectures complémentaires** :
 
-- [Événement du 228](/history/二二八事件) — Comment le traumatisme de 1947 est devenu le point de départ de la conscience démocratique taïwanaise
-- [Terreur blanche à Taïwan](/history/台灣白色恐怖) — Panorama des affaires politiques et des violations des droits humains pendant les trente‑huit ans de loi martiale
-- [Période de la loi martiale](/history/戒嚴時期) — Fondement juridique du plus long état d’urgence mondial et mécanismes de contrôle social
-- [Affaire de la Belle île](/history/美麗島事件) — Chronologie complète de l’incident de Kaohsiung 1979 et son impact historique
-- [Élections et partis politiques à Taïwan](/history/台灣選舉與政黨政治) — De l’« Congrès national à vie » aux quatre alternances, évolution du système électoral
-- [Résolution sur l’avenir de Taïwan](/history/臺灣前途決議文) — Document du DPP de 1999 qui ouvrit la voie à la première alternance en 2000
-- [Justice transformatrice à Taïwan](/history/台灣轉型正義) — Comment la société a confronté les traumatismes du régime autoritaire après la démocratisation
-- [Mouvement Sunflower](/society/太陽花學運) — Chronique complète de l’occupation du Parlement en 2014, du déclencheur de trente secondes à la désindustrialisation économique douze ans plus tard
-- [Réunion 2026 entre Zheng et Xi : dix minutes après dix ans](/society/2026鄭習會與國共十年再會) — Pourquoi l’AIT insiste sur le « dialogue avec les dirigeants élus » ? Les racines de ce principe résident dans cette histoire de démocratisation
-- [Jhou Zi‑yu](/people/周子瑜) — Vidéo d’excuse de 90 secondes la veille des élections de 2016, la note la plus lourde de la troisième alternance
+- [Événement du 228](/fr/history/228-incident) — Comment le traumatisme de 1947 est devenu le point de départ de la conscience démocratique taïwanaise
+- [Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — Panorama des affaires politiques et des violations des droits humains pendant les trente‑huit ans de loi martiale
+- [Période de la loi martiale](/fr/history/martial-law-era) — Fondement juridique du plus long état d’urgence mondial et mécanismes de contrôle social
+- [Affaire de la Belle île](/fr/history/kaohsiung-incident-formosa-incident) — Chronologie complète de l’incident de Kaohsiung 1979 et son impact historique
+- [Élections et partis politiques à Taïwan](/fr/history/taiwan-elections-and-party-politics) — De l’« Congrès national à vie » aux quatre alternances, évolution du système électoral
+- [Résolution sur l’avenir de Taïwan](/fr/history/resolution-on-taiwans-future) — Document du DPP de 1999 qui ouvrit la voie à la première alternance en 2000
+- [Justice transformatrice à Taïwan](/fr/history/taiwan-transitional-justice) — Comment la société a confronté les traumatismes du régime autoritaire après la démocratisation
+- [Mouvement Sunflower](/fr/society/sunflower-movement) — Chronique complète de l’occupation du Parlement en 2014, du déclencheur de trente secondes à la désindustrialisation économique douze ans plus tard
+- [Réunion 2026 entre Zheng et Xi : dix minutes après dix ans](/fr/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Pourquoi l’AIT insiste sur le « dialogue avec les dirigeants élus » ? Les racines de ce principe résident dans cette histoire de démocratisation
+- [Jhou Zi‑yu](/fr/people/tzuyu) — Vidéo d’excuse de 90 secondes la veille des élections de 2016, la note la plus lourde de la troisième alternance
 
 ## Références
 

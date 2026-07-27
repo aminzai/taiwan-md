@@ -188,9 +188,9 @@ Comment maintenir la qualité et la compétitivité de l'éducation tout en cré
 
 **Pour aller plus loin :**
 
-- [L'éducation en milieu rural à Taïwan](/society/台灣偏鄉教育) — Pour avoir une vision d'ensemble des inégalités éducatives, de l'enfant à l'école, de la famille à la communauté et à la société.
-- [Teach For Taiwan (TFT)](/society/為台灣而教TFT) — Cet article se concentre sur une organisation qui répond concrètement aux disparités éducatives en milieu rural, en complétant les perspectives des acteurs et les controverses.
-- [La crise du déclin démographique à Taïwan](/society/台灣少子化危機) — Au-delà du système d'examens et de la culture de la compétition, le déclin du taux de natalité est en train de réécrire la survie des écoles et la répartition des ressources éducatives.
+- [L'éducation en milieu rural à Taïwan](/fr/society/taiwan-rural-education) — Pour avoir une vision d'ensemble des inégalités éducatives, de l'enfant à l'école, de la famille à la communauté et à la société.
+- [Teach For Taiwan (TFT)](/fr/society/teach-for-taiwan) — Cet article se concentre sur une organisation qui répond concrètement aux disparités éducatives en milieu rural, en complétant les perspectives des acteurs et les controverses.
+- [La crise du déclin démographique à Taïwan](/fr/society/taiwan-low-birth-rate-crisis) — Au-delà du système d'examens et de la culture de la compétition, le déclin du taux de natalité est en train de réécrire la survie des écoles et la répartition des ressources éducatives.
 - [Za School (雜學校)](society/雜學校) — Une fête de l'éducation alternative née après le mouvement étudiant du 18 mars, offrant un espace concret d'imagination en dehors du système centré sur les examens d'entrée.
 
 [^1]: Département des statistiques du ministère de l'Éducation, « Statistiques d'accès à l'enseignement supérieur », https://stats.moe.gov.tw/

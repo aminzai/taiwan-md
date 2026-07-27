@@ -216,11 +216,11 @@ Reconnaître l'hétérogénéité interne de Taïwan sert à voir clairement le 
 
 ## Pour aller plus loin
 
-- [Taipei](/geography/台北市) — la ville la plus dense de Taïwan, avec 8 975 habitants par kilomètre carré, et aussi la plus âgée parmi les six municipalités spéciales, avec un indice de vieillissement de 202 ; le même protagoniste aux deux extrémités de cet article, densité et vieillissement.
-- [Comté de Taitung](/geography/台東縣) — l'extrémité la moins dense de Taïwan, avec 59 habitants par kilomètre carré ; deux îles périphériques y portent le coût d'une île entière.
-- [Comté de Chiayi](/geography/嘉義縣) — l'indice de vieillissement le plus élevé de Taïwan, 291,69 ; près de trois personnes âgées pour chaque enfant, représentant du front du vieillissement dans les comtés agricoles.
-- [Comté de Hsinchu](/geography/新竹縣) — le territoire le plus jeune de Taïwan, avec un taux de vieillissement de 15,08 % ; la partie de la carte démographique que le parc scientifique de Hsinchu tire vers la jeunesse.
-- [Crise de la faible natalité à Taïwan](/society/台灣少子化危機) — le versant des naissances dans ce portrait : nouveau-nés sous les 110 000 et une île entière où les décès dépassent les naissances.
+- [Taipei](/fr/geography/taipei-city) — la ville la plus dense de Taïwan, avec 8 975 habitants par kilomètre carré, et aussi la plus âgée parmi les six municipalités spéciales, avec un indice de vieillissement de 202 ; le même protagoniste aux deux extrémités de cet article, densité et vieillissement.
+- [Comté de Taitung](/fr/geography/taitung-county) — l'extrémité la moins dense de Taïwan, avec 59 habitants par kilomètre carré ; deux îles périphériques y portent le coût d'une île entière.
+- [Comté de Chiayi](/fr/geography/chiayi-county) — l'indice de vieillissement le plus élevé de Taïwan, 291,69 ; près de trois personnes âgées pour chaque enfant, représentant du front du vieillissement dans les comtés agricoles.
+- [Comté de Hsinchu](/fr/geography/hsinchu-county) — le territoire le plus jeune de Taïwan, avec un taux de vieillissement de 15,08 % ; la partie de la carte démographique que le parc scientifique de Hsinchu tire vers la jeunesse.
+- [Crise de la faible natalité à Taïwan](/fr/society/taiwan-low-birth-rate-crisis) — le versant des naissances dans ce portrait : nouveau-nés sous les 110 000 et une île entière où les décès dépassent les naissances.
 
 ## Sources des images
 

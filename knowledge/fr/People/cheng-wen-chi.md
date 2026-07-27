@@ -138,11 +138,11 @@ L'accumulation de 12 ans d'une plateforme périphérique est plus importante que
 
 ## Pour aller plus loin
 
-- [Commissaires d'exposition taïwanais et construction artistique et culturelle](/art/台灣策展人與藝術文化建構) — Développement discursif et tendances de la génération de commissaires taïwanais dont Kao Sen-nan (conseiller éditorial de NML)
-- [Art numérique taïwanais](/art/台灣新媒體藝術) — Quarante ans d'histoire de l'art numérique, de la vidéo de Yuan Guangming à la VR et à l'art génératif, la trajectoire critique de Cheng Wen-chi étant parallèle à ce fil conducteur
-- [Paysage sonore taïwanais](/music/台灣聲音地景) — Artistes sonores comme Wang Fu-jui, Yao Chung-han et Chang Yung-da, dont la plupart des œuvres ont été profondément critiquées dans la catégorie « Sound Scene » de « No Man's Land »
-- [Art contemporain](/art/當代藝術) — Vue d'ensemble de l'écosystème global de l'art contemporain taïwanais ; une fois complétée par le cadre de l'archipel de Cheng Wen-chi, la carte discursive complète apparaît
-- [Art contemporain autochtone taïwanais](/art/台灣原住民當代藝術) — Un domaine moins abordé par NML ; la lecture peut être mise en regard avec l'« hypothèse du foyer austronésien » et les intersections potentielles avec le cadre de l'archipel
+- [Commissaires d'exposition taïwanais et construction artistique et culturelle](/fr/art/taiwanese-curators-and-artistic-cultural-construction) — Développement discursif et tendances de la génération de commissaires taïwanais dont Kao Sen-nan (conseiller éditorial de NML)
+- [Art numérique taïwanais](/fr/art/taiwan-new-media-art) — Quarante ans d'histoire de l'art numérique, de la vidéo de Yuan Guangming à la VR et à l'art génératif, la trajectoire critique de Cheng Wen-chi étant parallèle à ce fil conducteur
+- [Paysage sonore taïwanais](/fr/music/taiwan-soundscape) — Artistes sonores comme Wang Fu-jui, Yao Chung-han et Chang Yung-da, dont la plupart des œuvres ont été profondément critiquées dans la catégorie « Sound Scene » de « No Man's Land »
+- [Art contemporain](/fr/art/contemporary-art) — Vue d'ensemble de l'écosystème global de l'art contemporain taïwanais ; une fois complétée par le cadre de l'archipel de Cheng Wen-chi, la carte discursive complète apparaît
+- [Art contemporain autochtone taïwanais](/fr/art/contemporary-indigenous-art-taiwan) — Un domaine moins abordé par NML ; la lecture peut être mise en regard avec l'« hypothèse du foyer austronésien » et les intersections potentielles avec le cadre de l'archipel
 
 ## Références
 

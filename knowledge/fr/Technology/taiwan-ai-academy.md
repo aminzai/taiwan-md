@@ -299,9 +299,9 @@ Cet appel resté inachevé a laissé un projet inaccompli, et dix mille personne
 
 **Pour aller plus loin** :
 
-- [L’essor d’une île IA : développement de l’intelligence artificielle à Taïwan et stratégies d’avenir](/technology/AI發展) — récit panoramique de l’architecture des politiques d’IA de Taïwan, de son déploiement industriel, de ses cinq grands domaines stratégiques et de sa coopération internationale
-- [L’IA dans le quotidien taïwanais](/technology/台灣AI日常) — mise en pratique de l’IA dans les scènes quotidiennes de Taïwan : supérettes, hôpitaux, champs agricoles, salles de classe
-- [L’industrie des semi-conducteurs](/technology/半導體產業) — comment les ingénieurs IA formés par l’AIA en huit ans se reconnectent à l’écosystème ICT existant d’une puissance des semi-conducteurs
+- [L’essor d’une île IA : développement de l’intelligence artificielle à Taïwan et stratégies d’avenir](/fr/technology/ai-development-in-taiwan) — récit panoramique de l’architecture des politiques d’IA de Taïwan, de son déploiement industriel, de ses cinq grands domaines stratégiques et de sa coopération internationale
+- [L’IA dans le quotidien taïwanais](/fr/technology/taiwan-ai-in-daily-life) — mise en pratique de l’IA dans les scènes quotidiennes de Taïwan : supérettes, hôpitaux, champs agricoles, salles de classe
+- [L’industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — comment les ingénieurs IA formés par l’AIA en huit ans se reconnectent à l’écosystème ICT existant d’une puissance des semi-conducteurs
 
 ## Sources des images
 

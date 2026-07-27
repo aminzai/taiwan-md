@@ -96,6 +96,6 @@ La question de la durabilité de l'économie nocturne fait également l'objet de
 
 ## Pour aller plus loin
 
-- [Système de transport taïwan](/lifestyle/台灣交通系統) — Comment les transports nocturnes soutiennent la vie nocturne
-- [Culture de la conveniencerie taïwanaise](/lifestyle/台灣便利商店文化) — Le lien entre les convenienceries 24 h/24 et la culture de la ville qui ne dort jamais
-- [Croyances religieuses à Taïwan](/culture/台灣宗教與寺廟文化) — Fêtes nocturnes au temple et vie nocturne des festivals traditionnels
+- [Système de transport taïwan](/fr/lifestyle/transportation-system) — Comment les transports nocturnes soutiennent la vie nocturne
+- [Culture de la conveniencerie taïwanaise](/fr/lifestyle/convenience-store-culture) — Le lien entre les convenienceries 24 h/24 et la culture de la ville qui ne dort jamais
+- [Croyances religieuses à Taïwan](/fr/culture/taiwan-religion-and-temple-culture) — Fêtes nocturnes au temple et vie nocturne des festivals traditionnels

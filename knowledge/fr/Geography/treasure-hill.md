@@ -212,12 +212,12 @@ Treasure Hill n’a pas été démoli parce qu’assez de personnes ont refusé 
 
 **Pour aller plus loin** :
 
-- [Taipei : trois temporalités dans une ville, le temple Longshan de 1738 regardant Taipei 101 en 2004](/geography/台北市) — la place de Treasure Hill parmi les 12 districts, mise en parallèle avec les trois lignes temporelles de Bangka, Dadaocheng et Xinyi
-- [Développement des parcs culturels et créatifs de Taïwan](/culture/台灣文化創意園區發展) — Treasure Hill à lire avec des études de cas taïwanaises telles que Si Si Nan Cun, Huashan et Songshan, où des « villages de dépendants militaires / sites industriels » deviennent des lieux culturels et créatifs
-- [Dadaocheng : 800 mètres contenant trois siècles de Taipei](/geography/大稻埕) — quartier historique frère du même batch 1 ; la rue commerçante du thé de 1851 et le village informel des années 1960 correspondent à deux moments de formation urbaine entièrement différents
-- [Bangka : le lieu le plus animé du Taipei des Qing](/geography/艋舺) — sibling du même batch 1 ; le paysage religieux Qing du temple Longshan de 1738 et le temple de Guanyin de Treasure Hill de 1791 sont deux centres religieux contemporains des immigrants de Zhangzhou et Quanzhou
-- [Ximending : la rue de divertissement construite par les Japonais en 1896](/geography/西門町) — sibling du même batch 1 ; quartier de divertissement planifié pendant la période japonaise contre village d’après-guerre autoconstruisant sans permis, deux contrastes autour des « personnes invisibles à l’urbanisme »
-- [Gongguan](/geography/公館) — à 800 mètres au nord, le cercle de consommation des chercheurs et étudiants, et le village informel de Treasure Hill, deux écologies spatiales totalement différentes autour de l’Université nationale de Taïwan
+- [Taipei : trois temporalités dans une ville, le temple Longshan de 1738 regardant Taipei 101 en 2004](/fr/geography/taipei-city) — la place de Treasure Hill parmi les 12 districts, mise en parallèle avec les trois lignes temporelles de Bangka, Dadaocheng et Xinyi
+- [Développement des parcs culturels et créatifs de Taïwan](/fr/culture/taiwan-cultural-creative-park-development) — Treasure Hill à lire avec des études de cas taïwanaises telles que Si Si Nan Cun, Huashan et Songshan, où des « villages de dépendants militaires / sites industriels » deviennent des lieux culturels et créatifs
+- [Dadaocheng : 800 mètres contenant trois siècles de Taipei](/fr/geography/dadaocheng) — quartier historique frère du même batch 1 ; la rue commerçante du thé de 1851 et le village informel des années 1960 correspondent à deux moments de formation urbaine entièrement différents
+- [Bangka : le lieu le plus animé du Taipei des Qing](/fr/geography/bangka) — sibling du même batch 1 ; le paysage religieux Qing du temple Longshan de 1738 et le temple de Guanyin de Treasure Hill de 1791 sont deux centres religieux contemporains des immigrants de Zhangzhou et Quanzhou
+- [Ximending : la rue de divertissement construite par les Japonais en 1896](/fr/geography/ximending) — sibling du même batch 1 ; quartier de divertissement planifié pendant la période japonaise contre village d’après-guerre autoconstruisant sans permis, deux contrastes autour des « personnes invisibles à l’urbanisme »
+- [Gongguan](/fr/geography/gongguan) — à 800 mètres au nord, le cercle de consommation des chercheurs et étudiants, et le village informel de Treasure Hill, deux écologies spatiales totalement différentes autour de l’Université nationale de Taïwan
 
 ## Sources des images
 

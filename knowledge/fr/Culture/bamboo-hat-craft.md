@@ -125,9 +125,9 @@ Vieillissement des artisans, contraction du marché, rupture des matières premi
 
 ## Lectures complémentaires
 
-- [Tissu fleuri taïwanais](/culture/台灣花布) — un autre artisanat « étiqueté hakka » dans les années 1990, alors qu’il repose sur des strates de mémoire vécue partagées par différents groupes
-- [Culture du thé à Taïwan](/culture/台灣茶文化) — la diminution du nombre de cueilleurs de thé a directement retiré au douli son débouché marchand
-- [Carte culturelle des 16 peuples autochtones de Taïwan](/culture/台灣原住民族16族文化地圖) — les chapeaux de jonc de Yuanli ont pour origine des femmes pingpu, non des Han
+- [Tissu fleuri taïwanais](/fr/culture/taiwan-floral-fabric) — un autre artisanat « étiqueté hakka » dans les années 1990, alors qu’il repose sur des strates de mémoire vécue partagées par différents groupes
+- [Culture du thé à Taïwan](/fr/culture/taiwanese-tea-culture-and-living-aesthetics) — la diminution du nombre de cueilleurs de thé a directement retiré au douli son débouché marchand
+- [Carte culturelle des 16 peuples autochtones de Taïwan](/fr/culture/indigenous-peoples-16-tribes-cultural-map) — les chapeaux de jonc de Yuanli ont pour origine des femmes pingpu, non des Han
 
 ## Références
 

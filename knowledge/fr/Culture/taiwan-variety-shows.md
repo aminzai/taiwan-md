@@ -107,7 +107,7 @@ Si _Stars Parade_ en 1962 a fait entrer le music-hall dans le salon, la variét�
 
 ## Pour aller plus loin
 
-- [Yoga Lin](/people/林宥嘉) — Vainqueur de la première saison de _Super Star Avenue_ (超級星光大道) en 2007, l'un des cas les plus emblématiques du mécanisme de fabrication de stars par la télévision taïwanaise
+- [Yoga Lin](/fr/people/yoga-lin) — Vainqueur de la première saison de _Super Star Avenue_ (超級星光大道) en 2007, l'un des cas les plus emblématiques du mécanisme de fabrication de stars par la télévision taïwanaise
 
 ## Références
 

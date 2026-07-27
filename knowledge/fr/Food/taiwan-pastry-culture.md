@@ -135,12 +135,12 @@ Le temps contenu dans un gâteau est bien plus long que vous ne le pensez.
 
 ## Pour aller plus loin
 
-- [Gâteau soleil](/food/太陽餅) — Histoire approfondie d'un produit unique : le gâteau au malt de la pâtisserie Kunpai à Shenkang, perfectionné par Maître A-Ming Wei Qinghai
-- [Pâtisserie à l'ananas](/food/鳳梨酥) — Quatre-vingts ans d'évolution, du grand gâteau d'ananas de Yifutang sous l'ère japonaise à la révolution du carré
-- [Boulangerie et pâtisserie à Taïwan](/food/台灣麵包與烘焙) — De Wu Baochun à Chen Yaoxun, l'histoire des boulangers taïwanais sur la scène mondiale
-- [Culture alimentaire du riz à Taïwan](/food/台灣米食文化) — Le riz et les pâtisseries sont les deux fils conducteurs de la même table ; comprendre le riz, c'est comprendre la place des gâteaux
-- [Rites de mariage, funérailles et célébrations à Taïwan](/culture/台灣婚喪喜慶與人生禮俗) — Le rôle concret des coffrets de gâteaux de mariage dans les six rites et douze présents
-- [Culture du thé à Taïwan](/culture/台灣茶文化) — Les gâteaux han et le thé sont un duo centenaire ; la pâtisserie « œil de phénix » de Yuzhenzhai était à l'origine dégustée avec le thé
+- [Gâteau soleil](/fr/food/sun-cake) — Histoire approfondie d'un produit unique : le gâteau au malt de la pâtisserie Kunpai à Shenkang, perfectionné par Maître A-Ming Wei Qinghai
+- [Pâtisserie à l'ananas](/fr/food/pineapple-cake) — Quatre-vingts ans d'évolution, du grand gâteau d'ananas de Yifutang sous l'ère japonaise à la révolution du carré
+- [Boulangerie et pâtisserie à Taïwan](/fr/food/taiwan-bread-and-baking) — De Wu Baochun à Chen Yaoxun, l'histoire des boulangers taïwanais sur la scène mondiale
+- [Culture alimentaire du riz à Taïwan](/fr/food/taiwan-rice-cuisine-culture) — Le riz et les pâtisseries sont les deux fils conducteurs de la même table ; comprendre le riz, c'est comprendre la place des gâteaux
+- [Rites de mariage, funérailles et célébrations à Taïwan](/fr/culture/taiwanese-life-ceremony-traditions) — Le rôle concret des coffrets de gâteaux de mariage dans les six rites et douze présents
+- [Culture du thé à Taïwan](/fr/culture/taiwanese-tea-culture-and-living-aesthetics) — Les gâteaux han et le thé sont un duo centenaire ; la pâtisserie « œil de phénix » de Yuzhenzhai était à l'origine dégustée avec le thé
 
 ## Références
 

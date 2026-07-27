@@ -252,12 +252,12 @@ L'Association du paysage sonore de Taïwan, en collaboration avec le ministère 
 
 **Pour aller plus loin** :
 
-- [Paysage sonore de Taïwan](/culture/台灣聲景) — Article sœur : les mêmes sons, revisités sous l'angle de « comment nous écoutons », avec des matériaux co-créés par les chercheurs en paysage sonore.
+- [Paysage sonore de Taïwan](/fr/culture/taiwan-soundscape) — Article sœur : les mêmes sons, revisités sous l'angle de « comment nous écoutons », avec des matériaux co-créés par les chercheurs en paysage sonore.
 - [🎧 Projet d'enregistrement du paysage sonore de Taïwan](/soundscape) — Version audio de cet article : 21 enregistrements de terrain (camions poubelles, temples, MRT, sons naturels) en ligne. Bienvenue à contribuer avec vos propres enregistrements.
-- [Wang Furu](/people/王福瑞) — Fondateur en 1993 du premier label de musique expérimentale de Taïwan, NOISE. Il est la source de la lignée de Wang Furu, Yao Zhonghan et Zhang Yongda mentionnée dans la section « Art sonore ».
-- [Traditions musicales autochtones de Taïwan](/music/台灣原住民音樂傳統) — Le chant polyphonique en huit parties des Bunun, la harpe de bouche des Paiwan, etc. constituent la couche la plus ancienne du paysage sonore de Taïwan.
-- [Culture du KTV à Taïwan](/music/台灣KTV文化) — Des salles de spectacle aux cabines privées, le KTV est l'une des sources sonores artificielles les plus courantes de la nuit taïwanaise. Les rires et chants fuyant des cabines de cinq personnes créent une empreinte sonore unique de la nuit taïwanaise.
-- [Développement du hip-hop et du rap à Taïwan](/music/台灣嘻哈與饒舌發展) — Des sous-sols urbains aux classements de KKBOX, la texture sonore du rap a modifié les couches du paysage sonore de la musique pop taïwanaise.
+- [Wang Furu](/fr/people/fujui-wang) — Fondateur en 1993 du premier label de musique expérimentale de Taïwan, NOISE. Il est la source de la lignée de Wang Furu, Yao Zhonghan et Zhang Yongda mentionnée dans la section « Art sonore ».
+- [Traditions musicales autochtones de Taïwan](/fr/music/indigenous-music-traditions) — Le chant polyphonique en huit parties des Bunun, la harpe de bouche des Paiwan, etc. constituent la couche la plus ancienne du paysage sonore de Taïwan.
+- [Culture du KTV à Taïwan](/fr/music/ktv-culture) — Des salles de spectacle aux cabines privées, le KTV est l'une des sources sonores artificielles les plus courantes de la nuit taïwanaise. Les rires et chants fuyant des cabines de cinq personnes créent une empreinte sonore unique de la nuit taïwanaise.
+- [Développement du hip-hop et du rap à Taïwan](/fr/music/taiwan-hip-hop-and-rap) — Des sous-sols urbains aux classements de KKBOX, la texture sonore du rap a modifié les couches du paysage sonore de la musique pop taïwanaise.
 
 ---
 

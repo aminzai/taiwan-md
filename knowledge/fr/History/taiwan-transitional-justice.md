@@ -179,10 +179,10 @@ Mais l'histoire de Cheng Nan-jung nous rappelle que ce chemin est bien plus long
 
 **Pour aller plus loin :**
 
-- [Musée national des droits de l'homme](/history/國家人權博物館) — musée créé par l'État pour commémorer les victimes de persécutions politiques, inauguré en 2018, budget gelé en 2025
-- [La Terreur blanche à Taïwan](/history/台灣白色恐怖) — le fond historique visé par l'annulation des condamnations
-- [La loi martiale à Taïwan](/history/戒嚴時期) — contenant juridique de 1949 à 1987
-- [L'Incident du 28 Février](/history/二二八事件) — la répression de 1947 dans le Taïwan de l'après-guerre, autre ligne de travail de la justice transitionnelle
+- [Musée national des droits de l'homme](/fr/history/national-human-rights-museum) — musée créé par l'État pour commémorer les victimes de persécutions politiques, inauguré en 2018, budget gelé en 2025
+- [La Terreur blanche à Taïwan](/fr/history/taiwan-white-terror) — le fond historique visé par l'annulation des condamnations
+- [La loi martiale à Taïwan](/fr/history/martial-law-era) — contenant juridique de 1949 à 1987
+- [L'Incident du 28 Février](/fr/history/228-incident) — la répression de 1947 dans le Taïwan de l'après-guerre, autre ligne de travail de la justice transitionnelle
 
 ## Références
 

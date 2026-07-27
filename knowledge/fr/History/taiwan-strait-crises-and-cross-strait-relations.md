@@ -139,13 +139,13 @@ Les éclats d’obus des tunnels de granit ont été récupérés par des forger
 
 **Lectures complémentaires** :
 
-- [造山者：世紀的賭注](/art/造山者世紀的賭注) — Xiao Ju‑zheng, documentaire 2025, interviews de plus de 80 pionniers des semi‑conducteurs, 2026 visite des pôles d’investissement CHIPS Act aux États‑Unis
-- [Défense et modernisation militaire de Taïwan](/society/台灣國防與軍事現代化) — De la stratégie « Porc‑épine » aux chars M1A2T, les transformations fondamentales après trois crises du détroit
-- [Les pays diplomatiques de Taïwan et la diplomatie internationale](/society/台灣邦交國與國際外交) — Au‑delà de la confrontation militaire, une autre ligne de front : comment Taïwan cherche sa place dans le système international
-- [Rencontre 2026 entre Zheng Xi et Xi Jinping](/society/2026鄭習會與國共十年再會) — Le dernier chapitre de soixante‑dix ans d’interaction inter‑détroit : le président du KMT rencontre Xi à Pékin pendant dix minutes
-- [Ma Ying-jeou](/people/馬英九) — La poignée de main de 80 secondes à Singapour le 7/11/2015, la signature de l’ECFA, les deux voyages en Chine en 2023 et 2024 : un dirigeant de la période dorée des relations inter‑détroit et les controverses post‑mandat
-- [Teresa Teng](/people/鄧麗君) — Un autre champ de bataille du soft power pendant la Guerre froide : sa voix a traversé le continent, 1989 elle porte un badge « anti‑régime militaire », 1991 elle crie depuis le poste d’observation de Ma Shan
-- [Résolution sur l’avenir de Taïwan](/history/臺灣前途決議文) — La crise de 1996 a accéléré la transformation pragmatique du DPP ; trois ans plus tard, elle a engendré ce document définissant la position inter‑détroit pendant vingt‑sept ans
+- [造山者：世紀的賭注](/fr/art/mountain-makers-tsmc-documentary) — Xiao Ju‑zheng, documentaire 2025, interviews de plus de 80 pionniers des semi‑conducteurs, 2026 visite des pôles d’investissement CHIPS Act aux États‑Unis
+- [Défense et modernisation militaire de Taïwan](/fr/society/taiwan-defense-modernization) — De la stratégie « Porc‑épine » aux chars M1A2T, les transformations fondamentales après trois crises du détroit
+- [Les pays diplomatiques de Taïwan et la diplomatie internationale](/fr/society/taiwan-diplomatic-allies-and-international-relations) — Au‑delà de la confrontation militaire, une autre ligne de front : comment Taïwan cherche sa place dans le système international
+- [Rencontre 2026 entre Zheng Xi et Xi Jinping](/fr/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Le dernier chapitre de soixante‑dix ans d’interaction inter‑détroit : le président du KMT rencontre Xi à Pékin pendant dix minutes
+- [Ma Ying-jeou](/fr/people/ma-ying-jeou-cross-strait-reconciliation-leader) — La poignée de main de 80 secondes à Singapour le 7/11/2015, la signature de l’ECFA, les deux voyages en Chine en 2023 et 2024 : un dirigeant de la période dorée des relations inter‑détroit et les controverses post‑mandat
+- [Teresa Teng](/fr/people/teresa-teng) — Un autre champ de bataille du soft power pendant la Guerre froide : sa voix a traversé le continent, 1989 elle porte un badge « anti‑régime militaire », 1991 elle crie depuis le poste d’observation de Ma Shan
+- [Résolution sur l’avenir de Taïwan](/fr/history/resolution-on-taiwans-future) — La crise de 1996 a accéléré la transformation pragmatique du DPP ; trois ans plus tard, elle a engendré ce document définissant la position inter‑détroit pendant vingt‑sept ans
 
 ## Références
 

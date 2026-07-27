@@ -58,7 +58,7 @@ L'« entraide entre voisins » était une autre caractéristique de la cuisine d
 
 ## L'origine villageoise de la soupe de nouilles au bœuf braisé : Gangshan à Kaohsiung et la pâte de fèves Mingde
 
-Lorsqu'on parle de la cuisine des villages militaires, on ne peut passer sous silence la [soupe de nouilles au bœuf](/fr/Food/beef-noodle-soup/). Bien que ce plat soit désormais considéré comme un plat national taïwanais, son origine remonte effectivement à la culture des villages militaires, et plus précisément au **village militaire de l'armée de l'air de Gangshan à Kaohsiung dans les années 1950**.[^7]
+Lorsqu'on parle de la cuisine des villages militaires, on ne peut passer sous silence la [soupe de nouilles au bœuf](/fr/food/beef-noodle-soup/). Bien que ce plat soit désormais considéré comme un plat national taïwanais, son origine remonte effectivement à la culture des villages militaires, et plus précisément au **village militaire de l'armée de l'air de Gangshan à Kaohsiung dans les années 1950**.[^7]
 
 Le point de départ est le sergent de l'armée de l'air **Liu Mingde (劉明德)**. Arrivé à Taïwan avec l'armée en 1948, il est démobilisé en 1950 et s'installe dans le village de Gangshan. Pour gagner sa vie, il se souvient de l'art de la fabrication de la pâte de fèves fermentées appris pendant ses campagnes militaires et, avec ses maigres économies, achète des matières premières pour commencer à produire de la pâte de fèves fermentées pimentée et de la pâte sucrée dans le goût de sa région. La **« pâte de fèves Mingde » (明德豆瓣醬)** devient un condiment emblématique à l'intérieur et à l'extérieur du village de Gangshan, fournissant involontairement la base aromatique la plus cruciale de la soupe de nouilles au bœuf braisé au goût du Sichuan.[^6]
 

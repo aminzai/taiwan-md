@@ -292,7 +292,7 @@ L'auteur de cette histoire reste chaque Taïwanais.
 
 **Pour aller plus loin** :
 
-- [La facture : ce bout de papier de 1951 qui transforma tout le monde en agent du fisc](/economy/發票) — La facture unifiée fut une infrastructure fiscale clé parallèle au miracle économique ; dès sa première année en 1951, elle fit bondir les recettes de la taxe sur le chiffre d'affaires de 75 %
+- [La facture : ce bout de papier de 1951 qui transforma tout le monde en agent du fisc](/fr/economy/taiwan-uniform-invoice) — La facture unifiée fut une infrastructure fiscale clé parallèle au miracle économique ; dès sa première année en 1951, elle fit bondir les recettes de la taxe sur le chiffre d'affaires de 75 %
 
 ## Références
 

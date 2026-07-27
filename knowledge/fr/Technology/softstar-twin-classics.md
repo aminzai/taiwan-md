@@ -248,11 +248,11 @@ Cette fenêtre DOS s'est fermée il y a trente ans. Mais cet après-midi est tou
 
 ## Pour aller plus loin
 
-- [Industrie du jeu vidéo taïwanais et divertissement numérique](/technology/台灣遊戲產業與數位娛樂) — De l'agence à la création originale, panorama de l'industrie du jeu vidéo taïwanaise
-- [L'esprit open source taïwanais](/technology/台灣開源精神) — Une autre histoire taïwanaise de « passion accomplissant ce que la taille ne permet pas »
-- [不入地窖焉能睡覺](/technology/不入地窖焉能睡覺) — La communauté de jeux vidéo taïwanaise de la même époque, des BBS à une plateforme de 6 millions de membres
-- [Les moments de folie des joueurs taïwanais](/technology/台灣玩家的瘋狂時刻) — Après les Deux Épées de Softstar, l'histoire des passions collectives continues des joueurs taïwanais
-- [Rayark](/technology/雷亞遊戲) — La génération suivante de studios de jeux taïwanais, partageant avec Softstar l'idée de « fonder une nation sur l'esthétique » mais empruntant un chemin radicalement différent
+- [Industrie du jeu vidéo taïwanais et divertissement numérique](/fr/technology/taiwan-gaming-industry) — De l'agence à la création originale, panorama de l'industrie du jeu vidéo taïwanaise
+- [L'esprit open source taïwanais](/fr/technology/taiwan-open-source-spirit) — Une autre histoire taïwanaise de « passion accomplissant ce que la taille ne permet pas »
+- [不入地窖焉能睡覺](/fr/technology/into-the-cellar-taiwan-game-podcast) — La communauté de jeux vidéo taïwanaise de la même époque, des BBS à une plateforme de 6 millions de membres
+- [Les moments de folie des joueurs taïwanais](/fr/technology/taiwan-gamers-wildest-moments) — Après les Deux Épées de Softstar, l'histoire des passions collectives continues des joueurs taïwanais
+- [Rayark](/fr/technology/rayark-games) — La génération suivante de studios de jeux taïwanais, partageant avec Softstar l'idée de « fonder une nation sur l'esthétique » mais empruntant un chemin radicalement différent
 
 ---
 

@@ -239,11 +239,11 @@ Le documentaire s’intitule More Real than Dreams. Le chemin parcouru par ces t
 
 ## Lectures complémentaires
 
-- [Sorry Youth](/Music/拍謝少年) — autre groupe contemporain originaire du sud, qui se définit par la langue, mais qui a choisi le taïwanais et la voix
-- [Fire EX.](/Music/滅火器樂團) — groupe frère de Kaohsiung, autre formation kaohsiungaise présente à la même édition de Fuji Rock en 2022
-- [Sunset Rollercoaster](/Music/落日飛車) — représentant de la même génération d’indie taïwanais exporté, avec une texture city pop souple et des chansons en anglais, formant avec la voie instrumentale et technique d’Elephant Gym deux trajectoires contrastées
-- [Histoire du développement du rock taïwanais](/Music/台灣搖滾樂發展史) — contexte allant de Wu Bai et Mayday à la génération post-Sunset Rollercoaster
-- [Musique indépendante taïwanaise](/Music/台灣獨立音樂) — scène indie et écologie des labels à Taïwan
+- [Sorry Youth](/fr/music/sorry-youth-band) — autre groupe contemporain originaire du sud, qui se définit par la langue, mais qui a choisi le taïwanais et la voix
+- [Fire EX.](/fr/music/fire-ex) — groupe frère de Kaohsiung, autre formation kaohsiungaise présente à la même édition de Fuji Rock en 2022
+- [Sunset Rollercoaster](/fr/music/sunset-rollercoaster) — représentant de la même génération d’indie taïwanais exporté, avec une texture city pop souple et des chansons en anglais, formant avec la voie instrumentale et technique d’Elephant Gym deux trajectoires contrastées
+- [Histoire du développement du rock taïwanais](/fr/music/taiwan-rock-from-underground-to-mainstream) — contexte allant de Wu Bai et Mayday à la génération post-Sunset Rollercoaster
+- [Musique indépendante taïwanaise](/fr/music/indie-music-scene) — scène indie et écologie des labels à Taïwan
 
 ---
 

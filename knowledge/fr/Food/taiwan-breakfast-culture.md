@@ -134,6 +134,6 @@ Chaque matin, à six heures et demie, les 18 919 comptoirs de petit-déjeuner de
 
 ## Pour aller plus loin
 
-- [La culture des marchés nocturnes](/food/夜市文化) — Un autre espace culturel alimentaire important de Taïwan
-- [La street food taïwanaise](/food/台灣小吃) — Plus de spécialités culinaires locales taïwanaises
-- [La culture du thé](/food/茶文化) — La culture des boissons traditionnelles de Taïwan
+- [La culture des marchés nocturnes](/fr/food/night-market-culture) — Un autre espace culturel alimentaire important de Taïwan
+- [La street food taïwanaise](/fr/food/taiwanese-street-food) — Plus de spécialités culinaires locales taïwanaises
+- [La culture du thé](/fr/food/golden-age-echoes-taiwan-tea-culture) — La culture des boissons traditionnelles de Taïwan

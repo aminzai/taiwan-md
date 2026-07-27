@@ -34,7 +34,7 @@ rationale:
   whos_pushing_back: 'Ceux qui critiquent son service de circonscription et sa ligne partisane, ceux qui jugent CHTHONIC trop politique et ceux qui estiment qu’il ne faut pas romantiser le passage d’un artiste à la politique.'
 ---
 
-> **En 30 secondes :** Freddy Lim est Freddy, le chanteur de CHTHONIC, l’un des initiateurs des débuts du Megaport Festival, ancien président de la section taïwanaise d’Amnesty International, et l’une des figures représentatives de la troisième force entrée au Parlement après le Mouvement des Tournesols. CHTHONIC a inscrit dans le black metal l’[incident du 28 février](/history/二二八事件), la [Terreur blanche à Taïwan](/history/台灣白色恐怖), l’incident de Musha, la mythologie taïwanaise et le récit des esprits, et a fait que l’histoire de Taïwan ne se lit pas seulement mais s’entend et se crie. Il a ensuite participé à la fondation du Nouveau Pouvoir, a été élu député, puis a connu le départ du parti et une procédure de révocation. Après avoir quitté son siège, il a renoué avec le travail international comme représentant de Taïwan en Finlande. La politique fut pour lui une aventure ; CHTHONIC reste son corps.
+> **En 30 secondes :** Freddy Lim est Freddy, le chanteur de CHTHONIC, l’un des initiateurs des débuts du Megaport Festival, ancien président de la section taïwanaise d’Amnesty International, et l’une des figures représentatives de la troisième force entrée au Parlement après le Mouvement des Tournesols. CHTHONIC a inscrit dans le black metal l’[incident du 28 février](/fr/history/228-incident), la [Terreur blanche à Taïwan](/fr/history/taiwan-white-terror), l’incident de Musha, la mythologie taïwanaise et le récit des esprits, et a fait que l’histoire de Taïwan ne se lit pas seulement mais s’entend et se crie. Il a ensuite participé à la fondation du Nouveau Pouvoir, a été élu député, puis a connu le départ du parti et une procédure de révocation. Après avoir quitté son siège, il a renoué avec le travail international comme représentant de Taïwan en Finlande. La politique fut pour lui une aventure ; CHTHONIC reste son corps.
 
 Mettre Freddy Lim dans une seule identité le déforme presque toujours. En 2017, le _New York Times_ est entré dans son bureau de député et y a vu une batterie électronique, une affiche de David Bowie et une photo de CHTHONIC jouant sur la place de la Liberté. En 2022, l’allemand _Der Tagesspiegel_ a trouvé dans un mélange similaire une image « Free Tibet » signée par le dalaï-lama, un drapeau arc-en-ciel, un portrait de David Bowie et des photos de concerts de CHTHONIC. Ces objets sont comme une coupe transversale d’identités : chanteur de metal, initiateur d’un festival, défenseur des droits humains, politique de la troisième force, député, protagoniste d’une révocation, aidant familial, et plus tard représentant en Finlande.[^5][^6][^11][^12][^13][^14][^15][^16]
 
@@ -102,7 +102,7 @@ Megaport a produit un deuxième basculement dans le rôle de Freddy Lim. De celu
 
 ## Après les Tournesols, à l’intérieur des institutions
 
-Après le [Mouvement des Tournesols](/society/太陽花學運) de 2014, une nouvelle vague d’imagination politique est apparue à Taïwan. Beaucoup de jeunes, de militants et de professionnels de la culture se sont mis à croire qu’au-delà de la protestation de rue, il fallait aussi des gens à l’intérieur des institutions.
+Après le [Mouvement des Tournesols](/fr/society/sunflower-movement) de 2014, une nouvelle vague d’imagination politique est apparue à Taïwan. Beaucoup de jeunes, de militants et de professionnels de la culture se sont mis à croire qu’au-delà de la protestation de rue, il fallait aussi des gens à l’intérieur des institutions.
 
 Freddy Lim fut l’un des visages les plus visibles de cette vague. Il a participé à la fondation du Nouveau Pouvoir et a été élu député en 2016 dans la cinquième circonscription de la ville de Taipei. Dans l’entretien de 2015 avec le _Taipei Times_, on voyait déjà dans son équipe de campagne les liens avec la génération des Tournesols : Wu Cheng, Lai Pin-yu et d’autres avaient rejoint l’équipe, et musiciens, militants et jeunes professionnels de la politique se retrouvaient sur un même terrain électoral.[^11] Cette circonscription comprend Wanhua et une partie de Zhongzheng ; pour un chanteur de heavy metal, cette élection l’a fait entrer dans le terrain de long terme du service de circonscription et du travail parlementaire. Il fallait affronter chaque jour les doléances, les budgets, les liens locaux, les joutes parlementaires et les attentes concrètes des électeurs envers un élu — bien au-delà d’une candidature symbolique.
 
@@ -172,11 +172,11 @@ CHTHONIC : l’univers du groupe, le contexte de ses albums, son influence inter
 
 Megaport Festival : le festival du Sud, l’identité urbaine, la culture contemporaine en taïwanais et l’évolution de long terme de l’équipe de programmation.
 
-[Musique indépendante taïwanaise](/music/台灣獨立音樂) : pour comprendre comment Freddy Lim a participé au passage de langage de l’« underground » à l’« indépendant ».
+[Musique indépendante taïwanaise](/fr/music/indie-music-scene) : pour comprendre comment Freddy Lim a participé au passage de langage de l’« underground » à l’« indépendant ».
 
-[Culture des festivals à Taïwan](/music/台灣音樂祭文化) : pour comprendre la place du Megaport dans l’écosystème des festivals taïwanais.
+[Culture des festivals à Taïwan](/fr/music/taiwan-music-festival-culture) : pour comprendre la place du Megaport dans l’écosystème des festivals taïwanais.
 
-[Mouvement des Tournesols](/society/太陽花學運), le Nouveau Pouvoir et la [transition démocratique de Taïwan](/history/台灣民主轉型) : pour comprendre le contexte d’époque de son entrée dans la politique institutionnelle.
+[Mouvement des Tournesols](/fr/society/sunflower-movement), le Nouveau Pouvoir et la [transition démocratique de Taïwan](/fr/history/taiwan-democratization) : pour comprendre le contexte d’époque de son entrée dans la politique institutionnelle.
 
 ## Sources des images
 

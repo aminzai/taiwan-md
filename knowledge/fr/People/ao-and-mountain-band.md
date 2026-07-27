@@ -155,11 +155,11 @@ C'est 凹與山.
 
 ## Pour aller plus loin
 
-- [Musique indépendante taïwanaise](/music/台灣獨立音樂) — Écosystème de la scène indépendante taïwanaise des années 2010-2020 et contexte historique du genre folktronica
-- [Musique pop taïwanaise](/music/台灣流行音樂) — Structure de l'industrie de la musique pop sinophone et positionnement des groupes indépendants
-- [Cicada](/people/Cicada) — Un groupe indépendant suivant également une voie instrumentale/non grand public, offrant une comparaison entre deux stratégies de création « hors des sentiers battus »
-- [魏如萱](/people/魏如萱) — Une autre trajectoire de créatrice féminine naviguant entre mainstream et indépendant
-- [Hello Nico](/people/Hello-Nico) — Un autre groupe indépendant taïwanais des années 2010 porté par une voix féminine, le dream pop enveloppant la répression, « la plus grande difficulté en musique, c'est de se battre contre soi-même »
+- [Musique indépendante taïwanaise](/fr/music/indie-music-scene) — Écosystème de la scène indépendante taïwanaise des années 2010-2020 et contexte historique du genre folktronica
+- [Musique pop taïwanaise](/fr/music/golden-melodies-legacy-taiwan-pop-music) — Structure de l'industrie de la musique pop sinophone et positionnement des groupes indépendants
+- [Cicada](/fr/people/cicada-band) — Un groupe indépendant suivant également une voie instrumentale/non grand public, offrant une comparaison entre deux stratégies de création « hors des sentiers battus »
+- [魏如萱](/fr/people/waa-wei-singer) — Une autre trajectoire de créatrice féminine naviguant entre mainstream et indépendant
+- [Hello Nico](/fr/people/hello-nico-band) — Un autre groupe indépendant taïwanais des années 2010 porté par une voix féminine, le dream pop enveloppant la répression, « la plus grande difficulté en musique, c'est de se battre contre soi-même »
 
 ## Références
 

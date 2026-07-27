@@ -267,15 +267,15 @@ Les albums complets, clips et captations de concerts sont disponibles sur la [ch
 
 **Pour aller plus loin** :
 
-- [Waa Wei](/people/魏如萱) — même écosystème de musique indépendante des années 2010, mais par la voix plutôt que par l’instrumental
-- [No Party for Cao Dong](/people/草東沒有派對) — contrepoint d’un groupe de la même période, plus extraverti et colérique
-- [Constant & Change](/people/康士坦的變化球) — même spectre post-rock, mais par la narration vocale
-- [Crowd Lu](/people/盧廣仲) — une autre trajectoire de la musique indépendante
-- [Musique populaire et Golden Melody Awards](/music/金曲獎) — contexte institutionnel de la nomination de Cicada dans la catégorie du meilleur album instrumental
-- [Musique indépendante taïwanaise](/music/台灣獨立音樂) — spectre de la musique indépendante après les années 2010
-- [Écosystèmes forestiers de Taïwan](/nature/台灣森林生態系) — paysages de _Hiking in the Mist_ et _Seeking the Sources of Streams_
-- [Écologie marine de Taïwan](/nature/台灣海洋生態) — arrière-plan écologique de l’album marin de 2017
-- [Montagnes et culture de l’alpinisme à Taïwan](/nature/台灣山岳與登山文化) — contexte de la philosophie montagnarde de Chiang Chih-chieh
+- [Waa Wei](/fr/people/waa-wei-singer) — même écosystème de musique indépendante des années 2010, mais par la voix plutôt que par l’instrumental
+- [No Party for Cao Dong](/fr/people/no-party-for-cao-dong) — contrepoint d’un groupe de la même période, plus extraverti et colérique
+- [Constant & Change](/fr/people/constant-and-change-band) — même spectre post-rock, mais par la narration vocale
+- [Crowd Lu](/fr/people/crowd-lu-indie-folk-treasure) — une autre trajectoire de la musique indépendante
+- [Musique populaire et Golden Melody Awards](/fr/music/pop-music-and-golden-melody-awards) — contexte institutionnel de la nomination de Cicada dans la catégorie du meilleur album instrumental
+- [Musique indépendante taïwanaise](/fr/music/indie-music-scene) — spectre de la musique indépendante après les années 2010
+- [Écosystèmes forestiers de Taïwan](/fr/nature/taiwan-forest-ecosystems) — paysages de _Hiking in the Mist_ et _Seeking the Sources of Streams_
+- [Écologie marine de Taïwan](/fr/nature/taiwan-marine-ecology) — arrière-plan écologique de l’album marin de 2017
+- [Montagnes et culture de l’alpinisme à Taïwan](/fr/nature/taiwan-mountains-and-hiking-culture) — contexte de la philosophie montagnarde de Chiang Chih-chieh
 
 ## Références
 

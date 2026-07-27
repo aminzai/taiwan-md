@@ -102,8 +102,8 @@ La sécurité alimentaire est également un enjeu important. Certains produits v
 
 ## Pour aller plus loin
 
-- [Religion et culture des temples à Taïwan](/culture/台灣宗教與寺廟文化) — Contexte religieux de la tradition végétarienne bouddhiste et rôle des réfectoires de temple dans la culture alimentaire
-- [Culture du petit-déjeuner taïwanais](/food/台灣早餐文化) — Crêpes aux œufs, lait de soja, galettes : les versions végétariennes sont devenues des options standard du petit-déjeuner taïwanais
+- [Religion et culture des temples à Taïwan](/fr/culture/taiwan-religion-and-temple-culture) — Contexte religieux de la tradition végétarienne bouddhiste et rôle des réfectoires de temple dans la culture alimentaire
+- [Culture du petit-déjeuner taïwanais](/fr/food/taiwan-breakfast-culture) — Crêpes aux œufs, lait de soja, galettes : les versions végétariennes sont devenues des options standard du petit-déjeuner taïwanais
 - [Industrie taïwanaise des technologies alimentaires](/technology/台灣食品科技產業) — Contexte technologique et industriel des « imitations carnées »
 
 ## Références

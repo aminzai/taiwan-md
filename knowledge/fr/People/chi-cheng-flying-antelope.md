@@ -59,7 +59,7 @@ Derrière ces 10 records du monde se cache un fait structurel plus large : à ce
 
 ## « L'Antilope volante » dans l'histoire de l'athlétisme taïwanais
 
-Avant Chi Cheng, la plus haute référence de Taïwan sur la scène athlétique internationale était [Yang Chuan-kwang](/fr/People/yang-chuan-kwang-asian-iron-man/) : l'argent au décathlon aux Jeux olympiques de Rome en 1960, la première médaille olympique de Taïwan, un jalon de l'athlétisme masculin. Mexico 1968, avec Chi Cheng, est le second jalon — et le plus difficile à atteindre : elle est en athlétisme féminin, et son succès n'a aucun précédent sur lequel s'appuyer.
+Avant Chi Cheng, la plus haute référence de Taïwan sur la scène athlétique internationale était [Yang Chuan-kwang](/fr/people/yang-chuan-kwang-asian-iron-man/) : l'argent au décathlon aux Jeux olympiques de Rome en 1960, la première médaille olympique de Taïwan, un jalon de l'athlétisme masculin. Mexico 1968, avec Chi Cheng, est le second jalon — et le plus difficile à atteindre : elle est en athlétisme féminin, et son succès n'a aucun précédent sur lequel s'appuyer.
 
 Le parcours de Yang Chuan-kwang est celui d'un jeune Ami qui a su exploiter son talent et l'entraînement de l'UCLA ; celui de Chi Cheng est celui d'une jeune fille de Hsinchu qui a tracé sa route record après record. Les points de départ diffèrent, mais le point d'arrivée est le même : le sommet de l'histoire de l'athlétisme taïwanais.
 

@@ -251,11 +251,11 @@ La Société Li n'a pas cessé de paraître pendant 60 ans. Taiwan.md fait que d
 
 **Pour aller plus loin** :
 
-- [Poésie moderne taïwanaise](/art/台灣現代詩) — Des expériences modernistes sortant de trois salons, dialoguant avec la tradition réaliste locale de la Société Li
-- [Littérature d'après-guerre à Taïwan](/art/戰後台灣文學) — Le mutisme, l'emprisonnement, le chemin du débat des romanciers comme Ye Shitao et Chen Yingzhen ; les poètes de la Société Li sont de la même génération
-- [Histoire de la littérature taïwanaise](/art/台灣文學史) — Hub du contexte complet de l'histoire de la littérature taïwanaise
-- [Littérature de la période coloniale japonaise](/art/日治時期文學) — Le contexte de croissance de la génération translingue de la Société Li
-- [Du Panfangge](/people/杜潘芳格) — Poétesse hakka translingue ayant rejoint la Société en 1965 ; _Piège de sécurité_ et la ligne de poésie en dialecte hakka
+- [Poésie moderne taïwanaise](/fr/art/taiwanese-modern-poetry) — Des expériences modernistes sortant de trois salons, dialoguant avec la tradition réaliste locale de la Société Li
+- [Littérature d'après-guerre à Taïwan](/fr/art/postwar-taiwanese-literature) — Le mutisme, l'emprisonnement, le chemin du débat des romanciers comme Ye Shitao et Chen Yingzhen ; les poètes de la Société Li sont de la même génération
+- [Histoire de la littérature taïwanaise](/fr/art/history-of-taiwanese-literature) — Hub du contexte complet de l'histoire de la littérature taïwanaise
+- [Littérature de la période coloniale japonaise](/fr/art/taiwanese-literature-during-japanese-rule) — Le contexte de croissance de la génération translingue de la Société Li
+- [Du Panfangge](/fr/people/tu-pan-fangke) — Poétesse hakka translingue ayant rejoint la Société en 1965 ; _Piège de sécurité_ et la ligne de poésie en dialecte hakka
 
 ## Références
 

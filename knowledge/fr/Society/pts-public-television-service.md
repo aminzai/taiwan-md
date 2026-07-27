@@ -172,13 +172,13 @@ Peut-être que les prochaines 28 ans donneront une réponse. Peut-être pas. Mai
 
 **Pour aller plus loin** :
 
-- [Médias et liberté de la presse à Taïwan](/society/台灣媒體與新聞自由) — PTS en tant que maillon de l'écosystème des médias, et son interaction avec l'environnement global de la liberté de la presse
-- [Magazine Global Views](/society/天下雜誌) — Comment les médias commerciaux et financiers gèrent la même difficulté de « à qui les médias devraient-ils rendre des comptes », survivant grâce aux abonnés payants et à l'écosystème des entreprises, formant un contraste avec la voie budgétaire publique de PTS
-- [Variétés à Taïwan](/culture/台灣綜藝) — Contraste avec les programmes de variétés des chaînes commerciales, pour comprendre pourquoi PTS a choisi de faire de la fiction et des documentaires
-- [Musique de fond pour l'audiovisuel à Taïwan](/music/台灣影視配樂) — La position de la musique de fond des drames phares de PTS dans l'industrie musicale taïwanaise
-- [Industrie de l'animation sous-traitante à Taïwan](/economy/台灣動畫代工) — Contraste avec l'industrie des marques commerciales, la logique différente de PTS dans le choix des sujets d'animation
-- [Fêtes et célébrations traditionnelles](/culture/傳統節慶與慶典) — La contribution à long terme du documentaire de PTS _Record Viewpoint_ à la préservation de la mémoire culturelle taïwanaise
-- [Institut de recherche sur le design de Taïwan](/society/台灣設計研究院) — Une autre fondation publique qui marche sur la corde raide entre « être vu » et le caractère public, transformant le design en méthode de service gouvernemental au peuple
+- [Médias et liberté de la presse à Taïwan](/fr/society/media-and-press-freedom-in-taiwan) — PTS en tant que maillon de l'écosystème des médias, et son interaction avec l'environnement global de la liberté de la presse
+- [Magazine Global Views](/fr/society/commonwealth-magazine) — Comment les médias commerciaux et financiers gèrent la même difficulté de « à qui les médias devraient-ils rendre des comptes », survivant grâce aux abonnés payants et à l'écosystème des entreprises, formant un contraste avec la voie budgétaire publique de PTS
+- [Variétés à Taïwan](/fr/culture/taiwan-variety-shows) — Contraste avec les programmes de variétés des chaînes commerciales, pour comprendre pourquoi PTS a choisi de faire de la fiction et des documentaires
+- [Musique de fond pour l'audiovisuel à Taïwan](/fr/music/taiwan-screen-scoring-from-cinema-to-games) — La position de la musique de fond des drames phares de PTS dans l'industrie musicale taïwanaise
+- [Industrie de l'animation sous-traitante à Taïwan](/fr/economy/taiwan-creator-economy) — Contraste avec l'industrie des marques commerciales, la logique différente de PTS dans le choix des sujets d'animation
+- [Fêtes et célébrations traditionnelles](/fr/culture/traditional-festivals-and-celebrations) — La contribution à long terme du documentaire de PTS _Record Viewpoint_ à la préservation de la mémoire culturelle taïwanaise
+- [Institut de recherche sur le design de Taïwan](/fr/society/taiwan-design-research-institute) — Une autre fondation publique qui marche sur la corde raide entre « être vu » et le caractère public, transformant le design en méthode de service gouvernemental au peuple
 
 ## Sources des images
 

@@ -266,12 +266,12 @@ Recomprendre « je verse 200 dollars taïwanais par mois » non comme « faire u
 
 ## Lectures complémentaires
 
-- [Médias et liberté de la presse à Taïwan](/society/台灣媒體與新聞自由) — Une vue d'ensemble, du retrait du parti, du gouvernement et de l'armée des médias à l'écosystème médiatique actuel.
-- [Public Television Service](/society/公視) — Une autre voie de média public : la version audiovisuelle d'un « bien public » soutenue par un budget légal.
-- [CommonWealth Magazine](/society/天下雜誌) — Le lieu où travaillait Ho Jung-hsing avant de quitter son poste de rédacteur en chef éditorial, représentant des médias commerciaux taïwanais d'économie et de finance.
-- [Guerre cognitive](/society/認知作戰) — Front uni, fausses informations générées par l'IA, stratégie de zone grise : un arrière-plan commun au dossier 2026 de The Reporter sur le front uni.
-- [Guerre cognitive de la pomme de terre empoisonnée](/society/毒馬鈴薯認知作戰) — Étude de cas d'un épisode concret de guerre cognitive.
-- [PTT](/technology/PTT批踢踢) — L'espace public taïwanais de l'ère pré-réseaux sociaux, dans le même fil que The Reporter sur l'idée que les plateformes ne sont pas nécessairement neutres.
+- [Médias et liberté de la presse à Taïwan](/fr/society/media-and-press-freedom-in-taiwan) — Une vue d'ensemble, du retrait du parti, du gouvernement et de l'armée des médias à l'écosystème médiatique actuel.
+- [Public Television Service](/fr/society/pts-public-television-service) — Une autre voie de média public : la version audiovisuelle d'un « bien public » soutenue par un budget légal.
+- [CommonWealth Magazine](/fr/society/commonwealth-magazine) — Le lieu où travaillait Ho Jung-hsing avant de quitter son poste de rédacteur en chef éditorial, représentant des médias commerciaux taïwanais d'économie et de finance.
+- [Guerre cognitive](/fr/society/cognitive-warfare-against-taiwan) — Front uni, fausses informations générées par l'IA, stratégie de zone grise : un arrière-plan commun au dossier 2026 de The Reporter sur le front uni.
+- [Guerre cognitive de la pomme de terre empoisonnée](/fr/society/poisoned-potato-cognitive-warfare-taiwan) — Étude de cas d'un épisode concret de guerre cognitive.
+- [PTT](/fr/technology/ptt-bulletin-board-system) — L'espace public taïwanais de l'ère pré-réseaux sociaux, dans le même fil que The Reporter sur l'idée que les plateformes ne sont pas nécessairement neutres.
 
 ## Références
 

@@ -169,10 +169,10 @@ Nos oreilles n’ont pas de paupières. Mais savoir si nous avons des oreilles d
 
 ## Pour aller plus loin
 
-- **[Lin Ching-Yao](/art/林經堯)** — Autre artiste sonore et technologique de l’écosystème C-LAB, passé du tuishou du taiji à l’art génératif
-- **[Wang Xinren (Aluan)](/art/王新仁)** — Artiste numérique, cofondateur d’akaSwap, de la même génération mais davantage orienté vers l’infrastructure curatoriale NFT
-- **[Hello Nico](/people/Hello-Nico)** — Identité de Chi Po-Hao dans un groupe indépendant à ses débuts, synthétiste de l’EP Floating City en 2014
-- **[Art des nouveaux médias à Taïwan](/art/台灣新媒體藝術)** — La place de l’art sonore dans le contexte de l’art des nouveaux médias à Taïwan
+- **[Lin Ching-Yao](/fr/art/lin-ching-yao-artist)** — Autre artiste sonore et technologique de l’écosystème C-LAB, passé du tuishou du taiji à l’art génératif
+- **[Wang Xinren (Aluan)](/fr/art/wang-hsin-jen-artist)** — Artiste numérique, cofondateur d’akaSwap, de la même génération mais davantage orienté vers l’infrastructure curatoriale NFT
+- **[Hello Nico](/fr/people/hello-nico-band)** — Identité de Chi Po-Hao dans un groupe indépendant à ses débuts, synthétiste de l’EP Floating City en 2014
+- **[Art des nouveaux médias à Taïwan](/fr/art/taiwan-new-media-art)** — La place de l’art sonore dans le contexte de l’art des nouveaux médias à Taïwan
 
 ## Références
 

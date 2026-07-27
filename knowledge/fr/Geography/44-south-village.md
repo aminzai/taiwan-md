@@ -199,15 +199,15 @@ Mais la prochaine fois que vous vous tiendrez sur cette pelouse, vous le saurez.
 
 **Pour aller plus loin** :
 
-- [Ville de Taipei](/geography/台北市) — panorama des 12 districts, pour replacer Si Si Nan Cun dans le district de Xinyi et dans la chronologie des 22 villes et comtés de Taiwan
-- [Développement des parcs culturels et créatifs à Taiwan](/culture/台灣文化創意園區發展) — de Huashan à Songyan puis Si Si Nan Cun, le modèle taiwanais « préservation patrimoniale + installation culturelle et créative »
-- [Cuisine des villages militaires de Taiwan](/food/台灣眷村菜) — crêpes du Shandong, lard du Hunan, nouilles dan dan du Sichuan : géographie alimentaire des villages militaires et traces matérielles liées aux origines provinciales
-- [Tensions provinciales à Taiwan](/society/台灣省籍矛盾) — des première, deuxième et troisième générations waisheng à la structure ethnique de Taiwan après-guerre vue depuis Si Si Nan Cun
-- [Taipei 101](/geography/台北101) — le gratte-ciel de 401 mètres visible depuis la place de Si Si Nan Cun ; avec les logements familiaux, il constitue l’un des deux restes du même site d’arsenal
-- [Dadaocheng](/geography/大稻埕) — autre quartier historique du même batch 1, où la rue marchande de l’époque Qing et le village militaire d’après-guerre forment deux « moments de formation urbaine » de Taipei
-- [Ximending](/geography/西門町) — autre quartier historique du même batch 1, où le quartier de loisirs de la période japonaise et le village militaire d’après-guerre sont deux types d’héritages laissés par les Japonais
-- [Yongkang Street](/geography/永康街) — deux modes d’installation des waisheng arrivés à Taiwan en 1949 : logements familiaux militaires contre occupation de dortoirs japonais
-- [Guling Street](/geography/牯嶺街) — l’académie de Nanhai et la rue des bouquinistes de Guling forment un autre paysage d’intellectuels waisheng après-guerre, opposant au village de l’arsenal de Si Si Nan Cun deux structures d’installation waisheng : « lettrés contre industrie militaire »
+- [Ville de Taipei](/fr/geography/taipei-city) — panorama des 12 districts, pour replacer Si Si Nan Cun dans le district de Xinyi et dans la chronologie des 22 villes et comtés de Taiwan
+- [Développement des parcs culturels et créatifs à Taiwan](/fr/culture/taiwan-cultural-creative-park-development) — de Huashan à Songyan puis Si Si Nan Cun, le modèle taiwanais « préservation patrimoniale + installation culturelle et créative »
+- [Cuisine des villages militaires de Taiwan](/fr/food/military-dependents-village-cuisine) — crêpes du Shandong, lard du Hunan, nouilles dan dan du Sichuan : géographie alimentaire des villages militaires et traces matérielles liées aux origines provinciales
+- [Tensions provinciales à Taiwan](/fr/society/taiwan-provincial-tensions) — des première, deuxième et troisième générations waisheng à la structure ethnique de Taiwan après-guerre vue depuis Si Si Nan Cun
+- [Taipei 101](/fr/geography/taipei-101) — le gratte-ciel de 401 mètres visible depuis la place de Si Si Nan Cun ; avec les logements familiaux, il constitue l’un des deux restes du même site d’arsenal
+- [Dadaocheng](/fr/geography/dadaocheng) — autre quartier historique du même batch 1, où la rue marchande de l’époque Qing et le village militaire d’après-guerre forment deux « moments de formation urbaine » de Taipei
+- [Ximending](/fr/geography/ximending) — autre quartier historique du même batch 1, où le quartier de loisirs de la période japonaise et le village militaire d’après-guerre sont deux types d’héritages laissés par les Japonais
+- [Yongkang Street](/fr/geography/yongkang-street) — deux modes d’installation des waisheng arrivés à Taiwan en 1949 : logements familiaux militaires contre occupation de dortoirs japonais
+- [Guling Street](/fr/geography/guling-street) — l’académie de Nanhai et la rue des bouquinistes de Guling forment un autre paysage d’intellectuels waisheng après-guerre, opposant au village de l’arsenal de Si Si Nan Cun deux structures d’installation waisheng : « lettrés contre industrie militaire »
 
 ## Sources des images
 

@@ -197,10 +197,10 @@ Si le diagnostic d'asthme avait été exact, il serait aujourd'hui peut-être un
 
 ## Pour aller plus loin
 
-- [Wu Ta-you](/people/吳大猷) — Pionnier de la physique taïwanaise, pour comprendre comment la génération scientifique d'après-guerre a construit l'environnement scientifique fondamental de Taïwan
-- [Chu Ching-wu](/people/朱經武) — Un autre scientifique taïwanais d'origine ayant eu un impact sur la communauté scientifique internationale, pour voir comment un double bagage culturel taïwanais et américain peut porter ses fruits dans différentes disciplines
-- [Les Bâtisseurs de montagnes : le pari du siècle](/art/造山者世紀的賭注) — Documentaire de 2025 de Xiao Juzhen, interviews de pionniers des semi-conducteurs, en écho à la trajectoire internationale de la même génération de techniciens taïwanais
-- [Développement de l'industrie spatiale taïwanaise](/technology/台灣太空產業發展) — Panorama des satellites, fusées et politiques spatiales propres à Taïwan, pour comprendre la base industrielle locale à laquelle il a été confronté lors de son retour
+- [Wu Ta-you](/fr/people/tai-yu-wu) — Pionnier de la physique taïwanaise, pour comprendre comment la génération scientifique d'après-guerre a construit l'environnement scientifique fondamental de Taïwan
+- [Chu Ching-wu](/fr/people/chu-ching-wu) — Un autre scientifique taïwanais d'origine ayant eu un impact sur la communauté scientifique internationale, pour voir comment un double bagage culturel taïwanais et américain peut porter ses fruits dans différentes disciplines
+- [Les Bâtisseurs de montagnes : le pari du siècle](/fr/art/mountain-makers-tsmc-documentary) — Documentaire de 2025 de Xiao Juzhen, interviews de pionniers des semi-conducteurs, en écho à la trajectoire internationale de la même génération de techniciens taïwanais
+- [Développement de l'industrie spatiale taïwanaise](/fr/technology/taiwan-space-industry-development) — Panorama des satellites, fusées et politiques spatiales propres à Taïwan, pour comprendre la base industrielle locale à laquelle il a été confronté lors de son retour
 
 ## Références
 

@@ -403,11 +403,11 @@ Le garçon qui avait remporté le prix Tianyun en terminale et qui, en première
 
 **Pour aller plus loin** :
 
-- [Deserts Chang et Anpu](/music/張懸與安溥) — voix féminines indie de la même génération et prises de position politiques collectives des groupes indépendants
-- [Musique indépendante taïwanaise](/music/台灣獨立音樂) — l’écosystème des groupes indie à Taïwan
-- [Culture des festivals de musique à Taïwan](/music/台灣音樂祭文化) — le festival Ho-hai-yan de Gongliao et les plateformes de découverte des groupes indépendants
-- [Mayday](/music/五月天) — autre groupe taïwanais emblématique fondé en 1997, pour comparer différents modèles de management
-- [Musique populaire et Golden Melody Awards](/music/金曲獎) — le contexte du triomphe de Sodagreen aux Golden Melody
+- [Deserts Chang et Anpu](/fr/music/deserts-chang-and-anpu) — voix féminines indie de la même génération et prises de position politiques collectives des groupes indépendants
+- [Musique indépendante taïwanaise](/fr/music/indie-music-scene) — l’écosystème des groupes indie à Taïwan
+- [Culture des festivals de musique à Taïwan](/fr/music/taiwan-music-festival-culture) — le festival Ho-hai-yan de Gongliao et les plateformes de découverte des groupes indépendants
+- [Mayday](/fr/music/mayday-band) — autre groupe taïwanais emblématique fondé en 1997, pour comparer différents modèles de management
+- [Musique populaire et Golden Melody Awards](/fr/music/pop-music-and-golden-melody-awards) — le contexte du triomphe de Sodagreen aux Golden Melody
 
 ---
 

@@ -304,12 +304,12 @@ Trois époques de croyance à Taipei coexistent sur un axe de 1,5 km, sans ordre
 
 **Pour aller plus loin** :
 
-- [Ville de Taipei](/geography/台北市) — contexte complet de la ville où se trouve Dalongdong, du groupement de défrichement Chen-Lai-Zhang de 1709 au panorama de 2026
-- [Bangka](/geography/艋舺) — plus ancien quartier de Taipei sous les Qing, formé autour du Longshan Temple en 1738, autre extrémité du _dingxia jiaopin_ de 1853
-- [Dadaocheng](/geography/大稻埕) — lieu d’installation final des Tong’an en 1853 et grand centre du commerce du thé à partir de 1860, quartier frère de Dalongdong, de même origine mais de trajectoire différente
-- [Ximending](/geography/西門町) — quartier de divertissement de l’époque japonaise à partir de 1908, contemporain de Dalongdong mais expérience urbaine entièrement différente
-- [Religion et culture des temples à Taïwan](/culture/台灣宗教與寺廟文化) — contexte complet du Baoan Temple, de la restauration de Liao Wu-chih et du prix UNESCO
-- [Shilin](/geography/士林) — les affrontements armés entre Zhangzhou et Quanzhou de 1859 et l’accueil, par les Tong’an de Dalongdong, des réfugiés du _dingxia jiaopin_ de 1853 forment deux paysages de conflits de lignages dans le nord de Taïwan sous les Qing
+- [Ville de Taipei](/fr/geography/taipei-city) — contexte complet de la ville où se trouve Dalongdong, du groupement de défrichement Chen-Lai-Zhang de 1709 au panorama de 2026
+- [Bangka](/fr/geography/bangka) — plus ancien quartier de Taipei sous les Qing, formé autour du Longshan Temple en 1738, autre extrémité du _dingxia jiaopin_ de 1853
+- [Dadaocheng](/fr/geography/dadaocheng) — lieu d’installation final des Tong’an en 1853 et grand centre du commerce du thé à partir de 1860, quartier frère de Dalongdong, de même origine mais de trajectoire différente
+- [Ximending](/fr/geography/ximending) — quartier de divertissement de l’époque japonaise à partir de 1908, contemporain de Dalongdong mais expérience urbaine entièrement différente
+- [Religion et culture des temples à Taïwan](/fr/culture/taiwan-religion-and-temple-culture) — contexte complet du Baoan Temple, de la restauration de Liao Wu-chih et du prix UNESCO
+- [Shilin](/fr/geography/shilin) — les affrontements armés entre Zhangzhou et Quanzhou de 1859 et l’accueil, par les Tong’an de Dalongdong, des réfugiés du _dingxia jiaopin_ de 1853 forment deux paysages de conflits de lignages dans le nord de Taïwan sous les Qing
 
 ## Sources des images
 

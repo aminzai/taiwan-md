@@ -89,9 +89,9 @@ Aujourd'hui, en marchant sur le champ de bataille ancien de Shimen, le défilé 
 
 ## Lectures complémentaires
 
-- [Incident de Luo Fahao et Zhuo Qi-du](/history/羅發號事件與卓杞篤) — Une autre collision entre naufrage et souveraineté
-- [Période du gouvernement Qing](/history/清治時期) — Le tournant de la gouvernance avant et après la Pacification des tribus
-- [Charles Le Gendre](/people/李仙得) — Le conseiller américain derrière l'incident
+- [Incident de Luo Fahao et Zhuo Qi-du](/fr/history/rover-incident-and-tauketok) — Une autre collision entre naufrage et souveraineté
+- [Période du gouvernement Qing](/fr/history/qing-dynasty-rule) — Le tournant de la gouvernance avant et après la Pacification des tribus
+- [Charles Le Gendre](/fr/people/charles-le-gendre) — Le conseiller américain derrière l'incident
 
 ## Références bibliographiques
 

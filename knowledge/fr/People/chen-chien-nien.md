@@ -203,11 +203,11 @@ Ces chansons laissées par son grand-père maternel, il ne les a pas « hérité
 
 **Pour aller plus loin** :
 
-- [A-Mei](/people/張惠妹) — elle aussi puyuma, elle aussi originaire de Taitung, mais engagée dans une voie exactement inverse : de la communauté Nanwang vers les plus grandes scènes d’Asie, la diva puyuma
-- [Auteurs-compositeurs-interprètes autochtones contemporains](/music/當代原住民創作歌手) — cartographie générationnelle du passage de la musique autochtone taïwanaise des marges au courant dominant après les années 1990
-- [Chants et chansons populaires de Taïwan](/music/台灣民謠與歌謠) — la place de créateurs autochtones des années 1950, dont Lu Sen-bao, dans l’histoire des chants populaires taïwanais
-- [Musique indépendante taïwanaise](/music/台灣獨立音樂) — comment des labels indépendants comme Taiwan Colors Music ont construit une autre voie hors de l’industrie musicale dominante
-- [Musique populaire et Golden Melody Awards](/music/金曲獎) — comment le système des Golden Melody Awards a intégré la création musicale autochtone
+- [A-Mei](/fr/people/a-mei) — elle aussi puyuma, elle aussi originaire de Taitung, mais engagée dans une voie exactement inverse : de la communauté Nanwang vers les plus grandes scènes d’Asie, la diva puyuma
+- [Auteurs-compositeurs-interprètes autochtones contemporains](/fr/music/contemporary-indigenous-singer-songwriters) — cartographie générationnelle du passage de la musique autochtone taïwanaise des marges au courant dominant après les années 1990
+- [Chants et chansons populaires de Taïwan](/fr/music/Taiwan Folk Music and Songs) — la place de créateurs autochtones des années 1950, dont Lu Sen-bao, dans l’histoire des chants populaires taïwanais
+- [Musique indépendante taïwanaise](/fr/music/indie-music-scene) — comment des labels indépendants comme Taiwan Colors Music ont construit une autre voie hors de l’industrie musicale dominante
+- [Musique populaire et Golden Melody Awards](/fr/music/pop-music-and-golden-melody-awards) — comment le système des Golden Melody Awards a intégré la création musicale autochtone
 
 ## Références
 

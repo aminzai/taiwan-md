@@ -164,9 +164,9 @@ Dans le dernier paragraphe de l'article « Le tramway de Nieh Yung-jen » dans B
 
 **Pour aller plus loin :**
 
-- [Tsai Ing-wen](/people/蔡英文) — L'autre versant de « Light Up Taiwan » et des deux cérémonies d'investiture présidentielle, le contexte de la commande politique de design de 2016 à 2024
-- [Mouvement du Tournesol](/society/太陽花學運) — Le contexte historique de cette publicité du New York Times à l'aube de 2014
-- [Nouveaux médias à Taïwan](/art/台灣新媒體藝術) — La position de l'atelier Aaron Nieh Workshop dans la culture visuelle contemporaine taïwanaise
+- [Tsai Ing-wen](/fr/people/tsai-ing-wen) — L'autre versant de « Light Up Taiwan » et des deux cérémonies d'investiture présidentielle, le contexte de la commande politique de design de 2016 à 2024
+- [Mouvement du Tournesol](/fr/society/sunflower-movement) — Le contexte historique de cette publicité du New York Times à l'aube de 2014
+- [Nouveaux médias à Taïwan](/fr/art/taiwan-new-media-art) — La position de l'atelier Aaron Nieh Workshop dans la culture visuelle contemporaine taïwanaise
 
 ## Références
 

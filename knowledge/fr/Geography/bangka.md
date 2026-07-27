@@ -229,15 +229,15 @@ Aux yeux des autres, Wanhua est un marché de nuit touristique, une zone grise a
 
 **Lectures complémentaires** :
 
-- [Taipei](/geography/台北市) — Panorama du bassin entier en trois dates : le temple Longshan en 1738, Dadaocheng en 1885, Xinyi 101 en 2004
-- [Culture des vieilles rues et des quartiers commerçants de Taïwan](/culture/台灣老街文化與商業街區) — Des ports des Qing au baroque japonais, carte historique de plus de 10 vieilles rues de Taïwan
-- [Religions et culture des temples à Taïwan](/culture/台灣宗教與寺廟文化) — 15 000 temples dans toute l'île, structure religieuse où Wangye, Mazu, bouddhisme et taoïsme partagent le même toit
-- [Période Qing](/history/清治時期) — Société taïwanaise, affrontements armés de classification et réseaux migratoires de 1683 à 1895
-- [Guerre franco-chinoise](/history/清法戰爭) — Offensive française dans le nord de Taïwan en 1884-1885, mobilisation des volontaires du temple Longshan de Bangka, grande victoire de Tamsui
-- [Dadaocheng](/geography/大稻埕) — Le quartier marchand ouvert par les gens de Tong'an vaincus lors du Dingxiajiaopin de 1853 et partis de Bajiazhuang à Bangka ; une autre chronologie issue de Bangka
-- [Ximending](/geography/西門町) — Quartier historique sibling du même batch 1, zone de loisirs planifiée par les Japonais à l'ouest de Bangka en 1896, formant un contraste Qing / domination japonaise avec la rue originelle de Bangka
-- [Dalongdong](/geography/大龍峒) — Premier lieu de repli des gens de Tong'an vaincus au Dingxiajiaopin de 1853 et partis de Bajiazhuang à Bangka ; le temple Bao'an y devint centre de défense, avant leur migration vers Dadaocheng
-- [Shilin](/geography/士林) — L'affrontement Zhang-Quan de 1859 et le Dingxiajiaopin de Bangka en 1853 sont deux conflits distincts, deux paysages d'affrontements entre groupes du nord de Taïwan sous les Qing
+- [Taipei](/fr/geography/taipei-city) — Panorama du bassin entier en trois dates : le temple Longshan en 1738, Dadaocheng en 1885, Xinyi 101 en 2004
+- [Culture des vieilles rues et des quartiers commerçants de Taïwan](/fr/culture/taiwan-historic-streets-and-commercial-districts) — Des ports des Qing au baroque japonais, carte historique de plus de 10 vieilles rues de Taïwan
+- [Religions et culture des temples à Taïwan](/fr/culture/taiwan-religion-and-temple-culture) — 15 000 temples dans toute l'île, structure religieuse où Wangye, Mazu, bouddhisme et taoïsme partagent le même toit
+- [Période Qing](/fr/history/qing-dynasty-rule) — Société taïwanaise, affrontements armés de classification et réseaux migratoires de 1683 à 1895
+- [Guerre franco-chinoise](/fr/history/sino-french-war-in-taiwan) — Offensive française dans le nord de Taïwan en 1884-1885, mobilisation des volontaires du temple Longshan de Bangka, grande victoire de Tamsui
+- [Dadaocheng](/fr/geography/dadaocheng) — Le quartier marchand ouvert par les gens de Tong'an vaincus lors du Dingxiajiaopin de 1853 et partis de Bajiazhuang à Bangka ; une autre chronologie issue de Bangka
+- [Ximending](/fr/geography/ximending) — Quartier historique sibling du même batch 1, zone de loisirs planifiée par les Japonais à l'ouest de Bangka en 1896, formant un contraste Qing / domination japonaise avec la rue originelle de Bangka
+- [Dalongdong](/fr/geography/dalongdong) — Premier lieu de repli des gens de Tong'an vaincus au Dingxiajiaopin de 1853 et partis de Bajiazhuang à Bangka ; le temple Bao'an y devint centre de défense, avant leur migration vers Dadaocheng
+- [Shilin](/fr/geography/shilin) — L'affrontement Zhang-Quan de 1859 et le Dingxiajiaopin de Bangka en 1853 sont deux conflits distincts, deux paysages d'affrontements entre groupes du nord de Taïwan sous les Qing
 
 ## Références
 

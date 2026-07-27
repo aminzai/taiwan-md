@@ -267,15 +267,15 @@ Chaque module s’insère dans le Markdown d’un article sous la forme d’un b
 
 Ce système s’inspire de la philosophie éditoriale de [The Pudding](https://pudding.cool/) — le problème précède les données, la conclusion doit être claire, la citation est le protagoniste — mais il a évolué pour devenir l’organe propre à Taiwan.md : statique, multilingue, lisible par l’IA. Le contexte complet de conception est détaillé dans le [rapport du système de visualisation d’articles](https://github.com/frank890417/taiwan-md/blob/main/reports/article-visualization-design-2026-06-06.md).
 
-Pour voir comment ces modules s’intègrent dans un article approfondi, consultez [Logements publics et justice du logement](/society/國宅與居住正義) — la plupart des données de cette page proviennent de cette étude.
+Pour voir comment ces modules s’intègrent dans un article approfondi, consultez [Logements publics et justice du logement](/fr/society/public-housing-justice) — la plupart des données de cette page proviennent de cette étude.
 
 **Lectures complémentaires** :
 
-- [Logements publics et justice du logement](/society/國宅與居住正義) — l’histoire complète derrière ces données : comment les logements publics sont passés d’un logement bon marché à un ascenseur d’actifs, source de la majorité des modules.
-- [Voir les données de Taïwan : 22 comtés](/geography/用數據看台灣22縣市) — les données de vieillissement utilisées dans les diagrammes à points, pyramides et cartes en briques proviennent de cette analyse complète.
-- [Taïwan et le débat sur le nucléaire](/society/台灣與核能的討論) — le contexte complet des trois référendums présentés dans le diagramme à barres empilées.
-- [Logements sociaux et justice du logement](/society/社會住宅與居住正義) — la trajectoire « location uniquement » après 2016.
-- [Crise de la faible natalité à Taïwan](/society/台灣少子化危機) — l’impossibilité d’acheter un logement et le manque de naissances, une autre facette de la justice intergénérationnelle.
+- [Logements publics et justice du logement](/fr/society/public-housing-justice) — l’histoire complète derrière ces données : comment les logements publics sont passés d’un logement bon marché à un ascenseur d’actifs, source de la majorité des modules.
+- [Voir les données de Taïwan : 22 comtés](/fr/geography/data-taiwan-22-cities) — les données de vieillissement utilisées dans les diagrammes à points, pyramides et cartes en briques proviennent de cette analyse complète.
+- [Taïwan et le débat sur le nucléaire](/fr/society/taiwan-nuclear-debate) — le contexte complet des trois référendums présentés dans le diagramme à barres empilées.
+- [Logements sociaux et justice du logement](/fr/society/social-housing-and-housing-justice) — la trajectoire « location uniquement » après 2016.
+- [Crise de la faible natalité à Taïwan](/fr/society/taiwan-low-birth-rate-crisis) — l’impossibilité d’acheter un logement et le manque de naissances, une autre facette de la justice intergénérationnelle.
 
 ## Références
 
@@ -285,9 +285,9 @@ Pour voir comment ces modules s’intègrent dans un article approfondi, consult
 
 [^3]: [行政院廢止國民住宅條例新聞稿](https://www.ey.gov.tw/Page/9277F759E41CCD91/d4afaf10-ece5-4b4f-9482-35ce16bdc657) — données officielles sur le nombre cumulé de foyers de logements publics (environ 390 000).
 
-[^4]: [內政部戶政司人口統計資料](https://www.ris.gov.tw/app/portal/346) — proportions de la population de 65 ans et plus et indice de vieillissement pour chaque comté à la fin de 2025, sources des diagrammes à points, pyramides, cartes en briques et boîtes explicatives ; chaîne de vérification complète dans « [Voir les données de Taïwan : 22 comtés](/geography/用數據看台灣22縣市) ».
+[^4]: [內政部戶政司人口統計資料](https://www.ris.gov.tw/app/portal/346) — proportions de la population de 65 ans et plus et indice de vieillissement pour chaque comté à la fin de 2025, sources des diagrammes à points, pyramides, cartes en briques et boîtes explicatives ; chaîne de vérification complète dans « [Voir les données de Taïwan : 22 comtés](/fr/geography/data-taiwan-22-cities) ».
 
-[^5]: [中央選舉委員會 2018 年第 16 案公投結果（PDF）](https://web.cec.gov.tw/api/file/0132581c-18b5-4951-bc24-3cc083924666.pdf) — résultats officiels du CEC pour les trois référendums sur le nucléaire (59 %/47 %/74 % d’accord), chaîne de vérification dans « [Taïwan et le débat sur le nucléaire](/society/台灣與核能的討論) ».
+[^5]: [中央選舉委員會 2018 年第 16 案公投結果（PDF）](https://web.cec.gov.tw/api/file/0132581c-18b5-4951-bc24-3cc083924666.pdf) — résultats officiels du CEC pour les trois référendums sur le nucléaire (59 %/47 %/74 % d’accord), chaîne de vérification dans « [Taïwan et le débat sur le nucléaire](/fr/society/taiwan-nuclear-debate) ».
 
 ## Sources d’images
 

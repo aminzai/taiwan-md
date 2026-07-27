@@ -254,11 +254,11 @@ Ce qui reste, ce n’est pas l’échelle : c’est la liberté, la seule chose 
 
 **Pour aller plus loin** :
 
-- [Le mouvement de la chanson folk taïwanaise : « chanter ses propres chansons », mais les chansons de qui ?](/music/台灣民歌運動)
-- [L’évolution de la chanson taïwanaise : de la langue maternelle interdite à l’album de l’année](/music/台灣台語歌曲演進)
-- [Musique populaire et Golden Melody Awards : quelle voix compte, et qui en décide ?](/music/金曲獎)
-- [L’industrie musicale taïwanaise à l’ère du streaming : reprendre souffle après l’effondrement du disque physique](/music/台灣音樂產業與串流時代)
-- [Teresa Teng : la diva qui chanta dans les trois mondes chinois, mais ne donna jamais de concert en Chine continentale](/people/鄧麗君)
+- [Le mouvement de la chanson folk taïwanaise : « chanter ses propres chansons », mais les chansons de qui ?](/fr/music/taiwan-campus-folk-song-movement)
+- [L’évolution de la chanson taïwanaise : de la langue maternelle interdite à l’album de l’année](/fr/music/taiwanese-hokkien-song-evolution)
+- [Musique populaire et Golden Melody Awards : quelle voix compte, et qui en décide ?](/fr/music/pop-music-and-golden-melody-awards)
+- [L’industrie musicale taïwanaise à l’ère du streaming : reprendre souffle après l’effondrement du disque physique](/fr/music/taiwan-music-industry-and-the-streaming-era)
+- [Teresa Teng : la diva qui chanta dans les trois mondes chinois, mais ne donna jamais de concert en Chine continentale](/fr/people/teresa-teng)
 
 ## Sources des images
 
