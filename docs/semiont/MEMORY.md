@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-28
-last_session: '2026-07-28-061446-twmd-data-refresh-am（晨間 14 步刷新全綠，零 stale）'
+last_session: '2026-07-28-064254-twmd-spore-harvest-am（6 events harvest；鎢供應鏈讀者連命案，escalate 觀察者）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -341,3 +341,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-28 | 053208-twmd-embeddings-nightly | bge-m3 nightly 12 語 7642 向量 0 fail；接住昨夜 vc=2 債，verify script 六語過期改動態讀 config；vi/id 未滿 400 篇判為爬升期非故障 | 混維度：文章數不足跟資料品質壞是兩種 verify FAIL 成因，不該共用同個 exit code | [→](memory/2026-07-28-053208-twmd-embeddings-nightly.md) |
 | 2026-07-28 | 053759-twmd-routine-sync | 三層對賬第三日全綠：17 條 routine 全 in-sync，零漂移；不受同時段 babel fleet 渦流影響 | 連續全綠也要記一行，否則「這條 routine 有沒有在跑」下次沒基線可比 | [→](memory/2026-07-28-053759-twmd-routine-sync.md) |
 | 2026-07-28 | 061446-twmd-data-refresh-am | 晨間 14 步刷新全綠：三源感知（CF 1.02M req／GA／SC）＋dashboard 全套重生＋GitHub stats；Step 11 freshness gate 零 stale | 免疫黃燈 60 持平非新退化；連續全綠仍要記一行留基線 | [→](memory/2026-07-28-061446-twmd-data-refresh-am.md) |
+| 2026-07-28 | 064254-twmd-spore-harvest-am | 6 events harvest；鎢供應鏈 D+2 衝到 465K，讀者留言把文章主角連到真實命案＋兩岸政治暴力揣測，未修文未回覆，寫進 HARVEST-FRAMING-PENDING 等哲宇拍板 | §自主權邊界不只防我寫過火，也要防讀者滑到我不該追認的地方時選擇不表態 | [→](memory/2026-07-28-064254-twmd-spore-harvest-am.md) |
