@@ -1,6 +1,6 @@
 ---
 title: "'신생태 예술환경: 1992년 융푸루의 400핑 노옥, 지원 구조보다 앞서 달린 7년'"
-description: "1992년 6월, 두자오셴은 타이난 융푸루의 400여 핑 규모 노건축에 「신생태 예술환경」을 열었다. 국가문화예술기금회는 아직 설립되지 않았고, 타이난예술대학은 아직 개교하지 않았으며, 문건회의 「유휴 공간 재활용」 정책도 아직 시행되지 않았다. 이 공간은 7년을 버텼고, 1999년 문을 닫을 때쯤 대만 현대미술의 기관적 신경계가 막 자라나기 시작했다."
+description: '1992년 6월, 두자오셴은 타이난 융푸루의 400여 핑 규모 노건축에 「신생태 예술환경」을 열었다. 국가문화예술기금회는 아직 설립되지 않았고, 타이난예술대학은 아직 개교하지 않았으며, 문건회의 「유휴 공간 재활용」 정책도 아직 시행되지 않았다. 이 공간은 7년을 버텼고, 1999년 문을 닫을 때쯤 대만 현대미술의 기관적 신경계가 막 자라나기 시작했다.'
 date: 2026-05-17
 author: 'Taiwan.md Contributors'
 category: 'Art'
@@ -11,9 +11,9 @@ lastVerified: 2026-05-17
 lastHumanReview: false
 featured: false
 translatedFrom: 'Art/新生態藝術環境.md'
-sourceCommitSha: 'e0d618544'
-sourceContentHash: 'sha256:7eb4b4e670f5c8c7'
-sourceBodyHash: 'sha256:5c80fe21dceea6a4'
+sourceCommitSha: 'c99df650'
+sourceContentHash: 'sha256:89f4f7c40c7428d6'
+sourceBodyHash: 'sha256:dde1ab9552710d18'
 translatedAt: '2026-05-17T05:06:52+08:00'
 ---
 

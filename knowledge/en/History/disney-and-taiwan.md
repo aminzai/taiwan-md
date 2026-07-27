@@ -26,7 +26,7 @@ lastVerified: 2026-06-26
 lastHumanReview: false
 featured: false
 translatedFrom: 'History/迪士尼.md'
-sourceCommitSha: '1ed7ed388'
+sourceCommitSha: '154c45e8'
 sourceContentHash: 'sha256:5cc3c5f96a34e51e'
 sourceBodyHash: 'sha256:ad7b91e555067f88'
 translatedAt: '2026-06-27T00:54:18+08:00'

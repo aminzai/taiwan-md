@@ -23,9 +23,9 @@ lastVerified: 2026-05-11
 lastHumanReview: false
 featured: false
 translatedFrom: 'Culture/雜誌.md'
-sourceCommitSha: '9b5cb286e'
-sourceContentHash: 'sha256:9006089787032015'
-sourceBodyHash: 'sha256:d3e99a5c4124d826'
+sourceCommitSha: 'e0fa6004'
+sourceContentHash: 'sha256:ee59ed48db607f3f'
+sourceBodyHash: 'sha256:26d93e9626e6b86e'
 translatedAt: '2026-05-12T21:49:55+08:00'
 ---
 

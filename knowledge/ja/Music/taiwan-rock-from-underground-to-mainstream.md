@@ -1,26 +1,27 @@
 ---
-title: "台湾ロック音楽の発展史：地下から主流への三十年"
-description: "1980年代の地下ロックから1990年代のバンドブームまで、台湾ロック音楽が辺境から主流へと歩み、華語ロックの重要な勢力となった過程を解説します"
+title: '台湾ロック音楽の発展史：地下から主流への三十年'
+description: '1980年代の地下ロックから1990年代のバンドブームまで、台湾ロック音楽が辺境から主流へと歩み、華語ロックの重要な勢力となった過程を解説します'
 date: 2026-03-18
-category: "Music"
+category: 'Music'
 tags:
-  - "ロック音楽"
-  - "音楽史"
-  - "地下音楽"
-  - "バンド"
-  - "台湾音楽"
-subcategory: "獨立與搖滾"
-author: "Taiwan.md"
+  - 'ロック音楽'
+  - '音楽史'
+  - '地下音楽'
+  - 'バンド'
+  - '台湾音楽'
+subcategory: '獨立與搖滾'
+author: 'Taiwan.md'
 readingTime: 12
 featured: true
 lastVerified: 2026-03-19
 lastHumanReview: true
 translatedFrom: Music/台灣搖滾樂發展史.md
-sourceCommitSha: 0f8fae0ae
-sourceContentHash: sha256:13d6a9f56e217d21
-sourceBodyHash: sha256:ad9585c482ee1d52
+sourceCommitSha: 'da9ebaab'
+sourceContentHash: 'sha256:f7363f72c8db19f7'
+sourceBodyHash: 'sha256:a8ba2c74c0939b6b'
 translatedAt: 2026-05-20T05:08:29+08:00
 ---
+
 # 台湾ロック音楽の発展史：地下から主流への三十年
 
 > **30 秒概覽：** 1980年代の地下反逆から1990年代のバンドブームまで、台湾ロック音楽は三十年にわたる進化を遂げました。Crystal Records、角頭音楽などのインディーズレーベルが世代のロックミュージシャンを育成し、濁水溪公社の実験から五月天の商業的成功まで、台湾ロックは辺境から主流へと移行し、華語ロックの地図に一席を占めています。
@@ -186,7 +187,11 @@ Crystalに加えて、**角頭音楽**、**真言社**などのインディー�
 - [金曲賞歴年受賞記録](https://gma.tavis.tw/)
 
 [^1]: 鮮楽文化サイト，《台湾インディーズ音楽の種：Crystal 30 周年回顧》，2016。https://freshmusic.sg/2016/12/11/crystal/
+
 [^2]: 音謀筆記，《台湾地下音楽の推手–Crystal の新音楽之路》。http://jeph.bluecircus.net/archives/44
+
 [^3]: Wikipedia，《董事長楽団》。https://zh.wikipedia.org/zh-hant/%E8%91%A3%E4%BA%8B%E9%95%B7%E6%A8%82%E5%9C%98
+
 [^4]: PTT RockMetal 板，《台湾ロック脈絡文》，2022。https://www.ptt.cc/bbs/RockMetal/M.1652359027.A.050.html
+
 [^5]: 文化部映像及流行音楽産業局，音楽祭活動記録。https://www.bamid.gov.tw/

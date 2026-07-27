@@ -32,9 +32,9 @@ sporeLinks:
     date: '2026-06-13'
     url: 'https://x.com/taiwandotmd/status/2065697249041281306'
 translatedFrom: 'Society/天下雜誌.md'
-sourceCommitSha: 'bb411ee0'
-sourceContentHash: 'sha256:c08065304af9db33'
-sourceBodyHash: 'sha256:6cd75de33ed1027c'
+sourceCommitSha: 'd317f164'
+sourceContentHash: 'sha256:cfcffc0d37076c22'
+sourceBodyHash: 'sha256:a2fb34529fea33ac'
 translatedAt: '2026-06-16T17:15:00Z'
 ---
 

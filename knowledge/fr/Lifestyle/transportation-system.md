@@ -22,9 +22,9 @@ featured: true
 lastVerified: 2026-04-26
 lastHumanReview: true
 translatedFrom: 'Lifestyle/台灣交通系統.md'
-sourceCommitSha: '755eeda4'
-sourceContentHash: 'sha256:beaa2c8eefc377c5'
-sourceBodyHash: 'sha256:7b8c052d67180597'
+sourceCommitSha: '8790dbf1'
+sourceContentHash: 'sha256:241f6e09e82258d9'
+sourceBodyHash: 'sha256:8b4f70704fe27d7e'
 translatedAt: '2026-06-25T16:41:02Z'
 category: Lifestyle
 datasets:

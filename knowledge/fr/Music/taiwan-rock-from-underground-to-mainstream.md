@@ -1,19 +1,26 @@
 ---
 title: 'Histoire du rock taïwanais : trente ans de l’underground au mainstream'
-description: "Du rock underground des années 1980 à l’essor des groupes dans les années 1990, comment le rock taïwanais est passé des marges au courant dominant pour devenir une force majeure du rock sinophone"
+description: 'Du rock underground des années 1980 à l’essor des groupes dans les années 1990, comment le rock taïwanais est passé des marges au courant dominant pour devenir une force majeure du rock sinophone'
 date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Music'
 subcategory: '獨立與搖滾'
-tags: ['rock', 'histoire de la musique', 'musique underground', 'groupes', 'musique taïwanaise']
+tags:
+  [
+    'rock',
+    'histoire de la musique',
+    'musique underground',
+    'groupes',
+    'musique taïwanaise',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: true
 featured: true
 translatedFrom: 'Music/台灣搖滾樂發展史.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:13d6a9f56e217d21'
-sourceBodyHash: 'sha256:ad9585c482ee1d52'
+sourceCommitSha: 'da9ebaab'
+sourceContentHash: 'sha256:f7363f72c8db19f7'
+sourceBodyHash: 'sha256:a8ba2c74c0939b6b'
 translatedAt: '2026-05-20T05:08:34+08:00'
 ---
 
@@ -45,7 +52,7 @@ Le rock taïwanais des débuts se développa principalement dans les pubs et les
 
 ### Le jalon Crystal Records
 
-En 1987, Ren Jiang-da prit la direction de **Crystal Records**, lança des publications comme *Rockers* et commença à promouvoir de manière systématique la musique underground.[^1] Crystal Records ne se contentait pas de publier des disques : le label offrait aussi une scène aux musiciens underground grâce au « Taipei New Music Festival ».
+En 1987, Ren Jiang-da prit la direction de **Crystal Records**, lança des publications comme _Rockers_ et commença à promouvoir de manière systématique la musique underground.[^1] Crystal Records ne se contentait pas de publier des disques : le label offrait aussi une scène aux musiciens underground grâce au « Taipei New Music Festival ».
 
 Après la troisième édition du Taipei New Music Festival en 1989, les musiciens participants furent réunis dans la compilation **Completely Out of Tune**, qui incluait les premières œuvres de plusieurs groupes devenus célèbres par la suite. Elle demeure aujourd’hui encore une source de première main pour l’étude de la musique underground taïwanaise.[^2]
 
@@ -57,9 +64,9 @@ Après la troisième édition du Taipei New Music Festival en 1989, les musicien
 
 ### Blacklist Studio et le mouvement de la nouvelle chanson taïwanaise
 
-En 1989, Blacklist Studio publia *Song of Madness*, qui critiquait frontalement la réalité politique en rock taïwanais et laissa une marque incontournable dans l’histoire musicale de Taïwan après la levée de la loi martiale. Le principal créateur, Chen Ming-chang, associa la guitare acoustique à des paroles en minnan, c’est-à-dire en hokkien taïwanais, pour donner une voix aux classes ouvrières et paysannes réprimées ; Lin Wei-che utilisa des arrangements de rock moderne comme base, faisant entrer officiellement le « taïwanais dans le rock » sur la grande scène musicale.
+En 1989, Blacklist Studio publia _Song of Madness_, qui critiquait frontalement la réalité politique en rock taïwanais et laissa une marque incontournable dans l’histoire musicale de Taïwan après la levée de la loi martiale. Le principal créateur, Chen Ming-chang, associa la guitare acoustique à des paroles en minnan, c’est-à-dire en hokkien taïwanais, pour donner une voix aux classes ouvrières et paysannes réprimées ; Lin Wei-che utilisa des arrangements de rock moderne comme base, faisant entrer officiellement le « taïwanais dans le rock » sur la grande scène musicale.
 
-Le succès de *Song of Madness* déclencha un plus vaste « mouvement de la nouvelle chanson taïwanaise ». Chen Ming-chang, Bobby Chen, Yeh Chi-tien, Lim Giong et d’autres créèrent successivement du rock et du folk en taïwanais ou avec un accent minnan, brisant le cadre de la musique populaire alors dominé par le mandarin et rendant au taïwanais une place dans les médias grand public.
+Le succès de _Song of Madness_ déclencha un plus vaste « mouvement de la nouvelle chanson taïwanaise ». Chen Ming-chang, Bobby Chen, Yeh Chi-tien, Lim Giong et d’autres créèrent successivement du rock et du folk en taïwanais ou avec un accent minnan, brisant le cadre de la musique populaire alors dominé par le mandarin et rendant au taïwanais une place dans les médias grand public.
 
 Ce mouvement posa en même temps une double base pour le rock taike et les scènes indépendantes ultérieures : la libération linguistique fit de la couleur locale une ressource créative plutôt qu’un tabou, tandis que l’esprit de rébellion prolongea l’interrogation sur la réalité sociale héritée du mouvement de la chanson folk.
 
@@ -77,7 +84,7 @@ La ligne expérimentale et bruitiste comptait LTK Commune et The Clippers ; Chu 
 Fondé en 1989 après la levée de la loi martiale, le groupe est connu pour son bruitisme expérimental et sa critique politique. Le chant hurlé du chanteur Ko Jen-chien et les arrangements avant-gardistes du groupe ont poussé le rock taïwanais vers un degré extrême d’expérimentation.
 
 **Quarterback** (1995-)
-Groupe punk mené par Tiger Chen, il est connu pour ses riffs de guitare concis et puissants ainsi que pour ses paroles directes. Son morceau emblématique *Get Up* est devenu un classique du rock taïwanais des années 1990.
+Groupe punk mené par Tiger Chen, il est connu pour ses riffs de guitare concis et puissants ainsi que pour ses paroles directes. Son morceau emblématique _Get Up_ est devenu un classique du rock taïwanais des années 1990.
 
 **Luan Tan A-hsiang** (1990-)
 Tentative innovante combinant instruments traditionnels et rock, le chant d’A-hsiang fusionne l’opéra traditionnel taïwanais et l’énergie rock, créant un style singulier de « rock luantan ».
@@ -90,13 +97,13 @@ Fondé en 1997, **Chairman Band** est devenu un représentant du rock en taïwan
 
 Œuvres principales :
 
-- *The Gods Protect Taiwan* : œuvre représentative combinant culture religieuse et rock
-- *Long Live* : album emblématique célébrant la fondation du groupe
-- *You Don’t Understand* : récit rock mettant en scène la vie quotidienne des gens ordinaires à Taïwan
+- _The Gods Protect Taiwan_ : œuvre représentative combinant culture religieuse et rock
+- _Long Live_ : album emblématique célébrant la fondation du groupe
+- _You Don’t Understand_ : récit rock mettant en scène la vie quotidienne des gens ordinaires à Taïwan
 
 ### Le phénomène Mayday
 
-Ayant officiellement débuté en 1999, **Mayday** a porté le rock taïwanais à un niveau commercial inédit. Bien que son style musical soit relativement mainstream, son expression émotionnelle sincère et ses paroles inspirantes ont permis au rock de sortir des cercles de niche et de devenir une mémoire partagée du grand public. Son titre emblématique *[Stubborn](https://www.youtube.com/watch?v=w_OfGctVLdE)* est devenu la marque de jeunesse d’une génération.[^4]
+Ayant officiellement débuté en 1999, **Mayday** a porté le rock taïwanais à un niveau commercial inédit. Bien que son style musical soit relativement mainstream, son expression émotionnelle sincère et ses paroles inspirantes ont permis au rock de sortir des cercles de niche et de devenir une mémoire partagée du grand public. Son titre emblématique _[Stubborn](https://www.youtube.com/watch?v=w_OfGctVLdE)_ est devenu la marque de jeunesse d’une génération.[^4]
 
 Le succès de Mayday a prouvé le potentiel commercial du rock taïwanais et a aussi fourni aux groupes ultérieurs une référence en matière de modèle économique.
 
@@ -136,7 +143,7 @@ La plus grande caractéristique du rock taïwanais réside dans sa combinaison d
 
 Héritier de l’esprit de préoccupation sociale du mouvement de la chanson folk, le rock taïwanais touche souvent aux enjeux sociaux. LTK Commune et Chthonic sont connus pour leurs positions politiques fortes ; 1976 et 929 s’intéressent aux questions environnementales ; Fire EX. continue de prendre la parole pour la justice sociale. Cette ligne, qui s’étend d’avant la levée de la loi martiale jusqu’à aujourd’hui, constitue un trait important qui distingue le rock taïwanais de la pop commerciale.
 
-🎵 **Classiques du rock taïwanais** : [Mayday, *Stubborn*](https://www.youtube.com/watch?v=w_OfGctVLdE) ｜ [Chthonic, *Set Fire to the Island*](https://www.youtube.com/watch?v=Ynb9vFd0iNg)
+🎵 **Classiques du rock taïwanais** : [Mayday, _Stubborn_](https://www.youtube.com/watch?v=w_OfGctVLdE) ｜ [Chthonic, _Set Fire to the Island_](https://www.youtube.com/watch?v=Ynb9vFd0iNg)
 
 ## Influence internationale et position
 
@@ -170,19 +177,23 @@ Aujourd’hui, lorsque nous entendons le bruitisme expérimental de LTK Commune,
 
 ## Références
 
-- Dir. Ren Jiang-da et al., *The Voice of Rock: Encyclopedia of New Music*, Crystal Records, 1990. [Crystal Records, Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%B0%B4%E6%99%B6%E5%94%B1%E7%89%87)
-- [*Texte sur la trajectoire du rock taïwanais*, forum PTT RockMetal, 2022](https://www.ptt.cc/bbs/RockMetal/M.1652359027.A.050.html)
-- [Freshmusic, *Les graines de la musique indépendante taïwanaise : bref retour sur les 30 ans de Crystal Records*, 2016](https://freshmusic.sg/2016/12/11/crystal/)
-- [Jeph Music Notes, *Le moteur de la musique underground taïwanaise : le parcours de Crystal Records dans la nouvelle musique*](http://jeph.bluecircus.net/archives/44)
-- [PeoPo Citizen Journalism, *Au-delà de « Mayday », les cinq grands groupes taïwanais que vous devriez connaître !*, 2013](https://www.peopo.org/news/252181)
-- [Vocus, *Présentation des groupes taïwanais des années 1990 et analyse de leurs chansons classiques*, 2025](https://vocus.cc/article/675a8f37fd897800019cc23a)
-- [Wikipédia, entrée *Chairman Band*](https://zh.wikipedia.org/zh-hant/%E8%91%A3%E4%BA%8B%E9%95%B7%E6%A8%82%E5%9C%98)
+- Dir. Ren Jiang-da et al., _The Voice of Rock: Encyclopedia of New Music_, Crystal Records, 1990. [Crystal Records, Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%B0%B4%E6%99%B6%E5%94%B1%E7%89%87)
+- [_Texte sur la trajectoire du rock taïwanais_, forum PTT RockMetal, 2022](https://www.ptt.cc/bbs/RockMetal/M.1652359027.A.050.html)
+- [Freshmusic, _Les graines de la musique indépendante taïwanaise : bref retour sur les 30 ans de Crystal Records_, 2016](https://freshmusic.sg/2016/12/11/crystal/)
+- [Jeph Music Notes, _Le moteur de la musique underground taïwanaise : le parcours de Crystal Records dans la nouvelle musique_](http://jeph.bluecircus.net/archives/44)
+- [PeoPo Citizen Journalism, _Au-delà de « Mayday », les cinq grands groupes taïwanais que vous devriez connaître !_, 2013](https://www.peopo.org/news/252181)
+- [Vocus, _Présentation des groupes taïwanais des années 1990 et analyse de leurs chansons classiques_, 2025](https://vocus.cc/article/675a8f37fd897800019cc23a)
+- [Wikipédia, entrée _Chairman Band_](https://zh.wikipedia.org/zh-hant/%E8%91%A3%E4%BA%8B%E9%95%B7%E6%A8%82%E5%9C%98)
 - [Bureau of Audiovisual and Music Industry Development, Ministry of Culture](https://www.bamid.gov.tw/)
 - [Ressources du Taiwan Music Institute](https://musiciantw.ncfta.gov.tw/)
 - [Archives des lauréats des Golden Melody Awards](https://gma.tavis.tw/)
 
-[^1]: Freshmusic, *Les graines de la musique indépendante taïwanaise : bref retour sur les 30 ans de Crystal Records*, 2016. https://freshmusic.sg/2016/12/11/crystal/
-[^2]: Jeph Music Notes, *Le moteur de la musique underground taïwanaise : le parcours de Crystal Records dans la nouvelle musique*. http://jeph.bluecircus.net/archives/44
-[^3]: Wikipédia, *Chairman Band*. https://zh.wikipedia.org/zh-hant/%E8%91%A3%E4%BA%8B%E9%95%B7%E6%A8%82%E5%9C%98
-[^4]: Forum PTT RockMetal, *Texte sur la trajectoire du rock taïwanais*, 2022. https://www.ptt.cc/bbs/RockMetal/M.1652359027.A.050.html
+[^1]: Freshmusic, _Les graines de la musique indépendante taïwanaise : bref retour sur les 30 ans de Crystal Records_, 2016. https://freshmusic.sg/2016/12/11/crystal/
+
+[^2]: Jeph Music Notes, _Le moteur de la musique underground taïwanaise : le parcours de Crystal Records dans la nouvelle musique_. http://jeph.bluecircus.net/archives/44
+
+[^3]: Wikipédia, _Chairman Band_. https://zh.wikipedia.org/zh-hant/%E8%91%A3%E4%BA%8B%E9%95%B7%E6%A8%82%E5%9C%98
+
+[^4]: Forum PTT RockMetal, _Texte sur la trajectoire du rock taïwanais_, 2022. https://www.ptt.cc/bbs/RockMetal/M.1652359027.A.050.html
+
 [^5]: Bureau of Audiovisual and Music Industry Development, Ministry of Culture, archives d’activités de festivals musicaux. https://www.bamid.gov.tw/

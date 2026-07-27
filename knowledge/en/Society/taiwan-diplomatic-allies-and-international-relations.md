@@ -19,9 +19,9 @@ lastVerified: 2026-04-28
 lastHumanReview: false
 featured: true
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: 'dd39065b'
-sourceContentHash: 'sha256:106427f4b2a59983'
-sourceBodyHash: 'sha256:52dab0b7f31fb6c8'
+sourceCommitSha: '669a4c87'
+sourceContentHash: 'sha256:03188362c6b1e61a'
+sourceBodyHash: 'sha256:e6881f1d2b6924ed'
 translatedAt: '2026-05-26T05:10:57+08:00'
 ---
 

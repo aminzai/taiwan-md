@@ -30,9 +30,9 @@ lastVerified: 2026-05-15
 lastHumanReview: true
 featured: false
 translatedFrom: 'Art/紀柏豪.md'
-sourceCommitSha: 'bb411ee0'
-sourceContentHash: 'sha256:e9295abc417c9449'
-sourceBodyHash: 'sha256:deda308b17ff80b3'
+sourceCommitSha: '4138a07a'
+sourceContentHash: 'sha256:cc5a95c84301cdb2'
+sourceBodyHash: 'sha256:584bf91da94df29e'
 translatedAt: '2026-05-16T05:07:55+08:00'
 ---
 

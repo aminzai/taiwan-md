@@ -9,9 +9,9 @@ author: 'Taiwan.md Contributors'
 readingTime: 12
 featured: false
 translatedFrom: 'People/鄭成功.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:c09723b8f613b890'
-sourceBodyHash: 'sha256:8cc0f510721f307f'
+sourceCommitSha: 'a7cf3076'
+sourceContentHash: 'sha256:29ee16f25cde68b4'
+sourceBodyHash: 'sha256:fa9994749dd8a224'
 translatedAt: '2026-04-14T19:25:23+08:00'
 lastVerified: 2026-03-27
 lastHumanReview: false

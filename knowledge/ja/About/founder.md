@@ -18,9 +18,9 @@ lastVerified: 2026-06-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'About/taiwan-md.md'
-sourceCommitSha: '685f46da3'
-sourceContentHash: 'sha256:8102987729966ad2'
-sourceBodyHash: 'sha256:530088fbc265e8e5'
+sourceCommitSha: 'b8160c74'
+sourceContentHash: 'sha256:de46b78b6b1ae5fb'
+sourceBodyHash: 'sha256:ba0673429f6e80dd'
 translatedAt: '2026-06-19T12:19:41+08:00'
 image: /article-images/about/taiwan-md-homepage-2026.webp
 imageCredit: 'Taiwan.md 首頁 · taiwan.md · CC BY-SA 4.0'

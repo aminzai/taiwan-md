@@ -20,9 +20,9 @@ lastVerified: 2026-05-28
 lastHumanReview: false
 featured: true
 translatedFrom: 'People/瘂弦.md'
-sourceCommitSha: '88f47159'
-sourceContentHash: 'sha256:e294ff8cf9b9ac0a'
-sourceBodyHash: 'sha256:dd3ab574ead8013b'
+sourceCommitSha: 'b54335d0'
+sourceContentHash: 'sha256:736443e43dba4c29'
+sourceBodyHash: 'sha256:b6b66329e69543f7'
 translatedAt: '2026-06-16T17:10:37Z'
 image: '/article-images/people/yaxian-portrait-2012.webp'
 imageCredit: '目宿媒體股份有限公司 (Wikimedia Commons, CC BY-SA 4.0)'

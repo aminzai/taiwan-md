@@ -21,9 +21,9 @@ lastVerified: 2026-06-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/黑熊學院.md'
-sourceCommitSha: 'e1b5668ad'
-sourceContentHash: 'sha256:52e4902ee0218b64'
-sourceBodyHash: 'sha256:004737d115b4c40f'
+sourceCommitSha: 'cdc7cc71'
+sourceContentHash: 'sha256:f79e860b49a16b41'
+sourceBodyHash: 'sha256:dd6e524ad9f23527'
 translatedAt: '2026-06-22T00:40:58+08:00'
 image: /article-images/society/kuma-academy-blue-magpie-drill-2024.webp
 imageCredit: Tan Xudong / Voice of America

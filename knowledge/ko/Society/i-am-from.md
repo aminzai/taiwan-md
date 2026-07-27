@@ -19,9 +19,9 @@ lastVerified: 2026-06-05
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/我是OO人.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:a7c71b7402009bc6'
-sourceBodyHash: 'sha256:5b34ca12ffeca314'
+sourceCommitSha: '72dc7d1d'
+sourceContentHash: 'sha256:5d890c10b178421f'
+sourceBodyHash: 'sha256:0b63d09474dfeccb'
 translatedAt: '2026-06-16T00:44:26+08:00'
 image: '/article-images/society/woo-fanpage.webp'
 ---

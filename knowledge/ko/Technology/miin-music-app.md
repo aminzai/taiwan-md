@@ -11,9 +11,9 @@ lastVerified: 2026-06-15
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/迷音Miin.md'
-sourceCommitSha: '83f479d60'
-sourceContentHash: 'sha256:aee5ba49019fb762'
-sourceBodyHash: 'sha256:183d8e607cc534cd'
+sourceCommitSha: 'ce36d542'
+sourceContentHash: 'sha256:e317c3018b82f2b6'
+sourceBodyHash: 'sha256:bbf79206e74e0a59'
 translatedAt: '2026-06-17T01:18:25+08:00'
 image: '/article-images/technology/miin-homepage-2026.webp'
 imageCredit: '迷音 Miin 官方網站（miin.cc）首頁截圖'

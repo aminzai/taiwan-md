@@ -11,14 +11,14 @@ tags:
   - 'LSM / Masyarakat Sipil'
   - 'Tempat Seni dan Budaya'
   - 'Korpus AI dan Data Terbuka'
-category: ''
+category: 'About'
 subcategory: ''
-date: ''
-author: ''
-readingTime: ''
+date: 2026-03-18
+author: 'Taiwan.md'
+readingTime: 3
 lastVerified: ''
-lastHumanReview: ''
-featured: ''
+lastHumanReview: false
+featured: false
 translatedFrom: 'About/台灣官方網站資源.md'
 sourceCommitSha: '84e041681'
 sourceContentHash: 'sha256:08b967bc1d90e0f6'

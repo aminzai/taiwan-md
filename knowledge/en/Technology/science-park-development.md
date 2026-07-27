@@ -22,9 +22,9 @@ lastHumanReview: false
 featured: true
 image: '/article-images/technology/hsinchu-science-park-tsmc-fab5-2010.webp'
 translatedFrom: 'Technology/科技園區發展.md'
-sourceCommitSha: '11b9ab5c'
-sourceContentHash: 'sha256:b2e42e39e2b6099a'
-sourceBodyHash: 'sha256:08cc37391882e836'
+sourceCommitSha: 'bc725e8c'
+sourceContentHash: 'sha256:19e7a45a0852260f'
+sourceBodyHash: 'sha256:a1d16e29348fc28f'
 translatedAt: '2026-06-22T00:30:00+08:00'
 imageCredit: 'Peellden'
 difficulty: 'intermediate'

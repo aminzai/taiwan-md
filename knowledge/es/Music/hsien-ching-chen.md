@@ -22,9 +22,9 @@ lastVerified: 2026-06-28
 lastHumanReview: false
 featured: false
 translatedFrom: 'Music/陳嫺靜.md'
-sourceCommitSha: 'ac1d187af'
-sourceContentHash: 'sha256:f1390dd131d16ef4'
-sourceBodyHash: 'sha256:7d7c5633258e1718'
+sourceCommitSha: 'b38a5dab'
+sourceContentHash: 'sha256:0530e001b5d0938d'
+sourceBodyHash: 'sha256:3f93c99802db78df'
 translatedAt: '2026-06-29T01:02:29+08:00'
 ---
 

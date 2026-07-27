@@ -45,9 +45,9 @@ sporeLinks:
 relatedDiary:
   - 2026-06-01-130850-manual
 translatedFrom: 'Technology/Computex.md'
-sourceCommitSha: 'f42792f5b'
-sourceContentHash: 'sha256:449abef15e4dd610'
-sourceBodyHash: 'sha256:accbe76a7072df77'
+sourceCommitSha: '52389a7c'
+sourceContentHash: 'sha256:c2deb4a945d2dc5b'
+sourceBodyHash: 'sha256:a4c6e70e74235d09'
 translatedAt: '2026-07-01T16:38:22Z'
 ---
 

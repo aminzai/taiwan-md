@@ -1,14 +1,14 @@
 ---
-title: 'Governança e desafios da conservação marinha em Taiwan'
-description: 'Perante o lixo marinho, a sobrepesca e as alterações climáticas, discute-se a situação atual, os desafios e as soluções inovadoras para a conservação marinha em Taiwan'
+title: 'Desafios da Governança e da Conservação Marinha em Taiwan'
+description: 'Diante dos resíduos marinhos, da sobrepesca e das mudanças climáticas, explora-se o cenário atual, os desafios e as soluções inovadoras da conservação marinha em Taiwan.'
 date: 2026-03-18
 category: 'Nature'
 tags:
   [
     'conservação marinha',
     'poluição marinha',
-    'lixo marinho',
-    'Comissão dos Oceanos',
+    'resíduos marinhos',
+    'Comissão Marinha',
     'pesca sustentável',
   ]
 subcategory: '保育與環境'
@@ -25,381 +25,381 @@ sourceBodyHash: 'sha256:c208c01efc93c70e'
 translatedAt: '2026-07-26T21:33:24+08:00'
 ---
 
-# Governança e desafios da conservação marinha em Taiwan
+# Desafios da Governança e da Conservação Marinha em Taiwan
 
 ## Visão geral em 30 segundos
 
-Todos os anos, o lixo que entra nos mares de Taiwan é maioritariamente de plástico, com garrafas PET, tampas e palhinhas a ocuparem os três primeiros lugares. Em 2018, foi criada a Comissão dos Oceanos, a _Lei de Conservação Marinha_ foi aprovada em terceira leitura a 12 de julho de 2024 e entrou em vigor a 1 de julho de 2025, estabelecendo a base legal para a conservação marinha.
+Os resíduos que fluem anualmente para as águas de Taiwan são predominantemente plásticos; garrafas PET, tampas de garrafas e canudos ocupam o top três. A Comissão Marinha foi estabelecida em 2018, e a Lei de Conservação Marinha foi aprovada em terceira leitura em 12 de julho de 2024, entrando em vigor oficialmente em 1º de julho de 2025, estabelecendo a base legal para a conservação marinha.
 
-A conservação de tartarugas em Xiao Liuqiu, a transformação da pesca e as políticas de redução de plástico são as três principais vias que Taiwan está a seguir para promover o desenvolvimento sustentável dos oceanos.
+A conservação de tartarugas em Liouqiu, a transformação da pesca e as políticas de redução de plásticos são as três principais vias pelas quais Taiwan promove atualmente o desenvolvimento sustentável marinho.
 
-Os desafios da conservação marinha em Taiwan abrangem três dimensões — construção legal, governação da poluição e adaptação climática — nenhuma das quais pode ser negligenciada.
+Os desafios de conservação marinha de Taiwan abrangem três dimensões: construção legal, governança da poluição e adaptação climática, sendo todas indispensáveis.
 
-**Palavras-chave**: lixo marinho, Lei de Conservação Marinha, conservação de tartarugas, pesca sustentável, Comissão dos Oceanos, poluição por plástico
+**Palavras-chave**: resíduos marinhos, Lei de Conservação Marinha, conservação de tartarugas, pesca sustentável, Comissão Marinha, poluição por plásticos
 
 ## Por que é importante
 
-A conservação marinha tem um significado estratégico multifacetado para Taiwan. O oceano fornece recursos pesqueiros, regulação climática, turismo e lazer, entre outros serviços ecossistémicos; as indústrias relacionadas com o mar geram um valor de produção superior a 1 bilião de novos dólares de Taiwan, constituindo uma das espinhas dorsais da economia de Taiwan.
+A conservação marinha possui múltiplos significados estratégicos para Taiwan. Os oceanos fornecem serviços ecossistêmicos como recursos pesqueiros, regulação climática e recreação turística; o valor da produção da indústria relacionada ao mar ultrapassa 1 trilhão de dólares taiwaneses, sendo um dos pilares da economia taiwanesa.
 
-A poluição marinha afeta diretamente a qualidade dos produtos do mar e a saúde humana, e Taiwan, situada no Pacífico Ocidental, também assume responsabilidades de conservação marinha a nível regional.
+A poluição marinha afeta diretamente a qualidade dos produtos do mar e a saúde humana. Além disso, por estar localizada no oeste do Pacífico, Taiwan também assume a responsabilidade pela conservação marinha em nível regional.
 
-Um oceano saudável é a base para enfrentar as alterações climáticas e, simultaneamente, a concretização da justiça intergeracional: a proteção de hoje determina se as gerações futuras poderão continuar a usufruir destes recursos.
+Um oceano saudável é a base para enfrentar as mudanças climáticas e também uma manifestação da justiça intergeracional: as decisões de proteção de hoje determinam se as gerações futuras poderão continuar a utilizar esses recursos.
 
-## Situação atual da poluição marinha em Taiwan
+## Cenário atual da poluição marinha em Taiwan
 
-Taiwan, rodeada de mar por todos os lados, enfrenta fontes complexas de lixo marinho, com a poluição de origem terrestre, o lixo da pesca e o lixo flutuante transfronteiriço a constituírem ameaças em conjunto.
+Taiwan é cercado pelo mar em todos os lados. A origem dos resíduos marinhos é complexa, com a poluição terrestre, os resíduos da pesca e o lixo flutuante transfronteiriço constituindo ameaças conjuntas.
 
-Segundo os inquéritos de longo prazo da Agência de Conservação Marinha da Comissão dos Oceanos, o lixo nas costas de Taiwan é predominantemente de produtos de plástico, e a distribuição do problema varia da costa norte às ilhas orientais.
+De acordo com as investigações de longo prazo da Subdiretoria de Conservação Marinha da Comissão Marinha, os resíduos nas costas de Taiwan são predominantemente produtos plásticos, e a distribuição do problema varia desde a costa norte até às ilhas orientais.
 
-Além do lixo visível de grande dimensão, os microplásticos e os poluentes químicos constituem uma crise invisível difícil de eliminar, com impactos de longo prazo na vida marinha e na saúde humana.
+Além dos grandes resíduos visíveis, as microplásticos e os poluentes químicos são crises invisíveis difíceis de erradicar, causando impactos de longo prazo na vida marinha e na saúde humana.
 
-### Problema do lixo marinho
+### Problema dos resíduos marinhos
 
-Segundo a Agência de Conservação Marinha da Comissão dos Oceanos e inquéritos de organizações da sociedade civil, o problema do lixo marinho em Taiwan é grave: [^1]
+De acordo com as investigações da Subdiretoria de Conservação Marinha da Comissão Marinha e de grupos civis, o problema dos resíduos marinhos em Taiwan é grave: [^1]
 
-**Estatísticas dos principais tipos de lixo marinho** (com base nos dados de limpeza de praias da Sociedade de Proteção da Natureza 2016-2023):
-| Classificação | Tipo de lixo | Quantidade média anual | Proporção |
+**Estatísticas dos principais tipos de resíduos marinhos** (com base nos dados de limpeza de praias da Associação Wildland de 2016 a 2023):
+| Classificação | Tipo de Resíduo | Quantidade Média Anual | Proporção |
 |------|------------|------------|------|
 | 1 | Garrafas PET | 37.657 unidades | 18,2% |
-| 2 | Tampas de plástico | 29.844 unidades | 14,4% |
-| 3 | Palhinhas | 22.660 unidades | 10,9% |
-| 4 | Sacos de plástico | 21.358 unidades | 10,3% |
-| 5 | Copos para bebidas para levar | 17.694 unidades | 8,5% |
-| 6 | Talheres descartáveis | 17.392 unidades | 8,4% |
+| 2 | Tampas de garrafas plásticas | 29.844 unidades | 14,4% |
+| 3 | Canudos | 22.660 unidades | 10,9% |
+| 4 | Sacos plásticos de transporte | 21.358 unidades | 10,3% |
+| 5 | Copos de bebidas para viagem | 17.694 unidades | 8,5% |
+| 6 | Utensílios descartáveis | 17.392 unidades | 8,4% |
 
-**Análise de pontos críticos de poluição**:
+**Análise dos pontos quentes de poluição**:
 
-- **Costa norte**: Ruifang, Jinshan e arredores, afetados pelo monção nordeste, acumulam grandes quantidades de lixo marinho transfronteiriço
-- **Costa oeste**: Zonas industriais costeiras de Changhua e Yunlin com poluição mais severa
-- **Costa leste**: Correntes do Pacífico trazem lixo de alto mar
-- **Regiões insulares**: Penghu, Xiao Liuqiu afetadas pela pressão do turismo
+- **Costa Norte**: A área de Ruifeng e Jinshan, influenciada pelos ventos monçônicos do nordeste, acumula grandes quantidades de resíduos marinhos transfronteiriços.
+- **Costa Oeste**: As zonas industriais costeiras de Changhua e Yunlin sofrem com poluição mais severa.
+- **Costa Leste**: As correntes do Pacífico trazem resíduos oceânicos distantes.
+- **Regiões de ilhas**: Penghu e Liouqiu são afetados pela pressão do turismo.
 
 ### Poluição por microplásticos
 
-Os microplásticos (partículas de plástico com diâmetro inferior a 5 mm) tornaram-se assassinos invisíveis do oceano:
+As microplásticos (partículas plásticas com diâmetro inferior a 5 mm) tornaram-se um assassino invisível nos oceanos:
 
-**Fontes de poluição**: Decomposição de lixo de plástico de grande dimensão, lavagem de roupas de fibras sintéticas, partículas de desgaste de pneus, cosméticos e produtos de limpeza, e fugas de matérias-primas industriais são as cinco principais fontes de microplásticos.
+**Fontes de poluição**: A decomposição de grandes resíduos plásticos, a lavagem de roupas de fibras sintéticas, as partículas de desgaste de pneus, os cosméticos e produtos de limpeza, bem como os vazamentos de matérias-primas industriais são as cinco principais fontes de microplásticos.
 
 **Impacto ambiental**:
 
-- Ingestão acidental por organismos marinhos, afetando o sistema digestivo
-- Acumulação na cadeia alimentar, ameaçando a saúde humana
-- Adsorção de substâncias tóxicas, aumentando a toxicidade ambiental
-- Impacto no plâncton, destruindo a base ecológica marinha
+- Os organismos marinhos ingerem por engano, afetando o sistema digestivo.
+- Acumulação na cadeia alimentar, ameaçando a saúde humana.
+- Adsorção de substâncias tóxicas, aumentando a toxicidade ambiental.
+- Afeta o plâncton, destruindo a base do ecossistema marinho.
 
-**Dados de monitorização**:
-Segundo investigação da Academia Sinica, a concentração de microplásticos nos mares circundantes de Taiwan: [^2]
+**Dados de monitoramento**:
+De acordo com a pesquisa da Academia Sinica, a concentração de microplásticos nas águas circundantes de Taiwan: [^2]
 
 - Estreito de Taiwan: 0,48-4,12 partículas/m³
 - Mar da China Oriental: 0,12-3,45 partículas/m³
-- Norte do Mar da China Meridional: 0,33-2,84 partículas/m³
+- Norte do Mar do Sul da China: 0,33-2,84 partículas/m³
 - Pacífico: 0,08-1,96 partículas/m³
 
 ### Poluição química
 
-O desenvolvimento industrial trouxe a poluição química como outro grande desafio:
+A poluição química trazida pelo desenvolvimento industrial é outro grande desafio:
 
 **Principais fontes de poluição**:
 
-- Águas residuais da indústria petroquímica
+- Efluentes da indústria petroquímica
 - Perda de pesticidas agrícolas
 - Emissão de metais pesados
 - Poluentes orgânicos persistentes (POPs)
 
-**Principais substâncias poluentes**:
+**Substâncias poluentes-chave**:
 
 - **Metais pesados**: mercúrio, cádmio, chumbo, cobre
 - **Resíduos de pesticidas**: DDT, PCBs
 - **Produtos petroquímicos**: hidrocarbonetos aromáticos policíclicos (HAPs)
-- **Poluentes emergentes**: resíduos de fármacos, disruptores endócrinos
+- **Poluentes emergentes**: resíduos de medicamentos, hormônios ambientais
 
-## Desenvolvimento do quadro legal de conservação marinha
+## Desenvolvimento da legislação de conservação marinha
 
-A construção do quadro legal de conservação marinha em Taiwan é um processo que passou de uma gestão dispersa para uma governança unificada.
+A construção da legislação de conservação marinha em Taiwan é um processo que evolui de uma gestão fragmentada para uma governança unificada.
 
-A criação da Comissão dos Oceanos em 2018 integrou os assuntos marinhos anteriormente dispersos por vários ministérios; a aprovação da _Lei de Conservação Marinha_ em 2024 forneceu uma base legal clara para todo o sistema de conservação.
+A Comissão Marinha foi estabelecida em 2018, integrando os assuntos marinhos anteriormente dispersos em vários ministérios; a aprovação em terceira leitura da Lei de Conservação Marinha em 2024 forneceu uma base legal clara para todo o sistema de conservação.
 
-Estes dois marcos assinalam a transformação da governança marinha de Taiwan, passando de uma resposta passiva para um planeamento proativo.
+Esses dois marcos históricos marcam a transição da governança marinha de Taiwan de uma resposta passiva para um planejamento ativo.
 
-### Criação da Comissão dos Oceanos
+### Estabelecimento da Comissão Marinha
 
-A 28 de abril de 2018, a Comissão dos Oceanos foi formalmente criada, coordenando os assuntos marinhos nacionais:
+Em 28 de abril de 2018, a Comissão Marinha foi oficialmente estabelecida, coordenando os assuntos marinhos em todo o país:
 
 **Estrutura organizacional**:
 
-- **Comissão dos Oceanos**: coordenação e planeamento de políticas
-- **Administração da Guarda Costeira**: aplicação da lei e segurança marítima
-- **Agência de Conservação Marinha**: conservação ecológica e prevenção da poluição
-- **Instituto Nacional de Investigação Oceânica**: investigação científica e desenvolvimento tecnológico
+- **Comissão Marinha**: coordenação e planejamento de políticas
+- **Agência de Patrulha Marítima**: aplicação da lei e segurança nas águas
+- **Subdiretoria de Conservação Marinha**: conservação ecológica e prevenção de poluição
+- **Instituto Nacional de Pesquisa Oceânica**: pesquisa científica e desenvolvimento tecnológico
 
-**Principais responsabilidades**:
+**Responsabilidades centrais**:
 
-1. Planeamento e promoção de políticas marítimas
-2. Manutenção da segurança marítima
+1. Planejamento e promoção de políticas marítimas
+2. Manutenção da segurança das águas
 3. Proteção do ambiente marinho
-4. Desenvolvimento e gestão de recursos marinhos
-5. Investigação científica marinha
+4. Desenvolvimento e gestão dos recursos marinhos
+5. Pesquisa científica marinha
 
 ### Processo legislativo da Lei de Conservação Marinha
 
-A _Lei de Conservação Marinha_ foi discutida durante vários anos, aprovada em terceira leitura a 12 de julho de 2024 e entrou em vigor a 1 de julho de 2025:
+A Lei de Conservação Marinha passou por anos de discussão e foi aprovada em terceira leitura em 12 de julho de 2024, entrando em vigor oficialmente em 1º de julho de 2025:
 
 **Contexto legislativo**:
 
-- Taiwan carecia de um quadro legal unificado de conservação marinha
-- Regulamentos existentes dispersos por vários ministérios, dificultando a execução
-- Exigências das tendências internacionais de conservação marinha
-- Advocacia de longo prazo por ONGs ambientais
+- Taiwan carecia de uma legislação unificada de conservação marinha
+- As regulamentações existentes estavam dispersas em vários ministérios, dificultando a execução
+- As tendências internacionais de conservação marinha exigiam ações
+- Grupos ambientalistas civis fizeram longas campanhas
 
-**Principais conteúdos do diploma**:
+**Conteúdo-chave do projeto de lei**:
 
-#### 1. Sistema de áreas de conservação marinha
+#### 1. Sistema de Zonas de Conservação Marinha
 
-- Estabelecimento de sistema de classificação de áreas marinhas protegidas
-- Zoneamento funcional de zonas nucleares de conservação, zonas tampão e zonas de uso sustentável
-- Objetivos de conservação e medidas de gestão claros
+- Estabelecimento de um sistema de classificação de zonas de proteção marinha
+- Zonas funcionais divididas em zona de conservação central, zona tampão e zona de uso sustentável
+- Definição clara dos objetivos de conservação e medidas de gestão
 
-#### 2. Controlo de lixo marinho
+#### 2. Regulamentação de Resíduos Marinhos
 
-- Redução na fonte: restrição de produtos de plástico descartáveis
-- Sistema de monitorização: criação de rede de monitorização de lixo marinho
-- Obrigação de limpeza: responsabilidade dos utilizadores do mar na limpeza
+- Redução na fonte: limitação de produtos plásticos descartáveis
+- Sistema de monitoramento: estabelecimento de uma rede de monitoramento de resíduos marinhos
+- Obrigação de limpeza: responsabilidade dos usuários das águas para limpeza
 
-#### 3. Prevenção e controlo da poluição marinha
+#### 3. Prevenção e Controle da Poluição Marinha
 
-- Reforço do controlo da poluição de origem terrestre
-- Regulamentos de prevenção da poluição por navios
+- Reforço do controle da poluição terrestre
+- Regulamentações de prevenção de poluição de navios
 - Estabelecimento de mecanismos de resposta a emergências
 
-#### 4. Proteção da biodiversidade
+#### 4. Proteção da Diversidade Biológica
 
 - Medidas de proteção de espécies ameaçadas
-- Planos de recuperação de habitats
-- Controlo de espécies invasoras exóticas
+- Planos de restauração de habitats
+- Controle de espécies invasoras exóticas
 
-#### 5. Fiscalização e penalidades
+#### 5. Aplicação da Lei e Penalidades
 
-- Mecanismo de coordenação de fiscalização interministerial
-- Penalidades claras para atos ilegais
-- Sistema de incentivo a denúncias
+- Mecanismo de coordenação da aplicação da lei entre ministérios
+- Clarificação das penalidades para atos ilegais
+- Sistema de recompensa por denúncias
 
 **Forças impulsionadoras no processo legislativo**:
 
-- Petição de 160 mil pessoas da Greenpeace
-- Advocacia de aliança de ONGs ambientais
-- Recomendações de políticas de académicos e peritos
+- Petição de 160.000 pessoas da organização Greenpeace
+- Campanha da aliança de grupos ambientalistas civis
+- Sugestões de políticas de acadêmicos e especialistas
 - Pressão das tendências internacionais de proteção ambiental
 
-## Conservação de tartarugas: o modelo de Xiao Liuqiu
+## Conservação de tartarugas: o modelo de Liouqiu
 
-Xiao Liuqiu é a ilha com a maior densidade de tartarugas em Taiwan e o caso de sucesso mais representativo de conservação local.
+Liouqiu é a ilha com a maior densidade de tartarugas em Taiwan e também o caso de sucesso de conservação local mais representativo.
 
-A região combinou governo, academia e organizações da sociedade civil, desenvolvendo um modelo composto que concilia proteção ecológica e desenvolvimento turístico.
+A comunidade local combinou governo, unidades acadêmicas e organizações civis para desenvolver um modelo híbrido que equilibra a proteção ecológica e o desenvolvimento turístico.
 
-Os resultados de recuperação da população de tartarugas-verdes provam que a gestão autónoma comunitária pode criar mudanças significativas com recursos limitados; mas o branqueamento massivo de corais em 2020 também nos lembra que estes resultados permanecem frágeis sob a pressão das alterações climáticas.
+Os resultados da recuperação da população de tartarugas-verdes provaram que a gestão autônoma da comunidade pode criar mudanças significativas sob recursos limitados; no entanto, o branqueamento em massa de corais em 2020 também nos lembra que esses resultados permanecem frágeis sob a pressão das mudanças climáticas.
 
-### Crise ecológica das tartarugas em Xiao Liuqiu
+### Crise ecológica das tartarugas em Liouqiu
 
-Xiao Liuqiu é a área marinha com a maior densidade de tartarugas em Taiwan, mas enfrenta graves ameaças à sobrevivência:
+Liouqiu é a área marinha com a maior densidade de tartarugas em Taiwan, mas também enfrenta sérias ameaças à sobrevivência:
 
-**Espécies e números de tartarugas**:
+**Tipos e quantidade de tartarugas**:
 
 - **Tartaruga-verde**: espécie principal, visível durante todo o ano
-- **Tartaruga-de-pente**: ocasionalmente avistada
-- **Tartaruga-oliva**: números escassos
+- **Tartaruga-de-pente**: ocasionalmente observada
+- **Tartaruga-de-couro**: quantidade rara
 
 **Principais ameaças**:
 
-1. **Lixo marinho**: ingestão acidental de sacos de plástico causando obstrução digestiva
-2. **Atividades pesqueiras**: captura acidental e emaranhamento em redes de emalhar
-3. **Pressão turística**: perturbação por mergulho e destruição de habitats
-4. **Degradação de habitats**: branqueamento de corais e redução de pradarias marinhas
+1. **Resíduos marinhos**: ingestão acidental de sacos plásticos causando obstrução do trato digestivo
+2. **Atividades pesqueiras**: captura acidental e emaranhamento em redes de espera
+3. **Pressão turística**: interferência de mergulho e destruição de habitats
+4. **Degradação do habitat**: branqueamento de corais e redução de leitos de ervas marinhas
 
 ### Modelo inovador de conservação
 
-Xiao Liuqiu desenvolveu um modelo único de conservação de tartarugas:
+Liouqiu desenvolveu um modelo único de conservação de tartarugas:
 
 #### Participação comunitária na conservação
 
-**Associação Kulu de Taiwan** lidera ações de conservação local:
+**Ações de conservação local lideradas pela Associação Taiwan Langku (Taiwan Langku Island Association)**:
 
 - Rede de resgate de tartarugas por mergulhadores voluntários
-- Resgate, tratamento e libertação de tartarugas feridas/doentes
-- Formação de cientistas cidadãos marinhos
-- Monitorização ecológica de recifes de coral
+- Resgate e soltura de tartarugas doentes ou feridas
+- Treinamento de cientistas cidadãos marinhos
+- Monitoramento do ecossistema de recifes de corais
 
-#### Combinação de turismo e conservação
+#### Integração de turismo e conservação
 
-**Transformação em ecoturismo**:
+**Transformação do turismo ecológico**:
 
-- Promoção de mergulho turístico responsável
-- Formação em educação ecológica para guias
-- Discussão de controlo da capacidade de carga turística
-- Sistema de certificação "amigo das tartarugas"
+- Promoção do turismo de mergulho responsável
+- Treinamento de educação ecológica para guias
+- Discussão sobre a regulamentação da capacidade turística
+- Sistema de certificação "Amigável às Tartarugas"
 
-#### Prática de vida com redução de plástico
+#### Prática da vida sem plásticos
 
-**Plano de redução de plástico na ilha**:
+**Plano de redução de plásticos na ilha**:
 
-- Advocacia "Xiao Liuqiu, ilha sem plástico"
-- Certificação de estabelecimentos amigos da redução de plástico
-- Campanha para turistas levarem os seus próprios utensílios
-- Monitorização e limpeza de lixo marinho
+- Iniciativa "Ilha sem Plásticos" de Liouqiu
+- Certificação amigável à redução de plásticos para estabelecimentos
+- Campanha para os turistas trazerem seus próprios utensílios
+- Monitoramento e limpeza de resíduos marinhos
 
 ### Resultados e desafios da conservação
 
 **Resultados da conservação**:
 
-- Taxa de sucesso de resgate de tartarugas aumentou para 85%
-- Média anual de 30-50 tartarugas resgatadas
+- A taxa de sucesso no resgate de tartarugas aumentou para 85%
+- Número médio anual de tartarugas resgatadas: 30-50
 - Consciência ambiental dos turistas aumentou significativamente
-- Taxa de participação de estabelecimentos locais na redução de plástico atingiu 70%
+- A taxa de participação na redução de plásticos dos estabelecimentos locais atingiu 70%
 
-**Problemas ainda por resolver**:
+**Problemas ainda a resolver**:
 
-- Número de turistas superior a 1 milhão por ano, impacto a agravar-se
-- Problema do branqueamento de corais ainda não resolvido
-- Área de pradarias marinhas a diminuir anualmente
-- Coordenação de conservação transfronteiriça complexa
+- O número de visitantes ultrapassa 1 milhão de pessoas por ano, intensificando o impacto
+- O problema do branqueamento de corais ainda não foi resolvido
+- A área dos leitos de ervas marinhas está diminuindo ano após ano
+- A coordenação da conservação transfronteiriça é complexa
 
 ## Transformação sustentável da pesca
 
-A pesca de Taiwan enfrentou nos últimos quarenta anos uma severa pressão de declínio de recursos: a captura anual passou de 1,4 milhões de toneladas nos anos 80 para menos de 800 mil toneladas atualmente, uma redução superior a 40%.
+A pesca de Taiwan enfrentou severa pressão de declínio de recursos nos últimos quarenta anos: a captura anual caiu de 1,4 milhão de toneladas na década de 1980 para menos de 800.000 toneladas hoje, uma redução superior a 40%.
 
-A interação entre sobrepesca, destruição de habitats e alterações climáticas torna este problema difícil de resolver com uma única política.
+A interação entre sobrepesca, destruição de habitats e mudanças climáticas torna este problema difícil de resolver com uma única política.
 
-O governo tem promovido nos últimos anos o sistema de Captura Total Permitida, a reforma de artes de pesca e a transformação em pesca turística, procurando um ponto de equilíbrio entre a subsistência da pesca e a sustentabilidade ecológica.
+Nos últimos anos, o governo promoveu o sistema de Captura Total Permitida (TAC), a reforma dos equipamentos de pesca e a transformação do turismo pesqueiro, tentando encontrar um ponto de equilíbrio entre o sustento da pesca e a sustentabilidade ecológica.
 
 ### Problema da sobrepesca
 
 A pesca de Taiwan enfrenta uma crise de esgotamento de recursos:
 
-**Tendência de declínio das capturas**:
+**Tendência de queda na captura**:
 
-- Anos 80: captura anual de 1,4 milhões de toneladas
-- Anos 2000: captura anual de 1,2 milhões de toneladas
-- Anos 2020: captura anual de 800 mil toneladas
+- Década de 1980: captura anual de 1,4 milhão de toneladas
+- Década de 2000: captura anual de 1,2 milhão de toneladas
+- Década de 2020: captura anual de 800.000 toneladas
 - **Redução superior a 40% em 40 anos**
 
-**Principais causas**:
+**Principais razões**:
 
-1. **Sobrepesca**: intensidade de captura excede a capacidade de regeneração dos recursos
-2. **Destruição de habitats**: arrasto de fundo destrói ecologia bentónica
-3. **Alterações climáticas**: aumento da temperatura do mar afeta distribuição de peixes
-4. **Impacto da poluição**: deterioração da qualidade da água afeta a qualidade dos campos de pesca
+1. **Sobrepesca**: a intensidade da pesca excede a capacidade de regeneração dos recursos
+2. **Destruição de habitats**: as redes de arrasto de fundo destroem a ecologia do fundo do mar
+3. **Mudanças climáticas**: o aumento da temperatura do mar afeta a distribuição dos peixes
+4. **Impacto da poluição**: a deterioração da qualidade da água afeta a qualidade das áreas de pesca
 
 ### Políticas de pesca sustentável
 
-O governo promove várias medidas de pesca sustentável:
+O governo promoveu várias medidas de sustentabilidade pesqueira:
 
-#### 1. Gestão de recursos pesqueiros
+#### 1. Gestão de Recursos Pesqueiros
 
 **Sistema de Captura Total Permitida (TAC)**:
 
-- Limites anuais de captura para principais espécies
+- Estabelecimento de um limite anual de captura para as principais espécies de peixes
 - Avaliação científica do estado dos recursos
-- Mecanismo de atribuição de quotas a embarcações
+- Mecanismo de distribuição de cotas para embarcações de pesca
 
-**Períodos e zonas de vedação**:
+**Períodos e zonas de proibição de pesca**:
 
-- Proibição de captura durante períodos de reprodução de espécies importantes
-- Criação de áreas de conservação de recursos pesqueiros
-- Medidas de proteção de peixes de recife de coral
+- Proibição de pesca durante o período de reprodução das principais espécies de peixes
+- Estabelecimento de zonas de conservação de recursos pesqueiros
+- Medidas de proteção de peixes de recifes de corais
 
-#### 2. Reforma de artes e métodos de pesca
+#### 2. Reforma de Equipamentos e Métodos de Pesca
 
-**Promoção de artes de pesca seletivas**:
+**Promoção de equipamentos de pesca seletivos**:
 
-- Aumento das especificações de malha para evitar captura de juvenis
+- Aumento do tamanho das malhas das redes para evitar a captura de alevinos
 - Dispositivos de escape para prevenir capturas acidentais
-- Desenvolvimento de artes de pesca amigas das tartarugas
+- Desenvolvimento de equipamentos de pesca amigáveis às tartarugas
 
-**Controlo do arrasto de fundo**:
+**Regulamentação das redes de arrasto de fundo**:
 
-- Limitação de áreas de operação
-- Padronização de especificações de redes
-- Monitorização de espécies capturadas
+- Restrição das áreas de operação
+- Padronização das especificações dos equipamentos
+- Monitoramento das espécies capturadas
 
-#### 3. Apoio à transformação da pesca
+#### 3. Apoio à Transformação da Pesca
 
-**Promoção de aquicultura ecológica**:
+**Promoção da aquicultura ecológica**:
 
-- Tecnologia de aquicultura em sistema de recirculação
-- Certificação de produtos aquáticos biológicos
-- Sistemas de aquaponia
+- Tecnologia de aquicultura em tanques de recirculação
+- Certificação de produtos orgânicos marinhos
+- Sistema de aquaponia
 
-**Desenvolvimento de pesca turística**:
+**Desenvolvimento do turismo pesqueiro**:
 
-- Orientação para operação de embarcações de pesca recreativa
-- Promoção de turismo em aldeias piscatórias
-- Construção de pastagens marinhas
+- Orientação para a gestão de barcos de pesca de recreação
+- Promoção do turismo em aldeias pesqueiras
+- Construção de fazendas marinhas
 
 ### Modelos inovadores de conservação
 
 #### Participação dos pescadores na conservação
 
-**Plano "Pescadores guardiões do oceano"**:
+**Plano de Pescadores Guardiões do Mar**:
 
-- Frotas de limpeza oceânica de pescadores
-- Mecanismo de incentivo à recolha de lixo marinho
-- Assistência na monitorização ecológica marinha
+- Frota de limpeza marinha dos pescadores
+- Mecanismo de recompensa para coleta de resíduos marinhos
+- Assistência ao monitoramento da ecologia marinha
 
-**Promoção de métodos de pesca amigos**:
+**Promoção de métodos de pesca amigáveis**:
 
-- Formação em métodos de pesca amigos das tartarugas
+- Treinamento em métodos de pesca amigáveis às tartarugas
 - Orientação técnica para redução de capturas acidentais
-- Subsídios para melhoria de artes de pesca
+- Subsídios para melhoria de equipamentos de pesca
 
-#### Gestão assistida por tecnologia
+#### Gestão auxiliada por tecnologia
 
-**Sistema de Monitorização de Embarcações de Pesca (VMS)**:
+**Sistema de Monitoramento de Embarcações (VMS)**:
 
-- Rastreamento GPS da posição das embarcações
-- Relatório de capturas em tempo real
-- Monitorização de operações ilegais
+- Rastreamento GPS da posição das embarcações de pesca
+- Relatórios em tempo real da captura
+- Monitoramento de operações ilegais
 
-**Aplicação de big data na pesca**:
+**Aplicação de Big Data na Pesca**:
 
-- Análise estatística de capturas
+- Análise estatística das capturas
 - Modelos de avaliação de recursos
 - Gestão preditiva
 
-## Estratégias de prevenção e controlo da poluição marinha
+## Estratégias de prevenção e controle da poluição marinha
 
-A governação da poluição marinha requer avanço simultâneo em três níveis: redução na fonte para impedir que o lixo entre no oceano, ações ativas de limpeza para reduzir a poluição existente, e redes de monitorização que forneçam base científica.
+A governança da poluição marinha requer avanços simultâneos em três níveis: redução na fonte para evitar que os resíduos entrem no oceano, ações de limpeza ativa para reduzir a poluição já existente e uma rede de monitoramento que fornece base científica.
 
-Desde 2002, Taiwan tem implementado políticas de restrição de plástico, que se expandiram ao longo de três fases, estabelecendo um quadro regulamentar relativamente completo.
+Desde 2002, Taiwan implementou políticas de restrição de plásticos, que, após três fases de expansão, já estabeleceram um quadro regulatório relativamente completo.
 
-Os movimentos de limpeza de praias da sociedade civil e a participação em ciência cidadã deram a este sistema de prevenção e controlo um amplo apoio social.
+Os movimentos de limpeza de praias e a participação da ciência cidadã deram a este sistema de prevenção e controle um amplo apoio social.
 
 ### Políticas de redução na fonte
 
-#### Promoção faseada da política de restrição de plástico
+#### Implementação por fases das políticas de restrição de plásticos
 
-A política de restrição de plástico de Taiwan expandiu o seu âmbito em três fases: [^3]
+As políticas de restrição de plásticos em Taiwan expandiram o escopo em três fases: [^3]
 
 **Primeira fase (2002)**:
 
-- Hipermercados e supermercados não podem fornecer sacos de plástico gratuitamente
-- Limites de espessura e sistema de cobrança
+- Supermercados e hipermercados não podem fornecer sacos plásticos gratuitamente
+- Restrições de espessura e sistema de cobrança
 
 **Segunda fase (2018)**:
 
-- Expansão a todo o comércio a retalho
-- Proibição de palhinhas de plástico descartáveis em estabelecimentos de bebidas
+- Expandido para todos os setores de varejo
+- Proibição de canudos plásticos descartáveis em lojas de bebidas
 
 **Terceira fase (2025)**:
 
-- Restauração proíbe totalmente produtos de plástico descartáveis
-- Exigências de embalagens ecológicas para plataformas de entrega
+- Proibição total de produtos plásticos descartáveis na indústria de alimentos
+- Requisitos de embalagens ecológicas para plataformas de entrega
 
 #### Promoção da economia circular
 
-**Reciclagem e reutilização de plástico**:
+**Reciclagem e reaproveitamento de plásticos**:
 
 - Taxa de reciclagem de garrafas PET atinge 95%
 - Tecnologia de reciclagem química de plásticos residuais
-- Aplicação de materiais regenerados a partir de lixo marinho
+- Aplicação de materiais reciclados de resíduos marinhos
 
 **Desenvolvimento de materiais alternativos**:
 
@@ -407,206 +407,206 @@ A política de restrição de plástico de Taiwan expandiu o seu âmbito em trê
 - Embalagens de fibras naturais
 - Design de produtos reutilizáveis
 
-### Ações de limpeza oceânica
+### Ações de limpeza marinha
 
 #### Limpeza liderada pelo governo
 
-**Remoção de lixo flutuante marinho**:
+**Remoção de lixo flutuante**:
 
-- Guarda Costeira realiza patrulhas e limpezas regulares no mar
-- Colaboração com embarcações de pesca para recolha de lixo marinho
-- Limpeza prioritária em regiões insulares
+- Patrulha e limpeza marítima regular da Agência de Patrulha Marítima
+- Cooperação com barcos de pesca para coleta de resíduos marinhos
+- Limpeza focada em regiões de ilhas
 
-**Limpeza de linhas costeiras**:
+**Limpeza da linha costeira**:
 
-- Governos municipais realizam limpezas regulares
+- Limpeza regular dos governos municipais e county
 - Mobilização de voluntários ambientais
-- Programa de adoção de costas por empresas
+- Programas de adoção de praias por empresas
 
-#### Ações de participação da sociedade civil
+#### Ações de participação civil
 
-**Movimento nacional de limpeza de praias**:
+**Movimento de limpeza de praias universal**:
 
-- Média anual de 200 mil participantes
-- Limpeza de 500-800 toneladas de lixo marinho
-- Participação na ação internacional de limpeza de praias (ICC)
+- Participação média anual de 200.000 pessoas
+- Limpeza de 500-800 toneladas de resíduos marinhos
+- Participação na ação internacional ICC (International Coastal Cleanup)
 
 **Tecnologias inovadoras de limpeza**:
 
-- Desenvolvimento de dispositivos de interceção de lixo marinho
-- Tecnologia de filtração de microplásticos
-- Classificação de lixo marinho assistida por IA
+- Desenvolvimento de dispositivos de interceptação de resíduos marinhos
+- Tecnologia de filtragem de microplásticos
+- Classificação de resíduos marinhos auxiliada por IA
 
-### Rede de monitorização da poluição
+### Rede de monitoramento de poluição
 
-#### Monitorização do ambiente marinho
+#### Monitoramento do ambiente marinho
 
-**Sistema de monitorização da qualidade da água**:
+**Sistema de monitoramento da qualidade da água**:
 
-- 50 estações de monitorização regular
-- Detecção de metais pesados, poluentes orgânicos
-- Divulgação de dados em tempo real
+- Monitoramento regular em 50 estações
+- Detecção de metais pesados e poluentes orgânicos
+- Divulgação pública de dados em tempo real
 
-**Plano de monitorização biológica**:
+**Plano de monitoramento biológico**:
 
 - Avaliação de saúde de espécies indicadoras
-- Monitorização de acumulação de poluentes em tecidos
-- Indicadores de saúde ecossistémica
+- Monitoramento da acumulação de poluentes nos tecidos
+- Indicadores de saúde do ecossistema
 
-#### Inovação na monitorização de lixo marinho
+#### Inovação no monitoramento de resíduos marinhos
 
-**Participação em ciência cidadã**:
+**Participação da ciência cidadã**:
 
-- Inquéritos rápidos de lixo marinho
-- Rede de monitorização de voluntários
-- Relatório em tempo real via App móvel
+- Pesquisa rápida de triagem de resíduos marinhos
+- Rede de monitoramento por voluntários
+- Relatórios em tempo real via aplicativos de celular
 
-**Monitorização assistida por tecnologia**:
+**Monitoramento auxiliado por tecnologia**:
 
-- Tecnologia de deteção remota por satélite
+- Tecnologia de sensoriamento remoto por satélite
 - Patrulha por drones
-- Modelos de previsão de trajetórias de deriva
+- Modelos de previsão de trajetórias de flutuação
 
-## Alterações climáticas e acidificação oceânica
+## Mudanças climáticas e acidificação oceânica
 
-Entre todas as ameaças oceânicas, as alterações climáticas são o problema global mais difícil de resolver com ações locais.
+Entre todas as ameaças oceânicas, as mudanças climáticas são o problema global mais difícil de resolver apenas com ações locais.
 
-A temperatura da superfície do mar nas águas circundantes de Taiwan subiu 1,2 °C nos últimos 50 anos, e o grau de acidificação oceânica também se agravou com o aumento da concentração de CO₂ atmosférico.
+Nas últimas 50 anos, a temperatura da superfície das águas circundantes de Taiwan aumentou 1,2°C, e a acidificação oceânica também se intensificou com o aumento da concentração de CO₂ atmosférico.
 
-O evento de branqueamento massivo de corais em 2020, o maior da história de Taiwan, foi uma erupção concentrada desta tendência de longo prazo: por melhor que seja o trabalho de conservação local, não consegue resistir sozinho ao impacto do aquecimento global.
+O evento de branqueamento de corais em maior escala na história de Taiwan em 2020 foi uma explosão concentrada dessa tendência de longo prazo: não importa quão bem o trabalho de conservação local seja feito, ele não pode resistir sozinho ao impacto do aquecimento global.
 
 ### Impacto do aquecimento oceânico
 
-Nos últimos 50 anos, a temperatura da superfície do mar em Taiwan subiu 1,2 °C, a frequência de temperaturas de verão acima de 30 °C aumentou, e os eventos de ondas de calor marinho tornaram-se mais frequentes. O impacto nos ecossistemas já se manifesta plenamente: branqueamento massivo de corais em 2020, o maior da história de Taiwan; migração para norte de espécies de peixes temperados e aumento de espécies tropicais; retração de pradarias marinhas devido a temperaturas elevadas; e alteração da composição do plâncton afetando a base de toda a cadeia alimentar.
+Nas últimas 50 anos, a temperatura da superfície do mar em Taiwan aumentou 1,2°C, a frequência de temperaturas do mar no verão ultrapassarem 30°C aumentou, e os eventos de ondas de calor oceânicas tornaram-se mais frequentes. O impacto nos ecossistemas já se manifestou plenamente: o maior evento de branqueamento de corais na história de Taiwan em 2020, o deslocamento de espécies de águas temperadas para o norte e o aumento de espécies tropicais, a retração dos leitos de ervas marinhas devido ao calor e a mudança na composição do plâncton afetando toda a base da cadeia alimentar.
 
 ### Problema da acidificação oceânica
 
-O CO₂ atmosférico dissolve-se na água do mar formando ácido carbónico, levando à descida do pH e à diminuição da saturação de carbonato de cálcio. Isto afeta sobretudo organismos que dependem de carbonato de cálcio para formar conchas: formação de conchas dificultada em bivalves e crustáceos; crescimento de esqueletos de corais inibido; redução de plancton calcificador; afetando assim a estrutura basal de toda a cadeia alimentar.
+Após o CO₂ atmosférico se dissolver na água do mar, forma-se ácido carbônico, levando à queda do pH e à redução da saturação de carbonato de cálcio. Isso impacta mais severamente os organismos que dependem do carbonato de cálcio para formar conchas: a formação de conchas de moluscos e crustáceos torna-se difícil, o crescimento dos esqueletos dos corais é obstruído, o plâncton calcário diminui, afetando subsequentemente a estrutura subjacente de toda a cadeia alimentar.
 
 ### Estratégias de adaptação
 
-As estratégias de adaptação climática avançam em dois níveis. Na construção de resiliência ecológica: criação de refúgios climáticos (_Climate Refugia_) para proteger diversidade genética, manutenção de conectividade ecológica, promoção de cultivo de linhagens de corais tolerantes ao calor e construção de recifes artificiais. Em sistemas de alerta precoce: rede de monitorização de temperatura do mar em tempo real, acompanhamento do grau de acidificação e avaliação de risco de espécies vulneráveis, fornecendo capacidade de alerta precoce para que as entidades de gestão possam agir antes da ocorrência de eventos extremos.
+As estratégias de adaptação climática avançam em duas dimensões. Na construção da resiliência ecológica, estabelecem-se refúgios climáticos (Climate Refugia) para proteger a diversidade genética, mantêm-se a conectividade ecológica e promove-se o cultivo de linhagens de corais resistentes ao calor e a construção de recifes artificiais. No sistema de alerta precoce, redes de monitoramento de temperatura do mar em tempo real, rastreamento do grau de acidificação e avaliação de risco de espécies vulneráveis fornecem capacidade de alerta precoce, permitindo que as unidades de gestão tomem medidas antes que eventos extremos ocorram.
 
 ## Cooperação internacional e responsabilidade regional
 
-O oceano é um bem comum que transcende fronteiras nacionais, e tanto a poluição transfronteiriça como a conservação de espécies migratórias requerem cooperação regional.
+O oceano é um patrimônio comum que transcende fronteiras nacionais; a poluição transfronteiriça e a conservação de espécies migratórias exigem cooperação regional.
 
-Embora Taiwan enfrente limitações na representação diplomática formal, participa na governança oceânica internacional através de canais de diplomacia científica e de organizações não governamentais.
+Embora Taiwan enfrente limitações quanto ao direito de representação diplomática formal, ainda participa da governança marinha internacional através da diplomacia científica e de canais de organizações não governamentais.
 
-Esta estratégia de "trocar ciência por assento à mesa" permite a Taiwan manter visibilidade e influência internacionais consideráveis em temas específicos.
+Essa estratégia de "trocar ciência por assentos" permitiu que Taiwan mantivesse uma visibilidade e influência internacionais consideráveis em questões específicas.
 
 ### Participação em convenções internacionais
 
-Taiwan participa na conservação marinha internacional através de múltiplos canais: em mecanismos de cooperação regional, aderiu à Organização de Ciências Marinha do Pacífico Norte (PICES), à Parceria de Política Marinha da APEC e à Parceria dos Mares da Ásia Oriental (PEMSEA); em redes de organizações não governamentais, mantém contactos com a IUCN, a Parceria Global de Lixo Marinho (GPML) e a Iniciativa Internacional de Recifes de Coral (ICRI).
+Taiwan participa da conservação marinha internacional através de múltiplos canais: no que diz respeito aos mecanismos de cooperação regional, Taiwan aderiu à Organização Científica do Oceano do Pacífico Norte (PICES), à Parceria de Políticas Oceânicas da APEC e à Parceria Oceânica da Ásia Oriental (PEMSEA); na rede de organizações não governamentais, mantém contato com a UICN, a Parceria Global de Resíduos Marinhos (GPML) e a Aliança de Recifes de Corais (ICRI).
 
-### Diplomacia oceânica
+### Diplomacia marinha
 
-A diplomacia oceânica de Taiwan tem como eixo principal a cooperação científica e a assistência técnica. Intercâmbio de navios de investigação e de cientistas é o canal convencional para manter relações bilaterais; fornecer tecnologia de gestão sustentável de pesca a nações amigas do Pacífico é a forma concreta de Taiwan fortalecer a influência regional dentro do espaço diplomático limitado.
+A diplomacia marinha de Taiwan tem como eixo central a cooperação científica e a assistência técnica. Visitas mútuas de navios de pesquisa e intercâmbio de cientistas são canais regulares para manter relações bilaterais; fornecer tecnologia de gestão sustentável da pesca aos países aliados do Pacífico é uma maneira concreta pela qual Taiwan reforça sua influência regional dentro de um espaço diplomático limitado.
 
 ### Governança oceânica regional
 
-O lixo marinho transfronteiriço é um problema comum da Ásia Oriental: Taiwan participa em investigação de trajetórias de deriva com China, Japão e Coreia, e coopera com parceiros regionais na gestão de lixo de pesca e intercâmbio de tecnologias de controlo de poluição. Na proteção da biodiversidade, a cooperação transfronteiriça de conservação de cetáceos e a proteção da rota migratória Ásia Oriental-Austrália de aves migratórias são casos representativos da participação de Taiwan na governança ecológica regional.
+Os resíduos marinhos transfronteiriços são um problema comum enfrentado pela Ásia Oriental: Taiwan participa da pesquisa sobre trajetórias de flutuação China-Japão-Coreia e coopera com parceiros regionais para promover a gestão de resíduos da pesca e o intercâmbio de tecnologias de poluição. Na proteção da diversidade biológica, a cooperação transnacional para a conservação de baleias e golfinhos e a proteção das rotas de migração de aves na Ásia Oriental-Austrália são casos representativos da participação de Taiwan na governança ecológica regional.
 
 ## Tecnologias inovadoras e soluções
 
-Perante as limitações dos métodos tradicionais de conservação, Taiwan começou a introduzir inovação tecnológica no trabalho de conservação marinha.
+Diante das limitações dos métodos tradicionais de conservação, Taiwan começou a introduzir a inovação tecnológica no trabalho de conservação marinha.
 
-Desde bóias inteligentes a monitorização assistida por IA, desde impressão 3D de corais a reciclagem de redes de pesca, estas tentativas inovadoras incluem algumas já em aplicação prática e outras ainda em fase experimental.
+De boias inteligentes à monitoração auxiliada por IA, da impressão 3D de corais à reciclagem de redes de pesca, essas tentativas inovadoras algumas já entraram em aplicação prática, enquanto outras ainda estão em fase de teste.
 
-A observação de Chen Chao-lun da Academia Sinica merece ser recordada: "A tecnologia só pode ganhar tempo, a verdadeira solução continua a ser a redução das emissões de gases com efeito de estufa." A tecnologia é ferramenta auxiliar, não substitui a mudança fundamental.
+A observação de Chen Zhao-lun da Academia Sinica merece ser lembrada: "A tecnologia só pode ganhar tempo; a verdadeira solução ainda é reduzir as emissões de gases de efeito estufa." A tecnologia é uma ferramenta auxiliar e não pode substituir a mudança fundamental.
 
-### Desenvolvimento de tecnologia oceânica
+### Desenvolvimento da tecnologia marinha
 
-Em tecnologia de monitorização, sistemas de bóias inteligentes permitem monitorização em tempo real de qualidade da água, correntes e ondas, e plataformas de big data oceânico combinadas com aprendizagem automática apoiam a avaliação de recursos pesqueiros e a avaliação de saúde ecossistémica. Em tecnologia de limpeza, dispositivos de interceção de lixo marinho, robôs de classificação automática e tecnologia de filtração de microplásticos entram gradualmente em aplicação; tecnologia de impressão 3D de corais, drones de sementeira de pradarias marinhas e tecnologia de construção de recifes artificiais abrem novas possibilidades para o trabalho de recuperação.
+No que diz respeito às tecnologias de monitoramento, os sistemas de boias inteligentes podem monitorar em tempo real a qualidade da água, as correntes marítimas e as ondas, enquanto a plataforma de Big Data oceânico combinada com aprendizado de máquina suporta a avaliação de recursos pesqueiros e a avaliação da saúde do ecossistema. No que diz respeito às tecnologias de limpeza, dispositivos de interceptação de lixo marinho, robôs de classificação automática e tecnologias de filtragem de microplásticos estão gradualmente entrando em aplicação; a tecnologia de impressão 3D de corais, drones de semeadura de ervas marinhas e tecnologias de construção de recifes artificiais abrem novas possibilidades para o trabalho de restauração.
 
-### Aplicação de ciência dos materiais
+### Aplicação da ciência dos materiais
 
-O desenvolvimento de materiais amigos do oceano inclui plásticos biodegradáveis em ambiente marinho (plásticos à base de algas, materiais derivados de quitina) e reutilização de lixo marinho (reciclagem de redes de pesca em fibras, tecidos de garrafas residuais, equipamento desportivo de lixo marinho). Estas inovações de materiais tentam resolver o problema dos plásticos descartáveis a partir do design de produto.
+O desenvolvimento de materiais amigáveis ao oceano inclui plásticos biodegradáveis para o ambiente marinho (plásticos à base de algas, materiais derivados de quitina) e o reaproveitamento de resíduos marinhos (fibras recicladas de redes de pesca, roupas feitas de garrafas recicladas, produtos esportivos feitos de resíduos marinhos). Essas inovações materiais tentam resolver o problema dos plásticos descartáveis desde a fonte do design do produto.
 
-### Aplicação de inovação digital
+### Aplicações de inovação digital
 
-Plataformas de ciência cidadã permitem que mais pessoas participem no trabalho de conservação. Apps de conservação marinha permitem relatório em tempo real de lixo marinho e registo de avistamentos de espécies; tecnologia VR é usada em educação ecológica marinha e experiência imersiva de impacto da poluição, permitindo que quem nunca mergulhou também sinta a realidade do oceano.
+Plataformas de ciência cidadã permitem que mais pessoas participem do trabalho de conservação. Aplicativos de conservação marinha podem reportar em tempo real resíduos marinhos e registrar avistamentos de biologia; a tecnologia VR é usada para educação ecológica marinha e experiências imersivas de impacto da poluição, permitindo que pessoas que nunca mergulharam sintam o estado atual do oceano.
 
-## Benefícios económicos e transformação industrial
+## Benefícios econômicos e transformação industrial
 
-A relação entre conservação marinha e desenvolvimento económico tem sido longamente mal entendida como competição de soma zero.
+A relação entre conservação marinha e desenvolvimento econômico foi mal comprevida por muito tempo como uma competição de soma zero.
 
-Na realidade, ecossistemas marinhos saudáveis são a base do turismo marinho, pesca sustentável e indústria de tecnologia oceânica; investir em conservação é investir no futuro da indústria.
+Na realidade, um ecossistema marinho saudável é a base para o turismo marinho, a pesca sustentável e a indústria de tecnologia marinha; investir na conservação é investir no futuro da indústria.
 
-O turismo ecológico de Taiwan já atinge 50 mil milhões de novos dólares de Taiwan em valor de produção anual, e o prémio de mercado de produtos aquáticos biológicos também permite a alguns pescadores ver incentivos à transformação; esta lógica de "a conservação cria valor" é a linguagem-chave para convencer a indústria a apoiar políticas de conservação.
+O valor da produção do turismo ecológico em Taiwan já atingiu 50 bilhões de dólares taiwaneses, e o prêmio de mercado de produtos orgânicos do mar também mostrou aos pescadores um incentivo para a transformação; essa lógica de "a conservação cria valor" é a linguagem chave para persuadir o setor industrial a apoiar as políticas de conservação.
 
 ### Desenvolvimento da economia azul
 
-As indústrias relacionadas com o oceano de Taiwan abrangem três áreas: turismo, pesca e tecnologia. Turismo ecológico com valor de produção anual de 50 mil milhões de novos dólares de Taiwan, turismo de mergulho com taxa de crescimento anual de 15%; produtos aquáticos biológicos com prémio de preço de 30-50%, certificação de etiqueta ecológica aumenta competitividade de mercado; equipamento de monitorização oceânica para exportação, tecnologia de dessalinização para exportação e energia eólica offshore representam o potencial comercial da tecnologia oceânica.
+As indústrias relacionadas ao mar de Taiwan abrangem três domínios: turismo, pesca e tecnologia. O valor da produção do turismo ecológico atinge 50 bilhões de dólares taiwaneses, com uma taxa de crescimento anual de 15% no turismo de mergulho; o prêmio de preço de 30-50% nos produtos orgânicos do mar e a certificação de selo ecológico aumentam a competitividade de mercado; as exportações de equipamentos de monitoramento marinho, a exportação de tecnologia de dessalinização de água do mar e a energia eólica offshore representam o potencial comercial da tecnologia marinha.
 
-### Apoio de finanças verdes
+### Suporte das finanças verdes
 
-Instrumentos de finanças sustentáveis estão a incorporar progressivamente indicadores de conservação marinha: investimento ESG inclui indicadores marinhos como itens de pontuação, emissão de obrigações azuis (_blue bonds_) fornece financiamento de projeto para planos oceânicos, avaliação de valor de serviços ecossistémicos e quantificação económica da função de sumidouro de carbono dão base de implementação a regimes de contabilidade de capital natural.
+As ferramentas financeiras sustentáveis estão gradualmente incorporando indicadores de conservação marinha: os investimentos ESG listam os indicadores marinhos como itens de pontuação, os títulos azuis (blue bonds) fornecem financiamento de projetos para planos oceânicos, e a avaliação econômica do valor dos serviços ecossistêmicos e a quantificação econômica da função de sumidouros de carbono fornecem uma base concreta para o sistema de contabilidade de capital natural.
 
-## Perspetivas futuras e desafios
+## Perspectivas futuras e desafios
 
-O quadro de objetivos para 2030 fornece direções de esforço quantificadas, mas a concretização dos objetivos requer mudanças simultâneas na governança transfronteiriça, colaboração internacional e comportamento social.
+O quadro de metas para 2030 fornece uma direção quantitativa de esforço, mas a realização das metas requer mudanças simultâneas na governança transfronteiriça, na cooperação internacional e no comportamento social.
 
-O maior desafio que Taiwan enfrenta não é a falta de tecnologia ou ferramentas políticas, mas a complexidade da integração institucional e a longo prazo da mobilização social.
+O maior desafio que Taiwan enfrenta não é a falta de ferramentas tecnológicas ou políticas, mas sim a complexidade da integração institucional e a natureza de longo prazo da mobilização social.
 
-Nesta dimensão, o caminho de "autonomia comunitária + participação cidadã" demonstrado pelo modelo de Xiao Liuqiu pode ter mais resiliência a longo prazo do que qualquer plano governamental.
+Nessa dimensão, a via "comunidade autônoma + participação cidadã" demonstrada pelo modelo de Liouqiu pode ser mais resiliente a longo prazo do que qualquer plano governamental.
 
-### Objetivos de visão para 2030
+### Metas da Visão 2030
 
-O governo estabeleceu três categorias de objetivos abrangendo redução da poluição (redução de 50% de lixo marinho, taxa de proibição de plásticos descartáveis de 90%, taxa de conformidade de qualidade da água do mar de 95%), recuperação ecológica (área de áreas marinhas protegidas a atingir 20%, taxa de cobertura de corais recuperada ao nível dos anos 90, quantidade de recursos de espécies de peixes importantes recuperada em 30%) e participação social (500 mil participantes anuais em limpeza de praias, taxa de普及 de educação ambiental de 80%, taxa de participação de comunidades costeiras em conservação de 70%).
+As três categorias de metas estabelecidas pelo governo abrangem a redução de poluição (redução de 50% nos resíduos marinhos, taxa de proibição de 90% para plásticos de uso único, taxa de conformidade de 95% para a qualidade da água do mar), restauração ecológica (área de 20% de zonas de proteção marinha, recuperação da cobertura de corais aos níveis da década de 1990, recuperação de 30% dos recursos de espécies de peixes importantes) e participação social (500.000 pessoas em limpezas de praias anuais, taxa de普及ação de 80% para educação ambiental, taxa de participação de 70% das comunidades costeiras na conservação).
 
-### Desafios por resolver
+### Desafios a resolver
 
-A conservação marinha de Taiwan enfrenta três obstáculos estruturais. Na governança transfronteiriça, a divisão de competências entre governo central e local ainda não está clarificada, e a eficiência dos mecanismos de coordenação interministeriais tem de melhorar. Na representação internacional, a falta de assento formal coloca Taiwan em posição desfavorável na obtenção de informação e formulação de padrões técnicos. No comportamento social, a lentidão na mudança de hábitos de consumo, a disparidade de consciência ambiental entre cidade e campo, e a lógica de decisão que prioriza considerações económicas, tudo isso enfraquece a força de execução das políticas.
+A conservação marinha de Taiwan enfrenta três obstáculos estruturais. No que diz respeito à governança transfronteiriça, a divisão de responsabilidades entre o governo central e os governos locais ainda não está clara, e a eficiência dos mecanismos de coordenação interministerial precisa ser melhorada. No que diz respeito à representação internacional, a falta de assentos formais coloca Taiwan em posição desvantajosa na obtenção de informações e na formulação de padrões técnicos. No que diz respeito ao comportamento social, a mudança lenta nos hábitos de consumo, a lacuna na consciência ambiental entre áreas urbanas e rurais e a lógica decisória que prioriza considerações econômicas enfraquecem a força de execução das políticas.
 
 ### Vias inovadoras de solução
 
-#### Capacitação pela tecnologia
+#### Capacitação tecnológica
 
-A transformação digital traz novas ferramentas para a conservação marinha: redes de monitorização oceânica IoT permitem acompanhar mudanças de qualidade da água em tempo real, tecnologia blockchain usada em rastreabilidade pesqueira para garantir sustentabilidade, sistemas de apoio à decisão assistidos por IA apoiam análise decisória.
+A transformação digital traz novas ferramentas para a conservação marinha: redes de monitoramento oceânico IoT podem acompanhar em tempo real as mudanças na qualidade da água, a tecnologia blockchain é usada para rastreabilidade pesqueira garantindo sustentabilidade, e sistemas auxiliados por IA suportam a análise de decisões.
 
 #### Inovação social
 
-Parcerias diversificadas são a base social da conservação marinha: empresas combinam responsabilidade social com ações de conservação, comunidades locais estabelecem mecanismos de autogestão, participação ativa da geração mais jovem traz nova energia de conservação.
+Parcerias diversificadas são a base social da conservação marinha: empresas integram a responsabilidade social às ações de conservação, comunidades locais estabelecem mecanismos de gestão autônoma, e a participação de ações da geração mais jovem também impulsiona uma nova onda de energia de conservação.
 
 #### Inovação política
 
-Aplicação de instrumentos políticos inclui: implementação do princípio do poluidor-pagador, criação de sistema de pagamento por serviços ecossistémicos, introdução de mecanismos de incentivo por desempenho de conservação, permitindo que o trabalho de conservação obtenha suporte financeiro a longo prazo.
+A aplicação de ferramentas políticas inclui: implementar o princípio de que o poluidor paga, estabelecer um sistema de pagamento por serviços ecossistêmicos e introduzir mecanismos de recompensa por desempenho de conservação, permitindo que o trabalho de conservação receba suporte financeiro de longo prazo.
 
 ## Conclusão
 
-A governação da poluição marinha e o trabalho de conservação em Taiwan estão num ponto de viragem crítico. A aprovação da _Lei de Conservação Marinha_ assinala o estabelecimento da base legal, o modelo de conservação de tartarugas de Xiao Liuqiu demonstra o poder da participação comunitária, a transformação sustentável da pesca prova a possibilidade de ganho mútuo entre economia e conservação.
+O trabalho de governança da poluição e conservação marinha em Taiwan está em um ponto de virada crucial. A aprovação da Lei de Conservação Marinha marca a estabelecimento da base legal, o modelo de conservação de tartarugas de Liouqiu demonstrou o poder da participação comunitária, e a transformação sustentável da pesca provou a possibilidade de ganho duplo para a economia e a conservação.
 
-Perante desafios globais como alterações climáticas, acidificação oceânica e poluição transfronteiriça, Taiwan precisa de avançar simultaneamente em três dimensões — inovação tecnológica, participação social e cooperação internacional — combinando orientação de políticas governamentais com vitalidade da sociedade civil, para construir um modelo de conservação marinha passível de referência.
+Diante de desafios globais como mudanças climáticas, acidificação oceânica e poluição transfronteiriça, Taiwan precisa avançar simultaneamente nas três dimensões de inovação tecnológica, participação social e cooperação internacional, combinando a orientação de políticas governamentais com a vitalidade civil para construir um modelo de conservação marinha passível de referência.
 
-O cerne da conservação marinha é a equidade intergeracional: as decisões de hoje determinam se as gerações futuras poderão continuar a usufruir destes recursos. Guardar este oceano é a promessa desta geração à próxima.
+O cerne da conservação marinha é a justiça intergeracional: as decisões de hoje determinam se as gerações futuras poderão continuar a desfrutar desses recursos. Proteger este oceano é o compromisso desta geração com a próxima geração.
 
-**Leitura complementar**:
+**Leituras complementares**:
 
-- [Crise climática e transição para zero líquido em Taiwan](/nature/台灣氣候危機與淨零轉型) — Branqueamento de corais na saída de água da Central Nuclear 3, conflitos pesqueiros da eólica offshore, controvérsia de avaliação de impacto ambiental do terceiro terminal de receção de GNL em Taoyuan: como a transição climática remodela o campo de batalha da governança oceânica
+- [Crise Climática e Transformação para o Zero Líquido em Taiwan](/nature/台灣氣候危機與淨零轉型) — Branqueamento de corais na saída de água da Usina Nuclear Sanmen 3, conflitos pesqueiros com energia eólica offshore, controvérsias de avaliação ambiental da Terceira Unidade de Conexão de Algas: como a transformação climática remodela o campo de batalha da governança marinha
 
 ## Referências
 
-[^1]: [Estatísticas de lixo marinho - Rede de Conservação Marinha](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx) — Estatísticas de limpeza de praias da Sociedade de Proteção da Natureza 2016-2023.
+[^1]: [Dados Estatísticos de Resíduos Marinhos - Site de Conservação Marinha](https://iocean.oca.gov.tw/OCA_OceanConservation/PUBLIC/Marine_Litter.aspx) — Estatísticas de dados de limpeza de praias da Associação Wildland de 2016 a 2023.
 
-[^2]: [Inquérito de microplásticos nos oceanos de Taiwan - Centro de Investigação de Biodiversidade da Academia Sinica](https://www.oca.gov.tw/) — Relatório de inquérito de concentração de microplásticos nos mares circundantes de Taiwan.
+[^2]: [Inquérito de Microplásticos nos Oceanos de Taiwan - Centro de Pesquisa de Biodiversidade da Academia Sinica](https://www.oca.gov.tw/) — Relatório de inquérito sobre a concentração de microplásticos nas águas circundantes de Taiwan.
 
-[^3]: [Lei de Conservação Marinha aprovada em terceira leitura - Greenpeace Taiwan](https://www.greenpeace.org/taiwan/update/35872/) — Confirmação da aprovação da _Lei de Conservação Marinha_ a 12 de julho de 2024.
+[^3]: [Lei de Conservação Marinha Aprovada em Terceira Leitura - Greenpeace Taiwan](https://www.greenpeace.org/taiwan/update/35872/) — Confirma que a Lei de Conservação Marinha foi aprovada em terceira leitura em 12 de julho de 2024.
 
-[^4]: [Agência de Conservação Marinha da Comissão dos Oceanos](https://www.oca.gov.tw/) — _Livro Branco da Conservação Marinha de Taiwan_ edição 2024.
+[^4]: [Subdiretoria de Conservação Marinha da Comissão Marinha](https://www.oca.gov.tw/) — Livro Branco da Conservação Marinha de Taiwan, edição de 2024.
 
-[^5]: [Políticas importantes da Lei de Conservação Marinha - Yuan Executivo](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9) — Explicação de políticas da Lei de Conservação Marinha pelo Yuan Executivo.
+[^5]: [Políticas Importantes da Lei de Conservação Marinha - Executive Yuan](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/8d360b7c-158b-4c9c-900f-2b7adeeef9c9) — Explicação das políticas da Lei de Conservação Marinha do Executive Yuan.
 
-[^6]: [Inquérito rápido de lixo marinho de um ano revela verdade da poluição das costas de Taiwan - National Geographic](https://www.natgeomedia.com/environment/article/content-8745.html) — Dados de inquérito de densidade de lixo nas costas de Taiwan.
+[^6]: [Inquérito Rápido de Resíduos Marinhos com Duração de Um Ano Revela a Verdade da Poluição Costeira de Taiwan - National Geographic](https://www.natgeomedia.com/environment/article/content-8745.html) — Dados de inquérito sobre a densidade de lixo nas costas de Taiwan.
 
-[^7]: [10 coisas que não se pode ignorar sobre lixo marinho - Cheng Yang Consultoria Ambiental](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh) — Inquérito de densidade de lixo no fundo do mar 2020 da Cheng Yang Consultoria Ambiental.
+[^7]: [10 Coisas que Você Precisa Saber Sobre Resíduos Marinhos - Chengyang Environmental Consulting](https://www.indigowaters.org/10-things-you-need-to-know-about-marine-debris-zh) — Inquérito de densidade de lixo no fundo do mar da Chengyang Environmental Consulting em 2020.
 
-[^8]: [Lei de Conservação Marinha não pode esperar mais - Greenpeace Taiwan](https://www.greenpeace.org/taiwan/update/30154/) — Histórico de promoção da legislação de conservação marinha por organizações da sociedade civil.
+[^8]: [A Lei de Conservação Marinha Não Pode Mais Ser Adiada - Greenpeace Taiwan](https://www.greenpeace.org/taiwan/update/30154/) — Processo de promoção da legislação de conservação marinha por grupos civis.
 
-[^9]: [Conhecer o lixo marinho - Mundo Oceânico](https://www.oceanworld.com.tw/load_page/get_education_page/4) — Análise de tipos e fontes de lixo marinho.
+[^9]: [Conheça os Resíduos Marinhos - Mundo Oceânico](https://www.oceanworld.com.tw/load_page/get_education_page/4) — Análise de tipos e fontes de resíduos marinhos.
 
-[^10]: [_O que há de "plástico" no mar — Exame geral do lixo nas costas de Taiwan_ - Greenpeace](https://www.greenpeace.org/taiwan/update/15198/) — Inquérito de tipos e distribuição de lixo nas costas de Taiwan.
+[^10]: [O Mar, Qual é o "Plástico" ─── Exame Geral de Lixo Costeiro de Taiwan - Greenpeace](https://www.greenpeace.org/taiwan/update/15198/) — Inquérito sobre tipos e distribuição de lixo costeiro em Taiwan.
 
-[^11]: [Resultados da conservação de tartarugas em Xiao Liuqiu - Associação Kulu de Taiwan](https://www.oca.gov.tw/ch/home.jsp?id=131&parentpath=0,4,127) — Modelo e eficácia da conservação de tartarugas em Xiao Liuqiu.
+[^11]: [Resultados da Conservação de Tartarugas em Liouqiu - Associação Taiwan Langku (Taiwan Langku Island Association)](https://www.oca.gov.tw/ch/home.jsp?id=131&parentpath=0,4,127) — Modelo e resultados da conservação de tartarugas em Liouqiu.
 
-[^12]: [Branqueamento massivo de corais em todo o país pela primeira vez na história em 2024 - A Nossa Ilha](https://ourisland.pts.org.tw/content/7392) — Relatório de inquérito de branqueamento de corais em Taiwan 2020.
+[^12]: [Primeiro Branqueamento de Corais em Massa em Toda a Nação na História de 2024 - Nossa Ilha](https://ourisland.pts.org.tw/content/7392) — Relatório de inquérito de branqueamento de corais em Taiwan em 2020.

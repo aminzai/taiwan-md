@@ -11,9 +11,9 @@ lastVerified: 2026-06-12
 lastHumanReview: false
 featured: true
 translatedFrom: 'Technology/國家太空中心.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:a54685fba76c9f68'
-sourceBodyHash: 'sha256:5ca31c80049b9985'
+sourceCommitSha: '82c0407f'
+sourceContentHash: 'sha256:84d56ad19effe1d5'
+sourceBodyHash: 'sha256:e55206c67a0d4344'
 translatedAt: '2026-06-14T00:35:00+08:00'
 image: '/article-images/technology/formosat8-tasa-banner.webp'
 imageCredit: '國家太空中心 TASA（官方釋出，fair use editorial commentary）'

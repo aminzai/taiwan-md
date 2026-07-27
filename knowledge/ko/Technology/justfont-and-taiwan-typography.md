@@ -28,9 +28,9 @@ imageCredit: 'justfont / flyingV'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.flyingv.cc/projects/8250'
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: c673392a
-sourceContentHash: 'sha256:4b06ed2980a5f57a'
-sourceBodyHash: 'sha256:adbe918308216cc3'
+sourceCommitSha: 'e773ef6b'
+sourceContentHash: 'sha256:6e31a2264dcded4f'
+sourceBodyHash: 'sha256:dcea1d33e3c8824c'
 translatedAt: '2026-06-14T00:35:00+08:00'
 ---
 

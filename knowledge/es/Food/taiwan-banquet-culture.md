@@ -27,9 +27,9 @@ imageCredit: '玄史生 / Wikimedia Commons'
 imageLicense: 'CC0 1.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:The_End_of_Ghost_Festival_Party_at_Dongsha_Tzufu_Temple_20170919a.jpg'
 translatedFrom: 'Food/台灣辦桌文化.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:0689f4ef37606e24'
-sourceBodyHash: 'sha256:ad9bd62c3f44776c'
+sourceCommitSha: '26a67c77'
+sourceContentHash: 'sha256:87996856be7f510f'
+sourceBodyHash: 'sha256:dc734b24b423e098'
 translatedAt: '2026-06-16T17:05:07Z'
 featured: false
 ---

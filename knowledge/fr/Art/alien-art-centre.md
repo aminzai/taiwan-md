@@ -1,121 +1,120 @@
 ---
-title: "Le Musée d'Art Contemporain Jin-Ma Bin-Guan"
-description: "Une ancienne gare militaire de la Guerre froide, témoin d'innombrables adieux et retrouvailles, réveillée après vingt ans de sommeil par un père et sa fille — aujourd'hui classée premier musée d'art de Kaohsiung par le Lonely Planet."
+title: 'ALIEN Art Centre (Kinma Guest House)'
+description: 'Une ancienne station militaire de la Guerre froide, témoin de départs et de retrouvailles, réveillée après vingt ans de sommeil par un père et sa fille pour devenir le musée incontournable de Kaohsiung recommandé par Lonely Planet.'
 date: 2026-03-22
-tags: ['art contemporain', 'musée', 'Kaohsiung', 'espace culturel']
-subcategory: 'Commissariat et éducation'
 category: 'Art'
+tags: ['Art contemporain', 'Musée', 'Kaohsiung', 'Espace culturel']
+subcategory: '策展與教育'
 author: 'Taiwan.md'
-readingTime: 10
 featured: false
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg/800px-%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg
-translatedFrom: 'Art/金馬賓館當代美術館.md'
 lastVerified: 2026-03-22
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:dc5814dcedc92ae0'
-sourceBodyHash: 'sha256:c74e16d96ce01c6c'
-translatedAt: '2026-06-16T17:13:36Z'
 lastHumanReview: false
+image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg/800px-%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg'
+translatedFrom: 'Art/金馬賓館當代美術館.md'
+sourceCommitSha: '209084a3c'
+sourceContentHash: 'sha256:29f8c92d6f9ec4f0'
+sourceBodyHash: 'sha256:ab8b8f728e87222a'
+translatedAt: '2026-07-27T03:39:57+08:00'
 ---
 
-# Le Musée d'Art Contemporain Jin-Ma Bin-Guan — D'une gare de départ à un refuge pour l'art
+# ALIEN Art Centre (Kinma Guest House) — D'une station de départ à un refuge artistique
 
-> Un bâtiment militaire construit en 1967, qui a accompagné pendant trente et un ans des soldats embarquant vers les îles de Kinmen et Matsu, s'est réveillé après vingt ans d'abandon grâce à un père et sa fille. Il est aujourd'hui désigné par le Lonely Planet comme le « premier musée d'art de Kaohsiung ».
+> Un édifice militaire construit en 1967 qui, pendant trente et un ans, a vu défiler d'innombrables soldats vers les navires en partance pour Kinmen et Matsu. Après vingt ans de sommeil, il a été réveillé par un père et sa fille — il est aujourd'hui le « musée incontournable de Kaohsiung » recommandé par _Lonely Planet_.
 
 ## Un point de départ contre-intuitif
 
-Depuis l'entrée au 111, Gulshan Road à Kaohsiung, on aperçoit un bâtiment gris encadré par la forêt du mont Shoushan. La lumière filtre à travers les galeries en forme de cloître, et dans les salles d'exposition, une rétrospective du maître italien de l'op art attend les visiteurs. Difficile d'imaginer qu'il y a soixante ans, dans ces mêmes couloirs se tenaient des soldats de vingt ans sur le point de monter à bord d'un navire militaire pour rejoindre les îles frontalières. Leurs mères leur faisaient de grands signes au portail en pleurant, tandis que les transports de troupes amarrés au quai allaient rouler trente-six heures avant d'atteindre Kinmen.
+Si vous vous tenez à l'entrée du 111, rue Gushan, dans le district de Sizihwan à Kaohsiung, vous verrez un bâtiment gris entouré par la forêt du mont Shoushan. La lumière traverse une galerie en forme de « 口 » (bouche), tandis que les salles d'exposition présentent une rétrospective d'un maître italien de l'art Op (Op Art). Vous ne devineriez sans doute jamais qu'il y a soixante ans, des soldats de vingt ans se tenaient dans ce couloir, s'apprêtant à embarquer pour le front des îles périphériques. Leurs mères agitaient la main en pleurant à l'entrée, tandis que les navires de type « Zhong » ancrés au quai devaient naviguer trente-six heures avant d'atteindre Kinmen.
 
-**C'est le seul bâtiment Jin-Ma Bin-Guan de la Guerre froide encore debout à Taïwan.** Celui de Keelung a été démoli. Si celui de Kaohsiung a survécu, ce n'est pas parce que quelqu'un a voulu le préserver — c'est parce qu'il a été oublié assez longtemps pour qu'un entrepreneur de l'hôtellerie, en passant devant, décide de ne pas le laisser disparaître.
+**C'est le dernier vestige de l'époque de la Guerre froide de la Kinma Guest House (Kinma Bīnguǎn) à Taïwan.** Celle de Keelung a été démolie ; seule celle de Kaohsiung subsiste. Non pas par une volonté délibérée de conservation, mais parce qu'elle a été oubliée assez longtemps pour que le fondateur d'un groupe hôtelier, en passant par là, décide de ne pas la laisser disparaître.
 
-## Trois vies pour un bâtiment
+## Les trois vies d'un édifice
 
-### Première vie : les adieux et les retrouvailles (1967–1998)
+### Première période : Départs et retrouvailles (1967-1998)
 
-Un an après la bataille de Kinmen en 1958, la municipalité de Kaohsiung décida de construire une pension destinée aux militaires affectés sur les îles. Mais le terrain — remblayé sur d'anciens bassins piscicoles — nécessitait une consolidation des fondations. L'attente dura huit ans.
+L'année suivant la bataille de l'armement de 1958 (Crise du détroit), le gouvernement municipal de Kaohsiung décida de construire une auberge dédiée à l'accueil des officiers et soldats postés sur les lignes de front de Kinmen et Matsu. Cependant, le terrain étant une ancienne zone de pisciculture, il fallut attendre huit ans que les fondations soient stables.
 
-Le 26 septembre 1967, le Jin-Ma Bin-Guan fut officiellement inauguré, financé à hauteur de 12 millions de nouveaux dollars taïwanais par l'Association des amis des militaires. Un établissement jumeau fut simultanément ouvert à Keelung : l'un au sud, l'autre au nord, pour le même usage — offrir un dernier point de repos aux soldats tirés au sort pour le « Prix Jin-Ma », une expression qui avait alors tout le poids d'une sentence pour ceux qui avaient accompli leur service militaire.
+Le 26 septembre 1967, la Kinma Guest House, construite pour 12 millions de nouveaux dollars taïwanais par l'Association des Amis des Militaires, fut officiellement inaugurée. Simultanément, celle de Keelung fut également ouverte. Nord et Sud, ces deux structures servaient le même but : offrir un lieu de repos aux troupes avant l'embarquement pour les « prix Kinma » — une expression que tout militaire de l'époque comprenait par son poids symbolique.
 
-« Jin » pour Kinmen, « Ma » pour Matsu. Sur la carte de la Guerre froide, ces îles appartenaient à la même époque que le Mur de Berlin ou le 38e parallèle.
+« Kin » pour Kinmen, « Ma » pour Matsu. Sur la carte de la Guerre froide, elles appartenaient à la même époque que le mur de Berlin ou la ligne du 38e parallèle.
 
-Des soldats venus de tout Taïwan convergaient vers ce bâtiment en attendant une météo favorable pour embarquer. Sur le chemin du quai, des marchands ambulants les harcelaient : « La traversée dure une journée et demie, rien à manger à bord, faites vite ! » Les recrues se ruaient sur les pains, les sodas et les médicaments contre le mal de mer. Puis, depuis ce qui est aujourd'hui le quai Guangrong — l'ancien quai n° 13 —, ils montaient en tremblant à bord des navires militaires.
+Les soldats, arrivant de toute l'île à Kaohsiung, attendaient ici que le temps s'éclaircisse pour le départ. En chemin vers le quai, les marchands criaient : « La traversée dure un jour et demi, il n'y aura rien à manger sur le bateau, achetez vite ! ». Les nouvelles recrues s'arrachaient pains, sodas et médicaments contre le mal de mer. Puis, sur l'actuel port de Glory — qui était alors le quai n'° 13 — ils montaient sur les navires d'un pas tremblant.
 
-Pendant trente et un ans, le Jin-Ma Bin-Guan a été le théâtre d'innombrables séparations et retrouvailles. Certaines absences duraient un an, d'autres deux, d'autres encore plus longtemps. Au retour, certains n'avaient plus de fiancée ; d'autres rentraient sains et saufs. Le port de Kaohsiung a tout vu en silence.
+Pendant trente et un ans, la Kinma Guest House fut le témoin d'innombrables séparations et retrouvailles. Une séparation pouvait durer un an, deux ans, ou plus. Après l'absence, certains perdaient leurs êtres chers, tandis que d'autres revenaient sains et saufs. Le port de Kaohsiung en était le témoin silencieux.
 
-### Deuxième vie : l'oubli (1998–2016)
+### Deuxième période : L'oubli (1998-2016)
 
-En 1998, avec la détente des relations entre les deux rives du détroit, le Jin-Ma Bin-Guan ferma ses portes. Le bâtiment fut transféré au Bureau de reconstruction ferroviaire du ministère des Transports, qui en fit son quartier général pour le projet de passage souterrain du chemin de fer de Kaohsiung. En 2012, le bureau déménagea et le bâtiment se retrouva abandonné au pied du mont Shoushan, laissant les herbes folles envahir les galeries.
+En 1998, avec l'apaisement des relations inter-détroit, la Kinma Guest House se retira de sa mission. Le bâtiment fut transféré à la Bureau des Travaux Ferroviaires du Ministère des Transports pour servir de quartier général au projet d'enfouissement des voies ferrées de Kaohsiung. Après le départ du bureau en 2012, cet édifice chargé de cinquante ans de mémoire fut abandonné au pied du mont Shoushan, laissant les mauvaises herbes envahir ses galeries.
 
-Entre-temps, le Jin-Ma Bin-Guan de Keelung avait été démoli. Celui de Kaohsiung n'y avait simplement pas encore eu son tour.
+La Kinma Guest House de Keelung fut démolie durant cette période. Si celle de Kaohsiung est encore là, c'est simplement parce que son tour n'était pas encore venu.
 
-### Troisième vie : la lumière dans les ruines (2016–2018)
+### Troprime période : La lumière dans les ruines (2016-2018)
 
-En 2016, le Bureau d'urbanisme de Kaohsiung lança un appel d'offres pour revitaliser le site en faisant appel à des acteurs privés. Shao Yong-Tian, PDG du groupe Yuimom, et sa fille Shao Ya-Man visitèrent le Jin-Ma Bin-Guan pour la première fois et découvrirent un bâtiment « proche de l'état de ruines ». Les équipements étaient hors d'usage, le lieu entièrement abandonné.
+En 2016, le Bureau de l'Urbanisme de Kaohsiung a lancé un appel d'offres public pour revitaliser cet espace désaffecté via des forces privées. Lorsque Shao Yong-tian, président du groupe Yuming, et sa fille Shao Ya-man sont entrés pour la première fois dans le bâtiment, ils n'ont trouvé qu'une « quasi-ruine ». Toutes les installations étaient vétustes et l'édifice semblait totalement oublié.
 
-Mais Shao Ya-Man fut saisie par la lumière et les ombres qui habitaient l'endroit.
+Mais Shao Ya-man fut captivée par le jeu d'ombre et de lumière.
 
-« Depuis les fenêtres du musée, on voit la forêt et le ciel bleu se mêler dans un paysage qui donne l'impression d'être au cœur d'une montagne, loin du bruit de la ville », confia-t-elle plus tard dans une interview au magazine VERSE. Grâce à sa proximité avec le mont Shoushan, ce bâtiment militaire possédait un cadre naturel que la plupart des musées urbains ne peuvent qu'envier.
+« En regardant par les fenêtres du musée, le paysage où la forêt s'entrelace au ciel bleu donne l'impression d'être dans une montagne reculée, loin du tumulte », confiait-elle plus tard lors d'une interview pour le magazine _VERSE_. En raison de sa proximité avec le mont Shoushan, cet édifice militaire possédait l'environnement naturel que la plupart des musées urbains convoitent.
 
-La restauration fut entreprise selon le principe du « respect de l'identité historique du bâtiment ». Des artisans chevronnés furent recrutés pour appliquer les techniques traditionnelles : enduits à la pierre broyée, sols polis à la pierre meulée, et même des carreaux de faïence blanche en rupture de production, retrouvés pour reconstituer les galeries d'origine. Mais la transformation la plus importante ne fut pas la restauration, ce fut l'ouverture : les casernes en forme de U, initialement fermées, furent converties en galeries à ciel ouvert en forme de O, laissant circuler librement le vent et la lumière, et créant un dialogue entre les espaces d'exposition et la forêt du Shoushan.
+Yongtian Art a entrepris la restauration selon le principe de « restaurer la signification historique de l'architecture ». Ils ont fait appel à des artisans expérimentés pour utiliser des techniques traditionnelles afin de retrouver la texture originale du _min-shizi_ (pierre polie) et du _mo-shizi_ (granito). Ils ont même retrouvé des carreaux de porcelaine blanche, pourtant épuisés de la production, pour reconstruire les galeries. Mais la plus grande transformation ne fut pas la rénovation, mais l'ouverture : transformer l'ancienne caserne fermée en forme de « ㄇ » (U) en une galerie ouverte en forme de « 口 » (bouche), permettant au vent et à la lumière de circuler librement, créant un dialogue entre l'espace d'exposition et la forêt de Shoushan.
 
-Le 28 novembre 2018, le Jin-Ma Bin-Guan rouvrit ses portes en tant que musée d'art contemporain.
+Le 28 novembre 2018, la Kinma Guest House a rouvert ses portes sous le nom d'ALIEN Art Centre.
 
 ## Pourquoi « ALIEN » ?
 
-Le nom anglais ALIEN Art Centre peut évoquer les extraterrestres, mais il s'inspire du film de Steven Spielberg E.T. l'extra-terrestre — cet instant où deux doigts se touchent. L'équipe du musée l'explique ainsi : « ALIEN, c'est aller à la rencontre de l'inconnu. »
+Le nom anglais _ALIEN Art Centre_ pourrait évoquer un musée des extraterrestres, mais l'inspiration vient du film _E.T. l'extra-terrestre_ de Steven Spielberg — précisément cet instant où les doigts se touchent. L'équipe de direction explique : « ALIEN signifie s'ouvrir à l'inconnu ».
 
-Ce choix résonne avec l'histoire du Jin-Ma Bin-Guan. Les soldats qui se tenaient dans ces murs en 1967 faisaient eux aussi face à l'inconnu — l'inconnu de l'autre rive, l'inconnu de la guerre, l'inconnu du retour. Cinquante ans plus tard, les visiteurs de ce même bâtiment affrontent un autre inconnu : celui des frontières perceptives que l'art contemporain s'emploie à repousser.
+Ce nom fait écho à l'histoire même de la Kinma Guest House. En 1967, les soldats présents dans ce bâtiment faisaient face à l'inconnu — l'inconnu de l'autre rive du détroit, l'inconnu de la guerre, l'incertitude de leur retour. Cinquante ans plus tard, les visiteurs font face à un autre inconnu : les frontières de la perception ouvertes par l'art contemporain.
 
 ## Un bâtiment, trois niveaux d'exposition
 
-Les trois étages du Jin-Ma Bin-Guan ont chacun leur identité, comme un livre qu'on lirait du futur vers le passé :
+Les trois étages de l'ALIEN Art Centre ont chacun une vocation propre, tel un livre que l'on feuillette de l'avenir vers l'histoire :
 
-**Le rez-de-chaussée** est dédié à l'art expérimental sous toutes ses formes, en prise directe avec les enjeux contemporains. Il accueille régulièrement des œuvres de nouveaux médias et des installations sculptées.
+**Le premier étage** est dédié à l'art expérimental et aux formes diverses, répondant aux enjeux contemporains, avec souvent des œuvres d'art numérique et de sculpture.
 
-**Le premier étage** est un espace d'arts appliqués, propice aux rétrospectives d'artistes, complété par le restaurant ALIEN All-Day Lounge. Déguster un café ou savourer une galette de style Fujian accompagnée de lait de soja à la fleur de cannelle devant de grandes baies vitrées ouvertes sur le feuillage du Shoushan — une référence à la culture du petit-déjeuner de Kinmen — est sans doute l'une des expériences les plus luxueuses que propose ce musée.
+**Le deuxième étage** est un espace dédié aux arts appliqués, idéal pour les rétrospectives de la vie d'artistes. Il intègre le restaurant _ALIEN All-Day Lounge_ — déguster un café devant de grandes baies vitrées entourées par la verdure de Shoushan, accompagné d'un _shaobing_ (petit pain) de style Min et de lait de soja à la fleur d'osmanthus (en hommage à la culture du petit-déjeuner de Kinmen), constitue l'une des expériences les plus luxueuses du musée.
 
-**Le deuxième étage** offre le panorama le plus vaste, avec vue sur la forêt et le ciel. Il est généralement consacré à des œuvres à fort impact visuel, jouant sur la lumière et les contrastes.
+**Le troisième étage**, offrant la vue la plus vaste sur la forêt et le ciel, expose principalement des œuvres au design marqué et aux jeux de lumière complexes.
 
-## Un duo père-fille : de la fièvre créatrice à la sérénité
+## L'union père-fille : de la passion à la sérénité
 
-Derrière le Jin-Ma Bin-Guan, un binôme atypique. Shao Yong-Tian, fondateur du groupe Yuimom, n'a commencé à peindre qu'à soixante ans — et en l'espace d'un peu plus d'un an, il a produit plus de deux cents tableaux, laissant éclater une énergie créatrice accumulée pendant un demi-siècle, inventant au passage ses propres pinceaux et outils. Sa fille Shao Ya-Man a pris la tête de Yuimom Art à une vingtaine d'années, avec l'ambition de proposer une programmation à la hauteur des standards internationaux.
+Les moteurs derrière l'ALIEN Art Centre sont un duo père-fille singulier. Le père, Shao Yong-tian, fondateur du groupe Yuming, n'a commencé la peinture qu'à soixante ans ; en un peu plus d'un an, une énergie créatrice accumulée pendant cinquante ans a explosé, produisant plus de deux cents œuvres et l'invention de ses propres pinceaux et outils. La fille, Shao Ya-man, occupe le poste de directrice exécutive de Yongtian Art dès la vingtaine, avec l'ambition d'une curation aux standards internationaux.
 
-En 2020, l'exposition annuelle « Fureur & Zen » réunit pour la première fois les deux artistes, entre le Jin-Ma Bin-Guan et le Crystal Orange Hotel. La « fureur » du père — son énergie d'entrepreneur, sa philosophie de vie, sa puissance créatrice — dialoguait avec le « zen » de la fille — son intériorité, sa sérénité, sa quête du beau — dans une conversation transgénérationnelle.
+L'exposition annuelle de 2020, _Folie et Sérénité_ (_Kuang/Chan_), fut leur première exposition conjointe. Traversant l'ALIEN Art Centre et le Jing Ying International Mansion, l'exposition mettait en scène la « Folie » du père — sa philosophie de gestion, sa sagesse de vie, son intensité — face à la « Sérénité » de la fille — l'introspection, le calme, la quête de beauté, créant un dialogue intergénérationnel.
 
-De chef d'entreprise à artiste, Shao Yong-Tian incarne le message fondateur du musée : l'art n'est pas le privilège d'une élite, c'est une énergie qui peut surgir à n'importe quel moment d'une vie.
+Passant du statut d'entrepreneur à celui d'artiste, Shao Yong-tian prouve par l'action le concept central de l'ALIEN Art Centre : l'art n'est pas le privilège d'une minorité, mais une énergie capable d'éclore à chaque étape de la vie.
 
 ## Reconnaissance internationale et défis
 
-Moins de deux ans après son ouverture, le Jin-Ma Bin-Guan reçut le prix « Cent lieux emblématiques de l'humanisme à Taïwan » du magazine Shopping Design en 2019. En 2020, le Lonely Planet, le plus grand guide touristique du monde, le désigna « premier musée d'art de Kaohsiung ». Pour un musée privé, sans soutien institutionnel ni financement d'un grand groupe, c'est une reconnaissance peu ordinaire.
+Moins de deux ans après son ouverture, l'ALIEN Art Centre a remporté le prix « 100 paysages culturels de Taïwan » du magazine _Shopping Design_ en 2019. En 2020, le plus grand guide de voyage au monde, _Lonely Planet_, l'a désigné comme le « meilleur musée d'art de Kaohsiung ». Pour un musée privé sans soutien public ni de grands conglomérats, c'est une reconnaissance exceptionnelle.
 
-Parmi les expositions marquantes : « Arman : Objets à penser » (2022–2023), coproduite avec le commissaire français Jérôme Neutres, présentant la première rétrospective complète de l'artiste Arman en Asie de l'Est ; la première exposition à Taïwan du maître de l'op art italien Getulio Alviani, « Vision Responsive : Getulio Alviani » (2023–2024) ; et « Sans limite · Sans fin : Shao Yong-Tian », associant images générées par IA et interactions musicales, co-commissariée par Shao Ya-Man et Lo He-Lin.
+Parmi les expositions majeures figurent : la collaboration avec le commissaire français Jérôme Neutres pour _Aman: Thinking Objects_ (2022-2023), présentant la rétrospective de l'artiste émergent Aman en Asie de l'Est ; la première exposition taïwanaise du maître italien de l'Op Art, _Sensing the Future: Giulio Aviani_ (202rag-2024) ; ainsi que _Sans Voûte, Sans Fin : Shao Yong-tian_, mêlant images générées par IA et musique interactive, co-curatée par Shao Ya-man et Luo He-lin.
 
-Mais les défis sont bien réels. Faire vivre un musée privé à Kaohsiung — et non à Taipei — exige un effort constant. Le billet d'entrée à 250 NT$ n'est pas anodin pour le public du sud de Taïwan, et le bassin de visiteurs y est bien plus restreint qu'à la capitale. La réponse de Shao Ya-Man : s'ouvrir vers l'extérieur. Elle multiplie les collaborations avec des institutions de Hong Kong, Shanghai, Amsterdam, Londres et New York, pour faire rayonner à l'international l'énergie curatoriale taïwanaise.
+Cependant, les défis sont bien réels. Faire fonctionner un musée privé à Kaohsiung — et non à Taipei — est complexe. Un billet à 250 TWD n'est pas considéré comme bon marché dans le sud, et la base de visiteurs est bien moindre que celle de la capitale. La réponse de Shao Ya-man est de s'ouvrir sur l'extérieur : collaborer activement avec des institutions artistiques à Hong Kong, Shanghai, Amsterdam, Londres et New York, afin d'exporter l'énergie curatoriale de Taïwan à l'international.
 
-## Le bâtiment lui-même comme œuvre
+## Le bâtiment lui-même est une œuvre
 
-Ce qui rend le Jin-Ma Bin-Guan vraiment singulier, ce n'est peut-être pas tant ce qui est accroché aux murs que le bâtiment lui-même.
+La particularité de l'ALIEN Art Centre ne réside peut-être pas dans les œuvres accrochées aux murs, mais dans le bâtiment lui-même.
 
-Sa façade combine trois couches stylistiques : les lignes épurées du modernisme occidental importé pendant le boom économique des années 1960, les traces d'un éclectisme classique hérité de la période japonaise, et des références à l'architecture classique chinoise. Lignes horizontales et verticales fluides, colonnes en file, jeux de plein et de vide créés par les bandes horizontales — des historiens de l'architecture y voient une structure « proche de la géométrie de Mies van der Rohe ».
+Sa façade fusionne trois styles : la simplicité du modernisme occidental introduit lors de l'essor économique de 1965, les vestiges de l'éclectisme classique de l'époque coloniale japonaise, et des symboles de l'architecture chinoise classique. Lignes horizontales et verticales fluides, colonnades alignées, alternance d'espaces pleins et vides — un historien de l'architecture dirait que sa structure présente une « géométrie proche de celle de Mies van der Rohe ».
 
-La restauration a également été l'occasion d'une démarche écoresponsable : peintures sans formaldéhyde, matériaux sans perturbateurs endocriniens, présentoirs en bois recyclé. Les plantations réalisées à l'ouverture ont depuis rejoint le couvert forestier du Shoushan, tenant à distance le bruit de la ville.
+Lors de la restauration, Yongtian Art a choisi des peintures sans formaldéhyde, des matériaux de construction sans perturbateurs endocriniens et des vitrines en bois recyclé, faisant de ce bâtiment de soixante ans un modèle d'architecture verte à faible empreinte carbone pour Kaohsing. Les plantations effectuées lors de l'ouverture se sont aujourd'hui fondues dans la forêt du mont Shoushan, isolant le musée du tumulte urbain.
 
-De gare de départ à refuge pour l'art, l'histoire du Jin-Ma Bin-Guan est elle-même la plus belle des œuvres — une histoire de mémoire, d'oubli et de renaissance.
+D'une station de départ à un refuge artistique, l'histoire de l'ALI_EN Art Centre est elle-même une œuvre majeure — une histoire de mémoire, d'oubli et de renaissance.
 
 ---
 
 ## Références
 
-1. [Yuimom Art · Site officiel du Musée d'Art Contemporain Jin-Ma Bin-Guan — Histoire du bâtiment](https://www.alien.com.tw/u/zh-tw/pages/The_History)
-2. [Wikipedia — Musée d'Art Contemporain Jin-Ma Bin-Guan](https://zh.wikipedia.org/zh-tw/%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8)
-3. [VERSE Magazine — Jin-Ma Bin-Guan : d'une pension militaire à un temple de l'art](https://www.verse.com.tw/article/alien-art-centre)
-4. [Kaohsiung Pictorial — ALIEN Art Centre : esthétique verte et bas carbone au cœur de la forêt](https://takao.kcg.gov.tw/article/3430)
-5. [Shopping Design — Recommandé par le Lonely Planet : le Jin-Ma Bin-Guan revitalise un site militaire des années 1960](https://www.shoppingdesign.com.tw/post/view/5700)
-6. [Lonely Planet — ALIEN Art Centre](https://www.lonelyplanet.com/taiwan/southern-taiwan/kaohsiung-city/attractions/alien-art-centre/a/poi-sig/1619356/357545)
-7. [Shopping Design — Portrait de Shao Ya-Man, la force vive du Jin-Ma Bin-Guan](https://www.shoppingdesign.com.tw/post/view/7054)
-8. [500 Times — Shao Ya-Man, directrice générale sereine à 28 ans](https://500times.udn.com/wtimes/story/12670/5832528)
-9. [500 Times — « Fureur · Zen » : double exposition de Shao Yong-Tian et Shao Ya-Man](https://500times.udn.com/wtimes/story/12672/5003572)
-10. [Tatler Asia — Le duo père-fille Shao Yong-Tian et Shao Ya-Man insuffle une vitalité culturelle à Kaohsiung](https://www.tatlerasia.com/power-purpose/wealth/alien-art-father-and-daughter-interview-2024-zh-hant)
-11. [Harper's BAZAAR — 13 lieux artistiques incontournables à Kaohsiung](https://www.harpersbazaar.com/tw/culture/exhibition/g40875962/kaohsiung-attractions/)
-12. [ELLE — Jin-Ma Bin-Guan : première exposition à Taïwan du maître de l'op art italien](https://www.elle.com/tw/life/style/g46023819/responsive-vision-getulio-alviani/)
-13. [Yuimom Group — Yuimom Art · Jin-Ma Bin-Guan](https://yuimomgroup.com/brands/art/alien-art-centre)
+1. [Site officiel de Yongtian Art / ALIEN Art Centre — Histoire de l'architecture](https://www.alien.com.tw/u/zh-tw/pages/The_History) (Source primaire : incluant des archives du Musée historique de Kaohsing, citations de rapports originaux de _United Daily News_ et _Economic Daily News_ de 1959/1967)
+2. [Wikipédia — ALIEN Art Centre](https://zh.wikipedia.org/zh-tw/%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8)
+3. [Magazine VERSE — ALIEN Art Centre : La transformation d'une station militaire en temple de l'art](https://www.verse.com.tw/article/alien-art-centre) (Interview de Shao Ya-man)
+4. [Kaohsiung Art Journal — L'ALIEN Art Centre s'intègre à la forêt, affichant une esthétique verte et bas carbone](https://takao.kcg.gov.tw/article/3430) (2024, incluant les recommandations de Lonely Planet, l'architecture verte et la curation)
+5. [Shopping Design — Recommandé par Lonely Planet ! La revitalisation de l'ancien site militaire des années 60 par l'ALIEN Art Centre](https://www.shoppingdesign.com.tw/post/view/5700) (2020)
+6. [Lonely Planet — ALIEN Art Centre](https://www.lonelyplanet.com/taiwan/southern-taiwan/kaohsiung-city/attractions/alien-art-centre/a/poi-sig/1619356/357545) (Source anglaise, guide de voyage international)
+7. [Shopping Design — Interview de Shao Ya-man, la force motrice derrière l'ALIEN Art Centre de Kaohsiung](https://www.shoppingdesign.com.tw/post/view/7054) (2021, structure des trois niveaux de curation)
+8. [500 Ji — Personnalités inspirantes : Shao Ya-man, une directrice exécutive de 28 ans calme et confiante](https://500times.udn.com/wtimes/story/12670/5832528) (2021, parcours créatif de Shao Yong-tian)
+9. [500 Ji — Exposition conjointe à l'ALIEN Art Centre : « Folie et Sérénité » de Shao Yong-tian et Shao Ya-man](https://500times.udn.com/wtimes/story/12672/5003572) (2020)
+10. [Tatler Asia — Shao Yong-tian et Shao Ya-man du groupe Yuming insufflent une source culturelle à Kaohsiung](https://www.tatlerasia.com/power-purpose/wealth/alien-art-father-and-daughter-interview-2024-zh-hant) (2024)
+11. [Harper's BAZAAR — 13 architectures culturelles incontournables à Kaohsiung](https://www.harpersbazaar.com/tw/culture/exhibition/g40875962/kaohsiung-attractions/) (2025, l'ALIEN Art Centre classé comme incontournable)
+12. [ELLE — « Sensing the Future » : Première exposition taïwanaise du maître italien de l'Op Art à l'ALIEN Art Centre](https://www.elle.com/tw/life/style/g46023819/responsive-vision-getulio-alviani/) (2023, curation par Jérôme Neutres)
+13. [Site officiel du groupe Yuming — Yongtian Art / ALIEN Art Centre](https://yuimomgroup.com/brands/art/alien-art-centre)

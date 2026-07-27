@@ -11,9 +11,9 @@ lastVerified: 2026-05-17
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/三毛.md'
-sourceCommitSha: '7415dcaae'
-sourceContentHash: 'sha256:9d4460760fefc9a2'
-sourceBodyHash: 'sha256:447085e6a89fcf94'
+sourceCommitSha: '512ce94e'
+sourceContentHash: 'sha256:423bfa0c83cbe434'
+sourceBodyHash: 'sha256:5eacf1a20c5ad4bd'
 translatedAt: '2026-05-18T05:08:08+08:00'
 ---
 

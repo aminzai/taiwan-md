@@ -19,9 +19,9 @@ lastVerified: 2026-04-30
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/毒馬鈴薯認知作戰.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:441da61b4d105152'
-sourceBodyHash: 'sha256:001afbff1a12f651'
+sourceCommitSha: '7bad84a3'
+sourceContentHash: 'sha256:bb11251dd95db686'
+sourceBodyHash: 'sha256:891cffde295deb7f'
 translatedAt: '2026-06-13T01:49:53+08:00'
 image: '/article-images/society/du-mali-maine-potato-1940.webp'
 ---

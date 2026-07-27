@@ -23,9 +23,9 @@ lastVerified: 2026-04-28
 lastHumanReview: false
 featured: true
 translatedFrom: People/蔡健雅.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:9474a07c92a4db90'
-sourceBodyHash: 'sha256:f2c2b3c665362b55'
+sourceCommitSha: 'dc7865f0'
+sourceContentHash: 'sha256:0b4776a25d38b2ed'
+sourceBodyHash: 'sha256:126c0129a0743d8a'
 translatedAt: 2026-05-02T01:17:16+08:00
 ---
 

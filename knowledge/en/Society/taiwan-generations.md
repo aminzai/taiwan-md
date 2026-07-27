@@ -20,10 +20,10 @@ readingTime: 18
 lastVerified: 2026-06-08
 lastHumanReview: false
 translatedFrom: 'Society/台灣的年級生世代.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:c08e2d9389a9aa31'
+sourceCommitSha: '80520085'
+sourceContentHash: 'sha256:1b3e5e3f22f40ead'
 translatedAt: '2026-06-16T17:03:25Z'
-sourceBodyHash: 'sha256:006a7ebb808c91b9'
+sourceBodyHash: 'sha256:d9ed6a1d6c159cbf'
 image: '/article-images/society/budaixi-puppets-2023.webp'
 imageCredit: 'Wang Yu Ching / Office of the President'
 imageLicense: 'CC BY 2.0'

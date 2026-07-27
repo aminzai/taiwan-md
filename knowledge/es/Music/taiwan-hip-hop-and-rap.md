@@ -22,9 +22,9 @@ lastHumanReview: true
 featured: true
 image: '/article-images/music/nine-one-one-2016.webp'
 translatedFrom: 'Music/台灣嘻哈與饒舌發展.md'
-sourceCommitSha: 'ac1d187a'
-sourceContentHash: 'sha256:c3b6d91df55d0949'
-sourceBodyHash: 'sha256:fc827205e6b71ba4'
+sourceCommitSha: '3d2adaeb'
+sourceContentHash: 'sha256:6df07f794411626f'
+sourceBodyHash: 'sha256:49c1a63539596208'
 translatedAt: '2026-06-14T00:35:00+08:00'
 imageCredit: '臺中市政府新聞局（Wikimedia Commons）'
 ---

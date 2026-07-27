@@ -18,9 +18,9 @@ lastVerified: 2026-06-16
 lastHumanReview: false
 featured: true
 translatedFrom: 'Art/造山者世紀的賭注.md'
-sourceCommitSha: '349e7b4fa'
-sourceContentHash: 'sha256:6be45e1cb9e9d665'
-sourceBodyHash: 'sha256:e381e9da7e6b89c3'
+sourceCommitSha: '36b47295'
+sourceContentHash: 'sha256:04951f7f999b2b98'
+sourceBodyHash: 'sha256:3df28689a2b61ed4'
 translatedAt: '2026-06-17T01:45:00+08:00'
 image: '/article-images/technology/hsinchu-science-park-main-gate-2025.webp'
 imageCredit: 'T Gordon Cheng'

@@ -18,9 +18,9 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-28
 translatedFrom: 'People/王小棣.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:585e0e43e012a49f'
-sourceBodyHash: 'sha256:e1c0f0613a0e3a84'
+sourceCommitSha: '3638ec15'
+sourceContentHash: 'sha256:50eb815f9c92fea3'
+sourceBodyHash: 'sha256:1ab1bdb7f132ff60'
 translatedAt: '2026-05-13T01:08:41Z'
 lastHumanReview: true
 ---

@@ -18,9 +18,9 @@ lastVerified: 2026-03-19
 lastHumanReview: true
 featured: true
 translatedFrom: 'Music/台灣搖滾樂發展史.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:13d6a9f56e217d21'
-sourceBodyHash: 'sha256:ad9585c482ee1d52'
+sourceCommitSha: 'da9ebaab'
+sourceContentHash: 'sha256:f7363f72c8db19f7'
+sourceBodyHash: 'sha256:a8ba2c74c0939b6b'
 translatedAt: '2026-05-20T05:08:32+08:00'
 ---
 

@@ -21,9 +21,9 @@ lastVerified: 2026-06-07
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/台灣辦桌文化.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:0689f4ef37606e24'
-sourceBodyHash: 'sha256:ad9bd62c3f44776c'
+sourceCommitSha: '26a67c77'
+sourceContentHash: 'sha256:87996856be7f510f'
+sourceBodyHash: 'sha256:dc734b24b423e098'
 translatedAt: '2026-06-16T16:54:51Z'
 image: '/article-images/food/bando-ghost-festival-banquet-2017.webp'
 imageCredit: '玄史生 / Wikimedia Commons'

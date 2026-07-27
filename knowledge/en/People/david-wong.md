@@ -12,9 +12,9 @@ lastVerified: '2026-06-19'
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/黃大煒.md'
-sourceCommitSha: 'ac1d187a'
-sourceContentHash: 'sha256:0041e835fb3d1348'
-sourceBodyHash: 'sha256:1a8cebcb1382c71d'
+sourceCommitSha: '5fbbcf41'
+sourceContentHash: 'sha256:1cc8c36887977bc1'
+sourceBodyHash: 'sha256:b9f5504c528ed428'
 translatedAt: '2026-06-20T00:37:13+08:00'
 image: '/article-images/people/huangdawei-shouxialiuqing-1994.webp'
 imageCredit: '達樂音樂'

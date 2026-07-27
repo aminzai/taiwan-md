@@ -18,9 +18,9 @@ readingTime: 12
 lastVerified: 2026-06-04
 lastHumanReview: false
 translatedFrom: 'Society/中華台北.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:139126ed14d761b3'
-sourceBodyHash: 'sha256:67435314dcab3a3a'
+sourceCommitSha: 'bbd8788a'
+sourceContentHash: 'sha256:177fea3750c80f10'
+sourceBodyHash: 'sha256:dab437d622fd59b0'
 translatedAt: '2026-06-16T16:54:57Z'
 image: '/article-images/society/under-protest-rome-1960.webp'
 imageCredit: '1960 年羅馬奧運開幕，福爾摩沙（台灣）代表團持「UNDER PROTEST」抗議牌進場。攝影 Harry Pot，荷蘭國家檔案館，CC0'

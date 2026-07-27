@@ -21,9 +21,9 @@ lastVerified: 2026-06-27
 lastHumanReview: false
 featured: true
 translatedFrom: 'People/紀懷新.md'
-sourceCommitSha: '489ea1601'
-sourceContentHash: 'sha256:50346fd81e3daf96'
-sourceBodyHash: 'sha256:64d75052423ad414'
+sourceCommitSha: '95f42de8'
+sourceContentHash: 'sha256:53560e337a2fa524'
+sourceBodyHash: 'sha256:826517ecee263b74'
 translatedAt: '2026-06-28T00:38:05+08:00'
 image: '/article-images/people/ed-chi-deepmind-talk-2026.webp'
 ---

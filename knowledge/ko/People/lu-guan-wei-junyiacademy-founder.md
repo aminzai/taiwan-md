@@ -22,9 +22,9 @@ lastVerified: 2026-06-14
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/呂冠緯.md'
-sourceCommitSha: 'bb411ee0'
-sourceContentHash: 'sha256:cb74fb52bd858441'
-sourceBodyHash: 'sha256:ede8a39e93d2585c'
+sourceCommitSha: '0bedbf85'
+sourceContentHash: 'sha256:31321e2281658622'
+sourceBodyHash: 'sha256:5b5dbb7b472ae1b0'
 translatedAt: '2026-06-17T01:18:25+08:00'
 image: '/article-images/people/lu-guan-wei-portrait-2020.webp'
 imageCredit: '總統府 / 攝影 Mori'

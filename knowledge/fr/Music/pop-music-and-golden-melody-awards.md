@@ -20,9 +20,9 @@ lastVerified: 2026-06-28
 lastHumanReview: false
 featured: false
 translatedFrom: 'Music/金曲獎.md'
-sourceCommitSha: '6897c6571'
-sourceContentHash: 'sha256:b00d48ce7d3f9ffa'
-sourceBodyHash: 'sha256:f8572e451edfc640'
+sourceCommitSha: '47d78ce7'
+sourceContentHash: 'sha256:5406c0a04ed7374f'
+sourceBodyHash: 'sha256:0794328a7ed72af5'
 translatedAt: '2026-06-29T00:47:38+08:00'
 image: '/article-images/music/golden-melody-awards-2021.webp'
 imageCredit: 'Solomon203'

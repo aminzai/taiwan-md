@@ -27,9 +27,9 @@ imageCredit: 'Wikimedia Commons / 新埔潘屋'
 imageLicense: 'see file page'
 imageSource: 'https://commons.wikimedia.org/wiki/File:新埔潘屋全景.jpg'
 translatedFrom: 'People/杜潘芳格.md'
-sourceCommitSha: '6f05295a9'
-sourceContentHash: 'sha256:8a9d8a34e19c0e40'
-sourceBodyHash: 'sha256:4122ff7b760cfc28'
+sourceCommitSha: 'd39f3a50'
+sourceContentHash: 'sha256:d405136a29d9431e'
+sourceBodyHash: 'sha256:b0195c9685eb2443'
 translatedAt: '2026-07-14T00:51:45+08:00'
 ---
 

@@ -11,9 +11,9 @@ category: 'Lifestyle'
 lastVerified: 2026-03-23
 lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣捷運發展史.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:0b2e856857f62b1e'
-sourceBodyHash: 'sha256:e5a7aa30573d4059'
+sourceCommitSha: '976dcae4'
+sourceContentHash: 'sha256:103cffd41c084886'
+sourceBodyHash: 'sha256:afbe1eb00070eaa4'
 translatedAt: '2026-05-01T19:52:32+08:00'
 ---
 

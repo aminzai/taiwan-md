@@ -10,9 +10,9 @@ lastVerified: 2026-06-13
 lastHumanReview: false
 featured: false
 translatedFrom: 'History/跨黨派的好政策.md'
-sourceCommitSha: '6e4cfc200'
-sourceContentHash: 'sha256:15ae499dfcb97aac'
-sourceBodyHash: 'sha256:01c949b0613e035a'
+sourceCommitSha: 'e666af3e'
+sourceContentHash: 'sha256:05458bb41dd9205e'
+sourceBodyHash: 'sha256:00c84158a3ec97b2'
 translatedAt: '2026-06-14T00:37:04+08:00'
 image: '/article-images/history/cross-party-freeway-no1-2015.webp'
 imageCredit: 'Koika / Wikimedia Commons'

@@ -1,8 +1,8 @@
 ---
 translatedFrom: 'Food/台灣小吃.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:97a6acec72ee0e79'
-sourceBodyHash: 'sha256:70ab08dbd7b43fbc'
+sourceCommitSha: '1facb1b9'
+sourceContentHash: 'sha256:d44d711c2a614f5f'
+sourceBodyHash: 'sha256:fc8359a5a9777af0'
 translatedAt: '2026-05-13T01:07:52Z'
 title: 'Taiwanese Street Food'
 description: "In March 1987, a tea shop employee at Chun Shui Tang dropped some tapioca balls into milk tea without any plan to patent it. That accidental mistake sparked a global bubble tea empire worth NTD 300 billion a year. Taiwan's street food history is like that — its most successful inventions were almost always accidents, and its most vital stalls swear they have no secret recipe."

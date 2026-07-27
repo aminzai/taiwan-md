@@ -20,9 +20,9 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 readingTime: 12
 translatedFrom: Politics/投票權門檻歷史.md
-sourceCommitSha: e957cf7f1
-sourceContentHash: sha256:3074d2aae1d6b4c8
-sourceBodyHash: sha256:6e53b65db9794966
+sourceCommitSha: '488ba3ae'
+sourceContentHash: 'sha256:9f186591ee3109a8'
+sourceBodyHash: 'sha256:a759a5339dd81f4b'
 translatedAt: 2026-05-28T05:08:35+08:00
 ---
 

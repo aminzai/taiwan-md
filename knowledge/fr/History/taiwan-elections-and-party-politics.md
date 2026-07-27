@@ -18,9 +18,9 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 featured: false
 translatedFrom: 'History/台灣選舉與政黨政治.md'
-sourceCommitSha: 'e957cf7f1'
-sourceContentHash: 'sha256:35594d81e2470e05'
-sourceBodyHash: 'sha256:7e75aac6f994b2f2'
+sourceCommitSha: '2e0cc381'
+sourceContentHash: 'sha256:f462ef48505faa9b'
+sourceBodyHash: 'sha256:019ea30197aa5f25'
 translatedAt: '2026-05-28T05:08:35+08:00'
 difficulty: 'beginner'
 ---

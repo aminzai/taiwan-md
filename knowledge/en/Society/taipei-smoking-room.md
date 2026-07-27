@@ -21,9 +21,9 @@ lastVerified: 2026-07-13
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台北吸菸室.md'
-sourceCommitSha: '196880b10'
-sourceContentHash: 'sha256:154106c14a84262b'
-sourceBodyHash: 'sha256:d87917b84c6a12b1'
+sourceCommitSha: '1929e495'
+sourceContentHash: 'sha256:38028701b07f0fef'
+sourceBodyHash: 'sha256:9688d39de8d42815'
 translatedAt: '2026-07-15T00:51:51+08:00'
 image: '/article-images/society/taipei-ximending-smoking-booth-2026.webp'
 imageCredit: '花花日報 / 記者章湘瑩'

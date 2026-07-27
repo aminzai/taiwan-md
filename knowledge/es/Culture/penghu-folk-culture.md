@@ -24,9 +24,9 @@ image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Penghu_Tianhou
 imageAlt: 'Salón principal del Templo Tianhou de Penghu, el templo de Mazu más antiguo que se conserva en Taiwán'
 imageCredit: 'Wikimedia Commons, CC BY-SA'
 translatedFrom: 'Culture/澎湖民俗文化.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:20a4e415d5a5b5ab'
-sourceBodyHash: 'sha256:800e8b0751351b5e'
+sourceCommitSha: 'e004fac3'
+sourceContentHash: 'sha256:e71b837d32f8708d'
+sourceBodyHash: 'sha256:9b0e9ffb81c95f4e'
 translatedAt: '2026-05-01T22:19:10+08:00'
 ---
 

@@ -25,9 +25,9 @@ lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/金門縣.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:f3604bda54fbb678'
-sourceBodyHash: 'sha256:0b92146b9814b26a'
+sourceCommitSha: 'd3d4d780'
+sourceContentHash: 'sha256:1ce94059006f7d31'
+sourceBodyHash: 'sha256:fd7f3e0d4f2dc9b4'
 translatedAt: '2026-06-16T00:44:26+08:00'
 image: /article-images/geography/kinmen-hero.webp
 imageCredit: Sleepingstar

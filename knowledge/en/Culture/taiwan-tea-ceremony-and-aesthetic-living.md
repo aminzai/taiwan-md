@@ -19,9 +19,9 @@ featured: true
 lastVerified: 2026-03-25
 lastHumanReview: false
 translatedFrom: 'Culture/台灣茶道與生活美學.md'
-sourceCommitSha: 'd520299b'
-sourceContentHash: 'sha256:493db11be1cffdc3'
-sourceBodyHash: 'sha256:31e39ab99f97ad00'
+sourceCommitSha: '2948c945'
+sourceContentHash: 'sha256:f1b4f4bb8aa56e88'
+sourceBodyHash: 'sha256:b5154ba7226ad9d9'
 translatedAt: '2026-06-16T17:19:04Z'
 ---
 

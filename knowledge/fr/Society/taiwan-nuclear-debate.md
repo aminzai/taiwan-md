@@ -22,9 +22,9 @@ lastVerified: 2026-06-07
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣與核能的討論.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:644a9c58c9027809'
-sourceBodyHash: 'sha256:9d34f10c11b5b667'
+sourceCommitSha: '95c3b1af'
+sourceContentHash: 'sha256:5d718d4ccb9dca76'
+sourceBodyHash: 'sha256:b97d2d0eea4b5afe'
 translatedAt: '2026-06-16T16:54:51Z'
 image: '/article-images/society/anti-nuclear-protest-legislative-yuan-voa-2013.webp'
 imageCredit: '2013 年 4 月，反核民間團體包圍立法院。Voice of America，Public Domain'

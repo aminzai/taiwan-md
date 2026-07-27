@@ -19,9 +19,9 @@ lastVerified: 2026-06-04
 lastHumanReview: false
 featured: true
 translatedFrom: 'Society/天下雜誌.md'
-sourceCommitSha: 'bb411ee0'
-sourceContentHash: 'sha256:c08065304af9db33'
-sourceBodyHash: 'sha256:6cd75de33ed1027c'
+sourceCommitSha: 'd317f164'
+sourceContentHash: 'sha256:cfcffc0d37076c22'
+sourceBodyHash: 'sha256:a2fb34529fea33ac'
 translatedAt: '2026-06-16T17:13:36Z'
 image: '/article-images/society/diane-ying-magsaysay.webp'
 imageCredit: 'Ramon Magsaysay Award Foundation'

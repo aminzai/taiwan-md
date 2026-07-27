@@ -5,15 +5,22 @@ date: 2026-03-18
 author: 'Taiwan.md'
 category: 'Music'
 subcategory: '獨立與搖滾'
-tags: ['Rock Music', 'Music History', 'Underground Music', 'Bands', 'Taiwanese Music']
+tags:
+  [
+    'Rock Music',
+    'Music History',
+    'Underground Music',
+    'Bands',
+    'Taiwanese Music',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: true
 featured: true
 translatedFrom: 'Music/台灣搖滾樂發展史.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:13d6a9f56e217d21'
-sourceBodyHash: 'sha256:ad9585c482ee1d52'
+sourceCommitSha: 'da9ebaab'
+sourceContentHash: 'sha256:f7363f72c8db19f7'
+sourceBodyHash: 'sha256:a8ba2c74c0939b6b'
 translatedAt: '2026-05-20T05:08:27+08:00'
 ---
 
@@ -45,21 +52,21 @@ Early Taiwanese rock developed mainly in pubs and small performance venues. Most
 
 ### The Milestone of Crystal Records
 
-In 1987, Jen Chiang-ta took over **Crystal Records**, promoted publications such as *Rockers*, and began systematically promoting underground music.[^1] Crystal Records did more than release records; through the "Taipei New Music Festival," it also provided a stage for underground musicians.
+In 1987, Jen Chiang-ta took over **Crystal Records**, promoted publications such as _Rockers_, and began systematically promoting underground music.[^1] Crystal Records did more than release records; through the "Taipei New Music Festival," it also provided a stage for underground musicians.
 
-After the third Taipei New Music Festival in 1989, participating musicians were collected in the compilation ***Completely Out of Tune***, which included early works by several bands that later became well known. It remains a primary document for the study of Taiwanese underground music.[^2]
+After the third Taipei New Music Festival in 1989, participating musicians were collected in the compilation **_Completely Out of Tune_**, which included early works by several bands that later became well known. It remains a primary document for the study of Taiwanese underground music.[^2]
 
 ### Major Releases and Influence
 
-- ***Lies of an Idiot*** (1987): an album by Double X and a representative work of Taiwanese punk
-- ***The Sound of Rock: New Music Encyclopedia*** (1990): a systematic introduction to new music, regarded by fans as a bible
-- **Black List Studio's *Songs of Madness***: a breakthrough work combining rock with Taiwanese-language songwriting
+- **_Lies of an Idiot_** (1987): an album by Double X and a representative work of Taiwanese punk
+- **_The Sound of Rock: New Music Encyclopedia_** (1990): a systematic introduction to new music, regarded by fans as a bible
+- **Black List Studio's _Songs of Madness_**: a breakthrough work combining rock with Taiwanese-language songwriting
 
 ### Black List Studio and the New Taiwanese Song Movement
 
-In 1989, Black List Studio released *Songs of Madness*, using Taiwanese-language rock to directly criticize political reality and leaving an unmistakable mark on Taiwan's post-martial-law music history. Principal creator Chen Ming-chang combined acoustic guitar with Southern Min lyrics to speak for the oppressed working and farming classes; Will Lin used modern rock arrangements as the foundation, bringing "Taiwanese into rock" onto music's main stage.
+In 1989, Black List Studio released _Songs of Madness_, using Taiwanese-language rock to directly criticize political reality and leaving an unmistakable mark on Taiwan's post-martial-law music history. Principal creator Chen Ming-chang combined acoustic guitar with Southern Min lyrics to speak for the oppressed working and farming classes; Will Lin used modern rock arrangements as the foundation, bringing "Taiwanese into rock" onto music's main stage.
 
-The success of *Songs of Madness* triggered the broader "New Taiwanese Song Movement." Chen Ming-chang, Bobby Chen, Yeh Chi-tien, Lim Giong, and others successively created rock and folk music in Taiwanese or with Southern Min inflections, breaking the Mandarin-dominated framework of popular music at the time and helping Taiwanese regain a place in mainstream media.
+The success of _Songs of Madness_ triggered the broader "New Taiwanese Song Movement." Chen Ming-chang, Bobby Chen, Yeh Chi-tien, Lim Giong, and others successively created rock and folk music in Taiwanese or with Southern Min inflections, breaking the Mandarin-dominated framework of popular music at the time and helping Taiwanese regain a place in mainstream media.
 
 This movement also laid a dual foundation for later Taike rock and the independent music scene: linguistic liberation made local color a resource for creation rather than a taboo, while spiritual rebellion carried forward the questioning of social reality that had begun with the campus folk movement.
 
@@ -90,9 +97,9 @@ Founded in 1997, **Chairman Band** became a representative of Taiwanese-language
 
 Major works:
 
-- *God Bless Taiwan*: a representative work combining religious culture and rock
-- *Long Live*: a representative album celebrating the band's founding
-- *You Don't Understand*: a rock narrative that presents the everyday life of ordinary Taiwanese people
+- _God Bless Taiwan_: a representative work combining religious culture and rock
+- _Long Live_: a representative album celebrating the band's founding
+- _You Don't Understand_: a rock narrative that presents the everyday life of ordinary Taiwanese people
 
 ### The Mayday Phenomenon
 
@@ -170,19 +177,23 @@ Today, when we hear LTK Commune's experimental noise, Chairman Band's Taiwanese-
 
 ## References
 
-- Jen Chiang-ta et al., eds., *The Sound of Rock: New Music Encyclopedia*, Crystal Records, 1990. [Crystal Records, Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B0%B4%E6%99%B6%E5%94%B1%E7%89%87)
-- [*A Contextual Essay on Taiwanese Rock*, PTT RockMetal board, 2022](https://www.ptt.cc/bbs/RockMetal/M.1652359027.A.050.html)
-- [Freshmusic website, *The Seeds of Taiwanese Independent Music: A Brief 30th-Anniversary Retrospective on Crystal Records*, 2016](https://freshmusic.sg/2016/12/11/crystal/)
-- [InMusic Journal, *A Promoter of Taiwanese Underground Music: Crystal Records' Path of New Music*](http://jeph.bluecircus.net/archives/44)
-- [PeoPo Citizen Journalism, *Beyond "Mayday": Five Major Taiwanese Bands You Should Know Even More*, 2013](https://www.peopo.org/news/252181)
-- [Vocus, *An Introduction to Taiwanese Bands of the 1990s and Appreciation of Their Classic Songs*, 2025](https://vocus.cc/article/675a8f37fd897800019cc23a)
+- Jen Chiang-ta et al., eds., _The Sound of Rock: New Music Encyclopedia_, Crystal Records, 1990. [Crystal Records, Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B0%B4%E6%99%B6%E5%94%B1%E7%89%87)
+- [_A Contextual Essay on Taiwanese Rock_, PTT RockMetal board, 2022](https://www.ptt.cc/bbs/RockMetal/M.1652359027.A.050.html)
+- [Freshmusic website, _The Seeds of Taiwanese Independent Music: A Brief 30th-Anniversary Retrospective on Crystal Records_, 2016](https://freshmusic.sg/2016/12/11/crystal/)
+- [InMusic Journal, _A Promoter of Taiwanese Underground Music: Crystal Records' Path of New Music_](http://jeph.bluecircus.net/archives/44)
+- [PeoPo Citizen Journalism, _Beyond "Mayday": Five Major Taiwanese Bands You Should Know Even More_, 2013](https://www.peopo.org/news/252181)
+- [Vocus, _An Introduction to Taiwanese Bands of the 1990s and Appreciation of Their Classic Songs_, 2025](https://vocus.cc/article/675a8f37fd897800019cc23a)
 - [Wikipedia, "Chairman Band" entry](https://zh.wikipedia.org/zh-hant/%E8%91%A3%E4%BA%8B%E9%95%B7%E6%A8%82%E5%9C%98)
 - [Bureau of Audiovisual and Music Industry Development, Ministry of Culture](https://www.bamid.gov.tw/)
 - [Taiwan Music Institute website resources](https://musiciantw.ncfta.gov.tw/)
 - [Golden Melody Awards historical winners](https://gma.tavis.tw/)
 
-[^1]: Freshmusic website, *The Seeds of Taiwanese Independent Music: A Brief 30th-Anniversary Retrospective on Crystal Records*, 2016. https://freshmusic.sg/2016/12/11/crystal/
-[^2]: InMusic Journal, *A Promoter of Taiwanese Underground Music: Crystal Records' Path of New Music*. http://jeph.bluecircus.net/archives/44
-[^3]: Wikipedia, *Chairman Band*. https://zh.wikipedia.org/zh-hant/%E8%91%A3%E4%BA%8B%E9%95%B7%E6%A8%82%E5%9C%98
-[^4]: PTT RockMetal board, *A Contextual Essay on Taiwanese Rock*, 2022. https://www.ptt.cc/bbs/RockMetal/M.1652359027.A.050.html
+[^1]: Freshmusic website, _The Seeds of Taiwanese Independent Music: A Brief 30th-Anniversary Retrospective on Crystal Records_, 2016. https://freshmusic.sg/2016/12/11/crystal/
+
+[^2]: InMusic Journal, _A Promoter of Taiwanese Underground Music: Crystal Records' Path of New Music_. http://jeph.bluecircus.net/archives/44
+
+[^3]: Wikipedia, _Chairman Band_. https://zh.wikipedia.org/zh-hant/%E8%91%A3%E4%BA%8B%E9%95%B7%E6%A8%82%E5%9C%98
+
+[^4]: PTT RockMetal board, _A Contextual Essay on Taiwanese Rock_, 2022. https://www.ptt.cc/bbs/RockMetal/M.1652359027.A.050.html
+
 [^5]: Bureau of Audiovisual and Music Industry Development, Ministry of Culture, music festival event records. https://www.bamid.gov.tw/

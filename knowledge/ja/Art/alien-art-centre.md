@@ -4,9 +4,9 @@ description: 冷戦時代の軍事中継所。兵士たちが最前線へ向か�
 featured: false
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg/800px-%E9%87%91%E9%A6%AC%E8%B3%93%E9%A4%A8%E7%95%B6%E4%BB%A3%E7%BE%8E%E8%A1%93%E9%A4%A8.jpg
 translatedFrom: 'Art/金馬賓館當代美術館.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:dc5814dcedc92ae0'
-sourceBodyHash: 'sha256:c74e16d96ce01c6c'
+sourceCommitSha: '209084a3'
+sourceContentHash: 'sha256:29f8c92d6f9ec4f0'
+sourceBodyHash: 'sha256:ab8b8f728e87222a'
 translatedAt: '2026-06-16T17:10:30Z'
 category: Art
 date: 2026-03-22

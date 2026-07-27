@@ -12,9 +12,9 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: People/徐巧芯.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:8f69e3146e67bf4f'
-sourceBodyHash: 'sha256:c36ec4a8304568ae'
+sourceCommitSha: '200949f4'
+sourceContentHash: 'sha256:a962a822b6113a98'
+sourceBodyHash: 'sha256:77a2ffda234c910d'
 translatedAt: 2026-05-03T23:14:05+08:00
 difficulty: 'intermediate'
 ---

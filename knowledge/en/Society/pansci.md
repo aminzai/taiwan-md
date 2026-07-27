@@ -19,9 +19,9 @@ lastVerified: 2026-05-07
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/泛科學.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:fc2836e9d3ebf9e7'
-sourceBodyHash: 'sha256:498dc3f8b99093f6'
+sourceCommitSha: '2ed57e08'
+sourceContentHash: 'sha256:81628aa1fa2a0014'
+sourceBodyHash: 'sha256:004993e686695dd6'
 translatedAt: '2026-06-16T17:03:25Z'
 image: '/article-images/society/cheng-kuo-wei-portnoy-2026.webp'
 imageCredit: '© 鏡週刊 Mirror Media（陳昌遠攝）'

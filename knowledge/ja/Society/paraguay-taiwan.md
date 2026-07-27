@@ -24,9 +24,9 @@ featured: true
 lastVerified: 2026-05-07
 lastHumanReview: false
 translatedFrom: 'Society/巴拉圭與台灣.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:2883551ecafd55b9'
-sourceBodyHash: 'sha256:a482ae599cab265e'
+sourceCommitSha: '72a8b443'
+sourceContentHash: 'sha256:01affe2533530c02'
+sourceBodyHash: 'sha256:21c703a5d9235d48'
 translatedAt: '2026-06-12T00:53:40+08:00'
 image: '/article-images/society/taiwan-paraguay-embassy-inauguration-2016.webp'
 imageCredit: '中華民國總統府'

@@ -11,9 +11,9 @@ lastVerified: 2026-07-05
 lastHumanReview: false
 featured: false
 translatedFrom: Economy/SLP台北創業領導計畫.md
-sourceCommitSha: cfaa22a5d
-sourceContentHash: sha256:68e3e5788b724298
-sourceBodyHash: sha256:320873c44e3f6c2e
+sourceCommitSha: 'cc540a12'
+sourceContentHash: 'sha256:2807864e36fcb52b'
+sourceBodyHash: 'sha256:dc6cccd48d2e9282'
 translatedAt: 2026-07-10T01:14:44+08:00
 image: '/article-images/economy/slp-taipei-annual-party-2023.webp'
 imageCredit: 'SLP台北創業領導計畫'

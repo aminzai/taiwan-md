@@ -22,9 +22,9 @@ lastVerified: 2026-06-25
 lastHumanReview: false
 featured: false
 translatedFrom: 'Lifestyle/台灣的公車系統.md'
-sourceCommitSha: '195a57899'
-sourceContentHash: 'sha256:6fd747b2b0893c21'
-sourceBodyHash: 'sha256:a1e49238035eece5'
+sourceCommitSha: '036f4f3f'
+sourceContentHash: 'sha256:6350fb8cfb489452'
+sourceBodyHash: 'sha256:03dd96b03caf8931'
 translatedAt: '2026-06-26T00:38:47+08:00'
 image: '/article-images/lifestyle/scooters-and-bus-taipei-1996.webp'
 imageCredit: 'Holly Cheng'

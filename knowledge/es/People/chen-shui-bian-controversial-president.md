@@ -20,9 +20,9 @@ readingTime: 18
 lastVerified: 2026-04-29
 lastHumanReview: false
 translatedFrom: 'People/陳水扁.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:d4340432364688a1'
-sourceBodyHash: 'sha256:8dddf05fdbd86410'
+sourceCommitSha: 'eae11d13'
+sourceContentHash: 'sha256:9e6735e344733c2b'
+sourceBodyHash: 'sha256:be5f4cfa04f53c22'
 translatedAt: '2026-05-16T22:35:47Z'
 featured: false
 ---

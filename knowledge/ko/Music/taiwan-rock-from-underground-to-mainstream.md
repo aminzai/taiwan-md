@@ -11,9 +11,9 @@ featured: true
 lastVerified: 2026-03-19
 lastHumanReview: true
 translatedFrom: Music/台灣搖滾樂發展史.md
-sourceCommitSha: 0f8fae0ae
-sourceContentHash: sha256:13d6a9f56e217d21
-sourceBodyHash: sha256:ad9585c482ee1d52
+sourceCommitSha: 'da9ebaab'
+sourceContentHash: 'sha256:f7363f72c8db19f7'
+sourceBodyHash: 'sha256:a8ba2c74c0939b6b'
 translatedAt: 2026-05-20T05:08:30+08:00
 ---
 
@@ -182,7 +182,11 @@ translatedAt: 2026-05-20T05:08:30+08:00
 - [금곡상 역대 수상 기록](https://gma.tavis.tw/)
 
 [^1]: 셴러 문화 웹사이트, 《타이완 독립 음악의 씨앗: 크리스탈 레코드 30주년 소회》, 2016. https://freshmusic.sg/2016/12/11/crystal/
+
 [^2]: 인무 필기, 《타이완 언더그라운드 음악의 추진자–크리스탈 레코드의 뉴 뮤직의 길》. http://jeph.bluecircus.net/archives/44
+
 [^3]: 위키백과, 《둥싯창 樂團》. https://zh.wikipedia.org/zh-hant/%E8%91%A3%E4%BA%8B%E9%95%B7%E6%A8%82%E5%9C%98
+
 [^4]: PTT RockMetal 게시판, 《타이완 록 맥락문》, 2022. https://www.ptt.cc/bbs/RockMetal/M.1652359027.A.050.html
+
 [^5]: 문화부 영화 및 대중음악 산업국, 음악제 활동 기록. https://www.bamid.gov.tw/

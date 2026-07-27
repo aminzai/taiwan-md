@@ -1,19 +1,20 @@
 ---
-title: "新生態藝術環境：1992年、永福路の四百坪の古い建物が、助成構造に先行した七年間"
-description: "1992年6月、杜昭賢は台南・永福路にある四百坪余りの古い建物で「新生態藝術環境」を開きました。国家文化芸術基金会はまだ成立しておらず、台南芸術学院もまだ開校しておらず、文建会の「遊休空間再利用」政策もまだ始まっていませんでした。それは七年間持続し、1999年に灯を消したとき、台湾現代美術の制度的神経系がちょうど形成され始めていました。"
+title: '新生態藝術環境：1992年、永福路の四百坪の古い建物が、助成構造に先行した七年間'
+description: '1992年6月、杜昭賢は台南・永福路にある四百坪余りの古い建物で「新生態藝術環境」を開きました。国家文化芸術基金会はまだ成立しておらず、台南芸術学院もまだ開校しておらず、文建会の「遊休空間再利用」政策もまだ始まっていませんでした。それは七年間持続し、1999年に灯を消したとき、台湾現代美術の制度的神経系がちょうど形成され始めていました。'
 date: 2026-05-17
 author: 'Taiwan.md Contributors'
 category: 'Art'
 subcategory: '當代藝術'
-tags: ['オルタナティブ・スペース', '現代美術', '台南', '1990年代', '戒厳令解除後']
+tags:
+  ['オルタナティブ・スペース', '現代美術', '台南', '1990年代', '戒厳令解除後']
 readingTime: 16
 lastVerified: 2026-05-17
 lastHumanReview: false
 featured: false
 translatedFrom: 'Art/新生態藝術環境.md'
-sourceCommitSha: 'e0d618544'
-sourceContentHash: 'sha256:7eb4b4e670f5c8c7'
-sourceBodyHash: 'sha256:5c80fe21dceea6a4'
+sourceCommitSha: 'c99df650'
+sourceContentHash: 'sha256:89f4f7c40c7428d6'
+sourceBodyHash: 'sha256:dde1ab9552710d18'
 translatedAt: '2026-05-17T05:06:52+08:00'
 ---
 

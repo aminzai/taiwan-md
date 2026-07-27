@@ -33,9 +33,9 @@ lastVerified: 2026-05-28
 lastHumanReview: false
 featured: false
 translatedFrom: 'Music/周蕙.md'
-sourceCommitSha: 'ac1d187a'
-sourceContentHash: 'sha256:e82ab2af4a170315'
-sourceBodyHash: 'sha256:4c01fb53198217ef'
+sourceCommitSha: 'c40c53f6'
+sourceContentHash: 'sha256:bad67aad8b965996'
+sourceBodyHash: 'sha256:7f999c1dbadb14bb'
 translatedAt: '2026-06-16T16:54:51Z'
 image: '/article-images/music/zhou-hui-yueding-mv-thumb-1999.webp'
 imageCredit: '福茂唱片 / 周蕙〈約定〉1999 官方 MV 截圖'

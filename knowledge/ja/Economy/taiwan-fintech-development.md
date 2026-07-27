@@ -1,165 +1,164 @@
 ---
-title: "Taiwan's FinTech Development"
-description: "A Wall Street golden boy returned to Taiwan to found a mobile payment service; nine years later, the company was sealed by the court with less than a thousand dollars in bank account deposits. This is not just one person's story, but the story of an entire island's decade-long tug-of-war between 'openness' and 'loss of control' in FinTech."
+title: '台湾の金融テクノロジー（FinTech）の発展'
+description: 'ウォール街の若き逸材が台湾へ戻り、モバイル決済を立ち上げる。9年後、会社は差し押さえられ、口座残高は1,000元未満に。これは一人の物語ではなく、「開放」と「失制御」の間で揺れ動く、この島全体のFinTechの10年間の歩みである。'
 date: 2026-04-06
-tags:
-  [
-    'FinTech',
-    'Digital Banking',
-    'Mobile Payment',
-    'Regulatory Sandbox',
-    'Pure Online Bank',
-    'Electronic Payment',
-  ]
-subcategory: 'Finance and Technology'
 author: 'Taiwan.md'
 category: 'Economy'
-readingTime: 12
+subcategory: '金融とテクノロジー'
+tags:
+  - '金融テクノロジー'
+  - 'FinTech'
+  - 'デジタル銀行'
+  - 'モバイル決済'
+  - '規制サンドボックス'
+  - '純ネット銀行'
+  - '電子決済'
+rather_long_reading_time: 12
 lastVerified: 2026-04-06
 lastHumanReview: false
-translatedFrom: 'Economy/台灣金融科技發展.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:c4241632c676aa85'
-sourceBodyHash: 'sha256:b0709e8ad615db88'
-translatedAt: '2026-05-16T22:19:52+00:00'
 featured: false
+translatedFrom: 'Economy/台灣金融科技發展.md'
+sourceCommitSha: '879ed9e77'
+sourceContentHash: 'sha256:54da57abafa311d1'
+sourceBodyHash: 'sha256:eb1efaa0a4f468ff'
+translatedAt: '2026-07-25T19:44:55+08:00'
 ---
 
-# Taiwan's FinTech Development
+# 台湾の金融テクノロジー（FinTech）の発展
 
-> **30-Second Overview:** On July 10, 2025, the parent company of Taiwan's largest local mobile payment service, "Koubei Pay" (Jiekou Pay), was sealed by the court, with less than a thousand dollars in deposits across five bank accounts. Nine years ago, when founder Hu Yijia returned to Taiwan from Wall Street, he said he wanted to make Taiwan's payments as convenient as China's. What happened in between? Taiwan's FinTech started with the 2015 policy white paper, went through the regulatory sandbox, the mobile payment war, three pure online banks accumulating losses of 9 billion, to the central bank's digital new dollar experiment—each step was a tightrope walk between "letting innovation run" and "preventing it from crashing."
+> **30秒の概要：** 2025年7月10日、台湾最大手のモバイル決済「街口支付（Jiekou Zhifu）」の親会社が裁判所によって差し押さえられ、5つの銀行口座の預金合計は1,000元にも満たなかった。9年前、創業者である胡亦嘉（ほ・よく／フー・イージャー）がウォール街から台湾へ戻った際、彼は台湾の決済システムを中国のように便利にしたいと語っていた。この間に何が起きたのか？ 2015年の政策白書から始まった台湾のFinTechは、規制サンドボックス、モバイル決済の激戦、累計90億元の損失を出した3つの純ネット銀行、そして中央銀行によるデジタル新台湾ドルの試験に至るまで、一歩ごとに「イノベーションを加速させる」ことと「破綻を防ぐ」という綱渡りのような舵取りを行ってきた。
 
-## The Wall Street Golden Boy Returns
+## ウォール街の若き逸材が帰還
 
-In 2015, a young man in his early 30s returned to Taiwan from China and founded Koubei Pay (Jiekou Pay).
+2015年、30代前半の若者が中国から台湾へ戻り、街口支付を設立した。
 
-His name is Hu Yijia. He graduated from the Department of Applied Mathematics at National Chiao Tung University, holds a master's degree from Columbia University, and worked as a hedge fund analyst on Wall Street, earning an annual salary of over ten million New Taiwan Dollars. The media called him the "Wall Street Golden Boy." But it wasn't nostalgia that brought him back to Taiwan—he had spent a few years in Suzhou, China, and witnessed firsthand how Alipay and WeChat Pay changed the consumption habits of billions of people. He wanted to bring the same thing back to Taiwan. [^1]
+彼の名は胡亦嘉（ほ・よく／フー・イージャー）。台湾科技大学で応用数学を専攻し、コロンビア大学で修士号を取得。ウォール街でヘッジファンドのアナリストとして勤務し、年収は1,000万台湾ドルを超えていた。メディアは彼を「ウォール街の若き逸材」と呼んだ。しかし、彼を台湾へ呼び戻したのは郷愁ではない。彼は中国の蘇州で数年間過ごす中で、支付宝（Alipay）や微信支付（WeChat Pay）が10億人以上の消費習慣を変えたのを目の当たりにし、同じことを台湾でも実現したいと考えたのである。[^1]
 
-His family background is also impressive: his grandfather, Hu Xin, was an attendant guard to Chiang Kai-shek, and his father, Hu Dingwu, served as the chairman of Development Financial Holdings and the chairman of Taipei 101. Hu Yijia had access to financial circle connections from birth. [^2]
+彼の家系も華々しい。祖父の胡炘は蔣介石（しょうかいせき）の侍衛長であり、父親の胡定吾はかつて開発金控の会長や台北101の会長を務めた。金融界のコネクションは、彼にとって生まれながらの持ち物であった。[^2]
 
-Koubei Pay obtained its electronic payment license in 2018 and officially launched, capturing market share with high rebates. By 2020, Koubei had become Taiwan's largest local mobile payment brand, with over 6 million users. Hu Yijia publicly challenged LINE Pay, stating his intention to list Koubei on the OTC market in 2024 and on the stock exchange in 2025. [^3]
+街口支付は2018年に電子決済のライセンスを取得して正式にサービスを開始し、高い還元率で市場を奪取した。2020年までに、街口は台湾最大級のモバイル決済ブランドとなり、ユーザー数は600万人を超えた。胡亦嘉は公然とLINE Payへの挑戦を宣言し、2024年の上場、2025年の上場を目指すと語っていた。[^3]
 
-Then things began to turn.
+しかし、事態は急転した。
 
-## The Day 3.6 Billion Vanished
+## 36億が消えたあの日
 
-In 2023, Zhan Jingsheng, Chairman of Taishan Enterprise, acquired a 40% stake in Koubei FinTech for 3.6 billion. However, internal power struggles erupted within Taishan shortly after. After the new team took control of the board of directors, they filed a lawsuit against this transaction.
+2023年、泰山企業の董事長である詹景超が街口金融科技の株式40%を36億円で取得した。しかし、その後タイ山の内部で経営権を巡る争奪戦が発生し、新体制に移行したチームがこの取引を訴えた。
 
-In July 2025, the court ruled the transaction invalid, and Koubei FinTech was ordered to return the 3.6 billion. During the execution of the seal, court personnel discovered something: the total deposits in Koubei FinTech's five bank accounts amounted to less than a thousand dollars. [^4]
+2025年7月、裁判所は取引が無効と判決し、街口金科に対し36億円の返還を命じた。執行のための差し押さえが行われた際、裁判所の職員はある事実を発見した。街口金科の5つの銀行口座の預金合計が、1,000元にも満たなかったのである。[^4]
 
-On the day of the seal, nearly 300 employees were temporarily notified to work from home, and the office sign was removed. Hu Yijia was subsequently prosecuted by the prosecution office for special breach of trust, restricted from leaving the country, and at one point faced electronic ankle monitor surveillance. [^5]
+差し押さえの当日、約300人の従業員に一時的な在宅勤務の通知が送られ、オフィスの看板は撤去された。胡亦嘉はその後、特別背任罪で起訴され、出国制限を受け、さらには電子足枷による監視の対象となった。[^5]
 
-> **📝 Curator's Note**
-> Koubei Pay's user funds themselves are safe—according to the "Electronic Payment Institution Management Regulations," all stored value is held in trust accounts by entrusted banks, completely isolated from the parent company's finances. The Financial Supervisory Commission (FSC) repeatedly emphasized this point. However, the image of "accounts having less than a thousand dollars left" has severely damaged the foundation of trust in Taiwan's fintech startups.
+> **📝 編注**
+> 街口支付自体のユーザー資金は安全である。『電子決済機構管理条例』に基づき、すべての預入金は受託銀行によって信託専用口座として独立して保管され、親会社の財務とは完全に隔離されているためだ。金融監督管理委員会（金管会）もこの点を繰り返し強調している。しかし、「口座残高が1,000元以下」という光景は、台湾のスタートアップ金融に対する信頼の基盤を大きく揺るがした。
 
-This is not the first time Hu Yijia has clashed with regulatory authorities. As early as 2020, the FSC fined him 3 million for seven violations involving the "Tuo Bao" product—misleading investors and undermining corporate governance—and removed Hu from his position as a director of Koubei Investment Trust. His response at the time was to publicly publish articles attacking the FSC. [^6]
+これは胡亦嘉が規制当局と対立した初めてのケースではない。すでに2020年、金管会は「託付宝」製品において投資家への誤導や企業統治の破壊など7項目の違反を指摘し、300万円の罰金を科すと共に、彼が街口投信で務めていた取締役の職を解任した。当時の彼の対応は、公式な声明を公開して金管会に反論することであった。[^6]
 
-Koubei's story is a microcosm of Taiwan's ten-year FinTech journey: policies opened the door, but those who rushed too fast may not necessarily arrive safely.
+街口の物語は、台湾FinTechの10年間の縮図である。政策が開かれた門を用意したが、あまりにも速く突き進んだ者は必ずしも安全にゴールへ辿り着けるとは限らないことを示したのである。
 
-## A Law That Changed the Rules of the Game
+## 法改正が変えたゲームのルール
 
-Let's go back to 2015. That year, the FSC released the "FinTech Development Strategy White Paper," declaring that Taiwan would embrace FinTech. Two years later, the "FinTech Innovation and Experimentation Act" was passed by the Legislative Yuan—this is Asia's first special law, making Taiwan one of the few countries in the world with a legal framework for a "regulatory sandbox." [^7]
+2015年に遡る。その年、金管会は『金融テクノロジー発展戦略白書』を公開し、台湾がFinTechを受け入れることを宣言した。その2年後、『金融テクノロジー革新実験条例』が立法院で可決された。これはアジア初の専門法であり、台湾を「規制サンドボックス」の法的枠組みを持つ世界でも数少ない国家の一つにした。[^7]
 
-The logic of the sandbox is simple: You have an idea for financial innovation, but current regulations don't allow it? Apply to enter the sandbox, experiment within a limited scope, and if successful, the law will be amended to legalize you; if you fail, you won't be punished.
+サンドボックスの論理は単純である。革新的な金融アイデアがあるが、現行の法規制では許可されない場合、サンドボックスへの申請により限定された範囲内で実験を行う。成功すれば法改正を行い合法化し、失敗しても罰せられないという仕組みだ。
 
-It sounds beautiful, but in execution, it is more conservative than imagined.
+理論としては素晴らしいが、実際の運用は予想以上に保守的であった。
 
-Joinvest is one of the few successful cases to graduate from the sandbox—this company created a bond group-buying platform, allowing retail investors to jointly purchase bonds that were previously only available to institutional investors. Entering the sandbox for experimentation in 2021, it received recognition from the FSC, which deemed it "innovative and helpful for financial inclusion," directly leading to the amendment of the "Securities Dealer Establishment Standards." [^8]
+Joinvestはサンドボックスを卒業した数少ない成功例の一つである。この企業は債券の共同購入プラットフォームを提供し、個人投資家が専門家しか買えないはずの債券を共同で購入できるようにした。2021年にサンドボックスでの実験を開始し、その結果、金管会から「革新的であり金融包摂に寄与する」と認められ、『証券商設置標準』の改正へと直結した。[^8]
 
-But the numbers on the other side are not so pleasant. Seven years after the sandbox was launched, the number of approved experimental cases is not large, and even fewer have truly "graduated" and driven regulatory amendments. Critics say that Taiwan's sandbox has too high a threshold, too slow an audit process, and too short an experimental period, becoming a system that "looks open but is actually conservative." [^9]
+しかし、もう一方の数字はそれほど芳好的ではない。サンドボックスが始動してから7年、承認された実験案件は多くなく、実際に「卒業」して法規制の修正を促したケースはさらに少ない。批判者は、台湾のサンドボックスのハードルが高く、審査が遅く、試験期間が短いために、「一見開放的だが実際には保守的な」制度になっていると指摘する。[^9]
 
-> "Taiwan's regulatory sandbox is one of the most complete legal frameworks in the world, but the problem is not with the framework, but with the speed of execution."
-> ——Chambers and Partners, _Fintech 2025: Taiwan_ [^9]
+> 「台湾の規制サンドボックスは世界で最も完全な法的枠組みの一つであるが、問題はその枠組みではなく、実施のスピードにある。」
+> ——Chambers and Partners, _Fintech 2025: Taiwan_[^9]
 
-## The Mobile Payment War in Smartphones
+## スマートフォン内の決済戦争
 
-In 2026 Taiwan, walking into any convenience store, pulling out a mobile phone for checkout has become more common than pulling out a wallet.
+2026年の台湾では、コンビニに入り会計をする際、財布よりもスマートフォンを取り出すことの方が一般的になっている。
 
-According to FSC statistics, by the end of 2025, the total number of electronic payment account users in Taiwan reached 34.45 million—on an island of 23 million people, this number means that most adults have at least one electronic payment account. The government's goal of "90% mobile payment penetration rate by 2025" has basically been met. [^10]
+金管会の統計によると、2025年末時点で全台湾の電子決済アカウントの総利用者数は3,445万人に達している。人口2,300万人の島において、この数字はほとんどの成人が少なくとも一つの電子決済アカウントを持っていることを意味する。政府が設定した「2025年までのモバイル決済普及率90%」という目標は、ほぼ達成された。[^10]
 
-But "penetration" does not mean "unification." Taiwan's mobile payment market is a chaotic battle:
+しかし、「普及」は「統一」を意味しない。台湾のモバイル決済市場は混戦状態にある。
 
-LINE Pay relies on LINE's social foundation to firmly hold the top spot, with over 8 million users. iPASS MONEY (One-Pass Ticketing) leveraged its electronic ticketing base to surge to the number one spot in user count. Before the controversy erupted, Koubei Pay still had over 6 million users. Add in All Pay, All Profit Pay, EasyGo Pay, Taiwan Pay, Apple Pay, Google Pay—consumers have an average of three or four payment apps on their phones, and store counters are covered with QR code stickers from different brands. [^11]
+LINE PayはLINEのソーシャル基盤を背景に首位を維持しており、利用者は800万人を超える。一卡通票證（iPASS MONEY）は電子チケットの基盤を活用して利用者数でトップに躍り出た。街口支付も論争が勃発する前までは600万人以上のユーザーを抱えていた。さらに全支付、全盈支付、悠遊付、台湾 Pay、Apple Pay、Google Payなど、消費者のスマートフォンには平均3〜4つの決済アプリが入っており、店舗のレジには異なるブランドのQRコードステッカーが貼られている。[^11]
 
-> **💡 Did You Know**
-> The fragmentation of Taiwan's mobile payments is partly due to convenience store systems taking sides: 7-ELEVEN promotes OPEN Wallet and icash Pay, while FamilyMart promotes All Profit Pay. The payment landscapes of these two major supermarket chains essentially determine which app is in the pockets of Taiwan's population.
+> **💡 豆知識**
+> 台湾のモバイル決済がこれほど分断されている理由の一つは、コンビニチェーンがそれぞれ独自の陣営に加わっているためである。7-ELEVENはOPEN財布とicash Payを推進し、ファミリーマート（全家）は全盈支付を推している。大手コンビニ2社の決済戦略が、ある程度台湾人のポケットの中にあるアプリを決定しているのである。
 
-This is completely different from the "Alipay + WeChat Pay" dual-monopoly pattern in China. Taiwan does not have a single dominant super app, but rather a blossoming of many flowers—or, to be more honest, a fragmentation among many factions. Consumers are made more convenient (can swipe phones everywhere), but integration efficiency is low, and everyone is burning money to grab market share.
+これは中国の「支付宝＋微信支付」という二強体制とは全く異なる構図である。台湾には圧倒的なシェアを持つスーパーアプリが存在せず、むしろ百花繚乱――より正直に言えば、百家割拠の状態にある。消費者は便利になった（どこでもスマホをかざせる）が、統合効率は低く、各社がシェアを奪うために多額の資金を投じている。
 
-## Three Banks, 9 Billion in Tuition Fees
+## 3つの銀行、90億の授業料
 
-In 2021, Taiwan welcomed the year of pure online banks.
+2021年、台湾は純ネット銀行の元年を迎えた。
 
-LINE Bank, Liuten Bank, and Future Bank opened successively. Their selling point is "no need to go to a bank"—online account opening, high-interest current accounts, 24-hour service, using technology to redesign the experience of traditional banks.
+LINE Bank（連線銀行）、楽天銀行（樂天銀行）、将来銀行の3社が相次いで開業した。それらの売り文句は「銀行に行く必要がない」ことである。オンラインでの口座開設、高利の普通預金、24時間対応など、テクノロジーを用いて伝統的な銀行体験を再設計した。
 
-Four years later, the numbers on the balance sheet are cruel: the three accumulated losses exceeded 9 billion. [^12]
+4年後、帳簿上の数字は残酷なものとなった。3社合算で10億元を超える損失を計上している。[^12]
 
-But the story of losses has different readings. LINE Bank's user count surged to 2.29 million, with a deposit-to-loan ratio of 85.93%. In December 2025, it achieved Taiwan's first-ever monthly pre-tax profit for a pure online bank—the amount was 11 million, not much, but the symbolic significance is huge. LINE Bank announced it aims to break 100 million in full-year profits in 2026, wiping out cumulative losses within three and a half years. [^13]
+しかし、この損失の話には異なる読み方がある。LINE Bankの口座数は229万に達し、預入比率は85.93%にのぼる。2025年12月、台湾の純ネット銀行史上初めて単月で税引前黒字を達成した――金額は1,100万円と多くはないが、象徴的な意味合いは大きい。LINE Bankは2026年の年間で1億以上の利益を上げ、3年半以内に累計損失を解消する意向を表明している。[^13]
 
-Future Bank has 550,000 users, Liuten Bank has 320,000 users. The scale gap is obvious, but they are also narrowing losses. Liuten is approaching the capital increase red line and is planning a new round of capital increases. [^14]
+将来銀行は55万口座、楽天銀行は32万口座と規模の差は顕著だが、いずれも赤字の縮小を進めている。楽天はすでに増資の閾値に近づいており、次なる増資ラウンドを計画している。[^14]
 
-> **📝 Curator's Note**
-> The dilemma of pure online banks is not unique to Taiwan. The challenge worldwide for challenger banks—such as Monzo in the UK and Nubank in Brazil—is that the early stages involve burning money for scale. The real question is: Taiwan's market only has 23 million people, and the density of traditional banks is among the highest in the world (more than one branch per square kilometer). Pure online banks must compete for the same group of people against 38 commercial banks. The 9 billion in tuition fees buys the opportunity to survive in this crowded market.
+> **📝 編注**
+> 純ネット銀行の苦境は台湾特有のものではない。世界中の挑戦的な銀行（イギリスのMonzo、ブラジルのNubankなど）も、初期段階では規模を獲得するために多額の資金を消費した。真の問題は、台湾の市場規模が2,300万人しかなく、伝統的な銀行の密度が世界でもトップクラスであることだ。純ネット銀行は38の商業銀行と同じ層の顧客を奪い合わなければならない。90億という授業料は、この過密な市場で生き残るための機会を買うための対価であった。
 
-## Digital Hakka Coin: The Central Bank's Caution
+## デジタル客家幣：中央銀行の慎重な歩み
 
-While central banks around the world are studying digital currencies (CBDC), Taiwan's central bank has taken a very Taiwanese path.
+世界中の中央銀行がデジタル通貨（CBDC）を研究する中、台湾の中央銀行は非常に「台湾らしい」道を選んだ。
 
-In 2025, the central bank collaborated with the Ministry of Digital Affairs and the Hakka Affairs Council to launch the "Digital Hakka Coin" experiment—not issuing a digital new dollar all at once, but first testing on a small scale in 11 counties/cities across Taiwan and 70 key development areas for Hakka culture. Users can consume using de-identified anonymous wallets, valid until June 30, 2026. [^15]
+2025年、中央銀行はデジタル発展部および客家委員会と協力し、「デジタル客家幣」の試験を開始した。これは一気にデジタル新台湾ドルを発行するのではなく、まず全11県市、70箇所の客家文化重点開発区域で小規模なテストを行うものである。ユーザーは匿名性の高い非記名ウォレットを使用して消費ができ、有効期限は2026年6月30日までである。[^15]
 
-Central Bank Governor Yang Chin-lung has maintained a consistently cautious attitude. He stated that the central bank would hold multiple public hearings and forums in 2025 to widely collect opinions from all sectors, but regarding the formal issuance of a digital new dollar, there is "no specific timeline." [^16]
+中央銀行総裁の楊金龍氏は一貫して慎重な姿勢を見せている。同氏は、2025年に複数の公聴会やフォーラムを開催し、各界の意見を広く収集するが、正式なデジタル新台湾ドルの発行については「具体的なスケジュールはない」と述べている。[^16]
 
-This rhythm of "test a small piece first, listen to opinions, then see" forms a sharp contrast with the large-scale advancement of China's digital yuan. Taiwan's central bank does not want to be a pioneer; it wants to be the follower who makes no mistakes.
+この「まず一部で試行し、意見を聞いてから決める」というペースは、中国によるデジタル人民元の大規模な推進とは鮮明な対比を成している。台湾の中央銀行は先駆者になることを望んでおらず、ミスを犯さない追随者でありたいと考えているのである。
 
-## An Island's Financial Experiment
+## 島全体の金融実験
 
-Ten years have passed.
+10年が経過した。
 
-The vision depicted in the 2015 white paper—Taiwan becoming a hub for Asia-Pacific FinTech—has been realized to what extent? The answer is: partially, but in a way different from what was originally thought.
+2015年の白書が描いたビジョン――台湾がアジア太平洋地域の金融テクノロジーの拠点となること――はどれほど実現されたか？ 答えは、一部は達成されたものの、当初意図した形とは異なっているということだ。
 
-Mobile payments have indeed become widespread, but not through a single super app, but through a chaotic battle of dozens of brands. Pure online banks have indeed arrived, but the three combined have fewer than 3.2 million users, accounting for a negligible proportion of all bank accounts in Taiwan. The regulatory sandbox has indeed operated, but the graduation rate is so low that it raises questions about whether it is a springboard or a display case.
+モバイル決済は確かに普及したが、それは一つのスーパーアプリによるものではなく、十数のブランドによる混戦の結果である。純ネット銀行も登場したが、3社合わせてまだ320万口座に満たず、全台湾の銀行口座に占める割合は極めてわずかである。規制サンドボックスも機能しているが、卒業率の低さはそれが跳躍台なのか展示ケースなのか疑問を抱かせる。
 
-Koubei's 3.6 billion storm has made one thing clear: Taiwan's FinTech's greatest tension has never been a technical issue, but a trust issue. Too loose regulation breeds the next Koubei; too tight regulation suffocates innovation in the sandbox.
+街口の36億の嵐は、ある事実を明確にした。台湾の金融テクノロジーにおける最大の緊張感は、技術の問題ではなく信頼の問題であった。規制が緩すぎれば次の「街口」を生み出し、規制が厳しすぎればイノベーションはサンドボックスの中で窒息する。
 
-In December 2025, LINE Bank reported its first month of profit, an amount small enough to be ignored, but the entire industry was watching. Hu Yijia wears an electronic ankle monitor, while LINE Bank counts its first profit. On the same island, in the same industry, two completely different endings are happening simultaneously.
+2025年12月、LINE Bankが初めての月次利益を報告した。その金額は無視できるほど小さかったが、業界全体が見守っていた。胡亦嘉は電子足枷をはめ、LINE Bankは最初の1円の利益を数えている。同じ島で、同じ産業において、二つの全く異なる結末が同時に進行しているのである。
 
-**Further Reading**:
+**関連記事：**
 
-- [Semiconductor Industry](/technology/半導體產業) — Another industry in Taiwan that started with policy support and ultimately changed the global landscape
-- [Startup Ecosystem](/economy/新創生態系) — The full picture of Taiwan's startup circle, where Koubei Pay resides
-- [E-commerce and Digital Payment Ecosystem](/technology/電子商務與數位支付生態系) — The e-commerce infrastructure behind mobile payments
-- [Taiwan Stock Market and Capital Markets](/economy/台灣股市與資本市場) — From shouting brokers to sliding fingers for regular investments, the evolution of financial infrastructure and capital markets
+- [半導体産業](/technology/半導体産業) — 台湾におけるもう一つの政策支援から始まり、最終的に世界の枠組みを変えた産業
+- [スタートアップエコシステム](/economy/新創生態系) — 街口支付が存在する台湾のスタートアップ界の全貌
+- [電子商務とデジタル決済エコシステム](/technology/電子商務與數位支付生態系) — モバイル決済の背後にあるEC基盤
+- [台湾株式市場と資本市場](/economy/台灣股市與資本市場) — 呼び鈴電話からスマートフォンの積立投資まで、金融インフラと資本市場の進化
 
-## References
+## 参考文献
 
-[^1]: [SETN News <Not relying on dad! Wall Street golden boy crosses into tech industry, Hu Yijia creates mobile payment APP>](https://www.setn.com/News.aspx?NewsID=102101) — Background report on Hu Yijia's return to Taiwan from Wall Street to start a business, including Columbia University degree and hedge fund experience.
+[^1]: [三立新聞「親の力に頼らず！ウォール街の若き逸材がテック業界へ、胡亦嘉がモバイル決済アプリを創設」](https://www.setn.com/News.aspx?NewsID=102101) — 胡亦嘉のウォール街からの帰国と起業に関する背景報道。
 
-[^2]: [ETtoday <Prominent family background! Wealthy third-generation "academic genius" Hu Yijia abandons 20 million annual salary to create Koubei Pay>](https://www.ettoday.net/news/20180326/1138208.htm) — Hu Yijia's family background: grandfather Hu Xin (Attendant Guard), father Hu Dingwu (Chairman of Development Financial Holdings, Chairman of Taipei 101).
+[^2]: [ETtoday「華々しい経歴！富裕層の三世『学覇』胡亦嘉が年収2,000万を捨てて街口支付を創設」](https://www.ettoday.net/news/20180326/1138208.htm) — 胡亦嘉の家族背景。
 
-[^3]: [Mirror Media <Koubei Pay declares war, Hu Yijia allies with Taishin to battle LINE>](https://www.mirrormedia.mg/story/20190402fin007/) — Koubei Pay's market strategy to challenge LINE Pay and IPO planning.
+[^3]: [鏡週刊「街口支付が宣戦布告、胡亦嘉が台新と提携しLINEに挑む」](https://www.mirrormedia.mg/story/20190402fin007/) — 街口支付の市場戦略とIPO計画。
 
-[^4]: [China Times <The Vanishing 3.6 Billion—Almost Caused a "Loss for All" Chain Reaction>](https://www.ctee.com.tw/news/20250720700014-430301) — In 2025, the 3.6 billion equity transaction between Taishan and Koubei FinTech was ruled invalid; when sealed, the five accounts had less than a thousand dollars in deposits.
+[^4]: [工商時報「消えた36億円――『一損俱損』の連鎖反応を危うくした瞬間」](https://www.ctee.com.tw/news/20250720700014-430301) — 2025年の泰山と街口金科の取引無効判決。
 
-[^5]: [ETtoday <Koubei's "Wall Street Golden Boy" becomes subject of electronic ankle monitor surveillance, 3.6 billion dispute sealed>](https://www.ettoday.net/news/20250712/2994873.htm) — Details of Hu Yijia being prosecuted for special breach of trust, restricted from leaving the country, and subject to electronic ankle monitor surveillance.
+[^5]: [ETtoday「街口『ウォール街の若き逸材』が電子足枷による監視に、36億の紛争で差し押さえ」](https://www.ettuy.net/news/20250712/2994873.htm) — 胡亦嘉の起訴と制限の詳細。
 
-[^6]: [Voice Tank <Koubei's Vanishing 3.6 Billion: From Chinese Payment Experience to "Startup Exceptionalism">](https://voicettank.org/20250714-1/) — Reviewing Koubei's history of violations and fines for the "Tuo Bao" product and the FSC's regulatory challenges.
+[^6]: [思想坦克「街口消えた36億：中国の決済経験から『スタートアップ特例主義』へ」](https://voicettank.org/20250714-1/) — 過去の違反裁罰と規制の歴史。
 
-[^7]: [ICLG, _Fintech Laws and Regulations Report 2025: Taiwan_](https://iclg.com/practice-areas/fintech-laws-and-regulations/taiwan) — Taiwan's "FinTech Innovation and Experimentation Act" took effect in April 2018, becoming Asia's first FinTech special law.
+[^7]: [ICLG, _Fintech Laws and Regulations Report 2025: Taiwan_](https://iclg.com/practice-areas/fintech-laws-and-regulations/taiwan) — 台湾における金融テクノロジー専門法の施行。
 
-[^8]: [Global Legal Insights, _Fintech Laws and Regulations 2025: Taiwan_](https://www.globallegalinsights.com/practice-areas/fintech-laws-and-regulations/taiwan/) — Joinvest's bond group-buying platform graduated from the sandbox and drove the amendment of the "Securities Dealer Establishment Standards."
+[^8]: [Global Legal Insights, _Fintech Laws and Regulations 2025: Taiwan_](https://www.globallegalinsights.com/practice-areas/fintech-laws-and-regulations/taiwan/) — Joinvestのサンドボックス卒業と法改正への寄与。
 
-[^9]: [Chambers and Partners, _Fintech 2025: Taiwan — Trends and Developments_](https://practiceguides.chambers.com/practice-guides/fintech-2025/taiwan/trends-and-developments) — International legal community's evaluation of Taiwan's regulatory sandbox as having a "complete framework but insufficient execution speed."
+[^9]: [Chambers and Partners, _Fintech 2025: Taiwan — Trends and Developments_](https://practiceguides.chambers.com/practice-guides/fintech-2025/taiwan/trends-and-developments) — 国際的な評価。
 
-[^10]: [National Development Council <Mobile Payment Penetration Rate Hits Record High, Moving Towards Digital National New Life>](https://www.ndc.gov.tw/nc_27_33762) — Government set a goal of 90% mobile payment penetration rate by 2025; total electronic payment account users reached 34.45 million.
+[^10]: [国発会「モバイル決済の普及率が過去最高を更新、デジタル国家への新たな歩み」](https://www.ndc.gov.tw/nc_27_33762) — 政府の目標と現状。
 
-[^11]: [Storm.MG <Koubei Lost! What Taiwanese People Love Most in Electronic Payments is This "7.08 Million People Are Using It">](https://www.storm.mg/lifestyle/11083093) — Rankings of user counts for iPASS Ticketing, Koubei Pay, All Pay; monthly transaction volume 390 million.
+[^11]: [風傳媒「街口は敗北！台湾人が最も愛する電子決済は『708万人が利用』」](https://www.storm.mg/lifestyle/11083093) — 各種決済サービスの比較。
 
-[^12]: [Storm.MG <Taiwan's 3 Pure Online Banks "Accumulated Losses Exceed 9 Billion"! FSC Exposes Key Reasons for Losses>](https://www.storm.mg/lifestyle/11106859) — As of the end of 2025, the three pure online banks accumulated losses of 907.2 million, including user counts and deposit-to-loan ratios for each.
+[^12]: [風傳媒「台湾の3つの純ネット銀行が『累計で90億元以上の赤字』！金管会が損失の主要因を公開」](https://www.storm.mg/lifestyle/11106859) — 2025年末時点のデータ。
 
-[^13]: [PChome News <Pure Online Banks May Say Goodbye to Burning Money Period, LINE Bank Turns Profitable in Single Month with 0.11 Billion>](https://news.pchome.com.tw/finance/cardu/20260304/index-17725686541784241003.html) — LINE Bank achieved its first monthly pre-tax profit of 11 million in December 2025, aiming for full-year profits exceeding 100 million in 2026.
+[^13]: [PChome 新聞「純ネット銀行は燃焼期からの脱却を見込む、LINE Bankが単月で0.11億を黒字に」](https://news.pchome.com.tw/finance/cardu/20260304/index-17725686541784241003.html) — LINE Bankの業績推移。
 
-[^14]: [China Times <Over 3 Million Accounts Opened but Still Accumulated Losses of 8.7 Billion... Pure Online Banks Struggle for Profit, This One Named as Fastest to Turn Around>](https://www.ctee.com.tw/news/20260102700085-439901) — Current status of user counts and capital increase plans for the three pure online banks; LINE Bank is named as the fastest to turn around.
+[^14]: [工商時報「開設数300万突破も累計赤字87億…純ネット銀行が黒字化に挑む、最も早く転換する企業を指名」](https://www.ctee.com.tw/news/20260102700085-439901) — 競合他社の状況。
 
-[^15]: [BlockTempo <2025 Annual <Taiwan Cryptocurrency Industry Report>>](https://www.blocktempo.com/2025-taiwan-cryptocurrency-industry-report/) — Central Bank and Hakka Affairs Council launched the "Digital Hakka Coin" experiment, covering 11 counties/cities and 70 key Hakka cultural areas, valid until June 2026.
+[^15]: [動区動趨「2025年度『台湾暗号資産産業報告』」](https://www.blocktempo.com/2025-taiwan-cryptocurrency-industry-report/) — デジタル客家幣の試行。
 
-[^16]: [XREX <"Digital New Dollar" is Coming! Central Bank Launches CBDC Prototype Platform>](https://xrex.io/taiwan-cbdc-zh/) — Central Bank Governor Yang Chin-lung stated that public hearings would be held to widely collect opinions, but formal issuance has "no specific timeline."
+[^16]: [XREX「『デジタル新台湾ドル』が来る！中央銀行がCBDCプロトタイププラットフォームを推進」](https://xrex.io/taiwan-cbdc-zh/) — 楊金龍総裁の発言。

@@ -1,131 +1,140 @@
 ---
-title: 'Thế hệ Slash tại Đài Loan — Sự sinh tồn và lựa chọn của những người đa nghề'
-description: 'Khi bằng thạc sĩ chỉ đổi lại được tiền thuê một căn hộ studio tại Đài Bắc, làm thêm (slash) không còn là sự lựa chọn, mà là một bài toán sinh tồn'
+title: 'Thế hệ làng xão ở Đài Loan — Sự sống sót và lựa chọn với nhiều công việc một người'
+description: 'Khi bằng sốc thạo sĩ chỉ đổi lại được tiền thuê nhà trọ ở Đài Bắc, làng xão không phải là lựa chọn, mà là bài toán sống sót'
 date: 2026-03-29
 category: 'Society'
-tags: ['Slash', 'Kinh tế Gig', 'Tiền lương', 'Giá nhà', 'Việc làm thanh niên']
-subcategory: 'Thế hệ và Xã hội'
+tags:
+  [
+    'làng xão',
+    'kinh tế lao động tự do',
+    'lương tháng',
+    'giá nhà',
+    'việc làm thanh niên',
+  ]
+subcategory: '世代與社會'
 author: 'p3nchan'
 featured: false
 lastVerified: 2026-03-29
 lastHumanReview: false
 readingTime: 8
 translatedFrom: 'Society/台灣斜槓世代.md'
-sourceCommitSha: 'b6f8b00d8'
-sourceContentHash: 'sha256:f40c65ff14acd5cb'
-sourceBodyHash: 'sha256:7fc8e0dbb23602c5'
-translatedAt: '2026-07-24T15:52:20+08:00'
+sourceCommitSha: '2b1654faa'
+sourceContentHash: 'sha256:06d77e5b551a9ae1'
+sourceBodyHash: 'sha256:1cd85dacd9f6f3a7'
+translatedAt: '2026-07-27T09:40:31+08:00'
 ---
 
-> Những người trẻ từ 25 đến 35 tuổi tại Đài Loan đang trải qua một cuộc thí nghiệm sinh tồn mà không ai tuyên bố bắt đầu. Trong khi mức lương trung vị dừng lại ở con số 38.000 Đài tệ, thì tiền thuê một căn hộ studio tại Đài Bắc đã khởi điểm từ mức 14.000 Đài tệ. Một công việc chính là không đủ, vì vậy sau giờ làm việc, họ mở ứng dụng giao hàng, cuối tuần nhận thêm dự án, đêm muộn cắt ghép video. Đây không phải là "trào lưu slash" (làm nhiều nghề cùng lúc), mà là chiến lược sinh tồn bị ép buộc bởi những nghịch cảnh mang tính cấu trúc.
+> Các người trẻ từ 25 đến 35 tuổi ở Đài Loan đang trải qua một thí nghiệm sống sót chưa từng được khẩu hiệu khởi động. Lương tháng trung vị tại chính trị nằm ở mức 38.319 đồng, trong khi tiền thuê nhà trọ ở Đài Bắc bắt đầu từ 14.400 đồng. Một công việc chính thức không đủ, nên sau giờ làm việc họ mở ứng dụng giao đơn, cuối tuần hốt hả nhận công việc, ban đêm cắt video. Đây không phải là "xu hướng làng xão" — đây là chiến lược sống sót được các vấn đề cấu trúc ép buộc.
 
-Tiểu Khiết, 28 tuổi, tốt nghiệp khoa Tiếng Anh tại một trường đại học tư thục. Ban ngày, cô làm biên tập viên mạng xã hội cho một công ty marketing quy mô trung bình với mức lương tháng là 33.000 Đài tệ. Sau 6 giờ tối mỗi ngày, cô lên xe máy để chuyển đổi thân phận: mở ứng dụng Uber Eats và chạy giao hàng đến 10 giờ đêm. Cuối tuần, cô nhận các dự án dịch thuật trên trang web thuê ngoài 104; một bản dịch Trung-Anh 3.000 chữ có thù lao 2.500 Đài tệ. Tổng cộng ba công việc mang lại thu nhập tháng khoảng 52.000 Đài tệ. Sau khi trừ đi 13.500 Đài tệ tiền thuê căn hộ studio rộng khoảng 26m² (8 pín) tại quận Songshan, Đài Bắc, cùng chi phí xăng xe, ăn uống và trả nợ vay sinh viên, số tiền cô có thể tiết kiệm được mỗi tháng chưa đầy 8.000 Đài tệ.
+Xiu Giả, 28 tuổi, tốt nghiệp đại học ngành tiếng Anh tại trường tư nhân. Ban ngày làm biên tập xã hội mạng tại công ty tiếp thu vừa và lớn, lương 33.000 đồng. Sau khi về làm việc lúc 18h tối, cô gập lại danh tính: mở ứng dụng Uber Eats, chạy giao hàng đến lúc 22h tối. Cuối tuần, cô nhận dịch vụ dịch thuật trên mạng bán thời gian 104, một bài dịch 3.000 từ từ tiếng Trung sang tiếng Anh thu được 2.500 đồng. Tổng cộng ba nguồn thu nhập khác nhau, tháng này cô thu về khoảng 52.000 đồng. Trừ đi tiền thuê nhà trọ 8 mét vuông ở khu Đông Sơn, Đài Bắc là 13.500 đồng, xăng xe máy, chi phí ăn uống, trả nợ học phí, mỗi tháng cô chỉ còn để tiết kiệm dưới 8.000 đồng.
 
-"Không phải tôi không nỗ lực, mà là một mức lương thực sự không đủ để sống," cô nói.
+"Tôi không ích làng xão vì lười biếng — mức lương chính thức thật sự không đủ sống sót." Cô nói.
 
-Đây chính là hình ảnh thu nhỏ của thế hệ "slash" tại Đài Loan. Đây không phải là câu chuyện về "sự nghiệp đa dạng" hào nhoáng trên LinkedIn, mà là công thức sinh tồn được viết nên bởi những người trẻ dưới áp lực kép từ tình trạng đình trệ tiền lương mang tính cấu trúc và sự bùng nổ của giá nhà.
-
----
-
-## Những con số biết nói: Tiền lương không đuổi kịp tiền thuê nhà
-
-Hãy nhìn vào tiền lương trước. Theo thống kê năm 2025 của Tổng cục Thống kê thuộc Hành chính Viện, mức lương trung vị thường xuyên của toàn bộ người lao động là 38.319 Đài tệ. Lưu ý, đây là "mức trung vị" — nghĩa là có một nửa số lao động có thu nhập thực nhận hàng tháng thấp hơn con số này. Mức lương khởi điểm trung bình của sinh viên mới tốt nghiệp đại học khoảng 34.000 Đài tệ; nếu không thuộc các khối ngành kỹ thuật, mức lương rơi vào khoảng 28.000 đến 32.000 Đài tệ là cực kỳ phổ biến.
-
-Tiếp theo là tiền thuê nhà. Giá thuê trung bình một căn hộ studio độc lập tại thành phố Đài Bắc là 14.400 Đài tệ, ngay cả khi lùi về phía thành phố Tân Bắc cũng phải mất 13.100 Đài tệ. Theo chỉ số quốc tế phổ biến "tiền thuê nhà không quá 30% thu nhập", để thuê một căn hộ tại Đài Bắc một cách lành mạnh, mức lương tháng ít nhất phải đạt 43.000 Đài tệ. Thế nhưng, với người có lương khởi điểm 34.000 Đài tệ sau khi tốt nghiệp đại học, chỉ riêng tiền thuê nhà đã chiếm tới 42% thu nhập.
-
-Đây mới chỉ là việc đi thuê. Nếu nói về mua nhà, tỷ lệ giá nhà trên thu nhập tại thành phố Đài Bắc đã đạt mức 16,36 lần vào cuối năm 2024. Điều này có nghĩa là một gia đình nếu không ăn không uống, dành toàn bộ thu nhập để tiết kiệm thì phải mất hơn 16 năm mới mua nổi một căn nhà. Con số này vượt qua cả London, New York hay Toronto, nằm trong nhóm cao nhất thế giới giữa các thành phố lớn.
-
-Bằng cấp thạc sĩ cải thiện được bao nhiêu? Mức lương khởi điểm trung bình của sinh viên tốt nghiệp cao học (không thuộc ngành công nghệ) rơi vào khoảng 38.000 đến 42.000 Đài tệ. So với đại học chỉ nhiều hơn vài nghìn tệ, nhưng tiền thuê nhà tại Đài Bắc sẽ không giảm giá theo bằng cấp của bạn. Thu nhập khởi điểm của một thạc sĩ khối ngành xã hội tại Đài Bắc có thể vừa vặn bù đắp cho tiền thuê nhà và chi phí sinh hoạt cơ bản. Khoảng cách lương đổi lấy hai năm học thêm gần như bị tiền thuê nhà nuốt chửng.
+Đây là hình ảnh của thế hệ làng xão ở Đài Loan. Không phải là câu chuyện "nhiều nghề nghiệp" rực rỡ trên LinkedIn, mà là công thức sống sót do lương tháng tĩnh lạc và giá nhà tăng nhanh chóng ép buộc thanh niên phải dùng.
 
 ---
 
-## Nền tảng giao hàng: "Túi khí an toàn" của một thế hệ
+## Số liệu nói lên sự thật: Lương không theo kịp giá nhà
 
-Số lượng nhân viên giao hàng tại Đài Loan đã tăng vọt từ 45.000 người vào năm 2019 lên 145.000 người vào năm 2022. Con số này đã tăng gấp ba lần chỉ trong vòng ba năm.
+Trước hết, xem lương. Theo Bộ Tài chính hội đồng quốc gia thống kê năm 2025, mức lương trung vị của tất cả người lao động vi phạm luật là 38.319 đồng. Lưu ý, đây là "số trung vị" — nghĩa là một nửa người lao động tháng này nhận dưới con số này. Người mới tốt nghiệp đại học trung bình nhất về mức lương khởi điểm khoảng 34.000 đồng, nếu không theo ngành công nghiệp công nghệ thì khoảng 28.000 đến 32.000 đồng rất phổ biến.
 
-145.000 người này là ai? Theo phân tích 8.402 hồ sơ có kinh nghiệm giao hàng từ ngân hàng nhân lực 104, có tới 42,9% nhân viên giao hàng bắt đầu công việc này khi chưa đầy 2 nhập tuổi, phần lớn là sinh viên đại học và thanh niên dưới 29 tuổi. Mức lương trung vị là 36.000 Đài tệ, với kinh nghiệm trung vị chỉ vỏn vẹn 0,9 năm: nghĩa là đa số mọi người rời bỏ công việc này chưa đầy một năm.
+Tiếp theo, xem giá thuê nhà. Nhà trọ độc lập ở thành phố Đài Bắc trung bình tháng này là 14.400 đồng, ngay cả khi giảm xuống khu vực ngoại thành Đài Bắc vẫn cần 13.100 đồng. Theo chỉ số quốc tế "chi phí nhà ở không vượt quá 30% thu nhập", để thuê một phòng trọ ở Đài Bắc, người lao động cần lương ít nhất 43.000 đồng mới được coi là khỏe mạnh. Nhưng người mới tốt nghiệp đại học với lương 34.000 đồng thì chỉ có thể dành 42% thu nhập cho tiền thuê nhà.
 
-Giao hàng không phải là điểm dừng cuối cùng của nghề nghiệp, mà là một giai đoạn chuyển tiếp. Đó là "túi khí an toàn" khi lương chính thức không đủ sống, là tấm đệm giảm chấn khi không tìm được công việc lý tưởng sau khi tốt nghiệp.
+Đây chỉ là thuê nhà. Nếu muốn mua nhà, tỷ lệ giá nhà trên thu nhập tại thành phố Đài Bắc đã đạt 16,36 lần vào cuối năm 2024, nghĩa là một gia đình phải không ăn không uống, dù toàn bộ thu nhập đều được tiết kiệm, mới có thể mua được một căn nhà sau hơn 16 năm. Con số này cao hơn ở London, New York, Toronto, đứng đầu trong các thành phố lớn toàn cầu.
 
-Tháng 1 năm 2026, Viện Lập pháp đã thông qua lần ba "Luật Bảo vệ Quyền lợi Người giao hàng và Quản lý Nền tảng Giao hàng", quy định rõ thù lao cơ bản cho mỗi đơn hàng không được thấp hơn 45 Đài tệ, và lương theo giờ không được thấp hơn 1,25 lần mức lương tối thiểu. Đây là một sự bổ sung chính sách muộn màng. Trước đó, người giao hàng luôn nằm trong vùng xám của Luật Lao động: không được coi là quan hệ lao động chính thức, không có bảo hiểm y tế hay bảo hiểm lao động, không có chế độ bảo vệ tai nạn nghề nghiệp và không có lương cơ bản. Các nền tảng có thể đơn phương điều chỉnh giảm đơn giá, khiến người giao hàng hoàn toàn không có khả năng thương lượng.
-
-Việc "có luật để quản lý" đương nhiên là một bước tiến, nhưng nó cũng phản ánh một thực tế: một hình thức công việc nuôi sống hàng trăm nghìn người đã phải mất gần bảy năm mới chờ được những sự bảo hộ pháp lý cơ bản nhất.
+Bằng sốc thạo sĩ có giúp gì? Người mới tốt nghiệp sau khi học tập tại trường đại học có lương khởi điểm trung bình khoảng 38.000 đến 42.000 đồng (không phải ngành công nghệ). Thêm vài nghìn đồng so với người tốt nghiệp đại học, nhưng tiền thuê nhà ở Đài Bắc không giảm vì bạn có bằng cao hơn. Một người tốt nghiệp ngành nhất thể với lương khởi điểm tại Đài Bắc có thể chỉ đủ trả tiền thuê nhà và chi phí sinh hoạt cơ bản. Chênh lệch lương do học thêm hai năm gần như bị tiền thuê nhà "ăn sạch".
 
 ---
 
-## Không chỉ có giao hàng: Đa dạng các loại nghề phụ
+## Nền tảng giao đơn: Bình cân an toàn của một thế kỷ
 
-Giao hàng chỉ là loại hình dễ bắt đầu nhất. Phổ nghề phụ của thanh niên Đài Loan rộng hơn nhiều so với tưởng tượng.
+Số lượng người giao đơn tại Đài Loan tăng từ 45.000 người vào năm 2019 đến 145.000 người vào năm 2022. Tăng gấp ba lần trong vòng ba năm.
 
-**Thiết kế và kỹ thuật tự do (Freelance).** Thông qua các trang như 104 Outsource, Tasker, hay trực tiếp nhận dự án trên mạng xã hội. Một người trẻ có kỹ năng thiết kế UI, ban ngày làm tại công ty với lương 38.000 Đài tệ, buổi tối nhận dự án làm Landing Page với thù lao từ 15.00 chế đến 30.000 Đài tệ. Các kỹ sư lập trình còn có tình hình tốt hơn: một dự án React frontend có thể báo giá trên 50.000 Đài tệ. Ưu điểm của việc nhận dự án là lương theo giờ cao, nhưng nhược điểm là nguồn việc không ổn định, tình trạng "tháng này ăn ngon, tháng sau ăn đất" là chuyện thường tình.
+Ai là 145.000 người này? Theo phân tích 8.402 hồ sơ có kinh nghiệm giao đơn của 104 Bảo hiểm xã hội, 42,9% người giao đơn bắt đầu chạy dịch vụ trước khi 24 tuổi, phần lớn là sinh viên đang học và thanh niên dưới 29 tuổi. Lương trung bình là 36.000 đồng, kinh nghiệm làm việc trung bình chỉ 0,9 năm: nghĩa là đa số người không làm được một năm rồi rời đi.
 
-**Giảng dạy trực tuyến và thương mại hóa tri thức.** Nền tảng Hahow đã tích lũy hơn 1.000 khóa học trực tuyến với 800.000 thành viên. PressPlay Academy có hơn 500 nhà sáng tạo nội dung. Một khóa học "hot" có thể mang lại doanh thu hàng triệu, thậm chí hàng chục triệu Đài tệ, nhưng đó chỉ là đỉnh của kim tự tháp. Thu nhập của đa số người dạy còn kém xa con số đó, trong khi chi phí thời gian để sản xuất rất cao: từ quay phim, cắt ghép đến marketing thường mất từ ba đến sáu tháng.
+Giao đơn không phải là điểm cuối cùng của sự nghiệp — đây là phương án dự phòng khi lương chính thức không đủ. Là tấm bẫy an toàn khi sau đại học không tìm được công việc ưng ý.
 
-**Xây dựng kênh truyền thông cá nhân.** YouTube, Instagram, Threads, Podcast. Rào cản gia nhập thấp nhất nhưng trần thu nhập cũng không định trước được. Để một YouTuber Đài Loan có thu nhập quảng cáo ổn định, lượng người theo dõi thường phải vượt mốc 100.000. Trước đó, truyền thông cá nhân giống như một "nghề phụ tiêu tốn thời gian" hơn là kiếm tiền.
+Vào tháng 1 năm 2026, Quốc hội đã thông qua pháp luật "Bảo vệ quyền lợi người giao đơn và quản lý nền tảng giao đơn" (xem [[外送專法]]). Mỗi đơn hàng phải trả cơ bản không dưới 45 đồng, tiền lương giờ không nhỏ hơn 1,25 lần mức lương tối thiểu. Luật này áp dụng từ ngày 21 tháng 7 năm 2026. Đây là sửa đổi rất trễ. Trước đó, người giao đơn luôn ở vị thế mơ hồ trong luật lao động: không phải là nhân viên chính thức, không có bảo hiểm xã hội, không có bảo hiểm tai nạn, không có lương cơ bản. Các nền tảng có thể giảm giá đơn hàng một cách không đối đàu, người giao đơn không có khả năng thương lượng.
 
-**Mua hộ và thương mại điện tử.** Mua hộ hàng Nhật - Hàn, người bán trên Shopee. Lợi nhuận mỏng nhưng dòng tiền nhanh. Nhiều người trẻ bắt đầu từ việc mua hộ, rồi dần dần tìm ra con đường kinh doanh thương mại điện tử quy mô nhỏ.
-
-Theo khảo sát năm 2025 của ngân hàng nhân lực 104, có 39% nhân viên văn phòng có nghề phụ. Nếu chia theo thế hệ, con số này còn đáng kinh ngạc hơn: Thế hệ Z (sinh sau khoảng năm 1997) có tỷ lệ làm nghề phụ lên tới 57%, thế hệ Millennials là 48%. Khảo sát từ trang tìm việc yes123 còn gây sốc hơn: 93,2% người được hỏi cho biết họ có ý định trở thành một "slash" (người đa nghề).
-
-Lý do hàng đầu muốn làm nghề phụ? 78,8% trả lời là để "tăng thu nhập". Không phải để theo đuổi sự tự hiện thực hóa bản thân, mà đơn giản là vì tiền không đủ dùng.
+"Đã có pháp luật quản lý" chắc chắn là tiến bộ, nhưng cũng chứng tỏ một điều: hơn 100.000 người lựa chọn cách sống này đã phụ thuộc vào hoạt động này trong hơn sáu năm mới có được bảo vệ tối thiểu bằng pháp luật.
 
 ---
 
-## Những người làm việc tự do trong cửa hàng tiện lợi
+## Không chỉ giao đơn: Đa dạng thu nhập phụ
 
-Tại Đài Loan có một cảnh tượng hiếm thấy trên thế giới: những dãy người ngồi làm việc ngay trong các cửa hàng tiện lợi.
+Giao đơn chỉ là hình thức dễ nhận được. Các loại hình thu nhập phụ của thanh niên tại Đài Loan rất đa dạng.
 
-Với hơn 13.000 cửa hàng tiện lợi trên toàn Đài Loan, hầu như mỗi cửa hàng đều có khu vực chỗ ngồi, Wi-Fi miễn phí và ổ cắm điện. Chỉ với một ly cà phê Mỹ đen giá 45 Đài tệ, bạn có thể ngồi cả buổi chiều. Đối với những người làm việc tự do hoặc các "slash" không có ngân sách thuê văn phòng chia sẻ (coworking space), 7-ELEVEN hay FamilyMart chính là những văn phòng di động rẻ tiền nhất.
+**Thiết kế và kỹ thuật nhận thực.** Trên mạng bán thời gian 104, Tasker hay trực tiếp trên mạng xã hội nhận công việc. Một người trẻ thành thạo thiết kế giao diện người dùng (UI), trong giờ làm việc thu về 38.000 đồng, buổi tối nhận dự án thiết kế trang chủ (Landing Page) thu 15.000 đến 30.000 đồng. Người lập trình viên có thêm lợi thế: một dự án frontend bằng React có thể báo giá trên 50.000 đồng. Lợi ích của việc nhận thực là lương cao, nhưng nhược điểm là nguồn dự án không ổn định — " tháng này thịnh, tháng sau thiếu thốn" là hiện thực.
 
-Các quán cà phê cũng vậy. Mật độ các quán cà phê cho phép ngồi lâu tại Đài Loan rất cao; trang web Cafe Nomad liệt kê hàng trăm quán phù hợp để làm việc, ghi chú rõ tốc độ Wi- chế, số lượng ổ cắm và mức độ ồn ào. Bản thân điều này đã minh chứng cho nhu cầu cực lớn: có cả một cộng đồng người cần một nơi giá rẻ để ngồi xuống và dùng laptop kiếm tiền.
+**Giảng dạy trực tuyến và biến hóa tri thức.** Hahow Tốt học tập tích lũy hơn 1.000 khóa học trực tuyến, nền tảng có 8 triệu thành viên. PressPlay Academy có hơn 500 người sáng tạo nội dung. Một khóa học "hot" có thể mang lại doanh thu hàng triệu đồng, nhưng đó chỉ là đỉnh của kim tự tháp. Hầu hết người dạy học thu nhập thấp hơn nhiều lần, nhưng thời gian bỏ ra để sản xuất khóa học rất lớn: quay phim, biên tập, tiếp thị — tốn ít nhất ba đến sáu tháng.
 
-Đài Loan đứng thứ 12 trong Báo cáo Du mục Kỹ thuật số Toàn cầu năm 2024, đứng đầu châu Á. Đằng sau thứ hạng này không chỉ là những người làm việc từ xa nước ngoài đến Đài Loan để tận hưởng mức chi phí thấp. Một phần rất lớn được tạo nên bởi hệ sinh thái của chính những người làm việc tự do và thế hệ "slash" tại địa phương.
+**Quản lý nội dung trên nền tảng xã hội.** YouTube, Instagram, Threads, Podcast. Đòn bẩy thấp nhất, nhưng vòm cao nhất không chắc chắn. Để kiếm đủ thu nhập từ quảng cáo trên YouTube, người tạo nội dung tại Đài Loan thường phải có hơn một triệu người theo dõi. Trước khi đạt được con số này, quản lý nội dung còn như một "bỏ thời gian" thay vì kiếm tiền.
 
----
+**Mua hàng thay thế và thương mại điện tử.** Mua hàng từ Hàn Quốc, Nhật Bản, bán hàng trên Shopee. Lợi nhuận thấp nhưng thanh khoản nhanh chóng. Nhiều người trẻ bắt đầu từ mua hàng thay thế, từ đó tìm được con đường nhỏ lớn thương mại điện tử riêng.
 
-## Vùng xám: Thực tế không theo kịp pháp luật
+Theo khảo sát của 104 Bảo hiểm xã hội năm 2025, 39% người lao động có thu nhập phụ. Xét theo thế hệ, con số cho thấy bất ngờ: thế hệ Z (sinh trước năm 1997) có tỷ lệ có thu nhập phụ đạt 57%, thế hệ Millennial cũng đạt 48%. Khảo sát trên mạng tìm việc yes123 còn cho rằng: 93,2% người trả lời khả thi sẽ chọn làng xão.
 
-Luật Lao động của Đài Loan không cấm nhân viên làm thêm nghề khác. Quan điểm của Bộ Lao động là: Người lao động có quyền thực hiện các công việc khác ngoài giờ làm việc chính thức, và chủ sử dụng lao động không được lấy lý do này để kỷ luật nhân viên.
-
-Nghe có vẻ rất cởi mở. Nhưng thực tế phức tạp hơn các điều khoản pháp luật.
-
-Nhiều quy định của doanh nghiệp hoặc hợp đồng lao động ẩn chứa các "điều khoản cấm cạnh tranh" hoặc "điếm khoản làm việc chuyên trách", yêu cầu nhân viên không được tham gia các công việc có thù lao khác. Mặc dù về mặt pháp lý, hiệu lực của các điều khoản này còn gây tranh cãi (cấm cạnh tranh cần có bồi thường hợp lý và thời hạn tối đa hai năm), nhưng đa số nhân viên trẻ không hiểu rõ những điều này và cũng không dám đối đầu với công ty. Kết quả là: họ vẫn làm nghề phụ, nhưng không dám để công ty biết.
-
-Một vùng xám khác là về thuế. Thu nhập từ dự án, thu nhập từ giao hàng, thu nhập từ thương mại điện tử, về lý thuyết đều phải kê khai thuế thu nhập. Tuy nhiên, một lượng lớn các giao dịch nhỏ — một dự án thiết kế 3.000 Đài tệ, hay kiếm thêm 15.000 Đài tệ từ việc chạy giao hàng mỗi tháng — thường nằm ngoài tầm radar của hệ thống kê khai. Đây không phải là cố ý trốn thuế, mà là do chính thiết kế của hệ thống chưa theo kịp tốc độ của nền kinh tế Gig.
-
-Lỗ hổng bảo trợ lao động còn lớn hơn. Số lượng lao động phi điển hình tại Đài Loan vào năm 2024 là 804.000 người, chiếm 6,95% tổng số lao động. Con số này trông có vẻ không cao, nhưng nó chỉ tính những người có "công việc chính" là phi điển hình. Những người ban ngày làm việc chính thức, ban đêm chạy giao hàng hoặc nhận dự án thì thân phận nghề phụ của họ hoàn toàn không nằm trong thống kê lao động. Họ không có bảo hiểm lao động, không có bảo vệ tai nạn nghề nghiệp và không có đóng góp lương hụt hẫng cho quỹ hưu trí. Nếu xảy ra tai nạn xe cộ khi đang đi giao hàng, bảo hiểm lao động từ công ty chính thức sẽ không chi trả, vì đó không phải là trên đường đi làm hay về nhà.
+Nguyên nhân chính khiến người ta muốn có thu nhập phụ? 78,8% người trả lời nói "tăng thu nhập". Không phải vì theo đuổi sự thực hiện cá nhân — mà vì tiền không đủ dùng.
 
 ---
 
-## Các vấn đề cấu trúc không thể giải quyết bằng nỗ lực cá nhân
+## Người làm việc tự do trong tủ lạnh tiện lợi
 
-Một sự thật nghiệt ngã là: Tỷ lệ giá nhà trên thu nhập tại Đài Loan đã tăng vọt 77% từ năm 2012 đến 2023, trong khi cùng thời gian đó, mức lương trung vị chỉ tăng 14%. Khoảng cách này không thể được bù đắp chỉ bằng việc "làm thêm một công việc nữa".
+Đài Loan có một phong tục thế giới hiếm hoi: có người ngồi trong tủ lạnh tiện lợi làm việc.
 
-Khảo sát của 104 cho thấy 57% thế hệ Z có nghề phụ. Con số này thường được đóng gói dưới dạng "người trẻ đầy nhiệt huyết" hay "slash là xu hướng mới". Nhưng nếu đặt nó vào bối cảnh rộng hơn — khi hơn một nửa thế hệ cảm thấy thu nhập từ một công việc toàn thời gian không đủ để duy trì cuộc sống — thì đây không phải là một trào lưu, mà là một tín hiệu cảnh báo.
+Trên toàn quốc có hơn 13.000 cửa hàng tiện lợi, gần như mọi cửa hàng đều có khu vực ngồi, Wi-Fi miễn phí, cổng điện. Một ly cà phê chỉ 45 đồng mà bạn có thể ngồi cả buổi chiều. Đối với những người tự do và làng xão không có ngân sách thuê văn phòng chia sẻ, 7-ELEVEN và Cạnh trườ chính là văn phòng di động rẻ nhất.
 
-Ngành công nghiệp AI của Đài Loan đã thúc đẩy xuất khẩu bán dẫn, năm 2024 xuất khẩu sản phẩm điện tử thông tin tăng trưởng 52% so với cùng kỳ. Con số GDP trông rất đẹp, thứ hạng thu nhập bình quân đầu người nằm trong nhóm dẫn đầu châu Á. Tuy nhiên, Tổng cục Thống kê cũng chỉ ra rằng tỷ lệ người lao động có thu nhập thấp hơn mức trung bình đã đạt mức cao kỷ lục 69,77%. Thành quả của tăng trưởng kinh tế tập trung quá cao vào các chuỗi cung ứng đặc thù, khiến đa số mọi người không được hưởng lợi.
+Cà phê cũng như vậy. Các quán cà phê không giới hạn giờ ở Đài Loan có mật độ rất cao, website Cafe Nomad liệt kê hàng trăm quán phù hợp làm việc, ghi chú tốc độ Wi-Fi, số lượng cổng điện, mức độ ồn ào. Sự kiện này chính là minh chứng cho nhu cầu lớn lao: một bộ phận dân số cần một nơi rẻ để ngồi xuống và kiếm tiền bằng máy tính để bàn.
 
-Người trẻ nhìn thấy rất rõ điều này. Họ không than vãn, họ mở ứng dụng giao hàng. Họ không chờ đợi chính sách cải thiện, họ nhận dự án vào cuối tuần. Họ không hy vọng mua được nhà, họ tính toán xem làm sao để sống sót.
+Đài Loan xếp hạng 12 trên báo cáo toàn cầu về người đi lại kỹ thuật số năm 2024, là quốc gia châu Á đầu tiên. Yếu tố đưa ra xếp hạng này không chỉ là du khách nước ngoài đến Đài Loan để thưởng thức môi trường sống rẻ. Một phần lớn là do người tự do và làng xão địa phương củng đắp nền sinh thái đó.
 
-Câu chuyện của thế hệ "slash", về cốt lõi, là một bài toán số học: Khi tốc độ tăng trưởng thu nhập mãi mãi không đuổi kịp chi phí sinh hoạt, bạn hoặc là phải chấp nhận ngày càng nghèo đi, hoặc là phải biến mình thành nhiều con người khác nhau.
+---
 
-Người trẻ Đài Loan đã chọn phương án sau. Nhưng điều này không nên được ca ngợi. Nó cần được coi là một vấn đề cần phải giải quyết.
+## Khu vực xám: Thực tế không đồng nhất với luật pháp
+
+Luật lao động tại Đài Loan không cấm người lao động có thu nhập phụ. Bộ Lao động cho biết: Người lao động có quyền làm việc thêm vào giờ làm việc chính thức, người sử dụng không được xử phạt vì nguyên nhân này.
+
+Nghe có vẻ khôn ngoan. Nhưng thực tế phức tạp hơn luật.
+
+Nhiều doanh nghiệp có quy định làm việc hoặc hợp đồng lao động chứa "không được làm việc thêm" hoặc "chuyên nghiệp" yêu cầu nhân viên không được làm việc khác để thu nhập. Dù luật pháp có tranh cãi về chức năng của các điều khoản này: các điều khoản cấm hoạt động cạnh tranh cần bồi thường hợp lý, thời gian không quá hai năm: nhưng phần lớn thanh niên trẻ không hiểu các quy định này, cũng không dám nói chuyện với công ty. Kết quả là: họ làm thu nhập phụ nhưng không dám để công ty biết.
+
+Khu vực xám khác là thuế. Thu nhập từ việc nhận thực, giao đơn, thương mại điện tử đều phải khai báo thuế thu nhập. Nhưng nhiều giao dịch nhỏ lẻ — một dự án thiết kế 3.000 đồng, thêm vài nghìn đồng chỉ trong tháng chạy giao đơn — thường không nằm trong tầm nhìn của hệ thống khai báo thuế. Không phải vì cố tình tránh thuế — mà vì thiết kế hệ thống không theo kịp tốc độ của kinh tế lao động tự do.
+
+Khoảng trống trong bảo vệ bảo hiểm còn lớn hơn. Người không phải là loại hình lao động tiêu chuẩn tại Đài Loan có 804.000 người, chiếm tổng cộng 6,95% người lao động. Con số này dường như không cao, nhưng chỉ tính những người có công việc chính là loại hình không tiêu chuẩn. Những người có công việc chính trong ngày và làm thêm giao đơn hoặc nhận thực vào buổi tối thì hoạt động phụ của họ hoàn toàn không được ghi nhận trong thống kê lao động. Không có bảo hiểm xã hội, không có bảo hiểm tai nạn, không có khoản đóng bảo hiểm hưu trợ dài. Nếu tai nạn khi giao đơn, công ty có công việc chính sẽ không hỗ trợ bảo hiểm vì đó không phải là hành trình đi làm.
+
+---
+
+## Vấn đề cấu trúc không giải quyết bằng cố gắng cá nhân
+
+Một thực tế khó chịu là: tỷ lệ giá nhà trên thu nhập tại Đài Loan tăng 77% từ năm 2012 đến 2023, trong khi mức lương trung vị chỉ tăng 14%. Khoảng cách giữa hai con số này không thể bù đắp bằng cách "hợp thêm một công việc".
+
+Theo khảo sát của 104 Bảo hiểm xã hội, 57% thế hệ Z có thu nhập phụ. Con số này thường được bao bọc như "thanh niên rất nhiệt huyết", "làng xão là xu hướng mới". Nhưng nếu đặt con số này vào bối cảnh — một thế hệ hơn một nửa người cho rằng lương chính thức không đủ để sinh sống — đây không phải là xu hướng, mà là cảnh báo.
+
+Kinh tế của Đài Loan được đẩy mạnh bởi ngành công nghiệp trí tuệ, xuất khẩu bán dẫn tăng 52% vào năm 2024. Số liệu GDP trông tốt, thu nhập cá nhân xếp hạng trong top châu Á. Nhưng Bộ Tài chính hội đồng quốc gia cũng chỉ ra, tỷ lệ người lao động dưới mức lương trung bình đã đạt 69,77% — mức cao nhất trong 10 năm qua. Những con số đóng góp vào tăng trưởng kinh tế chủ yếu là những chuỗi cung ứng công nghiệp cụ thể, phần lớn người không tham gia.
+
+Thanh niên nhìn thấy rõ ràng. Họ không khiếu nại, họ mở ứng dụng giao đơn. Họ không chờ đợi chính sách thay đổi, họ nhận dự án cuối tuần. Họ không kỳ vọng mua nhà, họ tính toán cách sống sót.
+
+Câu chuyện của thế hệ làng xão cuối cùng bắt nguồn từ một bài toán sống: Khi tốc độ tăng thu nhập không thể theo kịp chi phí sinh hoạt, bạn phải chấp nhận ngày càng nghèo nào, hoặc biến bản thân mình thành nhiều người.
+
+Thanh niên Đài Loan đã chọn lựa lần hai. Nhưng điều này không nên được khen ngợi. Điều này phải được xem như một vấn đề cần giải quyết.
 
 ---
 
 ## Tài liệu tham khảo
 
-1. [Tổng cục Thống kê Hành chính Viện: Thống kê về mức lương trung vị và phân bố](https://www.stat.gov.tw/cl.aspx?n=2715) — Mức lương trung vị thường xuyên năm 2025 là 38.319 Đài tệ.
-2. [Ngân hàng nhân lực 104: Báo cáo khảo sát phúc lợi và tiền lương khu vực Đài Loan 2025~2026](httpss://blog.104.com.tw/104data/) — 39% nhân viên văn phòng có nghề phụ, thế hệ Z đạt 57%.
-3. [Nền tảng thông tin bất động sản Bộ Nội vụ: Thống kê tỷ lệ giá nhà trên thu nhập](https://pip.moi.gov.tw/Publicize/Info/E1050) — Tỷ lệ giá nhà trên thu nhập tại thành phố Đài Bắc là 16,36 lần.
-4. [Cục An toàn và Vệ sinh Nghề nghiệp Bộ Lao động: Thống kê số lượng nhân viên giao hàng](https://www.mol.gov.tw/1607/71771/71774/76068/nodelist) — Năm 2022, số lượng người giao hàng toàn quốc đạt 145.000 người.
-5. [Digital Times: Luật chuyên biệt về giao hàng năm 2026 quy định mức tối thiểu 45 Đài tệ mỗi đơn](httpshttps://www.bnext.com.tw/article/89738//taiwan-food-delivery-law-2026) — Viện Lập pháp thông qua Luật Bảo vệ Quyền lợi Người giao hàng.
-6. [Tin tức 591: Nỗi khổ của người thuê nhà, giá thuê trung bình toàn Đài Loan từ mức thấp nhất là 6.000 Đài tệ](httpshttps://news.591.com.tw/news/11622) — Giá thuê căn hộ studio trung bình tại thành phố Đài Bắc là 14.400 Đài tệ.
-7. [The News Lens (Bản quốc tế): Khủng hoảng nhà ở tại Đài Loan — Giá nhà thuộc hàng cao nhất thế giới](httpshttps://international.thenewslens.com/article/182910) — So sánh quốc tế về giá nhà và tiền lương tại Đài Loan.
-8. [Taipei Times: Khủng hoảng nhà ở vẫn đang đẩy người trẻ ra khỏi thị trường (2025)](https://www.taipeitimes.com/News/editorials/archives/2025/05/20/2003837174) — Bài xã luận tiếng Anh về khó khăn mua nhà của giới trẻ Đài Bắc.
-9. [Ketagalan Media: Đài Loan cần tăng lương nhanh hơn để bảo vệ nền dân chủ (2025)](httpshttps://ketagalanmedia.com/2025/09/03/taiwan-needs-to-raise-wages-faster-to-protect-its-democracy/) — Tác động của tình trạng đình trệ tiền lương đối với nền dân chủ Đài Loan.
-10. [Merit Times: Tỷ lệ lao động phi điển hình năm 2024 chạm mức thấp nhất trong 10 năm, nhóm làm thêm đạt mức cao](httpshttps://www.merit-times.com/news/76429) — Thống kê về lao động phi điển hình của Tổng cục Thống kê.
+1. [Bộ Tài chính hội đồng quốc gia: Thống kê mức lương trung vị và phân phối](https://www.stat.gov.tw/cl.aspx?n=2715) — mức lương trung vị năm 2025 là 38.319 đồng
+2. [104 Bảo hiểm xã hội: Báo cáo khảo sát lương và phúc lợi làng xão Đài Loan năm 2025~2026](https://blog.104.com.tw/104data/) — 39% người lao động có thu nhập phụ, thế hệ Z đạt 57%
+3. [Nền tảng thông tin bất động sản nội quy: Thống kê tỷ lệ giá nhà trên thu nhập](https://pip.moi.gov.tw/Publicize/Info/E1050) — tỷ lệ giá nhà trên thu nhập tại Đài Bắc 16,36 lần
+4. [Cơ quan vệ sinh lành mạnh nghề nghiệp Bộ Lao động: Thống kê số người giao đơn](https://www.mol.gov.tw/1607/71771/71774/76068/nodelist) — tổng cộng 145.000 người giao đơn vào năm 2022
+5. [Sống khác: Năm 2026 luật bảo vệ quyền lợi người giao đơn quy định mỗi đơn tối thiểu 45 đồng](https://www.bnext.com.tw/article/89738//taiwan-food-delivery-law-2026) — Quốc hội thông quan pháp luật bảo vệ quyền lợi người giao đơn
+6. [Tin tức 591: Gia đình cho thuê khó khăn, giá thuê nhà trung bình toàn quốc giảm ít nhất 6.000 đồng](https://news.591.com.tw/news/11622) — nhà trọ độc lập ở Đài Bắc trung bình 14.400 đồng/tháng
+7. [Báo cáo Kinh tế Số thế giới: So sánh giá nhà và lương ở Đài Loan với các thành phố lớn toàn cầu](https://international.thenewslens.com/article/182910) — so sánh giá nhà và lương ở Đài Loan
+8. [Taipei Times: Biên kỷ luật vẫn đẩy thanh niên Đài Bắc ra khỏi thị trường bất động sản (2025)](https://www.taipeitimes.com/News/editorials/archives/2025/05/20/2003837174) — báo cáo tiếng Anh về khó khăn mua nhà của thanh niên Đài Bắc
+9. [Ketagalan Media: Đài Loan cần tăng lương nhanh hơn để bảo vệ chính quyền dân chủ (2025)](https://ketagalanmedia.com/2025/09/03/taiwan-needs-to-raise-wages-faster-to-protect-its-democracy/) — tác động của mức lương tĩnh lạc đến chính quyền dân chủ Đài Loan
+10. [Sống khác: Khảo sát năm 2024 về tỷ lệ người không phải loại hình lao động tiêu chuẩn đạt mức cao nhất trong 10 năm, trong khi nhóm làm việc song song tăng cao](https://www.merit-times.com/news/76429) — thống kê người không phải loại hình lao động tiêu chuẩn của Bộ Tài chính hội đồng quốc gia
 
 ---
 
 ## Đọc thêm
+
+- [外送專法](/society/外送專法) — sau khi "bản sửa đổi trễ" này được thực thi: 45 đồng mức sàn rơi xuống thực tế, và hai câu hỏi mà nó không trả lời

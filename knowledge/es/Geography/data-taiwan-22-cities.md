@@ -23,9 +23,9 @@ lastVerified: 2026-06-06
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/用數據看台灣22縣市.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:d4d60849e9ff119e'
-sourceBodyHash: 'sha256:7464b15b7c6d840e'
+sourceCommitSha: '4437f621'
+sourceContentHash: 'sha256:8f2edc35ffb515e3'
+sourceBodyHash: 'sha256:1a4463448315b959'
 translatedAt: '2026-06-16T17:05:07Z'
 image: '/article-images/geography/taiwan-island-nasa-mosaic.webp'
 imageCredit: 'NASA'

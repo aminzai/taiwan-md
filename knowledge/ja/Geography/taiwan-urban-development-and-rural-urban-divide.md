@@ -11,9 +11,9 @@ lastVerified: 2026-03-21
 lastHumanReview: true
 featured: false
 translatedFrom: 'Geography/台灣都市發展與城鄉差距.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:abb1bddb60e0e0c6'
-sourceBodyHash: 'sha256:85a0db4806eee7dd'
+sourceCommitSha: 'f45a1933'
+sourceContentHash: 'sha256:bfa78a33fd163a9a'
+sourceBodyHash: 'sha256:aa0440f383f174b1'
 translatedAt: '2026-05-01T19:52:32+08:00'
 difficulty: 'beginner'
 ---

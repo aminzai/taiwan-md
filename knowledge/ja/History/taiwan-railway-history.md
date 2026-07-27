@@ -22,9 +22,9 @@ lastVerified: 2026-05-11
 lastHumanReview: false
 featured: false
 translatedFrom: 'History/台灣鐵道史.md'
-sourceCommitSha: 'bb411ee0'
-sourceContentHash: 'sha256:045bcc00442a33a7'
-sourceBodyHash: 'sha256:e1c11d2761783f3b'
+sourceCommitSha: '0ab600a6'
+sourceContentHash: 'sha256:4de14c72bc8f2765'
+sourceBodyHash: 'sha256:c391ed0c502effad'
 translatedAt: '2026-06-16T16:55:14Z'
 image: '/article-images/history/tra-taitung-line-fireman-1970s.webp'
 imageCredit: '周永富（提供者）'

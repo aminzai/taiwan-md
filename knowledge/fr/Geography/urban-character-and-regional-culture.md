@@ -18,9 +18,9 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
 translatedFrom: 'Geography/城市特色與區域文化.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:9d646e504e06dd7e'
-sourceBodyHash: 'sha256:3ece4cc0080f2397'
+sourceCommitSha: '2850f17b'
+sourceContentHash: 'sha256:d85bf01115410778'
+sourceBodyHash: 'sha256:be641d09ea1153ea'
 translatedAt: '2026-05-20T05:08:34+08:00'
 difficulty: 'beginner'
 ---

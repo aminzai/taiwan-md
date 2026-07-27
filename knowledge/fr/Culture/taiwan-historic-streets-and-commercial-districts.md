@@ -1,19 +1,26 @@
 ---
-title: "La culture des rues historiques de Taïwan et ses quartiers commerciaux"
+title: 'La culture des rues historiques de Taïwan et ses quartiers commerciaux'
 description: "De la prospérité portuaise sous la dynastie Qing aux façades baroques de l'époque coloniale japonaise, les rues historiques de Taïwan sont une histoire populaire écrite en briques et en tuiles"
 date: 2026-03-20
-author: "Taiwan.md"
-category: "Culture"
-subcategory: "老街與商圈"
-tags: ["rues historiques", "quartiers historiques", "préservation culturelle", "tourisme", "architecture"]
+author: 'Taiwan.md'
+category: 'Culture'
+subcategory: '老街與商圈'
+tags:
+  [
+    'rues historiques',
+    'quartiers historiques',
+    'préservation culturelle',
+    'tourisme',
+    'architecture',
+  ]
 lastVerified: 2026-03-20
 lastHumanReview: true
 featured: false
-translatedFrom: "Culture/台灣老街文化與商業街區.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:3d3e165195c66961"
-sourceBodyHash: "sha256:daf4460c4d51a719"
-translatedAt: "2026-05-20T05:08:34+08:00"
+translatedFrom: 'Culture/台灣老街文化與商業街區.md'
+sourceCommitSha: 'fa2ca2e8'
+sourceContentHash: 'sha256:fa410e59dc40cf80'
+sourceBodyHash: 'sha256:4c28ceadc8ee9c09'
+translatedAt: '2026-05-20T05:08:34+08:00'
 ---
 
 # La culture des rues historiques de Taïwan et ses quartiers commerciaux
@@ -71,7 +78,7 @@ L'histoire de Jiufen commence en **1890**. À cette époque, Liu Mingchuan const
 
 Durant la période coloniale japonaise, l'exploitation des mines d'or atteignit son apogée, la population de Jiufen explosa, et des maisons serrées les unes contre les autres couvrirent les pentes, formant des rues de « ville de montagne » le long d'escaliers escarpés. Dans les années 1960, l'épuisement des ressources minières entraîna le déclin rapide de Jiufen, qui faillit être oubliée du monde.
 
-Le tournant survint en **1989** : le film de Hou Hsiao-hsien, ***A City of Sadness*** (*悲情城市*), fut tourné à Jiufen. Ce film remporta le Lion d'or à la Mostra de Venise, redonnant à Jiufen une visibilité mondiale. Par la suite, certains associèrent Jiufen aux bains publics du film d'animation *Spirited Away* (神隱少女) de Hayao Miyazaki (bien que Miyazaki lui-même ait démenti cette inspiration), et Jiifen devint une destination incontournable pour les touristes internationaux visitant Taïwan.
+Le tournant survint en **1989** : le film de Hou Hsiao-hsien, **_A City of Sadness_** (_悲情城市_), fut tourné à Jiufen. Ce film remporta le Lion d'or à la Mostra de Venise, redonnant à Jiufen une visibilité mondiale. Par la suite, certains associèrent Jiufen aux bains publics du film d'animation _Spirited Away_ (神隱少女) de Hayao Miyazaki (bien que Miyazaki lui-même ait démenti cette inspiration), et Jiifen devint une destination incontournable pour les touristes internationaux visitant Taïwan.
 
 **Caractéristiques actuelles :**
 
@@ -237,14 +244,25 @@ Un autre défi réside dans la **capacité d'accueil touristique**. La foule les
 ## Références
 
 [^1]: [Administration du Tourisme — Sites des rues historiques de Taïwan](https://www.taiwan.net.tw/) — Panorama des informations touristiques sur les rues historiques de Taïwan, avec cartes et planification d'itinéraires
+
 [^2]: [Wikipédia — Dihua Street](https://zh.wikipedia.org/zh-tw/%E8%BF%AA%E5%8C%96%E8%A1%97) — Chronique historique de Dihua Street, styles architecturaux et développement commercial de Dadaocheng
+
 [^3]: [Wikipédia — Sanxia Old Street](https://zh.wikipedia.org/zh-tw/%E4%B8%89%E5%B3%BD%E8%80%81%E8%A1%97) — Historique de la restauration du groupe architectural baroque de Sanxia et documents sur la reconstruction du temple du ancêtre fondateur dirigée par Li Mei-shu
-[^4]: [Wikipédia — Jiufen](https://zh.wikipedia.org/zh-tw/%E4%B9%9D%E4%BB%BD) — Histoire des mines d'or de Jiufen, lieu de tournage de *A City of Sadness* de Hou Hsiao-hsien et situation touristique actuelle
+
+[^4]: [Wikipédia — Jiufen](https://zh.wikipedia.org/zh-tw/%E4%B9%9D%E4%BB%BD) — Histoire des mines d'or de Jiufen, lieu de tournage de _A City of Sadness_ de Hou Hsiao-hsien et situation touristique actuelle
+
 [^5]: [Wikipédia — Daxi Old Street](https://zh.wikipedia.org/zh-tw/%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97) — Groupe de façades baroques de Daxi et présentation de la grande fête de Guan Sheng Di Jun
+
 [^6]: [Réseau d'information touristique de Changhua — Lukang Old Street](https://tourism.chcg.gov.tw/AttractionsContent.aspx?id=152) — Informations sur le groupe architectural minnan de Lukang, le temple Longshan, le temple Tianhou et l'artisanat traditionnel
+
 [^7]: [Réseau touristique de Tainan — Anping Old Street](https://www.twtainan.net/zh-tw/attractions/detail/812/) — Explications sur le château d'Anping, la culture du lion-épée et l'histoire de Yanping Old Street
+
 [^8]: [Réseau de tourisme de Nouveau Taipei — Tamsui Old Street](https://newtaipei.travel/zh-tw/attractions/detail/109658) — Présentation des sites du Fort San Domingo, de Tamsui Old Street et de Chongjian Street
+
 [^9]: [Réseau touristique de Kaohsiung — Qishan Old Street](https://khh.travel/zh-tw/attractions/detail/157/) — Histoire du « royaume de la banane » de Qishan, façades baroques et informations sur le musée de l'histoire du chemin de fer sucrier
+
 [^10]: [Archives numériques de géologie de l'Université nationale de Taïwan — Histoire de l'exploitation de l'or à Jinguashih et Jiufen](http://tcmb.digital.ntu.edu.tw/memory/geology/story_keelung/story3.html) — Archives numériques sur l'histoire minière de Jiufen, incluant la géologie des mines et la datation des périodes d'exploitation
+
 [^11]: [Administration du Tourisme — Dihua Street](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=R108) — Présentation officielle du marché Yongle, du temple de la divinité tutélaire de Xiahai et de la grande rue des provisions du Nouvel An
+
 [^12]: [Administration du Tourisme — Sanxia Old Street](https://www.taiwan.net.tw/m1.aspx?sNo=0001091&id=R13) — Plan de restauration architecturale de Sanxia Old Street et renaissance de l'art de la teinture à l'indigo

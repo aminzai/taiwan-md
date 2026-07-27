@@ -21,9 +21,9 @@ lastVerified: 2026-05-22
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣統獨光譜.md'
-sourceCommitSha: 'e6c58721'
-sourceContentHash: 'sha256:ca5831e7af4383e8'
-sourceBodyHash: 'sha256:cbb8b49410825740'
+sourceCommitSha: '4c15a2b0'
+sourceContentHash: 'sha256:a399eae223d36d4d'
+sourceBodyHash: 'sha256:71fc72f8b7a7bc3d'
 translatedAt: '2026-05-24T05:06:33+08:00'
 ---
 

@@ -20,9 +20,9 @@ lastVerified: 2026-04-29
 lastHumanReview: false
 featured: true
 translatedFrom: Technology/海底電纜.md
-sourceCommitSha: 'dd39065b'
-sourceContentHash: 'sha256:f38fca094c4c3275'
-sourceBodyHash: 'sha256:ec9a17aedbd5877e'
+sourceCommitSha: '5ff155c1'
+sourceContentHash: 'sha256:a528d560e37c40b9'
+sourceBodyHash: 'sha256:1790c4ef1b7a9b20'
 translatedAt: '2026-06-10T16:45:00+00:00'
 ---
 

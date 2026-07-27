@@ -1,447 +1,452 @@
 ---
-title: 'Chou Hui: la voz femenina que cantó 25 años 〈Promise〉, una carrera de fondo desde una muñeca de cómic hasta el Taipei Arena'
-description: 'En 1999, Linfair Records lanzó 《Chou Hui Selection》 y puso en la portada una muñeca de cómic llamada Huier en lugar del rostro de la cantante. 〈Promise〉 entró en cada KTV y atravesó 25 años, pero la persona detrás de la canción siempre fue reconocida un paso después que la canción. De cinco álbumes en Linfair al congelamiento en BMG; de Group Stone y HIM International Music a asumir en 2025 la producción ejecutiva y entrar en el disco: 12 álbumes en 26 años. El 25 de abril de 2026 subió por primera vez al Taipei Arena, pero al final del concierto anunció atrofia de las cuerdas vocales: “No sé si esta será la última vez que cante para ustedes”.'
+title: 'Where Chou: La voz femenina que cantó "Acuerdo" durante 25 años, una carrera larga desde la muñeca de cómic hasta el Estadio Pequeno de Taipei'
+description: 'En 1999, Fuhao Music lanzó "Selecciones de Where Chou", cuya portada utilizaba una muñeca de dibujos animados llamada Hui''er en lugar de su rostro. "Acuerdo" entró en cada KTV y atravesó 25 años, pero su identidad real siempre fue superada por la de la canción. Desde los cinco álbumes de Fuhao hasta el ocultamiento por parte de BMG, pasando por Qunshi y Hanyan, hasta convertirse en productora ejecutiva en 2025 para el disco Disco, sus 12 álbumes han recorrido 26 años. El 25 de abril de 2026, actuó por primera vez en el Estadio Pequeno de Taipei; al final del concierto, anunció que sufría de atrofia de cuerdas vocales: "No sé si esta será la última vez que cante para ustedes".'
 date: 2026-05-19
-author: 'Taiwan.md'
+lastEvolved: 2026-05-28
 category: 'Music'
-subcategory: '歌手'
 tags:
   [
-    'Personas',
-    'Chou Hui',
+    'Figuras',
     'Where Chou',
-    'Pop en mandarín',
+    'Música pop mandarina',
     'KTV',
-    'Promise',
-    'Linfair Records',
-    'Yao Ruo-long',
-    'Chen Hsiao-hsia',
+    'Acuerdo',
+    'Fuhao Music',
+    'Yao Ruolong',
+    'Chen Xiaoxia',
     'Faye Wong',
-    'Masked Singer',
-    'Taipei Arena',
-    'Atrofia de las cuerdas vocales',
-    'Cuatro pequeñas divas',
+    'Cantante con Máscara',
+    'Estadio Pequeno de Taipei',
+    'Atrofia de cuerdas vocales',
+    'Las cuatro pequeñas divas',
     'Versiones',
-    'Group Stone International',
-    'HIM International Music',
-    'Workers',
-    'Where X Go',
+    'Qunshi International',
+    'Hanyan International',
+    'Gente que trabaja',
+    'Where X se va',
     'El tiempo no olvidado',
   ]
-readingTime: 22
+subcategory: '歌手'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-28
 lastHumanReview: false
-featured: false
-translatedFrom: 'Music/周蕙.md'
-sourceCommitSha: 'ac1d187a'
-sourceContentHash: 'sha256:e82ab2af4a170315'
-sourceBodyHash: 'sha256:4c01fb53198217ef'
-translatedAt: '2026-06-16T16:54:57Z'
+readingTime: 22
 image: '/article-images/music/zhou-hui-yueding-mv-thumb-1999.webp'
 imageCredit: '福茂唱片 / 周蕙〈約定〉1999 官方 MV 截圖'
 imageLicense: 'Fair use editorial commentary on the original work'
 imageSource: 'https://www.youtube.com/watch?v=Vd-mTkhiThI'
+sporeLinks:
+  [
+    "{'id': 103, 'platform': 'threads', 'date': '2026-05-28', 'url': 'https://www.threads.com/@taiwandotmd/post/DY4u5UzAVcT'}",
+    "{'id': 104, 'platform': 'x', 'date': '2026-05-28', 'url': 'https://x.com/taiwandotmd/status/2060010924015321462'}",
+  ]
+translatedFrom: 'Music/周蕙.md'
+sourceCommitSha: 'c40c53f61'
+sourceContentHash: 'sha256:bad67aad8b965996'
+sourceBodyHash: 'sha256:7f999c1dbadb14bb'
+translatedAt: '2026-07-26T10:35:15+08:00'
 ---
 
-# Chou Hui: la voz femenina que cantó 25 años 〈Promise〉, una carrera de fondo desde una muñeca de cómic hasta el Taipei Arena
+# Where Chou: La voz femenina que cantó "Acuerdo" durante 25 años, una carrera larga desde la muñeca de cómic hasta el Estadio Pequeno de Taipei
 
-> **Panorama en 30 segundos:** El 26 de agosto de 1999, Linfair Records lanzó un “recopilatorio” muy extraño: en la portada había una muñeca de cómic sin rostro, llamada Huier; el MV era animado; la cantante tenía 22 años y no aparecía públicamente[^1]. El tema principal del álbum, 〈Promise〉, vendió 250.000 copias en 45 días[^2] y superó el millón en Asia[^3]. Esa voz femenina aún no vista llevó esta versión de una canción de Faye Wong a las listas de pedidos de todos los KTV de Taiwán durante los siguientes 25 años[^4]. Desde cinco álbumes en cinco años con Linfair hasta ser engañada por su mánager en 2004 para firmar un traspaso a BMG y quedar congelada tres años; desde su incorporación a Group Stone en 2009 y a HIM International Music en 2013, hasta regresar a Group Stone en 2025, asumir la producción ejecutiva y entrar en un estilo disco con 《Where X Go》, publicó en total 12 álbumes de lanzamiento formal[^11]. Veinticinco años y un año más tarde, el 25 de abril de 2026, subió por primera vez al Taipei Arena. Después de un repertorio de tres horas y 25 canciones, al final dijo al público: “No sé si esta será la última vez que cante para ustedes”[^5]. Los médicos le habían dicho que sus cuerdas vocales ya se habían atrofiado.
+> **Resumen en 30 segundos:** El 26 de agosto de 1999, Fuhao Music lanzó un "álbum de recopilación" muy peculiar: la portada era una muñeca de dibujos animados sin rostro llamada Hui'er; el MV era una animación; la cantante tenía 22 años y no mostraba su rostro al público[^1]. El tema principal del álbum, "Acuerdo", vendió 250.000 copias en 45 días[^2] y más de un millón en Asia[^3]; esa voz femenina aún invisible llevó esta versión al top de las canciones más solicitadas en todos los KTV de Taiwán durante los siguientes 25 años[^4]. Desde los cinco álbumes en cinco años en Fuhao hasta ser engañada por su mánager para firmar un contrato de transferencia a BMG y ser ocultada durante tres años en 2004, pasando por unirse a Qunshi en 2009 y a Hanyan en 2013, hasta regresar a Qunshi en 2025 como productora ejecutiva para el disco de estilo Disco "Where X se va", ha lanzado un total de 12 álbumes de estudio oficiales[^11]. 25 años y un año después, el 25 de abril de 2026, actuó por primera vez en el Estadio Pequeno de Taipei de Taipéi. Tras completar un repertorio de 25 canciones en tres horas y 25 minutos, al final del concierto le dijo al público: "No sé si esta será la última vez que cante para ustedes"[^5]. Los médicos le dijeron que sus cuerdas vocales ya se habían atrofiado.
 
-Entra a cualquier KTV de Taiwán, pide 〈Promise〉 y, en cuanto suene la introducción, alguien en la sala privada tarareará “dos mundos lejanos, cada vez más distantes”[^6]. Si luego preguntas: “¿Quién la canta?”, la respuesta se dividirá: algunos dirán Faye Wong, otros Fish Leong, otros no sabrán decirlo, pero insistirán: “Seguro que la he escuchado”.
+Al entrar en cualquier KTV en Taiwán y seleccionar "Acuerdo", en el instante en que suena la introducción, alguien en la sala privada comenzará a tararear "Dos mundos lejanos, cada vez más lejanos"[^6]. Si preguntas: "¿Quién canta esto?", la respuesta se dividirá: algunos dirán Faye Wong, otros Willa Liu, otros no sabrán decirlo, pero todos insistirán en "Definitivamente lo he escuchado".
 
-Esa es la situación de Chou Hui. Su canción caminó por delante de ella, muy por delante de ella, durante 25 años.
+Esa es la situación de Where Chou. Sus canciones van por delante de ella, muy por delante de ella, avanzando durante 25 años.
 
-## La voz femenina que escondió una muñeca de cómic
+## La voz femenina oculta tras la muñeca de cómic
 
-En 1996, Chou Hui, graduada del departamento de cine y teatro de la Escuela Privada China de Artes de Kaohsiung[^7], originalmente no planeaba ser cantante. Con el dinero que había ahorrado de sus mesadas entró a un estudio y grabó 10 canciones como recuerdo de graduación. Su plan inicial era ir al Reino Unido a estudiar dirección teatral. Más tarde dijo: “Como dije, ir al Reino Unido a estudiar no era para ser actriz; quería ser directora”[^8]. Su actitud al aceptar un contrato discográfico fue simplemente: “Primero ir a experimentar; como mucho, si fracasaba, volvía a estudiar”.
+En 1996, Where Chou, graduada del Departamento de Teatro y Cine de la Escuela de Artes Privada Zhonghua de Kaohsiung[^7], originalmente no tenía la intención de ser cantante. Tomó el dinero de su mesada ahorrado y entró en un estudio de grabación para grabar 10 canciones como recuerdo de graduación; su plan original era ir al Reino Unido a estudiar dirección de teatro. Ella dijo luego: "Como dije, ir al Reino Unido a estudiar no era para ser actriz, quería ser directora"[^8]. Su actitud hacia el contrato discográfico era simplemente "ir a experimentar primero, como mucho, si fracaso, volveré a estudiar".
 
-El dueño del estudio llevó ese demo de graduación al músico Ji Zhong-ping. Ji la fichó para Linfair Records, y el 26 de agosto de 1999 lanzó su primer álbum, 《Chou Hui Selection》[^9].
+El dueño del estudio llevó esa demo de graduación al músico Ji Zhongping. Ji Zhongping la firmó con Fuhao Music, y el 26 de agosto de 1999 se lanzó su primer álbum "Selecciones de Where Chou"[^9].
 
-Que el primer álbum se llamara “Selection” ya era en sí algo extraño: un recopilatorio suele salir después de varios años de carrera. Esta vez Linfair invirtió la operación y lo convirtió en estrategia central: casi las 10 canciones fueron promovidas en listas[^9]. Más extraño aún era la portada: una muñeca de cómic, “Huier”, reemplazaba la foto de la cantante; el MV también era animado, y el rostro de Chou Hui al principio no se mostraba en absoluto al público.
+Que el primer álbum se llamara "Selección" ya era un poco extraño por sí mismo: las recopilaciones suelen lanzarse después de unos años de debut; Fuhao invirtió esta estrategia, usándola como una estrategia principal, y las 10 canciones fueron prácticamente todas temas principales para las listas[^9]. Lo más extraño era la portada: se utilizaba una muñeca de dibujos animados "Hui'er" en lugar de una foto de la persona. El MV también era una animación, y el rostro de Where Chou no se mostraba al público inicialmente.
 
-Detrás de esa decisión estaba la falta de confianza de la propia Chou Hui en su apariencia[^10]. La respuesta de Linfair fue abstraerla por completo: convertirla directamente en cómic y entregar todo el foco a la voz. Dentro de Linfair, esa estrategia se llamaba “conquistar primero con la voz”[^9].
+Detrás de esta decisión estaba la falta de confianza de Where Chou en su apariencia[^10]. La respuesta de Fuhao fue abstractizarla completamente, dibujándola como un cómic, centrando el foco completamente en la voz. Dentro de Fuhao, esta estrategia se llamaba "ganar con la voz primero"[^9].
 
 <div
   class="video-embed"
   style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;"
 >
-  <iframe
+   <iframe
     src="https://www.youtube.com/embed/Vd-mTkhiThI"
-    title="周蕙 Where Chou - 約定 (官方版MV)"
+    title="Where Chou - Acuerdo (MV Oficial)"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     loading="lazy"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-  ></iframe>
+   ></iframe>
 </div>
 
-_Canal oficial de Chou Hui Where Chou, MV oficial de 1999 de 〈Promise〉. La muñeca animada Huier recorre calles, transiciones y se queda junto a una ventana; el rostro de la cantante nunca aparece, y toda la emoción queda en manos de aquella voz de 22 años._
+_MV oficial de 1999 del canal oficial de Where Chou para "Acuerdo". La muñeca animada Hui'er recorre la escena urbana, hace transiciones y se queda junto a la ventana. El rostro de la cantante nunca aparece, toda la emoción se entrega a esa voz de 22 años._
 
-La estrategia funcionó. En la segunda mitad de 1999, 〈Promise〉 empezó a fermentar desde los KTV. En 2000, su segundo álbum, 《Chou Hui Selection 2: Really Want to Love You Well》, vendió más de 250.000 copias en 45 días[^2]; el primer álbum acumuló 500.000 en Taiwán y un millón en Asia[^3]. En una época en que la gente todavía hacía fila en las tiendas de discos, esa escala bastaba para empujar a una debutante de 22 años a las listas principales.
+La estrategia funcionó. "Acuerdo" comenzó a fermentar en los KTV en la segunda mitad de 1999. En 2000, el segundo álbum "Selecciones de Where Chou 2: Quiero amarte mucho" vendió más de 250.000 copias en 45 días[^2], acumulando 500.000 copias en Taiwán y un millón en Asia en el primer álbum[^3]. En una época en la que aún se hacía cola en las tiendas de discos, este volumen fue suficiente para empujar a una novata de 22 años a las listas principales.
 
 > **📝 Nota del curador**
-> Detrás de las cuatro palabras “conquistar primero con la voz” había, en realidad, una lógica inversa de empaquetamiento de cantantes taiwanesas. A fines de la década de 1990, la industria idol de Taiwán empezaba a producir en gran cantidad cantantes femeninas de “apariencia primero”; Jolin Tsai, Elva Hsiao y Stefanie Sun tuvieron debuts con rutas visuales muy marcadas. Linfair eligió la dirección opuesta: ocultar el rostro de Chou Hui y apostar por la voz. Ganó la apuesta, pero esa decisión también definió su situación durante los siguientes 25 años: el público recordaba la canción, pero no tanto a la persona.
+> Detrás de estas cuatro palabras "ganar con la voz primero", en realidad hay una lógica inversa de empaquetado de cantantes femeninas en Taiwán. A finales de la década de 1990, la industria de ídolos de Taiwán comenzaba a producir en masa cantantes femeninas "basadas en la apariencia", como Jolin Tsai, Vanessa Chien y Stefanie Sun, todas con rutas de debut muy visuales. Fuhao eligió la dirección opuesta, ocultando el rostro de Where Chou, apostando por la voz. Ganaron la apuesta, pero esta decisión también definió su situación durante los siguientes 25 años: el público recuerda la canción, pero no logra recordar bien a la persona.
 
-En 2001, 《Tonight I Cherish You More》 fue el primer disco que publicó con una portada de persona real[^11], pero las ventas bajaron y provocaron críticas negativas. El contraste entre la muñeca de cómic y la persona real recordaba algo poco cortés: para ciertos oyentes, lo que amaban era aquella voz, y no necesariamente podían aceptar ese rostro.
+En 2001, "Disfruta de esta noche" se lanzó por primera vez con una portada de una persona real[^11], pero las ventas bajaron, generando críticas negativas. El contraste entre la muñeca de cómic y la persona real recordaba una cosa poco educada: para algunos oyentes, amaban esa voz, pero no necesariamente podían aceptar ese rostro.
 
-## La canción cuya tasa de pedido no cayó en 25 años
+## La única canción cuya tasa de solicitudes no bajó en 25 años
 
-Para entender el lugar de Chou Hui en la historia musical de Taiwán, primero hay que aclarar la genealogía de 〈Promise〉.
+Para entender la posición de Where Chou en la historia de la música de Taiwán, primero hay que aclarar el linaje de la canción "Acuerdo".
 
-![Versión en cantonés de 〈Promise〉 incluida en el EP 《Toy》 de Faye Wong de 1997, letra de Lin Xi, música de Chen Hsiao-hsia, premio Canción Recomendada Profesional de Commercial Radio Hong Kong Ultimate 903](/article-images/music/wang-fei-yueding-1997.webp)
-_Versión en cantonés de 〈Promise〉 del EP 《Toy》 de Faye Wong de 1997, letra de Lin Xi y música de Chen Hsiao-hsia. Fair use editorial commentary on the original work. [Source via YouTube](https://www.youtube.com/watch?v=gjC00DJPeLs)._
+![Versión cantonesa de "Acuerdo" incluida en el EP "Juguetes" de Faye Wong en 1997, letra de Lin Xi, música de Chen Xiaoxia, canción premiada en la Clasificación Profesional de Commercial Radio 903 de Hong Kong](/article-images/music/wang-fei-yueding-1997.webp)
+_Versión cantonesa de "Acuerdo" del EP "Juguetes" de Faye Wong de 1997, letra de Lin Xi, música de Chen Xiaoxia. Comentario editorial de uso justo sobre la obra original. [Fuente vía YouTube](https://www.youtube.com/watch?v=gjC00DJPeLs)._
 
-La original es de Faye Wong. En 1997 incluyó una canción llamada 〈Promise〉 en el EP 《Toy》, en cantonés, con letra de Lin Xi y música de Chen Hsiao-hsia[^12]. Esa versión ganó en Hong Kong el premio Canción Recomendada Profesional de Commercial Radio Ultimate 903, y Lin Xi obtuvo con esa letra el premio a Mejor Letra Pop China en la 20.ª edición de los Top Ten Chinese Gold Songs. Ya era una buena canción dentro del circuito cantonés.
+La versión original es de Faye Wong. En 1997, puso una canción llamada "Acuerdo" en su EP "Juguetes", en cantonés, con letra de Lin Xi y música de Chen Xiaoxia[^12]. Esta versión ganó el Premio a la Canción Recomendada Profesional de Commercial Radio 903 en Hong Kong, y Lin Xi ganó el Premio a la Mejor Letra de Pop Chino en la 20ª Edición de las Diez Grandes Canciones Chinas con esta letra; ya era una buena canción en el círculo cantonés.
 
 <div
   class="video-embed"
   style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;"
 >
-  <iframe
+   <iframe
     src="https://www.youtube.com/embed/gjC00DJPeLs"
-    title="王菲〈約定〉1997 粵語版（《玩具》EP）"
+    title="Faye Wong - Acuerdo (Versión Cantonesa 1997, EP 'Juguetes')"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     loading="lazy"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-  ></iframe>
+   ></iframe>
 </div>
 
-_Versión cantonés de 〈Promise〉 de Faye Wong de 1997, incluida en el EP 《Toy》. Letra de Lin Xi y música de Chen Hsiao-hsia: es el punto de partida original de la canción. La versión en mandarín de Chou Hui de 1999 conserva toda la melodía de Faye Wong, pero reescribe la letra._
+_La versión cantonesa de "Acuerdo" de Faye Wong de 1997, incluida en el EP "Juguetes". Letra de Lin Xi, música de Chen Xiaoxia, es el punto de partida original de esta canción. Where Chou mantuvo toda la melodía de la versión de Faye Wong en su versión mandarina de 1999, pero reescribió la letra._
 
-Dos años después, los productores de Linfair escucharon la versión de Faye Wong y pensaron que la canción podía hacerse de nuevo. Convocaron a Yao Ruo-long para reescribir la letra en chino, conservaron la melodía de Chen Hsiao-hsia, encargaron el arreglo a Chen Fei-wu y la hicieron interpretar por Chou Hui[^13]. En agosto de 1999, la versión en mandarín entró en 《Chou Hui Selection》.
+Dos años después, los productores de Fuhao escucharon la versión de Faye Wong y sintieron que esta canción podía hacerse de nuevo. Buscaron a Yao Ruolong para reescribir la letra en chino, mantuvieron la melodía de Chen Xiaoxia, confiaron la instrumentación a Chen Feiwu, y Where Chou la interpretó[^13]. En agosto de 1999, la versión mandarina entró en "Selecciones de Where Chou".
 
-Fue una recreación, no un simple traslado. La versión original de Lin Xi es más contenida y reprimida; frases como “separados en el sur y el norte del cielo” escriben una distancia más madura. La versión en mandarín de Yao Ruo-long es directamente lírica: “dos mundos lejanos, cada vez más distantes” apunta a quienes sufren frustraciones afectivas a los veintitantos[^14]. La melodía de Chen Hsiao-hsia permanece intacta, pero el centro de gravedad de la letra cambió: la canción pasó de ser una historia reprimida a una canción de arrepentimiento juvenil.
+Esta fue una re-creación, no una simple transferencia. La versión original de Lin Xi era más introvertida y represiva; la frase "separados en los extremos del cielo y la tierra" escribía una sensación de distancia más madura. La versión mandarina de Yao Ruolong era directamente lírica; "dos mundos lejanos, cada vez más lejanos" golpeaba a los jóvenes de más de 20 años con frustración emocional[^14]. La melodía de Chen Xiaoxia se mantuvo intacta, pero el centro de gravedad de la letra cambió; la canción pasó de ser una historia represiva a un arrepentimiento juvenil.
 
-Lo aún más inesperado fue su capacidad de difusión: el alcance de la versión en mandarín terminó superando a la original en cantonés. En salas privadas de KTV de Taiwán, radios y concursos de canto, durante los siguientes 25 años, fans de cada generación pidieron la misma 〈Promise〉; y la que pedían era la versión de Chou Hui, no la de Faye Wong[^4].
+Lo más sorprendente fue la fuerza de difusión; el alcance de la versión mandarina superó inversamente al de la versión original cantonesa. En las salas privadas de los KTV de Taiwán, en las estaciones de radio, en los programas de talentos, cada generación de fans en los siguientes 25 años solicitó la misma "Acuerdo", y solicitaban la versión de Where Chou, no la de Faye Wong[^4].
 
 > **💡 ¿Sabías que?**
-> De fines de la década de 1990 a comienzos de la de 2000 fue la edad dorada de la cultura KTV en Taiwán. En los momentos de mayor densidad de las cadenas Cashbox y Holiday en las calles de Taipéi, incluso en las tardes de días laborales había que hacer fila y sacar número; la tasa de pedido en las máquinas era el indicador más inmediato para que las discográficas confirmaran que una canción “realmente se había hecho popular”. 〈Promise〉 entró en ese período, alcanzó la cola final de la industria KTV y, por eso, aun después del cierre de la era del disco físico, siguió siendo redescubierta por nuevas generaciones a través de las máquinas de karaoke.
+> Desde finales de la década de 1990 hasta principios de la de 2000, fue la época dorada de la cultura de los KTV en Taiwán. Los dos sistemas de cadena, Moneybox y HaLeDi, tenían la mayor densidad en las calles de Taipéi; los fines de semana por la tarde había que hacer cola para sacar un número; la tasa de solicitudes del karaoke era el indicador más inmediato para que las discográficas confirmaran que una canción "realmente se había hecho popular". "Acuerdo" entró en este período, aprovechando el final de la industria de los KTV, y por eso, después del cierre de la era de los discos físicos, siguió siendo redescubierta por nuevas generaciones de oyentes a través del karaoke.
 
-La propia Chen Hsiao-hsia también siente predilección por esta canción. Es una de las compositoras taiwanesas más importantes de las décadas de 1980 y 1990, autora de numerosas obras representativas como 〈If the Flower Leaves the Branch〉 de Stella Chang, 〈The Same Moonlight〉 de Julie Su y 〈Comprehension〉 de Winnie Hsin[^15]. La melodía de 〈Promise〉 fue primero para Faye Wong y luego para Chou Hui; ella reconoce ambas versiones, pero la más difundida es la de Chou Hui.
+La propia Chen Xiaoxia también tenía predilección por esta canción. Es una de las compositoras femeninas más importantes de Taiwán en las décadas de 1980 y 1990, habiendo escrito muchas obras representativas como "Si la flor se desprende del tallo" de Fang I-ching, "La misma luna oscura" de Su Rui, "Comprensión" de Hsiao Chih-chi, etc.[^15]. La melodía de "Acuerdo" se la dio primero a Faye Wong y luego a Where Chou. Reconoce ambas versiones, pero la más difundida es la de Where Chou.
 
-## Cinco años en Linfair: cinco álbumes y la salida de la muñeca de cómic
+## Cinco años en Fuhao: cinco álbumes y la salida de la muñeca de cómic
 
-Si solo se mira 〈Promise〉, el período de Chou Hui en Linfair se reduce a “una versión que se hizo famosa para toda la vida”. Pero entre 1999 y 2003, en esos cinco años, en Linfair publicó en realidad cinco álbumes, y cada uno tiene su propia historia[^11].
+Si solo se mira "Acuerdo", la etapa de Fuhao de Where Chou se reduciría a "una versión que se hizo popular para siempre". Pero entre 1999 y 2003, en esos cinco años, ella lanzó en realidad cinco álbumes en Fuhao, cada uno con sus propias historias[^11].
 
-Después de 《Chou Hui Selection》 en agosto de 1999, 《Chou Hui Selection 2: Really Want to Love You Well》 de 2000 continuó la estrategia de nombrar los discos como “selecciones”, y su tema homónimo 〈Really Want to Love You Well〉 superó las 250.000 copias en 45 días[^2]. Ese mismo año, una pista vecina del álbum, 〈Don’t Want to Let You Know〉, fue otra línea subterránea: letra de Yao Chien, música coescrita por Chen Wen-hua y Chou Ping-hsing[^36], habla de una distancia que no es comprendida y que, aun así, no se quiere expresar. La canción no fue tan explosiva como 〈Promise〉, pero dentro de aquella tanda de canciones pedidas en KTV entre 1999 y 2000, sobrevivió de manera tranquila y estable.
+Después de "Selecciones de Where Chou" en agosto de 1999, "Selecciones de Where Chou 2: Quiero amarte mucho" de 2000 continuó la estrategia de nombrado de recopilación, y el tema homónimo "Quiero amarte mucho" vendió más de 250.000 copias en 45 días[^2]. La canción "No quiero que lo sepas" del lado B del álbum del mismo año era otra línea oculta: la letra fue escrita por Yao Qian, la música compuesta conjuntamente por Chen Wenhua y Zhou Bingxing[^36], hablando de una distancia de incomprensión que no se quiere decir. Esta canción no fue tan explosiva como "Acuerdo", pero en las solicitudes de KTV de 1999-2000, sobrevivió tranquila y firmemente.
 
 <div
   class="video-embed"
   style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;"
 >
-  <iframe
+   <iframe
     src="https://www.youtube.com/embed/kXFMYK9jgFg"
-    title="周蕙 Where Chou - 不想讓你知道 (官方版MV)"
+    title="Where Chou - No quiero que lo sepas (MV Oficial)"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     loading="lazy"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-  ></iframe>
+   ></iframe>
 </div>
 
-_Chou Hui, 〈Don’t Want to Let You Know〉, MV oficial de 1999. Letra: Yao Chien / música: Chen Wen-hua y Chou Ping-hsing. La canción salió en el mismo álbum que 〈Promise〉; no tuvo la misma fuerza en listas, pero permaneció 25 años en las listas de KTV._
+_MV oficial de 1999 de "No quiero que lo sepas" de Where Chou. Letra de Yao Qian / Música de Chen Wenhua, Zhou Bingxing. Esta canción salió del mismo álbum que "Acuerdo", no fue tan popular para las listas como "Acuerdo", pero permaneció en las listas de solicitudes de KTV durante 25 años sin salir._
 
-《Tonight I Cherish You More》 de 2001 usó por primera vez una foto real como portada, pero las ventas no cumplieron las expectativas[^11]. En 2002 publicó 《The One Who Loves Me, The One I Love》. En ese álbum, 〈Body Temperature〉 (letra de Wang Yu-tsung / música de Victor Wong / arreglo de Wu Ching-lung[^37]) y 〈Lonely City〉 (letra de Yang Li-te / música de Yeh Liang-chun / arreglo de Chung Hsing-min[^38]) se convirtieron en los dos ejemplos más completos de sus cualidades vocales. En 〈Body Temperature〉 su dicción es redondeada; el estribillo no grita con fuerza, sino que canta el “extrañar” en voz baja. 〈Lonely City〉, en cambio, inserta la soledad de las noches urbanas en un arreglo de cuerdas: es un modelo estándar del pop de voces femeninas de Taipéi a comienzos de los años 2000.
+En 2001, "Disfruta de esta noche" usó por primera vez una foto de una persona real para la portada, pero las ventas no fueron las esperadas[^11]. En 2002 lanzó "La persona que me ama, la persona que amo"; las canciones "Temperatura corporal" (Letra: Wang Yuzong / Música: Huang Pingguan / Instrumentación: Wu Qinglong[^37]) y "Ciudad solitaria" (Letra: Yang Deli / Música: Ye Liangjun / Instrumentación: Zhong Xingmin[^38]) se convirtieron en los dos ejemplos más completos de sus características vocales. "Temperatura corporal" tenía una articulación más redondeada, el estribillo no gritaba con fuerza, cantando el "extrañar" en un tono bajo. "Ciudad solitaria" ponía la sensación de soledad de la noche urbana en la instrumentación de cuerdas, siendo el modelo estándar de la popularidad de las voces femeninas de Taipéi a principios de los 2000.
 
 <div
   class="video-embed"
   style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;"
 >
-  <iframe
+   <iframe
     src="https://www.youtube.com/embed/PGpcKF3hfO4"
-    title="周蕙 Where Chou - 體溫 (官方版MV)"
+    title="Where Chou - Temperatura corporal (MV Oficial)"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     loading="lazy"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-  ></iframe>
+   ></iframe>
 </div>
 
-_Chou Hui, 〈Body Temperature〉, MV oficial de 2002. Letra: Wang Yu-tsung / música: Victor Wong / arreglo: Wu Ching-lung. Si 〈Promise〉 es la canción de alta frecuencia en las máquinas de KTV, 〈Body Temperature〉 es la muestra más completa de las cualidades vocales de Chou Hui: el estribillo no grita con fuerza, sino que canta el “extrañar” en voz baja._
+_MV oficial de 2002 de "Temperatura corporal" de Where Chou. Letra: Wang Yuzong / Música: Huang Pingguan / Instrumentación: Wu Qinglong. Si "Acuerdo" era un indicador de alta frecuencia en el karaoke de los KTV, "Temperatura corporal" era el ejemplo más completo de las características vocales de Where Chou: el estribillo no gritaba con fuerza, cantando el "extrañar" en un tono bajo._
 
-En medio también hay una obra original fácilmente ignorada: 〈[Double](https://www.youtube.com/watch?v=WUKnbOlicps)〉 de 2000, con letra y música de Ji Zhong-ping (el arreglo pertenece a una fuente única interna de Linfair aún por verificar[^39]), tema principal del drama 《A Thousand Faces》 de Star Chinese Channel en Hong Kong. Esta canción demuestra que ella no era solo una receptora de versiones; esa misma voz también podía sostener un tema principal en posición de intérprete original. Pero no cruzó el umbral de la tasa de pedidos de KTV y lentamente se hundió entre las pistas vecinas del álbum.
+Había también una obra original fácil de ignorar en el medio: en 2000, "[Reemplazo](https://www.youtube.com/watch?v=WUKnbOlicps)", con letra y música de Ji Zhongping (la instrumentación pertenece a la fuente única interna de Fuhao, pendiente de verificación[^39]), era la canción temática de la serie de televisión "La chica de mil caras" del canal Chinese TV de Hong Kong. Esta canción demostraba que ella no era solo una receptora de versiones; la misma voz también podía sostener una canción temática en la posición de obra original, pero no cruzó el umbral de la tasa de solicitudes de KTV, hundiendo lentamente en las pistas del álbum vecino.
 
-《Huier Out of Print》 de 2003 fue el cierre de los cinco años en Linfair, y su título ya sugería una retirada. Desde ese disco en adelante, la muñeca Huier fue oficialmente jubilada de las portadas de Chou Hui[^11]. Para entonces, 〈Lonely City〉 ya llevaba un año estable en las máquinas de KTV.
+En 2003, "Hui'er fuera de catálogo" era el cierre de los cinco años en Fuhao, el nombre en sí mismo era una暗示 de salida. La muñeca cómica Hui'er se retiró oficialmente de las portadas de Where Chou a partir de este álbum[^11]. "Ciudad solitaria" ya se había mantenido firmemente en el karaoke de los KTV durante un año.
 
 <div
   class="video-embed"
   style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;"
 >
-  <iframe
+   <iframe
     src="https://www.youtube.com/embed/UBR_PKREysc"
-    title="周蕙 Where Chou - 寂寞城市 (官方版MV)"
+    title="Where Chou - Ciudad solitaria (MV Oficial)"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     loading="lazy"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-  ></iframe>
+   ></iframe>
 </div>
 
-_Chou Hui, 〈Lonely City〉, MV oficial de 2002. Letra: Yang Li-te / música: Yeh Liang-chun / arreglo: Chung Hsing-min. Inserta la soledad de la noche urbana en un arreglo de cuerdas y es un modelo estándar del pop de voces femeninas de Taipéi a comienzos de los años 2000._
+_MV oficial de 2002 de "Ciudad solitaria" de Where Chou. Letra: Yang Deli / Música: Ye Liangjun / Instrumentación: Zhong Xingmin. Pone la sensación de soledad de la noche urbana en la instrumentación de cuerdas, siendo el modelo estándar de la popularidad de las voces femeninas de Taipéi a principios de los 2000._
 
-Al mirar hacia atrás esos cinco años, el lugar de Chou Hui en Linfair queda claro: no era una artista explosiva de nivel diva, pero sí una cantante rentable y estable para la compañía. Con selección de canciones, versiones y esa voz no agresiva pero capaz de sujetar a la gente, sostuvo el tramo final de la era del disco físico.
+Mirando hacia atrás estos cinco años, la posición de Where Chou en la etapa de Fuhao era clara: no era una artista explosiva de nivel diva, pero era una cantante femenina que hacía ganar dinero firmemente a la compañía, apoyándose en la selección de canciones, en las versiones, en esa voz sin agresividad pero que atrapaba a la gente, sosteniendo el final de la era de los discos físicos.
 
 > **📝 Nota del curador**
-> Entre 1999 y 2003, la industria discográfica taiwanesa estaba en el último pico antes de la caída de la curva de ventas de CD físicos. Cuando Chou Hui debutó en 1999, todavía era una época en que “vender 500.000 copias de un disco era común”; para 2003, cuando las descargas digitales empezaban a erosionar el mercado, el plantel femenino de Linfair ya se había ajustado. Que Chou Hui pudiera lanzar cinco discos seguidos en esos cinco años, con al menos un tema principal de KTV en cada uno, es evidencia de éxito comercial. Pero como el tramo siguiente (el congelamiento de 2004-2007) fue demasiado dramático, la densidad de esos cinco años quedó tapada. Solo al revisar completa su discografía se advierte: no era una “cantante de una sola canción”; era una cantante de “un disco por año, cada uno con su ancla”. Solo que el aura de 〈Promise〉 era tan grande que cubrió a todas las demás canciones.
+> La industria discográfica de Taiwán entre 1999 y 2003 estaba en el último pico antes de la curva descendente de las ventas de CD físicos. Cuando Where Chou debutó en 1999, aún era una época en la que "vender 500.000 copias de un álbum era común"; para 2003, cuando las descargas digitales comenzaban a erosionar el mercado, el elenco de cantantes femeninas de Fuhao ya se había ajustado. El hecho de que Where Chou pudiera lanzar cinco álbumes en esos cinco años, con al menos un tema principal de KTV en cada uno, es evidencia de éxito comercial. Pero debido a la fuerte dramaticidad de la siguiente etapa (ocultamiento de 2004 a 2007), la densidad de estos cinco años fue cubierta. Al ver la discografía completa, uno descubre: no era una "cantante de una canción", era una "cantante de un álbum al año, con anclas en cada canción", solo que el halo de "Acuerdo" era tan grande que cubría las otras canciones.
 
-## Una hoja en blanco firmó tres años
+## Una hoja en blanco firmada por tres años
 
-La siguiente parte es la más dramática y más incómoda de la historia de Chou Hui. Ella misma no suele hablar demasiado de ella; pero algunos fragmentos han sido citados repetidamente por varios medios y ya son hechos públicamente verificables.
+Esta siguiente parte es la más dramática y embarazosa de la historia de Where Chou, y ella misma habla poco de ello. Pero algunos fragmentos han sido citados repetidamente en múltiples medios, siendo ya un hecho público y verificable.
 
-Cuando firmó con Linfair en 1999, Chou Hui también firmó con Ji Zhong-ping un contrato de representación de cinco años. En 2004, cuando terminó el contrato de cinco años con Linfair, Ji Zhong-ping le llevó una hoja para que la firmara y le dijo que era “solo una autorización simple necesaria para actuar en China continental”[^16].
+Cuando firmó con Fuhao en 1999, Where Chou y Ji Zhongping firmaron simultáneamente un contrato de management de 5 años. Cuando el contrato de 5 años de Fuhao terminó en 2004, Ji Zhongping le dio una hoja de papel para que firmara, diciéndole "es solo un simple formulario de consentimiento para ir a actuar en China continental"[^16].
 
-No era una autorización. Era un “poder para gestionar en su nombre”, que autorizaba a Ji Zhong-ping a transferirla de Linfair a BMG (luego fusionada como Sony BMG). Después de firmar, Ji tomó el adelanto de regalías y los costos de producción del nuevo contrato; según múltiples medios, la cifra rondaba los 24 millones de dólares taiwaneses[^16], y se llevó directamente el dinero.
+En realidad, no era un formulario de consentimiento. Era un "poder de gestión", autorizando a Ji Zhongping a transferir su contrato de Fuhao a BMG (luego fusionado con Sony BMG). Después de firmar, Ji Zhongping tomó los adelantos de regalías y tarifas de producción del nuevo contrato; el número reportado por múltiples medios fue de 24 millones de NTD[^16], y se llevó el dinero directamente.
 
-BMG fichó a la artista, pero no recibió el dinero para seguir invirtiendo, así que congeló a Chou Hui. De 2004 a 2007, pasó tres años completos sin poder publicar formalmente un disco. Más tarde, en entrevistas, dijo que en el momento más difícil sus ingresos mensuales quedaron en poco más de 1.000 dólares taiwaneses[^16].
+BMG firmó a la artista, pero no pudo obtener dinero para seguir invirtiendo, por lo que ocultó a Where Chou. De 2004 a 2007, no pudo lanzar álbumes oficiales durante tres años enteros. Ella dijo en una entrevista posterior que, en los momentos más difíciles, sus ingresos mensuales se redujeron a poco más de 1000 NTD[^16].
 
-Alrededor de 2007, su padre falleció[^17]. BMG finalmente publicó 《Bloom》 antes del vencimiento del contrato, y así terminaron aquellos tres años. Ella volvió a enfrentarse a la situación de no tener compañía.
+Alrededor de 2007, su padre falleció[^17]. BMG finalmente lanzó el último álbum "Florecer" antes de que expirara el contrato; el contrato de tres años terminó así, y ella enfrentó nuevamente la situación de no tener una casa discográfica.
 
 > **⚠️ Punto de vista controvertido**
-> La narrativa de “firmar un contrato en una hoja en blanco” no es rara en la historia contractual de artistas taiwaneses; desde los años 90 hasta los 2000 se difundieron tramas similares. Pero como muchas disputas contractuales terminan en acuerdos privados, y las demandas suelen cerrarse con cláusulas de confidencialidad, la versión que recibe el exterior siempre proviene de partes involucradas, entrevistas o relatos de segunda mano. En este caso, Chou Hui eligió no demandar ni romper públicamente con nadie. En una entrevista de 2024 dijo: “Creo que nadie tiene una vida completamente tranquila, porque la vida en sí no es perfecta”[^18]. Esa frase, en un titular periodístico, sonaría a consuelo motivacional; vista desde la situación real de 2007, cuando ganaba apenas mil dólares taiwaneses al mes, es una decisión silenciosa.
+> La narrativa de "firmar un contrato en una hoja en blanco" no es rara en la historia de los contratos de artistas en Taiwán, surgiendo sucesivamente desde los años 90 hasta los 2000. Pero como los conflictos contractuales generalmente terminaban en和解 (arreglos) privados y los litigios a menudo se sellaban con acuerdos de confidencialidad, la versión que el público obtiene es siempre la del interesado / entrevista / relato de segunda mano. Where Chou eligió no demandar, ni romper públicamente las relaciones. En una entrevista de 2024, dijo "Creo que no hay nadie que tenga un camino sin obstáculos, porque la vida ya es imperfecta por naturaleza"[^18]; esta frase puesta en un titular de noticias parecería sopa de pollo motivacional, pero puesta en la situación real de ingresos de mil yuanes de 2007, es una decisión silenciosa.
 
-Los medios originalmente la habían incluido en la lista de las “Cuatro pequeñas divas”, al mismo nivel que Jolin Tsai, Stefanie Sun y Elva Hsiao, y sus ventas sostenían ese marco[^21]. Durante el congelamiento de 2004, los medios incorporaron a Fish Leong como reemplazo en la lista; desde entonces, las “Cuatro pequeñas divas” ya no incluyeron a Chou Hui[^21]. En una entrevista de 2022, ella misma dijo que “siempre he tomado a estas tres cantantes como metas”[^22]; las tres eran Tsai, Hsiao y Sun, no ella misma.
+Originalmente fue colocada en la lista de "Las cuatro pequeñas divas" por los medios, junto con Jolin Tsai, Stefanie Sun y Vanessa Chien, y las ventas también sostenían este marco[^21]. Durante el ocultamiento de 2004, los medios reemplazaron a Willa Liu en la lista, y "Las cuatro pequeñas divas" nunca más incluyó a Where Chou[^21]. Ella misma dijo en una entrevista de 2022 que "siempre he considerado a estas tres cantantes femeninas como objetivos"[^22], las tres se referían a Tsai, Chien y Sun, no a sí misma.
 
-## De Group Stone a HIM: una cantante lenta que publica cada pocos años
+## De Qunshi a Hanyan: una cantante lenta que lanza un álbum cada pocos años
 
-En 2009, terminado el contrato de tres años con BMG, Chou Hui se incorporó a Group Stone International y publicó el álbum homónimo 《Chou Hui》, el primero de su regreso tras el congelamiento[^19]. Dos años después lanzó 《Her Own Room》 en 2011; en su período con Group Stone acumuló dos discos[^11]. Canciones como 〈Body Temperature〉, 〈Favorite〉 y 〈Not Loving Anymore Is Also a Kind of Love〉, que luego cantaría repetidamente en el Taipei Arena, se acumularon en su mayoría durante esa etapa. Una cantante recién salida del congelamiento reconstruía lentamente su lugar con el ritmo de un disco cada dos años.
+En 2009, expirado el contrato de tres años de BMG, Where Chou se unió a Qunshi International, lanzando el álbum homónimo "Where Chou", que era su primer álbum de regreso del período de ocultamiento[^19]. En los dos años siguientes, lanzó "Su propia habitación" en 2011, acumulando dos álbumes en la etapa de Qunshi[^11]. Canciones como "Temperatura corporal", "El amor más grande", "No amar también es un tipo de amor", que ella cantaría repetidamente en el futuro en el Estadio Pequeno de Taipei, fueron acumuladas en su mayoría en este período. Una cantante que acaba de salir del ocultamiento se recompuso lentamente con el ritmo de un álbum cada dos años.
 
-En 2013 se trasladó a HIM International Music, organizó la gira “First Promise” y lanzó 《The World I See》[^20]. El tema homónimo 〈The World I See〉 se convirtió en una canción habitual en sus conciertos posteriores a 2013, y todavía estaba en el repertorio del Taipei Arena en 2026.
+En 2013, se trasladó a Hanyan International, realizando la gira "El primer acuerdo", y lanzó "El mundo que veo"[^20]. El tema homónimo de este álbum, "El mundo que veo", se convirtió en una canción permanente de sus conciertos desde 2013, y aún estaba en el repertorio del Estadio Pequeno de Taipei de 2026.
 
 <div
   class="video-embed"
   style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;"
 >
-  <iframe
+   <iframe
     src="https://www.youtube.com/embed/uSF8M1jZ-Zk"
-    title="周蕙 Where Chou [我看見的世界 Beautiful World] Official MV HD"
+    title="Where Chou [El mundo que veo Beautiful World] MV Oficial HD"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     loading="lazy"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-  ></iframe>
+   ></iframe>
 </div>
 
-_Chou Hui, 〈The World I See〉, MV oficial de 2013. Tema principal del álbum homónimo en su etapa con HIM International Music. Fue la primera canción verdaderamente capaz de tomar como tema “qué he vivido exactamente en estos últimos años” después de salir del congelamiento._
+_MV oficial de 2013 de "El mundo que veo" de Where Chou. Tema principal del álbum homónimo en la etapa de Hanyan International. Esta canción era la primera que realmente podía usar el tema "¿qué he experimentado en estos últimos años?" después de salir del ocultamiento._
 
-Desde los 30 años, Chou Hui se convirtió en otra versión de cantante profesional: sin aura de debutante, sin posición de diva, una cantante que publica un disco cada varios años, realiza una gira cada varios años y camina lentamente. Los medios rara vez la tratan como tema candente, pero cada dos o tres años tiene obras nuevas. No desapareció; simplemente es lenta.
+A partir de los 30 años, Where Chou se convirtió en otra versión de cantante profesional: sin el halo de novata, sin la posición de diva, era una cantante que lanzaba un álbum cada pocos años, realizaba una gira cada pocos años, caminando lentamente. Los medios rara vez la trataban como un punto caliente, pero cada dos o tres años tenía nuevas obras. No había desaparecido, solo que era lenta.
 
-En mayo de 2020 se estrenó el drama de HBO Asia 《Workers》, donde interpretó a Pei-pei, una trabajadora temporal en una obra, víctima de violencia doméstica y capaz de cantar en el sitio de construcción[^40]. Fue una incursión activa desde su identidad de cantante hacia el lugar de actriz; en la serie tiene una escena cantando en una obra, un momento muy poco común de cruce entre cantante y drama. En noviembre del mismo año, su concierto “Strolling Under the Moonlight” en Taipéi agotó entradas y añadió una función[^31]. En 2022 lanzó 《The Time Not Forgotten 2》, la segunda entrega de su proyecto de versiones-homenaje, que se abordará por separado más adelante[^25].
+En mayo de 2020, la serie dramática de HBO Asia "Gente que trabaja" se emitió, donde ella interpretó a Peipei, una trabajadora temporal víctima de violencia doméstica que cantaba en la obra[^40]. Esta fue una posición de actriz que cruzó activamente desde su identidad de cantante. En la serie, hubo una escena en la que cantaba en la obra, un momento cruzado muy raro de cantante × drama. En noviembre del mismo año, realizó el concierto "Caminando bajo la luz de la luna" en Taipéi, agotando las entradas y añadiendo una función[^31]. En 2022, lanzó "El tiempo no olvidado 2", la segunda entrega del proyecto de homenaje de versiones, se hablará de ello por separado[^25].
 
-## Hacer versiones también es recrear
+## Las versiones también son re-creación
 
-La etiqueta de “cantante de versiones” acompañó a Chou Hui durante 25 años.
+La etiqueta de "cantante de versiones" acompañó a Where Chou durante 25 años.
 
-A los medios les resulta fácil describirla como alguien que “se hizo famosa toda la vida gracias a una versión”. En realidad, toda su discografía entrelaza canciones originales y versiones. 〈Double〉, 〈Body Temperature〉, 〈Don’t Want to Let You Know〉, 〈Lonely City〉 y 〈The World I See〉 son canciones originales suyas[^23], aunque la que más gente recuerda sigue siendo 〈Promise〉. Ella no combatió esa etiqueta; más bien eligió responderle de frente.
+Los medios la escribían fácilmente como "que se hizo popular para siempre gracias a una versión". En realidad, toda su discografía era una intercalación de obras originales y versiones; "Reemplazo", "Temperatura corporal", "No quiero que lo sepas", "Ciudad solitaria", "El mundo que veo" eran sus obras originales[^23], lo que más gente recuerda sigue siendo "Acuerdo". No luchó contra esta etiqueta, sino que eligió responder frontalmente.
 
-En 2018, con HIM, publicó 《The Time Not Forgotten》, un álbum completo de homenaje a cantantes taiwanesas de las décadas de 1960 a 1980, reinterpretando obras representativas de diez predecesoras: Teresa Teng, Fong Fei-fei, Yao Su-jung, Ou-yang Fei-fei, Jenny Tseng, Chang Li-min, Tracy Huang, Chen Chiu-hsia, Tsai Chin y Julie Su[^24]. Ella misma dijo que era la obra que “consideraba más difícil” desde su debut. El desafío no estaba en cantar las canciones, sino en cómo reinterpretar con oídos de 2018 una canción ya definida por sus intérpretes anteriores sin perder respeto. 〈The Moon Represents My Heart〉 de Teresa Teng, 〈The Forgotten Time〉 de Tsai Chin, 〈The Same Moonlight〉 de Julie Su: cada una trae su propio contexto histórico y la dicción de su intérprete original. Si un proyecto de versiones se limita a imitar, equivale a no hacerlo.
+En 2018, lanzó en Hanyan "El tiempo no olvidado", homenajeando a las cantantes femeninas de Taiwán de las décadas de 1960 a 1980, re-cantando las obras representativas de Teresa Teng, Fei Fei Feng, Yao Suchun, Fei Fei Ouyang, Ni Zhen, Li Min Zhang, Ying Ying Huang, Qiu Xia Chen, Tsai Qin, Su Rui, diez precursoras[^24]. Ella misma dijo que era la obra "de mayor dificultad" que se reconocía desde su debut. El desafío no estaba en cantar la canción, sino en cómo reinterpretar con los oídos de 2018 una canción ya definida por los antecesores sin perder el respeto. "Mi corazón lo representa" de Teresa Teng, "El tiempo olvidado" de Tsai Qin, "La misma luna oscura" de Su Rui, cada una traía su contexto de época original y el tono de la cantante original; hacer un proyecto de versiones solo como imitación era como no haber hecho nada.
 
 <div
   class="video-embed"
   style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;"
 >
-  <iframe
+   <iframe
     src="https://www.youtube.com/embed/g_VjS-iOcAU"
-    title="周蕙 Where Chou [ 被遺忘的時光 A Beautiful Lost Time ] Official Music Video"
+    title="Where Chou [El tiempo olvidado A Beautiful Lost Time] Video Musical Oficial"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     loading="lazy"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-  ></iframe>
+   ></iframe>
 </div>
 
-_Chou Hui versiona 〈The Forgotten Time〉, MV oficial de 2018, tema principal del álbum 《The Time Not Forgotten》. La versión original de Tsai Chin en el álbum homónimo de 1979 es uno de los modelos clásicos de la voz femenina taiwanesa; la versión de Chou Hui transforma el registro grave y de pecho de Tsai Chin en un tratamiento más cercano al registro medio y aireado, dejando más espacio para la sensación de distancia de la letra original._
+_Versión de versión de "El tiempo olvidado" de Where Chou, MV oficial de 2018, tema principal del álbum "El tiempo no olvidado". La versión del álbum homónimo de la cantante original Tsai Qin de 1979 es uno de los modelos clásicos de las voces femeninas de Taiwán. Esta versión de Where Chou convierte el grave torácico de la versión de Tsai Qin en un tratamiento de aire medio, dejando más espacio para la sensación de distancia de la letra original._
 
-En 2022 hizo 《The Time Not Forgotten 2》, continuando las versiones como un proyecto curatorial independiente[^25]. Con las dos entregas terminadas, dio una vuelta completa y se definió en el lugar de “cantante de versiones”, esta vez más como elección activa. Desde haber sido empujada en 1999 a las listas de KTV con una versión de Faye Wong, hasta convertir activamente las versiones en un proyecto de homenaje en 2018 y 2022, su relación con “hacer versiones” pasó de aceptación pasiva a curaduría activa. En una entrevista de TVBS de ese mismo año, cuando la periodista le preguntó si temía ser vista como “cantante de versiones”, respondió:
+En 2022, hizo nuevamente "El tiempo no olvidado 2", continuando las versiones como un proyecto de curadoría independiente[^25]. Al completar las dos entregas, dio la vuelta, definiéndose en la posición de "cantante de versiones", esta vez de una elección más activa. Desde 1999, cuando fue empujada a las listas de KTV gracias a la versión de Faye Wong, hasta 2018/2022, cuando hizo activamente de las versiones un proyecto de homenaje, su relación con el asunto de las "versiones" pasó de ser una aceptación pasiva a una curadoría activa. En una entrevista de TVBS del mismo año, un periodista le preguntó si le temía ser considerada una "cantante de versiones", ella respondió:
 
-> “Hay que agradecer aquel video sobre las ‘Cuatro pequeñas divas’; fue eso lo que me inspiró y me dio valentía para intentar desafiar ese popurrí de versiones en el concierto.”[^22]
+> "Debo agradecer por haber hecho antes un video de 'Las cuatro pequeñas divas', lo que me dio la inspiración para tener el valor de intentar desafiar esta suite de versiones en los conciertos."[^22]
 
-El subtexto de esa frase es que no tiene miedo. Aceptó la etiqueta y la convirtió en su método de trabajo.
+El subtexto de esta frase es que no le temía. Aceptó esta etiqueta, convirtiéndola en su método de trabajo.
 
 > **📝 Nota del curador**
-> La narrativa habitual de internet degrada la “versión” a una posición secundaria por debajo de la creación original, pero esa jerarquía es un producto de la comercialización de la escena musical en chino después de la década de 1980. En la era de las divas de las décadas de 1950 a 1970, Teresa Teng, Fong Fei-fei y Yao Su-jung podían incluir la misma 〈When Will You Return〉 en sus discos al mismo tiempo y nadie lo veía como un problema. En aquel momento, la “canción” era un bien común; la competencia entre “cantantes” estaba en la interpretación, no en la propiedad. Al hacer las dos entregas de 《The Time Not Forgotten》, Chou Hui recuperó y rehizo esa lógica interpretativa de aquella época: una misma canción, en una nueva era, tiene nuevos intérpretes, y eso no entra en conflicto con el original. Considerar la versión como lo opuesto a la creación es, en sí mismo, un problema anticuado.
+> La narrativa de internet común tiende a degradar las "versiones" a una posición secundaria por debajo de la originalidad, pero este estatus es un producto de la comercialización de la escena musical mandarina después de la década de 1980. En la era de las divas de las décadas de 1950-1970, Teresa Teng, Fei Fei Feng y Yao Suchun podían tener la misma "¿Cuándo volverás a venir?" incluida simultáneamente en sus tres álbumes, nadie lo consideraba un problema; la "canción" era un bien público, la competencia de las "cantantes" estaba en la interpretación, no en la propiedad. Where Chou hizo las dos entregas de "El tiempo no olvidado", equivalentes a tomar la lógica de interpretación de esa época y volver a hacerla: la misma canción, una nueva era tiene nuevos intérpretes, esto no entra en conflicto con la obra original. Considerar las versiones como el opuesto a la creación es en sí mismo un problema obsoleto.
 
-## Where X Go: un cruce disco a los 49 años
+## Where X se va: cruce de Disco a los 49 años
 
-En diciembre de 2025, Chou Hui dejó HIM International Music, regresó a Group Stone International —la compañía que en 2009 le había dado su primera oportunidad de volver— y publicó su 12.º álbum de lanzamiento formal, 《Where X Go》[^26].
+En diciembre de 2025, Where Chou dejó Hanyan y regresó a Qunshi International, que le dio la oportunidad de regresar por primera vez en 2009, lanzando su 12º álbum oficial "Where X se va"[^26].
 
-En esencia, ese álbum es una transformación de la identidad de Chou Hui: por primera vez asumió personalmente la producción ejecutiva, codirigió la producción completa junto con Wang Chao-chuan de la banda icyball y pasó de ser una cantante producida por otros a una cantante que decide cómo quiere ser escuchada. El álbum incluye nuevas canciones como 〈Go〉, 〈Sentimental Creature〉, 〈I Sing Alone〉, 〈Misunderstanding Song〉 y 〈Not Loving Anymore Is Also a Kind of Love〉. Chao Chuan, núcleo creativo de icyball, se encargó del arreglo disco del tema principal 〈Go〉. Para oyentes familiarizados con la posición de “voz femenina triste” que Chou Hui ocupó durante 26 años, fue un reinicio estilístico evidente: quería salir de la casilla de la máquina de baladas de KTV y probar una versión todavía no definida de sí misma.
+Este álbum es esencialmente una conversión de la identidad de Where Chou: fue la primera vez que se desempeñó como productora ejecutiva, colaborando con Wang Zhaoquan de la banda Iceball para dirigir toda la producción, pasando de una cantante producida a una cantante que decide cómo ser escuchada. El álbum incluye nuevas canciones como "Ir", "Seres sensibles", "Canto solo", "Canción de malentendido", "No amar también es un tipo de amor", entre otras, con la instrumentación Disco del tema principal "Ir" a cargo del líder de icyball, Zhao Quan. Para los oyentes que conocen la posición de "voz femenina triste" de los últimos 26 años de Where Chou, esto fue una reset de estilo evidente: quería salir de la caja del karaoke lírico de los KTV, probar una versión aún no definida.
 
 <div
   class="video-embed"
   style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;"
 >
-  <iframe
+   <iframe
     src="https://www.youtube.com/embed/ypzsoJeZDzg"
-    title="周蕙 Where Chou - 感性生物 (Official Music Video)"
+    title="Where Chou - Seres sensibles (Video Musical Oficial)"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     loading="lazy"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-  ></iframe>
+   ></iframe>
 </div>
 
-_Chou Hui, 〈Sentimental Creature〉, MV oficial de 2025, incluida en el álbum 《Where X Go》. A los 49 años, Chou Hui asumió por primera vez la producción ejecutiva y entró en el disco y en arreglos de cruce de géneros. El título “Sentimental Creature” es a la vez autodescripción y declaración: aflojar la etiqueta de “voz femenina triste” de los últimos 26 años y volver a ser una persona que todavía siente y todavía evoluciona._
+_MV oficial de 2025 de "Seres sensibles" de Where Chou, incluido en el álbum "Where X se va". Where Chou de 49 años se desempeña por primera vez como productora ejecutiva, cruzando al Disco y a la instrumentación de cruce de géneros. El título "Seres sensibles" es tanto una autodescripción como un anuncio: aflojar la etiqueta de "voz femenina triste" de los últimos 26 años, permitirse volver a ser alguien que aún siente, que aún evoluciona._
 
 > **💡 ¿Sabías que?**
-> Que una cantante de 49 años cruce por primera vez de género y asuma la producción ejecutiva no es algo raro en la escena musical en chino, pero dentro del marco de “Chou Hui”, definido durante 26 años por 〈Promise〉, es una elección estructural. Desde la muñeca de cómic que escondía el rostro humano en 1999, pasando por la reconciliación con la etiqueta mediante un proyecto de versiones-homenaje en 2018, hasta asumir la producción ejecutiva y entrar en el disco en 2025, su relación con “cómo la empaquetan” mudó de piel cada siete años.
+> Que una cantante femenina de 49 años cruce de género por primera vez y se desempeñe como productora ejecutiva no es raro en la escena musical mandarina, pero visto dentro del marco de "Where Chou" definido por "Acuerdo" durante 26 años, es una elección estructural. Desde 1999, cuando la muñeca de cómic ocultaba el rostro humano; en 2018, cuando hizo un proyecto de homenaje de versiones para reconciliarse con la etiqueta; hasta 2025, cuando se desempeñó como productora ejecutiva, cruzando al estilo Disco, su relación con "cómo la empacaban" se transformó cada siete años.
 
-## Un campo principal a ambos lados del estrecho sin tomar partido
+## El escenario principal de a ambos lados del estrecho sin tomar partido
 
-Después de la década de 2010, los cantantes taiwaneses de escala media comparten una pregunta de ruta: ¿ir o no ir al mercado chino? La respuesta de Chou Hui es ambigua pero concreta: fue, pero nunca se fue.
+Después de la década de 2010, los cantantes medianos de Taiwán tenían una ruta común: ¿ir al mercado de China continental? La respuesta de Where Chou era vaga pero específica: había ido, pero nunca se había ido.
 
-En 2014 fue mentora en la tercera temporada de 《The Voice of China》 de Zhejiang TV[^27]. En 2015 participó en la versión china continental de 《Hidden Singer》[^28]. El 18 de septiembre de 2016, en el estreno de la primera temporada de 《Masked Singer Guess Guess Guess》 de Jiangsu TV, subió al escenario con la máscara de “el reno cuando Santa Claus no está en casa” y fue descubierta en el tercer episodio; en la gala anual de esa misma temporada cantó 〈Love and Rainstorm〉 junto a Jacky Cheung[^29]. En 2024 apareció en el programa chino 《Time Concert》[^30].
+En 2014, fue mentora en la tercera temporada de "The Voice of China" de Zhejiang TV[^27]. En 2015, participó en la versión continental de "The Hidden Singer"[^28]. El 18 de septiembre de 2016, debutó en la primera temporada de "Masked Singer" de Jiangsu TV usando la máscara de "reno que Santa Claus no está en casa"; en el tercer episodio fue adivinada; en la gala anual del mismo temporada, cantó "Viento y lluvia de amor" junto con Jacky Cheung[^29]. En 2024, participó en el programa chino "Concierto del tiempo"[^30].
 
-Esos trabajos llevaron su voz a distintos públicos. Pero a diferencia de muchos colegas de la misma época, no se mudó a Beijing ni a Shanghái para desarrollarse, y nunca abandonó su campo principal taiwanés. En noviembre de 2020 realizó en Taipéi el concierto “Strolling Under the Moonlight”, agotó entradas y añadió una función[^31]; en septiembre de 2022, tras un aplazamiento, lo repuso en el Kaohsiung Music Center[^31]; en febrero de 2024 actuó con Johnny Chen, Chien Wen-pin y la National Symphony Orchestra en 《Big Player 3: Crossover Weiwuying Concert》 en la Ópera de Weiwuying[^32]; en mayo de ese mismo año realizó el concierto de 25.º aniversario de debut 《25》 en el Taipei Music Center[^33]. La distribución de sus espacios de concierto, desde recintos medianos previos al Taipei Arena (Taipei International Convention Center, Legacy, Kaohsiung Music Center), pasando por el concierto crossover de 2024 en la Ópera de Weiwuying, hasta el primer ataque al Taipei Arena en 2026, forma una escalera clara de espacios musicales taiwaneses, y cada peldaño está en Taiwán.
+Estas apariciones llevaron su voz a diferentes audiencias. Pero a diferencia de muchos colegas de la misma época, no se mudó a Beijing o Shanghai para desarrollarse, nunca se retiró del escenario principal de Taiwán. En noviembre de 2020, realizó el concierto "Caminando bajo la luz de la luna" en Taipéi, agotando las entradas y añadiendo una función[^31]; en septiembre de 2022, después de un aplazamiento, lo realizó en el Centro de Música Popular de Kaohsiung[^31]; en febrero de 2024, actuó con Xiao Chong, Jian Wenbin y la Orquesta Sinfónica Nacional en el Teatro de Ópera de Weiwuying en "Gran Jugador 3: Concierto de Música Transversal Weiwuying"[^32]; en mayo del mismo año, realizó el concierto de 25º aniversario "25" en el Centro de Música Popular de Taipéi[^33]. La distribución de los campos de conciertos de sus conciertos, desde los escenarios medianos antes del Estadio Pequeno de Taipei (Centro de Conferencias Internacionales de Taipéi, Legacy, Kaohsiung), hasta el concierto de música transversal en el Teatro de Ópera de Weiwuying en 2024, hasta el primer ataque al Estadio Pequeno de Taipei en 2026, es una escalera clara de campos musicales de Taiwán, cada escalón está en Taiwán.
 
-Por eso, el marco de “se fue a desarrollarse en China” no es preciso. Trabajó en China, pero sus espacios laborales y su centro de vida no se superpusieron. En la escena del pop taiwanés de las décadas de 2010 y 2020, esta posición no es rara; muchos cantantes de su generación adoptaron un modo de trabajo similar: “campo principal en Taiwán, trabajos a ambos lados del estrecho”. Solo que no es dramático, por lo que rara vez se escribe como narrativa principal. Los medios prefieren los marcos binarios de “irse a China” o “permanecer en lo local”, porque ambos son fáciles de escribir; pero la ecología real es que la mayoría de los cantantes viven en una zona gris entre esos dos polos, y Chou Hui es una muestra de ello.
+Por lo tanto, el marco de "se fue a desarrollar a China" es impreciso. Trabajó en China, pero el campo de trabajo y el centro de vida no se superponían. Esta es una posición que en realidad no es rara en la industria de la música pop de Taiwán de las décadas de 2010-2020; muchos cantantes de la misma generación adoptaron un trabajo similar de "escenario principal en Taiwán, apariciones a ambos lados del estrecho", solo que no es lo suficientemente dramático, por lo que rara vez se escribe como la narrativa principal. Los medios prefieren marcos binarios como "ir a desarrollarse a China" o "defender lo local", porque estas dos versiones son fáciles de escribir; pero la ecología real es que la mayoría de los cantantes viven en la zona gris entre estos dos extremos, y Where Chou es una de las muestras.
 
-## La sierra del 25 de abril en el Taipei Arena
+## La sierra del 25 de abril en el Estadio Pequeno de Taipei
 
-Sábado 25 de abril de 2026 por la noche, Taipei Arena.
+La noche del sábado 25 de abril de 2026, Estadio Pequeno de Taipei de Taipéi.
 
-Fue el primer concierto de Chou Hui en el Taipei Arena después de 27 años de carrera[^5]. El concierto se llamó 《Really Want to Love Chou Hui Well》; el diseño escénico estuvo a cargo de Li Shih-chi, diseñador habitual de los Golden Melody Awards y los Golden Horse Awards, y utilizó el concepto de caleidoscopio. La función duró tres horas y tuvo 25 canciones[^34]. Después de salir a la venta al mediodía del 22 de enero, las entradas se agotaron rápidamente y se añadió una función.
+Este era el primer concierto en el Estadio Pequeno de Taipei de Where Chou después de 27 años de debut[^5]. El concierto se llamaba "Quiero amar mucho a Where Chou", el diseño del escenario fue encargado al diseñador habitual de los Premios Golden Melody y Golden Horse, Li Shiqi, adoptando el concepto de caleidoscopio, toda la noche de 3 horas, 25 canciones[^34]. Después de la venta el 22 de enero al mediodía, las entradas se agotaron rápidamente, se añadió una función.
 
-![El 25 de abril de 2026, Chou Hui en el escenario del Taipei Arena durante el concierto 《Really Want to Love Chou Hui Well》, su primer ataque al Arena tras 27 años de debut](/article-images/music/zhou-hui-xiaojudan-2026.webp)
-_2026-04-25, Taipei Arena, concierto 《Really Want to Love Chou Hui Well》. Fair use editorial commentary. [Source via TVBS YouTube](https://www.youtube.com/watch?v=DXW6TkALWSE)._
+![Imagen del escenario del concierto "Quiero amar mucho a Where Chou" del 25 de abril de 2026 en el Estadio Pequeno de Taipei de Taipéi, primer ataque al estadio después de 27 años de debut](/article-images/music/zhou-hui-xiaojudan-2026.webp)
+_Concierto "Quiero amar mucho a Where Chou" en el Estadio Pequeno de Taipei de Taipéi el 25-04-2026. Comentario editorial de uso justo. [Fuente vía TVBS YouTube](https://www.youtube.com/watch?v=DXW6TkALWSE)._
 
-Durante las primeras nueve canciones, Chou Hui casi no habló. Subió y bajó en plataformas, se desplazó por el escenario y cantó de corrido acompañando los mecanismos escénicos. Después de la novena canción, finalmente dijo al público:
+En las primeras nueve canciones del inicio, Where Chou casi no habló. Subió y bajó, se movió, cantó continuamente配合 los mecanismos del escenario. Después de la novena canción, finalmente le dijo al público:
 
-> “¡Practiqué durante 26 años la frase ‘hola a todos’ en el Taipei Arena!”[^34]
+> "Decirles hola a todos en el Estadio Pequeno de Taipei, esta frase la he practicado durante 26 años!"[^34]
 
-> “Desde el inicio hasta ahora canté nueve canciones antes de hablar, y además tuve que desplazarme, usar todo tipo de mecanismos y plataformas, convertirme en cantante de canto y baile; ¡de verdad es agotador!”[^34]
+> "Desde el inicio hasta ahora canté nueve canciones antes de hablar, además de moverme y subir/bajar con varios mecanismos, convertirme en una cantante de baile, es realmente agotador!"[^34]
 
-> “¡Esto cuenta como el alunizaje de Chou Hui, no?”[^34]
+> "¡Esto cuenta como el alunizaje de Where Chou!"[^34]
 
-Cantó 〈Really Want to Love You Well〉, 〈Meeting Too Early〉, 〈Topic〉, 〈Curved Moonlight〉, 〈I Like〉, 〈Lonely City〉, 〈Passerby〉, 〈Don’t Cry〉, 〈Don’t Want to Let You Know〉, 〈I Want Your Love〉, 〈Body Temperature〉 y 〈The World I See〉, y cerró con 〈Promise〉[^34]. El repertorio comprimió 26 años de carrera en tres horas: la etapa Linfair, la primera etapa Group Stone, la etapa HIM y el segundo regreso a Group Stone. Las obras representativas de cuatro compañías discográficas aparecieron juntas esa misma noche.
+Cantó "Quiero amarte mucho", "El encuentro fue demasiado temprano", "Tema", "Luna curva", "Me gusta", "Ciudad solitaria", "Pasajero", "No llores", "No quiero que lo sepas", "Quiero tu amor", "Temperatura corporal", "El mundo que veo", y cerró con "Acuerdo"[^34]. Todo el repertorio comprimía 26 años de carrera en 3 horas: las obras representativas de las cuatro casas discográficas (Fuhao, primera vuelta de Qunshi, etapa de Hanyan, segunda vuelta de Qunshi) aparecieron juntas en una noche.
 
-Luego, antes del encore, leyó una carta a sus fans. En el último párrafo dijo que, a fines del mes anterior, en vísperas de su cumpleaños, sufrió un fuerte resfriado; después perdió la voz y, al consultar con médicos, descubrió que sus cuerdas vocales ya se habían atrofiado[^5]. Describió que sus cuerdas vocales ahora “se parecen mucho a una sierra”[^5], y que este concierto en el Taipei Arena pudo terminarlo apoyándose en la medicación recomendada por los médicos.
+Luego, antes del encore, leyó una carta escrita a los fans. En el último párrafo de la carta, dijo que a principios de mes, víspera de su cumpleaños, había contraído un resfriado grave, perdió la voz después, y al ir al médico descubrió que sus cuerdas vocales ya se habían atrofiado[^5]. Ella describía sus cuerdas vocales actuales como "parecidas a una sierra"[^5], este concierto en el Estadio Pequeno de Taipei fue completado con el apoyo de medicamentos recomendados por el médico.
 
-> “No sé si esta será la última vez que cante para ustedes, pero si el tratamiento funciona, seguiré cantando.”[^5]
+> "No sé si esta será la última vez que cante para ustedes, pero una vez que me cure, seguiré cantando."[^5]
 >
-> “Espero que podamos volver a vernos la próxima vez, ¿sí?”[^5]
+> "Espero que podamos vernos de nuevo la próxima vez, ¿sí?"[^5]
 
 <div
   class="video-embed"
   style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;"
 >
-  <iframe
+   <iframe
     src="https://www.youtube.com/embed/DXW6TkALWSE"
-    title="TVBS 新聞 2026-04-25 周蕙小巨蛋演唱會聲帶萎縮宣布"
+    title="Noticias TVBS 2026-04-25 Anuncio de atrofia de cuerdas vocales en el concierto del Estadio Pequeno de Taipei de Where Chou"
     style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;"
     loading="lazy"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen
-  ></iframe>
+   ></iframe>
 </div>
 
-_Noticia de TVBS del 2026-04-25 sobre el anuncio de atrofia de cuerdas vocales de Chou Hui al final de su concierto 《Really Want to Love Chou Hui Well》 en el Taipei Arena; incluye el registro completo en vivo de sus palabras en el escenario: “No sé si esta será la última vez que cante para ustedes”._
+_Nota de noticias de TVBS del 25-04-2026 que anuncia la atrofia de cuerdas vocales al final del concierto "Quiero amar mucho a Where Chou" en el Estadio Pequeno de Taipei de Taipéi; incluye el segmento completo de las palabras originales de la artista en el escenario "No sé si esta será la última vez que cante para ustedes"._
 
-Algunas personas en el público lloraron. Ella también lloró, pero volvió a recomponerse y siguió hasta terminar la última canción, 〈Promise〉, la misma que cerraba aquel recopilatorio de 1999 que escondía su rostro.
+Alguien en el público lloraba. Ella también lloró, pero se recuperó, y siguió cantando la última canción "Acuerdo", la misma canción que cerraba la recopilación de 1999 que ocultaba el rostro humano.
 
-> **✦** “No sé si esta será la última vez que cante para ustedes” sería tomada como frase teatral en boca de cualquier cantante de 27 años. En boca de Chou Hui, de 49 años, recién subida por primera vez al Taipei Arena y acabando de cantar 25 canciones propias, tiene un peso completamente distinto.
+> **✦** "No sé si esta será la última vez que cante para ustedes", esta frase puesta en la boca de cualquier cantante de 27 años sería considerada dramática. Puesta en la boca de Where Chou, de 49 años, actuando por primera vez en el Estadio Pequeno de Taipei, acabando de cantar 25 de sus propias canciones, el peso es completamente diferente.
 
-## Dos versiones de una misma canción
+## Dos versiones de la misma canción
 
-El cierre de 《Chou Hui Selection》 de 1999 era 〈Promise〉. Entonces la portada del álbum era una muñeca de cómic, la cantante no mostraba su rostro al público, y Chou Hui, de 22 años, todavía estaba probando si podía convertirse en cantante.
+El final de "Selecciones de Where Chou" de 1999 era "Acuerdo", en ese momento la portada del álbum era una muñeca de cómic, la cantante no mostraba su rostro al público, Where Chou de 22 años aún estaba probando si podía ser cantante.
 
-La canción de encore del Taipei Arena en 2026 también fue 〈Promise〉. Esta vez la portada era ella misma: Chou Hui, de 49 años, se paró por primera vez en el centro de aquel escenario que había practicado durante 26 años y dijo al público que tal vez fuera la última vez.
+El encore del Estadio Pequeno de Taipei de 2026 seguía siendo "Acuerdo", esta vez la portada era ella misma, Where Chou de 49 años estaba de pie por primera vez en el centro del escenario que había practicado durante 26 años, diciendo a la audiencia que esta podría ser la última vez.
 
-Entre ambos momentos hay 26 años, 12 álbumes de lanzamiento formal, ventas millonarias, disputas contractuales, congelamiento, regreso, álbumes de homenaje, el cruce musical en Weiwuying, producción ejecutiva propia, el primer ataque al Taipei Arena y una etiqueta de “cantante de versiones” que siempre la acompañó. Su respuesta a esa etiqueta fue convertirla, durante 25 años, en su propio método de trabajo.
+Entre medio hay 26 años, 12 álbumes oficiales, ventas de un millón, conflictos contractuales, ocultamiento, regreso, álbumes de homenaje, Weiwuying transversal, productora ejecutiva, primer ataque al Estadio Pequeno de Taipei, y una etiqueta de "cantante de versiones" que siempre la acompañó. Su respuesta a esta etiqueta fue convertirlo en su método de trabajo durante 25 años.
 
-La próxima vez que oyentes taiwaneses contemporáneos entren a un KTV, alguien en la sala pida 〈Promise〉, suene la introducción y todos tarareen la primera frase, conviene recordar que en esa canción existen dos versiones al mismo tiempo: la original cantonés de Faye Wong de 1997, y la versión en mandarín de 1999 con nueva letra de Yao Ruo-long, música de Chen Hsiao-hsia, arreglo de Chen Fei-wu e interpretación de Chou Hui. Que haya podido sostenerse 25 años en las máquinas de KTV sin caer de las listas se debe a que hubo una voz que siguió existiendo para ella.
+La próxima vez que el público contemporáneo de Taiwán entre en un KTV, alguien seleccione "Acuerdo", suene la introducción, y tararee la primera frase, recuerde que esta canción tiene dos versiones coexistiendo: la versión original cantonesa de Faye Wong de 1997, y la versión mandarina de 1999 con letra reescrita por Yao Ruolong, música de Chen Xiaoxia, instrumentación de Chen Feiwu, interpretada por Where Chou. Puede sostenerse en el karaoke de los KTV durante 25 años sin salir de las listas, porque hay una voz que existe continuamente para ella.
 
-**Lecturas complementarias**:
+**Lectura adicional**:
 
-- [Deserts Chang y Anpu](/music/張懸與安溥) — También como voz femenina taiwanesa, Anpu respondió con dos nombres artísticos a la pregunta de “de qué lado estar”; la elección de Chou Hui fue no elegir un lado
-- [Cultura KTV de Taiwán](/music/台灣KTV文化) — La edad dorada del KTV de fines de los años 90 a comienzos de los 2000 fue la base material que permitió a 〈Promise〉 caminar 25 años
-- [Pop taiwanés](/music/台灣流行音樂) — El surgimiento y disolución del marco de las “Cuatro pequeñas divas” en 1999 muestra un fragmento de la industrialización del pop en chino de los años 90
-- [Música pop y Golden Melody Awards](/music/金曲獎) — Chou Hui nunca ganó el Golden Melody a mejor cantante femenina, pero sus 25 años de carrera construyeron fuera del sistema Golden Melody otro indicador de longevidad
+- [Zhang Xuan y Anpu](/music/張懸與安溥) — También una voz femenina de Taiwán, Anpu responde a la pregunta de "¿de qué lado estás?" con dos nombres artísticos; la elección de Where Chou es no elegir un lado.
+- [Cultura de los KTV en Taiwán](/music/台灣KTV文化) — La época dorada de los KTV desde finales de la década de 1990 hasta principios de la de 2000 fue la base material para que "Acuerdo" avanzara durante 25 años.
+- [Música pop de Taiwán](/music/台灣流行音樂) — La generación y disolución del marco de "Las cuatro pequeñas divas" en 1999 presenta una rebanada de la industrialización de la música pop mandarina de los años 90.
+- [Premios Golden Melody](/music/金曲獎) — Where Chou nunca ganó el premio a la mejor cantante femenina en los Golden Melody, pero sus 25 años de carrera establecieron otro indicador de longevidad fuera del sistema de los Golden Melody.
 
 ## Fuentes de imágenes
 
-Este artículo usa capturas de 3 obras audiovisuales públicas, todas almacenadas en caché en `public/article-images/music/` para evitar enlaces directos a los servidores de origen. Todas pertenecen a **Fair use editorial commentary on the original work** (17 U.S.C. § 107 + artículo 65, inciso 4, de la Ley de Derecho de Autor; naturaleza educativa no comercial, proporción de cita pequeña, sin efecto sustitutivo sustancial en el mercado):
+Este artículo utiliza capturas de pantalla de 3 obras de imagen públicas, todas almacenadas en caché en `public/article-images/music/` para evitar servidores de origen con enlaces calientes. Todas pertenecen a **Comentario editorial de uso justo sobre la obra original** (Sección 107 de 17 U.S.C. + Artículo 65, Cuarta Cláusula de la Ley de Derechos de Autor, naturaleza educativa no comercial, proporción de cita pequeña, sin efecto de sustitución sustancial para el mercado):
 
-- [Captura del MV oficial de Chou Hui 〈Promise〉 de 1999](https://www.youtube.com/watch?v=Vd-mTkhiThI) — Photo: MV oficial de Linfair Records, 1999 / tema principal de la versión en mandarín de 《Chou Hui Selection》 / usado como ancla visual del hero
-- [Versión cantonés original de Faye Wong 〈Promise〉 de 1997](https://www.youtube.com/watch?v=gjC00DJPeLs) — Photo: incluida en el EP 《Toy》 de Faye Wong, 1997 / letra de Lin Xi / música de Chen Hsiao-hsia / usada para contrastar la genealogía de la versión en mandarín de Chou Hui
-- [Concierto de Chou Hui 2026 en el Taipei Arena 《Really Want to Love Chou Hui Well》](https://www.youtube.com/watch?v=DXW6TkALWSE) — Photo: imagen de noticia de TVBS en YouTube, 2026-04-25 / usada como eco visual del tramo final
+- [Captura del MV oficial de 1999 de "Acuerdo" de Where Chou](https://www.youtube.com/watch?v=Vd-mTkhiThI) — Foto: MV oficial de Fuhao Music, 1999 / Tema principal de la versión mandarina "Selecciones de Where Chou" / Usado como ancla visual heroica.
+- [Versión original cantonesa de "Acuerdo" de Faye Wong de 1997](https://www.youtube.com/watch?v=gjC00DJPeLs) — Foto: Incluido en el EP "Juguetes" de Faye Wong de 1997 / Letra de Lin Xi / Música de Chen Xiaoxia / Usado para对照 el linaje de la versión de versión mandarina de Where Chou.
+- [Concierto "Quiero amar mucho a Where Chou" en el Estadio Pequeno de Taipei de 2026](https://www.youtube.com/watch?v=DXW6TkALWSE) — Foto: Imagen de noticias de TVBS YouTube, 2026-04-25 / Usado para la呼应 visual del segmento de cierre.
 
 ## Referencias
 
-[^1]: [Wikipedia en chino: Chou Hui](https://zh.wikipedia.org/zh-tw/%E5%91%A8%E8%95%99) — Entrada de Chou Hui, registra su nacimiento el 1977-03-26 en Kaohsiung, graduación en 1996 del departamento de cine y teatro de la Escuela China de Artes, debut con Linfair en 1999 y cronología de cambios de discográfica; fuente de contraste SSOT para datos básicos.
+[^1]: [Wikipedia en chino: Where Chou](https://zh.wikipedia.org/zh-tw/%E5%91%A8%E8%95%99) — Artículo de Where Chou, registra nacido en Kaohsiung el 26-03-1977, graduado del Departamento de Teatro y Cine de la Escuela de Artes Zhonghua en 1996, debut en Fuhao en 1999, eje de tiempo de cambios de discográficas, es la fuente de comparación SSOT de los datos básicos.
 
-[^2]: [Yahoo News: entrevista a Chou Hui por su cumpleaños 40](https://tw.news.yahoo.com/%E9%82%84%E8%A8%98%E5%BE%97%E5%A5%B9%E5%97%8E%EF%BC%9F%E7%BE%8E%E8%81%B2%E5%A8%83%E5%A8%83%E5%91%A8%E8%95%9940%E6%AD%B2%E4%BA%86%EF%BC%81) — Reproducción de Sanlih / ETtoday de una entrevista de 2017 por el cumpleaños 40 de Chou Hui; menciona la cifra histórica de más de 250.000 copias vendidas en 45 días de 《Chou Hui Selection 2: Really Want to Love You Well》 y el motivo del diseño de portada con la muñeca Huier.
+[^2]: [Noticias de Yahoo: Entrevista del 40º cumpleaños de Where Chou](https://tw.news.yahoo.com/%E9%82%84%E8%A8%98%E5%BE%97%E5%A5%B9%E5%97%8E%EF%BC%9F%E7%BE%8E%E8%81%B2%E5%A8%83%E5%A8%83%E5%91%A8%E8%95%9940%E6%AD%B2%E4%BA%86%EF%BC%81) — Sanli / ETtoday retransmiten la entrevista del 40º cumpleaños de Where Chou de 2017, mencionando el número histórico de "Selecciones de Where Chou 2: Quiero amarte mucho" vendiendo más de 250.000 copias en 45 días y la razón del diseño de la portada de la muñeca Hui'er.
 
-[^3]: [Baidu Baike: Chou Hui](https://baike.baidu.com/item/%E5%91%A8%E8%95%99/1491539) — Entrada de Baidu Baike sobre Chou Hui, enumera el récord de ventas de 500.000 copias en Taiwán y más de un millón en Asia para el primer 《Chou Hui Selection》, además de la discografía completa; cotejada con Wikipedia en chino.
+[^3]: [Baidu Baike: Where Chou](https://baike.baidu.com/item/%E5%91%A8%E8%95%99/1491539) — Artículo de Baidu Baike de Where Chou, lista el registro de ventas de 500.000 copias en Taiwán y más de un millón en Asia del primer álbum "Selecciones de Where Chou" y la discografía completa, verificándose mutuamente con la Wikipedia en chino.
 
-[^4]: [KKBOX: Chou Hui 〈Promise〉](https://www.kkbox.com/tw/en/song/Wllbce6hHya3B8z5Ju) — Página de la canción 〈Promise〉 de Chou Hui en la plataforma de streaming KKBOX; prueba indirecta de su presencia actual en listas de reproducción tras 25 años de popularidad continua.
+[^4]: [KKBOX: Where Chou "Acuerdo"](https://www.kkbox.com/tw/en/song/Wllbce6hHya3B8z5Ju) — Página de la canción "Acuerdo" de la versión de Where Chou en la plataforma de streaming KKBOX, como evidencia colateral de que sigue en las listas de reproducción durante 25 años consecutivos.
 
-[^5]: [Yahoo News: Chou Hui revela en el Taipei Arena atrofia de cuerdas vocales](https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%91%A8%E8%95%99%E9%A9%9A%E7%88%86%E8%81%B2%E5%B8%B6%E8%90%8E%E7%B8%AE) — Reporte de TVBS / Yahoo del 2026-04-25; cita el discurso completo de Chou Hui al final del concierto en el Taipei Arena al anunciar atrofia de cuerdas vocales, incluyendo tres citas directas: “No sé si esta será la última vez que cante para ustedes”, “las cuerdas vocales se parecen mucho a una sierra” y “espero que podamos volver a vernos la próxima vez”.
+[^5]: [Noticias de Yahoo: Where Chou explota con atrofia de cuerdas vocales en el Estadio Pequeno de Taipei](https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%91%A8%E8%95%99%E9%A9%9A%E7%88%86%E8%81%B2%E5%B8%B6%E8%90%8E%E7%B8%AE) — Noticia de TVBS / Yahoo del 25-04-2026, cita el segmento completo de las palabras originales de Where Chou al final del concierto del Estadio Pequeno de Taipei anunciando la atrofia de cuerdas vocales, incluyendo las tres citas directas "No sé si esta será la última vez que cante para ustedes", "Las cuerdas vocales son parecidas a una sierra", "Espero que podamos vernos de nuevo la próxima vez".
 
-[^6]: [Mojim: letra de Chou Hui 〈Promise〉](https://mojim.com/usy100053x1x2.htm) — Mojim Lyrics incluye la letra completa de la versión en mandarín de 1999 de Chou Hui de 〈Promise〉, incluido el estribillo “dos mundos lejanos, cada vez más distantes”, fragmento de estribillo frecuentemente cantado en salas de KTV.
+[^6]: [Sitio de letras Mojim: Letras de "Acuerdo" de Where Chou](https://mojim.com/usy100053x1x2.htm) — El sitio de letras Mojim registra las letras completas de la versión mandarina de 1999 de "Acuerdo" de Where Chou, incluyendo el estribillo "Dos mundos lejanos, cada vez más lejanos", es el segmento de estribillo comúnmente cantado al unísono en las salas privadas de los KTV.
 
-[^7]: [Wikipedia en chino: Escuela China de Artes](https://zh.wikipedia.org/zh-tw/%E5%91%A8%E8%95%99) — El campo educativo de la entrada de Wikipedia de Chou Hui registra “departamento de cine y teatro de la Escuela Privada China de Artes de Kaohsiung”, graduación en 1996, coherente con Baidu Baike; la pista original de ARTICLE-INBOX “Datong High School / departamento de periodismo de Chinese Culture University” fue verificada como incorrecta.
+[^7]: [Wikipedia en chino: Escuela de Artes Zhonghua](https://zh.wikipedia.org/zh-tw/%E5%91%A8%E8%95%99) — El campo educativo del artículo de Wikipedia de Where Chou registra "Escuela de Artes Privada Zhonghua de Kaohsiung, Departamento de Teatro y Cine", graduada en 1996, consistente con Baidu Baike; la pista original de ARTICLE-INBOX "Gaoxiong High School / Departamento de Periodismo de la Universidad de Wenhua" fue verificada como errónea.
 
-[^8]: [Sina Entertainment: entrevista a Chou Hui](https://k.sina.cn/article_1749990115_684ebae3020013kxt.html) — Entrevista extensa de Sina Entertainment a Chou Hui en 2024; cita sus palabras sobre su aspiración inicial de “ir al Reino Unido a estudiar dirección teatral” y su mentalidad al aceptar el contrato discográfico de “primero experimentar”, clave para entender el marco de “no ansiedad” de toda su carrera.
+[^8]: [Entretenimiento de Sina: Entrevista profunda de Where Chou](https://k.sina.cn/article_1749990115_684ebae3020013kxt.html) — Entretenimiento de Sina de 2024 entrevista en profundidad a Where Chou, cita a Where Chou hablando de su aspiración inicial "ir al Reino Unido a estudiar dirección de teatro" y la mentalidad de "ir a experimentar primero" al aceptar el contrato discográfico, es la fuente clave para entender el marco "sin ansiedad" de toda su carrera.
 
-[^9]: [Sohu: Ji Zhong-ping y Chou Hui](https://www.sohu.com/a/828854093_121199684) — Artículo de Sohu de 2024 sobre la carrera musical de Ji Zhong-ping, incluidos los detalles de haber descubierto a Chou Hui en 1996, ficharla para Linfair, la estrategia del debut de 1999 con 《Chou Hui Selection》, la portada con la muñeca de cómic Huier y el concepto de “conquistar primero con la voz”.
+[^9]: [Sohu: Ji Zhongping y Where Chou](https://www.sohu.com/a/828854093_121199684) — Artículo de Sohu de 2024 sobre la carrera musical de Ji Zhongping, incluyendo descubrir a Where Chou en 1996, firmarla con Fuhao, debut en 1999 con la estrategia principal de "Selecciones de Where Chou", la portada de la muñeca cómica Hui'er, los detalles de la filosofía de diseño "ganar con la voz primero", etc.
 
-[^10]: [Yahoo News: Chou Hui explica el origen de la portada con la muñeca Huier](https://tw.news.yahoo.com/%E9%82%84%E8%A8%98%E5%BE%97%E5%A5%B9%E5%97%8E%EF%BC%9F%E7%BE%8E%E8%81%B2%E5%A8%83%E5%A8%83%E5%91%A8%E8%95%9940%E6%AD%B2%E4%BA%86%EF%BC%81) — Reproducción de Sanlih / ETtoday de una entrevista donde Chou Hui relata su falta de confianza en su apariencia y el origen de la estrategia inversa de Linfair de usar una muñeca de cómic y MV animado.
+[^10]: [Noticias de Yahoo: Where Chou habla de la razón de la portada de la muñeca Hui'er](https://tw.news.yahoo.com/%E9%82%84%E8%A8%98%E5%BE%97%E5%A5%B9%E5%97%8E%EF%BC%9F%E7%BE%8E%E8%81%B2%E5%A8%83%E5%A8%83%E5%91%A8%E8%95%9940%E6%AD%B2%E4%BA%86%EF%BC%81) — Sanli / ETtoday retransmiten la auto-relato de Where Chou en una entrevista sobre su falta de confianza en su apariencia, el origen de la estrategia inversa de Fuhao de usar una muñeca cómica + MV de animación.
 
-[^11]: [Apple Music: discografía completa de Chou Hui](https://music.apple.com/tw/artist/%E5%91%A8%E8%95%99/312520358) — Página de artista de Chou Hui en Apple Music; enumera la línea temporal completa de 12 álbumes: 1999 《Chou Hui Selection》 → 2000 《Chou Hui Selection 2》 → 2001 《Tonight I Cherish You More》 → 2002 《The One Who Loves Me, The One I Love》 → 2003 《Huier Out of Print》 → 2007 《Bloom》 → 2009 《Chou Hui》 → 2011 《Her Own Room》 → 2013 《The World I See》 → 2018 《The Time Not Forgotten》 → 2022 《The Time Not Forgotten 2》 → 2025 《Where X Go》; usada como SSOT de discografía.
+[^11]: [Apple Music: Discografía completa de Where Chou](https://music.apple.com/tw/artist/%E5%91%A8%E8%95%99/312520358) — Página de artista de Apple Music de Where Chou, lista el eje de tiempo completo de 12 álbumes de 1999 "Selecciones de Where Chou" → 2000 "Selecciones de Where Chou 2" → 2001 "Disfruta de esta noche" → 2002 "La persona que me ama, la persona que amo" → 2003 "Hui'er fuera de catálogo" → 2007 "Florecer" → 2009 "Where Chou" → 2011 "Su propia habitación" → 2013 "El mundo que veo" → 2018 "El tiempo no olvidado" → 2022 "El tiempo no olvidado 2" → 2025 "Where X se va", como SSOT de la discografía.
 
-[^12]: [Baidu Baike: Faye Wong 〈Promise〉 (versión cantonés de 1997)](https://baike.baidu.com/item/%E7%BA%A6%E5%AE%9A/2633155) — Entrada de la versión cantonés de 〈Promise〉 incluida por Faye Wong en el EP 《Toy》 de 1997; verifica letra de Lin Xi, música de Chen Hsiao-hsia, premio Canción Recomendada Profesional de Commercial Radio Hong Kong Ultimate 903 y premio a Mejor Letra Pop China en la 20.ª edición de los Top Ten Chinese Gold Songs.
+[^12]: [Baidu Baike: Faye Wong "Acuerdo" (versión cantonesa de 1997)](https://baike.baidu.com/item/%E7%BA%A6%E5%AE%9A/2633155) — Artículo de la versión cantonesa de "Acuerdo" incluido en el EP "Juguetes" de Faye Wong de 1997, verificado letra de Lin Xi, música de Chen Xiaoxia, Premio a la Canción Recomendada Profesional de Commercial Radio 903 de Hong Kong, Premio a la Mejor Letra de Pop Chino en la 20ª Edición de las Diez Grandes Canciones Chinas, etc.
 
-[^13]: [Baidu Baike: Chou Hui 〈Promise〉 (versión en mandarín de 1999)](https://baike.baidu.com/item/%E7%BA%A6%E5%AE%9A/2633138) — Entrada de la versión en mandarín de 1999 de Chou Hui de 〈Promise〉; verifica letra de Yao Ruo-long, música de Chen Hsiao-hsia (conserva la melodía de la versión de Faye Wong), arreglo de Chen Fei-wu y condición de tema principal de 《Chou Hui Selection》.
+[^13]: [Baidu Baike: Where Chou "Acuerdo" (versión mandarina de 1999)](https://baike.baidu.com/item/%E7%BA%A6%E5%AE%9A/2633138) — Artículo de la versión mandarina de "Acuerdo" de Where Chou de 1999, verificado letra de Yao Ruolong, música de Chen Xiaoxia (mantiene la melodía de la versión de Faye Wong), instrumentación de Chen Feiwu, tema principal de "Selecciones de Where Chou", etc.
 
-[^14]: [YouTube: MV oficial de Chou Hui 〈Promise〉](https://www.youtube.com/watch?v=Vd-mTkhiThI) — Versión en YouTube del MV oficial de 〈Promise〉, tema principal de 《Chou Hui Selection》 de 1999; usada para contrastar detalles interpretativos de la versión en mandarín.
+[^14]: [YouTube: MV oficial de Where Chou "Acuerdo"](https://www.youtube.com/watch?v=Vd-mTkhiThI) — Versión de YouTube del MV oficial de la canción principal "Acuerdo" de "Selecciones de Where Chou" de Where Chou de 1999, como对照 de los detalles de interpretación de la versión mandarina.
 
-[^15]: [Wikipedia en chino: Chen Hsiao-hsia](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E5%B0%8F%E9%9C%9E) — Entrada de la compositora Chen Hsiao-hsia; enumera obras representativas como 〈If the Flower Leaves the Branch〉 de Stella Chang, 〈Comprehension〉 de Winnie Hsin y las dos versiones de 〈Promise〉 de Faye Wong y Chou Hui; una de las compositoras taiwanesas más importantes de las décadas de 1980 y 1990.
+[^15]: [Wikipedia en chino: Chen Xiaoxia](https://zh.wikipedia.org/zh-tw/%E9%99%B3%E5%B0%8F%E9%9C%9E) — Artículo de la compositora Chen Xiaoxia, lista obras representativas como "Si la flor se desprende del tallo" de Fang I-ching, "Comprensión" de Hsiao Chih-chi, las dos versiones de "Acuerdo" de Faye Wong y Where Chou, es una de las compositoras femeninas más importantes de Taiwán en las décadas de 1980-1990.
 
-[^16]: [Mundo de Xia Xiaoqiang: historia del congelamiento de Chou Hui por la compañía](https://www.xiaxiaoqiang.net/zhouhui-has-been-hid-by-company/.html) — Artículo de 2024 que relata en segunda mano cómo en 2004 Chou Hui fue engañada por su exmánager para firmar un “poder para gestionar en su nombre”, transferida a BMG, con 24 millones de dólares taiwaneses llevados por el mánager y un ingreso mensual de poco más de 1.000 durante el congelamiento; fuente secundaria principal de la narrativa contractual, con cifras citadas con cautela.
+[^16]: [Mundo de Xia Xiaoqiang: El principio y el final de Where Chou siendo ocultada por la compañía](https://www.xiaxiaoqiang.net/zhouhui-has-been-hid-by-company/.html) — Artículo de 2024 que relata el eje de tiempo del evento de Where Chou en 2004 siendo engañada por su ex-mánager para firmar un "poder de gestión", transfiriendo el contrato a BMG y llevándose 24 millones de NTD, y los ingresos mensuales de poco más de 1000 NTD durante el período de ocultamiento; es la principal fuente secundaria de la narrativa de conflictos contractuales; los números específicos se citan con hedge.
 
-[^17]: [Sohu: fallecimiento del padre de Chou Hui y período de congelamiento](https://www.sohu.com/a/828854093_121199684) — Artículo de Sohu que describe durante el congelamiento en BMG el fallecimiento del padre de Chou Hui y la ruptura con su pareja; el año exacto varía entre fuentes entre 2007 / 2009 / 2011, por lo que este artículo usa la formulación imprecisa “alrededor de 2007” para evitar error de fuente única.
+[^17]: [Sohu: Fallecimiento del padre de Where Chou y el período de ocultamiento](https://www.sohu.com/a/828854093_121199684) — Artículo de Sohu que narra los eventos específicos del fallecimiento del padre de Where Chou y la ruptura con el novio durante el período de ocultamiento de BMG, pero el año exacto tiene tres versiones entre diferentes fuentes (2007 / 2009 / 2011), este artículo adopta la expresión vaga de "alrededor de 2007" para evitar errores de una sola fuente.
 
-[^18]: [Sina Entertainment: visión de vida de Chou Hui](https://k.sina.cn/article_1749990115_684ebae3020013kxt.html) — Entrevista de Sina de 2024 que recoge frases originales de Chou Hui como “Creo que nadie tiene una vida completamente tranquila, porque la vida en sí no es perfecta” y “por qué debería vivir bajo la mirada de otros”, declaraciones de actitud al recordar el período de congelamiento.
+[^18]: [Entretenimiento de Sina: Filosofía de vida de Where Chou](https://k.sina.cn/article_1749990115_684ebae3020013kxt.html) — Entrevista de Sina de 2024 registra las palabras originales de Where Chou "Creo que no hay nadie que tenga un camino sin obstáculos, porque la vida ya es imperfecta por naturaleza", "¿Por qué debería vivir bajo la mirada de los demás?", etc., declaraciones de actitud sobre el período de ocultamiento.
 
-[^19]: [Apple Music: álbum homónimo de Chou Hui de 2009](https://music.apple.com/tw/artist/%E5%91%A8%E8%95%99/312520358) — Apple Music registra el álbum homónimo 《Chou Hui》 de 2009 tras incorporarse a Group Stone International, usado como ancla del primer disco de regreso tras el congelamiento en BMG.
+[^19]: [Apple Music: Álbum homónimo de Where Chou de 2009](https://music.apple.com/tw/artist/%E5%91%A8%E8%95%99/312520358) — Apple Music registra el álbum homónimo "Where Chou" lanzado por Where Chou después de unirse a Qunshi International en 2009, como ancla de la primera devolución del período de ocultamiento de BMG.
 
-[^20]: [HIM International Music: registro de gira de Chou Hui](https://www.him.com.tw/albumcon.php?cid=343) — Página oficial de HIM International Music que registra la gira “First Promise” tras la incorporación de Chou Hui en 2013 y el lanzamiento del álbum 《The World I See》.
+[^20]: [Hanyan International: Registro de giras de Where Chou](https://www.him.com.tw/albumcon.php?cid=343) — Página oficial de Hanyan International registra que después de unirse a Hanyan en 2013, Where Chou realizó la gira "El primer acuerdo" y lanzó el álbum "El mundo que veo".
 
-[^21]: [Baidu Baike: Cuatro pequeñas divas](https://baike.baidu.com/item/%E5%9B%9B%E5%B0%8F%E5%A4%A9%E5%90%8E/79433) — Entrada del término “Cuatro pequeñas divas”; registra que la lista original incluía a Chou Hui, Jolin Tsai, Stefanie Sun y Elva Hsiao, y que durante el congelamiento por disputa contractual de Chou Hui en 2004 fue reemplazada por Fish Leong, evolución histórica del marco.
+[^21]: [Baidu Baike: Las cuatro pequeñas divas](https://baike.baidu.com/item/%E5%9B%9B%E5%B0%8F%E5%A4%A9%E5%90%8E/79433) — Artículo de término "Las cuatro pequeñas divas", registra que la lista original era Where Chou, Jolin Tsai, Stefanie Sun, Vanessa Chien, la evolución del marco histórico de ser reemplazada por Willa Liu durante el período de ocultamiento de conflictos contractuales de Where Chou en 2004.
 
-[^22]: [TVBS News: entrevista a Chou Hui](https://news.tvbs.com.tw/entertainment/1943459) — Entrevista de TVBS del 2022-10-25 a Chou Hui; cita sus frases “no temo ser vista como cantante de versiones” y “siempre he tomado a estas tres cantantes (Jolin Tsai / Elva Hsiao / Stefanie Sun) como metas”.
+[^22]: [Noticias de TVBS: Entrevista de Where Chou](https://news.tvbs.com.tw/entertainment/1943459) — Entrevista de Where Chou de TVBS del 25-10-2022, cita las dos palabras originales de Where Chou "no le teme ser considerada una cantante de versiones" y "siempre he considerado a estas tres cantantes femeninas (Jolin Tsai / Vanessa Chien / Stefanie Sun) como objetivos".
 
-[^23]: [Books.com.tw: presentación del álbum de Chou Hui 《The Time Not Forgotten》](https://www.books.com.tw/products/0020207141) — Página de producto de Books.com.tw del álbum de versiones-homenaje 《The Time Not Forgotten》, publicado por HIM en 2018; verifica la lista de canciones y el homenaje a diez cantantes taiwanesas de las décadas de 1960 a 1980: Teresa Teng, Fong Fei-fei, Yao Su-jung, Ou-yang Fei-fei, Jenny Tseng, Chang Li-min, Tracy Huang, Chen Chiu-hsia, Tsai Chin y Julie Su.
+[^23]: [Fogonglai: Introducción del álbum "El tiempo no olvidado" de Where Chou](https://www.books.com.tw/products/0020207141) — Página de producto de Fogonglai carga la lista de canciones del álbum de homenaje de versiones "El tiempo no olvidado" lanzado por Hanyan en 2018, verificando el homenaje a diez precursoras de las décadas de 1960-1980: Teresa Teng, Fei Fei Feng, Yao Suchun, Fei Fei Ouyang, Ni Zhen, Li Min Zhang, Ying Ying Huang, Qiu Xia Chen, Tsai Qin, Su Rui.
 
-[^24]: [HIM International Music: página oficial de 《The Time Not Forgotten》](https://www.him.com.tw/albumcon.php?cid=343) — Página oficial del álbum 《The Time Not Forgotten》 publicado por HIM en 2018; proporciona lista completa de canciones y destinatarias del homenaje.
+[^24]: [Hanyan International: Página oficial de "El tiempo no olvidado"](https://www.him.com.tw/albumcon.php?cid=343) — Página oficial del álbum "El tiempo no olvidado" lanzado por Hanyan International en 2018, proporciona la lista completa de pistas y la lista de objetos de homenaje.
 
-[^25]: [Apple Music: 《The Time Not Forgotten 2》](https://music.apple.com/tw/artist/%E5%91%A8%E8%95%99/312520358) — Apple Music registra 《The Time Not Forgotten 2》 de Chou Hui de 2022, continuación del proyecto de versiones-homenaje, segunda entrega del mismo marco.
+[^25]: [Apple Music: "El tiempo no olvidado 2"](https://music.apple.com/tw/artist/%E5%91%A8%E8%95%99/312520358) — Apple Music registra que "El tiempo no olvidado 2" de Where Chou en 2022 continúa el proyecto de homenaje de versiones, es la segunda entrega del mismo marco.
 
-[^26]: [Carture: presentación del álbum 《Where X Go》](https://www.carture.com.tw/others/article/39107-) — Artículo de Carture del 2026-01-06 que presenta el álbum 《Where X Go》 de Chou Hui, publicado en diciembre de 2025; verifica detalles como la producción ejecutiva asumida por Chou Hui, la colaboración con Wang Chao-chuan de icyball y el cruce hacia el estilo disco.
+[^26]: [Che Shi Wen Hua: Introducción del álbum "Where X se va"](https://www.carture.com.tw/others/article/39107-) — Artículo de Che Shi Wen Hua del 06-01-2026 introduce el álbum "Where X se va" lanzado por Where Chou en diciembre de 2025, verificando los detalles de Where Chou como productora ejecutiva, colaboración con Wang Zhaoquan de la banda Iceball, y cruce al estilo Disco.
 
-[^27]: [Wikipedia en chino: tercera temporada de The Voice of China](https://zh.wikipedia.org/zh-tw/%E5%91%A8%E8%95%99) — La sección de actividades de la entrada de Chou Hui en Wikipedia registra su participación como mentora en 《Return to the Peak》 de la tercera temporada de 《The Voice of China》 de Zhejiang TV en 2014.
+[^27]: [Wikipedia en chino: The Voice of China Temporada 3](https://zh.wikipedia.org/zh-tw/%E5%91%A8%E8%95%99) — El segmento de experiencias de actividades del artículo de Wikipedia de Where Chou registra la identidad de mentora en la tercera temporada "De vuelta a la cima" de "The Voice of China" de Zhejiang TV en 2014.
 
-[^28]: [Wikipedia en chino: actividades de Chou Hui](https://zh.wikipedia.org/zh-tw/%E5%91%A8%E8%95%99) — La entrada de Chou Hui en Wikipedia registra su participación en 2015 en el cuarto episodio de la versión china continental de 《Hidden Singer》 como cantante original.
+[^28]: [Wikipedia en chino: Experiencias de actividades de Where Chou](https://zh.wikipedia.org/zh-tw/%E5%91%A8%E8%95%99) — El artículo de Wikipedia de Where Chou registra que en 2015 participó en la cuarta temporada de la versión continental de "The Hidden Singer" como cantante original.
 
-[^29]: [Wikipedia en chino: primera temporada de Masked Singer Guess Guess Guess](<https://zh.wikipedia.org/zh-tw/%E8%92%99%E9%9D%A2%E5%94%B1%E5%B0%86%E7%8C%9C%E7%8C%9C%E7%8C%9C_(%E7%AC%AC%E4%B8%80%E5%AD%A3)>) — Entrada de Wikipedia de la primera temporada de 《Masked Singer Guess Guess Guess》 de Jiangsu TV; verifica que Chou Hui se presentó con la máscara de “el reno cuando Santa Claus no está en casa” en el estreno del 2016-09-18, fue descubierta en el tercer episodio del 10-02 y cantó 〈Love and Rainstorm〉 con Jacky Cheung en la gala anual.
+[^29]: [Wikipedia en chino: Masked Singer Temporada 1](<https://zh.wikipedia.org/zh-tw/%E8%92%99%E9%9D%A2%E5%94%B1%E5%B0%86%E7%8C%9C%E7%8C%9C%E7%8C%9C_(%E7%AC%AC%E4%B8%80%E5%AD%A3)>) — Artículo de Wikipedia de la primera temporada de "Masked Singer" de Jiangsu TV, verifica que Where Chou debutó con la máscara de "reno que Santa Claus no está en casa" el 18-09-2016, fue adivinada en el 3er episodio el 02-10, y cantó "Viento y lluvia de amor" con Jacky Cheung en la gala anual.
 
-[^30]: [Sina Entertainment: actividad reciente de Chou Hui](https://k.sina.cn/article_1749990115_684ebae3020013kxt.html) — Entrevista de Sina que menciona la participación de Chou Hui en 2024 en la grabación del programa chino 《Time Concert》; fuente complementaria para el marco de actividades a ambos lados del estrecho.
+[^30]: [Entretenimiento de Sina: Actividad reciente de Where Chou](https://k.sina.cn/article_1749990115_684ebae3020013kxt.html) — Entrevista de Sina menciona que Where Chou participó en la grabación del programa chino "Concierto del tiempo" en 2024, como fuente suplementaria del marco de actividades a ambos lados del estrecho.
 
-[^31]: [Carture: registro de conciertos de Chou Hui](https://www.carture.com.tw/others/article/40460-) — Artículo de Carture de abril de 2026 que repasa el concierto “Strolling Under the Moonlight” en Taipéi con función adicional en 2020-11 y la reposición de 2022-09 en el Kaohsiung Music Center.
+[^31]: [Che Shi Wen Hua: Registro de conciertos de Where Chou](https://www.carture.com.tw/others/article/40460-) — Artículo de Che Shi Wen Hua de 2026-04 retrospectiva el registro de conciertos de Where Chou: la función añadida de "Caminando bajo la luz de la luna" en Taipéi en noviembre de 2020, la realización en el Centro de Música Popular de Kaohsiung en septiembre de 2022 después de un aplazamiento.
 
-[^32]: [Wikipedia en chino: Chou Hui](https://zh.wikipedia.org/zh-tw/%E5%91%A8%E8%95%99) — La sección de actividades de la entrada de Chou Hui en Wikipedia registra la presentación de 2024-02 de 《Big Player 3: Johnny Chen & Chien Wen-pin & Chou Hui Crossover Weiwuying Concert》 en la Ópera de Weiwuying.
+[^32]: [Wikipedia en chino: Where Chou](https://zh.wikipedia.org/zh-tw/%E5%91%A8%E8%95%99) — El segmento de registro de actividades del artículo de Wikipedia de Where Chou registra que en febrero de 2024, "Gran Jugador 3: Concierto de Música Transversal Xiao Chong & Jian Wenbin & Where Chou" se actuó en el Teatro de Ópera de Weiwuying.
 
-[^33]: [Wikipedia en chino: conciertos de Chou Hui 2024](https://zh.wikipedia.org/zh-tw/%E5%91%A8%E8%95%99) — La entrada de Chou Hui en Wikipedia registra el concierto 《25》 por el 25.º aniversario de debut, realizado en 2024-05 en el Taipei Music Center.
+[^33]: [Wikipedia en chino: Concierto de Where Chou 2024](https://zh.wikipedia.org/zh-tw/%E5%91%A8%E8%95%99) — El artículo de Wikipedia de Where Chou registra que en mayo de 2024, el concierto de 25º aniversario "25" se realizó en el Centro de Música Popular de Taipéi.
 
-[^34]: [Ben Lin Marketing: reseña del concierto de Chou Hui en el Taipei Arena](https://benlinmarketing.com/2026/04/26/whtpa26/) — Artículo de Ben Lin Marketing del 2026-04-26 que registra completo el concierto 《Really Want to Love Chou Hui Well》 en el Taipei Arena: tres horas, 25 canciones, repertorio, concepto de caleidoscopio del diseñador escénico Li Shih-chi y frases de Chou Hui en el escenario como “practiqué 26 años” y “el alunizaje de Chou Hui”.
+[^34]: [Banlin Marketing: Reseña del concierto del Estadio Pequeno de Taipei de Where Chou](https://benlinmarketing.com/2026/04/26/whtpa26/) — Artículo de Banlin Marketing del 26-04-2026 registra completamente el repertorio de 3 horas y 25 canciones del concierto del Estadio Pequeno de Taipei "Quiero amar mucho a Where Chou", el concepto de caleidoscopio del diseñador de escenarios Li Shiqi, y las palabras originales de Where Chou en el escenario "practicado durante 26 años", "¡El alunizaje de Where Chou!", etc.
 
-[^36]: [KKBOX: página de Chou Hui 〈Don’t Want to Let You Know〉](https://www.kkbox.com/tw/album/Pjk0084dJqJtsZJWyTpd008H-index.html) — Página de KKBOX de la canción 〈Don’t Want to Let You Know〉; verifica letra de Yao Chien / música de Chen Wen-hua y Chou Ping-hsing, incluida en 《Chou Hui Selection》 de 1999.
+[^36]: [KKBOX: Página de la canción "No quiero que lo sepas" de Where Chou](https://www.kkbox.com/tw/album/Pjk0084dJqJtsZJWyTpd008H-index.html) — KKBOX registra la página de la canción "No quiero que lo sepas", verificando letra de Yao Qian / música de Chen Wenhua, Zhou Bingxing, incluido en "Selecciones de Where Chou" de 1999.
 
-[^37]: [YouTube: MV oficial de Chou Hui 〈Body Temperature〉](https://www.youtube.com/watch?v=PGpcKF3hfO4) — MV oficial de 〈Body Temperature〉 en el canal oficial Chou Hui Where Chou; la descripción del video verifica letra de Wang Yu-tsung / música de Victor Wong / arreglo de Wu Ching-lung, tema principal de 《The One Who Loves Me, The One I Love》 de 2002.
+[^37]: [YouTube: MV oficial de Where Chou "Temperatura corporal"](https://www.youtube.com/watch?v=PGpcKF3hfO4) — MV oficial de la versión de Where Chou del canal oficial de "Temperatura corporal", descripción del video verificada letra de Wang Yuzong / música de Huang Pingguan / instrumentación de Wu Qinglong, tema principal de "La persona que me ama, la persona que amo" de 2002.
 
-[^38]: [YouTube: MV oficial de Chou Hui 〈Lonely City〉](https://www.youtube.com/watch?v=UBR_PKREysc) — MV oficial de 〈Lonely City〉 en el canal oficial Chou Hui Where Chou; la descripción del video verifica letra de Yang Li-te / música de Yeh Liang-chun / arreglo de Chung Hsing-min, tema principal de 《The One Who Loves Me, The One I Love》 de 2002.
+[^38]: [YouTube: MV oficial de Where Chou "Ciudad solitaria"](https://www.youtube.com/watch?v=UBR_PKREysc) — MV oficial de la versión de Where Chou del canal oficial de "Ciudad solitaria", descripción del video verificada letra de Yang Deli / música de Ye Liangjun / instrumentación de Zhong Xingmin, tema principal de "La persona que me ama, la persona que amo" de 2002.
 
-[^39]: [YouTube: MV oficial de Chou Hui 〈Double〉](https://www.youtube.com/watch?v=WUKnbOlicps) — MV oficial de 〈Double〉 en el canal oficial Chou Hui Where Chou, tema principal del drama 《A Thousand Faces》 de Star Chinese Channel en Hong Kong en 2000; letra y música atribuidas por sitios de letras en línea a Ji Zhong-ping, pero sin verificación directa de datos oficiales de Linfair, por lo que se marca como fuente única.
+[^39]: [YouTube: MV oficial de Where Chou "Reemplazo"](https://www.youtube.com/watch?v=WUKnbOlicps) — MV oficial de la versión de Where Chou del canal oficial de "Reemplazo", tema de la serie de televisión "La chica de mil caras" del canal Chinese TV de Hong Kong en 2000; letra y música según sitios de letras de internet son de Ji Zhongping, pero los datos oficiales de canciones de Fuhao Music no verifican directamente, listado como single-source.
 
-[^40]: [Wikipedia en chino: Workers](<https://zh.wikipedia.org/zh-tw/%E5%81%9A%E5%B7%A5%E7%9A%84%E4%BA%BA_(%E9%9B%BB%E8%A6%96%E5%8A%87)>) — Entrada de Wikipedia del drama 《Workers》; verifica estreno en HBO Asia el 2020-05-10 y el papel de Chou Hui como Pei-pei (trabajadora temporal víctima de violencia doméstica que canta en la obra).
+[^40]: [Wikipedia en chino: Gente que trabaja](<https://zh.wikipedia.org/zh-tw/%E5%81%9A%E5%B7%A5%E7%9A%84%E4%BA%BA_(%E9%9B%BB%E8%A6%96%E5%8A%87)>) — Artículo de Wikipedia de la serie de televisión "Gente que trabaja", verifica el debut de HBO Asia el 10-05-2020, Where Chou interpreta a Peipei (trabajadora temporal víctima de violencia doméstica, cantaba en la obra).

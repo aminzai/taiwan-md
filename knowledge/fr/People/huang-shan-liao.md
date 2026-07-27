@@ -19,10 +19,10 @@ readingTime: 12
 lastVerified: 2026-06-07
 lastHumanReview: false
 translatedFrom: 'People/黃山料.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:7ecc75e3d3f02f0a'
+sourceCommitSha: '00939ce5'
+sourceContentHash: 'sha256:0b1bdd0cdf3b8705'
 translatedAt: '2026-06-16T16:54:51Z'
-sourceBodyHash: 'sha256:0d3c13e2c5763c28'
+sourceBodyHash: 'sha256:a1e88d45df841409'
 image: '/article-images/people/huang-shan-liao-portrait-2025.webp'
 imageCredit: '鏡週刊（fair use editorial commentary）'
 imageLicense: 'Fair use editorial commentary'

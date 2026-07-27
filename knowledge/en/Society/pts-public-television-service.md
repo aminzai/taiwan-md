@@ -19,9 +19,9 @@ lastVerified: 2026-05-27
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/公視.md'
-sourceCommitSha: 'fe48ea49'
-sourceContentHash: 'sha256:0005eee4bd863414'
-sourceBodyHash: 'sha256:de293f816b2012e3'
+sourceCommitSha: '81f10131'
+sourceContentHash: 'sha256:5d55767b0e73ce88'
+sourceBodyHash: 'sha256:55150dbbe846399a'
 translatedAt: '2026-06-22T00:30:00+08:00'
 image: '/article-images/society/pts-building-b-2024.webp'
 imageCredit: 'Yu tptw / Wikimedia Commons'

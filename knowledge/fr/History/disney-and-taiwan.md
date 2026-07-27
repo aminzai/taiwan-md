@@ -1,179 +1,179 @@
 ---
-title: 'Disney et Taïwan : de la sous-traitance de Wang Film au regret de Yamay, un voyage fantastique dans la localisation des IP'
-description: 'De Wang Film Productions, surnommée le « Disney d’Orient » pour avoir soutenu une grande partie de l’animation hollywoodienne à partir des années 1980, aux deux occasions manquées avec Disneyland, en passant par Toy Story 3 qui avait un temps prévu de situer son intrigue à Taïwan et par l’image localisée de Stitch à scooter, les liens entre Taïwan et Disney sont bien plus profonds et variés qu’on ne l’imagine.'
+title: "Disney et Taïwan : Du travail de sous-traitance de Hung Kuang aux regrets de Yue Mei, en passant par l'adaptation locale des IP"
+description: "Dans les années 1980, l'entreprise Hung Kuang Cartoon de Xindian assurait près d'un tiers de la production mondiale d'animation, méritant le surnom de « Disney de l'Est ». Taïwan a frôlé à deux reprises l'implantation d'un parc Disney, dont le projet de Yue Mei à Taichung dans les années 1990 a échoué en raison des conditions liées au développement foncier et à une gare TGV dédiée. Dans le premier scénario de *Toy Story 3*, le personnage de Buzz Lightyear, défectueux, devait être renvoyé à Taïwan pour réparation. De l'âge d'or de la sous-traitance à Stitch à moto, ce lien est plus profond qu'on ne l'imagine."
 date: 2026-06-26
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '社會與日常史'
 tags:
   [
     'Disney',
-    'Wang Film Productions',
-    'sous-traitance d’animation',
+    'Hung Kuang',
+    "sous-traitance d'animation",
     'histoire de Taïwan',
-    'Lihpao Land',
+    'parc Lihpao',
     'Disney Channel',
     'Toy Story 3',
     'Han Kuo-yu',
-    'Disney à Kaohsiung',
+    'Disney Kaohsiung',
     'Stitch',
     'Marvel',
     'comédiens de doublage',
-    'Stanley Yen',
+    'Yen Chang-shou',
   ]
-readingTime: 10
+subcategory: '社會與日常史'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-26
 lastHumanReview: false
-featured: false
+readingTime: 10
 translatedFrom: 'History/迪士尼.md'
-sourceCommitSha: '1ed7ed388'
+sourceCommitSha: '154c45e8b'
 sourceContentHash: 'sha256:5cc3c5f96a34e51e'
 sourceBodyHash: 'sha256:ad7b91e555067f88'
-translatedAt: '2026-06-27T00:54:19+08:00'
+translatedAt: '2026-07-26T08:13:11+08:00'
 ---
 
-> **Aperçu en 30 secondes :** Les liens entre Taïwan et Disney sont bien plus profonds, et plus légendaires, que beaucoup ne l’imaginent. De l’âge d’or de la sous-traitance d’animation aux deux occasions manquées avec Disneyland, en passant par Toy Story 3 qui avait un temps prévu de situer son intrigue à Taïwan et par l’image localisée de Stitch à scooter, ces histoires témoignent non seulement du rôle singulier de Taïwan sur la scène internationale, mais aussi d’un chapitre fantastique où la culture taïwanaise s’entrelace avec la magie Disney.
+> **En 30 secondes :** Le lien entre Taïwan et Disney est bien plus profond et légendaire que beaucoup ne l'imaginent. Des années fastes de la sous-traitance d'animation aux deux occasions manquées d'implanter un parc Disney, en passant par le projet initial de _Toy Story 3_ qui prévoyait Taïwan comme décor, jusqu'à l'image localisée de Stitch à moto, ces récits témoignent non seulement du rôle unique de Taïwan sur la scène internationale, mais illustrent également un chapitre fantastique où la culture taïwanaise s'entremêle à la magie de Disney.
 
-Les liens entre Taïwan et Disney sont bien plus profonds, et plus légendaires, que beaucoup ne l’imaginent. Cette relation ne se limite pas à l’âge d’or de la sous-traitance d’animation : elle s’étend aussi à la localisation des IP, à l’exportation d’une culture du doublage, aux débats sur les modèles commerciaux, et même aux programmes électoraux de responsables politiques. L’ensemble compose un voyage fantastique, à la fois surprenant, regretté et étroitement connecté.
+Le lien entre Taïwan et Disney est bien plus profond et légendaire que beaucoup ne l'imaginent. Cette relation ne se limite pas aux années fastes de la sous-traitance d'animation ; elle s'étend à l'adaptation locale des IP, à l'exportation de la culture du doublage, à l'analyse des modèles commerciaux, et va jusqu'aux programmes politiques de figures politiques, tissant ensemble un voyage fantastique fait de surprises et de regrets, mais inextricablement lié.
 
-## Taïwan fut autrefois le « Disney d’Orient » : les artisans de l’ombre des classiques animés
+## Taïwan, autrefois le « Disney de l'Est » : le moteur invisible des animations classiques
 
-Des années 1980 aux années 1990, Taïwan fut surnommée le « Disney d’Orient » : l’expression n’avait rien d’exagéré. Wang Film Productions, société d’animation située dans l’arrondissement de Xindian, à Nouveau Taipei, était alors le plus grand atelier de sous-traitance d’animation au monde en volume de production, assurant près d’un tiers de la production animée mondiale [^1]. Durant cet âge d’or, les animateurs taïwanais, grâce à leur maîtrise technique, ont donné vie à d’innombrables classiques Disney.
+Dans les années 1980 et 1990, Taïwan était surnommé le « Disney de l'Est », et ce n'était pas un titre vain. Située dans le district de Xindian, à New Taipei, l'entreprise Hung Kuang Cartoon était alors le plus grand atelier de sous-traitance d'animation au monde en termes de volume de production, assurant près d'un tiers de la fabrication d'animations à l'échelle mondiale [^1]. Durant cette période faste, les animateurs taïwanais ont insufflé la vie à d'innombrables animations classiques de Disney grâce à leur maîtrise exceptionnelle.
 
-### L’empreinte taïwanaise de la Renaissance Disney
+### L'empreinte taïwanaise sur la Renaissance Disney
 
-De nombreux longs métrages classiques de la Renaissance Disney, comme La Petite Sirène, Aladdin, Le Roi lion et même Mulan, ont vu leurs celluloïds dessinés à la main être minutieusement réalisés, trait par trait, par des animateurs taïwanais [^1] [^7]. Ce fut non seulement une fierté pour l’industrie taïwanaise de l’animation, mais aussi une trace indélébile laissée par Taïwan dans l’histoire mondiale de l’animation.
+De nombreux longs-métrages classiques de la période de la Renaissance Disney, tels que _La Petite Sirène_, _Aladdin_, _Le Roi Lion_ et même _Mulan_, ont vu leurs cels peints à la main réalisés pixel par pixel par des animateurs taïwanais [^1] [^7]. Cela constitue non seulement la fierté de l'industrie de l'animation taïwanaise, mais a également laissé une trace indélébile dans l'histoire mondiale de l'animation.
 
-> 📝 Note curatoriale : quand nous nous émerveillons devant les scènes grandioses du Roi lion, peu de gens savent que ces images sont en réalité sorties de la pointe des crayons d’innombrables animateurs taïwanais, travaillant jour et nuit dans un atelier de sous-traitance à Xindian. C’est une forme invisible d’exportation culturelle, et l’une des meilleures preuves du soft power taïwanais.
+> 📝 Note du conservateur : Lorsque nous sommes émerveillés par les scènes grandioses de _Le Roi Lion_ sur nos écrans, peu de gens savent que ces images proviennent en réalité des stylos d'innombrables animateurs taïwanais travaillant jour et nuit dans un atelier de sous-traitance à Xindian. Il s'agit d'une exportation culturelle invisible, la meilleure preuve de la soft power de Taïwan.
 
-### L’âme taïwanaise de Mulan
+### L'âme taïwanaise de _Mulan_
 
-Il faut aussi mentionner que Chang Chen-yi, principal character designer du film d’animation Disney Mulan, était un animateur taïwanais né et formé à Taïwan. Il a intégré avec finesse une esthétique orientale à la structure animée de Disney, donnant à Mulan non seulement une tonalité visuelle orientale singulière, mais permettant aussi aux publics du monde entier de découvrir, à travers le regard de Disney, le charme de la culture chinoise [^1] [^9].
+Il convient de mentionner que Zhang Zhenyi, principal concepteur de personnages de l'animation Disney _Mulan_, est un animateur taïwanais de naissance. Il a intégré avec habileté l'esthétique orientale dans la structure squelettique de l'animation Disney, faisant de _Mulan_ non seulement une œuvre visuellement dotée d'une saveur orientale unique, mais permettant également au public mondial de découvrir le charme de la culture chinoise à travers le prisme de Disney [^1] [^9].
 
-## Tron : la surprise en chinois traditionnel au générique
+## _Tron_ : la surprise des caractères chinois traditionnels au générique de fin
 
-En 1982, Disney sortit Tron, premier film de science-fiction de l’histoire du cinéma à combiner massivement des effets spéciaux informatiques. Dans la seconde moitié du film, une grande partie du travail de rotoscopie lumineuse et de colorisation manuelle des celluloïds fut également réalisée avec beaucoup d’efforts par les animateurs taïwanais de Wang Film Productions, à Xindian [^1] [^11].
+En 1982, Disney a sorti _Tron_, le premier film de science-fiction de l'histoire cinématographique à combiner massivement des effets spéciaux informatiques. La seconde partie du film, avec ses nombreuses illustrations lumineuses et sa colorisation manuelle sur cels, a également été réalisée avec soin par les animateurs taïwanais de Hung Kuang à Xindian [^1] [^11].
 
-Pour remercier ces artisans de l’ombre, Disney fit une exception et imprima directement les vrais noms des animateurs taïwanais en « chinois traditionnel » dans le générique de fin d’un film hollywoodien. C’était extrêmement rare dans le cinéma international de l’époque : non seulement cela reconnaissait le professionnalisme des animateurs taïwanais, mais c’est aussi devenu un épisode marquant de l’histoire de la coopération entre Taïwan et Hollywood [^1] [^11].
+Pour remercier ces héros de l'ombre, Disney a fait une exception en imprimant directement les noms propres des animateurs taïwanais en « chinois traditionnel » dans le générique de fin (End Credits) du film hollywoodien. Une pratique extrêmement rare sur la scène internationale de l'époque, cette décision a non seulement validé le professionnalisme des animateurs taïwanais, mais est devenue une belle page de l'histoire de la coopération entre Taïwan et Hollywood [^1] [^11].
 
-## Deux rendez-vous manqués avec Disneyland
+## Deux occasions manquées avec le « Parc Disney »
 
-Taïwan a manqué à deux reprises l’occasion de construire un parc Disneyland. Ce n’est pas une légende urbaine : les faits sont bien documentés [^2] [^3] [^4] [^5].
+Taïwan a manqué à deux reprises l'opportunité d'implanter un parc Disney. Il ne s'agit pas d'une légende urbaine, mais d'un fait avéré [^2] [^3] [^4] [^5].
 
-### Première fois : la rivalité avec Tokyo dans les années 1970 et les efforts de Stanley Yen
+### Première occasion : la course contre Tokyo dans les années 1970 et les efforts de Yen Chang-shou
 
-Dans les années 1970, lorsque Disney planifiait son premier parc étranger en Asie, Taipei et Tokyo figuraient toutes deux dans la liste finale d’évaluation. Stanley Yen, alors directeur général d’American Express à Taïwan, analysa activement auprès de Disney les atouts de Taïwan, comme un prix du foncier inférieur à celui du Japon et une localisation géographique avantageuse [^5] [^20]. Toutefois, en raison du contrôle des changes alors en vigueur à Taïwan et d’infrastructures de transport encore insuffisantes, c’est finalement Tokyo, au Japon, qui fut retenue comme site du premier Disneyland asiatique [^5] [^21].
+Dans les années 1970, alors que Disney planifiait la première parc de loisirs à l'étranger en Asie, Taipei et Tokyo figuraient simultanément sur la liste finale d'évaluation. À l'époque, M. Yen Chang-shou, alors directeur général d'American Express, a activement analysé les atouts de Taïwan auprès de Disney, soulignant par exemple un prix du foncier moins élevé qu'au Japon et une position géographique avantageuse [^5] [^20]. Cependant, en raison des politiques de contrôle des changes de Taïwan et de l'insuffisance des infrastructures de transport, Tokyo a finalement été retenue, devenant le siège de la première parc Disney d'Asie [^5] [^21].
 
-### Deuxième fois : le regret de Yamay dans les années 1990
+### Deuxième occasion : le regret de Yue Mei dans les années 1990
 
-Dans les années 1990, alors que l’économie taïwanaise décollait, le gouvernement chercha activement à attirer Disney dans la « grande zone de loisirs de Yamay », à Houli, Taichung, prédécesseur de l’actuel Lihpao Land. Disney formula alors des conditions annexes extrêmement strictes, comprenant des droits de développement sur les terrains alentour, une gare dédiée de train à grande vitesse, et une participation financière élevée. Mais dans un contexte où les lois et les institutions taïwanaises restaient relativement conservatrices, le gouvernement ne put accepter intégralement ces conditions. À cela s’ajouta l’évaluation par Disney d’un bassin touristique domestique insuffisant à Taïwan, ce qui fit de nouveau échouer la coopération [^2] [^3] [^4] [^5].
+Dans les années 1990, avec l'essor économique de Taïwan, le gouvernement a activement cherché à attirer Disney pour s'installer dans la « Zone de loisirs de grande envergure de Yue Mei » à Houli, Taichung (qui est désormais le parc Lihpao). Disney a alors proposé des conditions annexes extrêmement strictes, incluant les droits de développement des terres environnantes, une gare TGV dédiée aux liaisons extérieures, et une participation actionnariale en capital élevée. Cependant, dans un contexte de réglementations taïwanaises et de systèmes relativement conservateurs, le gouvernement n'a pas pu accepter toutes ces conditions. De plus, l'évaluation de Disney indiquant un manque de population touristique locale a conduit à l'échec de cette coopération [^2] [^3] [^4] [^5].
 
-> 📝 Note curatoriale : ces deux rendez-vous manqués avec Disneyland ressemblent à des regrets, mais ils reflètent aussi les réalités politiques et économiques de Taïwan à différentes époques. Du contrôle des changes aux limites réglementaires, ces obstacles témoignent des douleurs de la transformation sociale taïwanaise, tout en invitant à réfléchir à l’équilibre entre grands investissements internationaux et développement local.
+> 📝 Note du conservateur : Ces deux occasions manquées avec le parc Disney, bien que regrettables, reflètent également la réalité politique et économique de Taïwan à différentes époques. Du contrôle des changes aux restrictions réglementaires, ces obstacles témoignent des douleurs de la transition de la société taïwanaise et nous invitent à réfléchir sur l'équilibre entre les investissements internationaux majeurs et le développement local.
 
-## Toy Story 3 a failli se dérouler à Taïwan : le voyage de rappel de Buzz l’Éclair
+## _Toy Story 3_ aurait pu avoir Taïwan pour décor : le voyage de rappel de Buzz Lightyear
 
-Un fait peu connu est que, dans les premières versions du scénario du film d’animation Pixar Toy Story 3, Taïwan devait jouer un rôle important dans l’intrigue. Dans une version précoce développée entre 2004 et 2006 par Circle 7 Animation, studio alors rattaché à Disney, l’histoire prévoyait que Buzz l’Éclair tombe en panne et doive être renvoyé à Taïwan, son « lieu d’origine », pour réparation [^12] [^13] [^14].
+Il est peu connu que, dans la conception initiale du scénario du film d'animation Pixar _Toy Story 3_, Taïwan était prévu comme un élément central de l'intrigue. Dans la version précoce développée par le studio Circle 7 Animation de Disney entre 2004 et 2006, l'intrigue était centrée sur le personnage de Buzz Lightyear (Buzz Lightyear) tombant en panne et devant être renvoyé à son « lieu de production », Taïwan, pour y être réparé [^12] [^13] [^14].
 
-Pour sauver Buzz l’Éclair rappelé par le fabricant, Woody et les autres jouets devaient traverser l’océan jusqu’à Taïwan et se lancer dans une mission de sauvetage pleine de périls. Même si ce scénario ne fut finalement pas retenu après la relance de la relation entre Pixar et Disney, cette idée révélait de manière inattendue l’importance de Taïwan dans les chaînes d’approvisionnement manufacturières mondiales, ainsi que le rôle singulier que l’île pouvait jouer dans la culture populaire [^12] [^13] [^15].
+Pour secourir Buzz Lightyear rappelé, Woody et les autres compagnons de jouets devaient traverser l'océan pour se rendre à Taïwan et mener une mission de sauvetage périlleuse. Bien que ce scénario n'ait finalement pas été retenu en raison de la reprise de la coopération entre Pixar et Disney, cette idée a révélé de manière inattendue l'importance de Taïwan dans la chaîne d'approvisionnement de la fabrication mondiale, ainsi que le rôle unique qu'il pourrait jouer dans la culture populaire [^12] [^13] [^15].
 
-## La promesse d’un Disney à Kaohsiung : l’écart entre espoir et réalité
+## Le programme politique Disney Kaohsiung : de l'espoir à la déception de la réalité
 
-Ces dernières années, des élus locaux taïwanais ont également proposé d’attirer un parc Disneyland. La proposition la plus remarquée fut sans doute le projet de « Disney à Kaohsiung » avancé par l’ancien maire de Kaohsiung Han Kuo-yu pendant sa campagne électorale de 2018. Il promit alors, s’il était élu, de travailler activement à l’implantation d’un parc Disneyland à Kaohsiung afin de stimuler le développement touristique [^16] [^17].
+Ces dernières années, les dirigeants locaux de Taïwan ont également proposé des programmes politiques visant à introduire un parc Disney. L'un des plus remarqués est la conception du « Disney Kaohsiung » proposée par l'ancien maire de Kaohsiung, Han Kuo-yu, lors de sa campagne de 2018. À l'époque, il s'est engagé à activement争取 l'implantation du parc Disney à Kaohsiung s'il était élu, afin de stimuler le développement de l'industrie touristique [^16] [^17].
 
-Cette promesse rencontra toutefois de nombreuses difficultés dans sa mise en œuvre concrète. En mai 2020, Han Kuo-yu admit que le projet d’attirer Disneyland était « difficile » et déclara être prêt à retirer cette proposition de campagne. Il expliqua que l’ampleur des investissements nécessaires pour un parc Disneyland était considérable, et que les exigences en matière de développement foncier alentour et d’infrastructures de transport étaient très élevées ; les conditions de Kaohsiung à l’époque ne permettaient pas d’y répondre pleinement [^16] [^17] [^18] [^19]. Cet épisode mit une nouvelle fois en évidence les défis auxquels se heurte l’implantation d’un grand parc à thème international à Taïwan : il ne s’agit pas seulement de capitaux et de terrains, mais aussi de réglementations complexes, d’infrastructures et d’évaluation du marché.
+Cependant, ce programme politique a rencontré de nombreuses difficultés dans sa mise en œuvre. En mai 2020, Han Kuo-yu a admis que le projet d'implantation du parc Disney était « difficile », déclarant qu'il était prêt à retirer ce programme politique. Il a expliqué que l'investissement dans un parc Disney est massif et impose des exigences élevées en matière de développement foncier périphérique et de construction de transports ; les conditions de Kaohsiung à l'époque ne pouvaient pas les satisfaire pleinement [^16] [^17] [^18] [^19]. Cet incident a une nouvelle fois mis en lumière les défis auxquels l'implantation d'un grand parc de loisirs international à Taïwan est confrontée, défis qui ne se limitent pas aux fonds et au foncier, mais impliquent également des réglementations complexes, des infrastructures et l'évaluation du marché.
 
-## Le travail de long terme autour des IP localisées et des licences de produits à Taïwan
+## L'exploitation à long terme des IP et des licences de produits à Taïwan
 
-Même sans parc physique, l’économie des IP Disney à Taïwan s’est développée sur le long terme et en profondeur. Disney dispose à Taïwan d’activités spécifiques de licence pour les produits de consommation, couvrant jouets, vêtements, papeterie, produits alimentaires, cosmétiques et de nombreuses autres catégories. L’entreprise coopère depuis longtemps avec des fabricants taïwanais pour intégrer la magie Disney dans la vie quotidienne des habitants de Taïwan [^22].
+Même sans parc physique, l'exploitation économique des IP de Disney à Taïwan est longue et approfondie. Disney dispose à Taïwan d'une业务 de licences de produits de consommation dédiée, couvrant une multitude de catégories telles que les jouets, les vêtements, la papeterie, l'alimentation et la cosmétique. Il collabore depuis longtemps avec des fabricants taïwanais pour intégrer la magie de Disney dans la vie quotidienne des Taïwanais [^22].
 
-### Stitch et l’empreinte de la culture taïwanaise du scooter
+### L'empreinte de la culture moto taïwanaise sur Stitch
 
-Un cas particulièrement parlant est celui de l’image localisée de Stitch. À Taïwan, des produits sous licence ont représenté Stitch conduisant un scooter et portant un casque, associant ce personnage adorable venu de l’espace à la culture taïwanaise singulière du deux-roues motorisé [^23] [^24]. Ce type d’adaptation locale est même devenu par la suite une référence pour Disney dans l’adaptation de ses IP sur des marchés comme l’Asie du Sud-Est ou l’Amérique latine, montrant l’influence du marché taïwanais sur la stratégie IP de Disney [^22].
+Un cas particulier est celui de l'image localisée de Stitch (Stitch). À Taïwan, des produits sous licence ont vu le jour représentant Stitch montant une moto et portant un casque de sécurité, combinant ce personnage mignon venu de l'espace avec la culture moto unique de Taïwan [^23] [^24]. Cette adaptation locale est devenue, par la suite, un exemple de référence pour l'adaptation des IP de Disney sur les marchés de l'Asie du Sud-Est et de l'Amérique latine, démontrant l'influence du marché taïwanais sur les stratégies d'IP de Disney [^22].
 
-### Une salle de sport Marvel : une collaboration transsectorielle inédite au monde
+### Le gymnaste à thème Marvel : une collaboration transfrontalière mondiale en première
 
-Ces dernières années, Disney a aussi mené des collaborations innovantes avec des marques locales taïwanaises. Par exemple, la marque taïwanaise Fitness Factory a coopéré avec Marvel en juillet 2024 pour créer le premier espace de sport à thème Marvel au monde [^25] [^26]. Cette collaboration intègre l’énergie des super-héros dans un espace de fitness, permettant au public de découvrir l’univers Marvel en faisant du sport. Elle incarne la stratégie d’économie des IP de Disney : « faire rêver même sans parc ».
+Ces dernières années, Disney a également activement collaboré avec des marques locales taïwanaises pour des innovations. Par exemple, la marque de fitness locale taïwanaise « Fitness Factory » a collaboré avec Marvel en juillet 2024 pour créer le premier espace de fitness à thème Marvel au monde [^25] [^26]. Cette collaboration intègre l'esprit passionné des super-héros dans le domaine du fitness, permettant au public de découvrir le charme de l'univers Marvel pendant l'exercice, illustrant la stratégie économique des IP de Disney selon laquelle « on peut rêver sans parc ».
 
-## La contribution culturelle des comédiens de doublage taïwanais
+## La contribution culturelle des doubleurs taïwanais
 
-Outre le cas ancien de la version en taïwanais de Blanche-Neige, l’industrie taïwanaise du doublage contribue depuis longtemps de façon importante à la localisation en chinois des films et séries Disney. De nombreux doublages chinois d’œuvres Disney, en particulier les versions en chinois traditionnel, sont réalisés par des comédiens de doublage taïwanais, permettant au public taïwanais d’apprécier les histoires Disney dans la langue qui lui est la plus familière [^27].
+Outre le cas de la version taïwanaise de _Blanche-Neige_ au début, l'industrie du doublage de Taïwan a longtemps apporté une contribution importante à la localisation en chinois des films et séries de Disney. De nombreuses œuvres de Disney en version doublée chinoise (en particulier la version chinoise traditionnelle) sont réalisées par des doubleurs taïwanais, permettant au public taïwanais de profiter des histoires de Disney dans la langue la plus familière [^27].
 
-Ainsi, la chanteuse connue Janice Yan a interprété la chanson thème en chinois du film en prises de vues réelles La Petite Sirène de Disney, et a également participé au doublage [^28] [^29]. Par ailleurs, le mème « laoshu », largement diffusé dans les communautés en ligne, provient du doublage chinois taïwanais du film d’animation Disney Ratatouille. Sa prononciation singulière l’a rendu populaire de manière inattendue, en faisant une partie de la culture populaire taïwanaise et prouvant indirectement l’influence et les caractéristiques locales du doublage taïwanais [^30].
+Par exemple, la chanteuse célèbre Yan Yige a chanté le thème chinois du film en prises de vues réelles de Disney _La Petite Sirène_ et a participé au travail de doublage [^28] [^29]. De plus, le mème largement diffusé dans les communautés en ligne, « Lao Shu » (rat), provient du doublage en chinois taïwanais de l'animation Disney _Ratatouille_ ; sa prononciation unique l'a rendu populaire de manière inattendue, devenant une partie de la culture populaire taïwanaise, prouvant indirectement l'influence et les caractéristiques locales du doublage taïwanais [^30].
 
-## La continuité des activités contemporaines et des échanges culturels
+## La poursuite des activités modernes et des échanges culturels
 
-Au-delà des escales de croisières, les activités contemporaines et les échanges culturels de Disney à Taïwan se poursuivent. Boutiques éphémères, expositions thématiques organisées ponctuellement, comme les installations interactives Alice au pays des merveilles au parc Beixianghu, ou encore lancement du service de streaming Disney+ à Taïwan : autant d’initiatives qui permettent au public taïwanais d’accéder aux contenus Disney de manière plus immédiate et plus diversifiée [^31]. Ces activités enrichissent non seulement la vie culturelle de Taïwan, mais font aussi perdurer la magie Disney sous diverses formes dans la société taïwanaise.
+Outre les visites de paquebots, les activités modernes et les échanges culturels de Disney à Taïwan se poursuivent. Par exemple, les pop-up stores irréguliers, les expositions à thème (comme l'installation interactive _Alice au pays des merveilles_ au parc Beixianghu), et le lancement du service de streaming Disney+ à Taïwan permettent au public taïwanais d'accéder au contenu de Disney de manière plus immédiate et diversifiée [^31]. Ces activités enrichissent non seulement la vie culturelle de Taïwan, mais font également en sorte que la magie de Disney continue d'exister dans la société taïwanaise sous diverses formes.
 
-## Modèles commerciaux et autre face des regrets
+## L'autre face du modèle commercial et des regrets
 
-L’article a mentionné que les modèles de coopération de Disney pour ses parcs en Asie se divisent principalement en deux types : le modèle de Tokyo, fondé sur une pure licence, et le modèle de coentreprise, comme à Hong Kong et Shanghai, avec un partage à 55 % [^5]. Si Taïwan avait réussi à attirer un parc Disneyland à l’époque, le gouvernement aurait probablement dû assumer une lourde pression transnationale en matière de profits et pertes. Toutefois, le succès de Tokyo Disney prouve aussi la faisabilité du modèle de licence pure, ce qui reflète les considérations commerciales de Disney et ses stratégies flexibles selon les régions.
+L'article mentionnait que le modèle de coopération des parcs Disney en Asie se divise principalement en deux catégories : le modèle de Tokyo (licence pure) et le modèle de coentreprise (comme Hong Kong et Shanghai, avec un partage des bénéfices 50/50) [^5]. Si Taïwan avait réussi à introduire un parc Disney plus tôt, le gouvernement aurait probablement dû supporter une pression immense de profit et de perte transnationale. Cependant, le succès de Tokyo Disney prouve la faisabilité du modèle de licence pure, reflétant la considération commerciale de Disney pour adopter des stratégies flexibles dans différentes régions.
 
-En raison de facteurs liés aux réglementations, au foncier et à la population, Taïwan a manqué à plusieurs reprises l’occasion d’accueillir Disneyland. Cette histoire constitue un cas digne de réflexion pour Taïwan dans le développement de son industrie touristique et l’introduction de grands investissements internationaux. Elle a également conduit Taïwan, dans le développement de son économie des IP, à se tourner vers des stratégies accordant davantage d’importance aux collaborations localisées et aux expériences diversifiées.
+Taïwan a frôlé à plusieurs reprises l'implantation d'un parc Disney Disney en raison des réglementations, du foncier et de la population. Cette histoire constitue un cas digne de réflexion pour Taïwan dans le développement de l'industrie du tourisme et l'introduction d'investissements internationaux majeurs. Cela a également conduit Taïwan à orienter le développement de l'économie des IP vers des stratégies mettant l'accent sur la coopération locale et l'expérience diversifiée.
 
 ## Conclusion
 
-Ces anecdotes méconnues sur Disney et Taïwan ne témoignent pas seulement de l’âge d’or où Taïwan, grâce à son remarquable « soft power artisanal », a soutenu une grande part d’Hollywood ; elles dessinent aussi la trajectoire singulière de Taïwan dans les échanges culturels mondiaux. De la sous-traitance d’animation aux évaluations de parcs, du rêve inachevé de Toy Story 3 à l’image localisée de Stitch, puis à l’enracinement d’une culture du doublage et au développement dynamique de l’économie contemporaine des IP, l’histoire de Taïwan et Disney est un voyage fantastique, fait de surprises et de regrets, mais aussi de liens étroits. Même sans parc physique, la magie Disney continue d’influencer en profondeur, sous de multiples formes, la culture et la vie quotidienne à Taïwan.
+Ces anecdotes sur Disney et Taïwan témoignent non seulement des années fastes où Taïwan a soutenu Hollywood grâce à une « soft power » artisanale exceptionnelle, mais dessinent également la trajectoire unique de Taïwan dans les échanges culturels mondiaux. De la sous-traitance d'animation à l'évaluation des parcs, du rêve inabouti de _Toy Story 3_ à l'image localisée de Stitch, en passant par l'approfondissement de la culture du doublage et le développement florissant de l'économie des IP moderne, l'histoire de Taïwan et Disney est un voyage fantastique fait de surprises et de regrets, mais inextricablement lié. Même sans parc physique, la magie de Disney influence profondément la culture et la vie de Taïwan sous diverses formes.
 
 ## Références
 
-[^1]: [Le Disney du monde sinophone, Wang Film a créé pour nous !! - Taiwan Cinema](https://taiwancinema.bamid.gov.tw/Articles/PrintFrameContent?ContentUrl=52670) — Le Disney du monde sinophone, Wang Film a créé pour nous !! (Taiwan Cinema)
+[^1]: [Le Disney du monde chinois, Hung Kuang nous a créés !! - Taiwan Film Network](https://taiwancinema.bamid.gov.tw/Articles/PrintFrameContent?ContentUrl=52670) — Le Disney du monde chinois, Hung Kuang nous a créés !! (Taiwan Film Network)
 
-[^2]: [Pourquoi Taïwan n’a pas de Disneyland - Threads](https://www.threads.com/@taiwan_bar/post/DGkoxVezihy/%E8%87%BA%E7%81%A3%E7%82%BA%E4%BB%80%E9%BA%BC%E6%B2%92%E6%9C%89%E8%BF%AA%E5%A3%AB%E5%B0%BC) — Pourquoi Taïwan n’a pas de Disneyland (Threads)
+[^2]: [Pourquoi Taïwan n'a pas de Disney - Threads](https://www.threads.com/@taiwan_bar/post/DGkoxVezihy/%E8%87%BA%E7%81%A3%E7%82%BA%E4%BB%80%E9%BA%BC%E6%B2%92%E6%9C%89%E8%BF%AA%E5%A3%AB%E5%B0%BC) — Pourquoi Taïwan n'a pas de Disney (Threads)
 
-[^3]: [Disneyland a failli s’installer à Taïwan ! La vérité en coulisses sur le retrait du groupe international est… ?? - YouTube](https://www.youtube.com/watch?v=JY3rKe0BRco) — Disneyland a failli s’installer à Taïwan ! La vérité en coulisses sur le retrait du groupe international est… ?? (YouTube)
+[^3]: [Le parc Disney a failli s'installer à Taïwan ! La vérité cachée derrière le retrait du groupe international est... ?? - YouTube](https://www.youtube.com/watch?v=JY3rKe0BRco) — Le parc Disney a failli s'installer à Taïwan ! La vérité cachée derrière le retrait du groupe international est... ?? (YouTube)
 
-[^4]: [Le projet Disney à Taïwan et l’histoire de Lihpao Land - TikTok](https://www.tiktok.com/@6_love7/video/7551310634156182800) — Le projet Disney à Taïwan et l’histoire de Lihpao Land (TikTok)
+[^4]: [Le projet Disney de Taïwan et l'histoire du parc Lihpao - TikTok](https://www.tiktok.com/@6_love7/video/7551310634156182800) — Le projet Disney de Taïwan et l'histoire du parc Lihpao (TikTok)
 
-[^5]: [Pourquoi Disney n’a-t-il pas choisi Taïwan à l’époque ? Disney a en réalité failli venir deux fois… - Facebook](https://www.facebook.com/lovepigine/posts/%E7%82%BA%E4%BB%80%E9%BA%BC%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%95%B6%E5%B9%B4%E4%B8%8D%E9%81%B8%E6%93%87%E4%BE%86%E5%8F%B0%E7%81%A3%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%85%B6%E5%AF%A6%E5%85%A9%E6%AC%A1%E5%B7%AE%E9%BB%9E%E4%BE%86%E5%8F%B0%E7%81%A3%E6%88%91%E6%9F%A5%E4%BA%86%E8%B3%87%E6%96%99%E7%99%BC%E7%8F%BE%E6%98%AF%E7%9C%9F%E7%9A%84%E6%9C%89%E4%BE%86%E8%A9%95%E4%BC%B0%E9%81%8E%E4%BD%86%E6%9C%80%E5%BE%8C%E9%83%BD%E6%93%A6%E8%82%A9%E8%80%8C%E9%81%8E%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%A9%9F%E6%9C%831970%E5%B9%B4%E4%BB%A3%E5%8F%B0%E5%8C%97%E6%9B%BE%E7%B6%93%E8%B7%9F%E6%9D%B1%E4%BA%AC%E4%B8%80%E8%B5%B7%E8%A2%AB%E8%A9%95%E4%BC%B01970%E5%B9%B4%E4%BB%A3%E6%9C%AB%E6%9C%9F/27045160405074622/) — Pourquoi Disney n’a-t-il pas choisi Taïwan à l’époque ? Disney a en réalité failli venir deux fois (Facebook)
+[^5]: [Pourquoi Disney ne nous a pas choisis à l'époque ? En fait, Disney a failli venir deux fois... - Facebook](https://www.facebook.com/lovepigine/posts/%E7%82%BA%E4%BB%80%E9%BA%BC%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%95%B6%E5%B9%B4%E4%B8%8D%E9%81%B8%E6%93%87%E4%BE%86%E5%8F%B0%E7%81%A3%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%85%B6%E5%AF%A6%E5%85%A9%E6%AC%A1%E5%B7%AE%E9%BB%9E%E4%BE%86%E5%8F%B0%E7%81%A3%E6%88%91%E6%9F%A5%E4%BA%86%E8%B3%87%E6%96%99%E7%99%BC%E7%8F%BE%E6%98%AF%E7%9C%9F%E7%9A%84%E6%9C%89%E4%BE%86%E8%A9%95%E4%BC%B0%E9%81%8E%E4%BD%86%E6%9C%80%E5%BE%8C%E9%83%BD%E6%93%A6%E8%82%A9%E8%80%8C%E9%81%8E%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%A9%9F%E6%9C%831970%E5%B9%B4%E4%BB%A3%E5%8F%B0%E5%8C%97%E6%9B%BE%E7%B6%93%E8%B7%9F%E6%9D%B1%E4%BA%AC%E4%B8%80%E8%B5%B7%E8%A2%AB%E8%A9%95%E4%BC%B01970%E5%B9%B4%E4%BB%A3%E6%9C%AB%E6%9C%9F/27045160405074622/) — Pourquoi Disney ne nous a pas choisis à l'époque ? En fait, Disney a failli venir deux fois (Facebook)
 
-[^6]: [Disney Channel (Taïwan) - Wikipédia, l’encyclopédie libre](https://zh.wikipedia.org/zh-hant/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%A0%BB%E9%81%93_%28%E5%8F%B0%E7%81%A3%29) — Article Wikipédia sur la version taïwanaise de Disney Channel (Wikipédia)
+[^6]: [Disney Channel (Taïwan) - Wikipédia, l'encyclopédie libre](https://zh.wikipedia.org/zh-hant/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%A0%BB%E9%81%93_%28%E5%8F%B0%E7%81%A3%29) — Article Wikipédia de la version taïwanaise de Disney Channel (Wikipédia)
 
-[^7]: [Taïwan derrière les classiques animés : Le Roi lion et Mulan sous-traités à Taïwan ? L’année où Wang Film soutenait le « Disney d’Orient » - United Daily News](https://time.udn.com/udntime/story/122390/9036134) — Taïwan derrière les classiques animés : Le Roi lion et Mulan sous-traités à Taïwan ? L’année où Wang Film soutenait le « Disney d’Orient » (United Daily News)
+[^7]: [Les animations classiques derrière Taïwan : _Le Roi Lion_ et _Mulan_ étaient-ils tous sous-traités ici ? Hung Kuang soutenait le « Disney de l'Est » cette année-là - United Daily News](https://time.udn.com/udntime/story/122390/9036134) — Les animations classiques derrière Taïwan : _Le Roi Lion_ et _Mulan_ étaient-ils tous sous-traités ici ? Hung Kuang soutenait le « Disney de l'Est » cette année-là (United Daily News)
 
 [^8]: [Did You Know? Disney Cruise Line made a unique choice by using ... - Facebook](https://www.facebook.com/groups/518346103472374/posts/826610919312556/) — Did You Know? Disney Cruise Line made a unique choice by using (Facebook)
 
-[^9]: [Ces films Disney ont été fabriqués à Taïwan ! L’animation taïwanaise autrefois surnommée le « Disney d’Orient »… - Storm Media](https://www.storm.mg/lifestyle/103893) — Ces films Disney ont été fabriqués à Taïwan ! L’animation taïwanaise autrefois surnommée le « Disney d’Orient »… (Storm Media)
+[^9]: [Ces films Disney sont tous fabriqués à Taïwan ! L'animation taïwanaise autrefois surnommée « Disney de l'Est »... - The News Lens](https://www.storm.mg/lifestyle/103893) — Ces films Disney sont tous fabriqués à Taïwan ! L'animation taïwanaise autrefois surnommée « Disney de l'Est »... (The News Lens)
 
 [^10]: [Amazing Secrets About Disney Cruise Line | the disney food blog](https://www.disneyfoodblog.com/2021/12/24/amazing-secrets-about-disney-cruise-line/) — Amazing Secrets About Disney Cruise Line (the disney food blog)
 
-[^11]: [Tron (TRON) <1982> - Le royaume de l’animation Disney](https://disney.lovesakura.com/mvdata/data/Tron.htm) — Tron (TRON) <1982> (Le royaume de l’animation Disney)
+[^11]: [【Tron】（TRON） <1982> - 【Disney Animation Kingdom】](https://disney.lovesakura.com/mvdata/data/Tron.htm) — 【Tron】（TRON） <1982> (【Disney Animation Kingdom】)
 
 [^12]: [Toy Story 3 - Circle Seven script (second version) - Internet Archive](https://archive.org/details/recall-toy-story-3) — Toy Story 3 - Circle Seven script (second version) (Internet Archive)
 
-[^13]: [Saviez-vous que l’histoire de Toy Story 3 a failli se dérouler à Taïwan ? - Threads](https://www.threads.com/@reggie_screening/post/DZ5DX4lmTLG/%E4%BD%A0%E7%9F%A5%E9%81%93%E7%8E%A9%E5%85%B7%E7%B8%BD%E5%8B%95%E5%93%A1-3%E7%9A%84%E6%95%85%E4%BA%8B%E5%B7%AE%E9%BB%9E%E5%B0%B1%E7%99%BC%E7%94%9F%E5%9C%A8%E5%8F%B0%E7%81%A3%E5%97%8E%E7%95%B6%E6%99%82%E7%9A%84%E5%8A%87%E6%83%85%E6%98%AF%E6%95%85%E9%9A%9C%E7%9A%84%E5%B7%B4%E6%96%AF%E5%85%89%E5%B9%B4%E8%A6%81%E8%A2%AB%E9%80%81%E5%9B%9E%E8%87%BA%E7%81%A3%E5%8E%9F%E5%BB%A0%E7%B6%AD%E4%BF%AE%E8%83%A1%E8%BF%AA%E5%89%87%E5%B8%B6%E8%91%97%E5%A4%A5%E4%BC%B4%E4%BE%86%E8%87%BA%E5%B1%95%E9%96%8B%E6%95%91%E6%8F%B4%E4%BB%BB%E5%8B%99%E9%80%99%E4%B8%8D%E5%8F%AA%E6%98%AF%E9%83%BD%E5%B8%82%E5%82%B3%E8%AA%AA%E9%80%A3%E8%8D%89%E7%A8%BF%E9%83%BD%E6%9C%89%E7%95%AB%E5%87%BA%E4%BE%86%E6%A0%B9%E6%93%9A%E5%89%8D%E8%BF%AA/) — Saviez-vous que l’histoire de Toy Story 3 a failli se dérouler à Taïwan ? (Threads)
+[^13]: [Saviez-vous que l'histoire de _Toy Story 3_ aurait presque eu lieu à Taïwan ? - Threads](https://www.threads.com/@reggie_screening/post/DZ5DX4lmTLG/%E4%BD%A0%E7%9F%A5%E9%81%93%E7%8E%A9%E5%85%B7%E7%B8%BD%E5%8B%95%E5%93%A1-3%E7%9A%84%E6%95%85%E4%BA%8B%E5%B7%AE%E9%BB%9E%E5%B0%B1%E7%99%BC%E7%94%9F%E5%9C%A8%E5%8F%B0%E7%81%A3%E5%97%8E%E7%95%B6%E6%99%82%E7%9A%84%E5%8A%87%E6%83%85%E6%98%AF%E6%95%85%E9%9A%9C%E7%9A%84%E5%B7%B4%E6%96%AF%E5%85%89%E5%B9%B4%E8%A6%81%E8%A2%AB%E9%80%81%E5%9B%9E%E8%87%BA%E7%81%A3%E5%8E%9F%E5%BB%A0%E7%B6%AD%E4%BF%AE%E8%83%A1%E8%BF%AA%E5%89%87%E5%B8%B6%E8%91%97%E5%A4%A5%E4%BC%B4%E4%BE%86%E8%87%BA%E5%B1%95%E9%96%8B%E6%95%91%E6%8F%B4%E4%BB%BB%E5%8B%99%E9%80%99%E4%B8%8D%E5%8F%AA%E6%98%AF%E9%83%BD%E5%B8%82%E5%82%B3%E8%AA%AA%E9%80%A3%E8%8D%89%E7%A8%BF%E9%83%BD%E6%9C%89%E7%95%AB%E5%87%BA%E4%BE%86%E6%A0%B9%E6%93%9A%E5%89%8D%E8%BF%AA/) — Saviez-vous que l'histoire de _Toy Story 3_ aurait presque eu lieu à Taïwan ? (Threads)
 
 [^14]: [Unmade: Toy Story 3 Buzz Lightyear Recall Script - Medium](https://medium.com/@Oozer3993/unmade-toy-story-3-buzz-lightyear-recall-script-673f24973ea4) — Unmade: Toy Story 3 Buzz Lightyear Recall Script (Medium)
 
-[^15]: [Buzz l’Éclair est-il originaire de Taïwan ? Douze secrets méconnus sur le film Lightyear - Eslite](https://meet.eslite.com/tw/tc/article/202207150001) — Buzz l’Éclair est-il originaire de Taïwan ? Douze secrets méconnus sur le film Lightyear (Eslite)
+[^15]: [Le lieu de production de Buzz Lightyear est Taïwan ? 12 secrets méconnus sur le film _Buzz Lightyear_ - Eslite Online](https://meet.eslite.com/tw/tc/article/202207150001) — Le lieu de production de Buzz Lightyear est Taïwan ? 12 secrets méconnus sur le film _Buzz Lightyear_ (Eslite Online)
 
-[^16]: [Le rêve Disney de Kaohsiung brisé ? Han Kuo-yu reconnaît des difficultés : prêt à retirer la proposition - China Times](https://china.hket.com/article/2647162/%E9%AB%98%E9%9B%84%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%A4%A2%E7%A2%8E%EF%BC%9F%20%E9%9F%93%E5%9C%8B%E7%91%9C%E6%89%BF%E8%AA%8D%E6%9C%89%E5%9B%B0%E9%9B%A3%EF%BC%9A%E9%A1%98%E6%84%8F%E6%94%B6%E5%9B%9E) — Le rêve Disney de Kaohsiung brisé ? Han Kuo-yu reconnaît des difficultés : prêt à retirer la proposition (China Times)
+[^16]: [Le rêve de Disney Kaohsiung brisé ? Han Kuo-yu admet la difficulté : prêt à retirer - China Times](https://china.hket.com/article/2647162/%E9%AB%98%E9%9B%84%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%A4%A2%E7%A2%8E%EF%BC%9F%20%E9%9F%93%E5%9C%8B%E7%91%9C%E6%89%BF%E8%AA%8D%E6%9C%89%E5%9B%B0%E9%9B%A3%EF%BC%9A%E9%A1%98%E6%84%8F%E6%94%B6%E5%9B%9E) — Le rêve de Disney Kaohsiung brisé ? Han Kuo-yu admet la difficulté : prêt à retirer (China Times)
 
-[^17]: [Han Kuo-yu admet qu’il est difficile de construire Disneyland : prêt à retirer sa promesse de campagne - PTS News](https://news.pts.org.tw/article/479449) — Han Kuo-yu admet qu’il est difficile de construire Disneyland : prêt à retirer sa promesse de campagne (PTS News)
+[^17]: [Admettant la difficulté de construire un Disney, Han Kuo-yu : prêt à retirer le programme politique - Public Television News Network](https://news.pts.org.tw/article/479449) — Admettant la difficulté de construire un Disney, Han Kuo-yu : prêt à retirer le programme politique (Public Television News Network)
 
-[^18]: [Le rêve de Disneyland à Kaohsiung brisé : Han Kuo-yu reconnaît les difficultés et se dit prêt à se rétracter - YouTube](https://www.youtube.com/watch?v=b9g2zlXCcgo) — Le rêve de Disneyland à Kaohsiung brisé : Han Kuo-yu reconnaît les difficultés et se dit prêt à se rétracter (YouTube)
+[^18]: [Le rêve du parc Disney Kaohsiung brisé, Han Kuo-yu admet la difficulté et est prêt à retirer - YouTube](https://www.youtube.com/watch?v=b9g2zlXCcgo) — Le rêve du parc Disney Kaohsiung brisé, Han Kuo-yu admet la difficulté et est prêt à retirer (YouTube)
 
-[^19]: [Han Kuo-yu déclare qu’il est difficile de promouvoir un Disney à Kaohsiung et se dit prêt à retirer la proposition - Lianhe Zaobao](https://www.zaobao.com.sg/realtime/china/story20200519-1054458) — Han Kuo-yu déclare qu’il est difficile de promouvoir un Disney à Kaohsiung et se dit prêt à retirer la proposition (Lianhe Zaobao)
+[^19]: [Han Kuo-yu déclare difficile la promotion de Disney Kaohsiung, prêt à retirer la proposition - Lianhe Zaobao](https://www.zaobao.com.sg/realtime/china/story20200519-1054458) — Han Kuo-yu déclare difficile la promotion de Disney Kaohsiung, prêt à retirer la proposition (Lianhe Zaobao)
 
-[^20]: [Disney « avait repéré Taïwan » il y a quarante ans ! Stanley Yen rétablit la vérité : trois facteurs clés ont fait perdre face à Tokyo - NOWnews](https://www.nownews.com/news/6524530?srsltid=AfmBOoroHVoO1V2G16CVUykCsWbSTvs_aV-t9BDhYx16JVV1WqsB55ra) — Disney « avait repéré Taïwan » il y a quarante ans ! Stanley Yen rétablit la vérité : trois facteurs clés ont fait perdre face à Tokyo (NOWnews)
+[^20]: [Disney « avait repéré Taïwan » il y a 40 ans ! Yen Chang-shou révèle la vérité : 3 clés perdues contre Tokyo, Japon - NOWnews](https://www.nownews.com/news/6524530?srsltid=AfmBOoroHVoO1V2G16CVUykCsWbSTvs_aV-t9BDhYx16JVV1WqsB55ra) — Disney « avait repéré Taïwan » il y a 40 ans ! Yen Chang-shou révèle la vérité : 3 clés perdues contre Tokyo, Japon (NOWnews)
 
-[^21]: [Stanley Yen : pourquoi Disneyland n’est-il pas à Taïwan ? - YouTube](https://www.youtube.com/watch?v=CGYsHtJgA6c) — Stanley Yen : pourquoi Disneyland n’est-il pas à Taïwan ? (YouTube)
+[^21]: [Yen Chang-shou : Pourquoi le parc Disney n'est pas à Taïwan ? - YouTube](https://www.youtube.com/watch?v=CGYsHtJgA6c) — Yen Chang-shou : Pourquoi le parc Disney n'est pas à Taïwan ? (YouTube)
 
-[^22]: [Le modèle économique « étrangement mignon » de Disney : « l’imperfection » vaut plus cher ! Comment misent-ils sur un chat capricieux… - Manager Today](https://www.managertoday.com.tw/topic/view/206/post/71066) — Le modèle économique « étrangement mignon » de Disney : « l’imperfection » vaut plus cher ! Comment misent-ils sur un chat capricieux… (Manager Today)
+[^22]: [Le business « mignon et bizarre » de Disney : « L'imperfection » vaut plus ! Comment ils s'appuient sur le chat tsundere - Manager Magazine](https://www.managertoday.com.tw/topic/view/206/post/71066) — Le business « mignon et bizarre » de Disney : « L'imperfection » vaut plus ! Comment ils s'appuient sur le chat tsundere (Manager Magazine)
 
-[^23]: [PBC-013 série Stitch voiture à friction - Facebook](https://www.facebook.com/media/set/?set=a.7485999444758357&type=3) — PBC-013 série Stitch voiture à friction (Facebook)
+[^23]: [PBC-013 Série Stitch voiture à retour - Facebook](https://www.facebook.com/media/set/?set=a.7485999444758357&type=3) — PBC-013 Série Stitch voiture à retour (Facebook)
 
-[^24]: [Stitch animé apparaît ! Cette série de boîtes-surprises à remontoir « Stitch à vos côtés »… - Instagram](https://www.instagram.com/reel/DIoKgMchiEo/) — Stitch animé apparaît ! Cette série de boîtes-surprises à remontoir « Stitch à vos côtés »… (Instagram)
+[^24]: [Le Stitch mobile est enfin là ! Cette boîte aveugle à ressort Stitch à portée de main est vraiment... - Instagram](https://www.instagram.com/reel/DIoKgMchiEo/) — Le Stitch mobile est enfin là ! Cette boîte aveugle à ressort Stitch à portée de main est vraiment... (Instagram)
 
-[^25]: [Fitness Factory s’associe à Marvel pour créer la première salle de sport thématique | SETN.com - YouTube](https://www.youtube.com/watch?v=wvfQI30Ntdw) — Fitness Factory s’associe à Marvel pour créer la première salle de sport thématique | SETN.com (YouTube)
+[^25]: [Fitness Factory联手 Marvel crée le premier gymnaste à thème | SETN.com - YouTube](https://www.youtube.com/watch?v=wvfQI30Ntdw) — Fitness Factory联手 Marvel crée le premier gymnaste à thème | SETN.com (YouTube)
 
-[^26]: [Sport : le premier espace de sport à thème Marvel de Taïwan ouvre chez Fitness Factory - WOWSight](https://wowsight.tw/2024/07/18/%E3%80%8A%E9%AB%94%E5%A3%87%E3%80%8B%E5%8F%B0%E7%81%A3%E9%A6%96%E9%96%93%E6%BC%AB%E5%A8%81%E4%B8%BB%E9%A1%8C%E5%81%A5%E8%BA%AB%E7%A9%BA%E9%96%93-%E4%BE%86%E5%81%A5%E8%BA%AB%E5%B7%A5%E5%BB%A0%E9%81%8B/) — Sport : le premier espace de sport à thème Marvel de Taïwan ouvre chez Fitness Factory (WOWSight)
+[^26]: [【Sports】Le premier espace de fitness à thème Marvel de Taïwan arrive à Fitness Factory, l'exercice devient sain - WOWSight](https://wowsight.tw/2024/07/18/%E3%80%8A%E9%AB%94%E5%A3%87%E3%80%8B%E5%8F%B0%E7%81%A3%E9%A6%96%E9%96%93%E6%BC%AB%E5%A8%81%E4%B8%BB%E9%A1%8C%E5%81%A5%E8%BA%AB%E7%A9%BA%E9%96%93-%E4%BE%86%E5%81%A5%E8%BA%AB%E5%B7%A5%E5%BB%A0%E9%81%8B/) — 【Sports】Le premier espace de fitness à thème Marvel de Taïwan arrive à Fitness Factory, l'exercice devient sain (WOWSight)
 
-[^27]: [Vaiana 2 - Wikipédia, l’encyclopédie libre](https://zh.wikipedia.org/zh-hant/%E6%B5%B7%E6%B4%8B%E5%A5%87%E7%B7%A32) — Vaiana 2 (Wikipédia, l’encyclopédie libre)
+[^27]: [Moana 2 - Wikipédia, l'encyclopédie libre](https://zh.wikipedia.org/zh-hant/%E6%B5%B7%E6%B4%8B%E5%A5%87%E7%B7%A32) — Moana 2 (Wikipédia)
 
-[^28]: [Janice Yan en clôture sur la scène féerique de Hong Kong ! Elle chante devant le château Disney… - MTV Taiwan](https://www.mtv.com.tw/news/newsdetail/11538) — Janice Yan en clôture sur la scène féerique de Hong Kong ! Elle chante devant le château Disney… (MTV Taiwan)
+[^28]: [Yan Yige en apogée sur la scène fantastique de Hong Kong ! Chantant devant le château Disney pendant deux... - MTV Music Channel](https://www.mtv.com.tw/news/newsdetail/11538) — Yan Yige en apogée sur la scène fantastique de Hong Kong ! Chantant devant le château Disney pendant deux... (MTV Music Channel)
 
-[^29]: [Making-of du doublage de Janice Yan pour le film Disney en prises de vues réelles La Petite Sirène | Disponible sur Disney+ - YouTube](https://www.youtube.com/watch?v=0AAgb6B_kQ8) — Making-of du doublage de Janice Yan pour le film Disney en prises de vues réelles La Petite Sirène | Disponible sur Disney+ (YouTube)
+[^29]: [Film en prises de vues réelles de Disney _#La Petite Sirène_ Yan Yige making-of de doublage | Disney+ actuellement en diffusion - YouTube](https://www.youtube.com/watch?v=0AAgb6B_kQ8) — Film en prises de vues réelles de Disney _#La Petite Sirène_ Yan Yige making-of de doublage | Disney+ actuellement en diffusion (YouTube)
 
-[^30]: [Qu’est-ce que « laoshu » ? Origine du mème Ratatouille - Memes.tw](https://memes.tw/meme/2425) — Qu’est-ce que « laoshu » ? Origine du mème Ratatouille (Memes.tw)
+[^30]: [Qu'est-ce que Lao Shu ? Origine du mème Ratatouille - Meme Warehouse](https://memes.tw/meme/2425) — Qu'est-ce que Lao Shu ? Origine du mème Ratatouille (Meme Warehouse)
 
-[^31]: [Lancement de Disney+ à Taïwan - Disney+](https://www.disneyplus.com/) — Lancement de Disney+ à Taïwan (Disney+)
+[^31]: [Le lancement de Disney+ à Taïwan - Disney+](https://www.disneyplus.com/) — Le lancement de Disney+ à Taïwan (Disney+)

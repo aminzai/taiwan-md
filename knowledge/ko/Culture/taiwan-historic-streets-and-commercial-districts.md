@@ -10,9 +10,9 @@ lastVerified: 2026-03-20
 lastHumanReview: true
 featured: false
 translatedFrom: 'Culture/台灣老街文化與商業街區.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:3d3e165195c66961'
-sourceBodyHash: 'sha256:daf4460c4d51a719'
+sourceCommitSha: 'fa2ca2e8'
+sourceContentHash: 'sha256:fa410e59dc40cf80'
+sourceBodyHash: 'sha256:4c28ceadc8ee9c09'
 translatedAt: '2026-05-20T05:08:30+08:00'
 ---
 
@@ -237,14 +237,25 @@ translatedAt: '2026-05-20T05:08:30+08:00'
 ## 참고 자료
 
 [^1]: [교통부 관광서 — 대만 라오제 명소](https://www.taiwan.net.tw/) — 대만 전역 라오제 관광 정보 총람, 지도와 노선 계획 포함
+
 [^2]: [위키백과 — 디화제](https://zh.wikipedia.org/zh-tw/%E8%BF%AA%E5%8C%96%E8%A1%97) — 디화제의 역사 변천, 건축 양식, 다다오청 상업 발전
+
 [^3]: [위키백과 — 싼샤 라오제](https://zh.wikipedia.org/zh-tw/%E4%B8%89%E5%B3%BD%E8%80%81%E8%A1%97) — 싼샤 바로크 건축군 복원 과정 및 리메이수가 주관한 조사묘 재건 사료
+
 [^4]: [위키백과 — 주펀](https://zh.wikipedia.org/zh-tw/%E4%B9%9D%E4%BB%BD) — 주펀 금광 역사, 허우샤오셴 《비정성시》 촬영지 및 관광 현황
+
 [^5]: [위키백과 — 다시 라오제](https://zh.wikipedia.org/zh-tw/%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97) — 다시 바로크 패루 건축군과 관성제군 다희 축제 소개
+
 [^6]: [장화 관광정보망 — 루강 라오제](https://tourism.chcg.gov.tw/AttractionsContent.aspx?id=152) — 루강 민난 건축군, 룽산사, 톈허우궁 및 전통 공예 정보
+
 [^7]: [타이난 관광망 — 안핑 라오제](https://www.twtainan.net/zh-tw/attractions/detail/812/) — 안핑고보, 검사자 문화 및 옌핑 라오제 역사 설명
+
 [^8]: [신베이시 관광여행망 — 단수이 라오제](https://newtaipei.travel/zh-tw/attractions/detail/109658) — 단수이 훙마오청, 중정루 라오제 및 충젠제 명소 소개
+
 [^9]: [가오슝 관광망 — 치산 라오제](https://khh.travel/zh-tw/attractions/detail/157/) — 치산 바나나 왕국 역사, 바로크 가로형 상가 및 당철 이야기관 정보
+
 [^10]: [대만대 지질과학 디지털 아카이브 — 진과스·주펀 금 채굴사](http://tcmb.digital.ntu.edu.tw/memory/geology/story_keelung/story3.html) — 주펀 광업사 디지털 아카이브, 광갱 지질과 채굴 연대 고증 포함
+
 [^11]: [교통부 관광서 — 디화제](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=R108) — 디화제 융러시장, 샤하이 성황묘와 연화대가 공식 소개
+
 [^12]: [교통부 관광서 — 싼샤 라오제](https://www.taiwan.net.tw/m1.aspx?sNo=0001091&id=R13) — 싼샤 라오제 건축 정비 계획과 남염 공예 부흥 설명

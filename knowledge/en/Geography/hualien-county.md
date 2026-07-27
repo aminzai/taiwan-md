@@ -27,9 +27,9 @@ lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/花蓮縣.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:d7da2390cfed253e'
-sourceBodyHash: 'sha256:4e86fa147bee5767'
+sourceCommitSha: 'b74252d9'
+sourceContentHash: 'sha256:405286ffbb97b596'
+sourceBodyHash: 'sha256:367ba2e7b9a712c5'
 translatedAt: '2026-06-16T17:03:25Z'
 image: https://upload.wikimedia.org/wikipedia/commons/0/03/Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg
 imageCredit: Fred Hsu

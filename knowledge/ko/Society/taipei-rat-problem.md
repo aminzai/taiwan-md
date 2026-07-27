@@ -19,9 +19,9 @@ lastVerified: 2026-05-05
 lastHumanReview: false
 featured: false
 translatedFrom: Society/台北鼠患.md
-sourceCommitSha: 4b6d28c54
-sourceContentHash: sha256:2a7adde08eabea57
-sourceBodyHash: sha256:c303ba562f23c253
+sourceCommitSha: '44b9afee'
+sourceContentHash: 'sha256:ea94b427916538a7'
+sourceBodyHash: 'sha256:bcba667c74795d16'
 translatedAt: 2026-05-09T11:09:57+08:00
 ---
 

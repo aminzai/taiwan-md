@@ -19,9 +19,9 @@ lastVerified: 2026-07-06
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣企業：宏碁.md'
-sourceCommitSha: 'beb07b8e'
-sourceContentHash: 'sha256:cd395bed8d239f41'
-sourceBodyHash: 'sha256:903fa4c14f6a516c'
+sourceCommitSha: 'a94bbcf6'
+sourceContentHash: 'sha256:f4628301afebb26c'
+sourceBodyHash: 'sha256:51e7134a2abf4bcf'
 translatedAt: '2026-07-16T00:45:14+08:00'
 image: '/article-images/economy/stan-shih-2014.webp'
 imageCredit: 'Tony Tseng'

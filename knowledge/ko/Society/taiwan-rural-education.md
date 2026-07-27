@@ -19,9 +19,9 @@ readingTime: 13
 featured: false
 translatedFrom: 'Society/台灣偏鄉教育.md'
 lastVerified: 2026-04-09
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:44e0e02cb3bfe9f8'
-sourceBodyHash: 'sha256:275d00c9499cbf78'
+sourceCommitSha: '4d620ce7'
+sourceContentHash: 'sha256:1277fc2755a587fc'
+sourceBodyHash: 'sha256:64665163579f4d98'
 translatedAt: '2026-05-16T22:20:00Z'
 lastHumanReview: false
 ---

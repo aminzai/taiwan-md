@@ -25,9 +25,9 @@ lastVerified: 2026-06-24
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/龜山島.md'
-sourceCommitSha: '4ae85c87e'
-sourceContentHash: 'sha256:48db5eb6bc77654a'
-sourceBodyHash: 'sha256:37cd02c961d0f940'
+sourceCommitSha: '47ff13e0'
+sourceContentHash: 'sha256:c7a87740708e08bc'
+sourceBodyHash: 'sha256:49a1234928ae1d8e'
 translatedAt: '2026-06-25T00:43:06+08:00'
 image: /article-images/geography/guishan-hero.webp
 imageCredit: 阿爾特斯 / Wikimedia Commons

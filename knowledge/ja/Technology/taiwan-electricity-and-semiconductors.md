@@ -16,9 +16,9 @@ featured: false
 lastVerified: 2026-07-11
 lastHumanReview: false
 translatedFrom: 'Technology/台灣的電力與半導體.md'
-sourceCommitSha: '2d46f0882'
-sourceContentHash: 'sha256:c380b9667fee1858'
-sourceBodyHash: 'sha256:b921828e83ff4f4d'
+sourceCommitSha: '250410ea'
+sourceContentHash: 'sha256:739eb8c857d7b377'
+sourceBodyHash: 'sha256:814f9eb8b97792cf'
 translatedAt: '2026-07-14T00:51:45+08:00'
 image: '/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp'
 imageCredit: 'M. Weitzel / Wikimedia Commons'

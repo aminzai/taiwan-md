@@ -1,215 +1,208 @@
 ---
-title: 'Taiwan Transitional Justice'
-description: 'Taiwan has revoked nearly 6,000 guilty verdicts from the authoritarian era, yet almost no perpetrator has been held accountable. This gap is harder to explain than the White Terror itself.'
+title: '台湾の転換正義'
+description: '台湾は威権時代の有罪判決約6,000件を撤廃したが、加害者の責任追及はほぼ行われなかった。このギャップは、白色恐怖そのものよりも説明が難しい。'
 date: 2026-03-31
-tags:
-  [
-    'History',
-    'Transitional Justice',
-    'Democratization',
-    'Human Rights',
-    'White Terror',
-  ]
-subcategory: 'Modern History'
-author: 'Taiwan.md'
 category: 'History'
-readingTime: 12
+tags: ['歴史', '転換正義', '民主化', '人権', '白色恐怖']
+subcategory: '現代歷史'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-31
 lastHumanReview: false
 translatedFrom: 'History/台灣轉型正義.md'
-sourceCommitSha: '6c2f8ea8d'
-sourceContentHash: 'sha256:374479ea740e2331'
-sourceBodyHash: 'sha256:3af35384af2f52c5'
-translatedAt: '2026-06-09T03:01:48+08:00'
-featured: false
+sourceCommitSha: '7c73f6a55'
+sourceContentHash: 'sha256:c532a9d95ccbcaaf'
+sourceBodyHash: 'sha256:530ea0ffb4d07e77'
+translatedAt: '2026-07-26T08:13:09+08:00'
 ---
 
-> **30-Second Overview:** In 1950, a twenty-year-old youth in Qingshui, Taiwan, was arrested because an unknowing visitor mentioned his name. He spent ten years in Green Island Prison. After his release, he founded Taiwan's first children's comic magazine. He lived to be 93 years old, spending the last years of his life asking the same question: "Who exactly killed my friend?" Taiwan's transitional justice revoked guilty verdicts for nearly 6,000 people, yet has still failed to answer his question.
-
----
-
-On September 10, 1950, Cai Kun-lin sat in his home in Qingshui, Taichung. An unfamiliar person visited him. This person was later arrested, and Cai's name appeared in their testimony. The Kuomintang (KMT) intelligence agencies, without any trial procedure, imprisoned the twenty-year-old Cai in Green Island.
-
-He stayed there for ten years.
-
-In 2023, 93-year-old Cai Kun-lin passed away. In his later years, when interviewed by the media, he did not speak of his grievance, but rather posed a question: "I want to know, who exactly killed my friend?"[^10] Many of his cellmates in Green Island did not survive to see the light of day.
-
-Taiwan spent thirty years to formally establish an agency to promote transitional justice, and then spent four years to dissolve that agency. How many answers were found, and how many questions remain hanging in the air, is what this article seeks to梳理 (sort out).
+> **30秒で概要：** 1950年、台湾・清水の20歳の若者が、無知の訪問者一人のせいで逮捕され、緑島で10年間投獄された。出獄後、台湾初の児童漫画雑誌を創刊した。彼は93歳まで生き、生涯の最後を同じ問いに費やした。「いったい誰が私の友人を殺したのか？」台湾の転換正義は、約6,000人の有罪判決を撤廃したが、彼への問いには今も答えられていない。
 
 ---
 
-## The Structure of Authoritarianism: Who Built It, How It Operated
+1950年9月10日、蔡焜霖（さい・こんりん／ツァイ・クンリン）は台中・清水の自宅で座っていた。見知らぬ人物が訪ねてきた。その人物は後に逮捕され、供述の中で蔡の名前が言及された。国民党の情治機関は、審理手続きなしで20歳の彼を緑島に投獄した。
 
-To understand the difficulties of Taiwan's transitional justice, one must first understand how deep the system that needs to be清算 (settled/accounted for) truly is.
+彼はそこで10年間を過ごした。
 
-The [[February 28 Incident]] occurred in 1947, involving the large-scale suppression of native Taiwanese by off-island troops. The estimated death toll ranges from several thousand to 20,000, a figure that remains controversial to this day.[^6] Two years later, the [[Martial Law Era]] officially began—on May 20, 1949, the Taiwan Provincial Garrison Command announced the martial law order. This state lasted for 38 years, until it was lifted on July 15, 1987. Thirty-eight years is the longest duration of martial law in the 20th century globally.[^1]
+2023年、93歳となった蔡焜霖は死去した。晩年にメディアの取材に応じた際、彼は冤罪を訴えるのではなく、一つの問いを投げかけた。「いったい誰が私の友人を殺したのかを知りたい」[^10]。緑島での獄友の多くは、生き延びて出獄することができなかった。
 
-The legal basis for [[Taiwan White Terror]] was the _Regulations for Punishing Rebellion_ and the _Regulations for Suppressing Communist Spies during the Period of Communist Rebellion_. Anyone deemed to have suspicions of "rebellion" or being a "communist spy" could be tried by military courts without normal judicial procedures. The "Taiwan Transitional Justice Database," established by the Transitional Justice Commission (TJC), contains records of over 14,000 political case defendants[^8]. Among these, Chiang Kai-shek personally intervened in the adjudication of over 3,000 cases, with 876 cases resulting in death sentences.[^11]
-
-| 14,946 Cases                                | 876 Cases                 |
-| :------------------------------------------ | :------------------------ |
-| Political Case Defendant Records (Database) | Confirmed Death Sentences |
-
-The final estimated number of White Terror victims is known to be over 22,000 as of 2022.[^1] However, the word "known" itself is problematic—before the TJC began organizing archives, even estimating this number was difficult.
+台湾は、転換正義を推進する機関を正式に設立するまでに30年を要し、その機関を解散するまでにさらに4年を要した。この過程で、いくつの答えが見つかり、いくつの問いが宙に浮いたままなのか。この記事が整理するところである。
 
 ---
 
-## The Silent Forty Years: Martial Law Lifting Does Not Equal Accountability
+## 威権の構造：誰が建て、どのように機能したか
 
-In 1987, when martial law was lifted, Taiwanese society generally cheered. However, lifting martial law only removed the martial law order; it was not the beginning of political accountability.
+台湾の転換正義の困難さを理解するには、清算すべき体制がどれほど深かったかを理解する必要がある。
 
-The _Regulations for Punishing Rebellion_ were not abolished until 1991, and the old Article 100 of the Criminal Code (the "thought crime" clause) was not amended until 1992. Furthermore, the _National Security Act_ passed in 1987 stated: "Final judgments made by military judicial organs during the martial law period shall not be subject to appeal or protest." This effectively locked the results of White Terror trials into a legal safe, meaning victims' rehabilitation would have to wait until the 21st century.
+[[二二八事件]]は1947年に発生し、外省軍による本省人に対する大規模な弾圧であった。死者数は数千から2万人と推定され、今も議論がある。[^6]2年後、[[戒嚴時期]]（戒厳令時代）が正式に始まった。1949年5月20日、台湾省警備総司令部は戒厳令を発令し、この状態は38年間続いた。1987年7月15日に解除されるまで、38年という期間は20世紀において世界最長の戒厳令継続期間であった。[^1]
 
-> **💡 Did You Know?**
-> The first formal government apology in Taiwan after the lifting of martial law did not occur until 1995, when [[Lee Teng-hui]] apologized to the families of the February 28 Incident victims on behalf of the government, and the _February 28 Incident Handling and Compensation Act_ was passed, establishing the February 28 Incident Memorial Foundation. Legislation for White Terror compensation followed a few years later, but compensation is one thing, holding people accountable is another—Taiwan only did the former.
+[[台灣白色恐怖]]（台湾白色テロ）の法的基礎は『懲治叛亂条例』と『戡亂時期検肅匪諜条例』であり、「叛乱」や「匪諜」の疑いがあるとされた者は、通常の司法手続きなしで軍法審判にかけられた。転換正義促進委員会（促転会）が後に設立した「台湾転換正義データベース」には、1万4,000件以上の政治案件の裁判記録が収録されている[^8]。そのうち、蔣介石（しょうかいせき）本人が裁量に関与した判決は3,000件を超え、死刑判決は876件に上る。[^11]
 
-The silence after the lifting of martial law had structural causes. Wu Nai-te, a researcher at the Institute of Sociology, Academia Sinica, proposed three explanations in his paper: Taiwan's democratic transition was led by the KMT (the "Quiet Revolution" model), and the ruling party retained political legitimacy after democratization; the economic achievements of the late authoritarian period led many to view Chiang Ching-kuo as a merit-maker rather than a criminal; and given the long passage of time since the political oppression, perpetrators had either died or grown old.[^7]
+| 14,946件                           | 876件        |
+| ---------------------------------- | ------------ |
+| 政治案件の裁判記録（データベース） | 確定死刑判決 |
 
-After the first party alternation in power in 2000, "transitional justice" began to become public vocabulary. However, during Chen Shui-bian's eight years in office, substantive progress remained quite limited, staying mostly at the symbolic level—single-point actions like changing street names and removing statues, without a systematic legal framework.
-
----
-
-## The TJC Act and the TJC: An Agency Thirty Years Late
-
-In 2016, when the DPP simultaneously won the executive and legislative branches, the legislation of the _Transitional Justice Act_ truly advanced. Even so, the process was not smooth: the KMT strongly obstructed it in the Legislative Yuan, even filing for constitutional interpretation. The Act was finally passed in its third reading on December 5, 2017, defining the "authoritarian rule period" as August 15, 1945, to November 6, 1992.
-
-On May 31, 2018, the Transitional Justice Commission (TJC) was officially established. It was the first unit in Taiwan's history to promote transitional justice under the name of a state agency, subordinate to the Executive Yuan. Its statutory duration was two years, later extended twice, and it was finally dissolved on May 31, 2022, surviving for a total of 1,460 days.[^2]
-
-The TJC faced a crisis from its inception. In September 2018, Deputy Chairperson Chang Tien-chin was exposed via audio recordings for attacking opposition figures in an internal meeting. The TJC was mocked by the public as the "Eastern Factory" (a reference to the secret police of the Qing dynasty), and both the Chairperson and Deputy Chairperson resigned. This opening left the TJC struggling to establish credibility throughout its term.[^3]
-
-> **⚠️ Controversial Viewpoint**
-> The TJC's political position was always caught between two fires: to the Blue Camp (KMT), it was a "tool for political reckoning"; to some pro-independence factions and victims' families, its efforts were insufficient and it avoided holding perpetrators accountable. Era Power spokesperson Li Chao-li stated to the BBC, "Many elites who were attached to the one-party system in the past authoritarian era could still make a comeback during the democratic transition."[^4]
+最終的に推定される白色テロの犠牲者は、2022年時点で確認できているだけで2万2,000人以上である。[^1]しかし、「確認できている」という言葉自体が問題である。促転会が資料整理を始める以前は、この数字を見積もることさえ困難であった。
 
 ---
 
-## Four Years of the TJC: What Was Done, What Was Not
+## 沈黙の40年：戒厳令解除が清算を意味しない
 
-1. **2018/05/31** — TJC officially established, first Chairperson Huang Huang-hsiung took office.
-2. **2018/10/04** — First wave of guilty verdict revocation list published, 1,270 people.
-3. **2020/02/26** — Taiwan Transitional Justice Database launched, Chiang Kai-shek's intervention in judgments data made public for the first time.
-4. **2021/03/30** — First batch of 25 sites of injustice officially reviewed and announced.
-5. **2021/03/27** — Fifth to seventh waves of revocation announcements, cumulative total 5,942 cases.
-6. **2022/02/22** — Second batch of 17 White Terror sites of injustice announced.
-7. **2022/05/31** — TJC officially disbanded, tasks transferred to various ministries.
+1987年の戒厳令解除に対し、台湾社会は一般的に歓迎の声を上げた。しかし、戒厳令解除は戒厳令の撤廃を意味するだけであり、政治清算の開始を意味するものではなかった。
 
-### Restoring Judicial Injustice: The Most Concrete Achievement
+『懲治叛乱条例』が廃止されたのは1991年であり、旧『刑法』第100条（思想犯罪条項）が改正されたのは1992年であった。さらに、1987年に通過した『国家安全法』には、「戒厳時期に軍法機関が下した確定判決は、上訴・抗告できない」と記されていた。これは白色テロの裁判結果を法律の金庫に閉じ込め、犠牲者の冤罪回復を21世紀以降に持ち越すこととなった。
 
-During its four-year term, the TJC revoked a total of **5,983 guilty verdicts**[^1], including the well-known Formosa Incident case, Lukue Incident, 520 Farmers' Movement case, and Taiyuan Incident. This is the most clearly advanced part of the TJC's mission, because the legal basis for administrative agencies to revoke judicial judgments was established, and each wave of revocation had public ceremonies and lists.
+> **💡 知っていますか**
+> 台湾で戒厳令解除後、初めて公式に行われた政府の謝罪は、1995年まで待たなければならなかった。[[李登輝]]（りとうき）氏を代表とする政府が、二二八事件の犠牲者家族に謝罪し、『二二八事件処理及補償条例』を通過させ、二二八事件記念基金会を設立した。白色テロに関する補償立法は数年後に続き、補償は行われたが、責任追及は別問題であった。台湾が行ったのは前者のみである。
 
-However, "revoking guilty verdicts" and "finding out who made them sit in prison" are two different things. Taiwan achieved the former, but the latter was almost entirely absent.
+戒厳令解除後の沈黙には構造的な理由がある。中央研究院社会学研究所研究員の呉乃徳（ご・のいとく／ウー・ナイー）は論文で3つの説明を提示している。台湾の民主的転換は国民党主導（「静かなる革命」モデル）であり、民主化後も国民党は政治的正統性を維持していた。威権末期の経済的成功により、多くの人が蔣経国（しょうけいこく）を罪人ではなく功臣と見なしていた。さらに、政治的弾圧から時間が経過しすぎたため、加害者は死亡するか高齢化していた。[^7]
 
-### Political Archives: Open and Still Closed
-
-The TJC reviewed **6,306 cases** of political archives held by state agencies, and simultaneously reviewed **7,572 items** of political archives within the KMT's party assets.[^1] This included "General Manager's Annotations"—documents personally annotated by Chiang Kai-shek, where one can see his handwriting changing fixed-term imprisonment sentences to death sentences.
-
-However, this process itself was full of resistance. The KMT once claimed "there were no other archives to report," but the TJC ultimately discovered that the party still held a large amount of untransferred "Taiwan Provincial Party Committee" archives, including precious materials involving the February 28 Incident, personnel调动 (transfer) of party and government organs, and the reception of party assets.
-
-### Authoritarian Symbols: The Difficulties Behind the Numbers
-
-The TJC investigated authoritarian symbols across Taiwan (mainly statues of the two Chiangs and named spaces), ultimately totaling **1,546 items/places**. By the time of its dissolution, the proportion of central administrative agencies that had removed or disposed of them was 27.05%, and local counties/cities were 26.74%. Including those "agreed for disposal," the total for the whole island was approximately 33.2%.[^1]
-
-In other words, more than two-thirds of Chiang Kai-shek or Chiang Ching-kuo statues remained in place as of 2022.
-
-The most prominent site, the Chiang Kai-shek Memorial Hall, saw the TJC host multiple workshops, change some exhibition spaces, and propose a recommended plan before dissolution, advocating for its transformation into a "Democratic Historical Memory Hall" paired with a "Reflection on Authoritarian History Park".[^2] However, whether the statue is removed remains an open case, now handled by the Ministry of Culture.
-
-> **📝 Curator's Note**
-> A detail that illustrates the complexity of the issue: The Chiang Kai-shek statues removed from all over the country were many concentrated in Daci, Cihu, Taoyuan. That place has now become a "Monument Sculpture Park," a popular tourist attraction. The gray area between removal and preservation is fully exposed in this park.
-
-### Sites of Injustice: Turning Past Wounds into Public Spaces
-
-The TJC announced a total of **42 Sites of Injustice** in two batches[^1], including the New Taipei City Jingmei (White Terror Jingmei Memorial Park), Taitung Green Island (White Terror Green Island Memorial Park), and the Taipei Ankang Reception House. The Ankang Reception House is particularly precious because it has been preserved in its original form to this day—it was the site of political interrogation during the authoritarian era, and walking in still allows one to feel the oppressive spatial design of that time.
-
-The National Human Rights Museum, subordinate to the Ministry of Culture, continues to maintain exhibitions at the Jingmei and Green Island parks, and has built the "National Human Rights Memory Database" and "Sites of Injustice Database" for public query.
+2000年の初の政党交代後、「転換正義」は公共的な用語となり始めた。しかし、陳水扁（ちんすいへん／チェン・シュイビェン）政権の8年間、実質的な進展は限定的であり、象徴的なレベルに留まることが多かった。道路名の変更や銅像の撤去といった単発的な行動はあったものの、体系的な法的枠組みは存在しなかった。
 
 ---
 
-## The Unresolved Question: Where Are the Perpetrators?
+## 促転条例と促転会：30年遅れた機関
 
-When the TJC dissolved, it left behind a task summary report of 1.77 million words. It recorded the stories of many victims and the operational methods of the authoritarian system. But one thing remained blank at the end of the four-year term: **individual accountability of perpetrators**.
+2016年、民主進歩党（民進党）が行政権と立法権の両方を掌握し、『促進轉型正義条例』の立法が真に進んだ。それでも過程は順調ではなかった。国民党は立法院で激しく妨害し、憲法解釈を請求するに至った。条例は2017年12月5日に三読可決され、「威権統治時期」は1945年8月15日から1992年11月6日までと規定された。
 
-This is not a unique difficulty for Taiwan, but Taiwan's situation has its特殊性 (specific characteristics).
+2018年5月31日、促進轉型正義委員会（促転会）が正式に設立された。これは台湾史上、国家機関の名の下に転換正義を推進する初の単位であり、行政院に所属し、法定存続期間は2年であった。その後2回の任期延長を経て、最終的に2022年5月31日に正式に解散し、合計1,460日間存続した。[^2]
 
-After German reunification, East Germany established the Stasi Records Agency (Stasi Records Agency), similar to the Gestapo. German citizens could access records of their own surveillance, and information on over 170,000 citizens who had served as informants became public data.[^12] The TJC had exchanged experiences with the Stasi Records Agency, but Taiwan never passed a similar "Lustration Law"—a mechanism for systematic review of former authoritarian accomplices in public office.
+促転会の設立当初から危機が訪れた。2018年9月、副主委の張天欽（ちょう・てんしん／チャン・ティエンチン）が内部会議で野党人物を攻撃する発言が録音され、外界から「東廠（東廠）」と嘲られた。主委と副主委が相次いで辞任した。このスタートは、促転会が任期全体を通じて公信力の構築に努める結果となった。[^3]
 
-South Korea's experience is closer to "accountability to the end": The suppressors of the 1980 Gwangju Uprising, including former Presidents Chun Doo-hwan and Roh Tae-woo, were prosecuted in 1995 after democratization, and sentenced to death (later commuted) and life imprisonment respectively in 1997.[^9] Chiang Kai-shek, the mastermind of Taiwan's political oppression, died in 1975, making legal accountability impossible; but others in his system—military judges, intelligence officers, informants—have to this day been almost never publicly named.
-
-> **✦** "Not holding accountable the accomplices of the past regime is a great reconciliation with criminals; in the end, the murderer remains among us." — German writer Ralph Giordano (1923-2014), quoted from Taiwan Yong Society series commentary[^5]
-
-This sentence appears in literature cited by Taiwan's transitional justice legal researchers. Ironically, Taiwan's transitional justice indeed moved in this direction.
+> **⚠️ 論争の視点**
+> 促転会の政治的立場は常に両面から攻撃された。藍営（国民党）にとって、それは「政治清算の道具」であった。一部の独派や犠牲者家族にとって、その力は不足し、加害者の追及を回避していた。時代力量のスポークスマンである李兆立（り・ちょうりゅう／リー・チャオリー）氏はBBCに対し、「威権時代のエリート多くが、一党支配体制に依存しており、民主的転換の中で再び復権している」と述べた。[^4]
 
 ---
 
-## To What Extent Is Transitional Justice Considered Complete?
+## 促転会の4年間：何を行い、何をなしたか
 
-This is a question continuously debated in Taiwanese society, and the reasons for dissatisfaction from each camp are exactly opposite.
+1. **2018/05/31** — 促転会が設置され、初代主委の黄煌雄（こう・こうゆう／ホアン・ファンション）が就任
+2. **2018/10/04** — 第1回有罪判決撤廃リスト公布、1,270人
+3. **2020/02/26** — 台湾転換正義データベース公開、蔣介石の関与判決資料が初めて公開
+4. **2021/03/30** — 第1弾25カ所の不義遺址（不正義の遺跡）が正式に認定・公告
+5. **2021/03/27** — 第5〜7回撤廃公告、累計5,942件
+6. **2022/02/22** — 第2弾17カ所の白色テロ不義遺址を公告
+7. **2022/05/31** — 促転会が正式に解散し、任務は各部会に移管
 
-**Voices believing it is "Enough, Even Excessive":** Represented by the KMT, believing the TJC is a political tool of the DPP, and that the achievements of the authoritarian era (such as the "Taiwan Economic Miracle") should not be written off. Chiang Kai-shek is still considered by many polls to be the "President who contributed most to Taiwan".[^13]
+### 司法的不法の平復：最も具体的な成果
 
-**Voices believing it is "Far From Enough":** Civil human rights groups, descendants of victims, and some scholars point out that Taiwan's transitional justice has always had "only victims, no perpetrators." Lustration laws were never passed, party asset handling is opaque, spaces related to Chiang Kai-shek still exist in large numbers, and the narrative of authoritarian history in the education system remains controversial to this day.[^12]
+4年間の任期において、促転会は合計**5,983件**の有罪判決を撤廃した[^1]。これには有名な美麗島事件、鹿窟事件、520農民運動事件、泰源事件などが含まれる。これは促転会の任務の中で最も進展が明確な部分であり、行政機関が司法判決を撤廃する法的根拠が確立されており、各回の撤廃には公開式典とリストが存在したからである。
 
-**A Third Voice—Believing the Framework Itself Is Problematic:** Some scholars (such as Professor Cheng Chih-yung of the Department of Political Science, National Taiwan University) point out that Taiwan's transitional justice has become overly politicized, becoming an extension of the pro-independence and pro-unification battlefields, dragging measures that could have凝聚 (coalesced) consensus into identity politics.
+しかし、「有罪判決の撤廃」と「誰が彼らを投獄したのかの特定」は別の問題である。前者は台湾が行ったが、後者はほぼ欠如している。
 
-The United Nations' _Guidelines on Transitional Justice_, released in 2010, divides work into five dimensions: prosecuting perpetrators, realizing the right to know the truth, restoring victims' rights, institutional reform, and national participation in dialogue.[^12] Taiwan has done relatively well in "victim compensation," and has a database to check for "knowing the truth," but in "prosecuting perpetrators" and "institutional reform" (especially education), there is still a large amount of work unfinished.
+### 政治档案：公開されたものと、まだ閉じられたもの
 
-> **⚠️ Controversial Viewpoint**
-> After the TJC dissolved, transitional justice work was taken over by the Executive Yuan's "Transitional Justice Conference" and various ministries. Critics worry that the decentralized transfer method will cause highly politically sensitive work to lose momentum—especially handing over "perpetrator identification and accountability" to the Ministry of Justice, which is not independent of political pressure. Ye Hsing-ling, the TJC's last acting chairperson, said in 2022: "Leave the score for others to grade."[^14]
+促転会は、国家機関が保有する政治档案**6,306件**を認定し、国民党の党産に含まれる政治档案**7,572筆**を認定した。[^1]これには「総裁批簽」が含まれる。蔣介石が自ら署名した文書であり、そこには懲役刑を死刑に改判した手跡が見られる。
+
+しかし、この過程自体が阻力に満ちていた。国民党は「他に通報すべき档案はない」と主張したが、促転会は最終的に党内部に大量の未移転「台湾省党部」档案が残っていることを発見した。これには二二八事件、党政機関の人事異動、党産受領に関する貴重な資料が含まれていた。
+
+### 威権象徴：数字の背後にある困難
+
+促転会は全台の威権象徴（主に蔣介石・蔣経国の銅像と命名された空間）を調査し、最終的な総数は**1,546カ所**と統計した。解散時までに、中央行政機関が撤去・処置した割合は27.05%、地方県市は26.74%であった。「処置に同意」するケースを加算すると、全台合計で約33.2%である。[^1]
+
+言い換えれば、2022年時点で、蔣介石または蔣経国の銅像の3分の2以上が、元の場所から動いていない。
+
+最も注目を集めた中正紀念堂（中正記念堂）について、促転会はその任期内に複数のワークショップを開催し、一部の展示空間を変更した。解散前に提案された方案では、「民主歴史記憶館」と「威権歴史反省公園」を併設するよう主張した。[^2]しかし、銅像の撤去の有無は今も未解決問題であり、文化部が引き継いで推進している。
+
+> **📝キュレーターノート**
+> 問題の複雑さをよく示す细节がある。全台各地から撤去された蔣介石銅像の多くが、桃園・大渓の慈湖に集められた。そこは現在「記念彫刻公園」となっており、人気観光地となっている。撤去と保存のグレーゾーンが、この公園において完全に露呈している。
+
+### 不義遺址：過去の傷を公共空間へ
+
+促転会は2回に分けて合計**42カ所の不義遺址**を公告した[^1]。これには新北市景美（白色テロ景美記念园区）、台東緑島（白色テロ緑島記念园区）、台北安康接待所などが含まれる。そのうち安康接待所は、当時の姿をそのまま残しているため特に貴重である。そこは威権時代の政治尋問の現場であり、中に入れば当時の圧迫的な空間設計を感じることができる。
+
+文化部に所属する国家人权博物館は、景美と緑島の2つの园区で展示の運営を継続し、「国家人权記憶庫」と「不義遺址データベース」を構築して公開照会に供している。
 
 ---
 
-## The [[Sunflower Student Movement]] and the Generational Connection of Transitional Justice
+## 解決されなかった問題：加害者はどこにいるか
 
-An interesting time point is worth noting: The legislative advancement of Taiwan's transitional justice occurred exactly within the political landscape after the 2014 [[Sunflower Student Movement]]. The Sunflower Movement changed Taiwan's political map, making the DPP's full governance in 2016 possible, and the _Transitional Justice Act_ was passed only after that full governance.
+促転会が解散した際、177万文字に及ぶ任務總結報告書が残された。そこには多くの犠牲者の物語や、威権体制の機能方法が記録されている。しかし、1つだけ、4年間の任期終了時に空白のまま残ったものがある。**加害者の個別追及**である。
 
-The core issue of the Sunflower Movement was sovereignty and democracy, but it was also a generation's reaction to the authoritarian legacy—resistance to a political system dominated by a party transformed from the old party-state machine. In a sense, transitional justice is the institutional outlet for this generation's sense of historical debt.[^2]
+これは台湾固有の難題ではないが、台湾の状況には特殊性がある。
 
-But the story of [[Zheng Nan-yong]] reminds us that this path is longer than anyone expected. In 1989, Zheng Nan-yong resisted the KMT's arrest warrant by self-immolation, becoming a martyr for Taiwan's freedom of speech. Thirty years after his death, Taiwan established the formal agency to promote transitional justice. Thirty-four years after his death, the agency had already dissolved, and the justice he expected had not yet been completed.
+東ドイツは統一後、ゲシュタポ様式の「シュタジ（国家保安省）档案局」（Stasi Records Agency）を設立した。ドイツ国民は自分が監視された記録を照会でき、17万人以上の元スパイの情報が公開資料となった。[^12]台湾の促転会はシュタジ档案局と交流を行ったが、台湾は同様の「除垢法」（lustration、元威権協力者の公職における系統的審査）を制定したことはない。
+
+韓国の経験は「究極の追及」に近い。1980年の光州事件の弾圧者には、元大統領の全斗煥（ぜん・とうかん／チョン・ドゥファン）や盧泰愚（ろ・たいう／ノ・テウ）が含まれ、民主化後の1995年に起訴され、1997年にそれぞれ死刑（後に減刑）および無期徒刑を宣告された。[^9]台湾の政治弾圧の首謀者である蔣介石は1975年に死去しており、法的追及はもはや不可能である。しかし、彼の体制内の他の者たち、すなわち軍法官、情報官員、スパイの多くは、今も公開指名されていない。
+
+> **✦** 「過去の政権の協力者を追及しないことは、犯罪者との大和解であり、最後に殺人犯は我々の人群中に存在し続ける。」— ドイツの作家ラルフ・ジョルダノ（Ralph Giordano, 1923-2014）、台湾の永社シリーズ評論より[^5]
+
+この言葉は、台湾の転換正義法制研究者が引用する文献に含まれている。皮肉なことに、台湾の転換正義は確かにこの方向へ向かった。
 
 ---
 
-## Curator's Note: An Engineering Project Without an Endpoint
+## 転換正義はどの程度達成された時点で完了と言えるか
 
-> **📝 Curator's Note**
-> Transitional justice has a standard definition in academia, but in Taiwan, it has always been a term occupied by living politics. Before every election, it turns from a historical task into a campaign weapon, exhausting those who are truly willing to delve into it.
+これは台湾社会が継続的に議論している問題であり、各陣営の不満の理由は正反対である。
+
+**「十分である、甚至過剰である」と考える声：** 国民党を代表とし、促転会は民進党の政治道具であり、威権時代の功績（「台湾経済奇蹟」など）を帳消しにするべきではないと主張する。蔣介石は複数の世論調査で「台湾への貢献が最大の総統」と見なされている。[^13]
+
+**「はるかに不十分である」と考える声：** 民間の人権団体、犠牲者の後裔、一部の学者は、台湾の転換正義は常に「犠牲者しかおらず、加害者がいない」と指摘する。除垢法は通過せず、党産処理は透明性に欠け、蔣介石関連の空間が大量に残っており、教育体系における威権歴史の叙述は今も議論がある。[^12]
+
+**第3の声——枠組み自体に問題があるとする声：** 一部の学者（台大政治学系教授の鄭志湧（てい・しゆう／チョン・チーユン）など）は、台湾の転換正義が過度に政党化し、台独と統一路線の延長戦となり、本来合意形成できる措置がアイデンティティ政治に引きずられたと指摘する。
+
+国連が2010年に発表した『転換正義ガイドライン』は、作業を5つの次元に分けている：加害者の訴追、真実を知る権利の実現、被害者の権利回復、体制改革、国民参加対話。[^12]台湾は「被害者補償」において比較的完全であり、「真実を知る」点ではデータベースが利用可能であるが、「加害者の訴追」と「体制改革」（特に教育）において、未完了の作業が依然として多い。
+
+> **⚠️ 論争の視点**
+> 促転会解散後、転換正義の作業は行政院「転換正義推進会議」と各部会が引き継いだ。批評家は、分散化された移管方式が、高度に政治的な敏感な作業の動力を失わせることを懸念している。特に「加害者の特定と究責」は法務部に移管されたが、法務部は政治的圧力に対して独立していない。2022年、促転会の最後の代理主委である葉虹霊（よう・こうれい／イエ・ホンリン）は、「点数は外界に委ねる」と述べた。[^14]
+
+---
+
+## [[太陽花學運]]と転換正義の世代の連結
+
+注目すべき興味深い時期がある。台湾の転換正義の立法推進は、ちょうど2014年の[[太陽花學運]]（太陽花学運）後の政治状況の中で行われた。太陽花学運は台湾の政治地図を変え、2016年の民進党の全面執政を可能にした。『促進轉型正義条例』は、まさにその全面執政後に通過した。
+
+太陽花学運の核心的議題は主権と民主主義であったが、それは同時に1世代の威権遺産への反応でもあった。旧党国機械から変容した政党が主導する政治体制への抵抗である。ある意味で、転換正義は、この世代の歴史的反省意識の制度的出口である。[^2]
+
+しかし、[[鄭南榕]]（てい・なんよう／チェン・ナンロン）の物語は、この道が誰が予想したよりも長いことを私たちに思い起こさせる。1989年、鄭南榕は国民党の逮捕令に抵抗するため自焚し、台湾の言論自由の殉教者となった。彼が死んで30年後、台湾は転換正義を推進する正式機関を設立した。彼が死んで34年後、機関は解散し、彼が予期した正義は未だ完成していない。
+
+---
+
+## キュレーターノート：終点のない工程
+
+> **📝キュレーターノート**
+> 転換正義は学術的に標準的な定義を持っているが、台湾においてそれは常に生きた政治に占められた言葉である。選挙のたびに、それは歴史作業から選挙戦の武器へと変わり、深く関与したい人々を疲れ果てさせる。
 >
-> The question Cai Kun-lin asked at 93—"Who exactly killed my friend?"—is not a question that can be answered by statistics. It requires a society willing to be clear: In that era, who did what, and for what reason.
+> 93歳の蔡焜霖が投げかけた問い——「いったい誰が私の友人を殺したのか？」——は、統計数字で答えられる問題ではない。それは、社会が明確に言うことを望むことを必要とする。その時代、誰が何を行い、何のためにそうしたのかを。
 >
-> The true difficulty of Taiwan's transitional justice is not the lack of data, but the lack of consensus in society on "what to do after making it clear." Most people agree to rehabilitate victims; when it comes to holding perpetrators accountable, the consensus cracks.
+> 台湾転換正義の真の困難さは、資料が見つからないことではない。社会が「明確にした後、どうするか」について合意を持っていないことである。犠牲者の冤罪回復については、大多数が同意する。加害者の追及については、合意は裂ける。
 >
-> This crack may be harder to handle than the statues themselves.
+> この亀裂は、銅像そのものよりも処理が難しいかもしれない。
 
-**Further Reading**:
+**関連読書**：
 
-- [National Human Rights Museum](/history/國家人權博物館) — The museum built by the state itself to commemorate political victims, unveiled in 2018, budget frozen in 2025
-- [Taiwan White Terror](/history/台灣轉型正義) — The historical entity targeted by the revocation of verdicts
-- [Martial Law Era](/history/戒嚴時期) — The legal container from 1949-1987
-- [February 28 Incident](/history/二二八事件) — The suppression in post-war Taiwan in 1947, another line of transitional justice work
+- [国家人权博物館](/history/國家人權博物館) — 国家が政治犠牲者を記念するために自ら建設した博物館、2018年開館、2025年の予算は凍結された
+- [台湾白色恐怖](/history/台灣白色恐怖) — 判決撤廃の対象となった歴史的本体
+- [戒嚴時期](/history/戒嚴時期) — 1949-1987年の法的容器
+- [二二八事件](/history/二二八事件) — 1947年戦後台湾の弾圧、転換正義作業のもう一つの線
+- [发票：1951年、全民を税務稽查員に変えた紙](/economy/發票) — 統一发票の設計者である任顕群（じん・けんぐん／レン・シエンチュン）は、馬英九（ばえいきゅう／マー・インジウ）と蔡英文（さい・えいぶん／ツァイ・インウェン）の両政権を横断し、多年をかけて冤罪回復を完了した。転換正義作業の具体的な事例である。
 
-## References
+## 参考資料
 
-[^1]: [Transitional Justice Commission Official Website](https://www.tjc.gov.tw/) — See original link content for supplementary data
+[^1]: [促進轉型正義委員会公式サイト](https://www.tjc.gov.tw/) — 原始リンク内の資料補足参照
 
-[^2]: [Plain Law: After the TJC Dissolves, What Is the Next Step for Transitional Justice? (2024)](https://plainlaw.me/posts/tjc) — Plain Law Movement
+[^2]: [法律白話文運動：促転会解散後、転換正義の次のステップ（2024）](https://plainlaw.me/posts/tjc) — 法律白話文運動
 
-[^3]: [The News Lens: Transitional Justice Work Racing Against Time (2022)](https://www.thenewslens.com/feature/transitionaljustice/166787) — See original link content for supplementary data
+[^3]: [關鍵評論網：時間と競う転換正義作業（2022）](https://www.thenewslens.com/feature/transitionaljustice/166787) — 原始リンク内の資料補足参照
 
-[^4]: [BBC Chinese: Taiwan Continues to Debate Unhappy 'Transitional Justice' Regardless of Unification or Independence (2019)](https://www.bbc.com/zhongwen/trad/chinese-news-47449363) — BBC News Chinese Report
+[^4]: [BBC中文：台湾、統独の激辯を続ける「転換正義」（2019）](https://www.bbc.com/zhongwen/trad/chinese-news-47449363) — BBC News 中文報道
 
-[^5]: [The Reporter: Lin Chia-ho / How to Handle 'Perpetrators' in Transitional Justice?](https://www.twreporter.org/a/opinion-how-to-investigate-the-offenders) — See original link content for supplementary data
+[^5]: [報導者：林佳和／転換正義は「加害人」をどのように処理するか？](https://www.twreporter.org/a/opinion-how-to-investigate-the-offenders) — 原始リンク内の資料補足参照
 
-[^6]: [Taiwan Truth and Reconciliation Commission: Introduction to White Terror](https://taiwantrc.org/taiwan-history/white-terror-history/) — See original link content for supplementary data
+[^6]: [台湾民間真相與和解促進会：白色テロ概要](https://taiwantrc.org/taiwan-history/white-terror-history/) — 原始リンク内の資料補足参照
 
-[^7]: [Wu Nai-te: Transitional Justice and Historical Memory: The Unfinished Business of Taiwan's Democratization](https://www.ios.sinica.edu.tw/people/personal/wnd/%E8%BD%89%E5%9E%8B%E6%AD%A3%E7%BE%A9%E5%92%8C%E6%AD%B7%E5%8F%B2%E8%A8%98%E6%86%B6.pdf) — Academia Sinica
+[^7]: [呉乃徳：転換正義と歴史記憶：台湾民主化の未完の事業](https://www.ios.sinica.edu.tw/people/personal/wnd/%E8%BD%89%E5%9E%8B%E6%AD%A3%E7%BE%A9%E5%92%8C%E6%AD%B7%E5%8F%B2%E8%A8%98%E6%86%B6.pdf) — 中央研究院
 
-[^8]: [Taiwan Transitional Justice Database](https://twtjcdb.nhrm.gov.tw/) — See original link content for supplementary data
+[^8]: [台湾転換正義データベース](https://twtjcdb.nhrm.gov.tw/) — 原始リンク内の資料補足参照
 
-[^9]: [Taipei Times: Seoul does transitional justice right (2023)](https://www.taipeitimes.com/News/editorials/archives/2023/04/09/2003797573) — See original link content for supplementary data
+[^9]: [Taipei Times：Seoul does transitional justice right（2023）](https://www.taipeitimes.com/News/editorials/archives/2023/04/09/2003797573) — 原始リンク内の資料補足参照
 
-[^10]: [Openbook Reading Magazine: A Political Prisoner's Dream of 'Prince' — Interview with Cai Kun-lin (2023)](https://www.openbook.org.tw/article/p-68031) — See original link content for supplementary data
+[^10]: [Openbook 閱讀誌：政治犯の『王子』夢——蔡焜霖インタビュー（2023）](https://www.openbook.org.tw/article/p-68031) — 原始リンク内の資料補足参照
 
-[^11]: [Liberty Times: Transitional Justice Database Launched, Chiang Kai-shek Intervened in 3,000 Judgments (2020)](https://news.ltn.com.tw/news/politics/breakingnews/3081399) — Liberty Times Report
+[^11]: [自由時報：転換正義データベース上线、蔣介石が判決に介入3000件（2020）](https://news.ltn.com.tw/news/politics/breakingnews/3081399) — 自由時報報道
 
-[^12]: [Chang-Liao & Chen, "Transitional Justice in Taiwan: Changes and Challenges", Washington International Law Journal (2020)](https://digitalcommons.law.uw.edu/wilj/vol28/iss3/5/) — See original link content for supplementary data
+[^12]: [Chang-Liao & Chen, "Transitional Justice in Taiwan: Changes and Challenges", Washington International Law Journal（2020）](https://digitalcommons.law.uw.edu/wilj/vol28/iss3/5/) — 原始リンク内の資料補足参照
 
-[^13]: The KMT's criticism of the TJC as a political tool is a public stance within the party. For Chiang Kai-shek's historical presidential evaluation polls, see TVBS Poll Center's various releases.
+[^13]: 国民党の促転会に対する政治道具としての批評は党内の公開立場であり、蔣介石の歴代総統評価の世論調査はTVBS世論調査センターの各回発表を参照。
 
-[^14]: Ye Hsing-ling's statement "Leave the score for others to grade" during media interviews is seen in multiple media reports (Central News Agency, Liberty Times, etc.) on the eve of the TJC's dissolution in 2022.
+[^14]: 葉虹霊のメディアインタビューにおける「点数は外界に委ねる」の表現は、2022年促転会解散直前の多家メディア報道（中央社、自由時報など）にみられる。

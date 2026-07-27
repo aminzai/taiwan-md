@@ -25,9 +25,9 @@ lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/連江縣.md'
-sourceCommitSha: 'ecd9f7b06'
-sourceContentHash: 'sha256:bed7ca568c30fdad'
-sourceBodyHash: 'sha256:1637fa66ecda0e7f'
+sourceCommitSha: '2f3bfdbf'
+sourceContentHash: 'sha256:8ae350615e660491'
+sourceBodyHash: 'sha256:2da5583381fa39ad'
 translatedAt: '2026-05-18T05:08:09+08:00'
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Matsu_Montage.png/560px-Matsu_Montage.png
 imageCredit: Sleepingstar

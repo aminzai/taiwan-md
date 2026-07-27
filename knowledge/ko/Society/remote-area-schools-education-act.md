@@ -22,9 +22,9 @@ readingTime: 16
 featured: true
 translatedFrom: 'Society/偏遠地區學校教育發展條例全解.md'
 lastVerified: 2026-04-11
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:d99122254e2c5422'
-sourceBodyHash: 'sha256:1c338a244e1bf25e'
+sourceCommitSha: 'd7a10960'
+sourceContentHash: 'sha256:3a5b64aac1eb2c2e'
+sourceBodyHash: 'sha256:1640a85ec53af696'
 translatedAt: '2026-04-14T06:21:59+08:00'
 lastHumanReview: false
 difficulty: 'intermediate'

@@ -20,9 +20,9 @@ lastVerified: 2026-05-10
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/台灣無人機產業.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:de2ace5a9d645535'
-sourceBodyHash: 'sha256:0efd20b7166e441a'
+sourceCommitSha: 'c2412970'
+sourceContentHash: 'sha256:9a74d696840dfd44'
+sourceBodyHash: 'sha256:6b0ed5d3cd521366'
 translatedAt: '2026-06-16T17:15:00Z'
 image: '/article-images/technology/chung-shyang-ii-uav-2007.webp'
 imageCredit: 'Kliu1'

@@ -18,9 +18,9 @@ lastVerified: 2026-05-17
 lastHumanReview: false
 featured: true
 translatedFrom: 'Culture/群島思維.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:75c25926a0cdd0a8'
-sourceBodyHash: 'sha256:02638f04673a14f6'
+sourceCommitSha: '0c0b1668'
+sourceContentHash: 'sha256:69f8f034dcafc5a6'
+sourceBodyHash: 'sha256:f5fbc7ca5aa903a2'
 translatedAt: '2026-05-17T05:06:52+08:00'
 image: '/article-images/culture/austronesian-migration-map.webp'
 imageCredit: 'Kikilipse / Wikimedia Commons (CC BY-SA 4.0)'

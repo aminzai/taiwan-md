@@ -20,9 +20,9 @@ lastVerified: 2026-06-09
 lastHumanReview: true
 featured: false
 translatedFrom: 'Music/蘇打綠.md'
-sourceCommitSha: '9a897676'
-sourceContentHash: 'sha256:66ed90f7488d68a3'
-sourceBodyHash: 'sha256:b5287a0564581351'
+sourceCommitSha: 'ac048ecf'
+sourceContentHash: 'sha256:0b7436a5f5ecebd9'
+sourceBodyHash: 'sha256:343b0b4aed90195f'
 translatedAt: '2026-07-01T16:40:24Z'
 image: '/article-images/music/sodagreen-six-members-2014.webp'
 imageCredit: 'Solomon203'

@@ -21,9 +21,9 @@ category: 'Lifestyle'
 lastVerified: 2026-03-25
 lastHumanReview: false
 translatedFrom: 'Lifestyle/台灣機車文化.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:6e1ce0a29ebd4e81'
-sourceBodyHash: 'sha256:5fa0068bcb11d00b'
+sourceCommitSha: 'da8d8687'
+sourceContentHash: 'sha256:f94b3bf22acf8238'
+sourceBodyHash: 'sha256:6ed1f511fb4c93bd'
 translatedAt: '2026-04-15T17:34:49+08:00'
 ---
 

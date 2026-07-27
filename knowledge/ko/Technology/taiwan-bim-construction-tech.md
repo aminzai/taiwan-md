@@ -24,10 +24,10 @@ readingTime: 22
 lastVerified: 2026-05-22
 lastHumanReview: false
 translatedFrom: 'Technology/台灣BIM與營建科技.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:5500ed1d9d4e0f85'
+sourceCommitSha: '30072b76'
+sourceContentHash: 'sha256:7923803a611ee1da'
 translatedAt: '2026-06-16T16:55:29Z'
-sourceBodyHash: 'sha256:6207b1decb9dcfc4'
+sourceBodyHash: 'sha256:ac277cd39572ac41'
 image: '/article-images/technology/freecad-bim-example-2024.webp'
 imageCredit: 'Maxwxyz via Wikimedia Commons'
 imageLicense: 'CC BY 4.0'

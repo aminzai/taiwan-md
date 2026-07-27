@@ -21,9 +21,9 @@ readingTime: 13
 featured: true
 translatedFrom: 'Society/一個教師的誕生：台灣師資培育制度.md'
 lastVerified: 2026-04-12
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:c478d71671e2c2ac'
-sourceBodyHash: 'sha256:bc28058b9b5c1450'
+sourceCommitSha: 'bb059332'
+sourceContentHash: 'sha256:cc5bd7cfca8af637'
+sourceBodyHash: 'sha256:073e34a439566b72'
 translatedAt: '2026-04-14T06:21:59+08:00'
 lastHumanReview: false
 difficulty: 'intermediate'

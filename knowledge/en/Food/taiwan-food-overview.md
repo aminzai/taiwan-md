@@ -1,7 +1,7 @@
 ---
 title: 'Taiwanese Food Overview: No Dish Is Purely Taiwanese, and Every Dish Is Taiwanese to the Core'
 description: "Beside the Chiayi Fountain roundabout in 1949, Lin Tien-shou sliced chicken, laid it over white rice, and poured Minnan-style braising sauce on top; only after the U.S. military stationed in postwar Taiwan moved into Shuishang Air Base and brought large numbers of turkeys to Taiwan did this bowl evolve from chicken rice into turkey rice. From Indigenous slate-grilled wild boar, Hakka stir-fried pork intestines with shredded ginger, and military dependents' village Sichuan-style beef noodles to bubble tea invented in Taichung in 1986, and onward to the 419 restaurants included by Michelin in 2025. This island spent four hundred years cooking every borrowed dish into its own form."
-date: '2026-05-18'
+date: 2026-05-18
 author: 'Taiwan.md'
 category: 'Food'
 subcategory: '美食總覽'
@@ -19,13 +19,13 @@ tags:
     'Lu Rou Fan',
     'Bando',
   ]
-lastVerified: '2026-05-18'
+lastVerified: 2026-05-18
 lastHumanReview: false
 featured: true
 translatedFrom: 'Food/台灣美食總覽.md'
-sourceCommitSha: 'bb411ee0'
-sourceContentHash: 'sha256:5170de2db0a4b0df'
-sourceBodyHash: 'sha256:9da2f70ce1ba4f1f'
+sourceCommitSha: '53dd93dd'
+sourceContentHash: 'sha256:4e63535e7555a67e'
+sourceBodyHash: 'sha256:607f80fde520e7fc'
 translatedAt: '2026-06-22T00:30:00+08:00'
 image: '/article-images/food/taiwan-food-overview-raohe-night-market-2023.webp'
 imageCredit: 'KClinla'

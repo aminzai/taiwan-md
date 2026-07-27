@@ -18,9 +18,9 @@ lastVerified: 2026-05-16
 lastHumanReview: true
 featured: true
 translatedFrom: 'Food/牛肉麵.md'
-sourceCommitSha: '30569f742'
-sourceContentHash: 'sha256:2d9ee979d4f7479e'
-sourceBodyHash: 'sha256:fcb7ba6bb70c92d6'
+sourceCommitSha: '271c50fb'
+sourceContentHash: 'sha256:0f8567c72fce22ef'
+sourceBodyHash: 'sha256:31e72a4ea39ea451'
 translatedAt: '2026-05-22T05:08:47+08:00'
 image: '/images/wiki/5be514264de6.jpg'
 imageCredit: 'Wikimedia Commons, CC BY-SA 2.0'

@@ -20,9 +20,9 @@ lastVerified: 2026-06-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣體育發展與奧運.md'
-sourceCommitSha: '6aa840307'
-sourceContentHash: 'sha256:00819cac3b7e14cf'
-sourceBodyHash: 'sha256:1b9fd837f0295a74'
+sourceCommitSha: 'b1f23fd8'
+sourceContentHash: 'sha256:cce1a0626b10ac89'
+sourceBodyHash: 'sha256:77348d4fbb7640a8'
 translatedAt: '2026-06-20T00:37:14+08:00'
 image: '/article-images/society/yang-chuan-kwang-1960.webp'
 imageCredit: '楊傳廣 1960 年羅馬奧運十項全能銀牌時期 — 公有領域'

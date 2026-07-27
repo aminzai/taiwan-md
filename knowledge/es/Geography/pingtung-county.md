@@ -27,9 +27,9 @@ lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/屏東縣.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:74a76153ce0680fe'
-sourceBodyHash: 'sha256:f6d31ce0f8b471cc'
+sourceCommitSha: '47d343b7'
+sourceContentHash: 'sha256:1730cee4562e4ee0'
+sourceBodyHash: 'sha256:feab50585a5f02eb'
 translatedAt: '2026-06-16T17:04:27Z'
 image: /article-images/geography/pingtung-hero.webp
 imageCredit: Bernard Gagnon

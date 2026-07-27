@@ -19,9 +19,9 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣循環經濟與資源再利用.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:d8fda6edab5e4cc6'
-sourceBodyHash: 'sha256:f3027d8d17d75948'
+sourceCommitSha: 'f944f63b'
+sourceContentHash: 'sha256:1f3ebd8f501cc764'
+sourceBodyHash: 'sha256:09a7619ad7b7047a'
 translatedAt: '2026-05-15T13:52:06+08:00'
 difficulty: 'intermediate'
 ---

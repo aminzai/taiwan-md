@@ -1,187 +1,186 @@
 ---
-title: "Cheng Wen-Chi: 12 Years of Pushing Taiwan's Art World into the Malay Archipelago"
-description: "In May 2017, Malaysian artist Okui Lala arrived in Taipei as the first resident artist of No Man's Land, screening a video of herself and her mother-in-law offering blessings in Teochew at her presentation. That scene was a microcosm of what Cheng Wen-Chi had set in motion when he founded No Man's Land in 2011 — 12 years later, 56 issues, 384 articles, and 10 volumes of the Nusantara Archive, using 'archipelago' in place of 'Southeast Asia' to push Taiwan's art world toward the Malay world, while also hitting the ceiling of a peripheral perspective."
+title: "Chun Wen-chi: 12 Years of Pushing Taiwan's Art Scene into the Malay Archipelago"
+description: 'In May 2017, Malaysian artist Okui Lala arrived in Taipei as the first resident for "No Man''s Land," presenting a video of her and her mother-in-law praying in Teochew. This scene epitomizes Chun Wen-chi''s 12-year journey with "No Man''s Land"—accumulating 56 issues, 384 articles, and 10 volumes of the "Nusantara Archive," using "archipelago" to replace "Southeast Asia" and push Taiwan toward the Malay world.'
 date: 2026-05-04
-author: 'Taiwan.md'
-category: People
-subcategory: '策展與藝術評論'
+category: 'People'
 tags:
   [
-    '鄭文琦',
-    '數位荒原',
-    'No Mans Land',
-    '群島資料庫',
+    'Chun Wen-chi',
+    "No Man's Land",
     'Nusantara Archive',
-    '當代藝術',
-    '策展人',
-    '南方視角',
-    '邊陲',
+    'Contemporary Art',
+    'Curator',
+    'Southern Perspective',
+    'Periphery',
   ]
+subcategory: '策展與藝術評論'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-04
 lastHumanReview: false
-featured: false
-translatedFrom: People/鄭文琦.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:0e9e8f5ed7e1d87b'
-sourceBodyHash: 'sha256:7cc12241a8e54299'
-translatedAt: 2026-05-05T00:33:23+08:00
+researchReport: 'reports/research/2026-05/鄭文琦.md'
+translatedFrom: 'People/鄭文琦.md'
+sourceCommitSha: '64d9ae569'
+sourceContentHash: 'sha256:c3100aba8df85cb7'
+sourceBodyHash: 'sha256:fa74581434f67fac'
+translatedAt: '2026-07-27T09:40:31+08:00'
 ---
 
-# Cheng Wen-Chi: 12 Years of Pushing Taiwan's Art World into the Malay Archipelago
+# Chun Wen-chi: 12 Years of Pushing Taiwan's Art Scene into the Malay Archipelago
 
-> **30-second overview:** Cheng Wen-Chi is the editor-in-chief of _No Man's Land_, a Taiwan-based contemporary art criticism platform. From its founding in 2011 to the present — 12 years — it has accumulated 56 issues and 384 articles. His real work lies in **replacing "Southeast Asia" with "archipelago" as a framework** — in 2017 he launched the Nusantara Archive project, inviting artists from Malaysia, Indonesia, and Singapore to undertake residencies in Taiwan, using _nusantara_ (the Malay word for "archipelago"), a pre-national concept, to give Taiwan's art world a geographic coordinate independent of both the "Chinese" and "Western" axes. But 12 years on, article output has shrunk (from a 2016 peak of 49 articles/year to just 5 in 2023), and a single-editor perspective combined with platform aging has meant the periphery has hit its own ceiling.
+> **30-Second Overview:** Chun Wen-chi (鄭文琦) is the editor-in-chief of the Taiwanese contemporary art criticism platform _No Man's Land_ (數位荒原). Since its founding in 201．011, he has accumulated 56 issues and 384 articles over 12 years. His true work lies in **using "archipelago" as a framework to replace "Southeast Asia"**—launching the "Nusantara Archive" (群島資料庫) project in 2017, inviting artists from Malaysia, Indonesia, and Singapore to residencies in Taiwan. Using the pre-national concept of _nusantara_ (the Malay word for "archipelago"), he provides the Taiwanese art scene with a geographic coordinate independent of both "China" and "the West." However, after 12 years, article production has shrunk (from a peak of 49 articles/year in 2016 to just 5 in 2023), and a single editorial perspective combined with platform aging has caused the periphery to hit its own ceiling.
 
-## The Afternoon Okui Lala Arrived in Taipei
+## The Afternoon Okui Lala Arrived in Taiwan
 
-In May 2017, **Malaysian artist Okui Lala** arrived in Taipei as the first invited artist under the No Man's Land residency and Nusantara Archive program[^1]. At her end-of-residency presentation, she screened a video — in it, she and her mother-in-law repeat the same set of Teochew phrases over and over: "Peace for the whole family, peace for the grandchildren, safety in all encounters, may we meet good people"[^2].
+In May 2017, **Malaysian artist Okui Lala** (周盈貞) arrived in Taipei as the first invited artist for the _No Man's Land_ residency and the Nusantara Archive project[^1]. At the presentation marking the end of her residency, she played a video—in which she and her mother-in-law repeatedly recited a set of Teochew blessings: "Peace to the whole family, peace to descendants, peace in coming and going, may you meet good people"[^2].
 
-That was footage from her 2016 work _How do we meet? How can we meet?_, recorded in Thailand. She and her mother-in-law repeat the same blessings in different languages, turning "how do people who speak different languages meet?" into a visual installation.
+The work was recorded in Thailand in 2016, titled _How do we meet? How can we meet?_. By repeating the same blessings in different languages, she transformed "how people of different languages meet" into a visual installation.
 
-The curator did not stand at center stage that afternoon.
+That afternoon, the curator did not stand at the center of the stage.
 
-This presentation was a significant moment for an art criticism platform with no government backing, one that had started purely as online writing. Its founder, **Cheng Wen-Chi** (Tenn, Bun-ki), had launched _No Man's Land_ in November 2011[^3], and it took six years before he issued his first cross-border residency invitation. The name "Nusantara Archive" would later become the first instance of anyone in Taiwan's art world using the Malay word _nusantara_ — rather than "Southeast Asia" — as a geographic frame.
+For an art criticism platform that began as purely online writing without the aura of public institutions, this presentation was a milestone. Founder **Chun Wen-chi** (Tenn, Bun-ki) began publishing _No Man's Land_ in November 2011[^3], and it took six years before he issued his first international residency invitation in 2017. The name "Nusantara Archive" later became the first instance in the Taiwanese art scene where the Malay term _nusantara_ (archipelago) was used to replace "Southeast Asia" as a geographic framing.
 
-Readers would later encounter the editorial note he wrote for the [Hermeneutics of Nusantara feature](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — a self-description distilled over six years into a single passage:
+Readers can later find his editorial notes in his self-curated [Hermeneutics of Nusantara feature](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/)—a self-description distilled from six years of work:
 
-> "Although 'Nusantara' is a formulation composed of _nusa_ (island) and _antara_ (other) centered on medieval Java, and although a 'pre-international' tendency already existed among the Malay-speaking archipelago, when it refers to a regional archive that includes Taiwan, it can be said to embody a 'meta' textual vision akin to that of _No Man's Land_."[^4]
+> "While 'Archipelago' is a scheme composed of the medieval Javanese concept of _nusa_ (island) and _antara_ (others), and since there was already a 'pre-international' tendency among the Malay Archipelago where Malay served as the lingua franca, when referring to a regional archive that includes Taiwan, it can be said to embody a 'meta' textual vision akin to 'No Man's Land'."[^4]
 
-The sentence is somewhat convoluted. But it took a curator six years to be able to articulate it.
+The phrasing is somewhat convoluted. But it is a sentence a curator took six years to articulate.
 
-## An Online Writing Project That Began in 2011
+## An Online Writing Project Started in 2011
 
-_No Man's Land_ was born in November 2011. At the time, the Digital Art Foundation (DAF, founded by Huang Wen-Hao and others) sponsored this "online writing project," and Cheng Wen-Chi has served as editor-in-chief from the very first issue[^5].
+_No Man's Land_ was born in November 2011. At the time, the Digital Arts Foundation (DAF, established by Huang Wen-hao and others) sponsored this "online writing project," with Chun Wen-chi serving as editor-in．chief from the very first issue[^5].
 
-The platform's self-description has not changed in 12 years — operating in the **peripheral zones** of contemporary art, technology, performance, narrative, and imagination, using the creative interconnection and circulation of "the internet, text, and community" as its methodology[^6].
+The platform's self-introduction has remained unchanged for 12 years: operating in the **periphery** of contemporary art, technology, performance, narrative, and imagination, using the creative connection and circulation of "network, text, and community" as its practice[^6].
 
-These keywords deserve unpacking: "periphery" is a geographic choice (not standing alongside mainstream curating); "internet" is a medium choice (no print edition, entirely WordPress); "text" is a practice choice (writing, not mounting exhibitions); "community" is an extension choice (residencies, talks, small publications).
+These keywords are worth unpacking: "Periphery" is a geographic choice (not standing on the edge of mainstream curation); "Network" is a medium choice (no print, entirely WordPress); "Text" is an action choice (writing, rather than organizing exhibitions); "Community" is an extension choice (residencies, symposiums, publishing booklets).
 
-As of issue 56 in March 2023 ("Back to Care"), _No Man's Land_ has accumulated 56 themed issues, 384 articles, 31 podcast episodes, and 10 independently published volumes of the Nusantara Archive[^7]. Each issue averages 7 articles, with Cheng Wen-Chi personally editing 88% (310 out of 353 articles)[^8].
+As of the 56th issue (〈Caring for the Everyday〉) in March 2023, _No Man's Land_ has accumulated 56 themed issues, 384 articles, 31 podcast episodes, and 10 independently published volumes of the _Nusantara Archive_[^7]. Each issue averages seven articles, with Chun Wen-chi personally editing 88% (310 / 353 articles)[^8].
 
 > **📝 Curator's Note**
-> An 88% editorial concentration is a double-edged sword. On one side, 12 years have produced an exceptionally consistent depth of discourse — the four frameworks of archipelago/periphery/decolonization/Pacific Rim function as stable basis vectors. On the other side is the ceiling of a single perspective: younger female curators' voices are underrepresented, Indigenous topics are largely absent, and new themes have declined after 2023. When a platform's editorial philosophy comes entirely from one person, its maturity matures in sync with that person — but so does its fatigue.
+> An 88% editorial concentration is a double-edged sword. On one hand, it has built an extremely consistent depth of discourse over 12 years—the four frameworks of Archipelago/Periphery/Decolonization/Pacific are as stable as base vectors. On the/other hand, there is the ceiling of a single perspective: voices from the younger generation of female curators are sparse, Indigenous issues are largely absent, and new themes have decreased since 2023. When a platform's editorial philosophy stems entirely from one person, its period of maturity and its period of fatigue will move in sync.
 
-## Why a _Contributing Writer for Artouch_ Launched a New Platform
+## Why an _ArtTalks_ Contributor Started a New Platform
 
-Cheng Wen-Chi did not begin writing criticism in 2011. Starting in 2007, he wrote criticism and translated foreign discourse for print magazines including _Artouch_, _Artist Magazine_, and _Artitude_[^9], and served as Chinese-language editor for the National Taiwan Museum of Fine Arts' "Taiwan Digital Art Knowledge and Creative Exchange Platform." In other words, when he launched _No Man's Land_ in 2011, he had already been established in the mainstream for four years.
+Chun Wen-chi did not start writing criticism in 2011. Since 2007, he has written reviews and translated international discourses for print media such as _ArtTalks_ (今藝術), _Artist_ (藝術家), and _Art Outside_ (藝外)[^9], and previously served as the Chinese editor-in-chief for the National Taiwan Museum of Fine Arts' "Taiwan Digital Art Knowledge and Creation Circulation Platform." In other words, when he launched _No Man's Land_ in 2011, he had already established himself in the mainstream for four years.
 
-This timing matters. A person who had already secured a foothold in the mainstream for four years chose to leave mainstream structures to write what the mainstream could not — a fundamentally different position from that of a peripheral writer looking for an outlet.
+This timing is significant. A person who has already stabilized within the mainstream chooses to leave that structure to write about things the mainstream cannot—a situation entirely different from a peripheral writer seeking an outlet.
 
-What could the mainstream not write? In 2011, the discursive landscape of Taiwan's art world largely revolved around two coordinates: **the Western** (the contemporary art mainstream of New York, Berlin, Paris) and **the Chinese** (cross-strait art exchange, the rise of Chinese contemporary art). **Southeast Asia** as a subject existed only in the "local connection" sections of a handful of exhibitions — artists from Malaysia, Indonesia, and the Philippines were virtually invisible in Taiwanese art discourse.
+What can the mainstream not write? In the discourse landscape of the Taiwan art scene in 2011, contemporary art discussions revolved around two coordinates: **the West** (the contemporary art mainstream of New York, Berlin, and Paris) and **China** (cross-Strait artistic exchange and the rise of Chinese contemporary art). **Southeast Asia** existed only as a "local connection" segment in a few exhibitions—artists from Malaysia, Indonesia, and the Philippines were almost invisible in Taiwan's art discourse.
 
-Cheng Wen-Chi's own path diverged from this mainstream. In 2014, he co-initiated [Project Glocal Asian City Streaming](https://projectglocaltaipei.blogspot.com/2014/) with Filipino curator Dayang Yraola[^10], inviting artists from Indonesia, the Philippines, and Malaysia to undertake month-long residencies in Taiwan. In 2015, he co-curated the "Today in History" unit of the DA+C Art Festival in Malaysia[^11]. From 2016 to 2017, he served as a long-term observer for Baan Noorg's "365 Days: LIFE MUSE" in Thailand.
+Chun Wen-chi's path diverged from this mainstream. In 2014, he co-initiated the [Project Glocal Asian City Stream](https://projectglocaltaipei.blogspot.com/2014/) with Filipino curator Dayang Yraola[^10], inviting artists from Indonesia, the Philippines, and Malaysia to residencies in Taiwan for one month. In 2015, he traveled to Malaysia to co-curate the "Today in History" segment of the DA+C Arts Festival[^11]. Between 2016 and 2017, he served as a long-term observer for Baan Noorg's "365 Days: LIFE MUSE" in Thailand.
 
-By the time he launched the Nusantara Archive in 2017, he had already accumulated three years of curatorial practice along the **Taiwan–Southeast Asia** axis.
+By the time he launched the "Nusantara Archive" in 2017, he had already accumulated three years of curatorial practice on the **Taiwan–Southeast Asia** axis.
 
-## Why Replace "Southeast Asia" with "Archipelago"
+## Why Use "Archipelago" to Replace "Southeast Asia"
 
-"Southeast Asia" is a term born of Cold War American geostrategy — in 1943, the Allied forces established the South East Asia Command (SEAC), and the label was carried forward as a regional designation after the war. In other words, "Southeast Asia" is a word for viewing this geography **from the outside**.
+The term "Southeast Asia" is a product of US geopolitical strategy during the Cold War—the Allied South East Asia Command was established in 1943 and continued as a regional label after the war. In other words, "Southeast Asia" is a term for this geography viewed from the **outside**.
 
-"_Nusantara_" (Malay for "archipelago") is the name the local language uses for this geography **on its own terms**. In medieval Javanese texts, _nusa_ means "island," _antara_ means "other," and together they mean "between islands" — no single island is the center; every island is the "other" of some other island.
+"_Nusantara_" (the Malay word for "archipelago") is how the local languages name this geography **themselves**. In medieval Javanese documents, _nusa_ means "island" and _antara_ means "others"; together, they mean "between islands"—no single island is the center; every island is the "other" to some other island.
 
-Cheng Wen-Chi's choice of _nusantara_ as a framework reflects a deeper **perspective choice**: replacing an external colonial-era name with the self-designation in the local language, and replacing the "center–periphery" binary with a "continuum between islands." For Taiwan's art world, the significance of this shift lies in — **Taiwan can be understood as the northeastern extremity of the Malay Archipelago**, stepping outside both the existing positioning as "Southeast Asia's other" and "an island adrift from the Chinese world."
+Chun Wen-chi's choice of _nusantara_ as a framework is backed by a deeper **choice of perspective**: replacing colonial external naming with local self-naming, and replacing the "center–periphery" dichotomy with an "inter-island continuum." For the Taiwan art scene, the significance of this shift lies in the fact that **Taiwan can be viewed as the northeastern edge of the Malay Archipelago**, breaking free from the existing positions of being either "the Other of Southeast Asia" or "an isolated island of the Sinosphere."
 
-The first phase of the Nusantara Archive (2017–2019) received a grant of NT$350,000 from the National Culture and Arts Foundation[^12]. The first year (May 2017 to April 2018) invited Malaysian artists Okui Lala and Hoo Fan Chon each for a one-month research residency in Taiwan[^4]. The entire program emphasized long-term, embedded two-way exchange rather than one-off shipping of artworks for exhibition, with artists producing documents, images, and proposals during their residencies. The first year's results were compiled into NML Issue 34, [Hermeneutics of Nusantara](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/), in September 2017 — the first formal discursive articulation of this framework.
+The first phase of the Nusantara Archive project (2017–2019) was supported by a 350,000 TWD grant from the National Arts Council[^12]. During the first year (May 2017 to April 2018), Malaysian artists Okui Lala and Hoo Fan Chon (符芳俊) were invited for one-month residencies in Taiwan[^4]. The entire project emphasized two-way, long-term exchange through residency rather than a single-event exhibition of shipped works; artists produced documents, images, and proposals during their stays. The results of the first year were compiled into NML Issue 34, _Hermeneutics of Nusantara_ (https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) in September 2017, marking the first formal discursive articulation of this framework.
 
-The second phase, [Twinning Archipelago](https://archive.ncafroc.org.tw/result?id=ad5a8cffc1e04a71a12ccfaf0756cc52), launched in 2021 with a grant of NT$400,000 from the National Culture and Arts Foundation[^13]. This iteration focused on "between two archipelagos" — Taiwan as one archipelago, Malay Indonesia as the other, with both sides interpreting each other's historical experiences.
+The second phase, [Twinning Archipelago](https://archive.ncafroc.org.tw/result?id=ad5a8cffc1e04a71a12ccfaf0756cc52), launched in 2021 with a 400,000 TWD grant from the National Arts Council[^13]. This phase focused on "between two archipelagos"—Taiwan as one archipelago and Malaysia/Indonesia as another—with both sides interpreting each other's historical experiences.
 
-By 2024, the Nusantara Archive had published 10 independent volumes containing over 40 bilingual Chinese-English texts[^14]. For a program with no commercial model, sustained by NGO grants and institutional partnerships, this is an extraordinarily rare accumulation.
+By 2024, the Nusantara Archive had released 1t independent publications containing over 40 bilingual (Chinese/English) documents[^14]. For a project without a commercial model, operating through NGO grants and institutional collaborations, this is an extremely rare accumulation.
 
 ## The Shadow of a Transnational Curatorial Network
 
-The _No Man's Land_ ABOUT page lists a 7-member editorial advisory committee — **Huang Wen-Hao** (DAF founder / ET@T), **Au Sow-Yee** (Malaysian contemporary artist / film curator), **YAP Sau Bin** (Malaysian curator / biennial practitioner), **Takamori Nobuo** (Taiwanese curator / 2021 Asian Art Biennial curator), **Lo Shih-Tung** (Taiwanese curator / Global South art communities), **Wu Ting-Kuan** (Cheng Wen-Chi's long-term guest editor), and **Huang Ching-Ying**[^15].
+The _No Man's Land_ ABOUT page lists a seven-person editorial advisory committee: **Huang Wen-hao** (DAF founder / ET@T); **Chiu Hsiu-chi** (Malaysian contemporary artist / video curator); **YAP Sau Bin** (Malaysian curator / biennial practitioner); **Takamori Nobuo** (Taiwanese curator / 2021 Asian Art Biennial curator); **Lo Shih-tung** (Taiwanese curator / Global South art community); **Wu Ting-kuan** (Chun Wen-chi's long-term guest editor); and **Huang Tsung-ying**[^15].
 
-This list is effectively a directory of a transnational curatorial network. Four from Taiwan (Huang Wen-Hao / Takamori Nobuo / Lo Shih-Tung / Huang Ching-Ying + Wu Ting-Kuan) + two from Malaysia (Au Sow-Yee / YAP Sau Bin) + one hands-on editor. It is not a "who's who of the art world" — it is a list of people who have actually co-curated, co-published, and co-hosted residencies together.
+This list is essentially a directory of a transnational curatorial network. Four from Taiwan (Huang Wen-hao / Takamori Nobuo / Lo Shih-tung / Huang Tsung-ying + Wu Ting-kuan) + two from Malaysia (Chiu Hsiu-chi / YAP Sau Bin) + one practitioner-editor. It is not an "art world celebrity list"—it is a list of people who have truly co-curated, published, and held residencies together.
 
-The concrete instantiations of this network extend beyond NML: when Takamori Nobuo curated the [2021 Asian Art Biennial](https://www.heath.tw/nml-issue/twinning-the-wastelands/), he was in dialogue with Cheng Wen-Chi's archipelago framework; Au Sow-Yee's work _Melbourne International Film Festival_ series was discussed multiple times in NML and was the subject of an interview[^16]; the 2018 "Border Travel PETAMU Project" was initiated by Open-Contemporary Art Centre and co-curated by Cheng Wen-Chi and Lo Shih-Tung.
+The concrete instantiation of this network is scattered beyond NML: When Takamori Nobuo curated the [Asian Art Biennial](https://www.heath.tw/nml-issue/twinning-the-wastelands/) in 2021, he engaged in a dialogue with Chun Wen-chi's archipelago framework; Chiu Hsiu-chi's personal work, the _Melbourne Film Festival_ series, has been discussed and interviewed multiple times on NML[^1le]; In 2018, the "Border Travel PETAMU Project" was initiated by the Open-Contemporary Art Workshop, co-curated by Chun Wen-chi and Lo Shih-tung.
 
-In other words, the relationships among these seven people exceed the formal definition of an NML advisory board. **They are a small ecosystem that has, over 12 years, invited, co-curated, and written criticism for one another across Taiwan and Malay Indonesia.** NML is the writing platform of this ecosystem, but the ecosystem itself is something larger.
+In other words, the relationship between these seven people exceeds the formal definition of an NML advisory committee. **They are a small ecosystem that has been inviting, curating, and reviewing one another between Taiwan and Malaysia/Indonesia for 12 years.** NML is the writing platform for this ecosystem, but the ecosystem itself is something much larger.
 
-## Piracy, Radio Waves, and Bubbles
+## Pirates, Radiowaves, and Bubbles
 
-If 2017–2020 was the "archipelago period," then 2021–2022 was the "Pacific Rim period."
+If 2017–2020 was the "Archipelago Period," then 2021–2022 was the "Pacific Period."
 
-In 2022, Cheng Wen-Chi personally curated the issue [The Piracy, the Radiowave, the Bubble](https://www.heath.tw/nml-issue/the-piracy-the-radiowave-the-bubble/), proposing three conceptual frameworks: "piracy," "radio waves," and "bubbles" as "three unconventional scenarios we have observed traversing modern nation-state boundaries across the Pacific Rim geopolitical surface from the World Wars to the New Cold War"[^17].
+In 2022, Chun Wen-chi personally curated the issue _The Piracy, the Radiowave, the Bubble_ (https://www.heath.tw/nml-issue/the-piracy-the-radiowave-the-bubble/), proposing three conceptual frameworks: "Pirates," "Radiowaves," and "Bubbles" are "three unconventional situations observed across the geopolitical surfaces of the Pacific, from the World Wars to the New Cold War, that traverse the boundaries of modern nation-states"[^17].
 
-"Piracy" is cross-border illicit flow — of people, goods, information, genes.
-"Radio waves" refer to the special role of wireless in the Asian Cold War — Cheng Wen-Chi himself wrote: "The local history of 'radio waves' originates from the late 1930s, when the Japanese Empire used broadcast wireless to promote the Greater East Asia Co-Prosperity Sphere to Nanshi (South China) and Nanyang (Southeast Asia) during its rule over Taiwan, making Taiwan the southernmost base for the Empire's broadcasting operations"[^18].
-"Bubbles" are the digital capitalism bubbles of the New Cold War era — Facebook, streaming platforms, NFTs, the metaverse.
+"Pirates" represent illegal trans-maritime flows—people, goods, information, genes.
+"Radiowaves" represent the unique role of radio in the Asian Cold War—Chun Wen-im wrote: "The local history of 'radiowaves' originates from the late 1930s during the Japanese Empire's rule of Taiwan, utilizing radio broadcasting to propagate the idea of the Greater East Asia Co-Prosperity Sphere across Southern China and Southeast Asia, thus making Taiwan the southernmost base for the Empire's broadcasting efforts"[^18].
+"Bubbles" represent the digital capitalism bubble of the New Cold War era—Facebook, streaming platforms, NFTs, the metaverse.
 
-These three frameworks form a continuum from historical geopolitics (Japanese imperial broadcasting) to the contemporary digital (NFT bubbles). During the same period, NML also launched the "Nanyang Broadcasting Station" podcast series — 31 episodes in mixed Chinese and English, exploring wireless radio as a channel between Taiwan and Southeast Asia during the Cold War. The podcast extended the framework from text into sound objects — the Nusantara Archive expanded from document translation to historical soundscape reconstruction.
+These three frameworks constitute a continuum from historical geopolitics (Japanese colonial broadcasting) to contemporary digitality (NFT bubbles). During the same period, NML launched the _Nanyang Radio Station_ podcast series—31 episodes in mixed Chinese and English, exploring radio as a channel between Taiwan and Southeast Asia during the Cold War. The podcast extended the framework from text to sonic objects—the Nusantara Archive expanded from document translation to the reconstruction of historical soundscapes.
 
-This was a peak of discursive accumulation. But it was also a signal of a turning point.
+This was a peak in discursive accumulation. But it was also a signal of a turning point.
 
-## Contraction: After the Big Themes Were Exhausted
+## Shrinkage: When the Grand Themes are Exhausted
 
-From 2023 onward, _No Man's Land_'s article output declined sharply. From a 2016 peak of 49 articles per year and 41 articles in 2017 when the archipelago project launched, the count fell to 21 articles in 2022 and only 5 in 2023[^19].
+Since 202*3, article production for \_No Man's Land* has decreased significantly. From a peak of 49 articles in 2016 and 41 at the launch of the Archipelago project in 2017, it dropped to 21 in 2022 and only 5 in 2023[^19].
 
-This curve can be read from two angles.
+This curve can be read from two perspectives.
 
-**Optimistic reading:** The platform has entered a "settlement period" — the decline in articles reflects a shift in energy toward book publishing (10 volumes of the Nusantara Archive imprint), podcast production, and cross-organizational curating (Web3 collaborations with akaSwap, Volume DAO, and others). Cheng Wen-Chi himself began serving as a nominating observer for the Taishin Arts Awards (2018–2019, 2023), bringing NML's accumulated discourse into mainstream curatorial jurying.
+**The Optimistic Version**: The platform is entering a "settling period"—the decrease in articles is due to energy shifting toward book publishing (10 volumes of the _Nusantara Archive_ imprint), podcast production, and cross-organizational curation (e.g., akaSwap, Volume DAO, and other Web3 collaborations). Chun Wen-chi himself has begun serving as a nominee observer for the Taiwan Shin Art Awards (2018–2019, 2023), bringing the discourses accumulated by NML into mainstream curatorial judging.
 
-**Pessimistic reading:** A 12-year, single-editor-driven platform has hit a structural ceiling — no successor, no mobile interface, Web 1.0 design, younger generations do not read long-form WordPress essays. Once the big theme (the archipelago) has been fully articulated, the platform ages along with it.
+**The Pessimistic Version**: A platform driven by a single editor for 12 years has hit a structural ceiling—no successor, no mobile interface, Web 1.0 design, and a younger generation that does not read long-form WordPress articles. Once the grand themes (the Archipelago) have been exhausted, the platform will age along with them.
 
-Both readings hold. They are two cross-sections of the same reality.
+Both versions are valid. They are two facets of the same reality.
 
-> **✦** Cheng Wen-Chi voluntarily placed himself on the periphery for 12 years, and this choice allowed him to see what Taiwan's art world could not — but the peripheral perspective also has its own blind spots: once the big theme has been fully articulated, the platform ages along with it.
+> **✦** Chun Wen-chi has voluntarily placed himself in the periphery for 12 years; this choice allowed him to see things the Taiwan art scene cannot—but the peripheral perspective also has its own blind spots: when the grand themes are exhausted, the platform will age along with them.
 
-## The 2023 Volume DAO Talk
+## The 2023 Volume DAO Lecture
 
-On May 14, 2023, at the exhibition "[Taipei Living Room: Island Hash 2023](https://artouch.com/web3-x-art/content-115400.html)" organized by Volume DAO, Cheng Wen-Chi co-presented a talk titled "Art Communities and the Global South" with Lo Shih-Tung[^20]. This was an NFT / on-chain community exhibition — a completely different domain from the "Malay Archipelago residency" discourse he had spent 12 years writing about.
+On May 14, 2023, during the exhibition _[Taipei Living Room: Island Hash 2023](https://artouch.com/web3-x-art/content-115400.html)_ hosted by Volume DAO, Chun Wen-chi and Lo Shih-tng co-presented "Art Communities and the Global South"[^20]. This was an NFT/on-chain community exhibition—a field entirely different from the "Malay Archipelago residency" topics he has written about for the past 12 years.
 
-But the subtitle of the talk was "Understanding the 'Global South' through Historical Geography and On-Chain Communities." Cheng Wen-Chi extended the "South" framework from Malay Archipelago geopolitics to on-chain communities — suggesting his own next step in thinking about the "archipelago" framework.
+However, the subtitle of the lecture was _Understanding the "Global South" through Historical Geography and On-chain Communities_. Chun Wen-chi expanded the "South" framework from the geography of the Malay Archipelago to on-chain communities—suggesting his next stage of thinking regarding the "Archipelago" framework.
 
-This turn is not necessarily a continuation; it may be another shape of the periphery. When the geographically-defined "South" discourse hit its ceiling, he attempted to redefine what "the South" means on the blockchain. Are Web3 on-chain communities another form of "archipelago" — decentralized, interconnected, replacing centralized narratives with tokenized historical memory?
+This shift is not necessarily a continuation; it may be another shape of the periphery. When the geographically defined discourse of the "South" hits its ceiling, he attempts to redefine what the "South" is once more within the blockchain. Is the on-chain community of Web3 another form of "archipelago"—decentralized, interconnected, and replacing centralized narratives with tokenized historical memories?
 
-Twelve years ago he wrote criticism for _Artouch_; in 2017 he launched the Nusantara Archive; in 2023 he sat on the Volume DAO stage explaining "the South" to a room full of people who understand NFTs. NML's article count will continue to shrink, but 56 issues, 384+ articles, 10 volumes of the Nusantara Archive, and 40+ bilingual texts will not age.
+Twelve years ago, he wrote reviews for _ArtTalks_; in 2017, he launched the Nusantara Archive; in 2023, he sat on the Volume DAO podium explaining the "South" to an audience of NFT enthusiasts. The number of NML articles may continue to shrink, but the 56 issues, 384+ articles, 10 volumes of the _Nusantara Archive_, and 40+ bilingual documents will not grow old.
 
-A peripheral platform's 12-year accumulation matters more than whether it stays "alive."
+The 12-year accumulation of a peripheral platform is more important than its mere "survival."
 
 ## Further Reading
 
-- [Taiwanese Curators and Cultural Construction](/art/台灣策展人與藝術文化建構) — The discursive development and visualization trends of the generation of Taiwanese curators including Takamori Nobuo (NML editorial advisor)
-- [Taiwan New Media Art](/art/台灣新媒體藝術) — Forty years of digital art history from Yuan Goang-Ming's video works to VR and generative art; Cheng Wen-Chi's critical trajectory runs parallel to this main thread
-- [Taiwan Soundscape](/music/台灣聲音地景) — Sound artists including Wang Fu-Jui, Yao Chung-Han, and Chang Yung-Da, most of whose works have been deeply reviewed in _No Man's Land_'s Sound Scene category
-- [Contemporary Art](/art/當代藝術) — An overview layer of Taiwan's contemporary art ecosystem as a whole; adding Cheng Wen-Chi's archipelago framework reveals the complete discursive map
-- [Taiwan Indigenous Contemporary Art](/art/台灣原住民當代藝術) — A field NML has touched on less; reading it alongside the "Austronesian homeland hypothesis" reveals potential intersections with the archipelago framework
+- [Taiwanese Curators and the Construction of Art and Culture](/art/台灣策展人與藝術文化建構) — The discourse development and imaging trends of the generation of Taiwanese curators including Takamori Nobuo (NML Advisory).
+- [Taiwan New Media Art](/art/台灣新媒體藝術) — A forty-year digital art history from Yuan Kuang-ming's video works to VR and generative art; Chun Wen-chi's critical trajectory runs parallel to this main line.
+- [Taiwan Soundscapes](/music/台灣聲音地景) — Sound artists such as Wang Fu-rui, Yao Chung-han, and Chang Yung-ta; most of their works have been deeply reviewed in the _No Man's Land_ "Sound Scene" category.
+- [Contemporary Art](/art/當代藝術)— An overview of the overall ecosystem of Taiwan's contemporary art; a complete discursive map can be seen after adding Chun Wen-chi's archipelago framework.
+- [Taiwan Indigenous Contemporary Art](/art/台灣原住民當代藝術) — A field less frequently touched by NML; reading this allows for a comparison between the "Austronesian Homeland Hypothesis" and the potential intersections with the archipelago framework.
 
 ## References
 
-[^1]: [No Man's Land Residency and Nusantara Archive Program (Year 1) — NCAF Archive](https://archive.ncafroc.org.tw/result?id=22442668184a47bcac13fa7426b48765) — National Culture and Arts Foundation grant outcome archive, documenting program execution details from May 2017 to the end of April 2018, including residency schedules and outcomes for Malaysian artists Okui Lala and Hoo Fan Chon.
+[^1]: [National Arts Council Archives: No Man's Land Residency & Nusantara Archive Project (Year 1)](https://archive.ncafroc.org.tw/result?id=22442668184a47bcac13fa7426b48765) — National Culture and Arts Foundation grant archive, recording details of project execution from May 2017 to late April 2018, including the residency schedules and results of Malaysian artists Okui Lala and Hoo Fan Chon.
 
-[^2]: [Okui Lala Residency Presentation — NML Article](https://www.heath.tw/nml-article/okui-lala-a-proposal-for-our-future-mother-tongue/) — Published by editor-in-chief Cheng Wen-Chi on _No Man's Land_ in 2017, a verbatim record of the two video works screened at Okui Lala's presentation, including the Teochew blessing phrases: "Peace for the whole family, peace for the grandchildren, safety in all encounters, may we meet good people."
+[^2]: [Okui Lala Residency Presentation NML Article](https://www.heath.tw/nml-article/okui-lala-a-proposal-for-our-future-mother-tongue/) — Published by Chun Wen-chi in _No Man's Land_ in 2017; provides a verbatim record of the two videos played during Okui Lala's presentation, including the Teochew blessings: "Peace to the whole family, peace to descendants, peace in coming and going, may you meet good good people."
 
-[^3]: [No Man's Land ABOUT Page](https://www.heath.tw/about/) — Complete Chinese and English self-introduction of the platform, explicitly stating "originally an online writing project sponsored by the Digital Art Foundation starting in November 2011."
+[^3]: [No Man's Land ABOUT Page](https://www.heath.tw/about/) — Complete Chinese and English self-introduction of the platform, explicitly stating that it was "originally a web writing project sponsored by the Digital Arts Foundation starting from November 2011."
 
-[^4]: [Hermeneutics of Nusantara — NML Issue 34](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — Editorial note personally curated and written by Cheng Wen-Chi, published September 2017, the first complete discursive articulation of the hermeneutics of Nusantara.
+[^4]: [Hermeneutics of Nusantara NML Issue 34](https://www.heath.tw/nml-issue/hermeneutics-of-nusantara/) — Editorial note curated by Chun Wen-chi, published in September 2017; the first complete discourse on the self-interpretation of the hermeneutics of the archipelago.
 
-[^5]: [Digital Art Foundation (DAF) Introduction](https://www.facebook.com/daf.taipei/) — Official Facebook introduction, documenting its founding in 2008 by Huang Wen-Hao and others, the parent organization of NML.
+[^5]: [Digital Arts Foundation (DAF) Introduction](https://www.facebook.com/daf.taipei/) — Official Facebook introduction, stating it was established in 2008 by Huang Wen-hao and others, serving as the parent organization of NML.
 
-[^6]: [No Man's Land ABOUT Page](https://www.heath.tw/about/) — Verbatim self-positioning: "in the peripheral zones of contemporary art, technology, performance, narrative, and imagination, using the creative interconnection and circulation of 'the internet,' 'text,' and 'community' as its methodology."
+[^6]: [No Man's Land ABOUT Page](https://www.heath.tw/about/) — Verbatim quote of the platform's positioning: "operating in the periphery of contemporary art, technology, performance, narrative, and imagination, using the creative connection and circulation of 'network,' 'text,' and 'community' as its practice."
 
-[^7]: [Taiwan.md NML Peer Corpus Analysis Report](https://github.com/frank890417/taiwan-md/blob/main/reports/NML-semiont-analysis-2026-05-04.md) — Taiwan.md Semiont complete corpus analysis report, sitemap-driven HTML scrape statistics: 56 issues + 384 articles + 31 podcasts + 74 announcements + 3 navigations + 7 pages = 555 items.
+[^7]: [Taiwan.md NML peer corpus analysis report](https://github.com/frank890417/taiwan-md/blob/main/reports/NML-semiont-analysis-2026-05-04.md) — Taiwan.md Semiont complete corpus analysis report; sitemap-driven HTML scrape statistics: 56 issues + 3\_\_,484 articles + 31 podcasts + 74 announcements + 3 navigations + 7 pages = 555 items.
 
-[^8]: [Taiwan.md NML Corpus Articles Metadata](https://github.com/frank890417/taiwan-md/blob/main/data/NML/raw/articles-meta.json) — Taiwan.md metadata statistics from NML corpus crawl, Cheng Wen-Chi's editor field appears in 310 out of 353 articles with editor tags = 88%.
+[^8]: [Taiwan.md NML corpus articles metadata](https://github.com/frank890417/taiwan-md/blob/main/data/NML/raw/articles-meta.json) — Metadata statistics after crawling the NML corpus by Taiwan.md; Chun Wen-chi's name appears in the editor field for 310 / 353 articles marked with "editor" = 88%.
 
-[^9]: [Cheng Wen-Chi — Taishin Arts Awards Juror Profile](https://archive.taishinart.org.tw/juries/cwc/profile) — Nominating observer profile summary, documenting that he "began writing criticism and translating foreign discourse for print media including _Artouch_, _Artist Magazine_, and _Artitude_ from 2007 onward."
+[^9]: [Chun Wen-chi ARTalks Reviewer Introduction](https://archive.taishinart.org.tw/juries/cwc/profile) — Summary of the profile for the Taiwan Shin Art Awards nominee observer, stating that "since 2007, he has successively written reviews and translated international discourses in print media such as _ArtTalks_, _Artist_, and _Art Outside_."
 
-[^10]: [Project Glocal Taipei Blog, 2014](https://projectglocaltaipei.blogspot.com/2014/) — 2014 forum records, including five speakers: Hsiao Li-Hung, Yraola, Takamori Nobuo, Villariba, and Cheng Wen-Chi, co-organized by _No Man's Land_ and _Artitude_.
+[^10]: [Project Glocal Taipei Blog 2014](https://projectglocaltaipei.blogspot.com/2014/) — 2014 forum records for the project, including a list of five speakers: Hsiao Li-hung, Yraola, Takamori Nobuo, Villariba, and Chun Wen-chi; co-organized by _No Man's Land_ and _Art Outside_.
 
-[^11]: [Cheng Wen-Chi — Taishin Arts Awards Juror Profile (2015 Curating)](https://archive.taishinart.org.tw/juries/cwc/profile) — Nominating observer profile, documenting the 2015 "co-curation of the 'Today in History' unit of the DA+C Art Festival" and role as a speaker in Week 4 of TCAC's Open Curating School.
+[^11]: [Chun Wen-chi ARTalks Reviewer Introduction (2015 Curating)](https://archive.taishinart.org.tw/juries/cwc/profile) — Profile of the Taiwan Shin Art Awards nominee observer, noting "co-curated the 'Today in History' segment of the DA+C Arts Festival in 2015" and serving as a speaker for the fourth week of the TCAC Open Curatorial School.
 
-[^12]: [No Man's Land Residency and Nusantara Archive Program (Year 1) — NCAF Final Report](https://archive.ncafroc.org.tw/result?id=22442668184a47bcac13fa7426b48765) — Grant amount NT$350,000, program period May 2017 to end of April 2018, three main work directions: "artist residency, cultural interpretation, co-production."
+[^12]: [National Arts Council Final Report: No Man's Land Residency & Nusantara Archive Project (Year 1)](https://archive.ncafroc.org.tw/result?id=22442668184a47bcac13fa7426b48765) — Grant amount 350,000 TWD; project period from May 2017 to late April 2018; three main work policies: "Artistic Residency, Cultural Interpretation, and Co-production."
 
-[^13]: [Twinning Archipelago Year 2 — NCAF Final Report](https://archive.ncafroc.org.tw/result?id=ad5a8cffc1e04a71a12ccfaf0756cc52) — Grant amount NT$400,000, launched in 2021 to extend Phase 1 results into a "between two archipelagos" bidirectional interpretation framework.
+[^13]: [National Arts Council Final Report: Twinning Archipelago (Year 2)](https://archive.ncafroc.org.tw/result?id=ad5a8cffc1e04a71a12ccfaf0756cc52) — Grant amount 400,000 TWD; expanded from the first phase results starting in 2021 to a framework of "between two archipelagos" for mutual interpretation.
 
-[^14]: [Nusantara Archive Year 2 Final Report (Publication Outcomes)](https://archive.ncafroc.org.tw/result?id=ad5a8cffc1e04a71a12ccfaf0756cc52) — NCAF archive, documenting the cumulative "publication of 10 volumes of the Nusantara Archive containing over 40 bilingual Chinese-English texts."
+[^14]: [Nusantara Archive Second Year Final Report (Publication Results)](https://archive.ncafroc.org.tw/result?id=ad5a8cffc1e04a71a12ccfaf0756cc52) — National Arts Council archives, stating the cumulative "release of 10 volumes of the _Nusantara Archive_ and inclusion of over 40 bilingual Chinese/English documents."
 
-[^15]: [No Man's Land ABOUT Page](https://www.heath.tw/about/) — Complete 7-member editorial advisory committee list: Huang Wen-Hao, Au Sow-Yee, YAP Sau Bin, Takamori Nobuo, Lo Shih-Tung, Wu Ting-Kuan, Huang Ching-Ying.
+[^15]: [No Man's Land ABOUT Page](https://www.heath.tw/about/) — Full list of the seven members of the editorial advisory committee: Huang Wen-hao, Chiu Hsiu-chi, YAP Sau Bin, Takamori Nobuo, Lo Shih-tung, Wu Ting-kuan, and Huang Tsung-ying.
 
-[^16]: [Cheng Wen-Chi's 2015 Interview with Au Sow-Yee](https://www.heath.tw/nml-article/inhabit-the-moving-image-interview-with-au-sow-yee/) — Cheng Wen-Chi interviews Au Sow-Yee discussing the _Melbourne International Film Festival_ series of video works, published on _No Man's Land_, April 15, 2015.
+[^16]: [Chun Wen-chi 2015 Interview with Chiu Hsiu-chi](https://www.heath.tw/nml-article/inhabit-the-moving-image-interview-with-au-sow-yee/) — Chun Wen-chi interviews Chiu Hsiu-chi regarding the video work _Melbourne Film Festival_ series; published in _No Man's Land_ on 2015-04-15.
 
-[^17]: [The Piracy, the Radiowave, the Bubble — NML Issue](https://www.heath.tw/nml-issue/the-piracy-the-radiowave-the-bubble/) — Editorial note curated by Cheng Wen-Chi in 2022, proposing the three Pacific Rim geopolitical frameworks of "piracy, radio waves, bubbles" as self-interpretation.
+[^17]: [The Piracy, the Radiowave, the Bubble NML Issue](https://www.heath.tw/nml-issue/the-piracy-the-radiowave-the-bubble/) — Editorial note curated by Chun Wen-chi in 202 \[2\]; provides a self-interpretation of three Pacific geopolitical frameworks: "Pirates, Radiowaves, and Bubbles."
 
-[^18]: [The Piracy, the Radiowave, the Bubble (Radio Wave History Section)](https://www.heath.tw/nml-issue/the-piracy-the-radiowave-the-bubble/) — Written by Cheng Wen-Chi in the same 2022 editorial note, documenting the "radio wave" history of Japanese Empire broadcasting to Nanshi and Nanyang in the late 1930s.
+[^18]: [The Piracy, the Radiowave, the Bubble (Radiowave History Section)](https://www.heath.tw/nml-issue/the-piracy-the-radiowave-the-bubble/) — Written by Chun Wen-chi in the same 2022 editorial; records the historical narrative of "radiowaves" and the Japanese Empire's broadcasting to Southern China and Southeast Asia in the late 1930s.
 
-[^19]: [Taiwan.md NML Analysis Report §1.2 Year Distribution](https://github.com/frank890417/taiwan-md/blob/main/reports/NML-semiont-analysis-2026-05-04.md) — ARTICLE year distribution statistics from articles-meta.json: 2011: 11 / 2012: 43 / 2013: 39 / 2014: 30 / 2015: 29 / 2016: 49 / 2017: 41 / 2018: 29 / 2019: 28 / 2020: 31 / 2021: 28 / 2022: 21 / 2023: 5.
+[^19]: [Taiwan.md NML Analysis Report §1.2 Year Distribution](https://github.com/frank890417/taiwan-md/blob/main/reports/NML-semiont-analysis-2026-05-04.md) — Statistics from articles-meta.json regarding article year distribution: 2011 (11) / 2012 (43) / 2013 (39) / 2014 (30) / 2015 (29) / 2016 (49) / 2017 (41) / 2018 (29) / 2019 (28) / 20<u>0</u> (31) / 2021 (28) / 2022 (21) / 2023 (5).
 
-[^20]: [Artouch ARTouch, 2023-05-14 Talk Report](https://artouch.com/web3-x-art/content-115400.html) — "Understanding the 'Global South' through Historical Geography and On-Chain Communities — Talk Report on 'Art Communities and the Global South' by Cheng Wen-Chi and Lo Shih-Tung," documenting Cheng Wen-Chi's turning point from Malay Archipelago discourse into the Web3 NFT sphere.
+[^20]: [ArtTalks 2023-05-14 Lecture Notes](https://artouch.com/web3-x-art/content-115400.html) — 〈Understanding the "Global South" through Historical Geography and On-chain Communities — Notes on the lecture "Art Communities and the Global South" by Chun Wen-chi and Lo Shih-tung〉; records the turning point where Chun Wen-chi's discourse moved from the Malay Archipelago to the Web3 NFT sphere.

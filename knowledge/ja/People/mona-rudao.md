@@ -20,9 +20,9 @@ lastVerified: 2026-06-10
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/莫那·魯道.md'
-sourceCommitSha: 'bb411ee0'
-sourceContentHash: 'sha256:0b1a3c6909f4b2bd'
-sourceBodyHash: 'sha256:06471c32d8e8a9fd'
+sourceCommitSha: 'd5ca846b'
+sourceContentHash: 'sha256:a925dd382d90f176'
+sourceBodyHash: 'sha256:2e9a56655129cad4'
 translatedAt: '2026-06-14T00:35:00+08:00'
 image: '/article-images/people/mona-rudao-seediq-leaders-1931.webp'
 imageCredit: '海老原耕平《霧社討伐寫眞帖》（1931）'

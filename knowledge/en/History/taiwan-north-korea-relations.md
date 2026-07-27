@@ -22,8 +22,8 @@ lastVerified: 2026-07-17
 lastHumanReview: false
 featured: false
 translatedFrom: 'History/台灣與北朝鮮關係.md'
-sourceCommitSha: '1b3c22ac7'
-sourceContentHash: 'sha256:2a45417c9b5c2cf0'
+sourceCommitSha: '5af229e1'
+sourceContentHash: 'sha256:6923220eadde819d'
 sourceBodyHash: 'sha256:4dc13793ac08242f'
 translatedAt: '2026-07-23T23:06:50+08:00'
 ---

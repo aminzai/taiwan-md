@@ -28,9 +28,9 @@ readingTime: 15
 lastVerified: 2026-04-18
 lastHumanReview: true
 translatedFrom: People/康士坦的變化球.md
-sourceCommitSha: 'ac1d187a'
-sourceContentHash: 'sha256:da94b8581c1d756d'
-sourceBodyHash: 'sha256:882ec45fed78d371'
+sourceCommitSha: '160c9d82'
+sourceContentHash: 'sha256:37d8610a843cfcf0'
+sourceBodyHash: 'sha256:f8b9d7518607d1e1'
 translatedAt: 2026-05-01T20:54:10+08:00
 ---
 

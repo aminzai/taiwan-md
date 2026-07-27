@@ -21,9 +21,9 @@ lastHumanReview: false
 featured: false
 canonical-order: 999
 translatedFrom: 'Music/大象體操.md'
-sourceCommitSha: '72b757bac'
-sourceContentHash: 'sha256:b924c3fdcb2a3347'
-sourceBodyHash: 'sha256:d8ddf05669c2e6c6'
+sourceCommitSha: '8547b266'
+sourceContentHash: 'sha256:7b6c098933713fcd'
+sourceBodyHash: 'sha256:b2179659aae39566'
 translatedAt: '2026-06-19T00:37:17+08:00'
 image: '/article-images/music/elephant-gym-portland-2024.webp'
 imageCredit: 'TurquoiseGoose / Wikimedia Commons'

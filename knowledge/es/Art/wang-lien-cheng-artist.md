@@ -24,9 +24,9 @@ readingTime: 15
 lastVerified: 2026-04-20
 lastHumanReview: true
 translatedFrom: 'Art/王連晟.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:741aad18a1d94861'
-sourceBodyHash: 'sha256:5dea26a6c16a0f6c'
+sourceCommitSha: '6bbbf62b'
+sourceContentHash: 'sha256:f395cb57343c4ecf'
+sourceBodyHash: 'sha256:3e275e3c41071f38'
 translatedAt: '2026-05-01T20:54:23+08:00'
 ---
 

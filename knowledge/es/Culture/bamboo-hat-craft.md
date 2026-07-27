@@ -18,9 +18,9 @@ lastVerified: 2026-05-04
 lastHumanReview: false
 featured: false
 translatedFrom: 'Culture/斗笠.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:94596f884e1da994'
-sourceBodyHash: 'sha256:b562b26663b1a026'
+sourceCommitSha: '172e37b1'
+sourceContentHash: 'sha256:9096fc1c6362e668'
+sourceBodyHash: 'sha256:734b56860ef83000'
 translatedAt: '2026-05-12T21:49:55+08:00'
 ---
 

@@ -19,9 +19,9 @@ lastVerified: 2026-05-03
 lastHumanReview: false
 featured: false
 translatedFrom: 'Lifestyle/遊覽車.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:2b757d54650fbf73'
-sourceBodyHash: 'sha256:9e75f80aeb03d94c'
+sourceCommitSha: '42b42a93'
+sourceContentHash: 'sha256:f828da7d0eb39776'
+sourceBodyHash: 'sha256:c0de350ac39dbee0'
 translatedAt: '2026-06-12T03:51:14+08:00'
 ---
 

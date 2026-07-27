@@ -26,9 +26,9 @@ lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/宜蘭縣.md'
-sourceCommitSha: 'e27a20a4'
-sourceContentHash: 'sha256:a11b339547d8ad31'
-sourceBodyHash: 'sha256:9fcd1f01c87f0494'
+sourceCommitSha: '7f3ddf12'
+sourceContentHash: 'sha256:339ea6f63f12308d'
+sourceBodyHash: 'sha256:13a49441594ebd54'
 translatedAt: '2026-06-16T17:03:25Z'
 image: /article-images/geography/yilan-hero.webp
 imageCredit: 曾成訓 Tseng
