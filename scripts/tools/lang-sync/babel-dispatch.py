@@ -591,15 +591,46 @@ def build_worklist(status_data: dict, lang: str, priority: str, order: str,
 
 
 def build_slug_map(run_dir: Path) -> Path:
-    """From knowledge/_translations.json: for every zh_path that has an
-    en/... entry, slug = basename of the en file without .md. Shared across
-    all target langs (site convention: slug is the same file basename
-    regardless of target language)."""
+    """From knowledge/_translations.json: for every zh_path with a translation
+    in ANY language, slug = that file's basename without .md. Shared across all
+    target langs (site convention: slug is the same file basename regardless of
+    target language).
+
+    Why any-language and not en-only (2026-07-27): the en-only read starved
+    every zh article whose filename is pure Chinese and whose en translation
+    doesn't exist yet — no en entry meant no slug, no slug meant the ASCII
+    fallback produced TBD-NEEDS-SLUG, and collect_and_filter_groups then
+    skipped it forever. 27 articles were in that state, 23 of which already
+    had a perfectly good canonical slug sitting in ja/es/fr (唐鳳 →
+    audrey-tang, 閃靈 → chthonic). The docstring already claimed the slug is
+    language-independent; the code just wasn't reading it that way. en still
+    wins when present, so existing canonical slugs never shift.
+
+    TBD-NEEDS-SLUG entries are refused outright: knowledge/_translations.json
+    can itself carry them (the orphan rescue committed 8 such files), and
+    feeding one back in would propagate the placeholder to every other
+    language for that article.
+
+    knowledge/_slug-map.json then fills whatever is still empty — the articles
+    with no translation in any language yet, where there is nothing to reverse
+    it out of. It is deliberately lowest precedence: a curated entry can never
+    move a slug that is already live."""
     trans = json.loads(TRANSLATIONS_JSON.read_text(encoding="utf-8"))
     slug_map = {}
-    for en_key, zh_val in trans.items():
-        if en_key.startswith("en/"):
-            slug_map[zh_val] = Path(en_key).stem
+    for key, zh_val in trans.items():
+        stem = Path(key).stem
+        if "TBD-NEEDS-SLUG" in stem:
+            continue
+        # en wins; any other language only fills a gap it would otherwise leave.
+        if key.startswith("en/") or zh_val not in slug_map:
+            slug_map[zh_val] = stem
+    curated_path = REPO / "knowledge/_slug-map.json"
+    if curated_path.exists():
+        curated = json.loads(curated_path.read_text(encoding="utf-8"))
+        for zh_val, stem in curated.items():
+            if zh_val.startswith("_") or not isinstance(stem, str):
+                continue  # _readme block
+            slug_map.setdefault(zh_val, stem)
     out = run_dir / "slug-map.json"
     out.write_text(json.dumps(slug_map, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     return out

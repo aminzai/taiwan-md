@@ -1,0 +1,23 @@
+{
+  "_readme": [
+    "人工指定的英文 slug，給檔名是純中文、且還沒有任何語言譯文的文章。",
+    "為什麼需要這個檔：slug 平常由 _translations.json 反推（任一語言的譯文檔名就是 slug）,",
+    "但一篇全新的中文檔名文章一個譯文都還沒有時，反推沒有來源，prepare-batch 的 ASCII",
+    "fallback 會把整個檔名的非 ASCII 字元刪光，得到空字串並落成 TBD-NEEDS-SLUG——",
+    "同分類同語言的多篇文章會全部指到那一個檔名互相覆蓋，而 dispatcher 的守門會直接",
+    "跳過它們，於是這些文章永遠排不進翻譯佇列。2026-07-27 有 7 篇卡在這個狀態。",
+    "",
+    "優先序：_translations.json 反推出來的既有 slug 永遠優先，本檔只補它留下的空缺，",
+    "所以在這裡寫錯不會搬動任何已經上線的網址。文章一旦有了第一個譯文，本檔的條目就",
+    "只是備援，可留可刪。",
+    "",
+    "新增條目時：kebab-case、純 ASCII、60 字元內，先 git ls-files 確認沒撞到既有 slug。"
+  ],
+  "Culture/八點檔.md": "taiwan-prime-time-drama",
+  "Economy/旺旺.md": "want-want-group",
+  "Lifestyle/小北百貨.md": "xiaobei-department-store",
+  "Society/外送專法.md": "delivery-platform-law",
+  "Society/檳榔.md": "betel-nut",
+  "Society/苯駢芘食安事件.md": "benzopyrene-food-safety-incident",
+  "Technology/台灣鎢供應鏈.md": "taiwan-tungsten-supply-chain"
+}

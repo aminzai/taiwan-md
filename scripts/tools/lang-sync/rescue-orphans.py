@@ -63,6 +63,14 @@ def zh_source(trans_path: str) -> str | None:
 
 def verify_trio(trans_path: str) -> tuple[bool, str]:
     """dispatcher 用的同一套三重驗證——刻意不簡化，兩套尺分歧比多花幾秒更貴。"""
+    # dispatcher 的 collect_and_filter_groups 會丟掉 slug 解析失敗的任務，這條路
+    # 徑當初沒跟著收斂，於是 2026-07-27 的搶救把 8 個 TBD-NEEDS-SLUG 檔收進版控
+    # ——內容其實是四篇好譯文，卻落在同一個佔位檔名上：同分類同語言的下一篇會
+    # 直接覆蓋掉前一篇，而且網址是 /es/lifestyle/tbd-needs-slug。譯文本身沒問題，
+    # 是路徑沒問題可言，所以擋在三重驗證之前。要收下它得先給文章一個真 slug
+    # （knowledge/_slug-map.json）再重跑產線。同型病要 grep 全部呼叫端。
+    if "TBD-NEEDS-SLUG" in trans_path:
+        return False, "slug 未解析（需 _slug-map.json 條目）"
     zh = zh_source(trans_path)
     if not zh:
         return False, "translatedFrom 無法解析"
