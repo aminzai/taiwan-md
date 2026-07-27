@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-28T01:54:56+08:00",
-    "zhCommitHead": "aa468836e",
+    "lastUpdated": "2026-07-28T02:11:22+08:00",
+    "zhCommitHead": "beec0ef44",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -52,17 +52,17 @@
       "fr": {
         "total_zh": 869,
         "fresh": 818,
-        "stale": 47,
+        "stale": 46,
         "metadata_stale": 1,
-        "missing": 3,
+        "missing": 4,
         "orphan": 0
       },
       "vi": {
         "total_zh": 869,
-        "fresh": 266,
+        "fresh": 268,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 597,
+        "missing": 595,
         "orphan": 0
       },
       "id": {
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 585,
+        "fresh": 584,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 278,
+        "missing": 279,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 457,
+        "fresh": 456,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 412,
+        "missing": 413,
         "orphan": 0
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 490,
+        "fresh": 491,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 379,
+        "missing": 378,
         "orphan": 0
       }
     },
@@ -37003,7 +37003,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/taiwan-unification-independence-spectrum.md",
+          "translatedFrom": "Society/台灣統獨光譜.md",
+          "sourceCommitSha": "4c15a2b03",
+          "sourceContentHash": "sha256:a399eae223d36d4d",
+          "sourceBodyHash": "sha256:71fc72f8b7a7bc3d",
+          "translatedAt": "2026-07-27T22:12:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -37075,7 +37086,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/taiwan-disaster-volunteer-culture.md",
+          "translatedFrom": "Society/台灣災難志工文化.md",
+          "sourceCommitSha": "ae0bea081",
+          "sourceContentHash": "sha256:c3e60eb6650d8dfb",
+          "sourceBodyHash": "sha256:260082957a9cf952",
+          "translatedAt": "2026-07-27T22:12:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -37087,8 +37109,8 @@
           "sourceContentHash": "sha256:c3e60eb6650d8dfb",
           "sourceBodyHash": "sha256:260082957a9cf952",
           "translatedAt": "2026-07-27T22:12:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f91cdff9",
+          "translationLastModified": "2026-07-28T01:54:56+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -42276,18 +42298,7 @@
           "reason": "footnote-loss (25→0)"
         },
         "fr": {
-          "path": "fr/About/why-taiwan-needs-its-own-knowledge-base.md",
-          "translatedFrom": "About/為什麼台灣需要自己的知識庫.md",
-          "sourceCommitSha": "a05d2431",
-          "sourceContentHash": "sha256:62ec81a90f901dec",
-          "sourceBodyHash": "sha256:352de879384e19e9",
-          "translatedAt": "2026-06-16T17:13:36Z",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (25→0)"
+          "status": "missing"
         },
         "vi": {
           "status": "missing"
@@ -58972,7 +58983,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/tu-pan-fangke.md",
+          "translatedFrom": "People/杜潘芳格.md",
+          "sourceCommitSha": "d39f3a507",
+          "sourceContentHash": "sha256:d405136a29d9431e",
+          "sourceBodyHash": "sha256:b0195c9685eb2443",
+          "translatedAt": "2026-07-27T22:12:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -100711,8 +100733,8 @@
           "sourceContentHash": "sha256:1730cee4562e4ee0",
           "sourceBodyHash": "sha256:feab50585a5f02eb",
           "translatedAt": "2026-07-27T22:12:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f91cdff9",
+          "translationLastModified": "2026-07-28T01:54:56+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -111738,35 +111760,13 @@
           "status": "missing"
         },
         "pt": {
-          "path": "pt/Culture/taiwan-prime-time-drama.md",
-          "translatedFrom": "Culture/八點檔.md",
-          "sourceCommitSha": "08a8c5ec8",
-          "sourceContentHash": "sha256:c5c6c2825029a48f",
-          "sourceBodyHash": "sha256:f0cb0ab3b5428edc",
-          "translatedAt": "2026-07-27T22:12:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
         },
         "ar": {
-          "path": "ar/Culture/taiwan-prime-time-drama.md",
-          "translatedFrom": "Culture/八點檔.md",
-          "sourceCommitSha": "08a8c5ec8",
-          "sourceContentHash": "sha256:c5c6c2825029a48f",
-          "sourceBodyHash": "sha256:f0cb0ab3b5428edc",
-          "translatedAt": "2026-07-27T22:12:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 0,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ru": {
           "status": "missing"
