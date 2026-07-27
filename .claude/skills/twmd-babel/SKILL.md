@@ -36,9 +36,20 @@ python3 scripts/tools/lang-sync/babel-preflight.py
 
 判讀：`healthy` 照跑；`degraded` 照跑但**收官必記哪層缺席**（缺席是可修的事實，不是背景雜訊）；`no-compute` 不起跑，把缺什麼寫進 handoff（憑證屬身份授權層，只有哲宇能補）。
 
+## 兩種運作模式（2026-07-27 分流）
+
+**批次模式**（cron nightly／單次跑到 stale=0）：讀
+[SQUEEZE-MODELS-MAX-PIPELINE.md](../../../docs/pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md)
+整份照做。
+
+**渦流模式**（觀察者下 /goal 持續迴圈、每小時甦醒監測）：讀
+[BABEL-VORTEX-LOOP.md](../../../docs/pipelines/BABEL-VORTEX-LOOP.md)——那是渦流
+SSOT：薄殼 wake prompt contract、固定 benchmark 報告面板、三重巡檢（存活≠生產）、
+自動進化硬條款。哲宇說「持續」「渦流」「loop」「一小時甦醒」就是這個模式。
+
 ## Pipeline — 嚴格完整讀取後照做
 
-[SQUEEZE-MODELS-MAX-PIPELINE.md](../../../docs/pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md) 整份（priority 分流、cascade 順序、Tier 0a patch agent template、Z1-Z6 hard gate 全在那裡，本殼一律不複寫；模型名以 `translate.py DEFAULT_CASCADE_ID` 為準）。
+[SQUEEZE-MODELS-MAX-PIPELINE.md](../../../docs/pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md) 整份（priority 分流、cascade 順序、Tier 0a patch agent template、Z1-Z6 hard gate、**模型×語言適配表／入池門檻／排序原則／編組原則四節**全在那裡，本殼一律不複寫；模型名以 `translate.py DEFAULT_CASCADE_ID` 為準）。
 
 整批行軍用統一調度器（內建三重 gate、HEAD-restore、精確路徑 commit）：
 

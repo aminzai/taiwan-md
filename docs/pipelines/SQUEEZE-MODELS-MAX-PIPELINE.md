@@ -15,6 +15,11 @@ upstream_canonical:
   - '../semiont/DNA.md'
 ---
 
+> **渦流模式 pointer（2026-07-27）**：觀察者驅動的持續迴圈（/goal＋每小時甦醒）
+> 另有 canonical [BABEL-VORTEX-LOOP.md](BABEL-VORTEX-LOOP.md)——固定 benchmark
+> 報告、三重巡檢、自動進化硬條款、薄殼 wake prompt contract。本檔管「怎麼翻」，
+> 渦流檔管「怎麼持續運轉與進化」。
+
 # 榨模型MAX — 多語 batch sync 主流程 v4.6
 
 > **第一性原理**：用所有手邊免費 model 同時平行打、refusal 當作 first-class 結果記錄、最終跨批次統合補空缺，把單一 model 的天花板（rate limit / content policy / quality）拆成許多小天花板加起來逼近 100%。Tier 4 Local LLM 永不漏接 sovereignty-sensitive topics。
