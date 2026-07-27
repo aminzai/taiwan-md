@@ -110,8 +110,8 @@ NET is not just a clothing company; it is a vessel for the resilience and warmth
 
 ## Further Reading
 
-- [Textile Industry](/economy/紡織業) — The upstream context of Taiwan's invisible champion in textiles
-- [Taiwan Enterprises: Hon Hai Precision](/economy/台灣企業：鴻海精密) — Another narrative of local enterprise scaling up
+- [Textile Industry](/en/economy/taiwan-textile-industry) — The upstream context of Taiwan's invisible champion in textiles
+- [Taiwan Enterprises: Hon Hai Precision](/en/economy/foxconn-precision-industry) — Another narrative of local enterprise scaling up
 
 ## References
 

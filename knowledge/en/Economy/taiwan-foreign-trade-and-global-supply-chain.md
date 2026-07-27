@@ -282,7 +282,7 @@ Supply chain reorganization does not bring only risks. Taiwan’s concentrated a
 
 ## Further Reading
 
-- [Taiwan’s Small and Medium-Sized Enterprises and Hidden Champions](/economy/台灣中小企業與隱形冠軍)
-- [Taiwanese Agriculture and Rural Regeneration](/economy/台灣農業與農村再生)
-- [The Startup Ecosystem](/economy/新創生態系)
-- [Taiwanese Enterprise: Hon Hai Precision](/economy/台灣企業：鴻海精密) — Its global footprint across 24 countries and 900,000 people is the largest experimental field for cross-border governance in Taiwanese manufacturing.
+- [Taiwan’s Small and Medium-Sized Enterprises and Hidden Champions](/en/economy/taiwan-smes-and-hidden-champions)
+- [Taiwanese Agriculture and Rural Regeneration](/en/economy/taiwan-agriculture-and-rural-revitalization)
+- [The Startup Ecosystem](/en/economy/taiwan-startup-ecosystem-overview)
+- [Taiwanese Enterprise: Hon Hai Precision](/en/economy/foxconn-precision-industry) — Its global footprint across 24 countries and 900,000 people is the largest experimental field for cross-border governance in Taiwanese manufacturing.

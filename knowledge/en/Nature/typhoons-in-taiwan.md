@@ -171,7 +171,7 @@ But this arithmetic misses a structural problem. A yes123 job bank survey of 1,3
 >
 > The story of typhoon leave and the story of the "sacred mountain protecting the nation" are actually two versions of the same story. The mountains turn wind into water, but onto whose houses does that water pour? Work-suspension announcements give leave to whom, and leave whom out? In the same typhoon, the rainfall on the map is uniform, but the people who bear the cost never are.
 
-The full class distribution of typhoon leave, the blind spots behind the NT$31.5 billion arithmetic, and the situation of migrant workers are a separate story, told in the article [Typhoon Leave](/Society/颱風假).
+The full class distribution of typhoon leave, the blind spots behind the NT$31.5 billion arithmetic, and the situation of migrant workers are a separate story, told in the article [Typhoon Leave](/en/society/typhoon-day).
 
 ## Tribal Weather Stations: Thousand-Year Wisdom as the Last Safety Net
 
@@ -223,11 +223,11 @@ We can forecast wind and rain, but not fate.
 
 ## Further Reading
 
-- [Typhoon Leave](/Society/颱風假) — In the same typhoon, public-sector white-collar workers stay home while wholesale and retail workers go out. The class fracture missing from the NT$31.5 billion arithmetic
-- [Taiwan's Climate Crisis and Net-Zero Transition](/Nature/台灣氣候危機與淨零轉型) — Behind the 40% increase in typhoon rainfall intensity is the larger context of global warming and Taiwan's energy transition
-- [Taiwan's High-Mountain Ecosystems and Glacial Relicts](/Nature/台灣高山生態系與冰河孑遺) — The Central Mountain Range not only changes typhoon tracks; it is also home to the world's highest-elevation ecosystems
-- [Plum Rains](/Nature/梅雨) — Beyond typhoons, the plum rain season is another major source of rainfall in Taiwan and is likewise affected by climate change
-- [Offshore Islands and Ocean Culture](/Geography/離島與海洋文化) — The Tao people's traditional architecture and place-name knowledge on Orchid Island have unique disaster-prevention value in the typhoon era
+- [Typhoon Leave](/en/society/typhoon-day) — In the same typhoon, public-sector white-collar workers stay home while wholesale and retail workers go out. The class fracture missing from the NT$31.5 billion arithmetic
+- [Taiwan's Climate Crisis and Net-Zero Transition](/en/nature/taiwan-climate-change-net-zero-transition) — Behind the 40% increase in typhoon rainfall intensity is the larger context of global warming and Taiwan's energy transition
+- [Taiwan's High-Mountain Ecosystems and Glacial Relicts](/en/nature/taiwan-alpine-ecosystems-glacial-relicts) — The Central Mountain Range not only changes typhoon tracks; it is also home to the world's highest-elevation ecosystems
+- [Plum Rains](/en/nature/meiyu-stagnant-front) — Beyond typhoons, the plum rain season is another major source of rainfall in Taiwan and is likewise affected by climate change
+- [Offshore Islands and Ocean Culture](/en/geography/offshore-islands-and-maritime-culture) — The Tao people's traditional architecture and place-name knowledge on Orchid Island have unique disaster-prevention value in the typhoon era
 
 ## Image Sources
 

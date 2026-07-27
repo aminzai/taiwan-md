@@ -96,6 +96,6 @@ This "unnamed hero" used a thin layer of sealing film to support Taiwan's bevera
 
 ## Further Reading
 
-- [Taiwanese Hand-Shaken Drink Culture](/food/台灣手搖飲文化) — The food-culture ecosystem supported after the spread of sealing machines
-- [Bubble Tea](/food/珍珠奶茶) — Taiwan's national beverage, which took off in the 1980s alongside the sealing machine
-- [Semiconductor Industry](/technology/半導體產業) — Another successful path in Taiwan's hardware manufacturing sector during the same period
+- [Taiwanese Hand-Shaken Drink Culture](/en/food/hand-shaken-drink-culture) — The food-culture ecosystem supported after the spread of sealing machines
+- [Bubble Tea](/en/food/bubble-tea) — Taiwan's national beverage, which took off in the 1980s alongside the sealing machine
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — Another successful path in Taiwan's hardware manufacturing sector during the same period

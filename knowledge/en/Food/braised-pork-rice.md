@@ -86,9 +86,9 @@ From a village grandmother's homesick taste, to an office worker's healing lunch
 
 ## Further Reading
 
-- [Beef Noodle Soup](/food/牛肉麵) — Another national dish brought to Taiwan by 1949 mainlander immigrants; shares its military-dependents'-village lineage with braised pork rice
-- [Taiwanese Breakfast Culture](/food/台灣早餐文化) — From shaobing and youtiao to burgers and rice balls, another facet of Taiwan's culinary fusion
-- [The KMT's Relocation to Taiwan and Postwar Reconstruction](/history/國民政府遷台與戰後重建) — The historical backdrop for braised pork rice's birth: 1.2 million troops and civilians arriving and reshaping the foodscape
+- [Beef Noodle Soup](/en/food/beef-noodle-soup) — Another national dish brought to Taiwan by 1949 mainlander immigrants; shares its military-dependents'-village lineage with braised pork rice
+- [Taiwanese Breakfast Culture](/en/food/taiwan-breakfast-culture) — From shaobing and youtiao to burgers and rice balls, another facet of Taiwan's culinary fusion
+- [The KMT's Relocation to Taiwan and Postwar Reconstruction](/en/history/kmt-government-relocation-and-postwar-reconstruction) — The historical backdrop for braised pork rice's birth: 1.2 million troops and civilians arriving and reshaping the foodscape
 
 ## References
 

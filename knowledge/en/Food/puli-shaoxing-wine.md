@@ -114,9 +114,9 @@ This flavor — no one now thinks of it as "Mainlander" or "Chinese." It is just
 
 **Further reading**:
 
-- [Taiwan Military Dependents' Village Cuisine](/food/台灣眷村菜) — Also a culinary memory brought to Taiwan by the mass migration after 1949; juancun cuisine and Puli shaoxing wine share the same origin: a retreat carrying kitchen memories.
-- [Taiwan Fermented Foods and Pickling Culture](/food/台灣發酵食品與醃製文化) — From fermented tofu to soy sauce, the technical lineage of Taiwanese fermented foods; shaoxing wine is among them the variety with the most political backstory.
-- [Taiwanese Rice Culture](/food/台灣米食文化) — Glutinous rice is the basic raw material of shaoxing wine; rice culture provides the complete context for understanding this bottle from agriculture to industry to tourism.
+- [Taiwan Military Dependents' Village Cuisine](/en/food/military-dependents-village-cuisine) — Also a culinary memory brought to Taiwan by the mass migration after 1949; juancun cuisine and Puli shaoxing wine share the same origin: a retreat carrying kitchen memories.
+- [Taiwan Fermented Foods and Pickling Culture](/en/food/taiwan-fermented-and-pickled-foods) — From fermented tofu to soy sauce, the technical lineage of Taiwanese fermented foods; shaoxing wine is among them the variety with the most political backstory.
+- [Taiwanese Rice Culture](/en/food/taiwan-rice-cuisine-culture) — Glutinous rice is the basic raw material of shaoxing wine; rice culture provides the complete context for understanding this bottle from agriculture to industry to tourism.
 
 ## References
 

@@ -186,12 +186,12 @@ The ticket that lets **Taiwan** step onto the field still cannot bear its own na
 
 ## Further Reading
 
-- [Taiwan’s Designation in International Standards](/society/台灣在國際標準中的標示問題) — From ISO 3166 to open‑source software, how “Taiwan” is written and contested in global digital infrastructure, a parallel to Olympic naming.
+- [Taiwan’s Designation in International Standards](/en/society/taiwans-labeling-in-international-standards) — From ISO 3166 to open‑source software, how “Taiwan” is written and contested in global digital infrastructure, a parallel to Olympic naming.
 - [Taiwan’s Independence‑Union Spectrum](/society/台灣統獨光譜) — Why Taiwanese feel such divergent emotions toward “Chinese” and “Taiwan,” with a full spectrum of identity analysis.
-- [Taiwan’s Diplomatic Allies and International Diplomacy](/society/台灣邦交國與國際外交) — How the “Olympic model” extends beyond sport to Taiwan’s formal diplomatic arena.
-- [Chi‑cheng Jì](/people/紀政) — From the 1968 “Flying Antelope” bronze to the 2018 name‑change referendum initiator, a complete arc.
-- [Yang Chuan‑kuang](/people/楊傳廣) — The 1960 Rome decathlon silver medalist who won Taiwan’s first Olympic medal under the “Formosa” name.
-- [The Invisible Country](/art/看不見的國家) — In this documentary, Chi Cheng holds up her 1968 Olympic bronze medal and asks back, “Is ‘Chinese Taipei’ the name of a country?”
+- [Taiwan’s Diplomatic Allies and International Diplomacy](/en/society/taiwan-diplomatic-allies-and-international-relations) — How the “Olympic model” extends beyond sport to Taiwan’s formal diplomatic arena.
+- [Chi‑cheng Jì](/en/people/chi-cheng-flying-antelope) — From the 1968 “Flying Antelope” bronze to the 2018 name‑change referendum initiator, a complete arc.
+- [Yang Chuan‑kuang](/en/people/yang-chuan-kwang-asian-iron-man) — The 1960 Rome decathlon silver medalist who won Taiwan’s first Olympic medal under the “Formosa” name.
+- [The Invisible Country](/en/art/invisible-nation) — In this documentary, Chi Cheng holds up her 1968 Olympic bronze medal and asks back, “Is ‘Chinese Taipei’ the name of a country?”
 
 ## Image Credits
 

@@ -178,15 +178,15 @@ The next time you walk past the Octagonal Hall of the Ximen Red House, stop for 
 
 **Further reading**:
 
-- [Taipei Smoking Room: In a Smoke-Free City, the Glass Booth That Breathes](/society/台北吸菸室) — Taiwan's first outdoor negative-pressure smoking room, standing right at the street corner by Ximen MRT's exit
+- [Taipei Smoking Room: In a Smoke-Free City, the Glass Booth That Breathes](/en/society/taipei-smoking-room) — Taiwan's first outdoor negative-pressure smoking room, standing right at the street corner by Ximen MRT's exit
 
-- [Taipei City: Three Times Inside One City, where the 1738 Longshan Temple Watches the 2004 Taipei 101](/geography/台北市) — Ximending’s position among the twelve districts, placed alongside the three timelines of Bangka, Dadaocheng, and Xinyi
-- [Taiwan Anime and Manga Culture](/culture/台灣動漫文化) — Why cosplay gathers regularly on weekends in front of the Ximen Red House, and its relationship to the origin of the Fancy Frontier convention in 1999
-- [Taiwanese Street Art and Graffiti Culture](/culture/台灣街頭藝術與塗鴉文化) — The context of the blue-wall graffiti at Ximending Cinema Park and the origins of Taiwanese street culture after the lifting of martial law
-- [Taiwan’s Old Street Culture and Commercial Districts](/culture/台灣老街文化與商業街區) — The structural differences between Ximending as a Japanese-planned entertainment district and Qing-era old streets such as Lukang, Bangka, and Dadaocheng
-- [Bangka](/geography/艋舺) — A batch 1 historic-district sibling: when the Japanese planned Ximending in 1896, neighboring Bangka was northern Taiwan’s busiest Qing-era port
-- [Dadaocheng](/geography/大稻埕) — A batch 1 historic-district sibling: the emerging tea commercial street after the 1853 Dingxiajiao conflict, and Ximending’s Japanese-era entertainment district, are two different “street-formation moments”
-- [Zhongshan North Road Tiaotong](/geography/中山北路條通) — The 1898 Japanese colonial "Chokushi Kaido" tree-lined boulevard leading to the Maruyama Taiwan Shrine; like Ximending it was Japanese-era planned, but a completely different urban experiment
+- [Taipei City: Three Times Inside One City, where the 1738 Longshan Temple Watches the 2004 Taipei 101](/en/geography/taipei-city) — Ximending’s position among the twelve districts, placed alongside the three timelines of Bangka, Dadaocheng, and Xinyi
+- [Taiwan Anime and Manga Culture](/en/culture/taiwan-anime-culture) — Why cosplay gathers regularly on weekends in front of the Ximen Red House, and its relationship to the origin of the Fancy Frontier convention in 1999
+- [Taiwanese Street Art and Graffiti Culture](/en/culture/taiwan-street-art-and-graffiti-culture) — The context of the blue-wall graffiti at Ximending Cinema Park and the origins of Taiwanese street culture after the lifting of martial law
+- [Taiwan’s Old Street Culture and Commercial Districts](/en/culture/taiwan-historic-streets-and-commercial-districts) — The structural differences between Ximending as a Japanese-planned entertainment district and Qing-era old streets such as Lukang, Bangka, and Dadaocheng
+- [Bangka](/en/geography/bangka) — A batch 1 historic-district sibling: when the Japanese planned Ximending in 1896, neighboring Bangka was northern Taiwan’s busiest Qing-era port
+- [Dadaocheng](/en/geography/dadaocheng) — A batch 1 historic-district sibling: the emerging tea commercial street after the 1853 Dingxiajiao conflict, and Ximending’s Japanese-era entertainment district, are two different “street-formation moments”
+- [Zhongshan North Road Tiaotong](/en/geography/zhongshan-north-road-tiaotong) — The 1898 Japanese colonial "Chokushi Kaido" tree-lined boulevard leading to the Maruyama Taiwan Shrine; like Ximending it was Japanese-era planned, but a completely different urban experiment
 
 ## Image sources
 

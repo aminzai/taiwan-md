@@ -278,10 +278,10 @@ It will be another hour before the sun climbs from behind Green Island.
 
 **Further Reading**:
 
-- [The Development of Contemporary Sculpture in Taiwan](/art/台灣當代雕塑發展) — From Huang Tu-shui to Yuyu Yang to contemporary installation, a century-long path of three-dimensional creation in Taiwan
-- [Art Education and the Development of Academies in Taiwan](/art/台灣藝術教育與學院發展) — The training systems of the Department of Fine Arts at NTNU, National Taiwan Academy of Arts, and Tunghai University’s Department of Fine Arts, and Chiang’s academic background
-- [Taiwanese Curators and the Construction of Art and Culture](/art/台灣策展人與藝術文化建構) — From Wang Chia-chi to contemporary curatorial practice, how retrospectives reshape an artist’s public image
-- [Contemporary Art](/art/當代藝術) — The broader context of Taiwan’s post-1960s abstract painting movement, the Fifth Moon Group, and the Eastern Painting Group
+- [The Development of Contemporary Sculpture in Taiwan](/en/art/development-of-contemporary-taiwanese-sculpture) — From Huang Tu-shui to Yuyu Yang to contemporary installation, a century-long path of three-dimensional creation in Taiwan
+- [Art Education and the Development of Academies in Taiwan](/en/art/taiwanese-art-education-and-academic-development) — The training systems of the Department of Fine Arts at NTNU, National Taiwan Academy of Arts, and Tunghai University’s Department of Fine Arts, and Chiang’s academic background
+- [Taiwanese Curators and the Construction of Art and Culture](/en/art/taiwanese-curators-and-artistic-cultural-construction) — From Wang Chia-chi to contemporary curatorial practice, how retrospectives reshape an artist’s public image
+- [Contemporary Art](/en/art/contemporary-art) — The broader context of Taiwan’s post-1960s abstract painting movement, the Fifth Moon Group, and the Eastern Painting Group
 
 ## Image Sources
 

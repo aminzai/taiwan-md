@@ -110,11 +110,11 @@ He is still asking today what he wrote in a 2014 residency statement at Treasure
 
 ## Further Reading
 
-- **[FAB DAO and the Centennial Mountains Project](/art/FAB%20DAO與百岳計畫)** — The six-artist lineup of the Centennial Mountains Project and its public-interest NFT structure
-- **[Aluan Wang](/art/王新仁)** — Fellow Centennial Mountains Project artist; the first Taiwanese artist to appear on Art Blocks
-- **[Wang Lien-cheng (Shrimp Dad)](/art/王連晟)** — Centennial Mountains Project's Civilization series; Luminos Award winner
-- **[Taiwan New Media Art](/art/台灣新媒體藝術)** — The historical context of generative art in Taiwan's new media art
-- **[Chi Po-Hao](/art/紀柏豪)** — A sound artist also in the C-LAB Sound Lab ecosystem; co-exhibitor at 2025 DIVERSONICS
+- **[FAB DAO and the Centennial Mountains Project](/en/art/fab-dao)** — The six-artist lineup of the Centennial Mountains Project and its public-interest NFT structure
+- **[Aluan Wang](/en/art/wang-hsin-jen-artist)** — Fellow Centennial Mountains Project artist; the first Taiwanese artist to appear on Art Blocks
+- **[Wang Lien-cheng (Shrimp Dad)](/en/art/wang-lien-cheng-artist)** — Centennial Mountains Project's Civilization series; Luminos Award winner
+- **[Taiwan New Media Art](/en/art/taiwan-new-media-art)** — The historical context of generative art in Taiwan's new media art
+- **[Chi Po-Hao](/en/art/chi-po-hao-musician)** — A sound artist also in the C-LAB Sound Lab ecosystem; co-exhibitor at 2025 DIVERSONICS
 
 ## References
 

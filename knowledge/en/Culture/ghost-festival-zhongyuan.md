@@ -74,8 +74,8 @@ The Ghost Festival reminds us that peace on this island is not self-evident; it 
 
 ## Further Reading
 
-- [Lunar Seventh Month](/culture/農曆七月) — The social rhythm of the ghost month
-- [Dragon Boat Festival](/culture/端午節) — How festival toolkits are localized in Taiwan
+- [Lunar Seventh Month](/en/culture/lunar-july-ghost-month) — The social rhythm of the ghost month
+- [Dragon Boat Festival](/en/culture/dragon-boat-festival) — How festival toolkits are localized in Taiwan
 
 ## Sources
 

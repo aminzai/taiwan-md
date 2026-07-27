@@ -262,8 +262,8 @@ Shortages of cybersecurity talent, insufficient investment in basic research, an
 
 **Further Reading**:
 
-- [Taiwan’s National Defense and Military Modernization](/society/台灣國防與軍事現代化) — The front line of gray-zone warfare is not naval mines, but firewalls. The scenario for the first three days of the Han Kuang 41 exercise was cyber and cognitive warfare
-- [Taiwan AI Development](/technology/AI發展) — AI’s dual role in cybersecurity and national defense
+- [Taiwan’s National Defense and Military Modernization](/en/society/taiwan-defense-modernization) — The front line of gray-zone warfare is not naval mines, but firewalls. The scenario for the first three days of the Han Kuang 41 exercise was cyber and cognitive warfare
+- [Taiwan AI Development](/en/technology/ai-development-in-taiwan) — AI’s dual role in cybersecurity and national defense
 
 ## References
 

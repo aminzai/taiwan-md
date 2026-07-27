@@ -199,16 +199,16 @@ In 2021, he said "the Golden Melody Awards were waiting for me." A more precise 
 
 **Further reading:**
 
-- [Waa Wei](/people/魏如萱) — the embodiment of Chen Chien-chi's 25+ year producer-mentor relationship; the same sonic trajectory from Natural Q to _Pearl Punishment_
-- [Lala Hsu](/people/徐佳瑩) — the starting point of Chen Chien-chi's entry into pop music production ("Lost Desert," 2008)
-- [Hebe Tien](/people/田馥甄) — Chen Chien-chi's 2021 Golden Melody Award for Best Album Producer, _Anonymity_
-- [Rainie Yang](/people/楊丞琳) — a contrast in identity construction among same-generation Mandarin pop female singers (Rainie Yang self-produced, Chen Chien-chi produced by others)
-- [Pop Music and the Golden Melody Awards](/music/金曲獎) — the complete coordinates of Chen Chien-chi's three Golden Melody Awards spanning arranging / single / album production
-- [Taiwan Pop Music](/music/台灣流行音樂) — the historical context of the sonic red line Chen Chien-chi tore down for Mandarin pop music over 25 years
-- [Taiwan Independent Music](/music/台灣獨立音樂) — the position of Chen Chien-chi's "Good Many Music" and "HerMusic" labels in the independent music ecosystem
-- [Ko Chih-tang](/people/柯智棠) — the British folk singer for whom Chen Chien-chi produced three full albums, and co-winner of the 2025 Golden Bell Original Song Award for "God's Reply"
-- [Yoga Lin](/people/林宥嘉) — Chen Chien-chi participated in the production lineup for _Fiction_ (2012) and _Today Is My Day_ (2016); Yoga Lin's trajectory from singer being written for to self-producing
-- [Huang Shao-yung](/people/黃少雍) — the other main producer of _Pearl Punishment_; Chen Chien-chi tore down the red line for Mandarin voices, Huang Shao-yung tore down the same line for non-Mandarin languages (Paiwan / Amis / Tâi-gí)
+- [Waa Wei](/en/people/waa-wei-singer) — the embodiment of Chen Chien-chi's 25+ year producer-mentor relationship; the same sonic trajectory from Natural Q to _Pearl Punishment_
+- [Lala Hsu](/en/people/lala-hsu-singer) — the starting point of Chen Chien-chi's entry into pop music production ("Lost Desert," 2008)
+- [Hebe Tien](/en/people/hebe-tien-singer) — Chen Chien-chi's 2021 Golden Melody Award for Best Album Producer, _Anonymity_
+- [Rainie Yang](/en/people/rainie-yang) — a contrast in identity construction among same-generation Mandarin pop female singers (Rainie Yang self-produced, Chen Chien-chi produced by others)
+- [Pop Music and the Golden Melody Awards](/en/music/pop-music-and-golden-melody-awards) — the complete coordinates of Chen Chien-chi's three Golden Melody Awards spanning arranging / single / album production
+- [Taiwan Pop Music](/en/music/golden-melodies-legacy-taiwan-pop-music) — the historical context of the sonic red line Chen Chien-chi tore down for Mandarin pop music over 25 years
+- [Taiwan Independent Music](/en/music/indie-music-scene) — the position of Chen Chien-chi's "Good Many Music" and "HerMusic" labels in the independent music ecosystem
+- [Ko Chih-tang](/en/people/ke-zhi-tang-musician) — the British folk singer for whom Chen Chien-chi produced three full albums, and co-winner of the 2025 Golden Bell Original Song Award for "God's Reply"
+- [Yoga Lin](/en/people/yoga-lin) — Chen Chien-chi participated in the production lineup for _Fiction_ (2012) and _Today Is My Day_ (2016); Yoga Lin's trajectory from singer being written for to self-producing
+- [Huang Shao-yung](/en/people/huang-shao-yong-musician) — the other main producer of _Pearl Punishment_; Chen Chien-chi tore down the red line for Mandarin voices, Huang Shao-yung tore down the same line for non-Mandarin languages (Paiwan / Amis / Tâi-gí)
 
 ## References
 

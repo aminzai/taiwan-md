@@ -176,10 +176,10 @@ Semiconductors make Taiwan needed by the world. Electricity reminds Taiwan that 
 
 ## Further Reading
 
-- [AI Hardware Supply Chain](/technology/ai-hardware-supply-chain) — How Taiwan turns cloud demand into machines that can be shipped.
-- [Semiconductor Water Use and Taiwan’s Water Resources](/technology/semiconductor-water-use-and-taiwan-water-resources) — How wafer fabrication enters reservoirs, drought, and reclaimed-water governance.
-- [AI Supply Chain Overseas Manufacturing](/technology/ai-supply-chain-overseas-manufacturing) — How overseas manufacturing ties supply chains to electricity and local infrastructure.
-- [Taiwan’s TSMC](/economy/tsmc) — How the pure-play foundry model became a global advanced-chip bottleneck.
+- [AI Hardware Supply Chain](/en/technology/ai-hardware-supply-chain) — How Taiwan turns cloud demand into machines that can be shipped.
+- [Semiconductor Water Use and Taiwan’s Water Resources](/en/technology/semiconductor-water-use-and-taiwan-water-resources) — How wafer fabrication enters reservoirs, drought, and reclaimed-water governance.
+- [AI Supply Chain Overseas Manufacturing](/en/technology/ai-supply-chain-overseas-manufacturing) — How overseas manufacturing ties supply chains to electricity and local infrastructure.
+- [Taiwan’s TSMC](/en/economy/tsmc) — How the pure-play foundry model became a global advanced-chip bottleneck.
 
 ## Image Sources
 

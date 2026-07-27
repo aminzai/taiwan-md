@@ -108,9 +108,9 @@ Which existing illegal structure's rooftop will the next fire break out on? No o
 
 **Further Reading**:
 
-- [Social Housing and Housing Justice](/society/社會住宅與居住正義) — The broader housing structure to which the tin-shed problem belongs: challenges in social housing policy and the rental market
-- [Taiwan Environmental Justice and NIMBY Controversies](/society/台灣環境正義與鄰避爭議) — Land use and environmental pollution issues behind the Wen-zi-cun tin-shed factory relocations
-- [Indigenous Land Justice and Traditional Territories in Taiwan](/society/台灣原住民族土地正義與傳統領域) — Understanding the complexity of "legal and illegal" land use in Taiwan from a different perspective
+- [Social Housing and Housing Justice](/en/society/social-housing-and-housing-justice) — The broader housing structure to which the tin-shed problem belongs: challenges in social housing policy and the rental market
+- [Taiwan Environmental Justice and NIMBY Controversies](/en/society/taiwan-environmental-justice-nimby-conflicts) — Land use and environmental pollution issues behind the Wen-zi-cun tin-shed factory relocations
+- [Indigenous Land Justice and Traditional Territories in Taiwan](/en/society/indigenous-land-justice-and-traditional-territories) — Understanding the complexity of "legal and illegal" land use in Taiwan from a different perspective
 
 ## References
 

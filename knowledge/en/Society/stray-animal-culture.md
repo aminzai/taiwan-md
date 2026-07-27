@@ -442,12 +442,12 @@ Complex problems have no simple answers. But the question has already been writt
 
 **Further Reading**:
 
-- [Leopard Cat Conservation in Taiwan](/nature/台灣石虎保育) — The protagonist species in the 21 dog-kill cases discussed in this article, with fewer than 500 individuals remaining across Taiwan and habitat in the low-elevation foothill mosaic
-- [Formosan Black Bear](/nature/台灣黑熊) — An indicator species of the Yushan ecosystem and another front line after free-ranging dogs spread into low-elevation areas
-- [Taiwan’s Pangolins](/nature/台灣穿山甲) — Half of the individuals admitted to rescue stations have tail injuries caused by free-ranging dog bites
-- [Bird Window Strikes in Taiwan](/nature/台灣鳥類窗殺議題) — Another invisible cost imposed on wildlife by human-built environments
-- [Zoos and the Ethics of Performing Animals](/society/動物園與展演動物倫理) — Another side of animal welfare: the dilemmas that arise when humans decide on behalf of animals
-- [Controversies Over Veterinary Drugs in Taiwan](/society/台灣動物用藥爭議) — Ten years into zero-culling policy, the next question this island must face is: what happens when they are sick but cannot access medicine?
+- [Leopard Cat Conservation in Taiwan](/en/nature/taiwanese-leopard-cat-conservation) — The protagonist species in the 21 dog-kill cases discussed in this article, with fewer than 500 individuals remaining across Taiwan and habitat in the low-elevation foothill mosaic
+- [Formosan Black Bear](/en/nature/taiwanese-black-bear) — An indicator species of the Yushan ecosystem and another front line after free-ranging dogs spread into low-elevation areas
+- [Taiwan’s Pangolins](/en/nature/taiwan-pangolin) — Half of the individuals admitted to rescue stations have tail injuries caused by free-ranging dog bites
+- [Bird Window Strikes in Taiwan](/en/nature/bird-window-collision-taiwan) — Another invisible cost imposed on wildlife by human-built environments
+- [Zoos and the Ethics of Performing Animals](/en/society/zoo-and-exhibition-animal-ethics) — Another side of animal welfare: the dilemmas that arise when humans decide on behalf of animals
+- [Controversies Over Veterinary Drugs in Taiwan](/en/society/taiwan-animal-drug-controversy) — Ten years into zero-culling policy, the next question this island must face is: what happens when they are sick but cannot access medicine?
 
 ---
 

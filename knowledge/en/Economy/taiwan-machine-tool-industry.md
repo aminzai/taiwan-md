@@ -165,11 +165,11 @@ They don't write TMTS theme words, but they are the people who make those theme 
 
 **Further Reading:**
 
-- [Taiwan's Robotics Industry](/technology/台灣機器人產業) (zh only) — Dadu Mountain's machine tool capabilities are the upstream foundation of the robotics industry, but bridging "making a good component" to "integrating a full robot" requires overcoming a gap in industrial organization
-- [Semiconductor Industry](/technology/半導體產業) (zh only) — Another Taiwanese industry that is "upstream in the global supply chain"; many structural similarities with the machine tool industry
-- [Taiwan's Industrial Transformation and Upgrading](/economy/台灣產業轉型升級) (zh only) — The困境 of upgrading from OEM to brand, from components to systems; the machine tool industry is a central case in this discussion
-- [Foxconn Precision Industry](/economy/台灣企業：鴻海精密) (zh only) — Another Taiwan manufacturing story with blacksmith roots; much larger in scale but structurally similar in essence
-- [Taiwan's Foreign Trade and Global Supply Chain](/economy/台灣外貿與全球供應鏈) (zh only) — Machine tools are the "hidden champions" of Taiwan's trade structure; smaller in scale than electronics but supporting the entire manufacturing foundation
+- [Taiwan's Robotics Industry](/en/technology/taiwan-robotics-industry) (zh only) — Dadu Mountain's machine tool capabilities are the upstream foundation of the robotics industry, but bridging "making a good component" to "integrating a full robot" requires overcoming a gap in industrial organization
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) (zh only) — Another Taiwanese industry that is "upstream in the global supply chain"; many structural similarities with the machine tool industry
+- [Taiwan's Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) (zh only) — The困境 of upgrading from OEM to brand, from components to systems; the machine tool industry is a central case in this discussion
+- [Foxconn Precision Industry](/en/economy/foxconn-precision-industry) (zh only) — Another Taiwan manufacturing story with blacksmith roots; much larger in scale but structurally similar in essence
+- [Taiwan's Foreign Trade and Global Supply Chain](/en/economy/taiwan-foreign-trade-and-global-supply-chain) (zh only) — Machine tools are the "hidden champions" of Taiwan's trade structure; smaller in scale than electronics but supporting the entire manufacturing foundation
 
 ## References
 

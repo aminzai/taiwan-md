@@ -214,10 +214,10 @@ That Brokeback Mountain was never moved away. The father who opposed his filmmak
 
 **Further Reading**:
 
-- [Taiwanese Cinema](/art/台灣電影) — The full context from Taiwanese-language films and Healthy Realism to the Taiwan New Cinema and the contemporary era: the tradition Lee inherited and then carried outward
-- [Hou Hsiao-hsien](/people/侯孝賢) — A Taiwan New Cinema standard-bearer of the same generation, who chose a very different auteur path from Lee's
-- [Edward Yang](/people/楊德昌) — A director who dissected Taiwan's modern anxieties through a city, and another summit of the Taiwan New Cinema
-- [Tsai Ming-liang](/people/蔡明亮) — A Taiwanese auteur who pushed solitude and slowness to their extreme, in a path almost opposite to Lee's Hollywood trajectory
+- [Taiwanese Cinema](/en/art/taiwanese-cinema) — The full context from Taiwanese-language films and Healthy Realism to the Taiwan New Cinema and the contemporary era: the tradition Lee inherited and then carried outward
+- [Hou Hsiao-hsien](/en/people/hou-hsiao-hsien) — A Taiwan New Cinema standard-bearer of the same generation, who chose a very different auteur path from Lee's
+- [Edward Yang](/en/people/yang-dechang) — A director who dissected Taiwan's modern anxieties through a city, and another summit of the Taiwan New Cinema
+- [Tsai Ming-liang](/en/people/tsai-ming-liang) — A Taiwanese auteur who pushed solitude and slowness to their extreme, in a path almost opposite to Lee's Hollywood trajectory
 
 ## Image Sources
 

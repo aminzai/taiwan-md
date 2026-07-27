@@ -113,13 +113,13 @@ Foreign styles and multiple cultures came to Taiwan by sea and entered the lives
 
 **Further Reading**:
 
-- [Prehistory and Indigenous Peoples](/history/史前時代與原住民) — the autonomous societies already present on the island before the Dutch landed
-- [Qing Rule](/history/清治時期) — the 212 years after 1683, when Taiwan expanded from a “small prefecture” into a province
-- [Taiwan’s Maritime Trade History](/history/台灣海洋貿易史) — the full trade-network context from the Dutch period to Tungning and Qing rule
-- [History of Taiwan’s Indigenous Peoples and the Name Rectification Movement](/history/台灣原住民族歷史與正名運動) — the Pingpu peoples affected by waves of Han immigration
-- [Taiwan Island-Centered Historical Perspective](/history/台灣島史觀) — Ts’ao Yung-ho’s island-centered historical perspective, a core lens for this period
-- [Formosa](/history/福爾摩沙) — debates over the origin of the name “Formosa,” and how Westerners have written about this island over the past four centuries
-- [National Museum of Taiwan History](/society/國立臺灣歷史博物館) — NMTH’s permanent exhibition Area 3, “The Island and Its People Born of the Sea,” and the 2024 Transcending 1624 International Exhibition directly present this period; 1624 was the year the Dutch East India Company established Fort Zeelandia at Tayouan
+- [Prehistory and Indigenous Peoples](/en/history/prehistoric-era-and-indigenous-peoples) — the autonomous societies already present on the island before the Dutch landed
+- [Qing Rule](/en/history/qing-dynasty-rule) — the 212 years after 1683, when Taiwan expanded from a “small prefecture” into a province
+- [Taiwan’s Maritime Trade History](/en/history/taiwan-maritime-trade-history) — the full trade-network context from the Dutch period to Tungning and Qing rule
+- [History of Taiwan’s Indigenous Peoples and the Name Rectification Movement](/en/history/indigenous-peoples-history-and-naming-movement) — the Pingpu peoples affected by waves of Han immigration
+- [Taiwan Island-Centered Historical Perspective](/en/history/taiwan-island-historiography) — Ts’ao Yung-ho’s island-centered historical perspective, a core lens for this period
+- [Formosa](/en/history/formosa-historical-name) — debates over the origin of the name “Formosa,” and how Westerners have written about this island over the past four centuries
+- [National Museum of Taiwan History](/en/society/national-museum-of-taiwan-history) — NMTH’s permanent exhibition Area 3, “The Island and Its People Born of the Sea,” and the 2024 Transcending 1624 International Exhibition directly present this period; 1624 was the year the Dutch East India Company established Fort Zeelandia at Tayouan
 
 ## References
 

@@ -155,12 +155,12 @@ Taiwanese literature of this period provided substantive accumulation for later 
 
 ## Further Reading
 
-- [The Taiwan Travelogue](/art/臺灣漫遊錄) — Yang Shuang-zi’s 2020 pseudo-translated novel, turning a 1938-39 journey along Taiwan’s north-south railway during Japanese rule into a story of food and power between two women; internationally recognized by both the 2024 National Book Award and the 2026 International Booker Prize
-- [Postwar Taiwanese Literature](/art/戰後台灣文學) — How the Japanese-period line of Lai He, Lü Heruo, and Zhang Wenhuan continued after the linguistic rupture of 1945: Yeh Shih-tao’s blank page, modernism, the nativist literature debate, and women’s awakening
-- [Taiwanese Literature after the Lifting of Martial Law](/art/解嚴後台灣文學) — The pluralistic explosion after the lifting of martial law in 1987
-- [Contemporary Taiwanese Literature](/art/當代台灣文學) — Twenty-first-century internationalization, Wu Ming-yi, and digital literature
-- [History of Taiwanese Literature](/art/台灣文學史) — The overall trajectory from Dutch rule, the Ming-Zheng and Qing periods, and Japanese rule to the contemporary era
-- [Lin Liang](/people/林良) — A foundational figure in postwar children’s literature who crossed the sea from Xiamen to Taiwan, offering a contrast with Japanese-period literature in terms of prewar and postwar language-policy positions
+- [The Taiwan Travelogue](/en/art/taiwan-travelogue) — Yang Shuang-zi’s 2020 pseudo-translated novel, turning a 1938-39 journey along Taiwan’s north-south railway during Japanese rule into a story of food and power between two women; internationally recognized by both the 2024 National Book Award and the 2026 International Booker Prize
+- [Postwar Taiwanese Literature](/en/art/postwar-taiwanese-literature) — How the Japanese-period line of Lai He, Lü Heruo, and Zhang Wenhuan continued after the linguistic rupture of 1945: Yeh Shih-tao’s blank page, modernism, the nativist literature debate, and women’s awakening
+- [Taiwanese Literature after the Lifting of Martial Law](/en/art/post-martial-law-taiwanese-literature) — The pluralistic explosion after the lifting of martial law in 1987
+- [Contemporary Taiwanese Literature](/en/art/contemporary-taiwanese-literature) — Twenty-first-century internationalization, Wu Ming-yi, and digital literature
+- [History of Taiwanese Literature](/en/art/history-of-taiwanese-literature) — The overall trajectory from Dutch rule, the Ming-Zheng and Qing periods, and Japanese rule to the contemporary era
+- [Lin Liang](/en/people/lin-liang-childrens-literature) — A foundational figure in postwar children’s literature who crossed the sea from Xiamen to Taiwan, offering a contrast with Japanese-period literature in terms of prewar and postwar language-policy positions
 
 ---
 

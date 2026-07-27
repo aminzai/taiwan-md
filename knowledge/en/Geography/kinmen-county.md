@@ -194,15 +194,15 @@ Look at the people waiting to board: Kinmen residents going to Xiamen for dental
 ## Further Reading
 
 - [Lienchiang County](/geography/連江縣) — A sibling in the 22 Counties and Cities Series, and the other offshore-island county in Fujian Province. Like Kinmen, it had warzone administration from 1956, abolition in 1992, and the Mini Three Links from 2001; unlike Kinmen, it speaks Eastern Min Fuzhou, lies 50 kilometers from Fuzhou, and had no land battle on the scale of Guningtou. Same system, different body.
-- [Keelung City](/geography/基隆市) — The pilot entry in the 22 Counties and Cities Series: northern Taiwan’s only deepwater port versus Kinmen’s southern coastal-defense fortress, two timelines of Taiwanese ports.
-- [Penghu County](/geography/澎湖縣) — The third county in the offshore-island group of the 22 Counties and Cities Series. Like Kinmen, it is an outlying island, but it has a history of Japanese rule, allowing comparison with Kinmen’s absence of direct Japanese colonial administration.
-- [Koxinga](/people/鄭成功) — In 1646, he raised troops in Kinmen to resist the Qing and restore the Ming. This decision, launched from Kinmen, later changed Taiwan.
-- [Chiang Kai-shek](/people/蔣中正) — The decision-maker who inscribed “Never Forget Juguang” on Taiwu Mountain in 1958 and ordered Kinmen to be defended to the death in 1949.
-- [Martial Law Period](/history/戒嚴時期) — Martial law was lifted on Taiwan proper in 1987, but warzone administration in Kinmen and Matsu was not abolished until 1992. Read this piece alongside it to see two versions of martial law.
-- [Taiwan Strait Crises and the Development of Cross-Strait Relations](/history/台海危機與兩岸關係發展) — The August 23 Artillery Battle is one of the most concrete physical pieces of evidence of a hot war within the Cold War. The “At 5:30 p.m.” section here is a county-level extension of that article.
-- [Taiwan’s National Defense and Military Modernization](/society/台灣國防與軍事現代化) — Compare the evolution from 50,000 to 100,000 troops under Kinmen military control to fewer than 10,000 today with the broader trajectory of modernization in Taiwan’s armed forces.
-- [Taiwan’s Island Geography and Formation](/geography/台灣島嶼地理特色與形成) — A comparison between Kinmen’s granite geology and the formation mechanisms of other Taiwanese islands.
-- [Legends of Mazu and Baosheng Dadi](/culture/媽祖與大道公的傳說) — Kinmen’s Minnan religious traditions share origins with Taiwan proper while differing from the legend of the sacred cave at Matsu’s Tianhou Temple.
+- [Keelung City](/en/geography/keelung-city) — The pilot entry in the 22 Counties and Cities Series: northern Taiwan’s only deepwater port versus Kinmen’s southern coastal-defense fortress, two timelines of Taiwanese ports.
+- [Penghu County](/en/geography/penghu-county) — The third county in the offshore-island group of the 22 Counties and Cities Series. Like Kinmen, it is an outlying island, but it has a history of Japanese rule, allowing comparison with Kinmen’s absence of direct Japanese colonial administration.
+- [Koxinga](/en/people/koxinga) — In 1646, he raised troops in Kinmen to resist the Qing and restore the Ming. This decision, launched from Kinmen, later changed Taiwan.
+- [Chiang Kai-shek](/en/people/chiang-kai-shek) — The decision-maker who inscribed “Never Forget Juguang” on Taiwu Mountain in 1958 and ordered Kinmen to be defended to the death in 1949.
+- [Martial Law Period](/en/history/martial-law-era) — Martial law was lifted on Taiwan proper in 1987, but warzone administration in Kinmen and Matsu was not abolished until 1992. Read this piece alongside it to see two versions of martial law.
+- [Taiwan Strait Crises and the Development of Cross-Strait Relations](/en/history/taiwan-strait-crises-and-cross-strait-relations) — The August 23 Artillery Battle is one of the most concrete physical pieces of evidence of a hot war within the Cold War. The “At 5:30 p.m.” section here is a county-level extension of that article.
+- [Taiwan’s National Defense and Military Modernization](/en/society/taiwan-defense-modernization) — Compare the evolution from 50,000 to 100,000 troops under Kinmen military control to fewer than 10,000 today with the broader trajectory of modernization in Taiwan’s armed forces.
+- [Taiwan’s Island Geography and Formation](/en/geography/geography-and-geology) — A comparison between Kinmen’s granite geology and the formation mechanisms of other Taiwanese islands.
+- [Legends of Mazu and Baosheng Dadi](/en/culture/mazu-dadaogong-legend) — Kinmen’s Minnan religious traditions share origins with Taiwan proper while differing from the legend of the sacred cave at Matsu’s Tianhou Temple.
 
 ## Image Sources
 

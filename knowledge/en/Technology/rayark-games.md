@@ -182,7 +182,7 @@ After leaving Rayark, ICE continued creating in a personal capacity. In July 202
 
 This was Rayark's version of a "political landmine" incident, and the second conflict between its "aesthetic promise" logic and commercial relationships. Three years earlier, in the VK克 incident, Rayark chose to prioritize the commercial relationship. This time, facing a larger market, the decision structure was exactly the same.
 
-One year earlier, in 2019, Devotion by [Red Candle Games](/technology/赤燭遊戲) was removed from Steam's China region on February 23 because of the talisman incident. Three days later, Red Candle announced the game's full removal from Steam.[^cedargames-wiki] Its later publisher, Shanghai JuMiao Information Technology, was placed under investigation by the Yangpu District Administration for Market Regulation, and its business license was revoked on June 17.[^cedargames-wiki] **The party that truly bore the cost was the publishing side**. Red Candle preserved the original content without retreating, but the publishing company was eliminated. In Rayark's 2020 ICE incident, the company chose a different path: let the person involved leave, modify the game accordingly, and preserve its Chinese publishing channel. The priority remained commercial relationships, following the same logic as in the VK克 incident.
+One year earlier, in 2019, Devotion by [Red Candle Games](/en/technology/red-candle-games) was removed from Steam's China region on February 23 because of the talisman incident. Three days later, Red Candle announced the game's full removal from Steam.[^cedargames-wiki] Its later publisher, Shanghai JuMiao Information Technology, was placed under investigation by the Yangpu District Administration for Market Regulation, and its business license was revoked on June 17.[^cedargames-wiki] **The party that truly bore the cost was the publishing side**. Red Candle preserved the original content without retreating, but the publishing company was eliminated. In Rayark's 2020 ICE incident, the company chose a different path: let the person involved leave, modify the game accordingly, and preserve its Chinese publishing channel. The priority remained commercial relationships, following the same logic as in the VK克 incident.
 
 > **⚠️ Contested Viewpoint**
 > These were sharply different choices by two landmark Taiwanese indie teams facing pressure from the Chinese market. Red Candle did not retreat on content, and the publisher paid the price of elimination; Rayark let the content retreat and preserved the Chinese publishing channel. English-language outlet PocketGamer.biz framed the story with the headline "China pulls Cytus II from the App Store for secret pro-democracy Morse code message."[^pocketgamer-cytus2] In the Chinese-language world, discussion focused on whether "Rayark kneeled" and whether cutting ties was correct. One event, two readings. Rayark's choice this time, and its 2014-2017 choice regarding VK克, were the same brand logic extended to different pressure sources.
@@ -251,10 +251,10 @@ What will the next Rayark look like? Perhaps there will not be one; perhaps it w
 
 ## Further Reading
 
-- [Taiwan's Game Industry and Digital Entertainment](/technology/台灣遊戲產業與數位娛樂) — A panoramic view of Taiwanese games, from licensing to original creation
-- [Red Candle Games](/technology/赤燭遊戲) — Another path for Taiwanese indie games: telling stories through history and choosing to leave the Chinese market
-- [Daewoo's Twin Swords](/technology/大宇雙劍) — The starting point for Taiwanese games telling stories in Chinese
-- [X-Legend and the Overseas Expansion of Taiwanese Online Games](/technology/傳奇網路與台灣線上遊戲出海) — Another overseas story of Taiwanese games
+- [Taiwan's Game Industry and Digital Entertainment](/en/technology/taiwan-gaming-industry) — A panoramic view of Taiwanese games, from licensing to original creation
+- [Red Candle Games](/en/technology/red-candle-games) — Another path for Taiwanese indie games: telling stories through history and choosing to leave the Chinese market
+- [Daewoo's Twin Swords](/en/technology/softstar-twin-classics) — The starting point for Taiwanese games telling stories in Chinese
+- [X-Legend and the Overseas Expansion of Taiwanese Online Games](/en/technology/chuanqi-net-and-taiwan-online-gaming) — Another overseas story of Taiwanese games
 
 ---
 

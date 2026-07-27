@@ -208,13 +208,13 @@ At that June 2025 press screening, the ground shook before the screen lit up. A 
 
 ## Further Reading
 
-- [Tsai Ing-wen](/people/蔡英文) — The central figure filmed closely across seven years in this documentary, Taiwan's first woman president, who went from losing by 800,000 votes to winning reelection with 8.17 million
-- [Sunflower Movement](/society/太陽花學運) — A key node in the film's democratic arc, the 24 days in 2014 that reshaped a generation's political consciousness
-- [Chi Cheng](/people/紀政) — The "Flying Antelope" who takes out her 1968 Mexico City Olympic bronze medal in the film and asks whether "Chinese Taipei" is the name of a country
-- [Chinese Taipei](/society/中華台北) — The Olympic naming mechanism behind Chi Cheng's "bronze medal that cannot bear its own name"
+- [Tsai Ing-wen](/en/people/tsai-ing-wen) — The central figure filmed closely across seven years in this documentary, Taiwan's first woman president, who went from losing by 800,000 votes to winning reelection with 8.17 million
+- [Sunflower Movement](/en/society/sunflower-movement) — A key node in the film's democratic arc, the 24 days in 2014 that reshaped a generation's political consciousness
+- [Chi Cheng](/en/people/chi-cheng-flying-antelope) — The "Flying Antelope" who takes out her 1968 Mexico City Olympic bronze medal in the film and asks whether "Chinese Taipei" is the name of a country
+- [Chinese Taipei](/en/society/chinese-taipei) — The Olympic naming mechanism behind Chi Cheng's "bronze medal that cannot bear its own name"
 - [Taiwan's unification-independence spectrum](/society/台灣統獨光譜) — The sovereignty coordinates of Tsai Ing-wen's line in the film that Taiwan already is an independent nation
-- [Puma Shen](/people/沈伯洋) — The real-world version of the civil defense class at the end: cofounder of Kuma Academy and a legislator teaching civilians "how to survive"
-- [Mountain Makers: The Century's Gamble](/art/造山者世紀的賭注) — Another "Taiwan values" documentary released on the same day as this film, telling the story of Taiwan's semiconductor industry
+- [Puma Shen](/en/people/puma-shen) — The real-world version of the civil defense class at the end: cofounder of Kuma Academy and a legislator teaching civilians "how to survive"
+- [Mountain Makers: The Century's Gamble](/en/art/mountain-makers-tsmc-documentary) — Another "Taiwan values" documentary released on the same day as this film, telling the story of Taiwan's semiconductor industry
 
 ## Image Sources
 

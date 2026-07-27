@@ -67,4 +67,4 @@ He has also organized his creative insights, writing design discourse exploring 
 ## Further Reading
 
 - [Freeimage Design Co., Ltd. — Taiwan Company Directory](https://www.twincn.com/item.aspx?no=84491727) — Company registration information for Freeimage Design (FREEIMAGE DESIGN CO., LTD.)
-- [Fang Hsu-Chung](/people/方序中) — A contemporary Taiwanese visual designer, responsible for Golden Melody Awards and Golden Horse Awards visual identity
+- [Fang Hsu-Chung](/en/people/fang-hsu-chung) — A contemporary Taiwanese visual designer, responsible for Golden Melody Awards and Golden Horse Awards visual identity

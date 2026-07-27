@@ -257,11 +257,11 @@ That DOS window closed thirty years ago. But that afternoon is still here.
 
 ## Further Reading
 
-- [Taiwan's Gaming Industry and Digital Entertainment](/technology/台灣遊戲產業與數位娛樂) — From licensing to original creation, a panoramic view of Taiwan's gaming industry
-- [Taiwan's Open Source Spirit](/technology/台灣開源精神) — Another Taiwan story of "passion achieving beyond scale"
-- [不入地窖焉能睡覺](/technology/不入地窖焉能睡覺) — Taiwan's gaming community of the same era, growing from BBS into a 6-million-member platform
-- [台灣玩家的瘋狂時刻](/technology/台灣玩家的瘋狂時刻) — After the Softstar Twin Classics, the collective frenzy history that Taiwanese players continued to write
-- [Rayark](/technology/雷亞遊戲) — The next generation of Taiwanese game companies that, like Softstar, built on aesthetics but took a completely different path
+- [Taiwan's Gaming Industry and Digital Entertainment](/en/technology/taiwan-gaming-industry) — From licensing to original creation, a panoramic view of Taiwan's gaming industry
+- [Taiwan's Open Source Spirit](/en/technology/taiwan-open-source-spirit) — Another Taiwan story of "passion achieving beyond scale"
+- [不入地窖焉能睡覺](/en/technology/into-the-cellar-taiwan-game-podcast) — Taiwan's gaming community of the same era, growing from BBS into a 6-million-member platform
+- [台灣玩家的瘋狂時刻](/en/technology/taiwan-gamers-wildest-moments) — After the Softstar Twin Classics, the collective frenzy history that Taiwanese players continued to write
+- [Rayark](/en/technology/rayark-games) — The next generation of Taiwanese game companies that, like Softstar, built on aesthetics but took a completely different path
 
 ---
 

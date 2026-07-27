@@ -140,9 +140,9 @@ Seven years is so short, yet the spores have spread for thirty years. Next time 
 
 **Further Reading**:
 
-- [Taiwan Contemporary Art](/art/當代藝術) — The overall context of Taiwan's contemporary art development after Martial Law; New Ecological is the representative node in Southern Taiwan during this period.
-- [Taiwan Curators and Art Culture Construction](/art/台灣策展人與藝術文化建構) — The process of localization of the concept of curating in Taiwan in the 1990s; Zheng Ming-quan of New Ecological is one example.
-- [Taiwan New Media Art](/art/台灣新媒體藝術) — In the same period, Huang Wen-hao extended from IT Park to create Local Experiment (ETAT); this is a parallel case from 1995.
+- [Taiwan Contemporary Art](/en/art/contemporary-art) — The overall context of Taiwan's contemporary art development after Martial Law; New Ecological is the representative node in Southern Taiwan during this period.
+- [Taiwan Curators and Art Culture Construction](/en/art/taiwanese-curators-and-artistic-cultural-construction) — The process of localization of the concept of curating in Taiwan in the 1990s; Zheng Ming-quan of New Ecological is one example.
+- [Taiwan New Media Art](/en/art/taiwan-new-media-art) — In the same period, Huang Wen-hao extended from IT Park to create Local Experiment (ETAT); this is a parallel case from 1995.
 
 ## Image Sources
 

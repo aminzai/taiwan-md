@@ -176,9 +176,9 @@ The color in the dye vat has come alive. As for what form this vat of color will
 ## Further Reading
 
 - [Traditional Taiwanese Crafts and Intangible Cultural Heritage](/culture/台灣傳統工藝與無形文化資產) — Sanxia indigo revival's position within Taiwan's craft preservation system, and the larger context of "folk first, institutional ratification later"
-- [Sanxia Old Street](/history/三峽老街) — Sanxia Old Street's architectural preservation history; this article discusses the craft itself, that article discusses streets and monuments
-- [Hakka Culture and Language](/culture/客家文化與語言) — The more complete ethnic cultural context behind Hakka blue shirts and big-front shirts
-- [Taiwan Floral Fabric](/culture/台灣花布) — Another dyeing pattern once viewed as a Hakka symbol, later found to have a more complex origin
+- [Sanxia Old Street](/en/history/sanxia-old-street) — Sanxia Old Street's architectural preservation history; this article discusses the craft itself, that article discusses streets and monuments
+- [Hakka Culture and Language](/en/culture/hakka-culture-and-language) — The more complete ethnic cultural context behind Hakka blue shirts and big-front shirts
+- [Taiwan Floral Fabric](/en/culture/taiwan-floral-fabric) — Another dyeing pattern once viewed as a Hakka symbol, later found to have a more complex origin
 
 ## Image Sources
 

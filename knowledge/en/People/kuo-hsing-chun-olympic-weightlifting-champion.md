@@ -1,11 +1,22 @@
 ---
-title: "Kuo Hsing-chun: From the Injury of a 141-Kilogram Barbell to Three Olympic Weightlifting Podiums"
-description: "Taiwanese weightlifter, three-time Olympic medalist (2016 bronze, 2021 gold, 2024 bronze), world-record holder in the 59 kg class, and descendant of the Amis Malan community"
+title: 'Kuo Hsing-chun: From the Injury of a 141-Kilogram Barbell to Three Olympic Weightlifting Podiums'
+description: 'Taiwanese weightlifter, three-time Olympic medalist (2016 bronze, 2021 gold, 2024 bronze), world-record holder in the 59 kg class, and descendant of the Amis Malan community'
 date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '體育'
-tags: ['People', 'Kuo Hsing-chun', 'Weightlifting', 'Olympics', 'Gold Medal', 'Athlete', 'Taiwan', 'Amis', 'Indigenous Peoples']
+tags:
+  [
+    'People',
+    'Kuo Hsing-chun',
+    'Weightlifting',
+    'Olympics',
+    'Gold Medal',
+    'Athlete',
+    'Taiwan',
+    'Amis',
+    'Indigenous Peoples',
+  ]
 lastVerified: 2026-05-16
 lastHumanReview: true
 featured: false
@@ -96,11 +107,11 @@ Her great-grandmother carried culture forward through song; Kuo does it through 
 
 **Further Reading**:
 
-- [Tai Tzu-ying](/people/戴資穎) — Also a core member of Taiwan’s Tokyo Olympic delegation, badminton world queen
-- [Yang Yung-wei](/people/楊勇緯) — Tokyo Olympic judo silver medalist, winner of Taiwan’s first Olympic medal in judo
-- [Lee Yang and Wang Chi-lin](/people/麟洋配) — Tokyo Olympic badminton men’s doubles gold medalists, the story of Wang Chi-lin and Lee Yang
-- [Lee Yang](/people/李洋) — A two-time Olympic gold medalist whose biography traces his turn toward becoming the first minister of Taiwan’s Ministry of Sports
-- [Lee Chih-kai](/people/李智凱) — Tokyo Olympic pommel horse silver medalist, the 20-year journey of the “Tumbling Boy”
+- [Tai Tzu-ying](/en/people/tai-tzu-ying) — Also a core member of Taiwan’s Tokyo Olympic delegation, badminton world queen
+- [Yang Yung-wei](/en/people/yang-yung-wei-judo-olympic-silver) — Tokyo Olympic judo silver medalist, winner of Taiwan’s first Olympic medal in judo
+- [Lee Yang and Wang Chi-lin](/en/people/lin-yang-duo-taiwan-badminton-champions) — Tokyo Olympic badminton men’s doubles gold medalists, the story of Wang Chi-lin and Lee Yang
+- [Lee Yang](/en/people/lee-yang-badminton) — A two-time Olympic gold medalist whose biography traces his turn toward becoming the first minister of Taiwan’s Ministry of Sports
+- [Lee Chih-kai](/en/people/li-chih-kai) — Tokyo Olympic pommel horse silver medalist, the 20-year journey of the “Tumbling Boy”
 
 ## References
 

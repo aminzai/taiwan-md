@@ -256,11 +256,11 @@ _NVIDIA Official Channel: Jensen Huang's 2024 COMPUTEX Keynote Full Version, the
 
 **Further Reading**:
 
-- [Semiconductor Industry](/Technology/半導體產業) — The chain supporting Computex's main stage originates from the wafer fabs in Hsinchu, Taichung, and Tainan.
-- [Taiwan's AI Development and Future Strategy](/Technology/台灣人工智慧發展與未來策略) — From server assembly to Physical AI, Taiwan's AI industry is undergoing a second turning point.
-- [Taiwan's Robot Industry](/Technology/台灣機器人產業) — HIWIN's first appearance at Computex is a key slice of this supply chain taking shape.
-- [Taiwan's EV Industry Chain Development](/Technology/台灣電動車產業鏈發展) — The other manufacturing axis running parallel to AI servers.
-- [NVIDIA in Taiwan](/Technology/NVIDIA在台灣) — From Jensen Huang's Tainan childhood to the GTC Taipei主场 in Taipei.
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — The chain supporting Computex's main stage originates from the wafer fabs in Hsinchu, Taichung, and Tainan.
+- [Taiwan's AI Development and Future Strategy](/en/technology/artificial-intelligence-development-strategy) — From server assembly to Physical AI, Taiwan's AI industry is undergoing a second turning point.
+- [Taiwan's Robot Industry](/en/technology/taiwan-robotics-industry) — HIWIN's first appearance at Computex is a key slice of this supply chain taking shape.
+- [Taiwan's EV Industry Chain Development](/en/technology/taiwan-electric-vehicle-industry-chain) — The other manufacturing axis running parallel to AI servers.
+- [NVIDIA in Taiwan](/en/technology/nvidia-in-taiwan) — From Jensen Huang's Tainan childhood to the GTC Taipei主场 in Taipei.
 
 ## Image Sources
 

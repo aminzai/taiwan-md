@@ -153,12 +153,12 @@ _At the National Book Awards finalist reading on November 19, 2024, Yang Shuang-
 
 **Further reading**:
 
-- [Literature of the Japanese Colonial Period](/art/日治時期文學) — the historical background for the 1938 setting of _Taiwan Travelogue_, and the lineage of women's and local writing opened by figures such as Yang Chien-ho, Lai He, and Long Yingzong
-- [Contemporary Taiwanese Literature](/art/當代台灣文學) — how Yang Shuang-zi's generation has carried forward the local writing of Wu Ming-yi, Lin Yi-han, and Luo Yijun into the international market for translated literature
-- [Taiwanese Literature after the Lifting of Martial Law](/art/解嚴後台灣文學) — the waves of women's writing, queer writing, and mother-tongue literature from the 1987 lifting of martial law to the 2020s, from which Yang Shuang-zi's "yuri" tradition emerges
-- [History of Taiwanese Literature](/art/台灣文學史) — the overall context corresponding to the "century-long inquiry" Yang Shuang-zi referred to in her acceptance speech
-- [Chu Tien-wen](/people/朱天文) — a representative post-martial-law woman writer, whose _Notes of a Desolate Man_ and _The Old Capital_ are important precursors to the fake-translation structure in Taiwanese literature
-- [Wu Ming-yi](/people/吳明益) — another representative Taiwanese writer in the international translated-literature wave of the 2020s; _The Man with the Compound Eyes_ and _The Stolen Bicycle_ gained visibility in the English-language world
+- [Literature of the Japanese Colonial Period](/en/art/taiwanese-literature-during-japanese-rule) — the historical background for the 1938 setting of _Taiwan Travelogue_, and the lineage of women's and local writing opened by figures such as Yang Chien-ho, Lai He, and Long Yingzong
+- [Contemporary Taiwanese Literature](/en/art/contemporary-taiwanese-literature) — how Yang Shuang-zi's generation has carried forward the local writing of Wu Ming-yi, Lin Yi-han, and Luo Yijun into the international market for translated literature
+- [Taiwanese Literature after the Lifting of Martial Law](/en/art/post-martial-law-taiwanese-literature) — the waves of women's writing, queer writing, and mother-tongue literature from the 1987 lifting of martial law to the 2020s, from which Yang Shuang-zi's "yuri" tradition emerges
+- [History of Taiwanese Literature](/en/art/history-of-taiwanese-literature) — the overall context corresponding to the "century-long inquiry" Yang Shuang-zi referred to in her acceptance speech
+- [Chu Tien-wen](/en/people/chu-tien-wen) — a representative post-martial-law woman writer, whose _Notes of a Desolate Man_ and _The Old Capital_ are important precursors to the fake-translation structure in Taiwanese literature
+- [Wu Ming-yi](/en/people/wu-ming-yi) — another representative Taiwanese writer in the international translated-literature wave of the 2020s; _The Man with the Compound Eyes_ and _The Stolen Bicycle_ gained visibility in the English-language world
 
 ## References
 

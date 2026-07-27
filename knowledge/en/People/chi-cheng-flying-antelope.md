@@ -55,7 +55,7 @@ Behind the 10 world records lies a larger structural fact: in that era, an Asian
 
 ## The "Flying Antelope" in Taiwan's Track and Field History
 
-Before Chi Cheng, the highest benchmark for Taiwan on the international track and field stage was [Yang Chuan-kwang](/en/People/yang-chuan-kwang-asian-iron-man/): silver in the decathlon at the 1960 Rome Olympics, Taiwan's first Olympic medal, a milestone in men's track and field. Chi Cheng's 1968 Mexico City Olympics was the second milestone, and the harder path: she was in women's track and field, and she had no predecessor to follow.
+Before Chi Cheng, the highest benchmark for Taiwan on the international track and field stage was [Yang Chuan-kwang](/en/people/yang-chuan-kwang-asian-iron-man/): silver in the decathlon at the 1960 Rome Olympics, Taiwan's first Olympic medal, a milestone in men's track and field. Chi Cheng's 1968 Mexico City Olympics was the second milestone, and the harder path: she was in women's track and field, and she had no predecessor to follow.
 
 Yang Chuan-kwang's path was that of an Amis boy who made his way through talent and training at UCLA; Chi Cheng's path was that of a Hsinchu girl who forged ahead by breaking record after record. The starting points were different, but both arrived at the highest point in Taiwan's track and field history.
 

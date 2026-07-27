@@ -5,7 +5,15 @@ date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '體育'
-tags: ['Sports', 'Baseball', 'MLB', 'Yankees', 'Taiwanese pitchers in the United States', 'Chinese Taipei team']
+tags:
+  [
+    'Sports',
+    'Baseball',
+    'MLB',
+    'Yankees',
+    'Taiwanese pitchers in the United States',
+    'Chinese Taipei team',
+  ]
 readingTime: 9
 # design_rationale:
 #   why_this_hook: "從『並列勝投王』而非『亞軍』切入，這個細節的精確度代表了王建民整個職業生涯的質感：他不是第二，他是並列第一，只是台灣媒體報錯了。"
@@ -19,7 +27,6 @@ sourceCommitSha: '0f8fae0ae'
 sourceContentHash: 'sha256:88ba1e028cceec90'
 sourceBodyHash: 'sha256:d72e85599f59782f'
 translatedAt: '2026-05-20T05:08:27+08:00'
-
 ---
 
 # Chien-Ming Wang: From Jianxing Junior High to the Sinker That Won the Yankees Two Seasons
@@ -106,7 +113,7 @@ From the 19-win starting pitcher on the breakfast-shop television to the figure 
 >
 > The baserunning play on June 15, 2008, is one of the most discussed "small incident, large consequence" moments in baseball history. An ordinary act of running the bases changed the entire remainder of a pitcher's career. But Wang did not let that day define him. His 2016 return, the 2018 documentary, and his identity as part of the championship coaching staff at the 2024 Premier12 were the answers he continued to write afterward.
 
-The presence of Taiwanese pitchers in the Major Leagues after Chen Wei-Yin inherited the possibility Wang had opened: that "Asian pitchers can survive in the AL East." But Wang's place in the narrative of Taiwanese baseball goes beyond that of a technical predecessor. He was the ignition point that pushed the nationwide heat around Taiwanese baseball to a historical high. That heat later became sustained attention to Taiwanese pitchers in the United States such as [Chen Wei-Yin](/en/People/chen-wei-yin-mlb-pitcher/) and [Hong-Chih Kuo](/en/People/hong-chih-kuo-taiwanese-left-handed-pitcher/), and it also became the nationwide resonance on the night of the Premier12 championship.
+The presence of Taiwanese pitchers in the Major Leagues after Chen Wei-Yin inherited the possibility Wang had opened: that "Asian pitchers can survive in the AL East." But Wang's place in the narrative of Taiwanese baseball goes beyond that of a technical predecessor. He was the ignition point that pushed the nationwide heat around Taiwanese baseball to a historical high. That heat later became sustained attention to Taiwanese pitchers in the United States such as [Chen Wei-Yin](/en/people/chen-wei-yin-mlb-pitcher/) and [Hong-Chih Kuo](/en/people/hong-chih-kuo-taiwanese-left-handed-pitcher/), and it also became the nationwide resonance on the night of the Premier12 championship.
 
 From Jianxing Junior High School in Tainan, to Yankee Stadium, to the second of the baserunning sprain, to the Kansas City Royals, to the documentary _Late Life_, and then to the Chinese Taipei bullpen, Wang's career is a line that continued to extend through multiple rises and falls, not a single-peaked story. The string of lineup names once memorized by breakfast-shop grandmothers is now a fixed imprint in Taiwanese baseball memory; standing at the front of that string is a Tainan left-hander who began at Jianxing Junior High, used a sinker to win the Yankees two seasons, and afterward still kept standing beside the game.
 

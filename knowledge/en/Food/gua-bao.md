@@ -141,11 +141,11 @@ To eat a gua bao is to eat four centuries of Fuzhou migrant sea routes, one cent
 
 ## Further Reading
 
-- [Taiwanese Snacks](/food/台灣小吃) — The wider ecology of street snacks, within which gua bao is a key lineage
-- [Night Market Culture](/food/夜市文化) — The history of gua bao’s movement out of the weiya setting and into the night market
+- [Taiwanese Snacks](/en/food/taiwanese-street-food) — The wider ecology of street snacks, within which gua bao is a key lineage
+- [Night Market Culture](/en/food/night-market-culture) — The history of gua bao’s movement out of the weiya setting and into the night market
 - [Taiwanese Bando Banquet Culture](/food/台灣辦桌文化) — The ritual logic of weiya and bando banquets, chicken-head direction, and tiger bites pig
-- [Taiwanese Rice Food Culture](/food/台灣米食文化) — Gua bao’s wheat-food lineage and Taiwan’s dual rice-and-wheat dietary structure
-- [Taiwanese Popcorn Chicken](/food/台灣鹽酥雞) — Another popular snack that traveled from Taiwan into CNN’s international frame
+- [Taiwanese Rice Food Culture](/en/food/taiwan-rice-cuisine-culture) — Gua bao’s wheat-food lineage and Taiwan’s dual rice-and-wheat dietary structure
+- [Taiwanese Popcorn Chicken](/en/food/taiwanese-popcorn-chicken-redux) — Another popular snack that traveled from Taiwan into CNN’s international frame
 
 ## Image Sources
 

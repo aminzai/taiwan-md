@@ -238,7 +238,7 @@ Every energy pathway has its opponents, and every opponent has a history.
 
 > 📝 **Curator’s note:** Common environmental justice discussions often stop at “balancing development and environmental protection,” but that framing flattens the problem. The real commonality among Lanyu, the algal reefs, and Meinong is that **they are all aftereffects of decisions made after the 1980s, paid for by social movements from the 1990s to the 2020s**. Before 2050, the energy transition will generate many new “Lanyus” and “algal reefs”: Changhua fishers affected by offshore wind, Yilan Indigenous communities affected by geothermal development, and Tainan salt flats affected by solar power. The real question is whether Taiwan can avoid repeating the decision-making model of 1982.
 
-For more detailed historical context on environmental justice, see [History of Taiwan’s Environmental Movement](/nature/台灣環境運動史) and [Taiwan’s Marine Pollution Governance and Conservation Challenges](/nature/台灣海洋污染治理與保育挑戰).
+For more detailed historical context on environmental justice, see [History of Taiwan’s Environmental Movement](/en/nature/taiwan-environmental-movement-history) and [Taiwan’s Marine Pollution Governance and Conservation Challenges](/en/nature/marine-pollution-governance-and-conservation).
 
 ## NT$9 Trillion and Physical Limits
 
@@ -307,14 +307,14 @@ Lanyu’s 97,672 barrels will not disappear because a referendum passes or fails
 
 **Further Reading**:
 
-- [Taiwan and the Nuclear Energy Debate](/society/台灣與核能的討論) — This article addresses energy and physical limits; that article addresses the nuclear debate itself: forty years of anti-nuclear and pro-nuclear arguments, three referendums, and the social struggle over nuclear waste on Lanyu
-- [History of Taiwan’s Environmental Movement](/nature/台灣環境運動史) — From anti-nuclear activism to anti-air-pollution movements, how the Tao people of Lanyu, Meinong’s anti-dam movement, and the algal reef referendum shaped today’s energy politics
-- [Taiwan’s Marine Pollution Governance and Conservation Challenges](/nature/台灣海洋污染治理與保育挑戰) — 80% coral bleaching at the Maanshan Nuclear Power Plant outlet, marine debris, and the ecological intersection of offshore wind
-- [Taiwan’s Hot Springs and Geothermal Energy](/nature/台灣溫泉與地熱) — From the failure of Qingshui Geothermal in 1981 to its 2024 restart, how 30 years of geothermal silence formed
-- [Taiwan’s Environmental Justice and NIMBY Controversies](/society/台灣環境正義與鄰避爭議) — Lanyu, the algal reefs, and Meinong: the distributive politics of energy transition costs
-- [Taiwan’s Industrial Transformation and Upgrading](/economy/台灣產業轉型升級) — From energy-intensive manufacturing to green energy industries, TSMC’s RE100, CBAM, and the energy ledger of Taiwan’s “sacred mountain protecting the nation”
-- [Taiwan’s Agricultural Modernization](/economy/台灣農業現代化發展) — The agricultural transformation pressure and land-use conflicts behind agrivoltaics
-- [Plum Rain](/nature/梅雨) — Local observations of climate change in “spring rain not arriving, plum rain concentrating”
+- [Taiwan and the Nuclear Energy Debate](/en/society/taiwan-nuclear-debate) — This article addresses energy and physical limits; that article addresses the nuclear debate itself: forty years of anti-nuclear and pro-nuclear arguments, three referendums, and the social struggle over nuclear waste on Lanyu
+- [History of Taiwan’s Environmental Movement](/en/nature/taiwan-environmental-movement-history) — From anti-nuclear activism to anti-air-pollution movements, how the Tao people of Lanyu, Meinong’s anti-dam movement, and the algal reef referendum shaped today’s energy politics
+- [Taiwan’s Marine Pollution Governance and Conservation Challenges](/en/nature/marine-pollution-governance-and-conservation) — 80% coral bleaching at the Maanshan Nuclear Power Plant outlet, marine debris, and the ecological intersection of offshore wind
+- [Taiwan’s Hot Springs and Geothermal Energy](/en/nature/Taiwan Hot Springs and Geothermal Energy) — From the failure of Qingshui Geothermal in 1981 to its 2024 restart, how 30 years of geothermal silence formed
+- [Taiwan’s Environmental Justice and NIMBY Controversies](/en/society/taiwan-environmental-justice-nimby-conflicts) — Lanyu, the algal reefs, and Meinong: the distributive politics of energy transition costs
+- [Taiwan’s Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — From energy-intensive manufacturing to green energy industries, TSMC’s RE100, CBAM, and the energy ledger of Taiwan’s “sacred mountain protecting the nation”
+- [Taiwan’s Agricultural Modernization](/en/economy/taiwan-agricultural-modernization) — The agricultural transformation pressure and land-use conflicts behind agrivoltaics
+- [Plum Rain](/en/nature/meiyu-stagnant-front) — Local observations of climate change in “spring rain not arriving, plum rain concentrating”
 
 ## References
 

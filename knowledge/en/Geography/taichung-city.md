@@ -212,16 +212,16 @@ Next time you pass through Taichung, do not just go to the Sun Cake old shops an
 
 ## Further Reading
 
-- [Taiwan Musical Instrument Manufacturing Industry: Taiwan's Hand in the World's Sound](/music/台灣樂器製造) — The Houli saxophone cluster and Wufeng Music Bell are Taichung's precision and music geography outside of industry
+- [Taiwan Musical Instrument Manufacturing Industry: Taiwan's Hand in the World's Sound](/en/music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories) — The Houli saxophone cluster and Wufeng Music Bell are Taichung's precision and music geography outside of industry
 
-- [Keelung City](/geography/基隆市) — 22 Counties and Cities Series pilot: from the world's 7th largest container port in 1984 to the 113th port in 2018, a county-city whose "administrative status was seen and then rewritten," same as Taichung
-- [Nantou County](/geography/南投縣) — 22 Counties and Cities Series batch 3 sibling: the only county without a sea, the 921 epicenter is in its center, sharing the Chelungpu Fault trauma with Taichung
-- [Changhua County](/geography/彰化縣) — 22 Counties and Cities Series batch 4 sibling: 1709 Babao Canal irrigating the central region, 1786 Lin Shuangwen Incident, 1986 Lukang people driving away DuPont, belonging to the same Baguashan Mountain central region life circle as Taichung
-- [Yunlin County](/geography/雲林縣) — 22 Counties and Cities Series batch 4 sibling: Dajia Mazu Pilgrimage passes through Xiluo, Huwei, and Tukou, the middle section of the same Mazu route as Taichung
-- [Chiayi City](/geography/嘉義市) — 22 Counties and Cities Series batch 2 sibling: the endpoint of the Dajia Mazu Pilgrimage, Xingang, is in Chiayi County, the two ends of the same 340km religious route as Taichung
-- [Miaoli County](/geography/苗栗縣) — 22 Counties and Cities Series batch 1 sibling: the northern neighbor county, a Hakka stubborn and county treasury debt inland county, forming the central Hakka map together with Taichung's coastal line Qingshui and mountain Dongshi
-- [Taiwan Administrative Divisions](/geography/台灣行政區劃) — Complete institutional history: 1887 Taiwan Prefecture established in Taichung, 1920 Taichung Prefecture, 1945 County and City separated, 2010 County and City merged to become direct-administered city
-- [City Characteristics and Regional Culture](/geography/城市特色與區域文化) — Cross-county comparison context of Taichung as the hub of the central life circle
+- [Keelung City](/en/geography/keelung-city) — 22 Counties and Cities Series pilot: from the world's 7th largest container port in 1984 to the 113th port in 2018, a county-city whose "administrative status was seen and then rewritten," same as Taichung
+- [Nantou County](/en/geography/nantou-county) — 22 Counties and Cities Series batch 3 sibling: the only county without a sea, the 921 epicenter is in its center, sharing the Chelungpu Fault trauma with Taichung
+- [Changhua County](/en/geography/changhua-county) — 22 Counties and Cities Series batch 4 sibling: 1709 Babao Canal irrigating the central region, 1786 Lin Shuangwen Incident, 1986 Lukang people driving away DuPont, belonging to the same Baguashan Mountain central region life circle as Taichung
+- [Yunlin County](/en/geography/yunlin-county) — 22 Counties and Cities Series batch 4 sibling: Dajia Mazu Pilgrimage passes through Xiluo, Huwei, and Tukou, the middle section of the same Mazu route as Taichung
+- [Chiayi City](/en/geography/chiayi-city) — 22 Counties and Cities Series batch 2 sibling: the endpoint of the Dajia Mazu Pilgrimage, Xingang, is in Chiayi County, the two ends of the same 340km religious route as Taichung
+- [Miaoli County](/en/geography/miaoli-county) — 22 Counties and Cities Series batch 1 sibling: the northern neighbor county, a Hakka stubborn and county treasury debt inland county, forming the central Hakka map together with Taichung's coastal line Qingshui and mountain Dongshi
+- [Taiwan Administrative Divisions](/en/geography/administrative-divisions-of-taiwan) — Complete institutional history: 1887 Taiwan Prefecture established in Taichung, 1920 Taichung Prefecture, 1945 County and City separated, 2010 County and City merged to become direct-administered city
+- [City Characteristics and Regional Culture](/en/culture/urban-character-and-regional-culture) — Cross-county comparison context of Taichung as the hub of the central life circle
 
 ## Image Sources
 

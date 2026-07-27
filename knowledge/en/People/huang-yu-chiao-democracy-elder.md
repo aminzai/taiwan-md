@@ -23,6 +23,7 @@ featured: false
 lastVerified: 2026-04-05
 lastHumanReview: true
 ---
+
 > **30-Second Overview:** At around 4 p.m. on November 19, 1977, outside the Zhongli Police Precinct. Fifty-eight-year-old provincial assembly candidate Huang Yu-chiao stood together with Precinct Chief Ho Fu-ming and Hsu Hsin-liang's brother Hsu Kuo-tai at the entrance, calling on the crowd to "respect the rule of law and not act blindly." She was not an instigator of the Zhongli Incident — she was a restrainer. Yet that same evening she was still elected provincial assemblywoman alongside Hsu Hsin-liang, and went on to win four consecutive terms, becoming known together with Su Hung Yueh-chiao of Yunlin as the "Twin Beauties of the North and South." This is a figure from the history of Taiwan's democratic movement who is easily romanticized but is actually far more complex.
 
 ## November 19, 1977: She Stood at the Police Station Door
@@ -98,11 +99,11 @@ Her epitaph should not read "heroine of the Zhongli Incident." It should read: *
 
 **Further Reading:**
 
-- [Zhongli Incident](/history/台灣選舉與政黨政治) — The street politics that changed Taiwan the night of November 19, 1977
-- [Formosa Incident](/history/美麗島事件) — The great catastrophe of the Tangwai movement two years later, the repressive era in which Huang Yu-chiao lived
-- [Taiwan's Democratic Transition](/history/台灣民主轉型) — How a generation of Tangwai provincial assemblypeople kept democratic space open within the authoritarian system
-- [Lee Teng-hui](/people/李登輝) — The provincial chairman she questioned in the assembly from 1981 to 1984, who later became Taiwan's first directly elected president
-- [Lu Hsiu-lien](/people/呂秀蓮) — Another Tangwai woman politician of Huang Yu-chiao's era, but who walked a completely different path
+- [Zhongli Incident](/en/history/taiwan-elections-and-party-politics) — The street politics that changed Taiwan the night of November 19, 1977
+- [Formosa Incident](/en/history/kaohsiung-incident-formosa-incident) — The great catastrophe of the Tangwai movement two years later, the repressive era in which Huang Yu-chiao lived
+- [Taiwan's Democratic Transition](/en/history/taiwan-democratization) — How a generation of Tangwai provincial assemblypeople kept democratic space open within the authoritarian system
+- [Lee Teng-hui](/en/people/lee-teng-hui) — The provincial chairman she questioned in the assembly from 1981 to 1984, who later became Taiwan's first directly elected president
+- [Lu Hsiu-lien](/en/people/annette-lu) — Another Tangwai woman politician of Huang Yu-chiao's era, but who walked a completely different path
 
 ## References
 

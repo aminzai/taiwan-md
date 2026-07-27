@@ -80,5 +80,5 @@ Interpretations of the Japanese colonial period remain debated in academia. The 
 
 ## Further Reading
 
-- [乙未之役 (zh only)](/history/乙未之役) — The starting point of the colonial era: the 1895 Japanese landing and the resistance of the Republic of Taiwan
-- [清治時期 (zh only)](/history/清治時期) — Taiwan's history before Japanese rule
+- [乙未之役 (zh only)](/en/history/1895-taiwan-resistance-war) — The starting point of the colonial era: the 1895 Japanese landing and the resistance of the Republic of Taiwan
+- [清治時期 (zh only)](/en/history/qing-dynasty-rule) — Taiwan's history before Japanese rule

@@ -175,10 +175,10 @@ _The main building of National Taiwan University Hospital. Founded in 1895, it i
 
 **Further reading**:
 
-- [Medical Care Act](/society/醫療法) — The NHI Act governs "benefits," while the Medical Care Act governs "institutions"; together, the two laws form the benefits and institutional tracks of Taiwan's healthcare governance
-- [A Practitioner's Account of the Evolution of Taiwan's Two Regenerative Medicine Acts](/society/台灣再生醫療雙法沿革從業人員告白) — Beyond the boundary of NHI benefits, the two regenerative medicine acts passed in 2024 form another governance pathway outside NHI SOP
-- [Taiwan's Animal Drug Controversies](/society/台灣動物用藥爭議) — NHI covers humans, not animals; disputes over pet medicines provide a comparison case for the NHI system
-- [Taiwan's Disaster Medicine System](/technology/台灣災難醫療體系) — NHI supports everyday healthcare, while the disaster medicine system supports extraordinary periods; the two systems together structure the normal and emergency faces of Taiwan's public medical governance
+- [Medical Care Act](/en/society/medical-care-act) — The NHI Act governs "benefits," while the Medical Care Act governs "institutions"; together, the two laws form the benefits and institutional tracks of Taiwan's healthcare governance
+- [A Practitioner's Account of the Evolution of Taiwan's Two Regenerative Medicine Acts](/en/society/taiwan-regenerative-medicine-laws) — Beyond the boundary of NHI benefits, the two regenerative medicine acts passed in 2024 form another governance pathway outside NHI SOP
+- [Taiwan's Animal Drug Controversies](/en/society/taiwan-animal-drug-controversy) — NHI covers humans, not animals; disputes over pet medicines provide a comparison case for the NHI system
+- [Taiwan's Disaster Medicine System](/en/technology/taiwan-disaster-medicine-system) — NHI supports everyday healthcare, while the disaster medicine system supports extraordinary periods; the two systems together structure the normal and emergency faces of Taiwan's public medical governance
 
 ---
 

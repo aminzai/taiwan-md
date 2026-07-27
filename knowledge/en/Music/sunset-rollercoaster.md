@@ -214,11 +214,11 @@ On August 8, 2025, they unexpectedly released their fifth full-length album, _QU
 
 **Further Reading**:
 
-- [Taiwan Indie Music](/music/台灣獨立音樂) — The developmental axis of Taiwan indie music, from Crystal Records in the 1980s to Sunset Rollercoaster, No Party for Cao Dong, and Collage in the 2020s
-- [Taiwan Music Festival Culture](/music/台灣音樂祭文化) — The changing scenes of Taiwan’s music festivals, from Spring Scream and Megaport Festival to Hohaiyan Rock Festival
-- [Taiwan Pop Music](/music/台灣流行音樂) — A history of Taiwan pop music, from the 1970s campus folk movement to the streaming era of the 2020s
-- [Taiwan’s Music Industry and the Streaming Era](/music/台灣音樂產業與串流時代) — How Taiwanese bands reach global audiences in the age of Spotify algorithms
-- [Deserts Chang and Anpu](/music/張懸與安溥) — Kuo Kuo’s onstage partnership during his time as guitarist in Algae from 2012 to 2016
+- [Taiwan Indie Music](/en/music/indie-music-scene) — The developmental axis of Taiwan indie music, from Crystal Records in the 1980s to Sunset Rollercoaster, No Party for Cao Dong, and Collage in the 2020s
+- [Taiwan Music Festival Culture](/en/music/taiwan-music-festival-culture) — The changing scenes of Taiwan’s music festivals, from Spring Scream and Megaport Festival to Hohaiyan Rock Festival
+- [Taiwan Pop Music](/en/music/golden-melodies-legacy-taiwan-pop-music) — A history of Taiwan pop music, from the 1970s campus folk movement to the streaming era of the 2020s
+- [Taiwan’s Music Industry and the Streaming Era](/en/music/taiwan-music-industry-and-the-streaming-era) — How Taiwanese bands reach global audiences in the age of Spotify algorithms
+- [Deserts Chang and Anpu](/en/music/deserts-chang-and-anpu) — Kuo Kuo’s onstage partnership during his time as guitarist in Algae from 2012 to 2016
 
 ---
 

@@ -126,10 +126,10 @@ In December 2025, LINE Bank reported its first month of profit, an amount small 
 
 **Further Reading**:
 
-- [Semiconductor Industry](/technology/半導體產業) — Another industry that started with policy support and ultimately changed the global landscape
-- [Startup Ecosystem](/economy/新創生態系) — The full picture of Taiwan’s startup circle, where Jiekou Pay resides
-- [E-commerce and Digital Payment Ecosystem](/technology/電子商務與數位支付生態系) — The e-commerce infrastructure behind mobile payments
-- [Taiwan Stock Market and Capital Markets](/economy/台灣股市與資本市場) — From shouting brokers to smartphone-based regular investment plans, the evolution of financial infrastructure and capital markets
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — Another industry that started with policy support and ultimately changed the global landscape
+- [Startup Ecosystem](/en/economy/taiwan-startup-ecosystem-overview) — The full picture of Taiwan’s startup circle, where Jiekou Pay resides
+- [E-commerce and Digital Payment Ecosystem](/en/technology/e-commerce-and-digital-payment-ecosystem) — The e-commerce infrastructure behind mobile payments
+- [Taiwan Stock Market and Capital Markets](/en/economy/taiwan-stock-market) — From shouting brokers to smartphone-based regular investment plans, the evolution of financial infrastructure and capital markets
 
 ## References
 

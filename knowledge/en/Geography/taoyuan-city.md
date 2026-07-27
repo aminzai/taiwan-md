@@ -170,15 +170,15 @@ Next time you think of Taoyuan, don't just think of the airport. Think of the Vi
 
 ## Further Reading
 
-- [Keelung City](/geography/基隆市) — 22 Counties and Cities series pilot: In 1979, when Taoyuan Airport opened, Taiwan's gateway moved from Keelung Harbor to Taoyuan, and Keelung Harbor fell from 7th to 113th in the world
-- [Hsinchu County](/geography/新竹縣) — Neighboring county on the southern edge of Taoyuan's Hakka belt: In 1895, Chiang Shao-tsu set out from Beipu, Hsinchu, to join the Battle of Dàkěkàn
-- [Hsinchu City](/geography/新竹市) — Together with Taoyuan, forms the center of the northern Hakka distribution belt; in 1875, the Taoyuan area was placed under Hsinchu County's jurisdiction
-- [Miaoli County](/geography/苗栗縣) — 22 Counties and Cities series batch 1 sibling: The starting point of the Hakka immigration belt from Miaoli north to Taoyuan; Wu Tang-hsing marched north to resist the Japanese in 1895
-- [Nantou County](/geography/南投縣) — 22 Counties and Cities series batch 3: The only landlocked county vs. Taoyuan's tableland gateway — a contrast of two kinds of "borders"
-- [Hakka Culture and Language](/culture/客家文化與語言) — Taoyuan's Hakka population exceeds 800,000, the most in the country
-- [Migrant Workers](/society/移工) — Taoyuan has 132,158 migrant workers, the most in the country
-- [Japanese Invasion of 1895](/history/乙未之役) — In 1895, Chiang Shao-tsu, Wu Tang-hsing, and Chiang Kuo-hui resisted the Japanese at Dàkěkàn, Taoyuan
-- [Chiang Kai-shek](/people/蔣中正) — Died in 1975 and was buried at Cihu, Daxi, Taoyuan; today the Cihu Memorial Sculpture Park houses bronze statues of Chiang Kai-shek removed from across Taiwan
+- [Keelung City](/en/geography/keelung-city) — 22 Counties and Cities series pilot: In 1979, when Taoyuan Airport opened, Taiwan's gateway moved from Keelung Harbor to Taoyuan, and Keelung Harbor fell from 7th to 113th in the world
+- [Hsinchu County](/en/geography/hsinchu-county) — Neighboring county on the southern edge of Taoyuan's Hakka belt: In 1895, Chiang Shao-tsu set out from Beipu, Hsinchu, to join the Battle of Dàkěkàn
+- [Hsinchu City](/en/geography/hsinchu-city) — Together with Taoyuan, forms the center of the northern Hakka distribution belt; in 1875, the Taoyuan area was placed under Hsinchu County's jurisdiction
+- [Miaoli County](/en/geography/miaoli-county) — 22 Counties and Cities series batch 1 sibling: The starting point of the Hakka immigration belt from Miaoli north to Taoyuan; Wu Tang-hsing marched north to resist the Japanese in 1895
+- [Nantou County](/en/geography/nantou-county) — 22 Counties and Cities series batch 3: The only landlocked county vs. Taoyuan's tableland gateway — a contrast of two kinds of "borders"
+- [Hakka Culture and Language](/en/culture/hakka-culture-and-language) — Taoyuan's Hakka population exceeds 800,000, the most in the country
+- [Migrant Workers](/en/society/migrant-workers-in-taiwan) — Taoyuan has 132,158 migrant workers, the most in the country
+- [Japanese Invasion of 1895](/en/history/1895-taiwan-resistance-war) — In 1895, Chiang Shao-tsu, Wu Tang-hsing, and Chiang Kuo-hui resisted the Japanese at Dàkěkàn, Taoyuan
+- [Chiang Kai-shek](/en/people/chiang-kai-shek) — Died in 1975 and was buried at Cihu, Daxi, Taoyuan; today the Cihu Memorial Sculpture Park houses bronze statues of Chiang Kai-shek removed from across Taiwan
 
 ## Image Credits
 

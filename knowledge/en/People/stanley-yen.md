@@ -145,7 +145,7 @@ The rubber boots are still outside the classroom. The rice paddies are still bei
 - [Taiwan Convenience Store Culture](/en/lifestyle/convenience-store-culture) — Yen changed how Taiwan saw "service work"; convenience stores turned service into national infrastructure
 - [Taiwan Indigenous Culture](/en/culture/indigenous-peoples-16-tribes-cultural-map) — A core principle of Junyi School: Indigenous culture doesn't need saving — it needs respect
 - [Taiwan Coffee Culture](/en/lifestyle/taiwan-coffee-culture) — When Yen was building luxury service at The Landis, Taiwanese were still drinking instant coffee
-- [Lu Kuan-wei (呂冠緯)](/people/呂冠緯) — Chairman of Junyi Academy. The name "Junyi" was borrowed directly from the Junyi Academy of Innovation in Taitung founded by Stanley Yen.
+- [Lu Kuan-wei (呂冠緯)](/en/people/lu-guan-wei-junyiacademy-founder) — Chairman of Junyi Academy. The name "Junyi" was borrowed directly from the Junyi Academy of Innovation in Taitung founded by Stanley Yen.
 
 ## References
 

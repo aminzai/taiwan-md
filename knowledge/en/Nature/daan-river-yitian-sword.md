@@ -216,11 +216,11 @@ And now, above that unnamed deep valley at the headwaters of the Daan River, an 
 
 **Further Reading**:
 
-- [Brown Fish Owl](/nature/黃魚鴞) — Also dependent on mid-elevation old-growth giant trees and streams that have not been concreted over, Taiwan's largest owl lives in the narrowing space where "the giant trees have not yet fallen" and "the streams have not yet been engineered" are still true
-- [Formosan Landlocked Salmon](/nature/櫻花鉤吻鮭) — Another survivor hidden in Shei-Pa, in the Qijiawan Creek basin: a glacial relict
-- [Formosan Black Bear](/nature/台灣黑熊) — Also dependent on large, rarely visited primary forests, another indicator of the integrity of Taiwan's mountain forests
-- [Taiwan Forest Ecosystems](/nature/台灣森林生態系) — The ecological coordinates of cloud forests, the five precious conifers, and giant trees; the Heaven Sword is the highest point of this system
-- [Taiwan National Parks](/nature/台灣國家公園) — Shei-Pa National Park and Forestry and Nature Conservation Agency lands are the final refuges of these giant trees
+- [Brown Fish Owl](/en/nature/tawny-fish-owl) — Also dependent on mid-elevation old-growth giant trees and streams that have not been concreted over, Taiwan's largest owl lives in the narrowing space where "the giant trees have not yet fallen" and "the streams have not yet been engineered" are still true
+- [Formosan Landlocked Salmon](/en/nature/formosan-landlocked-salmon) — Another survivor hidden in Shei-Pa, in the Qijiawan Creek basin: a glacial relict
+- [Formosan Black Bear](/en/nature/taiwanese-black-bear) — Also dependent on large, rarely visited primary forests, another indicator of the integrity of Taiwan's mountain forests
+- [Taiwan Forest Ecosystems](/en/nature/taiwan-forest-ecosystems) — The ecological coordinates of cloud forests, the five precious conifers, and giant trees; the Heaven Sword is the highest point of this system
+- [Taiwan National Parks](/en/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Shei-Pa National Park and Forestry and Nature Conservation Agency lands are the final refuges of these giant trees
 
 ## References
 

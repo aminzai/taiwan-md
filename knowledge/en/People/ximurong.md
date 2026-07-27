@@ -1,24 +1,33 @@
 ---
-title: "Xi Murong"
-description: "Author of \"Qili Xiang\" and \"Youth Without Regret\", the best-selling poet in the Chinese-language poetry scene, of Mongol ethnicity"
+title: 'Xi Murong'
+description: 'Author of "Qili Xiang" and "Youth Without Regret", the best-selling poet in the Chinese-language poetry scene, of Mongol ethnicity'
 date: 2026-03-19
-category: "People"
-tags: ["Person", "Xi Murong", "Qili Xiang", "Youth Without Regret", "Poet", "Mongol", "Essayist"]
-subcategory: "文學"
-author: "Taiwan.md Contributors"
+category: 'People'
+tags:
+  [
+    'Person',
+    'Xi Murong',
+    'Qili Xiang',
+    'Youth Without Regret',
+    'Poet',
+    'Mongol',
+    'Essayist',
+  ]
+subcategory: '文學'
+author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-19
 lastHumanReview: false
-translatedFrom: "People/席慕蓉.md"
+translatedFrom: 'People/席慕蓉.md'
 sourceCommitSha: '7415dcaa'
 sourceContentHash: 'sha256:5d1d8e5f0b7eaefd'
 sourceBodyHash: 'sha256:c035c602c7e335fa'
-translatedAt: "2026-05-17T05:34:48+08:00"
+translatedAt: '2026-05-17T05:34:48+08:00'
 ---
 
 # Xi Murong: A Poetic Symphony of the Steppe and Modernity
 
-> **30‑second overview:** Xi Murong was the best‑selling poet in Taiwan during the 1980s. After the 1981 publication of *Qili Xiang*, the collection was reprinted seven times within a year, sweeping across Taiwan, Hong Kong, and Mainland China. She is also a formally trained oil painter and a descendant of the Mongol Chahar tribe; after first stepping onto the steppe in 1989, her poetic vision shifted from urban lyricism to writing about ethnic culture.
+> **30‑second overview:** Xi Murong was the best‑selling poet in Taiwan during the 1980s. After the 1981 publication of _Qili Xiang_, the collection was reprinted seven times within a year, sweeping across Taiwan, Hong Kong, and Mainland China. She is also a formally trained oil painter and a descendant of the Mongol Chahar tribe; after first stepping onto the steppe in 1989, her poetic vision shifted from urban lyricism to writing about ethnic culture.
 
 ## A Multicultural Growing Up
 
@@ -36,29 +45,29 @@ During her time at NTNU she achieved success in painting and began literary expe
 
 Upon graduating in 1966, she pursued further studies at the Royal Academy of Fine Arts in Brussels, Belgium. The museums, churches, and historic architecture of Europe left a lasting impression and broadened her creative outlook. [^2]
 
-## *Qili Xiang*: A Stunning Debut on the Poetry Scene
+## _Qili Xiang_: A Stunning Debut on the Poetry Scene
 
-In the 1970s Xi Murong mainly worked in visual art and teaching; poetry was still a hobby. However, the 1981 publication of the *Qili Xiang* poetry collection made her an overnight focus of the poetry world. Within a year the book was reprinted seven times, setting a sales record for modern Taiwanese poetry. [^3]
+In the 1970s Xi Murong mainly worked in visual art and teaching; poetry was still a hobby. However, the 1981 publication of the _Qili Xiang_ poetry collection made her an overnight focus of the poetry world. Within a year the book was reprinted seven times, setting a sales record for modern Taiwanese poetry. [^3]
 
-The success of *Qili Xiang* lies in its clear, accessible language—never pretentious, yet capable of conveying genuine emotion in simplicity and depth in plainness. Xi Murong skillfully employs everyday images such as flowers, the moon, wind, and rain to express complex inner feelings.
+The success of _Qili Xiang_ lies in its clear, accessible language—never pretentious, yet capable of conveying genuine emotion in simplicity and depth in plainness. Xi Murong skillfully employs everyday images such as flowers, the moon, wind, and rain to express complex inner feelings.
 
 The poem “A Tree in Bloom” became a classic of Chinese‑language poetry:  
-*How can you meet me / at my most beautiful moment / for this / I have prayed before the Buddha for five hundred years / asking him to bind us with a dust‑bound fate.*  
+_How can you meet me / at my most beautiful moment / for this / I have prayed before the Buddha for five hundred years / asking him to bind us with a dust‑bound fate._  
 Its beautiful imagery and moving sentiment continue to be widely quoted.
 
-## *Youth Without Regret*: A Poetic Re‑examination of Youth
+## _Youth Without Regret_: A Poetic Re‑examination of Youth
 
-Published in 1982, *Youth Without Regret* continued the success of *Qili Xiang*. The collection focuses on themes of youth, love, and friendship, revealing the poet’s profound insight into life. The title itself expresses nostalgia for bygone years and admiration for youth. [^4]
+Published in 1982, _Youth Without Regret_ continued the success of _Qili Xiang_. The collection focuses on themes of youth, love, and friendship, revealing the poet’s profound insight into life. The title itself expresses nostalgia for bygone years and admiration for youth. [^4]
 
-Xi Murong’s poems often start from a concrete scene or object, then expand and ultimately ascend to philosophical heights. A distinctive feature of *Youth Without Regret* is its musicality—strong rhythm that suits recitation, allowing readers to experience the beauty of poetry through sound.
+Xi Murong’s poems often start from a concrete scene or object, then expand and ultimately ascend to philosophical heights. A distinctive feature of _Youth Without Regret_ is its musicality—strong rhythm that suits recitation, allowing readers to experience the beauty of poetry through sound.
 
 ## Prose and Mongolian Sentiment
 
-Beyond poetry, Xi Murong is also an essayist. In the late 1980s she published essay collections such as *Traces of Growth* and *There Is a Song*, continuing the fresh style of her poetry with elegant prose and sincere emotion.
+Beyond poetry, Xi Murong is also an essayist. In the late 1980s she published essay collections such as _Traces of Growth_ and _There Is a Song_, continuing the fresh style of her poetry with elegant prose and sincere emotion.
 
-In 1989 she stepped onto the Mongolian steppe for the first time; this journey of roots profoundly affected her. She began producing a large body of work centered on Mongolia—poems and essays such as *My Home Is on the Plateau* and *The Rivers Await*—showcasing her deep affection for the steppe and contemplation of ethnic culture. Using modern poetic forms, she expressed longing for ancient culture and affirmation of her ethnic identity. [^5]
+In 1989 she stepped onto the Mongolian steppe for the first time; this journey of roots profoundly affected her. She began producing a large body of work centered on Mongolia—poems and essays such as _My Home Is on the Plateau_ and _The Rivers Await_—showcasing her deep affection for the steppe and contemplation of ethnic culture. Using modern poetic forms, she expressed longing for ancient culture and affirmation of her ethnic identity. [^5]
 
-The 2019 collection *I Name My Memories* is a later‑life anthology, reflecting on a lifetime of wandering and root‑seeking with a more tranquil, restrained tone.
+The 2019 collection _I Name My Memories_ is a later‑life anthology, reflecting on a lifetime of wandering and root‑seeking with a more tranquil, restrained tone.
 
 ## The Perfect Fusion of Painting and Poetry
 
@@ -76,19 +85,25 @@ She frequently gives talks at schools and community centers, sharing creative in
 
 Xi Murong’s poetry collections have sold over one million copies and have been translated into multiple languages worldwide. She has received awards such as the Sun Yat‑sen Literary Award and the National Cultural and Arts Foundation Award. [^7]
 
-Unlike the refined elegance of [白先勇](/en/People/pai-hsien-yung-literary-master/) or the rational critique of [龍應台](/en/People/lung-ying-tai/), Xi Murong chose a gentler path. In today’s fast‑paced modern life, her poetry offers spiritual comfort. Her work demonstrates that women’s delicate perception and unique perspective can create literature that moves hearts.
+Unlike the refined elegance of [白先勇](/en/people/pai-hsien-yung-literary-master/) or the rational critique of [龍應台](/en/people/lung-ying-tai/), Xi Murong chose a gentler path. In today’s fast‑paced modern life, her poetry offers spiritual comfort. Her work demonstrates that women’s delicate perception and unique perspective can create literature that moves hearts.
 
 ## References
 
-[^1]: [National Taiwan Normal University Department of Fine Arts](https://www.ntnu.edu.tw/art/) — Background of NTNU’s Fine Arts Department and alumni information.  
-[^2]: [Royal Academy of Fine Arts, Brussels (Académie Royale des Beaux‑Arts)](https://www.arba-esi.be/) — Institution where Xi Murong studied abroad, a Belgian national art academy.  
-[^3]: [National Museum of Taiwan Literature — Xi Murong Special Exhibition](https://www.nmtl.gov.tw/) — Publication and reprint records of *Qili Xiang*, including sales data and exhibition information.  
-[^4]: [Taiwan eBook Alliance — Xi Murong Works Page](https://www.taaze.tw/) — First‑edition data and publication year confirmation for *Youth Without Regret*.  
-[^5]: [Mongolian and Tibetan Cultural Center — Xi Murong’s Mongolian Literary Works](https://www.mtac.gov.tw/) — Government‑hosted feature on Xi Murong’s Mongolian‑themed literature.  
-[^6]: [Xi Murong Official Website](http://www.ximurong.tw) — Official site containing work information, exhibition records, and creative chronology.  
+[^1]: [National Taiwan Normal University Department of Fine Arts](https://www.ntnu.edu.tw/art/) — Background of NTNU’s Fine Arts Department and alumni information.
+
+[^2]: [Royal Academy of Fine Arts, Brussels (Académie Royale des Beaux‑Arts)](https://www.arba-esi.be/) — Institution where Xi Murong studied abroad, a Belgian national art academy.
+
+[^3]: [National Museum of Taiwan Literature — Xi Murong Special Exhibition](https://www.nmtl.gov.tw/) — Publication and reprint records of _Qili Xiang_, including sales data and exhibition information.
+
+[^4]: [Taiwan eBook Alliance — Xi Murong Works Page](https://www.taaze.tw/) — First‑edition data and publication year confirmation for _Youth Without Regret_.
+
+[^5]: [Mongolian and Tibetan Cultural Center — Xi Murong’s Mongolian Literary Works](https://www.mtac.gov.tw/) — Government‑hosted feature on Xi Murong’s Mongolian‑themed literature.
+
+[^6]: [Xi Murong Official Website](http://www.ximurong.tw) — Official site containing work information, exhibition records, and creative chronology.
+
 [^7]: [National Cultural and Arts Foundation — National Arts Award](https://www.ncafroc.org.tw/) — Record of Xi Murong’s award and jury commentary.
 
 ## Further Reading
 
-- [National Museum of Taiwan Literature](https://www.nmtl.gov.tw/) — Collections of Xi Murong’s works and artifacts.  
-- [白先勇](/people/白先勇) — Contemporary Taiwanese literary master, known for *Taipei People*.
+- [National Museum of Taiwan Literature](https://www.nmtl.gov.tw/) — Collections of Xi Murong’s works and artifacts.
+- [白先勇](/en/people/pai-hsien-yung-literary-master) — Contemporary Taiwanese literary master, known for _Taipei People_.

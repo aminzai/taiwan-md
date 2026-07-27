@@ -95,6 +95,6 @@ Artistic energy is no longer concentrated solely in Taipei; Taichung, Tainan, an
 
 **Further reading**
 
-- [Tehching Hsu](/art/謝德慶) — Pioneer of Taiwanese performance art, known for five one-year performances in New York in the 1980s, an early coordinate of international visibility in contemporary art
-- [Wang Xinren (Aluan)](/art/王新仁) — First Taiwanese generative artist to exhibit on Art Blocks in 2021, a leading figure in blockchain art and FAB DAO's Hundred Peaks Project
-- [Cheng Wen-chi: Pushing the Taiwanese art world into the Malay Archipelago for 12 years](/people/鄭文琦) — Editor-in-chief of _Digital Wilderness_, adding a Southern perspective to contemporary art discourse through four frameworks: archipelago/margins/decolonization/Pacific Rim
+- [Tehching Hsu](/en/art/tehching-hsieh-performance-artist) — Pioneer of Taiwanese performance art, known for five one-year performances in New York in the 1980s, an early coordinate of international visibility in contemporary art
+- [Wang Xinren (Aluan)](/en/art/wang-hsin-jen-artist) — First Taiwanese generative artist to exhibit on Art Blocks in 2021, a leading figure in blockchain art and FAB DAO's Hundred Peaks Project
+- [Cheng Wen-chi: Pushing the Taiwanese art world into the Malay Archipelago for 12 years](/en/people/cheng-wen-chi) — Editor-in-chief of _Digital Wilderness_, adding a Southern perspective to contemporary art discourse through four frameworks: archipelago/margins/decolonization/Pacific Rim

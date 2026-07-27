@@ -86,9 +86,9 @@ Green Island Prison, this solitary island in the Pacific, carries the heaviest m
 
 **Further Reading**:
 
-- [National Human Rights Museum](/history/國家人權博物館) — The national institution overseeing the Green Island park, from the New Life Training Center to the process of institutionalization as a museum
-- [Taiwan White Terror](/history/台灣白色恐怖) — The full picture of political cases under 38 years of martial law, with Green Island as a central site of detention and ideological remolding
-- [Martial Law Period](/history/戒嚴時期) — The legal framework of 1949–1987
+- [National Human Rights Museum](/en/history/national-human-rights-museum) — The national institution overseeing the Green Island park, from the New Life Training Center to the process of institutionalization as a museum
+- [Taiwan White Terror](/en/history/taiwan-white-terror) — The full picture of political cases under 38 years of martial law, with Green Island as a central site of detention and ideological remolding
+- [Martial Law Period](/en/history/martial-law-era) — The legal framework of 1949–1987
 - [Taiwan Transitional Justice](/history/台灣轉型正義) — The unfinished work of overturning verdicts and holding perpetrators accountable
 
 ## Image Sources

@@ -108,10 +108,10 @@ Chinese academic sources: Lee Tai-yuan (2020), _Indigenous Language Revitalizati
 
 **Further reading:**
 
-- [Remote Area Schools in Taiwan](/society/台灣偏鄉教育) — The educational challenges of indigenous area schools reach beyond academic performance into whether language and culture can be embraced by schools.
-- [History of Taiwan's Indigenous Peoples and the Name Rectification Movement](/history/台灣原住民族歷史與正名運動) — Language revitalization cannot be separated from rebuilding ethnic names, historical narratives, and political subjecthood.
-- [Taiwan Indigenous Land Justice and Traditional Territories](/society/台灣原住民族土地正義與傳統領域) — Language, land, and ways of life are originally one interconnected fabric.
-- [Taiwan's Indigenous Peoples: A Cultural Map of 16 Tribes](/culture/台灣原住民族16族文化地圖) — For an overview of each group's distribution and cultural profile.
-- [Taiwan Indigenous Foodways](/food/台灣原住民飲食文化) — Food preserves not only flavor but also language, place names, and ecological knowledge.
-- [Indigenous Ecological Wisdom and Environmental Conservation in Taiwan](/nature/台灣原住民生態智慧與環境保育) — Indigenous languages contain extensive knowledge of interactions with forests, rivers, and seasons.
-- [Indigenous Contemporary Art in Taiwan](/art/台灣原住民當代藝術) — Contemporary art is another path for indigenous languages and cultures to be seen again.
+- [Remote Area Schools in Taiwan](/en/society/taiwan-rural-education) — The educational challenges of indigenous area schools reach beyond academic performance into whether language and culture can be embraced by schools.
+- [History of Taiwan's Indigenous Peoples and the Name Rectification Movement](/en/history/indigenous-peoples-history-and-naming-movement) — Language revitalization cannot be separated from rebuilding ethnic names, historical narratives, and political subjecthood.
+- [Taiwan Indigenous Land Justice and Traditional Territories](/en/society/indigenous-land-justice-and-traditional-territories) — Language, land, and ways of life are originally one interconnected fabric.
+- [Taiwan's Indigenous Peoples: A Cultural Map of 16 Tribes](/en/culture/indigenous-peoples-16-tribes-cultural-map) — For an overview of each group's distribution and cultural profile.
+- [Taiwan Indigenous Foodways](/en/food/taiwan-indigenous-foodways) — Food preserves not only flavor but also language, place names, and ecological knowledge.
+- [Indigenous Ecological Wisdom and Environmental Conservation in Taiwan](/en/nature/taiwanese-indigenous-ecological-wisdom-conservation) — Indigenous languages contain extensive knowledge of interactions with forests, rivers, and seasons.
+- [Indigenous Contemporary Art in Taiwan](/en/art/contemporary-indigenous-art-taiwan) — Contemporary art is another path for indigenous languages and cultures to be seen again.

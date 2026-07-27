@@ -136,4 +136,4 @@ That attitude still does not feel outdated.
 ## Related Topics
 
 - [audrey-tang](/people/audrey-tang): how technical thinking enters the public sphere
-- [open-source-and-g0v](/technology/open-source-and-g0v): how open culture reshaped Taiwan’s technical and creative ecosystems
+- [open-source-and-g0v](/en/technology/open-source-and-g0v): how open culture reshaped Taiwan’s technical and creative ecosystems

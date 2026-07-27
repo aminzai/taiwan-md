@@ -148,8 +148,8 @@ The answer Taiwan’s folk song movement gives us is this: do not be afraid to c
 ## Further Reading
 
 - [Development of Taiwanese Popular Music](/music/台灣流行音樂發展) — The mainstream axis of Mandarin-language popular music after the folk song movement, from Lo Ta-yu to Cheer Chen and Deserts Chang
-- [Taiwanese Literature After the Lifting of Martial Law](/art/解嚴後台灣文學) — Another movement of cultural self-awareness after martial law was lifted in 1987, sharing the same spiritual source as folk song’s “singing our own songs”
-- [Taiwanese Cinema](/art/台灣電影) — The contemporaneous Taiwan New Cinema movement, another axis of local cultural awakening in Taiwan during the 1970s and 1980s
+- [Taiwanese Literature After the Lifting of Martial Law](/en/art/post-martial-law-taiwanese-literature) — Another movement of cultural self-awareness after martial law was lifted in 1987, sharing the same spiritual source as folk song’s “singing our own songs”
+- [Taiwanese Cinema](/en/art/taiwanese-cinema) — The contemporaneous Taiwan New Cinema movement, another axis of local cultural awakening in Taiwan during the 1970s and 1980s
 
 ---
 

@@ -332,11 +332,11 @@ The clockmaker keeps walking. The clock's mechanism keeps running. **He uses 0 a
 
 ## Further Reading
 
-- **[FAB DAO and the Hundred Peaks Project](/art/FAB%20DAO與百岳計畫)** — The full story of the public welfare NFT autonomous organization co-founded by Che-Yu Wu
-- **[Taiwanese New Media Art](/art/台灣新媒體藝術)** — A forty-year genealogy of Taiwanese new media art, from Yuan Goang-Ming and Hsin-Chien Huang to Che-Yu Wu
-- **[Wang Xin-Ren (Aluan)](/art/王新仁)** — An early Art Blocks Taiwanese artist and core member of the Hundred Peaks Project
-- **[Wang Lian-Cheng (Shrimp Dad)](/art/王連晟)** — Winner of the 2017 Lumen Award Sculpture category first prize, sound installation artist of the Hundred Peaks Project
-- **[Taiwan.md Writing Taiwan.md](/about/taiwan-md)** — The open-source knowledge base he launched in 2026, a first-person account of its origins and growth
+- **[FAB DAO and the Hundred Peaks Project](/en/art/fab-dao)** — The full story of the public welfare NFT autonomous organization co-founded by Che-Yu Wu
+- **[Taiwanese New Media Art](/en/art/taiwan-new-media-art)** — A forty-year genealogy of Taiwanese new media art, from Yuan Goang-Ming and Hsin-Chien Huang to Che-Yu Wu
+- **[Wang Xin-Ren (Aluan)](/en/art/wang-hsin-jen-artist)** — An early Art Blocks Taiwanese artist and core member of the Hundred Peaks Project
+- **[Wang Lian-Cheng (Shrimp Dad)](/en/art/wang-lien-cheng-artist)** — Winner of the 2017 Lumen Award Sculpture category first prize, sound installation artist of the Hundred Peaks Project
+- **[Taiwan.md Writing Taiwan.md](/en/about/taiwan-md)** — The open-source knowledge base he launched in 2026, a first-person account of its origins and growth
 
 ## References
 

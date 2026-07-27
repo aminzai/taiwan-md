@@ -272,14 +272,14 @@ The names on the wall are multiplying. Whether the hand holding the pen can beco
 
 **Further Reading**:
 
-- [Jensen Huang: From a Boy Who Cleaned Toilets to the Leather-Jacketed Leader of a US$5 Trillion Empire](/people/黃仁勳) — The personal life story of NVIDIA's founder. This article only touches on it lightly; his Tainan roots and upbringing are here.
-- [Semiconductor Industry](/technology/半導體產業) — Why Taiwan became the center of global chip manufacturing; the supply chain discussed in this article has fuller context here.
-- [Taiwanese Enterprise: TSMC](/economy/台灣企業：台積電) — The "sacred mountain protecting the nation" that manufactures every NVIDIA chip, and the other side of what it drains.
-- [Morris Chang: The Recipient of That Letter and the Foundry Empire He Built](/people/張忠謀) — The person who received Jensen Huang's letter in 1996, and the founder of TSMC.
-- [Computex: How Taipei's Computer Show Became the Opening Ceremony of Global AI](/technology/Computex) — The stage where that logo wall lit up, and the annual home court of Taiwan's technology industry.
-- [AI Artificial Intelligence Industry](/technology/AI人工智慧產業) — From manufacturing NVIDIA chips to building an AI ecosystem, Taiwan's position in the AI wave.
-- [Taiwan's Artificial Intelligence Development and Future Strategy](/technology/台灣人工智慧發展與未來策略) — Sovereign AI, TAIDE, and Taiwan's national ambition to climb upward from contract manufacturing.
-- [Taiwanese Enterprise: Foxconn Precision](/economy/台灣企業：鴻海精密) — The contract-manufacturing giant assembling 40% of the world's AI racks, and the largest pair of hands at the bottom of the smile curve.
+- [Jensen Huang: From a Boy Who Cleaned Toilets to the Leather-Jacketed Leader of a US$5 Trillion Empire](/en/people/jensen-huang) — The personal life story of NVIDIA's founder. This article only touches on it lightly; his Tainan roots and upbringing are here.
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — Why Taiwan became the center of global chip manufacturing; the supply chain discussed in this article has fuller context here.
+- [Taiwanese Enterprise: TSMC](/en/economy/tsmc) — The "sacred mountain protecting the nation" that manufactures every NVIDIA chip, and the other side of what it drains.
+- [Morris Chang: The Recipient of That Letter and the Foundry Empire He Built](/en/people/tsmc-morris-chang) — The person who received Jensen Huang's letter in 1996, and the founder of TSMC.
+- [Computex: How Taipei's Computer Show Became the Opening Ceremony of Global AI](/en/technology/computex) — The stage where that logo wall lit up, and the annual home court of Taiwan's technology industry.
+- [AI Artificial Intelligence Industry](/en/technology/artificial-intelligence-industry) — From manufacturing NVIDIA chips to building an AI ecosystem, Taiwan's position in the AI wave.
+- [Taiwan's Artificial Intelligence Development and Future Strategy](/en/technology/artificial-intelligence-development-strategy) — Sovereign AI, TAIDE, and Taiwan's national ambition to climb upward from contract manufacturing.
+- [Taiwanese Enterprise: Foxconn Precision](/en/economy/foxconn-precision-industry) — The contract-manufacturing giant assembling 40% of the world's AI racks, and the largest pair of hands at the bottom of the smile curve.
 
 ## Image Sources
 

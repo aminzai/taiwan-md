@@ -212,12 +212,12 @@ Treasure Hill was not demolished because enough people refused to let it be demo
 
 **Further reading**:
 
-- [Taipei City: Three Times Inside One City, where Longshan Temple from 1738 Looks at Taipei 101 from 2004](/geography/台北市) — Treasure Hill’s position among Taipei’s 12 districts, placed alongside the three timelines of Bangka, Dadaocheng, and Xinyi
-- [The Development of Cultural and Creative Parks in Taiwan](/culture/台灣文化創意園區發展) — Treasure Hill read together with cases such as Forty-Four South Village, Huashan, and Songshan Cultural and Creative Park, Taiwan-style case studies of “military dependents’ villages / industrial ruins turned cultural and creative spaces”
-- [Dadaocheng: 800 Meters Holding Three Centuries of Taipei](/geography/大稻埕) — a fellow Batch 1 historic-district sibling; an 1851 tea-trade street and a 1960s illegal settlement are two completely different “moments when a street takes shape”
-- [Bangka: The Busiest Place in Qing-ruled Taipei](/geography/艋舺) — a fellow Batch 1 sibling; the Qing religious landscape of Longshan Temple from 1738 and Treasure Hill Guanyin Temple from 1791 were contemporaneous faith centers for Zhangzhou and Quanzhou migrants
-- [Ximending: The Entertainment District the Japanese Built in 1896](/geography/西門町) — a fellow Batch 1 sibling; an entertainment district planned under Japanese rule versus a postwar self-built illegal settlement, two contrasts in “people unseen by urban planning”
-- [Gongguan](/geography/公館) — the scholar-student consumer circle 800 meters to the north, and Treasure Hill’s illegal settlement, are two completely different spatial ecologies around NTU
+- [Taipei City: Three Times Inside One City, where Longshan Temple from 1738 Looks at Taipei 101 from 2004](/en/geography/taipei-city) — Treasure Hill’s position among Taipei’s 12 districts, placed alongside the three timelines of Bangka, Dadaocheng, and Xinyi
+- [The Development of Cultural and Creative Parks in Taiwan](/en/culture/taiwan-cultural-creative-park-development) — Treasure Hill read together with cases such as Forty-Four South Village, Huashan, and Songshan Cultural and Creative Park, Taiwan-style case studies of “military dependents’ villages / industrial ruins turned cultural and creative spaces”
+- [Dadaocheng: 800 Meters Holding Three Centuries of Taipei](/en/geography/dadaocheng) — a fellow Batch 1 historic-district sibling; an 1851 tea-trade street and a 1960s illegal settlement are two completely different “moments when a street takes shape”
+- [Bangka: The Busiest Place in Qing-ruled Taipei](/en/geography/bangka) — a fellow Batch 1 sibling; the Qing religious landscape of Longshan Temple from 1738 and Treasure Hill Guanyin Temple from 1791 were contemporaneous faith centers for Zhangzhou and Quanzhou migrants
+- [Ximending: The Entertainment District the Japanese Built in 1896](/en/geography/ximending) — a fellow Batch 1 sibling; an entertainment district planned under Japanese rule versus a postwar self-built illegal settlement, two contrasts in “people unseen by urban planning”
+- [Gongguan](/en/geography/gongguan) — the scholar-student consumer circle 800 meters to the north, and Treasure Hill’s illegal settlement, are two completely different spatial ecologies around NTU
 
 ## Image Sources
 

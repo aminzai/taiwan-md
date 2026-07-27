@@ -236,10 +236,10 @@ No one planned a transfer of this magnitude. But in the worst drought in 56 year
 
 ## Further Reading
 
-- [Taiwan's MediaTek](/economy/台灣企業：聯發科技) — The world's third-largest mobile chip designer and the homegrown pure-play champion — the symbiotic twin of TSMC
-- [Taiwan's ASE Group](/economy/台灣企業：日月光半導體) — The world's largest packaging and testing company, the downstream critical node in TSMC's supply chain
-- [Taiwan's Stock Market and Capital Markets](/economy/台灣股市與資本市場) — TSMC's market cap is roughly 35% of the entire Taiwan stock market; understanding TSMC is the prerequisite for understanding TWSE
-- [Taiwan's Industrial Transformation](/economy/台灣產業轉型升級) — TSMC is the concrete case study of Taiwan's evolution from a manufacturing island to a technology island
+- [Taiwan's MediaTek](/en/economy/mediatek) — The world's third-largest mobile chip designer and the homegrown pure-play champion — the symbiotic twin of TSMC
+- [Taiwan's ASE Group](/en/economy/taiwan-enterprise-ase-semiconductor) — The world's largest packaging and testing company, the downstream critical node in TSMC's supply chain
+- [Taiwan's Stock Market and Capital Markets](/en/economy/taiwan-stock-market) — TSMC's market cap is roughly 35% of the entire Taiwan stock market; understanding TSMC is the prerequisite for understanding TWSE
+- [Taiwan's Industrial Transformation](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC is the concrete case study of Taiwan's evolution from a manufacturing island to a technology island
 
 ## Image Credits
 

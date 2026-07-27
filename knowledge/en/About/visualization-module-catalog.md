@@ -256,15 +256,15 @@ Each module is written in an article’s Markdown as a fenced block ` ```tw-* ` 
 
 Our system draws inspiration from the visual‑storytelling outlet [The Pudding](https://pudding.cool/), whose editorial philosophy stresses “question before data, clear conclusions, and attribution as the protagonist.” It has evolved into a tool that fits Taiwan.md: static, multilingual, AI‑readable. The full design rationale is documented in the [Visualization System Design Report](https://github.com/frank890417/taiwan-md/blob/main/reports/article-visualization-design-2026-06-06.md).
 
-To see how these modules are woven into a real in‑depth article, read [Public Housing and Housing Justice](/society/國宅與居住正義)—most of the data on this page comes from that research.
+To see how these modules are woven into a real in‑depth article, read [Public Housing and Housing Justice](/en/society/public-housing-justice)—most of the data on this page comes from that research.
 
 **Further Reading**
 
-- [Public Housing and Housing Justice](/society/國宅與居住正義) — the full story behind the housing data: how public housing shifted from cheap homes to an asset ladder; source for most modules on this page
-- [Using Data to View Taiwan’s 22 Counties and Cities](/geography/用數據看台灣22縣市) — all aging‑rate data for the dot plot, pyramid, and tile map come from this comprehensive analysis
-- [Taiwan and Nuclear Power Debate](/society/台灣與核能的討論) — the full narrative behind the stacked‑bar referendums
-- [Social Housing and Housing Justice](/society/社會住宅與居住正義) — the post‑2016 “rental‑only” public housing trajectory
-- [Taiwan’s Low‑Birth‑Rate Crisis](/society/台灣少子化危機) — unaffordable housing and declining births, another facet of inter‑generational justice
+- [Public Housing and Housing Justice](/en/society/public-housing-justice) — the full story behind the housing data: how public housing shifted from cheap homes to an asset ladder; source for most modules on this page
+- [Using Data to View Taiwan’s 22 Counties and Cities](/en/geography/data-taiwan-22-cities) — all aging‑rate data for the dot plot, pyramid, and tile map come from this comprehensive analysis
+- [Taiwan and Nuclear Power Debate](/en/society/taiwan-nuclear-debate) — the full narrative behind the stacked‑bar referendums
+- [Social Housing and Housing Justice](/en/society/social-housing-and-housing-justice) — the post‑2016 “rental‑only” public housing trajectory
+- [Taiwan’s Low‑Birth‑Rate Crisis](/en/society/taiwan-low-birth-rate-crisis) — unaffordable housing and declining births, another facet of inter‑generational justice
 
 ## References
 
@@ -274,9 +274,9 @@ To see how these modules are woven into a real in‑depth article, read [Public 
 
 [^3]: [Executive Yuan press release on the repeal of the National Housing Act](https://www.ey.gov.tw/Page/9277F759E41CCD91/d4afaf10-ece5-4b4f-9482-35ce16bdc657) — official figures for cumulative public‑housing units (≈ 390,000).
 
-[^4]: [Ministry of the Interior Household Registration Department population statistics](https://www.ris.gov.tw/app/portal/346) — 2025 year‑end percentages of population ≥ 65 and aging index for all counties and cities; data for dot plot, pyramid, tile map, and note box. Full verification chain in <[Using Data to View Taiwan’s 22 Counties and Cities](/geography/用數據看台灣22縣市)>.
+[^4]: [Ministry of the Interior Household Registration Department population statistics](https://www.ris.gov.tw/app/portal/346) — 2025 year‑end percentages of population ≥ 65 and aging index for all counties and cities; data for dot plot, pyramid, tile map, and note box. Full verification chain in <[Using Data to View Taiwan’s 22 Counties and Cities](/en/geography/data-taiwan-22-cities)>.
 
-[^5]: [Central Election Commission 2018 Referendum Result (PDF)](https://web.cec.gov.tw/api/file/0132581c-18b5-4951-bc24-3cc083924666.pdf) — official yes‑share percentages (59 %/47 %/74 %) for the three nuclear referendums; verification chain in <[Taiwan and Nuclear Power Debate](/society/台灣與核能的討論)>.
+[^5]: [Central Election Commission 2018 Referendum Result (PDF)](https://web.cec.gov.tw/api/file/0132581c-18b5-4951-bc24-3cc083924666.pdf) — official yes‑share percentages (59 %/47 %/74 %) for the three nuclear referendums; verification chain in <[Taiwan and Nuclear Power Debate](/en/society/taiwan-nuclear-debate)>.
 
 ## Image Credit
 

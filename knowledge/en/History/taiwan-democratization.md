@@ -173,15 +173,15 @@ From a farewell letter to Control Yuan president—forty‑one years. That is wh
 **Further Reading**:
 
 - [228 Incident](/history/二二八事件) — How the 1947 trauma became the seed of Taiwan’s democratic consciousness
-- [Taiwan White Terror](/history/台灣白色恐怖) — Overview of political cases and human‑rights abuses during thirty‑eight years of martial law
-- [Martial Law Period](/history/戒嚴時期) — Legal basis and social control mechanisms of the world’s longest martial‑law decree
-- [Formosa Incident](/history/美麗島事件) — Full account and historical impact of the 1979 Kaohsiung event
-- [Taiwan Elections and Party Politics](/history/台灣選舉與政黨政治) — Evolution of the electoral system from the “eternal congress” to four party turnovers
-- [Taiwan Future Resolution](/history/臺灣前途決議文) — How the DPP’s ambiguous 1999 document opened the door to the 2000 turnover
+- [Taiwan White Terror](/en/history/taiwan-white-terror) — Overview of political cases and human‑rights abuses during thirty‑eight years of martial law
+- [Martial Law Period](/en/history/martial-law-era) — Legal basis and social control mechanisms of the world’s longest martial‑law decree
+- [Formosa Incident](/en/history/kaohsiung-incident-formosa-incident) — Full account and historical impact of the 1979 Kaohsiung event
+- [Taiwan Elections and Party Politics](/en/history/taiwan-elections-and-party-politics) — Evolution of the electoral system from the “eternal congress” to four party turnovers
+- [Taiwan Future Resolution](/en/history/resolution-on-taiwans-future) — How the DPP’s ambiguous 1999 document opened the door to the 2000 turnover
 - [Transitional Justice in Taiwan](/history/台灣轉型正義) — How society confronts the historical wounds of the authoritarian era after democratization
-- [Sunflower Movement](/society/太陽花學運) — Complete chronicle of the 2014 Legislative Yuan occupation, from a thirty‑second takeover to twelve‑year economic de‑China‑ization
-- [2026 Zheng‑Xi Meeting](/society/2026鄭習會與國共十年再會) — Why AIT emphasizes “dialogue with elected leadership”; its roots lie in this democratization history
-- [Chou Tzu‑Yu](/people/周子瑜) — The 90‑second apology video on the eve of the 2016 election, the heaviest note of Taiwan’s third party turnover
+- [Sunflower Movement](/en/society/sunflower-movement) — Complete chronicle of the 2014 Legislative Yuan occupation, from a thirty‑second takeover to twelve‑year economic de‑China‑ization
+- [2026 Zheng‑Xi Meeting](/en/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Why AIT emphasizes “dialogue with elected leadership”; its roots lie in this democratization history
+- [Chou Tzu‑Yu](/en/people/tzuyu) — The 90‑second apology video on the eve of the 2016 election, the heaviest note of Taiwan’s third party turnover
 
 ## References
 

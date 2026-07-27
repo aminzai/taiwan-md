@@ -170,10 +170,10 @@ That is why semiconductor water use is worth understanding: it turns the most ab
 
 ## Further Reading
 
-- [AI Hardware Supply Chain](/technology/ai-hardware-supply-chain) — How Taiwan turns cloud demand into machines that can be shipped.
-- [Taiwan’s Electricity and Semiconductors](/technology/taiwan-electricity-and-semiconductors) — The power bill behind the AI supply chain.
-- [AI Supply Chain Overseas Manufacturing](/technology/ai-supply-chain-overseas-manufacturing) — Why other countries also want to take on parts of manufacturing and infrastructure pressure.
-- [Science Park Development](/technology/science-park-development) — How semiconductor clusters grow into Taiwan’s land and cities.
+- [AI Hardware Supply Chain](/en/technology/ai-hardware-supply-chain) — How Taiwan turns cloud demand into machines that can be shipped.
+- [Taiwan’s Electricity and Semiconductors](/en/technology/taiwan-electricity-and-semiconductors) — The power bill behind the AI supply chain.
+- [AI Supply Chain Overseas Manufacturing](/en/technology/ai-supply-chain-overseas-manufacturing) — Why other countries also want to take on parts of manufacturing and infrastructure pressure.
+- [Science Park Development](/en/technology/science-park-development) — How semiconductor clusters grow into Taiwan’s land and cities.
 
 ## Image Sources
 

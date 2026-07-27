@@ -248,37 +248,37 @@ No dish is purely Taiwanese. Every dish is Taiwanese to the core.
 
 **Island Foundations**:
 
-- [Taiwanese Indigenous Food Culture](/food/台灣原住民飲食文化) — Each of the 16 peoples has its own way of eating, from slate-grilled meat to binaleng sour-spicy soup
-- [Hakka Food Culture](/food/客家飲食文化) — “Fatty, salty, aromatic” and the preservation wisdom of migration routes
+- [Taiwanese Indigenous Food Culture](/en/food/taiwan-indigenous-foodways) — Each of the 16 peoples has its own way of eating, from slate-grilled meat to binaleng sour-spicy soup
+- [Hakka Food Culture](/en/food/hakka-food-culture) — “Fatty, salty, aromatic” and the preservation wisdom of migration routes
 
 **Migrant Mixtures**:
 
-- [Taiwanese Military-Village Cuisine](/food/台灣眷村菜) — The eight great cuisines brought by the 1.21 million people of 1949, recalibrated by the island
-- [Beef Noodles](/food/牛肉麵) — Spicy bean paste from Sichuanese veterans in Gangshan military dependents’ villages, plus Taiwanese soybeans
+- [Taiwanese Military-Village Cuisine](/en/food/military-dependents-village-cuisine) — The eight great cuisines brought by the 1.21 million people of 1949, recalibrated by the island
+- [Beef Noodles](/en/food/beef-noodle-soup) — Spicy bean paste from Sichuanese veterans in Gangshan military dependents’ villages, plus Taiwanese soybeans
 
 **Everyday Popular Food**:
 
-- [Lu Rou Fan](/food/台灣滷肉飯) — Meat scraps and fat from early postwar poverty, poured into a national rice dish
-- [Night Market Culture](/food/夜市文化) — Taiwan’s 300 night markets, and the taste map of Shilin, Ningxia, Raohe, Liuhe, and Fengjia
-- [Taiwanese Snacks](/food/台灣小吃) — A complete collection of lane-and-alley flavors, from oyster omelet to salty crispy chicken
+- [Lu Rou Fan](/en/food/braised-pork-rice) — Meat scraps and fat from early postwar poverty, poured into a national rice dish
+- [Night Market Culture](/en/food/night-market-culture) — Taiwan’s 300 night markets, and the taste map of Shilin, Ningxia, Raohe, Liuhe, and Fengjia
+- [Taiwanese Snacks](/en/food/taiwanese-street-food) — A complete collection of lane-and-alley flavors, from oyster omelet to salty crispy chicken
 
 **Liquid Revolution**:
 
-- [Bubble Tea](/food/珍珠奶茶) — One afternoon at Chun Shui Tang in 1986 changed the world’s beverage map
-- [Taiwanese Hand-Shaken Drink Culture](/food/台灣手搖飲文化) — 50 Lan, Gong Cha, and CoCo expanding to more than 40 countries
-- [Tea Culture](/food/茶文化) — From John Dodd’s oolong tea in 1865 to today’s Alishan high-mountain tea
+- [Bubble Tea](/en/food/bubble-tea) — One afternoon at Chun Shui Tang in 1986 changed the world’s beverage map
+- [Taiwanese Hand-Shaken Drink Culture](/en/food/hand-shaken-drink-culture) — 50 Lan, Gong Cha, and CoCo expanding to more than 40 countries
+- [Tea Culture](/en/culture/golden-age-echoes-taiwan-tea-culture) — From John Dodd’s oolong tea in 1865 to today’s Alishan high-mountain tea
 
 **Ritual and Refinement**:
 
 - [Taiwanese Bando Culture](/food/台灣辦桌文化) — Lin Tien-sheng, Lin Ming-tsan, and the human feeling, righteousness, ritual, and propriety of twelve dishes
-- [Taiwan Michelin and Fine Dining](/food/台灣米其林與精緻餐飲) — The trajectory from Michelin’s 2018 arrival in Taiwan to 419 selections in 2025
-- [Taiwanese Breakfast Culture](/food/台灣早餐文化) — From soy milk under Yonghe Bridge to 24-hour chain breakfast shops
+- [Taiwan Michelin and Fine Dining](/en/food/taiwan-michelin-fine-dining) — The trajectory from Michelin’s 2018 arrival in Taiwan to 419 selections in 2025
+- [Taiwanese Breakfast Culture](/en/food/taiwan-breakfast-culture) — From soy milk under Yonghe Bridge to 24-hour chain breakfast shops
 
 **Plural Extensions**:
 
-- [Taiwanese New Immigrant Food Fusion](/food/台灣新住民美食融合) — The Southeast Asian map brought by 1.87 million new immigrants
-- [Taiwanese Vegetarian Culture](/food/台灣素食文化) — The world’s third-largest vegetarian population share
-- [Taiwan, Kingdom of Fruit](/food/台灣水果王國) — The island’s fruit map, from high-mountain peaches to tropical sugar apples
+- [Taiwanese New Immigrant Food Fusion](/en/food/taiwanese-new-immigrant-culinary-fusion) — The Southeast Asian map brought by 1.87 million new immigrants
+- [Taiwanese Vegetarian Culture](/en/food/taiwan-vegetarian-culture) — The world’s third-largest vegetarian population share
+- [Taiwan, Kingdom of Fruit](/en/food/taiwan-fruit-kingdom) — The island’s fruit map, from high-mountain peaches to tropical sugar apples
 - [Food Hub](/food) — Overall food category index
 
 ---

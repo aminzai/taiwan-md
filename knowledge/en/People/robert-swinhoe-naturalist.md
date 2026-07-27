@@ -120,12 +120,12 @@ That bird is still singing in Taiwan's mountains. It does not know its own scien
 
 **Further Reading:**
 
-- [The Ornithology of Formosa](/nature/福爾摩沙鳥類學) — A deep dive into Swinhoe's 1863 The Ornithology of Formosa: 201 Latin names, 30 hunters, and the Central Mountain Range he never entered
-- [Qing-era Taiwan](/history/清治時期) — The historical context of Swinhoe's time in Taiwan: treaty ports, camphor disputes, and Formosa squeezed between empires
+- [The Ornithology of Formosa](/en/nature/the-ornithology-of-formosa) — A deep dive into Swinhoe's 1863 The Ornithology of Formosa: 201 Latin names, 30 hunters, and the Central Mountain Range he never entered
+- [Qing-era Taiwan](/en/history/qing-dynasty-rule) — The historical context of Swinhoe's time in Taiwan: treaty ports, camphor disputes, and Formosa squeezed between empires
 - [Taiwan Endemic Species (特有種)](/en/nature/endemic-species/) — Many of the species Swinhoe recorded were later confirmed as endemic to Taiwan
 - [Taiwan Blue Magpie (台灣藍鵲)](/en/nature/taiwan-blue-magpie/) — Swinhoe collected the specimen in 1862; winner of the 2007 national bird vote
-- [Charles Le Gendre](/people/李仙得) — Another foreign diplomat of the same era who left a deep mark on Formosa, but with very different motivations
-- [The 19th-Century Camphor Wars](/history/19世紀的樟腦戰爭) — Swinhoe's 1864 "Formosa Camphor" is the prehistory of this conflict: three-tiered price differentials, gifts traded for felling permits, and annual Tamsui output of 6,000 piculs
+- [Charles Le Gendre](/en/people/charles-le-gendre) — Another foreign diplomat of the same era who left a deep mark on Formosa, but with very different motivations
+- [The 19th-Century Camphor Wars](/en/history/19th-century-camphor-wars) — Swinhoe's 1864 "Formosa Camphor" is the prehistory of this conflict: three-tiered price differentials, gifts traded for felling permits, and annual Tamsui output of 6,000 piculs
 
 ## References
 

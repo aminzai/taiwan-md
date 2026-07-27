@@ -275,10 +275,10 @@ The people who pressed the voting buttons on the day the Taoyuan City Council pa
 
 **Further Reading**:
 
-- [Social Housing and Housing Justice](/society/社會住宅與居住正義) — The “for rent only, not for sale” social housing route after 2016: 200,000 units in eight years, the two-track model of direct construction and rental intermediation and management, and how mixed-residence design seeks to prevent social housing from being stigmatized. This is the sister article to this piece, continuing the story after National Housing exited in 2015.
-- [Taiwan’s Low Birthrate Crisis](/society/台灣少子化危機) — Unaffordable housing and the inability to have children are two ends of the same structural fracture, another facet of generational justice.
-- [Sheet-Metal Rooftop Additions](/society/鐵皮屋) — When people cannot afford to buy and cannot rent stably, how Taiwanese people use the most makeshift methods to add a place of shelter for themselves.
-- [Taiwan’s Environmental Justice and NIMBY Disputes](/society/台灣環境正義與鄰避爭議) — Where social housing and unpopular facilities should be built, and the boundary between housing justice and spatial justice.
+- [Social Housing and Housing Justice](/en/society/social-housing-and-housing-justice) — The “for rent only, not for sale” social housing route after 2016: 200,000 units in eight years, the two-track model of direct construction and rental intermediation and management, and how mixed-residence design seeks to prevent social housing from being stigmatized. This is the sister article to this piece, continuing the story after National Housing exited in 2015.
+- [Taiwan’s Low Birthrate Crisis](/en/society/taiwan-low-birth-rate-crisis) — Unaffordable housing and the inability to have children are two ends of the same structural fracture, another facet of generational justice.
+- [Sheet-Metal Rooftop Additions](/en/society/taiwan-tin-shed-houses) — When people cannot afford to buy and cannot rent stably, how Taiwanese people use the most makeshift methods to add a place of shelter for themselves.
+- [Taiwan’s Environmental Justice and NIMBY Disputes](/en/society/taiwan-environmental-justice-nimby-conflicts) — Where social housing and unpopular facilities should be built, and the boundary between housing justice and spatial justice.
 
 ## Open Data
 

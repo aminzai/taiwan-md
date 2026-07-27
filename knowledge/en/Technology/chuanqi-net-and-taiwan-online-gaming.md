@@ -128,9 +128,9 @@ From someone who has lost 400 million dollars, every word carries weight.
 
 ## Further Reading
 
-- [Taiwan's Gaming Industry and Digital Entertainment](/technology/台灣遊戲產業與數位娛樂) — The full panorama of Taiwan's gaming industry, from licensing to original development
-- [Softstar Twin Classics](/technology/大宇雙劍) — The emotional awakening of Taiwan's single-player RPG era, the generation before X-Legend
-- [Into the Cellar, Can't Sleep](/technology/不入地窖焉能睡覺) — Thirty years of Taiwan's gaming communities
+- [Taiwan's Gaming Industry and Digital Entertainment](/en/technology/taiwan-gaming-industry) — The full panorama of Taiwan's gaming industry, from licensing to original development
+- [Softstar Twin Classics](/en/technology/softstar-twin-classics) — The emotional awakening of Taiwan's single-player RPG era, the generation before X-Legend
+- [Into the Cellar, Can't Sleep](/en/technology/into-the-cellar-taiwan-game-podcast) — Thirty years of Taiwan's gaming communities
 
 ---
 

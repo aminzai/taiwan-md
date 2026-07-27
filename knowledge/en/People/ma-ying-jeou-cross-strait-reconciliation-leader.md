@@ -209,11 +209,11 @@ The 80-second handshake at the Shangri-La in Singapore was 1 minute and 20 secon
 
 **Further Reading**:
 
-- [Sunflower Movement](/society/太陽花學運) — How the chamber occupation from March 18 to April 10, 2014, turned from an anti-service trade movement into Taiwan civil society's coming-of-age ceremony
-- [Tsai Ing-wen](/people/蔡英文) — The successor in power, the opponent in the 2010 ECFA debate, and the integrator of the opposition camp after Sunflower
-- [Chen Shui-bian](/people/陳水扁) — The opponent in the 1998 Taipei mayoral race and the leader of the 2000 party turnover
-- [Ma Ying-jeou Memes](/society/馬英九迷因) — Velvet antler, lunch boxes, Provence permanent housing, and the death grip: how 19 internet memes became another face of his public image
-- [Taiwan Strait Crises and the Development of Cross-Strait Relations](/history/台海危機與兩岸關係發展) — The place of the Ma-Xi meeting and ECFA in the long arc of Taiwan Strait relations
+- [Sunflower Movement](/en/society/sunflower-movement) — How the chamber occupation from March 18 to April 10, 2014, turned from an anti-service trade movement into Taiwan civil society's coming-of-age ceremony
+- [Tsai Ing-wen](/en/people/tsai-ing-wen) — The successor in power, the opponent in the 2010 ECFA debate, and the integrator of the opposition camp after Sunflower
+- [Chen Shui-bian](/en/people/chen-shui-bian-controversial-president) — The opponent in the 1998 Taipei mayoral race and the leader of the 2000 party turnover
+- [Ma Ying-jeou Memes](/en/society/ma-ying-jeou-meme) — Velvet antler, lunch boxes, Provence permanent housing, and the death grip: how 19 internet memes became another face of his public image
+- [Taiwan Strait Crises and the Development of Cross-Strait Relations](/en/history/taiwan-strait-crises-and-cross-strait-relations) — The place of the Ma-Xi meeting and ECFA in the long arc of Taiwan Strait relations
 
 ---
 

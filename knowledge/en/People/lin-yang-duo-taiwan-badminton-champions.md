@@ -201,9 +201,9 @@ Even though Lee Yang has retired, the name "Lin-Yang Duo" will forever be linked
 
 **Further Reading:**
 
-- [Kuo Hsing-chun](/people/郭婞淳) — Tokyo Olympics weightlifting gold medalist, a representative of Taiwan's Olympic golden generation alongside the Lin-Yang Duo
-- [Lee Yang](/people/李洋) — The personal biography of the right half of the Lin-Yang Duo: from his father's verdict that he "wasn't cut out for badminton" to becoming the youngest-ever Minister of Sports
-- [Tai Tzu-ying](/people/戴資穎) — The women's singles world number one of the Lin-Yang Duo's era, another representative face of Taiwan's badminton golden generation
+- [Kuo Hsing-chun](/en/people/kuo-hsing-chun-olympic-weightlifting-champion) — Tokyo Olympics weightlifting gold medalist, a representative of Taiwan's Olympic golden generation alongside the Lin-Yang Duo
+- [Lee Yang](/en/people/lee-yang-badminton) — The personal biography of the right half of the Lin-Yang Duo: from his father's verdict that he "wasn't cut out for badminton" to becoming the youngest-ever Minister of Sports
+- [Tai Tzu-ying](/en/people/tai-tzu-ying) — The women's singles world number one of the Lin-Yang Duo's era, another representative face of Taiwan's badminton golden generation
 
 ## References
 

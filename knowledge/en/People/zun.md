@@ -142,10 +142,10 @@ Zun in the new home video is still the same person as the game streamer in middl
 
 **Further Reading**:
 
-- [Ah Shen](/people/阿神) — Also started from game videos; Ah Shen's eleven years of daily updates and later withdrawal of the fixed posting commitment can be contrasted with another long-term creator's work rhythm.
-- [HowHow](/people/Howhow) — Also came from Taiwan's early YouTube, putting absurd comedy, sponsorships, and family life into the same creative identity.
-- [Cai A-Ga](/people/蔡阿嘎) — Moved from personal short videos to team and family channels, contrasting with another long-term creator's path to adulthood.
-- [Gamer](/culture/巴哈姆特) — An important entry point for Taiwan's gaming and online communities, and one of the soils where early streaming culture grew.
+- [Ah Shen](/en/people/red-shin-minecraft-youtuber) — Also started from game videos; Ah Shen's eleven years of daily updates and later withdrawal of the fixed posting commitment can be contrasted with another long-term creator's work rhythm.
+- [HowHow](/en/people/howhow) — Also came from Taiwan's early YouTube, putting absurd comedy, sponsorships, and family life into the same creative identity.
+- [Cai A-Ga](/en/people/tsai-a-ga-youtuber) — Moved from personal short videos to team and family channels, contrasting with another long-term creator's path to adulthood.
+- [Gamer](/en/culture/bahamut-taiwan-gaming-community) — An important entry point for Taiwan's gaming and online communities, and one of the soils where early streaming culture grew.
 
 ## Image Sources
 

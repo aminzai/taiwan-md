@@ -110,7 +110,7 @@ To understand why 2026 matters, one must first understand its position on the co
 
 None of these five historical coordinates have reached their conclusion. 2026 is not the endpoint of these stories — it is their next node.
 
-For detailed historical context, see: [Taiwan Democratization](/en/History/taiwan-democratization/) · [Taiwan's Democratic Transition](/en/History/taiwan-democratization/) · [The Great Recall Movement (2024–2025)](/en/History/great-recall-movement-2024/) · [Taiwan Elections and Party Politics](/en/History/taiwan-elections-and-party-politics/)
+For detailed historical context, see: [Taiwan Democratization](/en/history/taiwan-democratization/) · [Taiwan's Democratic Transition](/en/history/taiwan-democratization/) · [The Great Recall Movement (2024–2025)](/en/history/great-recall-movement-2024/) · [Taiwan Elections and Party Politics](/en/history/taiwan-elections-and-party-politics/)
 
 ---
 
@@ -173,7 +173,7 @@ The energy of 1.3 million signatures will not disappear the day the recall ends.
 
 The TPP won 8 at-large seats in the 2024 legislative election, becoming the pivotal minority in the legislature. 2026 is the first time this third force contests local elections as the "pivotal third party in the legislature" — in the past, the TPP's organizational base at the local level was relatively weak, and 2026 is the critical test of whether it can convert its central-level support into local seats.
 
-See also: [Taiwan Elections and Party Politics](/en/History/taiwan-elections-and-party-politics/) · [The Great Recall Movement (2024–2025)](/en/History/great-recall-movement-2024/)
+See also: [Taiwan Elections and Party Politics](/en/history/taiwan-elections-and-party-politics/) · [The Great Recall Movement (2024–2025)](/en/history/great-recall-movement-2024/)
 
 ---
 
@@ -293,10 +293,10 @@ Depending on what you want to know, this category has different entry points.
 [/elections/2026/](/elections/2026/) — dashboard / candidates / political donations / multi-perspective analysis
 
 **For historical context:**
-[Democratization](/en/History/taiwan-democratization-history/) → [Taiwan's Democratic Transition](/en/History/taiwan-democratization/) → [The Great Recall Movement (2024–2025)](/en/History/great-recall-movement-2024/) → [Taiwan Elections and Party Politics](/en/History/taiwan-elections-and-party-politics/)
+[Democratization](/en/history/taiwan-democratization-history/) → [Taiwan's Democratic Transition](/en/history/taiwan-democratization/) → [The Great Recall Movement (2024–2025)](/en/history/great-recall-movement-2024/) → [Taiwan Elections and Party Politics](/en/history/taiwan-elections-and-party-politics/)
 
 **For civic monitoring tools:**
-[Open Source Community and g0v](/en/Technology/open-source-and-g0v/) → 政治獻金透明度 (Political Donation Transparency) → [External resource compilation (/elections/2026/)](/elections/2026/)
+[Open Source Community and g0v](/en/technology/open-source-and-g0v/) → 政治獻金透明度 (Political Donation Transparency) → [External resource compilation (/elections/2026/)](/elections/2026/)
 
 **To understand the political context of a specific city or county:**
 [Geography Hub](/geography) → the city or county you care about → the political landscape section of that city or county (Tier 1.2 supplement pending ship)

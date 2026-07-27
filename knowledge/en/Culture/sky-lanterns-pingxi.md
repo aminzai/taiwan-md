@@ -196,11 +196,11 @@ Pingxi is trying this fourth path. The valley at the next Lantern Festival will 
 
 **Further Reading:**
 
-- [Taiwan Temple Festivals and Procession Culture](/culture/台灣廟會與陣頭文化) — Like sky lanterns, another case of the tug-of-war between cultural heritage and environmental issues in folk festivals
-- [Traditional Festivals and Celebrations](/culture/傳統節慶與慶典) — The overall landscape of Taiwan's festivals, showing where sky lanterns sit among Lantern Festival and other celebrations
-- [Taiwan Religion and Temple Culture](/culture/台灣宗教與寺廟文化) — From the Mazu faith at Cheng'an Temple to the continuity of blessing symbols
-- [History of Taiwan's Railways](/history/台灣鐵道史) — Why the Pingxi Line railway was able to turn this valley's lantern festival into an international brand
-- [Taiwan's Forest Ecosystems](/nature/台灣森林生態系) — The actual impact of sky lantern debris on mountain forest systems
+- [Taiwan Temple Festivals and Procession Culture](/en/culture/taiwan-temple-festivals-and-performance-troupes) — Like sky lanterns, another case of the tug-of-war between cultural heritage and environmental issues in folk festivals
+- [Traditional Festivals and Celebrations](/en/culture/traditional-festivals-and-celebrations) — The overall landscape of Taiwan's festivals, showing where sky lanterns sit among Lantern Festival and other celebrations
+- [Taiwan Religion and Temple Culture](/en/culture/taiwan-religion-and-temple-culture) — From the Mazu faith at Cheng'an Temple to the continuity of blessing symbols
+- [History of Taiwan's Railways](/en/history/TBD-NEEDS-SLUG) — Why the Pingxi Line railway was able to turn this valley's lantern festival into an international brand
+- [Taiwan's Forest Ecosystems](/en/nature/taiwan-forest-ecosystems) — The actual impact of sky lantern debris on mountain forest systems
 
 ## Image Credits
 

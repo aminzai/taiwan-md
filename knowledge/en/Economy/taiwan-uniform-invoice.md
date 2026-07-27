@@ -97,8 +97,8 @@ Next time you glance at that eight-digit number at checkout, in that instant you
 
 **Further Reading:**
 
-- [Taiwan's Economic Miracle](/economy/economic-miracle) — The fiscal mobilization of the 1950s-60s and the uniform invoice were contemporaneous; this is the foundational context for Taiwan's postwar economic reconstruction
-- [Taiwan Convenience Store Culture](/lifestyle/convenience-store-culture) — The most common setting for cloud invoice carriers; convenience stores are the last mile of everyday tax mobilization
+- [Taiwan's Economic Miracle](/en/economy/economic-miracle) — The fiscal mobilization of the 1950s-60s and the uniform invoice were contemporaneous; this is the foundational context for Taiwan's postwar economic reconstruction
+- [Taiwan Convenience Store Culture](/en/lifestyle/convenience-store-culture) — The most common setting for cloud invoice carriers; convenience stores are the last mile of everyday tax mobilization
 
 ---
 

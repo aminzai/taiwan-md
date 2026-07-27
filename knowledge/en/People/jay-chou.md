@@ -284,10 +284,10 @@ From that shy piano accompanist in 1997 to the Mandopop king of 2026, Jay Chou's
 
 **Further reading:**
 
-- [周子瑜](/people/周子瑜) — The second-most-followed Taiwanese celebrity on Instagram, after Jay Chou
-- [台灣流行音樂](/music/台灣流行音樂) — The broader industry ecosystem and generational shifts to which Jay Chou belongs
-- [孫燕姿](/people/孫燕姿/) — Nominated for Best New Artist at the 12th Golden Melody Awards in the same year, defining a parallel musical path of the 2000s
-- [賈永婕](/people/賈永婕) — Another Taiwanese path of transforming celebrity into cross-domain influence (variety shows → bridal brand → public mobilization → public governance), contrasted with Jay Chou's cultural industry trajectory
+- [周子瑜](/en/people/tzuyu) — The second-most-followed Taiwanese celebrity on Instagram, after Jay Chou
+- [台灣流行音樂](/en/music/golden-melodies-legacy-taiwan-pop-music) — The broader industry ecosystem and generational shifts to which Jay Chou belongs
+- [孫燕姿](/en/people/stefanie-sun/) — Nominated for Best New Artist at the 12th Golden Melody Awards in the same year, defining a parallel musical path of the 2000s
+- [賈永婕](/en/people/chia-yung-chieh) — Another Taiwanese path of transforming celebrity into cross-domain influence (variety shows → bridal brand → public mobilization → public governance), contrasted with Jay Chou's cultural industry trajectory
 
 ## References
 

@@ -255,10 +255,10 @@ But the shape has appeared. Behind one person, one sentence, and one breathing m
 
 ## Further Reading
 
-- [Wu Che-yu](/people/吳哲宇): The creator of Taiwan.md, who similarly uses code and generative tools to approach "something that grows by itself"
-- [Open-source Communities and g0v](/technology/開源社群與g0v): The collective context of "writing code to transform society," a counterpart to Migu's individual x Agent form
-- [Taiwan's Open-source Spirit](/technology/台灣開源精神): From saving the country by keyboard to open data, the underlying culture of Taiwan civic technology
-- [Digital ID and Digital Government](/technology/數位身分證與數位政府): Another side of government open-data infrastructure
+- [Wu Che-yu](/en/people/che-yu-wu): The creator of Taiwan.md, who similarly uses code and generative tools to approach "something that grows by itself"
+- [Open-source Communities and g0v](/en/technology/open-source-and-g0v): The collective context of "writing code to transform society," a counterpart to Migu's individual x Agent form
+- [Taiwan's Open-source Spirit](/en/technology/taiwan-open-source-spirit): From saving the country by keyboard to open data, the underlying culture of Taiwan civic technology
+- [Digital ID and Digital Government](/en/technology/digital-id-and-digital-government): Another side of government open-data infrastructure
 
 ## Project Links
 

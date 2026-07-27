@@ -90,7 +90,7 @@ Taiwan's democratic resilience derives from the system's own separation-of-power
 
 **Further Reading**
 
-- [Taiwan's Defense and Military Modernization](/society/台灣國防與軍事現代化) — How divided government practically affects defense policy
-- [Taiwan's Diplomatic Allies and International Relations](/society/台灣邦交國與國際外交) — How differences in party positions extend to swings in diplomatic approach
-- [The 2026 Xi-Ma Meeting: Ten Minutes of Cross-Strait Leadership Reunion After a Decade](/society/2026鄭習會與國共十年再會) — The KMT's 2025 chairmanship election and its route debate
-- [Chi Lin-lian](/people/季麟連) — Retired lieutenant general serving as KMT vice chairman; the 2026 Central Standing Committee split incident exposing the structure of the Huangfueng Party Chapter
+- [Taiwan's Defense and Military Modernization](/en/society/taiwan-defense-modernization) — How divided government practically affects defense policy
+- [Taiwan's Diplomatic Allies and International Relations](/en/society/taiwan-diplomatic-allies-and-international-relations) — How differences in party positions extend to swings in diplomatic approach
+- [The 2026 Xi-Ma Meeting: Ten Minutes of Cross-Strait Leadership Reunion After a Decade](/en/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — The KMT's 2025 chairmanship election and its route debate
+- [Chi Lin-lian](/en/people/ji-lin-lian) — Retired lieutenant general serving as KMT vice chairman; the 2026 Central Standing Committee split incident exposing the structure of the Huangfueng Party Chapter

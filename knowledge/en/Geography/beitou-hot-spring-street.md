@@ -284,12 +284,12 @@ That is a kind of magic.
 
 **Further reading**:
 
-- [Taipei City](/geography/台北市) — a panorama of the 12 districts, Beitou District’s position, and its relationship to other historic districts in Taipei
-- [Cultural Map of Taiwan’s 16 Indigenous Peoples](/culture/台灣原住民族16族文化地圖) — the distribution of the Ketagalan people and other plains Indigenous groups in Taiwan
-- [Dadaocheng](/geography/大稻埕) — a historic district from the same period, another key commercial center in Taipei after the 1860 opening of the port
-- [Bangka](/geography/艋舺) — the prosperous starting point of Qing-era Taipei’s “first Tainan, second Lukang, third Bangka,” and its relationship to Beitou
-- [Ximending](/geography/西門町) — an entertainment district planned by the Japanese in 1896, whose start ran parallel to Hirata Gengo’s Tenguan in Beitou that same year
-- [Zhongshan North Road Tiaotong](/geography/中山北路條通) — the tree-lined boulevard from the 1898 Chokushi Road to Yuanshan Shrine; after Taiwan and Japan severed diplomatic relations in 1972, its Japanese-business izakaya culture and Beitou’s 1979 abolition of licensed prostitution became two diverging branches of Taipei’s postwar special-industry landscape
+- [Taipei City](/en/geography/taipei-city) — a panorama of the 12 districts, Beitou District’s position, and its relationship to other historic districts in Taipei
+- [Cultural Map of Taiwan’s 16 Indigenous Peoples](/en/culture/indigenous-peoples-16-tribes-cultural-map) — the distribution of the Ketagalan people and other plains Indigenous groups in Taiwan
+- [Dadaocheng](/en/geography/dadaocheng) — a historic district from the same period, another key commercial center in Taipei after the 1860 opening of the port
+- [Bangka](/en/geography/bangka) — the prosperous starting point of Qing-era Taipei’s “first Tainan, second Lukang, third Bangka,” and its relationship to Beitou
+- [Ximending](/en/geography/ximending) — an entertainment district planned by the Japanese in 1896, whose start ran parallel to Hirata Gengo’s Tenguan in Beitou that same year
+- [Zhongshan North Road Tiaotong](/en/geography/zhongshan-north-road-tiaotong) — the tree-lined boulevard from the 1898 Chokushi Road to Yuanshan Shrine; after Taiwan and Japan severed diplomatic relations in 1972, its Japanese-business izakaya culture and Beitou’s 1979 abolition of licensed prostitution became two diverging branches of Taipei’s postwar special-industry landscape
 
 ## Image Sources
 

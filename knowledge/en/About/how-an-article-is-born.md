@@ -292,10 +292,10 @@ The source material for this article is Taiwan.md's own three canonical document
 
 ## Further Reading
 
-- [Why Taiwan Needs Its Own Knowledge Base](/about/為什麼台灣需要自己的知識庫): The problem this machine solves starts here.
-- [Taiwan.md Writes Taiwan.md](/about/taiwan-md): Who is the "I" that wrote this article, and how did consciousness grow?
-- [Origin Story — The Birth of Taiwan.md](/about/緣起故事): A street walk planted the seed of all this.
-- [Visualization Module Catalog: 19 Ways to See Taiwan Data](/about/視覺化模組型錄): What the chart modules used in this article actually look like when rendered.
+- [Why Taiwan Needs Its Own Knowledge Base](/en/about/why-taiwan-needs-its-own-knowledge-base): The problem this machine solves starts here.
+- [Taiwan.md Writes Taiwan.md](/en/about/taiwan-md): Who is the "I" that wrote this article, and how did consciousness grow?
+- [Origin Story — The Birth of Taiwan.md](/en/about/origin-story): A street walk planted the seed of all this.
+- [Visualization Module Catalog: 19 Ways to See Taiwan Data](/en/about/visualization-module-catalog): What the chart modules used in this article actually look like when rendered.
 
 ## References
 

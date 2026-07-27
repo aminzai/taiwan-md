@@ -89,7 +89,7 @@ Perhaps the most precious legacy these projects left Taiwan is not the ports or 
 
 ## Further Reading
 
-- [Freeways](/lifestyle/高速公路) — The Sun Yat-sen Freeway was only the first of the Ten Major Construction Projects. This article examines the fifty-year history of power and social costs connecting it with the MacArthur Highway, the Hsuehshan Tunnel, and National Freeway No. 7.
+- [Freeways](/en/lifestyle/national-highway-system) — The Sun Yat-sen Freeway was only the first of the Ten Major Construction Projects. This article examines the fifty-year history of power and social costs connecting it with the MacArthur Highway, the Hsuehshan Tunnel, and National Freeway No. 7.
 
 ## References
 

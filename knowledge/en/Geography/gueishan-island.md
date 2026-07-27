@@ -216,11 +216,11 @@ Next time you drive back to Yilan, emerge from the Snow Mountain Tunnel, and loo
 
 ## Further Reading
 
-- [Yilan County](/geography/宜蘭縣) — The county to which Gueishan Island belongs; the story of how the Lanyang Plain made choices at two critical moments in history, treating Gueishan Island as an "unchanging coordinate"
-- [Taiwan's Coastal Landforms and Marine Landscapes](/geography/台灣海岸地形與海洋地景) — The place of Gueishan Island's volcanic island, submarine hot springs, and upwelling within Taiwan's marine landscapes
-- [Cetaceans of Taiwan](/nature/臺灣的鯨豚) — Cetacean ecology brought by the Kuroshio, and the context in which Taiwan's whale-watching industry began at Shitiping Harbor in Hualien
-- [Outlying Islands and Maritime Culture](/geography/離島與海洋文化) — Shared themes in Taiwan's outlying island settlements, fishing village beliefs, and histories of village relocation
-- [Green Island Prison](/history/綠島監獄) — Another history of an outlying island militarized and then opened, moving from restricted zone to public site
+- [Yilan County](/en/geography/yilan-county) — The county to which Gueishan Island belongs; the story of how the Lanyang Plain made choices at two critical moments in history, treating Gueishan Island as an "unchanging coordinate"
+- [Taiwan's Coastal Landforms and Marine Landscapes](/en/geography/taiwan-coastal-landforms-and-seascapes) — The place of Gueishan Island's volcanic island, submarine hot springs, and upwelling within Taiwan's marine landscapes
+- [Cetaceans of Taiwan](/en/nature/cetaceans-of-taiwan) — Cetacean ecology brought by the Kuroshio, and the context in which Taiwan's whale-watching industry began at Shitiping Harbor in Hualien
+- [Outlying Islands and Maritime Culture](/en/geography/offshore-islands-and-maritime-culture) — Shared themes in Taiwan's outlying island settlements, fishing village beliefs, and histories of village relocation
+- [Green Island Prison](/en/history/green-island-prison) — Another history of an outlying island militarized and then opened, moving from restricted zone to public site
 
 ## Image Sources
 

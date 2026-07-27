@@ -116,11 +116,11 @@ He has not yet won a production award. But ten years of Dark Paradise Records, t
 
 ## Further Reading
 
-- [Chen Chien-chi](/people/陳建騏) — Another case of the "absent author" in Mandarin pop; the other lead producer on _Pearl Punishment_, forming a dual-line "Mandarin / non-Mandarin" sound boundary with Huang Shao-yong
-- [Waa Wei](/people/魏如萱) — A singer Huang Shao-yong has collaborated with for over a decade, from the MATELIN era through _Pearl Punishment_; two-time Golden Melody Best Female Singer, a voice that refuses to be recognized
-- [Abao](/people/阿爆) — The singer and head of _kinakaian 母親的舌頭_, co-leader with Huang Shao-yong of the MINETJUS Indigenous-language electronic music course
-- [Enno Cheng](/people/鄭宜農) — A peer-generation Taiwanese Hokkien / mother-tongue musician who won dual Golden Melody Taiwanese awards for "writing the most honest songs in the most unfamiliar language"
-- [Rainie Yang](/people/楊丞琳) — A contrasting axis of a singer moving from "being produced" to "self-producing"; the kind of producer work Huang Shao-yong does is precisely the prerequisite ecology that enables singers to eventually take over production themselves
+- [Chen Chien-chi](/en/people/chen-chien-chi-music-producer) — Another case of the "absent author" in Mandarin pop; the other lead producer on _Pearl Punishment_, forming a dual-line "Mandarin / non-Mandarin" sound boundary with Huang Shao-yong
+- [Waa Wei](/en/people/waa-wei-singer) — A singer Huang Shao-yong has collaborated with for over a decade, from the MATELIN era through _Pearl Punishment_; two-time Golden Melody Best Female Singer, a voice that refuses to be recognized
+- [Abao](/en/people/aljenljeng-tjaluvie-abao) — The singer and head of _kinakaian 母親的舌頭_, co-leader with Huang Shao-yong of the MINETJUS Indigenous-language electronic music course
+- [Enno Cheng](/en/people/cheng-i-nung) — A peer-generation Taiwanese Hokkien / mother-tongue musician who won dual Golden Melody Taiwanese awards for "writing the most honest songs in the most unfamiliar language"
+- [Rainie Yang](/en/people/rainie-yang) — A contrasting axis of a singer moving from "being produced" to "self-producing"; the kind of producer work Huang Shao-yong does is precisely the prerequisite ecology that enables singers to eventually take over production themselves
 
 ## References
 

@@ -201,13 +201,13 @@ Next time you walk past SPOT-Taipei on Section 2 of Zhongshan North Road, stop f
 
 **Further Reading**:
 
-- [Taipei City: Three Times Within One City, 1738 Longshan Temple Watching 2004’s Taipei 101](/geography/台北市) — Zhongshan North Road’s position within Taipei’s 12 districts, placed alongside the three timelines of Bangka, Dadaocheng, and Xinyi
-- [Dadaocheng: One 800-Meter Street That Holds Three Centuries](/geography/大稻埕) — a sibling historic district in the same batch, a townscape that rose with the tea trade in 1860; the first shot of the February 28 Incident occurred at No. 189, Nanjing West Road in Dadaocheng
-- [Bangka: The Busiest Place in Qing-ruled Taipei, Now Taipei’s Oldest District by Average Age](/geography/艋舺) — a sibling historic district in the same batch; its mode of street formation differs from Tiaotong culture’s Japanese-rule planning
-- [Ximending: The Entertainment District the Japanese Built in 1896, Still Taipei’s Youngest Street 130 Years Later](/geography/西門町) — a sibling historic district in the same batch; like Tiaotong, it was an entertainment district planned outside the city under Japanese rule, but it took a completely different subcultural route
-- [Taiwanese Tea Ceremony and Life Aesthetics](/culture/台灣茶道與生活美學) — the mutual influence between Japanese-style aesthetics in Tiaotong culture and the postwar revival of Taiwanese tea ceremony
+- [Taipei City: Three Times Within One City, 1738 Longshan Temple Watching 2004’s Taipei 101](/en/geography/taipei-city) — Zhongshan North Road’s position within Taipei’s 12 districts, placed alongside the three timelines of Bangka, Dadaocheng, and Xinyi
+- [Dadaocheng: One 800-Meter Street That Holds Three Centuries](/en/geography/dadaocheng) — a sibling historic district in the same batch, a townscape that rose with the tea trade in 1860; the first shot of the February 28 Incident occurred at No. 189, Nanjing West Road in Dadaocheng
+- [Bangka: The Busiest Place in Qing-ruled Taipei, Now Taipei’s Oldest District by Average Age](/en/geography/bangka) — a sibling historic district in the same batch; its mode of street formation differs from Tiaotong culture’s Japanese-rule planning
+- [Ximending: The Entertainment District the Japanese Built in 1896, Still Taipei’s Youngest Street 130 Years Later](/en/geography/ximending) — a sibling historic district in the same batch; like Tiaotong, it was an entertainment district planned outside the city under Japanese rule, but it took a completely different subcultural route
+- [Taiwanese Tea Ceremony and Life Aesthetics](/en/culture/taiwan-tea-ceremony-and-aesthetic-living) — the mutual influence between Japanese-style aesthetics in Tiaotong culture and the postwar revival of Taiwanese tea ceremony
 - [The February 28 Incident](/history/二二八事件) — at 1 p.m. on February 28, 1947, a crowd marching to the Zhongshan Road intersection was fired on by guards with machine guns; Zhongshan Hall convened an emergency meeting the same day and became the base of the incident settlement committee
-- [Beitou Hot Springs Street](/geography/北投溫泉街) — Beitou’s 1979 abolition of licensed prostitution versus Taipei’s citywide abolition in 1997; together with Linsen North Road’s Tiaotong culture, these form two branches of Taipei’s postwar special-entertainment landscape
+- [Beitou Hot Springs Street](/en/geography/beitou-hot-spring-street) — Beitou’s 1979 abolition of licensed prostitution versus Taipei’s citywide abolition in 1997; together with Linsen North Road’s Tiaotong culture, these form two branches of Taipei’s postwar special-entertainment landscape
 
 ## Image Sources
 

@@ -324,12 +324,12 @@ Shen Bo-yang said another higher-level sentence: "The establishment of enemy-sel
 
 ## Further Reading
 
-- [Cognitive Warfare](/society/認知作戰) — The overall framework of PRC information manipulation and Taiwan society's countermeasures
-- [2026 Tsai-Xi Meeting and the Ten-Year Reunion of KMT and CCP](/society/2026鄭習會與國共十年再會) — Another inflection point in cross-Strait relations at the same time
-- [Taiwan Strait Crisis and the Development of Cross-Strait Relations](/history/台海危機與兩岸關係發展) — The long-term historical context of the "letter of blood" narrative
-- [Tsai Ing-wen](/people/蔡英文) — The decision-maker of the 2020-2021 ractopamine pork policy, the layer before the scars
-- [Lai Ching-te](/people/賴清德) — The presidential term when the ART agreement was signed
-- [Think Tank](/society/想想論壇) — The flagship column "Annual China Observation Report" after Tsai Ing-wen's 2025 revamp covers the same type of cognitive warfare issues
+- [Cognitive Warfare](/en/society/cognitive-warfare-against-taiwan) — The overall framework of PRC information manipulation and Taiwan society's countermeasures
+- [2026 Tsai-Xi Meeting and the Ten-Year Reunion of KMT and CCP](/en/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Another inflection point in cross-Strait relations at the same time
+- [Taiwan Strait Crisis and the Development of Cross-Strait Relations](/en/history/taiwan-strait-crises-and-cross-strait-relations) — The long-term historical context of the "letter of blood" narrative
+- [Tsai Ing-wen](/en/people/tsai-ing-wen) — The decision-maker of the 2020-2021 ractopamine pork policy, the layer before the scars
+- [Lai Ching-te](/en/people/lai-ching-te) — The presidential term when the ART agreement was signed
+- [Think Tank](/en/society/thinking-taiwan-forum) — The flagship column "Annual China Observation Report" after Tsai Ing-wen's 2025 revamp covers the same type of cognitive warfare issues
 
 ---
 

@@ -227,16 +227,16 @@ Next time you go to Yunlin, do not only go to Gukeng for coffee. Try going to th
 
 ## Further Reading
 
-- [Yilan County](/geography/宜蘭縣) — sibling in the 22 Counties and Cities Series; on December 13, 1987, Chen Ding-nan kept the Sixth Naphtha Cracker out of the Lanyang Plain, and in June 1991 the Executive Yuan approved relocating it to Mailiao, Yunlin. This is the shared sentence of fate between Yilan and Yunlin
-- [Keelung City](/geography/基隆市) — pilot article in the 22 Counties and Cities Series; like Yunlin, it is a "mid-sized county or city pressed down by the capital's frame," useful for comparing two kinds of local forms missed by center-driven narratives
-- [Chiayi County](/geography/嘉義縣) — sibling in the 22 Counties and Cities Series; the Bengang orthodoxy dispute between Xingang Fengtian Temple and Beigang Chaotian Temple has tangled across county lines for more than two hundred years
-- [Chiayi City](/geography/嘉義市) — sibling in the 22 Counties and Cities Series; like Beigang, it is a contemporary heir to the historical core of Bengang
-- [Formosa Plastics Group](/economy/台灣企業：台塑集團) — the full corporate history from Wang Yung-ching's 1973 proposal for a naphtha cracker to the 1998 firing-up of Yunlin's Sixth Naphtha Cracker
-- [Taiwan Sugar](/economy/台糖) — ninety years of Taiwan's sugar industry, from the first smokestack of Huwei Sugar Refinery in 1909 to the end of cane-sugar production in 1999
-- [The Legend of Mazu and Baosheng Dadi](/culture/媽祖與大道公的傳說) — the place of the Mazu belief enshrined at Beigang Chaotian Temple in Taiwanese folk religion
-- [Taiwan's Administrative Divisions](/geography/台灣行政區劃) — the complete administrative history: Yunlin established as a county in 1887; county seat moved from Linqipu to Douliu in 1893; reorganized in 1920 into Tainan Prefecture's Huwei and Beigang districts; reestablished as a county in 1945
-- [Taiwan's River Systems and Hydrological Features](/geography/台灣河川系統與水文特色) — the decisive influence of the Zhuoshui River and Beigang River alluvial fans on Yunlin's agricultural landscape
-- [Taiwan's Agricultural Landscapes and Industrial Distribution](/geography/台灣農業地景與產業分布) — the place of Xiluo rice and Chishang rice in the rice-granary identities of Taiwan's agricultural landscape
+- [Yilan County](/en/geography/yilan-county) — sibling in the 22 Counties and Cities Series; on December 13, 1987, Chen Ding-nan kept the Sixth Naphtha Cracker out of the Lanyang Plain, and in June 1991 the Executive Yuan approved relocating it to Mailiao, Yunlin. This is the shared sentence of fate between Yilan and Yunlin
+- [Keelung City](/en/geography/keelung-city) — pilot article in the 22 Counties and Cities Series; like Yunlin, it is a "mid-sized county or city pressed down by the capital's frame," useful for comparing two kinds of local forms missed by center-driven narratives
+- [Chiayi County](/en/geography/chiayi-county) — sibling in the 22 Counties and Cities Series; the Bengang orthodoxy dispute between Xingang Fengtian Temple and Beigang Chaotian Temple has tangled across county lines for more than two hundred years
+- [Chiayi City](/en/geography/chiayi-city) — sibling in the 22 Counties and Cities Series; like Beigang, it is a contemporary heir to the historical core of Bengang
+- [Formosa Plastics Group](/en/economy/formosa-plastics-group) — the full corporate history from Wang Yung-ching's 1973 proposal for a naphtha cracker to the 1998 firing-up of Yunlin's Sixth Naphtha Cracker
+- [Taiwan Sugar](/en/economy/taiwan-sugar) — ninety years of Taiwan's sugar industry, from the first smokestack of Huwei Sugar Refinery in 1909 to the end of cane-sugar production in 1999
+- [The Legend of Mazu and Baosheng Dadi](/en/culture/mazu-dadaogong-legend) — the place of the Mazu belief enshrined at Beigang Chaotian Temple in Taiwanese folk religion
+- [Taiwan's Administrative Divisions](/en/geography/administrative-divisions-of-taiwan) — the complete administrative history: Yunlin established as a county in 1887; county seat moved from Linqipu to Douliu in 1893; reorganized in 1920 into Tainan Prefecture's Huwei and Beigang districts; reestablished as a county in 1945
+- [Taiwan's River Systems and Hydrological Features](/en/geography/taiwan-river-systems-and-hydrology) — the decisive influence of the Zhuoshui River and Beigang River alluvial fans on Yunlin's agricultural landscape
+- [Taiwan's Agricultural Landscapes and Industrial Distribution](/en/geography/taiwan-agricultural-landscapes-and-industry-belts) — the place of Xiluo rice and Chishang rice in the rice-granary identities of Taiwan's agricultural landscape
 
 ## Image Sources
 

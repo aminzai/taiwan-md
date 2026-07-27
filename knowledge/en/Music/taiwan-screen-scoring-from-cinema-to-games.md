@@ -170,11 +170,11 @@ _Lim Giong. From the Taiwanese-language rock star of Marching Forward to the com
 
 **Further Reading**:
 
-- [Lim Giong](/people/林強) — Lim Giong's full musical journey, from the New Taiwanese Song Movement to film scoring
-- [Hou Hsiao-hsien](/people/侯孝賢) — The director who turned Lim Giong toward scoring, and a representative figure of Taiwan New Cinema
-- [Taiwanese Cinema](/art/台灣電影) — From New Cinema to the revival of local films, the stage on which screen scoring unfolded
-- [Red Candle Games](/technology/赤燭遊戲) — The team behind Detention and Devotion, and how game music weaves sound for an era
-- [Taiwan's Game Industry and Digital Entertainment](/technology/台灣遊戲產業與數位娛樂) — The industry background for Rayark, SIGONO, and the rise of Taiwanese game music
+- [Lim Giong](/en/people/lim-giong) — Lim Giong's full musical journey, from the New Taiwanese Song Movement to film scoring
+- [Hou Hsiao-hsien](/en/people/hou-hsiao-hsien) — The director who turned Lim Giong toward scoring, and a representative figure of Taiwan New Cinema
+- [Taiwanese Cinema](/en/art/taiwanese-cinema) — From New Cinema to the revival of local films, the stage on which screen scoring unfolded
+- [Red Candle Games](/en/technology/red-candle-games) — The team behind Detention and Devotion, and how game music weaves sound for an era
+- [Taiwan's Game Industry and Digital Entertainment](/en/technology/taiwan-gaming-industry) — The industry background for Rayark, SIGONO, and the rise of Taiwanese game music
 
 ## Image Sources
 

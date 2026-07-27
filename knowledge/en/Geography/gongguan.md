@@ -256,17 +256,17 @@ Dadaocheng is a commercial street sustained by the tea trade of 1860; Bangka is 
 
 **Further Reading**:
 
-- [Taipei City: Three Times in One City, Longshan Temple of 1738 Watching Taipei 101 of 2004](/geography/台北市) -- Gongguan's cross-boundary position across 12 districts, spanning Zhongzheng, Da'an, and Wenshan, placed alongside the four timelines of Bangka, Dadaocheng, and Xinyi
-- [Taiwan's White Terror](/history/台灣白色恐怖) -- The martial-law-era purge context of the 1960 Lei Chen case, Yin Hai-kuang in 1969, and the 1972-75 NTU Department of Philosophy Incident
-- [Martial Law Period](/history/戒嚴時期) -- The political background of 1949-1987 and the legal framework behind Lei Chen's 11 years in prison
-- [Yin Hai-kuang: The Philosopher Who Planted Liberalism in Taiwan in Lane 18, Wenzhou Street](/people/殷海光) -- The most representative resident of the Gongguan-Wenzhou Street axis, with the full arc of his life from arriving in Taiwan in 1949 to dying of illness in 1969
-- [Taiwanese Magazines: From _Free China_ to _Benesse_](/culture/雜誌) -- The 1949-1960 publication history of _Free China_ and the media-politics context under martial law
-- [Dadaocheng](/geography/大稻埕) -- A batch 1 historic-district sibling: an 1851 tea-commerce street whose logic of street formation is completely different from Gongguan's 1928 imperial-university establishment
-- [Bangka](/geography/艋舺) -- A batch 1 historic-district sibling: a Qing-era peak district sustained by Longshan Temple from 1738, in contrast to Gongguan Village's Qing-era function as a frontier station
-- [Ximending](/geography/西門町) -- A batch 1 historic-district sibling: an 1896 Japanese-period entertainment special district, one of two spatial planning types the Japanese created in Taipei alongside Gongguan's 1928 imperial university
-- [Yongkang Street](/geography/永康街) -- Together with Gongguan, it sustains the NTU and NTNU faculty-student consumption circle: two material nodes from scholars' dormitories to students' dining tables
-- [Guling Street](/geography/牯嶺街) -- A sister landscape of postwar Chinese migrant scholars and used-book culture, forming a second postwar Chinese migrant intellectual settlement alongside Gongguan's Wenzhou Street scholars' residences
-- [Treasure Hill](/geography/寶藏巖) -- An illegal settlement 800 meters south of Gongguan that became an artists' village, representing another kind of "marginal space" from the same era as Gongguan's 1969 student-movement world
+- [Taipei City: Three Times in One City, Longshan Temple of 1738 Watching Taipei 101 of 2004](/en/geography/taipei-city) -- Gongguan's cross-boundary position across 12 districts, spanning Zhongzheng, Da'an, and Wenshan, placed alongside the four timelines of Bangka, Dadaocheng, and Xinyi
+- [Taiwan's White Terror](/en/history/taiwan-white-terror) -- The martial-law-era purge context of the 1960 Lei Chen case, Yin Hai-kuang in 1969, and the 1972-75 NTU Department of Philosophy Incident
+- [Martial Law Period](/en/history/martial-law-era) -- The political background of 1949-1987 and the legal framework behind Lei Chen's 11 years in prison
+- [Yin Hai-kuang: The Philosopher Who Planted Liberalism in Taiwan in Lane 18, Wenzhou Street](/en/people/yin-haiguang-liberalism-philosopher) -- The most representative resident of the Gongguan-Wenzhou Street axis, with the full arc of his life from arriving in Taiwan in 1949 to dying of illness in 1969
+- [Taiwanese Magazines: From _Free China_ to _Benesse_](/en/culture/magazine) -- The 1949-1960 publication history of _Free China_ and the media-politics context under martial law
+- [Dadaocheng](/en/geography/dadaocheng) -- A batch 1 historic-district sibling: an 1851 tea-commerce street whose logic of street formation is completely different from Gongguan's 1928 imperial-university establishment
+- [Bangka](/en/geography/bangka) -- A batch 1 historic-district sibling: a Qing-era peak district sustained by Longshan Temple from 1738, in contrast to Gongguan Village's Qing-era function as a frontier station
+- [Ximending](/en/geography/ximending) -- A batch 1 historic-district sibling: an 1896 Japanese-period entertainment special district, one of two spatial planning types the Japanese created in Taipei alongside Gongguan's 1928 imperial university
+- [Yongkang Street](/en/geography/yongkang-street) -- Together with Gongguan, it sustains the NTU and NTNU faculty-student consumption circle: two material nodes from scholars' dormitories to students' dining tables
+- [Guling Street](/en/geography/guling-street) -- A sister landscape of postwar Chinese migrant scholars and used-book culture, forming a second postwar Chinese migrant intellectual settlement alongside Gongguan's Wenzhou Street scholars' residences
+- [Treasure Hill](/en/geography/treasure-hill) -- An illegal settlement 800 meters south of Gongguan that became an artists' village, representing another kind of "marginal space" from the same era as Gongguan's 1969 student-movement world
 
 ## Image Sources
 

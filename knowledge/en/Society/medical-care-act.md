@@ -189,9 +189,9 @@ The words written in law will be read by readers. The unwritten words are record
 
 **Further Reading**:
 
-- [Taiwan’s Medical Care and National Health Insurance](/lifestyle/台灣醫療與全民健保) — The globally renowned coverage rate and payment structure of the National Health Insurance system are the “payment-side” partner to the Medical Care Act after implementation.
-- [A Practitioner’s Account of the History of Taiwan’s Two Regenerative Medicine Laws](/society/台灣再生醫療雙法沿革從業人員告白) — The two regenerative medicine laws passed in 2024 are special laws spun out from the Medical Care Act to fill the regulatory gap in cell therapy.
-- [Taiwan’s Disaster Medical System](/technology/台灣災難醫療體系) — How the Medical Care Act Article 1 principle of “reasonable distribution of medical care resources” operates in major disaster scenarios.
+- [Taiwan’s Medical Care and National Health Insurance](/en/lifestyle/taiwan-healthcare-and-national-health-insurance) — The globally renowned coverage rate and payment structure of the National Health Insurance system are the “payment-side” partner to the Medical Care Act after implementation.
+- [A Practitioner’s Account of the History of Taiwan’s Two Regenerative Medicine Laws](/en/society/taiwan-regenerative-medicine-laws) — The two regenerative medicine laws passed in 2024 are special laws spun out from the Medical Care Act to fill the regulatory gap in cell therapy.
+- [Taiwan’s Disaster Medical System](/en/technology/taiwan-disaster-medicine-system) — How the Medical Care Act Article 1 principle of “reasonable distribution of medical care resources” operates in major disaster scenarios.
 
 ## References
 

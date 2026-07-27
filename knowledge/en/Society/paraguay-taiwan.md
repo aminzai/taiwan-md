@@ -102,10 +102,10 @@ Sixty-nine years of diplomatic relations do not live in rhetoric; they live in c
 
 **Further reading:**
 
-- [Taiwan's Diplomatic Allies and International Diplomacy](/society/台灣邦交國與國際外交) — A full picture of 12 diplomatic allies, overseas offices, and the visa-free network
-- [Taiwan and Eswatini](/society/台灣與史瓦帝尼) — Africa's only diplomatic ally, another case of "long-term cooperation and fragile politics"
-- [Cognitive Warfare](/society/認知作戰) — The information, language, and pressure framework of China's diplomatic warfare against Taiwan
-- [The 2026 Zheng-Xi Meeting and the KMT-CCP Reunion](/society/2026鄭習會與國共十年再會) — Cross-strait political dynamics of the same period, for understanding the broader context of Chinese pressure on Taiwan
+- [Taiwan's Diplomatic Allies and International Diplomacy](/en/society/taiwan-diplomatic-allies-and-international-relations) — A full picture of 12 diplomatic allies, overseas offices, and the visa-free network
+- [Taiwan and Eswatini](/en/society/taiwan-eswatini-relations) — Africa's only diplomatic ally, another case of "long-term cooperation and fragile politics"
+- [Cognitive Warfare](/en/society/cognitive-warfare-against-taiwan) — The information, language, and pressure framework of China's diplomatic warfare against Taiwan
+- [The 2026 Zheng-Xi Meeting and the KMT-CCP Reunion](/en/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Cross-strait political dynamics of the same period, for understanding the broader context of Chinese pressure on Taiwan
 
 ## Image Sources
 

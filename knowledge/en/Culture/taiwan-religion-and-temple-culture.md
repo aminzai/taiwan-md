@@ -159,7 +159,7 @@ And this faith ultimately made the island free.
 - [Social Movements in Taiwan during the Japanese Colonial Period](../History/日治時期臺灣社會運動) — How the colonial government controlled religion, and how it was countered by religion
 - [The February 28 Incident](../History/二二八事件) — The role of the post-war religious sector (especially the Presbyterian Church) in political transition
 - [Chiang Wei-shui](../People/蔣渭水) — The physician-revolutionary, and dialogues with contemporary religious leaders
-- [Taiwanese Sensibility: Do We Need Koreans to Like First Before We Dare to Say Our Old Houses Are Beautiful?](/culture/台灣感性) — One of the places where everyday aesthetics like terrazzo and iron window grilles are most preserved is temples
+- [Taiwanese Sensibility: Do We Need Koreans to Like First Before We Dare to Say Our Old Houses Are Beautiful?](/en/culture/taiwanese-sensibility) — One of the places where everyday aesthetics like terrazzo and iron window grilles are most preserved is temples
 
 ## References
 

@@ -239,8 +239,8 @@ Under the dual challenges of globalization and climate change, the transformatio
 
 ## Further Reading
 
-- [Taiwan’s Small and Medium-Sized Enterprises and Hidden Champions](/economy/台灣中小企業與隱形冠軍)
-- [Taiwan’s Foreign Trade and Global Supply Chains](/economy/台灣外貿與全球供應鏈)
+- [Taiwan’s Small and Medium-Sized Enterprises and Hidden Champions](/en/economy/taiwan-smes-and-hidden-champions)
+- [Taiwan’s Foreign Trade and Global Supply Chains](/en/economy/taiwan-foreign-trade-and-global-supply-chain)
 
 ## References
 

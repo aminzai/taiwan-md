@@ -101,7 +101,7 @@ A child of a Xindian farming family in 1997, the man who brought the largest lan
 
 What he left behind was not just a group, but a distinctly Taiwanese philosophy of lean management: make costs clear, trace processes to their roots, and repeat this for a lifetime. This philosophy, in his factories, his hospitals, and his rice shop stories, says the same thing every time.
 
-**Further Reading**: [Yung-ching Wang — Wikipedia](https://zh.wikipedia.org/wiki/王永慶) ｜ [Formosa Plastics No. 6 Naphtha Cracker: A Key Transformation in Taiwan's Petrochemical Industry](https://storystudio.tw/article/gushi/taiwan-plastic-industry) ｜ [Yan Yin-Liang: The Science Prize He Built, Worthier Than the Nobel](/people/尹衍樑) — A mirror case of a same-generation Taiwanese industry leader turned philanthropist
+**Further Reading**: [Yung-ching Wang — Wikipedia](https://zh.wikipedia.org/wiki/王永慶) ｜ [Formosa Plastics No. 6 Naphtha Cracker: A Key Transformation in Taiwan's Petrochemical Industry](https://storystudio.tw/article/gushi/taiwan-plastic-industry) ｜ [Yan Yin-Liang: The Science Prize He Built, Worthier Than the Nobel](/en/people/samuel-yin-yan-liang) — A mirror case of a same-generation Taiwanese industry leader turned philanthropist
 
 ## References
 

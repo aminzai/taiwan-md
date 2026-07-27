@@ -176,5 +176,5 @@ The other end of that red thread, tied from the Tang dynasty to the twenty-first
 
 ## Further Reading
 
-- [Same-Sex Marriage and Gender Equality in Taiwan](/Society/台灣同婚與性別平權) — The broader social context of Weiming Temple's Rabbit God as one of the world's few LGBT-dedicated temples
-- [Taiwan's Volunteer Culture and Civic Engagement](/Society/台灣志工文化與公益參與) — The intertwining of folk belief and community culture
+- [Same-Sex Marriage and Gender Equality in Taiwan](/en/society/taiwan-marriage-equality-lgbtq-rights) — The broader social context of Weiming Temple's Rabbit God as one of the world's few LGBT-dedicated temples
+- [Taiwan's Volunteer Culture and Civic Engagement](/en/society/volunteering-and-civic-charity-in-taiwan) — The intertwining of folk belief and community culture

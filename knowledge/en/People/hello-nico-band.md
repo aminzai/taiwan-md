@@ -89,11 +89,11 @@ Hello Nico is still on stage.
 
 **Further Reading**:
 
-- [Ao and Mountain (凹與山)](/people/凹與山) — Another Taiwanese indie female voice from the 2010s, capturing urban emotion through synthesizers
-- [VH (Vast & Hazy)](/people/VH) — Another gentle path in the same indie scene of the era, the "exit band"
-- [No Party for Cao Dong (草東沒有派對)](/people/草東沒有派對) — Same 2010s Taiwanese indie scene; anger and suppression as counterpoint
-- [Ko Chih-tang (柯智棠)](/people/柯智棠) — Another Taiwanese indie singer who returned after seven years of silence; the same "slow-tempo creator" spectrum
-- [Chi Po-hao (紀柏豪)](/art/紀柏豪) — Hello Nico's early synthesizer player, later moved into sound art; MIT Schnitzer Prize first-place winner
+- [Ao and Mountain (凹與山)](/en/people/ao-and-mountain-band) — Another Taiwanese indie female voice from the 2010s, capturing urban emotion through synthesizers
+- [VH (Vast & Hazy)](/en/people/vh-band) — Another gentle path in the same indie scene of the era, the "exit band"
+- [No Party for Cao Dong (草東沒有派對)](/en/people/no-party-for-cao-dong) — Same 2010s Taiwanese indie scene; anger and suppression as counterpoint
+- [Ko Chih-tang (柯智棠)](/en/people/ke-zhi-tang-musician) — Another Taiwanese indie singer who returned after seven years of silence; the same "slow-tempo creator" spectrum
+- [Chi Po-hao (紀柏豪)](/en/art/chi-po-hao-musician) — Hello Nico's early synthesizer player, later moved into sound art; MIT Schnitzer Prize first-place winner
 
 ## References
 

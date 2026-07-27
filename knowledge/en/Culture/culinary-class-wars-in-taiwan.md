@@ -129,9 +129,9 @@ But one thing will remain: between 2024 and 2026, Taiwanese consumers saw the na
 
 ## Further Reading
 
-- [Taiwan Convenience Store Culture](/lifestyle/台灣便利商店文化) — The industrial landscape where the 7-ELEVEN × Baek Jong-won collaboration occurred; understanding the competitive logic of convenience store ready-to-eat meals.
-- [Taiwan Bubble Tea Culture](/food/台灣手搖飲文化) — The industry context of the Kim Tae-seng × Shi-Sheng collaboration; Taiwan's most powerful exportable beverage battlefield.
-- [Pearl Milk Tea](/food/珍珠奶茶) — The representative symbol of Taiwanese bubble tea, providing a cultural contrast to the Korean-style bubble tea brands that entered during the _Culinary Class Wars_ era.
+- [Taiwan Convenience Store Culture](/en/lifestyle/convenience-store-culture) — The industrial landscape where the 7-ELEVEN × Baek Jong-won collaboration occurred; understanding the competitive logic of convenience store ready-to-eat meals.
+- [Taiwan Bubble Tea Culture](/en/food/hand-shaken-drink-culture) — The industry context of the Kim Tae-seng × Shi-Sheng collaboration; Taiwan's most powerful exportable beverage battlefield.
+- [Pearl Milk Tea](/en/food/bubble-tea) — The representative symbol of Taiwanese bubble tea, providing a cultural contrast to the Korean-style bubble tea brands that entered during the _Culinary Class Wars_ era.
 
 ## References
 

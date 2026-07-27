@@ -81,10 +81,10 @@ After reading his story, we might ask ourselves: In an age where algorithms deci
 
 **Further Reading**
 
-- [Cheng Nan-Jung](/people/zheng-nanrong) — The next generation practitioner who pushed the freedom of speech that Yin Hai-Guang's era fought for to its ultimate limit of self-immolation
-- [Cho Yun Hsu (許倬雲)](/people/cho-yun-hsu-bridging-historian) — A contemporary historian who similarly advanced the modernization of humanities and social sciences within the NTU and Academia Sinica systems of the 1960s
-- [Taiwan White Terror](/history/taiwan-white-terror) — The overall political context of Yin Hai-Guang's house arrest, Lei Zhen's imprisonment, and the banning of _The Prospect of Chinese Culture_
-- [Martial Law Era](/history/martial-law-era) — The legal and political framework behind the Lei Zhen Incident, the closure of Wen Xing Bookstore, and the suspension of _Free China_
+- [Cheng Nan-Jung](/en/people/zheng-nanrong) — The next generation practitioner who pushed the freedom of speech that Yin Hai-Guang's era fought for to its ultimate limit of self-immolation
+- [Cho Yun Hsu (許倬雲)](/en/people/cho-yun-hsu-bridging-historian) — A contemporary historian who similarly advanced the modernization of humanities and social sciences within the NTU and Academia Sinica systems of the 1960s
+- [Taiwan White Terror](/en/history/taiwan-white-terror) — The overall political context of Yin Hai-Guang's house arrest, Lei Zhen's imprisonment, and the banning of _The Prospect of Chinese Culture_
+- [Martial Law Era](/en/history/martial-law-era) — The legal and political framework behind the Lei Zhen Incident, the closure of Wen Xing Bookstore, and the suspension of _Free China_
 - [February 28 Incident](/history/228-incident) — The historical event that occurred two years before Yin Hai-Guang arrived in Taiwan, shaping his initial shock at "party-state authoritarianism"
 
 ---

@@ -251,12 +251,12 @@ Chinese’s four tones, Taiwanese Hoklo’s seven tones, sixteen indigenous lang
 
 **Further Reading**:
 
-- [Chen Xian-jing](/music/陳嫺靜) — From Cheng Kung University’s Black Sound, putting Xia Yu’s poem "Answer" into rap, took eight years of making music to win GMA Best New Artist
-- [Taiwan Pop Music](/music/台灣流行音樂) — From Nakasi to Jay Chou, how an island sings its own songs
-- [Taiwanese Hoklo Song Evolution](/music/台灣台語歌曲演進) — From _Wang Chun Feng_ to the New Taiwanese Language Movement, how a language sings back to the mainstream
-- [Contemporary Indigenous Creative Singers](/music/當代原住民創作歌手) — From GMA stage to indigenous language revitalization, how sixteen languages’ voices are heard
-- [Taiwan Independent Music](/music/台灣獨立音樂) — Underground, livehouses, and a long campaign about freedom
-- [Golden Melody Awards](/music/金曲獎) — How an award defined the standards of the Mandarin music scene
+- [Chen Xian-jing](/en/music/hsien-ching-chen) — From Cheng Kung University’s Black Sound, putting Xia Yu’s poem "Answer" into rap, took eight years of making music to win GMA Best New Artist
+- [Taiwan Pop Music](/en/music/golden-melodies-legacy-taiwan-pop-music) — From Nakasi to Jay Chou, how an island sings its own songs
+- [Taiwanese Hoklo Song Evolution](/en/music/taiwanese-hokkien-song-evolution) — From _Wang Chun Feng_ to the New Taiwanese Language Movement, how a language sings back to the mainstream
+- [Contemporary Indigenous Creative Singers](/en/music/contemporary-indigenous-singer-songwriters) — From GMA stage to indigenous language revitalization, how sixteen languages’ voices are heard
+- [Taiwan Independent Music](/en/music/indie-music-scene) — Underground, livehouses, and a long campaign about freedom
+- [Golden Melody Awards](/en/music/pop-music-and-golden-melody-awards) — How an award defined the standards of the Mandarin music scene
 
 ## Image Sources
 

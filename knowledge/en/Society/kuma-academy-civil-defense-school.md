@@ -190,10 +190,10 @@ Return to that patch of grass in the light rain. The office worker gripping the 
 
 **Further Reading**:
 
-- [Puma Shen](/people/沈伯洋) — Kuma Academy co-founder and honorary dean, a researcher of the CCP's cognitive warfare who was later investigated by China for "splittism"
-- [Cognitive Warfare](/society/認知作戰) — the full background to one of Kuma Academy's four basic camp modules, and the broader picture of the CCP's information warfare against Taiwan
-- [Taiwan's National Defense and Military Modernization](/society/台灣國防與軍事現代化) — the complementary relationship between civil defense and all-out national defense, another side of understanding why "civil defense is not national defense"
-- [Invisible Nation](/art/看不見的國家) — a documentary that ends with Taiwanese people attending a civil defense class, effectively the film version of Kuma Academy's lesson
+- [Puma Shen](/en/people/puma-shen) — Kuma Academy co-founder and honorary dean, a researcher of the CCP's cognitive warfare who was later investigated by China for "splittism"
+- [Cognitive Warfare](/en/society/cognitive-warfare-against-taiwan) — the full background to one of Kuma Academy's four basic camp modules, and the broader picture of the CCP's information warfare against Taiwan
+- [Taiwan's National Defense and Military Modernization](/en/society/taiwan-defense-modernization) — the complementary relationship between civil defense and all-out national defense, another side of understanding why "civil defense is not national defense"
+- [Invisible Nation](/en/art/invisible-nation) — a documentary that ends with Taiwanese people attending a civil defense class, effectively the film version of Kuma Academy's lesson
 
 ## Image Sources
 

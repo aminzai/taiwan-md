@@ -185,11 +185,11 @@ As poet Yu Guangzhong said: "Taiwan's most beautiful aspect is human sentiment" 
 
 ## Further Reading
 
-- [Japanese Colonial Period Literature](/art/日治時期文學) — 1895-1945: Lai He, Yang Kui, Lu Heruo, and Zhang Wenxiang's Japanese-language era
-- [Postwar Taiwan Literature](/art/戰後台灣文學) — 1945-1987: forty-two years of martial law, from voicelessness to modernism to nativist debate to feminist awakening
-- [Post-Martial Law Taiwan Literature](/art/解嚴後台灣文學) — 1987-2000: the transitional generation where politics, gender, and mother-tongue plurality explosively diversified
-- [Contemporary Taiwan Literature](/art/當代台灣文學) — 21st century: internationalization, Lin Yi-han, digital literature
-- [Lin Liang](/people/林良) — the founding figure of postwar Taiwan children's literature; from 1948 to 2019 he used "the art of simple language" to define writing for children as serious work
+- [Japanese Colonial Period Literature](/en/art/taiwanese-literature-during-japanese-rule) — 1895-1945: Lai He, Yang Kui, Lu Heruo, and Zhang Wenxiang's Japanese-language era
+- [Postwar Taiwan Literature](/en/art/postwar-taiwanese-literature) — 1945-1987: forty-two years of martial law, from voicelessness to modernism to nativist debate to feminist awakening
+- [Post-Martial Law Taiwan Literature](/en/art/post-martial-law-taiwanese-literature) — 1987-2000: the transitional generation where politics, gender, and mother-tongue plurality explosively diversified
+- [Contemporary Taiwan Literature](/en/art/contemporary-taiwanese-literature) — 21st century: internationalization, Lin Yi-han, digital literature
+- [Lin Liang](/en/people/lin-liang-childrens-literature) — the founding figure of postwar Taiwan children's literature; from 1948 to 2019 he used "the art of simple language" to define writing for children as serious work
 
 ---
 

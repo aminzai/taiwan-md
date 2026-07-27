@@ -150,19 +150,19 @@ F-16V Block 70 deliveries were originally scheduled for 2024, but because of U.S
 
 **Further reading**:
 
-- [Taiwan Strait Crises and the Development of Cross-Strait Relations](/history/台海危機與兩岸關係發展) — How the three Taiwan Strait crises shaped the structural logic of today's Cross-Strait military standoff
-- [Taiwan's Diplomatic Allies and International Diplomacy](/society/台灣邦交國與國際外交) — The other path beyond military self-defense: Taiwan's diplomatic breakthrough in search of presence within the international system
-- [Taiwan's Political Environment and Electoral System](/society/台灣政治環境與選舉制度) — Why the NT$1.25 trillion special budget was blocked eight times in the Legislative Yuan, and why national defense is not decided by a single government
-- [Development of Taiwan's Cybersecurity Industry](/technology/台灣資安產業發展) — The front line of gray-zone warfare is not sea mines, but firewalls
-- [Development of Taiwan's Space Industry](/technology/台灣太空產業發展) — From civilian satellites to defense communications, space is the new battlefield of Taiwan's defense resilience
-- [The 2026 Cheng-Xi Meeting: Ten Minutes Between KMT and CCP Leaders After Ten Years](/society/2026鄭習會與國共十年再會) — When Cheng Li-wun proposed "institutional arrangements to prevent war," behind it lay the political battle over the special defense budget
-- [Shen Pao-yang](/people/沈伯洋) — Co-founder of Kuma Academy, strengthening Taiwan's whole-of-society defense resilience through civil-defense education; after seven years studying CCP cognitive warfare, he was placed under investigation by China for "splitting the state"
-- [Hēixióng Academy (Kuma Academy)](/society/黑熊學院) — Civilian-initiated whole-of-society defense education; the second resilience line outside state defense, a school that hopes one day not to need to exist
-- [Cho Jung-tai](/people/卓榮泰) — The Executive Yuan's chief promoter of the NT$1.25 trillion special defense budget, and the proposer of the "Taiwan Shield" and "three good pitches"
-- [Lu Shiow-yen](/people/盧秀燕) — KMT vice chair and Taichung mayor, who took a middle-range position of "NT$800 billion to NT$1 trillion" in the 2026 arms-procurement controversy
-- [Hsu Chiao-hsin](/people/徐巧芯) — KMT legislator and chief promoter of the NT$800 billion arms-procurement version, a political archetype of repeated clashes with Lai Ching-te during legislative questioning
-- [Chi Lin-lien](/people/季麟連) — KMT vice chair and retired lieutenant general, whose remarks at the April 29 Central Standing Committee meeting triggered a split in the pan-Blue camp's arms-procurement line
-- [Samuel Yin](/people/尹衍樑) — By using precast construction methods to shorten TSMC, Google, and Microsoft plant construction in Taiwan to 100 days, he became an invisible infrastructure pillar of Taiwan's semiconductor competitiveness; he is also a typical Taiwanese business figure making dual bets across the Strait, having stated in 2013 that "unification is inevitable"
+- [Taiwan Strait Crises and the Development of Cross-Strait Relations](/en/history/taiwan-strait-crises-and-cross-strait-relations) — How the three Taiwan Strait crises shaped the structural logic of today's Cross-Strait military standoff
+- [Taiwan's Diplomatic Allies and International Diplomacy](/en/society/taiwan-diplomatic-allies-and-international-relations) — The other path beyond military self-defense: Taiwan's diplomatic breakthrough in search of presence within the international system
+- [Taiwan's Political Environment and Electoral System](/en/society/taiwan-political-landscape-and-electoral-system) — Why the NT$1.25 trillion special budget was blocked eight times in the Legislative Yuan, and why national defense is not decided by a single government
+- [Development of Taiwan's Cybersecurity Industry](/en/technology/taiwan-cybersecurity-industry-development) — The front line of gray-zone warfare is not sea mines, but firewalls
+- [Development of Taiwan's Space Industry](/en/technology/taiwan-space-industry-development) — From civilian satellites to defense communications, space is the new battlefield of Taiwan's defense resilience
+- [The 2026 Cheng-Xi Meeting: Ten Minutes Between KMT and CCP Leaders After Ten Years](/en/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — When Cheng Li-wun proposed "institutional arrangements to prevent war," behind it lay the political battle over the special defense budget
+- [Shen Pao-yang](/en/people/puma-shen) — Co-founder of Kuma Academy, strengthening Taiwan's whole-of-society defense resilience through civil-defense education; after seven years studying CCP cognitive warfare, he was placed under investigation by China for "splitting the state"
+- [Hēixióng Academy (Kuma Academy)](/en/society/kuma-academy-civil-defense-school) — Civilian-initiated whole-of-society defense education; the second resilience line outside state defense, a school that hopes one day not to need to exist
+- [Cho Jung-tai](/en/people/cho-jung-tai) — The Executive Yuan's chief promoter of the NT$1.25 trillion special defense budget, and the proposer of the "Taiwan Shield" and "three good pitches"
+- [Lu Shiow-yen](/en/people/lu-hsiu-yan) — KMT vice chair and Taichung mayor, who took a middle-range position of "NT$800 billion to NT$1 trillion" in the 2026 arms-procurement controversy
+- [Hsu Chiao-hsin](/en/people/hsu-chiao-hsin) — KMT legislator and chief promoter of the NT$800 billion arms-procurement version, a political archetype of repeated clashes with Lai Ching-te during legislative questioning
+- [Chi Lin-lien](/en/people/ji-lin-lian) — KMT vice chair and retired lieutenant general, whose remarks at the April 29 Central Standing Committee meeting triggered a split in the pan-Blue camp's arms-procurement line
+- [Samuel Yin](/en/people/samuel-yin-yan-liang) — By using precast construction methods to shorten TSMC, Google, and Microsoft plant construction in Taiwan to 100 days, he became an invisible infrastructure pillar of Taiwan's semiconductor competitiveness; he is also a typical Taiwanese business figure making dual bets across the Strait, having stated in 2013 that "unification is inevitable"
 
 ## References
 

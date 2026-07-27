@@ -237,14 +237,14 @@ Taroko National Park may reopen seven years from now. But after 0403, those who 
 
 ## Further Reading
 
-- [Yilan County](/geography/宜蘭縣) — A companion article in the 22 Counties and Cities series. The Kavalan of Kalyawan migrated south from Yilan’s Lanyang Plain to Hualien in the 1830s; the two articles extend each other.
-- [Keelung City](/geography/基隆市) — The first pilot article in the 22 Counties and Cities series; like Hualien, it is a northeastern coastal county or city “unseen by the capital.”
-- [Taroko National Park](/nature/台灣國家公園) — Taiwan’s fourth national park, established in 1986; after the 0403 earthquake, recovery is estimated to take seven years.
-- [Taiwan’s Plate Movement and Earthquake Activity](/geography/台灣板塊運動與地震活動) — The place of the 0403 earthquake in Taiwan’s seismic history: the East Rift Valley fault system in the collision zone between the Philippine Sea Plate and the Eurasian Plate.
-- [History and Name-Rectification Movements of Taiwan’s Indigenous Peoples](/history/台灣原住民族歷史與正名運動) — The trajectories of name rectification in Hualien among the Sakizaya, Truku, Seediq, and Kavalan.
-- [Cultural Map of Taiwan’s 16 Indigenous Peoples](/culture/台灣原住民族16族文化地圖) — The distribution in Hualien of the Amis, Truku, Sakizaya, Seediq, Bunun, and Kavalan.
-- [Japanese Colonial Period](/history/日治時期) — The 1913 Toyota, Yoshino, and Hayashida immigrant villages; the 1914 Truku Incident; and Bunun group relocation in the 1930s.
-- [Lin Yi-hsiung](/people/林義雄) — Tangwai movement figure from Wujie Township, Yilan, sharing with Hualien the same axis of Taiwan’s democratization in the 1980s.
+- [Yilan County](/en/geography/yilan-county) — A companion article in the 22 Counties and Cities series. The Kavalan of Kalyawan migrated south from Yilan’s Lanyang Plain to Hualien in the 1830s; the two articles extend each other.
+- [Keelung City](/en/geography/keelung-city) — The first pilot article in the 22 Counties and Cities series; like Hualien, it is a northeastern coastal county or city “unseen by the capital.”
+- [Taroko National Park](/en/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Taiwan’s fourth national park, established in 1986; after the 0403 earthquake, recovery is estimated to take seven years.
+- [Taiwan’s Plate Movement and Earthquake Activity](/en/geography/tectonic-plates-and-seismic-activity) — The place of the 0403 earthquake in Taiwan’s seismic history: the East Rift Valley fault system in the collision zone between the Philippine Sea Plate and the Eurasian Plate.
+- [History and Name-Rectification Movements of Taiwan’s Indigenous Peoples](/en/history/indigenous-peoples-history-and-naming-movement) — The trajectories of name rectification in Hualien among the Sakizaya, Truku, Seediq, and Kavalan.
+- [Cultural Map of Taiwan’s 16 Indigenous Peoples](/en/culture/indigenous-peoples-16-tribes-cultural-map) — The distribution in Hualien of the Amis, Truku, Sakizaya, Seediq, Bunun, and Kavalan.
+- [Japanese Colonial Period](/en/history/japanese-colonial-era) — The 1913 Toyota, Yoshino, and Hayashida immigrant villages; the 1914 Truku Incident; and Bunun group relocation in the 1930s.
+- [Lin Yi-hsiung](/en/people/lin-yi-hsiung-democracy-advocate-tragedy-survivor) — Tangwai movement figure from Wujie Township, Yilan, sharing with Hualien the same axis of Taiwan’s democratization in the 1980s.
 
 ## Image Sources
 

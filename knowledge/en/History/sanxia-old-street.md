@@ -58,7 +58,7 @@ The story of the old street continues. It is no longer merely a site for commerc
 
 **Further Reading**:
 
-- [Indigo Dyeing](/culture/藍染) — The craft itself that made Sanxia's dye houses flourish: a complete revitalization history from a Qing-era export staple to the first indigo cloth dyed in seventy years in 1999
+- [Indigo Dyeing](/en/culture/taiwan-indigo-dyeing) — The craft itself that made Sanxia's dye houses flourish: a complete revitalization history from a Qing-era export staple to the first indigo cloth dyed in seventy years in 1999
 - [Traditional Taiwanese Crafts and Intangible Cultural Assets](/culture/台灣傳統工藝與無形文化資產) — The position of Sanxia's indigo revival within Taiwan's craft preservation system
 
 ## References

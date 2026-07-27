@@ -307,7 +307,7 @@ This article does not choose for you. It opens the space, so you can see that it
 - [Zoo and Performing Animal Ethics in Taiwan](/en/society/zoo-and-exhibition-animal-ethics) — Another field where human society argues about "medication and care" of animals: different chapter, same problem
 - [Taiwan's National Health Insurance](/en/lifestyle/taiwan-healthcare-and-national-health-insurance) — The other end of human pharmaceutical regulation: the world's largest national healthcare experiment, with no institutional bridge to animal medicine. The "medical-pharmaceutical separation" principle discussed in this article was built during the NHI era
 - [Taiwan's Disaster Medical System](/en/technology/taiwan-disaster-medicine-system) — Human emergency medicine has a floor: 119, emergency response networks, DMAT. Animal emergency care doesn't have anything like that floor. Read side-by-side to see the resource gap between two systems
-- [Regenerative Medicine Dual Laws × 30 Years of mRNA](/society/台灣再生醫療雙法沿革從業人員告白) — The human regenerative medicine dual laws passed in 2024 and Taiwan is catching up on mRNA platforms; together with the animal drug controversy they share the regulatory philosophy of 'how the state regulates cutting-edge medical technology'
+- [Regenerative Medicine Dual Laws × 30 Years of mRNA](/en/society/taiwan-regenerative-medicine-laws) — The human regenerative medicine dual laws passed in 2024 and Taiwan is catching up on mRNA platforms; together with the animal drug controversy they share the regulatory philosophy of 'how the state regulates cutting-edge medical technology'
 
 ## References
 

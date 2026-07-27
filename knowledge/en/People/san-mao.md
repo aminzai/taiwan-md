@@ -136,11 +136,11 @@ A person who spent her life escaping finally became someone else's path. She tau
 
 ## Further Reading
 
-- [Bai Xianyong](/People/白先勇): The person who pushed San Mao's debut work onto _Modern Literature_
-- [Brigitte Lin](/People/林青霞): _Red Dust_ made her a queen, and also made her lose a friend
-- [Taiwan Folk Song Movement](/Music/台灣民歌運動): The soil in which _The Olive Tree_ was born
-- [Taiwanese Essays](/Art/台灣散文): The literary genre territory occupied by San Mao
-- [Xi Murong](/People/席慕蓉): Another female writer of the same era who wrote the foreign land into the hearts of Taiwanese people
+- [Bai Xianyong](/en/people/pai-hsien-yung-literary-master): The person who pushed San Mao's debut work onto _Modern Literature_
+- [Brigitte Lin](/en/people/brigitte-lin-legendary-actress): _Red Dust_ made her a queen, and also made her lose a friend
+- [Taiwan Folk Song Movement](/en/music/taiwan-campus-folk-song-movement): The soil in which _The Olive Tree_ was born
+- [Taiwanese Essays](/en/art/taiwanese-prose): The literary genre territory occupied by San Mao
+- [Xi Murong](/en/people/ximurong): Another female writer of the same era who wrote the foreign land into the hearts of Taiwanese people
 
 ## References
 

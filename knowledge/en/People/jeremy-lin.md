@@ -114,11 +114,11 @@ Jeremy Lin's career has never met anyone's expectations — including his own. B
 
 **Further Reading:**
 
-- [Kuo Hsing-chun](/people/郭婞淳) — A Taiwanese athlete of the same generation, three-time Olympic medalist and eleven-time world record breaker in weightlifting
-- [Tai Tzu-ying](/people/戴資穎) — Another Taiwanese athlete who reached the world stage, world No. 1 in badminton
-- [Jay Chou](/people/周杰倫) — The Taiwanese music icon who appeared at Lin's jersey retirement ceremony
+- [Kuo Hsing-chun](/en/people/kuo-hsing-chun-olympic-weightlifting-champion) — A Taiwanese athlete of the same generation, three-time Olympic medalist and eleven-time world record breaker in weightlifting
+- [Tai Tzu-ying](/en/people/tai-tzu-ying) — Another Taiwanese athlete who reached the world stage, world No. 1 in badminton
+- [Jay Chou](/en/people/jay-chou) — The Taiwanese music icon who appeared at Lin's jersey retirement ceremony
 - [Taiwan–United States Relations](/society/台灣與美國關係) — Lin's identity as a Taiwanese American traces back to the post-1965 wave of Taiwanese students studying in the U.S.
-- [Lee Yang](/people/李洋) — Another Taiwanese athlete's career path, from Olympic gold to becoming the first Minister of Sports
+- [Lee Yang](/en/people/lee-yang-badminton) — Another Taiwanese athlete's career path, from Olympic gold to becoming the first Minister of Sports
 
 ## References
 

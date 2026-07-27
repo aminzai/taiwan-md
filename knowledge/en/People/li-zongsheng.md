@@ -143,12 +143,12 @@ After writing the best songs for others for thirty years, he still ultimately pu
 
 **Further Reading**:
 
-- [Lo Ta-yu](/people/羅大佑) — Another godfather of Mandopop; his "observing the world" is the essential counterpart to Jonathan Lee's "peering into the human heart"
-- [Sylvia Chang](/people/張艾嘉) — Lee's first production project after joining Rock Records, Busy and Blind, and the starting point of the "urban women" lineage
-- [A-Mei](/people/張惠妹) — A diva-level voice from the same golden age of Rock Records, and another path in Taiwanese women pop singers
-- [Taiwan Folk Music Movement](/music/台灣民歌運動) — The train Lee caught in the 1970s, and the soil of the Wood Guitar choir and Golden Melody folk awards
-- [The Evolution of Taiwan Mandarin](/culture/台灣華語的演化) — Why "plain speech in song" moves people has to do with how Taiwan Mandarin became an everyday language
-- [Huang Da-wei](/people/黃大煒) — A singer-songwriter and all-around musician of the same generation, who carved his own path with a husky voice; he and Jonathan Lee represent two different ways of finding a road for Mandarin love songs
+- [Lo Ta-yu](/en/people/luo-dayou) — Another godfather of Mandopop; his "observing the world" is the essential counterpart to Jonathan Lee's "peering into the human heart"
+- [Sylvia Chang](/en/people/sylvia-chang) — Lee's first production project after joining Rock Records, Busy and Blind, and the starting point of the "urban women" lineage
+- [A-Mei](/en/people/a-mei) — A diva-level voice from the same golden age of Rock Records, and another path in Taiwanese women pop singers
+- [Taiwan Folk Music Movement](/en/music/taiwan-campus-folk-song-movement) — The train Lee caught in the 1970s, and the soil of the Wood Guitar choir and Golden Melody folk awards
+- [The Evolution of Taiwan Mandarin](/en/culture/taiwan-mandarin-evolution) — Why "plain speech in song" moves people has to do with how Taiwan Mandarin became an everyday language
+- [Huang Da-wei](/en/people/david-wong) — A singer-songwriter and all-around musician of the same generation, who carved his own path with a husky voice; he and Jonathan Lee represent two different ways of finding a road for Mandarin love songs
 
 ## Image Sources
 

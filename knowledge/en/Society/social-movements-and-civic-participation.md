@@ -294,9 +294,9 @@ In the future, Taiwan's social movements will face new challenges from the digit
 
 **Further Reading**:
 
-- [The Reporter: The Decade That Rescued Investigative Reporting from a Business Line into a Public Good](/society/報導者) — Since 2015, Taiwan's civil society has used monthly payments from strangers to rescue investigative reporting from being a commercial media business line and turn it into a public good
-- [justfont and the Development of Taiwanese Typography: A Short History of Type from DynaFont's Twenty-Five Years to Jin Xuan's Seventy-Six Minutes](/technology/justfont與台灣字體發展) — Another case from the same year in which crowdfunding rewrote cultural perception, extending the narrative of civil society from the perspective of typographic infrastructure
-- [Submarine Cables: Visible above the Silicon Shield, Invisible beneath the Lifeline](/technology/海底電纜) — The legislation of the seven submarine cable laws, the Pingtung joint defense platform, and the first judicial case involving the Hong Tai 58 show the axis by which civil society pressure drove legislation for national security infrastructure
+- [The Reporter: The Decade That Rescued Investigative Reporting from a Business Line into a Public Good](/en/society/the-reporter-investigative-journalism) — Since 2015, Taiwan's civil society has used monthly payments from strangers to rescue investigative reporting from being a commercial media business line and turn it into a public good
+- [justfont and the Development of Taiwanese Typography: A Short History of Type from DynaFont's Twenty-Five Years to Jin Xuan's Seventy-Six Minutes](/en/technology/justfont-and-taiwan-typography) — Another case from the same year in which crowdfunding rewrote cultural perception, extending the narrative of civil society from the perspective of typographic infrastructure
+- [Submarine Cables: Visible above the Silicon Shield, Invisible beneath the Lifeline](/en/technology/submarine-cables-taiwan-lifeline) — The legislation of the seven submarine cable laws, the Pingtung joint defense platform, and the first judicial case involving the Hong Tai 58 show the axis by which civil society pressure drove legislation for national security infrastructure
 
 [^1]: Ho Ming-sho, "Historical Materials on the Wild Lily Student Movement," included in _The Student Movement Generation: From Wild Lily to Sunflower_, https://www.books.com.tw/products/0010642379
 

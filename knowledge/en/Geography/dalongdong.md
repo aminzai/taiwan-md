@@ -304,12 +304,12 @@ Three eras of Taipei faith stand side by side along a 1.5-kilometer axis. They a
 
 **Further reading**:
 
-- [Taipei City](/geography/台北市) — the full urban context of Dalongdong, from the Chen-Lai-Zhang reclamation enterprise of 1709 to a panoramic narrative of 2026
-- [Bangka](/geography/艋舺) — the earliest Qing-period district of Taipei, formed around Longshan Temple in 1738, and the other end of the 1853 Ding-Xia feud
-- [Dadaocheng](/geography/大稻埕) — the final settlement of Tong'an migrants after 1853 and a major tea-trade center after 1860; a sister street to Dalongdong with the same origins but a different path
-- [Ximending](/geography/西門町) — a 1908 Japanese-era entertainment district, contemporaneous with Dalongdong but a completely different urban experiment
-- [Taiwanese Religion and Temple Culture](/culture/台灣宗教與寺廟文化) — the full context of Baoan Temple, Liao Wu-chih’s restoration, and the UNESCO award
-- [Shilin](/geography/士林) — the 1859 Zhangzhou-Quanzhou armed conflict and Dalongdong Tong'an migrants’ reception of refugees after the 1853 Ding-Xia feud as two landscapes of ethnic conflict in Qing-period northern Taiwan
+- [Taipei City](/en/geography/taipei-city) — the full urban context of Dalongdong, from the Chen-Lai-Zhang reclamation enterprise of 1709 to a panoramic narrative of 2026
+- [Bangka](/en/geography/bangka) — the earliest Qing-period district of Taipei, formed around Longshan Temple in 1738, and the other end of the 1853 Ding-Xia feud
+- [Dadaocheng](/en/geography/dadaocheng) — the final settlement of Tong'an migrants after 1853 and a major tea-trade center after 1860; a sister street to Dalongdong with the same origins but a different path
+- [Ximending](/en/geography/ximending) — a 1908 Japanese-era entertainment district, contemporaneous with Dalongdong but a completely different urban experiment
+- [Taiwanese Religion and Temple Culture](/en/culture/taiwan-religion-and-temple-culture) — the full context of Baoan Temple, Liao Wu-chih’s restoration, and the UNESCO award
+- [Shilin](/en/geography/shilin) — the 1859 Zhangzhou-Quanzhou armed conflict and Dalongdong Tong'an migrants’ reception of refugees after the 1853 Ding-Xia feud as two landscapes of ethnic conflict in Qing-period northern Taiwan
 
 ## Image Sources
 

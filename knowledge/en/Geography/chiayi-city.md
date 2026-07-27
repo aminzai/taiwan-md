@@ -174,19 +174,19 @@ Since Qianlong gave her the name “Chiayi,” she has never left her place.
 
 Local Chiayi contexts:
 
-- [Chen Cheng-po](/people/陳澄波) — the painter who died in front of Chiayi Railway Station in 1947, and the first Taiwanese selected for Japan’s Imperial Art Exhibition with a Western-style painting in 1926
-- [Chiayi Turkey Rice](/food/嘉義火雞肉飯) — the full food history of a dish that evolved from broiler chicken to turkey beginning in 1949, from U.S. aid white-feathered turkeys to Chiayi’s distinctive everyday cuisine
-- [Alishan: The Empire’s Forest and Gao Yisheng’s Mountain](/history/阿里山：帝國的林場與高一生的山) — the mountain that turned Chiayi into the wood capital, and the Tsou communities that came down the mountain in 1947 to help maintain order
+- [Chen Cheng-po](/en/people/chen-cheng-po) — the painter who died in front of Chiayi Railway Station in 1947, and the first Taiwanese selected for Japan’s Imperial Art Exhibition with a Western-style painting in 1926
+- [Chiayi Turkey Rice](/en/food/chiayi-turkey-rice) — the full food history of a dish that evolved from broiler chicken to turkey beginning in 1949, from U.S. aid white-feathered turkeys to Chiayi’s distinctive everyday cuisine
+- [Alishan: The Empire’s Forest and Gao Yisheng’s Mountain](/en/history/alishan-empire-forest-and-uongu-yatauyungana) — the mountain that turned Chiayi into the wood capital, and the Tsou communities that came down the mountain in 1947 to help maintain order
 
 Larger historical coordinates:
 
 - [February 28 Incident](/history/二二八事件) — the historical context of Taiwan’s 1947 political tragedy, in which Chiayi was one of the cities with the most intense conflict
-- [A Century of Change in Taiwanese Watercolor Painting](/art/台灣水彩畫的百年流變) — the place of the Chiayi school of painting in Taiwanese art history, from the Imperial Art Exhibition to the Prefectural Exhibition
-- [Taiwan Baseball Culture](/culture/台灣棒球文化) — the coordinates of Jianong’s 1931 Koshien runner-up finish in Taiwanese baseball history
-- [Taiwan Railway History](/history/台灣鐵道史) — the broader context in which the 1908 completion of the north-south trunk railway gave rise to the Tropic of Cancer monument
-- [Taiwan Forest Development History](/history/台灣森林開發史) — the broader scale of 50 years of Alishan forestry, 1914-1963
-- [Chiayi County](/geography/嘉義縣) — batch 2 of the 22 Counties and Cities series; the county that completely surrounds this city, separated from it in 1950 and moved its county seat to Taibao in 1991, forming the other half of this article’s narrative
-- [Keelung City](/geography/基隆市) — the first article in the 22 Counties and Cities series, another port city pressed down by the framework of the capital; useful for comparing the different fault lines of two mid-sized cities
+- [A Century of Change in Taiwanese Watercolor Painting](/en/art/century-of-taiwanese-watercolor-painting) — the place of the Chiayi school of painting in Taiwanese art history, from the Imperial Art Exhibition to the Prefectural Exhibition
+- [Taiwan Baseball Culture](/en/culture/taiwan-baseball-culture) — the coordinates of Jianong’s 1931 Koshien runner-up finish in Taiwanese baseball history
+- [Taiwan Railway History](/en/history/TBD-NEEDS-SLUG) — the broader context in which the 1908 completion of the north-south trunk railway gave rise to the Tropic of Cancer monument
+- [Taiwan Forest Development History](/en/history/taiwan-forestry-history) — the broader scale of 50 years of Alishan forestry, 1914-1963
+- [Chiayi County](/en/geography/chiayi-county) — batch 2 of the 22 Counties and Cities series; the county that completely surrounds this city, separated from it in 1950 and moved its county seat to Taibao in 1991, forming the other half of this article’s narrative
+- [Keelung City](/en/geography/keelung-city) — the first article in the 22 Counties and Cities series, another port city pressed down by the framework of the capital; useful for comparing the different fault lines of two mid-sized cities
 
 ## Image Sources
 

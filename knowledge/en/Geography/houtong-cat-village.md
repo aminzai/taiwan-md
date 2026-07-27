@@ -212,11 +212,11 @@ It's the same water of the Keelung River.
 
 **Further Reading:**
 
-- [Jinguashi](/geography/金瓜石) — Sister settlement upstream on the same Keelung River, mining heritage transformed via the "Gold Ecological Park" eco-museum path
-- [History of Taiwan Railways](/history/台灣鐵道史) — The Pingxi Line railway, opened in 1920, is the physical backbone of the tourism corridor linking Houtong, Pingxi, Jingtong, and Shifen
-- [Stray Animal Culture in Taiwan](/society/台灣流浪動物文化) — The Taiwan context of TNVR policy implementation; Houtong is one of the few successful cases
-- [Zoos and the Ethics of Exhibition Animals](/society/動物園與展演動物倫理) — "Cat tourism" and the same animal ethics tensions as zoos and aquariums
-- [Sky Lanterns](/culture/天燈) — The Pingxi Sky Lantern Festival faces the same "local economy vs. animal protection / environmental responsibility" tensions in mining heritage settlement transformation
+- [Jinguashi](/en/geography/jinguashi) — Sister settlement upstream on the same Keelung River, mining heritage transformed via the "Gold Ecological Park" eco-museum path
+- [History of Taiwan Railways](/en/history/TBD-NEEDS-SLUG) — The Pingxi Line railway, opened in 1920, is the physical backbone of the tourism corridor linking Houtong, Pingxi, Jingtong, and Shifen
+- [Stray Animal Culture in Taiwan](/en/society/stray-animal-culture) — The Taiwan context of TNVR policy implementation; Houtong is one of the few successful cases
+- [Zoos and the Ethics of Exhibition Animals](/en/society/zoo-and-exhibition-animal-ethics) — "Cat tourism" and the same animal ethics tensions as zoos and aquariums
+- [Sky Lanterns](/en/culture/sky-lanterns-pingxi) — The Pingxi Sky Lantern Festival faces the same "local economy vs. animal protection / environmental responsibility" tensions in mining heritage settlement transformation
 
 ## Image Credits
 

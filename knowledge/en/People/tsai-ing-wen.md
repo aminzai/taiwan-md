@@ -106,15 +106,15 @@ Tsai Ing-wen spent eight years proving one thing: a scholar-type politician who 
 
 **Further Reading**:
 
-- [Taiwan's Democratic Transition](/history/台灣民主轉型) — The institutional evolution from authoritarianism to freedom
-- [Lai Ching-te](/people/賴清德) — Tsai's successor, Taiwan's current president
-- [Same-Sex Marriage and Gender Equality in Taiwan](/society/台灣同婚與性別平權) — The legislative process behind Asia's first same-sex marriage law
-- [History and Name Rectification Movement of Taiwan's Indigenous Peoples](/history/台灣原住民族歷史與正名運動) — The struggle from "mountain compatriots" to "Indigenous peoples"
-- [Sunflower Student Movement](/society/太陽花學運) — The 2014 social movement that reshaped Taiwan's political landscape
-- [Ma Ying-jeou](/people/馬英九) — Tsai Ing-wen debated him on ECFA on April 25, 2010; she took power from him in 2016; the cross-Strait framework she followed after taking office shifted almost entirely away from his
-- [Chou Tzu-yu](/people/周子瑜) — The 90-second apology video on the eve of the 2016 election that prompted Tsai's victory speech line, "No one should have to apologize for their identity"
-- [Thinking Taiwan](/society/想想論壇) — The commentary platform under the Hsiao-Ying Education Foundation established by Tsai after her 2012 defeat; relaunched in October 2025, five months after her retirement
-- [Invisible Nation](/art/看不見的國家) — American director Vanessa Hope's documentary, shot in close proximity to Tsai over seven years; in 2025 it took in more than NT$37 million at the Taiwan box office, the third-highest grossing documentary in Taiwan's history.
+- [Taiwan's Democratic Transition](/en/history/taiwan-democratization) — The institutional evolution from authoritarianism to freedom
+- [Lai Ching-te](/en/people/lai-ching-te) — Tsai's successor, Taiwan's current president
+- [Same-Sex Marriage and Gender Equality in Taiwan](/en/society/taiwan-marriage-equality-lgbtq-rights) — The legislative process behind Asia's first same-sex marriage law
+- [History and Name Rectification Movement of Taiwan's Indigenous Peoples](/en/history/indigenous-peoples-history-and-naming-movement) — The struggle from "mountain compatriots" to "Indigenous peoples"
+- [Sunflower Student Movement](/en/society/sunflower-movement) — The 2014 social movement that reshaped Taiwan's political landscape
+- [Ma Ying-jeou](/en/people/ma-ying-jeou-cross-strait-reconciliation-leader) — Tsai Ing-wen debated him on ECFA on April 25, 2010; she took power from him in 2016; the cross-Strait framework she followed after taking office shifted almost entirely away from his
+- [Chou Tzu-yu](/en/people/tzuyu) — The 90-second apology video on the eve of the 2016 election that prompted Tsai's victory speech line, "No one should have to apologize for their identity"
+- [Thinking Taiwan](/en/society/thinking-taiwan-forum) — The commentary platform under the Hsiao-Ying Education Foundation established by Tsai after her 2012 defeat; relaunched in October 2025, five months after her retirement
+- [Invisible Nation](/en/art/invisible-nation) — American director Vanessa Hope's documentary, shot in close proximity to Tsai over seven years; in 2025 it took in more than NT$37 million at the Taiwan box office, the third-highest grossing documentary in Taiwan's history.
 
 ## References
 

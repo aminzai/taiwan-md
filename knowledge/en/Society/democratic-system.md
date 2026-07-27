@@ -2,19 +2,19 @@
 title: "The Democratic System: From the 1987 Lifting of Martial Law to Lai Ching-te in 2024 — Coordinates of Taiwan's 37 Years of Democracy"
 description: "Taiwan endured 38 years of authoritarian rule under martial law beginning in 1949. Martial law was lifted on July 15, 1987, and the first direct presidential election was held in 1996 (Lee Teng-hui). The first party rotation occurred in 2000 (Chen Shui-bian). On May 17, 2019, Taiwan became the first region in Asia to legalize same-sex marriage. On January 13, 2024, Lai Ching-te was elected the 16th president with 40.05% of the vote (5.58 million votes), marking the first time the Democratic Progressive Party won three consecutive presidential elections; the Kuomintang reclaimed its position as the largest party in the Legislative Yuan (52 seats), with the DPP at 51 seats and the Taiwan People's Party at 8 seats — no party held a majority."
 date: 2026-03-17
-author: "Taiwan.md"
-category: "Society"
-subcategory: "民主與政治"
-tags: ["Society", "民主化", "解嚴", "總統直選", "政黨輪替"]
+author: 'Taiwan.md'
+category: 'Society'
+subcategory: '民主與政治'
+tags: ['Society', '民主化', '解嚴', '總統直選', '政黨輪替']
 readingTime: 10
 lastVerified: 2026-05-07
 lastHumanReview: true
 featured: false
-translatedFrom: "Society/民主制度.md"
-sourceCommitSha: "0f8fae0ae"
-sourceContentHash: "sha256:f55314385d9caf18"
-sourceBodyHash: "sha256:7661cd6b847cb615"
-translatedAt: "2026-05-20T05:08:27+08:00"
+translatedFrom: 'Society/民主制度.md'
+sourceCommitSha: '0f8fae0ae'
+sourceContentHash: 'sha256:f55314385d9caf18'
+sourceBodyHash: 'sha256:7661cd6b847cb615'
+translatedAt: '2026-05-20T05:08:27+08:00'
 ---
 
 # The Democratic System: From the 1987 Lifting of Martial Law to Lai Ching-te in 2024 — Coordinates of Taiwan's 37 Years of Democracy
@@ -83,4 +83,4 @@ Taiwan has been hailed as a "democracy miracle" and has long been rated as "Free
 
 ## Related Topics
 
-- [Human Rights and Gender Equality](/society/人權與性別平等)
+- [Human Rights and Gender Equality](/en/society/human-rights-and-gender-equality)

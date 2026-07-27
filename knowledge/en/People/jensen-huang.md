@@ -114,7 +114,7 @@ Jensanity has since become an annual spectacle. On the eve of leaving Taiwan in 
 
 There were also less perfect moments in the night markets and convention halls, which made him look more like an actual person. At Computex, a fan asked him to sign a wallet. Huang opened it, handed all NT$7,700 in cash inside to the show girls nearby, saying as he did so that the man was rich and kind, and before leaving turned back to add a full NT$10,000.[^14] Another time, a female fan brought Japanese yen bills, a phone, and one item after another for him to sign. By the end, he frowned and blurted out in English, "You're too much trouble."[^15] A person who can empty a wallet to give money away, and also lose patience when hounded: that is the Tainan kid beneath the black leather jacket, someone who gets tired, gets annoyed, and is also genuinely generous.
 
-His meaning for Taiwan, of course, goes far beyond celebrity effect. NVIDIA's most advanced chips are manufactured by [TSMC](/en/economy/tsmc/), and Huang has had more than thirty years of friendship with [Morris Chang](/en/people/tsmc-morris-chang/). In a Computex speech, he showed a map packed with Taiwan supply-chain partners and said, "Taiwan is a world hero." The bond tying NVIDIA's physical existence to Taiwan later led to a NT$4.4 billion land deal, a planned Taipei headquarters,[^9] and a whole set of power struggles over "who cannot do without whom." That is the story for another article (see [NVIDIA in Taiwan](/technology/NVIDIA在台灣)). For Huang himself, returning to Taiwan once every quarter and moving between Tainan food stalls and the semiconductor supply chain seems more like the journey of someone long away from home returning to the island where he was born.
+His meaning for Taiwan, of course, goes far beyond celebrity effect. NVIDIA's most advanced chips are manufactured by [TSMC](/en/economy/tsmc/), and Huang has had more than thirty years of friendship with [Morris Chang](/en/people/tsmc-morris-chang/). In a Computex speech, he showed a map packed with Taiwan supply-chain partners and said, "Taiwan is a world hero." The bond tying NVIDIA's physical existence to Taiwan later led to a NT$4.4 billion land deal, a planned Taipei headquarters,[^9] and a whole set of power struggles over "who cannot do without whom." That is the story for another article (see [NVIDIA in Taiwan](/en/technology/nvidia-in-taiwan)). For Huang himself, returning to Taiwan once every quarter and moving between Tainan food stalls and the semiconductor supply chain seems more like the journey of someone long away from home returning to the island where he was born.
 
 ## One Family, Two Chip Empires
 
@@ -156,11 +156,11 @@ Jensen Huang now has a corporate trademark tattooed on his arm. When he was ten,
 
 **Further Reading**
 
-- [Morris Chang](/people/張忠謀) — NVIDIA's most important partner, the founder of TSMC, and a friend of Huang's for more than thirty years, tying together the global AI supply chain
-- [Taiwanese company: TSMC](/economy/台灣企業：台積電) — the Taiwanese company that manufactures NVIDIA's most advanced chips, and the "world hero" in Huang's words
-- [Taiwan's semiconductor industry](/technology/半導體產業) — Huang's and Lisa Su's chips are both manufactured on this island; this is Taiwan's silicon shield
-- [NVIDIA in Taiwan: The world's most expensive company does not make a single chip itself](/technology/NVIDIA在台灣) — the company he founded lives in symbiosis with this island's industries: chips, servers, headquarters, and a NT$4.434 billion land deal
-- [Chi Huai-Hsin: The Taiwanese Who Taught AI to "Think Step by Step"](/people/紀懷新) — another Taiwanese standing at the AI frontier; Huang's chips make AI run fast, Chi Huai-Hsin's chain-of-thought taught AI to reason one step at a time
+- [Morris Chang](/en/people/tsmc-morris-chang) — NVIDIA's most important partner, the founder of TSMC, and a friend of Huang's for more than thirty years, tying together the global AI supply chain
+- [Taiwanese company: TSMC](/en/economy/tsmc) — the Taiwanese company that manufactures NVIDIA's most advanced chips, and the "world hero" in Huang's words
+- [Taiwan's semiconductor industry](/en/technology/taiwan-semiconductor-industry) — Huang's and Lisa Su's chips are both manufactured on this island; this is Taiwan's silicon shield
+- [NVIDIA in Taiwan: The world's most expensive company does not make a single chip itself](/en/technology/nvidia-in-taiwan) — the company he founded lives in symbiosis with this island's industries: chips, servers, headquarters, and a NT$4.434 billion land deal
+- [Chi Huai-Hsin: The Taiwanese Who Taught AI to "Think Step by Step"](/en/people/chi-huai-hsin) — another Taiwanese standing at the AI frontier; Huang's chips make AI run fast, Chi Huai-Hsin's chain-of-thought taught AI to reason one step at a time
 
 ## Image Sources
 

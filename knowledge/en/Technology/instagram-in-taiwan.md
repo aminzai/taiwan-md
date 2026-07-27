@@ -69,7 +69,7 @@ The rise of "Cui" perhaps illustrates one thing: when filters have become refine
 
 **Further Reading**:
 
-- [Facebook: From the Crazy Farming Craze to the Double-Edged Sword of Digital Democracy](/technology/Facebook) — Meta, IG's parent company, has another stronghold in Taiwan. From the 2009 _Happy Farm_ craze to the 2025 censorship controversies, it is necessary background for understanding Meta's Taiwan strategy.
+- [Facebook: From the Crazy Farming Craze to the Double-Edged Sword of Digital Democracy](/en/technology/facebook-in-taiwan) — Meta, IG's parent company, has another stronghold in Taiwan. From the 2009 _Happy Farm_ craze to the 2025 censorship controversies, it is necessary background for understanding Meta's Taiwan strategy.
 - [Threads in Taiwan](/technology/Threads%20%E5%9C%A8%E5%8F%B0%E7%81%A3) — IG's "Cui" alter ego, how it exploded from zero to become the third largest platform in Taiwan in 2024, and its symbiotic and competitive relationship with IG.
 - [History of Migration in Taiwan's Online Communities](/technology/%E5%8F%B0%E7%81%A3%E7%B6%B2%E8%B7%AF%E7%A4%BE%E7%BE%A4%E9%81%8B%E7%A7%BB%E5%8F%B2) — From BBS, Wretch, Plurk to Facebook, IG, and Threads, the collective migration history of Taiwan's internet users provides a long-term perspective for understanding IG's declining trend.
 

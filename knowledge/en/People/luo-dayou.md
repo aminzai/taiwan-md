@@ -175,11 +175,11 @@ With a lifetime of drifting, he asked the question of Taiwan, “Who am I?” on
 
 **Further Reading**:
 
-- [Taiwanese Pop Music: From Nakasi to Jay Chou, How an Island Made Song Its Own Voice](/music/台灣流行音樂) — Lo Ta-yu is the key figure connecting what came before and after in this general history
-- [Taiwan Campus Folk Movement: How “Sing Our Own Songs” Rewrote Taiwanese Pop Music](/music/台灣民歌運動) — the wave before Lo Ta-yu’s rise; to understand him, one must first understand this era
-- [Pop Music and the Golden Melody Awards: How Taiwan Uses One Award to Define Sinophone Music](/music/金曲獎) — Lo Ta-yu received the Special Contribution Award at the 32nd Golden Melody Awards in 2021
-- [Sylvia Chang: From Ingenue to Golden Horse Best Actress, a Dual Legend of Taiwanese Cinema and Music](/people/張艾嘉) — the 1981 album _Childhood_ first introduced Lo Ta-yu’s “Childhood” and “The Story of Time”
-- [Sanmao: A Generational Legend of Wandering Literature](/people/三毛) — screenwriter of the film _Red Dust_ (the song’s lyrics and music were in fact by Lo Ta-yu)
+- [Taiwanese Pop Music: From Nakasi to Jay Chou, How an Island Made Song Its Own Voice](/en/music/golden-melodies-legacy-taiwan-pop-music) — Lo Ta-yu is the key figure connecting what came before and after in this general history
+- [Taiwan Campus Folk Movement: How “Sing Our Own Songs” Rewrote Taiwanese Pop Music](/en/music/taiwan-campus-folk-song-movement) — the wave before Lo Ta-yu’s rise; to understand him, one must first understand this era
+- [Pop Music and the Golden Melody Awards: How Taiwan Uses One Award to Define Sinophone Music](/en/music/pop-music-and-golden-melody-awards) — Lo Ta-yu received the Special Contribution Award at the 32nd Golden Melody Awards in 2021
+- [Sylvia Chang: From Ingenue to Golden Horse Best Actress, a Dual Legend of Taiwanese Cinema and Music](/en/people/sylvia-chang) — the 1981 album _Childhood_ first introduced Lo Ta-yu’s “Childhood” and “The Story of Time”
+- [Sanmao: A Generational Legend of Wandering Literature](/en/people/san-mao) — screenwriter of the film _Red Dust_ (the song’s lyrics and music were in fact by Lo Ta-yu)
 
 ## Image Sources
 

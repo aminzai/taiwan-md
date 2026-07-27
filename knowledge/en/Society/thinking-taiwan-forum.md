@@ -146,11 +146,11 @@ Whether the next 30 years should walk the same road again—May 2026 is just beg
 
 **Further Reading:**
 
-- [Tsai Ing-wen](/people/蔡英文) — Founder of Thinking Taiwan Forum, founder of the Tsai Ing-wen Education Foundation, served as the seventh and eighth president of the Republic of China (Taiwan) from 2016 to 2024
-- [Lai Ching-te](/people/賴清德) — Succeeded Tsai Ing-wen as the ninth president of the Republic of China (Taiwan); the implicit point of comparison in the _United Daily News_ "Heavyweight Commentary" when Thinking Taiwan was relaunched in October 2025
-- [PanSci](/society/泛科學) — Also a public discourse platform, but PanSci has built science communication into a hybrid of knowledge media, educational products, and creator economy
-- [Poison Potato Cognitive Warfare](/society/毒馬鈴薯認知作戰) — One of the China information warfare topics continuously discussed in Thinking Taiwan's geopolitics and political economy section
-- [Psychological Warfare](/history/心戰) — An intersecting topic with Thinking Taiwan's Policy and Thought / security section
+- [Tsai Ing-wen](/en/people/tsai-ing-wen) — Founder of Thinking Taiwan Forum, founder of the Tsai Ing-wen Education Foundation, served as the seventh and eighth president of the Republic of China (Taiwan) from 2016 to 2024
+- [Lai Ching-te](/en/people/lai-ching-te) — Succeeded Tsai Ing-wen as the ninth president of the Republic of China (Taiwan); the implicit point of comparison in the _United Daily News_ "Heavyweight Commentary" when Thinking Taiwan was relaunched in October 2025
+- [PanSci](/en/society/pansci) — Also a public discourse platform, but PanSci has built science communication into a hybrid of knowledge media, educational products, and creator economy
+- [Poison Potato Cognitive Warfare](/en/society/poisoned-potato-cognitive-warfare-taiwan) — One of the China information warfare topics continuously discussed in Thinking Taiwan's geopolitics and political economy section
+- [Psychological Warfare](/en/history/psychological-warfare) — An intersecting topic with Thinking Taiwan's Policy and Thought / security section
 
 ## References
 

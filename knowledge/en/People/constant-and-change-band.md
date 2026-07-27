@@ -162,7 +162,7 @@ And that Alishan railway, the Meigetsu Line, is still running in their songs.
 - [Wei Ru-Xuan](/en/people/waa-wei-singer) (zh only) — also in the 2010s independent music ecosystem, a female vocalist path instead of post-rock
 - [Cicada](/en/people/cicada-band) (zh only) — all-instrumental no-vocal pure post-rock, a counterpoint to KST's "post-rock + vocals"
 - [Crowd Lu](/en/people/crowd-lu-indie-folk-treasure) (zh only) — another path in independent music: compositional singer crossing the three major awards
-- [Golden Melody Awards](/music/金曲獎) — the stage coordinates where KST was nominated for Best Band at Golden Melody 32
+- [Golden Melody Awards](/en/music/pop-music-and-golden-melody-awards) — the stage coordinates where KST was nominated for Best Band at Golden Melody 32
 - [Taiwan Independent Music](/en/music/indie-music-scene) (zh only) — the generational lineage of independent music from 1976 to KST, Cao Dong, and Sunset Rollercoaster
 - [Taiwan Popular Music](/en/music/pop-music-and-golden-melody-awards) (zh only) — the Mandarin popular music industry environment
 

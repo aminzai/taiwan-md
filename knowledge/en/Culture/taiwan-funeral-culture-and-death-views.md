@@ -105,9 +105,9 @@ By the end of 2023, more than 140,000 people nationwide had chosen eco-burial. 1
 
 **Further Reading**
 
-- [Taiwan's Religious and Temple Culture](/culture/台灣宗教與寺廟文化) — How folk belief influences funeral customs
-- [Taiwan's Weddings, Funerals, and Life Rites](/culture/台灣婚喪喜慶與人生禮俗) — The full spectrum of ritual, from birth to death
-- [Taiwan's Environmental Justice and NIMBY Disputes](/society/台灣環境正義與鄰避爭議) — Social conflicts over incinerator and cemetery site selection
+- [Taiwan's Religious and Temple Culture](/en/culture/taiwan-religion-and-temple-culture) — How folk belief influences funeral customs
+- [Taiwan's Weddings, Funerals, and Life Rites](/en/culture/taiwanese-life-ceremony-traditions) — The full spectrum of ritual, from birth to death
+- [Taiwan's Environmental Justice and NIMBY Disputes](/en/society/taiwan-environmental-justice-nimby-conflicts) — Social conflicts over incinerator and cemetery site selection
 
 ## References
 

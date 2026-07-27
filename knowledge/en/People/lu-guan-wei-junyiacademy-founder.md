@@ -246,10 +246,10 @@ This article uses 3 publicly licensed images and 3 official Junyi videos. All im
 
 ## Further Reading
 
-- [Yeh Ping-cheng](/people/葉丙成): PaGamO turned homework into monster-fighting, another path of gamified educational innovation
-- [Huang Kuo-chen](/people/黃國珍): Pinxue Tang and _Reading Comprehension_ turned "knowing how to read" into a teachable craft
-- [Liu An-ting](/people/劉安婷): Teach For Taiwan (TFT), the two-year program sending young people into rural classrooms
-- [Stanley Yen](/people/嚴長壽): From tourism godfather to rural education advocate, the person from whom Junyi borrowed its name
+- [Yeh Ping-cheng](/en/people/yeh-ping-cheng-education-innovator): PaGamO turned homework into monster-fighting, another path of gamified educational innovation
+- [Huang Kuo-chen](/en/people/huang-kuo-chen): Pinxue Tang and _Reading Comprehension_ turned "knowing how to read" into a teachable craft
+- [Liu An-ting](/en/people/liu-an-ting-teach-for-taiwan): Teach For Taiwan (TFT), the two-year program sending young people into rural classrooms
+- [Stanley Yen](/en/people/stanley-yen): From tourism godfather to rural education advocate, the person from whom Junyi borrowed its name
 
 ## References
 

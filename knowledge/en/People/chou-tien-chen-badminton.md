@@ -102,11 +102,11 @@ He does not run a fan page and rarely uses social media.[^1] For a player who ha
 
 **Further Reading**
 
-- [Tai Tzu‑ying](/people/戴資穎) — Taiwan’s women’s world champion of the same generation, sharing the same early coach as Chou.
-- [Li Yang](/people/李洋) — From Olympic badminton gold medalist to Taiwan’s first Minister of Sports.
-- [Kuo Hsing‑chun](/people/郭婞淳) — Another Taiwanese athlete who forged success through injury and adversity, winning Olympic weightlifting gold.
-- [Jeremy Lin](/people/林書豪) — A Taiwanese‑American who reshaped Asian‑American athletic representation.
-- [Chinese Taipei](/society/中華台北) — The “Chinese Taipei” designation under which Chou competes, with its international political background.
+- [Tai Tzu‑ying](/en/people/tai-tzu-ying) — Taiwan’s women’s world champion of the same generation, sharing the same early coach as Chou.
+- [Li Yang](/en/people/lee-yang-badminton) — From Olympic badminton gold medalist to Taiwan’s first Minister of Sports.
+- [Kuo Hsing‑chun](/en/people/kuo-hsing-chun-olympic-weightlifting-champion) — Another Taiwanese athlete who forged success through injury and adversity, winning Olympic weightlifting gold.
+- [Jeremy Lin](/en/people/jeremy-lin) — A Taiwanese‑American who reshaped Asian‑American athletic representation.
+- [Chinese Taipei](/en/society/chinese-taipei) — The “Chinese Taipei” designation under which Chou competes, with its international political background.
 
 **Image Credits**
 

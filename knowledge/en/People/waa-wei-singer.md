@@ -230,7 +230,7 @@ The most famous work is not "Ophelia," not "That Place," not those two awards �
 - Lin Yu-jia — another path from talent show into Golden Melody, perfecting stage professionalism
 - Jay Chou — the other end of the Mandopop spectrum: the superstar system vs. the work-oriented independent singer
 - Jolin Tsai — another way for a female singer to build a sonic identity, a counterpoint to Waa Wei
-- [Golden Melody Awards](/music/金曲獎) — the stage coordinates where Waa Wei twice won Best Mandarin Female Singer
+- [Golden Melody Awards](/en/music/pop-music-and-golden-melody-awards) — the stage coordinates where Waa Wei twice won Best Mandarin Female Singer
 - Taiwan Pop Music — the Mandopop industry environment
 - Taiwan Independent Music — the boundary between Naturally Curly and the 2020s Golden Melody mainstream
 

@@ -164,9 +164,9 @@ In the final paragraph of BIOS monthly’s “Trolley Problem,” Nieh said: “
 
 **Further reading**:
 
-- [Tsai Ing-wen](/people/蔡英文) — the other end of the Light Up Taiwan campaign identity and two inaugurations, tracing the context of political design commissions from 2016 to 2024
-- [Sunflower Movement](/society/太陽花學運) — the historical scene of the 4 a.m. New York Times advertisement in 2014
-- [Taiwan New Media Art](/art/台灣新媒體藝術) — the position of Aaron Nieh Workshop within Taiwan’s contemporary visual culture
+- [Tsai Ing-wen](/en/people/tsai-ing-wen) — the other end of the Light Up Taiwan campaign identity and two inaugurations, tracing the context of political design commissions from 2016 to 2024
+- [Sunflower Movement](/en/society/sunflower-movement) — the historical scene of the 4 a.m. New York Times advertisement in 2014
+- [Taiwan New Media Art](/en/art/taiwan-new-media-art) — the position of Aaron Nieh Workshop within Taiwan’s contemporary visual culture
 
 ## References
 

@@ -273,10 +273,10 @@ Every October, an elderly Hungarian woman once turned on the radio and quietly l
 
 **Further Reading**:
 
-- [Taiwan’s Public Health and Pandemic-Prevention System](/society/台灣公共衛生與防疫體系) — The full context of Taiwan’s pandemic-prevention system during COVID-19; the 2021 BNT procurement in this article is one part of that story
-- [Medical Care Act](/society/醫療法) — The regenerative medicine dual laws are special laws separated from the Medical Care Act; the Medical Care Act is the root law for institutional medical regulation in Taiwan
+- [Taiwan’s Public Health and Pandemic-Prevention System](/en/society/taiwan-public-health-epidemic-response) — The full context of Taiwan’s pandemic-prevention system during COVID-19; the 2021 BNT procurement in this article is one part of that story
+- [Medical Care Act](/en/society/medical-care-act) — The regenerative medicine dual laws are special laws separated from the Medical Care Act; the Medical Care Act is the root law for institutional medical regulation in Taiwan
 - [Development of Taiwan’s Biotechnology Industry](/technology/台灣生技產業發展) — The broader biotech context from academic research to industrialization; cell therapy and mRNA platforms are both branches within it
-- [Taiwan Healthcare and National Health Insurance](/lifestyle/台灣醫療與全民健保) — Whether cell therapy can be included in National Health Insurance reimbursement is key to the vision of an “Asian cell bank”; the NHI global budget structure also determines the commercialization pathway for regenerative medicine
+- [Taiwan Healthcare and National Health Insurance](/en/lifestyle/taiwan-healthcare-and-national-health-insurance) — Whether cell therapy can be included in National Health Insurance reimbursement is key to the vision of an “Asian cell bank”; the NHI global budget structure also determines the commercialization pathway for regenerative medicine
 - [Taiwan’s Medical Industry](/economy/台灣醫療產業) — The industrial side of new drug manufacturing and CDMO, complementing this article’s compliance perspective
 
 ## Image Sources

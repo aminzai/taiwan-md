@@ -272,18 +272,18 @@ After walking these routes, you will remember one thing: **New Taipei City is no
 
 ## Further Reading
 
-- [Keelung City](/geography/基隆市) — 22 Cities and Counties Series pilot: Keelung Harbor and Tamsui Harbor together formed northern Taiwan’s two major windows after the 1858 port opening. Keelung Harbor surpassed Tamsui Harbor in the 1910s, but the first brick of 1628 Fort San Domingo was laid two years after 1626 Fort San Salvador.
-- [Taoyuan City](/geography/桃園市) — 22 Cities and Counties Series: the ring-metropolis sibling west of New Taipei, upgraded to a special municipality in 2014, four years later than New Taipei. Taoyuan Airport opened in 1979 and took over the outward passenger gateway accumulated by Tamsui and Keelung over 100 years.
-- [Yilan County](/geography/宜蘭縣) — 22 Cities and Counties Series: New Taipei’s neighbor to the southeast. Before the Snow Mountain Tunnel opened in 2006, Yilan, New Taipei’s Shuangxi and Gongliao, and Fulong formed one connected north-coast belt.
-- [Hsinchu County](/geography/新竹縣) — 22 Cities and Counties Series: In 1875, Shen Baozhen established Tamsui County, which included all of today’s New Taipei urban area. From 1876 onward, Hsinchu County and Tamsui County stood side by side, forming northern Taiwan’s Qing administrative framework.
-- [Tamkang High School](/history/淡江中學) — Continuation of Mackay’s 1882 Oxford College. Renamed Tamkang High School in 1914, it is northern Taiwan’s earliest Western-style secondary school.
-- [Sino-French War](/history/清法戰爭) — The 1884 Battle of Hobe directly gave rise to the establishment of Taiwan Province. Liu Mingchuan became Taiwan’s first governor, and Lin Weiyuan’s donation of 200,000 taels made him a red-topped merchant.
+- [Keelung City](/en/geography/keelung-city) — 22 Cities and Counties Series pilot: Keelung Harbor and Tamsui Harbor together formed northern Taiwan’s two major windows after the 1858 port opening. Keelung Harbor surpassed Tamsui Harbor in the 1910s, but the first brick of 1628 Fort San Domingo was laid two years after 1626 Fort San Salvador.
+- [Taoyuan City](/en/geography/taoyuan-city) — 22 Cities and Counties Series: the ring-metropolis sibling west of New Taipei, upgraded to a special municipality in 2014, four years later than New Taipei. Taoyuan Airport opened in 1979 and took over the outward passenger gateway accumulated by Tamsui and Keelung over 100 years.
+- [Yilan County](/en/geography/yilan-county) — 22 Cities and Counties Series: New Taipei’s neighbor to the southeast. Before the Snow Mountain Tunnel opened in 2006, Yilan, New Taipei’s Shuangxi and Gongliao, and Fulong formed one connected north-coast belt.
+- [Hsinchu County](/en/geography/hsinchu-county) — 22 Cities and Counties Series: In 1875, Shen Baozhen established Tamsui County, which included all of today’s New Taipei urban area. From 1876 onward, Hsinchu County and Tamsui County stood side by side, forming northern Taiwan’s Qing administrative framework.
+- [Tamkang High School](/en/history/tamkang-high-school) — Continuation of Mackay’s 1882 Oxford College. Renamed Tamkang High School in 1914, it is northern Taiwan’s earliest Western-style secondary school.
+- [Sino-French War](/en/history/sino-french-war-in-taiwan) — The 1884 Battle of Hobe directly gave rise to the establishment of Taiwan Province. Liu Mingchuan became Taiwan’s first governor, and Lin Weiyuan’s donation of 200,000 taels made him a red-topped merchant.
 - [February 28 Incident](/history/二二八事件) — During the 1947 February 28 Incident, conflicts occurred in the Sanxia-Yingge area, Banqiao, and Sanchong, marking postwar trauma that reached deep into New Taipei’s districts.
-- [History of Taiwan’s Maritime Trade](/history/台灣海洋貿易史) — The full northern export history of Tamsui’s 1858 port opening, John Dodd’s 1869 oolong shipment to New York, and Tamsui’s 57% share of Taiwan’s trade from 1864 to 1894.
-- [History of Taiwan Railways](/history/台灣鐵道史) — The railway context of the 1921 Taiyang Mining Co. coal line and the 1929 Government-General purchase and renaming as the Pingxi Line.
+- [History of Taiwan’s Maritime Trade](/en/history/taiwan-maritime-trade-history) — The full northern export history of Tamsui’s 1858 port opening, John Dodd’s 1869 oolong shipment to New York, and Tamsui’s 57% share of Taiwan’s trade from 1864 to 1894.
+- [History of Taiwan Railways](/en/history/TBD-NEEDS-SLUG) — The railway context of the 1921 Taiyang Mining Co. coal line and the 1929 Government-General purchase and renaming as the Pingxi Line.
 - [Taiwanese Traditional Crafts and Intangible Cultural Heritage](/culture/台灣傳統工藝與無形文化資產) — The craft chain of Yingge ceramics from 1804, Sankakuyū indigo dyeing from 1886 to 1920, and Li Mei-shu’s Sanxia Zushi Temple carvings from 1947.
-- [Taiwanese Religion and Temple Culture](/culture/台灣宗教與寺廟文化) — Further reading on Sanxia Changfu Yan and the belief culture associated with the Banqiao Lin Family Garden.
-- [Cultural Map of Taiwan’s 16 Indigenous Peoples](/culture/台灣原住民族16族文化地圖) — The two Indigenous axes of Wulai’s Tranan Atayal community and the Shihsanhang site’s Ketagalan people.
+- [Taiwanese Religion and Temple Culture](/en/culture/taiwan-religion-and-temple-culture) — Further reading on Sanxia Changfu Yan and the belief culture associated with the Banqiao Lin Family Garden.
+- [Cultural Map of Taiwan’s 16 Indigenous Peoples](/en/culture/indigenous-peoples-16-tribes-cultural-map) — The two Indigenous axes of Wulai’s Tranan Atayal community and the Shihsanhang site’s Ketagalan people.
 
 ## Image Sources
 

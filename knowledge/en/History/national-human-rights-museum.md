@@ -325,9 +325,9 @@ What can be frozen is not this museum. It is this unfinished memory infrastructu
 
 **Further Reading**:
 
-- [Green Island Prison](/history/綠島監獄) — The layered memory of the same island, from political black jail to “hometown of big brothers.” This article focuses on the museum as an institution; that article addresses spatial memory
-- [Martial Law Period](/history/戒嚴時期) — The 38 years of martial law from 1949 to 1987, the legal foundation of the history displayed by this museum
-- [Taiwan White Terror](/history/台灣白色恐怖) — 29,407 military law cases and 140,000 victimized families, the concrete scale memorialized by the Tearful Monument
+- [Green Island Prison](/en/history/green-island-prison) — The layered memory of the same island, from political black jail to “hometown of big brothers.” This article focuses on the museum as an institution; that article addresses spatial memory
+- [Martial Law Period](/en/history/martial-law-era) — The 38 years of martial law from 1949 to 1987, the legal foundation of the history displayed by this museum
+- [Taiwan White Terror](/en/history/taiwan-white-terror) — 29,407 military law cases and 140,000 victimized families, the concrete scale memorialized by the Tearful Monument
 - [Taiwan Transitional Justice](/history/台灣轉型正義) — The struggle of revoking six thousand judgments without managing to hold perpetrators accountable; this article is one institutional slice of that struggle
 - [February 28 Incident](/history/二二八事件) — Postwar Taiwan’s largest civil uprising, the starting point that gave rise to 38 years of martial law
 

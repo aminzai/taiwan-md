@@ -113,11 +113,11 @@ And uncertainty, perhaps, is the ultimate product of this cognitive contest.
 
 **Further reading**
 
-- [Cognitive Warfare](/society/認知作戰) — The systematic framework of cognitive operations and Taiwan's response mechanisms, from academic analysis to civic education practice.
-- [Falun Gong in Taiwan](/society/法輪功在台灣) — From the Yangmingshan flower clock to Taipei 101, the same cross-strait mirror — how religious freedom became the touchstone of Taiwan's democratic values.
-- [Potter King](/people/波特王) — Taiwan's first creator to publicly expose details of an influencer united-front invitation; the full story of the exposé incident.
-- [Bajiong](/people/八炯) — From united-front documentary to Ketagalan rally organizer, Taiwan's civil society's counter-attempts to cognitive warfare.
-- [The Toxic Potato Cognitive Operation](/society/毒馬鈴薯認知作戰) — A 2022 piece of disinformation about Taiwanese potatoes, as a typical case study for observing cross-strait information warfare.
+- [Cognitive Warfare](/en/society/cognitive-warfare-against-taiwan) — The systematic framework of cognitive operations and Taiwan's response mechanisms, from academic analysis to civic education practice.
+- [Falun Gong in Taiwan](/en/society/falun-gong-in-taiwan) — From the Yangmingshan flower clock to Taipei 101, the same cross-strait mirror — how religious freedom became the touchstone of Taiwan's democratic values.
+- [Potter King](/en/people/potter-king-youtuber) — Taiwan's first creator to publicly expose details of an influencer united-front invitation; the full story of the exposé incident.
+- [Bajiong](/en/people/pa-chiung-political-youtuber) — From united-front documentary to Ketagalan rally organizer, Taiwan's civil society's counter-attempts to cognitive warfare.
+- [The Toxic Potato Cognitive Operation](/en/society/poisoned-potato-cognitive-warfare-taiwan) — A 2022 piece of disinformation about Taiwanese potatoes, as a typical case study for observing cross-strait information warfare.
 
 ## References
 

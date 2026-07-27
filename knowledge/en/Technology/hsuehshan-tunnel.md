@@ -114,8 +114,8 @@ When driving through the Hsuehshan Tunnel, please slow down and obey traffic rul
 
 ## Further Reading
 
-- [Taiwan Transportation System](/lifestyle/台灣交通系統) — Understand the transportation significance of the Hsuehshan Tunnel through Taiwan's highway, rail, and public transit networks.
-- [Taiwan Urban Development and Urban-Rural Disparities](/geography/台灣都市發展與城鄉差距) — Further reading on how transportation infrastructure reshapes local development and population flows.
+- [Taiwan Transportation System](/en/lifestyle/transportation-system) — Understand the transportation significance of the Hsuehshan Tunnel through Taiwan's highway, rail, and public transit networks.
+- [Taiwan Urban Development and Urban-Rural Disparities](/en/society/taiwan-urban-development-and-rural-urban-divide) — Further reading on how transportation infrastructure reshapes local development and population flows.
 
 ## References
 

@@ -91,9 +91,9 @@ Fifty years ago, Chen Ting-chih probably could not have imagined that the roadsi
 
 ## Further reading
 
-- [Night Market Culture](/food/夜市文化) — The main circulation space for 鹽酥雞 and the central stage of Taiwan's late-night food ecosystem
-- [Taiwanese Breakfast Culture](/food/台灣早餐文化) — From early morning to deep night, a contrast between Taiwan's two most important eating windows
-- [Taiwan Convenience Store Culture](/lifestyle/台灣便利商店文化) — Together with 鹽酥雞 stalls, convenience stores form Taiwan's 24-hour food landscape
+- [Night Market Culture](/en/food/night-market-culture) — The main circulation space for 鹽酥雞 and the central stage of Taiwan's late-night food ecosystem
+- [Taiwanese Breakfast Culture](/en/food/taiwan-breakfast-culture) — From early morning to deep night, a contrast between Taiwan's two most important eating windows
+- [Taiwan Convenience Store Culture](/en/lifestyle/convenience-store-culture) — Together with 鹽酥雞 stalls, convenience stores form Taiwan's 24-hour food landscape
 
 ## References
 

@@ -231,11 +231,11 @@ He was 76 years old.
 
 **Further Reading**:
 
-- [Cho-Yun Hsu: Writing the Long River of Chinese History With Two Fingers](/people/許倬雲) — 2024 sixth-cycle Tang Prize Sinology laureate, donated the full NT$50 million to establish the "Hsu-Sun Scholarship"
-- [Morris Chang](/people/張忠謀) — A peer-generation Taiwanese industry leader, ITRI academician, founder of TSMC
-- [Stan Shih](/people/施振榮) — A peer-generation entrepreneur-turned-philanthropist, founder of Acer
-- [Wang Yung-ching](/people/王永慶) — The previous generation's Taiwanese industry leader, founder of Formosa Plastics and Chang Gung Memorial Hospital, an early model of comparable donation scale
-- [Taiwan's Defense and Military Modernization](/society/台灣國防與軍事現代化) — Another axis of Taiwan's sovereignty preservation
+- [Cho-Yun Hsu: Writing the Long River of Chinese History With Two Fingers](/en/people/cho-yun-hsu-bridging-historian) — 2024 sixth-cycle Tang Prize Sinology laureate, donated the full NT$50 million to establish the "Hsu-Sun Scholarship"
+- [Morris Chang](/en/people/tsmc-morris-chang) — A peer-generation Taiwanese industry leader, ITRI academician, founder of TSMC
+- [Stan Shih](/en/people/stan-shih) — A peer-generation entrepreneur-turned-philanthropist, founder of Acer
+- [Wang Yung-ching](/en/people/yung-ching-wang-formosa-plastics-founder) — The previous generation's Taiwanese industry leader, founder of Formosa Plastics and Chang Gung Memorial Hospital, an early model of comparable donation scale
+- [Taiwan's Defense and Military Modernization](/en/society/taiwan-defense-modernization) — Another axis of Taiwan's sovereignty preservation
 
 ## Image Credits
 
@@ -309,7 +309,7 @@ This article uses 5 CC BY-licensed or government open data images, all cached in
 
 [^30]: [2020 Tang Prize — Jane Goodall wins Sustainable Development Prize](https://www.gbimonthly.com/2020/06/72629/) — Global Biotech & Medicine Monthly, 2020 report, documenting fourth-cycle Tang Prize Sustainable Development laureate Jane Goodall's research contributions and award background.
 
-[^31]: [2024 Tang Prize Sinology laureate Cho-Yun Hsu](https://www.tang-prize.org/owner.php?Lang=tw) — Tang Prize Education Foundation official sixth-cycle Sinology laureate page, documenting Cho-Yun Hsu's academic contributions and award rationale; see corresponding in-depth article at [Cho-Yun Hsu: Writing the Long River of Chinese History With Two Fingers](/people/許倬雲).
+[^31]: [2024 Tang Prize Sinology laureate Cho-Yun Hsu](https://www.tang-prize.org/owner.php?Lang=tw) — Tang Prize Education Foundation official sixth-cycle Sinology laureate page, documenting Cho-Yun Hsu's academic contributions and award rationale; see corresponding in-depth article at [Cho-Yun Hsu: Writing the Long River of Chinese History With Two Fingers](/en/people/cho-yun-hsu-bridging-historian).
 
 [^32]: [2012 National Security Secret Accounts Case — one-year deferred prosecution, NT$1 million paid](https://www.ettoday.net/news/20120806/1542044.htm) — ETtoday, August 6, 2012, reporting Yin pleading guilty in court, voluntarily paying NT$1 million to the public treasury, and receiving a one-year deferred prosecution, with charges of violating the _Commercial Accounting Act_ and _Forgery of Documents_.
 

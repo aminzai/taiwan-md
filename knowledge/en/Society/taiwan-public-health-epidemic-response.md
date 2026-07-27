@@ -91,12 +91,12 @@ Twenty-three years after the Hoping Hospital lockdown, that building still stand
 
 **Further reading**
 
-- [Taipei Smoking Room: In a Smoke-Free City, the Glass Booth That Breathes](/society/台北吸菸室) — The latest chapter in a four-decade campaign against tobacco harm, as the battleground shifts from indoors to outdoors
+- [Taipei Smoking Room: In a Smoke-Free City, the Glass Booth That Breathes](/en/society/taipei-smoking-room) — The latest chapter in a four-decade campaign against tobacco harm, as the battleground shifts from indoors to outdoors
 
-- [Taiwan Healthcare and National Health Insurance](/lifestyle/台灣醫療與全民健保) — The foundational infrastructure of the epidemic response system: the NHI database of 23.4 million people
+- [Taiwan Healthcare and National Health Insurance](/en/lifestyle/taiwan-healthcare-and-national-health-insurance) — The foundational infrastructure of the epidemic response system: the NHI database of 23.4 million people
 - [Audrey Tang](/people/唐鳳) — The digital minister behind the mask map
-- [Taiwan's Disaster Medicine System](/technology/台灣災難醫療體系) — From 921 to SARS: how disasters have driven medical evolution
-- [Regenerative Medicine Dual Laws × 30 Years of mRNA](/society/台灣再生醫療雙法沿革從業人員告白) — The dual narrative of the 2021 BNT procurement and cell therapy legislation; an extended perspective on this article's COVID epidemic response
+- [Taiwan's Disaster Medicine System](/en/technology/taiwan-disaster-medicine-system) — From 921 to SARS: how disasters have driven medical evolution
+- [Regenerative Medicine Dual Laws × 30 Years of mRNA](/en/society/taiwan-regenerative-medicine-laws) — The dual narrative of the 2021 BNT procurement and cell therapy legislation; an extended perspective on this article's COVID epidemic response
 
 ## References
 

@@ -26,7 +26,8 @@ lastHumanReview: false
 category: People
 featured: false
 ---
-> **30-second overview:** Lien Ying (Erin), born April 27, 1999 in Taichung. She began studying ballet, folk dance, and Chinese classical dance in second grade, switching to street dance in high school. In 2020 she competed on _Diamond Generation DD52_, and in the second episode she said to mentor Pan Wei-Po: "I want everyone to know the standard of dance a girl group should have" — a line that became her defining label. The DD52 runner-up team Storm Spades debuted as [HUR+](/people/HUR-plus), and she was the main dancer. In 2025 she released her debut solo EP _EZ_, a hip-hop/R&B record with Taiwanese-language elements and a street sound that deliberately avoided the safe ballad path. On her birthday in 2026, fans crowdfunded a stage at Dadaocheng where she premiered a new song, "A Second Too Late." She continues to release group albums while pushing her solo career simultaneously — the first girl group member in Taiwan to do this.
+
+> **30-second overview:** Lien Ying (Erin), born April 27, 1999 in Taichung. She began studying ballet, folk dance, and Chinese classical dance in second grade, switching to street dance in high school. In 2020 she competed on _Diamond Generation DD52_, and in the second episode she said to mentor Pan Wei-Po: "I want everyone to know the standard of dance a girl group should have" — a line that became her defining label. The DD52 runner-up team Storm Spades debuted as [HUR+](/en/people/hur-plus-band), and she was the main dancer. In 2025 she released her debut solo EP _EZ_, a hip-hop/R&B record with Taiwanese-language elements and a street sound that deliberately avoided the safe ballad path. On her birthday in 2026, fans crowdfunded a stage at Dadaocheng where she premiered a new song, "A Second Too Late." She continues to release group albums while pushing her solo career simultaneously — the first girl group member in Taiwan to do this.
 
 June 19, 2020. Episode two of _Diamond Generation DD52_.
 
@@ -63,7 +64,7 @@ In DD52's official player profile, she described herself this way: "I'm a very t
 
 September 4, 2020. The DD52 finale. Storm Spades, with Lien Ying, scored 55.4 points — falling short of Storm Hearts' 57.9 — and took the runner-up position[^5].
 
-After the show, producer Felipe.Z signed all six members of Storm Spades and founded [HUR+](/people/HUR-plus). Lien Ying's position in the group was **main dancer and sub-vocalist** — the identity she had established on DD52 with that single line translated directly into her role at debut[^2].
+After the show, producer Felipe.Z signed all six members of Storm Spades and founded [HUR+](/en/people/hur-plus-band). Lien Ying's position in the group was **main dancer and sub-vocalist** — the identity she had established on DD52 with that single line translated directly into her role at debut[^2].
 
 November 6, 2020: HUR debuted. DD52 won the 56th Golden Bell Award for Best Variety Program[^5].
 
@@ -170,11 +171,11 @@ Starting dance in second grade, transitioning in high school, being a trainee, e
 
 ## Further Reading
 
-- [HUR+](/people/HUR-plus) — Lien Ying's group. DD52 runners-up; the only one of the three debut groups still releasing albums six years later
-- [Taiwan's New Idol Generation](/culture/台灣新偶像世代) — From DD52 to CHUANG ASIA, Taiwan's idol competition industry experiments
-- [Jolin Tsai](/people/蔡依林) — Lien Ying's acknowledged "goddess." Another story of starting as a dancer and expanding the idol framework
-- [Yang Cheng-Lin](/people/楊丞琳) — DD52 head mentor. From 4 in Love to _Ambiguous 2025_ — twenty-five years
-- [Tzuyu](/people/周子瑜) — Another Taiwanese girl finding her place in the idol system
+- [HUR+](/en/people/hur-plus-band) — Lien Ying's group. DD52 runners-up; the only one of the three debut groups still releasing albums six years later
+- [Taiwan's New Idol Generation](/en/culture/taiwan-new-idol-generation) — From DD52 to CHUANG ASIA, Taiwan's idol competition industry experiments
+- [Jolin Tsai](/en/people/jolin-tsai) — Lien Ying's acknowledged "goddess." Another story of starting as a dancer and expanding the idol framework
+- [Yang Cheng-Lin](/en/people/rainie-yang) — DD52 head mentor. From 4 in Love to _Ambiguous 2025_ — twenty-five years
+- [Tzuyu](/en/people/tzuyu) — Another Taiwanese girl finding her place in the idol system
 
 ## References
 

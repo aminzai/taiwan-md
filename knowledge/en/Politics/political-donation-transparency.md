@@ -271,11 +271,11 @@ Twenty-two years, and an invisible money flow became traceable.
 
 ## Further Reading
 
-- [Open Source Community and g0v](/technology/開源社群與g0v) — How the civic hacker community operates and why Taiwan has this ecosystem
+- [Open Source Community and g0v](/en/technology/open-source-and-g0v) — How the civic hacker community operates and why Taiwan has this ecosystem
 - [Politics Hub](/politics) — A panoramic view of democratic infrastructure
 - [2026 Nine-in-One Elections](/politics/2026 九合一選舉) — Institutional framework and timeline of the 2026 elections
-- [CEC System](/politics/中選會制度) — Design and operation of the Central Election Commission
-- [What Are the Nine-in-One Elections](/politics/九合一選舉是什麼) — Nine positions, nine histories
+- [CEC System](/en/politics/central-election-commission) — Design and operation of the Central Election Commission
+- [What Are the Nine-in-One Elections](/en/politics/nine-in-one-elections-explained) — Nine positions, nine histories
 
 ---
 

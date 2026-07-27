@@ -92,10 +92,10 @@ The result may seem paradoxical—but when you look closely, that is the point.
 
 **Further Reading**
 
-- [Jiang Zhen‑cheng](/people/江振誠) — From a technical school in Tamsui to world rank 14, another chef who conquered the international stage with Taiwanese flavors.
-- [Map of Taiwan’s 16 Indigenous Peoples](/culture/台灣原住民族16族文化地圖) — Cultural context of the Paiwan millet wine used in the lychee‑rose loaf.
-- [Night‑market culture](/food/夜市文化) — The grassroots food culture that underpins Wu Pao‑chun’s ingredient aesthetics.
-- [Huang Shan‑liao](/people/黃山料) — Another Taiwanese who won on the world stage (London Fashion Week) but chose a different path: leaving the craft to turn “visibility” into a bestseller.
+- [Jiang Zhen‑cheng](/en/people/andre-chiang-taiwanese-culinary-innovator) — From a technical school in Tamsui to world rank 14, another chef who conquered the international stage with Taiwanese flavors.
+- [Map of Taiwan’s 16 Indigenous Peoples](/en/culture/indigenous-peoples-16-tribes-cultural-map) — Cultural context of the Paiwan millet wine used in the lychee‑rose loaf.
+- [Night‑market culture](/en/food/night-market-culture) — The grassroots food culture that underpins Wu Pao‑chun’s ingredient aesthetics.
+- [Huang Shan‑liao](/en/people/huang-shan-liao) — Another Taiwanese who won on the world stage (London Fashion Week) but chose a different path: leaving the craft to turn “visibility” into a bestseller.
 
 ## References
 

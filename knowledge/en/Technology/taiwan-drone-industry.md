@@ -150,10 +150,10 @@ Thunder Tiger's production line in Taichung, which began with radio-controlled t
 
 **Further reading**
 
-- [Taiwan's Defense and Military Modernization](/society/台灣國防與軍事現代化) — The full picture behind the porcupine strategy and 200,000 drones
-- [Semiconductor Industry](/technology/半導體產業) — Taiwan's previous strategic industry, born from geopolitics
-- [Taiwan's Space Industry Development](/technology/台灣太空產業發展) — From drones to satellites, Taiwan's ambitions in the sky
-- [Taiwan's Robotics Industry](/technology/台灣機器人產業) — Another case of "strong components, weak complete systems," sharing the same structural challenges as drones
+- [Taiwan's Defense and Military Modernization](/en/society/taiwan-defense-modernization) — The full picture behind the porcupine strategy and 200,000 drones
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — Taiwan's previous strategic industry, born from geopolitics
+- [Taiwan's Space Industry Development](/en/technology/taiwan-space-industry-development) — From drones to satellites, Taiwan's ambitions in the sky
+- [Taiwan's Robotics Industry](/en/technology/taiwan-robotics-industry) — Another case of "strong components, weak complete systems," sharing the same structural challenges as drones
 
 ## References
 

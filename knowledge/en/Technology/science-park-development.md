@@ -144,9 +144,9 @@ Forty-five years ago, that rice field bet on survival. After the bet was won, th
 
 **Further Reading**:
 
-- [The Semiconductor Industry](/technology/半導體產業) — The fifty-year materials revolution from RCA technology transfer to gallium nitride and quantum packaging, and how the chips in the parks became the most advanced in the world
-- [Taiwan’s Top 50 Companies](/economy/台灣前50大企業) — The “sacred mountain that protects the nation” supports a table, and also supports a single-point-of-failure country: the other side of science park output concentration
-- [Island of Mountains: A Century’s Wager](/art/造山者世紀的賭注) — Hsiao Chu-chen’s 2025 documentary, built on five years of interviews with more than eighty semiconductor pioneers, turning this wager of the century into film
+- [The Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — The fifty-year materials revolution from RCA technology transfer to gallium nitride and quantum packaging, and how the chips in the parks became the most advanced in the world
+- [Taiwan’s Top 50 Companies](/en/economy/top-50-companies-taiwan) — The “sacred mountain that protects the nation” supports a table, and also supports a single-point-of-failure country: the other side of science park output concentration
+- [Island of Mountains: A Century’s Wager](/en/art/mountain-makers-tsmc-documentary) — Hsiao Chu-chen’s 2025 documentary, built on five years of interviews with more than eighty semiconductor pioneers, turning this wager of the century into film
 
 ---
 

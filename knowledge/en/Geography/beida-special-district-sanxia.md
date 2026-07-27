@@ -164,9 +164,9 @@ In 2026, as Sanying Line trains officially begin service, Beida Special District
 
 ## Further Reading
 
-- [Taiwan's Urban Development and the Urban-Rural Divide](/geography/台灣都市發展與城鄉差距) — Placing Beida Special District back into the long-term context of Taiwan's rezoning areas and urban expansion.
-- [Linkou New Town](/geography/林口新市鎮) — A comparison of how a new town also once called a "ghost town" matured.
-- [Sanxia Tea](/food/三峽茶) — Further reading on the cultural underpinnings of Sanxia's old urban area and local industry.
+- [Taiwan's Urban Development and the Urban-Rural Divide](/en/society/taiwan-urban-development-and-rural-urban-divide) — Placing Beida Special District back into the long-term context of Taiwan's rezoning areas and urban expansion.
+- [Linkou New Town](/en/geography/linkou-new-town) — A comparison of how a new town also once called a "ghost town" matured.
+- [Sanxia Tea](/en/food/sanxia-tea) — Further reading on the cultural underpinnings of Sanxia's old urban area and local industry.
 
 ## References
 

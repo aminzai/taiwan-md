@@ -201,13 +201,13 @@ Africa’s last diplomatic lifeline hangs on one person. That is both its most m
 
 **Further Reading**:
 
-- [Taiwan’s Diplomatic Allies and International Diplomacy](/society/台灣邦交國與國際外交) — The three-layer structure of 12 diplomatic allies vs. 113 overseas offices vs. 177 visa-free destinations, with Eswatini as the most critical African piece
-- [Lai Ching-te](/people/賴清德) — From Tainan physician to president of the Republic of China, the evolution of Lai Ching-te’s foreign-relations discourse after taking office
-- [Tsai Ing-wen](/people/蔡英文) — The president who visited Eswatini twice, with 2018 and 2023 marking two stages in Taiwan-Eswatini diplomatic relations
-- [Sunflower Movement](/society/太陽花學運) — How the streets of 2014 became the foundation for institutional foreign-facing discourse in 2024-2025
-- [The 2026 Cheng-Xi Meeting and the KMT-CCP Reunion After Ten Years](/society/2026鄭習會與國共十年再會) — Cross-strait dynamics from the same period, providing the broader context for understanding China’s pressure on Taiwan
-- [Cognitive Warfare](/society/認知作戰) — A more systematic framework for China’s language operations, such as “rat” and “smuggling-style external separatist activities”
-- [Paraguay and Taiwan](/society/巴拉圭與台灣) — Taiwan’s only diplomatic ally in South America, another relationship sustained by long-term cooperation under Chinese pressure
+- [Taiwan’s Diplomatic Allies and International Diplomacy](/en/society/taiwan-diplomatic-allies-and-international-relations) — The three-layer structure of 12 diplomatic allies vs. 113 overseas offices vs. 177 visa-free destinations, with Eswatini as the most critical African piece
+- [Lai Ching-te](/en/people/lai-ching-te) — From Tainan physician to president of the Republic of China, the evolution of Lai Ching-te’s foreign-relations discourse after taking office
+- [Tsai Ing-wen](/en/people/tsai-ing-wen) — The president who visited Eswatini twice, with 2018 and 2023 marking two stages in Taiwan-Eswatini diplomatic relations
+- [Sunflower Movement](/en/society/sunflower-movement) — How the streets of 2014 became the foundation for institutional foreign-facing discourse in 2024-2025
+- [The 2026 Cheng-Xi Meeting and the KMT-CCP Reunion After Ten Years](/en/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Cross-strait dynamics from the same period, providing the broader context for understanding China’s pressure on Taiwan
+- [Cognitive Warfare](/en/society/cognitive-warfare-against-taiwan) — A more systematic framework for China’s language operations, such as “rat” and “smuggling-style external separatist activities”
+- [Paraguay and Taiwan](/en/society/paraguay-taiwan) — Taiwan’s only diplomatic ally in South America, another relationship sustained by long-term cooperation under Chinese pressure
 
 ## Image Sources
 

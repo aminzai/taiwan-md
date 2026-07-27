@@ -231,9 +231,9 @@ The ultimate battlefield of cognitive warfare is **trust relationships themselve
 
 - [The Mountain Makers: A Century’s Bet](/art/the-mountain-makers-a-centurys-bet) — Hsiao Ju-chen’s 2025 documentary, five years of interviews with 80+ semiconductor pioneers, entering three CHIPS Act investment hubs in 2026: Purdue, Wisconsin, Michigan
 
-- [Threads in Taiwan](/technology/threads-in-taiwan) — Taiwan’s social media migration history and the platform structure of the information battlefield
+- [Threads in Taiwan](/en/technology/threads-in-taiwan) — Taiwan’s social media migration history and the platform structure of the information battlefield
 - [Miin](/technology/miin) — Du Yi-jin and Taiwan’s AI Lab’s anti-disinformation platform, using AI to catch coordinated operation accounts (not checking content item by item)
-- [Open Culture Foundation](/technology/open-culture-foundation) — The backend organization hosting Cofacts’ verification bot, guarding Taiwan’s internet freedom
+- [Open Culture Foundation](/en/technology/open-culture-foundation) — The backend organization hosting Cofacts’ verification bot, guarding Taiwan’s internet freedom
 - [History of Taiwan’s Online Community Migration](/technology/history-of-taiwans-online-community-migration) — Understanding the role of platforms like PTT, Dcard, and Threads in cognitive warfare
 - [Taiwan Media and Press Freedom](/society/taiwan-media-and-press-freedom) — News ecology and platform responsibility in cognitive warfare
 - [Shen Pei-yang](/people/shen-pei-yang) — One of the main researchers on cognitive warfare; in 2025, became the first Taiwanese elected official investigated by China for the "crime of splitting the country"

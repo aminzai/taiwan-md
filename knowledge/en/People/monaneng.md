@@ -189,11 +189,11 @@ In the final section of that 1989 poetry collection, “We No Longer See Darknes
 
 **Further Reading**:
 
-- [Chen Yingzhen](/people/陳映真) — wrote the long preface “A Colonial Poet within Taiwan” for Monaneng’s 1989 poetry collection; a central figure in left-wing pro-unification literary circles
-- [The History and Name-Rectification Movement of Taiwan’s Indigenous Peoples](/history/台灣原住民族歷史與正名運動) — a complete movement history from the 1984 Indigenous Rights Association to the 2017 overnight protest on Ketagalan Boulevard, including the context of the 1988 Return Our Land movement
-- [Prehistory and Indigenous Peoples](/history/史前時代與原住民) — the long-term background of Taiwan’s Indigenous peoples on this island
+- [Chen Yingzhen](/en/people/chen-yingzhen) — wrote the long preface “A Colonial Poet within Taiwan” for Monaneng’s 1989 poetry collection; a central figure in left-wing pro-unification literary circles
+- [The History and Name-Rectification Movement of Taiwan’s Indigenous Peoples](/en/history/indigenous-peoples-history-and-naming-movement) — a complete movement history from the 1984 Indigenous Rights Association to the 2017 overnight protest on Ketagalan Boulevard, including the context of the 1988 Return Our Land movement
+- [Prehistory and Indigenous Peoples](/en/history/prehistoric-era-and-indigenous-peoples) — the long-term background of Taiwan’s Indigenous peoples on this island
 - [The 228 Incident](/history/二二八事件) — a source point for the formation of postwar Taiwan’s unification-independence discourse, and the historical backdrop to Monaneng’s left-unification position
-- [Taiwan’s Democratic Transition](/history/台灣民主轉型) — the 1980s context of the lifting of martial law, the political moment in which Monaneng’s poems were written
+- [Taiwan’s Democratic Transition](/en/history/taiwan-democratization) — the 1980s context of the lifting of martial law, the political moment in which Monaneng’s poems were written
 
 ## Image Sources
 

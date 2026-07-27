@@ -62,9 +62,9 @@ Next time you bite into that crispy, caramelized tip, remember: you are tasting 
 
 ## Further Reading
 
-- **[Taiwan Street Food](/food/台灣小吃)** — The golden croissant's position on the map of Taiwanese street food as a regional souvenir
+- **[Taiwan Street Food](/en/food/taiwanese-street-food)** — The golden croissant's position on the map of Taiwanese street food as a regional souvenir
 - **[Sansia Old Street](/geography/三峽老街)** — The cultural landscape where the golden croissant took root (if the entry does not exist, this is a future development direction)
-- **[Taiwan's Pastry Culture](/food/台灣糕餅文化)** — How Han pastry craft DNA entered new-style confectionery
+- **[Taiwan's Pastry Culture](/en/food/taiwan-pastry-culture)** — How Han pastry craft DNA entered new-style confectionery
 - **[Taiwan's Souvenir Economy](/economy/台灣伴手禮經濟)** — Old-street touristification × family trademark disputes as a case study in local economy
 
 ## References

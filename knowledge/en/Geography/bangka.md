@@ -229,15 +229,15 @@ To outsiders, Wanhua is a tourist night market, the gray zone after prostitution
 
 **Further Reading**:
 
-- [Taipei City](/geography/台北市) — A basin-wide panorama across three moments: Longshan Temple in 1738, Dadaocheng in 1885, and Xinyi 101 in 2004
-- [Taiwanese Old-Street Culture and Commercial Districts](/culture/台灣老街文化與商業街區) — A historical map of 10+ old streets across Taiwan, from Qing-era ports to Japanese-period Baroque
-- [Taiwanese Religion and Temple Culture](/culture/台灣宗教與寺廟文化) — The faith structure of 15,000 temples across the island, where Wangye, Mazu, Buddhism, and Daoism share the same roof
-- [Qing Rule Period](/history/清治時期) — Taiwanese society, classification armed conflicts, and migration networks from 1683 to 1895
-- [Sino-French War](/history/清法戰爭) — The 1884-1885 French incursion into northern Taiwan, the mobilization of volunteer troops at Bangka Longshan Temple, and the victory at Tamsui
-- [Dadaocheng](/geography/大稻埕) — The commercial port opened by the defeated Tong’an people who fled from Bangka’s Bajiazhuang after the 1853 Ding-Xia Jiao Conflict, another timeline branching out from Bangka
-- [Ximending](/geography/西門町) — A sibling in the same batch 1 historic-district series; the entertainment district planned by the Japanese west of Bangka in 1896, forming a Qing-era vs. Japanese-era contrast with Bangka’s main streets
-- [Dalongdong](/geography/大龍峒) — The first refuge for the Tong'an people who retreated from Bangka's Bajiazhuang after losing the 1853 Ding-Xia Jiao Conflict; Baoan Temple became the defensive center, before they relocated again to Dadaocheng
-- [Shilin](/geography/士林) — The 1859 Zhang-Quan conflict and Bangka's 1853 Ding-Xia Jiao Conflict were two different armed clashes; together they form two ethnic-conflict landscapes in northern Taiwan under Qing rule
+- [Taipei City](/en/geography/taipei-city) — A basin-wide panorama across three moments: Longshan Temple in 1738, Dadaocheng in 1885, and Xinyi 101 in 2004
+- [Taiwanese Old-Street Culture and Commercial Districts](/en/culture/taiwan-historic-streets-and-commercial-districts) — A historical map of 10+ old streets across Taiwan, from Qing-era ports to Japanese-period Baroque
+- [Taiwanese Religion and Temple Culture](/en/culture/taiwan-religion-and-temple-culture) — The faith structure of 15,000 temples across the island, where Wangye, Mazu, Buddhism, and Daoism share the same roof
+- [Qing Rule Period](/en/history/qing-dynasty-rule) — Taiwanese society, classification armed conflicts, and migration networks from 1683 to 1895
+- [Sino-French War](/en/history/sino-french-war-in-taiwan) — The 1884-1885 French incursion into northern Taiwan, the mobilization of volunteer troops at Bangka Longshan Temple, and the victory at Tamsui
+- [Dadaocheng](/en/geography/dadaocheng) — The commercial port opened by the defeated Tong’an people who fled from Bangka’s Bajiazhuang after the 1853 Ding-Xia Jiao Conflict, another timeline branching out from Bangka
+- [Ximending](/en/geography/ximending) — A sibling in the same batch 1 historic-district series; the entertainment district planned by the Japanese west of Bangka in 1896, forming a Qing-era vs. Japanese-era contrast with Bangka’s main streets
+- [Dalongdong](/en/geography/dalongdong) — The first refuge for the Tong'an people who retreated from Bangka's Bajiazhuang after losing the 1853 Ding-Xia Jiao Conflict; Baoan Temple became the defensive center, before they relocated again to Dadaocheng
+- [Shilin](/en/geography/shilin) — The 1859 Zhang-Quan conflict and Bangka's 1853 Ding-Xia Jiao Conflict were two different armed clashes; together they form two ethnic-conflict landscapes in northern Taiwan under Qing rule
 
 ## References
 

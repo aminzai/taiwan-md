@@ -98,8 +98,8 @@ Taiwan's military service system is a long-term dialogue about "responsibility" 
 
 ## Further Reading
 
-- [Memory of Hukou Camp and Victory Road](/history/湖口營區與勝利路記憶) — Daily memories of military space
-- [Black Bear Academy](/society/黑熊學院) — Contemporary version of civil defense consciousness
+- [Memory of Hukou Camp and Victory Road](/en/history/hukou-camp-shengli-road-memory) — Daily memories of military space
+- [Black Bear Academy](/en/society/kuma-academy-civil-defense-school) — Contemporary version of civil defense consciousness
 
 ## Sources
 

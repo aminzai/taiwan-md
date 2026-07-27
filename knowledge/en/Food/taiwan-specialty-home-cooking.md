@@ -98,8 +98,8 @@ Xue Menghui flips through the agricultural almanac filled with his father's hand
 **Further Reading**:
 
 - [Taiwanese Banquet Culture](/food/台灣辦桌文化) — The most concentrated display field of handmade cuisine: from the barren land of Neimen nurturing the kingdom of banquet chefs, to a complete set of banquet ritual knowledge spanning the human, divine, and ghostly realms.
-- [Chen Yu-Hsun](/people/陳玉勳) — Director of _The Grandmaster_, bringing skills like chicken, pork stomach, and softshell turtle to the big screen.
-- [Taiwanese Seafood Culture](/food/台灣海鮮文化) — The red crabs, lobsters, and steamed fish on the main table of banquets, behind the Taiwanese seafood context.
+- [Chen Yu-Hsun](/en/people/chen-yu-hsun-taiwan-comedy-film-magician) — Director of _The Grandmaster_, bringing skills like chicken, pork stomach, and softshell turtle to the big screen.
+- [Taiwanese Seafood Culture](/en/food/taiwan-seafood-culture) — The red crabs, lobsters, and steamed fish on the main table of banquets, behind the Taiwanese seafood context.
 
 ## References
 

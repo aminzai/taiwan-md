@@ -241,18 +241,18 @@ The county with the lowest density was once home to the earliest people. The jad
 
 ## Further Reading
 
-- [Lanyu Ecosystem](/nature/蘭嶼生態系) — The endemic organisms and ecosystem of Lanyu’s volcanic island, and the biogeographic foundation that coexists with Tao traditional culture
-- [Green Island Prison](/history/綠島監獄) — The history of political-prisoner incarceration at the New Life Correction Center and Oasis Villa from 1951 to 1987, an extension of this article’s Huoshao Island section
-- [Keelung City](/geography/基隆市) — Another fault-line city in the 22 Counties and Cities Series; like Taitung, it is invisible at the scale of the capital, but its path is that of a “declining port city,” not a “lowest-density county”
-- [Penghu County](/geography/澎湖縣) — 22 Counties and Cities Series: an offshore island sovereignty choice that twice rejected gambling; like Taitung, it is one of the counties farthest from Taiwan proper, but its residents are Han migrants rather than Indigenous peoples
+- [Lanyu Ecosystem](/en/nature/orchid-island-ecosystem) — The endemic organisms and ecosystem of Lanyu’s volcanic island, and the biogeographic foundation that coexists with Tao traditional culture
+- [Green Island Prison](/en/history/green-island-prison) — The history of political-prisoner incarceration at the New Life Correction Center and Oasis Villa from 1951 to 1987, an extension of this article’s Huoshao Island section
+- [Keelung City](/en/geography/keelung-city) — Another fault-line city in the 22 Counties and Cities Series; like Taitung, it is invisible at the scale of the capital, but its path is that of a “declining port city,” not a “lowest-density county”
+- [Penghu County](/en/geography/penghu-county) — 22 Counties and Cities Series: an offshore island sovereignty choice that twice rejected gambling; like Taitung, it is one of the counties farthest from Taiwan proper, but its residents are Han migrants rather than Indigenous peoples
 - [Lienchiang County](/geography/連江縣) — 22 Counties and Cities Series: an offshore island under Taiwan’s battlefield administration for 36 years, almost parallel in time to Green Island’s 36-year history of political prisoners
-- [Taiwan’s White Terror](/history/台灣白色恐怖) — The island-wide context of political repression after 1949, with Green Island as one physical witness
-- [Land Justice and Traditional Territories of Taiwan’s Indigenous Peoples](/society/台灣原住民族土地正義與傳統領域) — Land, traditional territories, and contemporary controversies from Indigenous perspectives, and where Taitung’s six peoples sit on this map
-- [Contemporary Indigenous Singer-Songwriters](/music/當代原住民創作歌手) — From Hu Defu to Chen Chien-nien to A-Mei, the context of Nanwang as the hometown of the Golden Melody Awards
-- [Taiwan’s Coastal Landforms and Seascapes](/geography/台灣海岸地形與海洋地景) — The geological formation of the Central Mountain Range, Coastal Mountain Range, and East Rift Valley
-- [Miaoli County](/geography/苗栗縣) — 22 Counties and Cities Series: Hakka stubbornness versus the five-star magistrate paradox; like Taitung, a county misread at the scale of the capital
-- [Yilan County](/geography/宜蘭縣) — 22 Counties and Cities Series: the two Yilans before and after the Hsuehshan Tunnel, facing the same tourism pressure of “the east’s last pure land” as Taitung
-- [Chiayi City](/geography/嘉義市) — 22 Counties and Cities Series: a provincial city named “Chiayi” by an emperor yet easily overlooked, with a historical depth similar to Taitung’s
+- [Taiwan’s White Terror](/en/history/taiwan-white-terror) — The island-wide context of political repression after 1949, with Green Island as one physical witness
+- [Land Justice and Traditional Territories of Taiwan’s Indigenous Peoples](/en/society/indigenous-land-justice-and-traditional-territories) — Land, traditional territories, and contemporary controversies from Indigenous perspectives, and where Taitung’s six peoples sit on this map
+- [Contemporary Indigenous Singer-Songwriters](/en/music/contemporary-indigenous-singer-songwriters) — From Hu Defu to Chen Chien-nien to A-Mei, the context of Nanwang as the hometown of the Golden Melody Awards
+- [Taiwan’s Coastal Landforms and Seascapes](/en/geography/taiwan-coastal-landforms-and-seascapes) — The geological formation of the Central Mountain Range, Coastal Mountain Range, and East Rift Valley
+- [Miaoli County](/en/geography/miaoli-county) — 22 Counties and Cities Series: Hakka stubbornness versus the five-star magistrate paradox; like Taitung, a county misread at the scale of the capital
+- [Yilan County](/en/geography/yilan-county) — 22 Counties and Cities Series: the two Yilans before and after the Hsuehshan Tunnel, facing the same tourism pressure of “the east’s last pure land” as Taitung
+- [Chiayi City](/en/geography/chiayi-city) — 22 Counties and Cities Series: a provincial city named “Chiayi” by an emperor yet easily overlooked, with a historical depth similar to Taitung’s
 
 ## Image Sources
 

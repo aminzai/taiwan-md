@@ -168,7 +168,7 @@ Back start that November day of 1942 Those five hundred twenty-three foreign POW
 
 Every beautiful photo you take Jinguashi stacked one layer life This mountain beauty true wounds also true they same thing Next time come besides taking orange light maybe walk name wall Recognizable names few but every once was this mountain shouldered a life.
 
-**Further Reading:** [Japanese Colonial Period in Taiwan](/history/日治時期)｜[Keelung City](/geography/基隆市)｜[Guan Di Jun Worship](/culture/關聖帝君信仰)｜[The Economic Miracle](/en/economy/economic-miracle) (Post-war state capital operation Jinguashi complete context Taiwan Gold Company)｜[Alishan: Empire's Forest and Gao Yisheng Mountain](/history/阿里山：帝國的林場與高一生的山), [History of Taiwan Forest Development](/history/台灣森林開發史) (Sister pieces belonging same Japanese imperial resource colonial system)
+**Further Reading:** [Japanese Colonial Period in Taiwan](/en/history/japanese-colonial-era)｜[Keelung City](/en/geography/keelung-city)｜[Guan Di Jun Worship](/en/culture/guan-sheng-di-jun-belief)｜[The Economic Miracle](/en/economy/economic-miracle) (Post-war state capital operation Jinguashi complete context Taiwan Gold Company)｜[Alishan: Empire's Forest and Gao Yisheng Mountain](/en/history/alishan-empire-forest-and-uongu-yatauyungana), [History of Taiwan Forest Development](/en/history/taiwan-forestry-history) (Sister pieces belonging same Japanese imperial resource colonial system)
 
 ## Image Sources
 

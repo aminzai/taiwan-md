@@ -399,11 +399,11 @@ The boy who won the Tianyun Awards in high school and formed a band with seniors
 
 **Further Reading**:
 
-- [Ani Chuang and An Pu](/music/張懸與安溥) — Contemporary indie female voices, the political statement of collective indie bands
-- [Taiwan Independent Music](/music/台灣獨立音樂) — The ecology of Taiwan's indie bands
-- [Taiwan Music Festival Culture](/music/台灣音樂祭文化) — Keelung Sea Festival and the discovery platform for indie bands
-- [Mayday](/music/五月天) — Another Taiwanese benchmark band formed in 1997, contrasting different agency models
-- [Golden Melody Awards](/music/金曲獎) — The context of Sodagreen sweeping the Golden Melody Awards
+- [Ani Chuang and An Pu](/en/music/deserts-chang-and-anpu) — Contemporary indie female voices, the political statement of collective indie bands
+- [Taiwan Independent Music](/en/music/indie-music-scene) — The ecology of Taiwan's indie bands
+- [Taiwan Music Festival Culture](/en/music/taiwan-music-festival-culture) — Keelung Sea Festival and the discovery platform for indie bands
+- [Mayday](/en/music/mayday-band) — Another Taiwanese benchmark band formed in 1997, contrasting different agency models
+- [Golden Melody Awards](/en/music/pop-music-and-golden-melody-awards) — The context of Sodagreen sweeping the Golden Melody Awards
 
 ---
 

@@ -172,7 +172,7 @@ Electoral fairness is not an empty phrase — it is upheld by these counterintui
 
 ---
 
-[Politics Hub](/politics) · 2026 九合一選舉 (zh: 2026 九合一選舉) · 政治獻金透明度 (zh: 政治獻金透明度) · 九合一選舉是什麼 (zh: 九合一選舉是什麼) · 選舉公報 (zh: 選舉公報) · [Democratization](/en/History/taiwan-democratization-history/)
+[Politics Hub](/politics) · 2026 九合一選舉 (zh: 2026 九合一選舉) · 政治獻金透明度 (zh: 政治獻金透明度) · 九合一選舉是什麼 (zh: 九合一選舉是什麼) · 選舉公報 (zh: 選舉公報) · [Democratization](/en/history/taiwan-democratization-history/)
 
 ---
 

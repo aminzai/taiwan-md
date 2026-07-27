@@ -102,7 +102,7 @@ In early 2025, MediaTek appeared on TSMC's customer list for its upcoming 2nm pr
 
 ## See Also
 
-- [tsmc](/economy/tsmc)
+- [tsmc](/en/economy/tsmc)
 
 ---
 

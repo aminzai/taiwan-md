@@ -236,8 +236,8 @@ In the new era of supply chain restructuring and manufacturing reshoring, Wistro
 
 **Further reading**:
 
-- [Taiwan Enterprises: Acer](/economy/台灣企業：宏碁) — Wistron's parent. The least-favored manufacturing sibling at the time of the split, whose market cap has since surpassed the Acer brand entity that stayed focused on branding, in the AI server era.
-- [Stan Shih](/people/施振榮) — The Acer founder who made the call to split the brand and contract-manufacturing businesses into two companies; a single line — "so you thought the same thing" — set Wistron on its path to independence.
+- [Taiwan Enterprises: Acer](/en/economy/acer-pc-industry-pioneer) — Wistron's parent. The least-favored manufacturing sibling at the time of the split, whose market cap has since surpassed the Acer brand entity that stayed focused on branding, in the AI server era.
+- [Stan Shih](/en/people/stan-shih) — The Acer founder who made the call to split the brand and contract-manufacturing businesses into two companies; a single line — "so you thought the same thing" — set Wistron on its path to independence.
 
 ## References
 

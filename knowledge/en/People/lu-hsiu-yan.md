@@ -190,11 +190,11 @@ And the question of whether she should step out of Taichung or continue staying 
 
 **Further Reading**:
 
-- [鄭麗文](/people/鄭麗文) — The person who was elected 12th KMT party chair with 50.15% of the vote in October 2025. Lu Hsiu-yan's decision not to run opened the gate for her entry.
-- [韓國瑜](/people/韓國瑜) — The other pole of the 2018 Han Wave, who flipped blue territory to blue the same year as Lu Hsiu-yan; Legislative Yuan Speaker in 2024, one of the "3+1" for 2028.
-- [卓榮泰](/people/卓榮泰) — The first Executive Yuan Premier under the Lai Ching-te administration, the primary proponent of the NT$1.25 trillion arms procurement proposal, and the political counterpart to Lu's "NT$800 billion–NT$1 trillion" arms procurement range.
-- [台灣國防與軍事現代化](/society/台灣國防與軍事現代化) — The full context of the NT$1.25 trillion arms procurement debate, drones, and asymmetric warfare capabilities that formed the political backdrop to Lu Hsiu-yan's 2026 U.S. visit.
-- [台灣環境正義與鄰避爭議](/society/台灣環境正義與鄰避爭議) — The NIMBY structures behind the Taichung Power Plant, PM2.5, and energy transition — the policy battlefield on which Lu Hsiu-yan won Taichung in 2018 with the air issue.
+- [鄭麗文](/en/people/cheng-li-wun) — The person who was elected 12th KMT party chair with 50.15% of the vote in October 2025. Lu Hsiu-yan's decision not to run opened the gate for her entry.
+- [韓國瑜](/en/people/han-kuo-yu) — The other pole of the 2018 Han Wave, who flipped blue territory to blue the same year as Lu Hsiu-yan; Legislative Yuan Speaker in 2024, one of the "3+1" for 2028.
+- [卓榮泰](/en/people/cho-jung-tai) — The first Executive Yuan Premier under the Lai Ching-te administration, the primary proponent of the NT$1.25 trillion arms procurement proposal, and the political counterpart to Lu's "NT$800 billion–NT$1 trillion" arms procurement range.
+- [台灣國防與軍事現代化](/en/society/taiwan-defense-modernization) — The full context of the NT$1.25 trillion arms procurement debate, drones, and asymmetric warfare capabilities that formed the political backdrop to Lu Hsiu-yan's 2026 U.S. visit.
+- [台灣環境正義與鄰避爭議](/en/society/taiwan-environmental-justice-nimby-conflicts) — The NIMBY structures behind the Taichung Power Plant, PM2.5, and energy transition — the policy battlefield on which Lu Hsiu-yan won Taichung in 2018 with the air issue.
 
 ## References
 

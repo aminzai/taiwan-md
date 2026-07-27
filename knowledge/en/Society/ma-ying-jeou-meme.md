@@ -152,9 +152,9 @@ The formation and spread of Ma Ying-jeou memes represent not only a chapter in t
 
 ## Further Reading
 
-- [Ma Ying-jeou](/people/馬英九) — The biographical article on the meme's protagonist: cross-strait bridge-builder, symbol of the 22K-salary generation, for understanding the political context behind the memes
-- [Taiwan Memes](/culture/台灣迷因) — A comprehensive overview of Taiwan's meme ecosystem: the evolutionary trajectory of different meme types from PTT's netizen encyclopedia to "elder photos" to VTubers
-- [Elder Photos](/culture/長輩圖) — Another pathway for political meme transmission: the visual political language that spreads through LINE group chats
+- [Ma Ying-jeou](/en/people/ma-ying-jeou-cross-strait-reconciliation-leader) — The biographical article on the meme's protagonist: cross-strait bridge-builder, symbol of the 22K-salary generation, for understanding the political context behind the memes
+- [Taiwan Memes](/en/culture/taiwan-meme-culture) — A comprehensive overview of Taiwan's meme ecosystem: the evolutionary trajectory of different meme types from PTT's netizen encyclopedia to "elder photos" to VTubers
+- [Elder Photos](/en/culture/elder-greeting-images) — Another pathway for political meme transmission: the visual political language that spreads through LINE group chats
 
 ## References
 

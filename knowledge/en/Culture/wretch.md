@@ -168,7 +168,7 @@ The salvaged computer’s simplest feature—being able to unplug it—later bec
 
 ## Further Reading
 
-[台灣網路社群遷徙史](/en/Technology/taiwan-online-community-migration/)、[PTT批踢踢](/en/Technology/ptt-bulletin-board-system/)、[巴哈姆特](/en/Culture/bahamut-taiwan-gaming-community/)、[Dcard](/en/Culture/dcard-taiwan-social-platform/)、[噗浪Plurk](/en/Culture/plurk-taiwan-microblog/)、[Facebook](/en/Technology/facebook-in-taiwan/)、[台灣YouTuber產業與文化](/en/Culture/taiwan-youtuber-industry/)、[台灣新偶像世代](/en/Culture/taiwan-new-idol-generation/)、[黃山料](/en/People/huang-shan-liao/)、[台灣的年級生世代](/en/Society/taiwan-generations/).
+[台灣網路社群遷徙史](/en/technology/taiwan-online-community-migration/)、[PTT批踢踢](/en/technology/ptt-bulletin-board-system/)、[巴哈姆特](/en/culture/bahamut-taiwan-gaming-community/)、[Dcard](/en/culture/dcard-taiwan-social-platform/)、[噗浪Plurk](/en/culture/plurk-taiwan-microblog/)、[Facebook](/en/technology/facebook-in-taiwan/)、[台灣YouTuber產業與文化](/en/culture/taiwan-youtuber-industry/)、[台灣新偶像世代](/en/culture/taiwan-new-idol-generation/)、[黃山料](/en/people/huang-shan-liao/)、[台灣的年級生世代](/en/society/taiwan-generations/).
 
 ## Image Credits
 

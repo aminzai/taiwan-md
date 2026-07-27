@@ -81,7 +81,7 @@ The statement is recorded because Yang was willing to say it publicly. A person 
 
 After his competitive career ended, Yang returned to Taiwan and worked in physical education, teaching at teacher-training institutions and secondary schools, and bringing back to Taiwan the knowledge he had accumulated at UCLA and in international competition. He also actively returned to the Taitung tribal community, encouraging young Amis people to enter sports.
 
-His presence directly influenced later generations of Taiwanese track-and-field athletes, including the rise of [Chi Cheng](/en/People/chi-cheng-flying-antelope/) in the 1960s. Yang Chuan-kwang was Taiwan's first Olympic medal; Chi Cheng was Taiwan's second. Eight years separated the two milestones, and during those eight years Yang continued, through his own example, to show where Taiwanese athletes could reach in international track and field.
+His presence directly influenced later generations of Taiwanese track-and-field athletes, including the rise of [Chi Cheng](/en/people/chi-cheng-flying-antelope/) in the 1960s. Yang Chuan-kwang was Taiwan's first Olympic medal; Chi Cheng was Taiwan's second. Eight years separated the two milestones, and during those eight years Yang continued, through his own example, to show where Taiwanese athletes could reach in international track and field.
 
 The starting points of these two paths were entirely different: Yang was an Amis boy from Taitung who went abroad on a UCLA scholarship; Chi Cheng was a girl from Hsinchu who went forward on a women's track-and-field path with no predecessor to emulate. But their places in Taiwan's sports history are adjacent: one opened the door to Olympic track-and-field medals, and the other walked through that door.
 

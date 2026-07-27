@@ -143,10 +143,10 @@ The truck drove off long ago. But the people who gave chase remember which way t
 
 ## Further Reading
 
-- [Taiwan Gaming Industry and Digital Entertainment](/technology/taiwan-gaming-industry) — The full panorama of Taiwanese gaming, from distribution to original development
+- [Taiwan Gaming Industry and Digital Entertainment](/en/technology/taiwan-gaming-industry) — The full panorama of Taiwanese gaming, from distribution to original development
 - [Taiwan Convenience Store Culture](/lifestyle/taiwan-convenience-store-culture) — The prerequisite for chasing delivery trucks: the world's second-densest convenience store network
-- [History of Taiwan's Online Community Migration](/technology/taiwan-online-community-migration) — The information infrastructure behind these moments of collective frenzy
-- [Softstar's Twin Classics](/technology/softstar-twin-classics) — The emotional coming-of-age for Taiwan's gamers, one generation earlier
+- [History of Taiwan's Online Community Migration](/en/technology/taiwan-online-community-migration) — The information infrastructure behind these moments of collective frenzy
+- [Softstar's Twin Classics](/en/technology/softstar-twin-classics) — The emotional coming-of-age for Taiwan's gamers, one generation earlier
 - [Into the Dungeon: Bahamut's Story](/technology/bahamut-gaming-community) — The community platform stage on which these wild moments played out
 
 ---

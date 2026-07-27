@@ -117,11 +117,11 @@ The man who signed the Treaty of South Cape, and the man who sold intelligence o
 
 **Further reading:**
 
-- [The Rover Incident and Tauketok](/history/羅發號事件與卓杞篤) — The companion piece to this article: the same history seen from Tauketok's perspective — how the Treaty of South Cape protected his people, and how the other half of the agreement betrayed them
+- [The Rover Incident and Tauketok](/en/history/rover-incident-and-tauketok) — The companion piece to this article: the same history seen from Tauketok's perspective — how the Treaty of South Cape protected his people, and how the other half of the agreement betrayed them
 - [Indigenous Peoples' History and the Rectification of Names Movement](/en/history/indigenous-peoples-history-and-naming-movement/) — The long journey of the Paiwan in the Treaty of South Cape, from "aboriginal territory" to recognized name
 - [Qing Dynasty Rule in Taiwan](/en/history/qing-dynasty-rule/) — The Qing governing structure when Le Gendre came to Taiwan, providing institutional context for the "outside our jurisdiction" response
-- [Robert Swinhoe](/people/史溫侯) — Another foreigner who left a profound record in Taiwan at the same time, but motivated by science rather than power
-- [The Sino-French War](/history/清法戰爭) — Eight years after Le Gendre left Taiwan, France attacked Taiwan using similar imperial logic
+- [Robert Swinhoe](/en/people/robert-swinhoe-naturalist) — Another foreigner who left a profound record in Taiwan at the same time, but motivated by science rather than power
+- [The Sino-French War](/en/history/sino-french-war-in-taiwan) — Eight years after Le Gendre left Taiwan, France attacked Taiwan using similar imperial logic
 
 ## References
 

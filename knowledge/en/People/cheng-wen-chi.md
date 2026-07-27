@@ -137,11 +137,11 @@ The 12-year accumulation of a peripheral platform is more important than its mer
 
 ## Further Reading
 
-- [Taiwanese Curators and the Construction of Art and Culture](/art/台灣策展人與藝術文化建構) — The discourse development and imaging trends of the generation of Taiwanese curators including Takamori Nobuo (NML Advisory).
-- [Taiwan New Media Art](/art/台灣新媒體藝術) — A forty-year digital art history from Yuan Kuang-ming's video works to VR and generative art; Chun Wen-chi's critical trajectory runs parallel to this main line.
-- [Taiwan Soundscapes](/music/台灣聲音地景) — Sound artists such as Wang Fu-rui, Yao Chung-han, and Chang Yung-ta; most of their works have been deeply reviewed in the _No Man's Land_ "Sound Scene" category.
-- [Contemporary Art](/art/當代藝術)— An overview of the overall ecosystem of Taiwan's contemporary art; a complete discursive map can be seen after adding Chun Wen-chi's archipelago framework.
-- [Taiwan Indigenous Contemporary Art](/art/台灣原住民當代藝術) — A field less frequently touched by NML; reading this allows for a comparison between the "Austronesian Homeland Hypothesis" and the potential intersections with the archipelago framework.
+- [Taiwanese Curators and the Construction of Art and Culture](/en/art/taiwanese-curators-and-artistic-cultural-construction) — The discourse development and imaging trends of the generation of Taiwanese curators including Takamori Nobuo (NML Advisory).
+- [Taiwan New Media Art](/en/art/taiwan-new-media-art) — A forty-year digital art history from Yuan Kuang-ming's video works to VR and generative art; Chun Wen-chi's critical trajectory runs parallel to this main line.
+- [Taiwan Soundscapes](/en/music/taiwan-soundscape) — Sound artists such as Wang Fu-rui, Yao Chung-han, and Chang Yung-ta; most of their works have been deeply reviewed in the _No Man's Land_ "Sound Scene" category.
+- [Contemporary Art](/en/art/contemporary-art)— An overview of the overall ecosystem of Taiwan's contemporary art; a complete discursive map can be seen after adding Chun Wen-chi's archipelago framework.
+- [Taiwan Indigenous Contemporary Art](/en/art/contemporary-indigenous-art-taiwan) — A field less frequently touched by NML; reading this allows for a comparison between the "Austronesian Homeland Hypothesis" and the potential intersections with the archipelago framework.
 
 ## References
 

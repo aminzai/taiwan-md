@@ -141,12 +141,12 @@ The difference between those two answers is Taiwan's robotics industry's real re
 **Further Reading**:
 
 - [AI Artificial Intelligence Industry](/technology/ai人工智慧產業) — An overview of Taiwan's five AI articles; robotics is physical AI, but "intelligence" and "body" remain two parallel tracks in Taiwan's industry
-- [Semiconductor Industry](/technology/半導體產業) — The entire chip foundation for robotics, and why "strong chips does not equal strong robots"
-- [Taiwan's Drone Industry](/technology/台灣無人機產業) — Another case of "strong components, weak complete machines" that can be compared with the robotics industry
-- [Taiwan's Declining Birthrate Crisis](/society/台灣少子化危機) — Why NCAIR places "home eldercare" in the top priority? The answer is in demographic structure
-- [Taiwan's Industrial Transformation and Upgrading](/economy/台灣產業轉型升級) — From OEM to brand, from components to system integration — a structural challenge that has been discussed for the past twenty years without resolution
-- [Taiwan's Machine Tool Industry](/economy/台灣機械工具產業) — The 1,500 precision machinery companies in the Taichung "Golden Valley" are the upstream foundation of robotics hardware
-- [Computex: Two of the Three International Computer Shows Are Gone, and the One That Remains Grew in Taipei](/technology/Computex) — Computex 2026 spotlights "physical AI" and embodied intelligence, where Taiwan's robotics supply chain extends from assembling AI servers to assembling robots as the annual showcase
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — The entire chip foundation for robotics, and why "strong chips does not equal strong robots"
+- [Taiwan's Drone Industry](/en/technology/taiwan-drone-industry) — Another case of "strong components, weak complete machines" that can be compared with the robotics industry
+- [Taiwan's Declining Birthrate Crisis](/en/society/taiwan-low-birth-rate-crisis) — Why NCAIR places "home eldercare" in the top priority? The answer is in demographic structure
+- [Taiwan's Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — From OEM to brand, from components to system integration — a structural challenge that has been discussed for the past twenty years without resolution
+- [Taiwan's Machine Tool Industry](/en/economy/taiwan-machine-tool-industry) — The 1,500 precision machinery companies in the Taichung "Golden Valley" are the upstream foundation of robotics hardware
+- [Computex: Two of the Three International Computer Shows Are Gone, and the One That Remains Grew in Taipei](/en/technology/computex) — Computex 2026 spotlights "physical AI" and embodied intelligence, where Taiwan's robotics supply chain extends from assembling AI servers to assembling robots as the annual showcase
 
 ## References
 

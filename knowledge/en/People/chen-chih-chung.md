@@ -54,7 +54,7 @@ Chen Chih-chung's story — from the spotlight of the "first family," to the "so
 
 **Further Reading:**
 
-- [Chen Shui-bian](/people/陳水扁): From a poor farming family to Taiwan's first popularly elected president — how did he rewrite Taiwan's political history, and why did he end up behind bars?
+- [Chen Shui-bian](/en/people/chen-shui-bian-controversial-president): From a poor farming family to Taiwan's first popularly elected president — how did he rewrite Taiwan's political history, and why did he end up behind bars?
 - Taiwan's Judicial Reform: From the Chen case to the blacklisting clause — how has Taiwan's judiciary responded to societal expectations and political pressure?
 - Social Media Politics: How are platforms like Threads changing the way Taiwan's politicians communicate with voters?
 

@@ -285,9 +285,9 @@ Realizing housing justice requires the joint effort of society as a whole. The g
 
 **Further Reading**:
 
-- [National Housing and Housing Justice](/society/國宅與居住正義) — The “government-built-and-sold” route that was abolished before the 2016 social housing policy: from the 1975 National Housing Act to its abolition in 2015, how national housing became an asset ladder, and the contemporary debate over Taoyuan’s 2026 affordable housing bringing “sale” back into the picture (a companion piece to this article)
-- [Metal-Roofed Structures](/society/鐵皮屋) — The governance dilemma posed by Taiwan’s 716,000 illegal structures; rooftop metal additions and illegal construction are part of the underlying structure of the housing justice issue
-- [Environmental Justice and NIMBY Controversies in Taiwan](/society/台灣環境正義與鄰避爭議) — The land-use extension of housing problems: unequal distribution of environmental risks and community conflicts over NIMBY facilities
+- [National Housing and Housing Justice](/en/society/public-housing-justice) — The “government-built-and-sold” route that was abolished before the 2016 social housing policy: from the 1975 National Housing Act to its abolition in 2015, how national housing became an asset ladder, and the contemporary debate over Taoyuan’s 2026 affordable housing bringing “sale” back into the picture (a companion piece to this article)
+- [Metal-Roofed Structures](/en/society/taiwan-tin-shed-houses) — The governance dilemma posed by Taiwan’s 716,000 illegal structures; rooftop metal additions and illegal construction are part of the underlying structure of the housing justice issue
+- [Environmental Justice and NIMBY Controversies in Taiwan](/en/society/taiwan-environmental-justice-nimby-conflicts) — The land-use extension of housing problems: unequal distribution of environmental risks and community conflicts over NIMBY facilities
 
 [^1]: National Land Management Agency, Ministry of the Interior, “Social Housing Promotion Results Report,” December 2024, https://pip.moi.gov.tw/v3/b/SCRB0501.aspx?mode=7
 

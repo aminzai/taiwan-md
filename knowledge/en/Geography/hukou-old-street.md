@@ -95,10 +95,10 @@ The year it was abandoned should have been the street’s end, but instead it be
 
 **Further Reading**
 
-- [Hsinchu County](/geography/新竹縣) — The broader context of Hsinchu County where Hukou lies: Hakka beliefs, the Yimin Festival, and the distinct sense of time in the Touqian River basin
-- [Hukou Camp and Victory Road Memories](/history/湖口營區與勝利路記憶) — The same Hukou, another chapter of military and political memory inside and outside the wall
-- [Hakka Food Culture](/food/客家飲食文化) — The Hakka culinary background behind street snacks such as taro and tofu
-- [Beitou Hot Spring Street](/geography/北投溫泉街) — Another old street that rose, fell, and was revived through community‑driven preservation
+- [Hsinchu County](/en/geography/hsinchu-county) — The broader context of Hsinchu County where Hukou lies: Hakka beliefs, the Yimin Festival, and the distinct sense of time in the Touqian River basin
+- [Hukou Camp and Victory Road Memories](/en/history/hukou-camp-shengli-road-memory) — The same Hukou, another chapter of military and political memory inside and outside the wall
+- [Hakka Food Culture](/en/food/hakka-food-culture) — The Hakka culinary background behind street snacks such as taro and tofu
+- [Beitou Hot Spring Street](/en/geography/beitou-hot-spring-street) — Another old street that rose, fell, and was revived through community‑driven preservation
 
 ## References
 

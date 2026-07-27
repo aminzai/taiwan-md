@@ -164,14 +164,14 @@ The 2015 Singapore meeting was a handshake; the 2026 Beijing meeting is a perfor
 
 **Further Reading:**
 
-- [Taiwan Strait Crises and the Development of Cross-Strait Relations](/history/台海危機與兩岸關係發展) (zh only) — Seventy years of cross-strait interaction from 1949 to 2016; the Cheng-Xi meeting is only the latest chapter in this long river
-- [Taiwan's Political Environment and Electoral System](/society/台灣政治環境與選舉制度) (zh only) — Understanding "why Cheng Li-wun" requires first understanding the KMT's 2025 intra-party ideological debate
-- [Taiwan's Democratic Transition](/history/台灣民主轉型) (zh only) — Why does AIT emphasize "dialogue with democratically elected leadership"? The roots of that principle are here
-- [Taiwan Defense and Military Modernization](/society/台灣國防與軍事現代化) (zh only) — Behind Cheng's "institutional arrangements to prevent war" is the political battle over the defense budget
+- [Taiwan Strait Crises and the Development of Cross-Strait Relations](/en/history/taiwan-strait-crises-and-cross-strait-relations) (zh only) — Seventy years of cross-strait interaction from 1949 to 2016; the Cheng-Xi meeting is only the latest chapter in this long river
+- [Taiwan's Political Environment and Electoral System](/en/society/taiwan-political-landscape-and-electoral-system) (zh only) — Understanding "why Cheng Li-wun" requires first understanding the KMT's 2025 intra-party ideological debate
+- [Taiwan's Democratic Transition](/en/history/taiwan-democratization) (zh only) — Why does AIT emphasize "dialogue with democratically elected leadership"? The roots of that principle are here
+- [Taiwan Defense and Military Modernization](/en/society/taiwan-defense-modernization) (zh only) — Behind Cheng's "institutional arrangements to prevent war" is the political battle over the defense budget
 - Lai Ching-te (賴清德) — The other protagonist of this drama: the one deliberately kept out of the frame
 - Cheng Li-wun (鄭麗文) — From the student activist fasting for Taiwan independence at NTU's gates in 1988, to the KMT chairperson saying "people on both sides of the strait are Chinese" in Beijing in 2026
 - [Han Kuo-yu](/en/people/han-kuo-yu/) — Legislative Yuan president; this week's presiding figure in the Legislative Yuan budget negotiations; another key actor in this drama
-- [Taiwan and Eswatini](/society/台灣與史瓦帝尼) — In the same period, Lai Ching-te's outreach to a diplomatic ally framed Taiwan as "the Republic of China (Taiwan), a sovereign state that belongs to the world" — set side by side with "compatriots on both sides of the strait are all Chinese."
+- [Taiwan and Eswatini](/en/society/taiwan-eswatini-relations) — In the same period, Lai Ching-te's outreach to a diplomatic ally framed Taiwan as "the Republic of China (Taiwan), a sovereign state that belongs to the world" — set side by side with "compatriots on both sides of the strait are all Chinese."
 
 ## References
 

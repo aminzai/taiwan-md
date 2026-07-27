@@ -1,20 +1,28 @@
 ---
-title: "Lai Ching-te: The Public Health Physician from a Mining Family to the Presidential Office"
+title: 'Lai Ching-te: The Public Health Physician from a Mining Family to the Presidential Office'
 description: "Taiwan's 16th president and the first political figure in the constitutional history of the Republic of China to run for and win the presidency while serving as vice president"
 date: 2026-03-19
-author: "Taiwan.md"
-category: "People"
-subcategory: "政治與民主"
-tags: ["President", "Physician", "Political Figure", "Democratic Progressive Party", "Public Health", "Tainan"]
+author: 'Taiwan.md'
+category: 'People'
+subcategory: '政治與民主'
+tags:
+  [
+    'President',
+    'Physician',
+    'Political Figure',
+    'Democratic Progressive Party',
+    'Public Health',
+    'Tainan',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
-translatedFrom: "People/賴清德.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:e9ba487782481314"
-sourceBodyHash: "sha256:7455a72c92fc69c9"
-translatedAt: "2026-05-20T05:08:27+08:00"
+translatedFrom: 'People/賴清德.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:e9ba487782481314'
+sourceBodyHash: 'sha256:7455a72c92fc69c9'
+translatedAt: '2026-05-20T05:08:27+08:00'
 ---
 
 # Lai Ching-te: The Public Health Physician from a Mining Family to the Presidential Office
@@ -159,23 +167,29 @@ The maintenance of diplomatic ties after he took office has also attracted close
 
 **Further Reading**:
 
-- [2026 Cheng-Xi Meeting: Ten Minutes Between KMT and CCP Leaders After Ten Years](/society/2026鄭習會與國共十年再會) — the other protagonist of this drama, the one deliberately left outside the frame
-- [Hsiao Bi-khim](/people/蕭美琴) — Lai Ching-te’s vice-presidential partner, from representative in Washington to “war cat” vice president
-- [Taiwan’s National Defense and Military Modernization](/society/台灣國防與軍事現代化) — the most representative policy of Lai’s term: the NT$1.25 trillion special budget and the formation of the M1A2T tank battalion
-- [Taiwan’s Democratic Transition](/history/台灣民主轉型) — the fact that a miner’s son from Wanli could become president is itself a product of democratic transition
-- [Lee Yang](/people/李洋) — the youngest cabinet member in history and first minister of sports, personally sworn in by Lai Ching-te
-- [Shen Pao-yang](/people/沈伯洋) — a DPP legislator-at-large listed alongside Lai as a “diehard Taiwan independence separatist,” who in 2025 became the first elected Taiwanese politician placed under investigation by China for the crime of splitting the state
-- [Cho Jung-tai](/people/卓榮泰) — Lai Ching-te’s first premier after taking office in 2024, a 38-year coordinator who in 2025-12 became the first premier in constitutional history not to countersign the Fiscal Planning Act
-- [Hsu Chiao-hsin](/people/徐巧芯) — a KMT legislator who repeatedly clashed with Lai Ching-te during questioning, and the chief promoter of the NT$800 billion version of the 2026 arms procurement controversy
-- [Taiwan and Eswatini](/society/台灣與史瓦帝尼) — Lai Ching-te’s first visit to a diplomatic ally after taking office, and the historic moment in 2026-05 when the King of Eswatini sent an A340 special aircraft to Taipei to receive him
-- [Thinking Taiwan Forum](/society/想想論壇) — when Tsai Ing-wen relaunched Thinking Taiwan Forum in 2025-10, a United Daily News “heavyweight quick take” headline, “Is Lai Ching-te Still on the Road?”, implicitly contrasted her with Lai and framed the platform’s relaunch as a reminder to Lai’s governing line
+- [2026 Cheng-Xi Meeting: Ten Minutes Between KMT and CCP Leaders After Ten Years](/en/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — the other protagonist of this drama, the one deliberately left outside the frame
+- [Hsiao Bi-khim](/en/people/hsiao-bi-khim) — Lai Ching-te’s vice-presidential partner, from representative in Washington to “war cat” vice president
+- [Taiwan’s National Defense and Military Modernization](/en/society/taiwan-defense-modernization) — the most representative policy of Lai’s term: the NT$1.25 trillion special budget and the formation of the M1A2T tank battalion
+- [Taiwan’s Democratic Transition](/en/history/taiwan-democratization) — the fact that a miner’s son from Wanli could become president is itself a product of democratic transition
+- [Lee Yang](/en/people/lee-yang-badminton) — the youngest cabinet member in history and first minister of sports, personally sworn in by Lai Ching-te
+- [Shen Pao-yang](/en/people/puma-shen) — a DPP legislator-at-large listed alongside Lai as a “diehard Taiwan independence separatist,” who in 2025 became the first elected Taiwanese politician placed under investigation by China for the crime of splitting the state
+- [Cho Jung-tai](/en/people/cho-jung-tai) — Lai Ching-te’s first premier after taking office in 2024, a 38-year coordinator who in 2025-12 became the first premier in constitutional history not to countersign the Fiscal Planning Act
+- [Hsu Chiao-hsin](/en/people/hsu-chiao-hsin) — a KMT legislator who repeatedly clashed with Lai Ching-te during questioning, and the chief promoter of the NT$800 billion version of the 2026 arms procurement controversy
+- [Taiwan and Eswatini](/en/society/taiwan-eswatini-relations) — Lai Ching-te’s first visit to a diplomatic ally after taking office, and the historic moment in 2026-05 when the King of Eswatini sent an A340 special aircraft to Taipei to receive him
+- [Thinking Taiwan Forum](/en/society/thinking-taiwan-forum) — when Tsai Ing-wen relaunched Thinking Taiwan Forum in 2025-10, a United Daily News “heavyweight quick take” headline, “Is Lai Ching-te Still on the Road?”, implicitly contrasted her with Lai and framed the platform’s relaunch as a reminder to Lai’s governing line
 
 ## References
 
 [^1]: Official website of the Office of the President, Republic of China, presidential profile, https://www.president.gov.tw/Page/694
+
 [^2]: Wikipedia entry “Lai Ching-te,” https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E6%B8%85%E5%BE%B7
+
 [^3]: Related interviews and reports from CommonWealth Magazine over the years, https://www.cw.com.tw/article/5128853
+
 [^4]: National Cheng Kung University medical college educational records, https://www.ncku.edu.tw/
+
 [^5]: Central Election Commission 2024 presidential election bulletin, https://bulletin.cec.gov.tw/
+
 [^6]: Tainan City Government annual administrative reports, https://www.tainan.gov.tw/News.aspx?n=4975&sms=13709
+
 [^7]: Wikipedia entry “Lai Ching-te,” record of study at the Harvard School of Public Health (2000-2003), https://zh.wikipedia.org/zh-tw/%E8%B3%B4%E6%B8%85%E5%BE%B7

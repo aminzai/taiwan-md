@@ -142,7 +142,7 @@ The fluorescent lights in some remote school classrooms flicker. The mountains o
 - Taiwan's Indigenous Land Justice and Traditional Territories — Many of the schools TFT operates in are in indigenous communities, where educational issues are intertwined with land justice and cultural continuity
 - Stan Shih (嚴長壽) — One of TFT's catalysts, founder of the CommonWealth Foundation; his educational experiments in Taitung and TFT are two tributaries of the same river
 - Taiwan's Volunteer Culture and Civic Participation — Taiwan's civil society tradition of volunteerism is the soil that allowed TFT to recruit 400 people
-- [Zashixiao (雜學校)](/society/雜學校) — Another alternative education startup from the same post-318 Movement era; the organizationally driven TFT and the festival-format Zashixiao represent two different curatorial approaches to education
+- [Zashixiao (雜學校)](/en/society/za-share) — Another alternative education startup from the same post-318 Movement era; the organizationally driven TFT and the festival-format Zashixiao represent two different curatorial approaches to education
 
 ## References
 

@@ -175,12 +175,12 @@ This is her greatest achievement and her deepest limitation.
 
 **Further Reading**:
 
-- [Han Kuo-yu](/people/韓國瑜) — Host of the 2026 arms procurement negotiations, a key figure present during Hsu Chiao-hsin's arms procurement controversy; the "party chairman–Legislative Yuan president" dual structure's legislative-side counterpart
-- [Cheng Li-wen](/people/鄭麗文) — Party chairman during the same arms procurement controversy, who joined forces with Fu Kun-chi to hold firm on the NT$380 billion+N party version, colliding with Hsu Chiao-hsin's NT$800 billion version
-- [Cho Jung-tai](/people/卓榮泰) — Chief proponent of the Executive Yuan's NT$1.25 trillion special arms procurement budget, the opponent framing that Hsu Chiao-hsin's version (NT$800 billion) was responding to
-- [Lai Ching-te](/people/賴清德) — The political driving force behind the NT$1.25 trillion arms procurement budget, the figure Hsu Chiao-hsin repeatedly clashed with during legislative questioning
-- [Taiwan Defense and Military Modernization](/society/台灣國防與軍事現代化) — The complete policy context of the NT$800 billion vs. NT$380 billion+N vs. NT$1.25 trillion collision
-- [Hsiao Bi-khim](/people/蕭美琴) — Another female political archetype within the same political structure, a completely opposite path from Hsu Chiao-hsin and a corresponding vision of Taiwan
+- [Han Kuo-yu](/en/people/han-kuo-yu) — Host of the 2026 arms procurement negotiations, a key figure present during Hsu Chiao-hsin's arms procurement controversy; the "party chairman–Legislative Yuan president" dual structure's legislative-side counterpart
+- [Cheng Li-wen](/en/people/cheng-li-wun) — Party chairman during the same arms procurement controversy, who joined forces with Fu Kun-chi to hold firm on the NT$380 billion+N party version, colliding with Hsu Chiao-hsin's NT$800 billion version
+- [Cho Jung-tai](/en/people/cho-jung-tai) — Chief proponent of the Executive Yuan's NT$1.25 trillion special arms procurement budget, the opponent framing that Hsu Chiao-hsin's version (NT$800 billion) was responding to
+- [Lai Ching-te](/en/people/lai-ching-te) — The political driving force behind the NT$1.25 trillion arms procurement budget, the figure Hsu Chiao-hsin repeatedly clashed with during legislative questioning
+- [Taiwan Defense and Military Modernization](/en/society/taiwan-defense-modernization) — The complete policy context of the NT$800 billion vs. NT$380 billion+N vs. NT$1.25 trillion collision
+- [Hsiao Bi-khim](/en/people/hsiao-bi-khim) — Another female political archetype within the same political structure, a completely opposite path from Hsu Chiao-hsin and a corresponding vision of Taiwan
 
 ## References
 

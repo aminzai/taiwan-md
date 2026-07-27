@@ -211,11 +211,11 @@ If one day the Taiwan island historical perspective becomes the default historic
 
 **Further reading**:
 
-- [Taiwan island historical perspective](/history/台灣島史觀) — Ts'ao Yung-ho's 1990 essay defined a historical framework with "the island as subject"; NMTH is the exhibitionary practice of this historical perspective
-- [Three Foreigners on 1895](/history/三個外國人看乙未) — historical materials from Davidson, Endo Makoto, and Hosokawa Ryu in 1895, included in NMTH's three-volume publication on the 1895 war
-- [The Camphor War of the Nineteenth Century](/history/19世紀的樟腦戰爭) — Robert Swinhoe's 1864 camphor investigation report; NMTH Collections holds the primary source
-- [The Dutch, Spanish, and Ming-Zheng Periods](/history/荷西明鄭時期) — the motif of NMTH's third permanent gallery, "An Island and People Living by the Sea," and the Transcending 1624 special exhibition
-- [Formosa](/history/福爾摩沙) — the Chinese translation of Davidson's _The Island of Formosa, Past and Present_ was published by NMTH
+- [Taiwan island historical perspective](/en/history/taiwan-island-historiography) — Ts'ao Yung-ho's 1990 essay defined a historical framework with "the island as subject"; NMTH is the exhibitionary practice of this historical perspective
+- [Three Foreigners on 1895](/en/history/three-foreigners-witness-1895-taiwan) — historical materials from Davidson, Endo Makoto, and Hosokawa Ryu in 1895, included in NMTH's three-volume publication on the 1895 war
+- [The Camphor War of the Nineteenth Century](/en/history/19th-century-camphor-wars) — Robert Swinhoe's 1864 camphor investigation report; NMTH Collections holds the primary source
+- [The Dutch, Spanish, and Ming-Zheng Periods](/en/history/dutch-spanish-and-koxinga-era) — the motif of NMTH's third permanent gallery, "An Island and People Living by the Sea," and the Transcending 1624 special exhibition
+- [Formosa](/en/history/formosa-historical-name) — the Chinese translation of Davidson's _The Island of Formosa, Past and Present_ was published by NMTH
 
 ## Image Sources
 

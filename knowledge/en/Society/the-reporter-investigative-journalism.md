@@ -266,12 +266,12 @@ Reframing "I pay NT$200 every month" from "doing a good deed" into "paying a ver
 
 ## Further Reading
 
-- [Taiwanese Media and Press Freedom](/society/台灣媒體與新聞自由) — A panorama from the withdrawal of party, government, and military forces from media to the current media ecosystem.
-- [Public Television Service](/society/公視) — Another public-media path: a broadcasting version of a "public good" supported by statutory budgets.
-- [CommonWealth Magazine](/society/天下雜誌) — Where Ho Jung-hsing worked before leaving the editor-at-large post; a representative Taiwanese commercial business and finance media outlet.
-- [Cognitive Warfare](/society/認知作戰) — United-front work, AI disinformation, and gray-zone strategy, providing background for The Reporter's 2026 united-front special report.
-- [Poisoned Potato Cognitive Warfare](/society/毒馬鈴薯認知作戰) — A concrete case study of a cognitive-warfare incident.
-- [PTT Bulletin Board System](/technology/PTT批踢踢) — Taiwan's public sphere from the pre-social-network internet era, in the same lineage as The Reporter around the idea that platforms are not necessarily neutral.
+- [Taiwanese Media and Press Freedom](/en/society/media-and-press-freedom-in-taiwan) — A panorama from the withdrawal of party, government, and military forces from media to the current media ecosystem.
+- [Public Television Service](/en/society/pts-public-television-service) — Another public-media path: a broadcasting version of a "public good" supported by statutory budgets.
+- [CommonWealth Magazine](/en/society/commonwealth-magazine) — Where Ho Jung-hsing worked before leaving the editor-at-large post; a representative Taiwanese commercial business and finance media outlet.
+- [Cognitive Warfare](/en/society/cognitive-warfare-against-taiwan) — United-front work, AI disinformation, and gray-zone strategy, providing background for The Reporter's 2026 united-front special report.
+- [Poisoned Potato Cognitive Warfare](/en/society/poisoned-potato-cognitive-warfare-taiwan) — A concrete case study of a cognitive-warfare incident.
+- [PTT Bulletin Board System](/en/technology/ptt-bulletin-board-system) — Taiwan's public sphere from the pre-social-network internet era, in the same lineage as The Reporter around the idea that platforms are not necessarily neutral.
 
 ## References
 

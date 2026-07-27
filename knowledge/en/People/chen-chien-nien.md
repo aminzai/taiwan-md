@@ -212,11 +212,11 @@ The songs his grandfather left behind, he did not “inherit” by force. He sim
 
 **Further Reading**:
 
-- [A-mei](/people/張惠妹) — Also Puyuma, also from Taitung, but on a completely opposite path: the Puyuma diva who went from Nanwang to Asia’s largest stages
-- [Contemporary Indigenous Singer-songwriters](/music/當代原住民創作歌手) — A generational map of how Taiwanese Indigenous music moved from the margins to the mainstream after the 1990s
-- [Taiwanese Folk and Vernacular Songs](/music/台灣民謠與歌謠) — Including the place of 1950s Indigenous creators such as Lu Sen-bao in the history of Taiwanese folk song
-- [Taiwanese Independent Music](/music/台灣獨立音樂) — How independent labels such as Trees Music built another path outside the mainstream music industry
-- [Popular Music and the Golden Melody Awards](/music/金曲獎) — How the Golden Melody Awards system incorporated Indigenous music creation
+- [A-mei](/en/people/a-mei) — Also Puyuma, also from Taitung, but on a completely opposite path: the Puyuma diva who went from Nanwang to Asia’s largest stages
+- [Contemporary Indigenous Singer-songwriters](/en/music/contemporary-indigenous-singer-songwriters) — A generational map of how Taiwanese Indigenous music moved from the margins to the mainstream after the 1990s
+- [Taiwanese Folk and Vernacular Songs](/en/music/Taiwan Folk Music and Songs) — Including the place of 1950s Indigenous creators such as Lu Sen-bao in the history of Taiwanese folk song
+- [Taiwanese Independent Music](/en/music/indie-music-scene) — How independent labels such as Trees Music built another path outside the mainstream music industry
+- [Popular Music and the Golden Melody Awards](/en/music/pop-music-and-golden-melody-awards) — How the Golden Melody Awards system incorporated Indigenous music creation
 
 ## References
 

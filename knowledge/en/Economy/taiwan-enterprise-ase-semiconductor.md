@@ -168,9 +168,9 @@ In this era where everyone talks about chip design and fabrication, ASE reminds 
 
 **Further Reading**:
 
-- [Taiwan Enterprise: TSMC](/economy/台灣企業：台積電) — The twin relationship between the sacred mountain protecting the nation and the back-end packaging and testing manufacturer
-- [Taiwan Enterprise: MediaTek](/economy/台灣企業：聯發科技) — Taiwan’s leading IC design house; together with ASE they form a complete supply-chain ecosystem
-- [Semiconductor Industry](/technology/半導體產業) — 50 years of materials science from the RCA technology transfer to CoWoS advanced packaging; ASE’s position in traditional packaging
+- [Taiwan Enterprise: TSMC](/en/economy/tsmc) — The twin relationship between the sacred mountain protecting the nation and the back-end packaging and testing manufacturer
+- [Taiwan Enterprise: MediaTek](/en/economy/mediatek) — Taiwan’s leading IC design house; together with ASE they form a complete supply-chain ecosystem
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — 50 years of materials science from the RCA technology transfer to CoWoS advanced packaging; ASE’s position in traditional packaging
 
 ## References
 

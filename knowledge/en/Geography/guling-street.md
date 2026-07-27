@@ -183,14 +183,14 @@ The book street was dismantled, but the pond still grows lotus flowers in the sa
 
 **Further Reading**:
 
-- [Taipei City](/geography/台北市) — A century-long narrative of the 12 districts, including the postwar formation context of Zhongzheng District, where Guling Street is located
-- [Dadaocheng](/geography/大稻埕) — Another generational memory from the old three market streets of Taipei, from commerce in 1851 to the 228 Incident in 1947
-- [Monga](/geography/艋舺) — The earliest urban street district in Qing-era Taipei, from Longshan Temple in 1738 to the 2010 film _Monga_
-- [Ximending](/geography/西門町) — From the Japanese-era entertainment district of 1896 to the subculture capital of 2026; like Guling Street, a Zhongzheng-area district formed through Japanese colonial planning
-- [Taiwan Cinema](/art/台灣電影) — The place of Edward Yang's _A Brighter Summer Day_ in the history of the New Taiwan Cinema movement
-- [Edward Yang](/people/楊德昌) — The soul of New Taiwan Cinema who made the 237-minute _A Brighter Summer Day_
-- [Gongguan](/geography/公館) — A sister landscape of postwar Mainlander scholars and used-book street culture, forming with Guling Street two clusters of Mainlander intellectuals
-- [Si Si Nan Cun](/geography/四四南村) — The military dependents' housing of an arsenal and Guling Street's used-book street as two postwar Mainlander settlement structures: "military industry vs. literati"
+- [Taipei City](/en/geography/taipei-city) — A century-long narrative of the 12 districts, including the postwar formation context of Zhongzheng District, where Guling Street is located
+- [Dadaocheng](/en/geography/dadaocheng) — Another generational memory from the old three market streets of Taipei, from commerce in 1851 to the 228 Incident in 1947
+- [Monga](/en/geography/bangka) — The earliest urban street district in Qing-era Taipei, from Longshan Temple in 1738 to the 2010 film _Monga_
+- [Ximending](/en/geography/ximending) — From the Japanese-era entertainment district of 1896 to the subculture capital of 2026; like Guling Street, a Zhongzheng-area district formed through Japanese colonial planning
+- [Taiwan Cinema](/en/art/taiwanese-cinema) — The place of Edward Yang's _A Brighter Summer Day_ in the history of the New Taiwan Cinema movement
+- [Edward Yang](/en/people/yang-dechang) — The soul of New Taiwan Cinema who made the 237-minute _A Brighter Summer Day_
+- [Gongguan](/en/geography/gongguan) — A sister landscape of postwar Mainlander scholars and used-book street culture, forming with Guling Street two clusters of Mainlander intellectuals
+- [Si Si Nan Cun](/en/geography/44-south-village) — The military dependents' housing of an arsenal and Guling Street's used-book street as two postwar Mainlander settlement structures: "military industry vs. literati"
 
 ## Image Sources
 

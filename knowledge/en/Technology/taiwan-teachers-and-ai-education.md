@@ -147,9 +147,9 @@ Hsiao Bi-khim said that in the moment of training, there is excitement and spark
 
 ## Further Reading
 
-- [Taiwan Education System](/lifestyle/台灣教育制度) — From joint college entrance exams to the 12-Year Basic Education Curriculum, looking at the institutional environment where teacher innovation resides
-- [AI Development and Future Strategy in Taiwan](/technology/台灣人工智慧發展與未來策略) — Understanding Taiwan's overall AI layout from industry and policy perspectives
-- [Taiwan AI Academy](/technology/台灣人工智慧學校) — How private training nurtured Taiwan's first batch of industrial AI talent
+- [Taiwan Education System](/en/lifestyle/taiwan-education-system) — From joint college entrance exams to the 12-Year Basic Education Curriculum, looking at the institutional environment where teacher innovation resides
+- [AI Development and Future Strategy in Taiwan](/en/technology/artificial-intelligence-development-strategy) — Understanding Taiwan's overall AI layout from industry and policy perspectives
+- [Taiwan AI Academy](/en/technology/taiwan-ai-academy) — How private training nurtured Taiwan's first batch of industrial AI talent
 
 ---
 

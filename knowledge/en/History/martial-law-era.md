@@ -132,14 +132,14 @@ If, in 2050, someone wants to know what Taiwanese in 1987 cared about, what they
 
 **Further reading**:
 
-- [Taiwan's Democratic Transition](/history/台灣民主轉型) — The full forty-year transformation from martial law to Asia's freest democratic system
-- [Taiwan White Terror](/history/台灣白色恐怖) — The real cost of 38 years of martial law: political cases, victims, and the "joint surety" system
-- [Kaohsiung Incident](/history/美麗島事件) — A key turning point in the late martial law era of 1979
-- [Democratization](/history/民主化) — Taiwan's path to democracy after the lifting of martial law
+- [Taiwan's Democratic Transition](/en/history/taiwan-democratization) — The full forty-year transformation from martial law to Asia's freest democratic system
+- [Taiwan White Terror](/en/history/taiwan-white-terror) — The real cost of 38 years of martial law: political cases, victims, and the "joint surety" system
+- [Kaohsiung Incident](/en/history/kaohsiung-incident-formosa-incident) — A key turning point in the late martial law era of 1979
+- [Democratization](/en/history/taiwan-democratization-history) — Taiwan's path to democracy after the lifting of martial law
 - [228 Incident](/history/二二八事件) — The 1947 historical turning point on the eve of martial law
 - [Taiwan Transitional Justice](/history/台灣轉型正義) — Truth investigations and accountability after the lifting of martial law
-- [Teresa Teng](/people/鄧麗君) — A Mainlander military-dependent daughter who grew up under martial law, spending her life on the Cold War frontline: from entertaining troops on Kinmen to her 1989 turn at Happy Valley wearing the "Oppose Military Rule" sign
-- [National Theater and Concert Hall](/culture/兩廳院) — Opened in 1987, the same year martial law was lifted; born from authoritarian architectural language, it witnesses the democratization of cultural space in post-martial-law Taiwan
+- [Teresa Teng](/en/people/teresa-teng) — A Mainlander military-dependent daughter who grew up under martial law, spending her life on the Cold War frontline: from entertaining troops on Kinmen to her 1989 turn at Happy Valley wearing the "Oppose Military Rule" sign
+- [National Theater and Concert Hall](/en/culture/national-theater-and-concert-hall) — Opened in 1987, the same year martial law was lifted; born from authoritarian architectural language, it witnesses the democratization of cultural space in post-martial-law Taiwan
 
 ---
 

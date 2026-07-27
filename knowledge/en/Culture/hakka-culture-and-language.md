@@ -111,12 +111,12 @@ They were asking for a chance for the next generation to still be able to open t
 
 **Further reading:**
 
-- [Indigo Dyeing](/culture/藍染) — the similarities and differences between the Hakka blue tunic and northern Sanxia's malan-based indigo craft, and the multi-ethnic reflection on whether "indigo dyeing is exclusively Hakka"
-- [Taiwan Hakka Music](/music/台灣客家音樂) — From mountain songs to rock, how Hakka music became the frontline of ethnic revitalization
-- [Hakka Food Culture](/food/客家飲食文化) — The geography and labor history behind "salty, rich, fragrant"
-- [Linguistic Diversity and Mother-Tongue Culture](/culture/語言多樣性與母語文化) — A panorama of Taiwan's multilingual environment and the mother-tongue situations of all ethnic groups
-- [Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlander, New Immigrant)](/culture/族群（閩南客家原住民外省新住民）) — The interactions of Taiwan's five major groups and contemporary ethnic politics
-- [Taiwan's Democratic Transition](/history/台灣民主轉型) — The full arc of democratization within which the Return Our Mother Tongue movement took place
+- [Indigo Dyeing](/en/culture/taiwan-indigo-dyeing) — the similarities and differences between the Hakka blue tunic and northern Sanxia's malan-based indigo craft, and the multi-ethnic reflection on whether "indigo dyeing is exclusively Hakka"
+- [Taiwan Hakka Music](/en/music/taiwan-hakka-music-from-mountain-songs-to-rock) — From mountain songs to rock, how Hakka music became the frontline of ethnic revitalization
+- [Hakka Food Culture](/en/food/hakka-food-culture) — The geography and labor history behind "salty, rich, fragrant"
+- [Linguistic Diversity and Mother-Tongue Culture](/en/culture/linguistic-diversity-and-mother-tongue-culture) — A panorama of Taiwan's multilingual environment and the mother-tongue situations of all ethnic groups
+- [Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlander, New Immigrant)](/en/culture/ethnic-groups) — The interactions of Taiwan's five major groups and contemporary ethnic politics
+- [Taiwan's Democratic Transition](/en/history/taiwan-democratization) — The full arc of democratization within which the Return Our Mother Tongue movement took place
 
 ## References
 

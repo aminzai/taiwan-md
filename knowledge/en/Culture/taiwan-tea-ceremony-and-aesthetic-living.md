@@ -137,6 +137,6 @@ The wistaria at the Wistaria Tea House blooms every spring. Chou Yu is in his ei
 ## Further Reading
 
 - [Taiwanese Tea Culture](/culture/台灣茶文化) — an in-depth guide to tea varieties and growing regions
-- [Traditional Festivals and Celebrations](/culture/傳統節慶與慶典) — the role of tea in festivals
-- [Taiwanese Sensibility: Taiwan Aesthetics Through Korean Eyes](/culture/台灣感性) — tea table aesthetics as a representative of Taiwanese slow living, also part of the "대만감성" that fascinates Koreans
-- [Hakka Culture and Language](/culture/客家文化與語言) — the connection between Oriental Beauty tea and Hakka tea country
+- [Traditional Festivals and Celebrations](/en/culture/traditional-festivals-and-celebrations) — the role of tea in festivals
+- [Taiwanese Sensibility: Taiwan Aesthetics Through Korean Eyes](/en/culture/taiwanese-sensibility) — tea table aesthetics as a representative of Taiwanese slow living, also part of the "대만감성" that fascinates Koreans
+- [Hakka Culture and Language](/en/culture/hakka-culture-and-language) — the connection between Oriental Beauty tea and Hakka tea country

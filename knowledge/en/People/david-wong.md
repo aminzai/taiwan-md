@@ -138,11 +138,11 @@ He used 61 years to become someone who refused to be defined by one song or one 
 
 **Further Reading**:
 
-- [Jonathan Lee](/people/李宗盛) — A Mandopop producer of the same generation, who also spent a lifetime writing the emotions of others; compare Wong’s “poor Chinese, relying on collaboration” with Lee’s plainspoken language of everyday life, two different paths for writing love songs.
-- [Bobby Chen](/people/陳昇) — Another creator who did not follow the mainstream and insisted on his own musical language; both proved that Mandopop could contain voices that did not try to please.
-- [Ricky Hsiao](/people/蕭煌奇) — Another highly distinctive Taiwanese voice, showing how different generations used singular vocal timbres to define the sound of an era.
-- [Pop Music and the Golden Melody Awards](/music/金曲獎) — Wong’s only Golden Melody was for arrangement, not vocal performance; that contrast is one entry point for understanding the logic of Golden Melody judging.
-- [Taiwan KTV Culture](/music/台灣KTV文化) — “You Made Me Drunk” is an evergreen on KTV request charts; see how one song became a generation’s collective memory through KTV, Taiwan’s karaoke culture.
+- [Jonathan Lee](/en/people/li-zongsheng) — A Mandopop producer of the same generation, who also spent a lifetime writing the emotions of others; compare Wong’s “poor Chinese, relying on collaboration” with Lee’s plainspoken language of everyday life, two different paths for writing love songs.
+- [Bobby Chen](/en/people/bobby-chen-indie-music-pioneer) — Another creator who did not follow the mainstream and insisted on his own musical language; both proved that Mandopop could contain voices that did not try to please.
+- [Ricky Hsiao](/en/people/ricky-hsiao-singer) — Another highly distinctive Taiwanese voice, showing how different generations used singular vocal timbres to define the sound of an era.
+- [Pop Music and the Golden Melody Awards](/en/music/pop-music-and-golden-melody-awards) — Wong’s only Golden Melody was for arrangement, not vocal performance; that contrast is one entry point for understanding the logic of Golden Melody judging.
+- [Taiwan KTV Culture](/en/music/ktv-culture) — “You Made Me Drunk” is an evergreen on KTV request charts; see how one song became a generation’s collective memory through KTV, Taiwan’s karaoke culture.
 
 ## Image Sources
 

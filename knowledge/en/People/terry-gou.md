@@ -5,7 +5,15 @@ date: 2026-03-19
 author: 'Taiwan.md'
 category: 'People'
 subcategory: '科技與企業'
-tags: ['Technology and Business', 'Hon Hai', 'Manufacturing', 'Entrepreneur', 'Fortune 500', 'Yonglin Foundation']
+tags:
+  [
+    'Technology and Business',
+    'Hon Hai',
+    'Manufacturing',
+    'Entrepreneur',
+    'Fortune 500',
+    'Yonglin Foundation',
+  ]
 readingTime: 8
 lastVerified: 2026-05-07
 lastHumanReview: true
@@ -47,7 +55,7 @@ The contract-manufacturing relationship between Apple and Hon Hai is one of the 
 
 In June 2019, Gou handed the chairmanship of Hon Hai to Young Liu and shifted his own title to group founder.[^3] That same year, Gou announced a run in the 2020 Republic of China presidential election, advocating governance through an entrepreneur’s mindset and emphasizing the stabilization of cross-strait relations.
 
-In the Kuomintang presidential primary polling in July 2019, Kaohsiung mayor [Han Kuo-yu](/en/People/han-kuo-yu/) defeated Gou, 44.8% to 27.7%.[^3] On September 12, Gou announced that he was leaving the party. Late at night on September 16, in his capacity as founder of the Hon Hai Group, he issued a statement deciding that he would “not take part in the 2020 petition campaign for president.”[^3] The key to this withdrawal was coordination and communication by Kuomintang vice chair Hau Lung-bin and others: Gou ultimately chose not to split the pan-blue vote.
+In the Kuomintang presidential primary polling in July 2019, Kaohsiung mayor [Han Kuo-yu](/en/people/han-kuo-yu/) defeated Gou, 44.8% to 27.7%.[^3] On September 12, Gou announced that he was leaving the party. Late at night on September 16, in his capacity as founder of the Hon Hai Group, he issued a statement deciding that he would “not take part in the 2020 petition campaign for president.”[^3] The key to this withdrawal was coordination and communication by Kuomintang vice chair Hau Lung-bin and others: Gou ultimately chose not to split the pan-blue vote.
 
 The exit from his first presidential attempt shaped the very different path he chose when he tried again in 2024: an independent petition drive that bypassed party mechanisms.
 

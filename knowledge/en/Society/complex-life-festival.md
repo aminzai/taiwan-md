@@ -270,9 +270,9 @@ Data Source: Complex Life Festival Official Medium, Simple Life Festival Histori
 
 **Further Reading**:
 
-- [Sunflower Student Movement](/society/太陽花學運) — The era background of the Complex Life Festival: How the 2014 movement, after dispersing on the streets, split into the People First Party, g0v, Heterogeneous School, and Complex Life Festival youth exits
-- [Heterogeneous School](/society/雜學校) — The same wave of 318 post-energy, taking the opposite path: growing into Asia's largest educational carnival, contrasting with the Complex Life Festival's "deliberately maintained small" in scale and intimacy
-- [Taiwan's Slash Generation](/society/台灣斜槓世代) — The structural background of the Complex Life Festival participants calling themselves "workaholics": How median wages and survival pressure forced this generation into multi-job holders
+- [Sunflower Student Movement](/en/society/sunflower-movement) — The era background of the Complex Life Festival: How the 2014 movement, after dispersing on the streets, split into the People First Party, g0v, Heterogeneous School, and Complex Life Festival youth exits
+- [Heterogeneous School](/en/society/za-share) — The same wave of 318 post-energy, taking the opposite path: growing into Asia's largest educational carnival, contrasting with the Complex Life Festival's "deliberately maintained small" in scale and intimacy
+- [Taiwan's Slash Generation](/en/society/taiwan-slash-generation-multi-job-economy) — The structural background of the Complex Life Festival participants calling themselves "workaholics": How median wages and survival pressure forced this generation into multi-job holders
 - [FAB DAO and the Hundred Mountains Project](/art/FAB DAO與百岳計畫) — Where Huang Tou-ni went after abandoning medicine: The next work of "integrating the cypherpunk spirit into Taiwan's digital society"
 
 ## Image Sources

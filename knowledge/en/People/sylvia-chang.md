@@ -33,7 +33,7 @@ The Sylvia Chang of that era was an idol-type star, but she did not stay there. 
 
 ## The 1980s: From Idol to Substance
 
-What truly cemented her status was her collaboration with Taiwan New Wave directors such as Edward Yang and [Hou Hsiao-hsien](/en/People/hou-hsiao-hsien/) in the 1980s, including films like _That Day, on the Beach_, which transformed her from an idol star into a serious actress.
+What truly cemented her status was her collaboration with Taiwan New Wave directors such as Edward Yang and [Hou Hsiao-hsien](/en/people/hou-hsiao-hsien/) in the 1980s, including films like _That Day, on the Beach_, which transformed her from an idol star into a serious actress.
 
 In 1986, _My Favorite_, which she wrote, directed, and starred in, won her the Golden Horse Best Actress award.[^3] From this work onward, she was no longer just an actor—she was a creator.
 

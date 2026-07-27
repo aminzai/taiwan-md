@@ -299,9 +299,9 @@ That unfinished phone call left behind an unrealized aspiration, and 10,000 peop
 
 **Further Reading**:
 
-- [The Rise of the AI Island Nation: Taiwan’s Artificial Intelligence Development and Future Strategy](/technology/AI發展) — A panoramic account of Taiwan’s AI policy architecture, industrial deployment, five strategic fields, and international cooperation
-- [Everyday AI in Taiwan](/technology/台灣AI日常) — How AI has been implemented in everyday Taiwanese settings such as convenience stores, hospitals, farms, and classrooms
-- [The Semiconductor Industry](/technology/半導體產業) — How the AI engineers trained by AIA over eight years reconnect with the existing ICT ecosystem of a semiconductor power
+- [The Rise of the AI Island Nation: Taiwan’s Artificial Intelligence Development and Future Strategy](/en/technology/ai-development-in-taiwan) — A panoramic account of Taiwan’s AI policy architecture, industrial deployment, five strategic fields, and international cooperation
+- [Everyday AI in Taiwan](/en/technology/taiwan-ai-in-daily-life) — How AI has been implemented in everyday Taiwanese settings such as convenience stores, hospitals, farms, and classrooms
+- [The Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — How the AI engineers trained by AIA over eight years reconnect with the existing ICT ecosystem of a semiconductor power
 
 ## Image Sources
 

@@ -128,13 +128,13 @@ But perhaps this is the answer Taiwan's future must grow accustomed to. Because 
 
 **Further Reading**:
 
-- [2026 Cheng-Hsi Meeting: The Ten-Minute Reunification of KMT and CCP Leaders](/society/2026鄭習會與國共十年再會) — When Cheng Li-wun spoke in Beijing, Hsiao Bi-khim's low-key response on the international stage raised another question of "who represents Taiwan"
-- [Lai Ching-te](/people/賴清德) — The other half of this pairing: a domestic technocrat meets a diplomatic cat warrior
-- [Cheng Li-wun](/people/鄭麗文) — A comparative read: two female politicians with the highest media exposure in 2026, on completely different paths
-- [Taiwan Strait Crises and Cross-Strait Relations](/history/台海危機與兩岸關係發展) — The three years Hsiao Bi-khim served in Washington were precisely the critical period of a comprehensive shift in U.S. policy toward China
-- [Taiwan's Democratic Transition](/history/台灣民主轉型) — The Presbyterian network of Hsiao Bi-khim's father at Tainan Theological College was one of the important spiritual sources of Taiwan's democratization movement
-- [Cho Jung-tai](/people/卓榮泰) — Lai Ching-te's first premier, the person who received the seal of office from Hsiao Bi-khim at the May 20, 2024 inauguration ceremony
-- [Hsu Chiao-hsin](/people/徐巧芯) — Another female political prototype within the same political structure, a completely opposite path and corresponding vision of Taiwan from Hsiao Bi-khim
+- [2026 Cheng-Hsi Meeting: The Ten-Minute Reunification of KMT and CCP Leaders](/en/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — When Cheng Li-wun spoke in Beijing, Hsiao Bi-khim's low-key response on the international stage raised another question of "who represents Taiwan"
+- [Lai Ching-te](/en/people/lai-ching-te) — The other half of this pairing: a domestic technocrat meets a diplomatic cat warrior
+- [Cheng Li-wun](/en/people/cheng-li-wun) — A comparative read: two female politicians with the highest media exposure in 2026, on completely different paths
+- [Taiwan Strait Crises and Cross-Strait Relations](/en/history/taiwan-strait-crises-and-cross-strait-relations) — The three years Hsiao Bi-khim served in Washington were precisely the critical period of a comprehensive shift in U.S. policy toward China
+- [Taiwan's Democratic Transition](/en/history/taiwan-democratization) — The Presbyterian network of Hsiao Bi-khim's father at Tainan Theological College was one of the important spiritual sources of Taiwan's democratization movement
+- [Cho Jung-tai](/en/people/cho-jung-tai) — Lai Ching-te's first premier, the person who received the seal of office from Hsiao Bi-khim at the May 20, 2024 inauguration ceremony
+- [Hsu Chiao-hsin](/en/people/hsu-chiao-hsin) — Another female political prototype within the same political structure, a completely opposite path and corresponding vision of Taiwan from Hsiao Bi-khim
 
 ## References
 

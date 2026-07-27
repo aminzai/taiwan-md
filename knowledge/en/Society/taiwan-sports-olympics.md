@@ -142,12 +142,12 @@ From the closed “Taiwan” door at Montreal in 1976 to the world calling this 
 
 ## Further Reading
 
-- [Tai Tzu-ying](/People/戴資穎): From a girl in Zuoying, Kaohsiung, to three-time world No. 1
-- [Kuo Hsing-chun](/People/郭婞淳): The weightlifting path of an athlete who medaled in three consecutive Olympics
-- [Lee Yang](/People/李洋): The Lee-Yang pair and the first men’s doubles title defense in Olympic history
-- [Yang Yung-wei](/People/楊勇緯): The training system behind a Tokyo 2020 judo silver medal
-- [Chuang Chih-yuan](/People/莊智淵): Table tennis’s solitary king with four straight Asian titles
-- [Taiwanese Baseball Culture](/Culture/台灣棒球文化): A century of baseball history from KANO to the CPBL
+- [Tai Tzu-ying](/en/people/tai-tzu-ying): From a girl in Zuoying, Kaohsiung, to three-time world No. 1
+- [Kuo Hsing-chun](/en/people/kuo-hsing-chun-olympic-weightlifting-champion): The weightlifting path of an athlete who medaled in three consecutive Olympics
+- [Lee Yang](/en/people/lee-yang-badminton): The Lee-Yang pair and the first men’s doubles title defense in Olympic history
+- [Yang Yung-wei](/en/people/yang-yung-wei-judo-olympic-silver): The training system behind a Tokyo 2020 judo silver medal
+- [Chuang Chih-yuan](/en/people/chuang-chih-yuan-table-tennis-legend): Table tennis’s solitary king with four straight Asian titles
+- [Taiwanese Baseball Culture](/en/culture/taiwan-baseball-culture): A century of baseball history from KANO to the CPBL
 
 ## References
 

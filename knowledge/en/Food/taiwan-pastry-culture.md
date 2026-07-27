@@ -135,11 +135,11 @@ A single pastry holds far more time than you might think.
 
 ## Further Reading
 
-- [Sun Cake](/food/太陽餅) — A deep history of the single item that Taichung Shen'gang's Master A-Ming Wei Qinghai refined from Kunpai Pastry Shop's malt cake
-- [Pineapple Cake](/food/鳳梨酥) — The eighty-year evolutionary path from Yifutang's pineapple big cake during the Japanese colonial era to the squaring revolution
-- [Taiwan Bread and Baking](/food/台灣麵包與烘焙) — From Wu Pao-chun to Chen Yaoxun, the story of Taiwan's bread chefs stepping onto the world stage
-- [Taiwan Rice Food Culture](/food/台灣米食文化) — Rice and pastry are two main threads on the same dining table; understanding rice is key to understanding pastry's place
-- [Taiwan Weddings, Funerals, and Life Rituals](/culture/台灣婚喪喜慶與人生禮俗) — The specific role of wedding pastry gift boxes in the six rites and twelve ceremonies
+- [Sun Cake](/en/food/sun-cake) — A deep history of the single item that Taichung Shen'gang's Master A-Ming Wei Qinghai refined from Kunpai Pastry Shop's malt cake
+- [Pineapple Cake](/en/food/pineapple-cake) — The eighty-year evolutionary path from Yifutang's pineapple big cake during the Japanese colonial era to the squaring revolution
+- [Taiwan Bread and Baking](/en/food/taiwan-bread-and-baking) — From Wu Pao-chun to Chen Yaoxun, the story of Taiwan's bread chefs stepping onto the world stage
+- [Taiwan Rice Food Culture](/en/food/taiwan-rice-cuisine-culture) — Rice and pastry are two main threads on the same dining table; understanding rice is key to understanding pastry's place
+- [Taiwan Weddings, Funerals, and Life Rituals](/en/culture/taiwanese-life-ceremony-traditions) — The specific role of wedding pastry gift boxes in the six rites and twelve ceremonies
 - [Taiwan Tea Culture](/culture/台灣茶文化) — Han pastry and tea have been paired for a century; Yuzhenzhai's Phoenix Eye Cake was originally meant to be eaten with tea
 
 ## References

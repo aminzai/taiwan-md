@@ -155,7 +155,7 @@ International responses gathered within two days. On October 31, Human Rights Wa
 
 The Legislative Yuan itself also moved. On November 19, 2025, the Foreign Affairs and National Defense Committee of the Legislative Yuan, the committee Shen himself convened, passed a condemnation motion proposed by Wang Ting-yu and others. Wang said in his remarks: “**Even if opinions differ, everyone still has the right to be protected by the state and the constitution**. The People’s Republic of China has no authority to use such baseless reasons to conduct this kind of political operation against anyone.”[^49]
 
-China had not yet put Shen on a formal Hong Kong National Security Law bounty list; in the same period, the people with the highest bounty, RMB 250,000, were [YouTuber “Pa Chiung”](/people/八炯) and “Minnan Wolf.”[^50] But the combination of a “splitting the state” investigation and CCTV’s “global wanted” threat had already pushed Shen into a nearby position.
+China had not yet put Shen on a formal Hong Kong National Security Law bounty list; in the same period, the people with the highest bounty, RMB 250,000, were [YouTuber “Pa Chiung”](/en/people/pa-chiung-political-youtuber) and “Minnan Wolf.”[^50] But the combination of a “splitting the state” investigation and CCTV’s “global wanted” threat had already pushed Shen into a nearby position.
 
 ## The Screw at the Door
 
@@ -252,12 +252,12 @@ In May 2026, he put on a campaign sash and entered another election. But on the 
 
 **Further Reading**:
 
-- [Kuma Academy](/society/黑熊學院) — The civil-society civil-defense education organization co-founded by Puma Shen and Ho Cheng-hui, a school that “hopes one day Taiwan will no longer need it”
-- [Cognitive Warfare](/society/認知作戰) — The full framework of the CCP’s information warfare against Taiwan, for which Shen is one of the principal researchers
-- [Pa Chiung](/people/八炯) — A Taiwanese YouTuber also targeted by the CCP, placed under a Chinese bounty of up to RMB 250,000 in November 2025
-- [Lai Ching-te](/people/賴清德) — Also listed among “diehard Taiwan independence separatists,” and publicly voiced support for Shen in November 2025
-- [Taiwan’s Defense and Military Modernization](/society/台灣國防與軍事現代化) — How Kuma Academy’s civil-defense education complements all-out national defense
-- [Invisible Nation](/art/看不見的國家) — A documentary ending with Taiwanese attending a civil-defense class; Kuma Academy is the real-world version of that final class
+- [Kuma Academy](/en/society/kuma-academy-civil-defense-school) — The civil-society civil-defense education organization co-founded by Puma Shen and Ho Cheng-hui, a school that “hopes one day Taiwan will no longer need it”
+- [Cognitive Warfare](/en/society/cognitive-warfare-against-taiwan) — The full framework of the CCP’s information warfare against Taiwan, for which Shen is one of the principal researchers
+- [Pa Chiung](/en/people/pa-chiung-political-youtuber) — A Taiwanese YouTuber also targeted by the CCP, placed under a Chinese bounty of up to RMB 250,000 in November 2025
+- [Lai Ching-te](/en/people/lai-ching-te) — Also listed among “diehard Taiwan independence separatists,” and publicly voiced support for Shen in November 2025
+- [Taiwan’s Defense and Military Modernization](/en/society/taiwan-defense-modernization) — How Kuma Academy’s civil-defense education complements all-out national defense
+- [Invisible Nation](/en/art/invisible-nation) — A documentary ending with Taiwanese attending a civil-defense class; Kuma Academy is the real-world version of that final class
 
 ## Image Sources
 

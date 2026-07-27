@@ -45,7 +45,7 @@ That throw was a comeback. He won gold on his final attempt. Not only did 91.36 
 
 ## What the Asian Record Means
 
-Before Cheng Chao-tsun, no Asian had exceeded 90 meters. Taiwan's track and field history is mainly noted for sprinting and hurdles ([Chi Cheng](/en/People/chi-cheng-flying-antelope/)); throwing events had limited presence in international competition.
+Before Cheng Chao-tsun, no Asian had exceeded 90 meters. Taiwan's track and field history is mainly noted for sprinting and hurdles ([Chi Cheng](/en/people/chi-cheng-flying-antelope/)); throwing events had limited presence in international competition.
 
 These 91.36 meters redrew a boundary: **male Asian javelin throwers can compete at world-class level**. Before him, that boundary was hazy — a goal that seemed perhaps unreachable. After him, it became clear, quantifiable, a coordinate that future athletes could aim for.
 

@@ -202,10 +202,10 @@ Smoke has never truly vanished. It drifted from office ashtrays to the arcade, t
 
 **Further reading** :
 
-- [Ximending](/geography/西門町) — This Taiwan‑first outdoor negative‑pressure smoking room stands at the Ximen MRT exit street; a former Japanese‑era entertainment district turned commercial circle, how it became the trial ground for the new policy
-- [Taiwan Public Health and Disease Prevention System](/society/台灣公共衛生與防疫體系) — Tobacco‑harm prevention is part of Taiwan’s public‑health long march, sharing the same “collective health first” logic with the epidemic‑prevention system
-- [Taiwan Environmental Justice and NIMBY Disputes](/society/台灣環境正義與鄰避爭議) — Whether smoking rooms should be built whose doorstep, whether vagrants will gather—essentially a street‑scale NIMBY (not‑in‑my‑backyard) problem
-- [Martial Law Period](/history/戒嚴時期) — The era when Changshou cigarettes held a 70 % market share and the Tobacco and Wine Monopoly monopolized tobacco and alcohol, exactly the period when the state ran daily life
+- [Ximending](/en/geography/ximending) — This Taiwan‑first outdoor negative‑pressure smoking room stands at the Ximen MRT exit street; a former Japanese‑era entertainment district turned commercial circle, how it became the trial ground for the new policy
+- [Taiwan Public Health and Disease Prevention System](/en/society/taiwan-public-health-epidemic-response) — Tobacco‑harm prevention is part of Taiwan’s public‑health long march, sharing the same “collective health first” logic with the epidemic‑prevention system
+- [Taiwan Environmental Justice and NIMBY Disputes](/en/society/taiwan-environmental-justice-nimby-conflicts) — Whether smoking rooms should be built whose doorstep, whether vagrants will gather—essentially a street‑scale NIMBY (not‑in‑my‑backyard) problem
+- [Martial Law Period](/en/history/martial-law-era) — The era when Changshou cigarettes held a 70 % market share and the Tobacco and Wine Monopoly monopolized tobacco and alcohol, exactly the period when the state ran daily life
 
 ## Image Sources
 

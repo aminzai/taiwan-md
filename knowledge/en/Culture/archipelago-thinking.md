@@ -230,11 +230,11 @@ The next time someone asks you “where does Taiwan really belong,” you can an
 
 ## Further Reading
 
-- [An Island-History View of Taiwan: How a Repeatedly Ruled Island Invented Its Own Subjectivity](/history/台灣島史觀) — Ts’ao Yung-ho’s island-history methodology provides an insular historiographical foundation for “archipelago thinking”
-- [Contemporary Art of Taiwan’s Indigenous Peoples](/art/台灣原住民當代藝術) — Contemporary art practice by Austronesian Indigenous peoples as living carriers of the “archipelagic continuum”
-- [Taiwan’s Indigenous Music Traditions](/music/台灣原住民音樂傳統) — The strong correlation between the traditional music of Taiwan’s 16 Indigenous peoples and the ethnomusic of Oceania supports the Austronesian origin theory
-- [Taiwan’s Maritime Trade History](/history/台灣海洋貿易史) — Taiwan’s maritime connections from Beinan jade artifacts to the Age of Sail
-- [A Cultural Map of Taiwan’s 16 Indigenous Peoples](/culture/台灣原住民族16族文化地圖) — The correspondence between the language systems of the 16 peoples and the nine primary branches of Austronesian in Taiwan
+- [An Island-History View of Taiwan: How a Repeatedly Ruled Island Invented Its Own Subjectivity](/en/history/taiwan-island-historiography) — Ts’ao Yung-ho’s island-history methodology provides an insular historiographical foundation for “archipelago thinking”
+- [Contemporary Art of Taiwan’s Indigenous Peoples](/en/art/contemporary-indigenous-art-taiwan) — Contemporary art practice by Austronesian Indigenous peoples as living carriers of the “archipelagic continuum”
+- [Taiwan’s Indigenous Music Traditions](/en/music/indigenous-music-traditions) — The strong correlation between the traditional music of Taiwan’s 16 Indigenous peoples and the ethnomusic of Oceania supports the Austronesian origin theory
+- [Taiwan’s Maritime Trade History](/en/history/taiwan-maritime-trade-history) — Taiwan’s maritime connections from Beinan jade artifacts to the Age of Sail
+- [A Cultural Map of Taiwan’s 16 Indigenous Peoples](/en/culture/indigenous-peoples-16-tribes-cultural-map) — The correspondence between the language systems of the 16 peoples and the nine primary branches of Austronesian in Taiwan
 
 ![The moon-shaped stone pillar at Beinan Site Park is an iconic remnant of the Beinan culture, dated to 5,300-2,300 years before present. More than 5,000 jade artifacts have been excavated from the Beinan Site, some of which were later found by archaeologists in prehistoric sites in the Philippines, Vietnam, and Thailand.](/article-images/culture/beinan-stone-pillar.webp)
 

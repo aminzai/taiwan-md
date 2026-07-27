@@ -160,10 +160,10 @@ The egg that the exam paper asked students to overturn and the egg that more tha
 
 **Further Reading**:
 
-- [National Holidays](/society/國定假日) — How Dragon Boat Festival was elevated from an administrative order into a statutory holiday, another history Taiwanese wrote through “not having to go to work”
-- [Traditional Festivals and Celebrations](/culture/傳統節慶與慶典) — From epidemics to fireworks, how Taiwan’s festival culture evolved by accident along the way
-- [Taiwanese Snacks](/food/台灣小吃) — Northern and southern zongzi are only the prologue; Taiwanese devotion to food has many more battlefields
-- [Koxinga](/people/鄭成功) — The protagonist of the Sword Well legend, a historical figure who left traces, and legends, all over Taiwan
+- [National Holidays](/en/society/national-holidays) — How Dragon Boat Festival was elevated from an administrative order into a statutory holiday, another history Taiwanese wrote through “not having to go to work”
+- [Traditional Festivals and Celebrations](/en/culture/traditional-festivals-and-celebrations) — From epidemics to fireworks, how Taiwan’s festival culture evolved by accident along the way
+- [Taiwanese Snacks](/en/food/taiwanese-street-food) — Northern and southern zongzi are only the prologue; Taiwanese devotion to food has many more battlefields
+- [Koxinga](/en/people/koxinga) — The protagonist of the Sword Well legend, a historical figure who left traces, and legends, all over Taiwan
 
 ## Image Sources
 

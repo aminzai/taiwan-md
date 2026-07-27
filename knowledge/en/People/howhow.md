@@ -127,12 +127,12 @@ Return to that afternoon in New York in 2015. A young man with fewer than 100,00
 
 **Further Reading**:
 
-- [Tsai A-ga: From the Original Influencer to Social-Work Vocation, the Man Who Used 18 Years of Traffic to Reverse His Fate](/people/蔡阿嘎) — Taiwan’s first million-subscriber YouTuber, reaching the mark in 2014, four years before Howhow, and the starting point of this professionalization timeline.
-- [A-SEN](/people/阿神) — A gaming creator who crossed the million-subscriber threshold in the same period as Saint, 2017, and followed a survival strategy entirely different from Howhow’s.
-- [Brian Tseng: Calculating the Laughs, Miscalculating Society](/people/曾博恩) — Also made famous through “comedy with calculated rhythm,” but pushed jokes into social issues more sensitive than sponsored content.
-- [Zun: From His Eighth-Grade Bedroom to Two Million-Subscriber Channels, a YouTuber's Record of Growing Up](/people/尊) — Also coming up from Taiwan's early YouTube era, he publicly documented his path through teenage filming, the weight of a million subscribers, and the routines of adult life.
-- [Taiwan’s YouTuber Industry and Culture: From Tsai A-ga to Chi Hsuan, the Digital-Culture Evolution of an Island](/culture/台灣YouTuber產業與文化) — The full industry landscape in which Howhow stands, showing how this generation of creators sustained a generation of internet memory.
-- [Taiwan’s Self-Media Creator Economy: A Fragmented Battlefield of 23 Million People](/economy/台灣自媒體創作者經濟) — Understand the advertising-revenue arithmetic behind “sponsored content is a survival necessity” through industrial structure.
+- [Tsai A-ga: From the Original Influencer to Social-Work Vocation, the Man Who Used 18 Years of Traffic to Reverse His Fate](/en/people/tsai-a-ga-youtuber) — Taiwan’s first million-subscriber YouTuber, reaching the mark in 2014, four years before Howhow, and the starting point of this professionalization timeline.
+- [A-SEN](/en/people/red-shin-minecraft-youtuber) — A gaming creator who crossed the million-subscriber threshold in the same period as Saint, 2017, and followed a survival strategy entirely different from Howhow’s.
+- [Brian Tseng: Calculating the Laughs, Miscalculating Society](/en/people/bernard-tseng) — Also made famous through “comedy with calculated rhythm,” but pushed jokes into social issues more sensitive than sponsored content.
+- [Zun: From His Eighth-Grade Bedroom to Two Million-Subscriber Channels, a YouTuber's Record of Growing Up](/en/people/zun) — Also coming up from Taiwan's early YouTube era, he publicly documented his path through teenage filming, the weight of a million subscribers, and the routines of adult life.
+- [Taiwan’s YouTuber Industry and Culture: From Tsai A-ga to Chi Hsuan, the Digital-Culture Evolution of an Island](/en/culture/taiwan-youtuber-industry) — The full industry landscape in which Howhow stands, showing how this generation of creators sustained a generation of internet memory.
+- [Taiwan’s Self-Media Creator Economy: A Fragmented Battlefield of 23 Million People](/en/economy/taiwan-self-media-creator-economy) — Understand the advertising-revenue arithmetic behind “sponsored content is a survival necessity” through industrial structure.
 
 ## Image Sources
 

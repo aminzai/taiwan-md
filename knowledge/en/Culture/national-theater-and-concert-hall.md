@@ -73,9 +73,9 @@ In another media interview, Liu also said: "The old rules — no leaving for the
 
 **Further reading**:
 
-- [Chiang Kai-shek Memorial Hall](/history/中正紀念堂) — Designed by the same architect Yang Cho-cheng in the same era, a core site for Chiang Kai-shek's political landscape and transitional justice issues
-- [Martial Law Era](/history/戒嚴時期) — 1987, the year the NTCH opened, was also the year Taiwan's martial law was lifted; understanding the political context of that era helps decode the building's historical meaning
-- [Taiwanese Glove Puppetry](/culture/布袋戲) — Another folk form of Taiwan's performing arts, a popular theater tradition coexisting with the refined-arts venues represented by the NTCH
+- [Chiang Kai-shek Memorial Hall](/en/history/chiang-kai-shek-memorial-hall) — Designed by the same architect Yang Cho-cheng in the same era, a core site for Chiang Kai-shek's political landscape and transitional justice issues
+- [Martial Law Era](/en/history/martial-law-era) — 1987, the year the NTCH opened, was also the year Taiwan's martial law was lifted; understanding the political context of that era helps decode the building's historical meaning
+- [Taiwanese Glove Puppetry](/en/culture/taiwanese-glove-puppetry-budaixi) — Another folk form of Taiwan's performing arts, a popular theater tradition coexisting with the refined-arts venues represented by the NTCH
 
 ## References
 

@@ -221,11 +221,11 @@ A Tamsui child, around 15, followed his mother to Minnesota. While helping his m
 
 ## Further Reading
 
-- [Jensen Huang](/people/黃仁勳)——The Light of Taiwan who makes AI run faster, the hardware side
-- [Morris Chang](/people/張忠謀)——The founder of Taiwan's semiconductors, the "hard-to-shake" mountain Ed Chi spoke of
-- [AI Artificial Intelligence Industry](/technology/AI人工智慧產業)——Taiwan's position in the global AI supply chain
-- [Taiwan AI Development and Future Strategy](/technology/台灣人工智慧發展與未來策略)——The overall picture of Taiwan's AI
-- [Taiwan AI Daily Life](/technology/台灣AI日常)——How AI has already entered Taiwanese people's lives
+- [Jensen Huang](/en/people/jensen-huang)——The Light of Taiwan who makes AI run faster, the hardware side
+- [Morris Chang](/en/people/tsmc-morris-chang)——The founder of Taiwan's semiconductors, the "hard-to-shake" mountain Ed Chi spoke of
+- [AI Artificial Intelligence Industry](/en/technology/artificial-intelligence-industry)——Taiwan's position in the global AI supply chain
+- [Taiwan AI Development and Future Strategy](/en/technology/artificial-intelligence-development-strategy)——The overall picture of Taiwan's AI
+- [Taiwan AI Daily Life](/en/technology/taiwan-ai-in-daily-life)——How AI has already entered Taiwanese people's lives
 
 ## References
 

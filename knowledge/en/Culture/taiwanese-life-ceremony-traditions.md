@@ -436,11 +436,11 @@ Perhaps this is the most precious value of Taiwanese life ceremonies: at life's 
 
 ## Further Reading
 
-- [Traditional Festivals and Celebrations](/culture/傳統節慶與慶典) - Understanding the connection between life ceremonies and festivals
-- [Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlander, New Residents)](/culture/族群（閩南客家原住民外省新住民）) - Exploring the ceremonial characteristics of different ethnic groups
-- [Taiwanese Religion and Temple Culture](/culture/台灣宗教與寺廟文化) - Understanding the role of religion in life ceremonies
-- [Taiwanese Tea Culture and Life Aesthetics](/culture/台灣茶道與生活美學) - Experiencing the aesthetic elements in ceremonies
-- [Taiwanese Pastry Culture](/food/台灣糕餅文化) — The specific role of wedding pastry boxes in the Six and Twelve Betrothal Gifts, from Lukang's Yuzhenzhai (est. 1877) to the 30-second ticket-snapping generation of 2026
+- [Traditional Festivals and Celebrations](/en/culture/traditional-festivals-and-celebrations) - Understanding the connection between life ceremonies and festivals
+- [Ethnic Groups (Hoklo, Hakka, Indigenous, Mainlander, New Residents)](/en/culture/ethnic-groups) - Exploring the ceremonial characteristics of different ethnic groups
+- [Taiwanese Religion and Temple Culture](/en/culture/taiwan-religion-and-temple-culture) - Understanding the role of religion in life ceremonies
+- [Taiwanese Tea Culture and Life Aesthetics](/en/culture/taiwan-tea-ceremony-and-aesthetic-living) - Experiencing the aesthetic elements in ceremonies
+- [Taiwanese Pastry Culture](/en/food/taiwan-pastry-culture) — The specific role of wedding pastry boxes in the Six and Twelve Betrothal Gifts, from Lukang's Yuzhenzhai (est. 1877) to the 30-second ticket-snapping generation of 2026
 
 ---
 

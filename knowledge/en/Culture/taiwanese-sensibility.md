@@ -133,13 +133,13 @@ The Heping-Xinsheng pedestrian overpass has already become an empty lot. But in 
 
 **Further Reading**:
 
-- [Taiwanese Architecture](/art/台灣建築) — From the Japanese colonial period to the present, how Taiwanese architecture accumulated layer by layer into its current form
-- [Taiwanese Cinema](/art/台灣電影) — The long takes of Hou Hsiao-hsien, Edward Yang, and Tsai Ming-liang are the cinematic genes of Taiwanese sensibility
-- [Taiwanese Tea Ceremony and Everyday Aesthetics](/culture/台灣茶道與生活美學) — Another representative form of Taiwan’s slow living; reading Taiwanese everyday aesthetics through the tea setting
-- [Taiwan’s Convenience Store Culture](/lifestyle/台灣便利商店文化) — The convenience store glowing late at night is a classic scene of Taiwanese sensibility
-- [Taiwanese Religion and Temple Culture](/culture/台灣宗教與寺廟文化) — Temples are the most intense layer of color and faith in Taiwan’s streetscapes
-- [Chou Tzu-yu](/people/周子瑜) — One of the first Taiwanese faces to appear along Koreans’ path of learning about Taiwan
-- [Tehching Hsieh](/art/謝德慶) — A Taiwanese performance artist who makes “time and life” directly into artworks; another, more extreme version of Taiwanese sensibility
+- [Taiwanese Architecture](/en/art/taiwanese-architecture) — From the Japanese colonial period to the present, how Taiwanese architecture accumulated layer by layer into its current form
+- [Taiwanese Cinema](/en/art/taiwanese-cinema) — The long takes of Hou Hsiao-hsien, Edward Yang, and Tsai Ming-liang are the cinematic genes of Taiwanese sensibility
+- [Taiwanese Tea Ceremony and Everyday Aesthetics](/en/culture/taiwan-tea-ceremony-and-aesthetic-living) — Another representative form of Taiwan’s slow living; reading Taiwanese everyday aesthetics through the tea setting
+- [Taiwan’s Convenience Store Culture](/en/lifestyle/convenience-store-culture) — The convenience store glowing late at night is a classic scene of Taiwanese sensibility
+- [Taiwanese Religion and Temple Culture](/en/culture/taiwan-religion-and-temple-culture) — Temples are the most intense layer of color and faith in Taiwan’s streetscapes
+- [Chou Tzu-yu](/en/people/tzuyu) — One of the first Taiwanese faces to appear along Koreans’ path of learning about Taiwan
+- [Tehching Hsieh](/en/art/tehching-hsieh-performance-artist) — A Taiwanese performance artist who makes “time and life” directly into artworks; another, more extreme version of Taiwanese sensibility
 
 ## References
 

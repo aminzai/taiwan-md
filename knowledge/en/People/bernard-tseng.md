@@ -124,9 +124,9 @@ In the basement of Two Three Comedy Club at No. 286 Linsen North Road, Tseng sti
 
 **Further Reading**:
 
-- [Tsai Ing-wen](/people/蔡英文) — The first presidential candidate to enter _The Night Night Show with Brian Tseng_ studio in 2019
-- [Han Kuo-yu](/people/韓國瑜) — The most familiar stranger of the same season; his only request was that no one joke about his hairstyle
-- [Cheng Nan-jung](/people/鄭南榕) — The tangwai activist who self-immolated in 1989 in pursuit of 100 percent freedom of speech, and became the starting point of Tseng's miscalculations in 2019
+- [Tsai Ing-wen](/en/people/tsai-ing-wen) — The first presidential candidate to enter _The Night Night Show with Brian Tseng_ studio in 2019
+- [Han Kuo-yu](/en/people/han-kuo-yu) — The most familiar stranger of the same season; his only request was that no one joke about his hairstyle
+- [Cheng Nan-jung](/en/people/zheng-nanrong) — The tangwai activist who self-immolated in 1989 in pursuit of 100 percent freedom of speech, and became the starting point of Tseng's miscalculations in 2019
 
 ## Image Sources
 

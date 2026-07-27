@@ -129,10 +129,10 @@ The crowd erupted. After the seven-minute clip was uploaded by audience members 
 
 ## Further Reading
 
-- [Taiwan Indie Music Scene](/music/indie-music-scene/) — The indie scene Fire EX operates in
-- [Taiwan Rock: From Underground to Mainstream](/music/taiwan-rock-from-underground-to-mainstream/) — From the banned-song era to the Spring Scream festival
-- [Sunflower Movement](/society/sunflower-movement/) — The March that gave birth to "Island Sunrise"
-- [Taiwan Music Festival Culture](/music/taiwan-music-festival-culture/) — From Hohaiyan to Fireball Festival
+- [Taiwan Indie Music Scene](/en/music/indie-music-scene/) — The indie scene Fire EX operates in
+- [Taiwan Rock: From Underground to Mainstream](/en/music/taiwan-rock-from-underground-to-mainstream/) — From the banned-song era to the Spring Scream festival
+- [Sunflower Movement](/en/society/sunflower-movement/) — The March that gave birth to "Island Sunrise"
+- [Taiwan Music Festival Culture](/en/music/taiwan-music-festival-culture/) — From Hohaiyan to Fireball Festival
 - [Chang Hsien and Anpu](/music/deserts-chang-anpu/) — The other side of Takao Festival's seven minutes
 - [Chthonic](/music/chthonic/) — A generation earlier, using Taiwanese black metal to document the era from the underground
 

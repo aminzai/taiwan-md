@@ -122,10 +122,10 @@ In 2015 he walked 315 kilometers back to Tainan. In 2024 he walked the pilgrimag
 
 **Further Reading:**
 
-- [Eggplant Egg Band](/music/茄子蛋) — A band that also broke into the mainstream through Taiwanese-language songwriting, winning Best New Artist at the 2019 Golden Melody Awards (金曲獎)
-- [Taiwan Indie Music](/music/台灣獨立音樂) — From the underground to the streaming era: how the indie music ecosystem Crowd Lu belongs to evolved
+- [Eggplant Egg Band](/en/music/eggplant-egg-band) — A band that also broke into the mainstream through Taiwanese-language songwriting, winning Best New Artist at the 2019 Golden Melody Awards (金曲獎)
+- [Taiwan Indie Music](/en/music/indie-music-scene) — From the underground to the streaming era: how the indie music ecosystem Crowd Lu belongs to evolved
 - 植劇場 (Zhi Juchang — zh only) — Wang Hsiao-ti's drama innovation initiative and the birthplace of "The Wonderful Boy"
-- [Taiwan Hip-Hop and Rap Development](/music/台灣嘻哈與饒舌發展) — Another evolutionary path of Taiwanese music in the same era
+- [Taiwan Hip-Hop and Rap Development](/en/music/taiwan-hip-hop-and-rap) — Another evolutionary path of Taiwanese music in the same era
 
 ## References
 

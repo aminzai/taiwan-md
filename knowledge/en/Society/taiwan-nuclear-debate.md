@@ -250,11 +250,11 @@ And both sides say they stand on the side of the future.
 
 ## Further Reading
 
-- [Taiwan’s Climate Crisis and Net-Zero Transition](/nature/台灣氣候危機與淨零轉型) — The other side of the same energy question: approaching it through physical limits, electricity supply and demand, and the carbon-reduction timetable; a companion piece to this article
-- [A History of Taiwan’s Environmental Movement](/nature/台灣環境運動史) — Anti-nuclear politics as part of Taiwan’s postwar environmental movement, from the Lukang anti-DuPont campaign to the full context of Gongliao
-- [Environmental Justice and NIMBY Controversies in Taiwan](/society/台灣環境正義與鄰避爭議) — The NIMBY structure behind nuclear waste and Orchid Island: why risk always falls on places with the least voice
-- [Social Movements and Civic Participation](/society/社會運動與公民參與) — How anti-nuclear politics shared a language and energy with Taiwan’s democracy movement
-- [The Sunflower Movement](/society/太陽花學運) — Civic mobilization from the same generation, useful for understanding the atmosphere of the years around Lin Yi-hsiung’s fast
+- [Taiwan’s Climate Crisis and Net-Zero Transition](/en/nature/taiwan-climate-change-net-zero-transition) — The other side of the same energy question: approaching it through physical limits, electricity supply and demand, and the carbon-reduction timetable; a companion piece to this article
+- [A History of Taiwan’s Environmental Movement](/en/nature/taiwan-environmental-movement-history) — Anti-nuclear politics as part of Taiwan’s postwar environmental movement, from the Lukang anti-DuPont campaign to the full context of Gongliao
+- [Environmental Justice and NIMBY Controversies in Taiwan](/en/society/taiwan-environmental-justice-nimby-conflicts) — The NIMBY structure behind nuclear waste and Orchid Island: why risk always falls on places with the least voice
+- [Social Movements and Civic Participation](/en/society/social-movements-and-civic-participation) — How anti-nuclear politics shared a language and energy with Taiwan’s democracy movement
+- [The Sunflower Movement](/en/society/sunflower-movement) — Civic mobilization from the same generation, useful for understanding the atmosphere of the years around Lin Yi-hsiung’s fast
 
 ## Public Data
 

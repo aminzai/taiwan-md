@@ -200,7 +200,7 @@ Between these two interpretations lies the arena of public opinion, political po
 
 On election day, the ballots voters receive will not include legislative races (legislative elections coincide with presidential elections, not held again until 2028), but the councilor ballots will still run on rules inherited from the 1980s. **The same ballot, old and new systems coexisting** — this is the most easily overlooked yet structurally deepest detail in Taiwan's democratic infrastructure.
 
-For detailed institutional discussions, see: [Politics Hub](/politics) · 2026 九合一選舉 (2026 nine-in-one elections) · 九合一選舉是什麼 (What are the nine-in-one elections) · 中選會制度 (Central Election Commission system) · 村里長制度 (Village chief system) · 直轄市山地原住民區長 (Special municipality mountain indigenous district chiefs) · [Taiwan's democratization](/en/History/taiwan-democratization-history/) · [Taiwan elections and party politics](/en/History/taiwan-elections-and-party-politics/)
+For detailed institutional discussions, see: [Politics Hub](/politics) · 2026 九合一選舉 (2026 nine-in-one elections) · 九合一選舉是什麼 (What are the nine-in-one elections) · 中選會制度 (Central Election Commission system) · 村里長制度 (Village chief system) · 直轄市山地原住民區長 (Special municipality mountain indigenous district chiefs) · [Taiwan's democratization](/en/history/taiwan-democratization-history/) · [Taiwan elections and party politics](/en/history/taiwan-elections-and-party-politics/)
 
 ---
 

@@ -189,7 +189,7 @@ He plans a second retirement at age 85[^70], handing over the chairman seat of h
 
 The child who grew up watching his mother sell duck eggs in Lukang, in the end, remained that gardener who wanted to plant an entire orchard.
 
-**Further Reading**: [Acer](/economy/台灣企業：宏碁) (the brand Stan Shih founded single-handedly and brought to the world stage, here is its complete story), [Morris Chang](/people/張忠謀) (the man who invited Stan Shih to serve as a TSMC director for 21 years, who took a different path in Taiwan's tech landscape), [TSMC](/economy/台灣企業：台積電) (the company that does "midstream manufacturing" yet became the national tech shield, and where Stan Shih holds the most shares), [Taiwan's Industrial Transformation and Upgrading](/economy/台灣產業轉型升級) (behind the Smiling Curve and the King's Way, Taiwan's forty-year path between manufacturing and branding).
+**Further Reading**: [Acer](/en/economy/acer-pc-industry-pioneer) (the brand Stan Shih founded single-handedly and brought to the world stage, here is its complete story), [Morris Chang](/en/people/tsmc-morris-chang) (the man who invited Stan Shih to serve as a TSMC director for 21 years, who took a different path in Taiwan's tech landscape), [TSMC](/en/economy/tsmc) (the company that does "midstream manufacturing" yet became the national tech shield, and where Stan Shih holds the most shares), [Taiwan's Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) (behind the Smiling Curve and the King's Way, Taiwan's forty-year path between manufacturing and branding).
 
 ## References
 

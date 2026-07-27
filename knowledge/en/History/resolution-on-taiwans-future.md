@@ -194,7 +194,7 @@ Taiwan’s twenty‑year‑old youth consider “Taiwan has always been independ
 
 ## Further Reading
 
-- [Taiwan’s Democratic Transition](/History/台灣民主轉型) — From martial law to democratization, the broader context of the future resolution’s birth.
-- [Taiwanese Elections and Party Politics](/History/台灣選舉與政黨政治) — How the DPP’s policy shift affected Taiwan’s electoral politics.
-- [Formosa Incident](/History/美麗島事件) — The starting point of Shih Ming‑te’s 25‑year political imprisonment, essential for understanding the outside‑party movement.
-- [Cross‑Strait Crises and Relations Development](/History/台海危機與兩岸關係發展) — How the 1996 cross‑strait crisis accelerated the DPP’s pragmatism.
+- [Taiwan’s Democratic Transition](/en/history/taiwan-democratization) — From martial law to democratization, the broader context of the future resolution’s birth.
+- [Taiwanese Elections and Party Politics](/en/history/taiwan-elections-and-party-politics) — How the DPP’s policy shift affected Taiwan’s electoral politics.
+- [Formosa Incident](/en/history/kaohsiung-incident-formosa-incident) — The starting point of Shih Ming‑te’s 25‑year political imprisonment, essential for understanding the outside‑party movement.
+- [Cross‑Strait Crises and Relations Development](/en/history/taiwan-strait-crises-and-cross-strait-relations) — How the 1996 cross‑strait crisis accelerated the DPP’s pragmatism.

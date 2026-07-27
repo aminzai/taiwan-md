@@ -162,7 +162,7 @@ Two weeks after Restaurant André went dark, the kitchen lights in Taipei were s
 
 ## Further Reading
 
-- [Aaron Nieh (聶永真)](/people/聶永真): Taiwan's most internationally visible graphic designer — like André, he established Taiwan's international position in refined aesthetics through a deeply personal style
-- [Ang Lee (李安)](/people/李安): A forerunner who told universal stories with Eastern emotion within a Western system — another cross-cultural path with striking parallels
-- [Jensen Huang (黃仁勳)](/people/黃仁勳): Taiwanese background, global apex, continuous return to roots — another way of being Taiwanese in the world
-- [Wu Pao-chun (吳寶春)](/people/吳寶春): A baker who likewise won over French judges using Taiwanese local ingredients, taking the first gold medal at the inaugural Bakery World Cup with a lychee-rose bread
+- [Aaron Nieh (聶永真)](/en/people/nieh-yung-jen): Taiwan's most internationally visible graphic designer — like André, he established Taiwan's international position in refined aesthetics through a deeply personal style
+- [Ang Lee (李安)](/en/people/ang-lee): A forerunner who told universal stories with Eastern emotion within a Western system — another cross-cultural path with striking parallels
+- [Jensen Huang (黃仁勳)](/en/people/jensen-huang): Taiwanese background, global apex, continuous return to roots — another way of being Taiwanese in the world
+- [Wu Pao-chun (吳寶春)](/en/people/wu-bao-chun): A baker who likewise won over French judges using Taiwanese local ingredients, taking the first gold medal at the inaugural Bakery World Cup with a lychee-rose bread

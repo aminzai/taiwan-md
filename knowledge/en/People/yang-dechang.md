@@ -216,7 +216,7 @@ He never filmed other people. He filmed us.
 
 Using the coldest logic of an engineer to capture the warmest loneliness of the human heart—that is the pair of eyes Edward Yang left for Taiwan, and for the world.
 
-**Further Reading**: [Taiwan Cinema](/art/台灣電影) (Yang was one of the two standard-bearers of the Taiwan New Cinema; here is the map of the entire movement he belonged to), [Hou Hsiao-hsien](/people/侯孝賢) (The other mountain named alongside Yang, the one who drifted from close collaborator to distant acquaintance), [Ang Lee](/people/李安) (Who also brought Taiwan cinema to the world stage, but via a completely different path), [Tsai Ming-liang](/people/蔡明亮) (After the Taiwan New Cinema, another way of dissecting urban loneliness), [Kuling Street](/geography/牯嶺街) (The real street where the knife fell, the origin point of a four-hour epic).
+**Further Reading**: [Taiwan Cinema](/en/art/taiwanese-cinema) (Yang was one of the two standard-bearers of the Taiwan New Cinema; here is the map of the entire movement he belonged to), [Hou Hsiao-hsien](/en/people/hou-hsiao-hsien) (The other mountain named alongside Yang, the one who drifted from close collaborator to distant acquaintance), [Ang Lee](/en/people/ang-lee) (Who also brought Taiwan cinema to the world stage, but via a completely different path), [Tsai Ming-liang](/en/people/tsai-ming-liang) (After the Taiwan New Cinema, another way of dissecting urban loneliness), [Kuling Street](/en/geography/guling-street) (The real street where the knife fell, the origin point of a four-hour epic).
 
 ## References
 

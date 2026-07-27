@@ -177,13 +177,13 @@ That is one of Taiwan’s clearest positions right now, and one that needs to be
 
 ## Further Reading
 
-- [Taiwan Foreign Trade and Global Supply Chain](/economy/taiwan-foreign-trade-and-global-supply-chain) — The macro background from export orientation and triangular trade to US-China supply-chain restructuring.
-- [NVIDIA in Taiwan](/technology/nvidia-in-taiwan) — How NVIDIA has lodged chip manufacturing, packaging, and server assembly deeply inside Taiwan.
-- [Taiwan Semiconductor Industry](/technology/taiwan-semiconductor-industry) — The long arc from RCA technology transfer and TSMC foundry manufacturing to materials and packaging battles.
+- [Taiwan Foreign Trade and Global Supply Chain](/en/economy/taiwan-foreign-trade-and-global-supply-chain) — The macro background from export orientation and triangular trade to US-China supply-chain restructuring.
+- [NVIDIA in Taiwan](/en/technology/nvidia-in-taiwan) — How NVIDIA has lodged chip manufacturing, packaging, and server assembly deeply inside Taiwan.
+- [Taiwan Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — The long arc from RCA technology transfer and TSMC foundry manufacturing to materials and packaging battles.
 - [Computex Taipei](/technology/computex-taipei) — Why Taipei’s computer show became a pilgrimage site for the global hardware supply side in the AI era.
-- [Taiwan’s Electricity and Semiconductors](/technology/taiwan-electricity-and-semiconductors) — The power bill, green-power pressure, and energy security behind the AI supply chain.
-- [Semiconductor Water Use and Taiwan’s Water Resources](/technology/semiconductor-water-use-and-taiwan-water-resources) — How fabs connect to reservoirs, drought, reclaimed water, and local governance.
-- [AI Supply Chain Overseas Manufacturing](/technology/ai-supply-chain-overseas-manufacturing) — How Taiwan’s supply chain, from TSMC and Foxconn to Wistron and Delta, is being invited abroad.
+- [Taiwan’s Electricity and Semiconductors](/en/technology/taiwan-electricity-and-semiconductors) — The power bill, green-power pressure, and energy security behind the AI supply chain.
+- [Semiconductor Water Use and Taiwan’s Water Resources](/en/technology/semiconductor-water-use-and-taiwan-water-resources) — How fabs connect to reservoirs, drought, reclaimed water, and local governance.
+- [AI Supply Chain Overseas Manufacturing](/en/technology/ai-supply-chain-overseas-manufacturing) — How Taiwan’s supply chain, from TSMC and Foxconn to Wistron and Delta, is being invited abroad.
 
 ## Image Sources
 

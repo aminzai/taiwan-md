@@ -169,10 +169,10 @@ Our ears have no lids. But whether we have a pair of ears willing to listen is a
 
 ## Further Reading
 
-- **[Lin Ching-Yao](/art/林經堯)** — another sound/technology artist from the C-LAB ecosystem, moving from taiji cloud hands into generative art
-- **[Wang Shin-Jen (Ar Luan)](/art/王新仁)** — digital artist and co-founder of akaSwap; of the same generation, but oriented more toward NFT curatorial infrastructure
-- **[Hello Nico](/people/Hello-Nico)** — Chi's early independent-band identity; synthesizer player on the 2014 _Floating City_ EP
-- **[Taiwan New Media Art](/art/台灣新媒體藝術)** — the place of sound art within the context of Taiwan's new media art
+- **[Lin Ching-Yao](/en/art/lin-ching-yao-artist)** — another sound/technology artist from the C-LAB ecosystem, moving from taiji cloud hands into generative art
+- **[Wang Shin-Jen (Ar Luan)](/en/art/wang-hsin-jen-artist)** — digital artist and co-founder of akaSwap; of the same generation, but oriented more toward NFT curatorial infrastructure
+- **[Hello Nico](/en/people/hello-nico-band)** — Chi's early independent-band identity; synthesizer player on the 2014 _Floating City_ EP
+- **[Taiwan New Media Art](/en/art/taiwan-new-media-art)** — the place of sound art within the context of Taiwan's new media art
 
 ## References
 

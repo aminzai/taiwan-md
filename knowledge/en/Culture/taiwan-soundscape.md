@@ -183,8 +183,8 @@ So the next time the garbage truck’s _A Maiden’s Prayer_ drifts past the mou
 
 ## Further Reading
 
-- [Taiwan Soundscape](/music/台灣聲音地景) — Taiwan’s sound maps and urban listening from another angle
-- [Taiwanese Temple Festivals and Parade-Troupe Culture](/culture/台灣廟會與陣頭文化) — The fuller parade-troupe soundscape and folk-cultural context behind Techno San Tai Zi
-- [History of Taiwan’s MRT Development](/lifestyle/台灣捷運發展史) — The story of the system that carried the soundscape project
-- [Night Market Culture](/food/夜市文化) — Another facet of that cluster of “traffic sounds, human voices, and vendors’ cries”
-- [Taiwanese Tea Ceremony and Everyday Aesthetics](/culture/台灣茶道與生活美學) — Another line in how Taiwanese people turn everyday sensory experience into culture
+- [Taiwan Soundscape](/en/music/taiwan-soundscape) — Taiwan’s sound maps and urban listening from another angle
+- [Taiwanese Temple Festivals and Parade-Troupe Culture](/en/culture/taiwan-temple-festivals-and-performance-troupes) — The fuller parade-troupe soundscape and folk-cultural context behind Techno San Tai Zi
+- [History of Taiwan’s MRT Development](/en/lifestyle/history-of-taiwan-mrt-development) — The story of the system that carried the soundscape project
+- [Night Market Culture](/en/food/night-market-culture) — Another facet of that cluster of “traffic sounds, human voices, and vendors’ cries”
+- [Taiwanese Tea Ceremony and Everyday Aesthetics](/en/culture/taiwan-tea-ceremony-and-aesthetic-living) — Another line in how Taiwanese people turn everyday sensory experience into culture

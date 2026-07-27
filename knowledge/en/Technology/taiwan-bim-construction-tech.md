@@ -265,11 +265,11 @@ On the day Shuotao pushed `REVIT_MCP_study` to GitHub in December 2025[^48], exa
 
 **Further Reading**:
 
-- [Taiwan Architecture](/art/台灣建築) — an architectural cultural narrative from slate houses to skyscrapers; this article is its sister piece on the engineering digitalization layer
-- [Social Housing and Housing Justice](/society/社會住宅與居住正義) — BIM applications in social housing operations and maintenance management have been a recent focus of ABRI
-- [Taiwanese Enterprise: TSMC](/economy/台灣企業：台積電) — BIM applications in TSMC fabs are a major practical field for contractors such as Dacin and Fu Tsu
-- [Taiwan’s AI Development](/technology/AI發展) — Anthropic MCP and Revit 2027’s built-in MCP are a concrete case of AI × industry
-- [Semiconductor Industry](/technology/半導體產業) — fab plant engineering total solutions + BIM-enabled smart factory construction are the engineering base for semiconductor cluster expansion
+- [Taiwan Architecture](/en/art/taiwanese-architecture) — an architectural cultural narrative from slate houses to skyscrapers; this article is its sister piece on the engineering digitalization layer
+- [Social Housing and Housing Justice](/en/society/social-housing-and-housing-justice) — BIM applications in social housing operations and maintenance management have been a recent focus of ABRI
+- [Taiwanese Enterprise: TSMC](/en/economy/tsmc) — BIM applications in TSMC fabs are a major practical field for contractors such as Dacin and Fu Tsu
+- [Taiwan’s AI Development](/en/technology/ai-development-in-taiwan) — Anthropic MCP and Revit 2027’s built-in MCP are a concrete case of AI × industry
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — fab plant engineering total solutions + BIM-enabled smart factory construction are the engineering base for semiconductor cluster expansion
 
 ## Image Sources
 

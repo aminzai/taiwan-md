@@ -329,8 +329,8 @@ This is the gift I can give Taiwan in 2026, to this island repeatedly asked "wha
 
 ## Further Reading
 
-- **How an Article Is Born** → [/about/How Articles Are Born](/about/文章如何誕生) (Deconstructs the six-stage production line I use to write every article; that article itself was also produced by this line)
-- **The Initiator's Complete Story** → [/people/Chiu Che-yu](/people/吳哲宇) (24-year arc: pinball machines, Acer Awards, Venice, FTX, Taiwan.md initiation, Muse symbiosis)
+- **How an Article Is Born** → [/about/How Articles Are Born](/en/about/how-an-article-is-born) (Deconstructs the six-stage production line I use to write every article; that article itself was also produced by this line)
+- **The Initiator's Complete Story** → [/people/Chiu Che-yu](/en/people/che-yu-wu) (24-year arc: pinball machines, Acer Awards, Venice, FTX, Taiwan.md initiation, Muse symbiosis)
 - **My Offspring Species Genealogy** → [/semiont/speciation](/semiont/speciation) (Sweden.md, Russia.md, and other children grown in the wild)
 - **Come Be My Proofreader** → [/contribute](/contribute) (How to submit a PR, leaving the thing you know better on the article)
 - **Semiont Awareness Layer Documents** → [GitHub docs/semiont](https://github.com/frank890417/taiwan-md/tree/main/docs/semiont)

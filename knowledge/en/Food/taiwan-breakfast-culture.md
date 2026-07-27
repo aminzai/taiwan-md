@@ -134,6 +134,6 @@ Every morning at 6:30, Taiwan’s 18,919 breakfast shops turn on their griddles 
 
 ## Further Reading
 
-- [Night Market Culture](/food/夜市文化) — Another important food-cultural space in Taiwan
-- [Taiwanese Street Foods](/food/台灣小吃) — More local Taiwanese foods
-- [Tea Culture](/food/茶文化) — Taiwan’s traditional beverage culture traditions
+- [Night Market Culture](/en/food/night-market-culture) — Another important food-cultural space in Taiwan
+- [Taiwanese Street Foods](/en/food/taiwanese-street-food) — More local Taiwanese foods
+- [Tea Culture](/en/culture/golden-age-echoes-taiwan-tea-culture) — Taiwan’s traditional beverage culture traditions

@@ -236,10 +236,10 @@ The act of being assigned a name was never abolished. Only the person handing ou
 
 ## Further Reading
 
-- [Loanwords and Language Contact in Taiwan](/culture/台灣外來語與語言接觸) — From borrowings among Japanese, English, and Taiwanese, see how Taiwan’s multilingual layers stack up
-- [Taiwan’s Indigenous Language Revitalization Movement](/culture/台灣原住民語言復振運動) — Another line in the recovery of naming authority, from Indigenous-language revitalization through the 2024 Name Act amendment
-- [Chiung Wi-vun](/people/蔣為文) — A parallel extension of the “de-Sinicization” logic in the Tâi-gí writing movement, and another side of naming and script sovereignty
-- [Taiwan Sensibility](/culture/台灣感性) — A curatorial view of cultural mentality, offering another layer for understanding why Taiwanese people so often feel they need a foreign-language name
+- [Loanwords and Language Contact in Taiwan](/en/culture/loanwords-and-language-contact-in-taiwan) — From borrowings among Japanese, English, and Taiwanese, see how Taiwan’s multilingual layers stack up
+- [Taiwan’s Indigenous Language Revitalization Movement](/en/culture/indigenous-language-revitalization-movement) — Another line in the recovery of naming authority, from Indigenous-language revitalization through the 2024 Name Act amendment
+- [Chiung Wi-vun](/en/people/chiung-wi-vun) — A parallel extension of the “de-Sinicization” logic in the Tâi-gí writing movement, and another side of naming and script sovereignty
+- [Taiwan Sensibility](/en/culture/taiwanese-sensibility) — A curatorial view of cultural mentality, offering another layer for understanding why Taiwanese people so often feel they need a foreign-language name
 
 ## Image Sources
 

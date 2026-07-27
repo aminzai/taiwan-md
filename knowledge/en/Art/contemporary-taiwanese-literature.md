@@ -115,9 +115,9 @@ Chen Szu-hung writes from Berlin in Chinese about Yongjing, Changhua; Wu Ming-yi
 
 ## Further Reading
 
-- [Post-Martial Law Taiwanese Literature](/art/post-martial-law-taiwanese-literature) — The 1987–2000 generation of diverse explosion (political fiction, women, indigenous peoples, mother tongue), the intermediate generation in which Luo Yi-chun, Chu Tien-wen, and Chu Tien-hsin matured
-- [Postwar Taiwanese Literature](/art/postwar-taiwanese-literature) — The 42 years from 1945 to 1987: linguistic loss, modernism, native soil debate, and women's awakening under martial law
-- [History of Taiwanese Literature](/art/history-of-taiwanese-literature) — The overall arc from the Dutch and Spanish, through Ming-Qing, the Japanese colonial period, the postwar period, and into the present
+- [Post-Martial Law Taiwanese Literature](/en/art/post-martial-law-taiwanese-literature) — The 1987–2000 generation of diverse explosion (political fiction, women, indigenous peoples, mother tongue), the intermediate generation in which Luo Yi-chun, Chu Tien-wen, and Chu Tien-hsin matured
+- [Postwar Taiwanese Literature](/en/art/postwar-taiwanese-literature) — The 42 years from 1945 to 1987: linguistic loss, modernism, native soil debate, and women's awakening under martial law
+- [History of Taiwanese Literature](/en/art/history-of-taiwanese-literature) — The overall arc from the Dutch and Spanish, through Ming-Qing, the Japanese colonial period, the postwar period, and into the present
 
 ## References
 

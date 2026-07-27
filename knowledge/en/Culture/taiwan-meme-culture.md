@@ -145,10 +145,10 @@ But most importantly, it proves a distinctive capacity Taiwanese people have whe
 
 ## Further Reading
 
-- [Ma Ying-jeou Memes](/society/馬英九迷因) — A single case study of political figure memes: how 19 memes accumulated into a former president's second public face
-- [Grandparent Images (長輩圖)](/culture/長輩圖) — Another meme propagation pathway under LINE group ecology
-- [PTT BBS](/technology/PTT批踢踢) — The originating platform for most political memes
-- [Taiwan VTuber](/culture/台灣VTuber) — Cultural extensions from meme to virtual idol
+- [Ma Ying-jeou Memes](/en/society/ma-ying-jeou-meme) — A single case study of political figure memes: how 19 memes accumulated into a former president's second public face
+- [Grandparent Images (長輩圖)](/en/culture/elder-greeting-images) — Another meme propagation pathway under LINE group ecology
+- [PTT BBS](/en/technology/ptt-bulletin-board-system) — The originating platform for most political memes
+- [Taiwan VTuber](/en/culture/taiwan-vtuber) — Cultural extensions from meme to virtual idol
 
 ---
 

@@ -28,7 +28,7 @@ In 1977, Lin Yixiong was elected to the **Taiwan Provincial Council** (a provinc
 
 ## Arrest in the Kaohsiung Incident
 
-At the end of 1979, the Kaohsiung Incident erupted. Lin Yixiong was arrested alongside [[Shih Ming-te](/en/People/shih-ming-te/)], Huang Hsin-chieh, and others, and was tried by military court on sedition charges. He insisted on defending himself in court and refused to plead guilty, demonstrating the uncompromising character of a legal professional. Yet it was during the course of the trial that the Lin Family Murders occurred, irrevocably altering the trajectory of his life thereafter.[^2]
+At the end of 1979, the Kaohsiung Incident erupted. Lin Yixiong was arrested alongside [[Shih Ming-te](/en/people/shih-ming-te/)], Huang Hsin-chieh, and others, and was tried by military court on sedition charges. He insisted on defending himself in court and refused to plead guilty, demonstrating the uncompromising character of a legal professional. Yet it was during the course of the trial that the Lin Family Murders occurred, irrevocably altering the trajectory of his life thereafter.[^2]
 
 ## The Lin Family Murders
 
@@ -85,4 +85,4 @@ Assessments of him remain divided to this day: supporters regard him as the mora
 ## Further Reading
 
 - [Tzulin Education Foundation](https://www.tzlin.org.tw/) — Official website of the civic education organization founded by Lin Yixiong
-- [Shih Ming-te](/en/People/shih-ming-te/) — Fellow defendant in the Kaohsiung Incident and major figure in the dangwai movement
+- [Shih Ming-te](/en/people/shih-ming-te/) — Fellow defendant in the Kaohsiung Incident and major figure in the dangwai movement

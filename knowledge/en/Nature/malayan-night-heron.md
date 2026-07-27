@@ -124,10 +124,10 @@ Swinhoe wrote "rare" in Tamsui 160 years ago. Today we hear the deep "whooo, who
 **Further reading:**
 
 - [Taiwan Bird Window Collision Issue](/nature/taiwan-bird-window-collision) — Malayan Night Heron roadkill is just one facet of urban bird risks; glass curtain walls cause bird deaths at a far more invisible scale each year
-- [The Ornithology of Formosa](/nature/the-ornithology-of-formosa) — Swinhoe's 1865 entry "Malayan Night Heron — rare" in Tamsui is a founding note in this island's ornithological history
-- [Taiwan Forest Ecosystems](/nature/taiwan-forest-ecosystems) — The Malayan Night Heron's original low-elevation broadleaf forest niche, the point of comparison for understanding its urbanization
-- [Formosan Rock Macaque](/nature/formosan-rock-macaque) — Another case of wildlife entering the human activity zone, the inverse of the Malayan Night Heron expansion: humans keep encountering it on roads
-- [Endemic Species](/nature/endemic-species) — The Malayan Night Heron is not a Taiwan endemic, but its urban population expansion in Taiwan is globally unique in scale
+- [The Ornithology of Formosa](/en/nature/the-ornithology-of-formosa) — Swinhoe's 1865 entry "Malayan Night Heron — rare" in Tamsui is a founding note in this island's ornithological history
+- [Taiwan Forest Ecosystems](/en/nature/taiwan-forest-ecosystems) — The Malayan Night Heron's original low-elevation broadleaf forest niche, the point of comparison for understanding its urbanization
+- [Formosan Rock Macaque](/en/nature/formosan-rock-macaque) — Another case of wildlife entering the human activity zone, the inverse of the Malayan Night Heron expansion: humans keep encountering it on roads
+- [Endemic Species](/en/nature/endemic-species) — The Malayan Night Heron is not a Taiwan endemic, but its urban population expansion in Taiwan is globally unique in scale
 
 ## Image Credits
 

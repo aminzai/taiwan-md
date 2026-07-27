@@ -200,10 +200,10 @@ And this island, after the night of January 15, learned how to finish the words 
 
 ## Further Reading
 
-- [Tsai Ing-wen](/people/蔡英文) — The January 16, 2016 victory speech "no one should have to apologize for their identity" was a direct response to those 90 seconds
+- [Tsai Ing-wen](/en/people/tsai-ing-wen) — The January 16, 2016 victory speech "no one should have to apologize for their identity" was a direct response to those 90 seconds
 - [Jay Chou](/en/people/jay-chou/) — Beyond Tzuyu's 10-million Instagram followers, the only Taiwanese artist ranked higher
-- [Taiwan Democratization](/history/台灣民主轉型) — The 2016 election was Taiwan's third party rotation, and those 90 seconds were the weightiest moment in it
-- [Tai Tzu-ying](/people/戴資穎) — Another Tainan girl of the same generation who left home at 13 to fight for her dreams
+- [Taiwan Democratization](/en/history/taiwan-democratization) — The 2016 election was Taiwan's third party rotation, and those 90 seconds were the weightiest moment in it
+- [Tai Tzu-ying](/en/people/tai-tzu-ying) — Another Tainan girl of the same generation who left home at 13 to fight for her dreams
 
 ## References
 

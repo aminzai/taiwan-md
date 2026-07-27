@@ -75,9 +75,9 @@ When Zhang De-cheng died in 1995, more than seventy years had passed since his f
 
 **Further reading**
 
-- [Taiwanese Glove Puppetry](/culture/布袋戲) — Another traditional puppet theater that endured Kominka suppression, TV bans, and commercial transformation in Taiwan; the two are the twin lineages of Taiwan's traditional puppet arts
-- [Taiwan Temple Festivals and Zhentou Culture](/culture/台灣廟會與陣頭文化) — Shadow puppetry was originally performed at temple squares; temple festivals are the common starting point for all of Taiwan's traditional performing arts
-- [Hakka Culture and Language](/culture/客家文化與語言) — Another facet of southern Taiwan's ethnic culture, sharing the same southern Taiwan cultural ecosystem with the Hokkien shadow puppet tradition
+- [Taiwanese Glove Puppetry](/en/culture/taiwanese-glove-puppetry-budaixi) — Another traditional puppet theater that endured Kominka suppression, TV bans, and commercial transformation in Taiwan; the two are the twin lineages of Taiwan's traditional puppet arts
+- [Taiwan Temple Festivals and Zhentou Culture](/en/culture/taiwan-temple-festivals-and-performance-troupes) — Shadow puppetry was originally performed at temple squares; temple festivals are the common starting point for all of Taiwan's traditional performing arts
+- [Hakka Culture and Language](/en/culture/hakka-culture-and-language) — Another facet of southern Taiwan's ethnic culture, sharing the same southern Taiwan cultural ecosystem with the Hokkien shadow puppet tradition
 
 ## References
 

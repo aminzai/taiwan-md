@@ -149,9 +149,9 @@ They do not answer.
 
 ## Further Reading
 
-- [Taiwan's Gaming Industry and Digital Entertainment](/technology/台灣遊戲產業與數位娛樂) — Taiwan's gaming panorama, from agency to original IP
-- [Nightlife and KTV Culture](/lifestyle/夜生活與KTV文化) — Another Taiwanese social ritual
-- [Taiwan's Convenience Store Culture](/lifestyle/台灣便利商店文化) — The other 24-hour infrastructure of everyday Taiwanese life
+- [Taiwan's Gaming Industry and Digital Entertainment](/en/technology/taiwan-gaming-industry) — Taiwan's gaming panorama, from agency to original IP
+- [Nightlife and KTV Culture](/en/lifestyle/nightlife-and-ktv-culture) — Another Taiwanese social ritual
+- [Taiwan's Convenience Store Culture](/en/lifestyle/convenience-store-culture) — The other 24-hour infrastructure of everyday Taiwanese life
 
 ---
 

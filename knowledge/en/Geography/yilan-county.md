@@ -242,12 +242,12 @@ Next time you go to Yilan, do not only go to Jiaoxi hot springs, and do not only
 
 ## Further reading
 
-- [Administrative divisions of Taiwan](/geography/台灣行政區劃) — The administrative history of the 1812 establishment of Kavalan Subprefecture, the 1875 renaming as Yilan County, and the Japanese colonial system after 1895
-- [Taiwan’s coastal landforms and marine landscapes](/geography/台灣海岸地形與海洋地景) — The geological context of the volcanic island of Guishan Island, the alluvial fan of the Lanyang River, and the Suhua coastal zone
-- [Taiwan’s agricultural landscapes and industrial distribution](/geography/台灣農業地景與產業分布) — The position of farmland fragmentation on the Lanyang Plain within Taiwan’s agricultural landscape
-- [Taiwan’s urban development and urban-rural divide](/geography/台灣都市發展與城鄉差距) — The satellite-city effect after the Hsuehshan Tunnel incorporated Yilan into Taipei’s one-day living sphere
-- [Taiwan’s hot spring landscapes](/geography/台灣溫泉地景) — The special position of Jiaoxi Hot Spring within Taiwan’s hot spring geography
-- [Keelung City](/geography/基隆市) — A companion article in the 22 counties and cities series, on a northeastern county-city that, like Yilan, is “invisible to Taipei”
+- [Administrative divisions of Taiwan](/en/geography/administrative-divisions-of-taiwan) — The administrative history of the 1812 establishment of Kavalan Subprefecture, the 1875 renaming as Yilan County, and the Japanese colonial system after 1895
+- [Taiwan’s coastal landforms and marine landscapes](/en/geography/taiwan-coastal-landforms-and-seascapes) — The geological context of the volcanic island of Guishan Island, the alluvial fan of the Lanyang River, and the Suhua coastal zone
+- [Taiwan’s agricultural landscapes and industrial distribution](/en/geography/taiwan-agricultural-landscapes-and-industry-belts) — The position of farmland fragmentation on the Lanyang Plain within Taiwan’s agricultural landscape
+- [Taiwan’s urban development and urban-rural divide](/en/society/taiwan-urban-development-and-rural-urban-divide) — The satellite-city effect after the Hsuehshan Tunnel incorporated Yilan into Taipei’s one-day living sphere
+- [Taiwan’s hot spring landscapes](/en/geography/taiwan-hot-springs-landscape) — The special position of Jiaoxi Hot Spring within Taiwan’s hot spring geography
+- [Keelung City](/en/geography/keelung-city) — A companion article in the 22 counties and cities series, on a northeastern county-city that, like Yilan, is “invisible to Taipei”
 
 ## Image sources
 

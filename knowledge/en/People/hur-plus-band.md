@@ -26,6 +26,7 @@ lastHumanReview: false
 category: People
 featured: false
 ---
+
 > **30-second overview:** HUR+ (originally HUR), 2020 runners-up of _Diamond Generation DD52_ — six members from "Storm Spades" debuted, with producer Felipe.Z founding AOA Entertainment Lab. They lost the finale by 2.5 points, but the champion group G.O.F saw their momentum collapse within a year, and fellow debut group PINK FUN was rocked by member departures. Six years on, HUR+ is the only one of the three groups still releasing albums. Three albums (_REVELATION_, _Crimzon_, _9OF9 ARCANA_), a crowdfunding campaign that broke NT$1.5 million in ten minutes for a South Korea promotional trip, and members from Mongolia, the UK, Indonesia, and Vietnam. Felipe.Z said: "If you use the same Korean formula, how could Taiwan ever win?"
 
 September 4, 2020, evening. The finale of _Diamond Generation DD52_.
@@ -203,11 +204,11 @@ HUR+ is proving this hypothesis. Not fully proven yet, but every additional year
 
 ## Further Reading
 
-- [Lien Ying](/people/連穎) — HUR+ main dancer; Taiwan's first girl group member to go solo while the group remains active. "The standard of dance a girl group should have"
-- [Taiwan's New Idol Generation](/culture/台灣新偶像世代) — From DD52 to CHUANG ASIA, six years of idol competition industry experiments in Taiwan
-- [Yang Cheng-Lin](/people/楊丞琳) — DD52 head mentor, also a 25-year story of carving out autonomy from the idol system
+- [Lien Ying](/en/people/lien-ying) — HUR+ main dancer; Taiwan's first girl group member to go solo while the group remains active. "The standard of dance a girl group should have"
+- [Taiwan's New Idol Generation](/en/culture/taiwan-new-idol-generation) — From DD52 to CHUANG ASIA, six years of idol competition industry experiments in Taiwan
+- [Yang Cheng-Lin](/en/people/rainie-yang) — DD52 head mentor, also a 25-year story of carving out autonomy from the idol system
 - [Mayday](/people/五月天) — Another Taiwanese music group's long-distance run from small venues to Asian arenas
-- [Taiwan Independent Music](/music/台灣獨立音樂) — The intersection between HUR+'s musical style and indie electronic music
+- [Taiwan Independent Music](/en/music/indie-music-scene) — The intersection between HUR+'s musical style and indie electronic music
 
 ## References
 

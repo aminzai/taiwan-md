@@ -76,9 +76,9 @@ From Tsai A-ga’s first video to Chi Hsuan’s ten million subscribers, Taiwane
 
 **Further reading**:
 
-- [Red Shin (Kouki)](/people/阿神) — From his own account of eleven years of daily uploads, through two separate hiatus announcements, to a 2026 return, a concrete illustration of how creators rewrite fixed publishing commitments.
-- [PanSci](/society/泛科學) — From popular-science articles to short-form video, YouTube MCNs, and services for knowledge creators, this case helps explain how knowledge-based creators respond to algorithms and commercialization.
-- [Wretch (無名小站)](/culture/無名小站) — The cradle of Taiwan's first generation of amateur creators (Wan Wan, Giddens Ko, the Pretty Girls Album). The creator economy that existed before YouTubers grew out of this platform.
+- [Red Shin (Kouki)](/en/people/red-shin-minecraft-youtuber) — From his own account of eleven years of daily uploads, through two separate hiatus announcements, to a 2026 return, a concrete illustration of how creators rewrite fixed publishing commitments.
+- [PanSci](/en/society/pansci) — From popular-science articles to short-form video, YouTube MCNs, and services for knowledge creators, this case helps explain how knowledge-based creators respond to algorithms and commercialization.
+- [Wretch (無名小站)](/en/culture/wretch) — The cradle of Taiwan's first generation of amateur creators (Wan Wan, Giddens Ko, the Pretty Girls Album). The creator economy that existed before YouTubers grew out of this platform.
 
 ## References
 

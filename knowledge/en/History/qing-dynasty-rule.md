@@ -1,19 +1,19 @@
 ---
-title: "Qing Dynasty Rule"
+title: 'Qing Dynasty Rule'
 description: "From 1683 to 1895, the Qing dynasty ruled Taiwan for approximately 212 years, transitioning from passive governance to active development, laying the foundation for modern Taiwan's administrative divisions and Han Chinese society."
 date: 2026-03-17
-author: "Taiwan.md Contributors"
-category: "History"
-subcategory: "殖民與帝國"
-tags: ["History", "清朝", "開港通商", "牡丹社事件"]
+author: 'Taiwan.md Contributors'
+category: 'History'
+subcategory: '殖民與帝國'
+tags: ['History', '清朝', '開港通商', '牡丹社事件']
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
-translatedFrom: "History/清治時期.md"
-sourceCommitSha: "18157ab5d"
-sourceContentHash: "sha256:dca863d69b937e0a"
-sourceBodyHash: "sha256:74eb6966230843b2"
-translatedAt: "2026-05-17T05:34:48+08:00"
+translatedFrom: 'History/清治時期.md'
+sourceCommitSha: '18157ab5d'
+sourceContentHash: 'sha256:dca863d69b937e0a'
+sourceBodyHash: 'sha256:74eb6966230843b2'
+translatedAt: '2026-05-17T05:34:48+08:00'
 ---
 
 # Qing Dynasty Rule
@@ -32,31 +32,31 @@ Although these uprisings were suppressed, they forced the Qing court to adjust T
 
 ## Border Control: The Earth-Ox Red Line and the Ai'yong System
 
-The core of Qing governance over Taiwan's Indigenous peoples was a physical and administrative boundary: the **Earth-Ox Red Line** (*Tuniuxian*). Around the 1760s, the Qing government marked the Han–Indigenous boundary with earthen mounds (called "earth oxen," *tuniu*) and depicted the line in red on maps, prohibiting Han settlers from crossing into Indigenous territory. This line served both as a defense to protect Indigenous peoples and as an administrative tool to prevent conflicts arising from Han expansion, but it was repeatedly breached under population pressure.
+The core of Qing governance over Taiwan's Indigenous peoples was a physical and administrative boundary: the **Earth-Ox Red Line** (_Tuniuxian_). Around the 1760s, the Qing government marked the Han–Indigenous boundary with earthen mounds (called "earth oxen," _tuniu_) and depicted the line in red on maps, prohibiting Han settlers from crossing into Indigenous territory. This line served both as a defense to protect Indigenous peoples and as an administrative tool to prevent conflicts arising from Han expansion, but it was repeatedly breached under population pressure.
 
-The Qing classified Indigenous peoples by degree of sinicization: **"cooked savages"** (*shufan*—those already sinicized and registered for taxation, mainly the **Pingpu** groups of the western plains) and **"raw savages"** (*shengfan*—those not sinicized, living in the mountains). A third category, **"transformed savages"** (*huafan*), referred to groups in transition toward sinicization. Under pressure from Han immigration, Pingpu groups progressively lost their lands; some adopted Han surnames, learned the Han language, and assimilated into Han society, with their traditional cultures and languages accelerating their decline in the 19th century.
+The Qing classified Indigenous peoples by degree of sinicization: **"cooked savages"** (_shufan_—those already sinicized and registered for taxation, mainly the **Pingpu** groups of the western plains) and **"raw savages"** (_shengfan_—those not sinicized, living in the mountains). A third category, **"transformed savages"** (_huafan_), referred to groups in transition toward sinicization. Under pressure from Han immigration, Pingpu groups progressively lost their lands; some adopted Han surnames, learned the Han language, and assimilated into Han society, with their traditional cultures and languages accelerating their decline in the 19th century.
 
-Guarding the Earth-Ox Red Line was the **ai'yong** (border garrison) system: guard posts (*ailiao*) were established along the boundary, manned by garrison soldiers (*aiding* or *aiyong*) to prevent "raw savages" from carrying out headhunting raids (*chucao*) and to stop Han settlers from crossing the line. Ai'yong were often recruited and funded by local land-reclamation households, forming a border-control mechanism between state military force and civilian self-defense, and the line was extended into the mountains as reclamation advanced.[^4]
+Guarding the Earth-Ox Red Line was the **ai'yong** (border garrison) system: guard posts (_ailiao_) were established along the boundary, manned by garrison soldiers (_aiding_ or _aiyong_) to prevent "raw savages" from carrying out headhunting raids (_chucao_) and to stop Han settlers from crossing the line. Ai'yong were often recruited and funded by local land-reclamation households, forming a border-control mechanism between state military force and civilian self-defense, and the line was extended into the mountains as reclamation advanced.[^4]
 
 ## Maturation of the Immigrant Society and Factional Violence
 
 Around 1760, the Qing relaxed cross-strait immigration restrictions, and the scale of Han Chinese immigration expanded dramatically. Taiwan's population exceeded two million by the early 19th century. Agricultural development advanced from the southwestern plains toward central and northern Taiwan. Irrigation works such as the Baodong Canal (completed 1719) and the Liugong Canal promoted rice cultivation, and Taiwanese rice became a major export to Qing China.
 
-Port towns such as Lukang and Monga (Wanhua) became commercial hubs, connecting trade between the mainland and Taiwan. However, the immigrant society was far from peaceful—Hokkien settlers from Zhangzhou and Quanzhou, along with Hakka settlers, clashed over land, water, and trade interests, erupting in a series of **factional fights** (*fenlei xiedou*). The **1722** Zhangzhou–Quanzhou major factional fight in Zhanghua, the **1809** renewed ethnic conflict in central Taiwan, and the **1809** "Upper–Lower Suburb Clash" (*Dingxia Jiaopin*) in Monga (in which Quanzhou Tong'an people were defeated by Zhangzhou people and their allies and subsequently relocated to Dalongtong) were three of the largest incidents. These factional fights reshaped the settlement distribution pattern of western Taiwan and left deep ethnic memories in the folk tradition.[^5]
+Port towns such as Lukang and Monga (Wanhua) became commercial hubs, connecting trade between the mainland and Taiwan. However, the immigrant society was far from peaceful—Hokkien settlers from Zhangzhou and Quanzhou, along with Hakka settlers, clashed over land, water, and trade interests, erupting in a series of **factional fights** (_fenlei xiedou_). The **1722** Zhangzhou–Quanzhou major factional fight in Zhanghua, the **1809** renewed ethnic conflict in central Taiwan, and the **1809** "Upper–Lower Suburb Clash" (_Dingxia Jiaopin_) in Monga (in which Quanzhou Tong'an people were defeated by Zhangzhou people and their allies and subsequently relocated to Dalongtong) were three of the largest incidents. These factional fights reshaped the settlement distribution pattern of western Taiwan and left deep ethnic memories in the folk tradition.[^5]
 
 Hometown associations, Yimin (righteous people) worship, Mazu temples, and other social organizations integrated territorial and kinship ties, playing a key role in post-conflict order reconstruction and forming the distinctive folk order of Qing-era Taiwan.
 
 ## The Rover Incident and the South Cape Accord
 
-Before the 1874 Mudan Incident, Indigenous–Han conflict in southern Taiwan had already triggered a diplomatic crisis. In **March 1867**, the American merchant ship *Rover* ran aground near Guizijiao (near present-day Eluanbi) at the southernmost tip of Taiwan. Surviving crew members who came ashore were killed by Paiwan people. Charles Le Gendre, the U.S. consul in Xiamen, traveled to Taiwan multiple times to negotiate. After Qing officials deflected responsibility by claiming they had no jurisdiction over "lands beyond civilization," Le Gendre negotiated directly with Paiwan chief Tauketok, and the two sides reached an agreement at South Cape establishing principles for the protection of shipwrecked sailors—known historically as the **South Cape Accord** (*Nan Jiao Zhi Meng*). This incident exposed the Qing court's jurisdictional vacuum in Taiwan's mountainous regions and provided a diplomatic precedent for Japan's 1874 military expedition, launched on the grounds that "the Qing was unable to exercise jurisdiction."[^4]
+Before the 1874 Mudan Incident, Indigenous–Han conflict in southern Taiwan had already triggered a diplomatic crisis. In **March 1867**, the American merchant ship _Rover_ ran aground near Guizijiao (near present-day Eluanbi) at the southernmost tip of Taiwan. Surviving crew members who came ashore were killed by Paiwan people. Charles Le Gendre, the U.S. consul in Xiamen, traveled to Taiwan multiple times to negotiate. After Qing officials deflected responsibility by claiming they had no jurisdiction over "lands beyond civilization," Le Gendre negotiated directly with Paiwan chief Tauketok, and the two sides reached an agreement at South Cape establishing principles for the protection of shipwrecked sailors—known historically as the **South Cape Accord** (_Nan Jiao Zhi Meng_). This incident exposed the Qing court's jurisdictional vacuum in Taiwan's mountainous regions and provided a diplomatic precedent for Japan's 1874 military expedition, launched on the grounds that "the Qing was unable to exercise jurisdiction."[^4]
 
 ## Late Qing Crisis: Shen Baozhen's Reforms and Treaty Port Openings
 
-In 1874, Japan dispatched troops to southern Taiwan on the pretext that Ryukyuan fishermen had been killed there (the Mudan Incident). Under diplomatic pressure, the Qing court was forced to acknowledge responsibility, pay an indemnity, and withdraw. This incident prompted the Qing to send Shen Baozhen as Imperial Commissioner to Taiwan. Shen abolished the old cross-strait immigration restrictions, promoted the "opening the mountains and pacifying the savages" (*kaishan fufan*) policy in Indigenous areas, and established Taipei Prefecture to strengthen northern administration.
+In 1874, Japan dispatched troops to southern Taiwan on the pretext that Ryukyuan fishermen had been killed there (the Mudan Incident). Under diplomatic pressure, the Qing court was forced to acknowledge responsibility, pay an indemnity, and withdraw. This incident prompted the Qing to send Shen Baozhen as Imperial Commissioner to Taiwan. Shen abolished the old cross-strait immigration restrictions, promoted the "opening the mountains and pacifying the savages" (_kaishan fufan_) policy in Indigenous areas, and established Taipei Prefecture to strengthen northern administration.
 
 Under the 1858 Treaty of Tianjin, and from 1863 onward, four ports—Tamsui, Anping, Keelung (Jilong), and Takao (Dagou, present-day Kaohsiung)—were successively opened to foreign trade. Foreign merchants arrived, and tea, camphor, and sugar became the main export commodities, integrating Taiwan into the global trading system.
 
-In 1885, Taiwan was formally established as a province, with Liu Mingchuan serving as its first governor. He built the railway from Keelung to Hsinchu, erected telegraph lines, and established a postal system—the period of the most intensive modernization construction in Qing-era Taiwan. The **Land Tax Reform** (*qingfu gaige*, 1886–1888) was another major initiative of Liu Mingchuan: a comprehensive land survey was conducted across Taiwan to clarify land ownership records, and large amounts of "hidden fields" (*yintian*) were brought into the tax base, increasing government revenue. However, the survey provoked resistance from landowners. The **Shi Jiuduan Incident of 1888**, triggered by local tax resistance in Zhanghua, drew several thousand people to besiege Zhanghua city. Although it was suppressed, it remained one of the largest popular uprisings in late Qing Taiwan.[^5]
+In 1885, Taiwan was formally established as a province, with Liu Mingchuan serving as its first governor. He built the railway from Keelung to Hsinchu, erected telegraph lines, and established a postal system—the period of the most intensive modernization construction in Qing-era Taiwan. The **Land Tax Reform** (_qingfu gaige_, 1886–1888) was another major initiative of Liu Mingchuan: a comprehensive land survey was conducted across Taiwan to clarify land ownership records, and large amounts of "hidden fields" (_yintian_) were brought into the tax base, increasing government revenue. However, the survey provoked resistance from landowners. The **Shi Jiuduan Incident of 1888**, triggered by local tax resistance in Zhanghua, drew several thousand people to besiege Zhanghua city. Although it was suppressed, it remained one of the largest popular uprisings in late Qing Taiwan.[^5]
 
 ## Finale: Defeat in the First Sino-Japanese War and the Cession of Taiwan
 
@@ -69,16 +69,20 @@ This resistance has been interpreted in later Taiwanese history as the first att
 ## References
 
 [^1]: [Taiwan under Qing rule — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%B8%85%E6%B2%BB%E6%99%82%E6%9C%9F) — Overview of Qing-era Taiwan, including the governing system, chronology of major events, and policies of each phase.
+
 [^2]: [Liu Mingchuan — Wikipedia](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3) — Biography of Liu Mingchuan, the first governor of Taiwan Province, and records of his modernization and provincial construction efforts.
+
 [^3]: [Japanese invasion of Taiwan (1895) — Wikipedia](https://zh.wikipedia.org/wiki/%E4%B9%99%E6%9C%AA%E6%88%B0%E7%88%AD) — The complete course of the Republic of Formosa's resistance to the Japanese takeover in 1895, including Tang Jing-song's flight.
-[^4]: [Rover Incident — Wikipedia](https://zh.wikipedia.org/wiki/%E7%BE%85%E5%A6%B9%E8%99%9F%E4%BA%8B%E4%BB%B6) — The 1867 *Rover* incident, the South Cape Accord, and the full account of Charles Le Gendre's negotiations.
+
+[^4]: [Rover Incident — Wikipedia](https://zh.wikipedia.org/wiki/%E7%BE%85%E5%A6%B9%E8%99%9F%E4%BA%8B%E4%BB%B6) — The 1867 _Rover_ incident, the South Cape Accord, and the full account of Charles Le Gendre's negotiations.
+
 [^5]: [Shi Jiuduan Incident — Wikipedia](https://zh.wikipedia.org/wiki/%E6%96%BD%E4%B9%9D%E7%B7%9E%E4%BA%8B%E4%BB%B6) — The 1888 Zhanghua popular uprising triggered by the Land Tax Reform, the largest tax-resistance incident in late Qing Taiwan.
 
-## Terminology Note: *Qing Zhi* vs. *Qing Ling*
+## Terminology Note: _Qing Zhi_ vs. _Qing Ling_
 
-This article uses the term "**Qing Dynasty Rule**" (*Qing zhi shiqi*). In Taiwanese historiography, there is divergence over the conventional designation for this period: "*Qing zhi*" (清治) emphasizes the act of governance and carries a more neutral tone, while "*Qing ling*" (清領, "Qing occupation") carries overtones of sovereignty disputes and is more commonly used in historiographical perspectives that emphasize Taiwan's subjectivity. Both usages appear in academic and educational contexts. This article adopts "*Qing zhi*" in pursuit of neutral presentation, with no presupposed political stance.
+This article uses the term "**Qing Dynasty Rule**" (_Qing zhi shiqi_). In Taiwanese historiography, there is divergence over the conventional designation for this period: "_Qing zhi_" (清治) emphasizes the act of governance and carries a more neutral tone, while "_Qing ling_" (清領, "Qing occupation") carries overtones of sovereignty disputes and is more commonly used in historiographical perspectives that emphasize Taiwan's subjectivity. Both usages appear in academic and educational contexts. This article adopts "_Qing zhi_" in pursuit of neutral presentation, with no presupposed political stance.
 
 ## Further Reading
 
-- [Japanese invasion of Taiwan (1895)](/history/乙未之役) — The end of Qing rule: the 1895 Treaty of Shimonoseki cession of Taiwan and the Republic of Formosa's resistance
-- [Dutch, Spanish, and Tungning Period](/history/荷西明鄭時期) — Taiwan's history before Qing rule
+- [Japanese invasion of Taiwan (1895)](/en/history/1895-taiwan-resistance-war) — The end of Qing rule: the 1895 Treaty of Shimonoseki cession of Taiwan and the Republic of Formosa's resistance
+- [Dutch, Spanish, and Tungning Period](/en/history/dutch-spanish-and-koxinga-era) — Taiwan's history before Qing rule

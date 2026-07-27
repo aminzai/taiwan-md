@@ -214,13 +214,13 @@ This is a history of Taiwan written through “which days do we not have to work
 **Further Reading**:
 
 - [The 228 Incident](/history/二二八事件) — The 1947 massacre and how it became Taiwan's first statutory national holiday in 1997
-- [The Martial-Law Period](/history/戒嚴時期) — “Glorious October” and the authoritarian calendar behind Chiang Kai-shek's Birthday holiday
+- [The Martial-Law Period](/en/history/martial-law-era) — “Glorious October” and the authoritarian calendar behind Chiang Kai-shek's Birthday holiday
 - [Transitional Justice in Taiwan](/history/台灣轉型正義) — Why White Terror Remembrance Day still cannot enter the calendar
 - [Taiwan's Unification-Independence Spectrum](/society/台灣統獨光譜) — The identity map behind the three historical viewpoints of “retrocession / war's end / takeover”
-- [Chinese Taipei](/society/中華台北) — Another side of the dispute over the same “Republic of China,” Double Ten National Day, and Taiwan National Day
-- [Typhoon Days](/society/颱風假) — Another version of “whose holiday, whose shift”: the people who still work through wind and rain
-- [Dragon Boat Festival](/culture/端午節) — How a folk festival became an institutionalized “one day off” on the calendar
-- [Taiwan's Political Environment and Electoral System](/society/台灣政治環境與選舉制度) — How the blue-white-green seat structure in the Legislative Yuan determines the red letters on the calendar
+- [Chinese Taipei](/en/society/chinese-taipei) — Another side of the dispute over the same “Republic of China,” Double Ten National Day, and Taiwan National Day
+- [Typhoon Days](/en/society/typhoon-day) — Another version of “whose holiday, whose shift”: the people who still work through wind and rain
+- [Dragon Boat Festival](/en/culture/dragon-boat-festival) — How a folk festival became an institutionalized “one day off” on the calendar
+- [Taiwan's Political Environment and Electoral System](/en/society/taiwan-political-landscape-and-electoral-system) — How the blue-white-green seat structure in the Legislative Yuan determines the red letters on the calendar
 
 ---
 

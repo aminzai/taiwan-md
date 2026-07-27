@@ -96,8 +96,8 @@ Over four decades, Taiwan’s environmental movement has evolved from anti‑pol
 
 **Further Reading**:
 
-- [Discussion on Taiwan and Nuclear Power](/society/台灣與核能的討論) — How the anti‑nuclear movement emerged from the broader environmental movement and was reshaped by climate‑generation politics: a comprehensive debate history of four decades and three referendums
-- [Taiwan’s Climate Crisis and Net‑Zero Transition](/nature/台灣氣候危機與淨零轉型) — How environmental awareness has been translated into national‑level net‑zero policies and energy‑system restructuring
+- [Discussion on Taiwan and Nuclear Power](/en/society/taiwan-nuclear-debate) — How the anti‑nuclear movement emerged from the broader environmental movement and was reshaped by climate‑generation politics: a comprehensive debate history of four decades and three referendums
+- [Taiwan’s Climate Crisis and Net‑Zero Transition](/en/nature/taiwan-climate-change-net-zero-transition) — How environmental awareness has been translated into national‑level net‑zero policies and energy‑system restructuring
 
 ## References
 

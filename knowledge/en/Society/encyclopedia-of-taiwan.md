@@ -85,7 +85,7 @@ The future of Taiwan's knowledge sovereignty perhaps lies not in a "national can
 
 - Ministry of Culture (文化部) — the government body that led this project
 - Wikipedia (維基百科) — the concurrent Web 2.0 collaborative encyclopedia paradigm
-- [PanSci](/society/泛科學) — a civilian science platform and knowledge media; in contrast to the state-led encyclopedia, it illustrates how knowledge can be transformed within the platform economy from articles and courses to video and creator services
+- [PanSci](/en/society/pansci) — a civilian science platform and knowledge media; in contrast to the state-led encyclopedia, it illustrates how knowledge can be transformed within the platform economy from articles and courses to video and creator services
 - National Cultural Memory Database (國家文化記憶庫) — the successor platform that received this project's entries
 
 ---

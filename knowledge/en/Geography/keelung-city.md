@@ -188,19 +188,19 @@ Next time you go to Keelung, don't just visit Miaokou. Try leaving Taipei at 3:3
 
 ## Further Reading
 
-- [Taiwan Urban Development and Urban-Rural Disparities](/geography/台灣都市發展與城鄉差距) — Keelung's position as a "declining port city" within Taiwan's broader urban structure
-- [Taiwan Administrative Divisions](/geography/台灣行政區劃) — The administrative evolution: Shen Baozhen's renaming in 1875, upgrade to city status in 1924, reclassification as a provincial city in 1945
-- [Urban Characteristics and Regional Culture](/geography/城市特色與區域文化) — Keelung in comparative context with other counties and cities
-- [Jinguashi](/geography/金瓜石) — Keelung Port's largest hinterland industry: in 1932, the Shuiandong tramway carried gold to Zhengbin Fishing Port for shipment to Japan
-- [Yehliu](/geography/野柳) — Part of the same North Coast geological landscape belt
-- [Taiwan Coastal Terrain and Marine Landscapes](/geography/台灣海岸地形與海洋地景) — The formation of Keelung Islet and the Keelung Volcanic Group
-- [Chiayi City](/geography/嘉義市) — Another medium-sized provincial city in the 22 Counties and Cities Series, also a city suppressed by the capital framework — comparing two different fault lines
+- [Taiwan Urban Development and Urban-Rural Disparities](/en/society/taiwan-urban-development-and-rural-urban-divide) — Keelung's position as a "declining port city" within Taiwan's broader urban structure
+- [Taiwan Administrative Divisions](/en/geography/administrative-divisions-of-taiwan) — The administrative evolution: Shen Baozhen's renaming in 1875, upgrade to city status in 1924, reclassification as a provincial city in 1945
+- [Urban Characteristics and Regional Culture](/en/culture/urban-character-and-regional-culture) — Keelung in comparative context with other counties and cities
+- [Jinguashi](/en/geography/jinguashi) — Keelung Port's largest hinterland industry: in 1932, the Shuiandong tramway carried gold to Zhengbin Fishing Port for shipment to Japan
+- [Yehliu](/en/geography/yehliu-geopark) — Part of the same North Coast geological landscape belt
+- [Taiwan Coastal Terrain and Marine Landscapes](/en/geography/taiwan-coastal-landforms-and-seascapes) — The formation of Keelung Islet and the Keelung Volcanic Group
+- [Chiayi City](/en/geography/chiayi-city) — Another medium-sized provincial city in the 22 Counties and Cities Series, also a city suppressed by the capital framework — comparing two different fault lines
 - [Lienchiang County](/geography/連江縣) — 22 Counties and Cities Series: the Taiwan-Matsu ferry rocks from Keelung Port to Nangan for 8 to 10 hours; Keelung is the physical link between Matsu and the Taiwan mainland
-- [Miaoli County](/geography/苗栗縣) — 22 Counties and Cities Series: Hakka stubbornness vs. the five-star county magistrate paradox — placed alongside Keelung's "invisible to the capital" as two local political portraits
-- [Penghu County](/geography/澎湖縣) — 22 Counties and Cities Series: an outlying island that twice rejected gambling sovereignty choices — like Keelung, a forgotten port of departure
-- [Yilan County](/geography/宜蘭縣) — 22 Counties and Cities Series: two Yilans, before and after the Hsuehshan Tunnel — like Keelung, facing the fate of being "too close to the capital"
-- [Pingtung County](/geography/屏東縣) — 22 Counties and Cities Series: the 1874 Mudan Incident that changed Taiwan's fate / the 2009 Typhoon Morakot disaster where Linbian was submerged for a month — like Keelung, "a key node the center's narrative misses"
-- [Kinmen County](/geography/金門縣) — 22 Counties and Cities Series: the 56 hours of the 1949 Battle of Guningtou that determined Kinmen's 75-year fate and Taiwan's too / the 44 days of the August 23 Artillery Bombardment in 1958 with 474,910 shells fired — like Keelung, two versions of a "Cold War and hot war frontline"
+- [Miaoli County](/en/geography/miaoli-county) — 22 Counties and Cities Series: Hakka stubbornness vs. the five-star county magistrate paradox — placed alongside Keelung's "invisible to the capital" as two local political portraits
+- [Penghu County](/en/geography/penghu-county) — 22 Counties and Cities Series: an outlying island that twice rejected gambling sovereignty choices — like Keelung, a forgotten port of departure
+- [Yilan County](/en/geography/yilan-county) — 22 Counties and Cities Series: two Yilans, before and after the Hsuehshan Tunnel — like Keelung, facing the fate of being "too close to the capital"
+- [Pingtung County](/en/geography/pingtung-county) — 22 Counties and Cities Series: the 1874 Mudan Incident that changed Taiwan's fate / the 2009 Typhoon Morakot disaster where Linbian was submerged for a month — like Keelung, "a key node the center's narrative misses"
+- [Kinmen County](/en/geography/kinmen-county) — 22 Counties and Cities Series: the 56 hours of the 1949 Battle of Guningtou that determined Kinmen's 75-year fate and Taiwan's too / the 44 days of the August 23 Artillery Bombardment in 1958 with 474,910 shells fired — like Keelung, two versions of a "Cold War and hot war frontline"
 
 ## Image Credits
 

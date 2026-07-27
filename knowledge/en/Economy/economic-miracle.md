@@ -285,7 +285,7 @@ The authors of this story remain every single person in Taiwan.
 
 **Further Reading**:
 
-- [Uniform Invoice: The 1951 Piece of Paper That Turned the Entire Population into Tax Inspectors](/economy/發票) — The uniform invoice was a critical financial infrastructure built during the same period as the economic miracle; in its first year of operation in 1951, it caused a 75% surge in business tax revenue
+- [Uniform Invoice: The 1951 Piece of Paper That Turned the Entire Population into Tax Inspectors](/en/economy/taiwan-uniform-invoice) — The uniform invoice was a critical financial infrastructure built during the same period as the economic miracle; in its first year of operation in 1951, it caused a 75% surge in business tax revenue
 
 ## References
 

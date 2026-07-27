@@ -85,4 +85,4 @@ Digital technology is also opening new possibilities. Dynamic projections on bui
 ## Further Reading
 
 - [Taiwan Contemporary Art](/culture/台灣當代藝術) — The intersection of Taiwan street art and the contemporary art ecosystem
-- [Taiwan Electronic Music and Party Culture](/music/台灣電子音樂與派對文化) — The electronic music scene sharing subcultural roots with street art
+- [Taiwan Electronic Music and Party Culture](/en/music/taiwan-electronic-music-and-party-culture) — The electronic music scene sharing subcultural roots with street art

@@ -203,15 +203,15 @@ Stubbornness is this: you do not leave the land. Even if suffocating things have
 
 ## Further Reading
 
-- [Hakka Culture and Language](/culture/客家文化與語言) — The Taiwan-wide distribution of the Hakka Sixian accent, Miaoli’s main accent, alongside Hailu, Dabu, and Raoping, and the background to Miaoli’s 62.5% Hakka share
-- [Hakka Food Culture](/food/客家飲食文化) — The Hakka village table context of flat rice noodles, stir-fried pork intestines with shredded ginger, Hakka stir-fry, and lei cha
-- [Cultural Map of Taiwan’s 16 Indigenous Peoples](/culture/台灣原住民族16族文化地圖) — The Saisiyat’s place in Taiwan’s Indigenous genealogy, and the branches of southern Saisiyat in Nanzhuang and northern Saisiyat in Wufeng
-- [Zhong Lihe](/people/鍾理和) — A representative figure in Miaoli Hakka literature; although Zhong Lihe was from Meinong, Kaohsiung, the context of Hakka writing is connected
+- [Hakka Culture and Language](/en/culture/hakka-culture-and-language) — The Taiwan-wide distribution of the Hakka Sixian accent, Miaoli’s main accent, alongside Hailu, Dabu, and Raoping, and the background to Miaoli’s 62.5% Hakka share
+- [Hakka Food Culture](/en/food/hakka-food-culture) — The Hakka village table context of flat rice noodles, stir-fried pork intestines with shredded ginger, Hakka stir-fry, and lei cha
+- [Cultural Map of Taiwan’s 16 Indigenous Peoples](/en/culture/indigenous-peoples-16-tribes-cultural-map) — The Saisiyat’s place in Taiwan’s Indigenous genealogy, and the branches of southern Saisiyat in Nanzhuang and northern Saisiyat in Wufeng
+- [Zhong Lihe](/en/people/zhong-lihe-nativeland-eternal-seeker) — A representative figure in Miaoli Hakka literature; although Zhong Lihe was from Meinong, Kaohsiung, the context of Hakka writing is connected
 - [Taiwanese Traditional Crafts and Intangible Cultural Assets](/culture/台灣傳統工藝與無形文化資產) — Sanyi woodcarving as a representative Taiwanese woodcarving craft, and the Saisiyat Ritual to the Short Spirits as an Important National Folklore
-- [Keelung City](/geography/基隆市) — A sibling in the same batch of the 22 counties and cities series, another county-level city left behind by historical turns
-- [Hsinchu County](/geography/新竹縣) — Batch 2 of the 22 counties and cities series; the county with the highest Hakka share, 67.8%, placed alongside Miaoli’s “Hakka character” as another Hakka experience: TSMC’s Baoshan Phase II beside yimin faith
-- [Taiwan’s Administrative Divisions](/geography/台灣行政區劃) — Administrative history from Miaoli’s establishment as a county in 1889, postwar reorganization in 1950, and Toufen’s upgrade in 2015
-- [Taiwan’s Urban Development and Urban-Rural Divide](/geography/台灣都市發展與城鄉差距) — A larger-scale view of Miaoli’s position in Taiwan’s urban-rural structure as an inland Hakka county with population outflow
+- [Keelung City](/en/geography/keelung-city) — A sibling in the same batch of the 22 counties and cities series, another county-level city left behind by historical turns
+- [Hsinchu County](/en/geography/hsinchu-county) — Batch 2 of the 22 counties and cities series; the county with the highest Hakka share, 67.8%, placed alongside Miaoli’s “Hakka character” as another Hakka experience: TSMC’s Baoshan Phase II beside yimin faith
+- [Taiwan’s Administrative Divisions](/en/geography/administrative-divisions-of-taiwan) — Administrative history from Miaoli’s establishment as a county in 1889, postwar reorganization in 1950, and Toufen’s upgrade in 2015
+- [Taiwan’s Urban Development and Urban-Rural Divide](/en/society/taiwan-urban-development-and-rural-urban-divide) — A larger-scale view of Miaoli’s position in Taiwan’s urban-rural structure as an inland Hakka county with population outflow
 
 ## Image Sources
 

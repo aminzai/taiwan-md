@@ -151,11 +151,11 @@ Thus, the _Design Wanted_ cover is, in fact, also an exam paper. What it seeks t
 
 ## Further Reading
 
-- [Magazines](/culture/雜誌) — A century of evolution in Taiwan's magazine industry; Shopping Design is the representative case of the "soft magazine" lineage
-- [Human Magazine](/culture/人間雜誌) — Another soul of Taiwan's magazines, using documentary photography to discern and name the underclass; the flip side of the design curation magazine
-- [History of Advertising in Taiwan](/culture/台灣廣告史) — The cultivation source of Huang Wei-jung and Li Hui-chen; understanding how the "Ideology Advertising" generation brought storytelling craft into magazines
-- [Tea Ceremony and Aesthetics of Life in Taiwan](/culture/台灣茶道與生活美學) — How aesthetics of life grew in Taiwan into a discussable, purchasable daily practice
-- [Yung-Chen Nieh](/people/聶永真) — Another name pushing design into the public eye within the same Taiwanese design context
+- [Magazines](/en/culture/magazine) — A century of evolution in Taiwan's magazine industry; Shopping Design is the representative case of the "soft magazine" lineage
+- [Human Magazine](/en/culture/renjian-magazine) — Another soul of Taiwan's magazines, using documentary photography to discern and name the underclass; the flip side of the design curation magazine
+- [History of Advertising in Taiwan](/en/culture/taiwan-advertising-history) — The cultivation source of Huang Wei-jung and Li Hui-chen; understanding how the "Ideology Advertising" generation brought storytelling craft into magazines
+- [Tea Ceremony and Aesthetics of Life in Taiwan](/en/culture/taiwan-tea-ceremony-and-aesthetic-living) — How aesthetics of life grew in Taiwan into a discussable, purchasable daily practice
+- [Yung-Chen Nieh](/en/people/nieh-yung-jen) — Another name pushing design into the public eye within the same Taiwanese design context
 
 ## References
 

@@ -199,15 +199,15 @@ But the next time you stand on this grass, you will know.
 
 **Further reading:**
 
-- [Taipei City](/geography/台北市) — a 12-district panorama that places 44 South Village back into the timeline of Xinyi District and the full 22 cities and counties of Taiwan
-- [Development of Taiwan’s Cultural and Creative Parks](/culture/台灣文化創意園區發展) — from Huashan to Songshan Cultural and Creative Park to 44 South Village, the Taiwan model of “cultural-heritage preservation + cultural and creative tenancy”
-- [Taiwanese Military Dependents’ Village Cuisine](/food/台灣眷村菜) — Shandong pancakes, Hunan cured pork, Sichuan dan dan noodles: the material traces of how dependents’ village food geography corresponded to provincial origins
-- [Taiwan’s Provincial-Origin Tensions](/society/台灣省籍矛盾) — first-, second-, and third-generation waishengren, using 44 South Village to read postwar Taiwan’s ethnic structure
-- [Taipei 101](/geography/台北101) — the 401-meter supertall visible from the 44 South Village plaza; together with the dependents’ housing, it is one of two remainders of the same arsenal site
-- [Dadaocheng](/geography/大稻埕) — a sibling historic district from the same batch 1; a Qing-era commercial street and a postwar dependents’ village mark two different “street-formation moments” in Taipei
-- [Ximending](/geography/西門町) — a sibling historic district from the same batch 1; a Japanese colonial entertainment district and a postwar dependents’ village are two types of legacy left by the Japanese
-- [Yongkang Street](/geography/永康街) — two settlement patterns of post-1949 waishengren migration to Taiwan: dependents’ housing versus taking over Japanese-style dormitories
-- [Guling Street](/geography/牯嶺街) — the postwar Nanhai Academy area and Guling Street used-book district form another waishengren intellectual landscape, creating two postwar waishengren settlement structures with 44 South Village’s arsenal dependents’ housing: “literati versus military industry”
+- [Taipei City](/en/geography/taipei-city) — a 12-district panorama that places 44 South Village back into the timeline of Xinyi District and the full 22 cities and counties of Taiwan
+- [Development of Taiwan’s Cultural and Creative Parks](/en/culture/taiwan-cultural-creative-park-development) — from Huashan to Songshan Cultural and Creative Park to 44 South Village, the Taiwan model of “cultural-heritage preservation + cultural and creative tenancy”
+- [Taiwanese Military Dependents’ Village Cuisine](/en/food/military-dependents-village-cuisine) — Shandong pancakes, Hunan cured pork, Sichuan dan dan noodles: the material traces of how dependents’ village food geography corresponded to provincial origins
+- [Taiwan’s Provincial-Origin Tensions](/en/society/taiwan-provincial-tensions) — first-, second-, and third-generation waishengren, using 44 South Village to read postwar Taiwan’s ethnic structure
+- [Taipei 101](/en/geography/taipei-101) — the 401-meter supertall visible from the 44 South Village plaza; together with the dependents’ housing, it is one of two remainders of the same arsenal site
+- [Dadaocheng](/en/geography/dadaocheng) — a sibling historic district from the same batch 1; a Qing-era commercial street and a postwar dependents’ village mark two different “street-formation moments” in Taipei
+- [Ximending](/en/geography/ximending) — a sibling historic district from the same batch 1; a Japanese colonial entertainment district and a postwar dependents’ village are two types of legacy left by the Japanese
+- [Yongkang Street](/en/geography/yongkang-street) — two settlement patterns of post-1949 waishengren migration to Taiwan: dependents’ housing versus taking over Japanese-style dormitories
+- [Guling Street](/en/geography/guling-street) — the postwar Nanhai Academy area and Guling Street used-book district form another waishengren intellectual landscape, creating two postwar waishengren settlement structures with 44 South Village’s arsenal dependents’ housing: “literati versus military industry”
 
 ## Image Sources
 

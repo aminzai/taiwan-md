@@ -208,16 +208,16 @@ Next time you visit Changhua, don't just walk Lukang Old Street. Go to Tianwei, 
 
 ## Further Reading
 
-- [Taiwan Old Street Culture and Commercial Districts](/culture/台灣老街文化與商業街區) — The context of Lukang Old Street's Qing dynasty port commercial street morphology compared with other old streets in Taiwan
-- [Taiwan River Systems and Hydrological Features](/geography/台灣河川系統與水文特色) — How the Zhuoshui River and Dau River shaped the Changhua Plain, the hydrological background of the Babao Canal
-- [Taiwan Agricultural Landscapes and Industry Distribution](/geography/台灣農業地景與產業分布) — Changhua's position as an agricultural giant on Taiwan's agricultural map
-- [Taiwan Administrative Divisions](/geography/台灣行政區劃) — Complete administrative evolution: county established 1723, changed to Taichung Prefecture 1920, re-established as Changhua County 1945
-- [Social Movements and Civic Participation](/society/社會運動與公民參與) — The 1925 Erlin Incident and the 1986 anti-Dupont movement in Taiwan's social movement history
-- [Environmental Protection and Sustainable Development](/society/環保與永續發展) — The 1986 Lukang anti-Dupont as the starting point of Taiwan's first environmental movement
-- [Taiwan Pastry Culture](/food/台灣糕餅文化) — Beidou meatballs' 1898 origins, Lukang pastry shops' century-old heritage
-- [Taiwan Sugar Corporation](/economy/台糖) — The Lin Ben Yuan Sugar Manufacturing Company behind the 1925 Erlin Incident, the Japanese colonial sugar empire
-- [Keelung City](/geography/基隆市) — Another port-shaped county/city in the 22 Counties and Cities series, comparing two different "declining port cities" and their fault lines
-- [Hsinchu County](/geography/新竹縣) — 22 Counties and Cities series: Hakka villages surrounding a science park, forming a different population structure within the central corridor compared to Changhua's agricultural giant
+- [Taiwan Old Street Culture and Commercial Districts](/en/culture/taiwan-historic-streets-and-commercial-districts) — The context of Lukang Old Street's Qing dynasty port commercial street morphology compared with other old streets in Taiwan
+- [Taiwan River Systems and Hydrological Features](/en/geography/taiwan-river-systems-and-hydrology) — How the Zhuoshui River and Dau River shaped the Changhua Plain, the hydrological background of the Babao Canal
+- [Taiwan Agricultural Landscapes and Industry Distribution](/en/geography/taiwan-agricultural-landscapes-and-industry-belts) — Changhua's position as an agricultural giant on Taiwan's agricultural map
+- [Taiwan Administrative Divisions](/en/geography/administrative-divisions-of-taiwan) — Complete administrative evolution: county established 1723, changed to Taichung Prefecture 1920, re-established as Changhua County 1945
+- [Social Movements and Civic Participation](/en/society/social-movements-and-civic-participation) — The 1925 Erlin Incident and the 1986 anti-Dupont movement in Taiwan's social movement history
+- [Environmental Protection and Sustainable Development](/en/society/environmental-awakening-and-net-zero-transition) — The 1986 Lukang anti-Dupont as the starting point of Taiwan's first environmental movement
+- [Taiwan Pastry Culture](/en/food/taiwan-pastry-culture) — Beidou meatballs' 1898 origins, Lukang pastry shops' century-old heritage
+- [Taiwan Sugar Corporation](/en/economy/taiwan-sugar) — The Lin Ben Yuan Sugar Manufacturing Company behind the 1925 Erlin Incident, the Japanese colonial sugar empire
+- [Keelung City](/en/geography/keelung-city) — Another port-shaped county/city in the 22 Counties and Cities series, comparing two different "declining port cities" and their fault lines
+- [Hsinchu County](/en/geography/hsinchu-county) — 22 Counties and Cities series: Hakka villages surrounding a science park, forming a different population structure within the central corridor compared to Changhua's agricultural giant
 
 ## Image Credits
 

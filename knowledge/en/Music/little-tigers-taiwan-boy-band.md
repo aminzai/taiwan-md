@@ -157,10 +157,10 @@ Julian Chen said he "doesn't want other people to be pulled back in." But once s
 
 **Further Reading**:
 
-- [Taiwanese Popular Music](/music/台灣流行音樂) — From folk songs and Mandarin pop to the idol industry, the whole arc in which Little Tigers were a key link
-- [Popular Music and the Golden Melody Awards](/music/金曲獎) — How Taiwan used one award to define what "good Mandarin popular music" meant
-- [Jay Chou](/people/周杰倫) — After the idol industry, another kind of Mandarin music subjectivity that grew out of Taiwan
-- [Mayday](/music/五月天) — A band that likewise started locally and became popular across the Mandarin-speaking world, but followed a path entirely different from idol groups
+- [Taiwanese Popular Music](/en/music/golden-melodies-legacy-taiwan-pop-music) — From folk songs and Mandarin pop to the idol industry, the whole arc in which Little Tigers were a key link
+- [Popular Music and the Golden Melody Awards](/en/music/pop-music-and-golden-melody-awards) — How Taiwan used one award to define what "good Mandarin popular music" meant
+- [Jay Chou](/en/people/jay-chou) — After the idol industry, another kind of Mandarin music subjectivity that grew out of Taiwan
+- [Mayday](/en/music/mayday-band) — A band that likewise started locally and became popular across the Mandarin-speaking world, but followed a path entirely different from idol groups
 
 ## Image Sources
 

@@ -103,11 +103,11 @@ The divine pig tradition is a mirror of Taiwan's diverse faiths, carrying the hi
 
 ## Further Reading
 
-- **[Hakka Culture and Language](/culture/客家文化與語言)** — History and faith roots of Hakka communities; the cultural soil of Yimin faith
-- **[Taiwan Temple Festivals and Performance Troupes](/culture/台灣廟會與陣頭文化)** — Festival practices and community mobilization in Taiwan's folk beliefs
-- **[Taiwan Religion and Temple Culture](/culture/台灣宗教與寺廟文化)** — The folk belief context in which divine pig sacrifice is embedded
-- **[Traditional Festivals and Celebrations](/culture/傳統節慶與慶典)** — The full panorama of sacrificial culture: Yimin Festival, lunar New Year festivals
-- **[Ethnic Groups (Hokkien, Hakka, Indigenous, Mainlander, New Immigrants)](/culture/族群（閩南客家原住民外省新住民）)** — Cultural practice differences and integration among Hokkien and Hakka communities
+- **[Hakka Culture and Language](/en/culture/hakka-culture-and-language)** — History and faith roots of Hakka communities; the cultural soil of Yimin faith
+- **[Taiwan Temple Festivals and Performance Troupes](/en/culture/taiwan-temple-festivals-and-performance-troupes)** — Festival practices and community mobilization in Taiwan's folk beliefs
+- **[Taiwan Religion and Temple Culture](/en/culture/taiwan-religion-and-temple-culture)** — The folk belief context in which divine pig sacrifice is embedded
+- **[Traditional Festivals and Celebrations](/en/culture/traditional-festivals-and-celebrations)** — The full panorama of sacrificial culture: Yimin Festival, lunar New Year festivals
+- **[Ethnic Groups (Hokkien, Hakka, Indigenous, Mainlander, New Immigrants)](/en/culture/ethnic-groups)** — Cultural practice differences and integration among Hokkien and Hakka communities
 
 ## References
 

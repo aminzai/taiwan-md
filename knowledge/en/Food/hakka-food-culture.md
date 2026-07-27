@@ -122,9 +122,9 @@ By tasting Hakka cuisine, we not only enjoy sensory satisfaction but also experi
 
 ## Further Reading
 
-- [Taiwanese Fermented Foods and Pickle Culture](/food/台灣發酵食品與醃製文化): The science and culture of Taiwanese preserved foods
-- [Tea Culture](/food/茶文化): The development of tea culture in Taiwan
-- [Taiwanese Street Food](/food/台灣小吃): Taiwan's diverse street food culture
+- [Taiwanese Fermented Foods and Pickle Culture](/en/food/taiwan-fermented-and-pickled-foods): The science and culture of Taiwanese preserved foods
+- [Tea Culture](/en/culture/golden-age-echoes-taiwan-tea-culture): The development of tea culture in Taiwan
+- [Taiwanese Street Food](/en/food/taiwanese-street-food): Taiwan's diverse street food culture
 
 ## References
 

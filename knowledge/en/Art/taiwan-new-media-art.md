@@ -146,17 +146,17 @@ When Yu Shien Yang's name appeared on the 2025 Ars Electronica Linz jury list, n
 **Further Reading:**
 
 - [Contemporary Taiwanese Literature](/art/台灣當代文學發展) — The contemporary creative ecosystem that emerged alongside new media art; for understanding the broader cultural context
-- [Taiwanese Theater and Performing Arts](/art/台灣劇場與表演藝術) — The performing arts background of cross-disciplinary creators like Huang Yi; where body and technology intersect
-- [Taiwanese Cinema](/art/台灣電影) — Another track for Taiwanese image art, sharing film festival stages with new media art
-- [Open Source Communities and g0v](/technology/開源社群與g0v) — Another dimension of Taiwan's tech culture; the intersection of open-source spirit and the art world
-- [謝德慶 (Tehching Hsieh)](/art/謝德慶) — Before new media, the body was the medium: Taiwan's performance art pioneer and international master of the five Year Performances
-- [Wang Xin-ren (Aluan)](/art/王新仁) — The first Taiwanese generative artist to feature on Art Blocks; core figure of akaSwap and FAB DAO's Hundred Peaks initiative
-- [Wang Lien-sheng (Xiababa)](/art/王連晟) — 2017 Lumen Prize Sculpture first-place winner; i/O Lab member and Lost and Found Festival organizer; Taiwanese sound installation art representative
-- [Wu Che-yu](/people/吳哲宇) — New media artist who calls himself an "ancient clockmaker"; Venice Biennale Personal Structures × Art Basel Miami × Taiwan.md open-source project initiator
-- [The Reporter](/society/the-reporter-investigative-journalism) — Another Taiwan-DNA case driven by civic communities; shows a different path to building public goods after 2015
+- [Taiwanese Theater and Performing Arts](/en/art/taiwanese-theater-and-performing-arts) — The performing arts background of cross-disciplinary creators like Huang Yi; where body and technology intersect
+- [Taiwanese Cinema](/en/art/taiwanese-cinema) — Another track for Taiwanese image art, sharing film festival stages with new media art
+- [Open Source Communities and g0v](/en/technology/open-source-and-g0v) — Another dimension of Taiwan's tech culture; the intersection of open-source spirit and the art world
+- [謝德慶 (Tehching Hsieh)](/en/art/tehching-hsieh-performance-artist) — Before new media, the body was the medium: Taiwan's performance art pioneer and international master of the five Year Performances
+- [Wang Xin-ren (Aluan)](/en/art/wang-hsin-jen-artist) — The first Taiwanese generative artist to feature on Art Blocks; core figure of akaSwap and FAB DAO's Hundred Peaks initiative
+- [Wang Lien-sheng (Xiababa)](/en/art/wang-lien-cheng-artist) — 2017 Lumen Prize Sculpture first-place winner; i/O Lab member and Lost and Found Festival organizer; Taiwanese sound installation art representative
+- [Wu Che-yu](/en/people/che-yu-wu) — New media artist who calls himself an "ancient clockmaker"; Venice Biennale Personal Structures × Art Basel Miami × Taiwan.md open-source project initiator
+- [The Reporter](/en/society/the-reporter-investigative-journalism) — Another Taiwan-DNA case driven by civic communities; shows a different path to building public goods after 2015
 - [justfont and Taiwan Typography](/en/technology/justfont-and-taiwan-typography/) — Typography as cultural infrastructure; another dimension of Taiwanese visual sovereignty
-- [Submarine Cables](/technology/海底電纜) — 99% of cross-border new media art exhibitions and curatorial collaborations run over submarine cables; this piece reveals the invisible digital cultural infrastructure beneath
-- [Aaron Nieh (聶永真)](/people/聶永真) — Taiwan's first AGI (Alliance Graphique Internationale) member; the curatorial position of his Eternal Design Studio (永真急制) in contemporary Taiwanese visual culture
+- [Submarine Cables](/en/technology/submarine-cables-taiwan-lifeline) — 99% of cross-border new media art exhibitions and curatorial collaborations run over submarine cables; this piece reveals the invisible digital cultural infrastructure beneath
+- [Aaron Nieh (聶永真)](/en/people/nieh-yung-jen) — Taiwan's first AGI (Alliance Graphique Internationale) member; the curatorial position of his Eternal Design Studio (永真急制) in contemporary Taiwanese visual culture
 
 ## References
 

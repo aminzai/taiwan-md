@@ -428,10 +428,10 @@ This article uses 4 images, all cached in `public/article-images/art/` to avoid 
 
 ## Further Reading
 
-- [Hou Hsiao-hsien](/people/侯孝賢): The long-take master who won the Venice Golden Lion and brought the February 28 Incident to the screen
-- [Edward Yang](/people/楊德昌): The urban observer whose two works entered the Sight & Sound Top 100
-- [Tsai Ming-liang](/people/蔡明亮): Venice Golden Lion winner who brought slow cinema into the Louvre
-- [Ang Lee](/people/李安): From Taiwan to Hollywood, winning the Oscar for Best Director twice
-- [Wei Te-sheng](/people/魏德聖): The man who made _Cape No. 7_ with five languages, bringing local cinema back to life
-- [The Invisible Country](/art/看不見的國家): Another way of being seen in Taiwan, in Ge Jingwen's documentary
-- [Taiwanese Sensibility: Do We Need Koreans to Like Us First Before We Dare to Say Our Old Houses Are Beautiful?](/culture/台灣感性): The 1989 Venice Golden Lion for _A City of Sadness_ and the Taipei box office happened in the same year; international recognition and local resonance are not necessarily a binary choice
+- [Hou Hsiao-hsien](/en/people/hou-hsiao-hsien): The long-take master who won the Venice Golden Lion and brought the February 28 Incident to the screen
+- [Edward Yang](/en/people/yang-dechang): The urban observer whose two works entered the Sight & Sound Top 100
+- [Tsai Ming-liang](/en/people/tsai-ming-liang): Venice Golden Lion winner who brought slow cinema into the Louvre
+- [Ang Lee](/en/people/ang-lee): From Taiwan to Hollywood, winning the Oscar for Best Director twice
+- [Wei Te-sheng](/en/people/wei-te-sheng-taiwanese-epic-filmmaker): The man who made _Cape No. 7_ with five languages, bringing local cinema back to life
+- [The Invisible Country](/en/art/invisible-nation): Another way of being seen in Taiwan, in Ge Jingwen's documentary
+- [Taiwanese Sensibility: Do We Need Koreans to Like Us First Before We Dare to Say Our Old Houses Are Beautiful?](/en/culture/taiwanese-sensibility): The 1989 Venice Golden Lion for _A City of Sadness_ and the Taipei box office happened in the same year; international recognition and local resonance are not necessarily a binary choice

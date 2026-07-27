@@ -230,14 +230,14 @@ Tainan was the earliest place in Taiwan to be colonized, the earliest to establi
 
 ## Further Reading
 
-- [Koxinga](/people/鄭成功) — landed at Luermen on April 30, 1661; died in Chengtian Prefecture at age 38 on June 23, 1662; founder of Taiwan’s first Han Chinese regime
-- [Dutch, Spanish, and Ming Zheng Periods](/history/荷西明鄭時期) — the full 60-year history of Tainan from Fort Zeelandia to the Kingdom of Tungning, 1624-1683
+- [Koxinga](/en/people/koxinga) — landed at Luermen on April 30, 1661; died in Chengtian Prefecture at age 38 on June 23, 1662; founder of Taiwan’s first Han Chinese regime
+- [Dutch, Spanish, and Ming Zheng Periods](/en/history/dutch-spanish-and-koxinga-era) — the full 60-year history of Tainan from Fort Zeelandia to the Kingdom of Tungning, 1624-1683
 - [February 28 Incident](/history/二二八事件) — the national context of Tang Te-chang’s death in 1947
-- [Lai Ching-te](/people/賴清德) — first mayor after the 2010 Tainan city-county merger; designated March 13 as Justice and Courage Memorial Day in 2014; inaugurated president in 2024
-- [Sun Moon Lake](/geography/日月潭) — a central Taiwan landmark alongside Tainan; the 1934 Wujie Dam and the 1930 Chianan Canal both belong to the golden age of Japanese colonial hydraulic engineering
-- [Semiconductor Industry](/technology/半導體產業) — the full industry context behind Southern Taiwan Science Park surpassing Hsinchu Science Park with NT$1.5855 trillion in 2023
-- [Keelung City](/geography/基隆市) — pilot article in the 22 cities and counties series: like Tainan, a Qing-era harbor city omitted by center-focused narratives
-- [Nantou County](/geography/南投縣) — batch 3 sibling in the 22 cities and counties series: a county that, like Tainan, has a history of Indigenous name restoration
+- [Lai Ching-te](/en/people/lai-ching-te) — first mayor after the 2010 Tainan city-county merger; designated March 13 as Justice and Courage Memorial Day in 2014; inaugurated president in 2024
+- [Sun Moon Lake](/en/geography/sun-moon-lake) — a central Taiwan landmark alongside Tainan; the 1934 Wujie Dam and the 1930 Chianan Canal both belong to the golden age of Japanese colonial hydraulic engineering
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — the full industry context behind Southern Taiwan Science Park surpassing Hsinchu Science Park with NT$1.5855 trillion in 2023
+- [Keelung City](/en/geography/keelung-city) — pilot article in the 22 cities and counties series: like Tainan, a Qing-era harbor city omitted by center-focused narratives
+- [Nantou County](/en/geography/nantou-county) — batch 3 sibling in the 22 cities and counties series: a county that, like Tainan, has a history of Indigenous name restoration
 
 ## Image Sources
 

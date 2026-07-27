@@ -208,11 +208,11 @@ And the blue-white majority in the Legislative Yuan did not actually move a no-c
 
 **Further Reading**:
 
-- [Lai Ching-te](/people/賴清德) — The person who put Cho Jung-tai in the premier's seat, from miner's son to Taiwan's 16th president
-- [Hsiao Bi-khim](/people/蕭美琴) — The vice president who handed the official seal to Cho Jung-tai at the May 20, 2024 transfer ceremony, returning from Washington as representative to the U.S.
-- [Cheng Li-wen](/people/鄭麗文) — The KMT chairwoman who addressed Xi Jinping in Beijing in April 2026, one of the political opponents behind the blue-white blockade of the NT$1.25 trillion budget
-- [Taiwan Defense and Military Modernization](/society/台灣國防與軍事現代化) — The full policy context of Cho Jung-tai's "three good pitches," the NT$1.25 trillion special budget, and the Taiwan Shield
-- [Taiwan's Diplomatic Allies and International Diplomacy](/society/台灣邦交國與國際外交) — The 2026 U.S.-Taiwan tariff agreement and Trump's second-term diplomatic framework, the largest external variable facing Cho's cabinet
+- [Lai Ching-te](/en/people/lai-ching-te) — The person who put Cho Jung-tai in the premier's seat, from miner's son to Taiwan's 16th president
+- [Hsiao Bi-khim](/en/people/hsiao-bi-khim) — The vice president who handed the official seal to Cho Jung-tai at the May 20, 2024 transfer ceremony, returning from Washington as representative to the U.S.
+- [Cheng Li-wen](/en/people/cheng-li-wun) — The KMT chairwoman who addressed Xi Jinping in Beijing in April 2026, one of the political opponents behind the blue-white blockade of the NT$1.25 trillion budget
+- [Taiwan Defense and Military Modernization](/en/society/taiwan-defense-modernization) — The full policy context of Cho Jung-tai's "three good pitches," the NT$1.25 trillion special budget, and the Taiwan Shield
+- [Taiwan's Diplomatic Allies and International Diplomacy](/en/society/taiwan-diplomatic-allies-and-international-relations) — The 2026 U.S.-Taiwan tariff agreement and Trump's second-term diplomatic framework, the largest external variable facing Cho's cabinet
 
 ## References
 

@@ -194,14 +194,14 @@ That is the most important question in AI supply-chain overseas manufacturing: a
 
 ## Further Reading
 
-- [AI Hardware Supply Chain](/technology/ai-hardware-supply-chain) — Why the world needs Taiwan to turn cloud demand into machines.
-- [AI Hardware Supply Chain](/technology/ai-hardware-supply-chain) — How Taiwanese ODM / EMS companies carry AI data-center hardware from GPUs to racks.
-- [Taiwan’s Electricity and Semiconductors](/technology/taiwan-electricity-and-semiconductors) — How advanced manufacturing returns to electricity and energy security.
-- [Semiconductor Water Use and Taiwan’s Water Resources](/technology/semiconductor-water-use-and-taiwan-water-resources) — How fabs enter reservoirs, drought, and reclaimed-water governance.
-- [Taiwan’s TSMC](/economy/tsmc) — How TSMC’s foundry model reshaped global semiconductor division of labor.
-- [Foxconn Precision Industry](/economy/foxconn-precision-industry) — From electronics contract manufacturing to AI servers and data-center hardware.
-- [Delta Electronics: Taiwan’s Power Giant](/economy/delta-electronics-taiwan-power-giant) — How power, cooling, and energy management became part of AI infrastructure.
-- [Science Park Development](/technology/science-park-development) — How Taiwan’s semiconductor clusters grew out of land and cities.
+- [AI Hardware Supply Chain](/en/technology/ai-hardware-supply-chain) — Why the world needs Taiwan to turn cloud demand into machines.
+- [AI Hardware Supply Chain](/en/technology/ai-hardware-supply-chain) — How Taiwanese ODM / EMS companies carry AI data-center hardware from GPUs to racks.
+- [Taiwan’s Electricity and Semiconductors](/en/technology/taiwan-electricity-and-semiconductors) — How advanced manufacturing returns to electricity and energy security.
+- [Semiconductor Water Use and Taiwan’s Water Resources](/en/technology/semiconductor-water-use-and-taiwan-water-resources) — How fabs enter reservoirs, drought, and reclaimed-water governance.
+- [Taiwan’s TSMC](/en/economy/tsmc) — How TSMC’s foundry model reshaped global semiconductor division of labor.
+- [Foxconn Precision Industry](/en/economy/foxconn-precision-industry) — From electronics contract manufacturing to AI servers and data-center hardware.
+- [Delta Electronics: Taiwan’s Power Giant](/en/economy/delta-electronics-taiwan-power-giant) — How power, cooling, and energy management became part of AI infrastructure.
+- [Science Park Development](/en/technology/science-park-development) — How Taiwan’s semiconductor clusters grew out of land and cities.
 
 ## Image Sources
 

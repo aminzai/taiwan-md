@@ -160,8 +160,8 @@ The Youth Literary Award, the Sun Yat-sen Literary Award, the China Times New Po
 
 ## Further reading
 
-- [Taiwan Modern Poetry](/art/台灣現代詩) — the full poetic-historical context from Ji Xian’s Modernist School, Blue Star, and Epoch to the Nativist Literature Debate
-- [Deserts Chang and Anpu](/music/張懸與安溥) — Cheng Chou-yu appears on Anpu’s reading list alongside Kafka, Yukio Mishima, Shen Congwen, Bei Dao, and T. S. Eliot
+- [Taiwan Modern Poetry](/en/art/taiwanese-modern-poetry) — the full poetic-historical context from Ji Xian’s Modernist School, Blue Star, and Epoch to the Nativist Literature Debate
+- [Deserts Chang and Anpu](/en/music/deserts-chang-and-anpu) — Cheng Chou-yu appears on Anpu’s reading list alongside Kafka, Yukio Mishima, Shen Congwen, Bei Dao, and T. S. Eliot
 
 ## Image sources
 

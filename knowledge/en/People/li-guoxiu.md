@@ -38,7 +38,7 @@ After graduating in 1978, Li faced a life decision. His family hoped he would pu
 
 ## The Performance Workshop Period
 
-In 1984, Li Guoxiu co-founded the Performance Workshop with [Stan Lai](/en/People/stan-lai-theater-innovation-master/) and Li Liqun[^1] (Jin Shijie was a collaborator, not a co-founder), marking the beginning of his professional theater career. During his time at the Workshop, he participated in the creation of classic works such as _That Night, We Performed Crosstalk_, showcasing his outstanding acting talent.
+In 1984, Li Guoxiu co-founded the Performance Workshop with [Stan Lai](/en/people/stan-lai-theater-innovation-master/) and Li Liqun[^1] (Jin Shijie was a collaborator, not a co-founder), marking the beginning of his professional theater career. During his time at the Workshop, he participated in the creation of classic works such as _That Night, We Performed Crosstalk_, showcasing his outstanding acting talent.
 
 At the Performance Workshop, Li Guoxiu learned modern theater creation methods, particularly collective improvisation techniques. These two years of theatrical training confirmed his desire to forge an independent path for Taiwanese comedy.
 

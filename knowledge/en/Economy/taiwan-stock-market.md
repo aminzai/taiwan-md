@@ -70,7 +70,7 @@ The second was ETFs. In June 2003, Yuanta Securities Investment Trust issued 005
 
 The third was larger than the first two combined: TSMC.
 
-One cannot discuss Taiwan’s stock market in 2026 without discussing [Taiwanese Company: TSMC](/en/Economy/tsmc/). Taiwan’s stock market is like the solar system, and TSMC is the sun. **As of March 10, 2026, TSMC’s weight in the capitalization-weighted index had reached 45.0041%**[^TWSE權重]. When its share price was around NT$2,265, every one-dollar movement in this single stock moved the broader index by about 8 points[^TWSE權重].
+One cannot discuss Taiwan’s stock market in 2026 without discussing [Taiwanese Company: TSMC](/en/economy/tsmc/). Taiwan’s stock market is like the solar system, and TSMC is the sun. **As of March 10, 2026, TSMC’s weight in the capitalization-weighted index had reached 45.0041%**[^TWSE權重]. When its share price was around NT$2,265, every one-dollar movement in this single stock moved the broader index by about 8 points[^TWSE權重].
 
 Calling this “an important constituent stock” would seriously understate the proportion. It had already become the market itself.
 
@@ -177,13 +177,13 @@ What will Taiwan’s capital market learn over the next thirty years? Ask the ne
 
 **Further Reading**
 
-- [Taiwanese Company: TSMC](/economy/台灣企業：台積電) — the sun that accounts for 45% of Taiwan’s stock-market weight, and the story behind the phrase “sacred mountain protecting the nation”
-- [Semiconductor Industry](/technology/半導體產業) — the entire supply-chain ecosystem that supports Taiwan’s identity as the sixth-largest stock market
-- [Taiwanese Company: Hon Hai Precision](/economy/台灣企業：鴻海精密) — another heavyweight in Goldman Sachs’s 25-stock buy list, from contract-manufacturing giant to AI-server transformer
-- [Taiwan’s Industrial Transformation and Upgrading](/economy/台灣產業轉型升級) — the trajectory from 1980s contract manufacturing to the 2026 AI dividend
+- [Taiwanese Company: TSMC](/en/economy/tsmc) — the sun that accounts for 45% of Taiwan’s stock-market weight, and the story behind the phrase “sacred mountain protecting the nation”
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — the entire supply-chain ecosystem that supports Taiwan’s identity as the sixth-largest stock market
+- [Taiwanese Company: Hon Hai Precision](/en/economy/foxconn-precision-industry) — another heavyweight in Goldman Sachs’s 25-stock buy list, from contract-manufacturing giant to AI-server transformer
+- [Taiwan’s Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — the trajectory from 1980s contract manufacturing to the 2026 AI dividend
 - [Taiwan Economic Miracle](/en/economy/economic-miracle) — the money from the era when “money flooded up to people’s ankles” eventually flowed into the 1990 stock market and Hung Yuan
-- [Development of Financial Technology in Taiwan](/economy/台灣金融科技發展) — from brokerage-phone orders to fixed-amount investing by smartphone, the financial infrastructure behind a single account
-- [Apple Sidra](/food/蘋果西打) — the chain of equity transfers at Oceanic Beverages, listed in 1965 under stock code 1213, as a miniature case of two capital-history nodes: the 1985 Tenth Credit Cooperative scandal and the 1990 Hung Yuan case
+- [Development of Financial Technology in Taiwan](/en/economy/taiwan-fintech-development) — from brokerage-phone orders to fixed-amount investing by smartphone, the financial infrastructure behind a single account
+- [Apple Sidra](/en/food/apple-cider) — the chain of equity transfers at Oceanic Beverages, listed in 1965 under stock code 1213, as a miniature case of two capital-history nodes: the 1985 Tenth Credit Cooperative scandal and the 1990 Hung Yuan case
 
 ## References
 

@@ -244,6 +244,6 @@ Water is the source of life and foundation of economic development. On this beau
 
 Further Reading:
 
-- [Taiwan's River Systems and Hydrological Features](/geography/taiwan-river-systems-and-hydrology)
-- [Climate](/geography/climate)
-- [Tectonic Plates and Seismic Activity](/geography/tectonic-plates-and-seismic-activity)
+- [Taiwan's River Systems and Hydrological Features](/en/geography/taiwan-river-systems-and-hydrology)
+- [Climate](/en/geography/climate)
+- [Tectonic Plates and Seismic Activity](/en/geography/tectonic-plates-and-seismic-activity)

@@ -110,10 +110,10 @@ Chen Shui-bian announced in 2000 that the Meinong dam would not be built during 
 
 ## Further Reading
 
-- [Taiwan Hakka Music](/music/台灣客家音樂/)
-- [Taiwan Campus Folk Song Movement](/music/台灣民歌運動/)
-- [Taiwan Indie Music](/music/台灣獨立音樂/)
-- [History of Rock Music in Taiwan](/music/台灣搖滾樂發展史/)
+- [Taiwan Hakka Music](/en/music/taiwan-hakka-music-from-mountain-songs-to-rock/)
+- [Taiwan Campus Folk Song Movement](/en/music/taiwan-campus-folk-song-movement/)
+- [Taiwan Indie Music](/en/music/indie-music-scene/)
+- [History of Rock Music in Taiwan](/en/music/taiwan-rock-from-underground-to-mainstream/)
 
 ## References
 

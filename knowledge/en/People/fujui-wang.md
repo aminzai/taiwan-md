@@ -148,10 +148,10 @@ Thirty years is one person writing two kinds of silence with the word NOISE. One
 
 ## Further Reading
 
-- [Taiwan Soundscape](/music/台灣聲音地景) — The place of Fujui Wang, Yao Chung-Han, Chang Yung-Ta, and other sound artists within Taiwan's soundscape; this article moves from name-level mention to in-depth entry
-- [Wang Lien-Cheng](/art/王連晟) — A sound and new media artist from the generation of Wang Fujui's students at TNUA's Department of New Media Arts, continuing the wave of student institutionalization that began with the 2007 Lacking Sound Festival
-- [Taiwan New Media Art](/art/台灣新媒體藝術) — The history of digital and media art development from Etat in 1995 through the 2000s Taipei Digital Art Festivals; Wang is a key node on the sound axis
-- [Taiwan Independent Music](/music/台灣獨立音樂) — Another axis of Taiwan's 1990s underground music scene, running parallel to the noise/experimental music world
+- [Taiwan Soundscape](/en/music/taiwan-soundscape) — The place of Fujui Wang, Yao Chung-Han, Chang Yung-Ta, and other sound artists within Taiwan's soundscape; this article moves from name-level mention to in-depth entry
+- [Wang Lien-Cheng](/en/art/wang-lien-cheng-artist) — A sound and new media artist from the generation of Wang Fujui's students at TNUA's Department of New Media Arts, continuing the wave of student institutionalization that began with the 2007 Lacking Sound Festival
+- [Taiwan New Media Art](/en/art/taiwan-new-media-art) — The history of digital and media art development from Etat in 1995 through the 2000s Taipei Digital Art Festivals; Wang is a key node on the sound axis
+- [Taiwan Independent Music](/en/music/indie-music-scene) — Another axis of Taiwan's 1990s underground music scene, running parallel to the noise/experimental music world
 
 ## Image Credits
 

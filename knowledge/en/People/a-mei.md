@@ -79,7 +79,7 @@ She brought LGBTQ+ issues into the mainstream entertainment spotlight well befor
 
 From late-night restaurant gigs in Taitung to five shows at Taipei Dome with hot-air balloons floating over the audience, A-mei's trajectory is not the standard script of Taiwan's entertainment industry, but the story of an Indigenous girl who used her voice to open a larger space and then let everyone in.
 
-**Further reading:** [A-mei — Wikipedia](https://zh.wikipedia.org/wiki/張惠妹) ｜ [Chang Yu-sheng](/people/張雨生) — the soul producer behind _Sisters_
+**Further reading:** [A-mei — Wikipedia](https://zh.wikipedia.org/wiki/張惠妹) ｜ [Chang Yu-sheng](/en/people/chang-yu-sheng-singer) — the soul producer behind _Sisters_
 
 ## References
 

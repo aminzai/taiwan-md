@@ -161,7 +161,7 @@ Taiwan is a satellite manufacturing power without its own rocket — but it has 
 
 **Further Reading**:
 
-- [National Space Center](/technology/國家太空中心) — This article covers the industry chain; that article covers the institution behind it: how the National Space Center grew from a "preparatory office" into the administrative corporation TASA, assembling its name, legal status, land, and rocket plans one piece at a time.
-- [Semiconductor Industry](/technology/半導體產業) — The upstream foundation of the space industry; satellite chips come from the same supply chain
-- [Taiwan Startup Ecosystem](/economy/新創生態系) — How private space startups connect with the national program
-- [Taiwan 5G Network Development and Digital Transformation](/technology/台灣5G網路建設與數位轉型) — The resilient complementarity between satellite communications and ground-level 5G
+- [National Space Center](/en/technology/tasa-taiwan-space-agency) — This article covers the industry chain; that article covers the institution behind it: how the National Space Center grew from a "preparatory office" into the administrative corporation TASA, assembling its name, legal status, land, and rocket plans one piece at a time.
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — The upstream foundation of the space industry; satellite chips come from the same supply chain
+- [Taiwan Startup Ecosystem](/en/economy/taiwan-startup-ecosystem-overview) — How private space startups connect with the national program
+- [Taiwan 5G Network Development and Digital Transformation](/en/technology/taiwan-5g-digital-transformation) — The resilient complementarity between satellite communications and ground-level 5G

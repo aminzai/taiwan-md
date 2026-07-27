@@ -358,7 +358,7 @@ The driving force behind Taiwan's agricultural modernization has always been ext
 
 **Further Reading**:
 
-- [Taiwan's Climate Crisis and Net-Zero Transition](/nature/台灣氣候危機與淨零轉型) — The impacts of climate change on agriculture and fisheries, and land-use conflicts triggered by agrivoltaic policy
+- [Taiwan's Climate Crisis and Net-Zero Transition](/en/nature/taiwan-climate-change-net-zero-transition) — The impacts of climate change on agriculture and fisheries, and land-use conflicts triggered by agrivoltaic policy
 
 ## References
 

@@ -125,7 +125,7 @@ Advantech’s journey from a 1983 startup founded by three Hewlett-Packard engin
 
 **Further reading:**
 
-- [AAMA Taipei Cradle Program](/economy/AAMA台北搖籃計畫): The Advantech Foundation is one of the donors behind this entrepreneurship mentorship program's transition into a foundation, and Chairman K.C. Liu has himself served as a mentor for the program. The two organizations jointly run the "AAMA AIoT Enterprise Co-Creation Program"
+- [AAMA Taipei Cradle Program](/en/economy/aama-taipei-cradle-program): The Advantech Foundation is one of the donors behind this entrepreneurship mentorship program's transition into a foundation, and Chairman K.C. Liu has himself served as a mentor for the program. The two organizations jointly run the "AAMA AIoT Enterprise Co-Creation Program"
 
 ## References
 

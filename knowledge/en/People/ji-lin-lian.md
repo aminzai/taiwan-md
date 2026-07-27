@@ -156,11 +156,11 @@ The remaining question, rather than asking "which side will he cross to next," s
 
 **Further Reading**:
 
-- [Cheng Li-wen](/people/鄭麗文) — The candidate Ji Lin-lian withdrew his 2025 KMT chairmanship bid to support, and his superior in 2026; understanding the political context of Ji's vice chairman appointment requires reading Cheng's full arc
-- [Han Kuo-yu](/people/韓國瑜) — The Legislative Speaker whom Ji Lin-lian named at the April 29, 2026 Central Standing Committee meeting as "betraying the party for personal gain" and recommended for expulsion; the person most directly impacted by Ji's remarks
-- [Taiwan Defense and Military Modernization](/society/台灣國防與軍事現代化) — Background on the NT$1.25 trillion special arms procurement budget and the "NT$380 billion plus N vs. NT$800 billion" debate; understanding the trigger for Ji's April 29 Central Standing Committee remarks requires this broader defense policy framework
-- [Cho Jung-tai](/people/卓榮泰) — In the arms procurement controversy in which Ji Lin-lian threatened to expel Han Kuo-yu, it was Cho Jung-tai who, as Executive Yuan Premier, put forward the NT$1.25 trillion budget proposal; two "coordinators" from the blue and green camps facing each other across the same table
-- [Taiwan's Political Environment and Electoral System](/society/台灣政治環境與選舉制度) — Why could a 78-year-old retired general threaten to expel the Legislative Speaker at a 2026 KMT Central Standing Committee meeting? An entry point into the institutional background of the Huang Fuxing Party Branch, vice chairman appointments, and intra-party factions
+- [Cheng Li-wen](/en/people/cheng-li-wun) — The candidate Ji Lin-lian withdrew his 2025 KMT chairmanship bid to support, and his superior in 2026; understanding the political context of Ji's vice chairman appointment requires reading Cheng's full arc
+- [Han Kuo-yu](/en/people/han-kuo-yu) — The Legislative Speaker whom Ji Lin-lian named at the April 29, 2026 Central Standing Committee meeting as "betraying the party for personal gain" and recommended for expulsion; the person most directly impacted by Ji's remarks
+- [Taiwan Defense and Military Modernization](/en/society/taiwan-defense-modernization) — Background on the NT$1.25 trillion special arms procurement budget and the "NT$380 billion plus N vs. NT$800 billion" debate; understanding the trigger for Ji's April 29 Central Standing Committee remarks requires this broader defense policy framework
+- [Cho Jung-tai](/en/people/cho-jung-tai) — In the arms procurement controversy in which Ji Lin-lian threatened to expel Han Kuo-yu, it was Cho Jung-tai who, as Executive Yuan Premier, put forward the NT$1.25 trillion budget proposal; two "coordinators" from the blue and green camps facing each other across the same table
+- [Taiwan's Political Environment and Electoral System](/en/society/taiwan-political-landscape-and-electoral-system) — Why could a 78-year-old retired general threaten to expel the Legislative Speaker at a 2026 KMT Central Standing Committee meeting? An entry point into the institutional background of the Huang Fuxing Party Branch, vice chairman appointments, and intra-party factions
 
 ## References
 

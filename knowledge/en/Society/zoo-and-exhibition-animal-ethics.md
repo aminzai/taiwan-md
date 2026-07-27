@@ -5,7 +5,16 @@ date: 2026-03-18
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '動物與倫理'
-tags: ['zoos', 'exhibition animals', 'animal welfare', 'Xpark', 'Taipei Zoo', 'animal ethics', 'Hsinchu Zoo']
+tags:
+  [
+    'zoos',
+    'exhibition animals',
+    'animal welfare',
+    'Xpark',
+    'Taipei Zoo',
+    'animal ethics',
+    'Hsinchu Zoo',
+  ]
 readingTime: 12
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -170,16 +179,20 @@ There is still a long road ahead. Every choice, whether which zoo to visit, what
 **The future of zoos is our choice.**
 
 [^1]: Hsinchu Zoo, "Zoo Renovation Philosophy," https://zoo.hccg.gov.tw/
+
 [^2]: Wuo Wuo Media, "In-Depth Investigation into Animal-Welfare Controversies After Xpark's Opening," https://wuo-wuo.com/
+
 [^3]: Ministry of Agriculture, "Announcement on Amendments to the Regulations Governing the Management of Animal Exhibitions and Performances" (July 2024), https://www.moa.gov.tw/
+
 [^4]: Ministry of Agriculture Animal Protection Information Network, "Regulations Governing the Management of Animal Exhibitions and Performances," https://animal.moa.gov.tw/
+
 [^5]: Environment & Animal Society of Taiwan, "Current State of Micro Exhibition Animal Management," https://www.east.org.tw/
 
 ---
 
 **Further Reading**
 
-- [Controversies over Veterinary Drugs in Taiwan](/society/台灣動物用藥爭議) — From ethical controversies over exhibition animals to legal gaps in companion-animal medication, these are different sides of the same problem: Taiwanese law has not yet learned how to regard living beings that are "neither human nor property"
+- [Controversies over Veterinary Drugs in Taiwan](/en/society/taiwan-animal-drug-controversy) — From ethical controversies over exhibition animals to legal gaps in companion-animal medication, these are different sides of the same problem: Taiwanese law has not yet learned how to regard living beings that are "neither human nor property"
 
 ---
 

@@ -254,11 +254,11 @@ Across thirty-some years, the Golden Melody Awards have not really been giving p
 
 ## Further Reading
 
-- [Taiwanese Pop Music](/music/台灣流行音樂) — The full rise and fall of the industry from the record business to the streaming era; the Golden Melody Awards are the official markers along this line
-- [The Evolution of Taiwanese-language Songs in Taiwan](/music/台灣台語歌曲演進) — From sorrowful laments to the rock turn of Lim Giong’s “Marching Forward,” how Taiwanese-language songs entered the mainstream
-- [Taiwanese Indigenous Music Traditions](/music/台灣原住民音樂傳統) — From tribal songs to Purdur Chen and ABAO, the roots and contemporary forms of Indigenous music
-- [Contemporary Indigenous Singer-Songwriters](/music/當代原住民創作歌手) — The voices and circumstances of creators in the lineage of Samingad, Panai, and ABAO
-- [Taiwanese Independent Music](/music/台灣獨立音樂) — How No Party for Cao Dong and the StreetVoice generation bypassed the record industry and reached the Golden Melody Awards’ highest stage
+- [Taiwanese Pop Music](/en/music/golden-melodies-legacy-taiwan-pop-music) — The full rise and fall of the industry from the record business to the streaming era; the Golden Melody Awards are the official markers along this line
+- [The Evolution of Taiwanese-language Songs in Taiwan](/en/music/taiwanese-hokkien-song-evolution) — From sorrowful laments to the rock turn of Lim Giong’s “Marching Forward,” how Taiwanese-language songs entered the mainstream
+- [Taiwanese Indigenous Music Traditions](/en/music/indigenous-music-traditions) — From tribal songs to Purdur Chen and ABAO, the roots and contemporary forms of Indigenous music
+- [Contemporary Indigenous Singer-Songwriters](/en/music/contemporary-indigenous-singer-songwriters) — The voices and circumstances of creators in the lineage of Samingad, Panai, and ABAO
+- [Taiwanese Independent Music](/en/music/indie-music-scene) — How No Party for Cao Dong and the StreetVoice generation bypassed the record industry and reached the Golden Melody Awards’ highest stage
 
 ## Image Sources
 

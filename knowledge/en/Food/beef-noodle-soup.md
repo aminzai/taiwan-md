@@ -151,11 +151,11 @@ From the halal stalls of Taipei’s Taoyuan Street, the long-established shops o
 
 ## Further Reading
 
-- [Overview of Taiwanese Cuisine](/food/台灣美食總覽) — A panoramic map from Indigenous peoples to Michelin: the place of beef noodle soup within four centuries of hybridized taste
-- [Taiwanese Breakfast Culture](/food/台灣早餐文化) — Shaobing, youtiao, and soy milk, likewise brought by waishengren immigrants after 1949, stand alongside beef noodle soup as representative symbols of postwar culinary fusion
-- [Taiwanese Braised Pork Rice](/food/台灣滷肉飯) — Another path from military dependents’ village kitchens to national cuisine, sharing with beef noodle soup the dual lineage of immigrant nostalgia and localization
-- [The Nationalist Government’s Relocation to Taiwan and Postwar Reconstruction](/history/國民政府遷台與戰後重建) — The culinary-cultural turn brought by the southward migration of 1.2 million soldiers and civilians is the historical background for the birth of beef noodle soup
-- [Taiwanese Night Market Culture](/food/夜市文化) — Night markets, the core popular circulation space after beef noodle soup left the military dependents’ villages
+- [Overview of Taiwanese Cuisine](/en/food/taiwan-food-overview) — A panoramic map from Indigenous peoples to Michelin: the place of beef noodle soup within four centuries of hybridized taste
+- [Taiwanese Breakfast Culture](/en/food/taiwan-breakfast-culture) — Shaobing, youtiao, and soy milk, likewise brought by waishengren immigrants after 1949, stand alongside beef noodle soup as representative symbols of postwar culinary fusion
+- [Taiwanese Braised Pork Rice](/en/food/braised-pork-rice) — Another path from military dependents’ village kitchens to national cuisine, sharing with beef noodle soup the dual lineage of immigrant nostalgia and localization
+- [The Nationalist Government’s Relocation to Taiwan and Postwar Reconstruction](/en/history/kmt-government-relocation-and-postwar-reconstruction) — The culinary-cultural turn brought by the southward migration of 1.2 million soldiers and civilians is the historical background for the birth of beef noodle soup
+- [Taiwanese Night Market Culture](/en/food/night-market-culture) — Night markets, the core popular circulation space after beef noodle soup left the military dependents’ villages
 
 ---
 

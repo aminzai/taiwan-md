@@ -198,15 +198,15 @@ Next time you go to Taipei, do not only visit Xinyi 101 and Shilin Night Market.
 
 ## Further Reading
 
-- [Keelung City](/geography/基隆市) -- 22 Cities and Counties Series pilot: the port closest to Taipei, Taipei's mother port; in 1949 the Nationalist government landed at Keelung Harbor before going to Taipei
-- [New Taipei City](/geography/新北市) -- the satellite city surrounding Taipei City; every day more than 1 million people commute from New Taipei to Taipei for work
-- [Taoyuan City](/geography/桃園市) -- in 1979, Taoyuan Chiang Kai-shek International Airport opened, shifting Taiwan's passenger gateway to the outside world from Keelung to Taoyuan; Taipei lost its maritime gateway
-- [Kaohsiung City](/geography/高雄市) -- the second special municipality, upgraded in 1979, 12 years after Taipei; the 1980 Lin family murders occurred at No. 16, Lane 31, Section 3, Xinyi Road, Taipei City
-- [Taichung City](/geography/台中市) -- upgraded to a special municipality in 2010, 43 years after Taipei; two forms of division of labor between a central Taiwan city and Taipei
-- [Tainan City](/geography/台南市) -- the early Qing capital from 1683 onward; established as a city in 1920 at the same time as Taipei and Taichung
+- [Keelung City](/en/geography/keelung-city) -- 22 Cities and Counties Series pilot: the port closest to Taipei, Taipei's mother port; in 1949 the Nationalist government landed at Keelung Harbor before going to Taipei
+- [New Taipei City](/en/geography/new-taipei-city) -- the satellite city surrounding Taipei City; every day more than 1 million people commute from New Taipei to Taipei for work
+- [Taoyuan City](/en/geography/taoyuan-city) -- in 1979, Taoyuan Chiang Kai-shek International Airport opened, shifting Taiwan's passenger gateway to the outside world from Keelung to Taoyuan; Taipei lost its maritime gateway
+- [Kaohsiung City](/en/geography/kaohsiung-city) -- the second special municipality, upgraded in 1979, 12 years after Taipei; the 1980 Lin family murders occurred at No. 16, Lane 31, Section 3, Xinyi Road, Taipei City
+- [Taichung City](/en/geography/taichung-city) -- upgraded to a special municipality in 2010, 43 years after Taipei; two forms of division of labor between a central Taiwan city and Taipei
+- [Tainan City](/en/geography/tainan-city) -- the early Qing capital from 1683 onward; established as a city in 1920 at the same time as Taipei and Taichung
 - [February 28 Incident](/history/二二八事件) -- the first shot at Tianma Tea House on Nanjing West Road, Taipei, on February 27, 1947; postwar Taiwan's deepest political wound
-- [Wild Lily Student Movement](/society/野百合學運) -- March 16-22, 1990, seven days and six nights in front of Chiang Kai-shek Memorial Hall; 6,000 students and four major demands
-- [Sunflower Student Movement](/society/太陽花學運) -- March 18, 2014, occupation of Taipei's Legislative Yuan for 24 days
+- [Wild Lily Student Movement](/en/society/wild-lily-student-movement) -- March 16-22, 1990, seven days and six nights in front of Chiang Kai-shek Memorial Hall; 6,000 students and four major demands
+- [Sunflower Student Movement](/en/society/sunflower-movement) -- March 18, 2014, occupation of Taipei's Legislative Yuan for 24 days
 
 ## Image Sources
 

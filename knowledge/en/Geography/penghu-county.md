@@ -199,12 +199,12 @@ It takes only 50 minutes to fly from Taipei to Magong. Next time you go to Pengh
 ## Further Reading
 
 - [Penghu Folk Culture](/culture/澎湖民俗文化) — Complete local folk records of Kaitai Tianhou Temple, Mazu belief, Erkan praise songs, and king-boat rituals
-- [Outlying Islands and Ocean Culture](/geography/離島與海洋文化) — The Taiwanese outlying-island ocean culture system formed by Penghu, Kinmen, Matsu, Lanyu, and Green Island
-- [Taiwan's Island Geography and Formation](/geography/台灣島嶼地理特色與形成) — The geological differences between the Penghu basalt archipelago and Taiwan proper's mountain-building movement
-- [Legends of Mazu and Baosheng Dadi](/culture/媽祖與大道公的傳說) — The cross-sea origins of Mazu belief at the site of Kaitai Tianhou Temple
-- [Taiwan's Administrative Divisions](/geography/台灣行政區劃) — The local administrative reform context for Makeng's 1920 renaming as Magong
-- [Sino-French War](/history/清法戰爭) — A full view of the Taiwan-Penghu theater in 1885: French occupation of Penghu, Courbet's death in Makung Harbor, and the Sino-French New Treaty
-- [The Dutch, Spanish, and Ming-Zheng Period](/history/荷西明鄭時期) — The crucial 1622-1624 turn from the Dutch withdrawal from Penghu's Fengguiwei to Tayouan in Tainan
+- [Outlying Islands and Ocean Culture](/en/geography/offshore-islands-and-maritime-culture) — The Taiwanese outlying-island ocean culture system formed by Penghu, Kinmen, Matsu, Lanyu, and Green Island
+- [Taiwan's Island Geography and Formation](/en/geography/geography-and-geology) — The geological differences between the Penghu basalt archipelago and Taiwan proper's mountain-building movement
+- [Legends of Mazu and Baosheng Dadi](/en/culture/mazu-dadaogong-legend) — The cross-sea origins of Mazu belief at the site of Kaitai Tianhou Temple
+- [Taiwan's Administrative Divisions](/en/geography/administrative-divisions-of-taiwan) — The local administrative reform context for Makeng's 1920 renaming as Magong
+- [Sino-French War](/en/history/sino-french-war-in-taiwan) — A full view of the Taiwan-Penghu theater in 1885: French occupation of Penghu, Courbet's death in Makung Harbor, and the Sino-French New Treaty
+- [The Dutch, Spanish, and Ming-Zheng Period](/en/history/dutch-spanish-and-koxinga-era) — The crucial 1622-1624 turn from the Dutch withdrawal from Penghu's Fengguiwei to Tayouan in Tainan
 
 ## Image Sources
 

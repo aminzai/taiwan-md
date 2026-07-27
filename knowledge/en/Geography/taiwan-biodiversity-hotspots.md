@@ -92,6 +92,6 @@ Standing at any corner of Taiwan, we can feel the vigorous life force of this la
 
 Further Reading:
 
-- [Endemic Species](/nature/endemic-species)
-- [National Parks](/nature/national-parks)
-- [Biodiversity](/nature/biodiversity)
+- [Endemic Species](/en/nature/endemic-species)
+- [National Parks](/en/nature/national-parks)
+- [Biodiversity](/en/nature/biodiversity)

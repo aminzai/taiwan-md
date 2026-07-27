@@ -221,12 +221,12 @@ The person who worked hard is no longer here. But the tools he left behind, the 
 
 **Further Reading**:
 
-- [Taiwanese New Media Art](/art/台灣新媒體藝術) — Four decades of Taiwanese new media art, from Wang Fujui and Huang Wen-Hao in the 1980s to Yeh Ting-Hao and Wang Lien-Cheng in the 2020s
-- [Wang Fujui](/people/王福瑞) — Founder of the experimental music label _Noise_ in 1993, a spiritual mentor of Taiwanese sound art, and Yeh Ting-Hao's teacher at TNUA's Graduate Institute of Art and Technology
-- [Wang Lien-Cheng](/art/王連晟) — Yeh Ting-Hao's same-generation comrade in i/O Lab, the 2009-2010 successor organizer of Lacking Sound Festival, and winner of the London Lumen Prize in 2017 for _Reading Plan_
-- [Taiwanese Soundscape](/music/台灣聲音地景) — The evolution of Taiwan's soundscape, from sound to audiovisual art and from noise to generative art
-- [Digital Wasteland](/art/數位荒原) — A same-generation Taiwanese new media art criticism platform that recorded key works and discourse from Yeh Ting-Hao's generation
-- [Taiwanese Electronic Music and Party Culture](/music/台灣電子音樂與派對文化) — The Taiwanese techno and experimental electronic sound party scene in which the duo HH was situated
+- [Taiwanese New Media Art](/en/art/taiwan-new-media-art) — Four decades of Taiwanese new media art, from Wang Fujui and Huang Wen-Hao in the 1980s to Yeh Ting-Hao and Wang Lien-Cheng in the 2020s
+- [Wang Fujui](/en/people/fujui-wang) — Founder of the experimental music label _Noise_ in 1993, a spiritual mentor of Taiwanese sound art, and Yeh Ting-Hao's teacher at TNUA's Graduate Institute of Art and Technology
+- [Wang Lien-Cheng](/en/art/wang-lien-cheng-artist) — Yeh Ting-Hao's same-generation comrade in i/O Lab, the 2009-2010 successor organizer of Lacking Sound Festival, and winner of the London Lumen Prize in 2017 for _Reading Plan_
+- [Taiwanese Soundscape](/en/music/taiwan-soundscape) — The evolution of Taiwan's soundscape, from sound to audiovisual art and from noise to generative art
+- [Digital Wasteland](/en/art/no-mans-land-art-platform) — A same-generation Taiwanese new media art criticism platform that recorded key works and discourse from Yeh Ting-Hao's generation
+- [Taiwanese Electronic Music and Party Culture](/en/music/taiwan-electronic-music-and-party-culture) — The Taiwanese techno and experimental electronic sound party scene in which the duo HH was situated
 
 ## Image Sources
 

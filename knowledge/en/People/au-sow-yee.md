@@ -269,10 +269,10 @@ If Au Sow Yee herself or her representatives have any concerns regarding the use
 
 ## Further Reading
 
-- [Cheng Wen-Chi](/people/鄭文琦) — NML editor-in-chief and co-initiator of the Nusantara Archive. From the founding of NML in 2011 to the launch of Nusantara in 2017 and their continued collaboration in 2024, he has been her most important working partner in Taiwan’s art world
-- [Taiwanese Curators and the Construction of Art and Culture](/art/台灣策展人與藝術文化建構) — The discursive development of a generation of Taiwanese curators, including Takamori Nobuo, one of NML’s editorial advisors; their work has formed an ongoing dialogue with Au Sow Yee’s Nusantara discourse at the Taipei Biennial and the Asian Art Biennial
-- [Taiwanese New Media Art](/art/台灣新媒體藝術) — Au Sow Yee’s primary medium is video installation; this thread offers historical context for video and media art in Taiwan
-- [Contemporary Art](/art/當代藝術) — An overview of Taiwan’s contemporary art ecology; with Au Sow Yee’s “Nusantara” framework added, one can see the Southeast Asian and Southern axis of Taiwanese contemporary art
+- [Cheng Wen-Chi](/en/people/cheng-wen-chi) — NML editor-in-chief and co-initiator of the Nusantara Archive. From the founding of NML in 2011 to the launch of Nusantara in 2017 and their continued collaboration in 2024, he has been her most important working partner in Taiwan’s art world
+- [Taiwanese Curators and the Construction of Art and Culture](/en/art/taiwanese-curators-and-artistic-cultural-construction) — The discursive development of a generation of Taiwanese curators, including Takamori Nobuo, one of NML’s editorial advisors; their work has formed an ongoing dialogue with Au Sow Yee’s Nusantara discourse at the Taipei Biennial and the Asian Art Biennial
+- [Taiwanese New Media Art](/en/art/taiwan-new-media-art) — Au Sow Yee’s primary medium is video installation; this thread offers historical context for video and media art in Taiwan
+- [Contemporary Art](/en/art/contemporary-art) — An overview of Taiwan’s contemporary art ecology; with Au Sow Yee’s “Nusantara” framework added, one can see the Southeast Asian and Southern axis of Taiwanese contemporary art
 
 ## References
 

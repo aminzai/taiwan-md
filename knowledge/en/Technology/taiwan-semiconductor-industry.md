@@ -262,17 +262,17 @@ The "Protector of the Nation" has dominated the present through 50 years of foun
 
 **Further Reading**:
 
-- [Taiwan Enterprises: TSMC](/economy/台灣企業：台積電) — Corporate governance, financial structure, and capital expenditure scale of the "Protector of the Nation."
-- [Taiwan Enterprises: MediaTek](/economy/台灣企業：聯發科技) — How the IC design leader secures its position in mobile chips and AI edge computing.
-- [Taiwan Enterprises: ASE Group](/economy/台灣企業：日月光半導體)— The world's number one packaging and testing industry, the back-end process ecosystem beyond CoWoS.
-- [The Makers: A Century's Gamble](/art/造山者世紀的賭注) — Chiu Ju-chen's 2025 documentary, interviewing over 80 semiconductor veterans over five years, visiting CHIPS Act investment hubs in Purdue/Wisconsin/Michigan in 2026.
-- [Wu Ta-yu](/people/吳大猷) — While Taiwan was fighting for semiconductors in the 1980s, as President of Academia Sinica, he insisted on the importance of basic science, laying the foundation for Taiwan's research system.
-- [Taiwan Robotics Industry](/technology/台灣機器人產業) — Why the island that leads the world in semiconductors is a "latecomer" in the robotics era? Looking at industry gaps through the NCAIR unveiling.
-- [Taiwan Stock Market and Capital Markets](/economy/台灣股市與資本市場) — How the entire supply chain ecosystem, supporting Taiwan's 2026 status as the world's 6th largest stock market, is presented in capital markets.
+- [Taiwan Enterprises: TSMC](/en/economy/tsmc) — Corporate governance, financial structure, and capital expenditure scale of the "Protector of the Nation."
+- [Taiwan Enterprises: MediaTek](/en/economy/mediatek) — How the IC design leader secures its position in mobile chips and AI edge computing.
+- [Taiwan Enterprises: ASE Group](/en/economy/taiwan-enterprise-ase-semiconductor)— The world's number one packaging and testing industry, the back-end process ecosystem beyond CoWoS.
+- [The Makers: A Century's Gamble](/en/art/mountain-makers-tsmc-documentary) — Chiu Ju-chen's 2025 documentary, interviewing over 80 semiconductor veterans over five years, visiting CHIPS Act investment hubs in Purdue/Wisconsin/Michigan in 2026.
+- [Wu Ta-yu](/en/people/tai-yu-wu) — While Taiwan was fighting for semiconductors in the 1980s, as President of Academia Sinica, he insisted on the importance of basic science, laying the foundation for Taiwan's research system.
+- [Taiwan Robotics Industry](/en/technology/taiwan-robotics-industry) — Why the island that leads the world in semiconductors is a "latecomer" in the robotics era? Looking at industry gaps through the NCAIR unveiling.
+- [Taiwan Stock Market and Capital Markets](/en/economy/taiwan-stock-market) — How the entire supply chain ecosystem, supporting Taiwan's 2026 status as the world's 6th largest stock market, is presented in capital markets.
 - [Taiwan Tungsten Supply Chain](/technology/台灣鎢供應鏈) — Tungsten Hexafluoride fills the contact window and 3D NAND feature lines; Taiwan has no tungsten mines but stands in the midstream of this material source through recycling and refining.
-- [Taiwan AI School](/technology/台灣人工智慧學校) — How 10,000 AI engineers trained by AIA over eight years return to the existing ICT chain to strengthen Taiwan's software side.
-- [Computex: Three major international computer shows—we got two, the remaining one grows in Taipei](/technology/Computex) — TSMC's CoWoS and advanced processes shake hands with global AI giants every late May at this 45-year-old Taipei computer show.
-- [Taiwan Science Parks](/technology/科技園區發展) — Hsinchu, Taichung, and Tainan Science Parks: the physical carriers of the semiconductor cluster and the geographic center of the Silicon Shield.
+- [Taiwan AI School](/en/technology/taiwan-ai-academy) — How 10,000 AI engineers trained by AIA over eight years return to the existing ICT chain to strengthen Taiwan's software side.
+- [Computex: Three major international computer shows—we got two, the remaining one grows in Taipei](/en/technology/computex) — TSMC's CoWoS and advanced processes shake hands with global AI giants every late May at this 45-year-old Taipei computer show.
+- [Taiwan Science Parks](/en/technology/science-park-development) — Hsinchu, Taichung, and Tainan Science Parks: the physical carriers of the semiconductor cluster and the geographic center of the Silicon Shield.
 
 ## Image Sources
 

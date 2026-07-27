@@ -396,11 +396,11 @@ In 2024, TSMC's market capitalization exceeded NT$10 trillion, making it one of 
 
 ## Further Reading
 
-- [Taiwan Enterprises: TSMC](/economy/台灣企業：台積電) — The foundry company he founded in 1987 on the wafer-foundry model, now worth over NT$60 trillion; it is, in itself, the most complete annotation on Morris Chang
-- [Stan Shih](/people/施振榮) — The Acer founder he invited to serve as a TSMC director for twenty-one years, and the author of the "smiling curve"; the "mid-stage manufacturing" TSMC does is exactly the segment that curve wrote off, yet which turned out to be the most valuable in reality
-- [Terry Gou](/people/郭台銘) — Another Taiwanese entrepreneur who changed the world through contract manufacturing; Foxconn's assembly manufacturing and TSMC's wafer foundry are the two paths by which Taiwanese manufacturing went global
-- [Semiconductor Industry](/technology/半導體產業) — From the 1976 RCA technology transfer to the "silicon shield," the entire industrial battlefield Morris Chang personally connected Taiwan into
-- [Taiwan's Industrial Transformation and Upgrading](/economy/台灣產業轉型升級) — TSMC is the most concrete case of Taiwan's transformation from a "contract-manufacturing island" into a "technology island," and the central coordinate of this four-decade transformation
+- [Taiwan Enterprises: TSMC](/en/economy/tsmc) — The foundry company he founded in 1987 on the wafer-foundry model, now worth over NT$60 trillion; it is, in itself, the most complete annotation on Morris Chang
+- [Stan Shih](/en/people/stan-shih) — The Acer founder he invited to serve as a TSMC director for twenty-one years, and the author of the "smiling curve"; the "mid-stage manufacturing" TSMC does is exactly the segment that curve wrote off, yet which turned out to be the most valuable in reality
+- [Terry Gou](/en/people/terry-gou) — Another Taiwanese entrepreneur who changed the world through contract manufacturing; Foxconn's assembly manufacturing and TSMC's wafer foundry are the two paths by which Taiwanese manufacturing went global
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — From the 1976 RCA technology transfer to the "silicon shield," the entire industrial battlefield Morris Chang personally connected Taiwan into
+- [Taiwan's Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC is the most concrete case of Taiwan's transformation from a "contract-manufacturing island" into a "technology island," and the central coordinate of this four-decade transformation
 
 ---
 

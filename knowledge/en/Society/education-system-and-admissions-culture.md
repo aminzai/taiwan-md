@@ -188,10 +188,10 @@ How to create a more humane learning environment while maintaining educational q
 
 **Further Reading**:
 
-- [Rural Education in Taiwan](/society/台灣偏鄉教育) — To see the broader picture of educational inequality from children, schools, families, communities, and society’s imagination of success, this article offers a wider panorama.
-- [Teach For Taiwan TFT](/society/為台灣而教TFT) — This article focuses on an organization that has offered a practical response to educational gaps in rural and remote areas, adding the context of actors and controversies.
-- [Taiwan’s Low Birth Rate Crisis](/society/台灣少子化危機) — Beyond the admissions system and competitive culture, low birth rates are also rewriting school survival and the allocation of educational resources.
-- [Za Share](/society/雜學校) — An alternative education carnival that grew after the 318 Sunflower Movement, it is a concrete site of extra-institutional imagination beyond credentialism.
+- [Rural Education in Taiwan](/en/society/taiwan-rural-education) — To see the broader picture of educational inequality from children, schools, families, communities, and society’s imagination of success, this article offers a wider panorama.
+- [Teach For Taiwan TFT](/en/society/teach-for-taiwan) — This article focuses on an organization that has offered a practical response to educational gaps in rural and remote areas, adding the context of actors and controversies.
+- [Taiwan’s Low Birth Rate Crisis](/en/society/taiwan-low-birth-rate-crisis) — Beyond the admissions system and competitive culture, low birth rates are also rewriting school survival and the allocation of educational resources.
+- [Za Share](/en/society/za-share) — An alternative education carnival that grew after the 318 Sunflower Movement, it is a concrete site of extra-institutional imagination beyond credentialism.
 
 [^1]: Department of Statistics, Ministry of Education, “Higher Education Enrollment Statistics,” https://stats.moe.gov.tw/
 

@@ -72,8 +72,8 @@ The story of Hi-Life is not just one of corporate rise and fall; it is a microco
 
 ## Further Reading
 
-- [Taiwan Convenience Store Culture](/lifestyle/台灣便利商店文化) — How convenience stores became public infrastructure in Taiwan
-- [Coupons](/economy/發票) — Unified coupons and convenience store collection as daily economics
+- [Taiwan Convenience Store Culture](/en/lifestyle/convenience-store-culture) — How convenience stores became public infrastructure in Taiwan
+- [Coupons](/en/economy/taiwan-uniform-invoice) — Unified coupons and convenience store collection as daily economics
 
 ## References
 

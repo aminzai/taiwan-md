@@ -186,9 +186,9 @@ Advertising exists to sell things. But Taiwan’s most remembered advertisements
 
 ## Further Reading
 
-- [History of Taiwan’s Television Industry](/technology/台灣電視產業史) — From the old three stations and cable television to OTT, how the screen that carried advertising itself evolved
-- [PX Mart](/economy/全聯福利中心) — From a dark, smelly welfare store to the king of retail, the commercial background of Ogilvy’s “economic aesthetics” campaign
-- [Taiwan’s Music Industry and the Streaming Era](/music/台灣音樂產業與串流時代) — From advertising songs making singers famous to the shift toward segmented music consumption through streaming
+- [History of Taiwan’s Television Industry](/en/technology/taiwan-television-industry-history) — From the old three stations and cable television to OTT, how the screen that carried advertising itself evolved
+- [PX Mart](/en/economy/pxmart-supermarket) — From a dark, smelly welfare store to the king of retail, the commercial background of Ogilvy’s “economic aesthetics” campaign
+- [Taiwan’s Music Industry and the Streaming Era](/en/music/taiwan-music-industry-and-the-streaming-era) — From advertising songs making singers famous to the shift toward segmented music consumption through streaming
 
 ---
 

@@ -155,17 +155,17 @@ Those thirty seconds, Zhang Ching‑chung probably never imagined he was resha
 
 **Further Reading**:
 
-- [Taiwan’s Democratic Transition](/history/台灣民主轉型) — From authoritarianism to democracy, the institutional roots of the Sunflower Movement
-- [Formosa Incident](/history/美麗島事件) — How 1979 activists pried open the door to democracy on the streets
-- [Open‑Source Community and g0v](/technology/開源社群與g0v) — The engineer community behind the Sunflower’s digital infrastructure
-- [Social Movements and Civic Participation](/society/社會運動與公民參與) — The evolution of Taiwan’s civil society after the Sunflower Movement
-- [Taiwan Strait Crisis and Cross‑Strait Relations Development](/history/台海危機與兩岸關係發展) — The broader geopolitical backdrop of the CSSTA controversy
-- [Ma Ying‑jeou](/people/馬英九) — Presidential decisions during the CSSTA’s 30‑second approval, the 3/24 police clearance of the Executive Yuan, and the 4/10 movement exit
-- [Zazhi School](/society/雜學校) — The post‑318 continuation of extra‑institutional energy: translating street rebellion into an educational carnival in Taiwan
-- [Complex Life Festival](/society/複雜生活節) — The fourth “exit‑and‑seed” outlet of 3‑1‑8: a non‑electoral, non‑coding, non‑recruiting forum for disaffected eighth‑graders
-- [Taiwan and Eswatini](/society/台灣與史瓦帝尼) — Ten years after 3‑1‑8, President Lai’s diplomatic narrative of “sovereign state” in bilateral talks
-- [Nie Yong‑zhen](/people/聶永真) — Designer of the 4 am “Democracy at 4 am” New York Times front‑page ad, documenting how the movement entered the international visual arena
-- [Invisible Nation](/art/看不見的國家) — Vanessa Hope's documentary places the Sunflower Movement as a pivotal frame within Taiwan's 400-year arc of democracy.
+- [Taiwan’s Democratic Transition](/en/history/taiwan-democratization) — From authoritarianism to democracy, the institutional roots of the Sunflower Movement
+- [Formosa Incident](/en/history/kaohsiung-incident-formosa-incident) — How 1979 activists pried open the door to democracy on the streets
+- [Open‑Source Community and g0v](/en/technology/open-source-and-g0v) — The engineer community behind the Sunflower’s digital infrastructure
+- [Social Movements and Civic Participation](/en/society/social-movements-and-civic-participation) — The evolution of Taiwan’s civil society after the Sunflower Movement
+- [Taiwan Strait Crisis and Cross‑Strait Relations Development](/en/history/taiwan-strait-crises-and-cross-strait-relations) — The broader geopolitical backdrop of the CSSTA controversy
+- [Ma Ying‑jeou](/en/people/ma-ying-jeou-cross-strait-reconciliation-leader) — Presidential decisions during the CSSTA’s 30‑second approval, the 3/24 police clearance of the Executive Yuan, and the 4/10 movement exit
+- [Zazhi School](/en/society/za-share) — The post‑318 continuation of extra‑institutional energy: translating street rebellion into an educational carnival in Taiwan
+- [Complex Life Festival](/en/society/complex-life-festival) — The fourth “exit‑and‑seed” outlet of 3‑1‑8: a non‑electoral, non‑coding, non‑recruiting forum for disaffected eighth‑graders
+- [Taiwan and Eswatini](/en/society/taiwan-eswatini-relations) — Ten years after 3‑1‑8, President Lai’s diplomatic narrative of “sovereign state” in bilateral talks
+- [Nie Yong‑zhen](/en/people/nieh-yung-jen) — Designer of the 4 am “Democracy at 4 am” New York Times front‑page ad, documenting how the movement entered the international visual arena
+- [Invisible Nation](/en/art/invisible-nation) — Vanessa Hope's documentary places the Sunflower Movement as a pivotal frame within Taiwan's 400-year arc of democracy.
 
 ## References
 

@@ -249,10 +249,10 @@ The Li Poetry Society has not ceased publication for 60 years. Taiwan.md has jus
 
 **Further Reading**:
 
-- [Taiwan Modern Poetry](/art/台灣現代詩) — Modernist experiments emerging from three study rooms, forming a dialogue with the Li Poetry Society’s local realist tradition
-- [Post-War Taiwan Literature](/art/戰後台灣文學) — The aphasia, imprisonment, and debate paths of novelists like Yeh Shih-t’ao and Chen Ying-zhen; contemporaries of the Li Poetry Society poets
-- [History of Taiwan Literature](/art/台灣文學史) — Hub of the complete Taiwan literature history context
-- [Literature During the Japanese Colonial Period](/art/日治時期文學) — The growth background of the Li Poetry Society’s translingual generation
+- [Taiwan Modern Poetry](/en/art/taiwanese-modern-poetry) — Modernist experiments emerging from three study rooms, forming a dialogue with the Li Poetry Society’s local realist tradition
+- [Post-War Taiwan Literature](/en/art/postwar-taiwanese-literature) — The aphasia, imprisonment, and debate paths of novelists like Yeh Shih-t’ao and Chen Ying-zhen; contemporaries of the Li Poetry Society poets
+- [History of Taiwan Literature](/en/art/history-of-taiwanese-literature) — Hub of the complete Taiwan literature history context
+- [Literature During the Japanese Colonial Period](/en/art/taiwanese-literature-during-japanese-rule) — The growth background of the Li Poetry Society’s translingual generation
 - [Tu Pan-fang-ko](/people/杜潘芳格) — Hakka translingual female poet who joined in 1965; "Peaceful Play" and the Hakka poetry line
 
 ## References

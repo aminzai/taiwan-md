@@ -95,7 +95,7 @@ In 2025, National Taitung University awarded her an honorary doctorate. She spok
 
 - [Taitung Central Market](/lifestyle/台東市集) — Chen Shu-chu's vegetable stall of fifty years; a representative site of Taitung's grassroots economy
 - [Taiwan's Philanthropic Culture](/society/台灣慈善文化) — From Master Cheng Yen and Tzu Chi to Chen Shu-chu the vegetable vendor: two samples of Taiwanese folk philanthropy
-- [Education in Taiwan's Remote Areas](/society/台灣偏鄉教育) — The main destinations of Chen Shu-chu's donations over the years: long-term support for libraries, schools, and orphanages
+- [Education in Taiwan's Remote Areas](/en/society/taiwan-rural-education) — The main destinations of Chen Shu-chu's donations over the years: long-term support for libraries, schools, and orphanages
 
 ## References
 

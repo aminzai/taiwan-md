@@ -216,11 +216,11 @@ Recognizing that Taiwan is so internally uneven is necessary for seeing the coun
 
 ## Further Reading
 
-- [Taipei City](/geography/台北市) — Taiwan’s most crowded city, with 8,975 people per square kilometer, and also the oldest of the six special municipalities, with an aging index of 202; the same protagonist at both ends of this article’s density and aging story.
-- [Taitung County](/geography/台東縣) — The emptiest end of Taiwan, with 59 people per square kilometer, where two outlying islands bear the cost of an entire country.
-- [Chiayi County](/geography/嘉義縣) — With an aging index of 291.69, the highest in Taiwan, each child corresponds to nearly three older people; a representative of the aging leading edge among agricultural counties.
-- [Hsinchu County](/geography/新竹縣) — With an aging rate of 15.08%, Taiwan’s youngest jurisdiction; the part of the map where the Hsinchu Science Park pulls the population structure toward the young end.
-- [Taiwan’s Low-Birthrate Crisis](/society/台灣少子化危機) — The birth end of this portrait: newborns falling below 110,000, and the other side of a country where deaths outnumber births.
+- [Taipei City](/en/geography/taipei-city) — Taiwan’s most crowded city, with 8,975 people per square kilometer, and also the oldest of the six special municipalities, with an aging index of 202; the same protagonist at both ends of this article’s density and aging story.
+- [Taitung County](/en/geography/taitung-county) — The emptiest end of Taiwan, with 59 people per square kilometer, where two outlying islands bear the cost of an entire country.
+- [Chiayi County](/en/geography/chiayi-county) — With an aging index of 291.69, the highest in Taiwan, each child corresponds to nearly three older people; a representative of the aging leading edge among agricultural counties.
+- [Hsinchu County](/en/geography/hsinchu-county) — With an aging rate of 15.08%, Taiwan’s youngest jurisdiction; the part of the map where the Hsinchu Science Park pulls the population structure toward the young end.
+- [Taiwan’s Low-Birthrate Crisis](/en/society/taiwan-low-birth-rate-crisis) — The birth end of this portrait: newborns falling below 110,000, and the other side of a country where deaths outnumber births.
 
 ## Image Sources
 

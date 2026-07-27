@@ -5,7 +5,15 @@ date: 2026-03-18
 author: 'Taiwan.md Contributors'
 category: 'Society'
 subcategory: '社區與日常'
-tags: ['breakfast shop', 'community culture', 'human warmth', 'convenience store', 'daily life', 'community network']
+tags:
+  [
+    'breakfast shop',
+    'community culture',
+    'human warmth',
+    'convenience store',
+    'daily life',
+    'community network',
+  ]
 readingTime: 8
 lastVerified: 2026-03-19
 lastHumanReview: false
@@ -21,7 +29,7 @@ translatedAt: '2026-05-20T05:08:27+08:00'
 
 ## 30-Second Overview
 
-Convenience stores are Taiwan's official service infrastructure, but the breakfast shop auntie is the one who actually knows *you*. She doesn't need a loyalty points system — all she has is the three minutes you spend walking into her shop every morning.
+Convenience stores are Taiwan's official service infrastructure, but the breakfast shop auntie is the one who actually knows _you_. She doesn't need a loyalty points system — all she has is the three minutes you spend walking into her shop every morning.
 
 Through high-frequency daily contact, low-pressure interaction, and astonishing long-term memory, the traditional Taiwanese breakfast shop owner quietly becomes the unofficial database of the entire community — the perfect physical embodiment of what sociologist Granovetter called "weak ties."
 
@@ -41,7 +49,7 @@ Convenience stores are the official version of a "life service center."
 But the breakfast shop auntie is the grassroots version of an "intelligence exchange station."
 
 The former can handle your utility bills, print documents, and sell you train tickets — covering virtually every daily errand.
-The latter is even more formidable: she directly controls information about *people*.
+The latter is even more formidable: she directly controls information about _people_.
 
 ### She remembers more than just whether you want an egg
 
@@ -117,7 +125,7 @@ But the breakfast shop auntie's recommendation system works like this:
 Spotify will never tell you "honestly, this song isn't that great."
 But the auntie will.
 
-She's basing it on *you as a person*, and she doesn't need you to agree to any privacy policy.
+She's basing it on _you as a person_, and she doesn't need you to agree to any privacy policy.
 
 ### Why does this role only exist in Taiwan?
 
@@ -188,17 +196,21 @@ But no one will add an extra slice of cheese and say:
 
 ### Related Topics
 
-- [Convenience Store Culture](/lifestyle/台灣便利商店文化)
-- [Taiwanese Community and Borough Culture](/society/台灣社區與里文化)
-- [Taiwanese Breakfast Culture](/food/台灣早餐文化)
-- [Taiwanese Market Culture and Traditional Markets](/lifestyle/台灣市場文化與傳統市場)
+- [Convenience Store Culture](/en/lifestyle/convenience-store-culture)
+- [Taiwanese Community and Borough Culture](/en/society/taiwan-neighborhood-and-li-culture)
+- [Taiwanese Breakfast Culture](/en/food/taiwan-breakfast-culture)
+- [Taiwanese Market Culture and Traditional Markets](/en/lifestyle/taiwan-traditional-markets-and-market-culture)
 
 ---
 
-[^1]: Mark Granovetter, "The Strength of Weak Ties," *American Journal of Sociology*, 1973, https://www.jstor.org/stable/2776392
+[^1]: Mark Granovetter, "The Strength of Weak Ties," _American Journal of Sociology_, 1973, https://www.jstor.org/stable/2776392
+
 [^2]: Ministry of Economic Affairs, Department of Statistics, "Wholesale, Retail, and Restaurant Industry Survey," https://www.moea.gov.tw/MNS/dos/home/Home.aspx
+
 [^3]: Fiscal Information Agency, Ministry of Finance, "Profit-Seeking Enterprise Statistics," https://www.fia.gov.tw/
+
 [^4]: The Reporter, "The Disappearance and Transformation of Taiwan's Breakfast Shops," https://www.twreporter.org/
+
 [^5]: Taiwan Panorama, "Special Feature on Taiwanese Breakfast Culture," https://www.taiwan-panorama.com/
 
 ## References
@@ -211,4 +223,4 @@ But no one will add an extra slice of cheese and say:
 
 ---
 
-*This article uses a three-tier reading depth design, suited for readers with different needs. Contributions of additional content are welcome!*
+_This article uses a three-tier reading depth design, suited for readers with different needs. Contributions of additional content are welcome!_

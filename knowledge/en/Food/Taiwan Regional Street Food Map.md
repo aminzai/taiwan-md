@@ -186,7 +186,7 @@ This is a living map, a migration history still being written, a cultural geneti
 ## Further Reading
 
 - [Taiwan Indigenous Food Culture](/food/taiwan-indigenous-food-culture) — Traditional Cuisines of Various Indigenous Groups
-- [hakka-food-culture](/food/hakka-food-culture) — Unique Culinary Traditions of Hakka Groups
+- [hakka-food-culture](/en/food/hakka-food-culture) — Unique Culinary Traditions of Hakka Groups
 
 ## References
 

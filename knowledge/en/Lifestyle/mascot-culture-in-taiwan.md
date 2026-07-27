@@ -122,9 +122,9 @@ The Taiwan mascots of the future may not need more black bears — they need mor
 ## Further Reading
 
 - **[Taiwan Variety Shows](/culture/台灣綜藝節目)** — Character design and audience interaction mechanisms in the entertainment industry
-- **[Taiwan Memes](/culture/台灣迷因)** — How puns, cute-ugly aesthetics, and contrast cute spread across Taiwan's internet
-- **[PX Mart](/economy/全聯福利中心)** — The brand management and IP strategy behind the Welfare Bear
-- **[Taiwan Black Bear](/nature/台灣黑熊)** — The biological prototype as cultural totem and conservation issues
+- **[Taiwan Memes](/en/culture/taiwan-meme-culture)** — How puns, cute-ugly aesthetics, and contrast cute spread across Taiwan's internet
+- **[PX Mart](/en/economy/pxmart-supermarket)** — The brand management and IP strategy behind the Welfare Bear
+- **[Taiwan Black Bear](/en/nature/taiwanese-black-bear)** — The biological prototype as cultural totem and conservation issues
 
 ## References
 

@@ -327,8 +327,8 @@ This path is not complete: high-level AI research talent remains in short supply
 
 **Further Reading**:
 
-- [Wu Che-yu](/people/吳哲宇) — How a new media artist persists as a watchmaker in an "age of overflowing AI generation," offering another creator's perspective outside the AI industry
-- [Taiwan AI School](/technology/台灣人工智慧學校) — From Chen Sheng-wei's 'descending from the heavens' and NT$180 million in crowd-funding, see how the talent pipeline outside government AI strategy fills the gap
+- [Wu Che-yu](/en/people/che-yu-wu) — How a new media artist persists as a watchmaker in an "age of overflowing AI generation," offering another creator's perspective outside the AI industry
+- [Taiwan AI School](/en/technology/taiwan-ai-academy) — From Chen Sheng-wei's 'descending from the heavens' and NT$180 million in crowd-funding, see how the talent pipeline outside government AI strategy fills the gap
 
 ## References
 

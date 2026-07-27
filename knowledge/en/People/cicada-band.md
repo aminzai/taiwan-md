@@ -267,15 +267,15 @@ Full albums, MVs, and performance records are available on [Cicada’s official 
 
 **Further reading:**
 
-- [Waa Wei](/people/魏如萱) — Part of the same 2010s independent music ecosystem, but following a vocal rather than instrumental path
-- [No Party for Cao Dong](/people/草東沒有派對) — A comparison case from the same era, but following the path of an outward-facing, angry band
-- [Constant & Change](/people/康士坦的變化球) — Also on the post-rock spectrum, but following a vocal narrative path
-- [Crowd Lu](/people/盧廣仲) — Another path through independent music
-- [Popular Music and the Golden Melody Awards](/music/金曲獎) — The institutional context of Cicada’s Golden Melody nomination for Best Instrumental Album
-- [Taiwan Independent Music](/music/台灣獨立音樂) — The independent-music spectrum after the 2010s
-- [Taiwan’s Forest Ecosystems](/nature/台灣森林生態系) — The landscapes behind Cicada’s _Hiking in the Mist_ and _Seeking the Sources of Streams_
-- [Taiwan’s Marine Ecology](/nature/台灣海洋生態) — The ecological background of the band’s 2017 ocean-themed album
-- [Taiwan’s Mountains and Mountaineering Culture](/nature/台灣山岳與登山文化) — The context of Jesy Chiang’s mountaineering philosophy
+- [Waa Wei](/en/people/waa-wei-singer) — Part of the same 2010s independent music ecosystem, but following a vocal rather than instrumental path
+- [No Party for Cao Dong](/en/people/no-party-for-cao-dong) — A comparison case from the same era, but following the path of an outward-facing, angry band
+- [Constant & Change](/en/people/constant-and-change-band) — Also on the post-rock spectrum, but following a vocal narrative path
+- [Crowd Lu](/en/people/crowd-lu-indie-folk-treasure) — Another path through independent music
+- [Popular Music and the Golden Melody Awards](/en/music/pop-music-and-golden-melody-awards) — The institutional context of Cicada’s Golden Melody nomination for Best Instrumental Album
+- [Taiwan Independent Music](/en/music/indie-music-scene) — The independent-music spectrum after the 2010s
+- [Taiwan’s Forest Ecosystems](/en/nature/taiwan-forest-ecosystems) — The landscapes behind Cicada’s _Hiking in the Mist_ and _Seeking the Sources of Streams_
+- [Taiwan’s Marine Ecology](/en/nature/taiwan-marine-ecology) — The ecological background of the band’s 2017 ocean-themed album
+- [Taiwan’s Mountains and Mountaineering Culture](/en/nature/taiwan-mountains-and-hiking-culture) — The context of Jesy Chiang’s mountaineering philosophy
 
 ## References
 

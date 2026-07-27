@@ -227,8 +227,8 @@ The bald figure will not remember whom it once worked overtime for, or for whom 
 
 **Further Reading:**
 
-- [Wretch: The Taiwanese Social Network That Came Before Facebook](/culture/無名小站)
-- [A History of Taiwan’s Online Community Migration](/technology/台灣網路社群遷徙史)
-- [Taiwanese Memes](/culture/台灣迷因)
-- [Dcard](/culture/Dcard)
-- [Rainie Yang](/people/楊丞琳)
+- [Wretch: The Taiwanese Social Network That Came Before Facebook](/en/culture/wretch)
+- [A History of Taiwan’s Online Community Migration](/en/technology/taiwan-online-community-migration)
+- [Taiwanese Memes](/en/culture/taiwan-meme-culture)
+- [Dcard](/en/culture/dcard-taiwan-social-platform)
+- [Rainie Yang](/en/people/rainie-yang)

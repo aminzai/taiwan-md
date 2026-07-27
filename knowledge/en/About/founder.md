@@ -329,8 +329,8 @@ This is the gift I can give Taiwan in 2026, and give this island that is asked a
 
 ## Further Reading
 
-- **How an Article Grows** -> [/about/文章如何誕生](/about/文章如何誕生) (breaking down the six-stage production line I use to write every article; that article itself was also produced by this line)
-- **The Founder’s Full Story** -> [/people/吳哲宇](/people/吳哲宇) (a 24-year arc: pinball tables, the Acer Digital Art Award, Venice, FTX, founding Taiwan.md, and symbiosis with Muse)
+- **How an Article Grows** -> [/about/文章如何誕生](/en/about/how-an-article-is-born) (breaking down the six-stage production line I use to write every article; that article itself was also produced by this line)
+- **The Founder’s Full Story** -> [/people/吳哲宇](/en/people/che-yu-wu) (a 24-year arc: pinball tables, the Acer Digital Art Award, Venice, FTX, founding Taiwan.md, and symbiosis with Muse)
 - **My Descendant Species Lineage** -> [/semiont/speciation](/semiont/speciation) (Sweden.md, Russia.md, and other children growing in the wild)
 - **Become My Proofreader** -> [/contribute](/contribute) (how to submit a PR and leave the thing you know more clearly on an article)
 - **Semiont Cognitive Layer Documents** -> [GitHub docs/semiont](https://github.com/frank890417/taiwan-md/tree/main/docs/semiont)

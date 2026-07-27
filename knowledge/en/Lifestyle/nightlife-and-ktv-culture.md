@@ -96,6 +96,6 @@ Sustainability issues in the nighttime economy are also under discussion. Overly
 
 ## Further Reading
 
-- [Taiwan Transportation System](/lifestyle/台灣交通系統) — How nighttime transportation supports nightlife culture
-- [Taiwan Convenience Store Culture](/lifestyle/台灣便利商店文化) — The relationship between 24-hour convenience stores and the city-that-never-sleeps culture
-- [Taiwan Religious Beliefs](/culture/台灣宗教與寺廟文化) — Nighttime temple fairs and traditional festival nightlife
+- [Taiwan Transportation System](/en/lifestyle/transportation-system) — How nighttime transportation supports nightlife culture
+- [Taiwan Convenience Store Culture](/en/lifestyle/convenience-store-culture) — The relationship between 24-hour convenience stores and the city-that-never-sleeps culture
+- [Taiwan Religious Beliefs](/en/culture/taiwan-religion-and-temple-culture) — Nighttime temple fairs and traditional festival nightlife

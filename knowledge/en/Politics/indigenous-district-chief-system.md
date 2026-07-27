@@ -243,11 +243,11 @@ It has been operating for twelve years. 2026 is the beginning of the next four-y
 
 - [Politics Hub](/politics) — Taiwan.md's central knowledge hub for politics and elections
 - [2026 Nine-in-One Elections](/politics/2026 九合一選舉) — Complete system and timeline
-- [What Are the Nine-in-One Elections](/politics/九合一選舉是什麼) — A breakdown of the nine elected offices in the "nine-in-one"
-- [Village Chief System](/politics/村里長制度) — 7,748 elected chiefs, the most grassroots political unit
-- [Councilor System](/politics/議員制度) — The statutory powers and actual operations of special municipality and county/city councilors
-- [Central Election Commission System](/politics/中選會制度) — The institutional design of election administration
-- [Democratization](/history/民主化) — Taiwan's journey from authoritarianism to democracy
+- [What Are the Nine-in-One Elections](/en/politics/nine-in-one-elections-explained) — A breakdown of the nine elected offices in the "nine-in-one"
+- [Village Chief System](/en/politics/village-chief-system) — 7,748 elected chiefs, the most grassroots political unit
+- [Councilor System](/en/politics/city-councilor-system-taiwan) — The statutory powers and actual operations of special municipality and county/city councilors
+- [Central Election Commission System](/en/politics/central-election-commission) — The institutional design of election administration
+- [Democratization](/en/history/taiwan-democratization-history) — Taiwan's journey from authoritarianism to democracy
 
 ---
 

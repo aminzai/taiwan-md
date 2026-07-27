@@ -242,8 +242,8 @@ Every stage — a negotiation over who got to define her.
 
 - [Chang Hsien and An-so (Zhang Xuan and Anpu)](/music/deserts-chang-anpu) — Another Taiwanese female singer who moved from adolescent performer to complete authorial identity, tracing a different path from "defined by others to self-definition"
 - [Wei Ru-xuan](/people/wei-ru-xuan) — Same era, two-time Golden Melody Best Mandarin Female Vocalist; a structural counterpoint to Yang's "market vs. academy" dynamic
-- [Taiwan Pop Music](/music/golden-melodies-legacy-taiwan-pop-music) — The structural history of the Mandopop industry and the dual idol drama / singer positioning
-- [KTV Culture in Taiwan](/music/ktv-culture) — The social context in which "Ambiguous" became KTV's most-played in 2005, and KTV's role as a distribution node in Mandopop
+- [Taiwan Pop Music](/en/music/golden-melodies-legacy-taiwan-pop-music) — The structural history of the Mandopop industry and the dual idol drama / singer positioning
+- [KTV Culture in Taiwan](/en/music/ktv-culture) — The social context in which "Ambiguous" became KTV's most-played in 2005, and KTV's role as a distribution node in Mandopop
 
 ## References
 

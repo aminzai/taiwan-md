@@ -170,13 +170,13 @@ Perhaps the next 28 years will give an answer. Perhaps they will not. But one th
 
 **Further Reading**:
 
-- [Taiwan Media and Press Freedom](/society/台灣媒體與新聞自由) — PTS as one part of the media ecosystem, and its interaction with the broader environment of press freedom
-- [CommonWealth Magazine](/society/天下雜誌) — How a commercial financial media outlet tackles the same question of "who media should be accountable to," surviving on paid subscribers and a corporate ecosystem — a contrast with PTS's public-funding path
-- [Taiwan Variety Shows](/culture/台灣綜藝) — A comparison with commercial television variety programs, for understanding why PTS chose to make dramas and documentaries
-- [Taiwan Film and Television Scores](/music/台灣影視配樂) — The place of PTS flagship-drama scores within Taiwan's music industry
-- [Taiwan Animation Outsourcing](/economy/台灣動畫代工) — A comparison with the commercial IP industry, showing the different logic behind PTS's choices in animation subject matter
-- [Traditional Festivals and Celebrations](/culture/傳統節慶與慶典) — The long-term contribution of PTS's Documentary Viewpoint to preserving Taiwan's cultural memory
-- [Taiwan Design Research Institute](/society/台灣設計研究院) — Another government-funded foundation walking the tightrope between "being seen" and publicness, turning design into a way for the government to serve the people
+- [Taiwan Media and Press Freedom](/en/society/media-and-press-freedom-in-taiwan) — PTS as one part of the media ecosystem, and its interaction with the broader environment of press freedom
+- [CommonWealth Magazine](/en/society/commonwealth-magazine) — How a commercial financial media outlet tackles the same question of "who media should be accountable to," surviving on paid subscribers and a corporate ecosystem — a contrast with PTS's public-funding path
+- [Taiwan Variety Shows](/en/culture/taiwan-variety-shows) — A comparison with commercial television variety programs, for understanding why PTS chose to make dramas and documentaries
+- [Taiwan Film and Television Scores](/en/music/taiwan-screen-scoring-from-cinema-to-games) — The place of PTS flagship-drama scores within Taiwan's music industry
+- [Taiwan Animation Outsourcing](/en/economy/taiwan-creator-economy) — A comparison with the commercial IP industry, showing the different logic behind PTS's choices in animation subject matter
+- [Traditional Festivals and Celebrations](/en/culture/traditional-festivals-and-celebrations) — The long-term contribution of PTS's Documentary Viewpoint to preserving Taiwan's cultural memory
+- [Taiwan Design Research Institute](/en/society/taiwan-design-research-institute) — Another government-funded foundation walking the tightrope between "being seen" and publicness, turning design into a way for the government to serve the people
 
 ## Image Sources
 

@@ -144,7 +144,7 @@ _Royal Swedish Academy of Sciences official channel: Geoffrey Hinton's Nobel Pri
 
 Return to the island of Taiwan. At the same time Hopfield was writing his memory model, Taiwan was only beginning to establish computer science departments.
 
-In 1995, Ethan Tu, then a sophomore in National Taiwan University’s Department of Computer Science and Information Engineering, used a 486 computer and open-source software to set up [PTT](/en/Technology/ptt-bulletin-board-system/) in his dorm room. It later became Taiwan’s largest bulletin board system. Thirty years later, PTT still has hundreds of thousands of daily users and remains a living fossil of Taiwanese internet culture.
+In 1995, Ethan Tu, then a sophomore in National Taiwan University’s Department of Computer Science and Information Engineering, used a 486 computer and open-source software to set up [PTT](/en/technology/ptt-bulletin-board-system/) in his dorm room. It later became Taiwan’s largest bulletin board system. Thirty years later, PTT still has hundreds of thousands of daily users and remains a living fossil of Taiwanese internet culture.
 
 Tu later went to Microsoft and participated in the development of the Cortana voice assistant. In April 2017, he gave up a high-paying Silicon Valley job and returned to Taiwan to found Taiwan AI Labs, Asia’s first nonprofit, open AI research organization[^11].
 
@@ -260,13 +260,13 @@ That meal at Ningxia Night Market was the position Taiwan had accumulated over t
 
 **Further Reading**:
 
-- [The Rise of an AI Island: Taiwan’s Artificial Intelligence Development and Future Strategy](/technology/AI發展) — An earlier policy-framework narrative, covering the AI Action Plan, five strategic areas, and how the semiconductor “sacred mountain protecting the nation” was grafted onto the AI revolution.
-- [Taiwan AI Labs](/technology/台灣人工智慧實驗室) — Ethan Tu’s full trajectory from PTT to AI Labs, and the open-source language-model ecosystem around TAIDE / TAME / FedGPT.
-- [Taiwan AI Academy](/technology/台灣人工智慧學校) — The unfinished phone call and the AI military academy built through Chen Sheng-Wei’s NT$180 million in private fundraising: an eight-year history of training more than 10,000 alumni.
-- [AI in Everyday Taiwan](/technology/台灣AI日常) — A documentary account of generative AI entering everyday life in Taiwan, from convenience-store ordering to batch review by the National Health Insurance Administration.
-- [Taiwanese Enterprise: TSMC](/economy/台灣企業：台積電) — The global foundry leader and core of AI chip manufacturing, from Morris Chang’s pure-play foundry model to the story of advanced packaging.
-- [Semiconductor Industry](/technology/半導體產業) — A full view of Taiwan’s semiconductor ecosystem, from IC design to packaging and testing.
-- [Development of Taiwan’s Cybersecurity Industry](/technology/台灣資安產業發展) — How geopolitical pressure gave rise to an Asia-Pacific-level AI cybersecurity industry.
+- [The Rise of an AI Island: Taiwan’s Artificial Intelligence Development and Future Strategy](/en/technology/ai-development-in-taiwan) — An earlier policy-framework narrative, covering the AI Action Plan, five strategic areas, and how the semiconductor “sacred mountain protecting the nation” was grafted onto the AI revolution.
+- [Taiwan AI Labs](/en/technology/taiwan-ai-labs) — Ethan Tu’s full trajectory from PTT to AI Labs, and the open-source language-model ecosystem around TAIDE / TAME / FedGPT.
+- [Taiwan AI Academy](/en/technology/taiwan-ai-academy) — The unfinished phone call and the AI military academy built through Chen Sheng-Wei’s NT$180 million in private fundraising: an eight-year history of training more than 10,000 alumni.
+- [AI in Everyday Taiwan](/en/technology/taiwan-ai-in-daily-life) — A documentary account of generative AI entering everyday life in Taiwan, from convenience-store ordering to batch review by the National Health Insurance Administration.
+- [Taiwanese Enterprise: TSMC](/en/economy/tsmc) — The global foundry leader and core of AI chip manufacturing, from Morris Chang’s pure-play foundry model to the story of advanced packaging.
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — A full view of Taiwan’s semiconductor ecosystem, from IC design to packaging and testing.
+- [Development of Taiwan’s Cybersecurity Industry](/en/technology/taiwan-cybersecurity-industry-development) — How geopolitical pressure gave rise to an Asia-Pacific-level AI cybersecurity industry.
 
 ---
 

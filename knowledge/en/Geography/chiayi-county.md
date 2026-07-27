@@ -210,18 +210,18 @@ Counting from Qianlong's renaming in 1787, 239 years have passed. Chiayi County'
 
 Internal contexts of Chiayi County:
 
-- [Alishan: An Imperial Forest and the Mountain of Uyongu Yatauyungana](/history/阿里山：帝國的林場與高一生的山) — The forest railway that opened in 1912 and Gao Yisheng at the Ankeng execution ground in 1954: two stories of this mountain
-- [National Palace Museum](/culture/國立故宮博物院) — The larger context of the Southern Branch as an attempt to "balance north and south"
-- [Chen Cheng-po](/people/陳澄波) — The painter who died in front of Chiayi Railway Station in 1947, another side of the Chiayi episode of the February 28 Incident
-- [Hatta Yoichi](/people/八田與一) — The 1920-1930 Chianan Irrigation工程 that turned this county into Taiwan's granary
+- [Alishan: An Imperial Forest and the Mountain of Uyongu Yatauyungana](/en/history/alishan-empire-forest-and-uongu-yatauyungana) — The forest railway that opened in 1912 and Gao Yisheng at the Ankeng execution ground in 1954: two stories of this mountain
+- [National Palace Museum](/en/culture/national-palace-museum) — The larger context of the Southern Branch as an attempt to "balance north and south"
+- [Chen Cheng-po](/en/people/chen-cheng-po) — The painter who died in front of Chiayi Railway Station in 1947, another side of the Chiayi episode of the February 28 Incident
+- [Hatta Yoichi](/en/people/hatta-yoichi) — The 1920-1930 Chianan Irrigation工程 that turned this county into Taiwan's granary
 
 Larger historical coordinates:
 
 - [February 28 Incident](/history/二二八事件) — Taiwan's island-wide political tragedy of 1947; the Tsou coming down the mountain to help maintain order is among its least-told chapters
-- [Taiwan's White Terror](/history/台灣白色恐怖) — The place of Gao Yisheng and Tang Shouren at the Ankeng execution ground in Xindian in 1954
-- [History of Railways in Taiwan](/history/台灣鐵道史) — The special position of the Alishan Forest Railway in Taiwan's railway development
-- [Chiayi City](/geography/嘉義市) — The provincial city completely surrounded by Chiayi County, and the mirror image of 76 years of separation from this county
-- [Keelung City](/geography/基隆市) — The first article in the 22 Counties and Cities series, another city "pressed down by the capital framework," useful for comparing two different fault lines
+- [Taiwan's White Terror](/en/history/taiwan-white-terror) — The place of Gao Yisheng and Tang Shouren at the Ankeng execution ground in Xindian in 1954
+- [History of Railways in Taiwan](/en/history/TBD-NEEDS-SLUG) — The special position of the Alishan Forest Railway in Taiwan's railway development
+- [Chiayi City](/en/geography/chiayi-city) — The provincial city completely surrounded by Chiayi County, and the mirror image of 76 years of separation from this county
+- [Keelung City](/en/geography/keelung-city) — The first article in the 22 Counties and Cities series, another city "pressed down by the capital framework," useful for comparing two different fault lines
 
 ## Image Sources
 

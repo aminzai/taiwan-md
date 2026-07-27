@@ -2,28 +2,28 @@
 title: "Tamsui River Bridge: A Colossal Landmark on the River-Mouth Horizon, Built for 'Transparency'"
 description: "The Tamsui River Bridge is scheduled to open on May 12, 2026. Designed by the team of the late Dame Zaha Hadid, this single-pylon asymmetric cable-stayed bridge took thirty years of planning. Caught between the competing demands of preserving the famous Tamsui sunset and relieving traffic congestion, it redefines Taiwan's river-mouth landscape with fluid, sweeping lines."
 date: 2026-04-29
-author: "Taiwan.md Contributors"
-category: "Technology"
-subcategory: "科技園區"
+author: 'Taiwan.md Contributors'
+category: 'Technology'
+subcategory: '科技園區'
 tags:
   [
-    "淡江大橋",
-    "Zaha Hadid",
-    "淡水夕照",
-    "交通建設",
-    "建築美學",
-    "環境保護",
-    "工程技術",
+    '淡江大橋',
+    'Zaha Hadid',
+    '淡水夕照',
+    '交通建設',
+    '建築美學',
+    '環境保護',
+    '工程技術',
   ]
 readingTime: 10
 lastVerified: 2026-04-29
 lastHumanReview: false
 featured: false
-translatedFrom: "Technology/淡江大橋.md"
-sourceCommitSha: "4b6d28c54"
-sourceContentHash: "sha256:58ac62b3c0ac9558"
-sourceBodyHash: "sha256:2f938b13f0ca156c"
-translatedAt: "2026-05-20T05:08:27+08:00"
+translatedFrom: 'Technology/淡江大橋.md'
+sourceCommitSha: '4b6d28c54'
+sourceContentHash: 'sha256:58ac62b3c0ac9558'
+sourceBodyHash: 'sha256:2f938b13f0ca156c'
+translatedAt: '2026-05-20T05:08:27+08:00'
 ---
 
 > **30-Second Overview:**
@@ -39,10 +39,10 @@ The reasons for the delays were complex. In the early years, development of the 
 
 "This is a stable breeding habitat," said Chuan-Xia Zhou, a volunteer from the Society of Wilderness, who once waded through the mudflats of Wazihwei in rain boots to document the breeding season of the Kentish plover [^2]. The Wazihwei Nature Reserve is one of the few wetlands in Taiwan that still retains a complete estuarine ecosystem, home to rich mangrove ecology, mudskippers, fiddler crabs, and other benthic life, as well as a vital stopover for many migratory bird species. In response to these concerns, the engineering team revised the design multiple times, shifting the Bali ramp 500 meters southward to avoid the reserve, and ultimately decided to hold an international design competition to seek the best solution balancing aesthetics and environmental protection [^2].
 
-| Point of Controversy | Impact | Countermeasure |
-| :------------------- | :----- | :------------- |
-| Tamsui sunset views | The bridge structure could block the beauty of the setting sun | Adoption of a single-pylon asymmetric cable-stayed bridge design to reduce visual obstruction [^1] |
-| Wazihwei Nature Reserve ecology | Construction could destroy migratory bird habitat | Bali ramp shifted 500 meters southward to avoid the reserve [^2] |
+| Point of Controversy                       | Impact                                                                                       | Countermeasure                                                                                                  |
+| :----------------------------------------- | :------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
+| Tamsui sunset views                        | The bridge structure could block the beauty of the setting sun                               | Adoption of a single-pylon asymmetric cable-stayed bridge design to reduce visual obstruction [^1]              |
+| Wazihwei Nature Reserve ecology            | Construction could destroy migratory bird habitat                                            | Bali ramp shifted 500 meters southward to avoid the reserve [^2]                                                |
 | Engineering difficulty and tender failures | Spanning the Tamsui River posed extreme technical challenges; the tender failed 7 times [^7] | International design competition brought in the Zaha Hadid team to elevate design and construction methods [^7] |
 
 📝 Curator's Note: This infrastructure project simultaneously grapples with two public values — "progress" and "preservation."
@@ -71,10 +71,10 @@ Yet behind the aesthetic commitment lies extreme engineering difficulty. The Tam
 
 According to traffic benefit assessments, the drive between Tamsui and Bali will be shortened by 15 kilometers, saving approximately 25 minutes [^3] [^5]. But the controversy has not entirely faded. Huang Rui-Mao, a professor of architecture at Tamkang University, once expressed concern that the bridge would act like the Trojan Horse, drawing an overwhelming flood of tourists that could degrade the character of the small Tamsui town [^2].
 
-| Traffic Benefit | Before (Estimated) | After (Estimated) | Time/Distance Saved |
-| :-------------- | :----------------- | :---------------- | :------------------ |
-| Tamsui–Bali drive | 30–40 minutes | 5–15 minutes | 25 minutes |
-| Detour via Guandu Bridge | 15 km | 0 km | 15 km |
+| Traffic Benefit          | Before (Estimated) | After (Estimated) | Time/Distance Saved |
+| :----------------------- | :----------------- | :---------------- | :------------------ |
+| Tamsui–Bali drive        | 30–40 minutes      | 5–15 minutes      | 25 minutes          |
+| Detour via Guandu Bridge | 15 km              | 0 km              | 15 km               |
 
 In addition, the wind-tunnel effect at the main pylon and safety concerns for motorcycle lanes remain focal points of local community discussion [^3]. The Transportation Bureau has also planned to trial four new bus routes after opening, aiming to guide tourist flows and reduce the impact of private vehicles on the historic old streets [^3].
 
@@ -86,8 +86,8 @@ The completion of the Tamsui River Bridge marks an important milestone in Taiwan
 
 ## Further Reading
 
-- [Taiwan Transportation System](/lifestyle/台灣交通系統) — Placing the bridge back into the broader context of Taiwan's highways, bridges, and public transit.
-- [Taiwan Urban Development and the Urban-Rural Divide](/geography/台灣都市發展與城鄉差距) — Understanding how major infrastructure projects reshape regional demographics and housing markets.
+- [Taiwan Transportation System](/en/lifestyle/transportation-system) — Placing the bridge back into the broader context of Taiwan's highways, bridges, and public transit.
+- [Taiwan Urban Development and the Urban-Rural Divide](/en/society/taiwan-urban-development-and-rural-urban-divide) — Understanding how major infrastructure projects reshape regional demographics and housing markets.
 
 ## References
 

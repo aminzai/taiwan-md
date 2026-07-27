@@ -202,12 +202,12 @@ Next time you visit Hsinchu, don't just look at the chip fabs inside the park. T
 
 ## Further Reading
 
-- [Keelung City](/geography/基隆市) — 22 Counties and Cities Series pilot: Harbor memories from the Spanish flag-planting in 1626 to the world's seventh-largest container port in 1984; like Hsinchu, it has a Cold War front-line base (Keelung Peace Island vs. Hsinchu Air Force) and a provincial city's fate
-- [Chiayi City](/geography/嘉義市) — 22 Counties and Cities Series: Another provincial city split by county seat relocation (Chiayi County seat moved to Taibao in 1991 vs. Hsinchu County seat moved to Zhubei in 1989); compare the consequences of two county-city separations
-- [Miaoli County](/geography/苗栗縣) — 22 Counties and Cities Series: A neighboring county carved out of Hsinchu County in 1887; the Hsinchu Science Park's Longtan and Tongluo campuses are both in Miaoli, representing Hsinchu's industrial spillover
-- [Nantou County](/geography/南投縣) — 22 Counties and Cities Series: The only landlocked county, sharing Hsinchu's "scale ≠ importance" geographic structure (Nantou supports the entire central mountain system / Hsinchu supports the entire semiconductor cluster)
-- [Taoyuan City](/geography/桃園市) — Hsinchu's northern neighbor; when ITRI was established in 1973, Longtan, Taoyuan was initially considered before Hsinchu was chosen; the Science Park's Longtan campus straddles Taoyuan and Hsinchu
-- [Hsinchu County](/geography/新竹縣) — Separated from Hsinchu City in 1982, county seat moved to Zhubei in 1989; Baoshan Township is the site of TSMC's 2-nanometer fab
+- [Keelung City](/en/geography/keelung-city) — 22 Counties and Cities Series pilot: Harbor memories from the Spanish flag-planting in 1626 to the world's seventh-largest container port in 1984; like Hsinchu, it has a Cold War front-line base (Keelung Peace Island vs. Hsinchu Air Force) and a provincial city's fate
+- [Chiayi City](/en/geography/chiayi-city) — 22 Counties and Cities Series: Another provincial city split by county seat relocation (Chiayi County seat moved to Taibao in 1991 vs. Hsinchu County seat moved to Zhubei in 1989); compare the consequences of two county-city separations
+- [Miaoli County](/en/geography/miaoli-county) — 22 Counties and Cities Series: A neighboring county carved out of Hsinchu County in 1887; the Hsinchu Science Park's Longtan and Tongluo campuses are both in Miaoli, representing Hsinchu's industrial spillover
+- [Nantou County](/en/geography/nantou-county) — 22 Counties and Cities Series: The only landlocked county, sharing Hsinchu's "scale ≠ importance" geographic structure (Nantou supports the entire central mountain system / Hsinchu supports the entire semiconductor cluster)
+- [Taoyuan City](/en/geography/taoyuan-city) — Hsinchu's northern neighbor; when ITRI was established in 1973, Longtan, Taoyuan was initially considered before Hsinchu was chosen; the Science Park's Longtan campus straddles Taoyuan and Hsinchu
+- [Hsinchu County](/en/geography/hsinchu-county) — Separated from Hsinchu City in 1982, county seat moved to Zhubei in 1989; Baoshan Township is the site of TSMC's 2-nanometer fab
 - [Taiwan Semiconductor Industry](/technology/台灣半導體產業) — The complete industrial history from ITRI in 1973 to TSMC's 2-nanometer process in 2025; Hsinchu is the physical coordinate of every timeline in this story
 - [TSMC](/companies/台積電) — Founded in Hsinchu Science Park in 1987; 2-nanometer process began mass production at the Baoshan plant in Q4 2025
 - [Taiwan During the Cold War](/history/冷戰時期的台灣) — The reconnaissance history of the Black Bat Squadron and the Black Cat Squadron; Hsinchu Air Force Base was the center of this history

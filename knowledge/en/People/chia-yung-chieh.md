@@ -135,10 +135,10 @@ What may be most worth remembering is that hour in the early morning when she ha
 
 **Further reading:**
 
-- [Lim Giong](/people/林強) — Another Taiwanese cultural figure who completed an identity transformation (from Hokkien-language rock icon to film score pioneer), who like Chia Yung-chieh used the second half of life to redefine the position the market had assigned
-- [Tsai Ing-wen](/people/蔡英文) — The other end of that "120% pretty girl" phone call in June 2021; the HFNC fundraising was a rare synchronized operation between civilian and Presidential Office mobilization systems
-- [Jay Chou](/people/周杰倫) — Another path of converting celebrity status into cross-domain influence (music → film → brand → public welfare), to be read alongside Chia's "entertainer to public-share governance" trajectory
-- [Taiwanese Volunteer Culture and Public Welfare Participation](/society/台灣志工文化與公益參與) — The cultural foundation of the 2021 HFNC civilian mobilization; the tradition of horizontal linkages in Taiwanese civil society during major events
+- [Lim Giong](/en/people/lim-giong) — Another Taiwanese cultural figure who completed an identity transformation (from Hokkien-language rock icon to film score pioneer), who like Chia Yung-chieh used the second half of life to redefine the position the market had assigned
+- [Tsai Ing-wen](/en/people/tsai-ing-wen) — The other end of that "120% pretty girl" phone call in June 2021; the HFNC fundraising was a rare synchronized operation between civilian and Presidential Office mobilization systems
+- [Jay Chou](/en/people/jay-chou) — Another path of converting celebrity status into cross-domain influence (music → film → brand → public welfare), to be read alongside Chia's "entertainer to public-share governance" trajectory
+- [Taiwanese Volunteer Culture and Public Welfare Participation](/en/society/volunteering-and-civic-charity-in-taiwan) — The cultural foundation of the 2021 HFNC civilian mobilization; the tradition of horizontal linkages in Taiwanese civil society during major events
 
 ## References
 

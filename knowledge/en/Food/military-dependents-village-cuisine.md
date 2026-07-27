@@ -58,7 +58,7 @@ Living space in the villages was cramped. Families of several people squeezed in
 
 ## The Military Dependents' Village Origin of Braised Beef Noodle Soup: Kaohsiung's Gangshan and Mingde Doubanjiang
 
-Any discussion of military dependents' village cuisine must mention [beef noodle soup](/en/Food/beef-noodle-soup/). Although beef noodle soup is now regarded as a national dish of Taiwan, its origins can indeed be traced to village culture, more specifically to **Air Force military dependents' villages in Gangshan, Kaohsiung, in the 1950s**.[^7]
+Any discussion of military dependents' village cuisine must mention [beef noodle soup](/en/food/beef-noodle-soup/). Although beef noodle soup is now regarded as a national dish of Taiwan, its origins can indeed be traced to village culture, more specifically to **Air Force military dependents' villages in Gangshan, Kaohsiung, in the 1950s**.[^7]
 
 The story begins with Air Force noncommissioned officer **Liu Mingde**. He came to Taiwan with the military in 1948, retired in 1950, and settled in a military dependents' village in Gangshan. To make a living, he recalled the doubanjiang-making skills he had learned on the march, used his remaining savings to buy ingredients, and began producing hometown-style spicy doubanjiang and sweet wheat paste. **"Mingde Doubanjiang"** became a signature seasoning inside and outside the Gangshan villages, and unexpectedly supplied the crucial flavor base for Sichuan-style braised beef noodle soup.[^6]
 

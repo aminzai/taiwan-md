@@ -99,7 +99,7 @@ In an era before the phrase "Taiwan's pride" (台灣之光) even existed, Lee Yu
 
 **Further reading:**
 
-- [Wu Ta-you](/people/吳大猷) — Lee Yuan-tseh's predecessor as Academia Sinica President, who laid the foundations of Taiwan's scientific research system and nurtured two Nobel physics laureates, Chen-Ning Yang and Tsung-Dao Lee
+- [Wu Ta-you](/en/people/tai-yu-wu) — Lee Yuan-tseh's predecessor as Academia Sinica President, who laid the foundations of Taiwan's scientific research system and nurtured two Nobel physics laureates, Chen-Ning Yang and Tsung-Dao Lee
 
 ## References
 

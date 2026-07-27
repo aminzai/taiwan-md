@@ -66,8 +66,8 @@ The quiet existence of Falun Gong in Taiwan is itself one of the most powerful f
 
 **Further reading**
 
-- [United Front Tour Groups](/society/統戰團) — From discount tours to influencer traffic, the old and new operations of CCP's united-front strategy and the cognitive contest logic.
-- [Cognitive Warfare](/society/認知作戰) — The systematic framework of cognitive operations and Taiwan's response mechanisms, from academic analysis to civic education practice.
+- [United Front Tour Groups](/en/society/united-front-tour-groups) — From discount tours to influencer traffic, the old and new operations of CCP's united-front strategy and the cognitive contest logic.
+- [Cognitive Warfare](/en/society/cognitive-warfare-against-taiwan) — The systematic framework of cognitive operations and Taiwan's response mechanisms, from academic analysis to civic education practice.
 
 ## References
 

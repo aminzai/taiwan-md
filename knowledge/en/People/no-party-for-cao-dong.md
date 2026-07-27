@@ -281,13 +281,13 @@ Then the camera turned to the next award.
 
 **Further reading**:
 
-- [Waa Wei](/people/魏如萱) — A comparison within the same 2010s independent music ecosystem, through a female vocal pathway
-- [Constant & Change](/people/康士坦的變化球) — A comparison within the post-rock spectrum, but with a vocal narrative pathway
-- [Cicada](/people/Cicada) — A fully instrumental, no-vocal pathway, the opposite of Cao Dong’s “lyrics as sociology”
-- [Crowd Lu](/people/盧廣仲) — Another “work-centered singer” path in independent music
-- [Popular Music and the Golden Melody Awards](/music/金曲獎) — The stage coordinates for Cao Dong’s two Best Band wins
-- [Taiwan Independent Music](/music/台灣獨立音樂) — The evolution of independent music from Natural Q to Cao Dong to Accusefive
-- [Taiwan Pop Music](/music/台灣流行音樂) — The industry environment of Mandarin-language popular music
+- [Waa Wei](/en/people/waa-wei-singer) — A comparison within the same 2010s independent music ecosystem, through a female vocal pathway
+- [Constant & Change](/en/people/constant-and-change-band) — A comparison within the post-rock spectrum, but with a vocal narrative pathway
+- [Cicada](/en/people/cicada-band) — A fully instrumental, no-vocal pathway, the opposite of Cao Dong’s “lyrics as sociology”
+- [Crowd Lu](/en/people/crowd-lu-indie-folk-treasure) — Another “work-centered singer” path in independent music
+- [Popular Music and the Golden Melody Awards](/en/music/pop-music-and-golden-melody-awards) — The stage coordinates for Cao Dong’s two Best Band wins
+- [Taiwan Independent Music](/en/music/indie-music-scene) — The evolution of independent music from Natural Q to Cao Dong to Accusefive
+- [Taiwan Pop Music](/en/music/golden-melodies-legacy-taiwan-pop-music) — The industry environment of Mandarin-language popular music
 
 ## Image Sources
 

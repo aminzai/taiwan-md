@@ -222,11 +222,11 @@ The song will get quieter, but as long as someone is still singing, it is not ye
 
 **Further Reading**:
 
-- [Taiwan's Rural Education](/society/台灣偏鄉教育) — When the countryside enters low birth rate forty years earlier than the city, rural primary schools are where this letter first arrives.
-- [Education System and Advancement Culture](/society/教育制度與升學文化) — University closures, student source cliffs, are inseparable from how the whole society views "advancement."
-- [Development of Taiwan's Long-Term Care System](/society/台灣長期照顧制度發展) — When over 65 exceeds 20% and foreign caregivers hold up 215,000 beds, long-term care is the other end of low birth rate.
-- [Taiwan's Robotics Industry](/technology/台灣機器人產業) — If fewer people is the settled outcome, automation will be one of the key answers to "reorganizing production in a shrinking population."
-- [Expansion and Closure of Taiwan's Higher Education](/society/台灣高等教育擴張與退場) — The wall of low birth rate hits universities: after 58 upgraded to 148, how do schools close, and who bears the cost?
+- [Taiwan's Rural Education](/en/society/taiwan-rural-education) — When the countryside enters low birth rate forty years earlier than the city, rural primary schools are where this letter first arrives.
+- [Education System and Advancement Culture](/en/society/education-system-and-admissions-culture) — University closures, student source cliffs, are inseparable from how the whole society views "advancement."
+- [Development of Taiwan's Long-Term Care System](/en/society/long-term-care-system-development) — When over 65 exceeds 20% and foreign caregivers hold up 215,000 beds, long-term care is the other end of low birth rate.
+- [Taiwan's Robotics Industry](/en/technology/taiwan-robotics-industry) — If fewer people is the settled outcome, automation will be one of the key answers to "reorganizing production in a shrinking population."
+- [Expansion and Closure of Taiwan's Higher Education](/en/society/taiwan-higher-education-expansion-and-decline) — The wall of low birth rate hits universities: after 58 upgraded to 148, how do schools close, and who bears the cost?
 
 ## References
 

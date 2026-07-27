@@ -129,7 +129,7 @@ Taiwan's architectural history is not a straight line but more like multiple riv
 
 **Further Reading**:
 
-- [Taiwanese Sensibility: Taiwan Aesthetics Through Korean Eyes](/culture/台灣感性) — how architectural elements like iron window grilles, arcaded sidewalks, and the exteriors of old apartment buildings became the visual core of Korea's "대만감성"
+- [Taiwanese Sensibility: Taiwan Aesthetics Through Korean Eyes](/en/culture/taiwanese-sensibility) — how architectural elements like iron window grilles, arcaded sidewalks, and the exteriors of old apartment buildings became the visual core of Korea's "대만감성"
 
 ## References
 

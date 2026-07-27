@@ -584,7 +584,7 @@ The core of marine conservation is intergenerational equity: today's decisions d
 
 **Further Reading**:
 
-- [Taiwan's Climate Crisis and Net-Zero Transition](/nature/台灣氣候危機與淨零轉型) — Coral bleaching at the outlet of the Maanshan Nuclear Power Plant, fisheries conflicts over offshore wind power, and the environmental impact assessment controversy over the Third LNG Terminal at the algal reef: how climate transition is reshaping the battlefield of marine governance
+- [Taiwan's Climate Crisis and Net-Zero Transition](/en/nature/taiwan-climate-change-net-zero-transition) — Coral bleaching at the outlet of the Maanshan Nuclear Power Plant, fisheries conflicts over offshore wind power, and the environmental impact assessment controversy over the Third LNG Terminal at the algal reef: how climate transition is reshaping the battlefield of marine governance
 
 ## References
 

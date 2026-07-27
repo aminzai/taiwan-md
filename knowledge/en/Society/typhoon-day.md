@@ -173,7 +173,7 @@ But every summer, when the work-suspension announcement appears on a phone scree
 
 ## Further Reading
 
-- [Typhoon](/Nature/颱風) — A panoramic account of Taiwan's 400 years of coexistence with typhoons, from Qing-era settlers witnessing hurricanes in Penghu to Xiaolin Village in 2009
+- [Typhoon](/en/nature/typhoons-in-taiwan) — A panoramic account of Taiwan's 400 years of coexistence with typhoons, from Qing-era settlers witnessing hurricanes in Penghu to Xiaolin Village in 2009
 - Business Weekly, "Can Typhoon Days Really Please Small-Happiness Voters? Statistics Show: Only Correctly Granted Days Matter" — A quantitative political analysis of typhoon-day decision-making
 - Coolloud, "As Typhoon Season Arrives, What Are We Waiting for in Legislating Paid Natural-Disaster Leave?" — A labor perspective on advocacy for writing typhoon days into law
 

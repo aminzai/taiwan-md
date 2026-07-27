@@ -218,7 +218,7 @@ But input methods will not disappear. Because they are not just tools — they a
 
 ## Further Reading
 
-- [Semiconductor Industry](/technology/半導體產業) — The industry that produces the chips behind the keyboard
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — The industry that produces the chips behind the keyboard
 
 ## References
 

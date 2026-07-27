@@ -26,7 +26,7 @@ translatedAt: '2026-05-09T14:29:43Z'
 
 The iPhone in your hand, the PlayStation in your living room, the NVIDIA GB200 AI server racks used to train GPT in the cloud — the final assembly of all these products most likely came out of a Foxconn facility[^10][^14].
 
-From the NT$100,000 that [Terry Gou](/people/郭台銘) borrowed from his mother Chu Yung-chen's rotating credit association in 1974 to found "Plastics Industry"[^13], to becoming the first listed company in Taiwan to break NT$8 trillion in annual revenue in 2025[^9], Foxconn's story has been told hundreds of times. This article does not retell that narrative.
+From the NT$100,000 that [Terry Gou](/en/people/terry-gou) borrowed from his mother Chu Yung-chen's rotating credit association in 1974 to found "Plastics Industry"[^13], to becoming the first listed company in Taiwan to break NT$8 trillion in annual revenue in 2025[^9], Foxconn's story has been told hundreds of times. This article does not retell that narrative.
 
 April 30, 2026, was one of the most contradictory days in Foxconn's recent history: in the morning it was the global AI manufacturing champion anointed by _Time_ magazine; by evening it was the target of a search by the New Taipei District Prosecutors Office[^1][^10]. The same balance sheet, two entries being recorded simultaneously in opposite directions. That is the core of this rewrite.
 
@@ -78,7 +78,7 @@ The Liao Wancheng case was a long story in the judicial system, but within Foxco
 
 ## The Decision in 2015
 
-In mid-2015, [Terry Gou](/people/郭台銘) established a new independent department outside the existing Legal Office and Audit Office: the **Fraud Prevention Division**[^6].
+In mid-2015, [Terry Gou](/en/people/terry-gou) established a new independent department outside the existing Legal Office and Audit Office: the **Fraud Prevention Division**[^6].
 
 _CommonWealth Magazine_ called it the "Foxconn Anti-Corruption Agency"[^6]. Gou simultaneously established a "Ghost-Busting Bonus" of up to NT$50 million per case to encourage employees to report internal fraud[^6].
 
@@ -114,7 +114,7 @@ Two Foxconns — one on the cover of _Time_, the other in a material information
 
 ## The Distance from NT$100,000 to NT$8 Trillion
 
-In 1974, 30-year-old [Terry Gou](/people/郭台銘) took NT$100,000 — half of the NT$200,000 his mother Chu Yung-chen raised through a rotating credit association, the other half used for Gou's own wedding — and partnered with friends to raise NT$300,000, founding "Hon Hai Plastics Industry Co., Ltd." in Tucheng, Taipei, with 10 employees producing knobs for black-and-white television sets[^13].
+In 1974, 30-year-old [Terry Gou](/en/people/terry-gou) took NT$100,000 — half of the NT$200,000 his mother Chu Yung-chen raised through a rotating credit association, the other half used for Gou's own wedding — and partnered with friends to raise NT$300,000, founding "Hon Hai Plastics Industry Co., Ltd." in Tucheng, Taipei, with 10 employees producing knobs for black-and-white television sets[^13].
 
 The following year, amid a downturn, the NT$300,000 in capital was exhausted and the original partners withdrew. Gou borrowed NT$700,000 from his father-in-law to buy out the entire company and renamed it "Hon Hai Industrial"[^13].
 
@@ -147,11 +147,11 @@ _Time_ magazine's list will continue to be updated. Earnings calls will continue
 
 ## Further Reading
 
-- [Terry Gou](/people/郭台銘) — Founder of Foxconn, from his mother's NT$100,000 rotating credit association loan to a global manufacturing empire
-- [Taiwan Enterprise: TSMC](/economy/台灣企業：台積電) — Another flagship Taiwan multinational, but on the pure-play semiconductor foundry path; governance structure is fundamentally different from Foxconn's contract manufacturing empire
-- [Taiwan Stock Market and Capital Markets](/economy/台灣股市與資本市場) — Foxconn's stock ticker is 2317; how the material information disclosure mechanism works
-- [Taiwan Industrial Transformation and Upgrading](/economy/台灣產業轉型升級) — From labor-intensive contract manufacturing to AI server assembly, Foxconn is a microcosm of this trajectory
-- [Taiwan Trade and Global Supply Chains](/economy/台灣外貿與全球供應鏈) — A global footprint of 24 countries and 900,000 employees, Taiwan's largest experiment in cross-border manufacturing governance
+- [Terry Gou](/en/people/terry-gou) — Founder of Foxconn, from his mother's NT$100,000 rotating credit association loan to a global manufacturing empire
+- [Taiwan Enterprise: TSMC](/en/economy/tsmc) — Another flagship Taiwan multinational, but on the pure-play semiconductor foundry path; governance structure is fundamentally different from Foxconn's contract manufacturing empire
+- [Taiwan Stock Market and Capital Markets](/en/economy/taiwan-stock-market) — Foxconn's stock ticker is 2317; how the material information disclosure mechanism works
+- [Taiwan Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — From labor-intensive contract manufacturing to AI server assembly, Foxconn is a microcosm of this trajectory
+- [Taiwan Trade and Global Supply Chains](/en/economy/taiwan-foreign-trade-and-global-supply-chain) — A global footprint of 24 countries and 900,000 employees, Taiwan's largest experiment in cross-border manufacturing governance
 
 ---
 

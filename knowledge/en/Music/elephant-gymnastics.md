@@ -240,11 +240,11 @@ The documentary is called _More Real than Dreams_. The road the three members tr
 
 ## Further Reading
 
-- [Sorry Youth](/Music/拍謝少年) — Another contemporary band from southern Taiwan that defines itself through language, but they chose Tâi-gí, the Taiwanese language, and vocals
-- [Fire EX.](/Music/滅火器樂團) — A Kaohsiung sibling band, and the other Kaohsiung group that appeared at Fuji Rock in 2022
-- [Sunset Rollercoaster](/Music/落日飛車) — A same-generation representative of Taiwanese indie music going abroad, with soft city pop textures and English vocals, forming a contrasting path with Elephant Gym's instrumental technicalism
-- [History of Taiwanese Rock Music](/Music/台灣搖滾樂發展史) — The developmental context from Wu Bai and Mayday to the post-Sunset Rollercoaster generation
-- [Taiwanese Independent Music](/Music/台灣獨立音樂) — Taiwan's indie scene and label ecosystem
+- [Sorry Youth](/en/music/sorry-youth-band) — Another contemporary band from southern Taiwan that defines itself through language, but they chose Tâi-gí, the Taiwanese language, and vocals
+- [Fire EX.](/en/music/fire-ex) — A Kaohsiung sibling band, and the other Kaohsiung group that appeared at Fuji Rock in 2022
+- [Sunset Rollercoaster](/en/music/sunset-rollercoaster) — A same-generation representative of Taiwanese indie music going abroad, with soft city pop textures and English vocals, forming a contrasting path with Elephant Gym's instrumental technicalism
+- [History of Taiwanese Rock Music](/en/music/taiwan-rock-from-underground-to-mainstream) — The developmental context from Wu Bai and Mayday to the post-Sunset Rollercoaster generation
+- [Taiwanese Independent Music](/en/music/indie-music-scene) — Taiwan's indie scene and label ecosystem
 
 ---
 

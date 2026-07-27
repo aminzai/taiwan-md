@@ -103,9 +103,9 @@ That train left the Taipei Main Station platform a long time ago. The watermelon
 
 **Further reading**:
 
-- [Hou Hsiao-hsien](/people/侯孝賢) — Lim Giong's first cinema teacher, the central figure of Taiwan New Cinema
-- [The Evolution of Taiwanese Hokkien Song](/music/台灣台語歌曲演進) — The cultural wave to which Lim Giong's "Moving Forward" belonged, the lineage from lament-mode Hokkien to rock Hokkien
-- [Chia Yung-chieh](/people/賈永婕) — A Taiwanese public figure who similarly completed an identity transition, from celebrity status to public-governance mobilization
+- [Hou Hsiao-hsien](/en/people/hou-hsiao-hsien) — Lim Giong's first cinema teacher, the central figure of Taiwan New Cinema
+- [The Evolution of Taiwanese Hokkien Song](/en/music/taiwanese-hokkien-song-evolution) — The cultural wave to which Lim Giong's "Moving Forward" belonged, the lineage from lament-mode Hokkien to rock Hokkien
+- [Chia Yung-chieh](/en/people/chia-yung-chieh) — A Taiwanese public figure who similarly completed an identity transition, from celebrity status to public-governance mobilization
 
 ## References
 

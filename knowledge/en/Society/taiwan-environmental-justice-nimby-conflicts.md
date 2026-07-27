@@ -220,13 +220,13 @@ Democratic environmental decision‑making should rest on ample information, ope
 
 **Further Reading**:
 
-- [Taipei's Smoking Rooms: The Breathing Glass Box in a Smoke‑Free City](/society/台北吸菸室) — Whose doorstep should host the smoking room, and would homeless people gather there: a street‑level NIMBY dilemma
+- [Taipei's Smoking Rooms: The Breathing Glass Box in a Smoke‑Free City](/en/society/taipei-smoking-room) — Whose doorstep should host the smoking room, and would homeless people gather there: a street‑level NIMBY dilemma
 
-- [Taiwan and Nuclear Power Discussion](/society/台灣與核能的討論) — The Tao people of Lanyu bear nuclear waste yet remain absent from the debate: the deepest NIMBY and environmental‑justice fault lines in nuclear discourse.
-- [Tin‑Roof Houses](/society/鐵皮屋) — The Wenzaichun relocation case as a typical environmental‑justice example: pollution, demolition, and resettlement challenges of a 400‑hectare tin‑roof factory settlement.
-- [Social Housing and Housing Justice](/society/社會住宅與居住正義) — Policy aspects of housing issues: social‑housing supply and rental‑market reform.
-- [Lu Hsiu-yen](/people/盧秀燕) — From winning the 2018 Taichung mayoral race on air‑quality issues to concrete policy battles over coal‑fire plants, PM2.5, and energy transition.
-- [Taiwan Climate Crisis and Net‑Zero Transition](/nature/台灣氣候危機與淨零轉型) — Lanyu’s 97,672 barrels, nuclear‑plant 2025 referendum, three‑fold algae reef, geothermal 27‑fold gap: environmental‑justice fractures across each energy‑transition pathway.
+- [Taiwan and Nuclear Power Discussion](/en/society/taiwan-nuclear-debate) — The Tao people of Lanyu bear nuclear waste yet remain absent from the debate: the deepest NIMBY and environmental‑justice fault lines in nuclear discourse.
+- [Tin‑Roof Houses](/en/society/taiwan-tin-shed-houses) — The Wenzaichun relocation case as a typical environmental‑justice example: pollution, demolition, and resettlement challenges of a 400‑hectare tin‑roof factory settlement.
+- [Social Housing and Housing Justice](/en/society/social-housing-and-housing-justice) — Policy aspects of housing issues: social‑housing supply and rental‑market reform.
+- [Lu Hsiu-yen](/en/people/lu-hsiu-yan) — From winning the 2018 Taichung mayoral race on air‑quality issues to concrete policy battles over coal‑fire plants, PM2.5, and energy transition.
+- [Taiwan Climate Crisis and Net‑Zero Transition](/en/nature/taiwan-climate-change-net-zero-transition) — Lanyu’s 97,672 barrels, nuclear‑plant 2025 referendum, three‑fold algae reef, geothermal 27‑fold gap: environmental‑justice fractures across each energy‑transition pathway.
 
 ## References
 

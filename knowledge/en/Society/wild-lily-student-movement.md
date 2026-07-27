@@ -147,6 +147,6 @@ And that year, the answer began to appear.
 
 ## Related Topics
 
-- [Sunflower Student Movement](/society/太陽花學運): How another generation of students pushed institutional debate twenty-four years later
-- [Democratic System](/society/民主制度): How Taiwan's democratic rules today were built step by step
-- [Taiwan's Political Environment and Electoral System](/society/台灣政治環境與選舉制度): The institutional transformation from the "ten-thousand-year legislature" to full re-election
+- [Sunflower Student Movement](/en/society/sunflower-movement): How another generation of students pushed institutional debate twenty-four years later
+- [Democratic System](/en/society/democratic-system): How Taiwan's democratic rules today were built step by step
+- [Taiwan's Political Environment and Electoral System](/en/society/taiwan-political-landscape-and-electoral-system): The institutional transformation from the "ten-thousand-year legislature" to full re-election

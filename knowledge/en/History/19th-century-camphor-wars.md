@@ -133,11 +133,11 @@ The account has not been settled.
 
 ## Further Reading
 
-- [Robert Swinhoe: When a Diplomat Became a Naturalist](/people/史溫侯) — The primary source provider of this article; "Formosa Camphor" from 1864 is the prehistory of the Camphor War
-- [Qing Dynasty Rule](/history/清治時期) — How the 1860 port opening restructured Taiwan's political economy
-- [Japanese Colonial Era](/history/日治時期) — How the Camphor Monopoly Bureau and "pacification campaigns" continued the mountain policies of the late Qing
-- [Taiwan Forest Development History](/history/台灣森林開發史) — From camphor to cypress, the complete context of Taiwan's mountain forest exploitation
-- [Alishan: The Empire's Timber Station and Uyongu Yatauyungana's Mountain](/history/阿里山：帝國的林場與高一生的山) — How timber extraction extended to Japanese-era Alishan and postwar White Terror
+- [Robert Swinhoe: When a Diplomat Became a Naturalist](/en/people/robert-swinhoe-naturalist) — The primary source provider of this article; "Formosa Camphor" from 1864 is the prehistory of the Camphor War
+- [Qing Dynasty Rule](/en/history/qing-dynasty-rule) — How the 1860 port opening restructured Taiwan's political economy
+- [Japanese Colonial Era](/en/history/japanese-colonial-era) — How the Camphor Monopoly Bureau and "pacification campaigns" continued the mountain policies of the late Qing
+- [Taiwan Forest Development History](/en/history/taiwan-forestry-history) — From camphor to cypress, the complete context of Taiwan's mountain forest exploitation
+- [Alishan: The Empire's Timber Station and Uyongu Yatauyungana's Mountain](/en/history/alishan-empire-forest-and-uongu-yatauyungana) — How timber extraction extended to Japanese-era Alishan and postwar White Terror
 
 ---
 

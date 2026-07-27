@@ -66,7 +66,7 @@ During the pandemic beginning in 2020, Taiwan AI Labs collaborated with the gove
 
 ## Further Reading
 
-- [Taiwan AI Development and Future Strategy: From the 2024 Double Nobel to Ningxia Night Market](/technology/台灣人工智慧發展與未來策略) — Placing Taiwan AI Labs within the broader landscape of hardware dominance and the 2024 double Nobel prizes, examining TAIDE's position relative to global AI foundational research.
+- [Taiwan AI Development and Future Strategy: From the 2024 Double Nobel to Ningxia Night Market](/en/technology/artificial-intelligence-development-strategy) — Placing Taiwan AI Labs within the broader landscape of hardware dominance and the 2024 double Nobel prizes, examining TAIDE's position relative to global AI foundational research.
 - [Taiwan AI Labs Official Website](https://ailabs.tw/)
 - [Ethan Tu — Wikipedia](https://zh.wikipedia.org/zh-tw/杜奕瑾)
 - [BNext: Ethan Tu Returns to Taiwan to Establish AI Lab](https://www.bnext.com.tw/article/44267/founder-of-ptt-ethan-tu-back-to-taiwan-to-establish-an-ai-lab)

@@ -120,4 +120,4 @@ This local participation is also reflected in his personal media presence. On In
 ## Further Reading
 
 - [Joe Fang Studio official website](https://joefangstudio.com/) — The design studio founded by Fang Hsu-chung
-- [Hsiao Qing-yang](/people/蕭青陽) — A Taiwanese visual designer of the same generation and Grammy Award winner
+- [Hsiao Qing-yang](/en/people/xiao-qing-yang-grammy-designer) — A Taiwanese visual designer of the same generation and Grammy Award winner

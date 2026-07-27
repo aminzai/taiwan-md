@@ -229,10 +229,10 @@ No one can answer how the next 60 years will be sustained with a single asset-di
 **Further reading**:
 
 - [Taiwanese Banquet Culture](/food/台灣辦桌文化) — The beverage-culture context of rechao restaurants and banquet tables, and Apple Sidra’s place within this system
-- [Taiwanese Hand-Shaken Drink Culture](/food/台灣手搖飲文化) — From tea drinks to carbonated beverages, the evolution of what Taiwanese people drink
-- [Taiwanese Enterprises: Uni-President Enterprises](/economy/台灣企業：統一企業) — A major competitor in the beverage market during the same period
-- [Taiwanese Enterprises: I-Mei Foods](/economy/台灣企業：義美食品) — Another legacy brand that experienced food-safety controversies
-- [Taiwan’s Stock Market and Capital Markets](/economy/台灣股市與資本市場) — The historical context of the 1985 Tenth Credit Cooperative scandal, the 1990 Hung Yuan case, and the 1985-1995 trademark transfers discussed in this article
+- [Taiwanese Hand-Shaken Drink Culture](/en/food/hand-shaken-drink-culture) — From tea drinks to carbonated beverages, the evolution of what Taiwanese people drink
+- [Taiwanese Enterprises: Uni-President Enterprises](/en/economy/taiwan-enterprise-uni-president) — A major competitor in the beverage market during the same period
+- [Taiwanese Enterprises: I-Mei Foods](/en/economy/imei-foods-corporation) — Another legacy brand that experienced food-safety controversies
+- [Taiwan’s Stock Market and Capital Markets](/en/economy/taiwan-stock-market) — The historical context of the 1985 Tenth Credit Cooperative scandal, the 1990 Hung Yuan case, and the 1985-1995 trademark transfers discussed in this article
 
 ## Image Sources
 

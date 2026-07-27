@@ -75,9 +75,9 @@ Urobuchi has said he himself is a Pili fan; the collaboration began at the momen
 
 **Further reading**
 
-- [Taiwanese Shadow Puppetry](/culture/皮影戲) — Also rooted in Min-Yue and grown in Mituo, Kaohsiung, this traditional shadow theater also survived Kominka by adapting Japanese-language scripts; another lineage of Taiwan's traditional puppet arts
-- [Taiwan Temple Festivals and Zhentou Culture](/culture/台灣廟會與陣頭文化) — The temple square was budaixi's earliest stage; temple festivals and budaixi share the same sky in Taiwan's folk-religion landscape
-- [National Theater and Concert Hall](/culture/兩廳院) — Another facet of Taiwan's traditional performing arts moving from temple squares onto contemporary theater stages, opened in 1987 to witness Taiwan's cultural democratization
+- [Taiwanese Shadow Puppetry](/en/culture/taiwanese-shadow-puppetry) — Also rooted in Min-Yue and grown in Mituo, Kaohsiung, this traditional shadow theater also survived Kominka by adapting Japanese-language scripts; another lineage of Taiwan's traditional puppet arts
+- [Taiwan Temple Festivals and Zhentou Culture](/en/culture/taiwan-temple-festivals-and-performance-troupes) — The temple square was budaixi's earliest stage; temple festivals and budaixi share the same sky in Taiwan's folk-religion landscape
+- [National Theater and Concert Hall](/en/culture/national-theater-and-concert-hall) — Another facet of Taiwan's traditional performing arts moving from temple squares onto contemporary theater stages, opened in 1987 to witness Taiwan's cultural democratization
 
 ## References
 

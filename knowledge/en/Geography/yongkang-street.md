@@ -198,14 +198,14 @@ The next time you walk down Yongkang Street, **look up at the black-tile gently 
 
 **Further Reading**:
 
-- [Taipei City: Three Times in One City, 1738 Longshan Temple Watching 2004’s Taipei 101](/geography/台北市) — A panorama of Taipei’s 12 districts; Da’an District, where Yongkang Street is located, is the core of “educational and cultural Taipei”
-- [Taiwanese Old Street Culture and Commercial Districts](/culture/台灣老街文化與商業街區) — Main catalog of old streets; compares Yongkang Street with Dihua Street, Bopiliao, and Anping Old Street
-- [Ethnic Groups: Hoklo, Hakka, Indigenous Peoples, Mainlanders, New Immigrants](/culture/族群（閩南客家原住民外省新住民）) — The narrative of 1949 mainlander migration to Taiwan; Yongkang Street and Four Four South Village represent two modes of mainlander settlement
-- [Taiwanese Wheat-Food Culture](/food/台灣麵食文化) — The relationship between Yongkang Beef Noodles, Dongmen Dumpling House, Din Tai Fung xiaolongbao, and the postwar mainlander wheat-food map
-- [Taiwanese Military-Dependent Village Cuisine](/food/台灣眷村菜) — The culinary interweaving of Yongkang Street, Four Four South Village, Youth Park, and Beitou military-dependent villages
-- [Dadaocheng: 800 Meters, Three Centuries, from Formosa Tea to the First Shot of February 28](/geography/大稻埕) — A sibling article in the same Batch 1 historic districts series; Qing-era commercial street versus Japanese-era high-end residential district, comparing two kinds of “street-formation moments”
-- [Gongguan](/geography/公館) — Yongkang Street and Gongguan jointly sustain NTU’s faculty-student consumption circle, from the 1928 imperial university period to the scholar-student dining axis of 2026
-- [Four Four South Village](/geography/四四南村) — A 1948 arsenal military-dependent village that contrasts with the mainlander settlement mode of taking over Japanese-style dormitories on Yongkang and Qingtian Streets: “military-dependent housing versus takeover”
+- [Taipei City: Three Times in One City, 1738 Longshan Temple Watching 2004’s Taipei 101](/en/geography/taipei-city) — A panorama of Taipei’s 12 districts; Da’an District, where Yongkang Street is located, is the core of “educational and cultural Taipei”
+- [Taiwanese Old Street Culture and Commercial Districts](/en/culture/taiwan-historic-streets-and-commercial-districts) — Main catalog of old streets; compares Yongkang Street with Dihua Street, Bopiliao, and Anping Old Street
+- [Ethnic Groups: Hoklo, Hakka, Indigenous Peoples, Mainlanders, New Immigrants](/en/culture/ethnic-groups) — The narrative of 1949 mainlander migration to Taiwan; Yongkang Street and Four Four South Village represent two modes of mainlander settlement
+- [Taiwanese Wheat-Food Culture](/en/food/taiwanese-noodle-culture) — The relationship between Yongkang Beef Noodles, Dongmen Dumpling House, Din Tai Fung xiaolongbao, and the postwar mainlander wheat-food map
+- [Taiwanese Military-Dependent Village Cuisine](/en/food/military-dependents-village-cuisine) — The culinary interweaving of Yongkang Street, Four Four South Village, Youth Park, and Beitou military-dependent villages
+- [Dadaocheng: 800 Meters, Three Centuries, from Formosa Tea to the First Shot of February 28](/en/geography/dadaocheng) — A sibling article in the same Batch 1 historic districts series; Qing-era commercial street versus Japanese-era high-end residential district, comparing two kinds of “street-formation moments”
+- [Gongguan](/en/geography/gongguan) — Yongkang Street and Gongguan jointly sustain NTU’s faculty-student consumption circle, from the 1928 imperial university period to the scholar-student dining axis of 2026
+- [Four Four South Village](/en/geography/44-south-village) — A 1948 arsenal military-dependent village that contrasts with the mainlander settlement mode of taking over Japanese-style dormitories on Yongkang and Qingtian Streets: “military-dependent housing versus takeover”
 
 ## Image Sources
 

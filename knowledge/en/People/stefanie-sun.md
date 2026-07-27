@@ -143,10 +143,10 @@ She herself would probably feel: it doesn't matter — she already said it, bein
 
 Stefanie Sun's rise is a microcosm of Taiwan's pop music industry during its peak in the early 2000s. The [Jay Chou](/en/people/jay-chou/) she beat by a single vote defined another lane in Mandopop during the same era; the two remain the twin poles of that generation. Her songs continue to appear at high frequency on Taiwanese KTV playlists — a form of cultural archiving that is still alive.
 
-- [Taiwan Pop Music](/music/golden-melodies-legacy-taiwan-pop-music/) — Industry backdrop for Stefanie Sun's debut; context of Taiwan's recorded music industry peak in the 2000s
-- [Pop Music and the Golden Melody Awards](/music/pop-music-and-golden-melody-awards/) — How the Golden Melody evolved from an awards mechanism into a cultural taste-setter
+- [Taiwan Pop Music](/en/music/golden-melodies-legacy-taiwan-pop-music/) — Industry backdrop for Stefanie Sun's debut; context of Taiwan's recorded music industry peak in the 2000s
+- [Pop Music and the Golden Melody Awards](/en/music/pop-music-and-golden-melody-awards/) — How the Golden Melody evolved from an awards mechanism into a cultural taste-setter
 - [Jay Chou](/en/people/jay-chou/) — Same 12th Golden Melody cohort; the other lane defining Mandopop
-- [KTV Culture in Taiwan](/music/ktv-culture/) — Why Stefanie Sun's songs endure on KTV playlists
+- [KTV Culture in Taiwan](/en/music/ktv-culture/) — Why Stefanie Sun's songs endure on KTV playlists
 - [Tanya Chua](/people/tanya-chua/) — Fellow Singaporean Mandopop singer of the same era; Tanya Chua co-wrote "Sixth Sense" for Stefanie Sun (2003)
 
 ## References

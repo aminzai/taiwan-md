@@ -209,16 +209,16 @@ The next time you walk along Dihua Street, look up at the carved flowers and bir
 
 **Further Reading**:
 
-- [Taipei City: Three Times in One City, Longshan Temple of 1738 Watching Taipei 101 of 2004](/geography/台北市) — a panorama of Taipei's 12 districts, and Dadaocheng's position among the three urban settlements
-- [Taiwan's Old-Street Culture and Commercial Districts](/culture/台灣老街文化與商業街區) — the master catalog for old streets, comparing Dihua Street with Lukang, Bangka, and Sanxia
+- [Taipei City: Three Times in One City, Longshan Temple of 1738 Watching Taipei 101 of 2004](/en/geography/taipei-city) — a panorama of Taipei's 12 districts, and Dadaocheng's position among the three urban settlements
+- [Taiwan's Old-Street Culture and Commercial Districts](/en/culture/taiwan-historic-streets-and-commercial-districts) — the master catalog for old streets, comparing Dihua Street with Lukang, Bangka, and Sanxia
 - [Taiwanese Tea Culture](/culture/台灣茶文化) — the full context of Formosa Tea and northern Taiwan's tea industry
 - [The February 28 Incident](/history/二二八事件) — the incident ignited by that packet of cigarettes in 1947, the subsequent suppression, and transitional justice
-- [Social Movements in Taiwan under Japanese Rule](/history/日治時期臺灣社會運動) — Chiang Wei-shui and the Cultural Association at No. 199 Taipingcho
-- [Taiwanese Folk Songs and Ballads](/music/台灣民謠與歌謠) — "Longing for the Spring Breeze" in 1932 and Columbia Records in Taipingcho
-- [Bangka](/geography/艋舺) — the Tong'an people defeated in the 1853 Dingxia Jiaopin conflict fled from Bajiazhuang in Bangka to Dadaocheng; the two streets were divergent results of the same armed conflict
-- [Ximending](/geography/西門町) — a sibling historic district in the same batch 1, comparing an entertainment district formed under Japanese rule in 1896 with a Qing-era commercial street in Dadaocheng, two different "moments of street formation"
-- [Dalongdong](/geography/大龍峒) — after the 1853 Dingxia Jiaopin defeat, Tong'an people first retreated to Dalongdong, using Bao'an Temple as a defensive center, before moving to Dadaocheng, an intermediary stop omitted from conventional Dadaocheng narratives
-- [Shilin](/geography/士林) — the 1859 Zhangzhou-Quanzhou armed conflict and Bangka's 1853 Dingxia Jiaopin were two different conflicts; Shilin was another divergent outcome, rebuilt after Zhangzhou people had their street burned by Quanzhou people
+- [Social Movements in Taiwan under Japanese Rule](/en/history/social-movements-during-japanese-rule) — Chiang Wei-shui and the Cultural Association at No. 199 Taipingcho
+- [Taiwanese Folk Songs and Ballads](/en/music/Taiwan Folk Music and Songs) — "Longing for the Spring Breeze" in 1932 and Columbia Records in Taipingcho
+- [Bangka](/en/geography/bangka) — the Tong'an people defeated in the 1853 Dingxia Jiaopin conflict fled from Bajiazhuang in Bangka to Dadaocheng; the two streets were divergent results of the same armed conflict
+- [Ximending](/en/geography/ximending) — a sibling historic district in the same batch 1, comparing an entertainment district formed under Japanese rule in 1896 with a Qing-era commercial street in Dadaocheng, two different "moments of street formation"
+- [Dalongdong](/en/geography/dalongdong) — after the 1853 Dingxia Jiaopin defeat, Tong'an people first retreated to Dalongdong, using Bao'an Temple as a defensive center, before moving to Dadaocheng, an intermediary stop omitted from conventional Dadaocheng narratives
+- [Shilin](/en/geography/shilin) — the 1859 Zhangzhou-Quanzhou armed conflict and Bangka's 1853 Dingxia Jiaopin were two different conflicts; Shilin was another divergent outcome, rebuilt after Zhangzhou people had their street burned by Quanzhou people
 
 ## Image Sources
 

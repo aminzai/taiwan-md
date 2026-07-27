@@ -252,12 +252,12 @@ The Taiwan Soundscape Association, integrating resources from the Ministry of Cu
 
 **Further Reading**:
 
-- [Taiwan Soundscape](/culture/台灣聲景) — Sister article: The same sounds, re-asked from the perspective of "how we listen," co-created by soundscape researchers.
+- [Taiwan Soundscape](/en/culture/taiwan-soundscape) — Sister article: The same sounds, re-asked from the perspective of "how we listen," co-created by soundscape researchers.
 - [🎧 Taiwan Soundscape Recording Project](/soundscape) — The audio version of this article: 21 field recordings of garbage trucks, temple fairs, MRT, and natural sounds available online. Welcome to contribute your recordings.
-- [Wang Fu-rui](/people/王福瑞) — Founded Taiwan’s first experimental music label, NOISE, in 1993. The source of the lineage mentioned in the "Sound Art" section: Wang Fu-rui, Yao Zhong-han, and Zhang Yong-da.
-- [Traditional Music of Taiwan’s Indigenous Peoples](/music/台灣原住民音樂傳統) — The Bunun eight-part harmony, Paiwan mouth organs, and other traditional sounds are the oldest layer of Taiwan’s soundscape.
-- [Taiwan KTV Culture](/music/台灣KTV文化) — From show venues to private rooms, KTV is one of the most common artificial sound sources in Taiwan’s nightscape. The singing voices of five people in a private room leaking out constitute a unique sonic fingerprint of Taiwan’s nights.
-- [Development of Taiwan Hip-Hop and Rap](/music/台灣嘻哈與饒舌發展) — From urban basements to the KKBOX charts, the sonic texture of rap has changed the soundscape layers of Taiwan’s popular music.
+- [Wang Fu-rui](/en/people/fujui-wang) — Founded Taiwan’s first experimental music label, NOISE, in 1993. The source of the lineage mentioned in the "Sound Art" section: Wang Fu-rui, Yao Zhong-han, and Zhang Yong-da.
+- [Traditional Music of Taiwan’s Indigenous Peoples](/en/music/indigenous-music-traditions) — The Bunun eight-part harmony, Paiwan mouth organs, and other traditional sounds are the oldest layer of Taiwan’s soundscape.
+- [Taiwan KTV Culture](/en/music/ktv-culture) — From show venues to private rooms, KTV is one of the most common artificial sound sources in Taiwan’s nightscape. The singing voices of five people in a private room leaking out constitute a unique sonic fingerprint of Taiwan’s nights.
+- [Development of Taiwan Hip-Hop and Rap](/en/music/taiwan-hip-hop-and-rap) — From urban basements to the KKBOX charts, the sonic texture of rap has changed the soundscape layers of Taiwan’s popular music.
 
 ---
 

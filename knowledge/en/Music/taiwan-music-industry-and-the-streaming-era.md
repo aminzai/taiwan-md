@@ -2,19 +2,27 @@
 title: "Taiwan's Music Industry and the Streaming Era: The Transformation from Record Stores to Digital Platforms"
 description: "An examination of how Taiwan's music industry moved from the golden age of record stores through the piracy crisis, pioneered KKBOX as the world's first legal streaming platform, and arrived at today's digital music ecosystem alongside Spotify and Apple Music"
 date: 2026-03-19
-author: "Taiwan.md"
-category: "Music"
-subcategory: "獨立與搖滾"
-tags: ["Music industry", "Streaming music", "KKBOX", "Digital music", "Record stores", "Independent music"]
+author: 'Taiwan.md'
+category: 'Music'
+subcategory: '獨立與搖滾'
+tags:
+  [
+    'Music industry',
+    'Streaming music',
+    'KKBOX',
+    'Digital music',
+    'Record stores',
+    'Independent music',
+  ]
 readingTime: 15
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: true
-translatedFrom: "Music/台灣音樂產業與串流時代.md"
-sourceCommitSha: "f712b7242"
-sourceContentHash: "sha256:f71f072559f005b7"
-sourceBodyHash: "sha256:39fa5a6a860830cc"
-translatedAt: "2026-05-20T05:08:27+08:00"
+translatedFrom: 'Music/台灣音樂產業與串流時代.md'
+sourceCommitSha: 'f712b7242'
+sourceContentHash: 'sha256:f71f072559f005b7'
+sourceBodyHash: 'sha256:39fa5a6a860830cc'
+translatedAt: '2026-05-20T05:08:27+08:00'
 ---
 
 # Taiwan's Music Industry and the Streaming Era: The Transformation from Record Stores to Digital Platforms
@@ -41,7 +49,7 @@ The significance of this transformation case lies in how it shows a cultural ind
 
 The 1990s were the golden age of Taiwan's record industry. At the time, Taiwan had more than 3,000 record stores, from chains such as Rose Records, Tachung Records, and Chia Chia Record to small record shops tucked into neighborhood streets and alleys, together forming a dense network of music consumption. Every Friday was "new release day," when fans would make a special trip to record stores to buy the latest albums, and sales staff were invariably familiar with the characteristics of each release.
 
-In that era, it was normal for an album to sell several hundred thousand copies. [Jay Chou](/en/People/jay-chou/)'s debut album *Jay*, released in 2000, sold more than 300,000 copies in Taiwan, while [Mayday](/en/Music/mayday-band/)'s *People Life, Ocean Wild* (2001) set a sales record of 500,000 copies.[^1] Record stores were not only places to buy music; they were also social spaces for music lovers.
+In that era, it was normal for an album to sell several hundred thousand copies. [Jay Chou](/en/people/jay-chou/)'s debut album _Jay_, released in 2000, sold more than 300,000 copies in Taiwan, while [Mayday](/en/music/mayday-band/)'s _People Life, Ocean Wild_ (2001) set a sales record of 500,000 copies.[^1] Record stores were not only places to buy music; they were also social spaces for music lovers.
 
 ### A Complete Industrial Ecosystem
 
@@ -131,7 +139,7 @@ The biggest change in the streaming era was the lower threshold for music distri
 
 ### Success Case: No Party for Cao Dong
 
-**No Party for Cao Dong** is a successful example of Taiwanese independent music in the streaming era. Their 2016 album *The Servile* had no support from a major record company, yet it exploded on social media and streaming platforms. The song "Simon Says" accumulated more than 50 million views on YouTube, proving the explosive potential of high-quality creative work in the digital age.
+**No Party for Cao Dong** is a successful example of Taiwanese independent music in the streaming era. Their 2016 album _The Servile_ had no support from a major record company, yet it exploded on social media and streaming platforms. The song "Simon Says" accumulated more than 50 million views on YouTube, proving the explosive potential of high-quality creative work in the digital age.
 
 ### New Revenue Models
 
@@ -147,7 +155,7 @@ Independent musicians' income no longer depends on a single channel. Streaming r
 
 The streaming era has made the music industry more data-oriented. Play counts, completion rates, and the proportion of users adding a song to playlists are all concrete indicators for assessing a song's performance.
 
-[Jay Chou](/en/People/jay-chou/)'s "Blue and White Porcelain" has accumulated more than 100 million plays on Spotify Taiwan, while [Mayday](/en/Music/mayday-band/)'s "Stubborn" has also reached 80 million plays. These figures reflect the continued vitality of classic songs in the digital age.
+[Jay Chou](/en/people/jay-chou/)'s "Blue and White Porcelain" has accumulated more than 100 million plays on Spotify Taiwan, while [Mayday](/en/music/mayday-band/)'s "Stubborn" has also reached 80 million plays. These figures reflect the continued vitality of classic songs in the digital age.
 
 ### The Influence of Personalized Recommendations
 
@@ -165,7 +173,7 @@ In 2020, the COVID-19 pandemic hit the live music industry hard, but it also sub
 
 ### The Rise of Online Concerts
 
-During the pandemic, many singers began experimenting with online concerts. [Mayday](/en/Music/mayday-band/)'s 2020 online concert attracted more than 30 million concurrent viewers, setting a record for Mandopop livestreaming.
+During the pandemic, many singers began experimenting with online concerts. [Mayday](/en/music/mayday-band/)'s 2020 online concert attracted more than 30 million concurrent viewers, setting a record for Mandopop livestreaming.
 
 ### The Rise of Podcasts
 
@@ -218,13 +226,22 @@ For listeners, there is more music to choose from than in any previous era, but 
 
 ## References
 
-[^1]: Mayday's 2001 album was *People Life, Ocean Wild*; *Second Round* was released in 2011. See the [Mayday Wikipedia entry](https://zh.wikipedia.org/wiki/%E4%BA%94%E6%9C%88%E5%A4%A9)
+[^1]: Mayday's 2001 album was _People Life, Ocean Wild_; _Second Round_ was released in 2011. See the [Mayday Wikipedia entry](https://zh.wikipedia.org/wiki/%E4%BA%94%E6%9C%88%E5%A4%A9)
+
 [^2]: [KKBOX official website](https://www.kkbox.com/) — KKBOX development history and service introduction
-[^3]: [*The History of Taiwan's Music Industry Development*, Bureau of Audiovisual and Music Industry Development, Ministry of Culture](https://www.bamid.gov.tw/) — official industry statistics
-[^4]: [*Streaming Music Changes Taiwan's Music Ecosystem*, INSIDE, 2020](https://www.inside.com.tw/article/21245-streaming-music-taiwan) — streaming music market analysis
-[^5]: [*KKBOX Founder Chris Lin*, Business Weekly, 2018](https://www.businessweekly.com.tw/focus/blog/3007895) — interview with the KKBOX founder
-[^6]: [*Analysis of Spotify's Strategy for Entering the Taiwan Market*, Brain Magazine, 2014](https://www.brain.com.tw/news/articlecontent?ID=19234) — analysis of international platform competition
-[^7]: [*No Party for Cao Dong: The Digital Success Model of Independent Music*, The News Lens, 2017](https://www.thenewslens.com/article/68492) — independent music case analysis
-[^8]: [*Taiwan Music Streaming Market Survey Report*, MIC, Institute for Information Industry, 2021](https://mic.iii.org.tw/aisp/reports.aspx?id=CDOC20210324001) — market data statistics
-[^9]: [*The Impact of COVID-19 on Taiwan's Music Industry*, Ministry of Culture, 2021](https://www.moc.gov.tw/information_250_137321.html) — pandemic impact analysis
-[^10]: [*Digital Music Copyright and Royalty Distribution Mechanisms*, Music Copyright Society of Chinese Taipei](http://www.must.org.tw/) — explanation of copyright distribution mechanisms
+
+[^3]: [_The History of Taiwan's Music Industry Development_, Bureau of Audiovisual and Music Industry Development, Ministry of Culture](https://www.bamid.gov.tw/) — official industry statistics
+
+[^4]: [_Streaming Music Changes Taiwan's Music Ecosystem_, INSIDE, 2020](https://www.inside.com.tw/article/21245-streaming-music-taiwan) — streaming music market analysis
+
+[^5]: [_KKBOX Founder Chris Lin_, Business Weekly, 2018](https://www.businessweekly.com.tw/focus/blog/3007895) — interview with the KKBOX founder
+
+[^6]: [_Analysis of Spotify's Strategy for Entering the Taiwan Market_, Brain Magazine, 2014](https://www.brain.com.tw/news/articlecontent?ID=19234) — analysis of international platform competition
+
+[^7]: [_No Party for Cao Dong: The Digital Success Model of Independent Music_, The News Lens, 2017](https://www.thenewslens.com/article/68492) — independent music case analysis
+
+[^8]: [_Taiwan Music Streaming Market Survey Report_, MIC, Institute for Information Industry, 2021](https://mic.iii.org.tw/aisp/reports.aspx?id=CDOC20210324001) — market data statistics
+
+[^9]: [_The Impact of COVID-19 on Taiwan's Music Industry_, Ministry of Culture, 2021](https://www.moc.gov.tw/information_250_137321.html) — pandemic impact analysis
+
+[^10]: [_Digital Music Copyright and Royalty Distribution Mechanisms_, Music Copyright Society of Chinese Taipei](http://www.must.org.tw/) — explanation of copyright distribution mechanisms

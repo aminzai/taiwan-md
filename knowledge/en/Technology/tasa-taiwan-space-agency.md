@@ -262,10 +262,10 @@ Chi Po-lin saw Taiwan from a helicopter and did not finish seeing it the year he
 
 ## Further reading
 
-- [Taiwan's Space Industry](/technology/台灣太空產業發展) — This article is about how the institution itself grew up; that one is about the supply chain behind it: which companies built satellite components, how semiconductors entered space, and how the startup ecosystem formed.
-- [Semiconductor Industry](/technology/半導體產業) — A large part of the industrial foundation of Taiwan's space "self-reliance" is built on the country's existing semiconductor and precision manufacturing capabilities.
-- [Chinese Taipei](/society/中華台北) — The sovereignty line of "putting Taiwan back into the name," seen from the other side of the sports field.
-- [Chi Erh Lin](/people/林琪兒) — Another profile of someone working for Taiwan at the site of science.
+- [Taiwan's Space Industry](/en/technology/taiwan-space-industry-development) — This article is about how the institution itself grew up; that one is about the supply chain behind it: which companies built satellite components, how semiconductors entered space, and how the startup ecosystem formed.
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — A large part of the industrial foundation of Taiwan's space "self-reliance" is built on the country's existing semiconductor and precision manufacturing capabilities.
+- [Chinese Taipei](/en/society/chinese-taipei) — The sovereignty line of "putting Taiwan back into the name," seen from the other side of the sports field.
+- [Chi Erh Lin](/en/people/lin-chi-er-astronaut) — Another profile of someone working for Taiwan at the site of science.
 
 ## Video sources
 

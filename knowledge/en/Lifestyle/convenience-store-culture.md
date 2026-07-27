@@ -252,9 +252,9 @@ Amid globalization, Taiwan's convenience store culture has become a successful c
 
 **Further Reading**:
 
-- [Taiwanese Sensibility: Taiwanese Aesthetics Through Korean Eyes](/culture/台灣感性) — Convenience stores lit late into the night are classic scenes of "대만감성" through Korean lenses
-- [Uniform Invoices: The 1951 Paper That Turned Everyone into a Tax Auditor](/economy/發票) — Convenience stores are the most common setting for using cloud invoice carriers, making each checkout the last mile of everyday tax mobilization
-- [Taiwan Enterprise: Uni-President Enterprises](/economy/台灣企業：統一企業) — The conglomerate behind 7-Eleven, which grew from a single bag of instant noodles into a retail empire that holds a whole day of Taiwanese life
+- [Taiwanese Sensibility: Taiwanese Aesthetics Through Korean Eyes](/en/culture/taiwanese-sensibility) — Convenience stores lit late into the night are classic scenes of "대만감성" through Korean lenses
+- [Uniform Invoices: The 1951 Paper That Turned Everyone into a Tax Auditor](/en/economy/taiwan-uniform-invoice) — Convenience stores are the most common setting for using cloud invoice carriers, making each checkout the last mile of everyday tax mobilization
+- [Taiwan Enterprise: Uni-President Enterprises](/en/economy/taiwan-enterprise-uni-president) — The conglomerate behind 7-Eleven, which grew from a single bag of instant noodles into a retail empire that holds a whole day of Taiwanese life
 
 ## References
 

@@ -117,4 +117,4 @@ In recent years, Lai’s creative work has focused more closely on cultural iden
 ## Further Reading
 
 - [Performance Workshop](http://www.pw-theatre.com/) — Official website of the theater company founded by Stan Lai, including past works and ticketing information
-- [Secret Love in Peach Blossom Land](/people/賴聲川) — A classic work of Chinese-language theater
+- [Secret Love in Peach Blossom Land](/en/people/stan-lai-theater-innovation-master) — A classic work of Chinese-language theater

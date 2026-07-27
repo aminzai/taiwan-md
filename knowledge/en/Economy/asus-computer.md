@@ -177,8 +177,8 @@ The ASUS story tells us that in an era of globalization, small but highly specia
 
 **Further reading**:
 
-- [Taiwan Enterprises: Acer](/economy/台灣企業：宏碁) — A counterpart that took a different path to splitting off its brand. Acer spun off its contract manufacturing (Wistron) back in 2000, while ASUS didn’t spin off Pegatron until 2008 — the outcomes of these two paths became a classic debate in Taiwan’s electronics industry.
-- [Taiwan Enterprises: Wistron](/economy/台灣企業：緯創資通) — The contract manufacturer Acer spun off, much like Pegatron was for ASUS — both prove that the “abandoned middle stage” later climbed even higher.
+- [Taiwan Enterprises: Acer](/en/economy/acer-pc-industry-pioneer) — A counterpart that took a different path to splitting off its brand. Acer spun off its contract manufacturing (Wistron) back in 2000, while ASUS didn’t spin off Pegatron until 2008 — the outcomes of these two paths became a classic debate in Taiwan’s electronics industry.
+- [Taiwan Enterprises: Wistron](/en/economy/wistron-global-manufacturing-transformation-pioneer) — The contract manufacturer Acer spun off, much like Pegatron was for ASUS — both prove that the “abandoned middle stage” later climbed even higher.
 
 ## References
 

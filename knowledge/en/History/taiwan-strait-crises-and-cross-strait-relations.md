@@ -134,14 +134,14 @@ The shrapnel fragments from those granite tunnels were later collected by Kinmen
 
 **Further Reading**:
 
-- [造山者：世紀的賭注](/art/造山者世紀的賭注) — Hsiao Chü-chen's 2025 documentary, five years of interviews with 80+ semiconductor pioneers, visiting Purdue, Wisconsin, and Michigan — three CHIPS Act investment hubs — in 2026
+- [造山者：世紀的賭注](/en/art/mountain-makers-tsmc-documentary) — Hsiao Chü-chen's 2025 documentary, five years of interviews with 80+ semiconductor pioneers, visiting Purdue, Wisconsin, and Michigan — three CHIPS Act investment hubs — in 2026
 
-- [台灣國防與軍事現代化](/society/台灣國防與軍事現代化) — From the porcupine strategy to M1A2T tanks, the fundamental transformation of Taiwan's defense logic after three Taiwan Strait crises
-- [台灣邦交國與國際外交](/society/台灣邦交國與國際外交) — Another front beyond military confrontation: how Taiwan searches for a place in the international system
-- [2026 鄭習會：國共領導人十年再會的十分鐘](/society/2026鄭習會與國共十年再會) — The latest chapter in seven decades of cross-strait interaction: the ten minutes when the KMT chairman met Xi Jinping in Beijing
-- [Ma Ying-jeou](/people/馬英九) — The 80-second handshake at the Singapore Ma-Xi meeting on 2015/11/7, the signing of ECFA, and his two visits to China in 2023 and 2024: the leader who presided over the golden period of cross-strait relations and the controversies that followed his term
-- [鄧麗君](/people/鄧麗君) — Another battlefield of Cold War soft power: her voice penetrating the mainland, wearing an "Oppose Military Rule" badge at Happy Valley in 1989, broadcasting to the mainland from Mashan Observation Post in 1991
-- [臺灣前途決議文](/history/臺灣前途決議文) — The 1996 Taiwan Strait crisis accelerated the DPP's pragmatic transformation, and three years later gave birth to this document that defined Taiwan's cross-strait position for twenty-seven years
+- [台灣國防與軍事現代化](/en/society/taiwan-defense-modernization) — From the porcupine strategy to M1A2T tanks, the fundamental transformation of Taiwan's defense logic after three Taiwan Strait crises
+- [台灣邦交國與國際外交](/en/society/taiwan-diplomatic-allies-and-international-relations) — Another front beyond military confrontation: how Taiwan searches for a place in the international system
+- [2026 鄭習會：國共領導人十年再會的十分鐘](/en/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — The latest chapter in seven decades of cross-strait interaction: the ten minutes when the KMT chairman met Xi Jinping in Beijing
+- [Ma Ying-jeou](/en/people/ma-ying-jeou-cross-strait-reconciliation-leader) — The 80-second handshake at the Singapore Ma-Xi meeting on 2015/11/7, the signing of ECFA, and his two visits to China in 2023 and 2024: the leader who presided over the golden period of cross-strait relations and the controversies that followed his term
+- [鄧麗君](/en/people/teresa-teng) — Another battlefield of Cold War soft power: her voice penetrating the mainland, wearing an "Oppose Military Rule" badge at Happy Valley in 1989, broadcasting to the mainland from Mashan Observation Post in 1991
+- [臺灣前途決議文](/en/history/resolution-on-taiwans-future) — The 1996 Taiwan Strait crisis accelerated the DPP's pragmatic transformation, and three years later gave birth to this document that defined Taiwan's cross-strait position for twenty-seven years
 
 ## References
 

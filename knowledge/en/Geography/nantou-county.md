@@ -245,13 +245,13 @@ After those 102 seconds at 1:47 a.m., Nantou did not become a ruin. It became a 
 
 ## Further Reading
 
-- [Sun Moon Lake](/geography/日月潭) — the full history of the 1934 Wujie Dam project that raised the lake surface by 18.18 meters, Asia’s largest hydroelectric power station, and the Thao relocation
-- [Yushan](/geography/玉山) — Taiwan’s highest peak at 3,952 meters; Yushan National Park spans four counties and cities: Xinyi in Nantou, Alishan in Chiayi, Taoyuan in Kaohsiung, and Zhuoxi in Hualien
-- [History of Taiwan’s Indigenous Peoples and Renaming Movements](/history/台灣原住民族歷史與正名運動) — the national context of the 2001 recognition of the Thao as the tenth people, the 2004 Truku recognition, and the 2008 Seediq renaming movement
-- [Pasibutbut](/music/八部合音) — the truth about pasibutbut being passed down only among the Bunun Takbanuaz and Isbukun groups, and Mingde community
-- [Prehistory and Indigenous Peoples](/history/史前時代與原住民) — a timeline of Seediq, Bunun, Thao, and Tsou residence in the Central Mountain Range over millennia
-- [Keelung City](/geography/基隆市) — the pilot in the 22 Counties and Cities series: once the world’s seventh-largest container port in 1984, down to 113th in 2018, and like Nantou a county or city omitted from central narratives
-- [Miaoli County](/geography/苗栗縣) — a batch 1 sibling in the 22 Counties and Cities series: an inland county of Hakka stubbornness versus county debt that doubled, facing the same dual problem as Nantou of “mountain-area population outflow + political theater”
+- [Sun Moon Lake](/en/geography/sun-moon-lake) — the full history of the 1934 Wujie Dam project that raised the lake surface by 18.18 meters, Asia’s largest hydroelectric power station, and the Thao relocation
+- [Yushan](/en/geography/yushan-jade-mountain) — Taiwan’s highest peak at 3,952 meters; Yushan National Park spans four counties and cities: Xinyi in Nantou, Alishan in Chiayi, Taoyuan in Kaohsiung, and Zhuoxi in Hualien
+- [History of Taiwan’s Indigenous Peoples and Renaming Movements](/en/history/indigenous-peoples-history-and-naming-movement) — the national context of the 2001 recognition of the Thao as the tenth people, the 2004 Truku recognition, and the 2008 Seediq renaming movement
+- [Pasibutbut](/en/music/bunun-pasibutbut-eight-part-polyphony) — the truth about pasibutbut being passed down only among the Bunun Takbanuaz and Isbukun groups, and Mingde community
+- [Prehistory and Indigenous Peoples](/en/history/prehistoric-era-and-indigenous-peoples) — a timeline of Seediq, Bunun, Thao, and Tsou residence in the Central Mountain Range over millennia
+- [Keelung City](/en/geography/keelung-city) — the pilot in the 22 Counties and Cities series: once the world’s seventh-largest container port in 1984, down to 113th in 2018, and like Nantou a county or city omitted from central narratives
+- [Miaoli County](/en/geography/miaoli-county) — a batch 1 sibling in the 22 Counties and Cities series: an inland county of Hakka stubbornness versus county debt that doubled, facing the same dual problem as Nantou of “mountain-area population outflow + political theater”
 
 ## Image Sources
 

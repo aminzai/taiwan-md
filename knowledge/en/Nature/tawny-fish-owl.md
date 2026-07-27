@@ -147,12 +147,12 @@ And now, on a Michelia at 1,800 meters, two chicks are learning to spread their 
 
 **Further Reading**:
 
-- [Formosan Ornithology](/nature/福爾摩沙鳥類學) — The Tawny Fish Owl was named only in 1916, one of the resident birds "discovered" by natural history only in the late Japanese colonial period; it reveals the temporal structure of ornithological research in Taiwan
-- [Formosan Landlocked Salmon](/nature/櫻花鉤吻鮭) — The two share the Qijiawan Creek ecosystem; in the same period, Sun Yuan-hsun was commissioned by Shei-Pa to study both species, two ends of the same habitat community
-- [Formosan Black Bear](/nature/台灣黑熊) — Also a species long tracked by the Graduate Institute of Wildlife Conservation at National Pingtung University of Science and Technology; both depend on mid-elevation old-growth and giant-tree environments
-- [Taiwan Forest Ecosystems](/nature/台灣森林生態系) — With giant trees over 1 meter in diameter at breast height and the proportion of natural forest at stake, the Tawny Fish Owl is the most dramatic representative of "old-tree birds"
-- [Da-an River Yitian Sword](/nature/大安溪倚天劍) — Another old giant tree hidden deep in Shei-Pa, surviving precisely because "humans cannot reach it"; the kind of untamed headwater-valley primary forest where Taiwania grows into East Asia's tallest tree is exactly the habitat the Tawny Fish Owl depends on
-- [Taiwan's National Parks](/nature/台灣國家公園) — Shei-Pa, Taroko, and Yushan national parks are the last fortresses of stable Tawny Fish Owl populations, concrete examples of the protected-area system
+- [Formosan Ornithology](/en/nature/the-ornithology-of-formosa) — The Tawny Fish Owl was named only in 1916, one of the resident birds "discovered" by natural history only in the late Japanese colonial period; it reveals the temporal structure of ornithological research in Taiwan
+- [Formosan Landlocked Salmon](/en/nature/formosan-landlocked-salmon) — The two share the Qijiawan Creek ecosystem; in the same period, Sun Yuan-hsun was commissioned by Shei-Pa to study both species, two ends of the same habitat community
+- [Formosan Black Bear](/en/nature/taiwanese-black-bear) — Also a species long tracked by the Graduate Institute of Wildlife Conservation at National Pingtung University of Science and Technology; both depend on mid-elevation old-growth and giant-tree environments
+- [Taiwan Forest Ecosystems](/en/nature/taiwan-forest-ecosystems) — With giant trees over 1 meter in diameter at breast height and the proportion of natural forest at stake, the Tawny Fish Owl is the most dramatic representative of "old-tree birds"
+- [Da-an River Yitian Sword](/en/nature/daan-river-yitian-sword) — Another old giant tree hidden deep in Shei-Pa, surviving precisely because "humans cannot reach it"; the kind of untamed headwater-valley primary forest where Taiwania grows into East Asia's tallest tree is exactly the habitat the Tawny Fish Owl depends on
+- [Taiwan's National Parks](/en/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Shei-Pa, Taroko, and Yushan national parks are the last fortresses of stable Tawny Fish Owl populations, concrete examples of the protected-area system
 
 ## References
 

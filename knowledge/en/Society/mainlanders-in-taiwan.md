@@ -1,6 +1,6 @@
 ---
 title: 'Mainlanders in Taiwan: From Kidnapped Youths to Taiwanese Identified with the Land Beneath Their Feet'
-description: "In 1949, more than one million people carrying trauma and homesickness crossed the sea to Taiwan. They were both a high-risk group for being treated as “political prisoners” by an authoritarian government that distrusted them, and “war refugees” who had been forcibly seized and cut off from their homelands. This article reveals how the mainlander community, through four psychological traumas, completed a spiritual migration from “exiles” to “settlers.”"
+description: 'In 1949, more than one million people carrying trauma and homesickness crossed the sea to Taiwan. They were both a high-risk group for being treated as “political prisoners” by an authoritarian government that distrusted them, and “war refugees” who had been forcibly seized and cut off from their homelands. This article reveals how the mainlander community, through four psychological traumas, completed a spiritual migration from “exiles” to “settlers.”'
 date: 2026-04-29
 author: 'Taiwan.md Contributors'
 category: 'Society'
@@ -72,9 +72,9 @@ For third-generation mainlanders, “mainlander” is often only an identity mar
 
 ## Further Reading
 
-- [Ethnic Groups (Hoklo, Hakka, Indigenous Peoples, Mainlanders, New Immigrants)](/culture/族群（閩南客家原住民外省新住民）) — Understand mainlanders’ interactions with other groups within a broader context of ethnic classification.
-- [History of Taiwan’s Military Dependents’ Villages](/history/台灣眷村歷史) — Complements this article with the residential spaces, community networks, and cultural memories that formed after mainlander migrants settled in Taiwan.
-- [Taiwan’s White Terror](/history/台灣白色恐怖) — Connects the mainlander community’s experiences of suffering under authoritarian rule and political cases.
+- [Ethnic Groups (Hoklo, Hakka, Indigenous Peoples, Mainlanders, New Immigrants)](/en/culture/ethnic-groups) — Understand mainlanders’ interactions with other groups within a broader context of ethnic classification.
+- [History of Taiwan’s Military Dependents’ Villages](/en/history/taiwan-military-dependents-villages-history) — Complements this article with the residential spaces, community networks, and cultural memories that formed after mainlander migrants settled in Taiwan.
+- [Taiwan’s White Terror](/en/history/taiwan-white-terror) — Connects the mainlander community’s experiences of suffering under authoritarian rule and political cases.
 
 ## References
 

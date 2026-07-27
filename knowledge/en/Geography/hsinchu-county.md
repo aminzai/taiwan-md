@@ -172,14 +172,14 @@ The next time you go to Hsinchu County, do not only follow the two routes of Bei
 
 ## Further Reading
 
-- [Keelung City](/geography/基隆市) — The batch 1 pilot in the 22 counties and cities series; another city and county pressed under the capital-region frame, useful for comparing two forms of local politics
-- [Miaoli County](/geography/苗栗縣) — A sibling article in the 22 counties and cities series; the county with the second-highest Hakka share, 62.5%, presenting another Hakka experience alongside Hsinchu County’s “Yimin faith vs. tech park”
-- [Hakka Culture and Language](/culture/客家文化與語言) — The Taiwan-wide distribution of Hakka Sixian, with Miaoli as its main accent, versus Hailu, with Hsinchu as its main accent; background for Hsinchu County’s 67.8% share
-- [Hakka Food Culture](/food/客家飲食文化) — The Hakka-village table context of bantiao, lei cha, Hakka stir-fry, and Oriental Beauty tea; the origins of Xinpu bantiao and Beipu lei cha
-- [Ethnic Groups (Minnan, Hakka, Indigenous Peoples, Mainlanders, New Immigrants)](/culture/族群（閩南客家原住民外省新住民）) — A larger-scale view of Hsinchu County’s Minnan-Hakka-Indigenous co-residence structure
-- [Taiwanese Enterprises: TSMC](/economy/台灣企業：台積電) — Baoshan Phase II’s 2-nanometer wafer fab is the engine behind the population doubling of Hsinchu County’s Zhubei HSR district
-- [Semiconductor Industry](/technology/半導體產業) — The expansion path of Hsinchu Science Park across Hsinchu City, Baoshan in Hsinchu County, and Tongluo in Miaoli
-- [Taiwan’s Administrative Divisions](/geography/台灣行政區劃) — The administrative history of Hsinchu County’s 1875 establishment, the 1950 county-city separation, Hsinchu City’s 1982 upgrade to provincial city, and the 1989 relocation of the county government to Zhubei
+- [Keelung City](/en/geography/keelung-city) — The batch 1 pilot in the 22 counties and cities series; another city and county pressed under the capital-region frame, useful for comparing two forms of local politics
+- [Miaoli County](/en/geography/miaoli-county) — A sibling article in the 22 counties and cities series; the county with the second-highest Hakka share, 62.5%, presenting another Hakka experience alongside Hsinchu County’s “Yimin faith vs. tech park”
+- [Hakka Culture and Language](/en/culture/hakka-culture-and-language) — The Taiwan-wide distribution of Hakka Sixian, with Miaoli as its main accent, versus Hailu, with Hsinchu as its main accent; background for Hsinchu County’s 67.8% share
+- [Hakka Food Culture](/en/food/hakka-food-culture) — The Hakka-village table context of bantiao, lei cha, Hakka stir-fry, and Oriental Beauty tea; the origins of Xinpu bantiao and Beipu lei cha
+- [Ethnic Groups (Minnan, Hakka, Indigenous Peoples, Mainlanders, New Immigrants)](/en/culture/ethnic-groups) — A larger-scale view of Hsinchu County’s Minnan-Hakka-Indigenous co-residence structure
+- [Taiwanese Enterprises: TSMC](/en/economy/tsmc) — Baoshan Phase II’s 2-nanometer wafer fab is the engine behind the population doubling of Hsinchu County’s Zhubei HSR district
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — The expansion path of Hsinchu Science Park across Hsinchu City, Baoshan in Hsinchu County, and Tongluo in Miaoli
+- [Taiwan’s Administrative Divisions](/en/geography/administrative-divisions-of-taiwan) — The administrative history of Hsinchu County’s 1875 establishment, the 1950 county-city separation, Hsinchu City’s 1982 upgrade to provincial city, and the 1989 relocation of the county government to Zhubei
 
 ## Image Sources
 

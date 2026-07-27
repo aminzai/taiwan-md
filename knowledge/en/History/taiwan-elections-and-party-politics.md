@@ -160,7 +160,7 @@ The first wave of 25 recall votes on July 26 and the second wave of 7 on August 
 
 The recall results did not change the Legislative Yuan's composition, but they left several traces worth watching long-term. The mobilization energy civil society displayed during the petition phase was unprecedented—whether this energy will extend to the 2026 local elections remains unknown. The position of third forces (TPP, New Power Party, Taiwan Statebuilding Party) during the recall process was relatively ambiguous; most TPP supporters voted no or abstained, posing a test for whether the white camp can sustain its third-way path in 2026. Another tension lies in the relationship between mobilization and civic will: in some districts, recall yes votes exceeded the legislator's original election vote count, but still lost to consolidated no-vote mobilization. Whether direct democratic tools can succeed in a highly polarized environment is a question Taiwan's politics will face in every election after 2025.[^24]
 
-For the full event timeline, see [Great Recall](/history/大罷免).
+For the full event timeline, see [Great Recall](/en/history/great-recall-movement-2024).
 
 ### Blue-White Cooperation and the 2026 Institutional Test
 
@@ -210,11 +210,11 @@ It is worth noting that the single-district, two-vote system implemented in 2018
 
 **Further Reading**
 
-- [Taiwan's Democratic Transition](/history/台灣民主轉型) — The full picture of forty years of transition from martial law to democratization
-- [Kaohsiung Incident](/history/美麗島事件) — The night in 1979 that changed Taiwan's fate
-- [Martial Law Period](/history/戒嚴時期) — How thirty-eight years of martial law shaped Taiwanese society
-- [Resolution on Taiwan's Future](/history/臺灣前途決議文) — How the DPP's line shift from independence party charter to the Resolution on Taiwan's Future rewrote the landscape of Taiwan's electoral politics
-- [Great Recall](/history/大罷免) — The full timeline of civil society's launch of the largest recall campaign in history in 2025
+- [Taiwan's Democratic Transition](/en/history/taiwan-democratization) — The full picture of forty years of transition from martial law to democratization
+- [Kaohsiung Incident](/en/history/kaohsiung-incident-formosa-incident) — The night in 1979 that changed Taiwan's fate
+- [Martial Law Period](/en/history/martial-law-era) — How thirty-eight years of martial law shaped Taiwanese society
+- [Resolution on Taiwan's Future](/en/history/resolution-on-taiwans-future) — How the DPP's line shift from independence party charter to the Resolution on Taiwan's Future rewrote the landscape of Taiwan's electoral politics
+- [Great Recall](/en/history/great-recall-movement-2024) — The full timeline of civil society's launch of the largest recall campaign in history in 2025
 - [2026 Nine-in-One Elections](/society/2026九合一選舉) — Battle layout and institutional test across 22 cities and counties
 - [What Are the Nine-in-One Elections](/society/九合一選舉是什麼) — Institutional explanation of the nine-in-one local official elections
 - [Village Chief System](/society/村里長制度) — Taiwan's most grassroots elected position

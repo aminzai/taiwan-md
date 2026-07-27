@@ -174,10 +174,10 @@ After the millennium, the stage passed to a new generation of voices: Wu Ming-yi
 
 ## Further Reading
 
-- [Postwar Taiwanese Literature](/art/戰後台灣文學) — The 42 years from 1945 to 1987: from aphasia and modernism through the nativist literary debate to women's awakening during martial law
-- [Contemporary Taiwanese Literature](/art/當代台灣文學) — The 21st century: Wu Ming-yi's internationalization, Lin Yi-han, and the next baton of digital literature
-- [History of Taiwanese Literature](/art/台灣文學史) — The full arc from Dutch rule, Ming/Qing era, and Japanese colonial rule through postwar to the contemporary
-- [Lin Liang](/people/林良) — Founder of the Republic of China Children's Literature Society in 1984 (after martial law), father of Taiwanese children's literature; his _Picture Stories_ column accompanied generations of Taiwanese children
+- [Postwar Taiwanese Literature](/en/art/postwar-taiwanese-literature) — The 42 years from 1945 to 1987: from aphasia and modernism through the nativist literary debate to women's awakening during martial law
+- [Contemporary Taiwanese Literature](/en/art/contemporary-taiwanese-literature) — The 21st century: Wu Ming-yi's internationalization, Lin Yi-han, and the next baton of digital literature
+- [History of Taiwanese Literature](/en/art/history-of-taiwanese-literature) — The full arc from Dutch rule, Ming/Qing era, and Japanese colonial rule through postwar to the contemporary
+- [Lin Liang](/en/people/lin-liang-childrens-literature) — Founder of the Republic of China Children's Literature Society in 1984 (after martial law), father of Taiwanese children's literature; his _Picture Stories_ column accompanied generations of Taiwanese children
 
 ---
 

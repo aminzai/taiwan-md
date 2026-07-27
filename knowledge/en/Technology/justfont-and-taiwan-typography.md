@@ -241,10 +241,10 @@ The difference came after that morning in September 2015. Now tens of thousands 
 
 **Further reading:**
 
-- [The Reporter: The Ten Years That Rescued Investigative Reporting From a Business Line Into a Public Good](/society/報導者): another story of Taiwanese readers voting with money to sustain a public good, where donors relate to The Reporter as backers relate to Jin Xuan.
-- [Taiwan New Media Art](/art/台灣新媒體藝術): another group of Taiwanese creators standing at the intersection of design, technology, and cultural identity.
-- [Social Movements and Civic Participation](/society/社會運動與公民參與): the kind of energy in the Jin Xuan debate, where people argued over public affairs, has a larger context in Taiwanese society.
-- [Submarine Cables](/technology/海底電纜): another kind of infrastructure everyone uses every day, yet almost no one sees.
+- [The Reporter: The Ten Years That Rescued Investigative Reporting From a Business Line Into a Public Good](/en/society/the-reporter-investigative-journalism): another story of Taiwanese readers voting with money to sustain a public good, where donors relate to The Reporter as backers relate to Jin Xuan.
+- [Taiwan New Media Art](/en/art/taiwan-new-media-art): another group of Taiwanese creators standing at the intersection of design, technology, and cultural identity.
+- [Social Movements and Civic Participation](/en/society/social-movements-and-civic-participation): the kind of energy in the Jin Xuan debate, where people argued over public affairs, has a larger context in Taiwanese society.
+- [Submarine Cables](/en/technology/submarine-cables-taiwan-lifeline): another kind of infrastructure everyone uses every day, yet almost no one sees.
 
 ## References
 

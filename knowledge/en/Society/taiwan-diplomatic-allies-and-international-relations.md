@@ -100,7 +100,7 @@ In a March 2025 interview with Taiwan Public Television Service, Foreign Ministe
 
 ### Paraguay: South America’s Only Ally, Sustained by 69 Years of Colorado Party Lineage
 
-Diplomatic relations were established in 1957. **Paraguay is Taiwan’s only diplomatic ally in South America**, having weathered a severance crisis after the 1989 coup as well as long-term pressure from China’s market and political outreach. For the full context, see [Paraguay and Taiwan](/society/巴拉圭與台灣/).
+Diplomatic relations were established in 1957. **Paraguay is Taiwan’s only diplomatic ally in South America**, having weathered a severance crisis after the 1989 coup as well as long-term pressure from China’s market and political outreach. For the full context, see [Paraguay and Taiwan](/en/society/paraguay-taiwan/).
 
 Paraguay’s Colorado Party has ruled intermittently for more than 70 years since 1947. Its anti-communist, pro-Taiwan stance is a structural legacy of the Cold War order. Santiago Peña, the winner of the 2023 election, was the Colorado Party candidate; his Liberal Party opponent advocated reviewing policy toward Taiwan. Voters chose the Colorado Party, which was equivalent to choosing continued diplomatic relations.
 
@@ -275,11 +275,11 @@ It is the distance between these numbers.
 
 **Further Reading**:
 
-- [Taiwan’s National Defense and Military Modernization](/society/台灣國防與軍事現代化) — When diplomatic allies are down to 12, military self-defense is another pillar for maintaining “not zero”
-- [Taiwan Strait Crises and the Development of Cross-Strait Relations](/history/台海危機與兩岸關係發展) — How three crises shaped Taiwan’s diplomatic isolation and security anxiety
+- [Taiwan’s National Defense and Military Modernization](/en/society/taiwan-defense-modernization) — When diplomatic allies are down to 12, military self-defense is another pillar for maintaining “not zero”
+- [Taiwan Strait Crises and the Development of Cross-Strait Relations](/en/history/taiwan-strait-crises-and-cross-strait-relations) — How three crises shaped Taiwan’s diplomatic isolation and security anxiety
 - [TSMC](/business/台積電) — The material foundation of the silicon shield and its structural fragility
-- [Cho Jung-tai](/people/卓榮泰) — The 2026 U.S.-Taiwan tariff trajectory of 32→20→15% + the cabinet coordinator for Lai Ching-te’s visit to Eswatini
-- [Taiwan and Eswatini](/society/台灣與史瓦帝尼) — Africa’s last remaining piece among the 12 diplomatic allies, the full 58-year story from establishing relations on the same day in 1968 to Lai Ching-te’s 2026 visit
+- [Cho Jung-tai](/en/people/cho-jung-tai) — The 2026 U.S.-Taiwan tariff trajectory of 32→20→15% + the cabinet coordinator for Lai Ching-te’s visit to Eswatini
+- [Taiwan and Eswatini](/en/society/taiwan-eswatini-relations) — Africa’s last remaining piece among the 12 diplomatic allies, the full 58-year story from establishing relations on the same day in 1968 to Lai Ching-te’s 2026 visit
 
 ## References
 

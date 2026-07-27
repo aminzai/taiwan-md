@@ -271,11 +271,11 @@ Kaohsiung is not Taiwan's lower half. Kaohsiung is the city where Taiwan's post-
 
 ## Further Reading
 
-- [Keelung City](/geography/基隆市) — 22 Counties Series pilot: A port surpassed by Kaohsiung since 1969, looking at the two ends of "the north-south flip of Taiwan's economic center" in opposition to Kaohsiung
-- [Pingtung County](/geography/屏東縣) — 22 Counties Series neighboring county: The 1874 Mudan Incident, the coexistence of the Hakka Liu Pui "Left Pui" and Kaohsiung's "Right Pui," the 2009 88 Flood where Linbian and Kaohsiung's mountains were flooded simultaneously
-- [Taipei City](/geography/台北市) — The first direct-administered city upgraded in 1967, 12 years after Kaohsiung's upgrade in 1979; the 1980 Lin Residence Blood Case occurred on Xinyi Road, Taipei
+- [Keelung City](/en/geography/keelung-city) — 22 Counties Series pilot: A port surpassed by Kaohsiung since 1969, looking at the two ends of "the north-south flip of Taiwan's economic center" in opposition to Kaohsiung
+- [Pingtung County](/en/geography/pingtung-county) — 22 Counties Series neighboring county: The 1874 Mudan Incident, the coexistence of the Hakka Liu Pui "Left Pui" and Kaohsiung's "Right Pui," the 2009 88 Flood where Linbian and Kaohsiung's mountains were flooded simultaneously
+- [Taipei City](/en/geography/taipei-city) — The first direct-administered city upgraded in 1967, 12 years after Kaohsiung's upgrade in 1979; the 1980 Lin Residence Blood Case occurred on Xinyi Road, Taipei
 - [228 Incident](/history/二二八事件) — In March 1947, Peng Meng-tsai, Commander of the Kaohsiung Fortress, ordered suppression; the Defense of Kaohsiung First Middle School
-- [Formosa Incident](/history/美麗島事件) — On December 10, 1979, at the Dagangpu Roundabout, a key event of the Dangwai movement at the end of Martial Law
+- [Formosa Incident](/en/history/kaohsiung-incident-formosa-incident) — On December 10, 1979, at the Dagangpu Roundabout, a key event of the Dangwai movement at the end of Martial Law
 - [Lin Residence Blood Case](/history/林宅血案) — On February 28, 1980, at No. 31 Lane 3, Section 3, Xinyi Road, Taipei, Lin Yi-hsiung's mother and twin daughters were murdered
 - [Lifting of Martial Law in Taiwan](/history/台灣解嚴) — The seven-and-a-half-year transition process from the 1979 Formosa Incident to the 1987 lifting of Martial Law
 - [Export Processing Zones in Taiwan](/society/台灣加工出口區) — The 1966 Kaohsiung Qianzhen Export Processing Zone is the physical starting point of the Taiwan Economic Miracle

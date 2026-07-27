@@ -92,7 +92,7 @@ Through Renjian magazine, Chen Yingzhen cultivated a group of outstanding cultur
 
 ## Literary Achievement and Historical Position
 
-Chen Yingzhen’s place in Taiwanese literary history is eminent. Together with [Pai Hsien-yung](/en/People/pai-hsien-yung-literary-master/), [Huang Chun-ming](/en/People/huang-chun-ming-taiwanese-literary-master/), Wang Zhenhe, and others, he formed an important lineup in modern Taiwanese literature. The difference is that if [Pai Hsien-yung](/en/People/pai-hsien-yung-literary-master/) was concerned with the spiritual world of urban intellectuals, and [Huang Chun-ming](/en/People/huang-chun-ming-taiwanese-literary-master/) depicted the everyday charms of ordinary people’s lives, then Chen Yingzhen was concerned with structural problems in society as a whole.
+Chen Yingzhen’s place in Taiwanese literary history is eminent. Together with [Pai Hsien-yung](/en/people/pai-hsien-yung-literary-master/), [Huang Chun-ming](/en/people/huang-chun-ming-taiwanese-literary-master/), Wang Zhenhe, and others, he formed an important lineup in modern Taiwanese literature. The difference is that if [Pai Hsien-yung](/en/people/pai-hsien-yung-literary-master/) was concerned with the spiritual world of urban intellectuals, and [Huang Chun-ming](/en/people/huang-chun-ming-taiwanese-literary-master/) depicted the everyday charms of ordinary people’s lives, then Chen Yingzhen was concerned with structural problems in society as a whole.
 
 His works possess a strong spirit of social critique and a deep humanitarian quality, injecting realist content into Taiwanese literature. Although most of the characters he wrote were people from the lower classes, they all have vivid personalities and profound inner worlds, reflecting the author’s understanding of human nature.
 
@@ -136,4 +136,4 @@ His representative works include the story collections The General’s Clan, My 
 ## Further Reading
 
 - [National Museum of Taiwan Literature - Chen Yingzhen](https://www.nmtl.gov.tw/) - Chen Yingzhen’s life, chronology of works, and manuscript collections
-- [Pai Hsien-yung](/en/People/pai-hsien-yung-literary-master/) - A major Taiwanese literary figure of the same generation, known for Taipei People
+- [Pai Hsien-yung](/en/people/pai-hsien-yung-literary-master/) - A major Taiwanese literary figure of the same generation, known for Taipei People

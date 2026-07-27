@@ -118,11 +118,11 @@ The yellow tiger flag sits in a glass case in the museum. It is very quiet. All 
 
 **Further Reading:**
 
-- [Three Foreigners Witness 1895: A Photographer's Album, a Reporter's Notes, a Pastor's Diary](/history/三個外國人看乙未) — Series D-2. Japanese photographer Endo Makoto, American reporter Davidson, Japanese pastor Hosokawa Nagashi — three of the most important foreign-language eyewitness documents from the 1895 Resistance War, and the perspective limitations behind each.
-- [Qing Dynasty Rule of Taiwan](/history/清治時期) — The 1895 Resistance War was the endpoint of the Qing period; understanding two hundred years of governance context.
-- [Japanese Colonial Era](/history/日治時期) — After the republic disappeared, the starting point of fifty years of Japanese rule over Taiwan.
-- [Sino-French War](/history/清法戰爭) — Ten years earlier, French forces attacked Taiwan; Liu Ming-chuan held Keelung. Ten years later, the province he built was ceded.
-- [Robert Swinhoe](/people/史溫侯) — Thirty years earlier a British consul recorded natural history on the same island; by the time of the 1895 Resistance War that world had ended.
+- [Three Foreigners Witness 1895: A Photographer's Album, a Reporter's Notes, a Pastor's Diary](/en/history/three-foreigners-witness-1895-taiwan) — Series D-2. Japanese photographer Endo Makoto, American reporter Davidson, Japanese pastor Hosokawa Nagashi — three of the most important foreign-language eyewitness documents from the 1895 Resistance War, and the perspective limitations behind each.
+- [Qing Dynasty Rule of Taiwan](/en/history/qing-dynasty-rule) — The 1895 Resistance War was the endpoint of the Qing period; understanding two hundred years of governance context.
+- [Japanese Colonial Era](/en/history/japanese-colonial-era) — After the republic disappeared, the starting point of fifty years of Japanese rule over Taiwan.
+- [Sino-French War](/en/history/sino-french-war-in-taiwan) — Ten years earlier, French forces attacked Taiwan; Liu Ming-chuan held Keelung. Ten years later, the province he built was ceded.
+- [Robert Swinhoe](/en/people/robert-swinhoe-naturalist) — Thirty years earlier a British consul recorded natural history on the same island; by the time of the 1895 Resistance War that world had ended.
 
 ## References
 

@@ -148,10 +148,10 @@ The font on your ballot paper is _Siyuan Black_. You probably didn’t even know
 
 ## Further Reading
 
-- [Nie Yong‑chen](/people/聶永真) — One of Taiwan’s most representative graphic designers, central figure in the Taipower identity controversy, and an unavoidable name in the “design as political achievement” debate.
-- [Taiwan’s Industrial Transformation](/economy/台灣產業轉型升級) — The story of Taiwan’s shift from an OEM island to higher‑value‑added industries; the design institute’s gamble on “what things look like” is a less‑discussed thread of that narrative.
-- [Public Television](/society/公視) — Another public‑interest foundation navigating the tightrope between “publicness” and “scrutiny.”
-- [Taiwan Architecture](/art/台灣建築) — Zhang Ji‑yi’s professional field, helping explain why an architect believes spatial design can reshape the relationship between government and citizens.
+- [Nie Yong‑chen](/en/people/nieh-yung-jen) — One of Taiwan’s most representative graphic designers, central figure in the Taipower identity controversy, and an unavoidable name in the “design as political achievement” debate.
+- [Taiwan’s Industrial Transformation](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — The story of Taiwan’s shift from an OEM island to higher‑value‑added industries; the design institute’s gamble on “what things look like” is a less‑discussed thread of that narrative.
+- [Public Television](/en/society/pts-public-television-service) — Another public‑interest foundation navigating the tightrope between “publicness” and “scrutiny.”
+- [Taiwan Architecture](/en/art/taiwanese-architecture) — Zhang Ji‑yi’s professional field, helping explain why an architect believes spatial design can reshape the relationship between government and citizens.
 
 ## Image Sources
 

@@ -195,8 +195,8 @@ When the next disaster strikes, what will save lives will not be the most expens
 
 **Further reading:**
 
-- [Medical Care Act](/society/醫療法) — The legal basis of disaster medicine is rooted in Article 1 of the Medical Care Act ("rational distribution of medical resources") and its institutional tiering rules; the disaster scenarios in this article are the Medical Care Act in actual operation under extreme conditions
-- [Taiwan Animal Drug Controversy](/society/台灣動物用藥爭議) — Humans have emergency medicine systems, 119, National Health Insurance, and DMAT; animal emergency care requires item-by-item registration even for oxygen. The resource gap between the two systems is a mirror of this island's value priorities.
+- [Medical Care Act](/en/society/medical-care-act) — The legal basis of disaster medicine is rooted in Article 1 of the Medical Care Act ("rational distribution of medical resources") and its institutional tiering rules; the disaster scenarios in this article are the Medical Care Act in actual operation under extreme conditions
+- [Taiwan Animal Drug Controversy](/en/society/taiwan-animal-drug-controversy) — Humans have emergency medicine systems, 119, National Health Insurance, and DMAT; animal emergency care requires item-by-item registration even for oxygen. The resource gap between the two systems is a mirror of this island's value priorities.
 
 ---
 

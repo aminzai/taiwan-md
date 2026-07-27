@@ -112,8 +112,8 @@ The variety of barbering spaces is itself a social microcosm: from the tradition
 
 ## Further Reading
 
-- [Taiwanese Motorcycle Culture](/lifestyle/台灣機車文化) — The A-Zhi Cut paired with tight clothing and a Yamaha BWS is a classic three-piece combo on Taiwanese streets
-- [Taiwanese Convenience Store Culture](/lifestyle/台灣便利商店文化) — The site-selection logic of budget quick-cut shops follows the same logic as the dense convenience store network
+- [Taiwanese Motorcycle Culture](/en/lifestyle/taiwan-scooter-culture) — The A-Zhi Cut paired with tight clothing and a Yamaha BWS is a classic three-piece combo on Taiwanese streets
+- [Taiwanese Convenience Store Culture](/en/lifestyle/convenience-store-culture) — The site-selection logic of budget quick-cut shops follows the same logic as the dense convenience store network
 
 ## References
 

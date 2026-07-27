@@ -115,8 +115,8 @@ The revival of Taiwanese comics is both an industrial question and a question of
 
 ## Further Reading
 
-- [Taiwanese anime and manga culture](/culture/台灣動漫文化) — Anime, manga, and comics consumption culture from the reader’s perspective: cosplay, doujinshi, anime conventions, and generational memory
-- [Taiwanese cinema](/art/台灣電影) — Another axis of visual storytelling in Taiwan
+- [Taiwanese anime and manga culture](/en/culture/taiwan-anime-culture) — Anime, manga, and comics consumption culture from the reader’s perspective: cosplay, doujinshi, anime conventions, and generational memory
+- [Taiwanese cinema](/en/art/taiwanese-cinema) — Another axis of visual storytelling in Taiwan
 - [The development of contemporary Taiwanese literature](/art/台灣當代文學發展) — The literary layer in the evolution of Taiwan’s creative self-awareness
 
 ## References
@@ -137,4 +137,4 @@ The revival of Taiwanese comics is both an industrial question and a question of
 
 ---
 
-_Last verified: 2026-04-19 (Issue #556, proposed by @idlccp1984, recommended merging the original “Taiwanese Comics and Illustration” and “Taiwanese Comics, Anime, and Manga Culture” articles, with the anime and manga culture section separated into [Taiwanese anime and manga culture](/culture/台灣動漫文化))_
+_Last verified: 2026-04-19 (Issue #556, proposed by @idlccp1984, recommended merging the original “Taiwanese Comics and Illustration” and “Taiwanese Comics, Anime, and Manga Culture” articles, with the anime and manga culture section separated into [Taiwanese anime and manga culture](/en/culture/taiwan-anime-culture))_

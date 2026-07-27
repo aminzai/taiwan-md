@@ -168,11 +168,11 @@ _In September 2017, No Man's Land Issue 34, "Hermeneutics of Nusantara," a first
 
 ## Further Reading
 
-- [Cheng Wen-chi](/people/鄭文琦) — the No Man's Land editor-in-chief's 12-year Nusantara practice: from _Artco_ contributing writer to initiator of the Nusantara Archive
-- [Contemporary Art](/art/當代藝術) — a map of Taiwanese contemporary-art discourse, and No Man's Land's position as a curatorial platform with a Southern perspective
-- [Taiwanese New Media Art](/art/台灣新媒體藝術) — Taiwan's new media genealogy from ET@T, founded in 1995, to the Digital Art Foundation, founded in 2008
-- [Wang Fujui](/people/王福瑞) — founder of _NOISE_ magazine in 1993, the print-media prototype editor of Taiwanese experimental music, connected by bloodline to No Man's Land's hosting parent body
-- [Taiwanese Curators and the Construction of Art and Culture](/art/台灣策展人與藝術文化建構) — a genealogy of Taiwanese curators, with Cheng Wen-chi as a case of a "transnational residency curatorial network"
+- [Cheng Wen-chi](/en/people/cheng-wen-chi) — the No Man's Land editor-in-chief's 12-year Nusantara practice: from _Artco_ contributing writer to initiator of the Nusantara Archive
+- [Contemporary Art](/en/art/contemporary-art) — a map of Taiwanese contemporary-art discourse, and No Man's Land's position as a curatorial platform with a Southern perspective
+- [Taiwanese New Media Art](/en/art/taiwan-new-media-art) — Taiwan's new media genealogy from ET@T, founded in 1995, to the Digital Art Foundation, founded in 2008
+- [Wang Fujui](/en/people/fujui-wang) — founder of _NOISE_ magazine in 1993, the print-media prototype editor of Taiwanese experimental music, connected by bloodline to No Man's Land's hosting parent body
+- [Taiwanese Curators and the Construction of Art and Culture](/en/art/taiwanese-curators-and-artistic-cultural-construction) — a genealogy of Taiwanese curators, with Cheng Wen-chi as a case of a "transnational residency curatorial network"
 
 ## Image Sources
 

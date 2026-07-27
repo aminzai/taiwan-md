@@ -106,7 +106,7 @@ Iron eggs are more than a snack. They carry the history of Tamsui's transition f
 
 ## Related Topics
 
-- [Night Market Culture](/Food/night-market-culture) — Night markets as social spaces in depth
-- [Taiwanese Street Food](/Food/taiwanese-street-food) — The grassroots vitality of Taiwanese everyday food
-- [Braised Pork Rice](/Food/braised-pork-rice) — The ethnic memory of a bowl of braised pork rice
-- [Hakka Food Culture](/Food/hakka-food-culture) — The culinary wisdom of the Hakka people
+- [Night Market Culture](/en/food/night-market-culture) — Night markets as social spaces in depth
+- [Taiwanese Street Food](/en/food/taiwanese-street-food) — The grassroots vitality of Taiwanese everyday food
+- [Braised Pork Rice](/en/food/braised-pork-rice) — The ethnic memory of a bowl of braised pork rice
+- [Hakka Food Culture](/en/food/hakka-food-culture) — The culinary wisdom of the Hakka people
