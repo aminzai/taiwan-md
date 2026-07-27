@@ -51,6 +51,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import subprocess
 import sys
 import threading
@@ -306,7 +307,12 @@ def verify_one(zh_path: str, trans_path: str, log: Logger) -> tuple[bool, Option
     # 發現 `verify=4` 只記數量，log 與 report.jsonl 都查不出敗在哪個檢查，
     # 等於失敗不可診斷（本檔 §儀器化：工具存在不等於問題被檢查）。
     if health_fail:
-        reason = "health"
+        # health 分支也要帶項目名。同日修 verify 分支時只改了一半，隔一小時
+        # 追 health 失敗就撞上同樣的死路（檔案已 HEAD-restore、log 只寫
+        # 「health」，無從得知敗在哪個檢查）——同型病要 grep 全部分支，
+        # 這是本檔 §儀器化的第五次驗證。
+        hnames = re.findall(r"❌\s+([a-z0-9][a-z0-9 _-]{2,40}?)\s+hard=[1-9]", r3.stdout)
+        reason = "health" + (f" [{', '.join(hnames[:4])}]" if hnames else "")
     elif leak_fail:
         reason = "leak"
     else:
