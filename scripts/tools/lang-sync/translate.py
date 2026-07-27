@@ -752,6 +752,19 @@ def translate_one(article: dict, lang: str, cascade: TranslationCascade,
 
         output, post_err = armor_post(output, armor_ctx, article)
         if post_err:
+            # URL token 遺失／重複是「模型沒照做」而非「譯文有問題」，跟
+            # partial-translation 同一種可重試失敗——2026-07-27 產線實測它是
+            # exit=1 的唯一成因（9/9，跨八語、本地雲端都中，單篇最多丟 84 個），
+            # 佔全部失敗 34%，把通過率從 58% 壓到 16%。判準（restore_urls 要求
+            # 恰好一次）維持嚴格，改的只是終局處置：先給一次帶警告的重試，
+            # 用完額度才報失敗。防護的成功率不該直接變成產線的通過率。
+            if "URL token" in post_err and attempt < max_attempts:
+                print(f"   ⚠️  {post_err} — 重試 (attempt {attempt + 1}/{max_attempts})，"
+                      f"提示模型逐字保留 token")
+                user_msg = (user_msg + "\n\n⚠️ 上一次輸出遺失或重複了 ⟦U1⟧ ⟦U2⟧ 這類 URL "
+                            "佔位標記。它們**不是**要翻譯的內容，必須逐字原樣保留，"
+                            "每個標記在輸出中恰好出現一次，數量與位置都不可增減。")
+                continue
             return False, f"{post_err} via {backend_used} — not saved", backend_used
 
         # Frontmatter integrity hard gate (2026-07-10 P0-3): 任一 backend（含 fleet raw
