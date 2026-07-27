@@ -81,6 +81,17 @@ ScheduleWakeup 的 prompt 固定為三部分，**禁止複寫本檔內容**：
 進化發現若改變規則 → **直接修本檔或 SQUEEZE 對應節並 commit**（版控就是漂移防護），
 不寫在 wake prompt 動態區。
 
+### 派 sub agent 的鐵律（2026-07-27，同日四例）
+
+spawn prompt 必含：「**前景串行執行，禁止 run_in_background 後結束回合等通知**
+——你的環境裡背景指令完成不會通知你自己，那等於停擺。要等就用 until 迴圈
+輪詢 process 或輸出檔。」
+
+同日四個子代獨立踩同一個坑（UI bundle／結構化 pilot／patch 修復 ×2），每次
+浪費一輪喚醒。母 session 收到的「完成通知」其實只是「子代停了」，跟「做完了」
+無法區分——**驗收永遠要獨立查證**（git log 有沒有 commit、檔案有沒有動、
+process 在不在），不能只讀它的回報。
+
 ## 鐵律集（違反任一 = 本輪不合格）
 
 1. 每回合結束前必 ScheduleWakeup（薄殼格式）——喚醒鏈是單點，斷一次監測就盲一輪
