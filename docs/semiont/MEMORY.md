@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-28
-last_session: '2026-07-28-064254-twmd-spore-harvest-am（6 events harvest；鎢供應鏈讀者連命案，escalate 觀察者）'
+last_session: '2026-07-28-070915-twmd-feedback-triage（隊列連續第三天空，Supabase REST 對賬確認非斷線）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -342,3 +342,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-28 | 053759-twmd-routine-sync | 三層對賬第三日全綠：17 條 routine 全 in-sync，零漂移；不受同時段 babel fleet 渦流影響 | 連續全綠也要記一行，否則「這條 routine 有沒有在跑」下次沒基線可比 | [→](memory/2026-07-28-053759-twmd-routine-sync.md) |
 | 2026-07-28 | 061446-twmd-data-refresh-am | 晨間 14 步刷新全綠：三源感知（CF 1.02M req／GA／SC）＋dashboard 全套重生＋GitHub stats；Step 11 freshness gate 零 stale | 免疫黃燈 60 持平非新退化；連續全綠仍要記一行留基線 | [→](memory/2026-07-28-061446-twmd-data-refresh-am.md) |
 | 2026-07-28 | 064254-twmd-spore-harvest-am | 6 events harvest；鎢供應鏈 D+2 衝到 465K，讀者留言把文章主角連到真實命案＋兩岸政治暴力揣測，未修文未回覆，寫進 HARVEST-FRAMING-PENDING 等哲宇拍板 | §自主權邊界不只防我寫過火，也要防讀者滑到我不該追認的地方時選擇不表態 | [→](memory/2026-07-28-064254-twmd-spore-harvest-am.md) |
+| 2026-07-28 | 070915-twmd-feedback-triage | 隊列連續第三天空（file=0），Supabase REST 對賬確認最新紀錄仍是 07-24 同一筆；archive-scanned=38 synced=0，working tree 全程乾淨 | 四天完整靜默窗屬讀者回報入口本身樣本稀薄，非系統故障 | [→](memory/2026-07-28-070915-twmd-feedback-triage.md) |
