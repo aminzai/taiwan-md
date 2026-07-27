@@ -25,9 +25,9 @@ lastVerified: 2026-05-22
 lastHumanReview: false
 readingTime: 22
 translatedFrom: 'Technology/台灣BIM與營建科技.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:5500ed1d9d4e0f85'
-sourceBodyHash: 'sha256:6207b1decb9dcfc4'
+sourceCommitSha: '30072b76'
+sourceContentHash: 'sha256:7923803a611ee1da'
+sourceBodyHash: 'sha256:ac277cd39572ac41'
 translatedAt: '2026-07-18T18:57:47+08:00'
 image: '/article-images/technology/freecad-bim-example-2024.webp'
 imageCredit: 'Maxwxyz via Wikimedia Commons'
@@ -271,11 +271,11 @@ Quando Shuotao publicou o `REVIT_MCP_study` no GitHub, em dezembro de 2025[^48],
 
 **Leituras complementares**:
 
-- [Arquitetura de Taiwan](/art/台灣建築) — da casa de lajes de pedra aos arranha-céus, uma narrativa da cultura arquitetônica; este artigo é sua contraparte sobre a digitalização da engenharia
-- [Habitação social e justiça habitacional](/society/社會住宅與居住正義) — a aplicação do BIM à operação e manutenção de moradias sociais tem sido um dos principais programas recentes do ABRI
-- [Empresas taiwanesas: TSMC](/economy/台灣企業：台積電) — as fábricas da TSMC são um dos principais campos de aplicação prática do BIM para construtoras como Dacin e Futsu
-- [Desenvolvimento da IA em Taiwan](/technology/AI發展) — o MCP da Anthropic e sua integração ao Revit 2027 são exemplos concretos da combinação entre IA e indústria
-- [Indústria de semicondutores](/technology/半導體產業) — soluções integradas para a construção de fábricas, somadas ao uso do BIM em instalações inteligentes, constituem a base de engenharia para a expansão dos polos de semicondutores
+- [Arquitetura de Taiwan](/pt/art/taiwanese-architecture) — da casa de lajes de pedra aos arranha-céus, uma narrativa da cultura arquitetônica; este artigo é sua contraparte sobre a digitalização da engenharia
+- [Habitação social e justiça habitacional](/pt/society/social-housing-and-housing-justice) — a aplicação do BIM à operação e manutenção de moradias sociais tem sido um dos principais programas recentes do ABRI
+- [Empresas taiwanesas: TSMC](/pt/economy/tsmc) — as fábricas da TSMC são um dos principais campos de aplicação prática do BIM para construtoras como Dacin e Futsu
+- [Desenvolvimento da IA em Taiwan](/pt/technology/ai-development-in-taiwan) — o MCP da Anthropic e sua integração ao Revit 2027 são exemplos concretos da combinação entre IA e indústria
+- [Indústria de semicondutores](/pt/technology/taiwan-semiconductor-industry) — soluções integradas para a construção de fábricas, somadas ao uso do BIM em instalações inteligentes, constituem a base de engenharia para a expansão dos polos de semicondutores
 
 ## Fontes das imagens
 

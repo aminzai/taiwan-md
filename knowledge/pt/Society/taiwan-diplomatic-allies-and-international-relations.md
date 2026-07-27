@@ -2,7 +2,7 @@
 title: 'Aliados diplomáticos e diplomacia internacional de Taiwan: 12 aliados, 113 representações e acesso sem visto a 177 países (2026)'
 description: 'Em 15 de janeiro de 2024, 48 horas após a eleição de Lai Ching-te à Presidência, Nauru anunciou o rompimento das relações diplomáticas, reduzindo o número de aliados de 13 para 12. Ainda naquele ano, porém, Taiwan mantinha 113 representações no exterior, seu passaporte dava acesso a 177 países, a TSMC produzia 90% dos chips avançados do mundo e o Parlamento Europeu aprovou, por 432 votos a 60, com 71 abstenções, uma resolução contra a distorção chinesa da Resolução 2758 da Assembleia Geral da ONU. O reconhecimento no papel está diminuindo, a rede informal está se expandindo e a disputa pela interpretação do direito internacional começa a mudar de direção.'
 date: 2026-04-28
-category: 'pt'
+category: 'Society'
 tags:
   [
     'diplomacia',
@@ -14,15 +14,20 @@ tags:
   ]
 subcategory: '國際關係'
 author: 'Taiwan.md Contributors'
+readingTime: 16
 featured: true
 lastVerified: 2026-04-28
 lastHumanReview: false
-readingTime: 16
+sporeLinks:
+  [
+    "{'id': 51, 'platform': 'threads', 'date': '2026-04-29', 'url': 'https://www.threads.com/@taiwandotmd/post/DXtCIBCEeTh?xmt=AQF00UmSgX_psrM3oEzyol1G5-uzmnwiLTKilOhh_lJbhQ'}",
+    "{'id': 52, 'platform': 'x', 'date': '2026-04-29', 'url': 'https://x.com/taiwandotmd/status/2049358488246349945'}",
+  ]
 translatedFrom: 'Society/台灣邦交國與國際外交.md'
-sourceCommitSha: 'dd39065b2'
-sourceContentHash: 'sha256:106427f4b2a59983'
-sourceBodyHash: 'sha256:52dab0b7f31fb6c8'
-translatedAt: '2026-07-18T18:57:47+08:00'
+sourceCommitSha: '669a4c875'
+sourceContentHash: 'sha256:03188362c6b1e61a'
+sourceBodyHash: 'sha256:e6881f1d2b6924ed'
+translatedAt: '2026-07-27T11:12:34.347701+00:00'
 ---
 
 # Aliados diplomáticos e diplomacia internacional de Taiwan: 12 aliados, 113 representações e acesso sem visto a 177 países
@@ -42,24 +47,24 @@ Segundo funcionários do ministério, sua reação foi de “muita indignação�
 > **📝 Nota da curadoria**
 > Taiwan já se acostumou a perder aliados diplomáticos. Eram 70 no auge, em 1969, e restavam 12 em 2024: em média, mais de um por ano ao longo de cinco décadas. Ao terminar este artigo, porém, você perceberá que o número de aliados é apenas uma das linhas da diplomacia taiwanesa — e não a mais decisiva.
 
-## De 70 a 12: cinquenta anos de desintegração
+## De 70 para 12: cinquenta anos de desmantelamento
 
-| 70 → 22                                        | 21 → 12                               |
-| ---------------------------------------------- | ------------------------------------- |
-| 1969–1988 (Chiang Kai-shek e Chiang Ching-kuo) | 2016–2024 (oito anos de Tsai Ing-wen) |
+| 70 → 22                                       | 21 → 12                         |
+| --------------------------------------------- | ------------------------------- |
+| 1969-1988 (Chiang Kai-shek, Chiang Ching-kuo) | 2016-2024 (Tsai Ing-wen 8 anos) |
 
-O número de aliados diplomáticos da República da China (Taiwan) não atingiu seu ponto máximo durante o período em que a capital estava em Taipé, mas no auge da Guerra Fria, poucos anos após a retirada de Nanquim para Taiwan. Em 1969, eram 70 países, resultado da configuração geral do bloco anticomunista[^8].
+O número de aliados diplomáticos da República da China (Taiwan) atingiu o seu pico não na era de Taipé, mas no auge da Guerra Fria, poucos anos após a retirada para Taiwan a partir de Nanquim. Em 1969, eram 70 países, sustentados pela disposição geral do bloco anticomunista[^8].
 
-Seguiu-se uma série de momentos decisivos:
+Seguem-se os principais pontos de viragem:
 
-1. **25/10/1971** — A Assembleia Geral das Nações Unidas aprovou a Resolução 2758. Antes da votação, o representante da República da China (Taiwan) na ONU, Chou Shu-kai, tomou a palavra por iniciativa própria e leu uma declaração de retirada: “Como as Nações Unidas estão atualmente envoltas por um ambiente de irracionalidade emocional e processual, a delegação da República da China deixa, a partir deste momento, de participar de qualquer reunião das Nações Unidas.”[^9] Em seguida, liderou a saída ordenada da delegação. A resolução foi aprovada por 76 votos a 35.
-2. **29/9/1972** — O Japão rompeu relações diplomáticas. Kakuei Tanaka viajou a Pequim.
-3. **1/1/1979** — Os Estados Unidos romperam relações diplomáticas. O governo Carter mudou de posição, e somente em abril foi aprovada a Lei de Relações com Taiwan como medida compensatória[^10].
-4. **1989–1996** — Durante a retomada da “diplomacia pragmática” de Lee Teng-hui, o número de aliados subiu temporariamente de 22 para 31. A perda mais dolorosa do período ocorreu em **23/8/1992, com a Coreia do Sul**: o governo de Roh Tae-woo exigiu que os funcionários da República da China (Taiwan) deixassem o país em 24 horas, confiscou todos os terrenos e edifícios da embaixada e os transferiu para Pequim. Nas memórias de diplomatas aposentados, a cena acabaria condensada em uma frase: “Confiscaram a embaixada e traíram os Cinco Tigres.”[^11]
-5. **2008–2016** — Período da “trégua diplomática” de Ma Ying-jeou. Em oito anos, apenas um país rompeu relações — a Gâmbia —, mas nenhum novo aliado foi conquistado. Essa estabilidade teve como preço a relação entre os dois lados do estreito.
-6. **2016–2024** — Taiwan perdeu dez aliados durante os oito anos de Tsai Ing-wen, o maior número desde o fim da lei marcial. As datas de cada rompimento e as condições oferecidas pela China são detalhadas a seguir.
+1. **1971/10/25** — A Assembleia Geral das Nações Unidas aprova a Resolução 2758. O representante da República da China (Taiwan) na ONU, Chou Shu-kai, sobe à tribuna antes da votação e lê a declaração de retirada: «Uma vez que as Nações Unidas se encontram atualmente envoltas em emoções e procedimentos irracionais, a delegação da República da China, a partir de agora, não participará em nenhuma reunião das Nações Unidas.»[^9] Em seguida, lidera a delegação na saída em fila. A resolução é aprovada por 76 votos a 35.
+2. **1972/9/29** — O Japão rompe relações. Tanaka Kakuei voa para Pequim.
+3. **1979/1/1** — Os Estados Unidos rompem relações. O governo Carter muda de direção; só em abril surge o _Taiwan Relations Act_ como remédio[^10].
+4. **1989-1996** — Período de recuperação da «diplomacia pragmática» de Lee Teng-hui; os aliados diplomáticos sobem de 22 para 31. O mais doloroso perdido nesse período é a Coreia do Sul em 23/8/1992: o governo de Roh Tae-woo exige que o pessoal da República da China (Taiwan) deixe o país em 24 horas, e o terreno e os edifícios da embaixada são integralmente confiscados e transferidos para Pequim; mais tarde, nas memórias de diplomatas aposentados, essa cena resume-se a uma frase: «Confiscaram a embaixada, traíram os Cinco Tigres.»[^11]
+5. **2008-2016** — Período de «trégua diplomática» de Ma Ying-jeou. Em 8 anos, rompe-se com apenas 1 país (Gâmbia), mas também não se adiciona nenhum novo aliado. Essa estabilidade foi comprada ao preço das relações entre os dois lados do estreito.
+6. **2016-2024** — Nos 8 anos de Tsai Ing-wen, perdem-se 10 aliados diplomáticos no total, o recorde mais alto desde o fim da lei marcial. O momento de cada um e as condições impostas pela China serão detalhados adiante.
 
-Os números são frios. Mas por trás de cada um havia um processo de negociação, um pacote de ajuda financeira e a decisão de um presidente ou rei.
+Os números são frios. Mas por trás de cada número há uma negociação, um pacote de ajuda, a decisão de um presidente ou de um rei.
 
 ## Os dez adeuses nos oito anos de Tsai Ing-wen
 
@@ -84,64 +89,64 @@ Foi o que um ex-vice-presidente de Honduras disse à imprensa em 2024, ao analis
 
 Uma vez rompidas, porém, as relações diplomáticas são quase impossíveis de restabelecer. Não há como voltar atrás depois do arrependimento.
 
-## Retratos dos 12: quem são, por que permanecem e se podem partir
+## Retrato dos 12: quem são, por que ficam, se podem sair
 
-Dos 12 aliados diplomáticos, três estão na Oceania, um na África, um na Europa e sete na América Latina e no Caribe[^16]. Não faz sentido decorá-los como uma lista. É mais útil observar aqueles que têm uma história particular.
+12 aliados diplomáticos, 3 na Oceania, 1 na África, 1 na Europa, 7 na América Latina e no Caribe[^16]. Decorar a lista não adianta. Vale a pena olhar os que têm história.
 
-### Santa Sé: um voto de 900 milhões de católicos
+### Santa Sé: o voto de 900 milhões de católicos
 
-As relações foram estabelecidas em 1942, durante o Governo Nacionalista, e já duram 84 anos, constituindo uma das parcerias diplomáticas mais antigas ainda existentes. A Santa Sé é um Estado observador da ONU e **o único aliado diplomático de Taiwan que não é membro das Nações Unidas**[^17].
+Relações estabelecidas em 1942, ainda sob o Governo Nacionalista; 84 anos depois, é uma das mais longevas que restam. A Santa Sé é Estado observador na ONU — **o único aliado de Taiwan que não é membro das Nações Unidas**[^17].
 
-O verdadeiro indicador da posição da Santa Sé não está no ministério das Relações Exteriores, mas nas nomeações episcopais. A Santa Sé e Pequim assinaram em 2018 um acordo provisório sobre a nomeação de bispos, renovado pela última vez em 2024. Se, no futuro, Pequim nomear bispos unilateralmente e a Santa Sé não se opuser, a continuidade das relações entre Taiwan e a Santa Sé entrará em um período de provação.
+O verdadeiro termômetro não está no Itamaraty taiwanês, mas nas nomeações de bispos. Santa Sé e Pequim assinaram em 2018 um acordo provisório sobre nomeações episcopais, renovado mais recentemente em 2024. Se Pequim passar a nomear bispos unilateralmente e a Santa Sé não reagir, a sobrevivência das relações Taiwan–Santa Sé entrará em período de prova.
 
-O papa Francisco morreu em abril de 2025. Em 8 de maio, foi eleito Robert Francis Prevost, o primeiro papa nascido na América do Norte, que adotou o nome Leão XIV[^18]. A política do novo pontífice para a China ainda não se revelou por completo.
+Em abril de 2025 faleceu o Papa Francisco; a 8 de maio foi eleito Robert Francis Prevost, primeiro pontífice nascido na América do Norte, com o nome de Leão XIV[^18]. A linha do novo Papa para com a China ainda não se desenhou por completo.
 
-Em entrevista à emissora pública PTS em março de 2025, o ministro das Relações Exteriores Lin Chia-lung citou publicamente “Haiti e Santa Sé” como os dois aliados que “exigem atenção especial”[^19]. Foi uma formulação diplomática, mas suficientemente clara.
+O ministro das Relações Exteriores Lin Chia-lung, em entrevista à PTS em março de 2025, colocou publicamente «Haiti, Santa Sé» lado a lado como «dois aliados que exigem atenção especial»[^19]: disse com diplomacia, mas o recado foi claro.
 
-### Paraguai: o único da América do Sul, sustentado por 69 anos de tradição colorada
+### Paraguai: o único na América do Sul, sustentado por 69 anos de DNA colorado
 
-As relações foram estabelecidas em 1957. O Paraguai é **o único aliado diplomático de Taiwan na América do Sul**. Ao longo de mais de seis décadas, a relação sobreviveu ao risco de rompimento após o golpe de 1989 e à pressão prolongada do mercado chinês e da cooptação política; para o contexto completo, consulte “[Paraguai e Taiwan](/pt/society/paraguay-taiwan/)”.
+Relações desde 1957. **Único aliado de Taiwan na América do Sul**, sobreviveu a seis décadas que incluíram a crise de rompimento pós-1989 e a pressão comercial e política contínua da China; o fio condutor completo está em «[Paraguai e Taiwan](/pt/society/paraguay-taiwan/)».
 
-O Partido Colorado governa o Paraguai, com algumas interrupções, há mais de 70 anos, desde 1947. Seu anticomunismo e sua proximidade com Taiwan são heranças estruturais da Guerra Fria. O vencedor da eleição de 2023, Santiago Peña, era o candidato colorado, enquanto seu adversário liberal defendia a revisão da política para Taiwan. Ao escolherem o Partido Colorado, os eleitores optaram, na prática, pela manutenção das relações.
+O Partido Colorado (Colorado Party) governa o Paraguai, com interrupções, desde 1947 — mais de 70 anos. O anticomunismo e a amizade com Taiwan são herança estrutural da Guerra Fria. O vencedor de 2023, Santiago Peña, é colorado; o adversário liberal propunha rever a política para com Taiwan: o eleitor escolheu o colorado, logo escolheu manter o reconhecimento.
 
-Em maio de 2024, Peña viajou pessoalmente a Taipé para participar da posse de Lai Ching-te[^20]. Em novembro do mesmo ano, durante uma visita a Taiwan, o chanceler paraguaio Rubén Ramírez declarou publicamente:
+Em maio de 2024, o próprio Peña veio a Taipé para a posse de Lai Ching-te[^20]. Em novembro, o chanceler paraguaio Rubén Ramírez declarou em visita a Taiwan:
 
-> **✦** “Não aceitamos romper relações diplomáticas com Taiwan sob nenhuma condição.”[^21]
+> **✦** «Não aceitamos romper com Taiwan sob nenhuma condição.»[^21]
 
-Em julho de 2025, porém, o deputado colorado Hugo Meza voltou de uma visita à China e apresentou uma proposta para abandonar Taiwan. O consenso entre as elites do Partido Colorado começa a vacilar, embora ainda não tenha mudado de lado.
+Mas em julho de 2025 o deputado colorado Hugo Meza visitou a China e, de volta, apresentou proposta de rompimento. O consenso de base entre as elites coloradas está rachando; só ainda não virou.
 
-### Haiti: tão arruinado que nem a China quer escavar
+### Haiti: tão frágil que nem a China tem interesse em pescar
 
-As relações foram estabelecidas em 1956. É **o aliado de maior risco entre os 12**.
+Relações desde 1956. **O aliado de maior risco entre os 12**.
 
-Após o assassinato do ex-presidente Jovenel Moïse em julho de 2021, o Haiti entrou em um longo período de desordem sob o domínio de gangues. A capital, Porto Príncipe, parece uma zona de guerra, e a eleição de agosto de 2025 prometida pelo governo de transição foi repetidamente adiada[^22].
+Após o assassinato do presidente Jovenel Moïse em julho de 2021, o Haiti mergulhou em anarquia de gangues. Porto Príncipe virou zona de guerra; as eleições prometidas pelo governo de transição para agosto de 2025 vêm sendo adiadas sucessivamente[^22].
 
-Lin Chia-lung classificou o Haiti como um país que “exige atenção especial”, mas há um detalhe contraintuitivo: o país talvez não abandone Taiwan, em parte porque Taiwan consegue mantê-lo e em parte porque **a China talvez não o queira**. Um país devastado, sem governo estável, interesses comerciais ou valor estratégico oferece pouco retorno a Pequim.
+Lin Chia-lung citou o Haiti como «precisa de atenção especial», mas há um contraponto pouco dito: o Haiti não necessariamente vai romper — em parte porque Taiwan consegue segurar, em parte porque **a China não necessariamente quer**. Um Estado sem governo estável, sem atrativo comercial, sem valor estratégico, tem custo-benefício baixo para Pequim.
 
-Isso revela uma lógica raramente expressa: às vezes, a preservação de um aliado depende menos do esforço de Taiwan do que do interesse da China.
+O episódio revela uma lógica que poucos verbalizam: às vezes não é o empenho de Taiwan que define se o aliado fica; é o apetite da China.
 
-### Tuvalu: 82% da população está se preparando para emigrar
+### Tuvalu: 82 % da população fazendo as malas
 
-As relações foram estabelecidas em 1979. A população é de cerca de 10 mil pessoas. O país **enfrenta uma crise existencial causada pela elevação do nível do mar**: dados do IPCC mostram que o mar sobe ali ao dobro da média mundial. Foram 14 centímetros nos últimos 30 anos e podem ser mais 19 centímetros nos próximos 30[^23].
+Relações desde 1979. População ~10 mil. **Enfrenta risco existencial de submersão** — dados do IPCC mostram que o nível do mar sobe ali ao dobro da média global; 14 cm nos últimos 30 anos, mais 19 cm projetados nos próximos 30[^23].
 
-Em junho de 2025, a Austrália abriu o primeiro “visto climático” do mundo, um canal especial previsto no tratado da União Falepili, permitindo que cidadãos de Tuvalu migrassem para a Austrália como residentes de longa duração. Até o fim de 2025, **cerca de 8.750 tuvaluanos haviam se candidatado, o equivalente a 82% da população nacional**[^24].
+Em junho de 2025, a Austrália abriu o primeiro «visto climático» do mundo (via tratado Falepili Union), permitindo residência de longo prazo a tuvaluanos. Até o fim de 2025, **cerca de 8 750 tuvaluanos pediram o visto, o equivalente a 82 % da população nacional**[^24].
 
-> **⚠️ A população de um aliado diplomático está migrando, por meio de uma política pública, para um país que não mantém relações diplomáticas com Taiwan**
-> Tuvalu não desaparecerá amanhã, nem a Austrália assumirá seu controle amanhã. Mas o conceito de “soberania” está sendo redefinido neste caso. Se a maioria dos cidadãos de um aliado vive em outro país, utiliza seu sistema de assistência social e paga impostos a ele, onde permanece o caráter estatal do país aliado?
+> **⚠️ A população de um aliado está migrando, por via de política pública, para um não-aliado**
+> Tuvalu não vai desaparecer amanhã, a Austrália não vai assumir o país amanhã. Mas o conceito de «soberania» está sendo reescrito neste caso. Se a maioria dos nacionais de um aliado vive em outro país, usa o sistema de bem-estar desse outro país, paga impostos a esse outro país, onde fica a «nacionalidade» do aliado?
 
-Taiwan e Fiji são as duas únicas jurisdições de embarcações pesqueiras que operam no Pacífico a assinar uma declaração de apoio às fronteiras marítimas de Tuvalu[^25]. É a forma de Taiwan apoiar o argumento de que, “mesmo que seu território seja submerso pelo mar, a soberania sobre suas águas continua sendo sua”.
+Taiwan e Fiji são os únicos dois Estados costeiros do Pacífico que assinaram a declaração de apoio às fronteiras marítimas de Tuvalu[^25]. É o respaldo de Taiwan ao argumento: «mesmo que seu território mergulhe no mar, sua soberania marítima continua sua».
 
-### Essuatíni: o avião presidencial de Lai Ching-te que não conseguiu decolar em abril de 2026
+### Essuatíni: o avião de Lai Ching-te que não decolou em abril de 2026
 
-As relações foram estabelecidas em 1968. Essuatíni é **o último aliado diplomático de Taiwan na África** — nos últimos 30 anos, Taiwan perdeu dez aliados africanos[^26]. O rei Mswati III, um dos últimos monarcas absolutos da África, viajou pessoalmente a Taipé em maio de 2024 para participar da posse de Lai Ching-te.
+Relações desde 1968. **Último aliado de Taiwan na África** — 10 perdidos nos últimos 30 anos[^26]. O rei Mswati III é um dos últimos monarcas absolutos do continente; em maio de 2024 veio pessoalmente a Taipé para a posse de Lai Ching-te.
 
-Em abril de 2026, Lai tinha viagem marcada para Essuatíni no dia 22, a fim de celebrar, em uma única cerimônia, o 40º aniversário da ascensão de Mswati III ao trono, seu 58º aniversário e os 58 anos da independência do país.
+Em abril de 2026, Lai partiria no dia 22 para Essuatíni, celebrar de uma vez os 40 anos de reinado de Mswati III, seus 58 anos de idade e os 58 anos de independência do país.
 
-Doze horas antes da partida, a viagem foi suspensa.
+Faltando 12 horas para a decolagem, a viagem foi suspensa.
 
-O Ministério das Relações Exteriores explicou que alguns países situados na rota do avião presidencial cancelaram, de última hora, as autorizações de sobrevoo. Por razões de segurança do chefe de Estado e do voo, a equipe de segurança nacional decidiu adiar a viagem e enviou Lin Chia-lung a Essuatíni como enviado especial do presidente[^27]. Lin chegou ao país na madrugada de 25 de abril. Primeiro voou de Taiwan para Viena, na Áustria, e depois embarcou em um jato executivo Gulfstream da Qatar Airways, seguindo sobre o continente africano e **evitando deliberadamente os espaços aéreos de Seicheles, Maurício e Madagascar**.
+O Ministério das Relações Exteriores explicou que países no trajeto revogaram permissão de sobrevoo de última hora; a equipe de segurança presidencial, zelando pela integridade do chefe de Estado e da aeronave, decidiu adiar e enviou o chanceler Lin Chia-lung como enviado especial[^27]. Lin chegou a Essuatíni na madrugada de 25 de abril — partiu de Taiwan para Viena, Áustria, e de lá embarcou num Gulfstream fretado da Qatar Airways, entrando no continente africano **de propósito evitando o espaço aéreo de Seicheles, Maurício e Madagáscar**.
 
-A rota tortuosa expôs claramente o problema. A pressão chinesa deixou de atingir apenas os aliados de Taiwan e passou a alcançar também seus vizinhos. O bloqueio aéreo na África é uma nova tática surgida após 2024.
+Essa rota tortuosa expõe o problema com clareza. A pressão chinesa deixou de se limitar ao próprio aliado e alcançou os vizinhos do aliado — o cerco aéreo africano é tática nova, surgida após 2024.
 
 ## Por que restaram apenas 12
 

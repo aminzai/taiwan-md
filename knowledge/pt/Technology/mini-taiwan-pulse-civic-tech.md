@@ -23,9 +23,9 @@ lastVerified: 2026-06-25
 lastHumanReview: true
 readingTime: 20
 translatedFrom: 'Technology/mini-taiwan-pulse.md'
-sourceCommitSha: '905aa4a82'
-sourceContentHash: 'sha256:93ceaae8bc44512f'
-sourceBodyHash: 'sha256:941fb85e8f2fbb98'
+sourceCommitSha: 'da22dc5b'
+sourceContentHash: 'sha256:b4fa10553d998dfa'
+sourceBodyHash: 'sha256:6475e91be41d93b4'
 translatedAt: '2026-07-18T18:57:47+08:00'
 image: '/article-images/technology/mini-taiwan-pulse-map-2026.webp'
 imageCredit: 'Migu / sciwork 2026'
@@ -254,9 +254,9 @@ Mas a forma já apareceu. Por trás de uma pessoa, uma frase e um mapa que respi
 ## Leituras complementares
 
 - [Wu Che-yu](/people/吳哲宇): criador do Taiwan.md, que também usa programação e ferramentas generativas para se aproximar de “algo capaz de crescer sozinho”
-- [Comunidades de código aberto e g0v](/technology/開源社群與g0v): o contexto coletivo de “escrever programas para transformar a sociedade”, em contraste com o modelo indivíduo × agente de Migu
-- [O espírito do código aberto em Taiwan](/technology/台灣開源精神): do ativismo pelo teclado aos dados abertos, a cultura subjacente à tecnologia cívica taiwanesa
-- [Identidade digital e governo digital](/technology/數位身分證與數位政府): outra face da infraestrutura governamental de dados abertos
+- [Comunidades de código aberto e g0v](/pt/technology/open-source-and-g0v): o contexto coletivo de “escrever programas para transformar a sociedade”, em contraste com o modelo indivíduo × agente de Migu
+- [O espírito do código aberto em Taiwan](/pt/technology/taiwan-open-source-spirit): do ativismo pelo teclado aos dados abertos, a cultura subjacente à tecnologia cívica taiwanesa
+- [Identidade digital e governo digital](/pt/technology/digital-id-and-digital-government): outra face da infraestrutura governamental de dados abertos
 
 ## Links dos projetos
 
