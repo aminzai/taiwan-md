@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-28T04:07:59+08:00",
-    "zhCommitHead": "52049b7f9",
+    "lastUpdated": "2026-07-28T04:24:51+08:00",
+    "zhCommitHead": "bdfcc0f91",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 591,
+        "fresh": 592,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 272,
+        "missing": 271,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 461,
+        "fresh": 462,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 408,
+        "missing": 407,
         "orphan": 0
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 494,
+        "fresh": 497,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 375,
+        "missing": 372,
         "orphan": 0
       }
     },
@@ -7498,8 +7498,8 @@
           "sourceContentHash": "sha256:09b6e203fc91b5b5",
           "sourceBodyHash": "sha256:2386fbe1cd54e9dd",
           "translatedAt": "2026-07-28T03:07:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdfcc0f9",
+          "translationLastModified": "2026-07-28T04:07:59+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -12259,7 +12259,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/acer-pc-industry-pioneer.md",
+          "translatedFrom": "Economy/台灣企業：宏碁.md",
+          "sourceCommitSha": "a94bbcf6b",
+          "sourceContentHash": "sha256:f4628301afebb26c",
+          "sourceBodyHash": "sha256:51e7134a2abf4bcf",
+          "translatedAt": "2026-07-28T03:07:44+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 56,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -18502,7 +18513,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/justfont-and-taiwan-typography.md",
+          "translatedFrom": "Technology/justfont與台灣字體發展.md",
+          "sourceCommitSha": "e773ef6b0",
+          "sourceContentHash": "sha256:6e31a2264dcded4f",
+          "sourceBodyHash": "sha256:dcea1d33e3c8824c",
+          "translatedAt": "2026-07-28T03:07:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 65,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -27706,8 +27728,8 @@
           "sourceContentHash": "sha256:bc3db40c99c58cf5",
           "sourceBodyHash": "sha256:c1ead29e154aba6a",
           "translatedAt": "2026-07-28T03:07:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdfcc0f9",
+          "translationLastModified": "2026-07-28T04:07:59+08:00",
           "inferred": false,
           "footnoteDefs": 42,
           "status": "fresh",
@@ -29804,8 +29826,8 @@
           "sourceContentHash": "sha256:93955fe44e7691af",
           "sourceBodyHash": "sha256:08eacf8247ffcb10",
           "translatedAt": "2026-07-28T03:07:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdfcc0f9",
+          "translationLastModified": "2026-07-28T04:07:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -30903,7 +30925,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/taiwan-low-birth-rate-crisis.md",
+          "translatedFrom": "Society/台灣少子化危機.md",
+          "sourceCommitSha": "d96dbc4bb",
+          "sourceContentHash": "sha256:22f624258f9ada15",
+          "sourceBodyHash": "sha256:be7b46d45d345648",
+          "translatedAt": "2026-07-28T03:07:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 73,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -36307,8 +36340,8 @@
           "sourceContentHash": "sha256:bc15608a0bffd86f",
           "sourceBodyHash": "sha256:06a8ff16fd8332cb",
           "translatedAt": "2026-07-28T03:07:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdfcc0f9",
+          "translationLastModified": "2026-07-28T04:07:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -59242,8 +59275,8 @@
           "sourceContentHash": "sha256:d405136a29d9431e",
           "sourceBodyHash": "sha256:b0195c9685eb2443",
           "translatedAt": "2026-07-27T22:12:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdfcc0f9",
+          "translationLastModified": "2026-07-28T04:07:59+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -76030,8 +76063,8 @@
           "sourceContentHash": "sha256:2e7abe81d37d5763",
           "sourceBodyHash": "sha256:42bdb5d4361f8a68",
           "translatedAt": "2026-07-27T22:12:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdfcc0f9",
+          "translationLastModified": "2026-07-28T04:07:59+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -82715,8 +82748,8 @@
           "sourceContentHash": "sha256:12079ecc271885a4",
           "sourceBodyHash": "sha256:0805d92de4b036d1",
           "translatedAt": "2026-07-27T22:12:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdfcc0f9",
+          "translationLastModified": "2026-07-28T04:07:59+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -91187,8 +91220,8 @@
           "sourceContentHash": "sha256:05458bb41dd9205e",
           "sourceBodyHash": "sha256:00c84158a3ec97b2",
           "translatedAt": "2026-07-28T03:07:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdfcc0f9",
+          "translationLastModified": "2026-07-28T04:07:59+08:00",
           "inferred": false,
           "footnoteDefs": 57,
           "status": "fresh",
@@ -93866,7 +93899,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/great-recall-movement-2024.md",
+          "translatedFrom": "History/大罷免.md",
+          "sourceCommitSha": "5add39fc8",
+          "sourceContentHash": "sha256:1c18939671190740",
+          "sourceBodyHash": "sha256:c336900c050cb32f",
+          "translatedAt": "2026-07-28T03:07:47+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 53,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -101750,7 +101794,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/gueishan-island.md",
+          "translatedFrom": "Geography/龜山島.md",
+          "sourceCommitSha": "47ff13e07",
+          "sourceContentHash": "sha256:c7a87740708e08bc",
+          "sourceBodyHash": "sha256:49a1234928ae1d8e",
+          "translatedAt": "2026-07-28T03:07:49+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -105985,8 +106040,8 @@
           "sourceContentHash": "sha256:ee59ed48db607f3f",
           "sourceBodyHash": "sha256:26d93e9626e6b86e",
           "translatedAt": "2026-07-28T03:07:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdfcc0f9",
+          "translationLastModified": "2026-07-28T04:07:59+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -112145,8 +112200,8 @@
           "sourceContentHash": "sha256:c5c6c2825029a48f",
           "sourceBodyHash": "sha256:f0cb0ab3b5428edc",
           "translatedAt": "2026-07-28T03:07:44+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bdfcc0f9",
+          "translationLastModified": "2026-07-28T04:07:59+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
