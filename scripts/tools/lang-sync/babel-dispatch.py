@@ -611,9 +611,11 @@ def do_commit(lang: str, state: RunState, no_commit: bool, log: Logger) -> None:
 def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
                   state: RunState, report: JsonlWriter, freezes: JsonlWriter,
                   no_commit: bool, commit_every: int, log: Logger,
-                  engine: str = "whole") -> None:
+                  engine: str = "whole", no_patch: bool = False) -> None:
     data = json.loads(group_path.read_text(encoding="utf-8"))
-    trans_path = data["articles"][0]["en_path"]
+    art = data["articles"][0]
+    trans_path = art["en_path"]
+    status = art.get("status", "missing")
 
     t0 = time.monotonic()
     # --lang MUST be explicit: translate.py's --group mode defaults to
@@ -623,27 +625,52 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
     # the literal string "round01" as the target-language name in the
     # translation prompt (caught in the first smoke-test run — 2/2 verify
     # failures, both explained by this bug once inspected).
-    if engine == "structured":
-        # 分段式引擎吃單篇介面（zh_path 相對 knowledge/、backend 單一 spec）。
-        # ollama worker 的 cascade_spec 是裸 "ollama"（模型在 env OLLAMA_MODEL），
-        # structured 端要組回 ollama:<model>；openrouter spec 原樣可用。
-        backend = worker.cascade_spec
-        if backend.split("@")[0] == "ollama":
-            _model = worker_env(worker).get("OLLAMA_MODEL", "")
-            backend = f"ollama:{_model}" if _model else "ollama"
-        cmd = ["python3", "-u", "scripts/tools/lang-sync/structured-translate.py",
-               zh_path, "--lang", lang, "--backend", backend,
-               "--out", trans_path, "--skip-validators"]
-        # --skip-validators：dispatcher 的 verify trio 是唯一裁判；引擎內建
-        # 驗證再跑一次是同一把尺跑兩遍，純浪費。
-    else:
-        cmd = ["python3", "-u", "scripts/tools/lang-sync/translate.py",
-               "--group", str(group_path), "--lang", lang,
-               "--cascade", worker.cascade_spec, "--no-preflight"]
-    proc = subprocess.run(cmd, cwd=REPO, env=worker_env(worker), capture_output=True, text=True)
+    def _backend_spec() -> str:
+        b = worker.cascade_spec
+        if b.split("@")[0] == "ollama":
+            m = worker_env(worker).get("OLLAMA_MODEL", "")
+            return f"ollama:{m}" if m else "ollama"
+        return b
+
+    # 章節級 diff-patch（2026-07-27）：stale 任務先試只重翻被 zh diff 碰過的 H2
+    # 章節，未碰章節原樣保留舊譯文——實測全站 stale 改動比例中位 2.8%，整篇重翻
+    # 是為 3% 的改動燒 100% 算力。patch-translate.py exit 2 = 章節數不對齊／改動
+    # 過大／sha 不可解析等不適合 patch 的情況，fallback 回下面既有的全文路徑；
+    # exit 1 = 有試但驗證沒過（patch-translate.py 自己已跑過三重驗證，沒寫檔），
+    # 直接沿用既有 gate-fail 處理，不再重試 fallback 全文（避免同一輪對同一篇
+    # 燒兩次算力）。
+    proc: subprocess.CompletedProcess | None = None
+    engine_label = engine
+    if status == "stale" and not no_patch:
+        pcmd = ["python3", "-u", "scripts/tools/lang-sync/patch-translate.py",
+                zh_path, "--lang", lang, "--backend", _backend_spec(), "--out", trans_path]
+        pproc = subprocess.run(pcmd, cwd=REPO, env=worker_env(worker), capture_output=True, text=True)
+        if pproc.returncode == 2:
+            log(f"⏩ patch-translate not applicable ({lang}:{zh_path}, exit=2) — "
+                f"fallback to full retranslate\n{(pproc.stdout + pproc.stderr)[-800:]}")
+        else:
+            proc = pproc
+            engine_label = "patch"
+
+    if proc is None:
+        if engine == "structured":
+            # 分段式引擎吃單篇介面（zh_path 相對 knowledge/、backend 單一 spec）。
+            # ollama worker 的 cascade_spec 是裸 "ollama"（模型在 env OLLAMA_MODEL），
+            # structured 端要組回 ollama:<model>；openrouter spec 原樣可用。
+            cmd = ["python3", "-u", "scripts/tools/lang-sync/structured-translate.py",
+                   zh_path, "--lang", lang, "--backend", _backend_spec(),
+                   "--out", trans_path, "--skip-validators"]
+            # --skip-validators：dispatcher 的 verify trio 是唯一裁判；引擎內建
+            # 驗證再跑一次是同一把尺跑兩遍，純浪費。
+        else:
+            cmd = ["python3", "-u", "scripts/tools/lang-sync/translate.py",
+                   "--group", str(group_path), "--lang", lang,
+                   "--cascade", worker.cascade_spec, "--no-preflight"]
+        proc = subprocess.run(cmd, cwd=REPO, env=worker_env(worker), capture_output=True, text=True)
     elapsed = time.monotonic() - t0
 
-    log(f"--- worker={worker.label} lang={lang} zh={zh_path} exit={proc.returncode} ({elapsed:.0f}s) ---")
+    log(f"--- worker={worker.label} lang={lang} zh={zh_path} engine={engine_label} "
+        f"exit={proc.returncode} ({elapsed:.0f}s) ---")
     tail = (proc.stdout + ("\n" + proc.stderr if proc.returncode != 0 else ""))
     log(tail[-3000:])
 
@@ -758,7 +785,7 @@ def wait_if_frozen(worker: Worker, workers: list, log: Logger) -> None:
 def worker_loop(worker: Worker, workers: list, queue: TaskQueue, state: RunState,
                  report: JsonlWriter, freezes: JsonlWriter, no_commit: bool,
                  commit_every: int, log: Logger,
-                 engine: str = "whole") -> None:
+                 engine: str = "whole", no_patch: bool = False) -> None:
     while True:
         wait_if_frozen(worker, workers, log)
         with state.lock:
@@ -769,7 +796,8 @@ def worker_loop(worker: Worker, workers: list, queue: TaskQueue, state: RunState
         lang, group_path, zh_path = task
         with state.lock:
             state.in_flight.add(f"{lang}:{zh_path}")
-        process_task(worker, lang, group_path, zh_path, state, report, freezes, no_commit, commit_every, log, engine=engine)
+        process_task(worker, lang, group_path, zh_path, state, report, freezes, no_commit, commit_every, log,
+                     engine=engine, no_patch=no_patch)
 
 
 # ────────────────────────── main ──────────────────────────
@@ -816,6 +844,9 @@ def main() -> None:
                          "pilot 6/6 全綠 2026-07-25，見 reports/structured-translation-pilot）")
     ap.add_argument("--priority", choices=["p0", "p1", "all"], default="all",
                      help="p0=missing only, p1=stale+metadata-stale only, all=P0 first then P1 (default)")
+    ap.add_argument("--no-patch", action="store_true",
+                     help="disable the chapter-level diff-patch engine (patch-translate.py) for "
+                          "stale tasks — always fall back to full retranslation (2026-07-27)")
     args = ap.parse_args()
 
     if not args.workers:
@@ -845,7 +876,8 @@ def main() -> None:
     log(f"  run_dir={run_dir}")
     log(f"  workers={[(w.label, w.cascade_spec, w.host) for w in workers]}")
     log(f"  order={args.order} rounds={args.rounds} commit_every={args.commit_every} "
-        f"priority={args.priority} max_articles={args.max_articles} no_commit={args.no_commit}")
+        f"priority={args.priority} max_articles={args.max_articles} no_commit={args.no_commit} "
+        f"engine={args.engine} no_patch={args.no_patch}")
 
     state = RunState()
     seen_missing_slug: set = set()
@@ -917,7 +949,7 @@ def main() -> None:
             futures = [
                 pool.submit(worker_loop, w, workers, queue, state, report, freezes,
                             args.no_commit, args.commit_every, log,
-                            engine=args.engine)
+                            engine=args.engine, no_patch=args.no_patch)
                 for w in workers
             ]
             for f in futures:
