@@ -108,7 +108,7 @@ _Perdana Menteri Chiang Ching-kuo, yang memimpin pertaruhan besar Sepuluh Proyek
 
 **Total investasi Sepuluh Proyek Pembangunan: sekitar 200 miliar dolar baru Taiwan** (setara dengan beberapa kali lipat cadangan devisa pada saat itu)
 
-Proyek-proyek tersebut mencakup Jalan Bebas Hambatan Sun Yat-sen, Bandar Udara Internasional Taoyuan, Pelabuhan Taichung, Pembangkit Listrik Tenaga Nuklir No. 1 dan No. 2, China Steel, China Shipbuilding, industri petrokimia, serta pembangunan transportasi dan industri berat lainnya. Uraian lengkap mengenai perencanaan dan kontroversinya dapat dibaca dalam “[Sepuluh Proyek Pembangunan: Pertaruhan 200 Miliar di Atas Cadangan Devisa 1 Miliar Dolar AS](/history/十大建設)”.
+Proyek-proyek tersebut mencakup Jalan Bebas Hambatan Sun Yat-sen, Bandar Udara Internasional Taoyuan, Pelabuhan Taichung, Pembangkit Listrik Tenaga Nuklir No. 1 dan No. 2, China Steel, China Shipbuilding, industri petrokimia, serta pembangunan transportasi dan industri berat lainnya. Uraian lengkap mengenai perencanaan dan kontroversinya dapat dibaca dalam “[Sepuluh Proyek Pembangunan: Pertaruhan 200 Miliar di Atas Cadangan Devisa 1 Miliar Dolar AS](/id/history/ten-major-construction-projects)”.
 
 Pada saat itu, proyek-proyek ini dikritik sebagai tindakan “mengejar kemegahan dan prestasi besar” serta “mewariskan utang kepada anak cucu”. Namun, kemudian terbukti bahwa tanpa infrastruktur tersebut, lepas landas ekonomi pada 1980-an sama sekali tidak mungkin terjadi.
 
@@ -334,7 +334,7 @@ Penulis kisah ini tetaplah setiap orang Taiwan.
 **Bacaan lanjutan**:
 
 - [Faktur: Selembar Kertas yang Mengubah Seluruh Rakyat Menjadi Pemeriksa Pajak pada 1951](/economy/發票) — faktur seragam merupakan infrastruktur fiskal penting yang hadir bersamaan dengan keajaiban ekonomi; pada tahun pertama penerapannya pada 1951, penerimaan pajak usaha melonjak 75%
-- [Sepuluh Proyek Pembangunan: Pertaruhan 200 Miliar di Atas Cadangan Devisa 1 Miliar Dolar AS](/history/十大建設) — uraian lengkap, kontroversi, dan narasi politik seputar pertaruhan besar pada 1970-an
+- [Sepuluh Proyek Pembangunan: Pertaruhan 200 Miliar di Atas Cadangan Devisa 1 Miliar Dolar AS](/id/history/ten-major-construction-projects) — uraian lengkap, kontroversi, dan narasi politik seputar pertaruhan besar pada 1970-an
 - [Kebijakan Baik Lintas Partai](/history/跨黨派的好政策) — anggapan yang tersebar luas bahwa reformasi agraria “menggerakkan keajaiban ekonomi Taiwan” ternyata tidak benar-benar bertahan ketika diuji
 
 ## Sumber Gambar

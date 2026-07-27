@@ -222,12 +222,12 @@ Tidak ada yang merencanakan pergeseran skala ini. Namun dalam kekeringan terbesa
 
 ## Bacaan Lanjutan
 
-- [Perusahaan Taiwan: MediaTek](/economy/台灣企業：聯發科技) — Desainer chip ponsel terbesar ketiga di dunia, representasi lokal model fabless, kembar yang saling melengkapi dengan TSMC
+- [Perusahaan Taiwan: MediaTek](/id/economy/mediatek) — Desainer chip ponsel terbesar ketiga di dunia, representasi lokal model fabless, kembar yang saling melengkapi dengan TSMC
 - [Perusahaan Taiwan: ASE Group](/economy/台灣企業：日月光半導體) — Pabrik pengemasan dan pengujian terbesar di dunia, simpul kunci hilir di rantai pasokan yang sama dengan TSMC
 - [Pasar Saham dan Modal Taiwan](/economy/台灣股市與資本市場) — Nilai pasar TSMC menempati sekitar 35% dari total nilai pasar saham Taiwan, memahami saham Taiwan berarti memahami TSMC terlebih dahulu
-- [Transformasi dan Peningkatan Industri Taiwan](/economy/台灣產業轉型升級) — TSMC adalah contoh konkret Taiwan berubah dari pulau manufaktur menjadi pulau teknologi
+- [Transformasi dan Peningkatan Industri Taiwan](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC adalah contoh konkret Taiwan berubah dari pulau manufaktur menjadi pulau teknologi
 - [Shih Shen-rong](/people/施振榮) — Menjadi anggota dewan TSMC selama 21 tahun, dengan kekayaan terbesar yang dipertaruhkan di saham TSMC, pendiri Acer, namun justru penulis "Kurva Senyum" yang "memerintahkan Taiwan untuk tidak melakukan manufaktur"
-- [Industri Semikonduktor (zh only)](/technology/半導體產業) — Dari transfer teknologi RCA hingga revolusi material 50 tahun dari gallium nitride hingga pengemasan kuantum, medan pertempuran material science tempat TSMC berada
+- [Industri Semikonduktor (zh only)](/id/technology/taiwan-semiconductor-industry) — Dari transfer teknologi RCA hingga revolusi material 50 tahun dari gallium nitride hingga pengemasan kuantum, medan pertempuran material science tempat TSMC berada
 
 ## Sumber Gambar
 

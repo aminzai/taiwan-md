@@ -147,11 +147,11 @@ _United Daily News_ dan _Liberty Times_ pakai kejadian sama hasilkan dua narasi,
 
 **Baca Lanjutan**：
 
-- [Tsai Ing-wen](/people/蔡英文) — Pendiri Forum Think, founder Yayasan Pendidikan Xiao Ying, 2016–2024 menjabat Presiden Republik Tiongkok (Taiwan) ke-7 dan ke-8
+- [Tsai Ing-wen](/id/people/tsai-ing-wen) — Pendiri Forum Think, founder Yayasan Pendidikan Xiao Ying, 2016–2024 menjabat Presiden Republik Tiongkok (Taiwan) ke-7 dan ke-8
 - [Lai Ching-te](/people/賴清德) — Presiden Republik Tiongkok (Taiwan) ke-9 penerus Tsai Ing-wen, Oktober 2025 _United Daily News_ "Komentar Berat" objek perbandingan tersembunyi
 - [PanSci 泛科學](/society/泛科學) — Sama-sama platform diskusi publik, tapi PanSci jadikan komunikasi sains jadi media pengetahuan, produk edukasi, dan ekonomi kreator campuran
 - [Toxic Potato Cognitive Warfare 毒馬鈴薯認知作戰](/society/毒馬鈴薯認知作戰) — Salah satu tema perang informasi Tiongkok yang terus dibahas kolom Geopolitik Ekonomi Forum Think
-- [Psychological Warfare 心戰](/history/心戰) — Isu silang kolom Kebijakan Pemikiran/Keamanan Forum Think
+- [Psychological Warfare 心戰](/id/history/psychological-warfare) — Isu silang kolom Kebijakan Pemikiran/Keamanan Forum Think
 
 ## Referensi
 

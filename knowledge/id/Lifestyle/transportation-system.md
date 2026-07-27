@@ -149,8 +149,8 @@ Cerita pelayaran lebih dramatis. Dari tahun 1980-an hingga 2000-an, Pelabuhan Ka
 **Bacaan Lanjutan:**
 
 - [Sistem Bus di Taiwan](/lifestyle/台灣的公車系統) — Bagaimana orang tanpa "kemudi" di pulau sepeda motor bergerak, dan kisah sistem ini mulai goyah di daerah pedesaan
-- [Budaya Toko Kelontong di Taiwan](/lifestyle/台灣便利商店文化) — Infrastruktur dasar lain yang beroperasi 24 jam seperti sistem transportasi
-- [Budaya Sepeda Motor di Taiwan](/lifestyle/台灣機車文化) — Desain kota, politik kelas, dan perang hak jalan di balik 14 juta sepeda motor
+- [Budaya Toko Kelontong di Taiwan](/id/lifestyle/convenience-store-culture) — Infrastruktur dasar lain yang beroperasi 24 jam seperti sistem transportasi
+- [Budaya Sepeda Motor di Taiwan](/id/lifestyle/taiwan-scooter-culture) — Desain kota, politik kelas, dan perang hak jalan di balik 14 juta sepeda motor
 - [Perkembangan Rantai Pasok Kendaraan Listrik di Taiwan](/technology/台灣電動車產業鏈發展) — Peran Taiwan dalam rantai pasok kendaraan listrik global selain Gogoro
 - [Karakteristik Geografis dan Pembentukan Pulau Taiwan](/geography/台灣島嶼地理特色與形成) — Pegunungan Tengah, pembelahan timur-barat, dan asal mula geologi lempeng
 

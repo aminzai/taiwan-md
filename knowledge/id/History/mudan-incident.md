@@ -97,7 +97,7 @@ Saat memasuki medan perang kuno Shimen hari ini, lembah tersebut masih terlihat 
 
 - [Insiden Kapal Luofang dan Pertemuan dengan Zhang Qidu](/history/羅發號事件與卓杞篤) — Satu lagi insiden kecelakaan laut dan benturan kedaulatan
 - [Periode Pemerintahan Dinasti Qing](/history/清治時期) — Titik balik tata kelola sebelum dan sesudah Kaishan Fuban
-- [Charles Le Gendre](/people/李仙得) — Penasihat Amerika di balik layar insiden
+- [Charles Le Gendre](/id/people/charles-le-gendre) — Penasihat Amerika di balik layar insiden
 
 ## Referensi
 

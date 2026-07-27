@@ -228,9 +228,9 @@ Bagaimana menciptakan lingkungan belajar yang lebih manusiawi sambil mempertahan
 
 **Bacaan Lanjutan:**
 
-- [Pendidikan Daerah Terpencil Taiwan](/society/台灣偏鄉教育) — Jika Anda ingin melihat ketidaksetaraan pendidikan secara keseluruhan dari anak, sekolah, komunitas keluarga hingga imajinasi kesuksesan sosial, ini adalah panorama yang lebih besar.
+- [Pendidikan Daerah Terpencil Taiwan](/id/society/taiwan-rural-education) — Jika Anda ingin melihat ketidaksetaraan pendidikan secara keseluruhan dari anak, sekolah, komunitas keluarga hingga imajinasi kesuksesan sosial, ini adalah panorama yang lebih besar.
 - [Mengajar untuk Taiwan TFT](/society/為台灣而教TFT) — Artikel ini berfokus pada organisasi yang secara praktis merespons kesenjangan pendidikan daerah terpencil, melengkapi konteks aktor dan kontroversi.
-- [Krisis Penurunan Angka Kelahiran Taiwan](/society/台灣少子化危機) — Di luar sistem penerimaan dan budaya kompetisi, penurunan angka kelahiran juga sedang menulis ulang kelangsungan hidup sekolah dan alokasi sumber daya pendidikan.
+- [Krisis Penurunan Angka Kelahiran Taiwan](/id/society/taiwan-low-birth-rate-crisis) — Di luar sistem penerimaan dan budaya kompetisi, penurunan angka kelahiran juga sedang menulis ulang kelangsungan hidup sekolah dan alokasi sumber daya pendidikan.
 - [Sekolah Campuran](/society/雜學校) — Karnaval pendidikan alternatif yang tumbuh setelah Gerakan Bunga 318, adalah lapangan konkret dari imajinasi di luar sistem di luar dariisme penerimaan.
 - [Ekspansi dan Penutupan Pendidikan Tinggi Taiwan](/society/台灣高等教育擴張與退場) — Pendirian universitas secara luas ingin melonggarkan pintu sempit penerimaan; konsekuensi 30 tahun kemudian: gelombang peningkatan, devaluasi gelar, dan tagihan penutupan.
 

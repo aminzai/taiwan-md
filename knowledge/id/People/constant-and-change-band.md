@@ -114,7 +114,7 @@ Dan jalur Lini Tidur Bulan di pegunungan Alishan, dalam lagu mereka, masih terus
 - [No Party for//\_](/people/草東沒有派對) — Band independen yang bangkit pada 2016, menulis tentang kemarahan saat baru masuk ke dunia kerja; KST menulis tentang keterpurukan sepuluh tahun kemudian—dua tahap dari satu generasi.
 - [Wei Ru-xuan](/people/魏如萱) — Juga bagian dari ekosistem musik independen 2010-an, penyanyi wanita yang mengambil jalur vokal bukan post-rock.
 - [Cicada](/people/Cicera) — Mengambil jalan post-rock murni instrumen tanpa vokal, membentuk kontras dengan "post-rock + vokal" milik KST.
-- [Lu Guang-zhong](/people/盧廣仲) — Jalur lain dalam musik independen: penyanyi tipe karya yang melintasi berbagai genre dan memenangkan tiga penghargaan utama.
+- [Lu Guang-zhong](/id/people/crowd-lu-indie-folk-treasure) — Jalur lain dalam musik independen: penyanyi tipe karya yang melintasi berbagai genre dan memenangkan tiga penghargaan utama.
 - [Golden Melody Awards](/music/金曲獎) — Panggung di mana KST masuk nominasi Best Band pada Golden Melody Awards ke-32.
 - [Musik Independen Taiwan](/music/台灣獨立音樂) — Silsilah generasi musik independen dari Natural Curl hingga KST, No Party for//\_ dan Gao Wu Ren.
 - [Musik Pop Taiwan](/music/台灣流行音樂) — Lingkungan industri musik pop Mandarin.

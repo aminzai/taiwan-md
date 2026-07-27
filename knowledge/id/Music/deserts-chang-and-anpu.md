@@ -170,9 +170,9 @@ Mungkin putrinya juga mempelajari hal yang sama dari sang ayah. Hanya saja, jawa
 ## Bacaan lanjutan
 
 - [Musik independen Taiwan](/music/台灣獨立音樂/) — Skena musik independen tempat Deserts Chang berkarya
-- [Sejarah perkembangan musik rock Taiwan](/music/台灣搖滾樂發展史/) — Dari era pelarangan lagu hingga Hohaiyan Rock Festival
+- [Sejarah perkembangan musik rock Taiwan](/id/music/taiwan-rock-from-underground-to-mainstream/) — Dari era pelarangan lagu hingga Hohaiyan Rock Festival
 - [Gerakan Mahasiswa Bunga Matahari](/society/太陽花學運/) — Setelah 30 detik yang mengubah Taiwan pada 2014
-- [Budaya festival musik Taiwan](/music/台灣音樂祭文化/) — Dari Gongliao hingga Takao Rock Festival
+- [Budaya festival musik Taiwan](/id/music/taiwan-music-festival-culture/) — Dari Gongliao hingga Takao Rock Festival
 - [Rainie Yang](/people/楊丞琳) — Perjalanan 25 tahun penyanyi perempuan berbahasa Mandarin dalam bentuk lain, dari sosok yang dibentuk produser menjadi produser mandiri; versi segenerasi yang dapat dibandingkan dengan perubahan Anpu “dari penyanyi remaja menjadi pencipta karya seutuhnya”
 
 ## Referensi

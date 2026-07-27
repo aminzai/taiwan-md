@@ -134,7 +134,7 @@ Lebih penting, semangat Tai Tzu-ying — tak pernah menyerah, terus maju, rendah
 - [Kuo Hsing-chun](/people/郭婞淳) — Emas angkat besi Olimpiade Tokyo, sama-sama inti continggen Taiwan atlet Amis
 - [Lee Yang](/people/李洋) — Sama-sama atlet asrama Pusat Latihan Nasional, emas ganda Tokyo/Paris jadi Menteri Olahraga pertama
 - [Wang Chi-lin dan Lee Yang (Pasangan Lin-Yang)](/people/麟洋配) — Pasangan ganda putri pertama non-bibit juara Olimpiade dua kali berturut-turut
-- [Chou Tzu-yu](/people/周子瑜) — Gadisan Tainan usia 13 tahun pergi jauh mengejar mimpi, ikonik generasi yang sama
+- [Chou Tzu-yu](/id/people/tzuyu) — Gadisan Tainan usia 13 tahun pergi jauh mengejar mimpi, ikonik generasi yang sama
 
 ## Referensi
 

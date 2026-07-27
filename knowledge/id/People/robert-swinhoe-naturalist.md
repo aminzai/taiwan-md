@@ -120,11 +120,11 @@ Burung itu hingga kini masih bernyanyi di gunung-gunung Taiwan. Ia tidak tahu na
 
 **Baca Lebih Lanjut**:
 
-- [Ornitologi Formosa](/nature/福爾摩沙鳥類學) — Kajian mendalam _The Ornithology of Formosa_ Swinhoe 1863: 201 nama Latin, 30 pemburu, dan Pegunungan Tengah yang tidak pernah ia tapak
+- [Ornitologi Formosa](/id/nature/the-ornithology-of-formosa) — Kajian mendalam _The Ornithology of Formosa_ Swinhoe 1863: 201 nama Latin, 30 pemburu, dan Pegunungan Tengah yang tidak pernah ia tapak
 - [Masa Pemerintahan Qing](/history/清治時期) — Latar masa Swinhoe tiba Taiwan: pembukaan pelabuhan, sengketa kayu kaya, Formosa di sela kekaisaran
 - [Spesies Endemik Taiwan](/nature/特有種) — Di antara spesies yang dicatat Swinhoe, banyak kemudian dikonfirmasi sebagai spesies endemik (特有種) Taiwan
-- [Elang Biru Taiwan](/nature/台灣藍鵲) — Spesimen dikumpulkan Swinhoe 1862, 2007 juara pemilihan burung nasional
-- [George Leslie Mackay](/people/李仙得) — Diplomatik asing kontemporer lain yang meninggalkan jejak mendalam di Formosa, tapi motivasi sangat berbeda
+- [Elang Biru Taiwan](/id/nature/taiwan-blue-magpie) — Spesimen dikumpulkan Swinhoe 1862, 2007 juara pemilihan burung nasional
+- [George Leslie Mackay](/id/people/charles-le-gendre) — Diplomatik asing kontemporer lain yang meninggalkan jejak mendalam di Formosa, tapi motivasi sangat berbeda
 - [Perang Kayu Kaya Abad ke-19](/history/19世紀的樟腦戰爭) — Artikel Swinhoe 1864 "Formosa Camphor" adalah pra-sejarah perang ini: selisih harga 6/16/28, hadiah dapat izin tebang, produksi tahunan Tamsui 6.000 擔
 
 ## Referensi

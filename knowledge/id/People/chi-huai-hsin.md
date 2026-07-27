@@ -228,11 +228,11 @@ Seorang anak Tamsui, ~15 tahun ikut ibu ke Minnesota, saat bantu ibu nulis tesis
 
 ## Bacaan Lanjutan
 
-- [Jensen Huang (黃仁勳)](/people/黃仁勳) — Taiwan yang gemilang bikin AI lebih cepat, sisi hardware
+- [Jensen Huang (黃仁勳)](/id/people/jensen-huang) — Taiwan yang gemilang bikin AI lebih cepat, sisi hardware
 - [Morris Chang (張忠謀)](/people/張忠謀) — Pendiri setengah konduktor Taiwan, "gunung yang posisi sulit digoyang" di mulut Ed Chi
 - [Industri AI (AI人工智慧產業)](/technology/AI人工智慧產業) — Posisi Taiwan di rantai pasok AI global
 - [Pengembangan AI Taiwan & Strategi Masa Depan (台灣人工智慧發展與未來策略)](/technology/台灣人工智慧發展與未來策略) — Peta keseluruhan AI Taiwan
-- [AI Sehari-hari Taiwan (台灣AI日常)](/technology/台灣AI日常) — AI sudah masuk kehidupan orang Taiwan seperti apa
+- [AI Sehari-hari Taiwan (台灣AI日常)](/id/technology/taiwan-ai-in-daily-life) — AI sudah masuk kehidupan orang Taiwan seperti apa
 
 ## Referensi
 

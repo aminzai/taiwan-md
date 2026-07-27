@@ -63,7 +63,7 @@ Kini, anak sulung Chuang Chi-hsiung pada 2 Mei 2015 resmi mendirikan "Yayasan Am
 
 ## Bacaan Lanjutan
 
-- [Budaya Relawan Taiwan dan Partisipasi Amal](/society/台灣志工文化與公益參與) — Memahami konteks jangka panjang amal sosial Taiwan dari sistem dan aksi sipil.
+- [Budaya Relawan Taiwan dan Partisipasi Amal](/id/society/volunteering-and-civic-charity-in-taiwan) — Memahami konteks jangka panjang amal sosial Taiwan dari sistem dan aksi sipil.
 - [Masakan Banten Taiwan](/food/台灣眷村菜) — Membandingkan bagaimana makanan rakyat biasa terbentuk dalam perpindahan, kemiskinan, dan saling tolong menolong komunitas.
 
 ## Referensi

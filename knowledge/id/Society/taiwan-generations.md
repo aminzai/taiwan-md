@@ -175,11 +175,11 @@ Orang jadi sedikit, kue tidak jadi besar, tapi gedung semakin tinggi. Topografi 
 
 **Baca Lanjutan**：
 
-- [Generasi Slash Taiwan](/society/台灣斜槓世代) — Generasi ketujuh, kedelapan di struktur gaji rendah, matematika survival satu gaji jadi tiga kerja
-- [Kebingungan Karier Muda Taiwan](/society/台灣青年的生涯迷航) — Belajar enam belas tahun, hari wisuda paling sering tanya "Aku tidak tahu mau apa"
-- [Krisis Kelahiran Rendah Taiwan](/society/台灣少子化危機) — Kelahiran dari 420 ribu roboh ke 160 ribu, kue gimana tiap tahun lebih kecil
-- [Spektrum Unifikasi-Kemerdekaan Taiwan](/society/台灣統獨光譜) — Panorama garis pembagi identitas, dari "Aku siapa" ke "Mau ke mana"
-- [Wretch](/culture/無名小站) — Server digital masa muda generasi ketujuh, 2013 tutup, 2025 di Threads muncul lagi
+- [Generasi Slash Taiwan](/id/society/taiwan-slash-generation-multi-job-economy) — Generasi ketujuh, kedelapan di struktur gaji rendah, matematika survival satu gaji jadi tiga kerja
+- [Kebingungan Karier Muda Taiwan](/id/society/taiwan-youth-career-confusion) — Belajar enam belas tahun, hari wisuda paling sering tanya "Aku tidak tahu mau apa"
+- [Krisis Kelahiran Rendah Taiwan](/id/society/taiwan-low-birth-rate-crisis) — Kelahiran dari 420 ribu roboh ke 160 ribu, kue gimana tiap tahun lebih kecil
+- [Spektrum Unifikasi-Kemerdekaan Taiwan](/id/society/taiwan-unification-independence-spectrum) — Panorama garis pembagi identitas, dari "Aku siapa" ke "Mau ke mana"
+- [Wretch](/id/culture/wretch) — Server digital masa muda generasi ketujuh, 2013 tutup, 2025 di Threads muncul lagi
 
 ## Sumber Gambar
 

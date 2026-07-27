@@ -116,7 +116,7 @@ Saat ini tidak ada lagi orang yang menganggapnya sebagai "milik Tiongkok daratan
 
 - [Masakan Kampung Taiwan](/food/台灣眷村菜) — Sama seperti memori kuliner yang dibawa oleh banyak imigran setelah tahun 1949, masakan kampung berbagi asal yang sama dengan minuman Shaoxing Puli: sebuah pelarian yang membawa kenangan dapur.
 - [Budaya Makanan Fermentasi dan Pengawetan Taiwan](/food/台灣發酵食品與醃製文化) — Dari tahu fermentasi hingga kecap asin, spektrum teknologi pangan fermentasi di Taiwan menjadikan minuman Shaoxing sebagai salah satu varian dengan latar belakang politik paling kuat.
-- [Budaya Makanan Berbasis Beras Taiwan](/food/台灣米食文化) — Beras ketan adalah bahan dasar utama minuman Shaong; budaya makanan beras memberikan konteks lengkap untuk memahami transisi minuman ini dari pertanian ke industri, lalu ke pariwisata.
+- [Budaya Makanan Berbasis Beras Taiwan](/id/food/taiwan-rice-cuisine-culture) — Beras ketan adalah bahan dasar utama minuman Shaong; budaya makanan beras memberikan konteks lengkap untuk memahami transisi minuman ini dari pertanian ke industri, lalu ke pariwisata.
 
 ## Referensi
 

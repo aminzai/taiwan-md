@@ -121,7 +121,7 @@ Dari pemain piano pendamping pemalu 1997, ke Raja Pop Mandarin 2026, yang dilalu
 
 **Baca Lanjutan**：
 
-- [Tzuyu (周子瑜)](/people/周子瑜) — Nama dengan pengikut IG kedua terbanyak di Taiwan, hanya kalah dari Jay Chou
+- [Tzuyu (周子瑜)](/id/people/tzuyu) — Nama dengan pengikut IG kedua terbanyak di Taiwan, hanya kalah dari Jay Chou
 - [Musik Pop Taiwan](/music/台灣流行音樂) — Seluruh ekologi industri dan pergantian generasi tempat Jay Chou berada
 - [Stefanie Sun (孫燕姿)](/people/孫燕姿/) — Nominasi Best New Artist Golden Melody ke-12 bersamaan, kalah 1 suara, mendefinisikan dua jalur musik paralel 2000-an
 - [Chia Yung-chieh (賈永婕)](/people/賈永婕) — Jalur Taiwan lain yang juga mengubah identitas artis jadi pengaruh lintas bidang (hiburan→brand gaun pengantin→mobilisasi publik→tata kelola BUMN), dibandingkan jalur industri budaya Jay Chou

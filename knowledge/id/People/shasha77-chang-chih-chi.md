@@ -62,9 +62,9 @@ Bagi Zhang Zhiqi, kewirausahaan dan pengelolaan saluran adalah proses trial-and-
 
 ## Bacaan Lanjutan
 
-- **[A-Di](/people/%E9%98%BF%E6%BB%B4/)**: Co-pendiri Asosiasi Pencipta Audio-Video Media Baru Taiwan, keduanya adalah YouTuber berbasis pengetahuan dari generasi "Lizhangbo" (Kepala Desa).
-- **[Ba Jiong](/people/%E5%85%AB%E7%82%AF/)**: Juga berfokus pada komentar berita terkini, tetapi menggunakan strategi media mandiri lain dengan jalur "perang psikologis sarkastik".
-- **[Transisi Demokrasi Taiwan](/history/%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%E8%BD%89%E5%9E%8B/)**: Konteks evolusi diskusi publik Taiwan di balik gaya kurasi "perbandingan perspektif" Zhang Zhiqi.
+- **[A-Di](/id/people/ray-du-english-youtuber/)**: Co-pendiri Asosiasi Pencipta Audio-Video Media Baru Taiwan, keduanya adalah YouTuber berbasis pengetahuan dari generasi "Lizhangbo" (Kepala Desa).
+- **[Ba Jiong](/id/people/pa-chiung-political-youtuber/)**: Juga berfokus pada komentar berita terkini, tetapi menggunakan strategi media mandiri lain dengan jalur "perang psikologis sarkastik".
+- **[Transisi Demokrasi Taiwan](/id/history/taiwan-democratization/)**: Konteks evolusi diskusi publik Taiwan di balik gaya kurasi "perbandingan perspektif" Zhang Zhiqi.
 
 ---
 

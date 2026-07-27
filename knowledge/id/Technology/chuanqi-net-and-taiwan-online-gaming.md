@@ -132,7 +132,7 @@ Orang yang pernah rugi empat miliar mengatakan kalimat ini, setiap kata memiliki
 
 - [Industri Game Taiwan dan Hiburan Digital](/technology/台灣遊戲產業與數位娛樂) — Penuh panorama game Taiwan dari agen ke orisinal
 - [Dua Pedang Da Yu](/technology/大宇雙劍) — Inspirasi emosional RPG Taiwan tunggal, era sebelum X-Legend
-- [Bagaimana Bisa Tidur Tanpa Masuk Ruang Bawah Tanah](/technology/不入地窖焉能睡覺) — Tiga puluh tahun komunitas game Taiwan
+- [Bagaimana Bisa Tidur Tanpa Masuk Ruang Bawah Tanah](/id/technology/into-the-cellar-taiwan-game-podcast) — Tiga puluh tahun komunitas game Taiwan
 
 ---
 

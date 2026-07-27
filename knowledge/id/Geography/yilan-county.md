@@ -245,11 +245,11 @@ Kunjungi Yilan berikutnya, jangan hanya ke air panas Jiaoxi, jangan hanya lihat 
 ## Bacaan Lanjutan
 
 - [Pulau Guishan](/geography/龜山島) — Kisah sendiri "koordinat tetap" di luar laut Dataran Lanyang: gunung berapi aktif, desa pindah tanpa kompensasi, 22 tahun zona militer terlarang, dan rumah warga pulau yang tidak bisa kembali
-- [Pembagian Administratif Taiwan](/geography/台灣行政區劃) — 1812 Kantor Galmalang dibentuk, 1875 diubah nama menjadi Kabupaten Yilan, 1895 perkembangan administratif sistem kolonial Jepang
+- [Pembagian Administratif Taiwan](/id/geography/administrative-divisions-of-taiwan) — 1812 Kantor Galmalang dibentuk, 1875 diubah nama menjadi Kabupaten Yilan, 1895 perkembangan administratif sistem kolonial Jepang
 - [Topografi Pantai Taiwan dan Lanskap Laut](/geography/台灣海岸地形與海洋地景) — Pulau gunung Guishan, kipas alluvial Sungai Lanyang, konteks geologi zona pantai Su-Hua
 - [Lanskap Pertanian Taiwan dan Distribusi Industri](/geography/台灣農業地景與產業分布) — Fragmentasi lahan pertanian Dataran Lanyang dalam lanskap pertanian seluruh Taiwan
-- [Pembangunan Perkotaan Taiwan dan Kesenjangan Kota-Desa](/geography/台灣都市發展與城鄉差距) — Efek kota satelit Yilan dimasukkan ke dalam kehidupan sehari-hari Taipei setelah Terowungan Xueshan dibuka
-- [Lanskap Air Panas Taiwan](/geography/台灣溫泉地景) — Posisi khusus air panas Jiaoxi dalam geografi air panas Taiwan
+- [Pembangunan Perkotaan Taiwan dan Kesenjangan Kota-Desa](/id/geography/taiwan-urban-development-and-rural-urban-divide) — Efek kota satelit Yilan dimasukkan ke dalam kehidupan sehari-hari Taipei setelah Terowungan Xueshan dibuka
+- [Lanskap Air Panas Taiwan](/id/geography/taiwan-hot-springs-landscape) — Posisi khusus air panas Jiaoxi dalam geografi air panas Taiwan
 - [Kota Keelung](/geography/基隆市) — Artikel seri 22 Kabupaten同期, bersama Yilan adalah "dilihat tidak oleh Taipei" kabupaten timur laut
 
 ## Sumber Gambar

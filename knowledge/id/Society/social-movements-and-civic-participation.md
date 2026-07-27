@@ -227,7 +227,7 @@ Di layar pemungutan suara tengah malam, kata "Tidak Lulus" menyala satu per satu
 - [Politik dan Sistem Pemilihan Taiwan](/history/Taiwan-election-and-party-politics) — Dari insiden Zhongli hingga koalisi tiga partai, evolusi jangka panjang sistem pemilihan dan budaya pemungutan suara di Taiwan.
 - [Demokratisasi](/history/democratization) — Perjalanan generasi tersebut dari masa darurat menuju pemilihan langsung sebelum hak pemecatan dimasukkan ke dalam rutinitas konstitusional.
 - [Transisi Demokrasi Taiwan](/history/Taiwan-democracy-transition) — Bagaimana kekuasaan otoriter diserahkan kembali kepada rakyat selangkah demi selangkah.
-- [Gerakan Sipil dan Partisipasi Masyarakat](/society/social-movements-and-civic-participation) — Dari Bunga Matahari hingga Burung Biru, silsilah mobilisasi generasi di jalanan.
+- [Gerakan Sipil dan Partisipasi Masyarakat](/id/society/social-movements-and-civic-participation) — Dari Bunga Matahari hingga Burung Biru, silsilah mobilisasi generasi di jalanan.
 - [Lingkungan Politik dan Sistem Pemilihan Taiwan](/society/Taiwan-political-environment-and-election-system) — Kedalaman sistemik dari desain sistem pemilihan dan pemecatan.
 
 ## Sumber Gambar

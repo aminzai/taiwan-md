@@ -121,8 +121,8 @@ Francia mendapatkan Vietnam. Pengadilan Qing mempertahankan Taiwan. 600 prajurit
 
 - [清治時期](/history/清治時期) — Latar masa Perang Sino-Prancis: buka pelabuhan perdagangan, gambaran penuh kekuatan asing masuk Formosa
 - [台灣鐵道史](/history/台灣鐵道史) — Kereta api Keelung-Hsinchu dibangun Liu Ming-chuan pasca perang, titik awal sejarah kereta api Taiwan
-- [李仙得](/people/李仙得) — Diplomat asing lain masa sama meninggalkan jejak di Formosa, intelijennya nanti dipakai Jepang untuk invasi Taiwan
-- [史溫侯](/people/史溫侯) — Dua puluh tahun sebelum Perang Sino-Prancis, Konsul Inggris pertama di Taiwan di tanah sama melakukan hal benar-benar berbeda
+- [李仙得](/id/people/charles-le-gendre) — Diplomat asing lain masa sama meninggalkan jejak di Formosa, intelijennya nanti dipakai Jepang untuk invasi Taiwan
+- [史溫侯](/id/people/robert-swinhoe-naturalist) — Dua puluh tahun sebelum Perang Sino-Prancis, Konsul Inggris pertama di Taiwan di tanah sama melakukan hal benar-benar berbeda
 
 ## Referensi
 

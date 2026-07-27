@@ -262,17 +262,17 @@ Gunung Suci Pelindung menguasai sekarang dengan pengalaman 50 tahun. 50 tahun be
 
 **Bacaan Lanjutan**:
 
-- [Perusahaan Taiwan: TSMC](/economy/台灣企業：台積電) — Tata kelola perusahaan, struktur keuangan, skala pengeluaran modal Gunung Suci Pelindung
-- [Perusahaan Taiwan: MediaTek](/economy/台灣企業：聯發科技) — Bagaimana pemimpin desain IC menempati posisi di chip ponsel, komputasi tepi AI
+- [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Tata kelola perusahaan, struktur keuangan, skala pengeluaran modal Gunung Suci Pelindung
+- [Perusahaan Taiwan: MediaTek](/id/economy/mediatek) — Bagaimana pemimpin desain IC menempati posisi di chip ponsel, komputasi tepi AI
 - [Perusahaan Taiwan: ASE Group](/economy/台灣企業：日月光半導體) — Top dunia industri paket dan pengujian, ekosistem tahap akhir di luar CoWoS
-- [Pembuat Gunung: Taruhan Abad](/art/造山者世紀的賭注) — Dokumenter 2025 Xiao Ju-zhen, wawancara 5 tahun 80+ senior semikonduktor, 2026 masuk tiga pusat investasi CHIPS Act Purdue/Wisconsin/Michigan
+- [Pembuat Gunung: Taruhan Abad](/id/art/mountain-makers-tsmc-documentary) — Dokumenter 2025 Xiao Ju-zhen, wawancara 5 tahun 80+ senior semikonduktor, 2026 masuk tiga pusat investasi CHIPS Act Purdue/Wisconsin/Michigan
 - [Wu Da-you](/people/吳大猷) — Taiwan merakit semikonduktor 1980-an, menjabat sebagai Presiden IAS, menekankan pentingnya sains dasar, meletakkan fondasi sistem penelitian Taiwan
 - [Industri Robot Taiwan](/technology/台灣機器人產業) — Pulau pertama semikonduktor dunia, mengapa di era robot adalah siswa pengulang? Melihat kesenjangan industri dari pembukaan NCAIR
 - [Pasar Saham dan Modal Taiwan](/economy/台灣股市與資本市場) — Bagaimana seluruh ekosistem rantai pasok yang menopang status Taiwan sebagai pasar saham ke-6 terbesar dunia 2026 ditampilkan di pasar modal
 - [Rantai Pasok Tungsten Taiwan](/technology/台灣鎢供應鏈) — Wolfram heksafluorida mengisi jendela kontak dan garis karakter 3D NAND, Taiwan tidak memiliki tambang tungsten tetapi berdiri di tengah rantai material ini melalui daur ulang dan pemurnian
-- [Sekolah AI Taiwan](/technology/台灣人工智慧學校) — Bagaimana 10.000 insinyur AI yang dilatih AIA selama 8 tahun kembali ke rantai ICT semikonduktor yang ada, memperkuat sisi perangkat lunak Taiwan
+- [Sekolah AI Taiwan](/id/technology/taiwan-ai-academy) — Bagaimana 10.000 insinyur AI yang dilatih AIA selama 8 tahun kembali ke rantai ICT semikonduktor yang ada, memperkuat sisi perangkat lunak Taiwan
 - [Computex: Tiga Pameran Komputer Internasional Menutup Dua, Sisa Satu Tumbuh di Taipei](/technology/Computex) — CoWoS TSMC dan proses manufaktur canggih, setiap akhir Mei berjabat tangan dengan raksasa AI global di pameran komputer Taipei 45 tahun ini
-- [Taman Sains Taiwan](/technology/科技園區發展) — Tiga taman Zhubei, Nanke, Zhongke,载体 fisik klaster semikonduktor, juga pusat geografis Perisai Silikon
+- [Taman Sains Taiwan](/id/technology/science-park-development) — Tiga taman Zhubei, Nanke, Zhongke,载体 fisik klaster semikonduktor, juga pusat geografis Perisai Silikon
 
 ## Sumber Gambar
 

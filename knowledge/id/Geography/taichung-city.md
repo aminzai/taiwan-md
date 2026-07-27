@@ -218,7 +218,7 @@ Keesokan kali Anda melewati Taichung, jangan hanya pergi ke toko biskut matahari
 
 ## Bacaan Lanjutan
 
-- [Industri Manufaktur Instrumen Musik Taiwan: Taiwan yang Berjalan dalam Nada Musik Dunia](/music/台灣樂器製造) — Kluster saksofon Houlì dan Loncang Musik Wufeng adalah presisi dan geografi musik di luar industri Taichung
+- [Industri Manufaktur Instrumen Musik Taiwan: Taiwan yang Berjalan dalam Nada Musik Dunia](/id/music/taiwan-instrument-making-from-houli-saxophones-to-global-music-factories) — Kluster saksofon Houlì dan Loncang Musik Wufeng adalah presisi dan geografi musik di luar industri Taichung
 
 - [Kota Keelung](/geography/基隆市) — Pilot Seri 22 Kota dan Kabupaten: dari Pelabuhan Kontainer Kedelapan Dunia Ketujuh 1984 turun ke Pelabuhan Ke-113 2018, sama seperti Taichung adalah "status administratif pernah terlihat kemudian diubah" kabupaten/kota
 - [Kabupaten Nantou](/geography/南投縣) — Batch 3 Saudara Seri 22 Kota dan Kabupaten: satu-satunya kabupaten yang tidak bergantung pada laut, episentrum 921 ada di tengahnya, berbagi luka Sesar Che Longpu dengan Taichung
@@ -226,8 +226,8 @@ Keesokan kali Anda melewati Taichung, jangan hanya pergi ke toko biskut matahari
 - [Kabupaten Yunlin](/geography/雲林縣) — Batch 4 Saudara Seri 22 Kota dan Kabupaten: Pawai Mazu Dajia melewati Xiluo, Huwei, Tukou, sama seperti Taichung adalah bagian tengah rute Mazu ini
 - [Kota Chiayi](/geography/嘉義市) — Batch 2 Saudara Seri 22 Kota dan Kabupaten: Xin Gang tujuan akhir Pawai Mazu Dajia ada di Kabupaten Chiayi, sama seperti Taichung adalah dua ujung rute keagamaan 340 kilometer ini
 - [Kabupaten Miaoli](/geography/苗栗縣) — Batch 1 Saudara Seri 22 Kota dan Kabupaten: kabupaten utara berbatasan, keras dan beban utang kabupaten pedalaman, sama seperti Taichung Garis Pantai Qingshui, Pegunungan Dongshi membentuk peta Hakka daerah tengah
-- [Pembagian Administratif Taiwan](/geography/台灣行政區劃) — 1887 mendirikan Prefektur Taiwan di Taichung, 1920 mendirikan Prefektur Taichung, 1945 memisahkan kota dan kabupaten, 2010 menggabungkan kota dan kabupaten ditingkatkan menjadi kota langsung, evolusi sistem lengkap
-- [Karakteristik Kota dan Budaya Regional](/geography/城市特色與區域文化) — Taichung sebagai hub kehidupan daerah tengah konteks perbandingan lintas-kabupaten
+- [Pembagian Administratif Taiwan](/id/geography/administrative-divisions-of-taiwan) — 1887 mendirikan Prefektur Taiwan di Taichung, 1920 mendirikan Prefektur Taichung, 1945 memisahkan kota dan kabupaten, 2010 menggabungkan kota dan kabupaten ditingkatkan menjadi kota langsung, evolusi sistem lengkap
+- [Karakteristik Kota dan Budaya Regional](/id/geography/urban-character-and-regional-culture) — Taichung sebagai hub kehidupan daerah tengah konteks perbandingan lintas-kabupaten
 
 ## Sumber Gambar
 

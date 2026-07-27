@@ -173,16 +173,16 @@ Dari surat wasiat hingga Ketua Komisi Pengawasan, empat puluh satu tahun. Itulah
 **Bacaan Lanjutan**:
 
 - [Peristiwa 28 Februari](/history/二二八事件) — Bagaimana trauma tahun 1947 menjadi titik awal kesadaran demokrasi Taiwan
-- [Teror Putih Taiwan](/history/台灣白色恐怖) — Gambaran lengkap kasus politik dan pelanggaran hak asasi manusia selama tiga puluh delapan tahun martial law
-- [Era Martial Law](/history/戒嚴時期) — Dasar hukum perintah martial law terpanjang di dunia dan mekanisme kontrol sosial
+- [Teror Putih Taiwan](/id/history/taiwan-white-terror) — Gambaran lengkap kasus politik dan pelanggaran hak asasi manusia selama tiga puluh delapan tahun martial law
+- [Era Martial Law](/id/history/martial-law-era) — Dasar hukum perintah martial law terpanjang di dunia dan mekanisme kontrol sosial
 - [Peristiwa Mei Li Tao](/history/美麗島事件) — Kronologi lengkap peristiwa Kaohsiung 1979 dan dampak sejarahnya
 - [Pemilihan dan Politik Partai di Taiwan](/history/台灣選舉與政黨政治) — Evolusi sistem pemilihan dari National Assembly Abadi hingga empat kali pergantian partai
 - [Deklarasi Masa Depan Taiwan](/history/臺灣前途決議文) — Pada tahun 1999, DPP menyelesaikan transformasi jalur politik dengan dokumen yang penuh ambiguitas, membuka pintu untuk pergantian partai pertama tahun 2000
-- [Keadilan Transisional Taiwan](/history/台灣轉型正義) — Bagaimana masyarakat menghadapi trauma sejarah dari era otoriter setelah demokratisasi
-- [Gerakan Pemanggilan Massal Besar](/history/大罷免) — Gelombang pemanggilan massal terbesar dalam sejarah di mana 33 kasus dalam tiga gelombang pemungutan suara semuanya gagal, mengukur batas dan biaya alat hak rakyat langsung pasca-demokratisasi
+- [Keadilan Transisional Taiwan](/id/history/taiwan-transitional-justice) — Bagaimana masyarakat menghadapi trauma sejarah dari era otoriter setelah demokratisasi
+- [Gerakan Pemanggilan Massal Besar](/id/society/social-movements-and-civic-participation) — Gelombang pemanggilan massal terbesar dalam sejarah di mana 33 kasus dalam tiga gelombang pemungutan suara semuanya gagal, mengukur batas dan biaya alat hak rakyat langsung pasca-demokratisasi
 - [Gerakan Bunga Matahari](/society/太陽花學運) — Kronologi lengkap pendudukan legislatif tahun 2014, dari terobosan tiga puluh detik hingga dekontekstualisasi ekonomi dari Tiongkok dua belas tahun kemudian
 - [Pertemuan Zheng-Xi 2026: Sepuluh Menit Pertemuan Kembali Pemimpin Partai Komunis dan Kuomintang Sepuluh Tahun](/society/2026鄭習會與國共十年再會) — Mengapa AIT menekankan "berdialog dengan lapisan kepemimpinan terpilih"? Fondasi prinsip ini terletak pada sejarah demokratisasi ini
-- [Chou Tzu-yu](/people/周子瑜) — Video permintaan maaf 90 detik pada malam sebelum pemilihan umum 2016 adalah beban terberat bagi pergantian partai ketiga Taiwan
+- [Chou Tzu-yu](/id/people/tzuyu) — Video permintaan maaf 90 detik pada malam sebelum pemilihan umum 2016 adalah beban terberat bagi pergantian partai ketiga Taiwan
 
 ## Referensi
 

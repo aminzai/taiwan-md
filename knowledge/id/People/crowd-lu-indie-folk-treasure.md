@@ -123,9 +123,9 @@ Dia terbuka bantah scalper, tambah show, posting ingatkan penggemar jadi korban.
 
 **Baca Lanjutan**:
 
-- [EggPlantEgg](/music/茄子蛋) — Band yang juga lewat kreasi Bahasa Taiwan masuk mainstream, Penyanyi Baru Terbaik Golden Melody 2019
+- [EggPlantEgg](/id/music/eggplant-egg-band) — Band yang juga lewat kreasi Bahasa Taiwan masuk mainstream, Penyanyi Baru Terbaik Golden Melody 2019
 - [Musik Indie Taiwan](/music/台灣獨立音樂) — Dari underground ke era streaming, ekosistem musik indie tempat Crowd Lu berkembang
-- [Qseries (植劇場)](/art/植劇場) — Proyek inovasi drama Wang Hsiao-ti, tempat lahir _Flower Jia Boys Growing Up_
+- [Qseries (植劇場)](/id/art/qseries-drama-platform) — Proyek inovasi drama Wang Hsiao-ti, tempat lahir _Flower Jia Boys Growing Up_
 - [Perkembangan Hip Hop dan Rap Taiwan](/music/台灣嘻哈與饒舌發展) — Jalur evolusi musik Taiwan era yang sama
 
 ## Referensi

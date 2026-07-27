@@ -151,5 +151,5 @@ Dan pada tahun itu, jawabannya mulai muncul.
 
 - [Gerakan Mahasiswa Bunga Matahari](/society/太陽花學運): Generasi mahasiswa lainnya bagaimana mengkaji ulang sistem institusi
 - [Sistem Demokrasi](/society/民主制度): Bagaimana demokrasi Taiwan dibangun secara bertahap
-- [Lingkungan Politik Taiwan dan Sistem Pemilu](/society/台灣政治環境與選舉制度): Dari Kongres Rakyat Abadi ke pemilihan umum menyeluruh
+- [Lingkungan Politik Taiwan dan Sistem Pemilu](/id/society/taiwan-political-landscape-and-electoral-system): Dari Kongres Rakyat Abadi ke pemilihan umum menyeluruh
 ```

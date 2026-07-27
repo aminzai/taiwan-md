@@ -84,7 +84,7 @@ Struk setoran saham 10 dolar saat masuk sekolah, mewakili kita pernah punya kese
 
 **Bacaan Lanjutan**:
 
-- [Budaya Minimarket Taiwan](/lifestyle/台灣便利商店文化) — Pengganti koperasi sebagai pasokan makanan kampus utama, kasus paling khas "rantai global + adaptasi lokal" di ritel Taiwan pasca pencabutan hukum darurat
+- [Budaya Minimarket Taiwan](/id/lifestyle/convenience-store-culture) — Pengganti koperasi sebagai pasokan makanan kampus utama, kasus paling khas "rantai global + adaptasi lokal" di ritel Taiwan pasca pencabutan hukum darurat
 
 ## Referensi
 

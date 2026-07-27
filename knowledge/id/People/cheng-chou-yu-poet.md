@@ -166,7 +166,7 @@ Penghargaan Sastra Muda, Penghargaan Sastra Zhongshan, Penghargaan Rekomendasi P
 ## Bacaan Lanjutan
 
 - [Puisi Modern Taiwan](/art/台灣現代詩) —— dari Aliran Modern Ji Xian, Bintang Biru, Kejadian sampai perang argumen sastra nativis, alur puisi lengkap
-- [Zhang Xuan dan An Pu](/music/張懸與安溥) —— daftar baca An Pu ada Zheng Chou-yu, berbaris Kafka, Mishima Yukio, Shen Cong-wen, Bei Dao, Eliot
+- [Zhang Xuan dan An Pu](/id/music/deserts-chang-and-anpu) —— daftar baca An Pu ada Zheng Chou-yu, berbaris Kafka, Mishima Yukio, Shen Cong-wen, Bei Dao, Eliot
 
 ## Sumber Gambar
 

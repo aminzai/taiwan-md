@@ -90,8 +90,8 @@ Alishan bukan sekadar gunung, adalah buku sejarah yang belum selesai ditulis. Pu
 
 **Baca Lebih Lanjut**:
 
-- [Sejarah Pengembangan Hutan Taiwan](/history/台灣森林開發史) — Tiga abad kebijakan kehutanan bagaimana mengubah Alishan, Taipingshan, Basianshan jadi ladang hutan empayar
-- [Teror Putih Taiwan](/history/台灣白色恐怖) — Kasus Kao I-sheng hanya bagian penyucian elit Tsou, skala kekerasan politik seluruh 1950-an
+- [Sejarah Pengembangan Hutan Taiwan](/id/history/taiwan-forestry-history) — Tiga abad kebijakan kehutanan bagaimana mengubah Alishan, Taipingshan, Basianshan jadi ladang hutan empayar
+- [Teror Putih Taiwan](/id/history/taiwan-white-terror) — Kasus Kao I-sheng hanya bagian penyucian elit Tsou, skala kekerasan politik seluruh 1950-an
 - [Sejarah dan Gerakan Penamaan Kembali Masyarakat Adat Taiwan](/history/台灣原住民族歷史與正名運動) — Tsou dan masyarakat adat lain di Taiwan pasca-perang: kondisi dan perjuangan
 - [Peristiwa 228](/history/二二八事件) — Kebajikan Kao I-sheng menampung pengungsi luar provinsi, kenapa nanti jadi dosanya
 - [Masa Pendudukan Jepang](/history/日治時期) — Sistem kehutanan empayar di balik Kawai Shotaro

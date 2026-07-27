@@ -113,8 +113,8 @@ Jenis ruang potong rambut ini sendiri adalah sebuah cermin masyarakat: dari guru
 
 ## Bacaan Lanjutan
 
-- [Budaya Motor Taiwan](/lifestyle/台灣機車文化) — Rambut A-zhi dipadukan baju ketat dan Big B (Yamaha BWS), adalah tiga item klasik jalanan Taiwan
-- [Budaya Minimarket Taiwan](/lifestyle/台灣便利商店文化) — Logika pemilihan lokasi potong cepat seratusan dan kerapatan minimarket memiliki konteks yang sama
+- [Budaya Motor Taiwan](/id/lifestyle/taiwan-scooter-culture) — Rambut A-zhi dipadukan baju ketat dan Big B (Yamaha BWS), adalah tiga item klasik jalanan Taiwan
+- [Budaya Minimarket Taiwan](/id/lifestyle/convenience-store-culture) — Logika pemilihan lokasi potong cepat seratusan dan kerapatan minimarket memiliki konteks yang sama
 
 ## Referensi
 

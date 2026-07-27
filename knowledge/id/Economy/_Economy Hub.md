@@ -27,7 +27,7 @@ Reforma agraria menjadi langkah pertama. Tiga tahap reformasi—“pengurangan s
 
 📖 Bacaan lanjutan: [Pertanian Taiwan dan revitalisasi perdesaan](/economy/台灣農業與農村再生)
 
-Strategi industrialisasi berorientasi ekspor yang dimulai pada 1960-an merupakan keputusan penting yang mendorong lepas landasnya [keajaiban ekonomi](/economy/經濟奇蹟) Taiwan. Pemerintah mendirikan kawasan pemrosesan ekspor, mendatangkan modal serta teknologi asing, dan memanfaatkan tenaga kerja yang melimpah dan murah untuk mengembangkan industri ringan. Dari tekstil dan plastik hingga perakitan elektronik, label “Made in Taiwan” mulai bermunculan di toko-toko di seluruh dunia. Pada 1970-an, Taiwan telah bertransformasi dari masyarakat agraris menjadi masyarakat industri. Rampungnya Sepuluh Proyek Pembangunan Besar semakin memperkokoh infrastruktur yang menopang perkembangan ekonomi.
+Strategi industrialisasi berorientasi ekspor yang dimulai pada 1960-an merupakan keputusan penting yang mendorong lepas landasnya [keajaiban ekonomi](/id/economy/economic-miracle) Taiwan. Pemerintah mendirikan kawasan pemrosesan ekspor, mendatangkan modal serta teknologi asing, dan memanfaatkan tenaga kerja yang melimpah dan murah untuk mengembangkan industri ringan. Dari tekstil dan plastik hingga perakitan elektronik, label “Made in Taiwan” mulai bermunculan di toko-toko di seluruh dunia. Pada 1970-an, Taiwan telah bertransformasi dari masyarakat agraris menjadi masyarakat industri. Rampungnya Sepuluh Proyek Pembangunan Besar semakin memperkokoh infrastruktur yang menopang perkembangan ekonomi.
 
 Selama periode ini, pertumbuhan ekonomi Taiwan rata-rata mencapai 8,3%, sedangkan pendapatan per kapita melonjak dari US$146 pada 1962 menjadi US$8.000 pada 1990. Laju pertumbuhan yang belum pernah terjadi sebelumnya ini menempatkan Taiwan bersama Korea Selatan, Hong Kong, dan Singapura sebagai Empat Macan Asia (亞洲四小龍), sekaligus menjadikannya contoh klasik dalam kajian ekonomi pembangunan.
 
@@ -35,17 +35,17 @@ Selama periode ini, pertumbuhan ekonomi Taiwan rata-rata mencapai 8,3%, sedangka
 
 Pada akhir 1980-an, ketika industri manufaktur tradisional menghadapi kenaikan biaya, Taiwan mengambil keputusan strategis yang menentukan nasib ekonominya: beralih ke industri teknologi tinggi. Pendirian Taman Sains Hsinchu (新竹科學園區) menandai transformasi gemilang Taiwan dari pulau manufaktur menjadi pulau inovasi.
 
-[Morris Chang](/people/張忠謀) mendirikan TSMC dan merintis model bisnis baru berupa manufaktur wafer semikonduktor murni. Keputusan ini bukan hanya mengubah TSMC, tetapi juga mendefinisikan ulang pembagian kerja dalam [industri semikonduktor](/technology/半導體產業) global. Saat itu, tidak ada yang menduga bahwa model produksi kontrak yang tampak sederhana ini akan memberi Taiwan kedudukan yang demikian penting dalam rantai pasok teknologi global. Kini, kapitalisasi pasar TSMC setara dengan 99% PDB Taiwan; pasang surut satu perusahaan saja dapat memengaruhi nasib ekonomi seluruh negara.
+[Morris Chang](/people/張忠謀) mendirikan TSMC dan merintis model bisnis baru berupa manufaktur wafer semikonduktor murni. Keputusan ini bukan hanya mengubah TSMC, tetapi juga mendefinisikan ulang pembagian kerja dalam [industri semikonduktor](/id/technology/taiwan-semiconductor-industry) global. Saat itu, tidak ada yang menduga bahwa model produksi kontrak yang tampak sederhana ini akan memberi Taiwan kedudukan yang demikian penting dalam rantai pasok teknologi global. Kini, kapitalisasi pasar TSMC setara dengan 99% PDB Taiwan; pasang surut satu perusahaan saja dapat memengaruhi nasib ekonomi seluruh negara.
 
-📖 Bacaan lanjutan: [Morris Chang](/people/張忠謀) ｜ [Industri semikonduktor](/technology/半導體產業)
+📖 Bacaan lanjutan: [Morris Chang](/people/張忠謀) ｜ [Industri semikonduktor](/id/technology/taiwan-semiconductor-industry)
 
 Keberhasilan industri semikonduktor (半導體產業) mendorong terbentuknya seluruh ekosistem teknologi. MediaTek (聯發科) bersaing ketat dengan Qualcomm dalam bidang cip ponsel; ASE Technology (日月光) mempertahankan posisi terdepan di pasar perakitan dan pengujian semikonduktor; sementara UMC (聯電) mengembangkan keunggulan tersendiri dalam proses manufaktur khusus. Dari desain IC dan manufaktur wafer hingga pengemasan serta pengujian, Taiwan telah membangun rantai industri semikonduktor terlengkap di dunia. Karena itu, sebutan “Pulau Silikon” bukanlah metafora romantis, melainkan kenyataan geopolitik yang serius.
 
 ## Keajaiban inovasi klaster teknologi
 
-[Taman Sains Hsinchu](/technology/科技園區發展) bukan sekadar kawasan industri, melainkan juga lambang semangat inovasi Taiwan. Sejak didirikan pada 1980, kawasan yang semula hanya berupa persawahan ini telah menjadi wilayah dengan kepadatan industri semikonduktor tertinggi di dunia. Lebih dari 500 perusahaan teknologi tinggi berkumpul di kawasan tersebut, dengan kepadatan nilai produksi per kilometer persegi tertinggi di antara kawasan industri dunia.
+[Taman Sains Hsinchu](/id/technology/science-park-development) bukan sekadar kawasan industri, melainkan juga lambang semangat inovasi Taiwan. Sejak didirikan pada 1980, kawasan yang semula hanya berupa persawahan ini telah menjadi wilayah dengan kepadatan industri semikonduktor tertinggi di dunia. Lebih dari 500 perusahaan teknologi tinggi berkumpul di kawasan tersebut, dengan kepadatan nilai produksi per kilometer persegi tertinggi di antara kawasan industri dunia.
 
-📖 Bacaan lanjutan: [Perkembangan taman sains](/technology/科技園區發展)
+📖 Bacaan lanjutan: [Perkembangan taman sains](/id/technology/science-park-development)
 
 Efek klaster industri ini menciptakan sinergi yang luar biasa: desain, manufaktur, pengemasan, pengujian, dan verifikasi sebuah cip dapat diselesaikan dalam radius sepuluh kilometer. Tingkat efisiensinya membuat para pesaing global terpukau. Ketika Apple membutuhkan prosesor terbaru, perusahaan itu mengetahui bahwa hanya Taiwan yang mampu menyediakan produk bermutu tertinggi dalam waktu paling singkat. Ketika NVIDIA meluncurkan cip AI generasi baru, mitra pertama yang dipertimbangkannya adalah TSMC.
 
@@ -61,9 +61,9 @@ Kebangkitan industri budaya dan kreatif (文化創意產業) menyuntikkan energi
 
 ## Vitalitas inovasi dalam ekosistem perusahaan rintisan
 
-Dalam beberapa tahun terakhir, Taiwan secara aktif membangun [ekosistem perusahaan rintisan](/economy/新創生態系). Taiwan berupaya mengembangkan generasi baru perusahaan unikorn dengan bertumpu pada keunggulan manufaktur [usaha kecil dan menengah](/economy/台灣中小企業與隱形冠軍) yang telah ada. “Program Inovasi Industri 5+2” yang didorong pemerintah menyasar tujuh bidang utama: Silicon Valley Asia, industri biomedis, [teknologi energi hijau](/economy/台灣能源轉型與綠能產業), mesin cerdas, industri pertahanan, pertanian baru, dan [ekonomi sirkular](/economy/台灣循環經濟與資源再利用).
+Dalam beberapa tahun terakhir, Taiwan secara aktif membangun [ekosistem perusahaan rintisan](/id/economy/taiwan-startup-ecosystem-overview). Taiwan berupaya mengembangkan generasi baru perusahaan unikorn dengan bertumpu pada keunggulan manufaktur [usaha kecil dan menengah](/id/economy/taiwan-smes-and-hidden-champions) yang telah ada. “Program Inovasi Industri 5+2” yang didorong pemerintah menyasar tujuh bidang utama: Silicon Valley Asia, industri biomedis, [teknologi energi hijau](/economy/台灣能源轉型與綠能產業), mesin cerdas, industri pertahanan, pertanian baru, dan [ekonomi sirkular](/economy/台灣循環經濟與資源再利用).
 
-📖 Bacaan lanjutan: [Ekosistem perusahaan rintisan](/economy/新創生態系) ｜ [Usaha kecil dan menengah serta jawara tersembunyi Taiwan](/economy/台灣中小企業與隱形冠軍)
+📖 Bacaan lanjutan: [Ekosistem perusahaan rintisan](/id/economy/taiwan-startup-ecosystem-overview) ｜ [Usaha kecil dan menengah serta jawara tersembunyi Taiwan](/id/economy/taiwan-smes-and-hidden-champions)
 
 Melalui model inovatif sepeda motor listrik dan sistem pertukaran baterai, Gogoro (Gogoro) tidak hanya mengubah ekosistem transportasi Taiwan, tetapi juga mengekspor model bisnisnya ke pasar luar negeri. Setelah bertahun-tahun mengembangkan layanan SaaS niaga elektronik, 91APP (91APP) menjadi salah satu platform teknologi ritel terbesar di Asia. Akselerator seperti AppWorks (AppWorks) menyediakan pendanaan dan pendampingan bagi perusahaan rintisan, serta membangun ekosistem lengkap dari tahap gagasan hingga penawaran umum perdana atau IPO.
 

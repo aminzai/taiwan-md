@@ -157,9 +157,9 @@ Daftar majalah _Time_ akan terus update. EPS rapat penjelasan hukum akan terus s
 ## Bacaan Lanjutan
 
 - [Kuo Tai-ming](/people/郭台銘) — Pendiri Hon Hai, dari arisan ibu 100 ribu ke kisah wirausaha kekaisaran manufaktur global
-- [Perusahaan Taiwan: TSMC](/economy/台灣企業：台積電) — Sama-sama kapal induk perusahaan internasional Taiwan, tapi jalan OEM wafer profesional; struktur tata kelola dengan kekaisaran OEM Hon Hai benar-benar berbeda
+- [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Sama-sama kapal induk perusahaan internasional Taiwan, tapi jalan OEM wafer profesional; struktur tata kelola dengan kekaisaran OEM Hon Hai benar-benar berbeda
 - [Pasar Saham dan Pasar Modal Taiwan](/economy/台灣股市與資本市場) — Kode saham Hon Hai 2317, mekanisme pengungkapan informasi material कैसे运作
-- [Transformasi Tingkat Industri Taiwan](/economy/台灣產業轉型升級) — Dari OEM tenaga kerja intensif ke perakitan server AI, Hon Hai adalah cermin jalur ini
+- [Transformasi Tingkat Industri Taiwan](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — Dari OEM tenaga kerja intensif ke perakitan server AI, Hon Hai adalah cermin jalur ini
 - [Perdagangan Luar Negeri dan Rantai Pasokan Global Taiwan](/economy/台灣外貿與全球供應鏈) — 24 negara 900 ribu orang tata letak global, adalah lapangan eksperimen terbesar tata kelola lintas batas manufaktur Taiwan
 
 ---

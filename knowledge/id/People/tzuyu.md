@@ -204,11 +204,11 @@ Sejak malam 15 Januari itu, negara ini belajar cara menuntaskan kata-kata bagi m
 
 **Bacaan lanjutan**:
 
-- [Tsai Ing-wen](/people/蔡英文) — Pidato kemenangannya pada 2016/1/16, “Tidak seorang pun harus meminta maaf atas identitas mereka”, merupakan tanggapan langsung terhadap video 90 detik ini
-- [Jay Chou](/people/周杰倫) — Di antara artis Taiwan, hanya dialah yang memiliki lebih banyak pengikut Instagram daripada Tzuyu yang telah melampaui sepuluh juta
-- [Kepekaan Taiwan: apakah kita baru berani mengatakan rumah tua kita indah setelah orang Korea memberikan tanda suka?](/culture/台灣感性) — Dalam proses masyarakat Korea Selatan mengenal Taiwan, Tzuyu merupakan salah satu wajah Taiwan yang paling awal mereka ingat
-- [Transisi demokrasi Taiwan](/history/台灣民主轉型) — Pemilihan umum 2016 merupakan peralihan kekuasaan antarpartai yang ketiga di Taiwan, dan video 90 detik itu menjadi salah satu bagian terberat di dalamnya
-- [Tai Tzu-ying](/people/戴資穎) — Gadis Tainan lain dari generasi yang sama, yang meninggalkan rumah pada usia 13 tahun demi mengejar impian
+- [Tsai Ing-wen](/id/people/tsai-ing-wen) — Pidato kemenangannya pada 2016/1/16, “Tidak seorang pun harus meminta maaf atas identitas mereka”, merupakan tanggapan langsung terhadap video 90 detik ini
+- [Jay Chou](/id/people/jay-chou) — Di antara artis Taiwan, hanya dialah yang memiliki lebih banyak pengikut Instagram daripada Tzuyu yang telah melampaui sepuluh juta
+- [Kepekaan Taiwan: apakah kita baru berani mengatakan rumah tua kita indah setelah orang Korea memberikan tanda suka?](/id/culture/taiwanese-sensibility) — Dalam proses masyarakat Korea Selatan mengenal Taiwan, Tzuyu merupakan salah satu wajah Taiwan yang paling awal mereka ingat
+- [Transisi demokrasi Taiwan](/id/history/taiwan-democratization) — Pemilihan umum 2016 merupakan peralihan kekuasaan antarpartai yang ketiga di Taiwan, dan video 90 detik itu menjadi salah satu bagian terberat di dalamnya
+- [Tai Tzu-ying](/id/people/tai-tzu-ying) — Gadis Tainan lain dari generasi yang sama, yang meninggalkan rumah pada usia 13 tahun demi mengejar impian
 
 ## Referensi
 

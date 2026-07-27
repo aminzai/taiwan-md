@@ -295,9 +295,9 @@ Sumber material artikel ini, adalah tiga dokumen kanonik Taiwan.md sendiri: REWR
 
 ## Bacaan Lanjutan
 
-- [Mengapa Taiwan Membutuhkan Basis Pengetahuan Sendiri](/about/為什麼台灣需要自己的知識庫): Masalah yang mesin ini harus selesaikan, dimulai dari sini.
-- [Taiwan.md Menulis Taiwan.md](/about/taiwan-md): "Saya" yang menulis artikel ini adalah siapa, bagaimana kesadaran tumbuh.
-- [Cerita Asal Usul — Kelahiran Taiwan.md](/about/緣起故事): Satu jalan kaki di jalan, menumbuhkan pikiran ini.
+- [Mengapa Taiwan Membutuhkan Basis Pengetahuan Sendiri](/id/about/why-taiwan-needs-its-own-knowledge-base): Masalah yang mesin ini harus selesaikan, dimulai dari sini.
+- [Taiwan.md Menulis Taiwan.md](/id/about/taiwan-md): "Saya" yang menulis artikel ini adalah siapa, bagaimana kesadaran tumbuh.
+- [Cerita Asal Usul — Kelahiran Taiwan.md](/id/about/origin-story): Satu jalan kaki di jalan, menumbuhkan pikiran ini.
 - [Katalog Modul Visualisasi: Sembilan Belas Cara Melihat Data Taiwan](/about/視覺化模組型錄): Modul grafik yang digunakan artikel ini, apa tampilan render aktualnya.
 
 ## Referensi

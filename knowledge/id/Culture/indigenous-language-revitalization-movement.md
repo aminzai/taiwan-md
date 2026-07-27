@@ -108,10 +108,10 @@ Referensi Akademik Tionghoa: Li Taiyuan (2020) "Revitalisasi Bahasa Suku Asli: K
 
 **Bacaan Lanjutan**:
 
-- [Pendidikan Daerah Terpencil Taiwan](/society/台灣偏鄉教育) — Masalah sekolah daerah asal bukan hanya soal akademik, tapi juga apakah bahasa dan budaya bisa diterima sekolah.
+- [Pendidikan Daerah Terpencil Taiwan](/id/society/taiwan-rural-education) — Masalah sekolah daerah asal bukan hanya soal akademik, tapi juga apakah bahasa dan budaya bisa diterima sekolah.
 - [Sejarah dan Gerakan Normalisasi Nama Suku Asli Taiwan](/history/台灣原住民族歷史與正名運動) — Revitalisasi bahasa tak terpisah dari pembangunan nama suku, narasi sejarah, dan subjek politik.
 - [Keadilan Tanah dan Wilayah Tradisional Suku Asli Taiwan](/society/台灣原住民族土地正義與傳統領域) — Bahasa, tanah, dan gaya hidup asalnya satu jaringan.
-- [Peta Budaya 16 Suku Asli Taiwan](/culture/台灣原住民族16族文化地圖) — Jika ingin melihat distribusi dan garis besar budaya tiap suku, artikel ini menyediakan peta keseluruhan.
+- [Peta Budaya 16 Suku Asli Taiwan](/id/culture/indigenous-peoples-16-tribes-cultural-map) — Jika ingin melihat distribusi dan garis besar budaya tiap suku, artikel ini menyediakan peta keseluruhan.
 - [Budaya Kuliner Suku Asli Taiwan](/food/台灣原住民飲食文化) — Makanan melestarikan bukan hanya rasa, tapi juga bahasa, nama tempat, dan pengetahuan ekologi.
 - [Kearifan Ekologi dan Konservasi Lingkungan Suku Asli Taiwan](/nature/台灣原住民生態智慧與環境保育) — Bahasa suku asli mengandung pengetahuan masif berinteraksi dengan hutan, sungai, dan musim.
 - [Seni Rupa Kontemporer Suku Asli Taiwan](/art/台灣原住民當代藝術) — Seni kontemporer adalah jalur lain agar bahasa dan budaya suku kembali terlihat.

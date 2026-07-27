@@ -141,9 +141,9 @@ Tapi ini mungkin jawaban Taiwan harus biasakan ke depan. Karena beberapa dekade 
 - [Lai Ching-te](/people/賴清德) — Separuh pasangan ini: birokrat teknis dalam negeri ketemu jagoan diplomasi Cat Warrior
 - [Cheng Li-wen](/people/鄭麗文) — Baca banding: Dua tokoh perempuan politik paling terekspos media 2026, jalur sama sekali beda
 - [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/history/台海危機與兩岸關係發展) — Masa Hsiao di Washington, tepat masa transisi penuh kebijakan AS ke Tiongkok
-- [Transisi Demokrasi Taiwan](/history/台灣民主轉型) — Ayah Hsiao di Tainan Theological College, sistem Presbyterian, salah satu sumber rohani gerakan demokratisasi Taiwan
-- [Cho Jung-tai](/people/卓榮泰) — Kepala Kabinet pertama Lai, 20 Mei 2024 Hsiao terima segel serah terima di tangan lawan ini
-- [Hsu Chiao-hsin](/people/徐巧芯) — Prototipe perempuan politik lain di struktur politik yang sama, jalur dan pandangan Taiwan berlawanan total dengan Hsiao Bi-khim
+- [Transisi Demokrasi Taiwan](/id/history/taiwan-democratization) — Ayah Hsiao di Tainan Theological College, sistem Presbyterian, salah satu sumber rohani gerakan demokratisasi Taiwan
+- [Cho Jung-tai](/id/people/cho-jung-tai) — Kepala Kabinet pertama Lai, 20 Mei 2024 Hsiao terima segel serah terima di tangan lawan ini
+- [Hsu Chiao-hsin](/id/people/hsu-chiao-hsin) — Prototipe perempuan politik lain di struktur politik yang sama, jalur dan pandangan Taiwan berlawanan total dengan Hsiao Bi-khim
 
 ## Referensi
 

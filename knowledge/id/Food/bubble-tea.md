@@ -123,7 +123,7 @@ Tentu saja, momen itu tidak mengetahui apa yang sedang dilakukannya. Kebetulan-k
 
 - [Ikhtisar kuliner Taiwan](/food/台灣美食總覽) — panorama dari masyarakat adat hingga Michelin: posisi teh susu mutiara dalam cita rasa hibrida yang terbentuk selama empat ratus tahun
 - [Budaya minuman racikan tangan Taiwan](/food/台灣手搖飲文化) — sejarah ekspansi merek seperti 50 Lan, Gong Cha, dan CoCo ke lebih dari 40 negara
-- [Budaya teh](/food/茶文化) — legenda mutu teh Taiwan, dari teh oolong John Dodd pada 1865 hingga teh pegunungan tinggi masa kini
+- [Budaya teh](/id/food/golden-age-echoes-taiwan-tea-culture) — legenda mutu teh Taiwan, dari teh oolong John Dodd pada 1865 hingga teh pegunungan tinggi masa kini
 
 ## Referensi
 

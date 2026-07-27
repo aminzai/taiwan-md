@@ -296,9 +296,9 @@ Percakapan telepon yang tak sempat dituntaskan itu meninggalkan cita-cita yang b
 **Bacaan lanjutan**:
 
 - [Kebangkitan Negara Kepulauan AI: Perkembangan Kecerdasan Buatan Taiwan dan Strategi Masa Depan](/technology/AI發展) — gambaran menyeluruh tentang kerangka kebijakan AI Taiwan, tata letak industri, lima bidang strategis utama, dan kerja sama internasional
-- [AI dalam Keseharian Taiwan](/technology/台灣AI日常) — penerapan nyata AI dalam kehidupan sehari-hari di Taiwan, termasuk di toko serbaada, rumah sakit, lahan pertanian, dan ruang kelas
-- [Industri Semikonduktor](/technology/半導體產業) — bagaimana para insinyur AI yang dibina AIA selama delapan tahun terhubung kembali dengan ekosistem teknologi informasi dan komunikasi yang telah dimiliki negara adidaya semikonduktor ini
-- [Mengapa Taiwan Membutuhkan Basis Pengetahuannya Sendiri](/about/為什麼台灣需要自己的知識庫) — Rektor Tsai Ming-shun mengatakan bahwa proporsi data lokal Taiwan di dunia internet kurang dari 0,1%; artikel ini mengukur kesenjangan tersebut dan membahas siapa yang seharusnya mencatat versinya
+- [AI dalam Keseharian Taiwan](/id/technology/taiwan-ai-in-daily-life) — penerapan nyata AI dalam kehidupan sehari-hari di Taiwan, termasuk di toko serbaada, rumah sakit, lahan pertanian, dan ruang kelas
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — bagaimana para insinyur AI yang dibina AIA selama delapan tahun terhubung kembali dengan ekosistem teknologi informasi dan komunikasi yang telah dimiliki negara adidaya semikonduktor ini
+- [Mengapa Taiwan Membutuhkan Basis Pengetahuannya Sendiri](/id/about/why-taiwan-needs-its-own-knowledge-base) — Rektor Tsai Ming-shun mengatakan bahwa proporsi data lokal Taiwan di dunia internet kurang dari 0,1%; artikel ini mengukur kesenjangan tersebut dan membahas siapa yang seharusnya mencatat versinya
 
 ## Sumber gambar
 

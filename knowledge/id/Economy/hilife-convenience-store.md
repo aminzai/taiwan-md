@@ -72,7 +72,7 @@ Kisah Hi-Life bukan hanya tentang kejayaan dan kemunduran sebuah perusahaan, tet
 
 ## Bacaan Lanjutan
 
-- [Budaya Toko Kelontong Taiwan](/lifestyle/台灣便利商店文化) — Bagaimana toko kelontong menjadi infrastruktur publik di Taiwan
+- [Budaya Toko Kelontong Taiwan](/id/lifestyle/convenience-store-culture) — Bagaimana toko kelontong menjadi infrastruktur publik di Taiwan
 - [Faktur](#) — Faktur unifikasi dan pengumpulan faktur oleh toko kelontong sebagai ekonomi sehari-hari
 
 ## Referensi

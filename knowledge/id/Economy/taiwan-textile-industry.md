@@ -77,7 +77,7 @@ Ketua Direksi Juyang, Chou Li-ping, saat menyerahkan tongkat estafet kepada gene
 ## Bacaan Lanjutan
 
 - [Ekonomi Sirkular dan Pemanfaatan Kembali Sumber Daya di Taiwan](/economy/台灣循環經濟與資源再利用) — Latar belakang ekonomi sirkular dari botol ke pakaian
-- [Transformasi dan Pemutakhiran Industri Taiwan](/economy/台灣產業轉型升級) — Kerangka kerja yang lebih luas untuk transformasi industri tradisional
+- [Transformasi dan Pemutakhiran Industri Taiwan](/id/economy/industrial-transformation-from-manufacturing-to-innovation) — Kerangka kerja yang lebih luas untuk transformasi industri tradisional
 
 ## Referensi dan Sumber
 

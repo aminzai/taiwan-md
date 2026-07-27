@@ -157,7 +157,7 @@ Itulah Ao dan Gunung.
 - [Musik Pop Taiwan](/music/台灣流行音樂) — Struktur industri musik berbahasa Tiongkok dan posisi grup musik independen di dalamnya
 - [Cicada](/people/Cicada) — Grup musik independen lainnya yang mengambil jalur instrumentasi/non-mainstream, untuk membandingkan dua strategi 'tidak mengambil jalur idola'
 - [魏如萱](/people/魏如萱) — Jalur lain untuk lintas antara mainstream dan independen, kreator perempuan
-- [Hello Nico](/people/Hello-Nico) — Kreator suara perempuan independen Taiwan pada 2010-an, meliputi garis suara Dream Pop yang menutupi ketakutan, 'kesulitan terbesar membuat musik adalah tidak bisa berteman dengan diri sendiri'
+- [Hello Nico](/id/people/hello-nico-band) — Kreator suara perempuan independen Taiwan pada 2010-an, meliputi garis suara Dream Pop yang menutupi ketakutan, 'kesulitan terbesar membuat musik adalah tidak bisa berteman dengan diri sendiri'
 
 ## Daftar Pustaka
 

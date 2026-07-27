@@ -185,10 +185,10 @@ Ini pencapaian terbesarnya, juga batas terdalamnya.
 
 - [Han Kuo-yu](/people/韓國瑜) — Penghubung negosiasi pembelian militer 2026, tokun kunci hadir dalam sengketa pembelian militer Hsu Chiao-hsin; struktur dualitas "Ketua Partai—Ketua DPR" biru, ujung DPR
 - [Cheng Li-wen](/people/鄭麗文) — Ketua Partai dalam sengketa pembelian militer yang sama, bersama Fu Kun-chi bertahan di versi partai 380 miliar+N, bertabrakan dengan versi Hsu Chiao-hsin 800 miliar
-- [Cho Jung-tai](/people/卓榮泰) — Pengusul utama anggaran khusus pembelian militer 1,25 triliun Yuan Eksekutif, lawan framing versi Hsu Chiao-hsin (800 miliar)
+- [Cho Jung-tai](/id/people/cho-jung-tai) — Pengusul utama anggaran khusus pembelian militer 1,25 triliun Yuan Eksekutif, lawan framing versi Hsu Chiao-hsin (800 miliar)
 - [Lai Ching-te](/people/賴清德) — Penguasa politik anggaran pembelian militer 1,25 triliun, lawan interpelasi Hsu Chiao-hsin di parlemen berulang kali
 - [Pertahanan dan Modernisasi Militer Taiwan](/society/台灣國防與軍事現代化) — Konteks kebijakan lengkap bentrokan 800 miliar vs 380 miliar+N vs 1,25 triliun
-- [Hsiao Bi-khim](/people/蕭美琴) — Prototipe perempuan politik lain dalam struktur politik yang sama, jalur dan prototipe Taiwan yang berlawanan total dengan Hsu Chiao-hsin
+- [Hsiao Bi-khim](/id/people/hsiao-bi-khim) — Prototipe perempuan politik lain dalam struktur politik yang sama, jalur dan prototipe Taiwan yang berlawanan total dengan Hsu Chiao-hsin
 
 ## Referensi
 

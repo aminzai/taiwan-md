@@ -169,15 +169,15 @@ Ini bukan kebencian, melainkan buku besar catatan. Hari berakhirnya Teror Putih 
 
 **Bacaan lanjutan**:
 
-- [Transisi Demokrasi Taiwan](/history/台灣民主轉型) — Gambaran utuh transisi selama empat dekade, dari darurat militer menuju sistem demokrasi paling bebas di Asia
-- [Masa Darurat Militer](/history/戒嚴時期) — Kerangka hukum selama 38 tahun 56 hari serta proses pencabutan darurat militer
-- [Keadilan Transisional Taiwan](/history/台灣轉型正義) — Penyelidikan kebenaran dan upaya pertanggungjawaban pelaku yang belum tuntas setelah pencabutan darurat militer
+- [Transisi Demokrasi Taiwan](/id/history/taiwan-democratization) — Gambaran utuh transisi selama empat dekade, dari darurat militer menuju sistem demokrasi paling bebas di Asia
+- [Masa Darurat Militer](/id/history/martial-law-era) — Kerangka hukum selama 38 tahun 56 hari serta proses pencabutan darurat militer
+- [Keadilan Transisional Taiwan](/id/history/taiwan-transitional-justice) — Penyelidikan kebenaran dan upaya pertanggungjawaban pelaku yang belum tuntas setelah pencabutan darurat militer
 - [Museum Nasional Hak Asasi Manusia](/history/國家人權博物館) — Lembaga yang mengelola dua taman peringatan Teror Putih di Jingmei dan Pulau Hijau, dari enam tahun persiapan hingga pembekuan anggaran pada 2025
 - [Insiden 28 Februari](/history/二二八事件) — Pendahuluan Teror Putih: bagaimana penindasan pada 1947 menjadi pertanda lahirnya rezim darurat militer
 - [Insiden Formosa](/history/美麗島事件) — Titik balik penting pada penghujung masa Teror Putih pada 1979
-- [Alishan: Hutan Kekaisaran dan Gunung Kao Yi-sheng](/history/阿里山：帝國的林場與高一生的山) — Kisah gunung Kao Yi-sheng dan pembungkaman masyarakat etnisnya
+- [Alishan: Hutan Kekaisaran dan Gunung Kao Yi-sheng](/id/history/alishan-empire-forest-and-uongu-yatauyungana) — Kisah gunung Kao Yi-sheng dan pembungkaman masyarakat etnisnya
 - [Faktur: Selembar Kertas Tahun 1951 yang Mengubah Seluruh Rakyat Menjadi Pemeriksa Pajak](/economy/發票) — Perancang sistem faktur, Jen Hsien-chun, juga hidup pada masa yang sama. Pada 1955, ia dipenjara dengan tuduhan “mengetahui keberadaan komunis tetapi tidak melaporkannya”; satu cap politik saja cukup untuk menghancurkan hidup seseorang
-- [Yin Hai-kuang](/people/殷海光) — Profesor filsafat Universitas Nasional Taiwan dan perintis liberalisme Taiwan yang dikenai tahanan rumah di Gang 18, Jalan Wenzhou, setelah Kasus Lei Chen pada 1960
+- [Yin Hai-kuang](/id/people/yin-haiguang-liberalism-philosopher) — Profesor filsafat Universitas Nasional Taiwan dan perintis liberalisme Taiwan yang dikenai tahanan rumah di Gang 18, Jalan Wenzhou, setelah Kasus Lei Chen pada 1960
 
 ## Referensi
 

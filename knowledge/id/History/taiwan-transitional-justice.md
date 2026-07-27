@@ -179,8 +179,8 @@ Namun kisah Cheng Nan-jung mengingatkan kita bahwa jalan ini lebih panjang dari 
 **Bacaan Lanjutan:**
 
 - [Museum Hak Asasi Manusia Nasional](/history/國家人權博物館) — Museum yang dibangun negara untuk mengenang korban politik, diresmikan 2018, anggarannya sempat dibekukan pada 2025
-- [Teror Putih Taiwan](/history/台灣白色恐怖) — Inti sejarah yang menjadi sasaran pembatalan putusan
-- [Masa Darurat](/history/戒嚴時期) — Wadah hukum dari 1949-1987
+- [Teror Putih Taiwan](/id/history/taiwan-white-terror) — Inti sejarah yang menjadi sasaran pembatalan putusan
+- [Masa Darurat](/id/history/martial-law-era) — Wadah hukum dari 1949-1987
 - [Peristiwa (zh only — Peristiwa 28 Februari)](/history/二二八事件) — Penindasan pasca-perang di Taiwan tahun 1947, garis lain dalam pekerjaan keadilan transisi
 - [Struk: Kertas yang Mengubah Seluruh Rakyat Menjadi Petugas Pemeriksaan Pajak pada Tahun 1951](/economy/發票) — Desainer kupon tunggal melintasi pemerintahan Ma Ying-jeou dan Tsai Ing-wen, memakan waktu bertahun-tahun untuk menyelesaikan pemulihan nama baik, merupakan contoh konkret dari pekerjaan keadilan transisi
 

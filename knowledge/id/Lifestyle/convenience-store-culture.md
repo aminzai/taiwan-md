@@ -261,7 +261,7 @@ Di tengah arus globalisasi, budaya toko serba ada Taiwan menjadi contoh keberhas
 
 **Bacaan lanjutan**:
 
-- [Kepekaan Taiwan: Haruskah Orang Korea Memberi Suka Terlebih Dahulu agar Kita Berani Mengatakan Rumah Tua Kita Indah?](/culture/台灣感性) — Toko serba ada yang tetap terang larut malam juga merupakan salah satu pemandangan sehari-hari yang dianggap biasa oleh orang Taiwan sehingga jarang diperhatikan secara saksama
+- [Kepekaan Taiwan: Haruskah Orang Korea Memberi Suka Terlebih Dahulu agar Kita Berani Mengatakan Rumah Tua Kita Indah?](/id/culture/taiwanese-sensibility) — Toko serba ada yang tetap terang larut malam juga merupakan salah satu pemandangan sehari-hari yang dianggap biasa oleh orang Taiwan sehingga jarang diperhatikan secara saksama
 - [Faktur: Selembar Kertas pada 1951 yang Mengubah Seluruh Rakyat Menjadi Pemeriksa Pajak](/economy/發票) — Toko serba ada merupakan tempat penggunaan sarana faktur elektronik yang paling umum; setiap transaksi sekaligus menjadi jarak terakhir dalam mobilisasi perpajakan sehari-hari
 - [Perusahaan Taiwan: Uni-President Enterprises](/economy/台灣企業：統一企業) — Uni-President Group di balik 7-ELEVEN berkembang dari sebungkus mi Uni-President menjadi imperium ritel yang menampung keseharian orang Taiwan sepanjang hari
 

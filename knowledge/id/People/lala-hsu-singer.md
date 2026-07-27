@@ -131,7 +131,7 @@ Tiket hampir pulang Taichung itu nggak hilang. Ia selalu di lagunya, ngingetin s
 - [Lin You-jia](/people/林宥嘉) — Sama dari _Super Star Avenue_ bermula, jalan lain dari juara pilih bakat ke produser mandiri
 - [Tian Fu-zhen](/people/田馥甄) — Sama LaLa Hsu figur inti suara wanita 2010-an Mandarin, dari sistem idol keluar suara sendiri
 - [Wei Ru-xuan](/people/魏如萱) — Ratu Lagu generasi sama, bareng LaLa Hsu susun genealogi non-standar penyanyi ciptaan wanita Taiwan
-- [Acara Variety Taiwan](/culture/台灣綜藝) — Dari _Super Star Avenue_ paham bagaimana acara pilih bakat TV Taiwan ubah pop Mandarin 2000-an
+- [Acara Variety Taiwan](/id/culture/taiwan-variety-shows) — Dari _Super Star Avenue_ paham bagaimana acara pilih bakat TV Taiwan ubah pop Mandarin 2000-an
 
 ## Referensi
 

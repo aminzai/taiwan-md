@@ -102,9 +102,9 @@ Melihat kembali tiga dekade, budaya meme Taiwan mencerminkan kompleksitas pulau 
 
 - [馬英九迷因](/society/馬英九迷因) — Studi kasus klasik dari politisasi figur politik melalui meme
 
-- [長輩圖](/culture/長輩圖) — Jalur penyebaran internet lain yang memiliki ciri khas Taiwan
+- [長輩圖](/id/culture/elder-greeting-images) — Jalur penyebaran internet lain yang memiliki ciri khas Taiwan
 
-- [台灣VTuber](/culture/台灣VTuber) — Integrasi kontemporer antara karakter virtual dan budaya meme
+- [台灣VTuber](/id/culture/taiwan-vtuber) — Integrasi kontemporer antara karakter virtual dan budaya meme
 
 ---
 

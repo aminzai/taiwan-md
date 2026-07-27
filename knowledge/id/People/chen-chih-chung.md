@@ -54,7 +54,7 @@ Kisah Chen Chih-chung, dari lingkaran keluarga yang dihormati hingga anak yang b
 
 **Bacaan Lanjutan:**
 
-- [Chen Shui-bian](/people/陳水扁): Dari anak petani miskin menjadi presiden Taiwan pertama yang dipilih secara langsung, bagaimana ia mengubah sejarah politik Taiwan, dan mengapa ia terdamak dalam penjara?
+- [Chen Shui-bian](/id/people/chen-shui-bian-controversial-president): Dari anak petani miskin menjadi presiden Taiwan pertama yang dipilih secara langsung, bagaimana ia mengubah sejarah politik Taiwan, dan mengapa ia terdamak dalam penjara?
 - Reformasi Peradilan Taiwan: Dari kasus Chen hingga pasal anti-pencucian uang, bagaimana peradilan Taiwan menanggapi harapan masyarakat dan tekanan politik?
 - Politik Digital: Bagaimana platform seperti Threads mengubah pola komunikasi antara tokoh politik dan pemilih di Taiwan?
 

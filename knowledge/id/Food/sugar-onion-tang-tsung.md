@@ -89,7 +89,7 @@ Kisah tang-tsung, pada hakikatnya adalah kisah tentang "ketahanan". Ia lahir dar
 
 ## Bacaan Lanjutan
 
-- [Kornet Emas](/food/金牛角) — Makanan manis Taiwan lain yang menyimpan kenangan lokal, menyebar dari Jalan Tua Sanxia ke seluruh Taiwan
+- [Kornet Emas](/id/food/golden-croissant) — Makanan manis Taiwan lain yang menyimpan kenangan lokal, menyebar dari Jalan Tua Sanxia ke seluruh Taiwan
 
 ## Referensi
 

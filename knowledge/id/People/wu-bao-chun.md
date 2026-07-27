@@ -94,10 +94,10 @@ Hasil itu sendiri terasa agak tidak masuk akal—kemudian, ketika diperhatikan d
 
 **Bacaan lanjutan**:
 
-- [André Chiang](/people/江振誠) — seorang maestro yang juga menaklukkan para juri Prancis dengan bahan pangan Taiwan, tetapi setahun setelah restorannya menempati peringkat ke-14 dunia, ia memilih dengan sadar untuk memadamkan lampu dan beranjak pergi
-- [Peta budaya 16 kelompok masyarakat adat Taiwan](/culture/台灣原住民族16族文化地圖) — konteks budaya tempat arak jawawut Paiwan dalam roti leci mawar berasal
-- [Budaya pasar malam](/food/夜市文化) — landasan kuliner rakyat Taiwan untuk memahami dari mana estetika bahan pangan Wu Pao-chun bertumbuh
-- [Huang Shan-liao](/people/黃山料) — seorang Taiwan lain yang menjadi juara di panggung dunia, yakni Pekan Mode London, tetapi kemudian menempuh jalan yang berlawanan: meninggalkan keterampilannya dan mengubah “menjadi terlihat” menjadi karya laris
+- [André Chiang](/id/people/andre-chiang-taiwanese-culinary-innovator) — seorang maestro yang juga menaklukkan para juri Prancis dengan bahan pangan Taiwan, tetapi setahun setelah restorannya menempati peringkat ke-14 dunia, ia memilih dengan sadar untuk memadamkan lampu dan beranjak pergi
+- [Peta budaya 16 kelompok masyarakat adat Taiwan](/id/culture/indigenous-peoples-16-tribes-cultural-map) — konteks budaya tempat arak jawawut Paiwan dalam roti leci mawar berasal
+- [Budaya pasar malam](/id/food/night-market-culture) — landasan kuliner rakyat Taiwan untuk memahami dari mana estetika bahan pangan Wu Pao-chun bertumbuh
+- [Huang Shan-liao](/id/people/huang-shan-liao) — seorang Taiwan lain yang menjadi juara di panggung dunia, yakni Pekan Mode London, tetapi kemudian menempuh jalan yang berlawanan: meninggalkan keterampilannya dan mengubah “menjadi terlihat” menjadi karya laris
 
 ## Referensi
 

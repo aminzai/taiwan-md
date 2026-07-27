@@ -116,9 +116,9 @@ Pintu kayu Fengda Coffee masih terbuka. Dorong buka, yang kamu minum bukan cuma 
 
 **Baca Lanjutan**:
 
-- [Budaya Convenience Store Taiwan](/lifestyle/台灣便利商店文化) — City Café sukses karena convenience store itu sendiri infrastruktur hidup orang Taiwan
+- [Budaya Convenience Store Taiwan](/id/lifestyle/convenience-store-culture) — City Café sukses karena convenience store itu sendiri infrastruktur hidup orang Taiwan
 - [Budaya Minuman Hand-shaken Taiwan](/food/台灣手搖飲文化) — Sisi lain kopi: Taiwan menemukan bubble tea, juga menaklukkan dunia lewat minuman hand-shaken
-- [Budaya Teh Taiwan](/food/茶文化) — Sebelum kopi, orang Taiwan minum teh empat ratus tahun
+- [Budaya Teh Taiwan](/id/food/golden-age-echoes-taiwan-tea-culture) — Sebelum kopi, orang Taiwan minum teh empat ratus tahun
 
 ## Referensi
 

@@ -116,8 +116,8 @@ Tapi kode anonim itu, masih di sana.
 
 **Baca Lebih Lanjut**:
 
-- [Industri Semi-konduktor](/technology/半導體產業) — Konteks industri perang Anti-Ziguang: struktur Taiwan dari pengontrakan ke naga kepala pengemasan/pengujian/desain, serta batas tak terlihat "modal Tiongkok tidak boleh masuk"
-- [Perusahaan Taiwan: TSMC](/economy/台灣企業：台積電) — Gunung suci pelindung negara yang Ziguang dulu tidak berani sentuh, tapi menentukan otonomi teknologi Taiwan
+- [Industri Semi-konduktor](/id/technology/taiwan-semiconductor-industry) — Konteks industri perang Anti-Ziguang: struktur Taiwan dari pengontrakan ke naga kepala pengemasan/pengujian/desain, serta batas tak terlihat "modal Tiongkok tidak boleh masuk"
+- [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Gunung suci pelindung negara yang Ziguang dulu tidak berani sentuh, tapi menentukan otonomi teknologi Taiwan
 - [Perusahaan Taiwan: ASE](/economy/台灣企業：日月光半導體) — Raksasa pengemasan/pengujian yang pada 2015 sama-sama jadi target modal bersamaan kasus Ziguang, koordinat lain garis depan semi-konduktor Hsu Mei-hua
 - [Gerakan Sosial & Partisipasi Warga](/society/社會運動與公民參與) — Dari Bunga Matahari ke Pembubaran Besar, evolusi koordinat model mobilisasi kode warga anonim seperti Hsu Mei-hua di Taiwan
 - [Sistem Demokrasi](/society/民主制度) — Hak pembubaran sebagai alat demokrasi langsung dalam sistem perwakilan Taiwan, serta debat ambang batas di balik "7 daerah tembus 25%" 2025

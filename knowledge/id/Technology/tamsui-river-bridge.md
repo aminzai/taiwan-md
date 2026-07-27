@@ -86,8 +86,8 @@ Penyelesaian Jembatan Tamsui menandai tonggak penting dalam transformasi infrast
 
 ## Bacaan Lanjutan
 
-- [Sistem Transportasi Taiwan](/lifestyle/台灣交通系統) — Mengembalikan konteks transportasi keseluruhan jalan raya, jembatan, dan transportasi umum Taiwan.
-- [Pembangunan Perkotaan dan Kesenjangan Kota-Desa Taiwan](/geography/台灣都市發展與城鄉差距) — Memperluas pemahaman tentang bagaimana infrastruktur transportasi besar mengubah populasi regional dan pasar properti.
+- [Sistem Transportasi Taiwan](/id/lifestyle/transportation-system) — Mengembalikan konteks transportasi keseluruhan jalan raya, jembatan, dan transportasi umum Taiwan.
+- [Pembangunan Perkotaan dan Kesenjangan Kota-Desa Taiwan](/id/geography/taiwan-urban-development-and-rural-urban-divide) — Memperluas pemahaman tentang bagaimana infrastruktur transportasi besar mengubah populasi regional dan pasar properti.
 
 ## Referensi
 

@@ -76,7 +76,7 @@ Festival Zhongyuan mengingatkan kita bahwa perdamaian di pulau ini bukanlah sesu
 
 ## Bacaan Lanjutan
 
-- [Bulan Ketujuh Kalender Lunar](/culture/農曆七月) — Ritme sosial selama bulan hantu
+- [Bulan Ketujuh Kalender Lunar](/id/culture/lunar-july-ghost-month) — Ritme sosial selama bulan hantu
 - [Festival Dongzhi](/culture/端午節) — Bagaimana perlengkapan festival dilokalisasi di Taiwan
 
 ## Referensi

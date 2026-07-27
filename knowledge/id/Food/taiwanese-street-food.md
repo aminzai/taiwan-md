@@ -179,8 +179,8 @@ Kebingungan profesor Jerman itu, sebenarnya adalah jawabannya.
 
 ## Topik Terkait
 
-- [Budaya Pasar Malam](/food/夜市文化) — Analisis mendalam pasar malam sebagai ruang sosial
-- [Teh Mutiara](/food/珍珠奶茶) - Hegemoni global teh cair
+- [Budaya Pasar Malam](/id/food/night-market-culture) — Analisis mendalam pasar malam sebagai ruang sosial
+- [Teh Mutiara](/id/food/bubble-tea) - Hegemoni global teh cair
 - [Nasi Babi Lada Taiwan](/food/台灣滷肉飯) — Memori etnis dalam semangkuk nasi babi lada
 - [Budaya Kuliner Hakka](/food/客家飲食文化) — Kecerdasan kuliner kelompok Hakka
-- [Fusi Kuliner Penduduk Baru Taiwan](/food/台灣新住民美食融合) - Hibrida kuliner gelombang berikutnya sedang terjadi
+- [Fusi Kuliner Penduduk Baru Taiwan](/id/food/taiwanese-new-immigrant-culinary-fusion) - Hibrida kuliner gelombang berikutnya sedang terjadi

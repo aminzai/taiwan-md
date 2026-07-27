@@ -91,7 +91,7 @@ Ketahanan demokrasi Taiwan, bersumber dari desain pembagian kekuasaan sistem itu
 **Bacaan Lanjutan**
 
 - [Pertahanan dan Modernisasi Militer Taiwan](/society/台灣國防與軍事現代化) — Bagaimana pemerintah minoritas-opsisi mayoritas mempengaruhi kebijakan pertahanan secara praktis
-- [Negara Sahabat dan Diplomasi Internasional Taiwan](/society/台灣邦交國與國際外交) — Bagaimana perbedaan posisi partai meluas ke ayunan jalur diplomasi
+- [Negara Sahabat dan Diplomasi Internasional Taiwan](/id/society/taiwan-diplomatic-allies-and-international-relations) — Bagaimana perbedaan posisi partai meluas ke ayunan jalur diplomasi
 - [Pertemuan Zheng-Xi 2026: Pertemuan Sepuluh Menit Pemimpin KMT-KPK Sepuluh Tahun Kembali](/society/2026鄭習會與國共十年再會) — Debat jalur Pemilihan Ketua KMT 2025
-- [Ji Lin-lian](/people/季麟連) — Jenderal mayor pensiun menjabat Wakil Ketua KMT, perpecahan Komite Pusat 2026 mengungkap struktur Departemen Kuningan
-- [Pemecatan Massal](/history/大罷免) — 33 kasus pemecatan 2025 semuanya gagal, uji skala nasional pertama sistem pemecatan di bawah format pemerintah minoritas-opsisi mayoritas
+- [Ji Lin-lian](/id/people/ji-lin-lian) — Jenderal mayor pensiun menjabat Wakil Ketua KMT, perpecahan Komite Pusat 2026 mengungkap struktur Departemen Kuningan
+- [Pemecatan Massal](/id/society/social-movements-and-civic-participation) — 33 kasus pemecatan 2025 semuanya gagal, uji skala nasional pertama sistem pemecatan di bawah format pemerintah minoritas-opsisi mayoritas

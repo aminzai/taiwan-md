@@ -239,12 +239,12 @@ Taman Nasional Taroko 7 tahun mungkin akan dibuka lagi. Tapi setelah 0403, kemba
 
 ## Bacaan Lanjutan
 
-- [Yilan](/geography/宜蘭縣) — Seri 22 Kabupaten dan Kota artikel同期, 1830-an Suku Kavalan Desa Kalipawan tepat dari Dataran Lanyang Yilan pindah selatan ke Hualien, dua artikel saling memperluas
+- [Yilan](/id/geography/yilan-county) — Seri 22 Kabupaten dan Kota artikel同期, 1830-an Suku Kavalan Desa Kalipawan tepat dari Dataran Lanyang Yilan pindah selatan ke Hualien, dua artikel saling memperluas
 - [Keelung](/geography/基隆市) — Seri 22 Kabupaten dan Kota pilot pertama, bersama Hualien "dilihat tidak oleh ibu kota" kabupaten pesisir timur laut
 - [Taman Nasional Taroko](/nature/台灣國家公園) — 1986 didirikan Taman Nasional ke-4 Taiwan, pasca-gempa 0403 estimasi pemulihan 7 tahun
 - [Gerakan Lempeng Taiwan dan Aktivitas Gempa](/geography/台灣板塊運動與地震活動) — Posisi Gempa 0403 dalam sejarah gempa Taiwan: sistem patahan Lembah纵谷 tabrakan Lempeng Laut Filipina dan Lempeng Eurasia
 - [Sejarah dan Gerakan Pemulihan Nama Penduduk Asli Taiwan](/history/台灣原住民族歷史與正名運動) — Jejak gerakan pemulihan nama Suku Sakizaya, Taroko, Seediq, Kavalan di Hualien
-- [Peta Budaya 16 Suku Pribumi Taiwan](/culture/台灣原住民族16族文化地圖) — Distribusi Suku Amis, Taroko, Sakizaya, Seediq, Bunu, Kavalan di Hualien
+- [Peta Budaya 16 Suku Pribumi Taiwan](/id/culture/indigenous-peoples-16-tribes-cultural-map) — Distribusi Suku Amis, Taroko, Sakizaya, Seediq, Bunu, Kavalan di Hualien
 - [Masa Pendudukan Jepang](/history/日治時期) — 1913 Fengtian, Jiyeh, Lintian tiga desa imigran; 1914 Peristiwa Taroko; 1930-an Suku Bunu pemukiman kelompok
 - [Lin Yi-xiong](/people/林義雄) — Aktivis gerakan non-partai, lahir Xiang Wujie Yilan, bersama Hualien berbagi garis sumbu demokratisasi Taiwan 1980-an
 

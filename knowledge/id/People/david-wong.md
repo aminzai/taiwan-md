@@ -150,7 +150,7 @@ Ia pakai enam puluh satu tahun, hidup jadi orang yang menolak didefinisikan satu
 
 - [Jonathan Lee (李宗盛)](/people/李宗盛) — Produser musik Mandarin seangkatan, sama pakai seumur hidup bantu orang lain tulis isi hati; bandingkan David Huang "Mandarin tidak bagus andal kolaborasi" dengan Jonathan Lee "bahasa pasar", dua jalur nulis lagu cinta.
 - [Chen Sheng (陳昇)](/people/陳昇) — Sama tidak jalan mainstream, teguh bahasa musik sendiri, keduanya buktiin industri musik Mandarin muat "suara tidak memuaskan".
-- [Xiao Huang-chi (蕭煌奇)](/people/蕭煌奇) — Suara khas Taiwan lain, lihat generasi berbeda gimana pakai warna suara unik definisi suara satu era.
+- [Xiao Huang-chi (蕭煌奇)](/id/people/ricky-hsiao-singer) — Suara khas Taiwan lain, lihat generasi berbeda gimana pakai warna suara unik definisi suara satu era.
 - [Golden Melody Awards (金曲獎)](/music/金曲獎) — Satu-satunya Golden Melody David Huang adalah aransemen bukan penyanyian, kontras ini adalah satu potongan memahami logika penilaian Golden Melody.
 - [Budaya KTV Taiwan (台灣KTV文化)](/music/台灣KTV文化) — 〈Kau Buat Aku Mabuk〉 adalah lagu langgeng daftar putar KTV, lihat satu lagu gimana lewat KTV jadi kenangan kolektif satu generasi.
 

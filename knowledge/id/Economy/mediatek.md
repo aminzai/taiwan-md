@@ -114,8 +114,8 @@ Pada awal 2025, Tsai Ming-jie masuk ke dalam daftar klien proses fabrikasi 2nm T
 
 ## Bacaan Lanjutan
 
-- [Perusahaan Taiwan: TSMC](/economy/台灣企業：台積電)
-- [Industri Semikonduktor](/technology/半導體產業) — Dari transisi teknologi RCA tahun 1973 hingga produksi massal 2nm, MediaTek adalah representasi dari sisi desain IC dalam ekosistem semikonduktor.
+- [Perusahaan Taiwan: TSMC](/id/economy/tsmc)
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Dari transisi teknologi RCA tahun 1973 hingga produksi massal 2nm, MediaTek adalah representasi dari sisi desain IC dalam ekosistem semikonduktor.
 
 ---
 

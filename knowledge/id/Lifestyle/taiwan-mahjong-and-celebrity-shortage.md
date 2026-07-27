@@ -151,7 +151,7 @@ Dia tak jawab.
 
 - [Industri Game Taiwan & Hiburan Digital](/technology/台灣遊戲產業與數位娛樂) — Panorama game Taiwan dari agen ke original
 - [Malam Hidup & Budaya KTV](/lifestyle/夜生活與KTV文化) — Ritual sosial lain orang Taiwan
-- [Budaya Minimarket Taiwan](/lifestyle/台灣便利商店文化) — Infrastruktur harian Taiwan siap 24 jam
+- [Budaya Minimarket Taiwan](/id/lifestyle/convenience-store-culture) — Infrastruktur harian Taiwan siap 24 jam
 
 ---
 

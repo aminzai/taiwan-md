@@ -73,9 +73,9 @@ Gen Urobuchi mengaku fans Pili, titik awal kolaborasi adalah momen terharu di lo
 
 **Baca Selengkapnya**
 
-- [Wayang Kulit](/culture/皮影戲) — Sama-sama bermula Hokkien-Guangdong, di Taiwan mengakar di Mituo Kaohsiung, seni wayang bayangan tradisional, pernah di era Japanisasi berusaha hidup dengan adaptasi skenario bahasa Jepang, adalah aliran lain wayang tradisional Taiwan
+- [Wayang Kulit](/id/culture/taiwanese-shadow-puppetry) — Sama-sama bermula Hokkien-Guangdong, di Taiwan mengakar di Mituo Kaohsiung, seni wayang bayangan tradisional, pernah di era Japanisasi berusaha hidup dengan adaptasi skenario bahasa Jepang, adalah aliran lain wayang tradisional Taiwan
 - [Pesta Kuil Taiwan dan Budaya Zhen Tou](/culture/台灣廟會與陣頭文化) — Halaman kuil adalah panggung pertama budaixi, zhen tou pesta kuil dan budaixi di ranah kepercayaan rakyat Taiwan berbagi langit yang sama
-- [National Theater & Concert Hall](/culture/兩廳院) — Seni pertunjukan tradisional Taiwan dari halaman kuil naik panggung teater kontemporer, sisi lain yang disaksikan sejak berdirinya 1987 hingga kini demokratisasi seni budaya Taiwan
+- [National Theater & Concert Hall](/id/culture/national-theater-and-concert-hall) — Seni pertunjukan tradisional Taiwan dari halaman kuil naik panggung teater kontemporer, sisi lain yang disaksikan sejak berdirinya 1987 hingga kini demokratisasi seni budaya Taiwan
 
 ## Referensi
 

@@ -134,16 +134,16 @@ Jika pada 2050 seseorang ingin mengetahui apa yang dianggap penting oleh masyara
 
 - [Ruang Merokok Taipei: Kotak Kaca yang Bernapas di Kota Bebas Rokok](/society/台北吸菸室) — Masa ketika rokok Long Life menguasai 70 persen pasar dan Biro Monopoli memonopoli tembakau serta minuman beralkohol menjadi titik awal perjalanan panjang pelarangan merokok ini.
 
-- [Transisi Demokrasi Taiwan](/history/台灣民主轉型) — Gambaran lengkap transisi selama empat puluh tahun, dari darurat militer menuju salah satu sistem demokrasi paling bebas di Asia.
-- [Teror Putih Taiwan](/history/台灣白色恐怖) — Harga nyata dari 38 tahun darurat militer: perkara politik, para korban, dan sistem “penjaminan dengan tanggung renteng”.
+- [Transisi Demokrasi Taiwan](/id/history/taiwan-democratization) — Gambaran lengkap transisi selama empat puluh tahun, dari darurat militer menuju salah satu sistem demokrasi paling bebas di Asia.
+- [Teror Putih Taiwan](/id/history/taiwan-white-terror) — Harga nyata dari 38 tahun darurat militer: perkara politik, para korban, dan sistem “penjaminan dengan tanggung renteng”.
 - [Insiden Kaohsiung](/history/美麗島事件) — Titik balik penting pada penghujung masa darurat militer pada 1979.
-- [Demokratisasi](/history/民主化) — Perjalanan Taiwan menuju demokrasi setelah pencabutan darurat militer.
+- [Demokratisasi](/id/history/taiwan-democratization-history) — Perjalanan Taiwan menuju demokrasi setelah pencabutan darurat militer.
 - [Insiden 28 Februari](/history/二二八事件) — Titik balik sejarah pada 1947, menjelang pemberlakuan darurat militer.
-- [Keadilan Transisional Taiwan](/history/台灣轉型正義) — Penyelidikan kebenaran dan penuntutan terhadap para pelaku setelah pencabutan darurat militer.
+- [Keadilan Transisional Taiwan](/id/history/taiwan-transitional-justice) — Penyelidikan kebenaran dan penuntutan terhadap para pelaku setelah pencabutan darurat militer.
 - [Museum Nasional Hak Asasi Manusia](/history/國家人權博物館) — Museum yang dibangun negara untuk mengenang para korban masa darurat militer; diresmikan pada 2018 dan anggarannya sempat dibekukan pada 2025.
-- [Teresa Teng](/people/鄧麗君) — Putri keluarga tanggungan militer asal Tiongkok yang tumbuh pada masa darurat militer dan sepanjang hidupnya berdiri di garis depan Perang Dingin: dari menghibur pasukan di Kinmen hingga mengenakan papan bertuliskan “Menentang Pemerintahan Militer” di Happy Valley pada 1989.
-- [Teater Nasional dan Gedung Konser Nasional](/culture/兩廳院) — Diresmikan pada 1987, tahun yang sama dengan pencabutan darurat militer; berawal dari bahasa arsitektur otoriter dan menjadi saksi miniatur demokratisasi ruang budaya Taiwan setelah darurat militer.
-- [Yin Hai-kuang](/people/殷海光) — Cendekiawan liberal paling representatif pada masa darurat militer; dikenai tahanan rumah setelah kasus Lei Chen pada 1960, sedangkan bukunya, _Prospek Kebudayaan Tionghoa_, dilarang pada 1966.
+- [Teresa Teng](/id/people/teresa-teng) — Putri keluarga tanggungan militer asal Tiongkok yang tumbuh pada masa darurat militer dan sepanjang hidupnya berdiri di garis depan Perang Dingin: dari menghibur pasukan di Kinmen hingga mengenakan papan bertuliskan “Menentang Pemerintahan Militer” di Happy Valley pada 1989.
+- [Teater Nasional dan Gedung Konser Nasional](/id/culture/national-theater-and-concert-hall) — Diresmikan pada 1987, tahun yang sama dengan pencabutan darurat militer; berawal dari bahasa arsitektur otoriter dan menjadi saksi miniatur demokratisasi ruang budaya Taiwan setelah darurat militer.
+- [Yin Hai-kuang](/id/people/yin-haiguang-liberalism-philosopher) — Cendekiawan liberal paling representatif pada masa darurat militer; dikenai tahanan rumah setelah kasus Lei Chen pada 1960, sedangkan bukunya, _Prospek Kebudayaan Tionghoa_, dilarang pada 1966.
 - [Jalan Tol](/lifestyle/高速公路) — Mengapa harga pengambilalihan tanah pada masa otoriter “bahkan tidak meninggalkan nama”? Jawabannya ada dalam artikel ini: ketika memverifikasi berbagai kisah tentang lima puluh tahun jalan nasional Taiwan, kita berulang kali berhadapan dengan kekosongan kelembagaan pada masa darurat militer, ketika tidak tersedia sidang dengar pendapat maupun peradilan tata usaha negara.
 
 ---

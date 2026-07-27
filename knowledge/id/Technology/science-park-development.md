@@ -151,9 +151,9 @@ Empat puluh lima tahun lalu sawah taruh survival, menang lalu pulau ini jadi nad
 
 **Baca Lanjutan**：
 
-- [Industri Semikonduktor](/technology/半導體產業) — Dari transfer teknologi RCA ke revolusi bahan nitrogen galium dan packaging kuantum lima puluh tahun, chip di taman ini gimana caranya sampai paling canggih global
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Dari transfer teknologi RCA ke revolusi bahan nitrogen galium dan packaging kuantum lima puluh tahun, chip di taman ini gimana caranya sampai paling canggih global
 - [50 Perusahaan Terbesar Taiwan](/economy/台灣前50大企業) — Gunung pelindung negara ngepalang satu tabel, juga ngepalang satu single point of failure negara, sisi lain konsentrasi nilai produksi Taman Sains
-- [Pembangun Gunung: Taruhan Abad](/art/造山者世紀的賭注) — Dokumenter Hsiao Ju-chen (蕭菊貞) 2025, lima tahun wawancara 80+ senior semikonduktor, jadikan taruhan abad ini gambar bergerak
+- [Pembangun Gunung: Taruhan Abad](/id/art/mountain-makers-tsmc-documentary) — Dokumenter Hsiao Ju-chen (蕭菊貞) 2025, lima tahun wawancara 80+ senior semikonduktor, jadikan taruhan abad ini gambar bergerak
 
 ---
 

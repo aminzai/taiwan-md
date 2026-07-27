@@ -145,7 +145,7 @@ Metode berubah. Semangat "ada seseorang yang meletakkan jawaban di sini untuk An
 - [Semangat Sumber Terbuka Taiwan](/technology/台灣開源精神) — Sekelompok orang Taiwan lainnya "menggunakan cinta untuk menghasilkan listrik"
 - [PTT PiTiTi](/technology/PTT批踢踢) — BBS tertua di Taiwan, produk sezaman dengan Bahamut
 - [Pedang Kembar Da Yu](/technology/大宇雙劍) — Sumber启蒙 emosional permainan PC Taiwan sezaman
-- [Momen Gila Pemain Taiwan](/technology/台灣玩家的瘋狂時刻) — Histeria kolektif pemain generasi Cellar/Gamebase/Bahamut
+- [Momen Gila Pemain Taiwan](/id/technology/taiwan-gamers-wildest-moments) — Histeria kolektif pemain generasi Cellar/Gamebase/Bahamut
 
 ---
 

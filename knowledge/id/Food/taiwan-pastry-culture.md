@@ -135,11 +135,11 @@ Satu kue mengandung waktu, jauh lebih lama dari yang kau kira.
 
 ## Bacaan Lanjutan
 
-- [Kue Matahari](/food/太陽餅) — Sejarah mendalam item tunggal kue matahari hasil modifikasi Shifu A-ming Wei Ching-hai dari kue malt Kun-pai Bakery Shenkang Taichung
-- [Kue Nenas](/food/鳳梨酥) — Jalur evolusi 80 tahun dari kue nanas besar I-Fu-Tang era Jepang ke revolusi pengkotakan
+- [Kue Matahari](/id/food/sun-cake) — Sejarah mendalam item tunggal kue matahari hasil modifikasi Shifu A-ming Wei Ching-hai dari kue malt Kun-pai Bakery Shenkang Taichung
+- [Kue Nenas](/id/food/pineapple-cake) — Jalur evolusi 80 tahun dari kue nanas besar I-Fu-Tang era Jepang ke revolusi pengkotakan
 - [Roti & Pembakaran Taiwan](/food/台灣麵包與烘焙) — Dari Wu Pao-chun ke Chen Yao-hsun, kisah shifu roti Taiwan melangkah ke panggung dunia
-- [Budaya Makanan Beras Taiwan](/food/台灣米食文化) — Beras dan kue adalah dua jalur utama di meja yang sama, memahami beras baru memahami posisi kue
-- [Perkawinan, Duka, Perayaan & Adat Kehidupan Taiwan](/culture/台灣婚喪喜慶與人生禮俗) — Peran konkret kotak kue gembira di enam upacara dua belas hadiah
+- [Budaya Makanan Beras Taiwan](/id/food/taiwan-rice-cuisine-culture) — Beras dan kue adalah dua jalur utama di meja yang sama, memahami beras baru memahami posisi kue
+- [Perkawinan, Duka, Perayaan & Adat Kehidupan Taiwan](/id/culture/taiwanese-life-ceremony-traditions) — Peran konkret kotak kue gembira di enam upacara dua belas hadiah
 - [Budaya Teh Taiwan](/culture/台灣茶文化) — Kue Han dan teh serangkaian seratus tahun, kue fengyan Yuk Chin Chai asalnya teman makan teh
 
 ## Referensi

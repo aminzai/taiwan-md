@@ -191,14 +191,14 @@ Inilah pertanyaan terpenting pabrik luar negeri dalam rantai pasok AI: setelah k
 
 ## Bacaan Lanjutan
 
-- [Rantai Pasok Perangkat Keras AI](/technology/AI硬體供應鏈) — Mengapa dunia membutuhkan Taiwan mengubah kebutuhan cloud menjadi mesin.
-- [Rantai Pasok Perangkat Keras AI](/technology/AI硬體供應鏈) — Dari GPU ke rak, bagaimana ODM / EMS Taiwan menerima perangkat keras pusat data AI.
-- [Listrik Taiwan dan Semikonduktor](/technology/台灣的電力與半導體) — Bagaimana manufaktur canggih kembali ke keamanan listrik dan energi.
+- [Rantai Pasok Perangkat Keras AI](/id/technology/ai-hardware-supply-chain) — Mengapa dunia membutuhkan Taiwan mengubah kebutuhan cloud menjadi mesin.
+- [Rantai Pasok Perangkat Keras AI](/id/technology/ai-hardware-supply-chain) — Dari GPU ke rak, bagaimana ODM / EMS Taiwan menerima perangkat keras pusat data AI.
+- [Listrik Taiwan dan Semikonduktor](/id/technology/taiwan-electricity-and-semiconductors) — Bagaimana manufaktur canggih kembali ke keamanan listrik dan energi.
 - [Air Semikonduktor dan Sumber Daya Air Taiwan](/technology/半導體用水與台灣水資源) — Bagaimana pabrik wafer memasuki waduk, kekeringan, dan治理 air daur ulang.
-- [Perusahaan Taiwan: TSMC](/economy/台灣企業：台積電) — Bagaimana model foundry TSMC mengubah pembagian kerja semikonduktor global.
-- [Perusahaan Taiwan: Foxconn Precision](/economy/台灣企業：鴻海精密) — Dari kontrak elektronik ke server AI dan perangkat keras pusat data.
-- [Perusahaan Taiwan: Delta Electronics](/economy/台灣企業：台達電子) — Bagaimana daya, pendinginan, dan manajemen energi menjadi bagian dari infrastruktur AI.
-- [Pengembangan Taman Teknologi](/technology/科技園區發展) — Bagaimana kluster semikonduktor Taiwan tumbuh dari tanah dan kota.
+- [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Bagaimana model foundry TSMC mengubah pembagian kerja semikonduktor global.
+- [Perusahaan Taiwan: Foxconn Precision](/id/economy/foxconn-precision-industry) — Dari kontrak elektronik ke server AI dan perangkat keras pusat data.
+- [Perusahaan Taiwan: Delta Electronics](/id/economy/delta-electronics-taiwan-power-giant) — Bagaimana daya, pendinginan, dan manajemen energi menjadi bagian dari infrastruktur AI.
+- [Pengembangan Taman Teknologi](/id/technology/science-park-development) — Bagaimana kluster semikonduktor Taiwan tumbuh dari tanah dan kota.
 
 ## Sumber Gambar
 

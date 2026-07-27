@@ -102,7 +102,7 @@ Empat belas tahun, tiga orang, dari Zhongzheng hingga sekarang. Bilang sendiri t
 - [musik independen Taiwan (台灣獨立音樂)](/music/台灣獨立音樂) — dari Natural Q ke No Party for Cao Dong ke post-hardcore Fish Stick, alur zaman evolusi musik independen Taiwan
 - [No Party for Cao Dong (草東沒有派對)](/people/草東沒有派對) — band post-rock yang juga dibentuk teman sekelas SMA Taipei, dua kali pemenang Golden Melody Best Band, kelompok pembanding
 - [Bad Special (壞特)](/people/壞特) — musisi independen Taiwan era sama, jalan R&B bedroom-pop yang beda jauh
-- [Constant's Changeup (康士坦的變化球)](/people/康士坦的變化球) — adegan rock independen Taipei, referensi alur narasi vokal
+- [Constant's Changeup (康士坦的變化球)](/id/people/constant-and-change-band) — adegan rock independen Taipei, referensi alur narasi vokal
 
 ## Tautan Eksternal
 

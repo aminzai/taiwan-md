@@ -134,7 +134,7 @@ Sejarah arsitektur Taiwan bukanlah garis lurus. Ia lebih menyerupai sejumlah sun
 
 **Bacaan lanjutan**:
 
-- [Kepekaan Taiwan: Apakah kita harus menunggu orang Korea menyukainya dahulu sebelum berani mengatakan bahwa rumah-rumah tua kita indah?](/culture/台灣感性) — konteks arsitektur di balik teralis besi dekoratif, arkade kaki lima, dan dinding luar apartemen tua; orang Taiwan sebenarnya telah menemukan kembali bangunan-bangunan tua ini sebelas tahun lebih awal daripada tren “대만감성” di Korea Selatan
+- [Kepekaan Taiwan: Apakah kita harus menunggu orang Korea menyukainya dahulu sebelum berani mengatakan bahwa rumah-rumah tua kita indah?](/id/culture/taiwanese-sensibility) — konteks arsitektur di balik teralis besi dekoratif, arkade kaki lima, dan dinding luar apartemen tua; orang Taiwan sebenarnya telah menemukan kembali bangunan-bangunan tua ini sebelas tahun lebih awal daripada tren “대만감성” di Korea Selatan
 
 ## Referensi
 

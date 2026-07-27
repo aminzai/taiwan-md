@@ -173,11 +173,11 @@ Itu juga salah satu posisi Taiwan saat ini yang paling jelas, dan yang paling pe
 
 - [Ekspor Taiwan dan Rantai Pasok Global](/economy/台灣外貿與全球供應鏈) — Latar belakang makro dari ekspor berorientasi, perdagangan segitiga, hingga restrukturisasi rantai pasok AS-Tiongkok.
 - [NVIDIA di Taiwan](/technology/NVIDIA在台灣) — Bagaimana NVIDIA menitipkan secara mendalam manufaktur chip, pengemasan, dan perakitan server di Taiwan.
-- [Industri Semikonduktor](/technology/半導體產業) — Latar belakang panjang dari alih teknologi RCA,代工 TSMC, hingga medan perang bahan dan pengemasan.
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Latar belakang panjang dari alih teknologi RCA,代工 TSMC, hingga medan perang bahan dan pengemasan.
 - [Computex](/technology/Computex) — Mengapa Taipei Computer Fair menjadi tempat ziarah pasokan perangkat keras global di era AI.
-- [Listrik Taiwan dan Semikonduktor](/technology/台灣的電力與半導體) — Tagihan listrik di balik rantai pasok AI, tekanan energi hijau, dan keamanan energi.
+- [Listrik Taiwan dan Semikonduktor](/id/technology/taiwan-electricity-and-semiconductors) — Tagihan listrik di balik rantai pasok AI, tekanan energi hijau, dan keamanan energi.
 - [Air Semikonduktor dan Sumber Daya Air Taiwan](/technology/半導體用水與台灣水資源) — Bagaimana pabrik wafer terhubung ke waduk, kekeringan, air daur ulang, dan tata kelola lokal.
-- [Pabrik Rantai Pasok AI di Luar Negeri](/technology/AI供應鏈海外設廠) — Dari TSMC, Foxconn, Wistron hingga Delta, bagaimana rantai pasok Taiwan diminta keluar oleh dunia.
+- [Pabrik Rantai Pasok AI di Luar Negeri](/id/technology/ai-supply-chain-overseas-manufacturing) — Dari TSMC, Foxconn, Wistron hingga Delta, bagaimana rantai pasok Taiwan diminta keluar oleh dunia.
 
 ## Sumber Gambar
 

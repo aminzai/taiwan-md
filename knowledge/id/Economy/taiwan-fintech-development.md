@@ -124,8 +124,8 @@ Pada Desember 2025, LINE Bank melaporkan keuntungan bulanannya yang kecil namun 
 
 **Bacaan Lanjutan:**
 
-- [Industri Semikonduktor](/technology/半導體產業) — Industri lain di Taiwan yang dimulai dengan dukungan kebijakan dan akhirnya mengubah lanskap global.
-- [Ekosistem Startup](/economy/新創生態系) — Gambaran menyeluruh tentang lingkaran startup Taiwan tempat Jiekou Pay berada.
+- [Industri Semikonduktor](/id/technology/taiwan-semiconductor-industry) — Industri lain di Taiwan yang dimulai dengan dukungan kebijakan dan akhirnya mengubah lanskap global.
+- [Ekosistem Startup](/id/economy/taiwan-startup-ecosystem-overview) — Gambaran menyeluruh tentang lingkaran startup Taiwan tempat Jiekou Pay berada.
 - [E-commerce dan Ekosistem Pembayaran Digital](/technology/電子商務與數位支付生態系) — Infrastruktur dasar e-commerce di balik pembayaran seluler.
 - [Pasar Saham dan Pasar Modal Taiwan](/economy/台灣股市與資本市場) — Evolusi infrastruktur keuangan dan pasar modal dari telepon manual hingga investasi rutin melalui ponsel pintar.
 

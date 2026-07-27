@@ -136,4 +136,4 @@ Ini bukan hanya cerita satu cangkir teh, melainkan kisah bagaimana sebuah pulau 
 
 ## Topik Terkait
 
-- [台灣小吃](/food/台灣小吃)
+- [台灣小吃](/id/food/taiwanese-street-food)

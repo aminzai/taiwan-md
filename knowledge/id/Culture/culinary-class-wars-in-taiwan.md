@@ -126,9 +126,9 @@ Tapi satu hal akan tinggal: 2024–2026 dua tahun ini, konsumen Taiwan di superm
 
 ## Bacaan Lanjutan
 
-- [Budaya Supermarkonvenien Taiwan](/lifestyle/台灣便利商店文化) — Kolaborasi 7-ELEVEN × Baek Jong-won terjadi di skenario industri, memahami logika kompetisi medan makanan segar supermarkonvenien
+- [Budaya Supermarkonvenien Taiwan](/id/lifestyle/convenience-store-culture) — Kolaborasi 7-ELEVEN × Baek Jong-won terjadi di skenario industri, memahami logika kompetisi medan makanan segar supermarkonvenien
 - [Budaya Minuman Tangan Taiwan](/food/台灣手搖飲文化) — Kolaborasi Kim Tae-sung × Sip terjadi di konteks industri minuman tangan, medan pertempuran minuman paling berdaya ekspor Taiwan
-- [Teh Manis Pearl](/food/珍珠奶茶) — Simbol representatif minuman tangan Taiwan, dengan merek minuman tangan Korea masuk era Black and White Chef membentuk kontras budaya konsumen
+- [Teh Manis Pearl](/id/food/bubble-tea) — Simbol representatif minuman tangan Taiwan, dengan merek minuman tangan Korea masuk era Black and White Chef membentuk kontras budaya konsumen
 
 ## Referensi
 

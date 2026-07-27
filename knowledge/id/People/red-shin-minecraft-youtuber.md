@@ -140,8 +140,8 @@ Video Minecraft 14 Juli 2026 masih di bagian paling atas beranda. Melihat ke ata
 **Bacaan Lanjutan**:
 
 - [Industri dan Budaya YouTuber Taiwan](/culture/台灣YouTuber產業與文化) — Dari hobi pribadi ke produksi profesional, melengkapi konteks industri platform Taiwan tempat Ashan berkreasi dalam jangka panjang.
-- [Pondless](/culture/無名小站) — Meninjau kembali bagaimana platform komunitas mengatur pintu masuk publikasi, tontonan, dan memori untuk generasi internet Taiwan.
-- [Zun](/people/尊) — Kreator lain yang memulai dari video game, memungkinkan jalur yang dapat dibandingkan untuk kehidupan publik jangka panjang,分流 saluran, dan catatan dewasa.
+- [Pondless](/id/culture/wretch) — Meninjau kembali bagaimana platform komunitas mengatur pintu masuk publikasi, tontonan, dan memori untuk generasi internet Taiwan.
+- [Zun](/id/people/zun) — Kreator lain yang memulai dari video game, memungkinkan jalur yang dapat dibandingkan untuk kehidupan publik jangka panjang,分流 saluran, dan catatan dewasa.
 - [HowHow](/people/Howhow) — Membandingkan bagaimana YouTuber awal Taiwan memasukkan format tetap, iklan industri, dan kehidupan pribadi ke dalam pekerjaan kreator yang sama.
 
 ## Sumber Gambar

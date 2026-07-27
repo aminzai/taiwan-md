@@ -144,10 +144,10 @@ Resun dalam video rumah baru, masih merupakan orang yang sama dengan siswa SMP y
 
 **Bacaan Lanjutan**:
 
-- [A Shen](/people/阿神) — Sama-sama memulai dari video game; sebelas hari pengunggahan beruntun A Shen dan penarikan janji publikasi tetap kemudian, dapat dibandingkan dengan ritme kerja kreator jangka panjang lainnya.
+- [A Shen](/id/people/red-shin-minecraft-youtuber) — Sama-sama memulai dari video game; sebelas hari pengunggahan beruntun A Shen dan penarikan janji publikasi tetap kemudian, dapat dibandingkan dengan ritme kerja kreator jangka panjang lainnya.
 - [HowHow](/people/Howhow) — Sama-sama datang dari awal YouTube Taiwan, menempatkan komedi absurd, afiliasi, dan kehidupan keluarga ke dalam identitas kreatif yang sama.
 - [Cai A-Ga](/people/蔡阿嘎) — Dari video pendek pribadi menuju tim dan saluran keluarga, dapat dibandingkan dengan jalur kedewasaan kreator jangka panjang lainnya.
-- [Gamer](/culture/巴哈姆特) — Pintu masuk penting game dan komunitas web Taiwan, juga salah satu tanah tempat budaya siaran langsung awal tumbuh.
+- [Gamer](/id/culture/bahamut-taiwan-gaming-community) — Pintu masuk penting game dan komunitas web Taiwan, juga salah satu tanah tempat budaya siaran langsung awal tumbuh.
 
 ## Sumber Gambar
 

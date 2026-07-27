@@ -132,7 +132,7 @@ Dari kulit domba Lopo Homem 1554, sampai Google Maps di genggaman Anda 2026, set
 - [Lima Bentuk Lahan Utama Taiwan dan Struktur Geografis](/geography/台灣五大地形與地理結構) — Pembentukan geologi dan sebaran rinci lima bentuk lahan utama
 - [Gerakan Lempeng Tektonik Taiwan dan Aktivitas Gempa](/geography/台灣板塊運動與地震活動) — Kenapa Taiwan gunung begitu banyak: tabrakan Lempeng Laut Filipina dan Lempeng Eurasia
 - [Masa Belanda, Spanyol, Koxinga](/history/荷西明鄭時期) — 1624-1683, era orang Eropa pertama kali menggambar peta detail Taiwan
-- [Pulau Terpencil dan Budaya Laut](/geography/離島與海洋文化) — Kinmen, Matsu, Penghu: di peta paling jauh dari Taiwan, paling dekat ke Tiongkok, tapi tetap "Taiwan"
+- [Pulau Terpencil dan Budaya Laut](/id/geography/offshore-islands-and-maritime-culture) — Kinmen, Matsu, Penghu: di peta paling jauh dari Taiwan, paling dekat ke Tiongkok, tapi tetap "Taiwan"
 
 ## Referensi
 

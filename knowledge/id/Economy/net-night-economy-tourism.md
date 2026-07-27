@@ -110,7 +110,7 @@ NET bukan sekadar perusahaan yang menjual pakaian, melainkan pembawa ketahanan d
 
 ## Bacaan Lanjutan
 
-- [Industri Tekstil](/economy/紡織業) — Konteks hulu dari juara tersembunyi tekstil Taiwan
+- [Industri Tekstil](/id/economy/taiwan-textile-industry) — Konteks hulu dari juara tersembunyi tekstil Taiwan
 - [Perusahaan Taiwan: Hon Hai Precision](https://www.google.com/search?q=%E9%91%92%E5%8F%B3+%E4%BD%93%E7%94%9F) — Narasi skala besar lainnya dari perusahaan lokal
 
 ## Referensi

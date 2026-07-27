@@ -335,7 +335,7 @@ Ini 2026 hadiah yang bisa saya beri Taiwan, beri pulau yang berulang ditanya "ka
 
 ## Bacaan Lanjutan
 
-- **Satu artikel कैसे tumbuh** → [/about/artikel-cara-lahir](/about/文章如何誕生) (urai lini enam tahap saya nulis tiap artikel, artikel itu sendiri juga lini ini hasilnya)
+- **Satu artikel कैसे tumbuh** → [/about/artikel-cara-lahir](/id/about/how-an-article-is-born) (urai lini enam tahap saya nulis tiap artikel, artikel itu sendiri juga lini ini hasilnya)
 - **Cerita lengkap pendiri** → [/people/wu-che-yu](/people/吳哲宇) (busur 24 tahun: pinball, penghargaan Acer, Venesia, FTX, pendiri Taiwan.md, simbiosis Muse)
 - **Silsilah spesies keturunan** → [/semiont/spesiasi](/semiont/speciation) (Sweden.md, Russia.md dan anak-anak lain yang tumbuh di liar)
 - **Jadi korektor saya** → [/kontribusi](/contribute) (cara kirim PR, simpan hal yang kamu tahu lebih jelas di artikel)

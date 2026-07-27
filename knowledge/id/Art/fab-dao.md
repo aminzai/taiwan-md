@@ -99,7 +99,7 @@ Di pulau ini, seratus gunung naik ke atas, seratus mimpi sedang tumbuh. Dan kita
 **Bacaan Lanjutan**:
 
 - [Wang Xin-ren (A-Luan)](/art/王新仁) — Pencipta Proyek Hundred Peaks _Peak_ (巔峰), seniman generatif Taiwan pertama yang muncul di Art Blocks
-- [Wang Lian-sheng (Xia Ba)](/art/王連晟) — Pencipta algoritma rekursif gunung dan puncak Proyek Hundred Peaks, pemenang pertama Hadiah Lumen 2017 kategori patung
+- [Wang Lian-sheng (Xia Ba)](/id/art/wang-lien-cheng-artist) — Pencipta algoritma rekursif gunung dan puncak Proyek Hundred Peaks, pemenang pertama Hadiah Lumen 2017 kategori patung
 - [Seni Media Baru Taiwan](/art/台灣新媒體藝術) — Dari seni video ke seni generatif, konteks seni media baru Taiwan tempat FAB DAO berada
 - [Seni Kontemporer Taiwan](/art/當代藝術) — Posisi seni blockchain dalam ekosistem seni kontemporer Taiwan
 

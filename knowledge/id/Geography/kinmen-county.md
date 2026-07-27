@@ -194,13 +194,13 @@ Lihat orang-orang yang menunggu untuk naik kapal: ada penduduk Kinmen yang pergi
 - [Kabupaten Lianjiang](/geography/連江縣) — Saudara kandung Seri 22 Kota dan Kabupaten, kabupaten pulau luar Fujian lainnya. Sama-sama pemerintahan militer wilayah perang 1956, diakhiri 1992, Tiga Penghubung Kecil 2001, namun berbicara bahasa Fuzhou Hokkien Timur, berjarak 50 km dari Fuzhou, tidak ada pertempuran darat skala Gulingtou, sama dengan Kinmen sistem yang sama namun daging dan tulang berbeda
 - [Kota Keelung](/geography/基隆市) — Pilot Seri 22 Kota dan Kabupaten, satu-satunya pelabuhan air dalam di utara vs benteng pertahanan laut selatan Kinmen, dua sumbu waktu pelabuhan Taiwan
 - [Kabupaten Penghu](/geography/澎湖縣) — Kabupaten ketiga kelompok pulau luar Seri 22 Kota dan Kabupaten, sama-sama pulau luar dengan sejarah pendudukan Jepang, dapat dibandingkan dengan perbedaan Kinmen yang tidak pernah secara langsung dikelola oleh pendudukan Jepang
-- [Zheng Chenggong](/people/鄭成功) — Memulai pemberontakan anti-Qing dan restorasi Ming di Kinmen pada 1646, keputusan orang ini untuk berangkat dari Kinmen kemudian mengubah Taiwan
+- [Zheng Chenggong](/id/people/koxinga) — Memulai pemberontakan anti-Qing dan restorasi Ming di Kinmen pada 1646, keputusan orang ini untuk berangkat dari Kinmen kemudian mengubah Taiwan
 - [Chiang Kai-shek](/people/蔣中正) — 1958 "Jangan Lupakan Ju Guang" tulisan Taiwu, pengambil keputusan 1949 yang memerintahkan pertahanan mati di Kinmen
-- [Periode Peraturan Darurat](/history/戒嚴時期) — Taiwan Daratan melonggarkan peraturan darurat 1987, Kinmen dan Matsu baru mengakhiri pemerintahan militer wilayah perang 1992, baca ini untuk membandingkan dua versi peraturan darurat
+- [Periode Peraturan Darurat](/id/history/martial-law-era) — Taiwan Daratan melonggarkan peraturan darurat 1987, Kinmen dan Matsu baru mengakhiri pemerintahan militer wilayah perang 1992, baca ini untuk membandingkan dua versi peraturan darurat
 - [Krisis Selat Taiwan dan Perkembangan Hubungan Lintas Selat](/history/台海危機與兩岸關係發展) — Pertempuran Meriam 823 adalah salah satu bukti fisik paling konkret dari Perang Dingin Panas, bagian "pukul 17.30 sore" artikel ini adalah ekstensi tingkat kabupaten dari artikel ini
 - [Modernisasi Pertahanan dan Militer Taiwan](/society/台灣國防與軍事現代化) — Evolusi garnisun militer Kinmen 50.000-100.000 orang hingga kurang dari 10.000 orang hari ini, dibandingkan dengan jejak modernisasi Angkatan Darat Nasional secara keseluruhan
 - [Karakteristik Geografi dan Pembentukan Pulau Taiwan](/geography/台灣島嶼地理特色與形成) — Perbandingan geologi granit Kinmen dengan mekanisme pembentukan pulau Taiwan lainnya
-- [Legenda Mazu dan Da Gong](/culture/媽祖與大道公的傳說) — Kepercayaan Hokkien Kinmen dan Taiwan Daratan memiliki sumber yang sama, berbeda dengan legenda gua suci Kuil Mazu Matsu
+- [Legenda Mazu dan Da Gong](/id/culture/mazu-dadaogong-legend) — Kepercayaan Hokkien Kinmen dan Taiwan Daratan memiliki sumber yang sama, berbeda dengan legenda gua suci Kuil Mazu Matsu
 
 ## Sumber Gambar
 

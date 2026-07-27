@@ -105,7 +105,7 @@ Telur besi bukan sekadar camilan, melainkan beban sejarah Tamsui yang berubah da
 
 ## Topik Terkait
 
-- [Budaya Pasar Malam](/Food/夜市文化) — Analisis mendalam pasar malam sebagai ruang sosial
-- [Camilan Khas Tiongkok](/Food/台灣小吃) — Semangat grassroots Taiwan dalam makanan sehari-hari
+- [Budaya Pasar Malam](/id/food/night-market-culture) — Analisis mendalam pasar malam sebagai ruang sosial
+- [Camilan Khas Tiongkok](/id/food/taiwanese-street-food) — Semangat grassroots Taiwan dalam makanan sehari-hari
 - [Nasi Unggul Taiwan](/Food/台灣滷肉飯) — Kenangan kolektif suku bangsa dalam satu mangkuk nasi
 - [Budaya Makanan Kepala Dalang](/Food/客家飲食文化) — Kecerdasan makanan komunitas Kepala Dalang

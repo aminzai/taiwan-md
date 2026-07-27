@@ -123,7 +123,7 @@ Bukan karena tiba-tiba menjadi "mulia". Karena ia selalu di sana, dan cukup bany
 - [Anime Fever](https://ani.gamer.com.tw) — OTT lokal Taiwan, streaming lisensi legal anime Jepang
 - [Wawancara GNN Chen Chien-hung (Sega), 2011](https://gnn.gamer.com.tw/detail.php?sn=60444) — Catatan langsung sang pendiri meninjau 15 tahun sejarah Bahamut
 - [Lebih Tua dari Facebook! Bahamut 27 Tahun, Mengapa Pengguna Makin Banyak? (Digital Era, 2023)](https://www.bnext.com.tw/article/73765/gamer) — Wakil Direktur Eksekutif Chen Chien-jen membahas filsafat mengelola komunitas
-- [Zun (尊)](/people/尊) — Pencipta muda yang bermula dari streaming game, memantulkan jalan lain komunitas ACG Taiwan memasuki era YouTube
+- [Zun (尊)](/id/people/zun) — Pencipta muda yang bermula dari streaming game, memantulkan jalan lain komunitas ACG Taiwan memasuki era YouTube
 
 ---
 

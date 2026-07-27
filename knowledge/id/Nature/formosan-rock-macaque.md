@@ -85,7 +85,7 @@ Daripada memandang mereka sebagai preman, lebih baik belajar lagi menjaga **"jar
 
 - [Etika Kebun Binatang & Satwa Pertunjukan](/society/動物園與展演動物倫理) — Diskusi etika satwa tertahan, melengkapi kerangka "tetangga" makak liar dalam artikel ini
 - [Daftar Kebun Binatang di Taiwan](/society/台灣有哪些動物園) — Kebun Binatang Shoushan dan populasi makak Shoushan yang hidup berdampingan di geografi yang sama
-- [Robert Swinhoe: Dari Diplomat Jadi Ahli Biologi](/people/史溫侯) — Ahli biologi Inggris 1862 yang menamai _Macaca cyclopis_, latar belakang sejarah [^4][^5] artikel ini
+- [Robert Swinhoe: Dari Diplomat Jadi Ahli Biologi](/id/people/robert-swinhoe-naturalist) — Ahli biologi Inggris 1862 yang menamai _Macaca cyclopis_, latar belakang sejarah [^4][^5] artikel ini
 - [Bangau Hitam](/nature/黑冠麻鷺) — Kasus satwa liar lain memasuki area aktivitas manusia; makak mendekat karena makanan, bangau hitam masuk kota lebih karena perluasan habitat — manusia tanpa sadar menciptakan habitat hutan dataran rendah di perkotaan
 
 ## Referensi

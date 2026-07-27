@@ -73,9 +73,9 @@ Liu Yi-ru dalam wawancara media juga berkata: "Dulu aturan seluruh pertunjukan t
 
 **Bacaan Lanjutan**:
 
-- [Cihu Memorial Hall](/history/中正紀念堂) — Sama-sama karya rancangan Yang Cho-cheng, bangunan纪念 era yang sama, lokasi inti isu lanskap politik Chiang Kai-shek dan keadilan transisional
-- [Era Hukum Darurat](/history/戒嚴時期) — Dua Aula selesai pada 1987正是 Taiwan tahun pembukaan hukum darurat, memahami konteks politik saat itu membantu membaca makna sejarah bangunan
-- [Wayang Potehi (布袋戲)](/culture/布袋戲) — Bentuk lain seni pertunjukan Taiwan rakyat, berdampingan dengan Dua Aula mewakili tempat seni pertunjukan rakyat tradisi komunitas
+- [Cihu Memorial Hall](/id/history/chiang-kai-shek-memorial-hall) — Sama-sama karya rancangan Yang Cho-cheng, bangunan纪念 era yang sama, lokasi inti isu lanskap politik Chiang Kai-shek dan keadilan transisional
+- [Era Hukum Darurat](/id/history/martial-law-era) — Dua Aula selesai pada 1987正是 Taiwan tahun pembukaan hukum darurat, memahami konteks politik saat itu membantu membaca makna sejarah bangunan
+- [Wayang Potehi (布袋戲)](/id/culture/taiwanese-glove-puppetry-budaixi) — Bentuk lain seni pertunjukan Taiwan rakyat, berdampingan dengan Dua Aula mewakili tempat seni pertunjukan rakyat tradisi komunitas
 
 ## Referensi
 

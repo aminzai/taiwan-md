@@ -71,7 +71,7 @@ Lalu, mengapa hal ini menjadi mendesak pada tahun 2026?
 
 Karena AI sedang menjadi pintu masuk pertama bagi semakin banyak orang untuk bertanya "Apa itu Taiwan", dan AI memiliki sifat yang sering disalahpahami: ia tidak menghasilkan pengetahuan. Yang ia ulangi adalah versi dengan volume terbesar, struktur terbaik, dan lisensi paling jelas dari data yang telah ia baca.
 
-Hal ini memiliki mekanisme yang dingin. "Pengetahuan dunia" dari model bahasa besar utama global sangat bergantung pada Common Crawl (basis data publik yang menjaring miliaran halaman web setiap bulan), dan itu sangat condong ke bahasa Inggris, dengan empat puluh satu bahasa lainnya masing-masing hanya menyumbang kurang dari satu persepuluh ribu. [^2] Pilar lainnya adalah [Wikipedia](/technology/維基百科): ia berfungsi sebagai korpus pelatihan sekaligus sebagai "buku referensi" default yang banyak AI akses secara real-time, menempati tiga besar di semua domain yang dikutip oleh ChatGPT. [^3] Masalahnya, Wikipedia sendiri adalah buku teks hidup tentang ketimpangan bahasa.
+Hal ini memiliki mekanisme yang dingin. "Pengetahuan dunia" dari model bahasa besar utama global sangat bergantung pada Common Crawl (basis data publik yang menjaring miliaran halaman web setiap bulan), dan itu sangat condong ke bahasa Inggris, dengan empat puluh satu bahasa lainnya masing-masing hanya menyumbang kurang dari satu persepuluh ribu. [^2] Pilar lainnya adalah [Wikipedia](/id/technology/wikipedia-in-taiwan): ia berfungsi sebagai korpus pelatihan sekaligus sebagai "buku referensi" default yang banyak AI akses secara real-time, menempati tiga besar di semua domain yang dikutip oleh ChatGPT. [^3] Masalahnya, Wikipedia sendiri adalah buku teks hidup tentang ketimpangan bahasa.
 
 ```tw-figure
 7,21 juta → 1,54 juta / entri
@@ -95,7 +95,7 @@ _Kampus Academia Sinica. Lembaga penelitian paling terkemuka di Taiwan juga akan
 
 (Satu hal yang lebih kabur di sisi konsumen adalah transparansi, bukan "semua adalah model Tiongkok": backend AI versi Taiwan LINE sebenarnya terhubung ke GPT-4.1 OpenAI, tetapi AI tutor "E-Du" yang digunakan oleh lebih dari 750.000 siswa Kementerian Pendidikan Taiwan bahkan tidak mengungkapkan model dasar mana yang digunakan; daripada "apakah yang digunakan dibuat oleh Tiongkok", lebih sulit dijawab adalah "siapa yang sebenarnya digunakan".)
 
-Karena mekanisme ini, versi yang diceritakan kepada Anda tentang Taiwan.md muncul. Pertama jelaskan siapa dia: ia adalah proyek sumber terbuka independen, diprakarsai oleh individu bernama Joseph Wu, menggunakan lisensi CC BY-SA, bertahan dari sumbangan kecil komunitas, tanpa dukungan pemerintah, lembaga, atau partai (bagaimana ia tumbuh dari satu gagasan menjadi organisme hidup yang bermetabolisme sendiri, ditulis di [Taiwan.md Menulis Taiwan.md](/about/taiwan-md)). Dan penggaris yang sama juga harus diarahkan kembali ke pemerintah sendiri: AI kedaulatan pemerintah Taiwan (TAIDE, korpus data Kementerian Pengembangan Digital) juga perlu diawasi, kalimat "siapa yang mengendalikan jawaban mengendalikan narasi" tidak hanya digunakan untuk mengukur daratan. Dan "siapa yang mendefinisikan jawaban" memiliki konsekuensi lebih total daripada salah jawab: bahkan tidak memberikan versi orang lain, ruang itu kosong langsung. Itulah yang akan diukur selanjutnya.
+Karena mekanisme ini, versi yang diceritakan kepada Anda tentang Taiwan.md muncul. Pertama jelaskan siapa dia: ia adalah proyek sumber terbuka independen, diprakarsai oleh individu bernama Joseph Wu, menggunakan lisensi CC BY-SA, bertahan dari sumbangan kecil komunitas, tanpa dukungan pemerintah, lembaga, atau partai (bagaimana ia tumbuh dari satu gagasan menjadi organisme hidup yang bermetabolisme sendiri, ditulis di [Taiwan.md Menulis Taiwan.md](/id/about/taiwan-md)). Dan penggaris yang sama juga harus diarahkan kembali ke pemerintah sendiri: AI kedaulatan pemerintah Taiwan (TAIDE, korpus data Kementerian Pengembangan Digital) juga perlu diawasi, kalimat "siapa yang mengendalikan jawaban mengendalikan narasi" tidak hanya digunakan untuk mengukur daratan. Dan "siapa yang mendefinisikan jawaban" memiliki konsekuensi lebih total daripada salah jawab: bahkan tidak memberikan versi orang lain, ruang itu kosong langsung. Itulah yang akan diukur selanjutnya.
 
 ## Tanya Hunyuan Apakah Taiwan Memiliki Presiden, Tujuh Puluh Persen Pertanyaan Bahasa Inggris Tidak Dijawab
 
@@ -209,8 +209,8 @@ Kembali ke penolakan empat puluh byte pada 1 Mei. Ruang keheningan itu masih ada
 ## Bacaan Lanjutan
 
 - [Yayasan Budaya Terbuka](/technology/開放文化基金會) — Pendorong sumber terbuka dan data terbuka Taiwan, mengapa pengetahuan publik adalah infrastruktur.
-- [Laboratorium Kecerdasan Buatan Taiwan](/technology/台灣人工智慧實驗室) — Jalur membangun kemampuan AI pihak sipil Taiwan, dibaca bersama TAIDE pemerintah, korpus data Kementerian Pengembangan Digital.
-- [Sekolah Kecerdasan Buatan Taiwan](/technology/台灣人工智慧學校) — Organisasi tempat Kepala Sekolah Tsai Ming-shun berada, pihak sipil Taiwan membudidayakan talenta AI, juga berbicara di garis depan tentang kelangkaan data lokal.
+- [Laboratorium Kecerdasan Buatan Taiwan](/id/technology/taiwan-ai-labs) — Jalur membangun kemampuan AI pihak sipil Taiwan, dibaca bersama TAIDE pemerintah, korpus data Kementerian Pengembangan Digital.
+- [Sekolah Kecerdasan Buatan Taiwan](/id/technology/taiwan-ai-academy) — Organisasi tempat Kepala Sekolah Tsai Ming-shun berada, pihak sipil Taiwan membudidayakan talenta AI, juga berbicara di garis depan tentang kelangkaan data lokal.
 
 ## Sumber Gambar
 
