@@ -449,7 +449,8 @@ def load_lang_guide_tldr(lang: str, max_chars: int = 4000) -> str:
     return out
 
 
-def armor_pre(article: dict, zh_content: str, lang: str, armor: bool = False) -> tuple[str, str, dict]:
+def armor_pre(article: dict, zh_content: str, lang: str, armor: bool = False,
+              tokenize: bool = True) -> tuple[str, str, dict]:
     """輸入前處理：組出 system/user prompt + 還原用的 ctx。
 
     2026-07-26 兩級化（reports/armored-input-ab-2026-07-26.md §五結論）：
@@ -468,7 +469,14 @@ def armor_pre(article: dict, zh_content: str, lang: str, armor: bool = False) ->
     fm_prompt_block = disarm_frontmatter(zh_fm)
 
     # ---- Transform 2（常駐）: URL token 化（body 含腳註定義行）+ 站內連結在地化 ----
-    tokenized_body, url_list = tokenize_urls(body, lang)
+    # tokenize=False 是 armor 還原失敗後的 fallback 路徑（2026-07-27）：URL 原樣
+    # 送進模型，不換成 ⟦U1⟧。實測「重試同一條裝甲路徑」是負面結果（遺失量
+    # 2→56），因為佔位標記本身就是模型想處理掉的異物，講得越明白越去動它。
+    # 換路才有意義；URL 正確性改由既有 verify 的 URL 數量檢查把關。
+    if tokenize:
+        tokenized_body, url_list = tokenize_urls(body, lang)
+    else:
+        tokenized_body, url_list = body, []
 
     lang_name = LANG_NAMES.get(lang, lang)
 
@@ -759,11 +767,15 @@ def translate_one(article: dict, lang: str, cascade: TranslationCascade,
             # 恰好一次）維持嚴格，改的只是終局處置：先給一次帶警告的重試，
             # 用完額度才報失敗。防護的成功率不該直接變成產線的通過率。
             if "URL token" in post_err and attempt < max_attempts:
-                print(f"   ⚠️  {post_err} — 重試 (attempt {attempt + 1}/{max_attempts})，"
-                      f"提示模型逐字保留 token")
-                user_msg = (user_msg + "\n\n⚠️ 上一次輸出遺失或重複了 ⟦U1⟧ ⟦U2⟧ 這類 URL "
-                            "佔位標記。它們**不是**要翻譯的內容，必須逐字原樣保留，"
-                            "每個標記在輸出中恰好出現一次，數量與位置都不可增減。")
+                # 換路，不是重走。2026-07-27 實測：帶警告重試同一條裝甲路徑
+                # 讓遺失量不減反增（2→56、28→22、2→3）——佔位標記本身就是模型
+                # 想「處理掉」的異物，把它講得越明白反而越去動它。所以 fallback
+                # 是把 URL 原樣送進去（tokenize=False），URL 正確性改由既有
+                # verify 的 URL 數量檢查把關，不再靠模型保住標記。
+                print(f"   ⚠️  {post_err} — fallback 非裝甲路徑重譯 "
+                      f"(attempt {attempt + 1}/{max_attempts})")
+                system, user_msg, armor_ctx = armor_pre(
+                    article, zh_content, lang, armor=armor, tokenize=False)
                 continue
             return False, f"{post_err} via {backend_used} — not saved", backend_used
 
