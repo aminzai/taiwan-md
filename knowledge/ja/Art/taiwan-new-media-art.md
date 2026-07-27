@@ -147,19 +147,19 @@ When the name of Yu Shien Yang appeared on the jury list for the 2025 Ars Electr
 **Further Reading**:
 
 - [Development of Contemporary Taiwanese Literature](/art/台灣當代文學發展) — The contemporary creative ecology of Taiwan that rose alongside new media art, understanding the overall context of the cultural circle
-- [Taiwan Theater and Performing Arts](/art/台灣劇場與表演藝術) — The performing arts background of cross-disciplinary creators like Huang Yi, the intersection of body and technology
+- [Taiwan Theater and Performing Arts](/ja/art/taiwanese-theater-and-performing-arts) — The performing arts background of cross-disciplinary creators like Huang Yi, the intersection of body and technology
 - [Taiwan Cinema](/art/台灣電影) — Another thread of Taiwanese image art, sharing the film festival stage with new media art
-- [Open Source Communities and g0v](/technology/開源社群與g0v) — Another aspect of Taiwan's tech culture, the intersection of open-source spirit and the art circle
-- [History of the Taiwan Television Industry](/technology/台灣電視產業史) — The media evolution from radio/television to OTT, the institutional context of image technology
-- [justfont and the Development of Taiwanese Typography](/technology/justfont-and-taiwan-typography) — Another group of creators at the intersection of design, technology, and cultural identity: the people who painstakingly restored Taiwan's characters stroke by stroke
-- [Hsieh De-ching](/art/謝德慶) — The body medium before new media, a pioneer of Taiwanese performance art and an international master of "Five Years Performance"
-- [Wang Hsin-jen (A-Luan)](/art/王新仁) — The first Taiwanese generative artist to appear on Art Blocks, core figure in akaSwap and the FAB DAO Hundred Peaks Project
-- [Wang Lian-sheng (Shrimp Dad)](/art/王連晟) — Winner of the 2017 Lumen Prize Sculpture Category, member of i/O Lab and organizer of Lost Sound Festival, representative of Taiwanese sound installation art
-- [Wu Che-yu](/people/吳哲宇) — A self-proclaimed "ancient clockmaker" new media artist, initiator of the Venice Biennale Personal Structures × Art Basel Miami × Taiwan.md open-source project
-- [The Reporter: Saving Investigative Journalism from a Business Item to a Public Good for Ten Years](/society/報導者) — Another Taiwan-DNA case driven by civic communities and growing across boundaries, showing another path of constructing public goods in civil society after 2015
-- [justfont and the Development of Taiwanese Typography: From Wah Fu's 25 Years to Jin Xuan's 76 Minutes of Type History](/technology/justfont與台灣字體發展) — Typography as cultural infrastructure, another dimension focusing on Taiwanese visual subjectivity alongside new media art
-- [Submarine Cables: Visible at the Top of the Silicon Shield, Invisible at the Bottom of the Lifeline](/technology/海底電纜) — 99% of cross-border new media art exhibitions and curation collaborations go through submarine cables; this article reveals this invisible digital cultural infrastructure
-- [Nien Jung-chen](/people/聶永真) — Taiwan's first member of the AGI International Graphic Design Alliance, the curatorial position of Yongzhen JiZhi Studio and contemporary Taiwanese visual culture
+- [Open Source Communities and g0v](/ja/technology/open-source-and-g0v) — Another aspect of Taiwan's tech culture, the intersection of open-source spirit and the art circle
+- [History of the Taiwan Television Industry](/ja/technology/taiwan-television-industry-history) — The media evolution from radio/television to OTT, the institutional context of image technology
+- [justfont and the Development of Taiwanese Typography](/ja/technology/justfont-and-taiwan-typography) — Another group of creators at the intersection of design, technology, and cultural identity: the people who painstakingly restored Taiwan's characters stroke by stroke
+- [Hsieh De-ching](/ja/art/tehching-hsieh-performance-artist) — The body medium before new media, a pioneer of Taiwanese performance art and an international master of "Five Years Performance"
+- [Wang Hsin-jen (A-Luan)](/ja/art/wang-hsin-jen-artist) — The first Taiwanese generative artist to appear on Art Blocks, core figure in akaSwap and the FAB DAO Hundred Peaks Project
+- [Wang Lian-sheng (Shrimp Dad)](/ja/art/wang-lien-cheng-artist) — Winner of the 2017 Lumen Prize Sculpture Category, member of i/O Lab and organizer of Lost Sound Festival, representative of Taiwanese sound installation art
+- [Wu Che-yu](/ja/people/che-yu-wu) — A self-proclaimed "ancient clockmaker" new media artist, initiator of the Venice Biennale Personal Structures × Art Basel Miami × Taiwan.md open-source project
+- [The Reporter: Saving Investigative Journalism from a Business Item to a Public Good for Ten Years](/ja/society/the-reporter-investigative-journalism) — Another Taiwan-DNA case driven by civic communities and growing across boundaries, showing another path of constructing public goods in civil society after 2015
+- [justfont and the Development of Taiwanese Typography: From Wah Fu's 25 Years to Jin Xuan's 76 Minutes of Type History](/ja/technology/justfont-and-taiwan-typography) — Typography as cultural infrastructure, another dimension focusing on Taiwanese visual subjectivity alongside new media art
+- [Submarine Cables: Visible at the Top of the Silicon Shield, Invisible at the Bottom of the Lifeline](/ja/technology/submarine-cables-taiwan-lifeline) — 99% of cross-border new media art exhibitions and curation collaborations go through submarine cables; this article reveals this invisible digital cultural infrastructure
+- [Nien Jung-chen](/ja/people/nieh-yung-jen) — Taiwan's first member of the AGI International Graphic Design Alliance, the curatorial position of Yongzhen JiZhi Studio and contemporary Taiwanese visual culture
 
 ## References
 

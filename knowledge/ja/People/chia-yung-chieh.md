@@ -136,10 +136,10 @@ What is truly worth remembering is perhaps that hour early in the morning when s
 
 **Further Reading**:
 
-- [Lin Chiang](/people/林強) — A Taiwanese cultural figure who similarly completed an identity shift (from Hokkien rock idol to film score pioneer), redefining his position in the market with the second half of his life, just like Janet Chia.
-- [Tsai Ing-wen](/people/蔡英文) — The other end of the "120% Beauty Girl" phone call in June 2021; the HFNC fundraising was a rare synchronized operation between the private sector and the Presidential Office's two mobilization systems.
-- [Jay Chou](/people/周杰倫) — Another path of converting celebrity status into cross-field influence (Music → Film → Brand → Public Welfare), to be read in contrast with Janet Chia's "Artist to Public Share Governance."
-- [Taiwan Volunteer Culture and Public Welfare Participation](/society/台灣志工文化與公益參與) — The cultural foundation of the 2021 HFNC private mobilization; the horizontal connection tradition of Taiwan's civil society during major events.
+- [Lin Chiang](/ja/people/lim-giong) — A Taiwanese cultural figure who similarly completed an identity shift (from Hokkien rock idol to film score pioneer), redefining his position in the market with the second half of his life, just like Janet Chia.
+- [Tsai Ing-wen](/ja/people/tsai-ing-wen) — The other end of the "120% Beauty Girl" phone call in June 2021; the HFNC fundraising was a rare synchronized operation between the private sector and the Presidential Office's two mobilization systems.
+- [Jay Chou](/ja/people/jay-chou) — Another path of converting celebrity status into cross-field influence (Music → Film → Brand → Public Welfare), to be read in contrast with Janet Chia's "Artist to Public Share Governance."
+- [Taiwan Volunteer Culture and Public Welfare Participation](/ja/society/volunteering-and-civic-charity-in-taiwan) — The cultural foundation of the 2021 HFNC private mobilization; the horizontal connection tradition of Taiwan's civil society during major events.
 
 ## References
 

@@ -177,7 +177,7 @@ This is what democratization means. Not a smooth inspirational story, but a poli
 
 ## Related Topics
 
-- [Martial Law Period](/history/戒嚴時期): 38 years of authoritarian rule before democratization
-- [Taiwan White Terror](/history/台灣白色恐怖): History of 140,000 people politically persecuted
-- [February 28 Incident](/history/二二八事件): The starting point of post-war Taiwan's political trauma
-- [Taiwan Elections and Party Politics](/history/台灣選舉與政黨政治): Evolution of the electoral system after democratization
+- [Martial Law Period](/ja/history/martial-law-era): 38 years of authoritarian rule before democratization
+- [Taiwan White Terror](/ja/history/taiwan-white-terror): History of 140,000 people politically persecuted
+- [February 28 Incident](/ja/history/228-incident): The starting point of post-war Taiwan's political trauma
+- [Taiwan Elections and Party Politics](/ja/history/taiwan-elections-and-party-politics): Evolution of the electoral system after democratization

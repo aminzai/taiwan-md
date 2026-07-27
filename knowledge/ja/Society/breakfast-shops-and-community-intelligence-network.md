@@ -206,10 +206,10 @@ Spotify は「この曲は実はそんなに良くないよ」とは言いませ
 
 ### 関連トピック
 
-- [コンビニエンスストア文化](/lifestyle/台灣便利商店文化)
-- [台湾の地域と里文化](/society/台灣社區與里文化)
-- [台湾の朝食文化](/food/台灣早餐文化)
-- [台湾の市場文化と伝統市場](/lifestyle/台灣市場文化與傳統市場)
+- [コンビニエンスストア文化](/ja/lifestyle/convenience-store-culture)
+- [台湾の地域と里文化](/ja/society/taiwan-neighborhood-and-li-culture)
+- [台湾の朝食文化](/ja/food/taiwan-breakfast-culture)
+- [台湾の市場文化と伝統市場](/ja/lifestyle/taiwan-traditional-markets-and-market-culture)
 
 ---
 

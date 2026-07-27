@@ -5,7 +5,15 @@ date: 2026-03-20
 author: 'Taiwan.md Contributors'
 category: 'Art'
 subcategory: '當代藝術'
-tags: ['原住民族', '現代アート', '伝統工芸', 'アイデンティティ', '芸術家', '文化復興']
+tags:
+  [
+    '原住民族',
+    '現代アート',
+    '伝統工芸',
+    'アイデンティティ',
+    '芸術家',
+    '文化復興',
+  ]
 readingTime: 8
 lastVerified: 2026-03-20
 lastHumanReview: false
@@ -152,12 +160,17 @@ translatedAt: '2026-05-20T05:08:29+08:00'
 ## 参考資料
 
 [^1]: [原住民族芸術発展センター](https://www.tacp.gov.tw/) — 原住民族現代アート発展情報
+
 [^2]: 林建成（2002）[『台湾原住民芸術フィールドノート』](https://www.books.com.tw/products/0010192578)、藝術家出版社
+
 [^3]: [台湾美術ビエンナーレ](https://www.museum.ntm.gov.tw/) — 現代アート展覧会情報
+
 [^4]: [ヴェネチア・ビエンナーレ台湾館](https://www.venezia.culture.tw/) — 歴代台湾館資料
+
 [^5]: 高俊宏（2017）[『横断記：台湾山林戦争、帝国と映像』](https://www.books.com.tw/products/0010768319)、遠足文化
+
 [^7]: [台湾現当代原住民族文学・文化データベース](http://140.109.24.175/iplm/) — 中山大学構築
 
 ---
 
-_関連読書：[台湾原住民族の歴史と正名運動](/ja/History/indigenous-peoples-history-and-naming-movement/) · [台湾原住民族の土地正義と伝統領域](/ja/Society/indigenous-land-justice-and-traditional-territories/) · [台湾原住民族16族文化地図](/ja/Culture/indigenous-peoples-16-tribes-cultural-map/) · [台湾原住民語復興運動](/ja/Culture/indigenous-language-revitalization-movement/) · [台湾原住民族の食文化](/ja/Food/taiwan-indigenous-foodways/) · [台湾原住民族の生態知と環境保全](/ja/Nature/taiwanese-indigenous-ecological-wisdom-conservation/)_
+_関連読書：[台湾原住民族の歴史と正名運動](/ja/history/indigenous-peoples-history-and-naming-movement/) · [台湾原住民族の土地正義と伝統領域](/ja/society/indigenous-land-justice-and-traditional-territories/) · [台湾原住民族16族文化地図](/ja/culture/indigenous-peoples-16-tribes-cultural-map/) · [台湾原住民語復興運動](/ja/culture/indigenous-language-revitalization-movement/) · [台湾原住民族の食文化](/ja/food/taiwan-indigenous-foodways/) · [台湾原住民族の生態知と環境保全](/ja/nature/taiwanese-indigenous-ecological-wisdom-conservation/)_

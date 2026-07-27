@@ -228,7 +228,7 @@ translatedAt: '2026-05-15T14:23:13+08:00'
 
 ## 関連記事
 
-- [半導体産業](/technology/半導體產業) — キーボードの裏側のチップを製造する産業
+- [半導体産業](/ja/technology/taiwan-semiconductor-industry) — キーボードの裏側のチップを製造する産業
 
 ## 参考文献
 

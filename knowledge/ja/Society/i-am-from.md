@@ -162,10 +162,10 @@ That forgotten instruction was caught this time. Next time, it will not forget t
 
 ## Further Reading
 
-- [Cognitive Warfare](/society/認知作戰) — The framework, boundaries, and "complexity over accuracy" reading principles of cognitive warfare
+- [Cognitive Warfare](/ja/society/cognitive-warfare-against-taiwan) — The framework, boundaries, and "complexity over accuracy" reading principles of cognitive warfare
 - [Poisonous Potato Cognitive Warfare](/society/毒馬鈴薯認知作戰) — How a narrative war "steps on the foundation of truth," and this piece belongs to the paradigm of rejecting binaries
-- [Taiwan Artificial Intelligence Laboratory](/technology/台灣人工智慧實驗室) — Local technology using AI to detect coordinated cognitive operations
-- [Taiwan Media and Press Freedom](/society/台灣媒體與新聞自由) — The larger context of Wang Zhong controversies and media group structures
+- [Taiwan Artificial Intelligence Laboratory](/ja/technology/taiwan-ai-labs) — Local technology using AI to detect coordinated cognitive operations
+- [Taiwan Media and Press Freedom](/ja/society/media-and-press-freedom-in-taiwan) — The larger context of Wang Zhong controversies and media group structures
 
 ## References
 

@@ -172,16 +172,16 @@ From a suicide note to President of the Control Yuan, forty-one years. This is w
 
 **Further Reading**:
 
-- [February 28 Incident](/history/二二八事件) — How the trauma of 1947 became the origin of Taiwan's democratic consciousness
-- [White Terror in Taiwan](/history/台灣白色恐怖) — The full picture of political cases and human rights violations during the 38-year martial law period
-- [Martial Law Period](/history/戒嚴時期) — The legal basis and social control mechanisms of the world's longest martial law order
-- [Formosan Magazine Incident](/history/美麗島事件) — The complete process and historical impact of the 1979 Kaohsiung incident
-- [Taiwan Elections and Party Politics](/history/台灣選舉與政黨政治) — The evolution of the electoral system from the Eternal Congress to four party rotations
-- [Resolution on Taiwan's Future](/history/臺灣前途決議文) — In 1999, the DPP used a document full of ambiguity to complete a route transition, opening the door to the first party rotation in 2000
-- [Taiwan Transitional Justice](/history/台灣轉型正義) — How society faces the historical trauma of the authoritarian period after democratization
-- [Sunflower Student Movement](/society/太陽花學運) — A complete chronicle of the 2014 Legislative Yuan occupation, from the thirty-second intrusion to economic decoupling from China twelve years later
-- [2026 Xi-Taiwan Meeting: Ten Minutes of a Decade Reunion Between KMT and CCP Leaders](/society/2026鄭習會與國共十年再會) — Why does AIT emphasize "dialogue with elected leadership"? The foundation of this principle lies in this history of democratization
-- [Chou Tzu-yu](/people/周子瑜) — The 90-second apology video on the eve of the 2016 election is the heaviest stroke in Taiwan's third party rotation
+- [February 28 Incident](/ja/history/228-incident) — How the trauma of 1947 became the origin of Taiwan's democratic consciousness
+- [White Terror in Taiwan](/ja/history/taiwan-white-terror) — The full picture of political cases and human rights violations during the 38-year martial law period
+- [Martial Law Period](/ja/history/martial-law-era) — The legal basis and social control mechanisms of the world's longest martial law order
+- [Formosan Magazine Incident](/ja/history/kaohsiung-incident-formosa-incident) — The complete process and historical impact of the 1979 Kaohsiung incident
+- [Taiwan Elections and Party Politics](/ja/history/taiwan-elections-and-party-politics) — The evolution of the electoral system from the Eternal Congress to four party rotations
+- [Resolution on Taiwan's Future](/ja/history/resolution-on-taiwans-future) — In 1999, the DPP used a document full of ambiguity to complete a route transition, opening the door to the first party rotation in 2000
+- [Taiwan Transitional Justice](/ja/history/taiwan-transitional-justice) — How society faces the historical trauma of the authoritarian period after democratization
+- [Sunflower Student Movement](/ja/society/sunflower-movement) — A complete chronicle of the 2014 Legislative Yuan occupation, from the thirty-second intrusion to economic decoupling from China twelve years later
+- [2026 Xi-Taiwan Meeting: Ten Minutes of a Decade Reunion Between KMT and CCP Leaders](/ja/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Why does AIT emphasize "dialogue with elected leadership"? The foundation of this principle lies in this history of democratization
+- [Chou Tzu-yu](/ja/people/tzuyu) — The 90-second apology video on the eve of the 2016 election is the heaviest stroke in Taiwan's third party rotation
 
 ## References
 

@@ -88,9 +88,9 @@ translatedAt: '2026-07-23T23:06:50+08:00'
 
 ## 関連資料
 
-- [羅發號事件と卓杞篤](/history/羅發號事件與卓杞篤) — もう一つの海難と主権衝突
-- [清治時代](/history/清治時期) — 開山撫番前後の統治の転換点
-- [李仙得](/people/李仙得) — 事件の舞台裏にいたアメリカ人顧問
+- [羅發號事件と卓杞篤](/ja/history/rover-incident-and-tauketok) — もう一つの海難と主権衝突
+- [清治時代](/ja/history/qing-dynasty-rule) — 開山撫番前後の統治の転換点
+- [李仙得](/ja/people/charles-le-gendre) — 事件の舞台裏にいたアメリカ人顧問
 
 ## 参考文献
 

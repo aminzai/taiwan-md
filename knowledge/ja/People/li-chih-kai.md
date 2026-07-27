@@ -113,7 +113,7 @@ featured: false
 
 **関連記事**：
 
-- [郭婞淳](/people/郭婞淳) — 東京オリンピック重量挙げ金メダリスト、台湾スポーツ界の公益活動の模範的人物
+- [郭婞淳](/ja/people/kuo-hsing-chun-olympic-weightlifting-champion) — 東京オリンピック重量挙げ金メダリスト、台湾スポーツ界の公益活動の模範的人物
 
 ## 参考資料
 

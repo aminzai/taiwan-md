@@ -122,9 +122,9 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 
 ## 関連記事
 
-- [台湾の発酵食品と漬物文化](/food/台灣發酵食品與醃製文化)：台湾の漬物食品の科学と文化
-- [茶文化](/food/茶文化)：台湾の茶文化の発展の脈絡
-- [台湾小吃](/food/台灣小吃)：台湾の多様な小吃文化
+- [台湾の発酵食品と漬物文化](/ja/food/taiwan-fermented-and-pickled-foods)：台湾の漬物食品の科学と文化
+- [茶文化](/ja/food/golden-age-echoes-taiwan-tea-culture)：台湾の茶文化の発展の脈絡
+- [台湾小吃](/ja/food/taiwanese-street-food)：台湾の多様な小吃文化
 
 ## 参考文献
 

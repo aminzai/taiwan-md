@@ -101,7 +101,7 @@ translatedAt: '2026-05-28T05:08:34+08:00'
 
 彼が残したのは一つのグループだけではない。台湾式の精実哲学——コストを明確にし、プロセスを根源まで問い、そして生涯にわたってそのことを繰り返す——をも残したのである。この哲学は、彼の工場で、彼の病院で、彼の米店の物語で、すべて同じことを語っている。
 
-**関連記事**：[王永慶 — Wikipedia](https://zh.wikipedia.org/wiki/王永慶) ｜ [台塑六軽：台湾石油化学工業の転換点](https://storystudio.tw/article/gushi/taiwan-plastic-industry) ｜ [尹衍樑：彼が創った科学賞は、ノーベル賞よりも手厚い](/people/尹衍樑) — 同時代の台湾産業リーダーが慈善家へと転身した鏡像的事例
+**関連記事**：[王永慶 — Wikipedia](https://zh.wikipedia.org/wiki/王永慶) ｜ [台塑六軽：台湾石油化学工業の転換点](https://storystudio.tw/article/gushi/taiwan-plastic-industry) ｜ [尹衍樑：彼が創った科学賞は、ノーベル賞よりも手厚い](/ja/people/samuel-yin-yan-liang) — 同時代の台湾産業リーダーが慈善家へと転身した鏡像的事例
 
 ## 参考文献
 

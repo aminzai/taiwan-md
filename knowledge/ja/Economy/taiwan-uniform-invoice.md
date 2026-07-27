@@ -97,8 +97,8 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:TK3C_307_uniform_invoice_9
 
 **関連記事**：
 
-- [台湾経済奇跡](/economy/economic-miracle) — 1950〜60年代の財政動員と統一発票は同時期のもので、台湾の戦後経済再建の基礎インフラの背景にある
-- [台湾コンビニ文化](/lifestyle/convenience-store-culture) — クラウド発票の電子載具が最もよく使われる場面で、コンビニは日常的な税務動員の最後の一マイル
+- [台湾経済奇跡](/ja/economy/economic-miracle) — 1950〜60年代の財政動員と統一発票は同時期のもので、台湾の戦後経済再建の基礎インフラの背景にある
+- [台湾コンビニ文化](/ja/lifestyle/convenience-store-culture) — クラウド発票の電子載具が最もよく使われる場面で、コンビニは日常的な税務動員の最後の一マイル
 
 ---
 

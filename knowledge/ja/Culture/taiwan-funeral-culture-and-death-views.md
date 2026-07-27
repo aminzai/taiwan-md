@@ -97,9 +97,9 @@ translatedAt: '2026-06-16T17:19:04Z'
 
 **関連記事**
 
-- [台湾の宗教と寺院文化](/culture/台灣宗教與寺廟文化) —— 民間信仰が葬送観にどのように影響するか
-- [台湾の冠婚葬祭と人生儀礼](/culture/台灣婚喪喜慶與人生禮俗) —— 誕生から死までの完全な儀礼のスペクトル
-- [台湾の環境正義と隣避問題](/society/台灣環境正義與鄰避爭議) —— 焼却炉、墓地の立地をめぐる社会的対立
+- [台湾の宗教と寺院文化](/ja/culture/taiwan-religion-and-temple-culture) —— 民間信仰が葬送観にどのように影響するか
+- [台湾の冠婚葬祭と人生儀礼](/ja/culture/taiwanese-life-ceremony-traditions) —— 誕生から死までの完全な儀礼のスペクトル
+- [台湾の環境正義と隣避問題](/ja/society/taiwan-environmental-justice-nimby-conflicts) —— 焼却炉、墓地の立地をめぐる社会的対立
 
 ## 参考資料
 

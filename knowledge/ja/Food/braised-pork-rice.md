@@ -79,9 +79,9 @@ _画像提供：[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Brai
 
 ## 関連リンク
 
-- [牛肉麺](/food/牛肉麵) — 同じく 1949 年に外省移民が台湾に持ち込んだもう一つの国民食。魯肉飯と眷村の血脈を共有する
-- [台湾の朝食文化](/food/台灣早餐文化) — 焼餅油条からハンバーガー、おにぎりまで、台湾の食の融合を別の角度から
-- [国民政府遷台と戦後再建](/history/國民政府遷台與戰後重建) — 魯肉飯誕生の歴史的背景。120 万の軍民南遷がもたらした食の再編
+- [牛肉麺](/ja/food/beef-noodle-soup) — 同じく 1949 年に外省移民が台湾に持ち込んだもう一つの国民食。魯肉飯と眷村の血脈を共有する
+- [台湾の朝食文化](/ja/food/taiwan-breakfast-culture) — 焼餅油条からハンバーガー、おにぎりまで、台湾の食の融合を別の角度から
+- [国民政府遷台と戦後再建](/ja/history/kmt-government-relocation-and-postwar-reconstruction) — 魯肉飯誕生の歴史的背景。120 万の軍民南遷がもたらした食の再編
 
 ## 参考資料
 

@@ -69,8 +69,8 @@ translatedAt: '2026-07-23T23:06:50+08:00'
 
 ## 延伸閱讀
 
-- [農曆七月](/culture/農曆七月) — 鬼月一ヶ月の社会リズム
-- [端午節](/culture/端午節) — 節慶ツールキットが台湾でどのように在地化されたか
+- [農曆七月](/ja/culture/lunar-july-ghost-month) — 鬼月一ヶ月の社会リズム
+- [端午節](/ja/culture/dragon-boat-festival) — 節慶ツールキットが台湾でどのように在地化されたか
 
 ## 參考資料
 

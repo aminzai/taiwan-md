@@ -239,8 +239,8 @@ translatedAt: '2026-05-15T13:52:05+08:00'
 
 ## 関連記事
 
-- [台湾の中小企業と隠れたチャンピオン](/economy/台灣中小企業與隱形冠軍)
-- [台湾の対外貿易とグローバルサプライチェーン](/economy/台灣外貿與全球供應鏈)
+- [台湾の中小企業と隠れたチャンピオン](/ja/economy/taiwan-smes-and-hidden-champions)
+- [台湾の対外貿易とグローバルサプライチェーン](/ja/economy/taiwan-foreign-trade-and-global-supply-chain)
 
 ## 参考資料
 

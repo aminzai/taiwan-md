@@ -58,7 +58,7 @@ featured: false
 
 ## 関連記事
 
-- **[マスコットキャラクター](/lifestyle/吉祥物) — 全聯福利熊とOpen将：小売マスコットのIP経営学**
+- **[マスコットキャラクター](/ja/lifestyle/mascot-culture-in-taiwan) — 全聯福利熊とOpen将：小売マスコットのIP経営学**
 - **[台湾のコンビニ文化](/culture/台灣便利商店文化) — 全聯、7-Eleven、FamilyMartの台湾小売における位置づけ**
 - **[台湾のデリバリー経済](/economy/台灣外送経済) — 全聯小時達がfoodpanda / Uber Eats市場に参入する方法**
 - **[台湾のモバイル決済](/technology/台灣行動支付) — 全支付、街口、LINE Payの電子決済競争構造**

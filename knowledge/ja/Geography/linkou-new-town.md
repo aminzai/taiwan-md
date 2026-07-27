@@ -82,9 +82,9 @@ featured: false
 
 ## 延伸読書
 
-- [台湾の都市発展と地域格差](/geography/台灣都市發展與城鄉差距) — 区域計画の観点から林口新市鎮の発展曲線を理解する。
-- [北大特区](/geography/北大特區) — 交通・学区・不動産が共同で推進した別の新興再開発区との比較。
-- [台湾の交通システム](/lifestyle/台灣交通系統) — 空港MRT・国道・都市通勤が新市鎮をどう形成するかを延伸して読む。
+- [台湾の都市発展と地域格差](/ja/geography/taiwan-urban-development-and-rural-urban-divide) — 区域計画の観点から林口新市鎮の発展曲線を理解する。
+- [北大特区](/ja/geography/beida-special-district-sanxia) — 交通・学区・不動産が共同で推進した別の新興再開発区との比較。
+- [台湾の交通システム](/ja/lifestyle/transportation-system) — 空港MRT・国道・都市通勤が新市鎮をどう形成するかを延伸して読む。
 
 ## 参考資料
 

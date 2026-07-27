@@ -106,9 +106,9 @@ translatedAt: '2026-05-02T10:05:00+08:00'
 
 ## 関連記事
 
-- [台灣遊戲產業與數位娛樂](/technology/台灣遊戲產業與數位娛樂) — 代理からオリジナルへ。台湾ゲームの全景
-- [大宇雙劍](/technology/大宇雙劍) — 赤燭の前の時代。台湾ゲームが中国語で物語を語る出発点
-- [台灣玩家的瘋狂時刻](/technology/台灣玩家的瘋狂時刻) — 台湾プレイヤーの集合的行動のもう一つの側面
+- [台灣遊戲產業與數位娛樂](/ja/technology/taiwan-gaming-industry) — 代理からオリジナルへ。台湾ゲームの全景
+- [大宇雙劍](/ja/technology/softstar-twin-classics) — 赤燭の前の時代。台湾ゲームが中国語で物語を語る出発点
+- [台灣玩家的瘋狂時刻](/ja/technology/taiwan-gamers-wildest-moments) — 台湾プレイヤーの集合的行動のもう一つの側面
 
 ---
 

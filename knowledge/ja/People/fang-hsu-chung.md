@@ -113,4 +113,4 @@ translatedAt: '2026-05-16T05:07:55+08:00'
 ## 関連記事
 
 - [究方社公式ウェブサイト](https://joefangstudio.com/) — 方序中が創設したデザインスタジオ
-- [蕭青陽](/people/蕭青陽) — 同世代の台湾のビジュアルデザイナー、グラミー賞受賞者
+- [蕭青陽](/ja/people/xiao-qing-yang-grammy-designer) — 同世代の台湾のビジュアルデザイナー、グラミー賞受賞者

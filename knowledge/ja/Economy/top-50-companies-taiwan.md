@@ -44,11 +44,11 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG'
 
 ## 一枚の地図が一つの国家を固定する
 
-2026 年 5 月 19 日の大引け後ランキングは、次のような姿でした[^4]。1 位は TSMC で時価総額 57.18 兆元（[2330](/economy/台灣企業：台積電)）、2 位は MediaTek で 5.06 兆元（2454）、3 位は Delta Electronics で 4.97 兆元（[2308](/economy/台灣企業：台達電子)）、4 位は Foxconn で 3.43 兆元（[2317](/economy/台灣企業：鴻海精密)）、5 位は ASE Technology Holding で 2.11 兆元（3711）です。この 5 社を合計するだけで、時価総額はすでに 72 兆元に達し、台湾株式市場の総時価総額の半分を超えています。
+2026 年 5 月 19 日の大引け後ランキングは、次のような姿でした[^4]。1 位は TSMC で時価総額 57.18 兆元（[2330](/ja/economy/tsmc)）、2 位は MediaTek で 5.06 兆元（2454）、3 位は Delta Electronics で 4.97 兆元（[2308](/ja/economy/delta-electronics-taiwan-power-giant)）、4 位は Foxconn で 3.43 兆元（[2317](/ja/economy/foxconn-precision-industry)）、5 位は ASE Technology Holding で 2.11 兆元（3711）です。この 5 社を合計するだけで、時価総額はすでに 72 兆元に達し、台湾株式市場の総時価総額の半分を超えています。
 
-6 位から 30 位までは、さらに三つの層が見えます。半導体陣営には UMC（[2303](/economy/台灣企業：聯發科技)）、創意（3443）、華邦電（2344）、南亜科（2408）、致茂（2360）があります。金融陣営には富邦金（[2881](/economy/台灣企業：富邦金控)）、国泰金（[2882](/economy/台灣企業：國泰金控)）、中信金、元大金、兆豊金、台新新光金、玉山金（[2884](/economy/台灣企業：玉山金控)）があります。電子機器受託製造と AI 周辺には広達（[2382](/economy/台灣企業：廣達電腦)）、智邦（2345）、緯穎（6669）、奇鋐（3017）、鴻勁（7769）、欣興（3037）、台光電（2383）、国巨（[2327](/economy/台灣企業：日月光半導體)）があります。伝統産業と通信で 30 位以内に残っているのは、中華電（2412）と南亜（[1303](/economy/台灣企業：台塑集團)）だけです[^5]。
+6 位から 30 位までは、さらに三つの層が見えます。半導体陣営には UMC（[2303](/ja/economy/mediatek)）、創意（3443）、華邦電（2344）、南亜科（2408）、致茂（2360）があります。金融陣営には富邦金（[2881](/ja/economy/taiwan-enterprise-fubon-financial)）、国泰金（[2882](/ja/economy/taiwan-enterprise-cathay-financial)）、中信金、元大金、兆豊金、台新新光金、玉山金（[2884](/ja/economy/esun-financial-holding-digital-banking-pioneer)）があります。電子機器受託製造と AI 周辺には広達（[2382](/ja/economy/taiwanese-companies-quanta-computer)）、智邦（2345）、緯穎（6669）、奇鋐（3017）、鴻勁（7769）、欣興（3037）、台光電（2383）、国巨（[2327](/ja/economy/taiwan-enterprise-ase-semiconductor)）があります。伝統産業と通信で 30 位以内に残っているのは、中華電（2412）と南亜（[1303](/ja/economy/formosa-plastics-group)）だけです[^5]。
 
-31 位から 50 位の位置は、さらに混み合っています。中鋼（[2002](/economy/台灣企業：中鋼)）、台塑化（6505）、長栄海運（[2603](/economy/台灣企業：長榮海運)）、統一（[1216](/economy/台灣企業：統一企業)）といった、1970-80 年代の経済奇跡を支えた古参企業が後方を守っています。緯創（[3231](/economy/台灣企業：緯創資通)）、ASUS（[2357](/economy/台灣企業：華碩)）、光宝科、研華（2395）、世芯-KY（3661）といった電子関連企業が、金融持株会社と入れ替わりながら順位を変えています。いずれも時価総額は 4,000-5,000 億元の範囲にあり、1 パーセントポイントの差で順位が入れ替わります[^6]。
+31 位から 50 位の位置は、さらに混み合っています。中鋼（[2002](/ja/economy/taiwan-companies-china-steel)）、台塑化（6505）、長栄海運（[2603](/ja/economy/evergreen-marine)）、統一（[1216](/ja/economy/taiwan-enterprise-uni-president)）といった、1970-80 年代の経済奇跡を支えた古参企業が後方を守っています。緯創（[3231](/ja/economy/wistron-global-manufacturing-transformation-pioneer)）、ASUS（[2357](/ja/economy/asus-computer)）、光宝科、研華（2395）、世芯-KY（3661）といった電子関連企業が、金融持株会社と入れ替わりながら順位を変えています。いずれも時価総額は 4,000-5,000 億元の範囲にあり、1 パーセントポイントの差で順位が入れ替わります[^6]。
 
 ![台北 101 ビルの外観。台湾証券取引所の本部はこの高さ 508 メートルのランドマーク内にあり、台湾株上位 50 社の取引開始の鐘が鳴る場所です](/article-images/economy/taipei-101-twse-2023.webp)
 
@@ -163,12 +163,12 @@ _雲林・麦寮の台塑六軽産業園区の空撮。1998 年から現在ま�
 
 **関連読書**：
 
-- [台湾企業：TSMC](/economy/台灣企業：台積電) — 上位 50 社の 1 位で、加権指数の 31.51% を占める単一企業
-- [台湾の中小企業と隠れたチャンピオン](/economy/台灣中小企業與隱形冠軍) — 義美、和泰以外の、見えない 30% の経済構造
-- [台湾半導体産業](/technology/半導體產業) — 工研院から 2 ナノメートルまで、上位 50 社に 11 席を占める半導体の源流
-- [台湾株式市場と資本市場](/economy/台灣股市與資本市場) — 加権指数、時価総額ランキング、機関投資家の構造
-- [台湾国防と軍事近代化](/society/台灣國防與軍事現代化) — silicon shield と上位 50 社の地政学的連動
-- [台湾科学工業園区](/technology/科技園區發展) — 上位 50 社の半導体席次の生産拠点、三園区の産値集中度の空間的側面
+- [台湾企業：TSMC](/ja/economy/tsmc) — 上位 50 社の 1 位で、加権指数の 31.51% を占める単一企業
+- [台湾の中小企業と隠れたチャンピオン](/ja/economy/taiwan-smes-and-hidden-champions) — 義美、和泰以外の、見えない 30% の経済構造
+- [台湾半導体産業](/ja/technology/taiwan-semiconductor-industry) — 工研院から 2 ナノメートルまで、上位 50 社に 11 席を占める半導体の源流
+- [台湾株式市場と資本市場](/ja/economy/taiwan-stock-market) — 加権指数、時価総額ランキング、機関投資家の構造
+- [台湾国防と軍事近代化](/ja/society/taiwan-defense-modernization) — silicon shield と上位 50 社の地政学的連動
+- [台湾科学工業園区](/ja/technology/science-park-development) — 上位 50 社の半導体席次の生産拠点、三園区の産値集中度の空間的側面
 
 ## 参考資料
 

@@ -166,7 +166,7 @@ _本山五坑で観光客が体験できる坑道区間。Photo: eugene_o / Wiki
 
 金瓜石で撮影した美しい写真の一枚一枚の底下には、一つの層の命が重なっている。この山美は真実であり、傷も真実であり、それらは同一の事案である。次回訪れる際、そのオレンジ色の灯りを撮るだけでなく、その姓名の壁を歩いてみることをお勧めする。読み取れる名前は多くないが、それぞれがこの山が背負った一つの命であった。
 
-**延伸阅读**：[台湾日治時代](/history/日治時期)｜[基隆市](/geography/基隆市)｜[関聖帝君信仰](/culture/關聖帝君信仰)｜[台湾経済の奇跡](/ja/economy/economic-miracle)（台金公司戦後国家資本による金瓜石経営の完全な脈絡）｜[阿里山：帝國的林場與高一生的山](/history/阿里山：帝國的林場與高一生的山)、[台湾森林開発史](/history/台灣森林開發史)（同じ日本帝国資源植民体系に属する姉妹篇）
+**延伸阅读**：[台湾日治時代](/ja/history/japanese-colonial-era)｜[基隆市](/ja/geography/keelung-city)｜[関聖帝君信仰](/ja/culture/guan-sheng-di-jun-belief)｜[台湾経済の奇跡](/ja/economy/economic-miracle)（台金公司戦後国家資本による金瓜石経営の完全な脈絡）｜[阿里山：帝國的林場與高一生的山](/ja/history/alishan-empire-forest-and-uongu-yatauyungana)、[台湾森林開発史](/ja/history/taiwan-forestry-history)（同じ日本帝国資源植民体系に属する姉妹篇）
 
 ## 写真出典
 

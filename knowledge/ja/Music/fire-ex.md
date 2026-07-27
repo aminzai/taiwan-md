@@ -130,9 +130,9 @@ translatedAt: '2026-05-01T14:48:26+08:00'
 ## 延伸閲読
 
 - [台湾インディーズ音楽](/ja/music/taiwan-indie-music/) — 滅火器が属するインディー音楽シーン
-- [台湾ロックの発展史](/music/台灣搖滾樂發展史)（中文のみ） — 禁歌時代から大港開唱（カーオーペンシン）まで
+- [台湾ロックの発展史](/ja/music/taiwan-rock-from-underground-to-mainstream)（中文のみ） — 禁歌時代から大港開唱（カーオーペンシン）まで
 - [太陽花学運](/ja/society/sunflower-movement/) — 〈島嶼天光〉が生まれたあの3月
-- [台湾音楽フェス文化](/music/台灣音樂祭文化)（中文のみ） — 貢寮（コンリャオ）から火球祭まで
+- [台湾音楽フェス文化](/ja/music/taiwan-music-festival-culture)（中文のみ） — 貢寮（コンリャオ）から火球祭まで
 
 ## 参考資料
 

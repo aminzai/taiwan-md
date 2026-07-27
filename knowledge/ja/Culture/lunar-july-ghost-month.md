@@ -107,8 +107,8 @@ translatedAt: '2026-07-23T23:06:50+08:00'
 
 ## 関連読書
 
-- [中元節](/culture/中元節) — 中元節を社会平和条約として読む歴史的方法
-- [端午節](/culture/端午節) — もう一つの台湾によって再発明された祭典
+- [中元節](/ja/culture/ghost-festival-zhongyuan) — 中元節を社会平和条約として読む歴史的方法
+- [端午節](/ja/culture/dragon-boat-festival) — もう一つの台湾によって再発明された祭典
 
 ## 参考資料
 

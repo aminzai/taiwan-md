@@ -170,10 +170,10 @@ The Verge がアリゾナの半導体の集積を報じたときも、チップ�
 
 ## 関連記事
 
-- [AI 硬體供應鏈](/technology/AI硬體供應鏈) — 台湾がどのようにクラウドの需要を出荷できる機械へ変えているか。
-- [台灣的電力與半導體](/technology/台灣的電力與半導體) — AI サプライチェーンの背後にある電力の請求書。
-- [AI 供應鏈海外設廠](/technology/AI供應鏈海外設廠) — なぜほかの国々も製造とインフラの圧力の一部を引き受けたいのか。
-- [科技園區發展](/technology/科技園區發展) — 半導体の集積がどのように台湾の土地と都市の中へ育っていったか。
+- [AI 硬體供應鏈](/ja/technology/ai-hardware-supply-chain) — 台湾がどのようにクラウドの需要を出荷できる機械へ変えているか。
+- [台灣的電力與半導體](/ja/technology/taiwan-electricity-and-semiconductors) — AI サプライチェーンの背後にある電力の請求書。
+- [AI 供應鏈海外設廠](/ja/technology/ai-supply-chain-overseas-manufacturing) — なぜほかの国々も製造とインフラの圧力の一部を引き受けたいのか。
+- [科技園區發展](/ja/technology/science-park-development) — 半導体の集積がどのように台湾の土地と都市の中へ育っていったか。
 
 ## 画像出典
 

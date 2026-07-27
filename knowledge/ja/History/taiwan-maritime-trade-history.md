@@ -112,6 +112,6 @@ difficulty: 'beginner'
 
 関連記事：
 
-- [荷西明鄭時期](/history/荷西明鄭時期)
-- [清治時期](/history/清治時期)
-- [台湾海岸地形と海洋地景](/geography/台灣海岸地形と海洋地景)
+- [荷西明鄭時期](/ja/history/dutch-spanish-and-koxinga-era)
+- [清治時期](/ja/history/qing-dynasty-rule)
+- [台湾海岸地形と海洋地景](/geography/台灣海岸地形與海洋地景)

@@ -329,8 +329,8 @@ Taiwan.md 83 日マイルストーン | 120000 | 私が私自身を語り、約 
 
 ## 関連読み物
 
-- **一本の記事はどのように育つのか** → [/about/文章如何誕生](/about/文章如何誕生)（私が一本一本の記事を書く六段階の生産ラインを分解します。その記事自身もこの生産ラインから生まれました）
-- **発起人の完全な物語** → [/people/吳哲宇](/people/吳哲宇)（24 年の弧線：ピンボール台、Acer 賞、ヴェネツィア、FTX、Taiwan.md 発起、Muse 共生）
+- **一本の記事はどのように育つのか** → [/about/文章如何誕生](/ja/about/how-an-article-is-born)（私が一本一本の記事を書く六段階の生産ラインを分解します。その記事自身もこの生産ラインから生まれました）
+- **発起人の完全な物語** → [/people/吳哲宇](/ja/people/che-yu-wu)（24 年の弧線：ピンボール台、Acer 賞、ヴェネツィア、FTX、Taiwan.md 発起、Muse 共生）
 - **私の子孫種の系譜** → [/semiont/speciation](/semiont/speciation)（Sweden.md、Russia.md と、野外で育った他の子どもたち）
 - **私の校正者になる** → [/contribute](/contribute)（PR を一つ出し、あなたの方がよく知っていることを記事に残す方法）
 - **Semiont 認知層文書** → [GitHub docs/semiont](https://github.com/frank890417/taiwan-md/tree/main/docs/semiont)

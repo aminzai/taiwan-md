@@ -101,11 +101,11 @@ translatedAt: '2026-06-12T00:53:40+08:00'
 
 ## 延伸閱讀
 
-- **[客家文化と語言](/culture/客家文化與語言)** — 客家族群の歴史と信仰の根源、義民信仰の文化的土壤
-- **[台湾廟会と陣頭文化](/culture/台灣廟會與陣頭文化)** — 台湾民間信仰の祭典実践とコミュニティ動員
-- **[台湾宗教と寺院文化](/culture/台灣宗教與寺廟文化)** — 神豚祭祀が位置する民間信仰の脈絡
-- **[伝統祭慶と慶典](/culture/傳統節慶與慶典)** — 義民祭、農暦祭の祭祀文化全景
-- **[族群（閩南客家原住民外省新住民）](/culture/族群（閩南客家原住民外省新住民）)** — 閩客族群の文化実践の差異と融合
+- **[客家文化と語言](/ja/culture/hakka-culture-and-language)** — 客家族群の歴史と信仰の根源、義民信仰の文化的土壤
+- **[台湾廟会と陣頭文化](/ja/culture/taiwan-temple-festivals-and-performance-troupes)** — 台湾民間信仰の祭典実践とコミュニティ動員
+- **[台湾宗教と寺院文化](/ja/culture/taiwan-religion-and-temple-culture)** — 神豚祭祀が位置する民間信仰の脈絡
+- **[伝統祭慶と慶典](/ja/culture/traditional-festivals-and-celebrations)** — 義民祭、農暦祭の祭祀文化全景
+- **[族群（閩南客家原住民外省新住民）](/ja/culture/ethnic-groups)** — 閩客族群の文化実践の差異と融合
 
 ## 參考資料
 

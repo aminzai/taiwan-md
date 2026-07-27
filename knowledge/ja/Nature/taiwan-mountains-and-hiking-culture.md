@@ -105,11 +105,11 @@ translatedAt: '2026-06-07T02:26:07+08:00'
 
 **関連記事**：
 
-- [台湾の森林生態系](/ja/Nature/taiwan-forest-ecosystems/) — シイの広葉樹林からトウヒの針葉樹林まで、標高による垂直分布の完全な生態帯
-- [台湾高山生態系と氷河遺存](/ja/Nature/taiwan-alpine-ecosystems-glacial-relicts/) — 三千メートル以上の高山草原と氷河期が遺した遺存種
-- [台湾国立公園](/ja/Nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes/) — 玉山、雪霸、太魯閣の3つの高山型国立公園の管理と保全
-- [台湾の步道文化と市民による守護](/ja/Nature/trail-culture-and-civic-stewardship/) — レーブノートレース運動と市民参加による歩道維持の実践
-- [台湾先住民の生態知恵と環境保全](/ja/Nature/taiwanese-indigenous-ecological-wisdom-conservation/) — 千年の山林の知恵が現代の保全とどう対話するか
+- [台湾の森林生態系](/ja/nature/taiwan-forest-ecosystems/) — シイの広葉樹林からトウヒの針葉樹林まで、標高による垂直分布の完全な生態帯
+- [台湾高山生態系と氷河遺存](/ja/nature/taiwan-alpine-ecosystems-glacial-relicts/) — 三千メートル以上の高山草原と氷河期が遺した遺存種
+- [台湾国立公園](/ja/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes/) — 玉山、雪霸、太魯閣の3つの高山型国立公園の管理と保全
+- [台湾の步道文化と市民による守護](/ja/nature/trail-culture-and-civic-stewardship/) — レーブノートレース運動と市民参加による歩道維持の実践
+- [台湾先住民の生態知恵と環境保全](/ja/nature/taiwanese-indigenous-ecological-wisdom-conservation/) — 千年の山林の知恵が現代の保全とどう対話するか
 
 ## 参考文献
 

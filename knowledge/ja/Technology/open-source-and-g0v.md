@@ -134,4 +134,4 @@ g0vの運営モデルは非常にシンプルです：**上司も従業員も予
 
 - [開放文化基金会](/ja/technology/open-culture-foundation)：g0v の背後で経費精算・請求書発行・行政手続きを一手に引き受けてきた財団法人、そしてその縁の下の存在がデジタル人権の番犬へと成長した物語
 - [半導体産業](/ja/technology/semiconductor-industry)：台湾のテクノロジー基盤
-- [Mini Taiwan Pulse](/ja/technology/mini-taiwan-pulse)：2026年のシビックテック個人オープンソース実践――TDXオープンデータ＋Three.jsで台湾を3D光軌として描く
+- [Mini Taiwan Pulse](/ja/technology/mini-taiwan-pulse-civic-tech)：2026年のシビックテック個人オープンソース実践――TDXオープンデータ＋Three.jsで台湾を3D光軌として描く

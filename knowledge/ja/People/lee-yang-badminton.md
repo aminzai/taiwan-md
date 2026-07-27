@@ -253,7 +253,7 @@ difficulty: 'beginner'
 
 - [王斉麟と李洋（麟洋ペア）](/ja/people/wang-chi-lin-and-lee-yang/) — 二人の中学同級生が三十四分間で台湾バドミントンの歴史をどう書き換えたか
 - [戴資穎](/ja/people/tai-tzu-ying/) — 麟洋ペアと同じ台湾バドミントンの黄金世代に属する女子シングルス世界ランキング一位
-- [郭婞淳](/people/郭婞淳) — 東京五輪重量挙げ金メダリスト、台湾五輪黄金世代のもう一人の代表的存在
+- [郭婞淳](/ja/people/kuo-hsing-chun-olympic-weightlifting-champion) — 東京五輪重量挙げ金メダリスト、台湾五輪黄金世代のもう一人の代表的存在
 - [台湾民主轉型](/history/台湾民主轉型) — 運動部が二〇二五年に体育署から省庁に昇格した理由を解説する
 - [頼清德](/ja/people/lai-ching-te/) — 李洋が宣誓就任した際に宣誓を監督した大統領、民進黨四代目政権
 

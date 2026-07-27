@@ -150,9 +150,9 @@ IGSの三人の創業者自身が牌友だった。彼らはマージャンゲ�
 
 ## 関連記事
 
-- [台湾ゲーム産業とデジタルエンターテインメント](/technology/台灣遊戲產業與數位娛樂) — 代理からオリジナルへ、台湾ゲームの全体像
-- [ナイトライフとKTV文化](/lifestyle/夜生活與KTV文化) — もう一つの台湾人の社交儀式
-- [台湾コンビニ文化](/lifestyle/台灣便利商店文化) — 24時間稼働する台湾の日常インフラ
+- [台湾ゲーム産業とデジタルエンターテインメント](/ja/technology/taiwan-gaming-industry) — 代理からオリジナルへ、台湾ゲームの全体像
+- [ナイトライフとKTV文化](/ja/lifestyle/nightlife-and-ktv-culture) — もう一つの台湾人の社交儀式
+- [台湾コンビニ文化](/ja/lifestyle/convenience-store-culture) — 24時間稼働する台湾の日常インフラ
 
 ---
 

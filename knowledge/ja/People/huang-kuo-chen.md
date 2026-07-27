@@ -47,7 +47,7 @@ lastHumanReview: false
 
 ## 関連記事
 
-- [葉丙成](/people/葉丙成)：台湾大学の教授、PaGamOゲーミフィケーション学習プラットフォームの開発者
-- [呂冠緯](/people/呂冠緯)：均一教育プラットフォームの創設者
-- [黃春明](/people/黃春明)：台湾郷土文学の大家、黃國珍の父
-- [嚴長壽](/people/嚴長壽)：過疎地域の教育に尽力する「観光の教父」
+- [葉丙成](/ja/people/yeh-ping-cheng-education-innovator)：台湾大学の教授、PaGamOゲーミフィケーション学習プラットフォームの開発者
+- [呂冠緯](/ja/people/lu-guan-wei-junyiacademy-founder)：均一教育プラットフォームの創設者
+- [黃春明](/ja/people/huang-chun-ming-taiwanese-literary-master)：台湾郷土文学の大家、黃國珍の父
+- [嚴長壽](/ja/people/stanley-yen)：過疎地域の教育に尽力する「観光の教父」

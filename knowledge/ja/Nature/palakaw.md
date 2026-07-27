@@ -57,7 +57,7 @@ translatedAt: '2026-05-09T11:09:57+08:00'
 
 馬太鞍の人々にとって、バラカウは土地と対話する方法です。それは私たちに思い出させてくれます——自然から何かを得る前に、まず与えることを学ばなければならないと[^16]。魚の家がある限り、渓流の生命力は枯渇しません。この自然と共存する知恵は、現代の環境教育とエコツーリズムを通じて、その深い影響力を世界に伝え続けています[^17][^18]。
 
-**関連記事**：[台湾原住民族の生態知恵と環境保全](/ja/Nature/taiwanese-indigenous-ecological-wisdom-conservation/) ｜ [離島と海洋文化](/ja/Geography/offshore-islands-and-maritime-culture/)
+**関連記事**：[台湾原住民族の生態知恵と環境保全](/ja/nature/taiwanese-indigenous-ecological-wisdom-conservation/) ｜ [離島と海洋文化](/ja/geography/offshore-islands-and-maritime-culture/)
 
 ## 参考文献
 

@@ -238,6 +238,6 @@ difficulty: 'beginner'
 
 関連記事：
 
-- [台湾の河川システムと水文の特色](/geography/台灣河川系統與水文特色)
-- [気候](/geography/氣候)
-- [台湾のプレートテクトニクスと地震活動](/geography/台灣板塊運動與地震活動)
+- [台湾の河川システムと水文の特色](/ja/geography/taiwan-river-systems-and-hydrology)
+- [気候](/ja/geography/climate)
+- [台湾のプレートテクトニクスと地震活動](/ja/geography/tectonic-plates-and-seismic-activity)

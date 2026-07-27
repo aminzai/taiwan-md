@@ -55,9 +55,9 @@ translatedAt: '2026-05-01T19:52:32+08:00'
 
 ## 関連記事
 
-- [阿神](/people/阿神) —— Minecraft出身の台湾人YouTuberのもう一人。異なる転換の道筋を比較する
-- [阿滴](/people/阿滴) —— 同世代の清大出身コンテンツクリエイター（分野は異なるが）
-- [蔡阿嘎](/people/蔡阿嘎) —— 台湾の百万登録YouTuberのもう一つのキャリアパス
+- [阿神](/ja/people/red-shin-minecraft-youtuber) —— Minecraft出身の台湾人YouTuberのもう一人。異なる転換の道筋を比較する
+- [阿滴](/ja/people/ray-du-english-youtuber) —— 同世代の清大出身コンテンツクリエイター（分野は異なるが）
+- [蔡阿嘎](/ja/people/tsai-a-ga-youtuber) —— 台湾の百万登録YouTuberのもう一つのキャリアパス
 
 ## 参考資料
 

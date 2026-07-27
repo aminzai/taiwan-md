@@ -123,9 +123,9 @@ Taiwan's future mascots may no longer need more black bears, but rather more lik
 ## Further Reading
 
 - **[Taiwan Variety Shows](/culture/台灣綜藝節目)** — Role design and audience interaction mechanisms in the entertainment industry
-- **[Taiwan Memes](/culture/台灣迷因)** — How puns, ugly-cute, and contrast cuteness spread on the Taiwanese internet
-- **[Fullmart Welfare Center](/economy/全聯福利中心)** — Brand management and IP strategy behind Welfare Bear
-- **[Taiwan Black Bear](/nature/台灣黑熊)** — Biological prototype and conservation issues as a cultural totem
+- **[Taiwan Memes](/ja/culture/taiwan-meme-culture)** — How puns, ugly-cute, and contrast cuteness spread on the Taiwanese internet
+- **[Fullmart Welfare Center](/ja/economy/pxmart-supermarket)** — Brand management and IP strategy behind Welfare Bear
+- **[Taiwan Black Bear](/ja/nature/taiwanese-black-bear)** — Biological prototype and conservation issues as a cultural totem
 
 ## References
 

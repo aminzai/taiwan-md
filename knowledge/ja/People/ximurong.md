@@ -1,19 +1,19 @@
 ---
-title: "席慕蓉"
-description: "『七里香』『無怨的青春』の著者、中華圏詩壇で最も売れた詩人、モンゴル族"
+title: '席慕蓉'
+description: '『七里香』『無怨的青春』の著者、中華圏詩壇で最も売れた詩人、モンゴル族'
 date: 2026-03-19
-author: "Taiwan.md Contributors"
-category: "People"
-subcategory: "文學"
-tags: ["人物", "席慕蓉", "七里香", "無怨的青春", "詩人", "モンゴル族", "散文家"]
+author: 'Taiwan.md Contributors'
+category: 'People'
+subcategory: '文學'
+tags: ['人物', '席慕蓉', '七里香', '無怨的青春', '詩人', 'モンゴル族', '散文家']
 lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
-translatedFrom: "People/席慕蓉.md"
+translatedFrom: 'People/席慕蓉.md'
 sourceCommitSha: '7415dcaa'
 sourceContentHash: 'sha256:5d1d8e5f0b7eaefd'
 sourceBodyHash: 'sha256:c035c602c7e335fa'
-translatedAt: "2026-05-17T05:34:50+08:00"
+translatedAt: '2026-05-17T05:34:50+08:00'
 ---
 
 # 席慕蓉：草原と現代の詩的交響
@@ -79,14 +79,20 @@ translatedAt: "2026-05-17T05:34:50+08:00"
 ## 参考資料
 
 [^1]: [台湾師範大学美術系](https://www.ntnu.edu.tw/art/) — 台師大美術系の設立背景と校友情報。
+
 [^2]: [ブリュッセル王立美術学院（Académie Royale des Beaux-Arts）](https://www.arba-esi.be/) — 席慕蓉の留学先、ベルギーの国立芸術学院。
+
 [^3]: [国立台湾文学館 — 席慕蓉特別展](https://www.nmtl.gov.tw/) — 『七里香』の出版および再版記録、詩集の販売データと展示資料を含む。
+
 [^4]: [台湾電子書籍アライアンス — 席慕蓉作品ページ](https://www.taaze.tw/) — 『無怨的青春』の初版資料と出版年の確認。
+
 [^5]: [蒙蔵文化館 — 席慕蓉のモンゴル文学創作](https://www.mtac.gov.tw/) — 政府機関による席慕蓉のモンゴル文学創作に関する特集紹介。
+
 [^6]: [席慕蓉公式ウェブサイト](http://www.ximurong.tw) — 詩人の公式ウェブサイト、作品情報、画展記録、創作歴を収録。
+
 [^7]: [国家文芸賞 — 国家文化芸術財団](https://www.ncafroc.org.tw/) — 席慕蓉の受賞記録と審査説明。
 
 ## 関連記事
 
 - [国立台湾文学館](https://www.nmtl.gov.tw/) — 台湾文学館が所蔵する席慕蓉の作品と文物
-- [白先勇](/ja/People/pai-hsien-yung-literary-master/) — 同時代の台湾文学の大家、『台北人』で知られる
+- [白先勇](/ja/people/pai-hsien-yung-literary-master/) — 同時代の台湾文学の大家、『台北人』で知られる

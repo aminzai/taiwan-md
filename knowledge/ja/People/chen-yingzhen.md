@@ -92,7 +92,7 @@ translatedAt: '2026-05-16T05:07:55+08:00'
 
 ## 文学的達成と歴史的位置
 
-陳映真の台湾文学史における地位は高いものです。彼は[白先勇](/ja/People/pai-hsien-yung-literary-master/)、[黄春明](/ja/People/huang-chun-ming-taiwanese-literary-master/)、王禎和らとともに、台湾現代文学の重要な布陣を構成しました。異なるのは、[白先勇](/ja/People/pai-hsien-yung-literary-master/)が都市知識人の精神世界に関心を寄せ、[黄春明](/ja/People/huang-chun-ming-taiwanese-literary-master/)が小人物の生活情趣を描いたとすれば、陳映真が関心を向けたのは社会全体の構造的問題だったという点です。
+陳映真の台湾文学史における地位は高いものです。彼は[白先勇](/ja/people/pai-hsien-yung-literary-master/)、[黄春明](/ja/people/huang-chun-ming-taiwanese-literary-master/)、王禎和らとともに、台湾現代文学の重要な布陣を構成しました。異なるのは、[白先勇](/ja/people/pai-hsien-yung-literary-master/)が都市知識人の精神世界に関心を寄せ、[黄春明](/ja/people/huang-chun-ming-taiwanese-literary-master/)が小人物の生活情趣を描いたとすれば、陳映真が関心を向けたのは社会全体の構造的問題だったという点です。
 
 彼の作品は強烈な社会批判精神と深いヒューマニズムの色彩を持ち、台湾文学にリアリズムの内容を注入しました。彼の筆下の人物は多くが底辺の民衆ですが、それぞれが鮮明な個性と深い内面世界を備えており、作者の人間性への理解を体現しています。
 
@@ -136,4 +136,4 @@ translatedAt: '2026-05-16T05:07:55+08:00'
 ## 関連読書
 
 - [台湾文学館 — 陳映真](https://www.nmtl.gov.tw/) — 陳映真の生涯、作品年表、手稿所蔵
-- [白先勇](/people/白先勇) — 同時代の台湾文学の名家で、『台北人』で知られます
+- [白先勇](/ja/people/pai-hsien-yung-literary-master) — 同時代の台湾文学の名家で、『台北人』で知られます

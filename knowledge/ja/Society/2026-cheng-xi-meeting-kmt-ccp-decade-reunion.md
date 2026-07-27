@@ -161,14 +161,14 @@ Singapore in 2015 was a handshake; Beijing in 2026 is a play. Who is this play f
 
 **Further Reading**:
 
-- [Taiwan Strait Crises and the Development of Cross-Strait Relations](/history/台海危機與兩岸關係發展) — The seventy-year history of cross-strait interaction from 1949 to 2016; the Zheng-Xi meeting is just the latest chapter in this long river.
-- [Taiwan Political Environment and Electoral System](/society/台灣政治環境與選舉制度) — To understand "why Cheng Li-wen," one must first understand the intra-party line debate of the KMT 2025 Chairmanship Election.
-- [Taiwan's Democratic Transition](/history/台灣民主轉型) — Why does the AIT emphasize "dialogue with elected leadership"? The foundation of this principle lies here.
-- [Taiwan's National Defense and Military Modernization](/society/台灣國防與軍事現代化) — Behind Cheng's "institutional arrangements to prevent war" is the political offensive and defensive of the national defense budget.
-- [Lai Ching-te](/people/賴清德) — The other protagonist of this play, the one deliberately kept out of the frame.
-- [Cheng Li-wen](/people/鄭麗文) — From the student movement girl who went on a hunger strike for Taiwan independence at the NTU gate in 1988, to the KMT Chairman who said "compatriots on both sides of the strait are Chinese" in Beijing in 2026.
-- [Han Kuo-yu](/people/韓國瑜) — Speaker of the Legislative Yuan, the host of the Legislative Yuan budget negotiations this week of the Zheng-Xi meeting; another key character in this play.
-- [Taiwan and Eswatini](/society/台灣與史瓦帝尼) — Lai Ching-te's diplomatic discourse during his visit to allied countries in the same period, the juxtaposition of "The Republic of China (Taiwan) is a sovereign country belonging to the world" and "compatriots on both sides of the strait are Chinese."
+- [Taiwan Strait Crises and the Development of Cross-Strait Relations](/ja/history/taiwan-strait-crises-and-cross-strait-relations) — The seventy-year history of cross-strait interaction from 1949 to 2016; the Zheng-Xi meeting is just the latest chapter in this long river.
+- [Taiwan Political Environment and Electoral System](/ja/society/taiwan-political-landscape-and-electoral-system) — To understand "why Cheng Li-wen," one must first understand the intra-party line debate of the KMT 2025 Chairmanship Election.
+- [Taiwan's Democratic Transition](/ja/history/taiwan-democratization) — Why does the AIT emphasize "dialogue with elected leadership"? The foundation of this principle lies here.
+- [Taiwan's National Defense and Military Modernization](/ja/society/taiwan-defense-modernization) — Behind Cheng's "institutional arrangements to prevent war" is the political offensive and defensive of the national defense budget.
+- [Lai Ching-te](/ja/people/lai-ching-te) — The other protagonist of this play, the one deliberately kept out of the frame.
+- [Cheng Li-wen](/ja/people/cheng-li-wun) — From the student movement girl who went on a hunger strike for Taiwan independence at the NTU gate in 1988, to the KMT Chairman who said "compatriots on both sides of the strait are Chinese" in Beijing in 2026.
+- [Han Kuo-yu](/ja/people/han-kuo-yu) — Speaker of the Legislative Yuan, the host of the Legislative Yuan budget negotiations this week of the Zheng-Xi meeting; another key character in this play.
+- [Taiwan and Eswatini](/ja/society/taiwan-eswatini-relations) — Lai Ching-te's diplomatic discourse during his visit to allied countries in the same period, the juxtaposition of "The Republic of China (Taiwan) is a sovereign country belonging to the world" and "compatriots on both sides of the strait are Chinese."
 
 ## References
 

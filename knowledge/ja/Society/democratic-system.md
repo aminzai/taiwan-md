@@ -83,4 +83,4 @@ translatedAt: '2026-05-22T05:08:46+08:00'
 
 ## 関連トピック
 
-- [人権とジェンダー平等](/society/人權與性別平等)
+- [人権とジェンダー平等](/ja/society/human-rights-and-gender-equality)

@@ -90,10 +90,10 @@ translatedAt: '2026-07-25T12:45:15+08:00'
 
 ## 関連読物
 
-- [PTT批踢踢](/technology/PTT批踢踢) — 台湾の多くのミームと住民文化の発祥の地
+- [PTT批踢踢](/ja/technology/ptt-bulletin-board-system) — 台湾の多くのミームと住民文化の発祥の地
 - [馬英九ミーム](/society/馬英九ミーム) — 政治家がミーム化された典型的な事例研究
-- [長輩圖](/culture/長輩圖) — 別の台湾特有のネット拡散ルート
-- [台湾VTuber](/culture/台灣VTuber) — バーチャルキャラクターとミーム文化の現代的な融合
+- [長輩圖](/ja/culture/elder-greeting-images) — 別の台湾特有のネット拡散ルート
+- [台湾VTuber](/ja/culture/taiwan-vtuber) — バーチャルキャラクターとミーム文化の現代的な融合
 
 ---
 

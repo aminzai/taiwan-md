@@ -146,5 +146,5 @@ LINEの台湾における月間アクティブユーザーは2,200万人に達�
 
 ## 関連記事
 
-- [AI人工智慧產業](/technology/AI人工智慧產業)
-- [AI發展](/technology/AI發展)
+- [AI人工智慧產業](/ja/technology/artificial-intelligence-industry)
+- [AI發展](/ja/technology/ai-development-in-taiwan)

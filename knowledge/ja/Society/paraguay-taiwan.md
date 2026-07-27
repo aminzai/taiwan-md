@@ -100,10 +100,10 @@ imageSource: 'https://www.president.gov.tw/NEWS/20543'
 
 **延伸読書**：
 
-- [台湾の友好国と国際外交](/society/台灣邦交國與國際外交) — 12 カ国の友好国、海外拠点、ビザ免除ネットワークの全景
-- [台湾とスワジランド](/society/台灣與史瓦帝尼) — アフリカ唯一の友好国、別の「長期協力と脆弱な政治」ケース
+- [台湾の友好国と国際外交](/ja/society/taiwan-diplomatic-allies-and-international-relations) — 12 カ国の友好国、海外拠点、ビザ免除ネットワークの全景
+- [台湾とスワジランド](/ja/society/taiwan-eswatini-relations) — アフリカ唯一の友好国、別の「長期協力と脆弱な政治」ケース
 - [認知作戦](/society/認知作戦) — 中国が台湾に対して行う情報・言語・圧力操作の枠組み
-- [2026 鄭習会と国共十年再会](/society/2026鄭習會與國共十年再會) — 同期の両岸政治動向、中国が台湾に圧力を掛ける大背景の理解
+- [2026 鄭習会と国共十年再会](/ja/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — 同期の両岸政治動向、中国が台湾に圧力を掛ける大背景の理解
 
 ## 画像出典
 

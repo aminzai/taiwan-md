@@ -93,8 +93,8 @@ author: 'Taiwan.md Contributors'
 
 ## 関連読書
 
-- [湖口営区と勝利路の記憶](/history/湖口營區與勝利路記憶) — 軍事空間における日常的な記憶
-- [黒熊学院](/society/黑熊學院) — 民間防衛意識の現代的側面
+- [湖口営区と勝利路の記憶](/ja/history/hukou-camp-shengli-road-memory) — 軍事空間における日常的な記憶
+- [黒熊学院](/ja/society/kuma-academy-civil-defense-school) — 民間防衛意識の現代的側面
 
 ## 参考資料
 

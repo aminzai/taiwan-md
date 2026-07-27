@@ -165,9 +165,9 @@ The white paper with cut-out letters from midnight on December 31, 1999, is stil
 
 ## Further Reading
 
-- **[Taiwan New Media Art](/art/台灣新媒體藝術)** — From Nie Yongzhen to Taiwan's video art contemporary lineage, Hsieh is one of the sourceheads of this line
-- **[Taiwan Contemporary Art](/art/當代藝術)** — Hsieh's positioning in Taiwan's avant-garde art history (if it exists)
-- **[Taiwan Sensibility](/culture/台灣感性)** — Another side of Taiwan's cultural export viewed from a Korean perspective; Hsieh is the international representative of Taiwan's extreme focus aesthetics
+- **[Taiwan New Media Art](/ja/art/taiwan-new-media-art)** — From Nie Yongzhen to Taiwan's video art contemporary lineage, Hsieh is one of the sourceheads of this line
+- **[Taiwan Contemporary Art](/ja/art/contemporary-art)** — Hsieh's positioning in Taiwan's avant-garde art history (if it exists)
+- **[Taiwan Sensibility](/ja/culture/taiwanese-sensibility)** — Another side of Taiwan's cultural export viewed from a Korean perspective; Hsieh is the international representative of Taiwan's extreme focus aesthetics
 
 ## References
 

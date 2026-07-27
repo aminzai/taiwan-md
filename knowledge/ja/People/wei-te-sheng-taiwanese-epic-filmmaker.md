@@ -90,7 +90,7 @@ translatedAt: '2026-06-11T16:38:27Z'
 
 1969年に台南永康で生まれ、2000年に50万台湾ドルで5分間の作品を撮っても資金を得られず、2008年に5.3億台湾ドルの興行収入を記録し、2011年にヴェネツィアメインコンペティションにノミネートされる。この軌跡は、忍耐の積み重ねであり、奇跡とは無関係です。
 
-**関連記事：** [モナ・ルドー：20元硬貨に刻まれた抗日英雄](/people/莫那·魯道)（『賽德克・バライ』の主人公のモデルと、映画が記憶をどう再構築したか）｜ [魏德聖 — Wikipedia](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [台湾映画データベース：魏德聖](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [金馬賞公式サイト](https://www.goldenhorse.org.tw/)
+**関連記事：** [モナ・ルドー：20元硬貨に刻まれた抗日英雄](/ja/people/mona-rudao)（『賽德克・バライ』の主人公のモデルと、映画が記憶をどう再構築したか）｜ [魏德聖 — Wikipedia](https://zh.wikipedia.org/zh-tw/魏德聖) ｜ [台湾映画データベース：魏德聖](https://taiwancinema.bamid.gov.tw/Staff/StaffContent/?ContentUrl=12549) ｜ [金馬賞公式サイト](https://www.goldenhorse.org.tw/)
 
 ## 参考文献
 

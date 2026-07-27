@@ -138,9 +138,9 @@ _教育部が2026年から2029年までの計画を三つの方向に凝縮し�
 
 ## 延伸閱讀
 
-- [台湾教育制度](/lifestyle/台灣教育制度) — 入試から十二年制教育まで、教師の革新が存在する制度的環境
-- [台湾人工智慧發展與未來策略](/technology/台灣人工智慧發展與未來策略) — 産業と政策から見る台湾AIの全体的な配置
-- [台湾人工智慧學校](/technology/台灣人工智慧學校) — 民間研修が台湾の第一世代産業AI人材をいかに育成するか
+- [台湾教育制度](/ja/lifestyle/taiwan-education-system) — 入試から十二年制教育まで、教師の革新が存在する制度的環境
+- [台湾人工智慧發展與未來策略](/ja/technology/artificial-intelligence-development-strategy) — 産業と政策から見る台湾AIの全体的な配置
+- [台湾人工智慧學校](/ja/technology/taiwan-ai-academy) — 民間研修が台湾の第一世代産業AI人材をいかに育成するか
 
 ---
 

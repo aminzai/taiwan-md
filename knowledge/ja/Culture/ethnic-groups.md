@@ -138,11 +138,11 @@ featured: false
 
 **関連記事**:
 
-- [語言多樣性與母語文化](/culture/語言多樣性與母語文化) — 台湾語、客家語、原住民言語の流失速度と復興運動
-- [台灣原住民族歷史與正名運動](/history/台灣原住民族歷史與正名運動) — 「山胞」から「原住民族」への十年にわたる正名闘争
-- [台灣原住民族16族文化地圖](/culture/台灣原住民族16族文化地圖) — 16族の分布、言語、文化的特徴
-- [客家文化與語言](/culture/客家文化與語言) — 客家族群の歴史的移動と文化保存
-- [二二八事件](/history/二二八事件) — 戦後族群衝突の歴史的原点
+- [語言多樣性與母語文化](/ja/culture/linguistic-diversity-and-mother-tongue-culture) — 台湾語、客家語、原住民言語の流失速度と復興運動
+- [台灣原住民族歷史與正名運動](/ja/history/indigenous-peoples-history-and-naming-movement) — 「山胞」から「原住民族」への十年にわたる正名闘争
+- [台灣原住民族16族文化地圖](/ja/culture/indigenous-peoples-16-tribes-cultural-map) — 16族の分布、言語、文化的特徴
+- [客家文化與語言](/ja/culture/hakka-culture-and-language) — 客家族群の歴史的移動と文化保存
+- [二二八事件](/ja/history/228-incident) — 戦後族群衝突の歴史的原点
 
 ## 参考資料
 

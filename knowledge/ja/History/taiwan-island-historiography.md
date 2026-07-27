@@ -41,7 +41,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan
 > **📝 キュレーター・ノート**
 > 曹永和の偉大さは、17世紀のオランダ語・スペイン語文献を研究することを通じて、台湾史を大陸史観の影から救い出し、島そのものへと返した点にあります。
 
-関連する展開：[台湾海洋貿易史](/ja/History/taiwan-maritime-trade-history/)、[先史時代と原住民](/ja/History/prehistoric-era-and-indigenous-peoples/)
+関連する展開：[台湾海洋貿易史](/ja/history/taiwan-maritime-trade-history/)、[先史時代と原住民](/ja/history/prehistoric-era-and-indigenous-peoples/)
 
 ## 二、オーストロネシア語族の海洋遺伝子：島嶼性とは世界性である
 
@@ -49,7 +49,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan
 
 これは、台湾の「海洋的性格」が外から付け加えられたものではなく、生来のものであることを証明しています。島史観を語るとき、私たちは「島を家とする」文明の技術について語っています。それは大陸文明の農耕の論理とはまったく異なります。島嶼性は孤立を意味するのではなく、むしろ世界へ通じる無限の可能性を意味します。
 
-関連する展開：[台湾原住民族の歴史と正名運動](/ja/History/indigenous-peoples-history-and-naming-movement/)
+関連する展開：[台湾原住民族の歴史と正名運動](/ja/history/indigenous-peoples-history-and-naming-movement/)
 
 ## 三、帝国の最初の衝突：大肚王国とグローバル貿易
 
@@ -60,7 +60,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan
 > **💡 ご存じですか**
 > 17世紀の台湾の鹿皮は、日本の武士の甲冑に不可欠な素材でした。当時の匿名の鹿皮商こそが、台湾をグローバル経済の波へと本当に巻き込んだ人々であり、台湾島と京都の軍事装備とのあいだに直接的なつながりを生み出しました。
 
-関連する展開：[オランダ・スペイン・明鄭時代](/ja/History/dutch-spanish-and-koxinga-era/)
+関連する展開：[オランダ・スペイン・明鄭時代](/ja/history/dutch-spanish-and-koxinga-era/)
 
 ## 四、移住の前線：漢人移民と制度移植
 
@@ -68,7 +68,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan
 
 人々は農耕の知恵と宗族組織を携えて島に渡りました。しかし頻繁に変動する環境で生き延びるために、彼らは大陸の母国よりも柔軟で、より現実的な社会契約を学びました。台湾の「漢人社会」は当初から、ある種の不安定性と冒険の遺伝子を帯びていました。それは清朝統治期の頻繁な蜂起、たとえば「三年に一度小反乱、五年に一度大騒乱」という表現にも見て取れます。
 
-関連する展開：[清朝統治期](/ja/History/qing-dynasty-rule/)、[台湾経済の奇跡](/ja/economy/economic-miracle/)
+関連する展開：[清朝統治期](/ja/history/qing-dynasty-rule/)、[台湾経済の奇跡](/ja/economy/economic-miracle/)
 
 ## 五、1895年：植民地的近代性という両刃の剣
 
@@ -79,7 +79,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan
 > **⚠️ 論争的視点**
 > 植民地的近代性は、台湾史でもっとも扱いが難しい部分です。私たちは、抑圧された苦痛と、制度がもたらした進歩を、どのように同時に記憶できるのでしょうか。これこそが島史観の編み上げようとする緊張です。私たちは制度を受け入れましたが、同化されることは拒否しました。
 
-関連する展開：[日本統治時代](/ja/History/japanese-colonial-era/)、[台湾鉄道史](/ja/History/taiwan-railway-history/)
+関連する展開：[日本統治時代](/ja/history/japanese-colonial-era/)、[台湾鉄道史](/ja/history/taiwan-railway-history/)
 
 ## 六、権威主義と記憶の地層
 
@@ -87,7 +87,7 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan
 
 しかし島史観から見ると、この時期は「記憶の地層」がもっとも厚く堆積した時期でもあります。眷村、緑島監獄、方言を話すことが禁じられた教室、沈黙する居間。こうした一見断裂した記憶は、1987年の戒厳令解除後、台湾の多元文化の養分として噴出しました。島史観はこの歴史を一種の「圧縮後の爆発」と見なし、台湾の主体的アイデンティティにとって最後の坩堝だったと捉えます。
 
-関連する展開：[二二八事件](/ja/History/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory/)、[戒厳令時代](/ja/History/martial-law-era/)、[台湾白色テロ](/ja/History/taiwan-white-terror/)、美麗島事件：台湾の運命を変えたあの夜
+関連する展開：[二二八事件](/ja/history/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory/)、[戒厳令時代](/ja/history/martial-law-era/)、[台湾白色テロ](/ja/history/taiwan-white-terror/)、美麗島事件：台湾の運命を変えたあの夜
 
 ## 七、島史観の四つの核心的主張
 
@@ -133,8 +133,8 @@ imageSource: 'https://commons.wikimedia.org/wiki/File:1640_Map_of_Formosa-Taiwan
 
 **関連読書**：
 
-- [フォルモサ](/history/福爾摩沙) — Psalmanazarの詐欺から国立台湾歴史博物館による回収まで：400年にわたる西洋の「発見」叙述の脱構築と反転
-- [国立台湾歴史博物館](/society/國立臺灣歷史博物館) — 2011年に開館した国家級三級機構であり、1990年の曹永和論文を実体展示「斯土斯民——台湾の物語」として形にした、台湾島史観のinstitutional instantiationです
+- [フォルモサ](/ja/history/formosa-historical-name) — Psalmanazarの詐欺から国立台湾歴史博物館による回収まで：400年にわたる西洋の「発見」叙述の脱構築と反転
+- [国立台湾歴史博物館](/ja/society/national-museum-of-taiwan-history) — 2011年に開館した国家級三級機構であり、1990年の曹永和論文を実体展示「斯土斯民——台湾の物語」として形にした、台湾島史観のinstitutional instantiationです
 
 ## 参考資料
 

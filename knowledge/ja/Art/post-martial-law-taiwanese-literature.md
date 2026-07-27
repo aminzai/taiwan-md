@@ -174,11 +174,11 @@ After the millennium, the stage passed to new voices such as Wu Mingyi, Lin Yiha
 
 ## Further Reading
 
-- [Taiwan Roaming Record](/art/臺灣漫遊錄) — Yang Shuangzi continues the tradition of female and lesbian writing after the lifting of martial law, using pseudo-translated novels to write the history of Japanese colonial rule, winning double international recognition in the 2024 NBA and 2026 Booker Prize
-- [Post-War Taiwan Literature](/art/戰後台灣文學) — 42 years from silence, modernism, rural debate to female awakening during the 1945-1987 martial law period
-- [Contemporary Taiwan Literature](/art/當代台灣文學) — 21st Century: Wu Mingyi's internationalization, Lin Yihan, the next baton of digital literature
-- [History of Taiwan Literature](/art/台灣文學史) — The overall context from the Dutch rule, Ming and Qing dynasties, Japanese rule, post-war to contemporary
-- [Lin Liang](/people/林良) — Founder of the Republic of China Children's Literature Society in 1984 after the lifting of martial law, the founder of Taiwan children's literature, his column _Look at Pictures and Speak_ accompanied generations of Taiwanese children
+- [Taiwan Roaming Record](/ja/art/taiwan-travelogue) — Yang Shuangzi continues the tradition of female and lesbian writing after the lifting of martial law, using pseudo-translated novels to write the history of Japanese colonial rule, winning double international recognition in the 2024 NBA and 2026 Booker Prize
+- [Post-War Taiwan Literature](/ja/art/postwar-taiwanese-literature) — 42 years from silence, modernism, rural debate to female awakening during the 1945-1987 martial law period
+- [Contemporary Taiwan Literature](/ja/art/contemporary-taiwanese-literature) — 21st Century: Wu Mingyi's internationalization, Lin Yihan, the next baton of digital literature
+- [History of Taiwan Literature](/ja/art/history-of-taiwanese-literature) — The overall context from the Dutch rule, Ming and Qing dynasties, Japanese rule, post-war to contemporary
+- [Lin Liang](/ja/people/lin-liang-childrens-literature) — Founder of the Republic of China Children's Literature Society in 1984 after the lifting of martial law, the founder of Taiwan children's literature, his column _Look at Pictures and Speak_ accompanied generations of Taiwanese children
 
 ---
 

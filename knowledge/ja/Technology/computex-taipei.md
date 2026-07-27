@@ -267,11 +267,11 @@ _NVIDIA 公式チャンネル：黄仁勲による 2024 年 COMPUTEX 基調講�
 
 **関連読書**：
 
-- [半導体産業](/Technology/半導體產業) — Computex のメインステージを支えるこの鎖の源流は、新竹、台中、台南のシリコンウェハー工場にあります
-- [台湾の人工知能発展と未来戦略](/Technology/台灣人工智慧發展與未來策略) — サーバー組み立てからフィジカル AI へ、台湾の AI 産業は二度目の体質改造の最中にあります
-- [台湾ロボット産業](/Technology/台灣機器人產業) — 上銀の初出展は、このサプライチェーンが形になっていく決定的な一枚です
-- [台湾電気自動車産業チェーンの発展](/Technology/台灣電動車產業鏈發展) — AI サーバーと並ぶ、もう一本の製造の主軸です
-- [NVIDIA と台湾](/Technology/NVIDIA在台灣) — 黄仁勲の台南での幼少期から、台北の GTC Taipei メインステージまで
+- [半導体産業](/ja/technology/taiwan-semiconductor-industry) — Computex のメインステージを支えるこの鎖の源流は、新竹、台中、台南のシリコンウェハー工場にあります
+- [台湾の人工知能発展と未来戦略](/ja/technology/artificial-intelligence-development-strategy) — サーバー組み立てからフィジカル AI へ、台湾の AI 産業は二度目の体質改造の最中にあります
+- [台湾ロボット産業](/ja/technology/taiwan-robotics-industry) — 上銀の初出展は、このサプライチェーンが形になっていく決定的な一枚です
+- [台湾電気自動車産業チェーンの発展](/ja/technology/taiwan-electric-vehicle-industry-chain) — AI サーバーと並ぶ、もう一本の製造の主軸です
+- [NVIDIA と台湾](/ja/technology/nvidia-in-taiwan) — 黄仁勲の台南での幼少期から、台北の GTC Taipei メインステージまで
 
 ## 画像出典
 

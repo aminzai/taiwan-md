@@ -223,11 +223,11 @@ _Googleが公式に公開したProject Astraのビジョン映像です。これ
 
 ## 関連記事
 
-- [黄仁勲](/people/黃仁勳)——AIをより速く動かす台湾の光、ハードウェアの側面
-- [張忠謀](/people/張忠謀)——台湾半導体の礎を築いた人物であり、紀懐新が「地位を揺るがすのは難しい」と語った山
-- [AI人工知能産業](/technology/AI人工智慧產業)——世界のAIサプライチェーンにおける台湾の位置
-- [台湾の人工知能発展と未来戦略](/technology/台灣人工智慧發展與未來策略)——台湾AIの全体像
-- [台湾AIの日常](/technology/台灣AI日常)——AIはすでにどのように台湾人の生活へ入り込んでいるのか
+- [黄仁勲](/ja/people/jensen-huang)——AIをより速く動かす台湾の光、ハードウェアの側面
+- [張忠謀](/ja/people/tsmc-morris-chang)——台湾半導体の礎を築いた人物であり、紀懐新が「地位を揺るがすのは難しい」と語った山
+- [AI人工知能産業](/ja/technology/artificial-intelligence-industry)——世界のAIサプライチェーンにおける台湾の位置
+- [台湾の人工知能発展と未来戦略](/ja/technology/artificial-intelligence-development-strategy)——台湾AIの全体像
+- [台湾AIの日常](/ja/technology/taiwan-ai-in-daily-life)——AIはすでにどのように台湾人の生活へ入り込んでいるのか
 
 ## 参考資料
 

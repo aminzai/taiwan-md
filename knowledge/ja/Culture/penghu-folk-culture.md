@@ -130,4 +130,4 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 - [台湾宗教と寺廟文化](/ja/culture/taiwan-religion-and-temple-culture/) — 台湾の廟の密度と民間信仰の社会的機能
 - [台湾廟会と陣頭文化](/culture/台湾廟会と陣頭文化) — 陣頭から電音三太子まで、廟会が現代社会でどう変容するか
 - [伝統節慶と慶典](/culture/伝統節慶と慶典) — 元宵、中元、媽祖遶境などの台湾節慶の全体像
-- [九天玄女信仰](/culture/九天玄女信仰) — 台湾民間信仰における女性神と地方の守護神
+- [九天玄女信仰](/ja/culture/jiutian-xuannu-belief) — 台湾民間信仰における女性神と地方の守護神

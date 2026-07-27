@@ -243,11 +243,11 @@ translatedAt: '2026-05-28T05:08:34+08:00'
 
 - [政治Hub](/politics) — Taiwan.md 政治・選挙知識の中枢
 - [2026年九合一選挙](/politics/2026 九合一選舉) — 制度と日程の全体像
-- [九合一選挙とは](/politics/九合一選舉是什麼) — 「九合一」九種類の職位の解説
-- [村里長制度](/politics/村里長制度) — 7,748人の民選首長、最も末端の政治単位
-- [議員制度](/politics/議員制度) — 直轄市議員と県市議員の法定権限と実際の運用
+- [九合一選挙とは](/ja/politics/nine-in-one-elections-explained) — 「九合一」九種類の職位の解説
+- [村里長制度](/ja/politics/village-chief-system) — 7,748人の民選首長、最も末端の政治単位
+- [議員制度](/ja/politics/city-councilor-system-taiwan) — 直轄市議員と県市議員の法定権限と実際の運用
 - [中選会制度](/politics/中選会制度) — 選挙行政の制度設計
-- [民主化](/history/民主化) — 台湾の権威主義から民主主義への歩み
+- [民主化](/ja/history/taiwan-democratization-history) — 台湾の権威主義から民主主義への歩み
 
 ---
 

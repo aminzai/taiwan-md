@@ -96,6 +96,6 @@ KTV（カラオケTV）は台湾の夜生活の中心です。個室型KTVが199
 
 ## 関連記事
 
-- [台湾交通システム](/lifestyle/台灣交通系統) — 夜間交通が夜生活文化をいかに支えているか
-- [台湾コンビニ文化](/lifestyle/台灣便利商店文化) — 24時間コンビニと不夜城文化の関係
-- [台湾の宗教信仰](/culture/台灣宗教與寺廟文化) — 夜間の廟会と伝統祭りの夜生活
+- [台湾交通システム](/ja/lifestyle/transportation-system) — 夜間交通が夜生活文化をいかに支えているか
+- [台湾コンビニ文化](/ja/lifestyle/convenience-store-culture) — 24時間コンビニと不夜城文化の関係
+- [台湾の宗教信仰](/ja/culture/taiwan-religion-and-temple-culture) — 夜間の廟会と伝統祭りの夜生活

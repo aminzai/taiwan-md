@@ -235,7 +235,7 @@ Seamless Bay Area 分析
 
 あの最後の 5658 は走り去りました。しかしバス停の下で手を挙げる人がまだいる限り、彼らのために来るべき車は、まだ一台、借りとして残っています。
 
-**関連読書**：[台湾交通システム](/lifestyle/台灣交通系統)、[台湾のバイク文化](/lifestyle/台灣機車文化)、[台湾 MRT 発展史](/lifestyle/台灣捷運發展史)、[観光バス](/lifestyle/遊覽車)
+**関連読書**：[台湾交通システム](/ja/lifestyle/transportation-system)、[台湾のバイク文化](/ja/lifestyle/taiwan-scooter-culture)、[台湾 MRT 発展史](/ja/lifestyle/history-of-taiwan-mrt-development)、[観光バス](/ja/lifestyle/tour-bus)
 
 ## 画像出典
 

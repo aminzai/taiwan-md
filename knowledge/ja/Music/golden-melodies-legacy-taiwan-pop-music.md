@@ -254,11 +254,11 @@ _李竺芯〈水 Suí〉official。李竺芯 Siri Lee 公式チャンネル。20
 
 **関連読書**：
 
-- [台湾民歌運動：「自分たちの歌」を歌うとは誰の歌を歌うことか](/music/台灣民歌運動)
-- [台湾語歌曲の歩み：発禁にされた母語から年度アルバムへ](/music/台灣台語歌曲演進)
-- [金曲奨](/music/金曲獎)
-- [台湾音楽産業と配信時代：物理メディア崩壊後の回復](/music/台灣音樂產業與串流時代)
-- [鄧麗君：中台香港で歌われながら、中国で生涯コンサートを開かなかった歌姫](/people/鄧麗君)
+- [台湾民歌運動：「自分たちの歌」を歌うとは誰の歌を歌うことか](/ja/music/taiwan-campus-folk-song-movement)
+- [台湾語歌曲の歩み：発禁にされた母語から年度アルバムへ](/ja/music/taiwanese-hokkien-song-evolution)
+- [金曲奨](/ja/music/pop-music-and-golden-melody-awards)
+- [台湾音楽産業と配信時代：物理メディア崩壊後の回復](/ja/music/taiwan-music-industry-and-the-streaming-era)
+- [鄧麗君：中台香港で歌われながら、中国で生涯コンサートを開かなかった歌姫](/ja/people/teresa-teng)
 
 ## 画像出典
 

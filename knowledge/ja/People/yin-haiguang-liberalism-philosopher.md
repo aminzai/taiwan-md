@@ -81,10 +81,10 @@ translatedAt: '2026-06-12T16:38:55Z'
 
 **関連記事**
 
-- [鄭南榕（チェン・ナンロン）](/people/zheng-nanrong) — イン・ハイクァンの時代が争い取った言論の自由を、「焼身をもって守る」という極点まで推し進めた次世代の実践者
-- [許倬雲（シュ・ジョーユン）](/people/cho-yun-hsu-bridging-historian) — 同じく1960年代の台大・中研院システムの中で人文社会科学の現代化を推進した思想史学者
-- [台湾の白色テロ](/history/taiwan-white-terror) — イン・ハイクァンが軟禁され、雷震が投獄され、《中国文化的展望》が発禁となった全体的な政治的文脈
-- [戒厳時代](/history/martial-law-era) — 雷震事件・文星書店の閉鎖・《自由中国》廃刊の背景にある法律と政治的枠組み
+- [鄭南榕（チェン・ナンロン）](/ja/people/zheng-nanrong) — イン・ハイクァンの時代が争い取った言論の自由を、「焼身をもって守る」という極点まで推し進めた次世代の実践者
+- [許倬雲（シュ・ジョーユン）](/ja/people/cho-yun-hsu-bridging-historian) — 同じく1960年代の台大・中研院システムの中で人文社会科学の現代化を推進した思想史学者
+- [台湾の白色テロ](/ja/history/taiwan-white-terror) — イン・ハイクァンが軟禁され、雷震が投獄され、《中国文化的展望》が発禁となった全体的な政治的文脈
+- [戒厳時代](/ja/history/martial-law-era) — 雷震事件・文星書店の閉鎖・《自由中国》廃刊の背景にある法律と政治的枠組み
 - [二・二八事件と白色テロ](/history/february-28-incident-and-white-terror-taiwan-authoritarian-rule-trauma-and-memory) — イン・ハイクァンが台湾に来る二年前に起きた、「党国権威主義」への彼の最初の衝撃を形作った歴史的背景
 
 ---

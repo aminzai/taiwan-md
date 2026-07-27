@@ -85,7 +85,7 @@ translatedAt: 2026-05-18T05:08:08+08:00
 
 広西チワン族自治区桂林から台北新公園へ、『現代文学』から蘇州崑劇院へ。白先勇の60年にわたる軌跡は、「記憶」というものを決して手放さなかった人間の標本である。
 
-**関連記事：** [白先勇 — ウィキペディア](https://zh.wikipedia.org/wiki/白先勇) ｜ [国家文芸賞：白先勇受賞記録](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [国立台湾文学館](https://www.nmtl.gov.tw/) ｜ [三毛](/People/三毛)：白先勇がその処女作『惑』を『現代文学』への掲載を推薦した
+**関連記事：** [白先勇 — ウィキペディア](https://zh.wikipedia.org/wiki/白先勇) ｜ [国家文芸賞：白先勇受賞記録](https://www.ncafroc.org.tw/artsaward/winnerDetail@1229) ｜ [国立台湾文学館](https://www.nmtl.gov.tw/) ｜ [三毛](/ja/people/san-mao)：白先勇がその処女作『惑』を『現代文学』への掲載を推薦した
 
 ## 参考文献
 

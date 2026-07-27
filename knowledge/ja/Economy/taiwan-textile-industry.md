@@ -67,8 +67,8 @@ author: 'Taiwan.md Contributors'
 
 ## 関連資料
 
-- [台湾の循環経済と資源再利用](/economy/台灣循環經濟與資源再利用) — ペットボトルから衣服への循環経済的背景
-- [台湾産業の転換アップグレード](/economy/台灣產業轉型升級) — 伝統産業転換に関するより大きな枠組み
+- [台湾の循環経済と資源再利用](/ja/economy/circular-economy-and-resource-recycling) — ペットボトルから衣服への循環経済的背景
+- [台湾産業の転換アップグレード](/ja/economy/industrial-transformation-from-manufacturing-to-innovation) — 伝統産業転換に関するより大きな枠組み
 
 ## 参考文献と出典
 

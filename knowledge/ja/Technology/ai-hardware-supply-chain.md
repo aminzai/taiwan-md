@@ -177,13 +177,13 @@ AI ハードウェアのサプライチェーンが台湾に与えたのは、�
 
 ## 関連記事
 
-- [台灣外貿與全球供應鏈](/economy/台灣外貿與全球供應鏈) — 輸出主導、三角貿易から米中のサプライチェーン再編までのマクロな背景。
-- [NVIDIA 在台灣](/technology/NVIDIA在台灣) — NVIDIA がどのようにチップ製造、パッケージング、サーバー組み立てを台湾に深く預けているか。
-- [半導體產業](/technology/半導體產業) — RCA からの技術移転、TSMC のファウンドリ、そして材料とパッケージングの戦場までの長い背景。
-- [Computex](/technology/Computex) — なぜ台北のコンピュータ見本市が AI の時代に世界のハードウェア供給側の巡礼の場になったのか。
-- [台灣的電力與半導體](/technology/台灣的電力與半導體) — AI サプライチェーンの背後にある電力の請求書、グリーン電力の圧力、エネルギー安全保障。
-- [半導體用水與台灣水資源](/technology/半導體用水與台灣水資源) — ウェハー工場がどのようにダム、干ばつ、再生水、地方のガバナンスへつながっているか。
-- [AI 供應鏈海外設廠](/technology/AI供應鏈海外設廠) — TSMC、鴻海、緯創から台達まで、台湾のサプライチェーンがどのように世界から招き出されているか。
+- [台灣外貿與全球供應鏈](/ja/economy/taiwan-foreign-trade-and-global-supply-chain) — 輸出主導、三角貿易から米中のサプライチェーン再編までのマクロな背景。
+- [NVIDIA 在台灣](/ja/technology/nvidia-in-taiwan) — NVIDIA がどのようにチップ製造、パッケージング、サーバー組み立てを台湾に深く預けているか。
+- [半導體產業](/ja/technology/taiwan-semiconductor-industry) — RCA からの技術移転、TSMC のファウンドリ、そして材料とパッケージングの戦場までの長い背景。
+- [Computex](/ja/technology/computex-taipei) — なぜ台北のコンピュータ見本市が AI の時代に世界のハードウェア供給側の巡礼の場になったのか。
+- [台灣的電力與半導體](/ja/technology/taiwan-electricity-and-semiconductors) — AI サプライチェーンの背後にある電力の請求書、グリーン電力の圧力、エネルギー安全保障。
+- [半導體用水與台灣水資源](/ja/technology/semiconductor-water-use-and-taiwan-water-resources) — ウェハー工場がどのようにダム、干ばつ、再生水、地方のガバナンスへつながっているか。
+- [AI 供應鏈海外設廠](/ja/technology/ai-supply-chain-overseas-manufacturing) — TSMC、鴻海、緯創から台達まで、台湾のサプライチェーンがどのように世界から招き出されているか。
 
 ## 画像出典
 

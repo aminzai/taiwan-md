@@ -227,8 +227,8 @@ _彎彎（胡家瑋）。 — Photo: chungkeng ryu / Wikimedia Commons, CC BY-SA
 
 **関連読書**：
 
-- [無名小站：Facebook より早かった台湾のソーシャル・プラットフォーム](/culture/無名小站)
+- [無名小站：Facebook より早かった台湾のソーシャル・プラットフォーム](/ja/culture/wretch)
 - [台湾インターネット・コミュニティ移動史](/technology/台灣網路社群遷徙史)
-- [台湾ミーム](/culture/台灣迷因)
-- [Dcard](/culture/Dcard)
-- [楊丞琳](/people/楊丞琳)
+- [台湾ミーム](/ja/culture/taiwan-meme-culture)
+- [Dcard](/ja/culture/dcard-taiwan-social-platform)
+- [楊丞琳](/ja/people/rainie-yang)

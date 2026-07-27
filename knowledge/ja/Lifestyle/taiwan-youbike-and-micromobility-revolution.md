@@ -88,9 +88,9 @@ YouBikeの最も考える価値のある点は、どの交通手段を代替し�
 
 **関連記事**：
 
-- [台湾交通システム](/lifestyle/台灣交通系統) — YouBikeはこのシステムのラストワンマイルであり、本記事はより上流の文脈を補完する
-- [台湾捷運発展史](/lifestyle/台灣捷運發展史) — なぜYouBikeはMRTと接続する必要があるのか？ 接続がどうやって日常インフラになったのか
-- [台湾気候危機とネットゼロ転換](/nature/台灣氣候危機與淨零轉型) — マイクロモビリティが28%のグリーン輸送比率に占める位置
+- [台湾交通システム](/ja/lifestyle/transportation-system) — YouBikeはこのシステムのラストワンマイルであり、本記事はより上流の文脈を補完する
+- [台湾捷運発展史](/ja/lifestyle/history-of-taiwan-mrt-development) — なぜYouBikeはMRTと接続する必要があるのか？ 接続がどうやって日常インフラになったのか
+- [台湾気候危機とネットゼロ転換](/ja/nature/taiwan-climate-change-net-zero-transition) — マイクロモビリティが28%のグリーン輸送比率に占める位置
 
 ## 参考資料
 

@@ -282,7 +282,7 @@ ECFAのアーリーハーベストリストは多くの関税を引き下げ、�
 
 ## 関連記事
 
-- [台湾の中小企業と隠れたチャンピオン](/economy/台灣中小企業與隱形冠軍)
-- [台湾の農業と農村再生](/economy/台灣農業與農村再生)
-- [スタートアップ・エコシステム](/economy/新創生態系)
-- [台湾企業：鴻海精密](/economy/台灣企業：鴻海精密) — 24カ国90万人のグローバル配置は、台湾製造業による越境ガバナンスの最大の実験場です
+- [台湾の中小企業と隠れたチャンピオン](/ja/economy/taiwan-smes-and-hidden-champions)
+- [台湾の農業と農村再生](/ja/economy/taiwan-agriculture-and-rural-revitalization)
+- [スタートアップ・エコシステム](/ja/economy/taiwan-startup-ecosystem-overview)
+- [台湾企業：鴻海精密](/ja/economy/foxconn-precision-industry) — 24カ国90万人のグローバル配置は、台湾製造業による越境ガバナンスの最大の実験場です

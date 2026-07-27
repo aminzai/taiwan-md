@@ -140,8 +140,8 @@ GitHub で Taiwan と登録しているユーザーは44,408名である（2026�
 
 ## 関連記事
 
-- [開源社群與g0v](/technology/開源社群與g0v) — 政府をフォークする集合的物語
+- [開源社群與g0v](/ja/technology/open-source-and-g0v) — 政府をフォークする集合的物語
 - [台灣網路社群遷徙史](/technology/台灣網路社群遷徙史) — BBS から Discord への世代史
-- [Mini Taiwan Pulse](/technology/mini-taiwan-pulse) — シビックテックの個人的オープンソースの形、6週間193コミットでオープンデータを3D光軌に変える
-- [大宇雙劍](/technology/大宇雙劍) — 「情熱で規模を超えることを成し遂げる」台湾の別の物語（光華商場で生まれたRPG）
-- [不入地窖焉能睡覺](/technology/不入地窖焉能睡覺) — 中央大学の寮から生まれた600万人のプレイヤーコミュニティ
+- [Mini Taiwan Pulse](/ja/technology/mini-taiwan-pulse-civic-tech) — シビックテックの個人的オープンソースの形、6週間193コミットでオープンデータを3D光軌に変える
+- [大宇雙劍](/ja/technology/softstar-twin-classics) — 「情熱で規模を超えることを成し遂げる」台湾の別の物語（光華商場で生まれたRPG）
+- [不入地窖焉能睡覺](/ja/technology/into-the-cellar-taiwan-game-podcast) — 中央大学の寮から生まれた600万人のプレイヤーコミュニティ

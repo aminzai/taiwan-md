@@ -270,9 +270,9 @@ Data Source: Complex Life Festival Official Medium, Simple Life Festival Histori
 
 **Further Reading**:
 
-- [Sunflower Student Movement](/society/太陽花學運) — The era background of Complex Life Festival: How that 2014 movement, after scattering on the streets, divided into New Power Party, g0v, Za School, and Complex Life Festival youth exits
-- [Za School](/society/雜學校) — The same wave of 318 post-energy, taking the opposite route: growing into Asia's largest educational carnival, contrasting with Complex Life Festival's "deliberately maintaining small" in scale and intimacy
-- [Taiwan's Slash Generation](/society/台灣斜槓世代) — The structural background of Complex Life Festival participants calling themselves "workaholics": How median wages and survival pressure forced this generation into multi-job individuals
+- [Sunflower Student Movement](/ja/society/sunflower-movement) — The era background of Complex Life Festival: How that 2014 movement, after scattering on the streets, divided into New Power Party, g0v, Za School, and Complex Life Festival youth exits
+- [Za School](/ja/society/za-share) — The same wave of 318 post-energy, taking the opposite route: growing into Asia's largest educational carnival, contrasting with Complex Life Festival's "deliberately maintaining small" in scale and intimacy
+- [Taiwan's Slash Generation](/ja/society/taiwan-slash-generation-multi-job-economy) — The structural background of Complex Life Festival participants calling themselves "workaholics": How median wages and survival pressure forced this generation into multi-job individuals
 - [FAB DAO and Project %](/art/FAB DAO與百岳計畫) — Where Huang Dou-ni went after abandoning medicine: The next work of "integrating cypherpunk spirit into Taiwan's digital society"
 
 ## Image Sources

@@ -211,11 +211,11 @@ _2014年台南、通りに直接開かれた屋外宴席。封鎖、卓設置、
 
 **延伸閱讀**：
 
-- [台湾の手路菜](/food/台灣手路菜)
-- [刈包](/food/刈包)
-- [台湾の海鮮文化](/food/台灣海鮮文化)
-- [夜市文化](/food/夜市文化)
-- [陳玉勳](/people/陳玉勳)
+- [台湾の手路菜](/ja/food/taiwan-specialty-home-cooking)
+- [刈包](/ja/food/gua-bao)
+- [台湾の海鮮文化](/ja/food/taiwan-seafood-culture)
+- [夜市文化](/ja/food/night-market-culture)
+- [陳玉勳](/ja/people/chen-yu-hsun-taiwan-comedy-film-magician)
 
 ## 写真出典
 

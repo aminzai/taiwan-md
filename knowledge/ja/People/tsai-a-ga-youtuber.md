@@ -70,9 +70,9 @@ featured: false
 
 ## 関連記事
 
-- [八炯](/people/八炯) — 同様に18年以上活動するYouTuberの老兵。反論から公益へのもう一つの道
-- [阿滴](/people/阿滴) — 台湾YouTuber大世代のもう一本の成長線（英語教育から出発）
-- [波特王](/people/波特王) — 同世代のお笑い系YouTuber。アルゴリズムの変化に対応するクリエイターの戦略比較
+- [八炯](/ja/people/pa-chiung-political-youtuber) — 同様に18年以上活動するYouTuberの老兵。反論から公益へのもう一つの道
+- [阿滴](/ja/people/ray-du-english-youtuber) — 台湾YouTuber大世代のもう一本の成長線（英語教育から出発）
+- [波特王](/ja/people/potter-king-youtuber) — 同世代のお笑い系YouTuber。アルゴリズムの変化に対応するクリエイターの戦略比較
 
 ## 参考資料
 

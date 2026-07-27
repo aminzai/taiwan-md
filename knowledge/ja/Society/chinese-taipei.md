@@ -191,7 +191,7 @@ And that ticket, still only lets Taiwan play, still won't print its own name. Ne
 - [Taiwan's Diplomatic Allies and International Diplomacy](/society/Taiwan-Diplomatic-Allies-and-International-Diplomacy) — Beyond the spillover of the "Olympic Model," the same name dilemma Taiwan faces in formal diplomatic arenas
 - [Chi Cheng](/people/Chi-Cheng) — The complete arc of the Leaping Antelope from the 1968 Mexico bronze medal, 1981 establishment merit figure, to the 2018 renaming initiator
 - [Yang Chuan-kwang](/people/Yang-Chuan-kwang) — The Asian Iron Man who won Taiwan's first Olympic medal under the name "Formosa" at the 1960 Rome Olympics
-- [The Invisible Country](/art/看不見的國家) — In this documentary, Chi Cheng holds up her 1968 Olympic bronze medal and asks, "Is 'Chinese Taipei' even a country name?"
+- [The Invisible Country](/ja/art/invisible-nation) — In this documentary, Chi Cheng holds up her 1968 Olympic bronze medal and asks, "Is 'Chinese Taipei' even a country name?"
 
 ## Image Sources
 

@@ -194,14 +194,14 @@ TSMC の公式のアリゾナのページは、Phoenix のキャンパスへの�
 
 ## 関連記事
 
-- [AI 硬體供應鏈](/technology/AI硬體供應鏈) — なぜ世界は台湾にクラウドの需要を機械へ変えてもらう必要があるのか。
-- [AI 硬體供應鏈](/technology/AI硬體供應鏈) — GPU からラックまで、台湾の ODM / EMS がどのように AI データセンターのハードウェアを受け止めているか。
-- [台灣的電力與半導體](/technology/台灣的電力與半導體) — 先端の製造がどのように電力とエネルギー安全保障へ戻ってくるか。
-- [半導體用水與台灣水資源](/technology/半導體用水與台灣水資源) — ウェハー工場がどのようにダム、干ばつ、再生水のガバナンスへ入っていくか。
-- [台灣企業：台積電](/economy/台灣企業：台積電) — TSMC のファウンドリのモデルが、いかに世界の半導体の分業を書き換えたか。
-- [台灣企業：鴻海精密](/economy/台灣企業：鴻海精密) — 電子の受託製造から AI サーバーとデータセンターのハードウェアまで。
-- [台灣企業：台達電子](/economy/台灣企業：台達電子) — 電源、放熱、エネルギー管理がいかに AI インフラの一部になったか。
-- [科技園區發展](/technology/科技園區發展) — 台湾の半導体の集積が、いかに土地と都市から育ってきたか。
+- [AI 硬體供應鏈](/ja/technology/ai-hardware-supply-chain) — なぜ世界は台湾にクラウドの需要を機械へ変えてもらう必要があるのか。
+- [AI 硬體供應鏈](/ja/technology/ai-hardware-supply-chain) — GPU からラックまで、台湾の ODM / EMS がどのように AI データセンターのハードウェアを受け止めているか。
+- [台灣的電力與半導體](/ja/technology/taiwan-electricity-and-semiconductors) — 先端の製造がどのように電力とエネルギー安全保障へ戻ってくるか。
+- [半導體用水與台灣水資源](/ja/technology/semiconductor-water-use-and-taiwan-water-resources) — ウェハー工場がどのようにダム、干ばつ、再生水のガバナンスへ入っていくか。
+- [台灣企業：台積電](/ja/economy/tsmc) — TSMC のファウンドリのモデルが、いかに世界の半導体の分業を書き換えたか。
+- [台灣企業：鴻海精密](/ja/economy/foxconn-precision-industry) — 電子の受託製造から AI サーバーとデータセンターのハードウェアまで。
+- [台灣企業：台達電子](/ja/economy/delta-electronics-taiwan-power-giant) — 電源、放熱、エネルギー管理がいかに AI インフラの一部になったか。
+- [科技園區發展](/ja/technology/science-park-development) — 台湾の半導体の集積が、いかに土地と都市から育ってきたか。
 
 ## 画像出典
 

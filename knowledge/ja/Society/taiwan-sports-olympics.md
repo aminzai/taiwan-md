@@ -142,12 +142,12 @@ NHKは「台湾です」と言い、France 2は「私たちがよく知る台湾
 
 ## 延伸閱讀
 
-- [戴資穎](/People/戴資穎)：高雄左営の少女から三度の世界女王へ
-- [郭婞淳](/People/郭婞淳)：三大会連続でオリンピックメダルを獲得した重量挙げの道
-- [李洋](/People/李洋)：麟洋ペアが刻んだオリンピック史上初の男子ダブルス連覇
-- [楊勇緯](/People/楊勇緯)：2020年東京柔道銀メダルの訓練システム
-- [莊智淵](/People/莊智淵)：卓球でアジア四連覇を果たした孤独な王者
-- [台湾野球文化](/Culture/台灣棒球文化)：嘉農からCPBLまでの百年野球史
+- [戴資穎](/ja/people/tai-tzu-ying)：高雄左営の少女から三度の世界女王へ
+- [郭婞淳](/ja/people/kuo-hsing-chun-olympic-weightlifting-champion)：三大会連続でオリンピックメダルを獲得した重量挙げの道
+- [李洋](/ja/people/lee-yang-badminton)：麟洋ペアが刻んだオリンピック史上初の男子ダブルス連覇
+- [楊勇緯](/ja/people/yang-yung-wei-judo-olympic-silver)：2020年東京柔道銀メダルの訓練システム
+- [莊智淵](/ja/people/chuang-chih-yuan-table-tennis-legend)：卓球でアジア四連覇を果たした孤独な王者
+- [台湾野球文化](/ja/culture/taiwan-baseball-culture)：嘉農からCPBLまでの百年野球史
 
 ## 参考資料
 

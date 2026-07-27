@@ -244,13 +244,13 @@ _冬山河親水公園、2015-11-14。Photo: Gpdprince, [CC BY-SA 4.0 via Wikime
 
 ## 延伸閱讀
 
-- [亀山島](/geography/龜山島) — 蘭陽平原外海那座「不変の座標」自身の物語：活火山、補償のない遷村、22年間の軍事禁制区域、島民の帰れない家
-- [台湾行政区画](/geography/台灣行政區劃) — 1812年噶瑪蘭庁設置、1875年宜蘭県へ改名、1895年日治体制の行政沿革
-- [台湾海岸地形と海洋景観](/geography/台灣海岸地形與海洋地景) — 亀山島火山島、蘭陽渓沖積扇、蘇花海岸帯の地質脈絡
-- [台湾農業景観と産業分布](/geography/台灣農業地景與產業分布) — 蘭陽平原農地分断化が台湾農業景観中における位置
-- [台湾都市発展と城郷格差](/geography/台灣都市發展與城鄉差距) — 雪隧開通後、宜蘭が台北一日生活圏の衛星都市効果に組み込まれたこと
-- [台湾温泉景観](/geography/台灣溫泉地景) — 礁渓温泉が台湾温泉地理中における特殊な位置
-- [基隆市](/geography/基隆市) — 22県市シリーズ同期記事、宜蘭と同じく「台北に見えない」東北の県市
+- [亀山島](/ja/geography/gueishan-island) — 蘭陽平原外海那座「不変の座標」自身の物語：活火山、補償のない遷村、22年間の軍事禁制区域、島民の帰れない家
+- [台湾行政区画](/ja/geography/administrative-divisions-of-taiwan) — 1812年噶瑪蘭庁設置、1875年宜蘭県へ改名、1895年日治体制の行政沿革
+- [台湾海岸地形と海洋景観](/ja/geography/taiwan-coastal-landforms-and-seascapes) — 亀山島火山島、蘭陽渓沖積扇、蘇花海岸帯の地質脈絡
+- [台湾農業景観と産業分布](/ja/geography/taiwan-agricultural-landscapes-and-industry-belts) — 蘭陽平原農地分断化が台湾農業景観中における位置
+- [台湾都市発展と城郷格差](/ja/geography/taiwan-urban-development-and-rural-urban-divide) — 雪隧開通後、宜蘭が台北一日生活圏の衛星都市効果に組み込まれたこと
+- [台湾温泉景観](/ja/geography/taiwan-hot-springs-landscape) — 礁渓温泉が台湾温泉地理中における特殊な位置
+- [基隆市](/ja/geography/keelung-city) — 22県市シリーズ同期記事、宜蘭と同じく「台北に見えない」東北の県市
 
 ## 写真出典
 

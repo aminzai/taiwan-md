@@ -99,8 +99,8 @@ translatedAt: '2026-07-25T21:33:42+08:00'
 
 ## 関連記事
 
-- [国連退出](/history/退出聯合國) — 台湾の国際的地位における構造的転換点
-- [台湾の外貿とグローバルサプライチェーン](/economy/台灣外貿與全球供應鏈) — 輸出主導がグレーゾーン貿易をどのように形成したか
+- [国連退出](/ja/history/withdrawal-from-united-nations) — 台湾の国際的地位における構造的転換点
+- [台湾の外貿とグローバルサプライチェーン](/ja/economy/taiwan-foreign-trade-and-global-supply-chain) — 輸出主導がグレーゾーン貿易をどのように形成したか
 
 ## 参考文献
 
