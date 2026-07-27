@@ -1329,18 +1329,110 @@ function processFootnotes(md: string): string {
   return body;
 }
 
-// ── Title-dedup → wikilink → footnote → marked → 延伸閱讀 split ─────────────
+// ── 首圖去重（渲染層判斷，不動 knowledge/ 資料層）────────────────────────────
+// 有一批文章的正文自己就放了 frontmatter 宣告的那張首圖（作者寫 `![](…)` 加一行
+// 圖說），樣板又在正文前補一張同一張 → 同一張圖連著出現兩次。修在渲染層而不是回頭
+// 改資料，跟下面「正文開頭那個跟 title 重複的 H1 直接拿掉」是同一種處理：資料層照
+// 舊，畫面上只出現一次。誰讓位的判準是**以文章為準**——正文那張是作者選的位置、
+// 配了自己的圖說，樣板那張退場。
+//
+// 唯一不能順手弄丟的是姓名標示：正文那張沒寫圖說時，把 frontmatter 的
+// 來源 / 授權 / 原始連結掛到它底下（house style 的圖說就住在同一個 <p> 裡，
+// 掛進去直接吃到現成的 caption 樣式），不然 CC BY-SA 的圖會變成沒署名。
+export interface HeroImageInfo {
+  /** frontmatter.image；空值等於這篇沒宣告首圖 */
+  src?: string;
+  /** 樣板組好的來源字串（已 i18n、已 escape），只在正文那張沒圖說時掛上 */
+  creditHtml?: string;
+}
+
+const _HERO_IMG_TAG = /<img\b[^>]*\bsrc\s*=\s*["']([^"']+)["'][^>]*>/gi;
+
+/**
+ * 圖片路徑正規化：query / hash 去掉、自家絕對網址收成站內路徑、percent-encoding
+ * 解回原字。marked 會對 markdown 圖片 href 跑 encodeURI，所以中文檔名在正文是
+ * `%E4%B8%AD…` 而 frontmatter 是原字，不解碼兩邊永遠對不起來。
+ */
+function normalizeImageSrc(src?: string): string {
+  let s = String(src || '').trim();
+  if (!s) return '';
+  s = s.split(/[?#]/)[0];
+  s = s.replace(/^https?:\/\/(?:www\.)?taiwan\.md/i, '');
+  try {
+    s = decodeURIComponent(s);
+  } catch {
+    /* 壞掉的 escape sequence：維持原字比整篇炸掉好 */
+  }
+  return s.replace(/^\.\//, '').normalize('NFC').toLowerCase();
+}
+
+/**
+ * 正文那張圖已經有作者寫的圖說了嗎。
+ * 判準是「同一段裡除了 `<img>` 還有沒有文字」而不是「有沒有 `<em>`」：house style
+ * 的圖說是圖片下一行的 `_…_`，但有幾篇結尾的底線被跳脫成 `\_`，斜體沒收起來、
+ * 渲染出來是純文字——那仍然是作者寫好的圖說，只是樣式壞了，不該再補一行來源。
+ * 圖不在段落裡（未來換 `<figure>` 之類）一律當作有圖說：不確定就不要動它。
+ */
+function bodyImageHasOwnCaption(
+  html: string,
+  imgStart: number,
+  close: number,
+): boolean {
+  const open = html.lastIndexOf('<p', imgStart);
+  if (open === -1 || html.slice(open, imgStart).includes('</p>')) return true;
+  const text = html
+    .slice(open, close)
+    .replace(/<[^>]+>/g, '')
+    .replace(/&nbsp;/g, ' ')
+    .trim();
+  if (text) return true;
+  // 圖說跟圖之間空一行的寫法：下一段整段是斜體
+  return /^\s*<p>\s*<em[\s>]/i.test(html.slice(close + 4, close + 48));
+}
+
+function dedupeHeroImage(html: string, hero?: HeroImageInfo) {
+  const target = normalizeImageSrc(hero?.src);
+  if (!target) return { html, heroImageInBody: false };
+
+  _HERO_IMG_TAG.lastIndex = 0;
+  let m: RegExpExecArray | null;
+  while ((m = _HERO_IMG_TAG.exec(html)) !== null) {
+    if (normalizeImageSrc(m[1]) !== target) continue;
+
+    const imgEnd = m.index + m[0].length;
+    const close = html.indexOf('</p>', imgEnd);
+    if (
+      hero?.creditHtml &&
+      close !== -1 &&
+      !bodyImageHasOwnCaption(html, m.index, close)
+    ) {
+      html =
+        html.slice(0, close) +
+        `<br><em>${hero.creditHtml}</em>` +
+        html.slice(close);
+    }
+    return { html, heroImageInBody: true };
+  }
+  return { html, heroImageInBody: false };
+}
+
+// ── Title-dedup → wikilink → footnote → marked → 首圖去重 → 延伸閱讀 split ───
 // 1:1 對應 template 原 frontmatter 行為：strip 開頭重複 H1、跑 marked、
 // 找 延伸閱讀 split 點（SSODT sections 插入位置）。splitIndex === -1 表示沒找到。
+// 首圖去重排在 split 之前：它可能往 HTML 裡插一行來源，splitIndex 要算在插完之後
+// 的字串上，不然 SSODT 區塊會插錯位置。
 export interface RenderedArticle {
   fullHtml: string;
   splitIndex: number;
+  /** 正文自己已經放了首圖 → 樣板頂端那張讓位 */
+  heroImageInBody: boolean;
 }
 
 export function renderArticleHtml(
   title: string,
   content: string,
   lang: string = 'zh-TW',
+  heroImage?: HeroImageInfo,
 ): RenderedArticle {
   // 依頁面語言選 renderer UI 字串（見檔頭 i18n 註解與 _locale 的同步假設）
   _locale =
@@ -1357,13 +1449,18 @@ export function renderArticleHtml(
     '',
   );
 
-  const fullHtml = marked.parse(
+  const parsedHtml = marked.parse(
     processFootnotes(resolveWikilinks(bodyMarkdown)),
     {
       renderer,
       breaks: true,
     },
   ) as string;
+
+  const { html: fullHtml, heroImageInBody } = dedupeHeroImage(
+    parsedHtml,
+    heroImage,
+  );
 
   // Split content before 延伸閱讀/Further Reading to insert SSODT sections
   // 2026-05-03 fix: bold paragraph format `**延伸閱讀**：` was silently broken
@@ -1397,5 +1494,5 @@ export function renderArticleHtml(
     if (pMatch && pMatch.index !== undefined) splitIndex = pMatch.index;
   }
 
-  return { fullHtml, splitIndex };
+  return { fullHtml, splitIndex, heroImageInBody };
 }

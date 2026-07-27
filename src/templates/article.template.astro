@@ -209,11 +209,38 @@ const latestCatMeta = Object.fromEntries(
   }),
 );
 
+// ── 首圖來源字串 ─────────────────────────────────────────────────────────────
+// 同一份來源資訊有兩個出口：樣板自己那張首圖的 <figcaption>（下方 JSX），以及
+// 正文自己放了同一張圖時掛到它底下的那行（renderArticleHtml 內處理）。後者要的是
+// HTML 字串，所以在這裡組一次，i18n 與 escape 都留在樣板層。
+const _esc = (v: unknown) =>
+  String(v)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+const heroCreditHtml = [
+  frontmatter.imageCredit &&
+    `${_esc(t('article.imageCredit') || '圖片')}：${_esc(frontmatter.imageCredit)}`,
+  frontmatter.imageLicense && _esc(frontmatter.imageLicense),
+  frontmatter.imageSource &&
+    `<a href="${_esc(frontmatter.imageSource)}" target="_blank" rel="noopener noreferrer">${_esc(t('article.imageSource') || '原始來源')}</a>`,
+]
+  .filter(Boolean)
+  .join(' · ');
+
 // ── Markdown → HTML ─────────────────────────────────────────────────────────
 // Pipeline 本體（17 tw-* 模組 renderer / 腳註 / wikilink / 延伸閱讀 split）住在
 // src/utils/article-render.ts — module scope，整個 build 只配置一次（.astro
 // frontmatter 是 per-render scope，不放可共享的邏輯與 cache）。
-const { fullHtml, splitIndex } = renderArticleHtml(title, content, lang);
+// 第四個參數是首圖去重：正文自己放了同一張圖時回報 heroImageInBody，下方頂端那張
+// 就不再放（規則與理由見 article-render.ts §首圖去重）。
+const { fullHtml, splitIndex, heroImageInBody } = renderArticleHtml(
+  title,
+  content,
+  lang,
+  { src: frontmatter.image, creditHtml: heroCreditHtml },
+);
 
 const hasSSoDT =
   frontmatter.perspectives?.length > 0 ||
@@ -347,9 +374,13 @@ const encodedTitle = encodeURIComponent(title);
              credit/license info has visible context. Hero section above
              becomes solid color when frontmatter.image is set; articles
              without an explicit image still get the category default cover
-             behind the hero. 2026-05-04. -->
+             behind the hero. 2026-05-04.
+
+             2026-07-27：正文自己已經放了同一張圖時（476 篇譯文含 80 篇中文
+             源文都是這樣寫的）這裡讓位，畫面上只留作者自己擺的那張——判斷在
+             renderArticleHtml，資料層一個字都不動。 -->
         {
-          frontmatter.image && (
+          frontmatter.image && !heroImageInBody && (
             <figure class="mb-10 max-[640px]:-mx-2">
               <img
                 src={frontmatter.image}
