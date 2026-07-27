@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-28T02:39:01+08:00",
-    "zhCommitHead": "dbb4d4709",
+    "lastUpdated": "2026-07-28T03:07:27+08:00",
+    "zhCommitHead": "2434cf8ce",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -19,10 +19,10 @@
     "summary": {
       "en": {
         "total_zh": 869,
-        "fresh": 794,
+        "fresh": 795,
         "stale": 48,
         "metadata_stale": 0,
-        "missing": 27,
+        "missing": 26,
         "orphan": 0
       },
       "ja": {
@@ -35,50 +35,50 @@
       },
       "ko": {
         "total_zh": 869,
-        "fresh": 820,
-        "stale": 43,
+        "fresh": 821,
+        "stale": 42,
         "metadata_stale": 0,
         "missing": 6,
         "orphan": 0
       },
       "es": {
         "total_zh": 869,
-        "fresh": 823,
-        "stale": 40,
+        "fresh": 824,
+        "stale": 39,
         "metadata_stale": 0,
         "missing": 6,
         "orphan": 0
       },
       "fr": {
         "total_zh": 869,
-        "fresh": 818,
-        "stale": 46,
+        "fresh": 819,
+        "stale": 45,
         "metadata_stale": 1,
         "missing": 4,
         "orphan": 0
       },
       "vi": {
         "total_zh": 869,
-        "fresh": 270,
+        "fresh": 272,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 593,
+        "missing": 591,
         "orphan": 0
       },
       "id": {
         "total_zh": 869,
-        "fresh": 379,
+        "fresh": 380,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 489,
+        "missing": 488,
         "orphan": 0
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 583,
+        "fresh": 585,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 280,
+        "missing": 278,
         "orphan": 0
       },
       "hi": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 492,
+        "fresh": 491,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 377,
+        "missing": 378,
         "orphan": 0
       }
     },
@@ -3129,7 +3129,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Music/chthonic.md",
+          "translatedFrom": "Music/閃靈.md",
+          "sourceCommitSha": "087677fae",
+          "sourceContentHash": "sha256:428539ef61aee065",
+          "sourceBodyHash": "sha256:ca8382bb6533d023",
+          "translatedAt": "2026-07-27T22:12:17+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -7478,32 +7489,10 @@
           "status": "missing"
         },
         "ar": {
-          "path": "ar/Economy/want-want-group.md",
-          "translatedFrom": "Economy/旺旺.md",
-          "sourceCommitSha": "71a0a6781",
-          "sourceContentHash": "sha256:09b6e203fc91b5b5",
-          "sourceBodyHash": "sha256:2386fbe1cd54e9dd",
-          "translatedAt": "2026-07-27T22:12:17+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         },
         "ru": {
-          "path": "ru/Economy/want-want-group.md",
-          "translatedFrom": "Economy/旺旺.md",
-          "sourceCommitSha": "71a0a6781",
-          "sourceContentHash": "sha256:09b6e203fc91b5b5",
-          "sourceBodyHash": "sha256:2386fbe1cd54e9dd",
-          "translatedAt": "2026-07-27T22:12:18+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
-          "inferred": false,
-          "footnoteDefs": 10,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "missing"
         }
       }
     },
@@ -29664,7 +29653,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Lifestyle/xiaobei-department-store.md",
+          "translatedFrom": "Lifestyle/小北百貨.md",
+          "sourceCommitSha": "08a8c5ec8",
+          "sourceContentHash": "sha256:93955fe44e7691af",
+          "sourceBodyHash": "sha256:08eacf8247ffcb10",
+          "translatedAt": "2026-07-27T22:12:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -66125,8 +66125,8 @@
           "sourceContentHash": "sha256:8b9c35107127e767",
           "sourceBodyHash": "sha256:e59e32a8f7afc902",
           "translatedAt": "2026-07-27T22:12:15+08:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "42a9365a",
+          "translationLastModified": "2026-07-28T02:39:01+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -75679,7 +75679,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/dwagie.md",
+          "translatedFrom": "People/大支.md",
+          "sourceCommitSha": "498649feb",
+          "sourceContentHash": "sha256:2e7abe81d37d5763",
+          "sourceBodyHash": "sha256:42bdb5d4361f8a68",
+          "translatedAt": "2026-07-27T22:12:14+08:00",
+          "translationLastCommit": "a389460e",
+          "translationLastModified": "2026-07-24T19:47:45+08:00",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/dwagie.md",
@@ -75755,7 +75766,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/dwagie.md",
+          "translatedFrom": "People/大支.md",
+          "sourceCommitSha": "498649feb",
+          "sourceContentHash": "sha256:2e7abe81d37d5763",
+          "sourceBodyHash": "sha256:42bdb5d4361f8a68",
+          "translatedAt": "2026-07-27T22:12:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -82429,7 +82451,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Food/puli-shaoxing-wine.md",
+          "translatedFrom": "Food/埔里紹興酒.md",
+          "sourceCommitSha": "58a56e425",
+          "sourceContentHash": "sha256:12079ecc271885a4",
+          "sourceBodyHash": "sha256:0805d92de4b036d1",
+          "translatedAt": "2026-07-27T22:12:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -91435,7 +91468,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/History/228-incident.md",
+          "translatedFrom": "History/二二八事件.md",
+          "sourceCommitSha": "936ada6c3",
+          "sourceContentHash": "sha256:99bda6e7dc861382",
+          "sourceBodyHash": "sha256:3ffe04bee42caf48",
+          "translatedAt": "2026-07-27T22:12:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -92951,44 +92995,44 @@
         "ko": {
           "path": "ko/History/taiwan-island-historiography.md",
           "translatedFrom": "History/台灣島史觀.md",
-          "sourceCommitSha": "01d9d0e73",
-          "sourceContentHash": "sha256:a449ffee99fa24a3",
-          "sourceBodyHash": "sha256:ba46b21b9cb6be40",
-          "translatedAt": "2026-05-12T11:51:04+08:00",
+          "sourceCommitSha": "a1c3748b5",
+          "sourceContentHash": "sha256:584f286b403c0d75",
+          "sourceBodyHash": "sha256:4711da6579afc037",
+          "translatedAt": "2026-07-27T22:12:15+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (8→0)"
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/taiwan-island-historiography.md",
           "translatedFrom": "History/台灣島史觀.md",
-          "sourceCommitSha": "01d9d0e73",
-          "sourceContentHash": "sha256:a449ffee99fa24a3",
-          "sourceBodyHash": "sha256:ba46b21b9cb6be40",
-          "translatedAt": "2026-05-12T11:51:05+08:00",
+          "sourceCommitSha": "a1c3748b5",
+          "sourceContentHash": "sha256:584f286b403c0d75",
+          "sourceBodyHash": "sha256:4711da6579afc037",
+          "translatedAt": "2026-07-27T22:12:15+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (8→0)"
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/History/taiwan-island-historiography.md",
           "translatedFrom": "History/台灣島史觀.md",
-          "sourceCommitSha": "01d9d0e73",
-          "sourceContentHash": "sha256:a449ffee99fa24a3",
-          "sourceBodyHash": "sha256:ba46b21b9cb6be40",
-          "translatedAt": "2026-05-12T11:51:05+08:00",
+          "sourceCommitSha": "a1c3748b5",
+          "sourceContentHash": "sha256:584f286b403c0d75",
+          "sourceBodyHash": "sha256:4711da6579afc037",
+          "translatedAt": "2026-07-27T22:12:16+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (8→0)"
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/History/taiwan-island-historiography.md",
@@ -111787,7 +111831,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/taiwan-prime-time-drama.md",
+          "translatedFrom": "Culture/八點檔.md",
+          "sourceCommitSha": "08a8c5ec8",
+          "sourceContentHash": "sha256:c5c6c2825029a48f",
+          "sourceBodyHash": "sha256:f0cb0ab3b5428edc",
+          "translatedAt": "2026-07-27T22:12:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
