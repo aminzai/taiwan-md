@@ -2,6 +2,7 @@
 title: "Taiwan's White Terror"
 description: "The 38-year martial law was not maintained by a few thousand secret agents, but by the 'joint liability guarantee' system that required every family in Taiwan to mutually guarantee each other for employment, school admission, and marriage. Chen Zhi-xiong, Shi Shui-huan, Gao Yi-sheng, and Bo Yang—four names, four reasons for arrest, one common machine."
 date: 2026-04-05
+category: 'History'
 tags:
   [
     'History',
@@ -14,16 +15,15 @@ tags:
   ]
 subcategory: 'Post-War and Authoritarianism'
 author: 'Taiwan.md'
-category: 'History'
-readingTime: 11
+featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
+readingTime: 11
 translatedFrom: 'History/台灣白色恐怖.md'
-sourceCommitSha: '6c2f8ea8'
-sourceContentHash: 'sha256:95fed80eda56f46a'
-sourceBodyHash: 'sha256:c81706526bb2277b'
-translatedAt: '2026-05-29T00:35:00+08:00'
-featured: true
+sourceCommitSha: '710263a86'
+sourceContentHash: 'sha256:bc916494357a8d5d'
+sourceBodyHash: 'sha256:cbfe5f14ffa2e661'
+translatedAt: '2026-07-27T23:51:16.384090+00:00'
 ---
 
 # Taiwan's White Terror
@@ -155,28 +155,29 @@ On World Human Rights Day in 2013, Gao Yi-sheng's son, Gao Ying-jie, donated the
 
 ---
 
-## Why This History Has Not Ended
+## 왜 이 역사는 아직 끝나지 않았는가
 
-It is easy to say "White Terror is in the past." Martial law was lifted in 1987, the Regulations for Punishing Rebellion and Subversion were abolished in 1991, the Compensation Foundation was established in 1995, and the Promotion of Transitional Justice Commission went online in 2018. The state machine has not killed for 38 years.
+"백색테러는 이미 지나갔다"라고 말하기는 쉽다. 1987년 계엄 해제, 1991년 반란치죄 조례 폐지, 1995년 보상기금 설립, 2018년 이행기 정의 위원회(促轉會) 출범까지, 국가 기구가 더 이상 살인을 저지르지 않게 된 지도 이미 38년이 흘렀다.
 
-But open the family history of any Taiwanese born in the 1950s-1980s, flip to the pages about their parents, and the word "guarantee" often appears, followed by a pause. His uncle refused to guarantee; his neighbor once guaranteed; his grandfather nearly lost his job because he had no guarantor. That pause is where White Terror has not ended.
+하지만 1950~80년대에 태어난 타이완인의 가족사를 펼쳐 부모 세대의 페이지를 넘기다 보면, '보증(作保)'이라는 두 글자가 나타나며 문장이 멈칫하는 경우가 많다. 삼촌이 보증을 거부했다거나, 이웃이 보충 보증을 섰다거나, 외할아버지가 보증인을 구하지 못해 실직할 뻔했다는 이야기들 말이다. 그 멈춤이야, 바로 백색테러가 아직 끝나지 않은 지점이다.
 
-Chen Zhi-xiong was executed in Machangting in 1963. Gao Yi-sheng was executed in Taipei in 1954. Shi Shui-huan was executed in Taipei in 1956. Their families spent half a century before daring to publicly speak these names. Taiwan's transitional justice revoked 5,983 guilty verdicts, [^3] established memorial parks, and built memorial steles.
+천즈슝(陳智雄)은 1963년 마창정에서 총살되었다. 가오이성(高一生)은 1954년 타이베이에서 총살되었다. 스수이환(施水環)은 1956년 타이베이에서 총살되었다. 그들의 유가족은 반세기가 지나서야 비로소 이 이름들을 공개적으로 말할 용기를 얻었다. 타이완의 이행기 정의는 5,983건의 유죄 판결을 취소하고[^3], 기념 공원을 조성했으며, 기념비를 세웠다.
 
-But the descendants of the 5,000 university campus informants still live, work, and vote in Taiwan. What their fathers or grandfathers did is not required to be clarified by any decontamination law. [^6] The so-called "past" has never been publicly reconciled.
+하지만 그 5,000명에 달하는 대학 캠퍼스 시위대의 후손은 여전히 타이완에서 생활하고, 일하며, 투표한다. 그들의 아버지나 할아버지가 무엇을 했는지, 이를 깨끗이 씻어내라고 요구하는 법적 절차는 없다.[^6] 소위 말하는 '과거'는 단 한 번도 공개적으로 정산된 적이 없다.
 
-This is not hatred; it is a ledger. The day White Terror ends will not be the day martial law was lifted, nor the day the Transitional Justice Commission dissolved. It will be the day Taiwanese society is willing to admit: the system that turned two million families into a web of mutual surveillance, its traces are still carved into our anxiety towards neighbors, strangers, and the two words "guarantee."
+이것은 증오가 아니라 장부의 문제다. 백색테러가 끝나는 날은 계엄이 해제된 날도, 이행기 정의 위원회가 해산된 날도 아닐 것이다. 대신 타이완 사회가 다음과 같은 사실을 인정할 수 있게 되는 날이 바로 그날이다. 200만 가구를 서로 감시하는 망으로 만들어버린 그 제도의 흔적이, 여전히 이웃과 낯선 이, 그리고 '보증'이라는 두 글자를 대하는 우리의 불안 속에 새겨져 있다는 사실을 말이다.
 
-**Further Reading**:
+**연관 읽기**:
 
-- [Taiwan's Democratic Transition](/ko/history/taiwan-democratization) — The full picture of the forty-year transition from martial law to Asia's most free democratic system
-- [Martial Law Period](/ko/history/martial-law-era) — The legal container of 38 years and 56 days and the process of lifting martial law
-- [Taiwan's Transitional Justice](/ko/history/taiwan-transitional-justice) — The unfinished business of truth-seeking and holding perpetrators accountable after the lifting of martial law
-- [국가인권박물관](/ko/history/national-human-rights-museum) — 경미(景美)와 녹도(綠島) 두 백색공포 기념공원의 운영 기관, 6년 준비 끝에 개관하여 2025년 예산 동결 위기까지
-- [February 28 Incident](/ko/history/228-incident) — The prelude to White Terror: how the 1947 suppression foreshadowed the martial law regime
-- [Beautiful Island Incident](/ko/history/kaohsiung-incident-formosa-incident) — A key turning point in the late White Terror period in 1979
-- [Alishan: The Empire's Forest Plantation and Gao Yi-sheng's Mountain](/ko/history/alishan-empire-forest-and-uongu-yatauyungana) — The story of Gao Yi-sheng's mountain and the silenced ethnic group
-- [Yin Haiguang](/ko/people/yin-haiguang-liberalism-philosopher) — The National Taiwan University philosophy professor confined to No. 18 Wenzhou Street after the 1960 Lei Zhen case, the founder of Taiwan's liberalism
+- [타이완 민주주의 전환](/ko/history/taiwan-democratization) — 계엄부터 아시아에서 가장 자유로운 민주 체제로 거듭나기까지 40년 전환의 전모
+- [계엄 시기](/ko/history/martial-law-era) — 38년 56일간의 법적 틀과 계엄 해제 과정
+- [타이완 이행기 정의](/ko/history/taiwan-transitional-justice) — 계엄 해제 후 진상 조사와 가해자 추궁이라는 미완의 과업
+- [국립 인권 박물관](/ko/history/national-human-rights-museum) — 경미(景美)와 뤼다오(綠島) 두 백색테러 기념 공원을 운영하는 기관, 6년간의 준비부터 2025년 예산 동결까지
+- [2·28 사건](/ko/history/228-incident) — 백색테러의 전조, 1947년의 탄압이 어떻게 계엄 체제를 예고했는가
+- [메이리다오 사건](/ko/history/kaohsiung-incident-formosa-incident) — 1979년 백색테러 후기의 중요한 전환점
+- [알리산: 제국의 삼림과 가오이성의 산](/ko/history/alishan-empire-forest-and-uongu-yatauyungana) — 가오이성의 산과 소수 민족의 목소리가 지워진 이야기
+- [영수증: 1951년 전 국민을 세무 조사관으로 만든 종이 한 장](/ko/economy/taiwan-uniform-invoice) — 영수증 제도의 설계자 런<0xEC><0x85><0xB4><0xEC><0xB7><0xAC>(任顯群) 본인 또한 같은 시대를 살며, 1955년 '비밀을 알고도 보고하지 않았다'는 이유로 투옥되다. 혐의 하나가 치명적이었던 시대
+- [인하이광](/ko/people/yin-haiguang-liberalism-philosopher) — 1960년 레이전(雷震) 사건 이후 원저우제 18항에서 가택 연금되었던 타이완 대학교 철학과 교수, 타이완 자유주의의 개척자
 
 ## References
 

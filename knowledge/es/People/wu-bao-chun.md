@@ -2,9 +2,7 @@
 title: 'Wu Pao-chun: una promesa a un niño del pueblo Paiwan'
 description: 'Hijo de una familia rural en Pingtung, con educación secundaria y sin saber francés. Con un pan de lichi y rosa ganó la medalla de oro del primer campeonato mundial de maestros panaderos en París —dentro de ese pan llevaba una promesa hecha diez años antes a un niño indígena.'
 date: 2026-04-05
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '餐飲與職人'
 tags:
   [
     'gastronomía',
@@ -15,15 +13,17 @@ tags:
     'pan',
     'pueblos indígenas',
   ]
-readingTime: 7
+subcategory: '餐飲與職人'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
-featured: true
+readingTime: 7
 translatedFrom: 'People/吳寶春.md'
-sourceCommitSha: 'fb0101886'
-sourceContentHash: 'sha256:299e6ec6dab64e0a'
-sourceBodyHash: 'sha256:75c04d29af394ed6'
-translatedAt: '2026-06-12T00:53:04+08:00'
+sourceCommitSha: '09c1bf1a9'
+sourceContentHash: 'sha256:1b0b64c23c091c1f'
+sourceBodyHash: 'sha256:e355ad9581f498f8'
+translatedAt: '2026-07-28T00:07:34.243433+00:00'
 ---
 
 # Wu Pao-chun: una promesa a un pueblo del pueblo Paiwan
@@ -82,22 +82,22 @@ En 2016, la Universidad Nacional de Singapur (NUS) lo invitó a cursar un EMBA. 
 
 El 18 de junio de 2022, la «Academia de Panadería Wu Pao-chun» abrió sus puertas en la Universidad Kunshan de Ciencia y Tecnología, en Tainan, con Wu Pao-chun como decano y profesor honorario —la primera academia de panadería de este tipo en Taiwán, donde los estudiantes participan directamente en la producción y operación real de las tiendas durante su formación.[^7]
 
-## Lo que significaba aquella promesa
+## El significado de esa promesa
 
-Disney+ rodó un documental sobre él titulado _El mejor pan del mundo_. Su libro _La suavidad logra lo extraordinario_ sigue vendiéndose. En 2016, volvió a liderar al equipo taiwanés que obtuvo la medalla de plata en la Copa del Mundo de Panadería; en 2018, uno de sus alumnos, inspirado en la figura del _Guān Jiāng Shǒu_ (generales del inframundo en la tradición religiosa taiwanesa), continuó el legado del maestro y ganó un premio internacional.
+Disney+ produjo un documental sobre él titulado 《El mejor pan del mundo》. Su libro, 《La suavidad logra lo extraordinario》, se sigue vendiendo hasta hoy. En 2016, lideró al equipo de Taiwán para obtener nuevamente la medalla de plata en el Campeonato Mundial de Panadería; sus alumnos, inspirados por la danza «Guan Jiang Shou», continuaron su legado ganando premios internacionales en 2018.
 
-Pero al final hay que volver a aquel pan triangular. Sin hablar francés, con apenas estudios, criado en el campo, padre muerto joven, recursos casi nulos. Le dijo «puedo» a un niño Paiwan y, diez años después, llevó el vino de mijo de la aldea de aquel niño ante un jurado francés que declaró que era el mejor pan francés.
+Pero, al final, todo vuelve a ese pan triangular. No sabía francés, no tenía muchos títulos académicos, creció en el campo, perdió a su padre pronto y sus recursos eran casi nulos. Le dijo a un niño de la etnia Paiwan que era posible y, tras diez años de esfuerzo, utilizando el vino de mijo de la tierra natal de aquel niño, logró que los jueces franceses dijeran que era el mejor pan francés jamás probado.
 
-El resultado en sí mismo resulta casi inverosímil —y entonces miras con más atención y descubres que ese es precisamente el punto.
+Este resultado, por sí solo, parece no tener sentido; pero si lo observas con atención, te darás cuenta de que ahí reside lo verdaderamente importante.
 
 ---
 
-**Lecturas complementarias**:
+**Lecturas adicionales**:
 
-- [André Chiang](/es/people/andre-chiang-taiwanese-culinary-innovator) — De la Escuela Técnica de Comercio de Tamsui al puesto 14 del mundo: la historia de otro chef que conquistó el escenario internacional con sabores taiwaneses
-- [Mapa cultural de los 16 pueblos indígenas de Taiwán](/es/culture/indigenous-peoples-16-tribes-cultural-map) — El contexto cultural del vino de mijo Paiwan que inspiró el pan de lichi y rosa
-- [Cultura de los mercados nocturnos](/es/food/night-market-culture) — La base de la gastronomía popular taiwanesa: de dónde nace la estética de los ingredientes de Wu Pao-chun
-- [Huang Shanliao](/es/people/huang-shan-liao) — Otro taiwanés que ganó en un escenario mundial (la Semana de la Moda de Londres), pero tomó el camino opuesto: abandonó el oficio y convirtió «ser visto» en un superventas
+- [Andre Chiang](/es/people/andre-chiang-taiwanese-culinary-innovator) — Un artesano que, al igual que él, conquistó a los jueces franceses con ingredientes taiwaneses, pero que el año después de que su restaurante alcanzara el puesto 14 en el mundo, decidió retirarse voluntariamente de la escena.
+- [Mapa cultural de las 16 tribus indígenas de Taiwán](/es/culture/indigenous-peoples-16-tribes-cultural-map) — El contexto cultural del vino de mijo de la etnia Paiwan presente en el pan Litchi Rose.
+- [Cultura de los mercados nocturnos](/es/food/night-market-culture) — La base de la gastronomía popular de Taiwán; para entender de dónde surge la estética de los ingredientes de Wu Pao-chun.
+- [Huang Shan-liao](/es/people/huang-shan-liao) — Otro taiwanés que triunfó en el escenario mundial (Semana de la Moda de Londres), pero que tomó el camino opuesto: dejó el oficio para centrarse en el éxito de «ser visto».
 
 ## Referencias
 
