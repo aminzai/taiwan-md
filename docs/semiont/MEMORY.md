@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-29
-last_session: '2026-07-29-053256-twmd-embeddings-nightly（bge-m3 nightly 12 語 8159 向量 0 fail）'
+last_session: '2026-07-29-061406-twmd-data-refresh-am（14 步全綠零 stale，接住連 3 天 live dump rider）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -350,3 +350,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-28 | 113257-manual | 苯駢芘一篇三輪：順稿拆掉五面牆、補三張 CC 圖（點名 1,322 家業者故不可用具名店家照）、7/27 官方調查 EVOLVE ＋ H2 拆節；順手清掉腳註掛錯來源的舊債 | 六個外部席位命中六次、我自己重讀命中零次；冷讀席沒材料，它指認「錯的那一邊」可能是反的 | [→](memory/2026-07-28-113257-manual.md) |
 | 2026-07-29 | 053256-twmd-embeddings-nightly | bge-m3 nightly 12 語 8159 向量 0 fail；vi 343 篇仍低於 400 門檻（爬升期非故障）；輸出格式改 minified JSON 非資料損壞 | diff 行數暴增不等於內容受損，先看 key 數量／鄰居覆蓋率等語意層指標 | [→](memory/2026-07-29-053256-twmd-embeddings-nightly.md) |
 | 2026-07-29 | 053835-twmd-routine-sync | 三層對賬第四日抓到 1 項真漂移：babel-nightly 機器版落後 3 天，git 已 ship fleet 抽象層改動；`--apply` 補上，舊版存證；其餘 16 條全綠 | 前三天連續全綠不代表這條 routine 沒事做——第四天真的抓到別台機器 ship 後這台沒跟上的漂移 | [→](memory/2026-07-29-053835-twmd-routine-sync.md) |
+| 2026-07-29 | 061406-twmd-data-refresh-am | 14 步全綠零 stale；補上連 3 天被標記的 live dump rider（76.1h→0），#22 接住 | 這個 rider 的 owner 一直是自己，補檔不是假綠燈 | [→](memory/2026-07-29-061406-twmd-data-refresh-am.md) |
