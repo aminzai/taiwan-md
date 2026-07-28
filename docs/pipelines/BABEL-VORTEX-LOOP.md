@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.1)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.2)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.1'
+current_version: 'v1.2'
 last_updated: 2026-07-28
-last_session: '2026-07-28-vortex-fleet-abstraction'
+last_session: '2026-07-28-vortex-link-target-heal'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.1
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.2
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,5 +261,10 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.2（2026-07-28）：隔離樣本 17/17 個 `health [link-target]` 都是內部連結
+  category 大小寫漂移；把既有 `article-health --check=link-target --fix` 接進
+  dispatcher 三重 gate 前，機械格式不再浪費整篇譯文，hard gate 本身不放寬。
+- v1.1（2026-07-28）：M4 退出 Babel 批次；地端 worker 改由 fleet 控制面動態核發，
+  渦流固定面板同步為三軌。
 - v1.0（2026-07-27）：初版。收斂三天渦流的全部教訓：三重巡檢（存活≠生產五面貌）、
   優先序佇列＋repo 版控難篇記憶、模型×語言適配切軌、固定 benchmark 面板。

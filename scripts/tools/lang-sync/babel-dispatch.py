@@ -880,6 +880,23 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
                 f"{(hr.stdout + hr.stderr).strip()[:200]}")
         elif hr.stdout.strip():
             log(f"   🔧 passthrough heal: {hr.stdout.strip()[:150]}")
+
+        # 內部連結 category 大小寫是純機械格式，不應耗掉整篇翻譯。2026-07-28
+        # 隔離樣本覆盤：近一小時 17/17 個 link-target health fail 都是模型把
+        # `/people/`、`/history/` 等輸出成 `/People/`、`/History/`；既有
+        # article-health fixer 能保守修 casing／decode／高信心 fuzzy，但先前
+        # dispatcher 只把它當裁判、沒把已存在的修復接進熱路徑。
+        lr = subprocess.run(
+            ["python3", "scripts/tools/article-health.py", trans_path,
+             "--profile=pre-commit", "--check=link-target", "--fix", "--quiet"],
+            cwd=REPO, capture_output=True, text=True,
+        )
+        if lr.returncode != 0:
+            log(f"   🔴 link-target heal 失敗 rc={lr.returncode}: "
+                f"{(lr.stdout + lr.stderr).strip()[-300:]}")
+        elif lr.stdout.strip():
+            log(f"   🔧 link-target heal: {lr.stdout.strip()[-200:]}")
+
         ok, fail_reason = verify_one(zh_path, trans_path, log)
         if not ok:
             # 隔離前存證（2026-07-24）：失敗 blob 直接 unlink/restore 就沒有
