@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.3)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.4)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.3'
+current_version: 'v1.4'
 last_updated: 2026-07-28
-last_session: '2026-07-28-vortex-readonly-check'
+last_session: '2026-07-28-vortex-safe-footnote-heal'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.3
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.4
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,9 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.4（2026-07-28）：把 `footnote-format` 的 safe-only fixer 接進 dispatcher
+  gate 前。最新隔離樣本 8 個中完整救回 1 個、部分修復但仍被 gate 擋下 2 個、
+  不動 5 個；fixer 不碰 APA／多連結等有資訊損失風險的格式，品質門檻不放寬。
 - v1.3（2026-07-28）：修正 `restart-vortex.sh --check` 的語意漏洞。舊版雖在操作
   提示中宣稱它是巡檢入口，卻未解析該參數，實際會清場並重啟三軌；現在
   `--check` 是嚴格唯讀，列出 fleet 核發、dispatcher、lane log 與本機 M4

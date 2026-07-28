@@ -897,6 +897,22 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
         elif lr.stdout.strip():
             log(f"   🔧 link-target heal: {lr.stdout.strip()[-200:]}")
 
+        # 腳註格式也有一小塊能安全機械修復。2026-07-28 隔離樣本覆盤：
+        # 最新 8 個 footnote-format fail 中，safe-only fixer 完整救回 1 個，
+        # 另 2 個只修掉安全子集、仍由 hard gate 擋下；其餘 5 個完全不動。
+        # fixer 刻意不碰 APA／多連結等可能遺失資訊的格式，所以接進熱路徑
+        # 不會放寬 gate，只省掉「純缺 description」這類確定性重翻。
+        fr = subprocess.run(
+            ["python3", "scripts/tools/article-health.py", trans_path,
+             "--profile=pre-commit", "--check=footnote-format", "--fix", "--quiet"],
+            cwd=REPO, capture_output=True, text=True,
+        )
+        if fr.returncode != 0:
+            log(f"   🔴 footnote-format heal 失敗 rc={fr.returncode}: "
+                f"{(fr.stdout + fr.stderr).strip()[-300:]}")
+        elif fr.stdout.strip():
+            log(f"   🔧 footnote-format heal: {fr.stdout.strip()[-200:]}")
+
         ok, fail_reason = verify_one(zh_path, trans_path, log)
         if not ok:
             # 隔離前存證（2026-07-24）：失敗 blob 直接 unlink/restore 就沒有
