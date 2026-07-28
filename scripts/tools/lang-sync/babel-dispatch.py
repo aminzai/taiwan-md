@@ -311,7 +311,12 @@ def verify_one(zh_path: str, trans_path: str, log: Logger) -> tuple[bool, Option
         # 追 health 失敗就撞上同樣的死路（檔案已 HEAD-restore、log 只寫
         # 「health」，無從得知敗在哪個檢查）——同型病要 grep 全部分支，
         # 這是本檔 §儀器化的第五次驗證。
-        hnames = re.findall(r"❌\s+([a-z0-9][a-z0-9 _-]{2,40}?)\s+hard=[1-9]", r3.stdout)
+        # article-health.py renders hard failures with 🔴. Keep ❌ accepted for
+        # compatibility with older output captured in long-running workers.
+        hnames = re.findall(
+            r"(?:🔴|❌)\s+([a-z0-9][a-z0-9 _-]{2,40}?)\s+hard=[1-9]",
+            r3.stdout,
+        )
         reason = "health" + (f" [{', '.join(hnames[:4])}]" if hnames else "")
     elif leak_fail:
         reason = "leak"
