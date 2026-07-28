@@ -217,7 +217,14 @@ def main():
         hits = scan_file(p)
         if hits:
             flagged += 1
-            print(f"\n❌ {p.relative_to(REPO)}")
+            # 隔離樣本住 /tmp/babel-*/quarantine，不在 repo 裡；CLI 既然接受
+            # 任意 positional path，就不能在「真的有 leak、準備印檔名」時才
+            # 因 relative_to(REPO) 崩潰。repo 內維持短路徑，外部樣本顯示絕對路徑。
+            try:
+                display_path = p.relative_to(REPO)
+            except ValueError:
+                display_path = p
+            print(f"\n❌ {display_path}")
             for h in hits:
                 print(f"   - {h}")
 

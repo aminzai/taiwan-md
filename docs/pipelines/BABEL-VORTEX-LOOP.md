@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.14)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.15)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.14'
+current_version: 'v1.15'
 last_updated: 2026-07-29
-last_session: '2026-07-29-vortex-unavailable-backend'
+last_session: '2026-07-29-vortex-quarantine-leak-audit'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.14
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.15
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,11 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.15（2026-07-29）：修正隔離樣本 leak 覆盤的路徑崩潰。
+  `cjk-leak-check.py` 的 CLI 接受任意 positional path，但有命中時固定呼叫
+  `p.relative_to(REPO)`；傳入 `/tmp/babel-*/quarantine/*.md` 會在印第一筆
+  結果前直接 `ValueError`，讓最需要檢驗的隔離樣本反而不可分析。現在 repo
+  內仍顯示相對路徑，repo 外顯示絕對路徑；掃描與 leak 判準完全未改。
 - v1.14（2026-07-29）：停止對明確不可用的同一端點做 structured fallback。
   v1.13 修正產物歸因後，4090 瞬斷會正確顯示 `Available: []` 並走 structured；
   但 structured 仍使用同一個不可達 endpoint，本輪 18 次失敗全都在首段約
