@@ -50,21 +50,25 @@ start() {   # start <logname> <描述> <args...>
 
 echo "▸ 起跑（全軍 forward 由新到舊；排序鍵：失敗沉底→新鮮窗→缺頁先於過期→編輯時間）"
 
-# 雙 GPU 歐日韓軌：gemma4 與 qwen3:32b 在日韓西法都有 43-59%，共軌互相補位
+# 雙 GPU 歐語軌：2026-07-28 preflight 近兩日實績顯示 d3090×ja=0%、
+# d3090×ko=14%、l4090×ja=10%。弱適配不靠重試，先把日韓切出這條軌；
+# en/es/fr 仍由兩台互相補位，保留節點級容錯。
 if [ "${1:-}" = "--stale-only" ]; then
-  start babel-stale-gpu.log "雙 GPU 五語 stale 專軌" --langs en,ja,ko,es,fr --priority p1 \
+  start babel-stale-gpu.log "雙 GPU 三語 stale 專軌" --langs en,es,fr --priority p1 \
     --worker "l4090=ollama:gemma4:26b@$L4090" --worker "d3090=ollama:qwen3:32b@$D3090"
 else
-  start babel-gpu-euro.log "雙 GPU 歐日韓軌" --langs en,ja,ko,es,fr \
+  start babel-gpu-euro.log "雙 GPU 歐語軌" --langs en,es,fr \
     --worker "l4090=ollama:gemma4:26b@$L4090" --worker "d3090=ollama:qwen3:32b@$D3090"
 fi
 
-# 本機 qwen3.6 是最平均的模型（無明顯短板），吃九語
-start babel-mac-all.log "本機 qwen3.6 九語軌" --langs ja,ko,es,fr,id,pt,hi,ar,ru \
+# 本機 qwen3.6 改吃六語；近兩日 mac×ja/ar=0%、mac×ru=10%，三語切到
+# nemotron 雲端軌，避免同一弱適配再燒一次完整翻譯成本。
+start babel-mac-all.log "本機 qwen3.6 六語軌" --langs ko,es,fr,id,pt,hi \
   --worker "mac=ollama:qwen3.6:35b-a3b-coding-nvfp4@$MAC"
 
-# nemotron 在葡俄阿印尼印地 42-60%，但翻越南語只有 2-6%——所以 vi 不進這軌
-start babel-cloud.log "雲端 nemotron×4（五語）" --langs id,pt,hi,ar,ru \
+# nemotron 在葡俄阿印尼印地 42-60%，但翻越南語只有 2-6%——所以 vi 不進這軌。
+# ja 暫移入此軌做實績驗收；若 n≥8 仍低於 15%，下一輪再切換模型。
+start babel-cloud.log "雲端 nemotron×4（六語）" --langs ja,id,pt,hi,ar,ru \
   --worker "nemo=openrouter:nvidia/nemotron-3-ultra-550b-a55b:free" \
   --worker "nemo2=openrouter:nvidia/nemotron-3-ultra-550b-a55b:free" \
   --worker "nemo3=openrouter:nvidia/nemotron-3-ultra-550b-a55b:free" \
