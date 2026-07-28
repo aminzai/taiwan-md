@@ -794,6 +794,19 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
     # 寫報表觸發 UnboundLocalError，整個 dispatcher（而非單篇）被殺掉。
     structured_fallback = False
     structured_fallback_exit = None
+    target = REPO / trans_path
+    # 「路徑存在」不能代表本次 backend 有落檔：stale 任務天生就有舊譯文。
+    # 先留執行前 bytes，後面只把新增或真正改動過的 target 算成本次產物。
+    # 2026-07-29 4090 endpoint 瞬斷時 translate.py calls=0 / exit=1，舊邏輯
+    # 卻拿原本的 stale 檔跑 gate，40 次連線失敗被誤記成 verify=4。
+    target_before = target.read_bytes() if target.exists() else None
+
+    def target_changed() -> bool:
+        if not target.exists():
+            return False
+        if target_before is None:
+            return target.stat().st_size > 0
+        return target.read_bytes() != target_before
 
     # 語意無關 stale 零成本 bump（2026-07-27，見上方 try_semantic_noop_bump 註解 +
     # reports/semantic-noop-stale-2026-07-27.md）：在章節級 diff-patch 之前先問一句
@@ -882,7 +895,6 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
     tail = (proc.stdout + ("\n" + proc.stderr if proc.returncode != 0 else ""))
     log(tail[-3000:])
 
-    target = REPO / trans_path
     # 第一條路徑完全沒落檔時，改用「工具持有 Markdown 結構、模型只翻文字」
     # 的 structured engine 救一次。2026-07-28 近一小時 40 個失敗中有 10 個
     # 是 no-output；它們混合 patch abort、截斷、腳註流失等成因，繼續重試
@@ -891,7 +903,8 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
     #
     # 只在「沒有任何產物」時啟用；已有輸出但 gate fail 的條件式 fallback
     # 留待這一小步有實績後再擴，避免一次改兩個變因。
-    if not target.exists() and engine != "structured":
+    if (not target_changed() and engine != "structured"
+            and engine_label != "patch"):
         structured_fallback = True
         scmd = [
             "python3", "-u", "scripts/tools/lang-sync/structured-translate.py",
@@ -911,7 +924,7 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
         engine_label = f"{engine_label}→structured"
 
     # AFTER fallback, BEFORE any restore — worker-health signal.
-    produced_by_backend = target.exists() and target.stat().st_size > 0
+    produced_by_backend = target_changed()
 
     # patch-translate exit=1 means it attempted the changed chapters but its
     # own verify trio rejected the assembled candidate, then restored the
@@ -927,7 +940,7 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
         disposition = restore_head_or_quarantine(trans_path, log)
         ok = False
         fail_reason = "patch candidate rejected by verify trio (exit=1)"
-    elif not target.exists():
+    elif not produced_by_backend:
         disposition = restore_head_or_quarantine(trans_path, log)
         ok, fail_reason = False, f"no output written by translate.py (exit={proc.returncode})"
     else:

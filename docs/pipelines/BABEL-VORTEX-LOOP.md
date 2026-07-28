@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.12)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.13)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.12'
+current_version: 'v1.13'
 last_updated: 2026-07-29
-last_session: '2026-07-29-vortex-photo-credit-attribution'
+last_session: '2026-07-29-vortex-output-provenance'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.12
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.13
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,16 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.13（2026-07-29）：修正全文引擎的產物歸因。stale 任務本來就有舊譯文，
+  4090 endpoint 瞬斷時 `translate.py` 顯示 `Available: []`、模型呼叫 0 次、
+  exit=1，dispatcher 卻只用「target 路徑存在」判定本次有產物，再拿舊檔跑
+  gate；一小時內 40 次連線失敗因此冒充 `verify=4`，structured fallback
+  也完全沒觸發。現在保存執行前 bytes，只有新增或內容真正改變才算 backend
+  產物；全文零產物會換 structured 路徑，仍零產物則記 no-output 並進 worker
+  freeze 計數，不再檢驗或隔離舊的 stale 基線。patch exit=1 仍維持 v1.11
+  的直接歸因，不改成全文 fallback。同輪把受管重啟的清場從不完整的廣域
+  `pkill` 改為沿 dispatcher process tree 遞迴終止；patch／structured 子代
+  不再於父程序退出後被 PID 1 收養、跨輪繼續寫工作樹。
 - v1.12（2026-07-29）：新增狹義攝影者中文署名豁免。pt 李宗盛／羅大佑
   隔離樣本的 4 個 CJK 命中全是 Wikimedia 授權鏈中的
   `Foto: 化城再来人`；作者名不可刪除或為通過 gate 而改寫。checker 現只

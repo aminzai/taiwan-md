@@ -73,10 +73,24 @@ if [ "${1:-}" = "--check" ]; then
 fi
 
 # ── 殘留清理（重啟前必做，避免雙份產線互撞）──
-if pgrep -f "babel-dispatch" >/dev/null 2>&1; then
+# 只沿受管 dispatcher 的 process tree 往下清，不用廣域 pkill。舊版先殺
+# dispatcher、再補殺 translate.py --group，會漏掉 patch-translate.py 與
+# structured-translate.py；父程序消失後它們被 PID 1 收養，仍繼續寫工作樹。
+kill_tree() {
+  local parent="$1"
+  local child
+  for child in $(pgrep -P "$parent" 2>/dev/null); do
+    kill_tree "$child"
+  done
+  kill -TERM "$parent" 2>/dev/null || true
+}
+
+dispatcher_pids=$(pgrep -f "[s]cripts/tools/lang-sync/babel-dispatch.py" 2>/dev/null || true)
+if [ -n "$dispatcher_pids" ]; then
   echo "▸ 清理殘留產線"
-  pkill -f "babel-dispatch" 2>/dev/null
-  pkill -f "translate.py --group" 2>/dev/null
+  for pid in $dispatcher_pids; do
+    kill_tree "$pid"
+  done
   sleep 3
 fi
 
