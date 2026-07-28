@@ -4,26 +4,27 @@ description: 'Cada represión genera más opositores. Desde el 28‑2 hasta el m
 date: 2026-03-24
 category: 'History'
 tags:
-  - 'democracia'
-  - 'justicia transicional'
-  - 'historia política'
-  - 'derechos humanos'
-  - 'movimientos sociales'
+  [
+    'democracia',
+    'justicia transicional',
+    'historia política',
+    'derechos humanos',
+    'movimientos sociales',
+  ]
 subcategory: '民主與治理'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-04-07
 lastHumanReview: true
 sporeLinks:
-  - id: 10
-    platform: 'threads'
-    date: '2026-04-07'
-    url: 'https://www.threads.com/@taiwandotmd/post/DW1ba_tEz5D'
+  [
+    "{'id': 10, 'platform': 'threads', 'date': '2026-04-07', 'url': 'https://www.threads.com/@taiwandotmd/post/DW1ba_tEz5D'}",
+  ]
 translatedFrom: 'History/台灣民主轉型.md'
-sourceCommitSha: 'dd39065b'
-sourceContentHash: 'sha256:85252455c0ed43e6'
-sourceBodyHash: 'sha256:5c7fc1f11ad28097'
-translatedAt: '2026-06-10T16:45:00+00:00'
+sourceCommitSha: 'dbaf28954'
+sourceContentHash: 'sha256:a9330a2eb23d9c97'
+sourceBodyHash: 'sha256:20dd14ee57321b53'
+translatedAt: '2026-07-28T20:05:24.813717+00:00'
 ---
 
 # Transformación democrática de Taiwán — La tumba que la autoridad excavó para sí misma

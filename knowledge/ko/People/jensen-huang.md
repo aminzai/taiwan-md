@@ -2,19 +2,20 @@
 title: '황런쉰'
 description: '켄터키 기숙학교에서 5조 달러 제국까지 - 화장실을 청소하던 타이난 소년은 어떻게 10년 뒤에야 도래할 미래에 베팅했는가'
 date: 2026-03-25
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '科技與企業'
 tags: ['인물', '황런쉰', 'NVIDIA', 'AI', '반도체', '기술', '타이난', 'GPU']
+subcategory: '科技與企業'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-22
 lastHumanReview: false
-featured: true
-translatedFrom: 'People/黃仁勳.md'
-sourceCommitSha: '7852e7f7'
-sourceContentHash: 'sha256:fefdcc28d82e9ce0'
-sourceBodyHash: 'sha256:8e44f1173a86a8b9'
-translatedAt: '2026-06-28T00:40:19+08:00'
+researchReport: 'reports/research/2026-06/黃仁勳-evolve.md'
 image: '/article-images/technology/computex-jensen-huang-2016.webp'
+translatedFrom: 'People/黃仁勳.md'
+sourceCommitSha: '09c1bf1a9'
+sourceContentHash: 'sha256:e9178b000513a553'
+sourceBodyHash: 'sha256:0447f104316070ca'
+translatedAt: '2026-07-28T20:06:37.394804+00:00'
 ---
 
 # 황런쉰(Jensen Huang)

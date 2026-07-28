@@ -4,13 +4,15 @@ description: 'A rural kid from Pingtung with only a junior high education and no
 date: 2026-04-05
 category: 'People'
 tags:
-  - 'catering'
-  - 'baking'
-  - 'artisan spirit'
-  - 'world champion'
-  - 'Pingtung'
-  - 'bread'
-  - 'indigenous peoples'
+  [
+    'catering',
+    'baking',
+    'artisan spirit',
+    'world champion',
+    'Pingtung',
+    'bread',
+    'indigenous peoples',
+  ]
 subcategory: '餐飲與職人'
 author: 'Taiwan.md'
 featured: true
@@ -18,10 +20,10 @@ lastVerified: 2026-04-05
 lastHumanReview: false
 readingTime: 7
 translatedFrom: 'People/吳寶春.md'
-sourceCommitSha: 'fb0101886'
-sourceContentHash: 'sha256:299e6ec6dab64e0a'
-sourceBodyHash: 'sha256:75c04d29af394ed6'
-translatedAt: '2026-06-12T00:52:58+08:00'
+sourceCommitSha: '09c1bf1a9'
+sourceContentHash: 'sha256:1b0b64c23c091c1f'
+sourceBodyHash: 'sha256:e355ad9581f498f8'
+translatedAt: '2026-07-28T20:03:04.776132+00:00'
 ---
 
 # Wu Pao-chun: A Promise to a Paiwan Child

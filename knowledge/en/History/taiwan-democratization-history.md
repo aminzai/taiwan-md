@@ -1,6 +1,8 @@
 ---
 title: 'Democratization'
+description: "On March 18, 1980, in a Kaohsiung military courtroom, Shih Ming-teh discarded his sixty-thousand-word defense statement and instead demanded the judge sentence him to death. In the same trial, the young lawyers defending the accused — Chen Shui-bian, Frank Hsieh, Su Tseng-chang — all became presidents or premiers within twenty years. A show trial intended to make an example ended up accidentally producing Taiwan's next generation of political leaders."
 date: 2026-03-27
+category: 'History'
 tags:
   [
     'history',
@@ -10,17 +12,15 @@ tags:
     'Wild Lily Student Movement',
   ]
 subcategory: '戰後與威權'
-description: "On March 18, 1980, in a Kaohsiung military courtroom, Shih Ming-teh discarded his sixty-thousand-word defense statement and instead demanded the judge sentence him to death. In the same trial, the young lawyers defending the accused — Chen Shui-bian, Frank Hsieh, Su Tseng-chang — all became presidents or premiers within twenty years. A show trial intended to make an example ended up accidentally producing Taiwan's next generation of political leaders."
-category: 'History'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-27
 lastHumanReview: false
 translatedFrom: 'History/民主化.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:5c4c48886e261a1e'
-sourceBodyHash: 'sha256:1ac64c77bbabb1d3'
-translatedAt: '2026-05-29T00:35:00+08:00'
+sourceCommitSha: 'dbaf28954'
+sourceContentHash: 'sha256:0f572861e1f79f7d'
+sourceBodyHash: 'sha256:b51e57f04bd06fc2'
+translatedAt: '2026-07-28T19:54:39.441606+00:00'
 ---
 
 # Democratization

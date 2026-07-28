@@ -2,9 +2,7 @@
 title: "Taiwan's Convenience Store Culture"
 description: "A convenience-store kingdom with one of the world's highest densities, where 7-Eleven and FamilyMart's localized innovations have redefined modern lifestyles"
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'Lifestyle'
-subcategory: '城市生活'
 tags:
   [
     'Life',
@@ -15,15 +13,17 @@ tags:
     'Convenience Store Culture',
     'Modern Life',
   ]
-readingTime: 7
+subcategory: '城市生活'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
+readingTime: 7
 translatedFrom: 'Lifestyle/台灣便利商店文化.md'
-sourceCommitSha: '50617dc1'
-sourceContentHash: 'sha256:270d23d188160eb0'
-sourceBodyHash: 'sha256:3cc86e403e9f38f1'
-translatedAt: '2026-07-13T16:30:00Z'
+sourceCommitSha: 'd520299ba'
+sourceContentHash: 'sha256:15b1d886569defdd'
+sourceBodyHash: 'sha256:5c3b9cff7c172cb0'
+translatedAt: '2026-07-28T19:58:03.041679+00:00'
 ---
 
 # Taiwan's Convenience Store Culture

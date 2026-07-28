@@ -2,9 +2,7 @@
 title: 'Artesanía tradicional y patrimonio cultural inmaterial de Taiwán: llegó el reconocimiento institucional, pero ya no quedaban aprendices'
 description: 'En diciembre de 2022, el Ministerio de Cultura declaró “Tesoro Nacional Viviente” a Su Qingliang, maestro albañil de Kaohsiung de 87 años; murió medio año después. Taiwán recién incorporó en 2005 a los “conservadores de técnicas tradicionales importantes” en la Ley de Preservación del Patrimonio Cultural: 50 años después que Japón y 43 años después que Corea del Sur. Cuando por fin el sistema quedó establecido, el aprendizaje maestro-aprendiz ya se había derrumbado durante la industrialización de las décadas de 1970 y 1980: entre más de 600 maestros artesanos tradicionales, los menores de 50 años “son apenas una minoría”. Cuanto más larga es la lista, menos gente queda para enseñar.'
 date: 2026-05-15
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '傳統工藝'
 tags:
   [
     'artesanía tradicional',
@@ -18,19 +16,21 @@ tags:
     'Wang Qingshuang',
     'Ley de Preservación del Patrimonio Cultural',
   ]
-readingTime: 14
+subcategory: '傳統工藝'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-15
 lastHumanReview: false
-featured: false
-translatedFrom: 'Culture/台灣傳統工藝與無形文化資產.md'
-sourceCommitSha: '51eb3afd'
-sourceContentHash: 'sha256:b7c990c00c65ffb1'
-sourceBodyHash: 'sha256:7720c8db697d0d57'
-translatedAt: '2026-07-06'
 image: '/article-images/culture/meinong-paper-umbrella-2013.webp'
 imageCredit: 'Outlookxp'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG'
+readingTime: 14
+translatedFrom: 'Culture/台灣傳統工藝與無形文化資產.md'
+sourceCommitSha: '12cf33d8c'
+sourceContentHash: 'sha256:0e116841e98362b0'
+sourceBodyHash: 'sha256:8d311f99ab1ace9b'
+translatedAt: '2026-07-28T20:02:39.516253+00:00'
 ---
 
 # Artesanía tradicional y patrimonio cultural inmaterial de Taiwán: llegó el reconocimiento institucional, pero ya no quedaban aprendices

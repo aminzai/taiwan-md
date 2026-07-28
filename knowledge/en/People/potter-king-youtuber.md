@@ -1,12 +1,8 @@
 ---
-translatedFrom: 'People/波特王.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:f007d55cb9bbfd03'
-sourceBodyHash: 'sha256:08c56227ca69228f'
-translatedAt: '2026-05-01T12:21:52+08:00'
 title: "Potter King — From 'Pickup Lines' Entertainment to 'Pink Spy' Hunter: A Digital Sovereignty Gambler Caught Between Law and Principle"
 description: "The career arc of Potter King (Chen Jia-Jin) documents a Taiwanese creator's transformation from harvester of cross-strait commercial profits to defender of digital sovereignty, while simultaneously exposing the legal, property rights, and financial complexities of a creator's long entanglement with a capital system."
-summary: "Taiwanese internet creator. Born 1990 in Kaohsiung, raised by grandparents. Early fame through 'pickup line' content; 2019 refusal of Chinese MCN's censorship of the word 'president' triggered a cross-strait uncoupling. From 2022 onward, a years-long legal battle with his former agency; a 2026 second-instance ruling produced a dramatic financial reversal, exposing gray zones in influencer contract revenue-sharing. He is the 'Pink Spy Report' observer who deconstructs cognitive warfare, and Taiwan's first creator to make 'refusing to digitally kneel' a brand label."
+date: 2026-04-20
+category: 'People'
 tags:
   [
     'Potter King',
@@ -15,13 +11,18 @@ tags:
     'influencer intellectual property',
     'legal battle',
   ]
-category: 'People'
-coverImage: ''
-lastHumanReview: true
+subcategory: '數位與媒體'
 author: 'Taiwan.md'
-date: 2026-04-20
 featured: false
 lastVerified: 2026-01-01
+lastHumanReview: true
+summary: '台灣網路創作者。1990 年生於高雄，隔代教養背景。早期以「撩妹語錄」走紅，2019 年因拒絕中資經紀公司審查「總統」稱謂而觸發兩岸脫鉤。2022 年起與前東家爆發長達數年的法律戰，2026 年二審判決出現財務逆轉，揭露了網紅合約分潤的灰色地帶。他是解構認知作戰的「粉紅特報」觀察者，也是台灣首位將「拒絕數位跪下」標籤化的指標人物。'
+coverImage: ''
+translatedFrom: 'People/波特王.md'
+sourceCommitSha: '5edf34bcb'
+sourceContentHash: 'sha256:f218c0f6edac6f55'
+sourceBodyHash: 'sha256:bd885df97c7fe1fa'
+translatedAt: '2026-07-28T19:58:41.899860+00:00'
 ---
 
 ## 30-Second Overview

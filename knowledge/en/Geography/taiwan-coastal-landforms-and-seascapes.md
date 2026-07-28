@@ -1,257 +1,127 @@
 ---
-title: "Taiwan's Coastal Landscapes and Marine Geology"
-description: "A 1,566-kilometer geological epic written by tectonic collision - from vertical cliffs to coral kingdoms, Taiwan's coastline is Earth's youngest geology textbook"
+title: "Taiwan's Coastal Topography and Marine Landscapes"
+description: "Few places on Earth allow you to start from a peak nearly 4,000 meters high and descend into a 7,500-meter deep trench in less than 150 kilometers. Taiwan does. This island's coastline is a slow-motion collision site—breathtakingly beautiful."
 date: 2026-03-24
+category: 'Geography'
 tags:
   [
-    'coastal geomorphology',
-    'marine landscapes',
-    'plate tectonics',
-    'geological processes',
-    'natural scenery',
+    'Coastal Topography',
+    'Marine Landscapes',
+    'Plate Tectonics',
+    'Geological Processes',
+    'Natural Scenery',
   ]
-category: 'Geography'
+subcategory: '地形與地質'
 author: 'Taiwan.md'
-difficulty: 'intermediate'
-readingTime: 10
 featured: true
 lastVerified: 2026-03-24
 lastHumanReview: true
+difficulty: 'intermediate'
+readingTime: 10
 translatedFrom: 'Geography/台灣海岸地形與海洋地景.md'
-sourceCommitSha: 'd6e87d07'
-sourceContentHash: 'sha256:8973e8b56e7201bf'
-sourceBodyHash: 'sha256:a8f819c22dc292c1'
-translatedAt: '2026-05-16T22:19:17Z'
+sourceCommitSha: 'e14a15296'
+sourceContentHash: 'sha256:9ce361db9a5c3b1a'
+sourceBodyHash: 'sha256:39bde765a3b7a746'
+translatedAt: '2026-07-29T03:36:21+08:00'
 ---
 
-# Taiwan's Coastal Landscapes and Marine Geology
+> **30-Second Overview:** From the summit of Yushan (3,952 meters) to the Ryukyu Trench in the eastern offshore waters (-7,507 meters), there is a vertical drop of over 11,000 meters across a horizontal distance of less than 150 kilometers. This figure makes Taiwan one of the islands with the steepest topographical gradients in the world—more "condensed" than jumping from the summit of Mount Everest into the Mariana Trench. And all of this took only 5 million years.
 
-> **30-second overview:** 4-5 million years ago, the violent collision between the Philippine Sea Plate and Eurasian Plate sculpted Taiwan's diverse 1,566-kilometer coastline. From eastern cliffs dropping 800 meters to the sea, southern coral paradises, to western lagoon wetlands, four distinct coastal types record the ongoing dialogue between this island and the ocean. With 15,000-18,000 earthquakes annually, this living geological epic continues to reshape itself.
+## A Slow-Motion Collision: 5 Million Years, and Not Yet Finished
 
-## Earth's Youngest Geology Textbook
+In April 2023, the Yehliu Geopark released a sobering figure: the "neck" of Queen's Head is now only 120 centimeters wide.
 
-In 1544, Portuguese sailors glimpsed Taiwan from the sea and exclaimed "Ilha Formosa" (Beautiful Island). They couldn't have known that the graceful coastline before them was one of Earth's youngest and most dramatic masterpieces of plate tectonics.
+Fifteen years ago, its circumference was still 143 centimeters. Shrinking by 1 to 2 centimeters every year, at this rate, this 15-million-year-old geological queen can stand for about five more years. A team from National Yang Ming Chiao Tung University is developing "natural sandstone reinforcement technology" in an attempt to extend its life, but all geologists know the truth: you cannot stop the breathing of an island.
 
-Taiwan's coastal formation is, in geological terms, almost "yesterday's news" — 4-5 million years ago, when the Philippine Sea Plate began ramming into the Eurasian Plate at about 7 centimeters per year, this slow-motion collision began. The energy from this impact raised Yushan and carved Taiwan's 1,566-kilometer coastline.
+📝 **Curatorial Perspective:** The most captivating thing about Taiwan's coast isn't its beauty; it is its "liveliness." This is not a static postcard; it is a documentary currently being filmed. With 15,000 to 18,000 earthquakes annually, a crustal uplift of 5 to 7 millimeters per year, and weathering and erosion of 1 to 2 centimeters per year: this island is simultaneously growing taller and being worn down.
 
-📝 **Curator's perspective:** Standing before Qingshui Cliffs, you're witnessing more than scenery — you're at the active collision site of two continents. This kind of ongoing plate convergence is extremely rare globally.
+The story of Queen's Head is, in fact, the story of the entire coastline: **Taiwan's coast is simultaneously being born and disappearing.**
 
-Even more remarkable, this geological theater continues today. Taiwan experiences 15,000-18,000 earthquakes annually, with 800-1,000 felt by people — all reminding us that this coastline lives and grows still.
+## A Vertical Drop of 11,459 Meters: The World's Most Crowded Geological Theater
 
-## Four Coasts, Four Personalities
+Let us look at Taiwan's coast from a different perspective.
 
-### Northern Coast: The Headland Dance (100 km)
+Yushan stands at 3,952 meters, the highest peak in Northeast Asia. Less than 150 kilometers to its east, the Ryukyu Trench reaches depths of 7,507 meters. From the summit to the seabed, there is a vertical drop of 11,459 meters.
 
-From Sandiaojiao to the Tamsui River mouth, the northern coast serves as a natural geology classroom. The rocks here formed 20-15 million years ago, experiencing folding, faulting, and marine erosion.
+What does this mean? If you placed Mount Everest (8,849 meters) into this range, it would only fill 77% of the space. While the base of Mount Everest spans over 400 kilometers, Taiwan packs a greater vertical volume into less than half that horizontal distance.
 
-**Yehliu's Rock Codes**  
-Yehliu's "Queen's Head" isn't natural sculpture, but 15-million-year-old seabed sandstone that underwent "selective destruction" by marine erosion after crustal uplift. The hard sandstone neck resists erosion while surrounding softer rocks are hollowed out, creating today's mushroom rocks.
-
-Geologists estimate the Queen's Head "neck" narrows 2-3 centimeters yearly. With its current neck diameter of about 138 centimeters, this geological "queen" can "stand" for perhaps another 30-40 years.
-
-### Eastern Coast: Fault Scarps (400 km)
-
-Taiwan's eastern coast represents the most intense geological activity. Here, mountains rise directly from the seabed, creating globally rare "mountain-meets-sea" landscapes.
-
-**Qingshui Cliffs: 800 Vertical Meters**  
-Qingshui Cliffs consist of marble formed 250 million years ago (Permian period) — originally seabed limestone transformed under high temperature and pressure. Nearly 5 million years of tectonic movement lifted this ancient seafloor nearly 1,000 meters high, then cut it into near-vertical cliff faces by faulting.
-
-Standing on the Suhua Highway overlooking the Pacific, every marble block underfoot once comprised remains of ancient marine life. This "past-and-present" contrast makes Qingshui Cliffs Taiwan's most stunning geological spectacle.
-
-**Shitiping: Coral Reef Time Capsule**  
-Shitiping's stepped terrain records 200,000 years of sea level changes. Each "step" represents coral reefs from different periods, lifted above sea level by crustal uplift. The highest coral terraces date to about 120,000 years ago, from the last interglacial maximum.
-
-### Western Coast: Mother of Plains (500 km)
-
-Taiwan's western coast forms the island's "granary" and most populated zone. Though seemingly plain, these landforms carry the foundation of Taiwan's agricultural civilization.
-
-**Zhuoshui River's Sandy Empire**  
-The Zhuoshui River, Taiwan's longest at 186 kilometers, carries about 40 million tons of sediment to sea annually. These deposits from the Central Mountain Range have, over millions of years, filled the western Taiwan Strait, creating Changhua and Yunlin's alluvial plains.
-
-However, upstream sand-trapping dams built over 50 years have reduced coastal sand supply, causing Yunlin's coastline to retreat 10-15 meters annually — Taiwan's most severe coastal erosion.
-
-> **Statistics Snapshot: Taiwan River Sediment Transport**
+> **Data Box: Taiwan's "Extreme Topographic Density"**
 >
-> - Zhuoshui River: 40 million tons/year (40% of Taiwan total)
-> - Kaoping River: 12 million tons/year
-> - Zengwen River: 8 million tons/year
-> - Dajia River: 5 million tons/year
->   (Source: Water Resources Agency, Ministry of Economic Affairs, 2023)
+> - 🏔️ Highest Point: Yushan 3,952 meters
+> - 🌊 Deepest Point: Ryukyu Trench -7,507 meters
+> - 📏 Horizontal Distance: < 150 km
+> - 📐 Vertical Drop: 11,459 meters
+> - ⏱️ Formation Time: Approx. 5 million years
+> - 🔄 Current Uplift Rate: 5-7 mm per year
+> - 🔄 Erosion Rate: Approx. 5.3 mm per year
+>   (Sources: Yushan National Park Administration Office, Britannica, Central Geological Survey)
 
-**Qigu Lagoon: Taiwan's Largest Saltwater Lake**  
-Qigu Lagoon covers 1,600 hectares as Taiwan's largest lagoon system. This natural saltwater lake formed through Zengwen River channel changes and longshore drift deposition, stabilizing about 300 years ago.
+Five million years ago, the Philippine Sea Plate collided with the Eurasian Plate at a rate of 7 to 8 centimeters per year. This collision has not stopped. Taiwan is not a relic "hit" by plates; it is **currently** the site of the collision. The limestone of the Qingshui Cliff was formed 250 million years ago, lying quietly in the deep sea. Five million years of pressure pushed it up nearly a thousand meters, and then a fault line sliced through it like a knife, creating a precipice with a vertical drop of 800 meters.
 
-The lagoon's salinity varies seasonally (15-35‰), nurturing unique brackish ecosystems that serve as critical habitat for migratory birds like black-faced spoonbills. Each winter, 2,000-3,000 black-faced spoonbills overwinter here — over 60% of the global population.
+Looking down from the Suhua Highway, every piece of white rock beneath your feet was once the remains of marine organisms.
 
-### Southern Coast: Coral Kingdom (150 km)
+## Four Coasts, Four Personalities of One Island
 
-Southern Taiwan hosts the island's only tropical coral reef coastline, with year-round temperatures of 22-29°C providing ideal coral growth conditions.
+Because the angle and intensity of this collision are uneven, Taiwan's four coasts have developed distinctly different "personalities."
 
-**Kenting's Coral Time Machine**  
-Kenting's coral reefs exist in two layers: underwater "modern coral reefs" and terrestrial "elevated coral reefs." The elevated reefs formed 120,000 years ago during the last interglacial, when sea levels stood about 6 meters higher than today, covering Hengchun Peninsula's southern tip.
+### East Coast: Violent
 
-Crustal uplift raised these ancient reefs over 200 meters above sea level, forming Kenting's flat plateau topography. Walking Kenting's streets, the white rocks underfoot are 120,000-year-old coral remains.
+The east is the front of the collision: mountains rise directly from the seabed. The 21-kilometer continuous cliff of Qingshui Cliff is a rare "sea cliff" landscape globally. There are no beaches, no buffers—only the direct confrontation between rock and the Pacific Ocean.
 
-📝 **Curator's perspective:** Kenting is Taiwan's only place where you can simultaneously observe "past" and "present" coral reefs. Terrestrial fossil coral reefs tell stories of ancient climate, while living marine reefs face modern environmental challenges.
+Shitiping in Hualien resembles an unearthed time capsule: a terraced coral reef plateau where each "step" marks different periods of sea levels. The highest terrace of coral reefs dates back 120,000 years, recording the moment when seawater reached its peak during the last interglacial period.
 
-**Coral Reef Biodiversity**  
-Kenting waters host 60 species of reef-building corals and over 1,000 fish species — biodiversity rivaling Amazon rainforests. Within just 10 square meters of reef, you might find:
+### West Coast: Gentle, but Vanishing
 
-- 15-20 coral species
-- 50-80 fish species
-- Hundreds of invertebrate species
+The west coast is the back of the collision: the Hudan Stream carries 40 million tons of sediment into the sea every year, forming the plains of western Taiwan over millions of years. This area features lagoons, wetlands, and Taiwan's largest sandbars.
 
-This biodiversity density exceeds shallow sandy areas by 100-fold.
+But this gentle coast is paying a price.
 
-## Marine Erosion Artists: Wave Sculptors
+📝 **An Island Vanishing:** Wai'an-ding Peninsula (Outer Sandbar), Taiwan's largest sandbar, covered 3,205 hectares in 1984. By 2020, only 1,138 hectares remained: a reduction of 65% in just 36 years. Research estimates it will submerge below sea level by 2028. The cause is not just natural erosion: the construction of land by the Sixth Naphtha Cracker (Liu-Ching) blocks sand, and upstream dams intercept sand sources, cutting off the "blood supply" to the peninsula. It once served as a shield for oyster farmers along the Yunlin coast; in the 1960s, hundreds lived there. Now, only a lighthouse remains on the bar.
 
-Surrounded by ocean, every Taiwan coast stages the eternal battle of "waves vs. rocks." Marine erosion landform evolution resembles nature's sculpting art.
+The Yunlin coast recedes by 10 to 15 feet every year. This is not a distant prophecy of climate change: it is happening now.
 
-**Yehliu's "Stone Zoo"**  
-Yehliu Geopark's rocks form bizarre shapes: Queen's Head, Fairy's Shoe, Candle Rocks, Elephant Trunk Rock... These strange formations result from "differential erosion."
+### North Coast: A Geological Classroom
 
-The Queen's Head formation involved four stages:
+The northern coast is a masterpiece of differential erosion. Alternating layers of hard and soft rock are exposed; waves selectively hollow out the softer rocks while leaving the harder ones, carving the incredible shapes found in Yehliu.
 
-1. **Sedimentation** (15 million years ago): Seabed sand-mud layer accumulation
-2. **Uplift** (5 million years ago): Crustal movement exposed seafloor rocks
-3. **Early erosion** (1 million years ago): Waves began sculpting rock surfaces
-4. **Fine carving** (100,000 years ago-present): Continuous marine erosion refined shapes
+Queen's Head loses 1 to 2 centimeters of its neck every year. Elephant Trunk Rock fractured in December 2023. The disappearance of these landmarks is not an accident, but a geological certainty: marine erosion never stops for tourists.
 
-When northeast monsoons bring 2-3 meter swells crashing against cliffs, water pressure reaches 30 tons per square meter — equivalent to a fully loaded dump truck compressed into 1 square meter.
+### South Coast: A Countdown for a Tropical Paradise
 
-**Sea Cave Acoustics**  
-When waves rush into sea caves, they create intense air compression and release, producing thunderous sounds. The northern coast's "Thunder Cave" earned its name this way. These sounds typically frequency-range 20-100 Hz — exactly human hearing's most sensitive range.
+Kenting is Taiwan's only tropical coral reef coast. Walking along Kenting Avenue, the white rocks under your feet are coral remains from 120,000 years ago; after the sea retreated during the last interglacial period, tectonic forces pushed these ancient reefs up over 200 meters.
 
-## Tidal Life Rhythms
+The modern coral reefs beneath the surface host 60 species of reef-building corals and over 1,200 species of fish, with a biological density comparable to the Amazon rainforest. However, in the summer of 2020, Taiwan experienced its largest recorded mass coral bleaching event. A team from Academia Sinica recorded 28,250 corals across 62 sites nationwide, and the conclusion was sobering: Liuqiu will lose 55% of its coral, while the Northeast Coast and Kenting will lose about 30%.
 
-Taiwan's tides follow "irregular diurnal patterns" — two daily high tides and two low tides of different heights. This tidal pattern creates rich intertidal ecosystems.
+> "The northeast coast corals, which escaped a disaster in 1998, suffered their first recorded mass bleaching in 2020."
+> —Dr. Kuo Zhao-yang, Center for Biodiversity Research, Academia Sinica
 
-**Intertidal Vertical Zonation**  
-Within just a few meters of elevation, the intertidal zone divides into four ecological bands:
+The irony is: the warm waters that allow Taiwan to have coral reefs are now killing them.
 
-1. **Spray zone** (above high tide): Land crabs, shore crabs
-2. **High tide zone** (occasionally submerged): Barnacles, tube worms
-3. **Mid-tide zone** (submerged twice daily): Oysters, peacock clams
-4. **Low tide zone** (almost permanently submerged): Sea anemones, sea urchins, fish
+## Two Clocks on One Island
 
-Each downward band doubles in species diversity and density.
+Two clocks run simultaneously along Taiwan's coast.
 
-**Fiddler Crab Tidal Clocks**  
-Western coast mudflat fiddler crabs possess precise "biological clocks" that predict tidal timing. Males begin courtship claw-waving 30 minutes before tide retreat, ensuring reproductive activity occurs at optimal times. Scientists found that even laboratory crabs removed from tidal environments continue following their original habitat's tidal cycles for weeks.
+The **Geological Clock** ticks upward: an annual uplift rate of 5 to 7 millimeters means that in ten thousand years, Qingshui Cliff will be another 50 to 70 feet higher. New coral reefs are growing beneath the surface; within one square centimeter of coral tissue live 1 to 5 million zooxanthellae cells, which work day and night to turn sunlight into a calcium skeleton. A coral colony three meters in diameter may have been growing for 300 years, and it will witness the next 300.
 
-## Coral Reefs: Ocean's Tropical Rainforests
+The **Human Clock** ticks downward: Wai'an-ding Peninsula shrank by 65% in 36 years. Queen's Head can likely stand for only five more years. The 2020 coral bleaching took away 30 to 55% of the coral. Sea levels rise 3.4 millimeters annually, and due to land subsidence in the southwest coast, the relative rate of rise reaches as high as 5 to 7 millimeters per year.
 
-Taiwan's southern coral reefs represent some of the world's northernmost tropical reef ecosystems. In these "marine rainforests," coral-algae symbiosis maintains entire ecosystem energy cycles.
+📝 **Curatorial Perspective:** The story of Taiwan's coast is not simply "humans destroying nature." This island itself is a continuous "destruction" spanning 5 million years—plate collisions, fault ruptures, and marine erosion. Human activities (sand blocking by the Sixth Naphtha Cracker, carbon-driven warming) have merely added a new variation to the natural geological rhythm. The problem isn't the destruction itself, but the speed: what geology takes millions of years to accomplish, we have achieved in just decades.
 
-**Coral's Photosynthetic Partners**  
-Each square centimeter of coral tissue houses 1-5 million zooxanthellae cells. These tiny algae photosynthesize sunlight into sugars, providing 90% of coral nutrition. In return, corals offer algae shelter and inorganic salts.
+On the 1,600 hectares of water in the Qigu Lagoon, 2,000 to 3,000 [black-faced spoonbills](https://taiwandata.org/en/nature/black-faced-spoonbill/) come to winter every winter, accounting for over sixty percent of the global population. The fiddler crabs on the mudflats of the west coast possess precise biological clocks, beginning to wave their large claws to court mates 30 minutes before the tide recedes—even when moved to a laboratory, they continue to act according to the tidal rhythms of their original habitat for several weeks.
 
-This perfect symbiosis proves extremely fragile. When water temperatures rise 1-2°C for over a week, corals "expel" zooxanthellae, causing bleaching. Recent years saw frequent coral bleaching events in Kenting waters due to rising sea temperatures.
+These organisms do not know that Wai'an-ding Peninsula is disappearing. They simply live by their own clocks.
 
-**Coral Reef Architects**  
-Reef-building corals secrete calcium carbonate skeletons growing 1-25 centimeters annually. A 3-meter diameter Kenting table coral colony likely represents 200-300 years of growth, witnessing marine environmental changes from the Qing Dynasty to modern times.
-
-> **Ecological Data: Kenting Coral Reef Biodiversity**
->
-> - Reef-building corals: 60 species
-> - Soft corals: 200+ species
-> - Fish: 1,200+ species
-> - Crustaceans: 300+ species
-> - Mollusks: 500+ species
->   (Source: Kenting National Park Headquarters, 2022)
-
-## Climate Change Coastal Crises
-
-Taiwan's coastline faces unprecedented environmental change. Global warming isn't a distant concept — its impacts appear concretely along Taiwan's 1,566 kilometers of coastline.
-
-**Differentiated Sea Level Rise Impacts**  
-Central Weather Bureau data shows Taiwan's surrounding seas rising 3.4mm annually — above the global average of 3.3mm. However, impacts vary regionally:
-
-- **Southwest coast**: Land subsidence + sea level rise = 5-7mm relative annual rise
-- **East coast**: Crustal uplift + sea level rise = smaller relative changes
-- **Offshore islands**: Dongsha Island faces possible submersion within 50 years
-
-**Super Typhoon New Challenges**  
-Climate change reduces typhoon frequency but increases intensity. Typhoon Dujuan in 2015 recorded maximum wind gusts of 65.2 m/s (235 km/h) at Lanyu — a Taiwan meteorological record.
-
-Such "super typhoons" generate waves exceeding 20 meters, creating unprecedented impacts on coastal defenses. Hualien Port once measured 17.8-meter waves during strong typhoons — equivalent to 6-story buildings.
-
-**Coral Bleaching Alarms**  
-Summer 2020 saw massive coral bleaching around Taiwan. Bleaching rates reached 60-90% at Kenting, Green Island, and Lanyu — observation records' highest. Research shows when sea temperatures exceed 29.5°C for a week, bleaching probability exceeds 80%.
-
-Academia Sinica's Biodiversity Research Center found that if global warming exceeds 2°C, over 90% of Taiwan's coral reefs face survival threats.
-
-## Coastal Protection: Balancing Technology and Nature
-
-Facing coastal erosion and climate change, Taiwan explores new "living with the sea" models.
-
-**Yunlin Coast Innovation Experiments**  
-Yunlin's coast erodes 10-15 meters annually — Taiwan's most severe coastal erosion. Traditional concrete seawalls temporarily block seawater but accelerate neighboring area erosion.
-
-Taiwan now experiments with "ecological coastal engineering":
-
-- **Offshore sand barriers**: Offshore sand placement for natural wave energy reduction
-- **Constructed wetlands**: Rebuilding mangrove and Kandelia communities
-- **Soft stabilization**: Coir net and wave block combinations
-
-Preliminary results show ecological engineering achieves 70-80% of traditional seawall protection effectiveness while reducing costs 40% and preserving ecological values.
-
-**Smart Monitoring Systems**  
-Taiwan established one of the world's densest coastal monitoring networks:
-
-- 32 tide stations real-time monitoring sea level changes
-- 46 ocean buoys observing waves and sea temperature
-- Satellite remote sensing tracking coastline changes
-- AI image recognition for coastal disaster early warning
-
-This system updates every 10 minutes, providing precise disaster risk forecasts 72 hours before typhoon arrivals.
-
-## Marine National Parks: Taiwan's Pearls
-
-Taiwan established two marine national parks protecting its most precious marine ecosystems.
-
-**Dongsha Atoll: South China Sea Pearl**  
-Dongsha Atoll is Taiwan's only atoll formation, covering approximately 174 square kilometers with only 1.74 square kilometers of land. This "South China Sea Pearl" hosts Taiwan's most complete coral reef ecosystem.
-
-The atoll's lagoon depth of 10-15 meters provides critical juvenile fish and seagrass habitat. Scientists documented over 300 fish species here, including endangered yellowfin seabream and Napoleon wrasse.
-
-Marine National Park Headquarters long-term monitoring revealed Dongsha Island surroundings as important lemon shark nurseries, with juveniles maturing in the lagoon before swimming to deep seas.
-
-**Penghu South Islets: Time Capsule**  
-Penghu South Islets National Park encompasses four islands: Dongyu, Xiyu, Dongji, and Xiji islets. This area preserves Penghu's most pristine basalt geological landscapes and traditional settlement culture.
-
-Xiji Islet's "Blue Cave" represents a sea erosion masterpiece, with interior seawater appearing mysteriously blue from light refraction. This natural arch stands 18 meters high and 12 meters wide — a pilgrimage site for photographers and divers.
-
-## Future Outlook: Resilient Coast Vision
-
-Taiwan's coastal challenges are unprecedented but also inspiring innovative thinking. "Resilient coastlines" concepts are emerging in Taiwan — not fighting the ocean, but coexisting with it.
-
-**2050 Coastal Vision**  
-The government proposed "2050 Taiwan Coastal Vision":
-
-- 85% of coastline maintaining natural state
-- Establishing 30 marine protected area networks
-- Increasing nearshore carbon sequestration capacity 50%
-- Achieving 95% coastal disaster warning accuracy
-
-**Citizen Participation Power**  
-From Taoyuan algal reef protection to Xiaoliuqiu sea turtle conservation, civil society becomes crucial for marine protection. Over 100,000 people annually participate in coastal cleanup activities, removing over 500 tons of debris.
-
-🔗 **Extended Exploration:**
-
----
-
-From space, Taiwan appears like a green leaf floating in deep blue, with eastern cliffs dropping straight to the deep sea and western plains gently submerging into shallow seas. 4-5 million years ago, violent collision between two major crustal plates sculpted this 1,566-kilometer coastline, still continuously reshaping through 15,000-18,000 annual earthquakes. This isn't just a textbook coastal type distribution map — it's an ongoing dialogue between a living island and the ocean.
+And Taiwan's coastline—still rising slightly in every earthquake, receding slightly with every wave. Simultaneously born, simultaneously vanishing. Just like everything else that is alive.
 
 ## References
 
-1. [Taiwan Geography](https://en.wikipedia.org/wiki/Geography_of_Taiwan) - Wikipedia basic geographical data
-2. [Dongsha Atoll National Park](https://www.marine.gov.tw/) - Ecological data from Marine National Park Headquarters
-3. [Central Geological Survey](https://www.moeacgs.gov.tw/) - Taiwan geological structure research
-4. [Central Weather Bureau](https://www.cwa.gov.tw/) - Climate and marine observation data
-5. [Kenting National Park](https://www.ktnp.gov.tw/) - Coral reef ecological survey reports
-6. [East Coast National Scenic Area](https://www.eastcoast-nsa.gov.tw/) - Coastal geological landscape data
-7. [Yehliu Geopark](https://www.ylgeopark.org.tw/) - Marine erosion landform interpretation
-8. [Ocean Conservation Administration](https://www.oca.gov.tw/) - Marine protected area planning
-9. [National Taiwan University Institute of Oceanography](http://www.oc.ntu.edu.tw/) - Marine science research data
-10. Global climate change impact assessment reports on Taiwan coastal zones
+1. [Yehliu Queen's Head Neck Crisis — ETtoday Report (2023)](https://travel.ettoday.net/article/2083088.htm)
+2. [National Yang Ming Chiao Tung University Natural Sandstone Reinforcement Technology — United Daily News (2024)](https://udn.com/news/story/6928/8440128)
+3. [Ryukyu Trench Depth — Britannica](https://www.britannica.com/place/Ryukyu-Trench)
+4. [Yushan Elevation and Uplift Rate — Yushan National Park Administration Office](https://www.ysnp.gov.tw/FAQ/C007000?ID=c7939bca-5d9f-4fde-8c82-9931afbc9289)
+5. [Wai'an-ding Peninsula Disappearance Estimate — NOWnews (2021)](https://www.nownews.com/news/5196813)
+6. [Impact of Sixth Naphtha Cracker on Wai'an-ding Peninsula — Think Tank Forum](https://www.thinkingtaiwan.com/content/4449)
+7. [2020 Coral Bleaching — Our Island](https://ourisland.pts.org.tw/content/7392)
+8. [At least 1/3 of coral died in bleaching — Liberty Times (2021)](https://news.ltn.com.tw/news/life/breakingnews/3408990)
+9. [Taiwan Coast — Wikipedia](https://zh.wikipedia.org/zh-hant/台灣海岸)
+10. [Water Resources Agency, Ministry of Economic Affairs — Detailed Introduction to Taiwan's Coast](https://www.wra.gov.tw/News.aspx?n=3253&sms=9088)
