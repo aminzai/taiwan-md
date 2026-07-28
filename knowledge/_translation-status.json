@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-28T09:51:35+08:00",
-    "zhCommitHead": "f8fe84f77",
+    "lastUpdated": "2026-07-28T09:57:48+08:00",
+    "zhCommitHead": "064897c0d",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 633,
+        "fresh": 634,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 230,
+        "missing": 229,
         "orphan": 0
       },
       "hi": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 526,
+        "fresh": 527,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 343,
+        "missing": 342,
         "orphan": 0
       }
     },
@@ -819,8 +819,8 @@
           "sourceContentHash": "sha256:5ffbb5b925e1997f",
           "sourceBodyHash": "sha256:cda00c8983ea5b23",
           "translatedAt": "2026-07-28T05:31:30+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
+          "translationLastCommit": "064897c0",
+          "translationLastModified": "2026-07-28T09:51:36+08:00",
           "inferred": false,
           "footnoteDefs": 46,
           "status": "fresh",
@@ -6467,8 +6467,8 @@
           "sourceContentHash": "sha256:97768e7e71587490",
           "sourceBodyHash": "sha256:411e4d6f8779c88a",
           "translatedAt": "2026-07-28T04:03:50+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
+          "translationLastCommit": "064897c0",
+          "translationLastModified": "2026-07-28T09:51:36+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -10656,8 +10656,8 @@
           "sourceContentHash": "sha256:323486e516e428ed",
           "sourceBodyHash": "sha256:c34c5e10c2fbc812",
           "translatedAt": "2026-07-28T04:03:50+08:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "064897c0",
+          "translationLastModified": "2026-07-28T09:51:36+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -15326,7 +15326,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/taiwan-ai-academy.md",
+          "translatedFrom": "Technology/台灣人工智慧學校.md",
+          "sourceCommitSha": "c8e5ac9ea",
+          "sourceContentHash": "sha256:aeb22f9372adc2ef",
+          "sourceBodyHash": "sha256:6ec984b54802baea",
+          "translatedAt": "2026-07-28T08:53:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -56041,7 +56052,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/hebe-tien-singer.md",
+          "translatedFrom": "People/田馥甄.md",
+          "sourceCommitSha": "380c49d7e",
+          "sourceContentHash": "sha256:d2852cc419867a37",
+          "sourceBodyHash": "sha256:0f8970c54b5cd9d2",
+          "translatedAt": "2026-07-28T08:53:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 35,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
