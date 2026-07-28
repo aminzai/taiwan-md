@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-28T21:12:31+08:00",
-    "zhCommitHead": "2eba1c192",
+    "lastUpdated": "2026-07-28T21:22:36+08:00",
+    "zhCommitHead": "a4aed0a06",
     "totalZh": 870,
     "activeLanguages": [
       "en",
@@ -19,18 +19,18 @@
     "summary": {
       "en": {
         "total_zh": 870,
-        "fresh": 806,
+        "fresh": 807,
         "stale": 43,
         "metadata_stale": 0,
-        "missing": 21,
+        "missing": 20,
         "orphan": 0
       },
       "ja": {
         "total_zh": 870,
-        "fresh": 808,
+        "fresh": 809,
         "stale": 56,
         "metadata_stale": 0,
-        "missing": 6,
+        "missing": 5,
         "orphan": 0
       },
       "ko": {
@@ -59,10 +59,10 @@
       },
       "vi": {
         "total_zh": 870,
-        "fresh": 340,
+        "fresh": 341,
         "stale": 7,
         "metadata_stale": 0,
-        "missing": 523,
+        "missing": 522,
         "orphan": 0
       },
       "id": {
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 870,
-        "fresh": 652,
+        "fresh": 653,
         "stale": 7,
         "metadata_stale": 0,
-        "missing": 211,
+        "missing": 210,
         "orphan": 0
       },
       "hi": {
@@ -13214,7 +13214,18 @@
           "status": "missing"
         },
         "ja": {
-          "status": "missing"
+          "path": "ja/Technology/taiwan-tungsten-supply-chain.md",
+          "translatedFrom": "Technology/台灣鎢供應鏈.md",
+          "sourceCommitSha": "d6fdcf866",
+          "sourceContentHash": "sha256:56ac16371a296013",
+          "sourceBodyHash": "sha256:0ba20d6588799dfb",
+          "translatedAt": "2026-07-28T19:24:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 42,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "status": "missing"
@@ -28002,8 +28013,8 @@
           "sourceContentHash": "sha256:867b46c37c755d29",
           "sourceBodyHash": "sha256:9b87440ff4268438",
           "translatedAt": "2026-07-28T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a4aed0a0",
+          "translationLastModified": "2026-07-28T21:12:31+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -42092,8 +42103,8 @@
           "sourceContentHash": "sha256:e50c6305fdf357b3",
           "sourceBodyHash": "sha256:4fcd819359e5e6f4",
           "translatedAt": "2026-07-28T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a4aed0a0",
+          "translationLastModified": "2026-07-28T21:12:31+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -45138,8 +45149,8 @@
           "sourceContentHash": "sha256:578491ed43f8d7d0",
           "sourceBodyHash": "sha256:be3b3f9150c7c64e",
           "translatedAt": "2026-07-28T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a4aed0a0",
+          "translationLastModified": "2026-07-28T21:12:31+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -46282,7 +46293,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Nature/daan-river-yitian-sword.md",
+          "translatedFrom": "Nature/大安溪倚天劍.md",
+          "sourceCommitSha": "ff92f3866",
+          "sourceContentHash": "sha256:3ee4be522cff1a4e",
+          "sourceBodyHash": "sha256:5dcfd938f21ea513",
+          "translatedAt": "2026-07-28T19:24:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 63,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -96418,7 +96440,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/History/taiwan-transitional-justice.md",
+          "translatedFrom": "History/台灣轉型正義.md",
+          "sourceCommitSha": "7c73f6a55",
+          "sourceContentHash": "sha256:c532a9d95ccbcaaf",
+          "sourceBodyHash": "sha256:530ea0ffb4d07e77",
+          "translatedAt": "2026-07-28T19:24:14+08:00",
+          "translationLastCommit": "26a727c9",
+          "translationLastModified": "2026-07-24T15:47:25+08:00",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/History/taiwan-transitional-justice.md",
@@ -99340,7 +99373,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Geography/yongkang-street.md",
+          "translatedFrom": "Geography/永康街.md",
+          "sourceCommitSha": "fe48ea49d",
+          "sourceContentHash": "sha256:86be5fe44de05439",
+          "sourceBodyHash": "sha256:ad35178eae665c53",
+          "translatedAt": "2026-07-28T19:24:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -100045,8 +100089,8 @@
           "sourceContentHash": "sha256:01c55f03cc9ccbf2",
           "sourceBodyHash": "sha256:04678524469fb023",
           "translatedAt": "2026-07-28T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a4aed0a0",
+          "translationLastModified": "2026-07-28T21:12:31+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -105296,8 +105340,8 @@
           "sourceContentHash": "sha256:6d18e9e22ea3f7db",
           "sourceBodyHash": "sha256:53b18682028046a0",
           "translatedAt": "2026-07-28T19:24:15+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a4aed0a0",
+          "translationLastModified": "2026-07-28T21:12:31+08:00",
           "inferred": false,
           "footnoteDefs": 45,
           "status": "fresh",
