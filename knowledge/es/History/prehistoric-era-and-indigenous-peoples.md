@@ -1,23 +1,29 @@
 ---
-title: 'Era prehistórica y pueblos indígenas: de la cultura Changbin (20.000-30.000 años) al punto de partida de la expansión austronesia'
-description: 'La actividad humana más antigua confirmada en Taiwán es la cultura Changbin, de hace aproximadamente 20.000-30.000 años (Paleolítico, sitio de las Ocho Cuevas de Baxian). Los pueblos indígenas oficialmente reconocidos son 16 grupos. Taiwán es considerado uno de los posibles lugares de origen de los pueblos austronesios (9 de las 10 ramas principales de lenguas austronesias están en Taiwán). Investigación más reciente de 2024: la emigración desde Taiwán representa aproximadamente el 20%, con una ruta adicional de expansión desde Indonesia, pendiente de consenso académico. En el siglo XVII existía el Reino de Middag como alianza intertribal, y la cultura Shihsanhang en la Edad del Hierro.'
+title: 'Prehistoria y pueblos indígenas: desde la cultura Changbin hace 20,000-30,000 años hasta el origen de la expansión del austronesio'
+description: 'La actividad humana más antigua en Taiwán es la cultura Changbin de hace unos 20,000 a 30,000 años (Paleolítico, sitio de Baixian Cave); hay 16 grupos étnicos indígenas reconocidos oficialmente. De las 10 ramas principales del austronesio existentes, 9 se encuentran en Taiwán, lo que la convierte en uno de los posibles lugares de origen de esta familia lingüística; estudios recientes de 2024 indican que aproximadamente el 20% de la población migró desde Taiwán, con otra ruta de expansión hacia Indonesia, mientras el consenso académico sigue formándose. En el siglo XVII existía el reino de Dabu como una alianza intertribal, y la cultura de las Trece Mercaderías dio inicio a la era del hierro.'
 date: 2026-03-17
-author: 'Taiwan.md'
 category: 'History'
-subcategory: '史前與原住民'
 tags:
-  ['史前與原住民', '長濱文化', '南島語族', '原住民族', '舊石器時代', '大肚王國']
-readingTime: 7
-#   whats_excluded: "各族傳統服飾儀式細節；南島語族遷徙路線完整地圖；原住民族運動近現代史"
-#   where_it_hedges: "南島起源：2024年Nat Geo研究顯示台灣移出僅佔約20%，另有印尼路徑（⚠️挑戰台灣唯一起源說）"'
+  [
+    'Prehistoria y pueblos indígenas',
+    'Cultura Changbin',
+    'Lenguas austronesias',
+    'Pueblos indígenas',
+    'Paleolítico',
+    'Reino de Dabu',
+  ]
+subcategory: 'Prehistoria y pueblos indígenas'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: true
+readingTime: 7
+relatedDiary: ['2026-07-16-154753-compassionate-kirch']
 translatedFrom: 'History/史前時代與原住民.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:4a4d8e8b71bb4388'
-sourceBodyHash: 'sha256:518e01925b760cf5'
-translatedAt: '2026-05-22T05:08:47+08:00'
+sourceCommitSha: 'a1eb11f45'
+sourceContentHash: 'sha256:3b733793cef0fe14'
+sourceBodyHash: 'sha256:e6a1e14a24970623'
+translatedAt: '2026-07-28T11:45:18.397067+00:00'
 ---
 
 # Era prehistórica y pueblos indígenas: de la cultura Changbin (20.000-30.000 años) al punto de partida de la expansión austronesia

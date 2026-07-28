@@ -1,19 +1,19 @@
 ---
 title: '민주화'
+description: '1980년 3월 18일, 가오슝 군사법정에서 스밍더는 6만 자의 답변서를 포기하고 재판관에게 사형을 선고해 달라고 요구했다. 같은 재판에서 피고를 변호하던 젊은 변호사 천수이볜, 셰창팅, 쑤전창은 20년 후 모두 총통 또는 행정원장이 됐다. 본보기를 보여 주려 했던 재판이 의도치 않게 타이완 다음 세대의 정치 지도자들을 만들어 낸 것이다.'
 date: 2026-03-27
+category: 'History'
 tags: ['역사', '민주화', '정치', '메이리다오 사건', '야백합 학생운동']
 subcategory: '전후와 권위주의'
-description: '1980년 3월 18일, 가오슝 군사법정에서 스밍더는 6만 자의 답변서를 포기하고 재판관에게 사형을 선고해 달라고 요구했다. 같은 재판에서 피고를 변호하던 젊은 변호사 천수이볜, 셰창팅, 쑤전창은 20년 후 모두 총통 또는 행정원장이 됐다. 본보기를 보여 주려 했던 재판이 의도치 않게 타이완 다음 세대의 정치 지도자들을 만들어 낸 것이다.'
-category: 'History'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-27
-translatedFrom: 'History/民主化.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:5c4c48886e261a1e'
-sourceBodyHash: 'sha256:1ac64c77bbabb1d3'
-translatedAt: '2026-05-29T00:35:00+08:00'
 lastHumanReview: false
+translatedFrom: 'History/民主化.md'
+sourceCommitSha: 'dbaf28954'
+sourceContentHash: 'sha256:0f572861e1f79f7d'
+sourceBodyHash: 'sha256:b51e57f04bd06fc2'
+translatedAt: '2026-07-28T10:59:58.253593+00:00'
 ---
 
 # 민주화

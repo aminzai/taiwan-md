@@ -1,138 +1,140 @@
 ---
-title: 'La generación slash de Taiwán: supervivencia y elección de un solo individuo con múltiples empleos'
-description: 'Cuando un máster apenas alcanza para pagar el alquiler de un estudio en Taipéi, ser slash no es una elección, es una cuestión matemática de supervivencia'
+title: 'La generación "slash" de Taiwán: la supervivencia y las elecciones de una vida multifacética'
+description: 'Cuando un título de maestría apenas alcanza para pagar el alquiler de un estudio en Taipéi, el trabajo "slash" no es una elección, sino un problema matemático para sobrevivir.'
 date: 2026-03-29
+category: 'Society'
 tags:
   [
     'generación slash',
-    'economía de gigs',
+    'economía de plataformas',
     'salarios',
-    'precio de la vivienda',
+    'precios de la vivienda',
     'empleo juvenil',
   ]
 subcategory: '世代與社會'
 author: 'p3nchan'
-readingTime: 8
-category: 'Society'
-lastVerified: 2026-03-29
 featured: false
+lastVerified: 2026-03-29
 lastHumanReview: false
+readingTime: 8
 translatedFrom: 'Society/台灣斜槓世代.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:bdd6bcaeb167f0b4'
-sourceBodyHash: 'sha256:cfe750f00aea3ad6'
-translatedAt: '2026-05-02T01:17:17+08:00'
+sourceCommitSha: '2b1654faa'
+sourceContentHash: 'sha256:06d77e5b551a9ae1'
+sourceBodyHash: 'sha256:1cd85dacd9f6f3a7'
+translatedAt: '2026-07-28T18:52:02+08:00'
 ---
 
-> Los jóvenes taiwaneses de entre 25 y 35 años están experimentando una prueba de supervivencia que nadie declaró iniciada. La mediana salarial se estanca en 38.000 TWD, mientras que el alquiler de un estudio en Taipéi parte de 14.000 TWD. Un empleo a tiempo completo no basta, así que después del trabajo abren la app de reparto, los fines de semana corren a por encargos y de madrugada editan vídeos. Esto no es una «moda slash», es una estrategia de supervivencia forzada por una falla estructural.
+> Los jóvenes de entre 25 y 35 años en Taiwán están atravesando un experimento de supervivencia que nadie anunció formalmente. Mientras la mediana salarial se estanca en 38.000 TWD, el alquiler de un estudio en Taipéi comienza en los 14.000 TWD. Un solo empleo a tiempo completo no es suficiente; por eso, tras la jornada laboral, abren aplicaciones de entrega, aceptan proyectos los fines de semana y editan vídeos a altas horas de la noche. Esto no es una "tendencia slash", sino una estrategia de supervivencia forzada por dificultades estructurales.
 
-Xiao Jie, 28 años, graduada en Filología Inglesa por una universidad privada. De día trabaja como editora de redes sociales en una empresa de marketing mediana, con un salario mensual de 33.000 TWD. Cada tarde, tras salir del trabajo a las seis, cambia de identidad en su motocicleta: abre la app de Uber Eats y reparte comida hasta las diez de la noche. Los fines de semana acepta encargos de traducción en la plataforma 104, cobrando 2.500 TWD por un texto de 3.000 caracteres de chino a inglés. Con tres empleos combinados, su ingreso mensual ronda los 52.000 TWD. Tras descontar el alquiler de un estudio de ocho pings en el distrito de Songshan (Taipéi) —13.500 TWD—, gasolina de la moto, comida y el pago del préstamo estudiantil, lo que logra ahorrar cada mes no supera los 8.000 TWD.
+Xiao-jie, de 28 años, se graduó en el departamento de inglés de una universidad privada. Durante el día trabaja como editora de contenido en una empresa de marketing de tamaño mediano, con un salario mensual de 33.000 TWD. Cada tarde, al terminar su jornada a las seis, monta su moto y cambia de identidad: abre la aplicación de Uber Eats y realiza repartos hasta las diez de la noche. Los fines de semana, en el portal de servicios externos 104, acepta trabajos de traducción; un texto de 3.000 palabras del chino al inglés le reporta 2.500 TWD. Sumando sus tres empleos, sus ingresos mensuales rondan los 52.000 TWD. Tras deducir los 13.500 TWD de alquiler por un estudio de unos 30 metros cuadrados en el distrito de Songshan, el gasto de combustible para su moto, la comida y el pago del préstamo estudiantil, lo que logra ahorrar al mes es menos de 8.000 TWD.
 
-«No es que no me esfuerce; es que con un solo salario simplemente no se puede vivir», dice.
+«No es que no me esfuerce, es que con un solo sueldo realmente no se puede vivir», afirma ella.
 
-Este es el retrato de la generación slash de Taiwán. No es la narrativa glamurosa de las «carreras múltiples» que se ve en LinkedIn, sino la fórmula de supervivencia que los jóvenes han improvisado atrapados entre el estancamiento salarial estructural y el alza desbocada de los precios inmobiliarios.
-
----
-
-## Los números no mienten: los salarios no alcanzan para el alquiler
-
-Primero, los salarios. Según las estadísticas de 2025 de la Dirección General de Presupuesto, Contabilidad y Estadísticas (DGBAS) del Yuan Ejecutivo, la mediana del salario regular de todos los empleados asalariados es de 38.319 TWD. Nótese que se trata de la «mediana»: significa que la mitad de los trabajadores cobra menos de esa cifra cada mes. El salario inicial promedio para recién graduados universitarios ronda los 34.000 TWD; si no se pertenece a una carrera STEM, es muy común situarse en el rango de 28.000 a 32.000 TWD.
-
-Ahora, el alquiler. El alquiler mensual promedio de un estudio independiente en la ciudad de Taipéi es de 14.400 TWD; incluso retrocediendo a la Nueva Ciudad de Taipéi, sigue siendo de 13.100 TWD. Según el indicador internacionalmente aceptado de que «el alquiler no debe superar el 30 % de los ingresos», para alquilar un estudio en Taipéi de forma saludable se necesitaría un salario mensual de al menos 43.000 TWD. Pero alguien que empieza con 34.000 TWD tras la universidad destina ya el 42 % de sus ingresos solo al alquiler.
-
-Y eso es solo alquilar. Si hablamos de comprar, el ratio precio de la vivienda-ingresos en Taipéi alcanzó las 16,36 veces a finales de 2024, lo que significa que una familia debería destinar todos sus ingresos, sin gastar ni una moneda, durante más de 16 años para poder comprar una vivienda. Esta cifra supera a la de Londres, Nueva York o Toronto, situando a Taipéi entre las ciudades más caras del mundo.
-
-¿Cuánto mejora la situación con un máster? El salario inicial promedio para recién graduados de posgrado se sitúa entre 38.000 y 42.000 TWD (fuera del sector tecnológico). Unos miles más que con el título universitario, pero el alquiler de un estudio en Taipéi no hace descuentos por tener más estudios. El salario inicial de un máster en humanidades puede equivaler, en Taipéi, justo al alquiler de un estudio más los gastos básicos de subsistencia. La diferencia salarial obtenida tras dos años adicionales de estudio queda prácticamente devorada por el alquiler.
+Este es el retrato de la generación "slash" en Taiwán. No es la narrativa glamurosa de una «carrera múltiple» en LinkedIn, sino la fórmula de supervivencia que los jóvenes construyen bajo la presión combinada del estancamiento salarial estructural y la explosión de los precios de la vivienda.
 
 ---
 
-## Las plataformas de reparto: el airbag de una generación
+## Los números hablan: los salarios no alcanzan el alquiler
 
-El número de repartidores en Taiwán pasó de 45.000 en 2019 a 145.000 en 2022. Se triplicó en tres años.
+Analicemos primero los salarios. Según las estadísticas de 2025 de la Dirección General de Estadística del Directorio Ejecutivo, la mediana de los salarios regulares para todos los empleados es de 38.319 TWD. Cabe notar que se trata de la "mediana": esto significa que la mitad de los trabajadores percibe menos de esa cifra mensualmente. El salario inicial promedio para recién graduados universitarios es de unos 34.000 TWD; si no pertenecen a facultades de ciencias o ingeniería, es muy común que sus ingresos se sitúen entre los 28.000 y 32.000 TWD.
 
-¿Quiénes son esos 145.000? Según un análisis de 104 Job Bank de 8.402 currículums con experiencia en reparto, el 42,9 % de los repartidores empezó a trabajar en plataformas antes de cumplir 24 años; muchos eran estudiantes universitarios y jóvenes menores de 29 años. La mediana salarial era de 36.000 TWD, y la mediana de antigüedad era de solo 0,9 años: es decir, la mayoría abandonaba antes de cumplir un año.
+Ahora veamos el alquiler. El alquiler mensual promedio de un estudio independiente en la ciudad de Taipéi es de 14.400 TWD; incluso retrocediendo a Nuevo Taipéi, el costo es de 13.100 TWD. Según el indicador internacional estándar de que «el alquiler no debe superar el 30% de los ingresos», para alquilar un estudio en Taipéi se requeriría un salario mensual de al menos 43.000 TWD para que sea considerado saludable. Sin embargo, una persona con un salario inicial de 34.000 TWD ve consumido el 42% de sus ingresos solo por el alquiler.
 
-El reparto no es un destino profesional, es una transición. Es el airbag cuando el salario del empleo principal no alcanza, es el colchón cuando tras graduarse no se encuentra el trabajo ideal.
+Y esto es solo alquilar. Si hablamos de comprar vivienda, la relación entre el precio de la vivienda y el ingreso en la ciudad de Taipéi alcanzó 16,36 veces a finales de 2024. Esto significa que una familia tendría que ahorrar la totalidad de sus ingresos, sin gastar nada en comida ni gastos básicos, durante más de 16 años para poder comprar una propiedad. Esta cifra supera a las de Londres, Nueva York y Toronto, situándose entre las más altas de las principales ciudades del mundo.
 
-En enero de 2026, el Yuan Legislativo aprobó en tercera lectura la Ley de Protección de los Derechos de los Repartidores y Regulación de las Plataformas de Reparto, que establece que la remuneración básica por pedido no podrá ser inferior a 45 TWD y que el salario por hora no podrá ser menor a 1,25 veces el salario mínimo. Fue un parche legislativo tardío. Antes de eso, los repartidores llevaban años en una zona gris de la Ley Laboral: no se consideraba una relación de empleo formal, no había seguro laboral ni de salud, ni cobertura por accidente laboral, ni salario base. Las plataformas podían reducir unilateralmente las tarifas y los repartidores carecían total poder de negociación.
-
-Que «exista una ley que regule» es sin duda un avance, pero también evidencia algo: una modalidad de trabajo de la que dependían más de cien mil personas tardó casi siete años en obtener una protección legal básica.
+¿Cuánto puede mejorar un título de maestría? El salario inicial promedio para graduados de posgrado se sitúa entre los 38.000 y 42.000 TWD (fuera del sector tecnológico). Aunque son unos miles más que el nivel universitario, el alquiler de un estudio en Taipéi no baja su precio por tener un título superior. Para un graduado de maestría en humanidades, el salario inicial en Taipéi podría apenas equilibrar el costo del alquiler sumado a los gastos básicos de vida. La diferencia salarial obtenida por estudiar dos años más es prácticamente absorbida por el coste de la vivienda.
 
 ---
 
-## Más allá del reparto: un abanico de actividades secundarias
+## Plataformas de entrega: un airbag para una generación
 
-El reparto es solo la puerta de entrada más accesible. El espectro de actividades secundarias de los jóvenes taiwaneses es mucho más amplio de lo que se imagina.
+El número de repartidores en Taiwán pasó de 45.000 en 2019 a 145.000 en 2022. En tres años, la cifra se triplicó.
 
-**Diseño y desarrollo freelance.** Plataformas como 104 Outsourcing, Tasker, o directamente encargos captados a través de redes sociales. Un joven con habilidades de diseño UI cobra entre 15.000 y 30.000 TWD por una landing page, además de su empleo diurno de 38.000 TWD. Los ingenieros de software están aún mejor: un proyecto de frontend con React puede cotizarse por encima de 50.000 TWD. La ventaja del freelance es el alto ingreso por hora; la desventaja es la inestabilidad de los proyectos: «este mes va bien, el siguiente paso hambre» es la norma.
+¿Quiénes son estas 145.000 personas? Según el análisis del banco de recursos humanos 104 sobre 8.402 currículums con experiencia en repartos, el 42,9% de los repartidores comenzó a trabajar en este sector antes de cumplir los 24 años; una gran cantidad son estudiantes universitarios y jóvenes menores de 29 años. La mediana salarial es de 36.000 TWD y la mediana de experiencia es de solo 0,9 años: esto significa que la mayoría abandona el reparto en menos de un año.
 
-**Enseñanza en línea y monetización del conocimiento.** Hahow, la plataforma de cursos en línea, acumula más de 1.000 cursos y 800.000 miembros. PressPlay Academy cuenta con más de 500 creadores. Un curso superventas puede generar ingresos de millones o incluso decenas de millones de TWD, pero eso ocurre solo en la cima de la pirámide. La mayoría de quienes publican cursos están muy lejos de esos niveles, y el coste de tiempo de producir un curso es alto: grabación, edición y marketing suelen llevar de tres a seis meses.
+El repartidor no es una meta profesional, sino una transición. Es un "airbag" cuando el salario del empleo principal no es suficiente, es una almohadilla amortiguadora cuando no se encuentra un trabajo ideal tras la graduación.
 
-**Creación de contenido propio.** YouTube, Instagram, Threads, podcasts. La barrera de entrada es la más baja, pero el techo de ingresos es el más incierto. Un YouTuber en Taiwán generalmente necesita superar los cien mil suscriptores para lograr ingresos publicitarios estables. Antes de eso, el contenido propio se parece más a un «empleo secundario en el que se invierte dinero propio».
+En enero de 2026, el Legislativo aprobó en tercera lectura la Ley de Protección de Derechos de los Repartidores y Gestión de Plataformas de Entrega, estableciendo que la remuneración básica por pedido no puede ser inferior a 45 TWD y la paga por hora no puede ser inferior a 1,25 veces el salario mínimo; entró en vigor oficialmente el 21 de julio de 2026 a medianoche (ver Ley especial sobre repartos). Es un parche institucional tardío. Antes de esto, los repartidores han estado durante años en una zona gris del Laboral de Taiwán: no se consideraban empleados formales, no tenían seguro médico ni de accidentes laborales, ni salario base. Las plataformas podían reducir unilateralmente el precio por pedido y los repartidores carecían de poder de negociación.
 
-**Reventa y comercio electrónico.** Reventa de productos de Japón y Corea del Sur, vendedores en Shopee. Los márgenes son estrechos, pero el flujo de caja es rápido. Muchos jóvenes empiezan con la reventa y poco a poco construyen una pequeña ruta de comercio electrónico.
+Que haya "leyes que regulen" es un progreso, pero también indica algo más: la modalidad laboral en la que dependen decenas de miles de personas tardó casi siete años en obtener protecciones legales básicas.
 
-Según una encuesta de 104 Job Bank de 2025, el 39 % de los trabajadores asalariados tiene un empleo secundario. Por generaciones, los datos son aún más llamativos: la Generación Z (nacidos aproximadamente a partir de 1997) tiene una tasa de actividad secundaria del 57 %, y los millennials, del 48 %. La encuesta de yes123 va más lejos: el 93,2 % declara tener intención de convertirse en slash.
+---
 
-¿La razón principal para querer un empleo secundario? El 78,8 % dice «aumentar los ingresos». No es la búsqueda de autorrealización: es que el dinero no alcanza.
+## Más allá del reparto: la diversidad de los trabajos secundarios
+
+El reparto es solo el tipo de trabajo más fácil de iniciar. El espectro de empleos secundarios de los jóvenes taiwaneses es mucho más amplio de lo que se imagina.
+
+**Diseño y proyectos de ingeniería.** A través de plataformas como 104, Tasker o directamente en redes sociales. Un joven con habilidades en diseño UI puede ganar 38.000 TWD en su empresa durante el día y cobrar entre 15.000 y 30.000 TWD por noche por diseñar una _Landing Page_. La situación es aún mejor para los ingenieros de software: un proyecto de frontend con React puede presupuestarse en más de 50.000 TWD. La ventaja de aceptar proyectos externos es que la paga por hora es alta; la desventaja es la inestabilidad del flujo de trabajo: «este mes es muy lucrativo, el próximo no hay nada» es la norma.
+
+**Enseñanza en línea y monetización de conocimientos.** Hahow tiene más de 1.000 cursos en línea con 800.000 miembros; PressPlay Academy cuenta con más de 500 creadores. Un curso exitoso puede generar ingresos de millones o incluso decenas de millones, pero eso es la cima de la pirámide. La mayoría de los instructores ganan mucho menos, pero el coste en tiempo para crear contenido es alto: grabación, edición y marketing pueden requerir de tres a seis meses.
+
+**Gestión de medios propios.** YouTube, Instagram, Threads, Podcast. El umbral de entrada es bajo, pero el techo es incierto. Un creador de contenido en Taiwán necesita generalmente más de 100.000 seguidores para obtener ingresos publicitarios estables. Antes de eso, los medios propios son más bien un «trabajo secundario que consume tiempo extra».
+
+**Compras por encargo y comercio electrónico.** Servicios de compra en Japón y Corea, vendedores en Shopee. Los márgenes son pequeños pero el flujo de caja es rápido. Muchos jóvenes comienzan como compradores por encargo y poco a poco abren camino hacia el comercio electrónico a pequeña escala.
+
+Según una encuesta de 2025 realizada por el banco de recursos humanos 104, el 39% de los empleados tienen un trabajo secundario. El dato es aún más sorprendente al analizarlo por generaciones: la Generación Z (nacidos aproximadamente después de 1997) tiene una tasa del 57% en empleos secundarios, y la Generación Milenial alcanza el 48%. La encuesta del portal de empleo yes123 es aún más drástica: el 93,2% de las personas expresó su intención de convertirse en "personas slash".
+
+¿Cuál es la razón principal para buscar un trabajo secundario? El 78,8% indicó que es para «aumentar los ingresos». No buscan autorrealización, sino que el dinero no les alcanza.
 
 ---
 
 ## Trabajadores independientes en las tiendas de conveniencia
 
-Taiwán presenta un fenómeno raro en el mundo: filas de personas trabajando dentro de tiendas de conveniencia.
+Taiwán presenta una escena poco común en el mundo: filas de personas trabajando dentro de tiendas de conveniencia.
 
-Con más de 13.000 tiendas de conveniencia en todo el país, casi todas cuentan con zona de asientos, Wi-Fi gratuito y enchufes. Con un café americano de 45 TWD se puede ocupar una mesa toda la tarde. Para los trabajadores independientes y la generación slash que no pueden permitirse alquilar un espacio de coworking, 7-ELEVEN y FamilyMart son la oficina móvil más económica.
+Existen más de 13.000 tiendas de conveniencia en todo Taiwán, y casi todas cuentan con zonas de asientos, Wi-Fi gratuito y enchufes. Por un café americano de 45 TWD se puede estar sentado toda una tarde. Para los trabajadores independientes y las personas "slash" que no tienen presupuesto para alquilar una oficina compartida, 7-ELEVEN y FamilyMart son las oficinas móviles más económicas.
 
-Los cafés también. La densidad de cafeterías sin límite de tiempo en Taiwán es muy alta. El sitio web Cafe Nomad lista cientos de cafeterías aptas para trabajar, indicando la velocidad del Wi-Fi, el número de enchufes y el nivel de ruido. El solo hecho de que exista tal recurso revela la magnitud de la demanda: hay todo un grupo de personas que necesita un lugar barato donde sentarse a ganar dinero con su portátil.
+Lo mismo ocurre con las cafeterías. La densidad de cafeterías sin límite de tiempo en Taiwán es muy alta; el sitio web Cafe Nomad lista cientos de estables aptos para trabajar, indicando la velocidad del Wi-Fi, el número de enchufes y el nivel de ruido. El hecho mismo demuestra la magnitud de la demanda: hay todo un grupo de personas que necesita un lugar barato donde sentarse con su portátil para ganar dinero.
 
-Taiwán ocupó el puesto 12 del Informe Global de Nómadas Digitales de 2024, el primero de Asia. Detrás de esa clasificación no solo están los trabajadores remotos extranjeros que disfrutan de los bajos precios de Taiwán. En gran parte, es el ecosistema sostenido por los propios trabajadores independientes y la generación slash locales.
+Taiwán ocupó el puesto 12 en el informe global de nómadas digitales de 2024, siendo el primero en Asia. Detrás de este ranking no solo están los trabajadores remotos extranjeros que vienen a Taiwán a disfrutar de precios bajos; una gran parte es el ecosistema sostenido por los propios trabajadores independientes y la generación "slash" local.
 
 ---
 
-## Zonas grises: la ley no sigue el ritmo de la realidad
+## Zonas grises: la realidad que la ley no alcanza a cubrir
 
-La Ley Laboral de Taiwán no prohíbe a los empleados tener trabajos secundarios. La postura del Ministerio de Trabajo es que los trabajadores tienen derecho a realizar otras actividades fuera de su horario laboral, y los empleadores no pueden sancionarlos por ello.
+La Ley Laboral de Taiwán no prohíbe que los empleados tengan trabajos secundarios. La postura del Ministerio del Trabajo es que los trabajadores tienen derecho a realizar otros trabajos fuera de su jornada laboral normal, y el empleador no puede sancionarlos por ello.
 
-Suena progresista. Pero la realidad es más compleja que los artículos de la ley.
+Suena progresista. Pero la realidad es más compleja que las leyes escritas.
 
-Muchas empresas incluyen en sus reglamentos internos o contratos laborales cláusulas de «no competencia» o «dedicación exclusiva» que prohíben al empleado realizar otros trabajos remunerados. Aunque la validez legal de estas cláusulas es discutible —la no competencia requiere compensación razonable y un plazo máximo de dos años—, la mayoría de los jóvenes empleados no conocen estos detalles ni se atreven a enfrentarse a la empresa. El resultado: hacen el empleo secundario, pero no se lo dicen a la empresa.
+Muchas reglas internas de las empresas o contratos laborales esconden cláusulas de «no competencia» o de «exclusividad», que exigen a los empleados no realizar otros trabajos remunerados. Aunque legalmente la validez de estas cláusulas es debatible —la prohibición de competencia requiere una compensación razonable y un periodo máximo de dos años—, la mayoría de los jóvenes empleados no conocen estos detalles ni se atreven a confrontar a sus empresas. El resultado es que realizan el trabajo secundario pero no se atreven a decírselo a su empleador.
 
-Otra zona gris es la fiscal. Los ingresos por encargos, reparto o comercio electrónico, en teoría, deben declararse en el impuesto sobre la renta. Pero un gran volumen de transacciones pequeñas —un encargo de diseño de 3.000 TWD, 15.000 TWD extra ganados en un mes de reparto— suelen pasar por debajo del radar del sistema fiscal. No es evasión deliberada: es que el diseño del propio sistema no ha seguido el ritmo de la economía de gigs.
+Otra zona gris es la fiscalidad. Los ingresos por proyectos externos, repartos o comercio electrónico deberían, en teoría, declararse para el impuesto sobre la renta. Sin embargo, una gran cantidad de transacciones pequeñas —un diseño de tres mil TWD, un extra de diez mil TWD tras un mes de repartos— a menudo quedan fuera del radar del sistema de declaración. No es una evasión fiscal deliberada; es que el diseño del sistema no ha seguido el ritmo de la economía de plataformas.
 
-La brecha en protección laboral es aún mayor. La población con empleo atípico en Taiwán fue de 804.000 personas en 2024, el 6,95 % del empleo total. Esta cifra parece baja, pero solo cuenta a quienes tienen su «empleo principal» en modalidades atípicas. Aquellos que de día tienen un empleo fijo y de noche reparten o hacen encargos, su identidad de empleo secundario no aparece en absoluto en las estadísticas laborales. Sin seguro laboral, sin cobertura por accidente laboral, sin cotización para la jubilación. Si sufren un accidente de tráfico repartiendo, el seguro laboral de su empresa principal no los cubre, porque no se considera trayecto de ida o vuelta al trabajo.
+La brecha en la protección laboral es aún mayor. En 2024, la población con empleos no típicos en Taiwán fue de 804.000 personas, lo que representa el 6,95% del total de empleados. Aunque esta cifra parece baja, solo contabiliza a quienes tienen su «trabajo principal» como no típico. Aquellos que tienen un empleo a tiempo completo por la mañana y reparten o aceptan proyectos por la noche no aparecen en las estadísticas laborales para sus actividades secundarias. No tienen seguro médico laboral, ni protección contra accidentes de trabajo, ni aportaciones para la jubilación. Si sufren un accidente mientras reparten, el seguro de su empresa principal no cubrirá el incidente, ya que no se considera parte del trayecto al trabajo o durante la jornada.
 
 ---
 
 ## Los problemas estructurales no se resuelven con esfuerzo individual
 
-Un hecho crudo: el ratio precio de la vivienda-ingresos en Taiwán se disparó un 77 % entre 2012 y 2023, mientras que la mediana salarial solo creció un 14 % en el mismo periodo. Esa brecha no se cierra «con un empleo secundario más».
+Un hecho cruel es que la relación entre el precio de la vivienda y los ingresos en Taiwán subió un 77% entre 2012 y 2023, mientras que en el mismo periodo la mediana salarial solo aumentó un 14%. Esta brecha no se puede cerrar simplemente con «tener un trabajo extra».
 
-La encuesta de 104 revela que el 57 % de la Generación Z tiene un empleo secundario. Esta cifra suele presentarse como «los jóvenes tienen mucha energía» o «ser slash es la nueva tendencia». Pero si se coloca en contexto —más de la mitad de una generación considera que el ingreso de un empleo a tiempo completo no es suficiente para vivir—, no es una tendencia: es una señal de alarma.
+La encuesta de 104 muestra que el 57% de la Generación Z tiene trabajos secundarios. Esta cifra suele presentarse como una señal de que «los jóvenes tienen mucha ambición» o que «el estilo slash es una nueva tendencia». Pero si se analiza en su contexto —cuando más de la mitad de una generación siente que un solo empleo a tiempo completo no es suficiente para mantener su vida—, esto no es una tendencia, sino una señal de alarma.
 
-La industria de IA de Taiwán ha impulsado las exportaciones de semiconductores: las exportaciones de productos electrónicos e informáticos crecieron un 52 % interanual en 2024. Las cifras del PIB lucen bien, y el ingreso per cápita se sitúa en la franja alta de Asia. Pero la DGBAS señala al mismo tiempo que la proporción de asalariados por debajo del salario promedio ha alcanzado un máximo histórico del 69,77 %. Los frutos del crecimiento económico se concentran en cadenas industriales específicas, y la mayoría no recibe su parte.
+La industria de la IA en Taiwán ha impulsado las exportaciones de semiconductores; en 2024, las exportaciones de productos de información electrónica crecieron un 52% anual. Las cifras del PIB son positivas y el ingreso per cápita se sitúa en los niveles superiores de Asia. Sin embargo, la Dirección General de Estadística señala simultáneamente que la proporción de empleados con salarios inferiores al promedio alcanzó un máximo histórico del 69,77%. Los frutos del crecimiento económico están altamente concentrados en cadenas industriales específicas; la mayoría de las personas no reciben su parte proporcional.
 
-Los jóvenes lo ven con claridad. No se quejan: abren la app de reparto. No esperan a que las políticas mejoren: hacen encargos los fines de semana. No depositan esperanzas en comprar una vivienda: calculan cómo sobrevivir.
+Los jóvenes ven la situación con claridad. No se quejan, abren la aplicación de repartos. No esperan a que las políticas mejoren, aceptan proyectos los fines de semana. No ponen sus esperanzas en comprar una casa, sino en calcular cómo sobrevivir.
 
-La historia de la generación slash se reduce, en última instancia, a una operación aritmética: cuando el crecimiento de los ingresos nunca alcanza el ritmo del costo de vida, o aceptas empobrecerte cada vez más, o te conviertes en varias personas a la vez.
+La historia de la generación "slash" es, en última instancia, un problema de aritmética: cuando el ritmo de crecimiento de los ingresos nunca puede alcanzar el costo de vida, o bien aceptas ser cada vez más pobre, o te conviertes en varias personas a la vez.
 
-Los jóvenes taiwaneses eligieron lo segundo. Pero esto no debería celebrarse. Debería tratarse como un problema a resolver.
+Los jóvenes de Taiwán eligieron lo segundo. Pero esto no debería ser alabado; debería tratarse como un problema que requiere una solución estructural.
 
 ---
 
 ## Referencias
 
-1. [DGBAS del Yuan Ejecutivo: Estadísticas de mediana salarial y distribución](https://www.stat.gov.tw/cl.aspx?n=2715) — Mediana del salario regular en 2025: 38.319 TWD
-2. [104 Job Bank: Informe de salarios y beneficios en Taiwán 2025-2026](https://blog.104.com.tw/104data/) — 39 % de trabajadores asalariados con empleo secundario; Generación Z: 57 %
-3. [Plataforma de Información Inmobiliaria del Ministerio del Interior: Estadísticas del ratio precio de la vivienda-ingresos](https://pip.moi.gov.tw/Publicize/Info/E1050) — Ratio en Taipéi: 16,36 veces
-4. [Administración de Seguridad y Salud Ocupacional, Ministerio de Trabajo: Estadísticas de repartidores](https://www.mol.gov.tw/1607/71771/71774/76068/nodelist) — 145.000 repartidores en todo el país en 2022
-5. [Digital Times: Ley de reparto de 2026 fija mínimo de 45 TWD por pedido](https://www.bnext.com.tw/article/89738//taiwan-food-delivery-law-2026) — Aprobación en tercera lectura de la Ley de Protección de los Derechos de los Repartidores
-6. [591 News: Los inquilinos sufren, el alquiler promedio en Taiwán parte de 6.000 TWD](https://news.591.com.tw/news/11622) — Alquiler mensual promedio de un estudio independiente en Taipéi: 14.400 TWD
-7. [The News Lens International: Taiwan's Housing Crisis — Housing Prices Among the Highest Globally](https://international.thenewslens.com/article/182910) — Comparación internacional de precios inmobiliarios y salarios en Taiwán
-8. [Taipei Times: The housing crisis is still pricing out young people (2025)](https://www.taipeitimes.com/News/editorials/archives/2025/05/20/2003837174) — Reportaje en inglés sobre las dificultades de los jóvenes en Taipéi para acceder a la vivienda
-9. [Ketagalan Media: Taiwan Needs to Raise Wages Faster to Protect Its Democracy (2025)](https://ketagalanmedia.com/2025/09/03/taiwan-needs-to-raise-wages-faster-to-protect-its-democracy/) — Impacto del estancamiento salarial en la democracia taiwanesa
-10. [Merit Times: La proporción de empleo atípico en 2024 alcanza un mínimo en 10 años, mientras los trabajadores con empleos secundarios marcan un máximo](https://www.merit-times.com/news/76429) — Estadísticas de empleo atípico de la DGBAS
+1. [Dirección General de Estadística del Directorio Ejecutivo: Estadísticas de mediana y distribución salarial](https://www.stat.gov.tw/cl.aspx?n=2715) — Mediana de salarios regulares en 2025 de 38.319 TWD
+2. [104 Human Resources: Informe de encuesta de salarios y beneficios en la región de Taiwán 2025-2026](https://blog.104.com.tw/104data/) — 39% de los empleados tienen trabajos secundarios, alcanzando el 57% en la Generación Z
+3. [Plataforma de Información Inmobiliaria del Ministerio del Interior: Estadísticas de la relación precio de vivienda e ingresos](https://pip.moi.gov.tw/Publicize/Info/E1050) — Relación de precio de vivienda en Taipéi de 16,36 veces
+4. [Dirección de Seguridad y Salud Ocupacional del Ministerio del Trabajo: Estadísticas del número de repartidores](https://www.mol.gov.tw/1607/71771/71774/76068/nodelist) — En 2022, el número de repartidores en todo el país alcanzó los 145.000
+5. [Era Digital: Ley especial sobre repartos de 2026 establece un mínimo de 45 TWD por pedido](https://www.bnext.com.tw/article/89738//taiwan-food-delivery-law-2026) — Aprobación en tercera lectura de la ley de protección de derechos de los repartidores
+6. [591 News: Los inquilinos sufren, el alquiler promedio en todo Taiwán comienza desde 6.000 TWD](https://news.591.com.tw/news/11622) — Alquiler mensual promedio de un estudio independiente en Taipéi de 14.400 TWD
+7. [The News Lens Edición Internacional: Crisis de vivienda en Taiwán — Precios de la vivienda entre los más altos del mundo](https://international.thenewslens.com/article/182910) — Comparación internacional de precios de vivienda y salarios en Taiwán
+8. [Taipei Times: The housing crisis is still pricing out young people (2025)](https://www.taipeitimes.com/News/editorials/archives/2025/05/20/2003837174) — Reportaje en inglés sobre las dificultades de los jóvenes para comprar vivienda en Taipéi
+9. [Ketagalan Media: Taiwan Needs to Raise Wages Faster to Protect Its Democracy (2025)](https://ketagalanmedia.com/2025/09/03/taiwan-needs-to-raise-wages-faster-to-protect-its-democracy/) — Impacto del estancamiento salarial en la democracia de Taiwán
+10. [Renmin Fubao: La proporción de personas con empleos no típicos alcanzó un mínimo de 10 años en 2024, mientras que el grupo de trabajadores secundarios alcanzó un máximo](https://www.merit-times.com/news/76429) — Estadísticas del Departamento de Estadística sobre empleos no típicos
 
 ---
 
-## Lecturas complementarias
+## Lectura adicional
+
+- [Ley especial sobre repartos](/society/外送專法) — Después de que esa «medida correctiva tardía» entrara en vigor: qué significa el suelo de 45 TWD para las personas reales y las dos cuestiones a las que no respondió.

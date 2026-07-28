@@ -1,317 +1,318 @@
 ---
 title: 'Mouvements sociaux et participation citoyenne'
-description: 'Du mouvement des Lys sauvages au mouvement des Tournesols, comment Taïwan met en pratique la démocratie et fait progresser la société par les mouvements sociaux'
+description: 'Des Lys (Wild Lilies) au Mouvement Tournesol : comment Taïwan pratique la démocratie et favorise le progrès social par les mouvements sociaux'
 date: 2026-03-18
-author: 'Taiwan.md'
 category: 'Society'
-subcategory: '民主與政治'
 tags:
   [
     'mouvements sociaux',
     'participation citoyenne',
     'démocratie',
-    'mouvement étudiant des Lys sauvages',
-    'mouvement des Tournesols',
+    'mouvement Wild Lily',
+    'mouvement Tournesol',
     'réforme sociale',
   ]
+subcategory: '民主與政治'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 12
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
 translatedFrom: 'Society/社會運動與公民參與.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:3135e379b382138b'
-sourceBodyHash: 'sha256:8080c3b51d96ed0a'
-translatedAt: '2026-05-20T05:08:34+08:00'
-difficulty: 'intermediate'
+sourceCommitSha: 'dbaf28954'
+sourceContentHash: 'sha256:31022a8379acbf4e'
+sourceBodyHash: 'sha256:13d4a3545c8fc998'
+translatedAt: '2026-07-28T18:52:03+08:00'
 ---
 
 # Mouvements sociaux et participation citoyenne
 
 ## Aperçu en 30 secondes
 
-Taïwan est une société où les mouvements sociaux sont actifs. Des mobilisations pour la levée de la loi martiale dans les années 1980 au mouvement étudiant des Lys sauvages de 1990, du mouvement des Tournesols de 2014 à la légalisation du mariage entre personnes de même sexe en 2019, les mouvements sociaux ont toujours été une force essentielle de la démocratisation et du progrès social à Taïwan. Les mouvements sociaux taïwanais se caractérisent par leur caractère pacifique et rationnel, leur transmission générationnelle et l’étendue des enjeux abordés, témoignant de la maturité et de la vitalité de la société civile.
+Taïwan est une société où les mouvements sociaux sont particulièrement actifs. De la fin de la loi martiale dans les années 1980 au mouvement Wild Lily (_yěbǎihe_) de 1990, du mouvement Tournesol (_tàiyánghuā_) de 2014 à la légalisation du mariage homosexuel en 2019, les mouvements sociaux ont toujours été une force clé pour la démocratisation et le progrès social de Taïwan. Les mouvements sociaux taïwanais se caractérisent par leur nature pacifique et rationnelle, leur transmission intergénérationnelle et la diversité de leurs thématiques, témoignant de la maturité et de la vitalité de la société civile.
 
-Ces mouvements couvrent la politique, l’environnement, le travail, le genre et d’autres domaines. Ils sont apparus sous des formes différentes selon les époques, mais tous ont laissé des traces institutionnelles concrètes dans le processus démocratique taïwanais.
+Ces mouvements traversent différents domaines — politique, environnemental, ouvrier, genre — et ont émergé sous diverses formes à différentes époques, laissant tous des traces institutionnelles concr'tes dans le processus démocratique de Taïwan.
 
-Les mouvements sociaux à Taïwan se déroulent généralement de manière pacifique, avec relativement peu de conflits violents, une caractéristique assez rare dans l’histoire des mouvements de démocratisation en Asie de l’Est.
+Les mouvements sociaux à Taïwan se déroulent généralement de manière pacifique, avec peu de conflits violents, une caractéristique assez rare dans l'histoire des mouvements de démocratisation en Asie de l'Est.
 
-**Mouvements clés :** mouvement étudiant des Lys sauvages (1990), mouvement des Tournesols (2014), mouvement pour l’égalité matrimoniale, mouvement écologiste, mouvement ouvrier
+**Mouvements clés :** mouvement Wild Lily (1990), mouvement Tournesol (2014), mouvement pour l'égalité du mariage, mouvement écologiste, mouvement ouvrier.
 
-## Pourquoi c’est important
+## Pourquoi est-ce important ?
 
-L’expérience des mouvements sociaux à Taïwan montre les différentes voies par lesquelles les citoyens d’une société démocratique participent à la politique. À la différence des démocraties occidentales établies, les mouvements sociaux taïwanais se sont développés progressivement au cours de la démocratisation : ils en sont à la fois le produit et le moteur de son approfondissement.
+L'expérience des mouvements sociaux à Taïwan illustre les différentes voies de la participation politique au sein d'une société démocratoire. Contrairement aux démocraties occidentales matures, les mouvements sociaux à Taïwan se sont développés progressivement au cours du processus de démocratisation ; ils sont à la fois le produit de la démocratisation et le moteur de son approfondissement.
 
-Pour la communauté internationale, l’expérience taïwanaise offre un cas concret de « transformation démocratique dans un contexte est-asiatique ». Elle montre notamment comment promouvoir des réformes politiques tout en maintenant la stabilité sociale, et comment surveiller l’action gouvernementale par la participation citoyenne. Il n’existe pas de réponse de manuel à cette question : le processus d’expérimentation de Taïwan constitue en lui-même un cas d’étude.
+Pour la communauté internationale, l'expérience taïwanaise offre un cas concret de « comment réaliser une transition démocratique dans un contexte est-asiatique ». Notamment sur la manière de promouvoir des réformes politiques tout en maintenant la stabilité sociale, et comment superviser le gouvernement par la participation citoyenne. Il n'existe pas de réponse toute faite dans les manuels ; le processus d'exploration de Taïwan constitue lui-même l'exemple à suivre.
 
-Dans la vague mondiale de menaces liées à la désinformation et de recul démocratique, la résilience de la société civile taïwanaise attire aussi l’attention des chercheurs internationaux.
+Dans une vague mondiale de désinformation et de recul démocratique, la résilience de la société civile taïwanaise attire également l'attention des chercheurs internationaux.
 
 ## Contexte historique et phases de développement
 
-### Les mouvements d’opposition sous l’autoritarisme (1949-1987)
+### Mouvements d'opposition sous l'ère autoritaire (1949-1987)
 
-Pendant la période de loi martiale, l’espace politique taïwanais était restreint, mais des actions de protestation sporadiques ont néanmoins eu lieu :
+Pendant la période de la loi martiale, bien que l'espace politique fût restreint, des protestations sporadiages ont eu lieu :
 
 **Premières luttes :**
 
-- **Incident de Zhongli (1977) :** manifestation populaire déclenchée par des fraudes électorales
-- **Incident de Formosa (1979) :** le 10 décembre 1979, des personnalités de l’opposition non affiliées au Kuomintang organisèrent un rassemblement politique à Kaohsiung, réprimé par l’armée et la police ; de nombreux militants démocrates furent ensuite arrêtés
-- **Mouvement démocratique sur les campus :** des étudiants revendiquaient l’autonomie universitaire et la liberté d’expression
+- **Affaire de Zhongli (1977) :** Protestations populaires déclenchées par des fraudes électorales.
+- **Affaire de la Belle Île (_Meilidao_) (1979) :** Le 10 décembre 1979, une réunion politique organisée par des opposants à Kaohsiung a été réprimée par les forces militaires et policières, entraînant l'arrestation massive de militants démocrates.
+- **Mouvement démocratique universitaire :** Étudiants luttant pour l'autonomie et la liberté d'expression.
 
-Ces mouvements ont accumulé une expérience organisationnelle et une énergie sociale qui ont nourri la démocratisation ultérieure.
+Ces mouvements ont permis d'accumuler une expérience organisationnelle et une énergie sociale pour la démocratisation ultérieure.
 
-### L’explosion des mouvements sociaux après la levée de la loi martiale (1987-1990)
+### Explosion des mouvements sociaux après la levée de la loi martiale (1987-1990)
 
-Après la levée de la loi martiale, l’énergie sociale jusque-là réprimée a brusquement éclaté, et des mouvements de protestation portant sur des enjeux variés sont apparus les uns après les autres :
+Après la levée de la loi martiale, l'énergie sociale réprimée a explosé, faisant émerger successivement des luttes sur divers sujets :
 
 **Mouvement écologiste :**
 
-- **Mouvement anti-DuPont (1986) :** opposition à l’implantation d’une usine DuPont à Lukang, dans le comté de Changhua[^4]
-- **Mouvement antinucléaire :** demande d’arrêt de la construction de la quatrième centrale nucléaire
-- **Protection des zones humides :** opposition au développement de la zone industrielle de Binnan
+- **Mouvement anti-DuPont (1986) :** Opposition à l'installation d'une usine DuPont à Lukang, Changhua[^4].
+- **Mouvement anti-nucléaire :** Demande de l'arrêt de la construction de la centrale nucléaire de quatrième unité.
+- **Protection des zones humides :** Opposition au développement de la zone industrielle de Binan.
 
 **Mouvement ouvrier :**
 
-- **Incident du 19 mai (1988) :** grève des chauffeurs de bus de Chiayi
-- **Droits des travailleurs :** revendication des trois droits fondamentaux du travail et de la sécurité de l’emploi
+- **Événement du 19 mai (1988) :** Grève des chauffeurs de bus à Chiayi.
+  <0xA0>- **Droits des travailleurs :** Lutte pour les trois droits syndicaux et la protection de l'emploi.
 
 **Mouvement paysan :**
 
-- **Mouvement paysan du 20 mai (1988) :** revendication de politiques de protection agricole
-- **Opposition aux importations de bœuf américain :** protection de l’agriculture locale
+- **Mouvement paysan du 20 mai (1988) :** Revendication de politiques de protection agricole.
+- **Opposition à l'importation de bœuf américain :** Protection de l'agriculture locale.
 
-## Cas majeurs de mouvements sociaux
+## Cas importants de mouvements sociaux
 
-### Mouvement étudiant des Lys sauvages (mars 1990)
+### Mouvement Wild Lily (mars 1990)
 
-**Contexte :** renouvellement à grande échelle du Parlement et réforme du système politique  
-**Ampleur :** environ 5 000 à 6 000 étudiants participants au pic du mouvement  
-**Lieu :** place de la Liberté, mémorial Chiang Kai-shek
+**Contexte :** Réformes majeures du système politique et élections législatives à grande échelle.
+**Ampleur :** Environ 5 000 à 6 000 étudiants participants (au pic).
+**Lieu :** Place de la Liberté, Mémorial Chiang Kai-shek.
 
-Le mouvement étudiant des Lys sauvages fut le premier grand mouvement étudiant de Taïwan et eut une influence majeure sur la démocratisation politique.[^1]
+Le mouvement Wild Lily fut le premier grand mouvement étudiant de Taïwan, ayant un impact majeur sur la démocratation politique.[^1]
 
-**Quatre principales revendications :**
+**Quatre revendications principales :**
 
-1. Dissolution de l’Assemblée nationale
-2. Abolition des dispositions temporaires
-3. Convocation d’une conférence des affaires nationales
-4. Calendrier de réforme démocratique du système politique
+1. Dissolution de l'Assemblée Nationale.
+2. Abolition des dispositions provisoires.
+3. Convocations d'une conférence nationale sur les principes de l'État.
+4. Calendrier de réforme démocratique du système politique.
 
 **Caractéristiques du mouvement :**
 
-- **Pacifique et rationnel :** insistance sur la lutte non violente et maintien de l’ordre sur place
-- **Stratégie médiatique :** usage efficace des médias pour diffuser les revendications
-- **Alliance interuniversitaire :** action coordonnée des étudiants à l’échelle nationale
-- **Participation des intellectuels :** soutien public de professeurs et de chercheurs
+- **Pacifique et rationnel :** Accent mis sur la non-violence et le maintien de l'ordre.
+- **Stratégie médiatique :** Utilisation efficace des médias pour diffuser les revendications.
+- **Alliance interuniversitaire :** Action coordonnée des étudiants de tout le pays.
+  Argentation par les intellectuels : Soutien public des professeurs et chercheurs.
 
-**Signification historique :**  
-Le mouvement des Lys sauvages a directement favorisé la réforme du système politique et accéléré la démocratisation de Taïwan. Après la fin du mouvement, le gouvernement s’est engagé à mener des réformes ; le Parlement a procédé à un renouvellement massif, et des institutions démocratiques comme l’élection présidentielle au suffrage direct ont été progressivement établies.
+**Signification historique :**
+Le mouvement Wild Lily a directement impulsé la réforme du système politique, accélérant le processus de démocratisation de Taïwan. À l'issue du mouvement, le gouvernement s'est engagé dans des réformes, entraînant des élections législatives massives et l'établissement de systèmes tels que l'élection directe du président.
 
-### Mouvement des Tournesols (mars 2014)
+### Mouvement Tournesol (mars 2014)
 
-**Contexte :** opposition à l’opacité de la procédure concernant l’accord sur le commerce des services avec la Chine  
-**Ampleur :** selon les organisateurs, environ 500 000 participants au pic du mouvement  
-**Lieux :** hémicycle du Yuan législatif, Yuan exécutif, place de la Liberté
+**Contexte :** Opposition à l'opacité des négociations de l'accord de commerce transfrontalier (CSSTA).
+**Ampleur :** Les organisateurs estiment à environ 500 000 le nombre de participants au pic du mouvement.
+**Lieu :** Salle de session du Yuan législatif, Yuan exécutif, Place de la Liberté.
 
-Le mouvement des Tournesols fut le plus grand mouvement social après la démocratisation de Taïwan. Il a manifesté l’attention portée par la nouvelle génération à la qualité de la démocratie et à la subjectivité taïwanaise.[^2]
+Le mouvement Tournesol fut le plus grand mouvement social de l'ère démocratique à Taïwan, illustrant l'intérêt de la nouvelle génération pour la qualité de la démocratie et l'identité taïwanaise.[^2]
 
 **Revendications centrales :**
 
-1. Retrait de l’accord sur le commerce des services
-2. Mise en place d’un mécanisme de supervision des accords entre les deux rives du détroit
-3. Convocation d’une conférence constitutionnelle citoyenne
-4. Justice procédurale et gouvernance transparente
+1. Retrait de l'accord de commerce transfrontalier.
+2. Création d'un mécanisme de supervision des accords inter-détroit.
+3. Convocation d'une assemblée citoyenne sur la constitution.
+4. Justice procédurale et gouvernance transparente.
 
 **Caractéristiques du mouvement :**
 
-- **Occupation du Yuan législatif :** première occupation de l’hémicycle parlementaire
-- **Mobilisation en ligne :** usage intensif des réseaux sociaux et de la diffusion en direct
-- **Participation générationnelle :** étudiants comme acteurs principaux, avec un soutien intergénérationnel
-- **Attention internationale :** large couverture par les médias internationaux
+- **Occupation du Yuan législatif :** Première action d'occupation de la salle de session parlementaire.
+- **Mobilisation numérique :** Utilisation intensive des réseaux sociaux et du streaming en direct.
+- **Participation générationnelle :** Mené par les étudiants, avec un soutien intergénérationnel.
+- **Attention internationale :** Large couverture par les médias mondiaux.
 
 **Impact social :**
 
-- **Impact politique :** influence sur les élections locales de 2014 et l’élection présidentielle de 2016
-- **Conscience citoyenne :** hausse de la participation politique des jeunes générations
-- **Approfondissement démocratique :** promotion de la transparence de l’information gouvernementale et des mécanismes de participation citoyenne
+- **Impact politique :** A influencé les élections locales de 2014 et l'élection présidentielle de 2016.
+- **Conscience citoyenne :** Augmentation de la participation politique des jeunes générations.
+- **Approfondissement démocratique :** Promotion de la transparence de l'information gouvernementale et des mécanismes de participation citoyenne.
 
-### Mouvement pour l’égalité matrimoniale (2013-2019)
+### Mouvement pour l'égalité du mariage (2013-2019)
 
-**Enjeu :** obtenir la légalisation du mariage entre personnes de même sexe  
-**Événements clés :** interprétation constitutionnelle par les grands juges, référendum, législation
+**Sujet :** Lutte pour la légalisation du mariage homosexuel.
+**Événements clés :** Interprétation constitutionnelle par les juges, référendum, législation.
 
-Après des années d’efforts, le mouvement pour l’égalité matrimoniale à Taïwan a conduit en 2019 à faire de Taïwan le premier territoire d’Asie à légaliser le mariage entre personnes de même sexe.
+Après des années d'efforts, le mouvement pour l'égalité du mariage a abouti en 2019, faisant de Taïwan la première région d'Asie à légaliser le mariage homosexuel.
 
-**Déroulement du mouvement :**
+**Parcours du mouvement :**
 
-En 2013, des législateurs ont présenté un projet de loi pour l’égalité matrimoniale. En 2016, des dizaines de milliers de personnes sont descendues sur Ketagalan Boulevard pour soutenir le mariage entre personnes de même sexe, plaçant la question au centre du débat national. En 2017, l’interprétation n° 748 des grands juges a déclaré la législation en vigueur inconstitutionnelle[^5], créant une base constitutionnelle pour la législation.
+En 2013, des législateurs ont proposé un projet de loi sur l'égalité du mariage. En 2016, des dizontaines de milliers de personnes ont défilé sur Ketagalan Boulevard pour soutenir le mariage pour tous, plaçant le sujet au cœur de l'attention nationale. En 2017, l'interprétation n°748 de la Cour constitutionnelle a déclaré les lois existantes inconstitutionnelles[^5], créant ainsi une base juridique pour la législation.
 
-- **2018 :** défaite du camp favorable au mariage pour tous lors du référendum
-- **2019 :** adoption de la Loi d’application de l’interprétation n° 748 du Yuan judiciaire
+- **2018 :** Échec des partisans du mariage pour tous lors du référendum.
+- **2019 :** Adoption de la « Loi sur l'exécution de l'interprétation n°748 du Yuan judiciaire ».
 
 **Stratégies du mouvement :**
 
-- **Voie juridique :** action par la législation et les recours judiciaires
-- **Éducation sociale :** communication et pédagogie de long terme auprès de la société
-- **Liens internationaux :** coopération avec des organisations internationales de défense des droits humains
-- **Pluralité des voix :** association de soutiens issus de milieux différents
+- **Voie juridique :** Utilisation de la législation et des recours judiciaages.
+- **Éducation sociale :** Communication et éducation sociale à long terme.
+- **Connexion internationale :** Collaboration avec les organisations internationales des droits de l'homme.
+- **Diversité des voix :** Union de partisans issus de divers horizons.
 
-**Signification historique :**  
-Taïwan est devenu le premier territoire d’Asie à légaliser le mariage entre personnes de même sexe, illustrant les valeurs progressistes de la société taïwanaise et sa protection des droits humains.[^3]
+**Signification historique :**
+Taïwan est devenu la première région d'Asie à légaliser le mariage homosexuel, démontrant les valeurs progressistes et la protection des droits de l'homme dans la société taïwanaise.[^3]
 
 ## Développement du mouvement écologiste
 
-Le mouvement écologiste taïwanais a commencé dans les années 1980 par des luttes contre les nuisances industrielles, puis s’est rapidement élargi après la levée de la loi martiale pour devenir une force citoyenne couvrant la conservation, l’antinucléaire et les enjeux climatiques.
+Le mouvement écologiste à Taïwan a débuté dans les années 1980 par des luttes contre les nuisances environnementales, avant de s'étendre rapidement après la levée de la loi martiale pour devenir une force citoyenne couvrant la conservation, l'anti-nucléaire et le climat.
 
-### Premiers mouvements écologistes (années 1980-1990)
+### Mouvements écologistes précoces (années 1980-1990)
 
-Après la levée de la loi martiale dans les années 1980, les enjeux environnementaux sont devenus l’un des premiers terrains de mobilisation de la société civile taïwanaise. En 1986, les habitants de Lukang, dans le comté de Changhua, ont réussi à empêcher l’entreprise américaine DuPont d’y implanter une usine. Ce fut le premier mouvement anti-pollution victorieux pour des motifs environnementaux à Taïwan, établissant un consensus social selon lequel les citoyens ont le droit de résister aux industries nocives. Le mouvement antinucléaire et les actions de conservation, comme le sauvetage de la forêt de cyprès de Qilan, ont également progressé durant la même période.
+Après la fin de la loi martiale dans les années 1980, les questions environnementales sont devenues l'un des premiers terrains de lutte de la société civile taïwanaise. En 1986, les résidents de Lukang (Changhua) ont réussi à empêcher l'installation d'une usine DuPont, marquant la première victoire d'un mouvement anti-pollution basé sur des motifs environnementaux à Taïwan, établissant le consensus social selon lequel les citoyens ont le droit de s'opposer à une industrie nocive. Les actions de conservation, telles que le mouvement anti-nucléaire et la sauvegarde des forêts de cyprès de _shilan_, progressaient également durant cette période.
 
-### Mouvement écologiste contemporain
+### Mouvements écologistes modernes
 
-Le centre de gravité du mouvement écologiste contemporain s’est déplacé des luttes anti-pollution vers le changement climatique, la transition énergétique et la justice environnementale. Les discussions de 2025 sur les énergies renouvelables et les débats sur la politique électrique portent eux aussi la marque de la participation des mouvements citoyens.
+Le centre de gravité du mouvement écologique contemporain est passé de la lutte contre les nuisances à la lutte contre le changement climatique, la transition énergétique et la justice environnementale. Les débats de 2025 sur les énergies renouvelables et les politiques énergétiques portent également les traces de la participation citoyenne.
 
 ## Mouvement ouvrier et droits sociaux
 
-Les enjeux du travail figurent parmi les premiers domaines de mobilisation de la société civile taïwanaise après la levée de la loi martiale. Les revendications vont du droit fondamental d’organisation à la protection du temps de travail et au salaire minimum, couvrant les besoins de différentes générations de travailleurs.
+Les questions ouvrières ont été l'un des premiers domaines de mobilisation de la société civile après la levée de la loi martiale, couvrant des revendications allant du droit syndical fondamental à la protection du temps de travail et au salaire minimum, répondant aux besoins des travailleurs de différentes générations.
 
-La mise en œuvre effective de l’organisation syndicale et du droit de grève n’a obtenu un appui juridique progressif qu’après les vagues de protestation des années 1980 et 1990.
+La mise en œuvre effective de l'organisation syndicale et du droit de grève n'a été soutenue par la loi qu'après les vagues de protestations des années 1980-1990.
 
 ### Mouvement pour les droits des travailleurs
 
-Le mouvement ouvrier taïwanais est parti de la revendication du droit le plus élémentaire d’organisation, puis a commencé à accumuler de l’énergie à la fin des années 1980. Les luttes des ouvriers du textile de Hualon, les actions des travailleurs d’usines fermées pour obtenir indemnités de licenciement et pensions de retraite, ainsi que les grèves du personnel navigant commercial dans l’aviation après 2016, sont autant de cas importants ayant laissé des effets concrets. Les longues tensions autour de la réforme du temps de travail ont finalement conduit à la mise en œuvre en 2018 du système dit « un jour fixe et un jour flexible » de repos hebdomadaire.
+Le mouvement ouvrier taïwanais a commencé par la lutte pour le droit syndical le plus élémentaire, accumulant de l'énergie à partir de la fin des années 1980. Les luttes des ouvriers du textile de Hualong, les travailleurs d'usines fermées réclamant indemnités de licenciement et retraites, ainsi que les grèves des agents de bord après 2016, sont des exemples marquants de l'influence du mouvement ouvrier. Les tensions de longue date sur la réforme du temps de travail ont finalement conduit à la mise en œuvre du système de repos hebdomadaire unique en 2018.
 
 ### Mouvements ouvriers importants
 
-- **Incident de Hualon :** lutte des ouvriers du textile
-- **Mouvement des travailleurs d’usines fermées :** revendication d’indemnités de licenciement et de pensions de retraite
-- **Grèves du personnel navigant commercial :** revendication d’amélioration des conditions de travail
+- **Affaire Hualong :** Lutte des travailleurs du textile.
+- **Mouvement des travailleurs d'usines fermées :** Revendication d'indemnités et de retraites.
+- **Grève des agents de bord :** Amélioration des conditions de travail.
 
 ## Caractéristiques et modèles des mouvements sociaux
 
-### Caractéristiques des mouvements sociaux taïwanais
+### Caractéristiques des mouvements sociaux à Taïwan
 
-**1. Caractère pacifique et rationnel**  
-Les mouvements sociaux taïwanais adoptent le plus souvent des formes de protestation pacifiques, avec relativement peu de conflits violents intenses. Les participants attachent de l’importance au « discours rationnel » et à « l’expression pacifique », une culture qui contribue au maintien de la stabilité sociale.
+**1. Pacifique et rationnel**
+Les mouvements sociaux à Taïlar adoptent majoritairement des modes de protestation pacifiques, avec peu de conflits violents intenses. Les participants privilégient le « discours rationnel » et l'« expression pacifique », une culture qui aide à maintenir la stabilité sociale.
 
-**2. Transmission générationnelle**  
-De la génération des Lys sauvages à celle des Tournesols, les mouvements sociaux taïwanais présentent une transmission générationnelle nette. L’expérience et les idées des militants plus âgés se transmettent aux jeunes générations, assurant la continuité d’une culture militante.
+**2. Transmission intergénérationnelle**
+De la génération Wild Lily à la génération Tournesol, les mouvements sociaux taïwanais présentent une nette caractéristique de transmission entre générations. L'expérience et les idéaux des anciens militants sont transmis aux jeunes générations, assurant la continuité de la culture militante.
 
-**3. Diversification des enjeux**  
-Les mouvements sociaux taïwanais couvrent la politique, l’environnement, le travail, le genre, les droits humains et de nombreux autres sujets, reflétant la diversité des besoins et préoccupations de la société civile.
+**3. Diversité des thématiques**
+Les mouvements sociaux couvrent une multitude de sujets — politique, environnement, travail, genre, droits de l'homme — reflétant la diversité des besoins et préoccupations de la société civile.
 
-**4. Traits de l’ère numérique**  
-Les mouvements sociaux de la nouvelle génération exploitent pleinement Internet et les réseaux sociaux pour mobiliser, communiquer et formuler leurs discours, révélant les caractéristiques des mobilisations à l’ère numérique.
+**4. Caractéristiques de l'ère numérique**
+Les nouveaux mouvements sociaux utilisent pleinement Internet et les réseaux sociaux pour la mobilisation, la communication et le plaidoyer, illustrant les spécificités des mouvements à l'ère digitale.
 
-### Modèles d’organisation et stratégies de mobilisation
+### Modèles d'organisation et stratégies de mobilisation
 
-**Rôle des ONG :** les organisations non gouvernementales soutiennent l’énergie des causes par un plaidoyer professionnel et un travail de long terme  
-**Organisations étudiantes :** les associations étudiantes universitaires constituent une base importante de nombreux mouvements sociaux  
-**Coalitions transversales :** différents groupes forment des alliances autour d’enjeux spécifiques  
-**Stratégies médiatiques :** usage efficace des médias traditionnels et des nouveaux médias pour diffuser l’information
+**Rôle des ONG :** Les organisations non gouvernementales soutiennent les enjeux par un plaidoyer professionnel et une action à long terme.
+**Organisations étudiantes :** Les clubs universitaires constituent la base de nombreux mouvements sociaux.
+**Alliances transdisciplinaires :** Divers groupes forment des coalitions sur des sujets spécifiques.
+**Stratégie médiatique :** Utilisation efficace des médias traditionnels et nouveaux pour diffuser les messages.
 
-## Relations entre mouvements sociaux et politique
+## Relation entre mouvements sociaux et politique
 
-Il existe une relation de symbiose subtile entre les mouvements sociaux taïwanais et la politique électorale : les mouvements créent une pression sur les enjeux, les partis absorbent des voix, puis les institutions s’ajustent.
+Il existe une relation symbiotique subtile entre les mouvements sociaux et la politique électorale à Taïwan : les mouvements créent une pression thématique, les partis politiques absorbent les voix, et les institutions s'ajustent en conséquence.
 
-### Influence sur la politique
+### Impact sur la politique
 
-L’influence des mouvements sociaux sur la politique taïwanaise ne se réduit pas à une clameur de rue passagère ; elle se transforme à répétition en résultats concrets dans la législation et les élections. Les élections locales de 2014 après le mouvement des Tournesols, ainsi que les mobilisations pour et contre le référendum sur l’égalité matrimoniale, montrent clairement comment les mouvements sociaux influencent les stratégies partisanes et la structure électorale.
+L'impact des mouvements sociaux sur la politique taïwanaise n'est pas un simple écho éphémère dans la rue, mais se transforme de manière répétée en résultats législatifs et électoraux concrets. Les élections locales de 2014 après le mouvement Tournesol, ou les mobilisations pour et contre le référendum sur l'égalité du mariage, montrent clairement comment les mouvements sociaux influencent les stratégies partisanes et la structure des votes.
 
 ### Participation institutionnalisée
 
-La participation citoyenne tend progressivement à s’institutionnaliser. Le gouvernement organise des auditions publiques avant les grandes décisions de politique publique, et le système référendaire permet aux citoyens de voter directement sur certains enjeux. Ces mécanismes ne sont pas parfaits, mais ils offrent aux mouvements de rue des voies formelles d’entrée dans le système institutionnel.
+La participation citoyenne tend à s'institutionnaliser. Le gouvernement organise des audiences publiques avant les décisions politiques majeures, et le système de référendum permet aux citoyens de voter directement sur des sujets spécifiques. Bien que ces mécanismes ne soient pas parfaits, ils offrent des canaux formels pour que les mouvements de rue pénètrent dans l'institutionnel.
 
 ## Maturation de la société civile
 
 ### Développement des ONG
 
-Taïwan possède un réseau actif d’organisations non gouvernementales couvrant les droits humains, l’environnement, le genre, le travail et de nombreux autres domaines. Des organisations comme l’Association taïwanaise pour les droits humains, la Fondation pour la réforme judiciaire, l’Alliance verte d’action citoyenne, la Fondation Awakening, la Taiwan Tongzhi Hotline Association et le Taiwan Labor Front ont chacune construit dans leur domaine une capacité de plaidoyer de long terme, constituant la base organisationnelle qui permet aux mouvements sociaux de se maintenir.
+Taïwan possède un réseau d'ONG très actif couvrant les droits de l'homme, l'environnement, le genre et le travail. Des organisations telles que la Fondation pour la promotion des droits de l'homme à Taïwan, la Fondation pour la réforme judiciaire, l'Alliance pour l'action citoyenne verte, la Fondation Women's New Knowledge, la ligne d'assistance pour les droits des homosexuels de Taïwan et le Front ouvrier de Taïwan établissent chacune une force de plaidoyer à long terme, constituant le socle organisationnel qui permet aux mouvements sociaux de perdurer.
 
-### Culture de la participation citoyenne
+### Culture de participation citoyenne
 
-Les formes de participation citoyenne à Taïwan dépassent désormais la protestation de rue. La culture du bénévolat, les entreprises sociales, le financement participatif et les plateformes en ligne de discussion des politiques publiques, comme vTaiwan, composent ensemble l’écosystème de la participation citoyenne à l’ère numérique, permettant à davantage de personnes de trouver une place pour agir à l’intérieur comme à l’extérieur des institutions.
+Les formes de participation citoyenne à Taïwan dépassent la protestation de rue. La culture du bénévolat, l'entreprise sociale, le financement participatif et les plateformes de discussion politique en ligne (comme vTaiwan) constituent ensemble un écosystème de participation citoyenne à l'ère numérique, permettant à davantage de personnes de trouver une place d'action, tant à l'intérieur qu'à l'extérieur des institutions.
 
 ## Défis et réflexions
 
-La vitalité de la société civile taïwanaise est manifeste, mais elle fait aussi face à plusieurs difficultés structurelles qui méritent d’être prises au sérieux.
+La vitalité de la société civile taïwanaise est indéniable, mais elle fait face à plusieurs dilemmes structurels qui méritent une attention sérieuse.
 
 ### Défis actuels
 
-La prolifération de la désinformation et l’effet de chambre d’écho tendent à polariser les discussions publiques. Les différentes générations divergent nettement sur « ce qui constitue une bonne manière de participer », tandis que les clivages politiques entre camp bleu et camp vert contraignent certains mouvements sociaux à prendre parti, rendant difficile le maintien d’une position transpartisane. Préserver l’indépendance des mouvements citoyens dans l’étau de la politique partisane demeure un défi constant pour la société civile taïwanaise.
+La prolifération de la désinformation et l'effet « chambre d'écho » tendent à polariser les débats. Il existe des divergences marquées entre les générations sur ce que constitue une « méthode de participation correcte », et les clivages politiques traditionnels (Bleu vs Vert) forcent parfois certains mouvements sociaux à prendre parti, rendant difficile le maintien d'une position transpartisane. Comment préserver l'indépendance des mouvements citoyens au sein des fractures de la politique partisane reste un défi permanent pour la société civile taïwanaise.
 
-### Développement futur
+### Développements futurs
 
-Les plateformes de participation numérique, les alliances stratégiques entre causes et les liens avec la société civile internationale figurent parmi les directions possibles des mouvements sociaux taïwanais. L’équilibre entre innovation institutionnelle et mobilisation de rue reste en cours d’exploration.
+Les plateformes de participation numérique, les alliances stratégiques inter-thématiques et les liens avec la société civile internationale sont autant de directions possibles pour les mouvements sociaux à Taïwan. L'équilibre à trouver entre innovation institutionnelle et mobilisation de rue est encore en cours de définition.
 
 ## Comparaisons internationales et spécificités
 
 ### Contexte est-asiatique
 
-Comparés aux mouvements sociaux plus introspectifs du Japon ou aux luttes plus radicalisées de la Corée du Sud, les mouvements sociaux taïwanais présentent des caractéristiques rationnelles et modérées, tout en produisant des effets visibles.
+Comparés aux mouvements sociaux plus introvertis du Japon ou aux protestations plus radicales de la Corée du Sud, les mouvements sociaux taïwanais présentent une caractéristique de modération rationnelle tout en produisant des résultats visibles.
 
 ### Expérience de démocratisation
 
-L’expérience des mouvements sociaux taïwanais offre un cas important de « transition démocratique graduelle », montrant comment réaliser des réformes politiques tout en maintenant la stabilité sociale.
+L'expérience de Taïwan offre un cas important de « transition démocratique progressive », démontrant comment réaliser des réformes politiques tout en maintenant la stabilité sociale.
 
 ### Influence sur Hong Kong
 
-L’expérience des mouvements sociaux taïwanais a exercé une influence importante sur Occupy Central, le mouvement des Parapluies et d’autres mobilisations à Hong Kong, montrant la possibilité d’une pratique démocratique dans les sociétés chinoises.
+L'expérience des mouvements sociaux de Taïwan a eu une influence importante sur les mouvements de la Place Fin l'Occidentale (_占中_) et des Parapluies à Hong Kong, illustrant la possibilité pour la société chinoise de pratiquer la démocratie.
 
 ## Signification culturelle des mouvements sociaux
 
 ### Formation de la conscience citoyenne
 
-Les mouvements sociaux sont une voie importante d’éducation civique. Par leur participation, les citoyens apprennent les valeurs démocratiques, la participation publique et la responsabilité sociale.
+Les mouvements sociaux sont un vecteur essentiel d'éducation civique ; par leur participation, les citoyens apprennent les valeurs démocratiques, l'engagement public et la responsabilité sociale.
 
 ### Débat sur les valeurs sociales
 
-Les mouvements sociaux favorisent la discussion et la réflexion collectives sur différentes valeurs, contribuant au renouvellement et au progrès des valeurs sociales.
+Les mouvements sociaux encouragent le débat et la réflexion de la société sur différentes valeurs, poussant à l'actualisation et au progrès des valeurs sociales.
 
 ### Approfondissement de la culture démocratique
 
-À travers les mouvements sociaux, la société taïwanaise a façonné une culture démocratique fondée sur le « respect de la pluralité », le « débat rationnel » et « l’expression pacifique ».
+À travers les mouvements sociaux, la société taïwanaise façonne une culture démocratique basée sur le « respect de la diversité », le « débat rationnel » et l'« expression pacifique ».
 
 ## Enseignements pour les observateurs étrangers
 
 ### Diversité des pratiques démocratiques
 
-L’expérience taïwanaise montre que la pratique démocratique peut prendre différentes formes et suivre différentes trajectoires, sans devoir imiter entièrement les modèles occidentaux.
+L'expérience de Taïwan montre que les pratiques démocratiques peuvent prendre différentes formes et voies, sans avoir à imiter intégralement le modèle occidental.
 
 ### Fonction positive des mouvements sociaux
 
-Dans une société démocratique mature, les mouvements sociaux constituent une forme saine de participation politique, permettant au système démocratique de s’autocorriger et de s’approfondir.
+Dans une société démocratique mature, les mouvements sociaux sont un mode sain de participation politique, permettant au système démocratique de s'autocorriger et de s'approfondir.
 
 ### Importance de la société civile
 
-Une société civile forte est une base importante de la consolidation démocratique. Elle exige une culture civique développée sur le long terme et un soutien institutionnel.
+Une société civile forte est le fondement essentiel de la consolidation démocratique ; elle nécessite un développement culturel et un soutien institutionnel à long terme.
 
-## Pour aller plus loin
+## Réflexion étendue
 
-L’expérience des mouvements sociaux à Taïwan montre comment une société peut réaliser sa propre réforme et son progrès par la participation citoyenne. Cette expérience offre des repères profonds pour comprendre le fonctionnement des sociétés démocratiques modernes et la manière de rechercher un consensus dans des sociétés pluralistes.
+L'expérience des mouvements sociaux à Taïwan démontre comment une société peut réaliser sa propre réforme et son progrès par la participation citoyenne. Cette expérience offre une référence profonde pour comprendre les mécanismes de fonctionnement des sociétés démocratiques modernes et la recherche de consensus dans des sociétés pluralistes.
 
-À l’avenir, les mouvements sociaux taïwanais feront face à de nouveaux défis liés à l’ère numérique, à la mondialisation et à la polarisation politique. La manière dont ils maintiendront leur pouvoir de conviction et leur légitimité dans un environnement changeant mérite une observation de long terme.
+À l'avenir, les mouvements sociaux de Taïwan devront faire face à de nouveaux défis tels que l'ère numérique, la mondialisation et la polarisation politique. La capacité à maintenir la force de persuasion et la légitimité des mouvements dans un environnement changeant mérite une observation prolongée.
 
-**Lectures complémentaires** :
+**Lectures complémentaires :**
 
-- [The Reporter : dix ans pour sauver le journalisme d’enquête comme bien public plutôt que ligne d’activité commerciale](/fr/society/the-reporter-investigative-journalism) — depuis 2015, la société civile taïwanaise utilise les prélèvements mensuels de personnes inconnues pour faire passer le journalisme d’enquête du statut d’activité commerciale des médias à celui de bien public
-- [justfont et le développement des polices de caractères à Taïwan : brève histoire typographique, de vingt-cinq ans de DynaComware aux soixante-seize minutes de Jinxuan](/fr/technology/justfont-and-taiwan-typography) — autre cas, la même année, où le financement participatif a transformé la perception culturelle, en prolongeant le récit de la société civile du point de vue de l’infrastructure typographique
-- [Câbles sous-marins : visibles au sommet du bouclier de silicium, invisibles sous les lignes vitales](/fr/technology/submarine-cables-taiwan-lifeline) — la législation des sept lois sur les câbles sous-marins, la plateforme de défense conjointe de Pingtung et le premier précédent judiciaire du Hong Tai 58 montrent l’axe par lequel la pression de la société civile pousse la législation sur les infrastructures de sécurité nationale
+- [The Reporter : Dix ans pour sauver le journalisme d'enquête du modèle commercial au bien public](/fr/society/the-reporter-investigative-journalism) — Depuis 2015, la société civile taïwanaise utilise le système de prélèvement mensuel par des inconnus pour transformer le journalisme d'enquête en un bien public.
+- [justfont et l'évolution de la typographie à Taïwan : une petite histoire des polices, de l'an 25 de Huashan à 76 minutes de Jinxian](/fr/technology/justfont-and-taiwan-typography) — Un autre exemple de financement participatif modifiant la perception culturelle, étendant le récit de la société civile sous l'angle des infrastructures typographiques.
+- [Câbles sous-marins : visibles au sommet du bouclier de silicium, invisibles dans les artères vitales](/fr/technology/submarine-cables-taiwan-lifeline) — La législation sur les câbles sous-marins, la plateforme de défense de Pingtung et le premier cas judiciaire de Hongtai n°5 illustrent l'axe par lequel la pression de la société civile pousse à la législation des infrastructures de sécurité nationale.
+- [Grande destitution](/fr/history/great-recall-movement-2024) — Des « Oiseaux Bleus » aux groupes de destitution, l'image de la mobilisation générationnelle lors de la plus grande vague de destitutions de 2025 et la traduction institutionnelle de l'énergie de la rue.
 
-[^1]: Ho Ming-sho, « Documents historiques sur le mouvement étudiant des Lys sauvages », dans _Génération des mouvements étudiants : des Lys sauvages aux Tournesols_, https://www.books.com.tw/products/0010642379
+[^1]: He Ming-xiu, 〈Documents historiques du mouvement Wild Lily〉, inclus dans _Génération des mouvements sociaux : de Wild Lily au Tournesol_, https://www.books.com.tw/products/0010642379
 
-[^2]: Hsiao Hsin-huang (dir.), _Les nouveaux mouvements sociaux de Taïwan_, Chuliu Book, https://www.books.com.tw/products/0010479654
+[^2]: Hsiao Hsin-huang (éd.), _Les nouveaux mouvements sociaux à Taïwan_, Ju Liu Books, https://www.books.com.tw/products/0010479654
 
-[^3]: Yuan judiciaire, « Loi d’application de l’interprétation n° 748 », https://cons.judicial.gov.tw/
+[^3]: Yuan Judiciaire, 〈Loi sur l'exécution de l'interprétation n°748〉, https://cons.judicial.gov.tw/
 
-[^4]: Taiwan Environmental Information Association, « Déroulement de l’incident anti-DuPont », https://e-info.org.tw/
+[^4]: Taiwan Environmental Information Network, 〈L'histoire complète de l'affaire anti-DuPont〉, https://e-info.org.tw/
 
-[^5]: Yuan judiciaire, « Interprétation n° 748 des grands juges », https://cons.judicial.gov.tw/
+[^5]: Yuan Judiciaire, 〈Interprétation n°748 des juges constitutionnels〉, https://cons.judicial.gov.tw/
 
 ## Références
 
-- Ho Ming-sho, _[Introduction aux mouvements sociaux](https://www.books.com.tw/products/0010294565)_
-- Hsiao Hsin-huang, _[Les nouveaux mouvements sociaux de Taïwan](https://www.books.com.tw/products/0010479654)_
-- Lin Chia-lung et Zheng Yongnian (dir.), _[Transition et consolidation démocratiques](https://www.books.com.tw/products/0010008479)_
-- _[Génération des mouvements étudiants : des Lys sauvages aux Tournesols](https://www.books.com.tw/products/0010642379)_
-- Sites officiels de divers groupes de mouvements sociaux et documentaires connexes
+- He Ming-xiu, [Introduction aux mouvements sociaux](https://www.books.com.tw/products/0010294565)
+- Hsiao Hsin-huang, [Les nouveaux mouvements sociaux à Taïwan](https://www.books.com.tw/products/0010479654)
+- Lin Chia-lung, Cheng Yung-nien (éd.), [Transition et consolidation démocratiques](https://www.books.com.tw/products/0010008479)
+- _Génération des mouvements sociaux : de Wild Lily au Tournesol_ https://www.books.com.tw/products/0010642379
+- Sites officiels des divers groupes de mouvements sociaux et documentaires associés.

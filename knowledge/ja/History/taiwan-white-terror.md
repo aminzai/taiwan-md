@@ -2,6 +2,7 @@
 title: "Taiwan's White Terror"
 description: "The 38-year martial law was not maintained by a few thousand secret agents, but by the 'joint liability guarantee' system where every family in Taiwan had to mutually guarantee each other to work, enroll in school, or marry. Chen Chih-hsiung, Shih Shui-huan, Gao Yi-sheng, and Bo Yang—four names, four reasons for arrest, one common machine."
 date: 2026-04-05
+category: 'History'
 tags:
   [
     'History',
@@ -14,16 +15,15 @@ tags:
   ]
 subcategory: 'Post-War and Authoritarian'
 author: 'Taiwan.md'
-category: 'History'
-readingTime: 11
+featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
+readingTime: 11
 translatedFrom: 'History/台灣白色恐怖.md'
-sourceCommitSha: '6c2f8ea8d'
-sourceContentHash: 'sha256:2745e3b13be3485d'
-sourceBodyHash: 'sha256:c81706526bb2277b'
-translatedAt: '2026-06-09T02:46:20+08:00'
-featured: true
+sourceCommitSha: '710263a86'
+sourceContentHash: 'sha256:bc916494357a8d5d'
+sourceBodyHash: 'sha256:cbfe5f14ffa2e661'
+translatedAt: '2026-07-28T10:31:01.688048+00:00'
 ---
 
 # Taiwan's White Terror
@@ -155,28 +155,29 @@ On World Human Rights Day in 2013, Gao Yi-sheng's son, Gao Ying-jie, donated the
 
 ---
 
-## Why This History Has Not Ended
+## なぜこの歴史はまだ終わっていないのか
 
-It is easy to say "White Terror is over." Martial law was lifted in 1987, the Regulations for Punishing Rebellion were abolished in 1991, the Compensation Foundation was established in 1995, and the Transitioning Justice Commission started in 2018. The state machine has not killed for 38 years.
+「白色恐怖はすでに過去のものだ」と言うのは簡単です。1987年の解厳、1991年の懲治叛乱条例廃止、1995年の補償財団設立、2018年の転型正義推進委員会（促進会）発足、国家機関が人を殺さなくなってからすでに38年が経ちます。
 
-But open the family history of any Taiwanese born in the 1950s-1980s, flip to the pages about their parents, and the word "guarantee" often appears, followed by a pause. His uncle refused to guarantee; his neighbor once guaranteed; his grandfather almost lost his job because he had no guarantor. That pause is where White Terror has not ended.
+しかし、1950年代から80年代に生まれた台湾人の家族史を開き、その親の世代のページをめくると、「作保（保証人になること）」という二文字が頻繁に現れ、そこで一瞬立ち止まります。叔父が作保を拒否し、隣人がかつて作保を引き受け、外祖父が保証人がいなかったために解雇されそうになった。その立ち止まりこそが、白色恐怖がまだ終わっていない場所なのです。
 
-Chen Chih-hsiung was executed at Matanching in 1963. Gao Yi-sheng was executed in Taipei in 1954. Shih Shui-huan was executed in Taipei in 1956. Their families spent half a century before daring to publicly speak these names. Taiwan's Transition Justice revoked 5,983 guilty verdicts, [^3] established memorial parks, and built memorial steles.
+陳智雄（ちん・ちゆう／チェン・チーシオン）は1963年に馬場町（ばばちょう）で銃殺された。高一生（こう・いっせい／ガオ・イーシェン）は1954年に台北で銃殺された。施水環（し・すいかん／シー・シュイホワン）は1956年に台北で銃殺された。彼らの家族がこれらの名前を公に語れるようになるまで、半世紀を要した。台湾の転型正義により5,983件の有罪判決が取り消され[^3]、記念園区が設けられ、記念碑が建てられた。
 
-But the descendants of the 5,000 university campus informants still live, work, and vote in Taiwan. What their fathers or grandfathers did, there is no de-Bonapartization law requiring them to clarify. [^6] The so-called "past" has never been publicly reconciled.
+しかし、あの5,000人の大学キャンパスの密告者（線民）の子孫たちは、今も台湾で生活し、働き、投票している。彼らの父親や祖父が何をしたのか、除垢法（ラストレーション法）によって明かされることはなかった。[^6]いわゆる「過去」は、一度も公開の場で清算されたことがない。
 
-This is not hatred; it is a ledger. The day White Terror ends will not be the day martial law was lifted, nor the day the Transitioning Justice Commission dissolved. It will be the day Taiwanese society is willing to admit: the system that turned two million families into a web of mutual surveillance, its traces are still carved into our unease towards neighbors, strangers, and the word "guarantee."
+これは憎しみではなく、帳簿（清算すべき勘定）なのです。白色恐怖が終わる日は、解厳の日でもなければ、促進会が解散する日でもありません。台湾社会が認めるときです──あの200万の家族を互いに監視し合う網に変えた制度の痕跡が、今も私たちの隣人への、見知らぬ人への、「作保」という二文字への不安の中に刻まれていることを。
 
-**Further Reading**:
+**関連記事**：
 
-- [Taiwan's Democratic Transition](/ja/history/taiwan-democratization) — The full picture of the 40-year transition from martial law to Asia's most free democratic system
-- [Martial Law Period](/ja/history/martial-law-era) — The legal container of 38 years and 56 days and the process of lifting martial law
-- [Taiwan's Transition Justice](/ja/history/taiwan-transitional-justice) — The unfinished business of truth investigation and perpetrator accountability after lifting martial law
-- [National Human Rights Museum](/ja/history/national-human-rights-museum) — The institution of two White Terror memorial parks in Jingmei and Green Island, from six years of preparation to the 2025 budget freeze
-- [February 28 Incident](/ja/history/228-incident) — The prelude to White Terror, how the 1947 suppression foreshadowed the martial law system
-- [Beautiful Island Incident](/ja/history/kaohsiung-incident-formosa-incident) — An important turning point in the late White Terror period in 1979
-- [Alishan: The Empire's Forest and Gao Yi-sheng's Mountain](/ja/history/alishan-empire-forest-and-uongu-yatauyungana) — The story of Gao Yi-sheng's mountain and the silenced ethnic group
-- [Yin Haiguang](/ja/people/yin-haiguang-liberalism-philosopher) — The National Taiwan University philosophy professor confined to No. 18 Wenzhou Street after the 1960 Lei Zhen case, the founder of Taiwan's liberalism
+- [台湾の民主化転型](/ja/history/taiwan-democratization) — 戒厳からアジアで最も自由な民主体制へ、40年の転型の全貌
+- [戒厳時代](/ja/history/martial-law-era) — 38年56日の法的枠組みと解厳の過程
+- [台湾の転型正義](/ja/history/taiwan-transitional-justice) — 解厳後の真相調査と加害者追及の未完の事業
+- [国立人権博物館](/ja/history/national-human-rights-museum) — 景美と緑島の二つの白色恐怖記念園区を運営する機関、6年の準備から2025年予算凍結まで
+- [二二八事件](/ja/history/228-incident) — 白色恐怖の前奏、1947年の弾圧がいかに戒厳体制を予告したか
+- [美麗島事件](/ja/history/kaohsiung-incident-formosa-incident) — 1979年、白色恐怖末期の重要な転換点
+- [阿里山：帝国の林場と高一生の山](/ja/history/alishan-empire-forest-and-uongu-yatauyungana) — 高一生の山と、沈黙を強いられた民族の物語
+- [統一発票：1951年、全国民を税務稽察員に変えたあの紙](/ja/economy/taiwan-uniform-invoice) — 統一発票制度の設計者である任顕群（じん・けんぐん／レン・シェンチュン）本人も同じ時代を生き、1955年に「知匪不報（共産匪賊を知って通報しない罪）」で投獄された──一つの帽子（罪名）で命を落とすには十分だった
+- [殷海光](/ja/people/yin-haiguang-liberalism-philosopher) — 1960年雷震事件後に温州街十八巷で軟禁された台大哲学科教授、台湾自由主義の開祖
 
 ## References
 

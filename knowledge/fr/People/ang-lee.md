@@ -2,9 +2,7 @@
 title: 'Ang Lee : derrière deux Oscars, le fils qui n’a pas pu dire vraiment adieu à son père'
 description: 'Sur la scène des Oscars 2006, Ang Lee devint le premier Asiatique de l’histoire à remporter l’Oscar du meilleur réalisateur, mais c’est en mandarin qu’il dit : « Merci à tous pour votre sollicitude. » Le monde se souvient de cette fierté taïwanaise aux deux statuettes dorées ; pourtant, ce qu’il a filmé toute sa vie, ce sont la répression, la peur et ce père soudainement disparu deux ans plus tôt, qui s’était toujours opposé à ce qu’il fasse du cinéma. Du gendre sans emploi qui passa six ans à cuisiner à la maison au double Lion d’or de Venise, son véritable adversaire n’a jamais été le plateau de tournage, mais ce lui-même qu’il n’arrivait pas à traverser.'
 date: 2026-03-17
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '電影與戲劇'
 tags:
   [
     'personnalités',
@@ -15,18 +13,20 @@ tags:
     'interculturel',
     'Golden Horse Awards',
   ]
+subcategory: '電影與戲劇'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: true
-translatedFrom: 'People/李安.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:5e0878a68a9e472e'
-sourceBodyHash: 'sha256:b22fe95649d7be32'
-translatedAt: '2026-06-16T17:05:54Z'
 image: '/article-images/people/ang-lee-bafta-2013.webp'
 imageCredit: 'Sean Reynolds'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Ang_Lee_(8464864982).jpg'
+translatedFrom: 'People/李安.md'
+sourceCommitSha: '09c1bf1a9'
+sourceContentHash: 'sha256:270ebb8ad85e9750'
+sourceBodyHash: 'sha256:1c12395477bc0a4e'
+translatedAt: '2026-07-28T13:10:03.892842+00:00'
 ---
 
 # Ang Lee : derrière deux Oscars, le fils qui n’a pas pu dire vraiment adieu à son père
@@ -200,24 +200,25 @@ Au fil des années, le monde lui a offert presque toutes les reconnaissances pos
 
 > ✦ « Je suis né à Taïwan, j’ai grandi à Taïwan, et me tenir aujourd’hui sur cette scène, c’est comme voir un rêve devenir réalité. »[^47]
 
-## La répression n’a pas été vaincue ; elle ne l’emmêle simplement plus
+## L'oppression n'a pas été vaincue, elle ne s'est simplement plus entremêlée
 
-En 2016, autour de la période de _Billy Lynn’s Long Halftime Walk_, Ang Lee finit, dans un entretien, par exprimer clairement la question qui traverse tous ses films et toute sa vie. Il dit qu’il y a des choses qu’il n’a jamais vaincues : par exemple la répression, par exemple son père ; elles n’ont cessé de changer de forme[^48].
+En 2016, peu après le tournage de 《Billy Lynn's Long Halftime Walk》, Ang Lee a enfin exprimé, lors d'une interview, ce thème qui traverse tous ses films et toute sa vie. Il a déclaré que certaines choses n'avaient jamais été vainc'ues par lui : comme l'oppression ou la figure paternelle, qui sont en constante métamorphose[^48].
 
-Mais il ajoute ensuite la seconde moitié de la phrase, et c’est là que la réconciliation advient réellement : il continuera à décrire le père dans ses films, mais la pression n’est plus là. Ce qui l’a emmêlé toute sa vie est enfin OK, c’est passé[^49].
+Mais il a ensuite ajouté une seconde partie de phrase, là où la réconciliation s'est véritablement produite : il continuerait à dépeindre le père dans ses films, mais sans cette pression. Ce qui l'avait tourmenté toute sa vie était enfin apaisé, appartient au passé[^49].
 
-> ✦ « Il y a des choses que je n’ai jamais vaincues, par exemple la répression, le père ; elles n’ont cessé de changer de forme. »[^50]
+> ✦ « Certaines choses n'ont jamais été vaincues par moi, comme l'oppression ou le père, qui sont en constante métamorphose. »[^50]
 
-La montagne de Brokeback n’a jamais été déplacée. Ce père qui s’opposa toute sa vie à ce qu’il fasse du cinéma, mais lui ordonna avant de mourir de « mettre son casque et foncer », ne reviendra plus entendre son fils lui dire merci. Le monde retient deux Oscars, deux Lions d’or de Venise, deux Ours d’or de Berlin, et l’histoire d’un enfant waishengren devenu une fierté taïwanaise reconnue partout. Mais ce qu’Ang Lee a vraiment filmé toute sa vie, c’est le fils qui, en 2006, se tenait sur scène, venait de perdre son père, et disait en mandarin face à la caméra : « Merci à tous pour votre sollicitude. » Il a tenu à travers six années de cuisine, tenu à travers les peurs répétées de « je ne vais plus y arriver », et transformé en cinéma tout ce qui ne pouvait pas être contenu.
+Cette montagne de _Brokeback Mountain_ n'a jamais été déplacée. Ce père, qui s'était opposé toute sa vie à sa carrière de cinéaste mais qui, avant de mourir, lui avait demandé de « foncer avec le casque sur la tête », ne reviendra plus pour entendre un merci de son fils. Le monde se souvient des deux Oscars, des deux Lions d'Or de Venise et des deux Ours d'Or de Berlin ; il retient l'image de cet enfant _wàishēng_ devenu la fierté de Taïwan, reconnue mondialement. Mais ce qu'Ang Lee a véritablement filmé tout au long de sa vie, c'est ce fils de 2006, debout sur scène, venant de perdre son père, s'adressant à la caméra en mandarin pour dire : « Merci à tous pour votre attention ». Il a survécu à six années passées en cuisine, il a surmonté la peur répétée du « je n'en peux plus », transformant tout ce qui était impossible à contenir en cinéma.
 
 ---
 
-**Pour aller plus loin** :
+**Lecture complémentaire** :
 
-- [Cinéma taïwanais](/fr/art/taiwanese-cinema) — Le fil complet allant des films en taïwanais au réalisme sain, puis à la Nouvelle Vague taïwanaise et au cinéma contemporain : la tradition qu’Ang Lee a reçue avant de la porter vers l’extérieur
-- [Hou Hsiao-hsien](/fr/people/hou-hsiao-hsien) — Figure de proue de la Nouvelle Vague taïwanaise de la même génération, qui choisit une voie d’auteur radicalement différente de celle d’Ang Lee
-- [Edward Yang](/fr/people/yang-dechang) — Le réalisateur qui anatomisa l’angoisse moderne de Taïwan à travers une ville, autre sommet de la Nouvelle Vague taïwanaise
-- [Tsai Ming-liang](/fr/people/tsai-ming-liang) — Auteur taïwanais qui poussa la solitude et la lenteur à l’extrême, à l’opposé du chemin hollywoodien d’Ang Lee
+- [Le cinéma taïwanais](/fr/art/taiwanese-cinema) — Du cinéma en taïwanais au réalisme social, jusqu'au Nouveau Cinéma taïwanais et à l'époque contemporaine : le contexte complet de la tradition qu'Ang Lee a héritée et portée à l'international.
+- [Hou Hsiao-hsien](/fr/people/hou-hsiao-hsien) — Figure de proue du Nouveau Cinéma taïwanais de la même génération, ayant choisi une voie d'auteur radicalement différente de celle d'Ang Lee.
+- [Yang De-chang](/fr/people/yang-dechang) — Réalisateur ayant disséqué l'anxiété moderne de Taïwan à travers une ville, autre sommet du Nouveau Cinéma taïwanais.
+- [Tsai Ming-liang](/fr/people/tsai-ming-liang) — Réalisateur d'auteur taïwanais poussant la solitude et la lenteur à l'extrême, à l'opposé de la trajectoire hollywoodienne d'Ang Lee.
+- [Andre Chiang](/fr/people/andre-chiang-taiwanese-culinary-innovator) — Créateur taïwanais s'étant également illustré au sein des institutions occidentales, posant la même question du « qui suis-je », mais à travers la cuisine étoilée Michelin plutôt que l'objectif d'une caméra.
 
 ## Sources des images
 

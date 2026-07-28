@@ -1,168 +1,184 @@
 ---
 title: 'Democratización'
+description: 'El 18 de marzo de 1980, en un tribunal militar de Kaohsiung, Shih Ming-te renunció a su declaración de sesenta mil palabras para pedir la pena de muerte. En ese mismo juicio, los jóvenes abogados que defendieron a los acusados —Chen Shui-bian, Yeh Chu-lung y Su Tseng-chang— se convirtieron, veinte años después, en presidentes o presidentes del Yuan Ejecutivo. Un juicio destinado a servir de escarmiento terminó creando inesperadamente a la siguiente generación de líderes políticos de Taiwán.'
 date: 2026-03-27
-tags: [Historia, Democratización, Política]
-description: 'La exitosa experiencia de democratización de Taiwán tiene una importancia histórica y contemporánea significativa. Demuestra que las sociedades chinas son plenamente capaces de establecer instituciones democráticas maduras, proporcionando un importante estudio de caso para la tercera ola de democratización global. Más importante aún, este proceso de transición se llevó a cabo completamente a través de medios pacíficos sin conflictos violentos a gran escala, ofreciendo una valiosa experiencia de referencia para la democratización en otros países autoritarios.'
-translatedFrom: 'History/民主化.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:5c4c48886e261a1e'
-sourceBodyHash: 'sha256:1ac64c77bbabb1d3'
-translatedAt: '2026-05-29T00:35:00+08:00'
 category: 'History'
+tags:
+  [
+    'Historia',
+    'Democratización',
+    'Política',
+    'Incidente de la Isla Hermosa',
+    'Movimiento estudiantil de los lirios silvestres',
+  ]
+subcategory: '戰後與威權'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-03-27
 lastHumanReview: false
+translatedFrom: 'History/民主化.md'
+sourceCommitSha: 'dbaf28954'
+sourceContentHash: 'sha256:0f572861e1f79f7d'
+sourceBodyHash: 'sha256:b51e57f04bd06fc2'
+translatedAt: '2026-07-28T18:52:02+08:00'
 ---
 
-# Democratización de Taiwán
+# Democratización
 
-> **Resumen de 30 Segundos:** La democratización de Taiwán se refiere a la exitosa transformación del gobierno autoritario unipartidista del Kuomintang a una nación democrática y libre que comenzó alrededor de la década de 1990. Esta transformación, aclamada como una "Revolución Silenciosa", convirtió a Taiwán en un modelo de democratización en las sociedades chinas, clasificándose entre los primeros en las evaluaciones democráticas internacionales.
+> **Resumen en 30 segundos:** El 10 de diciembre de 1979, Chen Chu (陳菊), de 29 años, fue arrastrada a un coche de policía entre el humo de las granadas lacrimógenas en las calles de Kaohsiung. En prisión, escribió su testamento creyendo que sería ejecutada por fusilamiento. Cuarenta años después, se convirtió en la presidenta del Yuan de Control, la máxima autoridad de supervisión del gobierno de Taiwán. La democratización de Taiwán no fue un interruptor, sino un experimento de cuarenta años: desde el periodo de ley marcial más largo del mundo (38 años y 56 días) hacia uno de los países más libres de Asia (puntuación de Freedom House en 2025: 93/100, sexto a nivel mundial). Sin revoluciones sangrientas ni golpes de Estado.
 
-## Por Qué Importa
+El 18 de marzo de 1980, el tribunal militar de Taiwán inició el juicio del Caso de la Isla Hermosa (美麗島事件). En el banquillo de los acusados se encontraban Shih Ming-te, Huang Hsin-chieh, Chen Chu y Lü Hsiu-lien; las galerías estaban abarrotadas de periodistas internacionales; el senador estadounidense Ted Kennedy incluso incluyó el caso de Shih Ming-de en los anales del Congreso.
 
-La exitosa experiencia de democratización de Taiwán tiene una importancia histórica y contemporánea significativa. Demuestra que las sociedades chinas son plenamente capaces de establecer instituciones democráticas maduras, proporcionando un importante estudio de caso para la tercera ola de democratización global. Más importante aún, este proceso de transición se llevó a cabo completamente a través de medios pacíficos sin conflictos violentos a gran escala, ofreciendo una valiosa experiencia de referencia para la democratización en otros países autoritarios.
+El Kuomintang (KMT) pretendía un juicio público para demostrar la legitimidad judicial. El resultado fue el opuesto.
 
-## Contexto Histórico
+El juicio proporcionó a los acusados un escenario nacional. Shih Ming-te había preparado una declaración de sesenta mil palabras, pero tras enterarse en la audiencia de que la madre de [[林義雄]] (Lin Yi-hsiung) y sus dos hijas gemelas habían sido asesinadas fuera de prisión (el [[二二八事件|incidente de la familia Lin]]), renunció a su defensa en ese mismo instante y pidió al juez que le impusiera la pena de muerte. Esta escena se difundió por toda la isla a través de los medios.
 
-### Surgimiento Democrático Temprano
+> 📝 **Nota del curador:** La consecuencia más absurda del juicio de la Isla Hermosa fue que el grupo de jóvenes abogados que defendieron a los acusados —[[陳水扁]] (Chen Shui-bian), Yeh Chu-lung, Su Tseng-chang, Chang Chun-hsiung y Yu Ching— se convirtieron casi todos, en menos de veinte años, en presidentes de Taiwán, presidentes del Yuan Ejecutivo o alcaldes de municipios especiales. El juicio meticulosamente planeado por el KMT terminó, sin querer, cultivando a toda una generación de élrmite políticos para el movimiento de oposición.
 
-**República de Formosa (台灣民主國, 1895)**
+## Los setenta y un días de Zheng Nan-rong
 
-- Establecida durante la invasión japonesa, aunque de corta duración, propuso que "todos los funcionarios deben ser elegidos por el pueblo"
-- Considerada una encarnación de los ideales de "la república democrática más antigua de Asia"
+En la década posterior al juicio de la Isla Hermosa, la sociedad taiwanesa era como una olla de agua que se calentaba lentamente. El movimiento _Tangwai_ (fuera del partido) continuaba expandiéndose, pero lo que realmente llevó la temperatura al punto de ebullición fue un hombre de origen mainland llamado [[鄭南榕]] (Zheng Nan-rong).
 
-**Movimientos Democráticos Durante el Dominio Japonés**
+El 10 de diciembre de 1988, Día Internacional de los Derechos Humanos, Zheng Nan-rong publicó en el número 254 de su revista _Free Taiwan_ (自由時代) un borrador completo de la "Constitución de la República de Taiwán". En aquel entonces, esto equivalía al delito de sedición y podía castigarse con la muerte.
 
-- **Período de la Democracia Taisho** (década de 1910): Los taiwaneses exigieron derechos políticos iguales a los residentes del territorio japonés
-- **1921**: Comenzó el Movimiento de Petición del Parlamento de Taiwán (台灣議會設置請願運動), exigiendo el establecimiento de un parlamento taiwanés
-- **1927**: Fundación del Partido Popular de Taiwán (台灣民眾黨), el primer partido político legal de Taiwán
-- **1935**: Se celebraron las primeras elecciones democráticas (elecciones de miembros de consejos municipales y de municipios)
+Tras recibir la citación judicial, Zheng Nan-rong se encerró en la redacción de su revista y se negó a comparecer. Sus últimas palabras a su esposa, Yeh Chu-lan, fueron:
 
-### Retrocesos de Posguerra
+**«Lo que queda está en sus manos».**
 
-**Administración Temprana de la República de China (1945-1949)**
+A las 7:30 de la mañana del 7 de abril de 1989, cerca de doscientos agentes policiales rodearon la redacción. A las 9:15, Zheng Nan-rong se inmoló por autocommisión, con solo 41 años. La contraportada de su revista llevaría impresa para siempre la misma frase: «¡Luchad por la libertad de expresión al cien por cien!».
 
-- Se estableció la Oficina Administrativa Ejecutiva Provincial de Taiwán, criticada como "imitando el gobierno dictatorial del Gobernador General japonés"
-- **1947**: Estalló el Incidente del 28 de Febrero (二二八事件), la élite taiwanesa exigió autonomía local pero fue rechazada
-- El mismo año se eligieron los primeros delegados de la Asamblea Nacional, legisladores y miembros del Yuan de Control
+El 19 de mayo, decenas de miles de personas marcharon bajo la lluvia siguiendo su féretro hacia la Presidencia.
 
-## Período Autoritario y Resistencia Democrática (1949-1987)
+> 📝 **Nota del curador:** El comandante de la unidad de asalto que lideró el ataque a la redacción era Hou Yu-ih. Treinta y cinco años después, en 2024, se presentó como candidato a la presidencia por el KMT. La misma persona que estuvo del lado de la violencia estatal en el episodio más trágico de la democratización de Taiwán, compitió por el poder supremo dentro del sistema democrático. Este hecho es, en sí mismo, una muestra de lo absurdo y complejo de la historia de Taiwán.
 
-### Establecimiento del Sistema de Ley Marcial
+La muerte de Zheng Nan-rong impulsó directamente la reforma del artículo 100 del Código Penal en 1992 y la abolición de la "Ley de Castigo de la Sedición". A partir de entonces, el pensamiento dejó de ser un delito. El 7 de abril fue nombrado posteriormente como el «Día de la Libertad de Expresión».
 
-- **1949**: El gobierno de la República de China se trasladó a Taiwán, implementando la movilización para suprimir la rebelión y la ley marcial
-- **1954**: Interpretación No. 31 del Yuan Judicial, formando el "Congreso de los Diez Mil Años" (萬年國會)
-- Bajo el Terror Blanco, el desarrollo de la democratización se retrasó severamente
+## La ley marcial: no era un interruptor
 
-### Apertura Democrática Limitada
+El 14 de julio de 1987, Chiang Ching-kuo, de 75 años, convocó una rueda de prensa en la Presidencia para anunciar que la ley marcial se levantaría a la medianoche del día siguiente. Doce días después, el 27 de julio, invitó a doce notables locales a tomar el té en la Presidencia y pronunció una frase que sería citada repetidamente:
 
-- **1950-1951**: Comenzó a implementar la autonomía local, celebrando elecciones de alcaldes de condados y ciudades
-- **1969**: Se implementaron elecciones complementarias para parlamentarios, pero los representantes existentes mantuvieron el estatus de no reelección
+**«He vivido en Taiwán durante cuarenta años; soy taiwanés y, por supuesto, también soy chino».**
 
-### Surgimiento de la Resistencia Democrática
+Esta frase fue utilizada selectivamente por distintos espectros políticos. Los independentistas solo citaban la primera parte; los unificadores, la segunda. Sin embargo, en el contexto de 1987, su función era mitigar las tensiones entre los habitantes de origen mainland y los locales: un líder de origen mainland reconocía ser taiwanés, intentando calmar las aguas ante la inminente apertura política.
 
-- **1977**: Incidente de Chungli (中壢事件) - Primera protesta callejera contra el fraude electoral
-- **1979**: Incidente de Qiaotou (橋頭事件) - Primera marcha política desde el traslado del gobierno
-- **1979**: Incidente de Kaohsiung (美麗島事件) - Importante punto de inflexión para el movimiento democrático
-- **1986**: El Partido Democrático Progresista (民主進步黨) anunció su establecimiento a pesar de la prohibición de partidos
+Chiang Ching-kuo falleció seis meses después.
 
-## Período Clave de Democratización (1987-2000)
+Pero el fin de la ley marcial no significó libertad inmediata. El gobierno aprobó simultáneamente la Ley de Seguridad Nacional, cuyo artículo 9 estipulaba que las sentencias de los tribunales militares contra civiles durante la ley marcial «no podrán ser objeto de apelación o recurso ante el tribunal competente». En otras palabras, se bloquearon legalmente las vías de reparación para las víctimas del [[台灣白色恐怖|terror blanco]].
 
-### Levantamiento de la Ley Marcial y Apertura Política
+> **«Por ello, algunos académicos sostienen que el verdadero punto de partida de la democratización de Taiwán fue 1 992 (reforma del artículo 100 del Código Penal y abolición de la Ley de Castigo de la Sedición), y no el fin de la ley marcial en 1987».**
 
-- **1987**: Chiang Ching-kuo anunció el levantamiento de la ley marcial, abriendo las prohibiciones de partidos y prensa
-- **1990**: El Movimiento Estudiantil del Lirio Salvaje (野百合學運) promovió las reformas democráticas
-- **1991**: Se abolieron las Disposiciones Temporales Efectivas Durante el Período de Movilización para Suprimir la Rebelión Comunista, terminando el Congreso de los Diez Mil Años
+Es por esto que para quienes vivieron la ley marcial, el recuerdo del 15 de julio no fue de euforia, sino de desconcierto: ya se podía manifestar, ¿pero quién se atrevía? Ya se podían formar partidos, ¿pero si lo hacías te arrestarían? La democracia no es una luz que se enciende al pulsar un interruptor; requiere que toda la sociedad aprenda de nuevo «cómo no tener miedo».
 
-### Reformas Institucionales
+## Seis mil lirios silvestres vs. Tiananmén
 
-- **1992**: Primera reelección integral del Yuan Legislativo
-- **1994**: Primeras elecciones directas para gobernadores provinciales y alcaldes de municipios especiales
-- **1996**: Primera elección presidencial directa por los ciudadanos
-- **2000**: Primera alternancia de partidos, el DPP llegó al poder
+El 16 de marzo de 1990, menos de nueve meses antes del incidente de Tiananmén, estudiantes de la Universidad Nacional de Taiwán comenzaron una sentada en la plaza del Memorial Chiang Kai-shek. El motivo era que [[李登輝]] (Lee Teng-hui) buscaba la reelección, pero la Asamblea Nacional que votaría seguía siendo la «Asamblea de los Mil Años», elegida en China continental en 1947, compuesta por más de setecientos representantes que nunca habían sido reelegidos.
 
-## Profundización y Consolidación Democrática (2000-Presente)
+Las pancartas de los estudiantes decían: «Ciudadanos, ¿pueden soportar la opresión de estos 700 emperadores?».
 
-### Normalización de la Alternancia de Partidos
+Lo que empezó con una docena de personas, llegó a reunir a casi seis mil en seis días. Portando lirios silvestres (símbolo de la pureza de la flora nativa de Taiwán), presentaron cuatro demandas: disolver la Asamblea Nacional, abolir las disposiciones temporales, convocar una Conferencia Nacional y establecer un cronograma de reformas.
 
-- **2000**: Primera alternancia de partidos (KMT→DPP)
-- **2008**: Segunda alternancia de partidos (DPP→KMT)
-- **2016**: Tercera alternancia de partidos (KMT→DPP)
+El 21 de marzo, Lee Teng-hui recibió a cincuenta representantes estudiantiles en la Presidencia.
 
-### Mejoramiento Institucional Democrático
+Fue el espejo inverso de Tiananmén. Nueve meses antes, los estudiantes de Pekín recibieron tanques; los estudiantes de Taipéi recibieron promesas del presidente. Lee Teng-hui declaró más tarde que había ordenado «no dañar a los estudiantes» (según informó ETtoday en 2015).
 
-- **2004**: Primer referéndum nacional
-- **2005**: Séptima enmienda constitucional, congelación de la Asamblea Nacional
-- **2014**: El Movimiento Estudiantil del Girasol (太陽花學運) demostró la vitalidad de la sociedad civil
+Las promesas se cumplieron una a una: en mayo de 1991 se abolieron las disposiciones temporales; en diciembre del mismo año se disolvió la Asamblea de los Mil Años; en 1992 se celebraron elecciones totales para el Legislativo; y el 23 de marzo de 1996, Taiwán celebró su primera elección presidencial directa.
 
-## Evaluación Internacional y Logros
+> 📝 **Nota del curador:** La trayectoria vital de los líderes estudiantiles del movimiento de los lirios silvestres es, en sí misma, una historia política de Taiwán: Fan Yun se convirtió en legisladora del DPP, Lin Chia-lung fue Ministro de Relaciones Exteriores, Lo Wen-chia se volvió una figura clave del DPP y Cheng Wen-tsan llegó a ser alcalde de Taoyuan. Este movimiento no solo cambió las instituciones, sino que definiación el carácter político de toda una generación.
 
-Los logros de democratización de Taiwán han recibido un alto reconocimiento internacional:
+## Votando bajo la amenaza de misiles
 
-### Principales Clasificaciones Internacionales
+En marzo de 1996, en vísperas de las primeras elecciones presidenciales directas en Taiwán, China realizó pruebas de misiles a 20 millas de la costa de Keelung y a 29 millas de la de Kaohsiung, paralizando el 70% del transporte comercial que pasaba por estos puertos. Simultáneamente, el Ejército Popular de Liberación concentró cien mil tropas en la costa.
 
-- **Polity Dataset**: Aumentó de -7 (autocracia) en 1986 a una puntuación perfecta de 10 (democracia plena) en 2004
-- **Freedom House**: Mejorado de "Parcialmente Libre" a "Libre" en 1996, obtuvo 94 puntos en 2021, clasificándose en segundo lugar en Asia
-- **Índice de Democracia de The Economist Intelligence Unit**: Clasificado en el puesto 8 a nivel mundial en 2021, la única "Democracia Plena" en Asia en alcanzar el top 10
+La intención de Pekín era clara: disuadir a los taiwaneses de votar por Lee Teng-hui.
 
-### Significado de la "Revolución Silenciosa"
+La respuesta de Estados Unidos fue el despliegue de los grupos de combate de los portaaviones USS Nimitz y USS Independence, el mayor despliegue militar estadounidense en el Pacífico desde la Guerra de Vietnam.
 
-La democratización de Taiwán es aclamada como una "Revolución Silenciosa", caracterizada por:
+El 23 de marzo, la participación fue del 76,04%. Lee Teng-hui obtuvo 5.813.699 votos, con un 54% de los mismos. Los misiles de China no solo no ahuyentaron a los votantes, sino que posiblemente le otorgaron a Lee un 5% adicional de votos, transformando su mayoría relativa en una absoluta.
 
-- **Transición Pacífica**: No hubo conflictos violentos a gran escala durante todo el proceso
-- **Construcción Institucional**: Se estableció un marco institucional democrático integral
-- **Consenso Social**: Todas las fuerzas políticas aceptaron básicamente las reglas del juego democrático
-- **Profundización Continua**: La calidad democrática continúa mejorando
+La intimidación cuidadosamente planeada por Pekín produjo el resultado que menos deseaba.
 
-## Análisis de Factores de Éxito
+| Concepto | Datos |
+| :---lambert | :--- |
+| Día de la votación | 23 de marzo de 1996 |
+| Participación | 76,04% |
+| % votos Lee Teng-hui | 54,00% (5.813.699 votos) |
+| Peng Ming-min (DPP) | 21,12% |
+| Lin 洋港 (Lin Yang-gang) | 14,90% |
+| Chen Lü-an | 9,98% |
 
-### Factores Internos
+## Tres alternancias: el carácter de los perdedores
 
-- **Desarrollo Económico**: El milagro económico proporcionó la base material para la democratización
-- **Expansión Educativa**: La expansión de la educación superior cultivó ciudadanos democráticos
-- **Sociedad Civil**: Los movimientos sociales activos promovieron la reforma
-- **Élites Políticas**: Elecciones racionales de los gobernantes autoritarios
+Lo que realmente pone a prueba la democracia no son las elecciones, sino «si el perdedor está dispuesto a retirarse».
 
-### Factores Externos
+**2000**: Chen Shui-bian ganó con un 39,3%, poniendo fin a 55 años de dominio del KMT. Fue la primera vez en la sociedad china que se lograba una transición pacífica del poder mediante el voto. La división del KMT fue clave: James Soong abandonó el partido para presentarse, llevándose el 37% de los votos, mientras que Lien Chan solo obtuvo el 23%.
 
-- **Aislamiento Internacional**: Los reveses diplomáticos obligaron al gobierno a buscar legitimidad democrática
-- **Fin de la Guerra Fría**: Impulso de la ola de democratización internacional
-- **Influencia Estadounidense**: Atención de EE. UU. a los problemas de derechos humanos de Taiwán
+**2008**: Ma Ying-jeou derrotó a Yeh Chu-lung con un 58,45%. El DPP entregó el poder pacíficamente, demostrando que «aceptar la derrota» no era propiedad exclusiva del KMT.
 
-## Desafíos Contemporáneos y Futuro
+**2016**: Tsai Ing-wen derrotó a Eric Chu con un 56,12%. El KMT volvió a perder el gobierno de forma pacífica.
 
-### Desafíos Enfrentados
+**2024**: Lai Ching-te ganó con un 40,05%. El DPP gobernó por primera vez sin mayoría absoluta, mientras que la oposición controlaba la mayoría en el parlamento. El sistema democrático fue sometido, una vez más, a una prueba de resistencia.
 
-- **Relaciones a Través del Estrecho**: Compleja situación política a través del estrecho
-- **Polarización de Partidos**: Profundización de la oposición Azul-Verde
-- **Populismo**: Aumento de la política populista
-- **Desinformación**: Amenazas de guerra de información a la democracia
+En treinta años, hubo cuatro alternancias de partido, y cada una se completó pacíficamente. Sin golpes militares, sin rechazo a la transferencia del poder, sin protestas violentas.
 
-### Desarrollo Continuo
+## ¿Por qué no hubo sangre?
 
-- **Justicia Transicional**: Abordar la limpieza del legado autoritario
-- **Participación Cívica**: Prácticas innovadoras en democracia digital
-- **Reforma Institucional**: Ajuste continuo de los sistemas gubernamentales
+Las revoluciones en Europa del Este derrocaron al comunismo; la Primavera Árabe provocó guerras civiles; la junta militar de Myanmar realizó una represión sangrienta. ¿Por qué Taiwán logró una «revolución pacífica»?
 
-## Datos Clave
+El politólogo Samuel Huntington, en _The Third Wave_, clasificó a Taiwán como una «transformación» (liderada por las élites de arriba hacia abajo), a diferencia de la «transposición» de Corea del Sur o el «reemplazo» de Filipinas.
 
-- **Levantamiento de la Ley Marcial**: 15 de julio de 1987, finalizando 38 años de ley marcial
-- **Primera Elección Presidencial Directa**: 1996, Lee Teng-hui elegido
-- **Número de Alternancias de Partidos**: 3 veces (2000, 2008, 2016)
-- **Clasificación Internacional**: 8º a nivel mundial, 1º en Asia en el Índice de Democracia 2021
-- **Frecuencia Electoral**: Presidente mandatos de 4 años, máximo una reelección; legisladores mandatos de 4 años
+Pero la elección de las élites para reformar tuvo razones estructurales:
 
-## Lectura Adicional
+**El milagro económico creó una clase media.** Entre 1960 y 1990, el PIB per cápita de Taiwán se disparó de 164 USD a 8.111 USD. La clase media tenía demasiado que perder; preferían la reforma a la revolución.
 
-- [Interpretación No. 261 del Yuan Judicial](https://zh.wikisource.org/wiki/司法院釋字第261號解釋) - Interpretación importante que puso fin al Congreso de los Diez Mil Años
-- [Informe de Libertad Global de Freedom House](https://freedomhouse.org/) - Evaluación anual de libertad democrática
-- [Índice de Democracia de The Economist Intelligence Unit](https://www.eiu.com/n/campaigns/democracy-index-2021/) - Clasificación de calidad democrática global
-- "Revolución Silenciosa" - por Fan Yun
-- "La Transición Democrática de Taiwán" - por Chu Yun-han
+**El aislamiento diplomático obligó al régimen a buscar legitimidad.** Salida de la ONU (1971), ruptura de relaciones con EE. UU. (1979) y expulsión del COI. El KMT ya no podía usar la «reconquista de China» como excusa para gobernar; debía construir una base de apoyo popular interna en Taiwán.
 
-## Temas Relacionados
+**La moderación de la oposición.** Los protagonistas de la Isla Hermosa y el DPP optaron por reformas dentro del sistema en momentos críticos, en lugar de la lucha violenta. La Revolución del Poder del Pueblo en Filipinas (1986) demostró que una transición pacífica era posible, lo cual fue una señal vital para los reformistas taiwaneses.
 
----
+## Una democracia imperfecta
 
-_La democratización de Taiwán demuestra la posibilidad de una transición pacífica, proporcionando una valiosa experiencia para el desarrollo democrático en todo el mundo._
+Freedom House otorgó a Taiwán 93 puntos en 2025 (sobre 100), situándola sexta en el mundo y segunda en Asia (solo superada por Japón con 96). El Índice de Democracia de _The Economist_ de 2024 la situó en el puesto doce mundial, con puntuación máxima en procesos electorales y pluralismo, siendo el único país de Asia con una «democracia plena».
+
+Pero tras las cifras hay grietas:
+
+Durante el [[台灣白色恐怖|terror blanco]], se estima que entre 140.000 y 200.000 personas sufrieron persecución política, y entre 3.000 y 4.000 fueron ejecutadas. La justicia transicional aún no se ha completado. El artículo 9 de la Ley de Seguridad Nacional no fue declarado inconstitucional por los magistrados del Tribunal Constitucional hasta 2019, 32 años después del fin de la ley marcial.
+
+La desinformación es el nuevo campo de batalla. En las elecciones locales de 2018 y en las presidenciales de 2020 aparecieron campañas masivas de desinformación, muchas de ellas con origen externo. El gobierno de China intenta continuamente influir en la formulación de políticas, los medios y la infraestructura democrática de Taiwación (según el informe de Freedom House 2025).
+
+La polarización entre el azul y el verde ha degradado la calidad del debate político. Proyectos de ley importantes suelen quedar estancados o aprobarse por fuerza debido a posturas partidistas en lugar de su mérito técnico.
+
+La democracia de Taiwán es imperfecta. Pero está viva.
+
+## El testamento de Chen Chu
+
+En diciembre de 1979, Chen Chu, de 29 años, escribió su testamento en prisión, preparándose para ser fusilada. En él, se despedía del pueblo de Taiwán.
+
+No fue ejecutada. Cumplió seis años de cárcel y, tras salir, participó en la fundación del DPP; fue directora de la Oficina de Bienestar Social de Taipéi durante dos mandatos, presidenta de la Comisión de Administración del Trabajo y alcaldesa de Kaohsiung durante doce años. En su reelección de 2014 obtuvo 990.000 votos, el más alto de Taiwán. En 2020, fue nominada como presidenta del Yuan de Control.
+
+Desde escribir un testamento hasta ser presidenta del Yuan de Control, pasaron cuarenta y un años.
+
+La misma persona, la misma isla. La única diferencia es que en el Taiwán de 1979, el pensamiento era un delito; en el Taiwán de 2020, los antiguos presos políticos supervisan si el gobierno está cometiendo delitos.
+
+Esto es lo que significa la democratización. No es una historia de superación impecable, sino un experimento político lleno de absurdos, contradicciones y costes. El experimento continúa.
+
+## Referencias
+
+- [CNA: Shih Ming-te pasó más de 25 años en prisión política](https://www.cna.com.tw/news/aipl/202401150025.aspx) (Fuente primaria)
+- [Museo Nacional de Derechos Humanos: Chen Chu](https://memory.nhrm.gov.tw/TopicExploration/Person/Detail/3536) (Fuente primaria)
+- [Wikipedia: Zheng Nan-rong](https://zh.wikipedia.org/zh-tw/%E9%84%AD%E5%8D%97%E6%A6%95)
+- [Wikipedia: Elecciones presidenciales de la República de China en 1996](https://zh.wikipedia.org/zh-tw/1996%E5%B9%B4%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%B8%BD%E7%B5%B1%E9%81%B8%E8%88%89)
+
+- [Freedom House: Taiwan Freedom in the World 2025](https://freedomhouse.org/country/taiwan/freedom-world/2025) (Fuente primaria)
+- [The Economist Democracy Index 2024](https://www.eiu.com/n/campaigns/democracy-index-2024/) (Fuente primaria)
+- [StoryStudio: El juicio del 18 de marzo de 1980 que cambió Taiwán](https://storystudio.tw/article/gushi/taiwan-calendar-of-law)
+- [Comisión para la Promoción de la Verdad y la Reconciliación de Taiwán: Artículo 9 de la Ley de Seguridad Nacional](https://taiwantrc.org/%E5%9C%8B%E5%AE%89%E6%B3%95%E7%AC%AC%E4%B9%9D%E6%A2%9D/)
+- [ETtoday: Lee Teng-hui ordenó no dañar a los estudiantes](https://www.ettoday.net/news/20150730/542648.htm)
+- [Washington Post: China Fails to Sway Election in Taiwan (1996)](https://www.washingtonpost.com/archive/politics/1996/03/24/china-fails-to-sway-election-in-taiwan/) (Inglés)
+- [Samuel Huntington, _The Third Wave_, University of Oklahoma Press, 1991](https://www.jstor.org/stable/jj.7762622) (Inglés, académico)
+
+## Temas relacionados
+
+- [Periodo de ley marcial](/es/history/martial-law-era): 38 años de régimen autoritario antes de la democratización.
+- [台灣白色恐怖|Terror blanco en Taiwán](/es/history/taiwan-white-terror): La historia de 140.000 personas perseguidas políticamente.
+- [二二八事件|Incidente del 228](/es/history/228-incident): El origen del trauma político de la posguerra en Taiwán.
+- [Elecciones y política de partidos en Taiwán](/es/history/taiwan-elections-and-party-politics): La evolución del sistema electoral tras la democratización.
+- [Grandes revocaciones](/history/大罷免): La ola de revocatorias de mandatos más grande de la historia en 2025, una prueba directa a los derechos civiles cuarenta años después de la democratización.

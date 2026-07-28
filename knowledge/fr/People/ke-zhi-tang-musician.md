@@ -1,174 +1,320 @@
 ---
-title: 'Kowen Ko : le chanteur taïwanais de folk britannique qui a échangé sept ans de silence contre un album'
-description: "Né en 1990 à Taïwan, il remporte en 2013 le concours Hai Xian (Ocean Music Festival) avec une reprise de Coldplay〈Fix You〉, puis prête sa voix au thème publicitaire de Kingston 〈It Was May〉 pour la campagne 〈Memory Platform〉, cumulant 5 millions de vues. Son premier album 〈You Don't Really Want to Wander〉 (2015, produit par Chen Jian-qi) est nommé aux 27e Golden Melody Awards dans les catégories Meilleur Nouvel Artiste et Meilleur Chanteur Mandarin ; son deuxième album 〈Songs of the Bards〉 (2018) est à nouveau nommé aux 30e Golden Melody Awards dans la catégorie Meilleur Chanteur Mandarin. Puis il se tait pendant sept ans, se retirant dans sa chambre. En novembre 2024, il publie son troisième album 〈My Nova〉, un retour écrit au piano qu'il a rouvert. En 2025, il remporte le prix de la Meilleure Chanson Originale pour une série dramatique aux 60e Golden Bell Awards avec 〈God's Reply〉, la chanson de fin de 〈Black Tide Island Under the Starry Sky〉. Ses cousines sont Waa Wei et Queen Wei. La voix de Kowen Ko est grave, usée, granuleuse ; il dit qu'il n'a pas une voix de vieux monsieur, juste un peu usée."
+title: "Kowen Ko : Grandir à travers la mer, chanter pour ceux qui acceptent de s'asseoir"
+description: "En 2013, un étudiant universitaire fut poussé par ses camarades à s'inscrire à un concours de chant ; il y remporta le premier prix en interprétant deux titres de Coldplay. Il s'appelle Kowen Ko. Sa voix grave, qualifiée de « voix deoncle », et une lenteur qui refuse de se presser, lui ont permis de se tailler une place à la fois intime et profonde dans la scène indépendante de Taïwan. Grandi derrière les mers, il a composé des chansons avec une guitare défectueuse à Mumbai et chanté devant les résidents d'en face devant un magasin général centenaire à Taichung. Pendant neuf ans, Chen Jian-ki a produit trois albums pour lui sans jamais le presser ; en 2025, sa réinterprétation de « God’s Reply » pour une série Hakka lui a valu un prix Golden Bell."
 date: 2026-04-20
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '音樂人'
 tags:
   [
+    'Personnalité',
+    'Kowen Ko',
     'Musique indépendante',
     'Folk britannique',
-    '柯智棠',
-    'Kowen Ko',
-    '陳建騏',
-    'Golden Melody Awards',
-    'Golden Bell Awards',
-    '魏如萱',
-    '洪佩瑜',
-    '神的回信',
+    'Chen Jian-ki',
+    'Auteur-compositeur',
+    'Prix Golden Bell',
+    'forgood music',
   ]
-readingTime: 18
+subcategory: '音樂人'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-07
 lastHumanReview: true
-featured: false
-translatedFrom: 'People/柯智棠.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:4bb0752dfbb4d3f2'
-sourceBodyHash: 'sha256:9da1c30493a70f8a'
-translatedAt: '2026-05-01T20:54:17+08:00'
+researchReport: 'reports/research/2026-04/柯智棠.md'
 image: '/article-images/people/kowen-ko-portrait.webp'
 imageCredit: 'forgood music（好多音樂）'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd'
+readingTime: 18
+rationale: "{'why_this_hook': '開場錨在 2013 海弦獎那個被同學惡搞報名、自彈自唱 Coldplay 的大學生——暖、具象、是他被看見的起點，不預埋任何 gotcha。', 'whats_excluded': 'v1 的矛盾驅動脊椎（「握著最穩的牌卻七年寫不出中文專輯」＋「他最被聽見的是替別人唱的」諷刺結尾）整條拆掉；七年降為一個 facet、服務理解不拆穿。父喪 de-center、不當七年停筆成因；憂鬱／精神狀態不揣測（本人否認低潮）。', 'where_it_hedges': '七年用「沒發自己的中文專輯」不用「完全沉默」（期間有 2020 劉若英合唱、2022 電影主題曲）；〈It Was May〉標明詞蔡柏璋／曲羅恩妮、他只演唱；觀看數用「累積破百萬」；後台鋼琴用「某次音樂會後」不寫死年份；〈神的回信〉三語非四語；金曲金鐘寫成兩條平行線、不寫補償。', 'whos_pushing_back': '質疑「靠表姊魏如萱與陳建騏的關係」者——文章以創作參與度曲線（首張協作到《吟遊》全創作）與他自陳「不認為自己是專業作曲人」誠實並陳，不美化也不否認資源。'}"
+relatedDiary: ['2026-07-07-113100-柯智棠-立體群像']
+sporeLinks:
+  [
+    "{'id': 154, 'platform': 'threads', 'date': '2026-07-07', 'url': 'https://www.threads.com/@taiwandotmd/post/DaefLAMkw8F'}",
+  ]
+translatedFrom: 'People/柯智棠.md'
+sourceCommitSha: '68644a9d3'
+sourceContentHash: 'sha256:35b17bfbc1a6b4b6'
+sourceBodyHash: 'sha256:e1150c885b006baf'
+translatedAt: '2026-07-28T19:24:16+08:00'
 ---
 
-## Kowen Ko : le chanteur taïwanais de folk britannique qui a échangé sept ans de silence contre un album
+> **Aperçu en 30 secondes :** Kowen Ko (né en 1990) est un auteur-compositeur taïwanais dont l'oreille s'est forgée à travers la musique internationale — avec une télévision défectueuse à la maison, il n'a jamais reçu les ondes de la pop locale, mais s'est plongé dans l'univers de Coldplay et Damien Rice à l'ère du Web. Après avoir remporté un concours en 2013 suite à une plaisanterie de ses camarades, il a utilisé cette voix grave et « un peu usée » pour produire trois albums sous le label forgood music de Chen Jian-ki, se qualifiant à deux reprises pour le prix de Meilleur chanteur masculin en langue mandarine aux Golden Melody Awards. Il ne court pas après le temps : qu'il compose avec une guitare cassée dans un hôtel à Mumbai ou qu'il chante devant les voisins d'en face devant un vieux magasin à Taichung, il reste fidèle à lui-même. En 2025, sa réinterprétation de « God’s Reply » pour une série Hakka lui a valu un prix Golden Bell, mettant enfin en lumière cette trajectoire de musique de fiction qu'il parcourt depuis sept ans.
 
-> **En 30 secondes :** Kowen Ko (né en 1990 à Taïwan) est l'un des chanteurs de folk britannique / indie folk les plus reconnaissables de la scène musicale indépendante taïwanaise. En 2013, il remporte le concours Hai Xian avec des reprises de Coldplay〈Fix You〉 et 〈Clocks〉 ; la même année, 〈It Was May〉 devient le thème de la publicité Kingston 〈Memory Platform〉, cumulant 5 millions de vues sur YouTube, le propulsant devant le grand public[^1]. Son premier album 〈You Don't Really Want to Wander〉 (2015, produit par Chen Jian-qi) lui vaut une double nomination aux 27e Golden Melody Awards dans les catégories Meilleur Nouvel Artiste et Meilleur Chanteur Mandarin ; son deuxième album 〈Songs of the Bards〉 (2018) est à nouveau nommé aux 30e Golden Melody Awards dans la catégorie Meilleur Chanteur Mandarin[^2]. Puis il se tait pendant sept ans. En novembre 2024, il publie son troisième album 〈My Nova〉, un retour écrit au piano retrouvé[^3]. En 2025, il remporte le prix de la Meilleure Chanson Originale pour une série dramatique aux 60e Golden Bell Awards avec 〈God's Reply〉, la chanson de fin de 〈Black Tide Island Under the Starry Sky〉, aux côtés de Chen Jian-qi, Ge Da-wei et Rao Rui-jun[^4]. Ses cousines sont Waa Wei et Queen Wei. Il dit qu'il n'a pas une voix de vieux monsieur, juste un peu usée.
+En 2013, un concours de chant à l'école.
+
+Un étudiant se tient sur scène, guitare à la main, et choisit deux chansons qu'il affectionne particulièrement : « Fix You » et « Clocks » de Coldplay, qu'il joue et chante en solo[^1]. Il n'avait pas prévu d'y participer. Lorsqu'il évoque ce moment des années plus tard, il le fait avec la désinvolture d'une anecdote sans importance : « Commencer ma carrière musicale était un pur hasard. À l'université, pour me faire passer pour une plaisanterie, mes camarades m'ont inscrit à un concours de chant de l'école, et je n'aurais jamais imaginé remporter le premier prix. »[^2]
+
+Cette année-là, il avait vingt ans. Le concours était la 25e édition du concours de chansons populaires sur le campus Haixian[^3]. L'homme qui a remporté ce titre s'appelle Kowen Ko. Au cours des dix dernières années, il a forgé une place dans la scène indépendante de Taïwan avec cette voix que les fans surnomment affectueusement « voix d'oncle » (et qu'il préfère qualifier de « simplement un peu usée ») : une place petite, profonde et silencieuse, qui n'a jamais cessé de vibrer.
+
+## Une voix « un peu usée »
+
+Parlons d'abord de cette voix, car c'est la première chose par laquelle il a été remarqué.
+
+Basse, légèrement rauque, elle semble plus vieille que lui. Les fans lui ont attribué le titre contradictoire de « jeune premier avec une voix d'oncle », ce qu'il ne prend pas très au sérieux et corrige en souriant : « Je n'ai pas une voix d'oncle, j'ai juste un peu usé par le temps. »[^4] Le label auquel il appartient, forgood music, décrit cette voix de manière très imagée dans sa présentation officielle : « Grave, rauque, ancienne ; une texture purement primitive, comme une pierre brute roulant sous les éléments, chargée de graviers, mais d'une franchise et d'une pureté surprenantes. »[^5]
+
+Une telle voix excelle dans l'interprétation, en ancrant la chanson au plus profond du cœur. La critique musicale anglophone décrit sa voix comme « husky, comforting » (rauque, réconfortante) et ses chants comme « meandering, world-weary vocals » (une ligne vocale sinueuse et lasse du monde)[^6]. Dans l'album _Songs of the Bards_, il interprète avec Hong Pei-yu une danse rétro intitulée « Dance Partner ». La critique souligne le contraste entre la « clarté » de la voix de Hong Pei-yu et la « gruffness » (l'aspect rugueux) de celle de Kowen Ko[^7]. Ces deux textures, juxtaposées, ressemblent à deux petites planètes en opposition.
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/vwbXm4Hc3QQ" title="Kowen Ko feat. Hong Pei-yu 〈Dance Partner〉 Official Music Video" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;web-share" allowfullscreen></iframe>
+</div>
+
+_« Dance Partner », interprété par Kowen Ko et Hong Pei-yu (chaîne officielle de forgood music). Sa voix est rugueuse, la sienne est claire ; les deux timbres se soutiennent dans la même chanson._
+
+Cette voix usée est un don, non une faiblesse. Bien qu'il écrive ses chansons lentement et que sa notoriété ne soit pas immense, ces éléments n'ont rien à voir avec sa voix ; elle possède dès le départ cette capacité de faire s'arrêter l'auditeur pour écouter.
+
+## Cette télévision défectueuse à la maison
+
+Comment les oreilles d'un chanteur taïwanais ont-elles pu être si entièrement formées par l'étranger ?
+
+La réponse commence par une télévision en panne. Depuis son enfance, Kowen Ko a grandi avec un téléviseur hors service, ce qui l'a totalement déconnecté de la culture populaire et des séries télévisées taïwanaises[^8]. Ses cousines sont Wei Ru-hsuan (qui a remporté le titre de « Queen of Mandopop ») et Wei Ru-yun ; bien qu'elles aient formé un groupe dès leur enfance, Kowen Ko restait alors « impassible »[^9]. Ce qui a véritablement ouvert ses oreilles, c'est le cinéma. Dans une interview en anglais pour _Asian Pop Weekly_, il confiait : « I've loved movies since young. I used to be a movie nerd and would stay at home watching lots of them … so the kind of music that influences me is overseas music. » (J'aime les films depuis tout petit. J'étais un passionné de cinéma et je restais à la maison pour en regarder beaucoup... ainsi, le type de musique qui m'influence est la musique étrangère.) Il ajouta : « I didn't listen to Taiwanese mandopop music because there was no TV at home. » (Je n'écoutais pas de pop mandarine car il n'y avait pas de télévision à la maison.)[^10]
+
+Ce n'est qu'au lycée, avec la démocratisation d'Internet et les recommandations de ses amis sur Coldplay, qu'il a plongé dans le monde des groupes britanniques[^11]. Il a étudié les techniques vocales de Coldplay, Oasis et Damien Rice, tout en perfectionnant sa technique en chantant des morceaux de Jay Chou : l'esthétique des groupes occidentaux mêlée à la discipline des chanteurs chinois constitue le socle de sa voix[^12]. Après ses études, il est parti seul en Angleterre, en Écosse et en Irlande pour errer pendant 40 jours sans itinéraire précis[^13].
+
+Cette éducation a donné à sa musique une signature unique. En 2016, lors du festival Simple Life, un critique s'attendait à ce qu'il ressemble à d'autres artistes indépendants taïwanais comme Hsieh Chuen-ting, mais fut surpris de constater qu'il était « clearly subscribed more to British music than the normal American styles » (clairement plus attaché aux musiques britanniques qu'aux styles américains habituels) et qu'il admirait « the clean sound and sophisticated wordplay associated with British folk music » (le son pur et les jeux de mots sophistiqués associés au folk britannique). Ce critique souligna également que son idole était clairement Damien Rice[^14].
+
+> 💡 **Le saviez-vous ?** Certains auditeurs sur Internet comparent Kowen Ko à des chanteurs folk anglo-américains comme Nick Drake ou Ben Howard. Il s'agit pour la plupart d'associations personnelles basées sur l'impression auditive et non de positions établies par la critique musicale. La seule comparaison formellement documentée par les critiques est que sa chanson « Man Without A Mission » « screams Coldplay » (est tout simplement du Coldplay), faisant référence au groupe original[^15].
+
+## Le métro de Londres construit à Linkou
+
+Il existe une publicité dont beaucoup de Taïwanais se souviennent du son, mais ne savent pas qui chante.
+
+Il s'agit de « Memory Platform » de Kingston, une publicité d'image de marque de plus de sept minutes racontant une histoire d'amour retrouvée sur un quai du métro de Londres, avec pour thème musical « It Was May »[^16]. Cette voix britannique profonde est celle de Kowen Ko. Le quai ressemblant à une station londonienne et le train entrant lentement en scène étaient en réalité construits dans un studio de photographie à Linkou : la station était un décor et le train était poussé manuellement par des techniciens hors champ[^17]. Cette publicité, produite par Ling-Chih Advertising et entièrement fabriquée à Taïwan, a permis à « It Was May » d'accumuler plus d'un million de vues au fil des ans[^18].
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/f5YGicz_Mpw" title="Kowen Ko 〈It Was May〉 Official Music Video" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;web-share" allowfullscreen></iframe>
+</div>
+
+_« It Was May », thème musical de la publicité « Memory Platform » de Kingston (chaîne officielle de forgood music). Les paroles sont de Tsai Po-chang, la musique de Luen-ni, et Kowen Ko assure le chant — cette voix qui marque les esprits._
+
+Un détail est souvent négligé : bien que les paroles soient de Tsai Po-chang et la musique de Luen-ni, Kowen Ko n'était responsable que du chant[^19]. Loin d'être un point mineur, cela souligne précisément son talent fondamental : il est capable de transformer la chanson d'un autre en une œuvre qui lui appartient.
+
+Cette capacité traverse toute sa carrière. En 2020, il a interprété avec Liu Yu-ying « Every Day's Imperfection »[^20] ; en 2022, il a chanté le thème de l'animation _Hi! Monster_ intitulé « Counting to One »[^21]. Il n'est pas ce type d'artiste qui ne peut exister qu'en interprétant ses propres compositions. Faire pénétrer une chanson dans le cœur des gens est en soi son talent naturel.
+
+## Chanter pour ceux qui acceptent de s'asseoir en silence
+
+En 2015, il a sorti son premier album complet, _You Don't Really Want to Wander_[^22]. En moins de quatre mois, les billets pour un grand concert payant avec Legacy étaient épuisés[^23]. Mais ce qu'il a entrepris ensuite diffère des pratiques habituelles des nouveaux artistes.
+
+![Couverture du premier album de Kowen Ko en 2015, You Don't Really Want to Wander](/article-images/people/kowen-ko-dont-wander-2015.webp)
+
+_En 2015, « You Don't Really Want to Wander », le premier album complet de Kowen Ko, avec une proportion d'œuvres en anglais et en mandarin d'environ 4 pour 6. © forgood music, usage éditorial équitable._
+
+Il n'est pas allé dans les Live House célèbres. Il a organisé une tournée appelée « Singing Everywhere », parcourant des lieux anciens sur le point de disparaître à travers Taïwan — vieux magasins de disques, boutiques de produits divers, vieux cinémas[^24]. À Taichung, il a choisi de se produire devant un magasin centenaire qui allait fermer sous la pression de la concurrence des supérettes ; les résidents locaux s'asseyaient tranquillement en face pour l'écouter. Il a déclaré : « C'était un véritable honneur de pouvoir documenter ce vieux magasin centenaire. »[^25]
+
+Il est conscient et à l'aise dans cette position « petite mais profonde ». Lors d'un concert, il s'est moqué de lui-même en disant : « En général, ceux qui viennent me voir sont comme ça, la salle est plutôt calme. »[^26] Les journalistes décrivent son parcours comme une « voie intellectuelle », tandis que lui affirme être « quelqu'un peu bavard au quotidien »[^27]. Une fois, lors du concert de l'artiste occidental Damien Rice, un spectateur lui a lancé : « Qui es-tu ? ». Il n'en a pas été offensé et a simplement répondu : « Ceux qui m'aiment sont une minorité. Il est tout à fait normal que vous ne me connaissiez pas, je ne le prends pas mal. »[^28]
+
+Il reste également très serein face aux classements et aux prix. En 2016, lors du 27e Golden Melody Awards, il a été nommé pour deux catégories avec _You Don't Really Want to Wander_ : Nouveau talent et Meilleur chanteur masculin en langue mandarine, mais n'a rien remporté (le gagnant de l'année était Lin Jun-jie)[^29]. En 2019, lors du 30e, il a été nommé à nouveau pour le prix de Meilleur chanteur masculin avec _Songs of the Bards_, remporté par Leo Wang[^30]. Lorsqu'il évoque ces moments, son ton reste humble : « La question de gagner ou non un prix n'est pas dans mon domaine de compétence... je prends donc cela très sereinement. »[^31]
+
+Ici, il est facile d'éprouver de la frustration pour ce type d'artiste — comment une voix si magnifique peut-elle ne pas être plus célèbre ? Mais Kowen Ko ne se positionne jamais comme quelqu'un qui « manque de chance ». Il n'est pas frustré ; il estime sincèrement que cela suffit. Il illustre quelque chose de difficile à réaliser : **Un artiste peut choisir de rester dans une niche, sans anxiété ni compromis, et sans avoir besoin d'être reconnu par le plus grand nombre pour avoir de la valeur.**
+
+## Je suis resté dans ma chambre
+
+Après _Songs of the Bards_, Kowen Ko n'a pas publié d'album en mandarin pendant sept ans.
+
+Pour comprendre ces sept années, il faut comprendre sa méthode de composition. Il compose par inspiration, et non comme un créateur technique capable de suivre une méthode rigoureuse. Il a déclaré franchement dans une interview : « Je ne peux pas écrire de chansons sans inspiration... c'est un processus très spontané. » Il ne se considère même pas comme un compositeur professionnel[^32]. En 2019, il avait déjà prévenu de cette nature : « Quand j'ai l'inspiration, je peux finir une chanson instantanément ; quand je n'en ai pas, je m'arrête à la moitié. »[^33]
+
+Ses créations en anglais et en chinois suivent deux processus totalement différents. Pour les chansons en anglais, la mélodie prime : il joue, fredonne et ajoute les paroles au fur et à mesure. Il explique : « En jouant de la guitare et en chantonnant, les mots s'insèrent naturellement. » À l'inverse, pour les chansons chinoises, il doit d'abord écrire ce qu'il veut dire avant de trouver une mélodie, car le nombre de caractères chinois est plus fixe que celui des mots anglais, ne permettant pas une génération simultanée lors du jeu[^34]. Il a aussi expliqué pourquoi il préfère l'anglais : « Pour moi, l'anglais est plus polyvalent... on peut exprimer une idée en un seul mot. »[^35] La proportion de ses créations entre anglais et chinois est d'environ 4 pour 6[^36].
+
+Ses moments de composition se passent souvent sur la route. Une chanson, _Sunshine_, a été créée lors d'un mois de voyage en Inde ; dans une modeste auberge de jeunesse à Mumbai, il a élaboré une mélodie brute avec une guitare défectueuse avant de l'enregistrer sur son téléphone pour le producteur Chen Jian-ki[^37]. Ce morceau exprime que même face aux imprévus, la lumière du monde continue de briller. Une guitare cassée, un téléphone portable et une chambre dans une ville inconnue : ses inspirations surgissent souvent là où il ne les attend pas, avec les outils les plus simples à sa portée.
+
+Ainsi, durant ces sept années, ce qui était bloqué était le chinois. Lors d'une conférence de presse des années plus tard, il a été très honnête sur la raison : « En fait, c'est simplement que je n'arrivais pas à écrire d'albums en chinois. »[^38] Il avait envisagé d'aller travailler en Australie pour changer d'air et trouver de l'inspiration, mais la pandémie a bouleversé ses plans[^39]. Que faisait-il pendant cette période ? Sa réponse est tout aussi simple. En 2024, lors de son retour, un journaliste lui a demandé où il était allé durant ces années ; il a simplement répondu : « J'étais dans ma chambre. »[^40]
+
+Cependant, il n'a pas vraiment disparu. Durant ces sept ans, il a collaboré avec Liu Yu-ying et composé des thèmes pour des films[^20][^21]. Il est simplement passé en mode passif — « collaborations et commandes » — cessant la production active de compositions originales complètes. Il refuse d'appeler cette période une "période basse". Il explique : « Ce n'était pas vraiment une baisse, j'ai essayé de vivre heureux. Mais c'était effectivement un état plus fragile et sensible, alors je voulais simplement rester dans mon propre monde. »[^41] C'est sa définition personnelle, qui mérite d'être respectée bien plus que n'importe quel filtre mélancolique imposé par l'extérieur.
+
+## Un piano inconnu
+
+![Couverture de l'album My Nova de Kowen Ko en 2024](/article-images/people/kowen-ko-my-nova-2024.webp)
+
+_En 2024, « My Nova », œuvre de retour après sept ans d'absence, est également son premier album entièrement en anglais. © forgood music, usage éditorial équitable._
+
+Ce qui l'a véritablement ramené à la création a été un piano inconnu. Une fois, après un concert de Chen Jian-ki, il s'est approché d'un piano qu'il n'avait pas touché depuis longtemps et a commencé à jouer ; il ne pouvait plus s'arrêter. Il décrit ce moment : « Cela faisait vraiment longtemps que je n'en avais pas joué, c'était très étrange, mais en jouant, j'ai réalisé que je voulais continuer. »[^42] La guitare était toujours son outil de composition standard, le piano était une interface totalement nouvelle, et c'est précisément cette nouveauté qui a contourné le passage bloqué par ses habitudes. Il explique : « Depuis que je compose, je n'avais jamais écrit une chanson complète au piano, mais pendant cette période, en jouant des pièces qui m'intéressaient, j'ai recommencé à créer de nouvelles mélodies. »[^43]
+
+En novembre 2024, il a publié _My Nova_ — dix compositions inédites, et son premier album entièrement en anglais[^44]. Débloquer ce passage ne s'est pas fait par la force de la volonté, mais en changeant d'instrument inconnu et en revenant à sa langue la plus naturelle. Le titre final, « A Sigh », échantillonne le morceau pour piano de Liszt, _Un Sospiro_, avec pour thème : « C'est ainsi que va la vie, mais je suis toujours là. »[^45]
+
+(Le concert spécial était initialement prévu pour janvier 2025, mais a été reporté à mars en raison d'un événement familial. Il s'agit d'une douleur personnelle qu'il n'est pas nécessaire de détailler ici ; il suffit de savoir que cela est arrivé après son retour, et non comme la cause de sa pause de sept ans.)
+
+## Les trois albums produits par Chen Jian-ki sans pression pendant neuf ans
+
+Derrière ces trois albums se tient une seule personne : Chen Jian-ki.
+
+_You Don't Really Want to Wander_ (2015), _Songs of the Bards_ (2018) et _My Nova_ (2024) couvrent une période de neuf ans, et les trois albums ont été produits par Chen Jian-ki[^47]. Chen Jian-ki est un producteur reconnu dans la scène musicale taïwanaise : il a remporté des prix aux Golden Horse Awards (pour le thème « Same Kind » du film _Off Duty Today_) et a reçu le prix de Meilleur Producteur d'Album aux 32e Golden Melody Awards pour _No One Knows_ de Tien Fu-jen[^48]. En 2011, il a fondé « forgood music », dont les artistes incluent Wei Ru-hsuan, Hsu Han-kuang et le groupe Crispy, sélectionnant des musiciens dont la voix se situe en marge du marché principal[^49].
+
+Il est rapporté que l'étincelle qui a conduit Chen Jian-ki à découvrir Kowen Ko fut d'être « d'abord frappé par sa voix, puis de réaliser qu'il savait aussi très bien écrire »[^50]. Le point le plus singulier de cette collaboration réside dans ce « non-harcèlement ». Entre _Songs of the Bards_ et _My Nova_, il s'est écoulé près de sept ans ; Chen Jian-ki ne l'a jamais pressé pour sortir un nouvel album, mais a attendu qu'il atteigne lui-même un état propice à la création[^51]. Dès 2019, Kowen Ko avait mentionné que bien que le label puisse s'impatienter face aux délais, il était « très accommodant » envers les artistes dont le rythme de composition est lent[^52].
+
+> 📝 **Note du curateur** : Dans une industrie qui pousse les créateurs à se produire régulièrement et où les algorithmes forcent une production continue, la trajectoire de Kowen Ko ressemble davantage à un choix invisible lié au « temps ». Wei Ru-hsuan lui avait conseillé tôt : « Tu devrais avoir ton propre style, tu dois écrire ce que tu as envie d'écrire. »[^53] Derrière ces mots se cache une alternative non dite — il aurait pu profiter de ses ressources et de sa visibilité pour multiplier les apparitions publiques et les sorties d'albums afin de faire grandir le nom « Kowen Ko ». Il a choisi un autre rythme : la lenteur, en n'écrivant que lorsqu'il est prêt. Ce choix ne peut être viable que grâce à un producteur prêt à attendre et une maison de disques prête à accepter une production modeste. Ce n'est pas un luxe accessible à tous les créateurs, mais cela prouve qu'un autre rythme existe à Taïwan.
+
+En dehors des albums, Kowen Ko mène également une activité parallèle depuis longtemps : la musique pour le cinéma et la télévision. Cette branche ne commence pas en 2025. En 2018, il a interprété « Tonight » pour la bande originale de _More Sad Stories Than Sadness_ et « Far Away » pour la série _Vegetable Goddess_. En 2022, il a chanté « Counting to One » pour le film d'animation _Hi! Monster_[^54]. Il chante pour les médias depuis plusieurs années, bien que cela n'ait pas été largement remarqué jusqu'à présent.
+
+## Une chanson pour la télévision qui finit par être mise en lumière
+
+En 2025, cette trajectoire de sept ans dans le domaine des bandes originales a été enfin mise en lumière au plus haut niveau.
+
+En mars de cette année-là, la série phare de la chaîne Hakka, _The Black Tide Island Under the Starry Sky_, a été diffusée — une production centrée sur l'horreur blanche et le parc national de Lüdao, où l'équipe de production a tenté d'utiliser « la science et la médecine pour emballer un sujet politique sérieux »[^55]. Le générique de fin s'intitule « God’s Reply », composé par Chen Jian-ki, avec des paroles en mandarin de Ko Ta-wei, adaptées en Hakka (dialecte des quatre comtés) par Rao Rui-jun. Trois versions ont été publiées : Hakka, Mandarin et Anglais ; la version anglaise a été réécrite et interprétée personnellement par Kowen Ko[^56].
+
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/sNrFa3bilQI" title="Kowen Ko 〈God's Reply〉 Hakka Version Official Music Video" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer;autoplay;clipboard-write;encrypted-media;gyroscope;picture-in-picture;web-share" allowfullscreen></iframe>
+</div>
+
+_« God’s Reply » version Hakka (chaîne officielle de forgood music), générique de fin de « The Black Tide Island Under the Starry Sky ». Chen Jian-ki souhaitait qu'elle ne soit pas triste, mais plutôt « comme une berceuse que maman chanterait à son enfant »[^58]._
+
+Le Hakka a représenté un défi nouveau pour Kowen Ko. Il avait initialement reçu des paroles en mandarin, puis le projet est passé de « quelques phrases en Hakka » à « toute la chanson en Hakka », et il n'a pas eu le temps de refuser ; il a plaisanté en disant qu'il avait été « emporté par le courant »[^57].
+
+En octobre 2025, lors du 60e Golden Bell Awards, « God’s Reply » a remporté le prix de la « Meilleure chanson originale pour une émission de fiction ». Kowen Ko, Chen Jian-ki, Ko Ta-wei et Rao Rui-jun ont partagé le prix[^59]. Le fait que quatre personnes reçoivent le prix est dû aux règles d'inscription : les récompenses du ministère de la Culture doivent préciser que « les auteurs, compositeurs et interprètes communs doivent être listés ensemble »[^60].
+
+Il faut éviter une confusion courante : présenter ce Golden Bell comme une « compensation » ou un « rebond » après le passage au concours des Golden Melody Awards. Cette analogie est erronée. Les Golden Melody Awards évaluent l'artiste et l'album ; le prix du Golden Bell pour la musique de fiction évalue « le service d'une chanson à une production » ; les deux récompenses portent sur des objets différents, sur deux lignes parallèles qui ne se remplacent pas[^61]. (À noter que _My Nova_ a été nommé au 36e Golden Melody Awards dans la catégorie Meilleur album de production sonore, mais ce prix récompensait le travail d'ingénierie du son et non l'artiste lui-même ; par ailleurs, Kowen Ko est parfois confondu sur Internet avec un autre compositeur, Kowen Jiao, qui sont deux personnes totalement différentes[^62]). Le succès de « God’s Reply » n'est pas une revanche pour quelqu'un d'autre, c'est simplement sa trajectoire de sept ans dans la musique de fiction qui a enfin été mise en lumière.
+
+## Une voix plus sereine
+
+En 2025, l'année a été complète pour Kowen Ko. Au début de l'année face aux épreuves familiales, en février lors d'une conférence de presse où il a parlé de ses pauses, en mars avec le lancement de trois nouvelles chansons multilingues, en juin sur la scène du festival de Toronto, en juillet à Weiwu-ying pour un concert spécial, et en octobre avec le prix Golden Bell[^63]. Depuis ce prix jusqu'à aujourd'hui, il n'a pas encore annoncé de nouvel album ou de nouvelle tournée — c'est une pause honnête qui ne nécessite aucune conclusion forcée.
+
+Il n'est pas un artiste basé sur le flux de masse. Sur Spotify, il compte environ quarante-neuf mille auditeurs mensuels[^64]. Ce chiffre illustre parfaitement sa position : non pas une voix immense, mais un groupe de personnes prêtes à s'asseoir et à l'écouter tranquillement.
+
+Revenons à cette voix. Entre le concours de 2013 et la scène du Golden Bell en 2025, il s'est écoulé douze ans. Durant ces années, il a écrit lentement, chanté peu, et ses salles étaient souvent calmes, mais il n'a jamais considéré cela comme un problème. Quand on lui demandait « Qui es-tu ? », il répondait : « Il est normal que vous ne me connaissiez pas » ; lorsqu'il était nommé sans gagner le prix, il disait : « Être nommé est déjà une bénédiction, je ne place pas mon cœur dans la victoire ou la défaite »[^65][^28].
+
+Une voix « un peu usée », une lenteur qui refuse de se presser. Kowen Ko n'est pas devenu un nom connu par tous, mais il a tracé son propre chemin à son propre rythme, gravant une place petite et profonde dans la scène indépendante de Taïwan. Cette place n'est ni bruyante ni encombrée ; elle est réservée à ceux qui acceptent de s'asseoir en silence.
 
 ---
 
-### 2013, un étudiant qui reprend Coldplay
+**Lectures complémentaires :**
 
-En 2013, le 25e Ocean Music Festival dévoile le lauréat du concours Hai Xian (concours de musique folk universitaire). Le vainqueur est un étudiant qui joue en acoustique 〈Fix You〉 et 〈Clocks〉 de Coldplay[^1]. À l'époque, son nom chinois est encore peu connu et son nom anglais Kowen Ko est inconnu même dans le milieu.
-
-Il n'est pas issu d'une formation musicale classique. À l'université, un ami lui recommande d'écouter de la musique, et il s'y plonge corps et âme : Coldplay, Oasis, Damien Rice, Glen Hansard. Ces noms forment une liste de rock britannique et d'indie folk des années 2000. Il dit lui-même avoir été très peu influencé par la musique populaire taïwanaise : il a grandi avec la cartographie musicale britannique, puis s'est retourné pour écrire ses propres chansons en mandarin[^5].
-
-Ce point de départ explique la texture de tout ce qu'il a produit depuis. Ce n'est pas un chanteur de R&B (même si sa voix a une âme soul, même si beaucoup de critiques le placent dans le spectre R&B). C'est un chanteur de folk britannique, avec une configuration minimale : guitare, voix, parfois piano et cordes, faisant du silence une partie intégrante de la structure.
-
-### 〈It Was May〉 : l'année où une publicité l'a trouvé
-
-Fin 2013, Kingston lance une publicité intitulée 〈Memory Platform〉, tournée dans un décor de métro londonien reconstitué au Linkou Studio à Taïwan[^6]. La chanson thème est 〈It Was May〉, écrite par Kowen Ko.
-
-Cette publicité cumule plus de 5 millions de vues sur YouTube, devenant l'une des bandes sonores publicitaires les plus diffusées dans le monde sinophone en 2013. Pour un jeune artiste tout juste récompensé au concours Hai Xian, une telle visibilité est difficile à obtenir naturellement. Cinq millions de vues signifient cinq millions de curiosités collectives : « À qui appartient cette voix ? »
-
-Puis il retourne en studio. Il ne cherche pas à monétiser cette exposition publicitaire ; il veut accueillir ces cinq millions de curiosités dans un album complet.
-
-### 2015 — 〈You Don't Really Want to Wander〉 : Chen Jian-qi + double nomination aux 27e Golden Melody Awards
-
-Le 28 août 2015, Kowen Ko publie son premier album solo 〈You Don't Really Want to Wander〉, 10 titres dont 〈It Was May〉, les 9 autres étant des compositions originales. Le producteur est **Chen Jian-qi**[^7].
-
-Chen Jian-qi est l'un des producteurs les plus respectés de la scène musicale indépendante taïwanaise, ayant travaillé avec Huang Yun-ling, Chen Che-chien et Waa Wei. Waa Wei est la **cousine** de Kowen Ko[^8], ce lien familial rendant la collaboration entre Chen Jian-qi et Kowen Ko moins surprenante dans le milieu, mais confier trois albums entiers au même producteur relève d'un autre niveau de confiance.
-
-Les critiques de 〈You Don't Really Want to Wander〉 dépassent rapidement le cadre d'un premier album : Hit FM Top 10 Albums 2015, GQ Magazine — 10 albums sinophones incontournables de 2015, et le prix du Single de l'Année de l'Association des Musiciens Chinois[^9]. Plus important encore, l'album est nommé aux 27e Golden Melody Awards dans les catégories **Meilleur Nouvel Artiste** et **Meilleur Chanteur Mandarin** : être nommé simultanément dans ces deux catégories lors de la même cérémonie des Golden Melody est une reconnaissance relativement rare[^2].
-
-Son concert au Legacy Taipei, moins de quatre mois après la sortie de l'album, affiche complet — un rythme de popularité remarquable même selon les standards de la scène indépendante taïwanaise[^10].
-
-### 2018 — 〈Songs of the Bards〉 : 〈Dancing Partners〉 et deuxième nomination aux 30e Golden Melody Awards
-
-Le 2 août 2018, il publie son deuxième album 〈Songs of the Bards〉, 10 titres, à nouveau produit par Chen Jian-qi[^11]. Cet album élargit les arrangements instrumentaux sur une base de rock britannique, avec des critiques encore plus unanimes.
-
-Le titre le plus discuté de l'album est 〈Dancing Partners〉 (舞伴), un duo avec **Pei-Yu Hung**. Les deux chanteurs, avec des voix mesurées et un contrepoint presque non compétitif, chantent le moment où deux danseurs fusionnent corps et âme sur la piste. La musique et les paroles sont de Kowen Ko, le producteur reste Chen Jian-qi[^11].
-
-〈Songs of the Bards〉 est nommé aux 30e Golden Melody Awards dans la catégorie **Meilleur Chanteur Mandarin** (Leo Wang remporte le prix). La même année, il figure dans la liste GQ Magazine — 12 albums sinophones incontournables de 2018 et dans le Top 10 Albums 2018 de l'Association des Musiciens Chinois[^2].
-
-Le 25 août 2018, il donne son premier grand concert payant au TICC (Taipei International Convention Center)[^10]. Il a 28 ans, deux albums, trois nominations aux Golden Melody, un partenaire comme Pei-Yu Hung, un producteur comme Chen Jian-qi. Selon tous les standards d'un nouvel artiste indépendant, ce parcours est à la fois rapide et solide.
-
-Puis il disparaît.
-
-### Sept ans dans la chambre : 2019-2024
-
-Après 2019, le rythme de publication de Kowen Ko s'arrête brusquement. Pas de nouvel album, pas de grande tournée, des mises à jour rares sur les réseaux sociaux. La scène musicale indépendante taïwanaise se pose périodiquement la question : que fait Kowen Ko ?
-
-Dans une interview de 2024, il donne une réponse très brève :
-
-> **« J'étais dans ma chambre. »**[^3]
-
-Cette phrase n'est pas une esquive. Elle décrit précisément la réalité d'un créateur introverti face à un blocage créatif. Il n'a pas lancé d'autre activité, n'a pas participé à des émissions de variétés, n'a pas signé comme producteur sur les albums d'autres artistes. Il s'est simplement enfermé dans sa chambre, attendant que la prochaine chanson digne d'être publiée émerge d'elle-même.
-
-L'histoire de la musique indépendante taïwanaise connaît des périodes de silence similaires. Hello Nico a gardé le silence pendant huit ans avant de revenir ; les sept ans de Kowen Ko ne sont pas particulièrement longs dans ce spectre, mais il a choisi la même posture : ne pas expliquer, ne pas annoncer, ne pas se forcer.
-
-Puis un jour de 2023, les choses commencent à changer.
-
-### 2024 — 〈My Nova〉 : un retour au piano retrouvé
-
-Selon une interview de Blow (吹音樂), en 2023, Kowen Ko croise Chen Jian-qi dans les coulisses d'un concert de ce dernier. Cette rencontre le ramène au piano, où il tente d'écrire des chansons[^12]. Il décrit son état à ce moment-là :
-
-> **« Depuis que j'ai commencé à écrire des chansons, je n'avais jamais réussi à écrire une chanson complète en jouant du piano, mais après l'avoir repris, j'ai recommencé à trouver des mélodies. »**[^12]
-
-L'essentiel de cette phrase ne réside pas dans l'instrument « piano », mais dans le fait de « pouvoir terminer une chanson ». Pour un créateur bloqué depuis sept ans, « terminer » est infiniment plus difficile que « bien écrire ». Le piano représente pour lui une interface nouvelle, étrangère, dépourvie d'habitudes passées — c'est précisément cette étrangeté qui a débloqué le passage.
-
-Le 8 novembre 2024, le troisième album 〈My Nova〉 paraît. 10 compositions originales : This is My World, For Me, Every, Speak Your Mind, My Nova, Istanbul, Barely Intended, A Wormhole, Even Though I Wouldn't, A Sigh. Le producteur est toujours Chen Jian-qi[^3].
-
-La décision technique majeure de cet album est l'**enregistrement et la captation en direct simultanés**. Pas d'enregistrement puis de tournage séparés, pas de remixage piste par piste : la performance et la documentation se font en même temps. Le défi que Chen Jian-qi lance à Kowen Ko est de sortir de sa zone de confort, d'accepter l'imperfection, de capturer intégralement l'état du moment de l'interprétation[^12].
-
-Le 9 mars 2025, Kowen Ko donne un concert spécial pour la sortie de 〈My Nova〉 au Legacy TERA. Ce concert utilise une scène centrale entourée de quatre côtés, les spectateurs l'encerclant depuis toutes les directions ; le 23 juillet, il se produit au Weiying Center de Kaohsiung pour un événement spécial 〈My Little Nova〉, intégré à la programmation du second semestre 2025 de la série « Weiying Hourlight »[^13].
-
-### 〈God's Reply〉 et la percée aux Golden Bell Awards 2025
-
-Le 18 octobre 2025, lors des 60e Golden Bell Awards, le prix de la Meilleure Chanson Originale pour une série dramatique est attribué à 〈God's Reply〉 (神的回信), chanson de fin de 〈Black Tide Island Under the Starry Sky〉 (星空下的黑潮島嶼). Les quatre lauréats sont : **Chen Jian-qi, Ge Da-wei, Rao Rui-jun et Kowen Ko**[^4].
-
-Chen Jian-qi compose la musique, Ge Da-wei écrit les paroles en mandarin, Rao Rui-jun adapte la version en hakka, Kowen Ko écrit la version anglaise et l'interprète. Le passage entre quatre langues constitue le cœur technique de cette chanson : une même ligne mélodique, trois langues portant trois contextes culturels, la version anglaise de Kowen Ko conclut en élargissant la perspective vers quelque chose de plus vaste, plus au large[^14].
-
-C'est la première fois que Kowen Ko remporte un prix majeur lors d'une cérémonie musicale sinophone. Nommé deux fois aux Golden Melody sans être récompensé, les Golden Bell Awards 2025 constituent une forme de compensation temporelle, ainsi qu'une première validation officielle de son passage du statut de chanteur à celui de compositeur pour le cinéma et la télévision.
-
-### « Je n'ai pas une voix de vieux monsieur, juste un peu usée »
-
-La caractéristique vocale la plus discutée de Kowen Ko est sa **voix grave, usée, granuleuse**. Mais il n'aime pas l'étiquette « voix de vieux monsieur ». Dans une interview pour StreetVoice Dashi, il dit :
-
-> **« Je n'ai pas une voix de vieux monsieur, juste un peu usée. »**[^15]
-
-Cette phrase contient deux niveaux de signification. Le premier est physiologique : la texture de ses cordes vocales est naturellement épaisse et sombre, ce n'est pas le résultat d'une imitation. Le second esthétique : « voix de vieux monsieur » suggère une mise en scène exagérée de la maturité ; Kowen Ko ne veut pas de cela, il ne veut que l'honnêteté de la voix. L'usure est une texture, pas une performance.
-
-Son ratio de création linguistique est de 4 en anglais pour 6 en mandarin[^5]. Ce ratio reflète honnêtement son ADN musical : son langage émotionnel est à parts égales en anglais et en mandarin. Le mandarin gère les scènes concrètes, l'anglais gère l'atmosphère abstraite. Les deux langues ne sont pas en compétition dans ses chansons, elles se répartissent les rôles.
-
-### Pourquoi cela compte pour Taïwan
-
-La position de Kowen Ko dans la scène musicale indépendante taïwanaise n'est pas celle du « plus vendu » ni du « plus bruyant », mais celle de **« celui qui porte la plus grande confiance esthétique avec le moins d'albums publiés »**.
-
-**Premièrement, il prouve que dans la musique indépendante taïwanaise, on peut revenir après sept ans de silence.** L'industrie musicale sinophone a tendance à pousser les créateurs à « publier régulièrement, se montrer régulièrement, participer régulièrement à des émissions de variétés ». Les sept années de silence de Kowen Ko constituent une réfutation de ce rythme : quand un chanteur accepte de ne pas publier et que le milieu ne l'oublie pas, il existe dans cet écosystème un autre mécanisme de confiance qui transcende la logique du trafic. Hello Nico huit ans, Kowen Ko sept ans, les périodes de faible productivité de Waa Wei — ces créateurs introvertis constituent la branche à rythme lent de la musique indépendante taïwanaise.
-
-**Deuxièmement, il démontre les possibilités du folk britannique dans un contexte sinophone.** Alors que la plupart des musiciens indépendants taïwanais se tournent vers le R&B, le city pop, le hip-hop ou l'électronique, Kowen Ko reste fidèle à une lignée indie folk héritée de Coldplay / Damien Rice, prouvant avec un ratio 4:6 anglais-mandarin que cette voie a aussi son public dans le monde sinophone. Il ne prétend pas représenter un genre de manière extrême, il fait du « folk britannique en mandarin » un choix esthétique viable.
-
-**Troisièmement, trois albums entièrement produits par Chen Jian-qi constituent un échantillon de confiance rare.** De 〈You Don't Really Want à 〈Songs of the Bards〉 puis à 〈My Nova〉, sur neuf ans, un producteur, un chanteur. Ce type de partenariat stable producteur × chanteur est peu courant dans l'industrie musicale populaire sinophone. Sa signification ne réside pas dans l'efficacité commerciale, mais dans la continuité institutionnelle d'une esthétique du travail lent.
-
-L'étudiant qui jouait Coldplay en acoustique au concours Hai Xian en 2013, et le chanteur qui se tenait sur la scène des Golden Bell Awards aux côtés de Chen Jian-qi, Ge Da-wei et Rao Rui-jun en 2025, sont séparés par douze années entières. Parmi elles, sept années passées dans sa chambre. Lorsqu'il met 〈My Nova〉 sur les plateformes de streaming le 8 novembre 2024, il ne revient pas seulement sur scène — il démontre une possibilité rare : **certains créateurs ont une échelle temporelle fondamentalement différente de celle de l'industrie**.
-
-## Pour aller plus loin
-
-- **[Waa Wei](/fr/people/waa-wei-singer)** — Cousine de Kowen Ko, l'une des deux reines de la chanson, également produite par Chen Jian-qi
-- **[Chen Jian-qi](/fr/people/chen-chien-chi-music-producer)** — Producteur des trois albums de Kowen Ko, figure centrale des coulisses de la musique populaire sinophone
-- **[Hello Nico](/fr/people/hello-nico-band)** — Un autre groupe représentatif de la musique indépendante taïwanaise revenu après une longue période de silence, partageant avec Kowen Ko le spectre des « créateurs à rythme lent »
+- [Wei Ru-hsuan](/people/魏如萱) — Cousine de Kowen Ko, double lauréate du prix de Meilleure chanteuse en langue mandarine aux Golden Melody Awards, également membre de forgood music.
+- [Chen Jian-ki](/people/陳建騏) — Le producteur qui a accompagné Kowen Ko pendant neuf ans pour trois albums sans jamais le presser, un artisan multi-récompensé par les prix Golden Horse, Golden Melody et Golden Bell.
+- [Hello Nico](/people/Hello-Nico) — Un autre groupe de la scène indépendante taïwanaise souvent encadré par le terme « disparu pendant X années », mais qui produit régulièrement des œuvres.
 
 ## Références
 
-[^1]: [Wikipedia : Kowen Ko (chinois traditionnel)](https://zh.wikipedia.org/zh-hant/%E6%9F%AF%E6%99%BA%E6%A3%A0) — Article officiel de Wikipédia en chinois, documentant la naissance de Kowen Ko le 21 avril 1990 à Taïwan et sa victoire au 25e concours Hai Xian avec des reprises de Coldplay〈Fix You〉 et 〈Clocks〉.
+[^1]: [Wikipedia : Kowen Ko](https://zh.wikipedia.org/zh-hant/%E6%9F%AF%E6%99%BA%E6%A3%A0) — Entrée de Wikipédia en chinois, répertoriant son parcours, sa liste d'albums et ses récompenses, mentionnant sa victoire au concours Haixian en 2013.
 
-[^2]: [CNA : Nominations aux 27e Golden Melody Awards](https://www.cna.com.tw/news/firstnews/201605135012.aspx) — Reportage officiel de CNA annonçant les nominations aux 27e Golden Melody Awards 2016, où Kowen Ko est nommé simultanément dans les catégories Meilleur Nouvel Artiste et Meilleur Chanteur Mandarin pour 〈You Don't Really Want to Wander〉, puis à nouveau nommé aux 30e Golden Melody Awards 2019 pour 〈Songs of the Bards〉 (le prix revenant à Leo Wang).
+[^2]: [Marie Claire : Interview de Kowen Ko](https://www.marieclaire.com.tw/celebrity/story/43382) — Entretien lors de la saison des Golden Melody Awards en 2019, où il relate avec humour ses débuts.
 
-[^3]: [Epoch Times : Entretien avec Kowen Ko sur 〈My Nova〉](https://www.epochtimes.com/b5/24/11/9/n14367489.htm) — Entretien de novembre 2024, couvrant la sortie de 〈My Nova〉 le 8 novembre 2024, les 10 compositions originales, le retour à la composition au piano, ainsi que la citation directe « J'étais dans ma chambre » décrivant ses sept années de silence.
+[^3]: [dashi.streetvoice.cn : Interview de Kowen Ko](https://dashi.streetvoice.cn/article/%E6%9F%AF%E6%99%BA%E6%A3%A0/) — Entretien approfondi sur StreetVoice, confirmant son identité de vainqueur du 25e concours Haixian en 2013.
 
-[^4]: [CNA : 〈God's Reply〉 remporte le prix de la Meilleure Chanson Originale aux 60e Golden Bell Awards](https://www.cna.com.tw/news/amov/202510185005.aspx) — Reportage officiel de la cérémonie du 18 octobre 2025, le prix de la Meilleure Chanson Originale pour une série dramatique aux 60e Golden Bell Awards étant attribué à 〈God's Reply〉 de 〈Black Tide Island Under the Starry Sky〉, remporté conjointement par Chen Jian-qi, Ge Da-wei, Rao Rui-jun et Kowen Ko.
+[^4]: [Blow : Interview de Kowen Ko pour « You Don't Really Want to Wander »](https://blow.streetvoice.com/30592/) — Source originale de sa correction sur le terme « voix d'oncle ».
 
-[^5]: [Asian Pop Weekly : Cream of the C-Pop #3 — Interview with Kowen Ko](https://asianpopweekly.com/features/interviews/cream-of-the-c-pop-3-interview-with-kowen-ko-%E6%9F%AF%E6%99%BA%E6%A3%A0-the-unexpected-musician/) — Entretien en anglais détaillant l'influence musicale de Kowen Ko — Coldplay, Oasis, Damien Rice, Glen Hansard — ainsi que son ratio de création linguistique 4 anglais : 6 mandarin.
+[^5]: [forgood music : Présentation de l'artiste](https://forgoodmusic.com.tw/music/artist_about/kowen) — Texte officiel du label décrivant la texture de sa voix.
 
-[^6]: [MV officiel de 〈It Was May〉](https://www.youtube.com/watch?v=f5YGicz_Mpw) — MV officiel de la chanson thème de la publicité Kingston 〈Memory Platform〉, cumulant plus de 5 millions de vues sur YouTube, ayant fait connaître Kowen Ko au grand public en 2013.
+[^6]: [Asian Pop Weekly : Live Review — Kowen Ko au Simple Life Festival 2016](https://asianpopweekly.com/live/live-review-kowen-ko-simple-life-festival-2016/) — Critique en anglais décrivant sa voix comme « husky, comforting ».
 
-[^7]: [KKBOX : Page album de 〈You Don't Really Want to Wander〉](https://www.kkbox.com/tw/en/album/OsVJl3A4qcVQZNNJRY) — Page officielle de l'album sur KKBOX, documentant la sortie de 〈You Don't Really Want to Wander〉 le 28 août 2015, ses 10 titres et la production de Chen Jian-qi.
+[^7]: [Asian Pop Weekly : Album Review — Kowen Ko, Songs of the Bards (2018)](https://asianpopweekly.com/reviews/album-reviews/kowen-ko-songs-of-the-bards-2018/) — Comparaison entre la clarté de Hong Pei-yu et la rugosité de Kowen Ko.
 
-[^8]: [Wikipedia : Article Waa Wei (lien de parenté)](https://zh.wikipedia.org/zh-tw/%E9%AD%8F%E5%A6%82%E8%90%B1) — Article Wikipédia sur Waa Wei, la section famille documentant les liens de parenté entre Waa Wei, Queen Wei et Kowen Ko, ainsi que leur collaboration commune sous la production de Chen Jian-qi.
+[^8]: [dashi.streetvoice.cn : Interview de Kowen Ko](https://dashi.streetvoice.cn/article/%E6%9F%AF%E6%99%BA%E6%A3%A0/) — Détails sur sa déconnexion de la culture pop locale due à sa télévision en panne.
 
-[^9]: [forgood Music : Page officielle de l'artiste Kowen Ko](https://forgoodmusic.com.tw/music/artist_about/kowen) — Fiche officielle de l'artiste sur le label forgood Music, listant les récompenses complètes de 〈You Don't Really Want to Wander〉 : Hit FM Top 10 Albums 2015, GQ Magazine — 10 albums sinophones incontournables 2015, Single de l'Année de l'Association des Musiciens Chinois.
+[^9]: [Blow : Interview de Kowen Ko](https://blow.streetvoice.com/30592/) — Mention de ses cousines Wei Ru-hsuan et Wei Ru-yun.
 
-[^10]: [Mirror Media : Premier grand concert payant de Kowen Ko au TICC 2018](https://www.mirrormedia.mg/story/20180703ent022) — Reportage du 3 juillet 2018, documentant le premier grand concert payant de Kowen Ko au TICC le 25 août 2018, et rappelant la vente en moins de 4 mois du concert de sortie au Legacy en 2015.
+[^10]: [Asian Pop Weekly : Cream of the C-pop #3 — Interview with Kowen Ko](https://asianpopweekly.com/features/interviews/cream-of-the-c-pop-3-interview-with-kowen-ko/) — Citations originales en anglais sur l'influence de la musique étrangère.
 
-[^11]: [Spotify : Page album de 〈Songs of the Bards〉](https://open.spotify.com/album/1HOAhN8jtXv7yf9uoC8mXW) — Page officielle de l'album sur Spotify, 〈Songs of the Bards〉 sorti le 2 août 2018, 10 titres, produit par Chen Jian-qi, incluant le duo 〈Dancing Partners〉 avec Pei-Yu Hung, musique et paroles de Kowen Ko.
+[^11]: [dashi.streetvoice.cn : Interview de Kowen Ko](https://dashi.streetvoice.cn/article/%E6%9F%AF%E6%99%BA%E6%A3%A0/) — Transition vers les groupes britanniques au lycée.
 
-[^12]: [Blow 吹音樂 : Entretien de production sur 〈My Nova〉](https://blow.streetvoice.com/77284/) — Entretien approfondi de production, documentant la reprise du piano par Kowen Ko après sa rencontre avec Chen Jian-qi dans les coulisses d'un concert en 2023, la citation directe « Depuis que j'ai commencé à écrire des chansons, je n'avais jamais réussi à écrire une chanson complète en jouant du piano », ainsi que la décision de captation en direct simultanée pour 〈My Nova〉.
+[^12]: [dashi.streetvoice.cn : Interview de Kowen Ko](https://dashi.streetvoice.cn/article/%E6%9F%AF%E6%99%BA%E6%A3%A0/) — Détails sur l'apprentissage des techniques vocales de Jay Chou et des groupes occidentaux.
 
-[^13]: [Weiying National Arts and Cultural Center : Événement spécial 〈My Little Nova〉](https://www.npac-weiwuying.org/programs/67d7db1d67cfbf00095e5ff3) — Page officielle du programme du Weiying Center, documentant la représentation de 〈My Little Nova〉 le 23 juillet 2025 au Weiying Center, intégrée à la programmation du second semestre 2025 de la série « Weiying Hourlight ».
+[^13]: [Asian Pop Weekly : Cream of the C-pop #3 — Interview with Kowen Ko](https://asianpopweekly.com/features/interviews/cream-of-the-c-pop-3-interview-with-kowen-ko/) — Détails sur son voyage de 40 jours en Europe.
 
-[^14]: [MV officiel de la version hakka de 〈God's Reply〉](https://www.youtube.com/watch?v=sNrFa3bilQI) — MV officiel de la version hakka de 〈God's Reply〉, chanson de fin de 〈Black Tide Island Under the Starry Sky〉, illustrant la structure de collaboration à quatre personnes et trois langues : composition de Chen Jian-qi, paroles mandarin de Ge Da-wei, adaptation hakka de Rao Rui-jun, version anglaise de Kowen Ko.
+[^14]: [Asian Pop Weekly : Live Review — Kowen Ko at Simple Life Festival 2016](https://asianpopweekly.com/live/live-review-kowen-ko-simple-life-festival-2016/) — Identification de son idole Damien Rice par la critique.
 
-[^15]: [StreetVoice Dashi : « Je n'ai pas une voix de vieux monsieur, juste un peu usée »](https://dashi.streetvoice.cn/article/%E6%9F%AF%E6%99%BA%E6%A3%A0%E6%88%91%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%8F%94%E5%97%93%E5%8F%AA%E6%98%AF%E6%B2%A7%E6%A1%91%E4%BA%86%E4%B8%80%E7%82%B9/) — Entretien StreetVoice Dashi, citation directe de Kowen Ko clarifiant les caractéristiques de sa voix : « Je n'ai pas une voix de vieux monsieur, juste un peu usée », documentant sa position esthétique refusant d'être réduit à l'étiquette « voix de vieux monsieur » et ne voulant conserver que l'honnêteté de sa voix.
+[^15]: [Asian Pop Weekly : Album Review — Kowen Ko, Songs of the Bards (2018)](https://asianpopweekly.com/reviews/album-reviews/kowen-ko-songs-of-the-bards-2018/) — Comparaison spécifique avec le morceau « Man Without A Mission ».
+
+[^16]: [UDN Blog : Publicité de Kingston et « It Was May »](https://blog.udn.com/g5551001/9489209) — Détails sur la production de la publicité.
+
+[^17]: [UDN Blog : Publicité de Kingston et « It Was May »](https://blog.udn.com/g5551001/9489209) — Précisions sur le décor construit à Linkou.
+
+[^18]: [YouTube : Kowen Ko 〈It Was May〉 Official MV](https://www.youtube.com/watch?v=f5YGicz_Mpw) — Confirmation du nombre de vues dépassant un million.
+
+[^19]: [Wikipedia : Kowen Ko](https://zh.wikipedia.org/zh-hant/%E6%9F%AF%E6%99%BA%E6%A3%A0) — Distinction entre ses compositions et les titres interprétés.
+
+[^20]: [Wikipedia : Kowen Ko](https://zh.wikipedia.org/zh-hant/%E6%9F%AF%E6%99%BA%E6%A3%A0) — Détails sur la collaboration avec Liu Yu-ying en 2020.
+
+[^21]: [Wikipedia : Kowen Ko](https://zh.wikipedia.org/zh-hant/%E6%9F%AF%E6%99%BA%E6%A3%A0) — Détails sur la chanson de « Hi! Monster » en 2022.
+
+[^22]: [Blow : Interview de Kowen Ko](https://blow.streetvoice.com/30592/) — Date et détails du premier album complet.
+
+[^23]: [Wikipedia : Kowen Ko](https://zh.wikipedia.org/zh-hant/%E6%9F%AF%E6%99%BA%E6%A3%A0) — Détails sur la vente rapide des billets de concert en 2015.
+
+[^24]: [Marie Claire : Interview de Kowen Ko](https://www.marieclaire.com.tw/celebrity/story/43382) — Choix des lieux pour la tournée « Singing Everywhere ».
+
+[^25]: [Marie Claire : Interview de Kowen Ko](https://www.marieclaire.com.tw/celebrity/story/43382) — Citation sur le vieux magasin à Taichung.
+
+[^26]: [Mirror Media : Rapport sur le concert de Kowen Ko](https://www.mirrormedia.mg/story/20180703ent022) — Citation sur l'atmosphère calme des concerts.
+
+[^27]: [Mirror Media : Rapport sur le concert de Kowen Ko](https://www.mirrormedia.mg/story/20180703ent022) — Description du style « intellectuel » et sa nature réservée.
+
+[^28]: [ETtoday : Réponse de Kowen Ko à la question « Qui es-tu ? »](https://star.ettoday.net/news/722500) — Citation sur le caractère minoritaire de son public.
+
+[^29]: [CNA : Liste des gagnants du 27e Golden Melody Awards](https://www.cna.com.tw/news/firstnews/201605135012.aspx) — Confirmation officielle des nominations et résultats.
+
+[^30]: [CNA : Liste des nommés au 30e Golden Melody Awards](https://www.cna.com.tw/news/firstnews/201905155002.aspx) — Confirmation de la nomination pour _Songs of the Bards_.
+
+[^31]: [Marie Claire : Interview de Kowen Ko](https://www.marieclaire.com.tw/celebrity/story/43382) — Citation sur sa sérénité face aux prix.
+
+[^32]: [Asian Pop Weekly : Cream of the C-pop #3 — Interview with Kowen Ko](https://asianpopweekly.com/features/interviews/cream-of-the-c-pop-3-interview-with-kowen-ko/) — Détails sur son processus de création spontané.
+
+[^33]: [myplus : Interview de Kowen Ko](https://myplus.com.tw/article-20191003/719/1) — Explication de sa méthode de composition en 2019.
+
+[^34]: [dashi.streetvoice.cn : Interview de Kowen Ko](https://dashi.streetvoice.cn/article/%E6%9F%AF%E6%99%BA%E6%A3%A0/) — Différences techniques entre la création en anglais et en chinois.
+
+[^35]: [Asian Pop Weekly : Cream of the C-pop #3 — Interview with Kowen Ko](https://asianpopweekly.com/features/interviews/cream-of-the-c-pop-3-interview-with-kowen-ko/) — Citation sur la polyvalence de l'anglais.
+
+[^36]: [dashi.streetvoice.cn : Interview de Kowen Ko](https://dashi.streetvoice.cn/article/%E6%9F%AF%E6%99%BA%E6%A3%A0/) — Proportion des créations en anglais et chinois.
+
+[^37]: [Tai Sounds : Origine de la création de « Sunshine »](https://www.taisounds.com/news/content/84/50318) — Détails sur l'enregistrement à Mumbai.
+
+[^38]: [Liberty Times : Conférence de presse pour le retour de Kowen Ko](https://ent.ltn.com.tw/news/paper/1692732) — Confirmation du blocage avec les textes en chinois.
+
+[^39]: [Liberty Times : Conférence de presse pour le retour de Kowen Ko](https://ent.ltn.com.tw/news/paper/1692732) - Détails sur son projet d'exil interrompu par la pandémie.
+
+[^40]: [Epoch Times : Interview de Kowen Ko en 2024](https://www.epochtimes.com/b5/24/11/9/n14367489.htm) - Citation « J'étais dans ma chambre ».
+
+[^41]: [Blow : Interview de production pour My Nova](https://blow.streetvoice.com/77284/) - Déclaration sur son état émotionnel et sa volonté de rester dans son monde.
+
+[^42]: [Blow : Interview de production pour My Nova](https://blow.streetvoice.com/77284/) - Expérience avec le piano au studio.
+
+[^43]: [Blow : Interview de production pour My Nova](https://blow.streetvoice.com/77284/) - Premier passage par le piano dans sa carrière.
+
+[^44]: [Blow : Interview de production pour My Nova](https://blow.streetvoice.com/77284/) - Détails sur la sortie du 8 novembre 2024.
+
+[^45]: [Blow : Interview de production pour My Nova](https://blow.streetvoice.com/77284/) - Référence à _Un Sospiro_ de Liszt.
+
+[^46]: [ETtoday : Report de concert dû à des problèmes familiaux](https://star.ettoday.net/news/2932257) - Détails sur le report du concert au 9 mars.
+
+[^47]: [Wikipedia : Kowen Ko](https://zh.wikipedia.org/zh-hant/%E6%9F%AF%E6%99%BA%E6%A3%A0) - Confirmation des trois albums produits par Chen Jian-ki.
+
+[^48]: [Liberty Times : Chen Jian-ki remporte le prix de production](https://ent.ltn.com.tw/news/breakingnews/3646238) - Preuve de son statut de producteur majeur.
+
+[^49]: [Taiwan Beats : Présentation de forgood music](https://zh.taiwanbeats.tw/archives/11312) - Détails sur la mission du label.
+
+[^50]: [Blow : Interview de Kowen Ko](https://blow.streetvoice.com/30592/) - Circonstances de sa découverte par Chen Jian-ki.
+
+[^51]: [Epoch Times : Interview de Kowen Ko en 2024](https://www.epochtimes.com/b5/24/11/9/n14367489.htm) - Détails sur la patience du label durant les années d'absence.
+
+[^52]: [myplus : Interview de Kowen Ko](https://myplus.com.tw/article-20191003/719/1) - Mention de l'ouverture du label face à son rythme lent.
+
+[^53]: [myplus : Interview de Kowen Ko](https://myplus.com.tw/article-20191003/719/1) - Conseil de Wei Ru-hsuan sur le style personnel.
+
+[^54]: [Wikipedia : Kowen Ko](https://zh.wikipedia.org/zh-hant/%E6%9F%AF%E6%99%BA%E6%A3%A0) - Chronologie de ses travaux pour la télévision et le cinéma.
+
+[^55]: [TwReporter : Reportage sur « The Black Tide Island »](https://www.twreporter.org/a/black-tide-island) - Analyse des enjeux politiques du scénario.
+
+[^56]: [Hakkanews : Lancement de « God’s Reply » en trois langues](https://hakkanews.tw/2025/03/26/189242/) - Détails sur les versions multilingues et la production.
+
+[^57]: [Hakkanews : Kowen Ko parle de la version Hakka](https://hakkanews.tw/2025/03/26/189242/) - Comment il a été « emporté » par le projet en Hakka.
+
+[^58]: [China Times : Vidéo de « God’s Reply » en ligne](https://www.chinatimes.com/realtimenews/20250326003084) - Vision de Chen Jian-ki pour une berceuse non triste.
+
+[^59]: [CNA : Liste des gagnants du 60e Golden Bell Awards](https://www.cna.com.tw/news/amov/202510185005.aspx) - Confirmation officielle de la victoire collective pour « God’s Reply ».
+
+[^60]: [Ministère de la Culture : Règles des prix Golden Bell](https://law.moc.gov.tw/LawContent.aspx?id=GL001512) - Base légale pour le partage du prix entre les créateurs.
+
+[^61]: [CNA : Liste des nommés au 36e Golden Melody Awards](https://www.cna.com.tw/news/amov/202505145004.aspx) - Distinction entre les critères de sélection des deux cérémonies.
+
+[^62]: [CNA : Liste des nommés au 36e Golden Melody Awards](https://www.cna.com.tw/news/amov/202505145004.aspx) - Distinction entre Kowen Ko et Kowen Jiao.
+
+[^63]: [CTWANT : Calendrier de Kowen Ko en 2025](https://www.ctwant.com/article/418183) - Détails sur ses performances à Toronto et Weiwuying.
+
+[^64]: [Spotify : Page officielle de Kowen Ko](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) - Données sur le nombre d'auditeurs mensuels.
+
+[^65]: [Liberty Times : Interview de Kowen Ko](https://ent.ltn.com.tw/news/paper/1692732) - Citation sur la bénédiction d'être nommé.
+
+## Sources des images
+
+- Image principale : Portrait de Kowen Ko. Source forgood music, [Page officielle Spotify](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd). © forgood music, usage éditorial équitable.
+- Corps du texte : Couverture de l'album _You Don't Really Want to Wander_ (2015). © forgood music, usage éditorial équitable.
+- Corps du texte : Couverture de l'album _My Nova_ (2024). © forgood music, usage éditorial équitable.
+- Vidéos : « Dance Partner », « It Was May » et la version Hakka de « God’s Reply » sont extraites de la chaîne YouTube officielle de forgood music à des fins de commentaire.

@@ -1,221 +1,234 @@
 ---
-title: "Taiwan's Drone Industry: From Taichung Toy Planes to the Blue List — One Ticket, Awarded to Thunder Tiger"
-description: "On September 21, 2025, Thunder Tiger's Overkill FPV loitering munition became the first — and so far only — Taiwanese product to earn U.S. Department of Defense Blue UAS Cleared List certification. Across the entire list of 39 complete airframes and 165 components, Taiwan holds exactly one seat. In April 2026, four bipartisan U.S. senators co-sponsored the Blue Skies for Taiwan Act, demanding a fast-track pathway for Taiwanese manufacturers. The very existence of the bill reveals one thing: Taiwan has been moving too slowly, and even the United States has had to legislate a lower bar. A company that has spent forty-six years making radio-controlled toy airplanes in Taichung is now planning a second factory in Ohio."
+title: "Taiwan's Drone Industry: From Taichung Toy Planes to the Blue List—How Thunder Tiger Secured an Entry Ticket"
+description: 'On September 21, 2025, Thunder Tiger''s Overkill FPV kamikaze drone passed the U.S. Department of Defense Blue UAS Cleared List certification—the first and so far only company from Taiwan to do so. Out of 39 full platforms and 165 components on the list, Taiwan holds just one spot. In April 2026, four bipartisan U.S. Senators proposed the "Blue Skies for Taiwan Act" to establish a fast track for Taiwanese vendors; the very existence of this bill reveals that Taiwan is moving too slowly, requiring even the U.S. to legislate lower barriers. A company that made remote-controlled toy planes in Taichung for forty-six years is now planning its second factory in Ohio.'
 date: 2026-04-08
-author: 'Taiwan.md'
 category: 'Technology'
+tags:
+  [
+    'Drones',
+    'Defense',
+    'Thunder Tiger',
+    'Non-Red Supply Chain',
+    'Military Industry',
+    'AI',
+    'Blue UAS',
+  ]
 subcategory: 'Technology'
-tags: ['無人機', '國防', '雷虎科技', '非紅供應鏈', '軍工', 'AI', 'Blue UAS']
-readingTime: 16
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-10
 lastHumanReview: false
-featured: false
-translatedFrom: 'Technology/台灣無人機產業.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:de2ace5a9d645535'
-sourceBodyHash: 'sha256:0efd20b7166e441a'
-translatedAt: '2026-06-16T17:11:47Z'
 image: '/article-images/technology/chung-shyang-ii-uav-2007.webp'
 imageCredit: 'Kliu1'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg'
+readingTime: 16
+sporeLinks:
+  [
+    "{'id': 70, 'platform': 'threads', 'date': '2026-05-10', 'url': 'https://www.threads.com/@taiwandotmd/post/DYKW0PmkzbM'}",
+  ]
+translatedFrom: 'Technology/台灣無人機產業.md'
+sourceCommitSha: 'c2412970f'
+sourceContentHash: 'sha256:9a74d696840dfd44'
+sourceBodyHash: 'sha256:6b0ed5d3cd521366'
+translatedAt: '2026-07-28T21:27:51+08:00'
 ---
 
-> **30-second overview:** Taiwan's drone industry is experiencing a geopolitically driven explosion. The Ministry of National Defense plans to spend NT$50 billion procuring nearly 50,000 military drones, and drones are one of the core items in the Executive Yuan's NT$1.25 trillion special budget. Thunder Tiger Technology became the first Taiwanese company to earn U.S. Blue UAS certification. From crop-dusting to battlefield reconnaissance, Taiwan's drone industry is shifting from "contract manufacturing" to "defense self-reliance," aiming to become the next strategic industry after semiconductors.
+> **30-Second Overview:** Taiwan's drone industry is experiencing a burst driven by geopolitics. The Ministry of National Defense (MND) plans to procure nearly 50,000 military drones with a budget of NT$50 billion, and drones are a core item in the Executive Yuan's NT$1.25 trillion special budget. Thunder Tiger has become the first Taiwanese enterprise to pass the U.S. Blue UAS (Blue Unmanned Aircraft Systems) Cleared List certification. From spraying farmland to battlefield reconnaissance, Taiwan's drone industry is moving from "OEM" to "defense autonomy," attempting to become the next strategic industry after semiconductors.
 
-In 1979, Thunder Tiger Technology was founded in Taichung, making radio-controlled model airplanes. For forty-six years, the company made toys, made aircraft models, and even made dental equipment. No one anticipated that on September 21, 2025, Thunder Tiger's FPV loitering munition "Overkill" would become the first Taiwanese product to earn U.S. Department of Defense Blue UAS Cleared List certification[^1].
+In 1979, Thunder Tiger was founded in Taichung, making remote-controlled model airplanes. For forty-six years, this company has produced toys, aero-models, and even dental equipment. No one predicted that on September 21, 2025, one of Thunder Tiger's FPV kamikaze drones, the "Overkill," would become the first Taiwanese product to pass the U.S. Department of Defense "Blue UAS Cleared List" certification[^1].
 
-The Blue List is the Pentagon's certification for drones deemed "safe enough for use by U.S. government agencies." Before this, the list was almost entirely populated by domestic American and allied-nation vendors. What Thunder Tiger received was more than a certificate — it was a ticket into the U.S. government drone procurement market, a market estimated in the hundreds of billions of dollars.
+The Blue List is the Pentagon's certification for drones that are "secure enough to be used by U.S. government agencies." Prior to this, the list consisted almost entirely of domestic U.S. and allied manufacturers. What Thunder Tiger obtained was not just a certificate, but an entry ticket to the U.S. government drone procurement market: a market valued in the tens of billions of dollars.
 
-> **📝 Curator's note**
-> The explosion of Taiwan's drone industry bears a structural resemblance to the rise of Taiwan's semiconductor industry: in both cases, geopolitics created the market. Semiconductors rose because the world needed a chip fabrication base beyond China's control; drones rose because the United States needs a drone supply chain free of Chinese components. Taiwan has been standing in the right place both times.
+> **📝 Curator's Note**
+> The explosion of Taiwan's drone industry shares a structural similarity with the rise of Taiwan's semiconductor industry: both markets were created by geopolitics. Semiconductors arose because the world needed a chip manufacturing base not controlled by China; drones are rising because the U.S. needs a drone supply chain that excludes Chinese components. In both instances, Taiwan was in the right position.
 
-## From Farmland to Battlefield
+## From Farmland to the Battlefield
 
 Taiwan's drone applications began in agriculture.
 
-Around 2017, agricultural drones started appearing in the fields of Yunlin and Chiayi. A multi-rotor drone carrying a pesticide tank could complete in 10 minutes what took a human worker 40 minutes, using only one-fourth to one-twentieth the pesticide of traditional methods[^2]. By 2021, more than a thousand pilots across Taiwan had obtained dual agricultural-spraying certifications.
+Around 2017, agricultural drones began appearing in the fields of Yunlin and Chiayi. A multi-rotor drone equipped with a pesticide tank could complete 40 minutes of traditional manual spraying in just 10 minutes, using only one-fourth to one-twentieth of the amount of pesticide required by traditional methods[^2]. By 2021, over one thousand pilots in Taiwan had obtained dual licenses for agricultural spraying and drone operation.
 
-But what truly launched the industry was not agriculture — it was the military.
+But it was not agriculture, but the military, that truly launched the industry.
 
-In 2023, the Ministry of National Defense opened its first public tender for "military-commercial specification" drones. This term is important: these are not military-designed, military-manufactured mil-spec products, but rather commercially available drones purchased from civilian vendors, augmented with military-grade information security and communications encryption. The concept was drawn from lessons on the Ukrainian battlefield — cheap, mass-producible commercial drones proved more effective in real combat than expensive military-spec equipment[^3].
+In 2023, the MND opened its first public tender for "military-grade commercial" (COTS) drones. This term is crucial: these are not military-spec products designed and manufactured by the military itself, but commercial-specification drones purchased from private vendors, supplemented with military-grade cybersecurity and communication encryption. The concept comes from lessons learned on the Ukrainian battlefield: cheap, high-volume, expendable commercial drones are more effective in actual combat than expensive military-grade equipment[^3].
 
-## The NT$50 Billion Tender and 50,000 Drones
+## A NT$50 Billion Tender and 50,000 Drones
 
-On July 23, 2025, the Ministry of National Defense formally announced the largest military-commercial drone procurement program in its history: approximately NT$50 billion to purchase nearly 50,000 drones across five categories between 2026 and 2027 — multi-rotor reconnaissance drones, fixed-wing attack drones, vertical-takeoff fixed-wing drones, FPV loitering munitions, and micro-reconnaissance drones[^4].
+On July 23, 2025, the MND officially announced the largest-scale military-spec commercial drone procurement project in history: between 2026 and 2027, it expects to procure nearly 50,000 drones for approximately NT$50 billion, covering five types of aircraft: multi-rotor reconnaissance drones, fixed-wing attack drones, VTOL (Vertical Take-Off and Landing) fixed-wing drones, FPV kamikaze drones, and micro-reconnaissance drones[^4].
 
-The first batch of 3,600 drones, worth approximately NT$7 billion, has already been awarded. Winning bidders include Coretronic Intelligent Robotics (CIRC), Evergreen Aerospace Technology, JettWings Technology, and MiTAC Information Technology. Mass deliveries begin in the second half of 2026, with 11,270 drones expected to be delivered that year and another 37,480 in 2027.
+The first wave of 3,600 units, worth approximately NT$7 billion, has already been awarded. Winning vendors include CIRC (中光電智能機器人), Evergreen Aerospace (長榮航太), Zhifei Technology (智飛科技), and Shintong Information (神通資訊). Mass deliveries will begin in the second half of 2026, with an expected delivery of 11,270 units, followed by another 37,480 units in 2027.
 
-This is only the beginning. Within the Executive Yuan's NT$1.25 trillion special budget, drones are one of seven major items, with planned procurement exceeding 200,000 drones of various types and over a thousand unmanned surface vessels[^5].
+This is only the beginning. Within the Executive Yuan's NT$1.25 trillion special budget, drones are one of seven core items, planning a total volume of over 200,000 drones of various types and over a thousand unmanned surface vessels[^5].
 
-| First Batch           | Follow-on Plans                         |
-| --------------------- | --------------------------------------- |
-| 3,600 units           | 50,000 units (NT$50 billion)            |
-| NT$7 billion          | Part of NT$1.25 trillion special budget |
-| CIRC, Evergreen, etc. | 20+ firms competing                     |
-| Delivery in 2026      | Phased delivery 2026–2033               |
+| First Wave                      | Subsequent Planning                         |
+| :------------------------------ | :------------------------------------------ |
+| 3,600 units                     | 50,000 units (NT$50 billion)                |
+| NT$7 billion                    | Part of the NT$1.25 trillion special budget |
+| CIRC, Evergreen Aerospace, etc. | Competition among 20+ vendors               |
+| 2_026 Delivery                  | Phased delivery from 2026–2033              |
 
-> **💡 Did you know?**
-> Coretronic Intelligent Robotics (CIRC) had less than NT$100 million in drone revenue in 2024. If government tenders ship on schedule, 2026 revenue will surge past NT$1 billion — a tenfold increase. A single defense contract has rewritten a company's trajectory.
+> **💡 Did You Know?**
+> In 2024, CIRC's drone revenue was less than NT$100 million. If government tenders deliver as scheduled, its revenue will explode to over NT$1 billion in 2026, a more than tenfold increase. A single defense order has rewritten the destiny of a company.
 
 ## The Non-Red Supply Chain
 
-"Non-red supply chain" is the keyword for Taiwan's drone industry.
+"Non-Red Supply Chain" is the keyword for Taiwan's drone industry.
 
-The global civilian drone market has long been dominated by China's DJI (Da-Jiang Innovations), with over 70% market share. But DJI products are treated as an information security risk by many governments — drone-captured imagery and flight data could be transmitted back to Chinese servers. Starting in 2020, the U.S. government progressively banned federal agencies from using DJI products and established the Blue List as an alternative[^6].
+The global civilian drone market has long been monopolized by China's DJI (Da Jiang Innovations), with a market share exceeding 70%. However, DJI products are viewed as security risks by many governments: imagery and flight data captured by these drones could be transmitted to Chinese servers. Since 2020, the U.S. government has progressively banned federal agencies from using DJI products and established the Blue List as an alternative[^6].
 
-Taiwan's opportunity lies here: the United States and its allies need a drone supply chain independent of Chinese components. Taiwan has a foundation in semiconductors and precision manufacturing, a security alliance with the United States, and its own defense needs as a proving ground. Approximately NT$300 billion of the NT$1.25 trillion special budget will be manufactured by Taiwanese firms, with the goal of building this "non-red supply chain"[^7].
+Here lies Taiwan's opportunity: the U.S. and its allies need a drone supply chain that does not rely on Chinese components. Taiwan possesses the foundation of semiconductors and precision manufacturing, maintains a security alliance with the U.S., and has its own defense needs to serve as a testing ground. Approximately NT$300 billion of the NT$1.25 trillion special budget will be manufactured by local Taiwanese firms, with the goal of establishing this "non-red supply chain"[^7].
 
-> **📝 Curator's note**
-> Thunder Tiger's path into the U.S. market is worth watching: first obtain Blue UAS certification (solving the trust problem), then target the U.S. Army's Drone Dominance Program, which aims to deliver over 200,000 small drones to the military by 2027. A model-airplane company from Taichung is bidding on Pentagon contracts.
+> **📝 Curator's Note**
+> Thunder Tiger's path into the U.S. market is noteworthy: first securing Blue UAS certification (solving the trust issue), then targeting the U.S. Army's "Drone Dominance Program," which expects to deliver a portion of over 200,000 small drones to the U.S. military by 2027. A model airplane company from Taichung is bidding for Pentagon orders.
 
-![NCSIST Albatross UAV No. 9717 on display at Zhongzheng Naval Port Open Day, May 2013, wings extended, low-profile on a concrete waterfront surface — one of Taiwan's signature domestically developed military UAVs](/article-images/technology/uav-9717-zhongzheng-port-2013.webp)
+![NCSIST Albatross (銳鳶) UAV No. 9717 displayed during the May 2013 Zhongzheng Naval Base Open Day; wings extended, resting on the concrete shore, representing one of Taiwan's indigenous military UAV models](/article-images/technology/uav-9717-zhongzheng-port-2013.webp)
 
-_May 4, 2013: NCSIST "Albatross" UAV (No. 9717) on display at Pier 11, Zhongzheng Naval Port, Kaohsiung. Photo: 玄史生. [CC BY-SA 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg)._
+_May 4, 2013, NCSIST "Albatross" (銳鳶) UAV (No. 9717, NCSIST Albatross series) displayed at Pier 11, Zhongzheng Naval Base, Kaohsiung Open Day. Photo: Xuan Shisheng. [CC BY-SA 3.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg)._
 
-## The Blue List and One Ticket
+## The Blue List and an Entry Ticket
 
-The true scarcity of the Blue List becomes clear from one number: as of early 2026, across Taiwan's entire drone industry, **only one company and one product** has directly earned Blue UAS Cleared certification — Thunder Tiger's Overkill FPV[^11]. The remaining forty-plus airframe slots and over 160 component slots still belong to North American and allied-nation vendors.
+The true scarcity of the Blue List can be seen in one number: as of early 2026, within the entire Taiwan drone industry, **only one company and one product** have directly passed Blue UAS Cleared certification: Thunder Tiger's Overkill FPV[^11]. The remaining spots for over forty full platforms and over 160 components still belong to North American and allied manufacturers.
 
-This is not because the program is new. The Blue UAS program launched in 2020, and on December 3, 2025, it was formally transferred from the Defense Innovation Unit (DIU) to the Defense Contract Management Agency (DCMA), with a new portal at `bluelist.dcma.mil`, managed by the Unmanned Systems Experimentation Command (US-X) in Palmdale, California[^12]. After more than five years of mature operation, Taiwan has squeezed into exactly one seat.
+This is not because the list is new. The Blue UAS program has been online since 202/0, and on December 3, 2025, it was officially transferred from the Defense Innovation Unit (DIU) to the Defense Contract Management Agency (DCMA). The new portal is located at `bluelist.dcma.mil`, managed by the "Unmanned Systems Experimental Command" (US-X) based in Palmdale, California[^12]. After the mechanism has been operating maturely for over five years, Taiwan has only managed to squeeze into one seat.
 
-The difficulty of earning that seat is written into the legal foundation. The parent legislation is Section 848 of the FY2020 National Defense Authorization Act (NDAA): a prohibition on the Department of Defense procuring any drone "manufactured in China or containing critical Chinese components." The named prohibited components include flight controllers, radios, data transmission units, cameras, gimbals, ground control systems, operating software, and data storage units — essentially every part of a drone that "stores or transmits data." In 2022, the provision was expanded to cover Russia, Iran, and North Korea[^13]. A vendor applying for Blue UAS must submit a complete bill of materials from chip to software for Pentagon review, replacing every component sourced from a covered country. American industry representatives at a U.S.-Taiwan defense industry forum openly admitted that "removing all Chinese components from small drones is genuinely difficult"[^14].
+The difficulty of obtaining this ticket is written into the law. The parent authority of Blue UAS is Section 848 of the 2020 National Defense Authorization Act (NDAA): it prohibits the DoD from procuring any drones "manufactured in China or containing critical Chinese components." Specifically prohibited key components include flight controllers, radios, data transmission devices, cameras, gimbals, ground control systems, operating software, and data storage units: essentially every part of a drone that "stores or transmits data." In 2022, the provision was expanded to include Russia, Iran, and North Korea[^13]. For a vendor to apply for Blue UAS, they must prepare a complete BOM (Bill of Materials) from chips to software for Pentagon review; every source from a "covered country" must be replaced. U.S. vendors admitted at the Taiwan-U.S. Defense Industry Forum that "removing all Chinese components from small drones is extremely difficult"[^14].
 
-Thunder Tiger took a direct path, but not alone. In June 2025, Thunder Tiger signed a memorandum of understanding with U.S. defense technology firm Auterion, integrating Auterion's Skynode AI platform into the Overkill series; in the same month, NCSIST also signed a strategic partnership with Auterion — the first agreement of this level between NCSIST and a foreign defense technology company[^15]. Three months later, Overkill passed Blue UAS. At the October AUSA (Association of the U.S. Army) exhibition, Thunder Tiger and Auterion shared a booth, rebranding Overkill as "Flying Blade" and screening a live-test video demonstrating detection of moving targets at 1 kilometer in a complex electromagnetic environment. That December, Thunder Tiger announced its bid for the U.S. Army's Drone Dominance Program — an US$1.1 billion program using a four-stage gauntlet format, narrowing 25 companies down to roughly 12 to produce an initial batch of 30,000 units, with a target unit price of US$2,300. Thunder Tiger plans to establish an assembly plant in Ohio in the first quarter of 2026 to meet "Buy American" requirements[^16].
+Thunder Tiger is taking a direct path, but they are not alone. In June 2025, Thunder Tiger signed an MOU with the U.S. defense tech company Auterion, integrating Auterion's Skynode AI platform into the Overkill series. That same month, NCSIST also signed a strategic partnership with Auterion; this was the first time NCSIST had signed an agreement of this level with a foreign defense technology company[^15]. Three months later, Overkill passed Blue UAS. At the October U.S. Army Association (AUSA) exhibition, Thunder Tiger shared a booth with Auter_rion, rebranding Overkill as "Flying Blade" and playing combat test footage of detecting moving targets within a 1 km range in complex electromagnetic environments. In December of the same year, Thunder Tiger announced its participation in the U.S. Army's "Drone Dominance Program" bid: an $1.1 billion program using a four-stage gauntlet system, where 25 companies enter operational testing, eventually leaving about 12 to produce the first 30,000 units, with a target unit price of $2,300. Thunder Tiger plans to establish an assembly plant in Ohio in Q1 2026 to comply with "Buy American" requirements[^16].
 
-> **💡 Did you know?**
-> Taiwanese firms that cannot earn their own ticket have a second path: manufacturing hardware for those who already have one. Coretronic Intelligent Robotics (CIRC) manufactures Teledyne FLIR's SIRAS quad-rotor drone in Taiwan, with final integration completed in the United States; Teledyne FLIR's Ion M440 is already on the Cleared List. Sysgration (5309) partnered with U.S.-based Vantage Robotics in September 2025 to launch the Vesper and Trace, two Blue UAS / NDAA-compliant drones. The cost of this indirect path: Taiwan's name does not appear on the list; the products are sold back to the U.S. under an American brand.
+> **💡 Did You Know?**
+> There is a second path for Taiwanese manufacturers who cannot secure the ticket: acting as hardware providers for those who have. CIRC (中光電智能機器人) manufactures Teledyne FLIR's SIRAS quadcopter in Taiwan, which is ultimately integrated in the U.S.; another Teledyne FLIR model, the Ion M440, is already on the Cleared List. Sysgration (系統電, 5309) collaborated with U.S.-based Vantage Robotics in September 2025 to launch the Vesper and Trace, two Blue UAS/NDAA-compliant drones. The cost of this indirect path is that Taiwan's name will not appear on the list; instead, products are sold back to the U.S. under American brands.
 
-The legislative front is also in motion. In April 2026, U.S. Senators Ted Cruz and John Curtis (Republican) alongside Jeff Merkley and Andy Kim (Democrat) co-sponsored the _Blue Skies for Taiwan Act of 2026_ (S.4259), requiring the State Department, in coordination with the Department of Defense, to "establish a fast-track pathway for Taiwanese Blue UAS vendors" and to set up a Blue UAS working group to evaluate Taiwanese production capacity and identify opportunities and obstacles for integrating Taiwanese components into the U.S. defense supply chain[^17]. The bill's existence is itself an implicit admission: Taiwanese firms are currently moving too slowly, and legislation is needed to lower the bar.
+The legislative layer is also moving. In April 2026, U.S. Senators Ted Cruz and John Curtis (Republicans) along with Jeff Merkley and Andy Kim (Democrats) jointly proposed the "Blue Skies for Taiwan Act of 2026" (S.4259), requesting that the State Department work with the DoD to "establish a fast track for Taiwanese Blue UAS vendors" and establish a Blue UAS working group to assess Taiwan's capacity and identify opportunities and obstacles for integrating Taiwan-made components into the U.S. defense supply chain[^17]. The existence of the bill is an implicit admission: Taiwanese vendors are currently moving too slowly, necessitating legislation to lower the barriers.
 
-> **⚠️ Controversial perspective**
-> Defense media outlet DefenseScoop revealed in November 2025 a structural loophole in the Blue List: NDAA Section 848 only covers components that "store or transmit data" — **motors, passive electronics, and other mechanical parts are currently not prohibited**. Multiple drones already on the Blue UAS list still contain Chinese motors[^18]. This loophole is a double-edged sword for Taiwan: on one hand, it lowers the cost of component replacement for Taiwanese firms; on the other, it undermines the trust promise that "Blue List = fully de-Sinicized."
+> **⚠️ Controversial Viewpoint**
+> Defense media outlet _DefenseScoop_ revealed a structural loophole in the Blue List in November 202 $\text{5}$: NDAA 848 only lists components that "store or transmit data"; **mechanical components such as motors and passive electronic components are not prohibited**. Several drones that have passed Blue UAS still contain Chinese motors[^18]. This loophole is a double-edged sword for Taiwan: on one hand, it lowers the cost for Taiwanese vendors to replace parts; on the other, it weakens the trust commitment that "Blue List = complete de-Chinaization."
 
-## Dual-Track Industrial Base: NCSIST vs. Five Private Firms
+## A Dual-Track Industry Base: NCSIST vs. Five Private Firms
 
-Taiwan's drone industry runs on two legs. One is domestically developed military-spec platforms, led by the National Chung-Shan Institute of Science and Technology (NCSIST). The other is military-commercial specification procurement, carried out by five private-sector winning bidders. The two legs do different things with different resources.
+Taiwan's drone industry runs on two legs. One is indigenous military-spec, led by the National Chung-Shan Institute of Science and Technology (NCSIST/中科院). The other is military-spec commercial, undertaken by five winning private vendors. The two legs perform different tasks and are allocated different resources.
 
-The NCSIST leg produces high-end indigenous platforms. The **Teng Yun (Cloud Rider) Type II** is a large reconnaissance drone using the same engine as the U.S. MQ-9B SkyGuardian, capable of over 20 hours of endurance; a mass production budget may only be allocated in 2026[^11]. The **Albatross (Rui Yuan) Type II** is a shipborne surveillance and reconnaissance drone for the Navy, with a 12-meter wingspan, 300-kilometer datalink range, and 2,000-kilometer maximum range, entering mass production from 2025[^12]. The **Red Kuei (Red Sparrow) Type III** replaces the Type II and is operated by the Marine Corps as a small reconnaissance drone for company-level field units[^11]. The **Chien Xiang** is a anti-radiation loitering munition that has been in mass production since 2019, with 104 units planned for delivery over six years, assigned to the Air Force Air Defense and Missile Command[^13].
+The NCSIST leg focuses on high-end, self-developed models. The **Teng-yun Type II** is a large reconnaissance drone using the same engine as the U.S. Army's MQ-9B "SkyGuardian," capable of staying airborne for over 20 hours; mass production budget is not expected until 2026[^11]. The **Albatross (銳鳶) Type II** is a naval carrier-based reconnaissance drone with a 12-meter wingspan, a 300 km control distance, and a maximum range of 2,000 km, with mass production starting in 2025[^12]. The **Red Sparrow (紅雀) Type III** succeeds the Type II, operated by the Marine Corps as a small reconnaissance drone for company-level field units[^11]. The **Jian-xiang (劍翔)** is an anti-radiation loitering munition that has been in mass production since 2019, with plans to deliver 104 units within six years, integrated into the Air Force Air Defense and Missile Command[^13].
 
-In 2025, NCSIST announced it would release the manufacturing, systems integration, and technology licensing for these platforms to private-sector firms — the first round of policy-driven redistribution of indigenous defense technology to civilian mass production[^11].
+In 2025, NCSIST announced it would release the production, system integration, and technology licensing of these models to private vendors, marking the first wave of policy-driven restructuring to "devolve indigenous technology to civilian mass production"[^11].
 
-The private-sector leg handles the "military-commercial specification" procurement program — the military places orders, firms produce to commercial specifications, and military-grade encrypted communications and information security certifications are added. The first batch of 3,037 drones, worth approximately NT$6.887 billion, was awarded to four firms in 2024; a second batch worth NT$6.951 billion was awarded to the same four firms again in August 2025[^14]:
+The private leg handles "military-spec commercial" procurement: orders placed by the military, produced by vendors to commercial standards, plus encrypted communications and cybersecurity certification. The first wave of 3,037 units, worth approximately NT$6.887 billion, was awarded in 2024 to four companies; the second wave of NT$6.951 billion was awarded in August 2025 to the same four companies[^14]:
 
-| Firm                                   | Main Products                                                               | Production Capacity                                                                                                                |
-| -------------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Coretronic Intelligent Robotics (CIRC) | 1,485 micro units + 1,552 surveillance-type units, electro-optical payloads | Over 3,000 units shipped in 2025, largest in Taiwan; clients include Teledyne FLIR; certified in Europe, Australia, and Japan[^15] |
-| GEOSAT Aerospace & Technology          | Navy surveillance type + Army micro type                                    | Visual payload with 30x zoom, 1080P HD, 640×512 infrared thermal imaging                                                           |
-| Evergreen Aerospace Technology         | Shipborne surveillance type + assembly and testing                          | Aviation maintenance production line converted to military use                                                                     |
-| JettWings Technology                   | Land-based surveillance type                                                | Focused on military-commercial turnkey solutions                                                                                   |
-| MiTAC Information Technology           | Micro reconnaissance + micro tactical + encrypted communications            | Encrypted communications modules are a critical software-layer position                                                            |
+| Vendor                          | Primary Products                                                     | Capacity                                                                                                                    |
+| :------------------------------ | :------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
+| CIRC (中光電智能機器人)         | Micro (1,485 units) + Reconnaissance (1,552 units), optical payloads | Over 3,000 units shipped in 2025, Taiwan's largest; clients include Teledyne FLIR, certified by Europe/Australia/Japan[^15] |
+| GEOSAT (經緯航太)               | Naval Reconnaissance + Army Micro                                    | Visual payload with 30x zoom, 1080P high-res, 640×512 infrared thermal imaging                                              |
+| Evergreen Aerospace (長榮航太)  | Carrier-based Reconnaissance + Full-unit assembly/testing            | Converting aviation maintenance lines to military use                                                                       |
+| Zhifei Technology (智飛科技)    | Land-based Reconnaissance                                            | Focusing on military-spec commercial turnkey solutions                                                                      |
+| Shintong Information (神通資訊) | Micro Recon + Micro Tactical + Encrypted Comms                       | Encrypted communication modules are a key software-layer position                                                           |
 
-With Thunder Tiger and AIDC subsequently joining the drone alliance, this private-sector leg is taking shape — but each company's capacity is still measured in "thousands of units," not "tens of thousands." CIRC's 3,000+ units in 2025 is already the largest scale in Taiwan; set against Ukraine's monthly production of 200,000 units, it looks like a cottage workshop.
+With the addition of Thunder Tiger and AIDC (漢翔) to the drone alliance, this private leg is taking shape: however, each company's capacity is still measured in "thousands," not "tens of thousands." CIRC's 3,000+ units in 2025 is Taiwan's largest scale, but compared to Ukraine's monthly production of 200,000 units, it looks like a family workshop.
 
-## The Other Half of the Invisible War: Counter-UAS
+## The Invisible Half of the War: Counter-UAS
 
-Drone warfare has never been only about "I can hit you." The front lines in Ukraine opened the other direction as well — counter-UAS (counter-unmanned aircraft system) systems, now equally important as offensive drones.
+Drone warfare is never just about "I can hit you." The Ukrainian frontline has opened another dimension: counter-UAS (counter-unmanned aircraft systems) are now as important as attack drones.
 
-NCSIST has two programs on this axis. The **"Thunder Guard" (Lei Hu) program** uses high-energy lasers to destroy small drones and successfully hit live targets in a 2025 operational evaluation[^16]. The other system is the "Drone Defense System," which passed live testing in 2024 and can detect small drones (U.S. military Category 1–2 UAS) within 5 kilometers, weighing under 25 kilograms, flying below 3,500 feet, and traveling under 466 km/h. The suite includes a control station, threat-detection radar, jamming systems, and individual handheld jamming guns[^17]. The technical approach runs on two tracks simultaneously: soft kill (electronic jamming to make drones hover, return, or land) and hard kill (high-energy lasers, 20mm or 30mm autocannons for direct destruction).
+NCSIST has two projects on this axis. The **Lei-hu Project** uses high-energy lasers to strike small drones and successfully shot down live targets during 2025 combat evaluations[^16]. Another is the "Drone Defense System," which passed testing in 2024; it can detect small drones (U.S. Spec Class 1-2: under 25kg, below 3,500 ft altitude, below 466 km/h) within a 5 km range. The system includes control stations, threat detection radar, jamming systems, and man-portable jammers[^17]. Technical methods follow two paths: "soft kill" (electronic jamming to force drones to hover, return home, or land) and "hard kill" (high-energy lasers, 2_0mm or 30mm cannons for direct destruction).
 
-On the private-sector side, Tron Future Tech is the representative, unveiling a five-module counter-UAS system at the 2025 Paris Air Show, attracting inquiries from European and Middle Eastern delegations[^18]. Thunder Tiger is pushing from the attack side into the countermeasure side — they have publicly named DJI as a long-term research subject, with the goal of understanding adversary drone behavior patterns to develop more precise countermeasure logic[^19].
+The private sector representative is Tron Future (創未來科技), which showcased a five-module counter-UAS system at the 2025 Paris Air Show, attracting inquiries from European and Middle Eastern delegations[^18]. Thunder Tiger approaches from the attack side to advance counter-measures: they have publicly listed DJI as a long-term research subject, aiming to understand enemy drone behavior patterns to develop more precise counter-logic[^19].
 
-Within the Executive Yuan's NT$1.25 trillion "Strengthening Defense Resilience and Asymmetric Capabilities Program" special budget (spanning 8 years from 2026 to 2033), "unmanned vehicles and their countermeasure systems" is the second-largest line item, allocated NT$335 billion, with plans to procure over 210,000 drones of various types and over a thousand unmanned surface vessels — several times the total of the past decade[^20].
+Within the Executive Yuan's NT$1.25 trillion "Strengthening Defense Resilience and Asymmetric Capabilities Plan" (covering 8 years from 2026–2033), "unmanned vehicles and their counter-systems" is the second largest item, with NT$335 billion allocated specifically for this; it plans to procure over 210,000 drones of various types and a thousand unmanned vessels: a quantity several times larger than the total of the past decade[^20].
 
-## The Scale Question: Does Taiwan Need Tens of Thousands or Millions of Drones?
+## The Scale Problem: Does Taiwan Need Tens of Thousands or Millions?
 
 This is the sharpest question facing the entire industry.
 
-> **⚠️ Controversial perspective**
-> Analysis by ASPI (Australian Strategic Policy Institute) is blunt: Taiwan's drone program is far too small. 210,000 sounds like a lot, but Ukraine's monthly production in 2025 exceeded 200,000 units, surpassing 4.5 million for the year — the front-line consumption rate and the production rate have nearly converged into parallel lines. **Taiwan's NT$1.25 trillion budget spread over 8 years for 210,000 units averages 26,250 per year — one and a half months of Ukraine's single-month output.** Critics argue Taiwan does not need 210,000 drones; it needs 2 million[^9][^21].
+> **⚠️ Controversial Viewpoint**
+> Analysis from ASPI (Australian Strategic Policy Institute) is blunt: Taiwan's drone program scale is far too small. 210,000 units sounds like a lot, but Ukraine's monthly production surpassed 200,000 in 202_5, with an annual total exceeding 4.5 million—the frontline consumption rate and production rate are nearly parallel lines. **Taiwan's NT$1.25 trillion budget plans to procure 210,000 units over 8 years, averaging 26,000 per year, which is only one and a half months of Ukraine's monthly production**. Critics argue that Taiwan does not need 210,000; it needs 2 million[^9][^21].
 
-Ukraine's experience also taught the world something else: the FPV drone industry was forced into existence by the battlefield. Ukraine produced close to 300,000 units in 2023, surged to over 2 million in 2024, and hit 4.5 million in 2025 — a curve driven by front-line consumption pushing demand backward through the supply chain. Taiwan does not have this curve yet — only a draft special budget bill still under Legislative Yuan review, and a cluster of private firms producing thousands per month.
+Ukraine's experience also tells the world another thing: the FPV drone industry was forced into existence by the battlefield. In 2023, Ukraine produced nearly 300,000; in 2024, it surged to over 2 million; in 2025, it hit 4.5 million. This curve is a demand function back-calculated from frontline consumption. Taiwan does not have this curve yet: only a special budget draft still under review by the Legislative Yuan, and a group of private vendors producing thousands per month.
 
-Two structural problems stand in the way. The first is **production consistency**: military-spec drones must pass information security, NDAA Section 848, and electromagnetic interference testing, with every unit meeting identical specifications; civilian production lines transitioning from consumer-grade to military-spec are still catching up on this layer of QA. The second is the **core component supply chain**: flight controllers, cameras, and gimbals containing even a single Chinese chip cannot make it onto the Blue List. Taiwan's semiconductor sector is strong, but the midstream flight controller board and gimbal module industry is still dominated by small and medium enterprises, and capacity expansion requires time and capital.
+Two structural problems stand in the way. First is **mass production consistency**: military drones must pass cybersecurity, NDAA 848, and electromagnetic interference tests; every single unit must be identical. Civilian production lines transitioning to military-spec are still catching up on this QA layer. Second is the **core component supply chain**: if any Chinese chip remains in flight controllers, cameras, or gimbals, they cannot enter the Blue List. Taiwan is strong in semiconductors, but the midstream industry for flight controller boards and gimbal modules is still dominated by small and medium-sized enterprises; expanding capacity requires time and capital.
 
-## From Contract Manufacturing to Strategic Industry
+## From OEM to Strategic Industry
 
-Taiwan's drone industry is at an inflection point.
+Taiwan's drone industry is at a turning point.
 
-For the past thirty years, Taiwanese firms did contract manufacturing. Semiconductors are the success story of this path — from ASE's packaging and testing in the 1980s to TSMC's 2-nanometer process in 2025, geopolitics pushed contract manufacturing into an "irreplaceable" position. The drone industry now stands at a similar starting point: geopolitics demands a supply chain without China, and Taiwan has semiconductors, precision manufacturing, an alliance with the United States, and its own defense needs as a proving ground.
+For the past thirty years, Taiwanese vendors have been OEMs. Semiconductors are the success story of this path: from ASE's testing and packaging in the 1980s to TSMC's 2nm process in 2025, geopolitics pushed OEM into an "irreplaceable" position. The drone industry stands at a similar starting point: geopolitics requires a supply chain without China; Taiwan has semiconductors, precision manufacturing, a U.S. alliance, and its own defense needs as a testing ground.
 
-But the structure is different. The semiconductor race is determined by the yield and process of a handful of top-tier fabs; the drone race is determined by the mass production and consumption of a vast number of factories. A fab's depreciation cycle is 5–7 years; an FPV drone's depreciation cycle is "the moment it flies out." **Fabs are better the more expensive they are; drones are better the cheaper they are.** These are two entirely different industrial philosophies.
+But the structures are different. Semiconductor success depends on the yields and processes of a very small number of top-tier factories; drone success depends on the mass production and consumption of a vast number of factories. A semiconductor fab's depreciation cycle is 5–7 years; an FPV drone's depreciation cycle is "the moment it flies away." **In a fab, more expensive is better; in drones, cheaper is better.** These are two completely different industrial philosophies.
 
-The front lines in Ukraine have written a new textbook: the core of future warfare is not one expensive drone, but ten thousand drones cheap enough to be expendable. Whether Taiwan can manufacture drones the way it manufactures chips — in volume, cheaply, with consistent quality — will determine how high this industry can fly[^10].
+The Ukrainian frontline has written a new textbook: the core of future warfare is not one very expensive drone, but ten thousand drones so cheap they can be used as consumables. Whether Taiwan can produce drones like it produces chips—in large quantities, cheaply, and with stable quality—will determine how high this industry can fly[^10].
 
-> **✦** "Semiconductors made Taiwan indispensable. Drones may make Taiwan inviolable — provided Taiwan makes enough of them, fast enough, and cheap enough."
+> **✦** "Semiconductors make Taiwan indispensable. Drones might make Taiwan invulnerable—provided Taiwan makes enough of them, fast enough, and cheap enough."
 
-Viewed at the scale of the island's history, the story has barely begun. TSMC's thirty-eight years from 1987 to 2025 traced a path from "I just want to survive" to "the most important man in the world"; Taiwan's drone industry in 2025 has only just reached the step of "the first unit on the Pentagon's procurement list." Projecting along the 8-year timeline of the NT$1.25 trillion budget, Taiwan needs to build an industry capable of competing at Ukraine's scale from scratch before 2033, while simultaneously solving engineering challenges across multiple axes — information security, supply chain, production QA, software AI, counter-UAS, and more. This is more complex than the semiconductor industry's early track, because the adversary is time itself — every additional year of delay means facing a more asymmetric battlefield.
+Looking at this industry through the lens of the island's history, the story has barely begun. TSMC traveled a path from "I just want to survive" in 1987 to "the most important man" by 2025. Taiwan's drone industry only reached the stage of "the first unit entering the Pentagon procurement list" in 2025. Based on the 8-year timeline of the NT$1.25 trillion budget, by 2033, Taiwan needs to build an industry from scratch that can compete on the same scale as Ukraine, while simultaneously solving engineering problems across multiple axes: cybersecurity, supply chain, mass production QA, software AI, and counter-UAS. This is more complex than the early semiconductor race because the opponent is time itself: every year of delay means facing an even more asymmetric battlefield.
 
-Thunder Tiger's production line in Taichung, which began with radio-controlled toy airplanes in 1979, and TSMC's 2-nanometer fab in Baoshan, Hsinchu, are now separated by scale and time. The former produces 1,000 military-spec drones per month; the latter ships 50,000 wafers per month — two factories standing in the same geopolitical position on Taiwan, but facing adversaries operating at entirely different tempos. The semiconductor adversary is clock speed; the drone adversary is the number consumed on the Russia-Ukraine battlefield every minute.
+The production line that Thunder Tiger started in Taichung in 1979, compared to TSMC's 2nm plant in Baoshan, Hsinchu, is now separated by scale and time. The former produces 1,000 military-spec drones per month; the latter produces 50,000 wafers per month. Both factories stand at the same geopolitical position for Taiwan, but the rhythm of the opponents they face is completely different. The semiconductor opponent is clock speed; the drone opponent is the number of units consumed every minute on the Russo-Ukrainian battlefield.
 
-**Further reading**
+**Further Reading**
 
-- [Taiwan's Defense and Military Modernization](/en/society/taiwan-defense-modernization) — The full picture behind the porcupine strategy and 200,000 drones
-- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — Taiwan's previous strategic industry, born from geopolitics
-- [Taiwan's Space Industry Development](/en/technology/taiwan-space-industry-development) — From drones to satellites, Taiwan's ambitions in the sky
-- [Taiwan's Robotics Industry](/en/technology/taiwan-robotics-industry) — Another case of "strong components, weak complete systems," sharing the same structural challenges as drones
+- [Taiwan's Defense and Military Modernization](/en/society/taiwan-defense-modernization) — The full picture of the "hedgehog strategy" behind 200,000 drones
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — Taiwan's previous strategic industry to rise due to geopolitics
+- [Development of Taiwan's Space Industry](/en/technology/taiwan-space-industry-development) — From drones to satellites, Taiwan's ambitions in the sky
+- [Taiwan's Robotics Industry](/en/technology/taiwan-robotics-industry) — Another case of "strong components, weak full-unit integration," facing similar structural challenges as drones
 
 ## References
 
-[^1]: [Aviation Week: Taiwan's Thunder Tiger Eyes U.S. Army's Drone Dominance Program](https://aviationweek.com/defense/aircraft-propulsion/taiwans-thunder-tiger-eyes-us-armys-drone-dominance-program) — Reports on Thunder Tiger's "Overkill" FPV drone becoming the first Taiwanese drone to earn U.S. Blue List certification.
+[^1]: [Aviation Week: Taiwan's Thunder Tiger Eyes U.S. Army's Drone Dominance Program](https://aviationweek.com/defense/aircraft-propulsion/taiwans-thunder-tiger-eyes-us-armys-drone-dominance-program) — Reports that Thunder Tiger's "Overkill" FPV drone is the first Taiwanese drone to pass Blue UAS certification.
 
-[^2]: [AgriHarvest: Smart Upgrades for Agricultural Drones](https://www.agriharvest.tw/archives/77140/) — Agricultural drone spraying efficiency is 6 times that of manual labor, with pesticide use reduced to one-fourth to one-twentieth.
+[^2]: [Agri-Media: Intelligent Upgrades for Agricultural Unmanned Aircraft](https://www.agriharvest.tw/archives/77140/) — Agricultural drones are 6 times more efficient than manual labor, with pesticide use reduced by one-fourth to one-twentieth.
 
-[^3]: [The News Lens: Ministry of Defense Opens First Tender for "Military-Commercial Specification" Drones — Six Key Points at a Glance](https://www.thenewslens.com/article/243406) — Analysis of the military-commercial specification concept's origins, tender specifications, and competitive landscape among private vendors.
+[^3]: [The News Net: MND opens first tender for "military-spec commercial" drones; six key points at a glance](https://www.thenewslens.com/article/243406) — Analyzes the origin of the military-spec commercial concept, tender specifications, and competition among private vendors.
 
-[^4]: [United Daily News: NT$50 Billion Drone Procurement — Thunder Tiger, CIRC, AIDC and Others Eye Opportunities](https://money.udn.com/money/story/5612/8892339) — Ministry of National Defense's NT$50 billion procurement of nearly 50,000 drones across five categories for 2026–2027.
+[^4]: [Economic Daily News: NT$50 billion drone procurement project brings opportunities to Thunder Tiger, CIRC, Evergreen Aerospace, etc.](https://money.udn.com/money/story/5612/8892339) — MND plans to procure nearly 50,000 drones for NT$50 billion in 2026–2027, covering five types of aircraft.
 
-[^5]: [TechNews: Ministry of National Defense's NT$1.25 Trillion Budget Confirms 200,000 Drones](https://finance.technews.tw/2026/01/26/non-red-supply-chain/) — Drones are a core item among the seven major special budget programs, with plans for 200,000 drones and over 1,000 unmanned vessels.
+[^5]: [TechNews: MND's NT$1.25 trillion budget establishes 200,000 drones](https://finance.technews.tw/2026/01/26/non-red-supply-chain/) — Drones are a core item among seven major items in the special budget, planning 200,000 drones and over a thousand unmanned vessels.
 
-[^6]: [Vision Times: Taiwan Drones Gain Strategic Access to US and Global Democratic Markets](https://www.visiontimes.com/2026/02/08/taiwan-drones-gain-strategic-access-to-us-and-global-democratic-markets.html) — Analysis of how Taiwan's drones gained strategic access to U.S. and allied markets after DJI bans.
+[^6]: [Vision Times: Taiwan Drones Gain Strategic Access to US and Global Democratic Markets](https://www.visiontimes.com/2026/02/08/taiwan-drones-gain-strategic-access-to-us-and-global-democratic-markets.html) — $\text{—}$ Analyzes how Taiwan's drone industry gains strategic opportunities in U.S. and allied markets after the DJI ban
 
-[^7]: [SinoTrade Rich Club: Government NT$50 Billion Military Drone Tenders](https://www.sinotrade.com.tw/richclub/hotstock/%E6%94%BF%E5%BA%9C500%E5%84%84%E5%85%83%E8%BB%8D%E7%94%A8%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%A8%99%E6%A1%88-%E9%9B%B7%E8%99%8E-%E4%B8%AD%E5%85%89%E9%9B%BB%E7%AD%89%E6%A6%82%E5%BF%B5%E8%82%A1%E8%82%A1%E5%83%B9%E7%88%86%E7%99%BC-%E8%82%A1%E5%B8%82%E8%A9%B2%E9%A1%8C-68ad60bce9d82a5e8ee2dc97) — First-batch 3,600-unit winning bidders (CIRC, Evergreen, JettWings, MiTAC) and delivery timelines.
+[^7]: [Fengyun Academy: Government NT$50 billion military drone tender](https://www.sinotrade.com.tw/richclub/hotstock/%E6%94%BF%E5%BA%9C500%E5%84%84%E5%85%83%E8%BB%8D%E7%94%A8%E7%84%A1%E4%BA%BA%E6%A9%9F%E6%A8%99%E6%A1%88-%E9%9B%B7%E8%99%8E-%E4%B8%AD%E5%85%89%E9%9B%BB%E7%AD%89%E6%A6%82%E5%BF%B5%E8%82%A1%E8%82%A1%E5%83%B9%E7%88%86%E7%99%BC-%E8%82%A1%E5%B8%82%E8%A9%B1%E9%A1%8C-68ad60bce9d82a5e8ee2dc97) — Details of the first wave of 3,600 units, winning vendors (CIRC, Evergreen Aerospace, Zhifei, Shintong), and delivery schedules.
 
-[^8]: [Global Views Monthly: Taiwan Drone Concept Stocks — Beyond Thunder Tiger and GEOSAT, Four More Firms](https://www.gvm.com.tw/article/119019) — Mapping the upstream, midstream, and downstream firms in Taiwan's drone industry chain.
+[^8]: [Vista Magazine: Taiwan's drone concept stocks; not just Thunder Tiger and GEOSAT, but these four others too](https://www.gvm.com.tw/article/119019) — $\text{—}$ Outlines the upstream and downstream distribution of Taiwan's drone industry chain
 
-[^9]: [ASPI Strategist: Taiwan's drone program is far too small](https://www.aspistrategist.org.au/taiwans-drone-program-is-far-too-small/) — Australian Strategic Policy Institute analysis that Taiwan's drone program scale is insufficient to match real-world combat consumption rates.
+[^9]: [ASPI Strategist: Taiwan's drone program is far too small](https://www.aspistrategist.org.au/taiwans-drone-program-is-far-too-small/) — $\text{—}$ Analysis by the Australian Strategic Policy Institute that Taiwan's drone program scale is insufficient to meet combat consumption rates
 
-[^10]: [Global Taiwan Institute: Taiwan's Emerging Indigenous Drone Industry — An Overview](https://globaltaiwan.org/2026/02/tw-drone-production/) — Comprehensive analysis of Taiwan's drone industry status, challenges, and international cooperation prospects by the Global Taiwan Institute.
+[^10]: [Global Taiwan Institute: Taiwan's Emerging Indigenous Drone Industry — An Overview](https://globaltaiwan.org/2026/02/tw-drone-production/) — $\text{—}$ Comprehensive analysis by the Global Taiwan Institute on the current state, challenges, and international cooperation prospects of Taiwan's drone industry
 
-[^11]: [CNA: Thunder Tiger Loitering Munition Earns U.S. Blue UAS Certification, Bids on Domestic and International Tenders](https://www.cna.com.tw/news/afe/202509220039.aspx) — September 22, 2025 report on Taiwan's first Blue UAS certification, still the only one as of early 2026.
+[^11]: [CNA: Thunder Tiger's kamikaze drone wins U.S. Blue UAS certification, targeting domestic and international tenders](https://www.cna.com.tw/news/afe/202509220039.aspx) — $\text{—}$ Reported on Sept 22, 2025; the first Taiwanese company to pass Blue UAS, and remains the only one as of early 2026
 
-[^12]: [DCMA: US-X launches Blue List UAS website](https://www.dcma.mil/News/Article-View/Article/4346752/us-x-launches-blue-list-uas-website/) — December 3, 2025 official announcement of DIU-to-DCMA transfer and new portal `bluelist.dcma.mil` launch.
+[^12]: [DCMA: US-X launches Blue List UAS website](https://www.dcma.mil/News/Article-View/Article/4346752/us-x-launches-blue-list-uas-website/) — $\text{—}$ Official announcement on Dec 3, 2025, regarding the transfer from DIU to DCMA and the launch of the new `bluelist.dcma.mil` portal
 
-[^13]: [DIU Blue UAS Policy: FY20 NDAA Sec 848 Component Definition Guidance](https://www.diu.mil/blue-uas-policy) — NDAA Section 848 text and complete list of covered components, expanded to Russia/Iran/North Korea in 2022.
+[^13]: [DIU Blue UAS Policy: FY20 NDAA Sec 848 Component Definition Guidance](https://www.diu.mil/blue-uas-policy) — $\text{—}$ Full list of NDAA 848 provisions and covered components, expanded to include Russia/Iran/North Korea in 2022
 
-[^14]: [Inside: U.S.-Taiwan Defense Industry Forum Convenes, Advocates Taiwan Drones for Blue UAS](https://www.inside.com.tw/article/38700-taiwan-us-defense-industry-forum-advocates-taiwan-drones-for-blue-uas-procurement-standards) — U.S. and Taiwanese industry representatives openly acknowledge the practical difficulty of de-Sinicizing the supply chain.
+[^14]: [Inside: Taiwan-U.S. Defense Industry Forum held; advocates for Taiwan drones to join Blue UAS](https://www.inside.com.tw/article/38700-taiwan-us-defense-industry-forum-advocates-taiwan-drones-for-blue-uas-procurement-standards) — $\text{—}$ Taiwanese and U.S. vendors openly admit the practical difficulties of de-Chinaizing the supply chain
 
-[^15]: [Auterion: Auterion and Taiwan's NCSIST Announce Strategic Partnership](https://auterion.com/auterion-and-taiwans-ncsist-announce-strategic-partnership-to-power-next-generation-defense-drones/) — June 17, 2025: NCSIST's first strategic partnership agreement with a foreign defense technology company.
+[^15]: [Auterion: Auterion and Taiwan's NCSIST Announce Strategic Partnership](https://auterion.com/auterion-and-taiwans-ncsist-announce-strategic-partnership-to-power-next-generation-defense-drones/) — $\text{—}$ June 17, 2025; first time NCSIST signed a strategic partnership with a foreign defense tech company
 
-[^16]: [Taiwan News: Taiwan's Thunder Tiger to join US military drone procurement bid](https://www.taiwannews.com.tw/news/6260242) — December 8, 2025: Thunder Tiger announces bid for Drone Dominance Program + Ohio plant planned for Q1 2026.
+[^16]: [Taiwan News: Taiwan's Thunder Tiger to join US military drone procurement bid](https://www.taiwannews.com.tw/news/6260242) — $\text{—}$ Dec 8, 2025; Thunder Tiger announces participation in Drone Dominance Program + Ohio plant planned for 2026 Q1
 
-[^17]: [Taipei Times: US senators introduce bill to boost Taiwan drone cooperation](https://www.taipeitimes.com/News/taiwan/archives/2026/04/03/2003854975) — April 2, 2026: Blue Skies for Taiwan Act of 2026 (S.4259) co-sponsored by four bipartisan senators.
+[^17]: [Taipei Times: US senators introduce bill to boost Taiwan drone cooperation](https://www.taipeitimes.com/News/taiwan/archives/2026/04/03/2003854975) — $\text{—}$ April 2, 2026; content of the Blue Skies for Taiwan Act of 2026 (S.4259) proposed by four bipartisan Senators
 
-[^18]: [DefenseScoop: Pentagon's growing list of 'made in America' drones has a loophole for certain parts made in China](https://defensescoop.com/2025/11/20/dod-drones-blue-uas-list-chinese-parts-motors/) — Analysis of the NDAA Section 848 policy loophole for non-data components (motors and other mechanical parts).
+[^18]: [DefenseScoop: Pentagon's growing list of 'made in America' drones has a loophole for certain parts made in China](https://defensescoop.com/2025/11/20/dod-drones-blue-uas-list-chinese-parts-motors/) — $\text{—}$ Analysis of the policy loophole in NDAA 848 regarding non-data components (motors, etc.)
 
-[^11]: [Liberty Times Net Military Channel: Strengthening MIT Drones — NCSIST to Release Teng Yun, Red Kuei Type III Drone Technology](https://def.ltn.com.tw/article/breakingnews/4982215) — NCSIST's 2025 announcement releasing Teng Yun Type II, Albatross Type II, and Red Kuei Type III manufacturing, systems integration, and technology licensing to private firms — indigenous defense technology下放 to civilian mass production.
+[^11]: [Liberty Military Channel: Strengthening MIT Drones; NCSIST to release Teng-yun and Red Sparrow drone technologies](https://def.ltn.com.tw/article/breakingnews/4982215) — $\text{—}$ In 2025, NCSIST announced the release of Teng-yun Type II, Albatross Type II, and Red Sparrow Type III production, integration, and licensing to private firms
 
-[^12]: [Liberty Times Net Military Channel: First Lead-off "Albatross Type II" Drone Delivered — Mass Production to Be Revised Based on Mission Requirements](https://def.ltn.com.tw/article/breakingnews/4782743) — Albatross Type II Navy shipborne surveillance drone, 12m wingspan, 300km datalink range, 2,000km maximum range, mass production from 2025.
+[^12]: [Liberty Military Channel: First Albatross (銳鳶) Type II UAV delivered; subsequent mass production subject to mission adjustments](https://def.ltn.com.tw/article/breakingnews/4782743) — $\text{—}$ Naval reconnaissance drone with 12m wingspan, 300km control distance, and 2,000km range; mass production from 2025
 
-[^13]: [Wikipedia: Chien Xiang Drone](https://zh.wikipedia.org/zh-tw/%E5%8A%8D%E7%BF%94%E7%84%A1%E4%BA%BA%E6%A9%9F) — NCSIST anti-radiation loitering munition, 104 units planned for delivery over 6 years from 2019, assigned to Air Force Air Defense and Missile Command standard equipment.
+[^13]: [Wikipedia: Jian-xiang UAV](https://zh.wikipedia.org/zh-tw/%E5%8A%8D%E7%BF%94%E7%84%A1%E4%BA%BA%E6%A9%9F) — $\text{—}$ NCSIST anti-radiation loitering munition; plans to deliver 104 units within six years starting in 2019, integrated into Air Force Air Defense and Missile Command
 
-[^14]: [TechNews: Second Round of Military-Commercial Specification Tenders — Four Firms Win Another NT$6.951 Billion Contract from Ministry of Defense](https://technews.tw/2025/08/28/second-round-of-taiwan-army-drone-contract-annouced/) — CIRC, GEOSAT, Evergreen Aerospace, JettWings, and MiTAC across two rounds of military-commercial tenders: NT$6.887 billion in 2024 + NT$6.951 billion in 2025.
+[^14]: [TechNews: Second wave of military-spec commercial drones; four vendors awarded NT$6.951 billion contracts](https://technews.tw/2025/08/28/second-round-of-taiwan-army-drone-contract-annouced/) — $\text{—}$ Two waves of tenders for CIRC, GEOSAT, Evergreen Aerospace, Zhifei, and Shintong: NT$6.887 billion in 2024 + NT$6.951 billion in 2025
 
-[^15]: [CNYES: CIRC Charges into Drones — Next Year's Shipments to Multiply Several-Fold, Targeting 10,000 Units](https://news.cnyes.com/news/id/5247788) + [United Daily News: CIRC Delivery Volume Grows Multi-Fold](https://money.udn.com/money/story/5612/8955008) — CIRC shipped over 3,000 drones in 2025, becoming Taiwan's largest manufacturer; primary client Teledyne FLIR; certifications in Europe, Australia, and Japan already obtained.
+[^15]: [Economic News: CIRC pushes drone production; next year's shipments to increase several-fold to 10,000 units](https://news.cnyes.com/news/id/5247788) — + [Economic Daily News: CIRC delivery volume grows exponentially](https://money.udn.com/money/story/5612/8955008) $\text{—}$ CIRC's 2025 drone shipments exceed 3,000 units, making it Taiwan's largest; primary client Teledyne FLIR, certified by Europe/Australia/Japan
 
-[^16]: [China Times: NCSIST Develops "Drone Defense System," Demonstrates Self-Defense Capabilities](https://www.chinatimes.com/realtimenews/20251107000094-260417) — NCSIST "Thunder Guard" high-energy laser counter-UAS system successfully hit live targets in 2025 operational evaluation.
+[^16]: [China Times: NCSIST develops "Drone Defense System" to demonstrate indigenous defense capability](https://www.chinatimes.com/realtimenews/20251107000094-260417) — $\text{—}$ NCSIST Lei-hu project high-energy laser anti-drone system successfully shot down live targets in 2025 combat evaluation
 
-[^17]: [CNA: Air Force: NCSIST Drone Defense System Meets Functional Requirements in Live Testing](https://www.cna.com.tw/news/aipl/202405080232.aspx) — 5km detection range, targeting U.S. military Category 1–2 UAS (under 25kg, below 3,500ft, under 466 km/h), dual-mode soft kill plus hard kill.
+[^17]: [CNA: Air Force: NCSIST drone defense system reaches functional capability through testing](https://www.cna.com.tw/news/aipl/202405080232.aspx) — $\text{—}$ 5 km detection range, targeting U.S. Spec Class 1-2 UAS (under 25kg, 3,500 ft, 466 km/h), featuring soft and hard kill modes
 
-[^19]: [TechNews: Developing Drone Countermeasures — Thunder Tiger: DJI Is the Industry's Long-Term Research Subject](https://technews.tw/2025/12/01/thunder-tiger-dji/) — Thunder Tiger's strategic logic of pushing from the attack side into the countermeasure side.
+[^19]: [TechNews: Developing drone counter-measures; Thunder Tiger: DJI is a long-term research subject](https://technews.tw/2025/12/01/thunder-tiger-dji/) — $\text{—}$ Thunder Tiger's strategy of advancing from the attack side to the counter-measure side
 
-[^20]: [TechNews: Details of Ministry of National Defense's NT$1.25 Trillion Special Budget Revealed](https://technews.tw/2026/01/20/taiwan-mnd-unveiled-1250-billion-twd-budget-details/) + [CNA: NT$1.25 Trillion Special Budget — Ministry of Defense Discloses Quantities for 7 Categories of Weapons](https://www.cna.com.tw/news/aipl/202601190177.aspx) — NT$1.25 trillion over 8 years (2026–2033), seven major programs; unmanned vehicles and countermeasure systems: NT$335 billion / over 210,000 units / over 1,000 unmanned vessels.
+[^20]: [TechNews: Details of MND's NT$1.25 trillion special budget revealed](https://technews.tw/2026/01/20/taiwan-mnd-unveiled-1250-billion-twd-budget-details/) — + [CNA: NT$1.25 trillion special budget; MND reveals quantities for 7 types of weapons](https://www.cna.com.tw/news/aipl/202601190177.aspx) $\text{—}$ NT$1.25 trillion over 8 years (2026–2033); seven major items; unmanned vehicles and counter-systems at NT$335 billion / 210,000+ drones / 1,000+ unmanned vessels
 
-[^21]: [The Reporter: Inside Ukraine's Drone Production Line (Part 1): From Zero to 4.5 Million Units Per Year](https://www.twreporter.org/a/ukraine-drone-wartime-supplychain) + [TechNews: Frontline-to-Factory Direct Communication — Ukraine's Drone Industry Boom](https://technews.tw/2025/04/30/the-ukrainians-drone-boom-during-the-war/) — Ukraine: ~300,000 units in 2023 → over 2 million in 2024 → 4.5 million in 2025, with monthly output of 200,000–400,000 units — a demand curve driven by front-line consumption pushing backward through the supply chain.
+[^21]: [The Reporter: Entering Ukraine's drone production lines (Part 1): From zero to 4.5 million annual units](https://www.twreporter.org/a/ukraine-drone-wartime-supplychain) — + [TechNews: Direct communication between frontline and vendors; Ukraine's drone industry explosion](https://technews.tw/2025/04/30/the-ukrainians-drone-boom-during-the-war/) $\text{—}$ Ukraine's growth from 300,000 in 2023 $\rightarrow$ 2 million in 2024 $\rightarrow$ 4.5 million in 2025; the demand function driven by frontline consumption
 
-## Image Credits
+## Image Sources
 
-This article uses 2 public domain / CC-licensed images, all cached in `public/article-images/technology/` to avoid hotlinking source servers:
+This article uses 2 public domain / CC-licensed images, all cached at `public/article-images/technology/` to avoid hotlinking from source servers:
 
-- **Hero**: [Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) — Photo: Kliu1, 2007-10-11, NCSIST Albatross series on display at the Republic of China National Day ceremony. Public domain via Wikimedia Commons.
-- **Inline**: [UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) — Photo: 玄史生, 2013-05-04, NCSIST Albatross UAV No. 9717 on display at Pier 11, Zhongzheng Naval Port, Kaohsiung. CC BY-SA 3.0 via Wikimedia Commons.
+- **Hero**: [Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) — Photo: Kliu1, 2007-10-11 NCSIST Chung Shyang II (Albatross series) displayed during the Republic of China National Day Parade. Public domain via Wikimedia Commons.
+- **Inline**: [UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) — Photo: Xuan Shisheng, 2013-05-04 NCSIST Albatross (銳鳶) UAV No. 9717 displayed during the Kaohsiung Zhongzheng Naval Base Pier 11 Open Day. CC BY-SA 3.0 via Wikimedia Commons.

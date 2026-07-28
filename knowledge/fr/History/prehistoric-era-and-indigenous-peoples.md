@@ -1,25 +1,29 @@
 ---
-title: 'Préhistoire et peuples autochtones : de la culture de Changbin il y a 20 000 à 30 000 ans au point de départ de la diffusion austronésienne'
-description: "Plus ancienne activité humaine confirmée à Taïwan : la culture de Changbin, il y a environ 20 000 à 30 000 ans (Paléolithique, site des Huit Grottes de Baxian). 16 groupes autochtones officiellement reconnus. Taïwan considéré comme l'un des foyers possibles des langues austronésiennes (9 des 10 grandes branches austronésiennes sont taïwanaises). Étude la plus récente (2024) : les migrations depuis Taïwan représenteraient environ 20 %, avec une autre voie de diffusion depuis l'Indonésie, consensus académique en cours. Au XVIIe siècle, le royaume de Dadu, alliance intertribale. Culture de Shihsanhang, âge du fer."
+title: "Préhistoire et peuples autochtones : de Changbin il y a 20 000-30 000 ans au point de départ de l'expansion austronésienne"
+description: "Les premières activités humaines à Taïwan remontent à la culture de Changbin (Paléolithique, site de Baxian Cave) il y a environ 20 000 à 30 000 ans ; les peuples autochtones officiellement reconnus sont au nombre de 16. Sur les dix grandes branches des langues austronésiennes existantes, neuf se trouvent à Taïwan, ce qui en fait l'un des berceaux potentiels de la famille austronésienne ; des recherches récentes de 2024 indiquent qu'environ 20 % ont migré hors de Taïwan, avec d'autres routes d'expansion vers l'Indonésie, le consensus académique étant toujours en formation. Au XVIIe siècle, une alliance intertribale appelée Royaume de Dadù existait déjà, tandis que la culture de Sanshang a marqué le début de l'âge du fer."
 date: 2026-03-17
-author: 'Taiwan.md'
 category: 'History'
-subcategory: '史前與原住民'
 tags:
-  ['史前與原住民', '長濱文化', '南島語族', '原住民族', '舊石器時代', '大肚王國']
-readingTime: 7
-# design_rationale:
-#   why_this_hook: "長濱文化2-3萬年（P0確認）是具體的起點；南島語族10支佔9支是台灣作為擴散中心的最強證據。"
-#   whats_excluded: "各族傳統服飾儀式細節；南島語族遷徙路線完整地圖；原住民族運動近現代史"
-#   where_it_hedges: "南島起源：2024年Nat Geo研究顯示台灣移出僅佔約20%，另有印尼路徑（⚠️挑戰台灣唯一起源說）"
+  [
+    'Préhistoire et peuples autochtones',
+    'Culture de Changbin',
+    'Peuples austronésiens',
+    'Peuples autochtones',
+    'Paléolithique',
+    'Royaume de Dadù',
+  ]
+subcategory: 'Préhistoire et peuples autochtones'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-07
 lastHumanReview: true
-featured: true
+readingTime: 7
+relatedDiary: ['2026-07-16-154753-compassionate-kirch']
 translatedFrom: 'History/史前時代與原住民.md'
-sourceCommitSha: '0f8fae0ae'
-sourceContentHash: 'sha256:4a4d8e8b71bb4388'
-sourceBodyHash: 'sha256:518e01925b760cf5'
-translatedAt: '2026-05-22T05:08:47+08:00'
+sourceCommitSha: 'a1eb11f45'
+sourceContentHash: 'sha256:3b733793cef0fe14'
+sourceBodyHash: 'sha256:e6a1e14a24970623'
+translatedAt: '2026-07-28T18:06:51.136165+00:00'
 ---
 
 # Préhistoire et peuples autochtones : de la culture de Changbin il y a 20 000 à 30 000 ans au point de départ de la diffusion austronésienne

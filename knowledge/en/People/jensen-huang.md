@@ -2,9 +2,7 @@
 title: 'Jensen Huang'
 description: 'From a Kentucky boarding school to a five-trillion-dollar empire: how a Tainan boy who cleaned toilets bet on a future that would not arrive for another decade'
 date: 2026-03-25
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '科技與企業'
 tags:
   [
     'People',
@@ -16,15 +14,18 @@ tags:
     'Tainan',
     'GPU',
   ]
+subcategory: '科技與企業'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-22
 lastHumanReview: false
-featured: true
-translatedFrom: 'People/黃仁勳.md'
-sourceCommitSha: '7852e7f7'
-sourceContentHash: 'sha256:fefdcc28d82e9ce0'
-sourceBodyHash: 'sha256:8e44f1173a86a8b9'
-translatedAt: '2026-06-28T00:39:32+08:00'
+researchReport: 'reports/research/2026-06/黃仁勳-evolve.md'
 image: '/article-images/technology/computex-jensen-huang-2016.webp'
+translatedFrom: 'People/黃仁勳.md'
+sourceCommitSha: '09c1bf1a9'
+sourceContentHash: 'sha256:e9178b000513a553'
+sourceBodyHash: 'sha256:0447f104316070ca'
+translatedAt: '2026-07-28T11:05:33.969775+00:00'
 ---
 
 # Jensen Huang (黃仁勳)
