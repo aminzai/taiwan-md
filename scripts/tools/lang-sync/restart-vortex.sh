@@ -63,7 +63,7 @@ if [ "${1:-}" = "--check" ]; then
     fi
   done
   echo ""
-  echo "▸ 本機 M4 Ollama（禁跑 Babel，應為空）"
+  echo "▸ 本機 M4 Ollama 實際負載（是否接 Babel 以 fleet control 為準）"
   if command -v ollama >/dev/null 2>&1; then
     ollama ps
   else
@@ -91,8 +91,8 @@ start() {   # start <logname> <描述> <args...>
 
 echo "▸ 起跑（全軍 forward 由新到舊；排序鍵：失敗沉底→新鮮窗→缺頁先於過期→編輯時間）"
 
-# 地端軌只認 fleet 核發的 worker。2026-07-28 觀察者明令 M4 不跑；
-# mac-m4max 已在 control.json 關閉 accept_batch，因此不會出現在 FLEET_ARGS。
+# 地端軌只認 fleet 核發的 worker；M4 是否接 Babel 由 control.json 的
+# accept_batch 決定，可依觀察者逐輪授權，不在本腳本硬編碼。
 # 韓語從退役的 mac 軌併入地端軌；其餘新語仍由品質較穩的 nemotron 軌處理。
 if [ "${#FLEET_ARGS[@]}" -gt 0 ]; then
   if [ "${1:-}" = "--stale-only" ]; then
