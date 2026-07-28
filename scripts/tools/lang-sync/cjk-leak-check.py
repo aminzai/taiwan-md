@@ -91,6 +91,12 @@ def legit_spans(text: str) -> list:
 
 # 連結類：target 必須保留原文才能解析，不是洩漏
 LINK_LIKE_RES = [
+    # 攝影者署名（第十三家族 2026-07-29）：Wikimedia attribution 的作者名
+    # 是授權鏈的一部分，不能為了「看起來像已翻譯」而音譯或刪掉。只豁免
+    # Photo/Foto 標籤後緊接的 1–30 個漢字姓名；逗號後正文與一般中文句子
+    # 仍照掃，避免把整條 caption 變成逃生通道。隔離實證：pt 李宗盛／羅大佑
+    # 4 個命中全是 `Foto: 化城再来人`，其他 verify gate 均可獨立把關。
+    re.compile(r"(?i:\b(?:Photo|Foto))\s*[:：]\s*[一-鿿]{1,30}"),
     # HTML 標籤（第十一家族 2026-07-27）：標籤內的屬性值是結構不是正文——
     # YouTube 嵌入的 title="大象體操 Elephant Gym -〈水底〉" 是原始影片標題、
     # <a href="/people/草東沒有派對"> 的中文 slug 是站內連結能解析的前提。

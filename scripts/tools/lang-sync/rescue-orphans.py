@@ -135,16 +135,34 @@ def main() -> int:
             "babel-rejected-orphans-" + datetime.now().strftime("%Y%m%d-%H%M%S")
         )
         moved = 0
+        restored_tracked = 0
         for ps in failed.values():
             for rel in ps:
                 src = REPO / rel
                 if not src.exists():
+                    continue
+                tracked = subprocess.run(
+                    ["git", "ls-files", "--error-unmatch", "--", rel],
+                    cwd=REPO, capture_output=True,
+                ).returncode == 0
+                if tracked:
+                    # tracked stale 基線不能當成孤兒搬走：候選雖未過 gate，
+                    # HEAD 版本仍是讀者目前可見、等待重翻的既有頁。只丟掉
+                    # 失敗候選並恢復 HEAD，否則工作樹會製造刪除、missing
+                    # 反而增加（2026-07-29 實撞 es/People/ang-lee.md）。
+                    subprocess.run(
+                        ["git", "restore", "--worktree", "--", rel],
+                        cwd=REPO, check=True,
+                    )
+                    restored_tracked += 1
                     continue
                 dst = qroot / rel
                 dst.parent.mkdir(parents=True, exist_ok=True)
                 src.replace(dst)
                 moved += 1
         print(f"🧪 已隔離 {moved} 篇未過 gate 的衍生檔：{qroot}")
+        if restored_tracked:
+            print(f"↩️  已還原 {restored_tracked} 篇 tracked stale 基線（未搬走）")
 
     if passed and args.commit:
         # 精確路徑 add——絕不 `git add -A`，工作區有並行 session 的檔案

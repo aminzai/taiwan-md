@@ -7,10 +7,11 @@ v3 dispatcher 對 P1 gate fail 直接 unlink+commit，把可讀的 stale 版降�
 （verify-translation / cjk-leak / article-health），全過才留下——
 故意 quarantine 的壞檔（zh 洩漏、掉圖）會被 gate 擋掉，不會復活。
 """
-import json
+import argparse
+import importlib.util
 import pathlib
+import re
 import subprocess
-import sys
 
 REPO = pathlib.Path("/Users/cheyuwu/Projects/taiwan-md")
 LANG_DIRS = ["en", "ja", "ko", "es", "fr", "vi", "id", "pt", "hi"]
@@ -20,7 +21,85 @@ def run(cmd, **kw):
     return subprocess.run(cmd, capture_output=True, text=True, cwd=REPO, **kw)
 
 
+def restore_run_quarantine(run_dir: pathlib.Path, names: list[str]) -> list[str]:
+    """把本輪 dispatcher 隔離檔按明確檔名回填，且同步跑 canonical verify trio。
+
+    run quarantine 的檔名是 ``<lang>--<slug>.md``；分類與 zh source 則只信
+    frontmatter translatedFrom，避免靠 slug 猜路徑。呼叫者必須逐一列名，
+    不提供「整包全收」入口，防止一個 checker 修正意外放行其他失敗家族。
+    """
+    spec = importlib.util.spec_from_file_location(
+        "_rescue_orphans", REPO / "scripts/tools/lang-sync/rescue-orphans.py"
+    )
+    rescue = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(rescue)
+    restored = []
+    quarantine = run_dir / "quarantine"
+    for name in names:
+        src = quarantine / name
+        match = re.fullmatch(r"([a-z]{2})--(.+\.md)", name)
+        if not match or not src.is_file():
+            print(f"  ❌ run quarantine 路徑無效: {src}")
+            continue
+        content = src.read_text(encoding="utf-8")
+        tf = re.search(r"^translatedFrom:\s*['\"]?(.+?)['\"]?\s*$", content, re.M)
+        if not tf:
+            print(f"  ❌ translatedFrom 缺失: {src}")
+            continue
+        zh_rel = pathlib.PurePosixPath(tf.group(1))
+        parts = zh_rel.parts
+        if len(parts) == 2:
+            category = parts[0]
+        elif len(parts) >= 3 and parts[0] == "zh":
+            category = parts[1]
+        else:
+            print(f"  ❌ translatedFrom 非 canonical: {tf.group(1)}")
+            continue
+        target = REPO / "knowledge" / match.group(1) / category / match.group(2)
+        if target.exists():
+            print(f"  ⏭️  target 已存在，不覆寫: {target.relative_to(REPO)}")
+            continue
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_text(content, encoding="utf-8")
+        rel = str(target.relative_to(REPO))
+        ok, reason = rescue.verify_trio(rel)
+        if ok:
+            restored.append(rel)
+            print(f"  ✅ restore run quarantine: {rel}")
+        else:
+            target.unlink()
+            print(f"  ❌ verify trio ({reason}): {rel}")
+    return restored
+
+
 def main():
+    ap = argparse.ArgumentParser(
+        description="從 git 歷史回收被 quarantine 刪除、且仍通過 stale-safe gate 的譯文",
+    )
+    ap.add_argument(
+        "--output",
+        default="/tmp/babel-20260724/salvage-restored.txt",
+        help="回收成功清單路徑（parent 不存在會自動建立）",
+    )
+    ap.add_argument("--run-dir", type=pathlib.Path, help="本輪 dispatcher run dir")
+    ap.add_argument(
+        "--run-file",
+        action="append",
+        default=[],
+        help="只回收明確列出的 quarantine basename；可重複",
+    )
+    args = ap.parse_args()
+
+    if args.run_dir:
+        if not args.run_file:
+            ap.error("--run-dir 必須搭配至少一個 --run-file，禁止整包放行")
+        restored = restore_run_quarantine(args.run_dir, args.run_file)
+        out = pathlib.Path(args.output)
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text("\n".join(restored) + "\n" if restored else "")
+        print(f"restored list → {out}")
+        return
+
     paths = [f"knowledge/{l}" for l in LANG_DIRS]
     # 撈近兩天所有刪除紀錄：commit hash + 被刪路徑
     log = run(["git", "log", "--diff-filter=D", "--since=2026-07-23 00:00",
@@ -81,7 +160,8 @@ def main():
     for p, r in skipped[:10]:
         print(f"  skip: {p} ({r})")
     # 落一份清單給 commit 步驟
-    out = pathlib.Path("/tmp/babel-20260724/salvage-restored.txt")
+    out = pathlib.Path(args.output)
+    out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text("\n".join(restored) + "\n" if restored else "")
     print(f"restored list → {out}")
 

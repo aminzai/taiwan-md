@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.11)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.12)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.11'
+current_version: 'v1.12'
 last_updated: 2026-07-29
-last_session: '2026-07-29-vortex-attribution-and-run-isolation'
+last_session: '2026-07-29-vortex-photo-credit-attribution'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.11
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.12
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,17 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.12（2026-07-29）：新增狹義攝影者中文署名豁免。pt 李宗盛／羅大佑
+  隔離樣本的 4 個 CJK 命中全是 Wikimedia 授權鏈中的
+  `Foto: 化城再来人`；作者名不可刪除或為通過 gate 而改寫。checker 現只
+  剝除 `Photo/Foto:` 後緊接的 1–30 個漢字，逗號後正文與其他中文仍照掃；
+  沒有放寬一般 ASCII 引號／括號，因此俄語同篇的真漏譯仍會被擋。同輪撞出
+  歷史回收器把 `--help` 當正式執行、末尾又因清單 parent 不存在而崩潰；
+  現補標準 argparse 與自動建目錄，查說明不再產生工作樹寫入；另加只接受
+  明確 basename、回填後強制跑 canonical verify trio 的 run-quarantine
+  回收模式，checker 修正可當輪救回好譯文而不整包放行。孤兒回收器另修
+  `--quarantine-failed` 把 tracked stale 基線誤搬走的缺陷：未過 gate 的
+  tracked 候選現在精確還原 HEAD，只有 untracked 衍生檔才移入 `/tmp`。
 - v1.11（2026-07-29）：修正 patch exit=1 的失敗歸因。patch 引擎已把候選
   擋下並還原舊譯文，dispatcher 卻又拿還原後的 stale HEAD 跑一次外層 gate，
   讓舊文既存 leak／health 問題冒充本次模型失敗；本輪表面 21 個 leak 至少
