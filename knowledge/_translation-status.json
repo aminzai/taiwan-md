@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-28T08:10:11+08:00",
-    "zhCommitHead": "2735a4362",
+    "lastUpdated": "2026-07-28T08:16:06+08:00",
+    "zhCommitHead": "289caaa24",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -35,10 +35,10 @@
       },
       "ko": {
         "total_zh": 869,
-        "fresh": 833,
-        "stale": 30,
+        "fresh": 835,
+        "stale": 29,
         "metadata_stale": 0,
-        "missing": 6,
+        "missing": 5,
         "orphan": 0
       },
       "es": {
@@ -51,8 +51,8 @@
       },
       "fr": {
         "total_zh": 869,
-        "fresh": 826,
-        "stale": 39,
+        "fresh": 827,
+        "stale": 38,
         "metadata_stale": 1,
         "missing": 3,
         "orphan": 0
@@ -83,10 +83,10 @@
       },
       "hi": {
         "total_zh": 869,
-        "fresh": 459,
+        "fresh": 460,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 410,
+        "missing": 409,
         "orphan": 0
       },
       "ar": {
@@ -7510,7 +7510,18 @@
           "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Economy/want-want-group.md",
+          "translatedFrom": "Economy/旺旺.md",
+          "sourceCommitSha": "71a0a6781",
+          "sourceContentHash": "sha256:09b6e203fc91b5b5",
+          "sourceBodyHash": "sha256:2386fbe1cd54e9dd",
+          "translatedAt": "2026-07-28T04:03:50+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -22133,7 +22144,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Art/chi-po-hao-musician.md",
+          "translatedFrom": "Art/紀柏豪.md",
+          "sourceCommitSha": "4138a07a1",
+          "sourceContentHash": "sha256:cc5a95c84301cdb2",
+          "sourceBodyHash": "sha256:584bf91da94df29e",
+          "translatedAt": "2026-07-28T06:16:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -30180,8 +30202,8 @@
           "sourceContentHash": "sha256:93955fe44e7691af",
           "sourceBodyHash": "sha256:08eacf8247ffcb10",
           "translatedAt": "2026-07-28T06:15:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cf8b6758",
+          "translationLastModified": "2026-07-28T08:10:09+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -37425,8 +37447,8 @@
           "sourceContentHash": "sha256:84ffcc67e2e155cf",
           "sourceBodyHash": "sha256:8b3cd9fb7313dbef",
           "translatedAt": "2026-07-28T06:15:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cf8b6758",
+          "translationLastModified": "2026-07-28T08:10:09+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -50598,18 +50620,16 @@
         "ko": {
           "path": "ko/People/wu-bao-chun.md",
           "translatedFrom": "People/吳寶春.md",
-          "sourceCommitSha": "fb0101886",
-          "sourceContentHash": "sha256:299e6ec6dab64e0a",
-          "sourceBodyHash": "sha256:75c04d29af394ed6",
-          "translatedAt": "2026-06-12T00:53:42+08:00",
+          "sourceCommitSha": "09c1bf1a9",
+          "sourceContentHash": "sha256:1b0b64c23c091c1f",
+          "sourceBodyHash": "sha256:e355ad9581f498f8",
+          "translatedAt": "2026-07-28T00:12:05.329563+00:00",
           "translationLastCommit": "995f1458",
           "translationLastModified": "2026-06-12T05:24:32+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/wu-bao-chun.md",
@@ -50628,18 +50648,16 @@
         "fr": {
           "path": "fr/People/wu-bao-chun.md",
           "translatedFrom": "People/吳寶春.md",
-          "sourceCommitSha": "fb0101886",
-          "sourceContentHash": "sha256:299e6ec6dab64e0a",
-          "sourceBodyHash": "sha256:75c04d29af394ed6",
-          "translatedAt": "2026-06-12T00:53:43+08:00",
+          "sourceCommitSha": "09c1bf1a9",
+          "sourceContentHash": "sha256:1b0b64c23c091c1f",
+          "sourceBodyHash": "sha256:e355ad9581f498f8",
+          "translatedAt": "2026-07-28T00:12:17.696220+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/wu-bao-chun.md",
@@ -61090,8 +61108,8 @@
           "sourceContentHash": "sha256:1ae91ed26b56a7cf",
           "sourceBodyHash": "sha256:09b0e9d407cb3e56",
           "translatedAt": "2026-07-28T06:15:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cf8b6758",
+          "translationLastModified": "2026-07-28T08:10:09+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -63606,8 +63624,8 @@
           "sourceContentHash": "sha256:b1203b58fb6b7faa",
           "sourceBodyHash": "sha256:6d452360d79fae70",
           "translatedAt": "2026-07-28T06:15:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cf8b6758",
+          "translationLastModified": "2026-07-28T08:10:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -94663,8 +94681,8 @@
           "sourceContentHash": "sha256:1c18939671190740",
           "sourceBodyHash": "sha256:c336900c050cb32f",
           "translatedAt": "2026-07-28T05:31:31+08:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "3dc53f9c",
+          "translationLastModified": "2026-07-28T08:10:12+08:00",
           "inferred": false,
           "footnoteDefs": 53,
           "status": "fresh",
@@ -95755,8 +95773,8 @@
           "sourceContentHash": "sha256:e04661eeed7e83a6",
           "sourceBodyHash": "sha256:11623780c733bce5",
           "translatedAt": "2026-07-28T06:15:57+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cf8b6758",
+          "translationLastModified": "2026-07-28T08:10:09+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
