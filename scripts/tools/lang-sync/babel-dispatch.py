@@ -129,6 +129,35 @@ class JsonlWriter:
             self.fp.flush()
 
 
+def create_run_dir(
+    base: Path = Path("/tmp"),
+    *,
+    now: Optional[datetime] = None,
+    pid: Optional[int] = None,
+) -> Path:
+    """Create one private run directory per dispatcher process.
+
+    restart-vortex.sh launches the fleet/cloud/vi lanes within the same minute.
+    The old minute-only name made all three processes append to the same logs
+    and report, overwrite one slug map, and reuse task directories. Thread
+    locks above are process-local, so they cannot make those writes safe.
+    Seconds + PID separate normal launches; the suffix loop also makes tests
+    and an improbable same-process retry collision-safe.
+    """
+    stamp = (now or datetime.now()).strftime("%Y%m%d-%H%M%S")
+    process_id = os.getpid() if pid is None else pid
+    stem = f"babel-unified-{stamp}-{process_id}"
+    candidate = base / stem
+    suffix = 1
+    while True:
+        try:
+            candidate.mkdir(parents=True, exist_ok=False)
+            return candidate
+        except FileExistsError:
+            candidate = base / f"{stem}-{suffix}"
+            suffix += 1
+
+
 # ────────────────────────── workers ──────────────────────────
 
 @dataclass
@@ -884,7 +913,21 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
     # AFTER fallback, BEFORE any restore — worker-health signal.
     produced_by_backend = target.exists() and target.stat().st_size > 0
 
-    if not target.exists():
+    # patch-translate exit=1 means it attempted the changed chapters but its
+    # own verify trio rejected the assembled candidate, then restored the
+    # pre-patch file. That restored stale file is not backend output. The old
+    # dispatcher nevertheless sent it through the outer gate, so a historical
+    # leak/health issue on the stale HEAD version overwrote the real failure
+    # attribution (this run's apparent 21 "leaks" included several such patch
+    # rejects). Record the patch failure directly; exit=2 remains the explicit
+    # "not applicable, try whole article" branch above.
+    patch_rejected = engine_label == "patch" and proc.returncode == 1
+
+    if patch_rejected:
+        disposition = restore_head_or_quarantine(trans_path, log)
+        ok = False
+        fail_reason = "patch candidate rejected by verify trio (exit=1)"
+    elif not target.exists():
         disposition = restore_head_or_quarantine(trans_path, log)
         ok, fail_reason = False, f"no output written by translate.py (exit={proc.returncode})"
     else:
@@ -1112,8 +1155,7 @@ def main() -> None:
     else:
         langs_requested = None  # resolved after first status refresh
 
-    run_dir = Path(f"/tmp/babel-unified-{datetime.now().strftime('%Y%m%d-%H%M')}")
-    run_dir.mkdir(parents=True, exist_ok=True)
+    run_dir = create_run_dir()
     print(run_dir)  # run dir path — first thing printed, per spec
 
     log = Logger(run_dir / "master.log")

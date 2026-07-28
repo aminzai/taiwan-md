@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.9)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.11)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.9'
+current_version: 'v1.11'
 last_updated: 2026-07-29
-last_session: '2026-07-29-vortex-m4-fleet-acceptance'
+last_session: '2026-07-29-vortex-attribution-and-run-isolation'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.9
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.11
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,17 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.11（2026-07-29）：修正 patch exit=1 的失敗歸因。patch 引擎已把候選
+  擋下並還原舊譯文，dispatcher 卻又拿還原後的 stale HEAD 跑一次外層 gate，
+  讓舊文既存 leak／health 問題冒充本次模型失敗；本輪表面 21 個 leak 至少
+  多筆屬此型。現在直接記為 `patch candidate rejected by verify trio`，不再
+  heal／隔離／重驗不是本次產物的舊檔；exit=2 的全文 fallback 邏輯不變。
+- v1.10（2026-07-29）：三條 dispatcher 由 `restart-vortex.sh` 同分鐘啟動時，
+  舊的 minute-only run dir 讓它們共用 `report.jsonl`／`master.log`／
+  `slug-map.json`／tasks，process-local lock 無法保護跨程序競寫，實績也無法
+  乾淨歸因。run dir 改為秒＋PID，另加碰撞 suffix；pulse／preflight 的 wildcard
+  discovery 不需改動。現存合併 report 保留為事故證據，下一次受管重啟起各軌
+  獨立落檔。
 - v1.9（2026-07-29）：M4 接案權限不再寫死於 wake prompt 或腳本，由
   `muse-bot/fleet` control plane 動態決定；同一輪指示衝突時，以觀察者最新
   明確指示為準。首輪受管驗收三併發 7 件、0 通過，平均耗時 10–25 分鐘，
