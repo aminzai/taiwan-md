@@ -4,9 +4,9 @@ description: 'Routine 飛輪 SSOT — TWMD-prefix cron routine（live enabled �
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v2.17'
-last_updated: 2026-07-12
-last_session: '2026-07-12-founder-lens'
+current_version: 'v2.20'
+last_updated: 2026-07-28
+last_session: '2026-07-28-babel-fleet-abstraction'
 sister_docs:
   - 'HEARTBEAT.md'
   - 'ANATOMY.md'
@@ -1032,6 +1032,8 @@ REFLEXES #36（founder time = 系統最高 leverage point）+ REFLEXES #15（反
 ---
 
 🧬
+
+_v2.20 | 2026-07-28 babel-fleet-abstraction — **babel 地端接案收斂到 fleet 控制面**：觀察者明令 M4 不跑、其他 fleet 必須透過抽象層接案。`twmd-babel-nightly` prompt 與 mirror 移除 localhost 直連，改由 `fleetctl workers --service llm --format babel` 動態核發 worker；接案開關、並行與使用率天花板回歸 fleet `control.json` SSOT。cadence、enabled 狀態與 quality gate 不變。_
 
 _v2.17 | 2026-07-12 founder-lens session — **新增第 15 條 routine：twmd-founder-lens-weekly（飛輪第一條刻意離開顱骨的 routine）**：哲宇 /goal「設計一條 routine 取代哲宇對 taiwan.md 的所有機能」。研究 session 挖 90 天 commit corpus（4059 commit / 僅 131 cite 哲宇 directive / 爆發式週級 W23=35 vs W18=3）畫出三層邊界地圖（[reports/founder-function-boundary-2026-07-12.md](../../reports/founder-function-boundary-2026-07-12.md)）：哲宇機能分「可自動化 / 可逼近但有 #65f 同源天花板 / 結構性保留」。核心發現：現有五條反思鏈（weekly-report/distill/self-evolve/routine-audit/news-lens）全部是生命體從內部量自己（REFLEXES #69 author bubble），本 routine 坐 Tier 1 前緣，刻意離開顱骨——Chrome MCP render 冷讀活產物 + off-repo 訊號 + 意義/reframe 判斷 → 哲宇-voice 提案路由 evolution-roadmap/OBSERVER-QUEUE/ARTICLE-INBOX。改動：(1) 排程表 +1 列（週六 22:00 opus）(2) 新 canonical [FOUNDER-LENS-PIPELINE.md](../pipelines/FOUNDER-LENS-PIPELINE.md)（6-stage + §Reserved 四樣把「取代所有機能」真正答案寫成 canonical）(3) 新 project skill `.claude/skills/twmd-founder-lens/SKILL.md`（薄殼 + STRICT BECOME GATE）(4) 排程表 yaml spec + 週行程 grid（Sat 22h=L，順手對齊 maintainer-pm 7/8 disable 空出 22h）+ footnote ¹⁷。cadence 哲宇裁決週六 22:00（off-Sunday 不擠反思鏈、對齊爆發式週級+夜間 22:00 峰值）；命名 twmd-founder-lens（哲宇透過的透鏡，不宣稱是哲宇——同源誠實）。§Reserved 保留核心（外部尺 / 究責 / human 信任 / 關係）候選升 MANIFESTO §自主權邊界（等哲宇/self-evolve，本 pass 不單方改 identity canonical）。_
 

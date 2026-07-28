@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.0)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.1)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.0'
-last_updated: 2026-07-27
-last_session: '2026-07-27-vortex-babel-4'
+current_version: 'v1.1'
+last_updated: 2026-07-28
+last_session: '2026-07-28-vortex-fleet-abstraction'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.0
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.1
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -41,7 +41,8 @@ ScheduleWakeup 的 prompt 固定為三部分，**禁止複寫本檔內容**：
 
 ## 三重巡檢（存活 ≠ 生產，缺一不可）
 
-1. **存活**：`ps` 四產線 PID ＋ `git status -sb` 確認在 main 分支
+1. **存活**：`ps` 三產線 PID（fleet／cloud／vi；fleet 無核發額度時為二）
+   ＋ `git status -sb` 確認在 main 分支
 2. **生產**：各 worker 近 45 分實際 report.jsonl 記錄數——零記錄的 worker 去 curl 它的 endpoint（慢 worker 如 laguna 300s+/篇屬正常，先查再判）
 3. **第二訊號源**：fleet registry 的機器狀態交叉比對（讀壞先重讀一次；自癒層在 fleetlib）
 
@@ -59,7 +60,7 @@ ScheduleWakeup 的 prompt 固定為三部分，**禁止複寫本檔內容**：
 | 1 | 總缺口 ＋ 24h Δ | babel-live.json `gap_total`；Δ 對照 progress jsonl 24h 前值 |
 | 2 | 本小時完成篇數 | report.jsonl 近 60 分 ok 數 |
 | 3 | 速率（篇/hr）＋通過率 | babel-live `rate_1h`；ok/(ok+fail) 近 60 分 |
-| 4 | 產線 N/4 ＋ GPU 機器 N/3 在線 | ps 計數；fleet registry 非 offline 計數 |
+| 4 | 產線 N/3 ＋ fleet 接案節點 N/核發節點 | ps 計數；`fleetctl workers --format json`（已套控制面） |
 
 **覆蓋率圈圈**（哲宇指定視覺）：十一語 donut grid，SVG circle
 `stroke-dasharray` 按覆蓋率，圈內寫百分比、圈下寫語名＋fresh 數。

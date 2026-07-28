@@ -55,9 +55,12 @@ SSOT：薄殼 wake prompt contract、固定 benchmark 報告面板、三重巡�
 
 ```bash
 python3 scripts/tools/lang-sync/babel-dispatch.py --langs <langs> \
-  --worker "本機=ollama:<model>@http://127.0.0.1:11434" \
+  $(~/Projects/muse-bot/fleet/fleetctl workers --service llm --format babel) \
   --worker "雲端=openrouter:<model>" --rounds 200 --commit-every 50
 ```
+
+地端 worker 一律由 fleet 控制面核發；禁止在 skill／routine／重啟腳本寫死
+localhost、Tailscale IP、模型或並行數。`fleetctl control` 的接案開關與天花板是 SSOT。
 
 Stage D（認知層 diary babel）跟 Stage 3 同屬義務範圍，工具鏈走 [REMOTE-GPU-PIPELINE.md](../../../docs/pipelines/REMOTE-GPU-PIPELINE.md)。
 

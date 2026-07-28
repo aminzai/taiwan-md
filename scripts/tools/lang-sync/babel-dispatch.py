@@ -35,7 +35,7 @@ Usage:
     --langs vi,id,pt,hi \\
     --worker "nemo=openrouter:nvidia/nemotron-3-ultra-550b-a55b:free" \\
     --worker "gemma31=openrouter:google/gemma-4-31b-it:free" \\
-    --worker "mac=ollama:qwen3.6:35b-a3b-coding-nvfp4@http://127.0.0.1:11434" \\
+    $(~/Projects/muse-bot/fleet/fleetctl workers --service llm --format babel) \\
     --order reverse --rounds 50 --commit-every 10
 
 Smoke test:
@@ -988,7 +988,7 @@ def main() -> None:
     --worker "nemo=openrouter:nvidia/nemotron-3-ultra-550b-a55b:free" \\
     --worker "gemma31=openrouter:google/gemma-4-31b-it:free" \\
     --worker "laguna=openrouter:poolside/laguna-xs-2.1:free" \\
-    --worker "mac=ollama:qwen3.6:35b-a3b-coding-nvfp4@http://127.0.0.1:11434" \\
+    $(~/Projects/muse-bot/fleet/fleetctl workers --service llm --format babel) \\
     --order reverse --rounds 50 --commit-every 10
 """,
     )

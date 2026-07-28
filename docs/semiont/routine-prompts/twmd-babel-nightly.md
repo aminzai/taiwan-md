@@ -33,10 +33,13 @@ python3 scripts/tools/lang-sync/status.py
 
 ```bash
 python3 scripts/tools/lang-sync/babel-dispatch.py --langs <status.py 顯示有缺口的語言> \
-  --worker "本機=ollama:<preflight 列出的模型>@http://127.0.0.1:11434" \
+  $(~/Projects/muse-bot/fleet/fleetctl workers --service llm --format babel) \
   --worker "雲端=openrouter:<pipeline DEFAULT_CASCADE 的模型>" \
   --rounds 200 --commit-every 10
 ```
+
+地端 worker 只由 fleet 控制面核發；禁止直連 localhost／節點 IP。接案開關、
+並行與使用率天花板以 fleet `control.json` 為準。
 
 調度器內建三重 gate、HEAD-restore（gate fail 有舊版就還原不刪除，寧可 stale 也不要 missing）、精確路徑 commit。P2/P2.5 的 diff-patch 與 metadata bump 路徑見 pipeline。
 
