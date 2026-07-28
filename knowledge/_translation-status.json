@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-28T08:00:19+08:00",
-    "zhCommitHead": "1763a4cd8",
+    "lastUpdated": "2026-07-28T08:08:22+08:00",
+    "zhCommitHead": "66008e206",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -35,34 +35,34 @@
       },
       "ko": {
         "total_zh": 869,
-        "fresh": 831,
-        "stale": 32,
+        "fresh": 833,
+        "stale": 30,
         "metadata_stale": 0,
         "missing": 6,
         "orphan": 0
       },
       "es": {
         "total_zh": 869,
-        "fresh": 831,
-        "stale": 32,
+        "fresh": 832,
+        "stale": 31,
         "metadata_stale": 0,
         "missing": 6,
         "orphan": 0
       },
       "fr": {
         "total_zh": 869,
-        "fresh": 825,
-        "stale": 40,
+        "fresh": 826,
+        "stale": 39,
         "metadata_stale": 1,
         "missing": 3,
         "orphan": 0
       },
       "vi": {
         "total_zh": 869,
-        "fresh": 297,
+        "fresh": 304,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 566,
+        "missing": 559,
         "orphan": 0
       },
       "id": {
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 869,
-        "fresh": 615,
+        "fresh": 616,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 248,
+        "missing": 247,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 477,
+        "fresh": 478,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 392,
+        "missing": 391,
         "orphan": 0
       },
       "ru": {
         "total_zh": 869,
-        "fresh": 508,
+        "fresh": 510,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 361,
+        "missing": 359,
         "orphan": 0
       }
     },
@@ -20016,8 +20016,8 @@
           "sourceContentHash": "sha256:a528d560e37c40b9",
           "sourceBodyHash": "sha256:1790c4ef1b7a9b20",
           "translatedAt": "2026-07-28T06:16:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "66008e20",
+          "translationLastModified": "2026-07-28T08:00:19+08:00",
           "inferred": false,
           "footnoteDefs": 49,
           "status": "fresh",
@@ -22139,7 +22139,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Art/chi-po-hao-musician.md",
+          "translatedFrom": "Art/紀柏豪.md",
+          "sourceCommitSha": "4138a07a1",
+          "sourceContentHash": "sha256:cc5a95c84301cdb2",
+          "sourceBodyHash": "sha256:584bf91da94df29e",
+          "translatedAt": "2026-07-28T06:16:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -29539,18 +29550,16 @@
         "ko": {
           "path": "ko/Lifestyle/convenience-store-culture.md",
           "translatedFrom": "Lifestyle/台灣便利商店文化.md",
-          "sourceCommitSha": "50617dc1",
-          "sourceContentHash": "sha256:270d23d188160eb0",
-          "sourceBodyHash": "sha256:3cc86e403e9f38f1",
-          "translatedAt": "2026-07-13T16:30:00Z",
+          "sourceCommitSha": "d520299ba",
+          "sourceContentHash": "sha256:15b1d886569defdd",
+          "sourceBodyHash": "sha256:5c3b9cff7c172cb0",
+          "translatedAt": "2026-07-28T04:03:50+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Lifestyle/convenience-store-culture.md",
@@ -31618,7 +31627,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/taiwan-environmental-justice-nimby-conflicts.md",
+          "translatedFrom": "Society/台灣環境正義與鄰避爭議.md",
+          "sourceCommitSha": "49728f9d5",
+          "sourceContentHash": "sha256:fde226895a6b4ce1",
+          "sourceBodyHash": "sha256:a1ad7c8705807524",
+          "translatedAt": "2026-07-28T07:06:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -37374,7 +37394,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/taiwan-public-health-epidemic-response.md",
+          "translatedFrom": "Society/台灣公共衛生與防疫體系.md",
+          "sourceCommitSha": "49728f9d5",
+          "sourceContentHash": "sha256:84ffcc67e2e155cf",
+          "sourceBodyHash": "sha256:8b3cd9fb7313dbef",
+          "translatedAt": "2026-07-28T07:06:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/taiwan-public-health-epidemic-response.md",
@@ -38370,7 +38401,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Society/taiwan-political-landscape-and-electoral-system.md",
+          "translatedFrom": "Society/台灣政治環境與選舉制度.md",
+          "sourceCommitSha": "dbaf28954",
+          "sourceContentHash": "sha256:815fdbbdd8e6757e",
+          "sourceBodyHash": "sha256:c04d648a91c00bf4",
+          "translatedAt": "2026-07-28T07:06:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Society/taiwan-political-landscape-and-electoral-system.md",
@@ -40886,10 +40928,32 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/taiwan-diplomatic-allies-and-international-relations.md",
+          "translatedFrom": "Society/台灣邦交國與國際外交.md",
+          "sourceCommitSha": "669a4c875",
+          "sourceContentHash": "sha256:03188362c6b1e61a",
+          "sourceBodyHash": "sha256:e6881f1d2b6924ed",
+          "translatedAt": "2026-07-28T06:16:02+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 42,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/taiwan-diplomatic-allies-and-international-relations.md",
+          "translatedFrom": "Society/台灣邦交國與國際外交.md",
+          "sourceCommitSha": "669a4c875",
+          "sourceContentHash": "sha256:03188362c6b1e61a",
+          "sourceBodyHash": "sha256:e6881f1d2b6924ed",
+          "translatedAt": "2026-07-28T06:16:04+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 42,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -49322,7 +49386,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Politics/political-donation-transparency.md",
+          "translatedFrom": "Politics/政治獻金透明度.md",
+          "sourceCommitSha": "837e22b9a",
+          "sourceContentHash": "sha256:8a7814971a9249c7",
+          "sourceBodyHash": "sha256:214c403ec0d7137c",
+          "translatedAt": "2026-07-28T06:15:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -50528,18 +50603,16 @@
         "es": {
           "path": "es/People/wu-bao-chun.md",
           "translatedFrom": "People/吳寶春.md",
-          "sourceCommitSha": "fb0101886",
-          "sourceContentHash": "sha256:299e6ec6dab64e0a",
-          "sourceBodyHash": "sha256:75c04d29af394ed6",
-          "translatedAt": "2026-06-12T00:53:04+08:00",
+          "sourceCommitSha": "09c1bf1a9",
+          "sourceContentHash": "sha256:1b0b64c23c091c1f",
+          "sourceBodyHash": "sha256:e355ad9581f498f8",
+          "translatedAt": "2026-07-28T00:07:34.243433+00:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/wu-bao-chun.md",
@@ -65751,7 +65824,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/tsai-a-ga-youtuber.md",
+          "translatedFrom": "People/蔡阿嘎.md",
+          "sourceCommitSha": "f5975a224",
+          "sourceContentHash": "sha256:2fc7b754782e2c72",
+          "sourceBodyHash": "sha256:3835f3eeb33c205d",
+          "translatedAt": "2026-07-28T07:06:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -71836,18 +71920,16 @@
         "ko": {
           "path": "ko/People/potter-king-youtuber.md",
           "translatedFrom": "People/波特王.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:f007d55cb9bbfd03",
-          "sourceBodyHash": "sha256:08c56227ca69228f",
-          "translatedAt": "2026-05-02T09:01:00+08:00",
+          "sourceCommitSha": "5edf34bcb",
+          "sourceContentHash": "sha256:f218c0f6edac6f55",
+          "sourceBodyHash": "sha256:bd885df97c7fe1fa",
+          "translatedAt": "2026-07-28T00:07:11.460378+00:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/potter-king-youtuber.md",
@@ -71868,21 +71950,30 @@
         "fr": {
           "path": "fr/People/potter-king-youtuber.md",
           "translatedFrom": "People/波特王.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:f007d55cb9bbfd03",
-          "sourceBodyHash": "sha256:08c56227ca69228f",
-          "translatedAt": "2026-06-12T00:53:43+08:00",
+          "sourceCommitSha": "5edf34bcb",
+          "sourceContentHash": "sha256:f218c0f6edac6f55",
+          "sourceBodyHash": "sha256:bd885df97c7fe1fa",
+          "translatedAt": "2026-07-28T00:07:59.729967+00:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/People/potter-king-youtuber.md",
+          "translatedFrom": "People/波特王.md",
+          "sourceCommitSha": "5edf34bcb",
+          "sourceContentHash": "sha256:f218c0f6edac6f55",
+          "sourceBodyHash": "sha256:bd885df97c7fe1fa",
+          "translatedAt": "2026-07-28T07:06:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -97634,8 +97725,8 @@
           "sourceContentHash": "sha256:c3748ae1610fed44",
           "sourceBodyHash": "sha256:68f6beb778ba92ff",
           "translatedAt": "2026-07-28T06:16:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "66008e20",
+          "translationLastModified": "2026-07-28T08:00:19+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "status": "fresh",
@@ -106247,7 +106338,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/bahamut-taiwan-gaming-community.md",
+          "translatedFrom": "Culture/巴哈姆特.md",
+          "sourceCommitSha": "f5975a224",
+          "sourceContentHash": "sha256:6af04295a71690eb",
+          "sourceBodyHash": "sha256:01a8577cdb53218c",
+          "translatedAt": "2026-07-28T07:06:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "path": "id/Culture/bahamut-taiwan-gaming-community.md",
@@ -112602,7 +112704,18 @@
           "reason": "same-commit"
         },
         "vi": {
-          "status": "missing"
+          "path": "vi/Culture/taiwan-youtuber-industry.md",
+          "translatedFrom": "Culture/台灣YouTuber產業與文化.md",
+          "sourceCommitSha": "d40e50420",
+          "sourceContentHash": "sha256:d4ca70756fc2b68a",
+          "sourceBodyHash": "sha256:631049e094973d93",
+          "translatedAt": "2026-07-28T07:06:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "id": {
           "status": "missing"
@@ -113206,8 +113319,8 @@
           "sourceContentHash": "sha256:c5c6c2825029a48f",
           "sourceBodyHash": "sha256:f0cb0ab3b5428edc",
           "translatedAt": "2026-07-28T06:16:04+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "66008e20",
+          "translationLastModified": "2026-07-28T08:00:19+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
