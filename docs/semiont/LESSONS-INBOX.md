@@ -480,6 +480,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ---
 
+### 2026-07-28 manual（苯駢芘 EVOLVE）— cold-seat-attribution-inverted：冷讀席沒有材料，所以它指認的「錯的那一邊」可能是反的
+
+- **pattern**: `cold-seat-attribution-inverted`
+- **原則**：編輯室鐵律「席位是線索，裁決回到有材料的人」已 canonical 在 [REWRITE-PIPELINE §留派表](../pipelines/REWRITE-PIPELINE.md) 與 [STAGE-3 §大驗證輪 步 3](../pipelines/REWRITE-STAGE-3-VERIFY.md)，但它目前只規範「裁決該不該改」。本條補的是**同一句話的第二層**：當席位報的是「A 跟 B 對不上」這類一致性 finding 時，**它同時也在暗示哪一邊是錯的，而那個歸因方向可能是反的**——冷讀席手上沒有材料，只能預設「資訊比較多的那一份是多寫了」，有研究報告在手的主編才知道是「比較少的那一份漏了」。主編收到一致性 finding 時要分兩步裁決：(1) 這個矛盾成不成立 (2) 錯的是哪一邊，第二步不能沿用席位的預設。
+- **觸發**：2026-07-28 苯駢芘 EVOLVE（[→memory](memory/2026-07-28-113257-manual.md)）：閱讀節奏席報「末段正文只數了五件事，說明框卻列六條含行政裁罰」，並建議把說明框的「行政裁罰」刪掉。回研究報告 §成稿時點聲明查證，六條線**確實含行政裁罰**（裁罰 7/7、7/12、7/16 分三批開出、當時未結），說明框沒寫錯，缺的是正文。若照席位建議執行，會把一條真實未結的線從文章裡刪掉。
+- **可能層級**：(a) [REWRITE-STAGE-3-VERIFY §大驗證輪 步 2 單次收件](../pipelines/REWRITE-STAGE-3-VERIFY.md) 的修復單表格加一欄「歸因方向已複查？」，強制主編對一致性類 finding 回材料源確認哪一邊錯 (b) [EDITORIAL-ROOM-PROMPTS](../pipelines/EDITORIAL-ROOM-PROMPTS.md) 席位輸出格式加一行「若你報的是兩處對不上，請明說你**沒有**材料判斷哪一邊才是錯的」——把席位的認知邊界寫進它自己的輸出
+- **相關**：[REFLEXES #31](REFLEXES.md) sub-agent claim 是線索不是事實（本條是 claim 的**方向**層，不是 claim 的**真偽**層）/ [REFLEXES #69](REFLEXES.md) 每層自評都需要外部尺（本條是反向補充：外部尺本身也有它看不到的東西，而那個盲區有方向性）/ [REFLEXES #16](REFLEXES.md) peer 是線索不是 source
+- **verification_count**: 1
+- **severity**: correctness（照席位預設執行會刪掉正確內容）
+- **defer 給觀察者**：否——pipeline 表格欄位與席位 prompt 微調可歸內部操作層；vc≥2 再考慮升 REFLEXES 或 fold 進 #31 子規則
+
+---
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->

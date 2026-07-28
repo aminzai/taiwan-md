@@ -347,3 +347,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-28 | 085436-twmd-maintainer-daily | PR #1270 動保.md merge-first + heal（frontmatter + 壞掉的維基連結修復）；#1268 續 blocked；4 issue SKIP | 同一貢獻者不同篇腳註品質可以天差地遠，判斷要逐篇看證據不能套人；merge-first+heal 模式連兩天驗證，非巧合 | [→](memory/2026-07-28-085436-twmd-maintainer-daily.md) |
 | 2026-07-28 | 093712-twmd-flywheel-watch | 飛輪在轉（24hr 110 commit／11 筆 routine，六條日更全部留痕，零靜默）；唯一黃燈是 live dump 齡 55.4hr 過門檻，且是同一發現的第三天 → 升 OBSERVER-QUEUE #22 | 這台補得了那個檔卻不該補——指揮部 dump 的是自己的排程，補完是假綠燈，比停在 55 小時的黃燈更糟 | [→](memory/2026-07-28-093712-twmd-flywheel-watch.md) |
 | 2026-07-28 | 103245-vortex-babel-8 | 診斷取代重啟：slug 只認英文版讓 27 篇純中文檔名文章排不進佇列，改讀全語言＋人工 map 解套；五修驗收 exit=1 歸零；渦流 12h 後暫停 | 吞掉 stderr 的存活探針，把權限錯誤讀成了行程死亡 | [→](memory/2026-07-28-103245-vortex-babel-8.md) |
+| 2026-07-28 | 113257-manual | 苯駢芘一篇三輪：順稿拆掉五面牆、補三張 CC 圖（點名 1,322 家業者故不可用具名店家照）、7/27 官方調查 EVOLVE ＋ H2 拆節；順手清掉腳註掛錯來源的舊債 | 六個外部席位命中六次、我自己重讀命中零次；冷讀席沒材料，它指認「錯的那一邊」可能是反的 | [→](memory/2026-07-28-113257-manual.md) |
