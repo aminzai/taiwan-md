@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T22:13:07.785742Z",
+  "lastUpdated": "2026-07-28T22:40:23.765301Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 154,
@@ -32,7 +32,7 @@
       "url": "https://x.com/taiwandotmd/status/2081744559860818133",
       "highlight": "同 #163 內容，X 單則貼文＋inline s164 UTM",
       "views_7d": null,
-      "views_latest": 1955,
+      "views_latest": 4898,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -48,7 +48,7 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DbTJE6Mk8mK",
       "highlight": "食安法沒定義「發現」的時點：中聯拖 19 天、連淨當天說；收尾把「你會先打給上游還是政府」交還讀者",
       "views_7d": null,
-      "views_latest": 1475,
+      "views_latest": 1599,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -64,7 +64,7 @@
       "url": "https://x.com/taiwandotmd/status/2081354251016773702",
       "highlight": "同 #161 內容，X 單則貼文＋inline s162 UTM",
       "views_7d": null,
-      "views_latest": 45000,
+      "views_latest": 49000,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -80,7 +80,7 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb",
       "highlight": "鎢絲/鑽頭/婚戒同金屬冷知識起手，日相涉台發言→中國對日鎢粉出口砍零→日廠永久停產，收在屏東枋寮回收廠靠廢鎢漲350%卡位鏈上",
       "views_7d": null,
-      "views_latest": 420000,
+      "views_latest": 430000,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -96,7 +96,7 @@
       "url": "https://x.com/taiwandotmd/status/2081045126898684051",
       "highlight": "雙單同酬（4.4/8.6公里都90元）；地板 vs 演算法",
       "views_7d": null,
-      "views_latest": 177,
+      "views_latest": 3042,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -107,7 +107,7 @@
       "n": 161,
       "article": "台灣鎢供應鏈",
       "platform": "threads",
-      "views": 420000,
+      "views": 430000,
       "viewsSource": "latest",
       "engagements": null,
       "rate": null,
@@ -331,12 +331,12 @@
     {
       "week": "2026-W30",
       "published": 4,
-      "avgViews": 117098
+      "avgViews": 121317
     },
     {
       "week": "2026-W31",
       "published": 2,
-      "avgViews": 1715
+      "avgViews": 3248
     }
   ],
   "harvestStatus": [
@@ -1827,8 +1827,8 @@
       "publishDate": "2026-07-25",
       "daysSincePublish": 4,
       "withinHarvestWindow": true,
-      "harvestCount": 3,
-      "lastHarvest": "2026-07-28 06:40"
+      "harvestCount": 4,
+      "lastHarvest": "2026-07-29 06:39"
     },
     {
       "n": 160,
@@ -1837,8 +1837,8 @@
       "publishDate": "2026-07-25",
       "daysSincePublish": 4,
       "withinHarvestWindow": true,
-      "harvestCount": 3,
-      "lastHarvest": "2026-07-28 06:40"
+      "harvestCount": 4,
+      "lastHarvest": "2026-07-29 06:39"
     },
     {
       "n": 161,
@@ -1847,8 +1847,8 @@
       "publishDate": "2026-07-26",
       "daysSincePublish": 3,
       "withinHarvestWindow": true,
-      "harvestCount": 2,
-      "lastHarvest": "2026-07-28 06:40"
+      "harvestCount": 3,
+      "lastHarvest": "2026-07-29 06:39"
     },
     {
       "n": 162,
@@ -1857,8 +1857,8 @@
       "publishDate": "2026-07-26",
       "daysSincePublish": 3,
       "withinHarvestWindow": true,
-      "harvestCount": 2,
-      "lastHarvest": "2026-07-28 06:40"
+      "harvestCount": 3,
+      "lastHarvest": "2026-07-29 06:39"
     },
     {
       "n": 163,
@@ -1867,8 +1867,8 @@
       "publishDate": "2026-07-27",
       "daysSincePublish": 2,
       "withinHarvestWindow": true,
-      "harvestCount": 1,
-      "lastHarvest": "2026-07-28 06:40"
+      "harvestCount": 2,
+      "lastHarvest": "2026-07-29 06:39"
     },
     {
       "n": 164,
@@ -1877,8 +1877,8 @@
       "publishDate": "2026-07-27",
       "daysSincePublish": 2,
       "withinHarvestWindow": true,
-      "harvestCount": 1,
-      "lastHarvest": "2026-07-28 06:40"
+      "harvestCount": 2,
+      "lastHarvest": "2026-07-29 06:39"
     }
   ]
 }

@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-29
-last_session: '2026-07-29-061406-twmd-data-refresh-am（14 步全綠零 stale，接住連 3 天 live dump rider）'
+last_session: '2026-07-29-070927-twmd-feedback-triage（四天隊列靜默後首筆進單，COMPUTEX 勘誤轉 issue #1272）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -351,3 +351,5 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-29 | 053256-twmd-embeddings-nightly | bge-m3 nightly 12 語 8159 向量 0 fail；vi 343 篇仍低於 400 門檻（爬升期非故障）；輸出格式改 minified JSON 非資料損壞 | diff 行數暴增不等於內容受損，先看 key 數量／鄰居覆蓋率等語意層指標 | [→](memory/2026-07-29-053256-twmd-embeddings-nightly.md) |
 | 2026-07-29 | 053835-twmd-routine-sync | 三層對賬第四日抓到 1 項真漂移：babel-nightly 機器版落後 3 天，git 已 ship fleet 抽象層改動；`--apply` 補上，舊版存證；其餘 16 條全綠 | 前三天連續全綠不代表這條 routine 沒事做——第四天真的抓到別台機器 ship 後這台沒跟上的漂移 | [→](memory/2026-07-29-053835-twmd-routine-sync.md) |
 | 2026-07-29 | 061406-twmd-data-refresh-am | 14 步全綠零 stale；補上連 3 天被標記的 live dump rider（76.1h→0），#22 接住 | 這個 rider 的 owner 一直是自己，補檔不是假綠燈 | [→](memory/2026-07-29-061406-twmd-data-refresh-am.md) |
+| 2026-07-29 | 064113-twmd-spore-harvest-am | 6 events harvest；鎢供應鏈 D+3 續衝到 479K，讀者串轉向中性辦案討論非再升溫，維持不動；其餘 4 events 皆 Bucket F 無需修文 | 持續觀察不等於每天重寫同樣的證據——沒新升溫就只記 delta，不重貼昨天的長篇分析 | [→](memory/2026-07-29-064113-twmd-spore-harvest-am.md) |
+| 2026-07-29 | 070927-twmd-feedback-triage | 四天隊列靜默後首筆進單：COMPUTEX 全大寫勘誤轉 issue #1272（詹景勛回報），archive 落檔 | 量少不等於風險低，唯一一筆和一百筆該經過同一套核對節奏 | [→](memory/2026-07-29-070927-twmd-feedback-triage.md) |
