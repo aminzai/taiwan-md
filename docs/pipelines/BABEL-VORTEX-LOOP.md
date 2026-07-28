@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.6)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.7)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.6'
+current_version: 'v1.7'
 last_updated: 2026-07-28
-last_session: '2026-07-28-vortex-structured-no-output-fallback'
+last_session: '2026-07-28-vortex-structured-wrapper-compat'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.6
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.7
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,10 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.7（2026-07-28）：v1.6 實績至少 1 篇救回；4 篇 Phase N 因模型把正確
+  array 包成單鍵 dict 被 parser 拒收，另 2 篇是真正 body chunk 失敗。parser
+  現只解包「dict 內恰好一個 list」的高信心形狀，後續長度／ID／欄位 gate
+  不變；dispatcher 同步把 fallback、engine 與 exit code 寫進 report 供逐輪歸因。
 - v1.6（2026-07-28）：dispatcher 的第一條翻譯路徑完全沒落檔時，自動用同一
   worker/backend 改走 structured engine 一次，產物仍須通過原三重 gate。近一
   小時 40 個 fail 中 10 個是 no-output；先只救零產物，不同時擴張到已有輸出的

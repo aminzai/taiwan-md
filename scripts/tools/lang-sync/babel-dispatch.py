@@ -412,6 +412,8 @@ def try_semantic_noop_bump(zh_path: str, trans_path: str, log: Logger) -> bool:
         return False
 
     target = REPO / trans_path
+    structured_fallback = False
+    structured_fallback_exit = None
     if not target.exists():
         return False
     original_bytes = target.read_bytes()
@@ -858,6 +860,7 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
     # 只在「沒有任何產物」時啟用；已有輸出但 gate fail 的條件式 fallback
     # 留待這一小步有實績後再擴，避免一次改兩個變因。
     if not target.exists() and engine != "structured":
+        structured_fallback = True
         scmd = [
             "python3", "-u", "scripts/tools/lang-sync/structured-translate.py",
             zh_path, "--lang", lang, "--backend", _backend_spec(),
@@ -867,6 +870,7 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
         sproc = subprocess.run(
             scmd, cwd=REPO, env=worker_env(worker), capture_output=True, text=True,
         )
+        structured_fallback_exit = sproc.returncode
         elapsed = time.monotonic() - t0
         log(f"--- structured fallback worker={worker.label} lang={lang} zh={zh_path} "
             f"exit={sproc.returncode} ({elapsed:.0f}s total) ---")
@@ -958,6 +962,9 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
         "lang": lang, "zh": zh_path, "trans": trans_path,
         "worker": worker.label, "ok": ok, "seconds": round(elapsed, 1),
         "fail_reason": fail_reason, "disposition": disposition,
+        "engine": engine_label,
+        "structured_fallback": structured_fallback,
+        "structured_fallback_exit": structured_fallback_exit,
     })
 
     with state.lock:

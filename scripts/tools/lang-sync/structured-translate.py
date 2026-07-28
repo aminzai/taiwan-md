@@ -477,6 +477,14 @@ def translate_footnotes(defs: list[dict], lang: str, backend, metrics: dict) -> 
         user = json.dumps(payload, ensure_ascii=False)
         data = call_json(backend, system, user, max_tokens=8000, timeout=240,
                           max_attempts=2, metrics=metrics, label=f"phase-N-batch{bi}")
+        # 模型常把正確陣列包成 `{"footnotes": [...]}` / `{"translations": [...]}`。
+        # v1.6 fallback 實績 4 篇在這裡被判成「got dict」，但內容沒有機會進入
+        # 後面的長度與 ID 驗證。只接受「物件內恰好一個 list」這個高信心形狀；
+        # 多個 list、任意 mapping 仍拒收，避免猜錯欄位後靜默對位。
+        if isinstance(data, dict):
+            list_values = [value for value in data.values() if isinstance(value, list)]
+            if len(list_values) == 1:
+                data = list_values[0]
         if not isinstance(data, list) or len(data) != len(batch):
             raise RuntimeError(
                 f"phase-N batch {bi}: length mismatch (want {len(batch)}, "
