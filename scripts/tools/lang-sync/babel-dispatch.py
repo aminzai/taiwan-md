@@ -849,7 +849,33 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
     log(tail[-3000:])
 
     target = REPO / trans_path
-    produced_by_backend = target.exists() and target.stat().st_size > 0  # BEFORE any restore — worker-health signal
+    # 第一條路徑完全沒落檔時，改用「工具持有 Markdown 結構、模型只翻文字」
+    # 的 structured engine 救一次。2026-07-28 近一小時 40 個失敗中有 10 個
+    # 是 no-output；它們混合 patch abort、截斷、腳註流失等成因，繼續重試
+    # 同一全文路徑只會複製失敗。structured pilot 6/6 全綠，且最後仍走下方
+    # 同一組 verify trio，所以這是換路徑，不是放寬品質門檻。
+    #
+    # 只在「沒有任何產物」時啟用；已有輸出但 gate fail 的條件式 fallback
+    # 留待這一小步有實績後再擴，避免一次改兩個變因。
+    if not target.exists() and engine != "structured":
+        scmd = [
+            "python3", "-u", "scripts/tools/lang-sync/structured-translate.py",
+            zh_path, "--lang", lang, "--backend", _backend_spec(),
+            "--out", trans_path, "--skip-validators",
+        ]
+        log(f"   🔁 no-output → structured fallback ({lang}:{zh_path}, worker={worker.label})")
+        sproc = subprocess.run(
+            scmd, cwd=REPO, env=worker_env(worker), capture_output=True, text=True,
+        )
+        elapsed = time.monotonic() - t0
+        log(f"--- structured fallback worker={worker.label} lang={lang} zh={zh_path} "
+            f"exit={sproc.returncode} ({elapsed:.0f}s total) ---")
+        log((sproc.stdout + ("\n" + sproc.stderr if sproc.returncode != 0 else ""))[-3000:])
+        proc = sproc
+        engine_label = f"{engine_label}→structured"
+
+    # AFTER fallback, BEFORE any restore — worker-health signal.
+    produced_by_backend = target.exists() and target.stat().st_size > 0
 
     if not target.exists():
         disposition = restore_head_or_quarantine(trans_path, log)
