@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.7)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.9)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.7'
-last_updated: 2026-07-28
-last_session: '2026-07-28-vortex-structured-wrapper-compat'
+current_version: 'v1.9'
+last_updated: 2026-07-29
+last_session: '2026-07-29-vortex-m4-fleet-acceptance'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.8
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.9
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,12 +261,18 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.9（2026-07-29）：M4 接案權限不再寫死於 wake prompt 或腳本，由
+  `muse-bot/fleet` control plane 動態決定；同一輪指示衝突時，以觀察者最新
+  明確指示為準。首輪受管驗收三併發 7 件、0 通過，平均耗時 10–25 分鐘，
+  主因是 leak、frontmatter／腳註 gate 與 structured fallback 無輸出；沒有
+  任何產物越過 QA。為保留觀察者授權又避免單一 Ollama 實例互塞，控制面降為
+  1 worker 後重啟，後續用同一份 report.jsonl 實績決定保留或退場。
 - v1.8（2026-07-29）：修正 v1.7 report instrumentation 的致命分支缺陷：
   `structured_fallback` 初始化誤放在 semantic-noop helper，造成「已有輸出但
   QA fail」寫報表時拋 `UnboundLocalError`，連帶殺死整個 fleet/cloud
   dispatcher。欄位現於 `process_task()` 入口初始化，單篇 QA fail 只隔離單篇，
   不再讓產線退出。當輪另確認 Laguna no-output 的主因為上游 429/502 與大文
-  腳註全失，不是 M4 或 fleet 越權；M4 持續禁跑。
+  腳註全失，不是 M4 或 fleet 越權；當輪 M4 依當時控制面禁跑。
 - v1.7（2026-07-28）：v1.6 實績至少 1 篇救回；4 篇 Phase N 因模型把正確
   array 包成單鍵 dict 被 parser 拒收，另 2 篇是真正 body chunk 失敗。parser
   現只解包「dict 內恰好一個 list」的高信心形狀，後續長度／ID／欄位 gate
