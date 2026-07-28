@@ -11,7 +11,7 @@ sister_docs:
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.7
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.8
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,12 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.8（2026-07-29）：修正 v1.7 report instrumentation 的致命分支缺陷：
+  `structured_fallback` 初始化誤放在 semantic-noop helper，造成「已有輸出但
+  QA fail」寫報表時拋 `UnboundLocalError`，連帶殺死整個 fleet/cloud
+  dispatcher。欄位現於 `process_task()` 入口初始化，單篇 QA fail 只隔離單篇，
+  不再讓產線退出。當輪另確認 Laguna no-output 的主因為上游 429/502 與大文
+  腳註全失，不是 M4 或 fleet 越權；M4 持續禁跑。
 - v1.7（2026-07-28）：v1.6 實績至少 1 篇救回；4 篇 Phase N 因模型把正確
   array 包成單鍵 dict 被 parser 拒收，另 2 篇是真正 body chunk 失敗。parser
   現只解包「dict 內恰好一個 list」的高信心形狀，後續長度／ID／欄位 gate

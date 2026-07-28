@@ -412,8 +412,6 @@ def try_semantic_noop_bump(zh_path: str, trans_path: str, log: Logger) -> bool:
         return False
 
     target = REPO / trans_path
-    structured_fallback = False
-    structured_fallback_exit = None
     if not target.exists():
         return False
     original_bytes = target.read_bytes()
@@ -762,6 +760,11 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
     status = art.get("status", "missing")
 
     t0 = time.monotonic()
+    # 報表欄位必須在所有 engine / output / gate 分支都有值。v1.7 首版誤把
+    # 初始化放進 try_semantic_noop_bump()，導致「模型有落檔但 QA fail」時
+    # 寫報表觸發 UnboundLocalError，整個 dispatcher（而非單篇）被殺掉。
+    structured_fallback = False
+    structured_fallback_exit = None
 
     # 語意無關 stale 零成本 bump（2026-07-27，見上方 try_semantic_noop_bump 註解 +
     # reports/semantic-noop-stale-2026-07-27.md）：在章節級 diff-patch 之前先問一句
