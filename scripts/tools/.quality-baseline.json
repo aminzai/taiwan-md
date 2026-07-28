@@ -1,7 +1,7 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-07-27T22:13:21Z",
-  "total": 869,
+  "timestamp": "2026-07-28T22:13:12Z",
+  "total": 870,
   "flagged": 430,
   "files": [
     {
@@ -1490,11 +1490,6 @@
       "reasons": "未人工審核; 塑膠句1個; 稀薄段落×4"
     },
     {
-      "file": "people/吳明益.md",
-      "score": 8,
-      "reasons": "年份僅0個; 空洞詞10個; 塑膠句2個; 稀薄段落×5"
-    },
-    {
       "file": "people/許文龍.md",
       "score": 5,
       "reasons": "年份僅1個; 稀薄段落×4"
@@ -1718,6 +1713,11 @@
       "file": "history/綠島監獄.md",
       "score": 4,
       "reasons": "未人工審核; 塑膠句2個; 稀薄段落×3"
+    },
+    {
+      "file": "history/動保.md",
+      "score": 11,
+      "reasons": "年份2個; 空洞詞5個; 未人工審核; 塑膠句1個; 後段清單堆砌77%; 稀薄段落×1; 品質衰退前24%後2%"
     },
     {
       "file": "history/湖口營區與勝利路記憶.md",

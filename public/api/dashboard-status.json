@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-27T22:13:38.653Z",
+  "generated_at": "2026-07-28T22:15:18.749Z",
   "routines": {
-    "fetched_at": "2026-07-26T02:09:01+08:00",
-    "stale_hours": 52.1,
+    "fetched_at": "2026-07-29T06:14:52+08:00",
+    "stale_hours": 0,
     "items": [
       {
         "id": "twmd-feedback-triage",
@@ -10,12 +10,8 @@
         "cadence_human": "每天 07:00",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-07-27T07:09:22+08:00",
+        "last_fire": "2026-07-28T07:09:15+08:00",
         "grid14": [
-          {
-            "date": "2026-07-15",
-            "state": "fired"
-          },
           {
             "date": "2026-07-16",
             "state": "missed"
@@ -66,6 +62,10 @@
           },
           {
             "date": "2026-07-28",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-29",
             "state": "idle"
           }
         ]
@@ -79,10 +79,6 @@
         "last_fire": "2026-07-19T00:38:37+08:00",
         "grid14": [
           {
-            "date": "2026-07-15",
-            "state": "fired"
-          },
-          {
             "date": "2026-07-16",
             "state": "missed"
           },
@@ -132,6 +128,10 @@
           },
           {
             "date": "2026-07-28",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-29",
             "state": "missed"
           }
         ]
@@ -142,12 +142,8 @@
         "cadence_human": "每天 06:00",
         "enabled": true,
         "status": "degraded",
-        "last_fire": "2026-07-27T06:14:44+08:00",
+        "last_fire": "2026-07-28T06:14:46+08:00",
         "grid14": [
-          {
-            "date": "2026-07-15",
-            "state": "fired"
-          },
           {
             "date": "2026-07-16",
             "state": "missed"
@@ -198,6 +194,10 @@
           },
           {
             "date": "2026-07-28",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-29",
             "state": "missed"
           }
         ]
@@ -211,10 +211,6 @@
         "last_fire": "2026-07-26T03:15:27+08:00",
         "grid14": [
           {
-            "date": "2026-07-15",
-            "state": "idle"
-          },
-          {
             "date": "2026-07-16",
             "state": "idle"
           },
@@ -264,6 +260,10 @@
           },
           {
             "date": "2026-07-28",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-29",
             "state": "idle"
           }
         ]
@@ -274,12 +274,8 @@
         "cadence_human": "每天 05:00",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-07-28T05:32:08+08:00",
+        "last_fire": "2026-07-29T05:32:56+08:00",
         "grid14": [
-          {
-            "date": "2026-07-15",
-            "state": "fired"
-          },
           {
             "date": "2026-07-16",
             "state": "missed"
@@ -330,6 +326,10 @@
           },
           {
             "date": "2026-07-28",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-29",
             "state": "fired"
           }
         ]
@@ -343,10 +343,6 @@
         "last_fire": null,
         "grid14": [
           {
-            "date": "2026-07-15",
-            "state": "idle"
-          },
-          {
             "date": "2026-07-16",
             "state": "idle"
           },
@@ -396,6 +392,10 @@
           },
           {
             "date": "2026-07-28",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-29",
             "state": "idle"
           }
         ]
@@ -406,12 +406,8 @@
         "cadence_human": "每天 08:30",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-07-27T08:46:04+08:00",
+        "last_fire": "2026-07-28T08:54:36+08:00",
         "grid14": [
-          {
-            "date": "2026-07-15",
-            "state": "fired"
-          },
           {
             "date": "2026-07-16",
             "state": "missed"
@@ -462,6 +458,10 @@
           },
           {
             "date": "2026-07-28",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-29",
             "state": "idle"
           }
         ]
@@ -475,10 +475,6 @@
         "last_fire": "2026-07-26T01:12:31+08:00",
         "grid14": [
           {
-            "date": "2026-07-15",
-            "state": "idle"
-          },
-          {
             "date": "2026-07-16",
             "state": "idle"
           },
@@ -528,6 +524,10 @@
           },
           {
             "date": "2026-07-28",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-29",
             "state": "idle"
           }
         ]
@@ -541,10 +541,6 @@
         "last_fire": "2026-07-18T19:09:26+08:00",
         "grid14": [
           {
-            "date": "2026-07-15",
-            "state": "missed"
-          },
-          {
             "date": "2026-07-16",
             "state": "missed"
           },
@@ -594,6 +590,10 @@
           },
           {
             "date": "2026-07-28",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-29",
             "state": "idle"
           }
         ]
@@ -607,10 +607,6 @@
         "last_fire": "2026-07-26T21:25:11+08:00",
         "grid14": [
           {
-            "date": "2026-07-15",
-            "state": "idle"
-          },
-          {
             "date": "2026-07-16",
             "state": "idle"
           },
@@ -660,6 +656,10 @@
           },
           {
             "date": "2026-07-28",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-29",
             "state": "idle"
           }
         ]
@@ -670,12 +670,8 @@
         "cadence_human": "每天 05:30",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-07-28T05:37:59+08:00",
+        "last_fire": "2026-07-29T05:38:35+08:00",
         "grid14": [
-          {
-            "date": "2026-07-15",
-            "state": "missed"
-          },
           {
             "date": "2026-07-16",
             "state": "missed"
@@ -726,6 +722,10 @@
           },
           {
             "date": "2026-07-28",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-29",
             "state": "fired"
           }
         ]
@@ -739,10 +739,6 @@
         "last_fire": "2026-07-26T04:18:52+08:00",
         "grid14": [
           {
-            "date": "2026-07-15",
-            "state": "idle"
-          },
-          {
             "date": "2026-07-16",
             "state": "idle"
           },
@@ -792,6 +788,10 @@
           },
           {
             "date": "2026-07-28",
+            "state": "idle"
+          },
+          {
+            "date": "2026-07-29",
             "state": "idle"
           }
         ]
@@ -801,13 +801,9 @@
         "cron": "30 6 * * *",
         "cadence_human": "每天 06:30",
         "enabled": true,
-        "status": "degraded",
-        "last_fire": "2026-07-26T10:52:25+08:00",
+        "status": "operational",
+        "last_fire": "2026-07-28T06:42:54+08:00",
         "grid14": [
-          {
-            "date": "2026-07-15",
-            "state": "fired"
-          },
           {
             "date": "2026-07-16",
             "state": "missed"
@@ -858,6 +854,10 @@
           },
           {
             "date": "2026-07-28",
+            "state": "fired"
+          },
+          {
+            "date": "2026-07-29",
             "state": "idle"
           }
         ]
@@ -871,10 +871,6 @@
         "last_fire": "2026-06-14T08:03:52+08:00",
         "grid14": [
           {
-            "date": "2026-07-15",
-            "state": "missed"
-          },
-          {
             "date": "2026-07-16",
             "state": "missed"
           },
@@ -924,6 +920,10 @@
           },
           {
             "date": "2026-07-28",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-29",
             "state": "idle"
           }
         ]
@@ -937,10 +937,6 @@
         "last_fire": "2026-06-14T17:40:39+08:00",
         "grid14": [
           {
-            "date": "2026-07-15",
-            "state": "missed"
-          },
-          {
             "date": "2026-07-16",
             "state": "missed"
           },
@@ -990,6 +986,10 @@
           },
           {
             "date": "2026-07-28",
+            "state": "missed"
+          },
+          {
+            "date": "2026-07-29",
             "state": "idle"
           }
         ]
@@ -1003,10 +1003,6 @@
         "last_fire": "2026-07-27T01:12:14+08:00",
         "grid14": [
           {
-            "date": "2026-07-15",
-            "state": "idle"
-          },
-          {
             "date": "2026-07-16",
             "state": "idle"
           },
@@ -1057,6 +1053,10 @@
           {
             "date": "2026-07-28",
             "state": "idle"
+          },
+          {
+            "date": "2026-07-29",
+            "state": "idle"
           }
         ]
       },
@@ -1068,10 +1068,6 @@
         "status": "operational",
         "last_fire": "2026-07-26T02:18:37+08:00",
         "grid14": [
-          {
-            "date": "2026-07-15",
-            "state": "idle"
-          },
           {
             "date": "2026-07-16",
             "state": "idle"
@@ -1123,156 +1119,220 @@
           {
             "date": "2026-07-28",
             "state": "idle"
+          },
+          {
+            "date": "2026-07-29",
+            "state": "idle"
           }
         ]
       }
     ]
   },
   "babel": {
-    "snapshot_ts": "2026-07-27T22:11:58+08:00",
-    "total_zh": 869,
+    "snapshot_ts": "2026-07-29T05:33:26+08:00",
+    "total_zh": 870,
     "langs": [
       {
         "lang": "en",
-        "fresh": 793,
-        "stale": 48,
-        "missing": 28,
-        "coverage_pct": 96.8
+        "fresh": 817,
+        "stale": 35,
+        "missing": 18,
+        "coverage_pct": 97.9
       },
       {
         "lang": "ja",
-        "fresh": 800,
-        "stale": 59,
-        "missing": 10,
-        "coverage_pct": 98.8
+        "fresh": 809,
+        "stale": 56,
+        "missing": 5,
+        "coverage_pct": 99.4
       },
       {
         "lang": "ko",
-        "fresh": 820,
-        "stale": 43,
-        "missing": 6,
-        "coverage_pct": 99.3
+        "fresh": 840,
+        "stale": 25,
+        "missing": 5,
+        "coverage_pct": 99.4
       },
       {
         "lang": "es",
-        "fresh": 822,
-        "stale": 41,
-        "missing": 6,
-        "coverage_pct": 99.3
-      },
-      {
-        "lang": "fr",
-        "fresh": 818,
-        "stale": 47,
+        "fresh": 839,
+        "stale": 27,
         "missing": 4,
         "coverage_pct": 99.5
       },
       {
+        "lang": "fr",
+        "fresh": 835,
+        "stale": 33,
+        "missing": 2,
+        "coverage_pct": 99.8
+      },
+      {
         "lang": "vi",
-        "fresh": 265,
-        "stale": 6,
-        "missing": 598,
-        "coverage_pct": 31.2
+        "fresh": 341,
+        "stale": 7,
+        "missing": 522,
+        "coverage_pct": 40
       },
       {
         "lang": "id",
-        "fresh": 378,
-        "stale": 1,
-        "missing": 490,
-        "coverage_pct": 43.6
+        "fresh": 419,
+        "stale": 2,
+        "missing": 449,
+        "coverage_pct": 48.4
       },
       {
         "lang": "pt",
-        "fresh": 578,
-        "stale": 6,
-        "missing": 285,
-        "coverage_pct": 67.2
+        "fresh": 685,
+        "stale": 7,
+        "missing": 178,
+        "coverage_pct": 79.5
       },
       {
         "lang": "hi",
-        "fresh": 440,
-        "stale": 0,
-        "missing": 429,
-        "coverage_pct": 50.6
+        "fresh": 506,
+        "stale": 1,
+        "missing": 363,
+        "coverage_pct": 58.3
       },
       {
         "lang": "ar",
-        "fresh": 454,
-        "stale": 0,
-        "missing": 415,
-        "coverage_pct": 52.2
+        "fresh": 544,
+        "stale": 1,
+        "missing": 325,
+        "coverage_pct": 62.6
       },
       {
         "lang": "ru",
-        "fresh": 482,
-        "stale": 0,
-        "missing": 387,
-        "coverage_pct": 55.5
+        "fresh": 576,
+        "stale": 1,
+        "missing": 293,
+        "coverage_pct": 66.3
       }
     ],
-    "gap_total": 2909,
-    "gap_delta_vs_prev": -2,
-    "fresh_delta_24h": 856,
+    "gap_total": 2359,
+    "gap_delta_vs_prev": 0,
+    "fresh_delta_24h": 457,
     "nodes": [
       {
+        "name": "worker:laptop40902",
+        "ok": 12,
+        "fail": 74,
+        "avg_s": 388.3
+      },
+      {
+        "name": "worker:laptop40901",
+        "ok": 13,
+        "fail": 104,
+        "avg_s": 282.7
+      },
+      {
         "name": "worker:nemo4",
-        "ok": 7,
-        "fail": 28,
-        "avg_s": 181.2
+        "ok": 112,
+        "fail": 194,
+        "avg_s": 199.8
       },
       {
         "name": "worker:l4090",
-        "ok": 2,
-        "fail": 41,
-        "avg_s": 58.6
+        "ok": 47,
+        "fail": 148,
+        "avg_s": 106.1
       },
       {
         "name": "worker:nemo3",
-        "ok": 4,
-        "fail": 17,
-        "avg_s": 341.8
+        "ok": 126,
+        "fail": 173,
+        "avg_s": 230.5
       },
       {
         "name": "worker:nemo2",
-        "ok": 9,
-        "fail": 24,
-        "avg_s": 235.7
+        "ok": 110,
+        "fail": 184,
+        "avg_s": 193.3
       },
       {
         "name": "worker:mac",
-        "ok": 5,
-        "fail": 44,
-        "avg_s": 179.7
-      },
-      {
-        "name": "worker:nemo",
-        "ok": 5,
-        "fail": 16,
-        "avg_s": 229.2
+        "ok": 43,
+        "fail": 186,
+        "avg_s": 225.7
       },
       {
         "name": "worker:d3090",
-        "ok": 4,
-        "fail": 11,
-        "avg_s": 455.2
+        "ok": 9,
+        "fail": 56,
+        "avg_s": 737.5
+      },
+      {
+        "name": "worker:nemo",
+        "ok": 130,
+        "fail": 184,
+        "avg_s": 228.9
       },
       {
         "name": "worker:laguna",
-        "ok": 0,
-        "fail": 5,
-        "avg_s": null
+        "ok": 23,
+        "fail": 52,
+        "avg_s": 337.1
       },
       {
         "name": "worker:laguna3",
-        "ok": 0,
-        "fail": 7,
-        "avg_s": null
+        "ok": 26,
+        "fail": 52,
+        "avg_s": 326.4
       },
       {
         "name": "worker:laguna2",
+        "ok": 31,
+        "fail": 65,
+        "avg_s": 341.8
+      },
+      {
+        "name": "worker:macm4max1",
         "ok": 0,
-        "fail": 7,
+        "fail": 3,
         "avg_s": null
+      },
+      {
+        "name": "worker:desktop30903",
+        "ok": 7,
+        "fail": 21,
+        "avg_s": 859.2
+      },
+      {
+        "name": "worker:macm4max3",
+        "ok": 0,
+        "fail": 2,
+        "avg_s": null
+      },
+      {
+        "name": "worker:desktop30902",
+        "ok": 5,
+        "fail": 33,
+        "avg_s": 378.2
+      },
+      {
+        "name": "worker:macm4max2",
+        "ok": 0,
+        "fail": 2,
+        "avg_s": null
+      },
+      {
+        "name": "worker:desktop30901",
+        "ok": 9,
+        "fail": 18,
+        "avg_s": 573.1
+      },
+      {
+        "name": "worker:laptop40903",
+        "ok": 9,
+        "fail": 60,
+        "avg_s": 250.2
+      },
+      {
+        "name": "worker:macm4max",
+        "ok": 3,
+        "fail": 10,
+        "avg_s": 639.8
       },
       {
         "name": "worker:mac2",
@@ -1298,7 +1358,7 @@
       },
       {
         "name": "laptop-4090",
-        "alive": true
+        "alive": false
       },
       {
         "name": "laptop-5090",
@@ -1316,9 +1376,21 @@
   },
   "incidents": [
     {
+      "ts": "2026-07-28",
+      "level": "yellow",
+      "text": "2026-07-27 unknown family 單一路徑 '/terminology/%3Cstrange-chars%3E' 命中 132 > 100/day",
+      "source": "reports/404-monitor/latest.json"
+    },
+    {
+      "ts": "2026-07-28",
+      "level": "yellow",
+      "text": "MEMORY.md 索引 inline 82 rows > 80 — 跑 memory-index-rollup.py --apply（2026-07-05 起已實作，owner=distill-weekly）",
+      "source": "MEMORY.md"
+    },
+    {
       "ts": "2026-07-27",
       "level": "yellow",
-      "text": "routine-live-state.json dump 齡 52.1h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）",
+      "text": "routine-live-state.json dump 齡 76.1h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）",
       "source": "routine-live-state.json"
     },
     {
@@ -1330,29 +1402,29 @@
   ],
   "deploys": [
     {
-      "ts": "2026-07-27T21:39:37Z",
+      "ts": "2026-07-28T21:39:30Z",
       "conclusion": "success",
-      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-routine-sync @ 2026-07-28 05:37 — 17 條全 in-s…"
+      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-routine-sync @ 2026-07-29 05:38 — 抓到 babel-n…"
     },
     {
-      "ts": "2026-07-27T21:34:19Z",
+      "ts": "2026-07-28T21:38:34Z",
       "conclusion": "failure",
-      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-embeddings-nightly @ 2026-07-28 05:32 finale"
+      "title": "Deploy to GitHub Pages: 🧬 [routine] twmd-routine-sync: babel-nightly prompt drift — machine 落…"
     },
     {
-      "ts": "2026-07-27T21:32:03Z",
+      "ts": "2026-07-28T21:34:54Z",
       "conclusion": "failure",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] fix: EMBEDDING-PIPELINE Stage 2 verify 補六語過期債"
+      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-embeddings-nightly @ 2026-07-29 05:33 — 12 語…"
     },
     {
-      "ts": "2026-07-27T15:01:44Z",
-      "conclusion": "success",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] heal: 苯駢芘食安事件補三張 CC 圖 — 能放的只有機關本身跟那個分子"
+      "ts": "2026-07-28T21:34:23Z",
+      "conclusion": "failure",
+      "title": "Deploy to GitHub Pages: Merge remote-tracking branch 'origin/main'"
     },
     {
-      "ts": "2026-07-27T14:34:20Z",
-      "conclusion": "success",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] heal: 苯駢芘食安事件順稿 — 拆掉五面牆，事實一個字沒動"
+      "ts": "2026-07-28T21:32:39Z",
+      "conclusion": "failure",
+      "title": "Deploy to GitHub Pages: 🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-07-29 (12 langs…"
     }
   ]
 }

@@ -1,52 +1,52 @@
 {
-  "totalArticles": 7743,
+  "totalArticles": 8279,
   "totalCategories": 26,
   "estimatedContributors": 67,
-  "totalTags": 5694,
+  "totalTags": 5825,
   "categories": [
     {
       "name": "es",
-      "count": 863
+      "count": 866
     },
     {
       "name": "ko",
-      "count": 862
-    },
-    {
-      "name": "fr",
       "count": 865
     },
     {
+      "name": "fr",
+      "count": 868
+    },
+    {
       "name": "en",
-      "count": 846
+      "count": 857
     },
     {
       "name": "ja",
-      "count": 859
+      "count": 865
     },
     {
       "name": "vi",
-      "count": 268
+      "count": 348
     },
     {
       "name": "hi",
-      "count": 432
+      "count": 507
     },
     {
       "name": "ru",
-      "count": 477
+      "count": 576
     },
     {
       "name": "History",
-      "count": 49
+      "count": 50
     },
     {
       "name": "id",
-      "count": 373
+      "count": 421
     },
     {
       "name": "ar",
-      "count": 450
+      "count": 544
     },
     {
       "name": "Politics",
@@ -58,7 +58,7 @@
     },
     {
       "name": "pt",
-      "count": 579
+      "count": 692
     },
     {
       "name": "Food",
@@ -112,11 +112,11 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 70
+      "count": 69
     },
     {
       "name": "人物",
-      "count": 61
+      "count": 59
     },
     {
       "name": "企業",
@@ -124,11 +124,11 @@
     },
     {
       "name": "科技與企業",
-      "count": 40
+      "count": 39
     },
     {
       "name": "文學",
-      "count": 32
+      "count": 31
     },
     {
       "name": "ODM",
@@ -159,10 +159,6 @@
       "count": 24
     },
     {
-      "name": "政治",
-      "count": 23
-    },
-    {
       "name": "音樂",
       "count": 23
     },
@@ -187,18 +183,22 @@
       "count": 22
     },
     {
+      "name": "政治",
+      "count": 22
+    },
+    {
       "name": "金曲獎",
       "count": 21
     }
   ],
   "languageDistribution": {
-    "zh-TW": 7743,
+    "zh-TW": 8279,
     "en": 0
   },
-  "lastUpdated": "2026-07-27T22:13:18.453Z",
-  "stars": 1120,
+  "lastUpdated": "2026-07-28T22:13:09.567Z",
+  "stars": 1121,
   "forks": 167,
-  "zhPages": 867,
-  "enPages": 846,
-  "totalPages": 867
+  "zhPages": 868,
+  "enPages": 857,
+  "totalPages": 868
 }
