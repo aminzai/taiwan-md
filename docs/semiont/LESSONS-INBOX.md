@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.3'
-last_updated: 2026-07-26
-last_session: '2026-07-26-031527-twmd-distill-weekly（W30 完整 distill：§未消化 27→2；2 新 REFLEXES #83/#84 + 6 fold 既有反射 + 5 MEMORY §神經迴路 + 4 housekeeping + 4 defer 給觀察者）'
+last_updated: 2026-07-27
+last_session: '2026-07-27-214500-苯駢芘孢子（+1 未消化 derived-artifact-inherits-verification-illusion；另 2 條走 DNA-first (a) 直接補進 REFLEXES #56/#24 未入庫）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -331,6 +331,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ---
 
 ## 未消化清單（📥 待 distill）
+
+### 2026-07-27 苯駢芘孢子 — derived-artifact-inherits-verification-illusion：上游驗證過，衍生物的新句子卻是未驗證的新 claim
+
+- **pattern**: `derived-artifact-inherits-verification-illusion`
+- **原則**：從一篇已通過完整查證的文章壓製衍生物（孢子／摘要／社群文案／翻譯導言／dashboard 文字）時，**繼承的是素材不是驗證**。壓縮不是節選，是改寫；每個為了縮短而新造的句子都是一個新 claim，需要重新對源。上游越紮實，這個錯覺越強——因為「這篇查證過了」是真的，於是「所以我從它抽出來的句子也查證過了」聽起來也像真的。
+- **觸發**：2026-07-27 22:0x 苯駢芘食安事件孢子 #163/#164。文章本身跑過三路 falsification、逐條 footnote 可溯源；孢子 blueprint 的事實表 11 條全部標「需跨源驗證？ No」，理由寫「直接繼承自已通過三路 falsification 查證的正式發布文章」。同一份 blueprint 內三處違反自己這句話：(1) 引號內寫「立即」通報，法條原字是「應即」——引號承諾逐字卻換字 (2)「從早餐店到學校午餐廚房」把 1,322 家下游名單與各縣市學校名單兩張表併成一張 (3)「修法防的是老闆報復員工」把國民黨團提案說成行政院版草案內容。三處原文全都寫對，錯的全是壓縮時新造的句子。證據：[memory](memory/2026-07-27-214500-苯駢芘孢子.md) / [blueprint 事實查核表第 1、11、14 列](../factory/SPORE-BLUEPRINTS/163-苯駢芘食安事件.md)
+- **可能層級**：通用反射候選（不限孢子——翻譯、摘要、dashboard 文案、release notes 都是衍生層），但目前僅 1 instance，先觀察是否在其他衍生層復發
+- **相關**：REFLEXES #75「Read ≠ verify」最接近但不涵蓋——#75 講的是 citation↔claim 的綁定漂移（腳註接到撐不住的那句），本條講的是**衍生物繼承上游驗證狀態這個推論本身出錯**，源頭綁定完全正確、錯在為了縮短而新造的句子沒回頭對源。另與 #23「毒樹果實鏈」同族但不同源語言前提（#23 是英文 summary → 中文腦補，本條發生在同語言壓縮）。若 distill 判定可 fold，最可能的落點是 #75 新增子規則 (f)
+- **可能的操作修補**：SPORE-VERIFY §事實藍圖的「需跨源驗證？」欄，對「文章已驗證」來源不得整欄填 No——改判準為「這句話在原文是否逐字存在」：逐字存在 → No；為壓縮而改寫 → Yes（對原文那一段重讀，不必重跑 WebSearch）
+- **verification_count**: 1
 
 ### 2026-07-27 twmd-spore-harvest-am — sensitive-event-reply-inherits-article-boundary：留言區討論文章已處理過的真實敏感事件時，5-bucket 分類沒有對應格子
 
