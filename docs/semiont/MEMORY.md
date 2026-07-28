@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-07-27
-last_session: '2026-07-27-070922-twmd-feedback-triage（隊列連續第二天空，Supabase REST 對賬確認非斷線）'
+last_updated: 2026-07-28
+last_session: '2026-07-28-070915-twmd-feedback-triage（隊列連續第三天空，Supabase REST 對賬確認非斷線）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -339,3 +339,11 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-27 | 200434-vortex-babel-6 | 站內連結 13,155→2,819（79% 純機械修＋三引擎防新增）、431 篇懸空譯文重驗搶救、verify-batch 判準盲區修復 | 工具存在不等於問題被檢查——名稱涵蓋而判準不涵蓋是最難察覺的假安全 | [→](memory/2026-07-27-200434-vortex-babel-6.md) |
 | 2026-07-27 | 211700-vortex-babel-7 | 通過率崩到 16% 的追查收斂成一個結構病（armor／patch 章節／腳註耦合／YAML 轉義／失敗記錄五修）、37 篇孤兒搶救＋rescue-orphans 儀器化 | 判準嚴格是對的但終局處置不該一律最重；修完要複驗歸因——數字會同意任何故事，機制不會 | [→](memory/2026-07-27-211700-vortex-babel-7.md) |
 | 2026-07-27 | 214500-苯駢芘孢子 | 苯駢芘食安事件孢子 #163/#164 雙平台 ship；結尾依 directive 改成攤開大眾／政府／企業三方難處、把選擇交還讀者 | 壓縮不是節選是改寫，繼承的是素材不是驗證——三個事實偏差全是壓縮時新造的句子帶進來的 | [→](memory/2026-07-27-214500-苯駢芘孢子.md) |
+| 2026-07-28 | 053208-twmd-embeddings-nightly | bge-m3 nightly 12 語 7642 向量 0 fail；接住昨夜 vc=2 債，verify script 六語過期改動態讀 config；vi/id 未滿 400 篇判為爬升期非故障 | 混維度：文章數不足跟資料品質壞是兩種 verify FAIL 成因，不該共用同個 exit code | [→](memory/2026-07-28-053208-twmd-embeddings-nightly.md) |
+| 2026-07-28 | 053759-twmd-routine-sync | 三層對賬第三日全綠：17 條 routine 全 in-sync，零漂移；不受同時段 babel fleet 渦流影響 | 連續全綠也要記一行，否則「這條 routine 有沒有在跑」下次沒基線可比 | [→](memory/2026-07-28-053759-twmd-routine-sync.md) |
+| 2026-07-28 | 061446-twmd-data-refresh-am | 晨間 14 步刷新全綠：三源感知（CF 1.02M req／GA／SC）＋dashboard 全套重生＋GitHub stats；Step 11 freshness gate 零 stale | 免疫黃燈 60 持平非新退化；連續全綠仍要記一行留基線 | [→](memory/2026-07-28-061446-twmd-data-refresh-am.md) |
+| 2026-07-28 | 064254-twmd-spore-harvest-am | 6 events harvest；鎢供應鏈 D+2 衝到 465K，讀者留言把文章主角連到真實命案＋兩岸政治暴力揣測，未修文未回覆，寫進 HARVEST-FRAMING-PENDING 等哲宇拍板 | §自主權邊界不只防我寫過火，也要防讀者滑到我不該追認的地方時選擇不表態 | [→](memory/2026-07-28-064254-twmd-spore-harvest-am.md) |
+| 2026-07-28 | 070915-twmd-feedback-triage | 隊列連續第三天空（file=0），Supabase REST 對賬確認最新紀錄仍是 07-24 同一筆；archive-scanned=38 synced=0，working tree 全程乾淨 | 四天完整靜默窗屬讀者回報入口本身樣本稀薄，非系統故障 | [→](memory/2026-07-28-070915-twmd-feedback-triage.md) |
+| 2026-07-28 | 085436-twmd-maintainer-daily | PR #1270 動保.md merge-first + heal（frontmatter + 壞掉的維基連結修復）；#1268 續 blocked；4 issue SKIP | 同一貢獻者不同篇腳註品質可以天差地遠，判斷要逐篇看證據不能套人；merge-first+heal 模式連兩天驗證，非巧合 | [→](memory/2026-07-28-085436-twmd-maintainer-daily.md) |
+| 2026-07-28 | 093712-twmd-flywheel-watch | 飛輪在轉（24hr 110 commit／11 筆 routine，六條日更全部留痕，零靜默）；唯一黃燈是 live dump 齡 55.4hr 過門檻，且是同一發現的第三天 → 升 OBSERVER-QUEUE #22 | 這台補得了那個檔卻不該補——指揮部 dump 的是自己的排程，補完是假綠燈，比停在 55 小時的黃燈更糟 | [→](memory/2026-07-28-093712-twmd-flywheel-watch.md) |
+| 2026-07-28 | 103245-vortex-babel-8 | 診斷取代重啟：slug 只認英文版讓 27 篇純中文檔名文章排不進佇列，改讀全語言＋人工 map 解套；五修驗收 exit=1 歸零；渦流 12h 後暫停 | 吞掉 stderr 的存活探針，把權限錯誤讀成了行程死亡 | [→](memory/2026-07-28-103245-vortex-babel-8.md) |

@@ -84,22 +84,29 @@ EMBED_HOST="$EMBED_HOST" node scripts/core/build-embeddings.mjs --langs all
 
 ### Stage 2 — Verify（儀器化，不靠肉眼）
 
+語言清單從 canonical config 讀，不手寫（2026-07-28 修：原本寫死 6 語 zh-TW/en/ja/ko/es/fr，站上已擴至 12 語 ar/ru/vi/id/hi/pt 上線後這裡沒跟上，連 2 夜 verify 漏測 6 個新語言——REFLEXES #15 vc=2 觸發修）：
+
 ```bash
 node -e '
-const langs=["zh-TW","en","ja","ko","es","fr"]; let bad=0;
-for (const l of langs) {
-  const d=require(`./src/data/related/${l}.json`);
-  const ks=Object.keys(d); const n=ks.length;
-  const k8=ks.filter(k=>d[k].length===8).length;
-  console.log(l, n, "articles,", k8, "with 8 neighbours");
-  if (n<400 || k8/n < 0.9) { bad++; console.log("  ⚠️", l, "below threshold"); }
-}
-const man=require("./public/api/rag/manifest.json");
-console.log("manifest model:", man.model, "| schema:", man.schema);
-if (man.model.indexOf("bge-m3")<0) { bad++; console.log("  ⚠️ model drift"); }
-process.exit(bad?1:0);
+(async () => {
+  const { ENABLED_LANGUAGE_CODES } = await import("./src/config/languages.mjs");
+  const langs=ENABLED_LANGUAGE_CODES; let bad=0;
+  for (const l of langs) {
+    const d=require(`./src/data/related/${l}.json`);
+    const ks=Object.keys(d); const n=ks.length;
+    const k8=ks.filter(k=>d[k].length===8).length;
+    console.log(l, n, "articles,", k8, "with 8 neighbours");
+    if (n<400 || k8/n < 0.9) { bad++; console.log("  ⚠️", l, "below threshold"); }
+  }
+  const man=require("./public/api/rag/manifest.json");
+  console.log("manifest model:", man.model, "| schema:", man.schema);
+  if (man.model.indexOf("bge-m3")<0) { bad++; console.log("  ⚠️ model drift"); }
+  process.exit(bad?1:0);
+})();
 '
 ```
+
+> **n<400 門檻是 6 語成熟期校準值**：ar/ru/vi/id/hi/pt 2026-07 中才開站翻譯，尚在批次追趕（見 groundtruth i18n 覆蓋率），未滿 400 篇是正常爬升期不是故障。verify 對新語言的「below threshold」warning 判讀時交叉 dashboard i18n 覆蓋率，不要當 fail 處理——這是判讀規則不是門檻數值，門檻本身不動（數值調整需哲宇拍板，per BECOME §High-stake）。
 
 - 每語 ≥400 篇且 ≥90% 有 8 鄰居 + manifest.model 含 `bge-m3` → PASS。
 - embed fail rate >5%（看 Stage 1 log 的 `N fail`）或 verify FAIL → 不 commit，escalate LESSONS-INBOX 帶證據。

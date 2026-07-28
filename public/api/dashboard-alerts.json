@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-26T22:13:28.983Z",
+  "lastUpdated": "2026-07-27T22:13:37.099Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
-  "count": 1,
+  "count": 2,
   "alerts": [
     {
       "id": "immune-status",
@@ -11,6 +11,14 @@
       "source": "dashboard-immune.json",
       "owner": "twmd-self-evolve-weekly",
       "firstSeen": "2026-07-05"
+    },
+    {
+      "id": "routine-livestate-stale",
+      "severity": "yellow",
+      "message": "routine-live-state.json dump 齡 52.1h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）",
+      "source": "routine-live-state.json",
+      "owner": "twmd-data-refresh",
+      "firstSeen": "2026-07-27"
     }
   ]
 }

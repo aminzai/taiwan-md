@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T08:17:18.248468",
+  "lastUpdated": "2026-07-28T06:12:14.155519",
   "sourcesUsed": ["ga", "searchConsole24h", "cloudflare24h", "sense-cache"],
   "ga": {
     "label": "2026-06-30 to 2026-07-28",
@@ -7,35 +7,35 @@
     "endDate": "2026-07-28",
     "days": 28,
     "totals": {
-      "activeUsers": 43175,
-      "newUsers": 42382,
-      "avgEngagementSeconds": 256.0,
-      "events": 405795,
-      "screenPageViews": 65608,
-      "engagementRate": 0.4678,
-      "bounceRate": 0.5322
+      "activeUsers": 43062,
+      "newUsers": 42280,
+      "avgEngagementSeconds": 256.1,
+      "events": 404875,
+      "screenPageViews": 65464,
+      "engagementRate": 0.4692,
+      "bounceRate": 0.5308
     },
     "topPages": [
       {
         "path": "/",
         "title": "開源台灣知識庫",
-        "views": 6670,
-        "users": 4292,
-        "events": 50970
+        "views": 6650,
+        "users": 4275,
+        "events": 50842
       },
       {
         "path": "/technology/台灣鎢供應鏈/",
         "title": "鎢：台灣沒有鎢礦，卻煉出全世界都要的粉末，位置比想像中脆弱",
-        "views": 3105,
-        "users": 2805,
-        "events": 18777
+        "views": 3087,
+        "users": 2790,
+        "events": 18677
       },
       {
         "path": "/terminology/converter/",
         "title": "台灣用語轉換器：中國用語一鍵轉台灣說法",
-        "views": 1815,
+        "views": 1814,
         "users": 698,
-        "events": 18223
+        "events": 18221
       },
       {
         "path": "/people/黃山料/",
@@ -48,8 +48,8 @@
         "path": "/taiwan-shape/",
         "title": "台灣的形狀 — 開源地圖資料集：SVG、GeoJSON、TopoJSON",
         "views": 809,
-        "users": 641,
-        "events": 5867
+        "users": 640,
+        "events": 5865
       },
       {
         "path": "/companies/",
@@ -82,9 +82,9 @@
       {
         "path": "/latest/",
         "title": "最新文章",
-        "views": 581,
+        "views": 578,
         "users": 374,
-        "events": 2286
+        "events": 2270
       },
       {
         "path": "/semiont/",
@@ -126,7 +126,7 @@
         "title": "📊 數據台灣 — Taiwan.md",
         "views": 380,
         "users": 279,
-        "events": 1865
+        "events": 1863
       },
       {
         "path": "/history/",
@@ -161,9 +161,9 @@
       {
         "path": "/technology/台灣鎢供應鏈/",
         "title": "鎢：台灣沒有鎢礦，卻煉出全世界都要的粉末，位置比想像中脆弱",
-        "views": 3105,
-        "users": 2805,
-        "events": 18777
+        "views": 3087,
+        "users": 2790,
+        "events": 18677
       },
       {
         "path": "/art/數位荒原/",
@@ -224,44 +224,37 @@
       {
         "path": "/society/台灣的道德課去哪了/",
         "title": "台灣的道德課去哪了：一堂被取消的課，和二十年沒人接手的責任",
-        "views": 49,
+        "views": 48,
         "users": 38,
-        "events": 313
+        "events": 310
       },
       {
         "path": "/en/lifestyle/taiwan-education-system/",
         "title": "Taiwan's Education System: From Exam Hell to the Maze of Diversity",
-        "views": 47,
-        "users": 34,
-        "events": 182
+        "views": 46,
+        "users": 33,
+        "events": 177
       },
       {
         "path": "/people/吳百福/",
         "title": "吳百福（安藤百福）：從嘉義朴子到全球餐桌，台灣基因與日本包裝的全球傳奇",
-        "views": 47,
-        "users": 43,
-        "events": 354
+        "views": 46,
+        "users": 42,
+        "events": 345
       },
       {
         "path": "/technology/雪山隧道/",
         "title": "雪山隧道：從「不可能的任務」到台灣工程血淚奇蹟",
-        "views": 46,
+        "views": 45,
         "users": 41,
-        "events": 277
+        "events": 276
       },
       {
         "path": "/people/尊/",
         "title": "尊：從國二房間到雙頻道百萬，一位 YouTuber 的成年紀錄",
-        "views": 44,
-        "users": 37,
-        "events": 289
-      },
-      {
-        "path": "/en/people/ke-zhi-tang-musician/",
-        "title": "Ke Zhi-Tang (Kowen Ko): The Taiwanese Indie Folk Singer Who Traded Seven Years of Silence for an Album",
-        "views": 41,
-        "users": 41,
-        "events": 129
+        "views": 43,
+        "users": 36,
+        "events": 279
       },
       {
         "path": "/food/鱔魚意麵/",
@@ -276,6 +269,13 @@
         "views": 41,
         "users": 35,
         "events": 341
+      },
+      {
+        "path": "/en/people/ke-zhi-tang-musician/",
+        "title": "Ke Zhi-Tang (Kowen Ko): The Taiwanese Indie Folk Singer Who Traded Seven Years of Silence for an Album",
+        "views": 40,
+        "users": 40,
+        "events": 126
       },
       {
         "path": "/people/黃山料/",
@@ -301,17 +301,17 @@
     ],
     "byLang": {
       "zh-TW": {
-        "views": 40601,
-        "users": 31165,
-        "sessions": 37433,
-        "avgEngagementSeconds": 282.6,
+        "views": 40519,
+        "users": 31094,
+        "sessions": 37367,
+        "avgEngagementSeconds": 282.4,
         "pageCount": 405
       },
       "en": {
-        "views": 3354,
-        "users": 2845,
-        "sessions": 3101,
-        "avgEngagementSeconds": 166.2,
+        "views": 3348,
+        "users": 2840,
+        "sessions": 3096,
+        "avgEngagementSeconds": 166.4,
         "pageCount": 68
       },
       "ja": {
@@ -1583,374 +1583,492 @@
     ]
   },
   "cloudflare7d": {
-    "label": "2026-07-27 to 2026-07-28 (1d)",
-    "startDate": "2026-07-27",
-    "endDate": "2026-07-28",
-    "days": 1,
+    "label": "2026-07-20 to 2026-07-27 (7d)",
+    "startDate": "2026-07-20",
+    "endDate": "2026-07-27",
+    "days": 7,
     "summary": {
-      "requests": 175971,
-      "pageViews": 56063,
-      "uniques": 25052,
-      "cachedRequests": 39953,
-      "threats": 5,
-      "bytes": 14576649576
+      "requests": 1017433,
+      "pageViews": 339811,
+      "uniques": 167270,
+      "cachedRequests": 149660,
+      "threats": 99,
+      "bytes": 74214822806
     },
     "statusBreakdown": [
       {
         "status": 200,
-        "count": 132095
+        "count": 686046
       },
       {
         "status": 301,
-        "count": 26897
-      },
-      {
-        "status": 204,
-        "count": 9189
+        "count": 200966
       },
       {
         "status": 404,
-        "count": 4348
+        "count": 62329
+      },
+      {
+        "status": 204,
+        "count": 41715
       },
       {
         "status": 206,
-        "count": 1759
+        "count": 12940
       },
       {
         "status": 304,
-        "count": 1522
+        "count": 12123
       },
       {
         "status": 499,
-        "count": 110
-      },
-      {
-        "status": 405,
-        "count": 25
-      },
-      {
-        "status": 503,
-        "count": 21
+        "count": 659
       },
       {
         "status": 403,
+        "count": 325
+      },
+      {
+        "status": 503,
+        "count": 177
+      },
+      {
+        "status": 405,
+        "count": 138
+      },
+      {
+        "status": 202,
+        "count": 6
+      },
+      {
+        "status": 522,
         "count": 5
+      },
+      {
+        "status": 400,
+        "count": 3
+      },
+      {
+        "status": 502,
+        "count": 1
       }
     ],
-    "fourOhFourRate": 2.47,
+    "fourOhFourRate": 6.13,
     "traffic": {
       "topCountries": [
         {
           "country": "United States",
           "code": "US",
-          "requests": 59185
+          "requests": 405763
         },
         {
           "country": "Taiwan",
           "code": "TW",
-          "requests": 58391
+          "requests": 198125
         },
         {
           "country": "Singapore",
           "code": "SG",
-          "requests": 13564
+          "requests": 105759
         },
         {
           "country": "China",
           "code": "CN",
-          "requests": 13297
+          "requests": 82433
+        },
+        {
+          "country": "France",
+          "code": "FR",
+          "requests": 45661
         },
         {
           "country": "Germany",
           "code": "DE",
-          "requests": 6862
+          "requests": 20128
         },
         {
           "country": "Japan",
           "code": "JP",
-          "requests": 3510
+          "requests": 19285
+        },
+        {
+          "country": "UA",
+          "code": "UA",
+          "requests": 13250
         },
         {
           "country": "Brazil",
           "code": "BR",
-          "requests": 2378
+          "requests": 11235
         },
         {
-          "country": "Australia",
-          "code": "AU",
-          "requests": 1839
-        },
-        {
-          "country": "Canada",
-          "code": "CA",
-          "requests": 1418
-        },
-        {
-          "country": "Hong Kong",
-          "code": "HK",
-          "requests": 1264
+          "country": "BE",
+          "code": "BE",
+          "requests": 11029
         }
       ]
     },
     "dailyBreakdown": [
       {
-        "date": "2026-07-28",
-        "requests": 897,
-        "pageViews": 306,
-        "cachedRequests": 136,
-        "threats": 0,
-        "bytes": 75980035,
-        "uniques": 320,
-        "status200": 689,
-        "status404": 18,
-        "status4xx": 19,
-        "status5xx": 0
+        "date": "2026-07-27",
+        "requests": 167316,
+        "pageViews": 52949,
+        "cachedRequests": 39063,
+        "threats": 5,
+        "bytes": 13930662733,
+        "uniques": 23420,
+        "status200": 125910,
+        "status404": 4098,
+        "status4xx": 4230,
+        "status5xx": 21
       },
       {
-        "date": "2026-07-27",
-        "requests": 175074,
-        "pageViews": 55757,
-        "cachedRequests": 39817,
-        "threats": 5,
-        "bytes": 14500669541,
-        "uniques": 24732,
-        "status200": 131406,
-        "status404": 4330,
-        "status4xx": 4469,
-        "status5xx": 21
+        "date": "2026-07-26",
+        "requests": 193175,
+        "pageViews": 56500,
+        "cachedRequests": 47258,
+        "threats": 7,
+        "bytes": 16120570238,
+        "uniques": 26779,
+        "status200": 145126,
+        "status404": 5617,
+        "status4xx": 5809,
+        "status5xx": 22
+      },
+      {
+        "date": "2026-07-25",
+        "requests": 121696,
+        "pageViews": 43993,
+        "cachedRequests": 12580,
+        "threats": 3,
+        "bytes": 8646051174,
+        "uniques": 20493,
+        "status200": 80694,
+        "status404": 6291,
+        "status4xx": 6422,
+        "status5xx": 22
+      },
+      {
+        "date": "2026-07-24",
+        "requests": 103698,
+        "pageViews": 36665,
+        "cachedRequests": 10660,
+        "threats": 12,
+        "bytes": 7073956113,
+        "uniques": 19295,
+        "status200": 66511,
+        "status404": 7690,
+        "status4xx": 7979,
+        "status5xx": 18
+      },
+      {
+        "date": "2026-07-23",
+        "requests": 95914,
+        "pageViews": 32614,
+        "cachedRequests": 11291,
+        "threats": 4,
+        "bytes": 6592087217,
+        "uniques": 27610,
+        "status200": 62776,
+        "status404": 4675,
+        "status4xx": 4750,
+        "status5xx": 22
+      },
+      {
+        "date": "2026-07-22",
+        "requests": 106381,
+        "pageViews": 41737,
+        "cachedRequests": 10231,
+        "threats": 1,
+        "bytes": 7497067551,
+        "uniques": 16531,
+        "status200": 73537,
+        "status404": 5606,
+        "status4xx": 5680,
+        "status5xx": 23
+      },
+      {
+        "date": "2026-07-21",
+        "requests": 106205,
+        "pageViews": 38669,
+        "cachedRequests": 9897,
+        "threats": 54,
+        "bytes": 6745601151,
+        "uniques": 15241,
+        "status200": 66965,
+        "status404": 7914,
+        "status4xx": 8043,
+        "status5xx": 31
+      },
+      {
+        "date": "2026-07-20",
+        "requests": 123048,
+        "pageViews": 36684,
+        "cachedRequests": 8680,
+        "threats": 13,
+        "bytes": 7608826629,
+        "uniques": 17901,
+        "status200": 64527,
+        "status404": 20438,
+        "status4xx": 20541,
+        "status5xx": 24
       }
     ],
     "aiCrawlers": {
-      "detectedRequests": 37665,
-      "http200": 23269,
-      "allowedRequests": 37665,
-      "unsuccessfulRequests": 14396,
+      "detectedRequests": 199008,
+      "http200": 127310,
+      "allowedRequests": 199008,
+      "unsuccessfulRequests": 71698,
       "topCrawler": {
-        "name": "PerplexityBot",
-        "requests": 5472,
-        "http200": 2632,
-        "category": "Perplexity"
+        "name": "Bytespider",
+        "requests": 34410,
+        "http200": 15201,
+        "category": "ByteDance"
       },
       "crawlers": [
         {
-          "name": "PerplexityBot",
-          "requests": 5472,
-          "http200": 2632,
-          "category": "Perplexity"
-        },
-        {
-          "name": "GPTBot",
-          "requests": 5091,
-          "http200": 2552,
-          "category": "OpenAI"
-        },
-        {
           "name": "Bytespider",
-          "requests": 4546,
-          "http200": 1880,
+          "requests": 34410,
+          "http200": 15201,
           "category": "ByteDance"
         },
         {
-          "name": "BingBot",
-          "requests": 4201,
-          "http200": 3060,
-          "category": "Microsoft"
-        },
-        {
-          "name": "Amazonbot",
-          "requests": 4121,
-          "http200": 2115,
-          "category": "Amazon"
-        },
-        {
           "name": "Googlebot",
-          "requests": 3314,
-          "http200": 2706,
+          "requests": 30776,
+          "http200": 23078,
           "category": "Google"
         },
         {
+          "name": "BingBot",
+          "requests": 27355,
+          "http200": 19343,
+          "category": "Microsoft"
+        },
+        {
+          "name": "PerplexityBot",
+          "requests": 23010,
+          "http200": 10986,
+          "category": "Perplexity"
+        },
+        {
+          "name": "Amazonbot",
+          "requests": 18276,
+          "http200": 9226,
+          "category": "Amazon"
+        },
+        {
           "name": "ChatGPT-User",
-          "requests": 2253,
-          "http200": 2173,
+          "requests": 13468,
+          "http200": 13147,
           "category": "OpenAI"
         },
         {
-          "name": "FacebookBot",
-          "requests": 2106,
-          "http200": 1956,
-          "category": "Meta"
-        },
-        {
-          "name": "Applebot",
-          "requests": 1870,
-          "http200": 1345,
-          "category": "Apple"
-        },
-        {
           "name": "PetalBot",
-          "requests": 1573,
-          "http200": 903,
+          "requests": 9693,
+          "http200": 5972,
           "category": "Huawei"
         },
         {
           "name": "ClaudeBot",
-          "requests": 1284,
-          "http200": 796,
+          "requests": 8075,
+          "http200": 4963,
           "category": "Anthropic"
         },
         {
+          "name": "FacebookBot",
+          "requests": 7864,
+          "http200": 7177,
+          "category": "Meta"
+        },
+        {
+          "name": "Applebot",
+          "requests": 7679,
+          "http200": 6645,
+          "category": "Apple"
+        },
+        {
+          "name": "GPTBot",
+          "requests": 6838,
+          "http200": 3452,
+          "category": "OpenAI"
+        },
+        {
           "name": "OAI-SearchBot",
-          "requests": 940,
-          "http200": 511,
+          "requests": 6001,
+          "http200": 3843,
           "category": "OpenAI"
         },
         {
           "name": "YandexBot",
-          "requests": 666,
-          "http200": 551,
+          "requests": 4156,
+          "http200": 3737,
           "category": "Yandex"
         },
         {
           "name": "Meta-ExternalAgent",
-          "requests": 198,
-          "http200": 64,
+          "requests": 1275,
+          "http200": 459,
           "category": "Meta"
         },
         {
           "name": "DuckDuckBot",
-          "requests": 30,
-          "http200": 25,
+          "requests": 88,
+          "http200": 71,
           "category": "DuckDuckGo"
+        },
+        {
+          "name": "cohere-ai",
+          "requests": 15,
+          "http200": 0,
+          "category": "Cohere"
+        },
+        {
+          "name": "anthropic-ai",
+          "requests": 12,
+          "http200": 0,
+          "category": "Anthropic"
+        },
+        {
+          "name": "Diffbot",
+          "requests": 10,
+          "http200": 10,
+          "category": "Diffbot"
+        },
+        {
+          "name": "Perplexity-User",
+          "requests": 7,
+          "http200": 0,
+          "category": "Perplexity"
         }
       ],
       "period": {
-        "start": "2026-07-27T00:17:01Z",
-        "end": "2026-07-28T00:17:01Z",
-        "days": 1,
-        "daysFetched": 1,
+        "start": "2026-07-20T22:11:46Z",
+        "end": "2026-07-27T22:11:46Z",
+        "days": 7,
+        "daysFetched": 7,
         "daysFailed": 0
       },
       "perLanguage": {
-        "days": 1,
-        "daysFetched": 1,
+        "days": 3,
+        "daysFetched": 3,
         "rowsTruncated": true,
         "byLanguage": {
           "en": {
-            "requests": 1176,
+            "requests": 3432,
             "topCrawlers": [
               {
                 "name": "ChatGPT-User",
-                "requests": 804
+                "requests": 2021
               },
               {
-                "name": "GPTBot",
-                "requests": 142
+                "name": "Amazonbot",
+                "requests": 422
               },
               {
-                "name": "YandexBot",
-                "requests": 105
+                "name": "BingBot",
+                "requests": 247
               }
             ]
           },
           "ja": {
-            "requests": 246,
+            "requests": 1097,
             "topCrawlers": [
               {
+                "name": "Amazonbot",
+                "requests": 455
+              },
+              {
                 "name": "GPTBot",
-                "requests": 184
+                "requests": 305
               },
               {
                 "name": "Googlebot",
-                "requests": 19
-              },
-              {
-                "name": "Bytespider",
-                "requests": 18
+                "requests": 100
               }
             ]
           },
           "ko": {
-            "requests": 283,
+            "requests": 1185,
             "topCrawlers": [
               {
+                "name": "Amazonbot",
+                "requests": 476
+              },
+              {
                 "name": "GPTBot",
-                "requests": 199
+                "requests": 334
               },
               {
                 "name": "Googlebot",
-                "requests": 44
-              },
-              {
-                "name": "ChatGPT-User",
-                "requests": 15
+                "requests": 192
               }
             ]
           },
           "es": {
-            "requests": 248,
+            "requests": 1184,
             "topCrawlers": [
               {
+                "name": "Amazonbot",
+                "requests": 414
+              },
+              {
                 "name": "GPTBot",
-                "requests": 203
+                "requests": 315
               },
               {
                 "name": "Googlebot",
-                "requests": 23
-              },
-              {
-                "name": "Bytespider",
-                "requests": 11
+                "requests": 128
               }
             ]
           },
           "fr": {
-            "requests": 258,
+            "requests": 1173,
             "topCrawlers": [
               {
-                "name": "GPTBot",
-                "requests": 193
+                "name": "Amazonbot",
+                "requests": 509
               },
               {
-                "name": "Bytespider",
-                "requests": 25
+                "name": "GPTBot",
+                "requests": 323
               },
               {
                 "name": "Googlebot",
-                "requests": 17
+                "requests": 86
               }
             ]
           },
           "zh-TW": {
-            "requests": 6588,
+            "requests": 17893,
             "topCrawlers": [
               {
                 "name": "GPTBot",
-                "requests": 3274
+                "requests": 4155
               },
               {
-                "name": "FacebookBot",
-                "requests": 1054
+                "name": "Amazonbot",
+                "requests": 2440
               },
               {
                 "name": "ChatGPT-User",
-                "requests": 796
+                "requests": 2355
               }
             ]
           },
           "non-article": {
-            "requests": 5159,
+            "requests": 15456,
             "topCrawlers": [
               {
                 "name": "Bytespider",
-                "requests": 2681
-              },
-              {
-                "name": "FacebookBot",
-                "requests": 845
+                "requests": 7736
               },
               {
                 "name": "Googlebot",
-                "requests": 807
+                "requests": 2875
+              },
+              {
+                "name": "FacebookBot",
+                "requests": 1972
               }
             ]
           }

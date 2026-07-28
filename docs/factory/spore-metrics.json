@@ -6245,6 +6245,18 @@
       "source": "harvest"
     },
     {
+      "spore": 159,
+      "dPlus": 3,
+      "at": "2026-07-28 06:40",
+      "batch": "batch-2026-07-28-1-spores",
+      "views": 3217,
+      "likes": 27,
+      "reposts": 1,
+      "comments": 9,
+      "shares": null,
+      "source": "chrome-mcp"
+    },
+    {
       "spore": 160,
       "dPlus": 1,
       "at": "2026-07-26 10:49",
@@ -6269,6 +6281,18 @@
       "source": "harvest"
     },
     {
+      "spore": 160,
+      "dPlus": 3,
+      "at": "2026-07-28 06:40",
+      "batch": "batch-2026-07-28-1-spores",
+      "views": 177,
+      "likes": null,
+      "reposts": null,
+      "comments": null,
+      "shares": null,
+      "source": "chrome-mcp"
+    },
+    {
       "spore": 161,
       "dPlus": 1,
       "at": "2026-07-27 06:43",
@@ -6281,6 +6305,18 @@
       "source": "harvest"
     },
     {
+      "spore": 161,
+      "dPlus": 2,
+      "at": "2026-07-28 06:40",
+      "batch": "batch-2026-07-28-1-spores",
+      "views": 420000,
+      "likes": 874,
+      "reposts": 83,
+      "comments": 4,
+      "shares": 126,
+      "source": "chrome-mcp"
+    },
+    {
       "spore": 162,
       "dPlus": 1,
       "at": "2026-07-27 06:43",
@@ -6291,6 +6327,42 @@
       "comments": 12,
       "shares": 91,
       "source": "harvest"
+    },
+    {
+      "spore": 162,
+      "dPlus": 2,
+      "at": "2026-07-28 06:40",
+      "batch": "batch-2026-07-28-1-spores",
+      "views": 45000,
+      "likes": 2006,
+      "reposts": 474,
+      "comments": 14,
+      "shares": null,
+      "source": "chrome-mcp"
+    },
+    {
+      "spore": 163,
+      "dPlus": 1,
+      "at": "2026-07-28 06:40",
+      "batch": "batch-2026-07-28-1-spores",
+      "views": 1475,
+      "likes": null,
+      "reposts": null,
+      "comments": null,
+      "shares": null,
+      "source": "chrome-mcp"
+    },
+    {
+      "spore": 164,
+      "dPlus": 1,
+      "at": "2026-07-28 06:40",
+      "batch": "batch-2026-07-28-1-spores",
+      "views": 1955,
+      "likes": 52,
+      "reposts": null,
+      "comments": 10,
+      "shares": 3,
+      "source": "chrome-mcp"
     }
   ]
 }
