@@ -4,13 +4,15 @@ description: "Fils d'un milieu rural de Pingtung, diplômé du collège, il ne p
 date: 2026-04-05
 category: 'People'
 tags:
-  - 'Restauration'
-  - 'Pâtisserie'
-  - "Esprit d'artisan"
-  - 'Champion du monde'
-  - 'Pingtung'
-  - 'Pain'
-  - 'Peuples autochtones'
+  [
+    'Restauration',
+    'Pâtisserie',
+    "Esprit d'artisan",
+    'Champion du monde',
+    'Pingtung',
+    'Pain',
+    'Peuples autochtones',
+  ]
 subcategory: '餐飲與職人'
 author: 'Taiwan.md'
 featured: true
@@ -18,10 +20,10 @@ lastVerified: 2026-04-05
 lastHumanReview: false
 readingTime: 7
 translatedFrom: 'People/吳寶春.md'
-sourceCommitSha: 'fb0101886'
-sourceContentHash: 'sha256:299e6ec6dab64e0a'
-sourceBodyHash: 'sha256:75c04d29af394ed6'
-translatedAt: '2026-06-12T00:53:43+08:00'
+sourceCommitSha: '09c1bf1a9'
+sourceContentHash: 'sha256:1b0b64c23c091c1f'
+sourceBodyHash: 'sha256:e355ad9581f498f8'
+translatedAt: '2026-07-28T00:12:17.696220+00:00'
 ---
 
 # Wu Pao-chun : un engagement envers un enfant Paiwan
@@ -80,22 +82,22 @@ En 2016, l’Université nationale de Singapour (NUS) l’a invité à suivre un
 
 Le 18 juin 2022, le « Wu Pao‑chun Baking Academy » a été inauguré à l’Université technologique de Kunshan, à Tainan, où Wu Pao‑chun occupe les fonctions de directeur et de professeur honoraire — la première école de boulangerie de ce type à Taïwan, dont les étudiants participent directement à la production et à la gestion du magasin pendant leurs études. [^7]
 
-## Le sens de cette promesse
+## La signification de cette promesse
 
-Disney+ a réalisé un documentaire à son sujet, intitulé _World’s First Maifang_. Son ouvrage _Softness Achieves the Extraordinary_ s’est vendu à plusieurs milliers d’exemplaires. En 2016, il a de nouveau mené l’équipe taïwanaise à la médaille d’argent de la Coupe du Monde de la Boulangerie ; ses élèves ont, en 2018, poursuivi son héritage avec le pain « Guan‑Jiang‑Shou », remportant des prix internationaux.
+Disney+ a réalisé un documentaire sur lui intitulé 《Le premier pain du monde》. Son ouvrage, 《La douceur fait l'exceptionnel》, continue de se vendre aujourd'hui. En 2016, il a mené l'équipe taïwanaise à remporter une nouvelle médaille d'argent lors du Championnat du monde de la boulangerie ; en 2018, l'un de ses élèves, s'inspirant du _guanshangshou_ (danse rituelle des chamans), a perpétué cet héritage en remportant un prix international.
 
-Mais tout revient à ce pain triangulaire. Sans parler français, avec peu de diplômes, issu d’un milieu rural, père décédé tôt, ressources quasi nulles. Il a dit à un enfant Paiwan qu’il pouvait le faire, puis, pendant dix ans, a transporté le vin de millet de son village natal, amenant le jury français à déclarer que c’était le meilleur pain français.
+Mais tout revient finalement à ce pain triangulaire. Il ne parlait pas français, n'avait que peu de diplômes, a grandi à la campagne, a perdu son père tôt et disposait de ressources quasi nulles. Il a dit « c'est possible » à un enfant Paiwan, puis il a mis dix ans pour utiliser le vin de millet du village de cet enfant afin de convaincre les juges français que c'était le meilleur pain français jamais goûté.
 
-Ce résultat paraît paradoxal — et c’est précisément là que réside le point essentiel.
+Ce résultat semble en soi illogique — et pourtant, en y regardant de plus près, on réalise que c'est là que réside l'essentiel.
 
 ---
 
 **Lectures complémentaires** :
 
-- [Jiang Zhen‑cheng](/fr/people/andre-chiang-taiwanese-culinary-innovator) — De l’école technique de Tamsui à la 14ᵉ place mondiale, une autre histoire de chef taïwanais qui a conquis l’international avec les saveurs de Taïwan.
-- [Carte culturelle des 16 peuples autochtones de Taïwan](/fr/culture/indigenous-peoples-16-tribes-cultural-map) — Contexte culturel du vin de millet Paiwan utilisé dans le pain au litchi‑rose.
-- [Culture des marchés nocturnes](/fr/food/night-market-culture) — Fondement de l’alimentation populaire taïwanaise, d’où émerge l’esthétique des ingrédients de Wu Pao‑chun.
-- [Huang Shan‑liao](/fr/people/huang-shan-liao) — Un autre Taïwanais couronné à l’international (Fashion Week de Londres), qui a choisi une trajectoire opposée : quitter l’artisanat pour transformer la visibilité en best‑seller.
+- [Andre Chiang](/fr/people/andre-chiang-taiwanese-culinary-innovator) — Un autre artisan ayant conquis les juges français avec des ingrédients taïwanais, qui a choisi de s'effacer l'année suivant le classement de son restaurant à la 14e place mondiale.
+- [Carte culturelle des 16 tribus autochtones de Taïwan](/fr/culture/indigenous-peoples-16-tribes-cultural-map) — Le contexte culturel du vin de millet Paiwan présent dans le pain Litchi Rose.
+- [Culture des marchés de nuit](/fr/food/night-market-culture) — La base de la gastronomie populaire taïwanaise, pour comprendre d'où provient l'esthétique des ingrédients de Wu Pao-chun.
+- [Huang Shan-liao](/fr/people/huang-shan-liao) — Un autre Taïwanais ayant remporté un titre sur la scène mondiale (Fashion Week de Londres), mais ayant emprunté un chemin opposé : délaisser l'artisanat pour faire de la « visibilité » un succès commercial.
 
 ## Références
 

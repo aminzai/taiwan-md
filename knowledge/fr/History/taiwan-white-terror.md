@@ -2,6 +2,7 @@
 title: 'Taiwan White Terror'
 description: "The 38-year martial law was not maintained by a few thousand secret agents, but by the 'joint liability guarantee' system where every family in Taiwan had to mutually guarantee each other to work, enroll in school, or marry. Chen Chih-hsiung, Shih Shui-huan, Gao Yi-sheng, and Bo Yang—four names, four reasons for arrest, one common machine."
 date: 2026-04-05
+category: 'History'
 tags:
   [
     'History',
@@ -14,16 +15,15 @@ tags:
   ]
 subcategory: 'Post-War and Authoritarianism'
 author: 'Taiwan.md'
-category: 'History'
-readingTime: 11
+featured: true
 lastVerified: 2026-04-05
 lastHumanReview: false
+readingTime: 11
 translatedFrom: 'History/台灣白色恐怖.md'
-sourceCommitSha: '6c2f8ea8'
-sourceContentHash: 'sha256:95fed80eda56f46a'
-translatedAt: '2026-05-29T00:35:00+08:00'
-sourceBodyHash: 'sha256:c81706526bb2277b'
-featured: true
+sourceCommitSha: '710263a86'
+sourceContentHash: 'sha256:bc916494357a8d5d'
+sourceBodyHash: 'sha256:cbfe5f14ffa2e661'
+translatedAt: '2026-07-27T23:53:37.433163+00:00'
 ---
 
 # Taiwan White Terror
@@ -155,28 +155,29 @@ On World Human Rights Day in 2013, Gao Yi-sheng's son, Gao Ying-jie, donated the
 
 ---
 
-## Why This History Has Not Ended
+## Pourquoi cette période historique n'est pas encore terminée
 
-It is easy to say "White Terror is over." Martial law was lifted in 1987, the Regulations for Punishing Rebellion were abolished in 1991, the Compensation Foundation was established in 1995, and the Transition Justice Commission began operations in 2018. The state machine has not killed for 38 years.
+Il est facile de dire que « la Terreur blanche est derrière nous ». La levée de la loi martiale en 1987, l'abrogation de la Loi sur la répression des rébellions en 1991, la création de la Fondation de compensation en 1995 et le lancement de la Commission de la justice transitionnelle en 2018 marquent un temps où l'appareil d'État n'a plus tué depuis 38 ans.
 
-But open the family history of any Taiwanese born in the 1950s-1980s, flip to the pages about their parents, and the word "guarantee" often appears, followed by a pause. His uncle refused to guarantee; his neighbor once guaranteed; his grandfather almost lost his job because he had no guarantor. That pause is where White Terror has not yet ended.
+Pourtant, il suffit d'ouvrir l'histoire familiale de n'importe quel Taïwanais né entre 1950 et 1980 et de parcourir les pages consacrées à ses parents pour voir apparaître, avec une certaine hésitation, les deux mots « cautionnement » (_zuòbǎo_). Son oncle a refusé de se porter caution, son voisin s'était porté caution, son grand-père a failli perdre son emploi faute de garant. Cette hésitation est l'endroit précis où la Terreur blanche n'est pas encore terminée.
 
-Chen Chih-hsiung was executed in Machangting in 1963. Gao Yi-sheng was executed in Taipei in 1954. Shih Shui-huan was executed in Taipei in 1956. Their families spent half a century before daring to publicly speak these names. Taiwan's transitional justice revoked 5,983 guilty verdicts, [^3] established memorial parks, and built memorial steles.
+Chen Chih-hsiung fut fusillé à Mabachō en 1963. Gao Yi-sheng fut fusillé à Taipei en 1954. Shih Shui-huan fut fusillé à Taipei en 1956. Leurs familles ont mis un demi-siècle avant d'oser prononcer ces noms publiquement. La justice transitionnelle à Taïwan a annulé 5 983 condamnations,[^3] a établi des parcs commémoratifs et érigé des monuments.
 
-But the descendants of those 5,000 university campus informants still live, work, and vote in Taiwan. What their fathers or grandfathers did is not required to be clarified by any decontamination law. [^6] The so-called "past" has never been publicly reconciled.
+Mais les descendants de ces 5 000 étudiants manifestant sur les campus vivent, travaillent et votent toujours à Taïwan. Aucune méthode de « nettoyage » ne leur exige de clarifier ce que leurs pères ou grands-pères ont fait.[^6] Ce que l'on appelle le « passé » n'a jamais fait l'objet d'un règlement de comptes public.
 
-This is not hatred; it is a ledger. The day White Terror ends will not be the day martial law was lifted, nor the day the Transition Justice Commission dissolved. It will be the day Taiwanese society is willing to admit: the system that turned two million families into a web of mutual surveillance, its traces are still carved into our unease towards neighbors, strangers, and the two words "guarantee."
+Il ne s'agit pas de haine, mais de comptabilité. Le jour où la Terreur blanche prendra fin ne sera ni celui de la levée de la loi martiale, ni celui de la dissolution de la Commission de la justice transitionnelle. Ce sera le jour où la société taïwanaise acceptera de reconnaître que ce système, qui a transformé deux millions de familles en un réseau de surveillance mutuelle, a laissé des traces gravées dans notre méfiance envers nos voisins, envers les inconnus et envers ces deux mots : « cautionnement ».
 
-**Further Reading**:
+**Lectures complémentaires** :
 
-- [Taiwan Democratic Transition](/fr/history/taiwan-democratization) — The full picture of the forty-year transition from martial law to Asia's most liberal democratic system
-- [Martial Law Period](/fr/history/martial-law-era) — The legal container of 38 years and 56 days and the process of lifting martial law
-- [Taiwan Transitional Justice](/fr/history/taiwan-transitional-justice) — The unfinished business of truth investigation and perpetrator accountability after the lifting of martial law
-- [National Human Rights Museum](/fr/history/national-human-rights-museum) — The institution managing the two White Terror memorial parks at Jingmei and Green Island, from six years of preparation to the 2025 budget freeze
-- [February 28 Incident](/fr/history/228-incident) — The prelude to White Terror, how the 1947 suppression foreshadowed the martial law regime
-- [Beautiful Island Incident](/fr/history/kaohsiung-incident-formosa-incident) — An important turning point in the late White Terror period in 1979
-- [Alishan: The Empire's Forest Plantation and Gao Yi-sheng's Mountain](/fr/history/alishan-empire-forest-and-uongu-yatauyungana) — The story of Gao Yi-sheng's mountain and the silenced ethnicity
-- [Yin Haiguang](/fr/people/yin-haiguang-liberalism-philosopher) — The National Taiwan University philosophy professor who was placed under house arrest at No. 18 Wenzhou Street after the 1960 Lei Zhen case, the founder of Taiwan's liberalism
+- [La transition démocratique à Taïwan](/fr/history/taiwan-democratization) — Panorama de quarante ans de transformation, de la loi martiale au système le plus libre et démocratique d'Asie
+- [L'ère de la loi martiale](/fr/history/martial-law-era) — Le réceptacle juridique de 38 ans et 56 jours et le processus de levée de la loi martiale
+- [La justice transitionnelle à Taïwan](/fr/history/taiwan-transitional-justice) — Les enquêtes sur la vérité et la poursuite des coupables après la levée de la loi martiale, une œuvre inachevée
+- [Musée national des droits de l'homme](/fr/history/national-human-rights-museum) — Les institutions des deux parcs commémoratifs de la Terreur blanche à Jingmei et sur l'île de Green Island, de six années de préparation au gel du budget en 2025
+- [L'incident du 228](/fr/history/228-incident) — Le prélude à la Terreur blanche : comment la répression de 1947 a annoncé le régime de la loi martiale
+- [L'incident de Formose (Incident de Kaohsiung)](/fr/history/kaohsiung-incident-formosa-incident) — Un tournant majeur de la fin de la Terreure blanche en 1979
+- [Alishan : la forêt impériale et la montagne de Gao Yi-sheng](/fr/history/alishan-empire-forest-and-uongu-yatauyungana) — L'histoire de la montagne de Gao Yi-sheng et des populations réduites au silence
+- [La facture : le papier de 1951 qui a transformé chaque citoyen en inspecteur fiscal](/fr/economy/taiwan-uniform-invoice) — Le concepteur du système de facturation uniforme, Ren Xianqun, a lui aussi vécu dans la même époque ; il fut emprisonné en 1955 pour « non-dénonciation de rebelles », une étiquette suffisante pour être fatale
+- [Yin Hai-guang](/fr/people/yin-haiguang-liberalism-philosopher) — Professeur de philosophie à l'Université nationale de Taïwan, placé en résidence surveillée à Wenzhou Street après l'affaire Lei Zhen en 1960, figure fondatrice du libéralisme taïwanais
 
 ## References
 

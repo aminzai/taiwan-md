@@ -3,22 +3,26 @@ title: 'Potter King — Du divertissement « drague » à la chasse « rose », 
 description: 'L’évolution de la carrière de Potter King (Chen Chia‑jin) retrace le passage des créateurs taïwanais de récolteurs de bénéfices commerciaux trans-détroit à défenseurs de la souveraineté numérique, tout en révélant les complexités juridiques, de propriété et financières qui lient créateurs et systèmes capitalistes.'
 date: 2026-04-20
 category: 'People'
-subcategory: '數位與媒體'
 tags:
-  - 'Potter King'
-  - 'souveraineté numérique'
-  - 'guerre cognitive'
-  - 'droits des influenceurs'
-  - 'jeu juridique'
+  [
+    'Potter King',
+    'souveraineté numérique',
+    'guerre cognitive',
+    'droits des influenceurs',
+    'jeu juridique',
+  ]
+subcategory: '數位與媒體'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-01-01
 lastHumanReview: true
+summary: '台灣網路創作者。1990 年生於高雄，隔代教養背景。早期以「撩妹語錄」走紅，2019 年因拒絕中資經紀公司審查「總統」稱謂而觸發兩岸脫鉤。2022 年起與前東家爆發長達數年的法律戰，2026 年二審判決出現財務逆轉，揭露了網紅合約分潤的灰色地帶。他是解構認知作戰的「粉紅特報」觀察者，也是台灣首位將「拒絕數位跪下」標籤化的指標人物。'
+coverImage: ''
 translatedFrom: 'People/波特王.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:f007d55cb9bbfd03'
-sourceBodyHash: 'sha256:08c56227ca69228f'
-translatedAt: '2026-06-12T00:53:43+08:00'
+sourceCommitSha: '5edf34bcb'
+sourceContentHash: 'sha256:f218c0f6edac6f55'
+sourceBodyHash: 'sha256:bd885df97c7fe1fa'
+translatedAt: '2026-07-28T00:07:59.729967+00:00'
 ---
 
 ## 30 secondes d’aperçu
@@ -43,19 +47,19 @@ Le conflit juridique amorcé en 2022 était perçu comme une référence du co
 
 Le 16 avril 2026, la cour d’appel de Kaohsiung renverse radicalement la décision civile.[^7] Bien que l’entreprise ait effectivement retardé le paiement des revenus provenant du marché continental, le tribunal estime que Chen Chia‑jin, pendant la durée du contrat, a refusé de fournir les droits d’accès au back‑office, entraînant un manque à gagner de plus de 3,79 millions de NT$ de revenus YouTube qui auraient dû être versés à l’entreprise. Après compensation mutuelle des créances, Chen Chia‑jin doit restituer et indemniser son ancien employeur d’environ 2,84 millions de NT$.[^8] Le responsable de l’ancienne société, Mars, publie une déclaration accusant Chen d’avoir exploité l’image du « vieil patron » pour susciter la sympathie, esquivant ainsi les indemnités de résiliation et les parts de revenus, et appelle le public à « ne pas croire tout ce que disent les influenceurs ». [^9] Ce jugement révèle que, même sous le halo de la « souveraineté numérique », les créateurs restent soumis à des obligations contractuelles et à des liquidations financières rigoureuses, avec la possibilité d’appel.
 
-## Coupure et renaissance : 485 vidéos supprimées et les « rapports roses »
+## Sacrifice et renaissance : 485 anciennes vidéos et « Pink Special »
 
-Lors de la restitution de son canal et de son nom d’artiste, en septembre 2024, Potter King supprime sans préavis 485 vidéos réalisées pendant la période de collaboration avec son ancienne société, y compris son œuvre phare « phrases de drague » et la vidéo avec Tsai Ing‑wen.[^10] Le contrat stipulait que les droits d’auteur des vidéos produites pendant la collaboration appartenaient à l’entreprise ; Potter King explique sur Facebook : « C’est dommage, il n’y aura plus de rediffusion, mais ces souvenirs resteront dans mon cœur. »[^11] Cette suppression marque non seulement la fin de l’exécution juridique, mais constitue aussi une rupture physique avec le passé, tentant d’effacer complètement les marques du capital.
+Dans le cadre de l'exécution juridique visant à récupérer sa chaîne et son nom d'artiste, la chaîne de Potter King a supprimé sans préavis, en septembre 2024, 485 anciennes vidéos réalisées durant sa collaboration avec son ancienne entreprise, incluant ses œuvres emblématiques telles que « Citations pour séduire » (_Liao mei yu lu_) ainsi que des vidéos impliquant Tsai Ing-wen. [^10] En raison des clauses contractuelles stipulant que les droits d'auteur des vidéos produites pendant la période de collaboration appartenaient à l'entreprise, Potter King a expliqué sur Facebook : « C'est vraiment dommage, aucune de ces vidéos ne pourra être rediffusée à l'avenir, mais gardons ces souvenirs dans nos cœurs. » [^11] Cette suppression massive n'était pas seulement l'aboutissement d'une procédure juridique, mais aussi une rupture physique avec le passé, tentant de laver définitivement l'empreinte du capital.
 
-Redevenu indépendant, Potter King oriente son contenu vers les « rapports roses », un style très personnel. Fort de son expérience avec les MCN chinois, il décortique en profondeur la propagande du Parti communiste chinois et les opérations de guerre cognitive. En 2024, il révèle un projet officiel chinois qui inviterait massivement des influenceurs taïwanais à participer à des tournages de « propagande extérieure », anticipant une série de vidéos de « unification ».[^12] En septembre 2025, il suscite la controverse en appelant les internautes à « aller jouer dans la boue à Hualien », puis répond aux critiques en se montrant « entièrement enveloppé » et en creusant la boue lui‑même.[^13] La carrière de Potter King n’est pas seulement le récit d’un passage « de la soumission à la prise de position », mais aussi une chronique tridimensionnelle des luttes entre image publique, réalité privée et contrats juridiques.
+Après avoir retrouvé son indépendance, Potter King a réorienté son contenu vers un style très personnel intitulé « Pink Special ». En s'appuyant sur son expérience passée de collaboration avec des MCN chinoises, il déconstruit en profondeur la propagande et la guerre cognitive de la RPC. En 2024, il a été le premier à révéler un plan présumé des autorités chinoises visant à inviter massivement des influenceurs taïwanais à des voyages de « grande propagande extérieure » (_da wai xuan_), prédisant avec précision la série de vidéos d'unification qui ont suivi. [^12] Bien qu'en septembre 2025, il ait fait l'objet d'une controverse linguistique et de critiques virulentes de la part des internautes pour avoir appelé à « aller jouer dans la boue à Hualien » afin de participer aux secours, il a répliqué aux doutes par une action concrète, en creusant la terre de manière précaire, « entièrement enveloppé de noir ». [^13] La carrière de Potter King n'est pas seulement le récit d'un passage « de l'agenouillement à la station debout », mais un document tridimensionnel sur la lutte prolongée entre image publique, réalité privée et obligations contractuelles.
 
 ---
 
-**Lectures complémentaires**
+**Lecture complémentaire**
 
-- [Tsai Ing‑wen](蔡英文.md) — L’autre partie de l’incident de 2019 « interdiction d’appeler « Présidente » », la présidente en exercice.
-- [Ba‑Jiong](八炯.md) — Un YouTuber de la même génération qui décortique la propagande du Parti communiste chinois, offrant une validation croisée aux « rapports roses » de Potter King.
-- [Chen Tzu‑chien](陳子見.md) — Un créateur qui a débuté par imiter le ton des chaînes d’État chinoises pour la satire politique, illustrant deux trajectoires de résistance numérique.
+- [Tsai Ing-wen](/fr/people/tsai-ing-wen) — L'autre partie de l'incident « Interdiction d’appeler Présidente » de 2019 ; la présidente actuelle est précisément celle dont la censure a été refusée par Potter King.
+- [Pa-chiung](/fr/people/pa-chiung-political-youtuber) — Un YouTubeur de la même génération spécialisé dans la déconstruction de l'unification de la RPC, dont le travail permet une vérification croisée avec le « Pink Special » de Potter King.
+- [Chen Tzu-jian](/fr/people/chen-tzu-jian) — Un autre créateur ayant débuté par la satire politique en imitant le ton de la CCTV, illustrant deux trajectoires distinctes de résistance numérique.
 
 ---
 
