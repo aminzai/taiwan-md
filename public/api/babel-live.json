@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28T11:14:19+08:00",
+  "generated_at": "2026-07-28T13:01:36+08:00",
   "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
-  "snapshot_ts": "2026-07-28T11:14:15+08:00",
+  "snapshot_ts": "2026-07-28T13:01:27+08:00",
   "total_zh": 870,
   "langs": [
     {
@@ -107,16 +107,16 @@
   "gap_total": 2596,
   "gap_delta": 0,
   "rate_1h": {
-    "delta": 12,
-    "span_h": 1.02,
-    "per_hour": 11.8
+    "delta": 0,
+    "span_h": 1.03,
+    "per_hour": 0.0
   },
   "rate_24h": {
-    "delta": 409,
-    "span_h": 24.12,
-    "per_hour": 17.0
+    "delta": 390,
+    "span_h": 24.61,
+    "per_hour": 15.8
   },
-  "eta_days": 9.2,
+  "eta_days": null,
   "nodes": {
     "worker:nemo4": {
       "ok": 54,
@@ -243,13 +243,13 @@
       "alive": true
     },
     "endpoint:laptop-4090": {
-      "alive": true
+      "alive": false
     },
     "endpoint:laptop-5090": {
       "alive": false
     },
     "endpoint:desktop-3090": {
-      "alive": true
+      "alive": false
     },
     "endpoint:mac-m4max": {
       "alive": true
@@ -257,26 +257,6 @@
   },
   "dispatchers": [],
   "history": [
-    {
-      "ts": "2026-07-27T09:47:45+08:00",
-      "fresh_total": 6199,
-      "gap_total": 3360
-    },
-    {
-      "ts": "2026-07-27T10:03:24+08:00",
-      "fresh_total": 6211,
-      "gap_total": 3348
-    },
-    {
-      "ts": "2026-07-27T10:09:52+08:00",
-      "fresh_total": 6213,
-      "gap_total": 3346
-    },
-    {
-      "ts": "2026-07-27T10:19:20+08:00",
-      "fresh_total": 6216,
-      "gap_total": 3343
-    },
     {
       "ts": "2026-07-27T10:34:49+08:00",
       "fresh_total": 6219,
@@ -734,6 +714,26 @@
     },
     {
       "ts": "2026-07-28T11:14:15+08:00",
+      "fresh_total": 6974,
+      "gap_total": 2596
+    },
+    {
+      "ts": "2026-07-28T11:29:28+08:00",
+      "fresh_total": 6974,
+      "gap_total": 2596
+    },
+    {
+      "ts": "2026-07-28T11:44:38+08:00",
+      "fresh_total": 6974,
+      "gap_total": 2596
+    },
+    {
+      "ts": "2026-07-28T11:59:47+08:00",
+      "fresh_total": 6974,
+      "gap_total": 2596
+    },
+    {
+      "ts": "2026-07-28T13:01:27+08:00",
       "fresh_total": 6974,
       "gap_total": 2596
     }
