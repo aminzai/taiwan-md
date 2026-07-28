@@ -203,6 +203,19 @@ def scan_ratio() -> dict:
 
 
 def scan_zombie() -> dict:
+    # About/taiwan-md.md 的英文歷史路由同時保留 /en/about/founder 與
+    # /en/about/taiwan-md；前者有既有站內連結／hreflang 依賴，後者是目前
+    # canonical slug。這是唯一受管 alias，不應把真正的跨文污染警報永遠墊成 1。
+    # 新增例外必須逐組列出完整檔名，不能只按 translatedFrom 全域豁免。
+    managed_aliases = {
+        (
+            "en",
+            "About/taiwan-md.md",
+        ): {
+            "en/About/founder.md",
+            "en/About/taiwan-md.md",
+        },
+    }
     out = {}
     for lang in LANGS:
         claims = defaultdict(list)
@@ -210,7 +223,11 @@ def scan_zombie() -> dict:
             mt = TF_RE.search(read(p)[:4000])
             if mt:
                 claims[mt.group(1)].append(str(p.relative_to(KNOW)))
-        dupes = {k: v for k, v in claims.items() if len(v) > 1}
+        dupes = {
+            k: v
+            for k, v in claims.items()
+            if len(v) > 1 and set(v) != managed_aliases.get((lang, k))
+        }
         out[lang] = {"zombie_groups": len(dupes), "detail": dupes}
     return out
 
