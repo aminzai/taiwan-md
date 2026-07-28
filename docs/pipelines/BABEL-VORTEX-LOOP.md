@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.4)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.5)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.4'
+current_version: 'v1.5'
 last_updated: 2026-07-28
-last_session: '2026-07-28-vortex-safe-footnote-heal'
+last_session: '2026-07-28-vortex-nondisruptive-pulse'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.4
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.5
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,10 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.5（2026-07-28）：脈搏快照改為精確 add 四個儀器產物，並用
+  `git commit --no-verify` 避免 lint-staged stash 全工作樹。實撞證據是重啟後
+  3 軌都活著，`babel-pulse --force-commit` 執行期間卻同時退出、快照記成 0；
+  快照 commit 不再為了記錄心跳而打斷產線。
 - v1.4（2026-07-28）：把 `footnote-format` 的 safe-only fixer 接進 dispatcher
   gate 前。最新隔離樣本 8 個中完整救回 1 個、部分修復但仍被 gate 擋下 2 個、
   不動 5 個；fixer 不碰 APA／多連結等有資訊損失風險的格式，品質門檻不放寬。
