@@ -1,5 +1,5 @@
 {
-  "_generated": "2026-07-28T06:41:54+08:00",
+  "_generated": "2026-07-29T06:40:23+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 154,
@@ -8456,16 +8456,16 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DbOLIMlE-mi",
       "template": "B 冷知識型／問題入口",
       "metrics": {
-        "views": 3217,
+        "views": 3225,
         "likes": 27,
         "reposts": 1,
         "comments": 9,
         "shares": 0
       },
       "metricsAsOf": {
-        "dPlus": 3,
-        "harvestDate": "2026-07-28 06:40",
-        "batch": "batch-2026-07-28-1-spores",
+        "dPlus": 4,
+        "harvestDate": "2026-07-29 06:39",
+        "batch": "batch-2026-07-29-1-spores",
         "source": "harvest+backfill"
       },
       "history": [
@@ -8498,6 +8498,16 @@
           "reposts": 1,
           "comments": 9,
           "shares": null
+        },
+        {
+          "dPlus": 4,
+          "harvestDate": "2026-07-29 06:39",
+          "batch": "batch-2026-07-29-1-spores",
+          "views": 3225,
+          "likes": 27,
+          "reposts": 1,
+          "comments": 9,
+          "shares": null
         }
       ]
     },
@@ -8512,17 +8522,17 @@
       "url": "https://x.com/taiwandotmd/status/2081045126898684051",
       "template": "B 冷知識型／問題入口",
       "metrics": {
-        "views": 177,
-        "likes": 47,
-        "reposts": 11,
-        "comments": 2,
-        "shares": 9
+        "views": 3042,
+        "likes": 53,
+        "reposts": 12,
+        "comments": 3,
+        "shares": 10
       },
       "metricsAsOf": {
-        "dPlus": 3,
-        "harvestDate": "2026-07-28 06:40",
-        "batch": "batch-2026-07-28-1-spores",
-        "source": "harvest+backfill"
+        "dPlus": 4,
+        "harvestDate": "2026-07-29 06:39",
+        "batch": "batch-2026-07-29-1-spores",
+        "source": "harvest"
       },
       "history": [
         {
@@ -8554,6 +8564,16 @@
           "reposts": null,
           "comments": null,
           "shares": null
+        },
+        {
+          "dPlus": 4,
+          "harvestDate": "2026-07-29 06:39",
+          "batch": "batch-2026-07-29-1-spores",
+          "views": 3042,
+          "likes": 53,
+          "reposts": 12,
+          "comments": 3,
+          "shares": 10
         }
       ]
     },
@@ -8568,16 +8588,16 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb",
       "template": "B 冷知識型／結構性題目",
       "metrics": {
-        "views": 420000,
-        "likes": 874,
-        "reposts": 83,
-        "comments": 4,
-        "shares": 126
+        "views": 430000,
+        "likes": 40000,
+        "reposts": 4778,
+        "comments": 309,
+        "shares": 3366
       },
       "metricsAsOf": {
-        "dPlus": 2,
-        "harvestDate": "2026-07-28 06:40",
-        "batch": "batch-2026-07-28-1-spores",
+        "dPlus": 3,
+        "harvestDate": "2026-07-29 06:39",
+        "batch": "batch-2026-07-29-1-spores",
         "source": "harvest"
       },
       "history": [
@@ -8600,6 +8620,16 @@
           "reposts": 83,
           "comments": 4,
           "shares": 126
+        },
+        {
+          "dPlus": 3,
+          "harvestDate": "2026-07-29 06:39",
+          "batch": "batch-2026-07-29-1-spores",
+          "views": 430000,
+          "likes": 40000,
+          "reposts": 4778,
+          "comments": 309,
+          "shares": 3366
         }
       ]
     },
@@ -8614,17 +8644,17 @@
       "url": "https://x.com/taiwandotmd/status/2081354251016773702",
       "template": "B 冷知識型／結構性題目",
       "metrics": {
-        "views": 45000,
-        "likes": 2006,
-        "reposts": 474,
+        "views": 49000,
+        "likes": 2158,
+        "reposts": 509,
         "comments": 14,
-        "shares": 91
+        "shares": 146
       },
       "metricsAsOf": {
-        "dPlus": 2,
-        "harvestDate": "2026-07-28 06:40",
-        "batch": "batch-2026-07-28-1-spores",
-        "source": "harvest+backfill"
+        "dPlus": 3,
+        "harvestDate": "2026-07-29 06:39",
+        "batch": "batch-2026-07-29-1-spores",
+        "source": "harvest"
       },
       "history": [
         {
@@ -8646,6 +8676,16 @@
           "reposts": 474,
           "comments": 14,
           "shares": null
+        },
+        {
+          "dPlus": 3,
+          "harvestDate": "2026-07-29 06:39",
+          "batch": "batch-2026-07-29-1-spores",
+          "views": 49000,
+          "likes": 2158,
+          "reposts": 509,
+          "comments": 14,
+          "shares": 146
         }
       ]
     },
@@ -8660,16 +8700,16 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DbTJE6Mk8mK",
       "template": "B 冷知識型／結構性題目（問題入口＋三角度收束）",
       "metrics": {
-        "views": 1475,
-        "likes": null,
+        "views": 1599,
+        "likes": 18,
         "reposts": null,
-        "comments": null,
+        "comments": 4,
         "shares": null
       },
       "metricsAsOf": {
-        "dPlus": 1,
-        "harvestDate": "2026-07-28 06:40",
-        "batch": "batch-2026-07-28-1-spores",
+        "dPlus": 2,
+        "harvestDate": "2026-07-29 06:39",
+        "batch": "batch-2026-07-29-1-spores",
         "source": "harvest"
       },
       "history": [
@@ -8681,6 +8721,16 @@
           "likes": null,
           "reposts": null,
           "comments": null,
+          "shares": null
+        },
+        {
+          "dPlus": 2,
+          "harvestDate": "2026-07-29 06:39",
+          "batch": "batch-2026-07-29-1-spores",
+          "views": 1599,
+          "likes": 18,
+          "reposts": null,
+          "comments": 4,
           "shares": null
         }
       ]
@@ -8696,16 +8746,16 @@
       "url": "https://x.com/taiwandotmd/status/2081744559860818133",
       "template": "B 冷知識型／結構性題目（問題入口＋三角度收束）",
       "metrics": {
-        "views": 1955,
-        "likes": 52,
-        "reposts": null,
-        "comments": 10,
-        "shares": 3
+        "views": 4898,
+        "likes": 105,
+        "reposts": 19,
+        "comments": 0,
+        "shares": 5
       },
       "metricsAsOf": {
-        "dPlus": 1,
-        "harvestDate": "2026-07-28 06:40",
-        "batch": "batch-2026-07-28-1-spores",
+        "dPlus": 2,
+        "harvestDate": "2026-07-29 06:39",
+        "batch": "batch-2026-07-29-1-spores",
         "source": "harvest"
       },
       "history": [
@@ -8718,6 +8768,16 @@
           "reposts": null,
           "comments": 10,
           "shares": 3
+        },
+        {
+          "dPlus": 2,
+          "harvestDate": "2026-07-29 06:39",
+          "batch": "batch-2026-07-29-1-spores",
+          "views": 4898,
+          "likes": 105,
+          "reposts": 19,
+          "comments": 0,
+          "shares": 5
         }
       ]
     }
