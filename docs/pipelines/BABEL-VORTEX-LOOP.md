@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.15)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.16)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.15'
+current_version: 'v1.16'
 last_updated: 2026-07-29
-last_session: '2026-07-29-vortex-quarantine-leak-audit'
+last_session: '2026-07-29-vortex-fleet-service-readiness'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.15
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.16
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,13 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.16（2026-07-29）：把「機器可達」與「模型服務可用」收斂回 fleet
+  抽象層。probe 原本已正確區分 `idle/busy`（Ollama serving）與 `online`
+  （SSH 可達但 Ollama 未服務），但 `batch_workers(service="llm")` 只排除
+  `offline`，因此 laptop-4090 連續三小時被核發、每小時 18 次模型呼叫全敗。
+  fleetlib 現在對 llm/embed/translate fail-closed：只有 `idle/busy` 節點能被
+  核發；generic SSH 工作不受影響。實跑核發清單由 6 workers 收斂成 3 個真正
+  serving 的 desktop3090 workers，Babel 不再自行探測或繞過 fleet。
 - v1.15（2026-07-29）：修正隔離樣本 leak 覆盤的路徑崩潰。
   `cjk-leak-check.py` 的 CLI 接受任意 positional path，但有命中時固定呼叫
   `p.relative_to(REPO)`；傳入 `/tmp/babel-*/quarantine/*.md` 會在印第一筆
