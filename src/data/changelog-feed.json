@@ -1,7 +1,861 @@
 {
-  "generatedAt": "2026-07-27T22:13:20.084Z",
+  "generatedAt": "2026-07-28T22:13:11.364Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "56ece0a5929662a68e7e2ef811d0ade270027c90",
+      "date": "2026-07-29T05:39:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-07-29 05:38 — 抓到 babel-nightly 機器落後 3 天並修復",
+      "articles": []
+    },
+    {
+      "hash": "f194195787a7954441fec2a78d31a21204e1a959",
+      "date": "2026-07-29T05:38:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-routine-sync: babel-nightly prompt drift — machine 落後三天，git 版本補上 fleet 控制面抽象層",
+      "articles": []
+    },
+    {
+      "hash": "8f0fb825bc494ad7c599a68027871a9e6883890e",
+      "date": "2026-07-29T05:34:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-07-29 05:33 — 12 語 8159 向量 0 fail",
+      "articles": []
+    },
+    {
+      "hash": "31790bb49d2abb3fb372bf53ea405a6f46b171b6",
+      "date": "2026-07-29T05:34:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge remote-tracking branch 'origin/main'",
+      "articles": []
+    },
+    {
+      "hash": "3494e0315a32e6ddad34f42e7127e6eca1fb2e21",
+      "date": "2026-07-29T05:33:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "2606f237d94fc51ff31311d90a085f5cc2bbd16d",
+      "date": "2026-07-29T05:32:03+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-07-29 (12 langs, 8159 vecs)",
+      "articles": []
+    },
+    {
+      "hash": "8fadcf865c99f7591f4159f1f80c1adbba2b8886",
+      "date": "2026-07-29T05:31:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 無後端時不再重試同一端點",
+      "articles": []
+    },
+    {
+      "hash": "e04606de60cfc2d6d6719555075c1621f7979818",
+      "date": "2026-07-29T05:30:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 搶救 16 篇孤兒譯文",
+      "articles": []
+    },
+    {
+      "hash": "861a59da517294b1da1e99b1d25da0ff1023ded1",
+      "date": "2026-07-29T05:13:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "06a51895293cdadc5c783b1295d1f913fbdbba15",
+      "date": "2026-07-29T04:34:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "bc6decf450e09e0398d679656feeeb6e57a39017",
+      "date": "2026-07-29T04:32:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 只把真正改動的譯文算成新產物",
+      "articles": []
+    },
+    {
+      "hash": "adc69a2f0e2c98570c7955b2656f5c7d0e9140a3",
+      "date": "2026-07-29T04:32:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 搶救 24 篇孤兒譯文",
+      "articles": []
+    },
+    {
+      "hash": "faa1e48cd56b98b98cde935e24e216070e6eef1d",
+      "date": "2026-07-29T04:12:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "9bc81190c49e7123205c1a67747fbd7cb3d12b36",
+      "date": "2026-07-29T03:37:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "500f30ec53f75c4a0e379a741e4d252a64de61c6",
+      "date": "2026-07-29T03:36:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 修正署名誤殺與受管回收",
+      "articles": []
+    },
+    {
+      "hash": "f5e46ef8b32e571afcbf97020f71da6dbb0ddc3f",
+      "date": "2026-07-29T03:35:40+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 搶救 20 篇孤兒譯文",
+      "articles": []
+    },
+    {
+      "hash": "fa2f94b93641c993c4c2f52d729eda4122dc7989",
+      "date": "2026-07-29T03:11:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "42803fc02ba7c92ff43260214d62bd775711a176",
+      "date": "2026-07-29T02:37:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "caea4fabad53f8ff04bcca5fd82d56bc29c9eef2",
+      "date": "2026-07-29T02:34:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 搶救 206 篇孤兒譯文",
+      "articles": []
+    },
+    {
+      "hash": "547e1ca84b16f185eeaaf90b5cdc75e225575cbb",
+      "date": "2026-07-29T02:33:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 渦流三軌隔離 run dir 並校正 patch 失敗歸因",
+      "articles": []
+    },
+    {
+      "hash": "36aaab5763dd52aabd0d3a07564020a85c3e3bd3",
+      "date": "2026-07-29T02:10:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "e725c3599bdfdcfad6428335a683379dbd69849f",
+      "date": "2026-07-29T01:34:53+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "4299185418f799ae4a11a8c1bd4cf2146d9520b5",
+      "date": "2026-07-29T01:34:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: zombie health 排除唯一受管英文 alias",
+      "articles": []
+    },
+    {
+      "hash": "fbdc4940c6be981a50c4ac5d04c028c0bc0d2bc2",
+      "date": "2026-07-29T01:33:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 清除六組跨文污染並校準 M4 受管驗收",
+      "articles": []
+    },
+    {
+      "hash": "9288bd5207cc0d399e4211362a1eb1e1dfb4fa8c",
+      "date": "2026-07-29T01:10:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "20d1dac5e25e48a8caa6cc3918be192c11801da8",
+      "date": "2026-07-29T00:43:21+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fleet: M4 巡檢文案跟隨控制面",
+      "articles": []
+    },
+    {
+      "hash": "761d85145af07d38e9a7c05e4cc7cafd23b115ad",
+      "date": "2026-07-29T00:29:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "bab867d56d474aa23f0436b9e9e40f172fd5c42f",
+      "date": "2026-07-29T00:26:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: QA fail 不再殺死 Babel dispatcher",
+      "articles": []
+    },
+    {
+      "hash": "c4ebd942e289894be04df1ab44f75617382997c2",
+      "date": "2026-07-29T00:09:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "5f574e9fe651cb9eec88198eb174ba3a6fe89bdc",
+      "date": "2026-07-28T23:24:34+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "50615b264a249cc93d1b00d08057605b9e732d18",
+      "date": "2026-07-28T23:23:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 接住結構化腳註的單層包裝",
+      "articles": []
+    },
+    {
+      "hash": "38c1e70bfc413d871ae4954d7961e8cd533e640d",
+      "date": "2026-07-28T23:08:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "50b502596ad366583e857dda7b570d62ed2cf13c",
+      "date": "2026-07-28T22:24:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "936b559f65cd5d7f3f1937f7fe66ad8b815970be",
+      "date": "2026-07-28T22:23:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] evolve: 零產物改走結構化翻譯",
+      "articles": []
+    },
+    {
+      "hash": "9c2fbc244f30446122efee97b18f15b497d1aa9b",
+      "date": "2026-07-28T22:08:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "661c0a9539cf1bfd9ad61ab6fcfb78e304fa587b",
+      "date": "2026-07-28T21:26:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 讓脈搏快照不再中斷產線",
+      "articles": []
+    },
+    {
+      "hash": "1925b1cad51d3371097c7fea57f7b31065420770",
+      "date": "2026-07-28T21:25:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "17746f27aa2a08de7e8cb8a32c867370bf59424c",
+      "date": "2026-07-28T21:24:37+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] heal: 安全修正巴別塔腳註格式",
+      "articles": []
+    },
+    {
+      "hash": "2a0fce3d9958e68a2795b93508a0b8b7dc948172",
+      "date": "2026-07-28T21:22:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: en 批次 7 篇（unified dispatcher, worker=desktop30902+desktop30903+laptop40901+laptop40902）",
+      "articles": []
+    },
+    {
+      "hash": "a4aed0a061be15f509c932c2e5bedfd747fd4dec",
+      "date": "2026-07-28T21:12:31+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: id 批次 6 篇（unified dispatcher, worker=nemo+nemo2+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "2eba1c1929b80ede2977bc1d56775df781dc85d5",
+      "date": "2026-07-28T21:09:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: pt 批次 7 篇（unified dispatcher, worker=nemo+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "ef9e349126c4031e75f2f2ce4798957280c2fd8b",
+      "date": "2026-07-28T21:09:00+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ja 批次 5 篇（unified dispatcher, worker=nemo+nemo3）",
+      "articles": []
+    },
+    {
+      "hash": "4845e7005f867e79c197047785977c4e903d01da",
+      "date": "2026-07-28T21:07:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "fc3badef233fee1b0ae50425480b70bc4bd25eac",
+      "date": "2026-07-28T20:26:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "e68b7a257f33b4dd4e1c80a82151c35c2ddb7ed8",
+      "date": "2026-07-28T20:26:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "fix(babel): make vortex check read-only",
+      "articles": []
+    },
+    {
+      "hash": "4bec6378fc5379bed78c2ebcafd36682f9979e27",
+      "date": "2026-07-28T20:06:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "545c966e7677436122fa7ea407d2bc97ab1999bf",
+      "date": "2026-07-28T19:28:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "5a3647d10f16023082a9b0bc1f62f78ea55987bf",
+      "date": "2026-07-28T19:23:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 接上 link-target 機械修復",
+      "articles": []
+    },
+    {
+      "hash": "76fb719f2c765db1bc2a3317c69bd2f2f9aaea48",
+      "date": "2026-07-28T19:06:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "2a57b0940c2893d9d1710ef561e77fd88bdddb62",
+      "date": "2026-07-28T18:51:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 地端接案收斂 fleet 抽象層",
+      "articles": []
+    },
+    {
+      "hash": "50b3fe7960b616ad8e7bb05de83f1a5e35433570",
+      "date": "2026-07-28T18:29:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "5a159dac70687a5e6b6bbfc54430db8beb7d0df3",
+      "date": "2026-07-28T18:27:17+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] media: 補齊吳明益部署圖片落檔",
+      "articles": []
+    },
+    {
+      "hash": "ab2dedbd84c0881142ce90e79471319e3bad249a",
+      "date": "2026-07-28T18:27:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 修復 health 病灶解析與部署圖片落檔",
+      "articles": []
+    },
+    {
+      "hash": "fdd06c978e49a2aba0b2a1134076725fa11d6685",
+      "date": "2026-07-28T18:15:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] polish: 吳明益 description 達 100 字",
+      "articles": []
+    },
+    {
+      "hash": "a00036cf6c887a5605acf1c27b7c9b550943b6ac",
+      "date": "2026-07-28T18:15:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] polish: 吳明益 description 補到 100 字門檻",
+      "articles": []
+    },
+    {
+      "hash": "223ca2d58efaa27bcf09162b7a0b878c78c71875",
+      "date": "2026-07-28T18:15:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] polish: 吳明益 description 拉到 SEO 下限",
+      "articles": []
+    },
+    {
+      "hash": "a28ab12e7d9a807c9b67d30d0d0fe9605643a363",
+      "date": "2026-07-28T18:15:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 吳明益補齊完整驗證與 data-viz",
+      "articles": []
+    },
+    {
+      "hash": "004fa77388cbc16a2286fec45eb77ccda5807650",
+      "date": "2026-07-28T18:05:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "2eca0c5b317be58d78c9702a1b828e242cb0568b",
+      "date": "2026-07-28T18:02:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 吳明益 — 用複眼把消失的台灣寫回來",
+      "articles": []
+    },
+    {
+      "hash": "138f129e5ec65274e910e0bd6697aa77fa39e27d",
+      "date": "2026-07-28T17:54:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] media: 吳明益 CC 圖三張 + 投影編輯室 pass",
+      "articles": []
+    },
+    {
+      "hash": "9a288e7253ee37f743330a3ab642687d8d30300c",
+      "date": "2026-07-28T17:54:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] research+media: 吳明益 Stage 1B 媒體三表與投影藍圖",
+      "articles": []
+    },
+    {
+      "hash": "7abf4a9de842f381e2c4e16824ad26aafba01b9e",
+      "date": "2026-07-28T17:51:55+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] research: 吳明益 Stage 1 三路合成 — 115 源、單車 2015 校正、布克 longlist",
+      "articles": []
+    },
+    {
+      "hash": "818ed893a07071e1ee97adc7217ad9a924f3ef63",
+      "date": "2026-07-28T17:44:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] research: 吳明益 Stage 0 觀點成型 — 立體群像／複眼方法論",
+      "articles": []
+    },
+    {
+      "hash": "6f2f8a66c91cf478108ae6f7907546f530ca4e5e",
+      "date": "2026-07-28T17:21:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 新文章動保補上多語網址鍵",
+      "articles": []
+    },
+    {
+      "hash": "5acd7d520e8416c2d3c8e01556e75f3b5b0de362",
+      "date": "2026-07-28T17:20:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 依近兩日實績切開弱適配語言軌",
+      "articles": []
+    },
+    {
+      "hash": "3a436b07006ab0a4b6113a8ba710200f264be9f1",
+      "date": "2026-07-28T17:19:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] fix: 未過閘門的孤兒譯文不再灌水覆蓋率",
+      "articles": []
+    },
+    {
+      "hash": "9eab89e066e61fb3ad0bd7ac3eab774f37717b13",
+      "date": "2026-07-28T15:03:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "fe146bc65d620275acc11601574633e1c921773c",
+      "date": "2026-07-28T14:02:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "c5444fa0ab3f86c9e75c9f9c0f708d1cd4d9119f",
+      "date": "2026-07-28T13:01:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "3eea1f63df7711167654ea14db03fb494db94c54",
+      "date": "2026-07-28T11:38:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 我讀的是平均欄，沒讀括號",
+      "articles": []
+    },
+    {
+      "hash": "bf8f6e3898d06f33f75b338ea8c0e24a7ae213ba",
+      "date": "2026-07-28T11:36:28+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 苯駢芘三輪收官 — 六個席位命中六次，我自己的重讀零次",
+      "articles": []
+    },
+    {
+      "hash": "43ce3d0a1e9fb8ab564f5ff3046b041f855a5019",
+      "date": "2026-07-28T11:32:30+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 苯駢芘 EVOLVE — 官方調查來了，但它回答的不是這篇文章問的那題",
+      "articles": []
+    },
+    {
+      "hash": "98c8aa4a273c7bb56c90af792062239df881ce9d",
+      "date": "2026-07-28T11:14:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "bee5700ed400fe79f7485a999a9a8b6985134abf",
+      "date": "2026-07-28T10:57:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] rewrite: 苯駢芘 EVOLVE 前段落地 — 研究、一手 PDF、投影藍圖與編輯室",
+      "articles": []
+    },
+    {
+      "hash": "7f0ba4c7a20807f9963b469d9beae4e3bfc28903",
+      "date": "2026-07-28T10:40:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 我寫了一支監看去證明別人還活著，它量的其實是我有沒有權限",
+      "articles": []
+    },
+    {
+      "hash": "8167c619912c6161c0fe6c4896aefe28b6db160b",
+      "date": "2026-07-28T10:39:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: vortex-babel-8 收官——診斷取代重啟，27 篇文章從死結裡出來",
+      "articles": []
+    },
+    {
+      "hash": "01407ad65ada3ebc73344b64fb911aaf4399db08",
+      "date": "2026-07-28T10:39:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "Merge origin/main — 苯駢芘孢子收官與夜間 routine 匯流",
+      "articles": []
+    },
+    {
+      "hash": "c05b2e9400729a357ac1dfa6af4d22706bc5bfb4",
+      "date": "2026-07-28T10:36:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] chore: 收養渦流停線後留下的兩份孤兒衍生產出",
+      "articles": []
+    },
+    {
+      "hash": "0badd538cbb31c5cc1f4316d49a93f4fec84d46b",
+      "date": "2026-07-28T10:33:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] diary: 我在那一欄填了十一個「否」，然後違反它三次",
+      "articles": []
+    },
+    {
+      "hash": "382ea0faac46aaa66155f17864bf01eebf39572a",
+      "date": "2026-07-28T10:32:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 渦流暫停——停線前收下 41 篇、脈搏定格",
+      "articles": []
+    },
+    {
+      "hash": "3d3b12abd21ef89f366e0a8ea4e7f50527238c58",
+      "date": "2026-07-28T10:32:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 搶救 41 篇孤兒譯文",
+      "articles": []
+    },
+    {
+      "hash": "0d7a1cbd2ed9b4f29ac9f8f41c1cb8ebaab93793",
+      "date": "2026-07-28T10:31:08+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 苯駢芘孢子收官 — 壓縮不是節選是改寫",
+      "articles": []
+    },
+    {
+      "hash": "38c42210575fe89cfccbb9d3de30810bed065a0e",
+      "date": "2026-07-28T10:30:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: id 批次 8 篇（unified dispatcher, worker=nemo+nemo2+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "659468f6aa5ea5dd8aed26981429d5a13f12d2c4",
+      "date": "2026-07-28T10:26:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: fr 批次 5 篇（unified dispatcher, worker=mac）",
+      "articles": []
+    },
+    {
+      "hash": "c582c6c39d121f39d7cc1c7e322fda6e0f5f6013",
+      "date": "2026-07-28T10:13:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "d22f6eea9444fa6234b800bcd92c9074c4d68691",
+      "date": "2026-07-28T10:09:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: hi 批次 11 篇（unified dispatcher, worker=nemo+nemo2+nemo3）",
+      "articles": []
+    },
+    {
+      "hash": "f1c371ea4a157295384c66c320e7d69fa3e606de",
+      "date": "2026-07-28T10:05:32+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ar 批次 13 篇（unified dispatcher, worker=nemo+nemo2+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "b017c37e02e3cff44bd8c5f54fad57cf118cfed3",
+      "date": "2026-07-28T10:03:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: hi 批次 5 篇（unified dispatcher, worker=mac）",
+      "articles": []
+    },
+    {
+      "hash": "1d9eb62332cff3049b05efb6bcdb9cbbaa66b1b9",
+      "date": "2026-07-28T09:59:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: vi 批次 38 篇（unified dispatcher, worker=laguna+laguna2+laguna3）",
+      "articles": []
+    },
+    {
+      "hash": "3333720f0dd94ba3a67d829c349b0dcbc53a5ef5",
+      "date": "2026-07-28T09:58:10+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: fr 批次 8 篇（unified dispatcher, worker=d3090+l4090）",
+      "articles": []
+    },
+    {
+      "hash": "eed6fc9fc80d6bdc7159ccdf0032499fbd168618",
+      "date": "2026-07-28T09:57:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ru 批次 19 篇（unified dispatcher, worker=nemo+nemo2+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "064897c0d187a58d57a32474972942924788438f",
+      "date": "2026-07-28T09:51:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ko 批次 4 篇（unified dispatcher, worker=mac）",
+      "articles": []
+    },
+    {
+      "hash": "b6be55013141df0b5ce98b5c93f072244d0005d4",
+      "date": "2026-07-28T09:39:38+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-flywheel-watch: 飛輪在轉，黃燈是感知層自己的鏡子過期",
+      "articles": []
+    },
+    {
+      "hash": "f8fe84f771b2b1302a23db8933eaccfeaf50eb10",
+      "date": "2026-07-28T09:37:35+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: pt 批次 19 篇（unified dispatcher, worker=nemo+nemo2+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "e89394a4fc83d1fca230f30aa23b3e17b9f5a76e",
+      "date": "2026-07-28T09:19:57+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: es 批次 5 篇（unified dispatcher, worker=mac）",
+      "articles": []
+    },
+    {
+      "hash": "35d36305ae1999dae21996e40324bc8128974dbb",
+      "date": "2026-07-28T09:12:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "4c4cf08202137e5b26a2cadfc6c559c646347879",
+      "date": "2026-07-28T08:55:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-daily @ 2026-07-28 08:40 — 動保.md merge-first + heal，修好一個壞掉的維基連結",
+      "articles": []
+    },
+    {
+      "hash": "18460e84a4360b3461caf127b49249e9c4762927",
+      "date": "2026-07-28T08:45:33+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: 動保.md 補 subcategory/featured + 修壞掉的十二夜維基連結",
+      "articles": []
+    },
+    {
+      "hash": "74ae93973479e2063418cb6f3ae112e7a215b226",
+      "date": "2026-07-28T08:43:55+08:00",
+      "author": "idlccp1984",
+      "message": "Create 動保.md (#1270)",
+      "articles": []
+    },
+    {
+      "hash": "af8fa5051245629cf2b558f6367a3051310a8a4d",
+      "date": "2026-07-28T08:16:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: vi 批次 22 篇（unified dispatcher, worker=laguna+laguna2+laguna3）",
+      "articles": []
+    },
+    {
+      "hash": "289caaa24276dc44fd50843ad8b6c3de44357f61",
+      "date": "2026-07-28T08:11:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "3dc53f9cfab4b7b427b3c0571d26e82dc0691391",
+      "date": "2026-07-28T08:10:12+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: fr 批次 3 篇（unified dispatcher, worker=mac）",
+      "articles": []
+    },
+    {
+      "hash": "cf8b67587db1917276b33030632cbc7142735c41",
+      "date": "2026-07-28T08:10:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: id 批次 6 篇（unified dispatcher, worker=nemo+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "2735a4362550f472447eba1f8c08f2cc5938ae51",
+      "date": "2026-07-28T08:08:23+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ar 批次 9 篇（unified dispatcher, worker=nemo+nemo2+nemo3）",
+      "articles": []
+    },
+    {
+      "hash": "66008e206b3f63a36e632b61e98e76d1ff4c27b4",
+      "date": "2026-07-28T08:00:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ru 批次 4 篇（unified dispatcher, worker=nemo2+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "1763a4cd882cbf1d21ebf1e2c228d2c0e959977d",
+      "date": "2026-07-28T07:58:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: hi 批次 12 篇（unified dispatcher, worker=nemo+nemo2+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "b4f4d89de95c5b08b136d228239ee8ddd627a65f",
+      "date": "2026-07-28T07:48:29+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: pt 批次 3 篇（unified dispatcher, worker=mac）",
+      "articles": []
+    },
+    {
+      "hash": "a9ae73c37085a896ce0498cdc417f8949c00ad4a",
+      "date": "2026-07-28T07:46:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: pt 批次 11 篇（unified dispatcher, worker=nemo+nemo2+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "f37f7891387e2f790e323717c73f106172f658af",
+      "date": "2026-07-28T07:17:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: en 批次 3 篇（unified dispatcher, worker=d3090+l4090）",
+      "articles": []
+    },
+    {
+      "hash": "32299a0f21b9e5fc030e1bd2d9944c09d3e00902",
+      "date": "2026-07-28T07:10:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-feedback-triage @ 2026-07-28 07:09 — 隊列連續第三天空，非斷線",
+      "articles": []
+    },
+    {
+      "hash": "7ac33d61a3cd46f1d6c8b1d9802f650cb992134e",
+      "date": "2026-07-28T07:10:09+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "636c22814b955819d55f2dcc240c559f442589c7",
+      "date": "2026-07-28T06:43:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-07-28 06:42 — 6 events, 1 escalation",
+      "articles": []
+    },
+    {
+      "hash": "72229f102405cfb2f914a216c26a8e9f9463e4df",
+      "date": "2026-07-28T06:43:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: vi 批次 11 篇（unified dispatcher, worker=laguna+laguna2+laguna3）",
+      "articles": []
+    },
+    {
+      "hash": "4e1a94b2dfc90d14d23e5785c6ae17805b26553f",
+      "date": "2026-07-28T06:42:16+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest-am: 6 events harvested — 465K reach spike + 1 escalation",
+      "articles": []
+    },
+    {
+      "hash": "c3b83d05f73d27478d24a1f12334aee148dc35e4",
+      "date": "2026-07-28T06:28:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ru 批次 8 篇（unified dispatcher, worker=nemo+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "d99a4e4011d7b2ff0b33c36aabeb12d400b8c219",
+      "date": "2026-07-28T06:20:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: es 批次 4 篇（unified dispatcher, worker=l4090）",
+      "articles": []
+    },
+    {
+      "hash": "38030fd6a6a485f389f6f4800c83d6a6a059ad80",
+      "date": "2026-07-28T06:20:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ko 批次 8 篇（unified dispatcher, worker=d3090+l4090）",
+      "articles": []
+    },
+    {
+      "hash": "19a3aa5f4200f122d78bdc0b506d699c8c714477",
+      "date": "2026-07-28T06:18:02+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ar 批次 9 篇（unified dispatcher, worker=nemo+nemo2+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "fe5efcbfc8a8f5f1d0be2c08a8c4e81cb5f21a0c",
+      "date": "2026-07-28T06:15:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-07-28 06:14 — 14 步全綠，零 stale",
+      "articles": []
+    },
+    {
+      "hash": "528daebb2b1fe611b01685fea3e8b2fcd13b3a3b",
+      "date": "2026-07-28T06:14:18+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-data-refresh-am: 每日資料刷新 — 文章 867、本週新增 14",
+      "articles": []
+    },
+    {
+      "hash": "4c2531e09b12b9978e8a7066f8101555daf82208",
+      "date": "2026-07-28T06:09:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "2518be7c2a8f1a9556caa0c654aba9ac15d419c2",
+      "date": "2026-07-28T05:57:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: pt 批次 12 篇（unified dispatcher, worker=nemo+nemo3+nemo4）",
+      "articles": []
+    },
     {
       "hash": "eabdc08223018820cd2515c3769f4b6669ddf79a",
       "date": "2026-07-28T05:39:17+08:00",
@@ -17,6 +871,13 @@
       "articles": []
     },
     {
+      "hash": "1b098b6a0523b19a700315003126e61d3a4cd698",
+      "date": "2026-07-28T05:31:46+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: hi 批次 7 篇（unified dispatcher, worker=nemo3+nemo4）",
+      "articles": []
+    },
+    {
       "hash": "51a7ca735932219601b3ca6ebf1e0a20b2126644",
       "date": "2026-07-28T05:31:42+08:00",
       "author": "Che-Yu Wu",
@@ -28,6 +889,139 @@
       "date": "2026-07-28T05:31:24+08:00",
       "author": "Che-Yu Wu",
       "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-07-28 (12 langs, 7642 vecs)",
+      "articles": []
+    },
+    {
+      "hash": "6c2fd7499a7cf02e93b64ab91dd8a77cc80950c8",
+      "date": "2026-07-28T05:08:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "3bb81d05cc2cf73b9f0898909d612405eef0f796",
+      "date": "2026-07-28T04:47:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ru 批次 9 篇（unified dispatcher, worker=nemo+nemo2+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "fe9a7dd53a563264fd35469206619eb85fb55112",
+      "date": "2026-07-28T04:44:42+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: id 批次 4 篇（unified dispatcher, worker=mac）",
+      "articles": []
+    },
+    {
+      "hash": "a2e068fd753db462c5840fd6d41a96469279c298",
+      "date": "2026-07-28T04:37:47+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: vi 批次 9 篇（unified dispatcher, worker=laguna+laguna2+laguna3）",
+      "articles": []
+    },
+    {
+      "hash": "45731cc5438b3f57f2f366fb9109929b1297ed7b",
+      "date": "2026-07-28T04:34:06+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: fr 批次 6 篇（unified dispatcher, worker=d3090+l4090）",
+      "articles": []
+    },
+    {
+      "hash": "956203bd931e0f24648476b843f598c39aed98ee",
+      "date": "2026-07-28T04:24:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ar 批次 7 篇（unified dispatcher, worker=nemo+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "bdfcc0f915471d5511a4d9615adbf9d4ce31fcf1",
+      "date": "2026-07-28T04:07:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: pt 批次 11 篇（unified dispatcher, worker=nemo+nemo2+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "52049b7f9681a9d6fb72733ba1f751368beb3d9a",
+      "date": "2026-07-28T04:06:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "44fcc812efea5b4f727c36b7e69babb358d1e2f9",
+      "date": "2026-07-28T03:43:51+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: en 批次 4 篇（unified dispatcher, worker=l4090）",
+      "articles": []
+    },
+    {
+      "hash": "a64de11ac23519af574d5f2e14a40d4219989776",
+      "date": "2026-07-28T03:16:15+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: hi 批次 3 篇（unified dispatcher, worker=nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "05f23d104c4233e9d1090ec017b627a589f86cd5",
+      "date": "2026-07-28T03:07:27+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: ru 批次 8 篇（unified dispatcher, worker=nemo+nemo2+nemo3+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "2434cf8ce7a0c92fcde86bb7d1d4f50a33f0a8a5",
+      "date": "2026-07-28T03:05:54+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "42a9365a40f339882d5b1fa2fcb991cc897f808a",
+      "date": "2026-07-28T02:39:01+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: es 批次 3 篇（unified dispatcher, worker=l4090）",
+      "articles": []
+    },
+    {
+      "hash": "dbb4d4709e20efed119d60c69f39d9941bf56a72",
+      "date": "2026-07-28T02:11:22+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: fr 批次 3 篇（unified dispatcher, worker=mac）",
+      "articles": []
+    },
+    {
+      "hash": "beec0ef444a027a1c9160bb65f241366ba564362",
+      "date": "2026-07-28T02:04:52+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "f91cdff924a3c711a9365b9c1a2223dd8fe894be",
+      "date": "2026-07-28T01:54:56+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: pt 批次 3 篇（unified dispatcher, worker=nemo2+nemo4）",
+      "articles": []
+    },
+    {
+      "hash": "aa468836e96cee08fe4b8e6a85c3aec7fa33a782",
+      "date": "2026-07-28T01:03:49+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "af1d3f267d361c25c7c4c97aea501fc826ac4896",
+      "date": "2026-07-28T00:02:43+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
+      "articles": []
+    },
+    {
+      "hash": "f6eafd4ee6eec0686b5c006963d048b776336295",
+      "date": "2026-07-27T23:01:36+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] babel: 脈搏儀器整點落地（15 分鐘粒度快照與看板）",
       "articles": []
     },
     {

@@ -23,7 +23,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **867 curated articles** (zh-TW SSOT) across 14 categories — projected to **12 languages** = 10,404 article-versions
+- 📖 **868 curated articles** (zh-TW SSOT) across 14 categories — projected to **12 languages** = 10,416 article-versions
 - 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी + العربية + Русский — 12 languages (2026-07-25 主權的巴別塔加入 ar/ru，站上首次 RTL)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
@@ -95,21 +95,21 @@ a human — that boundary is the design, not a limitation. The full contract is
 
 | Metric                         | Count |
 | ------------------------------ | ----- |
-| 📄 Total articles (zh-TW SSOT) | 867   |
-| 🇹🇼 Chinese (zh-TW)             | 867   |
-| 🇺🇸 English (en)                | 846   |
-| 🇯🇵 日本語 (ja)                 | 859   |
-| 🇰🇷 한국어 (ko)                 | 862   |
-| 🇪🇸 Español (es)                | 863   |
-| 🇫🇷 Français (fr)               | 865   |
+| 📄 Total articles (zh-TW SSOT) | 868   |
+| 🇹🇼 Chinese (zh-TW)             | 868   |
+| 🇺🇸 English (en)                | 857   |
+| 🇯🇵 日本語 (ja)                 | 865   |
+| 🇰🇷 한국어 (ko)                 | 865   |
+| 🇪🇸 Español (es)                | 866   |
+| 🇫🇷 Français (fr)               | 868   |
 | 📂 Categories                  | 14    |
 | 🕸️ Knowledge graph nodes       | 220+  |
 | 🔗 Resource websites           | 146+  |
 | 👥 Contributors                | 67    |
-| ⭐ GitHub Stars                | 1120  |
+| ⭐ GitHub Stars                | 1121  |
 | 🍴 Forks                       | 167   |
-| 📅 Articles last 7 days        | 14    |
-| 📅 Articles last 30 days       | 234   |
+| 📅 Articles last 7 days        | 16    |
+| 📅 Articles last 30 days       | 235   |
 
 <!-- STATS:END -->
 

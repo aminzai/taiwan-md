@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T22:13:20.363Z",
+  "lastUpdated": "2026-07-28T22:13:11.588Z",
   "totals": {
     "contributors": 67,
     "activeWindow": "last 30d"
@@ -7,25 +7,25 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 6339,
+      "commits": 6482,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-07-28 05:39:17 +0800",
+      "lastCommitAt": "2026-07-29 05:39:14 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 530,
-        "system": 3744,
-        "translation": 958
+        "content": 563,
+        "system": 3778,
+        "translation": 977
       }
     },
     {
       "login": "idlccp1984",
-      "commits": 203,
+      "commits": 204,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-07-26 08:42:18 +0800",
+      "lastCommitAt": "2026-07-28 08:43:55 +0800",
       "primaryArea": "content",
       "breakdown": {
         "content": 10,
@@ -760,11 +760,11 @@
   "topContent": [
     {
       "login": "idlccp1984",
-      "commits": 203,
+      "commits": 204,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-07-26 08:42:18 +0800",
+      "lastCommitAt": "2026-07-28 08:43:55 +0800",
       "primaryArea": "content",
       "breakdown": {
         "content": 10,
@@ -790,16 +790,16 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 6339,
+      "commits": 6482,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-07-28 05:39:17 +0800",
+      "lastCommitAt": "2026-07-29 05:39:14 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 530,
-        "system": 3744,
-        "translation": 958
+        "content": 563,
+        "system": 3778,
+        "translation": 977
       }
     },
     {

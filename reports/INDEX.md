@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-07-28 06:13
+last_generated: 2026-07-29 06:13
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,36 +12,36 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-07-28 06:13** · 頂層 \*.md 共 **247** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-07-29 06:13** · 頂層 \*.md 共 **247** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
 | Subdir                  | Files | Size     | 用途                                                 |
 | ----------------------- | ----: | -------- | ---------------------------------------------------- |
-| `research/`             |   463 | 21.7 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
-| `editorial-room/`       |    55 | 379.7 KB | —                                                    |
+| `research/`             |   470 | 24.1 MB  | REWRITE-PIPELINE Stage 1 canonical (year-month 分槽) |
+| `editorial-room/`       |    58 | 399.6 KB | —                                                    |
+| `article-evolve/`       |    30 | 1.1 MB   | —                                                    |
 | `archive/`              |    28 | 372.2 KB | 歸檔位置 (per audit Layer 4)                         |
-| `article-evolve/`       |    28 | 1.0 MB   | —                                                    |
 | `weekly/`               |    24 | 4.5 MB   | Self-evolve weekly digest                            |
-| `article-projection/`   |    18 | 305.1 KB | —                                                    |
+| `article-projection/`   |    20 | 330.0 KB | —                                                    |
+| `routine-prompt-drift/` |    10 | 29.9 KB  | —                                                    |
 | `factcheck/`            |     9 | 98.7 KB  | —                                                    |
 | `babel-tier4/`          |     8 | 5.5 KB   | —                                                    |
-| `routine-prompt-drift/` |     8 | 22.6 KB  | —                                                    |
 | `babel-quarantine/`     |     7 | 268.0 KB | —                                                    |
 | `probe/`                |     6 | 69.8 KB  | BECOME §Step 7 探測器報告                            |
 | `babel-jobs/`           |     5 | 246.4 KB | —                                                    |
 | `babel-patches/`        |     5 | 3.4 MB   | —                                                    |
 | `translation-research/` |     5 | 338.0 KB | 巴別塔 5 lang research                               |
 | `ab-tests/`             |     4 | 69.2 KB  | Editorial v6 A/B test                                |
-| `babel/`                |     4 | 1.6 MB   | —                                                    |
+| `babel/`                |     4 | 2.5 MB   | —                                                    |
 | `music-media-audit/`    |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
 | `news-lens/`            |     3 | 59.0 KB  | —                                                    |
 | `terminology-review/`   |     3 | 1.7 MB   | —                                                    |
-| `404-monitor/`          |     2 | 86.0 KB  | —                                                    |
+| `404-monitor/`          |     2 | 81.5 KB  | —                                                    |
 | `fork-census/`          |     2 | 36.2 KB  | —                                                    |
 | `harvest/`              |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
 | `audit/`                |     1 | 20.7 KB  | —                                                    |
-| `newsroom/`             |     1 | 85.1 KB  | —                                                    |
+| `newsroom/`             |     1 | 86.4 KB  | —                                                    |
 | `visual/`               |     1 | 5.7 KB   | Visual smoke test 基線 (partial gitignored)          |
 
 ## 🏷️ By type (頂層 \*.md only)
