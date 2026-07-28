@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-28T21:09:00+08:00",
-    "zhCommitHead": "4845e7005",
+    "lastUpdated": "2026-07-28T21:09:17+08:00",
+    "zhCommitHead": "ef9e34912",
     "totalZh": 870,
     "activeLanguages": [
       "en",
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 870,
-        "fresh": 651,
+        "fresh": 652,
         "stale": 7,
         "metadata_stale": 0,
-        "missing": 212,
+        "missing": 211,
         "orphan": 0
       },
       "hi": {
@@ -78864,8 +78864,8 @@
           "sourceContentHash": "sha256:29ee16f25cde68b4",
           "sourceBodyHash": "sha256:fa9994749dd8a224",
           "translatedAt": "2026-07-28T19:24:14+08:00",
-          "translationLastCommit": "fd678fd2",
-          "translationLastModified": "2026-07-25T10:32:02+08:00",
+          "translationLastCommit": "ef9e3491",
+          "translationLastModified": "2026-07-28T21:09:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -105295,7 +105295,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/dalongdong.md",
+          "translatedFrom": "Geography/大龍峒.md",
+          "sourceCommitSha": "fe48ea49d",
+          "sourceContentHash": "sha256:6d18e9e22ea3f7db",
+          "sourceBodyHash": "sha256:53b18682028046a0",
+          "translatedAt": "2026-07-28T19:24:16+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 45,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -116589,8 +116600,8 @@
           "sourceContentHash": "sha256:01da220d6681931b",
           "sourceBodyHash": "sha256:71edee5e89546764",
           "translatedAt": "2026-07-28T19:24:14+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "ef9e3491",
+          "translationLastModified": "2026-07-28T21:09:00+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "status": "fresh",
