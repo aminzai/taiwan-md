@@ -21,6 +21,7 @@ from __future__ import annotations
 import argparse
 import subprocess
 import sys
+from datetime import datetime
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent.parent.parent
@@ -100,6 +101,11 @@ def main() -> int:
     ap.add_argument("--exclude", nargs="*", default=["苯駢芘"],
                     help="排除關鍵字（並行 session 正在寫的檔案）")
     ap.add_argument("--limit", type=int, default=0, help="只驗前 N 篇（測試用）")
+    ap.add_argument(
+        "--quarantine-failed",
+        action="store_true",
+        help="把未過 gate 的衍生檔移到 /tmp 隔離，避免 status.py 誤算 fresh",
+    )
     args = ap.parse_args()
 
     items = orphans(args.exclude)
@@ -120,6 +126,25 @@ def main() -> int:
     print(f"\n▸ 通過 {len(passed)} / 擋下 {sum(len(v) for v in failed.values())}")
     for reason, ps in sorted(failed.items(), key=lambda kv: -len(kv[1])):
         print(f"   {len(ps):3}  {reason}")
+
+    if failed and args.quarantine_failed:
+        # 未過 gate 的 untracked 譯文若留在 knowledge/，status.py 仍會把它們
+        # 算成 fresh，dispatcher 也就看不到原本的 missing 任務。搬到 /tmp
+        # 保留診斷樣本，同時讓缺口回到誠實狀態；不用 unlink，避免丟掉已燒算力。
+        qroot = Path("/tmp") / (
+            "babel-rejected-orphans-" + datetime.now().strftime("%Y%m%d-%H%M%S")
+        )
+        moved = 0
+        for ps in failed.values():
+            for rel in ps:
+                src = REPO / rel
+                if not src.exists():
+                    continue
+                dst = qroot / rel
+                dst.parent.mkdir(parents=True, exist_ok=True)
+                src.replace(dst)
+                moved += 1
+        print(f"🧪 已隔離 {moved} 篇未過 gate 的衍生檔：{qroot}")
 
     if passed and args.commit:
         # 精確路徑 add——絕不 `git add -A`，工作區有並行 session 的檔案
