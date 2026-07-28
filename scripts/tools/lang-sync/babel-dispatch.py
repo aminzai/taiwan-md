@@ -903,8 +903,14 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
     #
     # 只在「沒有任何產物」時啟用；已有輸出但 gate fail 的條件式 fallback
     # 留待這一小步有實績後再擴，避免一次改兩個變因。
+    # `translate.py` 已完成 backend discovery 且明確印出 Available: [] 時，
+    # 換 structured 引擎仍會打同一個不可達 endpoint。2026-07-29 實跑 18 次
+    # 都在首段 10 秒 fail 後再白等約 150 秒，成功 0；這不是「換翻譯路徑」
+    # 能救的輸出失敗，而是沒有算力可呼叫。保留 no-output/freeze 訊號，等
+    # dispatcher 下一輪再試；不要用同一 worker 立即重複一個已知不可能的呼叫。
+    backend_unavailable = "Available: []" in proc.stdout
     if (not target_changed() and engine != "structured"
-            and engine_label != "patch"):
+            and engine_label != "patch" and not backend_unavailable):
         structured_fallback = True
         scmd = [
             "python3", "-u", "scripts/tools/lang-sync/structured-translate.py",
@@ -942,7 +948,11 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
         fail_reason = "patch candidate rejected by verify trio (exit=1)"
     elif not produced_by_backend:
         disposition = restore_head_or_quarantine(trans_path, log)
-        ok, fail_reason = False, f"no output written by translate.py (exit={proc.returncode})"
+        if backend_unavailable:
+            fail_reason = f"no backend available to translate.py (exit={proc.returncode})"
+        else:
+            fail_reason = f"no output written by translate.py (exit={proc.returncode})"
+        ok = False
     else:
         # Normalize with prettier BEFORE the verify trio, so the gates measure
         # the same bytes the commit-time hook will see: .lintstagedrc runs

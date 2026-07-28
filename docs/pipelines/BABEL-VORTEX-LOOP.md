@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.13)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.14)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.13'
+current_version: 'v1.14'
 last_updated: 2026-07-29
-last_session: '2026-07-29-vortex-output-provenance'
+last_session: '2026-07-29-vortex-unavailable-backend'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.13
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.14
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,12 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.14（2026-07-29）：停止對明確不可用的同一端點做 structured fallback。
+  v1.13 修正產物歸因後，4090 瞬斷會正確顯示 `Available: []` 並走 structured；
+  但 structured 仍使用同一個不可達 endpoint，本輪 18 次失敗全都在首段約
+  10 秒後再白等約 150 秒，成功 0。現在只有「backend 可用但沒產物」才換
+  structured 路徑；明確無 backend 時直接記 `no backend available` 並進
+  worker freeze 計數，下一輪再試。QA gate 與正常 fallback 條件均未放寬。
 - v1.13（2026-07-29）：修正全文引擎的產物歸因。stale 任務本來就有舊譯文，
   4090 endpoint 瞬斷時 `translate.py` 顯示 `Available: []`、模型呼叫 0 次、
   exit=1，dispatcher 卻只用「target 路徑存在」判定本次有產物，再拿舊檔跑
