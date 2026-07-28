@@ -343,3 +343,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-28 | 061446-twmd-data-refresh-am | 晨間 14 步刷新全綠：三源感知（CF 1.02M req／GA／SC）＋dashboard 全套重生＋GitHub stats；Step 11 freshness gate 零 stale | 免疫黃燈 60 持平非新退化；連續全綠仍要記一行留基線 | [→](memory/2026-07-28-061446-twmd-data-refresh-am.md) |
 | 2026-07-28 | 064254-twmd-spore-harvest-am | 6 events harvest；鎢供應鏈 D+2 衝到 465K，讀者留言把文章主角連到真實命案＋兩岸政治暴力揣測，未修文未回覆，寫進 HARVEST-FRAMING-PENDING 等哲宇拍板 | §自主權邊界不只防我寫過火，也要防讀者滑到我不該追認的地方時選擇不表態 | [→](memory/2026-07-28-064254-twmd-spore-harvest-am.md) |
 | 2026-07-28 | 070915-twmd-feedback-triage | 隊列連續第三天空（file=0），Supabase REST 對賬確認最新紀錄仍是 07-24 同一筆；archive-scanned=38 synced=0，working tree 全程乾淨 | 四天完整靜默窗屬讀者回報入口本身樣本稀薄，非系統故障 | [→](memory/2026-07-28-070915-twmd-feedback-triage.md) |
+| 2026-07-28 | 085436-twmd-maintainer-daily | PR #1270 動保.md merge-first + heal（frontmatter + 壞掉的維基連結修復）；#1268 續 blocked；4 issue SKIP | 同一貢獻者不同篇腳註品質可以天差地遠，判斷要逐篇看證據不能套人；merge-first+heal 模式連兩天驗證，非巧合 | [→](memory/2026-07-28-085436-twmd-maintainer-daily.md) |
