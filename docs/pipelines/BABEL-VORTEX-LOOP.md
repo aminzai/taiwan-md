@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.2)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.3)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.2'
+current_version: 'v1.3'
 last_updated: 2026-07-28
-last_session: '2026-07-28-vortex-link-target-heal'
+last_session: '2026-07-28-vortex-readonly-check'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.2
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.3
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,10 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.3（2026-07-28）：修正 `restart-vortex.sh --check` 的語意漏洞。舊版雖在操作
+  提示中宣稱它是巡檢入口，卻未解析該參數，實際會清場並重啟三軌；現在
+  `--check` 是嚴格唯讀，列出 fleet 核發、dispatcher、lane log 與本機 M4
+  Ollama 空載狀態後立即退出。
 - v1.2（2026-07-28）：隔離樣本 17/17 個 `health [link-target]` 都是內部連結
   category 大小寫漂移；把既有 `article-health --check=link-target --fix` 接進
   dispatcher 三重 gate 前，機械格式不再浪費整篇譯文，hard gate 本身不放寬。

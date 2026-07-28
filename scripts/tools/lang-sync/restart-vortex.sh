@@ -8,7 +8,9 @@
 # 編組依據見 SQUEEZE-MODELS-MAX-PIPELINE.md §模型×語言適配／§編組原則。
 # 地端硬體一律由 muse-bot/fleet 控制面核發 worker；本檔不持有節點 IP、
 # model 或並行數。M4 是否接批次也只由 fleet control.json 決定。
-# 用法：bash scripts/tools/lang-sync/restart-vortex.sh [--stale-only]
+# 用法：
+#   bash scripts/tools/lang-sync/restart-vortex.sh [--stale-only]
+#   bash scripts/tools/lang-sync/restart-vortex.sh --check
 
 set -uo pipefail
 cd "$(dirname "$0")/../../.." || exit 1
@@ -34,6 +36,41 @@ else
   echo "   ⚠️  找不到 fleetctl：$FLEETCTL；地端軌本輪不啟動"
 fi
 echo ""
+
+# ── 唯讀巡檢：不能清程序、不能起新軌 ──────────────────────────────
+# 2026-07-28 修：文件早已把 --check 列為巡檢入口，但舊版沒有解析，
+# 傳入後反而照常 pkill + restart。巡檢語意必須真的唯讀，避免觀察者
+# 為了看狀態意外打斷正在翻譯的 worker。
+if [ "${1:-}" = "--check" ]; then
+  echo "▸ 受管產線（唯讀）"
+  lane_rows=$(ps ax -o pid=,etime=,command= |
+    awk '/[Pp]ython .*scripts\/tools\/lang-sync\/babel-dispatch\.py/{print}')
+  if [ -n "$lane_rows" ]; then
+    printf '%s\n' "$lane_rows"
+    lane_count=$(printf '%s\n' "$lane_rows" | wc -l | tr -d ' ')
+  else
+    echo "   ⚠️  目前沒有 babel-dispatch.py"
+    lane_count=0
+  fi
+  echo "   lanes=${lane_count}（有 fleet 額度時預期 3，否則 2）"
+  echo ""
+  echo "▸ lane logs"
+  for log in /tmp/babel-fleet.log /tmp/babel-cloud.log /tmp/babel-vi-rescue.log; do
+    if [ -f "$log" ]; then
+      stat -f "   %N  modified=%Sm  bytes=%z" -t "%Y-%m-%d %H:%M:%S" "$log"
+    else
+      echo "   $log  missing"
+    fi
+  done
+  echo ""
+  echo "▸ 本機 M4 Ollama（禁跑 Babel，應為空）"
+  if command -v ollama >/dev/null 2>&1; then
+    ollama ps
+  else
+    echo "   ollama command unavailable"
+  fi
+  exit 0
+fi
 
 # ── 殘留清理（重啟前必做，避免雙份產線互撞）──
 if pgrep -f "babel-dispatch" >/dev/null 2>&1; then
