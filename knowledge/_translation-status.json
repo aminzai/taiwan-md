@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-28T10:03:38+08:00",
-    "zhCommitHead": "1d9eb6233",
+    "lastUpdated": "2026-07-28T10:05:32+08:00",
+    "zhCommitHead": "b017c37e0",
     "totalZh": 869,
     "activeLanguages": [
       "en",
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 869,
-        "fresh": 489,
+        "fresh": 490,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 380,
+        "missing": 379,
         "orphan": 0
       },
       "ru": {
@@ -15323,7 +15323,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/taiwan-ai-academy.md",
+          "translatedFrom": "Technology/台灣人工智慧學校.md",
+          "sourceCommitSha": "c8e5ac9ea",
+          "sourceContentHash": "sha256:aeb22f9372adc2ef",
+          "sourceBodyHash": "sha256:6ec984b54802baea",
+          "translatedAt": "2026-07-28T08:53:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/taiwan-ai-academy.md",
@@ -31590,8 +31601,8 @@
           "sourceContentHash": "sha256:22f624258f9ada15",
           "sourceBodyHash": "sha256:be7b46d45d345648",
           "translatedAt": "2026-07-28T03:07:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b017c37e",
+          "translationLastModified": "2026-07-28T10:03:38+08:00",
           "inferred": false,
           "footnoteDefs": 73,
           "status": "fresh",
@@ -77538,8 +77549,8 @@
           "sourceContentHash": "sha256:2e7abe81d37d5763",
           "sourceBodyHash": "sha256:42bdb5d4361f8a68",
           "translatedAt": "2026-07-28T05:31:31+08:00",
-          "translationLastCommit": "1763a4cd",
-          "translationLastModified": "2026-07-28T07:58:51+08:00",
+          "translationLastCommit": "b017c37e",
+          "translationLastModified": "2026-07-28T10:03:38+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -95612,8 +95623,8 @@
           "sourceContentHash": "sha256:1c18939671190740",
           "sourceBodyHash": "sha256:c336900c050cb32f",
           "translatedAt": "2026-07-28T03:07:46+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b017c37e",
+          "translationLastModified": "2026-07-28T10:03:38+08:00",
           "inferred": false,
           "footnoteDefs": 53,
           "status": "fresh",
@@ -95745,8 +95756,8 @@
           "sourceContentHash": "sha256:c532a9d95ccbcaaf",
           "sourceBodyHash": "sha256:530ea0ffb4d07e77",
           "translatedAt": "2026-07-28T05:31:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b017c37e",
+          "translationLastModified": "2026-07-28T10:03:38+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
