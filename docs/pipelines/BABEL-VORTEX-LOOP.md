@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.34)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.35)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.34'
-last_updated: 2026-07-29
-last_session: '2026-07-29-vortex-cross-lang-model-performance'
+current_version: 'v1.35'
+last_updated: 2026-07-30
+last_session: '2026-07-30-vortex-laguna-throughput-cutoff'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.34
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.35
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,12 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.35（2026-07-30）：撤下 Laguna 越南語專軌。2026-07-26 的歷史校準曾有
+  43-71%，但近兩日真實完整文章已累積 0/44，本輪 0/9；主要失敗是單次請求
+  撞 600 秒 hard deadline，另有一篇 armor fallback 兩次合計 983 秒仍零產物。
+  這已遠超 n≥8 且通過率 <15% 的撤池線，不能讓舊 benchmark 永久凌駕新實績。
+  `restart-vortex.sh` 現只啟動 cloud 與可選 fleet 軌；vi 在重新取得合格模型前
+  fail-closed，不以小模型或繞過 fleet 的 M4 補洞。QA gate 與其他語言編組不變。
 - v1.34（2026-07-29）：把 canonical CJK leak gate 前移到 `translate.py`
   落盤前，命中時用同一次整篇流程的第二次有限重試修復。舊的段落級 partial
   gate 只抓「80 字以上且中文過半」，本輪 Nemotron 33 篇中 19 篇是短中文片段
