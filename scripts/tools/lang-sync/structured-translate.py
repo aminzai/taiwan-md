@@ -83,10 +83,16 @@ import cross_link_localizer as _xlink  # noqa: E402 — 站內連結在地化（
 # ────────────────── shared regex / constants ──────────────────
 
 FN_DEF_RE = re.compile(r"(?m)^\[\^([^\]]+)\]:\s*(.*)$")
-FN_CANON_RE = re.compile(r"^\[([^\]]+)\]\(([^)]+)\)(?:\s*—\s*(.*))?$")
+MD_TARGET_PATTERN = r"<[^>\s]+>|[^)\s]+"
+# Angle-wrapped target（`<https://..._(Japan)>`）是 CommonMark 保護含括號 URL
+# 的 canonical 寫法，必須在一般 `[^)]+` 之前整段匹配。舊 regex 在 URL 內第一個
+# `)` 截斷，Phase N 就退到 fallback parser，最後組成 `[[Title](<](<URL%3E>))`。
+FN_CANON_RE = re.compile(
+    rf"^\[([^\]]+)\]\(({MD_TARGET_PATTERN})\)(?:\s*—\s*(.*))?$"
+)
 INLINE_FN_REF_RE = re.compile(r"\[\^([^\]]+)\]")
-MD_LINK_URL_RE = re.compile(r"\]\(([^)\s]+)\)")
-EMBEDDED_LINK_RE = re.compile(r"\[([^\]]*)\]\(([^)]+)\)")
+MD_LINK_URL_RE = re.compile(rf"\]\(({MD_TARGET_PATTERN})\)")
+EMBEDDED_LINK_RE = re.compile(rf"\[([^\]]*)\]\(({MD_TARGET_PATTERN})\)")
 
 TRANSLATABLE_FM_FIELDS = ["title", "description", "tags"]
 

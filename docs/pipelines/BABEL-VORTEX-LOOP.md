@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.19)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.20)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.19'
+current_version: 'v1.20'
 last_updated: 2026-07-29
-last_session: '2026-07-29-vortex-angle-url-armor'
+last_session: '2026-07-29-vortex-structured-angle-url'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.19
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.20
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,14 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.20（2026-07-29）：把 v1.19 的含括號 URL 修復收斂到 structured
+  fallback 的獨立 Phase N/B parser。v1.19 上線後仍有 id／vi 三個腳註變成
+  `[[Title](<](<URL%3E>))`；追查不是 whole translator 回歸，而是
+  `structured-translate.py` 的 `FN_CANON_RE` 同樣在 angle-wrapped URL 內
+  第一個 `)` 截斷，退入 lossy fallback parser。現在 footnote 主 URL、
+  description 內嵌連結與 body URL multiset validator 共用同一個
+  `MD_TARGET_PATTERN`，優先整段接受 `<...>` target；URL 與編號重新回到
+  Phase N 宣稱的工具端 byte-preserved 不變量，hard gate 不變。
 - v1.19（2026-07-29）：修正 URL 裝甲主動造壞含括號 Wikipedia target。
   CommonMark 以 `<https://..._(Japan)>` 包住含括號 URL，但 tokenizer 的
   markdown-target regex 在第一個 `)` 截斷；印尼文國定假日因此從正確來源
