@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.26)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.28)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.26'
+current_version: 'v1.28'
 last_updated: 2026-07-29
-last_session: '2026-07-29-vortex-launchd-child-env'
+last_session: '2026-07-29-vortex-backend-attribution'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.26
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.28
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,17 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.28（2026-07-29）：report 實績補上實際 backend／模型歸因，preflight
+  的弱適配表改按 `worker[backend] × lang` 聚合。同一個 fleet label 會隨
+  workload profile 從 `gemma4:12b` 換到 `qwen3:32b`；舊版只記 label，
+  兩個模型的通過率會永久混在一起，讓換模型後的校準無法判讀。舊報表沒有
+  backend 欄時保留原 key，新樣本開始可獨立收斂。
+- v1.27（2026-07-29）：fleet 的 workload profile 從「只管模型品質」補成
+  「同時管單機並行」。上一輪把不合格的 `gemma4:12b` 換成 `qwen3:32b` 後，
+  抽象層仍依全機 batch 額度核發三個 worker 給同一張 24GB 3090，首小時
+  9/9 全在 900 秒 timeout；同模型經 `fleetctl run` 單請求 27 秒正常，
+  證明是單 GPU 排隊放大而非模型或端點死亡。`babel` profile 現每台最多核發
+  1 worker；全機控制面與其他 workload 不變，consumer 仍只宣告 profile。
 - v1.26（2026-07-29）：補 launchd 子程序環境邊界。v1.24 讓 dispatcher
   跨 exec cell 常駐後，dispatcher 本身雖由 Homebrew Python 啟動，內部大量
   `subprocess(["python3", ...])` 卻依 launchd 精簡 PATH 落到 `/usr/bin/python3`，

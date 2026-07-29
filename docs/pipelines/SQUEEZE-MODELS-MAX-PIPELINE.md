@@ -3,9 +3,9 @@ title: 'SQUEEZE-MODELS-MAX-PIPELINE'
 description: '多語 batch sync 主流程 — priority schema P0/P1/P2/P2.5/P3 + Tier 0a Sonnet diff-patch + 4-tier cascade + Z0-Z6 stage spine + §義務鐵律推 100% + v4.4 對齊 translate.py v4.3（owl-alpha 移出 default / preflight 冷凍 / audit-quality.py 已存在）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v4.7'
+current_version: 'v4.8'
 last_updated: 2026-07-29
-last_session: '2026-07-29 vortex（fleet workload profile 在抽象層 fail-closed 模型品質；拒絕 gemma4:12b 降級入池）'
+last_session: '2026-07-29 vortex（fleet workload profile 同時管模型品質與單機並行；拒絕低階模型及單 GPU 排隊放大）'
 production_signal: 'scripts/tools/lang-sync/translate.py §DEFAULT_CASCADE_ID docstring（本檔 cascade 描述必須鏡射它；audit 時 diff 這兩處，REFLEXES #56 rule (a)）'
 sister_docs:
   - 'TRANSLATION-PIPELINE.md'
@@ -20,9 +20,14 @@ upstream_canonical:
 > 報告、三重巡檢、自動進化硬條款、薄殼 wake prompt contract。本檔管「怎麼翻」，
 > 渦流檔管「怎麼持續運轉與進化」。
 
-# 榨模型MAX — 多語 batch sync 主流程 v4.7
+# 榨模型MAX — 多語 batch sync 主流程 v4.8
 
 > **第一性原理**：用所有手邊免費 model 同時平行打、refusal 當作 first-class 結果記錄、最終跨批次統合補空缺，把單一 model 的天花板（rate limit / content policy / quality）拆成許多小天花板加起來逼近 100%。Tier 4 Local LLM 永不漏接 sovereignty-sensitive topics。
+>
+> v4.8（2026-07-29 vortex）：**workload profile 同時管模型品質與單機並行** —
+> 3090 的 `qwen3:32b` 單請求 27 秒可回，但同一 Ollama 被核發三個 Babel worker
+> 後 9/9 全在 900 秒 timeout。`babel` profile 現將每台機器的核發量再收斂為 1；
+> control plane 的全機批次額度不變，其他 workload 不受影響。
 >
 > v4.7（2026-07-29 vortex）：**模型品質門檻進入 fleet 抽象層** — `fleetctl workers --profile babel`
 > 只核發已拉取且符合下方入池白名單的模型，沒有合格模型即 fail-closed、不核發 worker。
@@ -1099,6 +1104,10 @@ python3 scripts/tools/lang-sync/translate.py --zh-path Society/颱風假.md --la
 _v4.7 | 2026-07-29 Babel vortex — fleet workload profile 把模型入池白名單搬到 worker 核發點；
 `gemma4:12b` 13 次僅 1 pass 的實證觸發，修後核發 `qwen3:32b`，無合格模型 fail-closed。
 consumer 僅宣告 `--profile babel`，維持 fleet 作為節點／端點／模型的唯一抽象層。_
+
+_v4.8 | 2026-07-29 Babel vortex — 同一 3090 核發三個 qwen3:32b worker 造成 9/9
+在 900 秒 timeout；單請求經 fleetctl 實測 27 秒正常。`babel` profile 新增每機
+1 worker 上限，讓 workload-specific 並行政策留在 fleet 抽象層，不關閉整台機器。_
 
 _v4.5 | 2026-07-18 184501-manual（巴別塔健檢）— 首次完整健檢的經驗回寫：(1) cascade 番號對賬——doc 漏列 DEFAULT_CASCADE 已收編的 fleet、「Tier 5」被 fleet 與 Sonnet 雙重佔用，對齊 production_signal 並把 Sonnet 正名 Tier 6（制度化待 OBSERVER-QUEUE #18）；(2) Tier 0a prompt template 補 Step 1b/1c 硬底（batch JSON 跨 entry 汙染驗證 + scratch 檔唯一前綴，收償 LESSONS 2026-07-14 兩條）；(3) 新增 §健檢儀器 babel-health.py（六維 WARN 級）。健檢完整報告與產線 14 天考古：[reports/babel-health-2026-07-18.md](../../reports/babel-health-2026-07-18.md)_
 

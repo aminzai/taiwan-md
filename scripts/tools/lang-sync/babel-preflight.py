@@ -130,7 +130,13 @@ def check_track_record(days: int = 2) -> dict:
                     continue
                 if r.get("ts", "") < cut:
                     continue
-                grid[(r.get("worker", "?"), r.get("lang", "?"))][0 if r.get("ok") else 1] += 1
+                worker = r.get("worker", "?")
+                # 同一個 fleet label 會隨 workload profile 換模型；只按 label 聚合
+                # 會把舊 12b 與新 32b 的實績混成一條，讓「切軌或換模型」失去依據。
+                # 舊報表沒有 backend 欄時保留原 key，從本版起按實際 backend 分流。
+                backend = r.get("backend")
+                worker_key = f"{worker}[{backend}]" if backend else worker
+                grid[(worker_key, r.get("lang", "?"))][0 if r.get("ok") else 1] += 1
         except Exception:
             continue
     weak = []
