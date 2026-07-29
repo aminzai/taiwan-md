@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-29T13:11:56+08:00",
-    "zhCommitHead": "a5baf3a64",
+    "lastUpdated": "2026-07-29T13:17:32+08:00",
+    "zhCommitHead": "e5c8b70cf",
     "totalZh": 871,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 871,
-        "fresh": 814,
-        "stale": 51,
+        "fresh": 815,
+        "stale": 50,
         "metadata_stale": 0,
         "missing": 6,
         "orphan": 0
@@ -83,26 +83,26 @@
       },
       "hi": {
         "total_zh": 871,
-        "fresh": 520,
+        "fresh": 521,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 349,
+        "missing": 348,
         "orphan": 0
       },
       "ar": {
         "total_zh": 871,
-        "fresh": 567,
+        "fresh": 568,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 303,
+        "missing": 302,
         "orphan": 0
       },
       "ru": {
         "total_zh": 871,
-        "fresh": 599,
+        "fresh": 600,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 271,
+        "missing": 270,
         "orphan": 0
       }
     },
@@ -35878,18 +35878,16 @@
         "ja": {
           "path": "ja/Society/education-system-and-admissions-culture.md",
           "translatedFrom": "Society/教育制度與升學文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:0a7458b73a859fea",
-          "sourceBodyHash": "sha256:b2b271a1c8432769",
-          "translatedAt": "2026-05-20T05:08:29+08:00",
+          "sourceCommitSha": "9d6716713",
+          "sourceContentHash": "sha256:b3fec964553963ea",
+          "sourceBodyHash": "sha256:605626e47ccc1b01",
+          "translatedAt": "2026-07-29T12:59:25+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/education-system-and-admissions-culture.md",
@@ -58141,13 +58139,35 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/takeshi-kaneshiro.md",
+          "translatedFrom": "People/金城武.md",
+          "sourceCommitSha": "98251c6e6",
+          "sourceContentHash": "sha256:55178af9281f4694",
+          "sourceBodyHash": "sha256:17690ed615ebe1ca",
+          "translatedAt": "2026-07-29T12:59:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/takeshi-kaneshiro.md",
+          "translatedFrom": "People/金城武.md",
+          "sourceCommitSha": "98251c6e6",
+          "sourceContentHash": "sha256:55178af9281f4694",
+          "sourceBodyHash": "sha256:17690ed615ebe1ca",
+          "translatedAt": "2026-07-29T12:59:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -63150,8 +63170,8 @@
           "sourceContentHash": "sha256:61081ca7c646947e",
           "sourceBodyHash": "sha256:f186e67ce03f9679",
           "translatedAt": "2026-07-29T12:59:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e5c8b70c",
+          "translationLastModified": "2026-07-29T13:11:56+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -68145,15 +68165,26 @@
           "sourceContentHash": "sha256:4246082bf9759556",
           "sourceBodyHash": "sha256:92194eb97c902d4f",
           "translatedAt": "2026-07-29T12:59:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e5c8b70c",
+          "translationLastModified": "2026-07-29T13:11:56+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/shao-you-lian.md",
+          "translatedFrom": "People/邵友濂.md",
+          "sourceCommitSha": "c109869a0",
+          "sourceContentHash": "sha256:4246082bf9759556",
+          "sourceBodyHash": "sha256:92194eb97c902d4f",
+          "translatedAt": "2026-07-29T12:59:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
