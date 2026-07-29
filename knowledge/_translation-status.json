@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-30T07:27:03+08:00",
-    "zhCommitHead": "2337e8e8a",
+    "lastUpdated": "2026-07-30T07:43:14+08:00",
+    "zhCommitHead": "9104b8c1c",
     "totalZh": 871,
     "activeLanguages": [
       "en",
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 871,
-        "fresh": 741,
+        "fresh": 743,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 124,
+        "missing": 122,
         "orphan": 0
       },
       "hi": {
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 871,
-        "fresh": 603,
+        "fresh": 604,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 268,
+        "missing": 267,
         "orphan": 0
       },
       "ru": {
@@ -24317,7 +24317,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Art/yeh-ting-hao.md",
+          "translatedFrom": "Art/葉廷皓.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:63b47718f8145b2c",
+          "sourceBodyHash": "sha256:04f5859af8f97035",
+          "translatedAt": "2026-07-30T03:55:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/yeh-ting-hao.md",
@@ -27228,8 +27239,8 @@
           "sourceContentHash": "sha256:3ae429b55b3339f0",
           "sourceBodyHash": "sha256:00c160f3d2bfc5b4",
           "translatedAt": "2026-07-30T03:55:55+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9104b8c1",
+          "translationLastModified": "2026-07-30T07:27:03+08:00",
           "inferred": false,
           "footnoteDefs": 48,
           "status": "fresh",
@@ -38864,7 +38875,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/taiwan-animal-drug-controversy.md",
+          "translatedFrom": "Society/台灣動物用藥爭議.md",
+          "sourceCommitSha": "9a60e8fdf",
+          "sourceContentHash": "sha256:670bf6306d125685",
+          "sourceBodyHash": "sha256:58df60a34bbdc3ea",
+          "translatedAt": "2026-07-30T03:55:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -82576,7 +82598,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/lee-yang-badminton.md",
+          "translatedFrom": "People/李洋.md",
+          "sourceCommitSha": "fef3e1199",
+          "sourceContentHash": "sha256:96f1d5630278a964",
+          "sourceBodyHash": "sha256:57937e9b25b2f462",
+          "translatedAt": "2026-07-30T03:55:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
