@@ -45,7 +45,6 @@ sourceBodyHash: 'sha256:bf303e93b6c06618'
 translatedAt: '2026-07-29T04:32:47+08:00'
 ---
 
-```markdown
 # Yin Yen-liang: o prémio científico que ele construiu, mais valioso que o Nobel
 
 > **Resumo em 30 segundos**: A 26 de maio de 2026, às 4h21, o presidente do Grupo Ruentex e fundador do Prémio Tang, Yin Yen-liang, faleceu no Hospital Geral de Veteranos de Taipé, aos 76 anos[^1]. Ele comprometeu-se publicamente em vida a doar 95% dos seus bens após a morte[^2]: construiu o Centro de Cancro de Terapia de Partículas Pesadas para o Hospital Geral de Veteranos de Taipé, a Biblioteca Tahsien para a Universidade Nacional de Chengchi, e o Centro de Atividades Wang Jin-pyng para a Universidade Normal de Changhua. Em 2012, doou 3 mil milhões de novos dólares taiwaneses em fundo fiduciário para estabelecer o Prémio Tang, com quatro categorias cujo prémio é de 50 milhões de novos dólares taiwaneses cada, superando o Nobel[^3]. A família respeitou a sua vontade final, mantendo tudo simples, sem câmara ardente nem funeral público.
@@ -327,4 +326,3 @@ Este artigo utiliza 5 imagens com licença CC BY ou informação aberta governam
 [^39]: [PX Mart 1,3 biliões compra RT-Mart](https://www.bnext.com.tw/article/65452/px-mart) — BusinessNext 22-10-2021, regista PX Mart anuncia compra RT-Mart (Ruentex Development e Ruentex Industries cada uma vende por 1,303 mil milhões ganhos de capital, valor total transação 1,3-1,5 biliões novos dólares taiwaneses, incluí imóveis e marca).
 
 [^40]: [Yin Yen-liang 2022 académico ITRI 600+ patentes internacionais](https://www.itri.org.tw/ListStyle.aspx?DisplayStyle=01_content&SiteID=1&MmmID=1036234671167627651&MGID=1164331020326663261) — Página de académicos do Instituto de Investigação Tecnológica Industrial, regista 2022 Yin Yen-liang académico ITRI, mais de 600 patentes internacionais engenharia civil, método de pré-fabricação «construção fábrica em 100 dias» registo e TSMC / Google / Microsoft adoção da tecnologia.
-```

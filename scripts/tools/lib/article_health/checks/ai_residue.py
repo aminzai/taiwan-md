@@ -69,6 +69,16 @@ _RE_DIALOGUE_RESIDUE = re.compile(
     "|".join(re.escape(p) for p in _DIALOGUE_RESIDUE_PHRASES)
 )
 
+# A model sometimes returns a complete article as one ```markdown wrapper.
+# The loader correctly protects ordinary code examples, but that also made a
+# whole wrapped article invisible to every prose/content check.  Match only
+# when the fence spans the entire nonblank body; legitimate embedded examples
+# remain protected and valid.
+_RE_WHOLE_BODY_MARKDOWN_FENCE = re.compile(
+    r"\A```(?:markdown|md)\s*\n[\s\S]*\n```\Z",
+    re.IGNORECASE,
+)
+
 
 def _body_excluding_fenced_code(target: FileTarget) -> str:
     """Body with ONLY fenced-code regions blanked (not inline-code /
@@ -108,6 +118,18 @@ def _context(body: str, start: int, end: int, before: int = 20, after: int = 20)
 
 
 def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
+    stripped_body = target.body.strip()
+    if _RE_WHOLE_BODY_MARKDOWN_FENCE.fullmatch(stripped_body):
+        yield Violation(
+            check=CHECK_NAME,
+            severity=DEFAULT_SEVERITY,
+            message="整篇正文被 Markdown code fence 包住，發布後會顯示成原始碼而非文章",
+            line=1,
+            snippet=stripped_body.splitlines()[0],
+            editorial_ref=EDITORIAL_REF,
+            fix_suggestion="只移除包住整篇正文的開頭與結尾 fence；保留正文內容",
+        )
+
     body = _body_excluding_fenced_code(target)
 
     for m in _RE_URL_RESIDUE.finditer(body):

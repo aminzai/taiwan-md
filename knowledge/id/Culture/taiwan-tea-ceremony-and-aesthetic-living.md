@@ -25,7 +25,6 @@ sourceBodyHash: 'sha256:b5154ba7226ad9d9'
 translatedAt: '2026-07-28T18:52:01+08:00'
 ---
 
-```markdown
 # Teh Taiwan dan Estetika Kehidupan
 
 > **Ringkasan 30 detik:** Teh paling berharga Taiwan adalah yang dikunyah serangga. Teh Oriental Beauty menghasilkan aroma madu karena gigitan wereng hijau kecil (_Jacobiasca formosana_), satu jin (600 gram) bisa dijual puluhan ribu dolar Taiwan——logika "cacat justru enak" ini justru adalah cerminan budaya teh Taiwan. Dari tahun 1867 saat pedagang Skotlandia John Dodd membuka toko teh di Mengjia (sekarang Wanhua), meluncurkan "Formosa Oolong" ke pasar internasional, hingga 1981 ketika Chou Yu mengubah salon politik ayahnya menjadi rumah teh Wistaria, lalu pada 1980-an teh manis mutiara (pearl milk tea) menyapu global——Taiwan menghabiskan seratus lima puluh tahun mengubah minum teh dari komoditas ekspor kolonial menjadi satu filsafat kehidupan utuh.
@@ -141,4 +140,3 @@ Wisteria di Wistaria mekar setiap musim semi. Chou Yu sudah delapan puluhan, tet
 - [Perayaan Tradisional dan Upacara](/id/culture/traditional-festivals-and-celebrations) - Peran teh dalam perayaan
 - [Estetika Taiwan: Apakah Kita Harus Menunggu Orang Korea Menyukai Dulu, Baru Berani Bilang Rumah Tua Kita Indah?](/id/culture/taiwanese-sensibility) — Penemuan kembali estetika sehari-hari Taiwan yang sama, jendela besi, teraso, rumah tua——artikel ini menanyakan, apakah penemuan kembali ini harus menunggu orang lain menyukai dulu
 - [Budaya dan Bahasa Hakka](/culture/客家文化與語言) - Kaitan Teh Oriental Beauty dengan daerah teh Hakka
-```

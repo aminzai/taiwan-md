@@ -25,7 +25,6 @@ sourceBodyHash: 'sha256:993aeb722f2d750e'
 translatedAt: '2026-07-28T18:52:03+08:00'
 ---
 
-```markdown
 # Tecido Floral de Taiwan
 
 Nos mercados tradicionais de Taiwan, sempre se veem bancas coloridas de tecido floral. Grandes peônias, crisântemos, rosas, com vermelho vivo, verde, azul como cores de base, desabrochando em camadas sobre o tecido. As donas das bancas cortam habilmente os tecidos, preparando para fazer lençóis, fronhas, ou sacos para embrulhar presentes. Esses tecidos florais parecem comuns, mas por trás deles há a complexa história de quase cem anos de transformação social e identidade cultural de Taiwan.
@@ -168,4 +167,3 @@ Hoje, quando revalorizamos aquelas peônias vivas, crisântemos elegantes, rosas
 [^4]: [Conselho dos Assuntos Hakka](https://www.hakka.gov.tw/) — Informações sobre política cultural hakka e pesquisa de cultura têxtil
 
 [^5]: [Centro Nacional de Pesquisa e Desenvolvimento de Artesanato de Taiwan](https://www.ntcri.gov.tw/) — Informações sobre preservação e promoção de artesanato tradicional
-```

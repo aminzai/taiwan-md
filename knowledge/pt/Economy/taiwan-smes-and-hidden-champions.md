@@ -26,7 +26,6 @@ sourceBodyHash: 'sha256:aa9670656fd12067'
 translatedAt: '2026-07-27T10:39:03+08:00'
 ---
 
-```markdown
 # Pequenas e Médias Empresas de Taiwan e os Campeões Invisíveis
 
 ## Visão geral em 30 segundos
@@ -245,4 +244,3 @@ Elas provam uma verdade: na era dominada por megacorporações, pequeno e precis
 7. [Liberty Finance - Fábrica de Parafusos Lucra com Guerra Comercial](https://ec.ltn.com.tw/article/paper/1323116)
 8. [Global Views Monthly - Empresa Familiar Quer Superar o Mestre, Deve Passar para o Virtuoso ou para o Filho?](https://www.gvm.com.tw/article/86553)
 9. [CommonWealth Magazine - 60% das Empresas de Taiwan São Familiares](https://www.managertoday.com.tw/articles/view/63923)
-```

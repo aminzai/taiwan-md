@@ -41,7 +41,6 @@ sourceBodyHash: 'sha256:b8ebcfc4e0a96ce7'
 translatedAt: '2026-07-29T12:59:26+08:00'
 ---
 
-```markdown
 # Dapat Memprediksi Angin Hujan, Tidak Dapat Memprediksi Takdir: Empat Ratus Tahun Taiwan dengan Typhoon
 
 > **30 detik ringkasan:** Pagi 8 Agustus 2009, Gunung Siangtung runtuh setelah tiga hari hujan lebat beruntun, menelan 462 nyawa di Desa Xiaolin. Enam belas tahun kemudian, kesalahan prakiraan jalur typhoon 24 jam Taiwan, dari 172 kilometer pada 2000 menyusut jadi 57 kilometer pada 2025. Setiap hari satu butir Satelit Formosat-7 menjatuhkan 4.000 lebih data atmosfer, enam model AI menghasilkan peta peringatan tiga puluh hari dalam empat menit. Tapi detik Luo Pan Chun-mei berdiri di lantai dua menyaksikan kerabatnya hilang, radar sepresisi apapun tidak bisa menangkap. Dapat memprediksi angin hujan, tidak dapat memprediksi takdir.
@@ -269,4 +268,3 @@ Artikel ini pakai 2 gambar domain publik / lisensi CC, semua cache di `public/ar
 [^22]: [Feng Media — 「Libur Typhoon」Asal Mula Begini: 24 Tahun Lalu Satu Tragedi, Ubah Pemikiran Mitigasi Taiwan](https://www.storm.mg/articles/1080271) — Telusur asal libur typhoon ke 2001 Guru Xu Bilan gugur.
 
 [^35]: [Pintu Pengetahuan Pertanian — Legenda Angin Hujan Taiwan Dulu](https://kmweb.moa.gov.tw/theme_data.php?id=55279&sub_theme=agri_life&theme=news) — Kumpulkan puisi typhoon klasik era Qing Sun Yuanheng〈Ge Feng Ge〉, Zheng Yongxi〈Ge Feng〉 dll.
-```

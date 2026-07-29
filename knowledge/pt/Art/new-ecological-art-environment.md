@@ -25,7 +25,6 @@ sourceBodyHash: 'sha256:dde1ab9552710d18'
 translatedAt: '2026-07-27T09:40:32+08:00'
 ---
 
-```markdown
 # Novo Ecossistema Artístico: a velha casa de 400 ping na rua Yongfu em 1992, sete anos à frente da estrutura de subsídios
 
 > **Visão geral em 30 segundos:** Em junho de 1992, Du Zhao-xian, que originalmente gerenciava uma galeria de decoração, inaugurou o "Novo Ecossistema Artístico" num edifício antigo de mais de 400 ping na rua Yongfu, secção 2, em Tainan. Exibia arte contemporânea, exibia documentários, realizava teatro de bolso, vendia café. A Fundação Nacional de Cultura e Artes ainda não existia, a Universidade Nacional de Artes de Tainan ainda não tinha aberto, a política de "reutilização de espaços ociosos" do Conselho para Assuntos Culturais ainda não estava em vigor. Durou sete anos, até apagar as luzes em 1999, quando o sistema nervoso institucional da arte contemporânea de Taiwan começava a se formar — ele correu à frente de todas as estruturas de subsídio, e quando os subsídios finalmente chegaram, esse tipo de espaço autogestionado já estava se retirando.
@@ -84,6 +83,7 @@ De 2 a 4 de fevereiro de 1996, o Novo Ecossistema e o subsolo da loja Dun'nan da
 A Chia-tzu Electric Band tinha acabado de se formar; o carisma de palco da vocalista Hsiao Ying ainda estava se acumulando; o Nu Ma Chao-tse era representante da música experimental dos anos 1990; o Teatro Chiang Chih-chui foi criado em 1993 por Chou Yi-chang, era então o teatro experimental de nanguan recém-iniciado. Os três juntos, cruzando nanguan, rock underground, ruído experimental: esse tipo de mistura intergênero era raro em 1996.
 
 No mesmo ano (1995) em Taipé, Huang Wen-hao acabara de estender do Parque Yitong o "Experimento Local" (ETAT), levando a direção experimental das artes visuais para rede, mídia, nova mídia artística.[^15] Duas linhas do tempo paralelas vistas juntas são interessantes:
+
 ```
 
 1988 IT Park na rua Yitong em Taipé — autogestionado por artistas, puramente artes visuais
@@ -190,5 +190,3 @@ Este artigo no momento da publicação não usa imagens. Fotos de exposições e
 [^18]: [La Vie: Como Tainan virou "Cidade que Todos Querem Morar" — Du Zhao-xian, Wang Ming-heng falam como Desastre de Planejamento Urbano virou Virada Estética](https://www.wowlavie.com/article/ae1900531) — Entrevista dupla da La Vie com Du Zhao-xian, Wang Ming-heng, discute processo de Tainan do desastre de planejamento urbano virar criatividade estética, cobre cronologia de rua Hai-an, rua Shen-nong, beco 321 e papel dos espaços de arte contemporânea.
 
 [^19]: [FNCA: Estúdio de Arte Sasame "O Retorno do Espaço Alternativo: Pesquisa sobre o Desenvolvimento Inicial de Espaços Culturais de Tainan — 'Cultura da Periferia' (1992-1995)"](https://archive.ncafroc.org.tw/result?id=721819bbe34c43c1bfa752481bff0a7c) — Arquivo de resultados de projetos subsidiados pela FNCA; projeto de pesquisa do Estúdio de Arte Sasame; coletou "manuscritos diários dos membros de 1992 a 1995, materiais de divulgação de todas as exposições, fotos dos dois espaços de migração, fotos de exposições e atividades dos membros, anúncios e críticas de jornais e revistas da época" e transcrições de entrevistas e materiais audiovisuais de todos os membros; é arquivo de primeira mão central da revisão acadêmica dos anos 2020 sobre o Novo Ecossistema.
-
-```

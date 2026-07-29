@@ -36,7 +36,6 @@ sourceBodyHash: 'sha256:a875e0cc381f5fed'
 translatedAt: '2026-07-29T23:50:31+08:00'
 ---
 
-```markdown
 # Kota Keelung: Pelabuhan Terdekat dari Taipei, Paling Tak Terlihat oleh Taipei
 
 > **Ringkasan 30 Detik:** Tahun 1626 Spanyol membangun Kota San Salvador di Pulau Heping, 1875 Shen Baozhen mengubah nama "Jilong" menjadi "Jilong" bermakna "Dasar yang Makmur", 1884 Perang Prancis-Tiongkok tentara Prancis menduduki delapan bulan, 1984 pelabuhan ini menduduki peringkat ketujuh dunia sebagai pelabuhan peti kemas. Lalu tiga hal terjadi bersamaan: 1960-an Pusat Peti Kemas Zhongdao Pelabuhan Kaohsiung mulai beroperasi, 1979 Bandara Internasional Chiang Kai-shek Taoyuan menggantikan gerbang penumpang, 1980-an lingkaran pertambangan Jinguashi runtuh. Hari ini 360 ribu orang tinggal di sini, 39% bepergian kerja ke Taipei, tingkat rumah kosong 26%. Tapi pasar ikan Kanzi Ding pada pukul 04.00 pagi masih bergema suara lelang, Elang Hitam dari 272 ekor tahun 2013 pulih menjadi 800 ekor. Artikel ini ingin menyampaikan: Keelung adalah pelabuhan induk Taipei.
@@ -280,4 +279,3 @@ Ketentuan lisensi: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0
 [^31]: [Pesona Kota Hujan Keelung — Majalah Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=523dadc7-dbe6-4234-a095-d0212d11d70f) — Asli: "**Bagi orang Keelung tua, tidak peduli cerah hujan, keluar pasti bawa payung**" catat pengelolaan hujan harian orang Keelung.
 
 [^32]: [Jalan-jalan Kota Hujan Keelung For A Walk](https://keelung-for-a-walk.com) — Media lokal catat orang Keelung deskripsi mendung ucapan: "**Hari ini cuaca bagus ya**".
-```
