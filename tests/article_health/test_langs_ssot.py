@@ -143,6 +143,10 @@ def test_lang_dir_skips_are_the_ssot():
         "## Sources des images",    # fr（語料 ×130）
         "## Crédits photographiques",
         "## Sources d’images",
+        "## Источники изображений",  # ru（語料已上線）
+        "## Источники фотографий",
+        "## مصادر الصور",            # ar
+        "## حقوق الصور",
     ],
 )
 def test_image_sources_heading_accepted(heading):

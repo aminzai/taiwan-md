@@ -1,9 +1,9 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.37)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.38)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.37'
+current_version: 'v1.38'
 last_updated: 2026-07-30
 last_session: '2026-07-30-vortex-phase-n-parser-and-vi-fail-closed'
 sister_docs:
@@ -11,7 +11,7 @@ sister_docs:
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.37
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.38
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,11 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.38（2026-07-30）：多語 image-health 的圖片出處標題補上 ru／ar。
+  本輪兩篇新俄文都已有 `## Источники изображений` 與完整 attribution，checker
+  卻因既有多語 regex 漏列俄文而同報「缺圖片來源」；這是 QA 觀測假黃燈，不是
+  文章缺資料。新增俄文「來源／credit × 圖片／照片／影片」與阿文
+  `مصادر/حقوق × الصور/صورة/الفيديو` 樣式及回歸測試，其餘語言與 severity 不變。
 - v1.37（2026-07-30）：Structured Phase N 補齊兩種原文非單一連結腳註：
   `[來源一](URL1) + [來源二](URL2)` 現以第一來源作 canonical 主連結、其餘
   留在受 URL armor 保護的 description；歷史 `[Title. 取自 [](URL))` 形狀也
