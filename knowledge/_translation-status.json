@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-30T07:04:46+08:00",
-    "zhCommitHead": "585e5db8f",
+    "lastUpdated": "2026-07-30T07:27:03+08:00",
+    "zhCommitHead": "2337e8e8a",
     "totalZh": 871,
     "activeLanguages": [
       "en",
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 871,
-        "fresh": 446,
+        "fresh": 447,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 423,
+        "missing": 422,
         "orphan": 0
       },
       "pt": {
@@ -27222,7 +27222,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Art/invisible-nation.md",
+          "translatedFrom": "Art/看不見的國家.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:3ae429b55b3339f0",
+          "sourceBodyHash": "sha256:00c160f3d2bfc5b4",
+          "translatedAt": "2026-07-30T03:55:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 48,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/invisible-nation.md",
@@ -51838,8 +51849,8 @@
           "sourceContentHash": "sha256:0598c68f67d9dae4",
           "sourceBodyHash": "sha256:a62248f87fd69728",
           "translatedAt": "2026-07-30T03:55:54+08:00",
-          "translationLastCommit": "fd678fd2",
-          "translationLastModified": "2026-07-25T10:32:02+08:00",
+          "translationLastCommit": "2337e8e8",
+          "translationLastModified": "2026-07-30T07:04:47+08:00",
           "inferred": false,
           "footnoteDefs": 39,
           "status": "fresh",
