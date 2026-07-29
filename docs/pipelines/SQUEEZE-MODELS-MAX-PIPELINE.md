@@ -952,6 +952,12 @@ class TranslationBackend(ABC):
 
 ### 模型 × 語言適配：同一個模型對不同語言的落差可以到十倍
 
+OpenRouter key 輪換只處理 429 等 credential-specific 容量訊號。單次模型請求
+`TimeoutError` 是 provider/model 工作量失敗，換 key 不會改變模型或佇列；backend
+必須立即回報 `BackendTimeout`，讓 dispatcher 記錄後前進。禁止把同一個逾時請求
+按 key 數重播：七把 key × 600 秒會把一篇文章放大成 70 分鐘的 worker 佔用，
+而 report 在整篇結束前仍是零，三重巡檢只會看到「存活但不生產」。
+
 2026-07-26 實測（免費雲端池，同批文章、同時段、n≈250）：
 
 | 語言   | nemotron-3-ultra | laguna-xs | qwen3.6（本機） |

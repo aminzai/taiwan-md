@@ -147,7 +147,19 @@ class OpenRouterBackend(TranslationBackend):
                     raise BackendRefusal(body[:200])
                 # other errors — try next key
                 continue
+            except TimeoutError as e:
+                # A request timeout belongs to the provider/model workload, not
+                # to the credential. Rotating seven funded keys used to replay
+                # the same 600s request up to seven times, so one Laguna article
+                # could occupy a worker for 70 minutes without emitting a
+                # report. Only 429 is key-specific; fail this backend call now
+                # and let the dispatcher move on to another article/round.
+                self._record_failure("timeout", f"timed out after {timeout}s")
+                raise BackendTimeout(f"OpenRouter timed out after {timeout}s") from e
             except urllib.error.URLError as e:
+                if isinstance(e.reason, TimeoutError):
+                    self._record_failure("timeout", f"timed out after {timeout}s")
+                    raise BackendTimeout(f"OpenRouter timed out after {timeout}s") from e
                 last_err = f"network error: {e}"
                 continue
             except Exception as e:  # noqa: BLE001

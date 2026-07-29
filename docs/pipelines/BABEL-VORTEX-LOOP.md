@@ -1,9 +1,9 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.31)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.32)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.31'
+current_version: 'v1.32'
 last_updated: 2026-07-29
 last_session: '2026-07-29-vortex-cross-lang-model-performance'
 sister_docs:
@@ -11,7 +11,7 @@ sister_docs:
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.31
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.32
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,14 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.32（2026-07-29）：OpenRouter 的單次 600 秒逾時不再輪換所有 API key。
+  key 輪換只對 429 這類額度／帳號狀態有意義；provider/model 已經接住請求卻
+  逾時，換一把授權 key 只會重播同一個長請求。舊路徑把 `TimeoutError` 當一般
+  例外，每把 key 各等 600 秒，七把已儲值 key 讓一篇 Laguna 長文最壞佔住
+  worker 70 分鐘而沒有 report。本輪三個 vi worker 同時超過 23 分鐘零產出，
+  process 存活與 registry 正常，才把這個放大器浮出來。現在第一次逾時立即記
+  `BackendTimeout`，dispatcher 照原 hard gate、失敗記憶與下一篇機制前進；
+  429 仍照舊輪 key，品質門檻與單次模型逾時均未調低。
 - v1.31（2026-07-29）：弱適配儀器新增「同 worker/backend 跨語總體」聚合。
   原本只等 `worker × lang` 各格 n≥8；四語 lane 已整體 0/8 時，每格仍只有
   2 筆，最慢要浪費 32 次才會警示。新總體列當場抓出
