@@ -778,6 +778,29 @@ def do_commit(lang: str, state: RunState, no_commit: bool, log: Logger) -> None:
     git_lock_commit(lang, workers, files, log)
 
 
+def structured_fallback_policy(cascade_spec: str, primary_output: str) -> tuple[bool, str | None]:
+    """用同 run 的實績決定零產物後是否值得換 structured engine。
+
+    structured 是「換翻譯結構」，不是「換 backend」。因此同一 backend 已明確
+    容量故障時重跑沒有資訊增益；而 2026-07-29 本 run 的 desktop Ollama 0/29、
+    Laguna 0/14（約 20 worker-hours）證明這兩類 backend 的 structured fallback
+    已是確定性長尾。Nemotron 仍有 5/38 救回，保留該路徑。這裡只縮救援 eligibility，
+    不改 primary translate、verify trio 或下一輪重試。
+    """
+    terminal_markers = (
+        "all OpenRouter keys rate-limit",
+        "all OpenRouter keys rate-limited or failed",
+        "Provider returned error",
+        "Available: []",
+    )
+    if any(marker in primary_output for marker in terminal_markers):
+        return False, "backend-capacity"
+    backend = cascade_spec.split("@", 1)[0]
+    if not backend.startswith("openrouter:nvidia/nemotron-3-ultra-550b-a55b"):
+        return False, "backend-adaptation"
+    return True, None
+
+
 def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
                   state: RunState, report: JsonlWriter, freezes: JsonlWriter,
                   no_commit: bool, commit_every: int, log: Logger,
@@ -794,6 +817,7 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
     # 寫報表觸發 UnboundLocalError，整個 dispatcher（而非單篇）被殺掉。
     structured_fallback = False
     structured_fallback_exit = None
+    structured_fallback_skip_reason = None
     target = REPO / trans_path
     # 「路徑存在」不能代表本次 backend 有落檔：stale 任務天生就有舊譯文。
     # 先留執行前 bytes，後面只把新增或真正改動過的 target 算成本次產物。
@@ -908,9 +932,12 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
     # 都在首段 10 秒 fail 後再白等約 150 秒，成功 0；這不是「換翻譯路徑」
     # 能救的輸出失敗，而是沒有算力可呼叫。保留 no-output/freeze 訊號，等
     # dispatcher 下一輪再試；不要用同一 worker 立即重複一個已知不可能的呼叫。
-    backend_unavailable = "Available: []" in proc.stdout
+    primary_output = proc.stdout + ("\n" + proc.stderr if proc.stderr else "")
+    fallback_allowed, fallback_skip_reason = structured_fallback_policy(
+        worker.cascade_spec, primary_output
+    )
     if (not target_changed() and engine != "structured"
-            and engine_label != "patch" and not backend_unavailable):
+            and engine_label != "patch" and fallback_allowed):
         structured_fallback = True
         scmd = [
             "python3", "-u", "scripts/tools/lang-sync/structured-translate.py",
@@ -928,6 +955,11 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
         log((sproc.stdout + ("\n" + sproc.stderr if sproc.returncode != 0 else ""))[-3000:])
         proc = sproc
         engine_label = f"{engine_label}→structured"
+    elif (not target_changed() and engine != "structured" and engine_label != "patch"
+          and fallback_skip_reason):
+        structured_fallback_skip_reason = fallback_skip_reason
+        log(f"   ⏭️  no-output structured fallback skipped "
+            f"({fallback_skip_reason}; backend={worker.cascade_spec})")
 
     # AFTER fallback, BEFORE any restore — worker-health signal.
     produced_by_backend = target_changed()
@@ -1034,6 +1066,7 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
         "engine": engine_label,
         "structured_fallback": structured_fallback,
         "structured_fallback_exit": structured_fallback_exit,
+        "structured_fallback_skip_reason": structured_fallback_skip_reason,
     })
 
     with state.lock:

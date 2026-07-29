@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.22)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.23)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.22'
+current_version: 'v1.23'
 last_updated: 2026-07-29
-last_session: '2026-07-29-vortex-wikilink-materialization'
+last_session: '2026-07-29-vortex-structured-fallback-eligibility'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.22
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.23
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,14 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.23（2026-07-29）：以本 run 81 次實績收斂 structured fallback eligibility。
+  零產物後換 structured 共只救回 5 次；desktop Ollama 0/29、Laguna 0/14，
+  後者累積約 20 worker-hours 仍 0 成功，救援路徑已成確定性長尾。Nemotron
+  尚有 5/38，故只保留它的 structured 路徑；primary 翻譯、下一輪重試與
+  verify trio 均不變。同時把 primary 已明示 `Available: []`、全 key rate-limit
+  或 provider error 的容量故障視為 terminal：structured 仍打同一 backend，
+  不再複製一次已知失敗。report 新增 skip reason，後續可區分 backend-capacity
+  與 backend-adaptation；hard gate 不變。
 - v1.22（2026-07-29）：把 manifest 已解析成功的 `[[wikilink]]` 路由從模型手上
   收回工具端。近一小時 en／ko 隔離樣本雖拿到正確 `wikilink_targets`，模型仍把
   `[[台灣企業：台積電]]` 翻成不存在的 `[[Taiwanese Enterprise: TSMC]]`，
