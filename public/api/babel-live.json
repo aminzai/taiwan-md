@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-07-30T05:51:05+08:00",
+ "generated_at": "2026-07-30T06:02:38+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-07-30T05:50:59+08:00",
+ "snapshot_ts": "2026-07-30T06:02:32+08:00",
  "total_zh": 871,
  "langs": [
   {
@@ -70,11 +70,11 @@
   {
    "lang": "pt",
    "name": "Português",
-   "fresh": 737,
+   "fresh": 738,
    "stale": 6,
-   "missing": 128,
-   "coverage_pct": 85.3,
-   "fresh_delta": 0
+   "missing": 127,
+   "coverage_pct": 85.4,
+   "fresh_delta": 1
   },
   {
    "lang": "hi",
@@ -88,35 +88,35 @@
   {
    "lang": "ar",
    "name": "العربية",
-   "fresh": 600,
+   "fresh": 601,
    "stale": 0,
-   "missing": 271,
-   "coverage_pct": 68.9,
-   "fresh_delta": 0
+   "missing": 270,
+   "coverage_pct": 69.0,
+   "fresh_delta": 1
   },
   {
    "lang": "ru",
    "name": "Русский",
-   "fresh": 631,
+   "fresh": 632,
    "stale": 0,
-   "missing": 240,
-   "coverage_pct": 72.4,
-   "fresh_delta": 0
+   "missing": 239,
+   "coverage_pct": 72.6,
+   "fresh_delta": 1
   }
  ],
- "gap_total": 2127,
- "gap_delta": 0,
+ "gap_total": 2124,
+ "gap_delta": -3,
  "rate_1h": {
-  "delta": 12,
-  "span_h": 1.02,
-  "per_hour": 11.8
+  "delta": 14,
+  "span_h": 1.01,
+  "per_hour": 13.8
  },
  "rate_24h": {
-  "delta": 239,
-  "span_h": 24.13,
-  "per_hour": 9.9
+  "delta": 240,
+  "span_h": 24.06,
+  "per_hour": 10.0
  },
- "eta_days": 7.5,
+ "eta_days": 6.4,
  "nodes": {
   "worker:dead": {
    "ok": 0,
@@ -323,9 +323,9 @@
    "last_activity": "2026-07-30T05:47:52+08:00"
   },
   "worker:nemo4": {
-   "ok": 158,
+   "ok": 160,
    "fail": 310,
-   "avg_s": 242.2,
+   "avg_s": 244.1,
    "top_fail": [
     [
      "leak",
@@ -336,23 +336,23 @@
      65
     ]
    ],
-   "last_activity": "2026-07-30T05:47:20+08:00"
+   "last_activity": "2026-07-30T06:00:42+08:00"
   },
   "worker:nemo2": {
-   "ok": 167,
-   "fail": 299,
-   "avg_s": 262.3,
+   "ok": 168,
+   "fail": 301,
+   "avg_s": 262.5,
    "top_fail": [
     [
      "leak",
-     131
+     132
     ],
     [
      "no output written by tra",
      51
     ]
    ],
-   "last_activity": "2026-07-30T05:25:36+08:00"
+   "last_activity": "2026-07-30T05:58:45+08:00"
   },
   "worker:l4090": {
    "ok": 47,
@@ -534,17 +534,12 @@
   {
    "kind": "unified",
    "pid": "66392",
-   "uptime": "01:55:17",
+   "uptime": "02:06:50",
    "langs": "ja,id,pt,hi,ar,ru",
    "workers": 4
   }
  ],
  "history": [
-  {
-   "ts": "2026-07-29T15:35:22+08:00",
-   "fresh_total": 7353,
-   "gap_total": 2228
-  },
   {
    "ts": "2026-07-29T15:36:19+08:00",
    "fresh_total": 7353,
@@ -1019,6 +1014,11 @@
    "ts": "2026-07-30T05:50:59+08:00",
    "fresh_total": 7454,
    "gap_total": 2127
+  },
+  {
+   "ts": "2026-07-30T06:02:32+08:00",
+   "fresh_total": 7457,
+   "gap_total": 2124
   }
  ]
 }
