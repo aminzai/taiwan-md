@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-07-30T02:14:45+08:00",
+ "generated_at": "2026-07-30T02:54:52+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-07-30T02:14:39+08:00",
+ "snapshot_ts": "2026-07-30T02:54:46+08:00",
  "total_zh": 871,
  "langs": [
   {
@@ -97,26 +97,26 @@
   {
    "lang": "ru",
    "name": "Русский",
-   "fresh": 622,
+   "fresh": 624,
    "stale": 1,
-   "missing": 248,
-   "coverage_pct": 71.5,
+   "missing": 246,
+   "coverage_pct": 71.8,
    "fresh_delta": 0
   }
  ],
- "gap_total": 2156,
+ "gap_total": 2154,
  "gap_delta": 0,
  "rate_1h": {
-  "delta": 3,
-  "span_h": 1.01,
-  "per_hour": 3.0
+  "delta": 2,
+  "span_h": 1.07,
+  "per_hour": 1.9
  },
  "rate_24h": {
-  "delta": 283,
-  "span_h": 24.06,
-  "per_hour": 11.8
+  "delta": 271,
+  "span_h": 24.23,
+  "per_hour": 11.2
  },
- "eta_days": 29.9,
+ "eta_days": 47.2,
  "nodes": {
   "worker:dead": {
    "ok": 0,
@@ -292,7 +292,7 @@
   },
   "worker:nemo3": {
    "ok": 180,
-   "fail": 287,
+   "fail": 292,
    "avg_s": 253.6,
    "top_fail": [
     [
@@ -304,11 +304,11 @@
      51
     ]
    ],
-   "last_activity": "2026-07-30T01:52:14+08:00"
+   "last_activity": "2026-07-30T02:54:17+08:00"
   },
   "worker:nemo4": {
    "ok": 153,
-   "fail": 300,
+   "fail": 302,
    "avg_s": 230.9,
    "top_fail": [
     [
@@ -320,11 +320,11 @@
      61
     ]
    ],
-   "last_activity": "2026-07-30T01:56:38+08:00"
+   "last_activity": "2026-07-30T02:20:30+08:00"
   },
   "worker:nemo2": {
    "ok": 166,
-   "fail": 290,
+   "fail": 293,
    "avg_s": 263.4,
    "top_fail": [
     [
@@ -333,15 +333,15 @@
     ],
     [
      "no output written by tra",
-     47
+     49
     ]
    ],
-   "last_activity": "2026-07-30T01:34:30+08:00"
+   "last_activity": "2026-07-30T02:50:09+08:00"
   },
   "worker:nemo": {
-   "ok": 191,
-   "fail": 325,
-   "avg_s": 235.7,
+   "ok": 193,
+   "fail": 327,
+   "avg_s": 248.8,
    "top_fail": [
     [
      "leak",
@@ -352,7 +352,7 @@
      41
     ]
    ],
-   "last_activity": "2026-07-30T01:56:14+08:00"
+   "last_activity": "2026-07-30T02:49:29+08:00"
   },
   "worker:l4090": {
    "ok": 47,
@@ -372,15 +372,15 @@
   },
   "worker:gemma31": {
    "ok": 0,
-   "fail": 3,
+   "fail": 9,
    "avg_s": null,
    "top_fail": [
     [
      "no output written by tra",
-     3
+     9
     ]
    ],
-   "last_activity": "2026-07-30T01:50:15+08:00"
+   "last_activity": "2026-07-30T02:50:27+08:00"
   },
   "worker:mac": {
    "ok": 43,
@@ -533,45 +533,13 @@
  "dispatchers": [
   {
    "kind": "unified",
-   "pid": "63446",
-   "uptime": "24:41",
+   "pid": "14055",
+   "uptime": "01:51",
    "langs": "ja,id,pt,hi,ar,ru",
    "workers": 4
-  },
-  {
-   "kind": "unified",
-   "pid": "63454",
-   "uptime": "24:41",
-   "langs": "vi",
-   "workers": 1
   }
  ],
  "history": [
-  {
-   "ts": "2026-07-29T11:02:39+08:00",
-   "fresh_total": 7285,
-   "gap_total": 2296
-  },
-  {
-   "ts": "2026-07-29T11:17:52+08:00",
-   "fresh_total": 7288,
-   "gap_total": 2293
-  },
-  {
-   "ts": "2026-07-29T11:32:53+08:00",
-   "fresh_total": 7290,
-   "gap_total": 2291
-  },
-  {
-   "ts": "2026-07-29T11:33:04+08:00",
-   "fresh_total": 7290,
-   "gap_total": 2291
-  },
-  {
-   "ts": "2026-07-29T11:34:55+08:00",
-   "fresh_total": 7291,
-   "gap_total": 2290
-  },
   {
    "ts": "2026-07-29T11:48:17+08:00",
    "fresh_total": 7298,
@@ -1026,6 +994,31 @@
    "ts": "2026-07-30T02:14:39+08:00",
    "fresh_total": 7425,
    "gap_total": 2156
+  },
+  {
+   "ts": "2026-07-30T02:29:50+08:00",
+   "fresh_total": 7425,
+   "gap_total": 2156
+  },
+  {
+   "ts": "2026-07-30T02:45:02+08:00",
+   "fresh_total": 7426,
+   "gap_total": 2155
+  },
+  {
+   "ts": "2026-07-30T02:48:08+08:00",
+   "fresh_total": 7427,
+   "gap_total": 2154
+  },
+  {
+   "ts": "2026-07-30T02:54:34+08:00",
+   "fresh_total": 7427,
+   "gap_total": 2154
+  },
+  {
+   "ts": "2026-07-30T02:54:46+08:00",
+   "fresh_total": 7427,
+   "gap_total": 2154
   }
  ]
 }
