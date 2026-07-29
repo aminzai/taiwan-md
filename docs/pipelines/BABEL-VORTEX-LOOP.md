@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.42)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.43)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.42'
+current_version: 'v1.43'
 last_updated: 2026-07-30
-last_session: '2026-07-30-vortex-ja-ko-frontmatter-leak'
+last_session: '2026-07-30-vortex-phase-n-id-mapping'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.42
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.43
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,13 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.43（2026-07-30）：Structured Phase N 接受可無損證明順序的腳註 ID
+  mapping。近一小時 8 次失敗中 7 次是 no-output，至少 4 次已完成 frontmatter
+  翻譯，卻因模型把 15 筆腳註回成 `{"1": {...}, "2": {...}}` 而被現有
+  single-list wrapper 解包器判成 `got dict`。新 normalizer 只在 top-level key
+  集合精確等於預期腳註 ID、每個 value 都是 object、value 內 ID 不衝突時按
+  原批順序還原 array；缺項、多項、非 object 或 ID 衝突仍交給原 hard gate
+  拒收。三組回歸測試涵蓋安全接受、拒絕與既有 wrapper 相容。
 - v1.42（2026-07-30）：收斂 `cjk-leak-check` 的 ja／ko 與非 CJK 分支：
   leak gate 一律只掃正文、排除 frontmatter。舊版只有非 CJK 分支排除
   frontmatter，日／韓譯文的 `rationale`、`lifeTree`、研究路徑等合法保留欄位
