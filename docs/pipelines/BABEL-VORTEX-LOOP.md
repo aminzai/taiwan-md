@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.16)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.17)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.16'
+current_version: 'v1.17'
 last_updated: 2026-07-29
-last_session: '2026-07-29-vortex-fleet-service-readiness'
+last_session: '2026-07-29-vortex-fallback-image-armor'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.16
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.17
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,13 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.17（2026-07-29）：保住 URL-token fallback 的站內受管圖片。近一小時
+  5 個 `image-health` 隔離樣本全都先發生一般 URL token 遺失，改走非裝甲
+  重譯後，模型再把來源正確的 `/article-images/...` 改成外站、壞掉的 Commons
+  URL 或不存在的站內網址。fallback 仍維持「一般連結與裸 URL 原樣送模型」的
+  真正換路，不重啟曾造成更高 token 遺失的整套 URL 裝甲；只把狹義 markdown
+  圖片 target `/article-images/...` 留在機械 token／恰好一次 hard gate 內。
+  圖片是已下載並受 image-health 管理的資產，不是可翻譯內容。
 - v1.16（2026-07-29）：把「機器可達」與「模型服務可用」收斂回 fleet
   抽象層。probe 原本已正確區分 `idle/busy`（Ollama serving）與 `online`
   （SSH 可達但 Ollama 未服務），但 `batch_workers(service="llm")` 只排除

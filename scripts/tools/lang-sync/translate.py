@@ -330,6 +330,10 @@ _URL_TOKEN_RE = re.compile(
     # 回來仍是 zh 原文，等於 armor 自己製造一個 cjk-leak）。
 )
 
+_ARTICLE_IMAGE_TARGET_RE = re.compile(
+    r"(!\[[^\]]*\]\()(/article-images/[^)\s]+)(\))"
+)
+
 
 def tokenize_urls(text: str, lang: str | None = None) -> tuple[str, list[str]]:
     """Transform 2（常駐，2026-07-26 A/B 實測 200/200 token 零失手，見
@@ -364,6 +368,24 @@ def tokenize_urls(text: str, lang: str | None = None) -> tuple[str, list[str]]:
 
     tokenized = _URL_TOKEN_RE.sub(repl, text)
     return tokenized, urls
+
+
+def tokenize_article_images(text: str) -> tuple[str, list[str]]:
+    """Fallback 仍機械保護站內快取圖片，但不重新啟用整套 URL 裝甲。
+
+    URL token 遺失後的第二次翻譯必須換路，外部 URL 因此維持原樣；然而
+    `/article-images/...` 是已下載、由 image-health 驗證的站內資產，不是可讓
+    模型改寫的翻譯內容。2026-07-29 五篇隔離樣本一致在 fallback 把這些 target
+    幻覺成外站或壞網址。這裡只 token 化狹義的 markdown image target，沿用
+    `restore_urls()` 的恰好一次 hard gate；其餘連結與裸 URL 完全不碰。
+    """
+    urls: list[str] = []
+
+    def repl(m: re.Match) -> str:
+        urls.append(m.group(2))
+        return f"{m.group(1)}⟦U{len(urls)}⟧{m.group(3)}"
+
+    return _ARTICLE_IMAGE_TARGET_RE.sub(repl, text), urls
 
 
 def restore_urls(text: str, urls: list[str]) -> tuple[str, list[int]]:
@@ -469,14 +491,16 @@ def armor_pre(article: dict, zh_content: str, lang: str, armor: bool = False,
     fm_prompt_block = disarm_frontmatter(zh_fm)
 
     # ---- Transform 2（常駐）: URL token 化（body 含腳註定義行）+ 站內連結在地化 ----
-    # tokenize=False 是 armor 還原失敗後的 fallback 路徑（2026-07-27）：URL 原樣
-    # 送進模型，不換成 ⟦U1⟧。實測「重試同一條裝甲路徑」是負面結果（遺失量
+    # tokenize=False 是 armor 還原失敗後的 fallback 路徑（2026-07-27）：一般 URL
+    # 原樣送進模型，不換成 ⟦U1⟧。實測「重試同一條裝甲路徑」是負面結果（遺失量
     # 2→56），因為佔位標記本身就是模型想處理掉的異物，講得越明白越去動它。
-    # 換路才有意義；URL 正確性改由既有 verify 的 URL 數量檢查把關。
+    # 換路才有意義；一般 URL 正確性改由既有 verify 的 URL 數量檢查把關。
+    # 唯一例外是 `/article-images/...`：它是站內受管資產，五篇實績證明裸送會被
+    # 幻覺成外站 URL，所以第二條路仍以狹義 token 保護，hard gate 不放寬。
     if tokenize:
         tokenized_body, url_list = tokenize_urls(body, lang)
     else:
-        tokenized_body, url_list = body, []
+        tokenized_body, url_list = tokenize_article_images(body)
 
     lang_name = LANG_NAMES.get(lang, lang)
 
@@ -770,8 +794,9 @@ def translate_one(article: dict, lang: str, cascade: TranslationCascade,
                 # 換路，不是重走。2026-07-27 實測：帶警告重試同一條裝甲路徑
                 # 讓遺失量不減反增（2→56、28→22、2→3）——佔位標記本身就是模型
                 # 想「處理掉」的異物，把它講得越明白反而越去動它。所以 fallback
-                # 是把 URL 原樣送進去（tokenize=False），URL 正確性改由既有
-                # verify 的 URL 數量檢查把關，不再靠模型保住標記。
+                # 是把一般 URL 原樣送進去（tokenize=False），URL 正確性改由既有
+                # verify 的 URL 數量檢查把關，不再靠模型保住標記。站內受管圖片
+                # `/article-images/...` 仍以狹義 token 保護，避免模型改寫資產。
                 print(f"   ⚠️  {post_err} — fallback 非裝甲路徑重譯 "
                       f"(attempt {attempt + 1}/{max_attempts})")
                 system, user_msg, armor_ctx = armor_pre(
