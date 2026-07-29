@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-29T09:12:57+08:00",
-    "zhCommitHead": "7f5266370",
+    "lastUpdated": "2026-07-29T09:17:31+08:00",
+    "zhCommitHead": "4d154e53e",
     "totalZh": 870,
     "activeLanguages": [
       "en",
@@ -83,10 +83,10 @@
       },
       "hi": {
         "total_zh": 870,
-        "fresh": 514,
+        "fresh": 515,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 355,
+        "missing": 354,
         "orphan": 0
       },
       "ar": {
@@ -48660,8 +48660,8 @@
           "sourceContentHash": "sha256:690ecb6c58309760",
           "sourceBodyHash": "sha256:36525caaf207b712",
           "translatedAt": "2026-07-29T07:32:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4d154e53",
+          "translationLastModified": "2026-07-29T09:12:58+08:00",
           "inferred": false,
           "footnoteDefs": 45,
           "status": "fresh",
@@ -58147,7 +58147,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/yang-dechang.md",
+          "translatedFrom": "People/楊德昌.md",
+          "sourceCommitSha": "58c351c43",
+          "sourceContentHash": "sha256:890b13d8d8c67562",
+          "sourceBodyHash": "sha256:7119ad62eb825546",
+          "translatedAt": "2026-07-29T07:32:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 92,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/yang-dechang.md",
@@ -103027,8 +103038,8 @@
           "sourceContentHash": "sha256:bcc022be65ff89b5",
           "sourceBodyHash": "sha256:b3b5dbb9d7dd34fc",
           "translatedAt": "2026-07-29T07:32:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4d154e53",
+          "translationLastModified": "2026-07-29T09:12:58+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -103998,8 +104009,8 @@
           "sourceContentHash": "sha256:fb76ac27fc6cd3ba",
           "sourceBodyHash": "sha256:a32189fb31dd0c7d",
           "translatedAt": "2026-07-29T07:32:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4d154e53",
+          "translationLastModified": "2026-07-29T09:12:58+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
@@ -104216,8 +104227,8 @@
           "sourceContentHash": "sha256:e34125e4b520b62c",
           "sourceBodyHash": "sha256:6490dd989b255fd9",
           "translatedAt": "2026-07-29T07:32:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4d154e53",
+          "translationLastModified": "2026-07-29T09:12:58+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
