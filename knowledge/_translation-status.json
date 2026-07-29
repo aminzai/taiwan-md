@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-29T09:17:31+08:00",
-    "zhCommitHead": "4d154e53e",
+    "lastUpdated": "2026-07-29T09:34:38+08:00",
+    "zhCommitHead": "9d29db165",
     "totalZh": 870,
     "activeLanguages": [
       "en",
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 870,
-        "fresh": 702,
+        "fresh": 703,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 162,
+        "missing": 161,
         "orphan": 0
       },
       "hi": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 870,
-        "fresh": 589,
+        "fresh": 590,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 280,
+        "missing": 279,
         "orphan": 0
       }
     },
@@ -17140,8 +17140,8 @@
           "sourceContentHash": "sha256:c2deb4a945d2dc5b",
           "sourceBodyHash": "sha256:a4c6e70e74235d09",
           "translatedAt": "2026-07-29T07:32:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9d29db16",
+          "translationLastModified": "2026-07-29T09:17:32+08:00",
           "inferred": false,
           "footnoteDefs": 60,
           "status": "fresh",
@@ -58153,8 +58153,8 @@
           "sourceContentHash": "sha256:890b13d8d8c67562",
           "sourceBodyHash": "sha256:7119ad62eb825546",
           "translatedAt": "2026-07-29T07:32:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9d29db16",
+          "translationLastModified": "2026-07-29T09:17:32+08:00",
           "inferred": false,
           "footnoteDefs": 92,
           "status": "fresh",
@@ -78753,7 +78753,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/stan-shih.md",
+          "translatedFrom": "People/施振榮.md",
+          "sourceCommitSha": "648966eac",
+          "sourceContentHash": "sha256:4207f3d1db6eb633",
+          "sourceBodyHash": "sha256:a0ff299644c9b0cc",
+          "translatedAt": "2026-07-29T07:32:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 71,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -97975,7 +97986,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/national-human-rights-museum.md",
+          "translatedFrom": "History/國家人權博物館.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:c2fe08a62433be18",
+          "sourceBodyHash": "sha256:8de971f3c7942edf",
+          "translatedAt": "2026-07-29T07:32:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
