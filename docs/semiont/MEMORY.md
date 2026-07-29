@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-30
-last_session: '2026-07-30-053815-twmd-routine-sync（17 條全 in-sync，零漂移第五日）'
+last_session: '2026-07-30-061444-twmd-data-refresh-am（14 步全綠零 stale，live dump rider 例行續跑）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -357,3 +357,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-29 | 093409-twmd-flywheel-watch | 飛輪綠燈零警報（24hr 118 commit／14 筆 routine，六條日更全部留痕）；昨日 #22 live dump 黃燈由 owner 自己的 rider 接住（齡 3.3h），但 hard gate 未進 skill 故不關 | 綠燈不是「工具說綠」——maintainer 今天只留收官 commit，靠退路命中，回 git log 對過才算數 | [→](memory/2026-07-29-093409-twmd-flywheel-watch.md) |
 | 2026-07-30 | 053352-twmd-embeddings-nightly | bge-m3 nightly 12 語 8391 向量 0 fail；id 篇數跨過 400 門檻；vi 連續第三晚持平 343 篇仍低於門檻（爬升期非故障） | 語言篇數持續成長是健康訊號，vi 持平不動才是該留意的那個訊號 | [→](memory/2026-07-30-053352-twmd-embeddings-nightly.md) |
 | 2026-07-30 | 053815-twmd-routine-sync | 三層對賬第五日全綠：17 條 routine 全 in-sync，零漂移；昨天修好的 babel-nightly drift 沒有復發 | 連續全綠仍要記一行，否則「這條 routine 有沒有在跑」下次沒基線可比 | [→](memory/2026-07-30-053815-twmd-routine-sync.md) |
+| 2026-07-30 | 061444-twmd-data-refresh-am | 14 步全綠零 stale；live dump rider 從昨天救三天黃燈轉為今天例行續跑（齡 23h 未過門檻仍主動補） | owner 責任內化成節奏而非救火，不必等變黃燈才做該做的事 | [→](memory/2026-07-30-061444-twmd-data-refresh-am.md) |
