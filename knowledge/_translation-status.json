@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-29T13:55:03+08:00",
-    "zhCommitHead": "d1a5fdb1a",
+    "lastUpdated": "2026-07-29T15:05:44+08:00",
+    "zhCommitHead": "db07cc97a",
     "totalZh": 871,
     "activeLanguages": [
       "en",
@@ -35,8 +35,8 @@
       },
       "ko": {
         "total_zh": 871,
-        "fresh": 841,
-        "stale": 25,
+        "fresh": 842,
+        "stale": 24,
         "metadata_stale": 0,
         "missing": 5,
         "orphan": 0
@@ -75,18 +75,18 @@
       },
       "pt": {
         "total_zh": 871,
-        "fresh": 723,
+        "fresh": 725,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 142,
+        "missing": 140,
         "orphan": 0
       },
       "hi": {
         "total_zh": 871,
-        "fresh": 525,
+        "fresh": 526,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 344,
+        "missing": 343,
         "orphan": 0
       },
       "ar": {
@@ -17223,8 +17223,8 @@
           "sourceContentHash": "sha256:5ca6801bb47a7371",
           "sourceBodyHash": "sha256:45291b99c4801128",
           "translatedAt": "2026-07-29T12:59:29+08:00",
-          "translationLastCommit": "a0de2893",
-          "translationLastModified": "2026-07-29T09:36:01+08:00",
+          "translationLastCommit": "3efc6e23",
+          "translationLastModified": "2026-07-29T13:55:03+08:00",
           "inferred": false,
           "footnoteDefs": 60,
           "status": "fresh",
@@ -21138,7 +21138,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/rayark-games.md",
+          "translatedFrom": "Technology/雷亞遊戲.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:efb74dfc78d9c93c",
+          "sourceBodyHash": "sha256:28ef520886f893e3",
+          "translatedAt": "2026-07-29T12:59:28+08:00",
+          "translationLastCommit": "27832de2",
+          "translationLastModified": "2026-07-29T14:35:24+08:00",
+          "inferred": false,
+          "footnoteDefs": 53,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -47860,8 +47871,8 @@
           "sourceContentHash": "sha256:5eee2da441f10cd0",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-29T05:36:42.766320+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "27832de2",
+          "translationLastModified": "2026-07-29T14:35:24+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -71726,8 +71737,8 @@
           "sourceContentHash": "sha256:4ca80675bb1a1122",
           "sourceBodyHash": "sha256:2b34fd0038a36214",
           "translatedAt": "2026-07-29T12:59:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "27832de2",
+          "translationLastModified": "2026-07-29T14:35:24+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -71740,8 +71751,8 @@
           "sourceContentHash": "sha256:4ca80675bb1a1122",
           "sourceBodyHash": "sha256:2b34fd0038a36214",
           "translatedAt": "2026-07-29T12:59:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3efc6e23",
+          "translationLastModified": "2026-07-29T13:55:03+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -71754,8 +71765,8 @@
           "sourceContentHash": "sha256:4ca80675bb1a1122",
           "sourceBodyHash": "sha256:2b34fd0038a36214",
           "translatedAt": "2026-07-29T12:59:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "27832de2",
+          "translationLastModified": "2026-07-29T14:35:24+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -82361,8 +82372,8 @@
           "sourceContentHash": "sha256:ff571f0d47415df6",
           "sourceBodyHash": "sha256:87fd16bb46aa18be",
           "translatedAt": "2026-07-29T12:59:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "27832de2",
+          "translationLastModified": "2026-07-29T14:35:24+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -83350,18 +83361,16 @@
         "ko": {
           "path": "ko/People/ang-lee.md",
           "translatedFrom": "People/李安.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:5e0878a68a9e472e",
-          "sourceBodyHash": "sha256:b22fe95649d7be32",
-          "translatedAt": "2026-06-16T17:05:51Z",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "sourceCommitSha": "09c1bf1a9",
+          "sourceContentHash": "sha256:270ebb8ad85e9750",
+          "sourceBodyHash": "sha256:1c12395477bc0a4e",
+          "translatedAt": "2026-07-29T06:39:37.016962+00:00",
+          "translationLastCommit": "b1306da3",
+          "translationLastModified": "2026-07-29T14:40:14+08:00",
           "inferred": false,
           "footnoteDefs": 50,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/ang-lee.md",
@@ -108330,7 +108339,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/taipei-city.md",
+          "translatedFrom": "Geography/台北市.md",
+          "sourceCommitSha": "1fbb3adf1",
+          "sourceContentHash": "sha256:6b1de66c12b3c38a",
+          "sourceBodyHash": "sha256:c557c6ff09961dc3",
+          "translatedAt": "2026-07-29T12:59:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -109029,7 +109049,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/tainan-city.md",
+          "translatedFrom": "Geography/台南市.md",
+          "sourceCommitSha": "925aca59e",
+          "sourceContentHash": "sha256:a92ec79c444536b4",
+          "sourceBodyHash": "sha256:2dcae5a0df1cbb16",
+          "translatedAt": "2026-07-29T12:59:27+08:00",
+          "translationLastCommit": "27832de2",
+          "translationLastModified": "2026-07-29T14:35:24+08:00",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
