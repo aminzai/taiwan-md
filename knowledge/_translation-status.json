@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-30T07:43:14+08:00",
-    "zhCommitHead": "9104b8c1c",
+    "lastUpdated": "2026-07-30T07:53:37+08:00",
+    "zhCommitHead": "c9a7e6bec",
     "totalZh": 871,
     "activeLanguages": [
       "en",
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 871,
-        "fresh": 633,
+        "fresh": 634,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 238,
+        "missing": 237,
         "orphan": 0
       }
     },
@@ -24323,8 +24323,8 @@
           "sourceContentHash": "sha256:63b47718f8145b2c",
           "sourceBodyHash": "sha256:04f5859af8f97035",
           "translatedAt": "2026-07-30T03:55:59+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c9a7e6be",
+          "translationLastModified": "2026-07-30T07:52:28+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "status": "fresh",
@@ -38881,8 +38881,8 @@
           "sourceContentHash": "sha256:670bf6306d125685",
           "sourceBodyHash": "sha256:58df60a34bbdc3ea",
           "translatedAt": "2026-07-30T03:55:56+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5b2de50c",
+          "translationLastModified": "2026-07-30T07:43:14+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -82615,8 +82615,8 @@
           "sourceContentHash": "sha256:96f1d5630278a964",
           "sourceBodyHash": "sha256:57937e9b25b2f462",
           "translatedAt": "2026-07-30T03:55:56+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5b2de50c",
+          "translationLastModified": "2026-07-30T07:43:14+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "status": "fresh",
@@ -99524,8 +99524,8 @@
           "sourceContentHash": "sha256:c2fe08a62433be18",
           "sourceBodyHash": "sha256:8de971f3c7942edf",
           "translatedAt": "2026-07-30T03:56:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "c9a7e6be",
+          "translationLastModified": "2026-07-30T07:52:28+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "status": "fresh",
@@ -105493,7 +105493,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/taitung-county.md",
+          "translatedFrom": "Geography/台東縣.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:847426338ec9f591",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-07-29T23:40:57.752108+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
