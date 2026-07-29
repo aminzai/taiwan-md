@@ -141,6 +141,14 @@ def detect_lang(path: Path) -> str:
         idx = parts.index("knowledge")
         if idx + 1 < len(parts):
             return parts[idx + 1]
+    # Dispatcher 的隔離檔固定命名為 `<lang>--<slug>.md`。v1.15 只修了 repo
+    # 外路徑的顯示崩潰，卻仍把這些檔案判成 unknown；unknown 會落入 ja/ko
+    # marker 分支，讓 non-CJK 語言的 4+ 漢字真洩漏在覆盤時消失。產線原路徑
+    # `knowledge/<lang>/...` 一直判對，這裡補的是隔離診斷的同一把尺。
+    if "quarantine" in parts and "--" in path.name:
+        candidate = path.name.split("--", 1)[0]
+        if candidate in (NON_CJK_SCRIPT_LANGS | {"ja", "ko"}):
+            return candidate
     return "unknown"
 
 

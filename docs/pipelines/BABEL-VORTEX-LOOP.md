@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.17)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.18)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.17'
+current_version: 'v1.18'
 last_updated: 2026-07-29
-last_session: '2026-07-29-vortex-fallback-image-armor'
+last_session: '2026-07-29-vortex-quarantine-lang-detection'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.17
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.18
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,12 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.18（2026-07-29）：讓隔離 leak 覆盤與產線使用同一個語言判準。v1.15
+  已讓 `cjk-leak-check.py` 能顯示 repo 外的 `/tmp/.../quarantine` 路徑，
+  但語言仍只從 `knowledge/<lang>/...` 推導；`pt--slug.md` 等隔離檔因此全被
+  當成 unknown，誤走 ja/ko 的 marker 分支，non-CJK 語言的 4+ 漢字洩漏在
+  覆盤時大量消失。現在辨識 dispatcher canonical `<lang>--<slug>.md` 命名；
+  產線 gate 判準不變，修的是診斷儀器，避免把 13 件真 leak 誤看成 3 件。
 - v1.17（2026-07-29）：保住 URL-token fallback 的站內受管圖片。近一小時
   5 個 `image-health` 隔離樣本全都先發生一般 URL token 遺失，改走非裝甲
   重譯後，模型再把來源正確的 `/article-images/...` 改成外站、壞掉的 Commons
