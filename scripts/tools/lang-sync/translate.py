@@ -774,6 +774,29 @@ def detect_partial_translation(body: str, lang: str) -> Optional[tuple[int, str,
     return None
 
 
+def detect_cjk_leak(text: str, lang: str) -> Optional[str]:
+    """Run the canonical downstream leak rule before writing the candidate.
+
+    The older paragraph-ratio guard only catches a mostly-Chinese paragraph.
+    Nemotron commonly leaves short Chinese clauses embedded in otherwise
+    translated prose; those pass the ratio guard, get written, and are then
+    quarantined by the dispatcher.  Reuse cjk-leak-check's exact zones and
+    markers here so one bounded retry can happen inside the same model call
+    workflow, without weakening the downstream gate.
+    """
+    scan = _cjkleak_mod.strip_legit_zones(text, drop_frontmatter=True)
+    if lang in _cjkleak_mod.NON_CJK_SCRIPT_LANGS:
+        match = _cjkleak_mod.CJK_RUN_RE.search(scan)
+        if match:
+            return f"CJK run {match.group(0)!r}"
+        return None
+
+    for marker in _cjkleak_mod.ZH_ONLY_MARKERS:
+        if marker in scan:
+            return f"zh-only marker {marker!r}"
+    return None
+
+
 # ────────────────── Per-article driver ──────────────────
 
 def translate_one(article: dict, lang: str, cascade: TranslationCascade,
@@ -881,6 +904,22 @@ def translate_one(article: dict, lang: str, cascade: TranslationCascade,
         if lang_result:
             verdict, detail = lang_result
             return False, f"output-language gate [{verdict}] via {backend_used}: {detail} — not saved", backend_used
+
+        # Exact cjk-leak gate before落盤.  The dispatcher has always enforced
+        # this after translate.py returns, but at that point the candidate can
+        # only be quarantined.  Keeping the same SSOT here turns short embedded
+        # leak spans into one bounded, explicitly warned retry.
+        cjk_leak = detect_cjk_leak(output, lang)
+        if cjk_leak:
+            if attempt < max_attempts:
+                user_msg = user_msg + (
+                    "\n\n⚠️ RETRY WARNING: your previous output still contained "
+                    f"untranslated Chinese text ({cjk_leak}). Translate every "
+                    "remaining Chinese phrase into the target language. Do not "
+                    "copy Chinese prose into the translation."
+                )
+                continue
+            return False, f"cjk-leak ({cjk_leak}) via {backend_used} — not saved", backend_used
 
         # Partial-translation hard gate (2026-07-26 armored-input-ab §五「更急的發
         # 現」)：前面所有 gate 只查結構，從不查 body 是不是真的翻完了——reasoning

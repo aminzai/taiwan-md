@@ -1,9 +1,9 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.33)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.34)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.33'
+current_version: 'v1.34'
 last_updated: 2026-07-29
 last_session: '2026-07-29-vortex-cross-lang-model-performance'
 sister_docs:
@@ -11,7 +11,7 @@ sister_docs:
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.33
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.34
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,12 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.34（2026-07-29）：把 canonical CJK leak gate 前移到 `translate.py`
+  落盤前，命中時用同一次整篇流程的第二次有限重試修復。舊的段落級 partial
+  gate 只抓「80 字以上且中文過半」，本輪 Nemotron 33 篇中 19 篇是短中文片段
+  混在已翻譯段落，全部避開前置閘、落盤後才被 dispatcher 隔離。新閘直接
+  import `cjk-leak-check.py` 的合法區、CJK run 與 ja/ko marker SSOT，不另寫
+  判準；第二次仍漏就不落盤，dispatcher 下游 gate 繼續保留作獨立防線。
 - v1.33（2026-07-29）：OpenRouter timeout 改成真正的 wall-clock deadline。
   v1.32 已阻止逾時跨 key 重播，但 urllib 的 `timeout=` 只限制單次 socket
   operation；Laguna 只要持續滴流，一次 API call 仍可跑 1,205 秒，兩次全文
