@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.35)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.36)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.35'
+current_version: 'v1.36'
 last_updated: 2026-07-30
-last_session: '2026-07-30-vortex-laguna-throughput-cutoff'
+last_session: '2026-07-30-vortex-structured-split-and-vi-pilot'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.35
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.36
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,13 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.36（2026-07-30）：Structured fallback 的 body chunk 三次失敗後，新增一次
+  有界的段落二分救援。近一小時 4 篇都已完成 Phase F/N，只因 1 個 body chunk
+  失敗便整篇歸零；新路徑只在至少有兩段時沿最接近中點的段落邊界切成兩半，
+  每半各追加 1 次呼叫，仍逐半驗 footnote／URL／CJK leak，合併後再驗原 chunk，
+  任一不合格仍不落盤。同期 vi 由已撤池的 Laguna 改成符合級別門檻、已通過
+  sovereignty 校準的 Gemma 4 31B 單 worker pilot；取得 n≥8 真實文章後再按
+  15% 門檻決定留撤。M4 仍禁跑，地端接案規則不變。
 - v1.35（2026-07-30）：撤下 Laguna 越南語專軌。2026-07-26 的歷史校準曾有
   43-71%，但近兩日真實完整文章已累積 0/44，本輪 0/9；主要失敗是單次請求
   撞 600 秒 hard deadline，另有一篇 armor fallback 兩次合計 983 秒仍零產物。

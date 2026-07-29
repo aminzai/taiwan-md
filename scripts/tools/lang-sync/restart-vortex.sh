@@ -57,7 +57,7 @@ if [ "${1:-}" = "--check" ]; then
     echo "   ⚠️  目前沒有 babel-dispatch.py"
     lane_count=0
   fi
-  echo "   lanes=${lane_count}（有 fleet 額度時預期 2，否則 1；vi 模型待重新合格）"
+  echo "   lanes=${lane_count}（有 fleet 額度時預期 3，否則 2）"
   echo ""
   echo "▸ lane logs"
   for log in /tmp/babel-fleet.log /tmp/babel-cloud.log /tmp/babel-vi-rescue.log; do
@@ -162,13 +162,15 @@ start babel-cloud.log "${LAUNCH_LABELS[1]}" "雲端 nemotron×4（六語）" --l
   --worker "nemo3=openrouter:nvidia/nemotron-3-ultra-550b-a55b:free" \
   --worker "nemo4=openrouter:nvidia/nemotron-3-ultra-550b-a55b:free"
 
-# Laguna 曾是 vi 最佳模型，但 2026-07-30 的完整文章實績已降到 0/44；
-# 依 n>=8 且 <15% 的入池門檻撤下。沒有重新通過真實文章校準前，vi
-# 維持 fail-closed，不用低階模型或 M4 繞過 fleet 抽象層補洞。
+# Laguna 0/44 已撤池。Gemma 4 31B 通過 sovereignty 校準且符合模型級別門檻，
+# 但尚無 vi 完整文章實績；先用單 worker pilot，累積 n>=8 後照 15% 門檻裁決。
+# 這是雲端軌，不使用本機 M4，也不繞過 fleet 的地端接案控制。
+start babel-vi-rescue.log "${LAUNCH_LABELS[2]}" "越南語 Gemma 4 31B 單 worker pilot" --langs vi \
+  --worker "gemma31=openrouter:google/gemma-4-31b-it:free"
 
 sleep 3
 echo ""
-echo "▸ 確認：$(pgrep -f babel-dispatch | wc -l | tr -d ' ') 條產線在跑（fleet／cloud；fleet 無額度時為 1）"
+echo "▸ 確認：$(pgrep -f babel-dispatch | wc -l | tr -d ' ') 條產線在跑（fleet／cloud／vi，fleet 無額度時為 2）"
 echo ""
 echo "接下來："
 echo "  巡檢   bash scripts/tools/lang-sync/restart-vortex.sh --check  （或見 BABEL-VORTEX-LOOP.md §三重巡檢）"

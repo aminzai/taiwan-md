@@ -566,6 +566,31 @@ def _split_paragraphs(text: str, max_chars: int) -> list[str]:
     return [c for c in chunks if c.strip()]
 
 
+def _bisect_at_paragraph_boundary(text: str) -> list[str]:
+    """把失敗 chunk 沿最接近中點的段落邊界切成恰好兩半。
+
+    不在句中硬切，因為那會讓兩次獨立翻譯失去語境並破壞 markdown 結構。
+    只有至少兩個非空段落時才回傳兩半；否則保守放棄 split fallback。
+    """
+    paras = [p for p in re.split(r"\n{2,}", text) if p.strip()]
+    if len(paras) < 2:
+        return []
+    total = sum(len(p) + 2 for p in paras)
+    running = 0
+    best_idx = 1
+    best_distance = total
+    for idx in range(1, len(paras)):
+        running += len(paras[idx - 1]) + 2
+        distance = abs(total / 2 - running)
+        if distance < best_distance:
+            best_idx = idx
+            best_distance = distance
+    return [
+        "\n\n".join(paras[:best_idx]),
+        "\n\n".join(paras[best_idx:]),
+    ]
+
+
 def chunk_body(body: str, max_chars: int = 6000) -> list[str]:
     """按 H2（## ）切塊；無 H2 或塊 >6000 字元則退化為段落切塊。"""
     h2_positions = [m.start() for m in re.finditer(r"(?m)^## ", body)]
@@ -723,6 +748,53 @@ def translate_body_chunks(chunks: list[str], lang: str, backend, fn_glossary: di
                 f"re-translate the SAME source text: {'; '.join(issues)}"
             )
 
+        split_fallback = False
+        # 近一小時 structured fallback 有 4 篇完成 Phase F/N，最後卻都因單一
+        # body chunk 三次失敗而整篇歸零。原 chunk 重試耗盡後，沿段落邊界二分，
+        # 兩半各只再試一次：換的是問題尺寸，不是無限重播同一 prompt。兩半仍各自
+        # 驗腳註、URL、CJK leak，合併後再用原 chunk 跑一次完整驗證。
+        if last_issues:
+            split_parts = _bisect_at_paragraph_boundary(zh_chunk)
+            split_outputs: list[str] = []
+            split_ok = len(split_parts) == 2
+            for part_idx, part in enumerate(split_parts):
+                part_refs = set(INLINE_FN_REF_RE.findall(part))
+                t0 = time.time()
+                try:
+                    raw = backend.translate(base_system, part, max_tokens=6000, timeout=240)
+                    elapsed = round(time.time() - t0, 1)
+                    out = _strip_fence(raw)
+                    issues = _validate_chunk(part, out, part_refs, lang, tmp_dir)
+                    metrics.setdefault("calls", []).append({
+                        "label": f"phase-B-chunk{idx}-split{part_idx}",
+                        "attempt": 1,
+                        "ok": not issues,
+                        "elapsed_s": elapsed,
+                        "issues": issues,
+                    })
+                except Exception as e:  # noqa: BLE001
+                    elapsed = round(time.time() - t0, 1)
+                    out, issues = "", [f"backend error: {e}"]
+                    metrics.setdefault("calls", []).append({
+                        "label": f"phase-B-chunk{idx}-split{part_idx}",
+                        "attempt": 1,
+                        "ok": False,
+                        "error": str(e),
+                        "elapsed_s": elapsed,
+                    })
+                split_outputs.append(out)
+                if issues:
+                    split_ok = False
+            if split_ok:
+                joined = "\n\n".join(split_outputs)
+                joined_issues = _validate_chunk(
+                    zh_chunk, joined, zh_refs, lang, tmp_dir)
+                if not joined_issues:
+                    last_output, last_issues = joined, []
+                    split_fallback = True
+                else:
+                    last_output, last_issues = joined, joined_issues
+
         chunk_reports.append({
             "index": idx,
             "zh_chars": len(zh_chunk),
@@ -731,6 +803,7 @@ def translate_body_chunks(chunks: list[str], lang: str, backend, fn_glossary: di
             "retries": attempts_used - 1,
             "status": "OK" if not last_issues else "FAILED_VALIDATION",
             "issues": last_issues,
+            "split_fallback": split_fallback,
         })
         translated_chunks.append(last_output)
 
