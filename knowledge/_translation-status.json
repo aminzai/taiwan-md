@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-29T11:22:55+08:00",
-    "zhCommitHead": "903a7ec4d",
+    "lastUpdated": "2026-07-29T11:35:52+08:00",
+    "zhCommitHead": "1e39a5a95",
     "totalZh": 871,
     "activeLanguages": [
       "en",
@@ -67,26 +67,26 @@
       },
       "id": {
         "total_zh": 871,
-        "fresh": 426,
+        "fresh": 427,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 443,
+        "missing": 442,
         "orphan": 0
       },
       "pt": {
         "total_zh": 871,
-        "fresh": 710,
+        "fresh": 711,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 155,
+        "missing": 154,
         "orphan": 0
       },
       "hi": {
         "total_zh": 871,
-        "fresh": 516,
+        "fresh": 517,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 353,
+        "missing": 352,
         "orphan": 0
       },
       "ar": {
@@ -13493,7 +13493,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/taiwan-tungsten-supply-chain.md",
+          "translatedFrom": "Technology/台灣鎢供應鏈.md",
+          "sourceCommitSha": "d6fdcf866",
+          "sourceContentHash": "sha256:56ac16371a296013",
+          "sourceBodyHash": "sha256:0ba20d6588799dfb",
+          "translatedAt": "2026-07-29T07:32:33+08:00",
+          "translationLastCommit": "2736b466",
+          "translationLastModified": "2026-07-29T11:33:20+08:00",
+          "inferred": false,
+          "footnoteDefs": 42,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/taiwan-tungsten-supply-chain.md",
@@ -21575,8 +21586,8 @@
           "sourceContentHash": "sha256:b60bd097d9577c55",
           "sourceBodyHash": "sha256:9c00635e5ed9da36",
           "translatedAt": "2026-07-29T07:32:35+08:00",
-          "translationLastCommit": "6ff21f66",
-          "translationLastModified": "2026-07-24T13:51:01+08:00",
+          "translationLastCommit": "2736b466",
+          "translationLastModified": "2026-07-29T11:33:20+08:00",
           "inferred": false,
           "footnoteDefs": 72,
           "status": "fresh",
@@ -26876,8 +26887,8 @@
           "sourceContentHash": "sha256:3ae429b55b3339f0",
           "sourceBodyHash": "sha256:00c160f3d2bfc5b4",
           "translatedAt": "2026-07-29T07:32:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6476ef78",
+          "translationLastModified": "2026-07-29T11:22:55+08:00",
           "inferred": false,
           "footnoteDefs": 48,
           "status": "fresh",
@@ -65791,7 +65802,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/tsmc-morris-chang.md",
+          "translatedFrom": "People/張忠謀.md",
+          "sourceCommitSha": "7a66acd4f",
+          "sourceContentHash": "sha256:b1203b58fb6b7faa",
+          "sourceBodyHash": "sha256:6d452360d79fae70",
+          "translatedAt": "2026-07-29T07:32:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -70099,8 +70121,8 @@
           "sourceContentHash": "sha256:335773d0a09d68a9",
           "sourceBodyHash": "sha256:257d28e459bd329d",
           "translatedAt": "2026-07-29T07:32:34+08:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "2736b466",
+          "translationLastModified": "2026-07-29T11:33:20+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "status": "fresh",
@@ -79804,8 +79826,8 @@
           "sourceContentHash": "sha256:7ebf03343b7d94a6",
           "sourceBodyHash": "sha256:3ba24a255fbd26bc",
           "translatedAt": "2026-07-29T07:32:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6476ef78",
+          "translationLastModified": "2026-07-29T11:22:55+08:00",
           "inferred": false,
           "footnoteDefs": 43,
           "status": "fresh",
@@ -101431,8 +101453,8 @@
           "sourceContentHash": "sha256:86be5fe44de05439",
           "sourceBodyHash": "sha256:ad35178eae665c53",
           "translatedAt": "2026-07-29T07:32:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "6476ef78",
+          "translationLastModified": "2026-07-29T11:22:55+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -101462,8 +101484,8 @@
           "sourceContentHash": "sha256:86be5fe44de05439",
           "sourceBodyHash": "sha256:ad35178eae665c53",
           "translatedAt": "2026-07-29T07:32:37+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2736b466",
+          "translationLastModified": "2026-07-29T11:33:20+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -102547,7 +102569,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/guling-street.md",
+          "translatedFrom": "Geography/牯嶺街.md",
+          "sourceCommitSha": "fe48ea49d",
+          "sourceContentHash": "sha256:cf36b43868cfc58f",
+          "sourceBodyHash": "sha256:cafaccb40b199771",
+          "translatedAt": "2026-07-29T07:32:34+08:00",
+          "translationLastCommit": "2736b466",
+          "translationLastModified": "2026-07-29T11:33:20+08:00",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -102573,8 +102606,8 @@
           "sourceContentHash": "sha256:cf36b43868cfc58f",
           "sourceBodyHash": "sha256:cafaccb40b199771",
           "translatedAt": "2026-07-29T07:32:37+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2736b466",
+          "translationLastModified": "2026-07-29T11:33:20+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "status": "fresh",
