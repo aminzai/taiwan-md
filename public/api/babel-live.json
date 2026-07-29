@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-07-30T00:49:48+08:00",
+ "generated_at": "2026-07-30T01:13:59+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-07-30T00:49:41+08:00",
+ "snapshot_ts": "2026-07-30T01:13:53+08:00",
  "total_zh": 871,
  "langs": [
   {
@@ -107,16 +107,16 @@
  "gap_total": 2159,
  "gap_delta": 0,
  "rate_1h": {
-  "delta": 5,
-  "span_h": 1.02,
-  "per_hour": 4.9
+  "delta": 4,
+  "span_h": 1.01,
+  "per_hour": 3.9
  },
  "rate_24h": {
-  "delta": 313,
-  "span_h": 24.16,
-  "per_hour": 13.0
+  "delta": 304,
+  "span_h": 24.06,
+  "per_hour": 12.6
  },
- "eta_days": 18.4,
+ "eta_days": 23.1,
  "nodes": {
   "worker:dead": {
    "ok": 0,
@@ -292,7 +292,7 @@
   },
   "worker:nemo3": {
    "ok": 179,
-   "fail": 284,
+   "fail": 286,
    "avg_s": 241.2,
    "top_fail": [
     [
@@ -301,10 +301,10 @@
     ],
     [
      "no output written by tra",
-     50
+     51
     ]
    ],
-   "last_activity": "2026-07-30T00:42:09+08:00"
+   "last_activity": "2026-07-30T01:07:58+08:00"
   },
   "worker:nemo4": {
    "ok": 152,
@@ -324,7 +324,7 @@
   },
   "worker:nemo2": {
    "ok": 165,
-   "fail": 287,
+   "fail": 289,
    "avg_s": 264.4,
    "top_fail": [
     [
@@ -333,14 +333,14 @@
     ],
     [
      "no output written by tra",
-     45
+     46
     ]
    ],
-   "last_activity": "2026-07-30T00:46:07+08:00"
+   "last_activity": "2026-07-30T01:09:44+08:00"
   },
   "worker:nemo": {
    "ok": 191,
-   "fail": 319,
+   "fail": 322,
    "avg_s": 235.7,
    "top_fail": [
     [
@@ -352,7 +352,7 @@
      40
     ]
    ],
-   "last_activity": "2026-07-30T00:45:49+08:00"
+   "last_activity": "2026-07-30T01:05:24+08:00"
   },
   "worker:l4090": {
    "ok": 47,
@@ -522,22 +522,12 @@
   {
    "kind": "unified",
    "pid": "15446",
-   "uptime": "00:45",
+   "uptime": "24:56",
    "langs": "ja,id,pt,hi,ar,ru",
    "workers": 4
   }
  ],
  "history": [
-  {
-   "ts": "2026-07-29T09:37:13+08:00",
-   "fresh_total": 7262,
-   "gap_total": 2319
-  },
-  {
-   "ts": "2026-07-29T09:46:34+08:00",
-   "fresh_total": 7266,
-   "gap_total": 2315
-  },
   {
    "ts": "2026-07-29T10:01:47+08:00",
    "fresh_total": 7271,
@@ -1005,6 +995,16 @@
   },
   {
    "ts": "2026-07-30T00:49:41+08:00",
+   "fresh_total": 7422,
+   "gap_total": 2159
+  },
+  {
+   "ts": "2026-07-30T00:58:41+08:00",
+   "fresh_total": 7422,
+   "gap_total": 2159
+  },
+  {
+   "ts": "2026-07-30T01:13:53+08:00",
    "fresh_total": 7422,
    "gap_total": 2159
   }
