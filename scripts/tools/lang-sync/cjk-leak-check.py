@@ -180,7 +180,11 @@ def scan_file(path: Path, lang: str = None):
     #   「…」『…』引述 span — 引用原文 zh 是編輯選擇（陳建仁原話等），非洩漏
     #   《…》〈…〉作品名 — 專輯／書／單曲／詩名保留原文合法
     #   markdown 連結（容忍一層巢狀中括號）— 引用的 zh 標題合法
-    scan = strip_legit_zones(text)   # 同一把尺（2026-07-27 收斂）
+    # 2026-07-30 第十四家族：非 CJK 分支早已 drop frontmatter，ja/ko 卻
+    # 掃整份檔案，於是 rationale／lifeTree／research path 裡合法保留的中文
+    # marker 會把完整好譯文隔離。frontmatter 的 title/description/imageAlt/tags
+    # 已由 verify-translation 專責把關；leak gate 只掃正文，兩分支必須同尺。
+    scan = strip_legit_zones(text, drop_frontmatter=True)
     scan = re.sub(r"https?://\S+", "", scan)   # 裸 URL 同豁免（第八家族）
     for marker in ZH_ONLY_MARKERS:
         c = scan.count(marker)
