@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-29T09:39:18+08:00",
-    "zhCommitHead": "86bb6ecc5",
+    "lastUpdated": "2026-07-29T09:39:31+08:00",
+    "zhCommitHead": "11cc5b53a",
     "totalZh": 871,
     "activeLanguages": [
       "en",
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 871,
-        "fresh": 556,
+        "fresh": 557,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 313,
+        "missing": 312,
         "orphan": 0
       },
       "ru": {
@@ -32718,8 +32718,8 @@
           "sourceContentHash": "sha256:5d718d4ccb9dca76",
           "sourceBodyHash": "sha256:b97d2d0eea4b5afe",
           "translatedAt": "2026-07-29T07:32:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "11cc5b53",
+          "translationLastModified": "2026-07-29T09:39:18+08:00",
           "inferred": false,
           "footnoteDefs": 52,
           "status": "fresh",
@@ -47171,7 +47171,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Nature/daan-river-yitian-sword.md",
+          "translatedFrom": "Nature/大安溪倚天劍.md",
+          "sourceCommitSha": "ff92f3866",
+          "sourceContentHash": "sha256:3ee4be522cff1a4e",
+          "sourceBodyHash": "sha256:5dcfd938f21ea513",
+          "translatedAt": "2026-07-29T07:32:36+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 63,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
