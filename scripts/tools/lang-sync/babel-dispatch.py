@@ -1030,6 +1030,22 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
         elif lr.stdout.strip():
             log(f"   🔧 link-target heal: {lr.stdout.strip()[-200:]}")
 
+        # Prettier 對斜體 caption 內 percent-encoded Commons 檔名有一個
+        # 可重現的破壞：URL 中的 `_NN` 會和 caption 結尾 `_` 配對，改寫成
+        # `*NN` 後連結 404。2026-07-30 葡／阿同篇各中一次；checker 已能抓，
+        # 但只當裁判仍會浪費完整譯文。safe fixer 還原 URL、caption 留純文字，
+        # 並把完全相同的連結移到下一個非斜體段落，URL multiset 不變。
+        mr = subprocess.run(
+            ["python3", "scripts/tools/article-health.py", trans_path,
+             "--profile=pre-commit", "--check=link-url-mangle", "--fix", "--quiet"],
+            cwd=REPO, capture_output=True, text=True,
+        )
+        if mr.returncode != 0:
+            log(f"   🔴 link-url-mangle heal 失敗 rc={mr.returncode}: "
+                f"{(mr.stdout + mr.stderr).strip()[-300:]}")
+        elif mr.stdout.strip():
+            log(f"   🔧 link-url-mangle heal: {mr.stdout.strip()[-200:]}")
+
         # 腳註格式也有一小塊能安全機械修復。2026-07-28 隔離樣本覆盤：
         # 最新 8 個 footnote-format fail 中，safe-only fixer 完整救回 1 個，
         # 另 2 個只修掉安全子集、仍由 hard gate 擋下；其餘 5 個完全不動。

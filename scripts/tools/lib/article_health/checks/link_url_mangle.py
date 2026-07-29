@@ -46,6 +46,12 @@ APPLIES_TO = ["*"]
 # `\S*\*\S*` lets the URL include balanced internal parens (houtong `(cropped*2022).jpg`).
 _MANGLED = re.compile(r"\]\(<?(https?://\S*\*\S*?)>?\)")
 
+# Whole markdown link, used only after the line has been identified as an
+# italic caption. Commons filenames in this failure family encode any literal
+# parentheses as %28/%29, so a conservative "up to the next )" is sufficient
+# and avoids trying to parse arbitrary Markdown here.
+_CAPTION_LINK = re.compile(r"\[([^\]\n]+)\]\(<?(https?://[^\s)>]+)>?\)")
+
 # WARN at-risk: percent-encoded Commons URL ending in `_<digits>` before the
 # image extension, sitting in an italic caption line.
 _ATRISK_URL = re.compile(
@@ -111,3 +117,64 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
                     "把 `[…](commons-url)` 移到 `## 圖片來源`，caption 只留純文字授權標示。"
                 ),
             )
+
+
+def fix(target: FileTarget, config: dict[str, Any]) -> int:
+    """Safely move vulnerable Commons links out of italic captions.
+
+    The transform is deliberately local and lossless:
+
+    - an already mangled Wikimedia/Wikipedia URL gets its literal ``*`` bytes
+      restored to ``_``;
+    - the caption keeps the attribution as plain text;
+    - the exact Markdown link is repeated on a separate, non-italic line
+      immediately below it.
+
+    Keeping the link nearby (instead of guessing translated ``圖片來源``
+    headings) preserves the source/translation URL multiset and works across
+    all eleven languages. The QA gates still run afterwards.
+    """
+    text = target.path.read_text(encoding="utf-8")
+    lines = text.split("\n")
+    changes = 0
+    healed: list[str] = []
+
+    for line in lines:
+        if not _is_italic_caption(line):
+            healed.append(line)
+            continue
+
+        moved_links: list[str] = []
+
+        def move(match: re.Match[str]) -> str:
+            nonlocal changes
+            label, url = match.group(1), match.group(2)
+            is_wiki = "wikimedia.org" in url or "wikipedia.org" in url
+            restored = url.replace("*", "_") if is_wiki else url
+            at_risk = bool(
+                re.search(
+                    r"commons\.wikimedia\.org[^\s)]*%[0-9A-Fa-f]{2}"
+                    r"[^\s)]*_[0-9][0-9-]*\.(?:jpg|JPG|jpeg|png|webp)$",
+                    restored,
+                )
+            )
+            if not ((is_wiki and "*" in url) or at_risk):
+                return match.group(0)
+            moved_links.append(f"[{label}]({restored})")
+            changes += 1
+            return label
+
+        new_line = _CAPTION_LINK.sub(move, line)
+        if moved_links:
+            # Prettier's broken form leaves the closing delimiter escaped
+            # (`.\_`) or flipped (`.*`). Restore the caption wrapper too.
+            new_line = re.sub(r"(?:\\_|\*)\s*$", "_", new_line)
+            healed.append(new_line)
+            healed.append("")
+            healed.extend(moved_links)
+        else:
+            healed.append(line)
+
+    if changes and not config.get("dry_run", False):
+        target.path.write_text("\n".join(healed), encoding="utf-8")
+    return changes

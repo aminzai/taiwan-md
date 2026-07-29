@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.38)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.39)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.38'
+current_version: 'v1.39'
 last_updated: 2026-07-30
-last_session: '2026-07-30-vortex-phase-n-parser-and-vi-fail-closed'
+last_session: '2026-07-30-vortex-caption-url-healer'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.38
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.39
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,13 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.39（2026-07-30）：把 `link-url-mangle` 的 safe healer 接進 dispatcher。
+  同一篇蛋撻葡／阿譯文均已完整產出，卻在 Prettier 把斜體 caption 裡
+  percent-encoded Commons URL 的多個 `_` 改成 `*` 後，被 health gate 隔離。
+  新 fixer 只處理斜體 caption 內已 mangled 的 Wiki URL 或既有 checker 判定的
+  at-risk Commons URL：`*` 還原 `_`、caption 保留純文字署名、完全相同的可點
+  連結移到緊接的非斜體段落。URL multiset 不變，十一語標題不用猜，
+  verify／leak／health 三閘亦不放寬；兩篇當輪隔離樣本作真實回歸驗收。
 - v1.38（2026-07-30）：多語 image-health 的圖片出處標題補上 ru／ar。
   本輪兩篇新俄文都已有 `## Источники изображений` 與完整 attribution，checker
   卻因既有多語 regex 漏列俄文而同報「缺圖片來源」；這是 QA 觀測假黃燈，不是
