@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.30)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.31)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.30'
+current_version: 'v1.31'
 last_updated: 2026-07-29
-last_session: '2026-07-29-vortex-url-identity-gate'
+last_session: '2026-07-29-vortex-cross-lang-model-performance'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.30
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.31
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,16 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.31（2026-07-29）：弱適配儀器新增「同 worker/backend 跨語總體」聚合。
+  原本只等 `worker × lang` 各格 n≥8；四語 lane 已整體 0/8 時，每格仍只有
+  2 筆，最慢要浪費 32 次才會警示。新總體列當場抓出
+  `desktop3090[ollama:qwen3.5:35b] × all = 0%`，逐語表仍保留供切軌。
+  該模型後續達 0/9，雖然單篇 235–530 秒不再逾時，仍全數敗於 URL identity、
+  CJK leak 或 footnote-format；fleet Babel profile 因此撤下 qwen3.5:35b
+  與先前長文 3/3 timeout 的 qwen3:32b，並透過 fleetctl 補
+  `gemma4:26b`，沒有合格模型時維持 fail-closed。原拉模 API 使用
+  `stream:false`，17 分鐘沒有任何控制面訊號；fleet 現改讀 JSONL 串流事件並
+  每 5% 回報，重連可接續已下載 blob，長任務不再把下載冒充卡死。
 - v1.30（2026-07-29）：同一篇 `Society/外送專法.md` 驗出 count-only URL
   gate 的假綠：模型把 Yahoo percent-encoding 改一碼、把 apostrophe 改成
   `%27`，只要總數相同舊 gate 就會放行；同時舊規則還容忍 ±2 個 URL。

@@ -121,6 +121,7 @@ def check_track_record(days: int = 2) -> dict:
     from datetime import datetime, timedelta
     cut = (datetime.now().astimezone() - timedelta(days=days)).isoformat()
     grid = defaultdict(lambda: [0, 0])
+    worker_total = defaultdict(lambda: [0, 0])
     for rp in glob.glob("/tmp/babel-unified-2*/report.jsonl"):
         try:
             for line in open(rp, encoding="utf-8"):
@@ -136,7 +137,9 @@ def check_track_record(days: int = 2) -> dict:
                 # 舊報表沒有 backend 欄時保留原 key，從本版起按實際 backend 分流。
                 backend = r.get("backend")
                 worker_key = f"{worker}[{backend}]" if backend else worker
-                grid[(worker_key, r.get("lang", "?"))][0 if r.get("ok") else 1] += 1
+                bucket = 0 if r.get("ok") else 1
+                grid[(worker_key, r.get("lang", "?"))][bucket] += 1
+                worker_total[worker_key][bucket] += 1
         except Exception:
             continue
     weak = []
@@ -144,6 +147,13 @@ def check_track_record(days: int = 2) -> dict:
         n = ok + fail
         if n >= 8 and ok / n < 0.15:
             weak.append({"worker": w, "lang": lang, "pass_pct": round(ok / n * 100), "n": n})
+    # 多語 lane 會把同一模型的失敗拆成數個小格。只看 worker × lang 時，
+    # 四語模型即使已整體 0/8，每格仍只有 2 筆，要燒到最多 32 次才會警示。
+    # 另列跨語總體實績，逐語表仍保留給切軌判斷。
+    for w, (ok, fail) in sorted(worker_total.items()):
+        n = ok + fail
+        if n >= 8 and ok / n < 0.15:
+            weak.append({"worker": w, "lang": "all", "pass_pct": round(ok / n * 100), "n": n})
     return {"samples": sum(ok + fail for ok, fail in grid.values()),
             "weak_pairs": weak,
             "note": "通過率 <15%（n≥8）的 worker×語言組合——切軌或換模型，"

@@ -3,9 +3,9 @@ title: 'SQUEEZE-MODELS-MAX-PIPELINE'
 description: '多語 batch sync 主流程 — priority schema P0/P1/P2/P2.5/P3 + Tier 0a Sonnet diff-patch + 4-tier cascade + Z0-Z6 stage spine + §義務鐵律推 100% + v4.4 對齊 translate.py v4.3（owl-alpha 移出 default / preflight 冷凍 / audit-quality.py 已存在）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v4.10'
+current_version: 'v4.11'
 last_updated: 2026-07-29
-last_session: '2026-07-29 vortex（URL gate 從數量升級為 exact multiset；堵住等量改碼假綠）'
+last_session: '2026-07-29 vortex（模型實績新增跨語總體門檻；撤下 3090 兩個零產出 Qwen）'
 production_signal: 'scripts/tools/lang-sync/translate.py §DEFAULT_CASCADE_ID docstring（本檔 cascade 描述必須鏡射它；audit 時 diff 這兩處，REFLEXES #56 rule (a)）'
 sister_docs:
   - 'TRANSLATION-PIPELINE.md'
@@ -20,9 +20,17 @@ upstream_canonical:
 > 報告、三重巡檢、自動進化硬條款、薄殼 wake prompt contract。本檔管「怎麼翻」，
 > 渦流檔管「怎麼持續運轉與進化」。
 
-# 榨模型MAX — 多語 batch sync 主流程 v4.10
+# 榨模型MAX — 多語 batch sync 主流程 v4.11
 
 > **第一性原理**：用所有手邊免費 model 同時平行打、refusal 當作 first-class 結果記錄、最終跨批次統合補空缺，把單一 model 的天花板（rate limit / content policy / quality）拆成許多小天花板加起來逼近 100%。Tier 4 Local LLM 永不漏接 sovereignty-sensitive topics。
+>
+> v4.11（2026-07-29 vortex）：**弱適配同時看逐語與跨語總體** —
+> 四語 lane 的 `qwen3.5:35b` 已 0/8，舊儀器因每個語言僅 2 筆仍不警示；
+> 現新增 worker/backend × all 的 n≥8 門檻。實績後續為 0/9，因此 fleet
+> Babel profile 撤下 qwen3.5:35b；先前完整文章 3/3 timeout 的 qwen3:32b
+> 同步撤下。3090 正由 fleetctl 補 gemma4:26b，完成前不降級核發。
+> fleetctl pull 同步改用 JSONL 串流事件每 5% 回報；舊 `stream:false` 曾讓
+> 17 分鐘的正常下載在控制面完全無訊號。
 >
 > v4.10（2026-07-29 vortex）：**URL 保留驗 identity，不只驗 quantity** —
 > non-armor fallback 實際把 percent-encoded URL 改一碼，另把 apostrophe 改成
@@ -993,11 +1001,11 @@ nemotron）後通過率 33%。
 
 **入池白名單（2026-07-26 起）**：
 
-| 級別        | 模型                                                                                                   | 用途                                                    |
-| ----------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
-| ✅ 可入池   | `nemotron-3-ultra-550b`／`gemma4:26b`＋以上／`gpt-oss-120b`／`qwen3.6:35b`、`qwen3.5:35b`、`qwen3:32b` | 產線主力；仍須通過完整文章吞吐驗收                      |
-| ✅ 條件可用 | `laguna-xs-2.1`                                                                                        | 越南語專軌實測 43-71%，暫留觀察；若品質回報不佳一併撤下 |
-| ❌ 不入池   | `gpt-oss-20b`（oss20）、`gemma4:12b` 等同級小模型                                                      | 品質不足，任何情況都不派                                |
+| 級別        | 模型                                                                       | 用途                                                    |
+| ----------- | -------------------------------------------------------------------------- | ------------------------------------------------------- |
+| ✅ 可入池   | `nemotron-3-ultra-550b`／`gemma4:26b`＋以上／`gpt-oss-120b`／`qwen3.6:35b` | 產線主力；仍須通過完整文章吞吐驗收                      |
+| ✅ 條件可用 | `laguna-xs-2.1`                                                            | 越南語專軌實測 43-71%，暫留觀察；若品質回報不佳一併撤下 |
+| ❌ 不入池   | `gpt-oss-20b`、`gemma4:12b`、`qwen3.5:35b`、`qwen3:32b`                    | 小模型品質不足，或完整文章實績已證偽                    |
 
 規則對本機 ollama 與雲端免費池一視同仁。缺算力時的正解是等額度或加機器，
 不是降級模型——**降級換來的產能是負債不是資產**。
@@ -1128,6 +1136,11 @@ macOS」本文，讓模型供應失敗可在抽象層內診斷。_
 _v4.10 | 2026-07-29 Babel vortex — URL gate 從 count（且容忍 ±2）升級為 exact
 multiset。實際隔離樣本證實模型能在 URL 數量不變時改寫 percent encoding；
 修後同一壞樣本 hard fail、人工校正後樣本三閘全綠。_
+
+_v4.11 | 2026-07-29 Babel vortex — preflight 新增 worker/backend 跨語總體實績，
+堵住多語分桶延遲警示；qwen3.5:35b 0/9、qwen3:32b 長文 3/3 timeout 後均從
+fleet Babel profile 撤下，改由抽象層補 gemma4:26b；fleetctl pull 改用串流
+進度，避免長時間拉模在控制面假死。_
 
 _v4.5 | 2026-07-18 184501-manual（巴別塔健檢）— 首次完整健檢的經驗回寫：(1) cascade 番號對賬——doc 漏列 DEFAULT_CASCADE 已收編的 fleet、「Tier 5」被 fleet 與 Sonnet 雙重佔用，對齊 production_signal 並把 Sonnet 正名 Tier 6（制度化待 OBSERVER-QUEUE #18）；(2) Tier 0a prompt template 補 Step 1b/1c 硬底（batch JSON 跨 entry 汙染驗證 + scratch 檔唯一前綴，收償 LESSONS 2026-07-14 兩條）；(3) 新增 §健檢儀器 babel-health.py（六維 WARN 級）。健檢完整報告與產線 14 天考古：[reports/babel-health-2026-07-18.md](../../reports/babel-health-2026-07-18.md)_
 
