@@ -30,10 +30,10 @@ echo ""
 # ── 前置：向 fleet 抽象層領 worker（控制面已套接案開關／並行／天花板）──
 echo "▸ fleet 受管接案"
 if [ -x "$FLEETCTL" ]; then
-  fleet_spec=$("$FLEETCTL" workers --service llm --format babel)
+  fleet_spec=$("$FLEETCTL" workers --service llm --profile babel --format babel)
   if [ -n "$fleet_spec" ]; then
     read -r -a FLEET_ARGS <<< "$fleet_spec"
-    "$FLEETCTL" workers --service llm --format table
+    "$FLEETCTL" workers --service llm --profile babel --format table
   else
     echo "   ⚠️  fleet 目前沒有核發 worker；地端軌本輪不啟動"
   fi

@@ -3,9 +3,9 @@ title: 'SQUEEZE-MODELS-MAX-PIPELINE'
 description: '多語 batch sync 主流程 — priority schema P0/P1/P2/P2.5/P3 + Tier 0a Sonnet diff-patch + 4-tier cascade + Z0-Z6 stage spine + §義務鐵律推 100% + v4.4 對齊 translate.py v4.3（owl-alpha 移出 default / preflight 冷凍 / audit-quality.py 已存在）'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v4.6'
-last_updated: 2026-07-24
-last_session: '2026-07-24 vortex（babel-dispatch 統一調度器 + 免費模型季度校準 + cjk-leak-check 兩個假陽性家族根治 + existence-aware redirects + salvage 工具）'
+current_version: 'v4.7'
+last_updated: 2026-07-29
+last_session: '2026-07-29 vortex（fleet workload profile 在抽象層 fail-closed 模型品質；拒絕 gemma4:12b 降級入池）'
 production_signal: 'scripts/tools/lang-sync/translate.py §DEFAULT_CASCADE_ID docstring（本檔 cascade 描述必須鏡射它；audit 時 diff 這兩處，REFLEXES #56 rule (a)）'
 sister_docs:
   - 'TRANSLATION-PIPELINE.md'
@@ -20,9 +20,15 @@ upstream_canonical:
 > 報告、三重巡檢、自動進化硬條款、薄殼 wake prompt contract。本檔管「怎麼翻」，
 > 渦流檔管「怎麼持續運轉與進化」。
 
-# 榨模型MAX — 多語 batch sync 主流程 v4.6
+# 榨模型MAX — 多語 batch sync 主流程 v4.7
 
 > **第一性原理**：用所有手邊免費 model 同時平行打、refusal 當作 first-class 結果記錄、最終跨批次統合補空缺，把單一 model 的天花板（rate limit / content policy / quality）拆成許多小天花板加起來逼近 100%。Tier 4 Local LLM 永不漏接 sovereignty-sensitive topics。
+>
+> v4.7（2026-07-29 vortex）：**模型品質門檻進入 fleet 抽象層** — `fleetctl workers --profile babel`
+> 只核發已拉取且符合下方入池白名單的模型，沒有合格模型即 fail-closed、不核發 worker。
+> `restart-vortex.sh` 只宣告 workload profile，不寫死節點、端點或模型。觸發證據：
+> fleet 曾把 `gemma4:12b` 核發給 Babel，13 次嘗試僅 1 篇通過（7.7%），且直接違反
+> 「任何情況都不派」規則；修復後同一節點由抽象層核發白名單內的 `qwen3:32b`。
 >
 > v4.6（2026-07-24 vortex）：**統一調度器落地** — [`babel-dispatch.py`](../../scripts/tools/lang-sync/babel-dispatch.py) 把本地 GPU 節點與雲端免費模型收進同一個 worker pool（每 worker 綁一個 backend 端點、共享工作佇列、status-aware 跨引擎 dedupe、三重 gate、git-lock commit、迴圈到 stale=0 missing=0），取代 per-node 手寫 bash 迴圈。三個結構修正（相對 legacy dispatcher）：(1) `git add` 只加本輪驗證過的精確路徑，目錄級 add 會掃進並行引擎未 commit 的工作 (2) gate fail 對 HEAD 有舊版的檔案還原不刪除——**寧可 stale 也不要 missing**（配套 [`salvage-quarantined.py`](../../scripts/tools/lang-sync/salvage-quarantined.py) gate 驗證式還原歷史降級）(3) verify 前先 prettier 正規化對齊 commit hook 量測面。同日根治 `cjk-leak-check.py` 兩個假陽性家族（全形括號 gloss 豁免 + ja/ko marker 表的 的/了/一個/淘汰 + 引述 span 豁免）——此前 ja lane 在 gate 面前 100% 死路。免費模型季度校準：[`discover-free-models.py`](../../scripts/tools/lang-sync/discover-free-models.py) 自動探勘 + 校準，2026-07-24 通過 5 模型（nemotron-3-ultra-550b / gemma-4-31b / laguna-xs-2.1 / gpt-oss-20b / north-mini-code，結果 [reports/openrouter-free-calibration-2026-07-24.json](../../reports/openrouter-free-calibration-2026-07-24.json)）。站體層配套：轉址目標 existence-aware（[`resolve-redirect-targets.mjs`](../../scripts/core/resolve-redirect-targets.mjs)，quarantine churn 不再炸 CI）。
 >
@@ -980,6 +986,9 @@ nemotron）後通過率 33%。
 規則對本機 ollama 與雲端免費池一視同仁。缺算力時的正解是等額度或加機器，
 不是降級模型——**降級換來的產能是負債不是資產**。
 
+執行面由 fleet workload profile 落實：`fleetctl workers --service llm --profile babel`。
+consumer 不得自行挑模型；profile 無合格模型時回傳 0 worker，讓地端 lane 停而不是降級。
+
 ### 排序原則：全軍由新到舊（2026-07-27 哲宇 directive）
 
 > 「我們是根據由新到舊的文章來翻對嗎（越近期的文章越完整、pipeline 也越新）」
@@ -1086,6 +1095,10 @@ python3 scripts/tools/lang-sync/translate.py --zh-path Society/颱風假.md --la
 | #49    | 4-tier cascade canonical      | v4 變 N-tier abstract（具體 tier 在 cascade config 不在 DNA） |
 
 ---
+
+_v4.7 | 2026-07-29 Babel vortex — fleet workload profile 把模型入池白名單搬到 worker 核發點；
+`gemma4:12b` 13 次僅 1 pass 的實證觸發，修後核發 `qwen3:32b`，無合格模型 fail-closed。
+consumer 僅宣告 `--profile babel`，維持 fleet 作為節點／端點／模型的唯一抽象層。_
 
 _v4.5 | 2026-07-18 184501-manual（巴別塔健檢）— 首次完整健檢的經驗回寫：(1) cascade 番號對賬——doc 漏列 DEFAULT_CASCADE 已收編的 fleet、「Tier 5」被 fleet 與 Sonnet 雙重佔用，對齊 production_signal 並把 Sonnet 正名 Tier 6（制度化待 OBSERVER-QUEUE #18）；(2) Tier 0a prompt template 補 Step 1b/1c 硬底（batch JSON 跨 entry 汙染驗證 + scratch 檔唯一前綴，收償 LESSONS 2026-07-14 兩條）；(3) 新增 §健檢儀器 babel-health.py（六維 WARN 級）。健檢完整報告與產線 14 天考古：[reports/babel-health-2026-07-18.md](../../reports/babel-health-2026-07-18.md)_
 
