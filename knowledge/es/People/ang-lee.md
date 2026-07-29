@@ -2,9 +2,7 @@
 title: 'Ang Lee: detrás de dos Óscar, el hijo que no pudo despedirse bien de su padre'
 description: 'En el escenario de los Óscar de 2006, Ang Lee se convirtió en el primer asiático de la historia en ganar el premio a mejor director, pero dijo en mandarín: «Gracias a todos por su preocupación». El mundo recuerda al orgullo de Taiwán y sus dos estatuillas, pero lo que él filmó durante toda su vida fue la represión, el miedo y a su padre, que murió repentinamente dos años antes y que siempre se había opuesto a que hiciera cine. Desde el yerno desempleado que pasó seis años cocinando en casa hasta el dos veces León de Oro en Venecia, su verdadero adversario nunca estuvo en el set, sino en ese yo interior que no lograba atravesar.'
 date: 2026-03-17
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '電影與戲劇'
 tags:
   [
     'figuras',
@@ -15,18 +13,20 @@ tags:
     'transcultural',
     'Premios Golden Horse',
   ]
+subcategory: '電影與戲劇'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: true
-translatedFrom: 'People/李安.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:5e0878a68a9e472e'
-sourceBodyHash: 'sha256:b22fe95649d7be32'
-translatedAt: '2026-06-16T17:05:07Z'
 image: '/article-images/people/ang-lee-bafta-2013.webp'
 imageCredit: 'Sean Reynolds'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Ang_Lee_(8464864982).jpg'
+translatedFrom: 'People/李安.md'
+sourceCommitSha: '09c1bf1a9'
+sourceContentHash: 'sha256:270ebb8ad85e9750'
+sourceBodyHash: 'sha256:1c12395477bc0a4e'
+translatedAt: '2026-07-29T03:53:12.193163+00:00'
 ---
 
 # Ang Lee: detrás de dos Óscar, el hijo que no pudo despedirse bien de su padre
