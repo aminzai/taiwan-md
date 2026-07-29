@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-07-29T22:48:59+08:00",
+ "generated_at": "2026-07-29T22:52:51+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-07-29T22:48:53+08:00",
+ "snapshot_ts": "2026-07-29T22:52:45+08:00",
  "total_zh": 871,
  "langs": [
   {
@@ -108,15 +108,15 @@
  "gap_delta": 0,
  "rate_1h": {
   "delta": 3,
-  "span_h": 1.0,
-  "per_hour": 3.0
+  "span_h": 1.07,
+  "per_hour": 2.8
  },
  "rate_24h": {
   "delta": 327,
-  "span_h": 24.17,
+  "span_h": 24.24,
   "per_hour": 13.5
  },
- "eta_days": 30.1,
+ "eta_days": 32.2,
  "nodes": {
   "worker:dead": {
    "ok": 0,
@@ -292,7 +292,7 @@
   },
   "worker:nemo3": {
    "ok": 177,
-   "fail": 274,
+   "fail": 275,
    "avg_s": 233.8,
    "top_fail": [
     [
@@ -304,7 +304,7 @@
      46
     ]
    ],
-   "last_activity": "2026-07-29T22:46:14+08:00"
+   "last_activity": "2026-07-29T22:48:56+08:00"
   },
   "worker:nemo4": {
    "ok": 151,
@@ -324,23 +324,23 @@
   },
   "worker:nemo2": {
    "ok": 163,
-   "fail": 283,
+   "fail": 284,
    "avg_s": 249.3,
    "top_fail": [
     [
      "leak",
-     130
+     131
     ],
     [
      "no output written by tra",
      45
     ]
    ],
-   "last_activity": "2026-07-29T22:46:48+08:00"
+   "last_activity": "2026-07-29T22:50:16+08:00"
   },
   "worker:nemo": {
    "ok": 190,
-   "fail": 311,
+   "fail": 313,
    "avg_s": 227.6,
    "top_fail": [
     [
@@ -352,7 +352,7 @@
      36
     ]
    ],
-   "last_activity": "2026-07-29T22:43:13+08:00"
+   "last_activity": "2026-07-29T22:51:52+08:00"
   },
   "worker:l4090": {
    "ok": 47,
@@ -521,32 +521,27 @@
  "dispatchers": [
   {
    "kind": "unified",
-   "pid": "17228",
-   "uptime": "01:53",
+   "pid": "23800",
+   "uptime": "00:19",
    "langs": "en,es,fr,ko",
    "workers": 1
   },
   {
    "kind": "unified",
-   "pid": "17236",
-   "uptime": "01:53",
+   "pid": "23814",
+   "uptime": "00:19",
    "langs": "ja,id,pt,hi,ar,ru",
    "workers": 4
   },
   {
    "kind": "unified",
-   "pid": "17244",
-   "uptime": "01:53",
+   "pid": "23827",
+   "uptime": "00:19",
    "langs": "vi",
    "workers": 3
   }
  ],
  "history": [
-  {
-   "ts": "2026-07-29T07:32:47+08:00",
-   "fresh_total": 7244,
-   "gap_total": 2326
-  },
   {
    "ts": "2026-07-29T07:45:01+08:00",
    "fresh_total": 7249,
@@ -1019,6 +1014,11 @@
   },
   {
    "ts": "2026-07-29T22:48:53+08:00",
+   "fresh_total": 7416,
+   "gap_total": 2165
+  },
+  {
+   "ts": "2026-07-29T22:52:45+08:00",
    "fresh_total": 7416,
    "gap_total": 2165
   }
