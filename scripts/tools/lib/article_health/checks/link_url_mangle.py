@@ -50,7 +50,11 @@ _MANGLED = re.compile(r"\]\(<?(https?://\S*\*\S*?)>?\)")
 # italic caption. Commons filenames in this failure family encode any literal
 # parentheses as %28/%29, so a conservative "up to the next )" is sufficient
 # and avoids trying to parse arbitrary Markdown here.
-_CAPTION_LINK = re.compile(r"\[([^\]\n]+)\]\(<?(https?://[^\s)>]+)>?\)")
+_CAPTION_LINK = re.compile(
+    r"\[([^\]\n]+)\]\("
+    r"(?:<(https?://[^>\n]+)>|(https?://(?:[^\s()]|\([^()\s]*\))+))"
+    r"\)"
+)
 
 # WARN at-risk: percent-encoded Commons URL ending in `_<digits>` before the
 # image extension, sitting in an italic caption line.
@@ -62,8 +66,11 @@ _ATRISK_URL = re.compile(
 
 def _is_italic_caption(line: str) -> bool:
     s = line.strip()
-    # Caption convention: a paragraph wrapped in single underscores `_…_`.
-    return len(s) >= 2 and s.startswith("_") and (s.endswith("_") or s.endswith("*") or s.endswith("\\_"))
+    # Caption convention is usually `_…_`; older hub pages use `*…*`.
+    return len(s) >= 2 and (
+        (s.startswith("_") and (s.endswith("_") or s.endswith("*") or s.endswith("\\_")))
+        or (s.startswith("*") and s.endswith("*"))
+    )
 
 
 def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
@@ -140,15 +147,13 @@ def fix(target: FileTarget, config: dict[str, Any]) -> int:
     healed: list[str] = []
 
     for line in lines:
-        if not _is_italic_caption(line):
-            healed.append(line)
-            continue
-
+        is_caption = _is_italic_caption(line)
         moved_links: list[str] = []
 
         def move(match: re.Match[str]) -> str:
             nonlocal changes
-            label, url = match.group(1), match.group(2)
+            label = match.group(1)
+            url = match.group(2) or match.group(3)
             is_wiki = "wikimedia.org" in url or "wikipedia.org" in url
             restored = url.replace("*", "_") if is_wiki else url
             at_risk = bool(
@@ -160,20 +165,25 @@ def fix(target: FileTarget, config: dict[str, Any]) -> int:
             )
             if not ((is_wiki and "*" in url) or at_risk):
                 return match.group(0)
-            moved_links.append(f"[{label}]({restored})")
             changes += 1
-            return label
+            if is_caption:
+                moved_links.append(f"[{label}]({restored})")
+                return label
+            # Outside a caption there is no Prettier emphasis ambiguity left:
+            # restoring the impossible literal star is sufficient.
+            return f"[{label}]({restored})"
 
         new_line = _CAPTION_LINK.sub(move, line)
         if moved_links:
             # Prettier's broken form leaves the closing delimiter escaped
             # (`.\_`) or flipped (`.*`). Restore the caption wrapper too.
-            new_line = re.sub(r"(?:\\_|\*)\s*$", "_", new_line)
+            if not line.strip().startswith("*"):
+                new_line = re.sub(r"(?:\\_|\*)\s*$", "_", new_line)
             healed.append(new_line)
             healed.append("")
             healed.extend(moved_links)
         else:
-            healed.append(line)
+            healed.append(new_line)
 
     if changes and not config.get("dry_run", False):
         target.path.write_text("\n".join(healed), encoding="utf-8")

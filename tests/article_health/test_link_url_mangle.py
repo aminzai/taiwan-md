@@ -51,6 +51,46 @@ def test_fix_ignores_legitimate_non_wiki_star_url(tmp_path):
     assert "50000*" in path.read_text(encoding="utf-8")
 
 
+def test_fix_restores_mangled_wiki_url_outside_caption(tmp_path):
+    path, target = _target(
+        tmp_path,
+        "[Jack Edwards](https://en.wikipedia.org/wiki/Jack*Edwards*(British_Army_soldier))",
+    )
+
+    assert link_url_mangle.fix(target, {}) == 1
+    assert (
+        "https://en.wikipedia.org/wiki/Jack_Edwards_(British_Army_soldier)"
+        in path.read_text(encoding="utf-8")
+    )
+
+
+def test_fix_supports_legacy_star_wrapped_caption(tmp_path):
+    path, target = _target(
+        tmp_path,
+        "*Image: [Commons](https://commons.wikimedia.org/wiki/File:%E5%8F%B0*Taiwan*01.jpg)*",
+    )
+
+    assert link_url_mangle.fix(target, {}) == 1
+    healed = path.read_text(encoding="utf-8")
+    assert "*Image: Commons*" in healed
+    assert "File:%E5%8F%B0_Taiwan_01.jpg" in healed
+
+
+def test_fix_preserves_balanced_parentheses_in_url(tmp_path):
+    path, target = _target(
+        tmp_path,
+        "_Photo: [Commons](https://commons.wikimedia.org/wiki/File:Hinton_(3x4*cropped).jpg).*",
+    )
+
+    assert link_url_mangle.fix(target, {}) == 1
+    healed = path.read_text(encoding="utf-8")
+    assert (
+        "[Commons](https://commons.wikimedia.org/wiki/File:Hinton_(3x4_cropped).jpg)"
+        in healed
+    )
+    assert len(list(link_url_mangle.check(load_target(path), {}))) == 0
+
+
 def test_fix_dry_run_does_not_write(tmp_path):
     path, target = _target(
         tmp_path,

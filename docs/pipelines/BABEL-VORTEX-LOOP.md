@@ -264,9 +264,10 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 - v1.39（2026-07-30）：把 `link-url-mangle` 的 safe healer 接進 dispatcher。
   同一篇蛋撻葡／阿譯文均已完整產出，卻在 Prettier 把斜體 caption 裡
   percent-encoded Commons URL 的多個 `_` 改成 `*` 後，被 health gate 隔離。
-  新 fixer 只處理斜體 caption 內已 mangled 的 Wiki URL 或既有 checker 判定的
-  at-risk Commons URL：`*` 還原 `_`、caption 保留純文字署名、完全相同的可點
-  連結移到緊接的非斜體段落。URL multiset 不變，十一語標題不用猜，
+  新 fixer 只處理已 mangled 的 Wiki URL 或斜體 caption 內既有 checker 判定的
+  at-risk Commons URL：`*` 還原 `_`；若在 caption，保留純文字署名並把完全
+  相同的可點連結移到緊接的非斜體段落，非 caption 則只還原 URL。URL multiset
+  不變，且同時支援 `_…_` 與歷史 `*…*` caption，十一語標題不用猜，
   verify／leak／health 三閘亦不放寬；兩篇當輪隔離樣本作真實回歸驗收。
 - v1.38（2026-07-30）：多語 image-health 的圖片出處標題補上 ru／ar。
   本輪兩篇新俄文都已有 `## Источники изображений` 與完整 attribution，checker
