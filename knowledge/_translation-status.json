@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-29T11:14:59+08:00",
-    "zhCommitHead": "f1a08ff3e",
+    "lastUpdated": "2026-07-29T11:16:47+08:00",
+    "zhCommitHead": "b07ca2fd1",
     "totalZh": 871,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 871,
-        "fresh": 811,
-        "stale": 54,
+        "fresh": 812,
+        "stale": 53,
         "metadata_stale": 0,
         "missing": 6,
         "orphan": 0
@@ -6724,16 +6724,16 @@
         "ja": {
           "path": "ja/Economy/economic-miracle.md",
           "translatedFrom": "Economy/經濟奇蹟.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:18f44148c9c813dd",
-          "sourceBodyHash": "sha256:418b6e8bc018ebdd",
-          "translatedAt": "2026-05-03T23:14:06+08:00",
+          "sourceCommitSha": "9c5ad569a",
+          "sourceContentHash": "sha256:97768e7e71587490",
+          "sourceBodyHash": "sha256:411e4d6f8779c88a",
+          "translatedAt": "2026-07-29T07:32:32+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (9→0)"
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/economic-miracle.md",
@@ -103367,8 +103367,8 @@
           "sourceContentHash": "sha256:eefcd1a536e4ddf5",
           "sourceBodyHash": "sha256:a716f79b2442afc5",
           "translatedAt": "2026-07-29T07:32:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b07ca2fd",
+          "translationLastModified": "2026-07-29T11:15:00+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "status": "fresh",
@@ -116968,8 +116968,8 @@
           "sourceContentHash": "sha256:5ec68902a1c50e0d",
           "sourceBodyHash": "sha256:efeadcec0add04bc",
           "translatedAt": "2026-07-29T07:32:36+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b07ca2fd",
+          "translationLastModified": "2026-07-29T11:15:00+08:00",
           "inferred": false,
           "footnoteDefs": 38,
           "status": "fresh",
