@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-29T13:17:32+08:00",
-    "zhCommitHead": "e5c8b70cf",
+    "lastUpdated": "2026-07-29T13:23:51+08:00",
+    "zhCommitHead": "194241f2b",
     "totalZh": 871,
     "activeLanguages": [
       "en",
@@ -83,26 +83,26 @@
       },
       "hi": {
         "total_zh": 871,
-        "fresh": 521,
+        "fresh": 522,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 348,
+        "missing": 347,
         "orphan": 0
       },
       "ar": {
         "total_zh": 871,
-        "fresh": 568,
+        "fresh": 569,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 302,
+        "missing": 301,
         "orphan": 0
       },
       "ru": {
         "total_zh": 871,
-        "fresh": 600,
+        "fresh": 601,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 270,
+        "missing": 269,
         "orphan": 0
       }
     },
@@ -35882,8 +35882,8 @@
           "sourceContentHash": "sha256:b3fec964553963ea",
           "sourceBodyHash": "sha256:605626e47ccc1b01",
           "translatedAt": "2026-07-29T12:59:25+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "194241f2",
+          "translationLastModified": "2026-07-29T13:17:32+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -58532,13 +58532,46 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/liu-mingchuan.md",
+          "translatedFrom": "People/劉銘傳.md",
+          "sourceCommitSha": "c109869a0",
+          "sourceContentHash": "sha256:b08d77d5c87852a1",
+          "sourceBodyHash": "sha256:65e36904f67e17ed",
+          "translatedAt": "2026-07-29T12:59:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/liu-mingchuan.md",
+          "translatedFrom": "People/劉銘傳.md",
+          "sourceCommitSha": "c109869a0",
+          "sourceContentHash": "sha256:b08d77d5c87852a1",
+          "sourceBodyHash": "sha256:65e36904f67e17ed",
+          "translatedAt": "2026-07-29T12:59:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/liu-mingchuan.md",
+          "translatedFrom": "People/劉銘傳.md",
+          "sourceCommitSha": "c109869a0",
+          "sourceContentHash": "sha256:b08d77d5c87852a1",
+          "sourceBodyHash": "sha256:65e36904f67e17ed",
+          "translatedAt": "2026-07-29T12:59:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
