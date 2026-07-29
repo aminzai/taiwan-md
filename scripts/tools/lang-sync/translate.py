@@ -337,6 +337,36 @@ _ARTICLE_IMAGE_TARGET_RE = re.compile(
     r"(!\[[^\]]*\]\()(/article-images/[^)\s]+)(\))"
 )
 
+_WIKILINK_RE = re.compile(r"\[\[([^\[\]|]+)(?:\|([^\[\]]+))?\]\]")
+
+
+def materialize_resolved_wikilinks(
+    text: str, targets: dict[str, str]
+) -> tuple[str, int]:
+    """把 prepare-batch 已解析的 wikilink 機械化成 markdown link。
+
+    模型適合翻譯錨字，不適合持有路由。只處理 manifest 明確解析成 `/...` 的
+    target；zh-only／缺映射保持原樣，繼續走既有 prompt 與 hard gate。轉成
+    markdown 後 target 會立刻由 tokenize_urls() 收進 URL 裝甲，因此模型只看見
+    `[來源錨字](⟦Un⟧)`，不可能再把 `[[台灣企業：台積電]]` 幻覺成不存在的
+    `[[Taiwanese Enterprise: TSMC]]`。
+    """
+    if not targets:
+        return text, 0
+    count = 0
+
+    def repl(m: re.Match) -> str:
+        nonlocal count
+        target = m.group(1).strip()
+        label = (m.group(2) or target).strip()
+        url = targets.get(target)
+        if not isinstance(url, str) or not url.startswith("/"):
+            return m.group(0)
+        count += 1
+        return f"[{label}]({url})"
+
+    return _WIKILINK_RE.sub(repl, text), count
+
 
 def tokenize_urls(text: str, lang: str | None = None) -> tuple[str, list[str]]:
     """Transform 2（常駐，2026-07-26 A/B 實測 200/200 token 零失手，見
@@ -493,6 +523,13 @@ def armor_pre(article: dict, zh_content: str, lang: str, armor: bool = False,
     # ---- Transform 1（常駐）: frontmatter 卸甲 ----
     fm_prompt_block = disarm_frontmatter(zh_fm)
 
+    # prepare-batch 已解析成功的 wikilink 先機械化成 markdown link。模型只翻
+    # 錨字，路由隨即交給 URL token 持有；未解析的 zh-only wikilink 保守不動。
+    wikilink_targets = article.get("wikilink_targets") or {}
+    body, wikilinks_materialized = materialize_resolved_wikilinks(
+        body, wikilink_targets
+    )
+
     # ---- Transform 2（常駐）: URL token 化（body 含腳註定義行）+ 站內連結在地化 ----
     # tokenize=False 是 armor 還原失敗後的 fallback 路徑（2026-07-27）：一般 URL
     # 原樣送進模型，不換成 ⟦U1⟧。實測「重試同一條裝甲路徑」是負面結果（遺失量
@@ -513,7 +550,6 @@ def armor_pre(article: dict, zh_content: str, lang: str, armor: bool = False,
     # 兩篇帶 [[X]] 的文章，卸甲版 [[X]] 原封不動留在正文，舊版正確解析成
     # 「翻譯錨字 + 中文括號」或真連結）。frontmatter 卸甲現在常駐兩條路徑都會
     # 砍掉那段 JSON，所以這個補丁也常駐兩條路徑都補回，維持跟舊版同等資訊量。
-    wikilink_targets = article.get("wikilink_targets") or {}
     wikilink_note = ""
     if wikilink_targets:
         wl_lines = [f"{k} → {v}" for k, v in wikilink_targets.items()]
@@ -610,6 +646,7 @@ no reasoning/chain-of-thought, no text before ===TITLE=== or after the body."""
 Output the four ===TITLE===/===DESC===/===TAGS===/===BODY=== sections as instructed."""
 
     ctx = {"zh_fm": zh_fm, "url_list": url_list, "reserved_count": reserved_count,
+           "wikilinks_materialized": wikilinks_materialized,
            "prompt_chars": len(system) + len(user)}
     return system, user, ctx
 

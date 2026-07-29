@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.21)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.22)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.21'
+current_version: 'v1.22'
 last_updated: 2026-07-29
-last_session: '2026-07-29-vortex-footnote-outer-bracket'
+last_session: '2026-07-29-vortex-wikilink-materialization'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.21
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.22
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,13 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.22（2026-07-29）：把 manifest 已解析成功的 `[[wikilink]]` 路由從模型手上
+  收回工具端。近一小時 en／ko 隔離樣本雖拿到正確 `wikilink_targets`，模型仍把
+  `[[台灣企業：台積電]]` 翻成不存在的 `[[Taiwanese Enterprise: TSMC]]`，
+  link-target healer 無法安全猜回目標，只能整篇擋下。現在送模型前先機械化為
+  `[來源錨字](目標語路由)`，路由隨即進既有 URL token 裝甲；模型只翻錨字，
+  URL 與路由 byte-preserved。只處理 manifest 明確解析成 `/...` 的 target，
+  zh-only／缺映射仍保守留給既有 prompt 與 hard gate，沒有放寬 QA。
 - v1.21（2026-07-29）：safe-only footnote healer 收編完整 link 被多包一層
   方括號的無損形狀：`[^N]: [[Title](URL)] — desc`。本輪唐鳳隔離樣本兩行
   title／URL／description 全都存在，只有外層 `[...]` 多餘；舊 healer 不動，
