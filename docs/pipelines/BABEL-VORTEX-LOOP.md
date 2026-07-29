@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.39)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.40)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.39'
+current_version: 'v1.40'
 last_updated: 2026-07-30
-last_session: '2026-07-30-vortex-caption-url-healer'
+last_session: '2026-07-30-vortex-absolute-lang-detection'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.39
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.40
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,12 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.40（2026-07-30）：修正 `verify-translation.py` 的目標語言辨識只接受
+  repo-relative path。渦流覆盤傳入 `/absolute/.../knowledge/{lang}/...` 或
+  `/tmp/babel-*/quarantine/{lang}--{slug}.md` 時，舊版會靜默 fallback 成英文，
+  把正常的阿文／日文 metadata 套進錯誤的 CJK-leftover 規則而假紅燈。現在
+  同時辨識相對路徑、絕對 knowledge 路徑與 run quarantine basename；未知形狀
+  才保留 legacy English fallback，四組路徑回歸測試鎖住行為，gate 門檻不變。
 - v1.39（2026-07-30）：把 `link-url-mangle` 的 safe healer 接進 dispatcher。
   同一篇蛋撻葡／阿譯文均已完整產出，卻在 Prettier 把斜體 caption 裡
   percent-encoded Commons URL 的多個 `_` 改成 `*` 後，被 health gate 隔離。

@@ -155,8 +155,21 @@ def has_cjk(s: str) -> bool:
 
 
 def detect_lang(trans_path: str) -> str:
-    """knowledge/{lang}/... -> lang. Falls back to 'en' (legacy default)."""
-    m = re.match(r"^(?:knowledge/)?([a-z]{2})/", trans_path)
+    """Infer target language from repo, absolute, or run-quarantine paths.
+
+    Callers normally pass ``knowledge/{lang}/...``, but vortex review also
+    verifies absolute paths and ``quarantine/{lang}--{slug}.md`` artifacts.
+    Treating those as legacy English makes genuinely translated CJK/Arabic
+    metadata fail the wrong leftover rule.
+    """
+    normalized = str(trans_path).replace("\\", "/")
+    m = re.search(r"(?:^|/)knowledge/([a-z]{2})(?:/|$)", normalized)
+    if m:
+        return m.group(1)
+    m = re.search(r"(?:^|/)([a-z]{2})--[^/]+\.md$", normalized)
+    if m:
+        return m.group(1)
+    m = re.match(r"^([a-z]{2})/", normalized)
     return m.group(1) if m else "en"
 
 
