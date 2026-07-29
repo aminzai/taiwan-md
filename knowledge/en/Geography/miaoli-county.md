@@ -158,7 +158,9 @@ The Dapu Incident took place during Liu Cheng-hung’s second term. It was a seq
 **August 18, 2013**. The “Demolish the Government” movement gathered on Ketagalan Boulevard. The protest slogan was: “Today Miaoli is demolished, tomorrow we demolish the government.” (**今天拆大埔，明天拆政府**)[^31]. The same line was later chanted again during the 2014 Sunflower Movement.
 
 ![The “Demolish the Government” street movement on August 18, 2013. Taiwanese civic groups protested the forced demolitions in Dapu on Ketagalan Boulevard. The slogan “Today Miaoli is demolished, tomorrow we demolish the government” later became one of the chants of the 2014 Sunflower Movement.](https://upload.wikimedia.org/wikipedia/commons/b/ba/2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg)
-_Scene of the 2013-08-18 Demolish the Government movement. Photo: Fan-chiang Chung-tsen. [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C*P8180109*%289555113047%29.jpg).\_
+_Scene of the 2013-08-18 Demolish the Government movement. Photo: Fan-chiang Chung-tsen. CC BY-SA 2.0 via Wikimedia Commons._
+
+[CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg)
 
 **September 18, 2013**. Chang Pharmacy owner **Chang Sen-wen** (1953–2013) disappeared in the morning and was found dead that afternoon in a drainage ditch near his home. Prosecutors closed the case as suicide[^30]. Chang Sen-wen was a retired public servant from the Health Bureau. His family was supported by his monthly pension of more than NT$20,000 plus income from the pharmacy. His family said he had been unable to sleep since the day of the forced demolition.
 

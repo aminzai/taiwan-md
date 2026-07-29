@@ -52,7 +52,9 @@ difficulty: 'advanced'
 結局のところ、この 2 日間のノーベル賞が授与した対象は ChatGPT ではなく、30 年、40 年前に誰にもよく理解されなかった数本の論文でした。基礎研究と産業応用の時差は、常にこのようなものです。
 
 ![Geoffrey E. Hinton が 2024 年 12 月 8 日にストックホルムのノーベル・ウィークで取材を受けた公式ポートレート、濃色のスーツ、白髪、カメラに向かって穏やかな表情](/article-images/technology/hinton-nobel-2024.webp)
-_Geoffrey Hinton、2024 年ノーベル物理学賞受賞者、ストックホルムのノーベル・ウィーク。Photo: Arthur Petron, 2024-12-08. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Geoffrey_E._Hinton,_2024_Nobel_Prize_Laureate_in_Physics_(3x4*cropped).jpg).*
+_Geoffrey Hinton、2024 年ノーベル物理学賞受賞者、ストックホルムのノーベル・ウィーク。Photo: Arthur Petron, 2024-12-08. CC BY-SA 4.0 via Wikimedia Commons.jpg)._
+
+[CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Geoffrey_E._Hinton,_2024_Nobel_Prize_Laureate_in_Physics_(3x4_cropped)
 
 ---
 

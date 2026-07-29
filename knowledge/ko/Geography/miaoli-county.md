@@ -158,7 +158,9 @@ Taipei Times는 2015년 먀오리 주민 Alice Wang을 인터뷰해 하카 원�
 **2013년 8월 18일**. 「정부를 철거하라」 운동이 카이다거란 대로에 집결했다. 항의 구호는 "Today Miaoli is demolished, tomorrow we demolish the government."(**오늘 다푸를 철거하면, 내일은 정부를 철거한다**)였다[^31]. 이 문장은 훗날 2014년 해바라기 운동에서도 다시 외쳐졌다.
 
 ![2013년 8월 18일 「정부를 철거하라」 거리운동. 대만 시민단체들이 카이다거란 대로에서 다푸 강제 철거에 항의했다. 「오늘 다푸를 철거하면, 내일은 정부를 철거한다」라는 구호는 훗날 2014년 해바라기 운동의 외침 가운데 하나가 되었다.](https://upload.wikimedia.org/wikipedia/commons/b/ba/2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg)
-_2013-08-18 정부를 철거하라 운동 현장. Photo: 중천 판장. [CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C*P8180109*%289555113047%29.jpg).\_
+_2013-08-18 정부를 철거하라 운동 현장. Photo: 중천 판장. CC BY-SA 2.0 via Wikimedia Commons._
+
+[CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg)
 
 **2013년 9월 18일**. 장약방 주인 **장선원**(1953—2013)이 오전에 실종되었고, 오후에 자택 부근 배수로에서 시신으로 발견되었다. 검찰은 자살로 사건을 종결했다[^30]. 장선원은 위생국 공무원으로 퇴직한 사람이었고, 매달 2만여 위안의 연금과 약방 수입으로 가족을 부양했다. 가족들은 그가 강제 철거가 있던 날부터 잠을 이루지 못했다고 말했다.
 

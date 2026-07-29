@@ -95,7 +95,9 @@ _장아신 양루 외관. Photo: Ckfhouse. [CC BY-SA 4.0 via Wikimedia Commons](
 쉐산산맥 남서쪽, 샹산 구릉, 후커우 대지가 나팔 모양의 충적평야를 이루고, 동북계절풍이 들어온 뒤 지형에 구속되어 강화된다. 매년 음력 9월 하순(양력 10월 중순 무렵)부터 “주장풍”이라 불리는 건조하고 차가운 강풍이 불기 시작하며, 풍속은 초속 20미터에 달할 수 있다[^17]. 주장풍은 세 가지를 불어 신주현의 특산품으로 만들었다. 신주 쌀국수(주베이 일대에서는 쌀국수를 물에 담근 뒤 대나무 선반에 걸어 북풍에 말리는데, 햇볕보다 더 고르게 마른다), 신푸 곶감(한컹리에서 9-12월 햇볕에 말리며 최소 170년의 역사를 갖고, 꼭지 제거, 껍질 벗기기, 일광 건조, 풍건, 성형까지 7-9일의 과정을 거친다), 관시 선초(북풍에 말린 뒤 수확해 선초젤리와 따뜻한 선초 음료를 만들며, 신주현 관시진은 대만 선초 생산량의 60% 이상을 차지한다)[^18].
 
 ![베이푸 뢰차, 2023년 4월. 하카 뢰차는 도자기 절구에 찻잎, 참깨, 땅콩 등 열몇 가지 식재료를 갈아 만드는 전통 하카 음료로, 전후 베이푸의 관광화 과정에서 신주현을 가장 잘 식별하게 하는 하카 음식 체험이 되었다.](https://upload.wikimedia.org/wikipedia/commons/c/c3/Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)
-_베이푸 뢰차. Photo: 總統府. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)._
+_베이푸 뢰차. Photo: 總統府. CC BY 2.0 via Wikimedia Commons._
+
+[CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg)
 
 신푸에는 또 하나의 거리가 있다. 바로 반탸오 거리이다. 중정로, 허핑가, 청궁가 일대에는 200곳이 넘는 반탸오 가게가 모여 있으며, “**북쪽에는 신푸, 남쪽에는 메이눙**”이라는 말이 있다[^19]. 하카 반탸오는 하카 음식의 식별물이며, 호클로인이 말하는 “粄條”와 같은 음식이지만 표기가 다르다.
 
@@ -188,9 +190,9 @@ _네이완 기차역. Photo: billy1125. CC BY 2.0 via Wikimedia Commons._
 - **Hero**: [포충정 의민묘 정면 사진](https://commons.wikimedia.org/wiki/File:%E8%A4%92%E5%BF%A0%E4%BA%AD%E7%BE%A9%E6%B0%91%E5%BB%9F%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg) — Photo: Outlookxp, 2018-05-27, CC BY-SA 4.0. 신푸 의민묘 정면, 하카 의민 신앙 중심.
 - **Scene §1835**: [장아신 양루](https://commons.wikimedia.org/wiki/File:%E5%A7%9C%E9%98%BF%E6%96%B0%E6%B4%8B%E6%A8%93.jpg) — Photo: Ckfhouse, CC BY-SA 4.0. 베이푸향의 전후 바로크 모방 양식 양루, 1946-1949년 건축.
 - **Scene §주장풍**: [베이푸 뢰차](https://commons.wikimedia.org/wiki/File:Lei_cha_at_Beipu%2C_Taiwan_2023-04-09.jpg) — Photo: 總統府, 2023-04-09, CC BY 2.0. 하카 뢰차 체험.
-- **Scene §스마쿠스**: [Smangus Giant Trees 스마쿠스 거목군](https://commons.wikimedia.org/wiki/File:Smangus_Giant_Trees_%E5%8F%B8%E9%A6%AC%E5%BA%AB%E6%96%AF%E5%B7%A8%E6%9C%A8%E7%BE%A4*-_panoramio*%283%29.jpg) — Photo: panoramio contributor via Wikimedia, CC BY 3.0. 젠스향 스마쿠스 홍회 거목군.
+- **Scene §스마쿠스**: [Smangus Giant Trees 스마쿠스 거목군](https://commons.wikimedia.org/wiki/File:Smangus_Giant_Trees_%E5%8F%B8%E9%A6%AC%E5%BA%AB%E6%96%AF%E5%B7%A8%E6%9C%A8%E7%BE%A4_-_panoramio_%283%29.jpg) — Photo: panoramio contributor via Wikimedia, CC BY 3.0. 젠스향 스마쿠스 홍회 거목군.
 - **Scene §1988**: [Hukou Old St 후커우 옛거리](https://commons.wikimedia.org/wiki/File:Hukou_Old_St.jpg) — Photo: Whhalbert, CC BY-SA 3.0. 후커우 옛거리의 다이쇼 바로크 붉은 벽돌 가옥.
-- **Scene §결말**: [네이완 기차역](https://commons.wikimedia.org/wiki/File:%E5%85%A7%E7%81%A3%E7%81%AB%E8%BB%8A%E7%AB%99_%E5%85%A7%E7%81%A3%E8%BB%8A%E7%AB%99*%2827648470482%29.jpg) — Photo: billy1125, 2016, CC BY 2.0. 네이완 지선 종착역, 하카 마을 관광 전환의 대표 사례.
+- **Scene §결말**: [네이완 기차역](https://commons.wikimedia.org/wiki/File:%E5%85%A7%E7%81%A3%E7%81%AB%E8%BB%8A%E7%AB%99_%E5%85%A7%E7%81%A3%E8%BB%8A%E7%AB%99_%2827648470482%29.jpg) — Photo: billy1125, 2016, CC BY 2.0. 네이완 지선 종착역, 하카 마을 관광 전환의 대표 사례.
 
 라이선스 조항: [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) / [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 

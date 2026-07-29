@@ -52,7 +52,9 @@ Comparemos la línea de tiempo: cuando Hopfield publicó en 1982 en _Proceedings
 En el fondo, esos dos Nobel no premiaron a ChatGPT, sino a unos artículos de hace tres o cuatro décadas que casi nadie entendía. La brecha temporal entre la investigación básica y la aplicación industrial siempre ha sido así.
 
 ![Retrato oficial de Geoffrey E. Hinton entrevistado durante la semana Nobel en Estocolmo el 8 de diciembre de 2024, con traje oscuro, cabello blanco y expresión serena frente a la cámara](/article-images/technology/hinton-nobel-2024.webp)
-_Geoffrey Hinton, laureado con el Premio Nobel de Física 2024, durante la semana Nobel en Estocolmo. Photo: Arthur Petron, 2024-12-08. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Geoffrey_E._Hinton,_2024_Nobel_Prize_Laureate_in_Physics_(3x4*cropped).jpg).*
+_Geoffrey Hinton, laureado con el Premio Nobel de Física 2024, durante la semana Nobel en Estocolmo. Photo: Arthur Petron, 2024-12-08. CC BY-SA 4.0 via Wikimedia Commons.jpg)._
+
+[CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Geoffrey_E._Hinton,_2024_Nobel_Prize_Laureate_in_Physics_(3x4_cropped)
 
 ---
 

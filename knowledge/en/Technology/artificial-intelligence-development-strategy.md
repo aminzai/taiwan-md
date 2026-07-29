@@ -52,7 +52,9 @@ Set the timeline beside it: when Hopfield published his paper, “Neural network
 In the end, the Nobel Prizes awarded over those two days were not for ChatGPT. They were for several papers from 30 or 40 years earlier that almost nobody understood at the time. The lag between basic research and industrial application has always worked this way.
 
 ![Geoffrey E. Hinton’s official portrait during Nobel Week in Stockholm on December 8, 2024: dark suit, white hair, calm expression facing the camera](/article-images/technology/hinton-nobel-2024.webp)
-_Geoffrey Hinton, 2024 Nobel Prize laureate in Physics, during Nobel Week in Stockholm. Photo: Arthur Petron, 2024-12-08. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Geoffrey_E._Hinton,_2024_Nobel_Prize_Laureate_in_Physics_(3x4*cropped).jpg).*
+_Geoffrey Hinton, 2024 Nobel Prize laureate in Physics, during Nobel Week in Stockholm. Photo: Arthur Petron, 2024-12-08. CC BY-SA 4.0 via Wikimedia Commons.jpg)._
+
+[CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Geoffrey_E._Hinton,_2024_Nobel_Prize_Laureate_in_Physics_(3x4_cropped)
 
 ---
 

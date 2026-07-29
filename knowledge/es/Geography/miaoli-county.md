@@ -158,7 +158,9 @@ El incidente de Dapu ocurrió durante el segundo mandato de Liu Cheng-hung. Fue 
 **18 de agosto de 2013**. El movimiento “Demoler el gobierno” se reunió en la avenida Ketagalan. La consigna fue: "Today Miaoli is demolished, tomorrow we demolish the government." (**Hoy demuelen Dapu; mañana demolimos el gobierno**)[^31]. Esa frase volvería a escucharse luego en el Movimiento Girasol de 2014.
 
 ![Movimiento callejero “Demoler el gobierno” del 18 de agosto de 2013. Grupos cívicos taiwaneses protestan en la avenida Ketagalan contra las demoliciones forzosas de Dapu; la consigna “Hoy demuelen Dapu; mañana demolimos el gobierno” se volvió luego uno de los gritos del Movimiento Girasol de 2014.](https://upload.wikimedia.org/wikipedia/commons/b/ba/2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg)
-_Escena del movimiento “Demoler el gobierno”, 2013-08-18. Foto: Fanjiang Zhongcen. [CC BY-SA 2.0 vía Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C*P8180109*%289555113047%29.jpg).\_
+_Escena del movimiento “Demoler el gobierno”, 2013-08-18. Foto: Fanjiang Zhongcen. CC BY-SA 2.0 vía Wikimedia Commons._
+
+[CC BY-SA 2.0 vía Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg)
 
 **18 de septiembre de 2013**. El dueño de la Farmacia Zhang, **Zhang Senwen** (1953-2013), desapareció por la mañana; por la tarde, su cuerpo fue encontrado en una acequia de desagüe cerca de su casa. La fiscalía cerró el caso como suicidio[^30]. Zhang Senwen era un funcionario jubilado de la oficina de salud; sostenía a su familia con una pensión de poco más de 20.000 al mes y los ingresos de la farmacia. Su familia contó que desde el día de la demolición forzosa no podía dormir.
 

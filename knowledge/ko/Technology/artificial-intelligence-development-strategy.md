@@ -52,7 +52,9 @@ difficulty: 'advanced'
 결국 이틀 동안 노벨상이 수여한 대상은 ChatGPT가 아니라, 30년 또는 40년 전 아무도 제대로 이해하지 못했던 몇 편의 논문이었다. 기초연구와 산업 응용 사이의 시차는 늘 이렇다.
 
 ![2024년 12월 8일 스톡홀름 노벨 주간에 인터뷰 중인 Geoffrey E. Hinton의 공식 초상. 짙은 정장, 백발, 카메라를 향한 차분한 표정](/article-images/technology/hinton-nobel-2024.webp)
-_Geoffrey Hinton, 2024년 노벨 물리학상 수상자, 스톡홀름 노벨 주간. Photo: Arthur Petron, 2024-12-08. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Geoffrey_E._Hinton,_2024_Nobel_Prize_Laureate_in_Physics_(3x4*cropped).jpg).*
+_Geoffrey Hinton, 2024년 노벨 물리학상 수상자, 스톡홀름 노벨 주간. Photo: Arthur Petron, 2024-12-08. CC BY-SA 4.0 via Wikimedia Commons.jpg)._
+
+[CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Geoffrey_E._Hinton,_2024_Nobel_Prize_Laureate_in_Physics_(3x4_cropped)
 
 ---
 

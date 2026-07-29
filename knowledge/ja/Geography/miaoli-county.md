@@ -158,7 +158,9 @@ Taipei Times は 2015 年、苗栗住民 Alice Wang に客家円楼について�
 **2013 年 8 月 18 日**。「拆政府」運動が凱達格蘭大道に集結しました。抗議スローガンは "Today Miaoli is demolished, tomorrow we demolish the government."（**今日大埔を壊すなら、明日は政府を壊す**）[^31]。この言葉は後に 2014 年のひまわり学生運動でも再び叫ばれました。
 
 ![2013 年 8 月 18 日「拆政府」街頭運動。台湾の市民団体が凱達格蘭大道で大埔の強制撤去に抗議し、「今日大埔を壊すなら、明日は政府を壊す」というスローガンは後に 2014 年ひまわり学生運動の呼び声の一つになりました。](https://upload.wikimedia.org/wikipedia/commons/b/ba/2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg)
-_2013-08-18 拆政府運動の現場。Photo: 中岑 范姜。[CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C*P8180109*%289555113047%29.jpg).\_
+_2013-08-18 拆政府運動の現場。Photo: 中岑 范姜。CC BY-SA 2.0 via Wikimedia Commons._
+
+[CC BY-SA 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2013-08-18_%E6%8B%86%E6%94%BF%E5%BA%9C_P8180109_%289555113047%29.jpg)
 
 **2013 年 9 月 18 日**。張薬房の店主**張森文**（1953—2013）は午前に行方不明となり、午後、自宅近くの排水溝で遺体が見つかりました。検察は自殺として結案しました[^30]。張森文は衛生局の公務員を退職しており、毎月 2 万元余りの退職金と薬房の収入で一家を支えていました。家族は、強制撤去の日から彼は眠れなくなったと語っています。
 
