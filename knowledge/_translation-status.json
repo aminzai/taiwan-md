@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-29T11:16:47+08:00",
-    "zhCommitHead": "b07ca2fd1",
+    "lastUpdated": "2026-07-29T11:22:55+08:00",
+    "zhCommitHead": "903a7ec4d",
     "totalZh": 871,
     "activeLanguages": [
       "en",
@@ -51,8 +51,8 @@
       },
       "fr": {
         "total_zh": 871,
-        "fresh": 834,
-        "stale": 33,
+        "fresh": 835,
+        "stale": 32,
         "metadata_stale": 1,
         "missing": 3,
         "orphan": 0
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 871,
-        "fresh": 709,
+        "fresh": 710,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 156,
+        "missing": 155,
         "orphan": 0
       },
       "hi": {
@@ -6728,8 +6728,8 @@
           "sourceContentHash": "sha256:97768e7e71587490",
           "sourceBodyHash": "sha256:411e4d6f8779c88a",
           "translatedAt": "2026-07-29T07:32:32+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "903a7ec4",
+          "translationLastModified": "2026-07-29T11:16:47+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
@@ -70095,16 +70095,16 @@
         "fr": {
           "path": "fr/People/andre-chiang-taiwanese-culinary-innovator.md",
           "translatedFrom": "People/江振誠.md",
-          "sourceCommitSha": "fb010188",
-          "sourceContentHash": "sha256:5c3f4c327ba8e029",
-          "sourceBodyHash": "sha256:12c31fa42e4be425",
-          "translatedAt": "2026-04-14T19:16:13+08:00",
+          "sourceCommitSha": "afc8fbf91",
+          "sourceContentHash": "sha256:335773d0a09d68a9",
+          "sourceBodyHash": "sha256:257d28e459bd329d",
+          "translatedAt": "2026-07-29T07:32:34+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (30→0)"
+          "footnoteDefs": 30,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -101425,7 +101425,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/yongkang-street.md",
+          "translatedFrom": "Geography/永康街.md",
+          "sourceCommitSha": "fe48ea49d",
+          "sourceContentHash": "sha256:86be5fe44de05439",
+          "sourceBodyHash": "sha256:ad35178eae665c53",
+          "translatedAt": "2026-07-29T07:32:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Geography/yongkang-street.md",
