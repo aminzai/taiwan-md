@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.24)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.25)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.24'
+current_version: 'v1.25'
 last_updated: 2026-07-29
-last_session: '2026-07-29-vortex-launchd-lifecycle'
+last_session: '2026-07-29-vortex-fallback-regression'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.24
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.25
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,13 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.25（2026-07-29）：補 v1.23 fallback policy 的呼叫端回歸。重構時移除了
+  `backend_unavailable` 初始化，卻漏掉下游 fail-reason 分支仍讀該名稱；三軌
+  第一件 no-output 因 `NameError` 整個 dispatcher exit。現在由同一份
+  `primary_output` 初始化該診斷旗標，並以不可達假 endpoint 前景跑完整單篇
+  路徑：`Available: []` → skip structured → HEAD restore → report → final status
+  全程 exit 0。這次也證明 py_compile＋純 policy unit 不足以覆蓋呼叫端，核心
+  分支修改後必須至少跑一個 end-to-end no-output smoke。
 - v1.24（2026-07-29）：修正受管重啟在 Codex automation 內的假存活。
   `restart-vortex.sh` 用 nohup/disown 起三軌，3 秒自檢會顯示成功；但 exec cell
   結束時宿主回收整個 process group，三軌在 queue 完成後同步消失且無 Python

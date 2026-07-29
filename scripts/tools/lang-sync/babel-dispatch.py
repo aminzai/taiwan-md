@@ -933,6 +933,7 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
     # 能救的輸出失敗，而是沒有算力可呼叫。保留 no-output/freeze 訊號，等
     # dispatcher 下一輪再試；不要用同一 worker 立即重複一個已知不可能的呼叫。
     primary_output = proc.stdout + ("\n" + proc.stderr if proc.stderr else "")
+    backend_unavailable = "Available: []" in primary_output
     fallback_allowed, fallback_skip_reason = structured_fallback_policy(
         worker.cascade_spec, primary_output
     )
