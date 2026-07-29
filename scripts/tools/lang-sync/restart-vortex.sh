@@ -120,7 +120,11 @@ start() {   # start <logname> <launchd-label> <描述> <args...>
   : > "/tmp/$log"
   : > "/tmp/$log.err"
   if command -v launchctl >/dev/null 2>&1; then
+    # launchd 預設 PATH 只有系統目錄；dispatcher 雖由 Homebrew Python 啟動，
+    # 內部 `subprocess(["python3", ...])` 仍會掉到 /usr/bin/python3，缺 PyYAML
+    # 等產線依賴。用 env 明確把目前受檢驗過的 PATH/HOME 傳進整棵 process tree。
     launchctl submit -l "$label" -o "/tmp/$log" -e "/tmp/$log.err" -- \
+      /usr/bin/env "PATH=${PATH}" "HOME=${HOME}" \
       "$python_bin" -u "$REPO/scripts/tools/lang-sync/babel-dispatch.py" "$@" \
       --order forward --rounds 300 --commit-every 50
     local pid

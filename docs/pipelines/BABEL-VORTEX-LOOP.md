@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.25)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.26)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.25'
+current_version: 'v1.26'
 last_updated: 2026-07-29
-last_session: '2026-07-29-vortex-fallback-regression'
+last_session: '2026-07-29-vortex-launchd-child-env'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.25
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.26
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,13 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.26（2026-07-29）：補 launchd 子程序環境邊界。v1.24 讓 dispatcher
+  跨 exec cell 常駐後，dispatcher 本身雖由 Homebrew Python 啟動，內部大量
+  `subprocess(["python3", ...])` 卻依 launchd 精簡 PATH 落到 `/usr/bin/python3`，
+  因缺 PyYAML 讓 translate／patch／structured 全部 0 秒失敗並凍結 workers。
+  重啟器現在以 `/usr/bin/env` 明確注入已通過 preflight 的 PATH 與 HOME，
+  整棵 process tree 使用同一工具鏈；launchd 仍持有生命週期，不改 fleet
+  抽象層或模型配置。
 - v1.25（2026-07-29）：補 v1.23 fallback policy 的呼叫端回歸。重構時移除了
   `backend_unavailable` 初始化，卻漏掉下游 fail-reason 分支仍讀該名稱；三軌
   第一件 no-output 因 `NameError` 整個 dispatcher exit。現在由同一份
