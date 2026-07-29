@@ -354,3 +354,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-29 | 064113-twmd-spore-harvest-am | 6 events harvest；鎢供應鏈 D+3 續衝到 479K，讀者串轉向中性辦案討論非再升溫，維持不動；其餘 4 events 皆 Bucket F 無需修文 | 持續觀察不等於每天重寫同樣的證據——沒新升溫就只記 delta，不重貼昨天的長篇分析 | [→](memory/2026-07-29-064113-twmd-spore-harvest-am.md) |
 | 2026-07-29 | 070927-twmd-feedback-triage | 四天隊列靜默後首筆進單：COMPUTEX 全大寫勘誤轉 issue #1272（詹景勛回報），archive 落檔 | 量少不等於風險低，唯一一筆和一百筆該經過同一套核對節奏 | [→](memory/2026-07-29-070927-twmd-feedback-triage.md) |
 | 2026-07-29 | 085004-twmd-maintainer-daily | PR #1268 merge-first+heal；#1272 修好即 close；#1252 姓名對不上改問清楚；#1264 屬實但 spawn 獨立 task | 同一個 fetch-verify 習慣兩個方向各驗證一次：救回做過功課的 claim，也擋下記錯人名的請求 | [→](memory/2026-07-29-085004-twmd-maintainer-daily.md) |
+| 2026-07-29 | 093409-twmd-flywheel-watch | 飛輪綠燈零警報（24hr 118 commit／14 筆 routine，六條日更全部留痕）；昨日 #22 live dump 黃燈由 owner 自己的 rider 接住（齡 3.3h），但 hard gate 未進 skill 故不關 | 綠燈不是「工具說綠」——maintainer 今天只留收官 commit，靠退路命中，回 git log 對過才算數 | [→](memory/2026-07-29-093409-twmd-flywheel-watch.md) |
