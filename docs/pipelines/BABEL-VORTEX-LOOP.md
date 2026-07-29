@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.29)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.30)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.29'
+current_version: 'v1.30'
 last_updated: 2026-07-29
-last_session: '2026-07-29-vortex-throughput-eligibility'
+last_session: '2026-07-29-vortex-url-identity-gate'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.29
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.30
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,12 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.30（2026-07-29）：同一篇 `Society/外送專法.md` 驗出 count-only URL
+  gate 的假綠：模型把 Yahoo percent-encoding 改一碼、把 apostrophe 改成
+  `%27`，只要總數相同舊 gate 就會放行；同時舊規則還容忍 ±2 個 URL。
+  `verify-translation.py` 改驗 URL multiset 完全相同，少／多／改任何一條
+  都 hard fail。這篇另補回模型截斷的兩則多來源腳註、修掉兩段簡中洩漏，
+  再經 verify／leak／article-health 三閘回收。
 - v1.29（2026-07-29）：模型「品質入池」再補「完整工作量吞吐資格」。把 3090
   收斂為單 worker 後，dense `qwen3:32b` 仍在同一篇長文連續 3/3 撞 900 秒，
   證偽 v1.27 的純並行歸因；短 prompt 27 秒可回不代表能在 SLA 內完成文章。

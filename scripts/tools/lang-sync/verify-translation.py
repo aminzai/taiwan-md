@@ -28,7 +28,7 @@ Checks (each 1-line PASS/FAIL):
   8. translation-ratio-check passes (OK, not TRUNCATED / THIN)
   9. footnote count matches between zh and translation
   10. ## section count matches between zh and translation (±1 tolerance)
-  11. URL count matches (zh vs translation) — URLs preserved
+  11. URL multiset matches exactly (zh vs translation) — no loss, invention, or rewriting
   12. No `---\n_References:_\n` duplication (would have been adjacent)
   13. title/description/imageAlt not left untranslated (CJK-leftover check for
       non-CJK targets; byte-identical-to-zh check for ja/ko targets)
@@ -56,6 +56,7 @@ import json
 import re
 import subprocess
 import sys
+from collections import Counter
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent.parent.parent
@@ -349,17 +350,32 @@ def main():
     else:
         add("section count", "PASS", f"both have {zh_secs}")
 
-    # 11. URL count
-    zh_urls = count_pattern(zh_body, r"https?://[^\s\)\"\]]+")
-    en_urls = count_pattern(en_body, r"https?://[^\s\)\"\]]+")
+    # 11. URL preservation. Count-only let a model alter a percent-encoded byte
+    # while keeping the same number of links; the gate reported PASS although the
+    # URL no longer matched the source. Translation must preserve the exact URL
+    # multiset. Image credits are passthrough fields, and adding a new Wikipedia
+    # link is editorial work—not a translation exception—so the old ±2 tolerance
+    # silently admitted both loss and invention.
+    # `>` terminates autolinks (`<https://…>`); without it the extractor
+    # accidentally swallowed the source-language prose after the URL.
+    url_pattern = r"https?://[^\s<>\)\"\]]+"
+    zh_url_values = re.findall(url_pattern, zh_body)
+    en_url_values = re.findall(url_pattern, en_body)
+    zh_urls = len(zh_url_values)
+    en_urls = len(en_url_values)
+    missing_urls = list((Counter(zh_url_values) - Counter(en_url_values)).elements())
+    extra_urls = list((Counter(en_url_values) - Counter(zh_url_values)).elements())
     if zh_urls != en_urls:
-        # Tolerate ±2 (image credits / 1 extra wikipedia)
-        if abs(zh_urls - en_urls) <= 2:
-            add("URL count", "WARN", f"zh={zh_urls} vs en={en_urls} (small diff)")
-        else:
-            add("URL count", "FAIL", f"zh={zh_urls} vs en={en_urls}")
+        add("URL count", "FAIL", f"zh={zh_urls} vs en={en_urls}")
+    elif missing_urls or extra_urls:
+        detail = []
+        if missing_urls:
+            detail.append(f"missing/altered={missing_urls[0][:90]}")
+        if extra_urls:
+            detail.append(f"extra/altered={extra_urls[0][:90]}")
+        add("URL count", "FAIL", "; ".join(detail))
     else:
-        add("URL count", "PASS", f"both have {zh_urls}")
+        add("URL count", "PASS", f"exact multiset preserved ({zh_urls})")
 
     # 12. duplicate _References_
     if re.search(r"_References:_[\s\S]{0,40}_References:_", en_body):
