@@ -193,6 +193,12 @@ The words written in law will be read by readers. The unwritten words are record
 - [A Practitioner’s Account of the History of Taiwan’s Two Regenerative Medicine Laws](/en/society/taiwan-regenerative-medicine-laws) — The two regenerative medicine laws passed in 2024 are special laws spun out from the Medical Care Act to fill the regulatory gap in cell therapy.
 - [Taiwan’s Disaster Medical System](/en/technology/taiwan-disaster-medicine-system) — How the Medical Care Act Article 1 principle of “reasonable distribution of medical care resources” operates in major disaster scenarios.
 
+## Image Sources
+
+This article uses one CC-licensed image, cached under `public/article-images/society/` to avoid hotlinking the source server:
+
+- **Hero**: [NTU Hospital View from Pond of Taipei New Park](https://commons.wikimedia.org/wiki/File:NTU_Hospital_View_from_Pond_of_Taipei_New_Park_20110510.jpg) — Photo: 玄史生, 2011-05-10, eastward view of NTU Hospital from the pond on the northwest side of 228 Peace Memorial Park. CC BY-SA 3.0 via Wikimedia Commons.
+
 ## References
 
 [^1]: [Central News Agency: Legislative Yuan Passes Third Reading of Medical Care Act Amendment Adding Three-Shift Nurse-to-Patient Ratios](https://www.cna.com.tw/news/aipl/202605080198.aspx) — Passed on third reading on May 8, 2026, on the eve of International Nurses Day; penalty tiers; implementation date of May 2028.
@@ -258,9 +264,3 @@ The words written in law will be read by readers. The unwritten words are record
 [^31]: [Laws & Regulations Database of the Republic of China: Patient Right to Autonomy Act](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020189) — Passed on third reading on December 18, 2015 and implemented on January 6, 2019; Asia’s first dedicated law comprehensively protecting patient autonomy rights.
 
 [^32]: [Ministry of Health and Welfare Press Release: Two Regenerative Medicine Laws Passed on Third Reading](https://www.mohw.gov.tw/cp-16-78933-1.html) — The Regenerative Medicine Act and the Regenerative Medicine Preparations Act were passed on third reading on June 4, 2024 and promulgated on June 19, 2024.
-
-## Image Sources
-
-This article uses one CC-licensed image, cached under `public/article-images/society/` to avoid hotlinking the source server:
-
-- **Hero**: [NTU Hospital View from Pond of Taipei New Park](https://commons.wikimedia.org/wiki/File:NTU_Hospital_View_from_Pond_of_Taipei_New_Park_20110510.jpg) — Photo: 玄史生, 2011-05-10, eastward view of NTU Hospital from the pond on the northwest side of 228 Peace Memorial Park. CC BY-SA 3.0 via Wikimedia Commons.

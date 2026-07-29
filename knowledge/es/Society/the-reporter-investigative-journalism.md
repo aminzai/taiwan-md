@@ -273,6 +273,21 @@ Reentender “me cargan 200 dólares taiwaneses al mes” no como “hacer carid
 - [Operación cognitiva “papa venenosa”](/es/society/poisoned-potato-cognitive-warfare-taiwan) — Un estudio de caso concreto sobre un episodio de operación cognitiva.
 - [PTT BBS](/es/technology/ptt-bulletin-board-system) — La esfera pública de la era anterior a internet móvil en Taiwán, dentro de la misma línea de “las plataformas no son necesariamente neutrales” que The Reporter.
 
+## Fuentes de imágenes
+
+Este artículo usa 5 materiales visuales oficiales de marca y obras de The Reporter, citados bajo el principio de fair use (comentario editorial sobre el trabajo de The Reporter), todos almacenados en caché en `public/article-images/society/` para evitar hotlinking al servidor de origen; además, incrusta 2 videos del canal oficial de YouTube de The Reporter.
+
+- [Imagen de identidad de marca de The Reporter](https://www.twreporter.org) — The Reporter, Fair use (hero)
+- [Lema de identidad “Abrir la puerta a la participación, alzar la voz de forma colectiva”](https://www.twreporter.org) — The Reporter, Fair use
+- [Infografía “El gran atún-lúmán de la pesca de altura taiwanesa” (primer premio SOPA 2017 a la Excelencia en Infografías)](https://www.twreporter.org/a/infographic-far-sea-fishing-gcs) — The Reporter, Fair use
+- [Diagrama de relaciones del especial de círculos concéntricos del frente unido (2026)](https://www.twreporter.org/a/united-front-work-powered-by-holger-chen-and-china-influencers) — The Reporter (diseño: Huang Yu-chen; organización: Kung Te-lien y Fang Te-lin), Fair use
+- [Imagen promocional del lanzamiento de The Reporter for Kids (2022)](https://kids.twreporter.org) — The Reporter, Fair use
+
+Videos incrustados (canal oficial de YouTube de The Reporter):
+
+- [Tormenta por filmaciones ocultas en medicina estética: ¿qué falló en la regulación taiwanesa de la medicina estética?](https://www.youtube.com/watch?v=_AdtqBm7Hk4) — The Reporter
+- [¡The Reporter celebra su aniversario y habla fuerte!](https://www.youtube.com/watch?v=H_PiSMCR6Sc) — The Reporter
+
 ## Referencias
 
 [^1]: Publicación de Facebook de Ho Jung-hsing, 2025-09-14: “Durante el primer mes en línea de The Reporter, solo había 4 donantes con aportes periódicos mensuales. Simplemente no me atrevía a dejar que mis colegas supieran esa cifra”. Véase facebook.com/twreporter/posts/1235665585269425.
@@ -394,18 +409,3 @@ Reentender “me cargan 200 dólares taiwaneses al mes” no como “hacer carid
 [^59]: Encuesta de 2025 sobre desinformación: aproximadamente 96% de la población taiwanesa percibe una amplia difusión de desinformación (encuesta original del Centro de Investigación de Sociedad Resiliente de la Universidad Nacional de Taiwán, citada por The News Lens). thenewslens.com/article/267704.
 
 [^60]: Reuters Institute Digital News Report 2024 Taiwan: confianza general en las noticias, 33%. reutersinstitute.politics.ox.ac.uk/digital-news-report/2024/taiwan.
-
-## Fuentes de imágenes
-
-Este artículo usa 5 materiales visuales oficiales de marca y obras de The Reporter, citados bajo el principio de fair use (comentario editorial sobre el trabajo de The Reporter), todos almacenados en caché en `public/article-images/society/` para evitar hotlinking al servidor de origen; además, incrusta 2 videos del canal oficial de YouTube de The Reporter.
-
-- [Imagen de identidad de marca de The Reporter](https://www.twreporter.org) — The Reporter, Fair use (hero)
-- [Lema de identidad “Abrir la puerta a la participación, alzar la voz de forma colectiva”](https://www.twreporter.org) — The Reporter, Fair use
-- [Infografía “El gran atún-lúmán de la pesca de altura taiwanesa” (primer premio SOPA 2017 a la Excelencia en Infografías)](https://www.twreporter.org/a/infographic-far-sea-fishing-gcs) — The Reporter, Fair use
-- [Diagrama de relaciones del especial de círculos concéntricos del frente unido (2026)](https://www.twreporter.org/a/united-front-work-powered-by-holger-chen-and-china-influencers) — The Reporter (diseño: Huang Yu-chen; organización: Kung Te-lien y Fang Te-lin), Fair use
-- [Imagen promocional del lanzamiento de The Reporter for Kids (2022)](https://kids.twreporter.org) — The Reporter, Fair use
-
-Videos incrustados (canal oficial de YouTube de The Reporter):
-
-- [Tormenta por filmaciones ocultas en medicina estética: ¿qué falló en la regulación taiwanesa de la medicina estética?](https://www.youtube.com/watch?v=_AdtqBm7Hk4) — The Reporter
-- [¡The Reporter celebra su aniversario y habla fuerte!](https://www.youtube.com/watch?v=H_PiSMCR6Sc) — The Reporter

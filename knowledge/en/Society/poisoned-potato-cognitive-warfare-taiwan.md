@@ -333,6 +333,11 @@ Shen Bo-yang said another higher-level sentence: "The establishment of enemy-sel
 
 ---
 
+## Image Sources
+
+- **Hero**: [Children gathering potatoes on a large farm, vicinity of Caribou, Aroostook County, Me. Schools do not open until the potatoes are harvested](https://commons.wikimedia.org/wiki/File:Children_gathering_potatoes_on_a_large_farm,_vicinity_of_Caribou,_Aroostook_County,_Me._Schools_do_not_open_until_the_potatoes_are_harvested_LCCN2017877412.jpg) — US Farm Security Administration/Office of War Information / 1940 / Public Domain (PD-USGov, NARA / Library of Congress FSA-OWI Collection)
+- **Inline §200 ppm Section**: [Solanine.svg](https://commons.wikimedia.org/wiki/File:Solanine.svg) — Public Domain (simple structural formula, ineligible for copyright; via Wikimedia Commons)
+
 ## References
 
 [^1]: [Liberty Times Net: China's Taiwan Affairs Office Says 'Poisoned Potatoes' on Taiwanese Dining Tables, MAC Roars: No Need to Say Three Words](https://news.ltn.com.tw/news/politics/breakingnews/5420147) — 2026-04-29 Taiwan Affairs Office spokesperson Chen Bin-hua's original words complete retelling (multi-source comparison: Da Gong Wen Hui, Newtalk, ETtoday verbatim consistent).
@@ -450,10 +455,3 @@ Shen Bo-yang said another higher-level sentence: "The establishment of enemy-sel
 [^57]: [Wang Hong-en: Grand External Propaganda or Stability Maintenance Means? The Public Opinion Logic of China's 'Wolf Warrior Diplomacy' (Think Tank / Mingren Hall)](https://opinion.udn.com/opinion/story/12705/5260537) — UNLV Political Science Assistant Professor Wang Hong-en verbatim "'Wolf warrior diplomacy' is essentially part of domestic propaganda." Taiwan Affairs Office press conference domestic propaganda logic analogy academic anchor.
 
 [^58]: [The News Lens: Shen Bo-yang Exclusive Interview Same](https://www.thenewslens.com/article/197469) — Shen Bo-yang verbatim "The establishment of enemy-self consciousness is absolutely the most important key to responding to war" "Condensing the Taiwanese community consciousness is the primary task." Corresponds to ending section "true countermeasure" narrative.
-
----
-
-## Image Sources
-
-- **Hero**: [Children gathering potatoes on a large farm, vicinity of Caribou, Aroostook County, Me. Schools do not open until the potatoes are harvested](https://commons.wikimedia.org/wiki/File:Children_gathering_potatoes_on_a_large_farm,_vicinity_of_Caribou,_Aroostook_County,_Me._Schools_do_not_open_until_the_potatoes_are_harvested_LCCN2017877412.jpg) — US Farm Security Administration/Office of War Information / 1940 / Public Domain (PD-USGov, NARA / Library of Congress FSA-OWI Collection)
-- **Inline §200 ppm Section**: [Solanine.svg](https://commons.wikimedia.org/wiki/File:Solanine.svg) — Public Domain (simple structural formula, ineligible for copyright; via Wikimedia Commons)

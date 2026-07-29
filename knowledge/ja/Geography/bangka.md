@@ -239,6 +239,16 @@ _華西街観光夜市。Photo: Wikimedia Commons contributor, [CC BY-SA via Wik
 - [大龍峒](/ja/geography/dalongdong) — 1853 年の頂下郊拼で敗れた同安人が艋舺八甲荘から退いて最初に足を下ろした場所。保安宮が防衛の中心となり、その後さらに大稲埕へ移りました
 - [士林](/ja/geography/shilin) — 1859 年の漳泉械闘と艋舺の 1853 年頂下郊拼は別々の械闘であり、清朝統治下の北台湾における二つの族群械闘の地景です
 
+## 圖片來源
+
+本文では、CC BY-SA ライセンスの Wikimedia Commons 画像を 5 点使用しています。すべて `public/article-images/geography/` にキャッシュし、元サーバーへのホットリンクを避けています。
+
+- [File:Longshan Temple, Taipei 01.jpg](https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01.jpg) — 艋舺龍山寺前殿、撮影 Bernard Gagnon、CC BY-SA 3.0
+- [File:Bopiliao Historic Block 剝皮寮歷史街區.jpg](https://commons.wikimedia.org/wiki/File:Bopiliao_Historic_Block_%E5%89%9D%E7%9A%AE%E5%AF%AE%E6%AD%B7%E5%8F%B2%E8%A1%97%E5%8D%80.jpg) — 剝皮寮歴史街区の赤レンガのアーケード、CC BY-SA
+- [File:Chin S Temple in Taipei.JPG](https://commons.wikimedia.org/wiki/File:Chin_S_Temple_in_Taipei.JPG) — 艋舺清水巌祖師廟、CC BY-SA
+- [File:2017-06-29 Bangka Qingshan Temple, Wanhua District, Taipei.jpg](https://commons.wikimedia.org/wiki/File:2017-06-29_Bangka_Qingshan_Temple,_Wanhua_District,_Taipei.jpg) — 艋舺青山宮、CC BY-SA
+- [File:Huaxi Street Tourist Night Market 2019.jpg](https://commons.wikimedia.org/wiki/File:Huaxi_Street_Tourist_Night_Market_2019.jpg) — 華西街観光夜市、CC BY-SA
+
 ## 參考資料
 
 [^1]: [艋舺龍山寺官網 — 參拜資訊](https://www.lungshan.org.tw/tw/) — 龍山寺の開放時間は 6:00-22:00（年中無休）です。毎日早朝 6 時と午後 3 時 45 分に朝夕の読経があり、午前 8 時にも読経共修があります。住所は台北市萬華区広州街 211 号です。
@@ -304,13 +314,3 @@ _華西街観光夜市。Photo: Wikimedia Commons contributor, [CC BY-SA via Wik
 [^31]: [Snake Alley (Taipei) — Wikipedia](<https://en.wikipedia.org/wiki/Snake_Alley_(Taipei)>) — 英語版ウィキペディアの Huaxi Street（蛇巷）項目です。華西街観光夜市が、1990 年代の蛇店全盛期から、2000 年以降の動物保護意識の高まり、廃娼後の客層変化を経て、小吃中心の夜市へ転換した全過程を記載しています。
 
 [^32]: [【城市共生 1-3】艋舺公園改建：分段施工、迴廊縮減衝擊街友、半數以上使用者原來「有家」 — Right Plus 多多益善 2024-09-04](https://rightplus.org/2024/09/04/mongapark1/) — 2024 年 9 月に市民団体が実施した 168 件のアンケートの完全な報告です。ホームレス 94 件、一般市民 74 件、周辺店舗 33 件の艋舺公園改修に対する見方、ホームレスの 6 割が公設収容所を拒む理由、店舗の 6 割が「近隣で管理する」戦略を支持したこと、立法委員の呉沛憶が『社会救助法』にホームレス専章を設ける法改正を進めていることなどを記載しています。
-
-## 圖片來源
-
-本文では、CC BY-SA ライセンスの Wikimedia Commons 画像を 5 点使用しています。すべて `public/article-images/geography/` にキャッシュし、元サーバーへのホットリンクを避けています。
-
-- [File:Longshan Temple, Taipei 01.jpg](https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01.jpg) — 艋舺龍山寺前殿、撮影 Bernard Gagnon、CC BY-SA 3.0
-- [File:Bopiliao Historic Block 剝皮寮歷史街區.jpg](https://commons.wikimedia.org/wiki/File:Bopiliao_Historic_Block_%E5%89%9D%E7%9A%AE%E5%AF%AE%E6%AD%B7%E5%8F%B2%E8%A1%97%E5%8D%80.jpg) — 剝皮寮歴史街区の赤レンガのアーケード、CC BY-SA
-- [File:Chin S Temple in Taipei.JPG](https://commons.wikimedia.org/wiki/File:Chin_S_Temple_in_Taipei.JPG) — 艋舺清水巌祖師廟、CC BY-SA
-- [File:2017-06-29 Bangka Qingshan Temple, Wanhua District, Taipei.jpg](https://commons.wikimedia.org/wiki/File:2017-06-29_Bangka_Qingshan_Temple,_Wanhua_District,_Taipei.jpg) — 艋舺青山宮、CC BY-SA
-- [File:Huaxi Street Tourist Night Market 2019.jpg](https://commons.wikimedia.org/wiki/File:Huaxi_Street_Tourist_Night_Market_2019.jpg) — 華西街観光夜市、CC BY-SA

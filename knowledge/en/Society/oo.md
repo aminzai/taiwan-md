@@ -166,6 +166,19 @@ That forgotten instruction was caught once. Next time, it won't be forgotten.
 - [Taiwan AI Lab](/technology/taiwan_ai_lab) — Local technology using AI to detect coordinated cognitive operations
 - [Taiwan Media and Freedom of Press](/society/taiwan_media_freedom) — The broader context of Wang-Chung's controversies and media group structures
 
+## Image Sources
+
+Most images in this article are screenshots of public pages and are used under Section 52 of the Copyright Act for reportage and commentary:
+
+- First image/side-by-side fan pages: Screenshots of Facebook pages "@Kaohsiung.Info" and "@Taipei.Info".
+- Breakdown summary: Screenshot from Threads post by "Kaohsiung Good Days" (@takaogoodday).
+- Jishuo Technology registration: [opengovtw](https://opengovtw.com/ban/89977832), data sourced from the Ministry of Economic Affairs.
+- LIFE Web service page: [aams.tw](https://www.aams.tw/?app=Service&act=life) (Jishuo Technology).
+- Qinhuangdao content farm AI instructions: Screenshot from [Thought Tank / Wang Hung-en](https://voicettank.org/20260210-1).
+- [NCC Yangping South Road office](https://commons.wikimedia.org/wiki/File:ROC-NCC_Yangping_South_Road_Office_20100929.jpg): Photo by Solomon203, CC BY-SA 3.0 (Wikimedia Commons).
+- [Legislative Yuan Chamber](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E6%B3%95%E9%99%A2%E8%AD%B0%E5%A0%B4.jpg): Photo by Lin Kao-chih, CC BY-SA 4.0 (Wikimedia Commons).
+- Marriage-seeking account screenshots involve potentially stolen real photos; this article does not republish them for privacy reasons and only presents data and text descriptions.
+
 ## References
 
 [^1]: [Forget to delete AI instructions! "I am a person from [City]" fan pages exposed for unclear funding and content from pro-China media](https://newtalk.tw/news/view/2026-02-21/1020740) — Newtalk 2026-02-21 main report, including operators, AI instructions, content sources, unknown funding, Nienjie's "assisting over 100 fan pages" recruitment text, and the Tokyo Dome fake images.
@@ -213,16 +226,3 @@ That forgotten instruction was caught once. Next time, it won't be forgotten.
 [^22]: [Ministry of Digital Affairs fines Meta under Fraud Prevention Act](https://moda.gov.tw/ADI/news/latest-news/16524) — Ministry of Digital Affairs enforcement on ad disclosure and removal.
 
 [^23]: [“I am a person from [City]” fan pages suspected to be prepared for election opinion operations](https://www.epochtimes.com/gb/25/12/28/n14663860.htm) — Epoch Times 2025-12-28, reporting on the "New · 27th Unit" findings.
-
-## Image Sources
-
-Most images in this article are screenshots of public pages and are used under Section 52 of the Copyright Act for reportage and commentary:
-
-- First image/side-by-side fan pages: Screenshots of Facebook pages "@Kaohsiung.Info" and "@Taipei.Info".
-- Breakdown summary: Screenshot from Threads post by "Kaohsiung Good Days" (@takaogoodday).
-- Jishuo Technology registration: [opengovtw](https://opengovtw.com/ban/89977832), data sourced from the Ministry of Economic Affairs.
-- LIFE Web service page: [aams.tw](https://www.aams.tw/?app=Service&act=life) (Jishuo Technology).
-- Qinhuangdao content farm AI instructions: Screenshot from [Thought Tank / Wang Hung-en](https://voicettank.org/20260210-1).
-- [NCC Yangping South Road office](https://commons.wikimedia.org/wiki/File:ROC-NCC_Yangping_South_Road_Office_20100929.jpg): Photo by Solomon203, CC BY-SA 3.0 (Wikimedia Commons).
-- [Legislative Yuan Chamber](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E6%B3%95%E9%99%A2%E8%AD%B0%E5%A0%B4.jpg): Photo by Lin Kao-chih, CC BY-SA 4.0 (Wikimedia Commons).
-- Marriage-seeking account screenshots involve potentially stolen real photos; this article does not republish them for privacy reasons and only presents data and text descriptions.

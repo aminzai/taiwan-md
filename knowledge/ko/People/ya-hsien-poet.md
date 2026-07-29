@@ -175,6 +175,14 @@ _정처우위(1933-2025), 전후 1세대 시인. 대표작 〈오류〉의 “�
 - [계엄 시기](/ko/history/martial-law-era) — 문학 검열, 경비총사령부, 정치적 항의로서 난해함의 역사적 맥락
 - [타이완 미디어와 언론 자유](/ko/society/media-and-press-freedom-in-taiwan) — 1950-1990년대 《연합보》와 《중국시보》 양대 신문 부간이 타이완 문단을 주도한 역사적 맥락
 
+## 이미지 출처
+
+이 글은 CC BY-SA 라이선스 이미지 3장을 사용하며, 출처 서버 핫링크를 피하기 위해 모두 `public/article-images/people/`에 캐시했다.
+
+- [야셴.tif](https://commons.wikimedia.org/wiki/File:%E7%98%82%E5%BC%A6.tif) — 히어로 이미지. Photo: 目宿媒體股份有限公司, 2012-09-13, CC BY-SA 4.0, Wikimedia Foundation VRT ticket 2017112310007121 검증
+- [뤄푸.tif](https://commons.wikimedia.org/wiki/File:%E6%B4%9B%E5%A4%AB.tif) — 본문 이미지. Photo: 目宿媒體股份有限公司, 2012, CC BY-SA 4.0
+- [정처우위.tif](https://commons.wikimedia.org/wiki/File:%E9%84%AD%E6%84%81%E4%BA%88.tif) — 본문 이미지. Photo: 目宿媒體股份有限公司, 2017-11-16, CC BY-SA 4.0
+
 ## 참고 자료
 
 [^1]: [창세기시사 - 위키백과](https://zh.wikipedia.org/zh-hant/%E5%89%B5%E4%B8%96%E7%B4%80%E8%A9%A9%E7%A4%BE) — 1954년 10월 뤄푸와 장모가 가오슝 줘잉에서 창립했고, 야셴이 조금 뒤 합류했다. 세 사람은 전후 타이완 현대시의 “철의 삼각”으로 불렸다.
@@ -212,11 +220,3 @@ _정처우위(1933-2025), 전후 1세대 시인. 대표작 〈오류〉의 “�
 [^17]: [정처우위 - 위키백과](https://zh.wikipedia.org/zh-hant/%E9%84%AD%E6%84%81%E4%BA%88) — 창세기시사 동세대 시인. 2025년 6월 13일 미국에서 별세했으며 향년 91세였다. 대표작 〈오류〉의 “내 다다거리는 말발굽은 아름다운 오류”는 타이완 현대시사에서 가장 널리 전해진 구절 가운데 하나다.
 
 [^18]: [장모(시인) - 위키백과](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E9%BB%98_%28%E8%A9%A9%E4%BA%BA%29) — 1931년생. 창세기시사 공동 창립자이자 오랜 주편으로, “타이완 신시 운동의 기관차”로 불렸다. 2026년 현재도 생존해 있으며, 창세기 철의 삼각 가운데 유일한 생존자다.
-
-## 이미지 출처
-
-이 글은 CC BY-SA 라이선스 이미지 3장을 사용하며, 출처 서버 핫링크를 피하기 위해 모두 `public/article-images/people/`에 캐시했다.
-
-- [야셴.tif](https://commons.wikimedia.org/wiki/File:%E7%98%82%E5%BC%A6.tif) — 히어로 이미지. Photo: 目宿媒體股份有限公司, 2012-09-13, CC BY-SA 4.0, Wikimedia Foundation VRT ticket 2017112310007121 검증
-- [뤄푸.tif](https://commons.wikimedia.org/wiki/File:%E6%B4%9B%E5%A4%AB.tif) — 본문 이미지. Photo: 目宿媒體股份有限公司, 2012, CC BY-SA 4.0
-- [정처우위.tif](https://commons.wikimedia.org/wiki/File:%E9%84%AD%E6%84%81%E4%BA%88.tif) — 본문 이미지. Photo: 目宿媒體股份有限公司, 2017-11-16, CC BY-SA 4.0

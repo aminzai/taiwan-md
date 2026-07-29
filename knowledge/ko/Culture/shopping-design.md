@@ -170,6 +170,14 @@ _Vol.155 《디자인을 구함》. 당신에게 분간하는 법을 가르치�
 - [台灣茶道與生活美學](/ko/culture/taiwan-tea-ceremony-and-aesthetic-living) — 생활 미학이 어떻게 대만에서 이야기될 수 있고 구매될 수 있는 일상으로 자라났는가
 - [聶永真](/ko/people/nieh-yung-jen) — 같은 대만 디자인의 맥락 안에서, 디자인을 대중의 눈앞으로 밀어낸 또 하나의 이름
 
+## 이미지 출처
+
+- **히어로｜DesignBIZ Fest 2022 메인 비주얼**: Shopping Design／DesignBIZ Fest, 출처 <https://designbiz.shoppingdesign.com.tw/2022/>. Fair use(editorial commentary).
+- **Vol.147 《이상적인 거주자》의 표지**: Shopping Design(쥐쓰 미디어 그룹 Business Next Media), 출처는 공식 사이트의 간행물 목록 <https://www.shoppingdesign.com.tw/magazine/>. Fair use(editorial commentary).
+- **Vol.150 《우리는 이런 디자인을 수집한다》의 표지**: Shopping Design(쥐쓰 미디어 그룹 Business Next Media), 출처는 공식 사이트의 간행물 목록 <https://www.shoppingdesign.com.tw/magazine/>. Fair use(editorial commentary).
+- **DesignBIZ Fest 2022 연사 현장**: Shopping Design／DesignBIZ Fest, 출처 <https://designbiz.shoppingdesign.com.tw/2022/>. Fair use(editorial commentary).
+- **Vol.155 《디자인을 구함》의 표지**: 쥐쓰 미디어 그룹 Business Next Media, 출처 <https://www.shoppingdesign.com.tw/magazine/view/130050>. Fair use(editorial commentary).
+
 ## 참고 자료
 
 [^1]: [雜誌必須提醒讀者有意識地生活：《Shopping Design》總編輯李惠貞](https://www.biosmonthly.com/article/8577) — BIOS monthly 2017년 2월의 인터뷰. 리후이전이 편집장으로 "6년째에 들어섰다"는 것과, 제100호가 "흰색 디자인을 구매하다"로 창간호의 "흰색 디자인"에 호응한 것을 기록하고 있다.
@@ -223,11 +231,3 @@ _Vol.155 《디자인을 구함》. 당신에게 분간하는 법을 가르치�
 [^23]: [媒體素養](https://zh.wikipedia.org/zh-tw/媒體素養) — 위키백과의 색인. 대만이 2002년에 《미디어 소양 교육 정책 백서》를 공포하고, 고등학교가 2017학년도부터 미디어 소양을 교육과정에 넣은 정책적 배경을 기록하고 있다.
 
 [^24]: [2024「我們收藏這樣的設計」강연 회고](https://www.shoppingdesign.com.tw/post/view/10553) — Shopping Design 관방의 2024년 8월 보도. "Shopping Design 주편 이신, 부주편 야윈"이 축어로 나타나며, 최근 몇 년에 확인 가능한 편집부의 최고 직함이다(이미 "편집장"에서 "주편"으로 낮아졌다).
-
-## 이미지 출처
-
-- **히어로｜DesignBIZ Fest 2022 메인 비주얼**: Shopping Design／DesignBIZ Fest, 출처 <https://designbiz.shoppingdesign.com.tw/2022/>. Fair use(editorial commentary).
-- **Vol.147 《이상적인 거주자》의 표지**: Shopping Design(쥐쓰 미디어 그룹 Business Next Media), 출처는 공식 사이트의 간행물 목록 <https://www.shoppingdesign.com.tw/magazine/>. Fair use(editorial commentary).
-- **Vol.150 《우리는 이런 디자인을 수집한다》의 표지**: Shopping Design(쥐쓰 미디어 그룹 Business Next Media), 출처는 공식 사이트의 간행물 목록 <https://www.shoppingdesign.com.tw/magazine/>. Fair use(editorial commentary).
-- **DesignBIZ Fest 2022 연사 현장**: Shopping Design／DesignBIZ Fest, 출처 <https://designbiz.shoppingdesign.com.tw/2022/>. Fair use(editorial commentary).
-- **Vol.155 《디자인을 구함》의 표지**: 쥐쓰 미디어 그룹 Business Next Media, 출처 <https://www.shoppingdesign.com.tw/magazine/view/130050>. Fair use(editorial commentary).

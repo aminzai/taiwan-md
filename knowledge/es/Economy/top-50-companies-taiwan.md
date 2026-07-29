@@ -170,6 +170,14 @@ Al terminar de leer esta tabla, lo que el lector debería llevarse no es “qui�
 - [Defensa nacional y modernización militar de Taiwán](/es/society/taiwan-defense-modernization) — El vínculo geopolítico entre el silicon shield y las 50 mayores
 - [Parques científicos de Taiwán](/es/technology/science-park-development) — La base productiva de los 11 puestos de semiconductores entre las 50 mayores, y la versión espacial de la concentración de producción en los tres parques
 
+## Fuentes de imágenes
+
+Este artículo utiliza 3 imágenes de dominio público o con licencia Creative Commons, todas almacenadas en caché en `public/article-images/economy/` para evitar hotlinking desde servidores de origen:
+
+- **Hero**: [Tsmc factory hsinchu](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) — Photo: Arusanov, 2009-07-20, vista exterior de una planta de TSMC en el Parque Científico de Hsinchu. Public domain via Wikimedia Commons.
+- **Inline 1 (Taipei 101 / Bolsa de Valores)**: [Taipei 101 20230511 114624](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg) — Photo: Anas1712, 2023-05-11, vista exterior de Taipei 101, sede de la Bolsa de Valores de Taiwán. CC BY 4.0 via Wikimedia Commons.
+- **Inline 2 (sexto complejo de nafta de Mailiao)**: [Formosa Plastics Group Mail-Liao Industrial Complex, Yunlin (Taiwan)](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>) — Photo: Malcolm Koo (User:Mk2010), 2014-03-15, vista aérea del sexto complejo de craqueo de nafta de Formosa Plastics en Mailiao, Yunlin. CC BY-SA 3.0 via Wikimedia Commons.
+
 ## Referencias
 
 [^1]: [Tom's Hardware: Jensen Huang dines at Taipei night market with Taiwan tech CEOs](https://www.tomshardware.com/tech-industry/jensen-huang-dines-at-taipei-night-market-with-taiwan-tech-ceos) — Registro mediático de la cena de Jensen Huang, Morris Chang, Rick Tsai, Barry Lam y Kris Yao en el mercado nocturno de Ningxia el 28 de mayo de 2024.
@@ -233,11 +241,3 @@ Al terminar de leer esta tabla, lo que el lector debería llevarse no es “qui�
 [^30]: [The Reporter: investigación de largo plazo sobre riesgos de salud para residentes cerca del sexto complejo de nafta](https://www.twreporter.org/a/fpc-sixth-naphtha-cracker-contaminant-detection) — Estudio de 2012 del profesor Chan Chang-chuan, de la Escuela de Salud Pública de la Universidad Nacional de Taiwán: la concentración de metabolitos de metales pesados en la orina de residentes dentro de 10 km era 5,5 veces la de residentes fuera de 10 km; el complejo emitía 132 sustancias tóxicas cancerígenas y PM2.5 anual a escala de 140.000 toneladas.
 
 [^31]: [Citizens of the Earth Foundation: análisis de fuentes de contaminación atmosférica de la siderurgia en Kaohsiung](https://www.cet-taiwan.org/) — Entre 80% y 90% de la contaminación atmosférica siderúrgica de Kaohsiung proviene de China Steel; 36% de PM y 32% de SOx proceden de la siderurgia; comparación antes y después de la inversión de 4.756 millones de dólares taiwaneses de China Steel entre 2017 y 2020.
-
-## Fuentes de imágenes
-
-Este artículo utiliza 3 imágenes de dominio público o con licencia Creative Commons, todas almacenadas en caché en `public/article-images/economy/` para evitar hotlinking desde servidores de origen:
-
-- **Hero**: [Tsmc factory hsinchu](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) — Photo: Arusanov, 2009-07-20, vista exterior de una planta de TSMC en el Parque Científico de Hsinchu. Public domain via Wikimedia Commons.
-- **Inline 1 (Taipei 101 / Bolsa de Valores)**: [Taipei 101 20230511 114624](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg) — Photo: Anas1712, 2023-05-11, vista exterior de Taipei 101, sede de la Bolsa de Valores de Taiwán. CC BY 4.0 via Wikimedia Commons.
-- **Inline 2 (sexto complejo de nafta de Mailiao)**: [Formosa Plastics Group Mail-Liao Industrial Complex, Yunlin (Taiwan)](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>) — Photo: Malcolm Koo (User:Mk2010), 2014-03-15, vista aérea del sexto complejo de craqueo de nafta de Formosa Plastics en Mailiao, Yunlin. CC BY-SA 3.0 via Wikimedia Commons.

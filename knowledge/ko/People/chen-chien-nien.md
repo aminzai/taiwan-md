@@ -209,6 +209,14 @@ _2018년 3월 25일, 천젠녠이 신주의 한 소형 live house에서 공연�
 - [대만 독립음악](/ko/music/indie-music-scene) — 자오터우음악 등 독립 레이블이 주류 음악산업 밖에서 어떻게 또 하나의 길을 세웠는가
 - [금곡장](/ko/music/pop-music-and-golden-melody-awards) — 금곡장 제도가 원주민 음악 창작을 어떻게 받아들였는가
 
+## 이미지 출처
+
+이 글은 CC BY-SA 4.0 라이선스 이미지 3장을 사용했으며, 모두 원본 서버 핫링크를 피하기 위해 `public/article-images/people/`에 캐시되어 있다.
+
+- [Pur-dull in Hsinchu 2](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_2.jpg) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu_2.jpg（hero）
+- [Pur-dull in Hsinchu (cropped)](<https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_(cropped).jpg>) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull*in_Hsinchu*(cropped).jpg（inline 1）
+- [Pur-dull in Hsinchu](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu.jpg) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu.jpg（inline 2）
+
 ## 참고자료
 
 [^1]: [陳建年（歌手）— 維基百科](<https://zh.wikipedia.org/zh-tw/%E9%99%B3%E5%BB%BA%E5%B9%B4_(%E6%AD%8C%E6%89%8B)>) — 중국어 위키백과 천젠녠 항목. 1967년 8월 1일 출생, 난왕부락 출신, 외조부 루선바오와의 관계, 경찰관반 114기, 2000년 9월 란위 전근, 2017년 9월 은퇴 전 란위분주소 부소장이었음을 기록한다.
@@ -264,11 +272,3 @@ _2018년 3월 25일, 천젠녠이 신주의 한 소형 live house에서 공연�
 [^26]: [桑布伊 — 維基百科](https://zh.wikipedia.org/zh-tw/%E6%A1%91%E5%B8%83%E4%BC%8A) — 베이난족 현대 음악인 삼부이 항목. 삼부이가 천젠녠과 마찬가지로 타이둥 베이난족 문화권 출신이며, 921 대지진 이후 페이위윈바오 음악공단에 합류했고, 후더푸 등과 공동으로 앨범을 녹음했음을 기록해 천젠녠이 이후 원주민 음악 세대에 미친 영향을 반영한다.
 
 [^27]: [陳建年 — 國家文化記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Event&id=273173) — 문화부 국가문화기억고 천젠녠 항목. 그가 루선바오의 전승자로 자리하는 점, 베이난어와 중국어를 융합한 창작 스타일, 제11회 금곡가왕, 제18회 금곡장 최우수 대중연주류 프로듀서상, 제20회 금곡장 최우수 대중음악 앨범 프로듀서상, 제33회 금곡장 최우수 원주민어 앨범상 등 전체 수상 기록을 담고 있다.
-
-## 이미지 출처
-
-이 글은 CC BY-SA 4.0 라이선스 이미지 3장을 사용했으며, 모두 원본 서버 핫링크를 피하기 위해 `public/article-images/people/`에 캐시되어 있다.
-
-- [Pur-dull in Hsinchu 2](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_2.jpg) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu_2.jpg（hero）
-- [Pur-dull in Hsinchu (cropped)](<https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_(cropped).jpg>) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull*in_Hsinchu*(cropped).jpg（inline 1）
-- [Pur-dull in Hsinchu](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu.jpg) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu.jpg（inline 2）

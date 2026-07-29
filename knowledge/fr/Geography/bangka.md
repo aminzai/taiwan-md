@@ -239,6 +239,16 @@ Aux yeux des autres, Wanhua est un marché de nuit touristique, une zone grise a
 - [Dalongdong](/fr/geography/dalongdong) — Premier lieu de repli des gens de Tong'an vaincus au Dingxiajiaopin de 1853 et partis de Bajiazhuang à Bangka ; le temple Bao'an y devint centre de défense, avant leur migration vers Dadaocheng
 - [Shilin](/fr/geography/shilin) — L'affrontement Zhang-Quan de 1859 et le Dingxiajiaopin de Bangka en 1853 sont deux conflits distincts, deux paysages d'affrontements entre groupes du nord de Taïwan sous les Qing
 
+## Sources des images
+
+Cet article utilise cinq images Wikimedia Commons sous licence CC BY-SA, toutes mises en cache dans `public/article-images/geography/` afin d'éviter les liens directs vers les serveurs sources :
+
+- [File:Longshan Temple, Taipei 01.jpg](https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01.jpg) — Hall avant du temple Longshan de Bangka, photo Bernard Gagnon, CC BY-SA 3.0
+- [File:Bopiliao Historic Block 剝皮寮歷史街區.jpg](https://commons.wikimedia.org/wiki/File:Bopiliao_Historic_Block_%E5%89%9D%E7%9A%AE%E5%AF%AE%E6%AD%B7%E5%8F%B2%E8%A1%97%E5%8D%80.jpg) — Arcades en briques rouges du quartier historique de Bopiliao, CC BY-SA
+- [File:Chin S Temple in Taipei.JPG](https://commons.wikimedia.org/wiki/File:Chin_S_Temple_in_Taipei.JPG) — Temple Qingshuiyan du Patriarche de Bangka, CC BY-SA
+- [File:2017-06-29 Bangka Qingshan Temple, Wanhua District, Taipei.jpg](https://commons.wikimedia.org/wiki/File:2017-06-29_Bangka_Qingshan_Temple,_Wanhua_District,_Taipei.jpg) — Temple Qingshan de Bangka, CC BY-SA
+- [File:Huaxi Street Tourist Night Market 2019.jpg](https://commons.wikimedia.org/wiki/File:Huaxi_Street_Tourist_Night_Market_2019.jpg) — Marché de nuit touristique de Huaxi Street, CC BY-SA
+
 ## Références
 
 [^1]: [Site officiel du temple Longshan de Bangka — Informations de visite](https://www.lungshan.org.tw/tw/) — Le temple Longshan est ouvert de 6:00 à 22:00 toute l'année. Des récitations matinales et vespérales ont lieu chaque jour à 6 h et 15 h 45 ; une récitation collective est aussi organisée à 8 h. Adresse : 211 Guangzhou Street, district de Wanhua, Taipei.
@@ -304,13 +314,3 @@ Aux yeux des autres, Wanhua est un marché de nuit touristique, une zone grise a
 [^31]: [Snake Alley (Taipei) — Wikipedia](<https://en.wikipedia.org/wiki/Snake_Alley_(Taipei)>) — Article en anglais sur Huaxi Street, la « ruelle des serpents », décrivant l'évolution complète du marché de nuit touristique de Huaxi Street depuis l'apogée des boutiques de serpents dans les années 1990 jusqu'à l'essor de la protection animale après 2000, le changement de clientèle après l'abolition de la prostitution réglementée et la transformation du marché de nuit en lieu principalement gastronomique.
 
 [^32]: [« Coexistence urbaine 1-3 » : réaménagement du parc Bangka, travaux par phases, réduction des galeries affectant les sans-abri, plus de la moitié des usagers ont en fait « un chez-soi » — Right Plus, 2024-09-04](https://rightplus.org/2024/09/04/mongapark1/) — Rapport complet d'une enquête citoyenne de septembre 2024 fondée sur 168 questionnaires, dont 94 auprès de personnes sans domicile, 74 auprès du public et 33 auprès de commerces voisins, concernant le réaménagement du parc Bangka ; raisons du refus des refuges publics par 60 % des personnes sans domicile, soutien de 60 % des commerçants à une stratégie de « gestion de proximité », et promotion par la députée Wu Pei-yi d'un chapitre sur les personnes sans domicile dans la Loi sur l'assistance sociale.
-
-## Sources des images
-
-Cet article utilise cinq images Wikimedia Commons sous licence CC BY-SA, toutes mises en cache dans `public/article-images/geography/` afin d'éviter les liens directs vers les serveurs sources :
-
-- [File:Longshan Temple, Taipei 01.jpg](https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01.jpg) — Hall avant du temple Longshan de Bangka, photo Bernard Gagnon, CC BY-SA 3.0
-- [File:Bopiliao Historic Block 剝皮寮歷史街區.jpg](https://commons.wikimedia.org/wiki/File:Bopiliao_Historic_Block_%E5%89%9D%E7%9A%AE%E5%AF%AE%E6%AD%B7%E5%8F%B2%E8%A1%97%E5%8D%80.jpg) — Arcades en briques rouges du quartier historique de Bopiliao, CC BY-SA
-- [File:Chin S Temple in Taipei.JPG](https://commons.wikimedia.org/wiki/File:Chin_S_Temple_in_Taipei.JPG) — Temple Qingshuiyan du Patriarche de Bangka, CC BY-SA
-- [File:2017-06-29 Bangka Qingshan Temple, Wanhua District, Taipei.jpg](https://commons.wikimedia.org/wiki/File:2017-06-29_Bangka_Qingshan_Temple,_Wanhua_District,_Taipei.jpg) — Temple Qingshan de Bangka, CC BY-SA
-- [File:Huaxi Street Tourist Night Market 2019.jpg](https://commons.wikimedia.org/wiki/File:Huaxi_Street_Tourist_Night_Market_2019.jpg) — Marché de nuit touristique de Huaxi Street, CC BY-SA

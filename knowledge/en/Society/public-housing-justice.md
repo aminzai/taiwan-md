@@ -288,6 +288,20 @@ The following government open datasets let you verify, or refute, the arguments 
 - [Taipei City National Housing Allocation and Rental Status](https://data.gov.tw/dataset/121267)（Taipei City Government Department of Urban Development; updated irregularly）— Official records for the allocation and rental of the “cheap homes sold by the government” in the three major National Housing complexes discussed in this article.
 - [Taipei City Government Social Housing Rental Intermediation and Management Matching Statistics](https://data.gov.tw/dataset/155779)（Taipei City Government Department of Urban Development; updated annually）— Implementation-side numbers for the new route described in “In 2016, the Route Changed: The Government Stopped Selling and Switched to Renting.”
 
+## Image Sources
+
+This article uses eight Creative Commons-licensed images, all cached under `public/article-images/society/` to avoid hotlinking source servers, and embeds two official-channel videos, from CTS News and CommonWealth Magazine.
+
+- [Taipei residential skyline, Xiangshan view](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo: Heeheemalu, 2026, CC BY-SA 4.0（hero）
+- [Taipei Shilin District apartment streetscape](https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_Shilin,_Taipei_20220705.jpg) — Photo: 迷惘的人生, 2022, CC BY-SA 2.0
+- [Hoi Fu Court, To Kwa Wan, Hong Kong, HOS](https://commons.wikimedia.org/wiki/File:Hoi_Fu_Court-Hoi_Wen_House_and_Hoi_Lam_House.JPG) — Photo: Thomasman, 2008, CC BY-SA 3.0
+- [Brookfield Estate council housing, London](<https://commons.wikimedia.org/wiki/File:Brookfield_Estate_(49445902922).jpg>) — Photo: Reading Tom, CC BY 2.0
+- [HDB flats in Singapore’s Lavender district](https://commons.wikimedia.org/wiki/File:Lavender_district_HDB_flats_in_Singapore.JPG) — Photo: Martinpasquier, 2014, CC BY-SA 4.0
+- [Minglun Social Housing, Taipei](https://commons.wikimedia.org/wiki/File:Minglun_Social_Housing_front_view_20230304.jpg) — Photo: Solomon203, 2023, CC BY-SA 4.0
+- [Taoyuan Qingpu HSR Special District skyline](https://commons.wikimedia.org/wiki/File:Taoyuan_Skyline_20230903.jpg) — Photo: Heeheemalu, 2023, CC BY-SA 4.0
+- [Karl-Marx-Hof social housing, Vienna](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-_Karl-Marx-Hof_(2).JPG>) — Photo: C.Stadler/Bwag, CC BY-SA 4.0
+- Videos: CTS News “716 Ketagalan Boulevard march chants ‘housing justice’” (official YouTube channel), CommonWealth Magazine “Why social housing policy turned,” Understand CommonWealth in 8 Minutes Ep.74 (official YouTube channel)
+
 ## References
 
 [^1]: [Chenggong National Housing had no buyers back then（Yahoo 好宅報報）](https://tw.stock.yahoo.com/news/成功國宅當年沒人要) — Reports that Chenggong National Housing was initially difficult to sell after completion in 1985, that it sold out only after price cuts and a four-year interest-free loan, and that longtime borough chief Shih Chung-sheng recalled how he and his wife scraped together a NT$400,000 down payment to buy a home.
@@ -343,17 +357,3 @@ The following government open datasets let you verify, or refute, the arguments 
 [^26]: [Chang San-cheng visits the Executive Yuan to seek support（China Times）](https://www.chinatimes.com/realtimenews/20260604003830-260405) — Reports Taoyuan Mayor Chang San-cheng’s June 4, 2026 visit to the Executive Yuan to seek inclusion of affordable housing in central policy, and conveys his description of affordable housing and social housing as the “two wings” of housing policy, complementary rather than competitive.
 
 [^27]: [Cho Jung-tai hopes policies will align（Newtalk）](https://newtalk.tw/news/view/2026-06-04/1039327) — Reports Premier Cho Jung-tai’s softened stance toward Taoyuan affordable housing, not rejecting it and saying he hoped central and local policies could align.
-
-## Image Sources
-
-This article uses eight Creative Commons-licensed images, all cached under `public/article-images/society/` to avoid hotlinking source servers, and embeds two official-channel videos, from CTS News and CommonWealth Magazine.
-
-- [Taipei residential skyline, Xiangshan view](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo: Heeheemalu, 2026, CC BY-SA 4.0（hero）
-- [Taipei Shilin District apartment streetscape](https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_Shilin,_Taipei_20220705.jpg) — Photo: 迷惘的人生, 2022, CC BY-SA 2.0
-- [Hoi Fu Court, To Kwa Wan, Hong Kong, HOS](https://commons.wikimedia.org/wiki/File:Hoi_Fu_Court-Hoi_Wen_House_and_Hoi_Lam_House.JPG) — Photo: Thomasman, 2008, CC BY-SA 3.0
-- [Brookfield Estate council housing, London](<https://commons.wikimedia.org/wiki/File:Brookfield_Estate_(49445902922).jpg>) — Photo: Reading Tom, CC BY 2.0
-- [HDB flats in Singapore’s Lavender district](https://commons.wikimedia.org/wiki/File:Lavender_district_HDB_flats_in_Singapore.JPG) — Photo: Martinpasquier, 2014, CC BY-SA 4.0
-- [Minglun Social Housing, Taipei](https://commons.wikimedia.org/wiki/File:Minglun_Social_Housing_front_view_20230304.jpg) — Photo: Solomon203, 2023, CC BY-SA 4.0
-- [Taoyuan Qingpu HSR Special District skyline](https://commons.wikimedia.org/wiki/File:Taoyuan_Skyline_20230903.jpg) — Photo: Heeheemalu, 2023, CC BY-SA 4.0
-- [Karl-Marx-Hof social housing, Vienna](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-_Karl-Marx-Hof_(2).JPG>) — Photo: C.Stadler/Bwag, CC BY-SA 4.0
-- Videos: CTS News “716 Ketagalan Boulevard march chants ‘housing justice’” (official YouTube channel), CommonWealth Magazine “Why social housing policy turned,” Understand CommonWealth in 8 Minutes Ep.74 (official YouTube channel)

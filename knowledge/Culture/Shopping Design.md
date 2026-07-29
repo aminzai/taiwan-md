@@ -166,6 +166,14 @@ _Vol.155《誠徵設計》。教你分辨的雜誌，最後把自己貼成一張
 - [台灣茶道與生活美學](/culture/台灣茶道與生活美學) — 生活美學如何在台灣長成一種可被談論、被採買的日常
 - [聶永真](/people/聶永真) — 同一個台灣設計脈絡裡，把設計推到大眾眼前的另一個名字
 
+## 圖片來源
+
+- **Hero｜DesignBIZ Fest 2022 主視覺**：Shopping Design／DesignBIZ Fest，來源 <https://designbiz.shoppingdesign.com.tw/2022/>。Fair use（editorial commentary）。
+- **Vol.147《理想的居者》封面**：Shopping Design（巨思媒體集團 Business Next Media），來源官網期刊列表 <https://www.shoppingdesign.com.tw/magazine/>。Fair use（editorial commentary）。
+- **Vol.150《我們收藏這樣的設計》封面**：Shopping Design（巨思媒體集團 Business Next Media），來源官網期刊列表 <https://www.shoppingdesign.com.tw/magazine/>。Fair use（editorial commentary）。
+- **DesignBIZ Fest 2022 講者現場**：Shopping Design／DesignBIZ Fest，來源 <https://designbiz.shoppingdesign.com.tw/2022/>。Fair use（editorial commentary）。
+- **Vol.155《誠徵設計》封面**：巨思媒體集團 Business Next Media，來源 <https://www.shoppingdesign.com.tw/magazine/view/130050>。Fair use（editorial commentary）。
+
 ## 參考資料
 
 [^1]: [雜誌必須提醒讀者有意識地生活：《Shopping Design》總編輯李惠貞](https://www.biosmonthly.com/article/8577) — BIOS monthly 2017 年 2 月專訪，記錄李惠貞任總編輯「邁入第六年」，以及第 100 期以「採購白色設計」呼應創刊號「白色設計」。
@@ -219,11 +227,3 @@ _Vol.155《誠徵設計》。教你分辨的雜誌，最後把自己貼成一張
 [^23]: [媒體素養](https://zh.wikipedia.org/zh-tw/媒體素養) — 維基百科索引，記錄台灣 2002 年公布《媒體素養教育政策白皮書》、高中自 2017 學年起將媒體素養納入課程的政策背景。
 
 [^24]: [2024「我們收藏這樣的設計」講座回顧](https://www.shoppingdesign.com.tw/post/view/10553) — Shopping Design 官方 2024 年 8 月報導，逐字出現「Shopping Design 主編奕昕、副主編雅筠」，是近年可查證的編輯部最高職稱（已由「總編輯」降為「主編」）。
-
-## 圖片來源
-
-- **Hero｜DesignBIZ Fest 2022 主視覺**：Shopping Design／DesignBIZ Fest，來源 <https://designbiz.shoppingdesign.com.tw/2022/>。Fair use（editorial commentary）。
-- **Vol.147《理想的居者》封面**：Shopping Design（巨思媒體集團 Business Next Media），來源官網期刊列表 <https://www.shoppingdesign.com.tw/magazine/>。Fair use（editorial commentary）。
-- **Vol.150《我們收藏這樣的設計》封面**：Shopping Design（巨思媒體集團 Business Next Media），來源官網期刊列表 <https://www.shoppingdesign.com.tw/magazine/>。Fair use（editorial commentary）。
-- **DesignBIZ Fest 2022 講者現場**：Shopping Design／DesignBIZ Fest，來源 <https://designbiz.shoppingdesign.com.tw/2022/>。Fair use（editorial commentary）。
-- **Vol.155《誠徵設計》封面**：巨思媒體集團 Business Next Media，來源 <https://www.shoppingdesign.com.tw/magazine/view/130050>。Fair use（editorial commentary）。

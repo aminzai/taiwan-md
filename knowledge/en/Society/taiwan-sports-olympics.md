@@ -149,6 +149,10 @@ From the closed “Taiwan” door at Montreal in 1976 to the world calling this 
 - [Chuang Chih-yuan](/en/people/chuang-chih-yuan-table-tennis-legend): Table tennis’s solitary king with four straight Asian titles
 - [Taiwanese Baseball Culture](/en/culture/taiwan-baseball-culture): A century of baseball history from KANO to the CPBL
 
+## Image Sources
+
+Awaiting image supplementation by the main session.
+
 ## References
 
 [^1]: Canada-People’s Republic of China diplomatic relations established on 1970/10/13; the Republic of China severed ties. Wikipedia, “Canada-China relations.”
@@ -260,7 +264,3 @@ From the closed “Taiwan” door at Montreal in 1976 to the world calling this 
 [^54]: ETtoday 2024 report, “Baseball returns to the 2028 Los Angeles Olympics with six teams” ([sports.ettoday.net/news/2941808](https://sports.ettoday.net/news/2941808)); Yahoo Sports report on baseball and softball returning in 2028.
 
 [^55]: 2024 WBSC Premier12 — Taiwan’s first championship in an international top-tier tournament; Taipei City Government event materials.
-
-## Image Sources
-
-Awaiting image supplementation by the main session.

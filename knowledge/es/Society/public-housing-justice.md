@@ -288,6 +288,20 @@ Los siguientes datos abiertos gubernamentales permiten verificar por cuenta prop
 - [Situación de adjudicación (venta/arriendo) de viviendas públicas nacionales en la ciudad de Taipéi](https://data.gov.tw/dataset/121267) (Departamento de Desarrollo Urbano del Gobierno de la Ciudad de Taipéi, actualización irregular) — Registros oficiales de adjudicación y arriendo de aquella tanda de “viviendas baratas vendidas por el gobierno” en las tres grandes viviendas públicas nacionales mencionadas
 - [Datos estadísticos de emparejamiento del programa de vivienda social con arrendamiento y administración delegada del Gobierno de la Ciudad de Taipéi](https://data.gov.tw/dataset/155779) (Departamento de Desarrollo Urbano del Gobierno de la Ciudad de Taipéi, actualización anual) — Cifras de implementación de la nueva ruta descrita en “En 2016 cambió la ruta: el gobierno dejó de vender y pasó a arrendar”
 
+## Fuentes de imágenes
+
+Este artículo utiliza 8 imágenes con licencia Creative Commons, todas almacenadas en caché en `public/article-images/society/` para evitar enlaces directos a los servidores de origen; además incorpora 2 videos de canales oficiales (CTS News y CommonWealth Magazine).
+
+- [Skyline residencial de la ciudad de Taipéi (vista desde Xiangshan)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo: Heeheemalu, 2026, CC BY-SA 4.0 (hero)
+- [Paisaje de departamentos en el distrito de Shilin, Taipéi](https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_Shilin,_Taipei_20220705.jpg) — Photo: 迷惘的人生, 2022, CC BY-SA 2.0
+- [Hoi Fu Court, To Kwa Wan, Hong Kong (Home Ownership Scheme)](https://commons.wikimedia.org/wiki/File:Hoi_Fu_Court-Hoi_Wen_House_and_Hoi_Lam_House.JPG) — Photo: Thomasman, 2008, CC BY-SA 3.0
+- [Vivienda municipal Brookfield Estate, Londres](<https://commons.wikimedia.org/wiki/File:Brookfield_Estate_(49445902922).jpg>) — Photo: Reading Tom, CC BY 2.0
+- [Viviendas HDB del distrito Lavender, Singapur](https://commons.wikimedia.org/wiki/File:Lavender_district_HDB_flats_in_Singapore.JPG) — Photo: Martinpasquier, 2014, CC BY-SA 4.0
+- [Vivienda social Minglun, ciudad de Taipéi](https://commons.wikimedia.org/wiki/File:Minglun_Social_Housing_front_view_20230304.jpg) — Photo: Solomon203, 2023, CC BY-SA 4.0
+- [Skyline del distrito Qingpu/alta velocidad de Taoyuan](https://commons.wikimedia.org/wiki/File:Taoyuan_Skyline_20230903.jpg) — Photo: Heeheemalu, 2023, CC BY-SA 4.0
+- [Vivienda social Karl-Marx-Hof, Viena](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-_Karl-Marx-Hof_(2).JPG>) — Photo: C.Stadler/Bwag, CC BY-SA 4.0
+- Videos: CTS News, “716 凱道遊行喊「居住正義」” (canal oficial de YouTube), y CommonWealth Magazine, “為何社宅政策大轉彎”, 8 分鐘看懂天下 Ep.74 (canal oficial de YouTube)
+
 ## Referencias
 
 [^1]: [成功國宅當年沒人要（Yahoo 好宅報報）](https://tw.stock.yahoo.com/news/成功國宅當年沒人要) — Reporta que las viviendas Chenggong, terminadas en 1985, tuvieron ventas estancadas al inicio, que solo se terminaron de vender tras una rebaja de precio y préstamos sin intereses a cuatro años, y recoge el recuerdo del antiguo jefe de barrio Shih Chung-sheng sobre cómo él y su esposa reunieron 400.000 dólares taiwaneses para el pago inicial.
@@ -343,17 +357,3 @@ Los siguientes datos abiertos gubernamentales permiten verificar por cuenta prop
 [^26]: [張善政赴行政院爭取（中時新聞網）](https://www.chinatimes.com/realtimenews/20260604003830-260405) — Reporta que el alcalde de Taoyuan, Chang San-cheng, acudió al Yuan Ejecutivo el 4 de junio de 2026 para buscar que la vivienda asequible se incorporara a la política central, y recoge su descripción de la vivienda asequible y la vivienda social como las “dos alas” de la política habitacional, complementarias y no competitivas.
 
 [^27]: [卓榮泰盼政策對齊（Newtalk 新聞）](https://newtalk.tw/news/view/2026-06-04/1039327) — Reporta la posición suavizada del primer ministro Cho Jung-tai frente a la vivienda asequible de Taoyuan: no la vetó y expresó la esperanza de que las políticas del centro y de los gobiernos locales puedan alinearse.
-
-## Fuentes de imágenes
-
-Este artículo utiliza 8 imágenes con licencia Creative Commons, todas almacenadas en caché en `public/article-images/society/` para evitar enlaces directos a los servidores de origen; además incorpora 2 videos de canales oficiales (CTS News y CommonWealth Magazine).
-
-- [Skyline residencial de la ciudad de Taipéi (vista desde Xiangshan)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo: Heeheemalu, 2026, CC BY-SA 4.0 (hero)
-- [Paisaje de departamentos en el distrito de Shilin, Taipéi](https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_Shilin,_Taipei_20220705.jpg) — Photo: 迷惘的人生, 2022, CC BY-SA 2.0
-- [Hoi Fu Court, To Kwa Wan, Hong Kong (Home Ownership Scheme)](https://commons.wikimedia.org/wiki/File:Hoi_Fu_Court-Hoi_Wen_House_and_Hoi_Lam_House.JPG) — Photo: Thomasman, 2008, CC BY-SA 3.0
-- [Vivienda municipal Brookfield Estate, Londres](<https://commons.wikimedia.org/wiki/File:Brookfield_Estate_(49445902922).jpg>) — Photo: Reading Tom, CC BY 2.0
-- [Viviendas HDB del distrito Lavender, Singapur](https://commons.wikimedia.org/wiki/File:Lavender_district_HDB_flats_in_Singapore.JPG) — Photo: Martinpasquier, 2014, CC BY-SA 4.0
-- [Vivienda social Minglun, ciudad de Taipéi](https://commons.wikimedia.org/wiki/File:Minglun_Social_Housing_front_view_20230304.jpg) — Photo: Solomon203, 2023, CC BY-SA 4.0
-- [Skyline del distrito Qingpu/alta velocidad de Taoyuan](https://commons.wikimedia.org/wiki/File:Taoyuan_Skyline_20230903.jpg) — Photo: Heeheemalu, 2023, CC BY-SA 4.0
-- [Vivienda social Karl-Marx-Hof, Viena](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-_Karl-Marx-Hof_(2).JPG>) — Photo: C.Stadler/Bwag, CC BY-SA 4.0
-- Videos: CTS News, “716 凱道遊行喊「居住正義」” (canal oficial de YouTube), y CommonWealth Magazine, “為何社宅政策大轉彎”, 8 分鐘看懂天下 Ep.74 (canal oficial de YouTube)

@@ -359,6 +359,19 @@ Les mots écrits par la loi seront lus par les lecteurs. Les mots non écrits so
 - [L'évolution des deux lois sur les soins de régénération à Taïwan : Confessions du personnel](/fr/society/taiwan-regenerative-medicine-laws) — Les deux lois sur les soins de régénération adoptées en 2024 sont des lois spéciales indépendantes de la Loi sur les établissements de santé, comblant la réglementation des thérapies cellulaires.
 - [Système de soins de santé en cas de catastrophe à Taïwan](/fr/technology/taiwan-disaster-medicine-system) — Le fonctionnement réel de l'article 1er de la Loi sur les établissements de santé « répartir raisonnablement les ressources médicales » dans les scénarios de grandes catastrophes.
 
+## Sources des images
+
+Ce texte utilise 7 images sous licence CC / Domaine public, mises en cache dans `public/article-images/society/` pour éviter les liens chauds vers les serveurs sources ; une vidéo officielle YouTube de PTS est également intégrée :
+
+- **Hero** : [NTU Hospital View from Pond of Taipei New Park](https://commons.wikimedia.org/wiki/File:NTU_Hospital_View_from_Pond_of_Taipei_New_Park_20110510.jpg) — Photo : Xuan Shi Sheng, 2011-05-10 regardant vers l'est depuis l'étang nord-ouest du Parc commémoratif du 228 vers l'Hôpital de l'Université Nationale de Taïwan. CC BY-SA 3.0 via Wikimedia Commons.
+- **Lits de médecine interne** : [Bed in Three Persons Room, Internal Medicine Ward, NTUH East Campus](https://commons.wikimedia.org/wiki/File:Bed_in_Three_Persons_Room,_Internal_Medicine_Ward,_NTUH_East_Campus_20101204a.JPG) — Photo : Xuan Shi Sheng, 2010-12-04, lits à trois lits de la médecine interne de l'annexe est de l'Hôpital de l'Université Nationale de Taïwan. CC0 Domaine public via Wikimedia Commons.
+- **Administration de médicaments par une infirmière** : [Nurse administering medicine using a spoon](https://commons.wikimedia.org/wiki/File:Nurse_administering_medicine_using_a_spoon_in_a_healthcare_setting_during_the_day.jpg) — Photo : Shixart1985, 2025-06-15. CC BY 2.0 via Wikimedia Commons.
+- **Salle de plénière du Congrès national** : [中華民國立法院（議場內）](<https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AB%8B%E6%B3%95%E9%99%A2_(%E8%AD%B0%E5%A0%B4%E5%86%85) — Photo : Jiang, 2013-07-25. CC BY-SA 3.0 via Wikimedia Commons.
+- **Le président assiste à la 115e Journée internationale des infirmières, conférence conjointe de célébration** : [05.12 總統出席「115 年國際護師節聯合慶祝大會」](https://www.flickr.com/photos/presidentialoffice/55265291499/) — Photo : I Chen Lin / Bureau du Président, 2026-05-12. CC BY 4.0 (Flickr du Bureau du Président).
+- **Action de rue des infirmières californiennes du NNU** : [NNU Protest UCLA Medical Center](https://commons.wikimedia.org/wiki/File:NNU_Protest_UCLA_Medical_Center.jpg) — Photo : Marcywinograd, 2020-04-13, action californienne du National Nurses Union. CC BY-SA 4.0 via Wikimedia Commons.
+- **Lithographie de la lanterne de Florence Nightingale** : [Florence Nightingale, coloured lithograph (Wellcome)](https://commons.wikimedia.org/wiki/File:Florence_Nightingale._Coloured_lithograph._Wellcome_V0006579.jpg) — D'après Henrietta Rae, Wellcome Collection. CC BY 4.0 / Domaine public.
+- **Vidéo** : [護理人員爆離職潮，職場環境如何改善？](https://www.youtube.com/watch?v=9rKqPhjWzDQ) — Chaîne officielle YouTube de PTS Enquêteur indépendant.
+
 ## Références
 
 [^1]: [Central News Agency : Le Congrès adopte en troisième lecture l'ajout du ratio infirmier-médecin en trois équipes à la Loi sur les établissements de santé](https://www.cna.com.tw/news/aipl/202605080198.aspx) — Adopté en troisième lecture à la veille de la Journée internationale des infirmières le 8 mai 2026, intervalle de sanctions, date d'entrée en vigueur en mai 2028.
@@ -484,16 +497,3 @@ Les mots écrits par la loi seront lus par les lecteurs. Les mots non écrits so
 [^61]: [Base de données des lois nationales : Loi sur les droits autonomes des patients](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020189) — Adopté en troisième lecture le 18 décembre 2015, entré en vigueur le 6 janvier 2019, première loi spéciale en Asie garantissant pleinement les droits autonomes des patients.
 
 [^62]: [Communiqué de presse du Ministère de la Santé et du Bien-être : Troisième lecture des deux lois sur les soins de régénération](https://www.mohw.gov.tw/cp-16-78933-1.html) — Le 4 juin 2024, la Loi sur les soins de régénération et le Règlement sur les préparations de soins de régénération ont été adoptés en troisième lecture, publiés le 19 juin 2024.
-
-## Sources des images
-
-Ce texte utilise 7 images sous licence CC / Domaine public, mises en cache dans `public/article-images/society/` pour éviter les liens chauds vers les serveurs sources ; une vidéo officielle YouTube de PTS est également intégrée :
-
-- **Hero** : [NTU Hospital View from Pond of Taipei New Park](https://commons.wikimedia.org/wiki/File:NTU_Hospital_View_from_Pond_of_Taipei_New_Park_20110510.jpg) — Photo : Xuan Shi Sheng, 2011-05-10 regardant vers l'est depuis l'étang nord-ouest du Parc commémoratif du 228 vers l'Hôpital de l'Université Nationale de Taïwan. CC BY-SA 3.0 via Wikimedia Commons.
-- **Lits de médecine interne** : [Bed in Three Persons Room, Internal Medicine Ward, NTUH East Campus](https://commons.wikimedia.org/wiki/File:Bed_in_Three_Persons_Room,_Internal_Medicine_Ward,_NTUH_East_Campus_20101204a.JPG) — Photo : Xuan Shi Sheng, 2010-12-04, lits à trois lits de la médecine interne de l'annexe est de l'Hôpital de l'Université Nationale de Taïwan. CC0 Domaine public via Wikimedia Commons.
-- **Administration de médicaments par une infirmière** : [Nurse administering medicine using a spoon](https://commons.wikimedia.org/wiki/File:Nurse_administering_medicine_using_a_spoon_in_a_healthcare_setting_during_the_day.jpg) — Photo : Shixart1985, 2025-06-15. CC BY 2.0 via Wikimedia Commons.
-- **Salle de plénière du Congrès national** : [中華民國立法院（議場內）](<https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AB%8B%E6%B3%95%E9%99%A2_(%E8%AD%B0%E5%A0%B4%E5%86%85) — Photo : Jiang, 2013-07-25. CC BY-SA 3.0 via Wikimedia Commons.
-- **Le président assiste à la 115e Journée internationale des infirmières, conférence conjointe de célébration** : [05.12 總統出席「115 年國際護師節聯合慶祝大會」](https://www.flickr.com/photos/presidentialoffice/55265291499/) — Photo : I Chen Lin / Bureau du Président, 2026-05-12. CC BY 4.0 (Flickr du Bureau du Président).
-- **Action de rue des infirmières californiennes du NNU** : [NNU Protest UCLA Medical Center](https://commons.wikimedia.org/wiki/File:NNU_Protest_UCLA_Medical_Center.jpg) — Photo : Marcywinograd, 2020-04-13, action californienne du National Nurses Union. CC BY-SA 4.0 via Wikimedia Commons.
-- **Lithographie de la lanterne de Florence Nightingale** : [Florence Nightingale, coloured lithograph (Wellcome)](https://commons.wikimedia.org/wiki/File:Florence_Nightingale._Coloured_lithograph._Wellcome_V0006579.jpg) — D'après Henrietta Rae, Wellcome Collection. CC BY 4.0 / Domaine public.
-- **Vidéo** : [護理人員爆離職潮，職場環境如何改善？](https://www.youtube.com/watch?v=9rKqPhjWzDQ) — Chaîne officielle YouTube de PTS Enquêteur indépendant.

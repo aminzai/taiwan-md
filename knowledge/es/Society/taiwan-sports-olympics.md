@@ -149,6 +149,10 @@ Desde aquella puerta cerrada al «Taiwan» de Montreal 1976 hasta el equipo que 
 - [Chuang Chih-yuan](/es/people/chuang-chih-yuan-table-tennis-legend): el solitario rey del tenis de mesa, cuatro veces campeón asiático
 - [Cultura del béisbol taiwanés](/es/culture/taiwan-baseball-culture): cien años de béisbol, de Kano a la CPBL
 
+## Fuentes de imágenes
+
+Pendiente de que la sesión principal complete las imágenes.
+
 ## Referencias
 
 [^1]: Establecimiento de relaciones diplomáticas entre Canadá y la República Popular China (13/10/1970); ruptura de relaciones diplomáticas con la República de China (Taiwán). Wikipedia, «Relaciones China-Canadá».
@@ -260,7 +264,3 @@ Desde aquella puerta cerrada al «Taiwan» de Montreal 1976 hasta el equipo que 
 [^54]: Reporte de ETtoday, 2024, «El béisbol regresa a los Juegos Olímpicos de Los Ángeles 2028 con 6 equipos» ([sports.ettoday.net/news/2941808](https://sports.ettoday.net/news/2941808)); reporte de Yahoo Deportes sobre el regreso del béisbol y sóftbol en 2028.
 
 [^55]: Premier12 2024: primer campeonato de Taiwán en un torneo internacional de nivel A; materiales de actividades del Gobierno de la ciudad de Taipéi.
-
-## Fuentes de imágenes
-
-Pendiente de que la sesión principal complete las imágenes.

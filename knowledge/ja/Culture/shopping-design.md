@@ -159,6 +159,14 @@ _Vol.155《誠徵設計》。見極め方を教える雑誌が、最後に自ら
 - [台湾茶道與生活美學](/ja/culture/taiwan-tea-ceremony-and-aesthetic-living) — 生活美学が台湾でいかに語られ、採買される日常へ成長したか
 - [聶永真](/ja/people/nieh-yung-jen) — 同じ台湾デザイン文脈で、デザインを大衆の前に押し出したもう1つの名前
 
+## 圖片來源
+
+- **Hero｜DesignBIZ Fest 2022 主視覺**：Shopping Design／DesignBIZ Fest、出典 <https://designbiz.shoppingdesign.com.tw/2022/>。Fair use（editorial commentary）。
+- **Vol.147《理想的な居住者》表紙**：Shopping Design（巨思メディアグループ Business Next Media）、出典 公式サイト期刊一覧 <https://www.shoppingdesign.com.tw/magazine/>。Fair use（editorial commentary）。
+- **Vol.150《私たちがこうしてデザインを收藏する》表紙**：Shopping Design（巨思メディアグループ Business Next Media）、出典 公式サイト期刊一覧 <https://www.shoppingdesign.com.tw/magazine/>。Fair use（editorial commentary）。
+- **DesignBIZ Fest 2022 講演者現場**：Shopping Design／DesignBIZ Fest、出典 <https://designbiz.shoppingdesign.com.tw/2022/>。Fair use（editorial commentary）。
+- **Vol.155《誠徵設計》表紙**：巨思メディアグループ Business Next Media、出典 <https://www.shoppingdesign.com.tw/magazine/view/130050>。Fair use（editorial commentary）。
+
 ## 參考資料
 
 [^1]: [雑誌は読者に意識的に生きることを提醒しなければならない：《Shopping Design》総編集長李恵貞](https://www.biosmonthly.com/article/8577) — BIOS monthly 2017年2月インタビュー。李恵貞が総編集長として「6年目」に入ったこと、および第100号が「白のデザインを購入する」で創刊号「白のデザイン」に応じたことを記録。
@@ -212,11 +220,3 @@ _Vol.155《誠徵設計》。見極め方を教える雑誌が、最後に自ら
 [^23]: [メディアリテラシー](https://zh.wikipedia.org/zh-tw/媒體素養) — Wikipedia索引。台湾2002年に『メディアリテラシー教育政策白書』を公布、高校は2017年度からメディアリテラシーを課程に組み込んだ政策背景を記録。
 
 [^24]: [2024「私たちがこうしてデザインを收藏する」講座回顧](https://www.shoppingdesign.com.tw/post/view/10553) — Shopping Design公式2024年8月報道。「Shopping Design主編奕昕、副主編雅筠」を逐字出現。近年確認できる編集部最高職称（「総編集長」から「主編」へ降格）。
-
-## 圖片來源
-
-- **Hero｜DesignBIZ Fest 2022 主視覺**：Shopping Design／DesignBIZ Fest、出典 <https://designbiz.shoppingdesign.com.tw/2022/>。Fair use（editorial commentary）。
-- **Vol.147《理想的な居住者》表紙**：Shopping Design（巨思メディアグループ Business Next Media）、出典 公式サイト期刊一覧 <https://www.shoppingdesign.com.tw/magazine/>。Fair use（editorial commentary）。
-- **Vol.150《私たちがこうしてデザインを收藏する》表紙**：Shopping Design（巨思メディアグループ Business Next Media）、出典 公式サイト期刊一覧 <https://www.shoppingdesign.com.tw/magazine/>。Fair use（editorial commentary）。
-- **DesignBIZ Fest 2022 講演者現場**：Shopping Design／DesignBIZ Fest、出典 <https://designbiz.shoppingdesign.com.tw/2022/>。Fair use（editorial commentary）。
-- **Vol.155《誠徵設計》表紙**：巨思メディアグループ Business Next Media、出典 <https://www.shoppingdesign.com.tw/magazine/view/130050>。Fair use（editorial commentary）。

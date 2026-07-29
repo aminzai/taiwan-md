@@ -218,6 +218,14 @@ The songs his grandfather left behind, he did not “inherit” by force. He sim
 - [Taiwanese Independent Music](/en/music/indie-music-scene) — How independent labels such as Trees Music built another path outside the mainstream music industry
 - [Popular Music and the Golden Melody Awards](/en/music/pop-music-and-golden-melody-awards) — How the Golden Melody Awards system incorporated Indigenous music creation
 
+## Image Sources
+
+This article uses 3 images licensed CC BY-SA 4.0, all cached under `public/article-images/people/` to avoid hotlinking from source servers:
+
+- [Pur-dull in Hsinchu 2](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_2.jpg) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu_2.jpg (hero)
+- [Pur-dull in Hsinchu (cropped)](<https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_(cropped).jpg>) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull*in_Hsinchu*(cropped).jpg (inline 1)
+- [Pur-dull in Hsinchu](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu.jpg) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu.jpg (inline 2)
+
 ## References
 
 [^1]: [Chen Chien-nien (singer) — Wikipedia](<https://zh.wikipedia.org/zh-tw/%E9%99%B3%E5%BB%BA%E5%B9%B4_(%E6%AD%8C%E6%89%8B)>) — Chinese Wikipedia entry on Chen Chien-nien, recording his birth date of August 1, 1967, origins in the Nanwang community, relationship to maternal grandfather Lu Sen-bao, police officer class no. 114, September 2000 transfer to Lanyu, and position as deputy chief of the Lanyu Police Station before his September 2017 retirement.
@@ -273,11 +281,3 @@ The songs his grandfather left behind, he did not “inherit” by force. He sim
 [^26]: [Sangpuy — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%A1%91%E5%B8%83%E4%BC%8A) — Entry on the contemporary Puyuma musician Sangpuy, recording that Sangpuy and Chen Chien-nien both come from the Taitung Puyuma cultural sphere, that he joined the Flying Fish and Clouded Leopard Music Labor Team after the 921 earthquake, and that he recorded albums with Kimbo Hu and others, reflecting Chen Chien-nien’s influence on later generations of Indigenous musicians.
 
 [^27]: [Chen Chien-nien — National Cultural Memory Bank](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Event&id=273173) — Ministry of Culture National Cultural Memory Bank entry on Chen Chien-nien, recording his position as heir to Lu Sen-bao, his creative style blending Puyuma and Mandarin, his Golden Melody King award at the 11th Golden Melody Awards, Best Popular Instrumental Album Producer at the 18th Golden Melody Awards, Best Popular Album Producer at the 20th Golden Melody Awards, and Best Indigenous Language Album at the 33rd Golden Melody Awards.
-
-## Image Sources
-
-This article uses 3 images licensed CC BY-SA 4.0, all cached under `public/article-images/people/` to avoid hotlinking from source servers:
-
-- [Pur-dull in Hsinchu 2](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_2.jpg) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu_2.jpg (hero)
-- [Pur-dull in Hsinchu (cropped)](<https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_(cropped).jpg>) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull*in_Hsinchu*(cropped).jpg (inline 1)
-- [Pur-dull in Hsinchu](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu.jpg) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu.jpg (inline 2)

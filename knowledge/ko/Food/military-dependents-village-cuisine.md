@@ -89,6 +89,10 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 
 새로운 세대의 요리사들이 촌촌 요리를 재해석하기 시작했다. 전통의 깊은 맛을 보존하면서 현대적 기법과 재료를 활용한다. 여러 대만 음식 작가들도 글쓰기를 통해 촌촌 요리의 문서 기록을 남겼고, 자오퉁(焦桐)의 《대만 맛(台灣味道)》(이어(二魚) 2009)은 그중 대표적인 초기 작품으로, 미각 기억이 레시피 밖에서도 보존될 수 있게 했다.[^3]
 
+## 이미지 출처
+
+- 파전(蔥油饼): Wikimedia Commons, [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+
 ## 참고 자료
 
 [^1]: [국방부 촌촌 문화 보존 센터](https://mvac.mnd.gov.tw/) — 촌촌 역사 배경 및 이주 인구 데이터.
@@ -109,7 +113,3 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 
 - [국방부 촌촌 문화 보존 센터](https://mvac.mnd.gov.tw/) — 전국 촌촌 보존 정보 통합 플랫폼
 - [문화부 국가문화기억고(國家文化記憶庫) — 촌촌 특집](https://memory.culture.tw/) — 촌촌 구술 역사 및 유물 소장
-
-## 이미지 출처
-
-- 파전(蔥油饼): Wikimedia Commons, [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)

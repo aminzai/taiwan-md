@@ -154,6 +154,12 @@ And now, on a Michelia at 1,800 meters, two chicks are learning to spread their 
 - [Da-an River Yitian Sword](/en/nature/daan-river-yitian-sword) — Another old giant tree hidden deep in Shei-Pa, surviving precisely because "humans cannot reach it"; the kind of untamed headwater-valley primary forest where Taiwania grows into East Asia's tallest tree is exactly the habitat the Tawny Fish Owl depends on
 - [Taiwan's National Parks](/en/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Shei-Pa, Taroko, and Yushan national parks are the last fortresses of stable Tawny Fish Owl populations, concrete examples of the protected-area system
 
+## Image Source
+
+This article uses one CC-licensed image, cached under `public/article-images/nature/` to avoid hotlinking the source server:
+
+- [Tawny fish owl. Ketupa flavipes - Flickr - gailhampshire](https://commons.wikimedia.org/wiki/File:Tawny_fish_owl._Ketupa_flavipes_-_Flickr_-_gailhampshire.jpg) — Photo: gailhampshire (Cradley, Malvern, UK), 2009-02-17, [CC BY 2.0 via Wikimedia Commons](https://creativecommons.org/licenses/by/2.0/)
+
 ## References
 
 [^1]: [Avibase - Tawny Fish Owl (_Ketupa flavipes_)](https://avibase.bsc-eoc.org/species.jsp?avibaseid=67CA1D2676A192A5) — An international bird database recording the taxonomic history of the Tawny Fish Owl: named by Hodgson in Nepal in 1836 as _Cultrunguis flavipes_, later transferred to _Bubo_, and in recent years separated into the genus _Ketupa_ on the basis of molecular phylogenetic studies.
@@ -193,9 +199,3 @@ And now, on a Michelia at 1,800 meters, two chicks are learning to spread their 
 [^18]: [Tawny Fish Owl nestling picture-in-picture view goes online! "Xiaobao" swallows a national-treasure fish whole, mother bird goes upstairs to deliver food to "Dabao" - Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/5423811) — Report from May 3, 2026: the earlier-born "Dabao" left the nest on May 1 and moved above the nest site. The Shei-Pa and NPUST team installed a second camera to simultaneously record the growth of both chicks through a picture-in-picture view.
 
 [^19]: ["Dark-night king" Tawny Fish Owl babies are adorable; Shei-Pa invites the public to help "name" them - Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/5426048) — Report from May 5, 2026: the Shei-Pa office and NPUST teacher Hung Hsiao-yu launched a naming activity. At this stage the two chicks are temporarily called "Dabao" and "Xiaobao," and on May 10 the team will jointly select five shortlisted proposals.
-
-## Image Source
-
-This article uses one CC-licensed image, cached under `public/article-images/nature/` to avoid hotlinking the source server:
-
-- [Tawny fish owl. Ketupa flavipes - Flickr - gailhampshire](https://commons.wikimedia.org/wiki/File:Tawny_fish_owl._Ketupa_flavipes_-_Flickr_-_gailhampshire.jpg) — Photo: gailhampshire (Cradley, Malvern, UK), 2009-02-17, [CC BY 2.0 via Wikimedia Commons](https://creativecommons.org/licenses/by/2.0/)

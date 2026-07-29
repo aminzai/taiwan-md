@@ -190,6 +190,14 @@ _타이완대병원 본관. 1895년에 설립되었으며, 타이완 건강보�
 - [위생복리부 국민건강보험회 위원회의 회의록](https://data.gov.tw/dataset/7554)（위생복리부 국민건강보험회, 매월 갱신）— 5.17% 보험료율 “현행 유지, 조정 없음”이 어느 회의 테이블에서, 어떤 이유로 결정되었는지 볼 수 있는 1차 회의록
 - [국민건강보험 각급 정부의 취약 보험대상자 보조 통계자료](https://data.gov.tw/dataset/23719)（위생복리부 중앙건강보험서, 매월 갱신）— 린야후이가 말한 “위난 공동 부담, 능력에 따른 납부”가 집행 단계로 내려가면 이 표가 된다. 정부가 누구의 보험료를 대신 냈는지 보여준다
 
+## 이미지 출처
+
+- **Hero**: [NHI Building, ROC-MOHW-NHIA Taipei Division main entrance](https://commons.wikimedia.org/wiki/File:NHI_Building,_ROC-MOHW-NHIA_Taipei_Division_main_entrance_20180616.jpg) by Solomon203 / Wikimedia Commons / CC BY-SA 4.0
+- **Scene-mid 1**（2017년판 건강보험 IC 카드）: 위생복리부 중앙건강보험서 공식 이미지 / Public Domain（정부 공개정보）
+- **Scene-mid 2**（건강보험 30주년 기록영화 iframe）: 위생복리부 중앙건강보험서 YouTube 공식 채널
+- **Scene-mid 3**（2007년 자이기독교병원 이동 간호 스테이션）: 자이기독교병원 / 비영리 교육 목적 사용
+- **Closure**（타이완대병원 본관）: [National Taiwan University Hospital main building](https://commons.wikimedia.org/wiki/Category:National_Taiwan_University_Hospital) / Wikimedia Commons / CC BY-SA 4.0
+
 ## 참고자료
 
 [^1]: [醫奉 31／葉金川：火燒屁股的三天，撐起 30 年健保](https://health.udn.com/health/story/6001/5826304) — 원치왕 2021년 “의봉 31” 특집 예진촨 인터뷰. 초대 중앙건강보험국 총경리가 1995년 3월 1일 시행 전 엿새 동안의 긴급 동원을 회고하며, “실제로 준비 시간은 사흘뿐이었다”, “발등에 불이 떨어졌다”, 신분증으로 건강보험 카드를 대체한 긴급 fallback 메커니즘 등을 여러 곳에서 verbatim으로 포함한다.
@@ -275,13 +283,3 @@ _타이완대병원 본관. 1895년에 설립되었으며, 타이완 건강보�
 [^41]: [Uwe Reinhardt: Why I Don't Advocate Single-Payer in America](https://www.huffpost.com/entry/uwe-reinhardt-on-single-payer_b_5af56c8be4b0859d11d05ce8) — HuffPost가 수록한 프린스턴 경제학자 Uwe Reinhardt(2017년 사망, 1989년부터 타이완 NHI 고문 중 한 명)의 핵심 verbatim. “I have not advocated the single-payer model here because our government is too corrupt”. 설계자 본인이 미국의 복제를 공개적으로 반대한 것이다.
 
 [^42]: [Taiwan's Private Health Insurance Market After NHI](https://link.springer.com/article/10.1057/gpp.2012.36) — Geneva Papers on Risk and Insurance 2012년 논문. 타이완 건강보험 시행 뒤 민간보험 가구 침투율이 1993년 63.9%에서 2004년 72.3%로 오히려 8.4퍼센트포인트 상승했음을 분석해, “국민건강보험이 민간보험 시장을 봉쇄했다”는 가정을 반대로 반증한다.
-
----
-
-## 이미지 출처
-
-- **Hero**: [NHI Building, ROC-MOHW-NHIA Taipei Division main entrance](https://commons.wikimedia.org/wiki/File:NHI_Building,_ROC-MOHW-NHIA_Taipei_Division_main_entrance_20180616.jpg) by Solomon203 / Wikimedia Commons / CC BY-SA 4.0
-- **Scene-mid 1**（2017년판 건강보험 IC 카드）: 위생복리부 중앙건강보험서 공식 이미지 / Public Domain（정부 공개정보）
-- **Scene-mid 2**（건강보험 30주년 기록영화 iframe）: 위생복리부 중앙건강보험서 YouTube 공식 채널
-- **Scene-mid 3**（2007년 자이기독교병원 이동 간호 스테이션）: 자이기독교병원 / 비영리 교육 목적 사용
-- **Closure**（타이완대병원 본관）: [National Taiwan University Hospital main building](https://commons.wikimedia.org/wiki/Category:National_Taiwan_University_Hospital) / Wikimedia Commons / CC BY-SA 4.0

@@ -326,6 +326,14 @@ Ce qui peut être gelé, ce n’est pas ce musée. C’est cette infrastructure 
 - [Justice transitionnelle à Taïwan](/fr/history/taiwan-transitional-justice) — La tension d’un processus qui a annulé six mille jugements sans parvenir à établir la responsabilité des auteurs ; cet article en offre un fragment institutionnel.
 - [Incident du 28 février](/fr/history/228-incident) — La plus grande révolte populaire de l’après-guerre à Taïwan, point de départ qui engendra trente-huit années de loi martiale.
 
+## Sources des images
+
+Cet article utilise 3 images du domaine public ou sous licence CC, toutes mises en cache dans `public/article-images/history/` afin d’éviter les liens directs vers les serveurs sources :
+
+- [La présidente Tsai Ing-wen assiste le 17/05/2018 à la « cérémonie d’inauguration du Musée national des droits humains »](<https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457).jpg>) — Photo : Bureau présidentiel, 17/05/2018, CC BY 2.0, licence standard Flickr.
+- [Mémorial des droits humains de Green Island, ou monument des larmes](https://commons.wikimedia.org/wiki/File:Taiwan_GreenIsland_Human_Rights_Memorial_Monument_2022.jpg) — Photo : S8321414, 2022, CC BY-SA 4.0.
+- [Parc culturel des droits humains de Jingmei](https://commons.wikimedia.org/wiki/File:%E6%99%AF%E7%BE%8E%E4%BA%BA%E6%AC%8A%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%80.jpg) — Photo : Chang Yung-tai, Public Domain (Voice of America) + CC Public Domain Mark 1.0.
+
 ## Références
 
 [^1]: [Newtalk : discours de Tsai Kun-lin lors de l’inauguration du NHRM à Green Island, 17/05/2018](https://newtalk.tw/news/view/2018-05-17/124671) — Transcription complète du discours incluant la citation mot à mot « espérer savoir un jour qui a tué son ami », allocution du représentant des victimes, âgé de 88 ans, le jour de l’inauguration.
@@ -407,11 +415,3 @@ Ce qui peut être gelé, ce n’est pas ce musée. C’est cette infrastructure 
 [^39]: [Musée national des droits humains : exposition permanente « L’âme de la liberté vs. le dictateur : le chemin de Taïwan vers la liberté d’expression »](https://www.nhrm.gov.tw/w/nhrm/News_22050707092432044) — Ouverture le 07/04/2022, Journée de la liberté d’expression, dans la salle d’exposition permanente du 1er étage du Mémorial Chiang Kai-shek ; commissaire Hsueh Hua-yuan, Institut d’histoire moderne de l’Academia Sinica. Stratégie de dialogue du ministre de la Culture Lee Yung-te : « si l’on ne peut pas le démolir, on emménage dedans ». Citation mot à mot de Cheng Chu-mei, fille de Cheng Nan-jung, lors de la cérémonie d’ouverture : « la manière dont la culture d’un pays se souvient du passé représente la manière dont un pays envisage son avenir ».
 
 [^40]: [Musée national des droits humains : Biennale du Green Island Human Rights Art Festival 2025, « Le temps de 149 milles nautiques : résister à l’oubli »](https://www.nhrm.gov.tw/w/nhrm/News_25040315483280023) — 17/05-21/09/2025, citation mot à mot du commissaire général Kao Chun-honn : « l’isolement géographique et temporel rend possible l’oubli de l’histoire, tandis que l’art peut devenir la poignée de l’épée qui résiste au temps ». 23 groupes d’artistes dont 7 internationaux, notamment Pangrok Sulap de Malaisie, Bui Cong Khanh du Vietnam, Miss Bench de Hong Kong, ainsi que des artistes d’Haïti, de Croatie et d’Indonésie. Les « 149 milles nautiques » désignent la distance entre Taitung et Green Island.
-
-## Sources des images
-
-Cet article utilise 3 images du domaine public ou sous licence CC, toutes mises en cache dans `public/article-images/history/` afin d’éviter les liens directs vers les serveurs sources :
-
-- [La présidente Tsai Ing-wen assiste le 17/05/2018 à la « cérémonie d’inauguration du Musée national des droits humains »](<https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457).jpg>) — Photo : Bureau présidentiel, 17/05/2018, CC BY 2.0, licence standard Flickr.
-- [Mémorial des droits humains de Green Island, ou monument des larmes](https://commons.wikimedia.org/wiki/File:Taiwan_GreenIsland_Human_Rights_Memorial_Monument_2022.jpg) — Photo : S8321414, 2022, CC BY-SA 4.0.
-- [Parc culturel des droits humains de Jingmei](https://commons.wikimedia.org/wiki/File:%E6%99%AF%E7%BE%8E%E4%BA%BA%E6%AC%8A%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%80.jpg) — Photo : Chang Yung-tai, Public Domain (Voice of America) + CC Public Domain Mark 1.0.

@@ -190,6 +190,14 @@ Los siguientes datos gubernamentales abiertos te permiten verificar, o refutar, 
 - [Actas de reuniones del Comité del Seguro Nacional de Salud del Ministerio de Salud y Bienestar](https://data.gov.tw/dataset/7554)（Comité del Seguro Nacional de Salud, Ministerio de Salud y Bienestar; actualización mensual）— Actas de primera mano para ver en qué mesa y con qué argumentos se decidió “mantener sin ajuste” la tasa de 5.17%
 - [Estadísticas de subsidios gubernamentales por nivel de gobierno para personas aseguradas vulnerables en el Seguro Nacional de Salud](https://data.gov.tw/dataset/23719)（Administración Central del Seguro Nacional de Salud, Ministerio de Salud y Bienestar; actualización mensual）— La idea de Lin Ya-hui de “compartir riesgos ante la adversidad y pagar según la capacidad” se traduce operativamente en esta tabla: a quién le paga el Gobierno la prima
 
+## Fuentes de imágenes
+
+- **Hero**: [NHI Building, ROC-MOHW-NHIA Taipei Division main entrance](https://commons.wikimedia.org/wiki/File:NHI_Building,_ROC-MOHW-NHIA_Taipei_Division_main_entrance_20180616.jpg) by Solomon203 / Wikimedia Commons / CC BY-SA 4.0
+- **Scene-mid 1**（tarjeta IC del Seguro Nacional de Salud, versión 2017）: imagen oficial de la Administración Central del Seguro Nacional de Salud, Ministerio de Salud y Bienestar / Public Domain（información pública gubernamental）
+- **Scene-mid 2**（iframe del documental del 30.º aniversario del seguro）: canal oficial de YouTube de la Administración Central del Seguro Nacional de Salud, Ministerio de Salud y Bienestar
+- **Scene-mid 3**（estación móvil de enfermería del Hospital Cristiano de Chiayi, 2007）: Hospital Cristiano de Chiayi / uso educativo sin fines de lucro
+- **Closure**（edificio principal del Hospital de la Universidad Nacional de Taiwán）: [National Taiwan University Hospital main building](https://commons.wikimedia.org/wiki/Category:National_Taiwan_University_Hospital) / Wikimedia Commons / CC BY-SA 4.0
+
 ## Referencias
 
 [^1]: [醫奉 31／葉金川：火燒屁股的三天，撐起 30 年健保](https://health.udn.com/health/story/6001/5826304) — Entrevista a Yeh Ching-chuan en el especial “Medical Dedication 31” de Yuanqi Net, 2021. El primer director general de la Oficina Central del Seguro Nacional de Salud recuerda la movilización de emergencia durante los seis días previos al inicio del 1 de marzo de 1995, con varias frases verbatim como “el tiempo real de preparación fue de apenas tres días”, “con el agua al cuello” y el uso del documento de identidad como mecanismo de fallback mientras no estaban listas las tarjetas.
@@ -275,13 +283,3 @@ Los siguientes datos gubernamentales abiertos te permiten verificar, o refutar, 
 [^41]: [Uwe Reinhardt: Why I Don't Advocate Single-Payer in America](https://www.huffpost.com/entry/uwe-reinhardt-on-single-payer_b_5af56c8be4b0859d11d05ce8) — Texto de HuffPost con declaraciones del economista de Princeton Uwe Reinhardt, fallecido en 2017 y asesor del NHI taiwanés desde 1989. Incluye la frase central verbatim: “I have not advocated the single-payer model here because our government is too corrupt”, en la que uno de los diseñadores se opone públicamente a copiarlo en Estados Unidos.
 
 [^42]: [Taiwan's Private Health Insurance Market After NHI](https://link.springer.com/article/10.1057/gpp.2012.36) — Artículo de 2012 en The Geneva Papers on Risk and Insurance que analiza el mercado taiwanés de seguros privados tras la creación del seguro nacional. Muestra que la penetración en hogares pasó de 63.9% en 1993 a 72.3% en 2004, un aumento de 8.4 puntos que refuta en sentido inverso la hipótesis de que el Seguro Nacional de Salud bloqueó el mercado privado.
-
----
-
-## Fuentes de imágenes
-
-- **Hero**: [NHI Building, ROC-MOHW-NHIA Taipei Division main entrance](https://commons.wikimedia.org/wiki/File:NHI_Building,_ROC-MOHW-NHIA_Taipei_Division_main_entrance_20180616.jpg) by Solomon203 / Wikimedia Commons / CC BY-SA 4.0
-- **Scene-mid 1**（tarjeta IC del Seguro Nacional de Salud, versión 2017）: imagen oficial de la Administración Central del Seguro Nacional de Salud, Ministerio de Salud y Bienestar / Public Domain（información pública gubernamental）
-- **Scene-mid 2**（iframe del documental del 30.º aniversario del seguro）: canal oficial de YouTube de la Administración Central del Seguro Nacional de Salud, Ministerio de Salud y Bienestar
-- **Scene-mid 3**（estación móvil de enfermería del Hospital Cristiano de Chiayi, 2007）: Hospital Cristiano de Chiayi / uso educativo sin fines de lucro
-- **Closure**（edificio principal del Hospital de la Universidad Nacional de Taiwán）: [National Taiwan University Hospital main building](https://commons.wikimedia.org/wiki/Category:National_Taiwan_University_Hospital) / Wikimedia Commons / CC BY-SA 4.0

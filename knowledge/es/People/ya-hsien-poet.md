@@ -175,6 +175,14 @@ Ya Hsien dejó noventa poemas. En el prólogo de 《El abismo》 citó la evalua
 - [Período de la ley marcial](/es/history/martial-law-era) — Contexto histórico de la censura literaria, el Comando General de Guarnición y la oscuridad como protesta política
 - [Medios taiwaneses y libertad de prensa](/es/society/media-and-press-freedom-in-taiwan) — Contexto histórico del dominio de los suplementos literarios de United Daily News y China Times en el campo literario taiwanés entre las décadas de 1950 y 1990
 
+## Fuentes de las imágenes
+
+Este artículo utiliza 3 imágenes con licencia CC BY-SA, todas almacenadas en caché en `public/article-images/people/` para evitar enlaces directos a los servidores de origen:
+
+- [瘂弦.tif](https://commons.wikimedia.org/wiki/File:%E7%98%82%E5%BC%A6.tif) — imagen hero. Foto: 目宿媒體股份有限公司, 2012-09-13, CC BY-SA 4.0, verificada mediante el ticket VRT de Wikimedia Foundation 2017112310007121
+- [洛夫.tif](https://commons.wikimedia.org/wiki/File:%E6%B4%9B%E5%A4%AB.tif) — imagen integrada. Foto: 目宿媒體股份有限公司, 2012, CC BY-SA 4.0
+- [鄭愁予.tif](https://commons.wikimedia.org/wiki/File:%E9%84%AD%E6%84%81%E4%BA%88.tif) — imagen integrada. Foto: 目宿媒體股份有限公司, 2017-11-16, CC BY-SA 4.0
+
 ## Referencias
 
 [^1]: [Sociedad Poética Génesis - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%89%B5%E4%B8%96%E7%B4%80%E8%A9%A9%E7%A4%BE) — Fundada en octubre de 1954 por Lo Fu y Chang Mo en Zuoying, Kaohsiung; Ya Hsien se sumó poco después. Los tres fueron llamados el “triángulo de hierro” de la poesía moderna taiwanesa de posguerra.
@@ -212,11 +220,3 @@ Ya Hsien dejó noventa poemas. En el prólogo de 《El abismo》 citó la evalua
 [^17]: [Cheng Chou-yu - Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%84%AD%E6%84%81%E4%BA%88) — Poeta contemporáneo de la Sociedad Poética Génesis; murió el 13 de junio de 2025 en Estados Unidos, a los 91 años. Su obra representativa 〈Error〉, con el verso “mis cascos da-da son un hermoso error”, está entre los poemas más difundidos de la historia de la poesía moderna taiwanesa.
 
 [^18]: [Chang Mo (poeta) - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E9%BB%98_%28%E8%A9%A9%E4%BA%BA%29) — Nacido en 1931, cofundador de la Sociedad Poética Génesis y editor de larga trayectoria, conocido como “la locomotora del movimiento de la nueva poesía taiwanesa”; en 2026 sigue con vida y es el único sobreviviente del triángulo de hierro de Génesis.
-
-## Fuentes de las imágenes
-
-Este artículo utiliza 3 imágenes con licencia CC BY-SA, todas almacenadas en caché en `public/article-images/people/` para evitar enlaces directos a los servidores de origen:
-
-- [瘂弦.tif](https://commons.wikimedia.org/wiki/File:%E7%98%82%E5%BC%A6.tif) — imagen hero. Foto: 目宿媒體股份有限公司, 2012-09-13, CC BY-SA 4.0, verificada mediante el ticket VRT de Wikimedia Foundation 2017112310007121
-- [洛夫.tif](https://commons.wikimedia.org/wiki/File:%E6%B4%9B%E5%A4%AB.tif) — imagen integrada. Foto: 目宿媒體股份有限公司, 2012, CC BY-SA 4.0
-- [鄭愁予.tif](https://commons.wikimedia.org/wiki/File:%E9%84%AD%E6%84%81%E4%BA%88.tif) — imagen integrada. Foto: 目宿媒體股份有限公司, 2017-11-16, CC BY-SA 4.0

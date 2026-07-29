@@ -247,6 +247,17 @@ _장제관이 모니터 앞에서 디지털화된 자형을 정리하고 있다.
 - [사회운동과 시민 참여](/ko/society/social-movements-and-civic-participation): 진쉬안 논쟁에서 드러난 「공공 사안을 놓고 싸우는」 에너지가 더 큰 맥락 속에 있다.
 - [해저 케이블](/ko/technology/submarine-cables-taiwan-lifeline): 모두가 매일 사용하지만 거의 아무도 보지 않는 또 다른 인프라.
 
+## 이미지 출처
+
+- **커버 이미지**: 진쉬안 서체 flyingV 크라우드펀딩 페이지 메인 비주얼. © justfont / flyingV, fair use editorial commentary. 출처: [flyingV 프로젝트 페이지](https://www.flyingv.cc/projects/8250)
+- **타이베이 버스 노선 표시**: Photo: BlubiNeko, 2022, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
+- **르싱주자항 납활자**: Photo: Johan Jönsson, 2023, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
+- **진쉬안 공식 샘플**: © justfont, justfont 제공 소재, fair use editorial commentary(협력 제공). 출처: [justfont blog 진쉬안 발표문](https://blog.justfont.com/2015/08/introducing-jinshuan/)
+- **jf open 훈인 공식 비주얼**: © justfont, 공식 GitHub 레포 공개(서체 본체 OFL 1.1). 출처: [open-huninn-font](https://github.com/justfont/open-huninn-font)
+- **란양밍티와 『간위지』 대조도**: © justfont, justfont 제공 소재, fair use editorial commentary(협력 제공). 출처: [justfont 란양밍티 공식 페이지](https://justfont.com/lanyangming/)
+- **감자미 공식 샘플**: © justfont, justfont 제공 소재, fair use editorial commentary(협력 제공). 출처: [justfont 감자미 공식 페이지](https://justfont.com/kamabit/)
+- **장제관 글자 수정 작업 사진**: © justfont, justfont 제공 소재, fair use editorial commentary(협력 제공). 출처: [justfont blog 르싱 송체 2호](https://blog.justfont.com/2025/06/rixing-song2-revivals/)
+
 ## 참고 자료
 
 [^1]: [flyingV: 진쉬안 서체 크라우드펀딩 프로젝트 페이지](https://www.flyingv.cc/projects/8250) — 모금 1차 기록: 총액 NT$25,930,099, 7,667명 후원, 목표 150만 원.
@@ -378,14 +389,3 @@ _장제관이 모니터 앞에서 디지털화된 자형을 정리하고 있다.
 [^64]: [위키백과: 저스트폰트(justfont)](https://zh.wikipedia.org/zh-tw/%E5%B0%B1%E6%98%AF%E5%AD%97) — 회사 연혁 기록: 예쥔린 화강 배경, 2010년 설립, 수웨이샹 2012년 합류 첫 번째 정직원.
 
 [^65]: [위키백과: 웨이펑디지털](https://zh.wikipedia.org/wiki/%E5%A8%81%E9%8B%92%E6%95%B8%E4%BD%8D) — 화강 1987년 9월 타이베이 설립, 대만 최초의 디지털 서체 회사, 2001년 웨이펑디지털로 사명 변경 연혁.
-
-## 이미지 출처
-
-- **커버 이미지**: 진쉬안 서체 flyingV 크라우드펀딩 페이지 메인 비주얼. © justfont / flyingV, fair use editorial commentary. 출처: [flyingV 프로젝트 페이지](https://www.flyingv.cc/projects/8250)
-- **타이베이 버스 노선 표시**: Photo: BlubiNeko, 2022, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
-- **르싱주자항 납활자**: Photo: Johan Jönsson, 2023, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
-- **진쉬안 공식 샘플**: © justfont, justfont 제공 소재, fair use editorial commentary(협력 제공). 출처: [justfont blog 진쉬안 발표문](https://blog.justfont.com/2015/08/introducing-jinshuan/)
-- **jf open 훈인 공식 비주얼**: © justfont, 공식 GitHub 레포 공개(서체 본체 OFL 1.1). 출처: [open-huninn-font](https://github.com/justfont/open-huninn-font)
-- **란양밍티와 『간위지』 대조도**: © justfont, justfont 제공 소재, fair use editorial commentary(협력 제공). 출처: [justfont 란양밍티 공식 페이지](https://justfont.com/lanyangming/)
-- **감자미 공식 샘플**: © justfont, justfont 제공 소재, fair use editorial commentary(협력 제공). 출처: [justfont 감자미 공식 페이지](https://justfont.com/kamabit/)
-- **장제관 글자 수정 작업 사진**: © justfont, justfont 제공 소재, fair use editorial commentary(협력 제공). 출처: [justfont blog 르싱 송체 2호](https://blog.justfont.com/2025/06/rixing-song2-revivals/)

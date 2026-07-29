@@ -191,6 +191,13 @@ L’enfant qui grandissait à Lugang en regardant sa mère vendre des œufs de c
 
 **Pour aller plus loin** : [Acer](/fr/economy/acer-pc-industry-pioneer) (la marque fondée par Stan Shih et portée sur la scène mondiale, voici son histoire complète), [Morris Chang](/fr/people/tsmc-morris-chang) (celui qui avait invité Stan Shih à être administrateur de TSMC pendant 21 ans, suivait une autre voie technologique taïwanaise), [TSMC](/fr/economy/tsmc) (cette entreprise qui faisait la « fabrication du milieu » mais était devenue la montagne sacrée protectrice de Taïwan, aussi l’endroit où Stan Shih détenait le plus d’actions), [La transformation et la montée en gamme de l’industrie taïwanaise](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) (derrière la courbe du sourire et la Voie royale, la voie de Taïwan entre la fabrication et la marque sur quarante ans).
 
+## Sources des images
+
+- **Image principale / Stan Shih (2014)** : Photo par Tony Tseng, Taipei IT Month 2014, CC BY 2.0. Source [Flickr](https://www.flickr.com/photos/tonytseng/).
+- **Micro-Professor I (MPF-I, 1981)** : Photo par Joho345, domaine public (Public Domain). Source Wikimedia Commons.
+- **Schéma de la courbe du sourire** : Créé par Rico Shen, CC BY-SA 4.0. Source Wikimedia Commons.
+- **Stan Shih (2007, section échec/franchise)** : Photo par Rico Shen, CC BY-SA 3.0. Source Wikimedia Commons.
+
 ## Références
 
 [^1]: [L’heure de l’histoire : En 1981, Stan Shih conçoit le premier ordinateur national « Micro-Professor I »](https://time.udn.com/udntime/story/122390/9424956) — Article spécial de l’Heure de l’histoire du联合报 (2026-04-13), enregistrant que en septembre 1981, Acer a emmené le Micro-Professor I aux États-Unis à San Francisco pour la 30e édition du Western Electronic Show and Convention (WESCON).
@@ -334,10 +341,3 @@ L’enfant qui grandissait à Lugang en regardant sa mère vendre des œufs de c
 [^69]: [Vision Magazine : Avatar IA Stan de Stan Shih et nouveau livre](https://www.gvm.com.tw/article/127819) — Comme précédemment, enregistre que le nouveau livre _Le Moment d’Éveil du Leader : Stan et l’IA en conversation_ a environ 90 % de son contenu écrit par l’avatar IA entraîné,收录ant 30 questions-réponses, incluant « Comment voulez-vous que les gens se souviennent de vous ? ».
 
 [^70]: [Vision Magazine : Stan Shih prévoit une seconde retraite à 85 ans](https://www.gvm.com.tw/article/127819) — Vision enregistre que Stan Shih a annoncé lors de la conférence musicale de gratitude pour le 20e anniversaire de sa retraite le 6 décembre 2024, prévoyant une seconde retraite à 85 ans, remettant la présidence de l’entreprise lucrative, continuant à s’impliquer dans la philanthropie ; en juin 2026, il est toujours allé au Japon publier le nouveau livre blanc sur la Voie royale, aucun signe de retrait.
-
-## Sources des images
-
-- **Image principale / Stan Shih (2014)** : Photo par Tony Tseng, Taipei IT Month 2014, CC BY 2.0. Source [Flickr](https://www.flickr.com/photos/tonytseng/).
-- **Micro-Professor I (MPF-I, 1981)** : Photo par Joho345, domaine public (Public Domain). Source Wikimedia Commons.
-- **Schéma de la courbe du sourire** : Créé par Rico Shen, CC BY-SA 4.0. Source Wikimedia Commons.
-- **Stan Shih (2007, section échec/franchise)** : Photo par Rico Shen, CC BY-SA 3.0. Source Wikimedia Commons.
