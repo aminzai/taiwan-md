@@ -1,332 +1,299 @@
 ---
-title: "L'industrie taïwanaise de la fabrication d'instruments de musique : des saxophones de Houli aux usines musicales mondiales"
-description: "Explorez l'évolution de l'industrie taïwanaise de la fabrication d'instruments de musique, de la position dominante mondiale des saxophones de Houli au royaume de la sous-traitance de guitares, en passant par la précision artisanale de la fabrication de boîtes à musique, et découvrez comment Taïwan est passé de la sous-traitance à la création de marques propres."
+title: "L'industrie des instruments de musique à Taïwan : les mains taïwanaises derrière les sons du monde"
+description: "À la fin des années 1940, Chang Lien-chang, un artisan en calligraphie et collage à Houli, a récupéré un saxophone japonais calciné près d'un incendie pour souder le premier instrument en cuivre de Taïwan ; par la suite, les saxophones Jupiter des fanfares scolaires, les quatre millions de guitares de la zone de Nanzi, et les mécanismes de boîtes à musique de Wufeng qui résonnent dans les boutiques de Otaru ont tous transité par les mains des Taïwanais. Cette mémoire d'une chaîne d'approvisionnement sonore est plus précieuse à préserver que le simple récit héroïque des batailles passées."
 date: 2026-07-17
-author: 'Taiwan.md'
 category: 'Music'
-subcategory: '樂器與製造'
 tags:
   [
     "fabrication d'instruments",
-    'saxophones de Houli',
-    'sous-traitance de guitares',
-    'boîtes à musique',
-    'industrie manufacturière',
-    'artisanat taïwanais',
+    'saxophone de Houli',
+    'guitare',
+    'boîte à musique',
+    'Kung-Hsueh',
+    'Jupiter',
+    'fabrication de précision',
+    'Taichung',
+    'Kaohsiung',
   ]
-readingTime: 22
+subcategory: '樂器與製造'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-07-17
 lastHumanReview: false
-featured: true
-translatedFrom: 'Music/台灣樂器製造.md'
-sourceCommitSha: 'ce74fa26'
-sourceContentHash: 'sha256:d7bd090bae6990bf'
-sourceBodyHash: 'sha256:381c1171bf2bf67f'
-translatedAt: '2026-06-06T00:00:00Z'
-image: /article-images/music/saxophone-craft-object-2017.webp
+researchReport: 'reports/research/2026-07/台灣樂器製造.md'
+image: '/article-images/music/saxophone-craft-object-2017.webp'
 imageCredit: '薩克斯風本體示意 · Wikimedia Commons · CC BY-SA 4.0（非后里特定廠牌實拍）'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:A_Saxophone.jpg'
+readingTime: 22
+rationale: "{'why_this_hook': '從 salvage 銅的不可替代身體場景切入，讓「隱形供應鏈記憶」先成為可感的物件，再拆英雄數字、展開校隊／楠梓／霧峰三層隱形。', 'whats_excluded': '電子樂器與二胡古箏長支線；工業4.0／永續空話；兩岸統獨國禮政治化；假 OEM 貼牌清單（Selmer 產線等無釘死源）；假書目四本；「中國搶走」單一因果；失敗論脊椎；1970s 開廠／10萬35%／全國吉他200萬／協櫻1971／日月潭館／Merida吉他／全豐1965／Sankyo百年／Jupiter后里起家。'}"
+relatedDiary: ['2026-07-17-221115-manual']
+translatedFrom: 'Music/台灣樂器製造.md'
+sourceCommitSha: 'b4f3dab63'
+sourceContentHash: 'sha256:5ffbb5b925e1997f'
+sourceBodyHash: 'sha256:cda00c8983ea5b23'
+translatedAt: '2026-07-29T07:32:34+08:00'
 ---
 
-# L'industrie taïwanaise de la fabrication d'instruments de musique : des saxophones de Houli aux usines musicales mondiales
+# L'industrie des instruments de musique à Taïwan : les mains taïwanaises derrière les sons du monde
 
-## Aperçu en 30 secondes
+> **Aperçu en 30 secondes :** À Houli, quelqu'un a récupéré un saxophone près d'un incendie pour créer le premier exemplaire taïwanais ; à Guoying, quelqu'un a envoyé des instruments Jupiter dans les fanfares scolaires américaines ; la zone de transformation de Nanzi a fait résonner « la terre natale de la guitare » dans plus de soixante pays ; et les mécanismes de Wufeng tintent encore au cœur des boîtes à musique à Otaru et chez Eslite. Ce récit explore combien de métaux et de bois, à travers le monde, ont transité par les mains des Taïwanais — il est plus crucial de préserver la mémoire d'une chaîne d'approvisionnement qui produit du son que celle de héros guerriers.
 
-Taïwan fut une base majeure de fabrication d'instruments de musique à l'échelle mondiale. La production de saxophones dans la région de Houli représenta à une époque un tiers du marché mondial, valant à cette zone le surnom de « berceau du saxophone ». Taïwan fut également un grand pays exportateur de guitares, prenant en charge les commandes de sous-traitance de marques européennes et américaines. La fabrication de boîtes à musique illustra quant à elle la maîtrise de l'artisanat de précision taïwanais : la société Xieying Industrial, en partenariat avec le japonais Sankyo, obtint une reconnaissance internationale pour son niveau technique. Bien confrontée à la concurrence des coûts, l'industrie instrumentale taïwanaise évolue désormais vers la fabrication haut de gamme et le développement de marques propres.
+![Schéma du corps du saxophone](/article-images/music/saxophone-craft-object-2017.webp)
+_Schéma du corps du saxophone. Photo : Wikimedia Commons, CC BY-SA 4.0. Ne représente pas une marque spécifique de Houli._
 
-Ces trois domaines (saxophones, guitares, boîtes à musique) ont chacun atteint leur apogée à différentes époques, constituant ensemble un condensé de l'artisanat de précision de l'industrie manufacturière taïwanaise.
+---
 
-**Mots-clés :** saxophone, Houli, sous-traitance de guitares, boîtes à musique, Xieying Industrial, fabrication d'instruments de musique
+## Le premier cuivre soudé près d'un incendie
 
-## Pourquoi c'est important
+L'histoire commence avec un saxophone japonais calciné et une paire de mains habituées au collage — bien avant le récit courant du « paysan qui a ouvert une usine par hasard dans les années 1970 ».
 
-L'essor et le déclin de l'industrie taïwanaise de la fabrication d'instruments reflètent la trajectoire du développement manufacturier de Taïwan : partir de la sous-traitance à bas coût, accumuler des compétences techniques, puis évoluer vers des marques propres à forte valeur ajoutée. Cette industrie a créé des emplois et généré des revenus d'exportation, tout en cultivant une tradition artisanale de fabrication de précision, devenant un cas emblématique d'entreprises « championnes cachées » (隱形冠軍) taïwanaises.
+Chang Lien-chang, né le 10 décembre 1913 à Houli (Taichung) et décédé le 16 janvier 1986.[^1] Issu d'une famille d'agriculteurs, il est allé à Dajia à l'âge de treize ans pour apprendre la calligraphie et le collage, puis a appris à jouer du petit cor et a formé un ensemble de musique légère avec des musiciens locaux.[^2] Lors d'un incendie — les archives locales et les récits familiaux situent l'événement en 1945 ou 1947 — le saxophone japonais acquis à grands frais par le groupe fut détruit par les flammes. Le cuivre était noirci, le son avait disparu. Chang Lien-chang n'en acheta pas de nouveau ; il démonta les restes.
 
-Cette histoire illustre également une règle universelle : la compétitivité fondamentale de l'industrie manufacturière taïwanaise réside dans sa flexibilité, sa précision artisanale et sa capacité d'intégration de la chaîne d'approvisionnement, et non dans le simple avantage du bas coût.
+Le récit du magazine _Guanghua_ est précis : il a passé environ trois mois à démonter près de quatre cents pièces, utilisant des bandes de cuivre pour fabriquer des boutons et soudant avec du métal fondu.[^2] Une version mentionne qu'il aurait été blessé à l'œil droit par le rebond d'une bande de cuivre durant la fabrication. Une autre version indique qu'il a perdu son œil droit en réparant les instruments d'une fanfare de l'armée de l'air — ces deux récits coexistent sans source médicale ou journalistique unique pour trancher ; ils sont présentés ici côte à côte.[^3] L'histoire locale de Taichung et le témoignage de la troisième génération, Chang Zong-yao, situent la « première fabrication taïwanaise » vers 1948 lors d'une vente à un musicien philippin.[^4] _Guanghua_, se basant sur l'année de l'incendie, estime que la réalisation date d'environ 1950.[^2] L'enseigne de l'usine, « Chang Lien-chang Instruments », et le retour à la production spécialisée à Houli constituent une autre chronologie. Incendie, première fabrication, première vente et création de l'usine sont quatre événements distincts qui ne peuvent être fusionner en un seul mythe temporel.
 
-## Le royaume du saxophone de Houli (1970 – aujourd'hui)
+L'essentiel réside dans le contexte physique : l'industrie du son commence par la récupération (_salvage_). Un artisan en calligraphie a utilisé le démontage, le dessin et des techniques de soudure artisanales pour transformer à nouveau le cuivre en tubes sonores. Plus tard, les médias et les locaux l'ont surnommé le « père du saxophone taïwanais », créant la notion de « premier exemplaire » — ce texte conserve ce titre usuel sans en faire une vérité historique absolue.[^2]
 
-### Origines de l'industrie : une opportunité fortuite
+Le système maître-disciple s'est rapidement développé. Si un apprenti faisait une erreur, le maître lui donnait un coup sur la tête. Un instrument défectueux était brisé publiquement ; pour le maître, il n'était plus qu'un jouet.[^2] On martelait le cuivre le jour et on étudiait les partitions avec le maître la nuit ; Houli devint une « ruche de musiciens ».[^2] Selon les souvenirs du maître Chang Lai, en 1953, lors de l'inauguration du pont de Xilo, seule Houli possédait un orchestre de musique occidentale à Taïwan.[^2] L'ouverture du pont est datée du 28 janvier 1953 ; le caractère « unique à Taïwan » reste un récit oral, mentionné ici comme tel.[^5]
 
-L'industrie du saxophone à Houli, dans le canton de Taichung, trouve son origine dans une opportunité fortuite dans les années 1970. À cette époque, **Zhang Lianchang**, un agriculteur de Houli, cherchait à augmenter ses revenus durant les périodes d'inactivité agricole et commença à apprendre la fabrication de saxophones. Il était à l'origine le propriétaire d'un petit atelier de fabrication de matériel militaire, cherchant après-guerre une nouvelle orientation pour son activité.
+La tradition s'est transmise en famille. Le fils aîné, Chang Wen-tsan, a repris l'usine ; le second, Chang Wen-hsu, a fondé Taiguan en 1971. La troisième génération, Chang Zong-yao et Wang Tsai-jui, a extrait la marque LC du récit de simple sous-traitance, créant sa propre marque vers 2000, ouvrant un centre commémoratif en 2002 et obtenant une certification d'usine touristique en 2009.[^6] Les quatre sœurs — Chang Yu-tzu, Chang Man-yu, Chang Yu-feng et Chang Jia-jung — se partagent les rôles de performance, fabrication, enseignement et exportation.[^17] Wang Tsai-jui a déclaré : « Dans cette maison, de mon grand-père à mes filles, vivent désormais cinq générations. »[^2] L'usine touristique est devenue, plus tard, le réceptacle de la cinquième génération et des souvenirs. Mais l'origine demeure ce premier morceau de cuivre récupéré près d'un incendie.
 
-Par l'auto-apprentissage et des essais répétés, Zhang Lianchang maîtrisa la technique de fabrication du saxophone. Au début des années 1970, il fonda l'« Usine d'instruments de musique Zhang Lianchang », la première manufacture de saxophones de Taïwan, inaugurant ainsi l'industrie du saxophone à Houli.
+> **📝 Note de la commissaire d'exposition**
+> Présenter l'origine comme « un paysan ouvrant une usine par hasard dans les années 1970 » écraserait la perception temporelle de toute cette industrie : cela donnerait l'impression que l'industrie taïwanaise des instruments n'est apparue qu'avec le boom des exportations. Le scénario du _salvage_ fait reculer le temps de plus de vingt ans et restaure le protagoniste d'un « propriétaire d'usine de sous-traitance » à un homme concret qui démontait des pièces, soudait et aurait pu perdre un œil à cause de cela. Toute la dimension « invisible » et l'ampleur mentionnées plus loin ne tiennent que grâce à ce morceau de cuivre initial.
 
-### La formation d'un pôle industriel
+Par la suite, cette lignée de récupération s'est étendue à tout le quartier de Houli — trente usines, des sons nocturnes et des cadeaux de niveau présidentiel. Mais avant cela, il convient d'exposer les chiffres, souvent utilisés pour se mesurer aux autres.
 
-Inspirés par le succès de Zhang Lianchang, plusieurs usines de saxophones virent le jour dans la région de Houli. Ces usines produisaient principalement en sous-traitance pour des marques européennes et américaines, et des marques renommées comme Selmer et Yamaha établirent des lignes de production ou confièrent des commandes de sous-traitance à Houli.
+## Un sur trois dans le monde ? Déconstruction des chiffres
 
-Dans les années 1980, un pôle industriel complet du saxophone s'était formé à Houli :
+« Quand on parle de Houli à Taichung, la plupart des gens pensent immédiatement aux "chevaux", mais peu savent qu'il y a eu une époque où, sur trois saxophones dans le monde, un était fabriqué à Taïwan, à Houli. »[^2] Cette phrase d'introduction de _Guanghua_ en 2005 est devenue presque la sentence fondatrice du mythe de Houli. En 2008, NPR a également écrit : jusqu'aux années 1980, selon les estimations gouvernementales, Taïwan produisait tellement d'instruments que un sur trois dans le monde provenait de là.[^8] Cette approximation de 1/3 a été répétée par les médias et est celle que les lecteurs retiennent souvent.
 
-- **Fournisseurs en amont** : matériaux en laiton, pièces de touches, ressorts, etc.
-- **Usines de fabrication** : plus de 30 usines de différentes tailles
-- **Services en aval** : emballage, logistique, contrôle qualité
+Le problème est que les chiffres ne concordent pas parfaitement.
 
-### La domination sur le marché mondial
+_Guanghua_ décrit l'apogée des années 1970 : environ 30 usines à Houli, plus de 3 000 saxophones produits par an, avec un volume d'exportation dépassant 700 millions de dollars NT.[^2] En 2005, le _Taipei Times_ citait des opérateurs locaux : sur 25 usines à Taïwan, 15 étaient à Houli, produisant environ 30 000 unités par an.[^9] NPR mentionnait une population de 50 000 à Houli et une production annuelle d'environ 40 000 unités.[^8] Un extrait de la Fondation pour le développement des échanges (Sea-Based) indique « plus de 10 000 par an dans les années 70, réduites à quelques milliers aujourd'hui ».[^10] En 2006, _Yuan-Jian_ affirmait que « il y a environ 30 ans, 70 % des instruments mondiaux venaient de Houli », un chiffre bien plus élevé que 1/3, sans méthodologie claire ; ce texte ne présentera pas cette donnée comme une vérité absolue.[^11]
 
-Les années 1990 représentèrent l'âge d'or de l'industrie du saxophone à Houli. Selon les statistiques, la production annuelle de saxophones dans la région dépassait alors 100 000 unités, représentant environ 35 % du marché mondial, ce qui lui valut le titre mérité de « berceau du saxophone ».
+```tw-stat
+Environ 30 usines | Nombre d'usines à Houli durant l'apogée | Guanghua, 2005
+Plus de 3 000 unités | Production annuelle (Houli) | Retrospective de Guanghua, 2005
+Environ 30 000 unités | Production annuelle (narratif Taïwan) | Taipei Times, 2005
+Environ 40 000 unités | Production annuelle (Houli) | NPR, 2008
+Sources : Guanghua 2005, Taipei Times 2005, NPR 2008 (présentés côte à côte, sans sélection du maximum)
+```
 
-Parmi les principaux marchés d'exportation, les États-Unis représentaient plus de 50 % des exportations, suivis par l'Europe (Allemagne, France, Royaume-Uni, etc.), le Japon se concentrant sur le marché milieu/haut de gamme, et l'Asie du Sud-Est absorbant les produits d'entrée de gamme.
+D'anciens textes mentionnaient « 100 000 produits par an, soit environ 35 % du marché mondial » ; aucune source académique ou médiatique indépendante n'a été trouvée pour ces chiffres, qui relèvent de l'exagération ou d'une confusion.[^12] _Culture Taichung_ mentionnait « 70 % des saxophones de Taïwan étaient produits à Houli », ce qui concerne la part de marché interne et non le volume mondial.[^1] Le nombre d'unités, la valeur des exportations, la part de Taïwan sur le monde et la part de Houli sur Taïwan sont quatre mesures différentes.
 
-- **Japon** : marché milieu/haut de gamme, exigences strictes en matière de qualité sonore
-- **Asie du Sud-Est** : marché des produits d'entrée de gamme, demande stable
+Présenter ces chiffres côte à côte permet de préserver la réalité tangible du cuivre : ce qui existe vraiment, c'est la communauté, les maîtres et apprentis, et la mémoire physique des périodes d'exportation intense. Les phrases héroïques de « part de marché mondiale précise » sont difficiles à vérifier. En 2005, lors de la visite du président américain George W. Bush à Taïwan, Chen Shui-bian a offert un saxophone lors d'un dîner. _Guanghua_ précisait qu'il était « fabriqué à Houli », et le catalogue numérique est étiqueté LC.[^13] C'était la célébration d'une industrie locale devenue un cadeau de niveau présidentiel ; cela peut être mentionné sans être réduit à une question de souveraineté.
 
-### Le perfectionnement des techniques de fabrication
+Le nombre d'usines a également diminué avec le temps. Environ 30 au sommet. Après 2005-2006, il en restait environ 12 à 15 à Houli. En 2018, un dossier spécial mentionnait 13 usines. TaiwanPlus, en 2026, indique qu'il ne reste plus que 4 usines de saxophones, une donnée récente et frappante, bien que la méthodologie (comptant-elle uniquement l'assemblage complet ?) ne soit pas publique.[^14] Il est acceptable d'écrire « passant d'environ trente à un chiffre aujourd'hui », en laissant coexister les chiffres 15/13/4.
 
-Les fabricants taïwanais de saxophones améliorèrent leurs techniques de fabrication, passant d'une simple sous-traitance à un véritable avantage technologique :
+Wang Tsai-jui a dit une phrase plus solide dans _Guanghua_ : « Pour tout dire, si nous n'étions pas de la même famille, nous étions maîtres et apprentis, ou frères d'armes. Mais avec les intermédiaires qui sillonnaient le monde et la concurrence sur les prix bas, nous sommes devenus des concurrents les uns pour les autres. »[^2] Tsai Hsiang-wen du ITRI a souligné une faiblesse structurelle : l'absence de marques propres, le manque de processus de production standardisés et spécifiés, maintenant l'industrie dans la position de sous-traitant pour les marques internationales sur le long terme.[^2] _Yuan-Jian_ a également noté en 2005 qu'au sein des instruments à vent du même niveau, Jupiter avait souvent un avantage de prix par rapport à Yamaha, mais les clients finissaient par choisir Yamaha : « la clé réside dans la capacité de la marque à raconter une histoire. »[^15]
 
-**Technologie de réglage de la qualité sonore**
-Les artisans de Houli développèrent des méthodes uniques de réglage de la qualité sonore, capables d'ajuster les caractéristiques timbrales de l'instrument selon les besoins des différents marchés. Le marché européen privilégiait les sons brillants, le marché américain les sonorités chaleureuses — les artisans maîtrisaient ces nuances avec précision.
+Une fois ces chiffres déconstruits, la question suivante devient claire : comment cette présence invisible s'est-elle intégrée au quotidien ?
 
-**Procédés de traitement de surface**
-Des procédés traditionnels de laquage doré aux techniques modernes de galvanoplastie, les usines de Houli se forgèrent une réputation technique solide dans le traitement de surface des saxophones. En particulier, les techniques de finition pour les teintes spéciales comme le bronze ancien et l'argenté reçurent une reconnaissance élevée de la part des clients internationaux.
+![Schéma de la famille des saxophones](/article-images/music/saxophone-family-amati-2023.webp)
+_Schéma de la famille des saxophones (Amati). Photo : Wikimedia Commons, CC BY-SA. Ne représente pas une marque spécifique de Houli._
 
-**Production sur mesure**
-Capacité de produire sur mesure selon les spécifications de différentes marques, des instruments d'entrée de gamme pour étudiants aux produits de qualité professionnelle.
+## Ce que personne ne vous dit sur les instruments des fanfares scolaires
 
-### Fabricants et marques représentatifs
+La première couche d'invisibilité se trouve lors des cérémonies du drapeau et dans les salles de répétition américaines.
 
-**Musée du saxophone Zhang Lianchang**
-Géré par les descendants du fondateur Zhang Lianchang, il continue de produire des saxophones et abrite un musée présentant l'histoire de l'industrie. Ce musée est un site touristique de Houli, attirant des dizaines de milliers de visiteurs chaque année.
+<iframe src="https://www.youtube.com/embed/c7RpyTNmzcI" title="Jupiter Wind Instruments Factory Tour (Chaîne officielle de la filiale européenne)" loading="lazy" allowfullscreen></iframe>
 
-**Jupiter Instruments à vent**
-La marque Jupiter fut fondée en 1980 (la société mère KHS remonte à l'époque de l'occupation japonaise)[^1], originaire de Houli, et est aujourd'hui une marque mondialement reconnue d'instruments à vent, dont les produits sont distribués dans plus de 100 pays.
+Kung-Hsueh a suivi une voie différente, séparée des communautés de maîtres et apprentis de Houli. En 1930, Xie Jing-zhong et ses frères ont fondé « Wan-Wu Co. » à Kaohsiung (Qishan), vendant des instruments, des fournitures scolaires et des livres. En 1945, la société a été renommée Kung-Hsueh.[^16] L'origine officielle interprète « Kung » comme contribution, « Hsue » comme école et « She » comme société.[^16] Le point de départ de la fabrication d'instruments à vent se situe entre 1956 et 1957 à Luzhou : harmonicas Swallow et trompettes/cornes.[^17] En 1980, la marque Jupiter a été lancée. En 1985, une société de vente aux États-Unis a été établie. En 1987, la production a déménagé à Guoying (Chungli).[^18] La marque de percussions Mapex a été lancée en 1989 ; l'histoire officielle précise le passage du statut de sous-traitant pour d'autres marques vers une marque propre.[^19]
 
-La gamme de Jupiter couvre l'ensemble des instruments à vent — saxophones, trompettes, trombones, flûtes traversières, clarinettes — et se distingue par une gamme complète allant du « niveau étudiant au niveau professionnel ». Sur le marché de l'éducation musicale en orchestres scolaires aux États-Unis, la marque Jupiter bénéficie d'un taux de pénétration élevé et est l'un des principaux fournisseurs mondiaux d'instruments à vent.
+La ligne de production de Jupiter, allant de Luzhou à Guoying, n'a aucun lien géographique avec Houli. Ces deux régions représentent deux logiques industrielles sur l'île : Houli est un regroupement horizontal de petites manufactures artisanales et d'OEM ; Guoying est une marque orientée vers l'éducation avec une intégration verticale. _Yuan-Jien_ a écrit en 2005 que l'usine de Guoying couvrait environ 100 000 mètres carrés, où six cents employés assemblaient des saxophones et trompettes portant le logo Jupiter pour le monde entier.[^15] Le récit de la marque en chinois mentionne une superficie d'environ 70 000 mètres carrés ; les deux peuvent être cités côte à côte.[^20] Le récit de l'entreprise indique qu'en 2005, les exportations dépassaient 120 000 unités par an, avec un réseau de vente dans 46 pays. La mention « parmi les trois plus grandes marques d'instruments à vent au monde » provient du compte rendu de l'entreprise et des médias, sans tableau de parts de marché tiers pour confirmation.[^21]
 
-À partir des années 2010, le groupe KHS, maison mère de Jupiter, introduisit des équipements d'usinage à commande numérique (CNC) de précision à Taichung, améliorant encore la précision de fabrication des clés et des trous sonores des instruments à vent, consolidant ainsi sa position concurrentielle sur le marché milieu/haut de gamme.
+Le marché des fanfares scolaires américaines est le lieu où Jupiter s'est véritablement infiltré dans le quotidien. Depuis 1985, les canaux de distribution américains se sont concentrés sur les instruments de fanfare. Les arguments liés à l'éducation et à la vente au détail placent souvent Jupiter aux côtés de Yamaha (gamme étudiant) et Conn-Selmer comme une « marque fiable pour étudiants », durable, facile à réparer et intégrée dans l'écosystème de location.[^22] Ce texte ne contient pas de données précises sur le « rang X des parts de marché » ou la mention que « la moitié des élèves américains jouent sur un Jupiter ». Ce que l'on peut affirmer, ce sont les canaux et le positionnement. Le consensus entre musiciens et détaillistes est le suivant : le champ de bataille principal de Jupiter est le marché étudiant/scolaire, tandis que Selmer Paris se situe dans une catégorie différente de produits phares professionnels. Les gammes pour étudiants sont souvent comparées à Yamaha ou Conn-Selmer, mais ne devraient pas être comparées directement au Mark VI de Paris.[^23]
 
-**KHS (Kung Hsue She)**
-Bien que son siège soit à Taipei, KHS dispose de sa principale base de production à Houli. KHS ne se limite pas à la fabrication de saxophones, mais couvre également divers instruments à vent et à cordes.
+Du côté taïwanais, Kung-Hsueh combine vente en réseau, centres musicaux et matériel pédagogique, coexistant avec une marque de fabrication. Au début des années 1980, l'essor des fanfares scolaires a rencontré l'internationalisation de la marque Jupiter. Concernant la création du groupe Jianzhong Yueqi, il existe un désaccord entre 1981 et 1983 dans les récits officiels et Wikipédia ; le texte ne tranchera pas sur une date unique. Lors des cérémonies du drapeau ou des fêtes scolaires, lorsqu'un élève de collège reçoit son premier saxophone alto : beaucoup jouent sur un Jupiter ou un descendant de Swallow, sans que personne ne mentionne à ce moment-là « c'est fabriqué à Taïwan ». L'origine est invisible, le son ne l'est pas.
 
-Outre la marque Jupiter, le groupe KHS détient également les batteries Mapex, les guitares haut de gamme Merida, ainsi que plusieurs marques sous licence, formant une matrice complète de marques d'instruments et constituant l'un des plus grands groupes d'instruments de musique à capitaux taïwanais au monde.
+Certains diront : de toute façon, la marque appartient à quelqu'un d'autre, ou la marque n'est pas assez célèbre. La position elle-même constitue une histoire. Le marché éducatif prend des métaux et des bois de précision assemblés pour les livrer au moment précis où ils résonnent lors du salut au drapeau quotidien. Les directeurs de fanfares américains choisissent leurs instruments en fonction de leur robustesse, de la facilité de réparation et de la disponibilité des pièces par le distributeur ; c'est ainsi que la mémoire de la chaîne d'approvisionnement s'intègre dans le quotidien. En 2018, Guoying a introduit une nouvelle ligne de placage électrolytique entièrement automatisée,[^18] améliorant les postes spécifiques sans avoir besoin de slogans sur l'Industrie 4.0.
 
-## Le royaume de la sous-traitance de guitares à Taïwan (1960-2000)
+Mapex, quant à elle, a porté cette autre dimension invisible sur le grand écran : son histoire officielle mentionne qu'en 2008, la série Mars IU est apparue dans le film _71: The Movie_.[^19] La culture populaire a parfois mis en avant les batteries fabriquées à Taïwan devant le public. La plupart des spectateurs ne liront pas « Kung-Hsueh » au générique de fin.
 
-Contrairement au modèle de Houli pour les saxophones, l'industrie de la fabrication de guitares à Taïwan était répartie entre Taoyuan, Tainan et d'autres localités, se concentrant principalement sur la sous-traitance pour des marques européennes et américaines. À son apogée, la production annuelle dépassait 2 millions d'unités.
+Une fois ces marques quotidiennes évoquées, il reste une autre dimension de mémoire physique : celle de la zone de Nanzi à Kaohsiung.
 
-### Origines et développement de l'industrie
+## Les quatre millions de Nanzi et l'année de fermeture de l'usine
 
-L'industrie de la fabrication de guitares à Taïwan remonte aux années 1960, antérieure à celle des saxophones. Elle débuta lorsque des techniciens japonais vinrent à Taïwan transmettre leur savoir-faire, et que les fabricants taïwanais prirent en charge les commandes de sous-traitance de marques japonaises.
+Deuxième couche d'invisibilité : le volume de pointe et la fermeture de l'usine simultanément.
 
-Dans les années 1970, avec l'essor de la musique pop occidentale, la demande en guitares explosa. Grâce à ses coûts compétitifs et à sa bonne qualité, Taïwan conquit rapidement des parts de marché. Dans les années 1980, Taïwan était devenu un grand pays exportateur de guitares, avec une production annuelle dépassant 2 millions d'unités.
+En 1971, Yamaha a établi une usine de guitares dans la zone de transformation de Nanzi à Kaohsiung. Les archives indiquent que les travaux ont commencé le 12 avril de l'année 60 (1971).[^25] Un article de 2011 rappelle que l'usine de Kaohsiung employait jusqu'à 1 300 personnes et exportait vers plus de soixante pays, avant d'arrêter la production en janvier de l'année 96 (2007), après plus de 37 ans de présence à Kaohsiung.[^26] Le résumé du Musée d'histoire de la ville de Kaohsiung précise : jusqu'en janvier 2007, plus de 4 millions de guitares ont été produites au total, avec plus de 1 300 employés.[^27]
 
-### Principales bases de fabrication
+Le chiffre « quatre millions » doit être précisé selon le contexte. Le journal _China Times_ mentionne une « capacité annuelle dépassant quatre millions » ou « environ quatre millions fabriqués chaque année ».[^26] Un historien a écrit que plus de quatre millions ont été produits au total.[^27] En 2013, _Guanghua_ mentionnait que la région de Kaohsiung produisait annuellement 4 millions d'unités durant sa période de pointe, incluant Yamaha et Aria, ce qui est une mesure pour la production régionale.[^28] Ce texte ne choisira pas un seul chiffre héroïque : les médias et les archives locales font apparaître le nombre quatre millions à plusieurs reprises, certains désignant la capacité annuelle de Kaohsiung, d'autres le cumul des usines Yamaha.
 
-**Taoyuan**
-Taoyuan était le cœur de l'industrie de la fabrication de guitares à Taïwan, concentrant plusieurs grandes usines. Ces usines produisaient principalement en sous-traitance pour des marques européennes et américaines, et des marques renommées comme Fender et Gibson fabriquèrent des guitares à Taïwan.
+Anciens textes mentionnant « 2 millions de guitares par an » pour toute la nation ne sont pas sourcés indépendamment et ont été supprimés.[^12] _Culture Taïwan_ mentionnait que « 70 % des guitares de Taïwan étaient produites à Kaohsiung », ce qui concernait la part interne, sans rapport avec le volume mondial.[^1] Le nombre d'unités, la valeur des exportations, la part de Taïwan sur le monde et la part de Kaohsiung sur Taïwan sont quatre mesures différentes.
 
-**Tainan**
-La région de Tainan se spécialisait dans la fabrication de guitares folk et classiques, avec une technologie raffinée et une excellente qualité, principalement destinées au marché asiatique.
+Présenter ces chiffres côte à côte permet de préserver la réalité du cuivre : ce qui existe réellement, c'est la communauté, les maîtres et apprentis, et la mémoire physique des périodes d'exportation intense. Les phrases héroïques comme « part de marché mondiale précise » ne résistent pas à la vérification. En 2005, lors de la visite du président américain George W. Bush à Taïwan, Chen Shui-bian a offert un saxophone lors d'un dîner. _Guanghua_ précisait qu'il était « fabriqué à Houli », et le catalogue numérique est étiqueté LC.[^13] C'était la célébration d'une industrie locale devenue un cadeau de niveau présidentiel ; cela peut être mentionné sans être réduit à une question de souveraineté.
 
-### Spécificités techniques et avantages
+Le nombre d'usines a également diminué avec le temps. Environ 30 au sommet. Après 2005-2006, il en restait environ 12 à 15 à Houli. En 2018, un dossier spécial mentionnait 13 usines. TaiwanPlus, en 2026, indique qu'il ne reste plus que 4 usines de saxophones, une donnée récente et frappante, bien que la méthodologie (comptant-elle uniquement l'assemblage complet ?) ne soit pas publique.[^14] Il est acceptable d'écrire « passant de près trente à un chiffre aujourd'hui », en laissant coexister les chiffres 15/13/4.
 
-**Technologie du traitement du bois**
-Les fabricants taïwanais de guitares développèrent des techniques avancées de séchage et de traitement du bois, garantissant la stabilité de la qualité sonore et la durabilité des instruments. En particulier, les techniques de traitement antihumidité dans les environnements climatiques tropicaux étaient parmi les meilleures au monde.
+Wang Tsai-jui a dit une phrase plus solide dans _Guanghua_ : « Pour tout dire, si nous n'étions pas de la même famille, nous étions maîtres et apprentis, ou frères d'armes. Mais avec les intermédiaires qui sillonnaient le monde et la concurrence sur les prix bas, nous sommes devenus des concurrents les uns pour les autres. »[^2] Tsai Hsiang-wen du ITR a souligné une faiblesse structurelle : l'absence de marques propres, le manque de processus de production standardisés et spécifiés, maintenant l'industrie dans la position de sous-traitant pour les marques internationales sur le long terme.[^18] _Yuan-Jien_ a également noté en 2005 que parmi les instruments à vent du même niveau, Jupiter avait souvent un avantage de prix par rapport à Yamaha, mais les clients finissaient par choisir Yamaha : « la clé réside dans la capacité de la marque à raconter une histoire. »[^15]
 
-**Capacité d'usinage de précision**
-La capacité d'usinage de précision de l'industrie manufacturière taïwanaise trouva dans la guitare un terrain d'expression privilégié. Du façonnage du manche à l'incrustation de la touche, chaque étape atteignait des exigences de précision extrêmement élevées.
+Une fois ces chiffres déconstruits, la question suivante devient claire : comment cette présence invisible s'est-elle intégrée au quotidien ?
 
-**Production flexible**
-Capacité de répondre rapidement aux évolutions de la demande du marché, de la production en série de guitares d'entrée de gamme à la fabrication en petites séries de guitares artisanales haut de gamme.
+![Schéma des instruments de la famille des saxophones](/article-images/music/guitar-workshop-craft-mim-2010s.webp)
+_Schéma des instruments de la famille des saxophones (MIM Phoenix). Photo : via Wikimedia Commons, CC BY-SA 2.0. Ne représente pas une usine spécifique de Nanzi._
 
-### Fabricants représentatifs
+![Centre de musique de Kaohsiung et festival des lanternes](/article-images/music/kaohsiung-music-center-2022.webp)
+_Centre de musique de Kaohsiung et pont de Hugu (pendant le Festival des Lanternes de Taïwan en 2022). Photo : Wikimedia Commons, CC BY-SA. Repère géographique, non lié aux ateliers de Nanzi._
 
-**Quanfeng Musical Instruments**
-Fondée en 1965, c'est l'une des premières usines de fabrication de guitares de Taïwan. Elle a produit en sous-traitance pour plusieurs marques internationales, exportant ses produits dans le monde entier.
+## Les mécanismes de Wufeng derrière les paysages d'Otaru
 
-**American Musical Instruments**
-Malgré son nom, il s'agit en réalité d'une entreprise taïwanaise, spécialisée dans la fabrication de guitares folk et électriques de haute qualité, atteignant un niveau technique de classe internationale.
+Troisième couche d'invisibilité : le son des cadeaux quotidiens.
 
-**Music King Musical Instruments**
-En plus de ses activités de sous-traitance, l'entreprise a développé sa propre marque, jouissant d'une certaine notoriété sur le marché asiatique.
+Dans le musée des boîtes à musique d'Otaru au Japon et dans les boutiques locales, de nombreux mécanismes tournent ; ils passent par le système Sankyo au Japon et sont produits par Xinyang à Wufeng, Taichung. Les informations provenant du tourisme de Taichung, de la certification de l'économie créative, des entretiens avec les détaillants et de la FAQ en anglais de Sankyo concordent sur ce point.[^35] La FAQ originale indique : « La société Sankyo est au Japon, mais beaucoup de mécanismes sont fabriqués par des partenaires spécialisés à Taïwan. »[^36] Quand on admire le paysage d'Otaru et qu'on écoute les tintements, l'étiquette porte souvent une marque japonaise. Pourtant, ces pièces métalliques précises peuvent avoir été achevées à Wufeng.
 
-### Déclin et transformation de l'industrie
+Xinyang Industry a été fondée en 1979 (année 68). L'ancienne mention de 1971 était erronée. Lors d'un entretien avec Huang Long-xi : la société a été établie en avril et a commencé à fonctionner en août. La joint-venture entre Sankyo Seiki au Japon et Xinyang à Taïwan a pris le nom « Xinyang » en prenant un caractère de chaque côté.[^37] En raison des restrictions sur les parts étrangères, la partie japonaise a réduit sa part à environ 14,9 %. Sankyo Seiki a été fondée en 1946 et a commencé à produire des boîtes à musique en série vers 1948 ; elle existe depuis environ quatre-vingts ans. L'ancienne mention de « plus d'un siècle » n'est pas exacte.[^38]
 
-Après 2000, avec l'essor de l'industrie manufacturière en Chine continentale, l'industrie de la fabrication de guitares à Taïwan fit face à de sérieux défis. La concurrence par les coûts poussa de nombreuses usines à fermer ou à se délocaliser à l'étranger.
+Les chiffres records doivent également être précisés selon le contexte. Huang Long-xi a déclaré dans un reportage sur la marque : Taïwan avait besoin d'environ 30 millions d'unités par an, ce qui représentait environ un tiers des besoins mondiaux.[^39] Muro Box a rapporté que lors du pic, les besoins mondiaux étaient d'environ 90 millions d'unités et Taïwan en exportait environ 30 millions.[^40] Il s'agissait de la capacité requise par la base d'assemblage. « La production d'une seule usine Xinyang atteignait 30 millions » n'est pas une source vérifiée. À son apogée, Taïwan importait également une grande quantité de mécanismes pour les assembler et les exporter ; Xinyang n'a ouvert sa propre usine qu'en 1979. Les affirmations telles que « 40 % produit à Taïwan » varient légèrement par rapport au tiers, il convient donc d'indiquer la source du fabricant.[^40]
 
-Actuellement, l'industrie de la guitare à Taïwan se tourne principalement vers le marché haut de gamme :
+Les détails de qualité sont plus tangibles : Huang Long-xi a précisé que les spécifications de bruit de Sankyo étaient inférieures à 60 décibels, et Xinyang est descendu sous les 45 décibels avant expédition. Les marges d'erreur sur la vitesse de rotation ont également été réduites au-delà des exigences du client.[^40] Lors du boom des cartes musicales électroniques et des jouets, l'entreprise comptait jusqu'à cinq cents employés. En janvier 2002, une usine a été établie à Dongguan, et la restructuration de la chaîne d'approvisionnement ainsi que les structures tarifaires ont déplacé la production vers la Chine continentale ; la structure est plus complexe qu'une simple histoire de « méchant unique ».[^37]
 
-- **Guitares artisanales sur mesure** : produits personnalisés en petites quantités à prix élevés
-- **Gestion de marques** : transition de la sous-traitance vers des marques propres
-- **Services techniques** : offre de services de développement de conception et de contrôle qualité
+Pourquoi les boîtes à musique se sont-elles retirées des projecteurs ? L'équipe de Muro Box explique clairement l'économie technique : le coût pour produire un cylindre personnalisé d'un morceau classique était d'environ 25 000 dollars NT, sans inclure les droits d'auteur, pour une durée de seulement 15 secondes. Le catalogue ne pouvait pas suivre la diversification des goûts populaires, et les risques liés au droit d'auteur empêchaient les distributeurs de développer de nouvelles chansons.[^40] La contraction de la demande, le coût du moulage et la géographie de la chaîne d'approvisionnement ont verrouillé le secteur. Le pic est passé, mais la mémoire des métaux précis demeure.
 
-## La précision artisanale de la fabrication de boîtes à musique (1970 – aujourd'hui)
+En 2019, pour son quarantième anniversaire, le Musée taïwanais de la boîte à musique a ouvert au n° 40 de la rue Feng-zheng dans le district de Wufeng, Taichung.[^41] L'ancienne mention du « Musée de la boîte à musique du lac Sun Moon » était une erreur géographique et a été supprimée.
 
-### La réussite de Xieying Industrial
+Deux lignes visibles assurent le relais actuel. Les boîtes à musique en bois de Wooderful life (Zhiyin) utilisent des mécanismes issus de la chaîne d'approvisionnement Sankyo/Xinyang, visibles dans les boutiques Eslite et aux aéroports.[^42] Muro Box utilise des boîtes à musique mécaniques intelligentes programmées via une application, collaborant avec Xinyang pour les peignes et les mécanismes. En 2018, le projet a récolté environ 2 millions de dollars sur la plateforme Zouzou. Bien que l'industrie n'ait pas « renaissé en un âge d'or d'exportation comme dans les années 70 », les tintements proviennent toujours de Wufeng.
 
-Le représentant de l'industrie taïwanaise de la fabrication de boîtes à musique est **Xieying Industrial**. Son partenariat avec **Sankyo Seiko** du Japon a fait de Taïwan l'une des bases de production mondiales de boîtes à musique.
+Après le déclin du boom, qui continue encore ?
 
-Xieying Industrial fut fondée en 1971 en tant que joint-venture de Sankyo à Taïwan. Sankyo est un fabricant renommé de mécanismes de boîtes à musique, fort d'une histoire de fabrication de plus d'un siècle et d'un savoir-faire artisanal de précision.
+![Schéma d'une boîte à musique à cylindre](/article-images/music/cylinder-music-box-craft-object.webp)
+_Schéma d'une boîte à musique à cylindre. Photo : Auckland Museum via Wikimedia Commons, CC BY-SA 4.0. Ne représente pas un produit spécifique de Xinyang._
 
-### La précision artisanale des mécanismes de boîtes à musique
+Houli : Le centre commémoratif de saxophone de Chang Lien-chang et l'usine touristique sur la route Gong-an permettent d'essayer des instruments et de réaliser des travaux en métal. TaiwanPlus (2026) indique que lors du pic, il y avait environ 30 usines ; aujourd'hui, il n'en reste qu'environ 4, se tournant vers le travail artisanal haut de gamme.[^14] Lin Mei-yun a envisagé d'ouvrir une boutique pour subvenir aux besoins familiaux afin que son mari puisse se concentrer sur les instruments haut de gamme — cette stratégie familiale lors de la transition est plus concrète qu'un slogan.[^14] En 2006, le premier festival des instruments de Taichung s'est tenu à Houli, attirant plus de 60 000 personnes en quatre jours.[^11] Le festival artistique du saxophone de Houli et le festival des instruments de Taichung sont toujours organisés périodiquement. Il est impossible de donner un pourcentage exact entre « usines réelles » et « façades touristiques », mais il est possible d'affirmer honnêtement que les usines à un chiffre continuent de marteler le cuivre, tandis que le tourisme et les festivals transforment ces souvenirs en points d'entrée accessibles. Les deux coexistent, bien que la capacité de pointe ne puisse être retrouvée.
 
-Le mécanisme d'une boîte à musique est un dispositif mécanique d'une extrême précision, exigeant une exactitude de fabrication remarquable :
+Guoying (Chungli) : Jupiter et Mapex restent des marques taïwanaises sur le marché éducatif et haut de gamme ; pour les modèles d'entrée de gamme 500, beaucoup sont fabriqués en Chine continentale, tandis que les modèles moyens à supérieurs sont souvent assemblés ou fabriqués à Taïwan. Les pays d'origine ont été segmentés, ne pas écrire « tout le matériel Jupiter est fabriqué à Taïwan ».[^44] Pour identifier un instrument étudiant : regardez la série et les spécifications du distributeur ; pour les instruments de location scolaire, le nom Jupiter est courant, mais cela ne signifie pas que chaque unité a été soudée à Guoying.
 
-**Fabrication des dents du peigne**
-Les dents du peigne d'une boîte à musique déterminent le timbre et l'accord. La longueur et l'épaisseur de chaque dent doivent être contrôlées au micron près. Les artisans taïwanais accumulèrent une expertise reconnue dans ce domaine, obtenant l'approbation de leurs partenaires japonais.
+Wufeng : Le musée de la boîte à musique permet d'observer les peignes et les mécanismes ; c'est une manière de transformer la mémoire de la chaîne d'approvisionnement en sons sur ses propres doigts via le DIY. Muro Box et Wooderful life ramènent ces mécanismes dans des produits cadeaux quotidiens et technologiques.
 
-**Usinage du cylindre**
-La position des picots sur le cylindre détermine la mélodie jouée, nécessitant des équipements et des techniques d'usinage d'une extrême précision. Xieying Industrial importa des équipements japonais de pointe tout en formant du personnel technique local.
+Taichung compte également Guo Chang-di : en 1988, Geoffrey F. Guo a fondé Guo Flute, renommé GMIC en 1989 sur la route de Liming ; passant du flageolet artisanal à Grenaditte, New Voice et Tocco (mention honorable Red Dot 2014), il a suivi une voie de marque propre avec des innovations matérielles et de design.[^45] En dehors de Houli, Taiping possède P. Mauriat pour les instruments à vent haut de gamme ; Pearl, une entreprise japonaise, produit des percussions dans la zone de Tanzi depuis 1973. Trois logiques industrielles coexistent sur l'île.[^46]
 
-**Assemblage et accordage**
-Chaque boîte à musique nécessite un assemblage et un accordage manuels, tâches réservées à des artisans expérimentés. Le savoir-faire artisanal des artisans taïwanais reçut une reconnaissance élevée de la part des clients internationaux.
+Les points d'entrée pour agir peuvent être courts :
 
-### Applications des produits et marchés
+- **En écoutant les cuivres des fanfares** : Jupiter et Kung-Hsueh sont des marques taïwanaises pour le milieu éducatif ; la provenance dépend de la série, toutes ne sont pas "Made in Taiwan".
+- **En visitant Houli** : Le centre commémoratif de Chang Lien-chang et l'usine touristique (route Gong-an à Houli) ; la sculpture en bronze du saxophone est un point de repère local.
+- **En visitant Wufeng** : Le musée taïwanais de la boîte à musique (n° 40, rue Feng-zheng) ; l'histoire des mécanismes d'Otaru y est cohérente avec les produits dérivés.
+- **Pour trouver l'histoire des guitares** : La ligne de Nanzi est fermée ; les marques taïwanaises actuelles comme Ayers sont principalement fabriquées à l'étranger, bien qu'il reste des luthiers indépendants et de petites usines en Taïwan.
 
-Les mécanismes de boîtes à musique fabriqués à Taïwan sont largement utilisés dans les boîtes à musique-cadeaux et les coffrets à bijoux haut de gamme, qui représentent la majeure partie des exportations. Viennent ensuite les jouets musicaux pour enfants et les accessoires musicaux pour horloges anciennes.
+Le cuivre et le bois sont toujours entre des mains humaines, et on peut encore les entendre. Concentrons-nous sur un scénario.
 
-Les principaux marchés d'exportation incluent l'Europe, les États-Unis et le Japon, des marchés haut de gamme où les produits sont réputés pour leur excellente qualité.
+## Conclusion : Le "Made in Taiwan" dans le son
 
-### Musée de la boîte à musique du lac Sun Moon
+Imaginez une après-midi de week-end dans la zone industrielle de Wufeng. Un enfant pose un mécanisme de boîte à musique sur sa base, le fait tourner d'un geste du doigt, et le premier tintement résonne ; le peigne est en métal, le paysage peut être Otaru, mais les mains sont celles d'ici. Ou bien, dans la salle de Houli, à côté du récit de récupération, une table de travail DIY moderne : des morceaux de cuivre transformés en bagues, et à côté, un vieil instrument exposé. Le jour du drapeau, le premier son d'un Jupiter sort de la fanfare ; personne n'annonce la provenance, mais le son traverse tout simplement la cour de l'école.
 
-Situé au lac Sun Moon dans le comté de Nantou, le musée de la boîtes à musique présente l'évolution historique et les techniques de fabrication des boîtes à musique. Ce musée n'est pas seulement un site touristique, mais aussi une vitrine importante de l'industrie taïwanaise de la boîte à musique.
+Dans les sons du monde, combien de métaux et de bois ont transité par les mains des Taïwanais ? La réponse réside dans un morceau de cuivre soudé près d'un incendie, une série de volumes à mentionner côte à côte, une couche de provenance non mentionnée dans les fanfares, une usine de guitares dont l'histoire est gravée dans la mémoire locale de Kaohsiung après sa fermeture, et les mécanismes de Wufeng qui tournent encore derrière le paysage d'Otaru. Tout cela est plus solide que n'importe quel pourcentage héroïque. La capacité de pointe est passée ; mais la mémoire d'une chaîne d'approvisionnement sonore peut encore être visitée, jouée et faire tourner ses mécanismes.
 
-Le musée abrite une collection de boîtes à musique du monde entier, des boîtes à musique anciennes du XVIIIe siècle aux boîtes à musique électroniques modernes, offrant un panorama complet de l'évolution de la boîte à musique.
+La prochaine fois que vous entendrez un saxophone, les cuivres d'une fanfare, une boîte à musique qui s'anime, ou que vous prendrez un instrument pour débutant, ayez cette pensée supplémentaire : un composant ou l'intégralité de cet instrument a peut-être séjouré entre les mains des artisans de Houli, Wufeng, Nanzi ou Guoying. Ce que Taïwan fabrique, ce sont aussi des choses qui résonnent.
 
-## Autres domaines de fabrication d'instruments
+✦
 
-### Fabrication d'instruments à vent
+---
 
-Outre les saxophones, Taïwan fabrique d'autres instruments à vent :
+## Lectures complémentaires
 
-**Trompettes et trombones**
-La région de Houli compte également des usines produisant des trompettes, trombones et autres instruments à vent en cuivre, dont les techniques découlent de celles de la fabrication de saxophones.
+- [Les PME taïwanaises et les champions cachés](/fr/economy/taiwan-smes-and-hidden-champions) — La double voie entre les communautés de maîtres et apprentis du secteur des instruments et les marques éducatives constitue une autre colonne vertébrale audible du récit des champions cachés.
+- [Ville de Taichung](/fr/geography/taichung-city) — Saxophones de Houli, boîtes à musique de Wufeng, production de percussions à Tanzi : différentes logiques industrielles au sein d'une même ville.
+- [Ville de Kaohsiung](/fr/geography/kaohsiung-city) — Coordonnées géographiques du royaume de la guitare dans la zone de Nanzi et souvenirs de sa fermeture.
+- [Musique classique taïwanaise](/fr/music/taiwanese-traditional-chinese-orchestra-music) — Le déclin des usines d'instruments traditionnels et une autre ligne de production après l'ouverture des relations avec le continent (mentionné brièvement ici).
+- [L'industrie musicale taïwanaise et l'ère du streaming](/fr/music/taiwan-music-industry-and-the-streaming-era) — Comparaison des structures industrielles entre la production et les secteurs du contenu et des droits d'auteur.
 
-**Instruments à vent en bois**
-La fabrication de clarinettes, hautbois et autres instruments à vent en bois, bien que de moindre envergure, atteint également un niveau technique professionnel.
+## Sources des images
 
-**Fabrication de flûtes traversières**
-L'industrie taïwanaise de la flûte traversière a débuté dans les années 1980, avec des bases de production principales à Houli et dans la ville de New Taipei. La gamme de flûtes traversières de Jupiter détient une part de marché solide dans le segment étudiant, avec des volumes d'exportation considérables, constituant le deuxième produit d'exportation d'instruments à vent de Taïwan après le saxophone.
-
-### Fabrication d'instruments traditionnels
-
-Des usines taïwanaises fabriquent spécifiquement des instruments traditionnels chinois comme l'erhu et le guzheng, principalement destinés aux communautés chinoises d'outre-mer et aux établissements d'enseignement musical. Des ateliers produisent également des instruments traditionnels autochtones, tels que l'harmonica à bouche (口簧琴) et la flûte de Pan (排笛), alliant artisanat traditionnel et matériaux modernes. Bien que ces niches ne représentent pas le gros des exportations taïwanaises, elles constituent un maillon essentiel de la transmission culturelle.
-
-### Assemblage d'instruments électroniques
-
-La base industrielle électronique de Taïwan a rendu possible l'assemblage d'instruments électroniques. Certains fabricants prennent en charge l'assemblage de claviers et de synthétiseurs pour des marques internationales. Les effets de guitare et autres équipements audio font également partie du portefeuille des fabricants taïwanais, combinant expertise en électronique et en équipements musicaux.
-
-## Défis et transformation de l'industrie
-
-Depuis les années 2000, l'industrie taïwanaise de la fabrication d'instruments fait face à la concurrence des bas coûts en Chine continentale et au Vietnam, tout en cherchant des débouchés à forte valeur ajoutée. Cette période de transition n'est pas sans heurts, mais elle pousse l'industrie à se moderniser.
-
-### La pression de la concurrence par les coûts
-
-Avec le développement de l'industrie manufacturière en Chine continentale, au Vietnam et ailleurs, l'industrie taïwanaise de la fabrication d'instruments fait face à une concurrence sévère sur les coûts. De nombreuses usines ont été contraintes de fermer ou de se délocaliser vers des régions à moindres coûts.
-
-### La nécessité de la modernisation technique
-
-Pour maintenir sa compétitivité, l'industrie instrumentale taïwanaise doit évoluer vers une forte valeur ajoutée :
-
-**Stratégie de haut de gamme**
-Passer de la production de masse à la fabrication de produits haut de gamme, en mettant l'accent sur la qualité et le niveau artisanal.
-
-**Services de personnalisation**
-Offrir des services de fabrication d'instruments personnalisés, répondant aux besoins spécifiques des musiciens professionnels.
-
-**Innovation dans le design**
-Combiner artisanat traditionnel et design moderne pour développer des produits d'instruments aux caractéristiques taïwanaises.
-
-### Création de marques et marketing
-
-La transition de la sous-traitance aux marques propres est un enjeu majeur pour l'industrie instrumentale taïwanaise :
-
-**Positionnement de marque**
-Établir une image de haute qualité « Fabriqué à Taïwan » et renforcer la notoriété de la marque sur le marché international.
-
-**Développement des canaux de distribution**
-Mettre en place un réseau de vente mondial pour atteindre directement les consommateurs finaux.
-
-**Marketing numérique**
-Utiliser les plateformes en ligne pour la promotion marketing, en particulier les réseaux sociaux pour mettre en valeur le savoir-faire artisanal.
-
-## Valeur culturelle et transmission
-
-L'héritage de l'industrie taïwanaise de la fabrication d'instruments ne se limite pas aux chiffres d'exportation : il comprend également une culture artisanale et une mémoire industrielle. De la transmission maître-apprenti au tourisme industriel, cette industrie a laissé une empreinte unique dans le paysage culturel taïwanais.
-
-### Transmission du savoir-faire artisanal
-
-L'industrie taïwanaise de la fabrication d'instruments a formé un grand nombre d'artisans hautement qualifiés, dont les compétences doivent être transmises par le système maître-apprenti. De nombreuses usines disposent de leurs propres programmes de formation de maîtres artisans pour garantir que les techniques ne se perdent pas.
-
-### Construction d'une culture industrielle
-
-La fabrication d'instruments fait également partie de l'industrie culturelle. Fournir des instruments de qualité et abordables aux écoles et aux établissements d'enseignement musical constitue une contribution directe de l'industrie instrumentale taïwanaise à la démocratisation de l'éducation musicale ; la demande du marché générée par la fabrication elle-même a également indirectement favorisé le développement d'un public plus large d'amateurs de musique.
-
-### Développement de la valeur touristique
-
-Combiner la fabrication d'instruments avec le tourisme pour développer le tourisme industriel :
-
-**Visites d'usines**
-Ouvrir les usines aux visiteurs pour leur faire découvrir le processus de fabrication des instruments.
-
-**Expériences DIY**
-Proposer des ateliers de fabrication d'instruments simplifiés, permettant aux visiteurs de créer eux-mêmes un souvenir.
-
-**Festivals musicaux**
-Organiser des festivals de musique en lien avec la fabrication d'instruments pour promouvoir l'industrie instrumentale taïwanaise.
-
-## Tendances de développement futur
-
-L'introduction des technologies de l'industrie 4.0, l'utilisation de matériaux écologiques et l'approfondissement de la coopération internationale constituent les trois pistes actuellement explorées par l'industrie instrumentale taïwanaise.
-
-### Application de la fabrication intelligente
-
-Introduire les technologies de l'industrie 4.0 pour améliorer l'efficacité de la fabrication et le contrôle qualité :
-
-**Équipements automatisés**
-Introduire des équipements automatisés dans les processus appropriés pour réduire les coûts de main-d'œuvre.
-
-**Contrôle qualité**
-Utiliser des équipements de détection avancés pour garantir la qualité des produits et mettre en place un système de traçabilité de la qualité.
-
-### L'importance du développement durable
-
-L'écologie et le développement durable deviennent des considérations essentielles :
-
-**Matériaux écologiques**
-Utiliser du bois et d'autres matériaux certifiés écologiques, en réponse aux tendances environnementales mondiales.
-
-**Procédés verts**
-Améliorer les processus de fabrication pour réduire la pollution environnementale et le gaspillage des ressources.
-
-### Approfondissement de la coopération internationale
-
-Renforcer la coopération avec les marques internationales et les établissements d'enseignement musical :
-
-**Échanges techniques**
-Mener des échanges techniques et des projets de R&D conjoints avec des fabricants étrangers.
-
-**Expansion des marchés**
-Développer les marchés émergents, en particulier les marchés de l'éducation musicale dans d'autres pays asiatiques.
-
-## Conclusion : l'empreinte taïwanaise dans la fabrication musicale
-
-Bien que de taille modeste, l'industrie taïwanaise de la fabrication d'instruments occupe une place importante dans l'industrie musicale mondiale. Des saxophones de Houli aux boîtes à musique de Xieying, les fabricants taïwanais ont, par leur savoir-faire artisanal et leur esprit d'innovation, gagné le respect pour l'industrie manufacturière taïwanaise sur la scène internationale.
-
-La trajectoire de développement de cette industrie reflète le parcours typique de l'industrie manufacturière taïwanaise : commencer par l'imitation et l'apprentissage, développer des compétences techniques, puis finir par cultiver ses propres spécificités et avantages. Bien confrontée à une concurrence internationale féroce, l'industrie instrumentale taïwanaise évolue vers une orientation de haute qualité et de forte valeur ajoutée.
-
-Chaque fois que des musiciens du monde entier jouent sur des instruments fabriqués à Taïwan, l'esprit artisanal né dans les usines de Houli ou de Taoyuan se propage avec les notes. C'est probablement la valeur la plus difficile à quantifier de l'industrie taïwanaise de la fabrication d'instruments de musique.
+- Hero / Corps du saxophone : Wikimedia Commons [A Saxophone](https://commons.wikimedia.org/wiki/File:A_Saxophone.jpg), CC BY-SA 4.0. Schéma, ne représente pas une marque spécifique de Houli.
+- Famille des saxophones : Wikimedia Commons [4 Saxophone Amati](https://commons.wikimedia.org/wiki/File:4_Saxophone_Amati_white_background.jpg), CC BY-SA. Schéma.
+- Atelier de guitare : MIM Phoenix via Wikimedia Commons [Martin Guitar Workshop](https://commons.wikimedia.org/wiki/File:Martin_Guitar_Workshop,_MIM_PHX.jpg), CC BY-SA 2.0. Schéma, ne représente pas l'usine de Nanzi.
+- Centre de musique de Kaohsiung : Wikimedia Commons [Kaohsiung Music Center…](https://commons.wikimedia.org/wiki/File:Kaohsiung_Music_Center_and_Great_Tiger_Bridge_during_2022_Taiwan_Lantern_Festival.jpg), CC BY-SA. Repère géographique.
+- Boîte à musique à cylindre : Auckland Museum via Wikimedia Commons [Music box](https://commons.wikimedia.org/wiki/File:Music_box_%28AM_641293%29.jpg), CC BY_SA 4.0. Schéma, ne représente pas un produit spécifique de Xinyang.
 
 ## Références
 
-[^1]: [Site officiel de Jupiter Music](http://www.jupitermusic.com/) — Historique de la marque Jupiter
+[^1]: [PDF Culture Taïwan « Léger souffle et cent résonances : Houli mène le saxophone »](https://www.culture.taichung.gov.tw/media/826094/%E6%96%87%E5%8C%96%E8%87%BA%E4%B8%AD-no03-%E8%BC%95%E5%90%B9%E7%99%BE%E9%B3%B4-%E5%90%8E%E9%87%8C%E5%BC%95%E9%A0%98%E8%96%A9%E5%85%8B%E6%96%AF%E9%A2%A8.pdf) — Article sur l'histoire locale par la Direction de la culture du gouvernement de Taichung, mentionnant les dates de naissance et de décès de Chang Lien-chang (2e année de Da-jung / 1913-12-10), la première fabrication en 1948, et le fait que 70 % des saxophones étaient produits à Houli. Source d'autorité pour le récit de Houli.
 
-[^2]: [Site officiel du Musée du saxophone Zhang Lianchang](http://www.sax.org.tw/) — Histoire de l'industrie du saxophone à Houli
+[^2]: [Magazine Guanghua « Saxophone de Houli » par Tsai Wen-ting, 2005](https://www.taiwan-panorama.com/Articles/Details?Guid=a2f70c73-42f5-42ba-8496-296ee175ef8f) — Entretien approfondi avec Chang Lai, Wang Tsai-jui, Chang Zong-yao, incluant la phrase d'introduction sur le tiers, les 30 usines / plus de 3 000 unités / 700 millions d'exportations, les punitions des maîtres et apprentis, le témoignage du pont de Xilo, les cinq générations dans une même maison et la concurrence sur les prix bas. Une source de reportage de haute qualité en chinois.
 
-[^3]: [Présentation de l'industrie du saxophone par le bureau de district de Houli](https://www.houli.taichung.gov.tw/) — Données officielles sur l'industrie
+[^3]: [Chang Lien-chang (Wikipédia)](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E9%80%A3%E6%98%8C) — Synthèse des dates de naissance/décès et du récit « perte de l'œil droit lors de la réparation d'instruments pour une fanfare de l'armée de l'air » ; coexiste avec le récit de _Guanghua_ sur le « rebond des bandes de cuivre ». Les deux récits sont présentés côte à côte.
 
-[^4]: [Xieying Industrial Co., Ltd.](http://www.sankyo-taiwan.com.tw/) — Fabrication de boîtes à musique à Taïwan
+[^4]: [Business Times « Chang Zong-yao parle de la première vente en 1948 » 2015](https://www.ctee.com.tw/news/20151111700086-439901) — Témoignage de la troisième génération : en 1948, le premier saxophone MIT a été vendu à un musicien philippin et il a commencé à prendre des apprentis, fournissant une autre ligne chronologique pour « réalisation / première vente ».
 
-[^5]: _Histoire du développement de l'industrie taïwanaise de la fabrication d'instruments de musique_, Institut de recherche technologique industriel (ITRI), 2015 ([itri.org.tw](https://www.itri.org.tw/)) — Rapport de recherche industrielle
+[^5]: [Pont de Xilo (Wikipédia)](https://zh.wikipedia.org/zh-hant/%E8%A5%BF%E8%9E%BA%E5%A4%A7%E6%A9%8B) --- Ouverture officielle le 28-01-1953 (42e année de la République), utilisé pour ancrer le témoignage de Chang Lai dans _Guanghua_ concernant « l'inauguration du pont de Xilo ».
 
-[^6]: _Étude du pôle industriel du saxophone à Houli_, Université des sciences et technologies de Taichung, 2018 ([nutc.edu.tw](http://www.nutc.edu.tw/)) — Rapport de recherche académique
+[^6]: [Récit de marque du centre commémoratif du saxophone de Chang Lien-chang](https://www.sax.org.tw/article.php?lang=tw&tb=1&id=6) --- Auto-récit familial/de marque sur les origines des années 1940, la marque LC en 2000, le centre en 2002 ; les titres tels que « premier d'Asie » sont dégradés à des revendications de marketing.
 
-[^7]: _L'essor et le déclin de l'industrie taïwanaise de la sous-traitance de guitares_, CommonWealth Magazine, 2010 ([cw.com.tw](https://www.cw.com.tw/)) — Article d'analyse industrielle
+[^7]: [Université Fengjia « Le saxophone lie les familles sur quatre générations » par Wang Tsai-jui 2022](https://www.fcu.edu.tw/fcuershare/news/2022_353-2/) --- Entretien récent sur la répartition entre les quatre sœurs, les prix récompensés et le ratio d'exportation, complétant l'aspect de transmission générationnelle.
 
-[^8]: [Musée de la boîte à musique du lac Sun Moon](http://www.musicbox.com.tw/) — Vitrine de l'industrie de la boîte à musique
+[^8]: [NPR, « Saxophones from Taiwan Aiming for the Pros », 2008-02-25](https://www.npr.org/2008/02/25/19234329/saxophones-from-taiwan-aiming-for-the-pros) --- Source en anglais à forte influence : production annuelle d'environ 40 000 unités à Houli, estimation gouvernementale des années 1980 que un sur trois dans le monde provenait de Taïwan, créant une tension nécessaire avec la mesure de plus de 3 000 unités en chinois.
 
-[^9]: [Statistiques de l'industrie de la fabrication d'instruments du ministère des Affaires économiques](https://www.moea.gov.tw/) — Statistiques officielles de l'industrie
+[^9]: [Taipei Times, « Houli makes music for the world », 2005-10-01](https://www.taipeitimes.com/News/biz/archives/2005/10/01/2003274028) --- Citant des opérateurs de Houli : sur les 25 usines à Taïwan, 15 sont à Houli, produisant environ 30 000 unités par an ; rapporte également le projet Saxhome d'ITR et le contexte concurrentiel avec la Chine continentale.
 
-[^10]: _Études de cas d'entreprises championnes cachées taïwanaises_, Académie de l'économie de Chine, 2019 ([cier.edu.tw](http://www.cier.edu.tw/)) — Analyse de la compétitivité manufacturière
+[^10]: [Publication de la Fondation pour le développement des échanges « Houli Saxophone »](https://www.sef.org.tw/article-1-204-13974) --- Contient des extraits sur la production de plus de 10 000 unités dans les années 70, réduite à quelques milliers aujourd'hui.
+
+[^11]: [Yuan-Jien « Saxophone de Houli » 2006](https://www.gvm.com.tw/article/11347) --- Inclut le taux risqué de « soixante-dix pour cent », les souvenirs de la capacité des apprentis, le premier festival des instruments avec plus de 60 000 personnes, et les commandes spéciales de Kung-Hsueh ; les soixante-dix pour cent ne sont pas présentés comme une vérité absolue.
+
+[^12]: La recherche actuelle pour « production annuelle de 100 000 à Houli / 35 % du marché mondial » ou « production annuelle de guitares de toute la nation dépassant 2 millions » n'a donné aucun résultat indépendant (uniquement des articles anciens circulaires) ; voir `reports/research/2026-07/Taiwan_instrument_manufacturing.md` §Barrières contre les hallucinations et §8.A / §8.C résultats négatifs.
+
+[^13]: [Taipei Times George W. Bush visit 2005-03-01](https://www.taipeitimes.com/News/front/archives/2005/03/01/2003225002) — et [Note de présentation LC](https://catalog.digitalarchives.tw/item/00/32/99/86.html) --- Le journal confirme le don d'un saxophone lors du dîner ; la base de données numérique est étiquetée LC/Houli, croisant l'événement d'État de 2005
+
+[^14]: [TaiwanPlus, « Houli: Taiwan’s Home of the Saxophone… », 2026](https://www.taiwanplus.com/news/taiwan-news/taiwan-culture/260622025/houli-taiwans-home-of-the-saxophone-still-embraces-high-end-craft) --- Médias internationaux : pic à environ 30 usines, aujourd'hui réduit à environ 4, tournant vers l'artisanat haut de gamme ; la méthodologie du nombre n'est pas publique, les chiffres de 2005-18 sont lus en parallèle.
+
+[^15]: [Yuan-Jien « Kung-Hsueh Xie Wu-hong » 2005](https://www.gvm.com.tw/article/10587) --- Site de Guoying avec 600 employés, échec du nom Swallow, perte de la guerre des prix au profit de l'histoire, erreurs sur les pistons ; profondeur de la marque, point clé pour le récit de Jupiter.
+
+[^16]: [Présentation de la société Centre musical Kung-Hsueh](https://www.khsmusic.com.tw/aboutCompany) --- Officiel : 1930 Wan-Yua, 1945 Kung-Hsueh, significations des caractères « Kung/Hsue/She », départ avec les fournitures scolaires.
+
+[^17]: [Histoire de la marque Jupiter (en chinois)](https://jupitermusic.com.cn/brand-story/) --- Swallow 1956-57, trompette/saxophone 1977, déménagement à Guoying et calendrier d'expansion des lignes de produits.
+
+[^18]: [Jupiter International Heritage](https://jupitermusic.com/international/heritage) --- Officiel en anglais : marque en 1980, production déplacée à Chungli, automatisation du placage en 2018.
+
+[^19]: [Mapex Official History](https://www.mapexdrums.com/history) --- Sortie de la marque propre en 1989, Orion/Mars, Mapex USA, Mars IU dans 71: The Movie.
+
+[^20]: [Chronologie du groupe Kung-Hsueh](https://www.khsmusic.com.tw/aboutGroup) --- Déménagement à Guoying, société aux États-Unis, ISO ; chronologie des jalons de l'entreprise.
+
+[^21]: [Kung-Hsueh aboutSelf JUPITER](https://www.khsmusic.com.tw/aboutSelf?name=JUPITER) --- Auto-déclaration : création en 1980, 46 pays, plus de 120 000 unités exportées en 2005 ; positionnement « parmi les trois premières » par l'entreprise et les médias.
+
+[^22]: [HS Music Service instrument brands](https://www.hsmusicservice.com/t-best-instrument-brands.aspx) — Exemple de discours éducatif/vente aux États-Unis :listant Jupiter comme option pour les instruments scolaires ; pas de tableau de parts de marché précis, seulement preuve qualitative des canaux.
+
+[^23]: [Jazzfuel, overview of best saxophone brands](https://jazzfuel.com/best-saxophone-brands/) --- Positionnement pour les musiciens : robuste, facile à entretenir, réputation n'ayant pas encore rattrapé Yamaha dans la même catégorie.
+
+[^24]: [Fanfare de Jiantong (Wikipédia)](https://zh.wikipedia.org/zh-hant/%E5%BB%BA%E4%B8%AD%E6%A8%82%E5%97%97%E9%9A%8A) --- Divergence narrative sur l'année de création et de la marque en 1981 ; le texte ne tranchera pas sur une année unique.
+
+[^25]: [DM Exposition Guitares Hall de la Fête du Travail](https://ppk11654.files.wordpress.com/2011/09/guitar_dmfile_0512.pdf) --- Citation directe de Chen Ji-chun : production de 30 millions d'unités, investissement et effectifs.
+
+[^26]: [China Times « La terre natale des guitares » Lin Xiu-li 2011-05-06](https://www.chinatimes.com/newspapers/20110506000482-260102) --- Nanzi avec 1 300 personnes, production de environ quatre millions, arrêt en janvier 2007, liste des usines délocalisées.
+
+[^27]: [Musée d'histoire de Kaohsiung « Petites histoires de Kaohsiung » Yamaha Guitars](https://crh.khm.gov.tw/khstory/storyDetail.aspx?ID=915) --- Résumé en dialecte : établi en 1971, fermé en 2007.01, plus de 4 millions au total.
+
+[^28]: [Guanghua « Guitares taïwanaises » 2013](https://www.taiwan-panorama.com/zh/Articles/Details?Guid=5eb5b5f4-7d59-4e58-bdb8-438b6de32c4d) --- Production annuelle à Kaohsiung de 4 millions (scope régional), incluant Aria et Guan-xian.
+
+[^29]: Même que [^25] Transcription de Chen Ji-chun : culture de contrôle qualité de Yamaha « une plainte = une plainte mondiale ».
+
+[^30]: [Promotion Yamaha relayée](https://www.alston-family.co.uk/Yamaha/manu.php) --- Récit original en anglais : Kaohsiung comme l'une des usines de guitares de classe mondiale.
+
+[^31]: [Histoire de la série FG 1966-1981 (yamahavintagefg)](https://yamahavintagefg.com/history-of-the-yamaha-fg-1966-1981-us-models/) --- Histoire des étiquettes et numéros pour le passage principal vers Taïwan à la fin de 1971.
+
+[^32]: [PeoPo « Instruments Aria »](https://www.peopo.org/news/548366) --- Aria 1953 / Jiantou 1970 / récit de déménagement vers Zhangjiang.
+
+[^33]: [Farida/Full-tone about](http://www.farida.cn/index.php/about) --- Usine à Huizhou en octobre 1995 ; infirmant l'ancien article « première usine de guitares en Taïwan en 1965 ».
+
+[^34]: [Ayers Guitars About](https://www.ayersguitars.com/about.html) --- Marque taïwanaise, usine au Vietnam depuis 1989/1996, citation du fondateur.
+
+[^35]: [Économie créative Taïwan « Musée de la boîte à musique »](https://keid.nat.gov.tw/creativelife/information/enjoy_ct?id=45) --- Récit certifié : la plupart des mécanismes d'Otaru proviennent de Xinyang ; n° 40 rue Feng-zheng.
+
+[^36]: [Sankyo Music Box FAQ](https://sankyomusicbox.com/) --- Anglais : many of the music box movements are manufactured by specialized partners in Taiwan.
+
+[^37]: [Muro Box « Quarante ans avec la boîte à musique » Huang Long-xi 2025](https://murobox.com/zh/our-story-2/40yearswithmusicbox/) --- Création en avril/août 1979, structure de joint-venture, Dongguan 2002.
+
+[^38]: [Nidec Instruments histoire des boîtes à musique](https://www.nidec-instruments.com/og/en/orgel.shtml) --- Sankyo Seiki fondé en 1946, production en série vers 1948 ; infirmant l'ancien article « plus d'un siècle ».
+
+[^39]: [Yahoo relayé par Da-ai « Découvrir le mystère du son » Huang Long-xi](https://tw.news.yahoo.com/%E8%A7%A3%E9%96%8B%E7%99%BC%E8%81%B2%E4%B9%8B%E8%BF%B7-%E5%89%8D%E9%80%B2%E5%8F%B0%E7%81%A3%E9%9F%B3%E6%A8%82%E9%88%B4%E5%8D%9A%E7%89%A9%E9%A4%A8-113334077.html) --- 30 millions d'unités / un tiers des besoins mondiaux.
+
+[^40]: [Muro Box « Approfondir la terre natale de la boîte à musique »](https://murobox.com/zh/our-story-2/birthplace-of-music-box/) --- Pic de 30 millions, spécifications de bruit sous 45dB, coût de personnalisation de 25 000 NT.
+
+[^41]: [Site touristique Taichung « Musée taïwanais de la boîte à musique »](https://travel.taichung.gov.tw/zh-tw/attractions/intro/1646) --- Page officielle ; utilisé pour comparer avec les anciens articles erronés sur le lac Sun Moon.
+
+[^42]: [Magazine Jizhou « Wooderful life » 2016](https://www.businesstoday.com.tw/article/category/154686/post/201603310034/) --- Récit des produits en bois et des mécanismes de boîte à musique.
+
+[^43]: [Projet Muro Box sur Zouzou](https://www.zeczec.com/projects/murobox) --- Objectif de financement et montant atteint ; reportage de 2018.
+
+[^44]: [Jupiter Band Instruments (Wikipédia)](https://en.wikipedia.org/wiki/Jupiter_Band_Instruments) --- Distinction entre les séries 500/700 ; pas de tableau complet des pays d'origine.
+
+[^45]: [GUO about](https://gflute.com/aboutguo.html) --- Fondé à Taichung en 1988/89, Grenaditte, Tocco.
+
+[^46]: [P. Mauriat about](https://www.pmauriatmusic.com/en/about-p-mauriat/) --- Instruments de haute qualité à Taiping ; production de percussions à Tanzi par Pearl.
