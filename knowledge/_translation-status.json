@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-29T13:03:54+08:00",
-    "zhCommitHead": "9648debd1",
+    "lastUpdated": "2026-07-29T13:05:13+08:00",
+    "zhCommitHead": "ffc12c375",
     "totalZh": 871,
     "activeLanguages": [
       "en",
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 871,
-        "fresh": 719,
+        "fresh": 720,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 146,
+        "missing": 145,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 871,
-        "fresh": 565,
+        "fresh": 566,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 305,
+        "missing": 304,
         "orphan": 0
       },
       "ru": {
         "total_zh": 871,
-        "fresh": 598,
+        "fresh": 599,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 272,
+        "missing": 271,
         "orphan": 0
       }
     },
@@ -6926,7 +6926,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-enterprise-ase-semiconductor.md",
+          "translatedFrom": "Economy/台灣企業：日月光半導體.md",
+          "sourceCommitSha": "b900f18da",
+          "sourceContentHash": "sha256:275d7b3ee56db82a",
+          "sourceBodyHash": "sha256:58739438cbba3247",
+          "translatedAt": "2026-07-29T12:59:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -34999,8 +35010,8 @@
           "sourceContentHash": "sha256:0e32d79d3df5fb08",
           "sourceBodyHash": "sha256:4ba5d74427c47aed",
           "translatedAt": "2026-07-29T07:32:35+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
+          "translationLastCommit": "9ef35f77",
+          "translationLastModified": "2026-07-29T13:03:54+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -63150,7 +63161,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/ethan-tu.md",
+          "translatedFrom": "People/杜奕瑾.md",
+          "sourceCommitSha": "ab47ff39c",
+          "sourceContentHash": "sha256:61081ca7c646947e",
+          "sourceBodyHash": "sha256:f186e67ce03f9679",
+          "translatedAt": "2026-07-29T12:59:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -98410,7 +98432,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/eight-immortals-dust-explosion.md",
+          "translatedFrom": "History/八仙塵爆.md",
+          "sourceCommitSha": "c109869a0",
+          "sourceContentHash": "sha256:ac5c1781df041450",
+          "sourceBodyHash": "sha256:e34f355be551f8dd",
+          "translatedAt": "2026-07-29T12:59:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
