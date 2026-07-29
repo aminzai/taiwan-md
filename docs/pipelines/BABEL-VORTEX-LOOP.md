@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.18)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.19)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.18'
+current_version: 'v1.19'
 last_updated: 2026-07-29
-last_session: '2026-07-29-vortex-quarantine-lang-detection'
+last_session: '2026-07-29-vortex-angle-url-armor'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.18
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.19
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,13 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.19（2026-07-29）：修正 URL 裝甲主動造壞含括號 Wikipedia target。
+  CommonMark 以 `<https://..._(Japan)>` 包住含括號 URL，但 tokenizer 的
+  markdown-target regex 在第一個 `)` 截斷；印尼文國定假日因此從正確來源
+  變成 `[[Title](<](<URL>))`，最後死於 footnote-format。angle-wrapped target
+  現在優先整段 token 化並原樣還原。同期 safe-only footnote healer 接受
+  `[^N]: [Title](URL).` 這個 URL-only＋尾端標點的無損形狀，移除句點後補
+  domain-aware description；兩項均維持原 hard gate。
 - v1.18（2026-07-29）：讓隔離 leak 覆盤與產線使用同一個語言判準。v1.15
   已讓 `cjk-leak-check.py` 能顯示 repo 外的 `/tmp/.../quarantine` 路徑，
   但語言仍只從 `knowledge/<lang>/...` 推導；`pt--slug.md` 等隔離檔因此全被

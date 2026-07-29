@@ -323,7 +323,10 @@ class TranslationCascade:
 #      預設的完整版 canonical guide（load_lang_guide_sections，§1/2/3/6 全段）。
 
 _URL_TOKEN_RE = re.compile(
-    r"(!?\[[^\]]*\]\()([^)\s]+)(\))"                      # markdown 連結／圖片的 target
+    # Angle-wrapped target 必須先匹配整段：`(<https://..._(Japan)>)` 是
+    # CommonMark 保護含括號 URL 的 canonical 寫法。舊的 `[^)]+` 在第一個
+    # `)` 截斷，token 還原後會造出 `[[Title](<](<URL>))`。
+    r"(!?\[[^\]]*\]\()(<[^>\s]+>|[^)\s]+)(\))"            # markdown 連結／圖片的 target
     r"|(https?://[^\s\)\]\"'>一-鿿，。；：、！？「」『』《》〈〉]+)"  # 裸 URL
     # 排除 CJK Han range + 全形標點——裸 URL 緊貼中文（無空格）時避免把後面的
     # 中文文字一起吞進 token（吞進去＝那段文字被藏在 opaque token 裡，最終還原

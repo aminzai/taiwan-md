@@ -112,6 +112,13 @@ def fix(target: FileTarget, config: dict[str, Any]) -> int:
     _ANGLE = re.compile(
         r"^(\[\^[0-9a-zA-Z_-]+\]:)\s+(\[[^\]]+\])\(<(https?://[^>]+)>\)(?:\s+[—-]\s*(.*))?$"
     )
+    # URL-only citation with terminal prose punctuation:
+    # `[^N]: [Title](URL).`  The period carries no citation information, so
+    # replacing it with the same domain-aware description as the exact
+    # URL-only shape is safe. Production sample: fr higher-education L302.
+    _TRAILING_PUNCT_LINK = re.compile(
+        r"^(\[\^[0-9a-zA-Z_-]+\]:)\s+(\[[^\]]+\])\((https?://[^)]+)\)[。.]\s*$"
+    )
     # Non-em-dash separator: `[^N]: [Title](URL)<sep><rest>` where sep is `，`,
     # `（` (full-width paren — no space needed), or whitespace. SAFE transform:
     # normalize to canonical ` — `.
@@ -142,6 +149,13 @@ def fix(target: FileTarget, config: dict[str, Any]) -> int:
             if new_line != line:
                 lines[i] = new_line
                 changes += 1
+            continue
+        # Pattern 1.5: URL-only citation with a terminal period.
+        m = _TRAILING_PUNCT_LINK.match(line)
+        if m:
+            prefix, title, url = m.groups()
+            lines[i] = f"{prefix} {title}({url}) — {ff.desc_for_url(url)}"
+            changes += 1
             continue
         # Pattern 2: safe canonical (`[^N]: [Title](URL)` with optional desc)
         m = _SAFE.match(line)
