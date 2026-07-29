@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.41)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.42)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.41'
+current_version: 'v1.42'
 last_updated: 2026-07-30
-last_session: '2026-07-30-vortex-whole-body-markdown-fence'
+last_session: '2026-07-30-vortex-ja-ko-frontmatter-leak'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.41
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.42
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,12 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.42（2026-07-30）：收斂 `cjk-leak-check` 的 ja／ko 與非 CJK 分支：
+  leak gate 一律只掃正文、排除 frontmatter。舊版只有非 CJK 分支排除
+  frontmatter，日／韓譯文的 `rationale`、`lifeTree`、研究路徑等合法保留欄位
+  若含「這個／那個」就會被當正文中文洩漏隔離；title／description／imageAlt／
+  tags 仍由 `verify-translation` 專責把關，沒有放寬 metadata 品質閘門。
+  新增 frontmatter 合法與正文真洩漏兩側回歸測試。
 - v1.41（2026-07-30）：`ai-residue` 新增「整篇正文被 Markdown fence 包住」
   hard gate。俄文 COMPUTEX 已由 verify／leak／article-health 三閘收下，但模型
   在 frontmatter 後加 ` ```markdown `、全文末尾再加 closing fence；loader
