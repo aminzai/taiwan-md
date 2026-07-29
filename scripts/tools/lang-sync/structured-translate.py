@@ -473,6 +473,38 @@ def extract_footnote_defs(body: str) -> list[dict]:
     return defs
 
 
+def normalize_footnote_batch(data, batch: list[dict]):
+    """只解包兩種可無損證明順序的 Phase N 回傳形狀。
+
+    模型除了 canonical array，還會回 ``{"footnotes": [...]}``，或直接用腳註
+    ID 當 top-level key：``{"1": {"title": ..., "desc": ...}}``。後者只有在
+    key 集合精確等於本批預期 ID、每個 value 都是 object、value 內若有 ``n``
+    也與 key 一致時才可安全重排；任何缺項、多項或 ID 衝突仍原樣交給 hard
+    length gate 拒收。
+    """
+    if not isinstance(data, dict):
+        return data
+
+    list_values = [value for value in data.values() if isinstance(value, list)]
+    if len(list_values) == 1:
+        return list_values[0]
+
+    expected_ids = [str(item["n"]) for item in batch]
+    if set(data) != set(expected_ids):
+        return data
+
+    normalized = []
+    for footnote_id in expected_ids:
+        item = data[footnote_id]
+        if not isinstance(item, dict):
+            return data
+        item_id = str(item.get("n", footnote_id))
+        if item_id != footnote_id:
+            return data
+        normalized.append({**item, "n": footnote_id})
+    return normalized
+
+
 def translate_footnotes(defs: list[dict], lang: str, backend, metrics: dict) -> dict:
     """模型只收 JSON 陣列的 {n, title, desc}；URL 與編號工具原樣保留，永遠不進
     prompt。一批最多 15 條，超過分批（spec 硬性要求）。"""
@@ -506,10 +538,7 @@ def translate_footnotes(defs: list[dict], lang: str, backend, metrics: dict) -> 
         # v1.6 fallback 實績 4 篇在這裡被判成「got dict」，但內容沒有機會進入
         # 後面的長度與 ID 驗證。只接受「物件內恰好一個 list」這個高信心形狀；
         # 多個 list、任意 mapping 仍拒收，避免猜錯欄位後靜默對位。
-        if isinstance(data, dict):
-            list_values = [value for value in data.values() if isinstance(value, list)]
-            if len(list_values) == 1:
-                data = list_values[0]
+        data = normalize_footnote_batch(data, batch)
         if not isinstance(data, list) or len(data) != len(batch):
             raise RuntimeError(
                 f"phase-N batch {bi}: length mismatch (want {len(batch)}, "
