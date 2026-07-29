@@ -1,11 +1,11 @@
 ---
-title: 'Computex：三大國際電腦展收了兩個，剩下的那個長在台北'
+title: 'COMPUTEX：三大國際電腦展收了兩個，剩下的那個長在台北'
 description: '2026 年 6 月，黃仁勳站上台北的舞台說「回到家真好」，背板上印的是肉粽和豬腳。同一個禮拜，三位執行長在這裡接力開講，台中的上銀首度跨界把減速機接上人形機器人的關節。德國 CeBIT、美國 COMDEX 都收攤了，這個 45 歲的台北電腦展卻越辦越大，因為它長在全世界近九成 AI 伺服器真正被組裝出來的島上。'
 date: 2026-06-01
 category: 'Technology'
 tags:
   [
-    'Computex',
+    'COMPUTEX',
     '台北國際電腦展',
     '黃仁勳',
     'NVIDIA',
@@ -46,9 +46,9 @@ relatedDiary:
   - 2026-06-01-130850-manual
 ---
 
-# Computex：三大國際電腦展收了兩個，剩下的那個長在台北
+# COMPUTEX：三大國際電腦展收了兩個，剩下的那個長在台北
 
-> **30 秒概覽：** Computex 台北國際電腦展今年 45 歲。它從 1981 年松山機場旁一場給中小企業看的出口商展，長成全球 AI 巨頭每年五月底六月初必到的舞台。同期的兩大對手，德國漢諾威 CeBIT 和美國拉斯維加斯 COMDEX，都收攤了。2026 年的主題叫「AI Together」，黃仁勳站上台北的舞台，第一句話是「回到家真好」。那個禮拜，NVIDIA、Qualcomm、Intel 三家 CEO 接力開講，台中的上銀首度跨界把減速機接上人形機器人的關節。45 年從賣電容到賣關節，這座島只在做同一件事，就是把先進國家外包出去的「製造」做到全世界繞不過去。
+> **30 秒概覽：** COMPUTEX 台北國際電腦展今年 45 歲。它從 1981 年松山機場旁一場給中小企業看的出口商展，長成全球 AI 巨頭每年五月底六月初必到的舞台。同期的兩大對手，德國漢諾威 CeBIT 和美國拉斯維加斯 COMDEX，都收攤了。2026 年的主題叫「AI Together」，黃仁勳站上台北的舞台，第一句話是「回到家真好」。那個禮拜，NVIDIA、Qualcomm、Intel 三家 CEO 接力開講，台中的上銀首度跨界把減速機接上人形機器人的關節。45 年從賣電容到賣關節，這座島只在做同一件事，就是把先進國家外包出去的「製造」做到全世界繞不過去。
 
 ## 回到家真好
 
@@ -58,7 +58,7 @@ relatedDiary:
 
 那場演講他端出了代號 Vera Rubin 的新一代運算晶片，宣布「已全面投產」，又秀出一顆叫 N1X 的晶片，形容它是「世界最驚人晶片」。他談「有用的 AI 已來臨」，談「代理 AI 來臨」（agentic AI has arrived）[^1][^25]。他講了一句後來被反覆引用的話：「AI agents will be the largest users of computing.」AI 代理會是運算的最大用戶[^24]。但讓全場記得最牢的，可能還是那塊放了肉粽和豬腳的背板。
 
-他站的這個展，叫 COMPUTEX，台北國際電腦展。今年 45 歲。而那個禮拜湧進台北的不只他一個。同一天上午稍早，高通的 Cristiano Amon 在南港展覽館二館開幕演講，把今年定為「Year of Agents」，宣布資料中心新品牌 Dragonfly[^26]。再隔幾個小時，剛接 Intel CEO 三個月的陳立武，第一次以英特爾掌門人身份站上 Computex，開口談「x86 has powered data centers for more than five decades」（x86 已經支撐資料中心超過五十年）[^27]。三家公司，三場 keynote，市值合計逾十兆美元[^3]。
+他站的這個展，叫 COMPUTEX，台北國際電腦展。今年 45 歲。而那個禮拜湧進台北的不只他一個。同一天上午稍早，高通的 Cristiano Amon 在南港展覽館二館開幕演講，把今年定為「Year of Agents」，宣布資料中心新品牌 Dragonfly[^26]。再隔幾個小時，剛接 Intel CEO 三個月的陳立武，第一次以英特爾掌門人身份站上 COMPUTEX，開口談「x86 has powered data centers for more than five decades」（x86 已經支撐資料中心超過五十年）[^27]。三家公司，三場 keynote，市值合計逾十兆美元[^3]。
 
 AMD 的蘇姿丰今年沒有 keynote，連續第二年缺席這個位置。但她在 5 月底訪台五天，宣布在台灣加碼一百億美元的投資計畫[^28]。
 
@@ -85,7 +85,7 @@ _宏碁創辦人施振榮。1984 年他把「台北市電腦展」正名為 COMP
 到了 1989 年，業界普遍認為它已經是亞洲規模最大的電腦展，世界排名僅次於德國漢諾威的 CeBIT 和美國的 COMDEX[^4]。那是台灣 PC 代工的黃金年代，華碩、技嘉、微星這些日後的全球品牌，都是從這個展的攤位走出去的。
 
 > **💡 你知道嗎**
-> Computex 的場館是一塊一塊「長」出來的。1981 年松山機場旁起家，1986 年固定在信義路的世貿一館，2003 年因 SARS 延期到 9 月、首度納入世貿三館，2004 年四館同開，2008 年起把南港展覽館一館（總投資約 1.1 億美元）也納進來[^4][^29]。它像一棵陸續增生枝幹的樹，沒換過盆。2026 年又「重返世貿一館」首設 AI 機器人專區，雙展區同開[^14]。
+> COMPUTEX 的場館是一塊一塊「長」出來的。1981 年松山機場旁起家，1986 年固定在信義路的世貿一館，2003 年因 SARS 延期到 9 月、首度納入世貿三館，2004 年四館同開，2008 年起把南港展覽館一館（總投資約 1.1 億美元）也納進來[^4][^29]。它像一棵陸續增生枝幹的樹，沒換過盆。2026 年又「重返世貿一館」首設 AI 機器人專區，雙展區同開[^14]。
 
 ## 三大電腦展，死了兩個
 
@@ -100,15 +100,15 @@ CeBIT 的死法慢一點，但結局相同。它 1986 年從漢諾威工業展�
 
 兩場展，死因不一樣，結構性的位置卻一致：兩個都是「需求端」的展。COMDEX 賣給美國的買家、媒體、經銷商。CeBIT 賣給歐洲。當半導體與 PC 的製造重心一寸一寸遷往亞洲，歐洲的買家飛漢諾威不如直接飛台北，美國的記者寫產品發表會也不必擠到拉斯維加斯，需求端的展先空了下來。
 
-Computex 沒死，因為它長在供給端。台北這座城市背後有 1500 家展商、6000 個攤位、整條從晶圓、封裝、PCB、連接器到組裝代工的完整鏈條[^6]。買家不來這裡就見不到工程師，看不到下一代的散熱方案，碰不到能在三個月內把樣品交出來的代工廠。同樣是「世界級電腦展」這個名字，活下來的那個剛好長在製造這頭。
+COMPUTEX 沒死，因為它長在供給端。台北這座城市背後有 1500 家展商、6000 個攤位、整條從晶圓、封裝、PCB、連接器到組裝代工的完整鏈條[^6]。買家不來這裡就見不到工程師，看不到下一代的散熱方案，碰不到能在三個月內把樣品交出來的代工廠。同樣是「世界級電腦展」這個名字，活下來的那個剛好長在製造這頭。
 
-要補一句：說「三大電腦展只剩台北」的時候得清楚——美國的 CES（在拉斯維加斯）仍然每年一月開，但它早就從電腦展轉成消費電子總展。西班牙巴塞隆納的 MWC 接下了行動通訊時代的主場。資料中心圈還有 OCP Global Summit、超級電腦圈還有 SC 大會。Computex 之所以是「剩下的那一個」，限定的是「跟製造綁在一起的通用電腦展」這個細類，不是說地球上其它科技大展都收了。
+要補一句：說「三大電腦展只剩台北」的時候得清楚——美國的 CES（在拉斯維加斯）仍然每年一月開，但它早就從電腦展轉成消費電子總展。西班牙巴塞隆納的 MWC 接下了行動通訊時代的主場。資料中心圈還有 OCP Global Summit、超級電腦圈還有 SC 大會。COMPUTEX 之所以是「剩下的那一個」，限定的是「跟製造綁在一起的通用電腦展」這個細類，不是說地球上其它科技大展都收了。
 
 ## 2016 那場「Your Moment of Zen」
 
-回頭看，Computex 從來不是一條筆直向上的線。2012 年全球 PC 出貨量首次年減，智慧型手機把消費端的注意力整碗端走[^35]。Intel 的 14 奈米 Broadwell 製程從原訂的 2014 年第二季拖到第四季才出貨，「Tick-Tock」節奏從此被改成三年週期[^36][^37]。那幾年的 Computex 攤位上瀰漫一股「PC 已死」的陰影。
+回頭看，COMPUTEX 從來不是一條筆直向上的線。2012 年全球 PC 出貨量首次年減，智慧型手機把消費端的注意力整碗端走[^35]。Intel 的 14 奈米 Broadwell 製程從原訂的 2014 年第二季拖到第四季才出貨，「Tick-Tock」節奏從此被改成三年週期[^36][^37]。那幾年的 COMPUTEX 攤位上瀰漫一股「PC 已死」的陰影。
 
-而 PC 寒冬最深的那一年，2016 年 6 月 1 日的星期三上午，AMD 的執行長蘇姿丰走上 Computex 主舞台。
+而 PC 寒冬最深的那一年，2016 年 6 月 1 日的星期三上午，AMD 的執行長蘇姿丰走上 COMPUTEX 主舞台。
 
 她不是來救火的。她是來換引擎的。
 
@@ -116,14 +116,14 @@ Computex 沒死，因為它長在供給端。台北這座城市背後有 1500 �
 
 媒體當下不太相信。AMD 在 Bulldozer 那一代被 Intel 海打，這幾年只剩低階市場、品牌價值跌到谷底。「from scratch」「40 percent IPC」這種承諾，過去十年聽過太多次。Wccftech、PC Perspective、TweakTown 同一天的標題像在賭一把：「Here It Is! Your Moment of Zen!」[^38][^39][^40]
 
-然後 Zen 真的兌現了。隔年 3 月 2 日，Ryzen 7 1700X 上市，Intel 的高階桌上型市場開始流血。AMD 的市值從蘇姿丰 2014 年接任時的不到 30 億美元，一路漲到 2020 年的千億等級。Computex 的攤位上，主機板廠重新有東西可賣，散熱廠重新有訂單可接，PC DIY 玩家重新有理由每年五月飛來台北。
+然後 Zen 真的兌現了。隔年 3 月 2 日，Ryzen 7 1700X 上市，Intel 的高階桌上型市場開始流血。AMD 的市值從蘇姿丰 2014 年接任時的不到 30 億美元，一路漲到 2020 年的千億等級。COMPUTEX 的攤位上，主機板廠重新有東西可賣，散熱廠重新有訂單可接，PC DIY 玩家重新有理由每年五月飛來台北。
 
 蘇姿丰在台南出生（1969 年），三歲跟著家人移居美國紐約皇后區，父親統計學家、母親會計[^41]。順帶一提，黃仁勳跟她是 first cousins once removed——黃仁勳的母親是蘇姿丰祖父的妹妹[^42]。兩個改寫運算產業地形的執行長，家族同源於台南。
 
-那場 2016 年的 keynote，是 Computex 從 PC 寒冬轉骨的關鍵伏筆。但要七年後，黃仁勳 2023 年才會走上 Computex 的舞台說「We're back」[^9]——那一年他發了 Grace Hopper 超級晶片、用 NVLink 把 256 顆 H100 串成一座 1 exaflop 的 DGX GH200，把生成式 AI 帶進每個資料中心。Computex 從此從 PC 寒冬撈出來，變成 AI 主場。
+那場 2016 年的 keynote，是 COMPUTEX 從 PC 寒冬轉骨的關鍵伏筆。但要七年後，黃仁勳 2023 年才會走上 COMPUTEX 的舞台說「We're back」[^9]——那一年他發了 Grace Hopper 超級晶片、用 NVLink 把 256 顆 H100 串成一座 1 exaflop 的 DGX GH200，把生成式 AI 帶進每個資料中心。COMPUTEX 從此從 PC 寒冬撈出來，變成 AI 主場。
 
 > **💡 你知道嗎**
-> Computex 在 2016 年同時開始辦 InnoVEX 新創特展。第一屆 217 家新創、22 個國家，外貿協會 EVP 葉明水當時說「completely surpassed our expectations」[^43]。把展覽範圍從成熟 PC 硬體擴張到 AI、IoT、新創。2026 年 InnoVEX 23 國近 500 家新創，創 11 年新高[^6]。Computex 的下一個身體，那時就在隔壁攤位悄悄長出來。
+> COMPUTEX 在 2016 年同時開始辦 InnoVEX 新創特展。第一屆 217 家新創、22 個國家，外貿協會 EVP 葉明水當時說「completely surpassed our expectations」[^43]。把展覽範圍從成熟 PC 硬體擴張到 AI、IoT、新創。2026 年 InnoVEX 23 國近 500 家新創，創 11 年新高[^6]。COMPUTEX 的下一個身體，那時就在隔壁攤位悄悄長出來。
 
 ## 資訊月的鏡像：同一座島，兩個展
 
@@ -133,20 +133,20 @@ Computex 沒死，因為它長在供給端。台北這座城市背後有 1500 �
 
 2001 年，台北市電腦同業公會把資訊月的主辦權交給民間八個公會聯辦[^44]。然後它的曲線開始往下。2010 年代之後，電商崛起、手機取代家用 PC、消費族群分散，資訊月的角色從「年度大拜拜」逐漸變成攝影器材展、車展、電商促銷之間擠出來的一個檔期。
 
-兩個展，都辦在同一座島。一個 5 月、一個 12 月。一個 B2B、一個 B2C。一個賣給來台的外國買主，一個賣給本地的家庭消費者。Computex 越辦越大，資訊月慢慢退場。
+兩個展，都辦在同一座島。一個 5 月、一個 12 月。一個 B2B、一個 B2C。一個賣給來台的外國買主，一個賣給本地的家庭消費者。COMPUTEX 越辦越大，資訊月慢慢退場。
 
 供給端的展活下來，需求端的展走向收尾。COMDEX、CeBIT、資訊月講的是同一個故事，只是換了三個版本——買家會老去、買家會搬家、買家會被亞馬遜接走，但製造留在哪裡，下一代的工程師就會去哪裡。台北沒讓晶片離開過。
 
 ## 沒人拍的那六千個攤位
 
 ![南港展覽館一館外觀，玻璃帷幕建築上高掛 COMPUTEX TAIPEI 大型展覽看板，門口聚集準備入場、掛著識別證的參觀人潮，這裡是台北國際電腦展近年的主場館](/article-images/technology/computex-nangang-exterior-2016.webp)
-_南港展覽館一館 2016 年 Computex 期間的外觀。COMPUTEX 自 2008 年起把南港納入主場，2026 年的「雙展區」一邊是南港、一邊是重返世貿一館。Photo: NVIDIA Taiwan, 2016-05-31. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Computex_Taipei_at_Taipei_Nangang_Exhibition_Center_20160531.jpg)._
+_南港展覽館一館 2016 年 COMPUTEX 期間的外觀。COMPUTEX 自 2008 年起把南港納入主場，2026 年的「雙展區」一邊是南港、一邊是重返世貿一館。Photo: NVIDIA Taiwan, 2016-05-31. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Computex_Taipei_at_Taipei_Nangang_Exhibition_Center_20160531.jpg)._
 
-每一屆 Computex 的攝影鏡頭都對著主舞台。但走進真正的展場，六千個攤位裡，絕大多數的廠商你叫不出名字。
+每一屆 COMPUTEX 的攝影鏡頭都對著主舞台。但走進真正的展場，六千個攤位裡，絕大多數的廠商你叫不出名字。
 
 它們做散熱模組、做連接器、做機殼、做電源供應器、做機構件、做被動元件、做測試治具。它們的攤位不大，業務跟採購站著聊，沒有 Show Girl、沒有打卡牆。它們的客戶是廣達、是緯創、是鴻海，再往上是 NVIDIA、AMD、Intel。它們的競爭對手分散在新莊、桃園、台中、台南，多半是兄弟工廠或師傅出來開的同類廠。
 
-這些攤位才是 Computex 的身體。台灣業界估計，全球近九成的 AI 伺服器，是這些公司組裝出貨的[^18]。但它們賺的不是上游的錢。代工業有一句自嘲「毛三到四」，毛利率在 3% 到 4% 之間擺盪，業界戲稱「茅山道士」[^19]。對照之下，台積電的毛利率在五成上下，NVIDIA 在七成上下。
+這些攤位才是 COMPUTEX 的身體。台灣業界估計，全球近九成的 AI 伺服器，是這些公司組裝出貨的[^18]。但它們賺的不是上游的錢。代工業有一句自嘲「毛三到四」，毛利率在 3% 到 4% 之間擺盪，業界戲稱「茅山道士」[^19]。對照之下，台積電的毛利率在五成上下，NVIDIA 在七成上下。
 
 而且做越多越苦。AI 機櫃單價高、記憶體成本上升、組裝費用無法等比例提高，毛利率反而被擠壓。緯創 2025 年度第四季 5.88%、廣達同年第三季 6.85%，這個結構在 2026 年的法說會上一遍又一遍重複[^15]。
 
@@ -160,34 +160,34 @@ _南港展覽館一館 2016 年 Computex 期間的外觀。COMPUTEX 自 2008 年
 
 「首度跨界參展」這個詞值得停一下。一家四十多年的台中傳動廠，2026 年第一次走進電腦展。它端出來的是三組整合產品：和美國新創合作的雙臂物流機器人；人形機器人的核心模組（同樣的滾珠螺桿、諧波減速機、馬達、驅動器、線性與旋轉致動模組）；以及智慧夾爪加上半導體智慧設備方案[^22]。
 
-它把過去四十年替工具機做的本事，整套接上 NVIDIA 黃仁勳口中那具「實體 AI」的身體。1981 年 Computex 第一屆，松山機場旁的攤位賣的是電容、電阻、主機板，給香港買主搬回去組電腦。2026 年的世貿一館 AI 機器人專區，超過 180 家廠商在現場用實機動態示範「從感測器、馬達、減速機到系統整合的完整產業鏈」[^23]。45 年同條曲線，零組件的定義從電容換成減速機。
+它把過去四十年替工具機做的本事，整套接上 NVIDIA 黃仁勳口中那具「實體 AI」的身體。1981 年 COMPUTEX 第一屆，松山機場旁的攤位賣的是電容、電阻、主機板，給香港買主搬回去組電腦。2026 年的世貿一館 AI 機器人專區，超過 180 家廠商在現場用實機動態示範「從感測器、馬達、減速機到系統整合的完整產業鏈」[^23]。45 年同條曲線，零組件的定義從電容換成減速機。
 
 外貿協會董事長黃志芳說，他期待台灣「從全球科技製造重鎮進一步躍升為『全球 AI 解決方案中心』」[^23]。鴻海、和碩這些原本組裝 AI 伺服器的代工廠，2026 年也在展場上秀起機器人[^16]。
 
 ## 跟台北說再見：被丟下的玩家
 
-不過今年 Computex，有人覺得被丟下了。
+不過今年 COMPUTEX，有人覺得被丟下了。
 
-Tom's Hardware 在 2026-06-05 的 Day 4 報導，標題直接寫：「Computex 2026, Day 4 — the B2B shift, and we say farewell to Taipei」（Computex 2026 第 4 天——B2B 轉向，跟台北說再見）[^45]。內文用一句話總結整週的觀察：「Computex 2026 had far more B2B-focused companies in attendance, whereas in the past, the show typically featured strictly consumer products and companies that feed into that ecosystem.」（今年 Computex 出席的 B2B 取向廠商遠多於以往，過去這個展通常以消費端產品和餵養該生態系的廠商為主。）[^45]
+Tom's Hardware 在 2026-06-05 的 Day 4 報導，標題直接寫：「COMPUTEX 2026, Day 4 — the B2B shift, and we say farewell to Taipei」（COMPUTEX 2026 第 4 天——B2B 轉向，跟台北說再見）[^45]。內文用一句話總結整週的觀察：「COMPUTEX 2026 had far more B2B-focused companies in attendance, whereas in the past, the show typically featured strictly consumer products and companies that feed into that ecosystem.」（今年 COMPUTEX 出席的 B2B 取向廠商遠多於以往，過去這個展通常以消費端產品和餵養該生態系的廠商為主。）[^45]
 
-開幕當天 Tom's Hardware 自家的 Jeffrey Kampman 已經先打過預防針：「In a world where nobody is launching truly new graphics cards, my Computex week will almost certainly be defined by data center products, integrated graphics processors, and AI accelerators of various shapes and sizes.」（在一個沒人推出真正新顯卡的世界裡，我這週的 Computex 會由資料中心產品、整合式繪圖處理器、各種形狀大小的 AI 加速器來定義。）[^46]
+開幕當天 Tom's Hardware 自家的 Jeffrey Kampman 已經先打過預防針：「In a world where nobody is launching truly new graphics cards, my COMPUTEX week will almost certainly be defined by data center products, integrated graphics processors, and AI accelerators of various shapes and sizes.」（在一個沒人推出真正新顯卡的世界裡，我這週的 COMPUTEX 會由資料中心產品、整合式繪圖處理器、各種形狀大小的 AI 加速器來定義。）[^46]
 
-PC Gamer 的觀察是另一個方向：「Computex 2026 has really highlighted the fact that PC gaming tech isn't all about gaming anymore.」（Computex 2026 真實凸顯出，PC 遊戲技術已經不全然是為了遊戲而存在。）[^47]
+PC Gamer 的觀察是另一個方向：「COMPUTEX 2026 has really highlighted the fact that PC gaming tech isn't all about gaming anymore.」（COMPUTEX 2026 真實凸顯出，PC 遊戲技術已經不全然是為了遊戲而存在。）[^47]
 
 證據不只是現場感受。2026 年第一季消費級 DRAM 漲了 110%、消費級 SSD 漲了 147%。一組 32GB DDR5 記憶體從一年前的 100 美元出頭，被推到 350 美元以上[^48]。AMD 的 RDNA 5 遊戲顯卡被代工廠告知會延到 2027 年下半年、甚至 2028 年初。NVIDIA 的下一代消費級顯卡也排到同一個時段[^49]。展場上散熱攤位都在做液冷板而不是 RGB 風扇，那些原本買來 DIY 高階電競機的玩家，能想像今年和明年都不會有真正新的顯卡可以買。
 
-主舞台給了實體 AI、給了 Vera Rubin、給了 Year of Agents。攤位給了液冷板、給了減速機、給了人形機器人模組。那些幾年前還在主場上找新顯卡、找新 RGB 機殼的玩家，被推到了展場最邊邊那兩排，或者乾脆沒進場。Computex 從 PC 寒冬被 AI 撈出來，活了下來。但這次活下來，不一定意味著每個原本的客群都還在裡頭。
+主舞台給了實體 AI、給了 Vera Rubin、給了 Year of Agents。攤位給了液冷板、給了減速機、給了人形機器人模組。那些幾年前還在主場上找新顯卡、找新 RGB 機殼的玩家，被推到了展場最邊邊那兩排，或者乾脆沒進場。COMPUTEX 從 PC 寒冬被 AI 撈出來，活了下來。但這次活下來，不一定意味著每個原本的客群都還在裡頭。
 
 ## 撐起 AI 主場的不是資料中心，是把晶片刻出來的工廠
 
 主舞台越熱，能源帳就越重。
 
 ![新竹科學園區的台積電廠房外觀，米白色大型無塵室廠房建築群，是全球先進晶片的主要生產基地](/article-images/technology/tsmc-fab-hsinchu-2009.webp)
-_新竹科學園區的台積電廠房。撐起 Computex 主舞台的這條鏈，真正吃掉電的是上游的晶圓廠，不是下游的資料中心。Photo: Arusanov, 2009, Public Domain. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG)._
+_新竹科學園區的台積電廠房。撐起 COMPUTEX 主舞台的這條鏈，真正吃掉電的是上游的晶圓廠，不是下游的資料中心。Photo: Arusanov, 2009, Public Domain. [License via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG)._
 
 《報導者》2026 年 4 月 20 日的能源專題給出一組反直覺的對照：2025 年資料中心用電「若與 2025 年全國用電量 2,828 億度相比，占比仍僅約 0.5%」。而同一年「半導體製造業」用電量高達 423.8 億度，占全國用電量近 15%[^21]。
 
-換句話說，撐起 Computex 主舞台上那些 GB300、Vera Rubin、Dragonfly 的這條鏈，真正吃掉電的不在末端——在上游把晶片刻出來的台積電晶圓廠。S&P Global 估算，2024 年台積電用電約占台灣全國 8%、占工業部門 16%，到 2030 年隨著晶圓產能比 2023 年多 90%，可能上看 24%[^50]。
+換句話說，撐起 COMPUTEX 主舞台上那些 GB300、Vera Rubin、Dragonfly 的這條鏈，真正吃掉電的不在末端——在上游把晶片刻出來的台積電晶圓廠。S&P Global 估算，2024 年台積電用電約占台灣全國 8%、占工業部門 16%，到 2030 年隨著晶圓產能比 2023 年多 90%，可能上看 24%[^50]。
 
 AI 端的成長同樣陡。經濟部能源署 2023 年「全國供電情勢報告」估，台灣 AI 科技用電需求「將從 2023 年的 24 萬瓩，增加到 2028 年的 224 萬瓩，足足增加 200 萬瓩、成長幅度達 8 倍」[^51]。
 
@@ -213,7 +213,7 @@ Newsweek 同年 1 月 22 日刊出 Kerry Brown 的書摘也說：「In the curre
 
 達拉斯聯邦準備銀行 2025 年的貿易報告補上一筆：墨西哥的自動資料處理機器出口，過去一年翻倍以上、2025 年突破 850 億美元。2025 年台廠對德州揭露的擬定外人直接投資估達 53 億美元[^60]。
 
-矽盾與分散布局，這座島同時握住兩端。一邊讓自己更難被攻擊，一邊讓自己一旦出事還能繼續供應全世界。Computex 舞台上的執行長講的話越漂亮，攤位上的工程師肩膀上的這份雙重壓力就越重。
+矽盾與分散布局，這座島同時握住兩端。一邊讓自己更難被攻擊，一邊讓自己一旦出事還能繼續供應全世界。COMPUTEX 舞台上的執行長講的話越漂亮，攤位上的工程師肩膀上的這份雙重壓力就越重。
 
 ## 台北就是這一切的起點
 
@@ -225,7 +225,7 @@ Newsweek 同年 1 月 22 日刊出 Kerry Brown 的書摘也說：「In the curre
 
 COMDEX 死了，因為它辦在拉斯維加斯——買家、媒體、發表會的需求端。CeBIT 死了，因為它辦在漢諾威——歐洲的買家、歐洲的媒體。資訊月也凋零了，因為它辦在台北卻面向台灣家庭的零售端，而那個零售端被電商和手機切走了。
 
-Computex 活下來，因為它辦在台北——這座島的供給端。下次再看到「黃仁勳來台灣」「三位 CEO 同台」的新聞，可以這樣讀它：那是全球運算的基礎建設，每年回到它真正被組裝出來的地方，朝聖一次。
+COMPUTEX 活下來，因為它辦在台北——這座島的供給端。下次再看到「黃仁勳來台灣」「三位 CEO 同台」的新聞，可以這樣讀它：那是全球運算的基礎建設，每年回到它真正被組裝出來的地方，朝聖一次。
 
 NVIDIA GTC Taipei 2026 主題演講完整版（NVIDIA 官方頻道）：
 
@@ -245,7 +245,7 @@ NVIDIA GTC Taipei 2026 主題演講完整版（NVIDIA 官方頻道）：
 
 _NVIDIA 官方頻道：黃仁勳 2026 年 GTC Taipei 主題演講完整版，「回到家真好」、Vera Rubin 全面投產、背板上的肉粽豬腳。_
 
-NVIDIA Computex 2024 主題演講完整版（NVIDIA 官方頻道）：
+NVIDIA COMPUTEX 2024 主題演講完整版（NVIDIA 官方頻道）：
 
 <div
   class="video-embed"
@@ -265,9 +265,9 @@ _NVIDIA 官方頻道：黃仁勳 2024 年 COMPUTEX 主題演講完整版，「AI
 
 **延伸閱讀**：
 
-- [半導體產業](/Technology/半導體產業) — 撐起 Computex 主舞台的這條鏈，源頭在新竹、台中、台南的晶圓廠
+- [半導體產業](/Technology/半導體產業) — 撐起 COMPUTEX 主舞台的這條鏈，源頭在新竹、台中、台南的晶圓廠
 - [台灣人工智慧發展與未來策略](/Technology/台灣人工智慧發展與未來策略) — 從伺服器組裝到實體 AI，台灣 AI 產業正在第二次轉骨
-- [台灣機器人產業](/Technology/台灣機器人產業) — 上銀首登 Computex 是這條供應鏈成形的關鍵切片
+- [台灣機器人產業](/Technology/台灣機器人產業) — 上銀首登 COMPUTEX 是這條供應鏈成形的關鍵切片
 - [台灣電動車產業鏈發展](/Technology/台灣電動車產業鏈發展) — 跟 AI 伺服器並排的另一條製造主軸
 - [NVIDIA 在台灣](/Technology/NVIDIA在台灣) — 從黃仁勳的台南童年到台北的 GTC Taipei 主場
 
@@ -275,34 +275,34 @@ _NVIDIA 官方頻道：黃仁勳 2024 年 COMPUTEX 主題演講完整版，「AI
 
 本文使用 6 張 Wikimedia Commons 公有領域 / CC 授權圖片，全部 cache 於 `public/article-images/technology/` 避免熱連結來源伺服器；另內嵌 2 支 NVIDIA 官方頻道 YouTube 影片（黃仁勳 2024、2026 主題演講）：
 
-- [Computex Taipei sign inside Taipei Nangang Exhibition Center](https://commons.wikimedia.org/wiki/File:Computex_Taipei_sign_inside_of_Taipei_Nangang_Exhibition_Center_20110531.jpg) — Photo: Masaru Kamikura, 2011-05-31, CC BY 2.0（hero 圖：南港展覽館內的 COMPUTEX 展場與看板）
+- [COMPUTEX Taipei sign inside Taipei Nangang Exhibition Center](https://commons.wikimedia.org/wiki/File:Computex_Taipei_sign_inside_of_Taipei_Nangang_Exhibition_Center_20110531.jpg) — Photo: Masaru Kamikura, 2011-05-31, CC BY 2.0（hero 圖：南港展覽館內的 COMPUTEX 展場與看板）
 - [Stan Shih at Taipei IT Month 2014](https://commons.wikimedia.org/wiki/File:Stan_Shih_at_Taipei_IT_Month_20141205a.jpg) — Photo: Tony Tseng, 2014-12-05, CC BY 2.0（施振榮 2014 年於台北資訊月受訪）
 - [CeBIT Hannover 2005](https://commons.wikimedia.org/wiki/File:Cebit_Hannover_2004.JPG) — Photo: Florian K, 2005-03-16, CC BY-SA 3.0（德國 CeBIT 2005 展場人潮，世界第一大電腦展，2018 停辦）
 - [TSMC factory Hsinchu](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) — Photo: Arusanov, 2009, 公有領域（PD）（新竹科學園區台積電廠房）
-- [Computex Taipei at Taipei Nangang Exhibition Center](https://commons.wikimedia.org/wiki/File:Computex_Taipei_at_Taipei_Nangang_Exhibition_Center_20160531.jpg) — Photo: NVIDIA Taiwan, 2016-05-31, CC BY 2.0（南港展覽館主場館外觀）
-- [Jensen Huang at Computex Taipei](https://commons.wikimedia.org/wiki/File:Jensen_Huang_at_Computex_Taipei_20160531c.jpg) — Photo: NVIDIA Taiwan, 2016-05-31, CC BY 2.0（黃仁勳於 Computex 舞台演講）
+- [COMPUTEX Taipei at Taipei Nangang Exhibition Center](https://commons.wikimedia.org/wiki/File:Computex_Taipei_at_Taipei_Nangang_Exhibition_Center_20160531.jpg) — Photo: NVIDIA Taiwan, 2016-05-31, CC BY 2.0（南港展覽館主場館外觀）
+- [Jensen Huang at COMPUTEX Taipei](https://commons.wikimedia.org/wiki/File:Jensen_Huang_at_Computex_Taipei_20160531c.jpg) — Photo: NVIDIA Taiwan, 2016-05-31, CC BY 2.0（黃仁勳於 COMPUTEX 舞台演講）
 
 EVOLVE 新增節（蘇姿丰 2016 主舞台預告 Zen / 資訊月對照 / Tom's Hardware「farewell to Taipei」B2B 轉向 / 上銀首度跨界）目前未補新圖：2016 年蘇姿丰 keynote 現場合宜的 PD/CC 圖未找到、Tom's Hardware 文章圖屬商業媒體版權，皆走文字敘述。未來若找到 AMD newsroom 公開授權的 2016 keynote 圖、或 HIWIN 公開授權的 2026 雙臂機器人展示圖，可補入。
 
 ## 參考資料
 
-[^1]: [聯合報：黃仁勳 GTC Taipei 2026 keynote「回到家真好」（2026）](https://udn.com/news/story/7240/9537914) — 報導黃仁勳 2026 年 6 月 1 日於 Computex 期間的 GTC Taipei 主題演講，含「回到家真好」「有用的 AI 已來臨」「代理 AI 來臨」逐字原話、Vera Rubin/Vera CPU/N1X 產品發表，以及背板列出王記府城肉粽、富霸王豬腳等台灣餐飲業者。
+[^1]: [聯合報：黃仁勳 GTC Taipei 2026 keynote「回到家真好」（2026）](https://udn.com/news/story/7240/9537914) — 報導黃仁勳 2026 年 6 月 1 日於 COMPUTEX 期間的 GTC Taipei 主題演講，含「回到家真好」「有用的 AI 已來臨」「代理 AI 來臨」逐字原話、Vera Rubin/Vera CPU/N1X 產品發表，以及背板列出王記府城肉粽、富霸王豬腳等台灣餐飲業者。
 
 [^2]: [維基百科：黃仁勳](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E4%BB%81%E5%8B%B3) — 收錄黃仁勳 1963 年出生、台南成長、1973 年九歲移居美國、奧勒岡州立大學與史丹佛電機學歷，以及 1993 年與克里斯·馬拉科夫斯基、克蒂斯·普里姆共同創辦輝達（NVIDIA）的生平資料。
 
 [^3]: [今周刊：COMPUTEX 2026 CEO 同台、企業市值逾十兆美元（2026）](https://www.businesstoday.com.tw/article/category/183009/post/202605260033/) — 報導 2026 年黃仁勳（NVIDIA）、陳立武（Intel）、Cristiano Amon（Qualcomm）三場 CEO 主題演講與論壇近 30 位講者所屬企業市值合計逾十兆美元的算法（蘇姿丰當年訪台但未 keynote）。
 
-[^4]: [維基百科：台北國際電腦展覽會](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E9%9B%BB%E8%85%A6%E5%B1%95%E8%A6%BD%E6%9C%83) — 收錄 Computex 自 1981 年首屆「台北市電腦展」以來的完整沿革：1984 年正名、1985 年外貿協會加入並更名「台北國際電腦展」、歷年規模數字、世界排名變遷、場館擴張時間軸與 InnoVEX 設立。
+[^4]: [維基百科：台北國際電腦展覽會](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E9%9B%BB%E8%85%A6%E5%B1%95%E8%A6%BD%E6%9C%83) — 收錄 COMPUTEX 自 1981 年首屆「台北市電腦展」以來的完整沿革：1984 年正名、1985 年外貿協會加入並更名「台北國際電腦展」、歷年規模數字、世界排名變遷、場館擴張時間軸與 InnoVEX 設立。
 
-[^5]: [界面新聞：台北電腦展四十年（Computex 歷史回顧）](https://www.jiemian.com/article/3180048.html) — 詳述 Computex 從 1981 年出口商展、1984 年施振榮正名、1985 年外貿協會成為主辦、1989 年成亞洲第一大，到 2003 年躍居世界第二、2012 年 PC 出貨下滑後走下坡的完整脈絡與逐年規模數字。
+[^5]: [界面新聞：台北電腦展四十年（COMPUTEX 歷史回顧）](https://www.jiemian.com/article/3180048.html) — 詳述 COMPUTEX 從 1981 年出口商展、1984 年施振榮正名、1985 年外貿協會成為主辦、1989 年成亞洲第一大，到 2003 年躍居世界第二、2012 年 PC 出貨下滑後走下坡的完整脈絡與逐年規模數字。
 
 [^6]: [經濟日報：COMPUTEX 2026 規模創新高（2026）](https://money.udn.com/money/story/5612/9525595) — 報導 2026 年展期 6 月 2 至 5 日、四個展館、33 國 1500 家廠商 6000 攤位、三大主軸（AI 與運算／機器人與移動／次世代科技），以及世貿一館新增 AI 機器人區、電子紙專區、TechXperience，與 InnoVEX 23 國近 500 家新創創 11 年新高。
 
-[^7]: [中央社：德國 CeBIT 電腦展走入歷史（2018）](https://www.cna.com.tw/news/firstnews/201811295002.aspx) — 報導德國漢諾威 CeBIT 於 2018 年 11 月宣布停辦，分析參觀與參展人數下滑、市場被 CES／MWC／Computex／IFA 分食的原因，並點名「每年 6 月的台北國際電腦展對亞洲接單廠商有地利之便，規模一再擴大」。
+[^7]: [中央社：德國 CeBIT 電腦展走入歷史（2018）](https://www.cna.com.tw/news/firstnews/201811295002.aspx) — 報導德國漢諾威 CeBIT 於 2018 年 11 月宣布停辦，分析參觀與參展人數下滑、市場被 CES／MWC／COMPUTEX／IFA 分食的原因，並點名「每年 6 月的台北國際電腦展對亞洲接單廠商有地利之便，規模一再擴大」。
 
-[^8]: [科技新報：Computex 2019 InnoVEX 與 show girl 轉型](https://technews.tw/2019/05/02/computex-2019-innovex/) — 報導 Computex 創新與新創展區 InnoVEX 自 2016 年成立、聚焦 AI 與 IoT 的定位，並可對照 2018 年外媒對 show girl 文化的批評與 2019 年外貿協會「鼓勵創意行銷但不強制」的轉型方向。
+[^8]: [科技新報：COMPUTEX 2019 InnoVEX 與 show girl 轉型](https://technews.tw/2019/05/02/computex-2019-innovex/) — 報導 COMPUTEX 創新與新創展區 InnoVEX 自 2016 年成立、聚焦 AI 與 IoT 的定位，並可對照 2018 年外媒對 show girl 文化的批評與 2019 年外貿協會「鼓勵創意行銷但不強制」的轉型方向。
 
-[^9]: [NVIDIA Blog：Jensen Huang Computex 2023 Keynote](https://blogs.nvidia.com/blog/computex-keynote-generative-ai/) — NVIDIA 官方部落格，記錄黃仁勳 2023 年 5 月 29 日於 Computex 發表疫情後首場實體主題演講，宣布 Grace Hopper 超級晶片量產、DGX GH200 超級電腦（NVLink 串接 256 顆晶片、1 exaflop），主軸為把生成式 AI 帶進每個資料中心。
+[^9]: [NVIDIA Blog：Jensen Huang COMPUTEX 2023 Keynote](https://blogs.nvidia.com/blog/computex-keynote-generative-ai/) — NVIDIA 官方部落格，記錄黃仁勳 2023 年 5 月 29 日於 COMPUTEX 發表疫情後首場實體主題演講，宣布 Grace Hopper 超級晶片量產、DGX GH200 超級電腦（NVLink 串接 256 顆晶片、1 exaflop），主軸為把生成式 AI 帶進每個資料中心。
 
 [^10]: [經濟日報：黃仁勳台大演講「台灣是無名的英雄」（2024）](https://money.udn.com/money/story/5612/8009818) — 報導黃仁勳 2024 年 6 月 2 日晚間於台大綜合體育館的演講，逐字收錄「台灣是無名的英雄，卻是世界的支柱」「若沒有台灣，輝達的願景只是一個無法實現的夢想」「你們是 AI 產業革新的後盾，無論面對多大的風浪，你始終穩如磐石」。
 
@@ -310,7 +310,7 @@ EVOLVE 新增節（蘇姿丰 2016 主舞台預告 Zen / 資訊月對照 / Tom's 
 
 [^12]: [東森新聞：黃仁勳帶父母逛寧夏夜市請吃豆花（2026）](https://news.ebc.net.tw/news/business/553385) — 報導黃仁勳 2026 年 5 月 25 日訪台期間帶父母至寧夏夜市旁豆花店，掏錢請排隊民眾吃豆花，逐字收錄「我請客喔，拍謝拍謝，我帶我爸爸媽媽來，不會吃太久，大家給我請喔」。
 
-[^13]: [科技新報：Computex 2025 黃仁勳 keynote 重點（2025）](https://finance.technews.tw/2025/05/19/computex-2025-nvidia-brief/) — 報導 2025 年 Computex 主軸「AI NEXT」、黃仁勳於台北流行音樂中心演講，發表 GB300、與鴻海／國科會／台積電合作建置台灣 AI 基礎設施，以及 NVIDIA 台灣辦公室落腳北投士林的規劃。
+[^13]: [科技新報：COMPUTEX 2025 黃仁勳 keynote 重點（2025）](https://finance.technews.tw/2025/05/19/computex-2025-nvidia-brief/) — 報導 2025 年 COMPUTEX 主軸「AI NEXT」、黃仁勳於台北流行音樂中心演講，發表 GB300、與鴻海／國科會／台積電合作建置台灣 AI 基礎設施，以及 NVIDIA 台灣辦公室落腳北投士林的規劃。
 
 [^14]: [聯合報：黃志芳談 COMPUTEX 2026 雙展區與 AI Together（2026）](https://udn.com/news/story/7240/9536845) — 收錄外貿協會董事長黃志芳逐字發言「首度採用雙展區模式，除南港展覽館一、二館外，更重返世貿一館，成為史上規模最大的一屆展會」「AI Together 象徵台灣攜手全球科技產業，共同打造未來 AI 文明的新篇章」，及世貿一館 AI 機器人區、電子紙專區、TechXperience 三大專區與實體 AI、具身智慧的規劃。
 
@@ -318,7 +318,7 @@ EVOLVE 新增節（蘇姿丰 2016 主舞台預告 Zen / 資訊月對照 / Tom's 
 
 [^16]: [工商時報：COMPUTEX 2026 台廠攤位與液冷成標配（2026）](https://www.ctee.com.tw/news/20260525700049-439901) — 報導 2026 年鴻海以最大攤位展出 Vera Rubin NVL72 運算機櫃與機器人、廣達與緯創攤位規模，以及因 GPU 算力升高、氣冷達物理極限，液冷散熱成各大代工廠標準展品，供應鏈從組裝 AI 伺服器延伸到組裝 AI 機器人。
 
-[^17]: [工商時報：COMPUTEX 2026 史上最大、估吸引 4 萬國際買主（2026）](https://www.ctee.com.tw/news/20260531700013-430105) — 報導 2026 年 Computex 為史上規模最大一屆，含展期、規模數字與預估四萬名國際買主，以及 Marvell、恩智浦（NXP）等執行長以 AI 基礎建設、實體 AI 為題的演講安排。
+[^17]: [工商時報：COMPUTEX 2026 史上最大、估吸引 4 萬國際買主（2026）](https://www.ctee.com.tw/news/20260531700013-430105) — 報導 2026 年 COMPUTEX 為史上規模最大一屆，含展期、規模數字與預估四萬名國際買主，以及 Marvell、恩智浦（NXP）等執行長以 AI 基礎建設、實體 AI 為題的演講安排。
 
 [^18]: [EE Times Taiwan：台灣代工佔全球 AI 伺服器出貨近九成（2024）](https://www.eettaiwan.com/20240118nt21-ai-server/) — 引述研究機構估計，台灣廠商（廣達、緯創、緯穎、英業達、鴻海等）代工佔全球 AI 伺服器出貨近九成，並說明台積電生產全球逾九成最先進晶片、CoWoS 先進封裝為 AI 算力瓶頸的供應鏈定位。
 
@@ -334,13 +334,13 @@ EVOLVE 新增節（蘇姿丰 2016 主舞台預告 Zen / 資訊月對照 / Tom's 
 
 [^24]: [TradingKey：Jensen Huang's GTC Taipei 2026 Keynote — AI Enters Agentic Era（2026）](https://www.tradingkey.com/analysis/stocks/us-stocks/261938407-nvda-verarubin-ai-jensenhuang-nvidia-tradingkey) — 整理黃仁勳 2026 GTC Taipei 主題演講「It is great to be back home」「AI agents will be the largest users of computing. Vera is the first CPU designed for that future」「Taiwan possesses the world's best supply chain ecosystem」逐字 quote，並補述 Vera Rubin 量產時程與 Blackwell Ultra 升級。
 
-[^25]: [Seeking Alpha：Nvidia highlights agentic and physical AI partnerships at Computex（2026）](https://seekingalpha.com/news/4598749-nvidia-highlights-agentic-and-physical-ai-key-partnerships-at-computex) — 收錄黃仁勳於 2026 GTC Taipei「agentic AI has arrived, that useful AI has arrived」逐字、實體 AI 與重要合作夥伴佈局，並回應華爾街對 NVIDIA 在 Computex 2026 的戰略位置。
+[^25]: [Seeking Alpha：Nvidia highlights agentic and physical AI partnerships at COMPUTEX（2026）](https://seekingalpha.com/news/4598749-nvidia-highlights-agentic-and-physical-ai-key-partnerships-at-computex) — 收錄黃仁勳於 2026 GTC Taipei「agentic AI has arrived, that useful AI has arrived」逐字、實體 AI 與重要合作夥伴佈局，並回應華爾街對 NVIDIA 在 COMPUTEX 2026 的戰略位置。
 
 [^26]: [Qualcomm Newsroom／TradingView：Qualcomm says 2026 is the 'Year of Agents' — unveils Dragonfly AI data center brand（2026）](https://www.tradingview.com/news/marketbeat:3e38e4ea4094b:0-qualcomm-says-2026-is-the-year-of-agents-unveils-dragonfly-ai-data-center-brand/) — 報導 Cristiano Amon 於 2026 年 6 月 1 日南港展覽館二館開幕演講，定調「Year of Agents」與 Qualcomm 資料中心新品牌 Dragonfly，含與 TSMC 及台灣 ODM 合作細節。
 
-[^27]: [Intel Newsroom：COMPUTEX 2026 — An Intelligent World Built on Silicon（2026）](https://newsroom.intel.com/artificial-intelligence/computex-2026-an-intelligent-world-built-on-silicon) — 英特爾官方新聞稿，記錄陳立武（Lip-Bu Tan）首次以 Intel CEO 身分於 Computex 2026 發表的主題演講，含「x86 has powered data centers for more than five decades」「compute must be reinvented beyond the socket to rackscale systems to accommodate the needs of agentic AI workloads」逐字、Xeon 6+ 與 Rackscale Blueprints 介紹。
+[^27]: [Intel Newsroom：COMPUTEX 2026 — An Intelligent World Built on Silicon（2026）](https://newsroom.intel.com/artificial-intelligence/computex-2026-an-intelligent-world-built-on-silicon) — 英特爾官方新聞稿，記錄陳立武（Lip-Bu Tan）首次以 Intel CEO 身分於 COMPUTEX 2026 發表的主題演講，含「x86 has powered data centers for more than five decades」「compute must be reinvented beyond the socket to rackscale systems to accommodate the needs of agentic AI workloads」逐字、Xeon 6+ 與 Rackscale Blueprints 介紹。
 
-[^28]: [TaiwanPlus：AMD's Lisa Su kicks off CEO-studded Computex show in Taipei, announces \$10B Taiwan investment（2026）](https://www.taiwanplus.com/news/taiwan-news/technology-and-science/240603004/amds-lisa-su-kicks-off-ceo-studded-computex-show-in-taipei) — 報導蘇姿丰 2026 年 5 月 20-21 日訪台五天行程、宣布 AMD 在台灣未來數年加碼一百億美元投資的細節（含台積電合作與台灣研發中心擴編），並說明她連續第二年沒有 keynote Computex 主舞台、CES 2026 主要 keynote 已交給 Jack Huynh。
+[^28]: [TaiwanPlus：AMD's Lisa Su kicks off CEO-studded COMPUTEX show in Taipei, announces \$10B Taiwan investment（2026）](https://www.taiwanplus.com/news/taiwan-news/technology-and-science/240603004/amds-lisa-su-kicks-off-ceo-studded-computex-show-in-taipei) — 報導蘇姿丰 2026 年 5 月 20-21 日訪台五天行程、宣布 AMD 在台灣未來數年加碼一百億美元投資的細節（含台積電合作與台灣研發中心擴編），並說明她連續第二年沒有 keynote COMPUTEX 主舞台、CES 2026 主要 keynote 已交給 Jack Huynh。
 
 [^29]: [Wikipedia：Taipei Nangang Exhibition Center](https://en.wikipedia.org/wiki/Taipei_Nangang_Exhibition_Center) — 收錄南港展覽館一館 2005 年 3 月動土、2008 年 3 月啟用、總投資約 1.1 億美元，以及二館後續加蓋的場館建設史與 COMPUTEX 進駐時序。
 
@@ -356,15 +356,15 @@ EVOLVE 新增節（蘇姿丰 2016 主舞台預告 Zen / 資訊月對照 / Tom's 
 
 [^35]: [Wccftech：Intel 14nm Broadwell Q4 2014 delay confirmed](https://wccftech.com/intel-14nm-broadwell-q4-2014-delay-rumor-confirmed/) — 報導 Intel 14 奈米 Broadwell 製程從原訂 Q2 2014 量產延到 Q4 2014、Q1 2015 才完整上市，含製程良率問題與 Tick-Tock 節奏從此被打亂改為 Process-Architecture-Optimization 三年週期的內幕。
 
-[^36]: [Guru3D：More on Intel 14nm Broadwell Q4 2014 delay](https://www.guru3d.com/news-story/more-on-intel-14nm-broadwell-q4-2014-delay.html) — 補述 Intel 14 奈米 Broadwell 延期的供應鏈影響、原本應該登場的 Computex 時間點，以及 AMD 在 Intel 卡關期間擬定 Zen 翻盤計劃的時序對照。
+[^36]: [Guru3D：More on Intel 14nm Broadwell Q4 2014 delay](https://www.guru3d.com/news-story/more-on-intel-14nm-broadwell-q4-2014-delay.html) — 補述 Intel 14 奈米 Broadwell 延期的供應鏈影響、原本應該登場的 COMPUTEX 時間點，以及 AMD 在 Intel 卡關期間擬定 Zen 翻盤計劃的時序對照。
 
-[^37]: [Wikipedia：Computex](https://en.wikipedia.org/wiki/Computex) — 英文維基 Computex 條目，收錄 2012 全球 PC 出貨首次年減、PC 寒冬時期 Computex 在媒體敘事中地位下滑、2016 InnoVEX 設立、2018 CeBIT 停辦後 Computex 重新被注意到等關鍵節點。
+[^37]: [Wikipedia：COMPUTEX](https://en.wikipedia.org/wiki/Computex) — 英文維基 COMPUTEX 條目，收錄 2012 全球 PC 出貨首次年減、PC 寒冬時期 COMPUTEX 在媒體敘事中地位下滑、2016 InnoVEX 設立、2018 CeBIT 停辦後 COMPUTEX 重新被注意到等關鍵節點。
 
-[^38]: [Wccftech：AMD Announces Zen 40% IPC Improvement Over Excavator（2016）](https://wccftech.com/amd-zen-architecture-release-schedule-revealed-rolled-server-market/) — 報導 2016 年 6 月 1 日蘇姿丰於 Computex AMD keynote 主舞台預告 Zen 架構，含「Zen is delivering 40 percent more IPC than our previous processor」逐字、Summit Ridge 8 核工作矽展示與 2017 Q1 Ryzen 消費端時程。
+[^38]: [Wccftech：AMD Announces Zen 40% IPC Improvement Over Excavator（2016）](https://wccftech.com/amd-zen-architecture-release-schedule-revealed-rolled-server-market/) — 報導 2016 年 6 月 1 日蘇姿丰於 COMPUTEX AMD keynote 主舞台預告 Zen 架構，含「Zen is delivering 40 percent more IPC than our previous processor」逐字、Summit Ridge 8 核工作矽展示與 2017 Q1 Ryzen 消費端時程。
 
-[^39]: [PC Perspective：Computex 2016 — Here It Is! Your Moment of Zen!（2016-06-01）](https://pcper.com/2016/06/computex-2016-here-it-is-your-moment-of-zen/) — 現場一手報導蘇姿丰 2016 年 6 月 1 日 Computex keynote 結尾預告 Zen 架構，含「Zen is a from scratch architectural design, for those of us who do those you know it takes a lot of work」逐字、現場 demo 與當時媒體質疑 AMD 「from scratch」承諾的氛圍。
+[^39]: [PC Perspective：COMPUTEX 2016 — Here It Is! Your Moment of Zen!（2016-06-01）](https://pcper.com/2016/06/computex-2016-here-it-is-your-moment-of-zen/) — 現場一手報導蘇姿丰 2016 年 6 月 1 日 COMPUTEX keynote 結尾預告 Zen 架構，含「Zen is a from scratch architectural design, for those of us who do those you know it takes a lot of work」逐字、現場 demo 與當時媒體質疑 AMD 「from scratch」承諾的氛圍。
 
-[^40]: [TweakTown：AMD will unveil Polaris GPUs and Zen APUs on June 1（2016）](https://www.tweaktown.com/news/52205/amd-unveil-new-polaris-gpus-zen-apus-june-1/index.html) — 預告 AMD 於 2016 年 6 月 1 日 Computex 公布 Polaris 顯卡與 Zen APU 的時程，回顧時可對照 AMD 從 2014 蘇姿丰接任到 2016 Zen 預告的兩年戰略佈局。
+[^40]: [TweakTown：AMD will unveil Polaris GPUs and Zen APUs on June 1（2016）](https://www.tweaktown.com/news/52205/amd-unveil-new-polaris-gpus-zen-apus-june-1/index.html) — 預告 AMD 於 2016 年 6 月 1 日 COMPUTEX 公布 Polaris 顯卡與 Zen APU 的時程，回顧時可對照 AMD 從 2014 蘇姿丰接任到 2016 Zen 預告的兩年戰略佈局。
 
 [^41]: [Wikipedia：Lisa Su](https://en.wikipedia.org/wiki/Lisa_Su) — 收錄蘇姿丰 1969 年生於台南、3 歲隨家移美紐約皇后區、父親蘇春槐統計學家、母親會計、麻省理工博士、IBM 與 Freescale 經歷、2014 接任 AMD CEO 後推動 Zen 翻盤的完整生平。
 
@@ -374,15 +374,15 @@ EVOLVE 新增節（蘇姿丰 2016 主舞台預告 Zen / 資訊月對照 / Tom's 
 
 [^44]: [維基百科：資訊月](https://zh.wikipedia.org/wiki/%E8%B3%87%E8%A8%8A%E6%9C%88) — 收錄資訊月由 1980 年「資訊週」起家、1985 年改名「資訊月」、2001 年由台北市電腦同業公會交給民間八個公會聯辦的沿革，以及 2010 年代後參觀與展銷規模逐漸萎縮的觀察。
 
-[^45]: [Tom's Hardware：Unfiltered Computex 2026 Day 4 — the B2B shift, and we say farewell to Taipei（2026-06-05）](https://www.tomshardware.com/tech-industry/toms-hardware-unfiltered-computex-2026-day-4-the-b2b-shift-and-we-say-farewell-to-taipei) — Shields/Kampman/Roach/Alcorn 共筆收尾文，整週觀察結論「Computex 2026 had far more B2B-focused companies in attendance, whereas in the past, the show typically featured strictly consumer products and companies that feed into that ecosystem」逐字。
+[^45]: [Tom's Hardware：Unfiltered COMPUTEX 2026 Day 4 — the B2B shift, and we say farewell to Taipei（2026-06-05）](https://www.tomshardware.com/tech-industry/toms-hardware-unfiltered-computex-2026-day-4-the-b2b-shift-and-we-say-farewell-to-taipei) — Shields/Kampman/Roach/Alcorn 共筆收尾文，整週觀察結論「COMPUTEX 2026 had far more B2B-focused companies in attendance, whereas in the past, the show typically featured strictly consumer products and companies that feed into that ecosystem」逐字。
 
-[^46]: [Tom's Hardware：Unfiltered Computex 2026 Day 0 — peek behind the curtain（2026-06-01）](https://www.tomshardware.com/tech-industry/toms-hardware-unfiltered-computex-2026-day-0-peek-behind-the-curtain-to-see-how-were-covering-the-biggest-trade-show-of-the-year) — Jeffrey Kampman 開幕前撰文，「In a world where nobody is launching truly new graphics cards, my Computex week will almost certainly be defined by data center products, integrated graphics processors, and AI accelerators of various shapes and sizes」逐字，為消費端被拋棄敘事提供開幕前的預兆。
+[^46]: [Tom's Hardware：Unfiltered COMPUTEX 2026 Day 0 — peek behind the curtain（2026-06-01）](https://www.tomshardware.com/tech-industry/toms-hardware-unfiltered-computex-2026-day-0-peek-behind-the-curtain-to-see-how-were-covering-the-biggest-trade-show-of-the-year) — Jeffrey Kampman 開幕前撰文，「In a world where nobody is launching truly new graphics cards, my COMPUTEX week will almost certainly be defined by data center products, integrated graphics processors, and AI accelerators of various shapes and sizes」逐字，為消費端被拋棄敘事提供開幕前的預兆。
 
-[^47]: [PC Gamer：Computex 2026 has really highlighted the fact that PC gaming tech isn't all about gaming anymore（2026）](https://www.pcgamer.com/hardware/computex-2026-has-really-highlighted-the-fact-that-pc-gaming-tech-isnt-all-about-gaming-anymore/) — PC Gamer 現場觀察文，從遊戲玩家角度回看 Computex 2026「PC gaming tech isn't all about gaming anymore」的展場景象與感受。
+[^47]: [PC Gamer：COMPUTEX 2026 has really highlighted the fact that PC gaming tech isn't all about gaming anymore（2026）](https://www.pcgamer.com/hardware/computex-2026-has-really-highlighted-the-fact-that-pc-gaming-tech-isnt-all-about-gaming-anymore/) — PC Gamer 現場觀察文，從遊戲玩家角度回看 COMPUTEX 2026「PC gaming tech isn't all about gaming anymore」的展場景象與感受。
 
 [^48]: [Tom's Hardware：IDC expects PC prices to jump 8% in 2026 due to memory shortages（2026）](https://www.tomshardware.com/tech-industry/idc-expects-average-pc-prices-to-jump-by-up-to-8-percent-in-2026-due-to-crushing-memory-shortages-some-vendors-already-selling-pre-builts-without-ram) — 引 IDC 報告，2026 年第一季消費級 DRAM 漲 110%、SSD 漲 147%、32GB DDR5 套組從 100 美元上下推到 350 美元以上的市場數據。
 
-[^49]: [Tom's Hardware：AMD RDNA 5 gaming GPUs coming late 2027 according to AIBs at Computex](https://www.tomshardware.com/pc-components/gpus/amds-rdna-5-gaming-gpus-are-coming-late-next-year-according-to-aibs-at-computex-manufacturers-expect-new-team-red-cards-in-the-second-half-of-2027-alongside-nvidia) — Computex 2026 現場代工廠透露 AMD RDNA 5 遊戲顯卡推遲至 2027 年下半年、NVIDIA 下一代消費級顯卡同期登場的時程，是消費端被拋棄敘事的硬證據。
+[^49]: [Tom's Hardware：AMD RDNA 5 gaming GPUs coming late 2027 according to AIBs at COMPUTEX](https://www.tomshardware.com/pc-components/gpus/amds-rdna-5-gaming-gpus-are-coming-late-next-year-according-to-aibs-at-computex-manufacturers-expect-new-team-red-cards-in-the-second-half-of-2027-alongside-nvidia) — COMPUTEX 2026 現場代工廠透露 AMD RDNA 5 遊戲顯卡推遲至 2027 年下半年、NVIDIA 下一代消費級顯卡同期登場的時程，是消費端被拋棄敘事的硬證據。
 
 [^50]: [DCD：TSMC could account for 24% of Taiwan's electricity consumption by 2030（cite S&P Global）](https://www.datacenterdynamics.com/en/news/tsmc-could-account-for-24-of-taiwans-electricity-consumption-by-2030/) — 引 S&P Global 模型估算：台積電在 2024 年用電約占台灣全國 8%、占工業部門 16%，到 2030 年因晶圓產能比 2023 年多 90% 達 794GW，可能上看 24%。
 
