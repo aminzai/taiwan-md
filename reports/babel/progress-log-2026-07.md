@@ -22220,3 +22220,105 @@ endpoint 探活：local 🟢、laptop-4090 🔴、laptop-5090 🔴、desktop-309
 endpoint 探活：local 🟢、laptop-4090 🔴、laptop-5090 🔴、desktop-3090 🟢、mac-m4max 🟢
 
 （babel-pulse 常駐儀器自動快照）
+
+## 2026-07-29T17:53:06+08:00（zh 總數 871）
+
+| 語言 | fresh | stale | missing | 覆蓋率 | Δfresh | Δmissing |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| en | 818 | 34 | 19 | 97.8% | · | · |
+| ja | 817 | 48 | 6 | 99.3% | +1 | · |
+| ko | 842 | 24 | 5 | 99.4% | · | · |
+| es | 840 | 26 | 5 | 99.4% | · | · |
+| fr | 838 | 30 | 3 | 99.7% | · | · |
+| vi | 340 | 8 | 523 | 40.0% | · | · |
+| id | 434 | 2 | 435 | 50.1% | +1 | -1 |
+| pt | 729 | 6 | 136 | 84.4% | · | · |
+| hi | 532 | 1 | 338 | 61.2% | +2 | -2 |
+| ar | 575 | 0 | 296 | 66.0% | · | · |
+| ru | 610 | 1 | 260 | 70.1% | +1 | -1 |
+
+總缺口（stale+missing）：**2206**（▼5 vs 上一筆）
+
+**節點／worker**（ok/fail 為累計；Δ為對上一筆）
+
+| 節點 | ok | fail | Δok | 平均秒 | 主要 fail |
+| --- | ---: | ---: | ---: | ---: | --- |
+| worker:d3090 | 9 | 56 | · | 737.5 | no output written by tra×28；verify=3 [translation ra×5 |
+| worker:dead | 0 | 1 | · | — | no backend available to ×1 |
+| worker:desktop30901 | 15 | 52 | · | 676.4 | no output written by tra×18；health [image-health]×7 |
+| worker:desktop30902 | 9 | 63 | · | 428.2 | no output written by tra×20；health [image-health]×9 |
+| worker:desktop30903 | 8 | 52 | · | 757.4 | no output written by tra×19；health [image-health]×8 |
+| worker:l4090 | 47 | 148 | · | 106.1 | health×41；no output written by tra×37 |
+| worker:laguna | 23 | 64 | · | 337.1 | no output written by tra×44；health×12 |
+| worker:laguna2 | 31 | 79 | · | 341.8 | no output written by tra×52；health×10 |
+| worker:laguna3 | 26 | 63 | · | 326.4 | no output written by tra×44；health×8 |
+| worker:laptop40901 | 13 | 113 | · | 282.7 | verify=4 [translation ra×31；no output written by tra×20 |
+| worker:laptop40902 | 12 | 84 | · | 388.3 | patch candidate rejected×21；verify=4 [translation ra×18 |
+| worker:laptop40903 | 9 | 72 | · | 250.2 | patch candidate rejected×15；no output written by tra×11 |
+| worker:mac | 43 | 186 | · | 225.7 | leak×70；health×36 |
+| worker:mac1 | 0 | 1 | · | — | verify=4×1 |
+| worker:mac2 | 1 | 1 | · | 691.3 | leak×1 |
+| worker:mac3 | 0 | 1 | · | — | verify=3×1 |
+| worker:macm4max | 3 | 13 | · | 639.8 | patch candidate rejected×4；health [image-health]×3 |
+| worker:macm4max1 | 0 | 3 | · | — | leak×1；verify=1 [frontmatter no×1 |
+| worker:macm4max2 | 0 | 2 | · | — | no output written by tra×1；leak×1 |
+| worker:macm4max3 | 0 | 2 | · | — | no output written by tra×1；verify=3 [footnote count×1 |
+| worker:nemo | 173 | 264 | · | 230.4 | leak×116；health×36 |
+| worker:nemo2 | 151 | 250 | +3 | 247.7 | leak×116；no output written by tra×44 |
+| worker:nemo3 | 170 | 236 | +1 | 231.3 | leak×120；no output written by tra×44 |
+| worker:nemo4 | 146 | 265 | +1 | 218.8 | leak×121；no output written by tra×50 |
+
+endpoint 探活：local 🟢、laptop-4090 🔴、laptop-5090 🔴、desktop-3090 🟢、mac-m4max 🟢
+
+（babel-pulse 常駐儀器自動快照）
+
+## 2026-07-29T18:08:19+08:00（zh 總數 871）
+
+| 語言 | fresh | stale | missing | 覆蓋率 | Δfresh | Δmissing |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| en | 818 | 34 | 19 | 97.8% | · | · |
+| ja | 818 | 47 | 6 | 99.3% | +1 | · |
+| ko | 842 | 24 | 5 | 99.4% | · | · |
+| es | 840 | 26 | 5 | 99.4% | · | · |
+| fr | 838 | 30 | 3 | 99.7% | · | · |
+| vi | 340 | 8 | 523 | 40.0% | · | · |
+| id | 434 | 2 | 435 | 50.1% | · | · |
+| pt | 731 | 6 | 134 | 84.6% | +2 | -2 |
+| hi | 532 | 1 | 338 | 61.2% | · | · |
+| ar | 578 | 0 | 293 | 66.4% | +3 | -3 |
+| ru | 611 | 1 | 259 | 70.3% | +1 | -1 |
+
+總缺口（stale+missing）：**2199**（▼7 vs 上一筆）
+
+**節點／worker**（ok/fail 為累計；Δ為對上一筆）
+
+| 節點 | ok | fail | Δok | 平均秒 | 主要 fail |
+| --- | ---: | ---: | ---: | ---: | --- |
+| worker:d3090 | 9 | 56 | · | 737.5 | no output written by tra×28；verify=3 [translation ra×5 |
+| worker:dead | 0 | 1 | · | — | no backend available to ×1 |
+| worker:desktop30901 | 15 | 53 | · | 676.4 | no output written by tra×19；health [image-health]×7 |
+| worker:desktop30902 | 9 | 64 | · | 428.2 | no output written by tra×21；health [image-health]×9 |
+| worker:desktop30903 | 8 | 53 | · | 757.4 | no output written by tra×20；health [image-health]×8 |
+| worker:l4090 | 47 | 148 | · | 106.1 | health×41；no output written by tra×37 |
+| worker:laguna | 23 | 64 | · | 337.1 | no output written by tra×44；health×12 |
+| worker:laguna2 | 31 | 79 | · | 341.8 | no output written by tra×52；health×10 |
+| worker:laguna3 | 26 | 63 | · | 326.4 | no output written by tra×44；health×8 |
+| worker:laptop40901 | 13 | 113 | · | 282.7 | verify=4 [translation ra×31；no output written by tra×20 |
+| worker:laptop40902 | 12 | 84 | · | 388.3 | patch candidate rejected×21；verify=4 [translation ra×18 |
+| worker:laptop40903 | 9 | 72 | · | 250.2 | patch candidate rejected×15；no output written by tra×11 |
+| worker:mac | 43 | 186 | · | 225.7 | leak×70；health×36 |
+| worker:mac1 | 0 | 1 | · | — | verify=4×1 |
+| worker:mac2 | 1 | 1 | · | 691.3 | leak×1 |
+| worker:mac3 | 0 | 1 | · | — | verify=3×1 |
+| worker:macm4max | 3 | 13 | · | 639.8 | patch candidate rejected×4；health [image-health]×3 |
+| worker:macm4max1 | 0 | 3 | · | — | leak×1；verify=1 [frontmatter no×1 |
+| worker:macm4max2 | 0 | 2 | · | — | no output written by tra×1；leak×1 |
+| worker:macm4max3 | 0 | 2 | · | — | no output written by tra×1；verify=3 [footnote count×1 |
+| worker:nemo | 175 | 267 | +2 | 229.3 | leak×117；health×36 |
+| worker:nemo2 | 156 | 252 | +5 | 244.4 | leak×118；no output written by tra×44 |
+| worker:nemo3 | 170 | 236 | · | 231.3 | leak×120；no output written by tra×44 |
+| worker:nemo4 | 146 | 265 | · | 218.8 | leak×121；no output written by tra×50 |
+
+endpoint 探活：local 🟢、laptop-4090 🔴、laptop-5090 🔴、desktop-3090 🟢、mac-m4max 🟢
+
+（babel-pulse 常駐儀器自動快照）
