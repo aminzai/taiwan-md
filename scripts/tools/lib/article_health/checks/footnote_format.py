@@ -119,6 +119,15 @@ def fix(target: FileTarget, config: dict[str, Any]) -> int:
     _TRAILING_PUNCT_LINK = re.compile(
         r"^(\[\^[0-9a-zA-Z_-]+\]:)\s+(\[[^\]]+\])\((https?://[^)]+)\)[。.]\s*$"
     )
+    # Model occasionally wraps an otherwise complete canonical markdown link
+    # in one redundant pair of brackets:
+    # `[^N]: [[Title](URL)] — desc`.  Title/URL/desc are all present, so removing
+    # only the outer brackets is lossless. `title` is greedy on purpose because
+    # translated titles may themselves contain a footnote ref such as `[^1]`.
+    _OUTER_BRACKET_LINK = re.compile(
+        r"^(\[\^[0-9a-zA-Z_-]+\]:)\s+\[\[(.+)\]\((<[^>\s]+>|[^)\s]+)\)\]"
+        r"\s+[—-]\s*(.{6,})$"
+    )
     # Non-em-dash separator: `[^N]: [Title](URL)<sep><rest>` where sep is `，`,
     # `（` (full-width paren — no space needed), or whitespace. SAFE transform:
     # normalize to canonical ` — `.
@@ -155,6 +164,13 @@ def fix(target: FileTarget, config: dict[str, Any]) -> int:
         if m:
             prefix, title, url = m.groups()
             lines[i] = f"{prefix} {title}({url}) — {ff.desc_for_url(url)}"
+            changes += 1
+            continue
+        # Pattern 1.75: redundant outer brackets around a complete link.
+        m = _OUTER_BRACKET_LINK.match(line)
+        if m:
+            prefix, title, url, desc = m.groups()
+            lines[i] = f"{prefix} [{title}]({url}) — {desc}"
             changes += 1
             continue
         # Pattern 2: safe canonical (`[^N]: [Title](URL)` with optional desc)

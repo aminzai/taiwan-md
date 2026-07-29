@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.20)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.21)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.20'
+current_version: 'v1.21'
 last_updated: 2026-07-29
-last_session: '2026-07-29-vortex-structured-angle-url'
+last_session: '2026-07-29-vortex-footnote-outer-bracket'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.20
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.21
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,12 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.21（2026-07-29）：safe-only footnote healer 收編完整 link 被多包一層
+  方括號的無損形狀：`[^N]: [[Title](URL)] — desc`。本輪唐鳳隔離樣本兩行
+  title／URL／description 全都存在，只有外層 `[...]` 多餘；舊 healer 不動，
+  因而整篇死於 footnote-format。新規則只匹配腳註定義整行且 desc ≥6 字，
+  僅移除冗餘外括號；title 內的 `[^1]` 引用、URL 與描述 byte-preserved，
+  hard gate 不變。
 - v1.20（2026-07-29）：把 v1.19 的含括號 URL 修復收斂到 structured
   fallback 的獨立 Phase N/B parser。v1.19 上線後仍有 id／vi 三個腳註變成
   `[[Title](<](<URL%3E>))`；追查不是 whole translator 回歸，而是
