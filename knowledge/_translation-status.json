@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-29T15:05:44+08:00",
-    "zhCommitHead": "db07cc97a",
+    "lastUpdated": "2026-07-29T15:19:04+08:00",
+    "zhCommitHead": "e84995b55",
     "totalZh": 871,
     "activeLanguages": [
       "en",
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 871,
-        "fresh": 572,
+        "fresh": 573,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 299,
+        "missing": 298,
         "orphan": 0
       },
       "ru": {
         "total_zh": 871,
-        "fresh": 605,
+        "fresh": 606,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 265,
+        "missing": 264,
         "orphan": 0
       }
     },
@@ -24073,7 +24073,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Art/yeh-ting-hao.md",
+          "translatedFrom": "Art/葉廷皓.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:63b47718f8145b2c",
+          "sourceBodyHash": "sha256:04f5859af8f97035",
+          "translatedAt": "2026-07-29T12:59:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -35340,7 +35351,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/the-reporter-investigative-journalism.md",
+          "translatedFrom": "Society/報導者.md",
+          "sourceCommitSha": "fd09526d2",
+          "sourceContentHash": "sha256:c9f5767205c4ec79",
+          "sourceBodyHash": "sha256:ca526dda99de158c",
+          "translatedAt": "2026-07-29T12:59:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 60,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -108345,8 +108367,8 @@
           "sourceContentHash": "sha256:6b1de66c12b3c38a",
           "sourceBodyHash": "sha256:c557c6ff09961dc3",
           "translatedAt": "2026-07-29T12:59:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "45684f13",
+          "translationLastModified": "2026-07-29T15:05:44+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
