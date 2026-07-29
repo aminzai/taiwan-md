@@ -18,6 +18,11 @@ REPO=$(pwd)
 
 FLEETCTL="${FLEETCTL:-${HOME}/Projects/muse-bot/fleet/fleetctl}"
 FLEET_ARGS=()
+LAUNCH_LABELS=(
+  "com.taiwanmd.babel.fleet"
+  "com.taiwanmd.babel.cloud"
+  "com.taiwanmd.babel.vi"
+)
 
 echo "🗼 巴別塔渦流重啟 — $(date '+%Y-%m-%d %H:%M:%S')"
 echo ""
@@ -61,6 +66,9 @@ if [ "${1:-}" = "--check" ]; then
     else
       echo "   $log  missing"
     fi
+    if [ -s "${log}.err" ]; then
+      stat -f "   %N  modified=%Sm  bytes=%z" -t "%Y-%m-%d %H:%M:%S" "${log}.err"
+    fi
   done
   echo ""
   echo "▸ 本機 M4 Ollama 實際負載（是否接 Babel 以 fleet control 為準）"
@@ -85,6 +93,15 @@ kill_tree() {
   kill -TERM "$parent" 2>/dev/null || true
 }
 
+# Codex automation 的 exec cell 結束時會回收 cell process group；nohup/disown
+# 只能擋 shell SIGHUP，擋不了宿主生命週期回收。固定 launchd label 才能讓產線
+# 真正跨 wake turn 常駐，同時仍由本腳本統一 remove/restart，不產生第二控制面。
+if command -v launchctl >/dev/null 2>&1; then
+  for label in "${LAUNCH_LABELS[@]}"; do
+    launchctl remove "$label" 2>/dev/null || true
+  done
+fi
+
 dispatcher_pids=$(pgrep -f "[s]cripts/tools/lang-sync/babel-dispatch.py" 2>/dev/null || true)
 if [ -n "$dispatcher_pids" ]; then
   echo "▸ 清理殘留產線"
@@ -94,13 +111,28 @@ if [ -n "$dispatcher_pids" ]; then
   sleep 3
 fi
 
-start() {   # start <logname> <描述> <args...>
+start() {   # start <logname> <launchd-label> <描述> <args...>
   local log="$1"; shift
+  local label="$1"; shift
   local desc="$1"; shift
-  nohup python3 -u scripts/tools/lang-sync/babel-dispatch.py "$@" \
-    --order forward --rounds 300 --commit-every 50 > "/tmp/$log" 2>&1 &
-  echo "   PID $! — $desc"
-  disown
+  local python_bin
+  python_bin=$(command -v python3)
+  : > "/tmp/$log"
+  : > "/tmp/$log.err"
+  if command -v launchctl >/dev/null 2>&1; then
+    launchctl submit -l "$label" -o "/tmp/$log" -e "/tmp/$log.err" -- \
+      "$python_bin" -u "$REPO/scripts/tools/lang-sync/babel-dispatch.py" "$@" \
+      --order forward --rounds 300 --commit-every 50
+    local pid
+    pid=$(launchctl print "gui/$(id -u)/$label" 2>/dev/null |
+      awk '/pid =/{print $3; exit}')
+    echo "   PID ${pid:-pending} — ${desc}（launchd: ${label}）"
+  else
+    nohup "$python_bin" -u "$REPO/scripts/tools/lang-sync/babel-dispatch.py" "$@" \
+      --order forward --rounds 300 --commit-every 50 > "/tmp/$log" 2>&1 &
+    echo "   PID $! — ${desc}（nohup fallback）"
+    disown
+  fi
 }
 
 echo "▸ 起跑（全軍 forward 由新到舊；排序鍵：失敗沉底→新鮮窗→缺頁先於過期→編輯時間）"
@@ -110,24 +142,24 @@ echo "▸ 起跑（全軍 forward 由新到舊；排序鍵：失敗沉底→新�
 # 韓語從退役的 mac 軌併入地端軌；其餘新語仍由品質較穩的 nemotron 軌處理。
 if [ "${#FLEET_ARGS[@]}" -gt 0 ]; then
   if [ "${1:-}" = "--stale-only" ]; then
-    start babel-stale-fleet.log "受管 fleet 四語 stale 專軌" \
+    start babel-stale-fleet.log "${LAUNCH_LABELS[0]}" "受管 fleet 四語 stale 專軌" \
       --langs en,es,fr,ko --priority p1 "${FLEET_ARGS[@]}"
   else
-    start babel-fleet.log "受管 fleet 四語軌" \
+    start babel-fleet.log "${LAUNCH_LABELS[0]}" "受管 fleet 四語軌" \
       --langs en,es,fr,ko "${FLEET_ARGS[@]}"
   fi
 fi
 
 # nemotron 在葡俄阿印尼印地 42-60%，但翻越南語只有 2-6%——所以 vi 不進這軌。
 # ja 暫移入此軌做實績驗收；若 n≥8 仍低於 15%，下一輪再切換模型。
-start babel-cloud.log "雲端 nemotron×4（六語）" --langs ja,id,pt,hi,ar,ru \
+start babel-cloud.log "${LAUNCH_LABELS[1]}" "雲端 nemotron×4（六語）" --langs ja,id,pt,hi,ar,ru \
   --worker "nemo=openrouter:nvidia/nemotron-3-ultra-550b-a55b:free" \
   --worker "nemo2=openrouter:nvidia/nemotron-3-ultra-550b-a55b:free" \
   --worker "nemo3=openrouter:nvidia/nemotron-3-ultra-550b-a55b:free" \
   --worker "nemo4=openrouter:nvidia/nemotron-3-ultra-550b-a55b:free"
 
 # laguna 翻越南語 43-71% 是全場最佳（nemotron 只有 2-6%）——專軌用三併發避單點
-start babel-vi-rescue.log "越南語專軌 laguna×3" --langs vi \
+start babel-vi-rescue.log "${LAUNCH_LABELS[2]}" "越南語專軌 laguna×3" --langs vi \
   --worker "laguna=openrouter:poolside/laguna-xs-2.1:free" \
   --worker "laguna2=openrouter:poolside/laguna-xs-2.1:free" \
   --worker "laguna3=openrouter:poolside/laguna-xs-2.1:free"
