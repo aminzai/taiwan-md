@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-07-30T04:53:30+08:00",
+ "generated_at": "2026-07-30T05:01:52+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-07-30T04:53:24+08:00",
+ "snapshot_ts": "2026-07-30T05:01:46+08:00",
  "total_zh": 871,
  "langs": [
   {
@@ -79,11 +79,11 @@
   {
    "lang": "hi",
    "name": "हिन्दी",
-   "fresh": 540,
+   "fresh": 541,
    "stale": 1,
-   "missing": 330,
-   "coverage_pct": 62.1,
-   "fresh_delta": 0
+   "missing": 329,
+   "coverage_pct": 62.2,
+   "fresh_delta": 1
   },
   {
    "lang": "ar",
@@ -104,19 +104,19 @@
    "fresh_delta": 0
   }
  ],
- "gap_total": 2139,
- "gap_delta": 0,
+ "gap_total": 2138,
+ "gap_delta": -1,
  "rate_1h": {
-  "delta": 11,
-  "span_h": 1.06,
-  "per_hour": 10.3
+  "delta": 9,
+  "span_h": 1.01,
+  "per_hour": 8.9
  },
  "rate_24h": {
-  "delta": 246,
-  "span_h": 24.16,
-  "per_hour": 10.2
+  "delta": 244,
+  "span_h": 24.07,
+  "per_hour": 10.1
  },
- "eta_days": 8.7,
+ "eta_days": 10.0,
  "nodes": {
   "worker:dead": {
    "ok": 0,
@@ -323,9 +323,9 @@
    "last_activity": "2026-07-30T04:37:23+08:00"
   },
   "worker:nemo4": {
-   "ok": 156,
-   "fail": 307,
-   "avg_s": 230.4,
+   "ok": 157,
+   "fail": 308,
+   "avg_s": 240.8,
    "top_fail": [
     [
      "leak",
@@ -336,7 +336,7 @@
      64
     ]
    ],
-   "last_activity": "2026-07-30T04:23:35+08:00"
+   "last_activity": "2026-07-30T04:56:17+08:00"
   },
   "worker:nemo2": {
    "ok": 166,
@@ -534,17 +534,12 @@
   {
    "kind": "unified",
    "pid": "66392",
-   "uptime": "57:42",
+   "uptime": "01:06:04",
    "langs": "ja,id,pt,hi,ar,ru",
    "workers": 4
   }
  ],
  "history": [
-  {
-   "ts": "2026-07-29T14:34:13+08:00",
-   "fresh_total": 7349,
-   "gap_total": 2232
-  },
   {
    "ts": "2026-07-29T14:35:34+08:00",
    "fresh_total": 7349,
@@ -1019,6 +1014,11 @@
    "ts": "2026-07-30T04:53:24+08:00",
    "fresh_total": 7442,
    "gap_total": 2139
+  },
+  {
+   "ts": "2026-07-30T05:01:46+08:00",
+   "fresh_total": 7443,
+   "gap_total": 2138
   }
  ]
 }
