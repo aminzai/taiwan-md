@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# restart-vortex.sh — 一鍵重啟巴別塔三軌（含 fleet 受管接案與編組原則）
+# restart-vortex.sh — 一鍵重啟巴別塔產線（含 fleet 受管接案與編組原則）
 #
 # 為什麼有這支：渦流的產線編組是三天實測演化出來的（模型×語言適配、
 # 擅長語種共軌、專軌避單點），每次重啟手打長指令既慢又容易漏參數。
@@ -21,6 +21,7 @@ FLEET_ARGS=()
 LAUNCH_LABELS=(
   "com.taiwanmd.babel.fleet"
   "com.taiwanmd.babel.cloud"
+  # 保留退役 label 供重啟器清場；不代表下方會重新啟動 vi 軌。
   "com.taiwanmd.babel.vi"
 )
 
@@ -57,10 +58,10 @@ if [ "${1:-}" = "--check" ]; then
     echo "   ⚠️  目前沒有 babel-dispatch.py"
     lane_count=0
   fi
-  echo "   lanes=${lane_count}（有 fleet 額度時預期 3，否則 2）"
+  echo "   lanes=${lane_count}（有 fleet 額度時預期 2，否則 1）"
   echo ""
   echo "▸ lane logs"
-  for log in /tmp/babel-fleet.log /tmp/babel-cloud.log /tmp/babel-vi-rescue.log; do
+  for log in /tmp/babel-fleet.log /tmp/babel-cloud.log; do
     if [ -f "$log" ]; then
       stat -f "   %N  modified=%Sm  bytes=%z" -t "%Y-%m-%d %H:%M:%S" "$log"
     else
@@ -162,15 +163,13 @@ start babel-cloud.log "${LAUNCH_LABELS[1]}" "雲端 nemotron×4（六語）" --l
   --worker "nemo3=openrouter:nvidia/nemotron-3-ultra-550b-a55b:free" \
   --worker "nemo4=openrouter:nvidia/nemotron-3-ultra-550b-a55b:free"
 
-# Laguna 0/44 已撤池。Gemma 4 31B 通過 sovereignty 校準且符合模型級別門檻，
-# 但尚無 vi 完整文章實績；先用單 worker pilot，累積 n>=8 後照 15% 門檻裁決。
-# 這是雲端軌，不使用本機 M4，也不繞過 fleet 的地端接案控制。
-start babel-vi-rescue.log "${LAUNCH_LABELS[2]}" "越南語 Gemma 4 31B 單 worker pilot" --langs vi \
-  --worker "gemma31=openrouter:google/gemma-4-31b-it:free"
+# vi fail-closed：Laguna 已因 0/44 撤池；Gemma 4 31B pilot 又跨兩個 30 分鐘
+# 冷卻窗 6/6 都是 provider capacity 429，沒有拿到任何可做品質裁決的樣本。
+# process alive 不是生產；在容量恢復或出現另一個合格模型前不虛報一條空轉車道。
 
 sleep 3
 echo ""
-echo "▸ 確認：$(pgrep -f babel-dispatch | wc -l | tr -d ' ') 條產線在跑（fleet／cloud／vi，fleet 無額度時為 2）"
+echo "▸ 確認：$(pgrep -f babel-dispatch | wc -l | tr -d ' ') 條產線在跑（fleet／cloud，fleet 無額度時為 1）"
 echo ""
 echo "接下來："
 echo "  巡檢   bash scripts/tools/lang-sync/restart-vortex.sh --check  （或見 BABEL-VORTEX-LOOP.md §三重巡檢）"

@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.36)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.37)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.36'
+current_version: 'v1.37'
 last_updated: 2026-07-30
-last_session: '2026-07-30-vortex-structured-split-and-vi-pilot'
+last_session: '2026-07-30-vortex-phase-n-parser-and-vi-fail-closed'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.36
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.37
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -41,7 +41,7 @@ ScheduleWakeup 的 prompt 固定為三部分，**禁止複寫本檔內容**：
 
 ## 三重巡檢（存活 ≠ 生產，缺一不可）
 
-1. **存活**：`ps` 三產線 PID（fleet／cloud／vi；fleet 無核發額度時為二）
+1. **存活**：`ps` 受管產線 PID（fleet／cloud；fleet 無核發額度時為一）
    ＋ `git status -sb` 確認在 main 分支
 2. **生產**：各 worker 近 45 分實際 report.jsonl 記錄數——零記錄的 worker 去 curl 它的 endpoint（慢 worker 如 laguna 300s+/篇屬正常，先查再判）
 3. **第二訊號源**：fleet registry 的機器狀態交叉比對（讀壞先重讀一次；自癒層在 fleetlib）
@@ -60,7 +60,7 @@ ScheduleWakeup 的 prompt 固定為三部分，**禁止複寫本檔內容**：
 | 1 | 總缺口 ＋ 24h Δ | babel-live.json `gap_total`；Δ 對照 progress jsonl 24h 前值 |
 | 2 | 本小時完成篇數 | report.jsonl 近 60 分 ok 數 |
 | 3 | 速率（篇/hr）＋通過率 | babel-live `rate_1h`；ok/(ok+fail) 近 60 分 |
-| 4 | 產線 N/3 ＋ fleet 接案節點 N/核發節點 | ps 計數；`fleetctl workers --format json`（已套控制面） |
+| 4 | 產線 N/2 ＋ fleet 接案節點 N/核發節點 | ps 計數；`fleetctl workers --format json`（已套控制面） |
 
 **覆蓋率圈圈**（哲宇指定視覺）：十一語 donut grid，SVG circle
 `stroke-dasharray` 按覆蓋率，圈內寫百分比、圈下寫語名＋fresh 數。
@@ -261,6 +261,17 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.37（2026-07-30）：Structured Phase N 補齊兩種原文非單一連結腳註：
+  `[來源一](URL1) + [來源二](URL2)` 現以第一來源作 canonical 主連結、其餘
+  留在受 URL armor 保護的 description；歷史 `[Title. 取自 [](URL))` 形狀也
+  改由專用 parser 無損取出 title／URL。舊版兩者都退到 lossy fallback，把
+  `](` 殘片再包進 `[title](url)`，本輪 id／ar 各一篇因此死於
+  `footnote-format`。Phase N 同時拒收含 Markdown／換行的模型 title，且驗證
+  不過立即不落盤，不再白跑 body 後交給下游隔離。v1.36 的段落二分已在
+  `ru/Geography/changhua-county` 真實成功，另在 ar 樣本完成引擎、但被上述
+  Phase N 缺陷擋下，證明 fallback 機制有效。Gemma 4 31B vi pilot 跨兩個
+  30 分鐘冷卻窗 6/6 都是 provider capacity 429、品質樣本為 0；空轉車道撤下，
+  vi 回到 fail-closed，M4 與 fleet 接案邊界不變。
 - v1.36（2026-07-30）：Structured fallback 的 body chunk 三次失敗後，新增一次
   有界的段落二分救援。近一小時 4 篇都已完成 Phase F/N，只因 1 個 body chunk
   失敗便整篇歸零；新路徑只在至少有兩段時沿最接近中點的段落邊界切成兩半，

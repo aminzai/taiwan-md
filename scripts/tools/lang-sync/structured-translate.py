@@ -90,6 +90,13 @@ MD_TARGET_PATTERN = r"<[^>\s]+>|[^)\s]+"
 FN_CANON_RE = re.compile(
     rf"^\[([^\]]+)\]\(({MD_TARGET_PATTERN})\)(?:\s*—\s*(.*))?$"
 )
+# 原文歷史腳註偶有 `[Title. 取自 [](URL)) — desc`：它不是合法 CommonMark，
+# 但 URL 與可翻譯 title 都可無損辨識。若讓一般 embedded-link regex 先吃，
+# title 會變成 `Title. 取自 [`，Phase N 組裝後再製造一層巢狀壞連結。
+FN_NESTED_EMPTY_LINK_RE = re.compile(
+    rf"^\[([^\]]+?)\s*\[\]\(({MD_TARGET_PATTERN})\)\)"
+    r"(?:\s*—\s*(.*))?$"
+)
 INLINE_FN_REF_RE = re.compile(r"\[\^([^\]]+)\]")
 MD_LINK_URL_RE = re.compile(rf"\]\(({MD_TARGET_PATTERN})\)")
 EMBEDDED_LINK_RE = re.compile(rf"\[([^\]]*)\]\(({MD_TARGET_PATTERN})\)")
@@ -439,10 +446,22 @@ def extract_footnote_defs(body: str) -> list[dict]:
         if canon:
             title, url, desc = canon.group(1), canon.group(2), (canon.group(3) or "")
         else:
-            url_m = re.search(r"https?://\S+", rest)
-            url = url_m.group(0).rstrip(".,，。、") if url_m else ""
-            title = rest[: url_m.start()].strip(" —-") if url_m else rest
-            desc = ""
+            nested = FN_NESTED_EMPTY_LINK_RE.match(rest)
+            leading_link = EMBEDDED_LINK_RE.match(rest)
+            if nested:
+                title, url, desc = nested.group(1), nested.group(2), (nested.group(3) or "")
+            elif leading_link:
+                # 多來源腳註常是 `[來源一](URL1) + [來源二](URL2) — desc`。
+                # 第一個連結作 canonical 主來源，其餘完整留在 desc，後續既有
+                # embedded-link armor 會保護 URL2；不再把 `](` 殘片塞進 title。
+                title, url = leading_link.group(1), leading_link.group(2)
+                desc = rest[leading_link.end():].strip()
+                desc = re.sub(r"^(?:\+|—)\s*", "", desc)
+            else:
+                url_m = re.search(r"https?://\S+", rest)
+                url = url_m.group(0).rstrip(".,，。、") if url_m else ""
+                title = rest[: url_m.start()].strip(" —-") if url_m else rest
+                desc = ""
         desc_protected, link_restore = _protect_embedded_links(desc)
         defs.append({
             "n": n,
@@ -518,6 +537,12 @@ def validate_footnotes(defs: list[dict], translated: dict) -> list[str]:
     trans_ids = set(translated.keys())
     if orig_ids != trans_ids:
         problems.append(f"id set mismatch: missing={orig_ids - trans_ids} extra={trans_ids - orig_ids}")
+    for n, item in translated.items():
+        title = str(item.get("title", ""))
+        if not title.strip():
+            problems.append(f"footnote {n}: title empty")
+        if "\n" in title or "[" in title or "]" in title:
+            problems.append(f"footnote {n}: title contains markdown/newline")
     return problems
 
 
@@ -992,6 +1017,15 @@ def main():
     }
     print(f"  Phase N (footnotes): {metrics['phases']['N']['elapsed_s']}s, "
           f"{len(defs)} defs, {len(fn_problems)} problem(s)")
+
+    # Phase N 的 title 會被工具包進 `[title](url)`；若 title 本身含 `[]`，
+    # 繼續跑 Phase B 只會白花模型時間，最後在 article-health 才死。
+    # 和 failed body chunk 一樣 fail-closed：保留舊譯文、不落半成品。
+    if fn_problems:
+        print(f"❌ Phase N validation failed — aborting, no output written: {fn_problems}")
+        if args.metrics_out:
+            Path(args.metrics_out).write_text(json.dumps(metrics, ensure_ascii=False, indent=2))
+        return 1
 
     # ── Phase B ──
     t0 = time.time()
