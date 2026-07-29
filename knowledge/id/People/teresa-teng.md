@@ -28,7 +28,6 @@ sourceBodyHash: 'sha256:d9aced35b5cf6b29'
 translatedAt: '2026-07-26T14:23:24+08:00'
 ---
 
-```markdown
 # Teresa Teng
 
 > **Ringkasan 30 Detik:** 27 Mei 1989, sebuah konser maraton penggalangan dana 12 jam di lapangan kuda Happy Valley Hong Kong, Teresa Teng berusia 36 tahun mengikat kain putih bertuliskan "Demokrasi Hidup" di kepalanya, menggantung papan tulisan tangan "Tolak Pemerintahan Militer" di dadanya, menyanyikan sebuah lagu yang tidak pernah dinyakannya——〈My Home Is on the Other Side of the Mountain〉. Delapan hari kemudian Beijing memasuki status darurat militer, tournée daratan Tiongkok yang sudah dijadwalkan tahun itu dibatalkan, seumur hidupnya ia tidak pernah lagi menginjak daratan lawan. Wanita ini yang lahir di kelurahan militer Yunlin, dianggap ibu kota lagu cinta dunia Tionghoa, 42 tahun sebenarnya selalu berdiri di garis depan Perang Dingin: berteriak ke daratan Tiongkok dari Kinmen, meraih Japan Cable Awards tiga kali berturut-turut di Tokyo, mendukung 6-4 di Paris, hingga mencari sekantong udara bersih di Chiang Mai.
@@ -230,4 +229,3 @@ Sepanjang hidup ia mencari sekantong udara bersih. Di Kinmen ia bilang mau bawa 
 [^30]: [Kontemporer Tiongkok — Siang Lao Deng Malam Xiao Deng](https://www.ourchinastory.com/zh/3313/%E7%99%BD%E5%A4%A9%E8%81%BD%E8%80%81%E9%84%A7%EF%BC%8C%E6%99%9A%E4%B8%8A%E8%81%BD%E5%B0%8F%E9%84%A7) — Kajian ungkapan lisan rakyat 1980-an (tidak ada sumber tunggal asli, narasi memori kolektif).
 
 [^31]: [InterContinental Chiang Mai Mae Ping — Kamar Kenangan Teresa Teng](https://www.ihg.com/intercontinental/hotels/cn/zh/chiang-mai/cnxhd/hoteldetail) — Dahulu Imperial Mae Ping Hotel (sekarang InterContinental Chiang Mai Mae Ping) lantai 15 kamar kenangan Teresa Teng kondisi sekarang, bisa pesan menginap.
-```

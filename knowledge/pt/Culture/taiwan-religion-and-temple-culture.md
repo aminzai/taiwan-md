@@ -34,7 +34,6 @@ sourceBodyHash: 'sha256:b2ec869950288157'
 translatedAt: '2026-07-27T05:21:34+08:00'
 ---
 
-```markdown
 # Taiwan: a fé nascida do medo — o império religioso da ilha
 
 > **Visão geral em 30 segundos:** Taiwan tem cerca de 15 mil edifícios religiosos registados, mais do que todas as lojas de conveniência da ilha juntas. O mais numeroso não são os templos de Mazu (cerca de 672), como se costuma pensar, mas os de Wangye (cerca de 1 330) — um deus nascido do «envio do navio do rei da peste», especialista em epidemias. Num mesmo templo, pode ver-se a Guanyin budista, o Imperador de Jade taoista e o Deus da Terra popular a partilhar o incenso. Todos os anos, no terceiro mês lunar, mais de um milhão de pessoas acompanha a peregrinação de Mazu de Dajia durante nove dias e oito noites, percorrendo 340 quilómetros. Em 2014, o Xingtian Gong, que recebia seis milhões de visitantes por ano, removeu todos os queimadores de incenso, tornando-se o primeiro grande templo «sem incenso» de Taiwan. Em 2025, o relatório global de liberdade da Freedom House colocou Taiwan como o segundo país mais livre da Ásia. A fé desta ilha nunca foi coisa de nuvens — está no beco da sua casa, desde o momento em que os imigrantes militares do século XVII puseram os pés em terra.
@@ -258,4 +257,3 @@ E esta fé, no final, tornou a ilha livre.
 [^44]: [Catolicismo em Taiwan — Associação Promotora dos Assuntos Católicos](https://www.catholic.org.tw/) — Universidade Fu Jen / colaboração inicial Hospital Mackay / Sociedade das Missões Estrangeiras de Paris em Taitung, dedicação de longo prazo às tribos indígenas
 
 [^45]: [Freedom House 2025: Taiwan em 2.º na Ásia](https://hakkanews.tw/2025/02/26/183472/) — Relatório global de liberdade 2025: Taiwan 94 pontos, 2.º na Ásia (apenas atrás do Japão), notícia da CNA
-```

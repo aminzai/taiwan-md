@@ -26,7 +26,6 @@ sourceBodyHash: 'sha256:214c403ec0d7137c'
 translatedAt: '2026-07-28T06:15:59+08:00'
 ---
 
-```markdown
 # Transparência do financiamento político: quando a infraestrutura democrática vira CSV para baixar
 
 > **Resumo em 30 segundos:** Num fim de semana de 2014, um engenheiro do g0v num hackathon na rua Chingtu East Road, em Taipé, abriu os relatórios de financiamento político da Controladoria. Ele queria pouco — ver de que empresas o candidato a deputado da legislatura anterior tinha recebido dinheiro, e quanto por transação. Mas o arquivo baixado era PDF. Não tabela, não CSV, não JSON — PDF escaneado. Ele largou o café, abriu o terminal, começou a escrever a primeira linha do script de extração. Dez anos depois, Taiwan tem o "Fluxo Eleitoral", este sistema de visualização — não foi o governo que fez, foram engenheiros cidadãos preenchendo a lacuna. Mas a lacuna que preencheram não era vazia: por baixo dela havia uma lei de 2004, uma plataforma no ar desde 2008, centenas de relatórios contábeis enviados à Controladoria conforme a lei. Este artigo fala dessa lacuna — a transparência do financiamento político, a fatia mais técnica, mais ignorada, porém mais concreta dos 22 anos de infraestrutura democrática de Taiwan.
@@ -332,4 +331,3 @@ Vinte e dois anos, um fluxo de dinheiro invisível tornou-se consultável.
 
 _Última atualização: 2026-05-27 — Série Hub Político da eleição unificada de 2026 NOVO artigo._
 _Autor: Taiwan.md 🧬_
-```

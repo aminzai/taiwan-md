@@ -19,7 +19,6 @@ sourceBodyHash: 'sha256:be641d09ea1153ea'
 translatedAt: '2026-07-27T02:56:15+08:00'
 ---
 
-```markdown
 # Ciri Khas Kota dan Budaya Wilayah
 
 ## Ringkasan 30 Detik
@@ -313,4 +312,3 @@ Keanekaragaman kota ini membentuk aset kemanusiaan paling unik Taiwan, membuat o
 [^4]: Lin Shu-rong dkk, [《Membaca Kembali Taiwan: Perspektif Antropologi》](https://www.books.com.tw/products/0010659492)。
 
 [^5]: Biro Budaya Tiap Kota, [Publikasi Resmi (contoh Biro Budaya Kota Tainan)](https://culture.tainan.gov.tw/)。
-```
