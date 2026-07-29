@@ -24,9 +24,13 @@ Per REFLEXES #45: same provider keys share budget. 哲宇 has 5 keys in
 from __future__ import annotations
 
 import json
+import signal
 import sys
+import threading
+import time
 import urllib.error
 import urllib.request
+from contextlib import contextmanager
 from pathlib import Path
 
 from ._base import (
@@ -44,6 +48,43 @@ CREDS_DIR = Path.home() / ".config" / "taiwan-md" / "credentials"
 KEY_FILE = CREDS_DIR / "openrouter.key"
 KEY_ROTATION_DIR = CREDS_DIR / "openrouter-keys"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
+
+
+@contextmanager
+def _wall_clock_deadline(seconds: float):
+    """Enforce one deadline over connect + every streamed read.
+
+    urllib's ``timeout=`` is a per-socket-operation timeout.  A provider that
+    dribbles bytes can therefore keep a request alive indefinitely even though
+    every individual read finishes inside the limit.  On Unix, SIGALRM gives
+    the batch worker the wall-clock semantics the backend API promises.  Keep
+    the socket timeout as the portable fallback outside the main thread.
+    """
+    if (
+        seconds <= 0
+        or threading.current_thread() is not threading.main_thread()
+        or not hasattr(signal, "setitimer")
+    ):
+        yield
+        return
+
+    previous_handler = signal.getsignal(signal.SIGALRM)
+    previous_timer = signal.getitimer(signal.ITIMER_REAL)
+    started = time.monotonic()
+
+    def _raise_timeout(_signum, _frame):
+        raise TimeoutError(f"wall-clock deadline exceeded after {seconds}s")
+
+    signal.signal(signal.SIGALRM, _raise_timeout)
+    signal.setitimer(signal.ITIMER_REAL, seconds)
+    try:
+        yield
+    finally:
+        signal.setitimer(signal.ITIMER_REAL, 0)
+        signal.signal(signal.SIGALRM, previous_handler)
+        if previous_timer[0] > 0:
+            remaining = max(0.000001, previous_timer[0] - (time.monotonic() - started))
+            signal.setitimer(signal.ITIMER_REAL, remaining, previous_timer[1])
 
 
 # Pre-baked model capability tables — pick the right CAPABILITIES for the model.
@@ -131,8 +172,9 @@ class OpenRouterBackend(TranslationBackend):
                 method="POST",
             )
             try:
-                with urllib.request.urlopen(req, timeout=timeout) as resp:
-                    data = json.loads(resp.read())
+                with _wall_clock_deadline(timeout):
+                    with urllib.request.urlopen(req, timeout=timeout) as resp:
+                        data = json.loads(resp.read())
             except urllib.error.HTTPError as e:
                 code = e.code
                 body = e.read().decode("utf-8", errors="replace")[:300]

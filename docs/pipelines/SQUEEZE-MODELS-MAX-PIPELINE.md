@@ -957,6 +957,9 @@ OpenRouter key 輪換只處理 429 等 credential-specific 容量訊號。單次
 必須立即回報 `BackendTimeout`，讓 dispatcher 記錄後前進。禁止把同一個逾時請求
 按 key 數重播：七把 key × 600 秒會把一篇文章放大成 70 分鐘的 worker 佔用，
 而 report 在整篇結束前仍是零，三重巡檢只會看到「存活但不生產」。
+這個上限必須是 connect 到完整 response read 的 wall-clock deadline，不能只靠
+urllib 的 per-socket-operation timeout；上游持續滴流時，後者實測讓單次呼叫活到
+1,205 秒、同篇兩次嘗試佔用 2,404 秒。
 
 2026-07-26 實測（免費雲端池，同批文章、同時段、n≈250）：
 
