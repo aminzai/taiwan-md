@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-30T10:54:00+08:00",
-    "zhCommitHead": "cd7547145",
+    "lastUpdated": "2026-07-30T11:10:01+08:00",
+    "zhCommitHead": "a9a24340c",
     "totalZh": 871,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 871,
-        "fresh": 823,
-        "stale": 42,
+        "fresh": 824,
+        "stale": 41,
         "metadata_stale": 0,
         "missing": 6,
         "orphan": 0
@@ -67,26 +67,26 @@
       },
       "id": {
         "total_zh": 871,
-        "fresh": 449,
+        "fresh": 450,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 420,
+        "missing": 419,
         "orphan": 0
       },
       "pt": {
         "total_zh": 871,
-        "fresh": 751,
+        "fresh": 752,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 114,
+        "missing": 113,
         "orphan": 0
       },
       "hi": {
         "total_zh": 871,
-        "fresh": 544,
+        "fresh": 545,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 326,
+        "missing": 325,
         "orphan": 0
       },
       "ar": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 871,
-        "fresh": 640,
+        "fresh": 641,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 231,
+        "missing": 230,
         "orphan": 0
       }
     },
@@ -1793,7 +1793,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Music/taiwan-music-industry-and-the-streaming-era.md",
+          "translatedFrom": "Music/台灣音樂產業與串流時代.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:f71f072559f005b7",
+          "sourceBodyHash": "sha256:39fa5a6a860830cc",
+          "translatedAt": "2026-07-30T03:55:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -23491,8 +23502,8 @@
           "sourceContentHash": "sha256:7881c6e8b38a5fa7",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-30T02:35:38.567365+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "30d957b9",
+          "translationLastModified": "2026-07-30T10:54:00+08:00",
           "inferred": false,
           "footnoteDefs": 42,
           "status": "fresh",
@@ -43155,7 +43166,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/stray-animal-culture.md",
+          "translatedFrom": "Society/台灣流浪動物文化.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:6b2ce60c50966bdc",
+          "sourceBodyHash": "sha256:6f79d66a90a09b62",
+          "translatedAt": "2026-07-30T03:56:00+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -56691,7 +56713,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/au-sow-yee.md",
+          "translatedFrom": "People/區秀詒.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:4e807297f5dfcc70",
+          "sourceBodyHash": "sha256:9bd8f0aa157f38ef",
+          "translatedAt": "2026-07-30T03:55:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 35,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -72130,16 +72163,16 @@
         "ja": {
           "path": "ja/People/jamie-lin-ai-industry-pioneer.md",
           "translatedFrom": "People/簡立峰.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:fbf9f60162ac4b29",
-          "sourceBodyHash": "sha256:820519fbefcc8fbc",
-          "translatedAt": "2026-05-20T05:08:29+08:00",
+          "sourceCommitSha": "717a640b3",
+          "sourceContentHash": "sha256:8fe13ae8a4b4ef0b",
+          "sourceBodyHash": "sha256:ea3e7d04bd378c51",
+          "translatedAt": "2026-07-30T03:55:54+08:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (16→5)"
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/jamie-lin-ai-industry-pioneer.md",
@@ -106474,7 +106507,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/changhua-county.md",
+          "translatedFrom": "Geography/彰化縣.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:53588f1af78c53bd",
+          "sourceBodyHash": "sha256:83c1d8ae2ebcca91",
+          "translatedAt": "2026-07-30T03:55:55+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/changhua-county.md",
