@@ -23,8 +23,8 @@ lastVerified: 2026-05-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣前50大企業.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:fd16d89c1109096c'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:22fc95c656db9409'
 sourceBodyHash: 'sha256:645f8f42e79639a7'
 translatedAt: '2026-06-16T16:55:29Z'
 image: '/article-images/economy/tsmc-factory-hsinchu-2009.webp'

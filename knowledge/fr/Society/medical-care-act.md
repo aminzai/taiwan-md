@@ -33,8 +33,8 @@ sporeLinks:
     "{'id': 158, 'platform': 'x', 'date': '2026-07-15', 'url': 'https://x.com/taiwandotmd/status/2077235621287084160'}",
   ]
 translatedFrom: 'Society/醫療法.md'
-sourceCommitSha: 'a5dc99e20'
-sourceContentHash: 'sha256:54b5e89e9e06fd0e'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:a253f62d3df56358'
 sourceBodyHash: 'sha256:3a7e69bdd14827b6'
 translatedAt: '2026-07-27T20:24:55+08:00'
 ---

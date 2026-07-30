@@ -23,8 +23,8 @@ lastVerified: 2026-06-24
 lastHumanReview: false
 featured: false
 translatedFrom: 'Nature/大安溪倚天劍.md'
-sourceCommitSha: 'ff92f3866'
-sourceContentHash: 'sha256:3ee4be522cff1a4e'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:d645338641d89664'
 sourceBodyHash: 'sha256:5dcfd938f21ea513'
 translatedAt: '2026-06-25T00:43:06+08:00'
 image: '/article-images/nature/taiwania-nantou-shihchuan.webp'

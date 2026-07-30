@@ -22,8 +22,8 @@ lastVerified: 2026-05-12
 lastHumanReview: false
 featured: false
 translatedFrom: 'Nature/黃魚鴞.md'
-sourceCommitSha: '3c781dba'
-sourceContentHash: 'sha256:f082c2bfc65ade6e'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:7f5ae90c4eafcd0e'
 sourceBodyHash: 'sha256:2a057438270935d7'
 translatedAt: '2026-05-12T11:51:04+08:00'
 image: '/article-images/nature/tawny-fish-owl-gailhampshire-2009.webp'

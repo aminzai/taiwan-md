@@ -22,8 +22,8 @@ lastVerified: 2026-06-04
 lastHumanReview: false
 featured: true
 translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
-sourceCommitSha: '31eea37d'
-sourceContentHash: 'sha256:bc3db40c99c58cf5'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:14d6c92447535914'
 sourceBodyHash: 'sha256:c1ead29e154aba6a'
 translatedAt: '2026-06-16T17:03:25Z'
 image: '/article-images/lifestyle/nhi-taipei-building-2018.webp'

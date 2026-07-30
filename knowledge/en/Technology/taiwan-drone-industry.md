@@ -28,8 +28,8 @@ sporeLinks:
     "{'id': 70, 'platform': 'threads', 'date': '2026-05-10', 'url': 'https://www.threads.com/@taiwandotmd/post/DYKW0PmkzbM'}",
   ]
 translatedFrom: 'Technology/台灣無人機產業.md'
-sourceCommitSha: 'c2412970f'
-sourceContentHash: 'sha256:9a74d696840dfd44'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:4412f50a29e8bcfe'
 sourceBodyHash: 'sha256:6b0ed5d3cd521366'
 translatedAt: '2026-07-28T21:27:51+08:00'
 ---

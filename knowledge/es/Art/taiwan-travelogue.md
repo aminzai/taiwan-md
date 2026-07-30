@@ -20,8 +20,8 @@ lastVerified: 2026-05-23
 lastHumanReview: false
 featured: true
 translatedFrom: 'Art/臺灣漫遊錄.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:1be78dcd03c2e2ba'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:1cbdf7bdeea3f06d'
 sourceBodyHash: 'sha256:f65ef91c0cd14c9b'
 translatedAt: '2026-06-16T17:04:27Z'
 image: '/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp'

@@ -21,9 +21,9 @@ lastVerified: 2026-05-12
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/聶永真.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:af655ef71174b4b7'
-sourceBodyHash: 'sha256:8bdb4d64fdb3b5e7'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:b31e7dab1de7bf10'
+sourceBodyHash: 'sha256:26e4e11c3e29817a'
 translatedAt: '2026-06-16T16:55:29Z'
 image: '/article-images/people/aaron-nieh-portrait-2018.webp'
 imageCredit: 'Gene Wang'

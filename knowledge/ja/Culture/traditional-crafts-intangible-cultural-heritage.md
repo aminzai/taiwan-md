@@ -27,8 +27,8 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG'
 readingTime: 14
 translatedFrom: 'Culture/台灣傳統工藝與無形文化資產.md'
-sourceCommitSha: '12cf33d8c'
-sourceContentHash: 'sha256:0e116841e98362b0'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:d8ceca8d969bbb7a'
 sourceBodyHash: 'sha256:8d311f99ab1ace9b'
 translatedAt: '2026-07-26T22:27:48+08:00'
 ---

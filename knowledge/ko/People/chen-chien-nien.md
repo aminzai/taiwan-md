@@ -21,8 +21,8 @@ lastVerified: 2026-05-17
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/陳建年.md'
-sourceCommitSha: 'ac1d187a'
-sourceContentHash: 'sha256:94460ad43105f980'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:ea13c4b2a458e44f'
 sourceBodyHash: 'sha256:64a1b7182260c207'
 translatedAt: '2026-06-16T16:55:29Z'
 image: '/article-images/people/chen-chien-nien-hsinchu-feng-2018.webp'

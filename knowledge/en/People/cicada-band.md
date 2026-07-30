@@ -32,8 +32,8 @@ lastVerified: 2026-06-21
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/Cicada.md'
-sourceCommitSha: 'ac1d187a'
-sourceContentHash: 'sha256:4a53480bbe9aa83b'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:3d1c97835c5d9ea3'
 sourceBodyHash: 'sha256:5091127dea208f82'
 translatedAt: '2026-06-22T00:40:58+08:00'
 image: '/article-images/people/cicada-cuichi-xueshan-glacial-lake.webp'

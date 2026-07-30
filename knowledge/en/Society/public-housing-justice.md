@@ -18,8 +18,8 @@ lastVerified: 2026-06-06
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/國宅與居住正義.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:bd9b1e07ed885b16'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:8ca8b403c13ab428'
 sourceBodyHash: 'sha256:547ee1d3b342a025'
 translatedAt: '2026-06-14T16:37:40Z'
 image: '/article-images/society/taipei-skyline-housing-2026.webp'

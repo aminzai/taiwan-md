@@ -29,9 +29,9 @@ imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg'
 relatedDiary: ['2026-05-11-161600-twmd-rewrite-daily']
 translatedFrom: 'History/台灣鐵道史.md'
-sourceCommitSha: '0ab600a6e'
-sourceContentHash: 'sha256:4de14c72bc8f2765'
-sourceBodyHash: 'sha256:c391ed0c502effad'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:711d78906f27f250'
+sourceBodyHash: 'sha256:74b314b2dea62382'
 translatedAt: '2026-07-26T13:23:36+08:00'
 ---
 

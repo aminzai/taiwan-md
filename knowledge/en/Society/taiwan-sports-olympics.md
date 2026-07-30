@@ -20,8 +20,8 @@ lastVerified: 2026-06-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣體育發展與奧運.md'
-sourceCommitSha: 'b1f23fd8'
-sourceContentHash: 'sha256:cce1a0626b10ac89'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:f86cdecbd23b7e4f'
 sourceBodyHash: 'sha256:77348d4fbb7640a8'
 translatedAt: '2026-06-20T00:37:13+08:00'
 image: '/article-images/society/yang-chuan-kwang-1960.webp'

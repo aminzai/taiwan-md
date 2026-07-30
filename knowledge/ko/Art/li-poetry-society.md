@@ -22,8 +22,8 @@ lastVerified: 2026-06-20
 lastHumanReview: false
 featured: true
 translatedFrom: 'Art/笠詩社.md'
-sourceCommitSha: '65a87b48'
-sourceContentHash: 'sha256:89548c331e33bc3b'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:28d7ec6ba7695699'
 sourceBodyHash: 'sha256:a39fc5d7615c6869'
 translatedAt: '2026-06-21T00:36:02+08:00'
 image: '/article-images/art/li-poetry-wu-sheng-2016.webp'

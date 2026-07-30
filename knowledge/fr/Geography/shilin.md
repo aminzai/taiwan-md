@@ -31,8 +31,8 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/士林.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:5b2be7a2e0aa64aa'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:fa3c9da0d146b3a4'
 sourceBodyHash: 'sha256:18f3978bd2f84e6f'
 translatedAt: '2026-06-16T02:24:17+08:00'
 image: '/article-images/geography/shilin-cixian-temple-2010.webp'

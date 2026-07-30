@@ -26,8 +26,8 @@ lastVerified: 2026-05-19
 lastHumanReview: true
 featured: true
 translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:690ecb6c58309760'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:d698e900aeaedc49'
 sourceBodyHash: 'sha256:36525caaf207b712'
 translatedAt: '2026-06-16T17:03:25Z'
 image: '/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp'

@@ -1,7 +1,7 @@
 ---
 translatedFrom: 'Culture/Shopping Design.md'
-sourceCommitSha: '17b63fe8'
-sourceContentHash: 'sha256:5d83fb5eff7a2309'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:ad45b627d00f528f'
 sourceBodyHash: 'sha256:da4269ea46f7ec77'
 translatedAt: '2026-07-24T04:05:00+08:00'
 lang: 'fr'

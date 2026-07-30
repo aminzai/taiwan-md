@@ -25,8 +25,8 @@ imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Stan_Shih_at_Taipei_IT_Month_20141205a.jpg'
 relatedDiary: ['2026-07-06-133221-施振榮-rewrite']
 translatedFrom: 'People/施振榮.md'
-sourceCommitSha: '648966eac'
-sourceContentHash: 'sha256:4207f3d1db6eb633'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:b0e816b78b19b42e'
 sourceBodyHash: 'sha256:a0ff299644c9b0cc'
 translatedAt: '2026-07-29T01:32:43+08:00'
 ---

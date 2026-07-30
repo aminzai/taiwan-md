@@ -18,8 +18,8 @@ lastVerified: 2026-07-13
 lastHumanReview: false
 featured: false
 translatedFrom: 'Culture/Shopping Design.md'
-sourceCommitSha: '17b63fe83'
-sourceContentHash: 'sha256:5d83fb5eff7a2309'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:ad45b627d00f528f'
 sourceBodyHash: 'sha256:da4269ea46f7ec77'
 translatedAt: '2026-07-15T00:51:51+08:00'
 image: '/article-images/culture/shopping-design-designbiz-2022-banner.jpg'

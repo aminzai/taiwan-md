@@ -32,8 +32,8 @@ sporeLinks:
     "{'id': 154, 'platform': 'threads', 'date': '2026-07-07', 'url': 'https://www.threads.com/@taiwandotmd/post/DaefLAMkw8F'}",
   ]
 translatedFrom: 'People/柯智棠.md'
-sourceCommitSha: '68644a9d3'
-sourceContentHash: 'sha256:35b17bfbc1a6b4b6'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:e7632bbdde015839'
 sourceBodyHash: 'sha256:e1150c885b006baf'
 translatedAt: '2026-07-28T19:24:16+08:00'
 ---

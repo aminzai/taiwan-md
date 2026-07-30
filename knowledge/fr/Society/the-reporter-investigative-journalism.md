@@ -18,8 +18,8 @@ lastVerified: 2026-06-14
 lastHumanReview: false
 featured: true
 translatedFrom: 'Society/報導者.md'
-sourceCommitSha: 'fd09526d2'
-sourceContentHash: 'sha256:c9f5767205c4ec79'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:46044d1881e9332e'
 sourceBodyHash: 'sha256:ca526dda99de158c'
 translatedAt: '2026-06-17T01:18:26+08:00'
 image: '/article-images/society/the-reporter-brand-logo.webp'

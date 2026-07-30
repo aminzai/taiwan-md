@@ -25,8 +25,8 @@ lastVerified: 2026-05-26
 lastHumanReview: false
 featured: true
 translatedFrom: 'History/國家人權博物館.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:c2fe08a62433be18'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:e16d4ee42050764a'
 sourceBodyHash: 'sha256:8de971f3c7942edf'
 translatedAt: '2026-06-16T16:59:03Z'
 sporeLinks:
