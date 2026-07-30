@@ -30,8 +30,8 @@ imageCredit: 'M. Weitzel (Wikimedia Commons)'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg'
 translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:690ecb6c58309760'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:d698e900aeaedc49'
 sourceBodyHash: 'sha256:36525caaf207b712'
 translatedAt: '2026-07-29T07:32:34+08:00'
 ---
@@ -316,6 +316,13 @@ Os 97.672 barris de Lan Yü não somem porque referendo passou ou não. Estão l
 - [Desenvolvimento da modernização agrícola em Taiwan](/pt/economy/taiwan-agricultural-modernization) — Pressão de transformação agrícola e conflitos de uso da terra por trás da agrovoltaica
 - [Meiyu (estação das chuvas)](/pt/nature/meiyu-stagnant-front) — "Chuva de primavera não vem, meiyu concentrada": observação local da mudança climática
 
+## Fontes das imagens
+
+- **Exterior da Usina Nuclear 3 (Hengchun, Pingtung, Monte Ma'an, hero)**: [Maanshan Nuclear Power Plant, Nan Wan](https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg) (Foto: M. Weitzel, Wikimedia Commons, CC BY-SA 3.0)
+- **Depósito subterrâneo Onkalo (Olkiluoto, Finlândia)**: [Onkalo spent nuclear fuel repository entrance](https://commons.wikimedia.org/wiki/File:Onkalo_spent_nuclear_fuel_repository_entrance.jpg) (Foto: Posiva Oy, Wikimedia Commons, CC BY-SA 4.0)
+- **Parque eólico offshore Hai Long, ao largo de Miaoli**: [Hai Long offshore wind farm](https://commons.wikimedia.org/wiki/File:Hai_Long_offshore_wind_farm.jpg) (Wikimedia Commons, CC BY-SA 4.0)
+- **Painéis solares no telhado de área de serviço de rodovia**: [Xihu Service Area solar panels](https://commons.wikimedia.org/wiki/File:Xihu_Service_Area_solar_panels.jpg) (Wikimedia Commons, CC BY-SA 3.0)
+
 ## Referências
 
 [^1]: [Visão do United Daily News: Entrevista com Hsu Huang-hsiung](https://ubrand.udn.com/ubrand/story/123658/5679341) — Pesquisador distinto do Centro de Pesquisa de Mudança Ambiental da Academia Sinica, equipe de Hsu analisou dados de temperatura 1911-2020 de Taiwan, aponta aquecimento de 1,6 °C em cem anos, inverno encurtado quase pela metade, pior cenário: dias de inverno podem zerar após 2060.
@@ -407,10 +414,3 @@ Os 97.672 barris de Lan Yü não somem porque referendo passou ou não. Estão l
 [^44]: [PanSci: Desafios de segurança do reator Natrium](https://pansci.asia/archives/377644) — Parceiro de Curadoria de Conteúdo per MOU 2026-05-05. Construção do Natrium marca avanço da 4ª geração, mas traz grandes desafios; sódio líquido reage violentamente com água, inflamável; operação/manutenção exige ciência de materiais extrema; ainda faltam dados de segurança de operação comercial em larga escala.
 
 [^45]: [PanSci: Construção de turbinas offshore cara e complicada, por que Taiwan ainda aposta forte](https://pansci.asia/archives/371116) — Parceiro de Curadoria de Conteúdo per MOU 2026-05-05. Estreito de Taiwan por topografia forma "efeito funil", velocidade vento no estreito muito superior a águas vizinhas, faz Taiwan um dos locais de maior potencial global para eólica offshore.
-
-## Fontes das imagens
-
-- **Exterior da Usina Nuclear 3 (Hengchun, Pingtung, Monte Ma'an, hero)**: [Maanshan Nuclear Power Plant, Nan Wan](https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg) (Foto: M. Weitzel, Wikimedia Commons, CC BY-SA 3.0)
-- **Depósito subterrâneo Onkalo (Olkiluoto, Finlândia)**: [Onkalo spent nuclear fuel repository entrance](https://commons.wikimedia.org/wiki/File:Onkalo_spent_nuclear_fuel_repository_entrance.jpg) (Foto: Posiva Oy, Wikimedia Commons, CC BY-SA 4.0)
-- **Parque eólico offshore Hai Long, ao largo de Miaoli**: [Hai Long offshore wind farm](https://commons.wikimedia.org/wiki/File:Hai_Long_offshore_wind_farm.jpg) (Wikimedia Commons, CC BY-SA 4.0)
-- **Painéis solares no telhado de área de serviço de rodovia**: [Xihu Service Area solar panels](https://commons.wikimedia.org/wiki/File:Xihu_Service_Area_solar_panels.jpg) (Wikimedia Commons, CC BY-SA 3.0)

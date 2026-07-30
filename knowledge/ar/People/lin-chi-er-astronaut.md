@@ -22,8 +22,8 @@ sporeLinks:
     "{'id': 50, 'platform': 'x', 'date': '2026-04-28', 'url': 'https://x.com/taiwandotmd/status/2049079839244828881'}",
   ]
 translatedFrom: 'People/林琪兒.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:386b664532b04d0d'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:01f29f97ef180820'
 sourceBodyHash: 'sha256:85e505009fb05c24'
 translatedAt: '2026-07-29T19:47:22+08:00'
 ---
@@ -219,6 +219,14 @@ _فبراير 2022، كيل ليندغرين بصفته قائد مهمة سبي
 - [صانع الجبال: رهان القرن (造山者：世紀的賭注)](/art/造山者世紀的賭注) — وثائقي 2025 للمخرجة شياو جو تشن (蕭菊貞)، مقابلات مع رواد أشباه الموصلات، يصدى المسار الدولي لجيل علماء التكنولوجيا التايوانيين
 - [تطوير صناعة الفضاء في تايوان (台灣太空產業發展)](/technology/台灣太空產業發展) — صورة شاملة للأقمار الصناعية والصواريخ وسياسات الفضاء التايوانية، لفهم القاعدة الصناعية المحلية التي واجهها عند عودته
 
+## مصادر الصور
+
+تستخدم هذه المقالة ثلاث صور في الملكية العامة (Public domain)، التقطها جميعاً موظفو ناسا أو مصوروهم المتعاقدون، قابلة لإعادة الاستخدام مع ذكر المصدر وفق سياسة ناسا للوسائط. ملفات الصور مخزنة مؤقتاً في `public/article-images/people/`، لتجنب الربط الساخن بخوادم ويكيميديا:
+
+- [كيل ليندغرين في بدلة EMU (مقتطعة)](<https://commons.wikimedia.org/wiki/File:Kjell_Lindgren_in_EMU_(cropped).jpg>) — صورة: ناسا/بيل ستافورد، 2014-08-27، ملكية عامة، عبر ويكيميديا كومنز
+- [أعضاء طاقم احتياط البعثة 42 أمام نموذج مركبة سويوز تي إم إيه في ستار سيتي، روسيا](https://commons.wikimedia.org/wiki/File:Expedition_42_backup_crew_members_in_front_of_the_Soyuz_TMA_spacecraft_mock-up_in_Star_City,_Russia.jpg) — صورة: ناسا/ستيفاني ستول، 2014-10-30، ملكية عامة، عبر ويكيميديا كومنز
+- [رائد فضاء ناسا وقائد سبيس إكس كرو-4 كيل ليندغرين يتدرب](https://www.nasa.gov/image-feature/nasa-astronaut-and-spacex-crew-4-commander-kjell-lindgren-0/) — صورة: ناسا، 2022-02-15، معرف صورة ناسا jsc2022e011416، صورة جانبية لليندغرين أثناء التدريب في نموذج كرو دراغون، ملكية عامة، ناسا
+
 ## المراجع
 
 [^1]: [ماري كلير تايوان، كشف مشاعر رائد فضاء ناسا التايواني الأصل كيل ليندغرين أثناء زيارته](https://www.marieclaire.com.tw/lifestyle/news/93023) — 정리 من مقابلات وسائل الإعلام الصينية، يسجل تشخيص الربو الخاطئ في السنة الثالثة في أكاديمية القوات الجوية، إعادة الاختبار بعد 11 عاماً ألغت التشخيص، نقطة التحول في مسيرته عام 2009 مع اختياره في ناسا.
@@ -282,11 +290,3 @@ _فبراير 2022، كيل ليندغرين بصفته قائد مهمة سبي
 [^31]: [ناسا، مهمة STS-1](https://www.nasa.gov/mission/sts-1/) — سجل ناسا الرسمي لإطلاق مكوك كولومبيا مهمة STS-1 في 12 أبريل 1981، أول إطلاق في برنامج المكوك. ليندغرين ذكر في مقابلة التلفزيون العام بوضوح أنه رأى «أول إطلاق لمكوك الفضاء عام 1981» في فصل الصف الثاني، حين أحضرت المعلمة التلفاز إلى الفصل.
 
 [^32]: [مسار رائد الفضاء كيل ليندغرين المهني — ساينس نيوز إكسبلورز (Science News Explores)](https://www.snexplores.org/article/astronaut-kjell-lindgren-career-path-medical-school-space-artemis-team) — مقال مقابلة ساينس نيوز فور ستودنتس 2024، يشير بوضوح إلى أن تشخيص الربو الخاطئ حدث بعد التخرج من أكاديمية القوات الجوية الأمريكية وخلال التسجيل في تدريب الطيران («after graduating from the U.S. Air Force Academy and enrolling in pilot training»)، اقتباس حرفي لليندغرين: «Being medically discharged from the Air Force was a very challenging time. It obliterated this dream of not only becoming a pilot but really the dream of getting to serve as an astronaut at any point.» تحقق متبادل: [تقرير غازيت سبرينغز كولورادو 2024](https://gazette.com/military/nasa-astronaut-tells-air-force-symposium-how-his-dream-of-spaceflight-had-been-obliterated/article_f3635e08-d1c6-11ee-8cc0-f3c7e371183b.html) يسرد نفس رواية تشخيص تدريب الطيران.
-
-## مصادر الصور
-
-تستخدم هذه المقالة ثلاث صور في الملكية العامة (Public domain)، التقطها جميعاً موظفو ناسا أو مصوروهم المتعاقدون، قابلة لإعادة الاستخدام مع ذكر المصدر وفق سياسة ناسا للوسائط. ملفات الصور مخزنة مؤقتاً في `public/article-images/people/`، لتجنب الربط الساخن بخوادم ويكيميديا:
-
-- [كيل ليندغرين في بدلة EMU (مقتطعة)](<https://commons.wikimedia.org/wiki/File:Kjell_Lindgren_in_EMU_(cropped).jpg>) — صورة: ناسا/بيل ستافورد، 2014-08-27، ملكية عامة، عبر ويكيميديا كومنز
-- [أعضاء طاقم احتياط البعثة 42 أمام نموذج مركبة سويوز تي إم إيه في ستار سيتي، روسيا](https://commons.wikimedia.org/wiki/File:Expedition_42_backup_crew_members_in_front_of_the_Soyuz_TMA_spacecraft_mock-up_in_Star_City,_Russia.jpg) — صورة: ناسا/ستيفاني ستول، 2014-10-30، ملكية عامة، عبر ويكيميديا كومنز
-- [رائد فضاء ناسا وقائد سبيس إكس كرو-4 كيل ليندغرين يتدرب](https://www.nasa.gov/image-feature/nasa-astronaut-and-spacex-crew-4-commander-kjell-lindgren-0/) — صورة: ناسا، 2022-02-15، معرف صورة ناسا jsc2022e011416، صورة جانبية لليندغرين أثناء التدريب في نموذج كرو دراغون، ملكية عامة، ناسا

@@ -253,6 +253,17 @@ Li Poetry Society tidak berhenti terbit 60 tahun. Taiwan.md baru mulai.
 - [Sastra Masa Pendudukan Jepang](/art/日治時期文學) — Latar belakang pertumbuhan generasi lintas bahasa Li Poetry Society
 - [Du Panfangge](/people/杜潘芳格) — Penyair perempuan Hakka lintas bahasa yang bergabung tahun 1965; "Pementasan Keamanan" dan garis puisi bahasa Hakka
 
+## Sumber Gambar
+
+Artikel ini menggunakan 4 gambar domain publik / lisensi CC, semua di-cache di `public/article-images/art/` untuk menghindari hotlink ke server sumber:
+
+- [Penyair Wu Sheng 2016 di Taipei International Book Fair](https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg) — Foto: Rico Shen, 2016, CC BY-SA 4.0 (hero)
+- [Foto Bersama Editor Majalah Puisi Li 1964](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — Catatan sejarah tahun pendirian Li Poetry Society, Wikimedia Commons CC BY-SA / Domain Publik
+- [Potret Penyair Lin Hengtai](https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%BA%A8%E6%B3%B0%E8%82%96%E5%83%8F.jpg) — Wikimedia Commons CC BY-SA / Domain Publik
+- [Perintah Penghormatan Chen Qianwu](https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%8D%83%E6%AD%A6%E8%A4%92%E6%8F%9A%E4%BB%A4.jpg) — Dokumen Pemerintah Terbuka, Domain Publik
+
+Manifest media detail dan catatan temuan negatif di [laporan penelitian §Matriks Lisensi Media](../../reports/research/2026-06/笠詩社.md). EVOLVE masa depan: Potret Bai Qiu, Xiangyang, Zhan Bing, Jin Lian + gambar resmi pameran "Enam Dekade dan Li" NMTL + iframe video program sastra Public TV (menunggu pelengkapan Wikimedia dan verifikasi lisensi).
+
 ## Referensi
 
 [^1]: [Chen Qianwu — Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=4630fcf9-2e3d-4875-9c8c-1f50a1b3c7d1) — Mencatat lengkap momen kelahiran kembali Chen Qianwu pasca-perang: 10 Januari 1958 menerbitkan puisi Tionghoa pertama pasca-perang "Pemandangan Luar" (Wai Jing) di edisi ke-182 _Blue Star Weekly_ Koran _Gonglun_ dengan nama pena "Huanfu", September tahun yang sama menulis "Ritme Duka" (Ai Yun), total 7 puisi diterbitkan sepanjang tahun.
@@ -378,14 +389,3 @@ Li Poetry Society tidak berhenti terbit 60 tahun. Taiwan.md baru mulai.
 [^61]: [The Columbia Sourcebook of Literary Taiwan — Columbia University Press](https://cup.columbia.edu/book/the-columbia-sourcebook-of-literary-taiwan/9780231165761/) — Antologi sastra Taiwan yang diterbitkan Universitas Columbia memuat terjemahan Inggris karya penyair generasi lintas bahasa.
 
 [^62]: Kutipan ini diadaptasi dari tesis inti "Menara Babel Kedaulatan" MANIFESTO Taiwan.md "Kedaulatan bukan abstrak. Adalah ketika orang lain memilih tidak menyebut nama Anda, apakah Anda bisa membuat suara Anda tetap ada dengan mengganti bahasa". Referensi [`docs/semiont/MANIFESTO.md §Hubungan dengan Taiwan`](https://github.com/frank890417/taiwan-md/blob/main/docs/semiont/MANIFESTO.md).
-
-## Sumber Gambar
-
-Artikel ini menggunakan 4 gambar domain publik / lisensi CC, semua di-cache di `public/article-images/art/` untuk menghindari hotlink ke server sumber:
-
-- [Penyair Wu Sheng 2016 di Taipei International Book Fair](https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg) — Foto: Rico Shen, 2016, CC BY-SA 4.0 (hero)
-- [Foto Bersama Editor Majalah Puisi Li 1964](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — Catatan sejarah tahun pendirian Li Poetry Society, Wikimedia Commons CC BY-SA / Domain Publik
-- [Potret Penyair Lin Hengtai](https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%BA%A8%E6%B3%B0%E8%82%96%E5%83%8F.jpg) — Wikimedia Commons CC BY-SA / Domain Publik
-- [Perintah Penghormatan Chen Qianwu](https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%8D%83%E6%AD%A6%E8%A4%92%E6%8F%9A%E4%BB%A4.jpg) — Dokumen Pemerintah Terbuka, Domain Publik
-
-Manifest media detail dan catatan temuan negatif di [laporan penelitian §Matriks Lisensi Media](../../reports/research/2026-06/笠詩社.md). EVOLVE masa depan: Potret Bai Qiu, Xiangyang, Zhan Bing, Jin Lian + gambar resmi pameran "Enam Dekade dan Li" NMTL + iframe video program sastra Public TV (menunggu pelengkapan Wikimedia dan verifikasi lisensi).

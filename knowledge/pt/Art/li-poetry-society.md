@@ -253,6 +253,17 @@ A Sociedade Poética Li não parou de publicar por 60 anos. A Taiwan.md acabou d
 - [Literatura do Período Colonial Japonês](/pt/art/taiwanese-literature-during-japanese-rule) — O contexto de crescimento da geração translingual da Sociedade Poética Li
 - [Du Panfangge](/people/杜潘芳格) — Poetisa hakka translingual que se juntou em 1965; linha de _Pequeno Teatro da Paz_ e poesia em hakka
 
+## Fontes de Imagem
+
+Este artigo usa 4 imagens de domínio público / licença CC, todas cacheadas em `public/article-images/art/` para evitar links quentes para o servidor de origem:
+
+- [Poeta Wu Sheng na Feira do Livro de Taipei de 2016](https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg) — Foto: Rico Shen, 2016, CC BY-SA 4.0 (hero)
+- [Foto de 1964 dos editores da Sociedade Poética Li](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — Registro histórico do ano de fundação da Sociedade Poética Li, Wikimedia Commons CC BY-SA / Domínio público
+- [Retrato do Poeta Lin Hengtai](https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%BA%A8%E6%B3%B0%E8%82%96%E5%83%8F.jpg) — Wikimedia Commons CC BY-SA / Domínio público
+- [Decreto de Louvor de Chen Qianwu](https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%8D%83%E6%AD%A6%E8%A4%92%E6%8F%9A%E4%BB%A4.jpg) — Documento governamental público, Domínio público
+
+O manifesto de mídia detalhado e o registro de achado negativo estão em [relatório de pesquisa §Matriz de Licença de Mídia](../../reports/research/2026-06/笠詩社.md). EVOLVE futuro: retratos de Bai Qiu, Xiang Yang, Zhan Bing, Jin Lian + imagens oficiais da exposição "60 Anos de Li" da NMTL + iframe de vídeo do programa literário da PTS (a verificar para Wikimedia e licença).
+
 ## Referências
 
 [^1]: [Chen Qianwu — Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=4630fcf9-2e3d-4875-9c8c-1f50a1b3c7d1) — Registra completamente o momento de renascimento pós-guerra de Chen Qianwu: em 10 de janeiro de 1958, publicou seu primeiro poema em chinês pós-guerra "Cenário Externo" (_Waijing_) na edição 182 do semanário _Blue Star_ do _Jornal Gonglun_ sob o pseudônimo "Huanfu", escreveu "Ritmo de Lamento" em setembro do mesmo ano, publicando um total de 7 poemas naquele ano.
@@ -378,14 +389,3 @@ A Sociedade Poética Li não parou de publicar por 60 anos. A Taiwan.md acabou d
 [^61]: [The Columbia Sourcebook of Literary Taiwan — Columbia University Press](https://cup.columbia.edu/book/the-columbia-sourcebook-of-literary-taiwan/9780231165761/) — Antologia de literatura de Taiwan publicada pela Universidade Columbia inclui traduções em inglês de obras dos poetas da geração translingual.
 
 [^62]: Esta frase é adaptada da proposição central da seção "Torre de Babel da Soberania" do MANIFESTO da Taiwan.md "Soberania não é abstrata. É quando outros escolhem não dizer seu nome, você pode fazer sua voz continuar existindo em outra língua". Referência [`docs/semiont/MANIFESTO.md §Relação com Taiwan`](https://github.com/frank890417/taiwan-md/blob/main/docs/semiont/MANIFESTO.md).
-
-## Fontes de Imagem
-
-Este artigo usa 4 imagens de domínio público / licença CC, todas cacheadas em `public/article-images/art/` para evitar links quentes para o servidor de origem:
-
-- [Poeta Wu Sheng na Feira do Livro de Taipei de 2016](https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg) — Foto: Rico Shen, 2016, CC BY-SA 4.0 (hero)
-- [Foto de 1964 dos editores da Sociedade Poética Li](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — Registro histórico do ano de fundação da Sociedade Poética Li, Wikimedia Commons CC BY-SA / Domínio público
-- [Retrato do Poeta Lin Hengtai](https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%BA%A8%E6%B3%B0%E8%82%96%E5%83%8F.jpg) — Wikimedia Commons CC BY-SA / Domínio público
-- [Decreto de Louvor de Chen Qianwu](https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%8D%83%E6%AD%A6%E8%A4%92%E6%8F%9A%E4%BB%A4.jpg) — Documento governamental público, Domínio público
-
-O manifesto de mídia detalhado e o registro de achado negativo estão em [relatório de pesquisa §Matriz de Licença de Mídia](../../reports/research/2026-06/笠詩社.md). EVOLVE futuro: retratos de Bai Qiu, Xiang Yang, Zhan Bing, Jin Lian + imagens oficiais da exposição "60 Anos de Li" da NMTL + iframe de vídeo do programa literário da PTS (a verificar para Wikimedia e licença).

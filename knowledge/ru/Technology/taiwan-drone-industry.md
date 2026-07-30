@@ -28,8 +28,8 @@ sporeLinks:
     "{'id': 70, 'platform': 'threads', 'date': '2026-05-10', 'url': 'https://www.threads.com/@taiwandotmd/post/DYKW0PmkzbM'}",
   ]
 translatedFrom: 'Technology/台灣無人機產業.md'
-sourceCommitSha: 'c2412970f'
-sourceContentHash: 'sha256:9a74d696840dfd44'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:4412f50a29e8bcfe'
 sourceBodyHash: 'sha256:6b0ed5d3cd521366'
 translatedAt: '2026-07-26T23:53:52+08:00'
 ---
@@ -168,6 +168,13 @@ Thunder Tiger пошла прямым путём, но не в одиночку.
 - [Развитие тайваньской космической отрасли](/technology/台灣太空產業發展) — от беспилотников к спутникам, небесные амбиции Тайваня
 - [Тайваньская робототехническая отрасль](/technology/台灣機器人產業) — другой случай «сильные компоненты, слабые целые аппараты», те же структурные проблемы, что у беспилотников
 
+## Источники изображений
+
+В статье использованы 2 изображения в публичном домене / CC, все закешированы в `public/article-images/technology/` для избежания горячих ссылок:
+
+- **Hero**: [Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) — Фото: Kliu1, 11.10.2007 демонстрация Чжунсян-2 (серия NCSIST Albatross) Института Чжуншань на параде Дня основания КР. Public domain via Wikimedia Commons.
+- **Inline**: [UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) — Фото: Сюань Шышэн, 04.05.2013 беспилотник Жуйюань № 9717 Института Чжуншань на дне открытых дверей пирса № 11 Чжунчжэньского порта в Каосюне. CC BY-SA 3.0 via Wikimedia Commons.
+
 ## Ссылки
 
 [^1]: [Aviation Week: Taiwan's Thunder Tiger Eyes U.S. Army's Drone Dominance Program](https://aviationweek.com/defense/aircraft-propulsion/taiwans-thunder-tiger-eyes-us-armys-drone-dominance-program) — репортаж: FPV-камикадзе Overkill Thunder Tiger стал первым тайваньским дроном, прошедшим сертификацию Blue UAS.
@@ -225,10 +232,3 @@ Thunder Tiger пошла прямым путём, но не в одиночку.
 [^20]: [TechNews: Детали спецбюджета 1,25 трлн Минобороны](https://technews.tw/2026/01/20/taiwan-mnd-unveiled-1250-billion-twd-budget-details/) + [CNA: 1,25 трлн спецбюджет — Минобороны раскрыло закупку 7 категорий вооружений](https://www.cna.com.tw/news/aipl/202601190177.aspx) — 2026–2033, 8 лет, 1,25 трлн, семь статей; беспилотники и counter-UAS 335 млрд / 210 000+ / 1 000+ судов.
 
 [^21]: [The Reporter: Внутри украинских дрон-линий (1): от никого к 4,5 млн в год](https://www.twreporter.org/a/ukraine-drone-wartime-supplychain) + [TechNews: Прямая связь фронт–завод, взрыв украинской дрон-отрасли](https://technews.tw/2025/04/30/the-ukrainians-drone-boom-during-the-war/) — Украина 2023 г. ~300 000 → 2024 г. 2 млн+ → 2025 г. 4,5 млн, месяц 20–40 тыс., кривая — обратная от фронтовых потерь.
-
-## Источники изображений
-
-В статье использованы 2 изображения в публичном домене / CC, все закешированы в `public/article-images/technology/` для избежания горячих ссылок:
-
-- **Hero**: [Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) — Фото: Kliu1, 11.10.2007 демонстрация Чжунсян-2 (серия NCSIST Albatross) Института Чжуншань на параде Дня основания КР. Public domain via Wikimedia Commons.
-- **Inline**: [UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) — Фото: Сюань Шышэн, 04.05.2013 беспилотник Жуйюань № 9717 Института Чжуншань на дне открытых дверей пирса № 11 Чжунчжэньского порта в Каосюне. CC BY-SA 3.0 via Wikimedia Commons.

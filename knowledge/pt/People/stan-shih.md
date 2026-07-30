@@ -25,8 +25,8 @@ imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Stan_Shih_at_Taipei_IT_Month_20141205a.jpg'
 relatedDiary: ['2026-07-06-133221-施振榮-rewrite']
 translatedFrom: 'People/施振榮.md'
-sourceCommitSha: '648966eac'
-sourceContentHash: 'sha256:4207f3d1db6eb633'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:b0e816b78b19b42e'
 sourceBodyHash: 'sha256:a0ff299644c9b0cc'
 translatedAt: '2026-07-28T17:22:19+08:00'
 ---
@@ -193,6 +193,13 @@ Aquele miúdo que em Lukang cresceu a ver a mãe vender ovos de pato, no fim, co
 
 **Leitura complementar**: [Acer](/pt/economy/acer-pc-industry-pioneer) (a marca que Stan Shih fundou e levou ao palco mundial, aqui conta a sua história completa), [Morris Chang](/pt/people/tsmc-morris-chang) (quem convidou Stan Shih para 21 anos de administrador da TSMC, trilhou outro caminho tecnológico de Taiwan), [TSMC](/pt/economy/tsmc) (a empresa que faz o "fabrico de midstream" e se tornou montanha sagrada, também onde Stan Shih tem mais acções), [Transformação e actualização da indústria de Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) (por trás da Curva do Sorriso e do Wangdao, os quarenta anos de Taiwan entre fabrico e marca).
 
+## Fontes das imagens
+
+- **Imagem de abertura / Stan Shih (2014)**: Foto de Tony Tseng, 2014 Taipei Computer Applications Show, CC BY 2.0. Fonte [Flickr](https://www.flickr.com/photos/tonytseng/).
+- **Micro Professor I (MPF-I, 1981)**: Foto de Joho345, domínio público (Public Domain). Fonte Wikimedia Commons.
+- **Esquema da Curva do Sorriso**: Autoria de Rico Shen, CC BY-SA 4.0. Fonte Wikimedia Commons.
+- **Stan Shih (2007, secção fracasso/serenidade)**: Foto de Rico Shen, CC BY-SA 3.0. Fonte Wikimedia Commons.
+
 ## Referências
 
 [^1]: [Reportagem Tempo: 1981 Stan Shih cria o primeiro computador próprio "Micro Professor I"](https://time.udn.com/udntime/story/122390/9424956) — Artigo especial do _United Daily News_ Tempo (2026-04-13), regista que em Setembro de 1981 a Acer levou o Micro Professor I aos EUA para a 30.ª Western Electronic Show and Convention (WESCON).
@@ -336,10 +343,3 @@ Aquele miúdo que em Lukang cresceu a ver a mãe vender ovos de pato, no fim, co
 [^69]: [Farseeing: Avatar de IA Adam de Stan Shih e novo livro](https://www.gvm.com.tw/article/127819) — Idem, regista novo livro _O Momento do Despertar do Líder: Stan哥 e o Diálogo com a IA_ cerca de 90% conteúdo escrito por avatar de IA após treino, 30 Q&A, inclui «Como gostarias que os outros te lembrassem?».
 
 [^70]: [Farseeing: Stan Shih planeia reformar-se segunda vez aos 85](https://www.gvm.com.tw/article/127819) — _Farseeing_ regista Stan Shih a 6 Dezembro 2024 em concerto de agradecimento pelos 20 anos de reforma anunciou planeia reformar-se segunda vez aos 85, passar bastão de presidente de empresas lucrativas, continuar na filantropia; Junho 2026 ainda foi ao Japão apresentar novo livro branco do Wangdao, sem sinais de abrandamento.
-
-## Fontes das imagens
-
-- **Imagem de abertura / Stan Shih (2014)**: Foto de Tony Tseng, 2014 Taipei Computer Applications Show, CC BY 2.0. Fonte [Flickr](https://www.flickr.com/photos/tonytseng/).
-- **Micro Professor I (MPF-I, 1981)**: Foto de Joho345, domínio público (Public Domain). Fonte Wikimedia Commons.
-- **Esquema da Curva do Sorriso**: Autoria de Rico Shen, CC BY-SA 4.0. Fonte Wikimedia Commons.
-- **Stan Shih (2007, secção fracasso/serenidade)**: Foto de Rico Shen, CC BY-SA 3.0. Fonte Wikimedia Commons.

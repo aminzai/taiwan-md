@@ -21,8 +21,8 @@ lastVerified: 2026-05-17
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/陳建年.md'
-sourceCommitSha: 'ac1d187a'
-sourceContentHash: 'sha256:94460ad43105f980'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:ea13c4b2a458e44f'
 sourceBodyHash: 'sha256:64a1b7182260c207'
 translatedAt: '2026-06-16T16:55:14Z'
 image: '/article-images/people/chen-chien-nien-hsinchu-feng-2018.webp'
@@ -209,6 +209,14 @@ _2018年3月25日、陳建年が新竹の小規模なライブハウスで出演
 - [台湾インディペンデント音楽](/ja/music/indie-music-scene) — 角頭音楽などの独立レーベルが、主流音楽産業の外側でいかに別の道を築いたか
 - [金曲奨](/ja/music/pop-music-and-golden-melody-awards) — 金曲奨制度が原住民音楽創作をどのように取り込んだか
 
+## 画像出典
+
+本文はCC BY-SA 4.0ライセンスの画像3点を使用し、ホットリンク先サーバーへの依存を避けるため、すべて `public/article-images/people/` にキャッシュしています。
+
+- [Pur-dull in Hsinchu 2](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_2.jpg) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu_2.jpg（hero）
+- [Pur-dull in Hsinchu (cropped)](<https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_(cropped).jpg>) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull*in_Hsinchu*(cropped).jpg（inline 1）
+- [Pur-dull in Hsinchu](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu.jpg) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu.jpg（inline 2）
+
 ## 参考資料
 
 [^1]: [陳建年（歌手）— 維基百科](<https://zh.wikipedia.org/zh-tw/%E9%99%B3%E5%BB%BA%E5%B9%B4_(%E6%AD%8C%E6%89%8B)>) — 中国語版ウィキペディアの陳建年項目。生年月日が1967年8月1日であること、南王部落出身、外祖父である陸森宝との関係、警員班114期、2000年9月の蘭嶼転任、2017年9月の退職前に蘭嶼分駐所副所長であったことを記載しています。
@@ -264,11 +272,3 @@ _2018年3月25日、陳建年が新竹の小規模なライブハウスで出演
 [^26]: [桑布伊 — 維基百科](https://zh.wikipedia.org/zh-tw/%E6%A1%91%E5%B8%83%E4%BC%8A) — プユマ族の現代音楽家・桑布伊の項目。桑布伊と陳建年が同じく台東のプユマ族文化圏に由来し、921大地震後に飛魚雲豹音楽工団に加入し、胡徳夫らと共にアルバムを録音したことを記載し、陳建年が後続の原住民音楽世代に与えた影響を反映しています。
 
 [^27]: [陳建年 — 國家文化記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Event&id=273173) — 文化部国家文化記憶庫の陳建年項目。陸森宝の伝承者としての位置、プユマ語と中国語を融合する創作スタイル、第11回金曲歌王、第18回金曲奨最優秀流行演奏類プロデューサー賞、第20回金曲奨最優秀流行アルバムプロデューサー賞、第33回金曲奨最優秀原住民語アルバム賞までの完全な受賞記録を記載しています。
-
-## 画像出典
-
-本文はCC BY-SA 4.0ライセンスの画像3点を使用し、ホットリンク先サーバーへの依存を避けるため、すべて `public/article-images/people/` にキャッシュしています。
-
-- [Pur-dull in Hsinchu 2](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_2.jpg) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu_2.jpg（hero）
-- [Pur-dull in Hsinchu (cropped)](<https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_(cropped).jpg>) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull*in_Hsinchu*(cropped).jpg（inline 1）
-- [Pur-dull in Hsinchu](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu.jpg) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu.jpg（inline 2）

@@ -18,8 +18,8 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/台灣眷村菜.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:7463882ad93990e3'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:065bf6354c8e6e97'
 sourceBodyHash: 'sha256:c6f4891abde841e9'
 translatedAt: '2026-07-26T02:07:21+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Spring_onion_pancake_2013.JPG/960px-Spring_onion_pancake_2013.JPG'
@@ -96,6 +96,10 @@ Na Taiwan de hoje, as vilas militares físicas já desapareceram em grande parte
 
 A nova geração de chefs começou a reinterpretar a culinária das vilas militares, preservando a profundidade tradicional enquanto usa técnicas e ingredientes modernos. Vários escritores gastronômicos de Taiwan também estabeleceram arquivos textuais para a culinária das vilas militares através da escrita; "Os Sabores de Taiwan" de Jiao Tong (Dois Peixes, 2009) é uma obra representativa pioneira, permitindo que a memória gustativa se preservasse além das receitas.[^3]
 
+## Fontes das imagens
+
+- Pão de cebolinha: Wikimedia Commons, [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+
 ## Referências
 
 [^1]: [Centro de Preservação da Cultura das Vilas Militares do Ministério da Defesa Nacional](https://mvac.mnd.gov.tw/) — Contexto histórico das vilas militares e dados populacionais da migração.
@@ -116,7 +120,3 @@ A nova geração de chefs começou a reinterpretar a culinária das vilas milita
 
 - [Centro de Preservação da Cultura das Vilas Militares do Ministério da Defesa Nacional](https://mvac.mnd.gov.tw/) — Plataforma integrada de informações de preservação de vilas militares em todo o país
 - [Banco Nacional de Memória Cultural do Ministério da Cultura — Especial Vilas Militares](https://memory.culture.tw/) — História oral e acervo de artefatos das vilas militares
-
-## Fontes das imagens
-
-- Pão de cebolinha: Wikimedia Commons, [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)

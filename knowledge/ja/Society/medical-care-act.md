@@ -185,6 +185,12 @@ _2011 年 5 月 10 日、台北 228 和平紀念公園の北西側の池畔か�
 - [台湾再生医療二法の沿革と従事者の告白](/ja/society/taiwan-regenerative-medicine-laws) — 2024 年に通過した再生医療二法は、医療法から独立した特別法であり、細胞治療規範を補うものです
 - [台湾災害医療体系](/ja/technology/taiwan-disaster-medicine-system) — 医療法第 1 条の「医療資源の合理的分布」が、大規模災害の場面でどのように実際に機能するかを扱います
 
+## 画像出典
+
+本文では CC ライセンス画像を 1 枚使用し、出典サーバーへのホットリンクを避けるため `public/article-images/society/` にキャッシュしています。
+
+- **Hero**：[NTU Hospital View from Pond of Taipei New Park](https://commons.wikimedia.org/wiki/File:NTU_Hospital_View_from_Pond_of_Taipei_New_Park_20110510.jpg) — Photo: 玄史生, 2011-05-10、228 和平紀念公園北西側の池から東に台大病院を望む。CC BY-SA 3.0 via Wikimedia Commons.
+
 ## 参考資料
 
 [^1]: [中央社：立法院三読通過 医療法に三交代制看護師対患者比を追加](https://www.cna.com.tw/news/aipl/202605080198.aspx) — 2026 年 5 月 8 日、国際看護師の日の前夕に三読通過。処罰の段階、施行日は 2028 年 5 月。
@@ -250,9 +256,3 @@ _2011 年 5 月 10 日、台北 228 和平紀念公園の北西側の池畔か�
 [^31]: [全国法規資料庫：患者自主権利法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020189) — 2015 年 12 月 18 日に三読通過、2019 年 1 月 6 日施行。アジア初の、患者の自主権利を包括的に保障する特別法。
 
 [^32]: [衛生福利部プレスリリース：再生医療二法が三読通過](https://www.mohw.gov.tw/cp-16-78933-1.html) — 2024 年 6 月 4 日、《再生医療法》と《再生医療製剤条例》が三読通過し、2024 年 6 月 19 日に公布されました。
-
-## 画像出典
-
-本文では CC ライセンス画像を 1 枚使用し、出典サーバーへのホットリンクを避けるため `public/article-images/society/` にキャッシュしています。
-
-- **Hero**：[NTU Hospital View from Pond of Taipei New Park](https://commons.wikimedia.org/wiki/File:NTU_Hospital_View_from_Pond_of_Taipei_New_Park_20110510.jpg) — Photo: 玄史生, 2011-05-10、228 和平紀念公園北西側の池から東に台大病院を望む。CC BY-SA 3.0 via Wikimedia Commons.

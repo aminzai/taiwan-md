@@ -27,8 +27,8 @@ imageCredit: '石川 Shihchuan / Wikimedia Commons (CC BY-SA 2.0)'
 readingTime: 15
 relatedDiary: ['2026-06-24-153210-大安溪倚天劍-rewrite']
 translatedFrom: 'Nature/大安溪倚天劍.md'
-sourceCommitSha: 'ff92f3866'
-sourceContentHash: 'sha256:3ee4be522cff1a4e'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:d645338641d89664'
 sourceBodyHash: 'sha256:5dcfd938f21ea513'
 translatedAt: '2026-07-28T19:24:16+08:00'
 ---
@@ -224,6 +224,20 @@ E agora, lá no alto do vale sem nome na nascente do Rio Daan, uma espada verde 
 - [Ecossistema florestal de Taiwan](/pt/nature/taiwan-forest-ecosystems) — Faixa de nevoeiro, cinco madeiras nobres e coordenadas ecológicas dos gigantes; a Espada Celestial é o ponto mais alto deste sistema
 - [Parques nacionais de Taiwan](/pt/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Parque Nacional Shei-Pa e área da Agência de Silvicultura e Conservação da Natureza, são os últimos refúgios destes gigantes
 
+## Fontes das imagens
+
+Este artigo usa 5 imagens CC / domínio público, todas em cache em `public/article-images/nature/`, EXIF removido, convertidas para WebP, para evitar ligação directa a servidores de origem:
+
+- [Taiwan cedar (campo em Nantou) — Shihchuan](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides,_Nantou_County,_Taiwan_1.jpg) — Wikimedia Commons, CC BY-SA 2.0 (imagem principal)
+- [Ramos e forma do Taiwan cedar — KENPEI](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides3.jpg) — Wikimedia Commons, CC BY-SA 3.0
+- [Floresta de nevoeiro do Parque Nacional Shei-Pa](https://commons.wikimedia.org/wiki/File:Shei-Pa_National_Park%2Bcwtu%2B003.jpg) — Wikimedia Commons, CC BY-SA 4.0
+- [Pico Dabajian (nascente do Rio Daan) — Alan Wu](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%9C%B8%E5%B0%96%E5%B1%B1.jpg) — Wikimedia Commons, CC BY-SA 4.0
+- [Hayata Bunzō — Sasaki](https://commons.wikimedia.org/wiki/File:Bunz%C5%8D_Hayata.JPG) — Wikimedia Commons, Domínio público
+
+Vídeo: [「Árvore mais alta de Taiwan」Espada Celestial do Rio Daan - Documentário completo](https://www.youtube.com/watch?v=UO2HUmNvyFc) — Canal oficial da Fundação para a Conservação da Natureza e Informação Ambiental (TNF).
+
+Fotos do próprio exemplar Espada Celestial, foto em tamanho real de Steven Pearce, fotogramas de _A Ilha das Árvores Sagradas_ são material com direitos de autor (e _A Ilha das Árvores Sagradas_ está em disputa de direitos de imagem), este artigo não os usa; imagens relacionadas ver documentário oficial TNF acima e canais dos respectivos titulares de direitos.
+
 ## Referências
 
 [^1]: [After Decade-Long Hunt, Scientists Find East Asia's Tallest Tree — Sci.News](https://www.sci.news/biology/heaven-sword-tree-14824.html) — Reportagem de 2026, confirma a Espada Celestial do Rio Daan com 84,1 m como árvore mais alta conhecida do Leste Asiático; as dez mais altas são todas Taiwan cedar (_Taiwania cryptomerioides_), nove acima de 70 m.
@@ -351,17 +365,3 @@ E agora, lá no alto do vale sem nome na nascente do Rio Daan, uma espada verde 
 [^62]: [Taiwania cryptomerioides — IUCN Red List / Royal Botanic Garden Edinburgh](https://threatenedconifers.rbge.org.uk/conifers/taiwania-cryptomerioides) — Taiwan cedar estatuto global de conservação Vulnerável; habitat ameaçado por alterações climáticas, habitat adequado previsto encolher drasticamente.
 
 [^63]: [桃山巨木谷每公頃碳儲存約 1384 公噸 — 中央社, 2026-06-05](https://www.cna.com.tw/news/ahel/202606050305.aspx) — Equipa Procuradores de Árvores investigou Vale dos Gigantes onde está Taoshan (4 hectares), estimou armazenamento ~1.384 t/ha (sem raízes), próximo da floresta de gigantes da Tasmânia, Austrália, com maior densidade de carbono do mundo (~1.867 t/ha).
-
-## Fontes das imagens
-
-Este artigo usa 5 imagens CC / domínio público, todas em cache em `public/article-images/nature/`, EXIF removido, convertidas para WebP, para evitar ligação directa a servidores de origem:
-
-- [Taiwan cedar (campo em Nantou) — Shihchuan](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides,_Nantou_County,_Taiwan_1.jpg) — Wikimedia Commons, CC BY-SA 2.0 (imagem principal)
-- [Ramos e forma do Taiwan cedar — KENPEI](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides3.jpg) — Wikimedia Commons, CC BY-SA 3.0
-- [Floresta de nevoeiro do Parque Nacional Shei-Pa](https://commons.wikimedia.org/wiki/File:Shei-Pa_National_Park%2Bcwtu%2B003.jpg) — Wikimedia Commons, CC BY-SA 4.0
-- [Pico Dabajian (nascente do Rio Daan) — Alan Wu](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%9C%B8%E5%B0%96%E5%B1%B1.jpg) — Wikimedia Commons, CC BY-SA 4.0
-- [Hayata Bunzō — Sasaki](https://commons.wikimedia.org/wiki/File:Bunz%C5%8D_Hayata.JPG) — Wikimedia Commons, Domínio público
-
-Vídeo: [「Árvore mais alta de Taiwan」Espada Celestial do Rio Daan - Documentário completo](https://www.youtube.com/watch?v=UO2HUmNvyFc) — Canal oficial da Fundação para a Conservação da Natureza e Informação Ambiental (TNF).
-
-Fotos do próprio exemplar Espada Celestial, foto em tamanho real de Steven Pearce, fotogramas de _A Ilha das Árvores Sagradas_ são material com direitos de autor (e _A Ilha das Árvores Sagradas_ está em disputa de direitos de imagem), este artigo não os usa; imagens relacionadas ver documentário oficial TNF acima e canais dos respectivos titulares de direitos.

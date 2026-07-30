@@ -20,8 +20,8 @@ lastVerified: 2026-05-10
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/台灣無人機產業.md'
-sourceCommitSha: 'c2412970f'
-sourceContentHash: 'sha256:9a74d696840dfd44'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:4412f50a29e8bcfe'
 sourceBodyHash: 'sha256:6b0ed5d3cd521366'
 translatedAt: '2026-07-25T21:33:42+08:00'
 image: '/article-images/technology/chung-shyang-ii-uav-2007.webp'
@@ -162,6 +162,13 @@ _2013년 5월 4일, 중산과학원 '루이위안(銳鳶)' 드론(9717호, NCSIS
 - [타이완 우주 산업 발전](/ko/technology/taiwan-space-industry-development) — 드론에서 위성에 이르기까지, 타이완의 하늘에 대한 야심
 - [타이완 로봇 산업](/ko/technology/taiwan-robotics-industry) — '부품은 강하지만 완제는 약한' 또 다른 사례, 드론과 동일한 구조적 난제
 
+## 사진 출처
+
+본문에서는 2장의 퍼블릭 도메인/CC 라이선스 이미지를 사용하며, 모두 `public/article-images/technology/`에 캐시되어 핫링크 출처 서버를 피한다:
+
+- **Hero**: [Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) — 사진: Kliu1, 2007-10-11 중화민국 국경일 중산과학원 중샹 2호(NCSIST Albatross 시리즈) 전시. 퍼블릭 도메인 via Wikimedia Commons.
+- **Inline**: [UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) — 사진: 현사생, 2013-05-04 중산과학원 루이위안 드론 9717호 가오슝 중정군항 11번 부두 개방일 전시. CC BY-SA 3.0 via Wikimedia Commons.
+
 ## 참고 자료
 
 [^1]: [Aviation Week: Taiwan's Thunder Tiger Eyes U.S. Army's Drone Dominance Program](https://aviationweek.com/defense/aircraft-propulsion/taiwans-thunder-tiger-eyes-us-armys-drone-dominance-program) — 레후우 'Overkill' FPV 드론이 미국 블루 리스트 인증을 통과한 첫 타이완 드론이 되었다고 보도.
@@ -219,10 +226,3 @@ _2013년 5월 4일, 중산과학원 '루이위안(銳鳶)' 드론(9717호, NCSIS
 [^20]: [TechNews: 국방부 1조 2,500억 특별 예산 세부사항 공개](https://technews.tw/2026/01/20/taiwan-mnd-unveiled-1250-billion-twd-budget-details/) + [중사: 1조 2,500억 위안 특별 예산, 국방부 공개 7종 무기 조달 수량](https://www.cna.com.tw/news/aipl/202601190177.aspx) — 2026-2033년 8년 총 NT$1조 2,500억, 7대 핵심 항목; 무인 운반체 및 반제어 시스템 NT$3,350억 / 21만 대 이상 / 천 척 무인정.
 
 [^21]: [보도자: 우크라이나 드론 생산 라인에 들어가서 (상): 아무도 만들지 않던 것에서 연간 450만 대까지](https://www.twreporter.org/a/ukraine-drone-wartime-supplychain) + [TechNews: 전선과 기업 직접 소통, 우크라이나 드론 산업 폭발](https://technews.tw/2025/04/30/the-ukrainians-drone-boom-during-the-war/) — 우크라이나 2023년 약 30만 대 → 2024년 200만 대 이상 → 2025년 450만 대, 월산 20-40만 대의 곡선은 전선 소모에 의해 역산된 수요 함수.
-
-## 사진 출처
-
-본문에서는 2장의 퍼블릭 도메인/CC 라이선스 이미지를 사용하며, 모두 `public/article-images/technology/`에 캐시되어 핫링크 출처 서버를 피한다:
-
-- **Hero**: [Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) — 사진: Kliu1, 2007-10-11 중화민국 국경일 중산과학원 중샹 2호(NCSIST Albatross 시리즈) 전시. 퍼블릭 도메인 via Wikimedia Commons.
-- **Inline**: [UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) — 사진: 현사생, 2013-05-04 중산과학원 루이위안 드론 9717호 가오슝 중정군항 11번 부두 개방일 전시. CC BY-SA 3.0 via Wikimedia Commons.

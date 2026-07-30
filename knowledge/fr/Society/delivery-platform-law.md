@@ -32,8 +32,8 @@ sporeLinks:
     "{'id': 160, 'platform': 'x', 'date': '2026-07-25', 'url': 'https://x.com/taiwandotmd/status/2081045126898684051'}",
   ]
 translatedFrom: 'Society/外送專法.md'
-sourceCommitSha: '615a888ba'
-sourceContentHash: 'sha256:abc006485b5e07d3'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:2226f6ae85580ba3'
 sourceBodyHash: 'sha256:9aa85b1a3d34de72'
 translatedAt: '2026-07-27T22:12:16+08:00'
 ---
@@ -376,6 +376,17 @@ Le quatrième jour après l'entrée en vigueur, l'Alliance nationale de l'indust
 - [全聯福利中心](/fr/economy/pxmart-supermarket) — Le canal local sur cette ligne de livraison de produits frais et d'épicerie
 - [苯駢芘食安事件](/society/苯駢芘食安事件) — Le même mois que la loi spéciale, les bento livrés à la porte par les livreurs sont le downstream de cette tempête de sécurité alimentaire
 
+## Sources d'images
+
+Cet article utilise 5 images (1 domaine public, 4 licences CC), toutes en cache dans `public/article-images/society/`, évitant les liens chauds vers les serveurs de la source ; intègre également 2 vidéos de chaînes officielles (PTS News, TTV News), les deux vidéos n'ont pas de sous-titres récupérables, donc le texte principal ne cite pas les paroles des interviewés dans les vidéos.
+
+- [COMEBUY à Qizhi à Keelung sous la pluie et moto du livreur foodpanda](https://commons.wikimedia.org/wiki/File:COMEBUY_Keelung_Qidu_Store_and_Foodpanda_scooter_20200913.jpg) — Photo : Solomon203, 2020-09-13, CC BY-SA 4.0 (hero)
+- [2007 年南台灣的達美樂披薩外送機車](https://commons.wikimedia.org/wiki/File:Domino's_Pizza_delivery_scooter_in_Southern_Taiwan_20070220.jpg) — Photo : Joe Lewis, 2007-02-20, CC BY-SA 2.0
+- [Journal officiel de la Présidence n° 7838 (21 janvier de la 115e année de la République de Chine)](https://commons.wikimedia.org/wiki/File:ROC2026-01-21%E7%B8%BD%E7%B5%B1%E5%BA%9C%E5%85%AC%E5%A0%B17838.pdf) — Présidence de la République de Chine, 2026-01-21, domaine public (page de sommaire 1, recadrée en bannière)
+- [Salle du Yuan législatif](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E6%B3%95%E9%99%A2%E8%AD%B0%E5%A0%B4.jpg) — Photo : Lin Gaozhi, 2017-10-03, CC BY-SA 4.0
+- [Moto et boîte isotherme du livreur Uber Eats](https://commons.wikimedia.org/wiki/File:Uber_Eats_806-EZV_20201010.jpg) — Photo : Solomon203, 2020-10-10, CC BY-SA 4.0
+- Vidéos : PTS News « Les livreurs appellent à une loi spéciale pour protéger les droits ; le Ministère du Travail : la version du Conseil exécutif sera examinée rapidement | Actualité midi de PTS 20251106 » (chaîne officielle YouTube), TTV News « 3e jour après l'entrée en vigueur de la loi spéciale sur la livraison : les trois sentiments des livreurs, commerçants et consommateurs révélés » (chaîne officielle YouTube)
+
 ## Références
 
 [^1]: [UberEats double commande 4,4 et 8,6 km à 90 dollars (Sanlih News Network)](https://www.setn.com/news/1875786) — Rapport du jour de l'entrée en vigueur le 21 juillet 2026, avec capture d'écran de la prise de commande du livreur, deux doubles commandes estimées à 4,4 km / 19 min et 8,6 km / 26 min, rémunération identique de 90 dollars, et la citation du livreur « Félicitations, le supplément de 24 dollars n'existe plus ».
@@ -501,14 +512,3 @@ Le quatrième jour après l'entrée en vigueur, l'Alliance nationale de l'indust
 [^62]: [Gig workers in Canada (Law of Work)](https://lawofwork.ca/gigworkerscanada/) et [Ontario courts continue to recognize intermediate category of worker (Littler)](https://www.littler.com/publication-press/publication/ontario-canada-courts-continue-recognize-intermediate-category-worker) — La modification de 1975 de la loi sur les relations de travail de l'Ontario, Canada, a inclus le « sous-traitant dépendant » dans la définition des employés, 21 ans avant l'identité worker du Royaume-Uni ; en 2020, la Commission des relations de travail de l'Ontario a jugé que les livreurs Foodora sont des sous-traitants dépendants, peuvent syndiquer. Le TRADE de 2007 en Espagne (Ley 20/2007) appartient également à une catégorie intermédiaire de longue existence. **Correction spéciale lors de la vérification de cet article** : la version initiale disait que le Royaume-Uni est le seul pays ayant utilisé de longue date une identité intermédiaire ; après vérification, il y a un contre-exemple clair, changé en « minorité » et complété avec le précédent canadien tombant directement sur la livraison.
 
 [^61]: [Le syndicat accuse le Ministère du Travail de ne pas amender (ETtoday)](https://www.ettoday.net/news/20260724/3206977.htm) — Rapport du 24 juillet 2026, le 4e jour après l'entrée en vigueur, recueillant littéralement la déclaration collective de l'Alliance nationale de l'industrie de la livraison « légiférer sans appliquer la loi pour amender, est-ce pour l'exposer ? Pour regarder ? Le Ministère du Travail va-t-il continuer à aider les plateformes à gagner du temps ? »
-
-## Sources d'images
-
-Cet article utilise 5 images (1 domaine public, 4 licences CC), toutes en cache dans `public/article-images/society/`, évitant les liens chauds vers les serveurs de la source ; intègre également 2 vidéos de chaînes officielles (PTS News, TTV News), les deux vidéos n'ont pas de sous-titres récupérables, donc le texte principal ne cite pas les paroles des interviewés dans les vidéos.
-
-- [COMEBUY à Qizhi à Keelung sous la pluie et moto du livreur foodpanda](https://commons.wikimedia.org/wiki/File:COMEBUY_Keelung_Qidu_Store_and_Foodpanda_scooter_20200913.jpg) — Photo : Solomon203, 2020-09-13, CC BY-SA 4.0 (hero)
-- [2007 年南台灣的達美樂披薩外送機車](https://commons.wikimedia.org/wiki/File:Domino's_Pizza_delivery_scooter_in_Southern_Taiwan_20070220.jpg) — Photo : Joe Lewis, 2007-02-20, CC BY-SA 2.0
-- [Journal officiel de la Présidence n° 7838 (21 janvier de la 115e année de la République de Chine)](https://commons.wikimedia.org/wiki/File:ROC2026-01-21%E7%B8%BD%E7%B5%B1%E5%BA%9C%E5%85%AC%E5%A0%B17838.pdf) — Présidence de la République de Chine, 2026-01-21, domaine public (page de sommaire 1, recadrée en bannière)
-- [Salle du Yuan législatif](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E6%B3%95%E9%99%A2%E8%AD%B0%E5%A0%B4.jpg) — Photo : Lin Gaozhi, 2017-10-03, CC BY-SA 4.0
-- [Moto et boîte isotherme du livreur Uber Eats](https://commons.wikimedia.org/wiki/File:Uber_Eats_806-EZV_20201010.jpg) — Photo : Solomon203, 2020-10-10, CC BY-SA 4.0
-- Vidéos : PTS News « Les livreurs appellent à une loi spéciale pour protéger les droits ; le Ministère du Travail : la version du Conseil exécutif sera examinée rapidement | Actualité midi de PTS 20251106 » (chaîne officielle YouTube), TTV News « 3e jour après l'entrée en vigueur de la loi spéciale sur la livraison : les trois sentiments des livreurs, commerçants et consommateurs révélés » (chaîne officielle YouTube)

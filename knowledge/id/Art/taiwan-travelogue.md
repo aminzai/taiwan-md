@@ -30,8 +30,8 @@ sporeLinks:
     "{'id': 85, 'platform': 'x', 'date': '2026-05-23', 'url': 'https://x.com/taiwandotmd/status/2058211699229134864'}",
   ]
 translatedFrom: 'Art/臺灣漫遊錄.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:1be78dcd03c2e2ba'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:1cbdf7bdeea3f06d'
 sourceBodyHash: 'sha256:f65ef91c0cd14c9b'
 translatedAt: '2026-07-29T17:42:45+08:00'
 ---
@@ -166,6 +166,14 @@ _19 November 2024 NBA finalist reading (acara pembacaan finalis), Yang Shuang-zi
 - [Zhu Tian-wen (朱天文)](/people/朱天文) — Penulis wanita representatif pascamartial law, _Catatan Orang Gila_ (荒人手記) dan _Kota Tua_ (古都) teknik pseudo-terjemahan jadi pendahuluan penting struktur terjemahan palsu sastra Taiwan
 - [Wu Ming-yi (吳明益)](/id/people/wu-ming-yi) — Sama-sama representatif Taiwan gelombang sastra terjemahan internasional 2020-an, _Manusia Mata Majemuk_ (複眼人), _Kejahatan Sepeda_ (單車失竊記) visibilitas di dunia berbahasa Inggris
 
+## Sumber Gambar
+
+Artikel ini pakai 3 gambar Wikimedia Commons CC BY-SA 4.0, semua cache di `public/article-images/art/` hindari hotlink server asal:
+
+- [Yang Shuang-zi di National Book Awards 2024](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg) — Foto: Bea Phi (Phibeatrice), 2024-11-20, CC BY-SA 4.0. Yang Shuang-zi di New York Cipriani Wall Street upacara NBA.
+- [Yang Shuang-zi dan Lin King di Upacara National Book Awards 2024](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_and_Lin_King_at_the_National_Book_Awards_Ceremony_2024_02.jpg) — Foto: Jennifer 8. Lee (Jenny8lee), 2024-11-20, CC BY-SA 4.0. Yang Shuang-zi dan penerjemah Lin King berfoto.
+- [Yáng Shuāng-zǐ, penulis, di pembacaan finalis NBA 2024 ke-3](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg) — Foto: Bea Phi (Phibeatrice), 2024-11-19, CC BY-SA 4.0. Yang Shuang-zi di NBA finalis pembacaan.
+
 ## Referensi
 
 [^1]: [CNA: "Catatan Perjalanan Taiwan" Menang Booker Internasional Yang Shuang-zi: Lahir Sebagai Orang Taiwan Adalah Keberuntungan dan Kebanggaan](https://www.cna.com.tw/news/acul/202605200011.aspx) — Central News Agency 20 Mei 2026, merekam adegan penghargaan Booker Internasional Tate Modern London dan detail hadiah (50.000 poundsterling dibagi rata penulis penerjemah).
@@ -235,11 +243,3 @@ _19 November 2024 NBA finalist reading (acara pembacaan finalis), Yang Shuang-zi
 [^33]: [The Reporter: Wawancara Yang Shuang-zi](https://www.twreporter.org/a/interview-taiwan-travelogue-a-novel-writer-yang-shuang-zi) — Yang Shuang-zi sendiri cerita 2014 pasca-318 Gerakan Bunga Matahari motivasinya nulis hubungan Taiwan-Tiongkok: "Kuncinya harus jawab: Taiwan dan Tiongkok bedanya apa?"
 
 [^34]: [U-People: Hidup dan Penulisan Kembar Tumpang ke Satu Orang](https://topic.udn.com/event/2025_0310) — Yang Shuang-zi terima United Daily News U-People wawancara mendalam, sebut adik belum sempat lihat _Catatan Perjalanan Taiwan_ menang penghargaan penyesalan: "Kalau hasil ini bisa lebih awal sedikit saja, adik mungkin bisa lihat."
-
-## Sumber Gambar
-
-Artikel ini pakai 3 gambar Wikimedia Commons CC BY-SA 4.0, semua cache di `public/article-images/art/` hindari hotlink server asal:
-
-- [Yang Shuang-zi di National Book Awards 2024](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg) — Foto: Bea Phi (Phibeatrice), 2024-11-20, CC BY-SA 4.0. Yang Shuang-zi di New York Cipriani Wall Street upacara NBA.
-- [Yang Shuang-zi dan Lin King di Upacara National Book Awards 2024](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_and_Lin_King_at_the_National_Book_Awards_Ceremony_2024_02.jpg) — Foto: Jennifer 8. Lee (Jenny8lee), 2024-11-20, CC BY-SA 4.0. Yang Shuang-zi dan penerjemah Lin King berfoto.
-- [Yáng Shuāng-zǐ, penulis, di pembacaan finalis NBA 2024 ke-3](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg) — Foto: Bea Phi (Phibeatrice), 2024-11-19, CC BY-SA 4.0. Yang Shuang-zi di NBA finalis pembacaan.

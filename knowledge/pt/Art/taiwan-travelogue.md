@@ -30,8 +30,8 @@ sporeLinks:
     "{'id': 85, 'platform': 'x', 'date': '2026-05-23', 'url': 'https://x.com/taiwandotmd/status/2058211699229134864'}",
   ]
 translatedFrom: 'Art/臺灣漫遊錄.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:1be78dcd03c2e2ba'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:1cbdf7bdeea3f06d'
 sourceBodyHash: 'sha256:f65ef91c0cd14c9b'
 translatedAt: '2026-07-29T02:35:13+08:00'
 ---
@@ -166,6 +166,14 @@ _19 de novembro de 2024, leitura dos finalistas do NBA: Yang Shuang-zi lê trech
 - [Chu Tien-wen (朱天文)](/pt/people/chu-tien-wen) — Representante da escrita feminina pós-lei marcial; _Notes of a Desolate Man_ (《荒人手記》) e _The Old Capital_ (《古都》) com suas técnicas de pseudo-tradução são antecedentes importantes na literatura de Taiwan
 - [Wu Ming-yi (吳明益)](/pt/people/wu-ming-yi) — Outro representante de Taiwan na onda internacional de literatura traduzida dos anos 2020; _The Man with the Compound Eyes_ (《複眼人》) e _The Stolen Bicycle_ (《單車失竊記》) no mundo anglófono
 
+## Créditos das imagens
+
+Este artigo usa 3 imagens do Wikimedia Commons sob licença CC BY-SA 4.0, todas em cache em `public/article-images/art/` para evitar hotlink:
+
+- [Yang Shuang-zi no 75º National Book Award](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg) — Foto: Bea Phi (Phibeatrice), 2024-11-20, CC BY-SA 4.0. Yang Shuang-zi na cerimônia do NBA no Cipriani Wall Street, Nova York.
+- [Yang Shuang-zi e Lin King na cerimônia do National Book Award 2024](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_and_Lin_King_at_the_National_Book_Awards_Ceremony_2024_02.jpg) — Foto: Jennifer 8. Lee (Jenny8lee), 2024-11-20, CC BY-SA 4.0. Yang Shuang-zi e a tradutora Lin King juntas.
+- [Yang Shuang-zi, escritora, na leitura dos finalistas do NBA 3](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg) — Foto: Bea Phi (Phibeatrice), 2024-11-19, CC BY-SA 4.0. Yang Shuang-zi na leitura dos finalistas do NBA.
+
 ## Referências
 
 [^1]: [CNA: «Taiwan Travelogue» vence International Booker Prize; Yang Shuang-zi: nascer taiwanesa é sorte e orgulho](https://www.cna.com.tw/news/acul/202605200011.aspx) — Reportagem da Agência Central de Notícias de 20 de maio de 2026, registra a cerimônia no Tate Modern e detalhes do prêmio (50 mil libras divididas entre autora e tradutora).
@@ -235,11 +243,3 @@ _19 de novembro de 2024, leitura dos finalistas do NBA: Yang Shuang-zi lê trech
 [^33]: [The Reporter: Entrevista a Yang Shuang-zi](https://www.twreporter.org/a/interview-taiwan-travelogue-a-novel-writer-yang-shuang-zi) — Yang Shuang-zi relata motivação pós-318 (Movimento Girassol): «Chave era responder: no fim, o que Taiwan e China têm de diferente?»
 
 [^34]: [U-People: A vida e a escrita das gêmeas concentradas em uma](https://topic.udn.com/event/2025_0310) — Entrevista profunda ao _United Daily News U-People_; Yang Shuang-zi lamenta que a irmã não tenha visto o prêmio: «Se este resultado tivesse vindo antes, talvez a irmã pudesse ver.»
-
-## Créditos das imagens
-
-Este artigo usa 3 imagens do Wikimedia Commons sob licença CC BY-SA 4.0, todas em cache em `public/article-images/art/` para evitar hotlink:
-
-- [Yang Shuang-zi no 75º National Book Award](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg) — Foto: Bea Phi (Phibeatrice), 2024-11-20, CC BY-SA 4.0. Yang Shuang-zi na cerimônia do NBA no Cipriani Wall Street, Nova York.
-- [Yang Shuang-zi e Lin King na cerimônia do National Book Award 2024](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_and_Lin_King_at_the_National_Book_Awards_Ceremony_2024_02.jpg) — Foto: Jennifer 8. Lee (Jenny8lee), 2024-11-20, CC BY-SA 4.0. Yang Shuang-zi e a tradutora Lin King juntas.
-- [Yang Shuang-zi, escritora, na leitura dos finalistas do NBA 3](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg) — Foto: Bea Phi (Phibeatrice), 2024-11-19, CC BY-SA 4.0. Yang Shuang-zi na leitura dos finalistas do NBA.

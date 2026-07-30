@@ -23,8 +23,8 @@ lastVerified: 2026-06-24
 lastHumanReview: false
 featured: false
 translatedFrom: 'Nature/大安溪倚天劍.md'
-sourceCommitSha: 'ff92f3866'
-sourceContentHash: 'sha256:3ee4be522cff1a4e'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:d645338641d89664'
 sourceBodyHash: 'sha256:5dcfd938f21ea513'
 translatedAt: '2026-06-25T00:43:06+08:00'
 image: '/article-images/nature/taiwania-nantou-shihchuan.webp'
@@ -222,6 +222,20 @@ _自然保育與環境資訊基金会（TNF）公式ドキュメンタリー：�
 - [台湾森林生態系](/ja/nature/taiwan-forest-ecosystems) — 霧林帯、貴重針葉五木、巨木の生態的位置づけ。倚天剣はこのシステムの最高点です
 - [台湾国家公園](/ja/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — 雪霸国家公園と林業及自然保育署の管轄区域は、これら巨木に残された最後の避難所です
 
+## 画像出典
+
+本文では 5 点の CC / パブリックドメイン画像を使用しています。いずれも `public/article-images/nature/` にキャッシュし、EXIF を削除したうえで WebP に変換しており、出典サーバーへのホットリンクを避けています。
+
+- [台湾杉（南投野外）— 石川 Shihchuan](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides,_Nantou_County,_Taiwan_1.jpg) — Wikimedia Commons, CC BY-SA 2.0（hero）
+- [台湾杉の枝葉と樹形 — KENPEI](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides3.jpg) — Wikimedia Commons, CC BY-SA 3.0
+- [雪霸国家公園の霧林帯](https://commons.wikimedia.org/wiki/File:Shei-Pa_National_Park%2Bcwtu%2B003.jpg) — Wikimedia Commons, CC BY-SA 4.0
+- [大霸尖山（大安渓源流部）— Alan Wu](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%9C%B8%E5%B0%96%E5%B1%B1.jpg) — Wikimedia Commons, CC BY-SA 4.0
+- [早田文藏 — Sasaki](https://commons.wikimedia.org/wiki/File:Bunz%C5%8D_Hayata.JPG) — Wikimedia Commons, Public domain
+
+動画：[「臺灣第一高樹」大安溪倚天劍神木 完整紀錄片](https://www.youtube.com/watch?v=UO2HUmNvyFc) — 自然保育與環境資訊基金会（TNF）公式チャンネル。
+
+倚天剣そのものの写真、Steven Pearce の等身大写真、『神木之島』のスチルはいずれも著作権素材であり（かつ『神木之島』映像の権利関係は現在論争中です）、本文では使用していません。関連映像は上記 TNF 公式ドキュメンタリーおよび各権利者の公開経路をご覧ください。
+
 ## 参考資料
 
 [^1]: [After Decade-Long Hunt, Scientists Find East Asia's Tallest Tree — Sci.News](https://www.sci.news/biology/heaven-sword-tree-14824.html) — 2026 年の報道。大安渓倚天剣 84.1 メートルが、現在知られている東アジア最高の木であることを確認しています。上位 10 本の高木はいずれも台湾杉（Taiwania cryptomerioides）で、そのうち 9 本は 70 メートルを超えます。
@@ -349,17 +363,3 @@ _自然保育與環境資訊基金会（TNF）公式ドキュメンタリー：�
 [^62]: [Taiwania cryptomerioides — IUCN Red List / Royal Botanic Garden Edinburgh](https://threatenedconifers.rbge.org.uk/conifers/taiwania-cryptomerioides) — 台湾杉の世界的保全状況は危急（Vulnerable）と評価されています。生息地は気候変動の脅威を受け、適した生息地は大幅に縮小すると予測されています。
 
 [^63]: [桃山巨木谷每公頃碳儲存約 1384 公噸 — 中央社, 2026-06-05](https://www.cna.com.tw/news/ahel/202606050305.aspx) — 找樹的人チームは桃山神木のある巨木谷（4 ヘクタール）を調査し、1 ヘクタール当たりの炭素貯蔵量を約 1,384 トン（根部を除く）と推定しました。これは世界で最も炭素密度が高いオーストラリア・タスマニアの巨木林（約 1,867 トン/ヘクタール）に近い値です。
-
-## 画像出典
-
-本文では 5 点の CC / パブリックドメイン画像を使用しています。いずれも `public/article-images/nature/` にキャッシュし、EXIF を削除したうえで WebP に変換しており、出典サーバーへのホットリンクを避けています。
-
-- [台湾杉（南投野外）— 石川 Shihchuan](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides,_Nantou_County,_Taiwan_1.jpg) — Wikimedia Commons, CC BY-SA 2.0（hero）
-- [台湾杉の枝葉と樹形 — KENPEI](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides3.jpg) — Wikimedia Commons, CC BY-SA 3.0
-- [雪霸国家公園の霧林帯](https://commons.wikimedia.org/wiki/File:Shei-Pa_National_Park%2Bcwtu%2B003.jpg) — Wikimedia Commons, CC BY-SA 4.0
-- [大霸尖山（大安渓源流部）— Alan Wu](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%9C%B8%E5%B0%96%E5%B1%B1.jpg) — Wikimedia Commons, CC BY-SA 4.0
-- [早田文藏 — Sasaki](https://commons.wikimedia.org/wiki/File:Bunz%C5%8D_Hayata.JPG) — Wikimedia Commons, Public domain
-
-動画：[「臺灣第一高樹」大安溪倚天劍神木 完整紀錄片](https://www.youtube.com/watch?v=UO2HUmNvyFc) — 自然保育與環境資訊基金会（TNF）公式チャンネル。
-
-倚天剣そのものの写真、Steven Pearce の等身大写真、『神木之島』のスチルはいずれも著作権素材であり（かつ『神木之島』映像の権利関係は現在論争中です）、本文では使用していません。関連映像は上記 TNF 公式ドキュメンタリーおよび各権利者の公開経路をご覧ください。

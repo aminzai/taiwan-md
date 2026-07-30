@@ -29,8 +29,8 @@ imageSource: 'https://designbiz.shoppingdesign.com.tw/2022/'
 rationale: "{'why_this_hook': '創刊號白色 vs 第 100 期「採購白色設計」——同樣的白隔十一年、多出「採購」兩個字＝把品味變成動作＝分辨。溫暖、具象、留懸念（最後要分辨的是它自己），不 bake in gotcha。', 'whats_excluded': '廖立文暗線進腳註不展開；Podcast 具名集數壓成一句「觸角延伸到聲音」；DesignBIZ 講者名單壓成「一整排品牌高層」、職稱進腳註；母公司董事名單只留「雜誌出版＋廣告服務同一張執照」這個服務論點的證據；設計小聚場次、風格經濟學院併進「機制放大」一句。before 版把這些攤成八個可 shuffle 的獨立面向段，投影後壓成論證的一步。', 'where_it_hedges': '季刊化寫「2019 年底改版＋第 134 期 2020 年 3 月首刊」雙時點；金鼎寫「第 40 屆（2016）雜誌類個人獎主編獎」不寫「最佳」；黃威融「打開五感、懂得品鑑」出自 is_ads 威士忌業配文、改用他本人 verified 素材，業配文放陰影段當案例並誠實標業配；「軟雜誌誕生的前鋒部隊」只引 6 字、La Vie/PPAPER 2004 用敘述句；詹宏志名言標「李惠貞轉引」；小日子寫「其後未見新刊」；SD 寫「少數走到現在的案例之一」；BEST100 類別數 9/10/11 逐年變、非官方獎；現任總編查無用「主編奕昕、副主編雅筠」。', 'whos_pushing_back': '對生活風格媒體最合理的質疑：它是否把消費包裝成理想生活。本文不虛構外部負評（查無可承擔 claim 的公共爭議），只做結構提問＋業界自省（副總編包叔平談廣編倫理）＋產業結構（La Vie 同樣自辦獎、與巨思同源詹宏志），不升級為已發生爭議，也不把布迪厄理論寫成有人用它批評 SD。'}"
 relatedDiary: ['2026-07-13-214351-manual']
 translatedFrom: 'Culture/Shopping Design.md'
-sourceCommitSha: '17b63fe83'
-sourceContentHash: 'sha256:5d83fb5eff7a2309'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:ad45b627d00f528f'
 sourceBodyHash: 'sha256:da4269ea46f7ec77'
 translatedAt: '2026-07-28T08:53:32+08:00'
 ---
@@ -166,6 +166,14 @@ _Vol.155《भर्ती डिज़ाइन》। आपको पहचा
 - [ताइवान चाय道 और जीवन सौंदर्यशास्त्र](/hi/culture/taiwan-tea-ceremony-and-aesthetic-living) — जीवन सौंदर्यशास्त्र ताइवान में कैसे एक चर्चा-योग्य, ख़रीद-योग्य रोज़मर्रा बनी
 - [नीए योंग-चेन](/people/聶永真) — उसी ताइवानी डिज़ाइन संदर्भ में, डिज़ाइन को जनता के सामने लाने वाला एक और नाम
 
+## चित्र स्रोत
+
+- **Hero｜DesignBIZ Fest 2022 मुख्य दृश्य**: Shopping Design／DesignBIZ Fest, स्रोत <https://designbiz.shoppingdesign.com.tw/2022/>। उचित उपयोग (संपादकीय टिप्पणी)।
+- **Vol.147《आदर्श निवासी》 कवर**: Shopping Design (जू स्ज़ मीडिया समूह Business Next Media), स्रोत आधिकारिक वेबसाइट पत्रिका सूची <https://www.shoppingdesign.com.tw/magazine/>। उचित उपयोग (संपादकीय टिप्पणी)।
+- **Vol.150《हम ऐसे डिज़ाइन संजोते हैं》 कवर**: Shopping Design (जू स्ज़ मीडिया समूह Business Next Media), स्रोत आधिकारिक वेबसाइट पत्रिका सूची <https://www.shoppingdesign.com.tw/magazine/>। उचित उपयोग (संपादकीय टिप्पणी)।
+- **DesignBIZ Fest 2022 वक्ता मंच**: Shopping Design／DesignBIZ Fest, स्रोत <https://designbiz.shoppingdesign.com.tw/2022/>। उचित उपयोग (संपादकीय टिप्पणी)।
+- **Vol.155《भर्ती डिज़ाइन》 कवर**: जू स्ज़ मीडिया समूह Business Next Media, स्रोत <https://www.shoppingdesign.com.tw/magazine/view/130050>। उचित उपयोग (संपादकीय टिप्पणी)।
+
 ## संदर्भ सामग्री
 
 [^1]: [पत्रिका को पाठकों को सचेत होकर जीने की याद दिलानी चाहिए: 《Shopping Design》 प्रधान संपादक ली हुई-चेन](https://www.biosmonthly.com/article/8577) — BIOS monthly 2017 फरवरी साक्षात्कार, ली हुई-चेन के प्रधान संपादक के रूप में "छठे वर्ष में प्रवेश" और 100वीं किश्त के "सफ़ेद डिज़ाइन की ख़रीद" विषय द्वारा शुरुआती किश्त "सफ़ेद डिज़ाइन" की प्रतिध्वनि दर्ज करता है।
@@ -219,11 +227,3 @@ _Vol.155《भर्ती डिज़ाइन》। आपको पहचा
 [^23]: [मीडिया साक्षरता](https://zh.wikipedia.org/zh-tw/媒體素養) — विकिपीडिया सूचकांक, ताइवान 2002 में 《मीडिया साक्षरता शिक्षा नीति श्वेत पत्र》 जारी, हाई स्कूल 2017 शैक्षणिक वर्ष से मीडिया साक्षरता को पाठ्यक्रम में शामिल करने की नीति पृष्ठभूमि रिकॉर्ड।
 
 [^24]: [2024 "हम ऐसे डिज़ाइन संजोते हैं" व्याख्यान समीक्षा](https://www.shoppingdesign.com.tw/post/view/10553) — Shopping Design आधिकारिक 2024 अगस्त रिपोर्ट, शब्दशः "Shopping Design प्रधान संपादक यी-शिन, उप प्रधान संपादक या-युन" प्रकट, हाल के वर्षों में सत्यापन योग्य संपादक विभाग सर्वोच्च पदवी (पहले "प्रधान संपादक" से घटकर "प्रधान संपादक")।
-
-## चित्र स्रोत
-
-- **Hero｜DesignBIZ Fest 2022 मुख्य दृश्य**: Shopping Design／DesignBIZ Fest, स्रोत <https://designbiz.shoppingdesign.com.tw/2022/>। उचित उपयोग (संपादकीय टिप्पणी)।
-- **Vol.147《आदर्श निवासी》 कवर**: Shopping Design (जू स्ज़ मीडिया समूह Business Next Media), स्रोत आधिकारिक वेबसाइट पत्रिका सूची <https://www.shoppingdesign.com.tw/magazine/>। उचित उपयोग (संपादकीय टिप्पणी)।
-- **Vol.150《हम ऐसे डिज़ाइन संजोते हैं》 कवर**: Shopping Design (जू स्ज़ मीडिया समूह Business Next Media), स्रोत आधिकारिक वेबसाइट पत्रिका सूची <https://www.shoppingdesign.com.tw/magazine/>। उचित उपयोग (संपादकीय टिप्पणी)।
-- **DesignBIZ Fest 2022 वक्ता मंच**: Shopping Design／DesignBIZ Fest, स्रोत <https://designbiz.shoppingdesign.com.tw/2022/>। उचित उपयोग (संपादकीय टिप्पणी)।
-- **Vol.155《भर्ती डिज़ाइन》 कवर**: जू स्ज़ मीडिया समूह Business Next Media, स्रोत <https://www.shoppingdesign.com.tw/magazine/view/130050>। उचित उपयोग (संपादकीय टिप्पणी)।

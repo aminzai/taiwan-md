@@ -28,8 +28,8 @@ imageCredit: 'justfont / flyingV'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.flyingv.cc/projects/8250'
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: 'e773ef6b'
-sourceContentHash: 'sha256:6e31a2264dcded4f'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:50da80d49885286c'
 sourceBodyHash: 'sha256:dcea1d33e3c8824c'
 translatedAt: '2026-06-14T00:35:00+08:00'
 ---
@@ -247,6 +247,17 @@ _張介冠がスクリーンの前でデジタル化した字形を修正して�
 - [社会運動と市民参加](/ja/society/social-movements-and-civic-participation)：金萱論争のような「公共の事柄をめぐって言い争う」エネルギーが、台湾社会でより大きな文脈を持つことを示す。
 - [海底ケーブル](/ja/technology/submarine-cables-taiwan-lifeline)：もう一つの、誰もが毎日使いながらほとんど誰も見えていないインフラ。
 
+## 画像出典
+
+- **カバー画像**：金萱フォントflyingVクラウドファンディングページのメインビジュアル。© justfont / flyingV、fair use editorial commentary。出典：[flyingVプロジェクトページ](https://www.flyingv.cc/projects/8250)
+- **台北バス路線表示**：Photo: BlubiNeko, 2022、[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)、via Wikimedia Commons
+- **日星鑄字行の鉛字**：Photo: Johan Jönsson, 2023、[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)、via Wikimedia Commons
+- **金萱公式サンプルシート**：© justfont、justfont 提供素材、fair use editorial commentary（提携ライセンス）。出典：[justfont blog 金萱発表文](https://blog.justfont.com/2015/08/introducing-jinshuan/)
+- **jf open 粉圓公式ビジュアル**：© justfont、公式GitHubリポジトリ公開（フォント本体OFL 1.1）。出典：[open-huninn-font](https://github.com/justfont/open-huninn-font)
+- **蘭陽明体と『澗于集』比較図**：© justfont、justfont 提供素材、fair use editorial commentary（提携ライセンス）。出典：[justfont蘭陽明体公式ページ](https://justfont.com/lanyangming/)
+- **柑仔蜜公式サンプルシート**：© justfont、justfont 提供素材、fair use editorial commentary（提携ライセンス）。出典：[justfont柑仔蜜公式ページ](https://justfont.com/kamabit/)
+- **張介冠修字作業写真**：© justfont、justfont 提供素材、fair use editorial commentary（提携ライセンス）。出典：[justfont blog日星宋体貳号](https://blog.justfont.com/2025/06/rixing-song2-revivals/)
+
 ## 参考資料
 
 [^1]: [flyingV：金萱フォントクラウドファンディングプロジェクトページ](https://www.flyingv.cc/projects/8250) — クラウドファンディングの一次記録。総額NT$25,930,099・7,667人支援・目標150万元。
@@ -378,14 +389,3 @@ _張介冠がスクリーンの前でデジタル化した字形を修正して�
 [^64]: [Wikipedia：就是字（justfont）](https://zh.wikipedia.org/zh-tw/%E5%B0%B1%E6%98%AF%E5%AD%97) — 会社沿革を記録：葉俊麟の華康背景・2010年創立・蘇煒翔が2012年に加入して最初の正式社員になったこと。
 
 [^65]: [Wikipedia：威鋒數位](https://zh.wikipedia.org/wiki/%E5%A8%81%E9%8B%92%E6%95%B8%E4%BD%8D) — 華康が1987年9月に台北で設立され台湾初のデジタルフォント会社であること、及び2001年に威鋒數位と改称した沿革を記録。
-
-## 画像出典
-
-- **カバー画像**：金萱フォントflyingVクラウドファンディングページのメインビジュアル。© justfont / flyingV、fair use editorial commentary。出典：[flyingVプロジェクトページ](https://www.flyingv.cc/projects/8250)
-- **台北バス路線表示**：Photo: BlubiNeko, 2022、[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)、via Wikimedia Commons
-- **日星鑄字行の鉛字**：Photo: Johan Jönsson, 2023、[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)、via Wikimedia Commons
-- **金萱公式サンプルシート**：© justfont、justfont 提供素材、fair use editorial commentary（提携ライセンス）。出典：[justfont blog 金萱発表文](https://blog.justfont.com/2015/08/introducing-jinshuan/)
-- **jf open 粉圓公式ビジュアル**：© justfont、公式GitHubリポジトリ公開（フォント本体OFL 1.1）。出典：[open-huninn-font](https://github.com/justfont/open-huninn-font)
-- **蘭陽明体と『澗于集』比較図**：© justfont、justfont 提供素材、fair use editorial commentary（提携ライセンス）。出典：[justfont蘭陽明体公式ページ](https://justfont.com/lanyangming/)
-- **柑仔蜜公式サンプルシート**：© justfont、justfont 提供素材、fair use editorial commentary（提携ライセンス）。出典：[justfont柑仔蜜公式ページ](https://justfont.com/kamabit/)
-- **張介冠修字作業写真**：© justfont、justfont 提供素材、fair use editorial commentary（提携ライセンス）。出典：[justfont blog日星宋体貳号](https://blog.justfont.com/2025/06/rixing-song2-revivals/)

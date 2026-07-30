@@ -27,8 +27,8 @@ imageCredit: '石川 Shihchuan / Wikimedia Commons (CC BY-SA 2.0)'
 readingTime: 15
 relatedDiary: ['2026-06-24-153210-大安溪倚天劍-rewrite']
 translatedFrom: 'Nature/大安溪倚天劍.md'
-sourceCommitSha: 'ff92f3866'
-sourceContentHash: 'sha256:3ee4be522cff1a4e'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:d645338641d89664'
 sourceBodyHash: 'sha256:5dcfd938f21ea513'
 translatedAt: '2026-07-29T07:32:37+08:00'
 ---
@@ -224,6 +224,20 @@ _Официальный документальный фильм Фонда пр�
 - [Лесные экосистемы Тайваня](/ru/nature/taiwan-forest-ecosystems) — туманный лес, пять ценных хвойных пород и экологические координаты гигантов, Итяньцзянь — высшая точка этой системы
 - [Национальные парки Тайваня](/ru/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Национальный парк Сюэба и зона Лесного управления и охраны природы — последние убежища этих гигантов
 
+## Источники изображений
+
+В статье использовано 5 фото CC / общественного достояния, все кэшированы в `public/article-images/nature/`, EXIF удалён, конвертированы в WebP, чтобы не нагружать исходные серверы горячими ссылками:
+
+- [Тайваньская сугия (поля Наньтоу) — Сыкуань Шихчуань](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides,_Nantou_County,_Taiwan_1.jpg) — Wikimedia Commons, CC BY-SA 2.0 (hero)
+- [Ветви и форма тайваньской сугии — КЭНПЭЙ](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides3.jpg) — Wikimedia Commons, CC BY-SA 3.0
+- [Туманный лес национального парка Сюэба](https://commons.wikimedia.org/wiki/File:Shei-Pa_National_Park%2Bcwtu%2B003.jpg) — Wikimedia Commons, CC BY-SA 4.0
+- [Гора Дабацзянь (исток Дайаньси) — Алан У](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%9C%B8%E5%B0%96%E5%B1%B1.jpg) — Wikimedia Commons, CC BY-SA 4.0
+- [Хаята Бундзо — Сасаки](https://commons.wikimedia.org/wiki/File:Bunz%C5%8D_Hayata.JPG) — Wikimedia Commons, Public domain
+
+Видео: [「臺灣第一高樹」大安溪倚天劍神木 完整紀錄片](https://www.youtube.com/watch?v=UO2HUmNvyFc) — официальный канал Фонда природоохраны и экологической информации (TNF).
+
+Фото самого Итяньцзянь, натуральная фотография Пирса, кадры из «Острова божественных деревьев» — авторские материалы (и видеоматериалы «Острова божественных деревьев» в процессе спора о лицензиях), в статье не использованы, соответствующие кадры см. в вышеуказанном официальном документальном фильме TNF и каналах правообладателей.
+
 ## Ссылки
 
 [^1]: [After Decade-Long Hunt, Scientists Find East Asia's Tallest Tree — Sci.News](https://www.sci.news/biology/heaven-sword-tree-14824.html) — отчёт 2026 года, подтверждение Дайаньси Итяньцзянь 84,1 м как на данный момент известного высшего дерева Восточной Азии; десять высших — все тайваньские сугии (Taiwania cryptomerioides), из них девять выше 70 м.
@@ -351,17 +365,3 @@ _Официальный документальный фильм Фонда пр�
 [^62]: [Taiwania cryptomerioides — IUCN Red List / Royal Botanic Garden Edinburgh](https://threatenedconifers.rbge.org.uk/conifers/taiwania-cryptomerioides) — тайваньская сугия глобальный статус охраны — уязвимая (Vulnerable); ареал под угрозой климатических изменений, прогноз подходящего ареала резко сокращается.
 
 [^63]: [桃山巨木谷每公頃碳儲存約 1384 公噸 — 中央社, 2026-06-05](https://www.cna.com.tw/news/ahel/202606050305.aspx) — команда «Ищущие деревьев» исследовала долину гигантов, где стоит Таошань (4 гектара), оценила запас углерода ~1384 тонны/гектар (без корней), близко к мировым лидерам по углеродной плотности — тасманским лесам гигантских эвкалиптов (~1867 т/га).
-
-## Источники изображений
-
-В статье использовано 5 фото CC / общественного достояния, все кэшированы в `public/article-images/nature/`, EXIF удалён, конвертированы в WebP, чтобы не нагружать исходные серверы горячими ссылками:
-
-- [Тайваньская сугия (поля Наньтоу) — Сыкуань Шихчуань](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides,_Nantou_County,_Taiwan_1.jpg) — Wikimedia Commons, CC BY-SA 2.0 (hero)
-- [Ветви и форма тайваньской сугии — КЭНПЭЙ](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides3.jpg) — Wikimedia Commons, CC BY-SA 3.0
-- [Туманный лес национального парка Сюэба](https://commons.wikimedia.org/wiki/File:Shei-Pa_National_Park%2Bcwtu%2B003.jpg) — Wikimedia Commons, CC BY-SA 4.0
-- [Гора Дабацзянь (исток Дайаньси) — Алан У](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%9C%B8%E5%B0%96%E5%B1%B1.jpg) — Wikimedia Commons, CC BY-SA 4.0
-- [Хаята Бундзо — Сасаки](https://commons.wikimedia.org/wiki/File:Bunz%C5%8D_Hayata.JPG) — Wikimedia Commons, Public domain
-
-Видео: [「臺灣第一高樹」大安溪倚天劍神木 完整紀錄片](https://www.youtube.com/watch?v=UO2HUmNvyFc) — официальный канал Фонда природоохраны и экологической информации (TNF).
-
-Фото самого Итяньцзянь, натуральная фотография Пирса, кадры из «Острова божественных деревьев» — авторские материалы (и видеоматериалы «Острова божественных деревьев» в процессе спора о лицензиях), в статье не использованы, соответствующие кадры см. в вышеуказанном официальном документальном фильме TNF и каналах правообладателей.

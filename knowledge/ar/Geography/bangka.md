@@ -20,8 +20,8 @@ imageCredit: 'Bernard Gagnon'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01.jpg'
 translatedFrom: 'Geography/艋舺.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:c05a8c5cb2792eea'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:2be6a02448305e7a'
 sourceBodyHash: 'sha256:da886e84510f3d63'
 translatedAt: '2026-07-30T03:55:59+08:00'
 ---
@@ -225,6 +225,16 @@ _سوق هواشي الليلي السياحي. الصورة: مساهم في و
 - [دالونغ-تونغ](/geography/大龍峒) — 1853 أبناء تونغآن المنهزمون في معركة دينغشيا جياوبيان تراجعوا أولاً إلى دالونغ-تونغ، صار باو-آن غونغ مركز دفاع، ثم هاجروا إلى داو داو تشنغ
 - [شي-لين](/geography/士林) — 1859 قتال تشانغ-تشيوان ومعركة دينغشيا جياوبيان 1853 في منغجيا قتالان مختلفان، هما مشهدا قتالين قبليين في شمال تايوان في عهد تشينغ
 
+## مصادر الصور
+
+يستخدم المقال 5 صور برخصة CC BY-SA من ويكيميديا كومنز، كلها مخزنة مؤقتاً في `public/article-images/geography/` لتجنب الربط الساخن بالخادم المصدر:
+
+- [File:Longshan Temple, Taipei 01.jpg](https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01.jpg) — قاعة معبد لونغشان في منغجيا الأمامية، تصوير برنار غانيون، CC BY-SA 3.0
+- [File:Bopiliao Historic Block 剝皮寮歷史街區.jpg](https://commons.wikimedia.org/wiki/File:Bopiliao_Historic_Block_%E5%89%9D%E7%9A%AE%E5%AF%AE%E6%AD%B7%E5%8F%B2%E8%A1%97%E5%8D%80.jpg) — أروقة الطوب الأحمر في منطقة بوبiliaو التاريخية، CC BY-SA
+- [File:Chin S Temple in Taipei.JPG](https://commons.wikimedia.org/wiki/File:Chin_S_Temple_in_Taipei.JPG) — معبد تشينغشوي يان زوشي في منغجيا، CC BY-SA
+- [File:2017-06-29 Bangka Qingshan Temple, Wanhua District, Taipei.jpg](https://commons.wikimedia.org/wiki/File:2017-06-29_Bangka_Qingshan_Temple,_Wanhua_District,_Taipei.jpg) — قصر تشينغشان في منغجيا، CC BY-SA
+- [File:Huaxi Street Tourist Night Market 2019.jpg](https://commons.wikimedia.org/wiki/File:Huaxi_Street_Tourist_Night_Market_2019.jpg) — سوق هواشي الليلي السياحي، CC BY-SA
+
 ## المراجع
 
 [^1]: [موقع معبد لونغشان الرسمي — معلومات الزيارة](https://www.lungshan.org.tw/tw/) — ساعات فتح لونغشان 6:00-22:00 (طوال السنة)، كل يوم تلاوة صباحية عند 6:00 ومسائية عند 3:45، وتلاوة مشتركة عند 8:00 صباحاً. العنوان: رقم 211 شارع قوانغتشو، منطقة وانهوا، تايبيه.
@@ -290,13 +300,3 @@ _سوق هواشي الليلي السياحي. الصورة: مساهم في و
 [^31]: [Snake Alley (Taipei) — Wikipedia](<https://en.wikipedia.org/wiki/Snake_Alley_(Taipei)>) — مقالة ويكيبيديا الإنجليزية لشارع هواشي (زقاق الثعابين)، توثق تحول سوق هواشي الليلي السياحي من ازدهار متاجر الثعابين في التسعينيات إلى ارتفاع الوعي بحماية الحيوانات بعد 2000، تغير الزبائن بعد إلغاء الدعارة، تحول السوق كله للمأكولات الخفيفة، اختفاء متاجر الثعابين تدريجياً، عملية تحول كاملة.
 
 [^32]: [【التعايش الحضري 1-3】 إعادة بناء حديقة منغجيا: بناء على مراحل، تقليص الأروقة لتقليل التأثير على المشردين، أكثر من نصف المستخدمين تبين أن لديهم "منزل" — Right Plus 多多益善 2024-09-04](https://rightplus.org/2024/09/04/mongapark1/) — تقرير كامل لاستطلاع مجموعة مدنية سبتمبر 2024، 178 استبياناً، يشمل 94 مشرداً، 74 مواطناً عادياً، 33 تاجراً محلياً، آراءهم حول إعادة بناء حديقة منغجيا، 60% مشردين يرفضون دور الإيواء العامة وأسبابهم، 60% تجار يدعمون استراتيجية "الإدارة في المكان"، النائبة وو بي-يي تدفع تعديل "قانون المساعدة الاجتماعية" لإضافة فصل خاص بالمشردين، توثيق كامل.
-
-## مصادر الصور
-
-يستخدم المقال 5 صور برخصة CC BY-SA من ويكيميديا كومنز، كلها مخزنة مؤقتاً في `public/article-images/geography/` لتجنب الربط الساخن بالخادم المصدر:
-
-- [File:Longshan Temple, Taipei 01.jpg](https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01.jpg) — قاعة معبد لونغشان في منغجيا الأمامية، تصوير برنار غانيون، CC BY-SA 3.0
-- [File:Bopiliao Historic Block 剝皮寮歷史街區.jpg](https://commons.wikimedia.org/wiki/File:Bopiliao_Historic_Block_%E5%89%9D%E7%9A%AE%E5%AF%AE%E6%AD%B7%E5%8F%B2%E8%A1%97%E5%8D%80.jpg) — أروقة الطوب الأحمر في منطقة بوبiliaو التاريخية، CC BY-SA
-- [File:Chin S Temple in Taipei.JPG](https://commons.wikimedia.org/wiki/File:Chin_S_Temple_in_Taipei.JPG) — معبد تشينغشوي يان زوشي في منغجيا، CC BY-SA
-- [File:2017-06-29 Bangka Qingshan Temple, Wanhua District, Taipei.jpg](https://commons.wikimedia.org/wiki/File:2017-06-29_Bangka_Qingshan_Temple,_Wanhua_District,_Taipei.jpg) — قصر تشينغشان في منغجيا، CC BY-SA
-- [File:Huaxi Street Tourist Night Market 2019.jpg](https://commons.wikimedia.org/wiki/File:Huaxi_Street_Tourist_Night_Market_2019.jpg) — سوق هواشي الليلي السياحي، CC BY-SA

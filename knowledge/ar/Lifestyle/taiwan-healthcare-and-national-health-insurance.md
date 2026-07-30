@@ -33,8 +33,8 @@ datasets:
   ]
 rationale: "{'why_this_hook': '從 1995 開辦的「準備時間只有三天」+ 「補充保費是個錯誤」這兩個自陳金句切入，避免落入「全球第一/血汗醫護」二元敘事；用核心矛盾「成功的制度設計鎖死制度更新的政治路徑」拉開深度。', 'whats_excluded': '失聯移工/黑戶嬰兒/海外停保族群只在「99.6% 盲區」段點到（議題涵蓋面太廣，獨立題目）；「歐巴馬學台灣」delegation 缺證據改寫為學界 + Sanders 引用鏈；Bloomberg #14 直接 refute 不展開方法論細節（節奏考量）。', 'where_it_hedges': 'Hsiao 顧問上任年份取 1989 task force conservative 版本（來源衝突 1988/1989/1991）；行政成本「長期 < 2%」標 hedge（首份報告出處未找到）；IC 卡明標 Slovenia 早 3.5 年（不寫「全球第一」）；醫師起訴率「美 400 倍」未引用（原始數據出處未追到）。', 'whos_pushing_back': '葉金川「總體醫師人數足夠」反五大皆空全面缺；李玉春自己造詞自己反對「點值是現象解」；鄭守夏 + 高若想 + 石崇良反「點值低 = 主因」單一歸因；Reinhardt「I have not advocated the single-payer model here because our government is too corrupt」設計者自反美國複製；70% 家戶買私保 evidence 反向 refute「NHI 鎖死私保」。'}"
 translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
-sourceCommitSha: '31eea37d3'
-sourceContentHash: 'sha256:bc3db40c99c58cf5'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:14d6c92447535914'
 sourceBodyHash: 'sha256:c1ead29e154aba6a'
 translatedAt: '2026-07-28T06:16:02+08:00'
 ---
@@ -197,6 +197,14 @@ _مبنى مستشفى جامعة تايوان الرئيسي. تأسس 1895، �
 - [محاضر اجتماعات لجنة التأمين الصحي الشامل بوزارة الصحة](https://data.gov.tw/dataset/7554)（لجنة التأمين الصحي الشامل بوزارة الصحة، تحديث شهري）— على أي طاولة اجتماع، وبأي سبب، تقرر «الإبقاء على معدل 5.17% دون تعديل»، محاضر مباشرة
 - [بيانات إحصائية لدعم الحكومة لمؤمني التأمين الصحي الشامل الضعفاء](https://data.gov.tw/dataset/23719)（وزارة الصحة وإدارة التأمين الصحي المركزي، تحديث شهري）— قول لين يا هوي «تقاسم المخاطر، الدفع حسب القدرة»، على أرض التنفيذ هو هذا الجدول: الحكومة دفعت عمن
 
+## مصادر الصور
+
+- **Hero**：[مبنى إدارة التأمين الصحي، مدخل قسم تايبيه الرئيسي ROC-MOHW-NHIA](https://commons.wikimedia.org/wiki/File:NHI_Building,_ROC-MOHW-NHIA_Taipei_Division_main_entrance_20180616.jpg) by Solomon203 / Wikimedia Commons / CC BY-SA 4.0
+- **Scene-mid 1**（بطاقة IC للتأمين الصحي نسخة 2017）：صورة رسمية من إدارة التأمين الصحي المركزي بوزارة الصحة / Public Domain（معلومات حكومية عامة）
+- **Scene-mid 2**（فيلم وثائقي 30 عامًا للتأمين الصحي iframe）：قناة يوتيوب الرسمية لإدارة التأمين الصحي المركزي بوزارة الصحة
+- **Scene-mid 3**（محطة تمريض متنقلة تشيا يي 2007)：مستشفى تشيا يي المسيحي / يستخدم لأغراض تعليمية غير ربحية
+- **Closure**（مبنى مستشفى جامعة تايوان الرئيسي）：[National Taiwan University Hospital main building](https://commons.wikimedia.org/wiki/Category:National_Taiwan_University_Hospital) / Wikimedia Commons / CC BY-SA 4.0
+
 ## مراجع
 
 [^1]: [الخدمة الطبية 31 / يي جين تشوان: ثلاثة أيام نار تحرق المؤخرة، صمدت 30 عامًا تأمين صحي](https://health.udn.com/health/story/6001/5826304) — موضوع «الخدمة الطبية 31» 2021 في شبكة يوان تشي، مقابلة يي جين تشوان، أول مدير عام لإدارة التأمين الصحي المركزي يستذكر التعبئة الطارئة قبل ستة أيام من افتتاح 1 مارس 1995، يحتوي «وقت التحضير الفعلي كان ثلاثة أيام فقط»، «نار تحرق المؤخرة»، آلية الطوارئ الاحتياطية باستخدام بطاقات الهوية بدل بطاقات التأمين الصحي وغيرها من المقاطع الحرفية المتعددة.
@@ -284,11 +292,3 @@ _مبنى مستشفى جامعة تايوان الرئيسي. تأسس 1895، �
 [^42]: [سوق التأمين الصحي الخاص في تايوان بعد NHI](https://link.springer.com/article/10.1057/gpp.2012.36) — ورقة Geneva Papers on Risk and Insurance 2012، تحلل معدل اختراق التأمين الخاص للأسر في تايوان بعد التأمين الصحي: 1993 عند 63.9% → 2004 عند 72.3% صعد عكسيًا 8.4 نقطة مئوية، دليل عكسي يفند فرضية «التأمين الصحي الشامل يقفل سوق التأمين الخاص».
 
 ---
-
-## مصادر الصور
-
-- **Hero**：[مبنى إدارة التأمين الصحي، مدخل قسم تايبيه الرئيسي ROC-MOHW-NHIA](https://commons.wikimedia.org/wiki/File:NHI_Building,_ROC-MOHW-NHIA_Taipei_Division_main_entrance_20180616.jpg) by Solomon203 / Wikimedia Commons / CC BY-SA 4.0
-- **Scene-mid 1**（بطاقة IC للتأمين الصحي نسخة 2017）：صورة رسمية من إدارة التأمين الصحي المركزي بوزارة الصحة / Public Domain（معلومات حكومية عامة）
-- **Scene-mid 2**（فيلم وثائقي 30 عامًا للتأمين الصحي iframe）：قناة يوتيوب الرسمية لإدارة التأمين الصحي المركزي بوزارة الصحة
-- **Scene-mid 3**（محطة تمريض متنقلة تشيا يي 2007)：مستشفى تشيا يي المسيحي / يستخدم لأغراض تعليمية غير ربحية
-- **Closure**（مبنى مستشفى جامعة تايوان الرئيسي）：[National Taiwan University Hospital main building](https://commons.wikimedia.org/wiki/Category:National_Taiwan_University_Hospital) / Wikimedia Commons / CC BY-SA 4.0

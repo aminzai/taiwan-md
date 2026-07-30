@@ -23,8 +23,8 @@ lastVerified: 2026-05-20
 lastHumanReview: false
 featured: false
 translatedFrom: 'Economy/台灣前50大企業.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:fd16d89c1109096c'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:22fc95c656db9409'
 sourceBodyHash: 'sha256:645f8f42e79639a7'
 translatedAt: '2026-06-16T16:55:14Z'
 image: '/article-images/economy/tsmc-factory-hsinchu-2009.webp'
@@ -170,6 +170,14 @@ _雲林・麦寮の台塑六軽産業園区の空撮。1998 年から現在ま�
 - [台湾国防と軍事近代化](/ja/society/taiwan-defense-modernization) — silicon shield と上位 50 社の地政学的連動
 - [台湾科学工業園区](/ja/technology/science-park-development) — 上位 50 社の半導体席次の生産拠点、三園区の産値集中度の空間的側面
 
+## 画像出典
+
+本文は 3 枚のパブリックドメイン / Creative Commons ライセンス画像を使用しており、すべて `public/article-images/economy/` に cache し、元サーバーへのホットリンクを避けています。
+
+- **Hero**：[Tsmc factory hsinchu](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) — Photo: Arusanov, 2009-07-20、新竹科学園区の TSMC 工場区域外観。Public domain via Wikimedia Commons.
+- **Inline 1（台北 101 / 証券取引所）**：[Taipei 101 20230511 114624](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg) — Photo: Anas1712, 2023-05-11、台北 101 ビル外観、台湾証券取引所本部所在地。CC BY 4.0 via Wikimedia Commons.
+- **Inline 2（麦寮六軽）**：[Formosa Plastics Group Mail-Liao Industrial Complex, Yunlin (Taiwan)](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>) — Photo: Malcolm Koo (User:Mk2010), 2014-03-15、雲林・麦寮の台塑六軽産業園区空撮。CC BY-SA 3.0 via Wikimedia Commons.
+
 ## 参考資料
 
 [^1]: [Tom's Hardware：Jensen Huang dines at Taipei night market with Taiwan tech CEOs](https://www.tomshardware.com/tech-industry/jensen-huang-dines-at-taipei-night-market-with-taiwan-tech-ceos) — 2024-05-28 にジェンスン・フアン、張忠謀、蔡力行、林百里、姚仁喜の 5 人が寧夏夜市で夕食を取ったことを記録したメディア資料。
@@ -233,11 +241,3 @@ _雲林・麦寮の台塑六軽産業園区の空撮。1998 年から現在ま�
 [^30]: [報導者：六軽住民健康リスク長期調査](https://www.twreporter.org/a/fpc-sixth-naphtha-cracker-contaminant-detection) — 台湾大学公衆衛生学系の詹長権による 2012 年研究。10 キロ以内の住民の尿中重金属代謝物濃度は 10 キロ外の 5.5 倍、六軽工場区域には 132 種の有毒発がん物質、年間 PM2.5 排出量は 14 万トン級。
 
 [^31]: [地球公民基金会：高雄鉄鋼業大気汚染源分析](https://www.cet-taiwan.org/) — 高雄の鉄鋼業による大気汚染の 80-90% は中鋼に由来し、PM 36% と SOx 32% は鉄鋼業に由来します。中鋼が 2017-2020 年に 47.56 億元を投じて改善した前後比較データ。
-
-## 画像出典
-
-本文は 3 枚のパブリックドメイン / Creative Commons ライセンス画像を使用しており、すべて `public/article-images/economy/` に cache し、元サーバーへのホットリンクを避けています。
-
-- **Hero**：[Tsmc factory hsinchu](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) — Photo: Arusanov, 2009-07-20、新竹科学園区の TSMC 工場区域外観。Public domain via Wikimedia Commons.
-- **Inline 1（台北 101 / 証券取引所）**：[Taipei 101 20230511 114624](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg) — Photo: Anas1712, 2023-05-11、台北 101 ビル外観、台湾証券取引所本部所在地。CC BY 4.0 via Wikimedia Commons.
-- **Inline 2（麦寮六軽）**：[Formosa Plastics Group Mail-Liao Industrial Complex, Yunlin (Taiwan)](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>) — Photo: Malcolm Koo (User:Mk2010), 2014-03-15、雲林・麦寮の台塑六軽産業園区空撮。CC BY-SA 3.0 via Wikimedia Commons.

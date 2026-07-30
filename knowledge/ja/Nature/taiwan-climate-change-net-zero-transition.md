@@ -26,8 +26,8 @@ lastVerified: 2026-05-19
 lastHumanReview: true
 featured: true
 translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:690ecb6c58309760'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:d698e900aeaedc49'
 sourceBodyHash: 'sha256:36525caaf207b712'
 translatedAt: '2026-06-16T17:04:12Z'
 image: '/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp'
@@ -316,6 +316,13 @@ EU 炭素国境調整メカニズム（CBAM）は 2026 年に正式制度へ移�
 - [台湾農業の近代化発展](/ja/economy/taiwan-agricultural-modernization) — 営農型太陽光の背後にある農業転換圧力と土地利用の衝突。
 - [梅雨](/ja/nature/meiyu-stagnant-front) — 「春雨が来ず、梅雨が集中する」という気候変動の地域観察。
 
+## 画像出典
+
+- **第三原発の外観（屏東恒春・馬鞍山、hero）**：[Maanshan Nuclear Power Plant, Nan Wan](https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg)（撮影：M. Weitzel、Wikimedia Commons、CC BY-SA 3.0）
+- **Onkalo 地下処分場（フィンランド・Olkiluoto）**：[Onkalo spent nuclear fuel repository entrance](https://commons.wikimedia.org/wiki/File:Onkalo_spent_nuclear_fuel_repository_entrance.jpg)（撮影：Posiva Oy、Wikimedia Commons、CC BY-SA 4.0）
+- **苗栗沖の海能洋上風力発電所**：[Hai Long offshore wind farm](https://commons.wikimedia.org/wiki/File:Hai_Long_offshore_wind_farm.jpg)（Wikimedia Commons、CC BY-SA 4.0）
+- **高速道路サービスエリア屋上の太陽光パネル**：[Xihu Service Area solar panels](https://commons.wikimedia.org/wiki/File:Xihu_Service_Area_solar_panels.jpg)（Wikimedia Commons、CC BY-SA 3.0）
+
 ## 参考資料
 
 [^1]: [聯合報系願景工程：許晃雄專訪](https://ubrand.udn.com/ubrand/story/123658/5679341) — 中央研究院環境変遷研究センター特聘研究員・許晃雄チームは 1911〜2020 年の台湾気温データを分析し、台湾の百年昇温が 1.6°C に達し、冬がほぼ半減し、最悪シナリオでは 2060 年以降に冬日の日数がゼロになる可能性があると指摘しています。
@@ -407,10 +414,3 @@ EU 炭素国境調整メカニズム（CBAM）は 2026 年に正式制度へ移�
 [^44]: [PanSci 泛科學：Natrium 反應爐的安全挑戰](https://pansci.asia/archives/377644) — Content Curation Partner per MOU 2026-05-05。Natrium 原子炉の建設は第 4 世代原子力発電所技術の進歩を示しますが、その発展には重大な課題が伴います。液体ナトリウムは水と激しく反応し、可燃性があり、原子炉の運転・保守は材料科学に極めて高い要求を課します。現在、大規模商業運転の安全データは不足しています。
 
 [^45]: [PanSci 泛科學：離岸風機建設又貴又麻煩，為何台灣仍要大力發展](https://pansci.asia/archives/371116) — Content Curation Partner per MOU 2026-05-05。台湾海峡は地形要因により「管道効果」を形成し、海峡内の風速は周辺海域を大きく上回ります。これにより台湾は、世界で最も洋上風力発電の潜在力がある地点の一つとなっています。
-
-## 画像出典
-
-- **第三原発の外観（屏東恒春・馬鞍山、hero）**：[Maanshan Nuclear Power Plant, Nan Wan](https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg)（撮影：M. Weitzel、Wikimedia Commons、CC BY-SA 3.0）
-- **Onkalo 地下処分場（フィンランド・Olkiluoto）**：[Onkalo spent nuclear fuel repository entrance](https://commons.wikimedia.org/wiki/File:Onkalo_spent_nuclear_fuel_repository_entrance.jpg)（撮影：Posiva Oy、Wikimedia Commons、CC BY-SA 4.0）
-- **苗栗沖の海能洋上風力発電所**：[Hai Long offshore wind farm](https://commons.wikimedia.org/wiki/File:Hai_Long_offshore_wind_farm.jpg)（Wikimedia Commons、CC BY-SA 4.0）
-- **高速道路サービスエリア屋上の太陽光パネル**：[Xihu Service Area solar panels](https://commons.wikimedia.org/wiki/File:Xihu_Service_Area_solar_panels.jpg)（Wikimedia Commons、CC BY-SA 3.0）

@@ -11,8 +11,8 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/台灣眷村菜.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:7463882ad93990e3'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:065bf6354c8e6e97'
 sourceBodyHash: 'sha256:c6f4891abde841e9'
 translatedAt: '2026-05-16T05:07:55+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Spring_onion_pancake_2013.JPG/960px-Spring_onion_pancake_2013.JPG'
@@ -89,6 +89,10 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 
 新世代の料理人が眷村料理の再解釈を始めており、伝統的な基盤を保ちながら、現代的な技法と食材を用いています。また、多くの台湾の食の著者たちが執筆によって眷村料理の文字記録を確立しました。焦桐の『台湾味道』（二魚文化、2009年）はその中でも代表的な初期の作品であり、味覚の記憶がレシピの外でも保存されるようにしました。[^3]
 
+## 画像の出典
+
+- 葱油餅：Wikimedia Commons, [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+
 ## 参考文献
 
 [^1]: [国防部眷村文化保存センター](https://mvac.mnd.gov.tw/) — 眷村の歴史背景と移民人口データ。
@@ -109,7 +113,3 @@ imageCredit: 'Wikimedia Commons, CC BY-SA'
 
 - [国防部眷村文化保存センター](https://mvac.mnd.gov.tw/) — 全国の眷村保存情報統合プラットフォーム
 - [文化部国家文化記憶庫 — 眷村特集](https://memory.culture.tw/) — 眷村の口述歴史と文化財コレクション
-
-## 画像の出典
-
-- 葱油餅：Wikimedia Commons, [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)

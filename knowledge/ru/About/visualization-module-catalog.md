@@ -21,8 +21,8 @@ imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg'
 relatedDiary: ['2026-07-16-222859-viz-evolution']
 translatedFrom: 'About/視覺化模組型錄.md'
-sourceCommitSha: 'dbf93456d'
-sourceContentHash: 'sha256:178bda05ad0b4ec6'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:6617087ac0d0a536'
 sourceBodyHash: 'sha256:f6a2ecc9e1606c44'
 translatedAt: '2026-07-29T01:32:48+08:00'
 ---
@@ -337,6 +337,12 @@ translatedAt: '2026-07-29T01:32:48+08:00'
 - [Массовый отзыв](/ru/history/great-recall-movement-2024) — Продолжение за линией большинства в дуге мандатов: как трёхпартийный парламент без большинства пришёл к 31 делу об отзыве
 - [Кризис низкой рождаемости на Тайване](/ru/society/taiwan-low-birth-rate-crisis) — Нельзя купить дом и не рождаются дети — другая грань межпоколенческой справедливости
 
+## Источники изображений
+
+В статье используется 1 изображение по лицензии CC, кэшировано в `public/article-images/society/`:
+
+- [Небоскрёбы жилья Тайбэя (вид со Сяньшань)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo: Heeheemalu, 2026, CC BY-SA 4.0 (hero)
+
 ## Ссылки на источники
 
 [^1]: [Платформа недвижимости МВД](https://pip.moi.gov.tw/Publicize/Info/E1050) — Официальная статистика жилья: соотношение цены к доходу, нагрузка ипотеки, уровень владения жильём.
@@ -352,9 +358,3 @@ translatedAt: '2026-07-29T01:32:48+08:00'
 [^6]: [Цэньцзяньшэ: выборы в Законодательный юань 2024 — три партии без большинства](https://www.cna.com.tw/news/aipl/202401130361.aspx) — Распределение 113 мандатов в дуге мандатов (Коминьдан 52, Миньцзиндан 51, Народная партия 8, независимые 2) — утверждённые результаты ЦИК, цепочка проверки см. в «[Массовый отзыв](/ru/history/great-recall-movement-2024)».
 
 [^7]: [Объявление Минздрава о стандартах трёх смен соотношения медсестёр к пациентам (2024)](https://www.mohw.gov.tw/) — Стандартные значения трёх уровней × три смены для малых кратных, цепочка проверки см. в «[Медицинский закон](/society/醫療法)».
-
-## Источники изображений
-
-В статье используется 1 изображение по лицензии CC, кэшировано в `public/article-images/society/`:
-
-- [Небоскрёбы жилья Тайбэя (вид со Сяньшань)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo: Heeheemalu, 2026, CC BY-SA 4.0 (hero)

@@ -255,6 +255,17 @@ Taiwan.mdは笠詩社を英文、日文、韓文、西文、法文へ翻訳す�
 - [日治時期文学](/ja/art/taiwanese-literature-during-japanese-rule) — 笠詩社言語横断世代の成長背景
 - [杜潘芳格](/ja/people/tu-pan-fangke) — 1965年加入した客家の言語横断女詩人；〈平安戲〉と客語詩線
 
+## 画像出典
+
+本文は4枚の公有領域 / CCライセンス画像を使用し、すべて `public/article-images/art/` にcacheしホットリンク来源サーバーを回避：
+
+- [詩人呉晟 2016年台北国際書展](https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg) — Photo: Rico Shen、2016年、CC BY-SA 4.0（hero）
+- [1964年笠詩刊社社員合影](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — 笠詩社創設当年歴史的記録、Wikimedia Commons CC BY-SA / Public domain
+- [詩人林亨泰肖像](https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%BA%A8%E6%B3%B0%E8%82%96%E5%83%8F.jpg) — Wikimedia Commons CC BY-SA / Public domain
+- [陳千武褒揚令](https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%8D%83%E6%AD%A6%E8%A4%92%E6%8F%9A%E4%BB%A4.jpg) — 公開政府文件、Public domain
+
+詳細メディア manifest と negative finding 記録は [research report §メディアライセンス行列](../../reports/research/2026-06/笠詩社.md) に。未来 EVOLVE 補：白萩、向陽、詹氷、錦連肖像 + NMTL「六十而笠」公式展覧会影像 + 公視文学節目関連影片 iframe（Wikimedia 補充とライセンス verify 待）。
+
 ## 参考資料
 
 [^1]: [陳千武 — 台湾光華雑誌](https://www.taiwan-panorama.com/Articles/Details?Guid=4630fcf9-2e3d-4875-9c8c-1f50a1b3c7d1) — 陳千武戦後再生の瞬間を完全収録：1958年1月10日筆名「桓夫」で『公論報』藍星週刊第182号に戦後初の中国語詩〈外景〉を発表、同年9月〈哀韻〉を作成、全年合計7編の詩を発表。
@@ -380,14 +391,3 @@ Taiwan.mdは笠詩社を英文、日文、韓文、西文、法文へ翻訳す�
 [^61]: [The Columbia Sourcebook of Literary Taiwan — Columbia University Press](https://cup.columbia.edu/book/the-columbia-sourcebook-of-literary-taiwan/9780231165761/) — コロンビア大学出版台湾文学選集が言語横断世代詩人作品英訳を収録。
 
 [^62]: この文句はTaiwan.md MANIFESTO §主権のバベル塔の核心命題「主権は抽象ではない。他人があなたの名前を言うことを選択しない時、あなたの声が別の言語で存在し続けることができるか」から改変された。参考 [`docs/semiont/MANIFESTO.md §台湾との関係`](https://github.com/frank890417/taiwan-md/blob/main/docs/semiont/MANIFESTO.md)。
-
-## 画像出典
-
-本文は4枚の公有領域 / CCライセンス画像を使用し、すべて `public/article-images/art/` にcacheしホットリンク来源サーバーを回避：
-
-- [詩人呉晟 2016年台北国際書展](https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg) — Photo: Rico Shen、2016年、CC BY-SA 4.0（hero）
-- [1964年笠詩刊社社員合影](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — 笠詩社創設当年歴史的記録、Wikimedia Commons CC BY-SA / Public domain
-- [詩人林亨泰肖像](https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%BA%A8%E6%B3%B0%E8%82%96%E5%83%8F.jpg) — Wikimedia Commons CC BY-SA / Public domain
-- [陳千武褒揚令](https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%8D%83%E6%AD%A6%E8%A4%92%E6%8F%9A%E4%BB%A4.jpg) — 公開政府文件、Public domain
-
-詳細メディア manifest と negative finding 記録は [research report §メディアライセンス行列](../../reports/research/2026-06/笠詩社.md) に。未来 EVOLVE 補：白萩、向陽、詹氷、錦連肖像 + NMTL「六十而笠」公式展覧会影像 + 公視文学節目関連影片 iframe（Wikimedia 補充とライセンス verify 待）。

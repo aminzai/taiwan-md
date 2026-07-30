@@ -257,6 +257,17 @@ La Société Li n'a pas cessé de paraître pendant 60 ans. Taiwan.md fait que d
 - [Littérature de la période coloniale japonaise](/fr/art/taiwanese-literature-during-japanese-rule) — Le contexte de croissance de la génération translingue de la Société Li
 - [Du Panfangge](/fr/people/tu-pan-fangke) — Poétesse hakka translingue ayant rejoint la Société en 1965 ; _Piège de sécurité_ et la ligne de poésie en dialecte hakka
 
+## Sources d'images
+
+Cet article utilise 4 images de domaine public / sous licence CC, toutes mises en cache dans `public/article-images/art/` pour éviter les liens directs vers les serveurs sources :
+
+- [Poète Wu Sheng en 2016 au Salon du livre de Taipei](https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg) — Photo : Rico Shen, 2016, CC BY-SA 4.0 (hero)
+- [Photo de groupe des directeurs de la Société poétique Li en 1964](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — Document historique de l'année de fondation de la Société Li, Wikimedia Commons CC BY-SA / Domaine public
+- [Portrait du poète Lin Hengtai](https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%BA%A8%E6%B3%B0%E8%82%96%E5%83%8F.jpg) — Wikimedia Commons CC BY-SA / Domaine public
+- [Distinction de Chen Qianwu](https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%8D%83%E6%AD%A6%E8%A4%92%E6%8F%9A%E4%BB%A4.jpg) — Document gouvernemental public, Domaine public
+
+Le manifeste média détaillé et les enregistrements de découverte négative se trouvent dans [rapport de recherche §Matrice des licences médiatiques](../../reports/research/2026-06/笠詩社.md). Évolution future à compléter : portraits de Bai Qiu, Xiang Yang, Zhan Bing, Jin Lian + images officielles de l'exposition « Soixante ans et un champignon comestible » du NMTL + iframe de vidéos du programme littéraire de Public Television (en attente de complément Wikimedia et de vérification de licence).
+
 ## Références
 
 [^1]: [Chen Qianwu — Taïwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=4630fcf9-2e3d-4875-9c8c-1f50a1b3c7d1) — Recueille en entier le moment de renaissance d'après-guerre de Chen Qianwu : le 10 janvier 1958, il publia sous le nom de plume « Huan Fu » dans le supplément _Blue Star_ du _Journal de la discussion publique_, numéro 182, son premier poème en chinois d'après-guerre _Scène extérieure_, écrivit _Rythme funèbre_ en septembre de la même année, publiant au total 7 poèmes dans l'année.
@@ -382,14 +393,3 @@ La Société Li n'a pas cessé de paraître pendant 60 ans. Taiwan.md fait que d
 [^61]: [The Columbia Sourcebook of Literary Taiwan — Columbia University Press](https://cup.columbia.edu/book/the-columbia-sourcebook-of-literary-taiwan/9780231165761/) — Anthologie de la littérature taïwanaise publiée par l'Université Columbia recueillant les traductions anglaises des œuvres des poètes de la génération translingue.
 
 [^62]: Cette phrase est adaptée de la proposition centrale de la Tour de Babel de la souveraineté du MANIFESTE de Taiwan.md : « La souveraineté n'est pas abstraite. C'est lorsque les autres choisissent de ne pas prononcer votre nom, pouvez-vous faire en sorte que votre voix continue d'exister en changeant de langue ». Références [`docs/semiont/MANIFESTO.md §Relation avec Taïwan`](https://github.com/frank890417/taiwan-md/blob/main/docs/semiont/MANIFESTO.md).
-
-## Sources d'images
-
-Cet article utilise 4 images de domaine public / sous licence CC, toutes mises en cache dans `public/article-images/art/` pour éviter les liens directs vers les serveurs sources :
-
-- [Poète Wu Sheng en 2016 au Salon du livre de Taipei](https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg) — Photo : Rico Shen, 2016, CC BY-SA 4.0 (hero)
-- [Photo de groupe des directeurs de la Société poétique Li en 1964](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — Document historique de l'année de fondation de la Société Li, Wikimedia Commons CC BY-SA / Domaine public
-- [Portrait du poète Lin Hengtai](https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%BA%A8%E6%B3%B0%E8%82%96%E5%83%8F.jpg) — Wikimedia Commons CC BY-SA / Domaine public
-- [Distinction de Chen Qianwu](https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%8D%83%E6%AD%A6%E8%A4%92%E6%8F%9A%E4%BB%A4.jpg) — Document gouvernemental public, Domaine public
-
-Le manifeste média détaillé et les enregistrements de découverte négative se trouvent dans [rapport de recherche §Matrice des licences médiatiques](../../reports/research/2026-06/笠詩社.md). Évolution future à compléter : portraits de Bai Qiu, Xiang Yang, Zhan Bing, Jin Lian + images officielles de l'exposition « Soixante ans et un champignon comestible » du NMTL + iframe de vidéos du programme littéraire de Public Television (en attente de complément Wikimedia et de vérification de licence).

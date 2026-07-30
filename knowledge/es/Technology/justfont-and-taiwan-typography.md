@@ -28,8 +28,8 @@ imageCredit: 'justfont / flyingV'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.flyingv.cc/projects/8250'
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: 'e773ef6b'
-sourceContentHash: 'sha256:6e31a2264dcded4f'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:50da80d49885286c'
 sourceBodyHash: 'sha256:dcea1d33e3c8824c'
 translatedAt: '2026-06-14T00:35:00+08:00'
 ---
@@ -247,6 +247,17 @@ La diferencia está en lo que pasó después de aquella mañana de septiembre de
 - [Movimientos sociales y participación ciudadana](/es/society/social-movements-and-civic-participation): la energía de «pelearse por asuntos públicos» que se vio en la polémica sobre Jinxuan tiene un contexto mucho más amplio en la sociedad taiwanesa.
 - [Cables submarinos](/es/technology/submarine-cables-taiwan-lifeline): otra infraestructura que todo el mundo usa a diario pero que casi nadie ve.
 
+## Créditos de imágenes
+
+- **Imagen de portada**: visual principal de la página de crowdfunding de Jinxuan en flyingV. © justfont / flyingV, fair use editorial commentary. Fuente: [página del proyecto en flyingV](https://www.flyingv.cc/projects/8250)
+- **Indicador de línea de autobús en Taipéi**: foto: BlubiNeko, 2022, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), vía Wikimedia Commons
+- **Tipos de plomo en Rixing**: foto: Johan Jönsson, 2023, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), vía Wikimedia Commons
+- **Muestra oficial de Jinxuan**: © justfont, material facilitado por justfont, fair use editorial commentary (cesión de colaboración). Fuente: [blog de justfont, comunicado de presentación de Jinxuan](https://blog.justfont.com/2015/08/introducing-jinshuan/)
+- **Visual oficial de jf open Huninn**: © justfont, publicado en el repositorio oficial de GitHub (tipografía bajo OFL 1.1). Fuente: [open-huninn-font](https://github.com/justfont/open-huninn-font)
+- **Comparación de Lan Yang Ming Ti con «Jianyuji»**: © justfont, material facilitado por justfont, fair use editorial commentary (cesión de colaboración). Fuente: [página oficial de Lan Yang Ming Ti de justfont](https://justfont.com/lanyangming/)
+- **Muestra oficial de Kamabit**: © justfont, material facilitado por justfont, fair use editorial commentary (cesión de colaboración). Fuente: [página oficial de Kamabit de justfont](https://justfont.com/kamabit/)
+- **Foto de Zhang Jiekuan reparando tipos**: © justfont, material facilitado por justfont, fair use editorial commentary (cesión de colaboración). Fuente: [blog de justfont, Rixing Song Ti Nº 2](https://blog.justfont.com/2025/06/rixing-song2-revivals/)
+
 ## Referencias
 
 [^1]: [flyingV: página del crowdfunding de la tipografía Jinxuan](https://www.flyingv.cc/projects/8250) — registro de primera mano del crowdfunding: total NT$25.930.099, 7.667 patrocinadores, objetivo de 1,5 millones de dólares taiwaneses.
@@ -378,14 +389,3 @@ La diferencia está en lo que pasó después de aquella mañana de septiembre de
 [^64]: [Wikipedia: justfont (就是字)](https://zh.wikipedia.org/zh-tw/%E5%B0%B1%E6%98%AF%E5%AD%97) — registra el historial de la empresa: Ye Junlin con antecedentes en DynaFont, fundación en 2010, Su Weixiang incorporado en 2012 como primer empleado formal.
 
 [^65]: [Wikipedia: DynaComware (威鋒數位)](https://zh.wikipedia.org/wiki/%E5%A8%81%E9%8B%92%E6%95%B8%E4%BD%8D) — registra la fundación de DynaFont en septiembre de 1987 en Taipéi, la primera empresa taiwanesa de tipografía digital, y el rebautismo como DynaComware en 2001.
-
-## Créditos de imágenes
-
-- **Imagen de portada**: visual principal de la página de crowdfunding de Jinxuan en flyingV. © justfont / flyingV, fair use editorial commentary. Fuente: [página del proyecto en flyingV](https://www.flyingv.cc/projects/8250)
-- **Indicador de línea de autobús en Taipéi**: foto: BlubiNeko, 2022, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), vía Wikimedia Commons
-- **Tipos de plomo en Rixing**: foto: Johan Jönsson, 2023, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), vía Wikimedia Commons
-- **Muestra oficial de Jinxuan**: © justfont, material facilitado por justfont, fair use editorial commentary (cesión de colaboración). Fuente: [blog de justfont, comunicado de presentación de Jinxuan](https://blog.justfont.com/2015/08/introducing-jinshuan/)
-- **Visual oficial de jf open Huninn**: © justfont, publicado en el repositorio oficial de GitHub (tipografía bajo OFL 1.1). Fuente: [open-huninn-font](https://github.com/justfont/open-huninn-font)
-- **Comparación de Lan Yang Ming Ti con «Jianyuji»**: © justfont, material facilitado por justfont, fair use editorial commentary (cesión de colaboración). Fuente: [página oficial de Lan Yang Ming Ti de justfont](https://justfont.com/lanyangming/)
-- **Muestra oficial de Kamabit**: © justfont, material facilitado por justfont, fair use editorial commentary (cesión de colaboración). Fuente: [página oficial de Kamabit de justfont](https://justfont.com/kamabit/)
-- **Foto de Zhang Jiekuan reparando tipos**: © justfont, material facilitado por justfont, fair use editorial commentary (cesión de colaboración). Fuente: [blog de justfont, Rixing Song Ti Nº 2](https://blog.justfont.com/2025/06/rixing-song2-revivals/)

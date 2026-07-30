@@ -19,8 +19,8 @@ lastVerified: 2026-07-06
 lastHumanReview: false
 featured: true
 translatedFrom: 'People/施振榮.md'
-sourceCommitSha: '648966ea'
-sourceContentHash: 'sha256:4207f3d1db6eb633'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:b0e816b78b19b42e'
 sourceBodyHash: 'sha256:a0ff299644c9b0cc'
 translatedAt: '2026-07-16T00:45:14+08:00'
 image: '/article-images/people/stanshih-taipei-2014.webp'
@@ -191,6 +191,13 @@ The child who grew up watching his mother sell duck eggs in Lukang, in the end, 
 
 **Further Reading**: [Acer](/en/economy/acer-pc-industry-pioneer) (the brand Stan Shih founded single-handedly and brought to the world stage, here is its complete story), [Morris Chang](/en/people/tsmc-morris-chang) (the man who invited Stan Shih to serve as a TSMC director for 21 years, who took a different path in Taiwan's tech landscape), [TSMC](/en/economy/tsmc) (the company that does "midstream manufacturing" yet became the national tech shield, and where Stan Shih holds the most shares), [Taiwan's Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) (behind the Smiling Curve and the King's Way, Taiwan's forty-year path between manufacturing and branding).
 
+## Image Credits
+
+- **Main / Stan Shih (2014)**: Photo by Tony Tseng, 2014 Taipei IT Month, CC BY 2.0. Source [Flickr](https://www.flickr.com/photos/tonytseng/).
+- **Micro-Professor I (MPF-I, 1981)**: Photo by Joho345, Public Domain. Source Wikimedia Commons.
+- **Smiling Curve Diagram**: Created by Rico Shen, CC BY-SA 4.0. Source Wikimedia Commons.
+- **Stan Shih (2007, Failure/Candor Section)**: Photo by Rico Shen, CC BY-SA 3.0. Source Wikimedia Commons.
+
 ## References
 
 [^1]: [報時光：1981 年施振榮打造第一台自製電腦「小教授一號」](https://time.udn.com/udntime/story/122390/9424956) — _UDN Time_ feature (2026-04-13), documenting how Acer brought the Micro-Professor I to the 30th Western Electronics Show (WESCON) in San Francisco in September 1981.
@@ -334,10 +341,3 @@ The child who grew up watching his mother sell duck eggs in Lukang, in the end, 
 [^69]: [遠見雜誌：施振榮 AI 分身阿丹與新書](https://www.gvm.com.tw/article/127819) — Same as above, notes new book _The Leader's Awakening Moment: Stan and AI in Conversation_, where roughly 90% of content was written by the trained AI avatar, compiling 30 Q&As, including "How do you want others to remember you?"
 
 [^70]: [遠見雜誌：施振榮計畫 85 歲二次退休](https://www.gvm.com.tw/article/127819) — _GVM_ notes Stan Shih announced at his 20th retirement anniversary gratitude concert on Dec 6, 2024, planning a second retirement at 85, handing over the for-profit venture chairman seat, while continuing public welfare; in June 2026 he still published a new King's Way white paper in Japan, showing no signs of fading out.
-
-## Image Credits
-
-- **Main / Stan Shih (2014)**: Photo by Tony Tseng, 2014 Taipei IT Month, CC BY 2.0. Source [Flickr](https://www.flickr.com/photos/tonytseng/).
-- **Micro-Professor I (MPF-I, 1981)**: Photo by Joho345, Public Domain. Source Wikimedia Commons.
-- **Smiling Curve Diagram**: Created by Rico Shen, CC BY-SA 4.0. Source Wikimedia Commons.
-- **Stan Shih (2007, Failure/Candor Section)**: Photo by Rico Shen, CC BY-SA 3.0. Source Wikimedia Commons.

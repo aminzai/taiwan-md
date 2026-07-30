@@ -247,6 +247,17 @@ Khác biệt là sau ngày 8 tháng 9 năm 2015. Giờ đây có hàng chục ng
 - [Cuộc cách mạng xã hội và tham gia công dân](/xã hội/cuộc-cách-mạng-xã-hội-và-tham-gia-công-dân): Năng lượng "tranh cãi về các vấn đề công cộng" như trong chiến dịch Jin Xuan, có phạm vi lớn hơn trong xã hội Đài Loan.
 - [Đường dây dưới đáy biển](/công nghệ/đường-dây-dưới-đáy-biển): Một cách khác mọi người hàng ngày sử dụng nhưng gần như không ai nhìn thấy là cơ sở hạ tầng.
 
+## Nguồn ảnh
+
+- **Ảnh bìa**: Bản mẫu chính thức của font chữ Jin Xuan trên trang tài trợ cộng đồng flyingV. © justfont / flyingV, fair use editorial commentary. Nguồn: [Trang dự án flyingV](https://www.flyingv.cc/projects/8250)
+- **Biển hiệu xe buýt tại Hà Nội**: Nguồn ảnh: BlubiNeko, 2022，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，qua Wikimedia Commons
+- **Gạch đá vôi của xưởng Rixing**: Nguồn ảnh: Johan Jönsson, 2023，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，qua Wikimedia Commons
+- **Bản mẫu chính thức của Jin Xuan**: © justfont，justfont cung cấp tài liệu，fair use editorial commentary（cấp phép hợp tác）。Nguồn: [Bài đăng blog justfont Jin Xuan ra mắt](https://blog.justfont.com/2015/08/introducing-jinshuan/)
+- **Biểu tượng kỹ thuật số chính thức của jf open huninn**: © justfont，GitHub repo chính thức（font chữ bản thân OFL 1.1）。Nguồn: [open-huninn-font](https://github.com/justfont/open-huninn-font)
+- **So sánh Lanyang Mingti và bộ sưu tập in gỗ "Jian Yu Ji"**: © justfont，justfont cung cấp tài liệu，fair use editorial commentary（cấp phép hợp tác）。Nguồn: [Trang web chính thức của justfont Lanyang Mingti](https://justfont.com/lanyangming/)
+- **Bản mẫu chính thức của Kamabit**: © justfont，justfont cung cấp tài liệu，fair use editorial commentary（cấp phép hợp tác）。Nguồn: [Trang web chính thức của justfont Kamabit](https://justfont.com/kamabit/)
+- **Hình ảnh làm việc của Zhang Chieh-kuan sửa chữa gạch đá vôi**: © justfont，justfont cung cấp tài liệu，fair use editorial commentary（cấp phép hợp tác）。Nguồn: [Bài đăng blog justfont Font Song của Rixing số hai](https://blog.justfont.com/2025/06/rixing-song2-revivals/)
+
 ## Tài liệu tham khảo
 
 [^1]: [flyingV: Trang dự án tài trợ cộng đồng font chữ Jin Xuan](https://www.flyingv.cc/projects/8250) — Ghi chép tài trợ một lần, tổng cộng NT$25,930,099, 7.667 người tài trợ, mục tiêu 1,5 triệu USD.
@@ -378,14 +389,3 @@ Khác biệt là sau ngày 8 tháng 9 năm 2015. Giờ đây có hàng chục ng
 [^64]: [Wikipedia tiếng Trung: justfont](https://zh.wikipedia.org/zh-tw/就是字) — Ghi lại lịch sử công ty: nền tảng của Ye Chun-lin Hua Kang, 2010 năm thành lập, Su Ve-hsiang 2012 năm gia nhập làm nhân viên chính thức đầu tiên.
 
 [^65]: [Wikipedia tiếng Trung: Hwa Phung số hóa](https://zh.wikipedia.org/wiki/威柔數位) — Ghi lại Hua Kang 1987 năm thành lập tại Hà Nội, là công ty font chữ số đầu tiên tại Đài Loan, và đổi tên thành Hwa Phung số hóa vào năm 2001.
-
-## Nguồn ảnh
-
-- **Ảnh bìa**: Bản mẫu chính thức của font chữ Jin Xuan trên trang tài trợ cộng đồng flyingV. © justfont / flyingV, fair use editorial commentary. Nguồn: [Trang dự án flyingV](https://www.flyingv.cc/projects/8250)
-- **Biển hiệu xe buýt tại Hà Nội**: Nguồn ảnh: BlubiNeko, 2022，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，qua Wikimedia Commons
-- **Gạch đá vôi của xưởng Rixing**: Nguồn ảnh: Johan Jönsson, 2023，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，qua Wikimedia Commons
-- **Bản mẫu chính thức của Jin Xuan**: © justfont，justfont cung cấp tài liệu，fair use editorial commentary（cấp phép hợp tác）。Nguồn: [Bài đăng blog justfont Jin Xuan ra mắt](https://blog.justfont.com/2015/08/introducing-jinshuan/)
-- **Biểu tượng kỹ thuật số chính thức của jf open huninn**: © justfont，GitHub repo chính thức（font chữ bản thân OFL 1.1）。Nguồn: [open-huninn-font](https://github.com/justfont/open-huninn-font)
-- **So sánh Lanyang Mingti và bộ sưu tập in gỗ "Jian Yu Ji"**: © justfont，justfont cung cấp tài liệu，fair use editorial commentary（cấp phép hợp tác）。Nguồn: [Trang web chính thức của justfont Lanyang Mingti](https://justfont.com/lanyangming/)
-- **Bản mẫu chính thức của Kamabit**: © justfont，justfont cung cấp tài liệu，fair use editorial commentary（cấp phép hợp tác）。Nguồn: [Trang web chính thức của justfont Kamabit](https://justfont.com/kamabit/)
-- **Hình ảnh làm việc của Zhang Chieh-kuan sửa chữa gạch đá vôi**: © justfont，justfont cung cấp tài liệu，fair use editorial commentary（cấp phép hợp tác）。Nguồn: [Bài đăng blog justfont Font Song của Rixing số hai](https://blog.justfont.com/2025/06/rixing-song2-revivals/)

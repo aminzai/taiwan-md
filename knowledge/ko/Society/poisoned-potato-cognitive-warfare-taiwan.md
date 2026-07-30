@@ -11,8 +11,8 @@ lastVerified: 2026-04-30
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/毒馬鈴薯認知作戰.md'
-sourceCommitSha: '7bad84a3d'
-sourceContentHash: 'sha256:bb11251dd95db686'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:6f804a54cc46f969'
 sourceBodyHash: 'sha256:891cffde295deb7f'
 translatedAt: '2026-07-24T10:40:42+08:00'
 image: '/article-images/society/du-mali-maine-potato-1940.webp'
@@ -325,6 +325,11 @@ framing chain은 '공산당 주문 → 국민당 확산 → 미디어 확대'보
 
 ---
 
+## 图片来源
+
+- **Hero**: [Children gathering potatoes on a large farm, vicinity of Caribou, Aroostook County, Me. Schools do not open until the potatoes are harvested](https://commons.wikimedia.org/wiki/File:Children_gathering_potatoes_on_a_large_farm,_vicinity_of_Caribou,_Aroostook_County,_Me._Schools_do_not_open_until_the_potatoes_are_harvested_LCCN2017877412.jpg) — US Farm Security Administration/Office of War Information / 1940 / Public Domain (PD-USGov, NARA / Library of Congress FSA-OWI Collection)
+- **Inline §200ppm 단락**: [Solanine.svg](https://commons.wikimedia.org/wiki/File:Solanine.svg) — Public Domain (simple structural formula, ineligible for copyright; via Wikimedia Commons)
+
 ## 參考資料
 
 [^1]: [자유時報: 중국 국대판 "독감마 감자" 대만 식탁에 올렸다, 국대판 맹렬히 비판: 삼사사사할 필요 없다](https://news.ltn.com.tw/news/politics/breakingnews/5420147) — 2026-04-29 국대판 대변인 천빈화 원어 완전 전술(다원 비교: 대공문회, Newtalk, ETtoday verbatim 일치).
@@ -444,8 +449,3 @@ framing chain은 '공산당 주문 → 국민당 확산 → 미디어 확대'보
 [^58]: [핵심평론망: 선보양 인터뷰 동일](https://www.thenewslens.com/article/197469) — 선보양 verbatim '적아 의식 구축이 절대 전쟁 대응에서 가장 중요한 핵심이다', '대만 공동체 의식 응집이首要任務이다'. 결말 단락 '진정한 반제' 논술에 대응.
 
 ---
-
-## 图片来源
-
-- **Hero**: [Children gathering potatoes on a large farm, vicinity of Caribou, Aroostook County, Me. Schools do not open until the potatoes are harvested](https://commons.wikimedia.org/wiki/File:Children_gathering_potatoes_on_a_large_farm,_vicinity_of_Caribou,_Aroostook_County,_Me._Schools_do_not_open_until_the_potatoes_are_harvested_LCCN2017877412.jpg) — US Farm Security Administration/Office of War Information / 1940 / Public Domain (PD-USGov, NARA / Library of Congress FSA-OWI Collection)
-- **Inline §200ppm 단락**: [Solanine.svg](https://commons.wikimedia.org/wiki/File:Solanine.svg) — Public Domain (simple structural formula, ineligible for copyright; via Wikimedia Commons)

@@ -221,6 +221,20 @@ Trên đỉnh núi Dabajianshan, nơi không có tên của thung lũng sâu xa,
 - [Hệ sinh thái rừng nguyen sinh Đài Loan](/nature/台灣森林生態系) — Khu vực sương mù, năm loài cây khổng lồ và cây thần của hệ sinh thái, Heaven Sword là điểm cao nhất của hệ thống này
 - [Quốc gia Đài Loan](/nature/台灣國家公園) — Quốc gia Snow Mountain và Ban Quản lý Tự nhiên và Bảo tồn Đài Loan, là nơi cuối cùng bảo vệ các cây khổng lồ
 
+## Nguồn ảnh
+
+Bài viết sử dụng 5 bức ảnh CC / công lý, đã cache trong `public/article-images/nature/`, đã xóa EXIF và chuyển đổi sang định dạng WebP, tránh gọi trực tiếp đến nguồn:
+
+- [Taiwan sồi (Nantou County, Đài Loan) — Shihchuan](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides,_Nantou_County,_Taiwan_1.jpg) — Wikimedia Commons, CC BY-SA 2.0 (hero)
+- [Lá và hình dạng thẳng của Taiwan sồi — KENPEI](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides3.jpg) — Wikimedia Commons, CC BY-SA 3.0
+- [Khu vực sương mù của Quốc gia Snow Mountain](https://commons.wikimedia.org/wiki/File:Shei-Pa_National_Park%2Bcwtu%2B003.jpg) — Wikimedia Commons, CC BY-SA 4.0
+- [Đỉnh núi Dabajianshan (đầu sông Đại An Khi)— Alan Wu](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%9C%B8%E5%B0%96%E5%B1%B1.jpg) — Wikimedia Commons, CC BY-SA 4.0
+- [Bunzo Hayata — Sasaki](https://commons.wikimedia.org/wiki/File:Bunz%C5%8D_Hayata.JPG) — Wikimedia Commons, Public domain
+
+Phim ảnh: [Bộ phim tài liệu hoàn chỉnh về "Heaven Sword" - cây cao nhất Đài Loan](/article-images/nature/heavensword-documentary.mp4) — Kênh chính thức của TNF.
+
+Bức ảnh chính thức của Heaven Sword, bức tranh "tương lai" của Steven Pearce và các bức tranh từ bộ phim tài liệu đều là nguyên liệu có bản quyền (và bộ phim tài liệu "Hòn đảo các cây thần" đang trong quá trình giải quyết tranh chấp bản quyền), bài viết không sử dụng, xin vui lòng xem bộ phim tài liệu chính thức của TNF và các kênh phát hành của các bên liên quan.
+
 ## Tài liệu tham khảo
 
 [^1]: [After Decade-Long Hunt, Scientists Find East Asia's Tallest Tree — Sci.News](https://www.sci.news/biology/heaven-sword-tree-14824.html) — Báo cáo năm 2026 xác nhận Heaven Sword 84,1 mét là cây cao nhất tại Đông Á đã được ghi nhận; top 10 cây cao nhất đều là Taiwan sồi (Taiwania cryptomerioides), trong đó chín cây vượt 70 mét.
@@ -348,17 +362,3 @@ Trên đỉnh núi Dabajianshan, nơi không có tên của thung lũng sâu xa,
 [^62]: [Taiwania cryptomerioides — IUCN Red List / Royal Botanic Garden Edinburgh](https://threatenedconifers.rbge.org.uk/conifers/taiwania-cryptomerioides) — Taiwan sồi đánh giá trạng thái bảo vệ quốc tế là dễ bị đe dọa (Vulnerable); môi trường sống bị ảnh hưởng bởi biến đổi khí hậu, dự báo diện tích môi trường sống sẽ giảm mạnh.
 
 [^63]: [桃山巨木谷每公頃碳儲存約 1384 公噸 — 中央社, 2026-06-05](https://www.cna.com.tw/news/ahel/202606050305.aspx) — Đội ngũ "người tìm cây" kiểm tra khu vực cây thần trên Đỉnh Peach Mountain (4 ha), ước tính lượng carbon lưu trữ mỗi hecta khoảng 1.384 tấn (không tính phần gốc), gần bằng khu vực carbon lưu trữ cao nhất thế giới ở Úc Tasmania (khoảng 1.867 tấn/ha).
-
-## Nguồn ảnh
-
-Bài viết sử dụng 5 bức ảnh CC / công lý, đã cache trong `public/article-images/nature/`, đã xóa EXIF và chuyển đổi sang định dạng WebP, tránh gọi trực tiếp đến nguồn:
-
-- [Taiwan sồi (Nantou County, Đài Loan) — Shihchuan](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides,_Nantou_County,_Taiwan_1.jpg) — Wikimedia Commons, CC BY-SA 2.0 (hero)
-- [Lá và hình dạng thẳng của Taiwan sồi — KENPEI](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides3.jpg) — Wikimedia Commons, CC BY-SA 3.0
-- [Khu vực sương mù của Quốc gia Snow Mountain](https://commons.wikimedia.org/wiki/File:Shei-Pa_National_Park%2Bcwtu%2B003.jpg) — Wikimedia Commons, CC BY-SA 4.0
-- [Đỉnh núi Dabajianshan (đầu sông Đại An Khi)— Alan Wu](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%9C%B8%E5%B0%96%E5%B1%B1.jpg) — Wikimedia Commons, CC BY-SA 4.0
-- [Bunzo Hayata — Sasaki](https://commons.wikimedia.org/wiki/File:Bunz%C5%8D_Hayata.JPG) — Wikimedia Commons, Public domain
-
-Phim ảnh: [Bộ phim tài liệu hoàn chỉnh về "Heaven Sword" - cây cao nhất Đài Loan](/article-images/nature/heavensword-documentary.mp4) — Kênh chính thức của TNF.
-
-Bức ảnh chính thức của Heaven Sword, bức tranh "tương lai" của Steven Pearce và các bức tranh từ bộ phim tài liệu đều là nguyên liệu có bản quyền (và bộ phim tài liệu "Hòn đảo các cây thần" đang trong quá trình giải quyết tranh chấp bản quyền), bài viết không sử dụng, xin vui lòng xem bộ phim tài liệu chính thức của TNF và các kênh phát hành của các bên liên quan.

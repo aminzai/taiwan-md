@@ -25,8 +25,8 @@ imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Stan_Shih_at_Taipei_IT_Month_20141205a.jpg'
 relatedDiary: ['2026-07-06-133221-施振榮-rewrite']
 translatedFrom: 'People/施振榮.md'
-sourceCommitSha: '648966eac'
-sourceContentHash: 'sha256:4207f3d1db6eb633'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:b0e816b78b19b42e'
 sourceBodyHash: 'sha256:a0ff299644c9b0cc'
 translatedAt: '2026-07-28T08:16:22+08:00'
 ---
@@ -180,6 +180,13 @@ Từ năm 1981, chiếc máy tính cầm gập được các nhà bán lại Hoa
 
 **Bạn đọc thêm:**:[Maccr](/economy/台灣企業：宏碁) (do Thái Anh Văn sáng lập và đưa lên sân khấu thế giới, đây là câu chuyện hoàn chỉnh của nó),[Zhang Zhongmou](/people/張忠謀) (người mời Thái Anh Văn làm chứng cống TSMC trong 21 năm, đi theo con đường công nghệ Đài Loan khác),[TSMC](/vi/economy/tsmc) (công ty làm việc trong phần trung gian có giá trị thấp nhất của đường cong cười nhưng trở thành núi bảo vệ quốc gia của Đài Loan, đây cũng là nơi Thái Anh Văn nắm giữ nhiều cổ phiếu nhất),[Chuyển đổi công nghiệp Đài Loan](/vi/economy/industrial-transformation-from-manufacturing-to-innovation) (đường cong cười và con đường thiên đường sau 40 năm chuyển đổi giữa sản xuất và thương hiệu).
 
+## Nguồn hình ảnh
+
+- **Hình đầu tiên/Thái Anh Văn（2014）**：Tony Tseng quay， năm 2014 tháng 6 tại hội chợ thông tin thánh địa， CC BY 2.0。Nguồn [Flickr](https://www.flickr.com/photos/tonytseng/)。
+- **"Giáo sư nhỏ một số"（MPF-I，1981）**：Joho345 quay， công cộng（Public Domain）。Nguồn Wikimedia Commons。
+- **Biểu đồ đường cong cười**： Rico Shen thiết kế， CC BY-SA 4.0。Nguồn Wikimedia Commons。
+- **Thái Anh Văn（2007，phần thất bại/thẳng thắn）**： Rico Shen quay， CC BY-SA 3.0。Nguồn Wikimedia Commons。
+
 ## Tài liệu tham khảo
 
 [^1]: [Báo giờ: Thái Anh Văn xây dựng máy tính cầm gập đầu tiên "Giáo sư nhỏ một số" năm 1981](https://time.udn.com/udntime/story/122390/9424956) — Bài viết đặc biệt của Báo giờ (2026-04-13), ghi lại việc Maccr mang "Giáo sư nhỏ một số" đến triển lãm điện tử West Coast Electronics Show tại San Francisco năm 1981 (WESCON).
@@ -323,10 +330,3 @@ Từ năm 1981, chiếc máy tính cầm gập được các nhà bán lại Hoa
 [^69]: [Tạp chí Đánh giá: Thái Anh Văn AI phân tử A-Dan và cuốn sách mới](https://www.gvm.com.tw/article/127819) — Cùng bài trên， ghi nhận cuốn sách mới "Phun sinh của nhà lãnh đạo: Stan và A-Dan trò chuyện" khoảng 90% nội dung được phân tử AI được tập huấn luyện viết， bao gồm 30 câu hỏi trả lời， trong đó có câu hỏi chính là "Bạn mong người khác nhớ bạn như thế nào?"[^69].
 
 [^70]: [Tạp chí Đánh giá: Thái Anh Văn dự kiến nghỉ hưu lần hai vào tuổi 85](https://www.gvm.com.tw/article/127819) — Tạp chí Đánh giá ghi nhận Thái Anh Văn vào ngày 6 tháng 12 năm 2024 tại buổi lễ cảm ơn nghỉ hưu 20 năm， đề xuất nghỉ hưu lần hai vào tuổi 85， giao vai trò chủ tịch công ty lợi nhuận cho người khác， vẫn sẽ đầu tư vào công tác phiếu； nhưng nhìn vào những gì ông làm trong những năm gần đây： đến Nhật Bản phát biểu về bản white paper mới về con đường thiên đường， ra mắt phân tử AI， chịu nhiều báo chí phỏng vấn， ngày nay thời gian nghỉ hưu dường như vẫn sẽ được kéo dài.
-
-## Nguồn hình ảnh
-
-- **Hình đầu tiên/Thái Anh Văn（2014）**：Tony Tseng quay， năm 2014 tháng 6 tại hội chợ thông tin thánh địa， CC BY 2.0。Nguồn [Flickr](https://www.flickr.com/photos/tonytseng/)。
-- **"Giáo sư nhỏ một số"（MPF-I，1981）**：Joho345 quay， công cộng（Public Domain）。Nguồn Wikimedia Commons。
-- **Biểu đồ đường cong cười**： Rico Shen thiết kế， CC BY-SA 4.0。Nguồn Wikimedia Commons。
-- **Thái Anh Văn（2007，phần thất bại/thẳng thắn）**： Rico Shen quay， CC BY-SA 3.0。Nguồn Wikimedia Commons。

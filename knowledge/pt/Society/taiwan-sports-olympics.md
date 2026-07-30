@@ -27,8 +27,8 @@ readingTime: 18
 viewpoint_formed: true
 verification: "{'high_confidence': ['楊傳廣 1960 羅馬 8334 分輸 58 分 / 2025 國寶', '蔡溫義 1984 LA 60kg 抓 125 + 挺 147.5 = 272.5 銅', '陳詩欣 2004 雅典 49kg 6:4 古巴 Diaz / 朱木炎 58kg 6:1 墨 Salazar / 15 分鐘雙金', '2020 東京 2 金 4 銀 6 銅 = 12 面史上最佳', '2024 巴黎 2 金 5 銅 = 7 面 / 麟洋配奧運史首對男雙連霸', '嘉農 1931 甲子園準優勝決賽 0:4 中京商業', '1981/3/23 洛桑協議 沈家銘 vs Samaranch'], 'single_source': ['1979 名古屋通訊投票 62-17-2', '黃金計畫 2018 3 年 12 億', '紅葉少棒冒名頂替案 13 人 5 虛報 9 冒名'], 'unverified': ['黃金計畫 3.0 (2024 巴黎週期) 預算總額']}"
 translatedFrom: 'Society/台灣體育發展與奧運.md'
-sourceCommitSha: 'b1f23fd8d'
-sourceContentHash: 'sha256:cce1a0626b10ac89'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:f86cdecbd23b7e4f'
 sourceBodyHash: 'sha256:77348d4fbb7640a8'
 translatedAt: '2026-07-28T03:07:44+08:00'
 ---
@@ -152,6 +152,10 @@ Daquela porta fechada do "Taiwan" em Montreal 1976, até Paris 2024 o mundo inte
 - [Chuang Chih-yuan](/pt/people/chuang-chih-yuan-table-tennis-legend): o rei solitário do ténis de mesa com quatro títulos asiáticos consecutivos
 - [Cultura do beisebol em Taiwan](/pt/culture/taiwan-baseball-culture): cem anos de história do beisebol, da Kano à CPBL
 
+## Fontes das imagens
+
+A completar na sessão principal.
+
 ## Referências
 
 [^1]: Estabelecimento de relações diplomáticas Canadá-República Popular da China (1970/10/13); República da China rompe relações. Wikipédia "Relações China-Canadá".
@@ -263,7 +267,3 @@ Daquela porta fechada do "Taiwan" em Montreal 1976, até Paris 2024 o mundo inte
 [^54]: ETtoday 2024 "2028 Los Angeles beisebol 6 equipas regressa" ([sports.ettoday.net/news/2941808](https://sports.ettoday.net/news/2941808)); Yahoo Desporto notícia 2028 beisebol/softbol regressa.
 
 [^55]: 2024 Premier12 Campeonato Mundial Premier12 — primeiro título de Taiwan em competição internacional de nível A; Dados de atividades do Governo Municipal de Taipé.
-
-## Fontes das imagens
-
-A completar na sessão principal.

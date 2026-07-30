@@ -32,8 +32,8 @@ sporeLinks:
     "{'id': 60, 'platform': 'x', 'date': '2026-05-04', 'url': 'https://x.com/taiwandotmd/status/2051235570995839479'}",
   ]
 translatedFrom: 'Nature/黃魚鴞.md'
-sourceCommitSha: '3c781dbac'
-sourceContentHash: 'sha256:f082c2bfc65ade6e'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:7f5ae90c4eafcd0e'
 sourceBodyHash: 'sha256:2a057438270935d7'
 translatedAt: '2026-07-28T23:24:14+08:00'
 ---
@@ -160,6 +160,12 @@ E agora, no wu-hsin-shih a 1.800 metros, dois filhotes estão aprendendo a abrir
 - [Cedro-de-taiwan 'Yitianjian' do Rio Daan (大安溪倚天劍)](/pt/nature/daan-river-yitian-sword) — Também escondido nas profundezas do Shei-Pa, sobreviveu graças a "onde humanos não chegam"; a floresta primária de nascente onde o cedro-de-taiwan cresceu até se tornar a árvore mais alta do Leste Asiático é precisamente o habitat de que a coruja-pescadora-taiwanesa depende
 - [Parques Nacionais de Taiwan (台灣國家公園)](/pt/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Shei-Pa, Taroko, Yushan, os três grandes parques nacionais são os últimos redutos de populações estáveis de coruja-pescadora-taiwanesa, caso concreto do sistema de áreas protegidas
 
+## Fontes das imagens
+
+Este artigo usa 1 imagem sob licença CC, em cache em `public/article-images/nature/` para evitar hotlink no servidor de origem:
+
+- [Coruja-pescadora-taiwanesa. Ketupa flavipes - Flickr - gailhampshire](https://commons.wikimedia.org/wiki/File:Tawny_fish_owl._Ketupa_flavipes_-_Flickr_-_gailhampshire.jpg) — Foto: gailhampshire (Cradley, Malvern, UK), 2009-02-17, [CC BY 2.0 via Wikimedia Commons](https://creativecommons.org/licenses/by/2.0/)
+
 ## Referências
 
 [^1]: [Avibase - Coruja-pescadora-taiwanesa (Ketupa flavipes)](https://avibase.bsc-eoc.org/species.jsp?avibaseid=67CA1D2676A192A5) — Base de dados internacional de aves, registra a história taxonômica da coruja-pescadora-taiwanesa: nomeada por Hodgson em 1836 no Nepal como _Cultrunguis flavipes_, depois transferida para _Bubo_, nos últimos anos separada como gênero _Ketupa_ por estudos filogenéticos moleculares.
@@ -199,9 +205,3 @@ E agora, no wu-hsin-shih a 1.800 metros, dois filhotes estão aprendendo a abrir
 [^18]: [Transmissão picture-in-picture de criação de coruja-pescadora-taiwanesa online! "Xiao-bao" engole peixe nacional inteiro; mãe sobe ao andar superior para alimentar "Da-bao" - Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/5423811) — Reportagem de 3 de maio de 2026: "Da-bao", nascido antes, deixou o ninho em 1º de maio movendo-se para cima da cavidade; Shei-Pa e equipe da NPUST instalaram segunda câmera para registrar simultaneamente o crescimento dos dois filhotes em picture-in-picture.
 
 [^19]: [Filhotes da "rainha da noite" coruja-pescadora-taiwanesa super fofos; Shei-Pa convida todo o povo a "dar nomes" - Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/5426048) — Reportagem de 5 de maio de 2026: Shei-Pa e professor Hung Hsiao-yu da NPUST lançam atividade de nomeação; por enquanto os dois filhotes chamam-se provisoriamente "Da-bao" e "Xiao-bao"; em 10 de maio a equipe selecionará em conjunto 5 propostas finalistas.
-
-## Fontes das imagens
-
-Este artigo usa 1 imagem sob licença CC, em cache em `public/article-images/nature/` para evitar hotlink no servidor de origem:
-
-- [Coruja-pescadora-taiwanesa. Ketupa flavipes - Flickr - gailhampshire](https://commons.wikimedia.org/wiki/File:Tawny_fish_owl._Ketupa_flavipes_-_Flickr_-_gailhampshire.jpg) — Foto: gailhampshire (Cradley, Malvern, UK), 2009-02-17, [CC BY 2.0 via Wikimedia Commons](https://creativecommons.org/licenses/by/2.0/)

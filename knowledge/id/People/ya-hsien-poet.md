@@ -25,8 +25,8 @@ imageCredit: '目宿媒體股份有限公司 (Wikimedia Commons, CC BY-SA 4.0)'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:%E7%98%82%E5%BC%A6.tif'
 translatedFrom: 'People/瘂弦.md'
-sourceCommitSha: 'b54335d00'
-sourceContentHash: 'sha256:736443e43dba4c29'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:e787dc16343b5dd6'
 sourceBodyHash: 'sha256:b6b66329e69543f7'
 translatedAt: '2026-07-27T22:12:14+08:00'
 ---
@@ -176,6 +176,14 @@ Ya Hsien meninggalkan sembilan puluh puisi. Dalam kata pengantar _The Abyss_, ia
 - [Martial Law](/id/history/martial-law-era) — Konteks sejarah sensor sastra, Jenderal Polisi, kekaburan sebagai protes politik
 - [Media dan Kebebasan Pers Taiwan](/id/society/media-and-press-freedom-in-taiwan) — Konteks sejarah dominasi dunia sastra Taiwan oleh dua koran besar _United Daily_ dan _China Times_ tahun 1950-1990-an
 
+## Sumber Gambar
+
+Artikel ini menggunakan 3 gambar berlisensi CC BY-SA, semua di-cache di `public/article-images/people/` untuk menghindari server sumber hotlink:
+
+- [Ya Hsien.tif](https://commons.wikimedia.org/wiki/File:%E7%98%82%E5%BC%A6.tif) — hero. Foto: Muzhu Media Co., Ltd., 2012-09-13, CC BY-SA 4.0, diverifikasi oleh tiket VRT Wikimedia Foundation 2017112310007121
+- [Luo Fu.tif](https://commons.wikimedia.org/wiki/File:%E6%B4%9B%E5%A4%AB.tif) — inline. Foto: Muzhu Media Co., Ltd., 2012, CC BY-SA 4.0
+- [Zheng Chouyu.tif](https://commons.wikimedia.org/wiki/File:%E9%84%AD%E6%84%81%E4%BA%88.tif) — inline. Foto: Muzhu Media Co., Ltd., 2017-11-16, CC BY-SA 4.0
+
 ## Referensi
 
 [^1]: [Komunitas Puisi Creation - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%89%B5%E4%B8%96%E7%B4%80%E8%A9%A9%E7%A4%BE) — Didirikan oleh Luo Fu dan Zhang Mo di Zuo Ying, Kaohsiung pada Oktober 1954, Ya Hsien bergabung kemudian; ketiganya disebut sebagai "Tiga Besi" puisi modern Taiwan pascaperang.
@@ -213,11 +221,3 @@ Ya Hsien meninggalkan sembilan puluh puisi. Dalam kata pengantar _The Abyss_, ia
 [^17]: [Zheng Chouyu - Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%84%AD%E6%84%81%E4%BA%88) — Penyair sejawat Komunitas Puisi Creation, wafat di AS pada 13 Juni 2025 pada usia 91 tahun; karya representatif _Kesalahan_ "Kuda kuat kuat adalah kesalahan indah" adalah salah satu puisi paling terkenal dalam sejarah puisi modern Taiwan.
 
 [^18]: [Zhang Mo (Penyair) - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E9%BB%98_%28%E8%A9%A9%E4%BA%BA%29) — Lahir tahun 1931, pendiri bersama dan editor utama jangka panjang Komunitas Puisi Creation, dipuji sebagai "lokomotif gerakan puisi baru Taiwan"; masih hidup hingga tahun 2026, satu-satunya yang masih hidup di Tiga Besi Creation.
-
-## Sumber Gambar
-
-Artikel ini menggunakan 3 gambar berlisensi CC BY-SA, semua di-cache di `public/article-images/people/` untuk menghindari server sumber hotlink:
-
-- [Ya Hsien.tif](https://commons.wikimedia.org/wiki/File:%E7%98%82%E5%BC%A6.tif) — hero. Foto: Muzhu Media Co., Ltd., 2012-09-13, CC BY-SA 4.0, diverifikasi oleh tiket VRT Wikimedia Foundation 2017112310007121
-- [Luo Fu.tif](https://commons.wikimedia.org/wiki/File:%E6%B4%9B%E5%A4%AB.tif) — inline. Foto: Muzhu Media Co., Ltd., 2012, CC BY-SA 4.0
-- [Zheng Chouyu.tif](https://commons.wikimedia.org/wiki/File:%E9%84%AD%E6%84%81%E4%BA%88.tif) — inline. Foto: Muzhu Media Co., Ltd., 2017-11-16, CC BY-SA 4.0

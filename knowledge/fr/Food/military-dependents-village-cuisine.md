@@ -18,8 +18,8 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/台灣眷村菜.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:7463882ad93990e3'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:065bf6354c8e6e97'
 sourceBodyHash: 'sha256:c6f4891abde841e9'
 translatedAt: '2026-05-16T05:07:56+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Spring_onion_pancake_2013.JPG/960px-Spring_onion_pancake_2013.JPG'
@@ -96,6 +96,10 @@ Aujourd'hui à Taïwan, les villages militaires ont largement disparu physiqueme
 
 Une nouvelle génération de chefs commence à réinterpréter la cuisine des villages, préservant les fondements traditionnels tout en utilisant des techniques et des ingrédients modernes. Plusieurs écrivains culinaires taïwanais ont aussi constitué des archives écrites de cette cuisine par leurs ouvrages — _Les saveurs de Taïwan_ (台灣味道) de Jiao Tong (焦桐, éd. Eryu, 2009) est l'une des œuvres fondatrices en la matière, permettant aux souvenirs gustatifs de survivre au-delà des recettes.[^3]
 
+## Crédits des images
+
+- Galette à la ciboule : Wikimedia Commons, [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+
 ## Références
 
 [^1]: [Centre de préservation de la culture des villages militaires — Ministère de la Défense](https://mvac.mnd.gov.tw/) — Contexte historique des villages militaires et données démographiques sur les migrants.
@@ -116,7 +120,3 @@ Une nouvelle génération de chefs commence à réinterpréter la cuisine des vi
 
 - [Centre de préservation de la culture des villages militaires — Ministère de la Défense](https://mvac.mnd.gov.tw/) — Plateforme intégrée d'information sur la préservation des villages militaires à l'échelle nationale
 - [Banque nationale de la mémoire culturelle — Dossier sur les villages militaires](https://memory.culture.tw/) — Histoires orales et collections d'objets liés aux villages militaires
-
-## Crédits des images
-
-- Galette à la ciboule : Wikimedia Commons, [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)

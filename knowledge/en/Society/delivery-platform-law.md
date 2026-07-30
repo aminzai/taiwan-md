@@ -32,8 +32,8 @@ sporeLinks:
     "{'id': 160, 'platform': 'x', 'date': '2026-07-25', 'url': 'https://x.com/taiwandotmd/status/2081045126898684051'}",
   ]
 translatedFrom: 'Society/外送專法.md'
-sourceCommitSha: '615a888ba'
-sourceContentHash: 'sha256:abc006485b5e07d3'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:2226f6ae85580ba3'
 sourceBodyHash: 'sha256:9aa85b1a3d34de72'
 translatedAt: '2026-07-29T19:47:13+08:00'
 ---
@@ -374,6 +374,17 @@ On day four after implementation the National Delivery Industry Union asked prec
 - [PX Mart Supermarket Chain](/economy/pxmart-supermarket-chain) — Local retail channel on fresh grocery delivery line
 - [Benzo[a]pyrene Food Safety Incident](/society/benzo-a-pyrene-food-safety-incident) — Same month law took effect, bento boxes delivered to doors represented downstream of this food safety storm
 
+## Image Sources
+
+Five images used in this article (one public domain, four Creative Commons licensed) all cached to `public/article-images/society/` avoiding hotlinks; plus two embedded official channel videos (PTS News TTV News), both lacking extractable subtitles therefore no direct quotes from video interviewees appear in body text.
+
+- [COMEBUY store and foodpanda rider scooter in rainy Qidu, Keelung](https://commons.wikimedia.org/wiki/File:COMEBUY_Keelung_Qidu_Store_and_Foodpanda_scooter_20200913.jpg) — Photo: Solomon203 September 13th, 2020 CC BY-SA 4.0 (hero image)
+- [Domino's Pizza delivery scooter on southern Taiwan streets in 2007](https://commons.wikimedia.org/wiki/File:Domino's_Pizza_delivery_scooter_in_Southern_Taiwan_20070220.jpg) — Photo: Joe Lewis February 20th, 2007 CC BY-SA 2.0
+- [Presidential Gazette No. 7838 (Republic Year 115 January 21st)](https://commons.wikimedia.org/wiki/File:ROC2026-01-21%E7%B8%BD%E7%B5%B1%E5%BA%9C%E5%85%AC%E5%A0%B17838.pdf) — Office of the President January 21st, 2026 Public Domain (first page table cropped horizontally)
+- [Legislative Yuan chamber interior](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E6%B3%95%E9%99%A2%E8%AD%B0%E5%A0%B4.jpg) — Photo: Lin Gao-chih October 3rd, 2017 CC BY-SA 4.0
+- [Uber Eats delivery scooter and insulation box](https://commons.wikimedia.org/wiki/File:Uber_Eats_806-EZV_20201010.jpg) — Photo: Solomon203 October 10th, 2020 CC BY-SA 4.0
+- Videos: PTS News "Delivery Riders Urge Legislation for Rights Protection | Ministry of Labor: Executive Version to Be Submitted Soon｜PTS Noon News November 6th, 2025" (official YouTube channel); TTV News "Day Three After Delivery Law Implementation Reveals Three Different Emotions Among Riders Merchants and Users" (official YouTube channel)
+
 ## References
 
 [^1]: [UberEats double orders: 4.4 km and 8.6 km both pay NT$90 (SETN News)](https://www.setn.com/news/1875786) — Report on July 21st implementation day featuring screenshot of rider's order screen showing two combined orders estimated at 4.4km/19min and 8.6km/26min both paying NT$90, including rider's exact quote "Congratulations confirmed addition of NT$24 is now nonexistent."
@@ -499,14 +510,3 @@ On day four after implementation the National Delivery Industry Union asked prec
 [^62]: [Gig workers in Canada](https://lawofwork.ca/gigworkerscanada/) — and [Ontario courts continue to recognize intermediate category of worker](https://www.littler.com/publication-press/publication/ontario-canada-courts-continue-recognize-intermediate-category-worker) — Ontario 1975 _Labour Relations Act_ amendment incorporated "dependent contractors" into employee definition twenty-one years before UK worker status; 2020 Ontario Labour Relations Board ruled Foodora delivery riders qualify as dependent contractors eligible to unionize. Spain's 2007 TRADE (Ley 20/2007) also represents long-standing intermediate category.**Special correction during verification**: Initial draft incorrectly stated UK "only" country using intermediate status long-term; after verification confirmed clear counterexamples changed to "few countries" plus added Canadian example directly applicable to delivery context
 
 [^61]: [Union accuses Labor Ministry of not imposing fines](https://www.ettoday.net/news/20260724/3206977.htm) — July 24th, 2026 report day four after implementation verbatim recording National Delivery Industry Union collective statement "enacting specific law but not enforcing penalties through fines—was it enacted for display? Watching from sidelines? Will Ministry of Labor continue helping platforms drag out delays?"
-
-## Image Sources
-
-Five images used in this article (one public domain, four Creative Commons licensed) all cached to `public/article-images/society/` avoiding hotlinks; plus two embedded official channel videos (PTS News TTV News), both lacking extractable subtitles therefore no direct quotes from video interviewees appear in body text.
-
-- [COMEBUY store and foodpanda rider scooter in rainy Qidu, Keelung](https://commons.wikimedia.org/wiki/File:COMEBUY_Keelung_Qidu_Store_and_Foodpanda_scooter_20200913.jpg) — Photo: Solomon203 September 13th, 2020 CC BY-SA 4.0 (hero image)
-- [Domino's Pizza delivery scooter on southern Taiwan streets in 2007](https://commons.wikimedia.org/wiki/File:Domino's_Pizza_delivery_scooter_in_Southern_Taiwan_20070220.jpg) — Photo: Joe Lewis February 20th, 2007 CC BY-SA 2.0
-- [Presidential Gazette No. 7838 (Republic Year 115 January 21st)](https://commons.wikimedia.org/wiki/File:ROC2026-01-21%E7%B8%BD%E7%B5%B1%E5%BA%9C%E5%85%AC%E5%A0%B17838.pdf) — Office of the President January 21st, 2026 Public Domain (first page table cropped horizontally)
-- [Legislative Yuan chamber interior](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E6%B3%95%E9%99%A2%E8%AD%B0%E5%A0%B4.jpg) — Photo: Lin Gao-chih October 3rd, 2017 CC BY-SA 4.0
-- [Uber Eats delivery scooter and insulation box](https://commons.wikimedia.org/wiki/File:Uber_Eats_806-EZV_20201010.jpg) — Photo: Solomon203 October 10th, 2020 CC BY-SA 4.0
-- Videos: PTS News "Delivery Riders Urge Legislation for Rights Protection | Ministry of Labor: Executive Version to Be Submitted Soon｜PTS Noon News November 6th, 2025" (official YouTube channel); TTV News "Day Three After Delivery Law Implementation Reveals Three Different Emotions Among Riders Merchants and Users" (official YouTube channel)

@@ -28,8 +28,8 @@ imageCredit: 'justfont / flyingV'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.flyingv.cc/projects/8250'
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: 'e773ef6b0'
-sourceContentHash: 'sha256:6e31a2264dcded4f'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:50da80d49885286c'
 sourceBodyHash: 'sha256:dcea1d33e3c8824c'
 translatedAt: '2026-07-28T03:07:46+08:00'
 ---
@@ -247,6 +247,17 @@ _चांग च्ये-क्वान स्क्रीन पर डि�
 - [सामाजिक आंदोलन और नागरिक भागीदारी](/hi/society/social-movements-and-civic-participation): जिन शुआन विवाद वाली "सार्वजनिक मामलों के लिए लड़ने" की ऊर्जा, ताइवानी समाज में बड़ी धारा रखती है।
 - [समुद्र तल केबल](/technology/海底電纜): एक और बुनियादी ढांचा जिसे हर कोई रोज़ इस्तेमाल करता है, मगर लगभग कोई नहीं देखता।
 
+## चित्र स्रोत
+
+- **कवर चित्र**: जिन शुआन फ़ॉन्ट flyingV क्राउडफंडिंग पेज मुख्य दृश्य।© justfont / flyingV, fair use editorial commentary। स्रोत: [flyingV प्रोजेक्ट पेज](https://www.flyingv.cc/projects/8250)
+- **ताइपे बस रूट डिस्प्ले**: Photo: BlubiNeko, 2022, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
+- **रिहसिंग टाइप फाउंड्री लेड अक्षर**: Photo: Johan Jönsson, 2023, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
+- **जिन शुआन आधिकारिक नमूना शीट**: © justfont, जस्टफॉन्ट प्रदान सामग्री, fair use editorial commentary（合作授權）。 स्रोत: [जस्टफॉन्ट ब्लॉग जिन शुआन लॉन्च पोस्ट](https://blog.justfont.com/2015/08/introducing-jinshuan/)
+- **jf open फेनयुआन आधिकारिक दृश्य**: © justfont, आधिकारिक GitHub repo रिलीज़ (फ़ॉन्ट बॉडी OFL 1.1)। स्रोत: [open-huninn-font](https://github.com/justfont/open-huninn-font)
+- **लानयांग मिंगती और 《जियानयू जी》 तुलना चित्र**: © justfont, जस्टफॉन्ट प्रदान सामग्री, fair use editorial commentary（合作授權）。 स्रोत: [जस्टफॉन्ट लानयांग मिंगती आधिकारिक पेज](https://justfont.com/lanyangming/)
+- **फेनत्ज़ी मि आधिकारिक नमूना शीट**: © justfont, जस्टफॉन्ट प्रदान सामग्री, fair use editorial commentary（合作授權）。 स्रोत: [जस्टफॉन्ट फेनत्ज़ी मि आधिकारिक पेज](https://justfont.com/kamabit/)
+- **चांग च्ये-क्वान मैट्रिक्स मरम्मत कार्य फोटो**: © justfont, जस्टफॉन्ट प्रदान सामग्री, fair use editorial commentary（合作授權）。 स्रोत: [जस्टफॉन्ट ब्लॉग रिहसिंग सोंगती एरहाओ](https://blog.justfont.com/2025/06/rixing-song2-revivals/)
+
 ## संदर्भ सामग्री
 
 [^1]: [flyingV: जिन शुआन फ़ॉन्ट क्राउडफंडिंग प्रोजेक्ट पेज](https://www.flyingv.cc/projects/8250) — क्राउडफंडिंग प्रथम-हस्त रिकॉर्ड, कुल NT$25,930,099, 7,667 प्रायोजक, लक्ष्य 15 लाख।
@@ -378,14 +389,3 @@ _चांग च्ये-क्वान स्क्रीन पर डि�
 [^64]: [विकिपीडिया: जस्टफॉन्ट (就是字)](https://zh.wikipedia.org/zh-tw/%E5%B0%B1%E6%98%AF%E5%AD%97) — कंपनी इतिहास दर्ज: येह च्यून-लिन हुआकांग पृष्ठभूमि, 2010 स्थापना, सु वेई-श्यांग 2012 पहले औपचारिक कर्मचारी के रूप में शामिल।
 
 [^65]: [विकिपीडिया: वेईफेंग डिजिटल (威鋒數位)](https://zh.wikipedia.org/wiki/%E5%A8%81%E9%8B%92%E6%95%B8%E4%BD%8D) — हुआकांग 1987 सितंबर ताइपे में स्थापित, ताइवान की पहली डिजिटल फ़ॉन्ट कंपनी, और 2001 नाम बदलकर वेईफेंग डिजिटल होने का इतिहास दर्ज।
-
-## चित्र स्रोत
-
-- **कवर चित्र**: जिन शुआन फ़ॉन्ट flyingV क्राउडफंडिंग पेज मुख्य दृश्य।© justfont / flyingV, fair use editorial commentary। स्रोत: [flyingV प्रोजेक्ट पेज](https://www.flyingv.cc/projects/8250)
-- **ताइपे बस रूट डिस्प्ले**: Photo: BlubiNeko, 2022, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
-- **रिहसिंग टाइप फाउंड्री लेड अक्षर**: Photo: Johan Jönsson, 2023, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
-- **जिन शुआन आधिकारिक नमूना शीट**: © justfont, जस्टफॉन्ट प्रदान सामग्री, fair use editorial commentary（合作授權）。 स्रोत: [जस्टफॉन्ट ब्लॉग जिन शुआन लॉन्च पोस्ट](https://blog.justfont.com/2015/08/introducing-jinshuan/)
-- **jf open फेनयुआन आधिकारिक दृश्य**: © justfont, आधिकारिक GitHub repo रिलीज़ (फ़ॉन्ट बॉडी OFL 1.1)। स्रोत: [open-huninn-font](https://github.com/justfont/open-huninn-font)
-- **लानयांग मिंगती और 《जियानयू जी》 तुलना चित्र**: © justfont, जस्टफॉन्ट प्रदान सामग्री, fair use editorial commentary（合作授權）。 स्रोत: [जस्टफॉन्ट लानयांग मिंगती आधिकारिक पेज](https://justfont.com/lanyangming/)
-- **फेनत्ज़ी मि आधिकारिक नमूना शीट**: © justfont, जस्टफॉन्ट प्रदान सामग्री, fair use editorial commentary（合作授權）。 स्रोत: [जस्टफॉन्ट फेनत्ज़ी मि आधिकारिक पेज](https://justfont.com/kamabit/)
-- **चांग च्ये-क्वान मैट्रिक्स मरम्मत कार्य फोटो**: © justfont, जस्टफॉन्ट प्रदान सामग्री, fair use editorial commentary（合作授權）。 स्रोत: [जस्टफॉन्ट ब्लॉग रिहसिंग सोंगती एरहाओ](https://blog.justfont.com/2025/06/rixing-song2-revivals/)

@@ -31,8 +31,8 @@ lastVerified: 2026-05-21
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/士林.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:5b2be7a2e0aa64aa'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:fa3c9da0d146b3a4'
 sourceBodyHash: 'sha256:18f3978bd2f84e6f'
 translatedAt: '2026-06-16T00:44:26+08:00'
 image: '/article-images/geography/shilin-cixian-temple-2010.webp'
@@ -236,6 +236,16 @@ _士林官邸正館。Photo: Kuailong. [License via Wikimedia Commons](https://c
 - [清朝統治期](/ja/history/qing-dynasty-rule) — 1796-1895年、漢人入植、漳州・泉州械闘、潘永清の新街計画をめぐる清朝統治百年の背景
 - [大龍峒](/ja/geography/dalongdong) — 1853年の頂下郊拼で敗れた同安人が退守した防衛中心。士林の1859年漳州・泉州械闘とともに、清朝統治期の北台湾における二つの族群械闘景観です
 
+## 画像出典
+
+本文ではCCライセンスのWikimedia Commons画像5点（hero＋本文内4点）を使用し、すべて `public/article-images/geography/` にcacheして、出典サーバーへのホットリンクを避けています。
+
+- [File:Shilin Cixian Temple 20100213.jpg](https://commons.wikimedia.org/wiki/File:Shilin_Cixian_Temple_20100213.jpg) — 士林慈諴宮三川殿，Photo: 龍本, 2010-02-13, CC BY-SA 3.0
+- [File:2012-11-19 night market and the Shilin Cixian Temple.jpg](https://commons.wikimedia.org/wiki/File:2012-11-19_night_market_and_the_Shilin_Cixian_Temple.jpg) — 士林夜市と慈諴宮が並ぶ様子，Photo: Maya-Anaïs Y., 2012-11-19, CC BY 2.0
+- [File:Shilin Night Market Dadong Road.jpg](https://commons.wikimedia.org/wiki/File:Shilin_Night_Market_Dadong_Road.jpg) — 士林夜市大東路の夜景，Photo: Ganmatthew, 2024-06-04, CC BY 4.0
+- [File:Shilin Cixian Temple roof 20190517.jpg](https://commons.wikimedia.org/wiki/File:Shilin_Cixian_Temple_roof_20190517.jpg) — 慈諴宮屋根の剪黏装飾，Photo: Adam Jones from Kelowna, BC, Canada, 2019-05-17, CC BY-SA 2.0
+- [File:Chiang Kai-shek Shilin Residence.JPG](https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_Shilin_Residence.JPG) — 士林官邸正館，Photo: Kuailong, CC BY-SA 3.0
+
 ## 参考資料
 
 [^1]: [士林慈諴宮 — 臺灣宗教文化地圖](https://taiwangods.moi.gov.tw/html/cultural/3_0011.aspx?i=64) — 内政部宗教文化資産公式ページ。原文には「士林慈諴宮は清の嘉慶元年（西暦1796年）に創建」「清の同治3年（西暦1864年）、先民の潘永清（1821-1873）による土地寄進、曹七和（生没年不詳）および信徒の寛大な寄付により、天后宮を現在地へ移建・再建」「光緒6年（西暦1880年）、『書経』の『諴於小民』から、媽祖の慈悲と民を助け和合させる意味を取り、慈諴宮と命名」「昭和2年（西暦1927年）、重建委員会委員長の潘光楷、主任委員の何炳奎らが再建を発起し、この大規模工事は10年を経て完成した。現在の慈諴宮の廟容はこの改築によって形成された」「民国74年（西暦1985年）に内政部により国家3級古跡として公告され、その後、民国86年（西暦1997年）の文化資産法改正後、台北市市定古跡へ変更」とする完全な年表が記録されています。
@@ -285,13 +295,3 @@ _士林官邸正館。Photo: Kuailong. [License via Wikimedia Commons](https://c
 [^23]: [臺北市士林區士林國民小學 — 維基百科](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E5%8C%97%E5%B8%82%E5%A3%AB%E6%9E%97%E5%8D%80%E5%A3%AB%E6%9E%97%E5%9C%8B%E6%B0%91%E5%B0%8F%E5%AD%B8) + [全台最早創校國小在士林 — 中央社訊息](https://www.cna.com.tw/postwrite/chi/319349) — 士林国小の完全な校史。「1895年に芝山巌で創立。1896年1月1日に六氏先生事件が発生し、4月22日に『国語学校附属芝山巌学堂』へ改名、6月1日に『国語学校第一附属学校』へ改名、1898年10月1日に『八芝蘭公学校』へ改名」「1921年に『士林公学校』へ改名。1941年に『士林国民学校』へ改名」「本校は西暦1895年創立の『芝山巌学堂』であり、現在まで130年の歴史を持ち、全台湾で最も早く設立された国民小学校である」という完全な公式記載です。
 
 [^24]: [士林官邸 — 維基百科](https://zh.wikipedia.org/zh-tw/%E5%A3%AB%E6%9E%97%E5%AE%98%E9%82%B8) + [蔣中正宋美齡士林官邸 — 國定古蹟環景導覽](https://view.boch.gov.tw/NationalHistorical/itemspage.aspx?id=8) — 士林官邸の完全な歴史。日本統治時代には「士林園芸試験分所」であり、1950年に蔣介石と宋美齢が入居して1975年の蔣の死去まで26年間住み、宋美齢は2003年に死去し、1996年に公園部分が一般開放され「台北市初の生態公園」となり、2011年に正館そのものが予約制で一般公開されたという完全な時間軸と行政沿革を含みます。
-
-## 画像出典
-
-本文ではCCライセンスのWikimedia Commons画像5点（hero＋本文内4点）を使用し、すべて `public/article-images/geography/` にcacheして、出典サーバーへのホットリンクを避けています。
-
-- [File:Shilin Cixian Temple 20100213.jpg](https://commons.wikimedia.org/wiki/File:Shilin_Cixian_Temple_20100213.jpg) — 士林慈諴宮三川殿，Photo: 龍本, 2010-02-13, CC BY-SA 3.0
-- [File:2012-11-19 night market and the Shilin Cixian Temple.jpg](https://commons.wikimedia.org/wiki/File:2012-11-19_night_market_and_the_Shilin_Cixian_Temple.jpg) — 士林夜市と慈諴宮が並ぶ様子，Photo: Maya-Anaïs Y., 2012-11-19, CC BY 2.0
-- [File:Shilin Night Market Dadong Road.jpg](https://commons.wikimedia.org/wiki/File:Shilin_Night_Market_Dadong_Road.jpg) — 士林夜市大東路の夜景，Photo: Ganmatthew, 2024-06-04, CC BY 4.0
-- [File:Shilin Cixian Temple roof 20190517.jpg](https://commons.wikimedia.org/wiki/File:Shilin_Cixian_Temple_roof_20190517.jpg) — 慈諴宮屋根の剪黏装飾，Photo: Adam Jones from Kelowna, BC, Canada, 2019-05-17, CC BY-SA 2.0
-- [File:Chiang Kai-shek Shilin Residence.JPG](https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_Shilin_Residence.JPG) — 士林官邸正館，Photo: Kuailong, CC BY-SA 3.0

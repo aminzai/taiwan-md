@@ -18,8 +18,8 @@ lastVerified: 2026-04-28
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/林琪兒.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:386b664532b04d0d'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:01f29f97ef180820'
 sourceBodyHash: 'sha256:85e505009fb05c24'
 translatedAt: '2026-06-16T17:14:33Z'
 image: '/article-images/people/lindgren-emu-2014.webp'
@@ -204,6 +204,14 @@ Si aquel diagnóstico de asma hubiera sido correcto, hoy sería un piloto de la 
 - [Los constructores de montañas: la apuesta del siglo](/es/art/mountain-makers-tsmc-documentary) — Documental de 2025 de Xiao Juzhen, con entrevistas a pioneros de los semiconductores, que resuena con la trayectoria internacional de los tecnólogos taiwaneses de la misma generación
 - [Desarrollo de la industria espacial en Taiwán](/es/technology/taiwan-space-industry-development) — Panorama completo de satélites, cohetes y política espacial propios de Taiwán, para comprender la base industrial local que encontró a su regreso
 
+## Créditos de imágenes
+
+Este artículo utiliza tres imágenes de dominio público (_Public domain_), todas tomadas por empleados de la NASA o contratistas fotográficos de la NASA, reutilizables con atribución según la política de uso de medios de la NASA. Los archivos están almacenados en caché en `public/article-images/people/` para evitar enlaces directos a los servidores de Wikimedia:
+
+- [Kjell Lindgren in EMU (cropped)](<https://commons.wikimedia.org/wiki/File:Kjell_Lindgren_in_EMU_(cropped).jpg>) — Foto: NASA/Bill Stafford, 27 de agosto de 2014, Dominio público, vía Wikimedia Commons
+- [Expedition 42 backup crew members in front of the Soyuz TMA spacecraft mock-up in Star City, Russia](https://commons.wikimedia.org/wiki/File:Expedition_42_backup_crew_members_in_front_of_the_Soyuz_TMA_spacecraft_mock-up_in_Star_City,_Russia.jpg) — Foto: NASA/Stephanie Stoll, 30 de octubre de 2014, Dominio público, vía Wikimedia Commons
+- [NASA astronaut and SpaceX Crew-4 Commander Kjell Lindgren training](https://www.nasa.gov/image-feature/nasa-astronaut-and-spacex-crew-4-commander-kjell-lindgren-0/) — Foto: NASA, 15 de febrero de 2022, ID de imagen NASA jsc2022e011416, retrato de Lindgren entrenando en la cápsula modelo Crew Dragon, Dominio público, NASA
+
 ## Referencias
 
 [^1]: [Marie Claire Taiwán, el astronauta taiwanés de la NASA Kjell Lindgren comparte sus sentimientos sobre la visita a Taiwán](https://www.marieclaire.com.tw/lifestyle/news/93023) — Recopilación de entrevistas en medios chinos que documentan el diagnóstico erróneo de asma en tercer año de USAFA, su revocación once años después y la selección en la NASA en 2009 como puntos de inflexión de su carrera.
@@ -267,11 +275,3 @@ Si aquel diagnóstico de asma hubiera sido correcto, hoy sería un piloto de la 
 [^31]: [NASA, STS-1 Mission](https://www.nasa.gov/mission/sts-1/) — Registro oficial de la NASA de la misión STS-1 del transbordador Columbia del 12 de abril de 1981, el primer lanzamiento del programa del transbordador espacial. Lindgren mencionó explícitamente en la entrevista de PTS que vio «el primer transbordador espacial en su lanzamiento inaugural de 1981» en el aula de segundo grado, cuando su maestra metió un televisor en el aula.
 
 [^32]: [Astronaut Kjell Lindgren's career path — Science News Explores](https://www.snexplores.org/article/astronaut-kjell-lindgren-career-path-medical-school-space-artemis-team) — Artículo-entrevista de Science News for Students 2024 que indica explícitamente que el diagnóstico erróneo de asma ocurrió durante el entrenamiento de pilotaje tras graduarse de USAFA («after graduating from the U.S. Air Force Academy and enrolling in pilot training»), con cita literal de Lindgren: «Being medically discharged from the Air Force was a very challenging time. It obliterated this dream of not only becoming a pilot but really the dream of getting to serve as an astronaut at any point.» Verificación cruzada: [reportaje de Colorado Springs Gazette 2024](https://gazette.com/military/nasa-astronaut-tells-air-force-symposium-how-his-dream-of-spaceflight-had-been-obliterated/article_f3635e08-d1c6-11ee-8cc0-f3c7e371183b.html) con la misma narrativa de diagnóstico erróneo durante el entrenamiento de pilotaje.
-
-## Créditos de imágenes
-
-Este artículo utiliza tres imágenes de dominio público (_Public domain_), todas tomadas por empleados de la NASA o contratistas fotográficos de la NASA, reutilizables con atribución según la política de uso de medios de la NASA. Los archivos están almacenados en caché en `public/article-images/people/` para evitar enlaces directos a los servidores de Wikimedia:
-
-- [Kjell Lindgren in EMU (cropped)](<https://commons.wikimedia.org/wiki/File:Kjell_Lindgren_in_EMU_(cropped).jpg>) — Foto: NASA/Bill Stafford, 27 de agosto de 2014, Dominio público, vía Wikimedia Commons
-- [Expedition 42 backup crew members in front of the Soyuz TMA spacecraft mock-up in Star City, Russia](https://commons.wikimedia.org/wiki/File:Expedition_42_backup_crew_members_in_front_of_the_Soyuz_TMA_spacecraft_mock-up_in_Star_City,_Russia.jpg) — Foto: NASA/Stephanie Stoll, 30 de octubre de 2014, Dominio público, vía Wikimedia Commons
-- [NASA astronaut and SpaceX Crew-4 Commander Kjell Lindgren training](https://www.nasa.gov/image-feature/nasa-astronaut-and-spacex-crew-4-commander-kjell-lindgren-0/) — Foto: NASA, 15 de febrero de 2022, ID de imagen NASA jsc2022e011416, retrato de Lindgren entrenando en la cápsula modelo Crew Dragon, Dominio público, NASA

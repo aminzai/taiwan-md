@@ -31,8 +31,8 @@ sporeLinks:
     date: '2026-04-28'
     url: 'https://x.com/taiwandotmd/status/2049079839244828881'
 translatedFrom: 'People/林琪兒.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:386b664532b04d0d'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:01f29f97ef180820'
 sourceBodyHash: 'sha256:85e505009fb05c24'
 translatedAt: '2026-06-16T17:15:54Z'
 featured: false
@@ -211,6 +211,14 @@ If that asthma report had been accurate, he might today be a retired Air Force f
 - Chiang Wei-shui — physician who diagnosed colonial-era Taiwan's "intellectual malnutrition" and pioneered its civil rights movement
 - Taiwan Space Industry Development — Taiwan's own satellites, rockets, and space policy, the local industry context he returned to face
 
+## Image Credits
+
+This article uses three public domain images, all taken by NASA staff or contractors and reusable with attribution under NASA media usage policy. Files cached at `public/article-images/people/` to avoid hotlinking Wikimedia servers:
+
+- [Kjell Lindgren in EMU (cropped)](<https://commons.wikimedia.org/wiki/File:Kjell_Lindgren_in_EMU_(cropped).jpg>) — Photo: NASA/Bill Stafford, 2014-08-27, Public domain, via Wikimedia Commons
+- [Expedition 42 backup crew members in front of the Soyuz TMA spacecraft mock-up in Star City, Russia](https://commons.wikimedia.org/wiki/File:Expedition_42_backup_crew_members_in_front_of_the_Soyuz_TMA_spacecraft_mock-up_in_Star_City,_Russia.jpg) — Photo: NASA/Stephanie Stoll, 2014-10-30, Public domain, via Wikimedia Commons
+- [NASA astronaut and SpaceX Crew-4 Commander Kjell Lindgren training](https://www.nasa.gov/image-feature/nasa-astronaut-and-spacex-crew-4-commander-kjell-lindgren-0/) — Photo: NASA, 2022-02-15, NASA Image ID jsc2022e011416, Public domain, NASA
+
 ## References
 
 [^1]: [Marie Claire Taiwan, Taiwan-born NASA astronaut Lin Chi-er's feelings on returning to Taiwan](https://www.marieclaire.com.tw/lifestyle/news/93023) — Chinese-language media profile compiling the career pivots: asthma misdiagnosis at USAFA, retest eleven years later, 2009 NASA selection.
@@ -274,11 +282,3 @@ If that asthma report had been accurate, he might today be a retired Air Force f
 [^31]: [NASA, STS-1 Mission](https://www.nasa.gov/mission/sts-1/) — Official NASA record of the April 12, 1981 launch of Columbia on STS-1, the Space Shuttle program's first flight. Lindgren specifically said in the PBS interview that he watched "the first Space Shuttle's first launch in 1981" in his second-grade classroom after a teacher wheeled in a television.
 
 [^32]: [Astronaut Kjell Lindgren's career path — Science News Explores](https://www.snexplores.org/article/astronaut-kjell-lindgren-career-path-medical-school-space-artemis-team) — 2024 interview clearly identifying the asthma misdiagnosis as occurring "after graduating from the U.S. Air Force Academy and enrolling in pilot training"; Lindgren verbatim: "Being medically discharged from the Air Force was a very challenging time. It obliterated this dream of not only becoming a pilot but really the dream of getting to serve as an astronaut at any point." Cross-referenced with [Colorado Springs Gazette 2024 report](https://gazette.com/military/nasa-astronaut-tells-air-force-symposium-how-his-dream-of-spaceflight-had-been-obliterated/article_f3635e08-d1c6-11ee-8cc0-f3c7e371183b.html).
-
-## Image Credits
-
-This article uses three public domain images, all taken by NASA staff or contractors and reusable with attribution under NASA media usage policy. Files cached at `public/article-images/people/` to avoid hotlinking Wikimedia servers:
-
-- [Kjell Lindgren in EMU (cropped)](<https://commons.wikimedia.org/wiki/File:Kjell_Lindgren_in_EMU_(cropped).jpg>) — Photo: NASA/Bill Stafford, 2014-08-27, Public domain, via Wikimedia Commons
-- [Expedition 42 backup crew members in front of the Soyuz TMA spacecraft mock-up in Star City, Russia](https://commons.wikimedia.org/wiki/File:Expedition_42_backup_crew_members_in_front_of_the_Soyuz_TMA_spacecraft_mock-up_in_Star_City,_Russia.jpg) — Photo: NASA/Stephanie Stoll, 2014-10-30, Public domain, via Wikimedia Commons
-- [NASA astronaut and SpaceX Crew-4 Commander Kjell Lindgren training](https://www.nasa.gov/image-feature/nasa-astronaut-and-spacex-crew-4-commander-kjell-lindgren-0/) — Photo: NASA, 2022-02-15, NASA Image ID jsc2022e011416, Public domain, NASA

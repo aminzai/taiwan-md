@@ -32,8 +32,8 @@ sporeLinks:
     "{'id': 60, 'platform': 'x', 'date': '2026-05-04', 'url': 'https://x.com/taiwandotmd/status/2051235570995839479'}",
   ]
 translatedFrom: 'Nature/黃魚鴞.md'
-sourceCommitSha: '3c781dbac'
-sourceContentHash: 'sha256:f082c2bfc65ade6e'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:7f5ae90c4eafcd0e'
 sourceBodyHash: 'sha256:2a057438270935d7'
 translatedAt: '2026-07-29T03:36:24+08:00'
 ---
@@ -160,6 +160,12 @@ _श्ये-पा राष्ट्रीय उद्यान 29 अप्
 - [दाआन शी यी तिएन चिएन](/nature/大安溪倚天劍) — इसी तरह श्ये-पा की गहराई में छिपा, "मनुष्य नहीं पहुँच सकते" इसीलिए जीवित बचा पुराना विशाल पेड़; ताइवान सugi पूर्वी एशिया का सबसे ऊँचा पेड़ बनने वाला वह गैर-चैनलीकृत हेडवाटर आदिम वन, ठीक ताइवान फिश आउल का आश्रित आवास
 - [ताइवान राष्ट्रीय उद्यान](/hi/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — श्ये-पा, तारोको, युशान तीन बड़े राष्ट्रीय उद्यान ताइवान फिश आउल की स्थिर आबादी के अंतिम किले, संरक्षित क्षेत्र प्रणाली का ठोस उदाहरण
 
+## छवि स्रोत
+
+본 문서는 1장의 CC 라이선스 이미지를 사용하며, `public/article-images/nature/`에 캐시되어 핫링크 방지:
+
+- [Tawny fish owl. Ketupa flavipes - Flickr - gailhampshire](https://commons.wikimedia.org/wiki/File:Tawny_fish_owl._Ketupa_flavipes_-_Flickr_-_gailhampshire.jpg) — Photo: gailhampshire (Cradley, Malvern, UK), 2009-02-17, [CC BY 2.0 via Wikimedia Commons](https://creativecommons.org/licenses/by/2.0/)
+
 ## संदर्भ
 
 [^1]: [Avibase - ताइवान फिश आउल (Ketupa flavipes)](https://avibase.bsc-eoc.org/species.jsp?avibaseid=67CA1D2676A192A5) — अंतरराष्ट्रीय पक्षी डेटाबेस, ताइवान फिश आउल वर्गीकरण इतिहास दर्ज: हॉजसन द्वारा 1836 में नेपाल में _Cultrunguis flavipes_ नामित, बाद में _Bubo_ में स्थानांतरित, हाल के वर्षों में आणविक प्रणालीविज्ञान शोध के कारण स्वतंत्र _Ketupa_ जीनस।
@@ -199,9 +205,3 @@ _श्ये-पा राष्ट्रीय उद्यान 29 अप्
 [^18]: [ताइवान फिश आउल घोंसला पिक्चर-इन-पिक्चर ऑनलाइन! "शिआओ-बाओ" राष्ट्रीय खजाना मछली निगल गया माँ ऊपर जाकर "दा-बाओ" को खाना देती है - लिबर्टी टाइम्स](https://news.ltn.com.tw/news/life/breakingnews/5423811) — 3 मई 2026 रिपोर्ट: पहले जन्मे "दा-बाओ" ने 1 मई को घोंसला छोड़कर ऊपर की शाखा पर स्थानांतरित किया, श्ये-पा और पिंगटुंग यूनिवर्सिटी टीम ने दूसरा कैमरा जोड़ा, पिक्चर-इन-पिक्चर से दोनों चूज़ों की वृद्धि प्रक्रिया साथ-साथ रिकॉर्ड।
 
 [^19]: ["अंधेरी रात का राजा" ताइवान फिश आउल बेबी सुपर क्यूट श्ये-पा पूरे नागरिकों को "नामकरण" के लिए आमंत्रित - लिबर्टी टाइम्स](https://news.ltn.com.tw/news/life/breakingnews/5426048) — 5 मई 2026 रिपोर्ट: श्ये-पा और पिंगटुंग यूनिवर्सिटी होंग श्याओ-यू ने नामकरण गतिविधि शुरू की, वर्तमान में दोनों चूज़े अस्थायी रूप से "दा-बाओ" और "शिआओ-बाओ" कहलाते हैं, 10 मई को टीम संयुक्त रूप से 5 प्रविष्टियाँ चुनेगी।
-
-## छवि स्रोत
-
-본 문서는 1장의 CC 라이선스 이미지를 사용하며, `public/article-images/nature/`에 캐시되어 핫링크 방지:
-
-- [Tawny fish owl. Ketupa flavipes - Flickr - gailhampshire](https://commons.wikimedia.org/wiki/File:Tawny_fish_owl._Ketupa_flavipes_-_Flickr_-_gailhampshire.jpg) — Photo: gailhampshire (Cradley, Malvern, UK), 2009-02-17, [CC BY 2.0 via Wikimedia Commons](https://creativecommons.org/licenses/by/2.0/)

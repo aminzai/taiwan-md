@@ -33,8 +33,8 @@ datasets:
   ]
 rationale: "{'why_this_hook': '從 1995 開辦的「準備時間只有三天」+ 「補充保費是個錯誤」這兩個自陳金句切入，避免落入「全球第一/血汗醫護」二元敘事；用核心矛盾「成功的制度設計鎖死制度更新的政治路徑」拉開深度。', 'whats_excluded': '失聯移工/黑戶嬰兒/海外停保族群只在「99.6% 盲區」段點到（議題涵蓋面太廣，獨立題目）；「歐巴馬學台灣」delegation 缺證據改寫為學界 + Sanders 引用鏈；Bloomberg #14 直接 refute 不展開方法論細節（節奏考量）。', 'where_it_hedges': 'Hsiao 顧問上任年份取 1989 task force conservative 版本（來源衝突 1988/1989/1991）；行政成本「長期 < 2%」標 hedge（首份報告出處未找到）；IC 卡明標 Slovenia 早 3.5 年（不寫「全球第一」）；醫師起訴率「美 400 倍」未引用（原始數據出處未追到）。', 'whos_pushing_back': '葉金川「總體醫師人數足夠」反五大皆空全面缺；李玉春自己造詞自己反對「點值是現象解」；鄭守夏 + 高若想 + 石崇良反「點值低 = 主因」單一歸因；Reinhardt「I have not advocated the single-payer model here because our government is too corrupt」設計者自反美國複製；70% 家戶買私保 evidence 反向 refute「NHI 鎖死私保」。'}"
 translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
-sourceCommitSha: '31eea37d3'
-sourceContentHash: 'sha256:bc3db40c99c58cf5'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:14d6c92447535914'
 sourceBodyHash: 'sha256:c1ead29e154aba6a'
 translatedAt: '2026-07-28T03:07:44+08:00'
 ---
@@ -197,6 +197,14 @@ Abaixo, estes dados abertos do governo permitem que você verifique por conta pr
 - [Atas das reuniões do Comitê do Seguro Saúde Universal do Ministério da Saúde](https://data.gov.tw/dataset/7554) (Comitê do Seguro Saúde Universal, atualização mensal) — A taxa de 5,17% "mantida sem ajuste" foi decidida em que mesa de reunião, com que razão, atas de primeira mão
 - [Estatística de subsídios dos vários níveis de governo a segurados vulneráveis do seguro saúde universal](https://data.gov.tw/dataset/23719) (Ministério da Saúde, Administração Central de Seguro Saúde, atualização mensal) — O "compartilhar riscos, pagar conforme capacidade" de Lin Ya-hui, na execução cai nesta tabela: governo pagou por quem
 
+## Fontes das imagens
+
+- **Hero**: [Edifício NHI, entrada principal da Divisão de Taipé ROC-MOHW-NHIA](https://commons.wikimedia.org/wiki/File:NHI_Building,_ROC-MOHW-NHIA_Taipei_Division_main_entrance_20180616.jpg) by Solomon203 / Wikimedia Commons / CC BY-SA 4.0
+- **Scene-mid 1** (Cartão IC do seguro saúde versão 2017): Ministério da Saúde, Administração Central de Seguro Saúde imagem oficial / Domínio Público (informação pública governamental)
+- **Scene-mid 2** (Documentário 30 anos do seguro saúde iframe): Canal oficial YouTube do Ministério da Saúde, Administração Central de Seguro Saúde
+- **Scene-mid 3** (Estação móvel de enfermagem Chia Chi 2007): Hospital Cristão de Chiayi / Uso para fins educacionais não comerciais
+- **Closure** (Edifício principal do Hospital da NTU): [National Taiwan University Hospital main building](https://commons.wikimedia.org/wiki/Category:National_Taiwan_University_Hospital) / Wikimedia Commons / CC BY-SA 4.0
+
 ## Referências
 
 [^1]: [Médico 31 / Ye Jin-chuan: Três dias de fogo no rabo, sustentaram 30 anos de seguro saúde](https://health.udn.com/health/story/6001/5826304) — Vital Net 2021 especial "Médico 31" entrevista Ye Jin-chuan, primeiro diretor-geral da Administração Central de Seguro Saúde recorda mobilização de emergência nos seis dias antes de 1º de março de 1995, contendo "tempo de preparação na verdade apenas três dias", "fogo no rabo", mecanismo _fallback_ de emergência usando bilhete de identidade no lugar do cartão, múltiplos _verbatim_.
@@ -284,11 +292,3 @@ Abaixo, estes dados abertos do governo permitem que você verifique por conta pr
 [^42]: [Mercado de Seguro Saúde Privado de Taiwan Após NHI](https://link.springer.com/article/10.1057/gpp.2012.36) — Geneva Papers on Risk and Insurance 2012 paper, analisa penetração de seguro privado por agregado familiar Taiwan pós-seguro saúde: 1993 63,9% → 2004 72,3% sobe inversamente 8,4 pontos percentuais, refuta inversamente hipótese "seguro saúde universal trava mercado de seguro privado".
 
 ---
-
-## Fontes das imagens
-
-- **Hero**: [Edifício NHI, entrada principal da Divisão de Taipé ROC-MOHW-NHIA](https://commons.wikimedia.org/wiki/File:NHI_Building,_ROC-MOHW-NHIA_Taipei_Division_main_entrance_20180616.jpg) by Solomon203 / Wikimedia Commons / CC BY-SA 4.0
-- **Scene-mid 1** (Cartão IC do seguro saúde versão 2017): Ministério da Saúde, Administração Central de Seguro Saúde imagem oficial / Domínio Público (informação pública governamental)
-- **Scene-mid 2** (Documentário 30 anos do seguro saúde iframe): Canal oficial YouTube do Ministério da Saúde, Administração Central de Seguro Saúde
-- **Scene-mid 3** (Estação móvel de enfermagem Chia Chi 2007): Hospital Cristão de Chiayi / Uso para fins educacionais não comerciais
-- **Closure** (Edifício principal do Hospital da NTU): [National Taiwan University Hospital main building](https://commons.wikimedia.org/wiki/Category:National_Taiwan_University_Hospital) / Wikimedia Commons / CC BY-SA 4.0

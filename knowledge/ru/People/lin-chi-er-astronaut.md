@@ -28,8 +28,8 @@ sporeLinks:
     "{'id': 50, 'platform': 'x', 'date': '2026-04-28', 'url': 'https://x.com/taiwandotmd/status/2049079839244828881'}",
   ]
 translatedFrom: 'People/林琪兒.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:386b664532b04d0d'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:01f29f97ef180820'
 sourceBodyHash: 'sha256:85e505009fb05c24'
 translatedAt: '2026-07-29T21:23:37+08:00'
 ---
@@ -210,6 +210,14 @@ _Февраль 2022 года: Линдгрен в роли командира S
 - [Творцы гор: ставка века](/ru/art/mountain-makers-tsmc-documentary) — документал Сяо Цзючжэнь 2025 года, интервью с ветеранами полупроводниковой отрасли, отзывается международной траекторией того же поколения тайваньских технологических кадров
 - [Развитие космической отрасли Тайваня](/technology/台灣太空產業發展) — панорама собственных спутников, ракет и космической политики Тайваня, понимание местной промышленной базы, с которой он столкнулся при возвращении
 
+## Источники изображений
+
+В статье использованы три изображения в общественном достоянии (Public domain), все сняты сотрудниками NASA или фотографами-подрядчиками, по политике NASA media usage допускаются к повторному использованию при указании источника. Файлы кэшированы в `public/article-images/people/`, чтобы избежать горячих ссылок на серверы Викимедиа:
+
+- [Kjell Lindgren in EMU (cropped)](<https://commons.wikimedia.org/wiki/File:Kjell_Lindgren_in_EMU_(cropped).jpg>) — Photo: NASA/Bill Stafford, 2014-08-27, Public domain, via Wikimedia Commons
+- [Expedition 42 backup crew members in front of the Soyuz TMA spacecraft mock-up in Star City, Russia](https://commons.wikimedia.org/wiki/File:Expedition_42_backup_crew_members_in_front_of_the_Soyuz_TMA_spacecraft_mock-up_in_Star_City,_Russia.jpg) — Photo: NASA/Stephanie Stoll, 2014-10-30, Public domain, via Wikimedia Commons
+- [NASA astronaut and SpaceX Crew-4 Commander Kjell Lindgren training](https://www.nasa.gov/image-feature/nasa-astronaut-and-spacex-crew-4-commander-kjell-lindgren-0/) — Photo: NASA, 2022-02-15, NASA Image ID jsc2022e011416, Линдгрен в макете Crew Dragon, Public domain, NASA
+
 ## Ссылки
 
 [^1]: [Marie Claire Тайвань, раскрыты переживания тайваньского космонавта NASA Линдгрена во время визита](https://www.marieclaire.com.tw/lifestyle/news/93023) — 정리 китайских СМИ, фиксирующая ошибочный диагноз астмы в USAFA, повторную проверку через 11 лет, поворотный момент зачисления в NASA 2009 года.
@@ -273,11 +281,3 @@ _Февраль 2022 года: Линдгрен в роли командира S
 [^31]: [NASA, STS-1 Mission](https://www.nasa.gov/mission/sts-1/) — официальная запись NASA о миссии STS-1 шаттла «Колумбия» 12 апреля 1981 года — первый запуск программы шаттлов. Линдгрен в интервью PTS чётко сказал, что увидел «первый запуск первого шаттла 1981 года» во втором классе, когда учительница принесла телевизор в класс.
 
 [^32]: [Astronaut Kjell Lindgren's career path — Science News Explores](https://www.snexplores.org/article/astronaut-kjell-lindgren-career-path-medical-school-space-artemis-team) — статья Science News for Students 2024 года, чётко указывает: ошибочный диагноз астмы произошёл после выпуска из USAFA в период летной подготовки («after graduating from the U.S. Air Force Academy and enrolling in pilot training»), дословная фраза Линдгрена: «Being medically discharged from the Air Force was a very challenging time. It obliterated this dream of not only becoming a pilot but really the dream of getting to serve as an astronaut at any point.» Перекрёстная проверка: [Colorado Springs Gazette 2024](https://gazette.com/military/nasa-astronaut-tells-air-force-symposium-how-his-dream-of-spaceflight-had-been-obliterated/article_f3635e08-d1c6-11ee-8cc0-f3c7e371183b.html) то же описывает ошибочный диагноз в период летной подготовки.
-
-## Источники изображений
-
-В статье использованы три изображения в общественном достоянии (Public domain), все сняты сотрудниками NASA или фотографами-подрядчиками, по политике NASA media usage допускаются к повторному использованию при указании источника. Файлы кэшированы в `public/article-images/people/`, чтобы избежать горячих ссылок на серверы Викимедиа:
-
-- [Kjell Lindgren in EMU (cropped)](<https://commons.wikimedia.org/wiki/File:Kjell_Lindgren_in_EMU_(cropped).jpg>) — Photo: NASA/Bill Stafford, 2014-08-27, Public domain, via Wikimedia Commons
-- [Expedition 42 backup crew members in front of the Soyuz TMA spacecraft mock-up in Star City, Russia](https://commons.wikimedia.org/wiki/File:Expedition_42_backup_crew_members_in_front_of_the_Soyuz_TMA_spacecraft_mock-up_in_Star_City,_Russia.jpg) — Photo: NASA/Stephanie Stoll, 2014-10-30, Public domain, via Wikimedia Commons
-- [NASA astronaut and SpaceX Crew-4 Commander Kjell Lindgren training](https://www.nasa.gov/image-feature/nasa-astronaut-and-spacex-crew-4-commander-kjell-lindgren-0/) — Photo: NASA, 2022-02-15, NASA Image ID jsc2022e011416, Линдгрен в макете Crew Dragon, Public domain, NASA

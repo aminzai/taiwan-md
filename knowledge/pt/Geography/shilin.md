@@ -37,8 +37,8 @@ imageCredit: '龍本'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Shilin_Cixian_Temple_20100213.jpg'
 translatedFrom: 'Geography/士林.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:5b2be7a2e0aa64aa'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:fa3c9da0d146b3a4'
 sourceBodyHash: 'sha256:18f3978bd2f84e6f'
 translatedAt: '2026-07-30T03:55:56+08:00'
 ---
@@ -238,6 +238,16 @@ Da próxima vez que você estiver às 19h30 na entrada do Mercado Noturno de Shi
 - [Era Qing](/pt/history/qing-dynasty-rule) — 1796-1895 colonização han, lutas Zhangzhou-Quanzhou, planejamento da nova rua por Pan Yongqing; pano de fundo de cem anos do Qing
 - [Dalongdong](/pt/geography/dalongdong) — 1853, tong'an derrotados no Confronto Top-Down recuaram para centro defensivo; junto com lutas Zhangzhou-Quanzhou de 1859 em Shilin, duas paisagens de lutas faccionais no norte de Taiwan no Qing
 
+## Fontes das imagens
+
+Este artigo usa 5 imagens CC do Wikimedia Commons (capa + 4 inline), todas em cache em `public/article-images/geography/` para evitar hotlink:
+
+- [File:Shilin Cixian Temple 20100213.jpg](https://commons.wikimedia.org/wiki/File:Shilin_Cixian_Temple_20100213.jpg) — Sanchuan do Templo Cixian de Shilin, Foto: 龍本, 2010-02-13, CC BY-SA 3.0
+- [File:2012-11-19 night market and the Shilin Cixian Temple.jpg](https://commons.wikimedia.org/wiki/File:2012-11-19_night_market_and_the_Shilin_Cixian_Temple.jpg) — Mercado Noturno de Shilin e Cixian lado a lado, Foto: Maya-Anaïs Y., 2012-11-19, CC BY 2.0
+- [File:Shilin Night Market Dadong Road.jpg](https://commons.wikimedia.org/wiki/File:Shilin_Night_Market_Dadong_Road.jpg) — Vista noturna da Rua Dongs do Mercado Noturno de Shilin, Foto: Ganmatthew, 2024-06-04, CC BY 4.0
+- [File:Shilin Cixian Temple roof 20190517.jpg](https://commons.wikimedia.org/wiki/File:Shilin_Cixian_Temple_roof_20190517.jpg) — Decoração de recortes no telhado do Cixian, Foto: Adam Jones from Kelowna, BC, Canada, 2019-05-17, CC BY-SA 2.0
+- [File:Chiang Kai-shek Shilin Residence.JPG](https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_Shilin_Residence.JPG) — Mansão principal da Residência Oficial de Shilin, Foto: Kuailong, CC BY-SA 3.0
+
 ## Referências
 
 [^1]: [Templo Cixian de Shilin — Mapa Cultural Religioso de Taiwan](https://taiwangods.moi.gov.tw/html/cultural/3_0011.aspx?i=64) — Página oficial de ativos culturais religiosos do Ministério do Interior; registra textualmente "Templo Cixian de Shilin fundado no primeiro ano de Jiaqing da dinastia Qing (1796)"; "no terceiro ano de Tongzhi (1864) reconstruído no local atual graças à doação de terra do ancestral Pan Yongqing (1821-1873) e generosa contribuição de Cao Qihe (anos de nascimento/morte desconhecidos) e fiéis"; "sexto ano de Guangxu (1880) adotou do _Livro dos Documentos_ 'xian yu xiaomin', com o sentido de Mazu compassiva, harmoniosa com o povo, nomeado Cixian"; "segundo ano de Showa (1927) comitê de reconstrução, presidente Pan Guangkai, diretor He Bingkui, iniciaram reconstrução, obra vasta, dez anos para concluir; a feição atual do Cixian data desta reconstrução"; "em 1985 (ano 74 da República) classificado pelo Ministério do Interior como monumento nacional de 3º nível; após revisão da Lei de Patrimônio Cultural em 1997 (ano 86 da República) reclassificado como monumento municipal de Taipé"; linha do tempo completa.
@@ -287,13 +297,3 @@ Da próxima vez que você estiver às 19h30 na entrada do Mercado Noturno de Shi
 [^23]: [Escola Primária Shilin do Distrito de Shilin de Taipé — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E5%8C%97%E5%B8%82%E5%A3%AB%E6%9E%97%E5%8D%80%E5%A3%AB%E6%9E%97%E5%9C%8B%E6%B0%91%E5%B0%8F%E5%AD%B8) — + [Escola primária mais antiga de Taiwan fica em Shilin — Notícia CNA](https://www.cna.com.tw/postwrite/chi/319349) — História completa da Escola Primária Shilin: "1895 fundada em Qishan. 1º janeiro 1896 Incidente dos Seis Senhores, 22 de abril renomeada 'Escola Anexa de Qishan da Escola de Língua Nacional', 1º junho 'Primeira Escola Anexa da Escola de Língua Nacional'; 1º outubro 1898 'Escola Pública Bazhilan'"; "1921 'Escola Pública Shilin'. 1941 'Escola Nacional Shilin'"; "Esta escola fundada em 1895 como 'Escola Qishan', até hoje 130 anos, é a mais antiga escola primária de Taiwan"; registro oficial completo
 
 [^24]: [Residência Oficial de Shilin — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%A3%AB%E6%9E%97%E5%AE%98%E9%82%B8) — + [Residência Oficial de Shilin de Chiang Kai-shek e Soong Meiling — Guia panorâmico de monumento nacional](https://view.boch.gov.tw/NationalHistorical/itemspage.aspx?id=8) — História completa da Residência Oficial; era japonesa era "Filial Experimental de Horticultura de Shilin"; 1950 Chiang Kai-shek e Soong Meiling entraram até 1975 morte de Chiang, 26 anos; Soong faleceu 2003; 1996 parte do parque aberta ao público "virou primeiro parque ecológico de Taipé"; 2011 mansão aberta para visita agendada; linha do tempo completa e evolução administrativa
-
-## Fontes das imagens
-
-Este artigo usa 5 imagens CC do Wikimedia Commons (capa + 4 inline), todas em cache em `public/article-images/geography/` para evitar hotlink:
-
-- [File:Shilin Cixian Temple 20100213.jpg](https://commons.wikimedia.org/wiki/File:Shilin_Cixian_Temple_20100213.jpg) — Sanchuan do Templo Cixian de Shilin, Foto: 龍本, 2010-02-13, CC BY-SA 3.0
-- [File:2012-11-19 night market and the Shilin Cixian Temple.jpg](https://commons.wikimedia.org/wiki/File:2012-11-19_night_market_and_the_Shilin_Cixian_Temple.jpg) — Mercado Noturno de Shilin e Cixian lado a lado, Foto: Maya-Anaïs Y., 2012-11-19, CC BY 2.0
-- [File:Shilin Night Market Dadong Road.jpg](https://commons.wikimedia.org/wiki/File:Shilin_Night_Market_Dadong_Road.jpg) — Vista noturna da Rua Dongs do Mercado Noturno de Shilin, Foto: Ganmatthew, 2024-06-04, CC BY 4.0
-- [File:Shilin Cixian Temple roof 20190517.jpg](https://commons.wikimedia.org/wiki/File:Shilin_Cixian_Temple_roof_20190517.jpg) — Decoração de recortes no telhado do Cixian, Foto: Adam Jones from Kelowna, BC, Canada, 2019-05-17, CC BY-SA 2.0
-- [File:Chiang Kai-shek Shilin Residence.JPG](https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_Shilin_Residence.JPG) — Mansão principal da Residência Oficial de Shilin, Foto: Kuailong, CC BY-SA 3.0

@@ -32,8 +32,8 @@ lastVerified: 2026-06-21
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/Cicada.md'
-sourceCommitSha: 'ac1d187a'
-sourceContentHash: 'sha256:4a53480bbe9aa83b'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:3d1c97835c5d9ea3'
 sourceBodyHash: 'sha256:5091127dea208f82'
 translatedAt: '2026-06-22T00:40:58+08:00'
 image: '/article-images/people/cicada-cuichi-xueshan-glacial-lake.webp'
@@ -277,6 +277,14 @@ Cicadaがなぜ独特なのかを理解するには、彼らの方法論全体�
 - [台湾の海洋生態](/ja/nature/taiwan-marine-ecology) - バンドの2017年海洋主題アルバムの生態的背景です
 - [台湾の山岳と登山文化](/ja/nature/taiwan-mountains-and-hiking-culture) - 江致潔の登山哲学の文脈です
 
+## 画像出典
+
+本文ではCC BY-SA 4.0ライセンスの画像を1枚使用し、外部サーバーへのホットリンクを避けるため、`public/article-images/people/`にキャッシュしています。
+
+- [翠池 汪大智 05](https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg)：Photo: Blackjack633, CC BY-SA 4.0（hero、雪山翠池）
+
+本文に埋め込まれた動画はすべて[Cicada公式YouTubeチャンネル @Cicadatw](https://www.youtube.com/@Cicadatw)にアップロードされた公式MVで、iframe埋め込みとして表示しています。著作権はバンドおよび発行レーベルに属し、YouTube標準埋め込みサービス規約に基づいて使用しています。
+
 ## 参考資料
 
 [^1]: [江致潔の創作方法論とダイビングでの気づき - IN IN TO MUSIC](https://inintomusic.asia/cicada-interview/)：江致潔が創作方法論「私はとても直感的です。ピアノの前に座り、リズムと内面のイメージが重なると」を自述。《棲居》の水流リズムについて「石に出会ったとき、感覚としては『わっ？』となります。そして、その横を流れていくのです」と説明。蘭嶼でのダイビングの気づき「あなたがコントロールできるのは、自分の呼吸だけです」「自分に正直でなければなりません」。
@@ -332,11 +340,3 @@ Cicadaがなぜ独特なのかを理解するには、彼らの方法論全体�
 [^26]: [第46回日本アカデミー賞受賞結果 - 日本アカデミー賞公式](https://www.japan-academy-prize.jp/prizes/?t=46)：第46回（2023）：映画《ある男》は最優秀作品賞など複数の最優秀賞を受賞。Cicada『ある男』は池頼広、髙見優、FUKUSHIGE MARIと並んで「優秀音楽賞」（ノミネート相当、4名並列）に入りました。同回の「最優秀音楽賞」はRADWIMPS／陣内一真《すずめの戸締まり》が受賞。つまり、作品は最優秀作品賞を受賞し、Cicadaの音楽は優秀音楽賞を受賞しましたが、最優秀音楽賞ではありません。
 
 [^27]: [雪山圏谷と台湾の氷河地形 - 国立自然科学博物館](https://epub.nmns.edu.tw/i401-1/)：雪山一号圏谷は「台湾最大で、最も完全な氷河地形の代表」（林朝棨1957を引用）。台湾の高山では最終氷期（約2万7千年前から1万8千年前）に山岳氷河が発達し、氷河地形を形成しました。翠池はカール湖で、周囲には台湾最大面積の玉山ビャクシン純林があります。台湾高山の氷河遺跡は学界で長く議論されてきましたが、1998年に王鑫らが氷食証拠を詳細調査した後に確認されました。
-
-## 画像出典
-
-本文ではCC BY-SA 4.0ライセンスの画像を1枚使用し、外部サーバーへのホットリンクを避けるため、`public/article-images/people/`にキャッシュしています。
-
-- [翠池 汪大智 05](https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg)：Photo: Blackjack633, CC BY-SA 4.0（hero、雪山翠池）
-
-本文に埋め込まれた動画はすべて[Cicada公式YouTubeチャンネル @Cicadatw](https://www.youtube.com/@Cicadatw)にアップロードされた公式MVで、iframe埋め込みとして表示しています。著作権はバンドおよび発行レーベルに属し、YouTube標準埋め込みサービス規約に基づいて使用しています。

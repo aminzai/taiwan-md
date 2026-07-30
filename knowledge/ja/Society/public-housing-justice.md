@@ -42,8 +42,8 @@ sporeLinks:
     date: '2026-06-06'
     url: 'https://x.com/taiwandotmd/status/2063165712261390793'
 translatedFrom: 'Society/國宅與居住正義.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:bd9b1e07ed885b16'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:8ca8b403c13ab428'
 sourceBodyHash: 'sha256:547ee1d3b342a025'
 translatedAt: '2026-06-14T00:35:00+08:00'
 image: '/article-images/society/taipei-skyline-housing-2026.webp'
@@ -312,6 +312,20 @@ _ウィーンのカール・マルクス・ホーフ（Karl-Marx-Hof）です。
 - [台北市国民住宅配売（賃貸）状況](https://data.gov.tw/dataset/121267)（台北市政府都市発展局、不定期更新）— 記事中の三大国民住宅で政府が販売した低価格住宅の配売・賃貸公式記録
 - [台北市政府社会住宅包租代管マッチング統計資料](https://data.gov.tw/dataset/155779)（台北市政府都市発展局、年1回更新）— 「2016年に政府は売らず賃貸路線へ転換」という新たな方向の実施側の数字
 
+## 画像出典
+
+本文では 8 枚のクリエイティブ・コモンズ授権画像を使用し、すべて `public/article-images/society/` にキャッシュして、出典サーバーへの直リンクを避けています。また、公式チャンネルの動画 2 本（華視新聞、天下雑誌）を埋め込んでいます。
+
+- [台北市住宅スカイライン（象山視角）](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo: Heeheemalu, 2026, CC BY-SA 4.0（hero）
+- [台北市士林区の集合住宅街景](https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_Shilin,_Taipei_20220705.jpg) — Photo: 迷惘的人生, 2022, CC BY-SA 2.0
+- [香港土瓜湾海富苑（居屋）](https://commons.wikimedia.org/wiki/File:Hoi_Fu_Court-Hoi_Wen_House_and_Hoi_Lam_House.JPG) — Photo: Thomasman, 2008, CC BY-SA 3.0
+- [ロンドン Brookfield Estate 市政公営住宅](<https://commons.wikimedia.org/wiki/File:Brookfield_Estate_(49445902922).jpg>) — Photo: Reading Tom, CC BY 2.0
+- [シンガポール・ラベンダー地区 HDB 組屋](https://commons.wikimedia.org/wiki/File:Lavender_district_HDB_flats_in_Singapore.JPG) — Photo: Martinpasquier, 2014, CC BY-SA 4.0
+- [台北市明倫社会住宅](https://commons.wikimedia.org/wiki/File:Minglun_Social_Housing_front_view_20230304.jpg) — Photo: Solomon203, 2023, CC BY-SA 4.0
+- [桃園青埔高速鉄道特区スカイライン](https://commons.wikimedia.org/wiki/File:Taoyuan_Skyline_20230903.jpg) — Photo: Heeheemalu, 2023, CC BY-SA 4.0
+- [ウィーン Karl-Marx-Hof 社会住宅](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-_Karl-Marx-Hof_(2).JPG>) — Photo: C.Stadler/Bwag, CC BY-SA 4.0
+- 動画：華視新聞〈716 凱道遊行喊「居住正義」〉（YouTube 公式チャンネル）、天下雑誌〈為何社宅政策大轉彎〉8 分鐘看懂天下 Ep.74（YouTube 公式チャンネル）
+
 ## 参考資料
 
 [^1]: [成功國宅當年沒人要（Yahoo 好宅報報）](https://tw.stock.yahoo.com/news/成功國宅當年沒人要) — 成功国民住宅が 1985 年の完成初期に売れ残り、値下げと 4 年無利子ローンを組み合わせてようやく完売したこと、また老里長の石忠勝氏が夫妻で 40 万台湾ドルの頭金を用意して購入した経緯を報じています。
@@ -367,17 +381,3 @@ _ウィーンのカール・マルクス・ホーフ（Karl-Marx-Hof）です。
 [^26]: [張善政赴行政院爭取（中時新聞網）](https://www.chinatimes.com/realtimenews/20260604003830-260405) — 桃園市長の張善政氏が 2026 年 6 月 4 日に行政院へ赴き、手の届く住宅を中央政策へ組み込むよう求めたことを報じています。また、手の届く住宅と社会住宅を居住政策の「二つの翼」と形容し、相互補完であって競合ではないと述べたことを伝えています。
 
 [^27]: [卓榮泰盼政策對齊（Newtalk 新聞）](https://newtalk.tw/news/view/2026-06-04/1039327) — 行政院長の卓榮泰氏が桃園の手の届く住宅に対して態度を軟化させ、否定せず、中央と地方の政策がそろうことを望むと応答したことを報じています。
-
-## 画像出典
-
-本文では 8 枚のクリエイティブ・コモンズ授権画像を使用し、すべて `public/article-images/society/` にキャッシュして、出典サーバーへの直リンクを避けています。また、公式チャンネルの動画 2 本（華視新聞、天下雑誌）を埋め込んでいます。
-
-- [台北市住宅スカイライン（象山視角）](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo: Heeheemalu, 2026, CC BY-SA 4.0（hero）
-- [台北市士林区の集合住宅街景](https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_Shilin,_Taipei_20220705.jpg) — Photo: 迷惘的人生, 2022, CC BY-SA 2.0
-- [香港土瓜湾海富苑（居屋）](https://commons.wikimedia.org/wiki/File:Hoi_Fu_Court-Hoi_Wen_House_and_Hoi_Lam_House.JPG) — Photo: Thomasman, 2008, CC BY-SA 3.0
-- [ロンドン Brookfield Estate 市政公営住宅](<https://commons.wikimedia.org/wiki/File:Brookfield_Estate_(49445902922).jpg>) — Photo: Reading Tom, CC BY 2.0
-- [シンガポール・ラベンダー地区 HDB 組屋](https://commons.wikimedia.org/wiki/File:Lavender_district_HDB_flats_in_Singapore.JPG) — Photo: Martinpasquier, 2014, CC BY-SA 4.0
-- [台北市明倫社会住宅](https://commons.wikimedia.org/wiki/File:Minglun_Social_Housing_front_view_20230304.jpg) — Photo: Solomon203, 2023, CC BY-SA 4.0
-- [桃園青埔高速鉄道特区スカイライン](https://commons.wikimedia.org/wiki/File:Taoyuan_Skyline_20230903.jpg) — Photo: Heeheemalu, 2023, CC BY-SA 4.0
-- [ウィーン Karl-Marx-Hof 社会住宅](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-_Karl-Marx-Hof_(2).JPG>) — Photo: C.Stadler/Bwag, CC BY-SA 4.0
-- 動画：華視新聞〈716 凱道遊行喊「居住正義」〉（YouTube 公式チャンネル）、天下雑誌〈為何社宅政策大轉彎〉8 分鐘看懂天下 Ep.74（YouTube 公式チャンネル）

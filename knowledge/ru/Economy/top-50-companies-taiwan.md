@@ -27,8 +27,8 @@ imageCredit: 'Arusanov'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG'
 translatedFrom: 'Economy/台灣前50大企業.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:fd16d89c1109096c'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:22fc95c656db9409'
 sourceBodyHash: 'sha256:645f8f42e79639a7'
 translatedAt: '2026-07-29T18:45:53+08:00'
 ---
@@ -170,6 +170,14 @@ _Промышленный комплекс Formosa Plastics в Майляо, Ю�
 - [Национальная оборона и военная модернизация Тайваня](/ru/society/taiwan-defense-modernization) — кремниевый щит и геополитическая связка топ-50
 - [Научные парки Тайваня](/ru/technology/science-park-development) — производственные базы 11 полупроводниковых мест топ-50, пространственная версия концентрации производства трех парков
 
+## Источники изображений
+
+В статье использованы 3 изображения в открытом доступе / под Creative Commons, все закешированы в `public/article-images/economy/` для избежания горячих ссылок:
+
+- **Hero**: [Tsmc factory hsinchu](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) — Фото: Arusanov, 20.07.2009, фасад завода ТСМК в Синьчжуньском научном парке. Public domain via Wikimedia Commons.
+- **Inline 1 (Тайбэй 101 / Биржа)**: [Taipei 101 20230511 114624](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg) — Фото: Anas1712, 11.05.2023, фасад Тайбэй 101, штаб-квартира Тайваньской фондовой биржи. CC BY 4.0 via Wikimedia Commons.
+- **Inline 2 (Майляо, Шесть лёгких)**: [Formosa Plastics Group Mail-Liao Industrial Complex, Yunlin (Taiwan)](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>) — Фото: Malcolm Koo (Mk2010), 15.03.2014, воздушная съёмка комплекса Formosa Plastics в Майляо. CC BY-SA 3.0 via Wikimedia Commons.
+
 ## Ссылки
 
 [^1]: [Tom's Hardware: Jensen Huang dines at Taipei night market with Taiwan tech CEOs](https://www.tomshardware.com/tech-industry/jensen-huang-dines-at-taipei-night-market-with-taiwan-tech-ceos) — запись медиа об ужине 28.05.2024: Дженсен Хуанг, Моррис Чанг, Ц.Ц. Вэй, Рيك Лин, Яо Жэньси на Нинся.
@@ -233,11 +241,3 @@ _Промышленный комплекс Formosa Plastics в Майляо, Ю�
 [^30]: [The Reporter: долгосрочное исследование рисков здоровья у жителей у «Шести лёгких»](https://www.twreporter.org/a/fpc-sixth-naphtha-cracker-contaminant-detection) — исследование проф. Чжань Чанчуаня 2012: метаболиты тяжёлых металлов в моче в 5,5 раза выше за 10 км, 132 токсичных канцерогена, PM2.5 ~140 тыс. тонн/год.
 
 [^31]: [Earth Citizen Foundation: анализ источников загрязнения сталью в Каосюне](https://www.cet-taiwan.org/) — 80–90 % загрязнения от стального сектора — China Steel, PM 36 % и SOx 32 % от стационарных источников — сталь, инвестиции China Steel 2017–2020: 4,756 млрд, динамика PM/SOx/NOx.
-
-## Источники изображений
-
-В статье использованы 3 изображения в открытом доступе / под Creative Commons, все закешированы в `public/article-images/economy/` для избежания горячих ссылок:
-
-- **Hero**: [Tsmc factory hsinchu](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) — Фото: Arusanov, 20.07.2009, фасад завода ТСМК в Синьчжуньском научном парке. Public domain via Wikimedia Commons.
-- **Inline 1 (Тайбэй 101 / Биржа)**: [Taipei 101 20230511 114624](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg) — Фото: Anas1712, 11.05.2023, фасад Тайбэй 101, штаб-квартира Тайваньской фондовой биржи. CC BY 4.0 via Wikimedia Commons.
-- **Inline 2 (Майляо, Шесть лёгких)**: [Formosa Plastics Group Mail-Liao Industrial Complex, Yunlin (Taiwan)](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>) — Фото: Malcolm Koo (Mk2010), 15.03.2014, воздушная съёмка комплекса Formosa Plastics в Майляо. CC BY-SA 3.0 via Wikimedia Commons.

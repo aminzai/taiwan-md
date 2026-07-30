@@ -255,6 +255,17 @@ Xã thơ Lạp 60 năm không ngừng xuất bản. Taiwan.md mới bắt đầu
 - [Văn học thời Nhật thuộc](/art/日治時期文學) — Bối cảnh lớn thế hệ đa ngữ xã thơ Lạp
 - Đỗ Phan Phương Cách — Nhà thơ nữ đa ngữ người Khách Gia gia nhập năm 1965; "Hòa bình hí" và dòng thơ tiếng Khách
 
+## Nguồn ảnh
+
+Bài viết sử dụng 4 ảnh quyền công cộng / CC, toàn bộ cache tại `public/article-images/art/` để tránh hotlink máy chủ nguồn:
+
+- [Nhà thơ Ngô Thịnh tại Triển lãm Sách Quốc tế Đài Bắc 2016](https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg) — Ảnh: Rico Shen, 2016, CC BY-SA 4.0 (hero)
+- [Ảnh tập thể các biên tập viên Tạp chí thơ Lạp năm 1964](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — Tư liệu lịch sử năm sáng lập xã thơ Lạp, Wikimedia Commons CC BY-SA / Public domain
+- [Chân dung nhà thơ Lâm Hanh Thái](https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%BA%A8%E6%B3%B0%E8%82%96%E5%83%8F.jpg) — Wikimedia Commons CC BY-SA / Public domain
+- [Lệnh truy tặng vinh dự Trần Thiên Vũ](https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%8D%83%E6%AD%A6%E8%A4%92%E6%8F%9A%E4%BB%A4.jpg) — Tài liệu chính phủ công khai, Public domain
+
+Manifest truyền thông chi tiết và ghi nhận kết quả âm tính tại [báo cáo nghiên cứu §Ma trận ủy quyền truyền thông](../../reports/research/2026-06/笠詩社.md). EVOLVE tương lai bổ sung: Chân dung Bạch Hạo, Hướng Dương, Thẩm Băng, Cẩm Liên + Ảnh triển lãm chính thức "Lục thập nhi Lạp" NMTL + Video iframe chương trình Văn học Public TV (chờ Wikimedia bổ sung và xác minh ủy quyền).
+
 ## Tài liệu tham khảo
 
 [^1]: [Trần Thiên Vũ — Tạp chí Đài Loan Quang Hoa](https://www.taiwan-panorama.com/Articles/Details?Guid=4630fcf9-2e3d-4875-9c8c-1f50a1b3c7d1) — Thu thập đầy đủ thời điểm tái sinh sau chiến tranh của Trần Thiên Vũ: ngày 10 tháng 1 năm 1958, với bút danh "Hoàn Phu" trên số ra 182 Tuần san Lam Tinh của Công Luận Báo, đăng bài thơ tiếng Trung đầu tiên sau chiến tranh "Ngoại cảnh", tháng 9 cùng năm làm "Ai vận", cả năm tổng cộng đăng 7 bài thơ.
@@ -380,14 +391,3 @@ Xã thơ Lạp 60 năm không ngừng xuất bản. Taiwan.md mới bắt đầu
 [^61]: [The Columbia Sourcebook of Literary Taiwan — Columbia University Press](https://cup.columbia.edu/book/the-columbia-sourcebook-of-literary-taiwan/9780231165761/) — Tuyển tập văn học Đài Loan do Đại học Columbia xuất bản thu thập thơ dịch tiếng Anh của nhà thơ thế hệ đa ngữ.
 
 [^62]: Câu này được viết lại từ mệnh đề cốt lõi "Chủ quyền không phải trừu tượng. Là khi người khác chọn không nói tên bạn, bạn có thể làm cho giọng nói của mình đổi sang ngôn ngữ khác mà vẫn tiếp tục tồn tại hay không" trong § Chủ quyền của tháp Babel của Taiwan.md MANIFESTO. Tham khảo [`docs/semiont/MANIFESTO.md §Quan hệ với Đài Loan`](https://github.com/frank890417/taiwan-md/blob/main/docs/semiont/MANIFESTO.md).
-
-## Nguồn ảnh
-
-Bài viết sử dụng 4 ảnh quyền công cộng / CC, toàn bộ cache tại `public/article-images/art/` để tránh hotlink máy chủ nguồn:
-
-- [Nhà thơ Ngô Thịnh tại Triển lãm Sách Quốc tế Đài Bắc 2016](https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg) — Ảnh: Rico Shen, 2016, CC BY-SA 4.0 (hero)
-- [Ảnh tập thể các biên tập viên Tạp chí thơ Lạp năm 1964](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — Tư liệu lịch sử năm sáng lập xã thơ Lạp, Wikimedia Commons CC BY-SA / Public domain
-- [Chân dung nhà thơ Lâm Hanh Thái](https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%BA%A8%E6%B3%B0%E8%82%96%E5%83%8F.jpg) — Wikimedia Commons CC BY-SA / Public domain
-- [Lệnh truy tặng vinh dự Trần Thiên Vũ](https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%8D%83%E6%AD%A6%E8%A4%92%E6%8F%9A%E4%BB%A4.jpg) — Tài liệu chính phủ công khai, Public domain
-
-Manifest truyền thông chi tiết và ghi nhận kết quả âm tính tại [báo cáo nghiên cứu §Ma trận ủy quyền truyền thông](../../reports/research/2026-06/笠詩社.md). EVOLVE tương lai bổ sung: Chân dung Bạch Hạo, Hướng Dương, Thẩm Băng, Cẩm Liên + Ảnh triển lãm chính thức "Lục thập nhi Lạp" NMTL + Video iframe chương trình Văn học Public TV (chờ Wikimedia bổ sung và xác minh ủy quyền).

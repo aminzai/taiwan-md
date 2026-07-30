@@ -18,8 +18,8 @@ lastVerified: 2026-03-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Food/台灣眷村菜.md'
-sourceCommitSha: '18157ab5d'
-sourceContentHash: 'sha256:7463882ad93990e3'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:065bf6354c8e6e97'
 sourceBodyHash: 'sha256:c6f4891abde841e9'
 translatedAt: '2026-05-16T05:07:56+08:00'
 image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Spring_onion_pancake_2013.JPG/960px-Spring_onion_pancake_2013.JPG'
@@ -96,6 +96,10 @@ En el Taiwán actual, las villas físicas han desaparecido en gran número, pero
 
 Una nueva generación de cocineros ha empezado a reinterpretar la cocina de las villas, preservando su trasfondo tradicional mientras utiliza técnicas e ingredientes modernos. Varios escritores gastronómicos taiwaneses también han creado archivos escritos de esta cocina. _El sabor de Taiwán_ de Chiao Tung (Eryu, 2009) es una de las obras tempranas representativas, pues permitió conservar la memoria gustativa más allá de los recetarios.[^3]
 
+## Fuente de la imagen
+
+- Pan de cebollín: Wikimedia Commons, [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+
 ## Referencias
 
 [^1]: [Centro de Preservación Cultural de Villas de Dependientes Militares del Ministerio de Defensa Nacional](https://mvac.mnd.gov.tw/) — Contexto histórico de las villas de dependientes militares y datos sobre la población migrante.
@@ -116,7 +120,3 @@ Una nueva generación de cocineros ha empezado a reinterpretar la cocina de las 
 
 - [Centro de Preservación Cultural de Villas de Dependientes Militares del Ministerio de Defensa Nacional](https://mvac.mnd.gov.tw/) — Plataforma integrada de información sobre preservación de villas de dependientes militares en todo el país
 - [Banco Nacional de Memoria Cultural del Ministerio de Cultura — Especial sobre villas de dependientes militares](https://memory.culture.tw/) — Historia oral y colecciones de objetos de las villas
-
-## Fuente de la imagen
-
-- Pan de cebollín: Wikimedia Commons, [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)

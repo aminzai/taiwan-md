@@ -28,8 +28,8 @@ imageCredit: 'justfont / flyingV'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.flyingv.cc/projects/8250'
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: 'e773ef6b0'
-sourceContentHash: 'sha256:6e31a2264dcded4f'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:50da80d49885286c'
 sourceBodyHash: 'sha256:dcea1d33e3c8824c'
 translatedAt: '2026-07-27T20:03:46+08:00'
 ---
@@ -243,6 +243,17 @@ _تشانغ جييه غوان يعدل أشكال الحروف الرقمية ع
 - [الحركات الاجتماعية والمشاركة المدنية](/society/社會運動與公民參與): طاقة «الجدل من أجل الشأن العام» التي ظهرت في نقاش «جين شوان»، لها سياق أكبر في المجتمع التايواني.
 - [الكابلات البحرية](/technology/海底電纜): بنية تحتية أخرى يستخدمها الجميع يوميًا ولا يراها أحد تقريبًا.
 
+## مصادر الصور
+
+- **صورة الغلاف**: الرؤية الرئيسية لصفحة تمويل جين شوان على flyingV. © justfont / flyingV، fair use editorial commentary。المصدر: [صفحة مشروع flyingV](https://www.flyingv.cc/projects/8250)
+- **شاشة مسار حافلة تايبيه**: Photo: BlubiNeko, 2022，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，via Wikimedia Commons
+- **حروف رصاص مطبع ري شينغ**: Photo: Johan Jönsson, 2023，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，via Wikimedia Commons
+- **نموذج جين شوان الرسمي**: © justfont، مقدمة من justfont، fair use editorial commentary（合作授權）。المصدر: [مدونة justfont بيان جين شوان](https://blog.justfont.com/2015/08/introducing-jinshuan/)
+- **الرسمية لـ jf open 芬圓**: © justfont، مستودع GitHub الرسمي (الخط نفسه OFL 1.1)。المصدر: [open-huninn-font](https://github.com/justfont/open-huninn-font)
+- **مخطط مقارنة لان يانغ مينغتي و «جيان يو جي»**: © justfont، مقدمة من justfont، fair use editorial commentary（合作授權）。المصدر: [صفحة لان يانغ مينغتي الرسمية justfont](https://justfont.com/lanyangming/)
+- **نموذج قان زاي مي الرسمي**: © justfont، مقدمة من justfont، fair use editorial commentary（合作授權）。المصدر: [صفحة قان زاي مي الرسمية justfont](https://justfont.com/kamabit/)
+- **صورة عمل تشانغ جييه غوان التعديلي**: © justfont، مقدمة من justfont، fair use editorial commentary（合作授權）。المصدر: [مدونة justfont ري شينغ سونغ تي إر هاو](https://blog.justfont.com/2025/06/rixing-song2-revivals/)
+
 ## المراجع
 
 [^1]: [flyingV: صفحة مشروع تمويل خط جين شوان](https://www.flyingv.cc/projects/8250) — سجل التمويل المباشر، الإجمالي NT$25,930,099، 7,667 راعيًا، الهدف 1.5 مليون.
@@ -374,14 +385,3 @@ _تشانغ جييه غوان يعدل أشكال الحروف الرقمية ع
 [^64]: [ويكيبيديا: justfont (就是字)](https://zh.wikipedia.org/zh-tw/%E5%B0%B1%E6%98%AF%E5%AD%97) — يسجل تاريخ الشركة: خلفية «ييه تشون لين» في هواكانغ، تأسيس 2010، «سو وي شيانغ» انضم 2012 كأول موظف رسمي.
 
 [^65]: [ويكيبيديا: وي فونغ ديجيتال (威鋒數位)](https://zh.wikipedia.org/wiki/%E5%A8%81%E9%8B%92%E6%95%B8%E4%BD%8D) — يسجل تأسيس هواكانغ سبتمبر 1987 في تايبيه، أول شركة خطوط رقمية في تايوان، وإعادة تسمية 2001 لـ وي فونغ ديجيتال.
-
-## مصادر الصور
-
-- **صورة الغلاف**: الرؤية الرئيسية لصفحة تمويل جين شوان على flyingV. © justfont / flyingV، fair use editorial commentary。المصدر: [صفحة مشروع flyingV](https://www.flyingv.cc/projects/8250)
-- **شاشة مسار حافلة تايبيه**: Photo: BlubiNeko, 2022，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，via Wikimedia Commons
-- **حروف رصاص مطبع ري شينغ**: Photo: Johan Jönsson, 2023，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，via Wikimedia Commons
-- **نموذج جين شوان الرسمي**: © justfont، مقدمة من justfont، fair use editorial commentary（合作授權）。المصدر: [مدونة justfont بيان جين شوان](https://blog.justfont.com/2015/08/introducing-jinshuan/)
-- **الرسمية لـ jf open 芬圓**: © justfont، مستودع GitHub الرسمي (الخط نفسه OFL 1.1)。المصدر: [open-huninn-font](https://github.com/justfont/open-huninn-font)
-- **مخطط مقارنة لان يانغ مينغتي و «جيان يو جي»**: © justfont، مقدمة من justfont، fair use editorial commentary（合作授權）。المصدر: [صفحة لان يانغ مينغتي الرسمية justfont](https://justfont.com/lanyangming/)
-- **نموذج قان زاي مي الرسمي**: © justfont، مقدمة من justfont، fair use editorial commentary（合作授權）。المصدر: [صفحة قان زاي مي الرسمية justfont](https://justfont.com/kamabit/)
-- **صورة عمل تشانغ جييه غوان التعديلي**: © justfont، مقدمة من justfont، fair use editorial commentary（合作授權）。المصدر: [مدونة justfont ري شينغ سونغ تي إر هاو](https://blog.justfont.com/2025/06/rixing-song2-revivals/)

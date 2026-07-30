@@ -30,8 +30,8 @@ sporeLinks:
     "{'id': 85, 'platform': 'x', 'date': '2026-05-23', 'url': 'https://x.com/taiwandotmd/status/2058211699229134864'}",
   ]
 translatedFrom: 'Art/臺灣漫遊錄.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:1be78dcd03c2e2ba'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:1cbdf7bdeea3f06d'
 sourceBodyHash: 'sha256:f65ef91c0cd14c9b'
 translatedAt: '2026-07-29T19:47:23+08:00'
 ---
@@ -166,6 +166,14 @@ _19 ноября 2024 года чтение финалистов NBA, Ян Шу�
 - [Чжу Тяньвэнь](/people/朱天文) — представительница женской письменной практики после снятия военного положения, её «Чжэнь жоу цзэ» и «Гу ду» с псевдографическими приёмами — важный предшественник структуры псевдоперевода в тайваньской литературе
 - [У Мыньи](/ru/people/wu-ming-yi) — так же представитель тайваня в волне международной переведённой литературы 2020-х, «Сложное oko», «История кражи велосипеда» в англоязычном мире
 
+## Источники изображений
+
+В статье использованы 3 изображения Wikimedia Commons CC BY-SA 4.0, все кэшированы в `public/article-images/art/` для избежания горячих ссылок на исходные серверы:
+
+- [Yang Shuang-zi at the 2024 National Book Awards](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg) — Фото: Bea Phi (Phibeatrice), 2024-11-20, CC BY-SA 4.0. Ян Шуанцзы на церемонии NBA в Чиприяни Уолл Стрит, Нью-Йорк.
+- [Yang Shuang-zi and Lin King at the National Book Awards Ceremony 2024](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_and_Lin_King_at_the_National_Book_Awards_Ceremony_2024_02.jpg) — Фото: Jennifer 8. Lee (Jenny8lee), 2024-11-20, CC BY-SA 4.0. Ян Шуанцзы и переводчик Лин Кинг вместе.
+- [Yáng Shuāng-zǐ, writer, at the 2024 National Book Awards finalist reading 3](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg) — Фото: Bea Phi (Phibeatrice), 2024-11-19, CC BY-SA 4.0. Ян Шуанцзы на чтении финалистов NBA.
+
 ## Ссылки
 
 [^1]: [Цзунсянь шэ: «Тайваньские странствия» завоевали Международный Букер, Ян Шуанцзы: родиться тайваньцем — счастье и гордость](https://www.cna.com.tw/news/acul/202605200011.aspx) — репортаж Цзунсянь шэ 20 мая 2026 года, фиксирующий сцену награждения в Тейт Модерн и детали приза (50 тысяч фунтов, пополам между автором и переводчиком).
@@ -235,11 +243,3 @@ _19 ноября 2024 года чтение финалистов NBA, Ян Шу�
 [^33]: [Жэньдаоцзэ: Интервью с Ян Шуанцзы](https://www.twreporter.org/a/interview-taiwan-travelogue-a-novel-writer-yang-shuang-zi) — Ян Шуанцзы прямо описывает мотив письма после 318 Движения подсолнухов 2014 года: «Ключ — ответить: чем именно Тайвань отличается от Китая?»
 
 [^34]: [Юй жэнь у: Жизнь и письменство близнецов влиты в одного](https://topic.udn.com/event/2025_0310) — глубинное интервью Ляньхэ бао «Юй жэнь у», Ян Шуанцзы упоминает сожаление, что сестра не увидела награду: «Если бы этот результат пришёл немного раньше, сестра, возможно, увидела бы».
-
-## Источники изображений
-
-В статье использованы 3 изображения Wikimedia Commons CC BY-SA 4.0, все кэшированы в `public/article-images/art/` для избежания горячих ссылок на исходные серверы:
-
-- [Yang Shuang-zi at the 2024 National Book Awards](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg) — Фото: Bea Phi (Phibeatrice), 2024-11-20, CC BY-SA 4.0. Ян Шуанцзы на церемонии NBA в Чиприяни Уолл Стрит, Нью-Йорк.
-- [Yang Shuang-zi and Lin King at the National Book Awards Ceremony 2024](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_and_Lin_King_at_the_National_Book_Awards_Ceremony_2024_02.jpg) — Фото: Jennifer 8. Lee (Jenny8lee), 2024-11-20, CC BY-SA 4.0. Ян Шуанцзы и переводчик Лин Кинг вместе.
-- [Yáng Shuāng-zǐ, writer, at the 2024 National Book Awards finalist reading 3](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg) — Фото: Bea Phi (Phibeatrice), 2024-11-19, CC BY-SA 4.0. Ян Шуанцзы на чтении финалистов NBA.

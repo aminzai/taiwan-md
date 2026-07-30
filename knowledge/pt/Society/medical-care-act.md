@@ -33,8 +33,8 @@ sporeLinks:
     "{'id': 158, 'platform': 'x', 'date': '2026-07-15', 'url': 'https://x.com/taiwandotmd/status/2077235621287084160'}",
   ]
 translatedFrom: 'Society/醫療法.md'
-sourceCommitSha: 'a5dc99e20'
-sourceContentHash: 'sha256:54b5e89e9e06fd0e'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:a253f62d3df56358'
 sourceBodyHash: 'sha256:3a7e69bdd14827b6'
 translatedAt: '2026-07-28T05:31:31+08:00'
 ---
@@ -359,6 +359,19 @@ As palavras escritas pela lei serão lidas pelos leitores. As palavras não escr
 - [Evolução das Duas Leis de Medicina Regenerativa de Taiwan e Confissões de Profissionais](/society/台灣再生醫療雙法沿革從業人員告白) — As duas leis de medicina regenerativa aprovadas em 2024 são leis especiais separadas da Lei de Assistência Médica, preenchendo a regulação de terapia celular
 - [Sistema de Medicina de Desastres de Taiwan](/technology/台灣災難醫療體系) — A operação real do Artigo 1º da Lei de Assistência Médica "distribuir razoavelmente os recursos de assistência médica" em cenários de grandes desastres
 
+## Fontes de Imagem
+
+Este artigo utiliza 7 imagens com licença CC / Domínio Público, cacheadas em `public/article-images/society/` para evitar links quentes para o servidor de origem; além disso, incorpora 1 vídeo oficial do PTS:
+
+- **Hero**: [NTU Hospital View from Pond of Taipei New Park](https://commons.wikimedia.org/wiki/File:NTU_Hospital_View_from_Pond_of_Taipei_New_Park_20110510.jpg) — Foto: Xuan Shi Sheng, 2011-05-10 olhando para o leste a partir do lago noroeste do Parque Memorial 228 para o Hospital da Universidade Nacional de Taiwan. CC BY-SA 3.0 via Wikimedia Commons.
+- **Leitos de Enfermaria de Medicina Interna**: [Bed in Three Persons Room, Internal Medicine Ward, NTUH East Campus](https://commons.wikimedia.org/wiki/File:Bed_in_Three_Persons_Room,_Internal_Medicine_Ward,_NTUH_East_Campus_20101204a.JPG) — Foto: Xuan Shi Sheng, 2010-12-04, enfermaria tripla de medicina interna do Anexo Leste do Hospital da Universidade Nacional de Taiwan. CC0 Domínio Público via Wikimedia Commons.
+- **Enfermeira Administrando Medicamento**: [Nurse administering medicine using a spoon](https://commons.wikimedia.org/wiki/File:Nurse_administering_medicine_using_a_spoon_in_a_healthcare_setting_during_the_day.jpg) — Foto: Shixart1985, 2025-06-15. CC BY 2.0 via Wikimedia Commons.
+- **Interior do Legislativo**: [Legislative Yuan of the Republic of China (chamber, interior).jpg](<https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AB%8B%E6%B3%95%E9%99%A2_(%E8%AD%B0%E5%A0%B4%E5%86%85) — Foto: Jiang, 2013-07-25. CC BY-SA 3.0 via Wikimedia Commons.
+- **Presidente Participando da Grande Conferência Conjunta de Celebração do 115º Dia Internacional da Enfermeira**: [05.12 President Attends "115th International Nurses Day Joint Celebration Conference"](https://www.flickr.com/photos/presidentialoffice/55265291499/) — Foto: I Chen Lin / Presidência, 2026-05-12. CC BY 4.0 (Flickr da Presidência).
+- **Ação de Rua de Enfermeiras da Califórnia do NNU**: [NNU Protest UCLA Medical Center](https://commons.wikimedia.org/wiki/File:NNU_Protest_UCLA_Medical_Center.jpg) — Foto: Marcywinograd, 2020-04-13, ação da Califórnia do Sindicato Nacional de Enfermeiros. CC BY-SA 4.0 via Wikimedia Commons.
+- **Litografia Colorida de Florence Nightingale com Lanterna**: [Florence Nightingale, coloured lithograph (Wellcome)](https://commons.wikimedia.org/wiki/File:Florence_Nightingale._Coloured_lithograph._Wellcome_V0006579.jpg) — After Henrietta Rae, Wellcome Collection. CC BY 4.0 / Domínio Público.
+- **Vídeo**: [Enfermeiros em Onda de Demissão, Como Melhorar o Ambiente de Trabalho?](https://www.youtube.com/watch?v=9rKqPhjWzDQ) — Canal Oficial do YouTube do PTS Independent Correspondent.
+
 ## Fontes de Referência
 
 [^1]: [CNA: Legislativo Aprova em Terceira Leitura a Lei de Assistência Médica Adicionando Proporção de Enfermeiros por Turno Triplo](https://www.cna.com.tw/news/aipl/202605080198.aspx) — Aprovado em terceira leitura na véspera do Dia Internacional da Enfermeira em 8 de maio de 2026, faixa de penalidade, data de implementação em maio de 2028.
@@ -484,16 +497,3 @@ As palavras escritas pela lei serão lidas pelos leitores. As palavras não escr
 [^61]: [Banco de Dados de Regulamentos Nacionais: Lei de Direitos Autônomos de Pacientes](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020189) — Terceira leitura aprovada em 18 de dezembro de 2015, em vigor em 6 de janeiro de 2019, a primeira lei especializada na Ásia a proteger completamente os direitos autônomos dos pacientes.
 
 [^62]: [Comunicado de Imprensa do MOHW: Terceira Leitura das Duas Leis de Medicina Regenerativa Aprovada](https://www.mohw.gov.tw/cp-16-78933-1.html) — A Lei de Medicina Regenerativa e o Regulamento de Preparados de Medicina Regenerativa foram aprovados em terceira leitura em 4 de junho de 2024, promulgados em 19 de junho de 2024.
-
-## Fontes de Imagem
-
-Este artigo utiliza 7 imagens com licença CC / Domínio Público, cacheadas em `public/article-images/society/` para evitar links quentes para o servidor de origem; além disso, incorpora 1 vídeo oficial do PTS:
-
-- **Hero**: [NTU Hospital View from Pond of Taipei New Park](https://commons.wikimedia.org/wiki/File:NTU_Hospital_View_from_Pond_of_Taipei_New_Park_20110510.jpg) — Foto: Xuan Shi Sheng, 2011-05-10 olhando para o leste a partir do lago noroeste do Parque Memorial 228 para o Hospital da Universidade Nacional de Taiwan. CC BY-SA 3.0 via Wikimedia Commons.
-- **Leitos de Enfermaria de Medicina Interna**: [Bed in Three Persons Room, Internal Medicine Ward, NTUH East Campus](https://commons.wikimedia.org/wiki/File:Bed_in_Three_Persons_Room,_Internal_Medicine_Ward,_NTUH_East_Campus_20101204a.JPG) — Foto: Xuan Shi Sheng, 2010-12-04, enfermaria tripla de medicina interna do Anexo Leste do Hospital da Universidade Nacional de Taiwan. CC0 Domínio Público via Wikimedia Commons.
-- **Enfermeira Administrando Medicamento**: [Nurse administering medicine using a spoon](https://commons.wikimedia.org/wiki/File:Nurse_administering_medicine_using_a_spoon_in_a_healthcare_setting_during_the_day.jpg) — Foto: Shixart1985, 2025-06-15. CC BY 2.0 via Wikimedia Commons.
-- **Interior do Legislativo**: [Legislative Yuan of the Republic of China (chamber, interior).jpg](<https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AB%8B%E6%B3%95%E9%99%A2_(%E8%AD%B0%E5%A0%B4%E5%86%85) — Foto: Jiang, 2013-07-25. CC BY-SA 3.0 via Wikimedia Commons.
-- **Presidente Participando da Grande Conferência Conjunta de Celebração do 115º Dia Internacional da Enfermeira**: [05.12 President Attends "115th International Nurses Day Joint Celebration Conference"](https://www.flickr.com/photos/presidentialoffice/55265291499/) — Foto: I Chen Lin / Presidência, 2026-05-12. CC BY 4.0 (Flickr da Presidência).
-- **Ação de Rua de Enfermeiras da Califórnia do NNU**: [NNU Protest UCLA Medical Center](https://commons.wikimedia.org/wiki/File:NNU_Protest_UCLA_Medical_Center.jpg) — Foto: Marcywinograd, 2020-04-13, ação da Califórnia do Sindicato Nacional de Enfermeiros. CC BY-SA 4.0 via Wikimedia Commons.
-- **Litografia Colorida de Florence Nightingale com Lanterna**: [Florence Nightingale, coloured lithograph (Wellcome)](https://commons.wikimedia.org/wiki/File:Florence_Nightingale._Coloured_lithograph._Wellcome_V0006579.jpg) — After Henrietta Rae, Wellcome Collection. CC BY 4.0 / Domínio Público.
-- **Vídeo**: [Enfermeiros em Onda de Demissão, Como Melhorar o Ambiente de Trabalho?](https://www.youtube.com/watch?v=9rKqPhjWzDQ) — Canal Oficial do YouTube do PTS Independent Correspondent.

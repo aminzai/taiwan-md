@@ -24,8 +24,8 @@ sporeLinks:
     date: '2026-04-28'
     url: 'https://x.com/taiwandotmd/status/2049079839244828881'
 translatedFrom: 'People/林琪兒.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:386b664532b04d0d'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:01f29f97ef180820'
 sourceBodyHash: 'sha256:85e505009fb05c24'
 translatedAt: '2026-06-16T17:15:00Z'
 featured: false
@@ -207,6 +207,14 @@ _2022年2月、SpaceXクルー4船長として、カリフォルニア州ホー�
 - [造山者：世紀の賭け](/art/造山者世紀の賭け) — 蕭菊貞（シャオ・ジュジェン）監督の2025年ドキュメンタリー。半導体の先輩たちへのインタビューを通じて、同じ世代の台湾の科学技術者の国際的な軌跡と共鳴する。
 - [台湾宇宙産業の発展](/technology/台湾宇宙産業発展) — 台湾独自の衛星・ロケット・宇宙政策の全景。彼の帰国時に直面した国内産業の基盤を理解するために。
 
+## 画像出典
+
+本文は3点のパブリックドメイン（Public domain）画像を使用しており、すべてNASAの職員または写真請負業者が撮影し、NASAのメディア使用ポリシーに基づき出典を明記した上で再利用が可能です。画像ファイルは `public/article-images/people/` にキャッシュ保存しており、ウィキメディアサーバーへの直接リンクは使用していません：
+
+- [Kjell Lindgren in EMU (cropped)](<https://commons.wikimedia.org/wiki/File:Kjell_Lindgren_in_EMU_(cropped).jpg>) — Photo: NASA/Bill Stafford, 2014-08-27, パブリックドメイン, via Wikimedia Commons
+- [Expedition 42 backup crew members in front of the Soyuz TMA spacecraft mock-up in Star City, Russia](https://commons.wikimedia.org/wiki/File:Expedition_42_backup_crew_members_in_front_of_the_Soyuz_TMA_spacecraft_mock-up_in_Star_City,_Russia.jpg) — Photo: NASA/Stephanie Stoll, 2014-10-30, パブリックドメイン, via Wikimedia Commons
+- [NASA astronaut and SpaceX Crew-4 Commander Kjell Lindgren training](https://www.nasa.gov/image-feature/nasa-astronaut-and-spacex-crew-4-commander-kjell-lindgren-0/) — Photo: NASA, 2022-02-15, NASA Image ID jsc2022e011416, クルードラゴンモデルキャビンでの訓練横向きポートレート, パブリックドメイン, NASA
+
 ## 参考資料
 
 [^1]: [Marie Claire 台湾、台湾系NASA宇宙飛行士・林琪兒の訪台心境が明らかに](https://www.marieclaire.com.tw/lifestyle/news/93023) — 中国語メディアの専門インタビュー整理。USAFA3年次の喘息誤診、11年後の再検査で診断が覆り、2009年にNASA入局したキャリアの転換点を記録。
@@ -270,11 +278,3 @@ _2022年2月、SpaceXクルー4船長として、カリフォルニア州ホー�
 [^31]: [NASA, STS-1 Mission](https://www.nasa.gov/mission/sts-1/) — NASA公式記録。1981年4月12日のコロンビア号STS-1ミッションがスペースシャトル計画の初打ち上げであることを記録。リングレンは公共電視のインタビューで「1981年の最初のスペースシャトルの初打ち上げを2年生の教室で先生がテレビを運んで見せてくれた」と明確に語っています。
 
 [^32]: [Astronaut Kjell Lindgren's career path — Science News Explores](https://www.snexplores.org/article/astronaut-kjell-lindgren-career-path-medical-school-space-artemis-team) — 2024年のScience News for Studentsのインタビュー記事。喘息誤診がUSAFA卒業後の飛行訓練期間に起きたことを明確に記載（"after graduating from the U.S. Air Force Academy and enrolling in pilot training"）。リングレン本人の逐語引用「Being medically discharged from the Air Force was a very challenging time. It obliterated this dream of not only becoming a pilot but really the dream of getting to serve as an astronaut at any point.」も収録。交差検証：[Colorado Springs Gazette 2024年報道](https://gazette.com/military/nasa-astronaut-tells-air-force-symposium-how-his-dream-of-spaceflight-had-been-obliterated/article_f3635e08-d1c6-11ee-8cc0-f3c7e371183b.html) も同じく飛行訓練中の誤診を語る。
-
-## 画像出典
-
-本文は3点のパブリックドメイン（Public domain）画像を使用しており、すべてNASAの職員または写真請負業者が撮影し、NASAのメディア使用ポリシーに基づき出典を明記した上で再利用が可能です。画像ファイルは `public/article-images/people/` にキャッシュ保存しており、ウィキメディアサーバーへの直接リンクは使用していません：
-
-- [Kjell Lindgren in EMU (cropped)](<https://commons.wikimedia.org/wiki/File:Kjell_Lindgren_in_EMU_(cropped).jpg>) — Photo: NASA/Bill Stafford, 2014-08-27, パブリックドメイン, via Wikimedia Commons
-- [Expedition 42 backup crew members in front of the Soyuz TMA spacecraft mock-up in Star City, Russia](https://commons.wikimedia.org/wiki/File:Expedition_42_backup_crew_members_in_front_of_the_Soyuz_TMA_spacecraft_mock-up_in_Star_City,_Russia.jpg) — Photo: NASA/Stephanie Stoll, 2014-10-30, パブリックドメイン, via Wikimedia Commons
-- [NASA astronaut and SpaceX Crew-4 Commander Kjell Lindgren training](https://www.nasa.gov/image-feature/nasa-astronaut-and-spacex-crew-4-commander-kjell-lindgren-0/) — Photo: NASA, 2022-02-15, NASA Image ID jsc2022e011416, クルードラゴンモデルキャビンでの訓練横向きポートレート, パブリックドメイン, NASA

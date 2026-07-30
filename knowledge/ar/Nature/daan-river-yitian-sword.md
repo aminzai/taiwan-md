@@ -18,8 +18,8 @@ imageCredit: '石川 Shihchuan / Wikimedia Commons (CC BY-SA 2.0)'
 readingTime: 15
 relatedDiary: ['2026-06-24-153210-大安溪倚天劍-rewrite']
 translatedFrom: 'Nature/大安溪倚天劍.md'
-sourceCommitSha: 'ff92f3866'
-sourceContentHash: 'sha256:3ee4be522cff1a4e'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:d645338641d89664'
 sourceBodyHash: 'sha256:5dcfd938f21ea513'
 translatedAt: '2026-07-29T07:32:36+08:00'
 ---
@@ -215,6 +215,20 @@ _فيلم مؤسسة الطبيعة والبيئة (TNF) الرسمي: يتبع 
 - [النظام البيئي لغابات تايوان](/nature/台灣森林生態系) — حزام الضباب، الخمسة أخشاب مخروطية ثمينة، إحداثيات العملاقة البيئية، سيف السماء أعلى نقطة في هذا النظام
 - [الحدائق الوطنية في تايوان](/nature/台灣國家公園) — حديقة شويبا الوطنية ومنطقة وكالة الغابات وحفظ الطبيعة، الملاذ الأخير لهذه العملاقة
 
+## مصادر الصور
+
+المقال يستخدم 5 صور CC / ملكية عامة، كلها مخزنة في `public/article-images/nature/`، مُزالة بيانات EXIF، محولة لـ WebP، لتجنب الربط الساخن بالخوادم المصدر:
+
+- [تايوانيا (برية نانتو) — شيه تشوان](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides,_Nantou_County,_Taiwan_1.jpg) — Wikimedia Commons, CC BY-SA 2.0 (الصورة الرئيسية)
+- [أوراق تايوانيا وشكلها — KENPEI](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides3.jpg) — Wikimedia Commons, CC BY-SA 3.0
+- [حزام ضباب حديقة شويبا الوطنية](https://commons.wikimedia.org/wiki/File:Shei-Pa_National_Park%2Bcwtu%2B003.jpg) — Wikimedia Commons, CC BY-SA 4.0
+- [قمة دا با (منبع دا آن) — آلان وو](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%9C%B8%E5%B0%96%E5%B1%B1.jpg) — Wikimedia Commons, CC BY-SA 4.0
+- [بُنزو هاياتا — ساساكي](https://commons.wikimedia.org/wiki/File:Bunz%C5%8D_Hayata.JPG) — Wikimedia Commons، ملكية عامة
+
+الفيديو: [「臺灣第一高樹」大安溪倚天劍神木 完整紀錄片](https://www.youtube.com/watch?v=UO2HUmNvyFc) — قناة مؤسسة الطبيعة والبيئة (TNF) الرسمية.
+
+صور سيف السماء الفعلية، صورة الحجم الحقيقي لستيفن بيرس، لقطات _جزيرة الأشجار المقدسة_ كلها مواد محمية بحقوق نشر (وصور _جزيرة الأشجار المقدسة_ في نزاع ترخيص)، المقال لم يستخدمها، للمشاهد ذات الصلة راجع فيلم TNF الرسمي أعلاه وقنوات أصحاب الحقوق.
+
 ## المراجع
 
 [^1]: [After Decade-Long Hunt, Scientists Find East Asia's Tallest Tree — Sci.News](https://www.sci.news/biology/heaven-sword-tree-14824.html) — تقرير 2026، يؤكد سيف السماء في منبع دا آن 84.1 متراً كأعلى شجرة معروفة في شرق آسيا؛ أعلى عشر أشجار كلها تايوانيا (Taiwania cryptomerioides)، تسع منها تتجاوز 70 متراً.
@@ -342,17 +356,3 @@ _فيلم مؤسسة الطبيعة والبيئة (TNF) الرسمي: يتبع 
 [^62]: [Taiwania cryptomerioides — IUCN Red List / Royal Botanic Garden Edinburgh](https://threatenedconifers.rbge.org.uk/conifers/taiwania-cryptomerioides) — تايوانيا عالمياً مصنفة "معرضة للخطر" (Vulnerable) ؛ موطنها مهدد بتغير المناخ، الموائل المناسبة متوقعة بالانكماش الحاد.
 
 [^63]: [桃山巨木谷每公頃碳儲存約 1384 公噸 — 中央社, 2026-06-05](https://www.cna.com.tw/news/ahel/202606050305.aspx) — فريق باحثو الشجر درس وادي العملاقة حيث تاوشان المقدسة (4 هكتارات)، قدر تخزين الكربون بنحو 1,384 طن/هكتار (باستثناء الجذور)، قريب من أعلى كثافة كربون عالمياً في غابات الأوكالبتوس العملاقة في تسمانيا أستراليا (نحو 1,867 طن/هكتار).
-
-## مصادر الصور
-
-المقال يستخدم 5 صور CC / ملكية عامة، كلها مخزنة في `public/article-images/nature/`، مُزالة بيانات EXIF، محولة لـ WebP، لتجنب الربط الساخن بالخوادم المصدر:
-
-- [تايوانيا (برية نانتو) — شيه تشوان](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides,_Nantou_County,_Taiwan_1.jpg) — Wikimedia Commons, CC BY-SA 2.0 (الصورة الرئيسية)
-- [أوراق تايوانيا وشكلها — KENPEI](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides3.jpg) — Wikimedia Commons, CC BY-SA 3.0
-- [حزام ضباب حديقة شويبا الوطنية](https://commons.wikimedia.org/wiki/File:Shei-Pa_National_Park%2Bcwtu%2B003.jpg) — Wikimedia Commons, CC BY-SA 4.0
-- [قمة دا با (منبع دا آن) — آلان وو](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%9C%B8%E5%B0%96%E5%B1%B1.jpg) — Wikimedia Commons, CC BY-SA 4.0
-- [بُنزو هاياتا — ساساكي](https://commons.wikimedia.org/wiki/File:Bunz%C5%8D_Hayata.JPG) — Wikimedia Commons، ملكية عامة
-
-الفيديو: [「臺灣第一高樹」大安溪倚天劍神木 完整紀錄片](https://www.youtube.com/watch?v=UO2HUmNvyFc) — قناة مؤسسة الطبيعة والبيئة (TNF) الرسمية.
-
-صور سيف السماء الفعلية، صورة الحجم الحقيقي لستيفن بيرس، لقطات _جزيرة الأشجار المقدسة_ كلها مواد محمية بحقوق نشر (وصور _جزيرة الأشجار المقدسة_ في نزاع ترخيص)، المقال لم يستخدمها، للمشاهد ذات الصلة راجع فيلم TNF الرسمي أعلاه وقنوات أصحاب الحقوق.

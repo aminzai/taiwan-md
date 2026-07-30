@@ -15,8 +15,8 @@ imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg'
 relatedDiary: ['2026-07-16-222859-viz-evolution']
 translatedFrom: 'About/視覺化模組型錄.md'
-sourceCommitSha: 'dbf93456d'
-sourceContentHash: 'sha256:178bda05ad0b4ec6'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:6617087ac0d0a536'
 sourceBodyHash: 'sha256:f6a2ecc9e1606c44'
 translatedAt: '2026-07-29T17:42:44+08:00'
 ---
@@ -331,6 +331,12 @@ translatedAt: '2026-07-29T17:42:44+08:00'
 - [大罷免](/ja/history/great-recall-movement-2024) —— 議席アークの過半数破線の続き：三党とも過半数割れの立法院がいかに31件の罷免へ至ったか
 - [台湾少子化危機](/ja/society/taiwan-low-birth-rate-crisis) —— 家が買えないことと子供が産めないこと、世代正義のもう一つの顔
 
+## 画像出典
+
+本文で1枚のクリエイティブ・コモンズライセンス画像を使用、`public/article-images/society/`にキャッシュ：
+
+- [台北市住宅スカイライン（象山視点）](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo: Heeheemalu, 2026, CC BY-SA 4.0（ヒーロー画像）
+
 ## 参考資料
 
 [^1]: [内政部不動産情報プラットフォーム](https://pip.moi.gov.tw/Publicize/Info/E1050) —— 住宅価格所得比、住宅ローン負担率、持ち家率などの公式住宅統計。
@@ -346,9 +352,3 @@ translatedAt: '2026-07-29T17:42:44+08:00'
 [^6]: [中央社：2024立委選三党とも過半数割れ](https://www.cna.com.tw/news/aipl/202401130361.aspx) —— 議席アークの113議席配分（国民党52、民進党51、民衆党8、無所属2）は中選会確定結果、検証チェーンは〈[大罷免](/ja/history/great-recall-movement-2024)〉を参照。
 
 [^7]: [衛生福利部三班看護師患者比基準公告（2024）](https://www.mohw.gov.tw/) —— 小倍数グリッドの3階層×3班看護師患者比基準値、検証チェーンは〈[医療法](/ja/society/medical-care-act)〉を参照。
-
-## 画像出典
-
-本文で1枚のクリエイティブ・コモンズライセンス画像を使用、`public/article-images/society/`にキャッシュ：
-
-- [台北市住宅スカイライン（象山視点）](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo: Heeheemalu, 2026, CC BY-SA 4.0（ヒーロー画像）

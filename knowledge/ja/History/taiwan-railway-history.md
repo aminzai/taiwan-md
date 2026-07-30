@@ -22,9 +22,9 @@ lastVerified: 2026-05-11
 lastHumanReview: false
 featured: false
 translatedFrom: 'History/台灣鐵道史.md'
-sourceCommitSha: '0ab600a6'
-sourceContentHash: 'sha256:4de14c72bc8f2765'
-sourceBodyHash: 'sha256:c391ed0c502effad'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:711d78906f27f250'
+sourceBodyHash: 'sha256:74b314b2dea62382'
 translatedAt: '2026-06-16T16:55:14Z'
 image: '/article-images/history/tra-taitung-line-fireman-1970s.webp'
 imageCredit: '周永富（提供者）'
@@ -196,6 +196,16 @@ _2021 年、DT668 が E327 に推進され、台湾鉄路海線を走行した�
 
 ---
 
+## 画像出典
+
+本文では CC ライセンス画像 3 点を使用し、すべて `public/article-images/history/` に cache して、出典サーバーへのホットリンクを避けています。
+
+- [台東線蒸気機関車司炉員 1970s](https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg) — Photo 提供者：周永富，1970s，CC BY 4.0，Wikimedia Commons File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg
+- [彰化扇形車庫蒸気機関車群 2009](https://commons.wikimedia.org/wiki/File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg) — Photo: Neeson Hsu，2009-08-30，CC BY 2.0，Wikimedia Commons File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg
+- [DT668 が E327 に推進され海線を走行 2021](https://commons.wikimedia.org/wiki/File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg) — Photo: Cheng-en Cheng，2021-10-25，CC BY-SA 2.0，Wikimedia Commons File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg
+
+---
+
 ## 参考資料
 
 - [台湾回憶探険団：1908年10月24日 臺灣縱貫鐵道全通式](https://www.twmemory.org/?p=7323)
@@ -238,16 +248,6 @@ _2021 年、DT668 が E327 に推進され、台湾鉄路海線を走行した�
 [^f12]: [維基百科：自強號列車](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E5%BC%B7%E8%99%9F%E5%88%97%E8%BB%8A) — 1976 年の民意測験協会調査、謝東閔による命名裁定、1978-08-15 の EMU100 運行開始までの全体文脈。「荘敬自強，処変不驚」の典故を含む。
 
 [^f13]: [維基百科：復興號列車](https://zh.wikipedia.org/zh-tw/%E5%BE%A9%E8%88%88%E8%99%9F%E5%88%97%E8%BB%8A) — 1980-07-06 の営業開始、唐栄鉄工廠製冷房車、第三級客車としての位置付けの記録。
-
-## 画像出典
-
-本文では CC ライセンス画像 3 点を使用し、すべて `public/article-images/history/` に cache して、出典サーバーへのホットリンクを避けています。
-
-- [台東線蒸気機関車司炉員 1970s](https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg) — Photo 提供者：周永富，1970s，CC BY 4.0，Wikimedia Commons File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg
-- [彰化扇形車庫蒸気機関車群 2009](https://commons.wikimedia.org/wiki/File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg) — Photo: Neeson Hsu，2009-08-30，CC BY 2.0，Wikimedia Commons File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg
-- [DT668 が E327 に推進され海線を走行 2021](https://commons.wikimedia.org/wiki/File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg) — Photo: Cheng-en Cheng，2021-10-25，CC BY-SA 2.0，Wikimedia Commons File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg
-
----
 
 ## 関連読み物
 

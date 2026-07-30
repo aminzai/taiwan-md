@@ -30,8 +30,8 @@ sporeLinks:
     "{'id': 145, 'platform': 'x', 'date': '2026-06-16', 'url': 'https://x.com/taiwandotmd/status/2066822763638341918'}",
   ]
 translatedFrom: 'Society/報導者.md'
-sourceCommitSha: 'fd09526d2'
-sourceContentHash: 'sha256:c9f5767205c4ec79'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:46044d1881e9332e'
 sourceBodyHash: 'sha256:ca526dda99de158c'
 translatedAt: '2026-07-29T12:59:29+08:00'
 ---
@@ -281,6 +281,21 @@ _فيديو السرد الذاتي لقناة "المراسلون" الرسمي
 - [عملية البطاطا السامة المعرفية](/society/毒馬鈴薯認知作戰) — دراسة حالة لحدث عمليات معرفية محدد.
 - [PTT](/ar/technology/ptt-bulletin-board-system) — المجال العام لعصر ما قبل الإنترنت في تايوان، نفس سياق "المنصات ليست بالضرورة محايدة" مع المراسلون.
 
+## مصادر الصور
+
+هذا المقال يستخدم 5 صور من مواد العلامة التجارية الرسمية وأعمال "المراسلون"، مستشهدة بموجب fair use (editorial commentary on The Reporter's work)، كلها مخزنة مؤقتًا في `public/article-images/society/`، تجنب الربط الساخن بخوادم المصدر؛ ومقطعين فيديو من قناة "المراسلون" الرسمية على يوتيوب.
+
+- [صورة تعريف علامة "المراسلون" التجارية](https://www.twreporter.org) — المراسلون The Reporter، Fair use (hero)
+- [شعار التعريف "افتح الباب للمشاركة، اصدر صوتًا جماعيًا"](https://www.twreporter.org) — المراسلون The Reporter، Fair use
+- [رسم بياني 〈صناعة التونة والتونة الكبيرة في تايوان〉 (جائزة التميز في الرسوم البيانية SOPA 2017 الأولى)](https://www.twreporter.org/a/infographic-far-sea-fishing-gcs) — المراسلون The Reporter، Fair use
+- [مخطط علاقة موضوع العمل الموحد المركزة (2026)](https://www.twreporter.org/a/united-front-work-powered-by-holger-chen-and-china-influencers) — المراسلون The Reporter (تصميم: هوانغ يو تشن؛ تجميع: كونغ ده ليان، فانغ ده لين)، Fair use
+- [صورة ترويجية إطلاق "المراسلون الصغار" (2022)](https://kids.twreporter.org) — المراسلون The Reporter، Fair use
+
+مقاطع الفيديو المضمنة (قناة "المراسلون" الرسمية على يوتيوب):
+
+- [عاصفة التصوير السري للتجميل الطبي: ما مشكلة رقابة التجميل الطبي في تايوان؟](https://www.youtube.com/watch?v=_AdtqBm7Hk4) — المراسلون The Reporter
+- [ذكرى تأسيس المراسلون، لدينا كلام نقوله بصوت عالٍ!](https://www.youtube.com/watch?v=H_PiSMCR6Sc) — المراسلون The Reporter
+
 ## المراجع
 
 [^1]: منشور هو رونغ شينغ على فيسبوك، 2025-09-14: "في الشهر الأول لإطلاق 'المراسلون'، المتبرعون الدوريون الشهريون كانوا 4 أشخاص فقط، أنا أساسًا لم أجرؤ على إخبار الزملاء بهذا الرقم." راجع facebook.com/twreporter/posts/1235665585269425.
@@ -402,18 +417,3 @@ _فيديو السرد الذاتي لقناة "المراسلون" الرسمي
 [^59]: تحقيق المعلومات الكاذبة 2025، حوالي 96% من مواطني تايوان يشعرون بانتشار المعلومات الكاذبة (التحقيق الأصلي مركز أبحاث المجتمع المرن بجامعة تايوان، The News Lens نقل التقرير). thenewslens.com/article/267704.
 
 [^60]: تقرير رويترز للأخبار الرقمية 2024 تايوان: ثقة في الأخبار إجمالًا 33%. reutersinstitute.politics.ox.ac.uk/digital-news-report/2024/taiwan.
-
-## مصادر الصور
-
-هذا المقال يستخدم 5 صور من مواد العلامة التجارية الرسمية وأعمال "المراسلون"، مستشهدة بموجب fair use (editorial commentary on The Reporter's work)، كلها مخزنة مؤقتًا في `public/article-images/society/`، تجنب الربط الساخن بخوادم المصدر؛ ومقطعين فيديو من قناة "المراسلون" الرسمية على يوتيوب.
-
-- [صورة تعريف علامة "المراسلون" التجارية](https://www.twreporter.org) — المراسلون The Reporter، Fair use (hero)
-- [شعار التعريف "افتح الباب للمشاركة، اصدر صوتًا جماعيًا"](https://www.twreporter.org) — المراسلون The Reporter، Fair use
-- [رسم بياني 〈صناعة التونة والتونة الكبيرة في تايوان〉 (جائزة التميز في الرسوم البيانية SOPA 2017 الأولى)](https://www.twreporter.org/a/infographic-far-sea-fishing-gcs) — المراسلون The Reporter، Fair use
-- [مخطط علاقة موضوع العمل الموحد المركزة (2026)](https://www.twreporter.org/a/united-front-work-powered-by-holger-chen-and-china-influencers) — المراسلون The Reporter (تصميم: هوانغ يو تشن؛ تجميع: كونغ ده ليان، فانغ ده لين)، Fair use
-- [صورة ترويجية إطلاق "المراسلون الصغار" (2022)](https://kids.twreporter.org) — المراسلون The Reporter، Fair use
-
-مقاطع الفيديو المضمنة (قناة "المراسلون" الرسمية على يوتيوب):
-
-- [عاصفة التصوير السري للتجميل الطبي: ما مشكلة رقابة التجميل الطبي في تايوان؟](https://www.youtube.com/watch?v=_AdtqBm7Hk4) — المراسلون The Reporter
-- [ذكرى تأسيس المراسلون، لدينا كلام نقوله بصوت عالٍ!](https://www.youtube.com/watch?v=H_PiSMCR6Sc) — المراسلون The Reporter

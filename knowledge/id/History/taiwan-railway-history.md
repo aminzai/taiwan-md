@@ -198,6 +198,16 @@ Seratus tiga puluh tahun berlalu, jalan itu masih ada. Hanya ganti kulit.
 
 ---
 
+## Sumber Gambar
+
+Artikel ini menggunakan 3 gambar berlisensi CC, semua di-cache di `public/article-images/history/` untuk menghindari server sumber hotlink:
+
+- [Stoker Lokomotif Uap Jalur Taitung 1970-an](https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg) — Penyedia Foto: Zhou Yongfu, 1970-an, CC BY 4.0, Wikimedia Commons File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg
+- [Kumpulan Lokomotif Uap Gudang Bulat Changhua 2009](https://commons.wikimedia.org/wiki/File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg) — Foto: Neeson Hsu, 2009-08-30, CC BY 2.0, Wikimedia Commons File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg
+- [DT668 Didorong E327 di Jalur Pesisir 2021](https://commons.wikimedia.org/wiki/File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg) — Foto: Cheng-en Cheng, 2021-10-25, CC BY-SA 2.0, Wikimedia Commons File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg
+
+---
+
 ## Referensi
 
 - [Taiwan Memory Expedition: 24 Oktober 1908 Upacara Pembukaan Sepenuhnya Jalur Kereta Api Vertikal Taiwan](https://www.twmemory.org/?p=7323)
@@ -240,16 +250,6 @@ Seratus tiga puluh tahun berlalu, jalan itu masih ada. Hanya ganti kulit.
 [^f12]: [Wikipedia: Kereta Ziqiang](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E5%BC%B7%E8%99%9F%E5%88%97%E8%BB%8A) — Survei Asosiasi Survei Opini Publik 1976, keputusan penamaan Xie Dongmin, konteks lengkap EMU100 beroperasi 15-08-1978, termasuk alusi "Hormat dan Kuat, Tidak Terkejut dalam Perubahan".
 
 [^f13]: [Wikipedia: Kereta Fuxing](https://zh.wikipedia.org/zh-tw/%E5%BE%A9%E8%88%88%E8%99%9F%E5%88%97%E8%BB%8A) — Mulai beroperasi 06-07-1980, kereta AC buatan Tangrong, diposisikan sebagai kereta penumpang kelas tiga catatan.
-
-## Sumber Gambar
-
-Artikel ini menggunakan 3 gambar berlisensi CC, semua di-cache di `public/article-images/history/` untuk menghindari server sumber hotlink:
-
-- [Stoker Lokomotif Uap Jalur Taitung 1970-an](https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg) — Penyedia Foto: Zhou Yongfu, 1970-an, CC BY 4.0, Wikimedia Commons File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg
-- [Kumpulan Lokomotif Uap Gudang Bulat Changhua 2009](https://commons.wikimedia.org/wiki/File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg) — Foto: Neeson Hsu, 2009-08-30, CC BY 2.0, Wikimedia Commons File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg
-- [DT668 Didorong E327 di Jalur Pesisir 2021](https://commons.wikimedia.org/wiki/File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg) — Foto: Cheng-en Cheng, 2021-10-25, CC BY-SA 2.0, Wikimedia Commons File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg
-
----
 
 ## Bacaan Lanjutan
 

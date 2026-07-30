@@ -33,8 +33,8 @@ sporeLinks:
     "{'id': 93, 'platform': 'threads', 'date': '2026-05-26', 'url': 'https://www.threads.com/@taiwandotmd/post/DYzG-R1k5Ze'}",
   ]
 translatedFrom: 'History/國家人權博物館.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:c2fe08a62433be18'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:e16d4ee42050764a'
 sourceBodyHash: 'sha256:8de971f3c7942edf'
 translatedAt: '2026-07-29T07:32:34+08:00'
 ---
@@ -330,6 +330,14 @@ O que pode ser congelado não é este museu. É esta infraestrutura de memória 
 - [Justiça de Transição de Taiwan](/history/台灣轉型正義) — Revogou seis mil sentenças mas não conseguiu responsabilizar perpetradores, este artigo é um corte institucional
 - [Incidente 228](/history/二二八事件) — Maior revolta civil do pós-guerra em Taiwan, ponto de partida que gerou 38 anos de lei marcial
 
+## Fontes das imagens
+
+Este artigo usa 3 imagens de domínio público / licença CC, todas em cache em `public/article-images/history/` para evitar hotlink nos servidores de origem:
+
+- [Presidente Tsai Ing-wen 2018/5/17 comparece à "Cerimônia de Inauguração do Museu Nacional dos Direitos Humanos"](<https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457).jpg>) — Photo: Presidência, 2018-05-17, CC BY 2.0 (licença padrão Flickr)
+- [Monumento aos Direitos Humanos de Ilha Verde (Monumento das Lágrimas)](https://commons.wikimedia.org/wiki/File:Taiwan_GreenIsland_Human_Rights_Memorial_Monument_2022.jpg) — Photo: S8321414, 2022, CC BY-SA 4.0
+- [Parque Cultural de Direitos Humanos de Jingmei](https://commons.wikimedia.org/wiki/File:%E6%99%AF%E7%BE%8E%E4%BA%BA%E6%AC%8A%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%80.jpg) — Photo: 張永泰, Public Domain (Voice of America) + CC Public Domain Mark 1.0
+
 ## Referências
 
 [^1]: [Newtalk: Discurso de Tsai Kun-lin na inauguração do MNDH em Ilha Verde 2018/5/17](https://newtalk.tw/news/view/2018-05-17/124671) — Registro completo do discurso contendo citação textual "Espera-se que um dia se saiba quem matou seu amigo", fala do representante de vítimas de 88 anos no dia da inauguração.
@@ -411,11 +419,3 @@ O que pode ser congelado não é este museu. É esta infraestrutura de memória 
 [^39]: [Museu Nacional dos Direitos Humanos: Exposição permanente "Alma Livre vs. Ditador: O Caminho da Liberdade de Expressão em Taiwan"](https://www.nhrm.gov.tw/w/nhrm/News_22050707092432044) — 7/4/2022 Dia da Liberdade de Expressão inauguração, 1º andar do Memorial Chiang Kai-shek, curador Hsu Hua-yuan (Instituto de História Moderna da Academia Sinica). Ministra da Cultura Lee Yung-te "não dá para derrubar, então vamos morar dentro" estratégia de diálogo. Cheng Chu-mei (filha de Cheng Nan-jung) discurso de abertura "como a cultura de um país memoriza o passado, representa como esse país olha para o seu futuro" citação textual.
 
 [^40]: [Museu Nacional dos Direitos Humanos: Bienal da Temporada de Arte de Direitos Humanos de Ilha Verde 2025 "O Tempo de 149 Milhas Náuticas: Contra o Esquecimento"](https://www.nhrm.gov.tw/w/nhrm/News_25040315483280023) — 17/5/2025-21/9/2025, curador geral Ko Sen-shin "o isolamento geográfico e temporal faz com que a história possa ser esquecida, enquanto a arte pode se tornar o cabo da espada contra o tempo" citação textual. 23 grupos de artistas, 7 internacionais (Malásia Pangrok Sulap, Vietnã Bui Cong Khanh, Hong Kong Senhora Banco Longo, Haiti, Croácia, Indonésia). "149 milhas náuticas" refere-se à distância de Taitung a Ilha Verde.
-
-## Fontes das imagens
-
-Este artigo usa 3 imagens de domínio público / licença CC, todas em cache em `public/article-images/history/` para evitar hotlink nos servidores de origem:
-
-- [Presidente Tsai Ing-wen 2018/5/17 comparece à "Cerimônia de Inauguração do Museu Nacional dos Direitos Humanos"](<https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457).jpg>) — Photo: Presidência, 2018-05-17, CC BY 2.0 (licença padrão Flickr)
-- [Monumento aos Direitos Humanos de Ilha Verde (Monumento das Lágrimas)](https://commons.wikimedia.org/wiki/File:Taiwan_GreenIsland_Human_Rights_Memorial_Monument_2022.jpg) — Photo: S8321414, 2022, CC BY-SA 4.0
-- [Parque Cultural de Direitos Humanos de Jingmei](https://commons.wikimedia.org/wiki/File:%E6%99%AF%E7%BE%8E%E4%BA%BA%E6%AC%8A%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%80.jpg) — Photo: 張永泰, Public Domain (Voice of America) + CC Public Domain Mark 1.0

@@ -20,8 +20,8 @@ lastVerified: 2026-05-23
 lastHumanReview: false
 featured: true
 translatedFrom: 'Art/臺灣漫遊錄.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:1be78dcd03c2e2ba'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:1cbdf7bdeea3f06d'
 sourceBodyHash: 'sha256:f65ef91c0cd14c9b'
 translatedAt: '2026-06-16T16:40:09Z'
 image: '/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp'
@@ -160,6 +160,14 @@ _19 novembre 2024, lecture des finalistes du NBA, Yang Shuangzi lit un extrait e
 - [Zhu Tianwen](/fr/people/chu-tien-wen) — Romancière majeure de l'écriture féminine après la levée de la loi martiale, dont les procédés de fausse attribution dans _Notes d'un homme sauvage_ et _La Vieille Capitale_ sont un précédent important de la structure de fausse traduction dans la littérature taïwanaise
 - [Wu Ming-yi](/fr/people/wu-ming-yi) — Autre écrivain taïwanais majeur de la vague de littérature traduite internationale des années 2020, dont _L'Homme aux yeux composés_ et _Le Vol du vélo_ ont une grande visibilité dans le monde anglophone
 
+## Crédits des images
+
+Cet article utilise 3 images sous licence CC BY-SA 4.0 de Wikimedia Commons, toutes mises en cache dans `public/article-images/art/` pour éviter les liens directs vers les serveurs sources :
+
+- [Yang Shuangzi at the 2024 National Book Awards](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg) — Photo : Bea Phi (Phibeatrice), 2024-11-20, CC BY-SA 4.0. Yang Shuangzi sur la scène de la cérémonie du NBA au Cipriani Wall Street à New York.
+- [Yang Shuangzi and Lin King at the National Book Awards Ceremony 2024](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_and_Lin_King_at_the_National_Book_Awards_Ceremony_2024_02.jpg) — Photo : Jennifer 8. Lee (Jenny8lee), 2024-11-20, CC BY-SA 4.0. Yang Shuangzi et la traductrice Lin King ensemble.
+- [Yáng Shuāng-zǐ, writer, at the 2024 National Book Awards finalist reading 3](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg) — Photo : Bea Phi (Phibeatrice), 2024-11-19, CC BY-SA 4.0. Yang Shuangzi lors de la lecture des finalistes du NBA.
+
 ## Références
 
 [^1]: [CNA : Taiwan Travelogue remporte le Booker Prize international — Yang Shuangzi : « Être né Taïwanais est ma chance et ma fierté »](https://www.cna.com.tw/news/acul/202605200011.aspx) — Reportage de l'Agence centrale de presse du 20 mai 2026, documentant la cérémonie du Booker Prize international à la Tate Modern de Londres et les détails du prix (50 000 livres sterling partagés à parts égales entre l'auteure et la traductrice).
@@ -229,11 +237,3 @@ _19 novembre 2024, lecture des finalistes du NBA, Yang Shuangzi lit un extrait e
 [^33]: [The Reporter : Entretien avec Yang Shuangzi](https://www.twreporter.org/a/interview-taiwan-travelogue-a-novel-writer-yang-shuang-zi) — Yang Shuangzi expose personnellement sa motivation d'écriture après le mouvement Sunflower de 2014 : « La question clé est : qu'est-ce qui différencie Taïwan de la Chine ? »
 
 [^34]: [You Ren Wu : La vie et l'écriture des jumeaux incarnées en une seule personne](https://topic.udn.com/event/2025_0310) — Yang Shuangzi, dans un entretien approfondi avec You Ren Wu, évoque le regret que sa sœur n'ait pas pu voir le prix de Taiwan Travelogue : « Si ce résultat était arrivé un peu plus tôt, ma sœur l'aurait peut-être vu. »
-
-## Crédits des images
-
-Cet article utilise 3 images sous licence CC BY-SA 4.0 de Wikimedia Commons, toutes mises en cache dans `public/article-images/art/` pour éviter les liens directs vers les serveurs sources :
-
-- [Yang Shuangzi at the 2024 National Book Awards](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg) — Photo : Bea Phi (Phibeatrice), 2024-11-20, CC BY-SA 4.0. Yang Shuangzi sur la scène de la cérémonie du NBA au Cipriani Wall Street à New York.
-- [Yang Shuangzi and Lin King at the National Book Awards Ceremony 2024](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_and_Lin_King_at_the_National_Book_Awards_Ceremony_2024_02.jpg) — Photo : Jennifer 8. Lee (Jenny8lee), 2024-11-20, CC BY-SA 4.0. Yang Shuangzi et la traductrice Lin King ensemble.
-- [Yáng Shuāng-zǐ, writer, at the 2024 National Book Awards finalist reading 3](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg) — Photo : Bea Phi (Phibeatrice), 2024-11-19, CC BY-SA 4.0. Yang Shuangzi lors de la lecture des finalistes du NBA.

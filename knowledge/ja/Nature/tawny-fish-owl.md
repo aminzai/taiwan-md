@@ -22,8 +22,8 @@ lastVerified: 2026-05-12
 lastHumanReview: false
 featured: false
 translatedFrom: 'Nature/黃魚鴞.md'
-sourceCommitSha: '3c781dba'
-sourceContentHash: 'sha256:f082c2bfc65ade6e'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:7f5ae90c4eafcd0e'
 sourceBodyHash: 'sha256:2a057438270935d7'
 translatedAt: '2026-05-12T11:51:04+08:00'
 image: '/article-images/nature/tawny-fish-owl-gailhampshire-2009.webp'
@@ -154,6 +154,12 @@ _雪覇国家公園が2026年4月29日から開始した「武陵キバシウオ
 - [大安渓・倚天剣](/ja/nature/daan-river-yitian-sword) — 同じく雪覇の奥深くに隠れ、「人が到達できない」ことによってこそ生き延びた老巨木。タイワンスギが東アジア最高の木に育つあのような未整備の源流渓谷原生林こそ、キバシウオミミズクが依存する生息地である
 - [台湾の国家公園](/ja/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — 雪覇、太魯閣、玉山の三大国家公園はキバシウオミミズクの安定個体群の最後の砦であり、保護区制度の具体的な事例です
 
+## 画像出典
+
+本文ではCCライセンス画像を1点使用し、元サーバーへのホットリンクを避けるため `public/article-images/nature/` にキャッシュしています。
+
+- [Tawny fish owl. Ketupa flavipes - Flickr - gailhampshire](https://commons.wikimedia.org/wiki/File:Tawny_fish_owl._Ketupa_flavipes_-_Flickr_-_gailhampshire.jpg) — Photo: gailhampshire (Cradley, Malvern, UK), 2009-02-17, [CC BY 2.0 via Wikimedia Commons](https://creativecommons.org/licenses/by/2.0/)
+
 ## 参考資料
 
 [^1]: [Avibase - 黄魚鴞 (Ketupa flavipes)](https://avibase.bsc-eoc.org/species.jsp?avibaseid=67CA1D2676A192A5) — 国際鳥類データベース。キバシウオミミズクの分類学史として、Hodgsonが1836年にネパールで _Cultrunguis flavipes_ と命名し、のちに _Bubo_ に移され、近年は分子系統研究により _Ketupa_ 属として独立した経緯を記録しています。
@@ -193,9 +199,3 @@ _雪覇国家公園が2026年4月29日から開始した「武陵キバシウオ
 [^18]: [キバシウオミミズク育雛のピクチャー・イン・ピクチャー画面が公開！「シャオバオ」が国宝魚を丸のみ、母鳥が上階の「ダーバオ」へ食事を届ける - 自由時報](https://news.ltn.com.tw/news/life/breakingnews/5423811) — 2026年5月3日の報道。早く生まれた「ダーバオ」は5月1日に巣立ち、巣の上方へ移動しました。雪覇と屏東科技大学チームは2台目のカメラを増設し、ピクチャー・イン・ピクチャーで2羽の雛の成長過程を同時に記録しています。
 
 [^19]: [「暗夜の王者」キバシウオミミズクの雛がかわいい、雪覇が全国に「命名」を呼びかけ - 自由時報](https://news.ltn.com.tw/news/life/breakingnews/5426048) — 2026年5月5日の報道。雪覇管理処と屏東科技大学の洪孝宇教員が命名企画を始め、現段階では2羽の雛を仮に「ダーバオ」と「シャオバオ」と呼んでいます。5月10日にチームが共同で5組の入選案を選びます。
-
-## 画像出典
-
-本文ではCCライセンス画像を1点使用し、元サーバーへのホットリンクを避けるため `public/article-images/nature/` にキャッシュしています。
-
-- [Tawny fish owl. Ketupa flavipes - Flickr - gailhampshire](https://commons.wikimedia.org/wiki/File:Tawny_fish_owl._Ketupa_flavipes_-_Flickr_-_gailhampshire.jpg) — Photo: gailhampshire (Cradley, Malvern, UK), 2009-02-17, [CC BY 2.0 via Wikimedia Commons](https://creativecommons.org/licenses/by/2.0/)

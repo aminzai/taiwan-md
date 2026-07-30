@@ -27,8 +27,8 @@ imageCredit: 'Arusanov'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG'
 translatedFrom: 'Economy/台灣前50大企業.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:fd16d89c1109096c'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:22fc95c656db9409'
 sourceBodyHash: 'sha256:645f8f42e79639a7'
 translatedAt: '2026-07-29T18:45:50+08:00'
 ---
@@ -170,6 +170,14 @@ _यूनलिन मायलियाओ फॉर्मोसा सिक�
 - [ताइवान राष्ट्रीय रक्षा और सैन्य आधुनिकीकरण](/hi/society/taiwan-defense-modernization) — silicon shield और शीर्ष 50 का भू-राजनीतिक संपर्क
 - [ताइवान विज्ञान पार्क](/hi/technology/science-park-development) — शीर्ष 50 कंपनियों सेमीकंडक्टर सीटों का उत्पादन आधार, तीन पार्कों के उत्पादन मूल्य एकाग्रता का स्थानिक संस्करण
 
+## छवि स्रोत
+
+본 문서는 3장의 퍼블릭 도메인 / 크리에이티브 커먼즈 라이선스 이미지를 사용하며, 모두 `public/article-images/economy/`에 캐시되어 핫링킹을 방지합니다:
+
+- **Hero**: [Tsmc factory hsinchu](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) — Photo: Arusanov, 2009-07-20, 신주 과학단지 TSMC 공장 전경. Public domain via Wikimedia Commons.
+- **인라인 1(타이베이 101 / 증권거래소)**: [Taipei 101 20230511 114624](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg) — Photo: Anas1712, 2023-05-11, 타이베이 101 빌딩 외관, 대만 증권거래소 본사 소재지. CC BY 4.0 via Wikimedia Commons.
+- **인라인 2(마이랴오 육경)**: [Formosa Plastics Group Mail-Liao Industrial Complex, Yunlin (Taiwan)](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>) — Photo: Malcolm Koo (User:Mk2010), 2014-03-15, 윈린 마이랴오 대만 플라스틱 그룹 육경 공업단지 항공 촬영. CC BY-SA 3.0 via Wikimedia Commons.
+
 ## संदर्भ सामग्री
 
 [^1]: [Tom's Hardware: Jensen Huang dines at Taipei night market with Taiwan tech CEOs](https://www.tomshardware.com/tech-industry/jensen-huang-dines-at-taipei-night-market-with-taiwan-tech-ceos) — 2024-05-28 जेन्सन हुआंग, मॉरिस चांग, सी.सी. वेई, पेई-ली लिन, जेनी याओ पाँच लोग निंगशिया नाइट मार्केट रात्रिभोज मीडिया रिकॉर्ड।
@@ -233,11 +241,3 @@ _यूनलिन मायलियाओ फॉर्मोसा सिक�
 [^30]: [द रिपोर्टर: सिक्स्थ नेफ्था क्रैकर निवासी स्वास्थ्य जोखिम दीर्घकालिक सर्वेक्षण](https://www.twreporter.org/a/fpc-sixth-naphtha-cracker-contaminant-detection) — ताइवान यूनिवर्सिटी पब्लिक हेल्थ चैन चांगचुआन 2012 शोध: 10 किमी भीतर निवासी मूत्र भारी धातु मेटाबोलाइट सांद्रता 10 किमी बाहर 5.5 गुना, सिक्स्थ नेफ्था क्रैकर फैक्ट्री क्षेत्र 132 विषैले कार्सिनोजेनिक पदार्थ, वार्षिक PM2.5 उत्सर्जन 140,000 टन स्तर।
 
 [^31]: [अर्थ सिटीजन फाउंडेशन: काऊशुंग स्टील उद्योग वायु प्रदूषण स्रोत विश्लेषण](https://www.cet-taiwan.org/) — काऊशुंग स्टील उद्योग वायु प्रदूषण 80-90% चाइना स्टील से, PM 36% और SOx 32% स्टील उद्योग से, चाइना स्टील 2017-2020 4.756 अरब सुधार निवेश पूर्व-पश्चात तुलना डेटा।
-
-## छवि स्रोत
-
-본 문서는 3장의 퍼블릭 도메인 / 크리에이티브 커먼즈 라이선스 이미지를 사용하며, 모두 `public/article-images/economy/`에 캐시되어 핫링킹을 방지합니다:
-
-- **Hero**: [Tsmc factory hsinchu](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) — Photo: Arusanov, 2009-07-20, 신주 과학단지 TSMC 공장 전경. Public domain via Wikimedia Commons.
-- **인라인 1(타이베이 101 / 증권거래소)**: [Taipei 101 20230511 114624](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg) — Photo: Anas1712, 2023-05-11, 타이베이 101 빌딩 외관, 대만 증권거래소 본사 소재지. CC BY 4.0 via Wikimedia Commons.
-- **인라인 2(마이랴오 육경)**: [Formosa Plastics Group Mail-Liao Industrial Complex, Yunlin (Taiwan)](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>) — Photo: Malcolm Koo (User:Mk2010), 2014-03-15, 윈린 마이랴오 대만 플라스틱 그룹 육경 공업단지 항공 촬영. CC BY-SA 3.0 via Wikimedia Commons.

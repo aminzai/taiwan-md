@@ -27,8 +27,8 @@ imageCredit: 'Arusanov'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG'
 translatedFrom: 'Economy/台灣前50大企業.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:fd16d89c1109096c'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:22fc95c656db9409'
 sourceBodyHash: 'sha256:645f8f42e79639a7'
 translatedAt: '2026-07-29T01:32:44+08:00'
 ---
@@ -170,6 +170,14 @@ Ao terminar esta lista, o leitor não deve levar "quem ficou em que lugar, quant
 - [Defesa e modernização militar de Taiwan](/society/台灣國防與軍事現代化) — _silicon shield_ e a conexão geopolítica das 50 maiores
 - [Parques científicos de Taiwan](/pt/technology/science-park-development) — Base de produção dos 11 assentos de semicondutores, versão espacial da concentração de valor dos três parques
 
+## Créditos das imagens
+
+Este artigo usa 3 imagens de domínio público / Creative Commons, todas em cache em `public/article-images/economy/` para evitar hotlink:
+
+- **Hero**: [Fábrica TSMC Hsinchu](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) — Foto: Arusanov, 20/07/2009, exterior da fábrica TSMC no Parque Científico de Hsinchu. Domínio público via Wikimedia Commons.
+- **Inline 1 (Taipei 101 / Bolsa)**: [Taipei 101 20230511 114624](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg) — Foto: Anas1712, 11/05/2023, exterior do Taipei 101, sede da Bolsa de Valores de Taiwan. CC BY 4.0 via Wikimedia Commons.
+- **Inline 2 (Mailiao Sixth Naphtha Cracker)**: [Formosa Plastics Group Mail-Liao Industrial Complex, Yunlin (Taiwan)](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>) — Foto: Malcolm Koo (User:Mk2010), 15/03/2014, vista aérea do Complexo Industrial Mailiao da Formosa em Yunlin. CC BY-SA 3.0 via Wikimedia Commons.
+
 ## Referências
 
 [^1]: [Tom's Hardware: Jensen Huang janta em mercado noturno de Taipé com CEOs tech de Taiwan](https://www.tomshardware.com/tech-industry/jensen-huang-dines-at-taipei-night-market-with-taiwan-tech-ceos) — Registro midiático do jantar de 28/05/2024 no mercado de Ningxia com Jensen Huang, Morris Chang, C.C. Wei, Rick Liang, Kris Yao.
@@ -233,11 +241,3 @@ Ao terminar esta lista, o leitor não deve levar "quem ficou em que lugar, quant
 [^30]: [The Reporter: Investigação de longo prazo riscos saúde moradores Sixth Naphtha Cracker](https://www.twreporter.org/a/fpc-sixth-naphtha-cracker-contaminant-detection) — Prof. Chan Chang-chuan NTU Saúde Pública 2012: raio 10 km metabólitos metais pesados urina 5,5x fora; 132 substâncias tóxicas cancerígenas, PM2.5 140 mil ton/ano.
 
 [^31]: [Citizen of the Earth: Análise fontes poluição ar siderurgia Kaohsiung](https://www.cet-taiwan.org/) — Siderurgia Kaohsiung 80-90% de China Steel, PM 36% e SOx 32% de fontes fixas = siderurgia, China Steel 2017-2020 investiu 4,756 bi melhorias, comparativo antes/depois.
-
-## Créditos das imagens
-
-Este artigo usa 3 imagens de domínio público / Creative Commons, todas em cache em `public/article-images/economy/` para evitar hotlink:
-
-- **Hero**: [Fábrica TSMC Hsinchu](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) — Foto: Arusanov, 20/07/2009, exterior da fábrica TSMC no Parque Científico de Hsinchu. Domínio público via Wikimedia Commons.
-- **Inline 1 (Taipei 101 / Bolsa)**: [Taipei 101 20230511 114624](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg) — Foto: Anas1712, 11/05/2023, exterior do Taipei 101, sede da Bolsa de Valores de Taiwan. CC BY 4.0 via Wikimedia Commons.
-- **Inline 2 (Mailiao Sixth Naphtha Cracker)**: [Formosa Plastics Group Mail-Liao Industrial Complex, Yunlin (Taiwan)](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>) — Foto: Malcolm Koo (User:Mk2010), 15/03/2014, vista aérea do Complexo Industrial Mailiao da Formosa em Yunlin. CC BY-SA 3.0 via Wikimedia Commons.

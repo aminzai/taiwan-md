@@ -277,6 +277,12 @@ Para ver cómo estos módulos se insertan en un artículo profundo, lee [Viviend
 - [Vivienda social y justicia habitacional](/es/society/social-housing-and-housing-justice) — la ruta de “solo alquiler, no venta” después de 2016.
 - [Crisis de natalidad en Taiwán](/es/society/taiwan-low-birth-rate-crisis) — la imposibilidad de comprar vivienda y la falta de hijos, otra cara de la justicia generacional.
 
+## Fuente de la imagen
+
+Esta publicación usa una imagen bajo licencia CC BY‑SA 4.0, almacenada en `public/article-images/society/`:
+
+- [Taipei skyline (vista desde Xiangshan)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Foto: Heeheemalu, 2026, CC BY‑SA 4.0 (hero)
+
 ## Referencias
 
 [^1]: [內政部不動產資訊平台](https://pip.moi.gov.tw/Publicize/Info/E1050) — datos oficiales de relación precio‑ingreso, carga hipotecaria y tasa de vivienda propia.
@@ -288,9 +294,3 @@ Para ver cómo estos módulos se insertan en un artículo profundo, lee [Viviend
 [^4]: [內政部戶政司人口統計資料](https://www.ris.gov.tw/app/portal/346) — proporción de población mayor de 65 años y índice de envejecimiento al final de 2025; datos para los diagramas de puntos, pirámide, mosaico y caja explicativa; cadena de verificación completa en〈[Ver Taiwán con datos](/es/geography/data-taiwan-22-cities)〉.
 
 [^5]: [中央選舉委員會 2018 年第 16 案公投結果（PDF）](https://web.cec.gov.tw/api/file/0132581c-18b5-4951-bc24-3cc083924666.pdf) — resultados oficiales de los tres referéndums nucleares (59 %/47 %/74 %); cadena de verificación completa en〈[Debate sobre la energía nuclear en Taiwán](/es/society/taiwan-nuclear-debate)〉.
-
-## Fuente de la imagen
-
-Esta publicación usa una imagen bajo licencia CC BY‑SA 4.0, almacenada en `public/article-images/society/`:
-
-- [Taipei skyline (vista desde Xiangshan)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Foto: Heeheemalu, 2026, CC BY‑SA 4.0 (hero)

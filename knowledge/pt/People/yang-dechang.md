@@ -24,8 +24,8 @@ imageCredit: '中央電影公司、新藝城影業（香港）／彭鎧立提供
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.tfam.museum/yiyiey'
 translatedFrom: 'People/楊德昌.md'
-sourceCommitSha: '58c351c43'
-sourceContentHash: 'sha256:890b13d8d8c67562'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:c2aa8f15ab2b1700'
 sourceBodyHash: 'sha256:7119ad62eb825546'
 translatedAt: '2026-07-28T19:24:16+08:00'
 ---
@@ -219,6 +219,12 @@ Com a lógica mais fria de um engenheiro, filmou a solidão mais quente do cora�
 
 **Leitura complementar**: [Cinema de Taiwan](/pt/art/taiwanese-cinema) (Yang é um dos dois porta-estandartes do Novo Cinema de Taiwan; aqui está o mapa de todo o movimento a que pertenceu), [Hou Hsiao-hsien](/pt/people/hou-hsiao-hsien) (a outra montanha ao lado de Yang, de _maji_ a afastado), [Ang Lee](/pt/people/ang-lee) (também levou o cinema de Taiwan ao palco mundial, por caminho radicalmente diferente), [Tsai Ming-liang](/pt/people/tsai-ming-liang) (pós-Novo Cinema, outra forma de dissecar a solidão urbana), [Guling Street](/geography/牯嶺街) (a rua real onde a faca caiu, a origem da epopeia de quatro horas).
 
+## Fontes das imagens
+
+- **Imagem de abertura / Set de _That Day, on the Beach_ (1983)**: Central Motion Picture Corporation, New Cinema City Ltd. (Hong Kong), foto de trabalho de _That Day, on the Beach_, 1983. Cedido por Peng Kai-li, depositado no Taiwan Film and Audiovisual Institute. Fonte: imagens públicas da exposição "One and A Two: Edward Yang" do TFAM ([tfam.museum](https://www.tfam.museum/yiyiey)), fair use comentário editorial.
+- **Originais de quadrinhos da Segunda Guerra (c. 1965-1970)**: Originais de quadrinhos da Segunda Guerra desenhados por Edward Yang na juventude. Cedido por Peng Kai-li, depositado no Taiwan Film and Audiovisual Institute. Fonte: mesmo press kit da exposição do TFAM, fair use comentário editorial.
+- **Set de _A Confucian Confusion_ (1993)**: Atom Films, foto de trabalho de _A Confucian Confusion_, 1993. Cedido por Peng Kai-li, depositado no Taiwan Film and Audiovisual Institute (site do TFAM também cita c. 1994, adota-se 1993 do press kit). Fonte: mesma, fair use comentário editorial.
+
 ## Referências
 
 [^1]: [Chen Wan-rong: We Are Fortunately Unfortunate — To Edward Yang](https://medium.com/@susan82920/%E6%88%91%E5%80%91%E5%B9%B8%E9%81%8B%E5%9C%B0%E4%B8%8D%E5%B9%B8%E8%91%97-%E8%87%B4%E6%A5%8A%E5%BE%B7%E6%98%8C-badf8485f74a) — Relata a memória de Wu Nien-jen: Yang recém-chegado à CMPC usava camiseta com "Herzog, Bresson, Yang" (Herzog, Bresson, Edward Yang), ar indomável.
@@ -404,9 +410,3 @@ Com a lógica mais fria de um engenheiro, filmou a solidão mais quente do cora�
 [^92]: [Wikipedia: A Brighter Summer Day](https://zh.wikipedia.org/zh-tw/%E7%89%AF%E5%B6%BA%E8%A1%97%E5%B0%91%E5%B9%B4%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6) — Wikipedia chinesa _A Brighter Summer Day_, registra total de 110 dias de filmagem, versão original 237 min.
 
 [^93]: [Mirror Media: Yuan Qiong-qiong on Edward Yang's USC Years](https://www.mirrormedia.mg/story/20170727pol007) — Mesmo [^7], registra Yang em Seattle, amador com amigos filmava curtas em 16mm, mantinha o tato com cinema.
-
-## Fontes das imagens
-
-- **Imagem de abertura / Set de _That Day, on the Beach_ (1983)**: Central Motion Picture Corporation, New Cinema City Ltd. (Hong Kong), foto de trabalho de _That Day, on the Beach_, 1983. Cedido por Peng Kai-li, depositado no Taiwan Film and Audiovisual Institute. Fonte: imagens públicas da exposição "One and A Two: Edward Yang" do TFAM ([tfam.museum](https://www.tfam.museum/yiyiey)), fair use comentário editorial.
-- **Originais de quadrinhos da Segunda Guerra (c. 1965-1970)**: Originais de quadrinhos da Segunda Guerra desenhados por Edward Yang na juventude. Cedido por Peng Kai-li, depositado no Taiwan Film and Audiovisual Institute. Fonte: mesmo press kit da exposição do TFAM, fair use comentário editorial.
-- **Set de _A Confucian Confusion_ (1993)**: Atom Films, foto de trabalho de _A Confucian Confusion_, 1993. Cedido por Peng Kai-li, depositado no Taiwan Film and Audiovisual Institute (site do TFAM também cita c. 1994, adota-se 1993 do press kit). Fonte: mesma, fair use comentário editorial.

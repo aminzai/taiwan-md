@@ -20,8 +20,8 @@ lastVerified: 2026-05-23
 lastHumanReview: false
 featured: true
 translatedFrom: 'Art/臺灣漫遊錄.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:1be78dcd03c2e2ba'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:1cbdf7bdeea3f06d'
 sourceBodyHash: 'sha256:f65ef91c0cd14c9b'
 translatedAt: '2026-06-16T17:04:12Z'
 image: '/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp'
@@ -160,6 +160,14 @@ _2024 年 11 月 19 日の NBA finalist reading（最終候補者朗読会）で
 - [朱天文](/ja/people/chu-tien-wen) — 戒厳令解除後の女性文学を代表する作家。『荒人手記』と『古都』の仮託手法は、台湾文学における偽翻訳構造の重要な先例です
 - [呉明益](/ja/people/wu-ming-yi) — 2020 年代の国際翻訳文学の波における台湾の代表的作家の一人。『複眼人』と『自転車泥棒』は英語圏で可視性を持っています
 
+## 画像出典
+
+この記事では Wikimedia Commons の CC BY-SA 4.0 ライセンス画像を 3 点使用しており、いずれも元サーバーへのホットリンクを避けるため `public/article-images/art/` にキャッシュしています。
+
+- [Yang Shuang-zi at the 2024 National Book Awards](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg) — Photo: Bea Phi (Phibeatrice), 2024-11-20, CC BY-SA 4.0. 楊双子がニューヨーク Cipriani Wall Street の NBA 授賞式に出席した場面。
+- [Yang Shuang-zi and Lin King at the National Book Awards Ceremony 2024](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_and_Lin_King_at_the_National_Book_Awards_Ceremony_2024_02.jpg) — Photo: Jennifer 8. Lee (Jenny8lee), 2024-11-20, CC BY-SA 4.0. 楊双子と翻訳者・金翎の写真。
+- [Yáng Shuāng-zǐ, writer, at the 2024 National Book Awards finalist reading 3](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg) — Photo: Bea Phi (Phibeatrice), 2024-11-19, CC BY-SA 4.0. 楊双子が NBA 最終候補者朗読会に出席した場面。
+
 ## 参考資料
 
 [^1]: [中央社：「臺灣漫遊錄」奪布克國際獎 楊双子：生為台灣人是幸運和驕傲](https://www.cna.com.tw/news/acul/202605200011.aspx) — 中央通信社の 2026 年 5 月 20 日報道。ロンドン Tate Modern での国際ブッカー賞授賞式の現場と賞金の詳細（5 万ポンドを作家と訳者で半分ずつ分ける）を記録しています。
@@ -229,11 +237,3 @@ _2024 年 11 月 19 日の NBA finalist reading（最終候補者朗読会）で
 [^33]: [報導者：專訪楊双子](https://www.twreporter.org/a/interview-taiwan-travelogue-a-novel-writer-yang-shuang-zi) — 楊双子が 2014 年の 318 ひまわり運動以後、台湾と中国の関係について書く動機を自ら語っています。「答えなければならない核心は、台湾と中国はいったい何が違うのか、ということです。」
 
 [^34]: [優人物：雙胞胎的人生與寫作灌注於一人](https://topic.udn.com/event/2025_0310) — 楊双子が聯合報『優人物』の深度インタビューで、妹が生前に『台湾漫遊録』の受賞を見られなかった遺憾に触れています。「この結果がもう少し早ければよかったのに。妹も見られたかもしれません。」
-
-## 画像出典
-
-この記事では Wikimedia Commons の CC BY-SA 4.0 ライセンス画像を 3 点使用しており、いずれも元サーバーへのホットリンクを避けるため `public/article-images/art/` にキャッシュしています。
-
-- [Yang Shuang-zi at the 2024 National Book Awards](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg) — Photo: Bea Phi (Phibeatrice), 2024-11-20, CC BY-SA 4.0. 楊双子がニューヨーク Cipriani Wall Street の NBA 授賞式に出席した場面。
-- [Yang Shuang-zi and Lin King at the National Book Awards Ceremony 2024](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_and_Lin_King_at_the_National_Book_Awards_Ceremony_2024_02.jpg) — Photo: Jennifer 8. Lee (Jenny8lee), 2024-11-20, CC BY-SA 4.0. 楊双子と翻訳者・金翎の写真。
-- [Yáng Shuāng-zǐ, writer, at the 2024 National Book Awards finalist reading 3](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg) — Photo: Bea Phi (Phibeatrice), 2024-11-19, CC BY-SA 4.0. 楊双子が NBA 最終候補者朗読会に出席した場面。

@@ -46,8 +46,8 @@ sporeLinks:
     "{'id': 32, 'platform': 'x', 'date': '2026-04-18', 'url': 'https://x.com/taiwandotmd/status/2045363785347612934'}",
   ]
 translatedFrom: 'People/Cicada.md'
-sourceCommitSha: 'ac1d187af'
-sourceContentHash: 'sha256:4a53480bbe9aa83b'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:3d1c97835c5d9ea3'
 sourceBodyHash: 'sha256:5091127dea208f82'
 translatedAt: '2026-07-28T08:53:30+08:00'
 ---
@@ -287,6 +287,14 @@ A partir de 2019, locais vão da floresta de montanha, nascentes, até geleiras 
 - [Ecologia Marinha de Taiwan](/pt/nature/taiwan-marine-ecology) — fundo ecológico do álbum marinho de 2017
 - [Montanhas e Cultura de Montanhismo de Taiwan](/nature/台灣山岳與登山文化) — contexto da filosofia de montanhismo de Chiang Chih-chieh
 
+## Fontes das imagens
+
+Este artigo usa 1 imagem licenciada CC BY-SA 4.0, em cache em `public/article-images/people/` pra evitar hotlink no servidor de origem:
+
+- [Lago Esmeralda Wang Dachih 05](https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg) — Foto: Blackjack633, CC BY-SA 4.0 (imagem principal, Lago Esmeralda Montanha Neve)
+
+Vídeos embutidos no texto são todos do [Canal Oficial YouTube Cicada @Cicadatw](https://www.youtube.com/@Cicadatw) com MVs oficiais, embutidos via iframe; direitos autorais pertencem à banda e selos, uso conforme Termos de Serviço padrão de embed do YouTube.
+
 ## Referências
 
 [^1]: [Metodologia criativa e epifania do mergulho de Chiang Chih-chieh - IN IN TO MUSIC](https://inintomusic.asia/cicada-interview/) — Chiang Chih-chieh autorrelata metodologia "sou muito intuitiva — quando me sento ao piano, o ritmo e a imagem interior se encaixam"; descreve ritmo da água em _Habitando_ "quando você encontra uma pedra, a sensação é 'uau?' — e então você contorna por ao lado"; epifania do mergulho em Lanyu "a única coisa que você consegue controlar é a sua respiração", "você deve ser honesto consigo mesmo".
@@ -342,11 +350,3 @@ A partir de 2019, locais vão da floresta de montanha, nascentes, até geleiras 
 [^26]: [Resultados 46ª Academia Japonesa de Cinema - Site oficial Japan Academy Prize](https://www.japan-academy-prize.jp/prizes/?t=46) — 46ª (2023): filme _Aquele Homem_ (ある男) leva Melhor Filme entre múltiplos prêmios principais; Cicada _Aquele Homem_ com Ike Yoritaka, Takami Yu, Fukushige Mari empatados em "Prêmio de Música Excelente" (nível indicação, 4 indicados); "Melhor Música" da edição foi RADWIMPS/Jinnai Kazumasa _Suzume no Tojimari_ (Suzume). Ou seja: filme leva Melhor Filme, trilha da Cicada leva Prêmio de Música Excelente, não Melhor Música.
 
 [^27]: [Circo glacial Montanha Neve e geomorfologia glacial Taiwan - Museu Nacional de Ciências Naturais](https://epub.nmns.edu.tw/i401-1/) — Circo glacial 1 da Montanha Neve "representante da maior e mais completa geomorfologia glacial de Taiwan" (cit. Lin Chao-chi 1957); altas montanhas Taiwan no Último Período Glacial (aprox. 27 mil a 18 mil anos atrás) desenvolveram geleiras de montanha, formaram geomorfologia glacial; Lago Esmeralda é lagoa de circo, redor é maior floresta pura de ciprestes de Yushan de Taiwan. Vestígios glaciais altas montanhas Taiwan debatidos na academia, até 1998 Wang Hsin et al. investigação detalhada evidências erosão glacial confirmaram.
-
-## Fontes das imagens
-
-Este artigo usa 1 imagem licenciada CC BY-SA 4.0, em cache em `public/article-images/people/` pra evitar hotlink no servidor de origem:
-
-- [Lago Esmeralda Wang Dachih 05](https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg) — Foto: Blackjack633, CC BY-SA 4.0 (imagem principal, Lago Esmeralda Montanha Neve)
-
-Vídeos embutidos no texto são todos do [Canal Oficial YouTube Cicada @Cicadatw](https://www.youtube.com/@Cicadatw) com MVs oficiais, embutidos via iframe; direitos autorais pertencem à banda e selos, uso conforme Termos de Serviço padrão de embed do YouTube.

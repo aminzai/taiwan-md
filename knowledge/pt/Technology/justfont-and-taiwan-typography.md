@@ -28,8 +28,8 @@ imageCredit: 'justfont / flyingV'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.flyingv.cc/projects/8250'
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: 'e773ef6b0'
-sourceContentHash: 'sha256:6e31a2264dcded4f'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:50da80d49885286c'
 sourceBodyHash: 'sha256:dcea1d33e3c8824c'
 translatedAt: '2026-07-27T06:18:40+08:00'
 ---
@@ -247,6 +247,17 @@ A diferença está naquela manhã de setembro de 2015. Hoje, Taiwan tem dezenas 
 - [Movimentos sociais e participação cívica](/pt/society/social-movements-and-civic-participation): A energia daquela "briga por assuntos públicos" da polêmica da Jin Xuan tem veias maiores na sociedade taiwanesa.
 - [Cabos submarinos](/technology/海底電纜): Outra infraestrutura que todos usam todo dia e quase ninguém vê.
 
+## Fontes das imagens
+
+- **Imagem de capa**: Visual principal da página de crowdfunding da Jin Xuan no flyingV. © justfont / flyingV, fair use editorial commentary. Fonte: [Página do projeto flyingV](https://www.flyingv.cc/projects/8250)
+- **Painel de linha de ônibus de Taipé**: Foto: BlubiNeko, 2022, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
+- **Letras de chumbo da Rixing Type Foundry**: Foto: Johan Jönsson, 2023, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
+- **Amostra oficial da Jin Xuan**: © justfont, material cedido pela justfont, fair use editorial commentary (autorização de parceria). Fonte: [Blog justfont lançamento da Jin Xuan](https://blog.justfont.com/2015/08/introducing-jinshuan/)
+- **Visual oficial da jf open Fen Yuan**: © justfont, repositório GitHub oficial (tipografia OFL 1.1). Fonte: [open-huninn-font](https://github.com/justfont/open-huninn-font)
+- **Comparação Lanyang Mingti e "Jian Yu Ji"**: © justfont, material cedido pela justfont, fair use editorial commentary (autorização de parceria). Fonte: [Página oficial Lanyang Mingti justfont](https://justfont.com/lanyangming/)
+- **Amostra oficial da Gan Zi Mi**: © justfont, material cedido pela justfont, fair use editorial commentary (autorização de parceria). Fonte: [Página oficial Gan Zi Mi justfont](https://justfont.com/kamabit/)
+- **Foto de trabalho de Chang Chieh-kuan restaurando letras**: © justfont, material cedido pela justfont, fair use editorial commentary (autorização de parceria). Fonte: [Blog justfont Rixing Songti No. 2](https://blog.justfont.com/2025/06/rixing-song2-revivals/)
+
 ## Referências
 
 [^1]: [flyingV: Página do projeto de crowdfunding da Jin Xuan](https://www.flyingv.cc/projects/8250) — Registro direto do crowdfunding, total NT$ 25.930.099, 7.667 apoios, meta 1,5 milhão.
@@ -378,14 +389,3 @@ A diferença está naquela manhã de setembro de 2015. Hoje, Taiwan tem dezenas 
 [^64]: [Wikipédia: Justfont (就是字)](https://zh.wikipedia.org/zh-tw/%E5%B0%B1%E6%98%AF%E5%AD%97) — Registra histórico da empresa: passado de Yeh Chun-lin na DynaComware, fundação 2010, Su Wei-hsiang entrou 2012 como primeiro funcionário formal.
 
 [^65]: [Wikipédia: DynaFont (威鋒數位)](https://zh.wikipedia.org/wiki/%E5%A8%81%E9%8B%92%E6%95%B8%E4%BD%8D) — Registra fundação da DynaComware em setembro de 1987 em Taipé, primeira empresa de tipografia digital de Taiwan, e renomeação para DynaFont em 2001.
-
-## Fontes das imagens
-
-- **Imagem de capa**: Visual principal da página de crowdfunding da Jin Xuan no flyingV. © justfont / flyingV, fair use editorial commentary. Fonte: [Página do projeto flyingV](https://www.flyingv.cc/projects/8250)
-- **Painel de linha de ônibus de Taipé**: Foto: BlubiNeko, 2022, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
-- **Letras de chumbo da Rixing Type Foundry**: Foto: Johan Jönsson, 2023, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
-- **Amostra oficial da Jin Xuan**: © justfont, material cedido pela justfont, fair use editorial commentary (autorização de parceria). Fonte: [Blog justfont lançamento da Jin Xuan](https://blog.justfont.com/2015/08/introducing-jinshuan/)
-- **Visual oficial da jf open Fen Yuan**: © justfont, repositório GitHub oficial (tipografia OFL 1.1). Fonte: [open-huninn-font](https://github.com/justfont/open-huninn-font)
-- **Comparação Lanyang Mingti e "Jian Yu Ji"**: © justfont, material cedido pela justfont, fair use editorial commentary (autorização de parceria). Fonte: [Página oficial Lanyang Mingti justfont](https://justfont.com/lanyangming/)
-- **Amostra oficial da Gan Zi Mi**: © justfont, material cedido pela justfont, fair use editorial commentary (autorização de parceria). Fonte: [Página oficial Gan Zi Mi justfont](https://justfont.com/kamabit/)
-- **Foto de trabalho de Chang Chieh-kuan restaurando letras**: © justfont, material cedido pela justfont, fair use editorial commentary (autorização de parceria). Fonte: [Blog justfont Rixing Songti No. 2](https://blog.justfont.com/2025/06/rixing-song2-revivals/)

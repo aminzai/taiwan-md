@@ -28,8 +28,8 @@ sporeLinks:
     "{'id': 70, 'platform': 'threads', 'date': '2026-05-10', 'url': 'https://www.threads.com/@taiwandotmd/post/DYKW0PmkzbM'}",
   ]
 translatedFrom: 'Technology/台灣無人機產業.md'
-sourceCommitSha: 'c2412970f'
-sourceContentHash: 'sha256:9a74d696840dfd44'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:4412f50a29e8bcfe'
 sourceBodyHash: 'sha256:6b0ed5d3cd521366'
 translatedAt: '2026-07-26T08:13:10+08:00'
 ---
@@ -168,6 +168,13 @@ La línea de producción de Thunder Tiger en Taichung, que comenzó en 1979 con 
 - [Desarrollo de la Industria Espacial de Taiwán](/es/technology/taiwan-space-industry-development) — De drones a satélites, la ambición espacial de Taiwán
 - [Industria de Robots de Taiwán](/es/technology/taiwan-robotics-industry) — Otro caso de "fuerte en componentes, débil en整机", con los mismos problemas estructurales que los drones
 
+## Fuentes de Imágenes
+
+Este artículo utiliza 2 imágenes de dominio público / licencia CC, todas almacenadas en caché en `public/article-images/technology/` para evitar enlaces calientes a servidores de origen:
+
+- **Hero**: [Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) — Foto: Kliu, 11-10-2007, exhibición del NCSIST Chung Shyang II (serie NCSIST Albatross) en la Asamblea Nacional del Día Nacional de la República de China. Dominio público vía Wikimedia Commons.
+- **Inline**: [UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) — Foto: Xuan Shi Sheng, 04-05-2013, exhibición del dron NCSIST Ruiyuan 9717 en el Día de Puertas Abiertas del Muelle 11 del Puerto Militar Zhongzheng en Kaohsiung. CC BY-SA 3.0 vía Wikimedia Commons.
+
 ## Referencias
 
 [^1]: [Aviation Week: Taiwan's Thunder Tiger Eyes U.S. Army's Drone Dominance Program](https://aviationweek.com/defense/aircraft-propulsion/taiwans-thunder-tiger-eyes-us-armys-drone-dominance-program) — Informa que el dron FPV "Overkill" de Thunder Tiger se convierte en el primer dron taiwanés en obtener la certificación de la Lista Azul de EE. UU.
@@ -225,10 +232,3 @@ La línea de producción de Thunder Tiger en Taichung, que comenzó en 1979 con 
 [^20]: [TechNews: Details of Ministry of Defense 1.25 Trillion Special Budget Revealed](https://technews.tw/2026/01/20/taiwan-mnd-unveiled-1250-billion-twd-budget-details/) + [CNA: 1.25 Trillion Special Budget, Ministry of Defense Publicly Plans to Purchase Quantities of 7 Types of Weapons](https://www.cna.com.tw/news/aipl/202601190177.aspx) — 8 años de 2026-2033 por NT$1,25 billones, siete proyectos principales; vehículos no tripulados y sistemas de contramedida NT$335.000 millones / >210.000 drones / >1.000 lanchas no tripuladas.
 
 [^21]: [The Reporter: Entering the Ukrainian Drone Production Line (Part 1): From No One Making to 4.5 Million Annually](https://www.twreporter.org/a/ukraine-drone-wartime-supplychain) + [TechNews: Direct Communication Between Frontline and Manufacturers, Ukrainian Drone Industry Explodes](https://technews.tw/2025/04/30/the-ukrainians-drone-boom-during-the-war/) — Curva de producción mensual de 200.000-400.000 unidades retrotraída por la demanda de consumo en el frente: 300.000 en 2023 → >2 millones en 2024 → 4,5 millones en 2025.
-
-## Fuentes de Imágenes
-
-Este artículo utiliza 2 imágenes de dominio público / licencia CC, todas almacenadas en caché en `public/article-images/technology/` para evitar enlaces calientes a servidores de origen:
-
-- **Hero**: [Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) — Foto: Kliu, 11-10-2007, exhibición del NCSIST Chung Shyang II (serie NCSIST Albatross) en la Asamblea Nacional del Día Nacional de la República de China. Dominio público vía Wikimedia Commons.
-- **Inline**: [UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) — Foto: Xuan Shi Sheng, 04-05-2013, exhibición del dron NCSIST Ruiyuan 9717 en el Día de Puertas Abiertas del Muelle 11 del Puerto Militar Zhongzheng en Kaohsiung. CC BY-SA 3.0 vía Wikimedia Commons.

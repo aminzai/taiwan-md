@@ -28,8 +28,8 @@ sporeLinks:
     "{'id': 70, 'platform': 'threads', 'date': '2026-05-10', 'url': 'https://www.threads.com/@taiwandotmd/post/DYKW0PmkzbM'}",
   ]
 translatedFrom: 'Technology/台灣無人機產業.md'
-sourceCommitSha: 'c2412970f'
-sourceContentHash: 'sha256:9a74d696840dfd44'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:4412f50a29e8bcfe'
 sourceBodyHash: 'sha256:6b0ed5d3cd521366'
 translatedAt: '2026-07-26T13:23:38+08:00'
 ---
@@ -168,6 +168,13 @@ A linha de produção da Thunder Tiger em Taichung, que começou com aviões de 
 - [Taiwan Aerospace Industry Development](/technology/台灣太空產業發展) — De drones a satélites, a ambição no céu de Taiwan
 - [Taiwan Robotics Industry](/pt/technology/taiwan-robotics-industry) — Outro caso de "forte em componentes, fraco em整机", com os mesmos problemas estruturais dos drones
 
+## Fontes de Imagem
+
+Este artigo usa 2 imagens de domínio público / licença CC, todas em cache em `public/article-images/technology/` para evitar links quentes para servidores de origem:
+
+- **Hero**: [Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) — Foto: Kliu1, 11-10-2007, Exibição do NCSIST Chung Shyang II (NCSIST Albatross Series) na Assembleia Nacional do Dia Nacional da República da China. Domínio público via Wikimedia Commons.
+- **Inline**: [UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) — Foto: Xuan Shi Sheng, 04-05-2013, Exibição do Drone NCSIST Albatross 9717 no Dia da Porta Aberta do Cais 11 do Porto Militar Zhongzheng, Kaohsiung. CC BY-SA 3.0 via Wikimedia Commons.
+
 ## Referências
 
 [^1]: [Aviation Week: Taiwan's Thunder Tiger Eyes U.S. Army's Drone Dominance Program](https://aviationweek.com/defense/aircraft-propulsion/taiwans-thunder-tiger-eyes-us-armys-drone-dominance-program) — Relata que o drone FPV "Overkill" da Thunder Tiger se tornou o primeiro drone taiwanês a passar pela certificação da Lista Azul dos EUA.
@@ -225,10 +232,3 @@ A linha de produção da Thunder Tiger em Taichung, que começou com aviões de 
 [^20]: [TechNews: Details of Ministry of Defense NT$ 1.25 Trillion Special Budget Revealed](https://technews.tw/2026/01/20/taiwan-mnd-unveiled-1250-billion-twd-budget-details/) + [CNA: NT$ 1.25 Trillion Special Budget, Ministry of Defense Publicly Plans to Purchase Quantities of 7 Types of Weapons](https://www.cna.com.tw/news/aipl/202601190177.aspx) — 8 anos de 2026-2033 totalizando NT$ 1,25 trilhão, sete itens principais; Veículos Não Tripulados e Sistemas de Contramedida NT$ 335 bilhões / +210.000 drones / +1.000 lanchas não tripuladas.
 
 [^21]: [The Reporter: Walking into Ukraine's Drone Production Line (Part 1): From No One Producing to 4.5 Million Annually](https://www.twreporter.org/a/ukraine-drone-wartime-supplychain) + [TechNews: Direct Communication Between Frontline and Companies, Ukraine's Drone Industry Booms](https://technews.tw/2025/04/30/the-ukrainians-drone-boom-during-the-war/) — Ucrânia: 300.000 drones em 2023 → mais de 2 milhões em 2024 → 4,5 milhões em 2025; a curva de produção mensal de 200.000-400.000 drones é uma função de demanda empurrada de volta pelo consumo na linha de frente.
-
-## Fontes de Imagem
-
-Este artigo usa 2 imagens de domínio público / licença CC, todas em cache em `public/article-images/technology/` para evitar links quentes para servidores de origem:
-
-- **Hero**: [Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) — Foto: Kliu1, 11-10-2007, Exibição do NCSIST Chung Shyang II (NCSIST Albatross Series) na Assembleia Nacional do Dia Nacional da República da China. Domínio público via Wikimedia Commons.
-- **Inline**: [UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) — Foto: Xuan Shi Sheng, 04-05-2013, Exibição do Drone NCSIST Albatross 9717 no Dia da Porta Aberta do Cais 11 do Porto Militar Zhongzheng, Kaohsiung. CC BY-SA 3.0 via Wikimedia Commons.

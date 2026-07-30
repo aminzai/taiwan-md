@@ -28,8 +28,8 @@ sporeLinks:
     "{'id': 70, 'platform': 'threads', 'date': '2026-05-10', 'url': 'https://www.threads.com/@taiwandotmd/post/DYKW0PmkzbM'}",
   ]
 translatedFrom: 'Technology/台灣無人機產業.md'
-sourceCommitSha: 'c2412970f'
-sourceContentHash: 'sha256:9a74d696840dfd44'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:4412f50a29e8bcfe'
 sourceBodyHash: 'sha256:6b0ed5d3cd521366'
 translatedAt: '2026-07-26T13:23:38+08:00'
 ---
@@ -168,6 +168,13 @@ _4 मई 2013, चीन अकादमिया विज्ञान और 
 - [ताइवान अंतरिक्ष उद्योग विकास](/technology/台灣太空產業發展) — ड्रोन से उपग्रह तक, ताइवान का आकाशीय महत्वाकांक्षा
 - [ताइवान रोबोट उद्योग](/technology/台灣機器人產業) — 'घटक मजबूत, पूर्ण मशीन कमजोर' का एक अन्य उदाहरण, ड्रोन के साथ समान संरचनात्मक कठिनाई
 
+## छवि स्रोत
+
+इस लेख में 2 सार्वजनिक डोमेन / CC लाइसेंस छवियों का उपयोग किया गया है, सभी `public/article-images/technology/` में कैश किए गए हैं ताकि हॉट लिंक स्रोत सर्वर से बचा जा सके:
+
+- **हीरो**: [Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) — फोटो: क्लियू1, 2007-10-11 चीन गणराज्य राष्ट्रीय दिवस चीन अकादमिया विज्ञान चूंग श्यांग द्वि-आयामी (NCSIST Albatross श्रृंखला) प्रदर्शन। सार्वजनिक डोमेन via Wikimedia Commons.
+- **इनलाइन**: [UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) — फोटो: क्सुआन शी शेंग, 2013-05-04 चीन अकादमिया विज्ञान रुई युआन ड्रोन 9717 संख्या काऊशुंग जोंगजेंग सैन्य बंदरगाह 11 नंबर पीर ओपन डे पर प्रदर्शित। CC BY-SA 3.0 via Wikimedia Commons.
+
 ## संदर्भ
 
 [^1]: [Aviation Week: Taiwan's Thunder Tiger Eyes U.S. Army's Drone Dominance Program](https://aviationweek.com/defense/aircraft-propulsion/taiwans-thunder-tiger-eyes-us-armys-drone-dominance-program) — लेइहु 'ओवरकिल' FPV ड्रोन को अमेरिकी नीली सूची प्रमाणन पाने वाली पहली ताइवान ड्रोन के रूप में रिपोर्ट करता है।
@@ -225,10 +232,3 @@ _4 मई 2013, चीन अकादमिया विज्ञान और 
 [^20]: [TechNews: 國防部 1.25 兆特別預算細節公開](https://technews.tw/2026/01/20/taiwan-mnd-unveiled-1250-billion-twd-budget-details/) + [中央社: 1.25 兆元特別預算 國防部公開籌購 7 類武器數量](https://www.cna.com.tw/news/aipl/202601190177.aspx) — 2026-2033 8 वर्ष कुल NT$1.25 खरब, सात आयत; नाविक वाहन और विरोधी सिस्टम NT$3,350 अरब / 210,000 से अधिक / 1,000 नाविक पानी के ड्रोन।
 
 [^21]: [報導者: 走進烏克蘭無人機生產線（上）：從沒人做到年產 450 萬架](https://www.twreporter.org/a/ukraine-drone-wartime-supplychain) + [TechNews: 前線與廠商直接溝通，烏克蘭無人機產業大爆發](https://technews.tw/2025/04/30/the-ukrainians-drone-boom-during-the-war/) — यूक्रेन 2023 300,000 से अधिक → 2024 2 मिलियन से अधिक → 2025 4.5 मिलियन, महीने की 200,000-400,000 ड्रोन वक्र अग्रभूमि खपत द्वारा पीछे से खींची गई मांग फलन है।
-
-## छवि स्रोत
-
-इस लेख में 2 सार्वजनिक डोमेन / CC लाइसेंस छवियों का उपयोग किया गया है, सभी `public/article-images/technology/` में कैश किए गए हैं ताकि हॉट लिंक स्रोत सर्वर से बचा जा सके:
-
-- **हीरो**: [Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) — फोटो: क्लियू1, 2007-10-11 चीन गणराज्य राष्ट्रीय दिवस चीन अकादमिया विज्ञान चूंग श्यांग द्वि-आयामी (NCSIST Albatross श्रृंखला) प्रदर्शन। सार्वजनिक डोमेन via Wikimedia Commons.
-- **इनलाइन**: [UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) — फोटो: क्सुआन शी शेंग, 2013-05-04 चीन अकादमिया विज्ञान रुई युआन ड्रोन 9717 संख्या काऊशुंग जोंगजेंग सैन्य बंदरगाह 11 नंबर पीर ओपन डे पर प्रदर्शित। CC BY-SA 3.0 via Wikimedia Commons.

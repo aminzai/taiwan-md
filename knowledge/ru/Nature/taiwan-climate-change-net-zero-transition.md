@@ -30,8 +30,8 @@ imageCredit: 'M. Weitzel (Wikimedia Commons)'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg'
 translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:690ecb6c58309760'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:d698e900aeaedc49'
 sourceBodyHash: 'sha256:36525caaf207b712'
 translatedAt: '2026-07-30T03:56:00+08:00'
 ---
@@ -316,6 +316,13 @@ _Солнечные панели на крыше автостоянки Сиху
 - [Развитие модернизации тайваньского сельского хозяйства](/ru/economy/taiwan-agricultural-modernization) — давление трансформации сельского хозяйства и конфликты землепользования за агровольтаикой
 - [Мейюй](/ru/nature/meiyu-stagnant-front) — «весенний дождь не приходит, мейюй концентрируется» — местное наблюдение изменения климата
 
+## Источники изображений
+
+- **Внешний вид третьей АЭС (Маньшань, Хэньчунь, Пиньдун, hero)**: [Maanshan Nuclear Power Plant, Nan Wan](https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg) (фото: M. Weitzel, Wikimedia Commons, CC BY-SA 3.0)
+- **Подземное складиранище Онкало (Финляндия, Олькилуото)**: [Onkalo spent nuclear fuel repository entrance](https://commons.wikimedia.org/wiki/File:Onkalo_spent_nuclear_fuel_repository_entrance.jpg) (фото: Posiva Oy, Wikimedia Commons, CC BY-SA 4.0)
+- **Морская ветроэлектростанция Хайлун у побережья Миаоли**: [Hai Long offshore wind farm](https://commons.wikimedia.org/wiki/File:Hai_Long_offshore_wind_farm.jpg) (Wikimedia Commons, CC BY-SA 4.0)
+- **Солнечные панели на крыше автостоянки нацтрассы**: [Xihu Service Area solar panels](https://commons.wikimedia.org/wiki/File:Xihu_Service_Area_solar_panels.jpg) (Wikimedia Commons, CC BY-SA 3.0)
+
 ## Ссылки
 
 [^1]: [Проект «Видение» Объединённой газеты: интервью Сюй Хуансян](https://ubrand.udn.com/ubrand/story/123658/5679341) — Специальный исследователь Центра исследований изменения климата Академии Синака Сюй Хуансян и команда проанализировали данные температуры Тайваня 1911–2020 гг., указали на повышение на 1,6 °C за столетие, сокращение зимы почти вдвое, в худшем сценарии после 2060 года количество зимних дней может уйти в ноль.
@@ -407,10 +414,3 @@ _Солнечные панели на крыше автостоянки Сиху
 [^44]: [PanSci: вызовы безопасности реактора Natrium](https://pansci.asia/archives/377644) — Партнёр по контенту по МОУ 2026-05-05. Строительство реактора Natrium означает прогресс технологий четвёртого поколения, но развитие сопряжено с серьёзными вызовами; жидкий натрий при контакте с водой бурно реагирует, горюч, эксплуатация предъявляет экстремальные требования к материаловедению, пока нет данных крупномасштабной коммерческой безопасной эксплуатации.
 
 [^45]: [PanSci: морские ветряки строить дорого и сложно, почему Тайвань всё равно мощно развивает](https://pansci.asia/archives/371116) — Партнёр по контенту по МОУ 2026-05-05. Тайваньский пролив из-за рельефа образует «трубный эффект», скорость ветра в проливе значительно выше окружающих вод, делая Тайвань одним из самых перспективных мест для морской ветроэнергетики во мире.
-
-## Источники изображений
-
-- **Внешний вид третьей АЭС (Маньшань, Хэньчунь, Пиньдун, hero)**: [Maanshan Nuclear Power Plant, Nan Wan](https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg) (фото: M. Weitzel, Wikimedia Commons, CC BY-SA 3.0)
-- **Подземное складиранище Онкало (Финляндия, Олькилуото)**: [Onkalo spent nuclear fuel repository entrance](https://commons.wikimedia.org/wiki/File:Onkalo_spent_nuclear_fuel_repository_entrance.jpg) (фото: Posiva Oy, Wikimedia Commons, CC BY-SA 4.0)
-- **Морская ветроэлектростанция Хайлун у побережья Миаоли**: [Hai Long offshore wind farm](https://commons.wikimedia.org/wiki/File:Hai_Long_offshore_wind_farm.jpg) (Wikimedia Commons, CC BY-SA 4.0)
-- **Солнечные панели на крыше автостоянки нацтрассы**: [Xihu Service Area solar panels](https://commons.wikimedia.org/wiki/File:Xihu_Service_Area_solar_panels.jpg) (Wikimedia Commons, CC BY-SA 3.0)

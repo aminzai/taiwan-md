@@ -21,9 +21,9 @@ imageLicense: 'CC BY 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg'
 relatedDiary: ['2026-05-11-161600-twmd-rewrite-daily']
 translatedFrom: 'History/台灣鐵道史.md'
-sourceCommitSha: '0ab600a6e'
-sourceContentHash: 'sha256:4de14c72bc8f2765'
-sourceBodyHash: 'sha256:c391ed0c502effad'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:711d78906f27f250'
+sourceBodyHash: 'sha256:74b314b2dea62382'
 translatedAt: '2026-07-27T22:12:17+08:00'
 ---
 
@@ -190,6 +190,16 @@ _2021، DT668 تدفعها E327 على خط سكك حديد تايوان الس�
 
 ---
 
+## مصادر الصور
+
+المقال يستخدم 3 صور برخصة CC، كلها مخزنة في `public/article-images/history/` لتجنب الربط الساخن بمصادر خارجية:
+
+- [قائد قاطرة بخارية على خط تاي دونغ 1970s](https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg) — مقدم الصورة: تشو يونغ فو، 1970s، CC BY 4.0، ويكيميديا كومنز File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg
+- [مجموعة قاطرات بخارية في مستودع تشانغ هوا الدائري 2009](https://commons.wikimedia.org/wiki/File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg) — صورة: نيسون هسو، 2009-08-30، CC BY 2.0، ويكيميديا كومنز File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg
+- [DT668 تدفعها E327 على الخط الساحلي 2021](https://commons.wikimedia.org/wiki/File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg) — صورة: تشنغ إن تشنغ، 2021-10-25، CC BY-SA 2.0، ويكيميديا كومنز File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg
+
+---
+
 ## المراجع
 
 - [فريق استكشاف ذكريات تايوان: 24 أكتوبر 1908 حفل اكتمال الخط الطولي في تايوان](https://www.twmemory.org/?p=7323)
@@ -232,16 +242,6 @@ _2021، DT668 تدفعها E327 على خط سكك حديد تايوان الس�
 [^f12]: [ويكيبيديا: قطار تزو تشيانغ](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E5%BC%B7%E8%99%9F%E5%88%97%E8%BB%8A) — سياق كامل: استطلاع جمعية استطلاع الرأي 1976، تشيه دونغ مين حسم التسمية، 1978-08-15 EMU100 دخول الخدمة، يحتوي أصل "التوقير والتقوية، الثبات عند التغير".
 
 [^f13]: [ويكيبيديا: قطار فو شينغ](https://zh.wikipedia.org/zh-tw/%E5%BE%A9%E8%88%88%E8%99%9F%E5%88%97%E8%BB%8A) — سجل 1980-07-06 بدء الخدمة، عربات مكيفة من مصنع تانغ رونغ للحديد، موقع كقطار ركاب درجة ثالثة.
-
-## مصادر الصور
-
-المقال يستخدم 3 صور برخصة CC، كلها مخزنة في `public/article-images/history/` لتجنب الربط الساخن بمصادر خارجية:
-
-- [قائد قاطرة بخارية على خط تاي دونغ 1970s](https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg) — مقدم الصورة: تشو يونغ فو، 1970s، CC BY 4.0، ويكيميديا كومنز File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg
-- [مجموعة قاطرات بخارية في مستودع تشانغ هوا الدائري 2009](https://commons.wikimedia.org/wiki/File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg) — صورة: نيسون هسو، 2009-08-30، CC BY 2.0، ويكيميديا كومنز File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg
-- [DT668 تدفعها E327 على الخط الساحلي 2021](https://commons.wikimedia.org/wiki/File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg) — صورة: تشنغ إن تشنغ، 2021-10-25، CC BY-SA 2.0، ويكيميديا كومنز File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg
-
----
 
 ## قراءة موسعة
 

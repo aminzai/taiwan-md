@@ -27,8 +27,8 @@ imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG'
 readingTime: 14
 translatedFrom: 'Culture/台灣傳統工藝與無形文化資產.md'
-sourceCommitSha: '12cf33d8c'
-sourceContentHash: 'sha256:0e116841e98362b0'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:d8ceca8d969bbb7a'
 sourceBodyHash: 'sha256:8d311f99ab1ace9b'
 translatedAt: '2026-07-26T08:13:10+08:00'
 ---
@@ -240,6 +240,14 @@ _산샤 구 역사 문화관 전시 '남과 백 시리즈' 남염 의복, 산샤
 
 ---
 
+## 사진 출처
+
+본문은 3장 Wikimedia Commons CC授权 이미지를 사용하며, 모두 `public/article-images/culture/`에 cache하여 hotlink 출처 서버를 피한다:
+
+- [Yuanxiangyuan Paper Umbrella, Taiwan 2013-07](https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG) — Photo: Outlookxp, 2013-07-20, CC BY-SA 3.0. 메이농 원향 원향원 종이 우산 문화촌 전시된 하카 유지우산 군, 우산 면 홍황흑 등 색채가 만발하여, 메이농 종이 우산 공예의 가장 대표적인 시각 아카이브 중 하나이다.
+- [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo: Anrew0517, 2010-05-01, CC BY-SA 3.0. 산이 목조각 박물관(묘리 현 산이 향 광성촌) 외관, 타이완 유일의 목조각을 주제로 한 공립 박물관이다.
+- [三峽區歷史文物館內所展示「藍與白系列」藍染服飾](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo: 寺人孟子, CC BY-SA 4.0. 산샤 구 역사 문화관 내 전시된 '남과 백 시리즈' 남염 의복, 산샤 남염 1996년 부흥 후 현대 응용의 시각 모습을 보여준다.
+
 ## 참고 자료
 
 [^1]: [토수 수조 70여 년, 소청량이 문화부 '인간국보'로 등재](https://www.cna.com.tw/news/acul/202212190092.aspx) — 중화신문사 2022-12-19 보도, 소청량 인정 당일 중화신문사 인터뷰 원문, 그의 타이완어 자서 '우(阮, 우리)는 타이완 북쪽 끝에서 남쪽 끝까지 해왔고'와 조손接班 인용문 포함.
@@ -299,11 +307,3 @@ _산샤 구 역사 문화관 전시 '남과 백 시리즈' 남염 의복, 산샤
 [^28]: [디자이너 샤오칭양: 좋은 문화가 있어야, 좋은 문창이 가능하다](https://www.thenewslens.com/article/65127) — The News Lens 샤오칭양 인터뷰, '좋은 문화가 있어야, 좋은 문창이 가능하다' 핵심 관점과 타이완 문창과 공예 관계의 상세 논의.
 
 [^29]: [평생 칠 공예에 헌신한 타이완 국보 칠공예 대가! 난터우 '메이연칠예' 왕칭솽 노선생의 장인 시간을 보다](https://www.wowlavie.com/article/ae1601482) — La Vie 잡지 왕칭솽 가문专题, 아들 왕셴민이 아버지의 '칠 공예를 잘하려면, 오래 살아야 합니다' 전述과 3대接班의 가업 공예 기록.
-
-## 사진 출처
-
-본문은 3장 Wikimedia Commons CC授权 이미지를 사용하며, 모두 `public/article-images/culture/`에 cache하여 hotlink 출처 서버를 피한다:
-
-- [Yuanxiangyuan Paper Umbrella, Taiwan 2013-07](https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG) — Photo: Outlookxp, 2013-07-20, CC BY-SA 3.0. 메이농 원향 원향원 종이 우산 문화촌 전시된 하카 유지우산 군, 우산 면 홍황흑 등 색채가 만발하여, 메이농 종이 우산 공예의 가장 대표적인 시각 아카이브 중 하나이다.
-- [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo: Anrew0517, 2010-05-01, CC BY-SA 3.0. 산이 목조각 박물관(묘리 현 산이 향 광성촌) 외관, 타이완 유일의 목조각을 주제로 한 공립 박물관이다.
-- [三峽區歷史文物館內所展示「藍與白系列」藍染服飾](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo: 寺人孟子, CC BY-SA 4.0. 산샤 구 역사 문화관 내 전시된 '남과 백 시리즈' 남염 의복, 산샤 남염 1996년 부흥 후 현대 응용의 시각 모습을 보여준다.

@@ -30,8 +30,8 @@ sporeLinks:
     "{'id': 75, 'platform': 'x', 'date': '2026-05-17', 'url': 'https://x.com/taiwandotmd/status/2055881969976873375'}",
   ]
 translatedFrom: 'People/陳建年.md'
-sourceCommitSha: 'ac1d187af'
-sourceContentHash: 'sha256:94460ad43105f980'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:ea13c4b2a458e44f'
 sourceBodyHash: 'sha256:64a1b7182260c207'
 translatedAt: '2026-07-29T05:32:33+08:00'
 ---
@@ -214,6 +214,14 @@ Aquelas canções que o avô deixou, ele não as «herdou» com força — apena
 - [Música independente de Taiwan](/pt/music/indie-music-scene) — Como a Anglehead Music e outras editoras independentes construíram outra estrada fora da indústria musical mainstream
 - [Golden Melody Awards](/pt/music/pop-music-and-golden-melody-awards) — Como o sistema Golden Melody integrou a criação musical indígena
 
+## Fontes das imagens
+
+Este artigo usa 3 imagens sob licença CC BY-SA 4.0, todas em cache em `public/article-images/people/` para evitar hotlinking:
+
+- [Pur-dull in Hsinchu 2](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_2.jpg) — Foto: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu_2.jpg (imagem principal)
+- [Pur-dull in Hsinchu (cropped)](<https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_(cropped).jpg>) — Foto: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull*in_Hsinchu*(cropped).jpg (inline 1)
+- [Pur-dull in Hsinchu](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu.jpg) — Foto: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu.jpg (inline 2)
+
 ## Referências
 
 [^1]: [Chen Chien-nien (cantor) — Wikipédia](<https://zh.wikipedia.org/zh-tw/%E9%99%B3%E5%BB%BA%E5%B9%B4_(%E6%AD%8C%E6%89%8B)>) — Verbete chinês da Wikipédia sobre Chen Chien-nien, regista data de nascimento 1 de agosto de 1967, origem aldeia Nanwang, relação com avô materno Lu Sen-pao, turma 114 de agentes, transferência para Lan-yu em setembro de 2000, aposentadoria em setembro de 2017 como subchefe do Subposto de Lan-yu.
@@ -269,11 +277,3 @@ Aquelas canções que o avô deixou, ele não as «herdou» com força — apena
 [^26]: [Sangpuy — Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%A1%91%E5%B8%83%E4%BC%8A) — Verbete do músico contemporâneo puyuma Sangpuy, regista Sangpuy mesmo círculo cultural puyuma de Taitung que Chen Chien-nien, após sismo de 921 integrou Flying Fish Cloud Leopard Music Workshop, gravou álbuns com Hu Te-fu entre outros, reflete influência de Chen Chien-nien na geração posterior de músicos indígenas.
 
 [^27]: [Chen Chien-nien — Banco Nacional de Memória Cultural](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Event&id=273173) — Verbete do Ministério da Cultura, regista posição como transmissor de Lu Sen-pao, estilo de fusão puyuma-mandarim, prémios: 11º Golden Melody Rei da Canção, 18º Golden Melody Melhor Produtor de Álbum Instrumental, 20º Golden Melody Melhor Produtor de Álbum Pop, 33º Golden Melody Melhor Álbum em Língua Indígena.
-
-## Fontes das imagens
-
-Este artigo usa 3 imagens sob licença CC BY-SA 4.0, todas em cache em `public/article-images/people/` para evitar hotlinking:
-
-- [Pur-dull in Hsinchu 2](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_2.jpg) — Foto: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu_2.jpg (imagem principal)
-- [Pur-dull in Hsinchu (cropped)](<https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_(cropped).jpg>) — Foto: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull*in_Hsinchu*(cropped).jpg (inline 1)
-- [Pur-dull in Hsinchu](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu.jpg) — Foto: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu.jpg (inline 2)

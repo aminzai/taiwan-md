@@ -168,6 +168,16 @@ Dans le dernier paragraphe de l'article « Le tramway de Nieh Yung-jen » dans B
 - [Mouvement du Tournesol](/fr/society/sunflower-movement) — Le contexte historique de cette publicité du New York Times à l'aube de 2014
 - [Nouveaux médias à Taïwan](/fr/art/taiwan-new-media-art) — La position de l'atelier Aaron Nieh Workshop dans la culture visuelle contemporaine taïwanaise
 
+## Crédits des images
+
+Cet article utilise 5 images, toutes mises en cache dans `public/article-images/people/` pour éviter les liens directs vers les serveurs sources. Les 3 premières sont sous licence CC de Wikimedia Commons, les 2 dernières sont des citations en fair-use à fin éditoriale de fichiers publiés par des médias (directement liées à la discussion publique sur les œuvres de design de Nieh Yung-jen) :
+
+- **hero** : [Nieh Yung-jen 2018](<https://commons.wikimedia.org/wiki/File:%E8%81%B6%E6%B0%B8%E7%9C%9F_(40799138092).jpg>) — Photo : Gene Wang (utilisateur Flickr 56814157@N03), 2018-03-16, CC BY-SA 2.0
+- **inline 1** : [Mouvement du Tournesol 20140323 Yuan législatif](https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B%2020140323%20%E7%AB%8B%E6%B3%95%E9%99%A2%207045%20%2814127449295%29.jpg) — Photo : Ray Swi-hy (Flickr), 2014-03-23 17:03, CC BY-SA 2.0
+- **inline 2** : [Publicité « Democracy at 4am » en première page du New York Times (2014-03-30)](https://www.thenewslens.com/article/2866) — Design : Nieh Yung-jen, mis en libre téléchargement via [4am.tw](https://4am.tw/) cette année-là ; image tirée du reportage de The News Lens (version archivée du blog d'i-Chen Tsai, mars 2014) — citation en fair-use à fin éditoriale (œuvre de crowdfunding citoyen + diffusion publique selon l'intention originale du designer)
+- **inline 3** : [Campagne présidentielle de Tsai Ing-wen, 2016](<https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg>) — Photo : MiNe (Flickr), 2015-10-18, CC BY 2.0
+- **inline 4** : [Processus de conception de la nouvelle police standard de Taipower par Nieh Yung-jen (2026-05-08)](https://www.mirrormedia.mg/story/20260508edi031) — Capture d'écran de la [publication Facebook publique](https://www.facebook.com/somekidding/posts/1384626443696723) de Nieh Yung-jen (compte @somekidding vérifié), image hébergée par le reportage de Mirror Media — citation en fair-use à fin éditoriale (publication publique + divulgation du processus de conception du logo pour un sujet d'intérêt public)
+
 ## Références
 
 [^1]: [Nieh Yung-jen — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%81%B6%E6%B0%B8%E7%9C%9F) — Biographie, parcours éducatif, palmarès, année d'admission à l'AGI, numéros des trois Golden Melody Awards pour les pochettes d'album (21e, 25e, 26e éditions), collaborateurs dans l'édition et la musique (Luo Yihun, Gan Yao-ming, Rye Field, China Times, INK, Linking), etc.
@@ -231,13 +241,3 @@ Dans le dernier paragraphe de l'article « Le tramway de Nieh Yung-jen » dans B
 [^30]: [CNA 2026-05-12 : Controverse sur la police du logo de Taipower — le ministre de la Culture Li Yuan : le design est une profession, il faut « revenir au professionnalisme »](https://www.cna.com.tw/news/aipl/202605120035.aspx) — Déclarations du ministre de la Culture Li Yuan lors d'une interview au Yuan législatif le 12 mai 2026, soulignant l'indépendance et le caractère professionnel de la valeur du design.
 
 [^31]: [FTV News 2026-05-12 : L'optimisation de l'identité d'entreprise de Taipower suscite la controverse — clarification officielle : « concilier l'ancien et le nouveau », les anciennes enseignes ne seront pas remplacées](https://www.ftvnews.com.tw/news/detail/2026512W0263) — Reportage du 12 mai 2026, incluant les détails de l'ajustement du plan d'exécution publié par Taipower en réponse à la pression de l'opinion publique.
-
-## Crédits des images
-
-Cet article utilise 5 images, toutes mises en cache dans `public/article-images/people/` pour éviter les liens directs vers les serveurs sources. Les 3 premières sont sous licence CC de Wikimedia Commons, les 2 dernières sont des citations en fair-use à fin éditoriale de fichiers publiés par des médias (directement liées à la discussion publique sur les œuvres de design de Nieh Yung-jen) :
-
-- **hero** : [Nieh Yung-jen 2018](<https://commons.wikimedia.org/wiki/File:%E8%81%B6%E6%B0%B8%E7%9C%9F_(40799138092).jpg>) — Photo : Gene Wang (utilisateur Flickr 56814157@N03), 2018-03-16, CC BY-SA 2.0
-- **inline 1** : [Mouvement du Tournesol 20140323 Yuan législatif](https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B%2020140323%20%E7%AB%8B%E6%B3%95%E9%99%A2%207045%20%2814127449295%29.jpg) — Photo : Ray Swi-hy (Flickr), 2014-03-23 17:03, CC BY-SA 2.0
-- **inline 2** : [Publicité « Democracy at 4am » en première page du New York Times (2014-03-30)](https://www.thenewslens.com/article/2866) — Design : Nieh Yung-jen, mis en libre téléchargement via [4am.tw](https://4am.tw/) cette année-là ; image tirée du reportage de The News Lens (version archivée du blog d'i-Chen Tsai, mars 2014) — citation en fair-use à fin éditoriale (œuvre de crowdfunding citoyen + diffusion publique selon l'intention originale du designer)
-- **inline 3** : [Campagne présidentielle de Tsai Ing-wen, 2016](<https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg>) — Photo : MiNe (Flickr), 2015-10-18, CC BY 2.0
-- **inline 4** : [Processus de conception de la nouvelle police standard de Taipower par Nieh Yung-jen (2026-05-08)](https://www.mirrormedia.mg/story/20260508edi031) — Capture d'écran de la [publication Facebook publique](https://www.facebook.com/somekidding/posts/1384626443696723) de Nieh Yung-jen (compte @somekidding vérifié), image hébergée par le reportage de Mirror Media — citation en fair-use à fin éditoriale (publication publique + divulgation du processus de conception du logo pour un sujet d'intérêt public)

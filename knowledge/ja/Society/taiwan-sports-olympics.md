@@ -20,8 +20,8 @@ lastVerified: 2026-06-19
 lastHumanReview: false
 featured: false
 translatedFrom: 'Society/台灣體育發展與奧運.md'
-sourceCommitSha: 'b1f23fd8'
-sourceContentHash: 'sha256:cce1a0626b10ac89'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:f86cdecbd23b7e4f'
 sourceBodyHash: 'sha256:77348d4fbb7640a8'
 translatedAt: '2026-06-20T00:37:14+08:00'
 image: '/article-images/society/yang-chuan-kwang-1960.webp'
@@ -149,6 +149,10 @@ NHKは「台湾です」と言い、France 2は「私たちがよく知る台湾
 - [莊智淵](/ja/people/chuang-chih-yuan-table-tennis-legend)：卓球でアジア四連覇を果たした孤独な王者
 - [台湾野球文化](/ja/culture/taiwan-baseball-culture)：嘉農からCPBLまでの百年野球史
 
+## 画像出典
+
+メインセッションで画像を補完予定。
+
 ## 参考資料
 
 [^1]: カナダと中華人民共和国の国交樹立（1970/10/13）；中華民国との断交。ウィキペディア「中加関係」。
@@ -260,7 +264,3 @@ NHKは「台湾です」と言い、France 2は「私たちがよく知る台湾
 [^54]: ETtoday 2024 報道「2028ロサンゼルス・オリンピックで野球が6チームで復帰」（[sports.ettoday.net/news/2941808](https://sports.ettoday.net/news/2941808)）；Yahooスポーツ報道 2028年野球・ソフトボール復帰。
 
 [^55]: 2024 Premier12 世界野球12強大会、台湾初の国際A級大会優勝；台北市政府イベント資料。
-
-## 画像出典
-
-メインセッションで画像を補完予定。

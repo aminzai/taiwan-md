@@ -20,8 +20,8 @@ lastVerified: 2026-05-10
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/台灣無人機產業.md'
-sourceCommitSha: 'c2412970f'
-sourceContentHash: 'sha256:9a74d696840dfd44'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:4412f50a29e8bcfe'
 sourceBodyHash: 'sha256:6b0ed5d3cd521366'
 translatedAt: '2026-07-25T21:33:44+08:00'
 image: '/article-images/technology/chung-shyang-ii-uav-2007.webp'
@@ -162,6 +162,13 @@ Entre la ligne de production de Thunder Tiger à Taichung, commencée en 1979 av
 - [Développement de l'industrie spatiale taïwanaise](/fr/technology/taiwan-space-industry-development) — Des drones aux satellites, l'ambition céleste de Taïwan
 - [Industrie robotique taïwanaise](/fr/technology/taiwan-robotics-industry) — Un autre cas de « forts en composants, faibles en ensembles », partageant les mêmes difficultés structurelles avec les drones
 
+## Sources d'images
+
+Cet article utilise 2 images sous licence domaine public / CC, toutes mises en cache dans `public/article-images/technology/` pour éviter les liens chauds vers les serveurs sources :
+
+- **Hero** : [Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) — Photo : Kliu1, 11 octobre 2007, exposition du NCSIST Albatross (série Chung Shyang II) lors du défilé du 46e anniversaire de la République de Chine. Domaine public via Wikimedia Commons.
+- **Inline** : [UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) — Photo : Xuan Shi Sheng, 4 mai 2013, exposition du drone NCSIST Ruiyuan n° 9717 lors de la journée portes ouvertes du quai n°11 du port militaire Zhongzheng à Kaohsiung. CC BY-SA 3.0 via Wikimedia Commons.
+
 ## Références
 
 [^1]: [Aviation Week : Taiwan's Thunder Tiger Eyes U.S. Army's Drone Dominance Program](https://aviationweek.com/defense/aircraft-propulsion/taiwans-thunder-tiger-eyes-us-armys-drone-dominance-program) — Rapport sur le drone FPV « Overkill » de Thunder Tiger, premier drone taïwanais à obtenir la certification de la liste bleue américaine.
@@ -219,10 +226,3 @@ Entre la ligne de production de Thunder Tiger à Taichung, commencée en 1979 av
 [^20]: [TechNews : Details of MoD 1.25 trillion special budget made public](https://technews.tw/2026/01/20/taiwan-mnd-unveiled-1250-billion-twd-budget-details/) + [CNA : 1.25 trillion special budget, MoD publicly plans to purchase quantities of 7 types of weapons](https://www.cna.com.tw/news/aipl/202601190177.aspx) — 1 250 milliards de NTD sur 8 ans de 2026 à 2033, sept grands projets ; 335 milliards de NTD pour les véhicules sans pilote et les systèmes de contre-mesure / plus de 210 000 drones / mille navires sans pilote.
 
 [^21]: [The Reporter : Entering the Ukrainian drone production line (Part 1): From no production to 4.5 million per year](https://www.twreporter.org/a/ukraine-drone-wartime-supplychain) + [TechNews : Direct communication between the front line and manufacturers, Ukrainian drone industry booms](https://technews.tw/2025/04/30/the-ukrainians-drone-boom-during-the-war/) — Courbe de production ukrainienne de près de 300 000 unités en 2023 → plus de 2 millions en 2024 → 4,5 millions en 2025, une fonction de demande inversée par la consommation au front de 200 000 à 400 000 unités par mois.
-
-## Sources d'images
-
-Cet article utilise 2 images sous licence domaine public / CC, toutes mises en cache dans `public/article-images/technology/` pour éviter les liens chauds vers les serveurs sources :
-
-- **Hero** : [Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) — Photo : Kliu1, 11 octobre 2007, exposition du NCSIST Albatross (série Chung Shyang II) lors du défilé du 46e anniversaire de la République de Chine. Domaine public via Wikimedia Commons.
-- **Inline** : [UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) — Photo : Xuan Shi Sheng, 4 mai 2013, exposition du drone NCSIST Ruiyuan n° 9717 lors de la journée portes ouvertes du quai n°11 du port militaire Zhongzheng à Kaohsiung. CC BY-SA 3.0 via Wikimedia Commons.

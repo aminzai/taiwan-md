@@ -18,8 +18,8 @@ imageCredit: 'Arusanov'
 imageLicense: 'Public domain'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG'
 translatedFrom: 'Economy/台灣前50大企業.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:fd16d89c1109096c'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:22fc95c656db9409'
 sourceBodyHash: 'sha256:645f8f42e79639a7'
 translatedAt: '2026-07-29T18:45:51+08:00'
 ---
@@ -161,6 +161,14 @@ _صورة جوية لمجمع Formosa Plastics السادس الصناعي في 
 - [الدفاع التايواني والتحديث العسكري](/ar/society/taiwan-defense-modernization) — درع السيليكون وارتباط الخمسين الكبرى بالجغرافيا السياسية
 - [حدائق العلوم التايوانية](/ar/technology/science-park-development) — قواعد إنتاج 11 مقعد أشباه موصلات في الخمسين الكبرى، النسخة المكانية لتركيز قيمة إنتاج ثلاث حدائق
 
+## مصادر الصور
+
+المقال يستخدم 3 صور ملكية عامة / مرخصة Creative Commons، كلها مخزنة مؤقتاً في `public/article-images/economy/` لتجنب الربط الساخن بالخوادم المصدر:
+
+- **الصورة الرئيسية**: [مصنع TSMC شينتشو](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) — Photo: Arusanov, 2009-07-20، مظهر مصنع TSMC في حديقة شينتشو العلمية. ملكية عامة via Wikimedia Commons.
+- **الصورة المضمنة 1 (تايبيه 101 / البورصة)**: [Taipei 101 20230511 114624](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg) — Photo: Anas1712, 2023-05-11، مظهر برج تايبيه 101، موقع مقر بورصة تايوان للأوراق المالية. CC BY 4.0 via Wikimedia Commons.
+- **الصورة المضمنة 2 (السادس في مايلياو)**: [Formosa Plastics Group Mail-Liao Industrial Complex, Yunlin (Taiwan)](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>) — Photo: Malcolm Koo (User:Mk2010), 2014-03-15، صورة جوية لمجمع Formosa Plastics السادس الصناعي في مايلياو، يونلين. CC BY-SA 3.0 via Wikimedia Commons.
+
 ## المراجع
 
 [^1]: [Tom's Hardware: جنسن هوانغ يتناول العشاء في سوق تايبيه الليلي مع رؤساء شركات التكنولوجيا التايوانية](https://www.tomshardware.com/tech-industry/jensen-huang-dines-at-taipei-night-market-with-taiwan-tech-ceos) — سجل إعلامي 2024-05-28 لعشاء جنسن هوانغ، موريس تشانغ، سي. سي. وي، بيلي لين، ياو رين-شي الخمسة في سوق نينغشيا الليلي.
@@ -224,11 +232,3 @@ _صورة جوية لمجمع Formosa Plastics السادس الصناعي في 
 [^30]: [The Reporter: تحقيق طويل الأمد في مخاطر صحة سكان السادس](https://www.twreporter.org/a/fpc-sixth-naphtha-cracker-contaminant-detection) — دراسة البروفيسور تشان تشانغ-تشيوان كلية الصحة العامة جامعة تايوان الوطنية 2012: تركيز مستقلبات المعادن الثقيلة في بول سكان ضمن 10 كم يساوي 5.5 ضعف خارج 10 كم، مصنع السادس 132 مادة سامة مسرطنة، انبعاثات PM2.5 سنوية 140 ألف طن.
 
 [^31]: [مؤسسة مواطني الأرض: تحليل مصادر تلوث الهواء بصناعة الصلب في كاوهسيونغ](https://www.cet-taiwan.org/) — 80-90% من تلوث صناعة الصلب في كاوهسيونغ من China Steel، PM 36% وSOx 32% من صناعة الصلب، China Steel استثمار 4.756 مليار 2017-2020 تحسينات مقارنة أرقام قبل وبعد.
-
-## مصادر الصور
-
-المقال يستخدم 3 صور ملكية عامة / مرخصة Creative Commons، كلها مخزنة مؤقتاً في `public/article-images/economy/` لتجنب الربط الساخن بالخوادم المصدر:
-
-- **الصورة الرئيسية**: [مصنع TSMC شينتشو](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) — Photo: Arusanov, 2009-07-20، مظهر مصنع TSMC في حديقة شينتشو العلمية. ملكية عامة via Wikimedia Commons.
-- **الصورة المضمنة 1 (تايبيه 101 / البورصة)**: [Taipei 101 20230511 114624](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg) — Photo: Anas1712, 2023-05-11، مظهر برج تايبيه 101، موقع مقر بورصة تايوان للأوراق المالية. CC BY 4.0 via Wikimedia Commons.
-- **الصورة المضمنة 2 (السادس في مايلياو)**: [Formosa Plastics Group Mail-Liao Industrial Complex, Yunlin (Taiwan)](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>) — Photo: Malcolm Koo (User:Mk2010), 2014-03-15، صورة جوية لمجمع Formosa Plastics السادس الصناعي في مايلياو، يونلين. CC BY-SA 3.0 via Wikimedia Commons.

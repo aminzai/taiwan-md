@@ -30,8 +30,8 @@ sporeLinks:
     "{'id': 75, 'platform': 'x', 'date': '2026-05-17', 'url': 'https://x.com/taiwandotmd/status/2055881969976873375'}",
   ]
 translatedFrom: 'People/陳建年.md'
-sourceCommitSha: 'ac1d187af'
-sourceContentHash: 'sha256:94460ad43105f980'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:ea13c4b2a458e44f'
 sourceBodyHash: 'sha256:64a1b7182260c207'
 translatedAt: '2026-07-29T07:32:37+08:00'
 ---
@@ -214,6 +214,14 @@ _25 марта 2018 года, Чэнь Цзяньнянь на небольшо�
 - [Независимая музыка Тайваня](/music/台灣獨立音樂) — как «Цзяньтоу» и другие независимые лейблы строили другой путь вне основной музыкальной индустрии
 - [Золотая мелодия](/ru/music/pop-music-and-golden-melody-awards) — как система «Золотой мелодии» включила творчество коренных народов
 
+## Источники изображений
+
+В статье использовано 3 фото под лицензией CC BY-SA 4.0, все кэшированы в `public/article-images/people/` для избежания горячих ссылок:
+
+- [Pur-dull in Hsinchu 2](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_2.jpg) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu_2.jpg (главное)
+- [Pur-dull in Hsinchu (cropped)](<https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_(cropped).jpg>) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull*in_Hsinchu*(cropped).jpg (встроенное 1)
+- [Pur-dull in Hsinchu](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu.jpg) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu.jpg (встроенное 2)
+
 ## Ссылки
 
 [^1]: [Чэнь Цзяньнянь (певец) — Википедия](<https://zh.wikipedia.org/zh-tw/%E9%99%B3%E5%BB%BA%E5%B9%B4_(%E6%AD%8C%E6%89%8B)>) — Китайская Википедия, статья Чэнь Цзяньняня, дата рождения 1 августа 1967 года, племя Наньвань, связь с внешним дедушкой Лу Сэньбао, 114-й набор полицейской академии, перевод на Ланью в сентябре 2000 года, до пенсии в сентябре 2017 года — заместитель начальника Ланьюйского отделения.
@@ -269,11 +277,3 @@ _25 марта 2018 года, Чэнь Цзяньнянь на небольшо�
 [^26]: [Саньбуй — Википедия](https://zh.wikipedia.org/zh-tw/%E6%A1%91%E5%B8%83%E4%BC%8A) — Современный пуйума-музыкант Саньбуй, тот же культурный круг Тайдун пуйума, после 921 землетрясения присоединился к музыкальной труппе «Летучая рыба-облачный леопард», совместно с Ху Дэфу и др. записывал альбомы, отражает влияние Чэнь Цзяньняня на последующие поколения музыкантов коренных народов.
 
 [^27]: [Чэнь Цзяньнянь — Национальный архив культурной памяти](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Event&id=273173) — Культурный департамент, Национальный архив культурной памяти, позиция как наследника Лу Сэньбао, стиль пуйума + мандарин, 11-я «Золотая мелодия» король, 18-я «Золотая мелодия» лучший продюсер инструментальной поп-музыки, 20-я «Золотая мелодия» лучший продюсер поп-альбома, 33-я «Золотая мелодия» лучший альбом на языке коренных народов — полная хронология наград.
-
-## Источники изображений
-
-В статье использовано 3 фото под лицензией CC BY-SA 4.0, все кэшированы в `public/article-images/people/` для избежания горячих ссылок:
-
-- [Pur-dull in Hsinchu 2](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_2.jpg) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu_2.jpg (главное)
-- [Pur-dull in Hsinchu (cropped)](<https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_(cropped).jpg>) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull*in_Hsinchu*(cropped).jpg (встроенное 1)
-- [Pur-dull in Hsinchu](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu.jpg) — Photo: Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu.jpg (встроенное 2)

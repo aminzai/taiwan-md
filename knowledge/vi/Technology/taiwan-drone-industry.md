@@ -20,8 +20,8 @@ lastVerified: 2026-05-10
 lastHumanReview: false
 featured: false
 translatedFrom: 'Technology/台灣無人機產業.md'
-sourceCommitSha: 'c2412970f'
-sourceContentHash: 'sha256:9a74d696840dfd44'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:4412f50a29e8bcfe'
 sourceBodyHash: 'sha256:6b0ed5d3cd521366'
 translatedAt: '2026-07-25T19:27:02+08:00'
 image: '/article-images/technology/chung-shyang-ii-uav-2007.webp'
@@ -162,6 +162,13 @@ Dây chuyền năm 1979 bắt đầu từ máy bay đồ chơi điều khiển t
 - [Phát triển Công nghiệp Không gian Đài Loan](/technology/台灣太空產業發展) — Từ máy bay không người lái đến vệ tinh, tham vọng bầu trời của Đài Loan
 - [Công nghiệp Robot Đài Loan](/technology/台灣機器人產業) — Một ví dụ khác "linh kiện mạnh, máy hoàn chỉnh yếu", có cùng vấn đề cấu trúc với máy bay không người lái
 
+## Nguồn hình ảnh
+
+Bài viết sử dụng 2 hình ảnh công cộng / CC, toàn bộ cache tại `public/article-images/technology/` tránh hotlink máy chủ nguồn:
+
+- **Hero**: [Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) — Ảnh: Kliu1, 11 tháng 10 năm 2007 Hội nghị Quốc khánh Trung Hoa Dân Quốc trưng bày Chung Shyang II (dòng NCSIST Albatross) của Viện Trung-Sung. Public domain qua Wikimedia Commons.
+- **Inline**: [UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) — Ảnh: Huyền Sử Sinh, 4 tháng 5 năm 2013 trưng bày máy bay không người lái Nhược Phi 9717 Viện Trung-Sung tại Ngày mở cảng số 11, cảng quân sự中正 (Trung Chánh) Cao Hùng. CC BY-SA 3.0 qua Wikimedia Commons.
+
 ## Tài liệu tham khảo
 
 [^1]: [Aviation Week: Taiwan's Thunder Tiger Eyes U.S. Army's Drone Dominance Program](https://aviationweek.com/defense/aircraft-propulsion/taiwans-thunder-tiger-eyes-us-armys-drone-dominance-program) — Phóng sự về máy bay không người lái FPV "Overkill" của Lei Hu trở thành máy bay không người lái đầu tiên của Đài Loan vượt qua chứng nhận Danh sách Xanh Hoa Kỳ.
@@ -219,10 +226,3 @@ Dây chuyền năm 1979 bắt đầu từ máy bay đồ chơi điều khiển t
 [^20]: [TechNews: Chi tiết ngân sách đặc biệt 1,25 nghìn tỷ NTD Bộ Quốc phòng công khai](https://technews.tw/2026/01/20/taiwan-mnd-unveiled-1250-billion-twd-budget-details/) + [CNA: Ngân sách đặc biệt 1,25 nghìn tỷ NTD Bộ Quốc phòng công khai lên kế hoạch mua 7 loại vũ khí số lượng](https://www.cna.com.tw/news/aipl/202601190177.aspx) — 8 năm 2026-2033 tổng cộng 1,25 nghìn tỷ NTD, bảy hạng mục; Máy bay không người lái và hệ thống phản chế 3.350 tỷ NTD / hơn 210.000 máy / hơn 1.000 tàu không người lái.
 
 [^21]: [The Reporter: Bước vào dây chuyền sản xuất máy bay không người lái Ukraine (phần 1): Từ không ai làm đến 4,5 triệu máy hàng năm](https://www.twreporter.org/a/ukraine-drone-wartime-supplychain) + [TechNews: Giao tiếp trực tiếp với nhà sản xuất ở tiền tuyến, bùng nổ công nghiệp máy bay không người lái Ukraine](https://technews.tw/2025/04/30/the-ukrainians-drone-boom-during-the-war/) — Ukraine 2023 gần 300.000 máy → 2024 hơn 2 triệu → 2025 4,5 triệu, đường cong 200.000-400.000 máy/tháng là hàm nhu cầu được đẩy ngược lại bởi tiêu hao tiền tuyến.
-
-## Nguồn hình ảnh
-
-Bài viết sử dụng 2 hình ảnh công cộng / CC, toàn bộ cache tại `public/article-images/technology/` tránh hotlink máy chủ nguồn:
-
-- **Hero**: [Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) — Ảnh: Kliu1, 11 tháng 10 năm 2007 Hội nghị Quốc khánh Trung Hoa Dân Quốc trưng bày Chung Shyang II (dòng NCSIST Albatross) của Viện Trung-Sung. Public domain qua Wikimedia Commons.
-- **Inline**: [UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) — Ảnh: Huyền Sử Sinh, 4 tháng 5 năm 2013 trưng bày máy bay không người lái Nhược Phi 9717 Viện Trung-Sung tại Ngày mở cảng số 11, cảng quân sự中正 (Trung Chánh) Cao Hùng. CC BY-SA 3.0 qua Wikimedia Commons.

@@ -28,8 +28,8 @@ imageCredit: 'justfont / flyingV'
 imageLicense: 'Fair use editorial commentary'
 imageSource: 'https://www.flyingv.cc/projects/8250'
 translatedFrom: 'Technology/justfont與台灣字體發展.md'
-sourceCommitSha: 'e773ef6b0'
-sourceContentHash: 'sha256:6e31a2264dcded4f'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:50da80d49885286c'
 sourceBodyHash: 'sha256:dcea1d33e3c8824c'
 translatedAt: '2026-07-28T03:07:49+08:00'
 ---
@@ -250,6 +250,17 @@ _Чжань Цзегуань за экраном правит оцифрован
 - [Общественные движения и гражданское участие](/society/社會運動與公民參與): энергия такого «ссоры за общественные дела», как спор о Цзиньсюань, в тайваньском обществе имеет более крупный контекст.
 - [Подводные кабели](/technology/海底電纜): другой вид инфраструктуры, которой все пользуются каждый день, а почти никто не видит.
 
+## Источники изображений
+
+- **Обложка**: главное визуальное фото страницы краудфандинга Цзиньсюань на flyingV. © justfont / flyingV, fair use editorial commentary. Источник: [страница проекта flyingV](https://www.flyingv.cc/projects/8250)
+- **Автобусный дисплей Тайбэя**: Фото: BlubiNeko, 2022, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), через Wikimedia Commons
+- **Свинцовые шрифты Рисин чжую цзыхань**: Фото: Johan Jönsson, 2023, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), через Wikimedia Commons
+- **Официальный образец Цзиньсюань**: © justfont, материалы предоставлены justfont, fair use editorial commentary (согласовано). Источник: [блог justfont пресс-релиз Цзиньсюань](https://blog.justfont.com/2015/08/introducing-jinshuan/)
+- **Официальный визуал jf open фэньюань**: © justfont, официальный репозиторий GitHub (сам шрифт OFL 1.1). Источник: [open-huninn-font](https://github.com/justfont/open-huninn-font)
+- **Сравнение Ланьян минти и «Цзяньюй цзи»**: © justfont, материалы предоставлены justfont, fair use editorial commentary (согласовано). Источник: [официальная страница Ланьян минти justfont](https://justfont.com/lanyangming/)
+- **Официальный образец Ганцзай ми**: © justfont, материалы предоставлены justfont, fair use editorial commentary (согласовано). Источник: [официальная страница Ганцзай ми justfont](https://justfont.com/kamabit/)
+- **Рабочее фото Чжань Цзегуань**: © justfont, материалы предоставлены justfont, fair use editorial commentary (согласовано). Источник: [блог justfont Рисин сунти эрхао](https://blog.justfont.com/2025/06/rixing-song2-revivals/)
+
 ## Ссылки
 
 [^1]: [flyingV: страница проекта краудфандинга Цзиньсюань](https://www.flyingv.cc/projects/8250) — первичный запись краудфандинга, итого NT$25 930 099, 7667 спонсоров, цель 1,5 млн.
@@ -381,14 +392,3 @@ _Чжань Цзегуань за экраном правит оцифрован
 [^64]: [Википедия: justfont (就是字)](https://zh.wikipedia.org/zh-tw/%E5%B0%B1%E6%98%AF%E5%AD%97) — запись истории компании: фон Е Чюньлинь в Хуакане, основана 2010, Су Вэйсян 2012 вступил как первый штатный сотрудник.
 
 [^65]: [Википедия: Вэйфэнь шувэй (威鋒數位)](https://zh.wikipedia.org/wiki/%E5%A8%81%E9%8B%92%E6%95%B8%E4%BD%8D) — запись: Хуакан основана сентябре 1987 в Тайбэе, первая тайваньская компания цифровых шрифтов, и 2001 переименована в Вэйфэнь шувэй.
-
-## Источники изображений
-
-- **Обложка**: главное визуальное фото страницы краудфандинга Цзиньсюань на flyingV. © justfont / flyingV, fair use editorial commentary. Источник: [страница проекта flyingV](https://www.flyingv.cc/projects/8250)
-- **Автобусный дисплей Тайбэя**: Фото: BlubiNeko, 2022, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), через Wikimedia Commons
-- **Свинцовые шрифты Рисин чжую цзыхань**: Фото: Johan Jönsson, 2023, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), через Wikimedia Commons
-- **Официальный образец Цзиньсюань**: © justfont, материалы предоставлены justfont, fair use editorial commentary (согласовано). Источник: [блог justfont пресс-релиз Цзиньсюань](https://blog.justfont.com/2015/08/introducing-jinshuan/)
-- **Официальный визуал jf open фэньюань**: © justfont, официальный репозиторий GitHub (сам шрифт OFL 1.1). Источник: [open-huninn-font](https://github.com/justfont/open-huninn-font)
-- **Сравнение Ланьян минти и «Цзяньюй цзи»**: © justfont, материалы предоставлены justfont, fair use editorial commentary (согласовано). Источник: [официальная страница Ланьян минти justfont](https://justfont.com/lanyangming/)
-- **Официальный образец Ганцзай ми**: © justfont, материалы предоставлены justfont, fair use editorial commentary (согласовано). Источник: [официальная страница Ганцзай ми justfont](https://justfont.com/kamabit/)
-- **Рабочее фото Чжань Цзегуань**: © justfont, материалы предоставлены justfont, fair use editorial commentary (согласовано). Источник: [блог justfont Рисин сунти эрхао](https://blog.justfont.com/2025/06/rixing-song2-revivals/)

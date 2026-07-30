@@ -28,8 +28,8 @@ sporeLinks:
     "{'id': 50, 'platform': 'x', 'date': '2026-04-28', 'url': 'https://x.com/taiwandotmd/status/2049079839244828881'}",
   ]
 translatedFrom: 'People/林琪兒.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:386b664532b04d0d'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:01f29f97ef180820'
 sourceBodyHash: 'sha256:85e505009fb05c24'
 translatedAt: '2026-07-29T04:32:47+08:00'
 ---
@@ -210,6 +210,14 @@ Se aquele laudo de asma estivesse certo, hoje ele seria talvez um piloto da For�
 - [Os construtores de montanhas: a aposta do século (造山者：世紀的賭注)](/pt/art/mountain-makers-tsmc-documentary) — Documentário de 2025 de Hsiao Ju-chen (蕭菊貞), entrevistando pioneiros do setor de semicondutores, ecoando a trajetória internacional da mesma geração tecnológica de Taiwan
 - [Desenvolvimento da indústria espacial de Taiwan (台灣太空產業發展)](/technology/台灣太空產業發展) — Panorama dos satélites, foguetes e políticas espaciais próprios de Taiwan, para entender a base industrial local que ele encontrou no retorno
 
+## Créditos das imagens
+
+Este artigo usa três imagens de domínio público (Public domain), todas fotografadas por funcionários ou fotógrafos contratados da NASA, reutilizáveis mediante crédito conforme a política de mídia da NASA. Os arquivos estão em cache em `public/article-images/people/`, evitando _hotlink_ aos servidores da Wikimedia:
+
+- [Kjell Lindgren in EMU (cropped)](<https://commons.wikimedia.org/wiki/File:Kjell_Lindgren_in_EMU_(cropped).jpg>) — Foto: NASA/Bill Stafford, 27/08/2014, Domínio público, via Wikimedia Commons
+- [Expedition 42 backup crew members in front of the Soyuz TMA spacecraft mock-up in Star City, Russia](https://commons.wikimedia.org/wiki/File:Expedition_42_backup_crew_members_in_front_of_the_Soyuz_TMA_spacecraft_mock-up_in_Star_City,_Russia.jpg) — Foto: NASA/Stephanie Stoll, 30/10/2014, Domínio público, via Wikimedia Commons
+- [NASA astronaut and SpaceX Crew-4 Commander Kjell Lindgren training](https://www.nasa.gov/image-feature/nasa-astronaut-and-spacex-crew-4-commander-kjell-lindgren-0/) — Foto: NASA, 15/02/2022, NASA Image ID jsc2022e011416, Lin Kuei-er em treinamento lateral no modelo da Crew Dragon, Domínio público, NASA
+
 ## Referências
 
 [^1]: [Marie Claire Taiwan, entrevista com o astronauta taiwanês-americano da NASA Lin Kuei-er](https://www.marieclaire.com.tw/lifestyle/news/93023) — Reportagem da mídia chinesa compilando a carreira: diagnóstico errado de asma no 3.º ano da USAFA, reteste 11 anos depois revertendo o laudo, admissão na NASA em 2009.
@@ -273,11 +281,3 @@ Se aquele laudo de asma estivesse certo, hoje ele seria talvez um piloto da For�
 [^31]: [NASA, STS-1 Mission](https://www.nasa.gov/mission/sts-1/) — Registro oficial da NASA da missão STS-1 da Columbia em 12/04/1981, primeiro lançamento do programa ônibus espacial. Lindgren na entrevista à PTS menciona explicitamente ter visto "o primeiro lançamento do ônibus espacial em 1981" no segundo ano, com a televisão trazida pela professora.
 
 [^32]: [Astronaut Kjell Lindgren's career path — Science News Explores](https://www.snexplores.org/article/astronaut-kjell-lindgren-career-path-medical-school-space-artemis-team) — Entrevista de 2024 para Science News for Students, aponta explicitamente que o diagnóstico errado de asma ocorreu após a formatura na USAFA, durante o _pilot training_ ("after graduating from the U.S. Air Force Academy and enrolling in pilot training"), com citação literal de Lindgren: "Being medically discharged from the Air Force was a very challenging time. It obliterated this dream of not only becoming a pilot but really the dream of getting to serve as an astronaut at any point." Cruzado com: [Colorado Springs Gazette, reportagem de 2024](https://gazette.com/military/nasa-astronaut-tells-air-force-symposium-how-his-dream-of-spaceflight-had-been-obliterated/article_f3635e08-d1c6-11ee-8cc0-f3c7e371183b.html) mesma narrativa de diagnóstico errado durante _pilot training_.
-
-## Créditos das imagens
-
-Este artigo usa três imagens de domínio público (Public domain), todas fotografadas por funcionários ou fotógrafos contratados da NASA, reutilizáveis mediante crédito conforme a política de mídia da NASA. Os arquivos estão em cache em `public/article-images/people/`, evitando _hotlink_ aos servidores da Wikimedia:
-
-- [Kjell Lindgren in EMU (cropped)](<https://commons.wikimedia.org/wiki/File:Kjell_Lindgren_in_EMU_(cropped).jpg>) — Foto: NASA/Bill Stafford, 27/08/2014, Domínio público, via Wikimedia Commons
-- [Expedition 42 backup crew members in front of the Soyuz TMA spacecraft mock-up in Star City, Russia](https://commons.wikimedia.org/wiki/File:Expedition_42_backup_crew_members_in_front_of_the_Soyuz_TMA_spacecraft_mock-up_in_Star_City,_Russia.jpg) — Foto: NASA/Stephanie Stoll, 30/10/2014, Domínio público, via Wikimedia Commons
-- [NASA astronaut and SpaceX Crew-4 Commander Kjell Lindgren training](https://www.nasa.gov/image-feature/nasa-astronaut-and-spacex-crew-4-commander-kjell-lindgren-0/) — Foto: NASA, 15/02/2022, NASA Image ID jsc2022e011416, Lin Kuei-er em treinamento lateral no modelo da Crew Dragon, Domínio público, NASA

@@ -27,8 +27,8 @@ readingTime: 18
 viewpoint_formed: true
 verification: "{'high_confidence': ['楊傳廣 1960 羅馬 8334 分輸 58 分 / 2025 國寶', '蔡溫義 1984 LA 60kg 抓 125 + 挺 147.5 = 272.5 銅', '陳詩欣 2004 雅典 49kg 6:4 古巴 Diaz / 朱木炎 58kg 6:1 墨 Salazar / 15 分鐘雙金', '2020 東京 2 金 4 銀 6 銅 = 12 面史上最佳', '2024 巴黎 2 金 5 銅 = 7 面 / 麟洋配奧運史首對男雙連霸', '嘉農 1931 甲子園準優勝決賽 0:4 中京商業', '1981/3/23 洛桑協議 沈家銘 vs Samaranch'], 'single_source': ['1979 名古屋通訊投票 62-17-2', '黃金計畫 2018 3 年 12 億', '紅葉少棒冒名頂替案 13 人 5 虛報 9 冒名'], 'unverified': ['黃金計畫 3.0 (2024 巴黎週期) 預算總額']}"
 translatedFrom: 'Society/台灣體育發展與奧運.md'
-sourceCommitSha: 'b1f23fd8d'
-sourceContentHash: 'sha256:cce1a0626b10ac89'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:f86cdecbd23b7e4f'
 sourceBodyHash: 'sha256:77348d4fbb7640a8'
 translatedAt: '2026-07-28T05:45:51+08:00'
 ---
@@ -152,6 +152,10 @@ Từ cánh cửa "Taiwan" bị đóng tại Montreal 1976, đến khi thế gi�
 - [Zhu Jia-huan (Đông Gia Hồng)](/People/莊智淵): Vua độc đáo bốn chiến thắng liên tiếp ở châu Á bóng chày đôi
 - [Văn hóa bóng chày Đài Loan](/Culture/台灣棒球文化): Từ Kaohsiung đến CPBL, lịch sử bóng chày một trăm năm
 
+## Nguồn ảnh
+
+Chờ phiên session bổ sung hình ảnh.
+
 ## Tài liệu tham khảo
 
 [^1]: Quan hệ Canada-Trung Hoa Dân Quốc (1970/10/13); Trung Hoa Dân Quốc đứng lại. Wikipedia <Quan hệ Canada-Trung Hoa Dân Quốc>.
@@ -263,7 +267,3 @@ Từ cánh cửa "Taiwan" bị đóng tại Montreal 1976, đến khi thế gi�
 [^54]: ETtoday 2024 báo cáo <Olympic 2028 Los Angeles bóng chày trở lại với 6 đội> ([sports.ettoday.net/news/2941808](https://sports.ettoday.net/news/2941808)); Yahoo Sports báo cáo bóng chày trở lại 2028.
 
 [^55]: Premier12 2024 giải bóng chày thế giới 12 đội—Đài Loan giành chiến thắng đầu tiên; Tài liệu sự kiện Thành phố Taipei.
-
-## Nguồn ảnh
-
-Chờ phiên session bổ sung hình ảnh.

@@ -25,8 +25,8 @@ lastVerified: 2026-05-26
 lastHumanReview: false
 featured: true
 translatedFrom: 'History/國家人權博物館.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:c2fe08a62433be18'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:e16d4ee42050764a'
 sourceBodyHash: 'sha256:8de971f3c7942edf'
 translatedAt: '2026-06-16T16:55:14Z'
 image: '/article-images/history/nhrm-tsai-unveil-2018.webp'
@@ -326,6 +326,14 @@ NHRMのあの景美園区紹介映像は、結尾で4人のインタビュー対
 - [台湾移行期正義](/ja/history/taiwan-transitional-justice) — 六千件の判決を取り消しながら、加害者を追及できなかったせめぎ合い。本稿はその一つの機関的断面です
 - [二二八事件](/ja/history/228-incident) — 戦後台湾最大の民変であり、38年の戒厳を生み出した起点
 
+## 画像出典
+
+本稿は3枚のパブリックドメイン／CCライセンス画像を使用し、すべて`public/article-images/history/`にcacheして、元サーバーへのホットリンクを避けています。
+
+- [蔡英文総統 2018/5/17「国家人権博物館看板除幕式」出席](<https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457).jpg>) — Photo: 総統府, 2018-05-17, CC BY 2.0（Flickr標準ライセンス）
+- [緑島人権記念碑（涙の碑）](https://commons.wikimedia.org/wiki/File:Taiwan_GreenIsland_Human_Rights_Memorial_Monument_2022.jpg) — Photo: S8321414, 2022, CC BY-SA 4.0
+- [景美人権文化園区](https://commons.wikimedia.org/wiki/File:%E6%99%AF%E7%BE%8E%E4%BA%BA%E6%AC%8A%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%80.jpg) — Photo: 張永泰, Public Domain (Voice of America) + CC Public Domain Mark 1.0
+
 ## 参考資料
 
 [^1]: [新頭殻 newtalk：蔡焜霖 2018/5/17 NHRM 緑島看板除幕挨拶](https://newtalk.tw/news/view/2018-05-17/124671) — 「いつの日か、誰が彼の友人を殺したのかを知りたい」を含む挨拶全文の逐語記録。除幕当日、88歳の受難者代表の発言。
@@ -407,11 +415,3 @@ NHRMのあの景美園区紹介映像は、結尾で4人のインタビュー対
 [^39]: [国家人権博物館：「自由の魂 vs. 独裁者：台湾言論自由の道」常設展](https://www.nhrm.gov.tw/w/nhrm/News_22050707092432044) — 2022/4/7言論自由デーに開幕、中正紀念堂1階常設展示室、キュレーターは薛化元（中央研究院近代史研究所）。文化部長李永得の「壊せないなら、そこへ住み込む」という対話戦略。鄭竹梅（鄭南榕の娘）の開展式典挨拶「一つの国の文化が過去をどのように記憶するかは、その国が未来をどう見ているかを表します」の逐語引用。
 
 [^40]: [国家人権博物館：2025緑島人権芸術季ビエンナーレ「一四九海里の時間：忘却に抗う」](https://www.nhrm.gov.tw/w/nhrm/News_25040315483280023) — 2025/5/17-9/21、総キュレーター高森信男の「地理と時間の隔絶によって、歴史は忘れられる可能性があります。しかし芸術は、時間に抗う剣の柄となることができます」という逐語引用。23組のアーティストには7組の国際参加（マレーシアPangrok Sulap、ベトナムBui Cong Khanh、香港長椅小姐、ハイチ、クロアチア、インドネシア）が含まれる。「一四九海里」は台東から緑島までの距離を指す。
-
-## 画像出典
-
-本稿は3枚のパブリックドメイン／CCライセンス画像を使用し、すべて`public/article-images/history/`にcacheして、元サーバーへのホットリンクを避けています。
-
-- [蔡英文総統 2018/5/17「国家人権博物館看板除幕式」出席](<https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457).jpg>) — Photo: 総統府, 2018-05-17, CC BY 2.0（Flickr標準ライセンス）
-- [緑島人権記念碑（涙の碑）](https://commons.wikimedia.org/wiki/File:Taiwan_GreenIsland_Human_Rights_Memorial_Monument_2022.jpg) — Photo: S8321414, 2022, CC BY-SA 4.0
-- [景美人権文化園区](https://commons.wikimedia.org/wiki/File:%E6%99%AF%E7%BE%8E%E4%BA%BA%E6%AC%8A%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%80.jpg) — Photo: 張永泰, Public Domain (Voice of America) + CC Public Domain Mark 1.0

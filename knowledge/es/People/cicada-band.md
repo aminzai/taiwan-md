@@ -32,8 +32,8 @@ lastVerified: 2026-06-21
 lastHumanReview: true
 featured: false
 translatedFrom: 'People/Cicada.md'
-sourceCommitSha: 'ac1d187a'
-sourceContentHash: 'sha256:4a53480bbe9aa83b'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:3d1c97835c5d9ea3'
 sourceBodyHash: 'sha256:5091127dea208f82'
 translatedAt: '2026-06-22T00:40:58+08:00'
 image: '/article-images/people/cicada-cuichi-xueshan-glacial-lake.webp'
@@ -277,6 +277,14 @@ Después de 2019, los lugares pasan de los bosques de montaña y los nacientes d
 - [Ecología marina de Taiwán](/es/nature/taiwan-marine-ecology) — el trasfondo ecológico del álbum marino de la banda de 2017
 - [Montañas y cultura del montañismo en Taiwán](/es/nature/taiwan-mountains-and-hiking-culture) — el contexto de la filosofía montañera de Chiang Chih-chieh
 
+## Fuentes de imagen
+
+Este artículo usa una imagen con licencia CC BY-SA 4.0, almacenada en caché en `public/article-images/people/` para evitar enlazado directo al servidor de origen:
+
+- [翠池 汪大智 05](https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg) — Foto: Blackjack633, CC BY-SA 4.0 (hero, lago Cuichi de Xueshan)
+
+Los videos incrustados en el texto son videos musicales oficiales subidos por el [canal oficial de YouTube de Cicada @Cicadatw](https://www.youtube.com/@Cicadatw), presentados mediante iframe; los derechos de autor pertenecen a la banda y a sus sellos, y se usan conforme a las condiciones estándar de inserción de YouTube.
+
 ## Referencias
 
 [^1]: [Metodología creativa y revelación de buceo de Chiang Chih-chieh - IN IN TO MUSIC](https://inintomusic.asia/cicada-interview/) — Chiang Chih-chieh describe su metodología creativa: “Soy muy intuitiva: cuando me siento frente al piano y el ritmo coincide con la imagen que tengo dentro”; describe el ritmo del agua en Seeking the Sources of Streams: “Cuando te encuentras con una piedra, la sensación es ‘¡guau?’; y luego fluyes por el costado”; y su revelación al bucear en la Isla de las Orquídeas: “Lo único que puedes controlar es tu respiración” y “debes ser honesta contigo misma”.
@@ -332,11 +340,3 @@ Después de 2019, los lugares pasan de los bosques de montaña y los nacientes d
 [^26]: [Resultados de la 46.ª edición de los Premios de la Academia Japonesa de Cine - oficial de la Academia Japonesa](https://www.japan-academy-prize.jp/prizes/?t=46) — 46.ª edición (2023): la película A Man (ある男) obtuvo varios premios principales, incluido Mejor Película; Cicada por A Man, junto con Ike Yoshihiro, Takami Yu y FUKUSHIGE MARI, figuró entre los “Premios a la Música Destacada” (nivel de nominación, cuatro nombres en paralelo); el “Premio a la Mejor Música” de esa edición fue para RADWIMPS / Jinnai Kazuma por Suzume. Es decir: la película obtuvo Mejor Película, y la banda sonora de Cicada recibió Premio a la Música Destacada, no el Premio a la Mejor Música.
 
 [^27]: [Circos glaciares de Xueshan y relieve glaciar de Taiwán - Museo Nacional de Ciencias Naturales](https://epub.nmns.edu.tw/i401-1/) — El circo glaciar n.º 1 de Xueshan es “el representante del relieve glaciar más grande y completo de Taiwán” (cita de Lin Chao-chi, 1957); durante el último periodo glacial (hace unos 27.000 a 18.000 años), las altas montañas de Taiwán desarrollaron glaciares de montaña y formas glaciares; Cuichi es un lago de circo glaciar, rodeado por el bosque puro de enebro de Yushan más extenso de Taiwán. Los vestigios glaciares de las altas montañas de Taiwán fueron objeto de largo debate académico hasta que Wang Xin y otros confirmaron en 1998 las evidencias de erosión glaciar mediante estudios detallados.
-
-## Fuentes de imagen
-
-Este artículo usa una imagen con licencia CC BY-SA 4.0, almacenada en caché en `public/article-images/people/` para evitar enlazado directo al servidor de origen:
-
-- [翠池 汪大智 05](https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg) — Foto: Blackjack633, CC BY-SA 4.0 (hero, lago Cuichi de Xueshan)
-
-Los videos incrustados en el texto son videos musicales oficiales subidos por el [canal oficial de YouTube de Cicada @Cicadatw](https://www.youtube.com/@Cicadatw), presentados mediante iframe; los derechos de autor pertenecen a la banda y a sus sellos, y se usan conforme a las condiciones estándar de inserción de YouTube.

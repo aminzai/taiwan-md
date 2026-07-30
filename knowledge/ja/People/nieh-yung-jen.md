@@ -21,9 +21,9 @@ lastVerified: 2026-05-12
 lastHumanReview: false
 featured: false
 translatedFrom: 'People/聶永真.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:af655ef71174b4b7'
-sourceBodyHash: 'sha256:8bdb4d64fdb3b5e7'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:b31e7dab1de7bf10'
+sourceBodyHash: 'sha256:26e4e11c3e29817a'
 translatedAt: '2026-06-16T17:04:12Z'
 image: '/article-images/people/aaron-nieh-portrait-2018.webp'
 imageCredit: 'Gene Wang'
@@ -169,6 +169,16 @@ _聶永真が2026/05/08のFacebook公開投稿で明らかにした台電新標�
 - [台湾ニュー・メディア・アート](/ja/art/taiwan-new-media-art) — 永真急制スタジオと台湾現代視覚文化の位置
 - [台湾デザイン研究院](/ja/society/taiwan-design-research-institute) — 金点設計奨の背後にある国家級デザイン機構。デザインが個人の創作から公共的なガバナンスへと拡張していく経路を見る
 
+## 画像出典
+
+本文では5枚の画像を使用し、すべて`public/article-images/people/`にキャッシュして、リンク元サーバーへのホットリンクを避けています。最初の3枚はWikimedia CommonsのCCライセンス、後の2枚はメディア公開画像ファイルのフェアユースによる編集評論引用です（聶永真のデザイン作品に関する公共的議論と直接関連）。
+
+- **hero**：[聶永真 2018](<https://commons.wikimedia.org/wiki/File:%E8%81%B6%E6%B0%B8%E7%9C%9F_(40799138092).jpg>) — Photo: Gene Wang (Flickr user 56814157@N03), 2018-03-16, CC BY-SA 2.0
+- **inline 1**：[太陽花學運 20140323 立法院](https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B%2020140323%20%E7%AB%8B%E6%B3%95%E9%99%A2%207045%20%2814127449295%29.jpg) — Photo: Ray Swi-hy (Flickr), 2014-03-23 17:03, CC BY-SA 2.0
+- **inline 2**：「[Democracy at 4am」紐時頭版廣告（2014-03-30）](https://www.thenewslens.com/article/2866) — デザイン：聶永真。当時[4am.tw](https://4am.tw/)を通じて無料ダウンロードを開放。画像ファイルは關鍵評論網の報道（i-Chen Tsai 2014/03ブログ保存版）から取得 — フェアユースによる編集評論引用（市民クラウドファンディング作品＋デザイナー本人の意図による公開配布）
+- **inline 3**：[Tsai Ing-wen presidential campaign, 2016](<https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg>) — Photo: MiNe (Flickr), 2015-10-18, CC BY 2.0
+- **inline 4**：[聶永真台電新標準字設計過程（2026-05-08）](https://www.mirrormedia.mg/story/20260508edi031) — 聶永真の[Facebook公開投稿](https://www.facebook.com/somekidding/posts/1384626443696723)（アカウント@somekiddingは認証済み）からの転載。画像ファイルは鏡週刊の報道がホスト — フェアユースによる編集評論引用（公開投稿＋公共議題であるロゴデザイン過程の開示）
+
 ## 参考資料
 
 [^1]: [聶永真 維基百科](https://zh.wikipedia.org/zh-tw/%E8%81%B6%E6%B0%B8%E7%9C%9F) — 聶永真の生涯、学歴、受賞記録、AGI入会年、三度の金曲賞装丁賞の回次（第21、25、26回）、書籍およびレコードの協働相手（駱以軍、甘耀明、麥田、時報、印刻、聯經）などの構造的資料。
@@ -232,13 +242,3 @@ _聶永真が2026/05/08のFacebook公開投稿で明らかにした台電新標�
 [^30]: [中央社 2026-05-12：台電 Logo 字體爭議，文化部長李遠：設計是專業應「回歸專業」](https://www.cna.com.tw/news/aipl/202605120035.aspx) — 2026年5月12日、文化部長・李遠が立法院で受けた取材内容。デザイン価値の独立性と専門性を強調。
 
 [^31]: [民視新聞 2026-05-12：台電優化企業識別惹議，官方澄清「新舊並蓄」舊招牌不更換](https://www.ftvnews.com.tw/news/detail/2026512W0263) — 2026年5月12日の報道。世論の圧力に対して台電が発表した実行方案調整の詳細を含む。
-
-## 画像出典
-
-本文では5枚の画像を使用し、すべて`public/article-images/people/`にキャッシュして、リンク元サーバーへのホットリンクを避けています。最初の3枚はWikimedia CommonsのCCライセンス、後の2枚はメディア公開画像ファイルのフェアユースによる編集評論引用です（聶永真のデザイン作品に関する公共的議論と直接関連）。
-
-- **hero**：[聶永真 2018](<https://commons.wikimedia.org/wiki/File:%E8%81%B6%E6%B0%B8%E7%9C%9F_(40799138092).jpg>) — Photo: Gene Wang (Flickr user 56814157@N03), 2018-03-16, CC BY-SA 2.0
-- **inline 1**：[太陽花學運 20140323 立法院](https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B%2020140323%20%E7%AB%8B%E6%B3%95%E9%99%A2%207045%20%2814127449295%29.jpg) — Photo: Ray Swi-hy (Flickr), 2014-03-23 17:03, CC BY-SA 2.0
-- **inline 2**：「[Democracy at 4am」紐時頭版廣告（2014-03-30）](https://www.thenewslens.com/article/2866) — デザイン：聶永真。当時[4am.tw](https://4am.tw/)を通じて無料ダウンロードを開放。画像ファイルは關鍵評論網の報道（i-Chen Tsai 2014/03ブログ保存版）から取得 — フェアユースによる編集評論引用（市民クラウドファンディング作品＋デザイナー本人の意図による公開配布）
-- **inline 3**：[Tsai Ing-wen presidential campaign, 2016](<https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg>) — Photo: MiNe (Flickr), 2015-10-18, CC BY 2.0
-- **inline 4**：[聶永真台電新標準字設計過程（2026-05-08）](https://www.mirrormedia.mg/story/20260508edi031) — 聶永真の[Facebook公開投稿](https://www.facebook.com/somekidding/posts/1384626443696723)（アカウント@somekiddingは認証済み）からの転載。画像ファイルは鏡週刊の報道がホスト — フェアユースによる編集評論引用（公開投稿＋公共議題であるロゴデザイン過程の開示）

@@ -218,6 +218,12 @@ Using the coldest logic of an engineer to capture the warmest loneliness of the 
 
 **Further Reading**: [Taiwan Cinema](/en/art/taiwanese-cinema) (Yang was one of the two standard-bearers of the Taiwan New Cinema; here is the map of the entire movement he belonged to), [Hou Hsiao-hsien](/en/people/hou-hsiao-hsien) (The other mountain named alongside Yang, the one who drifted from close collaborator to distant acquaintance), [Ang Lee](/en/people/ang-lee) (Who also brought Taiwan cinema to the world stage, but via a completely different path), [Tsai Ming-liang](/en/people/tsai-ming-liang) (After the Taiwan New Cinema, another way of dissecting urban loneliness), [Kuling Street](/en/geography/guling-street) (The real street where the knife fell, the origin point of a four-hour epic).
 
+## Image Credits
+
+- **Main Image / _The Sea Has a Day_ Set (1983)**: Central Motion Picture Corporation, Golden Harvest Motion Pictures Co., Ltd. (Hong Kong), _The Sea Has a Day_ production still, 1983. Provided by Peng Kaili, on loan to the National Film and Audiovisual Center. Source from TFAM "A One and A Two: Edward Yang" exhibition public image ([tfam.museum](https://www.tfam.museum/yiyiey)), Fair use editorial commentary.
+- **WWII Comic Manuscript (circa 1965-1970)**: Edward Yang’s hand-drawn WWII comic manuscript from his youth. Provided by Peng Kaili, on loan to the National Film and Audiovisual Center. Source same as above TFAM exhibition press kit, Fair use editorial commentary.
+- **_A Confucian Confusion_ Set (1993)**: Atom Films, _A Confucian Confusion_ production still, 1993. Provided by Peng Kaili, on loan to the National Film and Audiovisual Center (TFAM official site also marks circa 1994, this adopts the press kit’s 1993). Source same as above, Fair use editorial commentary.
+
 ## References
 
 [^1]: [Chen Wan-jung: We Are Fortunate in Our Misfortune — To Edward Yang](https://medium.com/@susan82920/%E6%88%91%E5%80%91%E5%B9%B8%E9%81%8B%E5%9C%B0%E4%B8%8D%E5%B9%B8%E8%91%97-%E8%87%B4%E6%A5%8A%E5%BE%B7%E6%98%8C-badf8485f74a) — Relays Wu Nien-jen’s memory: When Yang first arrived at the CMP, he wore a T-shirt printing "Herzog, Bresson, Yang," carrying an unyielding, defiant air.
@@ -403,9 +409,3 @@ Using the coldest logic of an engineer to capture the warmest loneliness of the 
 [^92]: [Wikipedia: A Brighter Summer Day](https://zh.wikipedia.org/zh-tw/%E7%89%A7%E5%B6%B7%E8%A1%97%E5%B0%91%E5%B9%B4%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6) — Chinese Wikipedia _A Brighter Summer Day_ entry, recording the entire film took 110 shooting days to complete, original runtime 237 minutes.
 
 [^93]: [Mirror Media: Yuan Qiong-qiong on Yang’s USC Years](https://www.mirrormedia.mg/story/20170727pol007) — Same as [^7] special, recording Yang, during his Seattle work period, shot short films on 16mm film in his spare time with enthusiasts, maintaining his feel for film.
-
-## Image Credits
-
-- **Main Image / _The Sea Has a Day_ Set (1983)**: Central Motion Picture Corporation, Golden Harvest Motion Pictures Co., Ltd. (Hong Kong), _The Sea Has a Day_ production still, 1983. Provided by Peng Kaili, on loan to the National Film and Audiovisual Center. Source from TFAM "A One and A Two: Edward Yang" exhibition public image ([tfam.museum](https://www.tfam.museum/yiyiey)), Fair use editorial commentary.
-- **WWII Comic Manuscript (circa 1965-1970)**: Edward Yang’s hand-drawn WWII comic manuscript from his youth. Provided by Peng Kaili, on loan to the National Film and Audiovisual Center. Source same as above TFAM exhibition press kit, Fair use editorial commentary.
-- **_A Confucian Confusion_ Set (1993)**: Atom Films, _A Confucian Confusion_ production still, 1993. Provided by Peng Kaili, on loan to the National Film and Audiovisual Center (TFAM official site also marks circa 1994, this adopts the press kit’s 1993). Source same as above, Fair use editorial commentary.

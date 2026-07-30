@@ -18,8 +18,8 @@ lastVerified: 2026-07-13
 lastHumanReview: false
 featured: false
 translatedFrom: 'Culture/Shopping Design.md'
-sourceCommitSha: '17b63fe83'
-sourceContentHash: 'sha256:5d83fb5eff7a2309'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:ad45b627d00f528f'
 sourceBodyHash: 'sha256:da4269ea46f7ec77'
 translatedAt: '2026-07-15T00:51:51+08:00'
 image: '/article-images/culture/shopping-design-designbiz-2022-banner.jpg'
@@ -157,6 +157,14 @@ Thus, the _Design Wanted_ cover is, in fact, also an exam paper. What it seeks t
 - [Tea Ceremony and Aesthetics of Life in Taiwan](/en/culture/taiwan-tea-ceremony-and-aesthetic-living) — How aesthetics of life grew in Taiwan into a discussable, purchasable daily practice
 - [Yung-Chen Nieh](/en/people/nieh-yung-jen) — Another name pushing design into the public eye within the same Taiwanese design context
 
+## Image Credits
+
+- **Hero \| DesignBIZ Fest 2022 Main Visual**: Shopping Design/DesignBIZ Fest, Source <https://designbiz.shoppingdesign.com.tw/2022/>. Fair use (editorial commentary).
+- **Vol.147 The Ideal Dweller Cover**: Shopping Design (Business Next Media Group), Source Official Magazine List <https://www.shoppingdesign.com.tw/magazine/>. Fair use (editorial commentary).
+- **Vol.150 We Collect Design Like This Cover**: Shopping Design (Business Next Media Group), Source Official Magazine List <https://www.shoppingdesign.com.tw/magazine/>. Fair use (editorial commentary).
+- **DesignBIZ Fest 2022 Speaker Stage**: Shopping Design/DesignBIZ Fest, Source <https://designbiz.shoppingdesign.com.tw/2022/>. Fair use (editorial commentary).
+- **Vol.155 Design Wanted Cover**: Business Next Media Group, Source <https://www.shoppingdesign.com.tw/magazine/view/130050>. Fair use (editorial commentary).
+
 ## References
 
 [^1]: [Magazines Must Remind Readers to Live Consciously: Shopping Design Editor-in-Chief Li Hui-chen](https://www.biosmonthly.com/article/8577) — BIOS monthly 2017 February interview, recording Li Hui-chen's sixth year as editor-in-chief, and the 100th issue echoing the founding issue's "white design" with "procuring white design."
@@ -210,11 +218,3 @@ Thus, the _Design Wanted_ cover is, in fact, also an exam paper. What it seeks t
 [^23]: [Media Literacy](https://zh.wikipedia.org/zh-tw/媒體素養) — Wikipedia index, recording Taiwan's 2002 publication of Media Literacy Education Policy White Paper, high schools incorporating media literacy into curriculum starting 2017 academic year policy background.
 
 [^24]: [2024 We Collect Design Like This Lecture Review](https://www.shoppingdesign.com.tw/post/view/10553) — Shopping Design official August 2024 report, verbatim appearing "Shopping Design Editor Yixin, Deputy Editor Yajun", the highest verifiable editorial title in recent years (downgraded from Editor-in-Chief to Editor).
-
-## Image Credits
-
-- **Hero \| DesignBIZ Fest 2022 Main Visual**: Shopping Design/DesignBIZ Fest, Source <https://designbiz.shoppingdesign.com.tw/2022/>. Fair use (editorial commentary).
-- **Vol.147 The Ideal Dweller Cover**: Shopping Design (Business Next Media Group), Source Official Magazine List <https://www.shoppingdesign.com.tw/magazine/>. Fair use (editorial commentary).
-- **Vol.150 We Collect Design Like This Cover**: Shopping Design (Business Next Media Group), Source Official Magazine List <https://www.shoppingdesign.com.tw/magazine/>. Fair use (editorial commentary).
-- **DesignBIZ Fest 2022 Speaker Stage**: Shopping Design/DesignBIZ Fest, Source <https://designbiz.shoppingdesign.com.tw/2022/>. Fair use (editorial commentary).
-- **Vol.155 Design Wanted Cover**: Business Next Media Group, Source <https://www.shoppingdesign.com.tw/magazine/view/130050>. Fair use (editorial commentary).

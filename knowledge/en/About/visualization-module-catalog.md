@@ -266,6 +266,12 @@ To see how these modules are woven into a real in‑depth article, read [Public 
 - [Social Housing and Housing Justice](/en/society/social-housing-and-housing-justice) — the post‑2016 “rental‑only” public housing trajectory
 - [Taiwan’s Low‑Birth‑Rate Crisis](/en/society/taiwan-low-birth-rate-crisis) — unaffordable housing and declining births, another facet of inter‑generational justice
 
+## Image Credit
+
+The article uses one CC‑licensed image, cached in `public/article-images/society/`:
+
+- [Taipei skyline from Xiangshan (2026)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo by Heeheemalu, 2026, CC BY‑SA 4.0 (hero)
+
 ## References
 
 [^1]: [Ministry of the Interior Real‑Estate Information Platform](https://pip.moi.gov.tw/Publicize/Info/E1050) — official housing statistics such as price‑to‑income ratio, mortgage‑burden ratio, home‑ownership rate.
@@ -277,9 +283,3 @@ To see how these modules are woven into a real in‑depth article, read [Public 
 [^4]: [Ministry of the Interior Household Registration Department population statistics](https://www.ris.gov.tw/app/portal/346) — 2025 year‑end percentages of population ≥ 65 and aging index for all counties and cities; data for dot plot, pyramid, tile map, and note box. Full verification chain in <[Using Data to View Taiwan’s 22 Counties and Cities](/en/geography/data-taiwan-22-cities)>.
 
 [^5]: [Central Election Commission 2018 Referendum Result (PDF)](https://web.cec.gov.tw/api/file/0132581c-18b5-4951-bc24-3cc083924666.pdf) — official yes‑share percentages (59 %/47 %/74 %) for the three nuclear referendums; verification chain in <[Taiwan and Nuclear Power Debate](/en/society/taiwan-nuclear-debate)>.
-
-## Image Credit
-
-The article uses one CC‑licensed image, cached in `public/article-images/society/`:
-
-- [Taipei skyline from Xiangshan (2026)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo by Heeheemalu, 2026, CC BY‑SA 4.0 (hero)

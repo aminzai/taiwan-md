@@ -36,8 +36,8 @@ imageCredit: 'Bernard Gagnon'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01.jpg'
 translatedFrom: 'Geography/艋舺.md'
-sourceCommitSha: '31a05c44b'
-sourceContentHash: 'sha256:c05a8c5cb2792eea'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:2be6a02448305e7a'
 sourceBodyHash: 'sha256:da886e84510f3d63'
 translatedAt: '2026-07-30T03:56:00+08:00'
 ---
@@ -241,6 +241,16 @@ _Туристический ночной рынок Хуаси. Photo: Wikimedia
 - [Далунфан](/geography/大龍峒) — 1859 чжань-цюань драка и 1853 Динся цзяопянь — две разные драки, две точки групповой драки цинского Северного Тайваня
 - [Шылин](/geography/士林) — 1859 чжань-цюань драка и 1853 Динся цзяопянь — две разные драки, два ландшафта групповой драки цинского Северного Тайваня
 
+## Источники изображений
+
+В статье использовано 5 фотографий под лицензией CC BY-SA с Wikimedia Commons, все закэшированы в `public/article-images/geography/` для избежания горячих ссылок на исходные серверы:
+
+- [File:Longshan Temple, Taipei 01.jpg](https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01.jpg) — Передний зал храма Луншаньсы Банки, фото Бернард Ганьон, CC BY-SA 3.0
+- [File:Bopiliao Historic Block 剝皮寮歷史街區.jpg](https://commons.wikimedia.org/wiki/File:Bopiliao_Historic_Block_%E5%89%9D%E7%9A%AE%E5%AF%AE%E6%AD%B7%E5%8F%B2%E8%A1%97%E5%8D%80.jpg) — Краснокирпичные аркады исторического квартала Бопиляо, CC BY-SA
+- [File:Chin S Temple in Taipei.JPG](https://commons.wikimedia.org/wiki/File:Chin_S_Temple_in_Taipei.JPG) — Храм Цюйшуй цзусы Банки, CC BY-SA
+- [File:2017-06-29 Bangka Qingshan Temple, Wanhua District, Taipei.jpg](https://commons.wikimedia.org/wiki/File:2017-06-29_Bangka_Qingshan_Temple,_Wanhua_District,_Taipei.jpg) — Дворец Циншань Банки, CC BY-SA
+- [File:Huaxi Street Tourist Night Market 2019.jpg](https://commons.wikimedia.org/wiki/File:Huaxi_Street_Tourist_Night_Market_2019.jpg) — Туристический ночной рынок Хуаси, CC BY-SA
+
 ## Ссылки
 
 [^1]: [Официальный сайт храма Луншаньсы Банки — Информация для посетителей](https://www.lungshan.org.tw/tw/) — Храм открыт 6:00–22:00 (круглый год), ежедневно ранние и поздние чтения сутр в 6:00 и 15:45, утреннее совместное чтение в 8:00. Адрес: улица Гуанчжоу 211, район Маньхуа, Тайбэй.
@@ -306,13 +316,3 @@ _Туристический ночной рынок Хуаси. Photo: Wikimedia
 [^31]: [Snake Alley (Taipei) — Wikipedia](<https://en.wikipedia.org/wiki/Snake_Alley_(Taipei)>) — Англоязычная Википедия статья Хуаси стрит (змеиный переулок), записывает полный процесс трансформации туристического ночного рынка Хуаси от расцвета змееных лавок в 1990-х до подъёма защиты животных после 2000 года, смены клиентуры после упразднения проституции, переориентации всего рынка на закуски.
 
 [^32]: [【Городское симбиоз 1-3】 Перестройка парка Банка: поэтапное строительство, сокращение галерей снижает влияние на бездомных, более половины пользователей оказывается "имеющими дом" — Right Plus 2024-09-04](https://rightplus.org/2024/09/04/mongapark1/) — Отчёт гражданской группы сентября 2024 года по опросу 168 анкет, включая 94 бездомных, 74 обычных жителя, 33 магазина округи по перестройке парка Банки, 60% бездомных отказываются от государственных приютов причины, 60% магазинов поддерживают стратегию «приёма на месте», депутат Юань У Пэйи продвигает поправку в «Закон о социальном содействии» специальной главы «о бездомных» — запись.
-
-## Источники изображений
-
-В статье использовано 5 фотографий под лицензией CC BY-SA с Wikimedia Commons, все закэшированы в `public/article-images/geography/` для избежания горячих ссылок на исходные серверы:
-
-- [File:Longshan Temple, Taipei 01.jpg](https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01.jpg) — Передний зал храма Луншаньсы Банки, фото Бернард Ганьон, CC BY-SA 3.0
-- [File:Bopiliao Historic Block 剝皮寮歷史街區.jpg](https://commons.wikimedia.org/wiki/File:Bopiliao_Historic_Block_%E5%89%9D%E7%9A%AE%E5%AF%AE%E6%AD%B7%E5%8F%B2%E8%A1%97%E5%8D%80.jpg) — Краснокирпичные аркады исторического квартала Бопиляо, CC BY-SA
-- [File:Chin S Temple in Taipei.JPG](https://commons.wikimedia.org/wiki/File:Chin_S_Temple_in_Taipei.JPG) — Храм Цюйшуй цзусы Банки, CC BY-SA
-- [File:2017-06-29 Bangka Qingshan Temple, Wanhua District, Taipei.jpg](https://commons.wikimedia.org/wiki/File:2017-06-29_Bangka_Qingshan_Temple,_Wanhua_District,_Taipei.jpg) — Дворец Циншань Банки, CC BY-SA
-- [File:Huaxi Street Tourist Night Market 2019.jpg](https://commons.wikimedia.org/wiki/File:Huaxi_Street_Tourist_Night_Market_2019.jpg) — Туристический ночной рынок Хуаси, CC BY-SA

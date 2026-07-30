@@ -20,9 +20,9 @@ lastVerified: 2026-05-28
 lastHumanReview: false
 featured: true
 translatedFrom: 'People/瘂弦.md'
-sourceCommitSha: '88f47159'
-sourceContentHash: 'sha256:e294ff8cf9b9ac0a'
-sourceBodyHash: 'sha256:dd3ab574ead8013b'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:e787dc16343b5dd6'
+sourceBodyHash: 'sha256:b6b66329e69543f7'
 translatedAt: '2026-06-16T17:10:30Z'
 sporeLinks:
   - id: 140
@@ -184,6 +184,14 @@ _鄭愁予（1933-2025）は戦後第一世代の詩人です。代表作「錯�
 - [戒厳時期](/ja/history/martial-law-era) — 文学検閲、警備総司令部、政治的抗議としての晦渋さをめぐる歴史的文脈
 - [台湾メディアと報道の自由](/ja/society/media-and-press-freedom-in-taiwan) — 1950-1990 年代に聯合報と中国時報の二大紙副刊が台湾文壇を主導した歴史的文脈
 
+## 画像出典
+
+本文では CC BY-SA ライセンスの画像を 3 点使用しており、ホットリンク元サーバーへの依存を避けるため、すべて `public/article-images/people/` にキャッシュしています。
+
+- [瘂弦.tif](https://commons.wikimedia.org/wiki/File:%E7%98%82%E5%BC%A6.tif) — hero。Photo: 目宿媒體股份有限公司, 2012-09-13, CC BY-SA 4.0, Wikimedia Foundation VRT チケット番号 2017112310007121 により確認済み
+- [洛夫.tif](https://commons.wikimedia.org/wiki/File:%E6%B4%9B%E5%A4%AB.tif) — inline。Photo: 目宿媒體股份有限公司, 2012, CC BY-SA 4.0
+- [鄭愁予.tif](https://commons.wikimedia.org/wiki/File:%E9%84%AD%E6%84%81%E4%BA%88.tif) — inline。Photo: 目宿媒體股份有限公司, 2017-11-16, CC BY-SA 4.0
+
 ## 参考資料
 
 [^1]: [創世紀詩社 - 維基百科](https://zh.wikipedia.org/zh-hant/%E5%89%B5%E4%B8%96%E7%B4%80%E8%A9%A9%E7%A4%BE) — 1954 年 10 月、洛夫と張默によって高雄左営で創立され、瘂弦は少し後に参加しました。三人は戦後台湾現代詩の「鉄の三角」と呼ばれました。
@@ -221,11 +229,3 @@ _鄭愁予（1933-2025）は戦後第一世代の詩人です。代表作「錯�
 [^17]: [鄭愁予 - 維基百科](https://zh.wikipedia.org/zh-hant/%E9%84%AD%E6%84%81%E4%BA%88) — 創世紀詩社と同世代の詩人で、2025 年 6 月 13 日に米国で逝去し、享年 91 歳でした。代表作「錯誤」の「我達達的馬蹄是美麗的錯誤」は、台湾現代詩史で最も広く流通した詩句の一つです。
 
 [^18]: [張默（詩人）- 維基百科](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E9%BB%98_%28%E8%A9%A9%E4%BA%BA%29) — 1931 年生まれ。創世紀詩社の共同創設者で、長年にわたり主編を務め、「台湾新詩運動の機関車」と称されました。2026 年時点でも存命で、創世紀の鉄の三角の中で唯一存命の人物です。
-
-## 画像出典
-
-本文では CC BY-SA ライセンスの画像を 3 点使用しており、ホットリンク元サーバーへの依存を避けるため、すべて `public/article-images/people/` にキャッシュしています。
-
-- [瘂弦.tif](https://commons.wikimedia.org/wiki/File:%E7%98%82%E5%BC%A6.tif) — hero。Photo: 目宿媒體股份有限公司, 2012-09-13, CC BY-SA 4.0, Wikimedia Foundation VRT チケット番号 2017112310007121 により確認済み
-- [洛夫.tif](https://commons.wikimedia.org/wiki/File:%E6%B4%9B%E5%A4%AB.tif) — inline。Photo: 目宿媒體股份有限公司, 2012, CC BY-SA 4.0
-- [鄭愁予.tif](https://commons.wikimedia.org/wiki/File:%E9%84%AD%E6%84%81%E4%BA%88.tif) — inline。Photo: 目宿媒體股份有限公司, 2017-11-16, CC BY-SA 4.0

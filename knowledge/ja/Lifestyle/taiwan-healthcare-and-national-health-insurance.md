@@ -22,8 +22,8 @@ lastVerified: 2026-06-04
 lastHumanReview: false
 featured: true
 translatedFrom: 'Lifestyle/台灣醫療與全民健保.md'
-sourceCommitSha: '31eea37d'
-sourceContentHash: 'sha256:bc3db40c99c58cf5'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:14d6c92447535914'
 sourceBodyHash: 'sha256:c1ead29e154aba6a'
 translatedAt: '2026-06-16T17:04:12Z'
 image: '/article-images/lifestyle/nhi-taipei-building-2018.webp'
@@ -190,6 +190,14 @@ _台湾大学病院本館。1895 年に創立され、台湾の全民健康保�
 - [衛生福利部全民健康保険会委員会議議事録](https://data.gov.tw/dataset/7554)（衛生福利部全民健康保険会、毎月更新）— 5.17% の保険料率を「維持し調整しない」という決定が、どの会議の机で、どのような理由で決まったのかを確認できる一次議事録です
 - [全民健康保険における各級政府の弱勢保険対象者補助統計資料](https://data.gov.tw/dataset/23719)（衛生福利部中央健康保険署、毎月更新）— 林雅恵の言う「危難を共に担い、能力に応じて支払う」は、実行面ではこの表になります。政府が誰の保険料を代わりに払ったのかが示されています
 
+## 画像出典
+
+- **Hero**：[NHI Building, ROC-MOHW-NHIA Taipei Division main entrance](https://commons.wikimedia.org/wiki/File:NHI_Building,_ROC-MOHW-NHIA_Taipei_Division_main_entrance_20180616.jpg) by Solomon203 / Wikimedia Commons / CC BY-SA 4.0
+- **Scene-mid 1**（健康保険 IC カード 2017 年版）：衛生福利部中央健康保険署公式画像 / Public Domain（政府公開情報）
+- **Scene-mid 2**（健保 30 周年記録映画 iframe）：衛生福利部中央健康保険署 YouTube 公式チャンネル
+- **Scene-mid 3**（嘉義基督教病院移動看護ステーション 2007）：嘉義基督教病院 / 非営利教育用途
+- **Closure**（台湾大学病院本館）：[National Taiwan University Hospital main building](https://commons.wikimedia.org/wiki/Category:National_Taiwan_University_Hospital) / Wikimedia Commons / CC BY-SA 4.0
+
 ## 参考資料
 
 [^1]: [醫奉 31／葉金川：火燒屁股的三天，撐起 30 年健保](https://health.udn.com/health/story/6001/5826304) — 元気網 2021 年「醫奉 31」特集の葉金川インタビュー。初代中央健康保険局総経理が、1995 年 3 月 1 日開始前 6 日間の緊急動員を回想し、「準備時間は実際には 3 日しかなかった」「尻に火がついていた」、身分証を健康保険カードの代わりに使う緊急 fallback mechanism など、複数の verbatim を含みます。
@@ -277,11 +285,3 @@ _台湾大学病院本館。1895 年に創立され、台湾の全民健康保�
 [^42]: [Taiwan's Private Health Insurance Market After NHI](https://link.springer.com/article/10.1057/gpp.2012.36) — Geneva Papers on Risk and Insurance 2012 年論文。台湾の全民健康保険開始後、民間保険の世帯浸透率が 1993 年 63.9% から 2004 年 72.3% へと逆に 8.4 ポイント上昇したことを分析し、「全民健康保険が民間保険市場を固定し縮小させた」という仮説を反証しています。
 
 ---
-
-## 画像出典
-
-- **Hero**：[NHI Building, ROC-MOHW-NHIA Taipei Division main entrance](https://commons.wikimedia.org/wiki/File:NHI_Building,_ROC-MOHW-NHIA_Taipei_Division_main_entrance_20180616.jpg) by Solomon203 / Wikimedia Commons / CC BY-SA 4.0
-- **Scene-mid 1**（健康保険 IC カード 2017 年版）：衛生福利部中央健康保険署公式画像 / Public Domain（政府公開情報）
-- **Scene-mid 2**（健保 30 周年記録映画 iframe）：衛生福利部中央健康保険署 YouTube 公式チャンネル
-- **Scene-mid 3**（嘉義基督教病院移動看護ステーション 2007）：嘉義基督教病院 / 非営利教育用途
-- **Closure**（台湾大学病院本館）：[National Taiwan University Hospital main building](https://commons.wikimedia.org/wiki/Category:National_Taiwan_University_Hospital) / Wikimedia Commons / CC BY-SA 4.0

@@ -33,8 +33,8 @@ sporeLinks:
     "{'id': 158, 'platform': 'x', 'date': '2026-07-15', 'url': 'https://x.com/taiwandotmd/status/2077235621287084160'}",
   ]
 translatedFrom: 'Society/醫療法.md'
-sourceCommitSha: 'a5dc99e20'
-sourceContentHash: 'sha256:54b5e89e9e06fd0e'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:a253f62d3df56358'
 sourceBodyHash: 'sha256:3a7e69bdd14827b6'
 translatedAt: '2026-07-27T06:47:50+08:00'
 ---
@@ -359,6 +359,19 @@ Las palabras escritas por la ley serán leídas por los lectores. Las palabras n
 - [Historia de la doble ley de medicina regenerativa de Taiwán y confesión de profesionales](/es/society/taiwan-regenerative-medicine-laws) — La doble ley de medicina regenerativa aprobada en 2024, es una ley especial separada de la Ley de Asistencia Médica, complementa la regulación de terapia celular
 - [Sistema de asistencia médica en desastres de Taiwán](/es/technology/taiwan-disaster-medicine-system) — La operación real de la «distribución razonable de recursos médicos» del artículo 1 de la Ley de Asistencia Médica en escenarios de grandes desastres
 
+## Fuentes de Imágenes
+
+Este artículo utiliza 7 imágenes con licencia CC / Dominio Público, almacenadas en `public/article-images/society/` para evitar enlaces calientes al servidor de origen; además se incrusta 1 video oficial de Public TV:
+
+- **Hero**: [NTU Hospital View from Pond of Taipei New Park](https://commons.wikimedia.org/wiki/File:NTU_Hospital_View_from_Pond_of_Taipei_New_Park_20110510.jpg) — Foto: Xuan Shisheng, 2011-05-10 desde el este de la piscina noroeste del Parque Conmemorativo 228 mirando al Hospital de la Universidad Nacional de Taiwán. CC BY-SA 3.0 vía Wikimedia Commons.
+- **Camas de pabellón interno**: [Bed in Three Persons Room, Internal Medicine Ward, NTUH East Campus](https://commons.wikimedia.org/wiki/File:Bed_in_Three_Persons_Room,_Internal_Medicine_Ward,_NTUH_East_Campus_20101204a.JPG) — Foto: Xuan Shisheng, 2010-12-04, habitación triple de pabellón interno del sitio este del Hospital de la Universidad Nacional de Taiwán. CC0 Dominio Público vía Wikimedia Commons.
+- **Enfermera administrando medicación**: [Nurse administering medicine using a spoon](https://commons.wikimedia.org/wiki/File:Nurse_administering_medicine_using_a_spoon_in_a_healthcare_setting_during_the_day.jpg) — Foto: Shixart1985, 2025-06-15. CC BY 2.0 vía Wikimedia Commons.
+- **Sala de sesiones del Yuan Legislativo**: [中華民國立法院（議場內）](<https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AB%8B%E6%B3%95%E9%99%A2_(%E8%AD%B0%E5%A0%B4%E5%86%85)_Legislative_Yuan_of_the_Republic_of_China_(chamber,_interior).jpg>) — Foto: Jiang, 2013-07-25. CC BY-SA 3.0 vía Wikimedia Commons.
+- **Presidente asiste a la Celebración Conjunta del 115° Día Internacional de la Enfermería**: [05.12 总统出席「115 年國際護師節聯合慶祝大會」](https://www.flickr.com/photos/presidentialoffice/55265291499/) — Foto: I Chen Lin / Oficina del Presidente, 2026-05-12. CC BY 4.0 (Flickr de la Oficina del Presidente).
+- **Acción callejera de enfermeras de California NNU**: [NNU Protest UCLA Medical Center](https://commons.wikimedia.org/wiki/File:NNU_Protest_UCLA_Medical_Center.jpg) — Foto: Marcywinograd, 2020-04-13, acción de California del Sindicato Nacional de Enfermeras. CC BY-SA 4.0 vía Wikimedia Commons.
+- **Litografía de linterna de Nightingale**: [Florence Nightingale, coloured lithograph (Wellcome)](https://commons.wikimedia.org/wiki/File:Florence_Nightingale._Coloured_lithograph._Wellcome_V0006579.jpg) — After Henrietta Rae, Wellcome Collection. CC BY 4.0 / Dominio Público.
+- **Video**: [Explosión de renuncias de personal de enfermería, ¿cómo mejorar el entorno laboral?](https://www.youtube.com/watch?v=9rKqPhjWzDQ) — Canal oficial de YouTube de _Independent Correspondent_ de Public TV.
+
 ## Referencias
 
 [^1]: [Central News Agency: Yuan Legislativo aprueba en tercera lectura la Ley de Asistencia Médica, agregando relación enfermero-paciente de tres turnos](https://www.cna.com.tw/news/aipl/202605080198.aspx) — Aprobada en tercera lectura víspera del 8 de mayo de 2026, Día Internacional de la Enfermería, rango de sanciones, fecha de entrada en vigor mayo de 2028.
@@ -484,16 +497,3 @@ Las palabras escritas por la ley serán leídas por los lectores. Las palabras n
 [^61]: [Base de Datos de Regulaciones Nacionales: Ley de Derechos Autónomos de Pacientes](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020189) — Aprobada en tercera lectura el 18 de diciembre de 2015, en vigor el 6 de enero de 2019, la primera ley especializada en Asia que garantiza completamente los derechos autónomos de los pacientes.
 
 [^62]: [Comunicado de Prensa del Ministerio de Salud y Bienestar: Aprobada en tercera lectura la doble ley de medicina regenerativa](https://www.mohw.gov.tw/cp-16-78933-1.html) — Aprobada en tercera lectura el 4 de junio de 2024 la Ley de Medicina Regenerativa y el Reglamento de Preparados de Medicina Regenerativa, publicada el 19 de junio de 2024.
-
-## Fuentes de Imágenes
-
-Este artículo utiliza 7 imágenes con licencia CC / Dominio Público, almacenadas en `public/article-images/society/` para evitar enlaces calientes al servidor de origen; además se incrusta 1 video oficial de Public TV:
-
-- **Hero**: [NTU Hospital View from Pond of Taipei New Park](https://commons.wikimedia.org/wiki/File:NTU_Hospital_View_from_Pond_of_Taipei_New_Park_20110510.jpg) — Foto: Xuan Shisheng, 2011-05-10 desde el este de la piscina noroeste del Parque Conmemorativo 228 mirando al Hospital de la Universidad Nacional de Taiwán. CC BY-SA 3.0 vía Wikimedia Commons.
-- **Camas de pabellón interno**: [Bed in Three Persons Room, Internal Medicine Ward, NTUH East Campus](https://commons.wikimedia.org/wiki/File:Bed_in_Three_Persons_Room,_Internal_Medicine_Ward,_NTUH_East_Campus_20101204a.JPG) — Foto: Xuan Shisheng, 2010-12-04, habitación triple de pabellón interno del sitio este del Hospital de la Universidad Nacional de Taiwán. CC0 Dominio Público vía Wikimedia Commons.
-- **Enfermera administrando medicación**: [Nurse administering medicine using a spoon](https://commons.wikimedia.org/wiki/File:Nurse_administering_medicine_using_a_spoon_in_a_healthcare_setting_during_the_day.jpg) — Foto: Shixart1985, 2025-06-15. CC BY 2.0 vía Wikimedia Commons.
-- **Sala de sesiones del Yuan Legislativo**: [中華民國立法院（議場內）](<https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E7%AB%8B%E6%B3%95%E9%99%A2_(%E8%AD%B0%E5%A0%B4%E5%86%85)_Legislative_Yuan_of_the_Republic_of_China_(chamber,_interior).jpg>) — Foto: Jiang, 2013-07-25. CC BY-SA 3.0 vía Wikimedia Commons.
-- **Presidente asiste a la Celebración Conjunta del 115° Día Internacional de la Enfermería**: [05.12 总统出席「115 年國際護師節聯合慶祝大會」](https://www.flickr.com/photos/presidentialoffice/55265291499/) — Foto: I Chen Lin / Oficina del Presidente, 2026-05-12. CC BY 4.0 (Flickr de la Oficina del Presidente).
-- **Acción callejera de enfermeras de California NNU**: [NNU Protest UCLA Medical Center](https://commons.wikimedia.org/wiki/File:NNU_Protest_UCLA_Medical_Center.jpg) — Foto: Marcywinograd, 2020-04-13, acción de California del Sindicato Nacional de Enfermeras. CC BY-SA 4.0 vía Wikimedia Commons.
-- **Litografía de linterna de Nightingale**: [Florence Nightingale, coloured lithograph (Wellcome)](https://commons.wikimedia.org/wiki/File:Florence_Nightingale._Coloured_lithograph._Wellcome_V0006579.jpg) — After Henrietta Rae, Wellcome Collection. CC BY 4.0 / Dominio Público.
-- **Video**: [Explosión de renuncias de personal de enfermería, ¿cómo mejorar el entorno laboral?](https://www.youtube.com/watch?v=9rKqPhjWzDQ) — Canal oficial de YouTube de _Independent Correspondent_ de Public TV.
