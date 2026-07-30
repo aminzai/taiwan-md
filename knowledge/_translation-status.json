@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-30T12:38:01+08:00",
-    "zhCommitHead": "e009fcf7c",
+    "lastUpdated": "2026-07-30T12:45:21+08:00",
+    "zhCommitHead": "e3488b6a2",
     "totalZh": 871,
     "activeLanguages": [
       "en",
@@ -67,34 +67,34 @@
       },
       "id": {
         "total_zh": 871,
-        "fresh": 453,
+        "fresh": 455,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 417,
+        "missing": 415,
         "orphan": 0
       },
       "pt": {
         "total_zh": 871,
-        "fresh": 752,
+        "fresh": 753,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 113,
+        "missing": 112,
         "orphan": 0
       },
       "hi": {
         "total_zh": 871,
-        "fresh": 548,
+        "fresh": 549,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 323,
+        "missing": 322,
         "orphan": 0
       },
       "ar": {
         "total_zh": 871,
-        "fresh": 615,
+        "fresh": 617,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 256,
+        "missing": 254,
         "orphan": 0
       },
       "ru": {
@@ -23569,8 +23569,8 @@
           "sourceContentHash": "sha256:872c1259e15043c2",
           "sourceBodyHash": "sha256:ae43b98131d02326",
           "translatedAt": "2026-07-30T03:56:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e3488b6a",
+          "translationLastModified": "2026-07-30T12:38:01+08:00",
           "inferred": false,
           "footnoteDefs": 42,
           "status": "fresh",
@@ -26702,7 +26702,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Art/qseries-drama-platform.md",
+          "translatedFrom": "Art/植劇場.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:37996f439df838f6",
+          "sourceBodyHash": "sha256:0818e9fb5c8333f5",
+          "translatedAt": "2026-07-30T12:38:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Art/qseries-drama-platform.md",
@@ -52764,7 +52775,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Politics/taiwan-presidential-pets.md",
+          "translatedFrom": "Politics/總統的寵物.md",
+          "sourceCommitSha": "edae9fc94",
+          "sourceContentHash": "sha256:3392858fc71ecf5e",
+          "sourceBodyHash": "sha256:a651681f805672fe",
+          "translatedAt": "2026-07-30T12:38:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -54393,7 +54415,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/yang-wei-cher.md",
+          "translatedFrom": "People/楊維哲.md",
+          "sourceCommitSha": "e03b004e8",
+          "sourceContentHash": "sha256:69fc2aa712d41a4f",
+          "sourceBodyHash": "sha256:dbdac5a6701910e0",
+          "translatedAt": "2026-07-30T12:38:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/yang-wei-cher.md",
@@ -56824,8 +56857,8 @@
           "sourceContentHash": "sha256:4e807297f5dfcc70",
           "sourceBodyHash": "sha256:9bd8f0aa157f38ef",
           "translatedAt": "2026-07-30T03:56:00+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e3488b6a",
+          "translationLastModified": "2026-07-30T12:38:01+08:00",
           "inferred": false,
           "footnoteDefs": 35,
           "status": "fresh",
@@ -88081,7 +88114,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Food/taiwan-apple-bread.md",
+          "translatedFrom": "Food/蘋果麵包.md",
+          "sourceCommitSha": "a0314c6e3",
+          "sourceContentHash": "sha256:1a92c24eb1a7d8cf",
+          "sourceBodyHash": "sha256:4f26d4508afc31e5",
+          "translatedAt": "2026-07-30T12:38:18+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Food/taiwan-apple-bread.md",
@@ -88101,7 +88145,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Food/taiwan-apple-bread.md",
+          "translatedFrom": "Food/蘋果麵包.md",
+          "sourceCommitSha": "a0314c6e3",
+          "sourceContentHash": "sha256:1a92c24eb1a7d8cf",
+          "sourceBodyHash": "sha256:4f26d4508afc31e5",
+          "translatedAt": "2026-07-30T12:38:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -88371,7 +88426,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/portuguese-egg-tart-in-taiwan.md",
+          "translatedFrom": "Food/蛋撻.md",
+          "sourceCommitSha": "8a230ddb2",
+          "sourceContentHash": "sha256:97dd164af6e04522",
+          "sourceBodyHash": "sha256:c821b247831a9b89",
+          "translatedAt": "2026-07-30T12:38:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Food/portuguese-egg-tart-in-taiwan.md",
