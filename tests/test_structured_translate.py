@@ -88,6 +88,36 @@ def test_normalize_footnote_batch_keeps_single_list_wrapper_support():
     assert MODULE.normalize_footnote_batch(wrapped, batch) == wrapped["translations"]
 
 
+def test_normalize_footnote_batch_accepts_single_exact_mapping_wrapper():
+    batch = [{"n": "7"}, {"n": "9"}]
+    wrapped = {
+        "footnotes": {
+            "9": {"title": "Nine", "desc": "D9"},
+            "7": {"n": "7", "title": "Seven", "desc": "D7"},
+        }
+    }
+
+    assert MODULE.normalize_footnote_batch(wrapped, batch) == [
+        {"n": "7", "title": "Seven", "desc": "D7"},
+        {"n": "9", "title": "Nine", "desc": "D9"},
+    ]
+
+
+def test_normalize_footnote_batch_rejects_inexact_mapping_wrapper():
+    batch = [{"n": "7"}, {"n": "9"}]
+    missing = {"footnotes": {"7": {"title": "Seven", "desc": "D7"}}}
+    multi_wrapper = {
+        "footnotes": {
+            "7": {"title": "Seven", "desc": "D7"},
+            "9": {"title": "Nine", "desc": "D9"},
+        },
+        "status": {},
+    }
+
+    assert MODULE.normalize_footnote_batch(missing, batch) is missing
+    assert MODULE.normalize_footnote_batch(multi_wrapper, batch) is multi_wrapper
+
+
 def test_validate_footnotes_rejects_markdown_in_translated_title():
     defs = [{"n": "1"}]
     translated = {"1": {"title": "[Source](broken)", "desc": "Description"}}
