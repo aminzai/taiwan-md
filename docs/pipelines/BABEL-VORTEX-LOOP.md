@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.46)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.47)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.46'
+current_version: 'v1.47'
 last_updated: 2026-07-30
-last_session: '2026-07-30-vortex-phase-n-shape-bisect'
+last_session: '2026-07-30-vortex-pulse-python39-compat'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.46
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.47
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -260,6 +260,12 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.47（2026-07-30）：修正乾淨整合 worktree 用系統 Python 3.9 執行脈搏時，
+  `progress-snapshot.py` 的 `dict | None` 型別註記在載入期崩潰，`babel-pulse.py`
+  卻沿用舊 rows 仍印出「整點落地 commit 完成」的假綠。快照模組加 postponed
+  annotations 相容 3.9；快照非零時 pulse 現在也非零停止，不再以陳舊 gap 冒充
+  本輪讀數。產線呼叫端仍可容忍 pulse 非零，不會因此殺 dispatcher。
 
 - v1.46（2026-07-30）：Phase N 的 shape retry 改成同尺寸重播失敗後一次有界
   二分。v1.45 上線一小時內兩篇都正確觸發第二次重試，但 0/2 救回，兩次仍是
