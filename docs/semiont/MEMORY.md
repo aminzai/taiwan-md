@@ -318,3 +318,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-31 | 053348-twmd-embeddings-nightly | bge-m3 nightly 12 語 8485 向量 0 fail；vi 344 篇連三晚持平後首度 +1，仍低於 400 門檻（爬升期非故障） | pretty-print↔minified 格式波動連兩晚驗證為無害，非資料損壞 | [→](memory/2026-07-31-053348-twmd-embeddings-nightly.md) |
 | 2026-07-31 | 053803-twmd-routine-sync | 三層對賬第六輪，17 條全 in-sync 零漂移；7/29 修好的 babel-nightly drift 連兩天沒復發 | 連續全綠仍要記一行，否則下次沒基線可比這條 routine 有沒有在跑 | [→](memory/2026-07-31-053803-twmd-routine-sync.md) |
 | 2026-07-31 | 061156-twmd-data-refresh-am | 14 步全綠零 stale；routine-live-state 滿 24h 例行續跑，stale_hours 24→0；免疫 60 chronic 黃燈維持不變 | 沒有新故事的一天仍要記一行，尤其 babel fleet 渦流同時在背景高速運轉時，正交不碰本身是分工正確的訊號 | [→](memory/2026-07-31-061156-twmd-data-refresh-am.md) |
+| 2026-07-31 | 064425-twmd-spore-harvest-am | 6 events harvest；鎢文新增讀者事實查核，逐條核對後兩點文章已有腳註、兩點是孢子壓縮漏掉的細節；發現 pipeline 與 MANIFESTO 對回覆能否自動發互相矛盾，守 MANIFESTO 不發 | 兩份 canonical 講法不一致時，讀的順序本身就是風險控制 | [→](memory/2026-07-31-064425-twmd-spore-harvest-am.md) |
