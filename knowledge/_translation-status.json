@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-31T04:02:54+08:00",
-    "zhCommitHead": "73d60eddc",
+    "lastUpdated": "2026-07-31T04:28:41+08:00",
+    "zhCommitHead": "5467069c6",
     "totalZh": 875,
     "activeLanguages": [
       "en",
@@ -19,10 +19,10 @@
     "summary": {
       "en": {
         "total_zh": 875,
-        "fresh": 822,
+        "fresh": 823,
         "stale": 30,
         "metadata_stale": 2,
-        "missing": 21,
+        "missing": 20,
         "orphan": 0
       },
       "ja": {
@@ -35,10 +35,10 @@
       },
       "ko": {
         "total_zh": 875,
-        "fresh": 843,
+        "fresh": 844,
         "stale": 22,
         "metadata_stale": 1,
-        "missing": 9,
+        "missing": 8,
         "orphan": 0
       },
       "es": {
@@ -51,8 +51,8 @@
       },
       "fr": {
         "total_zh": 875,
-        "fresh": 839,
-        "stale": 28,
+        "fresh": 841,
+        "stale": 26,
         "metadata_stale": 1,
         "missing": 7,
         "orphan": 0
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 875,
-        "fresh": 455,
+        "fresh": 456,
         "stale": 4,
         "metadata_stale": 0,
-        "missing": 416,
+        "missing": 415,
         "orphan": 0
       },
       "pt": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 875,
-        "fresh": 628,
+        "fresh": 629,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 246,
+        "missing": 245,
         "orphan": 0
       },
       "ru": {
         "total_zh": 875,
-        "fresh": 658,
+        "fresh": 659,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 217,
+        "missing": 216,
         "orphan": 0
       }
     },
@@ -3904,8 +3904,8 @@
           "sourceContentHash": "sha256:a199eb8f6aa7f0fc",
           "sourceBodyHash": "sha256:2680b892b33ad9fa",
           "translatedAt": "2026-07-30T22:54:37+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea14b3c3",
+          "translationLastModified": "2026-07-31T04:02:54+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "status": "fresh",
@@ -13745,7 +13745,18 @@
           "reason": "same-commit"
         },
         "ko": {
-          "status": "missing"
+          "path": "ko/Technology/taiwan-tungsten-supply-chain.md",
+          "translatedFrom": "Technology/台灣鎢供應鏈.md",
+          "sourceCommitSha": "d6fdcf866",
+          "sourceContentHash": "sha256:56ac16371a296013",
+          "sourceBodyHash": "sha256:0ba20d6588799dfb",
+          "translatedAt": "2026-07-31T02:01:52+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 42,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "status": "missing"
@@ -41501,7 +41512,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/za-share.md",
+          "translatedFrom": "Society/雜學校.md",
+          "sourceCommitSha": "1844f59c5",
+          "sourceContentHash": "sha256:a2058786df46a07e",
+          "sourceBodyHash": "sha256:63cdc7eebcc0988a",
+          "translatedAt": "2026-07-30T22:54:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 22,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/za-share.md",
@@ -43008,7 +43030,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/taiwan-yuelao-matchmaker-map.md",
+          "translatedFrom": "Society/台灣月老地圖.md",
+          "sourceCommitSha": "35f2a4dfb",
+          "sourceContentHash": "sha256:21d6ff8612c673fa",
+          "sourceBodyHash": "sha256:dcf98783ab9b2c72",
+          "translatedAt": "2026-07-30T22:54:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -52049,7 +52082,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Politics/city-councilor-system-taiwan.md",
+          "translatedFrom": "Politics/議員制度.md",
+          "sourceCommitSha": "e957cf7f1",
+          "sourceContentHash": "sha256:8e742da3ed42fe59",
+          "sourceBodyHash": "sha256:443bc2c93c1de17f",
+          "translatedAt": "2026-07-30T22:54:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -52273,8 +52317,8 @@
           "sourceContentHash": "sha256:529adc4e4a8cd340",
           "sourceBodyHash": "sha256:4dad7b27d2c04ae8",
           "translatedAt": "2026-07-30T22:54:37+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ea14b3c3",
+          "translationLastModified": "2026-07-31T04:02:54+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "status": "fresh",
@@ -84754,16 +84798,16 @@
         "fr": {
           "path": "fr/People/wu-ming-yi.md",
           "translatedFrom": "People/吳明益.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:2752c026dbd32f77",
-          "sourceBodyHash": "sha256:33817e164492daa0",
-          "translatedAt": "2026-04-14T19:14:43+08:00",
+          "sourceCommitSha": "fdd06c978",
+          "sourceContentHash": "sha256:9e044da79052e1d4",
+          "sourceBodyHash": "sha256:0b3e476aa45a53ca",
+          "translatedAt": "2026-07-31T02:01:51+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (33→0)"
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/wu-ming-yi.md",
@@ -117047,7 +117091,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Culture/traditional-crafts-intangible-cultural-heritage.md",
+          "translatedFrom": "Culture/台灣傳統工藝與無形文化資產.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:d8ceca8d969bbb7a",
+          "sourceBodyHash": "sha256:8d311f99ab1ace9b",
+          "translatedAt": "2026-07-31T02:01:51+08:00",
+          "translationLastCommit": "a389460e",
+          "translationLastModified": "2026-07-24T19:47:45+08:00",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Culture/traditional-crafts-intangible-cultural-heritage.md",
@@ -117094,18 +117149,16 @@
         "fr": {
           "path": "fr/Culture/traditional-crafts-intangible-cultural-heritage.md",
           "translatedFrom": "Culture/台灣傳統工藝與無形文化資產.md",
-          "sourceCommitSha": "51eb3afd",
-          "sourceContentHash": "sha256:b7c990c00c65ffb1",
-          "sourceBodyHash": "sha256:7720c8db697d0d57",
-          "translatedAt": "2026-07-06",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:d8ceca8d969bbb7a",
+          "sourceBodyHash": "sha256:8d311f99ab1ace9b",
+          "translatedAt": "2026-07-31T02:01:51+08:00",
           "translationLastCommit": "21298a7a",
           "translationLastModified": "2026-07-29T13:39:11+09:00",
           "inferred": false,
           "footnoteDefs": 29,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+11 -11"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Culture/traditional-crafts-intangible-cultural-heritage.md",

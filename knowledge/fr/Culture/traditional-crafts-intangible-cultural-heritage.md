@@ -1,309 +1,309 @@
 ---
-title: 'Artisanat traditionnel et patrimoine culturel immatériel de Taïwan : la reconnaissance institutionnelle est arrivée, mais les apprentis ont disparu'
-description: 'En décembre 2022, le ministère de la Culture a inscrit Su Qingliang, maître maçon de Kaohsiung âgé de 87 ans, parmi les « trésors nationaux vivants » ; il est mort six mois plus tard. Taïwan n’a intégré les « détenteurs d’un artisanat traditionnel important » dans la Loi sur la préservation du patrimoine culturel qu’en 2005, avec 50 ans de retard sur le Japon et 43 ans sur la Corée. Quand le dispositif a enfin été en place, le système d’apprentissage s’était déjà effondré dans l’industrialisation des années 1970-1980 : parmi plus de 600 maîtres artisans traditionnels, les moins de 50 ans ne sont « qu’une minorité ». Plus la liste s’allonge, moins il reste de personnes capables d’enseigner.'
+title: 'Artisanat traditionnel taïwanais et patrimoine culturel immatériel : le système est enfin reconnu, mais les apprentis ont disparu'
+description: "En décembre 2022, le ministère de la Culture a désigné Su Qingliang, 87 ans, expert en maçonnerie traditionnelle de Kaohsiung, comme « Trésor humain national » ; il est décédé six mois plus tard. Taïwan n'a inscrit la catégorie des « détenteurs importants de techniques traditionnelles » dans sa loi sur le patrimoine culturel qu'en 2005, soit 50 ans après le Japon et 43 ans après la Corée. Alors que le système institutionnel se met enfin en place, le système d'apprentissage s'est effondré lors de l'industrialisation des années 1970-80 : parmi les plus de 600 artisans traditionnels, ceux de moins de 50 ans ne constituent qu'une « minorité ». La liste des détenteurs s'allonge, mais le nombre de maîtres capables d'enseigner diminue."
 date: 2026-05-15
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '傳統工藝'
 tags:
   [
     'artisanat traditionnel',
     'patrimoine culturel immatériel',
-    'trésor national vivant',
+    'trésor humain national',
     'ministère de la Culture',
-    'artisan',
+    'maître artisan',
     'Su Qingliang',
     'Yuma Taru',
     'Lin Guangyi',
     'Wang Qingshuang',
-    'Loi sur la préservation du patrimoine culturel',
+    'loi sur la conservation du patrimoine culturel',
   ]
-readingTime: 14
+subcategory: '傳統工藝'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-05-15
 lastHumanReview: false
-featured: false
-translatedFrom: 'Culture/台灣傳統工藝與無形文化資產.md'
-sourceCommitSha: '51eb3afd'
-sourceContentHash: 'sha256:b7c990c00c65ffb1'
-sourceBodyHash: 'sha256:7720c8db697d0d57'
-translatedAt: '2026-07-06'
 image: '/article-images/culture/meinong-paper-umbrella-2013.webp'
 imageCredit: 'Outlookxp'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG'
+readingTime: 14
+translatedFrom: 'Culture/台灣傳統工藝與無形文化資產.md'
+sourceCommitSha: '21298a7ae'
+sourceContentHash: 'sha256:d8ceca8d969bbb7a'
+sourceBodyHash: 'sha256:8d311f99ab1ace9b'
+translatedAt: '2026-07-31T02:01:51+08:00'
 ---
 
-# Artisanat traditionnel et patrimoine culturel immatériel de Taïwan : la reconnaissance institutionnelle est arrivée, mais les apprentis ont disparu
+# Artisanat traditionnel taïwanais et patrimoine culturel immatériel : le système est enfin reconnu, mais les apprentis ont disparu
 
-> **Aperçu en 30 secondes :** en décembre 2022, le ministère de la Culture a annoncé une nouvelle liste de « trésors nationaux vivants ». Su Qingliang, maître maçon de Kaohsiung âgé de 87 ans, y a été inscrit comme détenteur des « techniques de restauration en maçonnerie » ; il est mort six mois plus tard. Taïwan n’a intégré les dispositions relatives aux « techniques de préservation du patrimoine culturel et à leurs détenteurs » dans la Loi sur la préservation du patrimoine culturel qu’en 2005 ; en 2016 seulement, une nouvelle révision a divisé le patrimoine culturel immatériel en cinq grandes catégories. Le Japon avait désigné ses 30 premiers trésors nationaux vivants dès 1955, et la Corée avait établi un dispositif comparable en 1962. Taïwan avait 50 ans de retard. Quand la loi a enfin été en place, le système d’apprentissage s’était déjà effondré dans la vague du déclin de la sous-traitance à l’exportation et de l’industrialisation des années 1970-1980. Selon les statistiques du Bureau du patrimoine culturel, parmi les plus de 600 titulaires de la qualification de « maître artisan traditionnel » à l’échelle nationale, les moins de 50 ans ne sont « qu’une minorité ».[^1] [^2] [^3]
-
----
-
-## La dernière couche de chaux devant les monuments de Tamsui
-
-Le 19 décembre 2022, le ministère de la Culture a publié une nouvelle liste de détenteurs de « techniques de préservation du patrimoine culturel ». Su Qingliang, maître maçon de Hunei, à Kaohsiung, âgé de 87 ans, a été inscrit au titre des « techniques de restauration en maçonnerie ». Il était le premier artisan de Kaohsiung reconnu comme détenteur national de patrimoine culturel immatériel dans la catégorie des « techniques de préservation du patrimoine culturel ».[^1]
-
-Depuis l’année de ses 16 ans, lorsqu’il était entré en apprentissage auprès du maître maçon Han Qifu, il avait travaillé plus de soixante-dix ans dans la maçonnerie traditionnelle. Il avait restauré plus de 30 monuments historiques, d’un bout à l’autre de Taïwan : le bâtiment du Département des chemins de fer du Bureau des transports du gouvernement général de Taïwan, classé monument national, l’ancien gouvernement préfectoral de Hsinchu, la résidence de la famille Lin à Wufeng et la vieille ville de Hengchun portent tous sa marque.[^4]
-
-Il avait dit en taïwanais à un journaliste de l’agence CNA :
-
-> « 阮自臺灣頭做到臺灣尾，對淡水一直做⋯⋯，做去到恆春。」[^1]
-
-L’année où il a été reconnu, son petit-fils Su Jianming est officiellement devenu son apprenti et a obtenu la qualification de maître artisan traditionnel délivrée par le ministère de la Culture. Grand-père et petit-fils ont ensuite pris ensemble en charge la restauration du sommet de la tour du Musée d’histoire de Kaohsiung.
-
-> « 孫仔欲出來做，阮足歡喜的！按呢（修復）古蹟的工課就袂無去矣！因為阮拄仔好三代攏咧做古蹟，阮一代、阮後生一代、阮孫仔一代。」[^1]
-
-Su Qingliang est mort le 20 juillet 2023. La présidence lui a décerné une citation honorifique, dans un communiqué qui employait une formule funèbre comme « modèle depuis toujours ».[^5] Dans sa bouche, le titre de « trésor national vivant » signifiait : « quelqu’un reprend enfin mon métier ». Mais en 2026, une famille comme la sienne, où le savoir s’est transmis sur trois générations, est déjà une exception dans le milieu taïwanais de la maçonnerie traditionnelle.
+> **En 30 secondes :** En décembre 2022, le ministère de la Culture a annoncé la nouvelle liste des « détenteurs de techniques de conservation du patrimoine culturel », désignant Su Qingliang, 87 ans, expert en maçonnerie traditionnelle (_tushui_) de Kaohsiung comme détenteur de la « technique de construction et de réparation en maçonnerie traditionnelle ». Il est décédé six mois plus tard. Taïwan n'a intégré la disposition relative aux « techniques de conservation du patrimoine culturel et à leurs détenteurs » dans la _Loi sur la conservation du patrimoine culturel_ qu'en 2005, et ce n'est qu'avec la révision de 2016 que le patrimoine culturel immatériel a été divisé en cinq grandes catégories. Le Japon avait désigné ses premiers 30 « Trésors humains nationaux » en 1955, et la Corée avait établi un système similaire en 1962. Taïwan a pris 50 ans de retard. Lorsque la loi est enfin entrée en vigueur, le système d'apprentissage s'était déjà effondré dans les vagues de déclin de la sous-traitance pour l'exportation et de l'industrialisation des années 1970-80. Selon les statistiques du Bureau du patrimoine culturel, sur les plus de 600 détenteurs du titre de « maître artisan traditionnel » à travers le pays, ceux de moins de 50 ans ne constituent qu'une « minorité ». [^1] [^2] [^3]
 
 ---
 
-## « Trésor national vivant », un terme importé du Japon avec 50 ans de retard
+## La dernière couche de chaux blanche devant les monuments historiques de Tamsui
 
-L’expression « trésor national vivant » vient du Japon. À Taïwan, elle est une transplantation du système japonais.
+Le 19 décembre 2022, le ministère de la Culture a publié la liste des nouveaux détenteurs de « techniques de conservation du patrimoine culturel ». Su Qingliang, 87 ans, habitant de Hunei à Kaohsiung, a été désigné comme détenteur de la « technique de construction et de réparation en maçonnerie traditionnelle ». Il s'agit du premier artisan de Kaohsiung à être reconnu comme détenteur d'un patrimoine culturel immatériel national dans cette catégorie. [^1]
 
-Le Japon a promulgué en 1950 la Loi sur la protection des biens culturels. Au départ, il s’agissait d’une protection passive, destinée à sélectionner ce qui risquait de disparaître. La première révision, en 1954, a établi clairement deux dispositifs de reconnaissance : les « biens culturels immatériels importants » et leurs « détenteurs ». Le 15 février 1955, les 30 premiers « détenteurs de biens culturels immatériels importants » ont été désignés, sous l’appellation courante de trésors nationaux vivants. À partir de 1964, chaque détenteur reconnu individuellement a reçu une subvention annuelle de 2 millions de yens, affectée à la formation de successeurs, à la recherche et à la documentation.[^6]
+À l'âge de 16 ans, il est devenu l'élève de Han Qifu (maître en maçonnerie traditionnelle) ; il exerce ainsi dans le domaine du gros œuvre depuis plus de soixante-dix ans. Il a restauré plus de 30 monuments historiques, couvrant l'ensemble du territoire taïwanais : le Siège du Bureau des chemins de fer du Bureau des transports du gouverneur général de Formose (monument national historique), le bureau du district de Hsinchu, la résidence de la famille Lin de Wufeng et l'ancienne ville de Hengchun portent toutes la trace de son travail. [^4]
 
-La Corée a adopté sa Loi sur la protection des biens culturels en 1962. Le dispositif imitait largement le modèle japonais, tout en incluant les traditions populaires dans son champ.[^7]
+Il a déclaré en dialecte hakka à l'agence de presse CNA :
 
-Et Taïwan ? La première version de la Loi sur la préservation du patrimoine culturel n’est apparue qu’en 1982, avec les monuments historiques, donc le patrimoine matériel, pour centre de gravité. Ce n’est qu’à la cinquième grande révision, en 2005, que les « techniques de préservation du patrimoine culturel et leurs détenteurs » ont été ajoutés dans les dispositions légales, donnant enfin une base juridique correspondant à l’esprit du système japonais. La révision de 2016 a ensuite divisé le « patrimoine culturel immatériel » en cinq grandes catégories : arts traditionnels du spectacle, artisanat traditionnel, traditions orales, pratiques populaires, savoirs et pratiques traditionnels.[^3]
+> « Je suis allé du nord au sud de Taïwan, en travaillant toujours sur Tamsui... jusqu'à Hengchun. » [^1]
 
-| Pays   | Loi                                                                                       | Lancement du dispositif                                                           | Écart avec Taïwan   |
-| ------ | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------- |
-| Japon  | Loi sur la protection des biens culturels de 1950 → révision de 1954                      | Première cohorte de 30 personnes en 1955                                          | 50 ans avant Taïwan |
-| Corée  | Loi sur la protection des biens culturels de 1962                                         | 1962                                                                              | 43 ans avant Taïwan |
-| Taïwan | Loi sur la préservation du patrimoine culturel de 1982 → grandes révisions de 2005 / 2016 | Inscription dans la loi en 2005 / premières reconnaissances individuelles en 2010 | —                   |
+L'année de sa reconnaissance, son petit-fils, Su Jianming, a officiellement pris l'ascenseur (devenu son élève) et obtenu le titre de maître artisan traditionnel décerné par le ministère de la Culture. Le grand-père et le petit-fils ont ensuite collaboré conjointement à la restauration du sommet de la tour du Musée d'histoire de Kaohsiung.
 
-L’explication courante consiste à dire que « Taïwan s’est développé plus tard, donc son système est arrivé plus tard ». Mais **cette explication inverse la causalité**. Dans les années 1950-1970, les industries artisanales de Taïwan étaient un pilier des exportations : chapeaux en jonc, vannerie de bambou, céramique et décorations lumineuses de Noël étaient exportés en masse vers les États-Unis et le Japon, à une échelle industrielle qui fut un temps plus dynamique que celle du Japon de la même période. Si le dispositif est arrivé tard, c’est parce que pendant ces 50 années, la définition gouvernementale du patrimoine culturel ne couvrait que les monuments et les objets, pas « les personnes qui savent les fabriquer ». Quand les personnes ont enfin été inscrites dans la loi, les artisans qui existaient dans tant de foyers pendant ces 50 années avaient déjà vieilli les uns après les autres.
+> « Je suis très heureux que mon petit-fils veuille s'engager dans ce métier ! Ainsi, le travail de restauration des monuments historiques ne disparaîtra pas ! Parce que nous avons précisément trois générations qui travaillent ensemble sur les monuments historiques : ma génération, la génération de nos jeunes et la génération de nos petits-fils. » [^1]
 
-> 📝 **Note de commissariat** : en 1955, la première cohorte japonaise de trésors nationaux vivants avait 55 ans d’âge moyen. En 2025, le dispositif a connu sa première grande réforme en 50 ans, intégrant la « culture de la vie quotidienne » (cuisiniers, maîtres-brasseurs de saké), car le vieillissement des secteurs techniques de l’artisanat est devenu grave : chaque année, 5 à 10 trésors nationaux vivants meurent, et plusieurs métiers comptent leur « dernier trésor national vivant ».[^2] Le décalage temporel de Taïwan revient à hériter d’un dispositif qui était déjà engagé dans une course contre le temps, sans disposer de la même densité de subventions.
+Su Qingliang est décédé le 20 juillet 2023. Le président a décerné un décret de louange, et le communiqué de presse a utilisé l'expression de couplet funéraire « _Xingzai suxi_ » (le modèle exemplaire appartient au passé). [^5] L'appellation de « Trésor humain national » s'est transformée dans sa bouche en « quelqu'un de ma profession finit par reprendre le relais ». Pourtant, les familles où la transmission se fait sur trois générations, comme la sienne, sont devenues une exception dans le secteur de la maçonnerie traditionnelle taïwanaise en 2026.
 
 ---
 
-## La terre de Yingge, les arbres de Sanyi, la pluie de Meinong
+## Le terme de « Trésor humain national » est une transplantation taïwanaise arrivée 50 ans après le Japon
 
-![Façade du Musée de la sculpture sur bois de Sanyi, seul musée public de Taïwan consacré à la sculpture sur bois ; confié en avril 2007 par le gouvernement du comté de Miaoli à un opérateur externe, il est le principal espace d’exposition du pôle artisanal de Sanyi](/article-images/culture/sanyi-wood-sculpture-museum-2010.webp)
-_Façade du Musée de la sculpture sur bois de Sanyi (village de Guangsheng, canton de Sanyi, comté de Miaoli), seul musée public de Taïwan consacré à la sculpture sur bois. Photo : Anrew0517, 2010-05-01, CC BY-SA 3.0, [Commons File](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg)._
+Le terme de « Trésor humain national » (_Ningen Kokuhō_) est d'origine japonaise ; il s'agit d'une transplantation du système japonais à Taïwan.
 
-Les pôles artisanaux n’apparaissent pas à partir de rien. Chacun est le produit d’une double cristallisation : « matériaux locaux × techniques apportées par les migrants ». La géographie fixe les possibilités de production dans un certain rayon ; les migrants déterminent quelles industries y prendront forme.
+Le Japon a promulgué la _Loi sur la protection des biens culturels_ en 1950, initialement axée sur une protection passive « sélectionnée par peur de la disparition ». La première révision en 1954 a établi clairement deux systèmes de reconnaissance : les « Biens culturels immatériels importants » et les « Détenteurs ». Le 15 février 1955, les premiers 30 « Détenteurs de Biens culturels immatériels importants » (communément appelés Trésors humains nationaux) furent désignés. À partir de 1964, chaque détenteur individuellement reconnu percevait une subvention gouvernementale annuelle de 2 millions de yens japonais, fonds spéciaux destinés à la formation des successeurs, à la recherche et à la documentation. [^6]
 
-**Yingge (céramique)** : dans les secteurs de Jianshan et Dahu, l’argile est fine et collante, excellente pour la poterie. En 1804, neuvième année de l’ère Jiaqing des Qing, Wu An, originaire de Cizao, à Quanzhou, dans le Fujian, traversa la mer vers Taïwan et ouvrit un four à Tuzikeng, à Dahu. Après des affrontements armés entre immigrés de Quanzhou et de Zhangzhou, il se déplaça à Kanjiao, puis en 1853, troisième année de l’ère Xianfeng, à Jianshanpu, l’actuelle vieille rue de Yingge. Ses parents Wu An et Wu Su vinrent ensuite à Taïwan le rejoindre.[^8] [^9] Après le début de la domination japonaise en 1895, le gouvernement colonial investit des ressources d’industrialisation à Beitou, Nantou, Miaoli et Yingge. En 1931, le « mouvement d’industrialisation » introduisit des fours mécanisés et des techniques de cuisson modernes.[^10] À son apogée dans les années 1990, Yingge comptait 1 300 usines de céramique et était surnommée à l’international le « Jingdezhen de Taïwan ».[^11]
+La Corée a promulgué sa _Loi sur la protection des biens culturels_ en 1962, adoptant un système largement inspiré du modèle japonais, mais élargissant le champ d'application aux traditions folkloriques. [^7]
 
-Le chiffre qui suit oblige à s’arrêter : selon les statistiques des usines de produits non métalliques, Yingge est passée d’un pic de 701 établissements à la fin des années 1980 à 662 en 1997, 554 en 2002, 289 en 2007, puis à moins de 100 usines et ateliers individuels en 2024.[^12] Trois causes de déclin se sont superposées : la mondialisation a déplacé la production vers la Chine et l’Asie du Sud-Est, l’automatisation a créé une offre excédentaire, et les coûts environnementaux ont augmenté. L’argile est toujours sous Jianshan ; les personnes qui savent faire de la céramique n’y sont plus.
+Et Taïwan ? La première version de la _Loi sur la conservation du patrimoine culturel_ n'est apparue qu'en 1982, l'accent étant mis sur les monuments historiques (le patrimoine matériel). Ce n'est qu'avec la cinquième révision majeure en 2005 que la disposition relative aux « techniques de conservation du patrimoine culturel et à leurs détenteurs » a été ajoutée aux articles, donnant enfin une base juridique à l'esprit du système japonais. La révision de 2016 a divisé le « patrimoine culturel immatériel » en cinq grandes catégories : les arts du spectacle traditionnels, l'artisanat traditionnel, les traditions orales, les traditions folkloriques, et les connaissances et pratiques traditionnelles. [^3]
 
-**Sanyi (sculpture sur bois)** : les montagnes de Miaoli étaient couvertes de camphriers. En 1918, septième année de l’ère Taishō, Wu Jinbao fonda, au nom de son fils Wu Luosong, la Tōtatsu Bussan Kabushiki Kaisha en association avec un Japonais nommé Okazaki. Le bois de camphrier était alors contrôlé par le gouvernement japonais. Wu Jinbao fut détenu pour avoir ramassé des souches de camphrier ; ce n’est qu’après les démarches de son épouse Luo Duanmei qu’il fut libéré sous caution, puis qu’il eut l’occasion de s’associer avec Okazaki. La sculpture sur bois de Sanyi se distingue de celles d’autres régions du monde par son goût pour les racines, les souches et les loupes, autrement dit pour la « sculpture ingénieuse sur bois singulier ». Son origine se trouve dans les déchets laissés par l’industrie du camphre. Les Japonais voulaient l’huile de camphre, pas les souches ; le sous-produit de cette industrie est devenu le point de départ de la sculpture sur bois taïwanaise.[^13]
+| Pays   | Loi                                                                        | Lancement du système                                                         | Écart avec Taïwan   |
+| ------ | -------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------- |
+| Japon  | Loi de 1950 sur la protection des biens culturels → Révision de 1954       | 1955 : premiers 30 détenteurs                                                | 50 ans avant Taïwan |
+| Corée  | Loi de 1962 sur la protection des biens culturels                          | 1962                                                                         | 43 ans avant Taïwan |
+| Taïwan | Loi de 1982 sur le patrimoine culturel → Révisions majeures de 2005 / 2016 | 2005 : inscription dans la loi / 2010 : première reconnaissance individuelle | —                   |
 
-**Meinong (ombrelles en papier)** : durant l’ère Taishō de la période japonaise, dans les années 1910, les migrants hakkas Lin Agui et Wu Zhenxing invitèrent des maîtres fabricants d’ombrelles de Chaozhou, dans le Guangdong, à venir transmettre leur art à Taïwan. Selon une autre version, un maître du district de Mei, dans le Guangdong, Guo Yuqin, traversa la mer et s’installa à Meinong. Les premières fabriques d’ombrelles de Meinong portaient souvent le caractère « Guang » dans leur nom, comme Guanghuaxing, Guangzhenxing, Guangdexing ou Guangjinsheng, en mémoire de leurs origines dans le Guangdong.[^14] [^15] Dans l’âge d’or des années 1960, Meinong produisait 20 000 ombrelles par an, pour une valeur de 40 millions de nouveaux dollars taïwanais.[^14] En 1981, l’enquête de terrain du magazine Guanghua relevait qu’une personne travaillant seule fabriquait en moyenne deux ombrelles par jour ; une équipe de cinq personnes divisant les tâches pouvait produire jusqu’à 1 000 pièces par mois. Il existait trois formats réguliers, 24 pouces, 14,5 pouces et 12 pouces, tous à 32 baleines de bambou ; les pièces spéciales comptaient 40 baleines et un rayon de 22 pouces. Les prix allaient de 350 à 1 000 nouveaux dollars taïwanais.[^15]
+La version courante de l'explication est « Taïwan s'est développé plus tardivement, donc le système est arrivé plus tard », mais **cette version inverse la causalité**. Le secteur de l'artisanat taïwanais était la force motrice des exportations dans les années 1950-70 : chapeaux en jonc, vannerie en bambou, céramique et décorations de Noël étaient massivement exportés vers les États-Unis et le Japon, la taille de l'industrie étant à certains moments plus florissante que celle du Japon à la même époque. La raison pour laquelle le système est arrivé tardivement est que, pendant ces 50 ans, la définition gouvernementale du patrimoine culturel se limitait aux monuments historiques et aux objets, sans inclure « les personnes qui fabriquaient ces objets ». Lorsque les personnes ont été inscrites dans la loi, ces 50 ans avaient vu les maîtres artisans de chaque foyer vieillir un par un.
 
-Lin Xianghong, propriétaire de l’atelier Guangrongxing, déclarait en 1981 à un journaliste de Guanghua :
-
-> « 由於製作過程複雜、工作辛苦，現在的年輕人都沒有耐心及恆心來學。也因此我們真是面臨後繼無人的局面了。」[^15]
-
-Cette phrase a été écrite en 1981. Quarante-cinq ans plus tard, elle se lit comme si elle venait d’être prononcée aujourd’hui.
-
-**Zhushan, Nantou (vannerie de bambou)** : les ressources en bambou, combinées à l’« Institut de transmission de l’artisanat du bambou » établi en 1939 dans le district de Zhushan par les Japonais Ikeda et Futagami, ont formé le centre de la vannerie de bambou taïwanaise d’après-guerre. Huang Tushan entra dans cet institut en 1939 après avoir obtenu son diplôme de l’école publique de Zhushan ; il devint ensuite l’un des fondateurs du système taïwanais de vannerie de bambou d’après-guerre.[^16] Il ne fut reconnu comme détenteur de la « vannerie de bambou » qu’en 2010, à 84 ans, et mourut en 2020.
+> 📝 **Note du conservateur** : En 1955, l'âge moyen des premiers Trésors humains nationaux japonais était de 55 ans. En 2025, le système a subi sa première grande réforme en 50 ans, intégrant la « culture de la vie quotidienne » (cuisiniers, maîtres brasseurs de saké _Toji_) en raison du vieillissement sévère du secteur des techniques artisanales ; 5 à 10 Trésors humains nationaux décèdent chaque année, et plusieurs techniques artisanales font face à la situation du « dernier Trésor humain national ». [^2] Taïwan a hérité d'un système qui court déjà contre la montre, tout en n'ayant pas la même densité de subventions.
 
 ---
 
-## Un artisanat que le gouvernement n’a pas sauvé : la renaissance de la teinture à l’indigo de Sanxia
+## L'argile de Yingge, le bois de Sanyi, la pluie de Meinong
 
-![Les vêtements teints à l’indigo de la « série bleu et blanc », exposés au Musée d’histoire et de patrimoine du district de Sanxia, constituent l’une des archives visuelles contemporaines les plus représentatives de la renaissance de l’indigo de Sanxia après 1996](/article-images/culture/sanxia-indigo-display.webp)
-_Les vêtements teints à l’indigo de la « série bleu et blanc », exposés au Musée d’histoire et de patrimoine du district de Sanxia, montrent les usages contemporains de l’indigo de Sanxia après la renaissance de 1996. Photo : 寺人孟子, CC BY-SA 4.0, [Commons File](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg)._
+![Extérieur du Musée de la sculpture sur bois de Sanyi, le seul musée public de Taïwan consacré à la sculpture sur bois, géré par contrat par le gouvernement du comté de Miaoli depuis avril 2007, constituant l'espace d'exposition central du cluster artisanal de la sculpture sur bois de Sanyi](/article-images/culture/sanyi-wood-sculpture-museum-2010.webp)
+_Extérieur du Musée de la sculpture sur bois de Sanyi (village Guangsheng, canton de Sanyi, comté de Miaoli), le seul musée public de Taïwan consacré à la sculpture sur bois. Photo : Anrew0517, 2010-05-01, CC BY-SA 3.0, [Fichier Commons](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg)._
 
-Sanxia, autrefois appelé Sanjiaoyong, était sous l’ère Guangxu des Qing le plus important centre de teinture textile du nord de Taïwan. Ses eaux claires et ses vallées humides convenaient à la culture du daqing, ou Strobilanthes cusia, plante tinctoriale de l’indigo, et les ateliers de teinture se succédaient dans les rues. Les façades en briques rouges de la vieille rue de Sanxia sont encore aujourd’hui le témoignage historique de l’enrichissement local par l’indigo.[^17]
+Les clusters artisanaux ne poussent pas du jour au lendemain. Chacun est le double cristal de « matériaux locaux × techniques apportées par les migrants ». La géographie verrouille les possibilités de production dans un rayon donné, tandis que les migrants déterminent quelle industrie émergera dans ce rayon.
 
-Mais avec l’introduction des colorants synthétiques européens sous l’ère Guangxu, puis la popularisation des vêtements occidentaux et des kimonos après le milieu de la période japonaise, la teinture traditionnelle des tissus disparut progressivement. L’indigo de Sanxia fut perdu pendant plus de 70 ans.
+**Yingge (céramique)** : Les argiles des zones de Qianshan et Dahuhu sont fines et collantes, idéales pour la poterie. En 1804 (9e année du règne Jiaqing de la dynastie Qing), Wu An a traversé la mer depuis le site de production de céramique de Quanzhou (Fujian) pour venir à Taïwan et ouvrir un four à Tubikeng, dans le district de Dahuhu. Suite aux conflits entre les clans Quan et Zhang, il a déménagé à Qianjiao, puis à Qianshanpu en 1853 (3e année du règne Xianfeng), ce qui correspond à l'actuelle vieille rue de Yingge. Les membres de la famille Wu, Wu An et Wu Su, sont venus s'ajouter à la communauté. [^8] [^9] Après l'ère coloniale japonaise à partir de 1895, le gouvernement colonial a investi des ressources industrielles à Beitou, Nantou, Miaoli et Yingge ; le « mouvement d'industrialisation » de 1931 a introduit des équipements de fours mécanisés et des techniques de cuisson. [^10] À son apogée dans les années 1990, Yingge comptait 1 300 usines de céramique, étant internationalement surnommée « le Jingdezhen de Taïwan ». [^11]
 
-La renaissance des années 1990 n’a en réalité pas commencé dans un service gouvernemental, mais par les habitants de Sanxia eux-mêmes. En 1990, des habitants lancèrent le mouvement « À la recherche du bleu perdu de Sanxia » ; en 1994, l’Atelier d’histoire et de culture de Sanjiaoyong fut fondé ; en 1996, l’Association culturelle de Sanjiaoyong fut officiellement créée ; en 1999, elle lança un programme de promotion de l’indigo et de reconstitution technique. La secrétaire générale Liu Meiling, avec les enseignantes Ma Fenmei et Chen Jinglin, travailla à retrouver les techniques perdues de la teinture à l’indigo.[^17]
+Ce chiffre suivant vous fera peut-être marquer le pas : selon les statistiques des usines de produits non métalliques, le nombre d'usines à Yingge est passé d'un pic de 701 à la fin des années 1981 (année 70 de l'ère républicaine) à 662 en 1997, 554 en 2002, 289 en 2007, et aujourd'hui en 2024, il ne reste plus de 100 usines et ateliers individuels. [^12] Trois raisons se superposent pour expliquer ce déclin : la mondialisation a déplacé la production vers la Chine et l'Asie du Sud-Est, l'automatisation a créé un excès d'offre, et les coûts environnementaux ont augmenté. L'argile est toujours sous Qianshan, mais les personnes capables de faire de la poterie ne sont plus là.
 
-Cette chronologie est l’inverse de celle du dispositif des « trésors nationaux vivants » : avant l’arrivée du dispositif en 2005, la renaissance artisanale était déjà en cours dans la société civile depuis 1990. Quand la Loi sur la préservation du patrimoine culturel a intégré le système de sauvegarde, l’indigo de Sanxia vivait déjà de lui-même depuis 15 ans. Le dispositif est venu certifier ; il n’est pas venu sauver.
+**Sanyi (sculpture sur bois)** : Les montagnes du comté de Miaoli sont couvertes de cyprès. En 1918 (7e année Taishō), Wu Jinbao a fondé la « Dongda Wuchan Co., Ltd. » en partenariat avec le Japonais Gaoqi, au nom de son fils Wu Luosong. À l'époque, le bois de camphrier était sous contrôle du gouvernement japonais ; Wu Jinbao fut détenu après avoir ramassé des souches de camphrier, et n'a été libéré sous caution qu'après les démarches de sa femme, Luo Duanmei. Il a ensuite pu entreprendre des affaires conjointes avec Gaoqi. La sculpture sur bois de Sanyi diffère de celle d'autres régions du monde par son amour pour les « souches, les têtes d'arbres et les nœuds », c'est-à-dire la « sculpture habile sur bois bizarre », dont la source réside dans les déchets laissés par l'industrie du camphre. Les Japonais recherchaient l'huile de camphre, pas les souches. Les sous-produits de l'industrie du camphre sont devenus le point de départ de l'industrie de la sculpture sur bois taïwanaise. [^13]
 
-> 📝 **Note de commissariat** : le cas de Sanxia révèle un contraste invisible. La « **renaissance artisanale ascendante** » et la « **préservation du patrimoine culturel descendante** » relèvent de deux trajectoires différentes. Les subventions du ministère de la Culture vont le plus souvent à des organisations, associations, musées ou centres de recherche ; la part qui revient directement aux artisans est faible. Le financement est organisé par projets : une fois le projet terminé, le soutien s’arrête, sans pouvoir accompagner la création artisanale à long terme. Les critiques universitaires de la structure des subventions butent précisément sur ce décalage structurel.
+**Meinong (parapluie en papier)** : Pendant la période Taishō de l'ère coloniale japonaise (années 1910), les migrants hakka Lin Agui et Wu Zhenxing ont invité des maîtres parapluie de Chaozhou (Guangdong) à venir enseigner leur art à Taïwan (une autre version indique que le maître Guo Yuqin du district de Meixian, Guangdong, a traversé la mer pour s'installer à Meinong). Les premières usines de parapluie en papier de Meinong portaient majoritairement le caractère « Guang » (Guanghuaxing, Guangzhenxing, Guangdexing, Guangjinsheng) pour commémorer leurs origines cantonaises. [^14] [^15] À l'âge d'or des parapluies en papier dans les années 1960, Meinong produisait annuellement 20 000 parapluies, pour une valeur de production de 40 millions de dollars taïwanais. [^14] Enquête de terrain de _Guanghua_ en 1981 : un seul artisan produisait en moyenne 2 parapluies par jour. Avec une équipe de cinq personnes travaillant de concert, la production mensuelle maximale atteignait 1 000 parapluies. Il existait trois tailles standard (24 pouces / 14,5 pouces / 12 pouces), toutes avec 32 armatures en bambou ; les produits spéciaux avaient 40 armatures et un rayon de 22,5 pouces. Le prix de vente variait de 350 à 1 000 dollars taïwanais. [^15]
 
----
+Lin Xianghong, propriétaire de l'usine Guangrongxing, a déclaré aux journalistes de _Guanghua_ en 1981 :
 
-## Apprendre un métier auprès d’un maître mort depuis cent ans
+> « En raison de la complexité du processus de fabrication et de la pénibilité du travail, les jeunes d'aujourd'hui n'ont ni la patience ni la persévérance pour apprendre. Nous faisons donc face à une situation où il n'y a plus de successeurs. » [^15]
 
-En 1981, la céramique Koji de Ye Wang au temple Ciji de Xuejia, à Chiayi, fut volée.
+Cette phrase a été écrite en 1981. 45 ans plus tard, elle semble avoir été dite aujourd'hui.
 
-Lin Guangyi, alors tout juste trentenaire, venait d’entrer auprès de Lin Tianmu pour apprendre les glaçures de la céramique Koji, et prit en charge la restauration. Ye Wang, aussi appelé Ye Shi, né en 1826 et premier céramiste Koji local de Taïwan, était mort depuis plus d’un siècle. Les recettes de glaçure, les températures de cuisson et les proportions de couleurs de son époque n’avaient laissé aucune trace écrite.[^18]
-
-Au cours de la restauration, Lin Guangyi découvrit qu’il ne savait tout simplement pas quelles matières premières ni quelles proportions de glaçure Ye Wang avait utilisées. Chaque couleur qu’il préparait était inexacte ; chaque erreur de proportion semblait confirmer à nouveau qu’il était impossible de revenir à l’époque où Ye Wang était encore vivant. Il déclara plus tard à un journaliste du magazine Rhythms Monthly :
-
-> « 在整個修復過程中，其實我好像是從頭再學習一次。」[^18]
-
-Il ajouta :
-
-> « 如果葉王還在，我一定拜他為師。」[^18]
-
-Lin Guangyi passa plus de dix ans à retrouver progressivement ces procédés, et fut plus tard reconnu comme « héritier de troisième génération de la céramique Koji de Ye Wang ». Mais il savait que ce qu’il avait retrouvé n’était que ce qui se rapprochait le plus de Ye Wang, non Ye Wang lui-même.
-
-La vraie difficulté de la perte d’un artisanat est là : lorsqu’une ou deux générations intermédiaires ont été rompues, même si les descendants veulent apprendre, ils ne trouvent plus de maître auprès de qui se placer. L’apprentissage exige deux personnes face à face, un maître corrigeant les erreurs de la main à la main ; on se trompe une fois, on est corrigé une fois, et la fois suivante on fait juste. La chaîne d’apprentissage de Ye Wang s’est rompue après sa mort. Lin Guangyi ne pouvait apprendre qu’auprès des « œuvres » de Ye Wang, pas auprès de Ye Wang.
+**Zhushan (Nantou) (vannerie en bambou)** : Les ressources en bambou, combinées à l'« Institut de formation aux artisanats du bambou » établi par les Japonais Ikeda et Jingashen dans le district de Zhushan en 1939, ont formé le centre de la vannerie en bambou de l'après-guerre à Taïwan. Huang Tusong, diplômé de l'école primaire de Zhushan en 1939, a intégré cet institut et est devenu l'un des pionniers du système de vannerie en bambou de Taïwan dans l'après-guerre. [^16] Il n'a été reconnu comme détenteur de la technique de « vannerie en bambou » qu'à l'âge de 84 ans (2010), et est décédé en 2020.
 
 ---
 
-## Le motif tissé est une mémoire du corps : les 34 ans de Yuma Taru
+## Ce n'est pas le gouvernement qui a sauvé l'artisanat : la renaissance de la teinture indigo de Sanxia
 
-En 1992, Yuma Taru, nom chinois Huang Yali, Atayal née en 1963 dans le canton de Tai’an, à Miaoli, allait avoir 30 ans lorsqu’elle commença à « parcourir les communautés ». Elle visita huit sous-groupes atayal et plus de 100 villages pour mener des enquêtes de terrain.[^19] À partir de 1996, son mari Baunay Watan l’accompagna pendant trois ans pour tourner un documentaire, achevé en 1999 sous le titre _K'gi na yaki_ (« La ramie de grand-mère »), qui documente son apprentissage des techniques traditionnelles de tissage atayal auprès de sa grand-mère.[^20]
+![Vêtements de teinture indigo de la série « Bleu et Blanc » exposés au Musée d'histoire et de patrimoine du district de Sanxia, constituant le fichier visuel contemporain le plus représentatif de la renaissance de la teinture indigo de Sanxia depuis 1996](/article-images/culture/sanxia-indigo-display.webp)
+_Vêtements de teinture indigo de la série « Bleu et Blanc » présentés au Musée d'histoire et de patrimoine du district de Sanxia, illustrant l'application contemporaine de la teinture indigo de Sanxia après sa renaissance en 1996. Photo : 寺人孟子, CC BY-SA 4.0, [Fichier Commons](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg)._
 
-Son atelier de tissage, Lihang Studio, est installé dans la communauté de Xiangbi, à Miaoli. Le long de la vallée de la Daan, elle y recrute des femmes autochtones pour leur apprendre le tissage. De 1992 à 2026, elle y a consacré 34 ans et a réussi à reconstituer 400 à 500 vêtements traditionnels atayal.[^21]
+Sanxia (ancien nom : Sanyiaojong) était le centre le plus important de l'industrie de la teinture de tissus du nord de Taïwan sous le règne Guangxu des Qing. Les eaux claires des ruisseaux combinées aux vallées humides favorisaient la croissance de l'indigotier _Polygonum tinctorium_ (malan), et les ateliers de teinture étaient nombreux dans les rues. Les façades en briques rouges de la vieille rue de Sanxia aujourd'hui restent la témoin historique de la richesse générée par la teinture indigo à cette époque. [^17]
 
-En 2016, le ministère de la Culture l’a reconnue comme détentrice d’un artisanat traditionnel important pour les « techniques atayal de teinture et tissage : tissage inséré, tissage à motifs relevés et motifs textiles atayal ». Elle était alors, à 53 ans, le plus jeune trésor national vivant de Taïwan.[^22] Elle a déclaré à un journaliste de vocus :
+Cependant, l'introduction de colorants synthétiques européens sous le règne Guangxu, suivie par la popularisation des vêtements occidentaux et des kimonos japonais au milieu de l'ère coloniale japonaise, a conduit à la disparition progressive de l'industrie traditionnelle de la teinture. La teinture indigo de Sanxia a été perdue pendant plus de 70 ans.
 
-> « 文化認同這件事，是你打從心底喜歡它；若它沒有真正進入你的骨骸，那是沒有用的。」[^23]
+La source de cette renaissance dans les années 1990 ne se trouvait pas dans les départements gouvernementaux, mais chez les habitants de Sanxia eux-mêmes qui l'ont retrouvée. En 1990, les résidents de Sanxia ont lancé la campagne « À la recherche de l'indigo perdu de Sanxia » ; en 1994, l'« Atelier d'histoire et de culture de Sanyiaojong » a été créé ; en 1996, l'« Association culturelle de Sanyiaojong » a été officiellement constituée ; en 1999, l'association a lancé un plan de promotion de la teinture indigo et de restauration des techniques. Le secrétaire général de l'association, Liu Meiling, ainsi que les professeurs Ma Fenmei et Chen Jinglin, ont collaboré pour retrouver les techniques de teinture indigo perdues. [^17]
 
-> « 應該用這樣的方式吸引族人，而不是學織布就能做傳統服裝，讓自己更有尊嚴，讓自己知道自己是誰。」[^23]
+La chronologie est inversée par rapport au système des « Trésors humains nationaux » : avant l'arrivée du système (2005), la renaissance de l'artisanat (1990) avait déjà eu lieu dans la société civile. Lorsque la loi sur le patrimoine culturel a intégré le système de conservation, la teinture indigo de Sanxia avait déjà vécu par elle-même pendant 15 ans. Le système est venu certifier, pas sauver.
 
-Cette expression, « entrer dans les os », mérite qu’on s’arrête. Dans l’artisanat han, l’apprentissage transmet un savoir en ligne directe de maître à disciple ; la renaissance des motifs textiles de Yuma Taru vise à faire réintégrer les motifs atayal dans le corps de toutes les femmes d’un groupe. Ce que le corps apprend survit beaucoup plus longtemps que ce que les livres mémorisent.
-
----
-
-## La sculpture sur pierre absente de la liste : l’artisanat autochtone a attendu 11 ans pour combler le vide
-
-À la fin de 2021, les « détenteurs d’un artisanat traditionnel important » reconnus au niveau national par le ministère de la Culture totalisaient 21 éléments et 29 personnes, couvrant sept grandes catégories : céramique, sculpture sur bois, vannerie de bambou, art de la laque, teinture et tissage, métallurgie et broderie.[^24] Mais une absence est manifeste : **la sculpture sur pierre n’a pas de détenteur national**.
-
-Ce n’est pas que Taïwan ne pratique pas la sculpture sur pierre. Yuli à Hualien, Dulan à Taitung, Kinmen et Penghu possèdent chacun leurs traditions de sculpture sur pierre, et les maisons en dalles de pierre comme les ustensiles lithiques des communautés autochtones prolongent un artisanat millénaire. Pourtant, sur la liste des « détenteurs d’un artisanat traditionnel important », la sculpture sur pierre ne bénéficie toujours d’aucune reconnaissance individuelle distincte.
-
-Ce qui figure sur la liste, et ce qui n’y figure pas, constitue en soi un choix de commissariat. Le système taïwanais de préservation du patrimoine culturel a ses propres angles morts.
-
-| Catégorie artisanale                         | Détenteur                                   | Année de reconnaissance |
-| -------------------------------------------- | ------------------------------------------- | ----------------------- |
-| Art de la laque                              | Wang Qingshuang, encore créateur à cent ans | 2010                    |
-| Vannerie de bambou                           | Huang Tushan (1926-2020)                    | 2010                    |
-| Sculpture traditionnelle sur bois            | Shi Zhenyang                                | 2011                    |
-| Artisanat de l’étain                         | Chen Wanneng                                | 2011                    |
-| Technique de sculpture ornementale           | Li Binggui                                  | 2013                    |
-| Vannerie de bambou et de rotin               | Zhang Xianping                              | 2016                    |
-| Teinture et tissage atayal                   | Yuma Taru                                   | 2016                    |
-| Sculpture traditionnelle importante sur bois | Chen Qicun                                  | 2019                    |
-| Kesi, tapisserie de soie                     | Huang Lanye                                 | 2020                    |
-| Sculpture traditionnelle importante sur bois | Li Binggui, double reconnaissance           | 2020                    |
-| Modelage d’argile                            | Du Muhe                                     | 2021                    |
-| Décor jian nian                              | Chen Sanhuo                                 | 2021                    |
-| Sculpture du jade                            | Huang Fushou                                | 2021                    |
-| Sculpture traditionnelle importante sur bois | Cai Detai                                   | 2021                    |
-| Art de la laque                              | Huang Lishu                                 | 2021                    |
-| Broderie paiwan Kinavatjesan                 | Chen Liyoumei                               | 2021                    |
-| Tissage de fibre de bananier kavalan         | Yan Yuying                                  | 2021                    |
-| Tissage paiwan tjemenun                      | Xu Chunmei                                  | 2021                    |
-| Tissage seediq Gaya tminun                   | Zhang Fengying                              | 2021                    |
-| Menuiserie fine                              | You Lihai                                   | 2021                    |
-| Peinture traditionnelle d’architecture       | Zhuang Wunan                                | 2021                    |
-| Techniques de restauration en maçonnerie     | Su Qingliang (1935-2023)                    | 2022                    |
-
-En regardant plus attentivement, un problème structurel apparaît : les quatre éléments artisanaux autochtones, kavalan, deux paiwan et un seediq, sont tous entrés dans la même cohorte de 2021. Lors de la révision de la Loi sur la préservation du patrimoine culturel en 2005, l’artisanat autochtone n’avait presque aucun enregistrement national ; il a fallu attendre la révision de 2016, puis cinq années supplémentaires, jusqu’en 2021, pour que ces quatre éléments viennent combler le vide ensemble. **La reconnaissance institutionnelle de l’artisanat autochtone a eu au moins 11 ans de retard sur celle de l’artisanat han.**
+> 📝 **Note du conservateur** : Le cas de Sanxia révèle un contraste invisible : la « renaissance ascendante de l'artisanat » (_bottom-up_) et la « conservation du patrimoine culturel descendante » (_top-down_) sont deux voies différentes. La plupart des subventions du ministère de la Culture vont aux organisations (associations, musées, centres de recherche) ; la part allant directement aux artisans est faible. Les subventions sont « par projet » ; une fois le projet terminé, elles s'arrêtent, ce qui ne permet pas de soutenir la création à long terme des artisans. La critique du monde académique concernant la structure des subventions est bloquée par ce décalage structurel.
 
 ---
 
-## 600 artisans, et les moins de 50 ans ne sont « qu’une minorité »
+## Apprendre un métier auprès d'un maître mort depuis un siècle
 
-L’arithmétique de 2026 est simple.
+En l'an 70 de la République de Chine (1981), les statues en terre cuite émaillée (_Jiaozhi tao_) du temple Ciji du district de Xuejia à Chiayi furent volées.
 
-En mai 2023, Taïwan comptait 615 éléments de patrimoine culturel immatériel, ordinaires et importants confondus, répartis en six grandes catégories, dont 182 dans l’artisanat traditionnel.[^25] Les « détenteurs d’un artisanat traditionnel important » de niveau national totalisaient 29 personnes, selon le chiffre de 2021, plusieurs autres ayant été ajoutées après 2022. Les « maîtres artisans traditionnels » certifiés par délégation du ministère de la Culture étaient plus de 600 dans tout le pays.
+Lorsque Lin Guangyi, alors âgé d'une trentaine d'années, avait commencé à apprendre les émaux pour la terre cuite émaillée sous la direction de Lin Tianmu, il a pris en charge les travaux de restauration. Ye Wang (Ye Shi, né en 1826, premier artiste taïwanais de terre cuite émaillée autochtone) était mort depuis plus d'un siècle ; les formules d'émaux de l'époque, la température de cuisson et les proportions de coloration n'avaient laissé aucune trace écrite. [^18]
 
-Dans un reportage, le Bureau du patrimoine culturel a reconnu que les maîtres artisans traditionnels de moins de 50 ans ne sont « qu’une minorité ».[^26] La phrase paraît anodine, mais une fois déployée en chiffres, elle devient saisissante : si l’on estime que 70 % des 600 ont plus de 50 ans, il resterait 180 personnes de moins de 50 ans ; réparties en moyenne entre les six grandes catégories artisanales de Taïwan, céramique, sculpture sur bois, teinture et tissage, bambou, métallurgie, laque, cela donne environ 30 successeurs par catégorie. Une fois dispersés entre tous les pôles artisanaux de l’île, Yingge, Sanyi, Meinong, Miaoli, Guanmiao, Daxi, Lukang, Tainan et les autres, les jeunes artisans de chaque pôle ne sont peut-être plus qu’une poignée.
+Pendant le processus de restauration, Lin Guangyi a réalisé qu'il ne savait pas du tout quels matériaux Ye Wang utilisait à l'origine, ni quelles étaient les proportions des émaux. Chaque couleur qu'il mélangait était fausse ; chaque fois que les proportions étaient incorrectes, cela ressemblait à une vérification répétée du fait que « nous ne pouvions jamais revenir à l'époque où Ye Wang était encore vivant ». Il a déclaré plus tard aux journalistes de _Classic Magazine_ :
 
-Comparons avec le dispositif japonais des trésors nationaux vivants : en juillet 2025, le Japon comptait 105 trésors nationaux vivants encore en vie, chacun des détenteurs individuels reconnus recevant chaque année 2 millions de yens de subvention publique affectée à la formation de successeurs, à la recherche et à la documentation.[^2] Le dispositif taïwanais actuel de subventions aux « détenteurs d’un artisanat traditionnel important » n’a pas d’équivalent à cette échelle. Les artisans locaux doivent le plus souvent trouver leur marché par eux-mêmes. La transformation en produits culturels et créatifs, la collaboration avec des designers et l’entrée dans les parcs culturels et créatifs sont les moyens de survie que les artisans taïwanais contemporains ont eux-mêmes inventés ; ils n’ont pas été fournis par le dispositif.
+> « Pendant tout le processus de restauration, j'ai en fait appris à nouveau depuis le début. » [^18]
 
-Chen Wanneng, artisan de l’étain à Lukang, issu d’une entreprise familiale de trois générations et reconnu trésor national vivant en 2011, a déclaré à un journaliste du supplément arts du Liberty Times :
+Il a ajouté :
 
-> « 昨日創新，今日傳統；今日創新，明日傳統。」[^27]
+> « Si Ye Wang était encore vivant, je l'aurais certainement pris comme maître. » [^18]
 
-L’autre face de cette phrase est la suivante : ce qui n’innove pas aujourd’hui disparaîtra demain.
+Lin Guangyi a mis plus de dix ans à retrouver progressivement ces techniques, et a finalement été reconnu comme le « troisième génération de disciples de l'art de la terre cuite émaillée de Ye Wang ». Mais il savait qu'il ne retrouvait que ce qui était « le plus proche » de Ye Wang, pas Ye Wang lui-même.
 
-> ⚠️ **Controverse** : le ministère de la Culture et le National Taiwan Craft Research and Development Institute (NTCRI) promeuvent des collaborations « artisanat × design ». Vu positivement, des marques comme 22 Design Studio, inBlooom ou le Musée des carreaux anciens de Taïwan ouvrent de nouveaux marchés aux métiers anciens ; vu négativement, les artisans sont traités comme des « banques de matériaux » : les designers se servent, tandis que les artisans ne gardent pas la maîtrise de la propriété intellectuelle. Le designer Xiao Qingyang affirme : « 有好的文化，才可能有好的文創。 »[^28] Mais une « bonne culture » exige que les artisans aient le temps de créer lentement et d’enseigner lentement, non qu’ils soient pressés de mettre des produits en rayon.
+La véritable difficulté de la perte d'un artisanat réside ici : lorsque la chaîne est rompue pendant une ou deux générations, les descendants, même s'ils veulent apprendre, ne trouvent pas de maître avec qui confronter leurs savoirs. Le système d'apprentissage nécessite deux personnes face à face ; le maître corrige les erreurs de l'apprenti main dans la main. Une erreur commise, corrigée une fois, sera évitée la prochaine fois. La chaîne d'apprentissage de Ye Wang s'est brisée après sa mort ; Lin Guangyi ne pouvait apprendre qu'à partir des « œuvres » de Ye Wang, pas de Ye Wang lui-même.
 
 ---
 
-## Grand-père et petit-fils appliquent ensemble la chaux
+## Les motifs tissés sont la mémoire du corps : les 34 ans de Yuma Taru
 
-En décembre 2022, l’année où Su Qingliang fut reconnu à l’âge de 87 ans, son petit-fils Su Jianming venait d’obtenir la qualification de maître artisan traditionnel du ministère de la Culture. Cette année-là, les deux générations prirent ensemble en charge la restauration du sommet de la tour du Musée d’histoire de Kaohsiung. Su Qingliang, à 86 ans, se rendait sur le chantier pour guider les travaux ; le jeune Su Jianming appliquait la chaux et réparait les tuiles.[^1]
+En 1992, alors qu'elle approchait ses 30 ans, Yuma Taru (nom han : Huang Yali, tribu Atayal, née en 1963 au canton de Tai'an, Miaoli) a commencé à « parcourir les villages ». Elle a visité huit sous-groupes Atayal et plus de 100 villages pour réaliser des enquêtes de terrain. [^19] À partir de 1996, son mari, Baunay Watan, a passé trois ans à la filmer pour un documentaire. _K'gi na yaki_ (Le chanvre de grand-mère), réalisé en 1999, documente le processus par lequel elle apprend les techniques traditionnelles de tissage de la tribu Atayal auprès de sa grand-mère. [^20]
 
-Wang Qingshuang, centenaire né en 1922 et encore en vie en 2025, crée chaque jour pendant cinq à six heures. Ses fils Wang Xianmin et Wang Xianzhi ont pris la relève, et son petit-fils Wang Junwei représente la troisième génération. Cette famille de trois générations fait partie des rares familles artisanales à ne pas avoir laissé se rompre le système d’apprentissage. Wang Xianmin rapporte ces paroles de son père :
+Son atelier de tissage, « Ye Tong Workshop », est situé dans le village de Xiangbi à Miaoli, le long de la vallée de la rivière Da'an, où elle recrute des femmes autochtones pour apprendre le tissage. De 1992 à 2026, elle a travaillé pendant 34 ans et a réussi à restaurer entre 400 et 500 vêtements traditionnels de la tribu Atayal. [^21]
 
-> « 要做好漆藝，就要活久一些。」[^29]
+En 2016, elle a été reconnue par le ministère de la Culture comme « Détenteure importante de l'artisanat traditionnel » pour la « teinture et tissage Atayal — techniques de tissage à夹 (jia) et à挑 (tiao) et motifs tissés Atayal ». Elle était alors la plus jeune Trésor humain national de Taïwan, à 53 ans. [^22] Elle a déclaré aux journalistes de l'interview _vocus_ :
 
-La version taïwanaise de « pour bien faire la laque, il faut vivre longtemps » serait : « pour bien faire le dispositif, il faut faire vite ». Taïwan n’a inscrit les techniques de préservation dans la Loi sur la préservation du patrimoine culturel qu’en 2005, avec 50 ans de retard sur le Japon ; il n’a divisé le patrimoine culturel immatériel en cinq grandes catégories qu’en 2016, avec 13 ans de retard sur la Convention de l’UNESCO de 2003. La loi existe. Mais les personnes encore vivantes, capables de faire et d’enseigner, sont limitées. Su Qingliang est mort six mois après sa reconnaissance ; Huang Tushan est mort dix ans après la sienne. Ils appartenaient à la génération née entre 1925 et 1935. Et la génération née entre 1945 et 1965 ? Lorsque le système d’apprentissage s’est effondré dans les années 1970, elle était justement en âge de devenir apprentie ; la plupart ont changé de métier.
+> « La question de l'identité culturelle, c'est l'aimer profondément depuis le fond de votre cœur ; si cela ne pénètre pas véritablement dans vos os, cela ne sert à rien. » [^23]
 
-Les pôles existent encore. La terre est encore là. Les camphriers repoussent. Les bambouseraies produisent encore de nouvelles pousses. Mais l’apprentissage exige deux personnes face à face, un maître corrigeant les erreurs de la main à la main. Quand le petit-fils de Su Qingliang applique cette couche de chaux au sommet de la tour, sous cette chaux se trouve l’une des rares chaînes de l’artisanat traditionnel taïwanais qui ne se soit pas encore rompue.
+> « Il faut attirer les membres de la tribu de cette manière, plutôt que d'apprendre le tissage simplement pour pouvoir faire des vêtements traditionnels, gagner en dignité et savoir qui l'on est. » [^23]
 
-Plus la liste s’allonge, moins il reste de personnes capables d’enseigner. La prochaine fois que vous entrerez dans une boutique culturelle et créative et verrez, derrière chaque objet, le nom d’un trésor national vivant, derrière ce nom il y aura peut-être encore quelqu’un. Ou peut-être plus personne.
+L'expression « pénétrer dans les os » mérite une pause. Le système d'apprentissage des artisanats han est une transmission linéaire du maître à l'élève ; la renaissance des motifs tissés par Yuma Taru a permis aux motifs tissés Atayal de pénétrer à nouveau dans le corps de tout un groupe de femmes. Ce qui est appris par le corps survit beaucoup plus longtemps que ce qui est mémorisé par les livres.
+
+---
+
+## Pas de sculpture sur pierre dans la liste : l'artisanat autochtone a attendu 11 ans pour prendre sa place
+
+À la fin de l'année 2021, le nombre cumulé de « Détenteurs importants de l'artisanat traditionnel » (niveau national) reconnus par le ministère de la Culture s'élevait à 21 catégories et 29 personnes, couvrant sept grandes catégories : céramique, sculpture sur bois, vannerie en bambou, laque, teinture et tissage, travail des métaux et broderie. [^24] Mais il existe un vide évident : **il n'y a pas de détenteur national de la sculpture sur pierre**.
+
+Il ne s'agit pas d'un manque de sculpture sur pierre à Taïwan. Yuli (Hualien), Taidong (Dulutan), Kinmen et Penghu ont chacun des traditions de sculpture sur pierre ; les maisons en dalles de pierre des villages autochtones et les ustensiles de vie en pierre constituent un artisanat qui perdure depuis des millénaires. Pourtant, sur la liste des « Détenteurs importants de l'artisanat traditionnel », la sculpture sur pierre n'a toujours pas de reconnaissance individuelle distincte.
+
+Ce qui est sur la liste, et ce qui ne l'est pas, constitue en soi un choix de conservation. Le système de conservation du patrimoine culturel de Taïwan a ses propres angles morts.
+
+| Catégorie d'artisanat                                                   | Détenteur                               | Année de reconnaissance |
+| ----------------------------------------------------------------------- | --------------------------------------- | ----------------------- |
+| Art de laque                                                            | Wang Qingshuang (crée encore à 100 ans) | 2010                    |
+| Vannerie en bambou                                                      | Huang Tusong (1926–2020)                | 2010                    |
+| Sculpture sur bois traditionnelle                                       | Shi Zhenyang                            | 2011                    |
+| Art de l'étain                                                          | Chen Wan-neng                           | 2011                    |
+| Technique de sculpture ornementale                                      | Li Binggui                              | 2013                    |
+| Vannerie en bambou et rotin                                             | Zhang Xianping                          | 2016                    |
+| Teinture et tissage Atayal                                              | Yuma Taru                               | 2016                    |
+| Sculpture sur bois traditionnelle importante                            | Chen Qicun                              | 2019                    |
+| Broderie _kesi_                                                         | Huang Lanye                             | 2020                    |
+| Sculpture sur bois traditionnelle importante                            | Li Binggui (double reconnaissance)      | 2020                    |
+| Modelage en argile                                                      | Du Muhe                                 | 2021                    |
+| Collage de céramique (_jiannian_)                                       | Chen Sanhuo                             | 2021                    |
+| Sculpture sur jade                                                      | Huang Fushou                            | 2021                    |
+| Sculpture sur bois traditionnelle importante                            | Cai Detai                               | 2021                    |
+| Art de laque                                                            | Huang Lishu                             | 2021                    |
+| Broderie Pipawa _Kinavatjesan_                                          | Chen Liyoumei                           | 2021                    |
+| Tissu en fibre de bananier Kavalan                                      | Yan Yuying                              | 2021                    |
+| Tissage _tjemenun_ Pipawa                                               | Xu Chunmei                              | 2021                    |
+| Tissage _Gaya tminun_ Sedek                                             | Zhang Fengying                          | 2021                    |
+| Menuiserie fine                                                         | You Lihai                               | 2021                    |
+| Peinture décorative de l'architecture traditionnelle                    | Zhuang Wunan                            | 2021                    |
+| Technique de construction et de réparation en maçonnerie traditionnelle | Su Qingliang (1935–2023)                | 2022                    |
+
+En regardant de plus près un problème structurel : les quatre catégories d'artisanat autochtone (Kavalan, deux Pipawa, Sedek) sont toutes entrées dans la même vague en 2021. Lors de la révision de la loi sur le patrimoine culturel en 2005, l'artisanat autochtone était presque absent des inscriptions nationales ; il a fallu attendre la révision de 2016, puis encore cinq ans en 2021, pour que les quatre catégories soient reconnues ensemble. **La reconnaissance institutionnelle de l'artisanat autochtone a pris 11 ans de retard sur l'artisanat han.**
+
+---
+
+## 600 artisans, une « minorité » de moins de 50 ans
+
+La mathématique de 2026 est simple.
+
+À mai 2023, les éléments de patrimoine culturel immatériel (général et important) totalisaient 6 grandes catégories et 615 éléments, dont 182 éléments dans la catégorie de l'artisanat traditionnel. [^25] Le nombre cumulé de « Détenteurs importants de l'artisanat traditionnel » de niveau national est de 29 (chiffre de 2021, plusieurs personnes ont été ajoutées après 2022), et le titre de « maître artisan traditionnel » décerné par le ministère de la Culture compte plus de 600 personnes à travers le pays.
+
+Le Bureau du patrimoine culturel admet dans ses rapports que les maîtres artisans de moins de 50 ans ne constituent qu'une « minorité ». [^26] Cette phrase semble banale, mais les calculs détaillés sont stupéfiants : sur les 600 détenteurs, si l'on estime que 70 % ont plus de 50 ans, il reste 180 personnes de moins de 50 ans. Réparties dans les 6 grandes catégories d'artisanat de Taïwan (céramique, sculpture sur bois, teinture et tissage, vannerie en bambou, travail des métaux, laque), cela donne environ 30 successeurs par catégorie. Répartis dans tous les clusters artisanaux de Taïwan (Yingge, Sanyi, Meinong, Miaoli, Guanmiao, Daxi, Lugang, Tainan, etc.), le nombre de jeunes artisans par cluster ne peut être que d'un chiffre.
+
+Comparons avec les chiffres du système japonais des Trésors humains nationaux : en juillet 2025, il y avait 105 Trésors humains nationaux japonais en vie ; chaque détenteur individuellement reconnu reçoit une subvention gouvernementale annuelle de 2 millions de yens japonais, fonds spéciaux destinés à la formation des successeurs, à la recherche et à la documentation. [^2] Le système actuel de Taïwan ne dispose pas de contrepartie de même ordre de grandeur pour les « Détenteurs importants de l'artisanat traditionnel » ; les artisans locaux doivent généralement chercher eux-mêmes le marché. La commercialisation culturelle, la collaboration avec des designers et l'entrée dans les parcs culturels et créatifs sont des moyens de prolongation de la vie que les artisans contemporains ont trouvés activement, et non ce qu'offre le système.
+
+Chen Wan-neng (maître de l'art de l'étain de Lugang, famille à trois générations, Trésor humain national reconnu en 2011) a déclaré aux journalistes du week-end culturel de _Liberty Times_ :
+
+> « L'innovation d'hier devient la tradition d'aujourd'hui ; l'innovation d'aujourd'hui devient la tradition de demain. » [^27]
+
+L'autre face de cette phrase est : ceux qui n'innovent pas aujourd'hui n'existeront plus demain.
+
+> ⚠️ **Controverse** : Le ministère de la Culture et le Centre de recherche et de développement de l'artisanat de Taïwan (NTCRI) promeuvent la collaboration « Artisanat × Design ». Positivement, des marques comme Ershanshe Design, Yinprint et le Musée des carreaux de ciment de Taïwan offrent de nouveaux marchés aux vieux artisanats ; négativement, les artisans sont traités comme une « base de données de matériaux » : les designers les utilisent, mais les artisans n'ont pas la propriété intellectuelle (_IP_). Le designer Xiao Qingyang dit : « Ce n'est qu'avec une bonne culture que l'on peut avoir une bonne industrie culturelle créative. » [^28] Mais une « bonne culture » nécessite que les artisans aient le temps de faire lentement et d'enseigner lentement, et non d'être pressés de mettre en ligne.
+
+---
+
+## Grand-père et petit-fils étendent la chaux blanche ensemble
+
+En 2022, lorsque Su Qingliang fut reconnu à l'âge de 87 ans, son petit-fils Su Jianming venait d'obtenir le titre de maître artisan traditionnel du ministère de la Culture. Cette année-là, le grand-père et le petit-fils ont conjointement pris en charge les travaux de restauration du sommet de la tour du Musée d'histoire de Kaohsiung. Su Qingliang, 86 ans, se rendait sur le chantier pour diriger les travaux, tandis que le jeune Su Jianming étendait la chaux blanche et réparait les tuiles. [^1]
+
+Wang Qingshuang, centenaire (né en 1922, encore vivant en 2025), crée 5 à 6 heures par jour. Son fils Wang Xianmin et Wang Xianzhi lui succèdent ; son petit-fils Wang Junwei est la troisième génération. Cette famille à trois générations fait partie des rares familles artisanales à ne pas avoir vu le système d'apprentissage se briser. Wang Xianmin rapporte les paroles de son père :
+
+> « Pour bien faire l'art de la laque, il faut vivre longtemps. » [^29]
+
+La version taïwanaise de la phrase « Pour bien faire l'art de la laque, il faut vivre longtemps » est « Pour que le système fonctionne bien, il faut agir vite ». Taïwan n'a inscrit la technique de conservation dans la loi sur le patrimoine culturel qu'en 2005, soit 50 ans après le Japon ; elle n'a divisé le patrimoine culturel immatériel en 5 grandes catégories qu'en 2016, soit 13 ans après la convention de l'UNESCO de 2003. La loi existe, mais le nombre de personnes vivantes qui savent encore faire et enseigner est limité. Su Qingliang est décédé six mois après sa reconnaissance, Huang Tusong dix ans après la sienne ; ils appartenaient tous à la génération née entre 1925 et 1935. Et la génération née entre 1945 et 1965 ? Au moment de l'effondrement du système d'apprentissage dans les années 1970, ils étaient sur le point de devenir apprentis ; la plupart ont changé de métier.
+
+Les clusters existent encore. L'argile est toujours là. Le cyprès continuera de pousser. Le bambou continuera de faire des pousses. Mais le système d'apprentissage nécessite deux personnes face à face ; le maître corrige les erreurs de l'apprenti main dans la main. Lorsque le petit-fils de Su Qingliang étend cette couche de chaux blanche au sommet de la tour, sous cette chaux blanche se trouve l'une des rares chaînes de l'artisanat traditionnel taïwanais qui n'ont pas encore été rompues.
+
+La liste s'allonge, mais le nombre de personnes capables d'enseigner diminue. La prochaine fois que vous entrerez dans un magasin de produits culturels et créatifs, en voyant le nom d'un Trésor humain national derrière chaque produit, derrière ce nom, il peut y avoir une personne, ou il peut ne plus y avoir personne.
 
 ---
 
 **Pour aller plus loin** :
 
-- [Teinture à l’indigo](/fr/culture/taiwan-indigo-dyeing) — l’histoire complète de la teinture indigo, de produit majeur d’exportation sous les Qing à sa quasi-disparition en 1940, jusqu’à sa renaissance actuelle à Sanxia, Miaoli, Taiping et Jingliao
-- [Tissus fleuris taïwanais](/fr/culture/taiwan-floral-fabric) — le voyage identitaire du tissu rouge fleuri hakka, de produit d’usine sous la période japonaise à symbole culturel local
-- [Ombrelles en papier](/fr/culture/taiwan-paper-umbrella) — la transformation des ombrelles en papier de Meinong, d’objets utilitaires contre la pluie en œuvres d’art
-- [Chapeaux coniques](/fr/culture/bamboo-hat-craft) — la vannerie de jonc et l’objet emblématique de l’artisanat rural taïwanais
-- [Fêtes et célébrations traditionnelles](/fr/culture/traditional-festivals-and-celebrations) — l’artisanat comme support matériel des fêtes, des structures en papier des pétards de Yanshui aux palanquins divins des processions de Mazu
+- [Teinture indigo](/fr/culture/taiwan-indigo-dyeing) — Histoire complète de l'artisanat de la teinture indigo, du principal article d'exportation de l'époque Qing à la quasi-extinction en 1940, jusqu'à sa renaissance actuelle à Sanxia, Miaoli, Taiping et Jingliao.
+- [Tissu fleuri taïwanais](/fr/culture/taiwan-floral-fabric) — Le voyage d'identité du tissu rouge hakka de l'époque coloniale japonaise en tant que produit d'usine jusqu'à symbole de la culture locale.
+- [Parapluie en papier](/fr/culture/taiwan-paper-umbrella) — Le chemin de transformation du parapluie en papier de Meinong d'objet quotidien contre la pluie en œuvre d'art.
+- [Casquette de paille](/fr/culture/bamboo-hat-craft) — Objet représentatif du tissage en jonc et de l'artisanat agricole taïwanais.
+- [Fêtes traditionnelles et cérémonies](/fr/culture/traditional-festivals-and-celebrations) — L'artisanat est le support matériel des fêtes (papeterie des canons de papier de Yanshui, brancards de la déesse Mazu lors des processions).
 
 ---
 
 ## Sources des images
 
-Cet article utilise trois images sous licence CC de Wikimedia Commons, toutes mises en cache dans `public/article-images/culture/` afin d’éviter les liens directs vers les serveurs sources :
+Cet article utilise 3 images sous licence CC de Wikimedia Commons, toutes mises en cache dans `public/article-images/culture/` pour éviter les liens directs vers les serveurs sources :
 
-- [Yuanxiangyuan Paper Umbrella, Taiwan 2013-07](https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG) — Photo : Outlookxp, 2013-07-20, CC BY-SA 3.0. Ensemble d’ombrelles hakka en papier huilé exposées au village culturel Yuanxiangyuan de Meinong, aux surfaces rouges, jaunes et noires éclatantes ; l’un des dossiers visuels les plus représentatifs de l’artisanat des ombrelles en papier de Meinong.
-- [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo : Anrew0517, 2010-05-01, CC BY-SA 3.0. Façade du Musée de la sculpture sur bois de Sanyi (village de Guangsheng, canton de Sanyi, comté de Miaoli), seul musée public de Taïwan consacré à la sculpture sur bois.
-- [Vêtements teints à l’indigo de la « série bleu et blanc » exposés au Musée d’histoire et de patrimoine du district de Sanxia](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo : 寺人孟子, CC BY-SA 4.0. Vêtements teints à l’indigo de la « série bleu et blanc » exposés au Musée d’histoire et de patrimoine du district de Sanxia, montrant les usages visuels contemporains de l’indigo de Sanxia après la renaissance de 1996.
+- [Yuanxiangyuan Paper Umbrella, Taiwan 2013-07](https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG) — Photo : Outlookxp, 2013-07-20, CC BY-SA 3.0. Groupe de parapluies en papier hakka exposés au Village culturel Yuanxiangyuan de Meinong, aux couleurs rouge, jaune et noir éclatantes ; l'une des archives visuelles les plus représentatives de l'artisanat du parapluie en papier de Meinong.
+- [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo : Anrew0517, 2010-05-01, CC BY-SA 3.0. Extérieur du Musée de la sculpture sur bois de Sanyi (village Guangsheng, canton de Sanyi, comté de Miaoli), le seul musée public de Taïwan consacré à la sculpture sur bois.
+- [三峽區歷史文物館內所展示「藍與白系列」藍染服飾](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo : 寺人孟子, CC BY-SA 4.0. Vêtements de teinture indigo de la série « Bleu et Blanc » présentés au Musée d'histoire et de patrimoine du district de Sanxia, illustrant l'aspect visuel de l'application contemporaine de la teinture indigo de Sanxia après sa renaissance en 1996.
 
 ## Références
 
-[^1]: [Plus de 70 ans de restauration en maçonnerie : Su Qingliang inscrit par le ministère de la Culture parmi les « trésors nationaux vivants »](https://www.cna.com.tw/news/acul/202212190092.aspx) — reportage de l’agence CNA du 19 décembre 2022, entretien original publié le jour de la reconnaissance de Su Qingliang, comprenant sa déclaration en taïwanais « 阮自臺灣頭做到臺灣尾 » et les citations sur la succession entre grand-père et petit-fils.
+[^1]: [土水修造70餘年 蘇清良獲列文化部「人間國寶」](https://www.cna.com.tw/news/acul/202212190092.aspx) — Article de l'agence CNA du 2022-12-19, interview originale de l'agence CNA le jour de la reconnaissance de Su Qingliang, contenant sa déclaration en dialecte hakka « Je suis allé du nord au sud de Taïwan » et la citation sur la succession grand-petit-fils.
 
-[^2]: [《人間国宝の今》深刻な後継者問題](https://news.yahoo.co.jp/articles/af5da6be88c12f666fe7f3cb70760ac1aed5b0d2) — reportage de Yahoo Japan sur la première grande réforme, en 2025, du dispositif japonais des « trésors nationaux vivants », en réponse à la crise de vieillissement des métiers artisanaux ; 105 personnes étaient encore en vie en juillet 2025.
+[^2]: [《人間国宝の今》深刻な後継者問題](https://news.yahoo.co.jp/articles/af5da6be88c12f666fe7f3cb70760ac1aed5b0d2) — Article de Yahoo Japan, première grande réforme du système des « Trésors humains nationaux » japonais en 2025 en réponse à la crise de vieillissement du secteur des techniques artisanales ; 105 personnes vivantes en juillet 2025.
 
-[^3]: [Loi sur la préservation du patrimoine culturel](https://zh.wikipedia.org/zh-tw/%E6%96%87%E5%8C%96%E8%B3%87%E7%94%A2%E4%BF%9D%E5%AD%98%E6%B3%95) — entrée Wikipédia sur la Loi sur la préservation du patrimoine culturel, comprenant la promulgation de 1982, la cinquième grande révision de 2005, la révision de 2016 et le processus d’établissement des « cinq grandes catégories » du patrimoine culturel immatériel.
+[^3]: [文化資產保存法](https://zh.wikipedia.org/zh-tw/%E6%96%87%E5%8C%96%E8%B3%87%E7%94%A2%E4%BF%9D%E5%AD%98%E6%B3%95) — Article Wikipédia sur la loi de conservation du patrimoine culturel, contenant l'évolution des articles depuis la législation de 1982, la cinquième révision majeure de 2005, la révision de 2016 et le processus d'établissement des « 5 grandes catégories de patrimoine culturel immatériel ».
 
-[^4]: [Su Qingliang](https://zh.wikipedia.org/zh-tw/%E8%98%87%E6%B8%85%E8%89%AF) — entrée Wikipédia sur Su Qingliang, retraçant l’ensemble de sa carrière : naissance en 1935, entrée en apprentissage à 16 ans, restauration de plus de 30 monuments, reconnaissance en 2022 et décès en 2023.
+[^4]: [蘇清良](https://zh.wikipedia.org/zh-tw/%E8%98%87%E6%B8%85%E8%89%AF) — Article Wikipédia sur Su Qingliang, documentant sa carrière complète : naissance en 1935, apprentissage à 16 ans, restauration de plus de 30 monuments historiques, reconnaissance en 2022, décès en 2023.
 
-[^5]: [Mort de Su Qingliang, trésor national vivant des techniques patrimoniales ; la présidence lui décerne une citation honorifique](https://art.ltn.com.tw/article/breakingnews/4387610) — article du Liberty Times de 2023 sur la mort de Su Qingliang, avec le détail de la citation honorifique présidentielle.
+[^5]: [文資技術人間國寶蘇清良辭世 總統頒贈褒揚令](https://art.ltn.com.tw/article/breakingnews/4387610) — Article de _Liberty Times_ de 2023 sur le décès de Su Qingliang, détails du décret de louange du président.
 
-[^6]: [Living National Treasure (Japan)](https://en.wikipedia.org/wiki/Preservers_of_Important_Intangible_Cultural_Properties) — entrée Wikipédia en anglais sur le dispositif japonais des trésors nationaux vivants, documentant la Loi sur la protection des biens culturels de 1950, la révision de 1954, la première désignation du 15 février 1955 et le lancement en 1964 de la subvention de 2 millions de yens.
+[^6]: [Living National Treasure (Japan)](https://en.wikipedia.org/wiki/Preservers_of_Important_Intangible_Cultural_Properties) — Article de Wikipédia en anglais sur le système des Trésors humains nationaux japonais, documentant la loi de 1950 sur la protection des biens culturels, la révision de 1954, la première désignation du 1955-02-15 et le lancement du système de subvention de 2 millions de yens en 1964.
 
-[^7]: [National Intangible Cultural Heritage (South Korea)](<https://en.wikipedia.org/wiki/National_Intangible_Cultural_Heritage_(South_Korea)>) — entrée Wikipédia en anglais sur le système coréen de patrimoine culturel immatériel important, promulgué en 1962, imitant le Japon mais avec un champ plus large.
+[^7]: [National Intangible Cultural Heritage (South Korea)](<https://en.wikipedia.org/wiki/National_Intangible_Cultural_Heritage_(South_Korea)>) — Article de Wikipédia en anglais sur le système des Biens culturels immatériels importants de Corée, législation de 1962, imitation du modèle japonais mais avec un champ d'application plus large.
 
-[^8]: [Le développement de Yingge](https://www.yingge.ntpc.gov.tw/home.jsp?id=6fed0da13b535525) — page officielle du bureau du district de Yingge, Nouveau Taipei, sur l’histoire de Yingge, avec la chronologie complète et le contexte géographique de l’arrivée de Wu An en 1804, de l’ouverture du four et du déplacement vers Jianshanpu en 1853.
+[^8]: [鶯歌的發展](https://www.yingge.ntpc.gov.tw/home.jsp?id=6fed0da13b535525) — Historique du site officiel du gouvernement du district de Yingge, New Taipei, chronologie complète et contexte géographique de l'arrivée de Wu An en 1804 pour ouvrir un four, et du déménagement à Qianshanpu en 1853.
 
-[^9]: [La ville de céramique : histoire de la céramique de Yingge](https://openmuseum.tw/muse/exhibition/2ef9b3d6c88b6ccff5bc017db7bdf83e) — exposition en ligne d’Open Museum, récit muséal des origines de la céramique de Yingge et du parcours migratoire de la famille Wu de Cizao.
+[^9]: [硘仔鎮—鶯歌陶瓷歷史](https://openmuseum.tw/muse/exhibition/2ef9b3d6c88b6ccff5bc017db7bdf83e) — Exposition en ligne « Zhenzhen » du Musée ouvert, récit expositionnel sur l'origine de la céramique de Yingge et le chemin de la famille Wu de Cizao venue à Taïwan.
 
-[^10]: [Kiln It! Yingge's 200 Years of Ceramics History](https://www.taiwan-panorama.com/en/Articles/Details?Guid=36e1a9b6-3996-47b4-a750-20d984fe8844) — dossier en anglais de Taiwan Panorama sur les 200 ans d’histoire céramique de Yingge, avec une chronologie détaillée de la politique industrielle coloniale après 1895 et du mouvement d’industrialisation de 1931, et des matériaux primaires en anglais.
+[^10]: [Kiln It! Yingge's 200 Years of Ceramics History](https://www.taiwan-panorama.com/en/Articles/Details?Guid=36e1a9b6-3996-47b4-a750-20d984fe8844) — Dossier spécial en anglais de _Guanghua Magazine_ sur l'histoire de 200 ans de la céramique de Yingge, contenant la chronologie détaillée de l'industrialisation coloniale japonaise de 1895 et du mouvement d'industrialisation de 1931, avec des données primaires en anglais.
 
-[^11]: [Shin Wang Ji Chih de Yingge](https://dailyfocus.news/porcelain/) — 자료 officiel de la marque ancienne de céramique de Yingge, Shin Wang Ji Chih, source du chiffre de 1 300 usines à l’apogée des années 1990 et du surnom international de « Jingdezhen de Taïwan ».
+[^11]: [鶯歌新旺集瓷](https://dailyfocus.news/porcelain/) — Données officielles de la marque ancienne de céramique « Xinwang Jici » de Yingge, données sur les 1 300 usines à l'apogée des années 1990 et origine du surnom international « le Jingdezhen de Taïwan ».
 
-[^12]: [T22 Magazine, Chronique de production 01 : argile, cuisson au four et mémoire, le chemin extraordinaire de Yingge](https://www.tdri.org.tw/zh-TW/news/431) — dossier du Taiwan Design Research Institute (TDRI) sur Yingge, avec les chiffres annuels des usines de produits non métalliques (701→662→554→289) et les trois causes du déclin.
+[^12]: [T22 Magazine 產地誌 01 陶土、窯燒與記憶，鶯歌的不平凡之路](https://www.tdri.org.tw/zh-TW/news/431) — Dossier spécial sur les origines de la production de _Guanghua_ de l'Institut de design de Taïwan (TDRI) sur Yingge, contenant les données annuelles du nombre d'usines de produits non métalliques (701→662→554→289) et les trois causes du déclin.
 
-[^13]: [Style, origine et évolution de la sculpture sur bois de Sanyi - 02 - L’essor de la sculpture sur bois singulier et la fondation de Tōtatsu Bussan](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Event&id=259834) — Banque nationale de la mémoire culturelle, étude détaillée des origines de la sculpture sur bois de Sanyi et de la création en 1918 de la Tōtatsu Bussan Kabushiki Kaisha par Wu Jinbao et Okazaki.
+[^13]: [三義木雕風格、起源與演變-02-奇木巧雕之興起與東達物產成立](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Event&id=259834) — Banque de mémoire culturelle nationale, recherche détaillée sur l'origine de la sculpture sur bois de Sanyi en 1918 avec le partenariat de Wu Jinbao et Gaoqi pour la « Dongda Wuchan Co., Ltd. ».
 
-[^14]: [Meinong oil-paper umbrellas](https://english.hakka.gov.tw/Content/Content?NodeID=684&PageID=42444&LanguageType=ENG) — dossier en anglais du Hakka Affairs Council sur les ombrelles en papier huilé de Meinong, comprenant leur introduction à l’ère Taishō, l’invitation de maîtres du Guangdong par Lin Agui et Wu Zhenxing, ainsi que les chiffres des années 1960 : 20 000 pièces annuelles et 40 millions de dollars taïwanais de valeur.
+[^14]: [Meinong oil-paper umbrellas](https://english.hakka.gov.tw/Content/Content?NodeID=684&PageID=42444&LanguageType=ENG) — Dossier spécial en anglais de la Commission des Affaires Hakka sur les parapluies en papier de Meinong, contenant l'introduction pendant l'ère Taishō de l'époque coloniale japonaise, l'invitation des maîtres de Guangdong par Lin Agui et Wu Zhenxing, et les données de production de 20 000 parapluies et de 40 millions de dollars de valeur dans les années 1960.
 
-[^15]: [D’ustensile à œuvre d’art : les ombrelles en papier de Meinong](https://www.taiwan-panorama.com/Articles/Details?Guid=bee14bb4-c7a7-44e1-8fc7-abeea46586c7&CatId=9) — reportage de terrain de Taiwan Panorama en 1981, comprenant la citation de Lin Xianghong, propriétaire de Guangrongxing, sur une situation « sans successeur », ainsi que des données directes sur les spécifications, les prix et les procédés de l’époque.
+[^15]: [從用具變成藝術品——美濃紙傘](https://www.taiwan-panorama.com/Articles/Details?Guid=bee14bb4-c7a7-44e1-8fc7-abeea46586c7&CatId=9) — Dossier d'enquête de terrain de _Guanghua Magazine_ de 1981, contenant la citation de Lin Xianghong de l'usine Guangrongxing sur la « situation de succession vide » et les enregistrements primaires des spécifications de production, des prix et des procédés de l'époque.
 
-[^16]: [Huang Tushan](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E5%A1%97%E5%B1%B1) — entrée Wikipédia sur Huang Tushan (1926-2020), retraçant son entrée en 1939 à l’Institut de transmission de l’artisanat du bambou du district de Zhushan, sa position centrale dans la vannerie de bambou taïwanaise d’après-guerre et sa reconnaissance en 2010 comme détenteur de la « vannerie de bambou ».
+[^16]: [黃塗山](https://zh.wikipedia.org/zh-tw/%E9%BB%83%E5%A1%97%E5%B1%B1) — Article Wikipédia sur Huang Tusong (1926–2020), documentant son entrée en 1939 à l'Institut de formation aux artisanats du bambou du district de Zhushan, son statut central dans la vannerie en bambou de l'après-guerre à Taïwan et sa reconnaissance comme détenteur de la technique de « vannerie en bambou » en 2010.
 
-[^17]: [À propos de l’Association culturelle de Sanjiaoyong](http://www.sanchiaoyung.org.tw/front/bin/home.phtml) — historique du site officiel de l’Association culturelle de Sanjiaoyong, avec la chronologie complète de la renaissance de l’indigo de Sanxia : origine en 1990, atelier d’histoire et de culture en 1994, création de l’association en 1996, programme de promotion et de reconstitution technique en 1999.
+[^17]: [三角湧文化協進會關於我們](http://www.sanchiaoyung.org.tw/front/bin/home.phtml) — Historique du site officiel de l'Association culturelle de Sanyiaojong, chronologie complète de la renaissance de la teinture indigo de Sanxia en 1990, de l'atelier d'histoire et de culture en 1994, de la création de l'association en 1996 et du plan de promotion de la teinture indigo et de restauration des techniques en 1999.
 
-[^18]: [Des avant-toits de temples au monde humain : Lin Guangyi, maître de la céramique Koji](https://www.rhythmsmonthly.com/?p=35716) — entretien de Rhythms Monthly, récit complet de Lin Guangyi depuis la restauration en 1981 des céramiques Koji de Ye Wang au temple Ciji de Xuejia, ses plus de dix ans d’expérimentation des proportions de glaçure, jusqu’à sa reconnaissance comme héritier de troisième génération de la céramique Koji de Ye Wang, avec citations.
+[^18]: [從廟簷到人間 交趾陶大師林洸沂](https://www.rhythmsmonthly.com/?p=35716) — Interview de personnalité de _Classic Magazine_, l'histoire complète et les citations de Lin Guangyi depuis la restauration des statues en terre cuite émaillée de Ye Wang au temple Ciji de Xuejia en 1981, la recherche de plus de dix ans sur les proportions des émaux, jusqu'à sa reconnaissance finale comme troisième génération de disciples de l'art de la terre cuite émaillée de Ye Wang.
 
-[^19]: [Yuma Taru](https://en.wikipedia.org/wiki/Yuma_Taru) — entrée Wikipédia en anglais sur Yuma Taru, avec son enquête de terrain commencée en 1992 dans plus de 100 villages et huit sous-groupes atayal, son nom chinois Huang Yali, et sa naissance en 1963 à Tai’an, Miaoli.
+[^19]: [Yuma Taru](https://en.wikipedia.org/wiki/Yuma_Taru) — Article Wikipédia en anglais sur Yuma Taru, enquêtes de terrain en 1992 parcourant plus de 100 villages, huit sous-groupes Atayal, nom han Huang Yali, contexte de naissance en 1963 au canton de Tai'an, Miaoli.
 
-[^20]: [Atayal Historian | Buanay Watan](https://www.moc.gov.tw/en/information_235_77197.html) — dossier en anglais du ministère de la Culture sur le parcours de Baunay Watan, mari de Yuma Taru, qui a filmé de 1996 à 1999 le documentaire _K'gi na yaki_ (« La ramie de grand-mère »).
+[^20]: [Atayal Historian | Buanay Watan](https://www.moc.gov.tw/en/information_235_77197.html) — Dossier spécial en anglais du MOC (Ministère de la Culture), le processus de travail de son mari Baunay Watan qui a filmé le documentaire _K'gi na yaki_ (Le chanvre de grand-mère) de 1996 à 1999.
 
-[^21]: [Indigenous artist preserves traditional Atayal weaving](https://taiwanreview.nat.gov.tw/AMP/Culture/Top-News/24402/Indigenous-artist-preserves-traditional-Atayal-weaving) — dossier en anglais de Taiwan Today sur le fonctionnement de Lihang Studio dans la communauté de Xiangbi et sur l’ampleur du travail : 400 à 500 vêtements traditionnels atayal reconstitués.
+[^21]: [Indigenous artist preserves traditional Atayal weaving](https://taiwanreview.nat.gov.tw/AMP/Culture/Top-News/24402/Indigenous-artist-preserves-traditional-Atayal-weaving) — Dossier spécial en anglais de _Taiwan Today_, statistiques de l'ampleur du travail de Ye Tong Workshop fonctionnant dans le village de Xiangbi, ayant réussi à restaurer au total 400 à 500 vêtements traditionnels Atayal.
 
-[^22]: [Yuma Taru](https://zh.wikipedia.org/zh-tw/%E5%B0%A4%E7%91%AA%C2%B7%E9%81%94%E9%99%B8) — entrée Wikipédia en chinois sur Yuma Taru, avec le dossier officiel de sa reconnaissance en 2016 comme détentrice de l’artisanat traditionnel important « teinture et tissage atayal : techniques de tissage inséré, de tissage à motifs relevés et motifs textiles atayal », et comme plus jeune trésor national vivant de l’époque, à 53 ans.
+[^22]: [尤瑪·達陸](https://zh.wikipedia.org/zh-tw/%E5%B0%A4%E7%91%AA%C2%B7%E9%81%94%E9%99%B8) — Article Wikipédia sur Yuma Taru, enregistrement officiel de sa reconnaissance en 2016 (année 105 de la République de Chine) par le ministère de la Culture comme « Détenteure importante de l'artisanat traditionnel » pour la « teinture et tissage Atayal — techniques de tissage à夹 et à挑 et motifs tissés Atayal », alors la plus jeune Trésor humain national (53 ans).
 
-[^23]: [Enregistrer les belles histoires atayal par les motifs tissés](https://vocus.cc/article/5e53409bfd897800013f0d61) — entretien de vocus avec Yuma Taru, comprenant les citations intégrales en chinois « 文化認同這件事，是你打從心底喜歡它 » et « 讓自己更有尊嚴，讓自己知道自己是誰 ».
+[^23]: [用織紋記錄美麗的泰雅故事](https://vocus.cc/article/5e53409bfd897800013f0d61) — Interview de Yuma Taru par _vocus_, contenant les citations textuelles en chinois « La question de l'identité culturelle, c'est l'aimer profondément depuis le fond de votre cœur » et « se donner plus de dignité, savoir qui l'on est ».
 
-[^24]: [Détenteurs d’un artisanat traditionnel important sur le portail national du patrimoine culturel](https://nchdb.boch.gov.tw/announcement/310) — annonce officielle du portail national du patrimoine culturel du ministère de la Culture, liste et années de reconnaissance officielles des 21 éléments et 29 « détenteurs d’un artisanat traditionnel important » cumulés à la fin de 2021.
+[^24]: [國家文化資產網重要傳統工藝保存者](https://nchdb.boch.gov.tw/announcement/310) — Annonce officielle du site du patrimoine culturel national du ministère de la Culture, liste officielle et années de reconnaissance du nombre cumulé de 21 catégories et 29 « Détenteurs importants de l'artisanat traditionnel » à la fin de l'année 2021.
 
-[^25]: [Bureau of Cultural Heritage](https://www.moc.gov.tw/en/News_Content2.aspx?n=389&s=14012) — page en anglais du ministère de la Culture sur le Bureau du patrimoine culturel, statistiques de mai 2023 indiquant 615 éléments de patrimoine culturel immatériel à Taïwan en six grandes catégories, dont 182 dans l’artisanat traditionnel.
+[^25]: [Bureau of Cultural Heritage](https://www.moc.gov.tw/en/News_Content2.aspx?n=389&s=14012) — Site officiel en anglais du Bureau du patrimoine culturel du ministère de la Culture, statistiques à mai 2023 de 6 grandes catégories et 615 éléments de patrimoine culturel immatériel à Taïwan, dont 182 éléments détaillés dans la catégorie de l'artisanat traditionnel.
 
-[^26]: [Rupture générationnelle chez les maîtres artisans traditionnels : les formations du Bureau du patrimoine culturel attirent des participants du nord et du sud](https://news.ltn.com.tw/news/life/breakingnews/2383523) — reportage du Liberty Times rapportant que le Bureau du patrimoine culturel reconnaît que, parmi plus de 600 détenteurs de la qualification de « maître artisan traditionnel » à l’échelle nationale, les moins de 50 ans ne sont « qu’une minorité » ; inclut les explications officielles sur les formations en maçonnerie et mortier confiées par le Bureau à l’Université nationale des arts de Tainan.
+[^26]: [傳統匠師人才斷層 文資局培育課程北南都來參加](https://news.ltn.com.tw/news/life/breakingnews/2383523) — Article de _Liberty Times_, le Bureau du patrimoine culturel admet que sur les plus de 600 détenteurs du titre de « maître artisan traditionnel » à travers le pays, ceux de moins de 50 ans ne constituent qu'une « minorité », contenant l'explication officielle des cours de formation en maçonnerie traditionnelle commandés par le Bureau à l'Université nationale des arts de Tainan.
 
-[^27]: [Trois père et fils innovent dans l’étain : la famille Chen Wanneng, trésor national vivant de l’artisanat de l’étain](https://art.ltn.com.tw/article/paper/1556119) — dossier du supplément arts du Liberty Times sur la famille Chen Wanneng, comprenant la citation intégrale « 昨日創新，今日傳統；今日創新，明日傳統 » et un récit détaillé de l’entreprise familiale de trois générations à Lukang.
+[^27]: [父子3人珍錫創藝─錫工藝人間國寶 陳萬能家族](https://art.ltn.com.tw/article/paper/1556119) — Dossier spécial sur la famille Chen Wan-neng dans le week-end culturel de _Liberty Times_, contenant la citation textuelle « L'innovation d'hier devient la tradition d'aujourd'hui ; l'innovation d'aujourd'hui devient la tradition de demain » et les enregistrements détaillés de la famille à trois générations de l'art de l'étain de Lugang.
 
-[^28]: [Le designer Xiao Qingyang : seule une bonne culture peut produire une bonne création culturelle](https://www.thenewslens.com/article/65127) — entretien de The News Lens avec Xiao Qingyang, comprenant l’idée centrale « 有好的文化，才可能有好的文創 » et une discussion détaillée des liens entre création culturelle et artisanat à Taïwan.
+[^28]: [設計師蕭青陽：有好的文化，才可能有好的文創](https://www.thenewslens.com/article/65127) — Interview de Xiao Qingyang par _The News Lens_, contenant la vue centrale « Ce n'est qu'avec une bonne culture que l'on peut avoir une bonne industrie culturelle créative » et la discussion détaillée sur la relation entre l'industrie culturelle créative et l'artisanat à Taïwan.
 
-[^29]: [Un maître laqueur trésor national de Taïwan qui a consacré sa vie à l’art de la laque : le temps d’artisan de Wang Qingshuang, de Meiyan Lacquer Art, à Nantou](https://www.wowlavie.com/article/ae1601482) — dossier du magazine La Vie sur la famille Wang Qingshuang, comprenant la phrase transmise par son fils Wang Xianmin, « 要做好漆藝，就要活久一些 », et le récit d’une transmission artisanale sur trois générations.
+[^29]: [一生奉獻給漆工藝的台灣國寶漆藝大師！看見南投「美研漆藝」王清霜老先生的職人時光](https://www.wowlavie.com/article/ae1601482) — Dossier spécial de la famille de Wang Qingshuang dans _La Vie Magazine_, contenant les paroles de son fils Wang Xianmin rapportant que son père « doit vivre longtemps pour bien faire l'art de la laque » et les enregistrements de l'artisanat familial transmis sur trois générations.
