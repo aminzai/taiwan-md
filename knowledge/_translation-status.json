@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-31T05:41:11+08:00",
-    "zhCommitHead": "7eb337318",
+    "lastUpdated": "2026-07-31T05:52:36+08:00",
+    "zhCommitHead": "bbc4b85a4",
     "totalZh": 875,
     "activeLanguages": [
       "en",
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 875,
-        "fresh": 632,
+        "fresh": 633,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 242,
+        "missing": 241,
         "orphan": 0
       },
       "ru": {
         "total_zh": 875,
-        "fresh": 660,
+        "fresh": 661,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 215,
+        "missing": 214,
         "orphan": 0
       }
     },
@@ -25019,7 +25019,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Art/taiwan-new-media-art.md",
+          "translatedFrom": "Art/台灣新媒體藝術.md",
+          "sourceCommitSha": "ef8fab38e",
+          "sourceContentHash": "sha256:d196b7664449f36f",
+          "sourceBodyHash": "sha256:3affa690cf7b66dc",
+          "translatedAt": "2026-07-30T22:54:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -41549,8 +41560,8 @@
           "sourceContentHash": "sha256:a2058786df46a07e",
           "sourceBodyHash": "sha256:63cdc7eebcc0988a",
           "translatedAt": "2026-07-30T22:54:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bbc4b85a",
+          "translationLastModified": "2026-07-31T05:41:11+08:00",
           "inferred": false,
           "footnoteDefs": 22,
           "status": "fresh",
@@ -48270,8 +48281,8 @@
           "sourceContentHash": "sha256:9d271528f9d62e05",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-30T20:17:29.477203+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bbc4b85a",
+          "translationLastModified": "2026-07-31T05:41:11+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -53067,8 +53078,8 @@
           "sourceContentHash": "sha256:48c230f3d6f5b004",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-30T21:23:59.825242+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "bbc4b85a",
+          "translationLastModified": "2026-07-31T05:41:11+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -53092,7 +53103,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Politics/election-bulletin-system.md",
+          "translatedFrom": "Politics/選舉公報.md",
+          "sourceCommitSha": "e957cf7f1",
+          "sourceContentHash": "sha256:dbb211cf0ddd5fb6",
+          "sourceBodyHash": "sha256:2cdc1f033ad2b6b9",
+          "translatedAt": "2026-07-30T22:54:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
