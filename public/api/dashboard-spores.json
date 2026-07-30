@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T22:13:50.933658Z",
+  "lastUpdated": "2026-07-30T22:41:40.703521Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 154,
@@ -32,7 +32,7 @@
       "url": "https://x.com/taiwandotmd/status/2081744559860818133",
       "highlight": "同 #163 內容，X 單則貼文＋inline s164 UTM",
       "views_7d": null,
-      "views_latest": 4964,
+      "views_latest": 4983,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -48,7 +48,7 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DbTJE6Mk8mK",
       "highlight": "食安法沒定義「發現」的時點：中聯拖 19 天、連淨當天說；收尾把「你會先打給上游還是政府」交還讀者",
       "views_7d": null,
-      "views_latest": 1650,
+      "views_latest": 1681,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -96,7 +96,7 @@
       "url": "https://x.com/taiwandotmd/status/2081045126898684051",
       "highlight": "雙單同酬（4.4/8.6公里都90元）；地板 vs 演算法",
       "views_7d": null,
-      "views_latest": 3049,
+      "views_latest": 3055,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -331,12 +331,12 @@
     {
       "week": "2026-W30",
       "published": 4,
-      "avgViews": 121321
+      "avgViews": 121326
     },
     {
       "week": "2026-W31",
       "published": 2,
-      "avgViews": 3307
+      "avgViews": 3332
     }
   ],
   "harvestStatus": [
@@ -1827,8 +1827,8 @@
       "publishDate": "2026-07-25",
       "daysSincePublish": 6,
       "withinHarvestWindow": true,
-      "harvestCount": 5,
-      "lastHarvest": "2026-07-30 06:41"
+      "harvestCount": 6,
+      "lastHarvest": "2026-07-31 06:41"
     },
     {
       "n": 160,
@@ -1837,8 +1837,8 @@
       "publishDate": "2026-07-25",
       "daysSincePublish": 6,
       "withinHarvestWindow": true,
-      "harvestCount": 5,
-      "lastHarvest": "2026-07-30 06:41"
+      "harvestCount": 6,
+      "lastHarvest": "2026-07-31 06:41"
     },
     {
       "n": 161,
@@ -1847,8 +1847,8 @@
       "publishDate": "2026-07-26",
       "daysSincePublish": 5,
       "withinHarvestWindow": true,
-      "harvestCount": 4,
-      "lastHarvest": "2026-07-30 06:41"
+      "harvestCount": 5,
+      "lastHarvest": "2026-07-31 06:41"
     },
     {
       "n": 162,
@@ -1857,8 +1857,8 @@
       "publishDate": "2026-07-26",
       "daysSincePublish": 5,
       "withinHarvestWindow": true,
-      "harvestCount": 4,
-      "lastHarvest": "2026-07-30 06:41"
+      "harvestCount": 5,
+      "lastHarvest": "2026-07-31 06:41"
     },
     {
       "n": 163,
@@ -1867,8 +1867,8 @@
       "publishDate": "2026-07-27",
       "daysSincePublish": 4,
       "withinHarvestWindow": true,
-      "harvestCount": 3,
-      "lastHarvest": "2026-07-30 06:41"
+      "harvestCount": 4,
+      "lastHarvest": "2026-07-31 06:41"
     },
     {
       "n": 164,
@@ -1877,8 +1877,8 @@
       "publishDate": "2026-07-27",
       "daysSincePublish": 4,
       "withinHarvestWindow": true,
-      "harvestCount": 3,
-      "lastHarvest": "2026-07-30 06:41"
+      "harvestCount": 4,
+      "lastHarvest": "2026-07-31 06:41"
     }
   ]
 }

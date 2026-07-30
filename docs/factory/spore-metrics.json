@@ -6281,6 +6281,18 @@
       "source": "chrome-mcp"
     },
     {
+      "spore": 159,
+      "dPlus": 6,
+      "at": "2026-07-31 06:41",
+      "batch": "batch-2026-07-31-1-spores",
+      "views": 3249,
+      "likes": 27,
+      "reposts": 1,
+      "comments": 8,
+      "shares": null,
+      "source": "harvest"
+    },
+    {
       "spore": 160,
       "dPlus": 1,
       "at": "2026-07-26 10:49",
@@ -6341,6 +6353,18 @@
       "source": "chrome-mcp"
     },
     {
+      "spore": 160,
+      "dPlus": 6,
+      "at": "2026-07-31 06:41",
+      "batch": "batch-2026-07-31-1-spores",
+      "views": 3055,
+      "likes": 53,
+      "reposts": 12,
+      "comments": 3,
+      "shares": 9,
+      "source": "harvest"
+    },
+    {
       "spore": 161,
       "dPlus": 1,
       "at": "2026-07-27 06:43",
@@ -6387,6 +6411,18 @@
       "comments": 309,
       "shares": 3370,
       "source": "chrome-mcp"
+    },
+    {
+      "spore": 161,
+      "dPlus": 5,
+      "at": "2026-07-31 06:41",
+      "batch": "batch-2026-07-31-1-spores",
+      "views": 430000,
+      "likes": 40000,
+      "reposts": 4786,
+      "comments": 309,
+      "shares": 3370,
+      "source": "harvest"
     },
     {
       "spore": 162,
@@ -6437,6 +6473,18 @@
       "source": "chrome-mcp"
     },
     {
+      "spore": 162,
+      "dPlus": 5,
+      "at": "2026-07-31 06:41",
+      "batch": "batch-2026-07-31-1-spores",
+      "views": 49000,
+      "likes": 2166,
+      "reposts": 510,
+      "comments": 15,
+      "shares": 146,
+      "source": "harvest"
+    },
+    {
       "spore": 163,
       "dPlus": 1,
       "at": "2026-07-28 06:40",
@@ -6473,6 +6521,18 @@
       "source": "chrome-mcp"
     },
     {
+      "spore": 163,
+      "dPlus": 4,
+      "at": "2026-07-31 06:41",
+      "batch": "batch-2026-07-31-1-spores",
+      "views": 1681,
+      "likes": 20,
+      "reposts": 1,
+      "comments": 4,
+      "shares": null,
+      "source": "harvest"
+    },
+    {
       "spore": 164,
       "dPlus": 1,
       "at": "2026-07-28 06:40",
@@ -6507,6 +6567,18 @@
       "comments": 0,
       "shares": 5,
       "source": "chrome-mcp"
+    },
+    {
+      "spore": 164,
+      "dPlus": 4,
+      "at": "2026-07-31 06:41",
+      "batch": "batch-2026-07-31-1-spores",
+      "views": 4983,
+      "likes": 106,
+      "reposts": 19,
+      "comments": null,
+      "shares": 5,
+      "source": "harvest"
     }
   ]
 }
