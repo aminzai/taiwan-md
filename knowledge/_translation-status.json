@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-31T06:43:54+08:00",
-    "zhCommitHead": "530227891",
+    "lastUpdated": "2026-07-31T06:57:53+08:00",
+    "zhCommitHead": "9a33d42b0",
     "totalZh": 875,
     "activeLanguages": [
       "en",
@@ -43,8 +43,8 @@
       },
       "es": {
         "total_zh": 875,
-        "fresh": 845,
-        "stale": 21,
+        "fresh": 846,
+        "stale": 20,
         "metadata_stale": 0,
         "missing": 9,
         "orphan": 0
@@ -83,26 +83,26 @@
       },
       "hi": {
         "total_zh": 875,
-        "fresh": 563,
+        "fresh": 564,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 310,
+        "missing": 309,
         "orphan": 0
       },
       "ar": {
         "total_zh": 875,
-        "fresh": 637,
+        "fresh": 638,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 237,
+        "missing": 236,
         "orphan": 0
       },
       "ru": {
         "total_zh": 875,
-        "fresh": 664,
+        "fresh": 665,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 211,
+        "missing": 210,
         "orphan": 0
       }
     },
@@ -13806,8 +13806,8 @@
           "sourceContentHash": "sha256:56ac16371a296013",
           "sourceBodyHash": "sha256:0ba20d6588799dfb",
           "translatedAt": "2026-07-31T02:01:52+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9a33d42b",
+          "translationLastModified": "2026-07-31T06:43:54+08:00",
           "inferred": false,
           "footnoteDefs": 42,
           "status": "fresh",
@@ -25046,7 +25046,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Art/taiwan-new-media-art.md",
+          "translatedFrom": "Art/台灣新媒體藝術.md",
+          "sourceCommitSha": "ef8fab38e",
+          "sourceContentHash": "sha256:73ba9ccb331ff6aa",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-07-30T22:42:19.711957+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Art/taiwan-new-media-art.md",
@@ -52707,8 +52718,8 @@
           "sourceContentHash": "sha256:0598c68f67d9dae4",
           "sourceBodyHash": "sha256:a62248f87fd69728",
           "translatedAt": "2026-07-31T04:48:15+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
+          "translationLastCommit": "9a33d42b",
+          "translationLastModified": "2026-07-31T06:43:54+08:00",
           "inferred": false,
           "footnoteDefs": 39,
           "status": "fresh",
@@ -53115,7 +53126,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Politics/nine-in-one-elections-explained.md",
+          "translatedFrom": "Politics/九合一選舉是什麼.md",
+          "sourceCommitSha": "e957cf7f1",
+          "sourceContentHash": "sha256:8130ad5ab40eae13",
+          "sourceBodyHash": "sha256:f699c0cd2ccbe17d",
+          "translatedAt": "2026-07-30T22:54:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -73015,16 +73037,16 @@
         "es": {
           "path": "es/People/jamie-lin-ai-industry-pioneer.md",
           "translatedFrom": "People/簡立峰.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:fbf9f60162ac4b29",
-          "sourceBodyHash": "sha256:820519fbefcc8fbc",
-          "translatedAt": "2026-05-20T05:08:32+08:00",
+          "sourceCommitSha": "717a640b3",
+          "sourceContentHash": "sha256:8fe13ae8a4b4ef0b",
+          "sourceBodyHash": "sha256:ea3e7d04bd378c51",
+          "translatedAt": "2026-07-31T04:48:15+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (16→5)"
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/jamie-lin-ai-industry-pioneer.md",
@@ -74928,8 +74950,8 @@
           "sourceContentHash": "sha256:01f29f97ef180820",
           "sourceBodyHash": "sha256:85e505009fb05c24",
           "translatedAt": "2026-07-31T02:01:52+08:00",
-          "translationLastCommit": "f74fbaae",
-          "translationLastModified": "2026-07-27T18:59:24+08:00",
+          "translationLastCommit": "9a33d42b",
+          "translationLastModified": "2026-07-31T06:43:54+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "status": "fresh",
@@ -80248,7 +80270,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/cheng-li-wun.md",
+          "translatedFrom": "People/鄭麗文.md",
+          "sourceCommitSha": "dd39065b2",
+          "sourceContentHash": "sha256:d7d8adfe5a1c7158",
+          "sourceBodyHash": "sha256:119c3d104b24e9dd",
+          "translatedAt": "2026-07-30T22:54:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -81870,8 +81903,8 @@
           "sourceContentHash": "sha256:e7632bbdde015839",
           "sourceBodyHash": "sha256:e1150c885b006baf",
           "translatedAt": "2026-07-31T02:01:52+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
+          "translationLastCommit": "9a33d42b",
+          "translationLastModified": "2026-07-31T06:43:54+08:00",
           "inferred": false,
           "footnoteDefs": 65,
           "status": "fresh",
