@@ -118,6 +118,47 @@ def test_normalize_footnote_batch_rejects_inexact_mapping_wrapper():
     assert MODULE.normalize_footnote_batch(multi_wrapper, batch) is multi_wrapper
 
 
+def test_footnote_batch_shape_rejects_single_record_salvaged_from_truncation():
+    assert not MODULE.is_footnote_batch_response(
+        {"n": "15", "title": "Only the tail survived", "desc": "Incomplete batch"}
+    )
+    assert MODULE.is_footnote_batch_response(
+        {"footnotes": [{"n": "1", "title": "T", "desc": "D"}]}
+    )
+    assert MODULE.is_footnote_batch_response(
+        {"1": {"title": "T", "desc": "D"}}
+    )
+
+
+def test_call_json_retries_when_parsed_json_has_wrong_shape():
+    class Backend:
+        def __init__(self):
+            self.responses = [
+                '{"n":"15","title":"tail","desc":"truncated"}',
+                '[{"n":"1","title":"complete","desc":"batch"}]',
+            ]
+
+        def translate(self, *_args, **_kwargs):
+            return self.responses.pop(0)
+
+    metrics = {}
+    result = MODULE.call_json(
+        Backend(),
+        "system",
+        "user",
+        max_tokens=100,
+        timeout=1,
+        max_attempts=2,
+        metrics=metrics,
+        label="phase-N-test",
+        accept_data=MODULE.is_footnote_batch_response,
+    )
+
+    assert result == [{"n": "1", "title": "complete", "desc": "batch"}]
+    assert [call["ok"] for call in metrics["calls"]] == [False, True]
+    assert "JSON shape fail" in metrics["calls"][0]["error"]
+
+
 def test_validate_footnotes_rejects_markdown_in_translated_title():
     defs = [{"n": "1"}]
     translated = {"1": {"title": "[Source](broken)", "desc": "Description"}}

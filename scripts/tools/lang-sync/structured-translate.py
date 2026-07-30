@@ -173,7 +173,7 @@ def _extract_json_loose(text: str):
 
 
 def call_json(backend, system: str, user: str, *, max_tokens: int, timeout: int,
-              max_attempts: int, metrics: dict, label: str):
+              max_attempts: int, metrics: dict, label: str, accept_data=None):
     """Call backend, strip fence, parse JSON. Retries on parse failure (spec:
     「parse 失敗重試一次」→ max_attempts=2 covers 1 original + 1 retry)."""
     system = system + _NO_REASONING_SUFFIX
@@ -200,6 +200,13 @@ def call_json(backend, system: str, user: str, *, max_tokens: int, timeout: int,
                 call_record.update(ok=False, error=last_err, elapsed_s=elapsed)
                 metrics.setdefault("calls", []).append(call_record)
                 continue
+        if accept_data is not None and not accept_data(data):
+            last_err = f"JSON shape fail: {type(data).__name__}"
+            if isinstance(data, dict):
+                last_err += f" keys={list(data)[:8]!r}"
+            call_record.update(ok=False, error=last_err, elapsed_s=elapsed)
+            metrics.setdefault("calls", []).append(call_record)
+            continue
         call_record.update(ok=True, elapsed_s=elapsed)
         metrics.setdefault("calls", []).append(call_record)
         return data
@@ -326,7 +333,9 @@ def translate_frontmatter(zh_fm: dict, zh_content: str, zh_path: str, lang: str,
     content_retry_system = system
     for content_attempt in range(1, 3):
         data = call_json(backend, content_retry_system, user, max_tokens=4000, timeout=180,
-                          max_attempts=2, metrics=metrics, label=f"phase-F-content{content_attempt}")
+                          max_attempts=2, metrics=metrics,
+                          label=f"phase-F-content{content_attempt}",
+                          accept_data=lambda result: isinstance(result, dict))
 
         for k in payload:
             if k not in data:
@@ -511,6 +520,20 @@ def normalize_footnote_batch(data, batch: list[dict]):
     return normalized
 
 
+def is_footnote_batch_response(data) -> bool:
+    """拒絕寬鬆 parser 從截斷 array 尾端撈出的單筆腳註 object。
+
+    Phase N 的合法根節點是 array、ID mapping 或包住兩者的 object；單筆
+    ``{"n", "title", "desc"}`` 只代表批次輸出不完整，必須讓 call_json 使用
+    尚未耗掉的 retry，而不是提早回傳後才在 length gate 終止。
+    """
+    if isinstance(data, list):
+        return True
+    if not isinstance(data, dict):
+        return False
+    return not ("n" in data and set(data).issubset({"n", "title", "desc"}))
+
+
 def translate_footnotes(defs: list[dict], lang: str, backend, metrics: dict) -> dict:
     """模型只收 JSON 陣列的 {n, title, desc}；URL 與編號工具原樣保留，永遠不進
     prompt。一批最多 15 條，超過分批（spec 硬性要求）。"""
@@ -539,7 +562,8 @@ def translate_footnotes(defs: list[dict], lang: str, backend, metrics: dict) -> 
         )
         user = json.dumps(payload, ensure_ascii=False)
         data = call_json(backend, system, user, max_tokens=8000, timeout=240,
-                          max_attempts=2, metrics=metrics, label=f"phase-N-batch{bi}")
+                          max_attempts=2, metrics=metrics, label=f"phase-N-batch{bi}",
+                          accept_data=is_footnote_batch_response)
         # 模型常把正確陣列包成 `{"footnotes": [...]}` / `{"translations": [...]}`。
         # v1.6 fallback 實績 4 篇在這裡被判成「got dict」，但內容沒有機會進入
         # 後面的長度與 ID 驗證。只接受「物件內恰好一個 list」這個高信心形狀；
