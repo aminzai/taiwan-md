@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-30T07:53:37+08:00",
-    "zhCommitHead": "c9a7e6bec",
+    "lastUpdated": "2026-07-30T08:09:38+08:00",
+    "zhCommitHead": "fbfd593bb",
     "totalZh": 871,
     "activeLanguages": [
       "en",
@@ -67,18 +67,18 @@
       },
       "id": {
         "total_zh": 871,
-        "fresh": 447,
+        "fresh": 448,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 422,
+        "missing": 421,
         "orphan": 0
       },
       "pt": {
         "total_zh": 871,
-        "fresh": 743,
+        "fresh": 744,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 122,
+        "missing": 121,
         "orphan": 0
       },
       "hi": {
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 871,
-        "fresh": 604,
+        "fresh": 606,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 267,
+        "missing": 265,
         "orphan": 0
       },
       "ru": {
@@ -27264,7 +27264,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Art/invisible-nation.md",
+          "translatedFrom": "Art/看不見的國家.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:3ae429b55b3339f0",
+          "sourceBodyHash": "sha256:00c160f3d2bfc5b4",
+          "translatedAt": "2026-07-30T03:55:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 48,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -51698,7 +51709,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Politics/indigenous-district-chief-system.md",
+          "translatedFrom": "Politics/直轄市山地原住民區長.md",
+          "sourceCommitSha": "e957cf7f1",
+          "sourceContentHash": "sha256:529adc4e4a8cd340",
+          "sourceBodyHash": "sha256:4dad7b27d2c04ae8",
+          "translatedAt": "2026-07-30T03:55:56+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -80954,7 +80976,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/ma-ying-jeou-cross-strait-reconciliation-leader.md",
+          "translatedFrom": "People/馬英九.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:321dcc1f48006944",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-07-29T23:44:28.781886+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 43,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/ma-ying-jeou-cross-strait-reconciliation-leader.md",
@@ -80974,7 +81007,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/ma-ying-jeou-cross-strait-reconciliation-leader.md",
+          "translatedFrom": "People/馬英九.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:7ebf03343b7d94a6",
+          "sourceBodyHash": "sha256:3ba24a255fbd26bc",
+          "translatedAt": "2026-07-30T03:55:59+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 43,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -105499,8 +105543,8 @@
           "sourceContentHash": "sha256:847426338ec9f591",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-29T23:40:57.752108+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b8e16450",
+          "translationLastModified": "2026-07-30T07:53:37+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "status": "fresh",
