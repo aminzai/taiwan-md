@@ -134,13 +134,20 @@ jobs:
         run: |
           chmod +x scripts/tools/review-pr.sh
           CONTENT_FILES="${{ steps.files.outputs.content_files }}"
-          
-          # Convert newlines to space for script args
-          ARGS=$(echo "$CONTENT_FILES" | tr '\n' ' ')
-          
+
+          # Build an array (newline-delimited → one element per file). The old
+          # `tr '\n' ' '` + unquoted $ARGS word-split any path containing a
+          # space — `knowledge/Culture/Shopping Design.md` became two bogus
+          # paths and threw a false 🔴 on PR #1273 (130 files, 99 clean).
+          # review-pr.sh itself is already array-safe ("$@").
+          ARGS=()
+          while IFS= read -r f; do
+            [[ -n "$f" ]] && ARGS+=("$f")
+          done <<< "$CONTENT_FILES"
+
           # Run review (capture output, don't fail yet)
           set +e
-          RESULT=$(bash scripts/tools/review-pr.sh $ARGS 2>&1 | sed 's/\x1b\[[0-9;]*m//g')
+          RESULT=$(bash scripts/tools/review-pr.sh "${ARGS[@]}" 2>&1 | sed 's/\x1b\[[0-9;]*m//g')
           EXIT_CODE=$?
           set -e
           
