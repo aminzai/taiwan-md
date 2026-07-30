@@ -1,296 +1,360 @@
 ---
-title: 'Catálogo de módulos de visualización: diecisiete formas de ver los datos de Taiwán'
-description: 'Ejemplo activo de módulos de visualización de Taiwan.md — con datos reales de vivienda y población de Taiwán, se renderiza cada módulo tw-* una vez, junto con la sintaxis y los principios de diseño de graph.md.'
+title: 'Catálogo de módulos de visualización: diecinueve formas de ver los datos de Taiwán'
+description: 'Ejemplos interactivos de los módulos de visualización de artículos de Taiwan.md: utilizando datos reales de vivienda, población, salud y el parlamento de Taiwán para renderizar cada módulo visual `tw-*`, junto con la sintaxis y principios de diseño de `graph.md`.'
 date: 2026-06-06
 category: 'About'
 tags:
-  - 'visualización de datos'
-  - 'justicia habitacional'
-  - 'política de vivienda'
-  - 'datos abiertos'
+  [
+    'Visualización de datos',
+    'justicia habitacional',
+    'política de vivienda',
+    'datos abiertos',
+  ]
 author: 'Taiwan.md'
 readingTime: 11
 featured: false
 lastVerified: 2026-06-12
 lastHumanReview: false
-translatedFrom: 'About/視覺化模組型錄.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:38fecc11c893b25a'
-sourceBodyHash: 'sha256:09331c2942b129a6'
-translatedAt: '2026-06-13T00:46:25+08:00'
 image: '/article-images/society/taipei-skyline-housing-2026.webp'
 imageCredit: 'Heeheemalu'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg'
+relatedDiary: ['2026-07-16-222859-viz-evolution']
+translatedFrom: 'About/視覺化模組型錄.md'
+sourceCommitSha: '21298a7ae'
+sourceContentHash: 'sha256:6617087ac0d0a536'
+sourceBodyHash: 'sha256:f6a2ecc9e1606c44'
+translatedAt: '2026-07-31T02:01:51+08:00'
 ---
 
-# Catálogo de módulos de visualización: diecisiete formas de ver los datos de Taiwán
+# Catálogo de módulos de visualización: diecinueve formas de ver los datos de Taiwán
 
-> **Resumen de 30 segundos:** Esta página es el “ejemplo activo” del sistema de visualización de Taiwan.md — renderiza una vez cada uno de los diecisiete módulos de visualización de artículos, usando datos reales de Taiwán (relación precio‑ingreso, viviendas públicas, envejecimiento, referéndum). Es el complemento de la guía editorial [graph.md](https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/graph.md): **graph.md explica “cuándo usar cuál, cómo hacerlo bien, cómo escribir la sintaxis”, y esta página te muestra directamente “cómo se ve”.** Cada módulo se genera con HTML/SVG puro, por lo que personas, lectores de pantalla, Google y bots de IA pueden leer los mismos datos — esa es la razón por la que elegimos visualizaciones estáticas en lugar de gráficos interactivos.
+> **Resumen en 30 segundos:** Esta página es un «ejemplo vivo» del sistema de visualización de Taiwan.md: renderiza cada uno de los diecinueve módulos visuales utilizados en los artículos, todos con datos reales de Taiwán (relación precio-ingresos, vivienda social, envejecimiento, referéndums, ratio enfermera-paciente, escaños parlamentarios). Es el complemento de la guía de edición [graph.md](https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/graph.md): **mientras que graph.md explica «cuándo usar cada uno, cómo hacerlo bien y cómo escribir la sintaxis», esta página te permite ver directamente «cómo quedan».** Cada módulo se renderiza mediante HTML/SVG puro, por lo que las personas, los lectores de pantalla, Google y los rastreadores de IA pueden leer exactamente los mismos datos; esta es la razón por la que elegimos la visualización estática en lugar de gráficos interactivos.
 
-Al escribir un artículo basado en cifras, lo peor es convertir los datos en una sucesión de números sin contexto; el lector se desconecta al tercer porcentaje. La visualización transforma el “prosa densa de números” en una “estructura legible de un vistazo”.
+Al escribir un artículo sobre cifras, el mayor temor es presentar los datos como una pila de números consecutivos, donde el lector pierde la atención al llegar al tercer porcentaje. La labor de la visualización es transformar «un prosa densa de números» en una «estructura legible de un vistazo».
 
-Pero la visualización de Taiwan.md sigue una disciplina que otros no tienen: **solo hacemos visualizaciones “legibles para LLM”.** Un gráfico interactivo hecho con D3 o Canvas puede ser llamativo, pero GPTBot, PerplexityBot, ClaudeBot y otros bots de IA no ejecutan JavaScript; para ellos ese gráfico es un vacío. Con HTML semántico y SVG en línea, los datos están en el código fuente, y la IA puede leerlos y citar los datos de Taiwán en sus seis idiomas. **Una visualización que entiende la IA es una visualización soberana.**
+Sin embargo, la visualización de Taiwan.md tiene una disciplina que otros no poseen: **solo realizamos visualizaciones que «también sean comprensibles para los LLM»**. Un gráfico interactivo hecho con D3 o Canvas puede ser impresionante, pero los rastreadores de IA como GPTBot, PerplexityBot o ClaudeBot no ejecutan JavaScript; para ellos, ese gráfico es un espacio en blanco. En cambio, nuestros gráficos hechos con HTML semántico y SVG integrado contienen los datos directamente en el código fuente, permitiendo que la IA lea y cite los datos en primera persona de Taiwán en seis idiomas. **Visualizar para que los LLM lo entiendan es visualizar la soberanía.**
 
-A continuación, diecisiete módulos, desde el “número grande” más sencillo hasta el “mosaico de municipios”, presentados en orden. La sintaxis completa y los principios de diseño están en graph.md; aquí solo incluimos una frase “qué es y cuándo usarlo”.
+A continuación se presentan los diecinueve módulos, desde el más simple «un número grande» hasta el «mapa de teselas por condado» y el «arco de escaños», presentados en orden. La versión completa de la sintaxis y los principios de diseño se encuentra en `graph.md`; aquí solo incluimos una breve descripción de «qué es y cuándo usarlo».
 
-## Número grande tw-figure
+## Gran cifra tw-figure
 
-La forma más simple y poderosa: colocar un número impactante en grande, con contraste antes‑después para contar una transformación. Ideal como “estadística martillo”.
+La más simple y potente: presentar un número dramático en gran tamaño para mostrar una transformación mediante el contraste. Ideal como un «dato contundente» (sledgehammer stat) para abrir un tema.
 
 ```tw-figure
-6.7 万 → 87 万 / 坪
-Taipei 成功國宅 1985 年的滯銷配售價，到 2026 年的房仲均價——同一個門牌，約 13 倍
-實價登錄房仲平台（成功國宅）
+67,000 → 870,000 / ping
+Precio de venta de la vivienda social de Éxito (Cheng-shung) en Taipéi en 1985 frente al precio medio de mercado en 2026: la misma dirección, aproximadamente 13 veces más caro.
+Plataforma de registro de precios reales (Vivienda Social Éxito)
 ```
 
-## Conjunto de datos tw-stat
+## Grupo de datos tw-stat
 
-Cuando un párrafo contiene tres o cuatro cifras clave, en lugar de escribir una frase larga, dispónlas en una fila de tarjetas para que el lector las escanee de un vistazo.
+Cuando un párrafo contiene tres o cuatro cifras clave paralelas, en lugar de escribir una frase larga, es mejor organizarlas en una fila de tarjetas para que el lector las escanee rápidamente.
 
 ```tw-stat
-174,891 戶 | 政府直接興建的國宅 | 1976–1999
-39 萬餘戶 | 廣義國宅總量 | 至 2015 年廢止
-84.4% | 全台自有住宅率 | 2024 年
+174,891 unidades | Vivienda social construida directamente por el gobierno | 1976–1999
+Más de 390,000 unidades | Total de vivienda social en sentido amplio | Hasta su abolición en 2015
+84.4% | Tasa de propiedad de vivienda en Taiwán | 2024
+Fuente: Comunicado del Ejecutivo sobre la abolición de la Ley de Vivienda Nacional, Plataforma de Información Inmobiliaria del Ministerio del Interior
 ```
 
-## Tarjeta comparativa tw-versus
+Los módulos de edición que contienen datos (grupos de datos, tarjetas de comparación, ejes de política) deben incluir `Fuente:` al igual que los módulos gráficos. En una auditoría de todo el sitio en julio de 2026, se descubrió que los módulos supervisados por la puerta automática tenían un 100% de tasa de atribución de fuentes; sin embargo, los tres módulos de alta frecuencia no supervisados presentaban un 40% de omisiones. Ahora también han sido integrados en el control `viz-health`.
 
-Dos sistemas, dos posturas o dos estados comparados punto a punto. Color cálido a la izquierda, frío a la derecha, con un “vs” central.
+## Tarjeta de comparación tw-versus
+
+Comparación punto por punto entre dos sistemas, dos posturas o dos estados temporales. Color cálido a la izquierda, color frío a la derecha, con un «vs» en el centro para leer las diferencias línea por línea.
 
 ```tw-versus
-台灣國宅 | 香港居屋
-政府補貼、便宜賣給住戶 | 政府補貼、便宜賣給住戶
-住滿一年即可全市價轉售 | 公開市場轉售須先「補地價」
-增值幾乎全歸個人 | 增值按原折扣比例回收公庫
-公共存量一次性流失 | 公共讓利收得回來
+Vivienda social de Taiwán | Vivienda subsidiada de Hong Kong
+Subvencionada por el gobierno, venta económica a residentes | Subvencionada por el gobierno, venta económica a residentes
+Se puede revender al precio de mercado tras un año de residencia | La reventa en el mercado abierto requiere el «pago de la diferencia de suelo»
+La plusvalía pertenece casi totalmente al individuo | La plusvalía es recuperada por el erario público según la proporción del descuento original
+Pérdida única del inventario público | El beneficio público se recupera mediante la reventa
+Fuente: Boletín de la Legislatura, Comisión de Vivienda de Hong Kong
 ```
 
-## Barra de proporción tw-bars
+## Barra de proporciones tw-bars
 
-Comparación o ranking de pocos categorías; la longitud horizontal se escala automáticamente según el valor, y el máximo ocupa todo el ancho. Recuerda añadir una fila `來源：` al final; se convertirá en la nota de fuente.
+Comparación de valores o rankings para pocas categorías. La longitud de las barras horizontales se escala automáticamente según el valor, expandiéndose hasta el máximo. Recuerda añadir una fila de `Fuente:` al final del módulo de datos; esto se convertirá automáticamente en la nota de fuente inferior.
 
 ```tw-bars
-全國 2014 | 8.41 倍
-全國 2024 | 10.76 倍
-台北 2024 | 16.60 倍 | 歷史峰值
-來源：內政部不動產資訊平台、政大不動產研究中心
+Nacional 2014 | 8.41 veces
+Nacional 2024 | 10.76 veces
+Taipéi 2024 | 16.60 veces | Pico histórico
+Fuente: Plataforma de Información Inmobiliaria del Ministerio del Interior, Centro de Investigación Inmobiliaria de la Universidad de Política Nacional
 ```
 
-## Diagrama de mosaico tw-waffle
+## Gráfico de cuadrícula tw-waffle
 
-Proporción de partes sobre el todo; cada 100 casillas representan el 100 %. Más intuitivo que un pastel porque puedes contar los cuadros. Útil cuando la suma de categorías ronda el 100 %.
+Composición de una parte respecto al todo. Cien cuadros representan el 100%, lo cual es más intuitivo que un gráfico de sectores: puedes contar los cuadros físicamente. Ideal para datos donde las categorías suman aproximadamente 100%.
 
 ```tw-waffle
-維也納的住宅組成（2023）
-市營社宅 | 21.9
-限利潤社宅 | 21.4
-自有住宅 | 20.4
-私人租賃 | 36.3
-來源：維也納市政府（Stadt Wien）住宅統計
+Composición de la vivienda en Viena (2023)
+Vivienda social municipal | 21.9
+Vivienda social con lucro limitado | 21.4
+Vivienda propia | 20.4
+Alquiler privado | 36.3
+Fuente: Estadísticas de vivienda de la ciudad de Viena (Stadt Wien)
 ```
 
-## Línea de política tw-timeline
+## Eje de política tw-timeline
 
-Ejes temporales que conectan hitos clave de un sistema o política. Es “apoyo visual”, no debe confundirse con usar fechas como subtítulos en el texto.
+Contexto de hitos clave en sistemas o políticas, conectados mediante una línea de tiempo de nodos. Nota: esto es un «auxilio visual»; no debe confundirse con el uso de cronologías como subtítulos del cuerpo del texto (ej. «En 1l975...»).
 
 ```tw-timeline
-1975 | 國宅條例上路 | 政府蓋了賣，設「買家資格」閉環，補貼跑不掉
-2002 | 那道牆被拆掉 | 修法取消買家資格限制，國宅住滿一年可賣給任何人
-2015 | 國宅條例廢止 | 官方理由：自有住宅率已 85%，改走只租不售的社宅
-2026 | 桃園把閘門裝回 | 可負擔住宅：轉售不得超過原承購價
+1975 | Implementación de la Ley de Vivienda Nacional | El gobierno construyó para vender, estableciendo un ciclo cerrado de «calificación de comprador» sin escape de subsidios.
+2002 | Se derribó esa barrera | La reforma eliminó las restricciones de calificación, permitiendo vender vivienda social a cualquier persona tras un año de residencia.
+2015 | Abolición de la Ley de Vivienda Nacional | Razón oficial: la tasa de propiedad alcanzó el 85%, virando hacia viviendas sociales de alquiler sin venta.
+2026 | Taoyuan reinstala la barrera | Vivienda asequible: la reventa no puede superar el precio original de adquisición.
+Fuente: Boletín de la Legislación, Comunicado del Ejecutivo sobre la abolición de la Ley de Vivienda Nacional
 ```
 
 ## Tarjeta de cita tw-quote
 
-Cuando una frase resume la tensión central del artículo, conviértela en una tarjeta de cita. No añadas comillas; el módulo las inserta. La cita debe ser literal y verificable.
+Cuando una sola frase representa la tensión central de todo un artículo, amplifícala en una tarjeta de cita. No es necesario añadir comillas manualmente; el módulo las incluye. Las citas deben ser literales y verificables.
 
 ```tw-quote
-市價 3000 萬元的房子，變成 6000 至 7000 萬元的房子……劫貧濟富，國家出錢幫有錢人改建房子
-林智群 | 律師，2025 年批「國家出錢替成功國宅都更」提案
+Una casa con valor de mercado de 30 millones se convierte en una de 60 a 70 millones... robando a los pobres para beneficiar a los ricos, usando dinero estatal para ayudar a los ricos a remodelar sus casas.
+Lin Chih-chun | Abogado, propuesta de 2025 sobre «uso de fondos estatales para la renovación de la Vivienda Social Éxito»
 ```
 
-## Chip de fuente tw-source
+## Barra de fuente tw-source
 
-Concentra las fuentes de una sección de análisis en un pequeño chip al margen. La credibilidad forma parte de la curaduría — muchos medios digitales de Taiwán olvidan citar fuentes; aquí podemos hacerlo diferente.
+Concentra las fuentes de un análisis en una etiqueta (chip) discreta junto al párrafo. La credibilidad es parte de la curaduría; los medios digitales en Taiwán suelen olvidar citar sus fuentes, y este es un lugar donde podemos marcar la diferencia.
 
 ```tw-source
-內政部不動產資訊平台、實價登錄、政大不動產研究中心、立法院公報、香港房屋委員會
+Plataforma de Información Inmobiliaria del Ministerio del Interior, Registro de Precios Reales, Centro de Investigación Inmobiliaria de la Universidad de Política Nacional, Boletín de la Legislatura, Comisión de Vivienda de Hong Kong
 ```
 
-## Caja explicativa tw-note
+## Caja de notas tw-note
 
-La mitad de la credibilidad de un artículo de datos está en “cómo lo calculaste”. Los reporteros usan bloques de **nota** para explicar métodos, correcciones o actualizaciones; este módulo lo estandariza. La primera fila indica `說明`/`方法`/`註`/`更正`/`更新`, y cada fila posterior es un párrafo independiente.
+La credibilidad de un artículo de datos reside en un 50% en «cómo hiciste el cálculo». Los reporteros de periodismo de datos usan bloques de 【Nota】 para explicar metodologías o (Nota) para correcciones; nosotros convertimos esta convención en un módulo. La primera fila debe ser una de estas: `Nota`/`Método`/`Nota aclaratoria`/`Corrección`/`Actualización`, y cada fila posterior es un párrafo independiente.
 
 ```tw-note
-說明
-本頁「老化指數」＝65 歲以上人口 ÷ 0–14 歲人口 × 100。等於 100 代表老人和小孩一樣多，數字越高代表這個地方越「頭重腳輕」。
-高齡化率與老化指數取自內政部戶政司 2025 年底統計，完整的 22 縣市分析見〈用數據看台灣 22 縣市〉。
+Método
+En esta página, el «índice de envejecimiento» = (población de 65 años o más ÷ población de 0 a 14 años) × 100. Un valor de 100 significa que hay tantos ancianos como niños; cuanto mayor sea el número, más «desequilibrada» estará la estructura poblacional.
+La tasa de envejecimiento y el índice de envejecimiento provienen de las estadísticas de la Dirección de Registro Civil del Ministerio del Interior a finales de 2025; el análisis completo de los 22 condados y ciudades se encuentra en 〈Ver los 22 condados y ciudades de Taiwán con datos〉.
 ```
 
-## Gráfica de línea tw-line
+## Gráfico de líneas tw-line
 
-Para tendencias con más de cuatro puntos temporales, usa una línea con SVG en línea; el eje Y muestra los límites para que el lector vea el rango. Lo crucial es que **se genera automáticamente una tabla oculta** que los lectores de pantalla y los bots de IA pueden leer. El gráfico sirve a la vista, la tabla al motor.
+Tendencias de cuatro o más puntos temporales, dibujadas como líneas mediante SVG integrado. Los límites superior e inferior del eje Y se muestran para que el lector vea el rango. Lo más importante es que **genera automáticamente una tabla oculta** para que los lectores de pantalla y los rastreadores de IA accedan a los datos originales. El gráfico es para humanos, la tabla es para máquinas; ambos comparten el mismo origen.
 
 ```tw-line
-全國房價所得比的十年攀升（倍）
-年 | 全國
+Aumento de la relación precio-ingresos en todo el país durante diez años (veces)
+Año | Nacional
 2014 | 8.41
 2016 | 9.32
 2018 | 8.57
 2020 | 9.20
 2022 | 9.61
 2024 | 10.76
-基準：2014 起點 | 8.41
-來源：政大不動產研究中心、內政部不動產資訊平台
+Base: Inicio en 2014 | 8.41
+Fuente: Centro de Investigación Inmobiliaria de la Universidad de Política Nacional, Plataforma de Información Inmobiliaria del Ministerio del Interior
 ```
 
-Las líneas también admiten **líneas de referencia**: añade una fila `基準：標籤 | 值` y aparecerá como una línea discontinua sin extremos, separada visualmente de la serie medida.
+El gráfico de líneas también admite una **línea base**: al añadir una fila `Base: etiqueta | valor`, se dibuja como una línea discontinua sin extremos, solo con una etiqueta, visualmente separada de la serie medida. Así, el lector no confundirá un umbral fijo con un dato medido.
 
-## Gráfica de pendiente tw-slope
+## Gráfico de pendiente tw-slope
 
-Cuando solo tienes “dos puntos temporales”, la línea de tendencia desperdicia espacio. La gráfica de pendiente conecta directamente los extremos y muestra la inclinación; quien sube más rápido o quién supera a quién se ve de un vistazo. Usa `*` al inicio de una fila para resaltarla; el resto se atenuará.
+Cuando solo tienes «dos puntos temporales», el gráfico de líneas desperdicia el espacio intermedio. El gráfico de pendiente permite que la inclinación de la línea entre ambos puntos hable por sí sola, mostrando quién subió más o quién superó a quién de un vistazo. Añadir un `*` al inicio de una etiqueta permite enfatizar una fila; las demás se atenúan automáticamente para servir de contexto.
 
 ```tw-slope
-房價所得比：十年之間誰漲得兇（倍）
+Relación precio-ingresos: ¿Quién subió más en diez años? (veces)
 2014 | 2024
-全國 | 8.41 | 10.76
-*台北 | 12.0 | 16.60
-來源：內政部不動產資訊平台、政大不動產研究中心
+Nacional | 8.41 | 10.76
+*Taipéi | 12.0 | 16.60
+Fuente: Plataforma de Información Inmobiliaria del Ministerio del Interior, Centro de Investigación Inmobiliaria de la Universidad de Política Nacional
 ```
 
 ## Mapa de calor tw-heatmap
 
-Matriz de regiones × indicadores o años × categorías. Cada columna se normaliza en intensidad de color; los valores mayores son más cálidos. Es una tabla HTML, por lo que es inherentemente legible por IA — esa es la ventaja frente a una imagen de mapa de calor.
+Comparación matricial de Región × Indicador, o Año × Categoría. Cada columna se normaliza según la intensidad del color; cuanto mayor es el número, más cálido es el tono. Es intrínsecamente una tabla HTML, por lo que es legible para la IA, razón por la cual este módulo es superior a «una simple imagen en color» en nuestro sistema.
 
 ```tw-heatmap
-縣市 | 房價所得比（倍） | 房貸負擔率（%）
-台北 | 16.60 | 63.9
-新北 | 13.03 | 56.9
-台中 | 11.11 | 48.0
-桃園 | 9.0 | 40.0
-來源：內政部不動產資訊平台
+Ciudad/Condado | Relación precio-ingresos (veces) | Tasa de carga hipotecaria (%)
+Taipéi | 16.60 | 63.9
+Nuevo Taipéi | 13.03 | 56.9
+Taichung | 11.11 | 48.0
+Taoyuan | 9.0 | 40.0
+Fuente: Plataforma de Información Inmobiliaria del Ministerio del Interior
 ```
 
-## Diagrama de puntos tw-dot
+## Gráfico de puntos tw-dot
 
-Los diagramas de barras muestran “cantidad”; los de puntos muestran “distribución”: cada punto está en la misma escala, así puedes ver quién está agrupado y quién es un valor atípico. Cada fila con un solo valor crea una tira de puntos; con dos valores se dibuja un intervalo. `*` funciona igual para resaltar.
+El gráfico de barras mide «cantidad»; el gráfico de puntos muestra «distribución». Todos los puntos caen en la misma escala, permitiendo ver quién está agrupado y quién es un valor atípico. Una fila con un solo valor es un _dot strip_; dos valores dibujan un intervalo «de aquí a allá»; tres valores (`Estimación | Límite inferior | Límite superior`) crean una estimación de encuesta con su margen de error. Un error de muestreo del ±3% no debe ignorarse; esta es la forma más honesta de presentar datos en años electorales. El `*` también puede usarse para enfatizar.
 
 ```tw-dot
-高齡化率的兩極：最年輕到最老的縣市（65 歲以上占比，%）
-新竹縣 | 15.08 | 全台最年輕
-桃園 | 16.72
-台中 | 17.40
-新北 | 19.95
-台南 | 20.48
-高雄 | 20.79
-*嘉義縣 | 24.11 | 全台最老
-*台北 | 24.18 | 六都最老
-來源：內政部戶政司，2025 年底
+Los extremos del envejecimiento: condados y ciudades desde el más joven al más viejo (% de población de 65 años o más)
+Condado de Hsinchu | 15.08 | El más joven de Taiwán
+Taoyuan | 16.72
+Taichung | 17.40
+Nuevo Taipéi | 19.95
+Tainan | 20.48
+Kaohsiung | 20.79
+*Condado de Chiayi | 24.11 | El más viejo de Taiwán
+*Taipéi | 24.21 | El más viejo de las seis grandes ciudades
+Fuente: Dirección de Registro Civil del Ministerio del Interior, finales de 2025
 ```
 
 ## Barras apiladas tw-stack
 
-Los diagramas de mosaico son útiles para la composición de “un todo”; las barras apiladas sirven para **comparar composiciones a través de varias filas** — cada fila se normaliza al 100 % y, si hay espacio suficiente, el valor se muestra dentro del bloque de color.
+El gráfico de cuadrícula es ideal para la composición de «un todo»; las barras apiladas son ideales para **comparar composiciones entre varias filas**. Cada fila se normaliza automáticamente al 100%; si el párrafo es lo suficientemente ancho, los valores se mostrarán directamente dentro de los bloques de color.
 
 ```tw-stack
-三場核能公投：同意 vs 不同意（有效票占比 %）
-公投 | 同意 | 不同意
-2018 以核養綠 | 59 | 41
-2021 重啟核四 | 47 | 53
-2025 核三延役 | 74 | 26
-來源：中央選舉委員會三場公投官方審定結果
+Tres referéndums nucleares: A favor vs En contra (% de votos válidos)
+Referéndum | A favor | En contra
+201            | 59 | 41
+2021            | 47 | 53
+2025            | 74 | 26
+Fuente: Resultados oficiales de la Comisión Central de Elecciones, Comisión Electoral Central
 ```
 
 ## Pirámide tw-pyramid
 
-Barras espejo, una a cada lado, con una etiqueta central — el clásico gráfico demográfico. Aquí muestra la “carga de cabeza” de seis municipios: izquierda niños, derecha ancianos; al comparar ambos lados, la proporción de ancianos deja de ser un porcentaje abstracto.
+Barras espalda con espalda, con un grupo a cada lado y etiquetas compartidas en el centro; es el gráfico demográfico clásico. Aquí lo usamos para ver el «desequilibrio» en seis ciudades/condados: a la izquierda los niños, a la derecha los ancianos; al compararlos, el envejecimiento deja de ser un porcentaje abstracto.
 
 ```tw-pyramid
-頭重腳輕：六縣市的幼年 vs 老年人口占比（%）
-縣市 | 0–14 歲 | 65 歲以上
-新竹縣 | 14.80 | 15.08
-桃園 | 13.13 | 16.72
-台中 | 12.75 | 17.40
-台北 | 11.97 | 24.18
-基隆 | 9.28 | 22.28
-嘉義縣 | 8.27 | 24.11
-來源：內政部戶政司 2025 年底；幼年占比由高齡化率 ÷ 老化指數 × 100 推算
+Desequilibrio: Proporción de población infantil vs anciana en seis regiones (%)
+Ciudad/Condado | 0–14 años | 65 años o más
+Condado de Hsinchu | 14.80 | 15.08
+Taoyuan | 13.13 | 16.72
+Taichung | 12.75 | 17.40
+Taipéi | 11.97 | 24.18
+Keelung | 9.28 | 22.28
+Condado de Chiayi | 8.27 | 24.11
+Fuente: Dirección de Registro Civil del Ministerio del Interior, finales de 2025; la proporción infantil se calcula como (tasa de envejecimiento ÷ índice de envejecimiento) × 100
 ```
 
-## Mosaico de municipios tw-tiles
+## Mapa de teselas tw-tiles
 
-Los mapas coropléticos de Taiwán tienen dos problemas: Hualien y Taitung ocupan tanto espacio que dominan la visual, y los dibujos de IA de la forma de Taiwán a menudo terminan pareciendo “entre una oliva y una patata”. El mosaico coloca los 22 municipios en bloques de igual tamaño (disposición fija en el sistema, respetando la posición relativa real); cada bloque tiene el mismo peso y el número se escribe directamente sobre él. La forma siempre es correcta porque no se dibuja la silueta.
+Los mapas coropléticos de Taiwán tienen dos problemas antiguos: el área de Hualien y Taitung es tan grande que domina visualmente, y la forma de Taiwán dibujada por IA suele parecer «una mezcla entre oliva y patata». El mapa de teselas organiza los 22 condados y ciudades en bloques de igual tamaño (la disposición está fija en el sistema según su posición real), cada bloque tiene el mismo peso y los números se escriben directamente sobre ellos. La forma siempre es correcta porque no dibujamos formas.
 
 ```tw-tiles
-全台 22 縣市高齡化率（65 歲以上人口占比，%）
-臺北市 | 24.18
-新北市 | 19.95
-桃園市 | 16.72
-臺中市 | 17.40
-臺南市 | 20.48
-高雄市 | 20.79
-基隆市 | 22.28
-新竹市 | 16.16
-嘉義市 | 19.90
-新竹縣 | 15.08
-苗栗縣 | 20.23
-彰化縣 | 20.37
-南投縣 | 22.66
-雲林縣 | 21.76
-嘉義縣 | 24.11
-屏東縣 | 21.84
-宜蘭縣 | 20.77
-花蓮縣 | 21.52
-臺東縣 | 20.93
-澎湖縣 | 21.03
-金門縣 | 19.69
-連江縣 | 17.14
-來源：內政部戶政司，2025 年底
+Tasa de envejecimiento en los 22 condados y ciudades de Taiwación ( % de población de 65 años o más)
+Taipéi | 24.18
+Nuevo Taipéi | 19.95
+Taoyuan | 16.72
+Taichung | 17.40
+Tainan | 20.48
+Kaohsiung | 20.79
+Keelung | 22.28
+Hsinchu | 16.16
+Chiayi | 19.90
+Condado de Hsinchu | 15.08
+Miaoli | 20.23
+Changhua | 20.37
+Nantou | 22.66
+Yunlin | 21.76
+Condado de Chiayi | 24.11
+Pingtung | 21.84
+Yilan | 20.77
+Hualien | 21.52
+Taitung | 20.93
+Penghu | 21.03
+Kinmen | 19.69
+Lienchiang | 17.14
+Fuente: Dirección de Registro Civil del Ministerio del Interior, finales de 2025
 ```
 
-## Diagrama de unidades tw-iso
+## Gráfico de unidades tw-iso
 
-“174,891 hogares” es un número que se olvida; nueve puntos que pueden contarse con los dedos son más tangibles. El diagrama de unidades convierte un número grande en “un símbolo = cuánto”. Solo se usan enteros; el valor exacto se escribe al lado.
+«174,891 unidades» es un número que se olvida tras leerlo; nueve puntos redondos que puedes contar con los dedos no. El gráfico de unidades sustituye cifras grandes por unidades contables («un símbolo = cierta cantidad»), una técnica esencial para reporteros en reportajes sobre pesca de altura: transformar números masivos e intangibles en unidades perceptibles para el ciudadano. Los símbolos solo usan números enteros (sin medios símbolos), y el valor exacto se escribe al lado.
 
 ```tw-iso
-政府這 24 年蓋了多少國宅
-單位：● = 20,000 戶
-政府直接興建 | 174,891 戶 | 1976–1999
-廣義國宅總量 | 390,000 餘戶 | 至 2015 年廢止
-來源：行政院廢止國民住宅條例新聞稿
+Cuánta vivienda social ha construido el gobierno en estos 24 años
+Unidad: ● = 20,00<0xC2>0 unidades
+Construcción directa del gobierno | 174,891 unidades | 1976–1999
+Total de vivienda social en sentido amplio | Más de 390,000 unidades | Hasta su abolición en 2015
+Fuente: Comunicado del Ejecutivo sobre la abolición de la Ley de Vivienda Nacional
+```
+
+## Arco de escaños tw-arc
+
+La composición parlamentaria tiene su propio gráfico especializado: una matriz semicircular de puntos, un punto por escaño, donde los partidos se organizan en un sector continuo según su orden de lista. El gráfico de sectores compara ángulos (algo que el ojo humano no hace bien); el arco de escaños te permite contar puntos directamente, con la línea de mayoría absoluta dibujada exactamente donde debe estar. Aquí usamos los resultados de las elecciones legislativas de 2024: 113 escaños, sin mayoría para ningún partido; esa línea discontinua es el punto de partida de la posterior tensión por las revocaciones de mandatos. Nota: este es un gráfico parlamentario; para elecciones de alcaldes en los 22 condados y ciudades (donde hay un ganador por distrito), debe usarse el mapa de teselas inferior.
+
+```tw-arc
+Legislatura de 202cal: Sin mayoría absoluta (113 escaños)
+Mayoría: 57
+KMT | 52
+DPP | 51
+TPP | 8
+Independientes | 2 | Tendencia Pan-azul
+Fuente: Comisión Central de Elecciones
+```
+
+## Rejilla de pequeños múltiplos tw-multiples
+
+Un solo gráfico con cinco líneas se convierte en un nudo de espagueti; los pequeños múltiplos asignan cada línea a su propia celda, **donde todas las celdas comparten la misma escala**, permitiendo la comparación directa de formas. Aquí usamos el ratio enfermera-paciente en tres turnos: el mapa de calor (el anterior) te da una matriz precisa; los pequeños múltiplos te muestran la tendencia: cómo cada nivel aumenta hacia la madrugada y cómo la base es la que más se dispara. Con los mismos datos, si haces preguntas diferentes, elige gráficos diferentes.
+
+```tw-multiples
+A medida que la noche es más profunda y el hospital más básico, un enfermero cuida de más camas (personas)
+Columna: Turno | Ratio enfermera-paciente
+--- Centro Médico
+Mañana | 6
+Tarde | 9
+Noche | 11
+--- Hospital Regional
+Mañana | 7
+Tarde | 11
+Noche | 13
+--- *Hospital de Distrito
+Mañana | 10
+Tarde | 13
+Noche | 15
+Fuente: Anuncio estándar del ratio enfermera-paciente para tres turnos, Ministerio de Salud y Bienestar, 2024
 ```
 
 ## Cómo usar estos módulos
 
-Cada módulo se escribe en el Markdown del artículo dentro de un bloque ` ```tw-* `, usando `|` para separar columnas; al compilar, se transforma automáticamente en la visualización que ves — el autor no necesita escribir HTML ni JavaScript. La sintaxis completa, cuándo usar cada tipo, colores y ejes que eviten confusión, y la lista de verificación visual antes de publicar, están en [graph.md](https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/graph.md).
+Cada módulo se escribe en el Markdown del artículo como un bloque ` ```tw-* ` utilizando `|` para las columnas. Durante la construcción, se transforma automáticamente en lo que ves arriba; el autor no necesita escribir HTML ni JavaScript. La sintaxis completa, cuándo usar cada uno, cómo diseñar colores y ejes para no inducir a error, y la lista de verificación visual antes de publicar, se encuentran en [graph.md](https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/graph.md).
 
-Este sistema se inspira en la filosofía editorial de medios narrativos como [The Pudding](https://pudding.cool/): el problema antes que los datos, conclusiones claras, y la atribución como protagonista — pero adaptado a la anatomía propia de Taiwan.md: estático, multilingüe y legible por IA. El contexto completo del diseño está en el [Informe del sistema de visualización](https://github.com/frank890417/taiwan-md/blob/main/reports/article-visualization-design-2026-06-06.md).
+Este sistema toma como referencia la filosofía editorial de [The Pudding](https://pudding.cool/) —la pregunta precede al dato, las conclusiones deben ser claras, la atribución es protagonista— pero ha evolucion a un órgano propio de Taiwan.md: estático, multilingüe y legible para la IA. El contexto completo del diseño se encuentra en el [Informe de Diseño del Sistema de Visualización](https://github.com/frank890417/taiwan-md/blob/main/reports/article-visualization-design-2026-06-06.md).
 
-Para ver cómo estos módulos se insertan en un artículo profundo, lee [Vivienda pública y justicia habitacional](/es/society/public-housing-justice) — la mayoría de los datos de esta página provienen de esa investigación.
+Para ver cómo estos módulos se entrelazan narrativamente en un artículo profundo real, lee [Vivienda Social y Justicia Habitacional](/es/society/public-housing-justice); la mayoría de los datos de esta página provienen de esa investigación.
 
-**Lecturas complementarias**:
+## Este sistema también está evolucionando
 
-- [Vivienda pública y justicia habitacional](/es/society/public-housing-justice) — la historia completa detrás de los datos de vivienda: cómo la vivienda pública pasó de ser vivienda barata a una escalera de activos, y la mayor parte de los módulos usan esas cifras.
-- [Ver Taiwán con datos](/es/geography/data-taiwan-22-cities) — los datos de envejecimiento para los diagramas de puntos, pirámide y mosaico provienen de este análisis de los 22 municipios.
-- [Debate sobre la energía nuclear en Taiwán](/es/society/taiwan-nuclear-debate) — la historia completa de los tres referéndums que alimentan el diagrama de barras apiladas.
-- [Vivienda social y justicia habitacional](/es/society/social-housing-and-housing-justice) — la ruta de “solo alquiler, no venta” después de 2016.
-- [Crisis de natalidad en Taiwán](/es/society/taiwan-low-birth-rate-crisis) — la imposibilidad de comprar vivienda y la falta de hijos, otra cara de la justicia generacional.
+La página que estás viendo es el resultado de tres rondas de evolución. Al ser una página con línea de tiempo, usaremos el módulo de eje de política para contar su propia historia:
 
-## Fuente de la imagen
+```tw-timeline
+2026-06-06 | Nacimiento de diez módulos | Tras investigar la taxonomía de gráficos de The Pudding y FT, surgiamos con la primera tanda: cifra grande, tarjeta de comparación, barra de proporciones y línea.
+2026-06-12 | Crecemos a diecisiete una semana después | Añadimos pendiente, puntos, apilado, pirámide, teselas y unidades; el verificador de píxeles `viz-shot` nació el mismo día, porque «la existencia del markup» y «que se vea bien» son dos cosas distintas.
+2026-07-16 | Diecinueve módulos, y aprendemos seis idiomas | Se integran el arco de escaños y los pequeños múltiplos; las cadenas de sistema como «Fuente» ahora se renderizan en seis idiomas; las teselas para versiones en inglés y japonés ya no se degradan a barras.
+Fuente: Informe de Diseño y Evolución del Sistema de Visualización de Taiwan.md (junio 2026 – julio 2026, público en GitHub)
+```
 
-Esta publicación usa una imagen bajo licencia CC BY‑SA 4.0, almacenada en `public/article-images/society/`:
+El enfoque de la tercera ronda no fue añadir nuevos gráficos, sino realizar una auditoría honesta. La auditoría de todo el sitio reveló que: los módulos supervisados por la puerta automática tenían un 100% de atribución; pero los tres módulos de alta frecuencia no supervisados presentaban un 40% de omisiones. Las normas se escribieron en la guía de edición hace dos meses, pero el comportamiento seguía sin alinearse con las herramientas; por ello, esta vez ampliamos las herramientas para que coincidan con las normas. En la misma ronda detectamos que las cadenas del sistema en páginas en inglés, japonés y coreano se renderizaban todas en chino, e incluso un carácter simplificado se colaba en las etiquetas de accesibilidad sin que nadie lo notara. Para un sistema que afirma «hacer que los datos de Taiwán sean legibles para los LLM en seis idiomas», estos detalles son más importantes que las nuevas funciones.
 
-- [Taipei skyline (vista desde Xiangshan)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Foto: Heeheemalu, 2026, CC BY‑SA 4.0 (hero)
+Investigaciones recientes respaldan este enfoque: la precisión de la IA multimodal para reconstruir valores de gráficos a partir de imágenes no es fiable; los nodos de texto son lo que las máquinas pueden leer con estabilidad. Esta es la razón por la que el mapa de teselas escribe los números directamente sobre los bloques y cada gráfico incluye una tabla de datos oculta. El proceso de investigación completo y las decisiones de diseño se detallan en el [Informe de Investigación Profunda e Implementación del Sistema de Visualización v3.0](https://github.com/frank890417/taiwan-md/blob/main/reports/viz-module-evolution-2026-07-16.md).
+
+**Lecturas adicionales**:
+
+- [Vivienda Social y Justicia Habitacional](/es/society/public-housing-justice) — La historia completa tras estos datos de vivienda: cómo la vivienda social pasó de ser económica a ser un escalón de activos; fuente de la mayoría de los datos de esta página.
+- [Ver los 22 condados y ciudades de Taiwán con datos](/es/geography/data-taiwan-22-cities) — Los datos de envejecimiento para el gráfico de puntos, pirámide y teselas de esta página provienen del análisis completo de los 22 condados y ciudades de este artículo.
+- [Debates sobre Taiwán y la energía nuclear](/es/society/taiwan-nuclear-debate) — La historia completa de los tres referéndums en las barras apiladas: ganamos el debate, perdimos la política.
+- [Ley de Salud](/es/society/medical-care-act) — La historia completa de los ratios enfermera-paciente en los pequeños múltiplos: la ley puede decir cuántas camas atender, pero no si hay manos disponibles para hacerlo.
+- [Revocaciones masivas](/es/history/great-recall-movement-2024) — El seguimiento de la línea de mayoría absoluta en el arco de escaños: cómo un parlamento sin mayoría llegó a 31 casos de revocación.
+- [Crisis de baja natalidad en Taiwán](/es/society/taiwan-low-birth-rate-crisis)— La otra cara de la justicia generacional: no poder comprar vivienda y no poder tener hijos.
+
+## Fuentes de imágenes
+
+Este artículo utiliza 1 imagen con licencia Creative Commons, almacenada en `public/article-images/society/`:
+
+- [Skyline de Taipéi (vista desde Xiangshan)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Foto: Heeheemalu, 2026, CC BY-SA 4.0 (hero)
 
 ## Referencias
 
-[^1]: [內政部不動產資訊平台](https://pip.moi.gov.tw/Publicize/Info/E1050) — datos oficiales de relación precio‑ingreso, carga hipotecaria y tasa de vivienda propia.
+[^1]: [Plataforma de Información Inmobiliaria del Ministerio del Interior](https://pip.moi.gov.tw/Publicize/Info/E1050) — Estadísticas oficiales de vivienda como relación precio-ingresos, tasa de carga hipotecaria y tasa de propiedad.
 
-[^2]: [政大不動產研究中心](https://rer.nccu.edu.tw/article/detail/2210058908437) — indicadores históricos de asequibilidad de la vivienda; fuente de la línea y barra de proporción.
+[^2]: [Centro de Investigación Inmobiliaria de la Universidad de Política Nacional](https://rer.nccu.edu.tw/article/detail/2210058908437) — Indicadores históricos de asequibilidad de la vivienda; fuente de la serie de relación precio-ingresos en los gráficos de líneas y barras de esta página.
 
-[^3]: [行政院廢止國民住宅條例新聞稿](https://www.ey.gov.tw/Page/9277F759E41CCD91/d4afaf10-ece5-4b4f-9482-35ce16bdc657) — número acumulado de viviendas públicas (≈ 390 mil).
+[^3]: [Comunicado del Ejecutivo sobre la abolición de la Ley de Vivienda Nacional](https://www.ey.gov.tw/Page/9277F759E41CCD91/d4afaf10-ece5-4b4f-9482-35ce16bdc657) — Datos oficiales como el número acumulado de unidades de vivienda social (aprox. 390,000).
 
-[^4]: [內政部戶政司人口統計資料](https://www.ris.gov.tw/app/portal/346) — proporción de población mayor de 65 años y índice de envejecimiento al final de 2025; datos para los diagramas de puntos, pirámide, mosaico y caja explicativa; cadena de verificación completa en〈[Ver Taiwán con datos](/es/geography/data-taiwan-22-cities)〉.
+[^4]: [Estadísticas demográficas de la Dirección de Registro Civil del Ministerio del Interior](https://www.ris.gov.tw/app/portal/346) — Proporción de población de 65 años o más y índice de envejecimiento por condado/ciudad a finales de 2025; para la cadena completa de verificación, ver 〈[Ver los 22 condados y ciudades de Taiwán con datos](/es/geography/data-taiwan-22-cities)〉.
 
-[^5]: [中央選舉委員會 2018 年第 16 案公投結果（PDF）](https://web.cec.gov.tw/api/file/0132581c-18b5-4951-bc24-3cc083924666.pdf) — resultados oficiales de los tres referéndums nucleares (59 %/47 %/74 %); cadena de verificación completa en〈[Debate sobre la energía nuclear en Taiwán](/es/society/taiwan-nuclear-debate)〉.
+[^5]: [Resultado del Referéndum n.º 16 de 2018 de la Comisión Central de Elecciones (PDF)](https://web.cec.gov.tw/api/file/0132581c-18b5-4951-bc24-3cc083924666.pdf) — La proporción de votos a favor en los tres referéndums nucleares (59%/47%/74%) son resultados oficiales de la CEC; cadena de verificación por caso en 〈[Debates sobre Taiwán y la energía nuclear](/es/society/taiwan-nuclear-debate)〉.
+
+[^6]: [CNA: Sin mayoría absoluta en las elecciones legislativas de 202$\\$4](https://www.cna.com.tw/news/aipl/202401130361.aspx) — La distribución de los 113 escaños (KMT 52, DPP 51, TPP 8, Independientes 2) son resultados oficiales de la CEC; cadena de verificación en 〈[Revocaciones masivas](/es/history/great-recall-movement-2024)〉.
+
+[^7]: [Anuncio estándar del ratio enfermera-paciente para tres turnos (2024), Ministerio de Salud y Bienestar](https://www.mohw.gov.tw/) — Valores estándar por los tres niveles en los pequeños múltiplos; cadena de verificación en 〈[Ley de Salud](/es/society/medical-care-act)〉.
