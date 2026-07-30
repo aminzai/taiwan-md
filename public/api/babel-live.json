@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-07-30T08:55:44+08:00",
+ "generated_at": "2026-07-30T09:04:56+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-07-30T08:55:37+08:00",
+ "snapshot_ts": "2026-07-30T09:04:50+08:00",
  "total_zh": 871,
  "langs": [
   {
@@ -97,24 +97,24 @@
   {
    "lang": "ru",
    "name": "Русский",
-   "fresh": 636,
+   "fresh": 637,
    "stale": 0,
-   "missing": 235,
-   "coverage_pct": 73.0,
-   "fresh_delta": 0
+   "missing": 234,
+   "coverage_pct": 73.1,
+   "fresh_delta": 1
   }
  ],
- "gap_total": 2100,
- "gap_delta": 0,
+ "gap_total": 2099,
+ "gap_delta": -1,
  "rate_1h": {
   "delta": 12,
-  "span_h": 1.02,
+  "span_h": 1.01,
   "per_hour": 11.8
  },
  "rate_24h": {
-  "delta": 220,
-  "span_h": 24.16,
-  "per_hour": 9.1
+  "delta": 216,
+  "span_h": 24.06,
+  "per_hour": 9.0
  },
  "eta_days": 7.4,
  "nodes": {
@@ -339,8 +339,8 @@
    "last_activity": "2026-07-30T08:52:37+08:00"
   },
   "worker:nemo2": {
-   "ok": 170,
-   "fail": 311,
+   "ok": 171,
+   "fail": 312,
    "avg_s": 265.1,
    "top_fail": [
     [
@@ -352,7 +352,7 @@
      58
     ]
    ],
-   "last_activity": "2026-07-30T08:54:35+08:00"
+   "last_activity": "2026-07-30T08:59:32+08:00"
   },
   "worker:l4090": {
    "ok": 47,
@@ -534,17 +534,12 @@
   {
    "kind": "unified",
    "pid": "66392",
-   "uptime": "04:59:56",
+   "uptime": "05:09:08",
    "langs": "ja,id,pt,hi,ar,ru",
    "workers": 4
   }
  ],
  "history": [
-  {
-   "ts": "2026-07-29T18:38:46+08:00",
-   "fresh_total": 7389,
-   "gap_total": 2192
-  },
   {
    "ts": "2026-07-29T18:39:40+08:00",
    "fresh_total": 7389,
@@ -1019,6 +1014,11 @@
    "ts": "2026-07-30T08:55:37+08:00",
    "fresh_total": 7481,
    "gap_total": 2100
+  },
+  {
+   "ts": "2026-07-30T09:04:50+08:00",
+   "fresh_total": 7482,
+   "gap_total": 2099
   }
  ]
 }
