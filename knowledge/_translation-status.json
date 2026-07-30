@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-31T01:56:32+08:00",
-    "zhCommitHead": "613e4b6d3",
+    "lastUpdated": "2026-07-31T02:11:11+08:00",
+    "zhCommitHead": "21ad3e56d",
     "totalZh": 875,
     "activeLanguages": [
       "en",
@@ -43,9 +43,9 @@
       },
       "es": {
         "total_zh": 875,
-        "fresh": 841,
+        "fresh": 842,
         "stale": 24,
-        "metadata_stale": 1,
+        "metadata_stale": 0,
         "missing": 9,
         "orphan": 0
       },
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 875,
-        "fresh": 759,
+        "fresh": 760,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 110,
+        "missing": 109,
         "orphan": 0
       },
       "hi": {
@@ -4873,7 +4873,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Music/chou-hui.md",
+          "translatedFrom": "Music/周蕙.md",
+          "sourceCommitSha": "c40c53f61",
+          "sourceContentHash": "sha256:bad67aad8b965996",
+          "sourceBodyHash": "sha256:7f999c1dbadb14bb",
+          "translatedAt": "2026-07-30T22:54:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 39,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -49848,18 +49859,16 @@
         "es": {
           "path": "es/Nature/taiwan-climate-change-net-zero-transition.md",
           "translatedFrom": "Nature/台灣氣候危機與淨零轉型.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:690ecb6c58309760",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:d698e900aeaedc49",
           "sourceBodyHash": "sha256:36525caaf207b712",
-          "translatedAt": "2026-06-16T17:05:07Z",
+          "translatedAt": "2026-07-31T00:04:48+08:00",
           "translationLastCommit": "21298a7a",
           "translationLastModified": "2026-07-29T13:39:11+09:00",
           "inferred": false,
           "footnoteDefs": 45,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Nature/taiwan-climate-change-net-zero-transition.md",
@@ -108861,8 +108870,8 @@
           "sourceContentHash": "sha256:244cad849cf26403",
           "sourceBodyHash": "sha256:fd14be167daa0221",
           "translatedAt": "2026-06-16T17:04:12Z",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "810eb9c8",
+          "translationLastModified": "2026-07-31T01:56:32+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -112580,8 +112589,8 @@
           "sourceContentHash": "sha256:f1b4f4bb8aa56e88",
           "sourceBodyHash": "sha256:b5154ba7226ad9d9",
           "translatedAt": "2026-06-16T17:19:04Z",
-          "translationLastCommit": "fd678fd2",
-          "translationLastModified": "2026-07-25T10:32:02+08:00",
+          "translationLastCommit": "810eb9c8",
+          "translationLastModified": "2026-07-31T01:56:32+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -120350,8 +120359,8 @@
           "sourceContentHash": "sha256:fa410e59dc40cf80",
           "sourceBodyHash": "sha256:4c28ceadc8ee9c09",
           "translatedAt": "2026-05-20T05:08:29+08:00",
-          "translationLastCommit": "06ed4c82",
-          "translationLastModified": "2026-05-20T12:37:22+08:00",
+          "translationLastCommit": "810eb9c8",
+          "translationLastModified": "2026-07-31T01:56:32+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
