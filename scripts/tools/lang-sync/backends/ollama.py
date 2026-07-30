@@ -151,8 +151,21 @@ class OllamaBackend(TranslationBackend):
             raise BackendBadOutput("malformed Ollama response (no message.content)")
 
         if not content or len(content.strip()) < 100:
-            self._record_failure("bad_output", f"empty/tiny: {len(content) if content else 0} chars")
-            raise BackendBadOutput(f"Ollama empty/tiny output")
+            # 診斷儀器（2026-07-31）：空輸出有兩種完全不同的病，光看「empty」
+            # 分不出來——(a) thinking 模型把 num_predict 預算燒在思考通道
+            # （thinking 長、content 空、done_reason=stop/length）；(b) num_ctx
+            # 估太小、prompt 被截或生成中撞窗（prompt_eval_count 貼近 num_ctx、
+            # done_reason=length）。把機轉證據寫進失敗訊息，下一次失敗自己
+            # 說明自己（歸因要機制證據不是相關性，BABEL-VORTEX §方法論）。
+            thinking_len = len((data.get("message") or {}).get("thinking") or "")
+            diag = (f"empty/tiny: {len(content) if content else 0} chars | "
+                    f"thinking={thinking_len} | "
+                    f"prompt_eval={data.get('prompt_eval_count')} | "
+                    f"eval={data.get('eval_count')} | "
+                    f"done_reason={data.get('done_reason')} | "
+                    f"num_ctx={num_ctx} num_predict={max_tokens} think={think_value}")
+            self._record_failure("bad_output", diag)
+            raise BackendBadOutput(f"Ollama empty/tiny output ({diag})")
 
         self._record_success()
         return content.strip()
