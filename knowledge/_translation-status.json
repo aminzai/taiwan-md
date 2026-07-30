@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-31T05:40:15+08:00",
-    "zhCommitHead": "338373166",
+    "lastUpdated": "2026-07-31T05:41:11+08:00",
+    "zhCommitHead": "7eb337318",
     "totalZh": 875,
     "activeLanguages": [
       "en",
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 875,
-        "fresh": 457,
+        "fresh": 458,
         "stale": 4,
         "metadata_stale": 0,
-        "missing": 414,
+        "missing": 413,
         "orphan": 0
       },
       "pt": {
@@ -4870,8 +4870,8 @@
           "sourceContentHash": "sha256:bad67aad8b965996",
           "sourceBodyHash": "sha256:7f999c1dbadb14bb",
           "translatedAt": "2026-06-16T16:55:14Z",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "7eb33731",
+          "translationLastModified": "2026-07-31T05:40:16+08:00",
           "inferred": false,
           "footnoteDefs": 39,
           "status": "fresh",
@@ -53061,7 +53061,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Politics/election-bulletin-system.md",
+          "translatedFrom": "Politics/選舉公報.md",
+          "sourceCommitSha": "e957cf7f1",
+          "sourceContentHash": "sha256:48c230f3d6f5b004",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-07-30T21:23:59.825242+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Politics/election-bulletin-system.md",
@@ -71952,8 +71963,8 @@
           "sourceContentHash": "sha256:335773d0a09d68a9",
           "sourceBodyHash": "sha256:257d28e459bd329d",
           "translatedAt": "2026-07-30T22:54:31+08:00",
-          "translationLastCommit": "fd678fd2",
-          "translationLastModified": "2026-07-25T10:32:02+08:00",
+          "translationLastCommit": "7eb33731",
+          "translationLastModified": "2026-07-31T05:40:16+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "status": "fresh",
@@ -81680,8 +81691,8 @@
           "sourceContentHash": "sha256:da09e4b3162c5f4c",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-30T20:24:30.219757+00:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "7eb33731",
+          "translationLastModified": "2026-07-31T05:40:16+08:00",
           "inferred": false,
           "footnoteDefs": 65,
           "status": "fresh",
