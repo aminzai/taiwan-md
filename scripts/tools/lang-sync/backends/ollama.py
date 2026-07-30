@@ -95,17 +95,23 @@ class OllamaBackend(TranslationBackend):
         est_prompt_tokens = prompt_chars // 3 + 512  # mixed CJK/Latin ~3 chars/token, +margin
         num_ctx = min(max(est_prompt_tokens + max_tokens + 2048, 8192), 131072)
 
+        # qwen3.6 是 thinking 模型：不關 think 時 token 預算全燒在思考通道，
+        # message.content 回空（2026-07-18 出生戰役 health-check「empty/tiny
+        # output」的病根）。翻譯任務不需要 CoT，直接關。
+        # gpt-oss（harmony 系）例外：它的思考通道關不掉，`think: false` 被忽略，
+        # 長文的 reasoning 照樣把 num_predict 燒光、content 回空（2026-07-31
+        # laptop-4090 20b pilot 首兩篇 empty/tiny 同病根）。它支援的是分級
+        # 控制，"low" 把思考壓到最小。
+        model_name = self.CAPABILITIES.model
+        think_value = "low" if model_name.startswith("gpt-oss") else False
         payload = json.dumps({
-            "model": self.CAPABILITIES.model,
+            "model": model_name,
             "messages": [
                 {"role": "system", "content": system},
                 {"role": "user", "content": user},
             ],
             "stream": False,
-            # qwen3.6 是 thinking 模型：不關 think 時 token 預算全燒在思考通道，
-            # message.content 回空（2026-07-18 出生戰役 health-check「empty/tiny
-            # output」的病根）。翻譯任務不需要 CoT，直接關。
-            "think": False,
+            "think": think_value,
             "options": {
                 "temperature": 0.3,
                 "num_predict": max_tokens,
