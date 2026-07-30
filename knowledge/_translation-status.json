@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-31T02:11:11+08:00",
-    "zhCommitHead": "21ad3e56d",
+    "lastUpdated": "2026-07-31T02:21:18+08:00",
+    "zhCommitHead": "3a2cebf9b",
     "totalZh": 875,
     "activeLanguages": [
       "en",
@@ -19,8 +19,8 @@
     "summary": {
       "en": {
         "total_zh": 875,
-        "fresh": 818,
-        "stale": 33,
+        "fresh": 819,
+        "stale": 32,
         "metadata_stale": 2,
         "missing": 22,
         "orphan": 0
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 875,
-        "fresh": 625,
+        "fresh": 626,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 249,
+        "missing": 248,
         "orphan": 0
       },
       "ru": {
@@ -3873,7 +3873,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Music/sunset-rollercoaster.md",
+          "translatedFrom": "Music/落日飛車.md",
+          "sourceCommitSha": "dd39065b2",
+          "sourceContentHash": "sha256:a199eb8f6aa7f0fc",
+          "sourceBodyHash": "sha256:2680b892b33ad9fa",
+          "translatedAt": "2026-07-30T22:54:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -4879,8 +4890,8 @@
           "sourceContentHash": "sha256:bad67aad8b965996",
           "sourceBodyHash": "sha256:7f999c1dbadb14bb",
           "translatedAt": "2026-07-30T22:54:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3a2cebf9",
+          "translationLastModified": "2026-07-31T02:11:11+08:00",
           "inferred": false,
           "footnoteDefs": 39,
           "status": "fresh",
@@ -36464,16 +36475,16 @@
         "en": {
           "path": "en/Society/medical-care-act.md",
           "translatedFrom": "Society/醫療法.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:dc46568183dd9cc2",
-          "sourceBodyHash": "sha256:dc489fbbe5744c82",
-          "translatedAt": "2026-06-16T17:11:47Z",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:a253f62d3df56358",
+          "sourceBodyHash": "sha256:3a7e69bdd14827b6",
+          "translatedAt": "2026-07-31T02:01:51+08:00",
           "translationLastCommit": "21298a7a",
           "translationLastModified": "2026-07-29T13:39:11+09:00",
           "inferred": false,
-          "footnoteDefs": 32,
-          "status": "stale",
-          "reason": "footnote-loss (62→32)"
+          "footnoteDefs": 62,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Society/medical-care-act.md",
@@ -54811,8 +54822,8 @@
           "sourceContentHash": "sha256:d64c72cf7c6361d3",
           "sourceBodyHash": "sha256:6f5a343122533934",
           "translatedAt": "2026-07-30T22:54:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3a2cebf9",
+          "translationLastModified": "2026-07-31T02:11:11+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -72827,8 +72838,8 @@
           "sourceContentHash": "sha256:d773645991915097",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-30T15:01:24.861723+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3a2cebf9",
+          "translationLastModified": "2026-07-31T02:11:11+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -74466,8 +74477,8 @@
           "sourceContentHash": "sha256:9e6735e344733c2b",
           "sourceBodyHash": "sha256:be5f4cfa04f53c22",
           "translatedAt": "2026-07-30T22:54:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3a2cebf9",
+          "translationLastModified": "2026-07-31T02:11:11+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -82508,8 +82519,8 @@
           "sourceContentHash": "sha256:29ee16f25cde68b4",
           "sourceBodyHash": "sha256:fa9994749dd8a224",
           "translatedAt": "2026-07-30T22:54:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3a2cebf9",
+          "translationLastModified": "2026-07-31T02:11:11+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -100996,8 +101007,8 @@
           "sourceContentHash": "sha256:c532a9d95ccbcaaf",
           "sourceBodyHash": "sha256:530ea0ffb4d07e77",
           "translatedAt": "2026-07-30T22:54:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "3a2cebf9",
+          "translationLastModified": "2026-07-31T02:11:11+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
