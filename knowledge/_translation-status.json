@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-31T05:26:25+08:00",
-    "zhCommitHead": "bd996748f",
+    "lastUpdated": "2026-07-31T05:40:15+08:00",
+    "zhCommitHead": "338373166",
     "totalZh": 875,
     "activeLanguages": [
       "en",
@@ -19,16 +19,16 @@
     "summary": {
       "en": {
         "total_zh": 875,
-        "fresh": 826,
+        "fresh": 827,
         "stale": 28,
         "metadata_stale": 2,
-        "missing": 19,
+        "missing": 18,
         "orphan": 0
       },
       "ja": {
         "total_zh": 875,
-        "fresh": 831,
-        "stale": 32,
+        "fresh": 832,
+        "stale": 31,
         "metadata_stale": 2,
         "missing": 10,
         "orphan": 0
@@ -43,8 +43,8 @@
       },
       "es": {
         "total_zh": 875,
-        "fresh": 844,
-        "stale": 22,
+        "fresh": 845,
+        "stale": 21,
         "metadata_stale": 0,
         "missing": 9,
         "orphan": 0
@@ -83,18 +83,18 @@
       },
       "hi": {
         "total_zh": 875,
-        "fresh": 559,
+        "fresh": 560,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 314,
+        "missing": 313,
         "orphan": 0
       },
       "ar": {
         "total_zh": 875,
-        "fresh": 631,
+        "fresh": 632,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 243,
+        "missing": 242,
         "orphan": 0
       },
       "ru": {
@@ -4850,7 +4850,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Music/chou-hui.md",
+          "translatedFrom": "Music/周蕙.md",
+          "sourceCommitSha": "c40c53f61",
+          "sourceContentHash": "sha256:bad67aad8b965996",
+          "sourceBodyHash": "sha256:7f999c1dbadb14bb",
+          "translatedAt": "2026-07-31T04:48:14+08:00",
+          "translationLastCommit": "d23e4372",
+          "translationLastModified": "2026-07-24T18:27:02+08:00",
+          "inferred": false,
+          "footnoteDefs": 39,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Music/chou-hui.md",
@@ -30571,8 +30582,8 @@
           "sourceContentHash": "sha256:6350fb8cfb489452",
           "sourceBodyHash": "sha256:03dd96b03caf8931",
           "translatedAt": "2026-07-30T22:54:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "33837316",
+          "translationLastModified": "2026-07-31T05:26:26+08:00",
           "inferred": false,
           "footnoteDefs": 39,
           "status": "fresh",
@@ -35829,8 +35840,8 @@
           "sourceContentHash": "sha256:0e32d79d3df5fb08",
           "sourceBodyHash": "sha256:4ba5d74427c47aed",
           "translatedAt": "2026-07-30T22:54:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "33837316",
+          "translationLastModified": "2026-07-31T05:26:26+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -42941,8 +42952,8 @@
           "sourceContentHash": "sha256:0b5ddca64df69aa6",
           "sourceBodyHash": "sha256:0fcafeba09518f70",
           "translatedAt": "2026-07-30T22:54:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "33837316",
+          "translationLastModified": "2026-07-31T05:26:26+08:00",
           "inferred": false,
           "footnoteDefs": 61,
           "status": "fresh",
@@ -59759,16 +59770,16 @@
         "es": {
           "path": "es/People/yang-dechang.md",
           "translatedFrom": "People/楊德昌.md",
-          "sourceCommitSha": "fa062cc1",
-          "sourceContentHash": "sha256:dd210fd225a73bd3",
-          "sourceBodyHash": "sha256:3f3a71807f18f434",
-          "translatedAt": "2026-05-22T05:08:47+08:00",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:c2aa8f15ab2b1700",
+          "sourceBodyHash": "sha256:7119ad62eb825546",
+          "translatedAt": "2026-07-31T04:48:15+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "footnote-loss (92→6)"
+          "footnoteDefs": 92,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/yang-dechang.md",
@@ -71937,16 +71948,16 @@
         "ja": {
           "path": "ja/People/andre-chiang-taiwanese-culinary-innovator.md",
           "translatedFrom": "People/江振誠.md",
-          "sourceCommitSha": "fb010188",
-          "sourceContentHash": "sha256:5c3f4c327ba8e029",
-          "sourceBodyHash": "sha256:12c31fa42e4be425",
-          "translatedAt": "2026-05-01T19:52:32+08:00",
+          "sourceCommitSha": "afc8fbf91",
+          "sourceContentHash": "sha256:335773d0a09d68a9",
+          "sourceBodyHash": "sha256:257d28e459bd329d",
+          "translatedAt": "2026-07-30T22:54:31+08:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (30→0)"
+          "footnoteDefs": 30,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/andre-chiang-taiwanese-culinary-innovator.md",
@@ -95815,8 +95826,8 @@
           "sourceContentHash": "sha256:7821275263a50042",
           "sourceBodyHash": "sha256:41f53dec5abc68f4",
           "translatedAt": "2026-07-30T22:54:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "33837316",
+          "translationLastModified": "2026-07-31T05:26:26+08:00",
           "inferred": false,
           "footnoteDefs": 47,
           "status": "fresh",
@@ -99127,7 +99138,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/History/resolution-on-taiwans-future.md",
+          "translatedFrom": "History/臺灣前途決議文.md",
+          "sourceCommitSha": "dd39065b2",
+          "sourceContentHash": "sha256:d8a522bc82b5f1d6",
+          "sourceBodyHash": "sha256:c8ff273540a02078",
+          "translatedAt": "2026-07-30T22:54:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -112413,7 +112435,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/keelung-city.md",
+          "translatedFrom": "Geography/基隆市.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:d96d5a768e497ec1",
+          "sourceBodyHash": "sha256:a875e0cc381f5fed",
+          "translatedAt": "2026-07-30T22:54:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 32,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Geography/keelung-city.md",
