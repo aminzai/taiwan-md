@@ -4,7 +4,7 @@ description: "La carte d'assurance maladie du 1er mars 1995 a été produite dan
 date: 2026-06-04
 author: 'Taiwan.md'
 category: 'Lifestyle'
-subcategory: '醫療與健保'
+subcategory: 'Santé et assurance maladie'
 tags:
   [
     'Assurance maladie nationale',
@@ -190,6 +190,14 @@ Les données ouvertes gouvernementales ci-dessous permettent de vérifier, ou de
 - [Procès-verbaux des réunions du Comité de l’Assurance maladie nationale du ministère de la Santé et du Bien-être](https://data.gov.tw/dataset/7554)（Comité de l’Assurance maladie nationale, ministère de la Santé et du Bien-être, mise à jour mensuelle）— les comptes rendus de première main indiquent à quelle table et pour quelles raisons le maintien du taux de 5,17 % « sans ajustement » a été décidé
 - [Statistiques des subventions accordées par les différents niveaux de gouvernement aux assurés vulnérables de l’Assurance maladie nationale](https://data.gov.tw/dataset/23719)（Agence centrale de l’assurance maladie, ministère de la Santé et du Bien-être, mise à jour mensuelle）— l’idée de « partage des risques en cas de difficulté et paiement selon la capacité contributive » formulée par Lin Ya-hui se traduit concrètement par ce tableau : qui voit ses cotisations prises en charge par l’État
 
+## Sources des images
+
+- **Hero**：[NHI Building, ROC-MOHW-NHIA Taipei Division main entrance](https://commons.wikimedia.org/wiki/File:NHI_Building,_ROC-MOHW-NHIA_Taipei_Division_main_entrance_20180616.jpg) by Solomon203 / Wikimedia Commons / CC BY-SA 4.0
+- **Scene-mid 1**（carte à puce de l’assurance maladie, version 2017）：image officielle de l’Agence centrale de l’assurance maladie du ministère de la Santé et du Bien-être / domaine public（information publique gouvernementale）
+- **Scene-mid 2**（iframe du documentaire des 30 ans de l’assurance maladie）：chaîne YouTube officielle de l’Agence centrale de l’assurance maladie du ministère de la Santé et du Bien-être
+- **Scene-mid 3**（poste infirmier mobile de l’hôpital chrétien de Chiayi, 2007）：hôpital chrétien de Chiayi / utilisation à but éducatif non lucratif
+- **Closure**（bâtiment principal de l’Hôpital de l’Université nationale de Taïwan）：[National Taiwan University Hospital main building](https://commons.wikimedia.org/wiki/Category:National_Taiwan_University_Hospital) / Wikimedia Commons / CC BY-SA 4.0
+
 ## Références
 
 [^1]: [醫奉 31／葉金川：火燒屁股的三天，撐起 30 年健保](https://health.udn.com/health/story/6001/5826304) — Entretien avec Yeh Chin-chuan dans le dossier « 醫奉 31 » de _Yuanqi Net_, 2021. Le premier directeur général du Bureau central de l’assurance maladie y revient sur la mobilisation d’urgence des six jours précédant le lancement du 1er mars 1995, avec plusieurs formulations verbatim, notamment « le temps de préparation n’était en réalité que de trois jours », « le feu aux trousses » et le mécanisme de repli consistant à utiliser la carte d’identité à la place de la carte d’assurance maladie.
@@ -275,13 +283,3 @@ Les données ouvertes gouvernementales ci-dessous permettent de vérifier, ou de
 [^41]: [Uwe Reinhardt: Why I Don't Advocate Single-Payer in America](https://www.huffpost.com/entry/uwe-reinhardt-on-single-payer_b_5af56c8be4b0859d11d05ce8) — Article du _HuffPost_ reprenant la phrase centrale de l’économiste de Princeton Uwe Reinhardt, décédé en 2017 et conseiller de l’assurance maladie taïwanaise dès 1989 : « I have not advocated the single-payer model here because our government is too corrupt » ; l’un des concepteurs s’oppose publiquement à une copie américaine.
 
 [^42]: [Taiwan's Private Health Insurance Market After NHI](https://link.springer.com/article/10.1057/gpp.2012.36) — Article de 2012 dans _The Geneva Papers on Risk and Insurance_, analysant le marché taïwanais de l’assurance santé privée après le lancement de l’assurance maladie nationale ; le taux de pénétration par ménage passe de 63,9 % en 1993 à 72,3 % en 2004, soit une hausse de 8,4 points, ce qui réfute en sens inverse l’hypothèse selon laquelle l’assurance maladie universelle verrouillerait le marché privé.
-
----
-
-## Sources des images
-
-- **Hero**：[NHI Building, ROC-MOHW-NHIA Taipei Division main entrance](https://commons.wikimedia.org/wiki/File:NHI_Building,_ROC-MOHW-NHIA_Taipei_Division_main_entrance_20180616.jpg) by Solomon203 / Wikimedia Commons / CC BY-SA 4.0
-- **Scene-mid 1**（carte à puce de l’assurance maladie, version 2017）：image officielle de l’Agence centrale de l’assurance maladie du ministère de la Santé et du Bien-être / domaine public（information publique gouvernementale）
-- **Scene-mid 2**（iframe du documentaire des 30 ans de l’assurance maladie）：chaîne YouTube officielle de l’Agence centrale de l’assurance maladie du ministère de la Santé et du Bien-être
-- **Scene-mid 3**（poste infirmier mobile de l’hôpital chrétien de Chiayi, 2007）：hôpital chrétien de Chiayi / utilisation à but éducatif non lucratif
-- **Closure**（bâtiment principal de l’Hôpital de l’Université nationale de Taïwan）：[National Taiwan University Hospital main building](https://commons.wikimedia.org/wiki/Category:National_Taiwan_University_Hospital) / Wikimedia Commons / CC BY-SA 4.0

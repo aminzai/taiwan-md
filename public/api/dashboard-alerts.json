@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-28T22:13:26.972Z",
+  "lastUpdated": "2026-07-29T22:13:35.067Z",
   "generator": "scripts/core/generate-dashboard-alerts.mjs",
   "note": "derived 警報層 — CONSCIOUSNESS §警報 的機械接管 (audit 2026-06-10 A-3)",
-  "count": 4,
+  "count": 3,
   "alerts": [
     {
       "id": "immune-status",
@@ -13,28 +13,20 @@
       "firstSeen": "2026-07-05"
     },
     {
-      "id": "cf-404-unknown-path-2026-07-27-a7945a4b",
+      "id": "cf-404-unknown-path-2026-07-28-dd098f1d",
       "severity": "yellow",
-      "message": "2026-07-27 unknown family 單一路徑 '/terminology/%3Cstrange-chars%3E' 命中 132 > 100/day",
+      "message": "2026-07-28 unknown family 單一路徑 '/ar/economy/%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%EF%BC%9A%E5%AF%8C%E9%82%A6%E9%87%91%E6%8E%A7' 命中 520 > 100/day",
       "source": "reports/404-monitor/latest.json",
       "owner": "twmd-maintainer",
-      "firstSeen": "2026-07-28"
+      "firstSeen": "2026-07-29"
     },
     {
       "id": "memory-index-rows",
       "severity": "yellow",
-      "message": "MEMORY.md 索引 inline 82 rows > 80 — 跑 memory-index-rollup.py --apply（2026-07-05 起已實作，owner=distill-weekly）",
+      "message": "MEMORY.md 索引 inline 89 rows > 80 — 跑 memory-index-rollup.py --apply（2026-07-05 起已實作，owner=distill-weekly）",
       "source": "MEMORY.md",
       "owner": "twmd-distill-weekly",
       "firstSeen": "2026-07-28"
-    },
-    {
-      "id": "routine-livestate-stale",
-      "severity": "yellow",
-      "message": "routine-live-state.json dump 齡 76.1h > 48h — data-refresh rider 沒跑 live dump（liveness 對賬失明）",
-      "source": "routine-live-state.json",
-      "owner": "twmd-data-refresh",
-      "firstSeen": "2026-07-27"
     }
   ]
 }

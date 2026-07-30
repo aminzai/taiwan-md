@@ -170,6 +170,14 @@ Por eso la portada de «Se busca diseño» es también un examen. Lo que quiere 
 - [Ceremonia del té y estética cotidiana en Taiwán](/es/culture/taiwan-tea-ceremony-and-aesthetic-living) — cómo creció la estética de la vida en Taiwán hasta convertirse en algo comentable y comprable
 - [Aaron Nieh](/es/people/nieh-yung-jen) — otro nombre del mismo contexto del diseño taiwanés que lo empujó ante los ojos del gran público
 
+## Fuentes de imágenes
+
+- **Hero｜imagen principal del DesignBIZ Fest 2022**: Shopping Design／DesignBIZ Fest, fuente <https://designbiz.shoppingdesign.com.tw/2022/>. Fair use (editorial commentary).
+- **Portada del Vol.147 «El habitante ideal»**: Shopping Design (Business Next Media), fuente: listado de números de la web oficial <https://www.shoppingdesign.com.tw/magazine/>. Fair use (editorial commentary).
+- **Portada del Vol.150 «Coleccionamos este diseño»**: Shopping Design (Business Next Media), fuente: listado de números de la web oficial <https://www.shoppingdesign.com.tw/magazine/>. Fair use (editorial commentary).
+- **Ponentes del DesignBIZ Fest 2022**: Shopping Design／DesignBIZ Fest, fuente <https://designbiz.shoppingdesign.com.tw/2022/>. Fair use (editorial commentary).
+- **Portada del Vol.155 «Se busca diseño»**: Business Next Media, fuente <https://www.shoppingdesign.com.tw/magazine/view/130050>. Fair use (editorial commentary).
+
 ## Referencias
 
 [^1]: [La revista debe recordar al lector que viva con conciencia: Li Hui-chen, directora editorial de «Shopping Design»](https://www.biosmonthly.com/article/8577) — Entrevista de BIOS monthly de febrero de 2017, que recoge que Li Hui-chen «entraba en su sexto año» como directora editorial y que el número 100 respondía con «comprar diseño blanco» al «diseño blanco» del número inaugural.
@@ -223,11 +231,3 @@ Por eso la portada de «Se busca diseño» es también un examen. Lo que quiere 
 [^23]: [Alfabetización mediática](https://zh.wikipedia.org/zh-tw/媒體素養) — Índice de Wikipedia, que recoge el contexto político de la publicación en 2002 del «Libro Blanco de la Política de Educación en Alfabetización Mediática» de Taiwán y de la incorporación de la alfabetización mediática al currículo de bachillerato desde el curso 2017.
 
 [^24]: [Repaso de la charla «Coleccionamos este diseño» de 2024](https://www.shoppingdesign.com.tw/post/view/10553) — Reportaje oficial de Shopping Design de agosto de 2024, en el que aparece literalmente «la editora Yi-hsin y la subeditora Ya-yun de Shopping Design», el cargo más alto verificable de la redacción en los últimos años (ya rebajado de «director editorial» a «editora»).
-
-## Fuentes de imágenes
-
-- **Hero｜imagen principal del DesignBIZ Fest 2022**: Shopping Design／DesignBIZ Fest, fuente <https://designbiz.shoppingdesign.com.tw/2022/>. Fair use (editorial commentary).
-- **Portada del Vol.147 «El habitante ideal»**: Shopping Design (Business Next Media), fuente: listado de números de la web oficial <https://www.shoppingdesign.com.tw/magazine/>. Fair use (editorial commentary).
-- **Portada del Vol.150 «Coleccionamos este diseño»**: Shopping Design (Business Next Media), fuente: listado de números de la web oficial <https://www.shoppingdesign.com.tw/magazine/>. Fair use (editorial commentary).
-- **Ponentes del DesignBIZ Fest 2022**: Shopping Design／DesignBIZ Fest, fuente <https://designbiz.shoppingdesign.com.tw/2022/>. Fair use (editorial commentary).
-- **Portada del Vol.155 «Se busca diseño»**: Business Next Media, fuente <https://www.shoppingdesign.com.tw/magazine/view/130050>. Fair use (editorial commentary).

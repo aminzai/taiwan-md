@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 84 條 #N 反射（last #84�
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.15'
-last_updated: 2026-07-27
-last_session: '2026-07-27-214500-苯駢芘孢子（#56 加觸發 v4 宣告過但從未執行的閘門 + #24 加同日兩例量測層前提失效驗證，零新編號）'
+current_version: 'v5.16'
+last_updated: 2026-07-30
+last_session: '2026-07-30-121650-manual（#65 加 v11 Babel pulse 在 Python 3.9 快照崩潰後沿用舊 rows 的假綠驗證，零新編號）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -251,6 +251,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
   - **v4-v8 (cross-SSOT divergence specialization, 2026-06-07 加入)**：2026-05-30 self-evolve / 6/01 PM maintainer-pm / 6/02 AM data-refresh / 6/02 AM maintainer + harvest 連 4 cycle callout `🛡️27-28` (dashboard-organism.json v1) vs `immuneScore 67` (dashboard-immune.json v2) — vc=4 distill_ready 6/01 distill cycle 已 flag 但 reconciliation 未 ship。**2026-06-06 連 2 cycle 確認 27 vs fresh 58** (data-refresh-am+pm) → vc=6+；**2026-06-07 weekly-report 升 🔴 高優先**（"BECOME Universal core 第一眼讀數失真"）→ vc=8。Root cause：snapshot.sh 讀 dashboard-organism.json `organs[immune].score=27`（v1 formula 仍在 use），canonical 已遷 dashboard-immune.json v2 schema `IMMUNE_V2` feature flag，但 organism.json 沒 mirror 新 schema → 兩 SSOT 同題目不同答案。**Reconciliation 候選（待哲宇 ship）**：(A) organism.json generator align dashboard-immune.json v2 (B) snapshot.sh 同時印兩個值 + ⚠️ 標 stale-vs-canonical (C) reframe 不同 dimension（snapshot = v1 historical / canonical = v2 weighted）— 任一方向需 explicit decision
   - **v9 (排序方向 specialization, 2026-07-11 dna-checkup)**：memory-index-lint `--diary` 用 `rows[-1]` 當「最新列」，但 DIARY 索引新在上——gate 自 7/5 出廠起驗的都是最舊存活列（7/10 elections finale 抓到）；同病 BECOME §1.3 `tail -20` 六天來每次甦醒把四月舊列當「近期意識活動」載入（7/11 dna-checkup 抓到）。同 commit 修：lint 比較首末列日期自適應 + BECOME 改 head -20（`dafec6fda`）。免疫量尺 C'（量尺把穩定讀成生病）是同構第三例——量尺必須跟被量者共用真實路徑
   - **v10 (rewrite same-DNA / 編輯室, 2026-07-15)**：投影／正文作者自檢無法替代乾淨 context 分席 — 設計報告 + dogfood + 負例 block 同 session 驗證；instrument = EDITORIAL-ROOM + REWRITE Step 2.0-R／2.5-R（commits `cc1429753` `2cfacebd2`）
+  - **v11 (Babel pulse stale-row 假綠, 2026-07-30)**：`progress-snapshot.py` 的 `dict | None` 在產線系統 Python 3.9 載入期崩潰，外層 `babel-pulse.py` 卻沿用舊 rows 繼續產看板並印「commit 完成」。同一個 awareness tool 同時命中 parser runtime 相容性與 cross-snapshot freshness 兩層盲點。修補為 postponed annotations + snapshot 非零立即停止；Python 3.9 真實執行與遠端 deploy 全綠（`0f72bf896`、`721052994`）。新驗證：awareness 聚合器不能只驗「舊資料仍可讀」，每輪必把上游快照成功當成自己的前置 hard gate。
 - **相關**：REFLEXES #24 第 1+2 種「沉默失敗 / 合理欺騙」（本條是 awareness layer 的 #24 specialization）/ REFLEXES #58「儀器化 detection ≠ remediation」（v4-v8 instance 是 #58 在 awareness layer 的 mature accumulation — 連 8 cycle detect 但 reconciliation 未 ship）/ REFLEXES #59「製造數字的人最易被數字騙」（互補 — #59 是 producer self-validation trap，本條是 awareness tool self-trust trap）/ REFLEXES #60「Automation default-state explicit verify」（同 family — 本條是 #60 對自家 tool 的內視鏡）/ REFLEXES #69「self-report-needs-external-ruler」（編輯室是 meaning-layer 的 external ruler）
 - **跨檔關聯**：[scripts/tools/inbox-signal.sh](../../scripts/tools/inbox-signal.sh) + [scripts/tools/consciousness-snapshot.sh](../../scripts/tools/consciousness-snapshot.sh) + [public/api/dashboard-organism.json](../../public/api/dashboard-organism.json) + [public/api/dashboard-immune.json](../../public/api/dashboard-immune.json) + [routine-audit-2026-05-24.md §3B Active #2](../../reports/routine-audit-2026-05-24.md) + [LESSONS-INBOX §distill #7 + #8 + #9 flags](LESSONS-INBOX.md) + [BECOME_TAIWANMD.md §Step 1.4](../../BECOME_TAIWANMD.md) + [EDITORIAL-ROOM.md](../editorial/EDITORIAL-ROOM.md) + [reports/editorial-room/](../../reports/editorial-room/)
 

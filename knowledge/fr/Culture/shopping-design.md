@@ -170,6 +170,14 @@ La couverture de « Recherche design » est donc aussi un examen. Ce qu’elle v
 - [Cérémonie du thé et esthétique du quotidien à Taïwan](/fr/culture/taiwan-tea-ceremony-and-aesthetic-living) — comment l’esthétique de la vie a poussé à Taïwan jusqu’à devenir un quotidien dont on parle et que l’on achète
 - [Aaron Nieh](/fr/people/nieh-yung-jen) — un autre nom du même contexte du design taïwanais, qui l’a poussé sous les yeux du grand public
 
+## Sources des images
+
+- **Hero｜visuel principal du DesignBIZ Fest 2022** : Shopping Design／DesignBIZ Fest, source <https://designbiz.shoppingdesign.com.tw/2022/>. Fair use (editorial commentary).
+- **Couverture du Vol.147 « L’habitant idéal »** : Shopping Design (Business Next Media), source : liste des numéros du site officiel <https://www.shoppingdesign.com.tw/magazine/>. Fair use (editorial commentary).
+- **Couverture du Vol.150 « Nous collectionnons ce design »** : Shopping Design (Business Next Media), source : liste des numéros du site officiel <https://www.shoppingdesign.com.tw/magazine/>. Fair use (editorial commentary).
+- **Intervenants du DesignBIZ Fest 2022** : Shopping Design／DesignBIZ Fest, source <https://designbiz.shoppingdesign.com.tw/2022/>. Fair use (editorial commentary).
+- **Couverture du Vol.155 « Recherche design »** : Business Next Media, source <https://www.shoppingdesign.com.tw/magazine/view/130050>. Fair use (editorial commentary).
+
 ## Références
 
 [^1]: [La revue doit rappeler au lecteur de vivre avec conscience : Li Hui-chen, rédactrice en chef de « Shopping Design »](https://www.biosmonthly.com/article/8577) — Entretien de BIOS monthly de février 2017, qui consigne que Li Hui-chen « entrait dans sa sixième année » comme rédactrice en chef et que le numéro 100 répondait par « acheter du design blanc » au « design blanc » du numéro inaugural.
@@ -223,11 +231,3 @@ La couverture de « Recherche design » est donc aussi un examen. Ce qu’elle v
 [^23]: [Éducation aux médias](https://zh.wikipedia.org/zh-tw/媒體素養) — Index de Wikipédia, qui consigne le contexte politique de la publication en 2002 du « Livre blanc de la politique d’éducation aux médias » de Taïwan et de l’intégration de l’éducation aux médias au programme du lycée à partir de l’année scolaire 2017.
 
 [^24]: [Retour sur la conférence « Nous collectionnons ce design » de 2024](https://www.shoppingdesign.com.tw/post/view/10553) — Article officiel de Shopping Design d’août 2024, où apparaît mot à mot « la rédactrice Yi-hsin et la rédactrice adjointe Ya-yun de Shopping Design », le titre le plus élevé vérifiable de la rédaction ces dernières années (déjà rétrogradé de « rédacteur en chef » à « rédactrice »).
-
-## Sources des images
-
-- **Hero｜visuel principal du DesignBIZ Fest 2022** : Shopping Design／DesignBIZ Fest, source <https://designbiz.shoppingdesign.com.tw/2022/>. Fair use (editorial commentary).
-- **Couverture du Vol.147 « L’habitant idéal »** : Shopping Design (Business Next Media), source : liste des numéros du site officiel <https://www.shoppingdesign.com.tw/magazine/>. Fair use (editorial commentary).
-- **Couverture du Vol.150 « Nous collectionnons ce design »** : Shopping Design (Business Next Media), source : liste des numéros du site officiel <https://www.shoppingdesign.com.tw/magazine/>. Fair use (editorial commentary).
-- **Intervenants du DesignBIZ Fest 2022** : Shopping Design／DesignBIZ Fest, source <https://designbiz.shoppingdesign.com.tw/2022/>. Fair use (editorial commentary).
-- **Couverture du Vol.155 « Recherche design »** : Business Next Media, source <https://www.shoppingdesign.com.tw/magazine/view/130050>. Fair use (editorial commentary).

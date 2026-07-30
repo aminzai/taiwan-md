@@ -240,6 +240,14 @@ Cuanto más larga es la lista, menos gente queda para enseñar. La próxima vez 
 
 ---
 
+## Fuentes de las imágenes
+
+Este artículo usa tres imágenes con licencias CC de Wikimedia Commons, todas cacheadas en `public/article-images/culture/` para evitar enlaces directos al servidor de origen:
+
+- [Yuanxiangyuan Paper Umbrella, Taiwan 2013-07](https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG) — Photo: Outlookxp, 2013-07-20, CC BY-SA 3.0. Conjunto de sombrillas de papel aceitado hakka exhibidas en la Aldea Cultural de Sombrillas de Papel Yuanxiangyuan, Meinong; con superficies rojas, amarillas y negras, es uno de los archivos visuales más representativos de la artesanía de sombrillas de papel de Meinong.
+- [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo: Anrew0517, 2010-05-01, CC BY-SA 3.0. Exterior del Museo de Escultura en Madera de Sanyi, en la aldea de Guangsheng, municipio de Sanyi, condado de Miaoli; el único museo público de Taiwán dedicado a la talla en madera.
+- [三峽區歷史文物館內所展示「藍與白系列」藍染服飾](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo: 寺人孟子, CC BY-SA 4.0. Vestimentas teñidas con índigo de la serie “Azul y blanco”, exhibidas en el Museo Histórico de Sanxia; muestran el aspecto visual de las aplicaciones contemporáneas del teñido índigo de Sanxia después de su renacimiento en 1996.
+
 ## Referencias
 
 [^1]: [土水修造70餘年 蘇清良獲列文化部「人間國寶」](https://www.cna.com.tw/news/acul/202212190092.aspx) — Reportaje de la Agencia Central de Noticias, 2022-12-19; entrevista original del día en que Su Qingliang fue reconocido, con su declaración en taiwanés “hemos trabajado desde el norte hasta el sur de Taiwán” y citas sobre la sucesión entre abuelo y nieto.
@@ -299,11 +307,3 @@ Cuanto más larga es la lista, menos gente queda para enseñar. La próxima vez 
 [^28]: [設計師蕭青陽：有好的文化，才可能有好的文創](https://www.thenewslens.com/article/65127) — Entrevista de The News Lens a Xiao Qingyang; incluye la idea central “Solo con buena cultura puede haber buena industria cultural y creativa” y una discusión detallada sobre la relación entre la industria cultural y creativa taiwanesa y la artesanía.
 
 [^29]: [一生奉獻給漆工藝的台灣國寶漆藝大師！看見南投「美研漆藝」王清霜老先生的職人時光](https://www.wowlavie.com/article/ae1601482) — Especial de la revista La Vie sobre la familia de Wang Qingshuang; incluye la frase transmitida por su hijo Wang Xianmin, “Para hacer bien la laca, hay que vivir un poco más”, y el registro de una familia artesana de tres generaciones.
-
-## Fuentes de las imágenes
-
-Este artículo usa tres imágenes con licencias CC de Wikimedia Commons, todas cacheadas en `public/article-images/culture/` para evitar enlaces directos al servidor de origen:
-
-- [Yuanxiangyuan Paper Umbrella, Taiwan 2013-07](https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG) — Photo: Outlookxp, 2013-07-20, CC BY-SA 3.0. Conjunto de sombrillas de papel aceitado hakka exhibidas en la Aldea Cultural de Sombrillas de Papel Yuanxiangyuan, Meinong; con superficies rojas, amarillas y negras, es uno de los archivos visuales más representativos de la artesanía de sombrillas de papel de Meinong.
-- [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo: Anrew0517, 2010-05-01, CC BY-SA 3.0. Exterior del Museo de Escultura en Madera de Sanyi, en la aldea de Guangsheng, municipio de Sanyi, condado de Miaoli; el único museo público de Taiwán dedicado a la talla en madera.
-- [三峽區歷史文物館內所展示「藍與白系列」藍染服飾](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo: 寺人孟子, CC BY-SA 4.0. Vestimentas teñidas con índigo de la serie “Azul y blanco”, exhibidas en el Museo Histórico de Sanxia; muestran el aspecto visual de las aplicaciones contemporáneas del teñido índigo de Sanxia después de su renacimiento en 1996.

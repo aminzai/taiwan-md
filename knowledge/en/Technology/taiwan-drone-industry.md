@@ -168,6 +168,13 @@ The production line that Thunder Tiger started in Taichung in 1979, compared to 
 - [Development of Taiwan's Space Industry](/en/technology/taiwan-space-industry-development) — From drones to satellites, Taiwan's ambitions in the sky
 - [Taiwan's Robotics Industry](/en/technology/taiwan-robotics-industry) — Another case of "strong components, weak full-unit integration," facing similar structural challenges as drones
 
+## Image Sources
+
+This article uses 2 public domain / CC-licensed images, all cached at `public/article-images/technology/` to avoid hotlinking from source servers:
+
+- **Hero**: [Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) — Photo: Kliu1, 2007-10-11 NCSIST Chung Shyang II (Albatross series) displayed during the Republic of China National Day Parade. Public domain via Wikimedia Commons.
+- **Inline**: [UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) — Photo: Xuan Shisheng, 2013-05-04 NCSIST Albatross (銳鳶) UAV No. 9717 displayed during the Kaohsiung Zhongzheng Naval Base Pier 11 Open Day. CC BY-SA 3.0 via Wikimedia Commons.
+
 ## References
 
 [^1]: [Aviation Week: Taiwan's Thunder Tiger Eyes U.S. Army's Drone Dominance Program](https://aviationweek.com/defense/aircraft-propulsion/taiwans-thunder-tiger-eyes-us-armys-drone-dominance-program) — Reports that Thunder Tiger's "Overkill" FPV drone is the first Taiwanese drone to pass Blue UAS certification.
@@ -225,10 +232,3 @@ The production line that Thunder Tiger started in Taichung in 1979, compared to 
 [^20]: [TechNews: Details of MND's NT$1.25 trillion special budget revealed](https://technews.tw/2026/01/20/taiwan-mnd-unveiled-1250-billion-twd-budget-details/) — + [CNA: NT$1.25 trillion special budget; MND reveals quantities for 7 types of weapons](https://www.cna.com.tw/news/aipl/202601190177.aspx) $\text{—}$ NT$1.25 trillion over 8 years (2026–2033); seven major items; unmanned vehicles and counter-systems at NT$335 billion / 210,000+ drones / 1,000+ unmanned vessels
 
 [^21]: [The Reporter: Entering Ukraine's drone production lines (Part 1): From zero to 4.5 million annual units](https://www.twreporter.org/a/ukraine-drone-wartime-supplychain) — + [TechNews: Direct communication between frontline and vendors; Ukraine's drone industry explosion](https://technews.tw/2025/04/30/the-ukrainians-drone-boom-during-the-war/) $\text{—}$ Ukraine's growth from 300,000 in 2023 $\rightarrow$ 2 million in 2024 $\rightarrow$ 4.5 million in 2025; the demand function driven by frontline consumption
-
-## Image Sources
-
-This article uses 2 public domain / CC-licensed images, all cached at `public/article-images/technology/` to avoid hotlinking from source servers:
-
-- **Hero**: [Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) — Photo: Kliu1, 2007-10-11 NCSIST Chung Shyang II (Albatross series) displayed during the Republic of China National Day Parade. Public domain via Wikimedia Commons.
-- **Inline**: [UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) — Photo: Xuan Shisheng, 2013-05-04 NCSIST Albatross (銳鳶) UAV No. 9717 displayed during the Kaohsiung Zhongzheng Naval Base Pier 11 Open Day. CC BY-SA 3.0 via Wikimedia Commons.

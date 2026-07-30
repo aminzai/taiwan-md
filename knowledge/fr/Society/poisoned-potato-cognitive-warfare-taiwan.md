@@ -333,6 +333,11 @@ Puma Shen a aussi prononcé une autre phrase, de portée plus générale : « L�
 
 ---
 
+## Sources des images
+
+- **Hero** : [Children gathering potatoes on a large farm, vicinity of Caribou, Aroostook County, Me. Schools do not open until the potatoes are harvested](https://commons.wikimedia.org/wiki/File:Children_gathering_potatoes_on_a_large_farm,_vicinity_of_Caribou,_Aroostook_County,_Me._Schools_do_not_open_until_the_potatoes_are_harvested_LCCN2017877412.jpg) — US Farm Security Administration/Office of War Information / 1940 / domaine public (PD-USGov, NARA / Library of Congress FSA-OWI Collection)
+- **Image intégrée dans la section §200 ppm** : [Solanine.svg](https://commons.wikimedia.org/wiki/File:Solanine.svg) — domaine public (formule structurale simple, non éligible au droit d’auteur ; via Wikimedia Commons)
+
 ## Références
 
 [^1]: [Liberty Times : Le Bureau chinois des affaires taïwanaises dit que des « pommes de terre toxiques » arrivent sur les tables taïwanaises ; le Conseil des affaires continentales réplique : il n’a pas à faire des commentaires déplacés](https://news.ltn.com.tw/news/politics/breakingnews/5420147) — retranscription complète des propos de Chen Binhua, porte-parole du Bureau chinois des affaires taïwanaises, le 2026-04-29 (comparaison multisource : Ta Kung Wen Wei, Newtalk, ETtoday, verbatim cohérent).
@@ -450,10 +455,3 @@ Puma Shen a aussi prononcé une autre phrase, de portée plus générale : « L�
 [^57]: [Wang Hong-en : Grande propagande extérieure ou outil de maintien de la stabilité ? La logique d’opinion publique de la “diplomatie du loup guerrier” de la Chine (Voicettank / UDN Opinion)](https://opinion.udn.com/opinion/story/12705/5260537) — Wang Hong-en, professeur assistant de science politique à l’UNLV, verbatim : « La “diplomatie du loup guerrier” est essentiellement une partie de la propagande intérieure ». Ancrage académique de l’analogie avec la logique de propagande intérieure de la conférence du Bureau des affaires taïwanaises.
 
 [^58]: [The News Lens : entretien avec Puma Shen, même source](https://www.thenewslens.com/article/197469) — Puma Shen, verbatim : « L’établissement d’une conscience ami-ennemi est absolument la clé la plus importante pour faire face à la guerre » ; « la priorité est de consolider la conscience d’une communauté taïwanaise ». Correspond au passage final sur la « véritable riposte ».
-
----
-
-## Sources des images
-
-- **Hero** : [Children gathering potatoes on a large farm, vicinity of Caribou, Aroostook County, Me. Schools do not open until the potatoes are harvested](https://commons.wikimedia.org/wiki/File:Children_gathering_potatoes_on_a_large_farm,_vicinity_of_Caribou,_Aroostook_County,_Me._Schools_do_not_open_until_the_potatoes_are_harvested_LCCN2017877412.jpg) — US Farm Security Administration/Office of War Information / 1940 / domaine public (PD-USGov, NARA / Library of Congress FSA-OWI Collection)
-- **Image intégrée dans la section §200 ppm** : [Solanine.svg](https://commons.wikimedia.org/wiki/File:Solanine.svg) — domaine public (formule structurale simple, non éligible au droit d’auteur ; via Wikimedia Commons)

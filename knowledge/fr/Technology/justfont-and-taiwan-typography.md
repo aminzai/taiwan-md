@@ -247,6 +247,17 @@ La différence, c'est après ce matin du 8 septembre 2015. Aujourd'hui, Taïwan 
 - [Mouvements sociaux et participation citoyenne](/fr/society/social-movements-and-civic-participation) : l'énergie de la polémique Jin Xuan, ce « se battre pour les affaires publiques », a un contexte plus large dans la société taïwanaise.
 - [Câbles sous-marins](/fr/technology/submarine-cables-taiwan-lifeline) : une autre infrastructure que tout le monde utilise chaque jour sans presque personne pour la voir.
 
+## Sources des images
+
+- **Image de couverture** : visuel principal de la page flyingV pour la police Jin Xuan. © justfont / flyingV, fair use editorial commentary. Source : [page du projet flyingV](https://www.flyingv.cc/projects/8250)
+- **Affichage des itinéraires de bus de Taipei** : Photo : BlubiNeko, 2022, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
+- **Caractères en plomb de la fonderie Rixing** : Photo : Johan Jönsson, 2023, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
+- **Spécimen officiel de Jin Xuan** : © justfont, matériaux fournis par justfont, fair use editorial commentary (autorisation de collaboration). Source : [texte de présentation de Jin Xuan sur le blog justfont](https://blog.justfont.com/2015/08/introducing-jinshuan/)
+- **Visuel officiel de jf open 粉圓** : © justfont, publié sur le dépôt GitHub officiel (police sous licence OFL 1.1). Source : [open-huninn-font](https://github.com/justfont/open-huninn-font)
+- **Comparaison Lan Yang Mingti et _Jian Yu Ji_** : © justfont, matériaux fournis par justfont, fair use editorial commentary (autorisation de collaboration). Source : [page officielle de Lan Yang Mingti](https://justfont.com/lanyangming/)
+- **Spécimen officiel de Kamabit** : © justfont, matériaux fournis par justfont, fair use editorial commentary (autorisation de collaboration). Source : [page officielle de Kamabit](https://justfont.com/kamabit/)
+- **Photo de Zhang Jie-Guan en train de restaurer des caractères** : © justfont, matériaux fournis par justfont, fair use editorial commentary (autorisation de collaboration). Source : [blog justfont Rixing Song Two](https://blog.justfont.com/2025/06/rixing-song2-revivals/)
+
 ## Références
 
 [^1]: [flyingV : page de la campagne de financement participatif de la police Jin Xuan](https://www.flyingv.cc/projects/8250) — Registre de première main de la campagne, total NT$25 930 099, 7 667 contributeurs, objectif 1,5 million NT$.
@@ -378,14 +389,3 @@ La différence, c'est après ce matin du 8 septembre 2015. Aujourd'hui, Taïwan 
 [^64]: [Wikipédia : justfont](https://zh.wikipedia.org/zh-tw/%E5%B0%B1%E6%98%AF%E5%AD%97) — Historique de l'entreprise : parcours de Ye Jun-Lin chez DynaComware, fondation en 2010, Su Wei-Xiang devenu le premier employé officiel en 2012.
 
 [^65]: [Wikipédia : DynaComware](https://zh.wikipedia.org/wiki/%E5%A8%81%E9%8B%92%E6%95%B8%E4%BD%8D) — DynaLab (华康) fondée à Taipei en septembre 1987, première entreprise taïwanaise de polices numériques, changement de nom en DynaComware en 2001.
-
-## Sources des images
-
-- **Image de couverture** : visuel principal de la page flyingV pour la police Jin Xuan. © justfont / flyingV, fair use editorial commentary. Source : [page du projet flyingV](https://www.flyingv.cc/projects/8250)
-- **Affichage des itinéraires de bus de Taipei** : Photo : BlubiNeko, 2022, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
-- **Caractères en plomb de la fonderie Rixing** : Photo : Johan Jönsson, 2023, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
-- **Spécimen officiel de Jin Xuan** : © justfont, matériaux fournis par justfont, fair use editorial commentary (autorisation de collaboration). Source : [texte de présentation de Jin Xuan sur le blog justfont](https://blog.justfont.com/2015/08/introducing-jinshuan/)
-- **Visuel officiel de jf open 粉圓** : © justfont, publié sur le dépôt GitHub officiel (police sous licence OFL 1.1). Source : [open-huninn-font](https://github.com/justfont/open-huninn-font)
-- **Comparaison Lan Yang Mingti et _Jian Yu Ji_** : © justfont, matériaux fournis par justfont, fair use editorial commentary (autorisation de collaboration). Source : [page officielle de Lan Yang Mingti](https://justfont.com/lanyangming/)
-- **Spécimen officiel de Kamabit** : © justfont, matériaux fournis par justfont, fair use editorial commentary (autorisation de collaboration). Source : [page officielle de Kamabit](https://justfont.com/kamabit/)
-- **Photo de Zhang Jie-Guan en train de restaurer des caractères** : © justfont, matériaux fournis par justfont, fair use editorial commentary (autorisation de collaboration). Source : [blog justfont Rixing Song Two](https://blog.justfont.com/2025/06/rixing-song2-revivals/)

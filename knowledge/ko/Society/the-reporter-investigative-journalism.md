@@ -265,6 +265,21 @@ AI 도구의 진입은 더 새로운 변수다. 대형 언어모델이 3초 만�
 - [독감자 인지전](/ko/society/poisoned-potato-cognitive-warfare-taiwan) — 구체적 인지전 사건에 대한 사례 연구.
 - [PTT 비티티](/ko/technology/ptt-bulletin-board-system) — 타이완의 전(前) 웹 시대 공론장으로, 《더 리포터》와 같은 “플랫폼은 반드시 중립적이지 않다”는 맥락에 놓인다.
 
+## 이미지 출처
+
+이 글은 《더 리포터》 공식 브랜드 소재와 작업 이미지 5장을 fair use（editorial commentary on The Reporter's work） 원칙에 따라 인용했다. 모두 `public/article-images/society/`에 캐시해 원본 서버 핫링크를 피했다. 또한 《더 리포터》 공식 YouTube 채널 영상 2개를 삽입했다.
+
+- [《더 리포터》 브랜드 식별 이미지](https://www.twreporter.org) — 더 리포터 The Reporter, Fair use（hero）
+- [“문을 열어 참여하고, 함께 목소리를 낸다” 식별 표어](https://www.twreporter.org) — 더 리포터 The Reporter, Fair use
+- [〈타이완 원양어업의 큰 다랑어 장어〉 인포그래픽(2017 SOPA 우수 인포그래픽상 대상)](https://www.twreporter.org/a/infographic-far-sea-fishing-gcs) — 더 리포터 The Reporter, Fair use
+- [통일전선 동심원 기획 관계도(2026)](https://www.twreporter.org/a/united-front-work-powered-by-holger-chen-and-china-influencers) — 더 리포터 The Reporter(디자인: 황위전; 정리: 쿵더롄, 팡더린), Fair use
+- [《소년 더 리포터》 출범 홍보 이미지(2022)](https://kids.twreporter.org) — 더 리포터 The Reporter, Fair use
+
+삽입 영상(《더 리포터》 공식 YouTube 채널):
+
+- [의료미용 몰카 파문: 타이완의 의료미용 규제에는 어떤 문제가 있는가?](https://www.youtube.com/watch?v=_AdtqBm7Hk4) — 더 리포터 The Reporter
+- [《더 리포터》 창립 주년, 하고 싶은 말을 크게 말하다!](https://www.youtube.com/watch?v=H_PiSMCR6Sc) — 더 리포터 The Reporter
+
 ## 참고자료
 
 [^1]: 허룽싱 페이스북 게시물, 2025-09-14: “《더 리포터》가 개설된 첫 달, 정기 정액 기부자는 4명뿐이었고, 나는 이 숫자를 동료들에게 전혀 알리지 못했다.” facebook.com/twreporter/posts/1235665585269425 참조.
@@ -386,18 +401,3 @@ AI 도구의 진입은 더 새로운 변수다. 대형 언어모델이 3초 만�
 [^59]: 2025년 가짜정보 조사, 타이완 시민 약 96%가 가짜정보 확산을 체감했다(원 조사: 타이완대학교 회복탄력사회연구센터, The News Lens 전재 보도). thenewslens.com/article/267704.
 
 [^60]: Reuters Institute Digital News Report 2024 Taiwan: 뉴스 전반에 대한 신뢰도 33%. reutersinstitute.politics.ox.ac.uk/digital-news-report/2024/taiwan.
-
-## 이미지 출처
-
-이 글은 《더 리포터》 공식 브랜드 소재와 작업 이미지 5장을 fair use（editorial commentary on The Reporter's work） 원칙에 따라 인용했다. 모두 `public/article-images/society/`에 캐시해 원본 서버 핫링크를 피했다. 또한 《더 리포터》 공식 YouTube 채널 영상 2개를 삽입했다.
-
-- [《더 리포터》 브랜드 식별 이미지](https://www.twreporter.org) — 더 리포터 The Reporter, Fair use（hero）
-- [“문을 열어 참여하고, 함께 목소리를 낸다” 식별 표어](https://www.twreporter.org) — 더 리포터 The Reporter, Fair use
-- [〈타이완 원양어업의 큰 다랑어 장어〉 인포그래픽(2017 SOPA 우수 인포그래픽상 대상)](https://www.twreporter.org/a/infographic-far-sea-fishing-gcs) — 더 리포터 The Reporter, Fair use
-- [통일전선 동심원 기획 관계도(2026)](https://www.twreporter.org/a/united-front-work-powered-by-holger-chen-and-china-influencers) — 더 리포터 The Reporter(디자인: 황위전; 정리: 쿵더롄, 팡더린), Fair use
-- [《소년 더 리포터》 출범 홍보 이미지(2022)](https://kids.twreporter.org) — 더 리포터 The Reporter, Fair use
-
-삽입 영상(《더 리포터》 공식 YouTube 채널):
-
-- [의료미용 몰카 파문: 타이완의 의료미용 규제에는 어떤 문제가 있는가?](https://www.youtube.com/watch?v=_AdtqBm7Hk4) — 더 리포터 The Reporter
-- [《더 리포터》 창립 주년, 하고 싶은 말을 크게 말하다!](https://www.youtube.com/watch?v=H_PiSMCR6Sc) — 더 리포터 The Reporter

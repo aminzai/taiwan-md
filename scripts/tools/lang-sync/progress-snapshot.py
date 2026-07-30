@@ -12,6 +12,8 @@ reports/babel/progress-{YYYY-MM}.jsonl（repo 追蹤，每次更新增補 commit
   python3 scripts/tools/lang-sync/progress-snapshot.py --note "..."  # MD 段加產線備註
   python3 scripts/tools/lang-sync/progress-snapshot.py --last 5      # 印最近 N 列
 """
+from __future__ import annotations
+
 import argparse
 import json
 import subprocess

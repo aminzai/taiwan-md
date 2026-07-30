@@ -174,6 +174,22 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 張懸與安溥 EVOLVE — Google 長尾流量王，但現行版本仍有三道健康硬傷
+
+- **Type**: `EVOLVE`（🔴 Rewrite + 媒體編織；不是只改 metadata）
+- **Category**: Music
+- **Path**: knowledge/Music/張懸與安溥.md
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-07-30 by twmd-evolve (session 2026-07-30-121650-manual finale)
+- **Notes**:
+  - **雙源 pointer**：① GA4 28d `/music/張懸與安溥/` **649 views／552 users／平均 session 302 秒／bounce 24.3%**，其中 Google 546 views（84.1%），是長尾搜尋資產，不是社群一次性爆量；② SC 28d 核心 query「張懸」4,551 impressions／CTR 2.07%／pos 7.92、「焦安溥」1,992／5.92%／5.66、「安溥」2,248／2.98%／9.61，三詞合計 **8,791 impressions**。資料抓取時間 2026-07-30。
+  - **病灶（現場量測）**：`article-health.py --profile=rewrite-stage-4` 為 **3 hard / 4 warn**——正文 4,059 CJK chars，距 4,500 depth gate 尚缺 441；0 hero、0 inline、0 iframe，Music 題材完全沒有媒體編織；multiline `tags` 被 frontmatter-format gate 判為非 canonical YAML array。`lastVerified: 2026-04-13`，已超過三個月。
+  - **為什麼這篇 vs 其他**：本週 GA 榜首〈台灣鎢供應鏈〉3,781 views 很大，但 2,805（74.2%）直接來自 Threads，命中 EVOLVE 假流量降權規則；〈數位荒原〉與〈黃山料〉沒有同等強的「搜尋需求 × hard gate」交集。〈張懸與安溥〉則有 84% Google 流量、SC 大量曝光與三道內容硬傷同時成立，每補一段正文或一件官方影音都直接服務持續存在的搜尋讀者。
+  - **進化分數**：約 **75/100**（流量 80、CTR gap 70、品質缺陷 75、年齡 90、來源品質 95、圖譜 70、社群 30），通過 ≥60 gate。
+  - **執行方向**：先跑 REWRITE Evolution 全流程；補足名字轉換後的近年創作／演出脈絡與 2026 freshness，並做官方頻道深掃，至少補 hero + scene-mid + 官方影片。保留現有多視角 tension，不把政治立場寫成獵巫。
+- **Reference**: reports/evolve-2026-07-30.md
+
 ### 台灣山岳與登山文化 EVOLVE — 日治山域調查這一整層太薄（讀者 #1204 指出）
 
 - **Type**: `EVOLVE`
@@ -412,7 +428,7 @@ BECOME_TAIWANMD.md Step 5 新增：
   - 必驗事實：廣告代言時間線（長榮航空 I SEE YOU 2013）、《重慶森林》《墮落天使》年份、日台混血家世敘述口徑
   - 潛在陷阱：私生活低調是人設一部分，不八卦化；日籍身分議題不炒作
 - **Reference**: public/api/dashboard-analytics.json §searchConsole7d
-- **附帶快修（同訊號批）**：無名小站 title/description SEO 優化（2,025 imp / 0.74% CTR / pos 8.37，2026-07-18 複查仍在 1,974 imp / 0.71% CTR / pos 8.33，訊號穩定未修，非一次性波動）＋ 2026-07-18 `article-health.py --profile=rewrite-stage-4` 新揭露 3 處 viz-health HARD gate（L75 `tw-stat`／L116 `tw-versus`／L127 `tw-timeline` 皆缺來源標註，各補一行「來源：機構，年份」即可，來源應已在 `reports/research/2026-06/無名小站.md` 內，非新研究）；張懸與安溥 freshness 重驗＋「張懸為什麼改名」query（81 imp / 12.35% CTR / pos 3.54）確認 description 有答到
+- **附帶快修（同訊號批）**：無名小站 title/description SEO 優化（2,025 imp / 0.74% CTR / pos 8.37，2026-07-18 複查仍在 1,974 imp / 0.71% CTR / pos 8.33，訊號穩定未修，非一次性波動）＋ 2026-07-18 `article-health.py --profile=rewrite-stage-4` 新揭露 3 處 viz-health HARD gate（L75 `tw-stat`／L116 `tw-versus`／L127 `tw-timeline` 皆缺來源標註，各補一行「來源：機構，年份」即可，來源應已在 `reports/research/2026-06/無名小站.md` 內，非新研究）。張懸與安溥已於 2026-07-30 以新鮮 GA + SC + health 三源證據升格為獨立 P1，本條不再重複掛載。
 
 <!-- ═══ 2026-06-19 inbox distill（哲宇 directive：深度研究 + 查看現況 + 整理）═══ -->
 <!-- 移除 16 幽靈/重複條目（詳見 session memory 2026-06-19-123909-inbox-distill）；NML batch 14 條全降 P3（哲宇 nod）-->

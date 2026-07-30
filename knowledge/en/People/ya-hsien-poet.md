@@ -176,6 +176,14 @@ Ya Hsien left behind ninety poems. In the preface to _The Abyss_, he quoted the 
 - [Martial Law Era](/en/history/martial-law-era) — Historical context of literary censorship, the Garrison Command, and obscurity as political protest
 - [Taiwanese Media and Press Freedom](/en/society/media-and-press-freedom-in-taiwan) — The historical context of the dominance of the _UDN_ and _China Times_ supplements in the Taiwan literary scene during the 1950s–1990s
 
+## Image Sources
+
+This article uses 3 CC BY-SA licensed images, all cached in `public/article-images/people/` to avoid hotlinking from source servers:
+
+- [Ya Hsien.tif](https://commons.wikimedia.org/wiki/File:%E7%98%82%E5%BC%A6.tif) — hero. Photo: Musu Media Co., Ltd., 2012-09-13, CC BY-SA 4.0, verified by Wikimedia Foundation VRT ticket 2017112310007121
+- [Lo Fu.tif](https://commons.wikimedia.org/wiki/File:%E6%B4%9B%E5%A4%AB.tif) — inline. Photo: Musu Media Co., Ltd., 2012, CC BY-SA 4.0
+- [Cheng Chou-yu.tif](https://commons.wikimedia.org/wiki/File:%E9%84%AD%E6%84%81%E4%BA%88.tif) — inline. Photo: Musu Media Co., Ltd., 2017-11-16, CC BY-SA 4.0
+
 ## References
 
 [^1]: [Genesis Poetry Society - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%89%B5%E4%B8%96%E7%B4%80%E8%A9%A9%E7%A4%BE) — Founded in October 1954 by Lo Fu and Chang Mo in Zuoying, Kaohsiung; Ya Hsien joined later; the three were known as the "Iron Triangle" of post-war Taiwanese modern poetry.
@@ -213,11 +221,3 @@ Ya Hsien left behind ninety poems. In the preface to _The Abyss_, he quoted the 
 [^17]: [Cheng Chou-yu - Wikipedia](https://zh.wikipedia.org/zh-hant/%E9%84%AD%E6%84%81%E4%BA%88) — Contemporary of the Genesis Poetry Society; passed away in the United States on June 13, 202 $\text{5}$, at age 91; his masterpiece 〈Mistake〉 ("My Dadaist horsebeats are beautiful mistakes") is one of the most widely circulated lines in Taiwanese modern poetry history.
 
 [^18]: [Chang Mo (Poet) - Wikipedia](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E9%BB%98_%28%E8%A9%A9%E4%BA%BA%29) — Born 1931; co-founder and long-time editor of Genesis Poetry Society; hailed as the "locomotive of the Taiwan New Poetry Movement"; still living as of 2026, the sole remaining member of the Iron Triangle.
-
-## Image Sources
-
-This article uses 3 CC BY-SA licensed images, all cached in `public/article-images/people/` to avoid hotlinking from source servers:
-
-- [Ya Hsien.tif](https://commons.wikimedia.org/wiki/File:%E7%98%82%E5%BC%A6.tif) — hero. Photo: Musu Media Co., Ltd., 2012-09-13, CC BY-SA 4.0, verified by Wikimedia Foundation VRT ticket 2017112310007121
-- [Lo Fu.tif](https://commons.wikimedia.org/wiki/File:%E6%B4%9B%E5%A4%AB.tif) — inline. Photo: Musu Media Co., Ltd., 2012, CC BY-SA 4.0
-- [Cheng Chou-yu.tif](https://commons.wikimedia.org/wiki/File:%E9%84%AD%E6%84%81%E4%BA%88.tif) — inline. Photo: Musu Media Co., Ltd., 2017-11-16, CC BY-SA 4.0

@@ -168,6 +168,19 @@ _管「平台問責、經營者揭露」的《數位中介服務法》2022 年�
 - [台灣人工智慧實驗室](/technology/台灣人工智慧實驗室) — 用 AI 反過來偵測協同認知操作的本土技術
 - [台灣媒體與新聞自由](/society/台灣媒體與新聞自由) — 旺中爭議與媒體集團結構的更大脈絡
 
+## 圖片來源
+
+本文多數圖片為公開頁面截圖，依著作權法第 52 條「為報導、評論而合理使用」引用，並標明出處：
+
+- 首圖／粉專並排：「我是高雄人」「我是台北人」Facebook 粉專（@Kaohsiung.Info、@Taipei.Info）截圖。
+- 起底懶人包：粉專「高雄好過日」（@takaogoodday）Threads 貼文截圖。
+- 績碩科技工商登記：[opengovtw](https://opengovtw.com/ban/89977832)，資料源自經濟部商工登記公示。
+- LIFE 生活網服務頁：[aams.tw](https://www.aams.tw/?app=Service&act=life)（績碩科技）截圖。
+- 秦皇島內容農場 AI 指令：[思想坦克／王宏恩](https://voicettank.org/20260210-1) 文中截圖。
+- [NCC 延平南路辦公室](https://commons.wikimedia.org/wiki/File:ROC-NCC_Yangping_South_Road_Office_20100929.jpg)：攝影 Solomon203，CC BY-SA 3.0（Wikimedia Commons）。
+- [立法院議場](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E6%B3%95%E9%99%A2%E8%AD%B0%E5%A0%B4.jpg)：攝影 林高志，CC BY-SA 4.0（Wikimedia Commons）。
+- 徵婚帳號截圖涉及可能遭盜用的真人照片，本文基於隱私不轉載，僅以數據與文字描述呈現。
+
 ## 參考資料
 
 [^1]: [忘刪 AI 指令惹議！粉專「我是OO人」被爆金流不明、內容來自親中媒體](https://newtalk.tw/news/view/2026-02-21/1020740) — Newtalk 2026-02-21 主報導，含經營者、AI 指令、內容來源、金流不明、年頡「協助超過 100 個粉專」徵才文、東京巨蛋假圖。
@@ -215,16 +228,3 @@ _管「平台問責、經營者揭露」的《數位中介服務法》2022 年�
 [^22]: [數發部依詐防條例重罰 Meta](https://moda.gov.tw/ADI/news/latest-news/16524) — 數位發展部，《詐欺犯罪危害防制條例》第 31 條（揭露委託刊播者／出資者）、第 32 條（24 小時下架與連帶賠償），已三度開罰 Meta 累計 1,850 萬元。
 
 [^23]: [「我是XX人」粉專疑為選舉輿論操作預作準備](https://www.epochtimes.com/gb/25/12/28/n14663860.htm) — 大紀元 2025-12-28，軍事粉專「新‧二七部隊」起底前兩個月即點名該系列「以 AI 撰寫、格式一致」。
-
-## 圖片來源
-
-本文多數圖片為公開頁面截圖，依著作權法第 52 條「為報導、評論而合理使用」引用，並標明出處：
-
-- 首圖／粉專並排：「我是高雄人」「我是台北人」Facebook 粉專（@Kaohsiung.Info、@Taipei.Info）截圖。
-- 起底懶人包：粉專「高雄好過日」（@takaogoodday）Threads 貼文截圖。
-- 績碩科技工商登記：[opengovtw](https://opengovtw.com/ban/89977832)，資料源自經濟部商工登記公示。
-- LIFE 生活網服務頁：[aams.tw](https://www.aams.tw/?app=Service&act=life)（績碩科技）截圖。
-- 秦皇島內容農場 AI 指令：[思想坦克／王宏恩](https://voicettank.org/20260210-1) 文中截圖。
-- [NCC 延平南路辦公室](https://commons.wikimedia.org/wiki/File:ROC-NCC_Yangping_South_Road_Office_20100929.jpg)：攝影 Solomon203，CC BY-SA 3.0（Wikimedia Commons）。
-- [立法院議場](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E6%B3%95%E9%99%A2%E8%AD%B0%E5%A0%B4.jpg)：攝影 林高志，CC BY-SA 4.0（Wikimedia Commons）。
-- 徵婚帳號截圖涉及可能遭盜用的真人照片，本文基於隱私不轉載，僅以數據與文字描述呈現。

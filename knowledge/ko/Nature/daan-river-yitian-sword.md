@@ -222,6 +222,20 @@ _자연보전 및 환경정보기금회(TNF) 공식 다큐멘터리: ‘나무�
 - [타이완 산림 생태계](/ko/nature/taiwan-forest-ecosystems) — 운무림대, 귀중한 침엽 5목과 거목의 생태 좌표. 의천검은 이 체계의 최고점이다
 - [타이완 국가공원](/ko/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — 쉐이파 국가공원과 임업 및 자연보전서 관할 구역은 이 거목들의 마지막 피난처다
 
+## 이미지 출처
+
+이 글은 CC / 퍼블릭 도메인 이미지 5장을 사용했으며, 모두 `public/article-images/nature/`에 캐시하고 EXIF를 제거한 뒤 WebP로 변환해 원본 서버 핫링크를 피했다.
+
+- [타이완삼나무(난터우 야외) — 石川 Shihchuan](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides,_Nantou_County,_Taiwan_1.jpg) — Wikimedia Commons, CC BY-SA 2.0 (hero)
+- [타이완삼나무 가지와 수형 — KENPEI](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides3.jpg) — Wikimedia Commons, CC BY-SA 3.0
+- [쉐이파 국가공원 운무림대](https://commons.wikimedia.org/wiki/File:Shei-Pa_National_Park%2Bcwtu%2B003.jpg) — Wikimedia Commons, CC BY-SA 4.0
+- [다바젠산(다안강 발원지) — Alan Wu](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%9C%B8%E5%B0%96%E5%B1%B1.jpg) — Wikimedia Commons, CC BY-SA 4.0
+- [하야타 분조 — Sasaki](https://commons.wikimedia.org/wiki/File:Bunz%C5%8D_Hayata.JPG) — Wikimedia Commons, Public domain
+
+영상: [「臺灣第一高樹」大安溪倚天劍神木 完整紀錄片](https://www.youtube.com/watch?v=UO2HUmNvyFc) — 자연보전 및 환경정보기금회(TNF) 공식 채널.
+
+의천검 본목 사진, Steven Pearce 등신 사진, 《신목의 섬》 스틸컷은 모두 저작권 자료이며, 《신목의 섬》 영상 허가가 논란 중이므로 이 글에서는 사용하지 않았다. 관련 화면은 위의 TNF 공식 다큐멘터리와 각 권리자가 공개한 채널을 참조하기 바란다.
+
 ## 참고자료
 
 [^1]: [After Decade-Long Hunt, Scientists Find East Asia's Tallest Tree — Sci.News](https://www.sci.news/biology/heaven-sword-tree-14824.html) — 2026년 보도. 다안강 의천검 84.1미터가 현재 알려진 동아시아 최고 높이의 나무임을 확인한다. 상위 10대 높은 나무는 모두 타이완삼나무(Taiwania cryptomerioides)이며, 그중 9그루가 70미터를 넘는다.
@@ -349,17 +363,3 @@ _자연보전 및 환경정보기금회(TNF) 공식 다큐멘터리: ‘나무�
 [^62]: [Taiwania cryptomerioides — IUCN Red List / Royal Botanic Garden Edinburgh](https://threatenedconifers.rbge.org.uk/conifers/taiwania-cryptomerioides) — 타이완삼나무의 전 세계 보전 상태는 취약(Vulnerable)으로 평가된다. 서식지는 기후변화의 위협을 받으며, 적합 서식지 예측은 크게 줄어든다.
 
 [^63]: [桃山巨木谷每公頃碳儲存約 1384 公噸 — 中央社, 2026-06-05](https://www.cna.com.tw/news/ahel/202606050305.aspx) — 나무를 찾는 사람들 팀은 타오산 신목이 있는 거목골(4헥타르)을 조사해 헥타르당 탄소 저장량을 약 1,384톤(뿌리 제외)으로 추산했다. 이는 세계에서 탄소 밀도가 가장 높은 오스트레일리아 태즈메이니아 거목림(약 1,867톤/헥타르)에 가깝다.
-
-## 이미지 출처
-
-이 글은 CC / 퍼블릭 도메인 이미지 5장을 사용했으며, 모두 `public/article-images/nature/`에 캐시하고 EXIF를 제거한 뒤 WebP로 변환해 원본 서버 핫링크를 피했다.
-
-- [타이완삼나무(난터우 야외) — 石川 Shihchuan](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides,_Nantou_County,_Taiwan_1.jpg) — Wikimedia Commons, CC BY-SA 2.0 (hero)
-- [타이완삼나무 가지와 수형 — KENPEI](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides3.jpg) — Wikimedia Commons, CC BY-SA 3.0
-- [쉐이파 국가공원 운무림대](https://commons.wikimedia.org/wiki/File:Shei-Pa_National_Park%2Bcwtu%2B003.jpg) — Wikimedia Commons, CC BY-SA 4.0
-- [다바젠산(다안강 발원지) — Alan Wu](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%9C%B8%E5%B0%96%E5%B1%B1.jpg) — Wikimedia Commons, CC BY-SA 4.0
-- [하야타 분조 — Sasaki](https://commons.wikimedia.org/wiki/File:Bunz%C5%8D_Hayata.JPG) — Wikimedia Commons, Public domain
-
-영상: [「臺灣第一高樹」大安溪倚天劍神木 完整紀錄片](https://www.youtube.com/watch?v=UO2HUmNvyFc) — 자연보전 및 환경정보기금회(TNF) 공식 채널.
-
-의천검 본목 사진, Steven Pearce 등신 사진, 《신목의 섬》 스틸컷은 모두 저작권 자료이며, 《신목의 섬》 영상 허가가 논란 중이므로 이 글에서는 사용하지 않았다. 관련 화면은 위의 TNF 공식 다큐멘터리와 각 권리자가 공개한 채널을 참조하기 바란다.

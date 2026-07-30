@@ -331,6 +331,14 @@ What can be frozen is not this museum. It is this unfinished memory infrastructu
 - [Taiwan Transitional Justice](/history/台灣轉型正義) — The struggle of revoking six thousand judgments without managing to hold perpetrators accountable; this article is one institutional slice of that struggle
 - [February 28 Incident](/history/二二八事件) — Postwar Taiwan’s largest civil uprising, the starting point that gave rise to 38 years of martial law
 
+## Image Sources
+
+This article uses 3 public domain or CC-licensed images, all cached under `public/article-images/history/` to avoid hotlinking source servers:
+
+- [President Tsai Ing-wen attending the “National Human Rights Museum Inauguration Ceremony” on May 17, 2018](<https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457).jpg>) — Photo: Presidential Office, 2018-05-17, CC BY 2.0 (Flickr standard license)
+- [Green Island Human Rights Memorial Monument, the Tearful Monument](https://commons.wikimedia.org/wiki/File:Taiwan_GreenIsland_Human_Rights_Memorial_Monument_2022.jpg) — Photo: S8321414, 2022, CC BY-SA 4.0
+- [Jingmei Human Rights Cultural Park](https://commons.wikimedia.org/wiki/File:%E6%99%AF%E7%BE%8E%E4%BA%BA%E6%AC%8A%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%80.jpg) — Photo: Chang Yung-tai, Public Domain (Voice of America) + CC Public Domain Mark 1.0
+
 ## References
 
 [^1]: [Newtalk: Tsai Kun-lin’s May 17, 2018 speech at the NHRM Green Island inauguration](https://newtalk.tw/news/view/2018-05-17/124671) — Full speech record including the verbatim quotation “I hope that one day we will know who killed his friend,” delivered by the 88-year-old victim representative on the day of the inauguration.
@@ -412,11 +420,3 @@ What can be frozen is not this museum. It is this unfinished memory infrastructu
 [^39]: [National Human Rights Museum: permanent exhibition “A Soul of Freedom vs. the Dictator: The Journey of Taiwan’s Freedom of Speech”](https://www.nhrm.gov.tw/w/nhrm/News_22050707092432044) — Opened on Freedom of Speech Day, April 7, 2022, in the permanent exhibition hall on the first floor of Chiang Kai-shek Memorial Hall. Curated by Hsueh Hua-yuan of Academia Sinica’s Institute of Modern History. Minister of Culture Lee Yung-te’s dialogic strategy: “If we cannot tear it down, then move in.” Verbatim opening ceremony remarks by Cheng Chu-mei, daughter of Deng Nan-jung: “How a country’s culture remembers the past represents how a country regards its future.”
 
 [^40]: [National Human Rights Museum: 2025 Green Island Human Rights Art Festival Biennial, “The Time of 149 Nautical Miles: Against Forgetting”](https://www.nhrm.gov.tw/w/nhrm/News_25040315483280023) — May 17 to September 21, 2025. Chief curator Takamori Nobuo’s verbatim statement: “The separation of geography and time may make history forgotten, while art can become the hilt of a sword against time.” The 23 artist groups include 7 international groups: Malaysia’s Pangrok Sulap, Vietnam’s Bui Cong Khanh, Hong Kong’s Ms. Bench, Haiti, Croatia, and Indonesia. “149 nautical miles” refers to the distance from Taitung to Green Island.
-
-## Image Sources
-
-This article uses 3 public domain or CC-licensed images, all cached under `public/article-images/history/` to avoid hotlinking source servers:
-
-- [President Tsai Ing-wen attending the “National Human Rights Museum Inauguration Ceremony” on May 17, 2018](<https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457).jpg>) — Photo: Presidential Office, 2018-05-17, CC BY 2.0 (Flickr standard license)
-- [Green Island Human Rights Memorial Monument, the Tearful Monument](https://commons.wikimedia.org/wiki/File:Taiwan_GreenIsland_Human_Rights_Memorial_Monument_2022.jpg) — Photo: S8321414, 2022, CC BY-SA 4.0
-- [Jingmei Human Rights Cultural Park](https://commons.wikimedia.org/wiki/File:%E6%99%AF%E7%BE%8E%E4%BA%BA%E6%AC%8A%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%80.jpg) — Photo: Chang Yung-tai, Public Domain (Voice of America) + CC Public Domain Mark 1.0

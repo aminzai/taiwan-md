@@ -331,6 +331,12 @@ translatedAt: '2026-07-28T04:03:50+08:00'
 - [대罢免](/history/大罷免) — 의석 호.arc의 과반 점선 이후: 3당 과반 불능의 입법원이 어떻게 31개罢免안으로 갔는지
 - [대만 저출산 위기](/society/台灣少子化危機) — 주택 구매 불가와 출산 불가, 세대 정의의 다른 면
 
+## 이미지 출처
+
+본문에서 CC 라이선스 이미지 1장을 사용하며, `public/article-images/society/`에 캐시됨:
+
+- [타이베이 시 주택 스카이라인(상산 관점)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — 사진: Heeheemalu, 2026, CC BY-SA 4.0(hero)
+
 ## 참고 자료
 
 [^1]: [내정부 부동산 정보 플랫폼](https://pip.moi.gov.tw/Publicize/Info/E1050) — 주택가격소득비, 주택담보부채비율, 자가 주택율 등 공식 주택 통계.
@@ -346,9 +352,3 @@ translatedAt: '2026-07-28T04:03:50+08:00'
 [^6]: [중사망: 2024 입법위원 선거 3당 과반 불능](https://www.cna.com.tw/news/aipl/202401130361.aspx) — 의석 호.arc의 113석 배분(국민당 52, 민진당 51,民众당 8, 무소속 2)은 중앙선거위원회 심정 결과이며, 검증 체인 참조 <[대罢免](/history/大罷免)>.
 
 [^7]: [위생복리부三班 간호사-환자 비율 표준 고지(2024)](https://www.mohw.gov.tw/) — 소배수 그리드의 3단계×三班 간호사-환자 비율 표준값, 검증 체인 참조 <[의료법](/society/醫療法)>.
-
-## 이미지 출처
-
-본문에서 CC 라이선스 이미지 1장을 사용하며, `public/article-images/society/`에 캐시됨:
-
-- [타이베이 시 주택 스카이라인(상산 관점)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — 사진: Heeheemalu, 2026, CC BY-SA 4.0(hero)

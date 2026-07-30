@@ -4,7 +4,7 @@ description: 'The National Health Insurance card used on March 1, 1995, was rush
 date: 2026-06-04
 author: 'Taiwan.md'
 category: 'Lifestyle'
-subcategory: '醫療與健保'
+subcategory: 'Healthcare and NHI'
 tags:
   [
     'National Health Insurance',
@@ -190,6 +190,14 @@ The following government open datasets allow you to verify, or overturn, the arg
 - [Meeting minutes of the National Health Insurance Committee, Ministry of Health and Welfare](https://data.gov.tw/dataset/7554) (National Health Insurance Committee, Ministry of Health and Welfare; updated monthly) — Primary meeting minutes showing at which table, and with what reasoning, the 5.17% premium rate was "maintained without adjustment"
 - [Statistics on government subsidies for disadvantaged insured persons under National Health Insurance](https://data.gov.tw/dataset/23719) (National Health Insurance Administration, Ministry of Health and Welfare; updated monthly) — The implementation side of Lin Ya-hui's "sharing hardship and paying according to ability": this table shows whose premiums the government pays
 
+## Image Sources
+
+- **Hero**: [NHI Building, ROC-MOHW-NHIA Taipei Division main entrance](https://commons.wikimedia.org/wiki/File:NHI_Building,_ROC-MOHW-NHIA_Taipei_Division_main_entrance_20180616.jpg) by Solomon203 / Wikimedia Commons / CC BY-SA 4.0
+- **Scene-mid 1** (2017 version of the NHI IC card): official image from the National Health Insurance Administration, Ministry of Health and Welfare / Public Domain (government open information)
+- **Scene-mid 2** (NHI 30th anniversary documentary iframe): official YouTube channel of the National Health Insurance Administration, Ministry of Health and Welfare
+- **Scene-mid 3** (Chia-Yi Christian Hospital mobile nursing station, 2007): Ditmanson Medical Foundation Chia-Yi Christian Hospital / used for nonprofit educational purposes
+- **Closure** (National Taiwan University Hospital main building): [National Taiwan University Hospital main building](https://commons.wikimedia.org/wiki/Category:National_Taiwan_University_Hospital) / Wikimedia Commons / CC BY-SA 4.0
+
 ## References
 
 [^1]: [醫奉 31／葉金川：火燒屁股的三天，撐起 30 年健保](https://health.udn.com/health/story/6001/5826304) — A 2021 "Medical Dedication 31" feature interview with Yeh Ching-chuan by Yuanqi Net. Yeh, the first director-general of the Bureau of National Health Insurance, recalls the emergency mobilization in the six days before the March 1, 1995 launch, including verbatim remarks such as "the preparation time was actually only three days," "a fire at our backsides," and the emergency fallback mechanism of using national ID cards in place of NHI cards.
@@ -275,13 +283,3 @@ The following government open datasets allow you to verify, or overturn, the arg
 [^41]: [Uwe Reinhardt: Why I Don't Advocate Single-Payer in America](https://www.huffpost.com/entry/uwe-reinhardt-on-single-payer_b_5af56c8be4b0859d11d05ce8) — HuffPost publication of Princeton economist Uwe Reinhardt's core verbatim remark, "I have not advocated the single-payer model here because our government is too corrupt." Reinhardt, who died in 2017, had been one of Taiwan's NHI advisers since 1989 and publicly opposed copying the model in the United States.
 
 [^42]: [Taiwan's Private Health Insurance Market After NHI](https://link.springer.com/article/10.1057/gpp.2012.36) — A 2012 Geneva Papers on Risk and Insurance article analyzing the rise in Taiwan's household private health insurance penetration after NHI began, from 63.9% in 1993 to 72.3% in 2004, an 8.4 percentage-point increase that counters the assumption that universal NHI locked out the private insurance market.
-
----
-
-## Image Sources
-
-- **Hero**: [NHI Building, ROC-MOHW-NHIA Taipei Division main entrance](https://commons.wikimedia.org/wiki/File:NHI_Building,_ROC-MOHW-NHIA_Taipei_Division_main_entrance_20180616.jpg) by Solomon203 / Wikimedia Commons / CC BY-SA 4.0
-- **Scene-mid 1** (2017 version of the NHI IC card): official image from the National Health Insurance Administration, Ministry of Health and Welfare / Public Domain (government open information)
-- **Scene-mid 2** (NHI 30th anniversary documentary iframe): official YouTube channel of the National Health Insurance Administration, Ministry of Health and Welfare
-- **Scene-mid 3** (Chia-Yi Christian Hospital mobile nursing station, 2007): Ditmanson Medical Foundation Chia-Yi Christian Hospital / used for nonprofit educational purposes
-- **Closure** (National Taiwan University Hospital main building): [National Taiwan University Hospital main building](https://commons.wikimedia.org/wiki/Category:National_Taiwan_University_Hospital) / Wikimedia Commons / CC BY-SA 4.0

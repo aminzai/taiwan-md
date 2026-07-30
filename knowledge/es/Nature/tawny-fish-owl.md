@@ -154,6 +154,12 @@ Y ahora, sobre una Michelia a 1.800 metros, dos polluelos están aprendiendo a a
 - [Espada Yitian del río Da-an](/es/nature/daan-river-yitian-sword) — Otro viejo árbol gigante escondido en las profundidades de Shei-Pa, sobreviviente precisamente porque «las personas no pueden llegar»; ese tipo de bosque primario en valles de cabecera sin intervenir, donde la taiwania crece hasta convertirse en el árbol más alto de Asia Oriental, es precisamente el hábitat del que depende el búho pescador leonado
 - [Parques nacionales de Taiwán](/es/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Shei-Pa, Taroko y Yushan, los tres grandes parques nacionales, son el último bastión de poblaciones estables de búho pescador leonado y un caso concreto del sistema de áreas protegidas
 
+## Fuentes de las imágenes
+
+Este artículo usa 1 imagen con licencia CC, almacenada en caché en `public/article-images/nature/` para evitar enlazar directamente al servidor de origen:
+
+- [Tawny fish owl. Ketupa flavipes - Flickr - gailhampshire](https://commons.wikimedia.org/wiki/File:Tawny_fish_owl._Ketupa_flavipes_-_Flickr_-_gailhampshire.jpg) — Photo: gailhampshire (Cradley, Malvern, UK), 2009-02-17, [CC BY 2.0 via Wikimedia Commons](https://creativecommons.org/licenses/by/2.0/)
+
 ## Referencias
 
 [^1]: [Avibase - 黃魚鴞 (Ketupa flavipes)](https://avibase.bsc-eoc.org/species.jsp?avibaseid=67CA1D2676A192A5) — Base de datos internacional de aves que registra la historia taxonómica del búho pescador leonado: nombrado por Hodgson en Nepal en 1836 como _Cultrunguis flavipes_, luego trasladado a _Bubo_ y, en años recientes, separado en el género _Ketupa_ debido a estudios de filogenia molecular.
@@ -193,9 +199,3 @@ Y ahora, sobre una Michelia a 1.800 metros, dos polluelos están aprendiendo a a
 [^18]: [黃魚鴞育雛子母畫面上線！「小寶」生吞國寶魚 母鳥上樓送餐給「大寶」 - 自由時報](https://news.ltn.com.tw/news/life/breakingnews/5423811) — Reporte del 3 de mayo de 2026: “Dabao”, nacido antes, dejó el nido el 1 de mayo y se desplazó sobre el nido; el equipo de Shei-Pa y la Universidad Nacional de Ciencia y Tecnología de Pingtung instaló una segunda cámara para registrar simultáneamente el crecimiento de los dos polluelos mediante pantalla principal y secundaria.
 
 [^19]: [「暗夜王者」黃魚鴞寶寶超萌 雪霸廣邀全民「命名」 - 自由時報](https://news.ltn.com.tw/news/life/breakingnews/5426048) — Reporte del 5 de mayo de 2026: la oficina de Shei-Pa y el profesor Hong Hsiao-yu, de la Universidad Nacional de Ciencia y Tecnología de Pingtung, lanzaron una actividad de nombramiento; por ahora, los dos polluelos se denominan provisionalmente “Dabao” y “Xiaobao”, y el 10 de mayo el equipo seleccionará conjuntamente 5 propuestas finalistas.
-
-## Fuentes de las imágenes
-
-Este artículo usa 1 imagen con licencia CC, almacenada en caché en `public/article-images/nature/` para evitar enlazar directamente al servidor de origen:
-
-- [Tawny fish owl. Ketupa flavipes - Flickr - gailhampshire](https://commons.wikimedia.org/wiki/File:Tawny_fish_owl._Ketupa_flavipes_-_Flickr_-_gailhampshire.jpg) — Photo: gailhampshire (Cradley, Malvern, UK), 2009-02-17, [CC BY 2.0 via Wikimedia Commons](https://creativecommons.org/licenses/by/2.0/)

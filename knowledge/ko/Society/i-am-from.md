@@ -166,6 +166,19 @@ _‘플랫폼 책임, 운영자 공개’를 다루는 『디지털중개서비�
 - [타이완 인공지능 실험실](/ko/technology/taiwan-ai-labs) — AI로 협조적 인지 조작을 역으로 탐지하는 타이완 현지 기술
 - [타이완 미디어와 언론 자유](/ko/society/media-and-press-freedom-in-taiwan) — 왕중 논란과 미디어 그룹 구조의 더 큰 맥락
 
+## 이미지 출처
+
+이 글의 대부분 이미지는 공개 페이지 캡처이며, 저작권법 제52조 “보도·논평을 위한 합리적 이용”에 따라 인용하고 출처를 밝혔다.
+
+- 첫 이미지/팬페이지 나란히 배치: ‘나는 가오슝 사람’, ‘나는 타이베이 사람’ Facebook 팬페이지(@Kaohsiung.Info, @Taipei.Info) 캡처.
+- 추적 요약 카드: 팬페이지 ‘가오슝 하오궈르’(@takaogoodday) Threads 게시물 캡처.
+- 지숴과기 상공 등기: [opengovtw](https://opengovtw.com/ban/89977832), 자료 출처는 경제부 상공 등기 공시.
+- LIFE 생활망 서비스 페이지: [aams.tw](https://www.aams.tw/?app=Service&act=life)(지숴과기) 캡처.
+- 친황다오 콘텐츠 팜 AI 지시문: [사상탱크／왕훙언](https://voicettank.org/20260210-1) 글 속 캡처.
+- [NCC 옌핑난로 사무실](https://commons.wikimedia.org/wiki/File:ROC-NCC_Yangping_South_Road_Office_20100929.jpg): 사진 Solomon203, CC BY-SA 3.0(Wikimedia Commons).
+- [입법원 의장](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E6%B3%95%E9%99%A2%E8%AD%B0%E5%A0%B4.jpg): 사진 린가오즈, CC BY-SA 4.0(Wikimedia Commons).
+- 구혼 계정 캡처는 도용되었을 가능성이 있는 실제 인물 사진을 포함하므로, 이 글에서는 프라이버시를 고려해 전재하지 않고 데이터와 문자 설명으로만 제시한다.
+
 ## 참고 자료
 
 [^1]: [AI 지시문 삭제를 잊어 논란! 팬페이지 ‘나는 OO 사람’, 자금 흐름 불명·콘텐츠는 친중 매체에서 왔다는 폭로](https://newtalk.tw/news/view/2026-02-21/1020740) — Newtalk 2026-02-21 주요 보도. 운영자, AI 지시문, 콘텐츠 출처, 자금 흐름 불명, 녠제의 “100개가 넘는 팬페이지 지원” 채용 문구, 도쿄돔 가짜 이미지 포함.
@@ -213,16 +226,3 @@ _‘플랫폼 책임, 운영자 공개’를 다루는 『디지털중개서비�
 [^22]: [디지털발전부, 사기방지조례에 따라 Meta에 중벌 부과](https://moda.gov.tw/ADI/news/latest-news/16524) — 디지털발전부. 『사기범죄 위해 방지 조례』 제31조(위탁 게재자/자금 제공자 공개), 제32조(24시간 내 삭제와 연대 배상). 이미 Meta에 세 차례 벌금을 부과해 누적 1,850만 타이완달러.
 
 [^23]: [‘나는 XX 사람’ 팬페이지, 선거 여론 조작 사전 준비 의혹](https://www.epochtimes.com/gb/25/12/28/n14663860.htm) — 대기원 2025-12-28. 군사 팬페이지 ‘신·27부대’가 추적 폭로 두 달 전 이 계열을 “AI로 작성, 형식 일치”라고 이미 지목.
-
-## 이미지 출처
-
-이 글의 대부분 이미지는 공개 페이지 캡처이며, 저작권법 제52조 “보도·논평을 위한 합리적 이용”에 따라 인용하고 출처를 밝혔다.
-
-- 첫 이미지/팬페이지 나란히 배치: ‘나는 가오슝 사람’, ‘나는 타이베이 사람’ Facebook 팬페이지(@Kaohsiung.Info, @Taipei.Info) 캡처.
-- 추적 요약 카드: 팬페이지 ‘가오슝 하오궈르’(@takaogoodday) Threads 게시물 캡처.
-- 지숴과기 상공 등기: [opengovtw](https://opengovtw.com/ban/89977832), 자료 출처는 경제부 상공 등기 공시.
-- LIFE 생활망 서비스 페이지: [aams.tw](https://www.aams.tw/?app=Service&act=life)(지숴과기) 캡처.
-- 친황다오 콘텐츠 팜 AI 지시문: [사상탱크／왕훙언](https://voicettank.org/20260210-1) 글 속 캡처.
-- [NCC 옌핑난로 사무실](https://commons.wikimedia.org/wiki/File:ROC-NCC_Yangping_South_Road_Office_20100929.jpg): 사진 Solomon203, CC BY-SA 3.0(Wikimedia Commons).
-- [입법원 의장](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E6%B3%95%E9%99%A2%E8%AD%B0%E5%A0%B4.jpg): 사진 린가오즈, CC BY-SA 4.0(Wikimedia Commons).
-- 구혼 계정 캡처는 도용되었을 가능성이 있는 실제 인물 사진을 포함하므로, 이 글에서는 프라이버시를 고려해 전재하지 않고 데이터와 문자 설명으로만 제시한다.

@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-07-29
-last_session: '2026-07-29-085004-twmd-maintainer-daily（PR #1268 merge-first+heal，issue #1272 修好即 close）'
+last_updated: 2026-07-30
+last_session: '2026-07-30-084134-twmd-maintainer-am（7 PR triage：6 merge + 1 留哲宇拍板）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -306,5 +306,12 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-29 | 070927-twmd-feedback-triage | 四天隊列靜默後首筆進單：COMPUTEX 全大寫勘誤轉 issue #1272（詹景勛回報），archive 落檔 | 量少不等於風險低，唯一一筆和一百筆該經過同一套核對節奏 | [→](memory/2026-07-29-070927-twmd-feedback-triage.md) |
 | 2026-07-29 | 085004-twmd-maintainer-daily | PR #1268 merge-first+heal；#1272 修好即 close；#1252 姓名對不上改問清楚；#1264 屬實但 spawn 獨立 task | 同一個 fetch-verify 習慣兩個方向各驗證一次：救回做過功課的 claim，也擋下記錯人名的請求 | [→](memory/2026-07-29-085004-twmd-maintainer-daily.md) |
 | 2026-07-29 | 093409-twmd-flywheel-watch | 飛輪綠燈零警報（24hr 118 commit／14 筆 routine，六條日更全部留痕）；昨日 #22 live dump 黃燈由 owner 自己的 rider 接住（齡 3.3h），但 hard gate 未進 skill 故不關 | 綠燈不是「工具說綠」——maintainer 今天只留收官 commit，靠退路命中，回 git log 對過才算數 | [→](memory/2026-07-29-093409-twmd-flywheel-watch.md) |
+| 2026-07-30 | 053352-twmd-embeddings-nightly | bge-m3 nightly 12 語 8391 向量 0 fail；id 篇數跨過 400 門檻；vi 連續第三晚持平 343 篇仍低於門檻（爬升期非故障） | 語言篇數持續成長是健康訊號，vi 持平不動才是該留意的那個訊號 | [→](memory/2026-07-30-053352-twmd-embeddings-nightly.md) |
+| 2026-07-30 | 053815-twmd-routine-sync | 三層對賬第五日全綠：17 條 routine 全 in-sync，零漂移；昨天修好的 babel-nightly drift 沒有復發 | 連續全綠仍要記一行，否則「這條 routine 有沒有在跑」下次沒基線可比 | [→](memory/2026-07-30-053815-twmd-routine-sync.md) |
+| 2026-07-30 | 061444-twmd-data-refresh-am | 14 步全綠零 stale；live dump rider 從昨天救三天黃燈轉為今天例行續跑（齡 23h 未過門檻仍主動補） | owner 責任內化成節奏而非救火，不必等變黃燈才做該做的事 | [→](memory/2026-07-30-061444-twmd-data-refresh-am.md) |
+| 2026-07-30 | 064309-twmd-spore-harvest-am | 6 events harvest；鎢供應鏈 D+4 觸及 479K 續平（Bucket D 政治框架維持 7/28 不動 default）；外送專法／苯駢芘皆 Bucket F 無需修文 | 病毒級敏感框架不必每天重寫完整脈絡，只需確認「有沒有變」 | [→](memory/2026-07-30-064309-twmd-spore-harvest-am.md) |
+| 2026-07-30 | 070927-twmd-feedback-triage | 隊列空（0 new feedback）；archive 掃描 39 檔，同步 2 則哲宇在 GitHub 上的維護者回覆（COMPUTEX + 姓名核對）進 git 主權層 | 量少不是簡化流程的理由，archive sync 這步仍要跑才能把維護者回覆落進 git | [→](memory/2026-07-30-070927-twmd-feedback-triage.md) |
+| 2026-07-30 | 084134-twmd-maintainer-am | 6/7 PR merge（4 篇美食 heal + 2 篇技術直 merge），1 篇 130 檔留哲宇拍板；收官誤 pop 舊孤兒 stash 已 reset 復原 | stash pop 前必先 list 讀清楚，看到「not mine」要當紅旗跳過 | [→](memory/2026-07-30-084134-twmd-maintainer-am.md) |
 | 2026-07-30 | 093643-twmd-flywheel-watch | 飛輪在轉（24hr 161 commit／12 筆 routine，六條日更全留痕）；flywheel-watch 三份素材改讀 origin/main，dump 齡 27.3h→3.3h | 禁 pull 卻讀工作樹，量的是這台多久沒 pull；7/26 那把尺從沒生效過 | [→](memory/2026-07-30-093643-twmd-flywheel-watch.md) |
+| 2026-07-30 | 121650-manual | 巴別塔回收 14 篇譯文並推至 main；修復 pulse 在 Python 3.9 沿用舊快照的假綠 | 進度讀數必須綁定同一 git ref、來源總數與時間戳 | [→](memory/2026-07-30-121650-manual.md) |
 | 2026-07-30 | 230518-manual | babel 雲端產線 9.5hr 零產出重啟復活；fleet 版本鏡誤報 heal（快取未跟版本常數同步）+ 2 節點斷線修復；PR #1282/#1283 merge | 版本鏡誤判根因是快取新鮮度，不是比較邏輯 | [→](memory/2026-07-30-230518-manual.md) |

@@ -198,6 +198,24 @@ One hundred thirty years have passed. That road is still there. Just with a new 
 
 ---
 
+## Image Sources
+
+This article uses 3 CC-licensed images, all cached in `public/article-images/history/` to avoid hotlinking to source servers:
+
+- [Taitung Line Steam Locomotive Fireman 1970s](https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg) — Photo Provider: Zhou Yongfu, 1970s, CC BY 4.0, Wikimedia Commons File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg
+- [Changhua Roundhouse Steam Locomotive Group 2009](https://commons.wikimedia.org/wiki/File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg) — Photo: Neeson Hsu, 2009-08-30, CC BY 2.0, Wikimedia Commons File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg
+- [DT668 Pushed by E327 on Coast Line 2021](https://commons.wikimedia.org/wiki/File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg) — Photo: Cheng-en Cheng, 2021-10-25, CC BY-SA 2.0, Wikimedia Commons File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg
+
+---
+
+## Further Reading
+
+- [Qing Dynasty Rule](/en/history/qing-dynasty-rule) — Political background of Liu Ming-chuan starting to lay tracks
+- [[日治時期|Japanese Colonial Era]](/history/日治時期) — Colonial government context of Hasegawa Kin-suke and Kawai Shitarao taking over Taiwan railway construction
+- [Sino-French War](/en/history/sino-french-war-in-taiwan) — Liu Ming-chuan was appointed as the first Governor-General of Taiwan due to this war, immediately initiating railway construction from Keelung to Hsinchu
+- [Taiwan Transportation System](/en/lifestyle/transportation-system) — The position of post-war railways in the diverse transportation network of highways, airports, and MRT
+- [Taiwan High-Speed Rail](/en/lifestyle/taiwan-high-speed-rail) — The high-speed railway system opened in 2007, the contemporary extension of Taiwan railway history
+
 ## References
 
 - [Taiwan Memory Expedition Team: October 24, 1908 Taiwan Trunk Railway Full Opening Ceremony](https://www.twmemory.org/?p=7323)
@@ -240,21 +258,3 @@ One hundred thirty years have passed. That road is still there. Just with a new 
 [^f12]: [Wikipedia: Ziqiang Train](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E5%BC%B7%E8%99%9F%E5%88%97%E8%BB%8A) — Complete context of the 1976 Public Opinion Testing Association survey, Xie Dongmin’s ruling on the name, EMU100 entering service on 1978-08-15, including the allusion "Be Respectful and Self-Improving, Unfazed by Change."
 
 [^f13]: [Wikipedia: Fuxing Train](https://zh.wikipedia.org/zh-tw/%E5%BE%A9%E8%88%88%E8%99%9F%E5%88%97%E8%BB%8A) — Record of entering service on 1980-07-06, air-conditioned cars made by Tangrong Iron Works, positioned as third-class passenger cars.
-
-## Image Sources
-
-This article uses 3 CC-licensed images, all cached in `public/article-images/history/` to avoid hotlinking to source servers:
-
-- [Taitung Line Steam Locomotive Fireman 1970s](https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg) — Photo Provider: Zhou Yongfu, 1970s, CC BY 4.0, Wikimedia Commons File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg
-- [Changhua Roundhouse Steam Locomotive Group 2009](https://commons.wikimedia.org/wiki/File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg) — Photo: Neeson Hsu, 2009-08-30, CC BY 2.0, Wikimedia Commons File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg
-- [DT668 Pushed by E327 on Coast Line 2021](https://commons.wikimedia.org/wiki/File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg) — Photo: Cheng-en Cheng, 2021-10-25, CC BY-SA 2.0, Wikimedia Commons File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg
-
----
-
-## Further Reading
-
-- [Qing Dynasty Rule](/en/history/qing-dynasty-rule) — Political background of Liu Ming-chuan starting to lay tracks
-- [[日治時期|Japanese Colonial Era]](/history/日治時期) — Colonial government context of Hasegawa Kin-suke and Kawai Shitarao taking over Taiwan railway construction
-- [Sino-French War](/en/history/sino-french-war-in-taiwan) — Liu Ming-chuan was appointed as the first Governor-General of Taiwan due to this war, immediately initiating railway construction from Keelung to Hsinchu
-- [Taiwan Transportation System](/en/lifestyle/transportation-system) — The position of post-war railways in the diverse transportation network of highways, airports, and MRT
-- [Taiwan High-Speed Rail](/en/lifestyle/taiwan-high-speed-rail) — The high-speed railway system opened in 2007, the contemporary extension of Taiwan railway history

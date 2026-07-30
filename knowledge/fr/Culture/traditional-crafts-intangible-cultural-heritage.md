@@ -240,6 +240,14 @@ Plus la liste s’allonge, moins il reste de personnes capables d’enseigner. L
 
 ---
 
+## Sources des images
+
+Cet article utilise trois images sous licence CC de Wikimedia Commons, toutes mises en cache dans `public/article-images/culture/` afin d’éviter les liens directs vers les serveurs sources :
+
+- [Yuanxiangyuan Paper Umbrella, Taiwan 2013-07](https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG) — Photo : Outlookxp, 2013-07-20, CC BY-SA 3.0. Ensemble d’ombrelles hakka en papier huilé exposées au village culturel Yuanxiangyuan de Meinong, aux surfaces rouges, jaunes et noires éclatantes ; l’un des dossiers visuels les plus représentatifs de l’artisanat des ombrelles en papier de Meinong.
+- [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo : Anrew0517, 2010-05-01, CC BY-SA 3.0. Façade du Musée de la sculpture sur bois de Sanyi (village de Guangsheng, canton de Sanyi, comté de Miaoli), seul musée public de Taïwan consacré à la sculpture sur bois.
+- [Vêtements teints à l’indigo de la « série bleu et blanc » exposés au Musée d’histoire et de patrimoine du district de Sanxia](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo : 寺人孟子, CC BY-SA 4.0. Vêtements teints à l’indigo de la « série bleu et blanc » exposés au Musée d’histoire et de patrimoine du district de Sanxia, montrant les usages visuels contemporains de l’indigo de Sanxia après la renaissance de 1996.
+
 ## Références
 
 [^1]: [Plus de 70 ans de restauration en maçonnerie : Su Qingliang inscrit par le ministère de la Culture parmi les « trésors nationaux vivants »](https://www.cna.com.tw/news/acul/202212190092.aspx) — reportage de l’agence CNA du 19 décembre 2022, entretien original publié le jour de la reconnaissance de Su Qingliang, comprenant sa déclaration en taïwanais « 阮自臺灣頭做到臺灣尾 » et les citations sur la succession entre grand-père et petit-fils.
@@ -299,11 +307,3 @@ Plus la liste s’allonge, moins il reste de personnes capables d’enseigner. L
 [^28]: [Le designer Xiao Qingyang : seule une bonne culture peut produire une bonne création culturelle](https://www.thenewslens.com/article/65127) — entretien de The News Lens avec Xiao Qingyang, comprenant l’idée centrale « 有好的文化，才可能有好的文創 » et une discussion détaillée des liens entre création culturelle et artisanat à Taïwan.
 
 [^29]: [Un maître laqueur trésor national de Taïwan qui a consacré sa vie à l’art de la laque : le temps d’artisan de Wang Qingshuang, de Meiyan Lacquer Art, à Nantou](https://www.wowlavie.com/article/ae1601482) — dossier du magazine La Vie sur la famille Wang Qingshuang, comprenant la phrase transmise par son fils Wang Xianmin, « 要做好漆藝，就要活久一些 », et le récit d’une transmission artisanale sur trois générations.
-
-## Sources des images
-
-Cet article utilise trois images sous licence CC de Wikimedia Commons, toutes mises en cache dans `public/article-images/culture/` afin d’éviter les liens directs vers les serveurs sources :
-
-- [Yuanxiangyuan Paper Umbrella, Taiwan 2013-07](https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG) — Photo : Outlookxp, 2013-07-20, CC BY-SA 3.0. Ensemble d’ombrelles hakka en papier huilé exposées au village culturel Yuanxiangyuan de Meinong, aux surfaces rouges, jaunes et noires éclatantes ; l’un des dossiers visuels les plus représentatifs de l’artisanat des ombrelles en papier de Meinong.
-- [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo : Anrew0517, 2010-05-01, CC BY-SA 3.0. Façade du Musée de la sculpture sur bois de Sanyi (village de Guangsheng, canton de Sanyi, comté de Miaoli), seul musée public de Taïwan consacré à la sculpture sur bois.
-- [Vêtements teints à l’indigo de la « série bleu et blanc » exposés au Musée d’histoire et de patrimoine du district de Sanxia](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo : 寺人孟子, CC BY-SA 4.0. Vêtements teints à l’indigo de la « série bleu et blanc » exposés au Musée d’histoire et de patrimoine du district de Sanxia, montrant les usages visuels contemporains de l’indigo de Sanxia après la renaissance de 1996.

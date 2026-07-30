@@ -277,6 +277,14 @@ Full albums, MVs, and performance records are available on [Cicada’s official 
 - [Taiwan’s Marine Ecology](/en/nature/taiwan-marine-ecology) — The ecological background of the band’s 2017 ocean-themed album
 - [Taiwan’s Mountains and Mountaineering Culture](/en/nature/taiwan-mountains-and-hiking-culture) — The context of Jesy Chiang’s mountaineering philosophy
 
+## Image Sources
+
+This article uses one CC BY-SA 4.0 licensed image, cached under `public/article-images/people/` to avoid hotlinking the source server:
+
+- [翠池 汪大智 05](https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg) — Photo: Blackjack633, CC BY-SA 4.0 (hero, Cui Pond on Xueshan)
+
+All videos embedded in the article are official MVs uploaded by [Cicada’s official YouTube channel @Cicadatw](https://www.youtube.com/@Cicadatw), embedded via iframe; copyright belongs to the band and record labels, and use follows YouTube’s standard embed terms.
+
 ## References
 
 [^1]: [Jesy Chiang’s creative method and diving realization - IN IN TO MUSIC](https://inintomusic.asia/cicada-interview/) — Jesy Chiang describes her creative method: “I’m very intuitive: when I sit at the piano and the rhythm aligns with the image inside me”; describes the water-flow rhythm in _Seeking_: “When you encounter a rock, it feels like, ‘Whoa?’ And then you flow past it from the side”; Lanyu diving realization: “The only thing you can control is your breathing” and “You have to be honest with yourself.”
@@ -332,11 +340,3 @@ Full albums, MVs, and performance records are available on [Cicada’s official 
 [^26]: [46th Japan Academy Film Prize results - Japan Academy Film Prize official](https://www.japan-academy-prize.jp/prizes/?t=46) — 46th edition (2023): _A Man_ (_Aru Otoko_) won multiple top awards including Picture of the Year; Cicada’s _A Man_ score was listed alongside Yoshihiro Ike, Masaru Takami, and FUKUSHIGE MARI for “Outstanding Achievement in Music” (the nomination-level award, four recipients listed); the “Best Music” prize that year went to RADWIMPS / Kazuma Jinnouchi for _Suzume_. That is: the film won Picture of the Year, and Cicada’s score received Outstanding Achievement in Music, not Best Music.
 
 [^27]: [Xueshan cirques and Taiwan’s glacial landforms - National Museum of Natural Science](https://epub.nmns.edu.tw/i401-1/) — Xueshan Cirque No. 1 is “the representative of Taiwan’s largest and most complete glacial landform” (citing Lin Chao-chi, 1957); during the Last Glacial Period (about 27,000 to 18,000 years ago), Taiwan’s high mountains developed mountain glaciers and glacial landforms; Cui Pond is a cirque lake, and the surrounding area is Taiwan’s largest pure stand of Taiwan juniper. Taiwan’s high-mountain glacial relics were long debated in scholarship, and were confirmed after Wang Hsin and others conducted detailed investigations of glacial erosion evidence in 1998.
-
-## Image Sources
-
-This article uses one CC BY-SA 4.0 licensed image, cached under `public/article-images/people/` to avoid hotlinking the source server:
-
-- [翠池 汪大智 05](https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg) — Photo: Blackjack633, CC BY-SA 4.0 (hero, Cui Pond on Xueshan)
-
-All videos embedded in the article are official MVs uploaded by [Cicada’s official YouTube channel @Cicadatw](https://www.youtube.com/@Cicadatw), embedded via iframe; copyright belongs to the band and record labels, and use follows YouTube’s standard embed terms.

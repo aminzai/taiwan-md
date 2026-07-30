@@ -168,6 +168,16 @@ En el último párrafo de “El dilema del tranvía”, publicado por BIOS month
 - [Movimiento Estudiantil Girasol](/es/society/sunflower-movement) — El sitio histórico del anuncio de The New York Times a las cuatro de la madrugada de 2014
 - [Nuevos medios artísticos de Taiwán](/es/art/taiwan-new-media-art) — La posición de Aaron Nieh Workshop y la cultura visual contemporánea taiwanesa
 
+## Fuentes de imágenes
+
+Este artículo utiliza 5 imágenes, todas almacenadas en caché en `public/article-images/people/` para evitar hotlinking a los servidores de origen. Las primeras 3 tienen licencias CC de Wikimedia Commons; las últimas 2 son imágenes públicas de medios citadas bajo fair use para comentario editorial, directamente relacionadas con la discusión pública sobre obras de diseño de Nieh Yung-jen:
+
+- **hero**: [Nieh Yung-jen 2018](<https://commons.wikimedia.org/wiki/File:%E8%81%B6%E6%B0%B8%E7%9C%9F_(40799138092).jpg>) — Photo: Gene Wang (Flickr user 56814157@N03), 2018-03-16, CC BY-SA 2.0
+- **inline 1**: [Movimiento Girasol 20140323 Yuan Legislativo](https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B%2020140323%20%E7%AB%8B%E6%B3%95%E9%99%A2%207045%20%2814127449295%29.jpg) — Photo: Ray Swi-hy (Flickr), 2014-03-23 17:03, CC BY-SA 2.0
+- **inline 2**: “[Democracy at 4am” anuncio de portada en The New York Times (2014-03-30)](https://www.thenewslens.com/article/2866) — Diseño: Nieh Yung-jen, disponible para descarga gratuita ese año a través de [4am.tw](https://4am.tw/); archivo de imagen tomado del reporte de The News Lens (versión archivada en el blog de i-Chen Tsai, 2014/03) — citado bajo fair use para comentario editorial (obra financiada colectivamente por ciudadanos + difusión pública de la intención original del diseñador)
+- **inline 3**: [Tsai Ing-wen presidential campaign, 2016](<https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg>) — Photo: MiNe (Flickr), 2015-10-18, CC BY 2.0
+- **inline 4**: [Proceso de diseño de los nuevos caracteres estándar de Taipower por Nieh Yung-jen (2026-05-08)](https://www.mirrormedia.mg/story/20260508edi031) — Captura de la [publicación pública de Facebook](https://www.facebook.com/somekidding/posts/1384626443696723) de Nieh Yung-jen (cuenta verificada @somekidding), imagen alojada por Mirror Media — citada bajo fair use para comentario editorial (publicación pública + divulgación del proceso de diseño de un LOGO en un asunto público)
+
 ## Referencias
 
 [^1]: [聶永真 維基百科](https://zh.wikipedia.org/zh-tw/%E8%81%B6%E6%B0%B8%E7%9C%9F) — Datos estructurales sobre la biografía, formación, premios, año de ingreso a AGI, tres premios Golden Melody de diseño de empaque (21.ª, 25.ª y 26.ª ediciones), y colaboradores en libros y discos (Lo Yi-chin, Gan Yao-ming, Rye Field, China Times Publishing, Ink, Linking), entre otros.
@@ -231,13 +241,3 @@ En el último párrafo de “El dilema del tranvía”, publicado por BIOS month
 [^30]: [中央社 2026-05-12：台電 Logo 字體爭議，文化部長李遠：設計是專業應「回歸專業」](https://www.cna.com.tw/news/aipl/202605120035.aspx) — Declaraciones del ministro de Cultura Li Yuan durante una entrevista en el Yuan Legislativo el 12 de mayo de 2026, enfatizando la independencia y profesionalidad del valor del diseño.
 
 [^31]: [民視新聞 2026-05-12：台電優化企業識別惹議，官方澄清「新舊並蓄」舊招牌不更換](https://www.ftvnews.com.tw/news/detail/2026512W0263) — Reporte del 12 de mayo de 2026 con detalles del ajuste al plan de ejecución emitido por Taipower ante la presión de la opinión pública.
-
-## Fuentes de imágenes
-
-Este artículo utiliza 5 imágenes, todas almacenadas en caché en `public/article-images/people/` para evitar hotlinking a los servidores de origen. Las primeras 3 tienen licencias CC de Wikimedia Commons; las últimas 2 son imágenes públicas de medios citadas bajo fair use para comentario editorial, directamente relacionadas con la discusión pública sobre obras de diseño de Nieh Yung-jen:
-
-- **hero**: [Nieh Yung-jen 2018](<https://commons.wikimedia.org/wiki/File:%E8%81%B6%E6%B0%B8%E7%9C%9F_(40799138092).jpg>) — Photo: Gene Wang (Flickr user 56814157@N03), 2018-03-16, CC BY-SA 2.0
-- **inline 1**: [Movimiento Girasol 20140323 Yuan Legislativo](https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B%2020140323%20%E7%AB%8B%E6%B3%95%E9%99%A2%207045%20%2814127449295%29.jpg) — Photo: Ray Swi-hy (Flickr), 2014-03-23 17:03, CC BY-SA 2.0
-- **inline 2**: “[Democracy at 4am” anuncio de portada en The New York Times (2014-03-30)](https://www.thenewslens.com/article/2866) — Diseño: Nieh Yung-jen, disponible para descarga gratuita ese año a través de [4am.tw](https://4am.tw/); archivo de imagen tomado del reporte de The News Lens (versión archivada en el blog de i-Chen Tsai, 2014/03) — citado bajo fair use para comentario editorial (obra financiada colectivamente por ciudadanos + difusión pública de la intención original del diseñador)
-- **inline 3**: [Tsai Ing-wen presidential campaign, 2016](<https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg>) — Photo: MiNe (Flickr), 2015-10-18, CC BY 2.0
-- **inline 4**: [Proceso de diseño de los nuevos caracteres estándar de Taipower por Nieh Yung-jen (2026-05-08)](https://www.mirrormedia.mg/story/20260508edi031) — Captura de la [publicación pública de Facebook](https://www.facebook.com/somekidding/posts/1384626443696723) de Nieh Yung-jen (cuenta verificada @somekidding), imagen alojada por Mirror Media — citada bajo fair use para comentario editorial (publicación pública + divulgación del proceso de diseño de un LOGO en un asunto público)

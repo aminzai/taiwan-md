@@ -180,6 +180,13 @@ Une voix « un peu usée », une lenteur qui refuse de se presser. Kowen Ko n'es
 - [Chen Jian-ki](/people/陳建騏) — Le producteur qui a accompagné Kowen Ko pendant neuf ans pour trois albums sans jamais le presser, un artisan multi-récompensé par les prix Golden Horse, Golden Melody et Golden Bell.
 - [Hello Nico](/people/Hello-Nico) — Un autre groupe de la scène indépendante taïwanaise souvent encadré par le terme « disparu pendant X années », mais qui produit régulièrement des œuvres.
 
+## Sources des images
+
+- Image principale : Portrait de Kowen Ko. Source forgood music, [Page officielle Spotify](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd). © forgood music, usage éditorial équitable.
+- Corps du texte : Couverture de l'album _You Don't Really Want to Wander_ (2015). © forgood music, usage éditorial équitable.
+- Corps du texte : Couverture de l'album _My Nova_ (2024). © forgood music, usage éditorial équitable.
+- Vidéos : « Dance Partner », « It Was May » et la version Hakka de « God’s Reply » sont extraites de la chaîne YouTube officielle de forgood music à des fins de commentaire.
+
 ## Références
 
 [^1]: [Wikipedia : Kowen Ko](https://zh.wikipedia.org/zh-hant/%E6%9F%AF%E6%99%BA%E6%A3%A0) — Entrée de Wikipédia en chinois, répertoriant son parcours, sa liste d'albums et ses récompenses, mentionnant sa victoire au concours Haixian en 2013.
@@ -311,10 +318,3 @@ Une voix « un peu usée », une lenteur qui refuse de se presser. Kowen Ko n'es
 [^64]: [Spotify : Page officielle de Kowen Ko](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) - Données sur le nombre d'auditeurs mensuels.
 
 [^65]: [Liberty Times : Interview de Kowen Ko](https://ent.ltn.com.tw/news/paper/1692732) - Citation sur la bénédiction d'être nommé.
-
-## Sources des images
-
-- Image principale : Portrait de Kowen Ko. Source forgood music, [Page officielle Spotify](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd). © forgood music, usage éditorial équitable.
-- Corps du texte : Couverture de l'album _You Don't Really Want to Wander_ (2015). © forgood music, usage éditorial équitable.
-- Corps du texte : Couverture de l'album _My Nova_ (2024). © forgood music, usage éditorial équitable.
-- Vidéos : « Dance Partner », « It Was May » et la version Hakka de « God’s Reply » sont extraites de la chaîne YouTube officielle de forgood music à des fins de commentaire.

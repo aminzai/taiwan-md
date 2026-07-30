@@ -286,6 +286,14 @@ _Cicada 官方頻道〈凝視白色的邊界 Gazing the Shades of White〉同名
 - [台灣海洋生態](/nature/台灣海洋生態) — 樂團 2017 海洋主題專輯的生態背景
 - [台灣山岳與登山文化](/nature/台灣山岳與登山文化) — 江致潔的登山哲學脈絡
 
+## 圖片來源
+
+本文使用 1 張 CC BY-SA 4.0 授權圖片，cache 於 `public/article-images/people/` 避免熱連結來源伺服器：
+
+- [翠池 汪大智 05](https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg) — Photo: Blackjack633, CC BY-SA 4.0（hero，雪山翠池）
+
+文中嵌入的影片皆為 [Cicada 官方 YouTube 頻道 @Cicadatw](https://www.youtube.com/@Cicadatw) 上傳的官方 MV，以 iframe 內嵌呈現；著作權屬樂團與發行廠牌，依 YouTube 標準嵌入服務條款使用。
+
 ## 參考資料
 
 [^1]: [江致潔創作方法論與潛水頓悟 - IN IN TO MUSIC](https://inintomusic.asia/cicada-interview/) — 江致潔自述創作方法論「我很直覺——當我坐在鋼琴前、節奏跟內心的意象對上了」；描述《棲居》水流節奏「當你遇到一塊石頭，感覺是『哇？』——然後你從旁邊流過去」；蘭嶼潛水頓悟「你能控制的只有你的呼吸」「你必須對自己誠實」。
@@ -341,11 +349,3 @@ _Cicada 官方頻道〈凝視白色的邊界 Gazing the Shades of White〉同名
 [^26]: [第 46 回日本電影學院賞受賞結果 - 日本アカデミー賞官方](https://www.japan-academy-prize.jp/prizes/?t=46) — 第 46 屆（2023）：電影《ある男》（那個男人）獲最優秀作品賞等多項最優秀賞；Cicada『ある男』與池頼広、髙見優、FUKUSHIGE MARI 並列「優秀音楽賞」（入圍層級，4 名並列）；該屆「最優秀音楽賞」由 RADWIMPS／陣内一真《すずめの戸締まり》（鈴芽之旅）獲得。即：片得最優秀作品賞、Cicada 的配樂得優秀音樂賞，非最優秀音樂賞。
 
 [^27]: [雪山圈谷與台灣冰河地形 - 國立自然科學博物館](https://epub.nmns.edu.tw/i401-1/) — 雪山一號圈谷為「臺灣最大、最完整冰河地形的代表」（引林朝棨 1957）；台灣高山在末次冰期（約 2 萬 7 千至 1 萬 8 千年前）發育山岳冰河、形成冰河地形；翠池為冰斗湖、周遭是台灣面積最大的玉山圓柏純林。台灣高山冰河遺跡經學界長期爭論，至 1998 年王鑫等人詳細調查冰蝕證據後確認。
-
-## 圖片來源
-
-本文使用 1 張 CC BY-SA 4.0 授權圖片，cache 於 `public/article-images/people/` 避免熱連結來源伺服器：
-
-- [翠池 汪大智 05](https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg) — Photo: Blackjack633, CC BY-SA 4.0（hero，雪山翠池）
-
-文中嵌入的影片皆為 [Cicada 官方 YouTube 頻道 @Cicadatw](https://www.youtube.com/@Cicadatw) 上傳的官方 MV，以 iframe 內嵌呈現；著作權屬樂團與發行廠牌，依 YouTube 標準嵌入服務條款使用。

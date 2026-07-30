@@ -239,6 +239,16 @@ To outsiders, Wanhua is a tourist night market, the gray zone after prostitution
 - [Dalongdong](/en/geography/dalongdong) — The first refuge for the Tong'an people who retreated from Bangka's Bajiazhuang after losing the 1853 Ding-Xia Jiao Conflict; Baoan Temple became the defensive center, before they relocated again to Dadaocheng
 - [Shilin](/en/geography/shilin) — The 1859 Zhang-Quan conflict and Bangka's 1853 Ding-Xia Jiao Conflict were two different armed clashes; together they form two ethnic-conflict landscapes in northern Taiwan under Qing rule
 
+## Image Sources
+
+This article uses five CC BY-SA licensed Wikimedia Commons images, all cached in `public/article-images/geography/` to avoid hotlinking source servers:
+
+- [File:Longshan Temple, Taipei 01.jpg](https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01.jpg) — Front hall of Bangka Longshan Temple, photographed by Bernard Gagnon, CC BY-SA 3.0
+- [File:Bopiliao Historic Block 剝皮寮歷史街區.jpg](https://commons.wikimedia.org/wiki/File:Bopiliao_Historic_Block_%E5%89%9D%E7%9A%AE%E5%AF%AE%E6%AD%B7%E5%8F%B2%E8%A1%97%E5%8D%80.jpg) — Red-brick arcade of the Bopiliao Historic Block, CC BY-SA
+- [File:Chin S Temple in Taipei.JPG](https://commons.wikimedia.org/wiki/File:Chin_S_Temple_in_Taipei.JPG) — Bangka Qingshuiyan Zushi Temple, CC BY-SA
+- [File:2017-06-29 Bangka Qingshan Temple, Wanhua District, Taipei.jpg](https://commons.wikimedia.org/wiki/File:2017-06-29_Bangka_Qingshan_Temple,_Wanhua_District,_Taipei.jpg) — Bangka Qingshan Temple, CC BY-SA
+- [File:Huaxi Street Tourist Night Market 2019.jpg](https://commons.wikimedia.org/wiki/File:Huaxi_Street_Tourist_Night_Market_2019.jpg) — Huaxi Street Tourist Night Market, CC BY-SA
+
 ## References
 
 [^1]: [Bangka Longshan Temple official website — Visitor Information](https://www.lungshan.org.tw/tw/) — Longshan Temple opening hours are 6:00-22:00, open year-round. Daily morning and evening chanting is held at 6:00 a.m. and 3:45 p.m.; group chanting is also held at 8:00 a.m. Address: No. 211 Guangzhou Street, Wanhua District, Taipei City.
@@ -304,13 +314,3 @@ To outsiders, Wanhua is a tourist night market, the gray zone after prostitution
 [^31]: [Snake Alley (Taipei) — Wikipedia](<https://en.wikipedia.org/wiki/Snake_Alley_(Taipei)>) — The English Wikipedia entry on Huaxi Street, or Snake Alley, records the full transformation process of Huaxi Street Tourist Night Market, from the snake-shop boom of the 1990s to the rise of animal protection after 2000, the shift in customers after licensed prostitution was abolished, and the market’s transformation into one centered mainly on snacks.
 
 [^32]: [“Urban Coexistence 1-3” Bangka Park Renovation: Phased Construction and Reduced Walkways Affect Unhoused People; More Than Half of Users Actually “Have Homes” — Right Plus, September 4, 2024](https://rightplus.org/2024/09/04/mongapark1/) — Full report on a September 2024 civic group survey with 168 questionnaires, including 94 from unhoused people, 74 from the general public, and 33 from nearby shops, on views of the Bangka Park renovation. It records reasons why 60% of unhoused people refused publicly run shelters, that 60% of shops supported a “nearby management” strategy, and legislator Wu Pei-yi’s push to add a chapter on unhoused people to the _Social Assistance Act_.
-
-## Image Sources
-
-This article uses five CC BY-SA licensed Wikimedia Commons images, all cached in `public/article-images/geography/` to avoid hotlinking source servers:
-
-- [File:Longshan Temple, Taipei 01.jpg](https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01.jpg) — Front hall of Bangka Longshan Temple, photographed by Bernard Gagnon, CC BY-SA 3.0
-- [File:Bopiliao Historic Block 剝皮寮歷史街區.jpg](https://commons.wikimedia.org/wiki/File:Bopiliao_Historic_Block_%E5%89%9D%E7%9A%AE%E5%AF%AE%E6%AD%B7%E5%8F%B2%E8%A1%97%E5%8D%80.jpg) — Red-brick arcade of the Bopiliao Historic Block, CC BY-SA
-- [File:Chin S Temple in Taipei.JPG](https://commons.wikimedia.org/wiki/File:Chin_S_Temple_in_Taipei.JPG) — Bangka Qingshuiyan Zushi Temple, CC BY-SA
-- [File:2017-06-29 Bangka Qingshan Temple, Wanhua District, Taipei.jpg](https://commons.wikimedia.org/wiki/File:2017-06-29_Bangka_Qingshan_Temple,_Wanhua_District,_Taipei.jpg) — Bangka Qingshan Temple, CC BY-SA
-- [File:Huaxi Street Tourist Night Market 2019.jpg](https://commons.wikimedia.org/wiki/File:Huaxi_Street_Tourist_Night_Market_2019.jpg) — Huaxi Street Tourist Night Market, CC BY-SA

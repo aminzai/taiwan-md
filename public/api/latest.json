@@ -1,8 +1,17 @@
 {
-  "_generated": "2026-07-28T22:13:29.658Z",
+  "_generated": "2026-07-29T22:13:37.882Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "台灣校園順口溜：從「ABC狗咬豬」到「阿里巴巴打屁屁」的跨世代幽默",
+        "desc": "探索台灣校園流傳數十年的口頭文化，從早期反映語言交織的「ABC狗咬豬」，到「阿嬤內褲」與「阿里巴巴」的超現實連鎖唸謠，解析這些童謠如何承載著兒童的集體記憶與叛逆精神。",
+        "category": "culture",
+        "href": "/culture/%E6%A0%A1%E5%9C%92%E9%A0%86%E5%8F%A3%E6%BA%9C",
+        "date": "2026-07-28T20:00:39+08:00",
+        "readingTime": 30,
+        "image": ""
+      },
       {
         "title": "吳明益：用複眼把消失的台灣寫回來",
         "desc": "從迷蝶誌到單車失竊記，從消失的中華商場到布克長名單——東華大學華文系教授吳明益如何用博物與小說，讓世界同時看見一座島的昆蟲、鐵馬與戰爭記憶。國際譯介與跨媒是複眼長出來的後果，不是先找獎盃再回填島嶼；國籍那一行只作厚度。",
@@ -263,18 +272,36 @@
         "date": "2026-07-19T10:29:01+08:00",
         "readingTime": 12,
         "image": "/article-images/food/bando-ghost-festival-banquet-2017.webp"
-      },
-      {
-        "title": "國家太空中心：花三十二年，替一個還沒湊齊名字的國家湊齊一個太空署",
-        "desc": "1991 年它叫「籌備處」，沒有名字、沒有火箭、沒有自己的地。三十二年後它把 Taiwan 放回名字裡，現在新竹的操控中心 24 小時追著九顆衛星的心跳；0403 花蓮地震那天，它在震後六分鐘重設任務、三小時取像。它正在補上最後一塊零件——一枚自己的入軌火箭，還有一個已經核定、最快 2028 上路的月球任務。",
-        "category": "technology",
-        "href": "/technology/%E5%9C%8B%E5%AE%B6%E5%A4%AA%E7%A9%BA%E4%B8%AD%E5%BF%83",
-        "date": "2026-07-19T10:28:51+08:00",
-        "readingTime": 28,
-        "image": "/article-images/technology/formosat8-tasa-banner.webp"
       }
     ],
     "en": [
+      {
+        "title": "Miaoli County: A Hakka Stubborn-Spirited County That Elected a Magistrate Who More Than Doubled Its Debt in Eight Years",
+        "desc": "During the Japanese period, Miaoli accounted for 95% of Taiwan's camphor output, and Sanyi built its woodcarving industry from the roots left after camphor refining. In 2002, Beihe Village in Gongguan held the first Tung Blossom Festival. In 2008, Liu Cheng-hung took over a county with NT$20.2 billion in debt; by the time he left office in 2014, the books showed NT$67.6 billion. In between came Zhu Feng-min drinking pesticide, the forced demolition of Chang Pharmacy, and the NT$120 million Hakka Round House becoming a mosquito hall. Today, 530,000 people live in this county, whose 62.5% Hakka population share is Taiwan's second highest.",
+        "category": "geography",
+        "href": "/en/geography/miaoli-county",
+        "date": "2026-07-30T04:02:34+08:00",
+        "readingTime": 16,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/2023_Tung_Blossom_Festival.jpg"
+      },
+      {
+        "title": "Egg Tarts: From Macao Monasteries to Taiwan’s Collective Memory of “Swarming”",
+        "desc": "The explosive rise and collapse of Taiwan’s 1998 “egg tart frenzy” not only defined the island’s “swarming” consumer behavior, but also forced KFC in Taiwan to become “an egg tart shop delayed by fried chicken.”",
+        "category": "food",
+        "href": "/en/food/portuguese-egg-tart-in-taiwan",
+        "date": "2026-07-30T04:02:34+08:00",
+        "readingTime": 6,
+        "image": "/article-images/food/dan-ta-hero.webp"
+      },
+      {
+        "title": "Taiwan’s Artificial Intelligence Development and Future Strategy: The Hardware Ticket Is in Hand. Where Is the Next Battle?",
+        "desc": "On October 8, 2024, the Nobel Prize in Physics went to Hopfield and Hinton; the next day, the Chemistry prize went to the three AlphaFold researchers. On May 29 of the same year, Jensen Huang ate oyster omelets with Morris Chang at Taipei’s Ningxia Night Market. Taiwan manufactures 90% of the world’s AI servers and 72% of advanced wafers, yet it was absent from the answers to the 42-year history of neural networks and the 50-year protein-folding problem. From PTT founder Ethan Tu’s Taiwan AI Labs to TAIDE, the traditional Chinese LLM model backed by the National Science and Technology Council, is it still enough for this island to be only a contract manufacturer?",
+        "category": "technology",
+        "href": "/en/technology/artificial-intelligence-development-strategy",
+        "date": "2026-07-30T04:02:34+08:00",
+        "readingTime": 18,
+        "image": "/article-images/technology/alphafold-cbln1-structure-2025.webp"
+      },
       {
         "title": "Taiwan Railway History: The \"Lung Disease\" Railway, the \"Black-Headed Ones,\" and the Line That Lost Its Foreign Names",
         "desc": "A road the Japanese called \"lung disease\" that became a high-speed artery carrying 200,000 people daily over a century. Engineer Becker was scrapped by the Japanese; Hasegawa’s trunk line was renamed post-war; every generation pushed the previous records to footnotes. Foreign names faded, leaving Taiwanese slang like \"black-headed ones\" and political slogans like \"Juguang\" and \"Ziqiang,\" until the Puyuma and Taroko era finally laid indigenous place names back onto the tracks.",
@@ -517,36 +544,36 @@
         "date": "2026-07-27T18:53:04+08:00",
         "readingTime": 9,
         "image": ""
-      },
-      {
-        "title": "Kaohsiung: The Year It Became a Direct-Administered City, When Eight People from Kaohsiung Were Locked in Taipei's Prisons",
-        "desc": "On July 1, 1979, Kaohsiung was upgraded to Taiwan's second direct-administered city. On December 10, World Human Rights Day, a speech at the Dagangpu Roundabout by the Formosa Magazine Publishing House turned into a conflict under tear gas. Eight people were sentenced. On February 28, 1980, a blood case erupted at Lin Yi-hsiung's home on Xinyi Road in Taipei. In that same year of 1979, Kaohsiung received administrative glory but swallowed the heaviest political repression in post-war Taiwan. With 2.71 million people scattered across 38 districts, the Qijin sandbar, the Namaxia Bunun tribe, the China Steel smokestacks, and the Weiwuying aluminum alloy roof all share one city. This city took 45 years to stitch its wounds into its own shape.",
-        "category": "geography",
-        "href": "/en/geography/kaohsiung-city",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 18,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Night_skyline_of_Kaohsiung%2C_Taiwan_20140603.jpg/1600px-Night_skyline_of_Kaohsiung%2C_Taiwan_20140603.jpg"
-      },
-      {
-        "title": "Keelung City: The Port Closest to Taipei, the One Taipei Sees Least",
-        "desc": "At 4 a.m., the Kanzaiteng fish market is still alive with the sound of auctions. Auctioneers chant prices in Hokkien, and within seconds a crate of fish moves from fishing boats in Hualien, Yilang, and Badouzi to a Japanese restaurant in Taipei's Eastern District. In 1626, the Spaniards planted a flag on Heping Island. In 1875, Shen Baozhen changed the name from 'Keelung' (Chicken Coop) to 'Keelung' (Base of Prosperity). In 1984, this was the world's seventh-largest container port. Then three things happened at once: Kaohsiung Port overtook it, Taoyuan Airport opened, and the mining economy collapsed. Today 360,000 people live here, and 39% commute to work in Taipei. What Taipei sees is decline. What the ocean sees is a port that has never left its position.",
-        "category": "geography",
-        "href": "/en/geography/keelung-city",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 14,
-        "image": "/article-images/geography/keelung-hero.webp"
-      },
-      {
-        "title": "Miaoli County: A Hakka Stubborn-Spirited County That Elected a Magistrate Who More Than Doubled Its Debt in Eight Years",
-        "desc": "During the Japanese period, Miaoli accounted for 95% of Taiwan's camphor output, and Sanyi built its woodcarving industry from the roots left after camphor refining. In 2002, Beihe Village in Gongguan held the first Tung Blossom Festival. In 2008, Liu Cheng-hung took over a county with NT$20.2 billion in debt; by the time he left office in 2014, the books showed NT$67.6 billion. In between came Zhu Feng-min drinking pesticide, the forced demolition of Chang Pharmacy, and the NT$120 million Hakka Round House becoming a mosquito hall. Today, 530,000 people live in this county, whose 62.5% Hakka population share is Taiwan's second highest.",
-        "category": "geography",
-        "href": "/en/geography/miaoli-county",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 16,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/2023_Tung_Blossom_Festival.jpg"
       }
     ],
     "ja": [
+      {
+        "title": "苗栗県：客家の硬頸の県、8年で県庫の負債を倍増させた県長を選んだ場所",
+        "desc": "日本統治期の苗栗の樟脳は台湾全体の 95% を占め、三義は樟脳製造後の樹根を利用して木彫を始めました。2002 年、公館の北河村で第 1 回桐花祭が開かれました。2008 年、劉政鴻は 202 億元の負債を抱えた県を引き継ぎ、2014 年の退任時には帳簿上 676 億元になっていました。その間には、朱馮敏の農薬自殺、張薬房の強制撤去、1.2 億元を投じた客家円楼の蚊子館化が起きました。現在、53 万人が客家人口比率 62.5% と台湾で 2 番目に高いこの県に暮らしています。",
+        "category": "geography",
+        "href": "/ja/geography/miaoli-county",
+        "date": "2026-07-30T04:02:34+08:00",
+        "readingTime": 16,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/2023_Tung_Blossom_Festival.jpg"
+      },
+      {
+        "title": "エッグタルト：マカオの修道院から台湾の「一斉追随」へと至る集合的記憶",
+        "desc": "1998 年に起きた急騰急落の「エッグタルト騒動」は、台湾社会における「一斉追随」型の消費行動を定義しただけでなく、台湾のケンタッキーフライドチキンを「フライドチキンに足を引っ張られたエッグタルト店」へと転換させることにもなりました。",
+        "category": "food",
+        "href": "/ja/food/portuguese-egg-tart-in-taiwan",
+        "date": "2026-07-30T04:02:34+08:00",
+        "readingTime": 6,
+        "image": "/article-images/food/dan-ta-hero.webp"
+      },
+      {
+        "title": "台湾の人工知能発展と未来戦略：ハードウェアの入場券は手に入れた、次の戦いはどこにあるのか",
+        "desc": "2024 年 10 月 8 日、ノーベル物理学賞は Hopfield と Hinton に授与され、翌日の化学賞は AlphaFold の 3 人に授与されました。同年 5 月 29 日、黄仁勲は台北の寧夏夜市（ナイトマーケット）で張忠謀と蚵仔煎（牡蠣オムレツ）を食べました。台湾は世界の AI サーバーの 90%、先端ウェハーの 72% を製造していますが、42 年にわたるニューラルネットワークと 50 年にわたるタンパク質フォールディング難題の解答には不在でした。PTT 創設者の杜奕瑾による Taiwan AI Labs から、国家科学及技術委員会が注力する繁体字中国語 LLM モデル TAIDE まで、この島は受託製造工場でいるだけで十分なのでしょうか。",
+        "category": "technology",
+        "href": "/ja/technology/artificial-intelligence-development-strategy",
+        "date": "2026-07-30T04:02:34+08:00",
+        "readingTime": 18,
+        "image": "/article-images/technology/alphafold-cbln1-structure-2025.webp"
+      },
       {
         "title": "台湾海洋貿易史",
         "desc": "大航海時代の台湾――国際貿易中心から海賊王国への興亡の物語",
@@ -755,8 +782,8 @@
         "image": ""
       },
       {
-        "title": "蔡英文：80 万票差の敗北から 817 万票での再選を果たした初の女性大統領へ",
-        "desc": "台湾初の女性大統領（2016〜2024年）。国際貿易法学者の出身であり、在任中にアジア初の同性婚専門法を成立させ、政府を代表して先住民族に謝罪した。排湾族の血を引く。",
+        "title": "蔡英文：敗選の夜から817万票へ、静かに歩んだ大統領8年",
+        "desc": "2012年1月14日、蔡英文は79万7561票差で敗北。8年後、817万231票で台湾総統直接選挙史上最多得票を記録。国際通商法学者から初の女性総統へ。原住民族への謝罪、同性婚姻専門法、年金改革、「現状維持」で成果を残しつつ、司法・住宅・エネルギー・中台関係の課題も残した。静かなリーダーシップが制度となり、制度が未完の隙間を残した8年。",
         "category": "people",
         "href": "/ja/people/tsai-ing-wen",
         "date": "2026-07-27T19:10:22+08:00",
@@ -789,36 +816,45 @@
         "date": "2026-07-27T19:10:22+08:00",
         "readingTime": null,
         "image": ""
-      },
-      {
-        "title": "阿里山：帝国の林場と高一生的山",
-        "desc": "1954年4月17日、鄒族のエリートである高一生が安坑刑場で銃殺されました。阿里山という観光名所として知られる山脈は、実は二つの帝国によって記憶が書き換えられた山なのです。",
-        "category": "history",
-        "href": "/ja/history/alishan-empire-forest-and-uongu-yatauyungana",
-        "date": "2026-07-27T18:58:03+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "青と緑を越える四つの物差し：一枚の田から一枚の健保カードまで、台湾で自らの政治を越えて生き残った政策",
-        "desc": "ある読者は、青と緑が食卓で罵り合う光景にうんざりし、本当に台湾にとってよかったことを記憶したいと考えました。そこで私たちは、過去七十年の十一の政策を取り上げました。権威主義体制が農地を強制徴収した土地改革、戒厳令解除、全民健康保険から、今なお議論が続く同性婚と前瞻基礎建設までです。あえて青と緑の物差しでは測らず、民生、民主、民権、主権という四つの物差しで見直しました。結論は少し直感に反します。自らの党派的出自を越えて生き残った政策は、生まれたその日にこそ、最も激しく争われていたことが多いのです。",
-        "category": "history",
-        "href": "/ja/history/bipartisan-good-policy",
-        "date": "2026-07-27T18:58:03+08:00",
-        "readingTime": null,
-        "image": "/article-images/history/cross-party-freeway-no1-2015.webp"
-      },
-      {
-        "title": "オランダ・スペイン・明鄭時代",
-        "desc": "1624 年にオランダ人が台南にゼーランディア城を築いてから、1683 年に施琅が澎湖へ上陸するまで――台湾が世界貿易地図に書き込まれた六十年と、四つの政権が交替した物語",
-        "category": "history",
-        "href": "/ja/history/dutch-spanish-and-koxinga-era",
-        "date": "2026-07-27T18:58:03+08:00",
-        "readingTime": 10,
-        "image": ""
       }
     ],
     "ko": [
+      {
+        "title": "신주현: 235년의 의민 신앙과 대만 최고 1인당 소득이 같은 터우첸강에 살다",
+        "desc": "1788년 겨울 신푸의 산비탈에 포충정이 기초를 놓았다. 린솽원 사건에서 희생된 200여 명의 하카 의민을 합장하기 위해서였다. 235년 뒤에도 의민절 음력 7월 20일의 십오연장 윤번 제전은 계속되고 있다. 5킬로미터 밖 주베이시는 2025년 1인당 소득 144만 2천 위안으로 대만 368개 향진시구 가운데 1위를 차지했고, 그 자력의 대상은 TSMC 바오산 2기 2나노미터 웨이퍼 공장이다. 신주현 주민의 67.8%는 하카인으로 대만에서 가장 높다. 그러나 현청 소재지 주베이의 22만 명 가운데 자기 고향의 집을 살 수 있는 하카 청년은 줄어들고 있다.",
+        "category": "geography",
+        "href": "/ko/geography/hsinchu-county",
+        "date": "2026-07-30T04:02:34+08:00",
+        "readingTime": 17,
+        "image": "/article-images/geography/hsinchu-county-hero.webp"
+      },
+      {
+        "title": "먀오리현: 하카의 ‘경항’이 깃든 현, 8년 만에 현 금고 부채를 두 배 넘게 만든 현장을 선출하다",
+        "desc": "일본 통치기 먀오리의 장뇌는 대만 전체의 95%를 차지했고, 싼이는 장뇌를 정제하고 남은 녹나무 그루터기로 목조각 산업을 일으켰다. 2002년 궁관 베이허촌에서 첫 퉁꽃 축제가 열렸다. 2008년 류정훙은 202억 부채의 현을 넘겨받았고, 2014년 퇴임 때 장부상 부채는 676억에 이르렀다. 그 사이 주펑민의 농약 음독, 장약방 강제 철거, 1.2억을 들여 지은 하카 원루의 ‘모기 건물’화가 있었다. 오늘날 53만 명이 하카 인구 비율 62.5%로 대만에서 두 번째로 높은 이 현에 살고 있다.",
+        "category": "geography",
+        "href": "/ko/geography/miaoli-county",
+        "date": "2026-07-30T04:02:34+08:00",
+        "readingTime": 16,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/2023_Tung_Blossom_Festival.jpg"
+      },
+      {
+        "title": "에그타르트: 마카오 수도원에서 타이완의 「우르르 몰림」 집단 기억까지",
+        "desc": "1998년에 급격히 일어났다가 사그라진 「에그타르트 소동」은 타이완 사회의 「우르르 몰림」 소비 행태를 규정했을 뿐 아니라, KFC가 타이완에서 어쩔 수 없이 「프라이드치킨에 가려진 에그타르트 가게」로 변신하게 만들었다.",
+        "category": "food",
+        "href": "/ko/food/portuguese-egg-tart-in-taiwan",
+        "date": "2026-07-30T04:02:34+08:00",
+        "readingTime": 6,
+        "image": "/article-images/food/dan-ta-hero.webp"
+      },
+      {
+        "title": "대만 인공지능 발전과 미래 전략: 하드웨어 입장권은 얻었다, 다음 전장은 어디인가",
+        "desc": "2024년 10월 8일 노벨 물리학상은 Hopfield와 Hinton에게, 다음 날 화학상은 AlphaFold의 세 연구자에게 수여되었다. 같은 해 5월 29일, 젠슨 황은 타이베이 닝샤 야시장, 즉 night market에서 모리스 창과 굴전인 어아젠을 먹었다. 대만은 전 세계 AI 서버의 90%, 첨단 웨이퍼의 72%를 제조하지만, 42년 신경망 역사와 50년 단백질 접힘 난제의 해답 속에서는 부재했다. PTT 창립자 두이진의 Taiwan AI Labs부터 국가과학기술위원회가 베팅한 번체중문 LLM 모델 TAIDE까지, 이 섬은 계속 대리생산 공장으로만 남아도 충분한가?",
+        "category": "technology",
+        "href": "/ko/technology/artificial-intelligence-development-strategy",
+        "date": "2026-07-30T04:02:34+08:00",
+        "readingTime": 18,
+        "image": "/article-images/technology/alphafold-cbln1-structure-2025.webp"
+      },
       {
         "title": "황금시대의 여운: 대만 차 문화의 변천과 공예",
         "desc": "1930년대 열강들이 생산량 제한 협정을 맺으면서 대만을 배제했고, 그 결과 대만 홍차는 329만 kg에서 580만 kg으로 급증했다. 90년 후, 같은 섬에서는 30분마다 버블티 가게가 문을 연다.",
@@ -1052,45 +1088,18 @@
         "date": "2026-07-27T18:59:24+08:00",
         "readingTime": 15,
         "image": ""
-      },
-      {
-        "title": "타이완의 전환정의",
-        "desc": "타이완은 권위주의 시대의 유죄 판결 약 6,000건을 취소했으나, 가해자가 책임을 지는 경우는 거의 없었다. 이 괴리는 백색공포 그 자체보다 설명하기 더 어렵다.",
-        "category": "history",
-        "href": "/ko/history/taiwan-transitional-justice",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Taiwan's White Terror",
-        "desc": "The 38-year martial law was not maintained by a few thousand secret agents, but by the 'joint liability guarantee' system that required every family in Taiwan to mutually guarantee each other for employment, school admission, and marriage. Chen Zhi-xiong, Shi Shui-huan, Gao Yi-sheng, and Bo Yang—four names, four reasons for arrest, one common machine.",
-        "category": "history",
-        "href": "/ko/history/taiwan-white-terror",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": 11,
-        "image": ""
-      },
-      {
-        "title": "10대 건설: 10억 달러 외환보유액 위에서의 2000억 위대한 도박",
-        "desc": "1973년 대만의 외환보유액은 10억 달러에 불과했으나, 장징궈는 10대 건설 추진을 위해 약 3000억 위안(대만 달러)을 투입하겠다고 선언했다. 이는 석유 위기와 외교적 고립에 대응하는 경제적 전환일 뿐만 아니라, 일제강점기 유산으로 남은 청사진을 재포장하여 국가 정체성으로 전환한 정치적 서사이다.",
-        "category": "history",
-        "href": "/ko/history/ten-major-construction-projects",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "세 명의 외국인이 본 을미: 사진작가의 앨범, 기자의 노트, 목사의 일기",
-        "desc": "1895년 을미의 변, 세 명의 외국인이 이 전쟁에 관한 가장 중요한 외국어 목격 문헌을 남겼다——일본 사진작가 엔도 마코토의 승리 앨범, 미국 기자 제임스 W. 데이비슨의 수군 노트, 일본 목사 호소카와 류의 도대 일기. 문제는 그들이 무엇을 보았는가가 아니라, 그들이 누구를 위해 보았는가이다.",
-        "category": "history",
-        "href": "/ko/history/three-foreigners-witness-1895-taiwan",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": null,
-        "image": ""
       }
     ],
     "fr": [
+      {
+        "title": "Tartelettes aux œufs : du monastère de Macao à la mémoire collective taïwanaise de l’« engouement collectif »",
+        "desc": "En 1998, une « crise des tartelettes aux œufs » faite d’essor fulgurant et d’effondrement brutal a non seulement défini à Taïwan les comportements de consommation « moutonniers », mais a aussi contraint KFC à s’y transformer en « boutique de tartelettes aux œufs retardée par le poulet frit ».",
+        "category": "food",
+        "href": "/fr/food/portuguese-egg-tart-in-taiwan",
+        "date": "2026-07-30T04:02:34+08:00",
+        "readingTime": 6,
+        "image": "/article-images/food/dan-ta-hero.webp"
+      },
       {
         "title": "Les feuilletons de 20h : Une allumette locale, foyer du culte et de la nostalgie dans le salon taïwanais",
         "desc": "Des drames larmoyants de Qiong Yao dans les années 1990 aux mèmes de *Thunder Fire* dans les années 2000, les feuilletons de 20h constituent non seulement le bruit de fond environnemental des Taïwanais, mais représentent aussi un miracle industriel « filmé et diffusé en temps réel » synchronisé avec la réalité.",
@@ -1351,18 +1360,27 @@
         "date": "2026-07-27T19:02:16+08:00",
         "readingTime": 22,
         "image": "/article-images/geography/wanhua-longshan-temple-2016.webp"
-      },
-      {
-        "title": "Le secteur Beida : trente ans d'urbanisme et une expérience de vie universitaire",
-        "desc": "Du champ de bataille historique de Longenpu en 1895 à la station de métro Daxuecheng en 2026, ceci est une encyclopédie approfondie sur la terre, l'esthétique et l'identité sélective.",
-        "category": "geography",
-        "href": "/fr/geography/beida-special-district-sanxia",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": 18,
-        "image": ""
       }
     ],
     "es": [
+      {
+        "title": "Condado de Miaoli: el condado hakka de cuello duro que eligió en ocho años a un magistrado que duplicó con creces la deuda del erario",
+        "desc": "Durante el dominio japonés, el alcanfor de Miaoli representaba el 95% del total de Taiwán; Sanyi inició su talla en madera con los tocones sobrantes de destilar alcanforeros. En 2002, la aldea Beihe de Gongguan organizó el primer Festival de la Flor de Tung. En 2008, Liu Cheng-hung recibió un condado con 20.200 millones de deuda; al dejar el cargo en 2014, la deuda contable era de 67.600 millones. Entre medio ocurrieron el suicidio con pesticida de Zhu Feng-min, la demolición forzosa de la Farmacia Zhang y el Hakka Round House, construido por 120 millones y convertido en un edificio mosquito. Hoy, 530.000 personas viven en este condado, el segundo de Taiwán con mayor proporción hakka: 62,5%.",
+        "category": "geography",
+        "href": "/es/geography/miaoli-county",
+        "date": "2026-07-30T04:02:34+08:00",
+        "readingTime": 16,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/2023_Tung_Blossom_Festival.jpg"
+      },
+      {
+        "title": "Desarrollo de la inteligencia artificial en Taiwán y estrategia futura: ya obtuvo el boleto de entrada del hardware, ¿dónde será la próxima batalla?",
+        "desc": "El 8 de octubre de 2024, el Nobel de Física fue otorgado a Hopfield y Hinton; al día siguiente, el de Química fue para las tres personas detrás de AlphaFold. El 29 de mayo de ese mismo año, Jensen Huang comió omelet de ostras con Morris Chang en el mercado nocturno de Ningxia, en Taipéi. Taiwán fabrica el 90% de los servidores de IA del mundo y el 72% de las obleas avanzadas, pero estuvo ausente en las respuestas a 42 años de redes neuronales y a 50 años del problema del plegamiento de proteínas. Desde Taiwan AI Labs, de Ethan Tu, fundador de PTT, hasta TAIDE, el modelo LLM en chino tradicional por el que apuesta el Consejo Nacional de Ciencia y Tecnología, ¿le basta a esta isla con ser solo una fábrica de manufactura por encargo?",
+        "category": "technology",
+        "href": "/es/technology/artificial-intelligence-development-strategy",
+        "date": "2026-07-30T04:02:34+08:00",
+        "readingTime": 18,
+        "image": "/article-images/technology/alphafold-cbln1-structure-2025.webp"
+      },
       {
         "title": "El Gran Recall",
         "desc": "En 2025, la sociedad civil taiwanesa lanzó la campaña de recall (destitución) más grande de su historia, dirigida contra legisladores del Kuomintang que impulsaron proyectos de ley controvertidos, en un intento por corregir el desequilibrio de poder en el Yuan Legislativo. Las tres rondas de votación fueron rechazadas en su totalidad, constituyendo un ejercicio y una prueba a gran escala de la democracia directa en Taiwán.",
@@ -1614,24 +1632,6 @@
         "date": "2026-07-27T19:00:44+08:00",
         "readingTime": 22,
         "image": "/article-images/geography/sisi-south-village-overview-2013.webp"
-      },
-      {
-        "title": "Distrito Especial de Beida: treinta años de planificación urbana y experimento de vida universitaria",
-        "desc": "Desde el antiguo campo de batalla de Longenpu en 1895 hasta la ciudad universitaria del metro en 2026, esta es una enciclopedia profunda sobre tierra, estética e identidad selectiva.",
-        "category": "geography",
-        "href": "/es/geography/beida-special-district-sanxia",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "Calle de aguas termales de Beitou: de la extracción de azufre en 1697 al Museo de Aguas Termales en 2026, la misma fuente de montaña pasó por cuatro generaciones de habitantes",
-        "desc": "En 1697, Yu Yonghe llegó a estas montañas para extraer azufre e intercambiar tierra sulfurosa con el pueblo ketagalan; en 1896, Hirata Gengo, de Osaka, construyó en el actual número 234 de Guangming Road el Tenguan, primer hotel de aguas termales de Taiwán; en 1913 abrió el baño público de ladrillo rojo diseñado por Moriyama Matsunosuke; en 1923, el príncipe heredero Hirohito vino a bañarse una vez; en 1967, una fotografía de la revista Time enfureció a Chiang Kai-shek; en 1979, tras la abolición de la prostitución por el alcalde Lee Teng-hui, los salones de acompañantes apagaron sus luces; en 1998, el baño público de ladrillo rojo abandonado se convirtió en museo. La misma fuente de montaña humeante fue descubierta tres veces por forasteros y adaptada por cuatro generaciones de habitantes.",
-        "category": "geography",
-        "href": "/es/geography/beitou-hot-spring-street",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": 25,
-        "image": "/article-images/geography/beitou-hot-spring-museum-2020.webp"
       }
     ]
   }

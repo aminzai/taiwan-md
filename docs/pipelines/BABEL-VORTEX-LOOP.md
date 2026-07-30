@@ -1,9 +1,9 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.47)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.48)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.47'
+current_version: 'v1.48'
 last_updated: 2026-07-30
 last_session: '2026-07-30-230518-manual（tags 基線豁免＋31b 攻堅）'
 sister_docs:
@@ -11,7 +11,7 @@ sister_docs:
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.47
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.48
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,7 +261,7 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
-- v1.47（2026-07-30）：tags 檢查補「已接受基線」豁免。48h 內 ja 50 次
+- v1.48（2026-07-30）：tags 檢查補「已接受基線」豁免。48h 內 ja 50 次
   `tags not identical to zh` 全是同一假陽性家族：動物園、山岳這類文章的
   tags 是專有名詞（台北動物園／嘉明湖／六福村），正確的日文本來就跟中文
   同形，60% 重疊門檻把每一次重譯永久誤殺。新規則：候選 tags ≥60% 同 zh
@@ -273,6 +273,12 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
   20GB 裝得下 24GB×0.9），對老五語 0-28% 通過率的正面攻堅；muse-bot
   fleetlib 新增 VRAM fit guard（模型裝不下的卡不核發，laptop-4090 16GB
   vs 26b 18GB 實例）。
+- v1.47（2026-07-30）：修正乾淨整合 worktree 用系統 Python 3.9 執行脈搏時，
+  `progress-snapshot.py` 的 `dict | None` 型別註記在載入期崩潰，`babel-pulse.py`
+  卻沿用舊 rows 仍印出「整點落地 commit 完成」的假綠。快照模組加 postponed
+  annotations 相容 3.9；快照非零時 pulse 現在也非零停止，不再以陳舊 gap 冒充
+  本輪讀數。產線呼叫端仍可容忍 pulse 非零，不會因此殺 dispatcher。
+
 - v1.46（2026-07-30）：Phase N 的 shape retry 改成同尺寸重播失敗後一次有界
   二分。v1.45 上線一小時內兩篇都正確觸發第二次重試，但 0/2 救回，兩次仍是
   `dict keys=['n', 'title', 'desc']`；證明 15 筆批次對當前 reasoning 輸出會

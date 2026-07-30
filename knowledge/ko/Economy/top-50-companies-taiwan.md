@@ -170,6 +170,14 @@ _윈린 마이랴오 포모사플라스틱 제6나프타분해 산업단지 항�
 - [대만 국방과 군사 현대화](/ko/society/taiwan-defense-modernization) — silicon shield와 50대 기업의 지정학적 연동
 - [대만 과학단지](/ko/technology/science-park-development) — 50대 기업 반도체 자리를 생산하는 기지, 세 개 단지의 생산액 집중도가 공간 위에 펼쳐진 모습
 
+## 이미지 출처
+
+이 글은 퍼블릭 도메인 / Creative Commons 라이선스 이미지 3장을 사용했으며, 원본 서버 핫링크를 피하기 위해 모두 `public/article-images/economy/`에 캐시했다.
+
+- **Hero**: [Tsmc factory hsinchu](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) — Photo: Arusanov, 2009-07-20, 신주과학단지 TSMC 공장 구역 외관. Public domain via Wikimedia Commons.
+- **Inline 1(타이베이 101 / 증권거래소)**: [Taipei 101 20230511 114624](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg) — Photo: Anas1712, 2023-05-11, 타이베이 101 빌딩 외관, 대만증권거래소 본부 소재지. CC BY 4.0 via Wikimedia Commons.
+- **Inline 2(마이랴오 제6나프타분해단지)**: [Formosa Plastics Group Mail-Liao Industrial Complex, Yunlin (Taiwan)](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>) — Photo: Malcolm Koo (User:Mk2010), 2014-03-15, 윈린 마이랴오 포모사플라스틱 제6나프타분해 산업단지 항공사진. CC BY-SA 3.0 via Wikimedia Commons.
+
 ## 참고 자료
 
 [^1]: [Tom's Hardware：Jensen Huang dines at Taipei night market with Taiwan tech CEOs](https://www.tomshardware.com/tech-industry/jensen-huang-dines-at-taipei-night-market-with-taiwan-tech-ceos) — 2024-05-28 젠슨 황, 장중머우, 차이리싱, 린바이리, 야오런시 다섯 사람의 닝샤 야시장 저녁 식사에 대한 언론 기록.
@@ -233,11 +241,3 @@ _윈린 마이랴오 포모사플라스틱 제6나프타분해 산업단지 항�
 [^30]: [The Reporter: 제6나프타분해단지 주민 건강 위험 장기 조사](https://www.twreporter.org/a/fpc-sixth-naphtha-cracker-contaminant-detection) — 국립대만대 공중보건학과 잔창취안 교수의 2012년 연구: 10킬로미터 안 주민 소변의 중금속 대사물 농도가 10킬로미터 밖의 5.5배, 제6나프타분해단지 132종 독성 발암물질, 연간 PM2.5 배출 14만 톤 수준.
 
 [^31]: [지구공민기금회: 가오슝 철강업 대기오염원 분석](https://www.cet-taiwan.org/) — 가오슝 철강업 대기오염의 80-90%가 중국강철에서 나오며, PM 36%와 SOx 32%가 철강업에서 나온다는 자료. 중국강철이 2017-2020년에 47.56억 대만달러를 투자해 개선한 전후 비교 수치.
-
-## 이미지 출처
-
-이 글은 퍼블릭 도메인 / Creative Commons 라이선스 이미지 3장을 사용했으며, 원본 서버 핫링크를 피하기 위해 모두 `public/article-images/economy/`에 캐시했다.
-
-- **Hero**: [Tsmc factory hsinchu](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) — Photo: Arusanov, 2009-07-20, 신주과학단지 TSMC 공장 구역 외관. Public domain via Wikimedia Commons.
-- **Inline 1(타이베이 101 / 증권거래소)**: [Taipei 101 20230511 114624](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg) — Photo: Anas1712, 2023-05-11, 타이베이 101 빌딩 외관, 대만증권거래소 본부 소재지. CC BY 4.0 via Wikimedia Commons.
-- **Inline 2(마이랴오 제6나프타분해단지)**: [Formosa Plastics Group Mail-Liao Industrial Complex, Yunlin (Taiwan)](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>) — Photo: Malcolm Koo (User:Mk2010), 2014-03-15, 윈린 마이랴오 포모사플라스틱 제6나프타분해 산업단지 항공사진. CC BY-SA 3.0 via Wikimedia Commons.

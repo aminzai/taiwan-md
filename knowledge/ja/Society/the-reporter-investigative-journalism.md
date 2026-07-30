@@ -265,6 +265,21 @@ AIツールの参入は、さらに新しい変数です。大規模言語モデ
 - [毒ジャガイモ認知戦](/society/毒馬鈴薯認知作戰) — 具体的な認知戦事件のケーススタディ。
 - [PTT批踢踢](/ja/technology/ptt-bulletin-board-system) — 台湾の前インターネット時代の公共圏。『報導者』と同じ「プラットフォームは必ずしも中立ではない」という文脈にある。
 
+## 圖片來源
+
+本稿は『報導者』公式ブランド素材および作品画像5点を、fair use（editorial commentary on The Reporter's work）の原則に基づいて引用しています。すべて `public/article-images/society/` にキャッシュし、出典サーバーへのホットリンクを避けています。あわせて『報導者』公式YouTubeチャンネル動画2本を埋め込んでいます。
+
+- [『報導者』ブランド識別画像](https://www.twreporter.org) — 報導者 The Reporter，Fair use（hero）
+- [「扉を開いて参加し、集団で声を上げる」識別標語](https://www.twreporter.org) — 報導者 The Reporter，Fair use
+- [「台湾遠洋漁業の大マグロ鱸鰻」インフォグラフィック（2017 SOPA卓越インフォグラフィック賞最優秀賞）](https://www.twreporter.org/a/infographic-far-sea-fishing-gcs) — 報導者 The Reporter，Fair use
+- [統一戦線工作同心円特集関係図（2026）](https://www.twreporter.org/a/united-front-work-powered-by-holger-chen-and-china-influencers) — 報導者 The Reporter（デザイン：黄禹禎、整理：孔徳廉、方徳琳），Fair use
+- [『少年報導者』公開宣伝画像（2022）](https://kids.twreporter.org) — 報導者 The Reporter，Fair use
+
+埋め込み動画（『報導者』公式YouTubeチャンネル）：
+
+- [医療美容盗撮騒動：台湾の医療美容規制に何が起きているのか？](https://www.youtube.com/watch?v=_AdtqBm7Hk4) — 報導者 The Reporter
+- [『報導者』創立周年、大きな声で話します！](https://www.youtube.com/watch?v=H_PiSMCR6Sc) — 報導者 The Reporter
+
 ## 參考資料
 
 [^1]: 何栄幸氏Facebook投稿、2025-09-14：「『報導者』公開初月、定期定額寄付者は4人しかおらず、私はこの数字を同僚たちに知らせる勇気がまったくなかった」。facebook.com/twreporter/posts/1235665585269425 を参照。
@@ -386,18 +401,3 @@ AIツールの参入は、さらに新しい変数です。大規模言語モデ
 [^59]: 2025年偽情報調査、台湾の人々の約96%が偽情報の普及を感じている（原調査は台湾大学レジリエント社会研究センター、The News Lensによる報道）。thenewslens.com/article/267704。
 
 [^60]: Reuters Institute Digital News Report 2024 Taiwan：ニュース全体への信頼度33%。reutersinstitute.politics.ox.ac.uk/digital-news-report/2024/taiwan。
-
-## 圖片來源
-
-本稿は『報導者』公式ブランド素材および作品画像5点を、fair use（editorial commentary on The Reporter's work）の原則に基づいて引用しています。すべて `public/article-images/society/` にキャッシュし、出典サーバーへのホットリンクを避けています。あわせて『報導者』公式YouTubeチャンネル動画2本を埋め込んでいます。
-
-- [『報導者』ブランド識別画像](https://www.twreporter.org) — 報導者 The Reporter，Fair use（hero）
-- [「扉を開いて参加し、集団で声を上げる」識別標語](https://www.twreporter.org) — 報導者 The Reporter，Fair use
-- [「台湾遠洋漁業の大マグロ鱸鰻」インフォグラフィック（2017 SOPA卓越インフォグラフィック賞最優秀賞）](https://www.twreporter.org/a/infographic-far-sea-fishing-gcs) — 報導者 The Reporter，Fair use
-- [統一戦線工作同心円特集関係図（2026）](https://www.twreporter.org/a/united-front-work-powered-by-holger-chen-and-china-influencers) — 報導者 The Reporter（デザイン：黄禹禎、整理：孔徳廉、方徳琳），Fair use
-- [『少年報導者』公開宣伝画像（2022）](https://kids.twreporter.org) — 報導者 The Reporter，Fair use
-
-埋め込み動画（『報導者』公式YouTubeチャンネル）：
-
-- [医療美容盗撮騒動：台湾の医療美容規制に何が起きているのか？](https://www.youtube.com/watch?v=_AdtqBm7Hk4) — 報導者 The Reporter
-- [『報導者』創立周年、大きな声で話します！](https://www.youtube.com/watch?v=H_PiSMCR6Sc) — 報導者 The Reporter

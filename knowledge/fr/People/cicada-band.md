@@ -277,6 +277,14 @@ Les albums complets, clips et captations de concerts sont disponibles sur la [ch
 - [Écologie marine de Taïwan](/fr/nature/taiwan-marine-ecology) — arrière-plan écologique de l’album marin de 2017
 - [Montagnes et culture de l’alpinisme à Taïwan](/fr/nature/taiwan-mountains-and-hiking-culture) — contexte de la philosophie montagnarde de Chiang Chih-chieh
 
+## Sources des images
+
+Cet article utilise une image sous licence CC BY-SA 4.0, mise en cache dans `public/article-images/people/` afin d’éviter le hotlinking vers le serveur source :
+
+- [翠池 汪大智 05](https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg) — Photo : Blackjack633, CC BY-SA 4.0 (image principale, lac Cuichi à Xueshan)
+
+Les vidéos intégrées dans l’article sont des clips officiels mis en ligne sur la [chaîne YouTube officielle de Cicada @Cicadatw](https://www.youtube.com/@Cicadatw), présentés par iframe ; les droits appartiennent au groupe et aux labels, conformément aux conditions d’utilisation standard de l’intégration YouTube.
+
 ## Références
 
 [^1]: [Méthode de création de Chiang Chih-chieh et révélation en plongée - IN IN TO MUSIC](https://inintomusic.asia/cicada-interview/) — Chiang Chih-chieh décrit sa méthode : « Je suis très intuitive : quand je m’assois devant le piano et que le rythme rejoint l’image que j’ai en moi » ; elle décrit le rythme de l’eau dans _Seeking the Sources_ : « Quand vous rencontrez une pierre, la sensation est “waouh ?” ; puis vous passez à côté en coulant » ; révélation lors de la plongée à Lanyu : « La seule chose que vous pouvez contrôler, c’est votre respiration », « vous devez être honnête avec vous-même ».
@@ -332,11 +340,3 @@ Les albums complets, clips et captations de concerts sont disponibles sur la [ch
 [^26]: [Résultats de la 46e cérémonie des Japan Academy Film Prize - site officiel](https://www.japan-academy-prize.jp/prizes/?t=46) — 46e édition (2023) : le film _A Man_ (_Aru otoko_) remporte plusieurs prix majeurs, dont celui du meilleur film ; Cicada pour _A Man_ figure avec Yori Hiroshi, Takami Yu et FUKUSHIGE MARI parmi les lauréats du « prix d’excellence pour la musique » (niveau nomination, quatre noms listés) ; le « meilleur prix de musique » de cette édition est attribué à RADWIMPS / Jinnouchi Kazuma pour _Suzume_. Autrement dit : le film reçoit le prix du meilleur film, et la musique de Cicada reçoit le prix d’excellence pour la musique, non le meilleur prix de musique.
 
 [^27]: [Cirques de Xueshan et formes glaciaires de Taïwan - Musée national des sciences naturelles](https://epub.nmns.edu.tw/i401-1/) — Le cirque n° 1 de Xueshan est « le représentant de la plus grande et plus complète forme glaciaire de Taïwan » (citant Lin Chao-chi, 1957) ; pendant la dernière période glaciaire (environ 27 000 à 18 000 ans avant le présent), les hautes montagnes de Taïwan développent des glaciers de montagne et des formes glaciaires ; le lac Cuichi est un lac de cirque, entouré de la plus grande forêt pure de genévriers de Yushan à Taïwan. Les vestiges glaciaires des hautes montagnes taïwanaises ont longtemps été débattus dans le monde académique, avant que les enquêtes détaillées de Wang Xin et d’autres en 1998 ne confirment les indices d’érosion glaciaire.
-
-## Sources des images
-
-Cet article utilise une image sous licence CC BY-SA 4.0, mise en cache dans `public/article-images/people/` afin d’éviter le hotlinking vers le serveur source :
-
-- [翠池 汪大智 05](https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg) — Photo : Blackjack633, CC BY-SA 4.0 (image principale, lac Cuichi à Xueshan)
-
-Les vidéos intégrées dans l’article sont des clips officiels mis en ligne sur la [chaîne YouTube officielle de Cicada @Cicadatw](https://www.youtube.com/@Cicadatw), présentés par iframe ; les droits appartiennent au groupe et aux labels, conformément aux conditions d’utilisation standard de l’intégration YouTube.

@@ -196,6 +196,24 @@ Cent trente ans ont passé, et cette voie est encore là. Elle a seulement chang
 
 ---
 
+## Sources des images
+
+Cet article utilise 3 images sous licence CC, toutes mises en cache dans `public/article-images/history/` afin d’éviter les liens directs vers les serveurs sources :
+
+- [Chauffeur de locomotive à vapeur sur la ligne de Taitung, années 1970](https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg) — Photo fournie par : Chou Yong-fu, années 1970, CC BY 4.0, Wikimedia Commons File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg
+- [Locomotives à vapeur du dépôt circulaire de Changhua, 2009](https://commons.wikimedia.org/wiki/File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg) — Photo : Neeson Hsu, 2009-08-30, CC BY 2.0, Wikimedia Commons File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg
+- [DT668 poussée par E327 sur la ligne côtière, 2021](https://commons.wikimedia.org/wiki/File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg) — Photo : Cheng-en Cheng, 2021-10-25, CC BY-SA 2.0, Wikimedia Commons File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg
+
+---
+
+## Pour aller plus loin
+
+- [Période des Qing](/fr/history/qing-dynasty-rule) — Le contexte politique dans lequel Liu Mingchuan commença à poser des rails
+- [Période coloniale japonaise](/fr/history/japanese-colonial-era) — Le contexte colonial dans lequel Hasegawa Kinsuke et Kawai Shitarō reprirent la construction ferroviaire de Taïwan
+- [Guerre franco-chinoise](/fr/history/sino-french-war-in-taiwan) — La guerre à la suite de laquelle Liu Mingchuan fut nommé premier gouverneur de Taïwan, puis lança immédiatement la construction du chemin de fer de Keelung à Hsinchu
+- [Système de transport de Taïwan](/fr/lifestyle/transportation-system) — La place du chemin de fer d’après-guerre dans un réseau de transports diversifié, entre routes, aéroports et métro
+- [Train à grande vitesse de Taïwan](/fr/lifestyle/taiwan-high-speed-rail) — Le système ferroviaire à grande vitesse ouvert en 2007, prolongement contemporain de l’histoire ferroviaire de Taïwan
+
 ## Références
 
 - [Taiwan Memory Explorer : 24 octobre 1908, cérémonie d’achèvement de la ligne longitudinale de Taïwan](https://www.twmemory.org/?p=7323)
@@ -238,21 +256,3 @@ Cent trente ans ont passé, et cette voie est encore là. Elle a seulement chang
 [^f12]: [Wikipédia : train Ziqiang](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E5%BC%B7%E8%99%9F%E5%88%97%E8%BB%8A) — Contexte complet de l’enquête de l’Association de sondage d’opinion publique en 1976, de la décision de Hsieh Tung-min sur le nom, et de l’entrée en service de l’EMU100 le 1978-08-15, avec l’allusion à « solennité, respect de soi et persévérance ; garder son calme face au changement ».
 
 [^f13]: [Wikipédia : train Fuxing](https://zh.wikipedia.org/zh-tw/%E5%BE%A9%E8%88%88%E8%99%9F%E5%88%97%E8%BB%8A) — Mise en service le 1980-07-06, voitures climatisées fabriquées par Tang Eng Iron Works, et positionnement comme voitures voyageurs de troisième niveau.
-
-## Sources des images
-
-Cet article utilise 3 images sous licence CC, toutes mises en cache dans `public/article-images/history/` afin d’éviter les liens directs vers les serveurs sources :
-
-- [Chauffeur de locomotive à vapeur sur la ligne de Taitung, années 1970](https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg) — Photo fournie par : Chou Yong-fu, années 1970, CC BY 4.0, Wikimedia Commons File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg
-- [Locomotives à vapeur du dépôt circulaire de Changhua, 2009](https://commons.wikimedia.org/wiki/File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg) — Photo : Neeson Hsu, 2009-08-30, CC BY 2.0, Wikimedia Commons File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg
-- [DT668 poussée par E327 sur la ligne côtière, 2021](https://commons.wikimedia.org/wiki/File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg) — Photo : Cheng-en Cheng, 2021-10-25, CC BY-SA 2.0, Wikimedia Commons File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg
-
----
-
-## Pour aller plus loin
-
-- [Période des Qing](/fr/history/qing-dynasty-rule) — Le contexte politique dans lequel Liu Mingchuan commença à poser des rails
-- [Période coloniale japonaise](/fr/history/japanese-colonial-era) — Le contexte colonial dans lequel Hasegawa Kinsuke et Kawai Shitarō reprirent la construction ferroviaire de Taïwan
-- [Guerre franco-chinoise](/fr/history/sino-french-war-in-taiwan) — La guerre à la suite de laquelle Liu Mingchuan fut nommé premier gouverneur de Taïwan, puis lança immédiatement la construction du chemin de fer de Keelung à Hsinchu
-- [Système de transport de Taïwan](/fr/lifestyle/transportation-system) — La place du chemin de fer d’après-guerre dans un réseau de transports diversifié, entre routes, aéroports et métro
-- [Train à grande vitesse de Taïwan](/fr/lifestyle/taiwan-high-speed-rail) — Le système ferroviaire à grande vitesse ouvert en 2007, prolongement contemporain de l’histoire ferroviaire de Taïwan

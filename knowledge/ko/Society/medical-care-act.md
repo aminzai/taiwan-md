@@ -193,6 +193,12 @@ _2011년 5월 10일, 타이베이 228 평화기념공원 북서쪽 연못가에�
 - [대만 재생의료 양법의 연혁과 종사자 고백](/ko/society/taiwan-regenerative-medicine-laws) — 2024년에 통과된 재생의료 양법은 의료법에서 독립한 특별법으로, 세포치료 규범을 보완한다
 - [대만 재난의료체계](/ko/technology/taiwan-disaster-medicine-system) — 의료법 제1조의 “의료자원의 합리적 분포”가 대형 재난 현장에서 실제로 어떻게 작동하는가
 
+## 이미지 출처
+
+이 글은 CC 라이선스 이미지 1장을 사용하며, 원본 서버 핫링크를 피하기 위해 `public/article-images/society/`에 캐시했다.
+
+- **Hero**: [NTU Hospital View from Pond of Taipei New Park](https://commons.wikimedia.org/wiki/File:NTU_Hospital_View_from_Pond_of_Taipei_New_Park_20110510.jpg) — Photo: 玄史生, 2011-05-10, 228 평화기념공원 북서쪽 연못에서 동쪽으로 바라본 대만대학병원. CC BY-SA 3.0 via Wikimedia Commons.
+
 ## 참고자료
 
 [^1]: [중앙사: 입법원 3독 통과, 의료법에 3교대 간호사 대 환자 비율 신설](https://www.cna.com.tw/news/aipl/202605080198.aspx) — 2026년 5월 8일 국제 간호사의 날 전야 3독 통과, 처벌 구간, 시행일 2028년 5월.
@@ -258,9 +264,3 @@ _2011년 5월 10일, 타이베이 228 평화기념공원 북서쪽 연못가에�
 [^31]: [전국법규자료고: 환자자주권리법](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020189) — 2015년 12월 18일 3독 통과, 2019년 1월 6일 시행. 아시아 최초로 환자의 자주권리를 완전하게 보장한 특별법.
 
 [^32]: [위생복리부 보도자료: 재생의료 양법 3독 통과](https://www.mohw.gov.tw/cp-16-78933-1.html) — 2024년 6월 4일 《재생의료법》과 《재생의료제제 조례》 3독 통과, 2024년 6월 19일 공포.
-
-## 이미지 출처
-
-이 글은 CC 라이선스 이미지 1장을 사용하며, 원본 서버 핫링크를 피하기 위해 `public/article-images/society/`에 캐시했다.
-
-- **Hero**: [NTU Hospital View from Pond of Taipei New Park](https://commons.wikimedia.org/wiki/File:NTU_Hospital_View_from_Pond_of_Taipei_New_Park_20110510.jpg) — Photo: 玄史生, 2011-05-10, 228 평화기념공원 북서쪽 연못에서 동쪽으로 바라본 대만대학병원. CC BY-SA 3.0 via Wikimedia Commons.

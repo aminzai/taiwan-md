@@ -301,6 +301,9 @@ def main():
              "--note", "（babel-pulse 常駐儀器自動快照）"])
     if r.returncode != 0:
         log("progress-snapshot 失敗：" + (r.stdout + r.stderr)[-400:])
+        # 沒有本輪新快照時，繼續拿舊 rows 產生看板會把陳舊 gap 偽裝成成功落地。
+        # 呼叫端可自行決定是否容忍 pulse 非零；儀器本身不宣稱假綠。
+        return 1
 
     rows = progress_rows()
     if not rows:

@@ -236,6 +236,16 @@ _스린관저 정관. Photo: Kuailong. [License via Wikimedia Commons](https://c
 - [청치 시기](/ko/history/qing-dynasty-rule) — 1796-1895년 한족 개간, 장저우·취안저우 무력 충돌, 반영청의 새 거리 계획을 둘러싼 청대 백 년의 배경
 - [다룽둥](/ko/geography/dalongdong) — 1853년 정하교병에서 패한 퉁안 사람들이 물러나 지킨 방어 중심. 스린의 1859년 장저우·취안저우 무력 충돌과 함께 청대 북타이완의 두 집단 무력 충돌 경관을 이룬다
 
+## 이미지 출처
+
+이 글은 CC 라이선스 Wikimedia Commons 이미지 5장(hero + 본문 4장)을 사용했다. 모두 원천 서버 핫링크를 피하기 위해 `public/article-images/geography/`에 캐시되어 있다.
+
+- [File:Shilin Cixian Temple 20100213.jpg](https://commons.wikimedia.org/wiki/File:Shilin_Cixian_Temple_20100213.jpg) — 스린 츠셴궁 삼천전, Photo: 龍本, 2010-02-13, CC BY-SA 3.0
+- [File:2012-11-19 night market and the Shilin Cixian Temple.jpg](https://commons.wikimedia.org/wiki/File:2012-11-19_night_market_and_the_Shilin_Cixian_Temple.jpg) — 스린 야시장과 츠셴궁이 나란히 선 모습, Photo: Maya-Anaïs Y., 2012-11-19, CC BY 2.0
+- [File:Shilin Night Market Dadong Road.jpg](https://commons.wikimedia.org/wiki/File:Shilin_Night_Market_Dadong_Road.jpg) — 스린 야시장 다둥로 야경, Photo: Ganmatthew, 2024-06-04, CC BY 4.0
+- [File:Shilin Cixian Temple roof 20190517.jpg](https://commons.wikimedia.org/wiki/File:Shilin_Cixian_Temple_roof_20190517.jpg) — 츠셴궁 지붕 전점 장식, Photo: Adam Jones from Kelowna, BC, Canada, 2019-05-17, CC BY-SA 2.0
+- [File:Chiang Kai-shek Shilin Residence.JPG](https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_Shilin_Residence.JPG) — 스린관저 정관, Photo: Kuailong, CC BY-SA 3.0
+
 ## 참고 자료
 
 [^1]: [士林慈諴宮 — 臺灣宗教文化地圖](https://taiwangods.moi.gov.tw/html/cultural/3_0011.aspx?i=64) — 내정부 종교문화자산 공식 페이지. 원문은 “스린 츠셴궁은 청 가경 원년(서기 1796년)에 창건되었다”, “청 동치 3년(서기 1864년)에 선민 반영청(1821-1873)의 토지 헌납과 조칠화(생몰년 미상) 및 신도들의 관대한 기부로 천후궁을 현재 위치로 옮겨 재건했다”, “광서 6년(서기 1880년)에 《서경》의 ‘함어소민’에서 마주의 자비와 백성을 돕고 화목하게 한다는 뜻을 취해 츠셴궁이라 명명했다”, “쇼와 2년(서기 1927년)에 재건위원회 위원장 반광해, 주임위원 하병규 등이 재건을 발의했으며, 이 공사는 규모가 커 10년에 걸쳐 완공되었고, 오늘날 츠셴궁의 사원 모습은 바로 이 개축으로 이루어졌다”, “민국 74년(서기 1985년)에 내정부가 국가 3급 고적으로 공고했고, 뒤에 민국 86년(서기 1997년) 문화자산법 개정 뒤 타이베이시 시 지정 고적으로 변경되었다”는 전체 시간축을 기록한다.
@@ -285,13 +295,3 @@ _스린관저 정관. Photo: Kuailong. [License via Wikimedia Commons](https://c
 [^23]: [臺北市士林區士林國民小學 — 維基百科](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E5%8C%97%E5%B8%82%E5%A3%AB%E6%9E%97%E5%8D%80%E5%A3%AB%E6%9E%97%E5%9C%8B%E6%B0%91%E5%B0%8F%E5%AD%B8) + [全台最早創校國小在士林 — 中央社訊息](https://www.cna.com.tw/postwrite/chi/319349) — 스린초등학교의 전체 학교사. “1895년 즈산옌에서 창립. 1896년 1월 1일 육씨선생 사건 발생, 4월 22일 ‘국어학교 부속 즈산옌 학당’으로 개명, 6월 1일 ‘국어학교 제1부속학교’로 개명, 1898년 10월 1일 ‘바즈란 공학교’로 개명”, “1921년 ‘스린 공학교’로 개명. 1941년 ‘스린 국민학교’로 개명”, “본교는 서기 1895년에 창립된 ‘즈산옌 학당’으로, 지금까지 130년 역사를 지녔으며, 전 타이완에서 가장 먼저 세워진 국민학교이다”라는 전체 공식 기록을 담고 있다.
 
 [^24]: [士林官邸 — 維基百科](https://zh.wikipedia.org/zh-tw/%E5%A3%AB%E6%9E%97%E5%AE%98%E9%82%B8) + [蔣中正宋美齡士林官邸 — 國定古蹟環景導覽](https://view.boch.gov.tw/NationalHistorical/itemspage.aspx?id=8) — 스린관저의 전체 역사. 일제 시기 원래 “스린 원예시험분소”였고, 1950년 장제스와 쑹메이링이 입주해 1975년 장제스 사망까지 모두 26년 거주했으며, 2003년 쑹메이링이 사망했고, 1996년 공원 부분이 대외 개방되어 “타이베이시 최초의 생태공원”이 되었으며, 2011년 정관 자체가 예약 관람으로 대외 개방된 전체 시간축과 행정 연혁을 담고 있다.
-
-## 이미지 출처
-
-이 글은 CC 라이선스 Wikimedia Commons 이미지 5장(hero + 본문 4장)을 사용했다. 모두 원천 서버 핫링크를 피하기 위해 `public/article-images/geography/`에 캐시되어 있다.
-
-- [File:Shilin Cixian Temple 20100213.jpg](https://commons.wikimedia.org/wiki/File:Shilin_Cixian_Temple_20100213.jpg) — 스린 츠셴궁 삼천전, Photo: 龍本, 2010-02-13, CC BY-SA 3.0
-- [File:2012-11-19 night market and the Shilin Cixian Temple.jpg](https://commons.wikimedia.org/wiki/File:2012-11-19_night_market_and_the_Shilin_Cixian_Temple.jpg) — 스린 야시장과 츠셴궁이 나란히 선 모습, Photo: Maya-Anaïs Y., 2012-11-19, CC BY 2.0
-- [File:Shilin Night Market Dadong Road.jpg](https://commons.wikimedia.org/wiki/File:Shilin_Night_Market_Dadong_Road.jpg) — 스린 야시장 다둥로 야경, Photo: Ganmatthew, 2024-06-04, CC BY 4.0
-- [File:Shilin Cixian Temple roof 20190517.jpg](https://commons.wikimedia.org/wiki/File:Shilin_Cixian_Temple_roof_20190517.jpg) — 츠셴궁 지붕 전점 장식, Photo: Adam Jones from Kelowna, BC, Canada, 2019-05-17, CC BY-SA 2.0
-- [File:Chiang Kai-shek Shilin Residence.JPG](https://commons.wikimedia.org/wiki/File:Chiang_Kai-shek_Shilin_Residence.JPG) — 스린관저 정관, Photo: Kuailong, CC BY-SA 3.0

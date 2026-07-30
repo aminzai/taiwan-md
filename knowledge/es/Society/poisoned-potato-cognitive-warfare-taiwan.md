@@ -333,6 +333,11 @@ Shen Po-yang dijo otra frase de nivel superior: "La construcción de la concienc
 
 ---
 
+## Fuentes de imágenes
+
+- **Hero**: [Niños recogiendo patatas en una granja grande, vecindario de Caribou, Condado de Aroostook, Me. Las escuelas no abren hasta que las patatas se cosechan](https://commons.wikimedia.org/wiki/File:Children_gathering_potatoes_on_a_large_farm,_vicinity_of_Caribou,_Aroostook_County,_Me._Schools_do_not_open_until_the_potatoes_are_harvested_LCCN2017877412.jpg) — US Farm Security Administration/Office of War Information / 1940 / Dominio Público (PD-USGov, NARA / Biblioteca del Congreso Colección FSA-OWI)
+- **Inline §200 ppm**: [Solanine.svg](https://commons.wikimedia.org/wiki/File:Solanine.svg) — Dominio Público (fórmula estructural simple, inelegible para derechos de autor; vía Wikimedia Commons)
+
 ## Referencias
 
 [^1]: [Libertad Times: La Oficina de Asuntos de Taiwán de China dice que "patatas envenenadas" se sirven en la mesa de Taiwán; la Comisión de Asuntos Continentales grita: no necesitan dar opiniones ajenas](https://news.ltn.com.tw/news/politics/breakingnews/5420147) — Transcripción completa de las palabras originales del portavoz de la Oficina de Asuntos de Taiwán de China, Chen Bin-hua, el 29 de abril de 2026 (cotejo multi-fuente: _Da Gong Wen Hui_, _Newtalk_, _ETtoday_ verbatim consistente).
@@ -450,10 +455,3 @@ Shen Po-yang dijo otra frase de nivel superior: "La construcción de la concienc
 [^57]: [Wang Hung-en: ¿Gran propaganda externa o medio de mantenimiento de la estabilidad? La lógica de opinión pública de la "diplomacia de los lobos guerreros" de China (Think Tank / Mingren Hall)](https://opinion.udn.com/opinion/story/12705/5260537) — Verbatim del profesor asistente del departamento de ciencia política de UNLV Wang Hung-en "La 'diplomacia de los lobos guerreros' es esencialmente parte de la propaganda interna". Ancla académica de la analogía de la lógica de propaganda interna de la rueda de prensa de la Oficina de Asuntos de Taiwán.
 
 [^58]: [The News Lens: Entrevista a Shen Po-yang mismo](https://www.thenewslens.com/article/197469) — Verbatim de Shen Po-yang "La construcción de la conciencia de enemigo y amigo es absolutamente la clave más importante para responder a la guerra" "La cohesión de la conciencia de la comunidad de Taiwán es la tarea primordial". Corresponde al argumento de la contraofensiva final del párrafo de cierre.
-
----
-
-## Fuentes de imágenes
-
-- **Hero**: [Niños recogiendo patatas en una granja grande, vecindario de Caribou, Condado de Aroostook, Me. Las escuelas no abren hasta que las patatas se cosechan](https://commons.wikimedia.org/wiki/File:Children_gathering_potatoes_on_a_large_farm,_vicinity_of_Caribou,_Aroostook_County,_Me._Schools_do_not_open_until_the_potatoes_are_harvested_LCCN2017877412.jpg) — US Farm Security Administration/Office of War Information / 1940 / Dominio Público (PD-USGov, NARA / Biblioteca del Congreso Colección FSA-OWI)
-- **Inline §200 ppm**: [Solanine.svg](https://commons.wikimedia.org/wiki/File:Solanine.svg) — Dominio Público (fórmula estructural simple, inelegible para derechos de autor; vía Wikimedia Commons)

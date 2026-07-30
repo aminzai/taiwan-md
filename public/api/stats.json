@@ -1,8 +1,8 @@
 {
-  "totalArticles": 8279,
+  "totalArticles": 8505,
   "totalCategories": 26,
   "estimatedContributors": 67,
-  "totalTags": 5825,
+  "totalTags": 5849,
   "categories": [
     {
       "name": "es",
@@ -10,7 +10,7 @@
     },
     {
       "name": "ko",
-      "count": 865
+      "count": 866
     },
     {
       "name": "fr",
@@ -18,7 +18,7 @@
     },
     {
       "name": "en",
-      "count": 857
+      "count": 858
     },
     {
       "name": "ja",
@@ -30,11 +30,11 @@
     },
     {
       "name": "hi",
-      "count": 507
+      "count": 542
     },
     {
       "name": "ru",
-      "count": 576
+      "count": 630
     },
     {
       "name": "History",
@@ -42,11 +42,11 @@
     },
     {
       "name": "id",
-      "count": 421
+      "count": 448
     },
     {
       "name": "ar",
-      "count": 544
+      "count": 600
     },
     {
       "name": "Politics",
@@ -58,7 +58,7 @@
     },
     {
       "name": "pt",
-      "count": 692
+      "count": 743
     },
     {
       "name": "Food",
@@ -70,7 +70,7 @@
     },
     {
       "name": "Culture",
-      "count": 71
+      "count": 72
     },
     {
       "name": "People",
@@ -112,7 +112,7 @@
   "topTags": [
     {
       "name": "Economy",
-      "count": 69
+      "count": 68
     },
     {
       "name": "人物",
@@ -132,7 +132,7 @@
     },
     {
       "name": "ODM",
-      "count": 26
+      "count": 27
     },
     {
       "name": "半導體",
@@ -192,13 +192,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 8279,
+    "zh-TW": 8505,
     "en": 0
   },
-  "lastUpdated": "2026-07-28T22:13:09.567Z",
-  "stars": 1121,
+  "lastUpdated": "2026-07-29T22:13:18.029Z",
+  "stars": 1120,
   "forks": 167,
-  "zhPages": 868,
-  "enPages": 857,
-  "totalPages": 868
+  "zhPages": 869,
+  "enPages": 858,
+  "totalPages": 869
 }

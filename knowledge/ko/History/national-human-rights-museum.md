@@ -326,6 +326,14 @@ NHRM의 그 징메이 원구 소개 영상은 끝부분에서 네 명의 인터�
 - [대만 전환기 정의](/ko/history/taiwan-transitional-justice) — 6천 건의 판결을 취소했지만 가해자 책임 추궁에는 이르지 못한 긴장. 이 글은 그중 하나의 기관 단면이다
 - [2·28 사건](/ko/history/228-incident) — 전후 대만 최대의 민중 봉기, 38년 계엄을 낳은 출발점
 
+## 이미지 출처
+
+이 글은 퍼블릭 도메인 / CC 라이선스 이미지 3장을 사용했으며, 출처 서버 핫링크를 피하기 위해 모두 `public/article-images/history/`에 cache했다.
+
+- [차이잉원 총통 2018/5/17 “국가인권박물관 현판식” 참석](<https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457).jpg>) — Photo: 總統府, 2018-05-17, CC BY 2.0(Flickr 표준 라이선스)
+- [뤼다오 인권기념비(눈물의 비석)](https://commons.wikimedia.org/wiki/File:Taiwan_GreenIsland_Human_Rights_Memorial_Monument_2022.jpg) — Photo: S8321414, 2022, CC BY-SA 4.0
+- [징메이 인권문화원구](https://commons.wikimedia.org/wiki/File:%E6%99%AF%E7%BE%8E%E4%BA%BA%E6%AC%8A%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%80.jpg) — Photo: 張永泰, Public Domain (Voice of America) + CC Public Domain Mark 1.0
+
 ## 참고자료
 
 [^1]: [신터우커 newtalk: 차이쿤린 2018/5/17 NHRM 뤼다오 현판식 축사](https://newtalk.tw/news/view/2018-05-17/124671) — “언젠가는 누가 그의 친구를 죽였는지 알게 되기를 바랍니다”라는 축어 인용을 포함한 전체 축사 기록, 현판식 당일 88세 수난자 대표 발언.
@@ -407,11 +415,3 @@ NHRM의 그 징메이 원구 소개 영상은 끝부분에서 네 명의 인터�
 [^39]: [국가인권박물관: “자유의 영혼 vs. 독재자: 대만 언론자유의 길” 상설전](https://www.nhrm.gov.tw/w/nhrm/News_22050707092432044) — 2022/4/7 언론자유의 날 개막, 중정기념당 1F 상설전시실, 큐레이터 쉐화위안(중앙연구원 근대사연구소). 문화부장 리융더의 “철거할 수 없다면 들어가 산다”는 대화 전략. 정주메이(정난룽의 딸)의 개막식 축사 “한 나라의 문화가 과거를 어떻게 기억하는지는, 한 나라가 자신의 미래를 어떻게 바라보는지를 나타낸다” 축어 인용.
 
 [^40]: [국가인권박물관: 2025 뤼다오 인권예술제 비엔날레 “149해리의 시간: 망각에 맞서다”](https://www.nhrm.gov.tw/w/nhrm/News_25040315483280023) — 2025/5/17-9/21, 총괄 큐레이터 가오선신난의 “지리와 시간의 격절은 역사를 망각되게 할 수 있지만, 예술은 시간에 맞서는 검자루가 될 수 있다” 축어 인용. 23팀의 예술가 중 7팀은 국제 참가자(말레이시아 Pangrok Sulap, 베트남 Bui Cong Khanh, 홍콩 장의소저, 아이티, 크로아티아, 인도네시아). “149해리”는 타이둥에서 뤼다오까지의 거리.
-
-## 이미지 출처
-
-이 글은 퍼블릭 도메인 / CC 라이선스 이미지 3장을 사용했으며, 출처 서버 핫링크를 피하기 위해 모두 `public/article-images/history/`에 cache했다.
-
-- [차이잉원 총통 2018/5/17 “국가인권박물관 현판식” 참석](<https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457).jpg>) — Photo: 總統府, 2018-05-17, CC BY 2.0(Flickr 표준 라이선스)
-- [뤼다오 인권기념비(눈물의 비석)](https://commons.wikimedia.org/wiki/File:Taiwan_GreenIsland_Human_Rights_Memorial_Monument_2022.jpg) — Photo: S8321414, 2022, CC BY-SA 4.0
-- [징메이 인권문화원구](https://commons.wikimedia.org/wiki/File:%E6%99%AF%E7%BE%8E%E4%BA%BA%E6%AC%8A%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%80.jpg) — Photo: 張永泰, Public Domain (Voice of America) + CC Public Domain Mark 1.0

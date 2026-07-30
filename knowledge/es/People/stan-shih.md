@@ -193,6 +193,13 @@ Ese niño que creció en Lukang viendo a su madre vender huevos de pato sigue si
 
 **Lecturas relacionadas**: [Acer](/economy/台灣企業：宏碁) (la marca fundada por Shi Zhen-rong y llevada al escenario mundial; aquí se cuenta su historia completa), [Morris Chang](/people/張忠謀) (quien invitó a Shi Zhen-rong a ser director de TSMC durante 21 años, siguiendo una ruta diferente en la tecnología taiwanesa), [TSMC](/economy/台灣企業：台積電) (la empresa que se especializa en «fabricación intermedia» pero se convirtió en la montaña sagrada, y donde Shi Zhen-rong posee la mayor cantidad de acciones), [Transformación y mejora de la industria de Taiwán](/economy/台灣產業轉型升級) (detrás de la curva de sonrisa y el camino del rey, el camino de cuarenta años de Taiwán entre la fabricación y las marcas).
 
+## Fuentes de las imágenes
+
+- **Imagen principal / Shi Zhen-rong (2014)**: Tomada por Tony Tseng, Taipei Information Month, CC BY 2.0. Fuente [Flickr](https://www.flickr.com/photos/tonytseng/).
+- **Micro-Professor I (MPF-I, 1981)**: Tomada por Joho345, Dominio Público. Fuente Wikimedia Commons.
+- **Diagrama de la curva de sonrisa**: Creado por Rico Shen, CC BY-SA 4.0. Fuente Wikimedia Commons.
+- **Shi Zhen-rong (2007, sección sobre fracaso/serenidad)**: Tomada por Rico Shen, CC BY-SA 3.0. Fuente Wikimedia Commons.
+
 ## Referencias
 
 [^1]: [報時光：1981 年施振榮打造第一台自製電腦「小教授一號」](https://time.udn.com/udntime/story/122390/9424956) — Artículo especial de la sección "Reporte del Tiempo" de el Universal (2026-04-13), que describe cómo en septiembre de 1981, Acer llevó el Micro-Professor I a San Francisco para participar en la 30.ª Feria de Electrónica del Oeste (WESCON).
@@ -336,10 +343,3 @@ Ese niño que creció en Lukang viendo a su madre vender huevos de pato sigue si
 [^69]: [遠見雜誌：施振elong AI 分身阿端與新書](https://www.gvm.com.tw/article/127819) — Detalles sobre el libro y las preguntas que responde su avatar.
 
 [^70]: [遠見雜誌：施振elong計畫 85 歲二次退休](https://www.gvm.com.tw/article/127819) — Reporte sobre sus planes de retiro a los 85 años y compromiso con la filantropía.
-
-## Fuentes de las imágenes
-
-- **Imagen principal / Shi Zhen-rong (2014)**: Tomada por Tony Tseng, Taipei Information Month, CC BY 2.0. Fuente [Flickr](https://www.flickr.com/photos/tonytseng/).
-- **Micro-Professor I (MPF-I, 1981)**: Tomada por Joho345, Dominio Público. Fuente Wikimedia Commons.
-- **Diagrama de la curva de sonrisa**: Creado por Rico Shen, CC BY-SA 4.0. Fuente Wikimedia Commons.
-- **Shi Zhen-rong (2007, sección sobre fracaso/serenidad)**: Tomada por Rico Shen, CC BY-SA 3.0. Fuente Wikimedia Commons.

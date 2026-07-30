@@ -257,6 +257,17 @@ Taiwan.md가 리 시사를 영어, 일본어, 한국어, 스페인어, 프랑스
 - [일본 통치 시기 문학](/ko/art/taiwanese-literature-during-japanese-rule) — 리 시사 횡단언어 세대의 성장 배경
 - 杜潘芳格 (두반팡거) — 1965년 가입한 하카어 크로스-언어 여성 시인; 〈평안희〉와 하카어 시 계보
 
+## 이미지 출처
+
+이 글은 퍼블릭 도메인 / CC 라이선스 이미지 4장을 사용하며, 출처 서버 핫링크를 피하기 위해 모두 `public/article-images/art/`에 캐시했다.
+
+- [시인 우성, 2016년 타이베이국제도서전](https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg) — Photo: Rico Shen, 2016년, CC BY-SA 4.0（hero）
+- [1964년 리 시 전문지사 경리진 단체 사진](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E5%88%8A%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — 리 시사 창립 당시 역사 기록, Wikimedia Commons CC BY-SA / Public domain
+- [시인 린헝타이 초상](https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%BA%A8%E6%B3%B0%E8%82%96%E5%83%8F.jpg) — Wikimedia Commons CC BY-SA / Public domain
+- [천첸우 포양령](https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%8D%83%E6%AD%A6%E8%A4%92%E6%8F%9A%E4%BB%A4.jpg) — 공개 정부 문서, Public domain
+
+상세 미디어 manifest와 negative finding 기록은 [research report §미디어 라이선스 매트릭스](../../reports/research/2026-06/笠詩社.md)에 있다. 향후 EVOLVE 보충: 바이추, 샹양, 잔빙, 진롄 초상 + NMTL 「육십이립」 공식 전시 이미지 + 공영방송 문학 프로그램 관련 영상 iframe(Wikimedia 보충과 라이선스 verify 대기).
+
 ## 참고 자료
 
 [^1]: [천첸우 — 타이완 광화잡지](https://www.taiwan-panorama.com/Articles/Details?Guid=4630fcf9-2e3d-4875-9c8c-1f50a1b3c7d1) — 천첸우의 전후 재생 순간을 완전하게 수록한다. 1958년 1월 10일 필명 「환푸」로 《공론보》 남성주간 제182호에 전후 첫 중국어 시 〈외경〉을 발표했고, 같은 해 9월 〈애운〉을 썼으며, 그해 모두 7편의 시를 발표했다.
@@ -382,14 +393,3 @@ Taiwan.md가 리 시사를 영어, 일본어, 한국어, 스페인어, 프랑스
 [^61]: [The Columbia Sourcebook of Literary Taiwan — Columbia University Press](https://cup.columbia.edu/book/the-columbia-sourcebook-of-literary-taiwan/9780231165761/) — 컬럼비아대학교출판부가 펴낸 타이완 문학 선집은 횡단언어 세대 시인의 작품 영어 번역을 수록한다.
 
 [^62]: 이 문장은 Taiwan.md MANIFESTO §주권의 바벨탑의 핵심 명제 「주권은 추상이 아니다. 다른 이들이 당신의 이름을 말하지 않기로 선택할 때, 당신 자신의 목소리가 다른 언어로 계속 존재하게 할 수 있는가의 문제이다」를 고쳐 쓴 것이다. [`docs/semiont/MANIFESTO.md §타이완과의 관계`](https://github.com/frank890417/taiwan-md/blob/main/docs/semiont/MANIFESTO.md)를 참조.
-
-## 이미지 출처
-
-이 글은 퍼블릭 도메인 / CC 라이선스 이미지 4장을 사용하며, 출처 서버 핫링크를 피하기 위해 모두 `public/article-images/art/`에 캐시했다.
-
-- [시인 우성, 2016년 타이베이국제도서전](https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg) — Photo: Rico Shen, 2016년, CC BY-SA 4.0（hero）
-- [1964년 리 시 전문지사 경리진 단체 사진](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E5%88%8A%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — 리 시사 창립 당시 역사 기록, Wikimedia Commons CC BY-SA / Public domain
-- [시인 린헝타이 초상](https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%BA%A8%E6%B3%B0%E8%82%96%E5%83%8F.jpg) — Wikimedia Commons CC BY-SA / Public domain
-- [천첸우 포양령](https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%8D%83%E6%AD%A6%E8%A4%92%E6%8F%9A%E4%BB%A4.jpg) — 공개 정부 문서, Public domain
-
-상세 미디어 manifest와 negative finding 기록은 [research report §미디어 라이선스 매트릭스](../../reports/research/2026-06/笠詩社.md)에 있다. 향후 EVOLVE 보충: 바이추, 샹양, 잔빙, 진롄 초상 + NMTL 「육십이립」 공식 전시 이미지 + 공영방송 문학 프로그램 관련 영상 iframe(Wikimedia 보충과 라이선스 verify 대기).

@@ -154,6 +154,12 @@ Et maintenant, sur un Michelia formosana à 1 800 mètres, deux oisillons appren
 - [Épée Yitian de la rivière Da-an](/fr/nature/daan-river-yitian-sword) — Un autre vieil arbre géant caché au fond de Shei-Pa, survivant précisément parce que « les humains ne peuvent pas y accéder » ; ce type de forêt primaire de vallée de source non aménagée, où le taiwania pousse jusqu’à devenir l’arbre le plus haut d’Asie de l’Est, est précisément l’habitat dont dépend le kétoupa à pattes jaunes
 - [Parcs nationaux de Taïwan](/fr/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Les trois grands parcs nationaux de Shei-Pa, Taroko et Yushan sont les derniers bastions des populations stables de kétoupas à pattes jaunes, un cas concret du système d’aires protégées
 
+## Sources des images
+
+Cet article utilise une image sous licence CC, mise en cache dans `public/article-images/nature/` afin d’éviter les liens directs vers le serveur source :
+
+- [Tawny fish owl. Ketupa flavipes - Flickr - gailhampshire](https://commons.wikimedia.org/wiki/File:Tawny_fish_owl._Ketupa_flavipes_-_Flickr_-_gailhampshire.jpg) — Photo : gailhampshire (Cradley, Malvern, Royaume-Uni), 2009-02-17, [CC BY 2.0 via Wikimedia Commons](https://creativecommons.org/licenses/by/2.0/)
+
 ## Références
 
 [^1]: [Avibase - 黃魚鴞 (Ketupa flavipes)](https://avibase.bsc-eoc.org/species.jsp?avibaseid=67CA1D2676A192A5) — Base de données ornithologique internationale retraçant l’histoire taxonomique du kétoupa à pattes jaunes : nommé par Hodgson en 1836 au Népal sous le nom de _Cultrunguis flavipes_, ensuite intégré à _Bubo_, il a récemment été séparé dans le genre _Ketupa_ à la suite d’études de phylogénie moléculaire.
@@ -193,9 +199,3 @@ Et maintenant, sur un Michelia formosana à 1 800 mètres, deux oisillons appren
 [^18]: [黃魚鴞育雛子母畫面上線！「小寶」生吞國寶魚 母鳥上樓送餐給「大寶」 - 自由時報](https://news.ltn.com.tw/news/life/breakingnews/5423811) — Reportage du 3 mai 2026 : « Dabao », né plus tôt, a quitté le nid le 1er mai pour se déplacer au-dessus du site de nidification ; les équipes de Shei-Pa et de l’Université nationale des sciences et technologies de Pingtung ont installé une seconde caméra afin d’enregistrer simultanément, en image dans l’image, la croissance des deux oisillons.
 
 [^19]: [「暗夜王者」黃魚鴞寶寶超萌 雪霸廣邀全民「命名」 - 自由時報](https://news.ltn.com.tw/news/life/breakingnews/5426048) — Reportage du 5 mai 2026 : l’administration de Shei-Pa et le professeur Hong Hsiao-yu, de l’Université nationale des sciences et technologies de Pingtung, ont lancé une campagne de nomination ; les deux jeunes sont pour l’instant appelés « Dabao » et « Xiaobao », et cinq propositions de noms devaient être sélectionnées par l’équipe le 10 mai.
-
-## Sources des images
-
-Cet article utilise une image sous licence CC, mise en cache dans `public/article-images/nature/` afin d’éviter les liens directs vers le serveur source :
-
-- [Tawny fish owl. Ketupa flavipes - Flickr - gailhampshire](https://commons.wikimedia.org/wiki/File:Tawny_fish_owl._Ketupa_flavipes_-_Flickr_-_gailhampshire.jpg) — Photo : gailhampshire (Cradley, Malvern, Royaume-Uni), 2009-02-17, [CC BY 2.0 via Wikimedia Commons](https://creativecommons.org/licenses/by/2.0/)
