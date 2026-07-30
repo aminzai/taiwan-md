@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-31
-last_session: '2026-07-31-053803-twmd-routine-sync（三層對賬第六輪，17 條全 in-sync 零漂移）'
+last_session: '2026-07-31-061156-twmd-data-refresh-am（14 步全綠，routine-live-state 例行滿 24h 續跑）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -317,3 +317,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-30 | 230518-manual | babel 雲端產線 9.5hr 零產出重啟復活；fleet 版本鏡誤報 heal（快取未跟版本常數同步）+ 2 節點斷線修復；PR #1282/#1283 merge | 版本鏡誤判根因是快取新鮮度，不是比較邏輯 | [→](memory/2026-07-30-230518-manual.md) |
 | 2026-07-31 | 053348-twmd-embeddings-nightly | bge-m3 nightly 12 語 8485 向量 0 fail；vi 344 篇連三晚持平後首度 +1，仍低於 400 門檻（爬升期非故障） | pretty-print↔minified 格式波動連兩晚驗證為無害，非資料損壞 | [→](memory/2026-07-31-053348-twmd-embeddings-nightly.md) |
 | 2026-07-31 | 053803-twmd-routine-sync | 三層對賬第六輪，17 條全 in-sync 零漂移；7/29 修好的 babel-nightly drift 連兩天沒復發 | 連續全綠仍要記一行，否則下次沒基線可比這條 routine 有沒有在跑 | [→](memory/2026-07-31-053803-twmd-routine-sync.md) |
+| 2026-07-31 | 061156-twmd-data-refresh-am | 14 步全綠零 stale；routine-live-state 滿 24h 例行續跑，stale_hours 24→0；免疫 60 chronic 黃燈維持不變 | 沒有新故事的一天仍要記一行，尤其 babel fleet 渦流同時在背景高速運轉時，正交不碰本身是分工正確的訊號 | [→](memory/2026-07-31-061156-twmd-data-refresh-am.md) |
