@@ -1,8 +1,35 @@
 {
-  "_generated": "2026-07-29T22:13:37.882Z",
+  "_generated": "2026-07-30T22:14:13.557Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "彈珠汽水：玻璃瓶裡的百年氣泡，與那聲「啵」出的台灣童年",
+        "desc": "從 19 世紀英國實驗室到台灣蘇澳冷泉，彈珠汽水不僅是碳酸飲料，更是一場關於物理壓力、日治階級與三太子信仰的文化交響。",
+        "category": "food",
+        "href": "/food/%E5%BD%88%E7%8F%A0%E6%B1%BD%E6%B0%B4",
+        "date": "2026-07-30T08:47:07+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "地瓜球：從唐代宮廷到中正橋下，一顆空心球裡的台灣韌性",
+        "desc": "這顆金黃小球的歷史跨越千年，從唐代的「碌堆」演化為台灣 1970 年代的惜物意外。它不僅是夜市點心，更是一場涉及 130°C 精準油溫與澱粉糊化的物理實驗。",
+        "category": "food",
+        "href": "/food/%E5%9C%B0%E7%93%9C%E7%90%83",
+        "date": "2026-07-30T08:47:00+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
+      {
+        "title": "士林：凱達格蘭族的地、漳泉械鬥的廟、現在每天晚上是台北最擁擠的夜市",
+        "desc": "晚上七點半，士林夜市路口的韓國觀光客舉著大雞排自拍，旁邊大南路 84 號的慈諴宮從 1796 年嘉慶元年站到 2026 年滿 230 歲。1859 年咸豐九年漳州人從這條街被泉州人燒出去，1860 庚申年潘永清在下樹林劃了大東路、大南路、大西路、大北路四條方正街道、把廟放在正中央。1909 年日本人在廟對面蓋市場、1955 年陽明戲院在文林路落成、1992 年豪大大雞排在台中發明、1999 年進駐士林。2002 年拆掉戰後增建的棚、2011 年新市場啟用、地下美食街從早到晚輪兩班人。廟還在原位置，但腳邊每天輪番兩座城。",
+        "category": "geography",
+        "href": "/geography/%E5%A3%AB%E6%9E%97",
+        "date": "2026-07-29T13:39:11+09:00",
+        "readingTime": 22,
+        "image": "/article-images/geography/shilin-cixian-temple-2010.webp"
+      },
       {
         "title": "台灣校園順口溜：從「ABC狗咬豬」到「阿里巴巴打屁屁」的跨世代幽默",
         "desc": "探索台灣校園流傳數十年的口頭文化，從早期反映語言交織的「ABC狗咬豬」，到「阿嬤內褲」與「阿里巴巴」的超現實連鎖唸謠，解析這些童謠如何承載著兒童的集體記憶與叛逆精神。",
@@ -245,36 +272,144 @@
         "date": "2026-07-23T21:57:32+08:00",
         "readingTime": null,
         "image": "/article-images/technology/taiwan-students-digital-learning-2019.webp"
-      },
-      {
-        "title": "收費站：國道上那消失的三秒鐘停頓",
-        "desc": "1974 年泰山收費站啟用當天，遞出一張回數票要花不到三秒。那個動作後來被國家精確測量、壓縮到 3.7 秒，2013 年整套壓縮到零，換來 947 位收費員一場打了十一年的官司。今天國道邊還留著三座票亭，可以看，不能停。",
-        "category": "lifestyle",
-        "href": "/lifestyle/%E6%94%B6%E8%B2%BB%E7%AB%99",
-        "date": "2026-07-19T19:42:27+08:00",
-        "readingTime": 15,
-        "image": "/article-images/lifestyle/taishan-toll-station-2008.webp"
-      },
-      {
-        "title": "花蓮縣：129 年隱身的撒奇萊雅族，用正名換回的太魯閣，0403 又讓它遠去",
-        "desc": "1878 年清軍把達固湖灣部落頭目古穆·巴力克縛在茄苳樹上凌遲，撒奇萊雅族躲進阿美族裡 129 年；2004 年太魯閣族從泰雅族裡走出來成為第 12 族，2007 年陳水扁政府第二任承認撒奇萊雅成為第 13 族；2024 年 4 月 3 日早上 7 點 58 分那 98 秒，0403 地震規模 7.1 把太魯閣國家公園的燕子口、九曲洞、砂卡礑步道一次砸毀，2024 年觀光客只剩 21 萬，正常年份是 660 萬。一片山海之間最薄 5 公里的土地上，6 個原住民族的命運始終跟著板塊一起搖。",
-        "category": "geography",
-        "href": "/geography/%E8%8A%B1%E8%93%AE%E7%B8%A3",
-        "date": "2026-07-19T10:29:44+08:00",
-        "readingTime": 18,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg"
-      },
-      {
-        "title": "台灣辦桌：暴雨裡照樣開桌的武場，和一套正在收棚的人神鬼三界",
-        "desc": "一場 120 桌的辦桌，傍晚暴雨淹到小腿、鱒魚游走十幾條，總鋪師汪義勇袖子一挽下水捉魚，最後只少一條。三百年來辦桌就是這樣，主家沒喊停就得開桌。如今這門手藝正在分岔：菜進了五星飯店與米其林、紅回海外，那套全村出動、橫跨人神鬼三界的儀式知識，卻在沒人接班裡安靜失傳。",
-        "category": "food",
-        "href": "/food/%E5%8F%B0%E7%81%A3%E8%BE%A6%E6%A1%8C%E6%96%87%E5%8C%96",
-        "date": "2026-07-19T10:29:01+08:00",
-        "readingTime": 12,
-        "image": "/article-images/food/bando-ghost-festival-banquet-2017.webp"
       }
     ],
     "en": [
+      {
+        "title": "Shopping Design: A Magazine That Teaches You to Curate Design, Ultimately Asking You to Judge Itself",
+        "desc": "Launched in 2006 with a white-themed first issue, Shopping Design has spent two decades turning 'design' from an exhibition-bound noun into a daily verb for browsing and selecting goods. What it truly taught Taiwan is that 'discernment' can be cultivated as a skill—and it expanded this skill into an annual Top 100 list, a quarterly magazine, a carnival, and even onto its parent company's single 'magazine publishing + advertising services' license. Thus, this magazine that teaches you to discern ultimately asks you to discern itself.",
+        "category": "culture",
+        "href": "/en/culture/shopping-design",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": null,
+        "image": "/article-images/culture/shopping-design-designbiz-2022-banner.jpg"
+      },
+      {
+        "title": "The Delivery-Specific Law: The Legal Floor Is Laid, But Above It Still Rules the Algorithm",
+        "desc": "At 12:00 AM on July 21, 2026, Taiwan's first delivery-specific law took effect: a minimum of NT$45 per order. On that day, one rider received two orders—one 4.4 km and another 8.6 km—both paying only NT$90. From the deaths of two riders during the National Day holiday in 2019 to these 28 articles took six years. The law deliberately avoids answering whether they are employees and does not touch the dispatch algorithm that truly determines income; even a week after implementation, there was no answer on how many local inspectors were deployed or if fines would be issued.",
+        "category": "society",
+        "href": "/en/society/delivery-platform-law",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 17,
+        "image": "/article-images/society/foodpanda-rider-keelung-rain-2020.webp"
+      },
+      {
+        "title": "National Human Rights Museum: The Names Not Written on the Tearful Monument",
+        "desc": "On International Human Rights Day in 1999, Lee Teng-hui personally unveiled the Tearful Monument on Green Island. Bo Yang wrote 28 characters that captured all mothers' long nights of weeping, yet did not write a single perpetrator's name. Six years of preparation, an unveiling in 2018, and a frozen budget in 2025. A museum built by the state itself to commemorate what the state itself had done. In the 39 years since martial law was lifted, not one perpetrator has faced judicial trial.",
+        "category": "history",
+        "href": "/en/history/national-human-rights-museum",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 16,
+        "image": "/article-images/history/nhrm-tsai-unveil-2018.webp"
+      },
+      {
+        "title": "Bangka: Qing-Era Taipei’s Busiest Place, Now the District with Taipei’s Oldest Average Age",
+        "desc": "Bangka Longshan Temple was jointly built in 1738 by migrants from the three Quanzhou counties; by 2026 it is 288 years old, 137 years older than the Qing court’s Taipei Prefecture. The 1853 Ding-Xia Jiao Conflict pushed the Tong’an people into Dadaocheng, planting the divergence that would shape northern Taiwan for two centuries. Renamed Wanhua under Japanese rule, made a district in 1990, and turned into the setting of Doze Niu’s 2010 film Monga, it now has an aging index of 320.78%, the highest in the city. On Taipei’s earliest street, the first incense stick in the temple forecourt is still burning at six in the morning.",
+        "category": "geography",
+        "href": "/en/geography/bangka",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 22,
+        "image": "/article-images/geography/wanhua-longshan-temple-2016.webp"
+      },
+      {
+        "title": "Shilin: Ketagalan Land, a Temple from the Zhangzhou-Quanzhou Feuds, and Now Taipei's Most Crowded Night Market Every Night",
+        "desc": "At 7:30 p.m., Korean tourists at the entrance to Shilin Night Market hold up giant fried chicken cutlets for selfies, while beside them Cixian Temple at No. 84 Danan Road has stood from 1796, the first year of the Jiaqing reign, to 2026, when it turns 230. In 1859, the ninth year of the Xianfeng reign, Zhangzhou people were burned out of this street by Quanzhou people. In 1860, the gengshen year, Pan Yongqing laid out four squared-off streets in Xiashulin: Dadong Road, Danan Road, Daxi Road, and Dabei Road, placing the temple at the exact center. In 1909, the Japanese built a market opposite the temple; in 1955, Yangming Theater was completed on Wenlin Road; in 1992, Hot-Star Large Fried Chicken was invented in Taichung and entered Shilin in 1999. The postwar-added sheds were demolished in 2002; the new market opened in 2011; the underground food court has two shifts of people from morning to night. The temple is still in its original place, but at its feet two cities take turns every day.",
+        "category": "geography",
+        "href": "/en/geography/shilin",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 22,
+        "image": "/article-images/geography/shilin-cixian-temple-2010.webp"
+      },
+      {
+        "title": "Taiwan Travelogue: A Book 'Translated by Her Younger Sister,' from SpringHill to the London Prize Stage",
+        "desc": "On the day her younger sister Yang Jo-hui died in June 2015, Yang Jo-tzu opened the account books she had left behind and began keeping records, taking three days to decipher the code of check marks and circles. Five years later, SpringHill Publishing released Taiwan Travelogue under the byline 'written by Chizuko Aoyama, translated by Yang Shuang-zi' - the translator's name was that of her deceased sister. From the 2024 National Book Awards in New York to the 2026 Booker Prize in London, she translated a nonexistent book in her sister's name.",
+        "category": "art",
+        "href": "/en/art/taiwan-travelogue",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": null,
+        "image": "/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp"
+      },
+      {
+        "title": "The Daan River Heaven Sword: East Asia's Tallest Tree Hid for Seven Hundred Years in a Place We Could Not Reach",
+        "desc": "During the 2023 Lunar New Year, the Tree Finder team spent seven days tracing the Daan River upstream. In a deep valley near its headwaters, a place almost no one can reach, they lowered a tape measure from the crown of a Taiwania tree: 84.1 meters, the tallest tree in East Asia. It was 4.6 meters taller than LiDAR had predicted. On a country swept by typhoons every year, where slopes collapse and floods surge, life of this height should not, in theory, still exist. Yet precisely because it grew in a valley humans could not reach, it escaped the era of large-scale logging and survived for seven hundred years. The same inaccessibility that kept it alive also meant that only after scanning all of Taiwan with lasers did we see it for the first time that year.",
+        "category": "nature",
+        "href": "/en/nature/daan-river-yitian-sword",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 15,
+        "image": "/article-images/nature/taiwania-nantou-shihchuan.webp"
+      },
+      {
+        "title": "Tawny Fish Owl: One Pair per Six Kilometers of Stream, a Nocturnal Raptor in a 1,800-Meter Michelia Tree",
+        "desc": "In April 2026, National Pingtung University of Science and Technology assistant professor Hung Hsiao-yu located Taiwan's highest known Tawny Fish Owl nest in a tree hollow of a Michelia compressa with a diameter at breast height of about 1.5 meters beside Qijiawan Creek, at roughly 1,800 meters above sea level. Taiwan's largest owl was first recorded only in 1916 by the Japanese scholar Nagamichi Kuroda. Sun Yuan-hsun's laboratory at National Pingtung University of Science and Technology has followed it for thirty years; across 91 territories, each pair needs an average of 6.2 kilometers of stream. A stretch of stream not yet poured in concrete, a giant tree not yet fallen: the Tawny Fish Owl lives in the narrow space where two things in Taiwan's mountain forests have not yet disappeared.",
+        "category": "nature",
+        "href": "/en/nature/tawny-fish-owl",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 12,
+        "image": "/article-images/nature/tawny-fish-owl-gailhampshire-2009.webp"
+      },
+      {
+        "title": "Chen Chien-nien: The Golden Melody King in the Police Station, the Grandfather’s Songs the Grandson Turned into Ocean",
+        "desc": "Born on August 1, 1967, in the Nanwang community of the Puyuma people in Taitung. After graduating from the police academy in 1986, he was assigned to Guanshan, Taitung, and served in the police force for 30 years and 10 months. In 1999, at age 33, he released his first album of original songs, Ocean. At the 11th Golden Melody Awards in 2000, he defeated Jacky Cheung, Wang Leehom, David Tao, and Harlem Yu to win Best Mandarin Male Vocalist; at the same ceremony, “Myth” also won Best Composer. On the awards stage, he was still a police officer. In September that year, he requested a transfer to Lanyu to avoid the turmoil, and stayed there for 17 years until retirement. His maternal grandfather, Baliwakes Lu Sen-bao, wrote “Beautiful Rice Ears”; it took the grandson thirty years to take hold of that musical line.",
+        "category": "people",
+        "href": "/en/people/chen-chien-nien",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 8,
+        "image": "/article-images/people/chen-chien-nien-hsinchu-feng-2018.webp"
+      },
+      {
+        "title": "Ya Hsien: Ceasing Poetry After \"The Abyss,\" Spending His Latter Life as a Pillar of Literary History in the United Daily News Supplement",
+        "desc": "In 1968, at age 36, Ya Hsien stopped writing after compiling ninety poems into his collection *The Abyss*. From 1977 to 1998, he served as editor-in-chief of the *United Daily News* (UDN) Supplement for 21 years, transforming the editorial desk into Taiwan's most important post-war literary public space. He passed away in Vancouver, Canada, on October 11, 2024, at age 92—his 56-year silence after ceasing publication proved longer than a thousand volumes of poetry; his refrain \"Hallelujah, I am still alive\" became an obscure, poetic symbol that evaded censorship during the Martial Law era.",
+        "category": "people",
+        "href": "/en/people/ya-hsien-poet",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": null,
+        "image": "/article-images/people/yaxian-portrait-2012.webp"
+      },
+      {
+        "title": "National Housing and Housing Justice: The Cheap Homes Built by the Government, and Whose Asset Escalator They Ultimately Created",
+        "desc": "In 1985, Chenggong National Housing cost NT$67,000 per ping and still had no buyers; an old borough chief scraped together a NT$400,000 down payment and bought a unit. Forty years later, the same address is nearing NT$1 million per ping. National Housing was supposed to be a tool to help people afford homes, but it was never fitted with a gate to recapture appreciation. Public subsidy ultimately became private assets for early buyers. In 2026, Taoyuan put that gate back in, effectively admitting National Housing’s mistake.",
+        "category": "society",
+        "href": "/en/society/public-housing-justice",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 16,
+        "image": "/article-images/society/taipei-skyline-housing-2026.webp"
+      },
+      {
+        "title": "Taiwan's Sports Development and the Olympics: A Team Called “Chinese Taipei”",
+        "desc": "In Montreal in 1976, Canada demanded a name change to “Taiwan,” and Chiang Ching-kuo treated it as a national humiliation and withdrew the team. In Paris in 2024, on the night the “Lee-Yang” pair defended their men’s doubles title, the whole arena sang the National Flag Anthem lyrics beneath the plum blossom flag. From the “Taiwan” that could not enter to a world beginning to call the team Taiwan, every generation of gold medalists has carried the weight of this cap called “Chinese Taipei.”",
+        "category": "society",
+        "href": "/en/society/taiwan-sports-olympics",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 18,
+        "image": "/article-images/society/yang-chuan-kwang-1960.webp"
+      },
+      {
+        "title": "The Reporter: Ten Years of Turning Investigative Journalism from a Line of Business into a Public Good",
+        "desc": "From 4 recurring donors to 8,000 each month, from the Blood-Stained Fishing Grounds trilogy to the 2026 united-front special report, the costs The Reporter has burned through over a decade--eight months undercover, reporting across three countries, comparing years of violation records--are exactly the things people least want to pay to read in the algorithmic age. Taiwan's civil society, through monthly deductions from strangers' accounts, has rescued investigative journalism from a line of business in commercial media and turned it into a public good that is constantly being sustained, even as it burns through resources ever faster.",
+        "category": "society",
+        "href": "/en/society/the-reporter-investigative-journalism",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": null,
+        "image": "/article-images/society/the-reporter-brand-logo.webp"
+      },
+      {
+        "title": "Taiwan's Top 50 Companies: The Sacred Mountain That Holds Up One Table, and Also Holds Up a Single-Point-of-Failure State",
+        "desc": "On May 19, 2026, TSMC alone accounted for 31.51% of the Taiwan Capitalization Weighted Stock Index and roughly 40% of the total market capitalization of Taiwan stocks; the top 50 companies together sustain an economy the size of one GDP, but one company among them has hijacked that GDP's fate. Electronics account for 36%, finance 25%, and traditional industries 10%; the so-called tripartite balance of electronics, finance, and traditional industries is in fact half a body held up by one electronics leg. From the night Jensen Huang and Morris Chang took a photo together at Ningxia Night Market, to the 32 lives lost on Kaixuan 3rd Road before dawn, this ranking is both Taiwan's irreplaceable spine and its most fragile single point of failure.",
+        "category": "economy",
+        "href": "/en/economy/top-50-companies-taiwan",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 18,
+        "image": "/article-images/economy/tsmc-factory-hsinchu-2009.webp"
+      },
+      {
+        "title": "Taiwan Healthcare and National Health Insurance: A World Number One Where 99.6% Rests on 12.61%",
+        "desc": "The National Health Insurance card used on March 1, 1995, was rushed out under extreme pressure: six days earlier, the cards had not even been printed. Thirty years later, the right to medical care for 23 million people rests on a 5.17% premium rate, a nursing turnover rate at a 10-year high of 12.61%, and a political taboo no one has dared touch for 30 years.",
+        "category": "lifestyle",
+        "href": "/en/lifestyle/taiwan-healthcare-and-national-health-insurance",
+        "date": "2026-07-30T09:46:44+09:00",
+        "readingTime": 22,
+        "image": "/article-images/lifestyle/nhi-taipei-building-2018.webp"
+      },
       {
         "title": "Miaoli County: A Hakka Stubborn-Spirited County That Elected a Magistrate Who More Than Doubled Its Debt in Eight Years",
         "desc": "During the Japanese period, Miaoli accounted for 95% of Taiwan's camphor output, and Sanyi built its woodcarving industry from the roots left after camphor refining. In 2002, Beihe Village in Gongguan held the first Tung Blossom Festival. In 2008, Liu Cheng-hung took over a county with NT$20.2 billion in debt; by the time he left office in 2014, the books showed NT$67.6 billion. In between came Zhu Feng-min drinking pesticide, the forced demolition of Chang Pharmacy, and the NT$120 million Hakka Round House becoming a mosquito hall. Today, 530,000 people live in this county, whose 62.5% Hakka population share is Taiwan's second highest.",
@@ -301,6 +436,24 @@
         "date": "2026-07-30T04:02:34+08:00",
         "readingTime": 18,
         "image": "/article-images/technology/alphafold-cbln1-structure-2025.webp"
+      },
+      {
+        "title": "The Li Poetry Society: A Group Forced to Forget Japanese Sustained Taiwan’s Longest-Running Chinese Poetry Journal",
+        "desc": "In 1958, a 36-year-old Taiwanese former Japanese soldier published his first post-war Chinese poem under the pen name 'Huan Fu,' eleven years after he stopped writing in Japanese. Six years later, he and eleven others met in a living room in central Taiwan to transform this generation's experience of linguistic loss into a poetry society called 'Li'—a journal that has never ceased publication for 60 years, bringing local poetics from the margins into junior high school textbooks.",
+        "category": "art",
+        "href": "/en/art/li-poetry-society",
+        "date": "2026-07-29T13:39:11+09:00",
+        "readingTime": null,
+        "image": "/article-images/art/li-poetry-wu-sheng-2016.webp"
+      },
+      {
+        "title": "I Am a Person from [City]: The 'Local' Fan Pages with an AI Prompt Left in the Back-end",
+        "desc": "In February 2026, a local fan page claiming to be 'a person from Taipei' left behind an unedited AI prompt: 'Remove sensitive terms, enhance Taiwan local dialect.' Following this trail leads to a corporate entity in Neihu, Taipei, which uses AI to rewrite news from CTi News and CTWANT into the vernacular of locals, distributing them across fan pages disguised as residents of various cities. It doesn't fabricate news; it reposts real news. The problem lies in the untraceable origin and funding—while those best at identifying cognitive warfare in Taiwan are urging: 'Don't rush to label things.'",
+        "category": "society",
+        "href": "/en/society/oo",
+        "date": "2026-07-29T13:39:11+09:00",
+        "readingTime": null,
+        "image": "/article-images/society/woo-fanpage.webp"
       },
       {
         "title": "Taiwan Railway History: The \"Lung Disease\" Railway, the \"Black-Headed Ones,\" and the Line That Lost Its Foreign Names",
@@ -348,15 +501,6 @@
         "image": "/article-images/history/green-island-memorial-park-2016.webp"
       },
       {
-        "title": "National Human Rights Museum: The Names Not Written on the Tearful Monument",
-        "desc": "On International Human Rights Day in 1999, Lee Teng-hui personally unveiled the Tearful Monument on Green Island. Bo Yang wrote 28 characters that captured all mothers' long nights of weeping, yet did not write a single perpetrator's name. Six years of preparation, an unveiling in 2018, and a frozen budget in 2025. A museum built by the state itself to commemorate what the state itself had done. In the 39 years since martial law was lifted, not one perpetrator has faced judicial trial.",
-        "category": "history",
-        "href": "/en/history/national-human-rights-museum",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 16,
-        "image": "/article-images/history/nhrm-tsai-unveil-2018.webp"
-      },
-      {
         "title": "Resolution on Taiwan's Future: The Two Words “Currently” Sustained for Twenty‑Seven Years",
         "desc": "In 1999, Lin Zhuoshui added the two characters “currently” before the “Republic of China” state name, displeasing the Chen Shui‑bian faction. Those two words simultaneously appeased pro‑independence supporters and centrist voters, opening the door to the first party‑rotation in 2000. Twenty‑seven years later, Taiwan’s youth consider “Taiwan has always been independent” common sense, yet they do not know that this common sense stems from a deliberately ambiguous document.",
         "category": "history",
@@ -393,15 +537,6 @@
         "image": "/article-images/geography/sisi-south-village-overview-2013.webp"
       },
       {
-        "title": "Bangka: Qing-Era Taipei’s Busiest Place, Now the District with Taipei’s Oldest Average Age",
-        "desc": "Bangka Longshan Temple was jointly built in 1738 by migrants from the three Quanzhou counties; by 2026 it is 288 years old, 137 years older than the Qing court’s Taipei Prefecture. The 1853 Ding-Xia Jiao Conflict pushed the Tong’an people into Dadaocheng, planting the divergence that would shape northern Taiwan for two centuries. Renamed Wanhua under Japanese rule, made a district in 1990, and turned into the setting of Doze Niu’s 2010 film Monga, it now has an aging index of 320.78%, the highest in the city. On Taipei’s earliest street, the first incense stick in the temple forecourt is still burning at six in the morning.",
-        "category": "geography",
-        "href": "/en/geography/bangka",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 22,
-        "image": "/article-images/geography/wanhua-longshan-temple-2016.webp"
-      },
-      {
         "title": "Beida Special District: Three Decades of Urban Planning and the University Town Living Experiment",
         "desc": "From the 1895 Longenpu Battlefield to the 2026 MRT University Town, this is an in-depth encyclopedia about land, aesthetics, and selective identity.",
         "category": "geography",
@@ -409,144 +544,198 @@
         "date": "2026-07-27T18:53:04+08:00",
         "readingTime": 18,
         "image": ""
-      },
-      {
-        "title": "Beitou Hot Spring Street: From Sulfur Mining in 1697 to the Hot Spring Museum in 2026, the Same Mountain Spring Through Four Generations of Residents",
-        "desc": "In 1697, Yu Yonghe came to these mountains to mine sulfur and traded cloth with the Ketagalan people for sulfurous soil; in 1896, Osaka native Hirata Gengo built Taiwan's first hot spring inn, Tenguan, at what is now No. 234, Guangming Road; in 1913, the red-brick public bathhouse designed by Moriyama Matsunosuke opened; in 1923, Crown Prince Hirohito came for a bath; in 1967, a photograph in Time magazine enraged Chiang Kai-shek; after Mayor Lee Teng-hui abolished the licensed hostess system in 1979, the wine houses went dark; in 1998, the abandoned red-brick bathhouse became a museum. The same steaming mountain spring was discovered by outsiders three times and adapted to by four generations of residents.",
-        "category": "geography",
-        "href": "/en/geography/beitou-hot-spring-street",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 25,
-        "image": "/article-images/geography/beitou-hot-spring-museum-2020.webp"
-      },
-      {
-        "title": "Changhua County: The Agricultural Giant That Beat Dupont but Can't Keep Its Young People",
-        "desc": "In 1709, Shi Shibang channeled water from the Zhuoshui River to create Taiwan's first large-scale irrigation system — 211 years before Hatta Yoichi's Chianan Canal. In 1723, the first year of the Yongzheng era, the county was carved out from Zhuluo County, bounded by the Huwei River to the north and the Dajia River to the south — this was the origin of Changhua's establishment. In 1786, Lin Shuangwen's forces besieged Changhua city, but Lukang held. In 1788, the Qianlong Emperor ordered the construction of an official-funded Mazu temple (Xinzu Gong) in Lukang. In 1922, the Changhua Roundhouse opened. In 1986, Lukang residents drove out American firm Dupont — Taiwan's first environmental movement. In April 2026, Changhua County's population stood at 1,206,458, falling below the threshold for special municipality upgrade.",
-        "category": "geography",
-        "href": "/en/geography/changhua-county",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 16,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Lukang_Longshan_Temple_in_2017.jpg/1280px-Lukang_Longshan_Temple_in_2017.jpg"
-      },
-      {
-        "title": "Chiayi City: Named by an Emperor, Yet the Provincial City Most Easily Overlooked",
-        "desc": "In the 52nd year of the Qing Qianlong reign, an imperial edict renamed “Zhuluo” as “Chiayi,” making it the only city in Taiwan personally named by an emperor. In 1908, in rice paddies 3.3 kilometers southwest of the city, the Japanese erected the world’s first Tropic of Cancer monument. In 1931, Chiayi Agriculture and Forestry’s mixed squad of three ethnic groups reached the Koshien runner-up position. On March 25, 1947, the painter Chen Cheng-po was bound and executed by firing squad in front of the train station; his body was left in the street for three days. Today Chiayi City has 260,000 people and 60 square kilometers, no high-speed rail station, and is entirely surrounded by Chiayi County. It is a specimen of Taiwan’s mid-sized cities.",
-        "category": "geography",
-        "href": "/en/geography/chiayi-city",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 16,
-        "image": "/article-images/geography/chiayi-city-hero.webp"
-      },
-      {
-        "title": "Chiayi County: 490,000 People Lend Their Face to Alishan, and No One Remembers the County Seat Is in Taibao",
-        "desc": "At five in the morning, the oyster racks off Dongshi are still in the water; half of the nation's oysters come from this stretch of sea. A hundred kilometers away on Alishan, the forest railway that opened to Erwanping in 1912 runs 66.6 kilometers. In between, beside Taibao's high-speed rail station, the Southern Branch of the National Palace Museum took 15 years to open, drawing 760,000 visitors in 2018. When the Chiayi County seat moved from Chiayi City to Taibao in 1991, the whole country thought Chiayi meant Chiayi City. Thirty-five years later, this county of 490,000 people surrounds a city of 270,000 that was carved out of it, with an aging index of 174%, the highest in Taiwan.",
-        "category": "geography",
-        "href": "/en/geography/chiayi-county",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 18,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Tashan_in_morning_glow.jpg"
-      },
-      {
-        "title": "Dadaocheng: 800 Meters, Three Centuries, from Formosa Tea to the First Shot of February 28",
-        "desc": "Dihua Street is quiet at 5:30 in the morning. The Western-style building of Chen Tian-lai's Jinji Tea Company, opened on Guide Street in 1891, still stands in its original place, and the incense burner at Xia-Hai City God Temple has burned for 167 years. In 1851, several households opened shops here; in 1853, Tong'an people fled here for refuge; in 1869, the first 120,000 catties of Formosa Tea were shipped from Tamsui to New York; in 1885, Liu Mingchuan established Taiwan's first Western-style school here; in 1921, Chiang Wei-shui opened Da'an Hospital in Taipingcho, making it the political starting point of the Taiwan Cultural Association; and at dusk on February 27, 1947, a packet of contraband cigarettes outside Tianma Tea House ignited the February 28 Incident. A place that traded in tea, hosted a Western-style school, and became the site of postwar Taiwan's deepest wound: 800 meters hold three centuries.",
-        "category": "geography",
-        "href": "/en/geography/dadaocheng",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 16,
-        "image": "/article-images/geography/dadaocheng-aerial-view-2010s.webp"
-      },
-      {
-        "title": "Dalongdong: The Incense of Baoan Temple, the Bell of the Confucius Temple, and the Blue Sky with a White Sun at Yuanshan, Three Eras of Taipei Faith",
-        "desc": "From the 5,300-year-old Yuanshan shell midden to the rudimentary Baoan Temple built by Tong'an migrants in 1742; from Chen Wei-ying's 1859 provincial degree and the saying 'a xiucai every five steps, a juren every ten' to the 1925 fundraising campaign by local gentry to rebuild the Confucius Temple demolished by the Japanese; from the 1944 crash that destroyed the shrine to the 14-story Chinese palace-style Grand Hotel that Yang Cho-cheng built on the original site in 1973. Three spaces of faith stand side by side along the 1.5-kilometer axis from Dalongdong to Yuanshan, but none matches the tourist-brochure version: Baoan Temple is Taiwan's first UNESCO Asia-Pacific Heritage Award site, restored after Liao Wu-chih refused government subsidies in 1995 and spent NT$260 million of temple funds; the Confucius Temple stands on more than 3,000 ping of land donated by the Chen Yueji family and Koo Hsien-jung so that Confucius would not be left homeless; the Grand Hotel is the red-tiled, yellow-eaved building that has received 111 heads of state. The uncles and aunties practicing tai chi on Dalong Street are standing on Taipei's most compressed slice of time.",
-        "category": "geography",
-        "href": "/en/geography/dalongdong",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 23,
-        "image": "/article-images/geography/dalongdong-baoan-temple-2010s.webp"
-      },
-      {
-        "title": "Reading Taiwan's 22 Counties and Cities Through Data: the Most Crowded and the Most Empty Differ by 151 Times, the Oldest and Youngest by a Generation",
-        "desc": "On the same Taiwan, Taipei City, with the highest population density, has 8,975 people per square kilometer, while Taitung County, with the lowest, has only 59, a 151-fold difference. New Taipei City, the most populous, has 4.04 million people; Lienchiang County, the least populous, has 13,600, a 297-fold difference. The youngest, Hsinchu County, has an aging rate of 15.08%; the oldest, Chiayi County, has 24.11%, a gap of nearly one generation. Using official data from the Department of Household Registration at the end of 2025, this article draws a scaled, verifiable portrait of the whole country: 70% of the people are packed onto 30% of the land; the leading edge of aging is not in the cities but in eastern Taiwan, outlying islands, and agricultural counties; and without exception, in all 22 counties and cities across Taiwan, deaths already outnumber births.",
-        "category": "geography",
-        "href": "/en/geography/data-taiwan-22-cities",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 13,
-        "image": "/article-images/geography/taiwan-island-nasa-mosaic.webp"
-      },
-      {
-        "title": "Gongguan: The Japanese Empire's Laboratory, Martial-Law-Era Underground Salons, and NTU Students' Fried Chicken Cutlets: Three Centuries in 500 Meters",
-        "desc": "In 1928, the Japanese built the empire's sixth university, Taihoku Imperial University, on Taipei's southern outskirts; outside its gate, the area around Wenzhou Street, Qingtian Street, and Yongkang Street became a faculty housing district. After the war, in 1949, the dormitories were taken over for postwar Chinese migrant scholars; the small house at 1-1, Alley 16, Lane 18, Wenzhou Street became the living room of Yin Hai-kuang under house arrest; Wistaria Tea House in Lane 16, Section 3, Xinsheng South Road went from a Customs Administration official residence to a dangwai youth-culture salon; 25 Wenzhou Street was Tai Jingnong's study, where he wrote until 1990; and the 1972-75 NTU Department of Philosophy Incident implicated 13 professors on campus. In 1999, the MRT Xindian line opened, and Gongguan Circle became the dinner ATM for NTU students. The Japanese Empire's laboratory, martial-law-era underground salons, and contemporary students' fried chicken cutlets: three centuries layered into 500 meters.",
-        "category": "geography",
-        "href": "/en/geography/gongguan",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 22,
-        "image": "/article-images/geography/gongguan-ntu-main-gate-2017.webp"
-      },
-      {
-        "title": "Gueishan Island: The Direction of Home That Yilan People See Every Day, and the Home Island Residents Cannot Return To",
-        "desc": "Grandmother Huang Chen-yu moved from Gueishan Island to Toucheng more than thirty years ago, yet every night she still dreams of life on the island. For Yilan people on shore, Gueishan Island is the foremost of the Eight Views of Lanyang and the landmark at the Snow Mountain Tunnel exit that says, \"almost home.\" For the Gueishan Islanders who actually lived there, it is an ancestral home exchanged in the 1970s through a relocation without compensation. Visible but unreachable; reachable but unlivable. In 1975, writer Wu Min-hsien called it \"an island soon to be forgotten.\" Half a century later, it has not been forgotten; what is remembered is the scenery and legend, while those who lived there have been forgotten.",
-        "category": "geography",
-        "href": "/en/geography/gueishan-island",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 22,
-        "image": "/article-images/geography/guishan-hero.webp"
-      },
-      {
-        "title": "Guling Street: The Book Street the Japanese Left Behind, Edward Yang's Adolescents, and the Nationalist Government's Palaces",
-        "desc": "On a Saturday afternoon, students line up in front of the red-brick theater at the end of Lane 5, Guling Street. Next to it are the National Museum of History, built in 1955, and the lotus pond of the Taipei Botanical Garden, reorganized in 1921. This 1.2-kilometer street was called Sakuma-cho in 1922 and renamed Guling Street in 1947 after Lushan in Jiangxi. After 1945, the books left behind when the Japanese withdrew were laid out along the roadside and became Taiwan's first used-book street. At its 1960s peak there were more than 200 vendors. After Guanghua Bridge opened in April 1973, the vendors were cleared out and moved beneath the Guanghua overpass. On June 15, 1961, on this street, 16-year-old Mao Wu killed 15-year-old Liu Min with a scout knife. In 1991, Edward Yang made the incident into a 237-minute film. The book street was dismantled, the stalls moved, and students began buying books elsewhere. What remains are the Japanese-era red-brick former police precinct, the postwar Chinese palace-style museum, and the lotus pond that has been in the same place since 1921.",
-        "category": "geography",
-        "href": "/en/geography/guling-street",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 18,
-        "image": "/article-images/geography/guling-street-nanhai-academy-2024.webp"
-      },
-      {
-        "title": "Houtong: The Camera That Saved a Mountain Town Also Fed Taiwan's Largest Cat Dumping Ground; TNVR Patches Up What Tourism's Good Intentions Couldn't Finish",
-        "desc": "In 2009, photographer Chien Pei-ling (Cat Lady) walked into a forgotten mountain town along the Pingxi Line that had been abandoned for 19 years after the Ruisan coal mine ceased operations in 1990. Her camera turned Houtong into one of CNN's six best cat-watching destinations in the world in 2013. But the 'Cat Paradise' label bred Taiwan's largest cat dumping ground — a 2012 feline distemper outbreak, at least 10 cat abuse cases in 2013, and a 2022 abandonment case fined NT$110,000. In 2014, Cat Lady quit, leaving behind the words: 'Endlessly exploiting the cats, exploiting me, exploiting Houtong.' In January 2026, TNVR brought the cat population from 200–300 down to 30-something, and Mirror Weekly reported it under a 'village extinction' frame. But what disappeared wasn't the cat village — it was the 'single influencer IP propping up local revitalization' model.",
-        "category": "geography",
-        "href": "/en/geography/houtong-cat-village",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 17,
-        "image": "/article-images/geography/houtong-keelung-river-2016.webp"
-      },
-      {
-        "title": "Hsinchu City: The Bamboo Fortress Planted in 1733, the Cradle That Grew TSMC in 1980",
-        "desc": "In 1733, the 11th year of the Yongzheng reign, Magistrate Xu Zhimin of the Tamsui Subprefecture planted thorny bamboo all around the settlement, enclosing a circular earthen wall 1,408 meters in circumference. In 1829, the brick-and-stone city was completed; the East Gate, Yingximen (Gate of Greeting the Dawn), still stands beside its moat today. 247 years later, on December 15, 1980, Chiang Ching-kuo cut the red ribbon for Taiwan's first science park, just 5 kilometers from Yingximen. Between 1953 and 1974, 148 members of the Black Bat Squadron took off from this Wind City to conduct reconnaissance over mainland China and never came back. A provincial city of 450,000 people that held the Cold War front line, the earliest Han-built city in northern Taiwan, two top universities, and the starting point of 90% of the world's advanced semiconductor chips. The nickname 'Wind City' sounds literary, but every industry in this city is connected to the wind.",
-        "category": "geography",
-        "href": "/en/geography/hsinchu-city",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 17,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hsinchu_East_Gate_%280421%29.JPG/1280px-Hsinchu_East_Gate_%280421%29.JPG"
-      },
-      {
-        "title": "Hsinchu County: A 235-Year Yimin Faith and Taiwan’s Highest Per Capita Income Along the Same Touqian River",
-        "desc": "In the winter of 1788, Baozhong Pavilion was founded on a hillside in Xinpu to collectively bury more than 200 Hakka yimin who died in the Lin Shuangwen Rebellion. Two hundred thirty-five years later, the rotating ritual circuit of the Yimin Festival on the twentieth day of the seventh lunar month is still running among the Fifteen Lianzhuang. Five kilometers away, Zhubei City ranked first among Taiwan’s 368 townships, towns, cities, and districts in 2025 with per capita income of NT$1.442 million, magnetized by TSMC’s Baoshan Phase II 2-nanometer wafer fab. Hsinchu County is 67.8% Hakka, the highest share in Taiwan. But among the 220,000 people in the county seat of Zhubei, fewer young Hakka people can afford homes in their own hometown.",
-        "category": "geography",
-        "href": "/en/geography/hsinchu-county",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 17,
-        "image": "/article-images/geography/hsinchu-county-hero.webp"
-      },
-      {
-        "title": "Hualien County: The Sakizaya Hidden for 129 Years, the Truku Reclaimed Through Name Rectification, and 0403 Pushed It Away Again",
-        "desc": "In 1878, Qing troops bound Komod Pazik, chief of the Takubuwan community, to a bishop wood tree and executed him by lingchi; the Sakizaya hid within the Amis for 129 years. In 2004, the Truku emerged from the Atayal classification to become the 12th recognized Indigenous people; in 2007, during the Chen Shui-bian administration's second term, the Sakizaya were recognized as the 13th. At 7:58 a.m. on April 3, 2024, those 98 seconds of the 0403 earthquake, magnitude 7.1, smashed Taroko National Park's Swallow Grotto, Tunnel of Nine Turns, and Shakadang Trail all at once. In 2024, tourists fell to just 210,000; in a normal year there are 6.6 million. On a strip of land between mountains and sea that narrows to just 5 kilometers, the fates of six Indigenous peoples have always shaken with the tectonic plates.",
-        "category": "geography",
-        "href": "/en/geography/hualien-county",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 18,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Taiwan_2009_CingShui_Cliffs_on_SuHua_Highway_FRD_6762_Pano_Extracted.jpg"
-      },
-      {
-        "title": "Hukou Old Street: When the Train Moved in 1929, the Red‑Brick Old Street Remained in Place for a Hundred Years",
-        "desc": "In 1893, Liu Ming-chuan's railway established a station here, turning a scattered Hakka village into a hub for Hsinchu‑Miaoli commodities; in 1917 the Sanyuan Temple began construction and was completed the following year, with red‑brick Western‑style buildings lining the new street. In 1929 the Japanese deemed the slope too steep and moved the station north to today's Hukou Station, abruptly ending sixteen years of prosperity, after which the area was called “Old Hukou.” A Catholic church was later built on the former station site, the Sanyuan Temple remains in its original location, and the railway‑abandoned old street escaped post‑war demolition and reconstruction.",
-        "category": "geography",
-        "href": "/en/geography/hukou-old-street",
-        "date": "2026-07-27T18:53:04+08:00",
-        "readingTime": 9,
-        "image": ""
       }
     ],
     "ja": [
+      {
+        "title": "国家人権博物館：涙の碑に書かれなかった名前",
+        "desc": "1999年の国際人権デー、李登輝は緑島で「涙の碑」を自ら除幕しました。柏楊は28字で、すべての母親が長い夜に流した涙を書き尽くしましたが、加害者の名前は一人も書きませんでした。6年の準備、2018年の看板除幕、2025年の予算凍結。国家が自ら建て、自らが行ったことを記念する博物館です。しかし解厳から39年、一人の加害者も司法裁判を受けていません。",
+        "category": "history",
+        "href": "/ja/history/national-human-rights-museum",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 16,
+        "image": "/article-images/history/nhrm-tsai-unveil-2018.webp"
+      },
+      {
+        "title": "台湾鉄道史：肺病鉄道、黒頭仔、そして外国名を失った系譜",
+        "desc": "日本人に「肺病鉄道」と罵られた粗末な路線は、一世紀余りのあいだに、毎日二十万人を運ぶ高速動脈へと変わりました。劉銘伝が招いたドイツ人・英国人技師の仕事は、のちに日本人によっていったん白紙に戻され、長谷川謹介の縦貫線も戦後の台湾鉄路によって改名・改番されました。どの世代も前の世代の記録を脚注へ押しやり、外国名はしだいに剥がれ落ちていきました。残ったのは台湾語の「黒頭仔」「火車仔」、莒光・自強・復興という政治スローガン、そしてようやくプユマ・タロコの世代になって、先住民族の地名が再びレールの上に敷き戻されたのです。",
+        "category": "history",
+        "href": "/ja/history/taiwan-railway-history",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 16,
+        "image": "/article-images/history/tra-taitung-line-fireman-1970s.webp"
+      },
+      {
+        "title": "士林：ケタガラン族の土地、漳州・泉州械闘の廟、そして今は毎晩台北で最も混雑する夜市",
+        "desc": "午後7時半、士林夜市の入口では韓国人観光客が大鶏排を掲げて自撮りをし、その隣、大南路84号の慈諴宮は1796年の嘉慶元年から立ち続け、2026年に230歳を迎えます。1859年の咸豊9年、漳州人はこの通りから泉州人に焼き出され、1860年の庚申年、潘永清は下樹林に大東路・大南路・大西路・大北路という四本の整然とした街路を引き、廟をその真ん中に置きました。1909年、日本人は廟の向かいに市場を建て、1955年には陽明戯院が文林路に落成し、1992年に豪大大鶏排が台中で発明され、1999年に士林へ進出しました。2002年に戦後増築された屋根付き部分が撤去され、2011年に新市場が開業し、地下フード街は朝から晩まで二交代で人が入れ替わります。廟はいまも元の場所にありますが、その足元では毎日二つの都市が交代で現れます。",
+        "category": "geography",
+        "href": "/ja/geography/shilin",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 22,
+        "image": "/article-images/geography/shilin-cixian-temple-2010.webp"
+      },
+      {
+        "title": "台湾の眷村料理",
+        "desc": "1949年の大移動がもたらした中国各省の味覚。竹矢来の囲いの中の厨房から、眷村解体後の味覚の保存まで。",
+        "category": "food",
+        "href": "/ja/food/military-dependents-village-cuisine",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 8,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Spring_onion_pancake_2013.JPG/960px-Spring_onion_pancake_2013.JPG"
+      },
+      {
+        "title": "笠詩社：日本語を強制的に忘れさせられた人々が支えた、台湾最古参の中国語詩誌",
+        "desc": "1958年、36歳の台湾籍日本兵が「桓夫」の筆名で戦後初の中国語詩を発表したのは、日本語を筆にすることをやめてから11年後のことだった。6年後、彼と他の11人が台湾中部の居間で集まり、この世代の失語の経験を「笠」という詩社へと変貌させた——60年間休刊することなく、本土詩学を辺縁から中学の教科書へと書き込んでいった。",
+        "category": "art",
+        "href": "/ja/art/li-poetry-society",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": null,
+        "image": "/article-images/art/li-poetry-wu-sheng-2016.webp"
+      },
+      {
+        "title": "『台湾漫遊録』：一本の「妹が翻訳した本」が、春山からロンドンの授賞台へたどり着くまで",
+        "desc": "2015 年 6 月、妹の楊若暉が亡くなったその日、楊若慈は妹が遺した帳簿を開いて記帳を始め、チェックや丸印の暗号を理解するまで三日かかりました。五年後、春山出版から出た『台湾漫遊録』には「青山千鶴子著・楊双子訳」と記されていました。訳者欄に書かれていたのは、すでに亡くなった妹の名でした。2024 年ニューヨークの NBA、2026 年ロンドンのブッカー賞。彼女は妹の名で、存在しない本を翻訳したのです。",
+        "category": "art",
+        "href": "/ja/art/taiwan-travelogue",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": null,
+        "image": "/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp"
+      },
+      {
+        "title": "大安渓の倚天剣：東アジアで最も高い木は、私たちの届かない場所に七百年隠れていました",
+        "desc": "2023 年の旧正月、「找樹的人」チームは大安渓を 7 日間遡行し、源流部のほとんど誰も到達できない深い谷で、一本の台湾杉の樹冠から巻き尺を垂らしました。84.1 メートル、東アジアで最も高い木です。これは航空機搭載 LiDAR の予測より 4.6 メートルも高い数値でした。毎年台風に襲われ、崩れ、浸水する島に、本来ならこれほど高い生命が残っているはずはありません。しかしそれは、人間が到達できない渓谷に生えていたからこそ、大規模伐採を逃れ、七百年を生き延びました。同じ「到達できなさ」がそれを生かし、また私たちがレーザーで島全体を走査して初めて、この年にその存在を見せたのです。",
+        "category": "nature",
+        "href": "/ja/nature/daan-river-yitian-sword",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 15,
+        "image": "/article-images/nature/taiwania-nantou-shihchuan.webp"
+      },
+      {
+        "title": "キバシウオミミズク：6キロメートルの渓流が一つがいを養う、標高1,800メートルのタイワンオガタマにすむ夜行性猛禽",
+        "desc": "2026年4月、屏東科技大学（屏科大）助理教授の洪孝宇は、七家湾渓のほとりにある胸高直径約1.5メートルのタイワンオガタマの樹洞で、台湾で既知のものとして最も標高の高いキバシウオミミズクの巣を特定しました。標高は約1,800メートルです。台湾最大のフクロウであるこの種は、1916年になって日本人研究者の黒田長礼により初めて記録されました。屏東科技大学の孫元勳研究室は三十年にわたり追跡し、91のなわばりから、一つがいあたり平均6.2キロメートルの渓流が必要であることを明らかにしました。コンクリートで固められていない一本の渓流、まだ倒れていない一本の巨木。キバシウオミミズクは、台湾の山林でこの二つがまだ消えずに残る隙間に生きています。",
+        "category": "nature",
+        "href": "/ja/nature/tawny-fish-owl",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 12,
+        "image": "/article-images/nature/tawny-fish-owl-gailhampshire-2009.webp"
+      },
+      {
+        "title": "陳建年：派出所の金曲歌王、祖父が残した歌を孫が海へと書き継ぐ",
+        "desc": "1967年8月1日、台東の卑南・南王部落に生まれました。1986年に警察専科学校を卒業して台東・関山に配属され、警察界で30年10か月勤務しました。1999年、33歳で初の創作アルバム《海洋》を発表し、2000年の第11回金曲奨では張学友、王力宏、陶喆、庾澄慶を破って最優秀北京語男性歌手賞を受賞し、同じ回で〈神話〉により最優秀作曲賞も受賞しました。授賞台に立った彼は、なお警察官でした。同年9月、騒がしさを避けるため蘭嶼への転任を願い出て、退職まで17年間滞在しました。祖父の陸森宝は〈美麗的稻穗〉の作者であり、孫は三十年をかけてその音楽の線を受け止めました。",
+        "category": "people",
+        "href": "/ja/people/chen-chien-nien",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 8,
+        "image": "/article-images/people/chen-chien-nien-hsinchu-feng-2018.webp"
+      },
+      {
+        "title": "Cicada：2009年のモーラコット台風から2025年の半球を越える氷河まで、十六年のフィールド録音",
+        "desc": "2009年に台北で結成されたCicadaは、全曲が器楽で、ボーカルのないインディーバンドです。創設メンバーのピアニスト江致潔（こう・ちけつ／ジアン・ジージエ、台北芸大芸術史修士）は、その年のモーラコット台風のニュースを見たことをきっかけに最初の楽曲群を書きました。その後の十六年で、彼らは台湾の海岸消失、海洋生態、山林と渓流の源を、人声のないアルバムへと変えてきました。西海岸（《消えゆく辺境》2013）、東海岸の太平洋（《海面を仰ぎ見る》2015）から、中央山脈の渓流源（《渓流の源に棲む》2022、15日間120キロの遠征）へと歩みを進めました。日本映画《ある男》の音楽を担当し、日本アカデミー賞優秀音楽賞を受賞しました。2025年の《白い境界を見つめる》では、初めてフィールドを台湾の外へ広げ、氷河をたどってグリーンランド、アイスランド、ニュージーランドを歩き、さらに雪山へ戻って古代氷河が残した痕跡を探しました。",
+        "category": "people",
+        "href": "/ja/people/cicada-band",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 24,
+        "image": "/article-images/people/cicada-cuichi-xueshan-glacial-lake.webp"
+      },
+      {
+        "title": "聶永真：台湾初のAGI会員、金曲賞のパッケージから国家的アイデンティティ・システムまでの二十年",
+        "desc": "聶永真（1977年生まれ）は、台湾で初めてスイスの国際グラフィック連盟AGIに加入したデザイナーであり、金曲賞最優秀アルバム装丁賞を三度受賞しています。デザイン案件は、ポピュラー音楽のジャケット（李宗盛、林宥嘉、盧葦）、書籍出版、市民運動（2014年ひまわり運動の午前4時ニューヨーク・タイムズ広告、2020年反テドロス「Taiwan Can Help」で8時間に1,000万台湾ドルをクラウドファンディング）、政治選挙（蔡英文2016年「点亮台灣」と二度の総統就任式メインビジュアル）、国営事業のアイデンティティ・システム（経済部、観光署、中油、台電）、芸術空間（台中グリーン美術館、ヴェネチア・ビエンナーレ台湾館）に及びます。永真急制のスタジオは台北と高雄・駁二倉庫に拠点を置きます。彼はベルギーとロンドンへ渡って大学院で学びましたが、三校とも修了していません。自ら「デザイナー聶永真である前に、市民聶永真である」と述べています。2024年以降、四つの国営事業アイデンティティ案件を連続して落札し、2026年には台電ロゴ公開当日に「政治的な利益供与」論争が噴出しました。",
+        "category": "people",
+        "href": "/ja/people/nieh-yung-jen",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 18,
+        "image": "/article-images/people/aaron-nieh-portrait-2018.webp"
+      },
+      {
+        "title": "瘂弦：『深淵』を書き終えて筆を断ち、後半生は「聯副」で詩史の一頁となりました",
+        "desc": "1968 年、36 歳の瘂弦は九十篇の詩を一冊の『深淵』に編んだ後、筆を止めました。1977 年から 1998 年までの 21 年間、『聯合報』副刊を主編し、編集台を台湾戦後文学における最重要の公共空間へと変えました。2024 年 10 月 11 日、カナダ・バンクーバーで逝去し、享年 92 歳でした。断筆 56 年の沈黙は千冊の詩集よりも長く、「ハレルヤ、私はまだ生きている」というリフレインは、戒厳令時代に晦渋さによって警備総司令部の検閲をくぐり抜けた詩史上の記号となりました。",
+        "category": "people",
+        "href": "/ja/people/ya-hsien-poet",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": null,
+        "image": "/article-images/people/yaxian-portrait-2012.webp"
+      },
+      {
+        "title": "医療法：機関規範と市場のせめぎ合いの四十年",
+        "desc": "台湾の医療法は 1986 年に公布され、2017 年に医師の刑事責任が改正され、2026 年に看護師対患者比が法制化されました。法律に書かれているのは「医療事業の健全な発展の促進」ですが、実際に動いているのは、病床の 83% が私立化され、救急医の離職率が国際水準の 2、3 倍に達し、看護師が相次いで 1,000 人以上離職してようやく看護師対患者比が法律に書き込まれるという現実です。これは健保法でも医師法でもありません。台湾において「病院」という機関がどのように存在するのかを定める根本法であり、医療の公益性と市場メカニズムのあいだで四十年にわたり解けていないせめぎ合いでもあります。",
+        "category": "society",
+        "href": "/ja/society/medical-care-act",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 18,
+        "image": "/article-images/society/ntu-hospital-pond-2011.webp"
+      },
+      {
+        "title": "国民住宅と居住正義：政府が建てた安い住宅は、最後に誰の資産エスカレーターを育てたのか",
+        "desc": "1985 年、成功国民住宅は 1 坪 6.7 万台湾ドルでも買い手がつかず、老里長が 40 万台湾ドルの頭金をかき集めて購入しました。40 年後、同じ住所は 1 坪 100 万台湾ドルに迫っています。国民住宅は本来「人びとが住宅を買えるようにする」ための道具でしたが、値上がり益を回収するゲートは一度も設けられず、公共補助は最後に早く買った人の私的資産となりました。2026 年、桃園がそのゲートを取り戻したことは、国民住宅の誤りを認めることに等しいです。",
+        "category": "society",
+        "href": "/ja/society/public-housing-justice",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 16,
+        "image": "/article-images/society/taipei-skyline-housing-2026.webp"
+      },
+      {
+        "title": "台湾スポーツ発展とオリンピック：「チャイニーズ・タイペイ」と呼ばれるチーム",
+        "desc": "1976年のモントリオールで、カナダは「Taiwan」への改名を求め、蔣経国は国辱とみなして出場を辞退しました。2024年のパリで、麟洋ペアが男子ダブルス連覇を果たした夜、会場全体が梅花旗に合わせて国旗歌の歌詞を高らかに歌いました。入場できなかった「台湾」から、世界が Taiwan と呼び始めるまで、「中華台北」と呼ばれるこの帽子は、どの世代の金メダルもその重みをかぶってきました。",
+        "category": "society",
+        "href": "/ja/society/taiwan-sports-olympics",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 18,
+        "image": "/article-images/society/yang-chuan-kwang-1960.webp"
+      },
+      {
+        "title": "台湾上位 50 大企業：「護国神山」が一枚の表を支え、単一障害点を抱える国家も支えています",
+        "desc": "2026 年 5 月 19 日、TSMC 一社の時価総額は台湾加権指数全体の 31.51%、台湾株式市場の総時価総額の約 4 割を占めました。上位 50 社を合計すると一つの GDP を支えますが、そのうち一社だけでこの GDP の運命を左右しています。電子産業 36%、金融 25%、伝統産業 10%。いわゆる「電子・金融・伝統産業」の三本柱は、実際には電子産業という一本の脚で身体の半分を支えています。寧夏夜市（ナイトマーケット）でジェンスン・フアンと張忠謀が写真を撮ったあの夜から、凱旋三路で未明に 32 人の命が失われた現場まで、このランキングは台湾にとって代替不能な脊椎であると同時に、最も脆弱な単一障害点でもあります。",
+        "category": "economy",
+        "href": "/ja/economy/top-50-companies-taiwan",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 18,
+        "image": "/article-images/economy/tsmc-factory-hsinchu-2009.webp"
+      },
+      {
+        "title": "艋舺：清朝統治下の台北で最もにぎわった場所、いまは台北で平均年齢が最も高い区",
+        "desc": "艋舺龍山寺は、1738 年に泉州三邑出身者が資金を出し合って建立してから 2026 年で 288 年となり、清朝の台北府より 137 年早く存在していました。1853 年の頂下郊拼という械闘は同安人を大稲埕へ押し出し、北台湾の 2 世紀にわたる分岐を植え付けました。日本統治時代後に萬華へ改称され、1990 年に区が設置され、2010 年に鈕承澤が映画『艋舺』を撮りました。高齢化指数は現在 320.78% で市内最高です。この台北最古の街では、朝 6 時、廟埕の最初の線香がいまも燃えています。",
+        "category": "geography",
+        "href": "/ja/geography/bangka",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 22,
+        "image": "/article-images/geography/wanhua-longshan-temple-2016.webp"
+      },
+      {
+        "title": "台湾の伝統工芸と無形文化遺産：制度による承認は実現したが、弟子がいなくなった",
+        "desc": "2022年12月、文化部は高雄の87歳の土水司阜（どすいしふ／土水修造技術者）蘇清良（そ・せいりょう／スー・チンリャン）氏を「人間国宝」に指定したが、半年後に彼は逝去した。台湾では2005年になってようやく「文化資産保存法」に重要伝統工芸の規定が盛り込まれた。これは日本より50年、韓国より43年遅い。制度が整った頃には、1970〜8世紀の工業化の流れの中で徒弟制度は崩壊していた。600人を超える伝統匠人のうち、50歳以下は「ほんの少数」である。",
+        "category": "culture",
+        "href": "/ja/culture/traditional-crafts-intangible-cultural-heritage",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 14,
+        "image": "/article-images/culture/meinong-paper-umbrella-2013.webp"
+      },
+      {
+        "title": "I Am a Local: The 'Fellow Townsman' Fanpage's Backend is a Neihu Company and a Forgotten AI Prompt",
+        "desc": "In February 2026, a local fanpage calling itself 'I Am a Taipei Person' left an unremoved AI instruction in its post: 'Remove sensitive words, strengthen Taiwanese local colloquialism.' Following this clue leads back to a Lin family-related enterprise in a building in Neihu, which uses AI to rewrite news from CTWANT and other media into a 'fellow townsman' tone, then distributes it in bulk across fanpages disguised as local entities from various counties and cities. It does not fabricate news; it repurposes real news. The problem lies in the unverifiable origin and capital flow. Meanwhile, Taiwan's most adept experts in cognitive warfare are urging caution against hasty labeling.",
+        "category": "society",
+        "href": "/ja/society/i-am-from",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 12,
+        "image": "/article-images/society/woo-fanpage.webp"
+      },
+      {
+        "title": "『報導者』：調査報道を営業品目から公共財へ救い出した十年",
+        "desc": "4人の定期定額寄付者から毎月8,000人へ、『血涙の漁場』三部作から2026年の統一戦線工作特集まで、『報導者』が十年で投じてきたコスト――8か月の潜入、三か国にまたがる取材、長年の違反記録の照合――は、まさにアルゴリズム時代に最も誰もお金を払って読みたがらないものです。この島の市民社会は、見知らぬ人々が毎月引き落としで支える方式によって、調査報道を商業メディアの営業品目から、育て続けられながらも燃焼速度を増す公共財へと救い出しました。",
+        "category": "society",
+        "href": "/ja/society/the-reporter-investigative-journalism",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": null,
+        "image": "/article-images/society/the-reporter-brand-logo.webp"
+      },
+      {
+        "title": "台湾医療と全民健康保険：99.6% が 12.61% の上で支える世界一",
+        "desc": "1995 年 3 月 1 日の健康保険カードは、尻に火がついた状態で急いで用意されたものでした。6 日前にはカードさえ印刷されていませんでした。30 年後、2,300 万人の受診権は、5.17% の保険料率、10 年来最高の 12.61% に達した看護職離職率、そして 30 年間誰も手をつけられなかった政治的タブーの上に成り立っています。",
+        "category": "lifestyle",
+        "href": "/ja/lifestyle/taiwan-healthcare-and-national-health-insurance",
+        "date": "2026-07-30T09:46:44+09:00",
+        "readingTime": 22,
+        "image": "/article-images/lifestyle/nhi-taipei-building-2018.webp"
+      },
       {
         "title": "苗栗県：客家の硬頸の県、8年で県庫の負債を倍増させた県長を選んだ場所",
         "desc": "日本統治期の苗栗の樟脳は台湾全体の 95% を占め、三義は樟脳製造後の樹根を利用して木彫を始めました。2002 年、公館の北河村で第 1 回桐花祭が開かれました。2008 年、劉政鴻は 202 億元の負債を抱えた県を引き継ぎ、2014 年の退任時には帳簿上 676 億元になっていました。その間には、朱馮敏の農薬自殺、張薬房の強制撤去、1.2 億元を投じた客家円楼の蚊子館化が起きました。現在、53 万人が客家人口比率 62.5% と台湾で 2 番目に高いこの県に暮らしています。",
@@ -573,6 +762,15 @@
         "date": "2026-07-30T04:02:34+08:00",
         "readingTime": 18,
         "image": "/article-images/technology/alphafold-cbln1-structure-2025.webp"
+      },
+      {
+        "title": "台湾のドローン産業：台中の玩具飛行機からブルーリストへ、一枚の入場券が雷虎に与えられた",
+        "desc": "2025年9月21日、雷虎科技（Thunder Tiger）のOverkill FPV自爆型ドローンが、米国防総省のブルーUASクリアリスト（Blue UAS Cleared List）認証を取得した——台湾初、そして2026年初頭時点で唯一の企業である。リスト全体には39の機体プラットフォームと165のコンポーネントが掲載されており、台湾が占めるのはそのうちの1枠に過ぎない。2026年4月、米国超党派の4名の上院議員が共同で「台湾のための青空法（Blue Skies for Taiwan Act）」を提案し、台湾企業向けのファストトラックの設立を求めた。法案の存在自体が一つの事実を浮き彫りにしている——台湾の参入が遅すぎるため、米国自らが法整備によって障壁を下げざるを得ない状況である。台中で46年間リモコン玩具飛行機を作り続けてきた企業が、オハイオ州に第二工場を建設する計画を進めている。",
+        "category": "technology",
+        "href": "/ja/technology/taiwan-drone-industry",
+        "date": "2026-07-29T13:39:11+09:00",
+        "readingTime": 16,
+        "image": "/article-images/technology/chung-shyang-ii-uav-2007.webp"
       },
       {
         "title": "台湾海洋貿易史",
@@ -618,207 +816,207 @@
         "date": "2026-07-27T19:10:22+08:00",
         "readingTime": 14,
         "image": "/article-images/geography/keelung-hero.webp"
-      },
+      }
+    ],
+    "ko": [
       {
-        "title": "南投県：唯一海に面さない県、921の震央はその中心にあった",
-        "desc": "1999年9月21日午前1時47分、集集鎮の地下にある車籠埔断層が102秒間にわず動いた。台湾全体で2,415人が死亡し、南投県だけで886人が亡くなり、中寮郷では建物の90%が損壊した。1930年、霧社公学校の升旗式の日、莫那魯道は6社のセデック族を率いて134人の日本人民間人を殺害した。1934年、武界ダムが18.18メートル水位を上げ、邵族のラル島を水没させた。1957年、中興新村が建設され台湾省政府の臨時辦公庁として機能したが、1998年の省政府廃止により機能が失われ、ヤシの木並みだけが残った。47万人がこの標高100メートルから3,952メートルに至る内陸県に住んでいる。セデック族、ブヌン族、邵族、ツォウ族の4つの先住民族と漢人が共存するこの地に、台湾で最も深い傷痕が刻まれている。",
-        "category": "geography",
-        "href": "/ja/geography/nantou-county",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": 16,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Sun_Moon_Lake_in_Twilight.JPG/1280px-Sun_Moon_Lake_in_Twilight.JPG"
-      },
-      {
-        "title": "桃園市：台湾の輸出入、最多の客家人、最多の外国人労働者、すべてがこの台地の上にある",
-        "desc": "1977年11月19日の夕暮れ、数万人の民衆が中壢警察署を包囲し、警察が民衆に向けて発砲して中央大学の学生江文国と19歳の張治平が死亡し、許信良は23万票対14万票で桃園県長に当選した。1年3か月後の1979年2月26日、中正国際空港が開業し、台湾の対外の玄関口が基隆港からこの台地に移った。2014年12月25日、桃園は第6の直轄市に昇格し、六都の中で最後となった。現在、235万人がこの1,221平方キロメートルの台地に住んでおり、客家系住民は80万人以上で全国最多、外国人労働者は13万2,158人も全国最多である。桃園は台湾で最も多様な境界である。",
-        "category": "geography",
-        "href": "/ja/geography/taoyuan-city",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": 10,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Taoyuan_Airport_Terminal_2_Aerial.jpg/1280px-Taoyuan_Airport_Terminal_2_Aerial.jpg"
-      },
-      {
-        "title": "宝岩（宝蔵巖）：30年間取り壊し続けられた違法建築集落が、台北で最もクールなアート村になったまで",
-        "desc": "1980年7月、台北市政府はこの山を297号公園予定地に指定し、200戸以上の違法建築が「取り壊し待ち」の状態に陥った。1993年、1994年、2001年に実際の撤去が行われたが、1997年の康楽里事件をきっかけに市政府は「現地保存」へと方針転換し、2010年10月2日に国際アート村が正式にオープンした。30年にわたる撤去の判決は、40カ国以上から500人以上のアーティストが入居する「芸居共生（芸術と居住の共存）」集落へと変わった。1791年の観音寺、1960年代に自力で家を建てた人々、20戸以上が残った先住民族、そして3ヶ月ごとに入れ替わる国際レジデンスのクリエイターたちが、標高46メートルの小さな山に共に暮らしている。",
-        "category": "geography",
-        "href": "/ja/geography/treasure-hill",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": 22,
-        "image": "/article-images/geography/treasure-hill-2018-aerial.webp"
-      },
-      {
-        "title": "客家文化と言語",
-        "desc": "1988年、一群の人々が孫文の写真にマスクをかぶらせてデモ行進を行い、母語を話す権利を取り戻そうとした——彼らは勝ったが、言語は今も消えつつある",
+        "title": "타이완 전통 공예와 무형문화유산: 제도적 인정은 왔으나 제자(徒弟)는 사라졌다",
+        "desc": "2022년 12월, 문화부는 고령 87세 토수사부(土水司阜) 소청량(蘇清良)을 '인간국보'로 지정했으나, 반년 후 그는 사망했다. 타이완은 2005년 와서 '중요 전통 공예 보존자'를 문자법(文資法)에 명시했으며, 일본보다 50년, 한국보다 43년 늦었다. 제도가 자리 잡았을 때, 제자 제도는 이미 1970-80년대 산업화 과정에서 붕괴되었다. 600여 명 전통 장사 중 50세 미만은 '소수'에 불과하다. 명단은 길어지지만, 가르칠 수 있는 사람은 줄어든다.",
         "category": "culture",
-        "href": "/ja/culture/hakka-culture-and-language",
-        "date": "2026-07-27T19:10:22+08:00",
+        "href": "/ko/culture/traditional-crafts-intangible-cultural-heritage",
+        "date": "2026-07-31T00:55:37+08:00",
         "readingTime": 14,
-        "image": ""
+        "image": "/article-images/culture/meinong-paper-umbrella-2013.webp"
       },
       {
-        "title": "《Shopping Design》：デザインを選別する雑誌が最後に読者に問うのは、自分自身のこと",
-        "desc": "2006年に創刊し、第1号で「白」をテーマとした『Shopping Design』は、20年をかけて「デザイン」を展示場の専門用語から、店舗を巡りアイテムを選ぶ日常の動詞へと変えた。それが台湾に真に教えたのは、「見極める力」が訓練可能な能力であるということだ。そしてその能力は、年間ベスト100リスト、季刊、カーニバルへと拡大され、さらに親会社の「雑誌出版＋広告サービス」という同一の免許証へと拡張された。つまり、見極め方を教えるこの雑誌が、最後に読者に問う対象は、まさにそれ自身なのである。",
+        "title": "타이완 드론 산업: 타이완 장난감 비행기에서 블루 리스트까지, 한 장의 입석권은 레후우(Thunder Tiger)에게",
+        "desc": "2025년 9월 21일, 레후우(Thunder Tiger) 기술의 Overkill FPV 자살 드론이 미국 국방부 블루 리스트(Blue UAS Cleared List) 인증을 통과했다. 타이완 기업 중 최초이자 지금까지 유일한 사례다. 전체 목록의 39개 완제 플랫폼과 165개 부품 중 타이완은 오직 한 자리에 불과하다. 2026년 4월, 미국 양당 소속 상원의원 4명이 《타이완을 위한 푸른 하늘법(Blue Skies for Taiwan Act)》을 공동 발의해 타이완 기업용 고속 통로 설치를 요구했다. 이 법안 자체의 존재가 한 가지를 드러낸다: 타이완의 진입이 너무 느려 미국 스스로가 입법을 통해 장벽을 낮춰야 한다는 점이다. 타이완에서 46년간 원격 조종 장난감 비행기를 만들어 온 한 회사가 오하이오주에 두 번째 공장을 건설할 계획을 세우고 있다.",
+        "category": "technology",
+        "href": "/ko/technology/taiwan-drone-industry",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 16,
+        "image": "/article-images/technology/chung-shyang-ii-uav-2007.webp"
+      },
+      {
+        "title": "국가인권박물관: 눈물의 비석에 쓰이지 않은 이름들",
+        "desc": "1999년 국제 인권의 날, 리덩후이는 뤼다오에서 직접 「눈물의 비석」 제막식을 열었다. 보양은 스물여덟 글자로 모든 어머니의 긴 밤의 울음을 다 썼지만, 가해자의 이름은 하나도 쓰지 않았다. 6년의 준비, 2018년 현판식, 2025년 예산 동결. 국가가 스스로 저지른 일을 기념하기 위해 스스로 세운 박물관. 계엄 해제 39년 동안 사법 재판을 받은 가해자는 단 한 명도 없다.",
+        "category": "history",
+        "href": "/ko/history/national-human-rights-museum",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 16,
+        "image": "/article-images/history/nhrm-tsai-unveil-2018.webp"
+      },
+      {
+        "title": "대만 철도사: 폐병철도, 검은 머리 기관차, 그리고 외국 이름을 잃어버린 계보",
+        "desc": "일본인이 「폐병철도」라고 욕하던 엉망진창의 길은 어떻게 백여 년 사이 매일 20만 명을 실어 나르는 고속 동맥이 되었는가. 류밍촨이 초빙한 독일·영국 기술자들은 훗날 일본인에 의해 처음부터 다시 갈아엎어졌고, 하세가와 긴스케의 종관선은 전후 대만철도에 의해 이름과 번호가 바뀌었다. 세대마다 앞선 세대의 기록을 주석으로 밀어냈다. 외국 이름들은 줄곧 벗겨져 나갔고, 남은 것은 대만어의 「오타우아」「화차아」, 쥐광·쯔창·푸싱이라는 정치 구호뿐이었다. 마침내 푸유마·타로코 세대에 이르러서야 원주민 지명이 다시 철로 위에 깔렸다.",
+        "category": "history",
+        "href": "/ko/history/taiwan-railway-history",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 16,
+        "image": "/article-images/history/tra-taitung-line-fireman-1970s.webp"
+      },
+      {
+        "title": "멍자: 청대 타이베이에서 가장 번화했던 곳, 지금은 타이베이에서 평균연령이 가장 높은 구",
+        "desc": "멍자 룽산사는 1738년 취안저우 삼읍 사람들이 공동 출자해 세운 뒤 2026년에 288년이 되며, 청 조정의 타이베이부보다 137년 앞선다. 1853년의 정하교병이라는 무장 충돌은 퉁안 사람들을 다다오청으로 밀어냈고, 북타이완 두 세기에 걸친 분기의 씨앗을 심었다. 일본 통치 이후 완화로 개명되었고, 1990년에 구가 설치되었으며, 2010년 뉴청쩌가 《멍자》를 찍었다. 현재 노화지수는 320.78%로 시 전체에서 가장 높다. 타이베이에서 가장 이른 이 거리는 새벽 여섯 시 사원 앞마당의 첫 향이 아직도 타오르고 있다.",
+        "category": "geography",
+        "href": "/ko/geography/bangka",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 22,
+        "image": "/article-images/geography/wanhua-longshan-temple-2016.webp"
+      },
+      {
+        "title": "스린: 케타갈란족의 땅, 장저우·취안저우 무력 충돌의 사원, 그리고 지금은 매일 밤 타이베이에서 가장 붐비는 야시장",
+        "desc": "저녁 7시 30분, 스린 야시장 길목에서 한국 관광객들이 대형 지파이를 들고 셀카를 찍고, 그 옆 다난로 84호의 츠셴궁은 1796년 가경 원년부터 2026년까지 230년을 서 있다. 1859년 함풍 9년 장저우 사람들이 이 거리에서 취안저우 사람들에게 불타 쫓겨났고, 1860년 경신년에 반영청은 샤수린에 다둥로, 다난로, 다시로, 다베이로 네 갈래의 반듯한 거리를 긋고 사원을 정중앙에 두었다. 1909년 일본인은 사원 맞은편에 시장을 세웠고, 1955년 양밍극장이 원린로에 준공되었으며, 1992년 하오다다 지파이는 타이중에서 발명되어 1999년 스린에 들어왔다. 2002년 전후에 증축된 가설 지붕이 철거되고, 2011년 새 시장이 개장했으며, 지하 먹거리 거리는 아침부터 밤까지 두 부류의 사람을 번갈아 받는다. 사원은 여전히 원래 자리에 있지만, 그 발밑에서는 매일 두 도시가 교대로 돌아간다.",
+        "category": "geography",
+        "href": "/ko/geography/shilin",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 22,
+        "image": "/article-images/geography/shilin-cixian-temple-2010.webp"
+      },
+      {
+        "title": "Shopping Design: 디자인을 사는 법을 가르치는 잡지가, 마지막에 분간하라고 하는 것은 그 자신이다",
+        "desc": "2006년에 창간해 첫 호에서 흰색을 다룬 《Shopping Design》은 20년 동안 디자인을 전시장의 명사에서 가게를 둘러보고 물건을 고르는 일상의 동사로 바꾸어 왔다. 이 잡지가 대만에 정말로 가르친 것은 \"분간하기\"가 하나의 능력으로 단련될 수 있다는 것이었고, 그리고 그 능력을 연간 100선의 명단으로, 계간지로, 축제로 확대했으며, 모회사의 같은 한 장의 \"잡지 출판＋광고 서비스\"의 면허 위로도 확대했다. 그리하여 분간하는 법을 가르치는 이 잡지가 마지막에 분간하라고 하는 대상은, 바로 그 자신이다.",
         "category": "culture",
-        "href": "/ja/culture/shopping-design",
-        "date": "2026-07-27T19:10:22+08:00",
+        "href": "/ko/culture/shopping-design",
+        "date": "2026-07-30T23:35:43+08:00",
         "readingTime": null,
         "image": "/article-images/culture/shopping-design-designbiz-2022-banner.jpg"
       },
       {
-        "title": "サンセット・ローラーコースター：一枚のPhoto Booth背景写真からCoachellaへ、台北の夕陽を英語で歌った14年",
-        "desc": "2010年、19歳の学生がMacのPhoto Boothで「Sunset Rollercoaster」のプリセットをMySpaceのプロフィール画像に選んだ。14年後、このバンドはコーチェラ・フェスティバルが創設されて20年以上で初めて大舞台に招待された台湾のバンドとなった。全英語、亜熱帯シティ・ポップ、音楽産業の体制に頼らず、彼らは一枚の何気なく撮ったローラーコースターのシルエットで、台湾が世界に最も聴かれる形を実現した。",
-        "category": "music",
-        "href": "/ja/music/sunset-rollercoaster",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": "12min",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6%EF%BC%81_%281%29.jpg/1280px-%E8%90%BD%E6%97%A5%E9%A3%9E%E8%BD%A6%EF%BC%81_%281%29.jpg"
+        "title": "리 시사(笠詩社): 일본어를 잊도록 강요받은 사람들이 타이완 최장수 중국어 시 전문지를 떠받치다",
+        "desc": "1958년, 36세의 타이완인 일본군 병사가 필명 「환푸」로 전후 첫 중국어 시를 발표했다. 그가 일본어로 쓰던 펜을 멈춘 지 11년 뒤였다. 6년 뒤 그는 다른 열한 명과 함께 타이완 중부의 한 거실에서, 이 세대의 실어 경험을 「리(笠)」라는 시사로 바꾸었다. 60년 동안 한 번도 휴간하지 않은 이 시사는 본토 시학을 주변부에서 중학교 교과서 안으로 써 넣었다.",
+        "category": "art",
+        "href": "/ko/art/li-poetry-society",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": null,
+        "image": "/article-images/art/li-poetry-wu-sheng-2016.webp"
       },
       {
-        "title": "台湾のEコマースとデジタル決済：一つの島の三つの商戦",
-        "desc": "詹宏志が24時間配達に賭けたことから、Shopeeが30億円の補助金を投じた価格戦争、Coupangがロケット配送で上陸するまで——台湾のEコマース20年は、「ローカルイノベーションが外資に覆され、さらに次の外資に覆される」という循環の歴史です。",
-        "category": "technology",
-        "href": "/ja/technology/e-commerce-and-digital-payment-ecosystem",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": 12,
-        "image": ""
+        "title": "'타이완 만유록': '여동생이 번역한 책' 한 권이 춘산에서 런던 시상대로 가기까지",
+        "desc": "2015년 6월, 여동생 양뤄후이가 세상을 떠난 그날, 양뤄츠는 동생이 남긴 장부를 펼쳐 기장을 시작했고, 체크와 동그라미로 된 암호를 이해하는 데 사흘이 걸렸다. 5년 뒤 춘산출판이 펴낸 《타이완 만유록》에는 '아오야마 지즈코 지음・양솽쯔 옮김'이라고 적혔다. 번역자란에 쓰인 이름은 이미 세상을 떠난 여동생이었다. 2024년 뉴욕 NBA, 2026년 런던 부커상. 그는 여동생의 이름으로 존재하지 않는 책 한 권을 번역했다.",
+        "category": "art",
+        "href": "/ko/art/taiwan-travelogue",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": null,
+        "image": "/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp"
       },
       {
-        "title": "Facebook：「偷菜」ブームからデジタル民主主義の両刃の剣へ――台湾のソーシャル20年を定義する青い座標",
-        "desc": "2009年、『開心農場』が台湾で「偷菜」ブームを巻き起こした。2014年には太陽花学運の動員の中枢となった。Facebookは台湾において「インフラ」と「認知戦場」という二つの役割を経てきたが、2025年の検閲論争により新たな称号を得た――FB難民の出発点である。",
-        "category": "technology",
-        "href": "/ja/technology/facebook-in-taiwan",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": 28,
-        "image": ""
-      },
-      {
-        "title": "IG：写真家のフィルターから台湾人の「脆」への不安へ",
-        "desc": "2010年、メキシコのビーチで生まれた一つのフィルターが、15年後には台湾1,130万人の日常の儀式となった。IGは台湾において視覚的な避風港からアルゴリズムの戦場へと変貌し、Threads（脆）の台頭により、洗練された美学とリアルな論争との間の緊張が初めて表舞台に押し出された。",
-        "category": "technology",
-        "href": "/ja/technology/instagram-in-taiwan",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": 8,
-        "image": ""
-      },
-      {
-        "title": "台湾VR10年：王雪紅が元年を宣言してからチームをGoogleに売却するまで",
-        "desc": "2016年、HTCがバルセロナでViveを発表し、王雪紅はこれをVR元年と宣言した。9年後の2025年1月、HTCはXRチームを2億5000万ドルでGoogleに売却した。その間に起きたことは、一つの島全体が「次の大事件」に対して行った集体的な賭けと、集体的な熱冷めである。",
-        "category": "technology",
-        "href": "/ja/technology/taiwan-vr-metaverse-rise-and-fall",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "陳建騏：会計系出身から三金プロデューサーへ、華語ポップミュージックから「変なイントネーション」という赤い線を引きはがした人物",
-        "desc": "1973年生まれ、淡江大学会計学部卒業の陳建騏は、華語ポップミュージック史上稀に見る「不在の著作者」である。彼がプロデュースした魏如萱、徐佳瑩、田馥甄、彭佳慧の楽曲を聴いたことがある人は多いが、彼の名前を知らない人も少なくない。2021年第32回金曲獎最優秀アルバムプロデューサー賞、2023年金馬獎最優秀オリジナル映画歌曲賞、2025年金鐘獎ドラマオリジナル歌曲賞の三金受賞者。劇場のピアニストからポップミュージックの世界へ歩み込んだプロデューサーである。",
-        "category": "people",
-        "href": "/ja/people/chen-chien-chi-music-producer",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": 20,
-        "image": ""
-      },
-      {
-        "title": "康士坦の変化球：「バンドは忍耐じゃない、面白くなければ解散だ」の10年",
-        "desc": "2013年に台北で結成された4人組インディーバンド。バンド名はギリシャの哲学者ヘラクレイトスの「万物は流転する」と野球投手のチェンジアップを掛け合わせたもの。ボーカルのARNYはフィリピン生まれで、かつて滅火器のベースを務めた20年の音楽経験を持つベテラン。ドラマーの小米は関節リウマチを患い、現在も親指が曲がらない状態でドラムを叩き続けている。ベーシストの金毛は「バンドは忍耐じゃない、面白くなければ解散だ」と語る。2人の観客から始まったLegacyのステージから、2023年台北音楽センター（北流）の5,000人規模まで、ブレイクもヒット曲もなく——10年間の着実な進化だけがあった。",
-        "category": "people",
-        "href": "/ja/people/constant-and-change-band",
-        "date": "2026-07-27T19:10:22+08:00",
+        "title": "다안강 의천검: 동아시아에서 가장 높은 나무, 우리가 닿지 못한 곳에 700년 숨어 있던 생명",
+        "desc": "2023년 음력 설, ‘나무를 찾는 사람들’ 팀은 7일 동안 계곡을 거슬러 올라 다안강 발원지의 거의 아무도 닿을 수 없는 깊은 골짜기에서 한 그루 타이완삼나무의 수관에서 줄자를 내려뜨렸다. 84.1미터, 동아시아 최고 높이의 나무였다. 이는 레이저 라이다의 예측보다도 4.6미터 더 높았다. 해마다 태풍이 지나가고, 무너지고 잠기는 이 섬에는 원래 이런 높이의 생명이 남아 있기 어렵다. 그러나 그것은 바로 인간이 닿을 수 없는 계곡에서 자랐기 때문에 대규모 벌채를 피하고 700년을 버텼다. 같은 ‘닿을 수 없음’이 그것을 살아남게 했고, 또한 우리가 레이저로 섬 전체를 훑은 뒤에야 이 해 처음으로 그것을 보게 했다.",
+        "category": "nature",
+        "href": "/ko/nature/daan-river-yitian-sword",
+        "date": "2026-07-30T23:35:43+08:00",
         "readingTime": 15,
-        "image": ""
+        "image": "/article-images/nature/taiwania-nantou-shihchuan.webp"
       },
       {
-        "title": "韓国瑜",
-        "desc": "史上初の解職された直轄市長から、4年後に立法院長に就任。これはどのような政治的軌跡なのか？",
-        "category": "people",
-        "href": "/ja/people/han-kuo-yu",
-        "date": "2026-07-27T19:10:22+08:00",
+        "title": "타이완 기후 위기와 넷제로 전환: 핵3 국민투표가 부결된 날, 물리적 한계의 선택은 막 시작되었다",
+        "desc": "2025년 8월 23일 핵3 연장 운전 국민투표: 찬성 434만 표, 찬성률 74%, 투표율 29.53%로 문턱에 미달했다. 국민투표는 부결되었고, 다음 날 라이칭더는 세 원칙을 제시했다. 7개월 뒤인 2026년 3월 27일, 타이완전력은 연장 운전 신청을 원자력안전위원회에 제출했다. 에너지의 98%를 수입에 의존하고, 넷제로에 9조 타이완달러를 투입하며, 지열 목표 200 MW 중 실제 건설은 7.4 MW에 그치고, 해상풍력 설비용량은 세계 7위이며, Onkalo 최종 처분장과 TerraPower 4세대 원전까지 거론되는 이 섬의 에너지 문제는 처음부터 정치 문제가 아니라 물리적 한계의 문제였다.",
+        "category": "nature",
+        "href": "/ko/nature/taiwan-climate-change-net-zero-transition",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 26,
+        "image": "/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp"
+      },
+      {
+        "title": "황갈색물고기올빼미: 6킬로미터의 계류가 한 쌍을 먹여 살리고, 해발 1,800미터 후박나무 위를 지키는 야행성 맹금",
+        "desc": "2026년 4월, 국립핑둥과학기술대학 조교수 훙샤오위는 치자완시 계곡가의 흉고직경 약 1.5미터 후박나무 수동에서 대만에서 현재까지 알려진 가장 높은 황갈색물고기올빼미 둥지, 해발 약 1,800미터 지점을 확인했다. 대만 최대의 올빼미인 이 종은 1916년에야 일본인 학자 구로다 나가미치가 처음 기록했으며, 국립핑둥과학기술대학 쑨위안쉰 연구실은 30년 동안 추적한 끝에 91개 영역에서 한 쌍당 평균 6.2킬로미터 길이의 계류가 필요하다는 사실을 밝혔다. 콘크리트로 덮이지 않은 계류 한 구간, 아직 쓰러지지 않은 거목 한 그루. 황갈색물고기올빼미는 대만 산림에서 이 두 가지가 아직 사라지지 않은 틈새에 살고 있다.",
+        "category": "nature",
+        "href": "/ko/nature/tawny-fish-owl",
+        "date": "2026-07-30T23:35:43+08:00",
         "readingTime": 12,
-        "image": ""
+        "image": "/article-images/nature/tawny-fish-owl-gailhampshire-2009.webp"
       },
       {
-        "title": "徐巧芯：朝食店の娘から「8000億円軍事調達」議員へ――流量で若返らせる政治家",
-        "desc": "台北市第七選挙区立法委員。1989年、台北市の朝食店家庭に生まれる。2013年、24歳で国民党史上最若の中央常務委員となる。2024年、89,727票で許淑華を破り立法院入り。2025年大罷免では6.2万の同意票が法定基準に達したが否決。2026年軍事調達協議で8000億バージョンを提示し、党中央の3800億+N案と激突。季麟連が「親痛仇快のことはするな」と名指しで警告。",
+        "title": "천젠녠: 파출소의 금곡가왕, 외조부가 남긴 노래를 손자가 바다로 쓰다",
+        "desc": "1967년 8월 1일 타이둥 베이난 난왕부락에서 태어났다. 1986년 경찰전문학교를 졸업하고 타이둥 관산에 배치되어 경찰계에서 30년 10개월 근무했다. 1999년 33세에 첫 창작 앨범 《해양》을 발매했고, 2000년 제11회 금곡장에서 장쉐유, 왕리훙, 타오저, 위청칭을 꺾고 최우수 만다린 남자 가수상을 받았으며, 같은 회차에서 〈신화〉로 최우수 작곡상도 받았다. 시상대 위의 그는 여전히 경찰이었다. 같은 해 9월 소란을 피하고자 란위 전근을 신청했고, 은퇴할 때까지 17년을 머물렀다. 외조부 루선바오는 〈아름다운 벼이삭〉의 작자였고, 손자는 삼십 년이 지나서야 그 음악의 선을 받아낼 수 있었다.",
         "category": "people",
-        "href": "/ja/people/hsu-chiao-hsin",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": 12,
-        "image": ""
+        "href": "/ko/people/chen-chien-nien",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 8,
+        "image": "/article-images/people/chen-chien-nien-hsinchu-feng-2018.webp"
       },
       {
-        "title": "許美華：反紫光から大罷免へ、匿名市民コードの十年",
-        "desc": "「許美華」は本名ではなく、台湾の市民社会で二つの重要な局面に登場したコード名です――2015 年に「四騎士」の一人として中国紫光の半導体買収案件を阻止し、2025 年には大罷免運動の中で最も直感に反する「課金センター」として、金銭を一切受け取らずに二千万円以上の市民寄付を調整しました。",
+        "title": "Cicada: 2009년 모라크부터 2025년 반구를 가로지른 빙하까지, 16년의 현장 녹음",
+        "desc": "2009년 타이베이에서 결성된 Cicada는 전곡이 기악곡이며 보컬이 없는 독립 밴드다. 창단 멤버인 피아니스트 장즈제(타이베이예술대 예술사 석사)는 그해 모라크 태풍 뉴스를 보고 첫 곡들을 썼다. 이후 16년 동안 이들은 타이완의 사라지는 해안, 해양 생태, 산림과 계류의 원천을 보컬 없는 앨범들로 바꾸어 왔다. 서해안(《邊境消逝》2013), 동해안 태평양(《仰望海平面》2015)을 거쳐 중앙산맥의 계류 원천(《棲居在溪源之上》2022, 15일 120km 원정)까지 나아갔다. 일본 영화 《한 남자》 음악을 맡아 일본 아카데미상 우수 음악상을 받았다. 2025년 《凝視白色的邊界》는 처음으로 현장을 타이완 밖으로 확장해 빙하를 따라 그린란드, 아이슬란드, 뉴질랜드를 지나고, 다시 쉐산으로 돌아와 고대 빙하가 남긴 흔적을 찾는다.",
         "category": "people",
-        "href": "/ja/people/hsu-mei-hua-financial-commentator",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": 12,
-        "image": ""
+        "href": "/ko/people/cicada-band",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 24,
+        "image": "/article-images/people/cicada-cuichi-xueshan-glacial-lake.webp"
       },
       {
-        "title": "季麟連：扁系上将から韓国瑜の党籍除名を求める副主席へ",
-        "desc": "2026年4月29日午後、国民党中央常務委員会。78歳の副主席・季麟連はメディアのカメラの前でこう述べた。「私が死んでも、国瑜兄が党を売って栄達を図るようなことをするとは信じられない。もしそんなことがあれば、黄復興は必ず身を挺して大義滅親し、国瑜兄の党籍除名を提案する」。この発言に陳水扁は「彼がこんなに変わるとは思わなかった」と嘆いた。20年前に彼を二級上将に昇進させた人物こそ、阿扁本人だったからだ。",
+        "title": "녜융전: 대만 최초의 AGI 회원, 골든멜로디 앨범 패키징에서 국가 식별 시스템까지의 20년",
+        "desc": "녜융전(1977년생)은 대만에서 처음으로 스위스 국제그래픽연맹 AGI에 가입한 디자이너이며, 세 차례 골든멜로디 어워즈 최우수 앨범 패키징상을 받은 인물이다. 그의 디자인 작업은 대중음악 커버(리쭝성, 린유자, 루웨이), 도서 출판, 시민운동(2014년 해바라기운동 새벽 4시 뉴욕타임스 광고, 2020년 테워드로스 반대 'Taiwan Can Help' 8시간 1천만 모금), 정치 선거(차이잉원 2016년 '대만을 밝히다' 및 두 차례 대통령 취임식 메인 비주얼), 국영사업 식별 시스템(경제부, 관광서, 중국석유, 대만전력), 예술 공간(타이중 녹미도, 베니스 비엔날레 대만관)에 걸쳐 있다. 융전지즈 스튜디오는 타이베이와 가오슝 보얼 창고에 거점을 두고 있으며, 그는 벨기에와 런던에서 대학원을 다녔으나 세 곳 모두 졸업하지 않았다. 그는 스스로 '디자이너 녜융전이기 전에 그는 시민 녜융전'이라고 말한다. 2024년부터 네 개 국영사업 식별 프로젝트를 연이어 수주했고, 2026년 대만전력 LOGO 공개 당일 '정치적 보은' 논란이 터졌다.",
         "category": "people",
-        "href": "/ja/people/ji-lin-lian",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": 12,
-        "image": ""
+        "href": "/ko/people/nieh-yung-jen",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 18,
+        "image": "/article-images/people/aaron-nieh-portrait-2018.webp"
       },
       {
-        "title": "頼清徳：鉱山労働者の家庭から大統領府へ――公衆衛生の医師",
-        "desc": "台湾第16任大統領、中華民国憲政史上初の副大統領として出馬し当選を果たした政治家",
+        "title": "야셴: 《심연》을 쓴 뒤 절필하고, 후반생에는 《연합보》 부간에서 시사의 한 페이지가 되다",
+        "desc": "1968년, 36세의 야셴은 아흔 편의 시를 한 권의 《심연》으로 엮은 뒤 붓을 놓았다. 1977년부터 1998년까지 그는 21년 동안 《연합보》 부간을 주편하며 편집 데스크를 타이완 전후 가장 중요한 문학 공공 공간으로 만들었다. 2024년 10월 11일 캐나다 밴쿠버에서 별세했으며 향년 92세였다. 절필 56년의 침묵은 천 권의 시집보다 길었고, “할렐루야, 나는 아직 살아 있다”라는 후렴은 계엄 시기 난해함으로 경비총사령부의 검열을 비켜 간 시사의 표지가 되었다.",
         "category": "people",
-        "href": "/ja/people/lai-ching-te",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "盧秀燕：谷関の空気1万瓶から華府の軍購保険論まで――不敗の女王",
-        "desc": "2018年12月25日、彼女は自費でガラス瓶に詰めた「谷関の空気」1万瓶を観礼市民に配り、選挙スローガンを読者の手元に届けた。8年間連続当選、2期の台中市長、6期の立法委員を経て、2025年8月、朱立倫が党主席就任を公に要請すると、彼女は「困難なときだからこそ、ママは家にいる」と答えた。しかし2026年4月の最新世論調査では、2028年の事実上の盟主ポジションが陳萬安に25%対19.7%で逆転されていた。",
-        "category": "people",
-        "href": "/ja/people/lu-hsiu-yan",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "蔡英文：敗選の夜から817万票へ、静かに歩んだ大統領8年",
-        "desc": "2012年1月14日、蔡英文は79万7561票差で敗北。8年後、817万231票で台湾総統直接選挙史上最多得票を記録。国際通商法学者から初の女性総統へ。原住民族への謝罪、同性婚姻専門法、年金改革、「現状維持」で成果を残しつつ、司法・住宅・エネルギー・中台関係の課題も残した。静かなリーダーシップが制度となり、制度が未完の隙間を残した8年。",
-        "category": "people",
-        "href": "/ja/people/tsai-ing-wen",
-        "date": "2026-07-27T19:10:22+08:00",
+        "href": "/ko/people/ya-hsien-poet",
+        "date": "2026-07-30T23:35:43+08:00",
         "readingTime": null,
-        "image": "/article-images/people/tsai-2016-campaign.webp"
+        "image": "/article-images/people/yaxian-portrait-2012.webp"
       },
       {
-        "title": "魏如萱：自然巻のボーカル「娃娃」から二座の金曲歌王へ、ただ聞かれたいと願った20年",
-        "desc": "2003年、自然巻のボーカル「娃娃」としてデビュー。2006年に声帯を負傷後「Waa Wei」としてソロ活動を開始し、2020年と2025年に二度の金曲最優秀中国語女性歌手賞を受賞。〈彼個所在〉で四つの言語を使ってル・カイトンを追悼し、〈Ophelia〉の童声バージョンで女性の抵抗を表現し、『珍珠刑』では痛みから芽生れた勇気を描き出す——彼女が20年間歩んできたのは、中国語ポップスにおいて最も直感に反する道だった。顔よりも声を有名にし、人格よりも作品を長く生きさせること。",
-        "category": "people",
-        "href": "/ja/people/waa-wei-singer",
-        "date": "2026-07-27T19:10:22+08:00",
+        "title": "\"나는 OO 사람\": 당신을 \"향친\"이라 부르는 팬페이지, 그 뒤에는 네이후의 한 회사와 지우지 않은 AI 지시문 한 줄이 있었다",
+        "desc": "2026년 2월, '나는 타이베이 사람'이라고 자칭한 지역 팬페이지가 게시물에 지우지 않은 AI 지시문 한 줄을 남겼다. '민감한 표현을 제거하고, 타이완 현지 구어를 강화할 것.' 이 단서를 거슬러 올라가면 끝에는 네이후의 한 건물에 있는 린 일가 관계 기업이 있었다. 이들은 중톈, CTWANT의 뉴스를 향친의 말투로 세탁해 각 현·시의 현지 주민인 척하는 팬페이지에 걸어 퍼뜨렸다. 그것은 가짜 뉴스를 만들지 않는다. 옮기는 것은 진짜 뉴스다. 문제는 생산지와 자금 흐름을 확인할 수 없다는 데 있으며, 타이완에서 인지전을 가장 잘 추적하는 이들조차 모두 이렇게 말하고 있다. 성급하게 딱지를 붙이지 말라.",
+        "category": "society",
+        "href": "/ko/society/i-am-from",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": null,
+        "image": "/article-images/society/woo-fanpage.webp"
+      },
+      {
+        "title": "국민주택과 주거 정의: 정부가 지은 저렴한 주택은 결국 누구의 자산 사다리를 키웠나",
+        "desc": "1985년 성공 국민주택은 한 평 6.7만 위안이어도 원하는 사람이 없었고, 노년의 이장은 40만 위안의 계약금을 마련해 한 채를 샀다. 40년 뒤 같은 주소는 한 평 100만 위안에 가까워졌다. 국민주택은 본래 “사람들이 집을 살 수 있게 돕는” 도구였지만, 시세차익을 회수하는 문은 한 번도 달리지 않았다. 공공 보조금은 결국 먼저 산 사람의 사적 자산이 되었다. 2026년 타오위안은 그 문을 다시 달았고, 이는 국민주택을 대신해 잘못을 인정한 셈이다.",
+        "category": "society",
+        "href": "/ko/society/public-housing-justice",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 16,
+        "image": "/article-images/society/taipei-skyline-housing-2026.webp"
+      },
+      {
+        "title": "타이완 스포츠 발전과 올림픽: '중화 타이베이'라는 이름의 팀",
+        "desc": "1976년 몬트리올에서 캐나다는 명칭을 'Taiwan'으로 바꾸라고 요구했고, 장징궈는 이를 국치로 보고 기권했다. 2024년 파리에서 린양 조가 남자 복식 2연패를 이룬 그날 밤, 경기장 전체가 매화기 아래에서 국기가 가사를 함께 불렀다. 들어갈 수 없었던 '타이완'에서 전 세계가 Taiwan이라고 부르기 시작하기까지, '중화 타이베이'라는 이 모자는 모든 세대의 금메달이 그 무게를 쓰고 있었다.",
+        "category": "society",
+        "href": "/ko/society/taiwan-sports-olympics",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 18,
+        "image": "/article-images/society/yang-chuan-kwang-1960.webp"
+      },
+      {
+        "title": "'더 리포터': 탐사보도를 영업 항목에서 공공재로 구해낸 10년",
+        "desc": "정기 정액 기부자 4명에서 매월 8,000명으로, 《피눈물 어장》 3부작에서 2026년 통일전선 특집까지, 《더 리포터》가 10년 동안 태워 넣은 비용, 곧 8개월 잠입, 3개국을 넘나든 취재, 여러 해의 위반 기록 대조는 알고리즘 시대에 사람들이 가장 돈을 내고 보려 하지 않는 것들이다. 이 섬의 시민사회는 낯선 이들이 매달 자동이체하는 방식으로, 탐사보도를 상업 미디어의 영업 항목에서 계속 길러야 하지만 점점 더 빨리 타들어 가는 공공재로 구해냈다.",
+        "category": "society",
+        "href": "/ko/society/the-reporter-investigative-journalism",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": null,
+        "image": "/article-images/society/the-reporter-brand-logo.webp"
+      },
+      {
+        "title": "대만 50대 기업: 호국신산이 하나의 표를 떠받치고, 단일 장애점의 국가도 떠받친다",
+        "desc": "2026년 5월 19일, TSMC 한 회사의 시가총액은 대만 가권지수 전체의 31.51%, 대만 주식시장 총시가총액의 약 40%를 차지했다. 50대 기업을 합치면 하나의 GDP를 떠받치지만, 그중 한 회사가 이 GDP의 운명을 사실상 붙들고 있다. 전자 36%, 금융 25%, 전통 산업 10%. 이른바 ‘전자·금융·전통 산업’의 삼각 구도는 실제로는 전자 산업 한 다리가 몸의 절반을 지탱하는 구조다. 닝샤 야시장에서 젠슨 황과 장중머우가 함께 사진을 찍었던 그 밤부터, 카이쉬안 3로 새벽의 32명 사망 사건까지, 이 순위표는 대만의 대체 불가능한 척추이자 가장 취약한 단일 장애점이다.",
+        "category": "economy",
+        "href": "/ko/economy/top-50-companies-taiwan",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 18,
+        "image": "/article-images/economy/tsmc-factory-hsinchu-2009.webp"
+      },
+      {
+        "title": "타이완 의료와 국민건강보험: 99.6%가 12.61% 위에 버티는 세계 1위",
+        "desc": "1995년 3월 1일의 건강보험 카드는 발등에 불이 떨어진 채 급히 만들어졌다. 시행 엿새 전까지 카드조차 인쇄되지 않았다. 30년 뒤, 2,300만 명의 진료권은 5.17% 보험료율, 10년 만의 최고치인 간호사 이직률 12.61%, 그리고 30년 동안 누구도 건드리지 못한 정치적 금기 위에 버티고 있다.",
+        "category": "lifestyle",
+        "href": "/ko/lifestyle/taiwan-healthcare-and-national-health-insurance",
+        "date": "2026-07-30T09:46:44+09:00",
         "readingTime": 22,
-        "image": ""
+        "image": "/article-images/lifestyle/nhi-taipei-building-2018.webp"
       },
-      {
-        "title": "社会住宅と居住の正義",
-        "desc": "台湾が社会住宅政策を通じて居住の正義をいかに実現し、すべての人が安心して暮らせる場所を確保するか",
-        "category": "society",
-        "href": "/ja/society/social-housing-and-housing-justice",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": 13,
-        "image": ""
-      },
-      {
-        "title": "想想論壇：敗選大統領の試金石から超党派的民主的対話の器へ——14年間の軌跡",
-        "desc": "2026年5月2日、元親民党主席の宋楚瑜、時代力量党主席の王婉諭、社民党の苗博雅、鮮乳坊の獣医師である龔建嘉が同時に「30年、30人、30の視点」の執筆者リストに名を連ねました。蔡英文が2012年の敗選後に創設したこのネットフォーラムは、14年間で約5,800本の記事を蓄積し、簡志忠が董事長に就任した際の切断を乗り越え、9年間大規模なリニューアルが行われなかった政権期間の距離を経て、2026年もなお創設時から問い続けられている一つの問いに答えようとしています。「小英教育基金会」と呼ばれるこのプラットフォームは、超党派的な民主的対話を支えられるのか。",
-        "category": "society",
-        "href": "/ja/society/thinking-taiwan-forum",
-        "date": "2026-07-27T19:10:22+08:00",
-        "readingTime": null,
-        "image": ""
-      }
-    ],
-    "ko": [
       {
         "title": "신주현: 235년의 의민 신앙과 대만 최고 1인당 소득이 같은 터우첸강에 살다",
         "desc": "1788년 겨울 신푸의 산비탈에 포충정이 기초를 놓았다. 린솽원 사건에서 희생된 200여 명의 하카 의민을 합장하기 위해서였다. 235년 뒤에도 의민절 음력 7월 20일의 십오연장 윤번 제전은 계속되고 있다. 5킬로미터 밖 주베이시는 2025년 1인당 소득 144만 2천 위안으로 대만 368개 향진시구 가운데 1위를 차지했고, 그 자력의 대상은 TSMC 바오산 2기 2나노미터 웨이퍼 공장이다. 신주현 주민의 67.8%는 하카인으로 대만에서 가장 높다. 그러나 현청 소재지 주베이의 22만 명 가운데 자기 고향의 집을 살 수 있는 하카 청년은 줄어들고 있다.",
@@ -856,6 +1054,15 @@
         "image": "/article-images/technology/alphafold-cbln1-structure-2025.webp"
       },
       {
+        "title": "의료법: 기관 규범과 시장 압력 사이의 40년",
+        "desc": "대만 의료법은 1986년에 공포되고, 2017년에 의사의 형사책임 조항이 개정되었으며, 2026년에 간호사 대 환자 비율이 법에 편입되었다. 법문이 쓰고 있는 것은 “의료사업의 건전한 발전 촉진”이지만, 실제로 작동하는 것은 병상의 83%가 사립화된 구조, 응급의학과 의사의 이탈률이 국제 수준보다 두세 배 높은 현실, 간호사 1,000여 명이 연속적으로 사직한 뒤에야 간호사 대 환자 비율이 법에 들어간 과정이다. 이것은 건강보험법도, 의사법도 아니다. 이것은 대만에서 “병원”이라는 기관이 어떻게 존재하는지를 규정하는 근본 법이며, 의료의 공익성과 시장 메커니즘이 40년 동안 풀지 못한 긴장이기도 하다.",
+        "category": "society",
+        "href": "/ko/society/medical-care-act",
+        "date": "2026-07-29T13:39:11+09:00",
+        "readingTime": 18,
+        "image": "/article-images/society/ntu-hospital-pond-2011.webp"
+      },
+      {
         "title": "황금시대의 여운: 대만 차 문화의 변천과 공예",
         "desc": "1930년대 열강들이 생산량 제한 협정을 맺으면서 대만을 배제했고, 그 결과 대만 홍차는 329만 kg에서 580만 kg으로 급증했다. 90년 후, 같은 섬에서는 30분마다 버블티 가게가 문을 연다.",
         "category": "culture",
@@ -881,216 +1088,216 @@
         "date": "2026-07-27T22:09:24+08:00",
         "readingTime": 8,
         "image": ""
+      }
+    ],
+    "fr": [
+      {
+        "title": "La Société poétique Li : un groupe contraint d'oublier le japonais, soutenant la revue de poésie chinoise la plus ancienne de Taïwan",
+        "desc": "En 1958, un soldat japonais taïwanais de 36 ans publiait sous le nom de plume 'Huan Fu' son premier poème en chinois d'après-guerre, onze ans après avoir arrêté d'écrire en japonais. Six ans plus tard, lui et onze autres personnes réunis dans un salon du centre de Taïwan transformaient cette expérience de mutisme générationnel en une société poétique nommée 'Li' (le champignon comestible) — 60 ans de publication ininterrompue, écrivant la poétique locale des marges jusqu'aux manuels scolaires du collège.",
+        "category": "art",
+        "href": "/fr/art/li-poetry-society",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": null,
+        "image": "/article-images/art/li-poetry-wu-sheng-2016.webp"
       },
       {
-        "title": "IG: 사진작가의 필터에서 대만인의 「쓰레드(脆)」 불안까지",
-        "desc": "2010년 멕시코 해변에서 탄생한 하나의 필터가 15년 후 대만 1,130만 명의 일상적 의식이 되었다. IG는 대만에서 시각적 피난처에서 알고리즘 전장으로 변모했으며, Threads(脆)의 부상으로 정교한 미학과 진실 사이의 긴장이 처음으로 표면으로 드러났다.",
+        "title": "Taiwan Travelogue : un « livre traduit par la sœur », de Chanshan au podium de Londres",
+        "desc": "Le jour où sa sœur Yang Ruohui est décédée en juin 2015, Yang Ruizi a ouvert le carnet de comptes qu'elle avait laissé et a commencé à tenir les comptes ; il lui a fallu trois jours pour déchiffrer le code des coches et des cercles. Cinq ans plus tard, Taiwan Travelogue, publié par Chanshan, portait la mention « par Chihako Aoyama, traduit par Yang Shuangzi » — le nom du traducteur était celui de la sœur disparue. NBA à New York en 2024, Booker Prize à Londres en 2026 : elle a traduit un livre inexistant sous le nom de sa sœur.",
+        "category": "art",
+        "href": "/fr/art/taiwan-travelogue",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": null,
+        "image": "/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp"
+      },
+      {
+        "title": "Industrie taïwanaise des drones : De l'avion jouet de Taichung à la liste bleue, un billet d'entrée pour Thunder Tiger",
+        "desc": "Le 21 septembre 2025, le drone kamikaze FPV Overkill de Thunder Tiger a obtenu la certification de la Blue UAS Cleared List (liste bleue des systèmes aériens sans pilote approuvés) du département américain de la Défense — la première entreprise taïwanaise, et à ce jour la seule. Sur les 39 plateformes de drones finis et les 165 composants de cette liste, Taïwan n'occupe qu'une seule place. En avril 2026, quatre sénateurs américains bipartites ont proposé le Blue Skies for Taiwan Act pour établir un passage prioritaire pour les fabricants taïwanais ; la simple existence de ce projet de loi révèle une réalité : Taïwan avance trop lentement, au point que les États-Unis doivent légiférer pour abaisser les barrières. Une entreprise qui fabrique des avions télécommandés depuis 46 ans à Taichung prévoit de construire sa deuxième usine dans l'Ohio.",
         "category": "technology",
-        "href": "/ko/technology/instagram-in-taiwan",
-        "date": "2026-07-27T19:10:53+08:00",
-        "readingTime": 8,
-        "image": ""
+        "href": "/fr/technology/taiwan-drone-industry",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 16,
+        "image": "/article-images/technology/chung-shyang-ii-uav-2007.webp"
       },
       {
-        "title": "외성인: 납치된 청춘에서 발 아래 대만 땅을 향한 정체성의 여정",
-        "desc": "1949년, 백만 명이 넘는 이들이 상처와 향수를 안고 바건너 대만으로 왔다. 이들은 독재 정부의 의심을 받는 \"정치범\" 고위험 집단이면서 동시에 강제로 끌려와 고향을 잃은 \"전쟁 난민\"이기도 했다. 이 글은 외성 민족이 네 번의 심리적 트라우마를 겪으며 \"망명자\"에서 \"정착자\"로 영혼의 이주를 완성한 과정을 조명한다.",
+        "title": "Nieh Yung-jen : premier membre taïwanais de l'AGI, vingt ans entre pochettes de disques et systèmes d'identité nationale",
+        "desc": "Nieh Yung-jen (né en 1977) est le premier designer taïwanais à avoir été admis à l'Alliance Graphique Internationale (AGI), l'association suisse de design graphique fondée en 1952. Trois fois lauréat du Golden Melody Award dans la catégorie meilleure pochette d'album, il a conçu des couvertures pour la musique pop (Jonathan Lee, Yoga Lin, Lu Wei), des couvertures d'ouvrages pour des maisons d'édition, des campagnes citoyennes (publicité « Democracy at 4am » dans le New York Times à l'aube du Mouvement du Tournesol en 2014, campagne « Taiwan Can Help » contre Tedros en 2020 ayant récolté dix millions de dollars taïwanais en huit heures), des campagnes politiques (« Light Up Taiwan » pour la campagne présidentielle de Tsai Ing-wen en 2016 et les visuels des deux cérémonies d'investiture présidentielle), des systèmes d'identité d'entreprises publiques (Ministère de l'Économie, Administration du Tourisme, CPC Corporation, Taipower), et des espaces artistiques (Taichung Green Museum, Pavillon de Taïwan à la Biennale de Venise). Le studio Aaron Nieh Workshop est implanté à Taipei et dans les entrepôts du Pier-2 Art Center à Kaohsiung ; il a étudié en Belgique et à Londres dans trois programmes de troisième cycle, sans obtenir aucun diplôme ; il déclare : « Avant d'être le designer Nieh Yung-jen, je suis le citoyen Nieh Yung-jen. » À partir de 2024, il a remporté consécutivement quatre appels d'offres pour des systèmes d'identité d'entreprises publiques ; le 8 mai 2026, le lancement du nouveau logo de Taipower a déclenché une controverse de « favoritisme politique ».",
+        "category": "people",
+        "href": "/fr/people/nieh-yung-jen",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 18,
+        "image": "/article-images/people/aaron-nieh-portrait-2018.webp"
+      },
+      {
+        "title": "Loi spéciale sur les livreurs : le droit pose le plancher, mais l'espace au-dessus reste régi par l'algorithme",
+        "desc": "Le 21 juillet 2026 à minuit, la première loi taïwanaise dédiée aux livreurs entre en vigueur : 45 dollars neufs taïwanais minimum par commande. Le jour même, un livreur reçoit deux commandes, à 4,4 km et 8,6 km, rémunérées 90 dollars chacune. En six ans, après la mort de deux livreurs lors du week-end du 10 octobre 2019, cette loi a été adoptée. Elle évite délibérément de définir le statut de salarié et ne touche pas à l'algorithme de distribution qui détermine réellement les revenus. La première semaine, on ignore même combien d'inspecteurs locaux seront mobilisés.",
         "category": "society",
-        "href": "/ko/society/mainlanders-in-taiwan",
-        "date": "2026-07-27T19:10:53+08:00",
-        "readingTime": 8,
-        "image": ""
+        "href": "/fr/society/delivery-platform-law",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 17,
+        "image": "/article-images/society/foodpanda-rider-keelung-rain-2020.webp"
       },
       {
-        "title": "을미지변: 타이완 민주국의 148일",
-        "desc": "1895년, 청조는 타이완을 일본에 할양했다. 섬 위의 관리들은 아시아 최초의 공화국을 선언했지만, 대통령은 열흘 만에 도망갔고 시인은 나흘 뒤에 떠났다. 실제로 남아 싸운 것은 열아홉 살의 객가 청년과 그가 재산을 다 털어 모은 민병대였다. 148일 후, 민주국은 사라졌고 일본의 지배가 시작되었다.",
+        "title": "Musée national des droits humains : les noms absents du monument des larmes",
+        "desc": "Le 10 décembre 1999, Journée internationale des droits humains, Lee Teng-hui inaugura lui-même, à Green Island, le « monument des larmes ». Bo Yang y grava 28 caractères qui disent les longues nuits de pleurs de toutes les mères, sans inscrire le nom d’un seul auteur des violences. Six ans de préparation, inauguration en 2018, budget gelé en 2025. Dans ce musée qu’un État a lui-même construit pour commémorer ce qu’il a fait, trente-neuf ans après la levée de la loi martiale, aucun auteur n’a été jugé par la justice.",
         "category": "history",
-        "href": "/ko/history/1895-taiwan-resistance-war",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "19세기의 카무프 전쟁: 세계가 원하는 향기는 원주민의 산에 숨어 있었다",
-        "desc": "1864년 스와브로(史溫侯)가 담수(淡水)에서 세 숫자를 적었다: 6, 16, 28. 카무프 한 단(擔, 약 60kg)이 원산지에서 홍콩까지 가격이 거의 다섯 배로 뛰었다. 그 차액은 도대(道台)의 주머니로 갔다—그리고 원주민의 산으로.",
-        "category": "history",
-        "href": "/ko/history/19th-century-camphor-wars",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "아리산: 제국의 임장과 가오이성의 산",
-        "desc": "1954년 4월 17일, 조족(鄒族) 엘리트 가오이성(高一生)이 안갱(安坑) 형장에서 총살되었다. 아리산이라는 관광명소로 불리는 산맥은 사실 두 제국에 의해 차례로 재편된 기억의 산이다.",
-        "category": "history",
-        "href": "/ko/history/alishan-empire-forest-and-uongu-yatauyungana",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "'범람과 범록 너머의 네 자: 한 조각 논에서 한 장의 건강보험카드까지, 자신의 정치를 넘어 살아남은 타이완의 정책들'",
-        "desc": "한 독자가 범람과 범록이 식탁에서 서로 욕하는 장면에 지쳐, 타이완에 진정으로 좋았던 일을 기억하고 싶어 했다. 그래서 우리는 지난 70년의 열한 가지 정책을 골랐다. 권위주의가 농지를 강제 징수한 토지개혁, 계엄 해제, 전민건강보험부터 여전히 논쟁 중인 동성혼과 전향적 인프라까지, 일부러 범람과 범록의 자로 재지 않고 민생, 민주, 민권, 주권이라는 네 자로 재보았다. 결론은 조금 직관에 어긋난다. 자신의 당파적 출신을 넘어 살아남은 정책은, 태어난 날 대개 가장 격렬하게 다투어진 바로 그 정책이었다.",
-        "category": "history",
-        "href": "/ko/history/bipartisan-good-policy",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": null,
-        "image": "/article-images/history/cross-party-freeway-no1-2015.webp"
-      },
-      {
-        "title": "네덜란드·스페인·명정 시기",
-        "desc": "1624년 네덜란드인이 타이난에 젤란디아성을 세운 때부터 1683년 시랑이 펑후에 상륙하기까지, 타이완이 세계 무역 지도에 기입된 60년과 네 정권이 교체된 이야기",
-        "category": "history",
-        "href": "/ko/history/dutch-spanish-and-koxinga-era",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "'포르모사': 서양인은 이미 사람이 살고 있던 섬을 어떻게 '발견'했는가",
-        "desc": "1704년, 아시아에 가본 적 없는 한 프랑스인이 런던 왕립학회에 서서 자신이 만들어낸 문자와 종교로 좌중의 학자들에게 자신이 '포르모사인'이라고 믿게 했다. 이 사기는 10년 동안 지속되었다. 그러나 더 큰 문제는 이것이다. 유럽인이 '포르모사를 발견했다'고 말할 때, 섬의 오스트로네시아어족 사람들은 이미 6천 년 동안 그곳에 살고 있었다. '발견'은 누구의 서사인가?",
-        "category": "history",
-        "href": "/ko/history/formosa-historical-name",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "녹도 감옥: 정치 흑옥에서 대고(大哥)의 고향으로 겹쳐진 기억의 잔영",
-        "desc": "태평양 위의 외로운 섬 녹도는 백색테러 시기 정치범의 연옥이자 흑도 대고(大哥)의 최후 귀착지였다. 신생훈도처부터 숭덕신촌까지, 녹도 감옥의 역사는 어떻게 타이완 사회의 모순과 기억을 겹쳐 보여주는가?",
-        "category": "history",
-        "href": "/ko/history/green-island-prison",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": 20,
-        "image": "/article-images/history/green-island-memorial-park-2016.webp"
-      },
-      {
-        "title": "미려도 사건",
-        "desc": "반대 운동을 완전히 붕괴시키려던 군사 재판이 공개 중계로 인해 타이완 민주주의 가장 강력한 홍보 영상이 되었다.",
-        "category": "history",
-        "href": "/ko/history/kaohsiung-incident-formosa-incident",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "모단사 사건: 석문 협곡에서의 문명 충돌과 주권 각성",
-        "desc": "1874년, 해상 재난으로 촉발된 군사 행동은 타이완 남단의 석문 협곡을 근대 동아시아 질서의 중심지로 만들었다. 이는 일본 제국의 팽창 시험대였을 뿐만 아니라, 청조(淸朝)가 변방 방어에서 적극적 통치로 운명을 전환하는 결정적인 계기가 되었다.",
-        "category": "history",
-        "href": "/ko/history/mudan-incident",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "국가인권박물관: 눈물의 비석에 쓰이지 않은 이름들",
-        "desc": "1999년 국제 인권의 날, 리덩후이는 뤼다오에서 직접 「눈물의 비석」 제막식을 열었다. 보양은 스물여덟 글자로 모든 어머니의 긴 밤의 울음을 다 썼지만, 가해자의 이름은 하나도 쓰지 않았다. 6년의 준비, 2018년 현판식, 2025년 예산 동결. 국가가 스스로 저지른 일을 기념하기 위해 스스로 세운 박물관. 계엄 해제 39년 동안 사법 재판을 받은 가해자는 단 한 명도 없다.",
-        "category": "history",
-        "href": "/ko/history/national-human-rights-museum",
-        "date": "2026-07-27T18:59:24+08:00",
+        "href": "/fr/history/national-human-rights-museum",
+        "date": "2026-07-30T23:35:43+08:00",
         "readingTime": 16,
         "image": "/article-images/history/nhrm-tsai-unveil-2018.webp"
       },
       {
-        "title": "청치시기",
-        "desc": "1683-1895년 청나라가 대만을 약 212년간 통치하며, 소극적 통치에서 적극적 건설로 전환하여 현대 대만의 행정구역과 한인 사회의 기초를 마련한 시기",
+        "title": "Histoire ferroviaire de Taïwan : le « chemin de fer tuberculeux », les heitou-á et une lignée qui a perdu ses noms étrangers",
+        "desc": "Comment une voie délabrée que les Japonais raillaient comme un « chemin de fer tuberculeux » est devenue, en un peu plus d'un siècle, une artère à grande vitesse transportant deux cent mille personnes par jour. Les ingénieurs allemand et britanniques recrutés par Liu Mingchuan furent ensuite écartés par les Japonais, qui reprirent tout à zéro ; la ligne longitudinale de Hasegawa Kinsuke fut à son tour rebaptisée et renumérotée par les chemins de fer taïwanais d'après-guerre. Chaque génération relégua les traces de la précédente en note de bas de page ; les noms étrangers s'effacèrent les uns après les autres, ne laissant que les mots taïwanais « heitou-á » et « hué-tshia-á », puis les slogans politiques Juguang, Ziqiang et Fuxing, jusqu'à ce que la génération Puyuma et Taroko réinscrive enfin des toponymes autochtones sur les rails.",
         "category": "history",
-        "href": "/ko/history/qing-dynasty-rule",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "타이완 전망 결의문: 두 글자 \"현재\", 이십칼 년을 버티다",
-        "desc": "1999년, 린쭈이수이(林濁水)는 \"국호 중화민국\" 앞에 \"현재\" 두 글자를 붙였고, 천수볜(陳水扁) 계열은 매우 불쾌해했다. 두 글자는 동시에 독립파와 중간 유권자를 달래며 2000년 첫 정권 교체의 문을 열었다. 이십칠 년 후, 타이완의 젊은이들은 \"타이완은 원래부터 독립되어 있다\"는 것을 상식으로 여기지만, 이 상식이 모호함으로 가득한 문서에서 비롯되었다는 사실을 모른다.",
-        "category": "history",
-        "href": "/ko/history/resolution-on-taiwans-future",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "로발호 사건: 181명이 이기지 못한 싸움, 탁극독이 45분 만에 협상하다",
-        "desc": "1867년 미군 181명이 화롱반도(恆春半島) 정글에서 파완족(排灣族)에게 격퇴당하고, 지휘관이 전사했다. 석 달 후, 낭교십팔사(瑯嶠十八社) 대두목 탁극독(卓杞篤)이 앉아서 45분 만에 남갑지맹(南岬之盟)을 이끌어냈다. 이 협약은 일시적으로 부족의 멸족을 막았지만, 계약의 상대방이었던 리셴더(李仙得)는 7년 후 같은 정보를 가지고 일본 제국으로 이적하여 1874년 출병을 기획하는 데 가담했다.",
-        "category": "history",
-        "href": "/ko/history/rover-incident-and-tauketok",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "삼협 올거리: 붉은 벽돌 아치 아래의 권력 갈등과 미완성 문화자산 실험",
-        "desc": "2007년 FIABCI 글로벌 우수 건설상으로 인정받은 삼협 올거리는 타이완 최초의 대규모 ‘복원 공사’ 시범점이다. 청대 ‘삼각용’의 염색 무역부터 2016년 돌바닥길을 강제 철거한 비극까지, 이 붉은 벽돌 거리에는 타이완이 유적 보존과 관광 개발 사이에서 겪은 격렬한 갈등이 기록되어 있다.",
-        "category": "history",
-        "href": "/ko/history/sanxia-old-street",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "청프랑스 전쟁: 지룽과 단수이의 여덟 달",
-        "desc": "1884년 가을, 프랑스 함대가 지룽항을 포격하고 2천 명의 해병대가 상륙해 항구를 점령했다. 하지만 그들은 일곱 달 동안 지룽의 산자락을 벗어나지 못했다. 같은 주, 600명의 프랑스 수병이 단수이에 상륙했다가 두 시간 만에 바다로 쫓겨났다. 전쟁이 끝날 때 프랑스는 베트남을 얻었고 대만을 포기했다. 청나라는 하마터면 졌지만, 그 덕분에 대만은 부속 지역에서 독립 성(省)으로 승격됐다.",
-        "category": "history",
-        "href": "/ko/history/sino-french-war-in-taiwan",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "민주화",
-        "desc": "1980년 3월 18일, 가오슝 군사법정에서 스밍더는 6만 자의 답변서를 포기하고 재판관에게 사형을 선고해 달라고 요구했다. 같은 재판에서 피고를 변호하던 젊은 변호사 천수이볜, 셰창팅, 쑤전창은 20년 후 모두 총통 또는 행정원장이 됐다. 본보기를 보여 주려 했던 재판이 의도치 않게 타이완 다음 세대의 정치 지도자들을 만들어 낸 것이다.",
-        "category": "history",
-        "href": "/ko/history/taiwan-democratization-history",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "타이완 선거와 정당 정치",
-        "desc": "중리 사건의 불길에서 817만 장의 표까지, 타이완은 어떻게 반세기 만에 투표를 계엄의 도구에서 국민적 신념으로 바꾸었는가",
-        "category": "history",
-        "href": "/ko/history/taiwan-elections-and-party-politics",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "타이완 해양무역사",
-        "desc": "대항해시대의 타이완, 국제무역 중심지에서 해양 왕국으로의 흥망성쇠",
-        "category": "history",
-        "href": "/ko/history/taiwan-maritime-trade-history",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "타이완과 북한: 제4위 수출국에서 그림자 함대로의 회색 충돌",
-        "desc": "타이완은 과거 북한의 제4위 수출국이었으며, 평양 사무실에는 Acer 컴퓨터와 화성위욕(和成衛浴) 제품이 널리 사용되었다. 이 뜨거운 무역에서 전면 제재로 이어진 역사는 비밀 농업 원조, 해상 밀수, 그리고 국가 안보 정보 간의 심층적인 각력을 교차한다.",
-        "category": "history",
-        "href": "/ko/history/taiwan-north-korea-relations",
-        "date": "2026-07-27T18:59:24+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "대만 철도사: 폐병철도, 검은 머리 기관차, 그리고 외국 이름을 잃어버린 계보",
-        "desc": "일본인이 「폐병철도」라고 욕하던 엉망진창의 길은 어떻게 백여 년 사이 매일 20만 명을 실어 나르는 고속 동맥이 되었는가. 류밍촨이 초빙한 독일·영국 기술자들은 훗날 일본인에 의해 처음부터 다시 갈아엎어졌고, 하세가와 긴스케의 종관선은 전후 대만철도에 의해 이름과 번호가 바뀌었다. 세대마다 앞선 세대의 기록을 주석으로 밀어냈다. 외국 이름들은 줄곧 벗겨져 나갔고, 남은 것은 대만어의 「오타우아」「화차아」, 쥐광·쯔창·푸싱이라는 정치 구호뿐이었다. 마침내 푸유마·타로코 세대에 이르러서야 원주민 지명이 다시 철로 위에 깔렸다.",
-        "category": "history",
-        "href": "/ko/history/taiwan-railway-history",
-        "date": "2026-07-27T18:59:24+08:00",
+        "href": "/fr/history/taiwan-railway-history",
+        "date": "2026-07-30T23:35:43+08:00",
         "readingTime": 16,
         "image": "/article-images/history/tra-taitung-line-fireman-1970s.webp"
       },
       {
-        "title": "대만 해협 위기와 양안 관계 발전",
-        "desc": "진먼(金門) 할머니의 포탄 기억에서 타이베이 청년들의 불교적 일상까지, 70년간의 대만 해협 위기가 대만인의 집단 심리를 어떻게 형성했는가",
-        "category": "history",
-        "href": "/ko/history/taiwan-strait-crises-and-cross-strait-relations",
-        "date": "2026-07-27T18:59:24+08:00",
+        "title": "Bangka : le lieu le plus animé du Taipei sous les Qing est aujourd'hui le district dont l'âge moyen est le plus élevé à Taipei",
+        "desc": "Le temple Longshan de Bangka, construit en 1738 grâce au financement collectif de migrants des trois districts de Quanzhou, aura 288 ans en 2026, soit 137 ans de plus que la préfecture de Taipei établie par les Qing. En 1853, l'affrontement armé du Dingxiajiaopin repoussa les gens de Tong'an vers Dadaocheng et planta les germes de deux siècles de bifurcation dans le nord de Taïwan. Rebaptisé Wanhua sous la domination japonaise, constitué en district en 1990, porté au cinéma par Doze Niu en 2010 avec Monga, il affiche aujourd'hui un indice de vieillissement de 320,78 %, le plus élevé de toute la ville. Dans cette plus ancienne rue de Taipei, le premier bâton d'encens brûle encore à six heures du matin sur le parvis du temple.",
+        "category": "geography",
+        "href": "/fr/geography/bangka",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 22,
+        "image": "/article-images/geography/wanhua-longshan-temple-2016.webp"
+      },
+      {
+        "title": "Shilin : terre des Ketagalan, temple des affrontements Zhangzhou-Quanzhou, aujourd'hui le marché de nuit le plus dense de Taipei",
+        "desc": "À 19 h 30, au carrefour du marché de nuit de Shilin, des touristes coréens se prennent en selfie avec une grande escalope de poulet frit à la main, tandis qu'à côté, au 84, Danan Road, le temple Cixian, fondé en 1796, première année de l'ère Jiaqing, atteint 230 ans en 2026. En 1859, neuvième année de l'ère Xianfeng, les Zhangzhou furent chassés de cette rue par le feu des Quanzhou ; en 1860, année gengshen, Pan Yongqing traça à Xiashulin quatre rues orthogonales, Dadong Road, Danan Road, Daxi Road et Dabei Road, et plaça le temple exactement au centre. En 1909, les Japonais construisirent un marché en face du temple ; en 1955, le cinéma Yangming fut inauguré sur Wenlin Road ; en 1992, Hot-Star Large Fried Chicken fut inventé à Taichung, avant de s'installer à Shilin en 1999. En 2002, les extensions d'après-guerre furent démolies ; en 2011, le nouveau marché ouvrit, et l'aire alimentaire souterraine commença à fonctionner en deux équipes, du matin au soir. Le temple est toujours au même endroit, mais à ses pieds deux villes se relaient chaque jour.",
+        "category": "geography",
+        "href": "/fr/geography/shilin",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 22,
+        "image": "/article-images/geography/shilin-cixian-temple-2010.webp"
+      },
+      {
+        "title": "Shopping Design : la revue qui apprend à acheter du design et qui, à la fin, vous demande de la distinguer elle-même",
+        "desc": "Fondée en 2006 avec le blanc pour thème de son premier numéro, « Shopping Design » a transformé en vingt ans le design, de substantif de salle d’exposition en verbe du quotidien : arpenter les boutiques et choisir des objets. Ce qu’elle a vraiment appris à Taïwan, c’est que « distinguer » peut s’entraîner comme une capacité ; et elle a étendu cette capacité jusqu’à un palmarès annuel de cent, une revue trimestrielle et un festival, ainsi qu’à la licence unique de sa maison mère, qui mentionne à la fois « édition de revues » et « services publicitaires ». Ainsi, la revue qui enseigne à distinguer finit par vous demander de la distinguer, elle.",
+        "category": "culture",
+        "href": "/fr/culture/shopping-design",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": null,
+        "image": "/article-images/culture/shopping-design-designbiz-2022-banner.jpg"
+      },
+      {
+        "title": "L’épée Yitian du fleuve Daan : l’arbre le plus haut d’Asie de l’Est, caché depuis sept cents ans dans un lieu que nous ne pouvions atteindre",
+        "desc": "Au Nouvel An lunaire 2023, l’équipe des « chercheurs d’arbres » a remonté des torrents pendant sept jours jusqu’à une gorge profonde, presque inaccessible, près de la source du fleuve Daan. Là, elle a fait descendre un ruban à mesurer depuis la cime d’un Taïwania : 84,1 mètres, l’arbre le plus haut d’Asie de l’Est. Il dépassait de 4,6 mètres la prédiction du LiDAR laser. Une île frappée chaque année par les typhons, sujette aux glissements de terrain et aux crues, ne devrait en principe pas conserver une forme de vie d’une telle hauteur ; pourtant, c’est précisément parce qu’il poussait dans une vallée inaccessible aux humains qu’il a échappé aux grandes coupes et tenu sept siècles. Ce même « impossible à atteindre » lui a permis de survivre, et nous a contraints à balayer toute l’île au laser pour l’apercevoir pour la première fois cette année-là.",
+        "category": "nature",
+        "href": "/fr/nature/daan-river-yitian-sword",
+        "date": "2026-07-30T23:35:43+08:00",
         "readingTime": 15,
-        "image": ""
-      }
-    ],
-    "fr": [
+        "image": "/article-images/nature/taiwania-nantou-shihchuan.webp"
+      },
+      {
+        "title": "Crise climatique et transition vers le zéro émission nette à Taïwan : le jour où le référendum sur la centrale nucléaire no 3 a échoué, le choix des limites physiques ne faisait que commencer",
+        "desc": "Référendum du 23 août 2025 sur la prolongation de la centrale nucléaire no 3 : 4,34 millions de voix favorables, 74 % de oui, mais un taux de participation de 29,53 % insuffisant pour atteindre le seuil. Le référendum a échoué ; le lendemain, Lai Ching-te a posé trois principes, et sept mois plus tard, le 27 mars 2026, Taipower déposait une demande de prolongation auprès du Conseil de sûreté nucléaire. 98 % de l'énergie importée, 9 000 milliards de dollars taïwanais pour le zéro émission nette, un objectif géothermique de 200 MW dont seuls 7,4 MW construits, la septième capacité mondiale d'éolien en mer, le site de stockage définitif d'Onkalo, le nucléaire de quatrième génération de TerraPower : la question énergétique de cette île n'a jamais été une question politique, mais une question de limites physiques.",
+        "category": "nature",
+        "href": "/fr/nature/taiwan-climate-change-net-zero-transition",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 26,
+        "image": "/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp"
+      },
+      {
+        "title": "Kétoupa à pattes jaunes : six kilomètres de rivière pour un couple, un rapace nocturne dans un Michelia formosana à 1 800 mètres",
+        "desc": "En avril 2026, Hong Hsiao-yu, professeur assistant à l’Université nationale des sciences et technologies de Pingtung, a localisé dans la cavité d’un vieux Michelia formosana d’environ 1,5 mètre de diamètre à hauteur de poitrine, au bord de la rivière Qijiawan, le site de nidification de kétoupa à pattes jaunes le plus élevé connu à Taïwan — environ 1 800 mètres d’altitude. Ce plus grand hibou de Taïwan n’a été signalé pour la première fois qu’en 1916 par le savant japonais Nagamichi Kuroda. Le laboratoire de Sun Yuan-hsun, à l’Université nationale des sciences et technologies de Pingtung, le suit depuis trente ans : dans 91 territoires, chaque couple a besoin en moyenne de 6,2 kilomètres de rivière. Un tronçon de cours d’eau non bétonné, un arbre géant qui n’est pas encore tombé : le kétoupa à pattes jaunes vit dans l’interstice où deux choses des forêts de montagne taïwanaises n’ont pas encore disparu.",
+        "category": "nature",
+        "href": "/fr/nature/tawny-fish-owl",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 12,
+        "image": "/article-images/nature/tawny-fish-owl-gailhampshire-2009.webp"
+      },
+      {
+        "title": "Chen Chien-nien : le roi des Golden Melody Awards du poste de police, le petit-fils qui fit de la chanson laissée par son grand-père maternel un océan",
+        "desc": "Né le 1er août 1967 dans la communauté Nanwang, à Beinan, Taitung. Diplômé de l’école de police en 1986, il est affecté à Guanshan, Taitung, et sert dans la police pendant 30 ans et 10 mois. En 1999, à 33 ans, il publie son premier album d’auteur-compositeur, 《海洋》. En 2000, lors de la 11e édition des Golden Melody Awards, il devance Jacky Cheung, Wang Leehom, David Tao et Harlem Yu pour remporter le prix du meilleur chanteur mandarin ; la même année, 〈神話〉 lui vaut aussi le prix de la meilleure composition. Sur la scène de la remise des prix, il est encore policier. En septembre de la même année, il demande sa mutation à Lanyu pour fuir l’agitation, et y reste 17 ans jusqu’à sa retraite. Son grand-père maternel Lu Sen-bao est l’auteur de 〈美麗的稻穗〉 ; il aura fallu trente ans au petit-fils pour saisir ce fil musical.",
+        "category": "people",
+        "href": "/fr/people/chen-chien-nien",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 8,
+        "image": "/article-images/people/chen-chien-nien-hsinchu-feng-2018.webp"
+      },
+      {
+        "title": "Cicada : seize ans d’enregistrements de terrain, du typhon Morakot en 2009 aux glaciers transhémisphériques en 2025",
+        "desc": "Fondé à Taipei en 2009, Cicada est un groupe indépendant entièrement instrumental, sans voix. Sa pianiste fondatrice, Chiang Chih-chieh (titulaire d’un master en histoire de l’art de l’Université nationale des arts de Taipei), a écrit ses premiers morceaux après avoir vu les informations sur le typhon Morakot cette année-là. Au cours des seize années suivantes, le groupe a transformé la disparition des côtes de Taïwan, l’écologie marine, les forêts de montagne et les sources des rivières en albums sans voix, de la côte ouest (_Coastland_, 2013) au Pacifique de la côte est (_Light Shining Through the Sea_, 2015), jusqu’aux sources des rivières de la chaîne Centrale (_Seeking the Sources of Streams_, 2022, expédition de 15 jours et 120 kilomètres). Il a composé la musique du film japonais _A Man_ et a reçu le prix d’excellence pour la musique aux Japan Academy Film Prize. En 2025, _Gazing the Shades of White_ a pour la première fois poussé son terrain hors de Taïwan, suivant les glaciers au Groenland, en Islande et en Nouvelle-Zélande, avant de revenir à Xueshan pour chercher les traces laissées par d’anciens glaciers.",
+        "category": "people",
+        "href": "/fr/people/cicada-band",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 24,
+        "image": "/article-images/people/cicada-cuichi-xueshan-glacial-lake.webp"
+      },
+      {
+        "title": "Kowen Ko : Grandir à travers la mer, chanter pour ceux qui acceptent de s'asseoir",
+        "desc": "En 2013, un étudiant universitaire fut poussé par ses camarades à s'inscrire à un concours de chant ; il y remporta le premier prix en interprétant deux titres de Coldplay. Il s'appelle Kowen Ko. Sa voix grave, qualifiée de « voix deoncle », et une lenteur qui refuse de se presser, lui ont permis de se tailler une place à la fois intime et profonde dans la scène indépendante de Taïwan. Grandi derrière les mers, il a composé des chansons avec une guitare défectueuse à Mumbai et chanté devant les résidents d'en face devant un magasin général centenaire à Taichung. Pendant neuf ans, Chen Jian-ki a produit trois albums pour lui sans jamais le presser ; en 2025, sa réinterprétation de « God’s Reply » pour une série Hakka lui a valu un prix Golden Bell.",
+        "category": "people",
+        "href": "/fr/people/ke-zhi-tang-musician",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 18,
+        "image": "/article-images/people/kowen-ko-portrait.webp"
+      },
+      {
+        "title": "Ya Hsien : après avoir écrit L'Abîme, il posa la plume ; la seconde moitié de sa vie fit de la page littéraire de l'United Daily News une page d'histoire poétique",
+        "desc": "En 1968, Ya Hsien avait 36 ans lorsqu'il réunit quatre-vingt-dix poèmes dans L'Abîme, puis cessa d'écrire. De 1977 à 1998, il dirigea pendant 21 ans le supplément littéraire de l'United Daily News, transformant la table de rédaction en l'un des espaces publics littéraires les plus importants de Taïwan après-guerre. Le 11 octobre 2024, il s'est éteint à Vancouver, au Canada, à l'âge vénérable de 92 ans : son silence de 56 ans après avoir posé la plume fut plus long que mille recueils de poésie, et le refrain « Alléluia, je suis encore vivant » devint un marqueur d'histoire poétique de l'époque de la loi martiale, dont l'obscurité échappa à l'examen du Commandement général de la garnison.",
+        "category": "people",
+        "href": "/fr/people/ya-hsien-poet",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": null,
+        "image": "/article-images/people/yaxian-portrait-2012.webp"
+      },
+      {
+        "title": "La Loi sur les établissements de santé : Quarante ans de tensions entre normes institutionnelles et dynamiques de marché",
+        "desc": "La Loi sur les établissements de santé, promulguée en 1986, a vu la responsabilité pénale des médecins révisée en 2017 et le ratio infirmier-médecin en trois équipes inscrit dans la loi en 2026. La loi peut déterminer « le nombre maximal de lits qu'une infirmière peut gérer », mais elle ne peut pas déterminer « s'il y a une infirmière disponible ». Sur les 320 000 licences d'infirmières, seules 190 000 mains sont disponibles sur le terrain. Ce n'est ni la Loi sur l'assurance maladie ni la Loi sur les médecins, mais la loi fondamentale qui régit l'existence même de l'« hôpital » à Taïwan, et la tension non résolue depuis quarante ans entre la nature publique des soins de santé et les mécanismes de marché.",
+        "category": "society",
+        "href": "/fr/society/medical-care-act",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 18,
+        "image": "/article-images/society/ntu-hospital-pond-2011.webp"
+      },
+      {
+        "title": "Logement national et justice résidentielle : ces logements bon marché construits par l'État, et l'ascenseur patrimonial qu'ils ont finalement créé",
+        "desc": "En 1985, les logements de Chenggong, à 67 000 dollars taïwanais le ping, ne trouvaient pas preneur ; un ancien chef de quartier réunit 400 000 dollars taïwanais d'apport initial pour en acheter un. Quarante ans plus tard, à la même adresse, le prix approche le million par ping. Le logement national devait être un outil pour « aider la population à pouvoir acheter un logement », mais il n'a jamais été doté d'un sas de récupération de la plus-value : la subvention publique est finalement devenue le patrimoine privé de ceux qui avaient acheté tôt. En 2026, Taoyuan remet ce sas en place, ce qui revient à reconnaître l'erreur du logement national.",
+        "category": "society",
+        "href": "/fr/society/public-housing-justice",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 16,
+        "image": "/article-images/society/taipei-skyline-housing-2026.webp"
+      },
+      {
+        "title": "Développement du sport à Taïwan et Jeux olympiques : une équipe appelée « Taipei chinois »",
+        "desc": "En 1976 à Montréal, le Canada exigea un changement de nom en « Taiwan » ; Chiang Ching-kuo y vit une humiliation nationale et retira la délégation. En 2024 à Paris, la nuit où la paire Lee-Wang conserva son titre olympique en double hommes, tout le public chanta les paroles de l’Hymne au drapeau national sous le drapeau olympique à la fleur de prunier : du « Taïwan » qui ne pouvait pas entrer jusqu’au monde qui commence à appeler cette équipe Taiwan, ce chapeau nommé « Taipei chinois », chaque génération de médaillés d’or en porte le poids.",
+        "category": "society",
+        "href": "/fr/society/taiwan-sports-olympics",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 18,
+        "image": "/article-images/society/yang-chuan-kwang-1960.webp"
+      },
+      {
+        "title": "The Reporter : dix ans pour faire du journalisme d'enquête, d'une activité commerciale, un bien public",
+        "desc": "De 4 donateurs mensuels réguliers à 8 000 par mois, de la trilogie « Les pêcheries de sang et de larmes » au dossier 2026 sur le front uni, les coûts que The Reporter a brûlés en dix ans - huit mois d'infiltration, des reportages dans trois pays, la comparaison de dossiers d'infractions sur plusieurs années - correspondent précisément à ce que l'ère algorithmique donne le moins envie de payer pour lire. La société civile de cette île, par des prélèvements mensuels effectués par des inconnus, a sauvé le journalisme d'enquête d'une ligne d'activité des médias commerciaux pour en faire un bien public sans cesse entretenu, mais dont le coût brûle toujours plus vite.",
+        "category": "society",
+        "href": "/fr/society/the-reporter-investigative-journalism",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": null,
+        "image": "/article-images/society/the-reporter-brand-logo.webp"
+      },
+      {
+        "title": "Les 50 plus grandes entreprises de Taïwan : la montagne sacrée protectrice du pays soutient un classement, mais aussi un pays à point de défaillance unique",
+        "desc": "Le 19 mai 2026, la capitalisation boursière de TSMC représentait à elle seule 31,51 % de l'indice pondéré de Taïwan et environ 40 % de la capitalisation totale du marché taïwanais ; les 50 plus grandes entreprises réunies soutiennent l'équivalent d'un PIB, mais l'une d'elles tient en otage le destin de ce PIB. Électronique 36 %, finance 25 %, industries traditionnelles 10 % : le prétendu tripode « électronique-finance-industries traditionnelles » est en réalité un corps à moitié porté par la seule jambe électronique. De la soirée où Jensen Huang et Morris Chang ont été photographiés au marché de nuit de Ningxia, jusqu'aux 32 vies perdues avant l'aube sur Kaixuan 3rd Road, ce classement est à la fois la colonne vertébrale irremplaçable de Taïwan et son point de défaillance unique le plus fragile.",
+        "category": "economy",
+        "href": "/fr/economy/top-50-companies-taiwan",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 18,
+        "image": "/article-images/economy/tsmc-factory-hsinchu-2009.webp"
+      },
+      {
+        "title": "Système médical et Assurance maladie nationale à Taïwan : un numéro un mondial à 99,6 %, soutenu par 12,61 %",
+        "desc": "La carte d'assurance maladie du 1er mars 1995 a été produite dans l'urgence : six jours plus tôt, elle n'était même pas imprimée. Trente ans plus tard, le droit aux soins de 23 millions de personnes repose sur un taux de cotisation de 5,17 %, un taux de départs infirmiers au plus haut depuis dix ans à 12,61 %, et un tabou politique auquel personne n'a osé toucher depuis trente ans.",
+        "category": "lifestyle",
+        "href": "/fr/lifestyle/taiwan-healthcare-and-national-health-insurance",
+        "date": "2026-07-30T09:46:44+09:00",
+        "readingTime": 22,
+        "image": "/article-images/lifestyle/nhi-taipei-building-2018.webp"
+      },
       {
         "title": "Tartelettes aux œufs : du monastère de Macao à la mémoire collective taïwanaise de l’« engouement collectif »",
         "desc": "En 1998, une « crise des tartelettes aux œufs » faite d’essor fulgurant et d’effondrement brutal a non seulement défini à Taïwan les comportements de consommation « moutonniers », mais a aussi contraint KFC à s’y transformer en « boutique de tartelettes aux œufs retardée par le poulet frit ».",
@@ -1099,6 +1306,15 @@
         "date": "2026-07-30T04:02:34+08:00",
         "readingTime": 6,
         "image": "/article-images/food/dan-ta-hero.webp"
+      },
+      {
+        "title": "Artisanat traditionnel et patrimoine culturel immatériel de Taïwan : la reconnaissance institutionnelle est arrivée, mais les apprentis ont disparu",
+        "desc": "En décembre 2022, le ministère de la Culture a inscrit Su Qingliang, maître maçon de Kaohsiung âgé de 87 ans, parmi les « trésors nationaux vivants » ; il est mort six mois plus tard. Taïwan n’a intégré les « détenteurs d’un artisanat traditionnel important » dans la Loi sur la préservation du patrimoine culturel qu’en 2005, avec 50 ans de retard sur le Japon et 43 ans sur la Corée. Quand le dispositif a enfin été en place, le système d’apprentissage s’était déjà effondré dans l’industrialisation des années 1970-1980 : parmi plus de 600 maîtres artisans traditionnels, les moins de 50 ans ne sont « qu’une minorité ». Plus la liste s’allonge, moins il reste de personnes capables d’enseigner.",
+        "category": "culture",
+        "href": "/fr/culture/traditional-crafts-intangible-cultural-heritage",
+        "date": "2026-07-29T13:39:11+09:00",
+        "readingTime": 14,
+        "image": "/article-images/culture/meinong-paper-umbrella-2013.webp"
       },
       {
         "title": "Les feuilletons de 20h : Une allumette locale, foyer du culte et de la nostalgie dans le salon taïwanais",
@@ -1144,225 +1360,189 @@
         "date": "2026-07-27T19:09:51+08:00",
         "readingTime": 12,
         "image": ""
+      }
+    ],
+    "es": [
+      {
+        "title": "Cocina de las villas de dependientes militares en Taiwán",
+        "desc": "Los sabores de distintas provincias traídos por la gran migración de 1949, desde las cocinas dentro de las cercas de bambú hasta la preservación del gusto tras la demolición de las villas de dependientes militares",
+        "category": "food",
+        "href": "/es/food/military-dependents-village-cuisine",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 8,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Spring_onion_pancake_2013.JPG/960px-Spring_onion_pancake_2013.JPG"
       },
       {
-        "title": "Thinking Taiwan : 14 ans, du test d'une présidente défaite au creuset d'un dialogue démocratique transpartisan",
-        "desc": "Le 2 mai 2026, Song Chu-yu, ancien président du Parti populaire, Wang Wan-yu, présidente du Parti pour la Nouvelle Ère, Miao Po-ya, députée du Parti social-démocrate, et Gong Jianjia, vétérinaire et fondateur de Fresh Milk Farm, apparaissent simultanément sur la liste des contributeurs de « 30 ans, 30 personnes, 30 points de vue ». Ce forum en ligne, fondé par Tsai Ing-wen après sa défaite de 2012, a accumulé près de 5 800 articles en 14 ans, traversé la rupture lorsque Jian Chih-chung a pris la présidence du conseil d'administration, franchi la distance de 9 ans sans refonte majeure sous le gouvernement en place, et continue en 2026 de répondre à une question posée dès le premier jour : une plateforme appelée « Fondation éducative de Tsai Ing-wen » peut-elle porter un dialogue démocratique transpartisan ?",
+        "title": "Industria de drones de Taiwán: De aviones de juguete en Taichung a la lista azul, un boleto de entrada para Thunder Tiger",
+        "desc": "El 21 de septiembre de 2025, el dron suicida FPV Overkill de Thunder Tiger Technology fue certificado por la Lista Azul de UAS del Departamento de Defensa de EE. UU. (Blue UAS Cleared List), siendo la primera y única empresa taiwanesa hasta la fecha. De los 39 plataformas completas y 165 componentes de la lista, Taiwán solo ocupa un lugar. En abril de 2026, cuatro senadores estadounidenses bipartidistas presentaron el proyecto de ley \"Blue Skies for Taiwan Act\" para establecer un canal rápido para fabricantes taiwaneses; la propia existencia del proyecto revela una realidad: Taiwán avanza demasiado lento, hasta el propio EE. UU. debe legislar para bajar los umbrales. Una empresa que lleva cuarenta y seis años fabricando aviones de juguete teledirigidos en Taichung planea construir su segunda fábrica en Ohio.",
+        "category": "technology",
+        "href": "/es/technology/taiwan-drone-industry",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 16,
+        "image": "/article-images/technology/chung-shyang-ii-uav-2007.webp"
+      },
+      {
+        "title": "Cicada: dieciséis años de grabaciones de campo, desde Morakot en 2009 hasta los glaciares transhemisféricos de 2025",
+        "desc": "Cicada, formada en Taipéi en 2009, es una banda independiente enteramente instrumental, sin voces. Su pianista fundadora, Chiang Chih-chieh (maestría en Historia del Arte por la Universidad Nacional de las Artes de Taipéi), escribió sus primeras piezas tras ver las noticias sobre el tifón Morakot de aquel año. Durante los dieciséis años siguientes, convirtieron la desaparición de las costas de Taiwán, la ecología marina y los nacientes de arroyos en montañas y bosques en una serie de álbumes sin voces: desde la costa oeste (Coastland, 2013) y el Pacífico de la costa este (Light Shining Through the Sea, 2015) hasta los nacientes de la cordillera Central (Seeking the Sources of Streams, 2022, una expedición de 15 días y 120 kilómetros). Compusieron la banda sonora de la película japonesa A Man y recibieron el Premio a la Música Destacada de la Academia Japonesa de Cine. En 2025, Gazing the Shades of White llevó por primera vez su trabajo de campo fuera de Taiwán: siguió glaciares por Groenlandia, Islandia y Nueva Zelanda, y luego volvió a Xueshan para buscar las huellas dejadas por antiguos glaciares.",
+        "category": "people",
+        "href": "/es/people/cicada-band",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 24,
+        "image": "/article-images/people/cicada-cuichi-xueshan-glacial-lake.webp"
+      },
+      {
+        "title": "La Ley de Asistencia Médica: Cuatro décadas de tensión entre la regulación institucional y el mercado",
+        "desc": "La Ley de Asistencia Médica de Taiwán fue promulgada en 1986, se modificó la responsabilidad penal de los médicos en 2017 y la relación enfermero-paciente de tres turnos se incorporó a la ley en 2026. La ley puede escribir «cuántas camas puede atender como máximo una enfermera», pero no puede escribir «si existe esa enfermera»: de las 320.000 licencias de enfermería, solo quedan 190.000 manos en la clínica. Esta no es la Ley de Seguro Médico, ni la Ley de Médicos, es la ley raíz sobre cómo existe la institución del «hospital» en Taiwán, y la tensión sin resolver durante cuarenta años entre la utilidad pública de la asistencia médica y los mecanismos de mercado.",
         "category": "society",
-        "href": "/fr/society/thinking-taiwan-forum",
-        "date": "2026-07-27T19:09:51+08:00",
-        "readingTime": null,
-        "image": ""
+        "href": "/es/society/medical-care-act",
+        "date": "2026-07-31T00:55:37+08:00",
+        "readingTime": 18,
+        "image": "/article-images/society/ntu-hospital-pond-2011.webp"
       },
       {
-        "title": "La Guerre de l'Année Yiwei : les 148 jours de la République de Taïwan",
-        "desc": "En 1895, la cour Qing céda Taïwan au Japon. Les fonctionnaires de l'île proclamèrent la première république d'Asie, mais le président s'enfuit en dix jours, le poète en quatre. Ceux qui restèrent vraiment pour se battre furent un jeune Hakka de dix-neve ans et les miliciens qu'il avait levés en dilapidant sa fortune. Après 148 jours, la république disparut et la domination japonaise commença.",
+        "title": "Museo Nacional de Derechos Humanos: los nombres que no figuran en el Monumento de las Lágrimas",
+        "desc": "El Día Internacional de los Derechos Humanos de 1999, Lee Teng-hui inauguró personalmente en la Isla Verde el Monumento de las Lágrimas. Bo Yang escribió 28 caracteres que condensaban el largo llanto nocturno de todas las madres, pero no escribió el nombre de ningún perpetrador. Seis años de preparación, inauguración oficial en 2018, presupuesto congelado en 2025. Un museo construido por el propio Estado para conmemorar lo que el propio Estado hizo: en los 39 años transcurridos desde el levantamiento de la ley marcial, ningún perpetrador ha sido sometido a juicio.",
         "category": "history",
-        "href": "/fr/history/1895-taiwan-resistance-war",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Les guerres du camphre au XIXe siècle : le parfum que le monde convoitait, caché dans les montagnes des peuples autochtones",
-        "desc": "En 1864, Robert Swinhoe écrit trois chiffres à Tamsui : 6, 16, 28. Une charge de camphre voit son prix quasi quintuplé entre son lieu de production et Hong Kong. La différence atterrit dans la poche du daotai — et dans les montagnes des peuples autochtones.",
-        "category": "history",
-        "href": "/fr/history/19th-century-camphor-wars",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Alishan : la forêt de l'Empire et la montagne de Uongu Yatauyungana",
-        "desc": "Le 17 avril 1954, Uongu Yatauyungana (高一生), élite tsou, fut fusillé au champ d'exécution d'Ankeng. Alishan, chaîne de montagnes célébrée comme destination touristique, est en réalité une montagne de la mémoire, réécrite successivement par deux empires.",
-        "category": "history",
-        "href": "/fr/history/alishan-empire-forest-and-uongu-yatauyungana",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Quatre critères au-delà du bleu et du vert : d’un champ à une carte d’assurance maladie, ces politiques taïwanaises qui ont survécu à leur propre politique",
-        "desc": "Un lecteur, lassé des invectives bleu-vert à table, voulait se souvenir de ce qui avait réellement été bénéfique pour Taïwan. Nous avons donc retenu onze politiques sur soixante-dix ans, de la réforme agraire menée par réquisition autoritaire des terres agricoles à la levée de la loi martiale et à l’assurance maladie universelle, jusqu’au mariage pour tous et au plan d’infrastructures prospectives, encore débattus. Nous avons délibérément renoncé au critère bleu-vert pour leur substituer quatre critères : conditions de vie, démocratie, droits civiques et souveraineté. La conclusion est quelque peu contre-intuitive : les politiques qui survivent à leur origine partisane sont souvent celles qui, le jour de leur naissance, ont suscité les querelles les plus vives.",
-        "category": "history",
-        "href": "/fr/history/bipartisan-good-policy",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": null,
-        "image": "/article-images/history/cross-party-freeway-no1-2015.webp"
-      },
-      {
-        "title": "Période néerlandaise, espagnole et Ming-Zheng",
-        "desc": "De l’établissement par les Néerlandais du fort Zeelandia à Tainan en 1624 au débarquement de Shi Lang aux Pescadores en 1683 : soixante années durant lesquelles Taïwan entra dans la carte du commerce mondial, et l’histoire de quatre successions de pouvoir",
-        "category": "history",
-        "href": "/fr/history/dutch-spanish-and-koxinga-era",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "'Formose' : comment les Occidentaux ont « découvert » une île déjà habitée",
-        "desc": "En 1704, un Français qui n'était jamais allé en Asie se présenta devant la Royal Society de Londres et, avec une écriture et une religion qu'il avait lui-même inventées, convainquit l'assemblée de savants qu'il était « Formosan ». Cette supercherie dura dix ans. Mais la question la plus vaste est celle-ci : lorsque les Européens disent avoir « découvert Formose », les peuples austronésiens de l'île y vivaient déjà depuis six mille ans. De qui la « découverte » est-elle le récit ?",
-        "category": "history",
-        "href": "/fr/history/formosa-historical-name",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "La prison de Green Island : des geôles politiques à la « terre des parrains », strates de mémoire",
-        "desc": "Green Island, cet îlot isolé du Pacifique, fut autrefois un enfer pour les prisonniers politiques de la Terreur blanche et le dernier refuge des parrains du milieu. Du Centre de rééducation pour nouveaux détenus au village de Chongde, comment l'histoire de la prison de Green Island superpose-t-elle les contradictions et les mémoires de la société taïwanaise ?",
-        "category": "history",
-        "href": "/fr/history/green-island-prison",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": 20,
-        "image": "/article-images/history/green-island-memorial-park-2016.webp"
-      },
-      {
-        "title": "L'incident de Mudan : Collision des civilisations et éveil de la souveraineté dans le défilé de Shimen",
-        "desc": "En 1874, une action militaire déclenchée par un naufrage a fait du défilé de Shimen, au sud de Taïwan, le centre névralgique de l'ordre d'Asie de l'Est moderne. Ce fut à la fois une étape d'expansion pour l'Empire japonais et un tournant décisif pour la Cour Qing, forçant celle-ci à passer d'une défense périphérique à une gouvernance active.",
-        "category": "history",
-        "href": "/fr/history/mudan-incident",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Musée national des droits humains : les noms absents du monument des larmes",
-        "desc": "Le 10 décembre 1999, Journée internationale des droits humains, Lee Teng-hui inaugura lui-même, à Green Island, le « monument des larmes ». Bo Yang y grava 28 caractères qui disent les longues nuits de pleurs de toutes les mères, sans inscrire le nom d’un seul auteur des violences. Six ans de préparation, inauguration en 2018, budget gelé en 2025. Dans ce musée qu’un État a lui-même construit pour commémorer ce qu’il a fait, trente-neuf ans après la levée de la loi martiale, aucun auteur n’a été jugé par la justice.",
-        "category": "history",
-        "href": "/fr/history/national-human-rights-museum",
-        "date": "2026-07-27T19:02:16+08:00",
+        "href": "/es/history/national-human-rights-museum",
+        "date": "2026-07-30T23:35:43+08:00",
         "readingTime": 16,
         "image": "/article-images/history/nhrm-tsai-unveil-2018.webp"
       },
       {
-        "title": "Résolution sur l'avenir de Taïwan : les deux mots « actuellement », qui ont soutenu vingt‑sept ans",
-        "desc": "En 1999, Lin Zhuoshui a ajouté les deux caractères « actuellement » devant le nom officiel « République de Chine », ce qui a déplu à la faction de Chen Shui‑Bian. Ces deux mots ont simultanément apaisé les indépendantistes et les électeurs du centre, ouvrant la porte à la première alternance politique en 2000. Vingt‑sept ans plus tard, les jeunes Taïwanais considèrent comme un sens commun que « Taïwan est déjà indépendant », sans savoir que ce « sens commun » provient d’un texte vague.",
+        "title": "Historia ferroviaria de Taiwán: el ferrocarril tuberculoso, los cabezas negras y una genealogía que perdió sus nombres extranjeros",
+        "desc": "Cómo una vía ruinosa que los japoneses llamaron «ferrocarril tuberculoso» se convirtió, en poco más de un siglo, en una arteria de alta velocidad que transporta a 200.000 personas por día. Los ingenieros alemanes y británicos contratados por Liu Ming-chuan fueron luego descartados por los japoneses, que rehiceron la obra desde cero; la línea longitudinal de Hasegawa Kinsuke fue rebautizada y renumerada por la Administración de Ferrocarriles de Taiwán después de la guerra; cada generación empujó los registros de la anterior hacia las notas al pie. Los nombres extranjeros fueron perdiendo brillo, hasta quedar solo los nombres en taiwanés «o͘-thâu-á» y «hué-chhia-á», los lemas políticos Juguang, Ziqiang y Fuxing, y recién en la generación de Puyuma y Taroko los topónimos indígenas volvieron a tenderse sobre los rieles.",
         "category": "history",
-        "href": "/fr/history/resolution-on-taiwans-future",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": 10,
-        "image": ""
-      },
-      {
-        "title": "Sanxia vieille rue : tiraillement du pouvoir sous les arches en briques rouges, et une expérience patrimoniale inachevée",
-        "desc": "En 2007, la vieille rue de Sanxia, reconnue par le FIABCI Global Excellence Award, constitue le premier exemple taïwanais d'« opération de restauration ». Du commerce de teinture de « Sanjiaoyong » à l'époque Qing jusqu'à la tragédie du démantèlement brutal de la chaussée en pierre en 2016, cette rue en briques rouges consigne la lutte acharnée de Taïwan entre conservation du patrimoine et développement touristique.",
-        "category": "history",
-        "href": "/fr/history/sanxia-old-street",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Transformation démocratique de Taïwan – La tombe que le régime autoritaire s'est creusée lui-même",
-        "desc": "Chaque répression engendre davantage de résistants. De 228 à la Sunflower, comment une île a permis à un régime dictatorial de cultiver la force qui l'enterra lui-même.",
-        "category": "history",
-        "href": "/fr/history/taiwan-democratization",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Élections et vie politique partisane à Taïwan",
-        "desc": "Des flammes de l'incident de Zhongli aux 8,17 millions de voix, comment Taïwan a transformé le vote en un demi-siècle, d'un outil de la loi martiale en une foi populaire",
-        "category": "history",
-        "href": "/fr/history/taiwan-elections-and-party-politics",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "L'histoire du commerce maritime de Taïwan",
-        "desc": "De carrefour du commerce international à royaume maritime : la grande épopée de Taïwan à l'ère des grandes découvertes",
-        "category": "history",
-        "href": "/fr/history/taiwan-maritime-trade-history",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": 9,
-        "image": ""
-      },
-      {
-        "title": "Taïwan et la Corée du Nord : De la quatrième puissance d'exportation au combat grisé de la flotte fantôme",
-        "desc": "La Taïwan était autrefois la quatrième puissance d'exportation de la Corée du Nord, les ordinateurs Acer et les sanitaires HCG étant visibles dans les bureaux de Pyongyang. Cette histoire, qui va d'un commerce florissant à un embargo total, entrelace l'aide agricole secrète, la contrebande maritime et les luttes profondes du renseignement de sécurité nationale.",
-        "category": "history",
-        "href": "/fr/history/taiwan-north-korea-relations",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "Histoire ferroviaire de Taïwan : le « chemin de fer tuberculeux », les heitou-á et une lignée qui a perdu ses noms étrangers",
-        "desc": "Comment une voie délabrée que les Japonais raillaient comme un « chemin de fer tuberculeux » est devenue, en un peu plus d'un siècle, une artère à grande vitesse transportant deux cent mille personnes par jour. Les ingénieurs allemand et britanniques recrutés par Liu Mingchuan furent ensuite écartés par les Japonais, qui reprirent tout à zéro ; la ligne longitudinale de Hasegawa Kinsuke fut à son tour rebaptisée et renumérotée par les chemins de fer taïwanais d'après-guerre. Chaque génération relégua les traces de la précédente en note de bas de page ; les noms étrangers s'effacèrent les uns après les autres, ne laissant que les mots taïwanais « heitou-á » et « hué-tshia-á », puis les slogans politiques Juguang, Ziqiang et Fuxing, jusqu'à ce que la génération Puyuma et Taroko réinscrive enfin des toponymes autochtones sur les rails.",
-        "category": "history",
-        "href": "/fr/history/taiwan-railway-history",
-        "date": "2026-07-27T19:02:16+08:00",
+        "href": "/es/history/taiwan-railway-history",
+        "date": "2026-07-30T23:35:43+08:00",
         "readingTime": 16,
         "image": "/article-images/history/tra-taitung-line-fireman-1970s.webp"
       },
       {
-        "title": "Crise du détroit de Taïwan et évolution des relations inter-détroit",
-        "desc": "Du souvenir des obus de la grand-mère de Kinmen au quotidien « bouddhiste » des jeunes de Taipei, comment soixante-dix ans de crise du détroit de Taïwan ont façonné la psychologie collective des Taïwanais",
-        "category": "history",
-        "href": "/fr/history/taiwan-strait-crises-and-cross-strait-relations",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": 15,
-        "image": ""
+        "title": "Shilin: tierra de los ketagalanes, templo de las luchas Zhangzhou-Quanzhou, y hoy cada noche el mercado nocturno más concurrido de Taipéi",
+        "desc": "A las siete y media de la noche, turistas coreanos en la entrada del mercado nocturno de Shilin se toman selfies sosteniendo enormes filetes de pollo frito, mientras al lado, en el número 84 de Danan Road, el templo Cixian, fundado en 1796, primer año de Jiaqing, cumple 230 años en 2026. En 1859, noveno año de Xianfeng, los zhangzhou fueron expulsados de esta calle por los quanzhou, que la incendiaron. En 1860, año gengshen, Pan Yongqing trazó en Xiashulin cuatro calles rectangulares, Dadong Road, Danan Road, Daxi Road y Dabei Road, y puso el templo en el centro exacto. En 1909 los japoneses construyeron un mercado frente al templo; en 1955 se inauguró el cine Yangming en Wenlin Road; en 1992 se inventó Hot-Star Large Fried Chicken en Taichung, y en 1999 llegó a Shilin. En 2002 se demolieron las cubiertas añadidas después de la guerra; en 2011 abrió el nuevo mercado, y el patio de comidas subterráneo empezó a funcionar con dos turnos de gente de la mañana a la noche. El templo sigue en su lugar original, pero a sus pies se alternan cada día dos ciudades.",
+        "category": "geography",
+        "href": "/es/geography/shilin",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 22,
+        "image": "/article-images/geography/shilin-cixian-temple-2010.webp"
       },
       {
-        "title": "La justice transitionnelle à Taïwan",
-        "desc": "Taïwan a annulé près de six mille condamnations prononcées sous le régime autoritaire, mais presque aucun bourreau n'a eu à rendre de comptes — cet écart est plus difficile à expliquer que la Terreur blanche elle-même.",
-        "category": "history",
-        "href": "/fr/history/taiwan-transitional-justice",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": 14,
-        "image": ""
-      },
-      {
-        "title": "La Terreur blanche à Taïwan",
-        "desc": "La loi martiale de 38 ans n'était pas maintenue par quelques milliers d'espions, mais par le système de « garantie solidaire » (lianzuo baozheng) obligeant les deux millions de familles taïwanaises à se garantir mutuellement pour travailler, entrer à l'école ou se marier. Chen Zhi-xiong, Shi Shui-huan, Gao Yi-sheng, Bo Yang : quatre noms, quatre motifs d'arrestation, une machine commune.",
-        "category": "history",
-        "href": "/fr/history/taiwan-white-terror",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": 11,
-        "image": ""
-      },
-      {
-        "title": "Les Dix Grands Projets : un pari de deux cents milliards de dollars taïwanais sur dix milliards de dollars de réserves de change",
-        "desc": "En 1973, les réserves de change de Taïwan ne s’élevaient qu’à 1 milliard de dollars américains, pourtant Chiang Ching-kuo annonça l’investissement d’environ 300 milliards de dollars taïwanais pour promouvoir les Dix Grands Projets. Il ne s’agissait pas seulement d’un tournant économique pour faire face à la crise pétrolière et à l’isolement diplomatique, mais aussi d’un récit politique qui a reconditionné les plans hérités de la période coloniale japonaise pour les transformer en identité nationale.",
-        "category": "history",
-        "href": "/fr/history/ten-major-construction-projects",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Trois étrangers face à l'Yiwei : l'album du photographe, les notes du journaliste, le journal du pasteur",
-        "desc": "Lors de la guerre de Yiwei en 1895, trois étrangers ont produit les documents oculaires en langue étrangère les plus importants de ce conflit : l'album de la victoire du photographe militaire japonais Endō Makoto, les notes de campagne du journaliste américain James W. Davidson, et le journal de traversée du pasteur japonais Hosokawa Ryū. La question n'est pas ce qu'ils ont vu, mais pour qui ils regardaient.",
-        "category": "history",
-        "href": "/fr/history/three-foreigners-witness-1895-taiwan",
-        "date": "2026-07-27T19:02:16+08:00",
+        "title": "Shopping Design: la revista que enseña a comprar diseño y que al final te pide distinguirla a ella misma",
+        "desc": "Fundada en 2006 y con el blanco como tema de su primer número, «Shopping Design» ha convertido en veinte años el diseño de un sustantivo de sala de exposiciones en un verbo cotidiano: recorrer tiendas y elegir objetos. Lo que de verdad le ha enseñado a Taiwán es que «distinguir» puede entrenarse como una capacidad; y ha extendido esa capacidad hasta una lista anual de los cien mejores, una revista trimestral y un festival, y también hasta la misma licencia de su empresa matriz, que dice a la vez «edición de revistas» y «servicios de publicidad». Así, la revista que enseña a distinguir acaba pidiéndote que la distingas a ella.",
+        "category": "culture",
+        "href": "/es/culture/shopping-design",
+        "date": "2026-07-30T23:35:43+08:00",
         "readingTime": null,
-        "image": ""
+        "image": "/article-images/culture/shopping-design-designbiz-2022-banner.jpg"
       },
       {
-        "title": "Si Si Nan Cun : le village militaire de l’arsenal devenu parc culturel et créatif près de Taipei 101",
-        "desc": "À la fin de novembre 1948, les machines du 44e arsenal du Commandement interarmées de Qingdao furent chargées en six lots sur le Taikang et transportées à Keelung. En décembre, les ouvriers de l’usine et leurs familles qui arrivèrent ensuite furent logés dans les entrepôts militaires japonais de Xingya, à Sanzhangli, à l’est de Taipei ; le dialecte du Shandong résonnait dans ces entrepôts sans murs. L’année suivante, ils construisirent eux-mêmes des logements familiaux au sud du site industriel : ce fut le premier village militaire établi à Taiwan par le gouvernement de la République de Chine. Les officiers supérieurs vivaient dans le village ouest, les officiers subalternes dans le village est, et les techniciens du Shandong sans statut militaire dans le village sud. En 1980, l’arsenal fut déplacé à Sanxia et rebaptisé usine 206 ; le village ouest fut démoli pour devenir les logements publics Zhongtuo, et le village est fut relogé dans les logements publics Zhongzhen, près du Youth Park. Il ne resta que le village sud, car ses habitants étaient des techniciens et ne relevaient pas du règlement du ministère de la Défense nationale sur la rénovation des villages militaires. En 1998, tous les habitants furent relogés à World Trade New Village ; en 1999, un incendie détruisit une partie des maisons ; en 2001, un arbitrage patrimonial décida de conserver 4 bâtiments ; le 25 octobre 2003, le « Xinyi Public Assembly Hall and Military Dependents’ Village Cultural Park » ouvrit ses portes, face à Taipei 101 alors en construction.",
-        "category": "geography",
-        "href": "/fr/geography/44-south-village",
-        "date": "2026-07-27T19:02:16+08:00",
-        "readingTime": 22,
-        "image": "/article-images/geography/sisi-south-village-overview-2013.webp"
+        "title": "Artesanía tradicional y patrimonio cultural inmaterial de Taiwán: llegó el reconocimiento institucional, pero ya no quedaban aprendices",
+        "desc": "En diciembre de 2022, el Ministerio de Cultura declaró “Tesoro Nacional Viviente” a Su Qingliang, maestro albañil de Kaohsiung de 87 años; murió medio año después. Taiwán recién incorporó en 2005 a los “conservadores de técnicas tradicionales importantes” en la Ley de Preservación del Patrimonio Cultural: 50 años después que Japón y 43 años después que Corea del Sur. Cuando por fin el sistema quedó establecido, el aprendizaje maestro-aprendiz ya se había derrumbado durante la industrialización de las décadas de 1970 y 1980: entre más de 600 maestros artesanos tradicionales, los menores de 50 años “son apenas una minoría”. Cuanto más larga es la lista, menos gente queda para enseñar.",
+        "category": "culture",
+        "href": "/es/culture/traditional-crafts-intangible-cultural-heritage",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 14,
+        "image": "/article-images/culture/meinong-paper-umbrella-2013.webp"
       },
       {
-        "title": "Bangka : le lieu le plus animé du Taipei sous les Qing est aujourd'hui le district dont l'âge moyen est le plus élevé à Taipei",
-        "desc": "Le temple Longshan de Bangka, construit en 1738 grâce au financement collectif de migrants des trois districts de Quanzhou, aura 288 ans en 2026, soit 137 ans de plus que la préfecture de Taipei établie par les Qing. En 1853, l'affrontement armé du Dingxiajiaopin repoussa les gens de Tong'an vers Dadaocheng et planta les germes de deux siècles de bifurcation dans le nord de Taïwan. Rebaptisé Wanhua sous la domination japonaise, constitué en district en 1990, porté au cinéma par Doze Niu en 2010 avec Monga, il affiche aujourd'hui un indice de vieillissement de 320,78 %, le plus élevé de toute la ville. Dans cette plus ancienne rue de Taipei, le premier bâton d'encens brûle encore à six heures du matin sur le parvis du temple.",
-        "category": "geography",
-        "href": "/fr/geography/bangka",
-        "date": "2026-07-27T19:02:16+08:00",
+        "title": "Taiwan Travelogue: un libro 'traducido por la hermana menor', de Spring Hill al podio de premiación en Londres",
+        "desc": "El día de junio de 2015 en que murió su hermana menor Yang Ruo-hui, Yang Ruo-ci abrió los cuadernos de cuentas que ella había dejado y comenzó a registrar gastos; tardó tres días en descifrar el código de marcas y círculos. Cinco años después, Spring Hill publicó Taiwan Travelogue bajo la firma 'escrito por Aoyama Chizuko, traducido por Yang Shuang-zi': en la línea de la traductora figuraba la hermana menor fallecida. En los National Book Awards de Nueva York de 2024 y en el Booker Prize de Londres de 2026, tradujo con el nombre de su hermana menor un libro que no existe.",
+        "category": "art",
+        "href": "/es/art/taiwan-travelogue",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": null,
+        "image": "/article-images/art/taiwan-travelogue-yang-shuang-zi-nba-2024.webp"
+      },
+      {
+        "title": "'Espada Yitian del río Da'an: el árbol más alto de Asia Oriental, oculto durante setecientos años en un lugar al que no podemos llegar'",
+        "desc": "Durante el Año Nuevo Lunar de 2023, el equipo de Buscadores de Árboles remontó el río durante siete días y, en una quebrada profunda en la cabecera del río Da'an, casi inaccesible para los seres humanos, dejó caer una cinta métrica desde la copa de un taiwania: 84,1 metros, el árbol más alto de Asia Oriental. Era 4,6 metros más alto que la predicción del LiDAR láser. Una isla golpeada cada año por tifones, con derrumbes e inundaciones, en teoría no debería conservar una forma de vida de tal altura; pero precisamente porque creció en un valle fluvial al que los humanos no podían llegar, evitó la gran tala y resistió setecientos años. Esa misma condición de «inaccesible» le permitió sobrevivir y también nos obligó a escanear toda la isla con láser para verlo por primera vez ese año.",
+        "category": "nature",
+        "href": "/es/nature/daan-river-yitian-sword",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 15,
+        "image": "/article-images/nature/taiwania-nantou-shihchuan.webp"
+      },
+      {
+        "title": "Búho pescador leonado: una pareja por cada seis kilómetros de arroyo, rapaz nocturna sobre un árbol de Michelia de 1.800 metros",
+        "desc": "En abril de 2026, el profesor asistente Hong Hsiao-yu, de la Universidad Nacional de Ciencia y Tecnología de Pingtung, localizó en una cavidad de un viejo árbol de Michelia, con un diámetro a la altura del pecho de unos 1,5 metros, junto al arroyo Qijiawan, el nido de búho pescador leonado más alto conocido en Taiwán: alrededor de 1.800 metros sobre el nivel del mar. Esta especie, el búho más grande de Taiwán, fue registrada por primera vez recién en 1916 por el académico japonés Nagamichi Kuroda. El laboratorio de Sun Yuan-hsun, de la Universidad Nacional de Ciencia y Tecnología de Pingtung, la ha seguido durante treinta años: en 91 territorios, cada pareja requiere en promedio 6,2 kilómetros de arroyo. Un tramo de arroyo sin cemento, un árbol gigante que aún no ha caído: el búho pescador leonado vive en la grieta donde dos cosas de los bosques montañosos de Taiwán todavía no han desaparecido.",
+        "category": "nature",
+        "href": "/es/nature/tawny-fish-owl",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 12,
+        "image": "/article-images/nature/tawny-fish-owl-gailhampshire-2009.webp"
+      },
+      {
+        "title": "Nieh Yung-jen: el primer miembro taiwanés de AGI, veinte años de las portadas de los Golden Melody al sistema de identidad nacional",
+        "desc": "Nieh Yung-jen (n. 1977) es el primer diseñador de Taiwán en incorporarse a Alliance Graphique Internationale (AGI), con sede en Suiza, y ha ganado tres veces el premio Golden Melody al mejor diseño de empaque de álbum. Sus proyectos abarcan portadas de música popular (Jonathan Lee, Yoga Lin, Lu Wei), edición de libros, movimientos ciudadanos (el anuncio del Movimiento Girasol en The New York Times a las cuatro de la madrugada de 2014; la campaña contra Tedros Adhanom de 2020, “Taiwan Can Help”, que recaudó diez millones en ocho horas), campañas políticas (la campaña “Light Up Taiwan” de Tsai Ing-wen en 2016 y la identidad visual principal de dos ceremonias de investidura presidencial), sistemas de identidad para empresas estatales (Ministerio de Asuntos Económicos, Administración de Turismo, CPC Taiwan, Taipower) y espacios artísticos (Taichung Green Museumbrary, Pabellón de Taiwán en la Bienal de Venecia). Su estudio, Aaron Nieh Workshop, tiene sedes en Taipéi y en los almacenes Pier-2 de Kaohsiung; cursó estudios de posgrado en Bélgica y Londres, pero no se graduó en ninguno de los tres programas; él mismo ha dicho que “antes de ser el diseñador Nieh Yung-jen, fue el ciudadano Nieh Yung-jen”. Desde 2024 ganó consecutivamente cuatro contratos de identidad para empresas estatales; en 2026, el día en que se lanzó el LOGO de Taipower, estalló una controversia por “recompensa política”.",
+        "category": "people",
+        "href": "/es/people/nieh-yung-jen",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 18,
+        "image": "/article-images/people/aaron-nieh-portrait-2018.webp"
+      },
+      {
+        "title": "Shi Zhen-rong: Del puesto de huevos de Lukang a una marca llamada Taiwán",
+        "desc": "En una feria electrónica en San Francisco en 1981, una pequeña computadora con carcasa de plástico que al cerrarse parecía un libro hizo que 20 distribuidores estadounidenses rodearan el producto para preguntar por los derechos de distribución: fue la primera vez que muchos taiwaneses tocaron una \"computadora fabricada por Taiwán\". El hombre detrás de esta máquina, cuyo padre falleció por agotamiento cuando él tenía tres años y cuya madre lo crió vendiendo huevos de pato y boletos de lotería patrióticos, llevó a Acer a convertirse en una de las cinco principales marcas de PC en el mundo. Él trazó la \"curva de sonrisa\" que hoy se enseña en los libros de texto y es uno de los pocos \"padres tecnológicos\" de Taiwán dispuestos a pararse ante la cámara para hablar de sus fracasos.",
+        "category": "people",
+        "href": "/es/people/stan-shih",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": null,
+        "image": "/article-images/people/stanshih-taipei-2014.webp"
+      },
+      {
+        "title": "Ya Hsien: escribió 《El abismo》 y dejó la pluma; su segunda mitad de vida en el suplemento literario de United Daily News se volvió una página de la historia poética",
+        "desc": "En 1968, a los 36 años, Ya Hsien reunió noventa poemas en 《El abismo》 y luego dejó de escribir. De 1977 a 1998 dirigió durante 21 años el suplemento literario de United Daily News, transformando la mesa editorial en el espacio público literario más importante del Taiwán de posguerra. El 11 de octubre de 2024 murió en Vancouver, Canadá, a los 92 años: su silencio de 56 años tras dejar la pluma fue más largo que mil poemarios, y el estribillo «Aleluya, sigo vivo» se convirtió en una marca de la historia poética de la era de la ley marcial, cuya oscuridad logró eludir la censura del Comando General de Guarnición.",
+        "category": "people",
+        "href": "/es/people/ya-hsien-poet",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": null,
+        "image": "/article-images/people/yaxian-portrait-2012.webp"
+      },
+      {
+        "title": "Vivienda pública nacional y justicia habitacional: las viviendas baratas construidas por el gobierno, y la escalera de activos que terminaron creando",
+        "desc": "En 1985, las viviendas públicas nacionales Chenggong costaban 67.000 dólares taiwaneses por ping y aun así nadie las quería; un antiguo jefe de barrio reunió 400.000 dólares taiwaneses para el pago inicial y compró una unidad. Cuarenta años después, la misma dirección se acerca al millón por ping. La vivienda pública nacional debía ser una herramienta para «ayudar a la gente a comprar una casa», pero nunca incorporó una compuerta para recuperar la plusvalía: el subsidio público terminó convertido en patrimonio privado de quienes compraron primero. En 2026, Taoyuan volvió a instalar esa compuerta, lo que equivale a admitir el error de la política de vivienda pública nacional.",
+        "category": "society",
+        "href": "/es/society/public-housing-justice",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 16,
+        "image": "/article-images/society/taipei-skyline-housing-2026.webp"
+      },
+      {
+        "title": "Desarrollo del deporte en Taiwán y los Juegos Olímpicos: un equipo llamado «Taipéi Chino»",
+        "desc": "En Montreal 1976, Canadá exigió cambiar el nombre a «Taiwan», y Chiang Ching-kuo lo consideró una humillación nacional y retiró al equipo. En París 2024, la noche en que la dupla Lee Yang-Wang Chi-lin revalidó el título masculino de dobles, todo el estadio cantó la letra de la Canción de la Bandera Nacional al ritmo de la bandera olímpica de la flor de ciruelo: desde un «Taiwán» que no podía entrar hasta un mundo que empezó a llamar Taiwan al equipo, esa gorra llamada «Taipéi Chino» lleva el peso de cada generación de medallas de oro.",
+        "category": "society",
+        "href": "/es/society/taiwan-sports-olympics",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 18,
+        "image": "/article-images/society/yang-chuan-kwang-1960.webp"
+      },
+      {
+        "title": "The Reporter: diez años rescatando el periodismo de investigación de una línea de negocio para convertirlo en bien público",
+        "desc": "De 4 donantes periódicos a 8.000 al mes; de la trilogía Campos pesqueros de sangre y lágrimas al especial de 2026 sobre el frente unido: los costos que The Reporter quemó en diez años —ocho meses de infiltración, entrevistas en tres países, comparación de años de registros de infracciones— son precisamente aquello que menos gente quiere pagar por leer en la era del algoritmo. La sociedad civil de esta isla, mediante cargos mensuales a desconocidos, rescató el periodismo de investigación de una línea de negocio de los medios comerciales y lo convirtió en un bien público que se sigue sosteniendo, aunque arde cada vez más rápido.",
+        "category": "society",
+        "href": "/es/society/the-reporter-investigative-journalism",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": null,
+        "image": "/article-images/society/the-reporter-brand-logo.webp"
+      },
+      {
+        "title": "Las 50 mayores empresas de Taiwán: la montaña sagrada que protege la nación sostiene una tabla, y también un país con un único punto de falla",
+        "desc": "El 19 de mayo de 2026, la capitalización bursátil de una sola empresa, TSMC, representaba el 31,51% de todo el índice ponderado de Taiwán y cerca del 40% del valor total del mercado accionario taiwanés; las 50 mayores compañías, sumadas, sostienen un PIB, pero una de ellas ha secuestrado el destino de ese PIB. Electrónica 36%, finanzas 25%, industrias tradicionales 10%: el supuesto trípode de «electrónica, finanzas e industrias tradicionales» en realidad sostiene medio cuerpo con una sola pierna, la electrónica. Desde aquella noche en el mercado nocturno de Ningxia en que Jensen Huang se fotografió con Morris Chang, hasta las 32 vidas perdidas de madrugada en Kaixuan 3rd Road, esta clasificación es a la vez la columna vertebral irremplazable de Taiwán y su punto único de falla más frágil.",
+        "category": "economy",
+        "href": "/es/economy/top-50-companies-taiwan",
+        "date": "2026-07-30T23:35:43+08:00",
+        "readingTime": 18,
+        "image": "/article-images/economy/tsmc-factory-hsinchu-2009.webp"
+      },
+      {
+        "title": "Sistema de salud y Seguro Nacional de Salud de Taiwán: el número uno del mundo con un 99.6% sostenido sobre un 12.61%",
+        "desc": "La tarjeta del Seguro Nacional de Salud del 1 de marzo de 1995 se sacó adelante con el agua al cuello: seis días antes ni siquiera estaba impresa. Treinta años después, el derecho a la atención médica de 23 millones de personas se sostiene sobre una tasa de prima de 5.17%, una tasa de rotación de enfermería de 12.61%, la más alta en 10 años, y un tabú político que nadie se ha atrevido a tocar en 30 años.",
+        "category": "lifestyle",
+        "href": "/es/lifestyle/taiwan-healthcare-and-national-health-insurance",
+        "date": "2026-07-30T09:46:44+09:00",
         "readingTime": 22,
-        "image": "/article-images/geography/wanhua-longshan-temple-2016.webp"
-      }
-    ],
-    "es": [
+        "image": "/article-images/lifestyle/nhi-taipei-building-2018.webp"
+      },
       {
         "title": "Condado de Miaoli: el condado hakka de cuello duro que eligió en ocho años a un magistrado que duplicó con creces la deuda del erario",
         "desc": "Durante el dominio japonés, el alcanfor de Miaoli representaba el 95% del total de Taiwán; Sanyi inició su talla en madera con los tocones sobrantes de destilar alcanforeros. En 2002, la aldea Beihe de Gongguan organizó el primer Festival de la Flor de Tung. En 2008, Liu Cheng-hung recibió un condado con 20.200 millones de deuda; al dejar el cargo en 2014, la deuda contable era de 67.600 millones. Entre medio ocurrieron el suicidio con pesticida de Zhu Feng-min, la demolición forzosa de la Farmacia Zhang y el Hakka Round House, construido por 120 millones y convertido en un edificio mosquito. Hoy, 530.000 personas viven en este condado, el segundo de Taiwán con mayor proporción hakka: 62,5%.",
@@ -1452,186 +1632,6 @@
         "date": "2026-07-27T19:09:22+08:00",
         "readingTime": 12,
         "image": ""
-      },
-      {
-        "title": "Stanley Yen: de cartero en la sala de correos al padrino del turismo, y luego lo dejó todo",
-        "desc": "Solo bachillerato. A los 23 años repartía correo en American Express. Cinco años después era gerente general. Cinco años más tarde se convirtió en presidente de uno de los mejores hoteles de Asia, donde inventó un sistema de servicio que lograba llamar a los huéspedes por su nombre antes de que bajaran del coche. Un libro superventas con 600.000 ejemplares vendidos. A los 62 años renunció para fundar una escuela rural en Taitung; al año siguiente le extirparon un riñón. A los 78 años construyó un complejo artístico junto al Pacífico.",
-        "category": "people",
-        "href": "/es/people/stanley-yen",
-        "date": "2026-07-27T19:09:22+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "La Guerra de Yiwei: los 148 días de la República Democrática de Taiwán",
-        "desc": "En 1895, la corte Qing cedió Taiwán a Japón. Los funcionarios de la isla proclamaron la primera república de Asia, pero el presidente huyó en diez días y el poeta se marchó en cuatro. Quienes realmente se quedaron para luchar fueron un muchacho hakka de diecinueve años y las milicias que reclutó gastando toda su fortuna. Tras 148 días, la república desapareció y comenzó el dominio japonés.",
-        "category": "history",
-        "href": "/es/history/1895-taiwan-resistance-war",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Las guerras del alcanfor en el siglo XIX: el aroma que el mundo quería, escondido en las montañas de los pueblos indígenas",
-        "desc": "En 1864, Robert Swinhoe escribió tres números en Tamsui: 6, 16, 28. Una carga de alcanfor multiplicaba casi por cinco su precio desde el lugar de origen hasta Hong Kong. La diferencia iba al bolsillo del intendente —y a las montañas de los pueblos indígenas.",
-        "category": "history",
-        "href": "/es/history/19th-century-camphor-wars",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Alishan: el bosque del imperio y la montaña de Uongʉ Yatauyungana",
-        "desc": "El 17 de abril de 1954, la élite tsou Uongʉ Yatauyungana (Kao Yi-sheng) fue fusilada en el campo de ejecución de Ankang. La cordillera de Alishan, conocida como destino turístico, es en realidad una montaña de memoria reescrita sucesivamente por dos imperios.",
-        "category": "history",
-        "href": "/es/history/alishan-empire-forest-and-uongu-yatauyungana",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Las cuatro medidas más allá del azul y el verde: de una parcela a una tarjeta del seguro de salud, las políticas de Taiwán que sobrevivieron a su propia política",
-        "desc": "Un lector, cansado de los insultos entre azules y verdes en la mesa familiar, quería recordar las cosas que de verdad fueron buenas para Taiwán. Así que buscamos once políticas de los últimos setenta años: desde la reforma agraria que expropió tierras bajo el autoritarismo, el levantamiento de la ley marcial y el Seguro Nacional de Salud, hasta el matrimonio igualitario y el plan de infraestructura prospectiva, que todavía generan disputa. Deliberadamente no usamos la vara azul-verde, sino cuatro medidas: medios de vida, democracia, derechos civiles y soberanía. La conclusión es algo contraintuitiva: las políticas que sobreviven a su propio origen partidario suelen haber nacido el día en que más se discutía por ellas.",
-        "category": "history",
-        "href": "/es/history/bipartisan-good-policy",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": null,
-        "image": "/article-images/history/cross-party-freeway-no1-2015.webp"
-      },
-      {
-        "title": "Formosa: cómo los occidentales «descubrieron» una isla que ya estaba habitada",
-        "desc": "En 1704, un francés que nunca había estado en Asia se presentó ante la Royal Society de Londres y, con un sistema de escritura y una religión inventados por él mismo, convenció a los eruditos presentes de que era «formosano». El engaño duró diez años. Pero la pregunta mayor es esta: cuando los europeos decían que habían «descubierto Formosa», los pueblos austronesios de la isla ya llevaban seis mil años viviendo allí. ¿De quién es la narrativa del «descubrimiento»?",
-        "category": "history",
-        "href": "/es/history/formosa-historical-name",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Prisión de Isla Verde: De los calabozos políticos a las capas de memoria del hogar de los capos",
-        "desc": "Isla Verde, esta isla solitaria en el Pacífico, fue un infierno para los presos políticos durante el Terror Blanco y también el destino final de los capos del hampa. Desde el Centro de Reeducación de Xinsheng hasta la Aldea Chongde, ¿cómo la historia de la prisión de Isla Verde refleja las contradicciones y la memoria de la sociedad taiwanesa?",
-        "category": "history",
-        "href": "/es/history/green-island-prison",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": 20,
-        "image": "/article-images/history/green-island-memorial-park-2016.webp"
-      },
-      {
-        "title": "El Incidente de Mudan: Choque de civilizaciones y despertar soberano en el desfiladero de Shi-men",
-        "desc": "En 1874, una acción militar desencadenada por un naufragio convirtió al desfiladero de Shi-men, en el sur de Taiwán, en el epicentro del panorama de Asia Oriental moderna. Esto no solo fue una prueba para la expansión del Imperio japonés, sino también un punto de inflexión crucial para la transición de la corte Qing desde la defensa fronteriza hacia una gobernanza activa.",
-        "category": "history",
-        "href": "/es/history/mudan-incident",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "Museo Nacional de Derechos Humanos: los nombres que no figuran en el Monumento de las Lágrimas",
-        "desc": "El Día Internacional de los Derechos Humanos de 1999, Lee Teng-hui inauguró personalmente en la Isla Verde el Monumento de las Lágrimas. Bo Yang escribió 28 caracteres que condensaban el largo llanto nocturno de todas las madres, pero no escribió el nombre de ningún perpetrador. Seis años de preparación, inauguración oficial en 2018, presupuesto congelado en 2025. Un museo construido por el propio Estado para conmemorar lo que el propio Estado hizo: en los 39 años transcurridos desde el levantamiento de la ley marcial, ningún perpetrador ha sido sometido a juicio.",
-        "category": "history",
-        "href": "/es/history/national-human-rights-museum",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": 16,
-        "image": "/article-images/history/nhrm-tsai-unveil-2018.webp"
-      },
-      {
-        "title": "Sanxia: La tensión de poder bajo los pórticos de ladrillo rojo y un experimento de patrimonio cultural inacabado",
-        "desc": "Reconocida en 2007 con el Premio de Excelencia Global de Construcción de FIABCI, la calle antigua de Sanxia es el primer modelo de una «obra de restauración a gran escala» en Taiwán. Desde el comercio de telas teñidas de la época Qing «Sanjiao Yong» hasta la trágica demolición a la fuerza de los adoquines en 2016, esta calle de ladrillo rojo registra la violenta lucha de Taiwán entre la conservación de monumentos y el desarrollo turístico.",
-        "category": "history",
-        "href": "/es/history/sanxia-old-street",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "La guerra sino-francesa: ocho meses en Keelung y Tamsui",
-        "desc": "En el otoño de 1884, la flota francesa bombardeó el puerto de Keelung. Dos mil infantes de marina desembarcaron y tomaron la bahía. Pero les tomó siete meses y nunca lograron salir de las montañas de Keelung. La misma semana, 600 marinos franceses desembarcaron en Tamsui y en dos horas fueron rechazados de vuelta al mar. Al terminar la guerra, Francia obtuvo Vietnam y renunció a Taiwán. La corte Qing casi lo pierde todo, pero convirtió a Taiwán de territorio dependiente en provincia independiente.",
-        "category": "history",
-        "href": "/es/history/sino-french-war-in-taiwan",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Transformación democrática de Taiwán — La tumba que la autoridad excavó para sí misma",
-        "desc": "Cada represión genera más opositores. Desde el 28‑2 hasta el movimiento Sunflower, ¿cómo una isla hizo que el régimen dictatorial cultivara la fuerza que enterraría a sí mismo?",
-        "category": "history",
-        "href": "/es/history/taiwan-democratization",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Elecciones y política partidista en Taiwán",
-        "desc": "Desde las llamas del Incidente de Zhongli hasta los 8.17 millones de votos, cómo Taiwán transformó el voto en medio siglo de herramienta de la ley marcial a fe cívica",
-        "category": "history",
-        "href": "/es/history/taiwan-elections-and-party-politics",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": 18,
-        "image": ""
-      },
-      {
-        "title": "Taiwán y Corea del Norte: De la cuarta nación exportadora al enfrentamiento en la zona gris de la flota fantasma",
-        "desc": "Taiwán fue en el pasado la cuarta nación de destino de exportaciones de Corea del Norte, con computadoras Acer y sanitarios HCG visibles en las oficinas de Pyongyang. Esta historia, que va desde el comercio intenso hasta el embargo total, entrelaza la asistencia agrícola secreta, el contrabando marítimo y la lucha profunda de la inteligencia de seguridad nacional.",
-        "category": "history",
-        "href": "/es/history/taiwan-north-korea-relations",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "Historia ferroviaria de Taiwán: el ferrocarril tuberculoso, los cabezas negras y una genealogía que perdió sus nombres extranjeros",
-        "desc": "Cómo una vía ruinosa que los japoneses llamaron «ferrocarril tuberculoso» se convirtió, en poco más de un siglo, en una arteria de alta velocidad que transporta a 200.000 personas por día. Los ingenieros alemanes y británicos contratados por Liu Ming-chuan fueron luego descartados por los japoneses, que rehiceron la obra desde cero; la línea longitudinal de Hasegawa Kinsuke fue rebautizada y renumerada por la Administración de Ferrocarriles de Taiwán después de la guerra; cada generación empujó los registros de la anterior hacia las notas al pie. Los nombres extranjeros fueron perdiendo brillo, hasta quedar solo los nombres en taiwanés «o͘-thâu-á» y «hué-chhia-á», los lemas políticos Juguang, Ziqiang y Fuxing, y recién en la generación de Puyuma y Taroko los topónimos indígenas volvieron a tenderse sobre los rieles.",
-        "category": "history",
-        "href": "/es/history/taiwan-railway-history",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": 16,
-        "image": "/article-images/history/tra-taitung-line-fireman-1970s.webp"
-      },
-      {
-        "title": "Las crisis del Estrecho de Taiwán y el desarrollo de las relaciones entre ambas orillas",
-        "desc": "Desde los recuerdos de las abuelas de Kinmen bajo el bombardeo hasta la vida cotidiana y desapegada de los jóvenes de Taipéi, cómo setenta años de crisis en el Estrecho de Taiwán han moldeado la psicología colectiva del pueblo taiwanés",
-        "category": "history",
-        "href": "/es/history/taiwan-strait-crises-and-cross-strait-relations",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": 15,
-        "image": ""
-      },
-      {
-        "title": "Justicia transicional en Taiwán",
-        "desc": "Taiwán ha revocado casi seis mil sentencias condenatorias de la era autoritaria, pero casi ningún responsable ha sido llevado a juicio; esta brecha es más difícil de explicar que el propio Terror Blanco.",
-        "category": "history",
-        "href": "/es/history/taiwan-transitional-justice",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "El Terror Blanco en Taiwán",
-        "desc": "Los 38 años de ley marcial no se mantuvieron con miles de agentes secretos, sino con el sistema de «responsabilidad solidaria» que obligaba a las dos millones de familias de Taiwán a garantizarse mutuamente para trabajar, estudiar o casarse. Chen Chi-hsiung, Shi Shui-huan, Kao I-hsien y Bo Yang: cuatro nombres, cuatro motivos de detención, una misma máquina.",
-        "category": "history",
-        "href": "/es/history/taiwan-white-terror",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": 11,
-        "image": ""
-      },
-      {
-        "title": "Tres extranjeros miran el Yiwei: el álbum del fotógrafo, las notas del periodista, el diario del pastor",
-        "desc": "En 1895, durante la [[乙未之役]], tres extranjeros dejaron los documentos testimoniales en lenguas extranjeras más importantes de esta guerra: el álbum de la victoria del fotógrafo japonés Endō Makoto, las notas de campaña del periodista estadounidense James W. Davidson y el diario de travesía del sacerdote japonés Hosokawa Ryū. La cuestión no es qué vieron, sino para quién miraron.",
-        "category": "history",
-        "href": "/es/history/three-foreigners-witness-1895-taiwan",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": null,
-        "image": ""
-      },
-      {
-        "title": "Sisi Nan Cun: la aldea de dependientes del arsenal que hoy es un parque cultural junto al Taipei 101",
-        "desc": "A fines de noviembre de 1948, la maquinaria del 44.º Arsenal del Cuartel General de Servicios Conjuntos en Qingdao fue cargada en seis tandas en el “Taikang” y transportada a Keelung. En diciembre, los obreros de la fábrica y sus familias que llegaron después se instalaron en los depósitos Xingya del ejército japonés, en Sanzhangli, al este de Taipéi; el dialecto de Shandong resonaba dentro de almacenes sin muros. Al año siguiente, ellos mismos levantaron viviendas familiares al sur del complejo fabril: fue la primera aldea de dependientes militares establecida en Taiwán por el gobierno de la República de China. Los oficiales superiores vivían en la aldea oeste, los oficiales subalternos en la aldea este, y los técnicos de Shandong sin rango militar en la aldea sur. En 1980, el arsenal se trasladó a Sanxia y pasó a llamarse Fábrica 206; la aldea oeste fue demolida y reemplazada por el conjunto residencial Zhongtuo, y la aldea este fue reubicada en el conjunto Zhongzhen, junto al Parque Juvenil. Solo quedó la aldea sur, porque sus residentes eran técnicos y no estaban cubiertos por la normativa de renovación de aldeas de dependientes del Ministerio de Defensa. En 1998, todos los residentes se mudaron a World Trade New Village; en 1999, un incendio destruyó parte de las viviendas; en 2001, la controversia patrimonial se resolvió con la conservación de 4 edificios; y el 25 de octubre de 2003 se inauguró el “Salón Cívico de Xinyi y Parque Cultural de Aldeas de Dependientes”, frente al Taipei 101 que entonces estaba en construcción.",
-        "category": "geography",
-        "href": "/es/geography/44-south-village",
-        "date": "2026-07-27T19:00:44+08:00",
-        "readingTime": 22,
-        "image": "/article-images/geography/sisi-south-village-overview-2013.webp"
       }
     ]
   }

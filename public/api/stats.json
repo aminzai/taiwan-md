@@ -1,8 +1,8 @@
 {
-  "totalArticles": 8505,
+  "totalArticles": 8590,
   "totalCategories": 26,
-  "estimatedContributors": 67,
-  "totalTags": 5849,
+  "estimatedContributors": 68,
+  "totalTags": 5869,
   "categories": [
     {
       "name": "es",
@@ -26,15 +26,15 @@
     },
     {
       "name": "vi",
-      "count": 348
+      "count": 349
     },
     {
       "name": "hi",
-      "count": 542
+      "count": 552
     },
     {
       "name": "ru",
-      "count": 630
+      "count": 650
     },
     {
       "name": "History",
@@ -42,11 +42,11 @@
     },
     {
       "name": "id",
-      "count": 448
+      "count": 454
     },
     {
       "name": "ar",
-      "count": 600
+      "count": 623
     },
     {
       "name": "Politics",
@@ -58,11 +58,11 @@
     },
     {
       "name": "pt",
-      "count": 743
+      "count": 764
     },
     {
       "name": "Food",
-      "count": 62
+      "count": 66
     },
     {
       "name": "About",
@@ -124,7 +124,7 @@
     },
     {
       "name": "科技與企業",
-      "count": 39
+      "count": 38
     },
     {
       "name": "文學",
@@ -192,13 +192,13 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 8505,
+    "zh-TW": 8590,
     "en": 0
   },
-  "lastUpdated": "2026-07-29T22:13:18.029Z",
+  "lastUpdated": "2026-07-30T22:13:53.402Z",
   "stars": 1120,
-  "forks": 167,
-  "zhPages": 869,
+  "forks": 169,
+  "zhPages": 873,
   "enPages": 858,
-  "totalPages": 869
+  "totalPages": 873
 }
