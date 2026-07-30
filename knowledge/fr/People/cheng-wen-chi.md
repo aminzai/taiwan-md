@@ -2,6 +2,7 @@
 title: "Cheng Wen-chi : 12 ans pour pousser le milieu artistique taïwanais vers l'archipel malais"
 description: "En mai 2017, l'artiste malaisienne Okui Lala (Chou Ying-chen) est arrivée à Taipei, devenant la première artiste en résidence de « No Man's Land » (Désert numérique). Lors de sa présentation, elle a diffusé une vidéo où elle récitait des prières en teochew avec sa belle-mère. Cette scène résume le projet que Cheng Wen-chi a lancé en 2011 avec « No Man's Land » — 12 ans plus tard, 56 numéros, 384 articles et 10 volumes de l'« Archive de l'archipel » (Nusantara Archive), il a remplacé le terme « Asie du Sud-Est » par « archipel », orientant le milieu artistique taïwanais vers le monde malais, mais se heurtant aussi au plafond de la vision périphérique."
 date: 2026-05-04
+category: 'People'
 tags:
   [
     'Cheng Wen-chi',
@@ -14,17 +15,17 @@ tags:
     'perspective méridionale',
     'périphérie',
   ]
-category: People
 subcategory: '策展與藝術評論'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-05-04
 lastHumanReview: false
-translatedFrom: People/鄭文琦.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:0e9e8f5ed7e1d87b'
-sourceBodyHash: 'sha256:7cc12241a8e54299'
-translatedAt: 2026-05-05T00:33:23+08:00
+researchReport: 'reports/research/2026-05/鄭文琦.md'
+translatedFrom: 'People/鄭文琦.md'
+sourceCommitSha: '64d9ae569'
+sourceContentHash: 'sha256:c3100aba8df85cb7'
+sourceBodyHash: 'sha256:fa74581434f67fac'
+translatedAt: '2026-07-30T20:40:42.968490+00:00'
 ---
 
 # Cheng Wen-chi : 12 ans pour pousser le milieu artistique taïwanais vers l'archipel malais
@@ -47,18 +48,18 @@ Les lecteurs ont pu lire, dans le dossier spécial [Hermeneutics of Nusantara](h
 
 Cette phrase est un peu tortueuse. Mais c'est une phrase qu'un commissaire d'exposition a mis six ans à pouvoir formuler.
 
-## Un projet d'écriture en ligne commencé en 2011
+## Un projet d'écriture en ligne lancé en 2011
 
-« No Man's Land » est né en novembre 2011. À l'époque, la Digital Art Foundation (DAF, fondée par Huang Wen-hao et d'autres) a parrainé ce « projet d'écriture en ligne », et Cheng Wen-chi en est le rédacteur en chef depuis le premier numéro[^5].
+_No Man's Land_ est né en novembre 2011. À l'époque, la Digital Art Foundation (DAF, fondée par Huang Wen-hao et d'autres) parrainait ce « projet d'écriture en ligne », et Cheng Wen-chi a occupé le poste de rédacteur en chef dès le premier numéro[^5].
 
-L'auto-présentation de la plateforme n'a pas changé en 12 ans — opérant dans la **zone périphérique** de l'art contemporain, de la technologie, de la performance, du récit et de l'imagination, avec une méthode pratique fondée sur la connexion créative et le cycle entre « réseau, texte et communauté »[^6].
+La présentation de la plateforme n'a pas changé en 12 ans — elle se situe à la **périphérie** de l'art contemporain, de la technologie, de la performance, du récit et de l'imaginaire, adoptant comme méthode pratique les connexions créatives et les cycles entre « le réseau, le texte et la communauté »[^6].
 
-Ces mots-clés méritent d'être décomposés : « périphérie » est un choix géographique (ne pas se tenir au centre des courants curatoriaux dominants) ; « réseau » est un choix de médium (pas de version imprimée, tout sur WordPress) ; « texte » est un choix d'action (écrire, pas organiser des expositions) ; « communauté » est un choix d'extension (résidences, conférences, publications de livrets).
+Ces quelques mots-clés méritent d'être analysés : la « périphérie » est un choix géographique (ne pas se tenir sur le bord du commissariat d'exposition mainstream) ; le « réseau » est un choix de média (pas de support papier, tout est sur WordPress) ; le « texte » est un choix d'action (écrire, et non organiser des expositions) ; la « communauté » est un choix d'extension (résidences, tables rondes, publication de brochures).
 
-Jusqu'au 56ᵉ numéro en mars 2023 (« Retour au soin »), « No Man's Land » a accumulé 56 numéros thématiques, 384 articles, 31 épisodes de podcast et 10 volumes de la publication indépendante « Nusantara Archive »[^7]. Chaque numéro compte en moyenne 7 articles, dont Cheng Wen-chi a personnellement édité 88 % (310 sur 353 articles)[^8].
+Jusqu'au 56e numéro (intitulé 〈Prendre soin du quotidien〉) en mars 2023, _No Man's Land_ a accumulé 56 thématiques curatées, 384 articles, 31 épisodes de podcast et 10 ouvrages auto-édités au sein des « Archives de l'archipel »[^7]. Chaque numéro compte en moyenne 7 articles, dont 88 % (3/5 310 articles) ont été édités personnellement par Cheng Wen-chi[^8].
 
-> **📝 Note du commissaire**
-> Une concentration éditoriale de 88 % est une lame à double tranchant. D'un côté, 12 ans ont produit une profondeur de discours d'une cohérence extrême — les quatre cadres « archipel / périphérie / décolonisation / Pacifique » sont stables comme des vecteurs de base. De l'autre, il y a le plafond d'une perspective unique : les voix de jeunes commissaires femmes sont sous-représentées, les questions autochtones sont quasi absentes, et les nouveaux thèmes se sont raréfiés après 2023. Lorsqu'une plateforme tire toute sa philosophie éditoriale d'une seule personne, sa maturité évolue en parallèle avec celle de cette personne, mais son érosion aussi.
+> **📝 Notes du commissaire**
+> Une concentration éditoriale de 88 % est une arme à double tranchant. D'un côté, elle a permis d'accumuler en 12 ans une profondeur discursive extrêmement cohérente — les quatre cadres (frameworks) que sont l'archipel, la périphérie, la décolonisation et le Pacifique sont aussi stables que des vecteurs de base. De l'autre, c'est le plafond de verre d'une perspective unique : les voix des jeunes commissaires d'exposition femmes sont minoritaires, les questions autochtones sont pratiquement absentes, et les nouveaux thèmes diminuent depuis 2023. Lorsqu' la philosophie éditoriale d'une plateforme provient entièrement d'une seule personne, sa phase de maturité est synchronisée avec celle de cette personne, mais sa phase de lassitude l'est tout autant.
 
 ## Pourquoi un auteur contributeur de _Art Collection_ a lancé une nouvelle plateforme
 
