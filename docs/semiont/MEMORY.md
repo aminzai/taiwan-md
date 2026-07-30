@@ -361,3 +361,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-30 | 064309-twmd-spore-harvest-am | 6 events harvest；鎢供應鏈 D+4 觸及 479K 續平（Bucket D 政治框架維持 7/28 不動 default）；外送專法／苯駢芘皆 Bucket F 無需修文 | 病毒級敏感框架不必每天重寫完整脈絡，只需確認「有沒有變」 | [→](memory/2026-07-30-064309-twmd-spore-harvest-am.md) |
 | 2026-07-30 | 070927-twmd-feedback-triage | 隊列空（0 new feedback）；archive 掃描 39 檔，同步 2 則哲宇在 GitHub 上的維護者回覆（COMPUTEX + 姓名核對）進 git 主權層 | 量少不是簡化流程的理由，archive sync 這步仍要跑才能把維護者回覆落進 git | [→](memory/2026-07-30-070927-twmd-feedback-triage.md) |
 | 2026-07-30 | 084134-twmd-maintainer-am | 6/7 PR merge（4 篇美食 heal + 2 篇技術直 merge），1 篇 130 檔留哲宇拍板；收官誤 pop 舊孤兒 stash 已 reset 復原 | stash pop 前必先 list 讀清楚，看到「not mine」要當紅旗跳過 | [→](memory/2026-07-30-084134-twmd-maintainer-am.md) |
+| 2026-07-30 | 121650-manual | 巴別塔回收 14 篇譯文並推至 main；修復 pulse 在 Python 3.9 沿用舊快照的假綠 | 進度讀數必須綁定同一 git ref、來源總數與時間戳 | [→](memory/2026-07-30-121650-manual.md) |
