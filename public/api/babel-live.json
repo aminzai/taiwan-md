@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-30T10:55:06+08:00",
+ "generated_at": "2026-07-30T11:57:52+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
  "snapshot_ts": "2026-07-30T10:55:00+08:00",
  "total_zh": 871,
@@ -345,11 +345,11 @@
    "top_fail": [
     [
      "leak",
-     131
+     132
     ],
     [
      "no output written by tra",
-     59
+     60
     ]
    ],
    "last_activity": "2026-07-30T10:52:30+08:00"
@@ -534,7 +534,7 @@
   {
    "kind": "unified",
    "pid": "66392",
-   "uptime": "06:59:18",
+   "uptime": "08:02:04",
    "langs": "ja,id,pt,hi,ar,ru",
    "workers": 4
   }
