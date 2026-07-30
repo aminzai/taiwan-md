@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-07-30T07:54:40+08:00",
+ "generated_at": "2026-07-30T08:04:09+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-07-30T07:54:34+08:00",
+ "snapshot_ts": "2026-07-30T08:04:03+08:00",
  "total_zh": 871,
  "langs": [
   {
@@ -61,11 +61,11 @@
   {
    "lang": "id",
    "name": "Indonesia",
-   "fresh": 447,
+   "fresh": 448,
    "stale": 2,
-   "missing": 422,
-   "coverage_pct": 51.5,
-   "fresh_delta": 0
+   "missing": 421,
+   "coverage_pct": 51.7,
+   "fresh_delta": 1
   },
   {
    "lang": "pt",
@@ -101,22 +101,22 @@
    "stale": 0,
    "missing": 237,
    "coverage_pct": 72.8,
-   "fresh_delta": 1
+   "fresh_delta": 0
   }
  ],
- "gap_total": 2112,
+ "gap_total": 2111,
  "gap_delta": -1,
  "rate_1h": {
   "delta": 7,
-  "span_h": 1.05,
-  "per_hour": 6.7
+  "span_h": 1.01,
+  "per_hour": 6.9
  },
  "rate_24h": {
-  "delta": 220,
-  "span_h": 24.16,
-  "per_hour": 9.1
+  "delta": 215,
+  "span_h": 24.06,
+  "per_hour": 8.9
  },
- "eta_days": 13.1,
+ "eta_days": 12.7,
  "nodes": {
   "worker:dead": {
    "ok": 0,
@@ -307,9 +307,9 @@
    "last_activity": "2026-07-30T07:53:31+08:00"
   },
   "worker:nemo": {
-   "ok": 200,
-   "fail": 345,
-   "avg_s": 248.1,
+   "ok": 201,
+   "fail": 346,
+   "avg_s": 252.1,
    "top_fail": [
     [
      "leak",
@@ -320,7 +320,7 @@
      52
     ]
    ],
-   "last_activity": "2026-07-30T07:38:33+08:00"
+   "last_activity": "2026-07-30T07:59:12+08:00"
   },
   "worker:nemo4": {
    "ok": 169,
@@ -340,7 +340,7 @@
   },
   "worker:nemo2": {
    "ok": 168,
-   "fail": 306,
+   "fail": 307,
    "avg_s": 262.5,
    "top_fail": [
     [
@@ -349,10 +349,10 @@
     ],
     [
      "no output written by tra",
-     54
+     55
     ]
    ],
-   "last_activity": "2026-07-30T07:19:01+08:00"
+   "last_activity": "2026-07-30T07:55:22+08:00"
   },
   "worker:l4090": {
    "ok": 47,
@@ -534,17 +534,12 @@
   {
    "kind": "unified",
    "pid": "66392",
-   "uptime": "03:58:53",
+   "uptime": "04:08:21",
    "langs": "ja,id,pt,hi,ar,ru",
    "workers": 4
   }
  ],
  "history": [
-  {
-   "ts": "2026-07-29T17:37:54+08:00",
-   "fresh_total": 7370,
-   "gap_total": 2211
-  },
   {
    "ts": "2026-07-29T17:39:59+08:00",
    "fresh_total": 7370,
@@ -1019,6 +1014,11 @@
    "ts": "2026-07-30T07:54:34+08:00",
    "fresh_total": 7469,
    "gap_total": 2112
+  },
+  {
+   "ts": "2026-07-30T08:04:03+08:00",
+   "fresh_total": 7470,
+   "gap_total": 2111
   }
  ]
 }
