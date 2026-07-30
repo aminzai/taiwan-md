@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.43)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.44)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.43'
+current_version: 'v1.44'
 last_updated: 2026-07-30
-last_session: '2026-07-30-vortex-phase-n-id-mapping'
+last_session: '2026-07-30-vortex-phase-n-mapping-wrapper'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.43
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.44
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,12 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.44（2026-07-30）：Structured Phase N 的 ID mapping 有時再包一層單鍵
+  object（例如 `{"footnotes": {"1": {...}}}`）；v1.43 只接受直接 mapping，
+  新實績仍在相同 `got dict` gate 失敗。現在單層 wrapper 內的 key 集合也必須
+  精確等於本批預期 ID、每個 value 必須是 object、內部 `n` 必須相符才可解包；
+  缺項、多項、ID 衝突、多鍵或多層 wrapper 照舊 hard fail。錯誤訊息同步列出
+  top-level keys，下一種模型形狀不再只有模糊的 `got dict`。
 - v1.43（2026-07-30）：Structured Phase N 接受可無損證明順序的腳註 ID
   mapping。近一小時 8 次失敗中 7 次是 no-output，至少 4 次已完成 frontmatter
   翻譯，卻因模型把 15 筆腳註回成 `{"1": {...}, "2": {...}}` 而被現有

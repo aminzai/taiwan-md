@@ -474,13 +474,13 @@ def extract_footnote_defs(body: str) -> list[dict]:
 
 
 def normalize_footnote_batch(data, batch: list[dict]):
-    """只解包兩種可無損證明順序的 Phase N 回傳形狀。
+    """只解包可無損證明順序的 Phase N 回傳形狀。
 
     模型除了 canonical array，還會回 ``{"footnotes": [...]}``，或直接用腳註
-    ID 當 top-level key：``{"1": {"title": ..., "desc": ...}}``。後者只有在
-    key 集合精確等於本批預期 ID、每個 value 都是 object、value 內若有 ``n``
-    也與 key 一致時才可安全重排；任何缺項、多項或 ID 衝突仍原樣交給 hard
-    length gate 拒收。
+    ID 當 key：``{"1": {"title": ..., "desc": ...}}``；後者有時又包在單鍵
+    ``{"footnotes": {...}}`` 裡。ID mapping 只有在 key 集合精確等於本批預期
+    ID、每個 value 都是 object、value 內若有 ``n`` 也與 key 一致時才可安全
+    重排；任何缺項、多項、ID 衝突或多層 wrapper 仍原樣交給 hard gate 拒收。
     """
     if not isinstance(data, dict):
         return data
@@ -490,12 +490,18 @@ def normalize_footnote_batch(data, batch: list[dict]):
         return list_values[0]
 
     expected_ids = [str(item["n"]) for item in batch]
-    if set(data) != set(expected_ids):
-        return data
+    candidate = data
+    if set(candidate) != set(expected_ids):
+        if len(data) != 1:
+            return data
+        wrapped = next(iter(data.values()))
+        if not isinstance(wrapped, dict) or set(wrapped) != set(expected_ids):
+            return data
+        candidate = wrapped
 
     normalized = []
     for footnote_id in expected_ids:
-        item = data[footnote_id]
+        item = candidate[footnote_id]
         if not isinstance(item, dict):
             return data
         item_id = str(item.get("n", footnote_id))
@@ -540,9 +546,12 @@ def translate_footnotes(defs: list[dict], lang: str, backend, metrics: dict) -> 
         # 多個 list、任意 mapping 仍拒收，避免猜錯欄位後靜默對位。
         data = normalize_footnote_batch(data, batch)
         if not isinstance(data, list) or len(data) != len(batch):
+            shape = type(data).__name__
+            if isinstance(data, dict):
+                shape += f" keys={list(data)[:8]!r}"
             raise RuntimeError(
                 f"phase-N batch {bi}: length mismatch (want {len(batch)}, "
-                f"got {len(data) if isinstance(data, list) else type(data).__name__})"
+                f"got {len(data) if isinstance(data, list) else shape})"
             )
         by_n = {str(item.get("n")): item for item in data if isinstance(item, dict)}
         for idx, d in enumerate(batch):
