@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-31T04:48:07+08:00",
-    "zhCommitHead": "69b6eff5a",
+    "lastUpdated": "2026-07-31T04:51:44+08:00",
+    "zhCommitHead": "8e43f0045",
     "totalZh": 875,
     "activeLanguages": [
       "en",
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 875,
-        "fresh": 629,
+        "fresh": 630,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 245,
+        "missing": 244,
         "orphan": 0
       },
       "ru": {
@@ -46104,8 +46104,8 @@
           "sourceContentHash": "sha256:6617087ac0d0a536",
           "sourceBodyHash": "sha256:f6a2ecc9e1606c44",
           "translatedAt": "2026-07-31T02:01:51+08:00",
-          "translationLastCommit": "e137dda5",
-          "translationLastModified": "2026-07-31T00:55:37+08:00",
+          "translationLastCommit": "8e43f004",
+          "translationLastModified": "2026-07-31T04:48:08+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -76652,7 +76652,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/chia-yung-chieh.md",
+          "translatedFrom": "People/賈永婕.md",
+          "sourceCommitSha": "dd39065b2",
+          "sourceContentHash": "sha256:a92f6a6b22257ffa",
+          "sourceBodyHash": "sha256:3a5ef98d636f1bfa",
+          "translatedAt": "2026-07-30T22:54:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -81655,8 +81666,8 @@
           "sourceContentHash": "sha256:e7632bbdde015839",
           "sourceBodyHash": "sha256:e1150c885b006baf",
           "translatedAt": "2026-07-31T02:01:51+08:00",
-          "translationLastCommit": "afdf727a",
-          "translationLastModified": "2026-07-27T19:00:44+08:00",
+          "translationLastCommit": "8e43f004",
+          "translationLastModified": "2026-07-31T04:48:08+08:00",
           "inferred": false,
           "footnoteDefs": 65,
           "status": "fresh",
