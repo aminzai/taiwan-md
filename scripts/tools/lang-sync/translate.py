@@ -678,7 +678,15 @@ def armor_post(raw_output: str, ctx: dict, article: dict) -> tuple[Optional[str]
 
     m = _ARMOR_SECTION_RE.search(text)
     if not m:
-        return None, "armor: model output missing ===TITLE===/===DESC===/===TAGS===/===BODY=== markers"
+        # 診斷儀器（2026-07-31）：光說「缺 marker」看不出模型實際回了什麼——
+        # 拒答句、道歉、摘要、還是 marker 拼錯了一個等號，處置完全不同。
+        # 把回覆頭尾放進錯誤訊息，失敗自己說明自己（同 backends/ollama.py
+        # empty/tiny 診斷的姊妹刀）。
+        head = text[:200].replace("\n", "⏎")
+        tail = text[-100:].replace("\n", "⏎") if len(text) > 300 else ""
+        return None, (f"armor: model output missing ===TITLE===/===DESC===/===TAGS===/===BODY=== "
+                      f"markers (len={len(text)} | head: {head!r}"
+                      + (f" | tail: {tail!r}" if tail else "") + ")")
 
     title = m.group("title").strip()
     desc = m.group("desc").strip()
