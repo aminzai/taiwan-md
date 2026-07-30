@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-07-30T11:56:30+08:00",
+ "generated_at": "2026-07-30T12:07:34+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-07-30T11:56:24+08:00",
+ "snapshot_ts": "2026-07-30T12:07:28+08:00",
  "total_zh": 871,
  "langs": [
   {
@@ -92,31 +92,31 @@
    "stale": 0,
    "missing": 257,
    "coverage_pct": 70.5,
-   "fresh_delta": 1
+   "fresh_delta": 0
   },
   {
    "lang": "ru",
    "name": "Русский",
-   "fresh": 643,
+   "fresh": 644,
    "stale": 0,
-   "missing": 228,
-   "coverage_pct": 73.8,
-   "fresh_delta": 0
+   "missing": 227,
+   "coverage_pct": 73.9,
+   "fresh_delta": 1
   }
  ],
- "gap_total": 2071,
+ "gap_total": 2070,
  "gap_delta": -1,
  "rate_1h": {
-  "delta": 15,
-  "span_h": 1.02,
-  "per_hour": 14.7
+  "delta": 12,
+  "span_h": 1.01,
+  "per_hour": 11.8
  },
  "rate_24h": {
-  "delta": 212,
-  "span_h": 24.14,
-  "per_hour": 8.8
+  "delta": 209,
+  "span_h": 24.07,
+  "per_hour": 8.7
  },
- "eta_days": 5.9,
+ "eta_days": 7.3,
  "nodes": {
   "worker:dead": {
    "ok": 0,
@@ -323,9 +323,9 @@
    "last_activity": "2026-07-30T11:44:51+08:00"
   },
   "worker:nemo4": {
-   "ok": 181,
+   "ok": 182,
    "fail": 328,
-   "avg_s": 251.8,
+   "avg_s": 252.1,
    "top_fail": [
     [
      "leak",
@@ -336,7 +336,7 @@
      73
     ]
    ],
-   "last_activity": "2026-07-30T11:53:38+08:00"
+   "last_activity": "2026-07-30T11:58:40+08:00"
   },
   "worker:nemo2": {
    "ok": 181,
@@ -534,17 +534,12 @@
   {
    "kind": "unified",
    "pid": "66392",
-   "uptime": "08:00:42",
+   "uptime": "08:11:46",
    "langs": "ja,id,pt,hi,ar,ru",
    "workers": 4
   }
  ],
  "history": [
-  {
-   "ts": "2026-07-29T21:12:59+08:00",
-   "fresh_total": 7409,
-   "gap_total": 2172
-  },
   {
    "ts": "2026-07-29T21:24:14+08:00",
    "fresh_total": 7410,
@@ -1019,6 +1014,11 @@
    "ts": "2026-07-30T11:56:24+08:00",
    "fresh_total": 7510,
    "gap_total": 2071
+  },
+  {
+   "ts": "2026-07-30T12:07:28+08:00",
+   "fresh_total": 7511,
+   "gap_total": 2070
   }
  ]
 }
