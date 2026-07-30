@@ -2,6 +2,7 @@
 title: "Taiwan's Democratic Transition: The Grave the Autocracy Dug for Itself"
 description: 'Every crackdown creates more resisters. From the February 28 Incident to the Sunflower Movement, how an island allowed a dictatorial regime to cultivate the very forces that would bury it.'
 date: 2026-03-24
+category: 'History'
 tags:
   [
     'Democracy',
@@ -12,16 +13,18 @@ tags:
   ]
 subcategory: 'Democracy and Governance'
 author: 'Taiwan.md'
-category: 'History'
-readingTime: 12
+featured: true
 lastVerified: 2026-04-07
 lastHumanReview: true
+sporeLinks:
+  [
+    "{'id': 10, 'platform': 'threads', 'date': '2026-04-07', 'url': 'https://www.threads.com/@taiwandotmd/post/DW1ba_tEz5D'}",
+  ]
 translatedFrom: 'History/台灣民主轉型.md'
-sourceCommitSha: 'dd39065b'
-sourceContentHash: 'sha256:85252455c0ed43e6'
-translatedAt: '2026-06-10T16:41:16Z'
-sourceBodyHash: 'sha256:5c7fc1f11ad28097'
-featured: true
+sourceCommitSha: 'dbaf28954'
+sourceContentHash: 'sha256:a9330a2eb23d9c97'
+sourceBodyHash: 'sha256:20dd14ee57321b53'
+translatedAt: '2026-07-30T03:36:39.261915+00:00'
 ---
 
 # Taiwan's Democratic Transition: The Grave the Autocracy Dug for Itself
@@ -151,37 +154,38 @@ It took effect on May 24. On the first day, 526 same-sex couples completed their
 
 The significance of this goes beyond marriage itself. It proves that Taiwan's democracy is not just about majority rule, but also has the capacity to protect the rights of minorities, even if the majority voted against them in a referendum. From the total ban on homosexuality during the martial law period to being number one in Asia, it took more than thirty years.
 
-## Freedom on a Treadmill
+## トレッドミルの上の自由
 
-Freedom House 2024 Report: Taiwan scored 94 (out of 100), ranking second in Asia and seventh globally.[^16] The Economist Democracy Index 2024: First in Asia, twelfth globally.[^17]
+フリーダムハウス2024年報告：台湾94点（満点100）、アジア2位、世界7位。[^16] エコノミスト民主主義指数2024年：アジア1位、世界12位。[^17]
 
-The numbers are impressive. The challenges are also real. Information warfare from China continues to escalate; social media exacerbates political polarization; youth voter turnout is declining. The Council for National Reconstruction's Transitional Justice Commission ended its mission in 2022, but political archives have not been fully opened, perpetrators' responsibilities have hardly been pursued, and the transformation controversy surrounding the Chiang Kai-shek Memorial Hall remains unresolved.[^18]
+数字は見事です。課題もまた現実的です。中国からの情報戦がエスカレートし続け、ソーシャルメディアが政治的極化を加速させ、若者の投票率が低下しています。促進転型正義委員会が2022年に任務を終えましたが、政治档案は依然として完全には開放されておらず、加害者責任はほとんど追及されておらず、中正紀念堂の転型をめぐる論争は棚上げされたままです。[^18]
 
-> **⚠️ Controversial Viewpoint**
-> Chiang Ching-kuo's historical position has always been one of the most divisive issues in Taiwanese society. Supporters view the lifting of martial law as his gift. Opponents point out that during the White Terror, he directed the intelligence system, and lifting martial law was also a calculation forced by internal and external pressure. Both narratives have factual basis, but choosing which side to emphasize is itself a political stance.
+> **⚠️ 論争的視点**
+> 蔣経国（しょうけいこく）の歴史的位置づけは、台湾社会において最も分断を生む問題の一つであり続けています。支持者は解厳を彼の恩恵と見なします。反対派は、白色テロ期に彼が情治システムを主導し、解厳も内外の圧力に追い込まれた算段だったと指摘します。どちらのナラティブにも事実に基づく裏付けがありますが、どちらの側面を強調するかという選択自体が、一つの政治的スタンスなのです。
 
-Democracy is not a trophy; it is a treadmill. The moment you stop, it moves backward.
+民主主義はトロフィーではなく、トレッドミルです。立ち止まれば、後退するだけです。
 
-In 1980, 29-year-old Chen Chu wrote a suicide note in prison, saying goodbye to the Taiwan she loved. She quoted the Epistles of Paul: "I have fought the good fight."[^19]
+1980年、29歳の陳菊（ちん・きく／チェン・ジュ）が獄中で遺書を書き、深く愛する台湾に別れを告げました。彼女はパウロ書簡を引用しました。「わたしは立派に戦い抜きました。」[^19]
 
-She was not shot. She served six years. After release, she helped found the DPP, served as Mayor of Taipei, Minister of Labor, and Mayor of Kaohsiung for twelve years. In 2020, she was nominated as President of the Control Yuan.
+彼女は銃殺されませんでした。6年間の刑に服しました。出獄後、民進党の結党を助け、台北市社会局長、労働委員会主任委員、高雄市長12年を務めました。2020年、彼女は監察院長に指名されました。
 
-The same person. The same island. The only difference is: in 1979, her ideas were a crime. In 2020, this former political prisoner was responsible for investigating whether the government had committed crimes.
+同じ人物。同じ島。唯一の違いは：1979年、彼女の思想は犯罪でした。2020年、この元政治犯が政府に犯罪がないかを調べる立場になったのです。
 
-From a suicide note to President of the Control Yuan, forty-one years. This is what democratic transition means. Not a smooth inspirational arc, but a political experiment full of absurdity, contradictions, and irreversible costs. The people who started it didn't know it would succeed. Many thought they would die. The experiment continues.
+遺書から監察院長へ、41年。これが民主化転型の意味です。滑らかな感動の弧線ではなく、不条理と矛盾と取り返しのつかない代償に満ちた政治実験です。始めた人々は、成功するかどうか分かりませんでした。多くの人が、自分は死ぬと思っていました。実験は今も続いています。
 
-**Further Reading**:
+**関連記事**：
 
-- [February 28 Incident](/ja/history/228-incident) — How the trauma of 1947 became the origin of Taiwan's democratic consciousness
-- [White Terror in Taiwan](/ja/history/taiwan-white-terror) — The full picture of political cases and human rights violations during the 38-year martial law period
-- [Martial Law Period](/ja/history/martial-law-era) — The legal basis and social control mechanisms of the world's longest martial law order
-- [Formosan Magazine Incident](/ja/history/kaohsiung-incident-formosa-incident) — The complete process and historical impact of the 1979 Kaohsiung incident
-- [Taiwan Elections and Party Politics](/ja/history/taiwan-elections-and-party-politics) — The evolution of the electoral system from the Eternal Congress to four party rotations
-- [Resolution on Taiwan's Future](/ja/history/resolution-on-taiwans-future) — In 1999, the DPP used a document full of ambiguity to complete a route transition, opening the door to the first party rotation in 2000
-- [Taiwan Transitional Justice](/ja/history/taiwan-transitional-justice) — How society faces the historical trauma of the authoritarian period after democratization
-- [Sunflower Student Movement](/ja/society/sunflower-movement) — A complete chronicle of the 2014 Legislative Yuan occupation, from the thirty-second intrusion to economic decoupling from China twelve years later
-- [2026 Xi-Taiwan Meeting: Ten Minutes of a Decade Reunion Between KMT and CCP Leaders](/ja/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — Why does AIT emphasize "dialogue with elected leadership"? The foundation of this principle lies in this history of democratization
-- [Chou Tzu-yu](/ja/people/tzuyu) — The 90-second apology video on the eve of the 2016 election is the heaviest stroke in Taiwan's third party rotation
+- [二二八事件](/ja/history/228-incident) — 1947年のトラウマがいかにして台湾民主意識の原点となったか
+- [台湾白色テロ](/ja/history/taiwan-white-terror) — 38年間の戒厳期における政治事件と人権侵害の全貌
+- [戒厳時代](/ja/history/martial-law-era) — 世界最長の戒厳令の法的根拠と社会統制メカニズム
+- [美麗島事件](/ja/history/kaohsiung-incident-formosa-incident) — 1979年高雄事件の全経緯と歴史的影響
+- [台湾の選挙と政党政治](/ja/history/taiwan-elections-and-party-politics) — 万年国会から4度の政党交代へ、選挙制度の変遷
+- [台湾前途決議文](/ja/history/resolution-on-taiwans-future) — 1999年、民進党が曖昧さを含んだ一文で路線転換を果たし、2000年初の政党交代への扉を開いた経緯
+- [台湾の転型正義](/ja/history/taiwan-transitional-justice) — 民主化後、社会がいかに威権期の歴史的トラウマと向き合ってきたか
+- [大リコール](/ja/history/great-recall-movement-2024) — 2025年、3波の投票で33件すべて不成立に終わった史上最大のリコール運動、民主化後の直接民主権ツールの限界と代償を浮き彫りに
+- [ひまわり学生運動](/ja/society/sunflower-movement) — 2014年議会占拠の全記録、30秒の突入から12年後の経済脱中国まで
+- [2026年鄭習会：国共指導者10年ぶりの10分間](/ja/society/2026-cheng-xi-meeting-kmt-ccp-decade-reunion) — なぜAITが「民選指導層との対話」を強調するのか、その原則の根拠はこの民主化の歴史にある
+- [周子瑜（しゅう・しゆ／チョウ・ツーユー）](/ja/people/tzuyu) — 2016年大選前夜の90秒謝罪動画、台湾3回目の政党交代において最も重い一筆となった理由
 
 ## References
 
