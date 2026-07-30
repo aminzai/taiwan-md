@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-30T10:02:53+08:00",
-    "zhCommitHead": "73e0764bc",
+    "lastUpdated": "2026-07-30T10:23:55+08:00",
+    "zhCommitHead": "f7770ff59",
     "totalZh": 871,
     "activeLanguages": [
       "en",
@@ -83,18 +83,18 @@
       },
       "hi": {
         "total_zh": 871,
-        "fresh": 543,
+        "fresh": 544,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 327,
+        "missing": 326,
         "orphan": 0
       },
       "ar": {
         "total_zh": 871,
-        "fresh": 609,
+        "fresh": 610,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 262,
+        "missing": 261,
         "orphan": 0
       },
       "ru": {
@@ -24481,8 +24481,8 @@
           "sourceContentHash": "sha256:8e3303199d60c0c9",
           "sourceBodyHash": "sha256:83f9f1bad3cb5feb",
           "translatedAt": "2026-07-30T03:55:56+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "25e8896b",
+          "translationLastModified": "2026-07-30T10:02:54+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -43116,10 +43116,32 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/stray-animal-culture.md",
+          "translatedFrom": "Society/台灣流浪動物文化.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:6b2ce60c50966bdc",
+          "sourceBodyHash": "sha256:6f79d66a90a09b62",
+          "translatedAt": "2026-07-30T03:55:58+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/stray-animal-culture.md",
+          "translatedFrom": "Society/台灣流浪動物文化.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:30721022cb662a60",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-07-30T02:09:00.997728+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
