@@ -28,9 +28,9 @@ lastVerified: 2026-05-18
 lastHumanReview: false
 featured: false
 translatedFrom: 'Geography/高雄市.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:3c13d7fb85f1eb0e'
-sourceBodyHash: 'sha256:f95a74cad7a8af57'
+sourceCommitSha: 'a5490c04'
+sourceContentHash: 'sha256:244cad849cf26403'
+sourceBodyHash: 'sha256:fd14be167daa0221'
 translatedAt: '2026-06-16T17:04:12Z'
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Night_skyline_of_Kaohsiung%2C_Taiwan_20140603.jpg/1600px-Night_skyline_of_Kaohsiung%2C_Taiwan_20140603.jpg
 imageCredit: peellden

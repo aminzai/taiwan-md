@@ -10,9 +10,9 @@ lastVerified: 2026-03-20
 lastHumanReview: true
 featured: false
 translatedFrom: 'Culture/台灣老街文化與商業街區.md'
-sourceCommitSha: 'f712b7242'
-sourceContentHash: 'sha256:3d3e165195c66961'
-sourceBodyHash: 'sha256:daf4460c4d51a719'
+sourceCommitSha: 'fa2ca2e8'
+sourceContentHash: 'sha256:fa410e59dc40cf80'
+sourceBodyHash: 'sha256:4c28ceadc8ee9c09'
 translatedAt: '2026-05-20T05:08:29+08:00'
 ---
 
@@ -170,7 +170,7 @@ translatedAt: '2026-05-20T05:08:29+08:00'
 
 ### 旗山老街（高雄）：バナナ王国の記憶
 
-旗山は旧称を「旗尾」といい、清代から南部台湾の重要な農業地帯でした。日治時代、製糖業とバナナ産業の興隆に伴い、旗山は高雄山線の経済の拠点となりました。**1950〜60年代**、旗山のバナナが日本へ大量輸出され、台湾に多大な外貨をもたらしました——「**バナナ王国****」の名はここから始まりました。
+旗山は旧称を「旗尾」といい、清代から南部台湾の重要な農業地帯でした。日治時代、製糖業とバナナ産業の興隆に伴い、旗山は高雄山線の経済の拠点となりました。**1950〜60年代**、旗山のバナナが日本へ大量輸出され、台湾に多大な外貨をもたらしました——「**バナナ王国\*\***」の名はここから始まりました。
 
 **現在の特色：**
 
@@ -237,14 +237,25 @@ translatedAt: '2026-05-20T05:08:29+08:00'
 ## 参考文献
 
 [^1]: [交通部観光署 — 台湾老街観光スポット](https://www.taiwan.net.tw/) — 台湾全土の老街観光情報総覧、地図とルート計画を含む
+
 [^2]: [ウィキペディア — 迪化街](https://zh.wikipedia.org/zh-tw/%E8%BF%AA%E5%8C%96%E8%A1%97) — 迪化街の歴史沿革、建築様式、大稲埕の商業発展
+
 [^3]: [ウィキペディア — 三峡老街](https://zh.wikipedia.org/zh-tw/%E4%B8%89%E5%B3%BD%E8%80%81%E8%A1%97) — 三峡バロック建築群の修復経緯および李梅樹による祖師廟再建の史料
+
 [^4]: [ウィキペディア — 九份](https://zh.wikipedia.org/zh-tw/%E4%B9%9D%E4%BB%BD) — 九份の金鉱山歴史、侯孝賢『悲情城市』のロケ地および観光の現状
+
 [^5]: [ウィキペディア — 大溪老街](https://zh.wikipedia.org/zh-tw/%E5%A4%A7%E6%BA%AA%E8%80%81%E8%A1%97) — 大溪のバロック牌楼建築群と関聖帝君大禧祭典の紹介
+
 [^6]: [彰化観光情報網 — 鹿港老街](https://tourism.chcg.gov.tw/AttractionsContent.aspx?id=152) — 鹿港の閩南建築群、龍山寺、天后宮および伝統工芸の情報
+
 [^7]: [台南観光網 — 安平老街](https://www.twtainan.net/zh-tw/attractions/detail/812/) — 安平古堡、剣獅文化および延平老街の歴史説明
+
 [^8]: [新北市観光旅遊網 — 淡水老街](https://newtaipei.travel/zh-tw/attractions/detail/109658) — 淡水紅毛城、中正路老街および重建街の観光スポット紹介
+
 [^9]: [高雄観光網 — 旗山老街](https://khh.travel/zh-tw/attractions/detail/157/) — 旗山バナナ王国の歴史、バロック街屋および糖鉄故事館の情報
+
 [^10]: [台湾大学地質科学デジタルアーカイブ — 金瓜石九份黄金開採史](http://tcmb.digital.ntu.edu.tw/memory/geology/story_keelung/story3.html) — 九份鉱業史デジタルアーカイブ、鉱山の地質と開採年代の考証を含む
+
 [^11]: [交通部観光署 — 迪化街](https://www.taiwan.net.tw/m1.aspx?sNo=0001016&id=R108) — 迪化街の永樂市場、霞海城隍廟、年貨大街の公式紹介
+
 [^12]: [交通部観光署 — 三峡老街](https://www.taiwan.net.tw/m1.aspx?sNo=0001091&id=R13) — 三峡老街の建築整建計画と藍染工芸復興の説明
