@@ -561,9 +561,53 @@ def translate_footnotes(defs: list[dict], lang: str, backend, metrics: dict) -> 
             "- 'desc': a short one-line description of what the source documents."
         )
         user = json.dumps(payload, ensure_ascii=False)
-        data = call_json(backend, system, user, max_tokens=8000, timeout=240,
-                          max_attempts=2, metrics=metrics, label=f"phase-N-batch{bi}",
-                          accept_data=is_footnote_batch_response)
+        try:
+            data = call_json(
+                backend,
+                system,
+                user,
+                max_tokens=8000,
+                timeout=240,
+                max_attempts=2,
+                metrics=metrics,
+                label=f"phase-N-batch{bi}",
+                accept_data=is_footnote_batch_response,
+            )
+        except RuntimeError as error:
+            # v1.45 實績：15 筆 batch 的兩次同尺寸重播都可能只留下尾端單筆
+            # object。只有明確 shape failure 才換一次較小路徑；backend error、
+            # timeout 與內容 gate 不在此擴張，避免把容量故障放大。
+            if "JSON shape fail" not in str(error) or len(batch) < 2:
+                raise
+            midpoint = len(batch) // 2
+            split_data = []
+            for split_index, split_batch in enumerate(
+                (batch[:midpoint], batch[midpoint:])
+            ):
+                split_payload = [
+                    {"n": item["n"], "title": item["title"], "desc": item["desc"]}
+                    for item in split_batch
+                ]
+                part = call_json(
+                    backend,
+                    system,
+                    json.dumps(split_payload, ensure_ascii=False),
+                    max_tokens=8000,
+                    timeout=240,
+                    max_attempts=2,
+                    metrics=metrics,
+                    label=f"phase-N-batch{bi}-split{split_index}",
+                    accept_data=is_footnote_batch_response,
+                )
+                part = normalize_footnote_batch(part, split_batch)
+                if not isinstance(part, list) or len(part) != len(split_batch):
+                    raise RuntimeError(
+                        f"phase-N batch {bi} split {split_index}: length mismatch "
+                        f"(want {len(split_batch)}, got "
+                        f"{len(part) if isinstance(part, list) else type(part).__name__})"
+                    )
+                split_data.extend(part)
+            data = split_data
         # 模型常把正確陣列包成 `{"footnotes": [...]}` / `{"translations": [...]}`。
         # v1.6 fallback 實績 4 篇在這裡被判成「got dict」，但內容沒有機會進入
         # 後面的長度與 ID 驗證。只接受「物件內恰好一個 list」這個高信心形狀；

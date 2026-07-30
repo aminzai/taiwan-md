@@ -159,6 +159,37 @@ def test_call_json_retries_when_parsed_json_has_wrong_shape():
     assert "JSON shape fail" in metrics["calls"][0]["error"]
 
 
+def test_translate_footnotes_bisects_after_repeated_shape_failure():
+    class Backend:
+        def __init__(self):
+            self.responses = [
+                '{"n":"2","title":"tail","desc":"truncated"}',
+                '{"n":"2","title":"tail","desc":"truncated again"}',
+                '[{"n":"1","title":"One","desc":"D1"}]',
+                '[{"n":"2","title":"Two","desc":"D2"}]',
+            ]
+
+        def translate(self, *_args, **_kwargs):
+            return self.responses.pop(0)
+
+    defs = [
+        {"n": "1", "title": "一", "desc": "甲", "_link_restore": []},
+        {"n": "2", "title": "二", "desc": "乙", "_link_restore": []},
+    ]
+    metrics = {}
+
+    assert MODULE.translate_footnotes(defs, "hi", Backend(), metrics) == {
+        "1": {"title": "One", "desc": "D1"},
+        "2": {"title": "Two", "desc": "D2"},
+    }
+    assert [call["label"] for call in metrics["calls"]] == [
+        "phase-N-batch0",
+        "phase-N-batch0",
+        "phase-N-batch0-split0",
+        "phase-N-batch0-split1",
+    ]
+
+
 def test_validate_footnotes_rejects_markdown_in_translated_title():
     defs = [{"n": "1"}]
     translated = {"1": {"title": "[Source](broken)", "desc": "Description"}}

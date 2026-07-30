@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.45)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.46)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.45'
+current_version: 'v1.46'
 last_updated: 2026-07-30
-last_session: '2026-07-30-vortex-phase-n-shape-retry'
+last_session: '2026-07-30-vortex-phase-n-shape-bisect'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.45
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.46
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,13 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.46（2026-07-30）：Phase N 的 shape retry 改成同尺寸重播失敗後一次有界
+  二分。v1.45 上線一小時內兩篇都正確觸發第二次重試，但 0/2 救回，兩次仍是
+  `dict keys=['n', 'title', 'desc']`；證明 15 筆批次對當前 reasoning 輸出會
+  重複截斷。現在只有兩次嘗試的最後錯誤仍為明確 `JSON shape fail` 時，才把
+  該批拆半各跑一次既有雙嘗試；backend error、timeout、內容驗證與其他 QA
+  失敗不會觸發。兩半各自仍須通過 shape／長度，合併後再走原 ID 與 Phase N
+  hard gate，沒有放寬品質。
 - v1.45（2026-07-30）：讓 `call_json` 把「JSON 可解析」與「批次形狀完整」
   一起納入 retry。v1.44 的 keys 診斷在一小時內抓到兩次 Phase N 回傳
   `dict keys=['n', 'title', 'desc']`：reasoning 輸出截斷後，寬鬆 parser 從
