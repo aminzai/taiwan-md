@@ -1,9 +1,9 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.48)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.49)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.48'
+current_version: 'v1.49'
 last_updated: 2026-07-30
 last_session: '2026-07-30-230518-manual（tags 基線豁免＋31b 攻堅）'
 sister_docs:
@@ -11,7 +11,7 @@ sister_docs:
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.48
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.49
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -260,6 +260,19 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.49（2026-07-31）：兩個新模型組合同輪裁決撤回。(1) laptop-4090 ×
+  gpt-oss:20b 真實文章 0/10 撤池——小規模 probe 四段 marker 協議完美，
+  整篇 prompt 讀完只回 48-95 字一句話（診斷儀器帶回 thinking 168-306 字、
+  9-10 秒即回），「短 prompt 可回不代表能在 SLA 內完成文章」（v1.29）的
+  16GB 卡版本；4090 回到 embed／generic 服務。(2) desktop-3090 ×
+  gemma4:31b 三筆全部 ≥900s 撞牆（900 timeout／1715／1790）revert 26b
+  ——20GB dense 加 KV cache 超出 24GB 溢到 CPU，跟 v1.29 qwen3:32b
+  同病。同輪正面成果：tags 基線豁免讓 ja 從 8% 回到 40%（判留 nemotron，
+  歸因乾淨）；#1273 重排 116 檔機械補完（gap -103 零模型呼叫）；
+  empty/tiny 與缺 marker 兩把診斷儀器讓失敗自帶機轉證據。教訓沉澱：
+  模型入池要三關——校準（品質樣本）、裝得下（VRAM fit guard）、
+  **完整工作量吞吐**（真實文章 n≥8）；前兩關過了第三關仍會全滅。
 
 - v1.48（2026-07-30）：tags 檢查補「已接受基線」豁免。48h 內 ja 50 次
   `tags not identical to zh` 全是同一假陽性家族：動物園、山岳這類文章的
