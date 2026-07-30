@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-31T04:01:39+08:00",
-    "zhCommitHead": "3f6d0af41",
+    "lastUpdated": "2026-07-31T04:02:54+08:00",
+    "zhCommitHead": "73d60eddc",
     "totalZh": 875,
     "activeLanguages": [
       "en",
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 875,
-        "fresh": 657,
+        "fresh": 658,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 218,
+        "missing": 217,
         "orphan": 0
       }
     },
@@ -36519,8 +36519,8 @@
           "sourceContentHash": "sha256:a253f62d3df56358",
           "sourceBodyHash": "sha256:3a7e69bdd14827b6",
           "translatedAt": "2026-07-31T02:01:51+08:00",
-          "translationLastCommit": "21298a7a",
-          "translationLastModified": "2026-07-29T13:39:11+09:00",
+          "translationLastCommit": "73d60edd",
+          "translationLastModified": "2026-07-31T04:01:39+08:00",
           "inferred": false,
           "footnoteDefs": 62,
           "status": "fresh",
@@ -52267,7 +52267,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Politics/indigenous-district-chief-system.md",
+          "translatedFrom": "Politics/直轄市山地原住民區長.md",
+          "sourceCommitSha": "e957cf7f1",
+          "sourceContentHash": "sha256:529adc4e4a8cd340",
+          "sourceBodyHash": "sha256:4dad7b27d2c04ae8",
+          "translatedAt": "2026-07-30T22:54:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -68082,8 +68093,8 @@
           "sourceContentHash": "sha256:a925dd382d90f176",
           "sourceBodyHash": "sha256:2e9a56655129cad4",
           "translatedAt": "2026-07-31T02:01:51+08:00",
-          "translationLastCommit": "26a727c9",
-          "translationLastModified": "2026-07-24T15:47:25+08:00",
+          "translationLastCommit": "73d60edd",
+          "translationLastModified": "2026-07-31T04:01:39+08:00",
           "inferred": false,
           "footnoteDefs": 74,
           "status": "fresh",
@@ -81538,8 +81549,8 @@
           "sourceContentHash": "sha256:e7632bbdde015839",
           "sourceBodyHash": "sha256:e1150c885b006baf",
           "translatedAt": "2026-07-31T02:01:51+08:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translationLastCommit": "73d60edd",
+          "translationLastModified": "2026-07-31T04:01:39+08:00",
           "inferred": false,
           "footnoteDefs": 65,
           "status": "fresh",
@@ -84691,8 +84702,8 @@
           "sourceContentHash": "sha256:9e044da79052e1d4",
           "sourceBodyHash": "sha256:0b3e476aa45a53ca",
           "translatedAt": "2026-07-31T02:01:51+08:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translationLastCommit": "73d60edd",
+          "translationLastModified": "2026-07-31T04:01:39+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
