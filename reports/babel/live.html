@@ -1,298 +1,44 @@
-<!doctype html>
-<html lang="zh-Hant">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>巴別塔脈搏 — Taiwan.md</title>
-    <style>
-      :root {
-        --bg: #faf9f7;
-        --fg: #1a1a19;
-        --mut: #6b7280;
-        --line: #e5e3dd;
-        --card: #fff;
-      }
-      @media (prefers-color-scheme: dark) {
-        :root {
-          --bg: #141413;
-          --fg: #f5f5f4;
-          --mut: #9ca3af;
-          --line: #2c2c2a;
-          --card: #1c1c1b;
-        }
-      }
-      * {
-        box-sizing: border-box;
-      }
-      body {
-        margin: 0;
-        padding: 20px;
-        background: var(--bg);
-        color: var(--fg);
-        font:
-          14px/1.6 -apple-system,
-          'Noto Sans TC',
-          sans-serif;
-      }
-      h1 {
-        font-size: 18px;
-        font-weight: 500;
-        margin: 0 0 2px;
-      }
-      .sub {
-        color: var(--mut);
-        font-size: 12px;
-        margin-bottom: 16px;
-      }
-      .kpis {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
-        gap: 10px;
-        margin-bottom: 18px;
-      }
-      .kpi {
-        background: var(--card);
-        border: 1px solid var(--line);
-        border-radius: 10px;
-        padding: 12px;
-      }
-      .kpi u {
-        display: block;
-        color: var(--mut);
-        font-size: 11px;
-        text-decoration: none;
-        margin-bottom: 4px;
-      }
-      .kpi strong {
-        font-size: 22px;
-        font-weight: 500;
-      }
-      .kpi em {
-        font-style: normal;
-        font-size: 11px;
-        color: var(--mut);
-      }
-      .row {
-        display: flex;
-        align-items: center;
-        gap: 8px;
-        margin-bottom: 6px;
-      }
-      .nm {
-        width: 92px;
-        text-align: right;
-        color: var(--mut);
-        font-size: 12px;
-        flex: none;
-      }
-      .track {
-        flex: 1;
-        height: 14px;
-        background: var(--line);
-        border-radius: 4px;
-        overflow: hidden;
-        display: flex;
-      }
-      .track i {
-        background: #2a78d6;
-      }
-      .track b {
-        background: #a8c9ee;
-      }
-      .pct {
-        width: 48px;
-        text-align: right;
-        font-size: 12px;
-        font-weight: 500;
-      }
-      .dt {
-        width: 34px;
-        text-align: right;
-        font-size: 11px;
-      }
-      .chip {
-        display: inline-block;
-        background: var(--card);
-        border: 1px solid var(--line);
-        border-radius: 999px;
-        padding: 3px 10px;
-        margin: 0 6px 6px 0;
-        font-size: 11px;
-      }
-      .chip i {
-        font-style: normal;
-        color: var(--mut);
-      }
-      .chip.warn {
-        color: #dc2626;
-      }
-      h2 {
-        font-size: 13px;
-        font-weight: 500;
-        color: var(--mut);
-        margin: 18px 0 8px;
-      }
-      svg {
-        width: 100%;
-        height: 70px;
-        display: block;
-      }
-    </style>
-  </head>
-  <body>
-    <h1>🗼 巴別塔脈搏</h1>
-    <div class="sub">
-      2026-07-30 11:59:05 ／ 每 15 分鐘自動更新（launchd 常駐儀器，非 session
-      觸發）
-    </div>
-    <div class="kpis">
-      <div class="kpi">
-        <u>總缺口 stale+missing</u><strong>2,117</strong
-        ><em style="color: #9ca3af">＝0 vs 上一跳</em>
-      </div>
-      <div class="kpi">
-        <u>近 1 小時淨增</u><strong>+13</strong><em>12.2 篇／小時</em>
-      </div>
-      <div class="kpi">
-        <u>粗估到 100%</u><strong>7.2</strong><em>天（依當前速率）</em>
-      </div>
-      <div class="kpi">
-        <u>語言數</u><strong>11</strong><em>zh 母本 875 篇</em>
-      </div>
-    </div>
-    <svg viewBox="0 0 100 100" preserveAspectRatio="none">
-      <polyline
-        fill="none"
-        stroke="#2a78d6"
-        stroke-width="0.8"
-        vector-effect="non-scaling-stroke"
-        points="0.00,0.00 1.05,1.14 2.11,1.14 3.16,1.14 4.21,2.27 5.26,3.41 6.32,3.41 7.37,4.55 8.42,5.68 9.47,6.82 10.53,6.82 11.58,6.82 12.63,7.95 13.68,9.09 14.74,10.23 15.79,10.23 16.84,10.23 17.89,10.23 18.95,10.23 20.00,10.23 21.05,10.23 22.11,10.23 23.16,11.36 24.21,11.36 25.26,11.36 26.32,12.50 27.37,14.77 28.42,15.91 29.47,17.05 30.53,17.05 31.58,17.05 32.63,17.05 33.68,18.18 34.74,19.32 35.79,19.32 36.84,20.45 37.89,20.45 38.95,20.45 40.00,20.45 41.05,21.59 42.11,22.73 43.16,22.73 44.21,22.73 45.26,22.73 46.32,23.86 47.37,25.00 48.42,26.14 49.47,27.27 50.53,30.68 51.58,30.68 52.63,31.82 53.68,31.82 54.74,31.82 55.79,35.23 56.84,35.23 57.89,39.77 58.95,39.77 60.00,39.77 61.05,40.91 62.11,43.18 63.16,50.00 64.21,53.41 65.26,53.41 66.32,53.41 67.37,56.82 68.42,57.95 69.47,59.09 70.53,61.36 71.58,62.50 72.63,62.50 73.68,63.64 74.74,64.77 75.79,67.05 76.84,69.32 77.89,69.32 78.95,70.45 80.00,71.59 81.05,78.41 82.11,80.68 83.16,82.95 84.21,84.09 85.26,84.09 86.32,85.23 87.37,88.64 88.42,92.05 89.47,93.18 90.53,93.18 91.58,93.18 92.63,94.32 93.68,95.45 94.74,96.59 95.79,97.73 96.84,98.86 97.89,100.00 98.95,64.77 100.00,64.77"
-      />
-    </svg>
-    <div class="sub" style="margin-top: 2px">
-      總缺口趨勢（最近 96 跳，越低越好）
-    </div>
-    <h2>語言覆蓋（深＝最新 fresh／淺＝可讀 stale；右欄為對上一跳 Δfresh）</h2>
-    <div class="row">
-      <span class="nm">Français</span>
-      <div class="track">
-        <i style="width: 95.77%"></i><b style="width: 3.43%"></b>
-      </div>
-      <span class="pct">99.2%</span
-      ><span class="dt" style="color: #9ca3af">·</span>
-    </div>
-    <div class="row">
-      <span class="nm">한국어</span>
-      <div class="track">
-        <i style="width: 96.23%"></i><b style="width: 2.74%"></b>
-      </div>
-      <span class="pct">99.0%</span
-      ><span class="dt" style="color: #9ca3af">·</span>
-    </div>
-    <div class="row">
-      <span class="nm">Español</span>
-      <div class="track">
-        <i style="width: 96%"></i><b style="width: 2.97%"></b>
-      </div>
-      <span class="pct">99.0%</span
-      ><span class="dt" style="color: #9ca3af">·</span>
-    </div>
-    <div class="row">
-      <span class="nm">日本語</span>
-      <div class="track">
-        <i style="width: 94.29%"></i><b style="width: 4.57%"></b>
-      </div>
-      <span class="pct">98.9%</span
-      ><span class="dt" style="color: #9ca3af">·</span>
-    </div>
-    <div class="row">
-      <span class="nm">English</span>
-      <div class="track">
-        <i style="width: 93.49%"></i><b style="width: 4%"></b>
-      </div>
-      <span class="pct">97.5%</span
-      ><span class="dt" style="color: #9ca3af">·</span>
-    </div>
-    <div class="row">
-      <span class="nm">Português</span>
-      <div class="track">
-        <i style="width: 85.94%"></i><b style="width: 0.69%"></b>
-      </div>
-      <span class="pct">86.6%</span
-      ><span class="dt" style="color: #9ca3af">·</span>
-    </div>
-    <div class="row">
-      <span class="nm">Русский</span>
-      <div class="track">
-        <i style="width: 73.37%"></i><b style="width: 0%"></b>
-      </div>
-      <span class="pct">73.4%</span
-      ><span class="dt" style="color: #9ca3af">·</span>
-    </div>
-    <div class="row">
-      <span class="nm">العربية</span>
-      <div class="track">
-        <i style="width: 70.06%"></i><b style="width: 0%"></b>
-      </div>
-      <span class="pct">70.1%</span
-      ><span class="dt" style="color: #9ca3af">·</span>
-    </div>
-    <div class="row">
-      <span class="nm">हिन्दी</span>
-      <div class="track">
-        <i style="width: 62.4%"></i><b style="width: 0%"></b>
-      </div>
-      <span class="pct">62.4%</span
-      ><span class="dt" style="color: #9ca3af">·</span>
-    </div>
-    <div class="row">
-      <span class="nm">Indonesia</span>
-      <div class="track">
-        <i style="width: 51.66%"></i><b style="width: 0.11%"></b>
-      </div>
-      <span class="pct">51.8%</span
-      ><span class="dt" style="color: #9ca3af">·</span>
-    </div>
-    <div class="row">
-      <span class="nm">Tiếng Việt</span>
-      <div class="track">
-        <i style="width: 38.86%"></i><b style="width: 0.91%"></b>
-      </div>
-      <span class="pct">39.8%</span
-      ><span class="dt" style="color: #9ca3af">·</span>
-    </div>
-    <h2>產線</h2>
-    <span class="chip">unified:ja,id,pt,hi,ar,ru pid 66392 · 08:03:18</span>
-    <h2>節點／worker（ok/總，通過率）</h2>
-    <span class="chip">🟢 desktop-3090</span
-    ><span class="chip">🔴 laptop-4090</span
-    ><span class="chip">🔴 laptop-5090</span><span class="chip">🟢 local</span
-    ><span class="chip">🟢 mac-m4max</span
-    ><span class="chip">d3090 <b>9</b>/65 <i>14%</i></span
-    ><span class="chip">dead <b>0</b>/1 <i>0%</i></span
-    ><span class="chip">desktop3090 <b>0</b>/23 <i>0%</i></span
-    ><span class="chip">desktop30901 <b>15</b>/70 <i>21%</i></span
-    ><span class="chip">desktop30902 <b>9</b>/75 <i>12%</i></span
-    ><span class="chip">desktop30903 <b>8</b>/63 <i>13%</i></span
-    ><span class="chip">gemma31 <b>0</b>/9 <i>0%</i></span
-    ><span class="chip">l4090 <b>47</b>/195 <i>24%</i></span
-    ><span class="chip">laguna <b>23</b>/103 <i>22%</i></span
-    ><span class="chip">laguna2 <b>31</b>/125 <i>25%</i></span
-    ><span class="chip">laguna3 <b>26</b>/106 <i>25%</i></span
-    ><span class="chip">laptop40901 <b>13</b>/126 <i>10%</i></span
-    ><span class="chip">laptop40902 <b>12</b>/96 <i>12%</i></span
-    ><span class="chip">laptop40903 <b>9</b>/81 <i>11%</i></span
-    ><span class="chip">mac <b>43</b>/229 <i>19%</i></span
-    ><span class="chip">mac1 <b>0</b>/1 <i>0%</i></span
-    ><span class="chip">mac2 <b>1</b>/2 <i>50%</i></span
-    ><span class="chip">mac3 <b>0</b>/1 <i>0%</i></span
-    ><span class="chip">macm4max <b>3</b>/16 <i>19%</i></span
-    ><span class="chip">macm4max1 <b>0</b>/3 <i>0%</i></span
-    ><span class="chip">macm4max2 <b>0</b>/2 <i>0%</i></span
-    ><span class="chip">macm4max3 <b>0</b>/2 <i>0%</i></span
-    ><span class="chip">nemo <b>203</b>/560 <i>36%</i></span
-    ><span class="chip">nemo2 <b>181</b>/504 <i>36%</i></span
-    ><span class="chip">nemo3 <b>208</b>/528 <i>39%</i></span
-    ><span class="chip">nemo4 <b>182</b>/510 <i>36%</i></span>
-  </body>
-</html>
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>巴別塔脈搏 — Taiwan.md</title>
+<style>
+:root{--bg:#faf9f7;--fg:#1a1a19;--mut:#6b7280;--line:#e5e3dd;--card:#fff}
+@media(prefers-color-scheme:dark){:root{--bg:#141413;--fg:#f5f5f4;--mut:#9ca3af;--line:#2c2c2a;--card:#1c1c1b}}
+*{box-sizing:border-box}
+body{margin:0;padding:20px;background:var(--bg);color:var(--fg);
+font:14px/1.6 -apple-system,"Noto Sans TC",sans-serif}
+h1{font-size:18px;font-weight:500;margin:0 0 2px}
+.sub{color:var(--mut);font-size:12px;margin-bottom:16px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:18px}
+.kpi{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px}
+.kpi u{display:block;color:var(--mut);font-size:11px;text-decoration:none;margin-bottom:4px}
+.kpi strong{font-size:22px;font-weight:500}
+.kpi em{font-style:normal;font-size:11px;color:var(--mut)}
+.row{display:flex;align-items:center;gap:8px;margin-bottom:6px}
+.nm{width:92px;text-align:right;color:var(--mut);font-size:12px;flex:none}
+.track{flex:1;height:14px;background:var(--line);border-radius:4px;overflow:hidden;display:flex}
+.track i{background:#2a78d6} .track b{background:#a8c9ee}
+.pct{width:48px;text-align:right;font-size:12px;font-weight:500}
+.dt{width:34px;text-align:right;font-size:11px}
+.chip{display:inline-block;background:var(--card);border:1px solid var(--line);
+border-radius:999px;padding:3px 10px;margin:0 6px 6px 0;font-size:11px}
+.chip i{font-style:normal;color:var(--mut)} .chip.warn{color:#dc2626}
+h2{font-size:13px;font-weight:500;color:var(--mut);margin:18px 0 8px}
+svg{width:100%;height:70px;display:block}
+</style></head><body>
+<h1>🗼 巴別塔脈搏</h1>
+<div class="sub">2026-07-31 00:01:17 ／ 每 15 分鐘自動更新（launchd 常駐儀器，非 session 觸發）</div>
+<div class="kpis">
+<div class="kpi"><u>總缺口 stale+missing</u><strong>2,187</strong><em style="color:#16a34a">▼1 vs 上一跳</em></div>
+<div class="kpi"><u>近 1 小時淨增</u><strong>+-95</strong><em>-8.7 篇／小時</em></div>
+<div class="kpi"><u>粗估到 100%</u><strong>—</strong><em>天（依當前速率）</em></div>
+<div class="kpi"><u>語言數</u><strong>11</strong><em>zh 母本 875 篇</em></div>
+</div>
+<svg viewBox="0 0 100 100" preserveAspectRatio="none"><polyline fill="none"
+stroke="#2a78d6" stroke-width="0.8" vector-effect="non-scaling-stroke" points="0.00,16.43 1.05,16.43 2.11,16.43 3.16,16.43 4.21,16.43 5.26,16.43 6.32,16.43 7.37,16.43 8.42,17.14 9.47,17.14 10.53,17.14 11.58,17.86 12.63,19.29 13.68,20.00 14.74,20.71 15.79,20.71 16.84,20.71 17.89,20.71 18.95,21.43 20.00,22.14 21.05,22.14 22.11,22.86 23.16,22.86 24.21,22.86 25.26,22.86 26.32,23.57 27.37,24.29 28.42,24.29 29.47,24.29 30.53,24.29 31.58,25.00 32.63,25.71 33.68,26.43 34.74,27.14 35.79,29.29 36.84,29.29 37.89,30.00 38.95,30.00 40.00,30.00 41.05,32.14 42.11,32.14 43.16,35.00 44.21,35.00 45.26,35.00 46.32,35.71 47.37,37.14 48.42,41.43 49.47,43.57 50.53,43.57 51.58,43.57 52.63,45.71 53.68,46.43 54.74,47.14 55.79,48.57 56.84,49.29 57.89,49.29 58.95,50.00 60.00,50.71 61.05,52.14 62.11,53.57 63.16,53.57 64.21,54.29 65.26,55.00 66.32,59.29 67.37,60.71 68.42,62.14 69.47,62.86 70.53,62.86 71.58,63.57 72.63,65.71 73.68,67.86 74.74,68.57 75.79,68.57 76.84,68.57 77.89,69.29 78.95,70.00 80.00,70.71 81.05,71.43 82.11,72.14 83.16,72.86 84.21,75.71 85.26,79.29 86.32,82.14 87.37,82.86 88.42,82.86 89.47,83.57 90.53,50.71 91.58,50.71 92.63,84.29 93.68,87.14 94.74,87.86 95.79,95.71 96.84,100.00 97.89,80.00 98.95,0.00 100.00,0.71"/></svg>
+<div class="sub" style="margin-top:2px">總缺口趨勢（最近 96 跳，越低越好）</div>
+<h2>語言覆蓋（深＝最新 fresh／淺＝可讀 stale；右欄為對上一跳 Δfresh）</h2>
+<div class="row"><span class="nm">Français</span><div class="track"><i style="width:95.09%"></i><b style="width:4.11%"></b></div><span class="pct">99.2%</span><span class="dt" style="color:#9ca3af">·</span></div><div class="row"><span class="nm">한국어</span><div class="track"><i style="width:95.89%"></i><b style="width:3.09%"></b></div><span class="pct">99.0%</span><span class="dt" style="color:#9ca3af">·</span></div><div class="row"><span class="nm">Español</span><div class="track"><i style="width:95.31%"></i><b style="width:3.66%"></b></div><span class="pct">99.0%</span><span class="dt" style="color:#9ca3af">·</span></div><div class="row"><span class="nm">日本語</span><div class="track"><i style="width:92.34%"></i><b style="width:6.51%"></b></div><span class="pct">98.9%</span><span class="dt" style="color:#9ca3af">·</span></div><div class="row"><span class="nm">English</span><div class="track"><i style="width:92.91%"></i><b style="width:4.57%"></b></div><span class="pct">97.5%</span><span class="dt" style="color:#9ca3af">·</span></div><div class="row"><span class="nm">Português</span><div class="track"><i style="width:84.34%"></i><b style="width:2.86%"></b></div><span class="pct">87.2%</span><span class="dt" style="color:#9ca3af">·</span></div><div class="row"><span class="nm">Русский</span><div class="track"><i style="width:72.46%"></i><b style="width:2.06%"></b></div><span class="pct">74.5%</span><span class="dt" style="color:#16a34a">+1</span></div><div class="row"><span class="nm">العربية</span><div class="track"><i style="width:69.26%"></i><b style="width:2.06%"></b></div><span class="pct">71.3%</span><span class="dt" style="color:#9ca3af">·</span></div><div class="row"><span class="nm">हिन्दी</span><div class="track"><i style="width:62.74%"></i><b style="width:0.91%"></b></div><span class="pct">63.7%</span><span class="dt" style="color:#9ca3af">·</span></div><div class="row"><span class="nm">Indonesia</span><div class="track"><i style="width:51.66%"></i><b style="width:0.80%"></b></div><span class="pct">52.5%</span><span class="dt" style="color:#9ca3af">·</span></div><div class="row"><span class="nm">Tiếng Việt</span><div class="track"><i style="width:38.06%"></i><b style="width:1.83%"></b></div><span class="pct">39.9%</span><span class="dt" style="color:#9ca3af">·</span></div>
+<h2>產線</h2><span class="chip">unified:en,es,fr,ko pid 75572 · 01:06:52</span><span class="chip">unified:ja,id,pt,hi,ar,ru pid 75580 · 01:06:52</span>
+<h2>節點／worker（ok/總，通過率）</h2><span class="chip">🟢 desktop-3090</span><span class="chip">🟢 laptop-4090</span><span class="chip">🔴 laptop-5090</span><span class="chip">🟢 local</span><span class="chip">🟢 mac-m4max</span><span class="chip">d3090 <b>9</b>/65 <i>14%</i></span><span class="chip">dead <b>0</b>/1 <i>0%</i></span><span class="chip">desktop3090 <b>0</b>/28 <i>0%</i></span><span class="chip">desktop30901 <b>15</b>/70 <i>21%</i></span><span class="chip">desktop30902 <b>9</b>/75 <i>12%</i></span><span class="chip">desktop30903 <b>8</b>/63 <i>13%</i></span><span class="chip">gemma31 <b>0</b>/9 <i>0%</i></span><span class="chip">l4090 <b>47</b>/195 <i>24%</i></span><span class="chip">laguna <b>23</b>/103 <i>22%</i></span><span class="chip">laguna2 <b>31</b>/125 <i>25%</i></span><span class="chip">laguna3 <b>26</b>/106 <i>25%</i></span><span class="chip">laptop40901 <b>13</b>/126 <i>10%</i></span><span class="chip">laptop40902 <b>12</b>/96 <i>12%</i></span><span class="chip">laptop40903 <b>9</b>/81 <i>11%</i></span><span class="chip">mac <b>43</b>/229 <i>19%</i></span><span class="chip">mac1 <b>0</b>/1 <i>0%</i></span><span class="chip">mac2 <b>1</b>/2 <i>50%</i></span><span class="chip">mac3 <b>0</b>/1 <i>0%</i></span><span class="chip">macm4max <b>3</b>/19 <i>16%</i></span><span class="chip">macm4max1 <b>0</b>/3 <i>0%</i></span><span class="chip">macm4max2 <b>0</b>/2 <i>0%</i></span><span class="chip">macm4max3 <b>0</b>/2 <i>0%</i></span><span class="chip">nemo <b>213</b>/581 <i>37%</i></span><span class="chip">nemo2 <b>193</b>/525 <i>37%</i></span><span class="chip">nemo3 <b>221</b>/553 <i>40%</i></span><span class="chip">nemo4 <b>189</b>/523 <i>36%</i></span>
+</body></html>
