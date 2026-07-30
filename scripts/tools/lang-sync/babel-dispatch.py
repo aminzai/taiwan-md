@@ -1093,6 +1093,21 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
         if not ok:
             state.quarantine_log[lang].add(zh_path)
             state.fail_counts[f"{lang}:{zh_path}"] += 1
+            # 每次失敗即時 flush 難篇記憶（2026-07-31）：原本只在 commit-every-50
+            # 落盤，低通過率時整個 run 一次都沒存；產線重啟後記憶歸零，兩篇
+            # 隊首難篇（外送專法／苯駢芘）在同一天被三次重啟各重撞一輪。
+            # 磁碟寫入走 max-merge（別條產線可能剛寫過），檔案小、失敗頻率低，
+            # 每次 flush 的成本遠低於一次 500-1700s 的重複撞牆。
+            try:
+                merged = dict(state.fail_counts)
+                if FAIL_MEMO.exists():
+                    for k, v in json.loads(FAIL_MEMO.read_text(encoding="utf-8")).items():
+                        if v > merged.get(k, 0):
+                            merged[k] = v
+                FAIL_MEMO.write_text(json.dumps(merged, ensure_ascii=False),
+                                     encoding="utf-8")
+            except Exception:
+                pass
         state.in_flight.discard(f"{lang}:{zh_path}")
 
     # Worker health: 3 consecutive hard failures (exit!=0 AND the backend
