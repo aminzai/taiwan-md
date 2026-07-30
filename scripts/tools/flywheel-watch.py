@@ -10,6 +10,10 @@
 所以這條檢查刻意跑在**不營運的那台**：它的唯一資訊來源是 `origin/main` 的 commit 紀錄，
 git 是兩台機器都騙不了的 ground truth。飛輪在別的地方死掉，這裡看得見。
 
+排程表、MEMORY 索引、live dump 三份判斷素材一律用 `git show origin/main:` 讀（見
+`read_from_origin`）——這條 routine 不 pull，本機工作樹可能落後好幾天，混 ref 會讓
+儀器量到「這台多久沒 pull」。
+
 ## 判準
 
     CRITICAL  過去 24 小時 origin/main 零筆 🧬 [routine] commit  → 飛輪整體停轉
@@ -48,9 +52,9 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent.parent
-ROUTINE_SSOT = REPO_ROOT / "docs" / "semiont" / "ROUTINE.md"
-MEMORY_INDEX = REPO_ROOT / "docs" / "semiont" / "MEMORY.md"
-LIVE_STATE = REPO_ROOT / "docs" / "semiont" / "routine-live-state.json"
+ROUTINE_SSOT = "docs/semiont/ROUTINE.md"
+MEMORY_INDEX = "docs/semiont/MEMORY.md"
+LIVE_STATE = "docs/semiont/routine-live-state.json"
 LIVE_STALE_HOURS = 48
 # 索引列：| YYYY-MM-DD | HHMMSS-handle | 摘要 | 教訓 | link |
 MEMORY_ROW = re.compile(r"^\|\s*(\d{4}-\d{2}-\d{2})\s*\|\s*(\d{6})-([a-z0-9-]+)\s*\|")
@@ -64,6 +68,37 @@ def local_node_name():
         return f.read_text(encoding="utf-8").strip().splitlines()[0].strip()
     except (OSError, IndexError):
         return ""
+
+
+def read_from_origin(relpath):
+    """讀 `origin/main` 上那份檔案；讀不到就退回本機工作樹並在 stderr 說一聲。
+
+    這條 routine 刻意不 pull（指揮部這台常有平行 babel 產線在動工作樹），所以本機
+    檔案可能落後 origin 好幾天。判斷素材必須跟 commit 紀錄讀同一個 ref，否則量到的
+    是「這台多久沒 pull」而不是「飛輪多久沒動」——同一支儀器裡兩個 ref 混用，就是
+    它自己 docstring 警告過的那種量錯層。
+
+    2026-07-30 首次現形：origin 的 live dump 齡 3.3 小時，工作樹讀成 27.3 小時，差
+    整整一天。當天沒越過 48 小時門檻所以沒亮燈，但這台再多落後一天，就會對著一個
+    健康的飛輪亮假黃燈——而假黃燈正是 7/28 那盞真黃燈（#22）要人分辨的東西。
+    """
+    r = subprocess.run(
+        ["git", "show", f"origin/main:{relpath}"],
+        cwd=REPO_ROOT,
+        capture_output=True,
+        text=True,
+        check=False,
+    )
+    if r.returncode == 0:
+        return r.stdout
+    print(
+        f"flywheel-watch: origin/main 上讀不到 {relpath}，改讀本機工作樹（可能落後）",
+        file=sys.stderr,
+    )
+    try:
+        return (REPO_ROOT / relpath).read_text(encoding="utf-8")
+    except OSError:
+        return None
 
 
 def belongs_to_this_node(row_text, node):
@@ -87,11 +122,12 @@ def memory_index_handles(window_start, now):
     成靜默。同一種「名字的替身」前一晚才讓 weekly-report 誤報 maintainer-daily
     靜默死亡（REFLEXES #69 每層自評都需要外部尺 / #82 訊號別選代理）。
     """
-    if not MEMORY_INDEX.exists():
+    text = read_from_origin(MEMORY_INDEX)
+    if text is None:
         return set()
     hits = set()
     tz = now.tzinfo
-    for line in MEMORY_INDEX.read_text(encoding="utf-8").splitlines():
+    for line in text.splitlines():
         m = MEMORY_ROW.match(line)
         if not m:
             continue
@@ -117,7 +153,8 @@ def parse_enabled_routines():
     區塊判定跟 routine-sync.py 同一套（認表不只認字）——那邊踩過「PAUSED 表裡的列
     沒有 ⏸️ 字樣就被當 enabled」的坑，這裡不重犯。
     """
-    if not ROUTINE_SSOT.exists():
+    text = read_from_origin(ROUTINE_SSOT)
+    if text is None:
         print(f"flywheel-watch: 讀不到 {ROUTINE_SSOT}", file=sys.stderr)
         sys.exit(2)
     out, section, node = {}, "schedule", local_node_name()
@@ -129,7 +166,7 @@ def parse_enabled_routines():
             "帶 🖥️ 節點標記的 routine 這次不納入檢查",
             file=sys.stderr,
         )
-    for line in ROUTINE_SSOT.read_text(encoding="utf-8").splitlines():
+    for line in text.splitlines():
         if "⏸️ PAUSED" in line:
             section = "paused"
         elif "🪦 已退休" in line:
@@ -244,9 +281,10 @@ def main():
             silent.append(task_id)
 
     live_age = None
-    if LIVE_STATE.exists():
+    live_text = read_from_origin(LIVE_STATE)
+    if live_text is not None:
         try:
-            fetched = json.loads(LIVE_STATE.read_text(encoding="utf-8")).get("fetched_at")
+            fetched = json.loads(live_text).get("fetched_at")
             dt = datetime.fromisoformat(fetched)
             live_age = (datetime.now(dt.tzinfo or timezone.utc) - dt).total_seconds() / 3600
         except (json.JSONDecodeError, ValueError, TypeError):
