@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-31T07:37:45+08:00",
-    "zhCommitHead": "3b349a9fa",
+    "lastUpdated": "2026-07-31T07:41:34+08:00",
+    "zhCommitHead": "0b8216adf",
     "totalZh": 875,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 875,
-        "fresh": 833,
-        "stale": 30,
+        "fresh": 834,
+        "stale": 29,
         "metadata_stale": 2,
         "missing": 10,
         "orphan": 0
@@ -43,10 +43,10 @@
       },
       "es": {
         "total_zh": 875,
-        "fresh": 846,
+        "fresh": 847,
         "stale": 20,
         "metadata_stale": 0,
-        "missing": 9,
+        "missing": 8,
         "orphan": 0
       },
       "fr": {
@@ -83,10 +83,10 @@
       },
       "hi": {
         "total_zh": 875,
-        "fresh": 566,
+        "fresh": 567,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 307,
+        "missing": 306,
         "orphan": 0
       },
       "ar": {
@@ -13814,7 +13814,18 @@
           "reason": "same-commit"
         },
         "es": {
-          "status": "missing"
+          "path": "es/Technology/taiwan-tungsten-supply-chain.md",
+          "translatedFrom": "Technology/台灣鎢供應鏈.md",
+          "sourceCommitSha": "d6fdcf866",
+          "sourceContentHash": "sha256:56ac16371a296013",
+          "sourceBodyHash": "sha256:0ba20d6588799dfb",
+          "translatedAt": "2026-07-31T04:48:15+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 42,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/taiwan-tungsten-supply-chain.md",
@@ -21494,8 +21505,8 @@
           "sourceContentHash": "sha256:727c897f10782c2b",
           "sourceBodyHash": "sha256:3b63599a42d7872a",
           "translatedAt": "2026-07-30T22:54:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0b8216ad",
+          "translationLastModified": "2026-07-31T07:37:45+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -25317,8 +25328,8 @@
           "sourceContentHash": "sha256:e97160f506bdd53f",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-30T23:29:08.621029+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0b8216ad",
+          "translationLastModified": "2026-07-31T07:37:45+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -52445,8 +52456,8 @@
           "sourceContentHash": "sha256:11c48f00ef5f2757",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-30T21:55:48.043043+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0b8216ad",
+          "translationLastModified": "2026-07-31T07:37:45+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -53187,8 +53198,8 @@
           "sourceContentHash": "sha256:8130ad5ab40eae13",
           "sourceBodyHash": "sha256:f699c0cd2ccbe17d",
           "translatedAt": "2026-07-30T22:54:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0b8216ad",
+          "translationLastModified": "2026-07-31T07:37:45+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -80361,7 +80372,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/cheng-li-wun.md",
+          "translatedFrom": "People/鄭麗文.md",
+          "sourceCommitSha": "dd39065b2",
+          "sourceContentHash": "sha256:d7d8adfe5a1c7158",
+          "sourceBodyHash": "sha256:119c3d104b24e9dd",
+          "translatedAt": "2026-07-30T22:54:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/cheng-li-wun.md",
@@ -84063,18 +84085,16 @@
         "ja": {
           "path": "ja/People/chi-huai-hsin.md",
           "translatedFrom": "People/紀懷新.md",
-          "sourceCommitSha": "489ea1601",
-          "sourceContentHash": "sha256:50346fd81e3daf96",
-          "sourceBodyHash": "sha256:64d75052423ad414",
+          "sourceCommitSha": "95f42de8",
+          "sourceContentHash": "sha256:53560e337a2fa524",
+          "sourceBodyHash": "sha256:826517ecee263b74",
           "translatedAt": "2026-06-28T00:38:05+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 15,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -5"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/chi-huai-hsin.md",
