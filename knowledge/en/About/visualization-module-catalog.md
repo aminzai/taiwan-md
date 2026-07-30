@@ -1,220 +1,233 @@
 ---
-title: 'Visualization Module Catalog: Seventeen Ways to See Taiwan Data'
-description: "Taiwan.md's live examples of visualization modules—using real Taiwan housing and population data to render each tw-* visualization module once, together with the syntax and design principles from graph.md."
+title: "Visualization Module Catalog: Nineteen Ways to See Taiwan's Data"
+description: "A live demonstration of Taiwan.md article visualization modules—rendering all nineteen `tw-*` modules once using real data on Taiwan's housing, population, healthcare, and legislature, paired with the syntax and design principles of graph.md."
 date: 2026-06-06
 category: 'About'
-tags:
-  - 'Data Visualization'
-  - 'Housing Justice'
-  - 'Housing Policy'
-  - 'Open Data'
+tags: ['Data Visualization', 'Housing Justice', 'Housing Policy', 'Open Data']
 author: 'Taiwan.md'
 readingTime: 11
 featured: false
 lastVerified: 2026-06-12
 lastHumanReview: false
-translatedFrom: 'About/視覺化模組型錄.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:38fecc11c893b25a'
-sourceBodyHash: 'sha256:09331c2942b129a6'
-translatedAt: '2026-06-13T00:46:21+08:00'
 image: '/article-images/society/taipei-skyline-housing-2026.webp'
 imageCredit: 'Heeheemalu'
 imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg'
+relatedDiary: ['2026-07-16-222859-viz-evolution']
+translatedFrom: 'About/視覺化模組型錄.md'
+sourceCommitSha: '21298a7ae'
+sourceContentHash: 'sha256:6617087ac0d0a536'
+sourceBodyHash: 'sha256:f6a2ecc9e1606c44'
+translatedAt: '2026-07-31T02:01:51+08:00'
 ---
 
-# Visualization Module Catalog: Seventeen Ways to See Taiwan Data
+# Visualization Module Catalog: Nineteen Ways to See Taiwan's Data
 
-> **30‑second overview:** This page is the “live example” of Taiwan.md’s visualization system—rendering each of the seventeen article‑level visualization modules once, all with real Taiwan data (price‑to‑income ratio, public housing, aging, referendums). It is the companion to the editorial guide [graph.md](https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/graph.md): **graph.md explains “when to use which, how to do it well, and the syntax,” and this page shows you exactly “what it looks like.”** Each module is pure HTML/SVG, so people, screen readers, Google, and AI crawlers all read the same data—this is why we choose static visualizations over interactive charts.
+> **30-Second Overview:** This page is a "live demo" of the Taiwan.md visualization system—rendering each of the nineteen article visualization modules once, all using real Taiwanese data (price-to-income ratio, public housing, aging population, referendums, nurse-to-patient ratio, legislative seats). It is the companion to the editorial guide [graph.md](https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/graph.md): **while graph.md explains "when to use which, how to do it well, and how to write the syntax," this page lets you see "exactly what it looks to look like."** Every module is rendered using pure HTML/SVG, so humans, screen readers, Google, and AI crawlers all read the exact same data—this is precisely why we chose static visualization over interactive charts.
 
-When writing a data‑heavy article, the biggest fear is turning the information into a wall of numbers that makes readers tune out after the third percentage point. Visualization’s job is to turn “dense numeric prose” into “a structure readable at a glance.”
+When writing an article about numbers, the greatest fear is turning data into a pile of consecutive digits, where readers zone out by the third percentage. The job of visualization is to reduce the entropy of "dense numerical prose" into "instantly readable structures."
 
-But Taiwan.md’s visualizations follow a discipline that others lack: **we only make visualizations that LLMs can also understand.** An interactive D3 or Canvas chart may look flashy, but GPTBot, PerplexityBot, ClaudeBot and similar AI crawlers do not execute JavaScript; to them the chart is a blank space. Our charts, built with semantic HTML and inline SVG, embed the data directly in the source code, so AI can read and cite Taiwan’s first‑person data in any of the six supported languages. **Visualizations that LLMs can read are sovereign visualizations.**
+However, Taiwan.md's visualization follows a discipline others do not: **we only create visualizations that "are also readable by LLMs."** An interactive chart drawn with D3 or Canvas might look flashy, but AI crawlers like GPTBot, PerplexityBot, and ClaudeBot do not run JavaScript; to them, that chart is a blank void. Because we use semantic HTML and inline SVG, the data exists within the source code, allowing AI to read and cite Taiwan's first-person data across six languages. **Visualization that is readable by LLMs is the visualization of sovereignty.**
 
-The seventeen modules below range from the simplest “big number” to “county‑level tile map,” displayed in order. The full syntax and design principles are in graph.md; here we only give a one‑sentence “what it is, when to use it.”
+The following nineteen modules are presented in order, from the simplest "single large number" to "county tile maps" and "seat arcs." The full version of syntax and design principles can be found in graph.md; here, we only provide a brief "what it is and when to use it."
 
-## Data‑Big‑Number `tw-figure`
+## Data Big Figure `tw-figure`
 
-The simplest and most powerful: put a dramatic figure at maximum size, with a before‑and‑after contrast that tells a transformation story. Ideal for an opening “sledgehammer stat.”
+The simplest and most powerful type: place a dramatic number at its maximum scale, using a comparison to tell a story of transformation. Ideal as an introductory "sledgehammer stat."
 
 ```tw-figure
-6.7 萬 → 87 萬 / 坪
-Taipei Chenggong Public Housing 1985’s unsold allocation price versus 2026’s average market price—same address, about 13 × increase
-Real‑estate transaction platform (Chenggong Public Housing)
+67,000 → 870,000 / ping
+The unsold sale price of Taipei Chenggong Public Housing in 1985, compared to the average real estate agent price in 2026—the same address, approximately a 13x increase.
+Real Estate Transaction Registry Platform (Chenggong Public Housing)
 ```
 
-## Data‑Set `tw-stat`
+## Data Group `tw-stat`
 
-When a paragraph contains three or four parallel key figures, instead of a long sentence, lay them out as a row of cards for a quick scan.
+When a paragraph contains three or four parallel key figures, rather than writing a long sentence, arrange them into a row of cards so readers can scan them at a glance.
 
 ```tw-stat
-174,891 households | Government‑built public housing | 1976–1999
-over 390,000 units | Broad public housing total | discontinued in 2015
-84.4% | Nationwide home‑ownership rate | 2024
+174,891 units | Government-built public housing | 1976–1999
+Over 390,000 units | Total broad-definition public housing | Until abolition in 2015
+84.4% | Nationwide homeownership rate | 2024
+Source: Executive Yuan press release on the abolition of the National Housing Act, Ministry of the Interior Real Estate Information Platform
 ```
+
+Data-containing editorial modules (data groups, comparison cards, policy axes) must include a `Source:` tag just like chart modules. A site-wide audit in July 2026 found that modules monitored by automated gateways had a 100% source attribution rate; the three high-frequency modules that were _not_ monitored had a 40% failure rate, leaving examples "naked." They have now been brought into the `viz-health` gateway.
 
 ## Comparison Card `tw-versus`
 
-Side‑by‑side point‑by‑point comparison of two systems, positions, or time periods. Warm colour on the left, cool on the right, with a “vs” in the middle.
+A point-by-point comparison of two systems, two positions, or two states of being. Warm colors on the left, cool colors on the right, with a "vs" in the middle, allowing differences to be read line by line.
 
 ```tw-versus
-Taiwan public housing | Hong Kong Home Ownership Scheme
-Government subsidy, cheap sale to residents | Government subsidy, cheap sale to residents
-Resell at full market price after one year of occupancy | Resell on open market only after “land price subsidy”
-Appreciation almost entirely private | Appreciation reclaimed by the treasury at original discount rate
-Public stock lost in one go | Public benefit recouped later
+Taiwan Public Housing | Hong Kong Home Ownership Scheme
+Government subsidies, sold cheaply to residents | Government subsidies, sold cheaply to residents
+Resale at market price permitted after one year of residency | Resale on the open market requires "land premium" payment
+Almost all capital gains belong to the individual | Capital gains are recouped by the public treasury at the original discount ratio
+One-time loss of public stock | Public profit-sharing is recoverable
+Source: Legislative Yuan Gazette, Hong Kong Housing Authority
 ```
 
-## Proportion Grid `tw-waffle`
+## Proportional Bar `tw-bars`
 
-Shows part‑of‑whole composition; 100 squares represent 100 %. More intuitive than a pie chart—you can actually count the squares. Good for data that sum to roughly 100 %.
+Numerical comparisons or rankings for a small number of categories. The length of horizontal bars scales automatically based on the value, with the maximum value filling the width. Remember to add a `Source:` line at the end of data modules; it will automatically become the source annotation below.
+
+```tw-bars
+National 2014 | 8.41x
+National 2024 | 10.76x
+Taipei 2024 | 16.60x | Historical peak
+Source: Ministry of the Interior Real Estate Information Platform, NCCU Real Estate Research Center
+```
+
+## Waffle Chart `tw-waffle`
+
+The composition of a part relative to a whole. One hundred squares represent one hundred percent, which is more intuitive than a pie chart—you can actually count the squares. Suitable for data where "category totals" approximately equal 100%.
 
 ```tw-waffle
-Housing composition in Vienna (2023)
-Municipal social housing | 21.9
-Limited‑profit social housing | 21.4
-Owner‑occupied housing | 20.4
-Private rentals | 36.3
-Source: City of Vienna (Stadt Wien) housing statistics
+Residential Composition of Vienna (2023)
+Municipal Social Housing | 21.9
+Subsidized Social Housing | 21.4
+Owner-occupied | 20.4
+Private Rental | 36.3
+Source: City of Vienna (Stadt Wien) Housing Statistics
 ```
 
-## Policy Timeline `tw-timeline`
+## Policy Axis `tw-timeline`
 
-Key policy or institutional milestones linked on a timeline. Note this is a “visual aid,” not a chronological heading in the main text.
+The context of key nodes in a system or policy, connected via a nodal timeline. Note that this is "visual assistance"; it is distinct from using chronological headings (e.g., "In 1975...") in the main body text.
 
 ```tw-timeline
-1975 | Public Housing Act enacted | Government built and sold units, set “buyer eligibility” loop, subsidies unavoidable
-2002 | The wall comes down | Legal amendment removes buyer‑eligibility restriction; public housing can be sold after one year of occupancy
-2015 | Public Housing Act repealed | Official rationale: home‑ownership rate reached 85 %; shift to rental‑only public housing
-2026 | Taoyuan reinstates gate | Affordable housing: resale price may not exceed original purchase price
+1975 | National Housing Act enacted | Government built and sold, establishing a closed loop of "buyer eligibility" to prevent subsidy leakage
+2002 | The wall was torn down | Law amended to remove buyer eligibility restrictions; public housing could be sold to anyone after one year
+2015 | National Housing Act abolished | Official reason: Homeownership rate reached 85%; transitioned to social housing (rental only, no sale)
+2026 | Taoyuan reinstates the gate | Affordable housing: Resale price cannot exceed original purchase price
+Source: Legislative Yuan Gazette, Executive Yuan press release on the abolition of the National Housing Act
 ```
 
 ## Quote Card `tw-quote`
 
-When a single sentence captures the core tension of the article, enlarge it as a quote card. The module adds quotation marks automatically; the quote must be verbatim and verifiable.
+When a single sentence represents the core tension of an entire article, enlarge it into a quote card. You do not need to add quotation marks manually; the module will add them. Quotes must be verbatim and verifiable.
 
 ```tw-quote
-A house priced at NT$30 million becomes NT$60–70 million… enriching the rich while impoverishing the poor, the state pays to help the wealthy rebuild.
-Lin Chih‑chun | Lawyer, 2025 proposal “State funds for Chenggong public housing redevelopment”
+"A house worth 30 million on the market becomes a 60 to 70 million house... robbing the poor to aid the rich, with the state using public funds to help the wealthy renovate houses."
+Lin Chih-chun | Lawyer, 2025 proposal criticizing "state-funded urban renewal for Chenggong Public Housing"
 ```
 
-## Source Chip `tw-source`
+## Source Strip `tw-source`
 
-Collect the sources for a paragraph into a low‑key chip placed beside the text. Credibility is part of curation—Taiwan’s digital media often forget to cite sources; this is where we can differ.
+Consolidate the sources of an analytical section into a subtle chip placed next to the paragraph. Credibility is part of curation—Taiwanese digital media often forgets to cite sources; this is where we can do things differently.
 
 ```tw-source
-Ministry of the Interior Real‑Estate Information Platform, Real‑estate Transaction Registry, NCCU Real‑Estate Research Center, Legislative Yuan Gazette, Hong Kong Housing Authority
+Ministry of the Interior Real Estate Information Platform, Real Estate Transaction Registry, NCCU Real/Estate Research Center, Legislative Yuan Gazette, Hong Kong Housing Authority
 ```
 
 ## Note Box `tw-note`
 
-Half of a data article’s credibility lies in “how you calculated it.” Reporters use a **Note** block to explain methodology or issue corrections; we formalize that as a module. The first line is one of: `說明` (Explanation), `方法` (Method), `註` (Note), `更正` (Correction), `更新` (Update); each subsequent line forms its own paragraph.
+Half of the credibility of a data article lies in "how you calculated it." While reporters use [Note] blocks in data journalism to explain methods or (Note) for corrections, we have turned this convention into a module. The first line should be one of: `Note`/`Method`/`Note`/`Correction`/`Update`, with each subsequent line forming its own paragraph.
 
 ```tw-note
-說明
-This page’s “Aging Index” = (population ≥ 65) ÷ (population 0–14) × 100. A value of 100 means equal numbers of elderly and children; higher values indicate a “top‑heavy” population.
-Aging rate and aging index are from the Ministry of the Interior Household Registration Department’s 2025 year‑end statistics; the full analysis of all 22 counties and cities appears in <Using Data to View Taiwan’s 22 Counties and Cities>.
+Note
+On this page, "Aging Index" = (Population aged 65+ ÷ Population aged 0–14) × 100. A value of 100 means there are as many elderly as children; a higher number indicates a "top-heavy" population.
+Aging rate and Aging Index are taken from the Ministry of the Interior's Department of Household Registration statistics for late 2025; see <Using Data to View Taiwan's 22 Counties and Cities> for full analysis of all 22 regions.
 ```
 
 ## Line Chart `tw-line`
 
-For trends with four or more time points, an inline‑SVG line chart shows the shape, with explicit y‑axis limits so readers see the range. Crucially, it **automatically generates a hidden data table** that screen readers and AI crawlers can read. The chart is for humans; the table is for machines, and they share the same source.
+Trends across four or more time points, drawn as a line using inline SVG, with the y-axis limits marked so readers can see the range. Most importantly—it **automatically generates a hidden data table**, allowing screen readers and AI crawlears to read the raw data. The chart is for humans; the table is for machines. Both share the same source.
 
 ```tw-line
-Decade‑long rise in nationwide price‑to‑income ratio (×)
-Year | Nationwide
+Ten-year rise in National Price-to-Income Ratio (multiplier)
+Year | National
 2014 | 8.41
 2016 | 9.32
 2018 | 8.57
 2020 | 9.20
 2022 | 9.61
 2024 | 10.76
-Baseline: 2014 start | 8.41
-Source: NCCU Real‑Estate Research Center, Ministry of the Interior Real‑Estate Information Platform
+Baseline: 2014 Start | 8.41
+Source: NCCU Real Estate Research Center, Ministry of the Interior Real Estate Information Platform
 ```
 
-Line charts also support **baseline lines**: add a row `Baseline: label | value` to draw a dashed line without endpoints, visually separating it from the measured series.
+Line charts also support a **baseline**: adding a line `Baseline: Label | Value` will draw a dashed line without endpoints and with only one label, visually distinguishing it from the measured sequence. This prevents readers from misinterpreting a fixed threshold as measured data.
 
 ## Slope Chart `tw-slope`
 
-When you have only **two** time points, a line chart wastes space. A slope chart connects the two ends directly, letting the steepness speak for itself—who surged, who fell, at a glance. Prefix a label with `*` to highlight a row; other rows are automatically de‑emphasized.
+When you have "only two time points," a line chart wastes the empty space in between. A slope chart lets the inclination of the line connecting the two ends speak for itself, showing at a glance who rose sharply and who overtook whom. Adding a `*` to the start of a label can emphasize a specific row, while others automatically fade into the background context.
 
 ```tw-slope
-Price‑to‑income ratio: who surged most over ten years (×)
+Price-to-Income Ratio: Who rose most over the decade? (multiplier)
 2014 | 2024
-Nationwide | 8.41 | 10.76
+National | 8.41 | 10.76
 *Taipei | 12.0 | 16.60
-Source: Ministry of the Interior Real‑Estate Information Platform, NCCU Real‑Estate Research Center
+Source: Ministry of the Interior Real Estate Information Platform, NCCU Real Estate Research Center
 ```
 
 ## Heatmap `tw-heatmap`
 
-A matrix of regions × indicators or years × categories. Each column is normalized to a colour intensity; larger numbers are warmer. Because it is an HTML table, it is inherently AI‑readable—this is why heatmaps are preferred over a single coloured image in our system.
+Matrix comparison of Region × Indicator or Year × Category. Each column is normalized into color intensity; larger numbers are warmer. It is inherently an HTML table, making it natively AI-readable—this is why heatmaps in our system are superior to "a colored image."
 
 ```tw-heatmap
-County/City | Price‑to‑income ratio (×) | Mortgage‑burden ratio (%)
+County/City | Price-to-scale Ratio (multiplier) | Mortgage Burden (%)
 Taipei | 16.60 | 63.9
-New Taipei | 13.03 | 56.9
+New Taipei | 13.03 | 56.9
 Taichung | 11.11 | 48.0
 Taoyuan | 9.0 | 40.0
-Source: Ministry of the Interior Real‑Estate Information Platform
+Source: Ministry of the Interior Real Estate Information Platform
 ```
 
 ## Dot Plot `tw-dot`
 
-Bar charts show “quantity”; dot plots show “distribution.” All dots lie on the same scale, so you can see clusters and outliers. One value per line creates a dot strip; two values draw a “from‑to” interval. `*` can again highlight rows.
+Bar charts compare "quantity"; dot plots show "distribution." With all dots placed on the same scale, you can see who is clustered together and who is an outlier. One value per row creates a dot strip; two values create an interval ("from here to there"); three values (`Point Estimate | Lower Bound | Upper Bound`) create a polling-style "point estimate + uncertainty band." A ±3% sampling error should not be lost; this is the most common failure of honest representation during election years. `*` can also be used for emphasis.
 
 ```tw-dot
-Polarization of aging rates: youngest to oldest counties (percentage of population ≥ 65)
+The extremes of aging: Youngest to oldest counties (Percentage aged 65+, %)
 Hsinchu County | 15.08 | Youngest in Taiwan
 Taoyuan | 16.72
 Taichung | 17.40
-New Taipei | 19.95
+New Taipei | 19.95
 Tainan | 20.48
 Kaohsiung | 20.79
 *Chiayi County | 24.11 | Oldest in Taiwan
-*Taipei | 24.18 | Oldest among the six special municipalities
-Source: Ministry of the Interior Household Registration Department, 2025 year‑end
+*Taipei | 24.18 | Oldest of the six major municipalities
+Source: Ministry of the Interior, Department of Household Registration, late 2025
 ```
 
 ## Stacked Bar `tw-stack`
 
-Waffle charts are good for a single whole; stacked bars are ideal for **comparing compositions across several rows**—each row automatically normalizes to 100 %, and if the bar is wide enough the values appear inside the colour blocks.
+Waffle charts are good for "one whole" composition; stacked bars are better for **comparing compositions across multiple rows**—each row is automatically normalized to 100%, and if the paragraph is wide enough, values are labeled directly within the color blocks.
 
 ```tw-stack
-Three nuclear‑energy referendums: Yes vs No (valid‑vote share %)
-Referendum | Yes | No
-2018 Keep Nuclear for Green Energy | 59 | 41
-2021 Restart Nuclear Plant 4 | 47 | 53
-2025 Extend Nuclear Plant 3 | 74 | 26
-Source: Central Election Commission, official results of the three referendums
+Three Nuclear Referendums: For vs. Against (Percentage of valid votes %)
+Referendum | For | Against
+2018 Nuclear Energy for Greenery | 59 | 41
+2021 Restarting Nuclear 4 | 47 | 53
+2025 Extending Nuclear 3 | 74 | 26
+Source: Official results of the three referendums by the Central Election Commission
 ```
 
 ## Pyramid `tw-pyramid`
 
-Back‑to‑back bars, one for each side, sharing a common axis—classic demographic pyramid. Here we use it to compare six counties’ “top‑heavy vs bottom‑heavy” structure: children on the left, elderly on the right. When the two sides differ, aging is no longer an abstract percentage.
+Back-to-back bars, with one group on each side and shared labels in the middle, is a classic demographic chart type. Here, we use it to view the "top-heavy" nature of six counties: children on the left, elderly on the right; comparing the two makes aging more than just an abstract percentage.
 
-```tw-pyramid
-Top‑heavy vs bottom‑heavy: child vs elderly population share (%) in six counties
-County | Age 0–14 | Age ≥ 65
+```tw-pylamid
+Top-Heavy: Child vs. Elderly Population Ratio in Six Counties (%)
+County/City | 0–14 years | 65+ years
 Hsinchu County | 14.80 | 15.08
 Taoyuan | 13.13 | 16.72
 Taichung | 12.75 | 17.40
 Taipei | 11.97 | 24.18
 Keelung | 9.28 | 22.28
 Chiayi County | 8.27 | 24.11
-Source: Ministry of the Interior Household Registration Department, 2025 year‑end; child share derived from aging rate ÷ aging index × 100
+Source: Ministry of the Interior, Department of Household Registration, late 2025; Child ratio calculated as (Aging Rate ÷ Aging Index) × 100
 ```
 
-## County‑Level Tile Map `tw-tiles`
+## Tile Map `tw-tiles`
 
-Taiwan’s choropleth maps suffer from two problems: Hualien and Taitung’s large areas dominate visual weight, and AI‑generated outlines of Taiwan often look “between an olive and a potato.” Tiles arrange the 22 counties and cities into equal‑sized squares (layout hard‑coded to reflect real relative positions); each tile carries the same visual weight, and the number is written directly on the tile. The shape is always correct because we never draw the outline.
+Taiwan's choropleth maps suffer from two old problems: Hualien and Taitung are so large they steal all the visual weight, and AI-drawn shapes of Taiwan often look like "something between an olive and a potato." The tile map arranges the 22 counties into equal-sized tiles (layout is hardcoded in the system to match true relative positions), each tile carries equal weight, and numbers are written directly on them. The shape is always correct because we don't draw shapes at all.
 
 ```tw-tiles
-Taiwan’s 22 counties and cities – aging rate (population ≥ 65, %)
+Aging Rate in Taiwan's 22 Counties/Cities (Percentage aged 65+, %)
 Taipei City | 24.18
-New Taipei City | 19.95
+New Taipei City | 19.95
 Taoyuan City | 16.72
 Taichung City | 17.40
 Tainan City | 20.48
@@ -235,51 +248,107 @@ Taitung County | 20.93
 Penghu County | 21.03
 Kinmen County | 19.69
 Lienchiang County | 17.14
-Source: Ministry of the Interior Household Registration Department, 2025 year‑end
+Source: Ministry of the Interior, Department of Household Registration, late 2025
 ```
 
-## Unit Chart `tw-iso`
+## Isotype `tw-iso`
 
-“174,891 households” is a number that slips away after a glance; nine hand‑countable dots stay with the reader. A unit chart converts a huge figure into “one symbol = how many,” a technique reporters use for offshore‑fishing pieces: turn an abstract large number into a tangible unit. Symbols use whole numbers only; the exact value is written beside them.
+"174,891 units" is a number you forget immediately; nine dots you can count on your fingers are not. The isotype replaces large numbers with countable symbols ("one symbol = X amount"), which is the core technique used by reporters covering deep-sea fishing: turning impersonal, massive numbers into units that resonate with the public. Symbols use only integers (no half-symbols), and precise values are written alongside.
 
 ```tw-iso
-How many public housing units the government built in 24 years
-Unit: ● = 20,000 households
-Government‑directly built | 174,891 households | 1976–1999
-Broad public housing total | over 390,000 households | discontinued in 2015
-Source: Executive Yuan press release on the repeal of the National Housing Act
+How much public housing was built by the government in these 24 years?
+Unit: ● = 20,000 units
+Government-built | 174,891 units | 1976–1999
+Total broad-definition public housing | Over 390,000 units | Until abolition in 2015
+Source: Executive Yuan press release on the abolition of the National Housing Act
 ```
 
-## How to Use These Modules
+## Seat Arc `tw-arc`
 
-Each module is written in an article’s Markdown as a fenced block ` ```tw-* ` with columns separated by `|`. During build, it is automatically transformed into the visual you see above—authors never need to write HTML or JavaScript. The complete syntax, guidance on when to use each type, colour‑ and axis‑design best practices, and a pre‑publication visual‑checklist are all in [graph.md](https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/graph.md).
+Parliamentary seat composition has its own specialized chart: a semi-circular dot matrix, one dot per seat, with parties listed in order as continuous arcs. Pie charts compare angles (which the human eye is poor at), but the seat arc lets you count dots directly, with the majority line drawn exactly where it should be. Here, we use the 2024 Legislative Yuan election results: 113 seats, no party holds a majority; that dashed line marks the starting point of the subsequent intense recall battles. Note that this is for parliamentary use: for elections like the 22 County/City Mayors where there is "one winner per district," use the tile map below.
 
-Our system draws inspiration from the visual‑storytelling outlet [The Pudding](https://pudding.cool/), whose editorial philosophy stresses “question before data, clear conclusions, and attribution as the protagonist.” It has evolved into a tool that fits Taiwan.md: static, multilingual, AI‑readable. The full design rationale is documented in the [Visualization System Design Report](https://github.com/frank890417/taiwan-md/blob/main/reports/article-visualization-design-2026-06-06.md).
+```tw-arc
+2024 Legislative Yuan Seats: No Party Holds Majority (113 seats)
+Majority: 57
+KMT | 52
+DPP | 51
+TPP | 8
+Independents | 2 | Pan-Blue leaning
+Source: Central Election Commission
+```
 
-To see how these modules are woven into a real in‑depth article, read [Public Housing and Housing Justice](/en/society/public-housing-justice)—most of the data on this page comes from that research.
+## Small Multiples `tw-multiples`
 
-**Further Reading**
+Putting five lines on one chart turns them into a mess of "spaghetti"; small multiples give each line its own small box, and **all boxes share the same scale**, allowing shapes to be compared directly. Here, we use three shifts of nurse-to-patient ratios: the heatmap (above) gives you a precise matrix, while small multiples show you the shape—how every level climbs toward late night, with the most acute rise at the base level. Same data, different questions, different charts.
 
-- [Public Housing and Housing Justice](/en/society/public-housing-justice) — the full story behind the housing data: how public housing shifted from cheap homes to an asset ladder; source for most modules on this page
-- [Using Data to View Taiwan’s 22 Counties and Cities](/en/geography/data-taiwan-22-cities) — all aging‑rate data for the dot plot, pyramid, and tile map come from this comprehensive analysis
-- [Taiwan and Nuclear Power Debate](/en/society/taiwan-nuclear-debate) — the full narrative behind the stacked‑bar referendums
-- [Social Housing and Housing Justice](/en/society/social-housing-and-housing-justice) — the post‑2016 “rental‑only” public housing trajectory
-- [Taiwan’s Low‑Birth‑Rate Crisis](/en/society/taiwan-low-birth-rate-crisis) — unaffordable housing and declining births, another facet of inter‑generational justice
+```tw-multiable
+The deeper the night and the more grassroots the hospital, the more beds one nurse manages (people)
+Column: Shift | Nurse-to-Patient Ratio
+--- Medical Center
+Day | 6
+Evening | 9
+Night | 11
+--- Regional Hospital
+Day | 7
+Evening | 11
+Night | 13
+--- *Community Hospital
+Day | 10
+Evening | 13
+Night | 15
+Source: Ministry of Health and Welfare Standard Announcement on Nurse-to-Patient Ratios, 24
+```
 
-## Image Credit
+## How to use these modules
 
-The article uses one CC‑licensed image, cached in `public/article-images/society/`:
+Each module is implemented by writing a ` ```tw-* ` block within the article's Markdown, using `|` for columns. During build time, it automatically transforms into the visuals seen above—authors do not need to write any HTML or JavaScript. The full syntax, when to use which type, how to handle color and axes without being misleading, and a pre-publication visualization checklist can all be found in [graph.md](https://github.com/frank890417/taiwan-md/blob/main/docs/editorial/graph.md).
 
-- [Taipei skyline from Xiangshan (2026)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo by Heeheemalu, 2026, CC BY‑SA 4.0 (hero)
+This system draws inspiration from the editorial philosophy of visual storytelling media [The Pudding](https://pudding.cool/)—questions precede data, conclusions must be clear, and attribution is the protagonist—but has evolved into an organ unique to Taiwan.md: static, multilingual, and AI-readable. The full design context is written in the [Visualization System Design Report](https://github.com/frank890417/taiwan-md/blob/main/reports/article-visualization-design-2026-06-06.md).
+
+To see how these modules weave a narrative within a real deep-dive article, read [Public Housing and Housing Justice](/en/society/public-housing-justice)—most of the data on this page originates from that study.
+
+## This system is also evolving
+
+The page you are currently viewing is itself the result of three rounds of evolution. Since this is a timeline page, we use the policy axis module to tell our own history:
+
+```tw-timeline
+2026-06-06 | Ten modules born | After researching The Pudding and FT chart taxonomies, the first batch emerged: Big Figure, Comparison Card, Proportional Bar, Line Chart
+2026-06-12 | Seventeen modules after one week | Added Slope, Dot Plot, Stacked, Pyramid, Tile Map, Isotype; the pixel validator `viz-shot` was born on the same day, because "markup existence" and "looking correct" are two different things
+2026-07-16 | Nineteen modules, and learned six languages | Seat Arc and Small Multiples added; system strings like "Source" were updated to render in six languages; English/Japanese tile maps no longer degrade into bar charts
+Source: Taiwan.md Visualization System Design and Evolution Report (June 2026 – July 2026, GitHub Public)
+```
+
+The focus of the third round was not actually new chart types, but an honest self-audit. A site-wide audit revealed: modules monitored by automated gateways had a 100% source attribution rate; however, the three high-frequency modules that were _not_ monitored had a 40% failure rate. The standards were written in the editorial guide two months ago, but behavior followed the instrument's shape exactly, so this time we expanded the instrument to match the standard. During the same round, we caught system strings rendering as Chinese on English, Japanese, and Korean pages—even a single Simplified Chinese character was hidden in an accessibility tag unnoticed. For a system that claims to "make Taiwan's data readable by LLMs in six languages," these corners are more critical than new features.
+
+Recent research supports this approach: the accuracy of multimodal AI in reconstructing chart values from images is unreliable; text nodes are what machines can truly read stably. This is why our tile maps write numbers directly on tiles and every chart includes a hidden data table. The full research process and design decisions are documented in the [Visualization System v3.0 Deep Research and Implementation Report](https://github.com/frank890417/taiwan-md/blob/main/reports/viz-module-evolution-2026-07-16.md).
+
+**Further Reading**:
+
+- [Public Housing and Housing Justice](/en/society/public-housing-justice) — The full story behind these housing data: how public housing went from affordable homes to an asset ladder; the source for most modules on this page.
+- [Using Data to View Taiwan's 22 Counties and Cities](/en/geography/data-taiwan-22-cities) — All aging population data for the dot plots, pyramids, and tile maps on this page comes from this full analysis of 22 regions.
+- [Taiwan and Nuclear Energy Debates](/en/society/taiwan-nuclear-debate) — The full story of the three stacked bar referendums: winning the debate, losing the system.
+- [Medical Law](/en/society/medical-care-act) — The full story behind the nurse-to-patient ratio numbers in small multiples: the law can specify how many beds a nurse manages, but not if those hands exist.
+- [The Great Recall](/en/history/great-recall-movement-2024) — The aftermath of the majority line in the seat arc: how a Legislative Yuan with no majority party reached 31 recall motions.
+- [Taiwan's Low Birthrate Crisis](/en/society/taiwan-low-birth-rate-crisis)—The inability to afford housing and the inability to have children: another side of generational justice.
+
+## Image Sources
+
+This article uses 1 Creative Commons licensed image, cached at `public/article-images/society/`:
+
+- [Taipei Skyline (Xiangshan View)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo: Heeheemalu, 2026, CC BY-SA 4.0 (hero)
 
 ## References
 
-[^1]: [Ministry of the Interior Real‑Estate Information Platform](https://pip.moi.gov.tw/Publicize/Info/E1050) — official housing statistics such as price‑to‑income ratio, mortgage‑burden ratio, home‑ownership rate.
+[^1]: [Ministry of the Interior Real Estate Information Platform](https://pip.moi.gov.tw/Publicize/Info/E1050) — Official housing statistics including price-to-income ratio, mortgage burden, and homeownership rate.
 
-[^2]: [NCCU Real‑Estate Research Center](https://rer.nccu.edu.tw/article/detail/2210058908437) — historical housing affordability indicators; source for the line chart and proportion bars.
+[^2]: [NCCU Real Estate Research Center](https://rer.nccu.edu.tw/article/detail/2210058908437) — Historical indicators of housing affordability; source for the national price-to-income ratio sequences in the line and bar charts on this page.
 
-[^3]: [Executive Yuan press release on the repeal of the National Housing Act](https://www.ey.gov.tw/Page/9277F759E41CCD91/d4afaf10-ece5-4b4f-9482-35ce16bdc657) — official figures for cumulative public‑housing units (≈ 390,000).
+[^3]: [Executive Yuan Press Release on the Abolition of the National Housing Act](https://www.ey.gov.tw/Page/9277F759E41CCD91/d4afaf10-ece5-4b4f-9482-35ce16bdc657) — Official data regarding cumulative public housing units (approx. 390,000+).
 
-[^4]: [Ministry of the Interior Household Registration Department population statistics](https://www.ris.gov.tw/app/portal/346) — 2025 year‑end percentages of population ≥ 65 and aging index for all counties and cities; data for dot plot, pyramid, tile map, and note box. Full verification chain in <[Using Data to View Taiwan’s 22 Counties and Cities](/en/geography/data-taiwan-22-cities)>.
+[^4]: [Ministry of the Interior, Department of Household Registration Population Statistics](https://www.ris.gov.tw/app/portal/346) — Population aged 65+ and aging index for all counties/cities as of late 2025; see full verification chain in <[Using Data to View Taiwan's 22 Counties and Cities](/en/geography/data-taiwan-22-cities)>.
 
-[^5]: [Central Election Commission 2018 Referendum Result (PDF)](https://web.cec.gov.tw/api/file/0132581c-18b5-4951-bc24-3cc083924666.pdf) — official yes‑share percentages (59 %/47 %/74 %) for the three nuclear referendums; verification chain in <[Taiwan and Nuclear Power Debate](/en/society/taiwan-nuclear-debate)>.
+[^5]: [Central Election Commission 2018 Referendum Case No. 16 (PDF)](https://web.cec.gov.tw/api/file/0132581c-18b5-4951-bc24-3cc083924666.pdf) — Official certified results for the three nuclear referendums (59%/47%/74%); see case-by-case verification chain in <[Taiwan and Nuclear Energy Debates](/en/society/taiwan-nuclear-debate)>.
+
+[^6]: [CNA: No Party Holds Majority in 2024 Legislative Election](https://www.cna.com.tw/news/aipl/202401130361.aspx) — The distribution of the 113 seats (KMT 52, DPP 51, TPP 8, Independents 2) is the CEC certified result; see verification chain in <[The Great Recall](/en/history/great-recall-movement-2024)>.
+
+[^7]: [Ministry of Health and Welfare Standard Announcement on Nurse-to-Patient Ratios (2024)](https://www.mohw.gov.tw/) — The three-level × three-shift nurse-to-patient ratio standards for small multiples; see verification chain in <[Medical Law](/en/society/medical-care-act)>.

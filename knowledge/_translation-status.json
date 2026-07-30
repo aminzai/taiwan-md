@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-31T05:52:36+08:00",
-    "zhCommitHead": "bbc4b85a4",
+    "lastUpdated": "2026-07-31T06:06:30+08:00",
+    "zhCommitHead": "63803b2f7",
     "totalZh": 875,
     "activeLanguages": [
       "en",
@@ -19,10 +19,10 @@
     "summary": {
       "en": {
         "total_zh": 875,
-        "fresh": 827,
+        "fresh": 828,
         "stale": 28,
         "metadata_stale": 2,
-        "missing": 18,
+        "missing": 17,
         "orphan": 0
       },
       "ja": {
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 875,
-        "fresh": 458,
+        "fresh": 459,
         "stale": 4,
         "metadata_stale": 0,
-        "missing": 413,
+        "missing": 412,
         "orphan": 0
       },
       "pt": {
@@ -13761,7 +13761,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Technology/taiwan-tungsten-supply-chain.md",
+          "translatedFrom": "Technology/台灣鎢供應鏈.md",
+          "sourceCommitSha": "d6fdcf866",
+          "sourceContentHash": "sha256:56ac16371a296013",
+          "sourceBodyHash": "sha256:0ba20d6588799dfb",
+          "translatedAt": "2026-07-31T04:48:14+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 42,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/taiwan-tungsten-supply-chain.md",
@@ -25025,8 +25036,8 @@
           "sourceContentHash": "sha256:d196b7664449f36f",
           "sourceBodyHash": "sha256:3affa690cf7b66dc",
           "translatedAt": "2026-07-30T22:54:37+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "63803b2f",
+          "translationLastModified": "2026-07-31T05:52:36+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -41605,8 +41616,8 @@
           "sourceContentHash": "sha256:a2058786df46a07e",
           "sourceBodyHash": "sha256:63cdc7eebcc0988a",
           "translatedAt": "2026-07-30T22:54:37+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "63803b2f",
+          "translationLastModified": "2026-07-31T05:52:36+08:00",
           "inferred": false,
           "footnoteDefs": 22,
           "status": "fresh",
@@ -52163,8 +52174,8 @@
           "sourceContentHash": "sha256:8e742da3ed42fe59",
           "sourceBodyHash": "sha256:443bc2c93c1de17f",
           "translatedAt": "2026-07-30T22:54:37+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "63803b2f",
+          "translationLastModified": "2026-07-31T05:52:36+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "status": "fresh",
@@ -52254,7 +52265,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Politics/central-election-commission.md",
+          "translatedFrom": "Politics/中選會制度.md",
+          "sourceCommitSha": "e957cf7f1",
+          "sourceContentHash": "sha256:11c48f00ef5f2757",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-07-30T21:55:48.043043+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Politics/central-election-commission.md",
