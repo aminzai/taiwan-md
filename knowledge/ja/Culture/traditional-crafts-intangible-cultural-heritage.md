@@ -230,6 +230,14 @@ _三峡区歴史文物館に展示された「藍と白シリーズ」の藍染�
 
 ---
 
+## 画像出典
+
+本文ではWikimedia CommonsのCCライセンス画像を使用しています：
+
+- [Yuanxiangyuan Paper Umbrella, Taiwan 2013-07](https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG) — Photo: Outlookxp, 2013-07-20, CC BY-SA 3.0。美濃の伝統的な油紙傘の展示。
+- [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo: Anrew0517, 2010-05-01, CC BY-SA 3.0。三義木彫博物館の外観。
+- [三峡区歴史文物館内に展示された「藍と白シリーズ」の藍染衣類](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo: 寺人孟子, CC BY-SA 4.0。三峡藍染の現代的な活用を示す資料。
+
 ## 参考文献
 
 [^1]: [土水修造70余年 蘇清良氏が文化部の「人間国宝」に認定](https://www.cna.com.tw/news/acul/202212190092.aspx) — 中央通信 2022-12-19 報道。蘇清良氏の認定当日のインタビュー原文。台湾語による「台湾の端から端まで作った」という自叙と、祖孫での継承に関する記述を含む。
@@ -289,11 +297,3 @@ _三峡区歴史文物館に展示された「藍と白シリーズ」の藍染�
 [^28]: [デザイナー蕭青陽：優れた文化があってこそ、優れた文創が可能になる](https://www.thenewslens.com/article/65127) — The News Lens 蕭青陽氏インタビュー。台湾の文創と工芸の関係に関する議論。
 
 [^29]: [漆工芸に一生を捧げた台湾の国宝、漆芸大師！南投「美研漆芸」王清霜老先生の職人としての時間](https://www.wowlavie.com/article/ae1601482) — La Vie 誌、王清霜氏の家族特集。息子・王賢民氏による「漆芸を極めるには、長く生きなければならない」という父の言葉の引用。
-
-## 画像出典
-
-本文ではWikimedia CommonsのCCライセンス画像を使用しています：
-
-- [Yuanxiangyuan Paper Umbrella, Taiwan 2013-07](https://commons.wikimedia.org/wiki/File:Yuanxiangyuan_Paper_Umbrella,_Taiwan_2013-07.JPG) — Photo: Outlookxp, 2013-07-20, CC BY-SA 3.0。美濃の伝統的な油紙傘の展示。
-- [Sanyi Wood Sculpture Museum 20100501](https://commons.wikimedia.org/wiki/File:Sanyi_Wood_Sculpture_Museum_20100501.jpg) — Photo: Anrew0517, 2010-05-01, CC BY-SA 3.0。三義木彫博物館の外観。
-- [三峡区歴史文物館内に展示された「藍と白シリーズ」の藍染衣類](https://commons.wikimedia.org/wiki/File:%E4%B8%89%E5%B3%BD%E5%8D%80%E6%AD%B7%E5%8F%B2%E6%96%87%E7%89%A9%E9%A4%A8%E5%85%A7%E6%89%80%E5%B1%95%E7%A4%BA%E3%80%8C%E8%97%8D%E8%88%87%E7%99%BD%E7%B3%BB%E5%88%97%E3%80%8D%E8%97%8D%E6%9F%93%E6%9C%8D%E9%A3%BE.jpg) — Photo: 寺人孟子, CC BY-SA 4.0。三峡藍染の現代的な活用を示す資料。

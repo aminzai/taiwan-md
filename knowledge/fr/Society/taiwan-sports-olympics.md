@@ -149,6 +149,10 @@ De la porte « Taiwan » fermée à Montréal en 1976 à l’équipe que le mond
 - [Chuang Chih-yuan](/fr/people/chuang-chih-yuan-table-tennis-legend) : le roi solitaire du tennis de table, quatre fois champion d’Asie
 - [Culture du baseball taïwanais](/fr/culture/taiwan-baseball-culture) : un siècle d’histoire du baseball, de Kano à la CPBL
 
+## Sources des images
+
+Images à compléter par la session principale.
+
 ## Références
 
 [^1]: Établissement des relations diplomatiques entre le Canada et la République populaire de Chine (13/10/1970) ; rupture avec la République de Chine. Wikipédia, « Relations Canada-Chine ».
@@ -260,7 +264,3 @@ De la porte « Taiwan » fermée à Montréal en 1976 à l’équipe que le mond
 [^54]: ETtoday, 2024, « Le baseball revient aux Jeux de Los Angeles 2028 avec six équipes » ([sports.ettoday.net/news/2941808](https://sports.ettoday.net/news/2941808)) ; Yahoo Sports, reportage sur le retour du baseball-softball en 2028.
 
 [^55]: Premier12 mondial de baseball 2024 : premier titre de Taïwan dans une compétition internationale de catégorie A ; documents événementiels du gouvernement de la ville de Taipei.
-
-## Sources des images
-
-Images à compléter par la session principale.

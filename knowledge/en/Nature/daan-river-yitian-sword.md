@@ -222,6 +222,20 @@ And now, above that unnamed deep valley at the headwaters of the Daan River, an 
 - [Taiwan Forest Ecosystems](/en/nature/taiwan-forest-ecosystems) — The ecological coordinates of cloud forests, the five precious conifers, and giant trees; the Heaven Sword is the highest point of this system
 - [Taiwan National Parks](/en/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Shei-Pa National Park and Forestry and Nature Conservation Agency lands are the final refuges of these giant trees
 
+## Image Sources
+
+This article uses five CC / public-domain images, all cached under `public/article-images/nature/`, stripped of EXIF data, and converted to WebP to avoid hotlinking source servers:
+
+- [Taiwania (wild, Nantou) — Shihchuan](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides,_Nantou_County,_Taiwan_1.jpg) — Wikimedia Commons, CC BY-SA 2.0 (hero)
+- [Taiwania foliage and tree form — KENPEI](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides3.jpg) — Wikimedia Commons, CC BY-SA 3.0
+- [Cloud forest in Shei-Pa National Park](https://commons.wikimedia.org/wiki/File:Shei-Pa_National_Park%2Bcwtu%2B003.jpg) — Wikimedia Commons, CC BY-SA 4.0
+- [Dabajianshan (Daan River headwaters) — Alan Wu](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%9C%B8%E5%B0%96%E5%B1%B1.jpg) — Wikimedia Commons, CC BY-SA 4.0
+- [Bunzo Hayata — Sasaki](https://commons.wikimedia.org/wiki/File:Bunz%C5%8D_Hayata.JPG) — Wikimedia Commons, Public domain
+
+Video: ["Taiwan's Tallest Tree" Daan River Heaven Sword Sacred Tree Full Documentary](https://www.youtube.com/watch?v=UO2HUmNvyFc) — official channel of the Nature Conservation and Environmental Information Foundation (TNF).
+
+Photos of the Heaven Sword itself, Steven Pearce's life-size portrait, and stills from _Island of Sacred Trees_ are copyrighted materials (and the image rights for _Island of Sacred Trees_ are currently under dispute). This article does not use them. For relevant visuals, see the TNF official documentary above and channels released by the rights holders.
+
 ## References
 
 [^1]: [After Decade-Long Hunt, Scientists Find East Asia's Tallest Tree — Sci.News](https://www.sci.news/biology/heaven-sword-tree-14824.html) — 2026 report confirming that the 84.1-meter Daan River Heaven Sword is currently the tallest known tree in East Asia; the ten tallest trees are all Taiwania (_Taiwania cryptomerioides_), nine of them exceeding 70 meters.
@@ -349,17 +363,3 @@ And now, above that unnamed deep valley at the headwaters of the Daan River, an 
 [^62]: [Taiwania cryptomerioides — IUCN Red List / Royal Botanic Garden Edinburgh](https://threatenedconifers.rbge.org.uk/conifers/taiwania-cryptomerioides) — Taiwania's global conservation status is assessed as Vulnerable; its habitat is threatened by climate change, and suitable habitat is predicted to shrink substantially.
 
 [^63]: [桃山巨木谷每公頃碳儲存約 1384 公噸 — 中央社, 2026-06-05](https://www.cna.com.tw/news/ahel/202606050305.aspx) — The Tree Finder team surveyed the giant-tree valley containing the Taoshan Sacred Tree (4 hectares) and estimated carbon storage at about 1,384 metric tons per hectare, excluding roots, close to the giant-tree forests of Tasmania, Australia, among the world's highest carbon-density forests at about 1,867 metric tons per hectare.
-
-## Image Sources
-
-This article uses five CC / public-domain images, all cached under `public/article-images/nature/`, stripped of EXIF data, and converted to WebP to avoid hotlinking source servers:
-
-- [Taiwania (wild, Nantou) — Shihchuan](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides,_Nantou_County,_Taiwan_1.jpg) — Wikimedia Commons, CC BY-SA 2.0 (hero)
-- [Taiwania foliage and tree form — KENPEI](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides3.jpg) — Wikimedia Commons, CC BY-SA 3.0
-- [Cloud forest in Shei-Pa National Park](https://commons.wikimedia.org/wiki/File:Shei-Pa_National_Park%2Bcwtu%2B003.jpg) — Wikimedia Commons, CC BY-SA 4.0
-- [Dabajianshan (Daan River headwaters) — Alan Wu](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%9C%B8%E5%B0%96%E5%B1%B1.jpg) — Wikimedia Commons, CC BY-SA 4.0
-- [Bunzo Hayata — Sasaki](https://commons.wikimedia.org/wiki/File:Bunz%C5%8D_Hayata.JPG) — Wikimedia Commons, Public domain
-
-Video: ["Taiwan's Tallest Tree" Daan River Heaven Sword Sacred Tree Full Documentary](https://www.youtube.com/watch?v=UO2HUmNvyFc) — official channel of the Nature Conservation and Environmental Information Foundation (TNF).
-
-Photos of the Heaven Sword itself, Steven Pearce's life-size portrait, and stills from _Island of Sacred Trees_ are copyrighted materials (and the image rights for _Island of Sacred Trees_ are currently under dispute). This article does not use them. For relevant visuals, see the TNF official documentary above and channels released by the rights holders.

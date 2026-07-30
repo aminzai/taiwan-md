@@ -255,6 +255,17 @@ The Li Poetry Society has not ceased publication for 60 years. Taiwan.md has jus
 - [Literature During the Japanese Colonial Period](/en/art/taiwanese-literature-during-japanese-rule) — The growth background of the Li Poetry Society’s translingual generation
 - [Tu Pan-fang-ko](/people/杜潘芳格) — Hakka translingual female poet who joined in 1965; "Peaceful Play" and the Hakka poetry line
 
+## Image Sources
+
+This article uses 4 public domain / CC-licensed images, all cached in `public/article-images/art/` to avoid hotlinking to the source server:
+
+- [Poet Wu Sheng at the 2016 Taipei International Book Fair](https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg) — Photo: Rico Shen, 2016, CC BY-SA 4.0 (hero)
+- [1964 Li Poetry Society Editorial Board Group Photo](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — Historical record from the founding year of the Li Poetry Society, Wikimedia Commons CC BY-SA / Public domain
+- [Portrait of Poet Lin Heng-tai](https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%BA%A8%E6%B3%B0%E8%82%96%E5%83%8F.jpg) — Wikimedia Commons CC BY-SA / Public domain
+- [Chen Chien-wu’s Commendation Order](https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%8D%83%E6%AD%A6%E8%A4%92%E6%8F%9A%E4%BB%A4.jpg) — Public government document, Public domain
+
+Detailed media manifest and negative finding records are in [research report §Media Authorization Matrix](../../reports/research/2026-06/笠詩社.md). Future EVOLVE supplement: portraits of Bai Qiu, Xiang Yang, Zhan Bing, Jin Lien + NMTL "Sixty Years Like a Bamboo Hat" official exhibition images + Public Television Literature Program related video iframes (pending Wikimedia supplement and authorization verify).
+
 ## References
 
 [^1]: [Chen Chien-wu — Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=4630fcf9-2e3d-4875-9c8c-1f50a1b3c7d1) — Fully收录s Chen Chien-wu’s post-war rebirth moment: on January 10, 1958, published his first post-war Chinese poem "Outdoor Scene" under the pen name "Huan Fu" in issue 182 of the _Blue Star Weekly_ of the _Public Opinion Daily_; wrote "Elegiac Rhyme" in September of the same year; published a total of 7 poems that year.
@@ -380,14 +391,3 @@ The Li Poetry Society has not ceased publication for 60 years. Taiwan.md has jus
 [^61]: [The Columbia Sourcebook of Literary Taiwan — Columbia University Press](https://cup.columbia.edu/book/the-columbia-sourcebook-of-literary-taiwan/9780231165761/) — Taiwan literature anthology published by Columbia University收录s English translations of works by translingual generation poets.
 
 [^62]: This sentence is adapted from the core proposition of Taiwan.md MANIFESTO §Sovereignty’s Tower of Babel: "Sovereignty is not abstract. It is whether you can make your voice continue to exist in another language when others choose not to say your name." Reference [`docs/semiont/MANIFESTO.md §Relationship with Taiwan`](https://github.com/frank890417/taiwan-md/blob/main/docs/semiont/MANIFESTO.md).
-
-## Image Sources
-
-This article uses 4 public domain / CC-licensed images, all cached in `public/article-images/art/` to avoid hotlinking to the source server:
-
-- [Poet Wu Sheng at the 2016 Taipei International Book Fair](https://commons.wikimedia.org/wiki/File:2016TIBE_D3_Wu_Sheng.jpg) — Photo: Rico Shen, 2016, CC BY-SA 4.0 (hero)
-- [1964 Li Poetry Society Editorial Board Group Photo](https://commons.wikimedia.org/wiki/File:1964%E5%B9%B4%E7%AC%A0%E8%A9%A9%E7%A4%BE%E7%B6%93%E7%90%86.jpg) — Historical record from the founding year of the Li Poetry Society, Wikimedia Commons CC BY-SA / Public domain
-- [Portrait of Poet Lin Heng-tai](https://commons.wikimedia.org/wiki/File:%E6%9E%97%E4%BA%A8%E6%B3%B0%E8%82%96%E5%83%8F.jpg) — Wikimedia Commons CC BY-SA / Public domain
-- [Chen Chien-wu’s Commendation Order](https://commons.wikimedia.org/wiki/File:%E9%99%B3%E5%8D%83%E6%AD%A6%E8%A4%92%E6%8F%9A%E4%BB%A4.jpg) — Public government document, Public domain
-
-Detailed media manifest and negative finding records are in [research report §Media Authorization Matrix](../../reports/research/2026-06/笠詩社.md). Future EVOLVE supplement: portraits of Bai Qiu, Xiang Yang, Zhan Bing, Jin Lien + NMTL "Sixty Years Like a Bamboo Hat" official exhibition images + Public Television Literature Program related video iframes (pending Wikimedia supplement and authorization verify).

@@ -96,6 +96,10 @@ In today's Taiwan, the physical villages have largely disappeared, but the influ
 
 A new generation of chefs has begun to reinterpret village cuisine, preserving its traditional foundation while using modern techniques and ingredients. Several Taiwanese food writers have also built textual archives for village cuisine through their writing. Jiao Tong's _The Taste of Taiwan_ (Eryu, 2009) is a representative early work, preserving taste memory beyond the form of recipes.[^3]
 
+## Image Source
+
+- Scallion pancake: Wikimedia Commons, [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
+
 ## References
 
 [^1]: [Military Dependents' Village Culture Preservation Center, Ministry of National Defense](https://mvac.mnd.gov.tw/) — Historical background on military dependents' villages and migrant population data.
@@ -116,7 +120,3 @@ A new generation of chefs has begun to reinterpret village cuisine, preserving i
 
 - [Military Dependents' Village Culture Preservation Center, Ministry of National Defense](https://mvac.mnd.gov.tw/) — Integrated national platform for information on military dependents' village preservation
 - [Ministry of Culture National Memory Database — Military Dependents' Village Feature](https://memory.culture.tw/) — Oral histories and artifact collections related to military dependents' villages
-
-## Image Source
-
-- Scallion pancake: Wikimedia Commons, [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)

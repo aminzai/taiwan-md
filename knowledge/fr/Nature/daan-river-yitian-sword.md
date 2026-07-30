@@ -222,6 +222,20 @@ Et maintenant, au-dessus de cette gorge sans nom près de la source du fleuve Da
 - [Écosystèmes forestiers de Taïwan](/fr/nature/taiwan-forest-ecosystems) — Les coordonnées écologiques des forêts de nuages, des cinq conifères précieux et des arbres géants ; l’épée Yitian en est le point culminant
 - [Parcs nationaux de Taïwan](/fr/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — Le parc national de Shei-Pa et les territoires relevant de l’Agence des forêts et de la conservation de la nature sont les derniers refuges de ces arbres géants
 
+## Sources des images
+
+Cet article utilise cinq images sous licence CC ou domaine public, toutes mises en cache dans `public/article-images/nature/`, converties en WebP après suppression des données EXIF, afin d’éviter les liens directs vers les serveurs sources :
+
+- [Taïwania (milieu naturel à Nantou) — Shihchuan](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides,_Nantou_County,_Taiwan_1.jpg) — Wikimedia Commons, CC BY-SA 2.0 (image principale)
+- [Rameaux et port du Taïwania — KENPEI](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides3.jpg) — Wikimedia Commons, CC BY-SA 3.0
+- [Forêt de nuages du parc national de Shei-Pa](https://commons.wikimedia.org/wiki/File:Shei-Pa_National_Park%2Bcwtu%2B003.jpg) — Wikimedia Commons, CC BY-SA 4.0
+- [Dabajianshan (source du fleuve Daan) — Alan Wu](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%9C%B8%E5%B0%96%E5%B1%B1.jpg) — Wikimedia Commons, CC BY-SA 4.0
+- [Hayata Bunzō — Sasaki](https://commons.wikimedia.org/wiki/File:Bunz%C5%8D_Hayata.JPG) — Wikimedia Commons, domaine public
+
+Vidéo : [「臺灣第一高樹」大安溪倚天劍神木 完整紀錄片](https://www.youtube.com/watch?v=UO2HUmNvyFc) — chaîne officielle de la Natural Conservation and Environmental Information Foundation (TNF).
+
+Les photographies de l’arbre épée Yitian lui-même, le portrait grandeur nature de Steven Pearce et les images du documentaire _L’Île des arbres sacrés_ sont des contenus sous droits d’auteur (et les droits des images de _L’Île des arbres sacrés_ font actuellement l’objet d’une controverse). Elles ne sont pas utilisées dans cet article ; les images correspondantes peuvent être consultées dans le documentaire officiel TNF ci-dessus et via les canaux publiés par les ayants droit.
+
 ## Références
 
 [^1]: [After Decade-Long Hunt, Scientists Find East Asia's Tallest Tree — Sci.News](https://www.sci.news/biology/heaven-sword-tree-14824.html) — Article de 2026 confirmant que l’épée Yitian du fleuve Daan, 84,1 mètres, est l’arbre le plus haut actuellement connu en Asie de l’Est ; les dix arbres les plus hauts sont tous des Taïwanias (_Taiwania cryptomerioides_), dont neuf dépassent 70 mètres.
@@ -349,17 +363,3 @@ Et maintenant, au-dessus de cette gorge sans nom près de la source du fleuve Da
 [^62]: [Taiwania cryptomerioides — IUCN Red List / Royal Botanic Garden Edinburgh](https://threatenedconifers.rbge.org.uk/conifers/taiwania-cryptomerioides) — Le statut mondial de conservation du Taïwania est vulnérable (Vulnerable) ; son habitat est menacé par le changement climatique, et les projections indiquent une forte contraction des milieux favorables.
 
 [^63]: [桃山巨木谷每公頃碳儲存約 1384 公噸 — 中央社, 2026-06-05](https://www.cna.com.tw/news/ahel/202606050305.aspx) — L’équipe des chercheurs d’arbres étudie la vallée des arbres géants où se trouve l’arbre sacré de Taoshan (4 hectares) et estime le stock de carbone à environ 1 384 tonnes par hectare (hors racines), proche des forêts de géants de Tasmanie, en Australie, parmi les plus denses en carbone au monde (environ 1 867 tonnes/hectare).
-
-## Sources des images
-
-Cet article utilise cinq images sous licence CC ou domaine public, toutes mises en cache dans `public/article-images/nature/`, converties en WebP après suppression des données EXIF, afin d’éviter les liens directs vers les serveurs sources :
-
-- [Taïwania (milieu naturel à Nantou) — Shihchuan](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides,_Nantou_County,_Taiwan_1.jpg) — Wikimedia Commons, CC BY-SA 2.0 (image principale)
-- [Rameaux et port du Taïwania — KENPEI](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides3.jpg) — Wikimedia Commons, CC BY-SA 3.0
-- [Forêt de nuages du parc national de Shei-Pa](https://commons.wikimedia.org/wiki/File:Shei-Pa_National_Park%2Bcwtu%2B003.jpg) — Wikimedia Commons, CC BY-SA 4.0
-- [Dabajianshan (source du fleuve Daan) — Alan Wu](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%9C%B8%E5%B0%96%E5%B1%B1.jpg) — Wikimedia Commons, CC BY-SA 4.0
-- [Hayata Bunzō — Sasaki](https://commons.wikimedia.org/wiki/File:Bunz%C5%8D_Hayata.JPG) — Wikimedia Commons, domaine public
-
-Vidéo : [「臺灣第一高樹」大安溪倚天劍神木 完整紀錄片](https://www.youtube.com/watch?v=UO2HUmNvyFc) — chaîne officielle de la Natural Conservation and Environmental Information Foundation (TNF).
-
-Les photographies de l’arbre épée Yitian lui-même, le portrait grandeur nature de Steven Pearce et les images du documentaire _L’Île des arbres sacrés_ sont des contenus sous droits d’auteur (et les droits des images de _L’Île des arbres sacrés_ font actuellement l’objet d’une controverse). Elles ne sont pas utilisées dans cet article ; les images correspondantes peuvent être consultées dans le documentaire officiel TNF ci-dessus et via les canaux publiés par les ayants droit.

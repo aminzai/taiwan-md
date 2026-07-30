@@ -160,6 +160,14 @@ _19 de noviembre de 2024, lectura de finalistas de los National Book Awards: Yan
 - [Chu Tien-wen](/es/people/chu-tien-wen) — Escritora representativa de la escritura femenina después del levantamiento de la ley marcial; las estrategias de atribución ficticia en 《Notas de un hombre desolado》 y 《La ciudad antigua》 son antecedentes importantes de la falsa traducción en la literatura taiwanesa
 - [Wu Ming-yi](/es/people/wu-ming-yi) — También escritor taiwanés representativo de la ola internacional de literatura traducida en la década de 2020; 《El hombre de los ojos compuestos》 y 《La bicicleta robada》 han alcanzado visibilidad en el mundo anglófono
 
+## Fuentes de las imágenes
+
+Este artículo usa 3 imágenes de Wikimedia Commons con licencia CC BY-SA 4.0, todas almacenadas en caché en `public/article-images/art/` para evitar enlaces directos al servidor de origen:
+
+- [Yang Shuang-zi at the 2024 National Book Awards](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg) — Photo: Bea Phi (Phibeatrice), 2024-11-20, CC BY-SA 4.0. Yang Shuang-zi en la ceremonia de los National Book Awards en Cipriani Wall Street, Nueva York.
+- [Yang Shuang-zi and Lin King at the National Book Awards Ceremony 2024](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_and_Lin_King_at_the_National_Book_Awards_Ceremony_2024_02.jpg) — Photo: Jennifer 8. Lee (Jenny8lee), 2024-11-20, CC BY-SA 4.0. Retrato conjunto de Yang Shuang-zi y la traductora Lin King.
+- [Yáng Shuāng-zǐ, writer, at the 2024 National Book Awards finalist reading 3](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg) — Photo: Bea Phi (Phibeatrice), 2024-11-19, CC BY-SA 4.0. Yang Shuang-zi en la lectura de finalistas de los National Book Awards.
+
 ## Referencias
 
 [^1]: [Central News Agency: “臺灣漫遊錄” 奪布克國際獎 楊双子：生為台灣人是幸運和驕傲](https://www.cna.com.tw/news/acul/202605200011.aspx) — Reportaje de la Central News Agency del 20 de mayo de 2026, con registro de la ceremonia del International Booker Prize en la Tate Modern de Londres y los detalles del premio: 50.000 libras esterlinas divididas en partes iguales entre autora y traductora.
@@ -229,11 +237,3 @@ _19 de noviembre de 2024, lectura de finalistas de los National Book Awards: Yan
 [^33]: [The Reporter: entrevista con Yang Shuang-zi](https://www.twreporter.org/a/interview-taiwan-travelogue-a-novel-writer-yang-shuang-zi) — Yang Shuang-zi explica su motivación de escritura sobre la relación entre Taiwán y China después del Movimiento Girasol 318 de 2014: “La cuestión clave era contestar: ¿qué diferencia hay, al final, entre Taiwán y China?”.
 
 [^34]: [U People: 雙胞胎的人生與寫作灌注於一人](https://topic.udn.com/event/2025_0310) — Entrevista de profundidad de U People, de United Daily News, donde Yang Shuang-zi menciona el pesar de que su hermana menor no alcanzara a ver el reconocimiento de 《Taiwan Travelogue》: “Ojalá este resultado hubiera llegado un poco antes; quizá mi hermana menor habría podido verlo”.
-
-## Fuentes de las imágenes
-
-Este artículo usa 3 imágenes de Wikimedia Commons con licencia CC BY-SA 4.0, todas almacenadas en caché en `public/article-images/art/` para evitar enlaces directos al servidor de origen:
-
-- [Yang Shuang-zi at the 2024 National Book Awards](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg) — Photo: Bea Phi (Phibeatrice), 2024-11-20, CC BY-SA 4.0. Yang Shuang-zi en la ceremonia de los National Book Awards en Cipriani Wall Street, Nueva York.
-- [Yang Shuang-zi and Lin King at the National Book Awards Ceremony 2024](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_and_Lin_King_at_the_National_Book_Awards_Ceremony_2024_02.jpg) — Photo: Jennifer 8. Lee (Jenny8lee), 2024-11-20, CC BY-SA 4.0. Retrato conjunto de Yang Shuang-zi y la traductora Lin King.
-- [Yáng Shuāng-zǐ, writer, at the 2024 National Book Awards finalist reading 3](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg) — Photo: Bea Phi (Phibeatrice), 2024-11-19, CC BY-SA 4.0. Yang Shuang-zi en la lectura de finalistas de los National Book Awards.

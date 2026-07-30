@@ -164,6 +164,13 @@ _2013年5月4日、中科院「鋭鳶」ドローン（番号9717、NCSIST Albat
 - [台湾宇宙産業の発展](/ja/technology/taiwan-space-industry-development) —— ドローンから衛星へ、台湾の空への野望
 - [台湾ロボット産業](/ja/technology/taiwan-robotics-industry) —— 「部品は強いが完成機は弱い」というドローンと同じ構造的課題を抱えるもう一つの事例
 
+## 画像出典
+
+本記事では2枚のパブリックドメイン/CCライセンス画像を使用しており、すべて`public/article-images/technology/`にキャッシュしてソースサーバーへの直リンクを回避しています：
+
+- **Hero**：[Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) —— Photo: Kliu1, 2007年10月11日 中華民国国慶記念大会での中科院中翔二号（NCSIST Albatrossシリーズ）展示。Wikimedia Commons経由でパブリックドメイン。
+- **Inline**：[UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) —— Photo: 玄史生, 2013年5月4日 中科院鋭鳶ドローン9717号の高雄中正軍港11号码頭公開日展示。Wikimedia Commons経由でCC BY-SA 3.0。
+
 ## 参考文献
 
 [^1]: [Aviation Week：Taiwan's Thunder Tiger Eyes U.S. Army's Drone Dominance Program](https://aviationweek.com/defense/aircraft-propulsion/taiwans-thunder-tiger-eyes-us-armys-drone-dominance-program) —— 雷虎の「Overkill」FPVドローンが米ブルーリスト認証を取得した初の台湾ドローンであることを報じた記事。
@@ -221,10 +228,3 @@ _2013年5月4日、中科院「鋭鳶」ドローン（番号9717、NCSIST Albat
 [^20]: [TechNews：國防部 1.25 兆特別預算細節公開](https://technews.tw/2026/01/20/taiwan-mnd-unveiled-1250-billion-twd-budget-details/) + [中央社：1.25 兆元特別預算 國防部公開籌購 7 類武器數量](https://www.cna.com.tw/news/aipl/202601190177.aspx) —— 2026〜2033年の8年間で計1.25兆、7大項目、無人搭載具および対抗システムに3,350億元、21万機以上、1,000隻以上の無人艇。
 
 [^21]: [報導者：走進烏克蘭無人機生產線（上）：從沒人做到年產 450 萬架](https://www.twreporter.org/a/ukraine-drone-wartime-supplychain) + [TechNews：前線與廠商直接溝通，烏克蘭無人機產業大爆發](https://technews.tw/2025/04/30/the-ukrainians-drone-boom-during-the-war/) —— ウクライナの2023年約30万機→2024年200万機以上→2025年450万機、月産20〜40万機の曲線は前線の消費から逆算された需要関数。
-
-## 画像出典
-
-本記事では2枚のパブリックドメイン/CCライセンス画像を使用しており、すべて`public/article-images/technology/`にキャッシュしてソースサーバーへの直リンクを回避しています：
-
-- **Hero**：[Chung Shyang II UAV](https://commons.wikimedia.org/wiki/File:Chung_Shyang_II_UAV.jpg) —— Photo: Kliu1, 2007年10月11日 中華民国国慶記念大会での中科院中翔二号（NCSIST Albatrossシリーズ）展示。Wikimedia Commons経由でパブリックドメイン。
-- **Inline**：[UAV 9717 Display at No.11 Pier](https://commons.wikimedia.org/wiki/File:UAV_9717_Display_at_No.11_Pier_Left_Rear_View_20130504.jpg) —— Photo: 玄史生, 2013年5月4日 中科院鋭鳶ドローン9717号の高雄中正軍港11号码頭公開日展示。Wikimedia Commons経由でCC BY-SA 3.0。

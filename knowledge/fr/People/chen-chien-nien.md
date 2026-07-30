@@ -209,6 +209,14 @@ Ces chansons laissées par son grand-père maternel, il ne les a pas « hérité
 - [Musique indépendante taïwanaise](/fr/music/indie-music-scene) — comment des labels indépendants comme Taiwan Colors Music ont construit une autre voie hors de l’industrie musicale dominante
 - [Musique populaire et Golden Melody Awards](/fr/music/pop-music-and-golden-melody-awards) — comment le système des Golden Melody Awards a intégré la création musicale autochtone
 
+## Sources des images
+
+Cet article utilise 3 images sous licence CC BY-SA 4.0, toutes mises en cache dans `public/article-images/people/` afin d’éviter les liens directs vers les serveurs sources :
+
+- [Pur-dull in Hsinchu 2](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_2.jpg) — Photo : Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu_2.jpg (image héro)
+- [Pur-dull in Hsinchu (cropped)](<https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_(cropped).jpg>) — Photo : Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull*in_Hsinchu*(cropped).jpg (image intégrée 1)
+- [Pur-dull in Hsinchu](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu.jpg) — Photo : Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu.jpg (image intégrée 2)
+
 ## Références
 
 [^1]: [陳建年（歌手）— 維基百科](<https://zh.wikipedia.org/zh-tw/%E9%99%B3%E5%BB%BA%E5%B9%B4_(%E6%AD%8C%E6%89%8B)>) — Article Wikipédia en chinois consacré à Chen Chien-nien, indiquant sa date de naissance, le 1er août 1967, son origine dans la communauté Nanwang, son lien avec son grand-père maternel Lu Sen-bao, la 114e promotion de la classe des agents de police, sa mutation à Lanyu en septembre 2000, et son poste de chef adjoint du poste secondaire de Lanyu avant sa retraite en septembre 2017.
@@ -264,11 +272,3 @@ Ces chansons laissées par son grand-père maternel, il ne les a pas « hérité
 [^26]: [桑布伊 — 維基百科](https://zh.wikipedia.org/zh-tw/%E6%A1%91%E5%B8%83%E4%BC%8A) — Article sur le musicien puyuma contemporain Sangpuy, indiquant que Sangpuy et Chen Chien-nien viennent tous deux du cercle culturel puyuma de Taitung, qu’après le séisme du 21 septembre il rejoint le collectif musical Flying Fish Clouded Leopard, et qu’il enregistre avec Kimbo Hu et d’autres, reflétant l’influence de Chen Chien-nien sur les générations ultérieures de musique autochtone.
 
 [^27]: [陳建年 — 國家文化記憶庫](https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Event&id=273173) — Entrée de la Banque nationale de mémoire culturelle du ministère de la Culture consacrée à Chen Chien-nien, indiquant sa place comme héritier de Lu Sen-bao, son style mêlant puyuma et mandarin, son prix de roi des Golden Melody Awards lors de la 11e édition, le prix de meilleur producteur en musique instrumentale populaire à la 18e édition, le prix de meilleur producteur d’album populaire à la 20e édition, et le prix de meilleur album en langue autochtone à la 33e édition.
-
-## Sources des images
-
-Cet article utilise 3 images sous licence CC BY-SA 4.0, toutes mises en cache dans `public/article-images/people/` afin d’éviter les liens directs vers les serveurs sources :
-
-- [Pur-dull in Hsinchu 2](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_2.jpg) — Photo : Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu_2.jpg (image héro)
-- [Pur-dull in Hsinchu (cropped)](<https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu_(cropped).jpg>) — Photo : Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull*in_Hsinchu*(cropped).jpg (image intégrée 1)
-- [Pur-dull in Hsinchu](https://commons.wikimedia.org/wiki/File:Pur-dull_in_Hsinchu.jpg) — Photo : Taiwania Justo, 2018-03-25, CC BY-SA 4.0, Commons File:Pur-dull_in_Hsinchu.jpg (image intégrée 2)

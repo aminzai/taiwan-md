@@ -277,6 +277,14 @@ Cicada가 왜 독특한지 이해하려면, 이들의 전체 방법론의 철학
 - [타이완 해양 생태](/ko/nature/taiwan-marine-ecology) — 밴드의 2017년 해양 주제 앨범의 생태적 배경
 - [타이완 산악과 등산 문화](/ko/nature/taiwan-mountains-and-hiking-culture) — 장즈제의 등산 철학 맥락
 
+## 이미지 출처
+
+이 글은 CC BY-SA 4.0 라이선스 이미지 1장을 사용하며, 원 서버 핫링크를 피하기 위해 `public/article-images/people/`에 캐시했다.
+
+- [翠池 汪大智 05](https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg) — Photo: Blackjack633, CC BY-SA 4.0(hero, 쉐산 추이츠)
+
+본문에 삽입된 영상은 모두 [Cicada 공식 YouTube 채널 @Cicadatw](https://www.youtube.com/@Cicadatw)에 올라온 공식 MV이며, iframe으로 임베드했다. 저작권은 밴드와 발매 레이블에 있고, YouTube 표준 임베드 서비스 약관에 따라 사용한다.
+
 ## 참고 자료
 
 [^1]: [장즈제의 창작 방법론과 다이빙에서 얻은 깨달음 - IN IN TO MUSIC](https://inintomusic.asia/cicada-interview/) — 장즈제가 자신의 창작 방법론을 설명하며 “나는 매우 직관적이다. 피아노 앞에 앉았을 때 리듬과 마음속 이미지가 맞아떨어지면 동기는 자연스럽게 나타난다”고 말했다. 《棲居》의 물 흐름 리듬을 설명하며 “돌 하나를 만났을 때 느낌은 ‘와?’다. 그리고 너는 그 옆을 흘러 지나간다”고 했다. 란위 다이빙의 깨달음은 “네가 통제할 수 있는 것은 오직 너의 호흡뿐이다”, “너는 자신에게 정직해야 한다”였다.
@@ -332,11 +340,3 @@ Cicada가 왜 독특한지 이해하려면, 이들의 전체 방법론의 철학
 [^26]: [제46회 일본 아카데미상 수상 결과 - 일본 아카데미상 공식](https://www.japan-academy-prize.jp/prizes/?t=46) — 제46회(2023)에서 영화 《ある男》(한 남자)는 최우수 작품상 등 여러 최우수상을 받았다. Cicada의 《ある男》은 이케 요시히로, 다카미 유, FUKUSHIGE MARI와 함께 “우수 음악상”(후보 층위, 4명 병렬)에 올랐다. 이 회의 “최우수 음악상”은 RADWIMPS/진나이 가즈마의 《스즈메의 문단속》이 받았다. 즉 영화는 최우수 작품상을 받았고, Cicada의 음악은 우수 음악상을 받았으며 최우수 음악상은 아니다.
 
 [^27]: [쉐산 권곡과 타이완 빙하 지형 - 국립자연과학박물관](https://epub.nmns.edu.tw/i401-1/) — 쉐산 1호 권곡은 “타이완 최대이자 가장 완전한 빙하 지형의 대표”(린차오치 1957 인용)다. 타이완 고산은 마지막 빙하기(약 2만 7천 년 전부터 1만 8천 년 전)에 산악 빙하가 발달해 빙하 지형을 형성했다. 추이츠는 빙두호이며 주변은 타이완 최대 면적의 위산향나무 순림이다. 타이완 고산 빙하 유적은 학계에서 오랫동안 논쟁이 있었고, 1998년 왕신 등이 빙식 증거를 상세히 조사한 뒤 확인되었다.
-
-## 이미지 출처
-
-이 글은 CC BY-SA 4.0 라이선스 이미지 1장을 사용하며, 원 서버 핫링크를 피하기 위해 `public/article-images/people/`에 캐시했다.
-
-- [翠池 汪大智 05](https://commons.wikimedia.org/wiki/File:%E7%BF%A0%E6%B1%A0_%E6%B1%AA%E5%A4%A7%E6%99%BA_05.jpg) — Photo: Blackjack633, CC BY-SA 4.0(hero, 쉐산 추이츠)
-
-본문에 삽입된 영상은 모두 [Cicada 공식 YouTube 채널 @Cicadatw](https://www.youtube.com/@Cicadatw)에 올라온 공식 MV이며, iframe으로 임베드했다. 저작권은 밴드와 발매 레이블에 있고, YouTube 표준 임베드 서비스 약관에 따라 사용한다.

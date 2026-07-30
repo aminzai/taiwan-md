@@ -169,6 +169,16 @@ _녜융전이 2026/05/08 Facebook 공개 게시물에서 밝힌 대만전력 새
 - [대만 뉴미디어 아트](/ko/art/taiwan-new-media-art) — 융전지즈 스튜디오와 대만 당대 시각문화의 위치
 - [대만 디자인 연구원](/ko/society/taiwan-design-research-institute) — 금점 디자인상 배후의 국가급 디자인 기관. 디자인이 개인 창작에서 공공 거버넌스로 확장되는 방식을 살펴본다
 
+## 이미지 출처
+
+이 글은 5장의 이미지를 사용하며, 모두 원 출처 서버의 핫링크를 피하기 위해 `public/article-images/people/`에 캐시되어 있다. 앞의 3장은 Wikimedia Commons CC 라이선스이며, 뒤의 2장은 매체 공개 이미지 파일의 공정이용에 따른 편집·비평 인용이다(녜융전 디자인 작업에 관한 공적 논의와 직접 관련됨).
+
+- **hero**: [녜융전 2018](<https://commons.wikimedia.org/wiki/File:%E8%81%B6%E6%B0%B8%E7%9C%9F_(40799138092).jpg>) — Photo: Gene Wang (Flickr user 56814157@N03), 2018-03-16, CC BY-SA 2.0
+- **inline 1**: [해바라기 학생운동 20140323 입법원](https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B%2020140323%20%E7%AB%8B%E6%B3%95%E9%99%A2%207045%20%2814127449295%29.jpg) — Photo: Ray Swi-hy (Flickr), 2014-03-23 17:03, CC BY-SA 2.0
+- **inline 2**: 「[Democracy at 4am」 뉴욕타임스 전면 광고(2014-03-30)](https://www.thenewslens.com/article/2866) — 디자인: 녜융전, 당시 [4am.tw](https://4am.tw/)를 통해 무료 다운로드 개방. 이미지 파일은 The News Lens 보도(i-Chen Tsai 2014/03 블로그 아카이브 버전)에서 취득 — 공정이용에 따른 편집·비평 인용(시민 크라우드펀딩 작품 + 디자이너 원 의도의 공개 배포)
+- **inline 3**: [Tsai Ing-wen presidential campaign, 2016](<https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg>) — Photo: MiNe (Flickr), 2015-10-18, CC BY 2.0
+- **inline 4**: [녜융전 대만전력 새 표준 글자 디자인 과정(2026-05-08)](https://www.mirrormedia.mg/story/20260508edi031) — 녜융전 [Facebook 공개 게시물](https://www.facebook.com/somekidding/posts/1384626443696723)(계정 @somekidding 인증됨)에서 캡처, 이미지 파일은 Mirror Media 보도 호스팅 — 공정이용에 따른 편집·비평 인용(공개 게시물 + 공공 의제 LOGO 디자인 과정 공개)
+
 ## 참고자료
 
 [^1]: [녜융전 위키백과](https://zh.wikipedia.org/zh-tw/%E8%81%B6%E6%B0%B8%E7%9C%9F) — 녜융전의 생애, 학력, 수상 기록, AGI 가입 연도, 세 차례 골든멜로디 어워즈 패키징상 회차(제21, 25, 26회), 도서 및 음반 협업 대상(뤄이쥔, 간야오밍, 마이톈, 스바오, 인커, 롄징) 등 구조적 자료.
@@ -232,13 +242,3 @@ _녜융전이 2026/05/08 Facebook 공개 게시물에서 밝힌 대만전력 새
 [^30]: [중앙통신사 2026-05-12: 대만전력 Logo 서체 논란, 문화부장 리위안: 디자인은 전문 영역이므로 ‘전문성으로 돌아가야’](https://www.cna.com.tw/news/aipl/202605120035.aspx) — 2026년 5월 12일 문화부장 리위안이 입법원에서 인터뷰한 내용. 디자인 가치의 독립성과 전문성을 강조.
 
 [^31]: [민시신문 2026-05-12: 대만전력 기업 식별 최적화 논란, 공식 해명 ‘신구 병존’ 기존 간판은 교체하지 않는다](https://www.ftvnews.com.tw/news/detail/2026512W0263) — 2026년 5월 12일 보도. 여론 압력에 대해 대만전력이 발표한 실행 방안 조정 세부 내용 포함.
-
-## 이미지 출처
-
-이 글은 5장의 이미지를 사용하며, 모두 원 출처 서버의 핫링크를 피하기 위해 `public/article-images/people/`에 캐시되어 있다. 앞의 3장은 Wikimedia Commons CC 라이선스이며, 뒤의 2장은 매체 공개 이미지 파일의 공정이용에 따른 편집·비평 인용이다(녜융전 디자인 작업에 관한 공적 논의와 직접 관련됨).
-
-- **hero**: [녜융전 2018](<https://commons.wikimedia.org/wiki/File:%E8%81%B6%E6%B0%B8%E7%9C%9F_(40799138092).jpg>) — Photo: Gene Wang (Flickr user 56814157@N03), 2018-03-16, CC BY-SA 2.0
-- **inline 1**: [해바라기 학생운동 20140323 입법원](https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B%2020140323%20%E7%AB%8B%E6%B3%95%E9%99%A2%207045%20%2814127449295%29.jpg) — Photo: Ray Swi-hy (Flickr), 2014-03-23 17:03, CC BY-SA 2.0
-- **inline 2**: 「[Democracy at 4am」 뉴욕타임스 전면 광고(2014-03-30)](https://www.thenewslens.com/article/2866) — 디자인: 녜융전, 당시 [4am.tw](https://4am.tw/)를 통해 무료 다운로드 개방. 이미지 파일은 The News Lens 보도(i-Chen Tsai 2014/03 블로그 아카이브 버전)에서 취득 — 공정이용에 따른 편집·비평 인용(시민 크라우드펀딩 작품 + 디자이너 원 의도의 공개 배포)
-- **inline 3**: [Tsai Ing-wen presidential campaign, 2016](<https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg>) — Photo: MiNe (Flickr), 2015-10-18, CC BY 2.0
-- **inline 4**: [녜융전 대만전력 새 표준 글자 디자인 과정(2026-05-08)](https://www.mirrormedia.mg/story/20260508edi031) — 녜융전 [Facebook 공개 게시물](https://www.facebook.com/somekidding/posts/1384626443696723)(계정 @somekidding 인증됨)에서 캡처, 이미지 파일은 Mirror Media 보도 호스팅 — 공정이용에 따른 편집·비평 인용(공개 게시물 + 공공 의제 LOGO 디자인 과정 공개)

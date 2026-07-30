@@ -222,6 +222,20 @@ Y ahora, sobre aquella quebrada sin nombre en la cabecera del río Da'an, una la
 - [Ecosistema forestal de Taiwán](/es/nature/taiwan-forest-ecosystems) — Coordenadas ecológicas de los bosques de niebla, las cinco coníferas valiosas y los árboles gigantes; la Espada Yitian es el punto más alto de este sistema
 - [Parques nacionales de Taiwán](/es/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — El Parque Nacional Shei-Pa y las áreas de la Agencia de Silvicultura y Conservación de la Naturaleza son los últimos refugios de estos árboles gigantes
 
+## Fuentes de imágenes
+
+Este artículo usa 5 imágenes con licencia CC o de dominio público, todas almacenadas en caché en `public/article-images/nature/`, convertidas a WebP tras eliminar EXIF para evitar enlaces directos a servidores externos:
+
+- [Taiwania (campo en Nantou) — Shihchuan](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides,_Nantou_County,_Taiwan_1.jpg) — Wikimedia Commons, CC BY-SA 2.0 (hero)
+- [Ramas, hojas y porte del taiwania — KENPEI](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides3.jpg) — Wikimedia Commons, CC BY-SA 3.0
+- [Bosque de niebla del Parque Nacional Shei-Pa](https://commons.wikimedia.org/wiki/File:Shei-Pa_National_Park%2Bcwtu%2B003.jpg) — Wikimedia Commons, CC BY-SA 4.0
+- [Montaña Dabajian (cabecera del río Da'an) — Alan Wu](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%9C%B8%E5%B0%96%E5%B1%B1.jpg) — Wikimedia Commons, CC BY-SA 4.0
+- [Bunzo Hayata — Sasaki](https://commons.wikimedia.org/wiki/File:Bunz%C5%8D_Hayata.JPG) — Wikimedia Commons, dominio público
+
+Video: [Documental completo sobre la Espada Yitian del río Da'an, el árbol sagrado más alto de Taiwán](https://www.youtube.com/watch?v=UO2HUmNvyFc) — Canal oficial de la Fundación de Conservación Natural e Información Ambiental (TNF).
+
+Las fotos del propio árbol Espada Yitian, la fotografía de cuerpo entero de Steven Pearce y las imágenes de _La isla de los árboles sagrados_ son materiales con derechos de autor (y la autorización de imágenes de _La isla de los árboles sagrados_ se encuentra en controversia); este artículo no las usa. Para ver esas imágenes, consulta el documental oficial de TNF y los canales publicados por los titulares de derechos.
+
 ## Referencias
 
 [^1]: [After Decade-Long Hunt, Scientists Find East Asia's Tallest Tree — Sci.News](https://www.sci.news/biology/heaven-sword-tree-14824.html) — Reporte de 2026 que confirma que la Espada Yitian del río Da'an, con 84,1 metros, es el árbol más alto conocido actualmente en Asia Oriental; los diez árboles más altos son taiwanias (_Taiwania cryptomerioides_), y nueve de ellos superan los 70 metros.
@@ -349,17 +363,3 @@ Y ahora, sobre aquella quebrada sin nombre en la cabecera del río Da'an, una la
 [^62]: [Taiwania cryptomerioides — IUCN Red List / Royal Botanic Garden Edinburgh](https://threatenedconifers.rbge.org.uk/conifers/taiwania-cryptomerioides) — El estado global de conservación del taiwania es vulnerable; su hábitat está amenazado por el cambio climático, con predicciones de fuerte reducción del hábitat adecuado.
 
 [^63]: [El valle de árboles gigantes de Taoshan almacena unas 1.384 toneladas de carbono por hectárea — CNA, 2026-06-05](https://www.cna.com.tw/news/ahel/202606050305.aspx) — El equipo de Buscadores de Árboles investigó el valle de árboles gigantes donde se encuentra el árbol sagrado Taoshan (4 hectáreas) y estimó una reserva de carbono de unas 1.384 toneladas por hectárea (sin contar raíces), cercana a la de los bosques de árboles gigantes de Tasmania, Australia, entre los de mayor densidad de carbono del mundo (unos 1.867 toneladas/hectárea).
-
-## Fuentes de imágenes
-
-Este artículo usa 5 imágenes con licencia CC o de dominio público, todas almacenadas en caché en `public/article-images/nature/`, convertidas a WebP tras eliminar EXIF para evitar enlaces directos a servidores externos:
-
-- [Taiwania (campo en Nantou) — Shihchuan](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides,_Nantou_County,_Taiwan_1.jpg) — Wikimedia Commons, CC BY-SA 2.0 (hero)
-- [Ramas, hojas y porte del taiwania — KENPEI](https://commons.wikimedia.org/wiki/File:Taiwania_cryptomerioides3.jpg) — Wikimedia Commons, CC BY-SA 3.0
-- [Bosque de niebla del Parque Nacional Shei-Pa](https://commons.wikimedia.org/wiki/File:Shei-Pa_National_Park%2Bcwtu%2B003.jpg) — Wikimedia Commons, CC BY-SA 4.0
-- [Montaña Dabajian (cabecera del río Da'an) — Alan Wu](https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%9C%B8%E5%B0%96%E5%B1%B1.jpg) — Wikimedia Commons, CC BY-SA 4.0
-- [Bunzo Hayata — Sasaki](https://commons.wikimedia.org/wiki/File:Bunz%C5%8D_Hayata.JPG) — Wikimedia Commons, dominio público
-
-Video: [Documental completo sobre la Espada Yitian del río Da'an, el árbol sagrado más alto de Taiwán](https://www.youtube.com/watch?v=UO2HUmNvyFc) — Canal oficial de la Fundación de Conservación Natural e Información Ambiental (TNF).
-
-Las fotos del propio árbol Espada Yitian, la fotografía de cuerpo entero de Steven Pearce y las imágenes de _La isla de los árboles sagrados_ son materiales con derechos de autor (y la autorización de imágenes de _La isla de los árboles sagrados_ se encuentra en controversia); este artículo no las usa. Para ver esas imágenes, consulta el documental oficial de TNF y los canales publicados por los titulares de derechos.

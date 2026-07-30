@@ -281,6 +281,20 @@ _빈의 카를마르크스호프(Karl-Marx-Hof). 1933년 완공된 뒤 지금까
 - [타이베이시 국민주택 배정·임대 현황](https://data.gov.tw/dataset/121267) (타이베이시정부 도시발전국, 비정기 갱신) — 글에 등장한 3대 국민주택, 즉 “정부가 팔아버린 저렴한 주택”의 배정과 임대에 관한 공식 기록.
 - [타이베이시정부 사회주택 전세 임대 위탁관리 매칭 통계자료](https://data.gov.tw/dataset/155779) (타이베이시정부 도시발전국, 매년 갱신) — “2016년 길이 바뀌다: 정부는 팔지 않고 임대하기로 했다”는 새 노선의 집행 단계 숫자.
 
+## 이미지 출처
+
+이 글은 크리에이티브 커먼즈(CC) 라이선스 이미지 8장을 사용했으며, 모두 `public/article-images/society/`에 캐시해 원본 서버 핫링크를 피했다. 또한 공식 채널 영상 2개(화시뉴스, 천하잡지)를 삽입했다.
+
+- [타이베이시 주거 스카이라인(샹산 시점)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo: Heeheemalu, 2026, CC BY-SA 4.0 (hero)
+- [타이베이시 스린구 아파트 거리 풍경](https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_Shilin,_Taipei_20220705.jpg) — Photo: 迷惘的人生, 2022, CC BY-SA 2.0
+- [홍콩 토콰완 하이푸 코트(거옥)](https://commons.wikimedia.org/wiki/File:Hoi_Fu_Court-Hoi_Wen_House_and_Hoi_Lam_House.JPG) — Photo: Thomasman, 2008, CC BY-SA 3.0
+- [런던 Brookfield Estate 시영 공공주택](<https://commons.wikimedia.org/wiki/File:Brookfield_Estate_(49445902922).jpg>) — Photo: Reading Tom, CC BY 2.0
+- [싱가포르 라벤더 지역 HDB 조립주택](https://commons.wikimedia.org/wiki/File:Lavender_district_HDB_flats_in_Singapore.JPG) — Photo: Martinpasquier, 2014, CC BY-SA 4.0
+- [타이베이시 밍룬 사회주택](https://commons.wikimedia.org/wiki/File:Minglun_Social_Housing_front_view_20230304.jpg) — Photo: Solomon203, 2023, CC BY-SA 4.0
+- [타오위안 칭푸 고속철도 특구 스카이라인](https://commons.wikimedia.org/wiki/File:Taoyuan_Skyline_20230903.jpg) — Photo: Heeheemalu, 2023, CC BY-SA 4.0
+- [빈 Karl-Marx-Hof 사회주택](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-_Karl-Marx-Hof_(2).JPG>) — Photo: C.Stadler/Bwag, CC BY-SA 4.0
+- 영상: 화시뉴스 〈716 카이다오 행진, “주거 정의” 외치다〉(YouTube 공식 채널), 천하잡지 〈왜 사회주택 정책은 방향을 바꾸었나〉8분으로 보는 천하 Ep.74(YouTube 공식 채널)
+
 ## 참고 자료
 
 [^1]: [그해 성공 국민주택은 아무도 원하지 않았다(Yahoo 좋은 집 보도)](https://tw.stock.yahoo.com/news/成功國宅當年沒人要) — 성공 국민주택이 1985년 완공 초기 미분양되었고, 가격 인하와 4년 무이자 대출을 붙인 뒤에야 완판되었으며, 노년의 이장 스중성이 부부가 40만 위안의 계약금을 마련해 집을 산 과정을 회고한 보도.
@@ -336,17 +350,3 @@ _빈의 카를마르크스호프(Karl-Marx-Hof). 1933년 완공된 뒤 지금까
 [^26]: [장산정, 행정원 방문해 요청(중시신문망)](https://www.chinatimes.com/realtimenews/20260604003830-260405) — 타오위안시장 장산정이 2026년 6월 4일 행정원을 방문해 부담 가능한 주택을 중앙 정책에 포함해달라고 요청한 일을 보도한 기사. 부담 가능한 주택과 사회주택을 주거 정책의 “두 날개”로 묘사하고, 상호 보완적이지 경쟁적이지 않다고 설명했다는 내용을 전한다.
 
 [^27]: [줘룽타이, 정책 정렬 희망(Newtalk 뉴스)](https://newtalk.tw/news/view/2026-06-04/1039327) — 행정원장 줘룽타이가 타오위안 부담 가능한 주택에 대해 태도를 누그러뜨리고 부정하지 않았으며, 중앙과 지방 정책이 정렬될 수 있기를 바란다고 답한 내용을 보도한다.
-
-## 이미지 출처
-
-이 글은 크리에이티브 커먼즈(CC) 라이선스 이미지 8장을 사용했으며, 모두 `public/article-images/society/`에 캐시해 원본 서버 핫링크를 피했다. 또한 공식 채널 영상 2개(화시뉴스, 천하잡지)를 삽입했다.
-
-- [타이베이시 주거 스카이라인(샹산 시점)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo: Heeheemalu, 2026, CC BY-SA 4.0 (hero)
-- [타이베이시 스린구 아파트 거리 풍경](https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_Shilin,_Taipei_20220705.jpg) — Photo: 迷惘的人生, 2022, CC BY-SA 2.0
-- [홍콩 토콰완 하이푸 코트(거옥)](https://commons.wikimedia.org/wiki/File:Hoi_Fu_Court-Hoi_Wen_House_and_Hoi_Lam_House.JPG) — Photo: Thomasman, 2008, CC BY-SA 3.0
-- [런던 Brookfield Estate 시영 공공주택](<https://commons.wikimedia.org/wiki/File:Brookfield_Estate_(49445902922).jpg>) — Photo: Reading Tom, CC BY 2.0
-- [싱가포르 라벤더 지역 HDB 조립주택](https://commons.wikimedia.org/wiki/File:Lavender_district_HDB_flats_in_Singapore.JPG) — Photo: Martinpasquier, 2014, CC BY-SA 4.0
-- [타이베이시 밍룬 사회주택](https://commons.wikimedia.org/wiki/File:Minglun_Social_Housing_front_view_20230304.jpg) — Photo: Solomon203, 2023, CC BY-SA 4.0
-- [타오위안 칭푸 고속철도 특구 스카이라인](https://commons.wikimedia.org/wiki/File:Taoyuan_Skyline_20230903.jpg) — Photo: Heeheemalu, 2023, CC BY-SA 4.0
-- [빈 Karl-Marx-Hof 사회주택](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-_Karl-Marx-Hof_(2).JPG>) — Photo: C.Stadler/Bwag, CC BY-SA 4.0
-- 영상: 화시뉴스 〈716 카이다오 행진, “주거 정의” 외치다〉(YouTube 공식 채널), 천하잡지 〈왜 사회주택 정책은 방향을 바꾸었나〉8분으로 보는 천하 Ep.74(YouTube 공식 채널)

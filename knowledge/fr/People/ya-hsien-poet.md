@@ -175,6 +175,14 @@ Ya Hsien a laissé quatre-vingt-dix poèmes. Dans la préface de L'Abîme, il ci
 - [Période de la loi martiale](/fr/history/martial-law-era) — contexte historique de la censure littéraire, du Commandement général de la garnison et de l'obscurité comme protestation politique
 - [Médias taïwanais et liberté de la presse](/fr/society/media-and-press-freedom-in-taiwan) — contexte historique du rôle dominant joué par les suppléments littéraires des deux grands journaux, l'United Daily News et le China Times, dans le monde littéraire taïwanais entre les années 1950 et 1990
 
+## Sources des images
+
+Cet article utilise trois images sous licence CC BY-SA, toutes mises en cache dans `public/article-images/people/` afin d'éviter le hotlinking depuis les serveurs sources :
+
+- [瘂弦.tif](https://commons.wikimedia.org/wiki/File:%E7%98%82%E5%BC%A6.tif) — hero. Photo : 目宿媒體股份有限公司, 2012-09-13, CC BY-SA 4.0, vérifiée par la Wikimedia Foundation VRT sous le ticket 2017112310007121
+- [洛夫.tif](https://commons.wikimedia.org/wiki/File:%E6%B4%9B%E5%A4%AB.tif) — inline. Photo : 目宿媒體股份有限公司, 2012, CC BY-SA 4.0
+- [鄭愁予.tif](https://commons.wikimedia.org/wiki/File:%E9%84%AD%E6%84%81%E4%BA%88.tif) — inline. Photo : 目宿媒體股份有限公司, 2017-11-16, CC BY-SA 4.0
+
 ## Références
 
 [^1]: [創世紀詩社 - 維基百科](https://zh.wikipedia.org/zh-hant/%E5%89%B5%E4%B8%96%E7%B4%80%E8%A9%A9%E7%A4%BE) — Fondée en octobre 1954 à Zuoying, Kaohsiung, par Lo Fu et Chang Mo ; Ya Hsien les rejoignit un peu plus tard. Les trois hommes furent appelés le « triangle de fer » de la poésie moderne taïwanaise d'après-guerre.
@@ -212,11 +220,3 @@ Ya Hsien a laissé quatre-vingt-dix poèmes. Dans la préface de L'Abîme, il ci
 [^17]: [鄭愁予 - 維基百科](https://zh.wikipedia.org/zh-hant/%E9%84%AD%E6%84%81%E4%BA%88) — Poète de la même génération que la Société poétique Genesis, mort aux États-Unis le 13 juin 2025 à l'âge de 91 ans ; son œuvre représentative « Erreur », avec le vers « Le martèlement de mes sabots est une belle erreur », figure parmi les poèmes les plus diffusés de l'histoire de la poésie moderne taïwanaise.
 
 [^18]: [張默（詩人）- 維基百科](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E9%BB%98_%28%E8%A9%A9%E4%BA%BA%29) — Né en 1931, cofondateur de la Société poétique Genesis et longtemps rédacteur en chef, il est salué comme la « locomotive du mouvement de la nouvelle poésie taïwanaise » ; toujours vivant en 2026, il est le seul survivant du triangle de fer de Genesis.
-
-## Sources des images
-
-Cet article utilise trois images sous licence CC BY-SA, toutes mises en cache dans `public/article-images/people/` afin d'éviter le hotlinking depuis les serveurs sources :
-
-- [瘂弦.tif](https://commons.wikimedia.org/wiki/File:%E7%98%82%E5%BC%A6.tif) — hero. Photo : 目宿媒體股份有限公司, 2012-09-13, CC BY-SA 4.0, vérifiée par la Wikimedia Foundation VRT sous le ticket 2017112310007121
-- [洛夫.tif](https://commons.wikimedia.org/wiki/File:%E6%B4%9B%E5%A4%AB.tif) — inline. Photo : 目宿媒體股份有限公司, 2012, CC BY-SA 4.0
-- [鄭愁予.tif](https://commons.wikimedia.org/wiki/File:%E9%84%AD%E6%84%81%E4%BA%88.tif) — inline. Photo : 目宿媒體股份有限公司, 2017-11-16, CC BY-SA 4.0

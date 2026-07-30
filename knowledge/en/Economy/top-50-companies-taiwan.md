@@ -170,6 +170,14 @@ After reading this table, what readers should take away is not "who ranks where,
 - [Taiwan's National Defense and Military Modernization](/en/society/taiwan-defense-modernization) — The geopolitical linkage between the silicon shield and the top 50
 - [Taiwan Science Parks](/en/technology/science-park-development) — The production bases behind the top 50's 11 semiconductor seats, and the spatial version of three-park output concentration
 
+## Image Sources
+
+This article uses three public-domain / Creative Commons licensed images, all cached in `public/article-images/economy/` to avoid hotlinking source servers:
+
+- **Hero**: [Tsmc factory hsinchu](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) — Photo: Arusanov, 2009-07-20, exterior of a TSMC plant in Hsinchu Science Park. Public domain via Wikimedia Commons.
+- **Inline 1 (Taipei 101 / Taiwan Stock Exchange)**: [Taipei 101 20230511 114624](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg) — Photo: Anas1712, 2023-05-11, exterior of Taipei 101, headquarters of the Taiwan Stock Exchange. CC BY 4.0 via Wikimedia Commons.
+- **Inline 2 (Mailiao Sixth Naphtha Cracker)**: [Formosa Plastics Group Mail-Liao Industrial Complex, Yunlin (Taiwan)](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>) — Photo: Malcolm Koo (User:Mk2010), 2014-03-15, aerial view of Formosa Plastics Group's Sixth Naphtha Cracker industrial complex in Mailiao, Yunlin. CC BY-SA 3.0 via Wikimedia Commons.
+
 ## References
 
 [^1]: [Tom's Hardware: Jensen Huang dines at Taipei night market with Taiwan tech CEOs](https://www.tomshardware.com/tech-industry/jensen-huang-dines-at-taipei-night-market-with-taiwan-tech-ceos) — Media record of the May 28, 2024, dinner at Ningxia Night Market attended by Jensen Huang, Morris Chang, Rick Tsai, Barry Lam, and Kris Yao.
@@ -233,11 +241,3 @@ After reading this table, what readers should take away is not "who ranks where,
 [^30]: [The Reporter: Long-term investigation of health risks for residents near the Sixth Naphtha Cracker](https://www.twreporter.org/a/fpc-sixth-naphtha-cracker-contaminant-detection) — Professor Chan Chang-chuan's 2012 NTU College of Public Health study: heavy-metal metabolite concentrations in urine among residents within 10 kilometers were 5.5 times those among residents more than 10 kilometers away; the Sixth Naphtha Cracker emitted 132 toxic carcinogenic substances, with annual PM2.5 emissions on the scale of 140,000 tons.
 
 [^31]: [Citizen of the Earth Foundation: Analysis of air-pollution sources in Kaohsiung's steel industry](https://www.cet-taiwan.org/) — 80-90% of air pollution from Kaohsiung's steel industry comes from China Steel; 36% of PM and 32% of SOx come from the steel industry; comparison data before and after China Steel's 2017-2020 investment of NT$4.756 billion in improvements.
-
-## Image Sources
-
-This article uses three public-domain / Creative Commons licensed images, all cached in `public/article-images/economy/` to avoid hotlinking source servers:
-
-- **Hero**: [Tsmc factory hsinchu](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) — Photo: Arusanov, 2009-07-20, exterior of a TSMC plant in Hsinchu Science Park. Public domain via Wikimedia Commons.
-- **Inline 1 (Taipei 101 / Taiwan Stock Exchange)**: [Taipei 101 20230511 114624](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg) — Photo: Anas1712, 2023-05-11, exterior of Taipei 101, headquarters of the Taiwan Stock Exchange. CC BY 4.0 via Wikimedia Commons.
-- **Inline 2 (Mailiao Sixth Naphtha Cracker)**: [Formosa Plastics Group Mail-Liao Industrial Complex, Yunlin (Taiwan)](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>) — Photo: Malcolm Koo (User:Mk2010), 2014-03-15, aerial view of Formosa Plastics Group's Sixth Naphtha Cracker industrial complex in Mailiao, Yunlin. CC BY-SA 3.0 via Wikimedia Commons.

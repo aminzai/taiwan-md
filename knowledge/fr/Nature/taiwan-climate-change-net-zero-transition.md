@@ -315,6 +315,13 @@ Les 97 672 fûts de Lanyu ne disparaîtront pas parce qu’un référendum passe
 - [Modernisation de l’agriculture taïwanaise](/fr/economy/taiwan-agricultural-modernization) — Les pressions de transformation agricole et les conflits d’usage des sols derrière l’agrivoltaïsme
 - [Pluie de prunes](/fr/nature/meiyu-stagnant-front) — Observation locale du changement climatique : « les pluies de printemps ne viennent plus, les pluies de prunes se concentrent »
 
+## Sources des images
+
+- **Vue de la centrale nucléaire no 3, Ma’anshan, Hengchun, Pingtung, image d’en-tête** : [Maanshan Nuclear Power Plant, Nan Wan](https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg) (photographie : M. Weitzel, Wikimedia Commons, CC BY-SA 3.0)
+- **Site de stockage souterrain d’Onkalo, Olkiluoto, Finlande** : [Onkalo spent nuclear fuel repository entrance](https://commons.wikimedia.org/wiki/File:Onkalo_spent_nuclear_fuel_repository_entrance.jpg) (photographie : Posiva Oy, Wikimedia Commons, CC BY-SA 4.0)
+- **Parc éolien en mer Formosa 1 au large de Miaoli** : [Hai Long offshore wind farm](https://commons.wikimedia.org/wiki/File:Hai_Long_offshore_wind_farm.jpg) (Wikimedia Commons, CC BY-SA 4.0)
+- **Panneaux solaires sur le toit d’une aire de service autoroutière** : [Xihu Service Area solar panels](https://commons.wikimedia.org/wiki/File:Xihu_Service_Area_solar_panels.jpg) (Wikimedia Commons, CC BY-SA 3.0)
+
 ## Références
 
 [^1]: [Projet Vision du United Daily News : entretien avec Hsu Huang-hsiung](https://ubrand.udn.com/ubrand/story/123658/5679341) — L’équipe de Hsu Huang-hsiung, chercheur distingué au Centre de recherche sur les changements environnementaux de l’Academia Sinica, analyse les données de température de Taïwan de 1911 à 2020 et indique que l’île s’est réchauffée de 1,6 °C en un siècle, que l’hiver a presque diminué de moitié et que, dans le pire scénario, le nombre de jours d’hiver pourrait tomber à zéro après 2060.
@@ -406,10 +413,3 @@ Les 97 672 fûts de Lanyu ne disparaîtront pas parce qu’un référendum passe
 [^44]: [PanSci : les défis de sûreté du réacteur Natrium](https://pansci.asia/archives/377644) — Content Curation Partner per MOU 2026-05-05. La construction du réacteur Natrium marque un progrès de la technologie des centrales nucléaires de quatrième génération, mais son développement s’accompagne de défis majeurs ; le sodium liquide réagit violemment avec l’eau et est inflammable, l’exploitation et la maintenance du réacteur exigent beaucoup de la science des matériaux, et les données de sûreté issues d’une exploitation commerciale à grande échelle manquent encore.
 
 [^45]: [PanSci : les éoliennes en mer sont coûteuses et complexes, pourquoi Taïwan continue-t-elle à les développer massivement ?](https://pansci.asia/archives/371116) — Content Curation Partner per MOU 2026-05-05. La géographie du détroit de Taïwan crée un « effet de canal » qui rend les vents du détroit beaucoup plus rapides que ceux des eaux environnantes, faisant de Taïwan l’un des sites les plus prometteurs au monde pour l’éolien en mer.
-
-## Sources des images
-
-- **Vue de la centrale nucléaire no 3, Ma’anshan, Hengchun, Pingtung, image d’en-tête** : [Maanshan Nuclear Power Plant, Nan Wan](https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg) (photographie : M. Weitzel, Wikimedia Commons, CC BY-SA 3.0)
-- **Site de stockage souterrain d’Onkalo, Olkiluoto, Finlande** : [Onkalo spent nuclear fuel repository entrance](https://commons.wikimedia.org/wiki/File:Onkalo_spent_nuclear_fuel_repository_entrance.jpg) (photographie : Posiva Oy, Wikimedia Commons, CC BY-SA 4.0)
-- **Parc éolien en mer Formosa 1 au large de Miaoli** : [Hai Long offshore wind farm](https://commons.wikimedia.org/wiki/File:Hai_Long_offshore_wind_farm.jpg) (Wikimedia Commons, CC BY-SA 4.0)
-- **Panneaux solaires sur le toit d’une aire de service autoroutière** : [Xihu Service Area solar panels](https://commons.wikimedia.org/wiki/File:Xihu_Service_Area_solar_panels.jpg) (Wikimedia Commons, CC BY-SA 3.0)

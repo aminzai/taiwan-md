@@ -242,6 +242,17 @@ _張介冠在螢幕前修整數位化的字形。鉛字時代的修字手藝，�
 - [社會運動與公民參與](/society/社會運動與公民參與)：金萱論戰那種「為公共事務吵架」的能量，在台灣社會有更大的脈絡。
 - [海底電纜](/technology/海底電纜)：另一種人人天天使用、卻幾乎沒有人看見的基礎設施。
 
+## 圖片來源
+
+- **封面圖**：金萱字型 flyingV 募資頁主視覺。© justfont / flyingV，fair use editorial commentary。來源：[flyingV 專案頁](https://www.flyingv.cc/projects/8250)
+- **台北公車路線顯示**：Photo: BlubiNeko, 2022，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，via Wikimedia Commons
+- **日星鑄字行鉛字**：Photo: Johan Jönsson, 2023，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，via Wikimedia Commons
+- **金萱官方樣張**：© justfont，justfont 提供素材，fair use editorial commentary（合作授權）。來源：[justfont blog 金萱發表文](https://blog.justfont.com/2015/08/introducing-jinshuan/)
+- **jf open 粉圓官方視覺**：© justfont，官方 GitHub repo 釋出（字型本體 OFL 1.1）。來源：[open-huninn-font](https://github.com/justfont/open-huninn-font)
+- **蘭陽明體與《澗于集》對照圖**：© justfont，justfont 提供素材，fair use editorial commentary（合作授權）。來源：[justfont 蘭陽明體官方頁](https://justfont.com/lanyangming/)
+- **柑仔蜜官方樣張**：© justfont，justfont 提供素材，fair use editorial commentary（合作授權）。來源：[justfont 柑仔蜜官方頁](https://justfont.com/kamabit/)
+- **張介冠修字工作照**：© justfont，justfont 提供素材，fair use editorial commentary（合作授權）。來源：[justfont blog 日星宋體貳號](https://blog.justfont.com/2025/06/rixing-song2-revivals/)
+
 ## 參考資料
 
 [^1]: [flyingV：金萱字型募資專案頁](https://www.flyingv.cc/projects/8250) — 募資一手紀錄，總額 NT$25,930,099、7,667 人次贊助、目標 150 萬元。
@@ -373,14 +384,3 @@ _張介冠在螢幕前修整數位化的字形。鉛字時代的修字手藝，�
 [^64]: [維基百科：就是字（justfont）](https://zh.wikipedia.org/zh-tw/%E5%B0%B1%E6%98%AF%E5%AD%97) — 記載公司沿革：葉俊麟華康背景、2010 年創立、蘇煒翔 2012 年加入為第一位正式員工。
 
 [^65]: [維基百科：威鋒數位](https://zh.wikipedia.org/wiki/%E5%A8%81%E9%8B%92%E6%95%B8%E4%BD%8D) — 記載華康 1987 年 9 月於台北成立、為台灣第一間數位字型公司，及 2001 年改名威鋒數位的沿革。
-
-## 圖片來源
-
-- **封面圖**：金萱字型 flyingV 募資頁主視覺。© justfont / flyingV，fair use editorial commentary。來源：[flyingV 專案頁](https://www.flyingv.cc/projects/8250)
-- **台北公車路線顯示**：Photo: BlubiNeko, 2022，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，via Wikimedia Commons
-- **日星鑄字行鉛字**：Photo: Johan Jönsson, 2023，[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)，via Wikimedia Commons
-- **金萱官方樣張**：© justfont，justfont 提供素材，fair use editorial commentary（合作授權）。來源：[justfont blog 金萱發表文](https://blog.justfont.com/2015/08/introducing-jinshuan/)
-- **jf open 粉圓官方視覺**：© justfont，官方 GitHub repo 釋出（字型本體 OFL 1.1）。來源：[open-huninn-font](https://github.com/justfont/open-huninn-font)
-- **蘭陽明體與《澗于集》對照圖**：© justfont，justfont 提供素材，fair use editorial commentary（合作授權）。來源：[justfont 蘭陽明體官方頁](https://justfont.com/lanyangming/)
-- **柑仔蜜官方樣張**：© justfont，justfont 提供素材，fair use editorial commentary（合作授權）。來源：[justfont 柑仔蜜官方頁](https://justfont.com/kamabit/)
-- **張介冠修字工作照**：© justfont，justfont 提供素材，fair use editorial commentary（合作授權）。來源：[justfont blog 日星宋體貳號](https://blog.justfont.com/2025/06/rixing-song2-revivals/)

@@ -316,6 +316,13 @@ _시후 휴게소 지붕 태양광 패널. 타이완 태양광은 2024년 설비
 - [타이완 농업 현대화 발전](/ko/economy/taiwan-agricultural-modernization) — 영농형 태양광 뒤의 농업 전환 압력과 토지 이용 갈등
 - [메이위](/ko/nature/meiyu-stagnant-front) — “봄비는 오지 않고, 메이위는 집중된다”는 기후변화의 지역 관찰
 
+## 이미지 출처
+
+- **핵3 발전소 외관(핑둥 헝춘 마안산, hero)**: [Maanshan Nuclear Power Plant, Nan Wan](https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg)(촬영: M. Weitzel, Wikimedia Commons, CC BY-SA 3.0)
+- **Onkalo 지하 처분장(핀란드 올킬루오토)**: [Onkalo spent nuclear fuel repository entrance](https://commons.wikimedia.org/wiki/File:Onkalo_spent_nuclear_fuel_repository_entrance.jpg)(촬영: Posiva Oy, Wikimedia Commons, CC BY-SA 4.0)
+- **먀오리 외해의 하이넝 해상풍력발전단지**: [Hai Long offshore wind farm](https://commons.wikimedia.org/wiki/File:Hai_Long_offshore_wind_farm.jpg)(Wikimedia Commons, CC BY-SA 4.0)
+- **고속도로 휴게소 지붕 태양광 패널**: [Xihu Service Area solar panels](https://commons.wikimedia.org/wiki/File:Xihu_Service_Area_solar_panels.jpg)(Wikimedia Commons, CC BY-SA 3.0)
+
 ## 참고자료
 
 [^1]: [聯合報系願景工程：許晃雄專訪](https://ubrand.udn.com/ubrand/story/123658/5679341) — 중앙연구원 환경변천연구센터 특임연구원 쉬황슝 팀은 1911-2020년 타이완 기온 자료를 분석해, 타이완이 100년 동안 1.6°C 상승했고 겨울이 거의 절반으로 줄었으며, 최악의 시나리오에서는 2060년 이후 겨울 일수가 0이 될 수 있다고 지적했다.
@@ -407,10 +414,3 @@ _시후 휴게소 지붕 태양광 패널. 타이완 태양광은 2024년 설비
 [^44]: [PanSci 泛科學：Natrium 反應爐的安全挑戰](https://pansci.asia/archives/377644) — Content Curation Partner per MOU 2026-05-05. Natrium 원자로 건설은 4세대 원전 기술의 진전을 의미하지만, 그 발전은 중대한 도전을 동반한다. 액체 나트륨은 물과 만나면 격렬히 반응하고 불이 붙기 쉬우며, 원자로 운전과 유지보수는 재료과학에 매우 높은 요구를 제기한다. 현재 대규모 상업운전 안전 데이터가 부족하다.
 
 [^45]: [PanSci 泛科學：離岸風機建設又貴又麻煩，為何台灣仍要大力發展](https://pansci.asia/archives/371116) — Content Curation Partner per MOU 2026-05-05. 타이완해협은 지형적 요인으로 “관로 효과”를 형성해 해협의 풍속이 주변 해역보다 훨씬 높고, 이로 인해 타이완은 전 세계에서 가장 잠재력이 큰 해상풍력 발전지 중 하나가 된다.
-
-## 이미지 출처
-
-- **핵3 발전소 외관(핑둥 헝춘 마안산, hero)**: [Maanshan Nuclear Power Plant, Nan Wan](https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg)(촬영: M. Weitzel, Wikimedia Commons, CC BY-SA 3.0)
-- **Onkalo 지하 처분장(핀란드 올킬루오토)**: [Onkalo spent nuclear fuel repository entrance](https://commons.wikimedia.org/wiki/File:Onkalo_spent_nuclear_fuel_repository_entrance.jpg)(촬영: Posiva Oy, Wikimedia Commons, CC BY-SA 4.0)
-- **먀오리 외해의 하이넝 해상풍력발전단지**: [Hai Long offshore wind farm](https://commons.wikimedia.org/wiki/File:Hai_Long_offshore_wind_farm.jpg)(Wikimedia Commons, CC BY-SA 4.0)
-- **고속도로 휴게소 지붕 태양광 패널**: [Xihu Service Area solar panels](https://commons.wikimedia.org/wiki/File:Xihu_Service_Area_solar_panels.jpg)(Wikimedia Commons, CC BY-SA 3.0)

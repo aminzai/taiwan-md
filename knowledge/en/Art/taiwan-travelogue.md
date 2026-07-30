@@ -160,6 +160,14 @@ _At the National Book Awards finalist reading on November 19, 2024, Yang Shuang-
 - [Chu Tien-wen](/en/people/chu-tien-wen) — a representative post-martial-law woman writer, whose _Notes of a Desolate Man_ and _The Old Capital_ are important precursors to the fake-translation structure in Taiwanese literature
 - [Wu Ming-yi](/en/people/wu-ming-yi) — another representative Taiwanese writer in the international translated-literature wave of the 2020s; _The Man with the Compound Eyes_ and _The Stolen Bicycle_ gained visibility in the English-language world
 
+## Image Sources
+
+This article uses three Wikimedia Commons images licensed under CC BY-SA 4.0, all cached under `public/article-images/art/` to avoid hotlinking source servers:
+
+- [Yang Shuang-zi at the 2024 National Book Awards](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg) — Photo: Bea Phi (Phibeatrice), 2024-11-20, CC BY-SA 4.0. Yang Shuang-zi at the National Book Awards ceremony at Cipriani Wall Street in New York.
+- [Yang Shuang-zi and Lin King at the National Book Awards Ceremony 2024](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_and_Lin_King_at_the_National_Book_Awards_Ceremony_2024_02.jpg) — Photo: Jennifer 8. Lee (Jenny8lee), 2024-11-20, CC BY-SA 4.0. Yang Shuang-zi and translator Lin King pictured together.
+- [Yáng Shuāng-zǐ, writer, at the 2024 National Book Awards finalist reading 3](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg) — Photo: Bea Phi (Phibeatrice), 2024-11-19, CC BY-SA 4.0. Yang Shuang-zi at the National Book Awards finalist reading.
+
 ## References
 
 [^1]: [Central News Agency: "Taiwan Travelogue" wins the International Booker Prize; Yang Shuang-zi: being born Taiwanese is fortune and pride](https://www.cna.com.tw/news/acul/202605200011.aspx) — A May 20, 2026 report by Taiwan's Central News Agency documenting the International Booker Prize ceremony at Tate Modern in London and the prize money details, with the GBP 50,000 divided equally between author and translator.
@@ -229,11 +237,3 @@ _At the National Book Awards finalist reading on November 19, 2024, Yang Shuang-
 [^33]: [The Reporter: Interview with Yang Shuang-zi](https://www.twreporter.org/a/interview-taiwan-travelogue-a-novel-writer-yang-shuang-zi) — Yang Shuang-zi explains in her own words the writing motive that emerged after the 2014 Sunflower Movement and her thinking on Taiwan-China relations: "The key question to answer was: what exactly is different between Taiwan and China?"
 
 [^34]: [U People: The twins' lives and writing poured into one person](https://topic.udn.com/event/2025_0310) — In a deep interview with _U People_ of _United Daily News_, Yang Shuang-zi mentions her regret that her younger sister did not live to see _Taiwan Travelogue_ win these awards: "If only this result had come a little earlier; perhaps my younger sister could have seen it."
-
-## Image Sources
-
-This article uses three Wikimedia Commons images licensed under CC BY-SA 4.0, all cached under `public/article-images/art/` to avoid hotlinking source servers:
-
-- [Yang Shuang-zi at the 2024 National Book Awards](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg) — Photo: Bea Phi (Phibeatrice), 2024-11-20, CC BY-SA 4.0. Yang Shuang-zi at the National Book Awards ceremony at Cipriani Wall Street in New York.
-- [Yang Shuang-zi and Lin King at the National Book Awards Ceremony 2024](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_and_Lin_King_at_the_National_Book_Awards_Ceremony_2024_02.jpg) — Photo: Jennifer 8. Lee (Jenny8lee), 2024-11-20, CC BY-SA 4.0. Yang Shuang-zi and translator Lin King pictured together.
-- [Yáng Shuāng-zǐ, writer, at the 2024 National Book Awards finalist reading 3](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg) — Photo: Bea Phi (Phibeatrice), 2024-11-19, CC BY-SA 4.0. Yang Shuang-zi at the National Book Awards finalist reading.

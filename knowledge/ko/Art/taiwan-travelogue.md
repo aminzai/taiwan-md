@@ -160,6 +160,14 @@ _2024년 11월 19일 NBA finalist reading(최종 후보자 낭독회)에서 양�
 - [주톈원](/ko/people/chu-tien-wen) — 계엄 해제 이후 여성 글쓰기를 대표하는 작가. 그의 《황인수기》와 《고도》의 의탁 방식은 타이완 문학에서 가짜 번역 구조의 중요한 선례다
 - [우밍이](/ko/people/wu-ming-yi) — 2020년대 국제 번역문학 흐름 속의 또 다른 타이완 대표 작가. 《복안인》과 《자전거 도난기》는 영어권에서 가시성을 얻었다
 
+## 이미지 출처
+
+이 글은 Wikimedia Commons의 CC BY-SA 4.0 라이선스 이미지 3장을 사용했으며, 원 서버 핫링크를 피하기 위해 모두 `public/article-images/art/`에 캐시했다.
+
+- [Yang Shuang-zi at the 2024 National Book Awards](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg) — Photo: Bea Phi (Phibeatrice), 2024-11-20, CC BY-SA 4.0. 뉴욕 Cipriani Wall Street NBA 시상식 현장의 양솽쯔.
+- [Yang Shuang-zi and Lin King at the National Book Awards Ceremony 2024](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_and_Lin_King_at_the_National_Book_Awards_Ceremony_2024_02.jpg) — Photo: Jennifer 8. Lee (Jenny8lee), 2024-11-20, CC BY-SA 4.0. 양솽쯔와 번역자 린 킹의 사진.
+- [Yáng Shuāng-zǐ, writer, at the 2024 National Book Awards finalist reading 3](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg) — Photo: Bea Phi (Phibeatrice), 2024-11-19, CC BY-SA 4.0. NBA 최종 후보자 낭독회의 양솽쯔.
+
 ## 참고 자료
 
 [^1]: [중앙사: “타이완 만유록” 부커 인터내셔널상 수상, 양솽쯔: 타이완인으로 태어난 것은 행운이자 자부심](https://www.cna.com.tw/news/acul/202605200011.aspx) — 중앙통신사 2026년 5월 20일 보도. 런던 Tate Modern 국제 부커상 시상 현장과 상금 세부 사항(5만 파운드를 작가와 번역자가 절반씩 나눔)을 기록했다.
@@ -229,11 +237,3 @@ _2024년 11월 19일 NBA finalist reading(최종 후보자 낭독회)에서 양�
 [^33]: [보도자: 양솽쯔 인터뷰](https://www.twreporter.org/a/interview-taiwan-travelogue-a-novel-writer-yang-shuang-zi) — 양솽쯔가 2014년 318 해바라기운동 이후 타이완과 중국의 관계에 대한 집필 동기를 직접 밝혔다. “핵심은 답해야 한다는 것입니다. 타이완과 중국은 대체 무엇이 다른가?”
 
 [^34]: [유인물: 쌍둥이의 삶과 글쓰기가 한 사람에게 부어진다](https://topic.udn.com/event/2025_0310) — 양솽쯔가 《연합보》 유인물 심층 인터뷰에서 여동생이 생전에 《타이완 만유록》의 수상을 보지 못한 데 대한 아쉬움을 말했다. “이 결과가 조금만 더 일찍 왔더라면 좋았을 텐데요. 동생도 어쩌면 볼 수 있었을 겁니다.”
-
-## 이미지 출처
-
-이 글은 Wikimedia Commons의 CC BY-SA 4.0 라이선스 이미지 3장을 사용했으며, 원 서버 핫링크를 피하기 위해 모두 `public/article-images/art/`에 캐시했다.
-
-- [Yang Shuang-zi at the 2024 National Book Awards](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_at_the_2024_National_Book_Awards.jpg) — Photo: Bea Phi (Phibeatrice), 2024-11-20, CC BY-SA 4.0. 뉴욕 Cipriani Wall Street NBA 시상식 현장의 양솽쯔.
-- [Yang Shuang-zi and Lin King at the National Book Awards Ceremony 2024](https://commons.wikimedia.org/wiki/File:Yang_Shuang-zi_and_Lin_King_at_the_National_Book_Awards_Ceremony_2024_02.jpg) — Photo: Jennifer 8. Lee (Jenny8lee), 2024-11-20, CC BY-SA 4.0. 양솽쯔와 번역자 린 킹의 사진.
-- [Yáng Shuāng-zǐ, writer, at the 2024 National Book Awards finalist reading 3](https://commons.wikimedia.org/wiki/File:Y%C3%A1ng_Shu%C4%81ng-z%C7%90,_writer,_at_the_2024_National_Book_Awards_finalist_reading_3.jpg) — Photo: Bea Phi (Phibeatrice), 2024-11-19, CC BY-SA 4.0. NBA 최종 후보자 낭독회의 양솽쯔.

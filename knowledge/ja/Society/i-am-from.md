@@ -167,6 +167,19 @@ That forgotten instruction was caught this time. Next time, it will not forget t
 - [Taiwan Artificial Intelligence Laboratory](/ja/technology/taiwan-ai-labs) — Local technology using AI to detect coordinated cognitive operations
 - [Taiwan Media and Press Freedom](/ja/society/media-and-press-freedom-in-taiwan) — The larger context of Wang Zhong controversies and media group structures
 
+## Image Sources
+
+Most images in this article are screenshots of public pages, cited under Article 52 of the Copyright Law "Fair Use for Reporting and Review," with sources marked:
+
+- Cover Image / Fanpage Side-by-Side: "I Am a Kaohsiung Person" "I Am a Taipei Person" Facebook fanpages (@Kaohsiung.Info, @Taipei.Info) screenshots.
+- Exposure Summary: Fanpage "Kaohsiung Good Day" (@takaogoodday) Threads post screenshot.
+- Jishuo Technology Commercial Registration: [opengovtw](https://opengovtw.com/ban/89977832), data from Ministry of Economic Affairs Commercial and Industrial Registration Public Disclosure.
+- LIFE Lifestyle Network Service Page: [aams.tw](https://www.aams.tw/?app=Service&act=life) (Jishuo Technology) screenshot.
+- Qinhuangdao Content Farm AI Instruction: Screenshot from [Voice Tank / Wang Hong'en](https://voicettank.org/20260210-1) article.
+- [NCC Yanping South Road Office](https://commons.wikimedia.org/wiki/File:ROC-NCC_Yangping_South_Road_Office_20100929.jpg): Photo by Solomon203, CC BY-SA 3.0 (Wikimedia Commons).
+- [Legislative Yuan Chamber](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E6%B3%95%E9%99%A2%E8%AD%B0%E5%A0%B4.jpg): Photo by Lin Gaozhi, CC BY-SA 4.0 (Wikimedia Commons).
+- Matchmaking account screenshots involve real photos possibly stolen; this article does not reproduce them based on privacy, presenting only with data and text descriptions.
+
 ## References
 
 [^1]: [Controversy Over Forgotten AI Instruction! Fanpage "I Am OO Person" Exposed with Unknown Capital Flow, Content from Pro-China Media](https://newtalk.tw/news/view/2026-02-21/1020740) — Newtalk 2026-02-21 main report, including operators, AI instruction, content sources, unknown capital flow, Nianjie "assisting over 100 fanpages" recruitment text, Tokyo Dome fake images.
@@ -214,16 +227,3 @@ That forgotten instruction was caught this time. Next time, it will not forget t
 [^22]: [Digital Development Ministry Fines Meta Heavily According to Anti-Fraud Regulations](https://moda.gov.tw/ADI/news/latest-news/16524) — Ministry of Digital Affairs, _Regulations on Prevention and Punishment of Fraud Crimes_ Article 31 (disclose commissioned broadcaster/sponsor), Article 32 (24-hour takedown and joint liability), has fined Meta three times cumulatively NT$18.5 million.
 
 [^23]: ["I Am XX Person" Fanpages Suspected to Prepare for Election Public Opinion Operations](https://www.epochtimes.com/gb/25/12/28/n14663860.htm) — Epoch Times 2025-12-28, military fanpage "New 27th Brigade" named the series "written by AI, consistent format" two months before exposure.
-
-## Image Sources
-
-Most images in this article are screenshots of public pages, cited under Article 52 of the Copyright Law "Fair Use for Reporting and Review," with sources marked:
-
-- Cover Image / Fanpage Side-by-Side: "I Am a Kaohsiung Person" "I Am a Taipei Person" Facebook fanpages (@Kaohsiung.Info, @Taipei.Info) screenshots.
-- Exposure Summary: Fanpage "Kaohsiung Good Day" (@takaogoodday) Threads post screenshot.
-- Jishuo Technology Commercial Registration: [opengovtw](https://opengovtw.com/ban/89977832), data from Ministry of Economic Affairs Commercial and Industrial Registration Public Disclosure.
-- LIFE Lifestyle Network Service Page: [aams.tw](https://www.aams.tw/?app=Service&act=life) (Jishuo Technology) screenshot.
-- Qinhuangdao Content Farm AI Instruction: Screenshot from [Voice Tank / Wang Hong'en](https://voicettank.org/20260210-1) article.
-- [NCC Yanping South Road Office](https://commons.wikimedia.org/wiki/File:ROC-NCC_Yangping_South_Road_Office_20100929.jpg): Photo by Solomon203, CC BY-SA 3.0 (Wikimedia Commons).
-- [Legislative Yuan Chamber](https://commons.wikimedia.org/wiki/File:%E7%AB%8B%E6%B3%95%E9%99%A2%E8%AD%B0%E5%A0%B4.jpg): Photo by Lin Gaozhi, CC BY-SA 4.0 (Wikimedia Commons).
-- Matchmaking account screenshots involve real photos possibly stolen; this article does not reproduce them based on privacy, presenting only with data and text descriptions.

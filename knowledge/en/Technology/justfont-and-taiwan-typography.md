@@ -246,6 +246,17 @@ The difference came after that morning in September 2015. Now tens of thousands 
 - [Social Movements and Civic Participation](/en/society/social-movements-and-civic-participation): the kind of energy in the Jin Xuan debate, where people argued over public affairs, has a larger context in Taiwanese society.
 - [Submarine Cables](/en/technology/submarine-cables-taiwan-lifeline): another kind of infrastructure everyone uses every day, yet almost no one sees.
 
+## Image Sources
+
+- **Cover image:** Main visual from the Jin Xuan typeface flyingV crowdfunding page. © justfont / flyingV, fair use editorial commentary. Source: [flyingV project page](https://www.flyingv.cc/projects/8250)
+- **Taipei bus route display:** Photo: BlubiNeko, 2022, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
+- **Ri Xing Type Foundry lead type:** Photo: Johan Jönsson, 2023, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
+- **Official Jin Xuan specimen:** © justfont, materials provided by justfont, fair use editorial commentary under cooperative authorization. Source: [justfont blog Jin Xuan launch post](https://blog.justfont.com/2015/08/introducing-jinshuan/)
+- **Official jf open Huninn visual:** © justfont, released in the official GitHub repo (font itself under OFL 1.1). Source: [open-huninn-font](https://github.com/justfont/open-huninn-font)
+- **Comparison of Lanyang Ming and _Jianyuji_:** © justfont, materials provided by justfont, fair use editorial commentary under cooperative authorization. Source: [justfont Lanyang Ming official page](https://justfont.com/lanyangming/)
+- **Official Kamabit specimen:** © justfont, materials provided by justfont, fair use editorial commentary under cooperative authorization. Source: [justfont Kamabit official page](https://justfont.com/kamabit/)
+- **Work photo of Chang Chieh-kuan repairing type:** © justfont, materials provided by justfont, fair use editorial commentary under cooperative authorization. Source: [justfont blog Ri Xing Song No. 2](https://blog.justfont.com/2025/06/rixing-song2-revivals/)
+
 ## References
 
 [^1]: [flyingV: Jin Xuan typeface crowdfunding project page](https://www.flyingv.cc/projects/8250) — Primary crowdfunding record: total NT$25,930,099, 7,667 backers, NT$1.5 million target.
@@ -377,14 +388,3 @@ The difference came after that morning in September 2015. Now tens of thousands 
 [^64]: [Wikipedia: justfont](https://zh.wikipedia.org/zh-tw/%E5%B0%B1%E6%98%AF%E5%AD%97) — Records company history: Yeh Chun-lin’s DynaComware background, 2010 founding, and Su Wei-hsiang joining in 2012 as the first formal employee.
 
 [^65]: [Wikipedia: DynaLab](https://zh.wikipedia.org/wiki/%E5%A8%81%E9%8B%92%E6%95%B8%E4%BD%8D) — Records DynaComware’s founding in Taipei in September 1987 as Taiwan’s first digital type company and its 2001 renaming as DynaLab.
-
-## Image Sources
-
-- **Cover image:** Main visual from the Jin Xuan typeface flyingV crowdfunding page. © justfont / flyingV, fair use editorial commentary. Source: [flyingV project page](https://www.flyingv.cc/projects/8250)
-- **Taipei bus route display:** Photo: BlubiNeko, 2022, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
-- **Ri Xing Type Foundry lead type:** Photo: Johan Jönsson, 2023, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons
-- **Official Jin Xuan specimen:** © justfont, materials provided by justfont, fair use editorial commentary under cooperative authorization. Source: [justfont blog Jin Xuan launch post](https://blog.justfont.com/2015/08/introducing-jinshuan/)
-- **Official jf open Huninn visual:** © justfont, released in the official GitHub repo (font itself under OFL 1.1). Source: [open-huninn-font](https://github.com/justfont/open-huninn-font)
-- **Comparison of Lanyang Ming and _Jianyuji_:** © justfont, materials provided by justfont, fair use editorial commentary under cooperative authorization. Source: [justfont Lanyang Ming official page](https://justfont.com/lanyangming/)
-- **Official Kamabit specimen:** © justfont, materials provided by justfont, fair use editorial commentary under cooperative authorization. Source: [justfont Kamabit official page](https://justfont.com/kamabit/)
-- **Work photo of Chang Chieh-kuan repairing type:** © justfont, materials provided by justfont, fair use editorial commentary under cooperative authorization. Source: [justfont blog Ri Xing Song No. 2](https://blog.justfont.com/2025/06/rixing-song2-revivals/)

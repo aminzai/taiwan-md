@@ -288,6 +288,20 @@ Les données ouvertes gouvernementales ci-dessous permettent de vérifier, ou de
 - [Situation des ventes et locations de logements nationaux de la ville de Taipei](https://data.gov.tw/dataset/121267)（Bureau du développement urbain du gouvernement de la ville de Taipei ; mise à jour irrégulière）— archives officielles des attributions et locations de ces « logements bon marché vendus par le gouvernement » dans les trois grands ensembles de logements nationaux évoqués dans l'article
 - [Statistiques d'appariement du programme d'intermédiation locative et de gestion déléguée des logements sociaux du gouvernement de la ville de Taipei](https://data.gov.tw/dataset/155779)（Bureau du développement urbain du gouvernement de la ville de Taipei ; mise à jour annuelle）— chiffres d'exécution de la nouvelle voie décrite dans « 2016 : changement de voie, le gouvernement ne vend plus, il loue »
 
+## Sources des images
+
+Cet article utilise 8 images sous licence Creative Commons, toutes mises en cache dans `public/article-images/society/` afin d'éviter le hotlinking vers les serveurs sources ; il intègre également 2 vidéos de chaînes officielles (CTS News et CommonWealth Magazine).
+
+- [Skyline résidentielle de Taipei (vue depuis Xiangshan)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo : Heeheemalu, 2026, CC BY-SA 4.0（hero）
+- [Paysage de rue d'appartements dans l'arrondissement de Shilin, Taipei](https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_Shilin,_Taipei_20220705.jpg) — Photo : 迷惘的人生, 2022, CC BY-SA 2.0
+- [Hoi Fu Court à To Kwa Wan, Hong Kong (HOS)](https://commons.wikimedia.org/wiki/File:Hoi_Fu_Court-Hoi_Wen_House_and_Hoi_Lam_House.JPG) — Photo : Thomasman, 2008, CC BY-SA 3.0
+- [Brookfield Estate, logement municipal à Londres](<https://commons.wikimedia.org/wiki/File:Brookfield_Estate_(49445902922).jpg>) — Photo : Reading Tom, CC BY 2.0
+- [Immeubles HDB du quartier de Lavender à Singapour](https://commons.wikimedia.org/wiki/File:Lavender_district_HDB_flats_in_Singapore.JPG) — Photo : Martinpasquier, 2014, CC BY-SA 4.0
+- [Résidence sociale Minglun à Taipei](https://commons.wikimedia.org/wiki/File:Minglun_Social_Housing_front_view_20230304.jpg) — Photo : Solomon203, 2023, CC BY-SA 4.0
+- [Skyline du quartier spécial Qingpu HSR à Taoyuan](https://commons.wikimedia.org/wiki/File:Taoyuan_Skyline_20230903.jpg) — Photo : Heeheemalu, 2023, CC BY-SA 4.0
+- [Logement social Karl-Marx-Hof à Vienne](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-_Karl-Marx-Hof_(2).JPG>) — Photo : C.Stadler/Bwag, CC BY-SA 4.0
+- Vidéos : CTS News, « 716 凱道遊行喊「居住正義」 » (chaîne YouTube officielle) ; CommonWealth Magazine, « 為何社宅政策大轉彎 », 8 分鐘看懂天下 Ep.74 (chaîne YouTube officielle)
+
 ## Références
 
 [^1]: [À l'époque, personne ne voulait des logements nationaux de Chenggong（Yahoo 好宅報報）](https://tw.stock.yahoo.com/news/成功國宅當年沒人要) — Article relatant la mévente initiale des logements nationaux de Chenggong après leur achèvement en 1985, l'abaissement du prix et le prêt sans intérêts sur quatre ans nécessaires pour les vendre, ainsi que le souvenir de l'ancien chef de quartier Shih Chung-sheng, qui raconte comment son épouse et lui ont réuni 400 000 dollars taïwanais d'apport initial.
@@ -343,17 +357,3 @@ Les données ouvertes gouvernementales ci-dessous permettent de vérifier, ou de
 [^26]: [Chang San-cheng se rend au Yuan exécutif pour plaider sa cause（China Times）](https://www.chinatimes.com/realtimenews/20260604003830-260405) — Article relatant la visite du maire de Taoyuan, Chang San-cheng, au Yuan exécutif le 4 juin 2026 pour demander l'intégration des logements abordables à la politique nationale, et rapportant sa métaphore des logements abordables et des logements sociaux comme les « deux ailes » de la politique du logement, complémentaires plutôt que concurrentes.
 
 [^27]: [Cho Jung-tai souhaite l'alignement des politiques（Newtalk）](https://newtalk.tw/news/view/2026-06-04/1039327) — Article rapportant l'assouplissement de la position du Premier ministre Cho Jung-tai sur les logements abordables de Taoyuan, sans rejet de la démarche, et son souhait que les politiques de l'État central et des collectivités locales puissent être alignées.
-
-## Sources des images
-
-Cet article utilise 8 images sous licence Creative Commons, toutes mises en cache dans `public/article-images/society/` afin d'éviter le hotlinking vers les serveurs sources ; il intègre également 2 vidéos de chaînes officielles (CTS News et CommonWealth Magazine).
-
-- [Skyline résidentielle de Taipei (vue depuis Xiangshan)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo : Heeheemalu, 2026, CC BY-SA 4.0（hero）
-- [Paysage de rue d'appartements dans l'arrondissement de Shilin, Taipei](https://commons.wikimedia.org/wiki/File:Apartment_buildings_in_Shilin,_Taipei_20220705.jpg) — Photo : 迷惘的人生, 2022, CC BY-SA 2.0
-- [Hoi Fu Court à To Kwa Wan, Hong Kong (HOS)](https://commons.wikimedia.org/wiki/File:Hoi_Fu_Court-Hoi_Wen_House_and_Hoi_Lam_House.JPG) — Photo : Thomasman, 2008, CC BY-SA 3.0
-- [Brookfield Estate, logement municipal à Londres](<https://commons.wikimedia.org/wiki/File:Brookfield_Estate_(49445902922).jpg>) — Photo : Reading Tom, CC BY 2.0
-- [Immeubles HDB du quartier de Lavender à Singapour](https://commons.wikimedia.org/wiki/File:Lavender_district_HDB_flats_in_Singapore.JPG) — Photo : Martinpasquier, 2014, CC BY-SA 4.0
-- [Résidence sociale Minglun à Taipei](https://commons.wikimedia.org/wiki/File:Minglun_Social_Housing_front_view_20230304.jpg) — Photo : Solomon203, 2023, CC BY-SA 4.0
-- [Skyline du quartier spécial Qingpu HSR à Taoyuan](https://commons.wikimedia.org/wiki/File:Taoyuan_Skyline_20230903.jpg) — Photo : Heeheemalu, 2023, CC BY-SA 4.0
-- [Logement social Karl-Marx-Hof à Vienne](<https://commons.wikimedia.org/wiki/File:Döbling_(Wien)_-_Karl-Marx-Hof_(2).JPG>) — Photo : C.Stadler/Bwag, CC BY-SA 4.0
-- Vidéos : CTS News, « 716 凱道遊行喊「居住正義」 » (chaîne YouTube officielle) ; CommonWealth Magazine, « 為何社宅政策大轉彎 », 8 分鐘看懂天下 Ep.74 (chaîne YouTube officielle)

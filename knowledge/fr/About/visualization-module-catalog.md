@@ -337,6 +337,12 @@ Les recherches récentes ont également fait la preuve de cette voie : la préci
 - [Grande motion de censure](/fr/history/great-recall-movement-2024) — La suite de la ligne pointillée de majorité de l'arc de sièges : comment le Parlement sans majorité absolue de trois partis est arrivé à 31 motions de censure
 - [Crise de la faible natalité à Taïwan](/fr/society/taiwan-low-birth-rate-crisis) — Ne pas pouvoir acheter une maison et ne pas pouvoir avoir d'enfants, l'autre face de la justice intergénérationnelle
 
+## Sources des images
+
+Cet article utilise 1 image sous licence CC, mise en cache dans `public/article-images/society/` :
+
+- [Horizon urbain résidentiel de Taipei (vue du mont Xiang)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo : Heeheemalu, 2026, CC BY-SA 4.0 (hero)
+
 ## Références
 
 [^1]: [Plateforme d'information sur l'immobilier du Ministère de l'intérieur](https://pip.moi.gov.tw/Publicize/Info/E1050) — Statistiques officielles sur le logement : ratio prix du logement/revenu, taux de charge hypothécaire, taux de propriété résidentielle, etc.
@@ -352,9 +358,3 @@ Les recherches récentes ont également fait la preuve de cette voie : la préci
 [^6]: [Agence centrale de Taïwan : trois partis sans majorité absolue aux élections législatives de 2024](https://www.cna.com.tw/news/aipl/202401130361.aspx) — La répartition de 113 sièges de l'arc de sièges (Parti Kuomintang 52, Parti progressiste démocrate 51, Parti populaire de Taïwan 8, Indépendants 2) est le résultat vérifié par la Commission électorale centrale, chaîne de vérification dans « [Grande motion de censure](/fr/history/great-recall-movement-2024) ».
 
 [^7]: [Annonce des normes de ratio infirmiers/patients en trois équipes du Ministère de la santé et du bien-être (2024)](https://www.mohw.gov.tw/) — Valeurs standard du ratio infirmiers/patients en trois équipes à trois niveaux de la grille de petits multiples, chaîne de vérification dans « [Loi sur les soins médicaux](/fr/society/medical-care-act) ».
-
-## Sources des images
-
-Cet article utilise 1 image sous licence CC, mise en cache dans `public/article-images/society/` :
-
-- [Horizon urbain résidentiel de Taipei (vue du mont Xiang)](https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg) — Photo : Heeheemalu, 2026, CC BY-SA 4.0 (hero)

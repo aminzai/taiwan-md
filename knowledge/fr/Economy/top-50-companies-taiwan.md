@@ -170,6 +170,14 @@ Après avoir lu ce tableau, le lecteur ne devrait pas seulement retenir « qui e
 - [Défense taïwanaise et modernisation militaire](/fr/society/taiwan-defense-modernization) — Le silicon shield et l'interaction géopolitique des 50 plus grandes entreprises
 - [Parcs scientifiques de Taïwan](/fr/technology/science-park-development) — La base de production des 11 entreprises de semi-conducteurs du top 50 ; version spatiale de la concentration des trois parcs
 
+## Sources des images
+
+Cet article utilise trois images sous domaine public ou licence Creative Commons, toutes mises en cache dans `public/article-images/economy/` afin d'éviter le hotlinking vers les serveurs sources :
+
+- **Hero** : [Tsmc factory hsinchu](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) — Photo : Arusanov, 2009-07-20, vue extérieure du site de TSMC dans le parc scientifique de Hsinchu. Public domain via Wikimedia Commons.
+- **Inline 1 (Taipei 101 / Bourse de Taïwan)** : [Taipei 101 20230511 114624](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg) — Photo : Anas1712, 2023-05-11, vue extérieure de Taipei 101, siège de la Bourse de Taïwan. CC BY 4.0 via Wikimedia Commons.
+- **Inline 2 (sixième complexe de Mailiao)** : [Formosa Plastics Group Mail-Liao Industrial Complex, Yunlin (Taiwan)](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>) — Photo : Malcolm Koo (User:Mk2010), 2014-03-15, vue aérienne du sixième complexe pétrochimique de Formosa Plastics à Mailiao, Yunlin. CC BY-SA 3.0 via Wikimedia Commons.
+
 ## Références
 
 [^1]: [Tom's Hardware：Jensen Huang dines at Taipei night market with Taiwan tech CEOs](https://www.tomshardware.com/tech-industry/jensen-huang-dines-at-taipei-night-market-with-taiwan-tech-ceos) — Compte rendu médiatique du dîner de Jensen Huang, Morris Chang, Rick Tsai, Barry Lam et Kris Yao au marché de nuit de Ningxia le 2024-05-28.
@@ -233,11 +241,3 @@ Après avoir lu ce tableau, le lecteur ne devrait pas seulement retenir « qui e
 [^30]: [報導者：六輕居民健康風險長期調查](https://www.twreporter.org/a/fpc-sixth-naphtha-cracker-contaminant-detection) — Étude 2012 de Chan Chang-chuan, département de santé publique de l'Université nationale de Taïwan : concentration de métabolites de métaux lourds 5,5 fois plus élevée dans l'urine des habitants à moins de 10 kilomètres que chez ceux au-delà, 132 substances toxiques et cancérogènes dans le complexe de la sixième naphta, et émissions annuelles de PM2.5 de l'ordre de 140 000 tonnes.
 
 [^31]: [地球公民基金會：高雄鋼鐵業空污來源分析](https://www.cet-taiwan.org/) — 80 à 90 % de la pollution atmosphérique sidérurgique de Kaohsiung provient de China Steel ; 36 % des particules et 32 % des SOx proviennent de la sidérurgie ; données comparatives avant et après les 4,756 milliards de dollars taïwanais investis par China Steel de 2017 à 2020.
-
-## Sources des images
-
-Cet article utilise trois images sous domaine public ou licence Creative Commons, toutes mises en cache dans `public/article-images/economy/` afin d'éviter le hotlinking vers les serveurs sources :
-
-- **Hero** : [Tsmc factory hsinchu](https://commons.wikimedia.org/wiki/File:Tsmc_factory_hsinchu.JPG) — Photo : Arusanov, 2009-07-20, vue extérieure du site de TSMC dans le parc scientifique de Hsinchu. Public domain via Wikimedia Commons.
-- **Inline 1 (Taipei 101 / Bourse de Taïwan)** : [Taipei 101 20230511 114624](https://commons.wikimedia.org/wiki/File:Taipei_101_20230511_114624.jpg) — Photo : Anas1712, 2023-05-11, vue extérieure de Taipei 101, siège de la Bourse de Taïwan. CC BY 4.0 via Wikimedia Commons.
-- **Inline 2 (sixième complexe de Mailiao)** : [Formosa Plastics Group Mail-Liao Industrial Complex, Yunlin (Taiwan)](<https://commons.wikimedia.org/wiki/File:Formosa_Plastics_Group_Mail-Liao_Industrial_Complex,_Yunlin_(Taiwan).jpg>) — Photo : Malcolm Koo (User:Mk2010), 2014-03-15, vue aérienne du sixième complexe pétrochimique de Formosa Plastics à Mailiao, Yunlin. CC BY-SA 3.0 via Wikimedia Commons.

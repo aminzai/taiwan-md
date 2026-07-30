@@ -168,6 +168,16 @@ In the final paragraph of BIOS monthly’s “Trolley Problem,” Nieh said: “
 - [Sunflower Movement](/en/society/sunflower-movement) — the historical scene of the 4 a.m. New York Times advertisement in 2014
 - [Taiwan New Media Art](/en/art/taiwan-new-media-art) — the position of Aaron Nieh Workshop within Taiwan’s contemporary visual culture
 
+## Image Sources
+
+This article uses five images, all cached in `public/article-images/people/` to avoid hotlinking source servers. The first three are Wikimedia Commons CC-licensed images, and the final two are fair-use editorial-commentary citations of publicly available media files directly related to public discussion of Aaron Nieh’s design works:
+
+- **hero**: [Aaron Nieh 2018](<https://commons.wikimedia.org/wiki/File:%E8%81%B6%E6%B0%B8%E7%9C%9F_(40799138092).jpg>) — Photo: Gene Wang (Flickr user 56814157@N03), 2018-03-16, CC BY-SA 2.0
+- **inline 1**: [Sunflower Movement 20140323 Legislative Yuan](https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B%2020140323%20%E7%AB%8B%E6%B3%95%E9%99%A2%207045%20%2814127449295%29.jpg) — Photo: Ray Swi-hy (Flickr), 2014-03-23 17:03, CC BY-SA 2.0
+- **inline 2**: “[Democracy at 4am” New York Times front-page advertisement (2014-03-30)](https://www.thenewslens.com/article/2866) — Design: Aaron Nieh, made available for free download through [4am.tw](https://4am.tw/) at the time; image file from The News Lens report (i-Chen Tsai 2014/03 blog archive version) — fair-use editorial commentary citation (citizen-crowdfunded work + publicly disseminated by the designer according to original intent)
+- **inline 3**: [Tsai Ing-wen presidential campaign, 2016](<https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg>) — Photo: MiNe (Flickr), 2015-10-18, CC BY 2.0
+- **inline 4**: [Aaron Nieh’s Taipower new standard-lettering design process (2026-05-08)](https://www.mirrormedia.mg/story/20260508edi031) — Screenshot from Aaron Nieh’s [public Facebook post](https://www.facebook.com/somekidding/posts/1384626443696723) (verified account @somekidding), image file hosted by Mirror Media report — fair-use editorial commentary citation (public post + disclosure of logo design process for a public issue)
+
 ## References
 
 [^1]: [Aaron Nieh Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%81%B6%E6%B0%B8%E7%9C%9F) — Structural information on Aaron Nieh’s life, education, awards, year of AGI admission, the three Golden Melody Award album-packaging wins (21st, 25th, and 26th), and book and record collaborators including Lo Yi-chin, Gan Yao-ming, Rye Field, China Times Publishing, INK, and Linking Publishing.
@@ -231,13 +241,3 @@ In the final paragraph of BIOS monthly’s “Trolley Problem,” Nieh said: “
 [^30]: [Central News Agency 2026-05-12: Taipower logo typeface controversy; Culture Minister Li Yuan says design is professional and should “return to professionalism”](https://www.cna.com.tw/news/aipl/202605120035.aspx) — Culture Minister Li Yuan’s remarks during an interview at the Legislative Yuan on May 12, 2026, emphasizing the independence and professionalism of design value.
 
 [^31]: [FTV News 2026-05-12: Taipower identity optimization sparks controversy; official clarification says “old and new will coexist,” old signs will not be replaced](https://www.ftvnews.com.tw/news/detail/2026512W0263) — May 12, 2026 report containing details of Taipower’s adjusted implementation plan in response to public pressure.
-
-## Image Sources
-
-This article uses five images, all cached in `public/article-images/people/` to avoid hotlinking source servers. The first three are Wikimedia Commons CC-licensed images, and the final two are fair-use editorial-commentary citations of publicly available media files directly related to public discussion of Aaron Nieh’s design works:
-
-- **hero**: [Aaron Nieh 2018](<https://commons.wikimedia.org/wiki/File:%E8%81%B6%E6%B0%B8%E7%9C%9F_(40799138092).jpg>) — Photo: Gene Wang (Flickr user 56814157@N03), 2018-03-16, CC BY-SA 2.0
-- **inline 1**: [Sunflower Movement 20140323 Legislative Yuan](https://commons.wikimedia.org/wiki/File:%E5%A4%AA%E9%99%BD%E8%8A%B1%E5%AD%B8%E9%81%8B%2020140323%20%E7%AB%8B%E6%B3%95%E9%99%A2%207045%20%2814127449295%29.jpg) — Photo: Ray Swi-hy (Flickr), 2014-03-23 17:03, CC BY-SA 2.0
-- **inline 2**: “[Democracy at 4am” New York Times front-page advertisement (2014-03-30)](https://www.thenewslens.com/article/2866) — Design: Aaron Nieh, made available for free download through [4am.tw](https://4am.tw/) at the time; image file from The News Lens report (i-Chen Tsai 2014/03 blog archive version) — fair-use editorial commentary citation (citizen-crowdfunded work + publicly disseminated by the designer according to original intent)
-- **inline 3**: [Tsai Ing-wen presidential campaign, 2016](<https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg>) — Photo: MiNe (Flickr), 2015-10-18, CC BY 2.0
-- **inline 4**: [Aaron Nieh’s Taipower new standard-lettering design process (2026-05-08)](https://www.mirrormedia.mg/story/20260508edi031) — Screenshot from Aaron Nieh’s [public Facebook post](https://www.facebook.com/somekidding/posts/1384626443696723) (verified account @somekidding), image file hosted by Mirror Media report — fair-use editorial commentary citation (public post + disclosure of logo design process for a public issue)

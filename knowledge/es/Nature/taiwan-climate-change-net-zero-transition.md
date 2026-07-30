@@ -316,6 +316,13 @@ Lanyu's 97,672 barrels will not disappear because the referendum passed or faile
 - [Taiwan Agricultural Modernization Development](/es/economy/taiwan-agricultural-modernization) — Agricultural transformation pressure and land use conflicts behind agrivoltaics.
 - [Plum Rain](/es/nature/meiyu-stagnant-front) — Climate change local observations of "Spring rain doesn't come, Plum Rain concentrates."
 
+## Image Sources
+
+- **Nuclear Three Plant Exterior (Pingtung Hengchun Maanshan, hero)**: [Maanshan Nuclear Power Plant, Nan Wan](https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg) (Photography: M. Weitzel, Wikimedia Commons, CC BY-SA 3.0)
+- **Onkalo Underground Repository (Finland Olkiluoto)**: [Onkalo spent nuclear fuel repository entrance](https://commons.wikimedia.org/wiki/File:Onkalo_spent_nuclear_fuel_repository_entrance.jpg) (Photography: Posiva Oy, Wikimedia Commons, CC BY-SA 4.0)
+- **Hai Neng Offshore Wind Farm off Miaoli**: [Hai Long offshore wind farm](https://commons.wikimedia.org/wiki/File:Hai_Long_offshore_wind_farm.jpg) (Wikimedia Commons, CC BY-SA 4.0)
+- **Solar Panels on Xihu Service Area Roof**: [Xihu Service Area solar panels](https://commons.wikimedia.org/wiki/File:Xihu_Service_Area_solar_panels.jpg) (Wikimedia Commons, CC BY-SA 3.0)
+
 ## References
 
 [^1]: [United Daily News Vision Project: Hsu Hsiung-hsiung Interview](https://ubrand.udn.com/ubrand/story/123658/5679341) — Academia Sinica Center for Environmental Change Research Distinguished Researcher Hsu Hsiung-hsiung's team analyzed Taiwan's temperature data from 1911-2020, pointing out Taiwan's century-long warming of 1.6°C, winter shortened by nearly half, worst-case scenario winter days may drop to zero after 2060.
@@ -407,10 +414,3 @@ Lanyu's 97,672 barrels will not disappear because the referendum passed or faile
 [^44]: [PanSci: Natrium Reactor Safety Challenges](https://pansci.asia/archives/377644) — Content Curation Partner per MOU 2026-05-05. Natrium reactor construction marks fourth-generation nuclear power plant technology progress, but development comes with major challenges; liquid sodium reacts violently and is flammable when contacting water, reactor operation and maintenance extremely high requirements for materials science, currently lacks large-scale commercial operation safety data.
 
 [^45]: [PanSci: Offshore Wind Turbine Construction Expensive and Troublesome, Why Taiwan Still Develops Heavily](https://pansci.asia/archives/371116) — Content Curation Partner per MOU 2026-05-05. Taiwan Strait due to topographical factors forms "pipe effect," causing wind speeds in strait much higher than surrounding waters, making Taiwan one of most potential offshore wind development locations globally.
-
-## Image Sources
-
-- **Nuclear Three Plant Exterior (Pingtung Hengchun Maanshan, hero)**: [Maanshan Nuclear Power Plant, Nan Wan](https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg) (Photography: M. Weitzel, Wikimedia Commons, CC BY-SA 3.0)
-- **Onkalo Underground Repository (Finland Olkiluoto)**: [Onkalo spent nuclear fuel repository entrance](https://commons.wikimedia.org/wiki/File:Onkalo_spent_nuclear_fuel_repository_entrance.jpg) (Photography: Posiva Oy, Wikimedia Commons, CC BY-SA 4.0)
-- **Hai Neng Offshore Wind Farm off Miaoli**: [Hai Long offshore wind farm](https://commons.wikimedia.org/wiki/File:Hai_Long_offshore_wind_farm.jpg) (Wikimedia Commons, CC BY-SA 4.0)
-- **Solar Panels on Xihu Service Area Roof**: [Xihu Service Area solar panels](https://commons.wikimedia.org/wiki/File:Xihu_Service_Area_solar_panels.jpg) (Wikimedia Commons, CC BY-SA 3.0)

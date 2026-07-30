@@ -154,6 +154,12 @@ _쉐이바 국가공원이 2026년 4월 29일부터 시작한 “우링 황갈�
 - [다안시 의천검](/ko/nature/daan-river-yitian-sword) — 마찬가지로 쉐이바 깊은 곳에 숨어 “사람이 닿을 수 없는” 덕분에 살아남은 노거목; 타이완 삼나무가 동아시아 최고 높이의 나무로 자라는 그런 손대지 않은 발원지 계곡의 원시림이야말로 황갈색물고기올빼미가 의존하는 서식지다
 - [대만 국가공원](/ko/nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes) — 쉐이바, 타이루거, 위산 3대 국가공원은 황갈색물고기올빼미 안정 개체군의 마지막 보루이며, 보호구역 제도의 구체적 사례다
 
+## 이미지 출처
+
+이 글은 CC 라이선스 이미지 1장을 사용하며, 원본 서버의 핫링크를 피하기 위해 `public/article-images/nature/`에 캐시했다.
+
+- [Tawny fish owl. Ketupa flavipes - Flickr - gailhampshire](https://commons.wikimedia.org/wiki/File:Tawny_fish_owl._Ketupa_flavipes_-_Flickr_-_gailhampshire.jpg) — Photo: gailhampshire (Cradley, Malvern, UK), 2009-02-17, [CC BY 2.0 via Wikimedia Commons](https://creativecommons.org/licenses/by/2.0/)
+
 ## 참고자료
 
 [^1]: [Avibase - 황갈색물고기올빼미 (Ketupa flavipes)](https://avibase.bsc-eoc.org/species.jsp?avibaseid=67CA1D2676A192A5) — 국제 조류 데이터베이스. 황갈색물고기올빼미의 분류학사를 기록한다. Hodgson이 1836년 네팔에서 *Cultrunguis flavipes*로 명명했고, 이후 *Bubo*로 옮겨졌으며, 최근에는 분자 계통 연구에 따라 독립된 *Ketupa*속으로 분리되었다.
@@ -193,9 +199,3 @@ _쉐이바 국가공원이 2026년 4월 29일부터 시작한 “우링 황갈�
 [^18]: [황갈색물고기올빼미 육추 화면 속 화면 공개! “샤오바오”가 국보어를 통째로 삼키고, 어미 새는 위층 “다바오”에게 배달 - 자유시보](https://news.ltn.com.tw/news/life/breakingnews/5423811) — 2026년 5월 3일 보도. 먼저 태어난 “다바오”가 5월 1일 둥지를 떠나 둥지 위쪽으로 이동하자, 쉐이바와 국립핑둥과학기술대학 팀이 두 번째 카메라를 추가 설치해 화면 속 화면으로 두 새끼의 성장 과정을 동시에 기록했다.
 
 [^19]: [“어둠의 왕자” 황갈색물고기올빼미 새끼가 매우 귀여워, 쉐이바가 전 국민 “이름 짓기”를 초청 - 자유시보](https://news.ltn.com.tw/news/life/breakingnews/5426048) — 2026년 5월 5일 보도. 쉐이바 관리처와 국립핑둥과학기술대학 훙샤오위 교수가 이름 짓기 행사를 시작했으며, 현재 두 새끼는 임시로 “다바오”와 “샤오바오”라 불린다. 5월 10일 연구팀이 공동으로 5개 입선안을 선정한다.
-
-## 이미지 출처
-
-이 글은 CC 라이선스 이미지 1장을 사용하며, 원본 서버의 핫링크를 피하기 위해 `public/article-images/nature/`에 캐시했다.
-
-- [Tawny fish owl. Ketupa flavipes - Flickr - gailhampshire](https://commons.wikimedia.org/wiki/File:Tawny_fish_owl._Ketupa_flavipes_-_Flickr_-_gailhampshire.jpg) — Photo: gailhampshire (Cradley, Malvern, UK), 2009-02-17, [CC BY 2.0 via Wikimedia Commons](https://creativecommons.org/licenses/by/2.0/)

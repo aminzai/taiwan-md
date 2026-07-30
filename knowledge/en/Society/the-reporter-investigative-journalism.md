@@ -273,6 +273,21 @@ Reframing "I pay NT$200 every month" from "doing a good deed" into "paying a ver
 - [Poisoned Potato Cognitive Warfare](/en/society/poisoned-potato-cognitive-warfare-taiwan) — A concrete case study of a cognitive-warfare incident.
 - [PTT Bulletin Board System](/en/technology/ptt-bulletin-board-system) — Taiwan's public sphere from the pre-social-network internet era, in the same lineage as The Reporter around the idea that platforms are not necessarily neutral.
 
+## Image Sources
+
+This article uses 5 official The Reporter brand assets and work images under fair use (editorial commentary on The Reporter's work), all cached in `public/article-images/society/` to avoid hotlinking source servers; it also embeds 2 videos from The Reporter's official YouTube channel.
+
+- [The Reporter brand identity image](https://www.twreporter.org) — The Reporter, Fair use (hero)
+- ["Open the Door to Participation, Speak Collectively" identity slogan](https://www.twreporter.org) — The Reporter, Fair use
+- ["The Big Tuna Behind Taiwan's Distant-Water Fishing Industry" information graphic (2017 SOPA Excellence in Information Graphics top prize)](https://www.twreporter.org/a/infographic-far-sea-fishing-gcs) — The Reporter, Fair use
+- [United-front concentric-circles special-report relationship map (2026)](https://www.twreporter.org/a/united-front-work-powered-by-holger-chen-and-china-influencers) — The Reporter (design: Huang Yu-chen; compilation: Kung Te-lien and Fang Te-lin), Fair use
+- [The Reporter for Kids launch promotional image (2022)](https://kids.twreporter.org) — The Reporter, Fair use
+
+Embedded videos (The Reporter's official YouTube channel):
+
+- [Aesthetic-medicine偷拍 Storm: What Is Wrong with Taiwan's Aesthetic-Medicine Regulation?](https://www.youtube.com/watch?v=_AdtqBm7Hk4) — The Reporter
+- [The Reporter's Anniversary: Speak Out Loud!](https://www.youtube.com/watch?v=H_PiSMCR6Sc) — The Reporter
+
 ## References
 
 [^1]: Ho Jung-hsing Facebook post, 2025-09-14: "In The Reporter's first month online, there were only 4 recurring monthly donors. I did not dare let my colleagues know this number." See facebook.com/twreporter/posts/1235665585269425.
@@ -394,18 +409,3 @@ Reframing "I pay NT$200 every month" from "doing a good deed" into "paying a ver
 [^59]: 2025 disinformation survey: about 96 percent of people in Taiwan felt disinformation was widespread (the original survey was by the NTU Center for Resilient Society and was reported by The News Lens). thenewslens.com/article/267704.
 
 [^60]: Reuters Institute Digital News Report 2024 Taiwan: overall trust in news was 33 percent. reutersinstitute.politics.ox.ac.uk/digital-news-report/2024/taiwan.
-
-## Image Sources
-
-This article uses 5 official The Reporter brand assets and work images under fair use (editorial commentary on The Reporter's work), all cached in `public/article-images/society/` to avoid hotlinking source servers; it also embeds 2 videos from The Reporter's official YouTube channel.
-
-- [The Reporter brand identity image](https://www.twreporter.org) — The Reporter, Fair use (hero)
-- ["Open the Door to Participation, Speak Collectively" identity slogan](https://www.twreporter.org) — The Reporter, Fair use
-- ["The Big Tuna Behind Taiwan's Distant-Water Fishing Industry" information graphic (2017 SOPA Excellence in Information Graphics top prize)](https://www.twreporter.org/a/infographic-far-sea-fishing-gcs) — The Reporter, Fair use
-- [United-front concentric-circles special-report relationship map (2026)](https://www.twreporter.org/a/united-front-work-powered-by-holger-chen-and-china-influencers) — The Reporter (design: Huang Yu-chen; compilation: Kung Te-lien and Fang Te-lin), Fair use
-- [The Reporter for Kids launch promotional image (2022)](https://kids.twreporter.org) — The Reporter, Fair use
-
-Embedded videos (The Reporter's official YouTube channel):
-
-- [Aesthetic-medicine偷拍 Storm: What Is Wrong with Taiwan's Aesthetic-Medicine Regulation?](https://www.youtube.com/watch?v=_AdtqBm7Hk4) — The Reporter
-- [The Reporter's Anniversary: Speak Out Loud!](https://www.youtube.com/watch?v=H_PiSMCR6Sc) — The Reporter

@@ -196,6 +196,24 @@ _2021년 DT668이 E327에 의해 밀려 대만철도 해선을 달리는 모습(
 
 ---
 
+## 이미지 출처
+
+이 글은 CC 라이선스 이미지 3장을 사용하며, 출처 서버의 핫링크를 피하기 위해 모두 `public/article-images/history/`에 cache했다.
+
+- [타이둥선 증기기관차 화부 1970s](https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg) — Photo 제공자: 저우융푸, 1970s, CC BY 4.0, Wikimedia Commons File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg
+- [장화 선형차고 증기기관차군 2009](https://commons.wikimedia.org/wiki/File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg) — Photo: Neeson Hsu, 2009-08-30, CC BY 2.0, Wikimedia Commons File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg
+- [DT668이 E327에 의해 밀려 해선을 달리는 모습 2021](https://commons.wikimedia.org/wiki/File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg) — Photo: Cheng-en Cheng, 2021-10-25, CC BY-SA 2.0, Wikimedia Commons File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg
+
+---
+
+## 더 읽을거리
+
+- [청치 시기](/ko/history/qing-dynasty-rule) — 류밍촨이 철로를 깔기 시작한 정치적 배경
+- [일본 통치기](/ko/history/japanese-colonial-era) — 하세가와 긴스케와 가와이 시타로가 대만 철도 건설을 이어받은 식민정부의 맥락
+- [청불전쟁](/ko/history/sino-french-war-in-taiwan) — 류밍촨은 이 전쟁 때문에 대만 초대 순무로 임명되었고, 곧이어 지룽-신주 철도 건설을 시작했다
+- [대만 교통 체계](/ko/lifestyle/transportation-system) — 전후 철도가 도로, 공항, 첩운 등 다원적 교통망 속에서 차지한 위치
+- [대만고속철도](/ko/lifestyle/taiwan-high-speed-rail) — 2007년 개통한 고속철도 체계, 대만 철도사의 현대적 연장
+
 ## 참고 자료
 
 - [대만회억탐험단: 1908년 10월 24일 대만 종관철도 전통식](https://www.twmemory.org/?p=7323)
@@ -238,21 +256,3 @@ _2021년 DT668이 E327에 의해 밀려 대만철도 해선을 달리는 모습(
 [^f12]: [위키백과: 쯔창호 열차](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E5%BC%B7%E8%99%9F%E5%88%97%E8%BB%8A) — 1976년 민의측험협회 조사, 셰둥민의 명명 재정, 1978-08-15 EMU100 운행 개시의 전체 맥락. 「장엄하고 공경히 자강하며, 변고에도 놀라지 않는다」는 전거 포함.
 
 [^f13]: [위키백과: 푸싱호 열차](https://zh.wikipedia.org/zh-tw/%E5%BE%A9%E8%88%88%E8%99%9F%E5%88%97%E8%BB%8A) — 1980-07-06 운행 개시, 탕룽철공장 제작 냉방차, 제3급 객차로 자리매김한 기록.
-
-## 이미지 출처
-
-이 글은 CC 라이선스 이미지 3장을 사용하며, 출처 서버의 핫링크를 피하기 위해 모두 `public/article-images/history/`에 cache했다.
-
-- [타이둥선 증기기관차 화부 1970s](https://commons.wikimedia.org/wiki/File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg) — Photo 제공자: 저우융푸, 1970s, CC BY 4.0, Wikimedia Commons File:Locomotive_fireman_of_TRA_Taitung_Line_1970s.jpg
-- [장화 선형차고 증기기관차군 2009](https://commons.wikimedia.org/wiki/File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg) — Photo: Neeson Hsu, 2009-08-30, CC BY 2.0, Wikimedia Commons File:2009-08-30_Steam_locomotives_at_TRA_Changhua_Roundhouse.jpg
-- [DT668이 E327에 의해 밀려 해선을 달리는 모습 2021](https://commons.wikimedia.org/wiki/File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg) — Photo: Cheng-en Cheng, 2021-10-25, CC BY-SA 2.0, Wikimedia Commons File:2021-10-25_TRA_DT668_pulled_by_E327_on_the_Coast_Line.jpg
-
----
-
-## 더 읽을거리
-
-- [청치 시기](/ko/history/qing-dynasty-rule) — 류밍촨이 철로를 깔기 시작한 정치적 배경
-- [일본 통치기](/ko/history/japanese-colonial-era) — 하세가와 긴스케와 가와이 시타로가 대만 철도 건설을 이어받은 식민정부의 맥락
-- [청불전쟁](/ko/history/sino-french-war-in-taiwan) — 류밍촨은 이 전쟁 때문에 대만 초대 순무로 임명되었고, 곧이어 지룽-신주 철도 건설을 시작했다
-- [대만 교통 체계](/ko/lifestyle/transportation-system) — 전후 철도가 도로, 공항, 첩운 등 다원적 교통망 속에서 차지한 위치
-- [대만고속철도](/ko/lifestyle/taiwan-high-speed-rail) — 2007년 개통한 고속철도 체계, 대만 철도사의 현대적 연장

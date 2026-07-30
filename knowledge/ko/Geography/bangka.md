@@ -239,6 +239,16 @@ _화시가 관광 야시장. 사진: Wikimedia Commons contributor, [CC BY-SA vi
 - [다룽동](/ko/geography/dalongdong) — 1853년 딩샤자오핀에서 패배한 퉁안 사람들이 멍자 바자좡에서 첫 번째로 피란한 곳. 바오안궁이 방어 거점이 되었고, 이후 다다오청으로 이주했다
 - [스린](/ko/geography/shilin) — 1859년 장취안 무력 충돌과 멍자 1853년 딩샤자오핀은 서로 다른 두 충돌로, 청대 북타이완의 두 족군 무력 충돌 경관이다
 
+## 이미지 출처
+
+이 글은 CC BY-SA 라이선스의 Wikimedia Commons 이미지 5장을 사용했으며, 원 서버 핫링크를 피하기 위해 모두 `public/article-images/geography/`에 캐시했다.
+
+- [File:Longshan Temple, Taipei 01.jpg](https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01.jpg) — 멍자 룽산사 전전, 촬영 Bernard Gagnon, CC BY-SA 3.0
+- [File:Bopiliao Historic Block 剝皮寮歷史街區.jpg](https://commons.wikimedia.org/wiki/File:Bopiliao_Historic_Block_%E5%89%9D%E7%9A%AE%E5%AF%AE%E6%AD%B7%E5%8F%B2%E8%A1%97%E5%8D%80.jpg) — 보피랴오 역사 가구 붉은 벽돌 아케이드, CC BY-SA
+- [File:Chin S Temple in Taipei.JPG](https://commons.wikimedia.org/wiki/File:Chin_S_Temple_in_Taipei.JPG) — 멍자 칭수이옌 조사묘, CC BY-SA
+- [File:2017-06-29 Bangka Qingshan Temple, Wanhua District, Taipei.jpg](https://commons.wikimedia.org/wiki/File:2017-06-29_Bangka_Qingshan_Temple,_Wanhua_District,_Taipei.jpg) — 멍자 칭산궁, CC BY-SA
+- [File:Huaxi Street Tourist Night Market 2019.jpg](https://commons.wikimedia.org/wiki/File:Huaxi_Street_Tourist_Night_Market_2019.jpg) — 화시가 관광 야시장, CC BY-SA
+
 ## 참고자료
 
 [^1]: [艋舺龍山寺官網 — 參拜資訊](https://www.lungshan.org.tw/tw/) — 룽산사 개방 시간은 6:00-22:00(연중무휴)이며, 매일 새벽 6시와 오후 3시 45분에 조석 예불 독경이 있고, 오전 8시에도 독경 공동 수행이 있다. 주소는 타이베이시 완화구 광저우가 211호.
@@ -304,13 +314,3 @@ _화시가 관광 야시장. 사진: Wikimedia Commons contributor, [CC BY-SA vi
 [^31]: [Snake Alley (Taipei) — Wikipedia](<https://en.wikipedia.org/wiki/Snake_Alley_(Taipei)>) — 영어 위키백과 Huaxi Street(뱀 골목) 항목. 화시가 관광 야시장이 1990년대 뱀 가게 전성기에서 2000년 이후 동물 보호 의식의 대두와 폐창 후 고객층 변화에 따라 간식 중심 야시장으로 전환된 전체 과정을 기록한다.
 
 [^32]: [【城市共生 1-3】艋舺公園改建：分段施工、迴廊縮減衝擊街友、半數以上使用者原來「有家」 — Right Plus 多多益善 2024-09-04](https://rightplus.org/2024/09/04/mongapark1/) — 2024년 9월 시민단체가 실시한 168부 설문조사의 전체 보고. 무주거인 94부, 일반 시민 74부, 주변 상점 33부의 멍자공원 개축에 대한 의견, 무주거인 60%가 공영 수용소를 거부한 이유, 상점 60%가 “근거리 관리” 전략을 지지한 사실, 입법위원 우페이이가 《사회구조법》 무주거인 전장 신설을 추진한 내용 등을 담고 있다.
-
-## 이미지 출처
-
-이 글은 CC BY-SA 라이선스의 Wikimedia Commons 이미지 5장을 사용했으며, 원 서버 핫링크를 피하기 위해 모두 `public/article-images/geography/`에 캐시했다.
-
-- [File:Longshan Temple, Taipei 01.jpg](https://commons.wikimedia.org/wiki/File:Longshan_Temple,_Taipei_01.jpg) — 멍자 룽산사 전전, 촬영 Bernard Gagnon, CC BY-SA 3.0
-- [File:Bopiliao Historic Block 剝皮寮歷史街區.jpg](https://commons.wikimedia.org/wiki/File:Bopiliao_Historic_Block_%E5%89%9D%E7%9A%AE%E5%AF%AE%E6%AD%B7%E5%8F%B2%E8%A1%97%E5%8D%80.jpg) — 보피랴오 역사 가구 붉은 벽돌 아케이드, CC BY-SA
-- [File:Chin S Temple in Taipei.JPG](https://commons.wikimedia.org/wiki/File:Chin_S_Temple_in_Taipei.JPG) — 멍자 칭수이옌 조사묘, CC BY-SA
-- [File:2017-06-29 Bangka Qingshan Temple, Wanhua District, Taipei.jpg](https://commons.wikimedia.org/wiki/File:2017-06-29_Bangka_Qingshan_Temple,_Wanhua_District,_Taipei.jpg) — 멍자 칭산궁, CC BY-SA
-- [File:Huaxi Street Tourist Night Market 2019.jpg](https://commons.wikimedia.org/wiki/File:Huaxi_Street_Tourist_Night_Market_2019.jpg) — 화시가 관광 야시장, CC BY-SA
