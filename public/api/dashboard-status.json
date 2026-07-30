@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-30T22:14:12.527Z",
+  "generated_at": "2026-07-30T22:16:11.186Z",
   "routines": {
-    "fetched_at": "2026-07-30T06:15:35+08:00",
-    "stale_hours": 24,
+    "fetched_at": "2026-07-31T06:16:03+08:00",
+    "stale_hours": 0,
     "items": [
       {
         "id": "twmd-feedback-triage",
@@ -1408,6 +1408,11 @@
   ],
   "deploys": [
     {
+      "ts": "2026-07-30T22:15:17Z",
+      "conclusion": "failure",
+      "title": "Deploy to GitHub Pages: 🧬 [routine] twmd-data-refresh-am: 每日資料刷新 — 文章 873、本週新增 22"
+    },
+    {
       "ts": "2026-07-30T21:39:21Z",
       "conclusion": "success",
       "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-routine-sync @ 2026-07-31 05:38 — 17 條全 in-s…"
@@ -1426,11 +1431,6 @@
       "ts": "2026-07-30T19:05:47Z",
       "conclusion": "success",
       "title": "Deploy to GitHub Pages: 🧬 [semiont] babel: 難篇記憶每次失敗即時落盤"
-    },
-    {
-      "ts": "2026-07-30T18:02:39Z",
-      "conclusion": "success",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] babel: 兩個新模型組合同輪裁決撤回（v1.49）"
     }
   ]
 }
