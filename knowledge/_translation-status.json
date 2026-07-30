@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-31T02:21:18+08:00",
-    "zhCommitHead": "3a2cebf9b",
+    "lastUpdated": "2026-07-31T04:01:39+08:00",
+    "zhCommitHead": "3f6d0af41",
     "totalZh": 875,
     "activeLanguages": [
       "en",
@@ -19,41 +19,41 @@
     "summary": {
       "en": {
         "total_zh": 875,
-        "fresh": 819,
-        "stale": 32,
+        "fresh": 822,
+        "stale": 30,
         "metadata_stale": 2,
-        "missing": 22,
+        "missing": 21,
         "orphan": 0
       },
       "ja": {
         "total_zh": 875,
-        "fresh": 829,
-        "stale": 34,
+        "fresh": 830,
+        "stale": 33,
         "metadata_stale": 2,
         "missing": 10,
         "orphan": 0
       },
       "ko": {
         "total_zh": 875,
-        "fresh": 842,
-        "stale": 23,
+        "fresh": 843,
+        "stale": 22,
         "metadata_stale": 1,
         "missing": 9,
         "orphan": 0
       },
       "es": {
         "total_zh": 875,
-        "fresh": 842,
-        "stale": 24,
+        "fresh": 843,
+        "stale": 23,
         "metadata_stale": 0,
         "missing": 9,
         "orphan": 0
       },
       "fr": {
         "total_zh": 875,
-        "fresh": 837,
-        "stale": 29,
-        "metadata_stale": 2,
+        "fresh": 839,
+        "stale": 28,
+        "metadata_stale": 1,
         "missing": 7,
         "orphan": 0
       },
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 875,
-        "fresh": 760,
+        "fresh": 763,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 109,
+        "missing": 106,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 875,
-        "fresh": 626,
+        "fresh": 628,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 248,
+        "missing": 246,
         "orphan": 0
       },
       "ru": {
         "total_zh": 875,
-        "fresh": 656,
+        "fresh": 657,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 219,
+        "missing": 218,
         "orphan": 0
       }
     },
@@ -1701,7 +1701,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Music/indie-music-scene.md",
+          "translatedFrom": "Music/台灣獨立音樂.md",
+          "sourceCommitSha": "73443b2a4",
+          "sourceContentHash": "sha256:cd1df8dc4931d5ab",
+          "sourceBodyHash": "sha256:c54c3768ed377e41",
+          "translatedAt": "2026-07-30T22:54:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -3879,15 +3890,26 @@
           "sourceContentHash": "sha256:a199eb8f6aa7f0fc",
           "sourceBodyHash": "sha256:2680b892b33ad9fa",
           "translatedAt": "2026-07-30T22:54:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2723d88a",
+          "translationLastModified": "2026-07-31T02:21:18+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "status": "fresh",
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Music/sunset-rollercoaster.md",
+          "translatedFrom": "Music/落日飛車.md",
+          "sourceCommitSha": "dd39065b2",
+          "sourceContentHash": "sha256:a199eb8f6aa7f0fc",
+          "sourceBodyHash": "sha256:2680b892b33ad9fa",
+          "translatedAt": "2026-07-30T22:54:37+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -4822,18 +4844,16 @@
         "ja": {
           "path": "ja/Music/chou-hui.md",
           "translatedFrom": "Music/周蕙.md",
-          "sourceCommitSha": "ac1d187a",
-          "sourceContentHash": "sha256:e82ab2af4a170315",
-          "sourceBodyHash": "sha256:4c01fb53198217ef",
+          "sourceCommitSha": "c40c53f6",
+          "sourceContentHash": "sha256:bad67aad8b965996",
+          "sourceBodyHash": "sha256:7f999c1dbadb14bb",
           "translatedAt": "2026-06-16T16:55:14Z",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+10 -10"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Music/chou-hui.md",
@@ -11480,8 +11500,8 @@
           "sourceContentHash": "sha256:d707615db91a024a",
           "sourceBodyHash": "sha256:7e08a20853bbe066",
           "translatedAt": "2026-07-30T22:54:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2723d88a",
+          "translationLastModified": "2026-07-31T02:21:18+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -16953,8 +16973,8 @@
           "sourceContentHash": "sha256:33c90e10581f31c9",
           "sourceBodyHash": "sha256:1fba81d514ac33a3",
           "translatedAt": "2026-07-30T22:54:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2723d88a",
+          "translationLastModified": "2026-07-31T02:21:18+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -17486,18 +17506,16 @@
         "fr": {
           "path": "fr/Technology/computex-taipei.md",
           "translatedFrom": "Technology/Computex.md",
-          "sourceCommitSha": "52389a7c",
-          "sourceContentHash": "sha256:c2deb4a945d2dc5b",
-          "sourceBodyHash": "sha256:a4c6e70e74235d09",
-          "translatedAt": "2026-07-02T00:38:23+08:00",
+          "sourceCommitSha": "46055e4f3",
+          "sourceContentHash": "sha256:5ca6801bb47a7371",
+          "sourceBodyHash": "sha256:45291b99c4801128",
+          "translatedAt": "2026-07-31T02:01:51+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 60,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+53 -53"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Technology/computex.md",
@@ -17684,8 +17702,8 @@
           "sourceContentHash": "sha256:ccabd00d4cba7d6b",
           "sourceBodyHash": "sha256:c135fc23da71593b",
           "translatedAt": "2026-07-30T22:54:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2723d88a",
+          "translationLastModified": "2026-07-31T02:21:18+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -26616,8 +26634,8 @@
           "sourceContentHash": "sha256:c4bd59992f27e4d2",
           "sourceBodyHash": "sha256:61a341569aa8edad",
           "translatedAt": "2026-07-30T22:54:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2723d88a",
+          "translationLastModified": "2026-07-31T02:21:18+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -30516,7 +30534,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Lifestyle/taiwan-bus-system.md",
+          "translatedFrom": "Lifestyle/台灣的公車系統.md",
+          "sourceCommitSha": "036f4f3f2",
+          "sourceContentHash": "sha256:6350fb8cfb489452",
+          "sourceBodyHash": "sha256:03dd96b03caf8931",
+          "translatedAt": "2026-07-30T22:54:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 39,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -35763,7 +35792,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/taiwan-higher-education-expansion-and-decline.md",
+          "translatedFrom": "Society/台灣高等教育擴張與退場.md",
+          "sourceCommitSha": "3b2bfbb30",
+          "sourceContentHash": "sha256:0e32d79d3df5fb08",
+          "sourceBodyHash": "sha256:4ba5d74427c47aed",
+          "translatedAt": "2026-07-30T22:54:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -42831,7 +42871,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/cognitive-warfare-against-taiwan.md",
+          "translatedFrom": "Society/認知作戰.md",
+          "sourceCommitSha": "7c4a58918",
+          "sourceContentHash": "sha256:0b5ddca64df69aa6",
+          "sourceBodyHash": "sha256:0fcafeba09518f70",
+          "translatedAt": "2026-07-30T22:54:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 61,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -51984,7 +52035,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Politics/city-councilor-system-taiwan.md",
+          "translatedFrom": "Politics/議員制度.md",
+          "sourceCommitSha": "e957cf7f1",
+          "sourceContentHash": "sha256:8e742da3ed42fe59",
+          "sourceBodyHash": "sha256:443bc2c93c1de17f",
+          "translatedAt": "2026-07-30T22:54:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -68014,7 +68076,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/mona-rudao.md",
+          "translatedFrom": "People/莫那·魯道.md",
+          "sourceCommitSha": "d5ca846b6",
+          "sourceContentHash": "sha256:a925dd382d90f176",
+          "sourceBodyHash": "sha256:2e9a56655129cad4",
+          "translatedAt": "2026-07-31T02:01:51+08:00",
+          "translationLastCommit": "26a727c9",
+          "translationLastModified": "2026-07-24T15:47:25+08:00",
+          "inferred": false,
+          "footnoteDefs": 74,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/mona-rudao.md",
@@ -79437,8 +79510,8 @@
           "sourceContentHash": "sha256:09b83ca512f814fd",
           "sourceBodyHash": "sha256:2035945bf29ced7a",
           "translatedAt": "2026-07-30T22:54:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2723d88a",
+          "translationLastModified": "2026-07-31T02:21:18+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -80674,18 +80747,16 @@
         "fr": {
           "path": "fr/People/stan-shih.md",
           "translatedFrom": "People/施振榮.md",
-          "sourceCommitSha": "648966ea",
-          "sourceContentHash": "sha256:4207f3d1db6eb633",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:b0e816b78b19b42e",
           "sourceBodyHash": "sha256:a0ff299644c9b0cc",
-          "translatedAt": "2026-07-16T00:45:14+08:00",
+          "translatedAt": "2026-07-31T02:01:51+08:00",
           "translationLastCommit": "21298a7a",
           "translationLastModified": "2026-07-29T13:39:11+09:00",
           "inferred": false,
           "footnoteDefs": 71,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/stan-shih.md",
@@ -81463,16 +81534,16 @@
         "en": {
           "path": "en/People/ke-zhi-tang-musician.md",
           "translatedFrom": "People/柯智棠.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:4bb0752dfbb4d3f2",
-          "sourceBodyHash": "sha256:9da1c30493a70f8a",
-          "translatedAt": "2026-05-01T12:53:58+08:00",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:e7632bbdde015839",
+          "sourceBodyHash": "sha256:e1150c885b006baf",
+          "translatedAt": "2026-07-31T02:01:51+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
-          "footnoteDefs": 15,
-          "status": "stale",
-          "reason": "footnote-loss (65→15)"
+          "footnoteDefs": 65,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/ke-zhi-tang-musician.md",
@@ -81491,30 +81562,30 @@
         "ko": {
           "path": "ko/People/ke-zhi-tang-musician.md",
           "translatedFrom": "People/柯智棠.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:4bb0752dfbb4d3f2",
-          "sourceBodyHash": "sha256:9da1c30493a70f8a",
-          "translatedAt": "2026-05-01T20:54:10+08:00",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:e7632bbdde015839",
+          "sourceBodyHash": "sha256:e1150c885b006baf",
+          "translatedAt": "2026-07-31T02:01:52+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
-          "footnoteDefs": 15,
-          "status": "stale",
-          "reason": "footnote-loss (65→15)"
+          "footnoteDefs": 65,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/ke-zhi-tang-musician.md",
           "translatedFrom": "People/柯智棠.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:4bb0752dfbb4d3f2",
-          "sourceBodyHash": "sha256:9da1c30493a70f8a",
-          "translatedAt": "2026-05-02T01:17:17+08:00",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:e7632bbdde015839",
+          "sourceBodyHash": "sha256:e1150c885b006baf",
+          "translatedAt": "2026-07-31T02:01:51+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
-          "footnoteDefs": 15,
-          "status": "stale",
-          "reason": "footnote-loss (65→15)"
+          "footnoteDefs": 65,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/ke-zhi-tang-musician.md",
@@ -84616,16 +84687,16 @@
         "en": {
           "path": "en/People/wu-ming-yi.md",
           "translatedFrom": "People/吳明益.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:2752c026dbd32f77",
-          "sourceBodyHash": "sha256:33817e164492daa0",
-          "translatedAt": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "fdd06c978",
+          "sourceContentHash": "sha256:9e044da79052e1d4",
+          "sourceBodyHash": "sha256:0b3e476aa45a53ca",
+          "translatedAt": "2026-07-31T02:01:51+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (33→0)"
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/wu-ming-yi.md",
