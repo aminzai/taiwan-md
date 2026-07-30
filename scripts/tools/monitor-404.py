@@ -144,6 +144,11 @@ def is_bad_encoding(raw_path):
         return True
     if "�" in urllib.parse.unquote(raw_path, errors="replace"):
         return True
+    # CF 對壞編碼請求的字面正規化佔位符（2026-07-17 root-cause 平反：這不是
+    # 站上模板 bug，是儀器自己的佔位符）。它是合法 percent-encoding、decode
+    # 乾淨，所以上面三條都抓不到，三個月來每天以 unknown 家族黃燈誤報。
+    if "<strange-chars>" in urllib.parse.unquote(raw_path, errors="replace"):
+        return True
     return False
 
 
