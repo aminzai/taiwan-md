@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-30T10:55:47+08:00",
-    "zhCommitHead": "abcd1a186",
+    "lastUpdated": "2026-07-30T11:57:06+08:00",
+    "zhCommitHead": "683794cd2",
     "totalZh": 875,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 875,
-        "fresh": 823,
-        "stale": 42,
+        "fresh": 825,
+        "stale": 40,
         "metadata_stale": 0,
         "missing": 10,
         "orphan": 0
@@ -67,42 +67,42 @@
       },
       "id": {
         "total_zh": 875,
-        "fresh": 449,
-        "stale": 2,
+        "fresh": 452,
+        "stale": 1,
         "metadata_stale": 0,
-        "missing": 424,
+        "missing": 422,
         "orphan": 0
       },
       "pt": {
         "total_zh": 875,
-        "fresh": 751,
+        "fresh": 752,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 118,
+        "missing": 117,
         "orphan": 0
       },
       "hi": {
         "total_zh": 875,
-        "fresh": 544,
-        "stale": 1,
+        "fresh": 546,
+        "stale": 0,
         "metadata_stale": 0,
-        "missing": 330,
+        "missing": 329,
         "orphan": 0
       },
       "ar": {
         "total_zh": 875,
-        "fresh": 610,
+        "fresh": 613,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 265,
+        "missing": 262,
         "orphan": 0
       },
       "ru": {
         "total_zh": 875,
-        "fresh": 639,
+        "fresh": 642,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 236,
+        "missing": 233,
         "orphan": 0
       }
     },
@@ -1793,7 +1793,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Music/taiwan-music-industry-and-the-streaming-era.md",
+          "translatedFrom": "Music/台灣音樂產業與串流時代.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:f71f072559f005b7",
+          "sourceBodyHash": "sha256:39fa5a6a860830cc",
+          "translatedAt": "2026-07-30T03:55:56+08:00",
+          "translationLastCommit": "683794cd",
+          "translationLastModified": "2026-07-30T11:54:54+08:00",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -23516,7 +23527,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Art/chiang-hsien-yi.md",
+          "translatedFrom": "Art/江賢二.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:872c1259e15043c2",
+          "sourceBodyHash": "sha256:ae43b98131d02326",
+          "translatedAt": "2026-07-30T03:55:59+08:00",
+          "translationLastCommit": "683794cd",
+          "translationLastModified": "2026-07-30T11:54:54+08:00",
+          "inferred": false,
+          "footnoteDefs": 42,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -33936,7 +33958,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/taiwan-design-research-institute.md",
+          "translatedFrom": "Society/台灣設計研究院.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:05d29d723ff6a31c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-07-30T03:29:03.663455+00:00",
+          "translationLastCommit": "683794cd",
+          "translationLastModified": "2026-07-30T11:54:54+08:00",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/taiwan-design-research-institute.md",
@@ -43155,7 +43188,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/stray-animal-culture.md",
+          "translatedFrom": "Society/台灣流浪動物文化.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:6b2ce60c50966bdc",
+          "sourceBodyHash": "sha256:6f79d66a90a09b62",
+          "translatedAt": "2026-07-30T03:56:00+08:00",
+          "translationLastCommit": "683794cd",
+          "translationLastModified": "2026-07-30T11:54:54+08:00",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -56680,10 +56724,32 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/au-sow-yee.md",
+          "translatedFrom": "People/區秀詒.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:4e807297f5dfcc70",
+          "sourceBodyHash": "sha256:9bd8f0aa157f38ef",
+          "translatedAt": "2026-07-30T03:55:58+08:00",
+          "translationLastCommit": "d51fabc9",
+          "translationLastModified": "2026-07-30T11:10:01+08:00",
+          "inferred": false,
+          "footnoteDefs": 35,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/au-sow-yee.md",
+          "translatedFrom": "People/區秀詒.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:4e807297f5dfcc70",
+          "sourceBodyHash": "sha256:9bd8f0aa157f38ef",
+          "translatedAt": "2026-07-30T03:55:59+08:00",
+          "translationLastCommit": "683794cd",
+          "translationLastModified": "2026-07-30T11:54:54+08:00",
+          "inferred": false,
+          "footnoteDefs": 35,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -72119,16 +72185,16 @@
         "ja": {
           "path": "ja/People/jamie-lin-ai-industry-pioneer.md",
           "translatedFrom": "People/簡立峰.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:fbf9f60162ac4b29",
-          "sourceBodyHash": "sha256:820519fbefcc8fbc",
-          "translatedAt": "2026-05-20T05:08:29+08:00",
-          "translationLastCommit": "fd678fd2",
-          "translationLastModified": "2026-07-25T10:32:02+08:00",
+          "sourceCommitSha": "717a640b3",
+          "sourceContentHash": "sha256:8fe13ae8a4b4ef0b",
+          "sourceBodyHash": "sha256:ea3e7d04bd378c51",
+          "translatedAt": "2026-07-30T03:55:54+08:00",
+          "translationLastCommit": "683794cd",
+          "translationLastModified": "2026-07-30T11:54:54+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (16→5)"
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/jamie-lin-ai-industry-pioneer.md",
@@ -84138,16 +84204,16 @@
         "id": {
           "path": "id/People/wu-ming-yi.md",
           "translatedFrom": "People/吳明益.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:2752c026dbd32f77",
-          "sourceBodyHash": "sha256:33817e164492daa0",
-          "translatedAt": "2026-07-25T09:23:05+08:00",
-          "translationLastCommit": "02c16932",
-          "translationLastModified": "2026-07-25T10:01:54+08:00",
+          "sourceCommitSha": "fdd06c978",
+          "sourceContentHash": "sha256:9e044da79052e1d4",
+          "sourceBodyHash": "sha256:0b3e476aa45a53ca",
+          "translatedAt": "2026-07-30T03:55:55+08:00",
+          "translationLastCommit": "683794cd",
+          "translationLastModified": "2026-07-30T11:54:54+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (33→0)"
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/wu-ming-yi.md",
@@ -84166,16 +84232,16 @@
         "hi": {
           "path": "hi/People/wu-ming-yi.md",
           "translatedFrom": "People/吳明益.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:2752c026dbd32f77",
-          "sourceBodyHash": "sha256:33817e164492daa0",
-          "translatedAt": "2026-07-25T09:23:12+08:00",
-          "translationLastCommit": "9e4df1d3",
-          "translationLastModified": "2026-07-25T09:41:06+08:00",
+          "sourceCommitSha": "fdd06c978",
+          "sourceContentHash": "sha256:9e044da79052e1d4",
+          "sourceBodyHash": "sha256:0b3e476aa45a53ca",
+          "translatedAt": "2026-07-30T03:55:58+08:00",
+          "translationLastCommit": "683794cd",
+          "translationLastModified": "2026-07-30T11:54:54+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (33→0)"
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/wu-ming-yi.md",
@@ -98742,18 +98808,16 @@
         "ja": {
           "path": "ja/History/taiwan-democratization.md",
           "translatedFrom": "History/台灣民主轉型.md",
-          "sourceCommitSha": "dd39065b",
-          "sourceContentHash": "sha256:85252455c0ed43e6",
-          "sourceBodyHash": "sha256:5c7fc1f11ad28097",
-          "translatedAt": "2026-06-10T16:41:16Z",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "sourceCommitSha": "dbaf28954",
+          "sourceContentHash": "sha256:a9330a2eb23d9c97",
+          "sourceBodyHash": "sha256:20dd14ee57321b53",
+          "translatedAt": "2026-07-30T03:36:39.261915+00:00",
+          "translationLastCommit": "683794cd",
+          "translationLastModified": "2026-07-30T11:54:54+08:00",
           "inferred": false,
           "footnoteDefs": 21,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/taiwan-democratization.md",
@@ -106635,7 +106699,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/changhua-county.md",
+          "translatedFrom": "Geography/彰化縣.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:53588f1af78c53bd",
+          "sourceBodyHash": "sha256:83c1d8ae2ebcca91",
+          "translatedAt": "2026-07-30T03:55:55+08:00",
+          "translationLastCommit": "683794cd",
+          "translationLastModified": "2026-07-30T11:54:54+08:00",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/changhua-county.md",
@@ -109302,7 +109377,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/chiayi-city.md",
+          "translatedFrom": "Geography/嘉義市.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:ae83f3951e0a47fc",
+          "sourceBodyHash": "sha256:d3fc69c2026ce4f3",
+          "translatedAt": "2026-07-30T03:56:00+08:00",
+          "translationLastCommit": "683794cd",
+          "translationLastModified": "2026-07-30T11:54:54+08:00",
+          "inferred": false,
+          "footnoteDefs": 32,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -116040,10 +116126,32 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/taiwan-advertising-history.md",
+          "translatedFrom": "Culture/台灣廣告史.md",
+          "sourceCommitSha": "f7484ebea",
+          "sourceContentHash": "sha256:5bf5af7cbb7baf0f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-07-30T03:02:18.151371+00:00",
+          "translationLastCommit": "683794cd",
+          "translationLastModified": "2026-07-30T11:54:54+08:00",
+          "inferred": false,
+          "footnoteDefs": 56,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Culture/taiwan-advertising-history.md",
+          "translatedFrom": "Culture/台灣廣告史.md",
+          "sourceCommitSha": "f7484ebea",
+          "sourceContentHash": "sha256:faa63331d7b3eae1",
+          "sourceBodyHash": "sha256:296b2f47a01a03eb",
+          "translatedAt": "2026-07-30T03:56:00+08:00",
+          "translationLastCommit": "683794cd",
+          "translationLastModified": "2026-07-30T11:54:54+08:00",
+          "inferred": false,
+          "footnoteDefs": 56,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
