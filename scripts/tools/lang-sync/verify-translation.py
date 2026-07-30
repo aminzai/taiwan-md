@@ -449,6 +449,29 @@ def main():
         bad_tags = overlap if tag_list and len(overlap) / len(tag_list) >= 0.6 else []
         label = "tags not identical to zh"
         detail_ok = f"{len(tag_list)} tags ({len(overlap)} proper-noun overlap with zh, OK)"
+        # Baseline exemption (2026-07-30): tags that are predominantly proper nouns
+        # (zoo/mountain/brand names) are LEGITIMATELY identical kanji in ja — e.g.
+        # 台灣有哪些動物園 has 9/9 name tags, and the previously-accepted ja HEAD
+        # carries the same 9. The 60% rule alone perma-kills every retranslation of
+        # such articles (50 ja fails in 48h were this false-positive family). If the
+        # accepted HEAD baseline ALREADY overlapped zh ≥60%, identical tags are the
+        # established norm for this article, not a regression. New translations
+        # (no HEAD baseline) keep the strict rule — the 2026-07-24 verbatim-copy bug
+        # (files whose baseline tags DIFFERED from zh) is still caught.
+        if bad_tags and en_path.startswith("knowledge/"):
+            try:
+                head_txt = subprocess.run(
+                    ["git", "-C", str(REPO), "show", f"HEAD:{en_path}"],
+                    capture_output=True, text=True, timeout=10).stdout
+                head_fm, _ = parse_fm(head_txt) if head_txt else ({}, "")
+                head_tags = parse_tag_list(head_fm.get("tags", ""))
+                head_overlap = [t for t in head_tags if t and t in zh_tag_list]
+                if head_tags and len(head_overlap) / len(head_tags) >= 0.6:
+                    bad_tags = []
+                    detail_ok = (f"{len(tag_list)} tags ≥60% identical to zh, but accepted "
+                                 f"HEAD baseline already was too (proper-noun norm)")
+            except Exception:
+                pass  # baseline unavailable → keep strict rule
     else:
         bad_tags = [t for t in tag_list if has_cjk(t)]
         label = "tags ASCII"
