@@ -322,3 +322,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-31 | 070955-twmd-feedback-triage | 1 筆進單：讀者質疑轉換器「陰陽怪氣」支語判定的詞性範圍，轉 issue #1286 | 詞性判準質疑非事實勘誤，triage 只機械轉錄不代判，留 maintainer 跨源驗證 | [→](memory/2026-07-31-070955-twmd-feedback-triage.md) |
 | 2026-07-31 | 085814-twmd-maintainer-daily | 2 PR merge-first+heal；merge 後 deploy 轉紅（frontmatter 用 `___` 非 `---`），已 heal；#1286 查證辭典回覆，#1252 澄清重貼舊留言 | contributor 貼渲染輸出非 raw md，格式病只在 deploy 才曝光 | [→](memory/2026-07-31-085814-twmd-maintainer-daily.md) |
 | 2026-07-31 | 093305-twmd-flywheel-watch | 飛輪綠燈零警報（24hr 85 commit／12 筆 routine，六條日更全留痕，dump 齡 3.3h）；昨天改讀 origin 的第二把尺首次接到東西 | 修完的尺要隔天回頭驗它真的在量，不是修完就記為完成 | [→](memory/2026-07-31-093305-twmd-flywheel-watch.md) |
+| 2026-08-01 | 004003-manual | Claude 委派層誕生：Haiku 99/99 開通 fail-closed 的 vi（39.9%→51.4%）、Sonnet 5/5 收下累計敗 125 次的殘骸；五個閘門修復全由真實缺陷驅動 | 弱的尺會放行強的尺會擋的東西——手寫驗收迴圈比既有 verify-batch 弱，10 條死鏈因此出貨 | [→](memory/2026-08-01-004003-manual.md) |
