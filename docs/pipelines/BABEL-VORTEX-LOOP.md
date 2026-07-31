@@ -1,9 +1,9 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.52)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.53)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.52'
+current_version: 'v1.53'
 last_updated: 2026-07-30
 last_session: '2026-07-30-230518-manual（tags 基線豁免＋31b 攻堅）'
 sister_docs:
@@ -11,7 +11,7 @@ sister_docs:
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.52
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.53
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -260,6 +260,20 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.53（2026-08-01 06:41 巡檢，診斷）：**ja/金瓜石 patch reject 是結構性死鎖，
+  不是準確率問題**。fail-memo 累計 13 次同型失敗（7 patch reject + 6 leak），
+  追到最新一次跟昨夜 §四完全同一個 hit——`'如果' x1`，同一句「地元鉱夫が肺と
+  引き換えて金を得た如果说」——證明模型對這篇第 [9] 章有穩定失敗模式，每次
+  重試都在同一位置漏翻。
+  真因：`patch-translate.py` 章節翻譯本身過關（`chapters: 0 failed`），是最終
+  verify trio 因洩漏擋下 → exit=1。而 v1.11 刻意讓 exit=1 **不** fallback 全文
+  （避免同一輪對同一篇燒兩次算力，且防止「還原的舊檔冒充本次產物」污染歸因，
+  見 `babel-dispatch.py:893` 註解）——這是修過的行為不是疏漏。後果：沒有累計
+  次數升級機制，這篇會永遠卡在同一個章節重試迴圈，13 次都選中同一句。
+  **待修（下輪執行，不在本輪 context 邊緣動 dispatcher 核心路徑）**：讀
+  fail-memo，某篇 patch reject 累計 ≥5 次時該篇改走 `--engine=whole` 強制全文
+  重翻一次（跳過 patch 引擎），换一次生成大概率避開同一個 chunk 邊界。
 
 - v1.52（2026-08-01 04:34 巡檢）：**desktop-3090 三個模型全數低於入池門檻，但控制面是觀察者手動開的——不自行覆蓋**。
   近 3hr 實績 1/15 = 6.7%，**05:37 複驗惡化為 0/17（完全零產出）**（n≥8，低於
