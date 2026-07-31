@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-31T10:43:24+08:00",
-    "zhCommitHead": "5c374f8e9",
+    "lastUpdated": "2026-07-31T11:21:31+08:00",
+    "zhCommitHead": "e6e5ff240",
     "totalZh": 875,
     "activeLanguages": [
       "en",
@@ -35,8 +35,8 @@
       },
       "ko": {
         "total_zh": 875,
-        "fresh": 846,
-        "stale": 21,
+        "fresh": 847,
+        "stale": 20,
         "metadata_stale": 0,
         "missing": 8,
         "orphan": 0
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 875,
-        "fresh": 771,
+        "fresh": 772,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 98,
+        "missing": 97,
         "orphan": 0
       },
       "hi": {
@@ -38391,7 +38391,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/public-housing-justice.md",
+          "translatedFrom": "Society/國宅與居住正義.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:8ca8b403c13ab428",
+          "sourceBodyHash": "sha256:547ee1d3b342a025",
+          "translatedAt": "2026-07-31T09:04:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -46586,8 +46597,8 @@
           "sourceContentHash": "sha256:6617087ac0d0a536",
           "sourceBodyHash": "sha256:f6a2ecc9e1606c44",
           "translatedAt": "2026-07-28T20:11:54.331888+00:00",
-          "translationLastCommit": "adc69a2f",
-          "translationLastModified": "2026-07-29T04:32:17+08:00",
+          "translationLastCommit": "1f1883a7",
+          "translationLastModified": "2026-07-31T10:43:24+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -60265,16 +60276,16 @@
         "ko": {
           "path": "ko/People/yang-dechang.md",
           "translatedFrom": "People/楊德昌.md",
-          "sourceCommitSha": "fa062cc1",
-          "sourceContentHash": "sha256:dd210fd225a73bd3",
-          "sourceBodyHash": "sha256:3f3a71807f18f434",
-          "translatedAt": "2026-05-22T05:08:46+08:00",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:c2aa8f15ab2b1700",
+          "sourceBodyHash": "sha256:7119ad62eb825546",
+          "translatedAt": "2026-07-31T08:23:54+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "footnote-loss (92→6)"
+          "footnoteDefs": 92,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/yang-dechang.md",
@@ -81519,8 +81530,8 @@
           "sourceContentHash": "sha256:b0e816b78b19b42e",
           "sourceBodyHash": "sha256:a0ff299644c9b0cc",
           "translatedAt": "2026-07-29T01:34:26.653125+00:00",
-          "translationLastCommit": "c17e04ba",
-          "translationLastModified": "2026-07-29T10:33:00+08:00",
+          "translationLastCommit": "1f1883a7",
+          "translationLastModified": "2026-07-31T10:43:24+08:00",
           "inferred": false,
           "footnoteDefs": 71,
           "status": "fresh",
