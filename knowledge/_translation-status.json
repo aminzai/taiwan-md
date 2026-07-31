@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-01T07:06:48+08:00",
-    "zhCommitHead": "d777da54a",
+    "lastUpdated": "2026-08-01T07:56:48+08:00",
+    "zhCommitHead": "0aca292d3",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -51,8 +51,8 @@
       },
       "fr": {
         "total_zh": 877,
-        "fresh": 850,
-        "stale": 18,
+        "fresh": 851,
+        "stale": 17,
         "metadata_stale": 1,
         "missing": 8,
         "orphan": 0
@@ -83,18 +83,18 @@
       },
       "hi": {
         "total_zh": 877,
-        "fresh": 575,
+        "fresh": 576,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 302,
+        "missing": 301,
         "orphan": 0
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 649,
+        "fresh": 650,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 227,
+        "missing": 226,
         "orphan": 0
       },
       "ru": {
@@ -40346,7 +40346,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/taiwan-animal-drug-controversy.md",
+          "translatedFrom": "Society/台灣動物用藥爭議.md",
+          "sourceCommitSha": "9a60e8fdf",
+          "sourceContentHash": "sha256:670bf6306d125685",
+          "sourceBodyHash": "sha256:58df60a34bbdc3ea",
+          "translatedAt": "2026-07-31T22:46:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -58482,8 +58493,8 @@
           "sourceContentHash": "sha256:3d1c97835c5d9ea3",
           "sourceBodyHash": "sha256:5091127dea208f82",
           "translatedAt": "2026-07-31T22:46:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0aca292d",
+          "translationLastModified": "2026-08-01T07:06:48+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -74429,16 +74440,16 @@
         "fr": {
           "path": "fr/People/jamie-lin-ai-industry-pioneer.md",
           "translatedFrom": "People/簡立峰.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:fbf9f60162ac4b29",
-          "sourceBodyHash": "sha256:820519fbefcc8fbc",
-          "translatedAt": "2026-05-20T05:08:34+08:00",
+          "sourceCommitSha": "717a640b3",
+          "sourceContentHash": "sha256:8fe13ae8a4b4ef0b",
+          "sourceBodyHash": "sha256:ea3e7d04bd378c51",
+          "translatedAt": "2026-08-01T05:12:37+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (16→5)"
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/jamie-lin-ai-industry-pioneer.md",
@@ -83421,7 +83432,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/ke-zhi-tang-musician.md",
+          "translatedFrom": "People/柯智棠.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:da09e4b3162c5f4c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-07-31T23:19:09.733640+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 65,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/ke-zhi-tang-musician.md",
@@ -109971,8 +109993,8 @@
           "sourceContentHash": "sha256:087fe7b9d4504fbb",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-31T22:21:59.011011+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0aca292d",
+          "translationLastModified": "2026-08-01T07:06:48+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "status": "fresh",
@@ -113869,8 +113891,8 @@
           "sourceContentHash": "sha256:fa3c9da0d146b3a4",
           "sourceBodyHash": "sha256:18f3978bd2f84e6f",
           "translatedAt": "2026-07-31T22:46:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0aca292d",
+          "translationLastModified": "2026-08-01T07:06:48+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
