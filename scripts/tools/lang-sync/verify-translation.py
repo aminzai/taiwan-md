@@ -532,9 +532,36 @@ def main():
         and k not in KNOWN_TRANSLATION_ONLY
         and str(zh_fm.get(k, "")).strip()
     ]
+    # 既有債不擋（2026-08-01 01:25 巡檢實撞）：本檢查上線後，`es/鄭愁予` 走
+    # semantic-noop-bump（只更新版本標記、不呼叫模型的最便宜路徑）被擋下，
+    # 理由是欄位遺漏——但那是全站 1,802 檔的既有債，不是這次操作弄掉的。
+    # 後果是「零成本的 bump」被打回「整篇重翻」，反而燒算力。
+    #
+    # 判準跟死鏈那條同源：**只擋這次新弄掉的，不擋繼承來的**。拿譯文自己的
+    # git HEAD 版本當基線——HEAD 就沒有的欄位屬存量債（該由
+    # heal-missing-frontmatter.py 批次處理，>50 檔待哲宇拍板），不是本次退化。
+    if dropped and en_path.startswith("knowledge/"):
+        try:
+            head_txt = subprocess.run(
+                ["git", "-C", str(REPO), "show", f"HEAD:{en_path}"],
+                capture_output=True, text=True, timeout=10).stdout
+            if head_txt:
+                head_fm, _ = parse_fm(head_txt)
+                preexisting = [k for k in dropped if k not in head_fm]
+                if preexisting:
+                    inherited = sorted(preexisting)
+                    dropped = [k for k in dropped if k not in preexisting]
+                    if not dropped:
+                        add("frontmatter 欄位未遺漏", "WARN",
+                            f"缺 {len(inherited)} 個欄位但 HEAD 版本也缺（存量債，非本次退化）: {inherited[:4]}")
+        except Exception:
+            pass  # 拿不到基線 → 維持嚴格
+
     if dropped:
         add("frontmatter 欄位未遺漏", "FAIL",
             f"zh 有但譯文缺 {len(dropped)} 個欄位: {sorted(dropped)[:6]}")
+    elif any(c["name"] == "frontmatter 欄位未遺漏" for c in checks):
+        pass  # 上面已加 WARN
     else:
         add("frontmatter 欄位未遺漏", "PASS", f"zh {len(zh_fm)} 個欄位都在譯文裡")
 
