@@ -315,3 +315,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-30 | 093643-twmd-flywheel-watch | 飛輪在轉（24hr 161 commit／12 筆 routine，六條日更全留痕）；flywheel-watch 三份素材改讀 origin/main，dump 齡 27.3h→3.3h | 禁 pull 卻讀工作樹，量的是這台多久沒 pull；7/26 那把尺從沒生效過 | [→](memory/2026-07-30-093643-twmd-flywheel-watch.md) |
 | 2026-07-30 | 121650-manual | 巴別塔回收 14 篇譯文並推至 main；修復 pulse 在 Python 3.9 沿用舊快照的假綠 | 進度讀數必須綁定同一 git ref、來源總數與時間戳 | [→](memory/2026-07-30-121650-manual.md) |
 | 2026-07-30 | 230518-manual | babel 雲端產線 9.5hr 零產出重啟復活；fleet 版本鏡誤報 heal（快取未跟版本常數同步）+ 2 節點斷線修復；PR #1282/#1283 merge | 版本鏡誤判根因是快取新鮮度，不是比較邏輯 | [→](memory/2026-07-30-230518-manual.md) |
+| 2026-07-31 | 093305-twmd-flywheel-watch | 飛輪綠燈零警報（24hr 85 commit／12 筆 routine，六條日更全留痕，dump 齡 3.3h）；昨天改讀 origin 的第二把尺首次接到東西 | 修完的尺要隔天回頭驗它真的在量，不是修完就記為完成 | [→](memory/2026-07-31-093305-twmd-flywheel-watch.md) |
