@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-01T04:57:30+08:00",
-    "zhCommitHead": "384bb429a",
+    "lastUpdated": "2026-08-01T05:07:30+08:00",
+    "zhCommitHead": "0cba4f199",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 877,
-        "fresh": 468,
+        "fresh": 469,
         "stale": 3,
         "metadata_stale": 0,
-        "missing": 406,
+        "missing": 405,
         "orphan": 0
       },
       "pt": {
@@ -7189,8 +7189,8 @@
           "sourceContentHash": "sha256:275d7b3ee56db82a",
           "sourceBodyHash": "sha256:58739438cbba3247",
           "translatedAt": "2026-07-31T22:46:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0cba4f19",
+          "translationLastModified": "2026-08-01T04:57:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -20458,7 +20458,18 @@
           "diffSummary": "+11 -11"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Technology/justfont-and-taiwan-typography.md",
+          "translatedFrom": "Technology/justfont與台灣字體發展.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:50da80d49885286c",
+          "sourceBodyHash": "sha256:dcea1d33e3c8824c",
+          "translatedAt": "2026-07-31T22:46:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 65,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/justfont-and-taiwan-typography.md",
@@ -113852,8 +113863,8 @@
           "sourceContentHash": "sha256:fa3c9da0d146b3a4",
           "sourceBodyHash": "sha256:18f3978bd2f84e6f",
           "translatedAt": "2026-07-31T22:46:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0cba4f19",
+          "translationLastModified": "2026-08-01T04:57:30+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
