@@ -1114,7 +1114,25 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
     # never even produced a file) → freeze 30min. A gate-fail on output the
     # backend DID produce is a quality issue, not a worker-availability
     # issue, so it does not count here.
-    hard_fail = proc.returncode != 0 and not produced_by_backend
+    #
+    # 環境不可用不算 worker 健康帳（2026-07-31）：本機斷網／睡眠時每個 worker
+    # 都會連撞三次 DNS 失敗而被凍 30 分，四個 worker 全凍後 dispatcher 進入
+    # 5 分鐘 sleep 迴圈；網路一秒後回來也沒人知道，實測空轉 1.5 小時。
+    # 這是 REFLEXES #38「混維度」——「模型產不出東西」跟「這台沒網路」兩種
+    # 完全不同的根因共用同一個計數器，於是對後者用了前者的處置。
+    # 環境類失敗改為：不累計、不凍結，短暫等待讓下一輪自然重試（網路回來
+    # 就立刻恢復產能）。判準取最保守的一組字樣，避免把模型層失敗誤放行。
+    ENV_FAIL_MARKERS = (
+        "nodename nor servname",     # macOS DNS 解析失敗（睡眠／斷網）
+        "Temporary failure in name resolution",
+        "Name or service not known",
+        "Network is unreachable",
+        "No route to host",
+    )
+    env_unavailable = any(m in primary_output for m in ENV_FAIL_MARKERS)
+    hard_fail = proc.returncode != 0 and not produced_by_backend and not env_unavailable
+    if env_unavailable:
+        log(f"🌐 環境不可用（非 worker 問題）— {worker.label} 不計入凍結帳，等網路回來自然重試")
     if hard_fail:
         worker.consecutive_failures += 1
         if worker.consecutive_failures >= 3:
