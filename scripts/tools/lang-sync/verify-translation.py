@@ -371,9 +371,28 @@ def main():
     # silently admitted both loss and invention.
     # `>` terminates autolinks (`<https://…>`); without it the extractor
     # accidentally swallowed the source-language prose after the URL.
-    url_pattern = r"https?://[^\s<>\)\"\]]+"
-    zh_url_values = re.findall(url_pattern, zh_body)
-    en_url_values = re.findall(url_pattern, en_body)
+    # 全形標點也是網址的終止符（2026-08-01）。中文原文常把網址直接黏在全形
+    # 標點後面而沒有空格（`https://…org/；開幕日期為2011年…`、
+    # `…%E4%BA%AE，出生地：高雄市左營區`），舊 regex 只認空白與半形括號，
+    # 於是把後面整段中文吞進「網址」token。譯文正確地只留網址，multiset
+    # 比對就永遠對不上——**擋下的是好譯文，不是壞譯文**。
+    # 實證：對已上線的 knowledge/en/People/zhuge-liang-showman.md 跑同一支
+    # 檢查器會得到位元組相同的 FAIL，證明是既有的檢查器缺陷而非新譯文問題。
+    url_pattern = r"https?://[^\s<>\)\"\]，。；：！？、（）〔〕【】《》「」『』…]+"
+
+    def _urls(body: str) -> list[str]:
+        """抽網址並剝掉尾端的句讀。
+
+        中文原文常把網址直接黏在標點後面（沒有空格），譯文則用該語言自己的
+        半形標點——同一個網址於是被抽成 `…AE` vs `…AE,` 兩個不同 token，
+        multiset 比對永遠不合。**兩邊套同一套剝除規則**才是對稱的比較：
+        剝的是句讀（. , ; : ! ?），不是網址結構字元（/ ? # & = 等），所以
+        真正的網址竄改（改路徑、換域名、加減參數）仍然抓得到。
+        """
+        return [u.rstrip(".,;:!?") for u in re.findall(url_pattern, body)]
+
+    zh_url_values = _urls(zh_body)
+    en_url_values = _urls(en_body)
     zh_urls = len(zh_url_values)
     en_urls = len(en_url_values)
     missing_urls = list((Counter(zh_url_values) - Counter(en_url_values)).elements())
@@ -483,6 +502,30 @@ def main():
         add(label, "WARN", "no tags found (might be OK)")
     else:
         add(label, "PASS", detail_ok)
+
+    # 14b. zh 有、譯文沒有的 frontmatter 欄位（2026-08-01）。
+    #
+    # 病史：本檢查器只認 PASSTHROUGH／TRANSLATED 兩張明列清單，清單外的欄位
+    # 掉了完全沒人知道。2026-07-31 一晚三次撞到同一個盲區——Haiku 把
+    # [[wikilink]] 拆成純文字、Sonnet 兩篇各掉 zh 的 sporeLinks 區塊，
+    # 三個閘門全綠，全靠人工逐檔比對才接住。清單是白名單，白名單防不住
+    # 「新欄位誕生後沒人記得加進來」這件事（sporeLinks 2026-06-10 誕生，
+    # imageSource／imageLicense 亦同）。
+    #
+    # 判準取最保守：只報「zh 有值、譯文整個欄位不存在」。譯文多出欄位不報
+    # （EN_ONLY 那組本來就該多），值不同也不報（翻譯本來就會不同）。
+    KNOWN_TRANSLATION_ONLY = set(EN_ONLY) | {"translatedAt", "sourceBodyHash"}
+    dropped = [
+        k for k in zh_fm
+        if k not in en_fm
+        and k not in KNOWN_TRANSLATION_ONLY
+        and str(zh_fm.get(k, "")).strip()
+    ]
+    if dropped:
+        add("frontmatter 欄位未遺漏", "FAIL",
+            f"zh 有但譯文缺 {len(dropped)} 個欄位: {sorted(dropped)[:6]}")
+    else:
+        add("frontmatter 欄位未遺漏", "PASS", f"zh {len(zh_fm)} 個欄位都在譯文裡")
 
     # 15. inferred bool
     inf = en_fm.get("translatedFromInferred", "")
