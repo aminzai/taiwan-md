@@ -1,9 +1,9 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.51)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.52)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.51'
+current_version: 'v1.52'
 last_updated: 2026-07-30
 last_session: '2026-07-30-230518-manual（tags 基線豁免＋31b 攻堅）'
 sister_docs:
@@ -11,7 +11,7 @@ sister_docs:
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.51
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.52
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -260,6 +260,18 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.52（2026-08-01 04:34 巡檢）：**desktop-3090 三個模型全數低於入池門檻，但控制面是觀察者手動開的——不自行覆蓋**。
+  近 3hr 實績 1/15 = 6.7%（n≥8，低於 15% 撤池線），端點正常、模型都在，
+  所以是模型本身不行；反覆觸發「連三次硬失敗凍 30 分」，fleet 軌實質只剩
+  mac 一台，本小時吞吐掉到 7 次嘗試、0 通過。
+  該節點三個模型的處境：`gemma4:26b` 現 6.7%、`qwen3:32b` 2026-07-29 因長文
+  3/3 撞 900s 撤過、`gpt-oss:20b` 2026-07-31 真實文章 0/10 撤過——**無合格模型可用**。
+  照 §入池門檻本該切軌或撤池，但 `fleetctl control` 顯示 2026-07-31 22:41 由
+  `remote:mouhouse`（觀察者本人從儀表板）把全軍打開。依 v1.9「同一輪指示衝突時
+  以觀察者最新明確指示為準」，**不自行關閉**。三個選項待拍板：(a) 關掉該節點的
+  babel 批次 (b) 拉一個新模型上去（需先過 sovereignty + 完整工作量吞吐兩關）
+  (c) 維持現狀接受 6.7%——凍結機制已在限縮它的損害。
 
 - v1.51（2026-08-01 02:28 巡檢）：**新閘門誤擋存量債，一小時後才現形**。
   §14b「frontmatter 欄位未遺漏」上線後把 `es/鄭愁予` 的 semantic-noop-bump
