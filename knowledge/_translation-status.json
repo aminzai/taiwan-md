@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-31T11:21:31+08:00",
-    "zhCommitHead": "e6e5ff240",
+    "lastUpdated": "2026-07-31T11:44:40+08:00",
+    "zhCommitHead": "4a2deca49",
     "totalZh": 875,
     "activeLanguages": [
       "en",
@@ -35,16 +35,16 @@
       },
       "ko": {
         "total_zh": 875,
-        "fresh": 847,
-        "stale": 20,
+        "fresh": 848,
+        "stale": 19,
         "metadata_stale": 0,
         "missing": 8,
         "orphan": 0
       },
       "es": {
         "total_zh": 875,
-        "fresh": 847,
-        "stale": 20,
+        "fresh": 848,
+        "stale": 19,
         "metadata_stale": 0,
         "missing": 8,
         "orphan": 0
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 875,
-        "fresh": 674,
+        "fresh": 675,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 201,
+        "missing": 200,
         "orphan": 0
       }
     },
@@ -1079,8 +1079,8 @@
           "sourceContentHash": "sha256:0b7436a5f5ecebd9",
           "sourceBodyHash": "sha256:343b0b4aed90195f",
           "translatedAt": "2026-07-31T09:04:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4a2deca4",
+          "translationLastModified": "2026-07-31T11:21:31+08:00",
           "inferred": false,
           "footnoteDefs": 51,
           "status": "fresh",
@@ -17390,8 +17390,8 @@
           "sourceContentHash": "sha256:53da925e7fa0c8af",
           "sourceBodyHash": "sha256:4be23294d5e61459",
           "translatedAt": "2026-07-31T09:04:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4a2deca4",
+          "translationLastModified": "2026-07-31T11:21:31+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -38397,8 +38397,8 @@
           "sourceContentHash": "sha256:8ca8b403c13ab428",
           "sourceBodyHash": "sha256:547ee1d3b342a025",
           "translatedAt": "2026-07-31T09:04:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4a2deca4",
+          "translationLastModified": "2026-07-31T11:21:31+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -43570,18 +43570,16 @@
         "es": {
           "path": "es/Society/social-movements-and-civic-participation.md",
           "translatedFrom": "Society/社會運動與公民參與.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:3135e379b382138b",
-          "sourceBodyHash": "sha256:8080c3b51d96ed0a",
-          "translatedAt": "2026-05-20T05:08:32+08:00",
+          "sourceCommitSha": "dbaf28954",
+          "sourceContentHash": "sha256:31022a8379acbf4e",
+          "sourceBodyHash": "sha256:13d4a3545c8fc998",
+          "translatedAt": "2026-07-31T08:23:54+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Society/social-movements-and-civic-participation.md",
@@ -60377,7 +60375,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/yang-dechang.md",
+          "translatedFrom": "People/楊德昌.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:c2aa8f15ab2b1700",
+          "sourceBodyHash": "sha256:7119ad62eb825546",
+          "translatedAt": "2026-07-31T09:04:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 92,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -71849,16 +71858,16 @@
         "ko": {
           "path": "ko/People/tsai-ing-wen.md",
           "translatedFrom": "People/蔡英文.md",
-          "sourceCommitSha": "e6c58721",
-          "sourceContentHash": "sha256:b09e2036d35d54e7",
-          "sourceBodyHash": "sha256:fc825bead5669dc1",
-          "translatedAt": "2026-06-16T17:14:05Z",
+          "sourceCommitSha": "23c89f2a9",
+          "sourceContentHash": "sha256:8b9c35107127e767",
+          "sourceBodyHash": "sha256:e59e32a8f7afc902",
+          "translatedAt": "2026-07-31T08:23:54+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
-          "footnoteDefs": 18,
-          "status": "stale",
-          "reason": "footnote-loss (23→18)"
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/tsai-ing-wen.md",
@@ -83936,8 +83945,8 @@
           "sourceContentHash": "sha256:50eb815f9c92fea3",
           "sourceBodyHash": "sha256:1ab1bdb7f132ff60",
           "translatedAt": "2026-07-31T09:04:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4a2deca4",
+          "translationLastModified": "2026-07-31T11:21:31+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -110638,8 +110647,8 @@
           "sourceContentHash": "sha256:9ce361db9a5c3b1a",
           "sourceBodyHash": "sha256:39bde765a3b7a746",
           "translatedAt": "2026-07-31T09:04:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4a2deca4",
+          "translationLastModified": "2026-07-31T11:21:31+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
