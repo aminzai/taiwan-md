@@ -24,9 +24,9 @@ lastVerified: 2026-06-15
 lastHumanReview: false
 readingTime: 25
 translatedFrom: 'Technology/台灣網路社群遷徙史.md'
-sourceCommitSha: 'c673392a'
-sourceContentHash: 'sha256:0676695e1bfddf27'
-sourceBodyHash: 'sha256:30ac889d982dc42e'
+sourceCommitSha: 'd968559a'
+sourceContentHash: 'sha256:27a0271b143d3da5'
+sourceBodyHash: 'sha256:51c89f4d74696613'
 translatedAt: '2026-06-16T18:18:20Z'
 ---
 

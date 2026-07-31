@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-31T12:09:02+08:00",
-    "zhCommitHead": "3869c81b5",
+    "lastUpdated": "2026-07-31T14:16:41+08:00",
+    "zhCommitHead": "b49fa6d9d",
     "totalZh": 875,
     "activeLanguages": [
       "en",
@@ -19,8 +19,8 @@
     "summary": {
       "en": {
         "total_zh": 875,
-        "fresh": 832,
-        "stale": 28,
+        "fresh": 834,
+        "stale": 26,
         "metadata_stale": 2,
         "missing": 13,
         "orphan": 0
@@ -35,8 +35,8 @@
       },
       "ko": {
         "total_zh": 875,
-        "fresh": 848,
-        "stale": 19,
+        "fresh": 849,
+        "stale": 18,
         "metadata_stale": 0,
         "missing": 8,
         "orphan": 0
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 875,
-        "fresh": 772,
+        "fresh": 773,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 97,
+        "missing": 96,
         "orphan": 0
       },
       "hi": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 875,
-        "fresh": 675,
+        "fresh": 676,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 200,
+        "missing": 199,
         "orphan": 0
       }
     },
@@ -13226,16 +13226,16 @@
         "en": {
           "path": "en/Economy/acer-pc-industry-pioneer.md",
           "translatedFrom": "Economy/台灣企業：宏碁.md",
-          "sourceCommitSha": "24efd20f3",
-          "sourceContentHash": "sha256:aeda1256394e6383",
-          "sourceBodyHash": "sha256:6ba61f9dc892033c",
-          "translatedAt": "2026-05-15T14:23:13+08:00",
+          "sourceCommitSha": "a94bbcf6b",
+          "sourceContentHash": "sha256:f4628301afebb26c",
+          "sourceBodyHash": "sha256:51e7134a2abf4bcf",
+          "translatedAt": "2026-07-31T12:09:09+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (56→5)"
+          "footnoteDefs": 56,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/acer-pc-industry-pioneer.md",
@@ -15894,18 +15894,16 @@
         "ko": {
           "path": "ko/Technology/taiwan-online-community-migration.md",
           "translatedFrom": "Technology/台灣網路社群遷徙史.md",
-          "sourceCommitSha": "c673392a",
-          "sourceContentHash": "sha256:0676695e1bfddf27",
-          "sourceBodyHash": "sha256:30ac889d982dc42e",
+          "sourceCommitSha": "d968559a",
+          "sourceContentHash": "sha256:27a0271b143d3da5",
+          "sourceBodyHash": "sha256:51c89f4d74696613",
           "translatedAt": "2026-06-16T18:18:20Z",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 47,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+35 -35"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/taiwan-online-community-migration.md",
@@ -30199,7 +30197,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/taiwan-healthcare-and-national-health-insurance.md",
+          "translatedFrom": "Lifestyle/台灣醫療與全民健保.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:14d6c92447535914",
+          "sourceBodyHash": "sha256:c1ead29e154aba6a",
+          "translatedAt": "2026-07-31T09:04:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 42,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -53108,8 +53117,8 @@
           "sourceContentHash": "sha256:9f186591ee3109a8",
           "sourceBodyHash": "sha256:a759a5339dd81f4b",
           "translatedAt": "2026-07-31T08:23:53+08:00",
-          "translationLastCommit": "d0305d57",
-          "translationLastModified": "2026-07-24T20:13:33+08:00",
+          "translationLastCommit": "cb0e2eac",
+          "translationLastModified": "2026-07-31T12:09:02+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -72518,16 +72527,16 @@
         "en": {
           "path": "en/People/andre-chiang-taiwanese-culinary-innovator.md",
           "translatedFrom": "People/江振誠.md",
-          "sourceCommitSha": "fb010188",
-          "sourceContentHash": "sha256:5c3f4c327ba8e029",
-          "sourceBodyHash": "sha256:12c31fa42e4be425",
-          "translatedAt": "2026-05-01T13:44:02+08:00",
+          "sourceCommitSha": "afc8fbf91",
+          "sourceContentHash": "sha256:335773d0a09d68a9",
+          "sourceBodyHash": "sha256:257d28e459bd329d",
+          "translatedAt": "2026-07-31T12:09:09+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (30→0)"
+          "footnoteDefs": 30,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/andre-chiang-taiwanese-culinary-innovator.md",
@@ -82349,7 +82358,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/ke-zhi-tang-musician.md",
+          "translatedFrom": "People/柯智棠.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:e7632bbdde015839",
+          "sourceBodyHash": "sha256:e1150c885b006baf",
+          "translatedAt": "2026-07-31T09:04:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 65,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
