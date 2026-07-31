@@ -1,9 +1,9 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.49)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.50)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.49'
+current_version: 'v1.50'
 last_updated: 2026-07-30
 last_session: '2026-07-30-230518-manual（tags 基線豁免＋31b 攻堅）'
 sister_docs:
@@ -11,7 +11,7 @@ sister_docs:
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.49
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.50
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -260,6 +260,15 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.50（2026-07-31 深夜）：vi 車道候選重驗，**維持 fail-closed**。免費池 14 個
+  模型扣掉 too-small／specialized／PRC-origin 後，vi 的可用候選只剩兩個，今夜
+  各打一次真實請求：`gemma-4-31b`（7/24 校準主權＋sanity 都 PASS，只因容量被撤）
+  仍回 HTTP 429，容量沒恢復；`laguna-s-2.1` 回空輸出。nemotron 對 vi 歷史 2-6%
+  早已排除，`ling-3.0-flash` 是 PRC-origin，用它翻台灣主題與巴別塔的存在目的
+  相反（[MANIFESTO §主權的巴別塔](../semiont/MANIFESTO.md)）。**結論：vi 的
+  526 missing 不是待辦事項，是沒有合格算力可派**——下一輪不必重測，等新模型
+  進池或 gemma-4-31b 容量恢復再議。同輪確認環境失敗判準零誤觸發。
 
 - v1.49（2026-07-31）：兩個新模型組合同輪裁決撤回。(1) laptop-4090 ×
   gpt-oss:20b 真實文章 0/10 撤池——小規模 probe 四段 marker 協議完美，
