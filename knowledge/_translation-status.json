@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-01T01:04:37+08:00",
-    "zhCommitHead": "03ed9effc",
+    "lastUpdated": "2026-08-01T04:57:30+08:00",
+    "zhCommitHead": "384bb429a",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -19,24 +19,24 @@
     "summary": {
       "en": {
         "total_zh": 877,
-        "fresh": 835,
-        "stale": 26,
+        "fresh": 837,
+        "stale": 24,
         "metadata_stale": 2,
         "missing": 14,
         "orphan": 0
       },
       "ja": {
         "total_zh": 877,
-        "fresh": 837,
-        "stale": 26,
+        "fresh": 838,
+        "stale": 25,
         "metadata_stale": 2,
         "missing": 12,
         "orphan": 0
       },
       "ko": {
         "total_zh": 877,
-        "fresh": 851,
-        "stale": 17,
+        "fresh": 854,
+        "stale": 14,
         "metadata_stale": 0,
         "missing": 9,
         "orphan": 0
@@ -51,8 +51,8 @@
       },
       "fr": {
         "total_zh": 877,
-        "fresh": 848,
-        "stale": 20,
+        "fresh": 849,
+        "stale": 19,
         "metadata_stale": 1,
         "missing": 8,
         "orphan": 0
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 877,
-        "fresh": 467,
+        "fresh": 468,
         "stale": 3,
         "metadata_stale": 0,
-        "missing": 407,
+        "missing": 406,
         "orphan": 0
       },
       "pt": {
@@ -83,18 +83,18 @@
       },
       "hi": {
         "total_zh": 877,
-        "fresh": 572,
+        "fresh": 573,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 305,
+        "missing": 304,
         "orphan": 0
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 648,
+        "fresh": 649,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 228,
+        "missing": 227,
         "orphan": 0
       },
       "ru": {
@@ -6079,16 +6079,16 @@
         "ja": {
           "path": "ja/Economy/taiwan-uniform-invoice.md",
           "translatedFrom": "Economy/發票.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:442f27209d04a396",
-          "sourceBodyHash": "sha256:1dc11e21cef45412",
-          "translatedAt": "2026-06-12T16:38:55Z",
+          "sourceCommitSha": "4a923c640",
+          "sourceContentHash": "sha256:3de7677c1cc54d07",
+          "sourceBodyHash": "sha256:1962c2279b937909",
+          "translatedAt": "2026-07-31T22:46:17+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
-          "footnoteDefs": 14,
-          "status": "stale",
-          "reason": "footnote-loss (28→14)"
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/taiwan-uniform-invoice.md",
@@ -36726,8 +36726,8 @@
           "sourceContentHash": "sha256:0e32d79d3df5fb08",
           "sourceBodyHash": "sha256:4ba5d74427c47aed",
           "translatedAt": "2026-07-31T12:09:10+08:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "67daef1e",
+          "translationLastModified": "2026-08-01T01:04:37+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -37605,18 +37605,16 @@
         "en": {
           "path": "en/Society/education-system-and-admissions-culture.md",
           "translatedFrom": "Society/教育制度與升學文化.md",
-          "sourceCommitSha": "f712b7242",
-          "sourceContentHash": "sha256:0a7458b73a859fea",
-          "sourceBodyHash": "sha256:b2b271a1c8432769",
-          "translatedAt": "2026-05-20T05:08:27+08:00",
+          "sourceCommitSha": "9d6716713",
+          "sourceContentHash": "sha256:b3fec964553963ea",
+          "sourceBodyHash": "sha256:605626e47ccc1b01",
+          "translatedAt": "2026-08-01T01:04:43+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+5 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Society/education-system-and-admissions-culture.md",
@@ -46760,16 +46758,16 @@
         "ko": {
           "path": "ko/About/why-taiwan-needs-its-own-knowledge-base.md",
           "translatedFrom": "About/為什麼台灣需要自己的知識庫.md",
-          "sourceCommitSha": "a05d2431",
-          "sourceContentHash": "sha256:62ec81a90f901dec",
-          "sourceBodyHash": "sha256:352de879384e19e9",
-          "translatedAt": "2026-06-16T17:10:38Z",
+          "sourceCommitSha": "b7dd78637",
+          "sourceContentHash": "sha256:20046b0bdaf571de",
+          "sourceBodyHash": "sha256:43aaf2c0f446a093",
+          "translatedAt": "2026-08-01T01:04:45+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (25→0)"
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/About/why-taiwan-needs-its-own-knowledge-base.md",
@@ -49506,7 +49504,18 @@
           "diffSummary": "+14 -14"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Nature/daan-river-yitian-sword.md",
+          "translatedFrom": "Nature/大安溪倚天劍.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:c15c81ec44174b35",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-07-31T17:25:34.234245+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 63,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Nature/daan-river-yitian-sword.md",
@@ -70992,18 +71001,16 @@
         "fr": {
           "path": "fr/People/waa-wei-singer.md",
           "translatedFrom": "People/魏如萱.md",
-          "sourceCommitSha": "ac1d187a",
-          "sourceContentHash": "sha256:0b7e2166be4687d0",
-          "sourceBodyHash": "sha256:e29a88a99b0c002f",
-          "translatedAt": "2026-06-12T03:51:14+08:00",
+          "sourceCommitSha": "4a7c2bfc8",
+          "sourceContentHash": "sha256:f58a33f97c50539d",
+          "sourceBodyHash": "sha256:21b9be483a88d65c",
+          "translatedAt": "2026-08-01T01:04:44+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 23,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+17 -17"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/People/waa-wei-singer.md",
@@ -73489,16 +73496,16 @@
         "ko": {
           "path": "ko/People/andre-chiang-taiwanese-culinary-innovator.md",
           "translatedFrom": "People/江振誠.md",
-          "sourceCommitSha": "fb010188",
-          "sourceContentHash": "sha256:5c3f4c327ba8e029",
-          "sourceBodyHash": "sha256:12c31fa42e4be425",
-          "translatedAt": "2026-04-14T19:24:47+08:00",
+          "sourceCommitSha": "afc8fbf91",
+          "sourceContentHash": "sha256:335773d0a09d68a9",
+          "sourceBodyHash": "sha256:257d28e459bd329d",
+          "translatedAt": "2026-08-01T01:04:45+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (30→0)"
+          "footnoteDefs": 30,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/andre-chiang-taiwanese-culinary-innovator.md",
@@ -86785,18 +86792,16 @@
         "en": {
           "path": "en/People/ang-lee.md",
           "translatedFrom": "People/李安.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:5e0878a68a9e472e",
-          "sourceBodyHash": "sha256:b22fe95649d7be32",
-          "translatedAt": "2026-06-16T17:03:25Z",
+          "sourceCommitSha": "09c1bf1a9",
+          "sourceContentHash": "sha256:270ebb8ad85e9750",
+          "sourceBodyHash": "sha256:1c12395477bc0a4e",
+          "translatedAt": "2026-07-31T17:47:51.992050+00:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 50,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/ang-lee.md",
@@ -102822,16 +102827,16 @@
         "ko": {
           "path": "ko/History/great-recall-movement-2024.md",
           "translatedFrom": "History/大罷免.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:6a3389f4e3aa59c9",
-          "sourceBodyHash": "sha256:ac361a928edec55d",
-          "translatedAt": "2026-05-01T22:19:01+08:00",
+          "sourceCommitSha": "5add39fc8",
+          "sourceContentHash": "sha256:1c18939671190740",
+          "sourceBodyHash": "sha256:c336900c050cb32f",
+          "translatedAt": "2026-08-01T01:04:45+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
-          "footnoteDefs": 16,
-          "status": "stale",
-          "reason": "footnote-loss (53→16)"
+          "footnoteDefs": 53,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/History/great-recall-movement-2024.md",
@@ -113827,10 +113832,32 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/shilin.md",
+          "translatedFrom": "Geography/士林.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:fa3c9da0d146b3a4",
+          "sourceBodyHash": "sha256:18f3978bd2f84e6f",
+          "translatedAt": "2026-07-31T22:46:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/shilin.md",
+          "translatedFrom": "Geography/士林.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:fa3c9da0d146b3a4",
+          "sourceBodyHash": "sha256:18f3978bd2f84e6f",
+          "translatedAt": "2026-07-31T22:46:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
