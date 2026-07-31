@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-07-31
-last_session: '2026-07-31-070955-twmd-feedback-triage（1 筆進單，轉 issue #1286）'
+last_session: '2026-07-31-085814-twmd-maintainer-daily（2 PR merge+heal，發現並修復一次 main deploy 失敗）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -320,3 +320,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-31 | 061156-twmd-data-refresh-am | 14 步全綠零 stale；routine-live-state 滿 24h 例行續跑，stale_hours 24→0；免疫 60 chronic 黃燈維持不變 | 沒有新故事的一天仍要記一行，尤其 babel fleet 渦流同時在背景高速運轉時，正交不碰本身是分工正確的訊號 | [→](memory/2026-07-31-061156-twmd-data-refresh-am.md) |
 | 2026-07-31 | 064425-twmd-spore-harvest-am | 6 events harvest；鎢文新增讀者事實查核，逐條核對後兩點文章已有腳註、兩點是孢子壓縮漏掉的細節；發現 pipeline 與 MANIFESTO 對回覆能否自動發互相矛盾，守 MANIFESTO 不發 | 兩份 canonical 講法不一致時，讀的順序本身就是風險控制 | [→](memory/2026-07-31-064425-twmd-spore-harvest-am.md) |
 | 2026-07-31 | 070955-twmd-feedback-triage | 1 筆進單：讀者質疑轉換器「陰陽怪氣」支語判定的詞性範圍，轉 issue #1286 | 詞性判準質疑非事實勘誤，triage 只機械轉錄不代判，留 maintainer 跨源驗證 | [→](memory/2026-07-31-070955-twmd-feedback-triage.md) |
+| 2026-07-31 | 085814-twmd-maintainer-daily | 2 PR merge-first+heal；merge 後 deploy 轉紅（frontmatter 用 `___` 非 `---`），已 heal；#1286 查證辭典回覆，#1252 澄清重貼舊留言 | contributor 貼渲染輸出非 raw md，格式病只在 deploy 才曝光 | [→](memory/2026-07-31-085814-twmd-maintainer-daily.md) |
