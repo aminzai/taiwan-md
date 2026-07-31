@@ -326,3 +326,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-01 | 053456-twmd-embeddings-nightly | bge-m3 nightly 12 語 8686 向量 0 fail；vi 連三夜持平後首度跨過 400 篇門檻（448 篇），該條 handoff 退役 | push 前的 `git log -1` 核對揪出自己筆誤的 commit 時間戳占位符，amend 補正確再推 | [→](memory/2026-08-01-053456-twmd-embeddings-nightly.md) |
 | 2026-08-01 | 053754-twmd-routine-sync | 三層對賬第七輪，17 條全 in-sync 零漂移，連續第三天全綠（7/29 修好的 babel-nightly drift 未復發） | 連續全綠仍要記一行，否則下次沒基線可比這條 routine 有沒有在跑 | [→](memory/2026-08-01-053754-twmd-routine-sync.md) |
 | 2026-08-01 | 061537-twmd-data-refresh-am | 14 步全綠零 stale；routine-live-state 例行續跑；vi 門檻退役後 inherited handoff 少一條，跨 routine 生命週期靠完整讀 wake-context 才接得住 | 沒有新故事的一天仍要記一行，正交不碰 babel fleet 渦流本身是分工正確的訊號 | [→](memory/2026-08-01-061537-twmd-data-refresh-am.md) |
+| 2026-08-01 | 064443-manual | 渦流三輪：§14b 閘門改只擋新退化＋186 檔標籤債量化、desktop-3090 診斷收斂為待哲宇拍板、金瓜石 patch-reject 死鎖修法寫下未動手 | 新工具上線第一天最容易犯它自己要防的病；診斷完成不等於該動手 | [→](memory/2026-08-01-064443-manual.md) |
