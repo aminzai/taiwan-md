@@ -76,6 +76,14 @@ GIT_LOCK = Path("/tmp/taiwan-md-git.lock")
 # 這份記憶透過 git 在所有產地之間流動。schema {"lang:zh_path": 失敗次數}，
 # 數值為 advisory（混合了不同模型的嘗試）；跨機衝突用逐鍵取 max 合併。
 FAIL_MEMO = REPO / "reports" / "babel" / "fail-memo.json"
+# 失敗「原因」側錄（2026-07-31）。fail-memo 只記次數，而次數混了兩種根因：
+# 閘門誤判（可修，修完該重試）與本質太難（重試無用）——4,059 筆分層顯示
+# 重試失敗過的文章吃掉 70% worker 時間換 14% 產出，但照次數一刀切會讓剛修好
+# 的閘門等不到它救的那批文章回來（分析：reports/babel-retry-economics-2026-07-31.md）。
+# 這份側錄不改任何行為、不參與排序，只是把「敗在哪一關」記下來，讓閘門修復
+# 後能精準只重置受該閘門影響的那批。**刻意獨立成檔而非改 fail-memo schema**：
+# 舊碼在跑的產線會把 dict 當 int 比大小而炸，側錄檔舊碼從不讀，零風險。
+FAIL_REASONS = REPO / "reports" / "babel" / "fail-reasons.json"
 MAX_FAIL_RETRIES = 3   # 同一篇本 run 失敗幾次後讓出輪次（退避，非永久放棄——下個 run 重來）  # SAME path the legacy bash dispatchers use
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -1106,6 +1114,22 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
                             merged[k] = v
                 FAIL_MEMO.write_text(json.dumps(merged, ensure_ascii=False),
                                      encoding="utf-8")
+            except Exception:
+                pass
+            # 原因側錄：{key: {reason_bucket: 次數}}。bucket 取 fail_reason 的
+            # 閘門名（方括號前那段），保留原始細目在值裡不夠用時可回 report.jsonl。
+            try:
+                reason = (fail_reason or "unknown").strip()
+                bucket = reason.split("[")[0].strip() or "unknown"
+                if "[" in reason:
+                    bucket = f"{bucket} [{reason.split('[', 1)[1].split(']')[0]}]"
+                store = {}
+                if FAIL_REASONS.exists():
+                    store = json.loads(FAIL_REASONS.read_text(encoding="utf-8"))
+                per = store.setdefault(f"{lang}:{zh_path}", {})
+                per[bucket] = per.get(bucket, 0) + 1
+                FAIL_REASONS.write_text(json.dumps(store, ensure_ascii=False, indent=0),
+                                        encoding="utf-8")
             except Exception:
                 pass
         state.in_flight.discard(f"{lang}:{zh_path}")
