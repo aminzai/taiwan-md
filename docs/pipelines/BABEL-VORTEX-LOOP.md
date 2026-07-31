@@ -1,9 +1,9 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.50)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.51)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.50'
+current_version: 'v1.51'
 last_updated: 2026-07-30
 last_session: '2026-07-30-230518-manual（tags 基線豁免＋31b 攻堅）'
 sister_docs:
@@ -11,7 +11,7 @@ sister_docs:
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.50
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.51
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -260,6 +260,21 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 證據（重試觸發次數），不是相關性。
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
+
+- v1.51（2026-08-01 02:28 巡檢）：**新閘門誤擋存量債，一小時後才現形**。
+  §14b「frontmatter 欄位未遺漏」上線後把 `es/鄭愁予` 的 semantic-noop-bump
+  （零成本版本標記更新）擋下，理由是全站 1,802 檔的存量債——後果是最便宜的
+  路徑被打回整篇重翻，閘門反過來燒算力。修法跟死鏈閘門同源：拿受檢物自己的
+  git HEAD 當基線，存量債 WARN、本次新弄掉的才 FAIL。修後通過率 12%→19%，
+  noop-bump 恢復生效（`ko/taiwan-online-community-migration → d968559a`）。
+  教訓已升 [REFLEXES #66 (e)](../semiont/REFLEXES.md)：**校準語料要涵蓋閘門
+  將跑過的全部族群**，不是只有促使它誕生的那批（那批往往最乾淨，因為問題剛
+  被你修過）；ship 前至少對 20 個隨機既有檔跑一次看誤擋率。
+
+  同輪量化出一筆有世代特徵的債：**186 檔非漢字圈譯文的標籤仍是中文**
+  （en 111/262 = 42%、es 40/151 = 27%、fr 33/137 = 24%，而 ar/id/ru/vi
+  全部 0%）。新語言用現行 pipeline 翻（強制翻標籤），舊語言早於它——
+  這是讀者可見的品質債不是中繼資料。>50 檔屬 §自主權邊界，待哲宇拍板。
 
 - v1.50（2026-07-31 深夜）：vi 車道候選重驗，**維持 fail-closed**。免費池 14 個
   模型扣掉 too-small／specialized／PRC-origin 後，vi 的可用候選只剩兩個，今夜
