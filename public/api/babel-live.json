@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-01T06:14:59+08:00",
+ "generated_at": "2026-08-01T07:00:26+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-08-01T06:14:56+08:00",
+ "snapshot_ts": "2026-08-01T07:00:23+08:00",
  "total_zh": 877,
  "langs": [
   {
@@ -11,7 +11,7 @@
    "stale": 25,
    "missing": 14,
    "coverage_pct": 98.4,
-   "fresh_delta": 1
+   "fresh_delta": 0
   },
   {
    "lang": "ja",
@@ -105,22 +105,22 @@
   }
  ],
  "gap_total": 1836,
- "gap_delta": -1,
+ "gap_delta": 0,
  "rate_1h": {
-  "delta": 3,
+  "delta": 1,
   "span_h": 1.01,
-  "per_hour": 3.0
+  "per_hour": 1.0
  },
  "rate_24h": {
-  "delta": 205,
-  "span_h": 24.13,
-  "per_hour": 8.5
+  "delta": 190,
+  "span_h": 24.12,
+  "per_hour": 7.9
  },
- "eta_days": 25.5,
+ "eta_days": 76.5,
  "nodes": {
   "worker:nemo": {
    "ok": 238,
-   "fail": 397,
+   "fail": 398,
    "avg_s": 296.4,
    "top_fail": [
     [
@@ -129,10 +129,10 @@
     ],
     [
      "no output written by tra",
-     85
+     86
     ]
    ],
-   "last_activity": "2026-08-01T05:56:01+08:00"
+   "last_activity": "2026-08-01T06:44:56+08:00"
   },
   "worker:nemo3": {
    "ok": 237,
@@ -152,7 +152,7 @@
   },
   "worker:nemo2": {
    "ok": 213,
-   "fail": 354,
+   "fail": 356,
    "avg_s": 267.1,
    "top_fail": [
     [
@@ -161,10 +161,10 @@
     ],
     [
      "no output written by tra",
-     78
+     79
     ]
    ],
-   "last_activity": "2026-08-01T05:49:49+08:00"
+   "last_activity": "2026-08-01T06:53:13+08:00"
   },
   "worker:nemo4": {
    "ok": 214,
@@ -244,19 +244,19 @@
   },
   "worker:macm4max": {
    "ok": 48,
-   "fail": 151,
+   "fail": 154,
    "avg_s": 218.2,
    "top_fail": [
     [
      "no output written by tra",
-     66
+     68
     ],
     [
      "verify=1 [frontmatter no",
      36
     ]
    ],
-   "last_activity": "2026-08-01T06:14:27+08:00"
+   "last_activity": "2026-08-01T06:58:03+08:00"
   },
   "worker:desktop30901": {
    "ok": 15,
@@ -368,7 +368,7 @@
   },
   "worker:desktop3090": {
    "ok": 8,
-   "fail": 160,
+   "fail": 163,
    "avg_s": 174.8,
    "top_fail": [
     [
@@ -377,10 +377,10 @@
     ],
     [
      "health [footnote-format]",
-     26
+     27
     ]
    ],
-   "last_activity": "2026-08-01T06:11:14+08:00"
+   "last_activity": "2026-08-01T06:59:42+08:00"
   },
   "worker:gemma31": {
    "ok": 0,
@@ -510,34 +510,19 @@
   {
    "kind": "unified",
    "pid": "38825",
-   "uptime": "01-04:13:14",
+   "uptime": "01-04:58:41",
    "langs": "en,es,fr,ko",
    "workers": 2
   },
   {
    "kind": "unified",
    "pid": "68717",
-   "uptime": "07:28:48",
+   "uptime": "08:14:15",
    "langs": "ja,id,pt,hi,ar,ru",
    "workers": 4
   }
  ],
  "history": [
-  {
-   "ts": "2026-07-31T01:02:11+08:00",
-   "fresh_total": 7553,
-   "gap_total": 2072
-  },
-  {
-   "ts": "2026-07-31T01:17:23+08:00",
-   "fresh_total": 7553,
-   "gap_total": 2072
-  },
-  {
-   "ts": "2026-07-31T01:32:38+08:00",
-   "fresh_total": 7554,
-   "gap_total": 2071
-  },
   {
    "ts": "2026-07-31T01:47:54+08:00",
    "fresh_total": 7554,
@@ -1000,6 +985,21 @@
   },
   {
    "ts": "2026-08-01T06:14:56+08:00",
+   "fresh_total": 7811,
+   "gap_total": 1836
+  },
+  {
+   "ts": "2026-08-01T06:30:04+08:00",
+   "fresh_total": 7811,
+   "gap_total": 1836
+  },
+  {
+   "ts": "2026-08-01T06:45:14+08:00",
+   "fresh_total": 7811,
+   "gap_total": 1836
+  },
+  {
+   "ts": "2026-08-01T07:00:23+08:00",
    "fresh_total": 7811,
    "gap_total": 1836
   }
