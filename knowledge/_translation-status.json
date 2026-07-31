@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-31T10:15:47+08:00",
-    "zhCommitHead": "4dba3477b",
+    "lastUpdated": "2026-07-31T10:31:07+08:00",
+    "zhCommitHead": "554062182",
     "totalZh": 875,
     "activeLanguages": [
       "en",
@@ -19,16 +19,16 @@
     "summary": {
       "en": {
         "total_zh": 875,
-        "fresh": 830,
+        "fresh": 831,
         "stale": 28,
         "metadata_stale": 2,
-        "missing": 15,
+        "missing": 14,
         "orphan": 0
       },
       "ja": {
         "total_zh": 875,
-        "fresh": 836,
-        "stale": 27,
+        "fresh": 837,
+        "stale": 26,
         "metadata_stale": 2,
         "missing": 10,
         "orphan": 0
@@ -17819,8 +17819,8 @@
           "sourceContentHash": "sha256:6b493ef18a59a364",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-31T00:47:41.129476+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "55406218",
+          "translationLastModified": "2026-07-31T10:15:47+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -18507,8 +18507,8 @@
           "sourceContentHash": "sha256:a11384a8d2f62bcc",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-31T00:10:04.823634+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "55406218",
+          "translationLastModified": "2026-07-31T10:15:47+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -22851,8 +22851,8 @@
           "sourceContentHash": "sha256:dbd30052b54262c8",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-30T23:50:20.340634+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "55406218",
+          "translationLastModified": "2026-07-31T10:15:47+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -47423,8 +47423,8 @@
           "sourceContentHash": "sha256:7f5ae90c4eafcd0e",
           "sourceBodyHash": "sha256:2a057438270935d7",
           "translatedAt": "2026-07-28T19:51:34.272289+00:00",
-          "translationLastCommit": "adc69a2f",
-          "translationLastModified": "2026-07-29T04:32:17+08:00",
+          "translationLastCommit": "55406218",
+          "translationLastModified": "2026-07-31T10:15:47+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -50452,8 +50452,8 @@
           "sourceContentHash": "sha256:538768c6e0f7c149",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-31T01:50:13.707850+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "55406218",
+          "translationLastModified": "2026-07-31T10:15:47+08:00",
           "inferred": false,
           "footnoteDefs": 45,
           "status": "fresh",
@@ -68344,7 +68344,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/People/freddy-lim.md",
+          "translatedFrom": "People/林昶佐.md",
+          "sourceCommitSha": "f28a9528a",
+          "sourceContentHash": "sha256:42745728f5eb5c1a",
+          "sourceBodyHash": "sha256:b26e0a7ce99faf37",
+          "translatedAt": "2026-07-31T08:23:53+08:00",
+          "translationLastCommit": "26a727c9",
+          "translationLastModified": "2026-07-24T15:47:25+08:00",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/freddy-lim.md",
@@ -81406,16 +81417,16 @@
         "ja": {
           "path": "ja/People/stan-shih.md",
           "translatedFrom": "People/施振榮.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:487d1e61a16e9b30",
-          "sourceBodyHash": "sha256:bea7bd5b0ffc4d42",
-          "translatedAt": "2026-05-16T22:35:34Z",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:b0e816b78b19b42e",
+          "sourceBodyHash": "sha256:a0ff299644c9b0cc",
+          "translatedAt": "2026-07-31T09:04:20+08:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (71→0)"
+          "footnoteDefs": 71,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/stan-shih.md",
