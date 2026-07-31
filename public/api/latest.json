@@ -1,8 +1,26 @@
 {
-  "_generated": "2026-07-30T22:14:13.557Z",
+  "_generated": "2026-07-31T22:13:49.540Z",
   "perLang": 30,
   "byLang": {
     "zh-TW": [
+      {
+        "title": "平埔族群：從「行政格式化」到西拉雅正名第 17 族的百年重生",
+        "desc": "2026 年 7 月 30 日，行政院正式核定西拉雅族為第 17 個法定原住民族，終結了平埔族群長達百年的「行政消失」。從荷治時期戶口冊上的四萬人，到 1950 年代國民政府登記疏漏造成的集體隱形，再到今日 8 個族群仍在排隊申請核定，這場正名揭開了台灣多元文化史觀的新頁。",
+        "category": "history",
+        "href": "/history/%E5%B9%B3%E5%9F%94%E6%97%8F",
+        "date": "2026-07-31T01:51:34+08:00",
+        "readingTime": 15,
+        "image": ""
+      },
+      {
+        "title": "台灣羊乳：從晨間鮮配箱到 GGM 認證的純山羊奶之路",
+        "desc": "1979 年李明興在關廟種下台灣羊乳產業的種子。從清晨薄霧中的鮮配箱、到市佔七成的嘉南羊乳，這瓶山羊奶承載了台灣人的集體兒時記憶。近年透過「羊小編」社群海巡，這項老牌訂閱制產業在 Threads 重新翻紅，展現傳統農業與數位語境碰撞的獨特張力，也映照出少子化下產業轉型的真實壓力。",
+        "category": "economy",
+        "href": "/economy/%E7%BE%8A%E5%A5%B6",
+        "date": "2026-07-31T00:31:54+08:00",
+        "readingTime": 12,
+        "image": ""
+      },
       {
         "title": "彈珠汽水：玻璃瓶裡的百年氣泡，與那聲「啵」出的台灣童年",
         "desc": "從 19 世紀英國實驗室到台灣蘇澳冷泉，彈珠汽水不僅是碳酸飲料，更是一場關於物理壓力、日治階級與三太子信仰的文化交響。",
@@ -254,24 +272,6 @@
         "date": "2026-07-23T22:05:31+08:00",
         "readingTime": 10,
         "image": ""
-      },
-      {
-        "title": "萊爾富：從光泉紅到聯邦綠，台灣「超商老三」的靈魂突圍",
-        "desc": "萊爾富作為台灣唯一純本土血統的四大超商，如何在 7-ELEVEN 與全家的夾擊下，靠著「首創年菜」與「數位轉型」活出自我？一場 2023 年的經營權大洗牌，又將如何改變這家 35 年老店的基因？",
-        "category": "economy",
-        "href": "/economy/%E8%90%8A%E7%88%BE%E5%AF%8C",
-        "date": "2026-07-23T22:05:31+08:00",
-        "readingTime": 12,
-        "image": ""
-      },
-      {
-        "title": "AI 走進教室：三百支代理人，接住培訓後孤單的老師",
-        "desc": "2026 年，徐臺屏把約八十位教師設計的三百支 AI 代理人放進共享大市集。台灣兩份不同調查一面顯示九成教師已接觸 AI，一面顯示 95.6% 仍有學習需求。從大佳國小的三小時研習、內湖高中的「漚客」測試，到教育部人才方舟計畫，本文追問：工具已經進教室，誰來接住回校後的老師？這是工具普及之後更難的教育工程。",
-        "category": "technology",
-        "href": "/technology/%E5%8F%B0%E7%81%A3%E6%95%99%E5%B8%AB%E8%88%87AI%E6%95%99%E5%AD%B8",
-        "date": "2026-07-23T21:57:32+08:00",
-        "readingTime": null,
-        "image": "/article-images/technology/taiwan-students-digital-learning-2019.webp"
       }
     ],
     "en": [
@@ -1054,8 +1054,8 @@
         "image": "/article-images/technology/alphafold-cbln1-structure-2025.webp"
       },
       {
-        "title": "의료법: 기관 규범과 시장 압력 사이의 40년",
-        "desc": "대만 의료법은 1986년에 공포되고, 2017년에 의사의 형사책임 조항이 개정되었으며, 2026년에 간호사 대 환자 비율이 법에 편입되었다. 법문이 쓰고 있는 것은 “의료사업의 건전한 발전 촉진”이지만, 실제로 작동하는 것은 병상의 83%가 사립화된 구조, 응급의학과 의사의 이탈률이 국제 수준보다 두세 배 높은 현실, 간호사 1,000여 명이 연속적으로 사직한 뒤에야 간호사 대 환자 비율이 법에 들어간 과정이다. 이것은 건강보험법도, 의사법도 아니다. 이것은 대만에서 “병원”이라는 기관이 어떻게 존재하는지를 규정하는 근본 법이며, 의료의 공익성과 시장 메커니즘이 40년 동안 풀지 못한 긴장이기도 하다.",
+        "title": "의료법: 기관 규범과 시장 힘겨루기의 40년",
+        "desc": "타이완 의료법은 1986년에 공포되었고, 2017년에 의사의 형사책임 조항을 개정했으며, 2026년에는 3교대 간호사 대 환자 비율을 법에 편입했다. 법은 ‘간호사 한 명이 최대 몇 병상을 맡는가’는 써낼 수 있지만, ‘그 간호사가 실제로 있는가’는 써내지 못한다 — 간호사 면허 32만 장 가운데, 임상에는 19만 쌍의 손만 남았다. 이것은 건강보험법도 의사법도 아니다. 타이완에서 ‘병원’이라는 기관이 어떻게 존재하는지를 규정하는 근본법이며, 의료의 공익성과 시장 메커니즘이 40년째 풀지 못한 힘겨루기이기도 하다.",
         "category": "society",
         "href": "/ko/society/medical-care-act",
         "date": "2026-07-29T13:39:11+09:00",
@@ -1308,8 +1308,8 @@
         "image": "/article-images/food/dan-ta-hero.webp"
       },
       {
-        "title": "Artisanat traditionnel et patrimoine culturel immatériel de Taïwan : la reconnaissance institutionnelle est arrivée, mais les apprentis ont disparu",
-        "desc": "En décembre 2022, le ministère de la Culture a inscrit Su Qingliang, maître maçon de Kaohsiung âgé de 87 ans, parmi les « trésors nationaux vivants » ; il est mort six mois plus tard. Taïwan n’a intégré les « détenteurs d’un artisanat traditionnel important » dans la Loi sur la préservation du patrimoine culturel qu’en 2005, avec 50 ans de retard sur le Japon et 43 ans sur la Corée. Quand le dispositif a enfin été en place, le système d’apprentissage s’était déjà effondré dans l’industrialisation des années 1970-1980 : parmi plus de 600 maîtres artisans traditionnels, les moins de 50 ans ne sont « qu’une minorité ». Plus la liste s’allonge, moins il reste de personnes capables d’enseigner.",
+        "title": "Artisanat traditionnel taïwanais et patrimoine culturel immatériel : le système est enfin reconnu, mais les apprentis ont disparu",
+        "desc": "En décembre 2022, le ministère de la Culture a désigné Su Qingliang, 87 ans, expert en maçonnerie traditionnelle de Kaohsiung, comme « Trésor humain national » ; il est décédé six mois plus tard. Taïwan n'a inscrit la catégorie des « détenteurs importants de techniques traditionnelles » dans sa loi sur le patrimoine culturel qu'en 2005, soit 50 ans après le Japon et 43 ans après la Corée. Alors que le système institutionnel se met enfin en place, le système d'apprentissage s'est effondré lors de l'industrialisation des années 1970-80 : parmi les plus de 600 artisans traditionnels, ceux de moins de 50 ans ne constituent qu'une « minorité ». La liste des détenteurs s'allonge, mais le nombre de maîtres capables d'enseigner diminue.",
         "category": "culture",
         "href": "/fr/culture/traditional-crafts-intangible-cultural-heritage",
         "date": "2026-07-29T13:39:11+09:00",
@@ -1562,8 +1562,8 @@
         "image": "/article-images/technology/alphafold-cbln1-structure-2025.webp"
       },
       {
-        "title": "El Gran Recall",
-        "desc": "En 2025, la sociedad civil taiwanesa lanzó la campaña de recall (destitución) más grande de su historia, dirigida contra legisladores del Kuomintang que impulsaron proyectos de ley controvertidos, en un intento por corregir el desequilibrio de poder en el Yuan Legislativo. Las tres rondas de votación fueron rechazadas en su totalidad, constituyendo un ejercicio y una prueba a gran escala de la democracia directa en Taiwán.",
+        "title": "La gran destitución: el mayor ciclo de destituciones de la historia de Taiwán, donde las 33 propuestas fracasaron todas, midiendo cada grado de la democracia taiwanesa",
+        "desc": "En la noche del 26 de julio de 2025, se abrieron las urnas en un tercio de las circunscripciones electorales de todo el país simultáneamente; las 25 propuestas de destitución fracasaron todas. Desde la Acción del Pájaro Azul hasta las más de 1,3 millones de firmas de apoyo en tres oleadas de votación con 33 casos que quedaron en cero, este mayor ciclo de destituciones en la historia de Taiwán no destituyó a ninguna persona, pero por primera vez midió simultáneamente la energía de movilización, la altura de los umbrales y el costo de la polarización de la democracia.",
         "category": "history",
         "href": "/es/history/great-recall-movement-2024",
         "date": "2026-07-29T01:33:17+08:00",

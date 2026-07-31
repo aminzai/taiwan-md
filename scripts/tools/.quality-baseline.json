@@ -1,8 +1,8 @@
 {
   "version": "ssot-1.0",
-  "timestamp": "2026-07-30T22:13:55Z",
-  "total": 875,
-  "flagged": 432,
+  "timestamp": "2026-07-31T22:13:31Z",
+  "total": 877,
+  "flagged": 433,
   "files": [
     {
       "file": "music/台灣KTV文化.md",
@@ -1803,6 +1803,11 @@
       "file": "history/台灣與北朝鮮關係.md",
       "score": 6,
       "reasons": "空洞詞10個; 未人工審核; 塑膠句1個; 分號4個; 稀薄段落×1"
+    },
+    {
+      "file": "history/平埔族.md",
+      "score": 4,
+      "reasons": "未人工審核; 稀薄段落×3; 價值上升詞×3"
     },
     {
       "file": "history/台灣眷村歷史.md",

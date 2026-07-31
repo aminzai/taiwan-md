@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-07-31 06:14
+last_generated: 2026-08-01 06:14
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,7 +12,7 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-07-31 06:14** · 頂層 \*.md 共 **248** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-08-01 06:14** · 頂層 \*.md 共 **249** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
@@ -29,15 +29,15 @@ type: auto-index
 | `babel-tier4/`          |     8 | 5.5 KB   | —                                                    |
 | `babel-quarantine/`     |     7 | 268.0 KB | —                                                    |
 | `probe/`                |     6 | 69.8 KB  | BECOME §Step 7 探測器報告                            |
+| `babel/`                |     5 | 5.1 MB   | —                                                    |
 | `babel-jobs/`           |     5 | 246.4 KB | —                                                    |
 | `babel-patches/`        |     5 | 3.4 MB   | —                                                    |
 | `translation-research/` |     5 | 338.0 KB | 巴別塔 5 lang research                               |
 | `ab-tests/`             |     4 | 69.2 KB  | Editorial v6 A/B test                                |
-| `babel/`                |     4 | 4.4 MB   | —                                                    |
 | `music-media-audit/`    |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
 | `news-lens/`            |     3 | 59.0 KB  | —                                                    |
 | `terminology-review/`   |     3 | 1.7 MB   | —                                                    |
-| `404-monitor/`          |     2 | 93.8 KB  | —                                                    |
+| `404-monitor/`          |     2 | 89.6 KB  | —                                                    |
 | `fork-census/`          |     2 | 36.2 KB  | —                                                    |
 | `harvest/`              |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
 | `audit/`                |     1 | 20.7 KB  | —                                                    |
@@ -223,8 +223,9 @@ type: auto-index
 - `2026-04-12` [NMTH-overseas-semiont-analysis-2026-04-12](NMTH-overseas-semiont-analysis-2026-04-12.md)
 - `2026-04-11` [TFT-semiont-analysis-2026-04-11](TFT-semiont-analysis-2026-04-11.md)
 
-### ops (100)
+### ops (101)
 
+- `2026-07-31` [babel-retry-economics-2026-07-31](babel-retry-economics-2026-07-31.md) — 巴別塔重試經濟學：重試吃 57% 算力換 25% 產出（含一次自我更正）
 - `2026-07-30` [evolve-2026-07-30](evolve-2026-07-30.md) — EVOLVE scan 2026-07-30
 - `2026-07-27` [cross-link-localization-2026-07-27](cross-link-localization-2026-07-27.md)
 - `2026-07-27` [semantic-noop-stale-2026-07-27](semantic-noop-stale-2026-07-27.md) — 語意無關 stale 的零成本判定與 bump
@@ -334,9 +335,10 @@ type: auto-index
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
 
-### 2026-07 (70 files)
+### 2026-07 (71 files)
 
-- Type breakdown: ops: 43 / evolution: 13 / design: 9 / audit-routine: 3 / audit: 1 / plan: 1
+- Type breakdown: ops: 44 / evolution: 13 / design: 9 / audit-routine: 3 / audit: 1 / plan: 1
+  - `2026-07-31` [babel-retry-economics-2026-07-31](babel-retry-economics-2026-07-31.md)
   - `2026-07-30` [evolve-2026-07-30](evolve-2026-07-30.md)
   - `2026-07-27` [cross-link-localization-2026-07-27](cross-link-localization-2026-07-27.md)
   - `2026-07-27` [patch-translate-design-2026-07-27](patch-translate-design-2026-07-27.md)
