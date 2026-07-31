@@ -262,6 +262,7 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
   - (b) WARN soft-launch → vc≥3 後升 HARD 也是一種 dogfood 校準（已有 instance：article-health plugin 家族 staged-promotion pattern）
   - (c) gate threshold 數字 commit 在 source 旁邊要加 `# calibrated against: <article-slug or batch>` inline comment — 未來 audit 看得到校準依據
   - (d) **gate threshold periodic recalibration**：當 corpus 結構性擴張（新文章形態如 viz-heavy / 新語言 / 新 spore 類型 ≥10 篇），active gate 需重新 dogfood 一次 — 「校準那天的方向」會過期（per 2026-06-04 儀器校準事件）
+- **(e) 校準語料要涵蓋「閘門將要跑過的全部族群」，不是只有觸發它誕生的那批**（2026-08-01 01:25 巡檢實撞）：新閘門最自然的 dogfood 對象是「我剛做出來、促使我造這道閘門的那批產出」，但那批往往是**最乾淨的樣本**——因為問題剛被我修過。真正會踩中的是存量語料。實例：`verify-translation` §14b「frontmatter 欄位未遺漏」上線前只對當晚新譯的 99 篇試跑（那批我親自要求 agent 補齊欄位，自然全過），從沒對既有語料跑過；上線後真實產線第一小時就把 `es/鄭愁予` 的 semantic-noop-bump 擋掉——全站 1,802 檔存量債都會踩，而後果是「零成本的版本標記更新」被打回「整篇重翻」，**閘門反過來燒算力**。修法是拿受檢物自己的 git HEAD 當基線（存量債 WARN、本次新弄掉的才 FAIL），跟死鏈閘門「新造 vs 繼承」同源。**操作規則：ship 前至少對 20 個隨機既有檔跑一次，看誤擋率**；新產出全過不代表閘門可上線。
 - **Boundary**：(a) 純規範性 binary check（如「檔案存在」「frontmatter has X」）不適用 — 沒有 threshold (b) 安全性閘門（如 secret-scanner）不適用 — 寧可 false-positive 不可 false-negative，校準方向不對 (c) 適用範圍：所有 quality-scan / prose-health / verify-translation / footnote-completeness / paragraph-rhythm 等品質 plugin 的 threshold 數字
 - **觸發**：
   - **2026-06-06 viz驗證文 153433** — `paragraph-rhythm` tw-\* 折抵 cap 第一版設 5，被自己 dogfood 的 8 圖表 data panorama 打臉（仍 WARN 1.28）。哲宇 callout「8+3~5 資訊圖表啦」後改 13（commit f628f1cb2）— 憑想像設 5 太低
