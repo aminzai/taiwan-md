@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-31T09:08:24+08:00",
-    "zhCommitHead": "b1e93568a",
+    "lastUpdated": "2026-07-31T09:33:30+08:00",
+    "zhCommitHead": "6c4ad279b",
     "totalZh": 875,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 875,
-        "fresh": 835,
-        "stale": 28,
+        "fresh": 836,
+        "stale": 27,
         "metadata_stale": 2,
         "missing": 10,
         "orphan": 0
@@ -51,8 +51,8 @@
       },
       "fr": {
         "total_zh": 875,
-        "fresh": 846,
-        "stale": 22,
+        "fresh": 847,
+        "stale": 21,
         "metadata_stale": 1,
         "missing": 6,
         "orphan": 0
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 875,
-        "fresh": 767,
+        "fresh": 770,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 102,
+        "missing": 99,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 875,
-        "fresh": 646,
+        "fresh": 647,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 228,
+        "missing": 227,
         "orphan": 0
       },
       "ru": {
         "total_zh": 875,
-        "fresh": 671,
+        "fresh": 674,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 204,
+        "missing": 201,
         "orphan": 0
       }
     },
@@ -6066,16 +6066,16 @@
         "fr": {
           "path": "fr/Economy/taiwan-uniform-invoice.md",
           "translatedFrom": "Economy/發票.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:442f27209d04a396",
-          "sourceBodyHash": "sha256:1dc11e21cef45412",
-          "translatedAt": "2026-06-13T00:00:00Z",
+          "sourceCommitSha": "4a923c640",
+          "sourceContentHash": "sha256:3de7677c1cc54d07",
+          "sourceBodyHash": "sha256:1962c2279b937909",
+          "translatedAt": "2026-07-31T08:23:54+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
-          "footnoteDefs": 14,
-          "status": "stale",
-          "reason": "footnote-loss (28→14)"
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -7109,7 +7109,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Economy/taiwan-enterprise-ase-semiconductor.md",
+          "translatedFrom": "Economy/台灣企業：日月光半導體.md",
+          "sourceCommitSha": "b900f18da",
+          "sourceContentHash": "sha256:275d7b3ee56db82a",
+          "sourceBodyHash": "sha256:58739438cbba3247",
+          "translatedAt": "2026-07-31T09:04:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -17087,7 +17098,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/red-candle-games.md",
+          "translatedFrom": "Technology/赤燭遊戲.md",
+          "sourceCommitSha": "c5f337929",
+          "sourceContentHash": "sha256:33c90e10581f31c9",
+          "sourceBodyHash": "sha256:1fba81d514ac33a3",
+          "translatedAt": "2026-07-31T09:04:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -17351,7 +17373,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Technology/taiwan-ai-in-daily-life.md",
+          "translatedFrom": "Technology/台灣AI日常.md",
+          "sourceCommitSha": "8d7c23da7",
+          "sourceContentHash": "sha256:53da925e7fa0c8af",
+          "sourceBodyHash": "sha256:4be23294d5e61459",
+          "translatedAt": "2026-07-31T09:04:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -18215,10 +18248,32 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/beverage-sealing-machine.md",
+          "translatedFrom": "Technology/飲料封膜機.md",
+          "sourceCommitSha": "073a02289",
+          "sourceContentHash": "sha256:f9e9a234cc5325c0",
+          "sourceBodyHash": "sha256:88a1bb16a9339997",
+          "translatedAt": "2026-07-31T09:04:22+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/beverage-sealing-machine.md",
+          "translatedFrom": "Technology/飲料封膜機.md",
+          "sourceCommitSha": "073a02289",
+          "sourceContentHash": "sha256:f9e9a234cc5325c0",
+          "sourceBodyHash": "sha256:88a1bb16a9339997",
+          "translatedAt": "2026-07-31T09:04:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -55162,8 +55217,8 @@
           "sourceContentHash": "sha256:37d8610a843cfcf0",
           "sourceBodyHash": "sha256:f8b9d7518607d1e1",
           "translatedAt": "2026-07-30T22:54:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0c49bc5f",
+          "translationLastModified": "2026-07-31T09:08:24+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -69681,8 +69736,8 @@
           "sourceContentHash": "sha256:f5a74a02db786491",
           "sourceBodyHash": "sha256:8514a8a697807f6e",
           "translatedAt": "2026-07-30T22:54:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0c49bc5f",
+          "translationLastModified": "2026-07-31T09:08:24+08:00",
           "inferred": false,
           "footnoteDefs": 17,
           "status": "fresh",
@@ -76936,18 +76991,16 @@
         "ja": {
           "path": "ja/People/potter-king-youtuber.md",
           "translatedFrom": "People/波特王.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:f007d55cb9bbfd03",
-          "sourceBodyHash": "sha256:08c56227ca69228f",
-          "translatedAt": "2026-06-12T00:53:40+08:00",
+          "sourceCommitSha": "5edf34bcb",
+          "sourceContentHash": "sha256:f218c0f6edac6f55",
+          "sourceBodyHash": "sha256:bd885df97c7fe1fa",
+          "translatedAt": "2026-07-31T01:15:25.693364+00:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 13,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/potter-king-youtuber.md",
@@ -83824,7 +83877,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/wang-shaudi.md",
+          "translatedFrom": "People/王小棣.md",
+          "sourceCommitSha": "3638ec158",
+          "sourceContentHash": "sha256:50eb815f9c92fea3",
+          "sourceBodyHash": "sha256:1ab1bdb7f132ff60",
+          "translatedAt": "2026-07-31T09:04:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -110515,7 +110579,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/taiwan-coastal-landforms-and-seascapes.md",
+          "translatedFrom": "Geography/台灣海岸地形與海洋地景.md",
+          "sourceCommitSha": "e14a15296",
+          "sourceContentHash": "sha256:9ce361db9a5c3b1a",
+          "sourceBodyHash": "sha256:39bde765a3b7a746",
+          "translatedAt": "2026-07-31T09:04:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -111930,8 +112005,8 @@
           "sourceContentHash": "sha256:0275e27f1a1e4e68",
           "sourceBodyHash": "sha256:c3a7643c439033af",
           "translatedAt": "2026-07-31T09:04:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0c49bc5f",
+          "translationLastModified": "2026-07-31T09:08:24+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",

@@ -1,164 +1,225 @@
 ---
-title: 'Tsai Ing-wen : de la défaite de 800 000 voix à la réélection à 8,17 millions de voix, la première femme présidente'
-description: 'Première présidente de Taïwan (2016-2024), juriste en droit international du commerce, a fait adopter la première loi sur le mariage homosexuel en Asie, a présenté les excuses du gouvernement aux peuples autochtones, descendante du peuple Paiwan'
+title: 'Tsai Ing-wen : De la nuit de la défaite aux 8,17 millions de voix, huit ans de présidence silencieuse'
+description: "Le 14 janvier 2012, Tsai Ing-wen perd l'élection présidentielle avec un écart de 797 561 voix ; huit ans plus tard, elle bat le record historique de la présidence directe avec 8 170 231 voix. De spécialiste du droit commercial international à première femme présidente, elle laisse des réalisations institutionnelles (mariage homosexuel, justice transitionnelle, réforme des pensions, statu quo) ainsi que des questions non résolues (judiciaire, logement, énergie, relations inter-détroit). Huit ans où le leadership silencieux devient système, tout en laissant des vides institutionnels."
 date: 2026-03-17
 category: 'People'
 tags:
   [
-    'personnalité',
+    'Personnalité',
     'Tsai Ing-wen',
-    'présidente',
-    'dirigeante',
-    'démocratie',
-    'politique',
-    'peuples autochtones',
+    'Présidence',
+    'Leaders féminines',
+    'Démocratie',
+    'Politique',
+    'Peuples autochtones',
   ]
 subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-07-12
 lastHumanReview: false
-rationale:
-  why_this_hook: "Le soir de la défaite du 14 janvier 2012, « vous pouvez pleurer, mais ne perdez pas courage » + 8,17 millions de voix quatre ans plus tard lors de la réélection. C'est l'entrée en matière du biographique qui recèle le renversement le plus saisissant, en écho avec la conclusion « le silence peut aussi être un style de leadership »."
-  whats_excluded: "6 camps critiques : Bleu foncé (responsabilité de la dégradation des relations inter-détroit) / Vert foncé (récupération du cadre « République de Chine Taïwan ») / Parti populaire taïwanais (mariage homosexuel par loi spéciale / énergie / réforme judiciaire / prix de l'immobilier) / Progressistes (mariage homosexuel de second rang / suivi des peuples autochtones absent) / Ambiguïté stratégique / Fractions internes du parti. La plupart relèvent « hors du périmètre » (renvoyés à des articles thématiques autonomes) + « contrainte de longueur ». Déjà couvert en prose : critique du mariage homosexuel + peuples autochtones dans § « Les deux signatures » / critique COVID dans § « 817 000 voix » / ruptures diplomatiques + NCC/CtiTV hedge bref dans § « En partant » (per Phase 5 sous-agent dogfood)."
-  where_it_hedges: '6 positions « reconnaître la critique et tenir le récit » dans la prose — § Les deux signatures « mais la signature est tombée » / § 817 000 voix « la préparation avance a viré en raillerie » / § Détroit « état sans nom » / § conclusion « mauvaise oratrice mais gouverne par le droit » / § En partant attaque chinoise + critique externe comme sexisme de genre / § En partant « 22→12 pays alliés + NCC 7:0 fermeture CtiTV » hedge bref nouveaux ajouts sur la liberté de presse et les affaires étrangères.'
-  whos_pushing_back: "Principaux camps d'opposition — Bleu foncé / Progressistes / Chine RPC (tous décrits comme événements ou hedges internes dans la prose) / Vert foncé / Parti populaire taïwanais (totalement absent de la prose, per whats_excluded hors périmètre)."
-  which_framing: 'Dispositifs narratifs choisis par Taiwan.md : opposition « Les deux signatures » (excuses autochtones + loi sur le mariage) / arc renversement « défaite → réélection » / trait de caractère « mauvaise oratrice mais tient la salle ».'
-translatedFrom: 'People/蔡英文.md'
-sourceCommitSha: 'e6c58721'
-sourceContentHash: 'sha256:b09e2036d35d54e7'
-sourceBodyHash: 'sha256:fc825bead5669dc1'
-translatedAt: '2026-06-16T17:13:36Z'
+researchReport: 'reports/research/2026-06/蔡英文-evolve-20260614.md'
 image: '/article-images/people/tsai-2016-campaign.webp'
 imageCredit: 'MiNe (sfmine79)'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg'
+rationale: "{'why_this_hook': '2012 敗選與 2020 最高票形成可驗證的反轉弧，讓「安靜的學者型領導」貫穿八年政策。', 'whats_excluded': '不逐項重建所有法案與黨內派系；能源、司法、勞動及房市只保留足以呈現卸任評價的制度切面。', 'where_it_hedges': '排灣血緣代數、飛彈官方口徑、單一民調與訪歐場合均明示限制；正式邦交與非正式關係並陳。', 'whos_pushing_back': '國民黨、深綠本土派、原住民族倡議者、同婚專法批評者、退休軍公教與居住能源改革批評者。'}"
+relatedDiary: ['2026-07-12-225636-manual']
+translatedFrom: 'People/蔡英文.md'
+sourceCommitSha: '23c89f2a9'
+sourceContentHash: 'sha256:8b9c35107127e767'
+sourceBodyHash: 'sha256:e59e32a8f7afc902'
+translatedAt: '2026-07-31T04:48:15+08:00'
 ---
 
-# Tsai Ing-wen
+# Tsai Ing-wen : De la nuit de la défaite aux 8,17 millions de voix, huit ans de présidence silencieuse
 
-> **En 30 secondes :** Tsai Ing-wen, née en 1956 à Taipei, descendante du peuple Paiwan[^3]. Diplômée en droit de l'université nationale de Taïwan, titulaire d'un master en droit de Cornell et d'un doctorat de la London School of Economics. Avant d'entrer en politique, elle était juriste en droit international du commerce et négociatrice pour l'OMC. Présidente de 2016 à 2024, elle a fait adopter la première loi sur le mariage homosexuel en Asie[^4], présenté les excuses du gouvernement aux peuples autochtones[^5], mené la réforme des retraites et guidé Taïwan durant la phase initiale de la pandémie de COVID-19. En 2020, elle fut réélue avec 8 170 231 voix, le score le plus élevé de l'histoire des élections présidentielles à Taïwan[^6].
+> **En 30 secondes :** En 2012, Tsai Ing-wen perd l'élection présidentielle avec un écart de 797 561 voix ; huit ans plus tard, elle est réélue avec 8 170 231 voix, établissant le record historique du vote direct pour la présidence de Taïwan. Cette spécialiste du droit commercial international, qui disait craindre les interactions sociales, devient la première femme présidente de Taïwan, laissant des traces institutionnelles dans les domaines du mariage homosexuel, de la justice transitionnelle pour les peuples autochtones, des pensions et de la réforme de la défense. À sa retraite, elle reçoit un bulletin de notes jugé suffisant : des accomplissements historiques coexistent avec des questions non résolues telles que la justice, le prix du logement, l'énergie et les relations inter-détroit.
 
-Le 14 janvier 2012, Tsai Ing-wen perdit l'élection présidentielle avec un écart de huit cent mille voix. Ce soir de défaite, elle se tint face à ses partisans sur scène et déclara : « Vous pouvez pleurer, mais ne vous découragez pas. Vous pouvez être tristes, mais n'abandonnez pas. »[^1]
+Le soir du 14 janvier 2012, Tsai Ing-wen se tenait sur la scène de la défaite.
 
-Quatre ans plus tard, elle fut élue quatorzième présidente de la République de Chine avec 6 894 744 voix, soit 56,1 % des suffrages, devenant ainsi la première femme chef d'État de Taïwan[^2].
+Elle avait obtenu 6 093 578 voix, soit un écart de 797 561 voix par rapport à Ma Ying-jeou. Ce soir-là, elle a déclaré à ses soutiens : « Vous pouvez pleurer, mais ne vous découragez pas ; vous pouvez être tristes, mais ne renoncez pas. »[^1] Quatre ans plus tard, elle est élue avec 6 894 744 voix. Quatre ans encore, et le nombre de voix atteint 8 170 231, établissant le record le plus élevé depuis l'instauration du vote direct présidentiel à Taïwan. [^2]
 
-## La cadette de onze enfants
+Cette expérience pourrait être facilement racontée comme un retournement victorieux. Mais la question véritablement laissée par Tsai Ing-wen est plus intéressante : comment une personnalité politique de type universitaire, qui ne s'appuyait pas sur des discours passionnés et qui craignait autrefois de parler aux gens, a-t-elle pu, à l'ère de la politique de masse, faire en sorte que le plus grand nombre d'électeurs lui confient leurs voix ?
 
-Tsai Ing-wen est née le 31 août 1956 à l'hôpital Mackay de Taipei. Son père, Tsai Chieh-sheng, dirigeait un atelier de réparation automobile, servant à l'origine les véhicules des forces américaines stationnées à Taïwan, avant de se tourner vers l'immobilier. Sa mère s'appelle Chang Chin-feng. Tsai est la onzième enfant, la cadette d'une fratrie de onze enfants issus de quatre familles[^3].
+![Tsai Ing-wen lors d'un meeting de campagne à Taipei en octobre 2015, des supporters agitant des drapeaux sous les projecteurs](/article-images/people/tsai-2016-campaign.webp)
+_Campagne de Tsai Ing-wen en octobre 2015. Photo : MiNe (sfmine79), [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).\_
 
-Son héritage ethnique est en lui-même un reflet de Taïwan : un mélange de souches hakka, minnan et paiwan. Sa grand-mère maternelle était d'ascendance paiwan, faisant d'elle la première présidente de l'histoire de Taïwan à avoir du sang autochtone. Son nom en langue paiwan est Tjuku[^3].
+## L'une des onze enfants, celle qui marchait la tête baissée
 
-Après avoir obtenu son diplôme de droit de l'université nationale de Taïwan en 1978, elle partit aux États-Unis. En 1980, elle obtint un master en droit de l'université Cornell, puis s'inscrivit à la London School of Economics and Political Science pour son doctorat. En 1984, elle soutint sa thèse intitulée _Unfair Trade Practices and Safeguard Actions_, sous la direction de Michael J. Elliott[^7].
+Tsai Ing-wen naît à Taipei en 1956, la plus jeune des onze enfants de la grande famille de son père, Tsai Chieh-sheng. Sa famille possède des origines hakka, minnan et de la tribu Paiwan. Quant à l'origine de cette ascendance Paiwan (grand-mère ou arrière-grand-mère), les documents publics divergent, il est donc préférable de ne pas lui attribuer une génération précise. [^3]
 
-> En 2019, sa thèse de doctorat devint une arme d'attaque politique — son existence même fut mise en doute. La London School of Economics publia une déclaration officielle en octobre 2019 confirmant l'authenticité du diplôme[^7]. Si la thèse n'avait pas été versée aux archives pendant trente-cinq ans, c'est simplement parce qu'elle n'en avait pas remis d'exemplaire à la bibliothèque à l'époque.
+Après l'obtention de sa licence en droit de l'Université nationale de Taïwan en 1978, elle obtient une maîtrise en droit à l'Université Cornell en 1984, puis un doctorat en droit à l'Université de Londres en 1984. À partir de 2019, son titre doctoral devient un enjeu central des attaques politiques. L'École d'économie de Londres (LSE) et l'Université de Londres ont confirmé à plusieurs reprises les registres de son diplôme, et les tribunaux taïwanais ont également reconnu son doctorat dans les litiges connexes. [^4]
 
-## De la table de négociation au champ politique
+De retour à Taïwan, elle enseigne le droit commercial international à l'université, puis rejoint les équipes de négociation pour l'adhésion de Taïwan au GATT, puis à l'OMC. En 1999, elle participe au discours de Lee Teng-hui sur les « relations spéciales entre États ». Après le changement de parti au pouvoir en 2000, elle est nommée présidente du Conseil des Affaires Continentales (CAC). Cette trajectoire suit une logique cohérente : d'abord étudier les règles, puis trouver, dans les limites tracées par les grandes puissances, l'espace où Taïwan peut agir.
 
-Après son retour à Taïwan, Tsai Ing-wen enseigna le droit international du commerce à l'université Chengchi. À partir de 1993, elle fut recrutée par le gouvernement comme conseillère juridique pour les négociations d'adhésion au GATT/OMC, participant au long processus d'accession de Taïwan à l'Organisation mondiale du commerce[^8]. Cette expérience lui permit de maîtriser un art : défendre l'espace d'une petite économie face aux jeux de pouvoir des grandes puissances.
+Le réalisateur du documentaire _Invisible Nation_, Vanessa Hope, la décrit comme modeste, calme et silencieuse. Tsai Ing-wen elle-même dit n'avoir jamais rêvé d'être présidente, craignant même de parler aux gens dans sa jeunesse. Ku Liung-hsiung se souvient qu'elle était si timide qu'elle marchait la tête baissée pour éviter le regard des autres. [^5]
 
-En 1999, elle participa à la rédaction de la thèse des « relations spéciales d'État à État » (théorie des deux États) de Lee Teng-hui[^8]. C'était la première fois qu'elle touchait la ligne rouge la plus sensible des relations entre les deux rives du détroit de Taïwan.
+La personne qui évitait le regard des yeux en marchant a dû, par la suite, se tenir quotidiennement devant les caméras nationales. Elle ne s'est pas transformée en un autre type de politicien ; elle a plutôt intégré le droit, la négociation et le calcul des risques, qu'elle maîtrisait, dans la politique.
 
-Après l'alternance politique de 2000, Chen Shui-bian la nomma présidente du Conseil des affaires continentales (2000-2004)[^8]. Elle n'était pas membre du Parti démocrate progressif et ne rejoignit officiellement le parti qu'en 2004. Qu'une universitaire sans affiliation politique soit chargée des affaires transstraitières était quasiment impensable dans le paysage politique taïwanais, et pourtant c'est ainsi que Tsai Ing-wen accéda au cœur du pouvoir.
+## La première femme présidente, qui parlait peu de « la femme »
 
-## Perdre de huit cent mille voix, et ensuite ?
+Le 16 janvier 2016, Tsai Ing-wen est élue première femme présidente de Taïwan. Ce « premier » n'a pas été obtenu par le mariage ou l'héritage d'une famille politique. Elle n'était pas mariée, n'avait pas d'enfants, et n'est pas entrée au centre du pouvoir en tant que première dame ou figure dynastique. Dans un contexte asiatique où les leaders féminines sont souvent expliquées par leur père, mari ou lignée familiale, ce chemin est en soi représentatif.
 
-En 2008, Tsai Ing-wen prit la présidence du Parti démocrate progressif. C'était le moment où la réputation du DPP avait touché le fond, minée par les scandales de Chen Shui-bian[^1].
+Pourtant, elle a rarement fait du genre l'axe de sa communication politique. Son discours d'investiture de 2016 portait sur l'économie, la sécurité sociale, la justice transitionnelle, les relations inter-détroit et la diplomatie ; elle n'a pas utilisé l'expression « présidente femme » pour ajouter une touche romantique à son pouvoir. Cette retenue a eu un prix : lorsque l'extérieur l'attaquait sur le genre, elle ne répondait souvent pas directement. Les médias officiels chinois ont relié son statut de célibataire à une « extrémité » de son caractère, une affirmation critiquée par de nombreux médias internationaux comme sexiste. [^22]
 
-En 2012, elle se présenta pour la première fois à l'élection présidentielle et perdit face à Ma Ying-jeou, avec un écart de huit cent mille voix. Ce fut le point le plus bas de sa carrière politique. Mais elle ne partit pas.
+L'identité féminine émergeait néanmoins à travers les politiques et les scènes politiques. La proportion de femmes membres du Cabinet sous son mandat n'a pas toujours été remarquable, et le Parti démocrate progressiste (PDP) n'a pas échappé à une structure de factions dominée par les hommes. Mais la loi spécifique sur le mariage homosexuel, la loi sur la prévention du harcèlement de rue et la visibilité de la participation politique des femmes ont progressé sous son mandat. Attribuer entièrement ces changements aux réalisations personnelles de Tsai Ing-wen effacerait les décennies de mobilisation des groupes féministes et des législateurs. Omettre totalement son rôle sous-estimerait également l'action de la présidente qui signe au dernier passage politique.
 
-En 2014, elle reprit la présidence du parti, portée par l'effondrement de la confiance envers le Kuomintang après le mouvement étudiant du Tournesol. Le 16 janvier 2016, elle fut élue avec 56,1 % des voix, soit 6 894 744 suffrages[^2]. Le jour de son investiture, Taïwan eut sa première présidente.
+Son image publique était souvent ouverte par deux chats. Tsai Xiangxiang est un chat tigré secouru par Hsiao Bi-khim près de la gare de Heping à Hualien après le typhon Soudelor en 2012. Tsai Acai provient des champs d'ananas du village de Pashikao à Taitung. [^23] Les images électorales de ces chats, les produits de campagne et les publications sur les réseaux sociaux ont offert une porte d'entrée quotidienne à une personnalité politique décrite comme froide, devenant un modèle pour la gestion de l'image en ligne des hommes politiques taïwanais par la suite.
 
-La réaction de la Chine fut quasi immédiate. Tsai Ing-wen refusa de reconnaître le « consensus de 1992 », et Pékin rompit toutes les voies de communication officielles entre les deux rives[^9].
+Ces images sont proches, mais ne doivent pas masquer le pouvoir. Tsai Ing-wen est la gardienne de ces chats, mais aussi la présidente qui détient la sécurité nationale, nomme les juges de la Cour judiciaire et nomme le Premier ministre. Réduire la leader féminine à la simple étiquette de « fan de chats » la rétrécit ; la dépeindre comme une machine institutionnelle sans vie privée est également inexact. Ces deux images coexistantes sont plus proches de ce qu'elle laisse dans la mémoire des Taïwanais.
 
-## Deux signatures
+Elle a également fait face à un jugement esthétique sur son apparence, moins subit par les présidents masculins précédents : coiffure, vêtements, état matrimonial étaient souvent traités comme des nouvelles politiques. Tsai Ing-wen répondait rarement par le langage du genre, confiant la réponse à ses performances au travail. Ce choix lui a permis d'éviter le cadre de la victime, mais a peut-être manqué l'occasion de nommer positivement la discrimination pour d'autres leaders féminines. Le silence, chez elle, était à la fois un style et une stratégie politique à prix.
 
-Les deux moments les plus historiquement significatifs de la présidence de Tsai Ing-wen furent chacun actés par une signature.
+![Tsai Ing-wen avançant dans une scène extérieure du documentaire *Invisible Nation*, avec des membres du personnel de chaque côté](/article-images/art/invisible-nation-tsai-walks.webp)
+_Cliché officiel de *Invisible Nation*. Tsai Ing-wen marche entre la sécurité et ses conseillers, son caractère privé et sa fonction présidentielle étant placés dans le même cadre. Commentaire éditorial d'usage loyal sur Invisible Nation (2023)._
 
-**Le 1er août 2016**, Journée des peuples autochtones. Dans la salle Jingguo du Palais présidentiel, elle présenta les excuses du gouvernement aux peuples autochtones — une première dans l'histoire de Taïwan[^5]. La doyenne bunun Chin Chin-niang alluma sur place des tiges de millet pour guider les esprits ancestraux. Mais devant les portes du Palais présidentiel, un autre groupe d'autochtones était bloqué par les boucliers de la police, refusant d'accepter ces excuses.
+## Deux fois, prendre en charge un parti tombé au fond du gouffre
 
-> « Pour les souffrances et les injustices endurées au cours des quatre derniers siècles, je présente au nom du gouvernement mes excuses à chacun d'entre vous. »[^5]
+En 2008, après la lourde défaite du PDP aux élections présidentielles, Tsai Ing-wen devient pour la première fois présidente du parti. Elle démissionne après la défaite de 2012. Elle revient en fonction en 2014, devenant quatre ans plus tard la première femme présidente de Taïwan.
 
-**Le 24 mai 2019**, la loi d'application de l'interprétation n° 748 du Yuan judiciaire entra en vigueur. Taïwan devint le premier pays d'Asie à légaliser le mariage homosexuel[^4]. Tsai Ing-wen écrivit sur Twitter : « À Taïwan, #LoveWins. » Le premier jour, cinq cent vingt-six couples de même sexe se marièrent.
+Le premier mandat présidentiel n'a pas été une ascension continue. Lors des élections locales de 2018, le nombre de municipalités dirigées par le PDP passe de treize à six ; elle démissionne une seconde fois de la présidence du parti à cause de la défaite. Début janvier de l'année suivante, Xi Jinping, lors du discours du 40e anniversaire de l'_Appel aux compatriotes de Taïwan_, réaffirme le « Un pays, deux systèmes » ; Tsai Ing-wen répond le même jour que Taïwan n'acceptera pas cette formule. Le rappeur Da Zhi en déduit le terme «辣台妹» (La Taïwanaise épicée/piquante), auquel elle répond : « Je ne suis probablement pas une La Taïwanaise épicée... Si Taïwan en a besoin, nous sommes tous des La Taïwanais épicés ; il faut être épicé quand il le faut. » [^6]
 
-Deux signatures. L'une face à une blessure historique de quatre cents ans, l'autre face à un tabou social millénaire. Les deux provoquèrent de vives réactions. Les excuses furent critiquées pour n'être « que des mots sans actes », et la loi sur le mariage homosexuel fut rejetée lors d'un référendum. Mais les signatures étaient déjà apposées.
+En 2019, le mouvement de protestation contre la révision de la loi d'extradition à Hong Kong fait que « Un pays, deux systèmes » cesse d'être un simple nom abstrait. Tsai Ing-wen obtient 57,13 % des voix aux élections de 2020, passant de la défaite locale au record du vote direct présidentiel. Ce retournement contient son jugement politique, mais aussi les conditions électorales apportées par la situation à Hong Kong et le candidat du PPM, Han Kuo-yu. Attribuer les 8,17 millions de voix uniquement au charme personnel rendrait invisible le sentiment de risque auquel les électeurs taïwanais faisaient face à ce moment-là.
 
-## Huit millions cent mille voix
+## Deux signatures, dont une laisse des gens dehors
 
-Lors de l'élection présidentielle de 2020, Tsai Ing-wen obtint 8 170 231 voix, soit 57,1 % des suffrages — le score le plus élevé de l'histoire des élections présidentielles à Taïwan[^6].
+Le 1er août 2016, Tsai Ing-wen, au nom du gouvernement du Président, présente des excuses aux peuples autochtones : « Au nom du gouvernement, je vous présente mes excuses pour la douleur et le traitement injuste que vous avez subis au cours des quatre dernières centaines d'années. » [^7]
 
-Le tournant de cette élection ne se situa pas à Taïwan, mais à Hong Kong. Le mouvement anti-extradition de 2019 montra directement aux électeurs taïwanais l'issue du « un pays, deux systèmes ». L'axe de campagne de Tsai Ing-wen bascula de la politique intérieure vers la souveraineté, et sa phrase récurrente devint la définition même de cette élection : « L'avenir de Taïwan doit être décidé par les vingt-trois millions de Taïwanais eux-mêmes. »
+À l'intérieur du Palais présidentiel, il y a des excuses ; à l'extérieur, des groupes de peuples autochtones refusent d'accepter ces excuses. Le Comité de justice historique et de justice transitionnelle pour les peuples autochtones, créé par la suite, traite des questions de territoires traditionnels, de l'identité des Pingpu et des déchets nucléaires de Lanyu. Cependant, les demandes centrales telles que les droits fonciers et l'autonomie ne se clôturent pas avec une simple excuse.
 
-La même année, la pandémie de COVID-19 éclata. La performance initiale de Taïwan en matière de lutte épidémique — système de rationnement des masques, application de traçage des contacts, plus de deux cents jours sans cas local — fut qualifiée par les médias internationaux de « modèle taïwanais »[^10].
+L'autre signature intervient en 2019. Le 17 mai, le Yuan législatif adopte la _Loi d'application de l'Interprétation de la Cour judiciaire n° 748_, qui entre en vigueur le 24 mai, faisant de Taïwan le premier pays d'Asie à permettre le mariage entre partenaires de même sexe. 526 couples s'enregistrent le premier jour. [^8]
 
-Cependant, en mai 2021, une vague épidémique locale frappa l'île, et les retards dans l'achat de vaccins suscitèrent de vives critiques. La « préparation anticipée » passa du statut de compliment à celui de sarcasme.
+Ce système est achevé sous forme de loi spécifique après que le référendum de 2018 a rejeté en majorité la protection du mariage homosexuel par le Code civil. Les soutiens célèbrent l'aboutissement du droit au mariage, tandis que certains critiques soulignent que la loi spécifique laisse un sentiment de second rang de « noms différents, systèmes différents ». Le style de gouvernance de Tsai Ing-wen se révèle ici : elle pousse une question hautement conflictuelle au-delà du seuil légal, au prix de faire sentir à différents camps qu'elle est allée soit trop loin, soit pas assez loin.
 
-## La cocotte-minute du détroit de Taïwan
+## Pensions, justice transitionnelle et un bulletin de notes inégal
 
-Durant les huit années de présidence de Tsai Ing-wen, la pression militaire dans le détroit de Taïwan crût de manière exponentielle.
+Le gouvernement Tsai a achevé les réformes des pensions pour les fonctionnaires, enseignants et militaires. Les lois relatives aux fonctionnaires publics et aux enseignants des écoles publiques sont adoptées en troisième lecture en juin 2017 ; la réforme des pensions militaires est adoptée en 2018. La réforme réduit le taux de remplacement des revenus partiels, provoquant de longues manifestations de groupes de retraités militaires et civils tels que les « Centurions de fer » (Ba Bai Zhuang Shi). [^9]
 
-En août 2022, la présidente de la Chambre des représentants des États-Unis, Nancy Pelosi, se rendit à Taïwan[^11]. La réponse de la Chine fut un exercice militaire autour de l'île — l'Armée populaire de libération tira onze missiles balistiques, dont cinq tombèrent dans la zone économique exclusive du Japon. Sur l'ensemble de l'année 2022, l'APL franchit la ligne médiane du détroit 564 fois, soit vingt-quatre fois le total de toutes les années précédentes[^9].
+La _Loi de promotion de la justice transitionnelle_ est adoptée en 2017, et le Comité de justice transitionnelle est créé l'année suivante. Le Cabinet déclare à la fin du mandat du comité en 2022 que l'ouverture des archives politiques, le traitement des symboles autoritaires et la conservation des sites de l'injustice seront repris par les différents ministères. [^10] Le mot « reprise » indique aussi une limite : l'État commence à établir des systèmes, mais ne termine pas tout le nettoyage historique en un seul mandat gouvernemental.
 
-La stratégie de Tsai Ing-wen était de ne pas provoquer et de ne pas céder. Elle ne déclara pas l'indépendance et n'accepta pas le consensus de 1992. Elle acheta des armes, renforça la mobilisation des réservistes et consolida les relations informelles avec les États-Unis et le Japon. C'était un état sans nom : entre réunification et indépendance, ménager un espace pour que Taïwan continue d'exister.
+![Tsai Ing-wen lors de la célébration du 100e anniversaire de Shi Ming en 2017, se tenant à côté de ce militant indépendant taïwanais exilé au Japon](/article-images/people/su-beng-100th-birthday-tsai-2017.webp)
+_En 2017, Tsai Ing-wen assiste à la célébration du 100e anniversaire de Shi Ming. Leur présence ensemble reflète la relation à la fois proche et distante entre le gouvernement du PDP et la génération du mouvement indépendant hors-parti. Photo : Bureau du Président de la République de Chine, CC BY 2.0. Lien du fichier original en bas._
 
-## Le moment du départ
+![Tsai Ing-wen lors de la cérémonie de dévoilement du Musée national des droits de l'homme en 2018, tirant le rideau rouge avec des victimes politiques et des représentants gouvernementaux](/article-images/history/nhrm-tsai-unveil-2018.webp)
+_Le 17 mai 2018, dévoilement du Musée national des droits de l'homme. Photo : Bureau du Président de la République de Chine, CC BY 2.0. Lien du fichier original en bas._
 
-Le 20 mai 2024, Tsai Ing-wen quitta ses fonctions. Son vice-président, Lai Ching-te, avait remporté l'élection présidentielle de janvier de la même année — c'était la première fois que le Parti démocrate progressif remportait trois élections présidentielles consécutives, un fait sans précédent dans l'histoire démocratique de Taïwan[^12].
+Les sondages d'opinion avant sa retraite ne sont pas non plus un chant unanime de louange. Une enquête de la Fondation pour l'opinion taïwanaise en avril 2024 donne une note globale d'environ 60/100 à ses huit ans de présidence. La défense, les partis politiques inappropriés et la réforme des pensions sont évalués positivement, tandis que les mécontentements concernant la justice, l'économie et les relations inter-détroit sont plus saillants. [^11] Le coût du logement, la transition énergétique, la réforme judiciaire et les politiques du travail sont des domaines dont même les soutiens ne sont pas nécessairement satisfaits.
 
-Deux fois désignée parmi les cent personnalités les plus influentes du monde par le magazine _Time_ (en 2016 et 2020)[^13]. Après son départ, elle ne s'est pas vraiment retirée : en octobre 2024, elle s'est rendue à titre privé en République tchèque, en Lituanie et au Royaume-Uni ; son intervention au sein du Parlement européen fit d'elle la première ex-présidente taïwanaise à prononcer un discours dans l'enceinte du Parlement européen[^16]. La même année, elle est aussi revenue au Japon et a donné une conférence publique à l'université Waseda.
+> **📝 Note du curateur**
+>
+> Le « silence » ne peut pas justifier le succès ou l'échec des politiques. Il offre véritablement un angle d'observation pour voir comment une personnalité politique transforme les conflits en lois, comités et procédures administratives ; le système peut être laissé, mais il laisse aussi ce qui est inachevé.
 
-Son mandat a aussi accumulé des controverses : le nombre de pays alliés est passé de vingt-deux à douze, le plus bas de tous les présidents[^17] ; en 2020, la Commission nationale des communications (NCC) refusa à sept voix contre zéro le renouvellement de la licence de la chaîne CtiTV, déclenchant un débat sur les limites de la liberté de la presse[^18].
+## Sous la prospérité des puces, le logement et l'énergie ne sont pas restés silencieux
 
-Elle avait deux chats : Tsai Xiangxiang, un tigré gris-blanc recueilli en 2012 par la députée Hsiao Bi-khim à la gare de Heping (Hualien) après le typhon Saola ; et Tsai Acai, un chat roux adopté en 2015 dans un champ d'ananas du village de Pashikau, à Taitung[^14]. Elle ne s'est jamais mariée. En mai 2016, après son élection, _International Herald Leader_, publication relevant de l'agence chinoise Xinhua, fit paraître l'article « Mettre Tsai Ing-wen à nu », reliant son statut de « femme politique célibataire » à un « comportement extrémisé » : plusieurs médias étrangers y virent une discrimination sexiste[^15].
+Les huit ans de Tsai Ing-wen couvrent une période de montée rapide du statut industriel de Taïwan. La concurrence technologique sino-américaine et les ruptures de chaîne d'approvisionnement pendant la pandémie ont conduit les pays à réévaluer l'importance de TSMC et des semi-conducteurs taïwanais. Le gouvernement a promu les « Trois grands plans d'investissement à Taïwan » et a accueilli un retour partiel des entreprises taïwanaises après la guerre commerciale sino-américaine. Le taux de croissance économique de Taïwan a atteint 6,62 % en 2021, et le PIB par habitant était de 33 983 dollars en 2024. [^13][^19]
 
-Tsai Ing-wen prouva en huit ans une chose : une femme politique de type universitaire, peu douée pour les discours, n'aimant ni serrer des mains ni passer à la télévision, pouvait gouverner un pays par la force du droit et des institutions à l'heure où le populisme balayait le monde. Au-delà des politiques publiques qu'elle laisse derrière elle, demeure une preuve plus difficile à reproduire : le calme peut aussi être un style de leadership.
+La prospérité macroéconomique ne s'est pas répartie équitablement dans chaque foyer. La Banque centrale a ajusté à cinq reprises les contrôles de crédit sélectifs, et le Cabinet a lancé les prêts « Nouveau Qing'an » ; le ratio prix du logement/revenu laisse les jeunes sentir que les salaires ne rattrapent pas le coût du logement. Le gouvernement a annoncé en 2017 l'objectif de « 200 000 logements sociaux en huit ans », fusionnant plus tard le calcul de la construction directe, de la location gérée et des subventions au loyer. Cette conversion de méthodologie devient le point focal des critiques de l'opposition sur le non-respect des engagements initiaux. [^20]
 
-**Pour aller plus loin** :
+Le coût des politiques énergétiques ne peut non plus être caché dans un seul chiffre. Le gouvernement Tsai oriente vers des foyers sans nucléaire d'ici 2025, élargissant l'éolien offshore et le solaire, mais connaît de grandes coupures de courant en 2017, 2021 et 2022. Les soutiens considurent l'investissement dans les énergies renouvelables comme une transition à long terme, tandis que les opposants relient les accidents d'approvisionnement, les prix de l'électricité et les pertes de la Taiwan Power Company à la ligne sans nucléaire. Les causes des coupures sont diverses ; attribuer chaque accident uniquement à la structure énergétique est imprécis ; mais lorsque le gouvernement demande aux industries et aux foyers de croire en une transition à long terme, la stabilité de l'approvisionnement devient naturellement la question politique la plus directe. [^21]
 
-- [Transition démocratique de Taïwan](/fr/history/taiwan-democratization) — L'évolution institutionnelle de l'autoritarisme à la liberté
-- [Lai Ching-te](/fr/people/lai-ching-te) — Le successeur de Tsai Ing-wen, actuel président de Taïwan
-- [Mariage homosexuel et égalité des genres à Taïwan](/fr/society/taiwan-marriage-equality-lgbtq-rights) — Le processus législatif de la première loi sur le mariage homosexuel en Asie
-- [Histoire des peuples autochtones de Taïwan et mouvement de reconnaissance](/fr/history/indigenous-peoples-history-and-naming-movement) — De « compatriotes des montagnes » à « peuples autochtones » : un combat
-- [Mouvement du Tournesol](/fr/society/sunflower-movement) — Le mouvement social de 2014 qui transforma la carte politique de Taïwan
-- [Ma Ying-jeou](/fr/people/ma-ying-jeou-cross-strait-reconciliation-leader) — Tsai Ing-wen débat avec lui le 25 avril 2010 sur l'ECFA, lui succède en 2016 et opère un quasi-retournement complet sur le cadre bilatéral du détroit hérité de son prédécesseur
-- [Chou Tzu-yu](/fr/people/tzuyu) — Les 90 secondes de vidéo d'excuses la veille de l'élection de 2016, qui déclenchèrent la réplique de Tsai Ing-wen dans son discours de victoire : « personne ne devrait s'excuser pour son identité »
-- [Invisible Nation](/fr/art/invisible-nation) — documentaire de la réalisatrice américaine Joyce Keng, tourné aux côtés de Tsai Ing-wen pendant sept ans ; sorti à Taïwan en 2025, il a dépassé 37 millions de dollars taïwanais au box-office et se classe troisième de l’histoire du documentaire à Taïwan
-- [Think Forum](/fr/society/thinking-taiwan-forum) — plateforme d'opinion de la Fondation Small Light créée par Tsai après sa défaite électorale de 2012, relancée en octobre 2025, cinq mois après son départ
+Tsai Ing-wen décrit souvent la capacité de coordination gouvernementale des industries par le terme « équipe nationale » (National Team). Les masques, les puces, la défense et l'énergie verte ont tous été placés dans ce cadre. L'équipe nationale peut concentrer les ressources, mais rend aussi plus difficile pour le gouvernement de blâmer le marché en cas d'échec : lorsque les prix du logement ne baissent pas, que le réseau électrique tombe en panne, ou que les subventions industrielles sont inégalement distribuées, les électeurs se tournent toujours vers le capitaine.
+
+## Après l'Équipe nationale de masques, les louanges deviennent de l'ironie
+
+Au début de la pandémie de COVID-19, Taïwan a activé tôt les contrôles aux frontières, la réquisition de masques et le système de nom réel, intégrant les informations via le Commandement central de coordination des épidémies. Le faible nombre de cas et la longue période sans infection locale en 2020 ont attiré l'attention internationale sur le « modèle taïwanais ». [^12]
+
+En mai 2021, avec la hausse des cas locaux, les controverses sur l'obtention de vaccins, la capacité de dépistage et la correction des données se sont accumulées rapidement. Le « déploiement anticipé » (surveillance proactive) est passé des louanges à l'ironie. Le taux de croissance économique de Taïwan en 2021 a finalement atteint 6,62 %, mais les chiffres macroéconomiques ne peuvent pas annuler les expériences individuelles des foyers confrontés à la contamination, à la fermeture et aux pressions de soins. [^13]
+
+Cette période rappelle le mieux aux lecteurs que les résultats de la prévention des épidémies ne peuvent être extraits uniquement de 2020, ni uniquement de 2021. Les décisions initiales ont effectivement gagné du temps ; les lacunes finales ont effectivement coûté au gouvernement en termes de confiance.
+
+![Tsai Ing-wen la tête baissée, mains jointes, dans un cliché officiel de *Invisible Nation*, avec le photographe levant son appareil en arrière-plan](/article-images/art/invisible-nation-tsai-prays.webp)
+_Cliché officiel de *Invisible Nation*. Le regard de Ge Jingwen capture souvent un autre appareil photo pointé vers Tsai Ing-wen. Commentaire éditorial d'usage loyal sur Invisible Nation (2023)._
+
+## Maintenir le statu quo, c'est aussi se préparer au pire
+
+Tsai Ing-wen n'a pas accepté le « consensus de 1992 » et n'a pas déclaré l'indépendance juridique. Elle a décrit sa trajectoire comme maintenant le statu quo, tout en augmentant le budget de la défense, promouvant la construction nationale d'avions et de sous-marins, et annonçant en 2022 le retour du service militaire obligatoire d'un an, mis en œuvre en 2024. [^14]
+
+En août 2022, après la visite de Taïwan de la présidente de la Chambre des représentants des États-Unis, Nancy Pelosi, la Chine a mené des exercices militaires autour de Taïwan. Le ministère de la Défense de Taïwan a statistiquement enregistré l'envoi de onze missiles balistiques de la série Dong Feng ; le ministère japonais de la Défense en a identifié neuf, dont cinq sont tombés dans la zone économique exclusive japonaise. Deux autorités officielles différentes ne permettent pas de combiner 11, 9 et 5 en une seule équation. [^15] La même année, les avions militaires de l'Armée de libération du peuple ont franchi la ligne médiane du détroit 564 fois, dépassant de vingt-quatre fois le total des années précédant la visite de Pelosi. [^16]
+
+Sa trajectoire inter-détroit est critiquée des deux côtés. Le PPM soutient que le rejet du consensus de 1992 a interrompu la communication officielle et exacerbé l'hostilité ; les critiques du courant indigène estiment que la « République de Chine Taïwan » et le statu quo ont retardé la question de la souveraineté. L'espace de choix est étroit : ne pas nommer le statu quo comme point final, et ne pas laisser la pression déterminer le point final pour Taïwan.
+
+En huit ans, le nombre de pays partenaires de Taïwan est passé de vingt-deux à douze ; d'un autre côté, les relations informelles avec les États-Unis, le Japon et les pays européens se sont approfondies. [^17] Ces deux ensembles de faits doivent être placés sur la table simultanément pour voir la forme réelle de la diplomatie taïwanaise.
+
+## Dix pays rompant les relations, et un réseau informel qui s'agrandit
+
+Lors de son entrée en fonction, Taïwan avait vingt-deux pays partenaires. Saint-Christophe-et-Niévès a rompu en fin 2016 ; suivi du Panama, de la République dominicaine, du Burkina Faso, du Salvador, des Îles Salomon, de Kiribati, du Nicaragua, du Honduras, et enfin de Nauru en janvier 2024. Il ne restait plus que douze pays avant sa retraite. C'est un échec diplomatique clair, reflétant la stratégie à long terme de la Chine utilisant le marché, les prêts et la pression politique pour compresser l'espace de reconnaissance officielle de Taïwan. [^17]
+
+Une autre carte s'expansait dans la direction opposée. Le Congrès américain a adopté la _Taiwan Travel Act_ et la _Taiwan Assurance Act_, élevant le niveau d'interaction entre les fonctionnaires taïwanais et américains ; les parlements et exécutifs du Japon, de la Tchéquie, de la Lituanie, etc., ont parlé plus ouvertement de la sécurité du détroit et de la coopération avec Taïwan. La visite de Pelosi en 2022 était à la fois le symbole d'une relation élevée et a directement provoqué les grands exercices militaires chinois. Les relations informelles apportent visibilité et coopération en matière de sécurité, tout en augmentant le risque de contre-mesures de Pékin.
+
+Ainsi, « moins de partenaires » et « plus de soutien international » sont tous deux vrais, mais mesurent des choses différentes. Le premier calcule le nombre de pays reconnaissant la République de Chine ; le second décrit les liens substantiels sans reconnaissance officielle. Le gouvernement Tsai a choisi de parier les ressources limitées sur le second ; ce choix a augmenté l'exposition de Taïwan dans les pays démocratiques, sans empêcher la perte continue des partenaires officiels. La façon dont les lecteurs l'évaluent dépend de ce qu'ils considèrent comme le cœur de la diplomatie : le statut nominal, la coopération substantielle, ou les deux inextricablement liés.
+
+## Après la retraite, regarder encore les règles avant d'entrer
+
+Le 20 mai 2024, Tsai Ing-wen a remis la présidence à Lai Ching-te. Le PDP a remporté consécutivement trois élections présidentielles, établissant un record pour le premier parti après l'instauration du vote direct présidentiel.
+
+En octobre de la même année, à titre d'ancienne présidente, elle a visité la Tchéquie, la France et la Belgique, participant à un salon de vin dans le bâtiment du Parlement européen. C'est la première ancienne présidente de Taïwan à entrer dans le siège de l'UE, mais ce n'était pas un discours formel au Parlement européen ; le voyage prévu au Royaume-Uni n'a pas eu lieu. [^18]
+
+De la table de négociation de l'OMC à une salle de réunion du Parlement européen, elle fait toujours la même chose : regarder jusqu'où les règles permettent d'aller, puis amener Taïwan à cette limite.
+
+L'histoire revient enfin à la scène de la défaite de 2012. La phrase « ne renoncez pas », après huit ans de présidence, n'est plus seulement une consolation. Les terres autochtones, la réforme judiciaire, le prix du logement, l'énergie et les risques du détroit n'ont pas été résolus par elle ; la loi spécifique sur le mariage homosexuel, le système de pensions et l'ajustement de la défense sont devenus des réalités que le gouvernement suivant doit poursuivre ou répondre.
+
+Lorsqu'elle a quitté le Palais présidentiel, les 8,17 millions de voix étaient déjà devenues un chiffre historique. Ce qui reste est une autre preuve plus silencieuse : un politicien peut laisser des systèmes sans augmenter le volume de sa voix, et le système enregistrera fidèlement ce qu'elle a accompli, ainsi que ce qu'elle n'a pas accompli.
+
+**À lire également** :
+
+- [Invisible Nation](../Art/看不見的國家.md) — Documentaire de Ge Jingwen filmant Tsai Ing-wen pendant sept ans, observant son caractère et la démocratie taïwanaise depuis l'extérieur.
+- [Mariage homosexuel et égalité des genres à Taïwan](../Society/台灣同婚與性別平權.md) — Le parcours complet de l'Interprétation n° 748, du référendum à l'entrée en vigueur de la loi spécifique.
+- [Histoire des peuples autochtones de Taïwan et mouvement de reconnaissance du nom](../History/台灣原住民族歷史與正名運動.md) — Les luttes avant les excuses, et les questions de terres et d'identité restant à traiter après.
+- [Ma Ying-jeou](馬英九.md) — L'ancien président qui a vaincu Tsai Ing-wen en 2012 et lui a remis le pouvoir en 2016.
+- [Lai Ching-te](賴清德.md) — Le vice-président et successeur de Tsai Ing-wen.
+
+## Sources des images
+
+- [Campagne présidentielle de Tsai Ing-wen, 2016](<https://commons.wikimedia.org/wiki/File:Tsai_Ing-wen_presidential_campaign,_2016_(22116261150).jpg>) — MiNe (sfmine79), CC BY 2.0.
+- [Cérémonie de dévoilement du Musée national des droits de l'homme](<https://commons.wikimedia.org/wiki/File:05.17_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E3%80%8C%E5%9C%8B%E5%AE%B6%E4%BA%BA%E6%AC%8A%E5%8D%9A%E7%89%A9%E9%A4%A8%E6%8F%AD%E7%89%8C%E5%84%80%E5%BC%8F%E3%80%8D_(27296236457).jpg>) — Bureau du Président de la République de Chine, CC BY 2.0.
+- [Le Président assiste à la célébration du 100e anniversaire de Shi Ming](<https://commons.wikimedia.org/wiki/File:11.08_%E7%B8%BD%E7%B5%B1%E5%87%BA%E5%B8%AD%E5%8F%B2%E6%98%8E%E7%99%BE%E6%AD%B2%E7%94%9F%E6%97%A5%E6%9C%83_(38226043862).jpg>) — Bureau du Président de la République de Chine, CC BY 2.0.
+- Clichés officiels de _Invisible Nation_ — Commentaire éditorial d'usage loyal sur Invisible Nation (2023).
 
 ## Références
 
-[^1]: [Wikipédia : Tsai Ing-wen](https://zh.wikipedia.org/wiki/%E8%94%A1%E8%8B%B1%E6%96%87) — Couvre l'ensemble de la carrière politique de Tsai Ing-wen, son discours de défaite de 2012, les résultats électoraux à chaque scrutin, avec recoupement de sources multiples.
+[^1]: [Commission électorale centrale : Résultats de la 13e élection présidentielle et vice-présidentielle](https://db.cec.gov.tw/ElecTable/Election?type=President) — ; [CNA : Retour sur le discours de défaite de Tsai Ing-wen](https://www.cna.com.tw/news/aipl/202401130310.aspx) — Écart officiel de 797 561 voix ; le mot exact du discours est « se décourager »
 
-[^2]: [Commission électorale centrale : Élection présidentielle et vice-présidentielle de 2016](https://www.cec.gov.tw/) — Résultats officiels : Tsai Ing-wen 6 894 744 voix (56,12 %), Eric Chu 3 813 365 voix (31,04 %).
+[^2]: [Commission électorale centrale : Base de données des élections présidentielle et vice-présidentielle](https://db.cec.gov.tw/ElecTable/Election?type=President) — 6 894 744 voix (56,12 %) en 2016 ; 8 170 231 voix (57,13 %) en 2020.
 
-[^3]: [ETtoday : Ascendance autochtone et contexte familial de Tsai Ing-wen](https://www.ettoday.net/news/20160514/694830.htm) — Rapporte l'ascendance paiwan de Tsai Ing-wen (côté grand-mère), son nom paiwan Tjuku, sa position de cadette parmi les onze enfants, et d'autres éléments de son contexte familial.
+[^3]: [CNA : Enfance et famille de Tsai Ing-wen](https://www.cna.com.tw/news/firstnews/201605190152.aspx) — ; [ETtoday : Allégations de lignée Paiwan](https://www.ettoday.net/news/20160514/694830.htm) — Les documents publics divergent sur la génération de la lignée ; cet article adopte simplement « possède une lignée Paiwan »
 
-[^4]: [BBC News: Taiwan legalises same-sex marriage](https://www.bbc.com/news/world-asia-48305708) — Rapporte l'adoption par le Yuan législatif le 17 mai 2019 et l'entrée en vigueur le 24 mai 2019, faisant de Taïwan le premier pays d'Asie à légaliser le mariage homosexuel.
+[^4]: [LSE : Déclaration sur le doctorat de la Dr Tsai Ing-wen](https://www.lse.ac.uk/News/Latest-news-from-LSE/2019/j-October-2019/LSE-statement-on-PhD-of-Dr-Tsai-Ing-wen) — ; [University of London : Déclaration sur le doctorat de la Dr Tsai Ing-wen](https://www.london.ac.uk/news-events/news/statement-dr-tsai-ing-wens-phd) — Confirmation directe par les universités du diplôme de 1984
 
-[^5]: [Palais présidentiel de la République de Chine : Excuses de la présidente Tsai Ing-wen au nom du gouvernement aux peuples autochtones](https://www.president.gov.tw/NEWS/20603) — Texte intégral des excuses du 1er août 2016, source primaire.
+[^5]: [CNN : Tsai Ing-wen, la leader qui a mis Taïwan sur la carte](https://edition.cnn.com/2024/05/18/asia/tsai-ing-wen-taiwan-president-profile-intl-hnk/index.html) — L'auto-déclaration de la personne doit être distinguée des observations de Ku Liung-hsiung et Vanessa Hope.
 
-[^6]: [Commission électorale centrale : Élection présidentielle et vice-présidentielle de 2020](https://www.cec.gov.tw/) — Résultats officiels : Tsai Ing-wen 8 170 231 voix (57,13 %), Han Kuo-yu 5 522 119 voix (38,61 %).
+[^6]: [Mirror Media : Tsai Ing-wen parle de « La Taïwanaise épicée » et des Taïwanais épicés](https://www.mirrormedia.mg/story/20190110inv001) — Réponse publique du 10 janvier 2019.
 
-[^7]: [LSE: Statement on Tsai Ing-wen's PhD](https://www.lse.ac.uk/News/Latest-news-from-LSE/2019/j-October-2019/LSE-statement-on-PhD-of-Dr-Tsai-Ing-wen) — Déclaration officielle de la London School of Economics en octobre 2019 confirmant l'authenticité du doctorat de Tsai Ing-wen obtenu en 1984.
+[^7]: [Palais présidentiel : Le Président présente des excuses au nom du gouvernement aux peuples autochtones](https://www.president.gov.tw/NEWS/20603) — Transcription mot à mot du 1er août 2016 et engagements politiques.
 
-[^8]: [Wikipedia: Tsai Ing-wen](https://en.wikipedia.org/wiki/Tsai_Ing-wen) — La Wikipédia anglophone couvre l'expérience de négociation à l'OMC, la participation à la rédaction de la théorie des deux États, le mandat à la tête du MAC (2000-2004), et d'autres détails de sa carrière politique.
+[^8]: [CNA : Troisième lecture de la loi spécifique sur le mariage homosexuel](https://www.cna.com.tw/news/firstnews/201905175002.aspx) — ; [BBC : Taïwan légalise le mariage homosexuel](https://www.bbc.com/news/world-asia-48305708) — Troisième lecture le 17 mai, entrée en vigueur le 24 mai ; 526 couples le premier jour
 
-[^9]: [CSIS: Cross-Strait Relations Under Tsai](https://www.csis.org/) — Analyse du Center for Strategic and International Studies sur l'évolution des relations transstraitières sous Tsai Ing-wen, incluant les données sur les 564 franchissements de la ligne médiane par l'APL en 2022.
+[^9]: [Bureau de réforme des pensions du Cabinet : Histoire de la réforme des pensions](https://pension.president.gov.tw/cp.aspx?n=2E15583047E8BF85) — Chronologie des lois et de l'application pour les réformes des pensions des fonctionnaires/enseignants et militaires.
 
-[^10]: [Nature Immunology: Taiwan's experience in fighting COVID-19](https://www.nature.com/articles/s41590-021-00908-2) — Publication scientifique de Nature Immunology documentant les quatre principes du « modèle taïwanais » (mesures rapides, déploiement précoce, action prudente, transparence), avec le système de rationnement nominatif des masques et le dispositif intégré du CECC.
+[^10]: [Cabinet : Le comité de justice transitionnelle accomplit sa mission阶段性](https://www.ey.gov.tw/Page/9277F759E41CCD91/5bdfe0e5-6d0f-4e42-9dc8-2ca2ef17e6bc) — Remise de mission de 2022 et répartition des tâches suivantes.
 
-[^11]: [Wikipédia : Visite de Nancy Pelosi à Taïwan en 2022](https://zh.wikipedia.org/zh-tw/2022%E5%B9%B4%E5%8D%97%E8%A5%BF%C2%B7%E8%A3%B4%E6%B4%9B%E8%A5%BF%E8%A8%AA%E5%95%8F%E5%8F%B0%E7%81%A3) — Récit complet de la visite de Nancy Pelosi à Taïwan le 2 août 2022, suivi des quatre jours d'exercices militaires chinois autour de l'île avec onze missiles Dongfeng (dont 4 traversant l'espace aérien taïwanais et 5 tombés dans la ZEE japonaise).
+[^11]: [Voice of America : Enquête sur le bilan de huit ans de Tsai Ing-wen](https://www.voacantonese.com/a/taiwan-president-tsai-ing-wen-approval-rating-20240423/7580523.html) — Cite le sondage d'avril 2024 de la Fondation pour l'opinion taïwanaise ; un seul sondage sert de facette d'évaluation post-mandat.
 
-[^12]: [Focus Taiwan: Lai Ching-te wins 2024 presidential election](https://focustaiwan.tw/politics/202401130014) — Rapport de l'agence CNA en anglais sur les résultats de l'élection de 2024, première victoire consécutive du DPP sur trois mandats.
+[^12]: [Nature Immunology : L'expérience de Taïwan dans la lutte contre le COVID-19](https://www.nature.com/articles/s41590-021-00908-2) — Mesures initiales de la pandémie et architecture de gouvernance.
 
-[^13]: [TIME: The 100 Most Influential People of 2020 — Tsai Ing-wen](https://time.com/collection/100-most-influential-people-2020/5888307/tsai-ing-wen/) — Tsai Ing-wen sélectionnée parmi les 100 personnalités les plus influentes en 2020, avec un texte du sénateur américain Ted Cruz saluant sa gestion sanitaire et son leadership démocratique.
+[^13]: [Bureau des statistiques, comptabilité et recensements du Cabinet : Taux de croissance économique 2021](https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=230636) — Taux de croissance annuel de 6,62 %.
 
-[^14]: [Mirror Media : Le Tsai Ing-wen que vous ne connaissez pas — Xiangxiang et Acai font la moue, la présidente esclave de ses chats désespère](https://www.mirrormedia.mg/story/20180417inv031) — Reportage de fond sur l'adoption et le quotidien des deux chats de Tsai Ing-wen : « Tsai Xiangxiang » (tigré gris-blanc recueilli en 2012 par Hsiao Bi-khim à la gare de Heping, Hualien, après le typhon Saola) et « Tsai Acai » (chat roux adopté en 2015 dans un champ d'ananas du village de Pashikau, à Taitung).
+[^14]: [Palais présidentiel : Plan d'ajustement de la structure des forces de défense nationale pour renforcer la défense de tous les citoyens](https://www.president.gov.tw/News/27201) — Annoncé le 27 décembre 2022, service militaire obligatoire d'un an mis en œuvre à partir de 2024.
 
-[^15]: [The News Lens : Médias officiels chinois « Mettre Tsai Ing-wen à nu » jouent la carte du célibat ; plusieurs médias étrangers dénoncent une « discrimination sexiste »](https://www.thenewslens.com/article/40537) — Rapporte la publication, en mai 2016 dans _International Herald Leader_ (groupe Xinhua), de l'article de Wang Weixing « Mettre Tsai Ing-wen à nu », reliant le statut de « femme politique célibataire » à un « comportement extrémisé » ; BBC, CNN et The Guardian y voient une discrimination sexiste.
+[^15]: [Ministère japonais de la Défense : Mouvements des missiles balistiques chinois en août 2022](https://www.mod.go.jp/j/press/news/2022/08/04d.html) — ; [Ministère de la Défense : Dynamique des exercices militaires du PCC](https://www.mnd.gov.tw/Publish.aspx?p=80286) — 9 missiles identifiés par le Japon, 11 statistiquement par Taïwan ; cet article conserve la différence d'autorité
 
-[^16]: [Focus Taiwan : Visite historique de Tsai Ing-wen au Parlement européen](https://focustaiwan.tw/cross-strait/202410100009) — Rapporte la visite à titre privé de Tsai Ing-wen en octobre 2024 en République tchèque, en Lituanie et au Royaume-Uni, et sa qualité de première ex-présidente taïwanaise à intervenir publiquement dans l'enceinte du Parlement européen.
+[^16]: [CSIS ChinaPower : Suivi de l'augmentation des activités militaires de la Chine en 2022](https://chinapower.csis.org/analysis-pla-activities-2022/) — 564 franchissements de la ligne médiane du détroit en 2022.
 
-[^17]: [Wealth Magazine : Nauru rompt à nouveau avec Taïwan ! Tsai Ing-wen a perdu 10 pays alliés pendant son mandat](https://www.wealth.com.tw/articles/b5dbea7f-6a65-4b3c-b03d-c21b31e660e5) — Récapitulatif des dix pays ayant rompu leurs relations diplomatiques pendant le mandat de Tsai Ing-wen (São Tomé-et-Príncipe / Panama / République dominicaine / Burkina Faso / Salvador / Îles Salomon / Kiribati / Nicaragua / Honduras / Nauru) ; passage de 22 à 12 pays alliés, record historique le plus bas, et le fait que la perte des Îles Salomon et de Kiribati en quatre jours en 2019 est le plus mauvais résultat depuis la rupture simultanée avec l'Australie et la Nouvelle-Zélande en 1972.
+[^17]: [CNA : Après la rupture avec Nauru, Taïwan a 12 pays partenaires](https://www.cna.com.tw/news/aipl/202401150075.aspx) — Réduction de 22 à 12 pays sous le mandat de Tsai Ing-wen.
 
-[^18]: [Asia Times : The dark side of Tsai Ing-wen's democracy](https://asiatimes.com/2021/03/the-dark-side-of-tsai-ing-wens-democracy/) — Analyse le refus du renouvellement de licence de CtiTV par la NCC à 7:0 en 2020 + la modification de la loi sur les référendums en 2019 (tous les deux ans, découplage du calendrier électoral) comme controverses sur la liberté de presse et la qualité démocratique, incluant les critiques de Lin Cheng-chieh au sein du DPP sur la fermeture de Ctv.
+[^18]: [CNA : Itinéraire européen de Tsai Ing-wen](https://www.cna.com.tw/news/aipl/202410190028.aspx) — Itinéraires en Tchéquie, France, Belgique et salon au Parlement européen ; ne pas confondre avec un discours formel.
+
+[^19]: [Bureau des statistiques, comptabilité et recensements du Cabinet : Statistiques du revenu national 2024](https://www.dgbas.gov.tw/News_Content.aspx?n=3602&s=233860) — PIB par habitant de 33 983 dollars en 2024.
+
+[^20]: [Administration de la gestion du territoire du Ministère de l'Intérieur : Progrès de la promotion des logements sociaux](https://pip.moi.gov.tw/V3/B/SCRB0102.aspx) — Statistiques officielles de la construction directe, de la location gérée et des subventions au loyer.
+
+[^21]: [Ministère de l'économie : Explication des politiques de transition énergétique](https://www.moeaea.gov.tw/ECW/populace/content/Content.aspx?menu_id=1001) — ; [Yuan de contrôle : Enquête sur la grande panne nationale](https://www.cy.gov.tw/News_Content.aspx?n=125&s=26378) — Objectifs de structure énergétique et accidents de coupure doivent être attribués séparément
+
+[^22]: [BBC : Journal chinois critiqué pour les commentaires sur Tsai célibataire](https://www.bbc.com/news/world-asia-36309137) — Critiques sexistes déclenchées après que les médias officiels chinois ont relié le statut de célibataire au caractère politique.
+
+[^23]: [Mirror Media : Tsai Xiangxiang et Tsai Acai](https://www.mirrormedia.mg/story/20180417inv031) — Contexte de sauvetage et d'adoption des deux chats.
