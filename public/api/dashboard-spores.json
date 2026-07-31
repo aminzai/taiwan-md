@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T22:13:26.975851Z",
+  "lastUpdated": "2026-07-31T22:45:14.304959Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 154,
@@ -32,7 +32,7 @@
       "url": "https://x.com/taiwandotmd/status/2081744559860818133",
       "highlight": "同 #163 內容，X 單則貼文＋inline s164 UTM",
       "views_7d": null,
-      "views_latest": 4983,
+      "views_latest": 4992,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -48,7 +48,7 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DbTJE6Mk8mK",
       "highlight": "食安法沒定義「發現」的時點：中聯拖 19 天、連淨當天說；收尾把「你會先打給上游還是政府」交還讀者",
       "views_7d": null,
-      "views_latest": 1681,
+      "views_latest": 1698,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -95,10 +95,10 @@
       "template": "B 冷知識型／問題入口",
       "url": "https://x.com/taiwandotmd/status/2081045126898684051",
       "highlight": "雙單同酬（4.4/8.6公里都90元）；地板 vs 演算法",
-      "views_7d": null,
-      "views_latest": 3055,
-      "engagements_7d": null,
-      "rate_7d": null,
+      "views_7d": 3058,
+      "views_latest": 3058,
+      "engagements_7d": 77,
+      "rate_7d": 2.52,
       "backfilled": true
     }
   ],
@@ -203,37 +203,21 @@
   "amplification": [],
   "platformComparison": {
     "threads": {
-      "count": 56,
-      "avgViews": 25570,
+      "count": 57,
+      "avgViews": 25178,
       "maxViews": 300000,
-      "avgRate": 5.92,
+      "avgRate": 5.79,
       "maxRate": 16.75
     },
     "x": {
-      "count": 66,
-      "avgViews": 14077,
+      "count": 67,
+      "avgViews": 13913,
       "maxViews": 136474,
-      "avgRate": 3.44,
+      "avgRate": 3.42,
       "maxRate": 9.09
     }
   },
   "backfillWarnings": [
-    {
-      "n": 159,
-      "article": "外送專法",
-      "platform": "threads",
-      "publishedDays": 7,
-      "status": "OVERDUE",
-      "url": "https://www.threads.com/@taiwandotmd/post/DbOLIMlE-mi"
-    },
-    {
-      "n": 160,
-      "article": "外送專法",
-      "platform": "x",
-      "publishedDays": 7,
-      "status": "OVERDUE",
-      "url": "https://x.com/taiwandotmd/status/2081045126898684051"
-    },
     {
       "n": 161,
       "article": "台灣鎢供應鏈",
@@ -331,12 +315,12 @@
     {
       "week": "2026-W30",
       "published": 4,
-      "avgViews": 121326
+      "avgViews": 121328
     },
     {
       "week": "2026-W31",
       "published": 2,
-      "avgViews": 3332
+      "avgViews": 3345
     }
   ],
   "harvestStatus": [
@@ -1827,8 +1811,8 @@
       "publishDate": "2026-07-25",
       "daysSincePublish": 7,
       "withinHarvestWindow": true,
-      "harvestCount": 6,
-      "lastHarvest": "2026-07-31 06:41"
+      "harvestCount": 7,
+      "lastHarvest": "2026-08-01 06:39"
     },
     {
       "n": 160,
@@ -1837,8 +1821,8 @@
       "publishDate": "2026-07-25",
       "daysSincePublish": 7,
       "withinHarvestWindow": true,
-      "harvestCount": 6,
-      "lastHarvest": "2026-07-31 06:41"
+      "harvestCount": 7,
+      "lastHarvest": "2026-08-01 06:40"
     },
     {
       "n": 161,
@@ -1847,8 +1831,8 @@
       "publishDate": "2026-07-26",
       "daysSincePublish": 6,
       "withinHarvestWindow": true,
-      "harvestCount": 5,
-      "lastHarvest": "2026-07-31 06:41"
+      "harvestCount": 6,
+      "lastHarvest": "2026-08-01 06:41"
     },
     {
       "n": 162,
@@ -1857,8 +1841,8 @@
       "publishDate": "2026-07-26",
       "daysSincePublish": 6,
       "withinHarvestWindow": true,
-      "harvestCount": 5,
-      "lastHarvest": "2026-07-31 06:41"
+      "harvestCount": 6,
+      "lastHarvest": "2026-08-01 06:41"
     },
     {
       "n": 163,
@@ -1867,8 +1851,8 @@
       "publishDate": "2026-07-27",
       "daysSincePublish": 5,
       "withinHarvestWindow": true,
-      "harvestCount": 4,
-      "lastHarvest": "2026-07-31 06:41"
+      "harvestCount": 5,
+      "lastHarvest": "2026-08-01 06:42"
     },
     {
       "n": 164,
@@ -1877,8 +1861,8 @@
       "publishDate": "2026-07-27",
       "daysSincePublish": 5,
       "withinHarvestWindow": true,
-      "harvestCount": 4,
-      "lastHarvest": "2026-07-31 06:41"
+      "harvestCount": 5,
+      "lastHarvest": "2026-08-01 06:43"
     }
   ]
 }

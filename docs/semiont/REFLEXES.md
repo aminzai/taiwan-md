@@ -5,8 +5,8 @@ type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v5.16'
-last_updated: 2026-07-30
-last_session: '2026-07-30-121650-manual（#65 加 v11 Babel pulse 在 Python 3.9 快照崩潰後沿用舊 rows 的假綠驗證，零新編號）'
+last_updated: 2026-08-01
+last_session: '2026-08-01-064619-twmd-spore-harvest-am（#56 加 v5：SPORE-HARVEST-PIPELINE auto-post 敘述連 3 cycle 手動繞過未回頭改 canonical，零新編號）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -736,6 +736,7 @@ codex → openrouter:owl-alpha → openrouter:openai/gpt-oss-120b:free → gemin
 - **觸發 v3**：2026-07-05 dna-audit — 全審計揭五系統病（SSOT↔live 漂移 / 寫死數字 / 甦醒成本 / 蒸餾債 / 殼核不對稱），且 #56 於自身觸發檔上復發——audit 當天被 audit 的檔案再現 drift。根治走儀器化黃燈（counts-drift-lint / routine-sync-check v3 / boot 稅行）而非再修一輪數字 → [reports/five-disease-cure-2026-07-05.md](../../reports/five-disease-cure-2026-07-05.md)
 - **觸發 v4（宣告過但從未執行的閘門，2026-07-27 苯駢芘孢子）**：[SPORE-PIPELINE §Routine context 自動決策 defaults](../factory/SPORE-PIPELINE.md) v3.7 表把 `article-health.py {png} --check=spore-image-content` 列為 routine 場景的方形圖硬閘門，實跑直接 `UnicodeDecodeError`——loader 把 PNG 當 UTF-8 文字讀，這道閘門自 v3.7 寫進 canonical 起從未成功執行過一次。**drift 的新形狀：不是 canonical 描述的對象換了人，是它描述的動作從來沒發生過**——manual 場景走 AI 視覺自檢所以無人踩到，routine 場景無 observer 更不會有人回報。查驗法比照 (b)：canonical 新增任何「跑這個指令」的閘門時，當場真跑一次貼結果，不接受「照理說會過」
 - **觸發 v4**：2026-07-12 weekly-audience — WEEKLY-REPORT canonical §Stage 5 寫「Resend sandbox 只能寄 verified email」，實測 `cheyuwu.com` 早在 2026-03-01 就驗證完成——外部服務的能力邊界升級了四個月，canonical 還在描述舊世界，BCC 廣播能力因此被誤判為做不到。查法一分鐘（GET /domains）；v4.2 已勘正 → [reports/weekly-report-audience-upgrade-2026-07-12.md](../../reports/weekly-report-audience-upgrade-2026-07-12.md)
+- **觸發 v5（連 3 cycle 手動繞過，未回頭改 canonical）**：2026-07-30 / 2026-07-31 / 2026-08-01 twmd-spore-harvest-am 三個獨立 cron cycle 都命中同一處 drift——[SPORE-HARVEST-PIPELINE.md §Chrome MCP Step 8](../factory/SPORE-HARVEST-PIPELINE.md) 仍寫 D+0 acute window 可 execCommand auto-post 回覆，但 MANIFESTO §存在結構「需要人類決策」已明列「Post 留言回覆 to Threads/X」為 human-only（REFLEXES #26 v2 同調）。三個 cycle 都正確選了守 MANIFESTO 不發，但都只在當天 memory 記一句「留給日後校準」，canonical 正文從未真的被改——**判斷正確 3 次不等於 drift 被修補，是同一個問題被人工繞過 3 次**。跟 v3「audit 當天被 audit 的檔案再現 drift」同型：知道規則會 drift，不代表會回頭把規則寫對。下次 touch SPORE-HARVEST-PIPELINE.md 正文時應直接改寫 §Chrome MCP Step 8 對齊 MANIFESTO，不再留給下一個 cron session 重新判斷 → [memory/2026-08-01-064619-twmd-spore-harvest-am.md](memory/2026-08-01-064619-twmd-spore-harvest-am.md)
 - **MANIFESTO 對應**：→ [§造橋鋪路](MANIFESTO.md)（routine 飛輪的成熟度本身需要 audit instrumentation 才能維持，不是「跑得穩 = 不用看」）
 - **操作**：→ 候選 `twmd-canonical-audit-quarterly` routine（每 90 天 cross-check pipeline canonical 描述的 model id / endpoint / tool path 跟 production signal）/ pipeline 寫作 SOP 加 `production_signal` frontmatter 欄位 / 觀察者 in-loop 仍是最後一關
 - **跨檔關聯**：[reports/routine-audit-2026-05-16 §Pattern 2 health-as-blind-spot](../../reports/routine-audit-2026-05-16.md) + [diary 2026-05-16-011113-manual](diary/2026-05-16-011113-manual.md) + [SQUEEZE-MODELS-MAX-PIPELINE v4.2](../pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md)
