@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-07-31
-last_session: '2026-07-31-085814-twmd-maintainer-daily（2 PR merge+heal，發現並修復一次 main deploy 失敗）'
+last_updated: 2026-08-01
+last_session: '2026-08-01-053456-twmd-embeddings-nightly（12 語 8686 向量 0 fail，vi 首度跨過 400 篇門檻）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -323,3 +323,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-31 | 085814-twmd-maintainer-daily | 2 PR merge-first+heal；merge 後 deploy 轉紅（frontmatter 用 `___` 非 `---`），已 heal；#1286 查證辭典回覆，#1252 澄清重貼舊留言 | contributor 貼渲染輸出非 raw md，格式病只在 deploy 才曝光 | [→](memory/2026-07-31-085814-twmd-maintainer-daily.md) |
 | 2026-07-31 | 093305-twmd-flywheel-watch | 飛輪綠燈零警報（24hr 85 commit／12 筆 routine，六條日更全留痕，dump 齡 3.3h）；昨天改讀 origin 的第二把尺首次接到東西 | 修完的尺要隔天回頭驗它真的在量，不是修完就記為完成 | [→](memory/2026-07-31-093305-twmd-flywheel-watch.md) |
 | 2026-08-01 | 004003-manual | Claude 委派層誕生：Haiku 99/99 開通 fail-closed 的 vi（39.9%→51.4%）、Sonnet 5/5 收下累計敗 125 次的殘骸；五個閘門修復全由真實缺陷驅動 | 弱的尺會放行強的尺會擋的東西——手寫驗收迴圈比既有 verify-batch 弱，10 條死鏈因此出貨 | [→](memory/2026-08-01-004003-manual.md) |
+| 2026-08-01 | 053456-twmd-embeddings-nightly | bge-m3 nightly 12 語 8686 向量 0 fail；vi 連三夜持平後首度跨過 400 篇門檻（448 篇），該條 handoff 退役 | push 前的 `git log -1` 核對揪出自己筆誤的 commit 時間戳占位符，amend 補正確再推 | [→](memory/2026-08-01-053456-twmd-embeddings-nightly.md) |
