@@ -114,6 +114,17 @@ def parse_fm(content: str) -> tuple[dict, str]:
         # (this project's dominant tags style — bare `[`/`]` lines + quoted items)
         if in_list and stripped in ("[", "]"):
             continue
+        # 整個 inline array 落在續行（prettier 會把過長的 `tags: [...]` 折成
+        # `tags:\n  ['a', 'b']`）。舊 parser 只認「裸 [ / ] 行」與「單項引號行」
+        # 兩種形狀，這種一行到底的續行陣列會整個讀不到，key 於是憑空消失。
+        # 2026-08-01 §14b 欄位遺漏檢查上線後首篇誤報就是它：譯文明明有 tags，
+        # 卻被判成「zh 有但譯文缺」——擋下的是好譯文（第 N 次「尺歪了」）。
+        if in_list and stripped.startswith("[") and stripped.endswith("]"):
+            out.setdefault(in_list, []).extend(
+                x.strip().strip("'\"") for x in stripped[1:-1].split(",") if x.strip()
+            )
+            in_list = None
+            continue
         if in_list and re.match(r"^['\"].*['\"],?$", stripped):
             out.setdefault(in_list, []).append(stripped.strip(",").strip("'\""))
             continue

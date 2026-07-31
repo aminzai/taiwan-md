@@ -28,6 +28,14 @@ sporeLinks:
     platform: 'x'
     date: '2026-07-15'
     url: 'https://x.com/taiwandotmd/status/2077235621287084160'
+rationale:
+  why_this_hook: '從小貝「22 人剩 12 人」的加護病房落地，把抽象的護病比政策收在一個護理師與一雙手上；核心矛盾「法律規定得了顧幾床，規定不了有沒有那個護理師」貫穿全文'
+  whats_excluded: '三黨表決的政黨對錯判斷（純中立紀實，以全聯會「不淪為政治戰工具」定錨）；石崇良「歡迎告我」爭議語錄（本人提錄音澄清實為「好，我接受」，不採信單一版本）；個別醫院的道德審判（關床/假達標 framing 為論量計酬的結構性誘因，非黑心）'
+  where_it_hedges: '洪子仁 2300 vs 800 標為新光醫院副院長單一來源估算；醫療暴力 70.6% 標北部橫斷研究不外推全台；缺工 5000/7500/2.4 萬/5.5-7.4 萬 四口徑分開不合併；「1:6 國際標準」誠實寫查無單一 WHO/ICN/ANA 組織背書'
+  whos_pushing_back: '醫院方（區域醫院協會吳鏘亮：緩衝也難補人、恐擴大關床）；衛福部（石崇良：漸進避免醫療量能萎縮）；資方觀點（人數足夠、真問題在留任誘因而非缺工）；病團（吳鴻來：開床卻無人照顧品質也非好事）'
+relatedDiary:
+  - 2026-07-13-073739-三班護病比
+researchReport: reports/research/2026-07/醫療法-三班護病比深化.md
 translatedFrom: 'Society/醫療法.md'
 sourceCommitSha: '21298a7a'
 sourceContentHash: 'sha256:a253f62d3df56358'

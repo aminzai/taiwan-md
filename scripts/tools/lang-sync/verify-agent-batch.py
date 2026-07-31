@@ -109,6 +109,52 @@ def main() -> int:
             health = bool(json.loads(r3.stdout)["reports"][0]["effective_passed"])
         except Exception:
             health = False
+
+        # 站內連結目標存在性：對「新生成的 agent 產出」升為硬失敗。
+        #
+        # 為什麼要在這裡另外判一次：`article-health --profile=pre-commit` 是
+        # `fail_on=hard`，而 link-target 的斷鏈只報 **warn**，所以 pre-commit
+        # 放行。2026-07-31 agent 把站內連結的路徑也翻成越南文
+        # （`/food/夜市文化` → `/food/văn-hóa-chợ-đêm`），10 條死鏈就這樣
+        # commit 出去了。
+        #
+        # 為什麼不直接把全站 link-target 升成 hard：實測既有語料本來就帶著
+        # 108+ 個斷鏈目標（gated ratio 0.44%），升級會擋住所有碰到舊檔的
+        # commit——那是品質閘門閾值調整，屬 §自主權邊界，要哲宇拍板。
+        # 這裡只對**本批新生成的譯文**從嚴：新產出不該帶新死鏈，舊債另議。
+        r4 = subprocess.run([sys.executable, str(REPO / "scripts/tools/article-health.py"),
+                             p, "--check=link-target", "--output=json"],
+                            cwd=REPO, capture_output=True, text=True)
+        deadlinks = []
+        try:
+            for chk in json.loads(r4.stdout)["reports"][0]["results"]:
+                if chk["check"] == "link-target":
+                    deadlinks = [v.get("message", "") for v in chk.get("violations", [])]
+        except Exception:
+            pass
+
+        # 只擋「譯文新introduce 的死鏈」，不擋「zh 原文本來就壞、譯文忠實繼承」的。
+        # 兩者根因完全不同：前者是 agent 把路徑翻掉（該修譯文），後者是原文的
+        # 目標文章不存在（該修原文）。混在一起會讓譯文永遠無法 ship，而問題
+        # 根本不在譯文——這正是今晚反覆遇到的「一個訊號承載兩種根因」。
+        r5 = subprocess.run([sys.executable, str(REPO / "scripts/tools/article-health.py"),
+                             f"knowledge/{t['zh']}", "--check=link-target", "--output=json"],
+                            cwd=REPO, capture_output=True, text=True)
+        zh_dead = set()
+        try:
+            for chk in json.loads(r5.stdout)["reports"][0]["results"]:
+                if chk["check"] == "link-target":
+                    zh_dead = {v.get("message", "").split("：")[-1].split(" ")[0]
+                               for v in chk.get("violations", [])}
+        except Exception:
+            pass
+        new_dead = [d for d in deadlinks
+                    if d.split("：")[-1].split(" ")[0] not in zh_dead]
+        if new_dead:
+            failed.append((t["target"], f"新增站內死鏈 {len(new_dead)} 條: {new_dead[0][:70]}"))
+            continue
+        if deadlinks:
+            print(f"   ℹ️  {t['target']}: {len(deadlinks)} 條死鏈繼承自 zh 原文（該修的是原文，不擋本批）")
         if fails == 0 and not leak and health:
             passed.append(t["target"])
         else:
