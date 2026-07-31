@@ -563,11 +563,11 @@
     "geography/台北市",
     "culture/擲筊",
     "art/台灣建築",
+    "food/地瓜球",
     "technology/科技園區發展",
     "lifestyle/台灣捷運發展史",
     "economy/台灣前50大企業",
-    "technology/台灣災難醫療體系",
-    "people/賈永婕"
+    "technology/台灣災難醫療體系"
   ],
   "geography/台北市": [
     "geography/艋舺",
@@ -1102,12 +1102,12 @@
   "geography/金瓜石": [
     "geography/台東縣",
     "economy/經濟奇蹟",
+    "food/地瓜球",
     "society/外省人",
     "geography/花蓮縣",
     "technology/台灣鎢供應鏈",
     "history/19世紀的樟腦戰爭",
-    "technology/海底電纜",
-    "history/綠島監獄"
+    "technology/海底電纜"
   ],
   "geography/金門縣": [
     "geography/連江縣",
@@ -1221,13 +1221,13 @@
   ],
   "culture/傳統節慶與慶典": [
     "culture/中元節",
+    "food/地瓜球",
     "food/肉圓",
     "food/台灣美食總覽",
     "culture/農曆七月",
     "food/台灣滷肉飯",
     "food/竹筒飯",
-    "food/蛋撻",
-    "culture/台灣婚喪喜慶與人生禮俗"
+    "food/蛋撻"
   ],
   "culture/兩廳院": [
     "history/中正紀念堂",
@@ -1283,11 +1283,11 @@
     "technology/AI硬體供應鏈",
     "technology/科技園區發展",
     "economy/台灣企業：華碩",
+    "food/地瓜球",
     "technology/台灣軟體產業發展",
     "economy/台灣前50大企業",
     "lifestyle/台灣便利商店文化",
-    "technology/台灣資安產業發展",
-    "technology/AI人工智慧產業"
+    "technology/台灣資安產業發展"
   ],
   "culture/台灣人小時候的英文名字": [
     "culture/菜市場名",
@@ -1354,10 +1354,10 @@
     "culture/群島思維",
     "technology/Threads在台灣",
     "culture/語言多樣性與母語文化",
+    "food/國際品牌在地化",
     "culture/台灣迷因",
     "food/竹筒飯",
-    "food/台灣美食總覽",
-    "economy/台灣自媒體創作者經濟"
+    "food/台灣美食總覽"
   ],
   "culture/台灣婚喪喜慶與人生禮俗": [
     "culture/滿月習俗",
@@ -1441,13 +1441,13 @@
   ],
   "culture/台灣棒球文化": [
     "lifestyle/保齡球",
+    "food/地瓜球",
     "food/台灣麵食文化",
     "art/台灣建築",
     "society/台灣體育發展與奧運",
     "culture/台灣動漫文化",
     "food/台灣咖啡產業",
-    "art/台灣傳統藝術",
-    "culture/原住民神話"
+    "art/台灣傳統藝術"
   ],
   "culture/台灣殯葬文化與生死觀": [
     "culture/擲筊",
@@ -1641,13 +1641,13 @@
   ],
   "culture/巧固球": [
     "lifestyle/保齡球",
+    "food/地瓜球",
     "society/台灣體育發展與奧運",
     "society/疊杯",
     "culture/台灣棒球文化",
     "society/法輪功在台灣",
     "technology/台灣網路社群遷徙史",
-    "people/施振榮",
-    "people/莊智淵"
+    "people/施振榮"
   ],
   "culture/巴哈姆特": [
     "technology/不入地窖焉能睡覺",
@@ -1735,9 +1735,9 @@
     "geography/離島與海洋文化",
     "culture/農曆七月",
     "culture/擲筊",
+    "food/新港飴",
     "culture/台灣宗教與寺廟文化",
-    "people/莊朱玉女",
-    "music/台灣流行音樂"
+    "people/莊朱玉女"
   ],
   "culture/無名小站": [
     "technology/台灣網路社群遷徙史",
@@ -1771,13 +1771,13 @@
   ],
   "culture/端午節": [
     "food/粽子",
+    "food/地瓜球",
     "culture/傳統節慶與慶典",
     "culture/農曆七月",
+    "food/彈珠汽水",
     "culture/中元節",
     "culture/擲筊",
-    "nature/台灣獼猴",
-    "food/竹筒飯",
-    "culture/台灣乖乖文化"
+    "nature/台灣獼猴"
   ],
   "culture/紙傘": [
     "art/紙風車劇團",
@@ -1877,7 +1877,7 @@
     "food/台灣原住民飲食文化",
     "people/江振誠",
     "music/台灣獨立音樂",
-    "food/台灣麵食文化"
+    "food/國際品牌在地化"
   ],
   "food/三峽茶": [
     "food/台灣咖啡產業",
@@ -1986,8 +1986,8 @@
     "food/台灣美食總覽",
     "food/台灣眷村菜",
     "food/台灣醬料與調味",
-    "lifestyle/台灣便利商店文化",
-    "food/台灣滷肉飯"
+    "food/國際品牌在地化",
+    "lifestyle/台灣便利商店文化"
   ],
   "food/台灣早餐文化": [
     "food/台灣豆漿與早餐店",
@@ -2081,13 +2081,13 @@
   ],
   "food/台灣糕餅文化": [
     "food/鳳梨酥",
+    "food/地瓜球",
     "food/台灣美食總覽",
     "food/台灣早餐文化",
     "food/太陽餅",
     "food/車輪餅",
     "food/台灣水果王國",
-    "food/飯糰",
-    "food/台灣豆漿與早餐店"
+    "food/飯糰"
   ],
   "food/台灣素食文化": [
     "food/台灣米食文化",
@@ -2112,12 +2112,12 @@
   "food/台灣豆漿與早餐店": [
     "food/台灣早餐文化",
     "food/台灣美食總覽",
+    "food/地瓜球",
     "food/鳳梨酥",
     "food/飯糰",
     "food/車輪餅",
     "food/台灣小吃",
-    "food/台灣鹽酥雞",
-    "food/台灣糕餅文化"
+    "food/台灣鹽酥雞"
   ],
   "food/台灣辦桌文化": [
     "food/台灣手路菜",
@@ -2142,22 +2142,22 @@
   "food/台灣鹽酥雞": [
     "food/台灣美食總覽",
     "food/臭豆腐",
+    "food/地瓜球",
     "food/飯糰",
     "food/台灣豆漿與早餐店",
     "food/棺材板",
     "food/台灣小吃",
-    "food/蚵仔煎",
-    "food/台灣滷肉飯"
+    "food/蚵仔煎"
   ],
   "food/台灣麵包與烘焙": [
     "people/吳寶春",
+    "food/國際品牌在地化",
     "food/台灣發酵食品與醃製文化",
     "food/台灣冰品文化",
     "food/台灣美食總覽",
     "economy/紡織業",
     "food/茶文化",
-    "food/飯糰",
-    "culture/台灣外來語與語言接觸"
+    "food/飯糰"
   ],
   "food/台灣麵食文化": [
     "food/牛肉麵",
@@ -2188,6 +2188,26 @@
     "geography/嘉義市",
     "food/棺材板",
     "food/台灣米食文化"
+  ],
+  "food/國際品牌在地化": [
+    "lifestyle/台灣便利商店文化",
+    "economy/萊爾富",
+    "food/台灣麵包與烘焙",
+    "food/台灣美食總覽",
+    "food/台灣新住民美食融合",
+    "food/蘋果麵包",
+    "culture/台灣外來語與語言接觸",
+    "people/吳寶春"
+  ],
+  "food/地瓜球": [
+    "food/台灣糕餅文化",
+    "food/飯糰",
+    "food/鳳梨酥",
+    "food/台灣鹽酥雞",
+    "food/臭豆腐",
+    "economy/經濟奇蹟",
+    "food/肉圓",
+    "food/台灣美食總覽"
   ],
   "food/埔里紹興酒": [
     "food/台灣麵食文化",
@@ -2229,15 +2249,35 @@
     "food/台灣滷肉飯",
     "food/台灣醬料與調味"
   ],
+  "food/彈珠汽水": [
+    "food/黑松",
+    "food/蘋果西打",
+    "food/珍珠奶茶",
+    "technology/飲料封膜機",
+    "food/台灣手搖飲文化",
+    "food/臭豆腐",
+    "food/埔里紹興酒",
+    "food/新港飴"
+  ],
+  "food/新港飴": [
+    "food/金牛角",
+    "food/飯糰",
+    "food/鳳梨酥",
+    "food/台灣糕餅文化",
+    "food/蚵仔煎",
+    "food/地瓜球",
+    "food/肉圓",
+    "food/彈珠汽水"
+  ],
   "food/棺材板": [
     "food/台灣鹽酥雞",
     "food/飯糰",
     "food/台灣滷肉飯",
     "food/台灣美食總覽",
+    "food/地瓜球",
     "food/臭豆腐",
     "food/嘉義火雞肉飯",
-    "food/台灣火鍋",
-    "food/蚵仔煎"
+    "food/台灣火鍋"
   ],
   "food/油飯": [
     "food/飯糰",
@@ -2253,11 +2293,11 @@
     "food/台灣美食總覽",
     "food/台灣麵食文化",
     "food/台灣早餐文化",
+    "food/地瓜球",
     "food/台灣滷肉飯",
     "food/台灣火鍋",
     "culture/台灣華語的演化",
-    "nature/台灣環境運動史",
-    "food/牛肉麵"
+    "nature/台灣環境運動史"
   ],
   "food/牛肉湯": [
     "food/台南中西區美食小吃文化",
@@ -2285,19 +2325,19 @@
     "food/台灣咖啡文化",
     "economy/台灣企業：統一企業",
     "food/蘋果西打",
+    "food/彈珠汽水",
     "food/台灣美食總覽",
-    "technology/飲料封膜機",
-    "culture/台灣茶文化"
+    "technology/飲料封膜機"
   ],
   "food/竹筒飯": [
     "culture/擲筊",
     "food/客家飲食文化",
     "food/台灣美食總覽",
+    "food/地瓜球",
     "food/臭豆腐",
     "food/台灣原住民飲食文化",
     "food/嘉義火雞肉飯",
-    "food/粽子",
-    "culture/台灣外來語與語言接觸"
+    "food/粽子"
   ],
   "food/粽子": [
     "food/台灣滷肉飯",
@@ -2305,29 +2345,29 @@
     "food/客家飲食文化",
     "food/台灣美食總覽",
     "food/台灣眷村菜",
+    "food/地瓜球",
     "food/飯糰",
-    "food/竹筒飯",
-    "food/牛肉麵"
+    "food/竹筒飯"
   ],
   "food/糖蔥": [
     "economy/台糖",
+    "food/地瓜球",
     "economy/台灣農業與農村再生",
     "food/台灣糕餅文化",
     "food/鳳梨酥",
     "food/臭豆腐",
     "culture/國立故宮博物院",
-    "food/蘋果麵包",
-    "food/台灣發酵食品與醃製文化"
+    "food/蘋果麵包"
   ],
   "food/肉圓": [
     "food/台灣麵食文化",
     "food/蚵仔煎",
     "food/台灣滷肉飯",
     "food/臭豆腐",
+    "food/地瓜球",
     "food/台灣美食總覽",
     "food/車輪餅",
-    "culture/傳統節慶與慶典",
-    "food/台灣火鍋"
+    "culture/傳統節慶與慶典"
   ],
   "food/臭豆腐": [
     "food/台灣發酵食品與醃製文化",
@@ -2336,8 +2376,8 @@
     "food/台灣火鍋",
     "food/台灣滷肉飯",
     "food/台灣鹽酥雞",
-    "food/肉圓",
-    "food/台灣麵食文化"
+    "food/地瓜球",
+    "food/肉圓"
   ],
   "food/茶文化": [
     "food/台灣咖啡產業",
@@ -2354,20 +2394,20 @@
     "food/黑松",
     "people/施振榮",
     "food/珍珠奶茶",
+    "food/彈珠汽水",
     "culture/台灣茶文化",
     "food/台灣咖啡文化",
-    "economy/台灣企業：統一企業",
-    "people/吳百福"
+    "economy/台灣企業：統一企業"
   ],
   "food/蘋果麵包": [
+    "food/國際品牌在地化",
     "economy/夜市經濟學",
     "food/台灣小吃",
     "food/粽子",
     "food/蛋撻",
+    "food/地瓜球",
     "food/蚵仔煎",
-    "food/台灣麵食文化",
-    "food/台灣美食總覽",
-    "food/台灣滷肉飯"
+    "food/台灣麵食文化"
   ],
   "food/虱目魚粥": [
     "food/台南中西區美食小吃文化",
@@ -2386,18 +2426,18 @@
     "food/台灣麵食文化",
     "food/飯糰",
     "food/台灣海鮮文化",
-    "food/台灣鹽酥雞",
-    "food/台灣美食總覽"
+    "food/地瓜球",
+    "food/台灣鹽酥雞"
   ],
   "food/蛋撻": [
+    "food/地瓜球",
     "food/台灣鹽酥雞",
     "food/蘋果麵包",
     "culture/傳統節慶與慶典",
     "food/台灣早餐文化",
     "food/台灣糕餅文化",
     "food/粽子",
-    "food/台灣滷肉飯",
-    "food/台灣小吃"
+    "food/台灣滷肉飯"
   ],
   "food/豬心冬粉": [
     "food/牛肉湯",
@@ -2405,49 +2445,49 @@
     "food/珍珠奶茶",
     "food/台南中西區美食小吃文化",
     "culture/台灣乖乖文化",
+    "food/地瓜球",
     "food/台灣鹽酥雞",
-    "food/阿婆鐵蛋",
-    "technology/台灣鎢供應鏈"
+    "food/阿婆鐵蛋"
   ],
   "food/車輪餅": [
     "food/鳳梨酥",
     "food/台灣糕餅文化",
     "food/飯糰",
     "food/台灣豆漿與早餐店",
+    "food/地瓜球",
     "food/台灣滷肉飯",
     "food/肉圓",
-    "culture/台灣華語的演化",
-    "food/台灣麵食文化"
+    "culture/台灣華語的演化"
   ],
   "food/金牛角": [
+    "food/新港飴",
+    "food/地瓜球",
     "food/阿婆鐵蛋",
     "food/飯糰",
     "food/台灣豆漿與早餐店",
     "food/台灣麵食文化",
     "food/三峽茶",
-    "food/臭豆腐",
-    "food/台灣鹽酥雞",
-    "food/油飯"
+    "food/臭豆腐"
   ],
   "food/阿婆鐵蛋": [
     "food/金牛角",
     "food/台灣美食總覽",
     "food/台灣豆漿與早餐店",
     "food/蚵仔煎",
+    "food/地瓜球",
     "food/珍珠奶茶",
     "food/台灣小吃",
-    "people/吳百福",
-    "food/台灣滷肉飯"
+    "people/吳百福"
   ],
   "food/飯糰": [
     "food/油飯",
     "food/台灣早餐文化",
     "food/臭豆腐",
+    "food/地瓜球",
     "food/台灣滷肉飯",
     "food/台灣麵食文化",
     "food/台灣美食總覽",
-    "food/台灣鹽酥雞",
-    "food/蚵仔煎"
+    "food/台灣鹽酥雞"
   ],
   "food/鱔魚意麵": [
     "food/台南中西區美食小吃文化",
@@ -2461,33 +2501,33 @@
   ],
   "food/鳳梨酥": [
     "food/台灣糕餅文化",
+    "food/地瓜球",
     "food/車輪餅",
     "food/台灣豆漿與早餐店",
     "food/台灣美食總覽",
     "food/台灣小吃",
     "food/飯糰",
-    "economy/經濟奇蹟",
-    "culture/台灣茶文化"
+    "economy/經濟奇蹟"
   ],
   "food/麻芛湯": [
     "food/台灣美食總覽",
     "food/台灣火鍋",
+    "food/地瓜球",
     "food/三峽茶",
     "culture/台灣茶文化",
     "food/臭豆腐",
     "food/台灣滷肉飯",
-    "history/蓬萊米",
-    "food/台灣鹽酥雞"
+    "history/蓬萊米"
   ],
   "food/黑松": [
     "food/蘋果西打",
+    "food/彈珠汽水",
     "music/台灣獨立音樂",
     "culture/台灣吧",
     "food/珍珠奶茶",
     "technology/飲料封膜機",
     "food/台灣美食總覽",
-    "culture/八點檔",
-    "music/台灣民歌運動"
+    "culture/八點檔"
   ],
   "food/鼎泰豐": [
     "food/台灣火鍋",
@@ -3886,8 +3926,8 @@
     "food/台灣小吃",
     "food/茶文化",
     "food/台灣手搖飲文化",
-    "food/台灣美食總覽",
-    "economy/台灣企業：廣達電腦"
+    "food/彈珠汽水",
+    "food/台灣美食總覽"
   ],
   "nature/Palakaw": [
     "music/拍謝少年",
@@ -4511,13 +4551,13 @@
   ],
   "people/吳寶春": [
     "food/台灣麵包與烘焙",
+    "food/國際品牌在地化",
     "culture/台灣華語的演化",
     "food/蘋果麵包",
     "society/台灣原住民族教育與語言復振的交界",
     "people/施振榮",
     "food/金牛角",
-    "food/台灣水果王國",
-    "society/台灣志工文化與公益參與"
+    "food/台灣水果王國"
   ],
   "people/吳明益": [
     "art/當代台灣文學",
@@ -4532,12 +4572,12 @@
   "people/吳百福": [
     "economy/台灣企業：統一企業",
     "food/台灣美食總覽",
+    "food/國際品牌在地化",
     "food/台灣麵食文化",
     "culture/台灣茶道與生活美學",
     "people/施振榮",
     "food/蘋果西打",
-    "technology/飲料封膜機",
-    "food/台灣滷肉飯"
+    "technology/飲料封膜機"
   ],
   "people/呂冠緯": [
     "lifestyle/台灣麻將與明星三缺一",
@@ -5661,13 +5701,13 @@
   ],
   "people/肌肉山山": [
     "economy/萊爾富",
+    "food/國際品牌在地化",
     "people/金針菇",
     "people/李珠珢",
     "culture/台灣外來語與語言接觸",
     "people/Ray",
     "people/邊荷律",
-    "people/黃山料",
-    "people/李雅英"
+    "people/黃山料"
   ],
   "people/范曉萱": [
     "people/魏如萱",
@@ -7334,10 +7374,10 @@
     "art/台灣建築",
     "food/牛肉麵",
     "geography/台灣板塊運動與地震活動",
+    "food/地瓜球",
     "food/台灣滷肉飯",
     "food/肉圓",
-    "society/台灣志工文化與公益參與",
-    "food/台灣麵食文化"
+    "society/台灣志工文化與公益參與"
   ],
   "society/報導者": [
     "society/台灣志工文化與公益參與",
@@ -7452,12 +7492,12 @@
   "society/檳榔": [
     "food/台灣水果王國",
     "food/麻芛湯",
+    "food/地瓜球",
     "food/台灣滷肉飯",
     "food/台灣鹽酥雞",
     "food/台灣美食總覽",
     "food/名間埔中茶",
-    "society/名間焚化爐",
-    "culture/傳統節慶與慶典"
+    "society/名間焚化爐"
   ],
   "society/毒馬鈴薯認知作戰": [
     "society/台灣統獨光譜",
@@ -7484,10 +7524,10 @@
     "geography/台北市",
     "music/台灣搖滾樂發展史",
     "music/閃靈",
+    "food/地瓜球",
     "society/台灣志工文化與公益參與",
     "society/台灣同婚與性別平權",
-    "culture/族群（閩南客家原住民外省新住民）",
-    "history/台灣民主轉型"
+    "culture/族群（閩南客家原住民外省新住民）"
   ],
   "society/泛科學": [
     "technology/科技園區發展",
@@ -7534,10 +7574,10 @@
     "people/戴資穎",
     "economy/紡織業",
     "culture/巧固球",
+    "food/地瓜球",
     "culture/台灣棒球文化",
     "people/曾雅妮",
-    "food/茶文化",
-    "people/周天成"
+    "food/茶文化"
   ],
   "society/社會住宅與居住正義": [
     "society/社會運動與公民參與",
@@ -7745,9 +7785,9 @@
     "lifestyle/小北百貨",
     "lifestyle/合作社",
     "people/曹興誠",
+    "food/國際品牌在地化",
     "economy/旺旺",
-    "society/台灣補習班文化",
-    "people/林啟維"
+    "society/台灣補習班文化"
   ],
   "economy/台灣中小企業與隱形冠軍": [
     "economy/台灣前50大企業",
@@ -8261,23 +8301,23 @@
   ],
   "economy/經濟奇蹟": [
     "economy/台灣外貿與全球供應鏈",
+    "food/地瓜球",
     "technology/科技園區發展",
     "economy/台灣企業：台達電子",
     "economy/台灣企業：台塑集團",
     "economy/台灣企業：遠東集團",
     "economy/農業科技與精緻農業",
-    "economy/夜市經濟學",
-    "economy/台糖"
+    "economy/夜市經濟學"
   ],
   "economy/萊爾富": [
+    "food/國際品牌在地化",
     "economy/全聯福利中心",
     "economy/NET",
     "economy/台灣企業：統一企業",
     "people/肌肉山山",
     "people/施振榮",
     "food/台灣小吃",
-    "lifestyle/台灣便利商店文化",
-    "economy/經濟奇蹟"
+    "lifestyle/台灣便利商店文化"
   ],
   "economy/螺絲": [
     "economy/台灣外貿與全球供應鏈",
@@ -8351,13 +8391,13 @@
   ],
   "lifestyle/台灣便利商店文化": [
     "food/台灣早餐文化",
+    "food/國際品牌在地化",
     "food/台灣咖啡文化",
     "lifestyle/台灣市場文化與傳統市場",
     "economy/台灣企業：統一企業",
     "food/台灣新住民美食融合",
     "food/台灣手搖飲文化",
-    "food/台灣素食文化",
-    "lifestyle/台灣機車文化"
+    "food/台灣素食文化"
   ],
   "lifestyle/台灣公園與日常休閒": [
     "lifestyle/台灣市場文化與傳統市場",
@@ -8545,9 +8585,9 @@
     "culture/校園順口溜",
     "culture/紙傘",
     "lifestyle/台灣騎樓文化與街景",
+    "food/地瓜球",
     "culture/台灣花布",
-    "culture/台灣迷因",
-    "technology/東亞文字輸入法"
+    "culture/台灣迷因"
   ],
   "lifestyle/收費站": [
     "lifestyle/高速公路",

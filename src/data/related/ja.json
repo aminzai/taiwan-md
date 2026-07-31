@@ -235,9 +235,9 @@
     "technology/national-cultural-memory-bank",
     "technology/ai-development-in-taiwan",
     "society/cognitive-warfare-against-taiwan",
-    "politics/2026-local-elections-taiwan",
     "people/huang-shan-liao",
-    "technology/east-asian-input-methods"
+    "technology/east-asian-input-methods",
+    "politics/2026-local-elections-taiwan"
   ],
   "history/qing-dynasty-rule": [
     "history/japanese-colonial-era",
@@ -2623,11 +2623,11 @@
     "society/tiktok-in-taiwan",
     "art/mountain-makers-tsmc-documentary",
     "culture/taiwan-youtuber-industry",
+    "people/jamie-lin-ai-industry-pioneer",
     "geography/how-to-read-the-taiwan-map",
     "society/pts-public-television-service",
     "society/volunteering-and-civic-charity-in-taiwan",
-    "history/228-incident",
-    "technology/nvidia-in-taiwan"
+    "history/228-incident"
   ],
   "art/li-poetry-society": [
     "art/postwar-taiwanese-literature",
@@ -3375,9 +3375,9 @@
     "culture/linguistic-diversity-and-mother-tongue-culture",
     "culture/taiwanese-homophone-taboos",
     "technology/miin-music-app",
-    "politics/2026-local-elections-taiwan",
     "technology/justfont-and-taiwan-typography",
-    "culture/taiwan-mandarin-evolution"
+    "culture/taiwan-mandarin-evolution",
+    "technology/threads-in-taiwan"
   ],
   "technology/facebook-in-taiwan": [
     "technology/threads-in-taiwan",
@@ -3447,7 +3447,7 @@
     "technology/open-culture-foundation",
     "lifestyle/taiwan-bus-system",
     "society/tiktok-in-taiwan",
-    "geography/how-to-read-the-taiwan-map"
+    "politics/2026-local-elections-taiwan"
   ],
   "technology/national-cultural-memory-bank": [
     "history/psychological-warfare",
@@ -3475,9 +3475,9 @@
     "people/audrey-tang",
     "lifestyle/taiwan-healthcare-and-national-health-insurance",
     "technology/digital-id-and-digital-government",
-    "politics/2026-local-elections-taiwan",
     "society/long-term-care-system-development",
-    "technology/mini-taiwan-pulse-civic-tech"
+    "technology/mini-taiwan-pulse-civic-tech",
+    "technology/taiwan-ai-in-daily-life"
   ],
   "technology/open-source-and-g0v": [
     "technology/open-culture-foundation",
@@ -4397,7 +4397,7 @@
     "people/che-yu-wu",
     "people/terry-gou",
     "people/tung-tzu-hsien-tech-humanist",
-    "people/jamie-lin-ai-industry-pioneer"
+    "people/kuo-cheng-kuang"
   ],
   "people/chang-yu-sheng-singer": [
     "people/a-mei",
@@ -4467,7 +4467,7 @@
     "people/cho-jung-tai",
     "society/thinking-taiwan-forum",
     "society/taiwan-public-health-epidemic-response",
-    "people/jamie-lin-ai-industry-pioneer"
+    "history/kmt-government-relocation-and-postwar-reconstruction"
   ],
   "people/chen-chien-nien": [
     "people/deng-yu-xian-taiwanese-song-composer",
@@ -4705,9 +4705,9 @@
     "economy/united-microelectronics-corporation",
     "people/terry-gou",
     "economy/mediatek",
-    "people/jamie-lin-ai-industry-pioneer",
     "culture/culinary-class-wars-in-taiwan",
-    "technology/taiwan-open-source-spirit"
+    "technology/taiwan-open-source-spirit",
+    "people/yang-you-ren-shoes-for-hope-taiwan-youth-hero"
   ],
   "people/chiung-wi-vun": [
     "culture/hakka-culture-and-language",
@@ -5210,14 +5210,14 @@
     "people/lala-hsu-singer"
   ],
   "people/jamie-lin-ai-industry-pioneer": [
+    "economy/taiwan-self-media-creator-economy",
     "people/steve-chen-youtube-cofounder",
-    "people/chi-huai-hsin",
-    "people/kuo-cheng-kuang",
-    "people/chiu-chi-hung-physicist",
-    "people/tung-tzu-hsien-tech-humanist",
-    "people/mark-liu",
-    "society/taiwan-youth-career-confusion",
-    "technology/taiwan-ai-labs"
+    "culture/taiwan-youtuber-industry",
+    "society/teach-for-taiwan",
+    "art/invisible-nation",
+    "technology/taiwan-open-source-spirit",
+    "people/ethan-tu",
+    "society/taiwan-youth-career-confusion"
   ],
   "people/jay-chou": [
     "people/stefanie-sun",
@@ -5372,12 +5372,12 @@
   "people/kuo-cheng-kuang": [
     "people/lin-chi-er-astronaut",
     "people/lin-yi-hsiung-democracy-advocate-tragedy-survivor",
-    "people/jamie-lin-ai-industry-pioneer",
     "culture/islam-in-taiwan",
     "people/cc-wei",
     "people/terry-gou",
     "people/yin-haiguang-liberalism-philosopher",
-    "people/su-tseng-chang"
+    "people/su-tseng-chang",
+    "culture/culinary-class-wars-in-taiwan"
   ],
   "people/kuo-chin-fa-taiwanese-singer": [
     "people/jody-chiang",
@@ -5685,9 +5685,9 @@
     "society/taipei-smoking-room",
     "people/su-tseng-chang",
     "people/annette-lu",
+    "politics/2026-local-elections-taiwan",
     "geography/taichung-city",
-    "history/resolution-on-taiwans-future",
-    "people/teresa-teng"
+    "history/resolution-on-taiwans-future"
   ],
   "people/lu-yen-hsun-tennis-champion": [
     "people/chuang-chih-yuan-table-tennis-legend",
@@ -6086,8 +6086,8 @@
     "people/ethan-tu",
     "people/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender",
     "people/chiu-chi-hung-physicist",
-    "people/jamie-lin-ai-industry-pioneer",
-    "economy/taiwan-enterprise-ase-semiconductor"
+    "economy/taiwan-enterprise-ase-semiconductor",
+    "economy/htc-android-pioneer-vr-transformation"
   ],
   "people/steve-chen-youtube-cofounder": [
     "people/jerry-yang-yahoo-cofounder",
@@ -6096,8 +6096,8 @@
     "economy/taiwan-self-media-creator-economy",
     "people/howhow",
     "people/ray-youtuber",
-    "people/zun",
-    "culture/dcard-taiwan-social-platform"
+    "people/jamie-lin-ai-industry-pioneer",
+    "people/zun"
   ],
   "people/su-beng": [
     "food/stinky-tofu",
@@ -6297,7 +6297,7 @@
     "people/chiu-chi-hung-physicist",
     "people/steve-chen-youtube-cofounder",
     "people/yeh-kuo-yi-electronics-manufacturing-pioneer",
-    "people/jamie-lin-ai-industry-pioneer"
+    "people/xiao-qing-yang-grammy-designer"
   ],
   "people/tzuyu": [
     "people/zun",
@@ -6516,8 +6516,8 @@
     "people/tung-tzu-hsien-tech-humanist",
     "people/yung-ching-wang-formosa-plastics-founder",
     "economy/taiwan-enterprise-fubon-financial",
-    "people/jamie-lin-ai-industry-pioneer",
-    "people/tony-hsiao-inside-founder"
+    "people/tony-hsiao-inside-founder",
+    "economy/delta-electronics-taiwan-power-giant"
   ],
   "people/yeh-ping-cheng-education-innovator": [
     "people/yang-wei-cher",
@@ -6630,14 +6630,14 @@
     "people/shasha77-chang-chih-chi"
   ],
   "politics/2026-local-elections-taiwan": [
-    "politics/taiwan-election-process",
     "politics/nine-in-one-elections-explained",
-    "politics/voting-rights-threshold-history",
+    "politics/taiwan-election-process",
     "history/great-recall-movement-2024",
-    "technology/taiwan-ai-in-daily-life",
+    "politics/voting-rights-threshold-history",
     "politics/village-chief-system",
-    "society/join-public-policy-platform",
-    "society/taiwan-lithuania"
+    "technology/taiwan-ai-in-daily-life",
+    "society/taiwan-lithuania",
+    "society/join-public-policy-platform"
   ],
   "politics/central-election-commission": [
     "society/taiwan-political-landscape-and-electoral-system",
@@ -6654,10 +6654,10 @@
     "society/taiwan-political-landscape-and-electoral-system",
     "politics/nine-in-one-elections-explained",
     "politics/village-chief-system",
-    "politics/2026-local-elections-taiwan",
     "history/taiwan-elections-and-party-politics",
     "society/becoming-a-teacher-taiwan-teacher-training",
-    "politics/voting-rights-threshold-history"
+    "politics/voting-rights-threshold-history",
+    "politics/2026-local-elections-taiwan"
   ],
   "politics/election-bulletin-system": [
     "politics/taiwan-election-process",
@@ -6680,8 +6680,8 @@
     "society/remote-area-schools-education-act"
   ],
   "politics/nine-in-one-elections-explained": [
-    "politics/indigenous-district-chief-system",
     "politics/2026-local-elections-taiwan",
+    "politics/indigenous-district-chief-system",
     "society/taiwan-political-landscape-and-electoral-system",
     "politics/village-chief-system",
     "politics/central-election-commission",
@@ -6721,10 +6721,10 @@
   ],
   "politics/village-chief-system": [
     "society/taiwan-political-landscape-and-electoral-system",
+    "politics/2026-local-elections-taiwan",
     "society/taiwan-neighborhood-and-li-culture",
     "politics/nine-in-one-elections-explained",
     "politics/taiwan-election-process",
-    "politics/2026-local-elections-taiwan",
     "politics/central-election-commission",
     "history/great-recall-movement-2024",
     "society/long-term-care-system-development"
@@ -6794,10 +6794,10 @@
     "technology/taiwan-ai-in-daily-life",
     "economy/taiwan-self-media-creator-economy",
     "people/chiang-wei-shui",
-    "politics/2026-local-elections-taiwan",
     "society/united-front-tour-groups",
     "society/join-public-policy-platform",
-    "technology/miin-music-app"
+    "technology/miin-music-app",
+    "politics/2026-local-elections-taiwan"
   ],
   "society/commonwealth-magazine": [
     "culture/renjian-magazine",
@@ -6934,9 +6934,9 @@
     "technology/taiwan-5g-digital-transformation",
     "technology/taiwan-bim-construction-tech",
     "technology/digital-id-and-digital-government",
+    "politics/2026-local-elections-taiwan",
     "lifestyle/line-app-in-taiwan",
     "society/social-movements-and-civic-participation",
-    "politics/2026-local-elections-taiwan",
     "technology/threads-in-taiwan"
   ],
   "society/kuma-academy-civil-defense-school": [
@@ -7214,10 +7214,10 @@
     "society/taiwan-diplomatic-allies-and-international-relations",
     "society/taiwan-unification-independence-spectrum",
     "technology/taiwan-robotics-industry",
+    "politics/2026-local-elections-taiwan",
     "technology/taiwan-space-industry-development",
     "technology/tasa-taiwan-space-agency",
-    "technology/taiwan-drone-industry",
-    "politics/2026-local-elections-taiwan"
+    "technology/taiwan-drone-industry"
   ],
   "society/taiwan-design-research-institute": [
     "culture/shopping-design",
@@ -7310,8 +7310,8 @@
     "nature/taiwan-environmental-movement-history"
   ],
   "society/taiwan-lithuania": [
-    "economy/taiwan-international-trade-policy",
     "politics/2026-local-elections-taiwan",
+    "economy/taiwan-international-trade-policy",
     "society/taiwan-unification-independence-spectrum",
     "economy/industrial-transformation-from-manufacturing-to-innovation",
     "history/bipartisan-good-policy",
@@ -8087,7 +8087,7 @@
     "people/ray-youtuber",
     "people/jin-enoki",
     "technology/threads-in-taiwan",
-    "people/shasha77-chang-chih-chi"
+    "people/jamie-lin-ai-industry-pioneer"
   ],
   "economy/taiwan-smes-and-hidden-champions": [
     "economy/top-50-companies-taiwan",
@@ -8145,9 +8145,9 @@
     "history/kmt-government-relocation-and-postwar-reconstruction",
     "culture/taiwan-church-news",
     "lifestyle/taiwan-healthcare-and-national-health-insurance",
-    "politics/2026-local-elections-taiwan",
     "politics/taiwan-election-process",
-    "technology/open-culture-foundation"
+    "technology/open-culture-foundation",
+    "history/resolution-on-taiwans-future"
   ],
   "economy/taiwanese-companies-far-eastern-group": [
     "economy/industrial-transformation-from-manufacturing-to-innovation",

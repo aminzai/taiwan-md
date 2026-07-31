@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-07-30
-last_session: '2026-07-30-084134-twmd-maintainer-am（7 PR triage：6 merge + 1 留哲宇拍板）'
+last_updated: 2026-07-31
+last_session: '2026-07-31-085814-twmd-maintainer-daily（2 PR merge+heal，發現並修復一次 main deploy 失敗）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -315,4 +315,10 @@ _需要的時候，我知道去哪裡找。_
 | 2026-07-30 | 093643-twmd-flywheel-watch | 飛輪在轉（24hr 161 commit／12 筆 routine，六條日更全留痕）；flywheel-watch 三份素材改讀 origin/main，dump 齡 27.3h→3.3h | 禁 pull 卻讀工作樹，量的是這台多久沒 pull；7/26 那把尺從沒生效過 | [→](memory/2026-07-30-093643-twmd-flywheel-watch.md) |
 | 2026-07-30 | 121650-manual | 巴別塔回收 14 篇譯文並推至 main；修復 pulse 在 Python 3.9 沿用舊快照的假綠 | 進度讀數必須綁定同一 git ref、來源總數與時間戳 | [→](memory/2026-07-30-121650-manual.md) |
 | 2026-07-30 | 230518-manual | babel 雲端產線 9.5hr 零產出重啟復活；fleet 版本鏡誤報 heal（快取未跟版本常數同步）+ 2 節點斷線修復；PR #1282/#1283 merge | 版本鏡誤判根因是快取新鮮度，不是比較邏輯 | [→](memory/2026-07-30-230518-manual.md) |
+| 2026-07-31 | 053348-twmd-embeddings-nightly | bge-m3 nightly 12 語 8485 向量 0 fail；vi 344 篇連三晚持平後首度 +1，仍低於 400 門檻（爬升期非故障） | pretty-print↔minified 格式波動連兩晚驗證為無害，非資料損壞 | [→](memory/2026-07-31-053348-twmd-embeddings-nightly.md) |
+| 2026-07-31 | 053803-twmd-routine-sync | 三層對賬第六輪，17 條全 in-sync 零漂移；7/29 修好的 babel-nightly drift 連兩天沒復發 | 連續全綠仍要記一行，否則下次沒基線可比這條 routine 有沒有在跑 | [→](memory/2026-07-31-053803-twmd-routine-sync.md) |
+| 2026-07-31 | 061156-twmd-data-refresh-am | 14 步全綠零 stale；routine-live-state 滿 24h 例行續跑，stale_hours 24→0；免疫 60 chronic 黃燈維持不變 | 沒有新故事的一天仍要記一行，尤其 babel fleet 渦流同時在背景高速運轉時，正交不碰本身是分工正確的訊號 | [→](memory/2026-07-31-061156-twmd-data-refresh-am.md) |
+| 2026-07-31 | 064425-twmd-spore-harvest-am | 6 events harvest；鎢文新增讀者事實查核，逐條核對後兩點文章已有腳註、兩點是孢子壓縮漏掉的細節；發現 pipeline 與 MANIFESTO 對回覆能否自動發互相矛盾，守 MANIFESTO 不發 | 兩份 canonical 講法不一致時，讀的順序本身就是風險控制 | [→](memory/2026-07-31-064425-twmd-spore-harvest-am.md) |
+| 2026-07-31 | 070955-twmd-feedback-triage | 1 筆進單：讀者質疑轉換器「陰陽怪氣」支語判定的詞性範圍，轉 issue #1286 | 詞性判準質疑非事實勘誤，triage 只機械轉錄不代判，留 maintainer 跨源驗證 | [→](memory/2026-07-31-070955-twmd-feedback-triage.md) |
+| 2026-07-31 | 085814-twmd-maintainer-daily | 2 PR merge-first+heal；merge 後 deploy 轉紅（frontmatter 用 `___` 非 `---`），已 heal；#1286 查證辭典回覆，#1252 澄清重貼舊留言 | contributor 貼渲染輸出非 raw md，格式病只在 deploy 才曝光 | [→](memory/2026-07-31-085814-twmd-maintainer-daily.md) |
 | 2026-07-31 | 093305-twmd-flywheel-watch | 飛輪綠燈零警報（24hr 85 commit／12 筆 routine，六條日更全留痕，dump 齡 3.3h）；昨天改讀 origin 的第二把尺首次接到東西 | 修完的尺要隔天回頭驗它真的在量，不是修完就記為完成 | [→](memory/2026-07-31-093305-twmd-flywheel-watch.md) |

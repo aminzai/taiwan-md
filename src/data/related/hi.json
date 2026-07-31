@@ -16,8 +16,8 @@
     "food/pineapple-cake",
     "geography/jinguashi",
     "geography/taiwan-hot-springs-landscape",
-    "food/ah-po-iron-eggs",
-    "food/chiayi-turkey-rice"
+    "history/indigenous-peoples-history-and-naming-movement",
+    "food/ah-po-iron-eggs"
   ],
   "history/alishan-empire-forest-and-uongu-yatauyungana": [
     "geography/yushan-jade-mountain",
@@ -25,19 +25,19 @@
     "nature/taiwan-mountains-and-hiking-culture",
     "geography/qingtiangang",
     "history/mudan-incident",
+    "history/indigenous-peoples-history-and-naming-movement",
     "people/ji-lin-lian",
-    "geography/jinguashi",
-    "people/chiang-kai-shek"
+    "geography/jinguashi"
   ],
   "history/animal-protection-in-taiwan": [
+    "society/stray-animal-culture",
     "society/environmental-awakening-and-net-zero-transition",
     "society/taiwan-teacher-discipline-dilemma",
     "lifestyle/taiwan-recycling-and-circular-living-culture",
     "society/zoo-and-exhibition-animal-ethics",
     "nature/eurasian-otter-in-taiwan",
     "geography/wuqiu",
-    "society/military-service-in-taiwan",
-    "history/taiwan-emigration-history"
+    "society/military-service-in-taiwan"
   ],
   "history/bipartisan-good-policy": [
     "society/taiwan-nuclear-debate",
@@ -46,8 +46,8 @@
     "society/join-public-policy-platform",
     "culture/taiwanese-life-ceremony-traditions",
     "technology/facebook-in-taiwan",
-    "lifestyle/cooperatives-in-taiwan",
-    "society/environmental-awakening-and-net-zero-transition"
+    "politics/taiwan-election-process",
+    "lifestyle/cooperatives-in-taiwan"
   ],
   "history/chiang-kai-shek-memorial-hall": [
     "society/wild-lily-student-movement",
@@ -56,8 +56,8 @@
     "geography/taichung-city",
     "people/chen-shui-bian-controversial-president",
     "geography/beida-special-district-sanxia",
-    "people/chiang-kai-shek",
-    "lifestyle/taoyuan-airport"
+    "society/taiwan-design-research-institute",
+    "people/chiang-kai-shek"
   ],
   "history/disney-and-taiwan": [
     "economy/taiwan-creator-economy",
@@ -80,24 +80,34 @@
     "history/great-recall-movement-2024"
   ],
   "history/great-recall-movement-2024": [
+    "politics/taiwan-election-process",
     "society/taiwan-nuclear-debate",
     "people/tsai-ing-wen",
     "society/taiwan-unification-independence-spectrum",
     "society/join-public-policy-platform",
     "society/media-and-press-freedom-in-taiwan",
     "people/chen-shui-bian-controversial-president",
-    "society/taiwan-diplomatic-allies-and-international-relations",
-    "history/eight-immortals-dust-explosion"
+    "society/taiwan-diplomatic-allies-and-international-relations"
   ],
   "history/hukou-camp-shengli-road-memory": [
     "people/huang-yu-chiao-democracy-elder",
     "geography/44-south-village",
     "geography/wuqiu",
     "geography/hukou-old-street",
+    "people/ma-ying-jeou-cross-strait-reconciliation-leader",
     "geography/qingshui-cliff",
     "art/alien-art-centre",
-    "people/chiang-kai-shek",
-    "people/lai-ho-father-of-taiwanese-literature"
+    "people/chiang-kai-shek"
+  ],
+  "history/indigenous-peoples-history-and-naming-movement": [
+    "history/taiwan-white-terror",
+    "culture/taiwan-funeral-culture-and-death-views",
+    "people/chiung-wi-vun",
+    "society/volunteering-and-civic-charity-in-taiwan",
+    "history/taiwan-democratization-history",
+    "people/chen-shui-bian-controversial-president",
+    "history/taiwan-democratization",
+    "history/kmt-government-relocation-and-postwar-reconstruction"
   ],
   "history/kmt-government-relocation-and-postwar-reconstruction": [
     "history/martial-law-era",
@@ -191,13 +201,13 @@
   ],
   "history/social-movements-during-japanese-rule": [
     "history/taiwan-transitional-justice",
+    "nature/taiwan-environmental-movement-history",
     "history/taiwan-democratization",
     "history/qing-dynasty-rule",
     "society/media-and-press-freedom-in-taiwan",
     "history/taiwan-forestry-history",
     "culture/taiwan-church-news",
-    "history/taiwan-island-historiography",
-    "society/taiwan-public-health-epidemic-response"
+    "history/taiwan-island-historiography"
   ],
   "history/taiwan-democratization-history": [
     "people/annette-lu",
@@ -231,13 +241,13 @@
   ],
   "history/taiwan-forestry-history": [
     "history/qing-dynasty-rule",
+    "nature/taiwan-environmental-movement-history",
     "music/taiwan-rock-from-underground-to-mainstream",
     "nature/taiwan-forest-ecosystems",
     "society/environmental-awakening-and-net-zero-transition",
     "food/taiwan-coffee-industry",
     "economy/industrial-transformation-from-manufacturing-to-innovation",
-    "history/social-movements-during-japanese-rule",
-    "geography/administrative-divisions-of-taiwan"
+    "history/social-movements-during-japanese-rule"
   ],
   "history/taiwan-island-historiography": [
     "society/taiwan-political-landscape-and-electoral-system",
@@ -294,10 +304,10 @@
     "history/martial-law-era",
     "history/kmt-government-relocation-and-postwar-reconstruction",
     "history/taiwan-democratization",
+    "history/indigenous-peoples-history-and-naming-movement",
     "society/taiwan-public-health-epidemic-response",
     "society/taiwan-judicial-reform-and-preventive-detention",
-    "society/taiwan-tin-shed-houses",
-    "people/su-tseng-chang"
+    "society/taiwan-tin-shed-houses"
   ],
   "history/tamkang-high-school": [
     "art/taiwanese-art-education-and-academic-development",
@@ -337,27 +347,27 @@
     "geography/linkou-new-town",
     "history/sanxia-old-street",
     "culture/taiwan-historic-streets-and-commercial-districts",
-    "culture/national-theater-and-concert-hall"
+    "society/taiwan-design-research-institute"
   ],
   "history/yuan-xing-cattle-beef-soup-history": [
     "economy/taiwan-sugar",
     "food/taiwan-rice-cuisine-culture",
     "food/taiwan-hotpot-culture",
     "food/taiwan-pastry-culture",
+    "society/stray-animal-culture",
     "people/monaneng",
     "music/sorry-youth-band",
-    "nature/eurasian-otter-in-taiwan",
-    "culture/islam-in-taiwan"
+    "nature/eurasian-otter-in-taiwan"
   ],
   "geography/44-south-village": [
     "history/taiwan-military-dependents-villages-history",
     "geography/taipei-101",
     "history/hukou-camp-shengli-road-memory",
+    "history/indigenous-peoples-history-and-naming-movement",
     "society/falun-gong-in-taiwan",
     "food/sanxia-tea",
     "art/yingge-ceramics-museum",
-    "geography/yilan-county",
-    "culture/national-theater-and-concert-hall"
+    "geography/yilan-county"
   ],
   "geography/administrative-divisions-of-taiwan": [
     "society/taiwan-political-landscape-and-electoral-system",
@@ -374,10 +384,10 @@
     "geography/linkou-new-town",
     "history/chiang-kai-shek-memorial-hall",
     "history/sanxia-old-street",
+    "society/taiwan-design-research-institute",
     "lifestyle/history-of-taiwan-mrt-development",
     "geography/taichung-city",
-    "geography/yongkang-street",
-    "geography/urban-character-and-regional-culture"
+    "geography/yongkang-street"
   ],
   "geography/geography-and-geology": [
     "geography/taiwan-five-major-landforms-and-geographic-structure",
@@ -435,9 +445,9 @@
     "economy/taiwan-startup-ecosystem-overview",
     "society/environmental-awakening-and-net-zero-transition",
     "people/shao-you-lian",
+    "society/taiwan-design-research-institute",
     "geography/beida-special-district-sanxia",
-    "history/yingge-ceramics-old-street",
-    "society/inclusive-travel-taiwan"
+    "history/yingge-ceramics-old-street"
   ],
   "geography/national-scenic-area-system": [
     "society/inclusive-travel-taiwan",
@@ -600,14 +610,14 @@
     "people/shao-you-lian"
   ],
   "geography/wuqiu": [
+    "people/wu-ming-yi",
     "lifestyle/taiwan-recycling-and-circular-living-culture",
     "history/animal-protection-in-taiwan",
     "lifestyle/transportation-system",
     "nature/orchid-island-ecosystem",
     "nature/eurasian-otter-in-taiwan",
     "culture/islam-in-taiwan",
-    "culture/national-palace-museum",
-    "culture/taiwan-religion-and-temple-culture"
+    "culture/national-palace-museum"
   ],
   "geography/yehliu-geopark": [
     "nature/meiyu-stagnant-front",
@@ -635,9 +645,9 @@
     "history/yingge-ceramics-old-street",
     "people/huang-guang-xiong-educator",
     "geography/taichung-city",
+    "people/ma-ying-jeou-cross-strait-reconciliation-leader",
     "geography/jinguashi",
-    "society/taiwan-cram-school-culture",
-    "people/stanley-yen"
+    "society/taiwan-cram-school-culture"
   ],
   "geography/yushan-jade-mountain": [
     "nature/taiwan-mountains-and-hiking-culture",
@@ -665,9 +675,9 @@
     "culture/taiwan-church-news",
     "people/chiang-wei-shui",
     "culture/taiwan-religion-and-temple-culture",
+    "history/indigenous-peoples-history-and-naming-movement",
     "history/taiwan-white-terror",
-    "culture/islam-in-taiwan",
-    "people/du-congming-founder-of-modern-medicine-in-taiwan"
+    "culture/islam-in-taiwan"
   ],
   "culture/common-taiwanese-names": [
     "culture/taiwanese-homophone-taboos",
@@ -866,8 +876,8 @@
     "economy/foxconn-precision-industry",
     "food/sugar-onion-tang-tsung",
     "history/psychological-warfare",
-    "nature/typhoons-in-taiwan",
-    "history/sino-french-war-in-taiwan"
+    "food/portuguese-egg-tart-in-taiwan",
+    "nature/typhoons-in-taiwan"
   ],
   "culture/national-theater-and-concert-hall": [
     "history/chiang-kai-shek-memorial-hall",
@@ -903,11 +913,11 @@
     "culture/magazine",
     "people/he-feipeng",
     "people/chen-chun-liang-design-poet",
+    "society/taiwan-design-research-institute",
     "culture/culinary-class-wars-in-taiwan",
     "economy/hilife-convenience-store",
     "people/fujui-wang",
-    "food/taiwan-coffee-culture",
-    "people/huang-kuo-chen"
+    "food/taiwan-coffee-culture"
   ],
   "culture/taiwan-anime-culture": [
     "art/taiwanese-comics-and-illustration",
@@ -960,24 +970,24 @@
     "economy/taiwan-textile-industry"
   ],
   "culture/taiwan-funeral-culture-and-death-views": [
+    "history/indigenous-peoples-history-and-naming-movement",
     "society/volunteering-and-civic-charity-in-taiwan",
     "culture/taiwanese-life-ceremony-traditions",
     "history/taiwan-white-terror",
     "nature/taiwan-mountains-and-hiking-culture",
     "nature/typhoons-in-taiwan",
     "people/samuel-yin-yan-liang",
-    "history/taiwan-democratization",
-    "people/tsai-ing-wen"
+    "history/taiwan-democratization"
   ],
   "culture/taiwan-furry-culture": [
     "technology/justfont-and-taiwan-typography",
     "society/volunteering-and-civic-charity-in-taiwan",
+    "society/stray-animal-culture",
     "economy/taiwanese-companies-far-eastern-group",
     "society/teach-for-taiwan",
     "lifestyle/cooperatives-in-taiwan",
     "lifestyle/taiwan-traditional-markets-and-market-culture",
-    "technology/threads-in-taiwan",
-    "culture/taiwan-vtuber"
+    "technology/threads-in-taiwan"
   ],
   "culture/taiwan-historic-streets-and-commercial-districts": [
     "lifestyle/taiwan-traditional-markets-and-market-culture",
@@ -1056,8 +1066,8 @@
     "art/taiwanese-curators-and-artistic-cultural-construction",
     "lifestyle/taiwan-hairstyles",
     "geography/administrative-divisions-of-taiwan",
-    "art/taiwanese-architecture",
-    "society/taiwan-political-landscape-and-electoral-system"
+    "nature/taiwan-environmental-movement-history",
+    "art/taiwanese-architecture"
   ],
   "culture/taiwan-tea-ceremony-and-aesthetic-living": [
     "food/sanxia-tea",
@@ -1201,13 +1211,13 @@
   ],
   "food/ah-po-iron-eggs": [
     "people/momofuku-ando-instant-noodle-inventor",
+    "food/portuguese-egg-tart-in-taiwan",
     "people/stan-shih",
     "food/taiwan-pastry-culture",
     "economy/imei-foods-corporation",
     "food/heysong-soft-drinks",
     "food/ba-wan-meatball",
-    "food/bubble-tea",
-    "food/apple-cider"
+    "food/bubble-tea"
   ],
   "food/apple-cider": [
     "food/taiwan-coffee-culture",
@@ -1406,8 +1416,18 @@
     "food/tainan-central-west-district-street-food-culture",
     "food/ah-po-iron-eggs",
     "food/beef-soup",
-    "people/li-chih-kai",
-    "food/pineapple-cake"
+    "society/taiwan-design-research-institute",
+    "people/li-chih-kai"
+  ],
+  "food/portuguese-egg-tart-in-taiwan": [
+    "lifestyle/cooperatives-in-taiwan",
+    "food/ah-po-iron-eggs",
+    "culture/national-palace-museum",
+    "food/bubble-tea",
+    "economy/net-night-economy-tourism",
+    "food/coffin-bread",
+    "food/taiwanese-noodle-culture",
+    "history/animal-protection-in-taiwan"
   ],
   "food/puli-shaoxing-wine": [
     "people/su-beng",
@@ -1466,8 +1486,8 @@
     "culture/national-theater-and-concert-hall",
     "society/betel-nut",
     "economy/want-want-group",
-    "geography/yongkang-street",
-    "history/yingge-ceramics-old-street"
+    "people/ma-ying-jeou-cross-strait-reconciliation-leader",
+    "geography/yongkang-street"
   ],
   "food/tainan-central-west-district-street-food-culture": [
     "food/beef-soup",
@@ -1600,14 +1620,14 @@
     "culture/guan-sheng-di-jun-belief"
   ],
   "art/alien-art-centre": [
+    "people/wu-ming-yi",
     "art/new-ecological-art-environment",
+    "people/au-sow-yee",
     "history/yingge-ceramics-old-street",
     "people/cheng-wen-chi",
     "geography/jinguashi",
     "people/li-mei-shu",
-    "geography/44-south-village",
-    "art/yingge-ceramics-museum",
-    "society/military-service-in-taiwan"
+    "geography/44-south-village"
   ],
   "art/chi-po-hao-musician": [
     "art/lin-ching-yao-artist",
@@ -1624,10 +1644,10 @@
     "people/lee-da-hye",
     "society/join-public-policy-platform",
     "culture/taiwan-paper-umbrella",
+    "society/taiwan-design-research-institute",
     "people/chiung-wi-vun",
     "lifestyle/taiwan-hairstyles",
-    "society/falun-gong-in-taiwan",
-    "society/social-movements-and-civic-participation"
+    "society/falun-gong-in-taiwan"
   ],
   "art/indigenous-literature": [
     "people/lee-teng-hui",
@@ -1647,27 +1667,27 @@
     "music/loh-tsui-kang-commune",
     "people/chen-chien-chi-music-producer",
     "people/chen-chun-liang-design-poet",
-    "people/lin-chi-wei-social-innovator"
+    "people/au-sow-yee"
   ],
   "art/new-ecological-art-environment": [
     "art/new-taipei-city-museum-of-art",
     "art/yingge-ceramics-museum",
+    "people/au-sow-yee",
     "art/taiwanese-curators-and-artistic-cultural-construction",
     "geography/yongkang-street",
     "culture/national-theater-and-concert-hall",
     "art/taiwanese-art-education-and-academic-development",
-    "people/cheng-wen-chi",
-    "history/yingge-ceramics-old-street"
+    "people/cheng-wen-chi"
   ],
   "art/new-taipei-city-museum-of-art": [
     "art/new-ecological-art-environment",
     "art/yingge-ceramics-museum",
     "history/yingge-ceramics-old-street",
+    "people/au-sow-yee",
+    "society/taiwan-design-research-institute",
     "people/cheng-wen-chi",
     "art/wang-lien-cheng-artist",
-    "culture/national-theater-and-concert-hall",
-    "geography/beida-special-district-sanxia",
-    "geography/taichung-city"
+    "culture/national-theater-and-concert-hall"
   ],
   "art/qseries-drama-platform": [
     "economy/taiwan-self-media-creator-economy",
@@ -1712,12 +1732,12 @@
   "art/taiwanese-curators-and-artistic-cultural-construction": [
     "art/taiwanese-art-education-and-academic-development",
     "art/new-ecological-art-environment",
+    "nature/taiwan-environmental-movement-history",
     "culture/taiwan-floral-fabric",
     "art/yingge-ceramics-museum",
     "technology/national-cultural-memory-bank",
-    "culture/taiwan-street-art-and-graffiti-culture",
-    "technology/wikipedia-in-taiwan",
-    "geography/urban-character-and-regional-culture"
+    "people/au-sow-yee",
+    "culture/taiwan-street-art-and-graffiti-culture"
   ],
   "art/taiwanese-modern-poetry": [
     "people/chen-shui-bian-controversial-president",
@@ -1770,14 +1790,14 @@
     "economy/chimei-corporation-plastics-empire-and-museum-dreams"
   ],
   "music/Taiwan Folk Music and Songs": [
+    "music/taiwan-screen-scoring-from-cinema-to-games",
     "music/choir",
     "people/stefanie-sun",
     "people/jam-hsiao",
     "lifestyle/bowling",
     "history/disney-and-taiwan",
     "society/falun-gong-in-taiwan",
-    "society/volunteering-and-civic-charity-in-taiwan",
-    "nature/taiwan-mountains-and-hiking-culture"
+    "society/volunteering-and-civic-charity-in-taiwan"
   ],
   "music/choir": [
     "music/loh-tsui-kang-commune",
@@ -1786,8 +1806,8 @@
     "society/falun-gong-in-taiwan",
     "music/fire-ex",
     "music/sorry-youth-band",
-    "music/taiwan-rock-from-underground-to-mainstream",
-    "art/taiwanese-theater-and-performing-arts"
+    "music/taiwan-screen-scoring-from-cinema-to-games",
+    "music/taiwan-rock-from-underground-to-mainstream"
   ],
   "music/eggplant-egg-band": [
     "society/falun-gong-in-taiwan",
@@ -1881,13 +1901,23 @@
   ],
   "music/taiwan-rock-from-underground-to-mainstream": [
     "history/taiwan-forestry-history",
+    "nature/taiwan-environmental-movement-history",
     "society/environmental-awakening-and-net-zero-transition",
     "music/choir",
     "music/ktv-culture",
     "music/loh-tsui-kang-commune",
     "history/qing-dynasty-rule",
-    "society/media-and-press-freedom-in-taiwan",
-    "people/zhu-zong-qing"
+    "society/media-and-press-freedom-in-taiwan"
+  ],
+  "music/taiwan-screen-scoring-from-cinema-to-games": [
+    "music/Taiwan Folk Music and Songs",
+    "music/loh-tsui-kang-commune",
+    "people/lim-giong",
+    "people/jam-hsiao",
+    "music/choir",
+    "people/ang-lee",
+    "people/lala-hsu-singer",
+    "people/chen-chien-chi-music-producer"
   ],
   "music/village-armed-youth": [
     "people/teresa-teng",
@@ -1908,6 +1938,16 @@
     "economy/foxconn-precision-industry",
     "lifestyle/convenience-store-culture",
     "economy/giant-manufacturing-taiwan-bicycle-empire"
+  ],
+  "technology/artificial-intelligence-development-strategy": [
+    "technology/taiwan-ai-labs",
+    "technology/taiwan-ai-academy",
+    "economy/top-50-companies-taiwan",
+    "economy/tsmc",
+    "technology/computex",
+    "people/ethan-tu",
+    "technology/taiwan-semiconductor-industry",
+    "people/samuel-yin-yan-liang"
   ],
   "technology/artificial-intelligence-industry": [
     "economy/taiwanese-companies-realtek-semiconductor",
@@ -1932,12 +1972,12 @@
   "technology/computex": [
     "people/stan-shih",
     "geography/taipei-101",
+    "technology/artificial-intelligence-development-strategy",
     "economy/tsmc",
     "people/ethan-tu",
     "art/lin-ching-yao-artist",
     "economy/top-50-companies-taiwan",
-    "economy/delta-electronics-taiwan-power-giant",
-    "art/wang-lien-cheng-artist"
+    "economy/delta-electronics-taiwan-power-giant"
   ],
   "technology/e-commerce-and-digital-payment-ecosystem": [
     "economy/delta-electronics-taiwan-power-giant",
@@ -2046,8 +2086,8 @@
     "economy/taiwan-agriculture-and-rural-revitalization",
     "society/sport-stacking",
     "economy/agricultural-technology-and-refined-agriculture",
-    "economy/tsmc",
-    "economy/acer-pc-industry-pioneer"
+    "society/taiwan-design-research-institute",
+    "economy/tsmc"
   ],
   "technology/semiconductor-water-use-and-taiwan-water-resources": [
     "geography/taiwan-reservoirs-and-water-resource-management",
@@ -2086,18 +2126,18 @@
     "economy/tsmc",
     "people/chi-huai-hsin",
     "society/encyclopedia-of-taiwan",
-    "people/lin-chi-wei-social-innovator",
-    "people/huang-guang-xiong-educator"
+    "technology/artificial-intelligence-development-strategy",
+    "people/lin-chi-wei-social-innovator"
   ],
   "technology/taiwan-ai-labs": [
     "technology/taiwan-ai-academy",
     "people/ethan-tu",
     "culture/taiwan-meme-culture",
+    "technology/artificial-intelligence-development-strategy",
     "technology/yam-yam-taiwan-portal",
     "society/encyclopedia-of-taiwan",
     "society/join-public-policy-platform",
-    "art/lin-ching-yao-artist",
-    "economy/imei-foods-corporation"
+    "art/lin-ching-yao-artist"
   ],
   "technology/taiwan-cybersecurity-industry-development": [
     "technology/taiwan-software-industry-development",
@@ -2204,10 +2244,10 @@
     "economy/delta-electronics-taiwan-power-giant",
     "culture/taiwan-church-news",
     "society/media-and-press-freedom-in-taiwan",
+    "politics/taiwan-election-process",
     "culture/taiwanese-glove-puppetry-budaixi",
     "lifestyle/mtv-rooms-taiwan",
-    "technology/ptt-bulletin-board-system",
-    "art/taiwanese-art-education-and-academic-development"
+    "technology/ptt-bulletin-board-system"
   ],
   "technology/tale-of-wuxia-pre-sequel": [
     "technology/chuanqi-net-and-taiwan-online-gaming",
@@ -2226,8 +2266,8 @@
     "culture/taiwan-temple-festivals-and-performance-troupes",
     "society/united-front-tour-groups",
     "culture/national-theater-and-concert-hall",
-    "music/megaport-festival",
-    "society/encyclopedia-of-taiwan"
+    "society/taiwan-design-research-institute",
+    "music/megaport-festival"
   ],
   "technology/threads-in-taiwan": [
     "technology/instagram-in-taiwan",
@@ -2272,22 +2312,22 @@
   "nature/bird-window-collision-taiwan": [
     "nature/endemic-species",
     "nature/taiwan-marine-ecology-and-coral-conservation",
+    "society/stray-animal-culture",
     "nature/taiwanese-black-bear",
     "nature/taiwanese-leopard-cat-conservation",
     "geography/taiwan-biodiversity-hotspots",
     "nature/eurasian-otter-in-taiwan",
-    "nature/malayan-night-heron",
-    "nature/taiwan-pangolin"
+    "nature/malayan-night-heron"
   ],
   "nature/black-faced-spoonbill": [
     "culture/islam-in-taiwan",
     "nature/taiwanese-black-bear",
     "culture/indigenous-peoples-16-tribes-cultural-map",
+    "society/stray-animal-culture",
     "society/migrant-workers-in-taiwan",
     "nature/malayan-night-heron",
     "geography/taiwan-biodiversity-hotspots",
-    "nature/formosan-landlocked-salmon",
-    "nature/taiwan-marine-ecology"
+    "nature/formosan-landlocked-salmon"
   ],
   "nature/endemic-species": [
     "nature/taiwan-marine-ecology-and-coral-conservation",
@@ -2419,6 +2459,16 @@
     "nature/malayan-night-heron",
     "food/mingjian-puchung-tea"
   ],
+  "nature/taiwan-environmental-movement-history": [
+    "society/environmental-awakening-and-net-zero-transition",
+    "economy/taiwan-startup-ecosystem-overview",
+    "society/taiwan-environmental-justice-nimby-conflicts",
+    "society/social-movements-and-civic-participation",
+    "society/taiwan-nuclear-debate",
+    "history/taiwan-forestry-history",
+    "economy/circular-economy-and-resource-recycling",
+    "music/taiwan-rock-from-underground-to-mainstream"
+  ],
   "nature/taiwan-forest-ecosystems": [
     "nature/taiwan-alpine-ecosystems-glacial-relicts",
     "nature/island-summits-and-seas-taiwan-national-parks-ecology-and-landscapes",
@@ -2501,13 +2551,13 @@
   ],
   "nature/taiwanese-leopard-cat-conservation": [
     "nature/taiwanese-black-bear",
+    "society/stray-animal-culture",
     "nature/taiwan-pangolin",
     "nature/formosan-sambar-deer",
     "geography/taiwan-biodiversity-hotspots",
     "nature/bird-window-collision-taiwan",
     "history/animal-protection-in-taiwan",
-    "nature/endemic-species",
-    "nature/taiwan-blue-magpie"
+    "nature/endemic-species"
   ],
   "nature/tawny-fish-owl": [
     "nature/formosan-sambar-deer",
@@ -2571,13 +2621,13 @@
   ],
   "people/ang-lee": [
     "people/yang-dechang",
+    "music/taiwan-screen-scoring-from-cinema-to-games",
     "people/andre-chiang-taiwanese-culinary-innovator",
     "people/li-mei-shu",
     "people/a-han",
     "people/hou-hsiao-hsien",
     "people/huang-shao-yong-musician",
-    "people/chou-tien-chen-badminton",
-    "economy/want-want-group"
+    "people/chou-tien-chen-badminton"
   ],
   "people/annette-lu": [
     "history/taiwan-democratization-history",
@@ -2598,6 +2648,16 @@
     "people/ricky-hsiao-singer",
     "art/wang-lien-cheng-artist",
     "people/vh-band"
+  ],
+  "people/au-sow-yee": [
+    "people/cheng-wen-chi",
+    "art/new-ecological-art-environment",
+    "art/taiwanese-curators-and-artistic-cultural-construction",
+    "people/li-mei-shu",
+    "art/lin-ching-yao-artist",
+    "art/new-taipei-city-museum-of-art",
+    "people/ray-du-english-youtuber",
+    "technology/threads-in-taiwan"
   ],
   "people/barbie-hsu-actress": [
     "economy/asus-computer",
@@ -2642,12 +2702,12 @@
   "people/chen-cheng-po": [
     "people/chiang-kai-shek",
     "people/san-mao",
+    "history/indigenous-peoples-history-and-naming-movement",
     "geography/yongkang-street",
     "people/tzuyu",
     "people/zheng-nanrong",
     "people/chen-chien-chi-music-producer",
-    "culture/renjian-magazine",
-    "people/huang-yu-chiao-democracy-elder"
+    "culture/renjian-magazine"
   ],
   "people/chen-chien-chi-music-producer": [
     "people/cheng-i-nung",
@@ -2737,7 +2797,7 @@
     "nature/typhoons-in-taiwan",
     "people/chiang-kai-shek",
     "people/chen-cheng-po",
-    "people/zheng-nanrong"
+    "people/li-zongsheng"
   ],
   "people/cheng-i-nung": [
     "people/chen-chien-chi-music-producer",
@@ -2750,14 +2810,14 @@
     "people/lim-giong"
   ],
   "people/cheng-wen-chi": [
+    "people/au-sow-yee",
     "art/taiwanese-theater-and-performing-arts",
     "art/new-ecological-art-environment",
     "people/li-mei-shu",
     "art/lin-ching-yao-artist",
     "people/chen-yingzhen",
     "art/qseries-drama-platform",
-    "people/liao-hung-chi-ocean-writer",
-    "people/yu-yong-he"
+    "people/liao-hung-chi-ocean-writer"
   ],
   "people/chi-huai-hsin": [
     "technology/taiwan-ai-academy",
@@ -2770,14 +2830,14 @@
     "society/the-buffet-aunties-intuitive-pricing"
   ],
   "people/chi-huey-wong-glycoscience-pioneer": [
+    "technology/artificial-intelligence-development-strategy",
     "people/lin-chi-wei-social-innovator",
     "people/chiung-wi-vun",
     "people/lee-yuan-tseh",
     "people/kuo-cheng-kuang",
     "music/loh-tsui-kang-commune",
     "people/huang-guang-xiong-educator",
-    "art/wang-lien-cheng-artist",
-    "people/chiu-chi-hung-physicist"
+    "art/wang-lien-cheng-artist"
   ],
   "people/chi-po-lin": [
     "people/he-feipeng",
@@ -2824,10 +2884,10 @@
     "people/chiang-wei-shui",
     "music/fire-ex",
     "people/nymphia-wind-drag-queen",
+    "history/indigenous-peoples-history-and-naming-movement",
     "society/volunteering-and-civic-charity-in-taiwan",
     "economy/taiwan-self-media-creator-economy",
-    "art/taiwanese-theater-and-performing-arts",
-    "people/su-beng"
+    "art/taiwanese-theater-and-performing-arts"
   ],
   "people/cho-jung-tai": [
     "people/lai-ching-te",
@@ -2903,11 +2963,11 @@
     "people/lim-giong",
     "people/tzuyu",
     "music/sorry-youth-band",
+    "people/li-zongsheng",
     "people/jody-chiang",
     "people/zhu-zong-qing",
     "people/shen-sheng-po",
-    "people/fujui-wang",
-    "people/crowd-lu-indie-folk-treasure"
+    "people/fujui-wang"
   ],
   "people/du-congming-founder-of-modern-medicine-in-taiwan": [
     "people/chiang-wei-shui",
@@ -2954,10 +3014,10 @@
     "people/yu-yong-he",
     "food/heysong-soft-drinks",
     "geography/jinguashi",
+    "history/indigenous-peoples-history-and-naming-movement",
     "economy/tsmc",
     "nature/taiwan-mountains-and-hiking-culture",
-    "geography/how-to-read-the-taiwan-map",
-    "people/du-congming-founder-of-modern-medicine-in-taiwan"
+    "geography/how-to-read-the-taiwan-map"
   ],
   "people/hatta-yoichi": [
     "geography/taiwan-reservoirs-and-water-resource-management",
@@ -3117,7 +3177,7 @@
     "people/lala-hsu-singer",
     "music/Taiwan Folk Music and Songs",
     "people/lim-giong",
-    "music/loh-tsui-kang-commune"
+    "music/taiwan-screen-scoring-from-cinema-to-games"
   ],
   "people/jay-chou": [
     "people/lim-giong",
@@ -3207,7 +3267,7 @@
     "history/taiwan-democratization",
     "people/annette-lu",
     "people/ko-wen-je",
-    "society/volunteering-and-civic-charity-in-taiwan"
+    "people/ma-ying-jeou-cross-strait-reconciliation-leader"
   ],
   "people/kevin-lin-ultramarathon-desert-pioneer": [
     "people/yang-you-ren-shoes-for-hope-taiwan-youth-hero",
@@ -3224,10 +3284,10 @@
     "people/su-chiao-hui",
     "people/su-tseng-chang",
     "people/kao-chun-ming",
+    "people/ma-ying-jeou-cross-strait-reconciliation-leader",
     "people/ji-lin-lian",
     "people/shao-you-lian",
-    "society/taiwan-public-health-epidemic-response",
-    "people/lai-ching-te"
+    "society/taiwan-public-health-epidemic-response"
   ],
   "people/kuo-cheng-kuang": [
     "people/steve-chang",
@@ -3336,8 +3396,8 @@
     "people/chen-shui-bian-controversial-president",
     "people/annette-lu",
     "society/taiwan-unification-independence-spectrum",
-    "art/taiwanese-theater-and-performing-arts",
-    "people/su-chiao-hui"
+    "people/ma-ying-jeou-cross-strait-reconciliation-leader",
+    "art/taiwanese-theater-and-performing-arts"
   ],
   "people/lee-yuan-tseh": [
     "people/lai-ching-te",
@@ -3360,14 +3420,24 @@
     "people/wu-bao-chun"
   ],
   "people/li-mei-shu": [
+    "people/au-sow-yee",
     "people/cheng-wen-chi",
+    "people/wu-ming-yi",
     "culture/jiutian-xuannu-belief",
     "society/military-service-in-taiwan",
     "people/sun-yun-suan",
     "technology/rayark-games",
-    "culture/taiwan-paper-umbrella",
-    "art/new-ecological-art-environment",
-    "society/volunteering-and-civic-charity-in-taiwan"
+    "culture/taiwan-paper-umbrella"
+  ],
+  "people/li-zongsheng": [
+    "people/david-wong",
+    "people/sylvia-chang",
+    "people/stan-lai-theater-innovation-master",
+    "people/lim-giong",
+    "people/yang-dechang",
+    "music/fire-ex",
+    "people/teresa-teng",
+    "music/sorry-youth-band"
   ],
   "people/liao-hung-chi-ocean-writer": [
     "people/yu-yong-he",
@@ -3384,10 +3454,10 @@
     "music/fire-ex",
     "art/taiwanese-theater-and-performing-arts",
     "music/sorry-youth-band",
+    "people/li-zongsheng",
     "society/sport-stacking",
     "culture/dcard-taiwan-social-platform",
-    "people/pa-chiung-political-youtuber",
-    "people/jin-enoki"
+    "people/pa-chiung-political-youtuber"
   ],
   "people/lim-giong": [
     "people/jay-chou",
@@ -3414,10 +3484,10 @@
     "people/chiung-wi-vun",
     "music/fire-ex",
     "culture/renjian-magazine",
+    "people/wu-ming-yi",
     "people/san-mao",
     "people/david-wong",
-    "people/chen-chun-liang-design-poet",
-    "people/chiang-wei-shui"
+    "people/chen-chun-liang-design-poet"
   ],
   "people/lin-yi-hsiung-democracy-advocate-tragedy-survivor": [
     "art/lin-ching-yao-artist",
@@ -3469,6 +3539,16 @@
     "people/zhu-zong-qing",
     "society/teach-for-taiwan"
   ],
+  "people/ma-ying-jeou-cross-strait-reconciliation-leader": [
+    "society/thinking-taiwan-forum",
+    "society/taiwan-unification-independence-spectrum",
+    "people/chen-shui-bian-controversial-president",
+    "people/stanley-yen",
+    "people/su-tseng-chang",
+    "society/taiwan-diplomatic-allies-and-international-relations",
+    "people/kao-chun-ming",
+    "society/ma-ying-jeou-meme"
+  ],
   "people/mavis-fan-singer": [
     "people/david-wong",
     "people/lim-giong",
@@ -3496,8 +3576,8 @@
     "history/yuan-xing-cattle-beef-soup-history",
     "society/volunteering-and-civic-charity-in-taiwan",
     "art/taiwanese-modern-poetry",
-    "culture/indigenous-language-revitalization-movement",
-    "people/cheng-chou-yu-poet"
+    "people/wu-ming-yi",
+    "culture/indigenous-language-revitalization-movement"
   ],
   "people/muscle-mountain": [
     "lifestyle/convenience-store-culture",
@@ -3535,9 +3615,9 @@
     "society/thinking-taiwan-forum",
     "people/ji-lin-lian",
     "people/huang-yu-chiao-democracy-elder",
+    "people/ma-ying-jeou-cross-strait-reconciliation-leader",
     "economy/delta-electronics-taiwan-power-giant",
-    "people/tzuyu",
-    "people/potter-king-youtuber"
+    "people/tzuyu"
   ],
   "people/park-min-seo": [
     "people/nam-min-jung",
@@ -3605,19 +3685,19 @@
     "people/san-mao",
     "people/hung-hsing-fu",
     "people/stanley-yen",
+    "people/ma-ying-jeou-cross-strait-reconciliation-leader",
     "people/yu-yong-he",
-    "art/taiwanese-theater-and-performing-arts",
-    "culture/renjian-magazine"
+    "art/taiwanese-theater-and-performing-arts"
   ],
   "people/samuel-yin-yan-liang": [
     "people/yang-shen-keng-educator",
     "technology/taiwan-ai-academy",
+    "technology/artificial-intelligence-development-strategy",
     "people/lee-yuan-tseh",
     "culture/taiwan-funeral-culture-and-death-views",
     "society/teach-for-taiwan",
     "people/huang-guang-xiong-educator",
-    "people/liu-an-ting-teach-for-taiwan",
-    "people/yang-you-ren-shoes-for-hope-taiwan-youth-hero"
+    "people/liu-an-ting-teach-for-taiwan"
   ],
   "people/san-mao": [
     "people/hung-hsing-fu",
@@ -3672,12 +3752,12 @@
   "people/stan-lai-theater-innovation-master": [
     "people/lai-ching-te",
     "people/lee-yuan-tseh",
+    "people/li-zongsheng",
     "people/lin-yi-hsiung-democracy-advocate-tragedy-survivor",
     "art/lin-ching-yao-artist",
     "people/lin-chi-wei-social-innovator",
     "people/chen-chien-chi-music-producer",
-    "art/chi-po-hao-musician",
-    "art/taiwanese-theater-and-performing-arts"
+    "art/chi-po-hao-musician"
   ],
   "people/stan-shih": [
     "economy/acer-pc-industry-pioneer",
@@ -3690,14 +3770,14 @@
     "economy/giant-manufacturing-taiwan-bicycle-empire"
   ],
   "people/stanley-yen": [
+    "people/ma-ying-jeou-cross-strait-reconciliation-leader",
     "people/andre-chiang-taiwanese-culinary-innovator",
     "economy/evergreen-marine",
     "economy/tsmc",
     "people/liu-an-ting-teach-for-taiwan",
     "people/stan-shih",
     "people/yang-dechang",
-    "art/new-ecological-art-environment",
-    "people/steve-chen-youtube-cofounder"
+    "art/new-ecological-art-environment"
   ],
   "people/stefanie-sun": [
     "people/tanya-chua-singer",
@@ -3772,12 +3852,12 @@
   "people/sylvia-chang": [
     "people/cheng-i-nung",
     "people/chen-chien-chi-music-producer",
+    "people/li-zongsheng",
     "people/lim-giong",
     "people/david-wong",
     "people/stefanie-sun",
     "people/lala-hsu-singer",
-    "people/tanya-chua-singer",
-    "music/sorry-youth-band"
+    "people/tanya-chua-singer"
   ],
   "people/tai-tzu-ying": [
     "people/chou-tien-chen-badminton",
@@ -3816,8 +3896,8 @@
     "people/huang-yu-chiao-democracy-elder",
     "history/taiwan-democratization-history",
     "people/david-wong",
-    "people/pa-chiung-political-youtuber",
-    "people/chiang-kai-shek"
+    "people/li-zongsheng",
+    "people/pa-chiung-political-youtuber"
   ],
   "people/tony-hsiao-inside-founder": [
     "technology/facebook-in-taiwan",
@@ -3830,14 +3910,14 @@
     "society/thinking-taiwan-forum"
   ],
   "people/tsai-ing-wen": [
+    "politics/taiwan-election-process",
     "people/chen-shui-bian-controversial-president",
     "society/taiwan-diplomatic-allies-and-international-relations",
     "history/great-recall-movement-2024",
     "society/taiwan-nuclear-debate",
     "economy/delta-electronics-taiwan-power-giant",
     "society/thinking-taiwan-forum",
-    "people/nymphia-wind-drag-queen",
-    "society/taiwan-low-birth-rate-crisis"
+    "people/nymphia-wind-drag-queen"
   ],
   "people/tsai-ming-liang": [
     "people/cheng-wen-chi",
@@ -3905,9 +3985,9 @@
     "people/he-feipeng",
     "people/ray-youtuber",
     "technology/justfont-and-taiwan-typography",
+    "people/wu-ming-yi",
     "people/a-han",
-    "society/taiwan-slash-generation-multi-job-economy",
-    "people/steve-chen-youtube-cofounder"
+    "society/taiwan-slash-generation-multi-job-economy"
   ],
   "people/wu-bao-chun": [
     "food/ba-wan-meatball",
@@ -3920,14 +4000,14 @@
     "food/oil-rice"
   ],
   "people/wu-ming-yi": [
-    "music/Taiwan Folk Music and Songs",
+    "geography/wuqiu",
+    "people/yu-yong-he",
+    "people/li-mei-shu",
     "people/lin-hwai-min",
-    "art/taiwanese-theater-and-performing-arts",
-    "people/lu-yen-hsun-tennis-champion",
-    "economy/taiwan-self-media-creator-economy",
-    "people/chiung-wi-vun",
-    "people/hung-hsing-fu",
-    "people/wanwan-taiwan-blog-cartoonist"
+    "people/wanwan-taiwan-blog-cartoonist",
+    "art/alien-art-centre",
+    "art/taiwanese-architecture",
+    "culture/lunar-july-ghost-month"
   ],
   "people/xu-wen-long-chimei-founder-violin-entrepreneur": [
     "economy/chimei-corporation-plastics-empire-and-museum-dreams",
@@ -3964,10 +4044,10 @@
     "people/huang-guang-xiong-educator",
     "people/shen-sheng-po",
     "people/huang-shao-yong-musician",
+    "people/ma-ying-jeou-cross-strait-reconciliation-leader",
     "people/yang-you-ren-shoes-for-hope-taiwan-youth-hero",
     "people/stanley-yen",
-    "people/chuang-chih-yuan-table-tennis-legend",
-    "technology/taiwan-ai-academy"
+    "people/chuang-chih-yuan-table-tennis-legend"
   ],
   "people/yang-you-ren-shoes-for-hope-taiwan-youth-hero": [
     "people/yang-dai-kang-taiwanese-baseball-star-in-japan",
@@ -4031,13 +4111,13 @@
   ],
   "people/yu-yong-he": [
     "people/lai-ho-father-of-taiwanese-literature",
+    "people/wu-ming-yi",
     "people/du-congming-founder-of-modern-medicine-in-taiwan",
     "people/liao-hung-chi-ocean-writer",
     "geography/qingshui-cliff",
     "people/huang-yu-chiao-democracy-elder",
     "people/chiang-wei-shui",
-    "history/taiwan-emigration-history",
-    "nature/taiwan-mountains-and-hiking-culture"
+    "history/taiwan-emigration-history"
   ],
   "people/zheng-nanrong": [
     "history/taiwan-democratization",
@@ -4072,12 +4152,22 @@
   "politics/political-donation-transparency": [
     "society/join-public-policy-platform",
     "society/taiwan-political-landscape-and-electoral-system",
+    "politics/taiwan-election-process",
     "society/thinking-taiwan-forum",
     "history/bipartisan-good-policy",
     "technology/taiwan-open-source-spirit",
     "people/hsu-mei-hua-financial-commentator",
-    "culture/plurk-taiwan-microblog",
-    "lifestyle/cooperatives-in-taiwan"
+    "culture/plurk-taiwan-microblog"
+  ],
+  "politics/taiwan-election-process": [
+    "society/taiwan-political-landscape-and-electoral-system",
+    "history/great-recall-movement-2024",
+    "people/tsai-ing-wen",
+    "society/join-public-policy-platform",
+    "society/media-and-press-freedom-in-taiwan",
+    "technology/taiwan-television-industry-history",
+    "people/chen-shui-bian-controversial-president",
+    "society/taiwan-nuclear-debate"
   ],
   "society/betel-nut": [
     "technology/facebook-in-taiwan",
@@ -4120,14 +4210,14 @@
     "technology/taiwan-ai-academy"
   ],
   "society/environmental-awakening-and-net-zero-transition": [
+    "nature/taiwan-environmental-movement-history",
     "lifestyle/taiwan-recycling-and-circular-living-culture",
     "economy/taiwan-startup-ecosystem-overview",
     "economy/industrial-transformation-from-manufacturing-to-innovation",
     "history/animal-protection-in-taiwan",
     "nature/taiwan-forest-ecosystems",
     "society/taiwan-environmental-justice-nimby-conflicts",
-    "economy/circular-economy-and-resource-recycling",
-    "economy/taiwanese-companies-far-eastern-group"
+    "economy/circular-economy-and-resource-recycling"
   ],
   "society/falun-gong-in-taiwan": [
     "music/fire-ex",
@@ -4157,7 +4247,7 @@
     "culture/taiwanese-life-ceremony-traditions",
     "society/media-and-press-freedom-in-taiwan",
     "society/taiwan-political-landscape-and-electoral-system",
-    "society/inclusive-travel-taiwan"
+    "politics/taiwan-election-process"
   ],
   "society/inclusive-travel-taiwan": [
     "lifestyle/convenience-store-culture",
@@ -4171,13 +4261,13 @@
   ],
   "society/join-public-policy-platform": [
     "technology/taiwan-open-source-spirit",
+    "politics/taiwan-election-process",
     "technology/national-cultural-memory-bank",
     "lifestyle/line-app-in-taiwan",
     "technology/wikipedia-in-taiwan",
     "society/taiwan-nuclear-debate",
     "society/taiwan-political-landscape-and-electoral-system",
-    "technology/facebook-in-taiwan",
-    "technology/ptt-bulletin-board-system"
+    "technology/facebook-in-taiwan"
   ],
   "society/kuma-academy-civil-defense-school": [
     "society/volunteering-and-civic-charity-in-taiwan",
@@ -4224,20 +4314,20 @@
     "lifestyle/taiwan-hairstyles",
     "culture/taiwan-prime-time-drama",
     "culture/elder-greeting-images",
+    "people/ma-ying-jeou-cross-strait-reconciliation-leader",
     "people/tony-hsiao-inside-founder",
     "culture/taiwan-anime-culture",
-    "people/nymphia-wind-drag-queen",
-    "technology/threads-in-taiwan"
+    "people/nymphia-wind-drag-queen"
   ],
   "society/media-and-press-freedom-in-taiwan": [
+    "politics/taiwan-election-process",
     "culture/taiwan-street-art-and-graffiti-culture",
     "technology/taiwan-television-industry-history",
     "history/martial-law-era",
     "society/social-movements-and-civic-participation",
     "society/taiwan-political-landscape-and-electoral-system",
-    "society/human-rights-and-gender-equality",
-    "society/taiwan-diplomatic-allies-and-international-relations",
-    "economy/taiwan-international-trade-policy"
+    "nature/taiwan-environmental-movement-history",
+    "society/human-rights-and-gender-equality"
   ],
   "society/migrant-workers-in-taiwan": [
     "society/taiwanese-overseas-and-diaspora",
@@ -4261,13 +4351,13 @@
   ],
   "society/social-movements-and-civic-participation": [
     "society/human-rights-and-gender-equality",
+    "nature/taiwan-environmental-movement-history",
     "society/taiwan-neighborhood-and-li-culture",
     "society/lgbtq-in-taiwan",
     "technology/facebook-in-taiwan",
     "society/taiwan-marriage-equality-lgbtq-rights",
     "society/inclusive-travel-taiwan",
-    "culture/taiwanese-life-ceremony-traditions",
-    "society/media-and-press-freedom-in-taiwan"
+    "culture/taiwanese-life-ceremony-traditions"
   ],
   "society/sport-stacking": [
     "lifestyle/bowling",
@@ -4279,15 +4369,25 @@
     "technology/into-the-cellar-taiwan-game-podcast",
     "economy/delta-electronics-taiwan-power-giant"
   ],
+  "society/stray-animal-culture": [
+    "history/animal-protection-in-taiwan",
+    "nature/taiwanese-leopard-cat-conservation",
+    "nature/bird-window-collision-taiwan",
+    "society/taiwan-teacher-discipline-dilemma",
+    "culture/taiwan-furry-culture",
+    "society/volunteering-and-civic-charity-in-taiwan",
+    "nature/national-parks",
+    "society/taipei-rat-problem"
+  ],
   "society/taipei-rat-problem": [
+    "society/stray-animal-culture",
     "society/taiwan-public-health-epidemic-response",
     "history/animal-protection-in-taiwan",
     "culture/taiwan-funeral-culture-and-death-views",
     "culture/taiwan-church-news",
     "geography/taichung-city",
     "nature/bird-window-collision-taiwan",
-    "nature/taiwan-marine-conservation-challenges",
-    "history/yuan-xing-cattle-beef-soup-history"
+    "history/indigenous-peoples-history-and-naming-movement"
   ],
   "society/taiwan-cram-school-culture": [
     "lifestyle/cooperatives-in-taiwan",
@@ -4309,6 +4409,16 @@
     "economy/foxconn-precision-industry",
     "society/long-term-care-system-development"
   ],
+  "society/taiwan-design-research-institute": [
+    "society/join-public-policy-platform",
+    "technology/science-park-development",
+    "geography/linkou-new-town",
+    "technology/taiwan-ai-labs",
+    "culture/shopping-design",
+    "economy/pxmart-supermarket",
+    "society/environmental-awakening-and-net-zero-transition",
+    "art/lin-ching-yao-artist"
+  ],
   "society/taiwan-diplomatic-allies-and-international-relations": [
     "society/taiwan-unification-independence-spectrum",
     "history/withdrawal-from-united-nations",
@@ -4317,17 +4427,17 @@
     "people/tsai-ing-wen",
     "history/1895-taiwan-resistance-war",
     "society/taiwan-political-landscape-and-electoral-system",
-    "society/taiwan-eswatini-relations"
+    "politics/taiwan-election-process"
   ],
   "society/taiwan-environmental-justice-nimby-conflicts": [
+    "nature/taiwan-environmental-movement-history",
     "society/environmental-awakening-and-net-zero-transition",
     "economy/taiwan-startup-ecosystem-overview",
     "geography/taiwan-reservoirs-and-water-resource-management",
     "society/taiwan-nuclear-debate",
     "technology/semiconductor-water-use-and-taiwan-water-resources",
     "nature/taiwan-alpine-ecosystems-glacial-relicts",
-    "society/human-rights-and-gender-equality",
-    "economy/circular-economy-and-resource-recycling"
+    "society/human-rights-and-gender-equality"
   ],
   "society/taiwan-eswatini-relations": [
     "society/taiwan-diplomatic-allies-and-international-relations",
@@ -4357,17 +4467,17 @@
     "society/taiwan-teacher-discipline-dilemma",
     "society/taiwan-public-health-epidemic-response",
     "history/taiwan-white-terror",
-    "society/media-and-press-freedom-in-taiwan"
+    "politics/taiwan-election-process"
   ],
   "society/taiwan-lithuania": [
     "society/taiwan-political-landscape-and-electoral-system",
+    "politics/taiwan-election-process",
     "society/join-public-policy-platform",
     "society/taiwan-unification-independence-spectrum",
     "economy/taiwan-international-trade-policy",
     "economy/industrial-transformation-from-manufacturing-to-innovation",
     "society/taiwan-diplomatic-allies-and-international-relations",
-    "society/taiwan-nuclear-debate",
-    "history/taiwan-north-korea-relations"
+    "society/taiwan-nuclear-debate"
   ],
   "society/taiwan-low-birth-rate-crisis": [
     "people/tsai-ing-wen",
@@ -4375,9 +4485,9 @@
     "society/learning-poverty-in-taiwan",
     "geography/taiwan-reservoirs-and-water-resource-management",
     "culture/taiwanese-homophone-taboos",
+    "society/stray-animal-culture",
     "food/taiwan-rice-cuisine-culture",
-    "society/taiwan-tin-shed-houses",
-    "society/volunteering-and-civic-charity-in-taiwan"
+    "society/taiwan-tin-shed-houses"
   ],
   "society/taiwan-marriage-equality-lgbtq-rights": [
     "society/human-rights-and-gender-equality",
@@ -4401,23 +4511,23 @@
   ],
   "society/taiwan-nuclear-debate": [
     "history/great-recall-movement-2024",
+    "nature/taiwan-environmental-movement-history",
     "history/bipartisan-good-policy",
+    "politics/taiwan-election-process",
     "society/join-public-policy-platform",
     "society/environmental-awakening-and-net-zero-transition",
     "society/taiwan-unification-independence-spectrum",
-    "people/tsai-ing-wen",
-    "society/taiwan-political-landscape-and-electoral-system",
-    "economy/circular-economy-and-resource-recycling"
+    "people/tsai-ing-wen"
   ],
   "society/taiwan-political-landscape-and-electoral-system": [
+    "politics/taiwan-election-process",
     "society/education-system-and-admissions-culture",
     "geography/taiwan-five-major-landforms-and-geographic-structure",
     "geography/administrative-divisions-of-taiwan",
     "people/chen-shui-bian-controversial-president",
     "economy/industrial-transformation-from-manufacturing-to-innovation",
     "society/taiwan-lithuania",
-    "geography/taiwan-reservoirs-and-water-resource-management",
-    "society/join-public-policy-platform"
+    "geography/taiwan-reservoirs-and-water-resource-management"
   ],
   "society/taiwan-provincial-tensions": [
     "geography/urban-character-and-regional-culture",
@@ -4436,8 +4546,8 @@
     "technology/taiwan-disaster-medicine-system",
     "history/social-movements-during-japanese-rule",
     "history/taiwan-transitional-justice",
-    "history/great-recall-movement-2024",
-    "history/taiwan-democratization"
+    "society/stray-animal-culture",
+    "history/great-recall-movement-2024"
   ],
   "society/taiwan-slash-generation-multi-job-economy": [
     "economy/taiwan-self-media-creator-economy",
@@ -4455,9 +4565,9 @@
     "society/history-of-taiwan-school-counseling",
     "society/taiwan-judicial-reform-and-preventive-detention",
     "society/teach-for-taiwan",
+    "society/stray-animal-culture",
     "society/learning-poverty-in-taiwan",
-    "lifestyle/cooperatives-in-taiwan",
-    "lifestyle/taiwan-hairstyles"
+    "lifestyle/cooperatives-in-taiwan"
   ],
   "society/taiwan-tin-shed-houses": [
     "history/eight-immortals-dust-explosion",
@@ -4486,8 +4596,8 @@
     "history/taiwan-island-historiography",
     "society/taiwan-political-landscape-and-electoral-system",
     "geography/administrative-divisions-of-taiwan",
-    "history/taiwan-democratization-history",
-    "economy/delta-electronics-taiwan-power-giant"
+    "people/ma-ying-jeou-cross-strait-reconciliation-leader",
+    "history/taiwan-democratization-history"
   ],
   "society/taiwan-youth-career-confusion": [
     "society/education-system-and-admissions-culture",
@@ -4525,19 +4635,19 @@
     "technology/ptt-bulletin-board-system",
     "people/stan-shih",
     "food/taiwan-indigenous-foodways",
+    "technology/artificial-intelligence-development-strategy",
     "technology/taiwan-ai-academy",
-    "technology/taiwan-ai-labs",
-    "culture/taiwanese-homophone-taboos"
+    "technology/taiwan-ai-labs"
   ],
   "society/thinking-taiwan-forum": [
     "people/ji-lin-lian",
+    "people/ma-ying-jeou-cross-strait-reconciliation-leader",
     "people/pa-chiung-political-youtuber",
     "people/tsai-ing-wen",
     "people/chen-shui-bian-controversial-president",
     "people/huang-yu-chiao-democracy-elder",
     "history/taiwan-democratization-history",
-    "people/tony-hsiao-inside-founder",
-    "society/taiwan-unification-independence-spectrum"
+    "people/tony-hsiao-inside-founder"
   ],
   "society/tiktok-in-taiwan": [
     "history/psychological-warfare",
@@ -4594,10 +4704,10 @@
     "lifestyle/taiwan-parks-and-everyday-leisure",
     "culture/lunar-july-ghost-month",
     "geography/qingtiangang",
+    "society/stray-animal-culture",
     "nature/formosan-sambar-deer",
     "art/taiwanese-curators-and-artistic-cultural-construction",
-    "culture/taiwan-furry-culture",
-    "society/taiwan-tv-content-rating-system"
+    "culture/taiwan-furry-culture"
   ],
   "economy/acer-pc-industry-pioneer": [
     "people/stan-shih",
@@ -4657,7 +4767,7 @@
     "economy/taiwan-international-trade-policy",
     "society/environmental-awakening-and-net-zero-transition",
     "lifestyle/taiwan-recycling-and-circular-living-culture",
-    "society/taiwan-political-landscape-and-electoral-system"
+    "nature/taiwan-environmental-movement-history"
   ],
   "economy/compal-electronics-global-odm-leader": [
     "economy/advantech-technology",
@@ -4823,11 +4933,11 @@
     "lifestyle/xiaobei-department-store",
     "history/bipartisan-good-policy",
     "economy/hilife-convenience-store",
+    "society/taiwan-design-research-institute",
     "society/volunteering-and-civic-charity-in-taiwan",
     "music/labor-exchange-band",
     "lifestyle/cooperatives-in-taiwan",
-    "culture/culinary-class-wars-in-taiwan",
-    "economy/acer-pc-industry-pioneer"
+    "culture/culinary-class-wars-in-taiwan"
   ],
   "economy/screw": [
     "economy/taiwan-smes-and-hidden-champions",
@@ -4887,7 +4997,7 @@
     "culture/taiwan-youtuber-industry",
     "culture/taiwan-bar",
     "culture/taiwanese-glove-puppetry-budaixi",
-    "economy/delta-electronics-taiwan-power-giant"
+    "music/taiwan-screen-scoring-from-cinema-to-games"
   ],
   "economy/taiwan-enterprise-cathay-financial": [
     "economy/taiwan-enterprise-fubon-financial",
@@ -4980,14 +5090,14 @@
     "economy/screw"
   ],
   "economy/taiwan-startup-ecosystem-overview": [
+    "nature/taiwan-environmental-movement-history",
     "economy/circular-economy-and-resource-recycling",
     "economy/industrial-transformation-from-manufacturing-to-innovation",
     "society/environmental-awakening-and-net-zero-transition",
     "economy/taiwan-agricultural-modernization",
     "technology/taiwan-software-industry-development",
     "nature/taiwan-alpine-ecosystems-glacial-relicts",
-    "technology/taiwan-cybersecurity-industry-development",
-    "nature/taiwan-forest-ecosystems"
+    "technology/taiwan-cybersecurity-industry-development"
   ],
   "economy/taiwan-sugar": [
     "economy/taiwanese-companies-far-eastern-group",
@@ -5044,10 +5154,10 @@
     "economy/top-50-companies-taiwan",
     "lifestyle/taiwan-parks-and-everyday-leisure",
     "music/megaport-festival",
+    "technology/artificial-intelligence-development-strategy",
     "society/taiwan-cram-school-culture",
     "lifestyle/nightlife-and-ktv-culture",
-    "lifestyle/convenience-store-culture",
-    "technology/tamsui-river-bridge"
+    "lifestyle/convenience-store-culture"
   ],
   "economy/top-50-companies-taiwan": [
     "technology/taiwan-electricity-and-semiconductors",
