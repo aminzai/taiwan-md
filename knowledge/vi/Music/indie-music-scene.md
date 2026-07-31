@@ -199,11 +199,11 @@ Nhân Tướng Đạt nói với những đứa trẻ ấy những lời ấy, c
 
 **Đọc thêm**:
 
-- [Từ Chương Huân đến An Phô](/music/chương-huân-và-an-phô) — Sự thay đổi nhận dạng của những tiếng âm đại diện âm nhạc độc lập Đài Loan, từ sự kiện quốc kỳ đến chính trị nhận dạng phía sau việc đổi tên
-- [Lịch sử phát triển nhạc rock Đài Loan](/music/lịch-sử-phát-triển-nhạc-rock-đài-loan) — Con đường hoàn chỉnh của rock từ bài hát cấm tại Đài Loan đến luồng chính
-- [Văn hóa lễ hội âm nhạc Đài Loan](/music/văn-hóa-lễ-hội-âm-nhạc-đài-loan) — Làm thế nào lễ hội âm nhạc Biển Dương trở thành máy ấp giống của âm nhạc độc lập
-- [Họp Xã Đục Thủy](/music/họp-xã-đục-thủy) — Punk tiếng Đài ba mươi năm underground, giải tán sau lần đầu tiên nộp đơn giải thưởng âm nhạc vàng chuyên chiếm album Đài ngôn ngữ tốt nhất
-- [Su Vô Xanh](/music/su-vô-xanh) — 2001 Đại học Chính Trị Kim Tiếng Xoay để 2023 Hình Bóng Nước, dòng hoàn chỉnh ban nhạc indie Đài Loan hai mươi năm, gồm cả cuộc tranh chấp thương hiệu và "Cá Đỏng Tơ" đấu tranh chống lại
+- [Từ Chương Huân đến An Phô](/music/張懸與安溥) — Sự thay đổi nhận dạng của những tiếng âm đại diện âm nhạc độc lập Đài Loan, từ sự kiện quốc kỳ đến chính trị nhận dạng phía sau việc đổi tên
+- [Lịch sử phát triển nhạc rock Đài Loan](/music/台灣搖滾樂發展史) — Con đường hoàn chỉnh của rock từ bài hát cấm tại Đài Loan đến luồng chính
+- [Văn hóa lễ hội âm nhạc Đài Loan](/music/台灣音樂祭文化) — Làm thế nào lễ hội âm nhạc Biển Dương trở thành máy ấp giống của âm nhạc độc lập
+- [Họp Xã Đục Thủy](/music/濁水溪公社) — Punk tiếng Đài ba mươi năm underground, giải tán sau lần đầu tiên nộp đơn giải thưởng âm nhạc vàng chuyên chiếm album Đài ngôn ngữ tốt nhất
+- [Su Vô Xanh](/music/蘇打綠) — 2001 Đại học Chính Trị Kim Tiếng Xoay để 2023 Hình Bóng Nước, dòng hoàn chỉnh ban nhạc indie Đài Loan hai mươi năm, gồm cả cuộc tranh chấp thương hiệu và "Cá Đỏng Tơ" đấu tranh chống lại
 
 ## Tài liệu tham khảo
 

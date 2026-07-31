@@ -180,8 +180,8 @@ Sự bối rối của ông giáo sư Đức kia, thực ra chính là đáp án
 
 ## Chủ đề liên quan
 
-- [Văn hóa chợ đêm](/food/văn-hóa-chợ-đêm) — Phân tích sâu chợ đêm như không gian xã hội
-- [Trà sữa trân châu](/food/trà-sữa-trân-châu) — Quyền lực toàn cầu ăn uống lỏng
-- [Cơm thịt kho Đài Loan](/food/cơm-thịt-kho-đài-loan) — Ký ức tộc hợp trong một bát cơm
-- [Ẩm thực văn hóa Khách Gia](/food/ẩm-thực-văn-hóa-khách-gia) — Sự khôn ngoan ẩm thực Khách Gia
-- [Hòa nhập ẩm thực tân cư dân Đài Loan](/food/hòa-nhập-ẩm-thực-tân-cư-dân-đài-loan) — Hòa nhập ẩm thực tiếp theo đang xảy ra
+- [Văn hóa chợ đêm](/food/夜市文化) — Phân tích sâu chợ đêm như không gian xã hội
+- [Trà sữa trân châu](/food/珍珠奶茶) — Quyền lực toàn cầu ăn uống lỏng
+- [Cơm thịt kho Đài Loan](/food/台灣滷肉飯) — Ký ức tộc hợp trong một bát cơm
+- [Ẩm thực văn hóa Khách Gia](/food/客家飲食文化) — Sự khôn ngoan ẩm thực Khách Gia
+- [Hòa nhập ẩm thực tân cư dân Đài Loan](/food/台灣新住民美食融合) — Hòa nhập ẩm thực tiếp theo đang xảy ra
