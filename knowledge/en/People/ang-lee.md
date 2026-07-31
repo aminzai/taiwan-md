@@ -2,9 +2,7 @@
 title: 'Ang Lee: Behind Two Oscars, the Son Who Never Properly Said Goodbye to His Father'
 description: "On the Oscar stage in 2006, Ang Lee became the first Asian in history to win Best Director, yet in Mandarin he said, 'Thank you all for your concern.' The world remembers Taiwan's pride and his two golden statuettes, but what he spent a lifetime filming was repression, fear, and the father who had always opposed his filmmaking and suddenly died two years earlier. From an unemployed son-in-law who cooked at home for six years to a two-time Venice Golden Lion winner, his real opponent was never the film set. It was the self he could not get past."
 date: 2026-03-17
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '電影與戲劇'
 tags:
   [
     'People',
@@ -15,18 +13,20 @@ tags:
     'Cross-Cultural',
     'Golden Horse Awards',
   ]
+subcategory: '電影與戲劇'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-06-01
 lastHumanReview: false
-featured: true
-translatedFrom: 'People/李安.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:5e0878a68a9e472e'
-sourceBodyHash: 'sha256:b22fe95649d7be32'
-translatedAt: '2026-06-16T17:03:25Z'
 image: '/article-images/people/ang-lee-bafta-2013.webp'
 imageCredit: 'Sean Reynolds'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Ang_Lee_(8464864982).jpg'
+translatedFrom: 'People/李安.md'
+sourceCommitSha: '09c1bf1a9'
+sourceContentHash: 'sha256:270ebb8ad85e9750'
+sourceBodyHash: 'sha256:1c12395477bc0a4e'
+translatedAt: '2026-07-31T17:47:51.992050+00:00'
 ---
 
 # Ang Lee: Behind Two Oscars, the Son Who Never Properly Said Goodbye to His Father
@@ -200,24 +200,25 @@ Over these years, the world has given him almost every honor it can give. In 202
 
 > ✦ "I was born in Taiwan and grew up in Taiwan. To stand on this stage today feels like a dream come true."[^47]
 
-## Repression Was Not Defeated. It Simply No Longer Entangled Him
+## Repression was not defeated, it just ceased to entangle
 
-In 2016, around the time he finished _Billy Lynn's Long Halftime Walk_, Lee finally spoke through the subject that had run through all his films and through his life. He said there were some things he had never defeated: repression, for example, and his father. They had kept changing form.[^48]
+In 2016, around the time he finished filming _Billy Lynn's Long Halftime Walk_, Ang Lee finally articulated in an interview a theme that has permeated all of his films and his entire life. He said there are some things he has never defeated: such as repression, or his father; they are constantly mutating.[^48]
 
-But then he added the second half. That was where reconciliation truly happened: he would still describe his father in films, but that pressure was gone. The things that had entangled him for a lifetime were finally OK. They had passed.[^49]
+But then he said the second half of the sentence, which is where true reconciliation occurs: he would still depict fathers in his films, but that sense of pressure was gone. The things that had entangled him for a lifetime were finally OK, and in the past.[^49]
 
-> ✦ "There are some things I have never defeated, such as repression and my father. They have kept changing form."[^50]
+> ✦ "There are some things I have never defeated, such as repression, or my father; they are constantly mutating."[^50]
 
-That Brokeback Mountain was never moved away. The father who opposed his filmmaking all his life, yet at the end told him to "charge forward wearing a steel helmet," will never return to hear his son say thank you. What the world remembers is two Oscars, two Venice Golden Lions, two Berlin Golden Bears: a waishengren boy who became Taiwan's pride, recognized around the world. But what Ang Lee truly spent a lifetime filming was the son who stood onstage in 2006, having just lost his father, and said in Mandarin to the camera, "Thank you all for your concern." He endured six years in the kitchen, endured fear after fear that "I cannot go on much longer," and turned everything that could not be contained into cinema.
+That Brokeback Mountain was never moved away. That father—who opposed his filmmaking for a lifetime, yet told him to "charge forward wearing a helmet" on his deathbed—would not return to hear a son say thank you. What the world remembers are two Oscars, two Venice Golden Lions, and two Berlin Bears; it is the story of an _waishengren_ (mainlander) boy becoming a globally recognized pride of Taiwan. But what Ang Lee has truly spent his life filming is the son standing on stage in 2006, having just lost his father, saying to the camera in Mandarin, "Thank you all for your concern." He endured six years in the kitchen and survived time after time the fear of "I won't make it," transforming everything that could not be suppressed into cinema.
 
 ---
 
 **Further Reading**:
 
-- [Taiwanese Cinema](/en/art/taiwanese-cinema) — The full context from Taiwanese-language films and Healthy Realism to the Taiwan New Cinema and the contemporary era: the tradition Lee inherited and then carried outward
-- [Hou Hsiao-hsien](/en/people/hou-hsiao-hsien) — A Taiwan New Cinema standard-bearer of the same generation, who chose a very different auteur path from Lee's
-- [Edward Yang](/en/people/yang-dechang) — A director who dissected Taiwan's modern anxieties through a city, and another summit of the Taiwan New Cinema
-- [Tsai Ming-liang](/en/people/tsai-ming-liang) — A Taiwanese auteur who pushed solitude and slowness to their extreme, in a path almost opposite to Lee's Hollywood trajectory
+- [Taiwanese Cinema](/en/art/taiwanese-cinema) — From Taiwanese-language films and social realism to the complete context of the Taiwan New Cinema movement and the contemporary era—the tradition that Ang Lee inherited and then expanded upon.
+- [Hou Hsiao-hsien](/en/people/hou-hsiao-hsien) — A standard-bearer of the same generation of Taiwan New Cinema, who chose an auteur path starkly different from Ang Lee's.
+- [Yang De-chang](/en/people/yang-dechang) — A director who used a city to dissect modern Taiwanese anxiety; another peak of the Taiwan New Cinema movement.
+- [Tsai Ming-liang](/en/people/tsai-ming-liang) — A Taiwanese auteur director who pushes loneliness and slowness to the extreme, following a path opposite to Ang Lee's Hollywood trajectory.
+- [Andre Chiang](/en/people/andre-chiang-taiwanese-culinary-innovator) — Another Taiwanese creator who gained fame within Western systems, asking the same question of "Who am I?" through Michelin-starred cuisine rather than a film lens.
 
 ## Image Sources
 
