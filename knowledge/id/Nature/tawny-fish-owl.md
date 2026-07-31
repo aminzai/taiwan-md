@@ -32,9 +32,10 @@ sporeLinks:
     "{'id': 60, 'platform': 'x', 'date': '2026-05-04', 'url': 'https://x.com/taiwandotmd/status/2051235570995839479'}",
   ]
 translatedFrom: 'Nature/黃魚鴞.md'
-sourceCommitSha: '3c781dbac'
-sourceContentHash: 'sha256:8c90f20564527faa'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:7f5ae90c4eafcd0e'
 translatedAt: '2026-07-28T19:51:34.272289+00:00'
+sourceBodyHash: 'sha256:2a057438270935d7'
 ---
 
 > **Ringkasan 30 detik:** Beluk Ketam (_Ketupa flavipes_) adalah burung hantu terbesar di Taiwan, sayapnya terbuka mendekati tinggi orang dewasa, jari-jari kaki tertutup bulu kuning, telapak kaki memiliki duri daging untuk menangkap mangsa licin. Baru dicatat pertama kali pada 1916 oleh sarjana Jepang Kuroda Nagamichi[^1], baru pada 1994 Taiwan memiliki lokasi sarang pembiakan pertama yang ditentukan dengan tepat[^2]. Laboratorium Ekologi Burung Universitas Sains dan Teknologi Pingtung di bawah Sun Yuan-hsün telah meneliti selama tiga puluh tahun——Mereka menemukan bahwa sepasang Beluk Ketam memerlukan aliran sungai sepanjang 6,2 km, 44,6% dikelilingi hutan alami, untuk mempertahankan wilayahnya[^3]. April 2026, tim peneliti di tepi Sungai Qijiawan di Wuling menemukan sarang tertinggi yang diketahui di seluruh Taiwan di dalam rongga pohon tua Uxin shi dengan diameter dada sekitar 1,5 meter[^4]. Taman Nasional Shei-Pa meluncurkan siaran langsung pemeliharaan anak burung 24 jam, memberi pulau ini kesempatan pertama kali untuk bersama-sama menyaksikan seekor burung pemangsa yang paling familiar namun asing bagi mereka.
