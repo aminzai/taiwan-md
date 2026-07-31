@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-07-31T10:31:07+08:00",
-    "zhCommitHead": "554062182",
+    "lastUpdated": "2026-07-31T10:43:24+08:00",
+    "zhCommitHead": "5c374f8e9",
     "totalZh": 875,
     "activeLanguages": [
       "en",
@@ -19,10 +19,10 @@
     "summary": {
       "en": {
         "total_zh": 875,
-        "fresh": 831,
+        "fresh": 832,
         "stale": 28,
         "metadata_stale": 2,
-        "missing": 14,
+        "missing": 13,
         "orphan": 0
       },
       "ja": {
@@ -83,8 +83,8 @@
       },
       "hi": {
         "total_zh": 875,
-        "fresh": 571,
-        "stale": 1,
+        "fresh": 572,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 303,
         "orphan": 0
@@ -40358,8 +40358,8 @@
           "sourceContentHash": "sha256:a399eae223d36d4d",
           "sourceBodyHash": "sha256:71fc72f8b7a7bc3d",
           "translatedAt": "2026-07-31T04:48:14+08:00",
-          "translationLastCommit": "d0305d57",
-          "translationLastModified": "2026-07-24T20:13:33+08:00",
+          "translationLastCommit": "5c374f8e",
+          "translationLastModified": "2026-07-31T10:31:07+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -53093,7 +53093,18 @@
       },
       "translations": {
         "en": {
-          "status": "missing"
+          "path": "en/Politics/voting-rights-threshold-history.md",
+          "translatedFrom": "Politics/投票權門檻歷史.md",
+          "sourceCommitSha": "488ba3ae2",
+          "sourceContentHash": "sha256:9f186591ee3109a8",
+          "sourceBodyHash": "sha256:a759a5339dd81f4b",
+          "translatedAt": "2026-07-31T08:23:53+08:00",
+          "translationLastCommit": "d0305d57",
+          "translationLastModified": "2026-07-24T20:13:33+08:00",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Politics/voting-rights-threshold-history.md",
@@ -68350,8 +68361,8 @@
           "sourceContentHash": "sha256:42745728f5eb5c1a",
           "sourceBodyHash": "sha256:b26e0a7ce99faf37",
           "translatedAt": "2026-07-31T08:23:53+08:00",
-          "translationLastCommit": "26a727c9",
-          "translationLastModified": "2026-07-24T15:47:25+08:00",
+          "translationLastCommit": "5c374f8e",
+          "translationLastModified": "2026-07-31T10:31:07+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -81504,18 +81515,16 @@
         "hi": {
           "path": "hi/People/stan-shih.md",
           "translatedFrom": "People/施振榮.md",
-          "sourceCommitSha": "648966eac",
-          "sourceContentHash": "sha256:dfcf312e56a1475f",
-          "sourceBodyHash": "",
+          "sourceCommitSha": "21298a7a",
+          "sourceContentHash": "sha256:b0e816b78b19b42e",
+          "sourceBodyHash": "sha256:a0ff299644c9b0cc",
           "translatedAt": "2026-07-29T01:34:26.653125+00:00",
           "translationLastCommit": "c17e04ba",
           "translationLastModified": "2026-07-29T10:33:00+08:00",
           "inferred": false,
           "footnoteDefs": 71,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+7 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/stan-shih.md",
@@ -98167,8 +98176,8 @@
           "sourceContentHash": "sha256:7522efdf3a40c32a",
           "sourceBodyHash": "sha256:1acff297b5650550",
           "translatedAt": "2026-07-31T04:48:14+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5c374f8e",
+          "translationLastModified": "2026-07-31T10:31:07+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",

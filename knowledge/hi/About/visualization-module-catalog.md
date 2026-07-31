@@ -15,9 +15,10 @@ imageLicense: 'CC BY-SA 4.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:20260204_Taipei,_Taiwan_Skyline.jpg'
 relatedDiary: ['2026-07-16-222859-viz-evolution']
 translatedFrom: 'About/視覺化模組型錄.md'
-sourceCommitSha: 'dbf93456d'
-sourceContentHash: 'sha256:a867dd7615187a1c'
+sourceCommitSha: '21298a7a'
+sourceContentHash: 'sha256:6617087ac0d0a536'
 translatedAt: '2026-07-28T20:11:54.331888+00:00'
+sourceBodyHash: 'sha256:f6a2ecc9e1606c44'
 ---
 
 # दृश्यीकरण मॉड्यूल कैटलॉग: ताइवान के डेटा को देखने के उन्नीस तरीके
