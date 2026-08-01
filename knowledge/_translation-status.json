@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-01T07:56:48+08:00",
-    "zhCommitHead": "0aca292d3",
+    "lastUpdated": "2026-08-01T08:25:29+08:00",
+    "zhCommitHead": "62f0f2036",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -43,8 +43,8 @@
       },
       "es": {
         "total_zh": 877,
-        "fresh": 850,
-        "stale": 18,
+        "fresh": 851,
+        "stale": 17,
         "metadata_stale": 0,
         "missing": 9,
         "orphan": 0
@@ -74444,8 +74444,8 @@
           "sourceContentHash": "sha256:8fe13ae8a4b4ef0b",
           "sourceBodyHash": "sha256:ea3e7d04bd378c51",
           "translatedAt": "2026-08-01T05:12:37+08:00",
-          "translationLastCommit": "425a1d47",
-          "translationLastModified": "2026-07-25T10:30:51+08:00",
+          "translationLastCommit": "bc09068c",
+          "translationLastModified": "2026-08-01T07:56:48+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -86592,16 +86592,16 @@
         "es": {
           "path": "es/People/wu-ming-yi.md",
           "translatedFrom": "People/吳明益.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:2752c026dbd32f77",
-          "sourceBodyHash": "sha256:33817e164492daa0",
-          "translatedAt": "2026-04-14T12:25:09+08:00",
+          "sourceCommitSha": "fdd06c978",
+          "sourceContentHash": "sha256:9e044da79052e1d4",
+          "sourceBodyHash": "sha256:0b3e476aa45a53ca",
+          "translatedAt": "2026-08-01T05:12:37+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (33→0)"
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/wu-ming-yi.md",
@@ -106246,8 +106246,8 @@
           "sourceContentHash": "sha256:c3748ae1610fed44",
           "sourceBodyHash": "sha256:68f6beb778ba92ff",
           "translatedAt": "2026-08-01T05:12:37+08:00",
-          "translationLastCommit": "08d09ae0",
-          "translationLastModified": "2026-07-27T19:02:16+08:00",
+          "translationLastCommit": "bc09068c",
+          "translationLastModified": "2026-08-01T07:56:48+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "status": "fresh",
