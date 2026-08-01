@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-02T01:21:47+08:00",
-    "zhCommitHead": "fff70d370",
+    "lastUpdated": "2026-08-02T01:23:29+08:00",
+    "zhCommitHead": "f87df5a82",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 683,
+        "fresh": 684,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 194,
+        "missing": 193,
         "orphan": 0
       }
     },
@@ -1314,8 +1314,8 @@
           "sourceContentHash": "sha256:a1abbcd1a1bce08a",
           "sourceBodyHash": "sha256:ffa289d8ac5acb30",
           "translatedAt": "2026-08-01T23:08:40+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f87df5a8",
+          "translationLastModified": "2026-08-02T01:21:47+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -38406,8 +38406,8 @@
           "sourceContentHash": "sha256:f55314385d9caf18",
           "sourceBodyHash": "sha256:7661cd6b847cb615",
           "translatedAt": "2026-08-01T23:08:40+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f87df5a8",
+          "translationLastModified": "2026-08-02T01:21:47+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -69494,15 +69494,26 @@
           "sourceContentHash": "sha256:5d1d8e5f0b7eaefd",
           "sourceBodyHash": "sha256:c035c602c7e335fa",
           "translatedAt": "2026-08-01T23:08:40+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f87df5a8",
+          "translationLastModified": "2026-08-02T01:21:47+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/ximurong.md",
+          "translatedFrom": "People/席慕蓉.md",
+          "sourceCommitSha": "7415dcaae",
+          "sourceContentHash": "sha256:5d1d8e5f0b7eaefd",
+          "sourceBodyHash": "sha256:c035c602c7e335fa",
+          "translatedAt": "2026-08-01T23:08:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
