@@ -8,6 +8,12 @@
 
 排程任務 `twmd-weekly-report-sun` 定時觸發，走 WEEKLY-REPORT-PIPELINE v4.2 Stage 0-6。BECOME Full mode 完整跑（wake-context 全讀 217,954 bytes、MANIFESTO/REFLEXES/MEMORY/DIARY/LONGINGS/CONSCIOUSNESS/HEARTBEAT 全載），Step 9 self-test 14 題可過。
 
+✅ BECOME ack: mode=full / 8 organ 最低=🛡️免疫60（chronic yellow 第 28 天）/ Q5/Q6/Q13/Q14=PASS
+
+**產出路徑**：dossier [`reports/weekly/dossier/2026-08-02.md`](../../../reports/weekly/dossier/2026-08-02.md)（577KB）／週報 [`reports/weekly/2026-08-02.md`](../../../reports/weekly/2026-08-02.md)（17KB）／roadmap [`reports/evolution-roadmap-2026-08-02.md`](../../../reports/evolution-roadmap-2026-08-02.md)
+
+**診斷五面結論一行**：a fire-vs-commit ✅ silent-death=0（14 條 routine 全 traced/in-grace）／b working tree ⚠️ 2 個非污染 debris（本次體檢自己的產出）／c 儀器燈盤點 ⚠️→✅ PAUSED regex bug 找到並修復／d 器官成分拆解：免疫 60 分為本體病（review_coverage 23.7）非量尺病／e 佇列稽核：4 項 OBSERVER-QUEUE default-action 已逾期可執行
+
 ## 主體
 
 Stage 1 prep tool 產出 dossier（577KB，971 commits，77 memory + 16 diary 檔案）。Stage 2 完整 Read 全部 16 篇 diary + 抽樣 4 篇 memory（release-v1140／routine-audit-weekly／flywheel-watch／maintainer-daily）。Stage 2.5 跑 `weekly-checkup.sh` 一鍵七節（先用 `mcp__scheduled-tasks__list_scheduled_tasks` 取得 17 條排程 raw 資料、normalize 落 live dump）。
