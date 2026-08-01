@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T22:13:43.921Z",
+  "lastUpdated": "2026-08-01T22:13:38.195Z",
   "organs": [
     {
       "id": "heart",
@@ -11,7 +11,7 @@
       "trend": "up",
       "metrics": {
         "articlesLast7Days": 22,
-        "articlesLast30Days": 239,
+        "articlesLast30Days": 238,
         "totalArticles": 875
       }
     },
@@ -122,8 +122,8 @@
           "vi": 454,
           "id": 466,
           "pt": 774,
-          "hi": 568,
-          "ar": 643,
+          "hi": 571,
+          "ar": 645,
           "ru": 667
         },
         "translationPct": 87,
@@ -303,7 +303,7 @@
               "pct": 108
             },
             "articles": {
-              "count": 568,
+              "count": 571,
               "pct": 65
             },
             "score": 88
@@ -323,10 +323,10 @@
               "pct": 0
             },
             "articles": {
-              "count": 643,
-              "pct": 73
+              "count": 645,
+              "pct": 74
             },
-            "score": 69
+            "score": 70
           },
           "ru": {
             "ui": {

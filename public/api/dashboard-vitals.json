@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-31T22:13:43.921Z",
+  "lastUpdated": "2026-08-01T22:13:38.195Z",
   "totalArticles": 875,
   "contributors": 68,
-  "stars": 1120,
+  "stars": 1121,
   "forks": 170,
   "articlesLast7Days": 22,
-  "articlesLast30Days": 239,
+  "articlesLast30Days": 238,
   "humanReviewedPercent": 22.4,
   "featuredPercent": 20.8,
   "avgRevision": 8,
@@ -19,8 +19,8 @@
     "vi": 454,
     "id": 466,
     "pt": 774,
-    "hi": 568,
-    "ar": 643,
+    "hi": 571,
+    "ar": 645,
     "ru": 667
   }
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T22:13:43.921Z",
+  "lastUpdated": "2026-08-01T22:13:38.195Z",
   "languages": [
     "zh-TW",
     "en",
@@ -26,14 +26,14 @@
     "en": {
       "total": 863,
       "percentage": 98.4,
-      "fresh": 836,
+      "fresh": 837,
       "metadataStale": 3,
-      "stale": 24,
+      "stale": 23,
       "missing": 14,
       "orphan": 0,
       "deficit": 14,
-      "freshPct": 95.3,
-      "bodyFreshPct": 95.7
+      "freshPct": 95.4,
+      "bodyFreshPct": 95.8
     },
     "ja": {
       "total": 865,
@@ -74,14 +74,14 @@
     "fr": {
       "total": 869,
       "percentage": 99.1,
-      "fresh": 849,
+      "fresh": 851,
       "metadataStale": 1,
-      "stale": 19,
+      "stale": 17,
       "missing": 8,
       "orphan": 0,
       "deficit": 8,
-      "freshPct": 96.8,
-      "bodyFreshPct": 96.9
+      "freshPct": 97,
+      "bodyFreshPct": 97.1
     },
     "vi": {
       "total": 455,
@@ -120,28 +120,28 @@
       "bodyFreshPct": 87.8
     },
     "hi": {
-      "total": 570,
-      "percentage": 65,
-      "fresh": 570,
+      "total": 573,
+      "percentage": 65.3,
+      "fresh": 573,
       "metadataStale": 0,
       "stale": 0,
-      "missing": 307,
+      "missing": 304,
       "orphan": 0,
-      "deficit": 307,
-      "freshPct": 65,
-      "bodyFreshPct": 65
+      "deficit": 304,
+      "freshPct": 65.3,
+      "bodyFreshPct": 65.3
     },
     "ar": {
-      "total": 645,
-      "percentage": 73.5,
-      "fresh": 644,
+      "total": 647,
+      "percentage": 73.8,
+      "fresh": 646,
       "metadataStale": 0,
       "stale": 1,
-      "missing": 232,
+      "missing": 230,
       "orphan": 0,
-      "deficit": 232,
-      "freshPct": 73.4,
-      "bodyFreshPct": 73.4
+      "deficit": 230,
+      "freshPct": 73.7,
+      "bodyFreshPct": 73.7
     },
     "ru": {
       "total": 669,
@@ -589,8 +589,8 @@
       },
       "fr": {
         "count": 66,
-        "fresh": 65,
-        "stale": 1,
+        "fresh": 66,
+        "stale": 0,
         "missing": 0,
         "deficit": 0
       },
@@ -616,11 +616,11 @@
         "deficit": 6
       },
       "hi": {
-        "count": 31,
-        "fresh": 31,
+        "count": 33,
+        "fresh": 33,
         "stale": 0,
-        "missing": 35,
-        "deficit": 35
+        "missing": 33,
+        "deficit": 33
       },
       "ar": {
         "count": 44,
@@ -989,8 +989,8 @@
       },
       "fr": {
         "count": 239,
-        "fresh": 235,
-        "stale": 4,
+        "fresh": 236,
+        "stale": 3,
         "missing": 0,
         "deficit": 0
       },
@@ -1016,18 +1016,18 @@
         "deficit": 20
       },
       "hi": {
-        "count": 158,
-        "fresh": 158,
+        "count": 159,
+        "fresh": 159,
         "stale": 0,
-        "missing": 81,
-        "deficit": 81
+        "missing": 80,
+        "deficit": 80
       },
       "ar": {
-        "count": 174,
-        "fresh": 174,
+        "count": 175,
+        "fresh": 175,
         "stale": 0,
-        "missing": 65,
-        "deficit": 65
+        "missing": 64,
+        "deficit": 64
       },
       "ru": {
         "count": 188,
@@ -1121,8 +1121,8 @@
       "zh-TW": 93,
       "en": {
         "count": 91,
-        "fresh": 87,
-        "stale": 4,
+        "fresh": 88,
+        "stale": 3,
         "missing": 1,
         "deficit": 2
       },
@@ -1183,11 +1183,11 @@
         "deficit": 35
       },
       "ar": {
-        "count": 66,
-        "fresh": 66,
+        "count": 67,
+        "fresh": 67,
         "stale": 0,
-        "missing": 27,
-        "deficit": 27
+        "missing": 26,
+        "deficit": 26
       },
       "ru": {
         "count": 67,
@@ -2392,7 +2392,6 @@
       "Nature/大安溪倚天劍：東亞最高的樹，藏在我們到不了的地方七百年.md",
       "Technology/NVIDIA 在台灣：全世界最貴的公司，沒有一顆晶片是自己做的.md",
       "People/草東沒有派對：從陽明山草東街到兩座金曲最佳樂團的十二年.md",
-      "People/Cicada：從 2009 年莫拉克到 2025 年跨半球冰川的十六年田野錄音.md",
       "People/幾米：被當成療癒系的那些圖，是一個血癌倖存者從玻璃缸裡帶回來的.md",
       "People/沈伯洋：他研究中國認知戰，後來中國把他畫在衛星圖上.md",
       "Culture/端午節：古人用來對抗死亡的工具包，台灣人過成了一年一度的團圓.md",
@@ -2437,7 +2436,6 @@
       "Art/葉廷皓：把「非正確」使用科技逼出意外的音像藝術家，43 歲那年留下整座生態.md",
       "Geography/中山北路條通：日本人鋪的去神社的路，最後還是被日商接回來.md",
       "Geography/大稻埕：800 公尺三個世紀，從 Formosa Tea 到二二八第一槍.md",
-      "Geography/艋舺：清領台北最熱鬧的地方，現在是台北平均年齡最老的區.md",
       "Technology/飲料封膜機：從一碗蘿蔔湯的啟發到全球手搖飲的技術支柱.md",
       "Economy/台灣企業：日月光半導體.md",
       "Nature/台灣海洋污染治理與保育挑戰.md",
@@ -2574,7 +2572,6 @@
       "Geography/公館：日本帝國的研究室、戒嚴期的地下沙龍、台大學生的炸雞排，500 公尺三個世紀.md",
       "Geography/北投溫泉街：1697 採硫到 2026 浴博，同一片山泉換了四代住民.md",
       "Geography/台灣農業地景與產業分布.md",
-      "Geography/士林：凱達格蘭族的地、漳泉械鬥的廟、現在每天晚上是台北最擁擠的夜市.md",
       "Geography/大龍峒：保安宮的香、孔廟的鐘、圓山的青天白日，三個時代的台北信仰.md",
       "Geography/寶藏巖：拆了 30 年的違章聚落，最後變成台北最酷的藝術村.md",
       "Geography/牯嶺街：日人留下的書街、楊德昌的少年、國府的宮殿.md",
@@ -2712,11 +2709,9 @@
       "People/黃氏兄弟：在清新的標籤背後，那場被強制攤開的真實與溫柔.md",
       "Technology/雷亞遊戲：以美學立國的音樂帝國，與它十四年的裂縫.md",
       "People/楊維哲：從微積分到母語，數學界的表演藝術家.md",
-      "People/陳建年：派出所的金曲歌王，外公留下的歌孫子寫成海洋.md",
       "Geography/大稻埕：800 公尺三個世紀，從 Formosa Tea 到二二八第一槍.md",
       "Technology/飲料封膜機：從一碗蘿蔔湯的啟發到全球手搖飲的技術支柱.md",
       "Nature/台灣海洋污染治理與保育挑戰.md",
-      "Society/台灣動物用藥爭議.md",
       "Food/台灣滷肉飯.md",
       "Food/珍珠奶茶.md",
       "Geography/台北市：一座城裡的三個時間，1738 龍山寺看著 2004 的 101.md",

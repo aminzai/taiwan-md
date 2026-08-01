@@ -1,5 +1,5 @@
 {
-  "totalArticles": 8797,
+  "totalArticles": 8802,
   "totalCategories": 26,
   "estimatedContributors": 68,
   "totalTags": 5956,
@@ -30,7 +30,7 @@
     },
     {
       "name": "hi",
-      "count": 570
+      "count": 573
     },
     {
       "name": "ru",
@@ -46,7 +46,7 @@
     },
     {
       "name": "ar",
-      "count": 645
+      "count": 647
     },
     {
       "name": "Politics",
@@ -124,7 +124,7 @@
     },
     {
       "name": "科技與企業",
-      "count": 38
+      "count": 37
     },
     {
       "name": "文學",
@@ -192,11 +192,11 @@
     }
   ],
   "languageDistribution": {
-    "zh-TW": 8797,
+    "zh-TW": 8802,
     "en": 0
   },
-  "lastUpdated": "2026-07-31T22:13:29.458Z",
-  "stars": 1120,
+  "lastUpdated": "2026-08-01T22:13:23.497Z",
+  "stars": 1121,
   "forks": 170,
   "zhPages": 875,
   "enPages": 868,

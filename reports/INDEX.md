@@ -1,7 +1,7 @@
 ---
 title: 'reports/ INDEX — auto-generated'
 description: '頂層 *.md 按 9 type bucket × 月份 雙軸索引 + 子目錄 status summary'
-last_generated: 2026-08-01 06:14
+last_generated: 2026-08-02 06:13
 generator: scripts/tools/generate-reports-index.py
 ssot: reports/reports-archival-audit-2026-05-27.md §4 Layer 3
 type: auto-index
@@ -12,7 +12,7 @@ type: auto-index
 > **本 file 由 `scripts/tools/generate-reports-index.py` 完全 overwrite**。
 > 不要人工編輯（會被下一次 cron 覆蓋）。
 >
-> Last generated: **2026-08-01 06:14** · 頂層 \*.md 共 **249** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
+> Last generated: **2026-08-02 06:13** · 頂層 \*.md 共 **250** files · SSOT: [reports-archival-audit-2026-05-27.md §4 Layer 3](reports-archival-audit-2026-05-27.md)
 
 ## 📦 子目錄 status
 
@@ -22,7 +22,7 @@ type: auto-index
 | `editorial-room/`       |    58 | 399.6 KB | —                                                    |
 | `article-evolve/`       |    30 | 1.1 MB   | —                                                    |
 | `archive/`              |    28 | 372.2 KB | 歸檔位置 (per audit Layer 4)                         |
-| `weekly/`               |    24 | 4.5 MB   | Self-evolve weekly digest                            |
+| `weekly/`               |    26 | 5.1 MB   | Self-evolve weekly digest                            |
 | `article-projection/`   |    20 | 330.0 KB | —                                                    |
 | `routine-prompt-drift/` |    10 | 29.9 KB  | —                                                    |
 | `factcheck/`            |     9 | 98.7 KB  | —                                                    |
@@ -35,9 +35,9 @@ type: auto-index
 | `translation-research/` |     5 | 338.0 KB | 巴別塔 5 lang research                               |
 | `ab-tests/`             |     4 | 69.2 KB  | Editorial v6 A/B test                                |
 | `music-media-audit/`    |     4 | 115.5 KB | Music 條目 media audit (json + md)                   |
-| `news-lens/`            |     3 | 59.0 KB  | —                                                    |
+| `news-lens/`            |     4 | 79.2 KB  | —                                                    |
 | `terminology-review/`   |     3 | 1.7 MB   | —                                                    |
-| `404-monitor/`          |     2 | 89.6 KB  | —                                                    |
+| `404-monitor/`          |     2 | 91.3 KB  | —                                                    |
 | `fork-census/`          |     2 | 36.2 KB  | —                                                    |
 | `harvest/`              |     2 | 14.3 KB  | Harvest engine 紀錄                                  |
 | `audit/`                |     1 | 20.7 KB  | —                                                    |
@@ -99,8 +99,9 @@ type: auto-index
 - `2026-04-13` [ssodt-spore-linkback-plan-2026-04-13](ssodt-spore-linkback-plan-2026-04-13.md)
 - `2026-04-12` [semiont-public-pages-plan-2026-04-12](semiont-public-pages-plan-2026-04-12.md)
 
-### evolution (38)
+### evolution (39)
 
+- `2026-08-02` [evolution-roadmap-2026-08-02](evolution-roadmap-2026-08-02.md) — Evolution Roadmap 2026-08-02
 - `2026-07-26` [evolution-roadmap-2026-07-26](evolution-roadmap-2026-07-26.md) — Evolution Roadmap 2026-07-26
 - `2026-07-23` [idlccp1984-pr-batch-instrument-evolution-2026-07-23](idlccp1984-pr-batch-instrument-evolution-2026-07-23.md) — idlccp1984 PR batch × 儀器進化：小丑魚原則下的 warn+lint+auto-heal
 - `2026-07-19` [evolution-roadmap-2026-07-19](evolution-roadmap-2026-07-19.md) — Evolution Roadmap 2026-07-19
@@ -334,6 +335,11 @@ type: auto-index
 - Type breakdown: ops: 2
   - `????` [README](README.md)
   - `????` [punct-cleanup-dispatch-prompts](punct-cleanup-dispatch-prompts.md)
+
+### 2026-08 (1 files)
+
+- Type breakdown: evolution: 1
+  - `2026-08-02` [evolution-roadmap-2026-08-02](evolution-roadmap-2026-08-02.md)
 
 ### 2026-07 (71 files)
 

@@ -44116,23 +44116,6 @@
     "path": "en/People/jam-hsiao.md"
   },
   {
-    "title": "Jamie Lin : de l'Académie sinique à Google Taïwan, toujours sur la ligne de front des start-up après sa retraite en 2020",
-    "description": "Né en 1963, Jamie Lin est diplômé en génie informatique de l'Université nationale de Taïwan (NTU). Son doctorat, obtenu selon les rapports à l'Université du Maryland aux États-Unis, reste à confirmer. De 1993 à 2005, il a été directeur adjoint de l'Institut des sciences de l'information de l'Académie sinique. En 2006, il a rejoint Google en tant que premier employé du centre de R&D de Google Taïwan, et a pris sa retraite le 31 janvier 2020. Depuis, il siège au conseil d'administration de start-up telles qu'iKala et Appier, et continue de promouvoir l'éducation en IA.",
-    "category": "fr",
-    "tags": [
-      "科技與企業",
-      "Google",
-      "人工智慧",
-      "中研院",
-      "AI教育"
-    ],
-    "url": "https://taiwan.md/fr/people/jamie-lin-ai-industry-pioneer",
-    "readingTime": 56,
-    "featured": false,
-    "date": "2026-03-19",
-    "path": "fr/People/jamie-lin-ai-industry-pioneer.md"
-  },
-  {
     "title": "Janet Chia: The Taiwanese Experiment of Converting Celebrity Social Capital into Public Mobilization Power, Again and Again",
     "description": "From her debut in the 2000 CTV 8 PM drama, to raising NT$68.04 million in two days in 2021 to secure 252 HFNC units for frontline hospitals, to becoming the 6th Chairman of Taipei 101 in 2024, and finally on January 25, 2026, enabling Alex Honnold's live-streamed free solo climb of the 508-meter Taipei 101—Janet Chia has forged a path with no precedent in Taiwan: repeatedly converting celebrity social capital into public mobilization power. Each step forward is accompanied by an equal amount of skepticism, answered only by the next larger mobilization.",
     "category": "ja",
@@ -44662,17 +44645,6 @@
     "featured": false,
     "date": "2026-05-13",
     "path": "fr/People/jin-enoki.md"
-  },
-  {
-    "title": "Jinguashi : les mille soldats britanniques enfermés dans les galeries pour extraire le cuivre, et une montagne d’or qui n’a pas encore été nettoyée",
-    "description": "De 1942 à 1945, plus d’un millier de prisonniers de guerre alliés britanniques furent enfermés dans le « 凸鼻仔寮 » de Jinguashi pour extraire du cuivre ; le 23 novembre 1997, les survivants retournèrent sur le site et érigèrent eux‑mêmes un monument commémoratif. Cette ville de montagne, célèbre pour ses mines d’or, doit surtout être rappelée non pas pour l’or, mais pour le conduit de fumée pollué dont le sol dépasse encore les normes de sécurité.",
-    "category": "fr",
-    "tags": [],
-    "url": "https://taiwan.md/fr/geography/jinguashi",
-    "readingTime": 82,
-    "featured": false,
-    "date": "2026-07-05",
-    "path": "fr/Geography/jinguashi.md"
   },
   {
     "title": "Jinguashi: Many Layers of Lives Stacked on One Mountain—from Alluvial Gold and POWs to Arsenic Soil Still Not Cleaned",
@@ -45865,6 +45837,17 @@
     "featured": false,
     "date": "2026-03-18",
     "path": "vi/Economy/circular-economy-and-resource-recycling.md"
+  },
+  {
+    "title": "Kinkaseki : Des vies superposées sur une montagne, de l’or alluvionnaire aux prisonniers de guerre jusqu’à l’arsenic encore non nettoyé",
+    "description": "Le 14 novembre 1942, 523 prisonniers de guerre alliés pénétrèrent dans les mines de cuivre de Kinkaseki, entamant une période durant laquelle certains survécurent trois ans tandis que d’autres n’en sortirent jamais. La mémoire de cette montagne est souvent associée aux lumières orange du site de Shisanheng, au bloc d’or de 220 kg que l’on peut toucher, ou aux paysages marins secrets découverts en passant par Jiufen. Pourtant, la même montagne abrite l’or arraché aux poumons des mineurs locaux, les os de plus de cinq cents prisonniers de guerre étrangers et des terres arsenicales dont la dépollution n’est toujours pas achevée. Ce n’est qu’en considérant l’ensemble de ces strates que l’on peut véritablement saisir l’essence de Kinkaseki.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/geography/jinguashi",
+    "readingTime": 223,
+    "featured": false,
+    "date": "2026-07-05",
+    "path": "fr/Geography/jinguashi.md"
   },
   {
     "title": "Kinmen County: The 56 Hours in 1949 That Determined Kinmen’s Fate for 75 Years",
@@ -50963,6 +50946,17 @@
     "featured": true,
     "date": "2026-03-21",
     "path": "pt/People/lee-yuan-tseh.md"
+  },
+  {
+    "title": "Lee-Feng Chien : Avant l'arrivée de Google à Taïwan, il cherchait déjà dans le web taïwanais",
+    "description": "Bien avant l'essor de Google, Lee-Feng Chien était l'un des chercheurs derrière les systèmes de recherche de thèses à Taïwan. De pionnier de la recherche en chinois à l'Academia Sinica, il est devenu le premier employé de Google Taïwan, transformant un bureau individuel en un centre de R&D de plus de 2 000 personnes.",
+    "category": "fr",
+    "tags": [],
+    "url": "https://taiwan.md/fr/people/jamie-lin-ai-industry-pioneer",
+    "readingTime": 105,
+    "featured": false,
+    "date": "2026-03-19",
+    "path": "fr/People/jamie-lin-ai-industry-pioneer.md"
   },
   {
     "title": "Lee-Feng Chien: Antes de que Google llegara a Taiwán, él ya estaba realizando búsquedas en Taiwán",
@@ -63379,12 +63373,12 @@
     "path": "en/Society/social-housing-and-housing-justice.md"
   },
   {
-    "title": "Social Movements and Civic Participation",
-    "description": "From the Wild Lily movement to the Sunflower movement, how Taiwan has practiced democracy and advanced social progress through social movements",
+    "title": "Social Movements and Civic Engagement",
+    "description": "From the White Lily to the Sunflower, how Taiwan has practiced democracy and driven social progress through social movements",
     "category": "en",
     "tags": [],
     "url": "https://taiwan.md/en/society/social-movements-and-civic-participation",
-    "readingTime": 77,
+    "readingTime": 76,
     "featured": true,
     "date": "2026-03-18",
     "path": "en/Society/social-movements-and-civic-participation.md"
@@ -86157,6 +86151,17 @@
     "path": "ar/People/chen-chien-jen.md"
   },
   {
+    "title": "تشين جيان نيان: ملك الأغنية الذهبية في مركز الشرطة، أغنية الجد التي كتبها الحفيد لتصبح \"المحيط\"",
+    "description": "وُلد في 1 أغسطس 1967 في قبيلة نانوانغ بينان في تايتونغ. تخرج من كلية الشرطة عام 1986 وعُين في غوانشان، تايتونغ، وخدم في الشرطة لمدة 30 عاماً و10 أشهر. في عام 1999، وفي سن 33 عاماً، أصدر أول ألبوم إبداعي له \"المحيط\"، وفي حفل جوائز الأغنية الذهبية الحادي عشر عام 2000، هزم جاكي تشيونغ، ووانغ ليهوم، وديفيد تاو، وهارلم يو ليفوز بجائزة أفضل مغني ماندوبوب، وفي نفس الحفل فازت أغنيته \"الأسطورة\" بجائزة أفضل تلحين. كان لا يزال شرطياً على خشبة المسرح. في سبتمبر من نفس العام، طلب النقل إلى جزيرة الأوركيد لتجنب المتاعب، وبقي هناك 17 عاماً حتى تقاعده. جده لو سينباو هو مؤلف \"سنابل الأرز الجميلة\"، واستغرق الحفيد ثلاثين عاماً لالتقاط خيط الموسيقى ذاك.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/people/chen-chien-nien",
+    "readingTime": 131,
+    "featured": false,
+    "date": "2026-05-17",
+    "path": "ar/People/chen-chien-nien.md"
+  },
+  {
     "title": "تشين شو-تشو: بائعة خضار من تايتونغ، أنفقَت خمسين عامًا من أرباحها متبرعةً بملايين الدولارات في حياة خيرية",
     "description": "بائعة خضار من تايتونغ، تبرعت بملايين الدولارات من أرباح خمسين عامًا، ومع ذلك قالت: \"أنا مجرد بائعة خضار\"",
     "category": "ar",
@@ -86805,6 +86810,17 @@
     "featured": false,
     "date": "2026-04-27",
     "path": "ar/Geography/yushan-jade-mountain.md"
+  },
+  {
+    "title": "جدل أدوية الحيوانات في تايوان",
+    "description": "في 1 يوليو 2026، سيدخل حيز التنفيذ تنظيم جديد بعنوان \"لوائح إدارة استخدام الأدوية البشرية للكلاب والقطط والحيوانات غير الاقتصادية\". من بين 701 دواءً بشرياً أعلنت عنها الحكومة، أكمل 144 فقط التسجيل كـ\"أدوية حماية الحيوانات\"، بينما سجلت غازات الأكسجين وثاني أكسيد الكربون والنيتروجين الطبية المستخدمة في الطوارئ صفر تسجيلات. وقع أكثر من مائة ألف مربٍّ عريضة تطالب بالتأجيل. هذا صندوق ظل مفتوحاً منذ 2012 حتى اليوم، وهو أيضاً الفجوة التي تتعامل فيها هذه الجزيرة مع الحيوانات الأليفة كعائلة، بينما تعامل أدويتها كسلع.",
+    "category": "ar",
+    "tags": [],
+    "url": "https://taiwan.md/ar/society/taiwan-animal-drug-controversy",
+    "readingTime": 141,
+    "featured": false,
+    "date": "2026-04-10",
+    "path": "ar/Society/taiwan-animal-drug-controversy.md"
   },
   {
     "title": "جرف تشينغ شوي: ندبة الجمال المطلق وصلابة الحياة تحت اصطدام الصفائح التكتونية",
@@ -95677,6 +95693,17 @@
     "path": "hi/Nature/meiyu-stagnant-front.md"
   },
   {
+    "title": "मेंगजिया: क्विंग शासनकाल में ताइपे का सबसे जीवंत स्थान, अब ताइपे का सबसे अधिक औसत आयु वाला जिला",
+    "description": "मेंगजिया लोंगशान मंदिर का निर्माण 1738 में च्वानचोउ के तीन जिलों के लोगों द्वारा संयुक्त रूप से किया गया था और 2026 तक यह 288 वर्ष पुराना हो जाएगा, जो क्विंग राजवंश के ताइपे प्रीफेक्चर से 137 वर्ष पहले का है। 1853 के डिंग-शिया जियाओ संघर्ष में एक सशस्त्र झड़प ने टोंगआन लोगों को दादाओचेंग की ओर धकेल दिया, जिससे उत्तरी ताइवान में दो शताब्दियों के विभाजन के बीज पड़े। जापानी शासन के बाद इसका नाम बदलकर वानहुआ कर दिया गया, 1990 में इसे जिला घोषित किया गया, 2010 में डोज़ निउ ने 'मेंगजिया' फिल्म बनाई, बुढ़ापा सूचकांक अब 320.78% है जो पूरे शहर में सबसे अधिक है। ताइपे की इस सबसे पुरानी गली में, सुबह छह बजे मंदिर के प्रांगण की पहली अगरबत्ती अभी भी जल रही है।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/geography/bangka",
+    "readingTime": 185,
+    "featured": false,
+    "date": "2026-05-21",
+    "path": "hi/Geography/bangka.md"
+  },
+  {
     "title": "मेगा फाइनेंशियल होल्डिंग: चार बैंकों का विलय, ताइवानी कारोबारियों का वैश्विक वित्तीय साझेदार, 2016 न्यूयॉर्क जुर्माना प्रकरण",
     "description": "मेगा फाइनेंशियल होल्डिंग का गठन दिसंबर 2002 में चियाओतोंग बैंक, चाइना इंटरनेशनल कमर्शियल बैंक, चुंगह्वा बिल्स फाइनेंस, बारिट्स सिक्योरिटीज और चाइना प्रोडक्ट्स इंश्योरेंस के विलय से हुआ। 2006 में सहायक कंपनियों चियाओतोंग बैंक और चाइना कमर्शियल बैंक का पुनर्विलय मेगा इंटरनेशनल कमर्शियल बैंक के रूप में हुआ। चियाओतोंग बैंक की सदी पुरानी विरासत और चाइना कमर्शियल बैंक की विदेशी मुद्रा विशेषज्ञता के बल पर मेगा ने ताइवान का सबसे विशाल विदेशी शाखा नेटवर्क खड़ा किया, जो ताइवानी कारोबारियों के वैश्विक विस्तार का मुख्य साझेदार बना। 2016 में न्यूयॉर्क शाखा पर मनी लॉन्ड्रिंग रोधी खामियों के लिए अमेरिकी अधिकारियों ने 1.8 अरब डॉलर का जुर्माना लगाया, जो ताइवान के वित्तीय इतिहास का सबसे बड़ा विदेशी नियामक मामला है।",
     "category": "hi",
@@ -96601,6 +96628,17 @@
     "path": "hi/Society/education-system-and-admissions-culture.md"
   },
   {
+    "title": "शिलिन: काइडागेलन जनजाति की भूमि, झांग-चुआन संघर्ष का मंदिर, अब हर रात ताइपे का सबसे भीड़भाड़ वाला रात्रि बाजार",
+    "description": "शाम साढ़े सात बजे, शिलिन रात्रि बाजार के चौराहे पर कोरियाई पर्यटक बड़े चिकन कटलेट के साथ सेल्फी ले रहे हैं, बगल में दानान रोड 84 नंबर का त्सीश्येन गोंग 1796 ईस्वी में जियाचिंग के पहले वर्ष से 2026 ईस्वी में 230 वर्ष पूरे होने तक खड़ा है। 1859 ईस्वी में शियानफेंग के नौवें वर्ष झांगझोउ के लोग इस गली से चुआनझोउ के लोगों द्वारा जला दिए गए, 1860 ईस्वी में गेंगशेन वर्ष पान योंगकिंग ने शियाशूलिन में चार चौकोर सड़कें — दादोंग रोड, दानान रोड, दासी रोड, दाबेई रोड — खींचीं और मंदिर को ठीक बीच में रखा।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/geography/shilin",
+    "readingTime": 180,
+    "featured": false,
+    "date": "2026-05-21",
+    "path": "hi/Geography/shilin.md"
+  },
+  {
     "title": "शुभंकर: काले भालू की दीवानगी से लेकर ध्वनि-आधारित मुक्ति तक की सांस्कृतिक क्यूरेशन",
     "description": "2013 में \"ओहबियर\" के जन्म ने ताइवान के शुभंकर युद्धकाल की शुरुआत की। पूरे ताइवान में काले भालुओं की बड़ी लड़ाई से, अमेरिकी टॉक शो पर अपनी बदसूरती के लिए मशहूर \"मिल्कफिश बॉय\" तक, और सालाना करोड़ों कमाने वाले \"फुली बियर\" से लेकर संसद में पूछताछ का सामना करने वाले \"बियर ब्रावो\" तक, ताइवान के शुभंकर अब सरकारी प्रचार उपकरण से विकसित होकर आत्मा और सामाजिक अनुनाद वाले सांस्कृतिक प्रतीक बन रहे हैं।",
     "category": "hi",
@@ -96841,6 +96879,17 @@
     "featured": false,
     "date": "2026-06-19",
     "path": "hi/Society/join-public-policy-platform.md"
+  },
+  {
+    "title": "सिकाडा: 2009 के मोराकोट से 2025 के गोलार्ध-पार हिमनदों तक सोलह वर्षों की क्षेत्र रिकॉर्डिंग",
+    "description": "2009 में ताइपे में स्थापित सिकाडा एक पूर्ण वाद्य, बिना गायन वाला स्वतंत्र संगीत समूह है। संस्थापक पियानोवादक जेसी चियांग (उत्तरी कला विश्वविद्यालय कला इतिहास स्नातकोत्तर) ने उस वर्ष मोराकोट तूफान की खबरें देखकर पहली रचनाएं लिखीं। सोलह वर्षों में उन्होंने ताइवान के तटीय क्षरण, समुद्री पारिस्थितिकी, पर्वतीय जलस्रोतों को एक के बाद एक बिना गायन वाले एल्बमों में बदला, पश्चिमी तट से ('सीमाओं का क्षय' 2013), पूर्वी तट प्रशांत ('समुद्र तल की ओर निहारना' 2015) होते हुए केंद्रीय पर्वत शृंखला के जलस्रोतों तक ('धारा के स्रोत पर निवास' 2022, 15 दिन 120 किमी अभियान)। जापानी फिल्म 'वह आदमी' के लिए संगीत दिया, जापान अकादमी पुरस्कार उत्कृष्ट संगीत पुरस्कार जीता। 2025 में 'सफेद सीमा को निहारना' पहली बार क्षेत्र कार्य को ताइवान से बाहर ले गया, हिमनदों के साथ ग्रीनलैंड, आइसलैंड, न्यूजीलैंड होते हुए वापस श्युएशान के प्राचीन हिमनदों के निशान खोजने आया।",
+    "category": "hi",
+    "tags": [],
+    "url": "https://taiwan.md/hi/people/cicada-band",
+    "readingTime": 143,
+    "featured": false,
+    "date": "2026-04-18",
+    "path": "hi/People/cicada-band.md"
   },
   {
     "title": "सिल्विया चांग: चियाई से शुरुआत, \"बचपन\" की मूल गायिका से \"लव एंड लव\" की निर्देशक तक",
