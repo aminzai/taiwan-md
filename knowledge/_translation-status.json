@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-01T22:23:36+08:00",
-    "zhCommitHead": "f685e5455",
+    "lastUpdated": "2026-08-01T22:28:30+08:00",
+    "zhCommitHead": "1739c62fd",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -67,8 +67,8 @@
       },
       "id": {
         "total_zh": 877,
-        "fresh": 469,
-        "stale": 3,
+        "fresh": 470,
+        "stale": 2,
         "metadata_stale": 0,
         "missing": 405,
         "orphan": 0
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 679,
+        "fresh": 680,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 198,
+        "missing": 197,
         "orphan": 0
       }
     },
@@ -7844,18 +7844,16 @@
         "id": {
           "path": "id/Economy/top-50-companies-taiwan.md",
           "translatedFrom": "Economy/台灣前50大企業.md",
-          "sourceCommitSha": "31a05c44b",
-          "sourceContentHash": "sha256:86eae1d1c642a4eb",
-          "sourceBodyHash": "",
+          "sourceCommitSha": "21298a7a",
+          "sourceContentHash": "sha256:22fc95c656db9409",
+          "sourceBodyHash": "sha256:645f8f42e79639a7",
           "translatedAt": "2026-07-28T23:44:15.634559+00:00",
           "translationLastCommit": "36ec99d5",
           "translationLastModified": "2026-07-29T08:32:47+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+8 -8"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/top-50-companies-taiwan.md",
@@ -25998,7 +25996,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Art/history-of-taiwanese-literature.md",
+          "translatedFrom": "Art/台灣文學史.md",
+          "sourceCommitSha": "4d7fab8ee",
+          "sourceContentHash": "sha256:894f1af0d29b3b98",
+          "sourceBodyHash": "sha256:b3ce615995198c0c",
+          "translatedAt": "2026-07-31T22:46:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -42161,8 +42170,8 @@
           "sourceContentHash": "sha256:f86cdecbd23b7e4f",
           "sourceBodyHash": "sha256:77348d4fbb7640a8",
           "translatedAt": "2026-07-31T22:46:20+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1739c62f",
+          "translationLastModified": "2026-08-01T22:23:37+08:00",
           "inferred": false,
           "footnoteDefs": 55,
           "status": "fresh",
@@ -83520,8 +83529,8 @@
           "sourceContentHash": "sha256:da09e4b3162c5f4c",
           "sourceBodyHash": "",
           "translatedAt": "2026-07-31T23:19:09.733640+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1739c62f",
+          "translationLastModified": "2026-08-01T22:23:37+08:00",
           "inferred": false,
           "footnoteDefs": 65,
           "status": "fresh",
