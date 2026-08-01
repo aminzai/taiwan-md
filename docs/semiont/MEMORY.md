@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-02
-last_session: '2026-08-02-011152-twmd-news-lens-weekly（W31 三源交叉，Blue UAS SC +437% 撞新聞，6 候選出口關閉）'
+last_session: '2026-08-02-021610-twmd-weekly-report-sun（W31 週體檢，routine-sync-check regex 修復 + 免疫黃燈升 roadmap）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -332,3 +332,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-01 | 084406-twmd-maintainer-daily | 0 PR／5 舊 issue 全無新 follow-up（Step 2.4 逐條核對）vc=1；本地 build 撞同機背景進程競態改採 CI 綠為準 | 檔案系統層的整層 rm -rf 重建跟 git 層一樣需要「先確認無人在用」，同機多進程碰撞面不只在 git | [→](memory/2026-08-01-084406-twmd-maintainer-daily.md) |
 | 2026-08-01 | 093254-twmd-flywheel-watch | 飛輪綠燈零警報（24hr 73 commit／7 筆 routine，六條日更全留痕，maintainer 空場仍留索引）；第一把尺被 `memory:` 前綴遮住三條，全靠第二把尺接住 | 空場照樣留痕才分得出跟死掉的差別；兩把尺第一次以「第一把全失手」證明價值 | [→](memory/2026-08-01-093254-twmd-flywheel-watch.md) |
 | 2026-08-02 | 011152-twmd-news-lens-weekly | W31 三源交叉：Blue UAS SC +437% 撞雷虎/Shield AI 新聞，6 候選出口關閉；英文缺口四週擴大到 6 篇；flag 一條 INBOX stale | 資料訊號與時事訊號合流時，候選信心不需靠主觀判斷 | [→](memory/2026-08-02-011152-twmd-news-lens-weekly.md) |
+| 2026-08-02 | 021610-twmd-weekly-report-sun | W31 週體檢：regex 誤吞退休表修復；免疫黃燈連 28 天升 roadmap；週報寄出 bcc=14 | 上週寫的 bug 這週修了，新黃燈這週才被撈出來——落差同一篇裡各示範一次 | [→](memory/2026-08-02-021610-twmd-weekly-report-sun.md) |
