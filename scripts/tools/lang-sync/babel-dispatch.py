@@ -786,6 +786,27 @@ def do_commit(lang: str, state: RunState, no_commit: bool, log: Logger) -> None:
     git_lock_commit(lang, workers, files, log)
 
 
+PATCH_REJECT_ESCALATE = 5
+
+
+def patch_reject_count(lang: str, zh_path: str) -> int:
+    """讀 fail-reasons.json，回傳這篇 patch engine 被 verify trio 拒絕過幾次。
+
+    v1.53 診斷（ja/金瓜石連續 13 次同型失敗）：patch-translate.py exit=1 時
+    v1.11 刻意不 fallback 全文（避免同一輪對同一篇燒兩次算力），但沒有累計
+    次數的升級機制，難篇會永遠卡在同一個章節重試迴圈，13 次都選中同一句。
+    這裡只讀既有的 fail-reasons.json 側錄（2026-07-31 已上線），不新增狀態。
+    """
+    try:
+        if not FAIL_REASONS.exists():
+            return 0
+        store = json.loads(FAIL_REASONS.read_text(encoding="utf-8"))
+        return store.get(f"{lang}:{zh_path}", {}).get(
+            "patch candidate rejected by verify trio (exit=1)", 0)
+    except Exception:
+        return 0
+
+
 def structured_fallback_policy(cascade_spec: str, primary_output: str) -> tuple[bool, str | None]:
     """用同 run 的實績決定零產物後是否值得換 structured engine。
 
@@ -891,20 +912,27 @@ def process_task(worker: Worker, lang: str, group_path: Path, zh_path: str,
     # 是為 3% 的改動燒 100% 算力。patch-translate.py exit 2 = 章節數不對齊／改動
     # 過大／sha 不可解析等不適合 patch 的情況，fallback 回下面既有的全文路徑；
     # exit 1 = 有試但驗證沒過（patch-translate.py 自己已跑過三重驗證，沒寫檔），
-    # 直接沿用既有 gate-fail 處理，不再重試 fallback 全文（避免同一輪對同一篇
-    # 燒兩次算力）。
+    # 直接沿用既有 gate-fail 處理，不重試 fallback 全文（避免同一輪對同一篇燒
+    # 兩次算力）——除非這篇已經被拒絕過 PATCH_REJECT_ESCALATE 次（見下方
+    # patch_reject_count），代表反覆卡在同一個章節重試迴圈，這時跳過 patch
+    # 直接走整篇重翻（v1.53 診斷：ja/金瓜石連續 13 次同型 patch-reject 死鎖）。
     proc: subprocess.CompletedProcess | None = None
     engine_label = engine
     if status == "stale" and not no_patch:
-        pcmd = ["python3", "-u", "scripts/tools/lang-sync/patch-translate.py",
-                zh_path, "--lang", lang, "--backend", _backend_spec(), "--out", trans_path]
-        pproc = subprocess.run(pcmd, cwd=REPO, env=worker_env(worker), capture_output=True, text=True)
-        if pproc.returncode == 2:
-            log(f"⏩ patch-translate not applicable ({lang}:{zh_path}, exit=2) — "
-                f"fallback to full retranslate\n{(pproc.stdout + pproc.stderr)[-800:]}")
+        reject_count = patch_reject_count(lang, zh_path)
+        if reject_count >= PATCH_REJECT_ESCALATE:
+            log(f"⏫ patch-reject 累計 {reject_count} 次（≥{PATCH_REJECT_ESCALATE}）— "
+                f"跳過 patch engine，強制整篇重翻 ({lang}:{zh_path})")
         else:
-            proc = pproc
-            engine_label = "patch"
+            pcmd = ["python3", "-u", "scripts/tools/lang-sync/patch-translate.py",
+                    zh_path, "--lang", lang, "--backend", _backend_spec(), "--out", trans_path]
+            pproc = subprocess.run(pcmd, cwd=REPO, env=worker_env(worker), capture_output=True, text=True)
+            if pproc.returncode == 2:
+                log(f"⏩ patch-translate not applicable ({lang}:{zh_path}, exit=2) — "
+                    f"fallback to full retranslate\n{(pproc.stdout + pproc.stderr)[-800:]}")
+            else:
+                proc = pproc
+                engine_label = "patch"
 
     if proc is None:
         if engine == "structured":

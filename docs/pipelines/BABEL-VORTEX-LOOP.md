@@ -1,17 +1,17 @@
 ---
 title: 'BABEL-VORTEX-LOOP'
-description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.53)'
+description: '巴別塔渦流循環 canonical — 每次 schedule wakeup 必讀；固定 benchmark 面板 + 五動作 + 三重巡檢 + 自動進化硬條款 (v1.54)'
 type: 'pipeline-canonical'
 status: 'canonical'
-current_version: 'v1.53'
-last_updated: 2026-07-30
-last_session: '2026-07-30-230518-manual（tags 基線豁免＋31b 攻堅）'
+current_version: 'v1.54'
+last_updated: 2026-08-01
+last_session: '2026-08-01-065956-manual（patch-reject escalate 落地）'
 sister_docs:
   - 'SQUEEZE-MODELS-MAX-PIPELINE.md'
   - '../semiont/ROUTINE-PROMPT-CONTRACT.md'
 ---
 
-# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.53
+# BABEL-VORTEX-LOOP — 巴別塔渦流循環 canonical v1.54
 
 > **這份檔案是渦流的 SSOT**。每次 schedule wakeup 的第一動作是完整讀本檔再動工，
 > wake prompt 本身只准是薄殼（見 §Prompt contract）。誕生：2026-07-27 哲宇 directive
@@ -261,6 +261,14 @@ armor 一次都沒觸發——**改善另有來源，而真正的主因還在**�
 
 ## Changelog（進化紀錄——新發現往這裡沉澱）
 
+- v1.54（2026-08-01 19:40 執行）：**v1.53 診斷的修法已落地**。`babel-dispatch.py`
+  新增 `patch_reject_count()`（讀既有 `fail-reasons.json` 側錄，不新增狀態）＋
+  `PATCH_REJECT_ESCALATE = 5`：某篇 patch-reject 累計 ≥5 次時，`process_task()`
+  在進入 patch engine 前直接跳過，`proc` 保持 `None` 落入既有的「whole 引擎」
+  分支，強制整篇重翻。驗證：`ja:Geography/金瓜石.md` 實測 7 次、`es:同篇` 8 次，
+  兩者都會在下次排到時觸發 escalate；`ko:同篇` 4 次維持原路徑不變（低於門檻的
+  文章行為不受影響）。刻意選擇讀 fail-reasons 既有側錄而非新開計數器：v1.53
+  當輪已經量過這支側錄存在且可信，重造第二把尺是多餘成本。
 - v1.53（2026-08-01 06:41 巡檢，診斷）：**ja/金瓜石 patch reject 是結構性死鎖，
   不是準確率問題**。fail-memo 累計 13 次同型失敗（7 patch reject + 6 leak），
   追到最新一次跟昨夜 §四完全同一個 hit——`'如果' x1`，同一句「地元鉱夫が肺と
