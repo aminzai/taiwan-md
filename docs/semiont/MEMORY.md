@@ -313,3 +313,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-02 | 053400-twmd-embeddings-nightly | bge-m3 nightly 12 語 8695 向量 0 fail；vi(448)/id(460) 首度雙雙穩站 400 篇門檻，handoff 追蹤項退場 | 本機優先解析零 fallback 需求，preflight 一次命中 | [→](memory/2026-08-02-053400-twmd-embeddings-nightly.md) |
 | 2026-08-02 | 053810-twmd-routine-sync | 三層對賬第八輪，17 條全 in-sync 零漂移；7/29 修好的 babel-nightly drift 連四天沒復發 | 連續全綠仍要記一行，否則下次沒基線可比這條 routine 有沒有在跑 | [→](memory/2026-08-02-053810-twmd-routine-sync.md) |
 | 2026-08-02 | 061442-twmd-data-refresh-am | 14 步全綠零 stale，第五個連續全綠早晨；articles=875 跟昨日持平 | 數字跟昨天一樣時，記錄才能分辨「今天沒跑」跟「今天跑了但無新文章」 | [→](memory/2026-08-02-061442-twmd-data-refresh-am.md) |
+| 2026-08-02 | 064224-twmd-spore-harvest-am | 4 spores harvest 零新勘誤（鎢供應鏈 D+7 終點站續平 479K／苯駢芘 D+6）；回讀文章本體確認命案框架已用匿名化陳述接住，讀者串無新升級 | pipeline 與 MANIFESTO 回覆自動發布政策落差連續第 4+ 輪只記錄未修，該次性改 canonical | [→](memory/2026-08-02-064224-twmd-spore-harvest-am.md) |
