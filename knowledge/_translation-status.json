@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-01T08:25:29+08:00",
-    "zhCommitHead": "62f0f2036",
+    "lastUpdated": "2026-08-01T08:58:58+08:00",
+    "zhCommitHead": "999b7ca47",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 650,
+        "fresh": 651,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 226,
+        "missing": 225,
         "orphan": 0
       },
       "ru": {
@@ -44174,8 +44174,8 @@
           "sourceContentHash": "sha256:31022a8379acbf4e",
           "sourceBodyHash": "sha256:13d4a3545c8fc998",
           "translatedAt": "2026-08-01T05:12:36+08:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "999b7ca4",
+          "translationLastModified": "2026-08-01T08:25:29+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -64827,7 +64827,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/chen-chien-nien.md",
+          "translatedFrom": "People/陳建年.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:f3d5577608a77794",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-01T00:40:03.510870+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/chen-chien-nien.md",
