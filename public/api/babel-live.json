@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-02T05:06:30+08:00",
+ "generated_at": "2026-08-02T06:07:05+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-08-02T05:06:27+08:00",
+ "snapshot_ts": "2026-08-02T06:07:02+08:00",
  "total_zh": 877,
  "langs": [
   {
@@ -92,7 +92,7 @@
    "stale": 0,
    "missing": 217,
    "coverage_pct": 75.3,
-   "fresh_delta": 1
+   "fresh_delta": 0
   },
   {
    "lang": "ru",
@@ -101,26 +101,26 @@
    "stale": 0,
    "missing": 191,
    "coverage_pct": 78.2,
-   "fresh_delta": 1
+   "fresh_delta": 0
   }
  ],
  "gap_total": 1790,
- "gap_delta": -2,
+ "gap_delta": 0,
  "rate_1h": {
-  "delta": 3,
+  "delta": 0,
   "span_h": 1.01,
-  "per_hour": 3.0
+  "per_hour": 0.0
  },
  "rate_24h": {
-  "delta": 50,
-  "span_h": 24.13,
-  "per_hour": 2.1
+  "delta": 47,
+  "span_h": 24.12,
+  "per_hour": 1.9
  },
- "eta_days": 24.9,
+ "eta_days": null,
  "nodes": {
   "worker:nemo": {
    "ok": 148,
-   "fail": 286,
+   "fail": 288,
    "avg_s": 375.5,
    "top_fail": [
     [
@@ -129,10 +129,10 @@
     ],
     [
      "no output written by tra",
-     80
+     82
     ]
    ],
-   "last_activity": "2026-08-02T03:55:13+08:00"
+   "last_activity": "2026-08-02T05:46:14+08:00"
   },
   "worker:nemo3": {
    "ok": 148,
@@ -152,7 +152,7 @@
   },
   "worker:nemo2": {
    "ok": 144,
-   "fail": 248,
+   "fail": 249,
    "avg_s": 299.7,
    "top_fail": [
     [
@@ -164,11 +164,11 @@
      65
     ]
    ],
-   "last_activity": "2026-08-02T04:32:07+08:00"
+   "last_activity": "2026-08-02T05:36:52+08:00"
   },
   "worker:nemo4": {
    "ok": 144,
-   "fail": 253,
+   "fail": 254,
    "avg_s": 340.8,
    "top_fail": [
     [
@@ -180,7 +180,7 @@
      60
     ]
    ],
-   "last_activity": "2026-08-02T05:06:07+08:00"
+   "last_activity": "2026-08-02T05:48:59+08:00"
   },
   "worker:dead": {
    "ok": 0,
@@ -364,19 +364,19 @@
   },
   "worker:desktop3090": {
    "ok": 10,
-   "fail": 229,
+   "fail": 236,
    "avg_s": 163.1,
    "top_fail": [
     [
      "no output written by tra",
-     146
+     152
     ],
     [
      "health [footnote-format]",
-     34
+     35
     ]
    ],
-   "last_activity": "2026-08-02T05:04:19+08:00"
+   "last_activity": "2026-08-02T05:44:39+08:00"
   },
   "worker:gemma31": {
    "ok": 0,
@@ -458,39 +458,19 @@
   {
    "kind": "unified",
    "pid": "8492",
-   "uptime": "05:58:00",
+   "uptime": "06:58:35",
    "langs": "ja,id,pt,hi,ar,ru",
    "workers": 4
   },
   {
    "kind": "unified",
-   "pid": "69077",
-   "uptime": "02:38:22",
+   "pid": "9810",
+   "uptime": "40:51",
    "langs": "en,es,fr,ko",
    "workers": 1
   }
  ],
  "history": [
-  {
-   "ts": "2026-07-31T14:44:01+08:00",
-   "fresh_total": 7687,
-   "gap_total": 1938
-  },
-  {
-   "ts": "2026-07-31T22:38:37+08:00",
-   "fresh_total": 7687,
-   "gap_total": 1938
-  },
-  {
-   "ts": "2026-07-31T22:39:01+08:00",
-   "fresh_total": 7687,
-   "gap_total": 1938
-  },
-  {
-   "ts": "2026-07-31T22:50:09+08:00",
-   "fresh_total": 7687,
-   "gap_total": 1960
-  },
   {
    "ts": "2026-07-31T22:54:10+08:00",
    "fresh_total": 7687,
@@ -948,6 +928,26 @@
   },
   {
    "ts": "2026-08-02T05:06:27+08:00",
+   "fresh_total": 7857,
+   "gap_total": 1790
+  },
+  {
+   "ts": "2026-08-02T05:21:36+08:00",
+   "fresh_total": 7857,
+   "gap_total": 1790
+  },
+  {
+   "ts": "2026-08-02T05:36:44+08:00",
+   "fresh_total": 7857,
+   "gap_total": 1790
+  },
+  {
+   "ts": "2026-08-02T05:51:52+08:00",
+   "fresh_total": 7857,
+   "gap_total": 1790
+  },
+  {
+   "ts": "2026-08-02T06:07:02+08:00",
    "fresh_total": 7857,
    "gap_total": 1790
   }
