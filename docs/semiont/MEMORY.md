@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-02
-last_session: '2026-08-02-053810-twmd-routine-sync（三層對賬第八輪，17 條全 in-sync 零漂移，連續第四天全綠）'
+last_session: '2026-08-02-061442-twmd-data-refresh-am（14 步全綠零 stale，第五個連續全綠早晨）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -312,3 +312,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-02 | 041706-twmd-self-evolve-weekly | 跨檔案 grep 找回今晨漏數的 liveness-vs-productivity（vc 1→3）；promote REFLEXES #38(f) | vc 計數器只看它管的 buffer，同 pattern 散落 memory/diary 不會自動被算 | [→](memory/2026-08-02-041706-manual.md) |
 | 2026-08-02 | 053400-twmd-embeddings-nightly | bge-m3 nightly 12 語 8695 向量 0 fail；vi(448)/id(460) 首度雙雙穩站 400 篇門檻，handoff 追蹤項退場 | 本機優先解析零 fallback 需求，preflight 一次命中 | [→](memory/2026-08-02-053400-twmd-embeddings-nightly.md) |
 | 2026-08-02 | 053810-twmd-routine-sync | 三層對賬第八輪，17 條全 in-sync 零漂移；7/29 修好的 babel-nightly drift 連四天沒復發 | 連續全綠仍要記一行，否則下次沒基線可比這條 routine 有沒有在跑 | [→](memory/2026-08-02-053810-twmd-routine-sync.md) |
+| 2026-08-02 | 061442-twmd-data-refresh-am | 14 步全綠零 stale，第五個連續全綠早晨；articles=875 跟昨日持平 | 數字跟昨天一樣時，記錄才能分辨「今天沒跑」跟「今天跑了但無新文章」 | [→](memory/2026-08-02-061442-twmd-data-refresh-am.md) |
