@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-02T06:12:40+08:00",
-    "zhCommitHead": "1afe20a25",
+    "lastUpdated": "2026-08-02T06:51:08+08:00",
+    "zhCommitHead": "76804d142",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -67,18 +67,18 @@
       },
       "id": {
         "total_zh": 877,
-        "fresh": 471,
+        "fresh": 472,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 404,
+        "missing": 403,
         "orphan": 0
       },
       "pt": {
         "total_zh": 877,
-        "fresh": 782,
+        "fresh": 783,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 89,
+        "missing": 88,
         "orphan": 0
       },
       "hi": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 686,
+        "fresh": 687,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 191,
+        "missing": 190,
         "orphan": 0
       }
     },
@@ -21197,8 +21197,8 @@
           "sourceContentHash": "sha256:08a786ea48be0947",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-01T21:49:14.186285+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "76804d14",
+          "translationLastModified": "2026-08-02T06:12:40+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "status": "fresh",
@@ -58638,7 +58638,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/cicada-band.md",
+          "translatedFrom": "People/Cicada.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:3d1c97835c5d9ea3",
+          "sourceBodyHash": "sha256:5091127dea208f82",
+          "translatedAt": "2026-08-01T23:08:38+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/cicada-band.md",
@@ -106575,8 +106586,8 @@
           "sourceContentHash": "sha256:c3748ae1610fed44",
           "sourceBodyHash": "sha256:68f6beb778ba92ff",
           "translatedAt": "2026-08-01T23:08:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "76804d14",
+          "translationLastModified": "2026-08-02T06:12:40+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "status": "fresh",
@@ -114255,7 +114266,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/shilin.md",
+          "translatedFrom": "Geography/士林.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:fa3c9da0d146b3a4",
+          "sourceBodyHash": "sha256:18f3978bd2f84e6f",
+          "translatedAt": "2026-08-01T23:08:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -116634,7 +116656,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/taiwan-indigo-dyeing.md",
+          "translatedFrom": "Culture/藍染.md",
+          "sourceCommitSha": "a43cf9153",
+          "sourceContentHash": "sha256:1670373f1f6c3b4a",
+          "sourceBodyHash": "sha256:e04eb558f9b5295b",
+          "translatedAt": "2026-08-01T23:08:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 46,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
