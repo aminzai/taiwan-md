@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-02T01:23:29+08:00",
-    "zhCommitHead": "f87df5a82",
+    "lastUpdated": "2026-08-02T04:32:13+08:00",
+    "zhCommitHead": "ed0cbc11a",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 877,
-        "fresh": 843,
-        "stale": 22,
+        "fresh": 844,
+        "stale": 21,
         "metadata_stale": 1,
         "missing": 11,
         "orphan": 0
@@ -67,18 +67,18 @@
       },
       "id": {
         "total_zh": 877,
-        "fresh": 470,
+        "fresh": 471,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 405,
+        "missing": 404,
         "orphan": 0
       },
       "pt": {
         "total_zh": 877,
-        "fresh": 780,
+        "fresh": 781,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 91,
+        "missing": 90,
         "orphan": 0
       },
       "hi": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 684,
+        "fresh": 685,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 193,
+        "missing": 192,
         "orphan": 0
       }
     },
@@ -38420,8 +38420,8 @@
           "sourceContentHash": "sha256:f55314385d9caf18",
           "sourceBodyHash": "sha256:7661cd6b847cb615",
           "translatedAt": "2026-08-01T23:08:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "07fca7a5",
+          "translationLastModified": "2026-08-02T01:23:29+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -61223,8 +61223,8 @@
           "sourceContentHash": "sha256:27b9c46e9dd00321",
           "sourceBodyHash": "sha256:bfc5f694a6aa2127",
           "translatedAt": "2026-08-01T23:08:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "07fca7a5",
+          "translationLastModified": "2026-08-02T01:23:29+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -61327,7 +61327,18 @@
           "diffSummary": "+6 -6"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/yang-dechang.md",
+          "translatedFrom": "People/楊德昌.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:d43bbd945067b97d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-01T16:51:12.370230+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 92,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/yang-dechang.md",
@@ -69508,8 +69519,8 @@
           "sourceContentHash": "sha256:5d1d8e5f0b7eaefd",
           "sourceBodyHash": "sha256:c035c602c7e335fa",
           "translatedAt": "2026-08-01T23:08:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "07fca7a5",
+          "translationLastModified": "2026-08-02T01:23:29+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -106472,18 +106483,16 @@
         "ja": {
           "path": "ja/Geography/jinguashi.md",
           "translatedFrom": "Geography/金瓜石.md",
-          "sourceCommitSha": "676c8cd6",
-          "sourceContentHash": "sha256:36ec0adabddd5612",
-          "sourceBodyHash": "sha256:7a207109d1ae592a",
-          "translatedAt": "2026-07-16T00:45:14+08:00",
+          "sourceCommitSha": "9c5ad569a",
+          "sourceContentHash": "sha256:c3748ae1610fed44",
+          "sourceBodyHash": "sha256:68f6beb778ba92ff",
+          "translatedAt": "2026-08-01T23:08:37+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 40,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Geography/jinguashi.md",
@@ -106538,7 +106547,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/jinguashi.md",
+          "translatedFrom": "Geography/金瓜石.md",
+          "sourceCommitSha": "9c5ad569a",
+          "sourceContentHash": "sha256:c3748ae1610fed44",
+          "sourceBodyHash": "sha256:68f6beb778ba92ff",
+          "translatedAt": "2026-08-01T23:08:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Geography/jinguashi.md",
@@ -113820,7 +113840,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/tainan-city.md",
+          "translatedFrom": "Geography/台南市.md",
+          "sourceCommitSha": "925aca59e",
+          "sourceContentHash": "sha256:a92ec79c444536b4",
+          "sourceBodyHash": "sha256:2dcae5a0df1cbb16",
+          "translatedAt": "2026-08-01T23:08:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
