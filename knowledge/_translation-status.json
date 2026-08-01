@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-02T06:51:08+08:00",
-    "zhCommitHead": "76804d142",
+    "lastUpdated": "2026-08-02T07:02:38+08:00",
+    "zhCommitHead": "2a3be6703",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 660,
+        "fresh": 661,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 217,
+        "missing": 216,
         "orphan": 0
       },
       "ru": {
@@ -58644,8 +58644,8 @@
           "sourceContentHash": "sha256:3d1c97835c5d9ea3",
           "sourceBodyHash": "sha256:5091127dea208f82",
           "translatedAt": "2026-08-01T23:08:38+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2a3be670",
+          "translationLastModified": "2026-08-02T06:51:08+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -61366,8 +61366,8 @@
           "sourceContentHash": "sha256:d43bbd945067b97d",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-01T16:51:12.370230+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2a3be670",
+          "translationLastModified": "2026-08-02T06:51:08+08:00",
           "inferred": false,
           "footnoteDefs": 92,
           "status": "fresh",
@@ -108192,7 +108192,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/miaoli-county.md",
+          "translatedFrom": "Geography/苗栗縣.md",
+          "sourceCommitSha": "b457dbbb1",
+          "sourceContentHash": "sha256:a0095914fdfea49d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-01T22:40:02.686519+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 36,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
