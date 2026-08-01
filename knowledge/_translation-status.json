@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-02T04:32:13+08:00",
-    "zhCommitHead": "ed0cbc11a",
+    "lastUpdated": "2026-08-02T05:06:13+08:00",
+    "zhCommitHead": "762a84162",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 659,
+        "fresh": 660,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 218,
+        "missing": 217,
         "orphan": 0
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 685,
+        "fresh": 686,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 192,
+        "missing": 191,
         "orphan": 0
       }
     },
@@ -22675,8 +22675,8 @@
           "sourceContentHash": "sha256:4eec1818bd85149d",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-01T16:24:27.172825+00:00",
-          "translationLastCommit": "6ff21f66",
-          "translationLastModified": "2026-07-24T13:51:01+08:00",
+          "translationLastCommit": "762a8416",
+          "translationLastModified": "2026-08-02T04:32:13+08:00",
           "inferred": false,
           "footnoteDefs": 72,
           "status": "fresh",
@@ -37082,7 +37082,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/the-reporter-investigative-journalism.md",
+          "translatedFrom": "Society/報導者.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:46044d1881e9332e",
+          "sourceBodyHash": "sha256:ca526dda99de158c",
+          "translatedAt": "2026-08-01T23:08:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 60,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -106487,8 +106498,8 @@
           "sourceContentHash": "sha256:c3748ae1610fed44",
           "sourceBodyHash": "sha256:68f6beb778ba92ff",
           "translatedAt": "2026-08-01T23:08:37+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "762a8416",
+          "translationLastModified": "2026-08-02T04:32:13+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "status": "fresh",
@@ -114667,7 +114678,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/chiayi-county.md",
+          "translatedFrom": "Geography/嘉義縣.md",
+          "sourceCommitSha": "6f28d6167",
+          "sourceContentHash": "sha256:e233ab9cc8b79527",
+          "sourceBodyHash": "sha256:8e7d5975a9ac8375",
+          "translatedAt": "2026-08-01T23:08:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 30,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
