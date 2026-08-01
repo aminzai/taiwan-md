@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-02T05:06:13+08:00",
-    "zhCommitHead": "762a84162",
+    "lastUpdated": "2026-08-02T06:12:40+08:00",
+    "zhCommitHead": "1afe20a25",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 877,
-        "fresh": 781,
+        "fresh": 782,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 90,
+        "missing": 89,
         "orphan": 0
       },
       "hi": {
@@ -21191,7 +21191,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Technology/open-culture-foundation.md",
+          "translatedFrom": "Technology/開放文化基金會.md",
+          "sourceCommitSha": "c8e5ac9ea",
+          "sourceContentHash": "sha256:08a786ea48be0947",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-01T21:49:14.186285+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 36,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -37088,8 +37099,8 @@
           "sourceContentHash": "sha256:46044d1881e9332e",
           "sourceBodyHash": "sha256:ca526dda99de158c",
           "translatedAt": "2026-08-01T23:08:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7d4e9fdb",
+          "translationLastModified": "2026-08-02T05:06:13+08:00",
           "inferred": false,
           "footnoteDefs": 60,
           "status": "fresh",
@@ -113857,8 +113868,8 @@
           "sourceContentHash": "sha256:a92ec79c444536b4",
           "sourceBodyHash": "sha256:2dcae5a0df1cbb16",
           "translatedAt": "2026-08-01T23:08:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7d4e9fdb",
+          "translationLastModified": "2026-08-02T05:06:13+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
