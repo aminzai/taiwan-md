@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T22:13:21.370201Z",
+  "lastUpdated": "2026-08-01T22:41:20.395233Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 154,
@@ -32,7 +32,7 @@
       "url": "https://x.com/taiwandotmd/status/2081744559860818133",
       "highlight": "同 #163 內容，X 單則貼文＋inline s164 UTM",
       "views_7d": null,
-      "views_latest": 4992,
+      "views_latest": 5002,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -48,7 +48,7 @@
       "url": "https://www.threads.com/@taiwandotmd/post/DbTJE6Mk8mK",
       "highlight": "食安法沒定義「發現」的時點：中聯拖 19 天、連淨當天說；收尾把「你會先打給上游還是政府」交還讀者",
       "views_7d": null,
-      "views_latest": 1698,
+      "views_latest": 1705,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -63,10 +63,10 @@
       "template": "B 冷知識型／結構性題目",
       "url": "https://x.com/taiwandotmd/status/2081354251016773702",
       "highlight": "同 #161 內容，X 單則貼文＋inline s162 UTM",
-      "views_7d": null,
+      "views_7d": 49000,
       "views_latest": 49000,
-      "engagements_7d": null,
-      "rate_7d": null,
+      "engagements_7d": 2837,
+      "rate_7d": 5.79,
       "backfilled": true
     },
     {
@@ -79,10 +79,10 @@
       "template": "B 冷知識型／結構性題目",
       "url": "https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb",
       "highlight": "鎢絲/鑽頭/婚戒同金屬冷知識起手，日相涉台發言→中國對日鎢粉出口砍零→日廠永久停產，收在屏東枋寮回收廠靠廢鎢漲350%卡位鏈上",
-      "views_7d": null,
+      "views_7d": 430000,
       "views_latest": 430000,
-      "engagements_7d": null,
-      "rate_7d": null,
+      "engagements_7d": 48471,
+      "rate_7d": 11.27,
       "backfilled": true
     },
     {
@@ -108,9 +108,9 @@
       "article": "台灣鎢供應鏈",
       "platform": "threads",
       "views": 430000,
-      "viewsSource": "latest",
-      "engagements": null,
-      "rate": null,
+      "viewsSource": "7d",
+      "engagements": 48471,
+      "rate": 11.27,
       "badge": "🌋 史上最強",
       "date": "2026-07-26",
       "url": "https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb"
@@ -203,37 +203,21 @@
   "amplification": [],
   "platformComparison": {
     "threads": {
-      "count": 57,
-      "avgViews": 25178,
-      "maxViews": 300000,
-      "avgRate": 5.79,
+      "count": 58,
+      "avgViews": 32158,
+      "maxViews": 430000,
+      "avgRate": 5.94,
       "maxRate": 16.75
     },
     "x": {
-      "count": 67,
-      "avgViews": 13913,
+      "count": 68,
+      "avgViews": 14429,
       "maxViews": 136474,
-      "avgRate": 3.42,
+      "avgRate": 3.47,
       "maxRate": 9.09
     }
   },
   "backfillWarnings": [
-    {
-      "n": 161,
-      "article": "台灣鎢供應鏈",
-      "platform": "threads",
-      "publishedDays": 7,
-      "status": "OVERDUE",
-      "url": "https://www.threads.com/@taiwandotmd/post/DbQXZI_E3Zb"
-    },
-    {
-      "n": 162,
-      "article": "台灣鎢供應鏈",
-      "platform": "x",
-      "publishedDays": 7,
-      "status": "OVERDUE",
-      "url": "https://x.com/taiwandotmd/status/2081354251016773702"
-    },
     {
       "n": 163,
       "article": "苯駢芘食安事件",
@@ -320,7 +304,7 @@
     {
       "week": "2026-W31",
       "published": 2,
-      "avgViews": 3345
+      "avgViews": 3354
     }
   ],
   "harvestStatus": [
@@ -1831,8 +1815,8 @@
       "publishDate": "2026-07-26",
       "daysSincePublish": 7,
       "withinHarvestWindow": true,
-      "harvestCount": 6,
-      "lastHarvest": "2026-08-01 06:41"
+      "harvestCount": 7,
+      "lastHarvest": "2026-08-02 06:40"
     },
     {
       "n": 162,
@@ -1841,8 +1825,8 @@
       "publishDate": "2026-07-26",
       "daysSincePublish": 7,
       "withinHarvestWindow": true,
-      "harvestCount": 6,
-      "lastHarvest": "2026-08-01 06:41"
+      "harvestCount": 7,
+      "lastHarvest": "2026-08-02 06:40"
     },
     {
       "n": 163,
@@ -1851,8 +1835,8 @@
       "publishDate": "2026-07-27",
       "daysSincePublish": 6,
       "withinHarvestWindow": true,
-      "harvestCount": 5,
-      "lastHarvest": "2026-08-01 06:42"
+      "harvestCount": 6,
+      "lastHarvest": "2026-08-02 06:40"
     },
     {
       "n": 164,
@@ -1861,8 +1845,8 @@
       "publishDate": "2026-07-27",
       "daysSincePublish": 6,
       "withinHarvestWindow": true,
-      "harvestCount": 5,
-      "lastHarvest": "2026-08-01 06:43"
+      "harvestCount": 6,
+      "lastHarvest": "2026-08-02 06:40"
     }
   ]
 }
