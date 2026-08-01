@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-01T20:09:01+08:00",
-    "zhCommitHead": "63415e8f5",
+    "lastUpdated": "2026-08-01T21:37:58+08:00",
+    "zhCommitHead": "f4675d35d",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -27,16 +27,16 @@
       },
       "ja": {
         "total_zh": 877,
-        "fresh": 839,
-        "stale": 25,
+        "fresh": 840,
+        "stale": 24,
         "metadata_stale": 1,
         "missing": 12,
         "orphan": 0
       },
       "ko": {
         "total_zh": 877,
-        "fresh": 854,
-        "stale": 14,
+        "fresh": 855,
+        "stale": 13,
         "metadata_stale": 0,
         "missing": 9,
         "orphan": 0
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 877,
-        "fresh": 774,
+        "fresh": 775,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 97,
+        "missing": 96,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 652,
+        "fresh": 653,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 224,
+        "missing": 223,
         "orphan": 0
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 677,
+        "fresh": 679,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 200,
+        "missing": 198,
         "orphan": 0
       }
     },
@@ -6083,8 +6083,8 @@
           "sourceContentHash": "sha256:3de7677c1cc54d07",
           "sourceBodyHash": "sha256:1962c2279b937909",
           "translatedAt": "2026-07-31T22:46:17+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "d588b288",
+          "translationLastModified": "2026-08-01T20:09:01+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -14359,8 +14359,8 @@
           "sourceContentHash": "sha256:4412f50a29e8bcfe",
           "sourceBodyHash": "sha256:6b0ed5d3cd521366",
           "translatedAt": "2026-07-31T22:46:17+08:00",
-          "translationLastCommit": "21298a7a",
-          "translationLastModified": "2026-07-29T13:39:11+09:00",
+          "translationLastCommit": "d588b288",
+          "translationLastModified": "2026-08-01T20:09:01+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -43833,16 +43833,16 @@
         "ja": {
           "path": "ja/Society/taiwan-zoos.md",
           "translatedFrom": "Society/台灣有哪些動物園.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:7d6b8df8619d617f",
-          "sourceBodyHash": "sha256:3ad428e65e8569d6",
-          "translatedAt": "2026-05-16T22:35:34Z",
+          "sourceCommitSha": "287389ecc",
+          "sourceContentHash": "sha256:39eab6090a3c571e",
+          "sourceBodyHash": "sha256:831b02af043591c7",
+          "translatedAt": "2026-07-31T22:46:17+08:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/taiwan-zoos.md",
@@ -54210,7 +54210,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Politics/nine-in-one-elections-explained.md",
+          "translatedFrom": "Politics/九合一選舉是什麼.md",
+          "sourceCommitSha": "e957cf7f1",
+          "sourceContentHash": "sha256:8130ad5ab40eae13",
+          "sourceBodyHash": "sha256:f699c0cd2ccbe17d",
+          "translatedAt": "2026-07-31T22:46:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -67520,7 +67531,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/ji-lin-lian.md",
+          "translatedFrom": "People/季麟連.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:e096cf547c4b743c",
+          "sourceBodyHash": "sha256:94870d211f5fa515",
+          "translatedAt": "2026-07-31T22:46:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/ji-lin-lian.md",
@@ -75992,7 +76014,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/ya-hsien-poet.md",
+          "translatedFrom": "People/瘂弦.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:e787dc16343b5dd6",
+          "sourceBodyHash": "sha256:b6b66329e69543f7",
+          "translatedAt": "2026-07-31T22:46:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/ya-hsien-poet.md",
@@ -80716,7 +80749,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/lin-yang-duo-taiwan-badminton-champions.md",
+          "translatedFrom": "People/麟洋配.md",
+          "sourceCommitSha": "c32d210ff",
+          "sourceContentHash": "sha256:940cd3ea72960eac",
+          "sourceBodyHash": "sha256:4c0e104cb6fe8601",
+          "translatedAt": "2026-07-31T22:46:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -86598,16 +86642,16 @@
         "ko": {
           "path": "ko/People/wu-ming-yi.md",
           "translatedFrom": "People/吳明益.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:2752c026dbd32f77",
-          "sourceBodyHash": "sha256:33817e164492daa0",
-          "translatedAt": "2026-04-14T19:24:10+08:00",
+          "sourceCommitSha": "fdd06c978",
+          "sourceContentHash": "sha256:9e044da79052e1d4",
+          "sourceBodyHash": "sha256:0b3e476aa45a53ca",
+          "translatedAt": "2026-08-01T08:25:38+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
-          "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "footnote-loss (33→0)"
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/wu-ming-yi.md",
