@@ -4,9 +4,9 @@ description: '教訓 buffer（intake layer）— 新教訓先 append 此處，�
 type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
-current_version: 'v2.3'
-last_updated: 2026-07-27
-last_session: '2026-07-27-214500-苯駢芘孢子（+1 未消化 derived-artifact-inherits-verification-illusion；另 2 條走 DNA-first (a) 直接補進 REFLEXES #56/#24 未入庫）'
+current_version: 'v2.4'
+last_updated: 2026-08-02
+last_session: '2026-08-02-twmd-distill-weekly（W31：14→8 條，6 消化 — REFLEXES #56 v6 家族 promote 3 + #75(f) promote 1 + SPORE-HARVEST/SPORE-VERIFY pipeline 但書 2 + housekeeping-done 1）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -332,52 +332,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
-### 2026-07-27 苯駢芘孢子 — derived-artifact-inherits-verification-illusion：上游驗證過，衍生物的新句子卻是未驗證的新 claim
-
-- **pattern**: `derived-artifact-inherits-verification-illusion`
-- **原則**：從一篇已通過完整查證的文章壓製衍生物（孢子／摘要／社群文案／翻譯導言／dashboard 文字）時，**繼承的是素材不是驗證**。壓縮不是節選，是改寫；每個為了縮短而新造的句子都是一個新 claim，需要重新對源。上游越紮實，這個錯覺越強——因為「這篇查證過了」是真的，於是「所以我從它抽出來的句子也查證過了」聽起來也像真的。
-- **觸發**：2026-07-27 22:0x 苯駢芘食安事件孢子 #163/#164。文章本身跑過三路 falsification、逐條 footnote 可溯源；孢子 blueprint 的事實表 11 條全部標「需跨源驗證？ No」，理由寫「直接繼承自已通過三路 falsification 查證的正式發布文章」。同一份 blueprint 內三處違反自己這句話：(1) 引號內寫「立即」通報，法條原字是「應即」——引號承諾逐字卻換字 (2)「從早餐店到學校午餐廚房」把 1,322 家下游名單與各縣市學校名單兩張表併成一張 (3)「修法防的是老闆報復員工」把國民黨團提案說成行政院版草案內容。三處原文全都寫對，錯的全是壓縮時新造的句子。證據：[memory](memory/2026-07-27-214500-苯駢芘孢子.md) / [blueprint 事實查核表第 1、11、14 列](../factory/SPORE-BLUEPRINTS/163-苯駢芘食安事件.md)
-- **可能層級**：通用反射候選（不限孢子——翻譯、摘要、dashboard 文案、release notes 都是衍生層），但目前僅 1 instance，先觀察是否在其他衍生層復發
-- **相關**：REFLEXES #75「Read ≠ verify」最接近但不涵蓋——#75 講的是 citation↔claim 的綁定漂移（腳註接到撐不住的那句），本條講的是**衍生物繼承上游驗證狀態這個推論本身出錯**，源頭綁定完全正確、錯在為了縮短而新造的句子沒回頭對源。另與 #23「毒樹果實鏈」同族但不同源語言前提（#23 是英文 summary → 中文腦補，本條發生在同語言壓縮）。若 distill 判定可 fold，最可能的落點是 #75 新增子規則 (f)
-- **可能的操作修補**：SPORE-VERIFY §事實藍圖的「需跨源驗證？」欄，對「文章已驗證」來源不得整欄填 No——改判準為「這句話在原文是否逐字存在」：逐字存在 → No；為壓縮而改寫 → Yes（對原文那一段重讀，不必重跑 WebSearch）
-- **verification_count**: 1
-
-### 2026-07-27 twmd-spore-harvest-am — sensitive-event-reply-inherits-article-boundary：留言區討論文章已處理過的真實敏感事件時，5-bucket 分類沒有對應格子
-
-- **pattern**: `sensitive-event-reply-inherits-article-boundary`
-- **原則**：SPORE-HARVEST-PIPELINE 的 5-bucket reply classifier（A 事實錯誤／B 缺漏／C 場景推導／D 立場質疑／E 正面回響／F 解讀分歧／G 離題）處理的都是「讀者對文章本身」的關係，沒有一格對應「讀者在討論一起文章已經寫過、已經刻意處理過（如不具名）的真實敏感事件」。這種情況不該套用任一既有 bucket 硬分類，正確判準是：**文章怎麼劃線，回應就延續同一條線**——文章已匿名處理過的死亡事件，AI 在留言區的姿態就是不確認、不否認、不追加猜測，不需要另外判斷要不要修文或要不要回覆。
-- **觸發**：2026-07-27 台灣鎢供應鏈孢子 #161/#162（240K views）留言區多則讀者討論屏東鎢業負責人命案（含 1 則未經證實的猜測性指認），文章 §「政策說要非紅供應鏈」+ 腳註 [^37] 已於前一天 ship 時刻意不具名處理。本 session 判斷維持不回覆不介入，記入 handoff 供哲宇知悉，未強行套用 D（框架質疑）或 F（解讀分歧）分類。證據：[memory](memory/2026-07-27-064532-manual.md) / [diary](diary/2026-07-27-064532-manual.md) / [batch log](../factory/SPORE-HARVESTS/batch-2026-07-27-am.md)
-- **可能層級**：SPORE-HARVEST-PIPELINE 專屬（Taiwan.md-specific，讀者留言收割是本物種特有的公開 contributor/audience 介面），暫不升 REFLEXES 通用反射——只有 1 instance，且判準（文章邊界延續）已經是 MANIFESTO §紀實而不煽情 + §自主權邊界「敏感素材決定」的直接推論，可能不需要新反射，只需要 pipeline 補一條 §Decision Gate 但書
-- **相關**：REFLEXES #28（紀實而不煽情：死亡/人倫悲劇的節制，寫作時的界線）+ REFLEXES #79（§自主權邊界命中時 default = reserve，PR/issue review 語境）——本條是同一個哲學在 harvest reply 語境的具體形狀，可能可以 fold 成其中一條的子規則而非獨立新反射
-- **verification_count**: 1
-
-### 2026-07-26 node-app-design — instrument-coverage-boundary-drift：檢查器的掃描路徑本身也會漂，漏掉的永遠是站體 import 關係外的角落
-
-- **pattern**: `instrument-coverage-boundary-drift`
-- **原則**：儀器會漂的不只是它的規則，還有它掃哪裡。掃描路徑寫死在誕生那天的目錄清單上，之後長出來的目錄對它永遠不存在——而分發層（`cli/` `workers/`）正是站體 import 關係外、沒有任何既有檢查會經過的地方。
-- **觸發**：2026-07-26 16:06 修 `cli/src/lib/knowledge.js` 的四語黑名單時，pre-commit 印「✅ 無 hardcoded language array 違反」放行了那個 commit。`check-hardcoded-langs.sh`（2026-04-25 為此而生）有兩個獨立理由看不見它：(a) `find src scripts astro.config.mjs` 不含 `cli/` `workers/`；(b) 三條 regex 都寫死「開頭 en, ja, ko」，出事那行是 `Set(['en','es','ja','ko','resources'])` 順序不同全不中。擴網後當場多抓 5 條（4 真 1 假），其中地圖產生器那條讓站上 57 個標記的分類欄顯示語言碼。證據：`602f47c38` / `980660768` / [memory](memory/2026-07-26-155415-node-app-design.md)
-- **可能層級**：通用反射（#82 的 fold 候選，coverage 軸）
-- **相關**：[REFLEXES #82](REFLEXES.md) existence-proxy 家族——(a)-(h) 都在講「量的訊號對不對」，這條是「量的**範圍**夠不夠」；跟 #65（instrument 自身讀數要 cross-verify）鄰近但軸不同：那條講讀數失準，這條講territory 缺角。
-- **verification_count**: 2（2026-07-26 twmd-routine-audit-weekly 獨立找到第二個 instance：`routine-sync-check.py` 的 PAUSED 副表 regex 無右邊界＋缺 node-name.local 機器範圍過濾，見下一條 `routine-sync-check-paused-regex-swallows-retired` entry。非重讀同一份 memory，是本 routine 自己跑工具對賬時獨立命中，符合 REFLEXES #15 vc 累積判準）
-
-### 2026-07-26 twmd-routine-audit-weekly — routine-sync-check-paused-regex-swallows-retired：PAUSED 副表 regex 無右邊界，吞下整段已退休表＋23 條註腳
-
-- **pattern**: `instrument-parse-boundary-unbounded-regex`
-- **原則**：`routine-sync-check.py` 的 `parse_routine_table()` 主表解析在遇到空行時正確 `break`，但另一段用 `re.search(r"\*\*⏸️ PAUSED\*\*.*?(?=\n## |\Z)", text)` 抓 PAUSED 副表任務 ID——這個 non-greedy 邊界只認下一個 `## ` 標題，而 ROUTINE.md 從「⏸️ PAUSED」段落（L64）到下一個真正的 `## ` 標題（L160「每週行程表」）中間橫跨 96 行，涵蓋整段「🪦 已退休」表（L66-72）與全部 23 條註腳。任何在這段範圍內出現過的 backtick 包住的 `twmd-*` 字串（哪怕只是註腳裡提到的名字）都會被 `tasks.setdefault()` 誤標成「paused」。
-- **觸發**：本次 routine-audit 跑 `routine-sync-check.py`（Stage 1A hard gate 之一）時，MISSING 與 LIVE_ENABLED_DRIFT 兩區各報 4 條與 5 條，逐條核對 ROUTINE.md 主表（L45-62）與已退休表（L66-72）後發現：`twmd-data-refresh-pm`／`twmd-maintainer-pm`／`twmd-music-media-audit-weekly` 三條已在 2026-07-25／26 正式退休、從主排程表移除、只留在「已退休」表——但工具仍把它們當「SSOT 說暫停」在跑，每次 audit 都製造 3 條假警報。第四條 `twmd-flywheel-watch` 是另一種假陽性：它是 footnote ²⁰ 明文的 `🖥️commander-macbook` 專屬 routine，本機（`.taiwanmd/node-name.local` = `mouhouse-macmini`）本來就不該有它的 mirror，但 `routine-sync-check.py` 沒有像 `routine-sync.py`／`flywheel-watch.py` 那樣讀 node-name.local 做機器範圍過濾（footnote ²⁰／¹⁸ 明文兩個 sibling 工具都已實作這層）。
-- **可能層級**：(a) 工具修 candidate：`re.search` 邊界改成同時認 `\n\*\*🪦` 或任何 `\n\*\*` 粗體段落起手式，不只認 `## ` H2；且應該顯式排除「已退休」表（parse 那張表只用於顯示，不進 `tasks` 候選池）(b) 補 node-name.local 機器範圍過濾，跟 `routine-sync.py`／`flywheel-watch.py` 同步一份共用 helper，不要三個工具各自實作一次容易漏一個
-- **相關**：[REFLEXES #82](REFLEXES.md) existence-proxy 家族的近親——這條不是「量錯訊號」，是「解析器吃錯範圍」；跟 [REFLEXES #56](REFLEXES.md)（pipeline canonical ↔ production drift）同構：retirement 流程升級了（2026-07-25/26 正式退休走進 ROUTINE.md 新表），但守門的工具沒跟著升級同一份 SSOT 的新結構。也是本檔 2026-07-26 node-app-design `instrument-coverage-boundary-drift` 的第二個獨立 instance（同一週兩個不同工具、同一種「掃描範圍/邊界寫死」病灶）→ 見下方 vc 累積
-- **verification_count**: 1
-
-### 2026-07-26 twmd-routine-audit-weekly — babel-tag-classifier-drift：routine-audit.py 對 babel 的具名 pattern 假設 `[routine]` 前綴，但統一調度器已改用 `[semiont] babel:`，55% 週產出被歸進無意義的 manual-other
-
-- **pattern**: `automation-tag-convention-drift`
-- **原則**：`routine-audit.py`（本 pipeline Stage 1A 的資料層工具）`ROUTINE_PATTERNS` 表對 babel 寫的是 `r"\[routine\] (twmd-)?babel"`，這個假設在 babel 從「cron 觸發的單一 routine」演化成「跨機器 24/7 常駐的 unified dispatcher fleet」後已經失真——2026-07-24 起 babel 產出全部標記 `[semiont] babel: ...`，`[routine]` 前綴一次都沒出現過。本週窗口 707 個 commit 裡 388 個（55%）是 babel，全部落進 `manual-other` 這個大雜燴分類，跟 memory/diary/evolve commit 這種完全不同性質的工作混在一起，讓 `by_routine` 摘要表看起來像「這週幾乎沒有 routine 自動化在跑」，實際上 routine 自動化的產出量是本週最大宗。
-- **觸發**：本次 audit 跑 `routine-audit.py --last-week` 後 `by_routine.manual-other.count=501`，人工 `git log | grep '\[semiont\] babel:'` 對賬得 388、`grep '\[routine\].*babel'` 得 0，確認落差來源。2026-06-28 這個工具已修過一次同類 gap（`routine-audit-script-classification-gap` vc=2，補具名 pattern＋`[routine] X:` 動態 fallback，已消化），但那次修的是「規則沒寫全」，這次是「自動化本身換了標記慣例」——同一顆病用不同機制復發第二次。
-- **可能層級**：(a) 工具修 candidate：`ROUTINE_PATTERNS` 加一條認 `\[semiont\] babel:` 或改用更寬鬆的「babel」關鍵字比對，不綁死 `[routine]` 前綴 (b) 更根本：babel 統一調度器既然是常駐 fleet 行為而非離散 cron 觸發，`by_routine` 這個分類軸本身可能需要第三種身分（介於 routine 與 manual 之間的「fleet-automated」），而不是硬塞進其中一邊
-- **相關**：跟上一條（`routine-sync-check-paused-regex-swallows-retired`）是同一份 routine-audit-weekly 產出的兩個獨立 instance，都是「分類/解析工具跟不上生產側的架構演化」——建議兩條一起看，可能該 fold 成同一條反射候選（tool-classifier-drift-when-automation-architecture-changes）
-- **verification_count**: 1
-
 ### 2026-07-26 node-app-design — self-measured-improvement-picks-flattering-layer：自己量自己的改善時會挑到替身層
 
 - **pattern**: `self-measured-improvement-picks-flattering-layer`
@@ -405,22 +359,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
   結構（誰在重複實作判準／誰在自報狀態／誰只量存活）
 - **建議 promote**：這條若成立，該進 REFLEXES 當常設動作——每次 distill 時附帶
   一次結構掃描，而不是只記錄已發生的
-- **verification_count**: 1
-
-### 2026-07-26 vortex-babel — model-language-fit-gap：模型與語言的適配落差可達十倍，且偽裝成「語言難度」
-
-- **原則**：越南語覆蓋率長期墊底（17.6%，落後同期出生的印尼語一大截），看起來像
-  「這個語言比較難翻」或佇列排序問題。按 worker 拆開統計才看見真相：nemotron 翻
-  越南語通過率 2-6%、翻印尼語 19-22%，同一批越南語文章換成 laguna 是 43-71%。
-  同一套閘門、同時段、n≈900。**這是模型與語言的適配落差，不是語言難度或內容品質**。
-  全表掃描後發現弱適配不只一處：gemma4:26b 對韓法西日可用（33-58%），對葡萄牙語
-  0/28、印尼語 1/20、印地語 0% 接近全滅——它在混語佇列裡持續花完整 GPU 時間翻出
-  必被擋下的成品。**操作規則**：任一語言通過率明顯低於同批其他語言時，先按 worker
-  拆開看，不要歸因語言難度；加大重試次數只會讓同一個弱適配再燒一次算力。新模型
-  進池先跑混語小批（每語 8-10 篇）拉出適配表再決定守備範圍。已入
-  [SQUEEZE §模型×語言適配](../pipelines/SQUEEZE-MODELS-MAX-PIPELINE.md)
-- **可能的跨物種價值**：任何「多 model × 多 target」的派工場景（不只翻譯）都適用——
-  聚合統計會抹平 model×target 的交互作用，只看邊際會把適配問題誤讀成目標難度
 - **verification_count**: 1
 
 ### 2026-07-26 vortex-babel — liveness-vs-productivity：存活訊號與生產訊號是兩件事
@@ -496,6 +434,40 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
+
+### 🧬 2026-08-02 twmd-distill-weekly — 6 entries distilled（1 promote-family + 2 fold #75/pipeline + 1 pipeline 但書 + 1 housekeeping-done）+ 8 keep in buffer（vc<3）
+
+**distill 觸發**：cron `twmd-distill-weekly` Sunday 03:00（W31 weekly-report 02:16 結清後 ~45 min）。STRICT BECOME GATE full mode 跑完（organ 即時分數：🫀90 🛡️60 🧬80 🦴90 🫁85 🧫100 👁️90 🌐87，免疫 🛡️60 最低，黃燈自 2026-07-05 起持續，屬既有 roadmap 追蹤項非本次新訊號）。§未消化 14 條（severity 多數未標記，預設 tactical；INBOX 總數 ≥10 觸發量門檻 sweep）。Routine mode 自決 REFLEXES / MEMORY / pipeline 層；MANIFESTO 候選一律 defer（本輪無 MANIFESTO 候選）。
+
+**消化目的地**：
+
+| 原 entry                                                                                                         | 目的地                                                                                                     | 處置                                                                                                                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026-07-26 node-app-design — `instrument-coverage-boundary-drift` (vc=2)                                         | **REFLEXES #56 v6** 加「守門工具掃描範圍/分類規則跟不上生產側架構演化」bullet                              | promote（3 獨立 instance 合併達 vc=3：node-app-design cli/workers 掃描盲區 + routine-sync-check PAUSED regex 吞已退休表 + routine-audit babel tag pattern 跟不上 fleet 標記；三者同構「檢查器涵蓋邊界過時」，落點是 #56 而非 #82，因為病灶是「production 對象換了」不是「訊號選錯代理」） |
+| 2026-07-26 twmd-routine-audit-weekly — `routine-sync-check-paused-regex-swallows-retired` (vc=1)                 | **REFLEXES #56 v6** 同上 bullet 併入                                                                       | fold（同一 family 第 2 instance，見上）                                                                                                                                                                                                                                                   |
+| 2026-07-26 twmd-routine-audit-weekly — `babel-tag-classifier-drift` (vc=1)                                       | **REFLEXES #56 v6** 同上 bullet 併入                                                                       | fold（同一 family 第 3 instance；entry 自己建議與上一條一起看，本次判斷落點是 #56 不是新編號）                                                                                                                                                                                            |
+| 2026-07-27 苯駢芘孢子 — `derived-artifact-inherits-verification-illusion` (vc=1，entry 自評 severity=structural) | **REFLEXES #75 (f)** 新增「衍生物繼承的是素材不是驗證」subrule + **SPORE-VERIFY.md v1.6** 事實藍圖規則同步 | promote（entry 自己指名落點 #75(f)；質門檻 severity=structural 首次出現即可 distill，不待 vc≥3；操作面同步 pipeline 避免規則只停在反射層）                                                                                                                                                |
+| 2026-07-27 twmd-spore-harvest-am — `sensitive-event-reply-inherits-article-boundary` (vc=1)                      | **SPORE-HARVEST-PIPELINE.md** 5-bucket 表後加但書段                                                        | operational→pipeline（entry 自己判斷「暫不升 REFLEXES 通用反射」，只需 pipeline 補 §Decision Gate 但書；判準已是 MANIFESTO §紀實而不煽情 + REFLEXES #28/#79 的直接推論）                                                                                                                  |
+| 2026-07-26 vortex-babel — `model-language-fit-gap` (vc=1)                                                        | §已消化（housekeeping-done）                                                                               | sweep（grep 驗證 `SQUEEZE-MODELS-MAX-PIPELINE.md` §模型×語言適配 段已完整涵蓋此操作規則，entry body 自己也標註「已入」；無新 canonical 動作，純歸檔）                                                                                                                                     |
+
+**Promotion flow direction 符合**：LESSONS → REFLEXES（routine 自決層，2 案）；LESSONS → pipeline 操作規則（2 案）；LESSONS → housekeeping sweep（1 案，非 promotion）；無 LESSONS → MANIFESTO 跳級。
+
+**REFLEXES.md frontmatter sync**：v5.16 → v5.17，footer changelog 同 cycle 新增（含補記 v5.16 footer 缺漏）；#N 條數不變（84，兩處 fold 為 bullet-level 非新編號）。
+
+**Keep in buffer 8 條**（vc=1，非 structural 首發，待累積或觀察者觸發）：`self-measured-improvement-picks-flattering-layer`（#82 self-assessment 軸 fold 候選）/ `proactive-duplicate-judgment-scan`（meta-scan 常設動作候選，entry 自建議 promote 但僅 1 instance）/ `liveness-vs-productivity`（#83 self-report 不可信 fold 候選）/ `single-bad-input-kills-batch`（batch 錯誤處理 operational 候選）/ `internal-report-as-unverified-source`（#16 peer/probe 是線索家族 fold 候選）/ `diff-patch-current-translation-cross-entry`（entry 自身明寫「vc 累到 ≥2 再考慮升 canonical」）/ `parallel-subagent-scratch-race`（entry 自身明寫「vc≥2 或首次觀察到 race 命中且未救回再升 canonical」）/ `cold-seat-attribution-inverted`（entry 自身明寫「vc≥2 再考慮升 REFLEXES 或 fold 進 #31 子規則」）。
+
+| #   | 原教訓 entry                                                                       | 消化目的地                                              | severity   | vc          |
+| --- | ---------------------------------------------------------------------------------- | ------------------------------------------------------- | ---------- | ----------- |
+| 1   | 2026-07-26 node-app-design — instrument-coverage-boundary-drift                    | REFLEXES #56 v6 掃描範圍過時 bullet                     | structural | 3（family） |
+| 2   | 2026-07-26 twmd-routine-audit-weekly — routine-sync-check-paused-regex             | REFLEXES #56 v6 同上 bullet                             | structural | 3（family） |
+| 3   | 2026-07-26 twmd-routine-audit-weekly — babel-tag-classifier-drift                  | REFLEXES #56 v6 同上 bullet                             | tactical   | 3（family） |
+| 4   | 2026-07-27 苯駢芘孢子 — derived-artifact-inherits-verification-illusion            | REFLEXES #75 (f) + SPORE-VERIFY v1.6                    | structural | 1           |
+| 5   | 2026-07-27 twmd-spore-harvest-am — sensitive-event-reply-inherits-article-boundary | SPORE-HARVEST-PIPELINE 5-bucket 但書                    | tactical   | 1           |
+| 6   | 2026-07-26 vortex-babel — model-language-fit-gap                                   | §已消化（housekeeping-done，SQUEEZE pipeline 已 cover） | tactical   | 1           |
+
+**SPORE-INBOX 容量 audit（v2.1 Stage 6）**：pending **45** ∈ [30, 50) 警示區間，跟 7/19 讀數持平（無新惡化，也未回落）。決策項「[30,50) 高原三選一（減量 spore-pick / 加速 spore-publish / 拉高 auto-drop 閾值）」7/19 已 housekeeping-done 但三選一路線本身仍未見哲宇拍板，且未進 OBSERVER-QUEUE 追蹤（grep 無命中）——本輪不重開新 entry（避免 #64 邊際效用 N+1=0 重複告警），寫入本次 memory §Handoff 供下週體檢或哲宇 review。
+
+---
 
 ### 🧬 2026-07-19 twmd-self-evolve-weekly — 2 pattern fold #82(e)/#73(e) + SPORE-INBOX SOP 加中間閾值 + vc bump
 

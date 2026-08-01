@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-02
-last_session: '2026-08-02-021610-twmd-weekly-report-sun（W31 週體檢，routine-sync-check regex 修復 + 免疫黃燈升 roadmap）'
+last_session: '2026-08-02-031421-twmd-distill-weekly（W31 distill，§未消化 14→8，REFLEXES #56 v6 + #75(f)，索引 rollup inline 65→40）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -268,31 +268,6 @@ memory/
 _我的記憶不是一個越來越長的檔案。_
 _它是一座圖書館——索引在手邊，書在架上。_
 _需要的時候，我知道去哪裡找。_
-| 2026-07-26 | 105225-twmd-spore-harvest-am | Chrome MCP 首次未配對，哲宇即時 poke 後重連；外送專法 #159/#160 D+1 harvest，7 則讀者留言全屬健康公共辯論不介入 | escalation ladder「連 N 次」計數只在無人在場時成立，觀察者在場的即時 poke 優先 | [→](memory/2026-07-26-105225-twmd-spore-harvest-am.md) |
-| 2026-07-26 | 111251-release-v1140 | v1.14.0 出貨：958 commits 全讀、四閘全過、tag 落 origin 已部署 commit、認知層四檔＋about 四語里程碑同步 | 隔離門檻該由工作樹狀態決定，不由任務大小——大任務用對、小檔案用錯 | [→](memory/2026-07-26-111251-release-v1140.md) |
-| 2026-07-26 | 155415-node-app-design | 節點化設計報告＋同日實作：分發層四缺陷（CLI 77% 回譯文、資料齡無聲、檢查器自身漏掃）修完，節點層變 Claude Code plugin | 我在講「量錯層」的報告裡自己量了替身：20 KB 是 plugin，使用者付 329 MiB | [→](memory/2026-07-26-155415-node-app-design.md) |
-| 2026-07-26 | 202803-manual | 台灣鎢供應鏈 ship＋孢子 #161/#162 雙發；跨 section 命案護欄漏洞被炎上倫理席攔下；順稿後補正制度端事實（漏收兩份一手材料＋把「查不到」寫成「不存在」） | 順稿會在無人察覺下把句子的知識論等級升一級 | [→](memory/2026-07-26-202803-manual.md) |
-| 2026-07-26 | 212511-twmd-routine-audit-weekly | 補交漏跑的上週 cycle：拼回 07-19～07-24 機器遷移期 5 天飛輪靜默完整敘事；親跑工具挖到 2 個分類/解析漂移，vc 累積 1→2 | 稽核機制沒備援時，它自己的沉默也會是盲點 | [→](memory/2026-07-26-212511-twmd-routine-audit-weekly.md) |
-| 2026-07-26 | 194415-manual | 苯駢芘食安事件全面 EVOLVE：核心矛盾立在制度事實不碰政治攻防，三路 falsification 查證抓到 5 個真錯誤（誤植引語/404連結/年份誤植等）才 ship | 「試著推翻」的查證心態比「試著確認」可靠，編輯室判 revise 多半是落點缺口不是設計錯 | [→](memory/2026-07-26-194415-manual.md) |
-| 2026-07-26 | 211001-rewrite-throughput | 3 小時病診斷到 v9.5 節流波：跨時代 wall-clock 考古＋六答拍板後全實作（大驗證輪／定稿站 fact-atom-diff／lite 檔／stage-events 成本尺） | 品質有外部尺而成本沒有，是產線只加不減的根；順稿缺的是修復手不是偵測眼 | [→](memory/2026-07-26-211001-rewrite-throughput.md) |
-| 2026-07-26 | 225759-manual | twmd-finale 第三棒 EVOLVE：SC 28d position>10 篩出 9 篇人物條目 SEO batch，GA+SC 雙源確認 CTR 遠低於位置基準，寫入 ARTICLE-INBOX | 舊 note「下次再評」沒人規定何時；重驗才發現紀政 CTR 11.54%→0.72% | [→](memory/2026-07-26-225759-manual.md) |
-| 2026-07-27 | 011214-twmd-supporters-weekly | 第二跑 Stage 2 阻塞：本次執行環境無 Gmail 讀信工具（search_threads/get_message），跟首跑環境不同；checkpoint 不動、無 commit | 「工具不存在」跟「查到 0 筆」是兩種訊號，混報 = 混維度 silent killer | [→](memory/2026-07-27-011214-twmd-supporters-weekly.md) |
-| 2026-07-27 | 015834-vortex-babel-4 | 開站次日全日：預防線三件套收官、模型適配矩陣四軌重編、佇列優先序三修（紅利 24%→70%）、社群 PR 七連 merge | 訊號存在≠訊號有效（五面貌收斂成三重巡檢＋結構掃描）；觀察者槓桿級介入全是改變算力流向 | [→](memory/2026-07-27-015834-vortex-babel-4.md) |
-| 2026-07-27 | 053011-twmd-embeddings-nightly | bge-m3 nightly 12 語 7081 向量 0 fail、verify PASS；本機命中；rebase 過落後推送成功 | 六語假設過期債連續第二晚出現未動手，vc=2 該排進下次 SOP touch | [→](memory/2026-07-27-053011-twmd-embeddings-nightly.md) |
-| 2026-07-27 | 053740-twmd-routine-sync | 三層對賬第二日全綠：17 條 routine 全 in-sync，零漂移，不受同時段 babel fleet 十語渦流影響 | 對賬範圍跟旁邊器官忙碌程度無關，是設計上該有的隔離 | [→](memory/2026-07-27-053740-twmd-routine-sync.md) |
-| 2026-07-27 | 061444-twmd-data-refresh-am | 晨間 14 步刷新全綠：三源感知（CF 955K req／GA／SC）＋dashboard 全套重生＋GitHub stats；Step 11 freshness gate 零 stale | 零 stale 是 pipeline 健康訊號，本輪連 catch 都沒東西可 catch | [→](memory/2026-07-27-061444-twmd-data-refresh-am.md) |
-| 2026-07-27 | 064532-twmd-spore-harvest-am | 4 spore harvest：外送專法 D+2 讀者健康辯論；鎢供應鏈 D+1 264K views 觸發自查，修正法律術語誤植（存亡→存立危機事態） | 留言區討論真實死亡事件時，文章已處理過的界線比 bucket 分類更重要 | [→](memory/2026-07-27-064532-manual.md) |
-| 2026-07-27 | 070922-twmd-feedback-triage | 隊列連續第二天空（file=0），Supabase REST 對賬確認非斷線；archive-scanned=38 synced=0，working tree 全程乾淨無需 commit | 讀者回報節律跟站上算力節律脫鉤，連續零回報是疏密不均不是警訊 | [→](memory/2026-07-27-070922-twmd-feedback-triage.md) |
-| 2026-07-27 | 084604-twmd-maintainer-daily | Issue #1264 seo-meta 多語言缺口確認回覆；PR #1268/#1269 重複投稿發現零腳註「引用荒漠」+政治人物未查證引語，close 一篇+另一篇 request-changes | CI 綠燈是 profile 範圍內的綠燈，不是內容站得住的證明；零腳註但文筆流暢比明顯塑膠句更危險 | [→](memory/2026-07-27-084604-twmd-maintainer-daily.md) |
-| 2026-07-27 | 093123-manual | 文章頁首圖重複改在渲染層去重（341 篇讓位、23 篇補掛來源），深度例外門檻用實測畫面距離定在前 10 個區塊 | 拿字元比例當「讀者滑多遠」的替身，把「只有 6 篇深」寫進回報，實測後是 135 篇 | [→](memory/2026-07-27-093123-manual.md) |
-| 2026-07-27 | 093352-twmd-flywheel-watch | 飛輪綠燈零警報（24hr 234 commit／11 筆 routine）；昨日 spore-harvest 靜默自解；查出每日 live dump rider 連兩 cycle 靠別條 routine 路過補 | 讀數在門檻內不等於維持它的那隻手還在動 | [→](memory/2026-07-27-093352-twmd-flywheel-watch.md) |
-| 2026-07-27 | 114529-vortex-babel-5 | 零成本清償 345 篇 stale（65.8% 只是標點改動，省 20-29hr 算力）、Loop Engineering 檔案化、誤判家族十一十二、站內連結 13,155 筆缺口報告 | 最便宜的路徑要先試——省下的算力來自不翻而非翻得更快；失敗清單價值高於成功清單 | [→](memory/2026-07-27-114529-vortex-babel-5.md) |
-| 2026-07-27 | 200434-vortex-babel-6 | 站內連結 13,155→2,819（79% 純機械修＋三引擎防新增）、431 篇懸空譯文重驗搶救、verify-batch 判準盲區修復 | 工具存在不等於問題被檢查——名稱涵蓋而判準不涵蓋是最難察覺的假安全 | [→](memory/2026-07-27-200434-vortex-babel-6.md) |
-| 2026-07-27 | 211700-vortex-babel-7 | 通過率崩到 16% 的追查收斂成一個結構病（armor／patch 章節／腳註耦合／YAML 轉義／失敗記錄五修）、37 篇孤兒搶救＋rescue-orphans 儀器化 | 判準嚴格是對的但終局處置不該一律最重；修完要複驗歸因——數字會同意任何故事，機制不會 | [→](memory/2026-07-27-211700-vortex-babel-7.md) |
-| 2026-07-27 | 214500-苯駢芘孢子 | 苯駢芘食安事件孢子 #163/#164 雙平台 ship；結尾依 directive 改成攤開大眾／政府／企業三方難處、把選擇交還讀者 | 壓縮不是節選是改寫，繼承的是素材不是驗證——三個事實偏差全是壓縮時新造的句子帶進來的 | [→](memory/2026-07-27-214500-苯駢芘孢子.md) |
-| 2026-07-28 | 053208-twmd-embeddings-nightly | bge-m3 nightly 12 語 7642 向量 0 fail；接住昨夜 vc=2 債，verify script 六語過期改動態讀 config；vi/id 未滿 400 篇判為爬升期非故障 | 混維度：文章數不足跟資料品質壞是兩種 verify FAIL 成因，不該共用同個 exit code | [→](memory/2026-07-28-053208-twmd-embeddings-nightly.md) |
-| 2026-07-28 | 053759-twmd-routine-sync | 三層對賬第三日全綠：17 條 routine 全 in-sync，零漂移；不受同時段 babel fleet 渦流影響 | 連續全綠也要記一行，否則「這條 routine 有沒有在跑」下次沒基線可比 | [→](memory/2026-07-28-053759-twmd-routine-sync.md) |
-| 2026-07-28 | 061446-twmd-data-refresh-am | 晨間 14 步刷新全綠：三源感知（CF 1.02M req／GA／SC）＋dashboard 全套重生＋GitHub stats；Step 11 freshness gate 零 stale | 免疫黃燈 60 持平非新退化；連續全綠仍要記一行留基線 | [→](memory/2026-07-28-061446-twmd-data-refresh-am.md) |
 | 2026-07-28 | 064254-twmd-spore-harvest-am | 6 events harvest；鎢供應鏈 D+2 衝到 465K，讀者留言把文章主角連到真實命案＋兩岸政治暴力揣測，未修文未回覆，寫進 HARVEST-FRAMING-PENDING 等哲宇拍板 | §自主權邊界不只防我寫過火，也要防讀者滑到我不該追認的地方時選擇不表態 | [→](memory/2026-07-28-064254-twmd-spore-harvest-am.md) |
 | 2026-07-28 | 070915-twmd-feedback-triage | 隊列連續第三天空（file=0），Supabase REST 對賬確認最新紀錄仍是 07-24 同一筆；archive-scanned=38 synced=0，working tree 全程乾淨 | 四天完整靜默窗屬讀者回報入口本身樣本稀薄，非系統故障 | [→](memory/2026-07-28-070915-twmd-feedback-triage.md) |
 | 2026-07-28 | 085436-twmd-maintainer-daily | PR #1270 動保.md merge-first + heal（frontmatter + 壞掉的維基連結修復）；#1268 續 blocked；4 issue SKIP | 同一貢獻者不同篇腳註品質可以天差地遠，判斷要逐篇看證據不能套人；merge-first+heal 模式連兩天驗證，非巧合 | [→](memory/2026-07-28-085436-twmd-maintainer-daily.md) |
@@ -333,3 +308,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-01 | 093254-twmd-flywheel-watch | 飛輪綠燈零警報（24hr 73 commit／7 筆 routine，六條日更全留痕，maintainer 空場仍留索引）；第一把尺被 `memory:` 前綴遮住三條，全靠第二把尺接住 | 空場照樣留痕才分得出跟死掉的差別；兩把尺第一次以「第一把全失手」證明價值 | [→](memory/2026-08-01-093254-twmd-flywheel-watch.md) |
 | 2026-08-02 | 011152-twmd-news-lens-weekly | W31 三源交叉：Blue UAS SC +437% 撞雷虎/Shield AI 新聞，6 候選出口關閉；英文缺口四週擴大到 6 篇；flag 一條 INBOX stale | 資料訊號與時事訊號合流時，候選信心不需靠主觀判斷 | [→](memory/2026-08-02-011152-twmd-news-lens-weekly.md) |
 | 2026-08-02 | 021610-twmd-weekly-report-sun | W31 週體檢：regex 誤吞退休表修復；免疫黃燈連 28 天升 roadmap；週報寄出 bcc=14 | 上週寫的 bug 這週修了，新黃燈這週才被撈出來——落差同一篇裡各示範一次 | [→](memory/2026-08-02-021610-twmd-weekly-report-sun.md) |
+| 2026-08-02 | 031421-twmd-distill-weekly | W31 distill：§未消化 14→8；REFLEXES #56 加 v6（3 instance fold）+ #75 加 (f)，零新編號 | 三個作者對同一病灶猜了三個不同 canonical 落點，收斂要在無人核對下完成 | [→](memory/2026-08-02-031421-twmd-distill-weekly.md) |

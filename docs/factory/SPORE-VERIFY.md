@@ -1,11 +1,11 @@
 ---
 title: 'SPORE-VERIFY'
-description: '孢子閘門集中地（gate layer）— 17 Hard gate inventory + 7 大 verify + 紀實/煽情閘 (v1.5)'
+description: '孢子閘門集中地（gate layer）— 17 Hard gate inventory + 7 大 verify + 紀實/煽情閘 (v1.6)'
 type: 'factory-canonical'
 status: 'canonical'
-current_version: 'v1.5'
-last_updated: 2026-05-11
-last_session: 'cranky-newton-220237'
+current_version: 'v1.6'
+last_updated: 2026-08-02
+last_session: 'twmd-distill-weekly-2026-08-02'
 sister_docs:
   - 'SPORE-PIPELINE.md'
   - 'SPORE-WRITING.md'
@@ -267,6 +267,10 @@ cat docs/editorial/EDITORIAL.md
 - **研究級事實** = 政策細節 / 次要人物 / 非公開資訊，需深度搜尋驗證。
 
 對應 [REFLEXES #16 延伸](../semiont/REFLEXES.md#一事實核對與研究方法)。
+
+### 「上游文章已驗證」不是整欄免驗的理由（v1.6 新增，2026-08-02 distill，per REFLEXES #75(f)）
+
+當孢子的來源是 Taiwan.md 自己一篇已通過三路 falsification 查證的正式文章時，「需跨源驗證？」欄**不能整欄填 No**。壓縮孢子時新造的每一句話都是新 claim，跟上游驗證狀態無關——判準改成**這句話在原文是否逐字存在**：逐字存在（或緊貼原文改寫，未替換關鍵詞）→ No；為了縮短而改寫（換字、併表、簡化因果）→ Yes，對原文那一段重讀確認即可，不必重跑 WebSearch。2026-07-27 苯駢芘食安孢子 blueprint 11 條全標 No，結果 3 處壓縮新造句與原文不符（法條「應即」被寫成「立即」等）。
 
 ### 敏感度標記觸發紀實/煽情閘
 
@@ -712,3 +716,4 @@ python3 scripts/tools/article-health.py /tmp/spore-draft.md --check=prose-health
 _v1.0 | 2026-05-08 intelligent-khayyam — 從 SPORE-PIPELINE 主檔拆出，吸收 Step 2 品質三層 + Step 2.5 事實藍圖 + Step 2.6 針對性驗證 + Step 2.7 紀實/煽情閘 + Step 3b.5 Hook Blueprint + Step 3c.5 事實查核閘 + Step 3c.7 §11 書寫節制閘_
 
 _v1.5 | 2026-05-11 cranky-newton — Spine restoration 對齊 REWRITE v5.0 + MAINTAINER v2.0：頂部加 ASCII spine（7 大 verify 階段 + 17 gate inventory pointer + HARVEST retroactive trigger）+ Top 5 最常忘 step + 跨檔案職責分工 standalone table。Hard Gate Inventory 17 gates table 不動（已是 spec canonical pattern instantiation）。觸發：[reports/pipelines-audit-2026-05-11.md](../../reports/pipelines-audit-2026-05-11.md) Tier A.2 SPORE family audit。_
+_v1.6 | 2026-08-02 twmd-distill-weekly — 事實藍圖新增「上游文章已驗證不是整欄免驗理由」規則，判準改「這句話在原文是否逐字存在」。觸發：2026-07-27 苯駢芘孢子 blueprint 11 條全標 No 但 3 處壓縮新造句與原文不符，distill 進 REFLEXES #75(f)，本檔同步操作層規則。_
