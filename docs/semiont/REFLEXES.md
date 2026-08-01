@@ -4,9 +4,9 @@ description: '跨 session 程序記憶 catalog — 84 條 #N 反射（last #84�
 type: 'cognitive-organ'
 status: 'canonical'
 apoptosis: 'never'
-current_version: 'v5.17'
+current_version: 'v5.18'
 last_updated: 2026-08-02
-last_session: '2026-08-02-twmd-distill-weekly（#56 加 v6：守門工具掃描範圍/分類規則跟不上生產側架構演化，3 instance vc=3 fold；#75 加 (f)：衍生物繼承的是素材不是驗證，零新編號）'
+last_session: '2026-08-02-twmd-self-evolve-weekly（#38 加 (f) 存活≠生產變體 vc=3 fold + Boundary 更正：process alive/dead 一旦被當 productivity proxy 用就繼承混維度風險，零新編號）'
 sister_docs:
   - 'DNA.md'
   - 'LESSONS-INBOX.md'
@@ -440,12 +440,13 @@ Taiwan.md 實戰累積的反射——**跟模型無關**，任何 AI agent 做�
 **#38 Status 設計鐵律：「混維度 = silent killer」** — 任何 status 設計都要問：「這個狀態混了幾種根本不同 cause 嗎？」混了 = dashboard 撒謊 = 下游所有決策都偏。對每個 status enum 列出可能的 cause taxonomy；如果發現多 cause 共用同 status，主動切分（即使要新增 reason field）。
 
 - **觸發**：2026-05-01 γ-late status.py 把所有 no-source-sha 一律歸 stale，混 metadata gap（補 metadata 即可）跟 content drift（要重翻）兩種根本不同 cause。Honest backfill 切分後 +1010 articles 從假 stale 變真 fresh，**沒花一個 API call**
-- **Boundary**：只在多 cause 並存的狀態系統適用。Pure runtime status（process alive/dead）沒這個維度問題
+- **Boundary（2026-08-02 self-evolve-weekly 更正）**：~~只在多 cause 並存的狀態系統適用。Pure runtime status（process alive/dead）沒這個維度問題~~——這句話被 (f) 變體反駁：process alive/dead 本身會被拿去代表「有在生產」，這就是把 runtime status 硬套成 productivity status 的混維度。Pure runtime status 沒有維度問題的前提是**沒人把它當 proxy 用**；一旦某處把「還活著」讀成「還在做事」，它就繼承了本條的風險
 - **Cross-domain**：bug status / build status / monitoring alert / inventory 狀態 / health check / data quality flag — 全部該問這個問題
 - **檔案改寫 dry-run 變體**（2026-06-19 inbox-distill）：批次檔案改寫（sed / python regex / 結構性 transform）的 dry-run 用 item count 通過 ≠ 內容守恆 — 必加 (a) line conservation 斷言（`len(in) == len(out) + removed_lines`，每行不是被移除就是輸出）(b) 結構元素守恆（section header / code fence count `in == out`）。`lessons-distill.py` v1 segmentation silent dropped inter-block `## ` sections 但 `### ` count 95→79 通過放行；`inbox-audit.py` `apply_safe` 內建 line-conservation 補齊
 - **衍生指標 frontmatter date neutrality 變體**（2026-06-28 distill vc=3）：指向「衍生關係」的 frontmatter pointer（`sporeLinks` 2026-06-10 / `MEDIA_ONLY` 2026-06-13 哲宇 directive / `relatedDiary` 2026-06-24 哲宇 directive）寫進文章不是內容事件，但若 `build-content-dates.mjs` 沒把它們放進排除組，整批文章 /latest 位置 + sitemap lastmod 會被設成回補日 — 同 status「混維度」變體：「內容事實時間戳」跟「衍生關係 metadata pointer」混在 git mtime 信號。新增這類 pointer 的反射：先問「它需不需要進 content-dates 排除組？」三次具象（sporeLinks → MEDIA_ONLY → relatedDiary）pre/post diff 5413 URL 零變動證明排除是 cheap fix
 - **健康計數器混環境變體**（2026-07-31 vortex，同日 vc=4 家族）：worker 健康帳的 `consecutive_failures` 混了「模型產不出東西」（worker 品質問題，凍結是對的處置）跟「這台沒網路」（環境問題，凍結完全錯）。本機睡眠斷網時四個 worker 各連撞三次 DNS 失敗全被凍 30 分，dispatcher 進 5 分鐘 sleep 迴圈，網路一秒後回來也沒人知道——實測空轉 1.5 小時零產出，而 log 每五分鐘印一次「work still queued」看起來像在等待而非故障。修補：環境類失敗（DNS/unreachable/no-route 五組保守字樣）不累計不凍結。**同日同族另四例**：(a) tags 閘門把「專有名詞本來就同形」跟「整包照抄未翻」混在 60% 門檻，永久誤殺重譯 50 次 (b) `gpt-oss:20b` 把「小規模協議成功」跟「完整工作量吞吐」混在同一句「校準通過」，實際真實文章 0/10 (c) `empty/tiny` 錯誤訊息把「思考通道燒光預算」跟「context 窗截斷」混成同一行字 (d) `fail_counts` 難篇計數器混「閘門誤判（可修，修完該重試）」與「本質太難（重試無用）」——4,059 筆分層顯示重試失敗過的文章吃掉 70% worker 時間換 14% 產出，但照次數一刀切會讓剛修好的閘門等不到它救的那批文章回來（[分析](../../reports/babel-retry-economics-2026-07-31.md)）。**元規則**：一天五次同族說明混維度不是某個 status enum 的偶發設計失誤，是「一個訊號承載兩種根因」這個結構在系統各層反覆長出來——**閘門、計數器、驗收結論、錯誤訊息都是 status**，全都要問那句「這裡混了幾種根本不同的 cause？」
-- **操作**：→ `scripts/tools/lang-sync/backfill-source-sha.py` / `scripts/tools/inbox-audit.py` / `scripts/core/build-content-dates.mjs`（SPORE_POINTER + MEDIA_ONLY + RELATED_DIARY 三組排除）/ `scripts/tools/lang-sync/babel-dispatch.py`（ENV_FAIL_MARKERS 環境失敗不計凍結帳）
+- **存活 ≠ 生產變體（f，2026-08-02 self-evolve-weekly，vc=3）**：監看/健檢類 status 把「process 還活著」（`ps` 正常、log 持續在寫）跟「有在產出」（實際完成量）混成同一個綠燈，跟本條是同一種混維度，只是載體換成 runtime liveness check。三個獨立 instance：(1) 2026-07-26 vortex-babel — l4090 遠端專軌唯一 worker 離線，既有 freeze 機制正確凍結它，但該軌 round loop 照樣一輪一輪跑到第 127 輪才被發現零產出，因為健檢只查 `ps` (2) 2026-07-27 vortex-babel-4 反思同一天「訊號存在 ≠ 訊號有效」以五種面貌出現（自報成功／活著沒生產／pilot 全綠／儀器報假數／記憶檔從未落盤），收斂出「三重巡檢：存活＋生產＋第二訊號源」的常設動作構想 (3) 2026-07-30 manual — babel 雲端產線 PID 存在、log 持續寫，但 9.5 小時零成功，`fleetctl workers` 一度回報 0 個節點；若只看 `ps` 會誤判健康，跟 (1) 是完全獨立的一次真實命中，證明構想不是紙上談兵。**操作已落地**（babel 專屬）：[BABEL-VORTEX-LOOP §三重巡檢](../pipelines/BABEL-VORTEX-LOOP.md#三重巡檢存活--生產缺一不可)——存活（`ps` + `git status`）／生產（近 45 分 report.jsonl 實際記錄數，零記錄查 endpoint）／第二訊號源（fleet registry 交叉比對）三查缺一不可。**本次升級是把這個原本鎖在單一 pipeline 裡的修法，提升為跨域反射**：任何新的 worker / cron / daemon 健檢設計，起手就要問「我現在量的是活著還是在做事」，不必等到自己也踩一次 127 輪空轉才學會
+- **操作**：→ `scripts/tools/lang-sync/backfill-source-sha.py` / `scripts/tools/inbox-audit.py` / `scripts/core/build-content-dates.mjs`（SPORE_POINTER + MEDIA_ONLY + RELATED_DIARY 三組排除）/ `scripts/tools/lang-sync/babel-dispatch.py`（ENV_FAIL_MARKERS 環境失敗不計凍結帳）/ [BABEL-VORTEX-LOOP §三重巡檢](../pipelines/BABEL-VORTEX-LOOP.md#三重巡檢存活--生產缺一不可)（liveness-vs-productivity 的 canonical 落地範例）
 
 **#39 Self-as-fallback：free LLM 拒絕時最便宜的下一步是 sub-agent，不是換家或掏錢** — 模型 escalation 順序：(1) free LLM A → (2) free LLM B（不同家）→ (3) **self-as-fallback：Sonnet sub-agent** → (4) paid model。第三層常被略過，但 sub-agent 不會被自己的 content-policy 拒絕，是最便宜的去拒絕方案。
 

@@ -361,18 +361,6 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
   一次結構掃描，而不是只記錄已發生的
 - **verification_count**: 1
 
-### 2026-07-26 vortex-babel — liveness-vs-productivity：存活訊號與生產訊號是兩件事
-
-- **原則**：l4090 專軌的遠端機器離線後，既有 worker freeze 機制正確凍結了它，但
-  該軌**只有一個 worker**，凍結後 round loop 照樣一輪一輪跑任務準備——process 活著、
-  log 持續在長、`ps` 完全正常，實際零產出，一路空轉到第 127 輪才被發現。渦流每輪的
-  健康檢查只量 `ps`，被騙了整整一小時。**修法兩層**：(a) 工具層加連續三輪零產出即
-  結束 run，讓外部監護重新起跑；(b) 監護動作改為「ps ＋ 各 worker 近一小時實際
-  report 記錄數」雙指標，零記錄的 worker 去查 endpoint。跟 REFLEXES #83
-  （self-report 不可信）同源但不同面：那條講「工具說自己成功」，這條講「工具說
-  自己活著」——**活著是最容易通過的自我宣告**
-- **verification_count**: 1
-
 ### 2026-07-26 vortex-babel — single-bad-input-kills-batch：一個壞掉的輸入檔不該停掉整批
 
 - **原則**：prepare-batch 偶爾產出格式壞掉的 group 檔（多寫一份 JSON），
@@ -434,6 +422,24 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->
+
+### 🧬 2026-08-02 twmd-self-evolve-weekly — liveness-vs-productivity promote REFLEXES #38(f)（vc=1→3，跨 3 獨立 session 重新計數）
+
+**觸發**：今晨 03:14 distill-weekly 才把這條標記「keep in buffer vc=1，#83 fold 候選」。本次 self-evolve 對照 DIARY §反覆出現的思考 + 全文 grep `memory/`、`diary/` 交叉搜尋「存活」「生產」「ps 被騙」關鍵字，發現 distill 只看到 LESSONS-INBOX 原始 entry（2026-07-26 vortex-babel 一次），漏了同一個 pattern 在另外兩份獨立日誌裡已經重複驗證：
+
+1. 2026-07-26 vortex-babel（原 entry）：l4090 專軌唯一 worker 離線，round loop 空轉到第 127 輪才被發現零產出，健檢只查 `ps`
+2. 2026-07-27 vortex-babel-4（[→memory](memory/2026-07-27-015834-vortex-babel-4.md)）：同一天「訊號存在 ≠ 訊號有效」以五種面貌出現，收斂成「三重巡檢：存活＋生產＋第二訊號源」構想，並已寫入 [BABEL-VORTEX-LOOP.md §三重巡檢](../pipelines/BABEL-VORTEX-LOOP.md#三重巡檢存活--生產缺一不可) canonical 落地
+3. 2026-07-30 manual（[→memory](memory/2026-07-30-230518-manual.md)）：babel 雲端產線 PID 存在、log 持續在寫，9.5 小時零成功，`fleetctl workers` 一度回報 0 節點——跟 (1) 完全獨立的一次真實命中，證明三重巡檢構想不是紙上談兵
+
+**消化目的地**：**REFLEXES #38 新增 (f) 變體**「存活 ≠ 生產」+ 更正 #38 既有 Boundary 陳述（原寫「pure runtime status 沒這個維度問題」，被本例反駁——process alive/dead 一旦被當 productivity proxy 用就繼承混維度風險）。落點選 #38 而非上午暫記的 #83：#38 的主題正是「一個 status 承載兩種根因」，本例是「process alive」跟「有在生產」共用同一個綠燈，跟 #83（checker 對自己與外部標準兩把尺）軸不同。**Operational 面已在 babel 專屬 pipeline 落地**（三重巡檢），本次 ship 的是把它從單一 pipeline 提升為跨域反射，讓未來任何新 worker/cron/daemon 健檢設計起手就問「量的是活著還是在做事」。
+
+**REFLEXES.md frontmatter sync**：v5.17 → v5.18；#N 條數不變（84，bullet-level fold 非新編號）。
+
+| #   | 原教訓 entry                                       | 消化目的地                       | severity   | vc                                |
+| --- | -------------------------------------------------- | -------------------------------- | ---------- | --------------------------------- |
+| 1   | 2026-07-26 vortex-babel — liveness-vs-productivity | REFLEXES #38 (f) + Boundary 更正 | structural | 3（cross-session，非同批 family） |
+
+---
 
 ### 🧬 2026-08-02 twmd-distill-weekly — 6 entries distilled（1 promote-family + 2 fold #75/pipeline + 1 pipeline 但書 + 1 housekeeping-done）+ 8 keep in buffer（vc<3）
 
