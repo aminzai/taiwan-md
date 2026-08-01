@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-01T22:05:21+08:00",
-    "zhCommitHead": "de8c403ec",
+    "lastUpdated": "2026-08-01T22:23:36+08:00",
+    "zhCommitHead": "f685e5455",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 877,
-        "fresh": 840,
-        "stale": 24,
+        "fresh": 841,
+        "stale": 23,
         "metadata_stale": 1,
         "missing": 12,
         "orphan": 0
@@ -83,16 +83,16 @@
       },
       "hi": {
         "total_zh": 877,
-        "fresh": 576,
+        "fresh": 577,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 301,
+        "missing": 300,
         "orphan": 0
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 654,
-        "stale": 1,
+        "fresh": 655,
+        "stale": 0,
         "metadata_stale": 0,
         "missing": 222,
         "orphan": 0
@@ -30926,18 +30926,16 @@
         "ja": {
           "path": "ja/Lifestyle/transportation-system.md",
           "translatedFrom": "Lifestyle/台灣交通系統.md",
-          "sourceCommitSha": "755eeda4",
-          "sourceContentHash": "sha256:beaa2c8eefc377c5",
-          "sourceBodyHash": "sha256:7b8c052d67180597",
+          "sourceCommitSha": "8790dbf1",
+          "sourceContentHash": "sha256:241f6e09e82258d9",
+          "sourceBodyHash": "sha256:8b4f70704fe27d7e",
           "translatedAt": "2026-06-26T00:40:32+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+3 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Lifestyle/transportation-system.md",
@@ -42157,7 +42155,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/taiwan-sports-olympics.md",
+          "translatedFrom": "Society/台灣體育發展與奧運.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:f86cdecbd23b7e4f",
+          "sourceBodyHash": "sha256:77348d4fbb7640a8",
+          "translatedAt": "2026-07-31T22:46:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 55,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/taiwan-sports-olympics.md",
@@ -47267,18 +47276,16 @@
         "ar": {
           "path": "ar/About/visualization-module-catalog.md",
           "translatedFrom": "About/視覺化模組型錄.md",
-          "sourceCommitSha": "dbf93456d",
-          "sourceContentHash": "sha256:a867dd7615187a1c",
-          "sourceBodyHash": "",
+          "sourceCommitSha": "21298a7a",
+          "sourceContentHash": "sha256:6617087ac0d0a536",
+          "sourceBodyHash": "sha256:f6a2ecc9e1606c44",
           "translatedAt": "2026-07-28T16:53:38.524423+00:00",
           "translationLastCommit": "caea4fab",
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 7,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -6"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/About/visualization-module-catalog.md",
@@ -49415,8 +49422,8 @@
           "sourceContentHash": "sha256:3725125046bb0302",
           "sourceBodyHash": "sha256:c208c01efc93c70e",
           "translatedAt": "2026-07-31T22:46:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f685e545",
+          "translationLastModified": "2026-08-01T22:05:24+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -76031,8 +76038,8 @@
           "sourceContentHash": "sha256:e787dc16343b5dd6",
           "sourceBodyHash": "sha256:b6b66329e69543f7",
           "translatedAt": "2026-07-31T22:46:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f685e545",
+          "translationLastModified": "2026-08-01T22:05:24+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -86657,8 +86664,8 @@
           "sourceContentHash": "sha256:9e044da79052e1d4",
           "sourceBodyHash": "sha256:0b3e476aa45a53ca",
           "translatedAt": "2026-08-01T08:25:38+08:00",
-          "translationLastCommit": "bd89e7e1",
-          "translationLastModified": "2026-07-25T10:33:05+08:00",
+          "translationLastCommit": "21adfa31",
+          "translationLastModified": "2026-08-01T22:05:22+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -119420,8 +119427,8 @@
           "sourceContentHash": "sha256:d8ceca8d969bbb7a",
           "sourceBodyHash": "sha256:8d311f99ab1ace9b",
           "translatedAt": "2026-07-31T22:46:21+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f685e545",
+          "translationLastModified": "2026-08-01T22:05:24+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
