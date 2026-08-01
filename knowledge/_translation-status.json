@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-01T22:28:30+08:00",
-    "zhCommitHead": "1739c62fd",
+    "lastUpdated": "2026-08-02T01:13:33+08:00",
+    "zhCommitHead": "68ebfef5b",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 877,
-        "fresh": 841,
-        "stale": 23,
+        "fresh": 842,
+        "stale": 22,
         "metadata_stale": 1,
         "missing": 12,
         "orphan": 0
@@ -75,34 +75,34 @@
       },
       "pt": {
         "total_zh": 877,
-        "fresh": 775,
+        "fresh": 780,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 96,
+        "missing": 91,
         "orphan": 0
       },
       "hi": {
         "total_zh": 877,
-        "fresh": 577,
+        "fresh": 581,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 300,
+        "missing": 296,
         "orphan": 0
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 655,
+        "fresh": 658,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 222,
+        "missing": 219,
         "orphan": 0
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 680,
+        "fresh": 683,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 197,
+        "missing": 194,
         "orphan": 0
       }
     },
@@ -1308,7 +1308,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Music/taiwan-hakka-music-from-mountain-songs-to-rock.md",
+          "translatedFrom": "Music/台灣客家音樂.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:a1abbcd1a1bce08a",
+          "sourceBodyHash": "sha256:ffa289d8ac5acb30",
+          "translatedAt": "2026-08-01T23:08:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Music/taiwan-hakka-music-from-mountain-songs-to-rock.md",
@@ -2896,7 +2907,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Music/megaport-festival.md",
+          "translatedFrom": "Music/大港開唱.md",
+          "sourceCommitSha": "717a640b3",
+          "sourceContentHash": "sha256:2cde586b88469ed9",
+          "sourceBodyHash": "sha256:db05dfd8f23d6ee9",
+          "translatedAt": "2026-08-01T23:08:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Music/megaport-festival.md",
@@ -15626,7 +15648,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Technology/taiwan-space-industry-development.md",
+          "translatedFrom": "Technology/台灣太空產業發展.md",
+          "sourceCommitSha": "f3baded5f",
+          "sourceContentHash": "sha256:e66143fe99e401f4",
+          "sourceBodyHash": "sha256:f2a71a6d6f47c4eb",
+          "translatedAt": "2026-07-31T22:46:23+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -26002,8 +26035,8 @@
           "sourceContentHash": "sha256:894f1af0d29b3b98",
           "sourceBodyHash": "sha256:b3ce615995198c0c",
           "translatedAt": "2026-07-31T22:46:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2e77eba6",
+          "translationLastModified": "2026-08-01T22:28:31+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -38356,10 +38389,32 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/democratic-system.md",
+          "translatedFrom": "Society/民主制度.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:f55314385d9caf18",
+          "sourceBodyHash": "sha256:7661cd6b847cb615",
+          "translatedAt": "2026-08-01T23:08:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/democratic-system.md",
+          "translatedFrom": "Society/民主制度.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:f55314385d9caf18",
+          "sourceBodyHash": "sha256:7661cd6b847cb615",
+          "translatedAt": "2026-08-01T23:08:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -40793,7 +40848,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/taiwan-public-health-epidemic-response.md",
+          "translatedFrom": "Society/台灣公共衛生與防疫體系.md",
+          "sourceCommitSha": "49728f9d5",
+          "sourceContentHash": "sha256:84ffcc67e2e155cf",
+          "sourceBodyHash": "sha256:8b3cd9fb7313dbef",
+          "translatedAt": "2026-08-01T23:08:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/taiwan-public-health-epidemic-response.md",
@@ -53966,7 +54032,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Politics/voting-rights-threshold-history.md",
+          "translatedFrom": "Politics/投票權門檻歷史.md",
+          "sourceCommitSha": "488ba3ae2",
+          "sourceContentHash": "sha256:9f186591ee3109a8",
+          "sourceBodyHash": "sha256:a759a5339dd81f4b",
+          "translatedAt": "2026-07-31T22:46:19+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -54243,8 +54320,8 @@
           "sourceContentHash": "sha256:8130ad5ab40eae13",
           "sourceBodyHash": "sha256:f699c0cd2ccbe17d",
           "translatedAt": "2026-07-31T22:46:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2e77eba6",
+          "translationLastModified": "2026-08-01T22:28:31+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -54385,8 +54462,8 @@
           "sourceContentHash": "sha256:dbb211cf0ddd5fb6",
           "sourceBodyHash": "sha256:2cdc1f033ad2b6b9",
           "translatedAt": "2026-07-31T22:46:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2e77eba6",
+          "translationLastModified": "2026-08-01T22:28:31+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -56219,7 +56296,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/yang-wei-cher.md",
+          "translatedFrom": "People/楊維哲.md",
+          "sourceCommitSha": "e03b004e8",
+          "sourceContentHash": "sha256:69fc2aa712d41a4f",
+          "sourceBodyHash": "sha256:dbdac5a6701910e0",
+          "translatedAt": "2026-08-01T23:08:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -61118,7 +61206,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/pai-hsien-yung-literary-master.md",
+          "translatedFrom": "People/白先勇.md",
+          "sourceCommitSha": "7415dcaae",
+          "sourceContentHash": "sha256:27b9c46e9dd00321",
+          "sourceBodyHash": "sha256:bfc5f694a6aa2127",
+          "translatedAt": "2026-08-01T23:08:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -80773,7 +80872,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/lin-yang-duo-taiwan-badminton-champions.md",
+          "translatedFrom": "People/麟洋配.md",
+          "sourceCommitSha": "c32d210ff",
+          "sourceContentHash": "sha256:940cd3ea72960eac",
+          "sourceBodyHash": "sha256:4c0e104cb6fe8601",
+          "translatedAt": "2026-07-31T22:46:21+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/lin-yang-duo-taiwan-badminton-champions.md",
@@ -80782,8 +80892,8 @@
           "sourceContentHash": "sha256:940cd3ea72960eac",
           "sourceBodyHash": "sha256:4c0e104cb6fe8601",
           "translatedAt": "2026-07-31T22:46:23+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "2e77eba6",
+          "translationLastModified": "2026-08-01T22:28:31+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -90582,7 +90692,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Food/taiwan-apple-bread.md",
+          "translatedFrom": "Food/蘋果麵包.md",
+          "sourceCommitSha": "a0314c6e3",
+          "sourceContentHash": "sha256:1a92c24eb1a7d8cf",
+          "sourceBodyHash": "sha256:4f26d4508afc31e5",
+          "translatedAt": "2026-08-01T23:08:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Food/taiwan-apple-bread.md",
@@ -102113,7 +102234,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/taiwan-defunct-amusement-parks.md",
+          "translatedFrom": "History/消失的遊樂園.md",
+          "sourceCommitSha": "edae9fc94",
+          "sourceContentHash": "sha256:66f6ef1e7d53c7c9",
+          "sourceBodyHash": "sha256:67b3b53be583f748",
+          "translatedAt": "2026-08-01T23:08:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/taiwan-defunct-amusement-parks.md",
@@ -103465,7 +103597,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/History/taiwan-railway-history.md",
+          "translatedFrom": "History/台灣鐵道史.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:711d78906f27f250",
+          "sourceBodyHash": "sha256:74b314b2dea62382",
+          "translatedAt": "2026-07-31T22:46:20+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/taiwan-railway-history.md",
@@ -104825,7 +104968,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/kmt-government-relocation-and-postwar-reconstruction.md",
+          "translatedFrom": "History/國民政府遷台與戰後重建.md",
+          "sourceCommitSha": "9c5ad569a",
+          "sourceContentHash": "sha256:a28bcadbb01460c5",
+          "sourceBodyHash": "sha256:fdd1a6127fff34df",
+          "translatedAt": "2026-08-01T23:08:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/History/kmt-government-relocation-and-postwar-reconstruction.md",
@@ -110610,7 +110764,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Geography/ximending.md",
+          "translatedFrom": "Geography/西門町.md",
+          "sourceCommitSha": "49728f9d5",
+          "sourceContentHash": "sha256:527d6f6d267c802a",
+          "sourceBodyHash": "sha256:08db5a34a2ebbaab",
+          "translatedAt": "2026-08-01T23:08:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -117931,16 +118096,16 @@
         "ja": {
           "path": "ja/Culture/ethnic-groups.md",
           "translatedFrom": "Culture/族群（閩南客家原住民外省新住民）.md",
-          "sourceCommitSha": "d6e87d07",
-          "sourceContentHash": "sha256:5bfd9c2eabdc2883",
-          "sourceBodyHash": "sha256:acd1d73d033867e1",
+          "sourceCommitSha": "1febe45b",
+          "sourceContentHash": "sha256:f2be686b40b1bfa3",
+          "sourceBodyHash": "sha256:85fe560e3164601c",
           "translatedAt": "2026-05-16T22:19:52+00:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 9,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Culture/ethnic-groups.md",
