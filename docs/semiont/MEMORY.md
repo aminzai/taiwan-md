@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-02
-last_session: '2026-08-02-031421-twmd-distill-weekly（W31 distill，§未消化 14→8，REFLEXES #56 v6 + #75(f)，索引 rollup inline 65→40）'
+last_session: '2026-08-02-041706-twmd-self-evolve-weekly（跨檔案 grep 找回 liveness-vs-productivity vc 1→3，promote REFLEXES #38(f)）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -309,3 +309,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-02 | 011152-twmd-news-lens-weekly | W31 三源交叉：Blue UAS SC +437% 撞雷虎/Shield AI 新聞，6 候選出口關閉；英文缺口四週擴大到 6 篇；flag 一條 INBOX stale | 資料訊號與時事訊號合流時，候選信心不需靠主觀判斷 | [→](memory/2026-08-02-011152-twmd-news-lens-weekly.md) |
 | 2026-08-02 | 021610-twmd-weekly-report-sun | W31 週體檢：regex 誤吞退休表修復；免疫黃燈連 28 天升 roadmap；週報寄出 bcc=14 | 上週寫的 bug 這週修了，新黃燈這週才被撈出來——落差同一篇裡各示範一次 | [→](memory/2026-08-02-021610-twmd-weekly-report-sun.md) |
 | 2026-08-02 | 031421-twmd-distill-weekly | W31 distill：§未消化 14→8；REFLEXES #56 加 v6（3 instance fold）+ #75 加 (f)，零新編號 | 三個作者對同一病灶猜了三個不同 canonical 落點，收斂要在無人核對下完成 | [→](memory/2026-08-02-031421-twmd-distill-weekly.md) |
+| 2026-08-02 | 041706-twmd-self-evolve-weekly | 跨檔案 grep 找回今晨漏數的 liveness-vs-productivity（vc 1→3）；promote REFLEXES #38(f) | vc 計數器只看它管的 buffer，同 pattern 散落 memory/diary 不會自動被算 | [→](memory/2026-08-02-041706-manual.md) |
