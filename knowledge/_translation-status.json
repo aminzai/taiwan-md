@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-03T05:26:45+08:00",
-    "zhCommitHead": "225c01064",
+    "lastUpdated": "2026-08-03T06:46:48+08:00",
+    "zhCommitHead": "0f89fe6da",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 714,
+        "fresh": 715,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 163,
+        "missing": 162,
         "orphan": 0
       }
     },
@@ -50527,8 +50527,8 @@
           "sourceContentHash": "sha256:fa8568c6d129180a",
           "sourceBodyHash": "sha256:7c0ff1bf77404541",
           "translatedAt": "2026-08-03T03:16:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0f89fe6d",
+          "translationLastModified": "2026-08-03T05:26:45+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -59766,7 +59766,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/bernard-tseng.md",
+          "translatedFrom": "People/曾博恩.md",
+          "sourceCommitSha": "86db85f3d",
+          "sourceContentHash": "sha256:47cec189b7c7bcfc",
+          "sourceBodyHash": "sha256:db17e32fed11eadc",
+          "translatedAt": "2026-08-03T03:16:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 51,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -83537,8 +83548,8 @@
           "sourceContentHash": "sha256:bc132f506d9946e5",
           "sourceBodyHash": "sha256:ae4d7d2f8418495d",
           "translatedAt": "2026-08-03T03:16:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0f89fe6d",
+          "translationLastModified": "2026-08-03T05:26:45+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -83821,8 +83832,8 @@
           "sourceContentHash": "sha256:ea84edf10c10d1a4",
           "sourceBodyHash": "sha256:54cafe2c5032e30e",
           "translatedAt": "2026-08-03T03:16:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0f89fe6d",
+          "translationLastModified": "2026-08-03T05:26:45+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
