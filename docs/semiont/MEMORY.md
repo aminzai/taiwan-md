@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-03
-last_session: '2026-08-03-053453-twmd-embeddings-nightly（12 語 8696 向量 0 fail，例行乾淨重建）'
+last_session: '2026-08-03-053756-twmd-routine-sync（三層對賬第九輪，17 條全 in-sync 零漂移）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -319,3 +319,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-02 | 212446-twmd-routine-audit-weekly | W31 飛輪自審：814 commit／0 碰撞，11 條具名 routine 全數健康；抓到分類器誤歸類、babel 委派層 commit 格式漂移、self-evolve-weekly 檔名跌成 manual 三個新漂移 | 每一層 SSOT 都在，缺的是有人跑在層外定期比對彼此是否還對齊 | [→](memory/2026-08-02-212446-twmd-routine-audit-weekly.md) |
 | 2026-08-03 | 011058-twmd-supporters-weekly | Stage 2 卡住：這個 cron 執行環境無 Gmail MCP（search_threads/get_message 皆不存在），checkpoint 停在 07-12，中止不動 SSOT | 沒有証物時最不該做的事是編一個「0 候選信」no-op 掩蓋工具缺口 | [→](memory/2026-08-03-011058-twmd-supporters-weekly.md) |
 | 2026-08-03 | 053453-twmd-embeddings-nightly | 12 語 8696 向量 0 fail；僅 ar.json 實質變動，vi/id 門檻持穩無新爬升警示 | 穩態 routine 連續乾淨執行仍要記一行，才有基線判斷下次異常 | [→](memory/2026-08-03-053453-twmd-embeddings-nightly.md) |
+| 2026-08-03 | 053756-twmd-routine-sync | 三層對賬第九輪，17 條全 in-sync 零漂移，7/29 修好的 babel-nightly drift 連七天沒復發 | 連續零漂移是紀律生效證據非空轉訊號，但長期零漂移值得偶爾用 self-evolve 檢視 catch rate | [→](memory/2026-08-03-053756-twmd-routine-sync.md) |
