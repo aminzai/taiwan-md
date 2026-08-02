@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-02T21:20:45+08:00",
-    "zhCommitHead": "518cff495",
+    "lastUpdated": "2026-08-02T22:13:44+08:00",
+    "zhCommitHead": "bf24c2787",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 675,
+        "fresh": 677,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 202,
+        "missing": 200,
         "orphan": 0
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 704,
+        "fresh": 706,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 173,
+        "missing": 171,
         "orphan": 0
       }
     },
@@ -3994,8 +3994,8 @@
           "sourceContentHash": "sha256:a199eb8f6aa7f0fc",
           "sourceBodyHash": "sha256:2680b892b33ad9fa",
           "translatedAt": "2026-08-02T13:22:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "95b3f2c8",
+          "translationLastModified": "2026-08-02T21:20:45+08:00",
           "inferred": false,
           "footnoteDefs": 41,
           "status": "fresh",
@@ -26085,7 +26085,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Art/taiwanese-comics-and-illustration.md",
+          "translatedFrom": "Art/台灣漫畫.md",
+          "sourceCommitSha": "85926aa3b",
+          "sourceContentHash": "sha256:5275019358614716",
+          "sourceBodyHash": "sha256:dd1128570e96c06e",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -62527,8 +62538,8 @@
           "sourceContentHash": "sha256:8843f64848a3d381",
           "sourceBodyHash": "sha256:722551eb5f4a1b6b",
           "translatedAt": "2026-08-02T13:22:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "95b3f2c8",
+          "translationLastModified": "2026-08-02T21:20:45+08:00",
           "inferred": false,
           "footnoteDefs": 54,
           "status": "fresh",
@@ -65858,7 +65869,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/mark-liu.md",
+          "translatedFrom": "People/劉德音.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:5e90feeafc19360c",
+          "sourceBodyHash": "sha256:81e4bcfc4e50e127",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/mark-liu.md",
@@ -68737,7 +68759,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/hong-chih-kuo-taiwanese-left-handed-pitcher.md",
+          "translatedFrom": "People/郭泓志.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:e02695ed5dc8f6ea",
+          "sourceBodyHash": "sha256:adcefdbac44146e6",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -81223,7 +81256,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/yeh-kuo-yi-electronics-manufacturing-pioneer.md",
+          "translatedFrom": "People/葉國一.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:736f2b6cf89c9093",
+          "sourceBodyHash": "sha256:728aa85d9d44e89a",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/yeh-kuo-yi-electronics-manufacturing-pioneer.md",
@@ -119998,8 +120042,8 @@
           "sourceContentHash": "sha256:faa63331d7b3eae1",
           "sourceBodyHash": "sha256:296b2f47a01a03eb",
           "translatedAt": "2026-08-02T13:22:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "95b3f2c8",
+          "translationLastModified": "2026-08-02T21:20:45+08:00",
           "inferred": false,
           "footnoteDefs": 56,
           "status": "fresh",
