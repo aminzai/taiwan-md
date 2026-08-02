@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-02T17:04:13+08:00",
+ "generated_at": "2026-08-02T18:03:45+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-08-02T17:04:10+08:00",
+ "snapshot_ts": "2026-08-02T18:03:42+08:00",
  "total_zh": 877,
  "langs": [
   {
@@ -65,7 +65,7 @@
    "stale": 2,
    "missing": 401,
    "coverage_pct": 54.3,
-   "fresh_delta": 1
+   "fresh_delta": 0
   },
   {
    "lang": "pt",
@@ -105,18 +105,18 @@
   }
  ],
  "gap_total": 1739,
- "gap_delta": -1,
+ "gap_delta": 0,
  "rate_1h": {
-  "delta": 2,
-  "span_h": 1.01,
-  "per_hour": 2.0
+  "delta": 1,
+  "span_h": 1.24,
+  "per_hour": 0.8
  },
  "rate_24h": {
   "delta": 91,
-  "span_h": 24.24,
-  "per_hour": 3.8
+  "span_h": 25.23,
+  "per_hour": 3.6
  },
- "eta_days": 36.2,
+ "eta_days": 90.6,
  "nodes": {
   "worker:nemo": {
    "ok": 162,
@@ -136,19 +136,19 @@
   },
   "worker:nemo3": {
    "ok": 155,
-   "fail": 285,
+   "fail": 288,
    "avg_s": 410.6,
    "top_fail": [
     [
      "no output written by tra",
-     86
+     89
     ],
     [
      "leak",
      76
     ]
    ],
-   "last_activity": "2026-08-02T16:47:33+08:00"
+   "last_activity": "2026-08-02T17:52:53+08:00"
   },
   "worker:nemo2": {
    "ok": 160,
@@ -168,19 +168,19 @@
   },
   "worker:nemo4": {
    "ok": 158,
-   "fail": 272,
+   "fail": 275,
    "avg_s": 363.3,
    "top_fail": [
     [
      "no output written by tra",
-     97
+     100
     ],
     [
      "leak",
      61
     ]
    ],
-   "last_activity": "2026-08-02T16:52:49+08:00"
+   "last_activity": "2026-08-02T17:13:12+08:00"
   },
   "worker:desktop3090": {
    "ok": 10,
@@ -458,24 +458,19 @@
   {
    "kind": "unified",
    "pid": "8492",
-   "uptime": "17:55:43",
+   "uptime": "18:55:15",
    "langs": "ja,id,pt,hi,ar,ru",
    "workers": 4
   },
   {
    "kind": "unified",
    "pid": "89324",
-   "uptime": "01:32:49",
+   "uptime": "02:32:21",
    "langs": "en,es,fr,ko",
    "workers": 1
   }
  ],
  "history": [
-  {
-   "ts": "2026-08-01T07:15:31+08:00",
-   "fresh_total": 7813,
-   "gap_total": 1834
-  },
   {
    "ts": "2026-08-01T07:30:40+08:00",
    "fresh_total": 7813,
@@ -948,6 +943,11 @@
   },
   {
    "ts": "2026-08-02T17:04:10+08:00",
+   "fresh_total": 7908,
+   "gap_total": 1739
+  },
+  {
+   "ts": "2026-08-02T18:03:42+08:00",
    "fresh_total": 7908,
    "gap_total": 1739
   }
