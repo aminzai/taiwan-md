@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-02T16:52:56+08:00",
-    "zhCommitHead": "6fcb3e2d0",
+    "lastUpdated": "2026-08-02T18:36:52+08:00",
+    "zhCommitHead": "88b03994f",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 877,
-        "fresh": 793,
+        "fresh": 794,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 78,
+        "missing": 77,
         "orphan": 0
       },
       "hi": {
@@ -16266,7 +16266,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Technology/artificial-intelligence-development-strategy.md",
+          "translatedFrom": "Technology/台灣人工智慧發展與未來策略.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:ea05ddc3465f02eb",
+          "sourceBodyHash": "sha256:c1a908bbd971d40d",
+          "translatedAt": "2026-08-02T13:22:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Technology/artificial-intelligence-development-strategy.md",
@@ -18132,8 +18143,8 @@
           "sourceContentHash": "sha256:5ca6801bb47a7371",
           "sourceBodyHash": "sha256:45291b99c4801128",
           "translatedAt": "2026-08-02T13:22:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b91f2e33",
+          "translationLastModified": "2026-08-02T16:52:56+08:00",
           "inferred": false,
           "footnoteDefs": 60,
           "status": "fresh",
@@ -113595,8 +113606,8 @@
           "sourceContentHash": "sha256:6b1de66c12b3c38a",
           "sourceBodyHash": "sha256:c557c6ff09961dc3",
           "translatedAt": "2026-08-02T13:22:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b91f2e33",
+          "translationLastModified": "2026-08-02T16:52:56+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
