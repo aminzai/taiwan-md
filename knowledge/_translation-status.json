@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-02T11:00:02+08:00",
-    "zhCommitHead": "9fc4f2b16",
+    "lastUpdated": "2026-08-02T11:43:31+08:00",
+    "zhCommitHead": "63dadd665",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 877,
-        "fresh": 844,
-        "stale": 21,
+        "fresh": 845,
+        "stale": 20,
         "metadata_stale": 1,
         "missing": 11,
         "orphan": 0
@@ -75,26 +75,26 @@
       },
       "pt": {
         "total_zh": 877,
-        "fresh": 785,
+        "fresh": 787,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 86,
+        "missing": 84,
         "orphan": 0
       },
       "hi": {
         "total_zh": 877,
-        "fresh": 582,
+        "fresh": 584,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 295,
+        "missing": 293,
         "orphan": 0
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 664,
+        "fresh": 665,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 213,
+        "missing": 212,
         "orphan": 0
       },
       "ru": {
@@ -11530,7 +11530,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Economy/taiwan-stock-market.md",
+          "translatedFrom": "Economy/台灣股市與資本市場.md",
+          "sourceCommitSha": "9c5ad569a",
+          "sourceContentHash": "sha256:323486e516e428ed",
+          "sourceBodyHash": "sha256:c34c5e10c2fbc812",
+          "translatedAt": "2026-08-01T23:08:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -18932,7 +18943,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/ai-development-in-taiwan.md",
+          "translatedFrom": "Technology/AI發展.md",
+          "sourceCommitSha": "96945e450",
+          "sourceContentHash": "sha256:c3a35976261aaad4",
+          "sourceBodyHash": "sha256:54302f24eb8f8f54",
+          "translatedAt": "2026-08-01T23:08:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/ai-development-in-taiwan.md",
@@ -27119,18 +27141,16 @@
         "ja": {
           "path": "ja/Art/taiwanese-architecture.md",
           "translatedFrom": "Art/台灣建築.md",
-          "sourceCommitSha": "eac12cd9",
-          "sourceContentHash": "sha256:211251c042500a3e",
-          "sourceBodyHash": "sha256:41c2c3ee5e118612",
-          "translatedAt": "2026-07-03T16:37:10Z",
+          "sourceCommitSha": "d520299ba",
+          "sourceContentHash": "sha256:af80f0616e9c061e",
+          "sourceBodyHash": "sha256:a2382584d5d27df7",
+          "translatedAt": "2026-08-01T23:08:37+08:00",
           "translationLastCommit": "021f678c",
           "translationLastModified": "2026-07-17T19:43:15+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Art/taiwanese-architecture.md",
@@ -53446,7 +53466,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Politics/city-councilor-system-taiwan.md",
+          "translatedFrom": "Politics/議員制度.md",
+          "sourceCommitSha": "e957cf7f1",
+          "sourceContentHash": "sha256:8e742da3ed42fe59",
+          "sourceBodyHash": "sha256:443bc2c93c1de17f",
+          "translatedAt": "2026-08-01T23:08:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 31,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Politics/city-councilor-system-taiwan.md",
@@ -76244,10 +76275,32 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/ya-hsien-poet.md",
+          "translatedFrom": "People/瘂弦.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:e787dc16343b5dd6",
+          "sourceBodyHash": "sha256:b6b66329e69543f7",
+          "translatedAt": "2026-08-01T23:08:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/ya-hsien-poet.md",
+          "translatedFrom": "People/瘂弦.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:e787dc16343b5dd6",
+          "sourceBodyHash": "sha256:b6b66329e69543f7",
+          "translatedAt": "2026-08-01T23:08:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 18,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/ya-hsien-poet.md",
@@ -109042,8 +109095,8 @@
           "sourceContentHash": "sha256:7640ea7a9c81bfb6",
           "sourceBodyHash": "sha256:29eb70a9d2662cc7",
           "translatedAt": "2026-08-01T23:08:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4206310c",
+          "translationLastModified": "2026-08-02T11:00:02+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -109577,8 +109630,8 @@
           "sourceContentHash": "sha256:7e6b8ee6fb86d020",
           "sourceBodyHash": "sha256:be043e8d5036e0e2",
           "translatedAt": "2026-08-01T23:08:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4206310c",
+          "translationLastModified": "2026-08-02T11:00:02+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -112329,8 +112382,8 @@
           "sourceContentHash": "sha256:e10092be60773ede",
           "sourceBodyHash": "sha256:d8c2fdecefda4ce7",
           "translatedAt": "2026-08-01T23:08:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4206310c",
+          "translationLastModified": "2026-08-02T11:00:02+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "status": "fresh",
@@ -118335,8 +118388,8 @@
           "sourceContentHash": "sha256:ad45b627d00f528f",
           "sourceBodyHash": "sha256:da4269ea46f7ec77",
           "translatedAt": "2026-08-01T23:08:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4206310c",
+          "translationLastModified": "2026-08-02T11:00:02+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
