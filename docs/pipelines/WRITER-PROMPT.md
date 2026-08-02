@@ -36,7 +36,7 @@ audience: 'orchestrator-session-spawning-stage2-writer'
 1. **前置**：Stage 1 已合成單檔 research report（[Step 1.7.4](REWRITE-STAGE-1A-RESEARCH.md#174-合成單檔鐵律sibling-是中繼站stage-2-前必-consolidatev711-)）+ `research-report-health.py` PASS。writer 只讀一個 research 檔。
 2. **填槽** → copy 模板整塊，只動 `{SLOT}`，禁增刪改寫模板文字。
 3. **Spawn**：`general-purpose` + Opus，fresh context（per [§多 agent 編排](REWRITE-PIPELINE.md#-多-agent-編排v63-orchestrator--tiered-sub-agents)）。
-4. **驗 read-receipt**（收件第一動作）：四項逐一核對——(a) §8 texture quote 真在 research 檔、(b) EDITORIAL 引例真存在、(c) **graph.md 模組宣告**（要用哪幾個 `tw-*`＋各回答什麼資料關係；或引 graph.md §九 明寫「評估過、無適合資料」）、(d) spine＋結尾宣告與 research §0 一致。**任一造假／缺席 = SendMessage 退回重讀**，不是放行。
+4. **驗 read-receipt**（收件第一動作）：四項逐一核對——(a) §8 texture quote 真在 research 檔、(b) EDITORIAL 引例真存在、(c) **graph.md 模組宣告**（十五類資料關係逐類答用／不用，不是只列想到的；要用的補哪個 `tw-*`＋回答什麼關係；或引 graph.md §九 明寫「評估過、無適合資料」）、(d) spine＋結尾宣告與 research §0 一致。**任一造假／缺席 = SendMessage 退回重讀**，不是放行。
 5. **驗成品**：Stage 2.5 比對 staging vs 舊 canonical + 主 session 親自重跑 `prose-health`＋`--profile=rewrite-stage-4`（含 viz-health）。writer 宣稱全綠＝線索不是 oracle（REFLEXES #31）。
 
 ## 填槽速查表
@@ -77,13 +77,13 @@ spine：{SPINE}
 1. `{RESEARCH_REPORT}` 整份——§6 fact-pack 是導航，§8 raw verbatim 才有血肉（場景/引語/數字 texture）。
 2. `docs/editorial/EDITORIAL.md` 全檔——風格、禁令、Before/After 範例。
 3. `docs/pipelines/REWRITE-PIPELINE.md` 的 Stage 2 全段——流程與 7 條自檢。
-4. `docs/editorial/graph.md`——視覺化模組型錄＋何時用哪種（模組數以其 §四 為準；藍圖 §審定已列視覺化候選，你據此做）。
+4. `docs/editorial/graph.md`——視覺化模組型錄＋何時用哪種（模組數以其 §四 為準；藍圖 §審定已列視覺化候選，你據此做）。要找現成寫法就翻 `docs/editorial/VIZ-RECIPES.md`（題材 → 可整塊複製的 starter，數字換成本篇查證過的、來源列一定要改）。
 
 **讀完先寫「讀取回執」（逐字 quote 造假不了，這是防 skim 的閘門）**：
 - 【骨架複述】逐 section 複述藍圖給它的**全局功能**（這一段替論點做什麼），一句一段——證明你讀懂的是論證不是面向清單
 - 【§8 texture】從 research §8 抄 3 個會用進文章的具體細節（各附 §8 子節位置）
 - 【EDITORIAL 引例】quote 1 個 Before/After 或禁令範例＋你會怎麼套用
-- 【viz 宣告】列出本篇要用的 tw-* 模組（各一句：哪個資料關係、放哪節）；或引 graph.md §九 說明為何不加
+- 【viz 宣告】對照 [REWRITE-STAGE-2A Step 2.0.5](REWRITE-STAGE-2A-PROJECTION.md) 的十五類資料關係**逐類答一句「用／不用＋為什麼」**，不是只列想到的那幾個——沒被點名的類別要被明確排除，不能靜默跳過（六個模組零使用就是這樣來的）。要用的再補：哪個 `tw-*`、放哪節。全部不用則引 graph.md §九 說明理由
 - 【論點＋結尾】一句藍圖論點宣告＋收尾畫面（結尾先行）
 主 session 會逐項核對真偽；骨架複述對不上藍圖、或 quote 不出來 = 沒讀 = 退回。
 
