@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-03T03:15:55+08:00",
-    "zhCommitHead": "15c1c7437",
+    "lastUpdated": "2026-08-03T05:26:45+08:00",
+    "zhCommitHead": "225c01064",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -67,42 +67,42 @@
       },
       "id": {
         "total_zh": 877,
-        "fresh": 476,
+        "fresh": 479,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 399,
+        "missing": 396,
         "orphan": 0
       },
       "pt": {
         "total_zh": 877,
-        "fresh": 802,
+        "fresh": 803,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 69,
+        "missing": 68,
         "orphan": 0
       },
       "hi": {
         "total_zh": 877,
-        "fresh": 595,
+        "fresh": 596,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 282,
+        "missing": 281,
         "orphan": 0
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 684,
+        "fresh": 687,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 193,
+        "missing": 190,
         "orphan": 0
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 713,
+        "fresh": 714,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 164,
+        "missing": 163,
         "orphan": 0
       }
     },
@@ -3199,7 +3199,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Music/taiwan-campus-folk-song-movement.md",
+          "translatedFrom": "Music/台灣民歌運動.md",
+          "sourceCommitSha": "7415dcaae",
+          "sourceContentHash": "sha256:58c8ce273dc99c8c",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-02T19:25:09.479991+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "status": "missing"
@@ -7279,7 +7290,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Economy/taiwan-enterprise-ase-semiconductor.md",
+          "translatedFrom": "Economy/台灣企業：日月光半導體.md",
+          "sourceCommitSha": "b900f18da",
+          "sourceContentHash": "sha256:275d7b3ee56db82a",
+          "sourceBodyHash": "sha256:58739438cbba3247",
+          "translatedAt": "2026-08-03T03:16:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/taiwan-enterprise-ase-semiconductor.md",
@@ -23367,7 +23389,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Art/taiwanese-prose.md",
+          "translatedFrom": "Art/台灣散文.md",
+          "sourceCommitSha": "7415dcaae",
+          "sourceContentHash": "sha256:deb45d14fe865dc0",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-02T19:24:36.232297+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/taiwanese-prose.md",
@@ -50488,7 +50521,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Nature/cetaceans-of-taiwan.md",
+          "translatedFrom": "Nature/臺灣的鯨豚.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:fa8568c6d129180a",
+          "sourceBodyHash": "sha256:7c0ff1bf77404541",
+          "translatedAt": "2026-08-03T03:16:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Nature/cetaceans-of-taiwan.md",
@@ -53387,7 +53431,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Nature/palakaw.md",
+          "translatedFrom": "Nature/Palakaw.md",
+          "sourceCommitSha": "4777e2548",
+          "sourceContentHash": "sha256:76692c261ac4ee59",
+          "sourceBodyHash": "sha256:7ec5f5cc7b44e03c",
+          "translatedAt": "2026-08-03T03:16:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -57605,7 +57660,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/che-yu-wu.md",
+          "translatedFrom": "People/吳哲宇.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ebee89e5e92900ff",
+          "sourceBodyHash": "sha256:80855056570f3a2e",
+          "translatedAt": "2026-08-03T03:16:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 32,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -61687,7 +61753,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/pai-hsien-yung-literary-master.md",
+          "translatedFrom": "People/白先勇.md",
+          "sourceCommitSha": "7415dcaae",
+          "sourceContentHash": "sha256:27b9c46e9dd00321",
+          "sourceBodyHash": "sha256:bfc5f694a6aa2127",
+          "translatedAt": "2026-08-03T03:16:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/pai-hsien-yung-literary-master.md",
@@ -70642,8 +70719,8 @@
           "sourceContentHash": "sha256:e699feede1257135",
           "sourceBodyHash": "sha256:86d8a4b7771c32c4",
           "translatedAt": "2026-08-02T13:22:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "055b75e6",
+          "translationLastModified": "2026-08-03T03:15:56+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -78356,8 +78433,8 @@
           "sourceContentHash": "sha256:03f4c1611aa95a6c",
           "sourceBodyHash": "sha256:0d86dfd69dceab10",
           "translatedAt": "2026-08-02T13:22:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "055b75e6",
+          "translationLastModified": "2026-08-03T03:15:56+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -83454,7 +83531,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/chen-yu-hsun-taiwan-comedy-film-magician.md",
+          "translatedFrom": "People/陳玉勳.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:bc132f506d9946e5",
+          "sourceBodyHash": "sha256:ae4d7d2f8418495d",
+          "translatedAt": "2026-08-03T03:16:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/chen-yu-hsun-taiwan-comedy-film-magician.md",
@@ -83727,7 +83815,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/tai-yu-wu.md",
+          "translatedFrom": "People/吳大猷.md",
+          "sourceCommitSha": "85926aa3b",
+          "sourceContentHash": "sha256:ea84edf10c10d1a4",
+          "sourceBodyHash": "sha256:54cafe2c5032e30e",
+          "translatedAt": "2026-08-03T03:16:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/tai-yu-wu.md",
@@ -86153,8 +86252,8 @@
           "sourceContentHash": "sha256:fa94afa39f837939",
           "sourceBodyHash": "sha256:59fc287ce8c0baeb",
           "translatedAt": "2026-08-02T13:22:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "055b75e6",
+          "translationLastModified": "2026-08-03T03:15:56+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
