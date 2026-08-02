@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-02T14:37:16+08:00",
-    "zhCommitHead": "7f2170e59",
+    "lastUpdated": "2026-08-02T16:52:56+08:00",
+    "zhCommitHead": "6fcb3e2d0",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -67,18 +67,18 @@
       },
       "id": {
         "total_zh": 877,
-        "fresh": 473,
+        "fresh": 474,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 402,
+        "missing": 401,
         "orphan": 0
       },
       "pt": {
         "total_zh": 877,
-        "fresh": 792,
+        "fresh": 793,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 79,
+        "missing": 78,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 670,
+        "fresh": 672,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 207,
+        "missing": 205,
         "orphan": 0
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 700,
+        "fresh": 703,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 177,
+        "missing": 174,
         "orphan": 0
       }
     },
@@ -11984,8 +11984,8 @@
           "sourceContentHash": "sha256:c1097b8e22bc556b",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-02T06:13:03.329800+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "40ec0e4f",
+          "translationLastModified": "2026-08-02T14:37:16+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -20473,8 +20473,8 @@
           "sourceContentHash": "sha256:b56a9c2f52721e09",
           "sourceBodyHash": "sha256:4f355b3d3c9b0f43",
           "translatedAt": "2026-08-02T13:22:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "40ec0e4f",
+          "translationLastModified": "2026-08-02T14:37:16+08:00",
           "inferred": false,
           "footnoteDefs": 71,
           "status": "fresh",
@@ -22306,7 +22306,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Technology/rayark-games.md",
+          "translatedFrom": "Technology/雷亞遊戲.md",
+          "sourceCommitSha": "31a05c44b",
+          "sourceContentHash": "sha256:efb74dfc78d9c93c",
+          "sourceBodyHash": "sha256:28ef520886f893e3",
+          "translatedAt": "2026-08-02T13:22:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 53,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Technology/rayark-games.md",
@@ -55796,10 +55807,32 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/lin-bai-li.md",
+          "translatedFrom": "People/林百里.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:4e6831b8d5040b1f",
+          "sourceBodyHash": "sha256:98f02f5d889ec6c6",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/lin-bai-li.md",
+          "translatedFrom": "People/林百里.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:4e6831b8d5040b1f",
+          "sourceBodyHash": "sha256:98f02f5d889ec6c6",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -74206,10 +74239,32 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/jj-lin-singaporean-mandopop-king.md",
+          "translatedFrom": "People/林俊傑.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:c3bf4aab8b8bdebc",
+          "sourceBodyHash": "sha256:e9ed087ab11c2ccb",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/jj-lin-singaporean-mandopop-king.md",
+          "translatedFrom": "People/林俊傑.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:c3bf4aab8b8bdebc",
+          "sourceBodyHash": "sha256:e9ed087ab11c2ccb",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -76282,8 +76337,8 @@
           "sourceContentHash": "sha256:c405c2d18eecfac2",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-02T04:10:12.093657+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "40ec0e4f",
+          "translationLastModified": "2026-08-02T14:37:16+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -80712,7 +80767,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/cc-wei.md",
+          "translatedFrom": "People/魏哲家.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:3d7fccce1bbb6e47",
+          "sourceBodyHash": "sha256:501cc28a481912c5",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -101150,8 +101216,8 @@
           "sourceContentHash": "sha256:99bda6e7dc861382",
           "sourceBodyHash": "sha256:3ffe04bee42caf48",
           "translatedAt": "2026-08-01T23:08:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "40ec0e4f",
+          "translationLastModified": "2026-08-02T14:37:16+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -101718,8 +101784,8 @@
           "sourceContentHash": "sha256:ab038fc6af555335",
           "sourceBodyHash": "sha256:c1f42478c12060a3",
           "translatedAt": "2026-08-02T13:22:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "40ec0e4f",
+          "translationLastModified": "2026-08-02T14:37:16+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -113523,7 +113589,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/taipei-city.md",
+          "translatedFrom": "Geography/台北市.md",
+          "sourceCommitSha": "1fbb3adf1",
+          "sourceContentHash": "sha256:6b1de66c12b3c38a",
+          "sourceBodyHash": "sha256:c557c6ff09961dc3",
+          "translatedAt": "2026-08-02T13:22:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 28,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/taipei-city.md",
