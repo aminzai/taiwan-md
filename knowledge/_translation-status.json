@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-02T14:22:38+08:00",
-    "zhCommitHead": "5150b6174",
+    "lastUpdated": "2026-08-02T14:23:53+08:00",
+    "zhCommitHead": "67754b46f",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 699,
+        "fresh": 700,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 178,
+        "missing": 177,
         "orphan": 0
       }
     },
@@ -17531,8 +17531,8 @@
           "sourceContentHash": "sha256:33c90e10581f31c9",
           "sourceBodyHash": "sha256:1fba81d514ac33a3",
           "translatedAt": "2026-08-02T13:22:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67754b46",
+          "translationLastModified": "2026-08-02T14:22:38+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -22173,8 +22173,8 @@
           "sourceContentHash": "sha256:727c897f10782c2b",
           "sourceBodyHash": "sha256:3b63599a42d7872a",
           "translatedAt": "2026-08-01T23:08:40+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67754b46",
+          "translationLastModified": "2026-08-02T14:22:38+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -39540,8 +39540,8 @@
           "sourceContentHash": "sha256:f622a7c42dce34d6",
           "sourceBodyHash": "sha256:2558980b3f59cb6f",
           "translatedAt": "2026-08-01T23:08:40+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67754b46",
+          "translationLastModified": "2026-08-02T14:22:38+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -53593,8 +53593,8 @@
           "sourceContentHash": "sha256:8e742da3ed42fe59",
           "sourceBodyHash": "sha256:443bc2c93c1de17f",
           "translatedAt": "2026-08-01T23:08:40+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67754b46",
+          "translationLastModified": "2026-08-02T14:22:38+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "status": "fresh",
@@ -76438,8 +76438,8 @@
           "sourceContentHash": "sha256:e787dc16343b5dd6",
           "sourceBodyHash": "sha256:b6b66329e69543f7",
           "translatedAt": "2026-08-01T23:08:40+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "67754b46",
+          "translationLastModified": "2026-08-02T14:22:38+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -83301,7 +83301,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/tai-yu-wu.md",
+          "translatedFrom": "People/吳大猷.md",
+          "sourceCommitSha": "85926aa3b",
+          "sourceContentHash": "sha256:ea84edf10c10d1a4",
+          "sourceBodyHash": "sha256:54cafe2c5032e30e",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
