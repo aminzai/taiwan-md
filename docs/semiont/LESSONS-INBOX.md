@@ -4,9 +4,9 @@ description: '教訓 buffer（intake layer）— 新教訓先 append 此處，�
 type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
-current_version: 'v2.4'
+current_version: 'v2.5'
 last_updated: 2026-08-02
-last_session: '2026-08-02-twmd-distill-weekly（W31：14→8 條，6 消化 — REFLEXES #56 v6 家族 promote 3 + #75(f) promote 1 + SPORE-HARVEST/SPORE-VERIFY pipeline 但書 2 + housekeeping-done 1）'
+last_session: '2026-08-02-twmd-routine-audit-weekly（7→10 條，append 3 — babel-delegation-commit-convention-drift + routine-audit-classifier-memory-commit-misattribution + session-id-handle-silent-fallback）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -331,6 +331,37 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ---
 
 ## 未消化清單（📥 待 distill）
+
+### 2026-08-02 twmd-routine-audit-weekly — babel-delegation-commit-convention-drift：委派層產生的 commit 脫離格式，讓自己的一部分工作對儀器隱形
+
+- **pattern**: `babel-delegation-commit-convention-drift`
+- **原則**：babel 渦流／Claude 委派層產生的 commit，有部分不遵循 [MANIFESTO §Commit 標記規則](MANIFESTO.md) canonical 格式（`🧬 [semiont] <type>: <描述>` / `🧬 [routine] <type>: <描述>`）——本週窗口內 10 條用「🧬 babel: ...」（缺 `[semiont]` 方括號），32 條直接用英文 conventional-commits 風格（`fix(babel): ...` / `chore(babel): ...` / `feat(i18n): ...` / `docs: ...`），完全跳出中文「🧬」簽名慣例。這些 commit 內容本身多半可讀（具體英文短句描述修復），但因為不含 `[semiont]` 或 `[routine]` 方括號，任何 keyed off 這個格式的儀器都看不到它們——本次 routine-audit.py 的 unclassified 桶（64 條 / 7.9%）裡有 42 條（65.6%）是這個成因，而非真正的「分類器沒見過的新 routine」。
+- **觸發**：2026-08-02 twmd-routine-audit-weekly Stage 1 跑 `routine-audit.py --last-week`，unclassified=64。細查後 22 條是 git merge 自動訊息（正常，非漂移）、10 條是「🧬 babel:」缺方括號、32 條是純 conventional-commits 風格。樣本：`fix(babel): heal italic caption URL mangling`、`chore(babel): refresh translation indexes after integration`、`feat(i18n): rescue Arabic and Portuguese egg tart`（皆 2026-07-30，babel 渦流連續自我修復日）。
+- **可能層級**：(a) 通用反射候選——任何長跑自動化子系統，若讓委派層 / sub-agent 自訂 commit message 格式而非強制套用 repo canonical template，遲早會漂出 grep-based 儀器的可視範圍，不是 Taiwan.md 特有；(b) 操作規則——babel vortex dispatcher 的 commit 產生邏輯（含委派給 Claude sub-agent / codex 的路徑）應統一套用 `🧬 [semiont] babel: <desc>` 模板，不論是哪一層產生的
+- **相關**：REFLEXES #24 工具在說謊（新形狀：commit 來源格式漂移讓下游偵測工具靜默失明，不是工具本身說謊，是輸入源不再說儀器聽得懂的話）；MANIFESTO §11.4 電報腔紀律（本條方向相反——這批 commit 反而比較「人話」，但犧牲了格式一致性，兩種毛病不同軸，不能用其中一條的修法解另一條）
+- **verification_count**: 1
+- **severity**: structural（第一次出現，但影響是「儀器看不見自己一部分工作」的結構性缺口，不只是本次審計數字失真——未來任何依賴 `[semiont]`/`[routine]` 格式的自動化都會踩到同一個盲區）
+
+### 2026-08-02 twmd-routine-audit-weekly — routine-audit-classifier-memory-commit-misattribution：新 routine 的 action commit 跟 memory commit 落進不同桶，count 半失真
+
+- **pattern**: `routine-audit-classifier-memory-commit-misattribution`
+- **原則**：`routine-audit.py` 的 `ROUTINE_PATTERNS`（scripts/tools/routine-audit.py:37-58）裡，具名 pattern 是否含 `.*` wildcard 並不一致——像 `twmd-maintainer-am` 用了 `.*`，能同時吃下自己的 action commit 跟 `[routine] memory: twmd-maintainer-daily @ ...` 這種 memory commit；但 `twmd-data-refresh-am` 這類無 wildcard 的具名 pattern，memory commit 吃不到，會被排在後面的通用 `routine-memory` pattern（`\[routine\] memory:`）攔截，混進所有 routine 共用的 `routine-memory` 桶。對完全沒有具名 pattern 的新 routine（`twmd-routine-sync` / `twmd-flywheel-watch`），2026-07-11 加的動態 fallback 能抓到它們的 action commit（但因通用 `routine-memory` pattern 排在 fallback 之前被優先攔截，只有 memory commit 撿不到 fallback；action commit 則被 fallback 加上重複 `routine-` 前綴，變成 `routine-twmd-routine-sync` 這種雙重字首），結果同一條 routine 的 action 與 memory 兩種 commit 被拆進三個不同地方，`summary.by_routine` 顯示的 count 只反映不完整的子集（本次 `twmd-routine-sync` 顯示 2、`routine-twmd-flywheel-watch` 顯示 6，實際 git log 各有 ~8-9 條）。
+- **觸發**：2026-08-02 twmd-routine-audit-weekly Stage 1 跑 `routine-audit.py --last-week`，`summary.by_routine` 出現 `routine-twmd-routine-sync: 2` 與 `routine-twmd-flywheel-watch: 6` 兩個帶重複字首的 key，跟其他直接用 `twmd-X` 命名的 key 不一致；`git log --grep routine-sync` 核對後發現實際週活動量約 8-9 條，遠高於腳本統計。第三個更根本的 instance：`twmd-weekly-report-sun` 的 action commit 本身就不用 `[routine]` 前綴（用 `🧬 [semiont] report: weekly ...`），對應的 `[routine] memory: twmd-weekly-report-sun @ ...` 也因無 wildcard 落進 `routine-memory` 通用桶——這條 routine 每週的 commit 在 `by_routine` 表裡從未以自己的名字出現過，比前兩條更隱蔽（連字首重複的視覺線索都沒有，直接是零筆）。
+- **可能層級（更新）**：不只是「新 routine 忘了補 pattern」的個案，是三種獨立成因疊加同一個症狀：(1) 具名 pattern 有無 `.*` wildcard 不一致（工程遺留）(2) 部分 routine 的 action commit 本身不帶 `[routine]` 前綴，改用 `[semiont] <type>:`（如 weekly-report 用 `report:`）(3) 通用 `routine-memory` pattern 排序優先於「用 routine 名做 fallback 分類」。三者疊加代表這不是單一 regex 漏洞，是分類器設計時沒有把「memory commit 永遠跟著它描述的 routine」當成不變式來源頭建模。
+- **可能層級**：tool-fix，跟 2026-06-28 已解決並歸檔的 `routine-audit-script-classification-gap`（vc=2 disposed）同源家族——那次的 fallback 修法解掉了「unclassified 非零」，但沒解掉「同一條 routine 的兩種 commit 落不同桶」這個殘留子案例。修法方向：(a) 為每個新 routine 補齊具名 pattern（含 memory 變體）而非只靠 fallback；(b) 或把 `routine-memory` 通用 pattern 移到 fallback 之後，讓 fallback 先嘗試用 `memory:` 後面的 routine 名歸類，抓不到才落 `routine-memory`
+- **相關**：`routine-audit-script-classification-gap`（2026-06-28，已 tool-fix disposed，本條是其未被當時 dogfood 覆蓋到的殘留子案例，非重複——原案處置時的驗證窗口沒有包含當時還不存在的 `twmd-routine-sync` / `twmd-flywheel-watch` 兩條 routine）
+- **verification_count**: 1
+- **severity**: tactical（只影響本審計工具自己的統計精度，不影響 routine 實際運作或下游決策——本次 audit 已用 git log 交叉核對繞過）
+
+### 2026-08-02 twmd-routine-audit-weekly — session-id-handle-silent-fallback：跑了 12 週都對的 routine handle，這週悄悄變成 `manual`
+
+- **pattern**: `session-id-handle-silent-fallback`
+- **原則**：`twmd-self-evolve-weekly` 從 2026-05-10 起連續 12 週都正確產出 `memory/YYYY-MM-DD-HHMMSS-twmd-self-evolve-weekly.md` 檔名，2026-08-02 這次卻產出 `memory/2026-08-02-041706-manual.md`——commit message 本身正確寫著「🧬 [semiont] memory: twmd-self-evolve-weekly @ 2026-08-02 04:17」，但檔名 handle 落成通用的 `manual`，代表 `scripts/tools/session-id.sh` 這次是被無參數呼叫（auto-detect 落 default）而非顯式傳入 `twmd-self-evolve-weekly`。這個落差只在檔名層，commit message 是對的，MEMORY.md 索引行的敘述文字也是對的，唯獨實體檔名跟兩者不一致——**沒有任何現成儀器會比對「commit message 講的 routine 名」跟「它建立的 memory 檔名 handle」是否一致**，本次是 audit 為了核對本週各 routine 的實際活動量、直接用檔名 pattern 找檔案時才意外發現（`find *twmd-self-evolve-weekly*` 少一筆，git log 找到多一筆，兩個尺不一致才浮現）。
+- **觸發**：2026-08-02 twmd-routine-audit-weekly Stage 1 核對本週各 routine 的 memory 檔案數時，`twmd-self-evolve-weekly` 用檔名 glob 找到 0 筆（正常應 1 筆），但 `git log --grep` 找到 1 筆對應 commit（`72251fdb7`）。追蹤到實體檔案是 `2026-08-02-041706-manual.md`，內文 session header 明寫「session twmd-self-evolve-weekly（cron routine，Sunday 04:00）」，是同一個 session 只是檔名沒跟上。
+- **可能層級**：通用反射候選——任何靠「呼叫時傳入 handle 參數」決定產物命名的自動化，若呼叫路徑存在無參數的 fallback（auto-detect），遲早會有一次呼叫漏了參數，產物命名跟內容本身的敘述（commit message／內文 header）不一致，而且因為內容本身讀起來完全正確，人工複閱不會發現——只有靠「檔名 vs 內容」交叉比對的第三方稽核才抓得到，跟 REFLEXES #65 (f) 存活≠生產是同一個「訊號要摸到 ground truth，不能只信自己一種讀法」的家族，這次的「訊號」換成檔案命名系統本身
+- **相關**：REFLEXES #82 Proxy signal antipattern（訊號要摸到 ground truth）、REFLEXES #51 Session ID schema（filename collision 有解、content collision 不解——本條是第三種：filename **drift**，不是撞名也不是內容衝突，是這次命名本身選錯了 handle）
+- **verification_count**: 1
+- **severity**: tactical（單次事件，未造成資料遺失或決策錯誤，僅讓下游任何靠檔名 pattern 找特定 routine 記憶的工具這一週漏看一筆——包括本審計自己，若非另外用 git log 交叉核對就會誤判「self-evolve-weekly 這週沒跑」）
 
 ### 2026-07-26 node-app-design — self-measured-improvement-picks-flattering-layer：自己量自己的改善時會挑到替身層
 
