@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-03T00:05:49+08:00",
-    "zhCommitHead": "4c2c0c5a1",
+    "lastUpdated": "2026-08-03T00:17:55+08:00",
+    "zhCommitHead": "89ccd481f",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -75,18 +75,18 @@
       },
       "pt": {
         "total_zh": 877,
-        "fresh": 798,
+        "fresh": 799,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 73,
+        "missing": 72,
         "orphan": 0
       },
       "hi": {
         "total_zh": 877,
-        "fresh": 590,
+        "fresh": 591,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 287,
+        "missing": 286,
         "orphan": 0
       },
       "ar": {
@@ -2492,7 +2492,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Music/little-tigers-taiwan-boy-band.md",
+          "translatedFrom": "Music/小虎隊.md",
+          "sourceCommitSha": "ac1d187af",
+          "sourceContentHash": "sha256:3550fb52e312828d",
+          "sourceBodyHash": "sha256:4cfd214b3bc19b4d",
+          "translatedAt": "2026-08-02T13:22:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 25,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Music/little-tigers-taiwan-boy-band.md",
@@ -27332,8 +27343,8 @@
           "sourceContentHash": "sha256:af80f0616e9c061e",
           "sourceBodyHash": "sha256:a2382584d5d27df7",
           "translatedAt": "2026-08-01T23:08:37+08:00",
-          "translationLastCommit": "021f678c",
-          "translationLastModified": "2026-07-17T19:43:15+08:00",
+          "translationLastCommit": "ca981edb",
+          "translationLastModified": "2026-08-03T00:05:49+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -48587,8 +48598,8 @@
           "sourceContentHash": "sha256:578491ed43f8d7d0",
           "sourceBodyHash": "sha256:be3b3f9150c7c64e",
           "translatedAt": "2026-08-02T13:07:23+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "ca981edb",
+          "translationLastModified": "2026-08-03T00:05:49+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -54767,7 +54778,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Politics/election-bulletin-system.md",
+          "translatedFrom": "Politics/選舉公報.md",
+          "sourceCommitSha": "e957cf7f1",
+          "sourceContentHash": "sha256:48c230f3d6f5b004",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-02T15:53:20.809684+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Politics/election-bulletin-system.md",
