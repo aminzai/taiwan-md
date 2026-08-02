@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-03
-last_session: '2026-08-03-011058-twmd-supporters-weekly（Gmail MCP 缺席，Stage 2 無法執行，ABORT 不動 SSOT）'
+last_session: '2026-08-03-053453-twmd-embeddings-nightly（12 語 8696 向量 0 fail，例行乾淨重建）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -318,3 +318,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-02 | 084957-twmd-maintainer-daily | merge-first-heal #1287 黑蝙蝠中隊，deploy 一度轉紅 heal 後復綠；5 issue 全無新 follow-up | PR checks 綠不等於 main deploy 綠 | [→](memory/2026-08-02-084957-twmd-maintainer-daily.md) |
 | 2026-08-02 | 212446-twmd-routine-audit-weekly | W31 飛輪自審：814 commit／0 碰撞，11 條具名 routine 全數健康；抓到分類器誤歸類、babel 委派層 commit 格式漂移、self-evolve-weekly 檔名跌成 manual 三個新漂移 | 每一層 SSOT 都在，缺的是有人跑在層外定期比對彼此是否還對齊 | [→](memory/2026-08-02-212446-twmd-routine-audit-weekly.md) |
 | 2026-08-03 | 011058-twmd-supporters-weekly | Stage 2 卡住：這個 cron 執行環境無 Gmail MCP（search_threads/get_message 皆不存在），checkpoint 停在 07-12，中止不動 SSOT | 沒有証物時最不該做的事是編一個「0 候選信」no-op 掩蓋工具缺口 | [→](memory/2026-08-03-011058-twmd-supporters-weekly.md) |
+| 2026-08-03 | 053453-twmd-embeddings-nightly | 12 語 8696 向量 0 fail；僅 ar.json 實質變動，vi/id 門檻持穩無新爬升警示 | 穩態 routine 連續乾淨執行仍要記一行，才有基線判斷下次異常 | [→](memory/2026-08-03-053453-twmd-embeddings-nightly.md) |
