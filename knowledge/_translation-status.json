@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-02T18:43:40+08:00",
-    "zhCommitHead": "5abb2e5e2",
+    "lastUpdated": "2026-08-02T20:54:34+08:00",
+    "zhCommitHead": "922dcb39f",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 877,
-        "fresh": 794,
+        "fresh": 796,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 77,
+        "missing": 75,
         "orphan": 0
       },
       "hi": {
@@ -91,18 +91,18 @@
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 673,
+        "fresh": 675,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 204,
+        "missing": 202,
         "orphan": 0
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 703,
+        "fresh": 704,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 174,
+        "missing": 173,
         "orphan": 0
       }
     },
@@ -3988,7 +3988,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Music/sunset-rollercoaster.md",
+          "translatedFrom": "Music/落日飛車.md",
+          "sourceCommitSha": "dd39065b2",
+          "sourceContentHash": "sha256:a199eb8f6aa7f0fc",
+          "sourceBodyHash": "sha256:2680b892b33ad9fa",
+          "translatedAt": "2026-08-02T13:22:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 41,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -26060,7 +26071,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Art/taiwanese-comics-and-illustration.md",
+          "translatedFrom": "Art/台灣漫畫.md",
+          "sourceCommitSha": "85926aa3b",
+          "sourceContentHash": "sha256:5275019358614716",
+          "sourceBodyHash": "sha256:dd1128570e96c06e",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -55824,8 +55846,8 @@
           "sourceContentHash": "sha256:4e6831b8d5040b1f",
           "sourceBodyHash": "sha256:98f02f5d889ec6c6",
           "translatedAt": "2026-08-02T13:22:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "942cb5ba",
+          "translationLastModified": "2026-08-02T18:43:40+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -74256,8 +74278,8 @@
           "sourceContentHash": "sha256:c3bf4aab8b8bdebc",
           "sourceBodyHash": "sha256:e9ed087ab11c2ccb",
           "translatedAt": "2026-08-02T13:22:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "942cb5ba",
+          "translationLastModified": "2026-08-02T18:43:40+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -78321,8 +78343,8 @@
           "sourceContentHash": "sha256:71bb6dc9665fc922",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-02T06:02:56.750234+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "942cb5ba",
+          "translationLastModified": "2026-08-02T18:43:40+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -80770,8 +80792,8 @@
           "sourceContentHash": "sha256:3d7fccce1bbb6e47",
           "sourceBodyHash": "sha256:501cc28a481912c5",
           "translatedAt": "2026-08-02T13:22:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "942cb5ba",
+          "translationLastModified": "2026-08-02T18:43:40+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -86854,10 +86876,32 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/chien-ming-wang-mlb-sinker-ace.md",
+          "translatedFrom": "People/王建民.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:88ba1e028cceec90",
+          "sourceBodyHash": "sha256:d72e85599f59782f",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/chien-ming-wang-mlb-sinker-ace.md",
+          "translatedFrom": "People/王建民.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:88ba1e028cceec90",
+          "sourceBodyHash": "sha256:d72e85599f59782f",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -118693,8 +118737,8 @@
           "sourceContentHash": "sha256:ad45b627d00f528f",
           "sourceBodyHash": "sha256:da4269ea46f7ec77",
           "translatedAt": "2026-08-02T13:22:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "942cb5ba",
+          "translationLastModified": "2026-08-02T18:43:40+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -119937,7 +119981,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/taiwan-advertising-history.md",
+          "translatedFrom": "Culture/台灣廣告史.md",
+          "sourceCommitSha": "f7484ebea",
+          "sourceContentHash": "sha256:faa63331d7b3eae1",
+          "sourceBodyHash": "sha256:296b2f47a01a03eb",
+          "translatedAt": "2026-08-02T13:22:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 56,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
