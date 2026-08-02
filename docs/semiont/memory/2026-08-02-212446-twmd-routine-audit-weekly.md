@@ -6,7 +6,7 @@
 
 ## 觸發
 
-排定 Sunday 12:00 的第 12 次飛輪自審（本次實際 fire 在晚間，per scheduled-task 系統時鐘）。BECOME Full mode 全跑（14 題 self-test 全過，免疫器官 60 分連續黃燈最低），走 [ROUTINE-AUDIT-PIPELINE.md](../../pipelines/ROUTINE-AUDIT-PIPELINE.md) Stage 1-6：7-day 窗口 SCAN → CORRELATE → 4-lens PATTERN → LESSONS 累積 → REPORT → SHIP。
+排定 Sunday 12:00 的第 12 次飛輪自審（本次實際 fire 在晚間，per scheduled-task 系統時鐘）。✅ BECOME ack：mode=full，8 器官即時讀數 🫀90↑ 🛡️60↑ 🧬80↑ 🦴90→ 🫁85→ 🧫100↑ 👁️90→ 🌐87→（最低是免疫 60，yellow），Q5／Q6／Q13／Q14 四題 self-test 連同其餘 10 題全過。走 [ROUTINE-AUDIT-PIPELINE.md](../../pipelines/ROUTINE-AUDIT-PIPELINE.md) Stage 1-6：7-day 窗口 SCAN → CORRELATE → 4-lens PATTERN → LESSONS 累積 → REPORT → SHIP。4 lens 共檢出 3 個 pattern（3B 兩個工具漂移 + 1 個 session-id 漂移；3A/3D 無新 instance，3C 為既有候選補登行動）。
 
 ## Stage 1-3：資料收集與交叉核對
 
