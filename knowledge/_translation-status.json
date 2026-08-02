@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-02T08:39:17+08:00",
-    "zhCommitHead": "47d6f3870",
+    "lastUpdated": "2026-08-02T09:22:54+08:00",
+    "zhCommitHead": "9b8b9f1b3",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 877,
-        "fresh": 783,
+        "fresh": 784,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 88,
+        "missing": 87,
         "orphan": 0
       },
       "hi": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 690,
+        "fresh": 691,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 187,
+        "missing": 186,
         "orphan": 0
       }
     },
@@ -108212,8 +108212,8 @@
           "sourceContentHash": "sha256:0d7e5732a8513df0",
           "sourceBodyHash": "sha256:f743a82d302f341a",
           "translatedAt": "2026-08-01T23:08:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "79ead52e",
+          "translationLastModified": "2026-08-02T08:39:17+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "status": "fresh",
@@ -111171,8 +111171,8 @@
           "sourceContentHash": "sha256:801704d8d76cb718",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-01T22:43:58.383911+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "79ead52e",
+          "translationLastModified": "2026-08-02T08:39:17+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
@@ -112257,7 +112257,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/penghu-county.md",
+          "translatedFrom": "Geography/澎湖縣.md",
+          "sourceCommitSha": "dd6cd0156",
+          "sourceContentHash": "sha256:e10092be60773ede",
+          "sourceBodyHash": "sha256:d8c2fdecefda4ce7",
+          "translatedAt": "2026-08-01T23:08:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 40,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -114316,8 +114327,8 @@
           "sourceContentHash": "sha256:fa3c9da0d146b3a4",
           "sourceBodyHash": "sha256:18f3978bd2f84e6f",
           "translatedAt": "2026-08-01T23:08:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "79ead52e",
+          "translationLastModified": "2026-08-02T08:39:17+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -114775,8 +114786,8 @@
           "sourceContentHash": "sha256:e233ab9cc8b79527",
           "sourceBodyHash": "sha256:8e7d5975a9ac8375",
           "translatedAt": "2026-08-01T23:08:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "79ead52e",
+          "translationLastModified": "2026-08-02T08:39:17+08:00",
           "inferred": false,
           "footnoteDefs": 30,
           "status": "fresh",
@@ -119774,7 +119785,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/traditional-crafts-intangible-cultural-heritage.md",
+          "translatedFrom": "Culture/台灣傳統工藝與無形文化資產.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:d8ceca8d969bbb7a",
+          "sourceBodyHash": "sha256:8d311f99ab1ace9b",
+          "translatedAt": "2026-08-01T23:08:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
