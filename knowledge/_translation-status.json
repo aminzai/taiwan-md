@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-03T00:17:55+08:00",
-    "zhCommitHead": "89ccd481f",
+    "lastUpdated": "2026-08-03T00:31:52+08:00",
+    "zhCommitHead": "5e061acc1",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -83,26 +83,26 @@
       },
       "hi": {
         "total_zh": 877,
-        "fresh": 591,
+        "fresh": 592,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 286,
+        "missing": 285,
         "orphan": 0
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 679,
+        "fresh": 681,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 198,
+        "missing": 196,
         "orphan": 0
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 708,
+        "fresh": 709,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 169,
+        "missing": 168,
         "orphan": 0
       }
     },
@@ -23958,8 +23958,8 @@
           "sourceContentHash": "sha256:1cbdf7bdeea3f06d",
           "sourceBodyHash": "sha256:f65ef91c0cd14c9b",
           "translatedAt": "2026-08-02T13:22:34+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5e061acc",
+          "translationLastModified": "2026-08-03T00:17:55+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "status": "fresh",
@@ -26265,7 +26265,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Art/history-of-taiwanese-literature.md",
+          "translatedFrom": "Art/台灣文學史.md",
+          "sourceCommitSha": "4d7fab8ee",
+          "sourceContentHash": "sha256:894f1af0d29b3b98",
+          "sourceBodyHash": "sha256:b3ce615995198c0c",
+          "translatedAt": "2026-08-02T13:22:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Art/history-of-taiwanese-literature.md",
@@ -44521,8 +44532,8 @@
           "sourceContentHash": "sha256:4a0013722bdf23f3",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-02T15:32:12.708354+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5e061acc",
+          "translationLastModified": "2026-08-03T00:17:55+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -53998,8 +54009,8 @@
           "sourceContentHash": "sha256:0746c045bf4a4492",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-02T14:36:49.531605+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5e061acc",
+          "translationLastModified": "2026-08-03T00:17:55+08:00",
           "inferred": false,
           "footnoteDefs": 34,
           "status": "fresh",
@@ -54784,8 +54795,8 @@
           "sourceContentHash": "sha256:48c230f3d6f5b004",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-02T15:53:20.809684+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5e061acc",
+          "translationLastModified": "2026-08-03T00:17:55+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -79916,7 +79927,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/cheng-chao-tsun-javelin-asian-king.md",
+          "translatedFrom": "People/鄭兆村.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:ce2f1e81de54c692",
+          "sourceBodyHash": "sha256:efa67fc4a2da3f45",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -86790,7 +86812,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/lung-ying-tai.md",
+          "translatedFrom": "People/龍應台.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:32e758a1acf33e90",
+          "sourceBodyHash": "sha256:fb31dbbb24515e69",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/lung-ying-tai.md",
@@ -88737,7 +88770,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/tung-tzu-hsien-tech-humanist.md",
+          "translatedFrom": "People/童子賢.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:741173e056926b2c",
+          "sourceBodyHash": "sha256:7f6ff2dde21c6686",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/tung-tzu-hsien-tech-humanist.md",
