@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-02T11:43:31+08:00",
-    "zhCommitHead": "63dadd665",
+    "lastUpdated": "2026-08-02T12:24:54+08:00",
+    "zhCommitHead": "dbee58f40",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -75,34 +75,34 @@
       },
       "pt": {
         "total_zh": 877,
-        "fresh": 787,
+        "fresh": 789,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 84,
+        "missing": 82,
         "orphan": 0
       },
       "hi": {
         "total_zh": 877,
-        "fresh": 584,
+        "fresh": 586,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 293,
+        "missing": 291,
         "orphan": 0
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 665,
+        "fresh": 668,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 212,
+        "missing": 209,
         "orphan": 0
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 694,
+        "fresh": 696,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 183,
+        "missing": 181,
         "orphan": 0
       }
     },
@@ -3735,7 +3735,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Music/indigenous-music-traditions.md",
+          "translatedFrom": "Music/台灣原住民音樂傳統.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:c9aa499e9c84c71a",
+          "sourceBodyHash": "sha256:b2e261c439c4d6f4",
+          "translatedAt": "2026-08-01T23:08:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -11536,8 +11547,8 @@
           "sourceContentHash": "sha256:323486e516e428ed",
           "sourceBodyHash": "sha256:c34c5e10c2fbc812",
           "translatedAt": "2026-08-01T23:08:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4f9a1bc6",
+          "translationLastModified": "2026-08-02T11:43:31+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -22112,7 +22123,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/taiwan-robotics-industry.md",
+          "translatedFrom": "Technology/台灣機器人產業.md",
+          "sourceCommitSha": "384126544",
+          "sourceContentHash": "sha256:727c897f10782c2b",
+          "sourceBodyHash": "sha256:3b63599a42d7872a",
+          "translatedAt": "2026-08-01T23:08:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/taiwan-robotics-industry.md",
@@ -23233,7 +23255,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Art/taiwanese-prose.md",
+          "translatedFrom": "Art/台灣散文.md",
+          "sourceCommitSha": "7415dcaae",
+          "sourceContentHash": "sha256:073fd0e58756d2a3",
+          "sourceBodyHash": "sha256:2c9c292fec3fdb34",
+          "translatedAt": "2026-08-01T23:08:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/taiwanese-prose.md",
@@ -27098,7 +27131,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Art/century-of-taiwanese-watercolor-painting.md",
+          "translatedFrom": "Art/台灣水彩畫的百年流變.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:0b51fe43b7a1bf00",
+          "sourceBodyHash": "sha256:de90bfe09eb0461c",
+          "translatedAt": "2026-08-01T23:08:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/century-of-taiwanese-watercolor-painting.md",
@@ -27518,7 +27562,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Art/contemporary-taiwanese-literature.md",
+          "translatedFrom": "Art/當代台灣文學.md",
+          "sourceCommitSha": "4d7fab8ee",
+          "sourceContentHash": "sha256:c4bd59992f27e4d2",
+          "sourceBodyHash": "sha256:61a341569aa8edad",
+          "translatedAt": "2026-08-01T23:08:41+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -39435,7 +39490,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/sunflower-movement.md",
+          "translatedFrom": "Society/太陽花學運.md",
+          "sourceCommitSha": "e6c587213",
+          "sourceContentHash": "sha256:f622a7c42dce34d6",
+          "sourceBodyHash": "sha256:2558980b3f59cb6f",
+          "translatedAt": "2026-08-01T23:08:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 21,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/sunflower-movement.md",
@@ -47566,7 +47632,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/About/seeing-taiwan-quotes.md",
+          "translatedFrom": "About/看見台灣引言集.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:4cbaa3c9a8d422dd",
+          "sourceBodyHash": "sha256:0d8842cfba541dc2",
+          "translatedAt": "2026-08-01T23:08:40+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -72512,8 +72589,8 @@
           "sourceContentHash": "sha256:c742af5d03f4c9ab",
           "sourceBodyHash": "sha256:a358cb4047d78691",
           "translatedAt": "2026-08-01T23:08:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4f9a1bc6",
+          "translationLastModified": "2026-08-02T11:43:31+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
@@ -76133,7 +76210,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/lin-chi-wei-social-innovator.md",
+          "translatedFrom": "People/林啟維.md",
+          "sourceCommitSha": "cfaa22a5d",
+          "sourceContentHash": "sha256:c405c2d18eecfac2",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-02T04:10:12.093657+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/lin-chi-wei-social-innovator.md",
@@ -76281,8 +76369,8 @@
           "sourceContentHash": "sha256:e787dc16343b5dd6",
           "sourceBodyHash": "sha256:b6b66329e69543f7",
           "translatedAt": "2026-08-01T23:08:39+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4f9a1bc6",
+          "translationLastModified": "2026-08-02T11:43:31+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -100946,7 +101034,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/History/228-incident.md",
+          "translatedFrom": "History/二二八事件.md",
+          "sourceCommitSha": "936ada6c3",
+          "sourceContentHash": "sha256:99bda6e7dc861382",
+          "sourceBodyHash": "sha256:3ffe04bee42caf48",
+          "translatedAt": "2026-08-01T23:08:39+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
