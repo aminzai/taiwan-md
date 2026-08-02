@@ -208,7 +208,7 @@ Source: Official results of the three referendums by the Central Election Commis
 
 Back-to-back bars, with one group on each side and shared labels in the middle, is a classic demographic chart type. Here, we use it to view the "top-heavy" nature of six counties: children on the left, elderly on the right; comparing the two makes aging more than just an abstract percentage.
 
-```tw-pylamid
+```tw-pyramid
 Top-Heavy: Child vs. Elderly Population Ratio in Six Counties (%)
 County/City | 0–14 years | 65+ years
 Hsinchu County | 14.80 | 15.08
@@ -281,7 +281,7 @@ Source: Central Election Commission
 
 Putting five lines on one chart turns them into a mess of "spaghetti"; small multiples give each line its own small box, and **all boxes share the same scale**, allowing shapes to be compared directly. Here, we use three shifts of nurse-to-patient ratios: the heatmap (above) gives you a precise matrix, while small multiples show you the shape—how every level climbs toward late night, with the most acute rise at the base level. Same data, different questions, different charts.
 
-```tw-multiable
+```tw-multiples
 The deeper the night and the more grassroots the hospital, the more beds one nurse manages (people)
 Column: Shift | Nurse-to-Patient Ratio
 --- Medical Center

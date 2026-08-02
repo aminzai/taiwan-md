@@ -38,6 +38,8 @@ DEFAULT WARN（soft-launch；legacy 文章可能含 violation，且 B 句式偶�
 
 from __future__ import annotations
 import re
+from functools import lru_cache
+from pathlib import Path
 from typing import Any, Iterator
 
 from ..types import FileTarget, Severity, Violation
@@ -48,7 +50,16 @@ DIMENSION = "visualization"
 DEFAULT_SEVERITY = Severity.WARN
 EDITORIAL_REF = "graph.md §七 視覺化檢查清單 + §六 AI 可讀性"
 EDITORIAL_REF_SHAPE = "graph.md §四 模組語法 + §二 型錄"
-APPLIES_TO = ["zh-TW"]  # 中文 SSOT 檢查；翻譯沿用幾何，文字由 babel 處理
+EDITORIAL_REF_NAME = "graph.md §四 模組語法（模組名是語法不是文字欄）"
+
+# 2026-08-02 viz-adoption：本 plugin 從 zh-TW-only 改成全語系。
+# A（缺來源）/ B（AI-blind 指示語）/ C（幾何結構）維持只跑中文 SSOT——翻譯沿用
+# 幾何、文字由 babel 處理，對 12 語重複報同一件事只會製造 12 倍雜訊。
+# D（未知模組名）必須跑全語系：模組名屬於語法不屬於文字欄，而它被翻壞的地方
+# 恰恰只在譯本。zh-only 的 APPLIES_TO 讓 hi/en 的五處壞掉的 fence 名活了下來，
+# 其中兩處就在對外解釋視覺化系統的 About 頁上（設計報告 §2.3b）。
+APPLIES_TO = ["*"]
+_SSOT_LANG = "zh-TW"
 
 # 呈現「資料關係」的模組 → 強制標來源（用 `來源：…` 列）。
 # tw-figure 是關鍵數字 callout，來源走自身 line3 positional slot，不在此強制集。
@@ -75,7 +86,29 @@ _DATA_MODULES = {
 }
 
 # fenced tw-* block：```tw-xxx\n …內容… \n```
-_FENCE_RE = re.compile(r"```(tw-[a-z]+)[^\n]*\n(.*?)```", re.DOTALL)
+# `[a-z-]` 而非 `[a-z]`：翻壞的名字可能帶額外連字號，要抓得到才報得出來。
+_FENCE_RE = re.compile(r"```(tw-[a-z-]+)[^\n]*\n(.*?)```", re.DOTALL)
+
+# ── 合法模組白名單：從 renderer registry 解析，不在本檔另立第三份清單 ──────
+# 真正決定「這個名字會不會渲染成圖」的是 article-render.ts 的那串 `lang === '…'`，
+# 所以白名單的單一真相源就是它。graph.md §四 是給人讀的數量 SSOT，兩者由
+# selftest 對賬（數量異常 → fail loud，不靜默放行）。
+_RENDERER_PATH = (
+    Path(__file__).resolve().parents[5] / "src" / "utils" / "article-render.ts"
+)
+_RENDERER_MODULE_RE = re.compile(r"lang === '(tw-[a-z-]+)'")
+_MIN_EXPECTED_MODULES = 15  # 低於此數＝解析壞了，不是模組真的變少
+
+
+@lru_cache(maxsize=1)
+def _known_modules() -> frozenset[str]:
+    """從 renderer registry 解析合法模組名。解析不出來回傳空集合（呼叫端 fail loud）。"""
+    try:
+        src = _RENDERER_PATH.read_text(encoding="utf-8")
+    except OSError:
+        return frozenset()
+    found = frozenset(_RENDERER_MODULE_RE.findall(src))
+    return found if len(found) >= _MIN_EXPECTED_MODULES else frozenset()
 
 # 來源列：來源：… / 資料來源：… / source: …（中英冒號）
 _SRC_RE = re.compile(r"(?:資料來源|來源|source)\s*[:：]\s*\S", re.IGNORECASE)
@@ -159,6 +192,56 @@ def _to_float(field: str) -> float | None:
 def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     body = target.body
     if not body.strip():
+        return
+
+    # ── D. 未知模組名（全語系跑，2026-08-02 viz-adoption 新增）───────────────
+    # renderer 遇到不認識的 tw-* 會回傳空字串，然後落回一般 code block——讀者看到
+    # 的是一坨帶直線分隔的原始資料，而不是圖。這個降級是完全靜默的：markup 在、
+    # 頁面不壞、build 全綠，只有真的去看那一頁才會發現。babel 把 fence 的語言
+    # 標識當成可翻譯文字翻掉時（tw-bars → tw-vars），整條路上沒有任何一道閘門會叫。
+    known = _known_modules()
+    for m in _FENCE_RE.finditer(body):
+        lang = m.group(1)
+        line_no = body[: m.start()].count("\n") + 1
+        if not known:
+            yield Violation(
+                check=CHECK_NAME,
+                severity=DEFAULT_SEVERITY,
+                message=(
+                    "無法從 renderer 解析模組白名單 "
+                    f"（{_RENDERER_PATH.name}）— 未知模組名這一項這次沒有被檢查，"
+                    "不要當作通過。"
+                ),
+                line=line_no,
+                snippet=f"```{lang} …",
+                editorial_ref=EDITORIAL_REF_NAME,
+                fix_suggestion=(
+                    "確認 src/utils/article-render.ts 存在且仍用 "
+                    "`lang === 'tw-xxx'` 的寫法註冊模組；改過寫法就要同步改本檢查的 regex。"
+                ),
+            )
+            break  # 白名單壞掉是檔案層級的事實，報一次就夠
+        if lang not in known:
+            yield Violation(
+                check=CHECK_NAME,
+                severity=DEFAULT_SEVERITY,
+                message=(
+                    f"`{lang}` 不是合法模組名 — renderer 認不得，會靜默退化成純 "
+                    f"code block，讀者看到原始資料而不是圖。"
+                ),
+                line=line_no,
+                snippet=f"```{lang} …",
+                editorial_ref=EDITORIAL_REF_NAME,
+                fix_suggestion=(
+                    "對照 graph.md §四 改回正確模組名。若出現在譯本，多半是翻譯把 "
+                    "fence 的語言標識當文字翻掉了（例：tw-bars → tw-vars）——"
+                    "模組名屬於語法，任何語言都保持原樣。"
+                ),
+            )
+
+    # A/B/C 是中文 SSOT 的檢查（來源、指示語、幾何），翻譯沿用同一份幾何，
+    # 在 12 個語系重複報同一件事只會稀釋訊號。
+    if target.lang != _SSOT_LANG:
         return
 
     # ── A. 資料視覺化模組缺來源 ──────────────────────────────────────────

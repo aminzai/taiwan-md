@@ -613,6 +613,12 @@ Rules:
    text, NEVER touch the ⟦Un⟧ URL tokens inside them
 6. Unfamiliar proper names: transliterate, do NOT substitute a more famous name you
    already know — append the original zh-TW characters in parentheses on first use
+7. Fenced block language ids are SYNTAX, not prose. A fence opening like ```tw-bars
+   or ```tw-versus must be copied byte-for-byte in every language — the `tw-xxx`
+   part is a renderer keyword, never a word to translate or "correct". Translate
+   only the lines INSIDE the block. (Observed corruption: tw-bars → tw-vars,
+   tw-pyramid → tw-pylamid, tw-multiples → tw-multiable; the renderer does not
+   recognise those and silently degrades the chart into a raw code block.)
 
 Output format — EXACTLY these four marked sections, in this order:
 ===TITLE===
