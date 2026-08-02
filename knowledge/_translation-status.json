@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-02T22:13:44+08:00",
-    "zhCommitHead": "bf24c2787",
+    "lastUpdated": "2026-08-02T23:35:36+08:00",
+    "zhCommitHead": "749cb9d6c",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -83,26 +83,26 @@
       },
       "hi": {
         "total_zh": 877,
-        "fresh": 587,
+        "fresh": 589,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 290,
+        "missing": 288,
         "orphan": 0
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 677,
+        "fresh": 679,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 200,
+        "missing": 198,
         "orphan": 0
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 706,
+        "fresh": 708,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 171,
+        "missing": 169,
         "orphan": 0
       }
     },
@@ -1901,7 +1901,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Music/taiwan-music-industry-and-the-streaming-era.md",
+          "translatedFrom": "Music/台灣音樂產業與串流時代.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:f71f072559f005b7",
+          "sourceBodyHash": "sha256:39fa5a6a860830cc",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -2239,7 +2250,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Music/taiwanese-hokkien-song-evolution.md",
+          "translatedFrom": "Music/台灣台語歌曲演進.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:f008ac775b92e042",
+          "sourceBodyHash": "sha256:14cffd9d61fb7eb9",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -23919,7 +23941,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Art/taiwan-travelogue.md",
+          "translatedFrom": "Art/臺灣漫遊錄.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:1cbdf7bdeea3f06d",
+          "sourceBodyHash": "sha256:f65ef91c0cd14c9b",
+          "translatedAt": "2026-08-02T13:22:34+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Art/taiwan-travelogue.md",
@@ -26077,8 +26110,8 @@
           "sourceContentHash": "sha256:5275019358614716",
           "sourceBodyHash": "sha256:dd1128570e96c06e",
           "translatedAt": "2026-08-02T13:22:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1ad04ee2",
+          "translationLastModified": "2026-08-02T22:13:44+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -53937,7 +53970,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Politics/indigenous-district-chief-system.md",
+          "translatedFrom": "Politics/直轄市山地原住民區長.md",
+          "sourceCommitSha": "e957cf7f1",
+          "sourceContentHash": "sha256:0746c045bf4a4492",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-02T14:36:49.531605+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 34,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -63761,7 +63805,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/chi-cheng-flying-antelope.md",
+          "translatedFrom": "People/紀政.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:ec85f3e1d7f5d977",
+          "sourceBodyHash": "sha256:5932775fa82a34d0",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/chi-cheng-flying-antelope.md",
@@ -65875,8 +65930,8 @@
           "sourceContentHash": "sha256:5e90feeafc19360c",
           "sourceBodyHash": "sha256:81e4bcfc4e50e127",
           "translatedAt": "2026-08-02T13:22:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1ad04ee2",
+          "translationLastModified": "2026-08-02T22:13:44+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -81262,8 +81317,8 @@
           "sourceContentHash": "sha256:736f2b6cf89c9093",
           "sourceBodyHash": "sha256:728aa85d9d44e89a",
           "translatedAt": "2026-08-02T13:22:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1ad04ee2",
+          "translationLastModified": "2026-08-02T22:13:44+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -86937,8 +86992,8 @@
           "sourceContentHash": "sha256:88ba1e028cceec90",
           "sourceBodyHash": "sha256:d72e85599f59782f",
           "translatedAt": "2026-08-02T13:22:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1ad04ee2",
+          "translationLastModified": "2026-08-02T22:13:44+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -87554,7 +87609,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/terry-gou.md",
+          "translatedFrom": "People/郭台銘.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:981dd62862f57c30",
+          "sourceBodyHash": "sha256:6bf98169f185af90",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/terry-gou.md",
