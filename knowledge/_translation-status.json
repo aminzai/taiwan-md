@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-02T18:36:52+08:00",
-    "zhCommitHead": "88b03994f",
+    "lastUpdated": "2026-08-02T18:43:40+08:00",
+    "zhCommitHead": "5abb2e5e2",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 672,
+        "fresh": 673,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 205,
+        "missing": 204,
         "orphan": 0
       },
       "ru": {
@@ -16272,8 +16272,8 @@
           "sourceContentHash": "sha256:ea05ddc3465f02eb",
           "sourceBodyHash": "sha256:c1a908bbd971d40d",
           "translatedAt": "2026-08-02T13:22:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5abb2e5e",
+          "translationLastModified": "2026-08-02T18:36:52+08:00",
           "inferred": false,
           "footnoteDefs": 40,
           "status": "fresh",
@@ -22323,8 +22323,8 @@
           "sourceContentHash": "sha256:efb74dfc78d9c93c",
           "sourceBodyHash": "sha256:28ef520886f893e3",
           "translatedAt": "2026-08-02T13:22:33+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "5abb2e5e",
+          "translationLastModified": "2026-08-02T18:36:52+08:00",
           "inferred": false,
           "footnoteDefs": 53,
           "status": "fresh",
@@ -118687,7 +118687,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/shopping-design.md",
+          "translatedFrom": "Culture/Shopping Design.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:ad45b627d00f528f",
+          "sourceBodyHash": "sha256:da4269ea46f7ec77",
+          "translatedAt": "2026-08-02T13:22:35+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/shopping-design.md",
