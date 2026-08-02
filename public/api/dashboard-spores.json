@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T22:13:34.528485Z",
+  "lastUpdated": "2026-08-02T22:39:23.244328Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 154,
@@ -31,10 +31,10 @@
       "template": "B 冷知識型／結構性題目（問題入口＋三角度收束）",
       "url": "https://x.com/taiwandotmd/status/2081744559860818133",
       "highlight": "同 #163 內容，X 單則貼文＋inline s164 UTM",
-      "views_7d": null,
-      "views_latest": 5002,
-      "engagements_7d": null,
-      "rate_7d": null,
+      "views_7d": 5009,
+      "views_latest": 5009,
+      "engagements_7d": 130,
+      "rate_7d": 2.6,
       "backfilled": true
     },
     {
@@ -47,10 +47,10 @@
       "template": "B 冷知識型／結構性題目（問題入口＋三角度收束）",
       "url": "https://www.threads.com/@taiwandotmd/post/DbTJE6Mk8mK",
       "highlight": "食安法沒定義「發現」的時點：中聯拖 19 天、連淨當天說；收尾把「你會先打給上游還是政府」交還讀者",
-      "views_7d": null,
-      "views_latest": 1705,
-      "engagements_7d": null,
-      "rate_7d": null,
+      "views_7d": 1707,
+      "views_latest": 1707,
+      "engagements_7d": 25,
+      "rate_7d": 1.46,
       "backfilled": true
     },
     {
@@ -203,38 +203,21 @@
   "amplification": [],
   "platformComparison": {
     "threads": {
-      "count": 58,
-      "avgViews": 32158,
+      "count": 59,
+      "avgViews": 31642,
       "maxViews": 430000,
-      "avgRate": 5.94,
+      "avgRate": 5.82,
       "maxRate": 16.75
     },
     "x": {
-      "count": 68,
-      "avgViews": 14429,
+      "count": 69,
+      "avgViews": 14292,
       "maxViews": 136474,
-      "avgRate": 3.47,
+      "avgRate": 3.45,
       "maxRate": 9.09
     }
   },
-  "backfillWarnings": [
-    {
-      "n": 163,
-      "article": "苯駢芘食安事件",
-      "platform": "threads",
-      "publishedDays": 7,
-      "status": "OVERDUE",
-      "url": "https://www.threads.com/@taiwandotmd/post/DbTJE6Mk8mK"
-    },
-    {
-      "n": 164,
-      "article": "苯駢芘食安事件",
-      "platform": "x",
-      "publishedDays": 7,
-      "status": "OVERDUE",
-      "url": "https://x.com/taiwandotmd/status/2081744559860818133"
-    }
-  ],
+  "backfillWarnings": [],
   "noUrlHistorical": [
     {
       "n": 1,
@@ -304,7 +287,7 @@
     {
       "week": "2026-W31",
       "published": 2,
-      "avgViews": 3354
+      "avgViews": 3358
     }
   ],
   "harvestStatus": [
@@ -1835,8 +1818,8 @@
       "publishDate": "2026-07-27",
       "daysSincePublish": 7,
       "withinHarvestWindow": true,
-      "harvestCount": 6,
-      "lastHarvest": "2026-08-02 06:40"
+      "harvestCount": 7,
+      "lastHarvest": "2026-08-03 06:38"
     },
     {
       "n": 164,
@@ -1845,8 +1828,8 @@
       "publishDate": "2026-07-27",
       "daysSincePublish": 7,
       "withinHarvestWindow": true,
-      "harvestCount": 6,
-      "lastHarvest": "2026-08-02 06:40"
+      "harvestCount": 7,
+      "lastHarvest": "2026-08-03 06:38"
     }
   ]
 }
