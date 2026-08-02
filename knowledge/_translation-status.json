@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-02T14:23:53+08:00",
-    "zhCommitHead": "67754b46f",
+    "lastUpdated": "2026-08-02T14:37:16+08:00",
+    "zhCommitHead": "7f2170e59",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 877,
-        "fresh": 791,
+        "fresh": 792,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 80,
+        "missing": 79,
         "orphan": 0
       },
       "hi": {
@@ -3184,8 +3184,8 @@
           "sourceContentHash": "sha256:e201829436b891a1",
           "sourceBodyHash": "sha256:61e39c0d29fd318e",
           "translatedAt": "2026-08-01T23:08:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7f2170e5",
+          "translationLastModified": "2026-08-02T14:23:53+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -3752,8 +3752,8 @@
           "sourceContentHash": "sha256:c9aa499e9c84c71a",
           "sourceBodyHash": "sha256:b2e261c439c4d6f4",
           "translatedAt": "2026-08-01T23:08:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7f2170e5",
+          "translationLastModified": "2026-08-02T14:23:53+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -20467,7 +20467,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Technology/nvidia-in-taiwan.md",
+          "translatedFrom": "Technology/NVIDIA在台灣.md",
+          "sourceCommitSha": "67e5b3684",
+          "sourceContentHash": "sha256:b56a9c2f52721e09",
+          "sourceBodyHash": "sha256:4f355b3d3c9b0f43",
+          "translatedAt": "2026-08-02T13:22:33+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 71,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -27612,8 +27623,8 @@
           "sourceContentHash": "sha256:c4bd59992f27e4d2",
           "sourceBodyHash": "sha256:61a341569aa8edad",
           "translatedAt": "2026-08-01T23:08:41+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7f2170e5",
+          "translationLastModified": "2026-08-02T14:23:53+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -72205,8 +72216,8 @@
           "sourceContentHash": "sha256:884e3106e00c3ed4",
           "sourceBodyHash": "sha256:0e9eced4546d8cba",
           "translatedAt": "2026-08-02T13:22:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7f2170e5",
+          "translationLastModified": "2026-08-02T14:23:53+08:00",
           "inferred": false,
           "footnoteDefs": 13,
           "status": "fresh",
@@ -78258,8 +78269,8 @@
           "sourceContentHash": "sha256:2dda34fc81c78056",
           "sourceBodyHash": "sha256:fb05d9869b96635c",
           "translatedAt": "2026-08-02T13:22:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7f2170e5",
+          "translationLastModified": "2026-08-02T14:23:53+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -83307,8 +83318,8 @@
           "sourceContentHash": "sha256:ea84edf10c10d1a4",
           "sourceBodyHash": "sha256:54cafe2c5032e30e",
           "translatedAt": "2026-08-02T13:22:35+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7f2170e5",
+          "translationLastModified": "2026-08-02T14:23:53+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
