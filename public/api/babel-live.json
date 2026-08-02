@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-08-02T20:09:01+08:00",
+ "generated_at": "2026-08-02T21:09:35+08:00",
  "producer": "scripts/tools/lang-sync/babel-pulse.py (launchd, 15min)",
- "snapshot_ts": "2026-08-02T20:08:58+08:00",
+ "snapshot_ts": "2026-08-02T21:09:31+08:00",
  "total_zh": 877,
  "langs": [
   {
@@ -88,115 +88,115 @@
   {
    "lang": "ar",
    "name": "العربية",
-   "fresh": 674,
+   "fresh": 675,
    "stale": 0,
-   "missing": 203,
-   "coverage_pct": 76.9,
+   "missing": 202,
+   "coverage_pct": 77.0,
    "fresh_delta": 0
   },
   {
    "lang": "ru",
    "name": "Русский",
-   "fresh": 703,
+   "fresh": 704,
    "stale": 0,
-   "missing": 174,
-   "coverage_pct": 80.2,
-   "fresh_delta": 0
+   "missing": 173,
+   "coverage_pct": 80.3,
+   "fresh_delta": 1
   }
  ],
- "gap_total": 1734,
- "gap_delta": 0,
+ "gap_total": 1732,
+ "gap_delta": -1,
  "rate_1h": {
   "delta": 2,
   "span_h": 1.01,
   "per_hour": 2.0
  },
  "rate_24h": {
-  "delta": 96,
+  "delta": 93,
   "span_h": 24.14,
-  "per_hour": 4.0
+  "per_hour": 3.9
  },
  "eta_days": 36.1,
  "nodes": {
   "worker:nemo": {
    "ok": 164,
-   "fail": 313,
+   "fail": 315,
    "avg_s": 374.0,
    "top_fail": [
     [
      "no output written by tra",
-     96
+     98
     ],
     [
      "leak",
      84
     ]
    ],
-   "last_activity": "2026-08-02T19:34:35+08:00"
+   "last_activity": "2026-08-02T20:56:21+08:00"
   },
   "worker:nemo3": {
    "ok": 157,
-   "fail": 291,
+   "fail": 292,
    "avg_s": 411.6,
    "top_fail": [
     [
      "no output written by tra",
-     91
+     92
     ],
     [
      "leak",
      76
     ]
    ],
-   "last_activity": "2026-08-02T19:51:58+08:00"
+   "last_activity": "2026-08-02T20:36:54+08:00"
   },
   "worker:nemo2": {
    "ok": 160,
-   "fail": 274,
+   "fail": 275,
    "avg_s": 314.4,
    "top_fail": [
     [
      "no output written by tra",
-     79
+     80
     ],
     [
      "leak",
      72
     ]
    ],
-   "last_activity": "2026-08-02T20:03:30+08:00"
+   "last_activity": "2026-08-02T21:08:29+08:00"
   },
   "worker:nemo4": {
-   "ok": 159,
-   "fail": 277,
-   "avg_s": 366.6,
+   "ok": 161,
+   "fail": 279,
+   "avg_s": 365.5,
    "top_fail": [
     [
      "no output written by tra",
-     101
+     102
     ],
     [
      "leak",
      61
     ]
    ],
-   "last_activity": "2026-08-02T19:45:30+08:00"
+   "last_activity": "2026-08-02T21:03:36+08:00"
   },
   "worker:desktop3090": {
    "ok": 10,
-   "fail": 296,
+   "fail": 302,
    "avg_s": 163.1,
    "top_fail": [
     [
      "no output written by tra",
-     204
+     209
     ],
     [
      "health [footnote-format]",
-     42
+     43
     ]
    ],
-   "last_activity": "2026-08-02T19:44:13+08:00"
+   "last_activity": "2026-08-02T20:59:23+08:00"
   },
   "worker:dead": {
    "ok": 0,
@@ -458,39 +458,19 @@
   {
    "kind": "unified",
    "pid": "8492",
-   "uptime": "21:00:31",
+   "uptime": "22:01:05",
    "langs": "ja,id,pt,hi,ar,ru",
    "workers": 4
   },
   {
    "kind": "unified",
    "pid": "54254",
-   "uptime": "46:05",
+   "uptime": "01:46:39",
    "langs": "en,es,fr,ko",
    "workers": 1
   }
  ],
  "history": [
-  {
-   "ts": "2026-08-01T09:32:53+08:00",
-   "fresh_total": 7817,
-   "gap_total": 1830
-  },
-  {
-   "ts": "2026-08-01T11:18:36+08:00",
-   "fresh_total": 7817,
-   "gap_total": 1830
-  },
-  {
-   "ts": "2026-08-01T13:15:23+08:00",
-   "fresh_total": 7817,
-   "gap_total": 1830
-  },
-  {
-   "ts": "2026-08-01T16:49:55+08:00",
-   "fresh_total": 7817,
-   "gap_total": 1830
-  },
   {
    "ts": "2026-08-01T19:30:02+08:00",
    "fresh_total": 7817,
@@ -950,6 +930,26 @@
    "ts": "2026-08-02T20:08:58+08:00",
    "fresh_total": 7913,
    "gap_total": 1734
+  },
+  {
+   "ts": "2026-08-02T20:24:06+08:00",
+   "fresh_total": 7913,
+   "gap_total": 1734
+  },
+  {
+   "ts": "2026-08-02T20:39:15+08:00",
+   "fresh_total": 7913,
+   "gap_total": 1734
+  },
+  {
+   "ts": "2026-08-02T20:54:23+08:00",
+   "fresh_total": 7914,
+   "gap_total": 1733
+  },
+  {
+   "ts": "2026-08-02T21:09:31+08:00",
+   "fresh_total": 7915,
+   "gap_total": 1732
   }
  ]
 }
