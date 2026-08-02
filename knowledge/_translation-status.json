@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-02T06:13:19+08:00",
-    "zhCommitHead": "872e1d865",
-    "totalZh": 877,
+    "lastUpdated": "2026-08-03T06:13:32+08:00",
+    "zhCommitHead": "36c9e332d",
+    "totalZh": 878,
     "activeLanguages": [
       "en",
       "ja",
@@ -18,91 +18,91 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 877,
+        "total_zh": 878,
         "fresh": 837,
         "stale": 23,
         "metadata_stale": 3,
-        "missing": 14,
+        "missing": 15,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 877,
+        "total_zh": 878,
         "fresh": 835,
         "stale": 28,
         "metadata_stale": 2,
-        "missing": 12,
+        "missing": 13,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 877,
+        "total_zh": 878,
         "fresh": 854,
         "stale": 14,
         "metadata_stale": 0,
-        "missing": 9,
+        "missing": 10,
         "orphan": 0
       },
       "es": {
-        "total_zh": 877,
+        "total_zh": 878,
         "fresh": 848,
         "stale": 19,
+        "metadata_stale": 1,
+        "missing": 10,
+        "orphan": 0
+      },
+      "fr": {
+        "total_zh": 878,
+        "fresh": 851,
+        "stale": 17,
         "metadata_stale": 1,
         "missing": 9,
         "orphan": 0
       },
-      "fr": {
-        "total_zh": 877,
-        "fresh": 851,
-        "stale": 17,
-        "metadata_stale": 1,
-        "missing": 8,
-        "orphan": 0
-      },
       "vi": {
-        "total_zh": 877,
+        "total_zh": 878,
         "fresh": 439,
         "stale": 12,
         "metadata_stale": 4,
-        "missing": 422,
+        "missing": 423,
         "orphan": 0
       },
       "id": {
-        "total_zh": 877,
+        "total_zh": 878,
         "fresh": 464,
         "stale": 3,
         "metadata_stale": 0,
-        "missing": 410,
+        "missing": 411,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 877,
+        "total_zh": 878,
         "fresh": 770,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 101,
+        "missing": 102,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 877,
+        "total_zh": 878,
         "fresh": 573,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 304,
+        "missing": 305,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 877,
+        "total_zh": 878,
         "fresh": 646,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 230,
+        "missing": 231,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 877,
+        "total_zh": 878,
         "fresh": 669,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 208,
+        "missing": 209,
         "orphan": 0
       }
     },
@@ -104401,6 +104401,49 @@
           "footnoteDefs": 14,
           "status": "fresh",
           "reason": "same-commit"
+        }
+      }
+    },
+    "History/黑蝙蝠中隊.md": {
+      "zh": {
+        "lastCommit": "17a8255e",
+        "lastModified": "2026-08-02T08:46:13+08:00",
+        "contentHash": "sha256:9c407c7793816591",
+        "bodyHash": "sha256:7e573e2650a593fd"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
         }
       }
     },

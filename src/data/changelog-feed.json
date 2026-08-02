@@ -1,7 +1,112 @@
 {
-  "generatedAt": "2026-08-01T22:13:24.870Z",
+  "generatedAt": "2026-08-02T22:13:38.013Z",
   "source": "git",
   "commits": [
+    {
+      "hash": "36c9e332dc40731f0944d2e4c2788a43cf25aebf",
+      "date": "2026-08-03T05:39:07+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-routine-sync @ 2026-08-03 05:38 — 17 條全 in-sync 零漂移，第九輪",
+      "articles": []
+    },
+    {
+      "hash": "650ea9f9c24f4269a6decd2fd65810ce3b962765",
+      "date": "2026-08-03T05:35:48+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-embeddings-nightly @ 2026-08-03 05:34 — 12 語 8696 向量 0 fail，例行乾淨重建",
+      "articles": []
+    },
+    {
+      "hash": "c3b21cc167da38b5fd687133700a8dbb39e9a16c",
+      "date": "2026-08-03T05:34:19+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-03 05:34",
+      "articles": []
+    },
+    {
+      "hash": "ad269f6676c2010ee6210f149ff420c6ba37c115",
+      "date": "2026-08-03T01:12:04+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-supporters-weekly @ 2026-08-03 01:20 — Gmail MCP 缺席，Stage 2 無法執行，ABORT",
+      "articles": []
+    },
+    {
+      "hash": "19bb23c0994061bced6de9d2f74ab0df8299a87c",
+      "date": "2026-08-02T21:27:20+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: 補 W31 routine-audit memory 的 BECOME ack 明文 + N pattern 計數",
+      "articles": []
+    },
+    {
+      "hash": "40ae12e0e971055fcb5c3b1d85198cbe262707e1",
+      "date": "2026-08-02T21:26:24+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [semiont] memory: twmd-routine-audit-weekly @ 2026-08-02 21:24 — 814 commit 全數健康，抓到三個新漂移",
+      "articles": []
+    },
+    {
+      "hash": "8f6d2ec0def19a22a3dca46d941cf716a046e1a7",
+      "date": "2026-08-02T21:24:14+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] routine-audit-weekly: 814 commit 全數健康，抓到三個「原本對、悄悄漂了一格」的小漂移 — 2026-08-02",
+      "articles": []
+    },
+    {
+      "hash": "899e6ab16cf9c7e5e72b90a48881ce4f02ec750e",
+      "date": "2026-08-02T08:59:26+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-maintainer-daily @ 2026-08-02 08:49 — merge-first-heal #1287，deploy 一度轉紅 heal 後復綠",
+      "articles": []
+    },
+    {
+      "hash": "17a8255e4bab5635e9c4a05cd74938104c423d47",
+      "date": "2026-08-02T08:46:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] heal: PR #1287 黑蝙蝠中隊 frontmatter/腳註/延伸閱讀補完 + §11 對位句型修",
+      "articles": []
+    },
+    {
+      "hash": "9af797f79552c95239d5d42b5fad9d3b945830e3",
+      "date": "2026-08-02T08:43:19+08:00",
+      "author": "idlccp1984",
+      "message": "Create 黑蝙蝠中隊.md (#1287)",
+      "articles": []
+    },
+    {
+      "hash": "4d664267221aa6cf93a1bcc1ec433ee6f9917fa5",
+      "date": "2026-08-02T07:10:39+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-feedback-triage: 隊列空，archive 掃描零新同步 — 2026-08-02",
+      "articles": []
+    },
+    {
+      "hash": "17b6164bf8d93add955e2c3e1f469ef8fa8aaa77",
+      "date": "2026-08-02T06:43:59+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-spore-harvest-am @ 2026-08-02 06:43 — 4 spores 零新勘誤，鎢文命案框架已確認落地",
+      "articles": []
+    },
+    {
+      "hash": "4acdc3d52ea5d843404ad1ecb260b9e73a951414",
+      "date": "2026-08-02T06:41:44+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-spore-harvest-am: 4 spores harvested — 2026-08-02",
+      "articles": []
+    },
+    {
+      "hash": "d716702f5873155e61886dc17d3cf25361310aea",
+      "date": "2026-08-02T06:16:58+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] memory: twmd-data-refresh-am @ 2026-08-02 06:14 — 14 步全綠零 stale，第五個連續全綠早晨",
+      "articles": []
+    },
+    {
+      "hash": "a408a93ad75ebdc47e96afbdfc92cbf1183f71fd",
+      "date": "2026-08-02T06:14:13+08:00",
+      "author": "Che-Yu Wu",
+      "message": "🧬 [routine] twmd-data-refresh-am: 每日資料刷新 — 文章 875、本週新增 22",
+      "articles": []
+    },
     {
       "hash": "872e1d86549f48a0d7e2541cde5223d13b46ddce",
       "date": "2026-08-02T05:38:52+08:00",

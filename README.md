@@ -23,7 +23,7 @@ Taiwan.md is an open-source, curated, AI-friendly knowledge base that helps the 
 
 ## ✨ Features
 
-- 📖 **875 curated articles** (zh-TW SSOT) across 14 categories — projected to **12 languages** = 10,500 article-versions
+- 📖 **876 curated articles** (zh-TW SSOT) across 14 categories — projected to **12 languages** = 10,512 article-versions
 - 🌐 **Multilingual** — 繁體中文 (SSOT) + English + 日本語 + 한국어 + Español + Français + Tiếng Việt + Bahasa Indonesia + Português + हिन्दी + العربية + Русский — 12 languages (2026-07-25 主權的巴別塔加入 ar/ru，站上首次 RTL)
 - 🤖 **AI-native** — [`llms.txt`](https://taiwan.md/llms.txt), [`robots.txt`](https://taiwan.md/robots.txt), structured Markdown SSOT
 - 🕸️ **Interactive knowledge graph** — D3.js force simulation with zoom, drag, cross-category bridges
@@ -95,8 +95,8 @@ a human — that boundary is the design, not a limitation. The full contract is
 
 | Metric                         | Count |
 | ------------------------------ | ----- |
-| 📄 Total articles (zh-TW SSOT) | 875   |
-| 🇹🇼 Chinese (zh-TW)             | 875   |
+| 📄 Total articles (zh-TW SSOT) | 876   |
+| 🇹🇼 Chinese (zh-TW)             | 876   |
 | 🇺🇸 English (en)                | 868   |
 | 🇯🇵 日本語 (ja)                 | 865   |
 | 🇰🇷 한국어 (ko)                 | 868   |
@@ -108,8 +108,8 @@ a human — that boundary is the design, not a limitation. The full contract is
 | 👥 Contributors                | 68    |
 | ⭐ GitHub Stars                | 1121  |
 | 🍴 Forks                       | 170   |
-| 📅 Articles last 7 days        | 22    |
-| 📅 Articles last 30 days       | 238   |
+| 📅 Articles last 7 days        | 18    |
+| 📅 Articles last 30 days       | 239   |
 
 <!-- STATS:END -->
 

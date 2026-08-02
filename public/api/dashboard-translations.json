@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T22:13:38.195Z",
+  "lastUpdated": "2026-08-02T22:13:51.411Z",
   "languages": [
     "zh-TW",
     "en",
@@ -16,83 +16,83 @@
   ],
   "summary": {
     "zh-TW": {
-      "total": 875,
+      "total": 876,
       "percentage": 100,
-      "fresh": 875,
+      "fresh": 876,
       "stale": 0,
       "missing": 0,
       "deficit": 0
     },
     "en": {
       "total": 863,
-      "percentage": 98.4,
+      "percentage": 98.3,
       "fresh": 837,
       "metadataStale": 3,
       "stale": 23,
-      "missing": 14,
+      "missing": 15,
       "orphan": 0,
-      "deficit": 14,
-      "freshPct": 95.4,
-      "bodyFreshPct": 95.8
+      "deficit": 15,
+      "freshPct": 95.3,
+      "bodyFreshPct": 95.7
     },
     "ja": {
       "total": 865,
-      "percentage": 98.6,
+      "percentage": 98.5,
       "fresh": 835,
       "metadataStale": 2,
       "stale": 28,
-      "missing": 12,
+      "missing": 13,
       "orphan": 0,
-      "deficit": 12,
-      "freshPct": 95.2,
-      "bodyFreshPct": 95.4
+      "deficit": 13,
+      "freshPct": 95.1,
+      "bodyFreshPct": 95.3
     },
     "ko": {
       "total": 868,
-      "percentage": 99,
+      "percentage": 98.9,
       "fresh": 854,
       "metadataStale": 0,
       "stale": 14,
-      "missing": 9,
+      "missing": 10,
       "orphan": 0,
-      "deficit": 9,
-      "freshPct": 97.4,
-      "bodyFreshPct": 97.4
+      "deficit": 10,
+      "freshPct": 97.3,
+      "bodyFreshPct": 97.3
     },
     "es": {
       "total": 868,
-      "percentage": 99,
+      "percentage": 98.9,
       "fresh": 848,
       "metadataStale": 1,
       "stale": 19,
-      "missing": 9,
+      "missing": 10,
       "orphan": 0,
-      "deficit": 9,
-      "freshPct": 96.7,
-      "bodyFreshPct": 96.8
+      "deficit": 10,
+      "freshPct": 96.6,
+      "bodyFreshPct": 96.7
     },
     "fr": {
       "total": 869,
-      "percentage": 99.1,
+      "percentage": 99,
       "fresh": 851,
       "metadataStale": 1,
       "stale": 17,
-      "missing": 8,
+      "missing": 9,
       "orphan": 0,
-      "deficit": 8,
-      "freshPct": 97,
-      "bodyFreshPct": 97.1
+      "deficit": 9,
+      "freshPct": 96.9,
+      "bodyFreshPct": 97
     },
     "vi": {
       "total": 455,
-      "percentage": 51.9,
+      "percentage": 51.8,
       "fresh": 439,
       "metadataStale": 4,
       "stale": 12,
-      "missing": 422,
+      "missing": 423,
       "orphan": 0,
-      "deficit": 422,
-      "freshPct": 50.1,
+      "deficit": 423,
+      "freshPct": 50,
       "bodyFreshPct": 50.5
     },
     "id": {
@@ -101,23 +101,23 @@
       "fresh": 464,
       "metadataStale": 0,
       "stale": 3,
-      "missing": 410,
+      "missing": 411,
       "orphan": 0,
-      "deficit": 410,
-      "freshPct": 52.9,
-      "bodyFreshPct": 52.9
+      "deficit": 411,
+      "freshPct": 52.8,
+      "bodyFreshPct": 52.8
     },
     "pt": {
       "total": 776,
-      "percentage": 88.5,
+      "percentage": 88.4,
       "fresh": 770,
       "metadataStale": 0,
       "stale": 6,
-      "missing": 101,
+      "missing": 102,
       "orphan": 0,
-      "deficit": 101,
-      "freshPct": 87.8,
-      "bodyFreshPct": 87.8
+      "deficit": 102,
+      "freshPct": 87.7,
+      "bodyFreshPct": 87.7
     },
     "hi": {
       "total": 573,
@@ -125,35 +125,35 @@
       "fresh": 573,
       "metadataStale": 0,
       "stale": 0,
-      "missing": 304,
+      "missing": 305,
       "orphan": 0,
-      "deficit": 304,
+      "deficit": 305,
       "freshPct": 65.3,
       "bodyFreshPct": 65.3
     },
     "ar": {
       "total": 647,
-      "percentage": 73.8,
+      "percentage": 73.7,
       "fresh": 646,
       "metadataStale": 0,
       "stale": 1,
-      "missing": 230,
+      "missing": 231,
       "orphan": 0,
-      "deficit": 230,
-      "freshPct": 73.7,
-      "bodyFreshPct": 73.7
+      "deficit": 231,
+      "freshPct": 73.6,
+      "bodyFreshPct": 73.6
     },
     "ru": {
       "total": 669,
-      "percentage": 76.3,
+      "percentage": 76.2,
       "fresh": 669,
       "metadataStale": 0,
       "stale": 0,
-      "missing": 208,
+      "missing": 209,
       "orphan": 0,
-      "deficit": 208,
-      "freshPct": 76.3,
-      "bodyFreshPct": 76.3
+      "deficit": 209,
+      "freshPct": 76.2,
+      "bodyFreshPct": 76.2
     }
   },
   "matrix": {
@@ -638,83 +638,83 @@
       }
     },
     "history": {
-      "zh-TW": 51,
+      "zh-TW": 52,
       "en": {
         "count": 50,
         "fresh": 46,
         "stale": 4,
-        "missing": 1,
-        "deficit": 1
+        "missing": 2,
+        "deficit": 2
       },
       "ja": {
         "count": 50,
         "fresh": 48,
         "stale": 2,
-        "missing": 1,
-        "deficit": 1
+        "missing": 2,
+        "deficit": 2
       },
       "ko": {
         "count": 50,
         "fresh": 49,
         "stale": 1,
-        "missing": 1,
-        "deficit": 1
+        "missing": 2,
+        "deficit": 2
       },
       "es": {
         "count": 50,
         "fresh": 50,
         "stale": 0,
-        "missing": 1,
-        "deficit": 1
+        "missing": 2,
+        "deficit": 2
       },
       "fr": {
         "count": 50,
         "fresh": 48,
         "stale": 2,
-        "missing": 1,
-        "deficit": 1
+        "missing": 2,
+        "deficit": 2
       },
       "vi": {
         "count": 28,
         "fresh": 27,
         "stale": 1,
-        "missing": 23,
-        "deficit": 23
+        "missing": 24,
+        "deficit": 24
       },
       "id": {
         "count": 34,
         "fresh": 33,
         "stale": 1,
-        "missing": 17,
-        "deficit": 17
+        "missing": 18,
+        "deficit": 18
       },
       "pt": {
         "count": 46,
         "fresh": 45,
         "stale": 1,
-        "missing": 5,
-        "deficit": 5
+        "missing": 6,
+        "deficit": 6
       },
       "hi": {
         "count": 39,
         "fresh": 39,
         "stale": 0,
-        "missing": 12,
-        "deficit": 12
+        "missing": 13,
+        "deficit": 13
       },
       "ar": {
         "count": 43,
         "fresh": 43,
         "stale": 0,
-        "missing": 8,
-        "deficit": 8
+        "missing": 9,
+        "deficit": 9
       },
       "ru": {
         "count": 39,
         "fresh": 39,
         "stale": 0,
-        "missing": 12,
-        "deficit": 12
+        "missing": 13,
+        "deficit": 13
       }
     },
     "lifestyle": {
@@ -1280,6 +1280,7 @@
   },
   "missing": {
     "en": [
+      "History/黑蝙蝠中隊：暗夜裡的無名英雄與跨越海峽的孤獨航程.md",
       "Economy/台灣羊乳：從晨間鮮配箱到 GGM 認證的純山羊奶之路.md",
       "History/平埔族群：從「行政格式化」到西拉雅正名第 17 族的百年重生.md",
       "Food/國際品牌在台的味蕾變革：從麥當勞玉米濃湯到「萬家福」的在地深耕.md",
@@ -1296,6 +1297,7 @@
       "People/唐鳳：她每一次有名的決定，都是在拒絕「天才」這個標籤.md"
     ],
     "ja": [
+      "History/黑蝙蝠中隊：暗夜裡的無名英雄與跨越海峽的孤獨航程.md",
       "Economy/台灣羊乳：從晨間鮮配箱到 GGM 認證的純山羊奶之路.md",
       "History/平埔族群：從「行政格式化」到西拉雅正名第 17 族的百年重生.md",
       "Food/國際品牌在台的味蕾變革：從麥當勞玉米濃湯到「萬家福」的在地深耕.md",
@@ -1310,6 +1312,7 @@
       "Technology/台灣網路社群三十年——撈得回網址，撈不回照片的失土史.md"
     ],
     "ko": [
+      "History/黑蝙蝠中隊：暗夜裡的無名英雄與跨越海峽的孤獨航程.md",
       "Economy/台灣羊乳：從晨間鮮配箱到 GGM 認證的純山羊奶之路.md",
       "History/平埔族群：從「行政格式化」到西拉雅正名第 17 族的百年重生.md",
       "Food/國際品牌在台的味蕾變革：從麥當勞玉米濃湯到「萬家福」的在地深耕.md",
@@ -1321,6 +1324,7 @@
       "Society/外送專法：法律砌好了地板，地板以上還是演算法的.md"
     ],
     "es": [
+      "History/黑蝙蝠中隊：暗夜裡的無名英雄與跨越海峽的孤獨航程.md",
       "Economy/台灣羊乳：從晨間鮮配箱到 GGM 認證的純山羊奶之路.md",
       "History/平埔族群：從「行政格式化」到西拉雅正名第 17 族的百年重生.md",
       "Food/國際品牌在台的味蕾變革：從麥當勞玉米濃湯到「萬家福」的在地深耕.md",
@@ -1332,6 +1336,7 @@
       "Art/笠詩社：一群被迫忘掉日文的人，撐起台灣最長壽的中文詩刊.md"
     ],
     "fr": [
+      "History/黑蝙蝠中隊：暗夜裡的無名英雄與跨越海峽的孤獨航程.md",
       "Economy/台灣羊乳：從晨間鮮配箱到 GGM 認證的純山羊奶之路.md",
       "History/平埔族群：從「行政格式化」到西拉雅正名第 17 族的百年重生.md",
       "Food/國際品牌在台的味蕾變革：從麥當勞玉米濃湯到「萬家福」的在地深耕.md",
@@ -1342,6 +1347,7 @@
       "Society/苯駢芘食安事件：知情19天才通報，1,322家店最後才被算進帳.md"
     ],
     "vi": [
+      "History/黑蝙蝠中隊：暗夜裡的無名英雄與跨越海峽的孤獨航程.md",
       "Economy/台灣羊乳：從晨間鮮配箱到 GGM 認證的純山羊奶之路.md",
       "History/平埔族群：從「行政格式化」到西拉雅正名第 17 族的百年重生.md",
       "Food/國際品牌在台的味蕾變革：從麥當勞玉米濃湯到「萬家福」的在地深耕.md",
@@ -1765,6 +1771,7 @@
       "Technology/台灣電動車產業鏈發展.md"
     ],
     "id": [
+      "History/黑蝙蝠中隊：暗夜裡的無名英雄與跨越海峽的孤獨航程.md",
       "Economy/台灣羊乳：從晨間鮮配箱到 GGM 認證的純山羊奶之路.md",
       "History/平埔族群：從「行政格式化」到西拉雅正名第 17 族的百年重生.md",
       "Food/國際品牌在台的味蕾變革：從麥當勞玉米濃湯到「萬家福」的在地深耕.md",
@@ -2176,6 +2183,7 @@
       "Technology/台灣音響產業發展.md"
     ],
     "pt": [
+      "History/黑蝙蝠中隊：暗夜裡的無名英雄與跨越海峽的孤獨航程.md",
       "Economy/台灣羊乳：從晨間鮮配箱到 GGM 認證的純山羊奶之路.md",
       "History/平埔族群：從「行政格式化」到西拉雅正名第 17 族的百年重生.md",
       "Food/國際品牌在台的味蕾變革：從麥當勞玉米濃湯到「萬家福」的在地深耕.md",
@@ -2279,6 +2287,7 @@
       "Geography/四四南村：兵工廠的眷村，現在是 101 旁的文創園區.md"
     ],
     "hi": [
+      "History/黑蝙蝠中隊：暗夜裡的無名英雄與跨越海峽的孤獨航程.md",
       "Economy/台灣羊乳：從晨間鮮配箱到 GGM 認證的純山羊奶之路.md",
       "History/平埔族群：從「行政格式化」到西拉雅正名第 17 族的百年重生.md",
       "Food/國際品牌在台的味蕾變革：從麥當勞玉米濃湯到「萬家福」的在地深耕.md",
@@ -2585,6 +2594,7 @@
       "Technology/台灣音響產業發展.md"
     ],
     "ar": [
+      "History/黑蝙蝠中隊：暗夜裡的無名英雄與跨越海峽的孤獨航程.md",
       "Economy/台灣羊乳：從晨間鮮配箱到 GGM 認證的純山羊奶之路.md",
       "History/平埔族群：從「行政格式化」到西拉雅正名第 17 族的百年重生.md",
       "Food/國際品牌在台的味蕾變革：從麥當勞玉米濃湯到「萬家福」的在地深耕.md",
@@ -2817,6 +2827,7 @@
       "Politics/直轄市山地原住民區長：2014 升格修法保留的民選自治職位.md"
     ],
     "ru": [
+      "History/黑蝙蝠中隊：暗夜裡的無名英雄與跨越海峽的孤獨航程.md",
       "Economy/台灣羊乳：從晨間鮮配箱到 GGM 認證的純山羊奶之路.md",
       "History/平埔族群：從「行政格式化」到西拉雅正名第 17 族的百年重生.md",
       "Food/國際品牌在台的味蕾變革：從麥當勞玉米濃湯到「萬家福」的在地深耕.md",
