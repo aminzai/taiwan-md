@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-08-03
-last_session: '2026-08-03-221718-manual（黃崇仁 Fresh 全編排上線＋三條 DNA 進化）'
+last_updated: 2026-08-04
+last_session: '2026-08-04-004923-spore-publish-165（黃崇仁孢子雙平台 ship＋孢子產線歐化閘）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -328,3 +328,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-03 | 093300-twmd-flywheel-watch | 飛輪綠燈（24hr 17 commit／8 條 routine 全留痕），唯一靜默的是本 routine 自己——昨天收官停在本機沒推上 origin；順手清掉 handoff 三天的第一把尺前綴缺口 | commit 不等於留痕；只讀 origin 的儀器要求收官也要抵達 origin | [→](memory/2026-08-03-093300-twmd-flywheel-watch.md) |
 | 2026-08-03 | 221718-manual | 黃崇仁 Fresh 全編排上線；哲宇四輪 callout 長出 EDITORIAL 兩規則＋backstage 偵測器；撞 PR #1288 取 canonical | 每句單獨看都過關的最難抓：四輪 callout 零事實錯誤，全是「這句在跟誰說話」 | [→](memory/2026-08-03-221718-manual.md) |
 | 2026-08-03 | 235302-backstage-round2 | 後台洩漏 round 2：13 段殘留聚七家族，EDITORIAL v6.16 八形狀＋儀器四組＋黃崇仁 16 處清修上線；頭銜考證三輪收斂成查證層級表 | 尺只量得到被 callout 照亮的形狀；查證內容的預設位置不在讀者眼前 | [→](memory/2026-08-03-235302-backstage-round2.md) |
+| 2026-08-04 | 004923-spore-publish-165 | 黃崇仁 #165/#166 v8 雙平台 ship；孢子產線補歐化閘（plugin Wave 3＋自我豁免禁令 vc=2） | 儀器早就抓得到那句，產線沒接還讓我現場發明豁免 | [→](memory/2026-08-04-004923-spore-publish-165.md) |
