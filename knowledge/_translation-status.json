@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T05:45:38+08:00",
-    "zhCommitHead": "27b066ace",
+    "lastUpdated": "2026-08-04T05:48:11+08:00",
+    "zhCommitHead": "6be9266a1",
     "totalZh": 879,
     "activeLanguages": [
       "en",
@@ -67,18 +67,18 @@
       },
       "id": {
         "total_zh": 879,
-        "fresh": 497,
+        "fresh": 498,
         "stale": 3,
         "metadata_stale": 1,
-        "missing": 378,
+        "missing": 377,
         "orphan": 0
       },
       "pt": {
         "total_zh": 879,
-        "fresh": 810,
+        "fresh": 811,
         "stale": 7,
         "metadata_stale": 0,
-        "missing": 62,
+        "missing": 61,
         "orphan": 0
       },
       "hi": {
@@ -21292,8 +21292,8 @@
           "sourceContentHash": "sha256:575572d1dd581d19",
           "sourceBodyHash": "sha256:d37164a7592bd08a",
           "translatedAt": "2026-08-03T21:46:28+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "6be9266a",
+          "translationLastModified": "2026-08-04T05:45:38+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -44692,7 +44692,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/taiwan-zoos.md",
+          "translatedFrom": "Society/台灣有哪些動物園.md",
+          "sourceCommitSha": "287389ecc",
+          "sourceContentHash": "sha256:39eab6090a3c571e",
+          "sourceBodyHash": "sha256:831b02af043591c7",
+          "translatedAt": "2026-08-03T21:46:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -63039,7 +63050,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/fang-yi-sheu-body-storyteller.md",
+          "translatedFrom": "People/許芳宜.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:a31b5339a894147e",
+          "sourceBodyHash": "sha256:e2e71f85bef4ed48",
+          "translatedAt": "2026-08-03T21:46:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/fang-yi-sheu-body-storyteller.md",
@@ -84308,8 +84330,8 @@
           "sourceContentHash": "sha256:b5ded8b5494f423c",
           "sourceBodyHash": "sha256:fb56cb60a16b87a7",
           "translatedAt": "2026-08-03T16:33:28.056903+00:00",
-          "translationLastCommit": "fd678fd2",
-          "translationLastModified": "2026-07-25T10:32:02+08:00",
+          "translationLastCommit": "6be9266a",
+          "translationLastModified": "2026-08-04T05:45:38+08:00",
           "inferred": false,
           "footnoteDefs": 71,
           "status": "fresh",
@@ -105465,8 +105487,8 @@
           "sourceContentHash": "sha256:3b733793cef0fe14",
           "sourceBodyHash": "sha256:e6a1e14a24970623",
           "translatedAt": "2026-08-03T21:46:28+08:00",
-          "translationLastCommit": "19e5cf0e",
-          "translationLastModified": "2026-07-16T16:39:06+08:00",
+          "translationLastCommit": "6be9266a",
+          "translationLastModified": "2026-08-04T05:45:38+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
