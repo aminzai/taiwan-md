@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-03T11:31:24+08:00",
-    "zhCommitHead": "0e6ee12d5",
+    "lastUpdated": "2026-08-03T11:44:02+08:00",
+    "zhCommitHead": "ec31f5d98",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 877,
-        "fresh": 482,
+        "fresh": 483,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 393,
+        "missing": 392,
         "orphan": 0
       },
       "pt": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 717,
+        "fresh": 718,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 160,
+        "missing": 159,
         "orphan": 0
       }
     },
@@ -2024,8 +2024,8 @@
           "sourceContentHash": "sha256:63a03cba4dec8d7b",
           "sourceBodyHash": "sha256:709d0c8ef67f0111",
           "translatedAt": "2026-08-03T03:16:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ec31f5d9",
+          "translationLastModified": "2026-08-03T11:31:25+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -25748,8 +25748,8 @@
           "sourceContentHash": "sha256:8e3303199d60c0c9",
           "sourceBodyHash": "sha256:83f9f1bad3cb5feb",
           "translatedAt": "2026-08-03T03:16:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ec31f5d9",
+          "translationLastModified": "2026-08-03T11:31:25+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -27955,7 +27955,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Art/taiwanese-art-education-and-academic-development.md",
+          "translatedFrom": "Art/台灣藝術教育與學院發展.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:352ce3febb583c17",
+          "sourceBodyHash": "sha256:aaeb81e5f1416586",
+          "translatedAt": "2026-08-03T03:16:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -28657,8 +28668,8 @@
           "sourceContentHash": "sha256:91ce45b4be5f77a7",
           "sourceBodyHash": "sha256:fe5beda00418f863",
           "translatedAt": "2026-08-03T03:16:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ec31f5d9",
+          "translationLastModified": "2026-08-03T11:31:25+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -109189,7 +109200,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/miaoli-county.md",
+          "translatedFrom": "Geography/苗栗縣.md",
+          "sourceCommitSha": "b457dbbb1",
+          "sourceContentHash": "sha256:0d7e5732a8513df0",
+          "sourceBodyHash": "sha256:f743a82d302f341a",
+          "translatedAt": "2026-08-03T03:16:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 36,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/miaoli-county.md",
@@ -121219,8 +121241,8 @@
           "sourceContentHash": "sha256:4f2929a499d24ac8",
           "sourceBodyHash": "sha256:87f8032127a53d42",
           "translatedAt": "2026-08-03T03:16:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ec31f5d9",
+          "translationLastModified": "2026-08-03T11:31:25+08:00",
           "inferred": false,
           "footnoteDefs": 2,
           "status": "fresh",
