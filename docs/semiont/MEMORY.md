@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-04
-last_session: '2026-08-04-053742-twmd-routine-sync（三層對賬第十輪，17 條全 in-sync 零漂移）'
+last_session: '2026-08-04-061404-twmd-data-refresh-am（14 步全綠零 stale，免疫評分 60→57 首次鬆動）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -332,3 +332,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-04 | 022609-build-speed | build/CI 第二輪：健檢三掃合一＋sync 批次＋node_modules cache 上線，build job -107s；blobless 隱性稅偵破、ARM 誤退同日平反 | 雙變因同 run 上線，慢的帳會記到顯眼的那個頭上；對照樣本比直覺可靠 | [→](memory/2026-08-04-022609-build-speed.md) |
 | 2026-08-04 | 053447-twmd-embeddings-nightly | 12 語 8865 向量 0 fail，較昨夜 +169；11/12 語言檔案實質變動（僅 vi 持平），ar/ru/id/pt/hi 五語持續爬升期 | 淨增分佈不均是批次翻譯進行中的正常反映，非異常訊號 | [→](memory/2026-08-04-053447-twmd-embeddings-nightly.md) |
 | 2026-08-04 | 053742-twmd-routine-sync | 三層對賬第十輪，17 條全 in-sync 零漂移；7/29 修好的 babel-nightly drift 連六天沒復發 | 十輪一次真實漂移一次命中，累積兩位數輪次後該找 self-evolve 抽查真實 catch rate | [→](memory/2026-08-04-053742-twmd-routine-sync.md) |
+| 2026-08-04 | 061404-twmd-data-refresh-am | 14 步全綠零 stale，第七個連續全綠早晨；免疫評分 60→57，pipeline 自標「多維度退化中」 | 慢性靜止的黃燈開始移動時，訊號性質變了，該轉交診斷型 routine 判讀 | [→](memory/2026-08-04-061404-twmd-data-refresh-am.md) |
