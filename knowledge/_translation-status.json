@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T05:11:31+08:00",
-    "zhCommitHead": "f7531ad3a",
+    "lastUpdated": "2026-08-04T05:45:38+08:00",
+    "zhCommitHead": "27b066ace",
     "totalZh": 879,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 879,
-        "fresh": 847,
-        "stale": 16,
+        "fresh": 848,
+        "stale": 15,
         "metadata_stale": 3,
         "missing": 13,
         "orphan": 0
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 879,
-        "fresh": 495,
+        "fresh": 497,
         "stale": 3,
         "metadata_stale": 1,
-        "missing": 380,
+        "missing": 378,
         "orphan": 0
       },
       "pt": {
@@ -83,26 +83,26 @@
       },
       "hi": {
         "total_zh": 879,
-        "fresh": 608,
+        "fresh": 610,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 269,
+        "missing": 267,
         "orphan": 0
       },
       "ar": {
         "total_zh": 879,
-        "fresh": 705,
+        "fresh": 706,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 173,
+        "missing": 172,
         "orphan": 0
       },
       "ru": {
         "total_zh": 879,
-        "fresh": 722,
+        "fresh": 723,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 155,
+        "missing": 154,
         "orphan": 0
       }
     },
@@ -3812,8 +3812,8 @@
           "sourceContentHash": "sha256:c9aa499e9c84c71a",
           "sourceBodyHash": "sha256:b2e261c439c4d6f4",
           "translatedAt": "2026-08-03T21:46:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b889997c",
+          "translationLastModified": "2026-08-04T05:11:32+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -10255,7 +10255,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/formosa-plastics-group.md",
+          "translatedFrom": "Economy/台灣企業：台塑集團.md",
+          "sourceCommitSha": "24efd20f3",
+          "sourceContentHash": "sha256:22918913142424fa",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-03T21:12:04.098643+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/formosa-plastics-group.md",
@@ -23537,8 +23548,8 @@
           "sourceContentHash": "sha256:073fd0e58756d2a3",
           "sourceBodyHash": "sha256:2c9c292fec3fdb34",
           "translatedAt": "2026-08-03T21:46:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b889997c",
+          "translationLastModified": "2026-08-04T05:11:32+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -48241,7 +48252,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/About/seeing-taiwan-quotes.md",
+          "translatedFrom": "About/看見台灣引言集.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:4cbaa3c9a8d422dd",
+          "sourceBodyHash": "sha256:0d8842cfba541dc2",
+          "translatedAt": "2026-08-03T21:46:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/About/seeing-taiwan-quotes.md",
@@ -48258,7 +48280,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/About/seeing-taiwan-quotes.md",
+          "translatedFrom": "About/看見台灣引言集.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:4cbaa3c9a8d422dd",
+          "sourceBodyHash": "sha256:0d8842cfba541dc2",
+          "translatedAt": "2026-08-03T21:46:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/About/seeing-taiwan-quotes.md",
@@ -56023,7 +56056,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/chen-chien-jen.md",
+          "translatedFrom": "People/陳建仁.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:436d6f6b6586a312",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-03T21:07:30.871070+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/chen-chien-jen.md",
@@ -56040,7 +56084,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/chen-chien-jen.md",
+          "translatedFrom": "People/陳建仁.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:3e3c722e9fbee583",
+          "sourceBodyHash": "sha256:cd353841feafe555",
+          "translatedAt": "2026-08-03T21:46:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/chen-chien-jen.md",
@@ -58744,7 +58799,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/chiang-kai-shek.md",
+          "translatedFrom": "People/蔣中正.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ad64f216ed170575",
+          "sourceBodyHash": "sha256:447dc5d1bea38591",
+          "translatedAt": "2026-08-03T21:46:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 15,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -61945,8 +62011,8 @@
           "sourceContentHash": "sha256:62dd044f9d1285a1",
           "sourceBodyHash": "sha256:b39a89251e94292a",
           "translatedAt": "2026-08-03T21:46:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "b889997c",
+          "translationLastModified": "2026-08-04T05:11:32+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -105395,18 +105461,16 @@
         "ja": {
           "path": "ja/History/prehistoric-era-and-indigenous-peoples.md",
           "translatedFrom": "History/史前時代與原住民.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:4a4d8e8b71bb4388",
-          "sourceBodyHash": "sha256:518e01925b760cf5",
-          "translatedAt": "2026-05-22T05:08:46+08:00",
+          "sourceCommitSha": "a1eb11f45",
+          "sourceContentHash": "sha256:3b733793cef0fe14",
+          "sourceBodyHash": "sha256:e6a1e14a24970623",
+          "translatedAt": "2026-08-03T21:46:28+08:00",
           "translationLastCommit": "19e5cf0e",
           "translationLastModified": "2026-07-16T16:39:06+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+5 -3"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/History/prehistoric-era-and-indigenous-peoples.md",
