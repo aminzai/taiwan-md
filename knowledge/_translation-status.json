@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T00:05:57+08:00",
-    "zhCommitHead": "a42562712",
+    "lastUpdated": "2026-08-04T00:25:44+08:00",
+    "zhCommitHead": "5e9866a10",
     "totalZh": 879,
     "activeLanguages": [
       "en",
@@ -19,9 +19,9 @@
     "summary": {
       "en": {
         "total_zh": 879,
-        "fresh": 836,
+        "fresh": 837,
         "stale": 24,
-        "metadata_stale": 3,
+        "metadata_stale": 2,
         "missing": 16,
         "orphan": 0
       },
@@ -91,8 +91,8 @@
       },
       "ar": {
         "total_zh": 879,
-        "fresh": 695,
-        "stale": 2,
+        "fresh": 696,
+        "stale": 1,
         "metadata_stale": 1,
         "missing": 181,
         "orphan": 0
@@ -13345,18 +13345,16 @@
         "en": {
           "path": "en/Economy/tsmc.md",
           "translatedFrom": "Economy/台灣企業：台積電.md",
-          "sourceCommitSha": "bb3e6a0b",
-          "sourceContentHash": "sha256:aa38ca96cac05f3e",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:e8afc225ea9e0107",
           "sourceBodyHash": "sha256:6bdb1c40d1477a30",
-          "translatedAt": "2026-06-16T16:59:03Z",
+          "translatedAt": "2026-08-04T00:06:11+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/tsmc.md",
@@ -21376,18 +21374,16 @@
         "ar": {
           "path": "ar/Technology/taiwan-semiconductor-industry.md",
           "translatedFrom": "Technology/半導體產業.md",
-          "sourceCommitSha": "c85a9b6f7",
-          "sourceContentHash": "sha256:b496186c7d76e85e",
-          "sourceBodyHash": "sha256:3bf42ee02082c616",
-          "translatedAt": "2026-07-27T09:40:33+08:00",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:575572d1dd581d19",
+          "sourceBodyHash": "sha256:d37164a7592bd08a",
+          "translatedAt": "2026-08-03T16:25:36.555737+00:00",
           "translationLastCommit": "9589c25e",
           "translationLastModified": "2026-07-27T19:06:56+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/taiwan-semiconductor-industry.md",
@@ -84025,8 +84021,8 @@
           "sourceContentHash": "sha256:b5ded8b5494f423c",
           "sourceBodyHash": "sha256:fb56cb60a16b87a7",
           "translatedAt": "2026-08-03T16:01:19.038896+00:00",
-          "translationLastCommit": "15073a21",
-          "translationLastModified": "2026-07-30T23:35:43+08:00",
+          "translationLastCommit": "2f9ae460",
+          "translationLastModified": "2026-08-04T00:05:57+08:00",
           "inferred": false,
           "footnoteDefs": 71,
           "status": "fresh",
@@ -86560,10 +86556,10 @@
     },
     "People/黃崇仁.md": {
       "zh": {
-        "lastCommit": "5eb27d93",
-        "lastModified": "2026-08-03T23:37:42+08:00",
-        "contentHash": "sha256:3a1a3190191efcad",
-        "bodyHash": "sha256:7515230620019ee5"
+        "lastCommit": "5e9866a1",
+        "lastModified": "2026-08-04T00:23:30+08:00",
+        "contentHash": "sha256:a6a2dd2192af23da",
+        "bodyHash": "sha256:79acfb47eb180714"
       },
       "translations": {
         "en": {
