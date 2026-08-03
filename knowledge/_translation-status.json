@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T05:48:11+08:00",
-    "zhCommitHead": "6be9266a1",
+    "lastUpdated": "2026-08-04T06:39:11+08:00",
+    "zhCommitHead": "9c5309d5e",
     "totalZh": 879,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 879,
-        "fresh": 848,
-        "stale": 15,
+        "fresh": 849,
+        "stale": 14,
         "metadata_stale": 3,
         "missing": 13,
         "orphan": 0
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 879,
-        "fresh": 498,
+        "fresh": 500,
         "stale": 3,
         "metadata_stale": 1,
-        "missing": 377,
+        "missing": 375,
         "orphan": 0
       },
       "pt": {
@@ -83,26 +83,26 @@
       },
       "hi": {
         "total_zh": 879,
-        "fresh": 610,
+        "fresh": 612,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 267,
+        "missing": 265,
         "orphan": 0
       },
       "ar": {
         "total_zh": 879,
-        "fresh": 706,
+        "fresh": 708,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 172,
+        "missing": 170,
         "orphan": 0
       },
       "ru": {
         "total_zh": 879,
-        "fresh": 723,
+        "fresh": 725,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 154,
+        "missing": 152,
         "orphan": 0
       }
     },
@@ -18254,18 +18254,16 @@
         "ja": {
           "path": "ja/Technology/computex-taipei.md",
           "translatedFrom": "Technology/Computex.md",
-          "sourceCommitSha": "52389a7c",
-          "sourceContentHash": "sha256:c2deb4a945d2dc5b",
-          "sourceBodyHash": "sha256:a4c6e70e74235d09",
-          "translatedAt": "2026-07-01T16:45:44Z",
+          "sourceCommitSha": "46055e4f3",
+          "sourceContentHash": "sha256:5ca6801bb47a7371",
+          "sourceBodyHash": "sha256:45291b99c4801128",
+          "translatedAt": "2026-08-03T21:46:28+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 60,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+53 -53"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/computex-taipei.md",
@@ -34387,7 +34385,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/teach-for-taiwan.md",
+          "translatedFrom": "Society/為台灣而教TFT.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:c054d9746f242fef",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-03T21:54:21.374643+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -35345,8 +35354,8 @@
           "sourceContentHash": "sha256:cc5bd7cfca8af637",
           "sourceBodyHash": "sha256:073e34a439566b72",
           "translatedAt": "2026-08-03T21:46:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9cd17ec8",
+          "translationLastModified": "2026-08-04T05:48:11+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -36374,8 +36383,8 @@
           "sourceContentHash": "sha256:81628aa1fa2a0014",
           "sourceBodyHash": "sha256:004993e686695dd6",
           "translatedAt": "2026-08-03T21:46:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9cd17ec8",
+          "translationLastModified": "2026-08-04T05:48:11+08:00",
           "inferred": false,
           "footnoteDefs": 21,
           "status": "fresh",
@@ -41853,8 +41862,8 @@
           "sourceContentHash": "sha256:a399eae223d36d4d",
           "sourceBodyHash": "sha256:71fc72f8b7a7bc3d",
           "translatedAt": "2026-08-03T21:46:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9cd17ec8",
+          "translationLastModified": "2026-08-04T05:48:11+08:00",
           "inferred": false,
           "footnoteDefs": 20,
           "status": "fresh",
@@ -43849,7 +43858,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/taiwan-rural-education.md",
+          "translatedFrom": "Society/台灣偏鄉教育.md",
+          "sourceCommitSha": "4d620ce7b",
+          "sourceContentHash": "sha256:1277fc2755a587fc",
+          "sourceBodyHash": "sha256:64665163579f4d98",
+          "translatedAt": "2026-08-03T21:46:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -44698,8 +44718,8 @@
           "sourceContentHash": "sha256:39eab6090a3c571e",
           "sourceBodyHash": "sha256:831b02af043591c7",
           "translatedAt": "2026-08-03T21:46:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9cd17ec8",
+          "translationLastModified": "2026-08-04T05:48:11+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -53859,7 +53879,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Nature/palakaw.md",
+          "translatedFrom": "Nature/Palakaw.md",
+          "sourceCommitSha": "4777e2548",
+          "sourceContentHash": "sha256:76692c261ac4ee59",
+          "sourceBodyHash": "sha256:7ec5f5cc7b44e03c",
+          "translatedAt": "2026-08-03T21:46:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 17,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Nature/palakaw.md",
@@ -55783,7 +55814,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/li-ang.md",
+          "translatedFrom": "People/李昂.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:047f29e16ec14ac9",
+          "sourceBodyHash": "sha256:0a0f9bd1ab3db88b",
+          "translatedAt": "2026-08-03T21:46:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/li-ang.md",
@@ -63078,7 +63120,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/fang-yi-sheu-body-storyteller.md",
+          "translatedFrom": "People/許芳宜.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:a31b5339a894147e",
+          "sourceBodyHash": "sha256:e2e71f85bef4ed48",
+          "translatedAt": "2026-08-03T21:46:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/fang-yi-sheu-body-storyteller.md",
@@ -70879,8 +70932,8 @@
           "sourceContentHash": "sha256:42745728f5eb5c1a",
           "sourceBodyHash": "sha256:b26e0a7ce99faf37",
           "translatedAt": "2026-08-03T21:46:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9cd17ec8",
+          "translationLastModified": "2026-08-04T05:48:11+08:00",
           "inferred": false,
           "footnoteDefs": 19,
           "status": "fresh",
@@ -71673,7 +71726,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/a-mei.md",
+          "translatedFrom": "People/張惠妹.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:aebfe56ef8181ee0",
+          "sourceBodyHash": "sha256:2548692a01191648",
+          "translatedAt": "2026-08-04T06:18:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/a-mei.md",
@@ -79381,7 +79445,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/wu-bai.md",
+          "translatedFrom": "People/伍佰.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:2dda34fc81c78056",
+          "sourceBodyHash": "sha256:fb05d9869b96635c",
+          "translatedAt": "2026-08-04T06:18:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/wu-bai.md",
@@ -79696,7 +79771,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/steve-chen-youtube-cofounder.md",
+          "translatedFrom": "People/陳士駿.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:a7528e9b7062bef0",
+          "sourceBodyHash": "sha256:9f3cbb43337753f0",
+          "translatedAt": "2026-08-04T06:18:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 13,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/steve-chen-youtube-cofounder.md",
