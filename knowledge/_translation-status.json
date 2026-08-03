@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-03T14:32:40+08:00",
-    "zhCommitHead": "0dd0c332a",
+    "lastUpdated": "2026-08-03T14:37:40+08:00",
+    "zhCommitHead": "eb53a40e2",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 692,
+        "fresh": 693,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 185,
+        "missing": 184,
         "orphan": 0
       },
       "ru": {
@@ -27959,8 +27959,8 @@
           "sourceContentHash": "sha256:352ce3febb583c17",
           "sourceBodyHash": "sha256:aaeb81e5f1416586",
           "translatedAt": "2026-08-03T03:16:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "eb53a40e",
+          "translationLastModified": "2026-08-03T14:32:40+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -50538,8 +50538,8 @@
           "sourceContentHash": "sha256:e78dcb70dc9e1c6f",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-03T06:23:47.030694+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "eb53a40e",
+          "translationLastModified": "2026-08-03T14:32:40+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -68733,7 +68733,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/li-guoxiu.md",
+          "translatedFrom": "People/李國修.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:11b55d270abdf3d3",
+          "sourceBodyHash": "sha256:7ab58584d6fb7af7",
+          "translatedAt": "2026-08-03T03:16:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/li-guoxiu.md",
@@ -100271,8 +100282,8 @@
           "sourceContentHash": "sha256:dd0456fc58fe6d55",
           "sourceBodyHash": "sha256:f4c2468d7055a6c1",
           "translatedAt": "2026-08-03T03:16:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "eb53a40e",
+          "translationLastModified": "2026-08-03T14:32:40+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
