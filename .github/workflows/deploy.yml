@@ -24,14 +24,15 @@ jobs:
     # 在隨機步驟（apt read 53s / sync 3min / build render）SIGTERM(143) 反覆 reclaim，
     # 無競爭 push、本地 build exit 0、GitHub Status 全綠 = ARM runner pool 不穩。
     # 切 x86 ubuntu-latest（deploy job 本來就用）避開該 pool。穩定後可評估切回 arm。
-    # 2026-08-04 build-speed 第二波重試 ARM，兩個 run 後回退（本行同日）。
-    # 實測（run 30837863659 / 30838714371）：astro 靜態生成穩定 177→160s（Node
-    # 真的快 ~10%），但 prebuild 從 x86 的 52s 掉到 84s／122s——run-p 並發下
-    # python 工具群（健檢 sweep / immune / forks / china-terms…）在 ARM 明顯慢
-    # 且變異大，把 astro 省的全數吃回。這個 workload 是 python-heavy prebuild，
-    # 跟 6/01 的 pool 不穩是兩回事：不是掛，是不划算。除非 prebuild python 面
-    # 大幅縮減，不要再試 ARM；數據見 reports/design-build-cicd-speed-2026-08-04.md §後記。
-    runs-on: ubuntu-latest
+    # 2026-08-04 build-speed 第二波 ARM 歷程（完整記下，防未來誤讀）：
+    # 重試 ARM → 兩個 run 後誤回退 → 同日歸因更正後恢復。當時把 prebuild 從
+    # 52s 掉到 84/122s 歸給「ARM python 慢」，但 x86+blobless 的 run 30839467957
+    # 同樣 81s——真兇是 blobless 下 status.py 的 per-stale git diff 逐 blob 網路
+    # lazy fetch（已用 LANG_SYNC_SKIP_DIFFSTAT 修掉），不是 ARM。ARM 的真實帳：
+    # astro 177→160s、Upload 74→59s，皆穩定重現，淨賺 ~30s。
+    # 觀察條款照舊：出現 6/01 型 SIGTERM(143) reclaim 即 hotfix 切回 ubuntu-latest。
+    # 數據鏈：reports/design-build-cicd-speed-2026-08-04.md §後記。
+    runs-on: ubuntu-24.04-arm
     # 2026-04-22 β post-mortem: run 24782448133 `npx playwright install --with-deps`
     # silent hang 6 小時才被 default 360 min timeout 殺掉。加上限避免重演。
     # 2026-05-02 γ: 35 → 60 — article volume grew (641 zh × 6 langs ≈ 3800 pages)
@@ -228,6 +229,10 @@ jobs:
         # falls back to 'github-only' (static GitHub-issue button), so the build is
         # safe before Supabase is provisioned. Set these as repo Variables to go live.
         env:
+          # blobless clone 適配（2026-08-04）：status.py 的 per-stale diffSummary
+          # 會逐 blob lazy fetch（上千次網路往返），CI 上跳過——判定不靠它，
+          # dashboard 也不吃它。詳見 status.py git_diff_summary docstring。
+          LANG_SYNC_SKIP_DIFFSTAT: '1'
           PUBLIC_FEEDBACK_MODE: ${{ vars.PUBLIC_FEEDBACK_MODE }}
           PUBLIC_SUPABASE_URL: ${{ vars.PUBLIC_SUPABASE_URL }}
           PUBLIC_SUPABASE_ANON_KEY: ${{ vars.PUBLIC_SUPABASE_ANON_KEY }}
