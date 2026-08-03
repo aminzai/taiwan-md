@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-03
-last_session: '2026-08-03-070844-twmd-feedback-triage（隊列空，archive 掃描 40 檔零新同步）'
+last_session: '2026-08-03-084052-twmd-maintainer-daily（merge-first-heal #1288 黃崇仁，抓到 2 處杜撰引語 + 1 處日期誤植 + 1 條死鏈腳註）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -323,3 +323,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-03 | 061520-twmd-data-refresh-am | 14 步全綠零 stale，第六個連續全綠早晨；fork-census 抓到 3 個新子代 sighting；免疫黃燈 60 持續未變 | 持久最差的黃燈已有 OBSERVER-QUEUE 條目在追蹤，本次確認在場不重複催促 | [→](memory/2026-08-03-061520-twmd-data-refresh-am.md) |
 | 2026-08-03 | 064000-twmd-spore-harvest-am | 2 spores harvest 零新勘誤（苯駢芘 D+7 終點站續平 1707/5009 views）；鎢供應鏈已老出窗口不再收，OVERDUE 2→0 | 連續多輪讀者迴聲持平本身是訊號，不是遺漏；沒有基線就分不出「沒事」跟「漏抓」 | [→](memory/2026-08-03-064000-twmd-spore-harvest-am.md) |
 | 2026-08-03 | 070844-twmd-feedback-triage | 隊列空零新回報；archive 掃描 40 檔連續第三天同一批，零新留言同步，本 session 零 commit | 連續空轉兩天仍照實記錄，才有基線分辨「這條 routine 平常就這麼安靜」跟「哪天真的壞了」 | [→](memory/2026-08-03-070844-twmd-feedback-triage.md) |
+| 2026-08-03 | 084052-twmd-maintainer-daily | merge-first-heal PR #1288 黃崇仁；footnote 抽驗抓到 2 處杜撰引語（紅旗10型）+ 1 處日期誤植 + 1 條死鏈腳註，5 issue 全無新 follow-up | 直接引語比周邊事實更脆弱：死訊/債務/公司歷史都對得上時仍要優先逐字核對「」內文字的來源 | [→](memory/2026-08-03-084052-twmd-maintainer-daily.md) |
