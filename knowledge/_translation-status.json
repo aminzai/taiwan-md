@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-03T07:40:02+08:00",
-    "zhCommitHead": "6b0f7e03c",
+    "lastUpdated": "2026-08-03T08:40:15+08:00",
+    "zhCommitHead": "78c464da8",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 877,
-        "fresh": 847,
-        "stale": 18,
+        "fresh": 848,
+        "stale": 17,
         "metadata_stale": 1,
         "missing": 11,
         "orphan": 0
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 877,
-        "fresh": 480,
+        "fresh": 481,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 395,
+        "missing": 394,
         "orphan": 0
       },
       "pt": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 715,
+        "fresh": 716,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 162,
+        "missing": 161,
         "orphan": 0
       }
     },
@@ -3205,8 +3205,8 @@
           "sourceContentHash": "sha256:58c8ce273dc99c8c",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-02T19:25:09.479991+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fad84a71",
+          "translationLastModified": "2026-08-03T07:40:03+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -23393,8 +23393,8 @@
           "sourceContentHash": "sha256:deb45d14fe865dc0",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-02T19:24:36.232297+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fad84a71",
+          "translationLastModified": "2026-08-03T07:40:03+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -28206,7 +28206,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Art/wang-hsin-jen-artist.md",
+          "translatedFrom": "Art/王新仁.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:25ec392b5ce7e019",
+          "sourceBodyHash": "sha256:e40b70041a0b9945",
+          "translatedAt": "2026-08-03T03:16:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -37374,7 +37385,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Society/the-reporter-investigative-journalism.md",
+          "translatedFrom": "Society/報導者.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:46044d1881e9332e",
+          "sourceBodyHash": "sha256:ca526dda99de158c",
+          "translatedAt": "2026-08-03T03:16:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 60,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/the-reporter-investigative-journalism.md",
@@ -39413,8 +39435,8 @@
           "sourceContentHash": "sha256:76b291d1998c59bc",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-02T23:09:51.693000+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fad84a71",
+          "translationLastModified": "2026-08-03T07:40:03+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -61779,8 +61801,8 @@
           "sourceContentHash": "sha256:27b9c46e9dd00321",
           "sourceBodyHash": "sha256:bfc5f694a6aa2127",
           "translatedAt": "2026-08-03T03:16:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "fad84a71",
+          "translationLastModified": "2026-08-03T07:40:03+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -88013,18 +88035,16 @@
         "ja": {
           "path": "ja/People/ang-lee.md",
           "translatedFrom": "People/李安.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:5e0878a68a9e472e",
-          "sourceBodyHash": "sha256:b22fe95649d7be32",
-          "translatedAt": "2026-06-16T17:05:15Z",
+          "sourceCommitSha": "09c1bf1a9",
+          "sourceContentHash": "sha256:270ebb8ad85e9750",
+          "sourceBodyHash": "sha256:1c12395477bc0a4e",
+          "translatedAt": "2026-08-03T03:16:06+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 50,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/ang-lee.md",
