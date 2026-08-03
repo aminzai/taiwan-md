@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T03:37:20+08:00",
-    "zhCommitHead": "710d96191",
+    "lastUpdated": "2026-08-04T03:42:34+08:00",
+    "zhCommitHead": "ac26a2561",
     "totalZh": 879,
     "activeLanguages": [
       "en",
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 879,
-        "fresh": 490,
+        "fresh": 491,
         "stale": 3,
         "metadata_stale": 1,
-        "missing": 385,
+        "missing": 384,
         "orphan": 0
       },
       "pt": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 879,
-        "fresh": 720,
+        "fresh": 721,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 157,
+        "missing": 156,
         "orphan": 0
       }
     },
@@ -13475,8 +13475,8 @@
           "sourceContentHash": "sha256:e8afc225ea9e0107",
           "sourceBodyHash": "sha256:6bdb1c40d1477a30",
           "translatedAt": "2026-08-03T21:46:30+08:00",
-          "translationLastCommit": "beb66999",
-          "translationLastModified": "2026-07-27T19:05:03+08:00",
+          "translationLastCommit": "ac26a256",
+          "translationLastModified": "2026-08-04T03:37:21+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -24426,7 +24426,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Art/no-mans-land-art-platform.md",
+          "translatedFrom": "Art/數位荒原.md",
+          "sourceCommitSha": "a74c440b3",
+          "sourceContentHash": "sha256:f8ec8d5fb97942ca",
+          "sourceBodyHash": "sha256:7bfa784449cb0cb6",
+          "translatedAt": "2026-08-03T21:46:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 26,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -43452,8 +43463,8 @@
           "sourceContentHash": "sha256:177fea3750c80f10",
           "sourceBodyHash": "sha256:dab437d622fd59b0",
           "translatedAt": "2026-08-03T21:46:30+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "ac26a256",
+          "translationLastModified": "2026-08-04T03:37:21+08:00",
           "inferred": false,
           "footnoteDefs": 38,
           "status": "fresh",
@@ -66522,7 +66533,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/mark-liu.md",
+          "translatedFrom": "People/劉德音.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:5e90feeafc19360c",
+          "sourceBodyHash": "sha256:81e4bcfc4e50e127",
+          "translatedAt": "2026-08-03T21:46:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 10,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/mark-liu.md",
@@ -70220,8 +70242,8 @@
           "sourceContentHash": "sha256:14127c407e7b0db7",
           "sourceBodyHash": "sha256:6d452360d79fae70",
           "translatedAt": "2026-08-03T21:46:30+08:00",
-          "translationLastCommit": "f8fe84f7",
-          "translationLastModified": "2026-07-28T09:37:35+08:00",
+          "translationLastCommit": "ac26a256",
+          "translationLastModified": "2026-08-04T03:37:21+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
