@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T06:55:07+08:00",
-    "zhCommitHead": "7ffe4832b",
+    "lastUpdated": "2026-08-04T07:07:01+08:00",
+    "zhCommitHead": "759e44a2c",
     "totalZh": 879,
     "activeLanguages": [
       "en",
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 879,
-        "fresh": 502,
+        "fresh": 503,
         "stale": 3,
         "metadata_stale": 1,
-        "missing": 373,
+        "missing": 372,
         "orphan": 0
       },
       "pt": {
@@ -83,26 +83,26 @@
       },
       "hi": {
         "total_zh": 879,
-        "fresh": 612,
+        "fresh": 613,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 265,
+        "missing": 264,
         "orphan": 0
       },
       "ar": {
         "total_zh": 879,
-        "fresh": 708,
+        "fresh": 709,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 170,
+        "missing": 169,
         "orphan": 0
       },
       "ru": {
         "total_zh": 879,
-        "fresh": 726,
+        "fresh": 727,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 151,
+        "missing": 150,
         "orphan": 0
       }
     },
@@ -44623,7 +44623,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/complex-life-festival.md",
+          "translatedFrom": "Society/複雜生活節.md",
+          "sourceCommitSha": "dd82dc4a6",
+          "sourceContentHash": "sha256:288b132714804aff",
+          "sourceBodyHash": "sha256:f51e2d5a46bf8d87",
+          "translatedAt": "2026-08-04T06:18:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 36,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -48289,8 +48300,8 @@
           "sourceContentHash": "sha256:4cbaa3c9a8d422dd",
           "sourceBodyHash": "sha256:0d8842cfba541dc2",
           "translatedAt": "2026-08-03T21:46:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "784e0c18",
+          "translationLastModified": "2026-08-04T06:55:08+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -55820,8 +55831,8 @@
           "sourceContentHash": "sha256:047f29e16ec14ac9",
           "sourceBodyHash": "sha256:0a0f9bd1ab3db88b",
           "translatedAt": "2026-08-03T21:46:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "784e0c18",
+          "translationLastModified": "2026-08-04T06:55:08+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -56115,8 +56126,8 @@
           "sourceContentHash": "sha256:436d6f6b6586a312",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-03T21:07:30.871070+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "784e0c18",
+          "translationLastModified": "2026-08-04T06:55:08+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -63098,8 +63109,8 @@
           "sourceContentHash": "sha256:a31b5339a894147e",
           "sourceBodyHash": "sha256:e2e71f85bef4ed48",
           "translatedAt": "2026-08-03T21:46:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "784e0c18",
+          "translationLastModified": "2026-08-04T06:55:08+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -75358,7 +75369,18 @@
           "reason": "same-commit"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/jj-lin-singaporean-mandopop-king.md",
+          "translatedFrom": "People/林俊傑.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:c3bf4aab8b8bdebc",
+          "sourceBodyHash": "sha256:e9ed087ab11c2ccb",
+          "translatedAt": "2026-08-04T06:18:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/jj-lin-singaporean-mandopop-king.md",
@@ -79451,8 +79473,8 @@
           "sourceContentHash": "sha256:2dda34fc81c78056",
           "sourceBodyHash": "sha256:fb05d9869b96635c",
           "translatedAt": "2026-08-04T06:18:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "784e0c18",
+          "translationLastModified": "2026-08-04T06:55:08+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -79473,7 +79495,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/wu-bai.md",
+          "translatedFrom": "People/伍佰.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:71bb6dc9665fc922",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-03T23:02:21.539863+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/wu-bai.md",
@@ -81955,8 +81988,8 @@
           "sourceContentHash": "sha256:3d7fccce1bbb6e47",
           "sourceBodyHash": "sha256:501cc28a481912c5",
           "translatedAt": "2026-08-04T06:18:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "784e0c18",
+          "translationLastModified": "2026-08-04T06:55:08+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -82297,7 +82330,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/vh-band.md",
+          "translatedFrom": "People/VH.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:12627c86b39f3cf2",
+          "sourceBodyHash": "sha256:cac852a1ab84bcac",
+          "translatedAt": "2026-08-04T06:18:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/vh-band.md",
@@ -84641,8 +84685,8 @@
           "sourceContentHash": "sha256:ea84edf10c10d1a4",
           "sourceBodyHash": "sha256:54cafe2c5032e30e",
           "translatedAt": "2026-08-04T06:18:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "784e0c18",
+          "translationLastModified": "2026-08-04T06:55:08+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
