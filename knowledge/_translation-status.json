@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-03T08:40:15+08:00",
-    "zhCommitHead": "78c464da8",
+    "lastUpdated": "2026-08-03T10:32:59+08:00",
+    "zhCommitHead": "315afe703",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 877,
-        "fresh": 481,
+        "fresh": 482,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 394,
+        "missing": 393,
         "orphan": 0
       },
       "pt": {
@@ -83,26 +83,26 @@
       },
       "hi": {
         "total_zh": 877,
-        "fresh": 597,
+        "fresh": 598,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 280,
+        "missing": 279,
         "orphan": 0
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 687,
+        "fresh": 690,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 190,
+        "missing": 187,
         "orphan": 0
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 716,
+        "fresh": 717,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 161,
+        "missing": 160,
         "orphan": 0
       }
     },
@@ -2018,7 +2018,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Music/contemporary-indigenous-singer-songwriters.md",
+          "translatedFrom": "Music/當代原住民創作歌手.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:63a03cba4dec8d7b",
+          "sourceBodyHash": "sha256:709d0c8ef67f0111",
+          "translatedAt": "2026-08-03T03:16:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Music/contemporary-indigenous-singer-songwriters.md",
@@ -15824,8 +15835,8 @@
           "sourceContentHash": "sha256:7923803a611ee1da",
           "sourceBodyHash": "sha256:ac277cd39572ac41",
           "translatedAt": "2026-08-03T03:16:06+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "1b6b0cc2",
+          "translationLastModified": "2026-08-03T08:40:15+08:00",
           "inferred": false,
           "footnoteDefs": 53,
           "status": "fresh",
@@ -25731,7 +25742,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Art/contemporary-indigenous-art-taiwan.md",
+          "translatedFrom": "Art/台灣原住民當代藝術.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:8e3303199d60c0c9",
+          "sourceBodyHash": "sha256:83f9f1bad3cb5feb",
+          "translatedAt": "2026-08-03T03:16:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -28629,7 +28651,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Art/development-of-contemporary-taiwanese-sculpture.md",
+          "translatedFrom": "Art/台灣當代雕塑發展.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:91ce45b4be5f77a7",
+          "sourceBodyHash": "sha256:fe5beda00418f863",
+          "translatedAt": "2026-08-03T03:16:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/development-of-contemporary-taiwanese-sculpture.md",
@@ -29233,7 +29266,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Lifestyle/mtv-rooms-taiwan.md",
+          "translatedFrom": "Lifestyle/MTV包廂.md",
+          "sourceCommitSha": "9b5cb286e",
+          "sourceContentHash": "sha256:8c1e84b77bb235ea",
+          "sourceBodyHash": "sha256:96b8f13a864b5e24",
+          "translatedAt": "2026-08-03T03:16:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -39457,7 +39501,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Society/public-housing-justice.md",
+          "translatedFrom": "Society/國宅與居住正義.md",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:76b291d1998c59bc",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-03T00:36:20.294042+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 27,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -88039,8 +88094,8 @@
           "sourceContentHash": "sha256:270ebb8ad85e9750",
           "sourceBodyHash": "sha256:1c12395477bc0a4e",
           "translatedAt": "2026-08-03T03:16:06+08:00",
-          "translationLastCommit": "caa10522",
-          "translationLastModified": "2026-07-27T18:58:03+08:00",
+          "translationLastCommit": "1b6b0cc2",
+          "translationLastModified": "2026-08-03T08:40:15+08:00",
           "inferred": false,
           "footnoteDefs": 50,
           "status": "fresh",
@@ -112126,7 +112181,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/yunlin-county.md",
+          "translatedFrom": "Geography/雲林縣.md",
+          "sourceCommitSha": "036da279d",
+          "sourceContentHash": "sha256:68dcc74d52d8c737",
+          "sourceBodyHash": "sha256:24b0d8d16f592539",
+          "translatedAt": "2026-08-03T03:16:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 29,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/yunlin-county.md",
