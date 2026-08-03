@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-04
-last_session: '2026-08-04-064141-twmd-spore-harvest-am（黃崇仁 2 孢子 D+0 harvest，2 則讀者框架質疑寫入 HARVEST-FRAMING-PENDING）'
+last_session: '2026-08-04-070729-twmd-feedback-triage（隊列空零新回報，archive 掃描 40 檔連續第四天零新同步）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -334,3 +334,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-04 | 053742-twmd-routine-sync | 三層對賬第十輪，17 條全 in-sync 零漂移；7/29 修好的 babel-nightly drift 連六天沒復發 | 十輪一次真實漂移一次命中，累積兩位數輪次後該找 self-evolve 抽查真實 catch rate | [→](memory/2026-08-04-053742-twmd-routine-sync.md) |
 | 2026-08-04 | 061404-twmd-data-refresh-am | 14 步全綠零 stale，第七個連續全綠早晨；免疫評分 60→57，pipeline 自標「多維度退化中」 | 慢性靜止的黃燈開始移動時，訊號性質變了，該轉交診斷型 routine 判讀 | [→](memory/2026-08-04-061404-twmd-data-refresh-am.md) |
 | 2026-08-04 | 064141-twmd-spore-harvest-am | 黃崇仁 #165/#166 D+0 harvest（2932/507 views）；2 則讀者質疑「洗白」寫入 HARVEST-FRAMING-PENDING 等哲宇拍板 | 事實層完整仍被讀成洗白，是敘事篇幅分配的策展選擇被質疑，不是事實缺漏 | [→](memory/2026-08-04-064141-twmd-spore-harvest-am.md) |
+| 2026-08-04 | 070729-twmd-feedback-triage | 隊列空零新回報；archive 掃描 40 檔連續第四天同一批，零新留言同步，本 session 零 commit | 連續三天空轉仍照實記錄，才有基線分辨「這條 routine 平常就這麼安靜」跟「哪天真的壞了」 | [→](memory/2026-08-04-070729-twmd-feedback-triage.md) |
