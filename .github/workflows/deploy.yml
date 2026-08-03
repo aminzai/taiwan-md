@@ -61,8 +61,21 @@ jobs:
         uses: actions/setup-node@v5
         with:
           node-version: 22
-          cache: 'npm' # Tier 1-2: 快取 npm 下載（不是 node_modules 本體）
+          cache: 'npm' # Tier 1-2: 快取 npm 下載（cache miss 時加速 npm ci）
+      # 2026-08-04 build-speed: node_modules 整包 cache（key = lock hash）。
+      # hit 時跳過 npm ci 的 rm+解壓（實測 ~31s → 秒級 restore）。lock 一變即 miss
+      # 走原路。key 含 runner.arch — x64/arm64 的 native binary（sharp/esbuild）
+      # 不可混用（2026-06-01 Playwright cache 少 arch 的同型教訓）。
+      # 注意：hit 時 postinstall（sync.sh）與 husky prepare 不會跑 — prebuild:sync
+      # 是 build 鏈第一步本來就會跑，CI 不需要 husky。
+      - name: Restore node_modules cache
+        id: node-modules-cache
+        uses: actions/cache@v5
+        with:
+          path: node_modules
+          key: node-modules-${{ runner.os }}-${{ runner.arch }}-node22-${{ hashFiles('package-lock.json') }}
       - name: Install dependencies
+        if: steps.node-modules-cache.outputs.cache-hit != 'true'
         run: npm ci --prefer-offline --no-audit
       - name: Validate frontmatter (changed files)
         run: node scripts/core/test-frontmatter.mjs --ci
