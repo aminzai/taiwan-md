@@ -132,6 +132,20 @@ _ENGLISH_OPENER_MAX_CHARS = 8    # 開場句中文字數 ≤ 此值才算「超�
 _ENGLISH_OPENER_NEXT_MIN = 28    # 後接句中文字數 ≥ 此值（確保是「短→長」不是「短→中」）
 _ENGLISH_OPENER_RATIO = 3.5      # 後接句 ≥ 開場句的幾倍
 
+# ── 「是⋯的」cleft 長片語型（§歐化第 7 病動詞片語變體，2026-08-04 哲宇 directive）──
+# 第 7 病 plugin 抓 curated 評價形容詞（「是隨便的」「是顯而易見的」）；哲宇 callout
+# 「『腦神經外科』這四個字，是媒體多年轉述之間慢慢添上去的。」揭另一型：「是＋長動詞
+# 片語＋的＋句末標點」的英文 cleft 直譯。短的「是他蓋的」是中文自然強調式，病的指紋
+# 是「是」與「的」之間塞了長片語（資訊全部懸在判斷句裡）。中文紀實把動作句直接寫出來
+# （「媒體多年轉述之間，慢慢把這四個字添了上去」）或讓「的」接名詞（「是⋯添上去的頭銜」）。
+# 891 篇校準：minlen=10 → 129 hits、minlen=12 → 71 hits。⚠️ 出處交代型（「是徐賢修
+# 拍板的」「是許皓甯在台上說的」）是合法強調句，句法上與 cleft 無法完全區分——本組是
+# 意識層儀器（MANIFESTO §14：儀器篩選標記、判斷裁決），WARN-only 讓寫手看見，逐處人判。
+# 含數字片語豁免（出處型常帶人名年份；同 §8e 場景句豁免邏輯）。
+_RE_CLEFT_LONG_PREDICATE = re.compile(
+    r"是[^。！？\n，、「」0-9０-９]{12,25}的[。！？]"
+)
+
 # ── 英式段首宣告慣用式（§8e 的簽名檔補充，2026-08-03 round 2）─────────────────
 # §8e 的長度門檻（≤8 字）與數字豁免讓三種 9-13 字的隱喻宣告句穿過：「這個頭銜在轉述裡
 # 長大過。」（10 字）「真正的轉彎發生在 1987 年。」（數字豁免）「從結果看，這是他人生的
@@ -140,7 +154,8 @@ _ENGLISH_OPENER_RATIO = 3.5      # 後接句 ≥ 開場句的幾倍
 # 878 篇有 9 篇在用，是跟「值得停下來看」（22 篇）同型的跨篇簽名檔——每篇單獨看是一句
 # 過場，攤開看是模板。段首限定（MULTILINE ^）。
 _RE_DECLARATIVE_OPENER_IDIOM = re.compile(
-    r"^(?:真正的[^。！？\n]{1,8}(?:發生|出現|來自|集中發生)在"
+    r"^(?:真正的[^。！？\n]{1,8}(?:發生在|出現在|來自|集中發生在|在)"
+    r"|(?:真正的)?(?:轉機|轉折|轉捩點|終局|轉彎|轉身)[^。！？\n]{0,6}?(?:出現在|發生在|在)[^。！？\n]{1,12}[。]"
     r"|從結果(?:看|來看)[，,]\s*這是)",
     re.MULTILINE,
 )
@@ -1178,6 +1193,26 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
             fix_suggestion=(
                 "「真正的轉折發生在⋯」全站 9 篇在用，已是模板（同「值得停下來看」22 篇）。"
                 "把判斷融進資訊句：直接寫那一年發生了什麼，讓「這是轉折」由事件自己長出來。"
+            ),
+        )
+
+    # ── 8f. 「是⋯的」cleft 長片語型 (WARN-only 意識層，2026-08-04) ──
+    for m in list(_RE_CLEFT_LONG_PREDICATE.finditer(text_for_patterns))[:4]:
+        if _backstage_line_is_legit_backstage(text_for_patterns, m.start()):
+            continue  # blockquote 引語／腳註是別人的話或來源裝置
+        line_no = _line_at_offset(text_for_patterns, m.start())
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.WARN,
+            message=f"「是⋯的」cleft 長片語 (§歐化第 7 病動詞片語型)：「{m.group(0)}」",
+            line=line_no,
+            snippet=m.group(0)[:40],
+            editorial_ref="EDITORIAL.md §歐化語法 §「是 X 的」判斷句",
+            fix_suggestion=(
+                "「是＋長片語＋的＋句號」是英文 cleft 直譯。兩條改法：改動作句"
+                "（「媒體多年轉述之間，慢慢把這四個字添了上去」）或讓「的」接名詞"
+                "（「是⋯添上去的頭銜」）。⚠️ 出處交代型（「是徐賢修拍板的」）是"
+                "合法強調句——本組是意識層，逐處人判。"
             ),
         )
 
