@@ -6,7 +6,7 @@ status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.3'
 last_updated: 2026-08-03
-last_session: '2026-08-03-140210-manual（黃崇仁 REWRITE，+1 未消化 neutral-tone-conflated-with-minimized-substance——哲宇糾正炎上倫理席把「不當脊椎」滑坡成「份量要縮小」）'
+last_session: '2026-08-03-140210-manual（黃崇仁 REWRITE，+2 未消化：neutral-tone-conflated-with-minimized-substance 中立管語氣不管份量、concrete-number-mistaken-for-symbolic-weight 數字具體但無象徵重量；後者已 instantiate 為 EDITORIAL v6.14 Title 第 5 原則）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -331,6 +331,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ---
 
 ## 未消化清單（📥 待 distill）
+
+### 2026-08-03 manual（黃崇仁 REWRITE）— concrete-number-mistaken-for-symbolic-weight：數字通過了「不抽象」那關，卻沒通過「有意義」那關
+
+- **pattern**: `concrete-number-mistaken-for-symbolic-weight`
+- **原則**：EDITORIAL §抽象聰明句不是標題 的自檢是「每個關鍵詞能不能指出具體的東西」，數字天然通過這關——可查證、可指認、絕不抽象。於是寫手（跟 AI）容易把「堆三個數字」誤當成「夠具體了」。但**具體 ≠ 有象徵重量**：讀者心裡對「四十三家銀行」「一千兩百億」沒有一把尺，不知道算多算少、代表什麼；而「說好三年，放了四十年」同樣是數字，卻自帶對照物（承諾 vs 現實），落差本身就是意義。判準是遮住主題名後，副標剩下的東西還能不能讓人猜到這是誰的人生——規格表遮掉人名後可以套用在任何一間欠債重整的公司。
+- **觸發**：2026-08-03 黃崇仁 REWRITE，寫手產出標題「黃崇仁：一千兩百億債務、四十三家銀行，和一條沒有停下來的產線」，哲宇 callout「有數字，但是象徵意義不足，只看標題一點真實意義都沒有，也沒辦法代表他的人生」。三個數字全部可查證、全部具體、全部通過既有的 reverse-abstraction test，但串起來讀是規格表不是人生。
+- **可能層級**：操作規則（已 instantiate 為 EDITORIAL v6.14 Title 第 5 原則），但底下的認知 pattern 可能更廣——「通過了某一關的檢查，就以為通過了它真正要防的東西」這個形狀，跟 REFLEXES #82 proxy signal antipattern 同族（具體度是象徵重量的 proxy，不是象徵重量本身）
+- **相關**：REFLEXES #82（proxy signal antipattern：訊號要摸到 ground truth，不是量它的替身）——本條是 #82 在編輯判斷層的具體形狀，「可查證的具體性」是「讀者感受得到的意義」的替身。若 distill 判定可 fold，最可能落點是 #82 新增子規則。也跟 EDITORIAL §四 reverse-abstraction test 相關——本條補的是：那個 test 只擋得住抽象詞，擋不住具體但無意義的數字。
+- **已 instantiate**：[EDITORIAL v6.14](../editorial/EDITORIAL.md) §Title 四原則 → 五原則，新增第 5 條「數字要有象徵重量，不是規格表」含正反例與「數字旁邊有沒有對照物」判準
+- **verification_count**: 1
 
 ### 2026-08-03 manual（黃崇仁 REWRITE）— neutral-tone-conflated-with-minimized-substance：把「中立陳述」誤做成「份量要縮小」
 
