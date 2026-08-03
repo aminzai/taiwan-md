@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-03T11:53:21+08:00",
-    "zhCommitHead": "4bddc72b6",
+    "lastUpdated": "2026-08-03T12:14:51+08:00",
+    "zhCommitHead": "1cb8c8aee",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 877,
-        "fresh": 848,
-        "stale": 17,
+        "fresh": 849,
+        "stale": 16,
         "metadata_stale": 1,
         "missing": 11,
         "orphan": 0
@@ -83,18 +83,18 @@
       },
       "hi": {
         "total_zh": 877,
-        "fresh": 598,
+        "fresh": 599,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 279,
+        "missing": 278,
         "orphan": 0
       },
       "ar": {
         "total_zh": 877,
-        "fresh": 691,
+        "fresh": 692,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 186,
+        "missing": 185,
         "orphan": 0
       },
       "ru": {
@@ -7653,18 +7653,16 @@
         "ja": {
           "path": "ja/Economy/aama-taipei-cradle-program.md",
           "translatedFrom": "Economy/AAMA台北搖籃計畫.md",
-          "sourceCommitSha": "cfaa22a5d",
-          "sourceContentHash": "sha256:5e0729d9b7c768df",
-          "sourceBodyHash": "sha256:de8072f2a65793f8",
-          "translatedAt": "2026-07-07T02:28:52+08:00",
+          "sourceCommitSha": "2e6738999",
+          "sourceContentHash": "sha256:d92f29ce2a573061",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-03T03:49:29.584562+00:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 39,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 2,
-          "diffSummary": "+28 -22"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Economy/aama-taipei-cradle-program.md",
@@ -39362,8 +39360,8 @@
           "sourceContentHash": "sha256:6189acad34e81f7d",
           "sourceBodyHash": "sha256:a81371a8c3c242ce",
           "translatedAt": "2026-08-03T03:16:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9c8c3c4e",
+          "translationLastModified": "2026-08-03T11:53:21+08:00",
           "inferred": false,
           "footnoteDefs": 22,
           "status": "fresh",
@@ -48321,7 +48319,18 @@
           "reason": "same-commit"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Nature/taiwan-marine-conservation-challenges.md",
+          "translatedFrom": "Nature/台灣海洋保育與挑戰.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:0c4a6676abd7e73d",
+          "sourceBodyHash": "sha256:fe639063298f999a",
+          "translatedAt": "2026-08-03T03:16:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Nature/taiwan-marine-conservation-challenges.md",
@@ -57774,8 +57783,8 @@
           "sourceContentHash": "sha256:ebee89e5e92900ff",
           "sourceBodyHash": "sha256:80855056570f3a2e",
           "translatedAt": "2026-08-03T03:16:08+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "9c8c3c4e",
+          "translationLastModified": "2026-08-03T11:53:21+08:00",
           "inferred": false,
           "footnoteDefs": 32,
           "status": "fresh",
@@ -110571,7 +110580,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Geography/hsinchu-city.md",
+          "translatedFrom": "Geography/新竹市.md",
+          "sourceCommitSha": "85634f83b",
+          "sourceContentHash": "sha256:54b4651158195449",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-03T03:38:31.213686+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
