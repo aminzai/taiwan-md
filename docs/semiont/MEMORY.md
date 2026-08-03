@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-03
-last_session: '2026-08-03-093300-twmd-flywheel-watch（飛輪綠燈，唯一靜默的是本 routine 昨天沒推上 origin 的收官）'
+last_session: '2026-08-03-221718-manual（黃崇仁 Fresh 全編排上線＋三條 DNA 進化）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -326,3 +326,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-03 | 070844-twmd-feedback-triage | 隊列空零新回報；archive 掃描 40 檔連續第三天同一批，零新留言同步，本 session 零 commit | 連續空轉兩天仍照實記錄，才有基線分辨「這條 routine 平常就這麼安靜」跟「哪天真的壞了」 | [→](memory/2026-08-03-070844-twmd-feedback-triage.md) |
 | 2026-08-03 | 084052-twmd-maintainer-daily | merge-first-heal PR #1288 黃崇仁；footnote 抽驗抓到 2 處杜撰引語（紅旗10型）+ 1 處日期誤植 + 1 條死鏈腳註，5 issue 全無新 follow-up | 直接引語比周邊事實更脆弱：死訊/債務/公司歷史都對得上時仍要優先逐字核對「」內文字的來源 | [→](memory/2026-08-03-084052-twmd-maintainer-daily.md) |
 | 2026-08-03 | 093300-twmd-flywheel-watch | 飛輪綠燈（24hr 17 commit／8 條 routine 全留痕），唯一靜默的是本 routine 自己——昨天收官停在本機沒推上 origin；順手清掉 handoff 三天的第一把尺前綴缺口 | commit 不等於留痕；只讀 origin 的儀器要求收官也要抵達 origin | [→](memory/2026-08-03-093300-twmd-flywheel-watch.md) |
+| 2026-08-03 | 221718-manual | 黃崇仁 Fresh 全編排上線；哲宇四輪 callout 長出 EDITORIAL 兩規則＋backstage 偵測器；撞 PR #1288 取 canonical | 每句單獨看都過關的最難抓：四輪 callout 零事實錯誤，全是「這句在跟誰說話」 | [→](memory/2026-08-03-221718-manual.md) |

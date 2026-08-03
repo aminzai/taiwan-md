@@ -332,6 +332,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-03 manual（黃崇仁 REWRITE）— local-fs-case-insensitivity-masks-ci-failure：本機檔案系統不分大小寫，把 CI 會擋的錯誤藏起來
+
+- **pattern**: `local-fs-case-insensitivity-masks-ci-failure`
+- **原則**：macOS 預設檔案系統不分大小寫，Linux CI 分。任何「路徑字串 vs 實體檔案」的比對檢查，在本機跑都會綠，push 上去才爆。這不是檢查器寫錯，是**檢查器在兩個環境看到的世界不一樣**——本機的 `ls public/article-images/people/` 跟 `People/` 回傳同一批檔案，Linux 上是兩個不存在交集的目錄。所有 pre-commit／pre-push 的本機 gate 都有這個結構性盲區，只要驗的是檔案存在性。
+- **觸發**：2026-08-03 黃崇仁 ship。三張圖用 `image-ingest.mjs --cat People`（跟著 `knowledge/People/` 的大寫慣例走）落到 `public/article-images/People/`，但文章與全站慣例引用的是小寫 `people/`。本機 `article-health --check=image-health` 連跑五次全綠（Stage 1B／Stage 2.5／Stage 3 批修／Step 3.8／pre-push 全站 sweep），push 後 GitHub Pages deploy 立刻 `image-health hard=3 圖片檔不存在`。修法是 `git mv` 三個檔到小寫目錄。**pre-push hook 印的是「✅ 全站 article-health 全綠（ci-deploy mirror）」——它自稱是 CI 的鏡像，但鏡像在這一維是假的。**
+- **可能層級**：通用反射候選（跨專案：任何 macOS 開發 + Linux CI 的組合都有；且不限圖片路徑——任何 asset reference、import path、設定檔指向都可能踩）。目前 1 instance
+- **相關**：REFLEXES #24「工具在說謊的 N 種形式」——這是新的一種：**工具沒說謊，是它腳下的地板在兩個環境不一樣**。跟既有的「抽樣偏差」「無 mtime 標記的快照」不同源：那些是工具自己的設計缺陷，這條是環境差異讓同一份正確的程式碼回傳不同答案。也跟 REFLEXES #69「每層自評都需要外部尺」有關——這次真正的外部尺是 CI，本機五道 gate 全是同一把不分大小寫的尺。
+- **可能的操作修補**：(a) `image-ingest.mjs` 的 `--cat` 參數強制轉小寫（source-level 根治，因為 `public/article-images/` 全站慣例就是小寫，只有 `People/` 一個大寫目錄殘留 4 個既有檔案）(b) `image-health` check 增加「路徑大小寫與磁碟實際檔名逐字比對」（用 `readdir` 拿實際檔名再比字串，不靠 `fs.existsSync`）(c) pre-push 的「ci-deploy mirror」宣稱需要降級或補上這一維，否則它給的是假的安心感
+- **verification_count**: 1
+
 ### 2026-08-03 manual（黃崇仁 REWRITE）— backstage-leak-in-prose：作者的工作痕跡跑進正文，每句單獨看都過關
 
 - **pattern**: `backstage-leak-in-prose`
