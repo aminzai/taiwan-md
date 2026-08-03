@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T00:28:58+08:00",
-    "zhCommitHead": "419e800e6",
+    "lastUpdated": "2026-08-04T00:57:36+08:00",
+    "zhCommitHead": "9be736800",
     "totalZh": 879,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 879,
-        "fresh": 845,
-        "stale": 18,
+        "fresh": 847,
+        "stale": 16,
         "metadata_stale": 3,
         "missing": 13,
         "orphan": 0
@@ -67,8 +67,8 @@
       },
       "id": {
         "total_zh": 879,
-        "fresh": 485,
-        "stale": 4,
+        "fresh": 486,
+        "stale": 3,
         "metadata_stale": 2,
         "missing": 388,
         "orphan": 0
@@ -83,8 +83,8 @@
       },
       "hi": {
         "total_zh": 879,
-        "fresh": 602,
-        "stale": 3,
+        "fresh": 603,
+        "stale": 2,
         "metadata_stale": 2,
         "missing": 272,
         "orphan": 0
@@ -99,8 +99,8 @@
       },
       "ru": {
         "total_zh": 879,
-        "fresh": 718,
-        "stale": 2,
+        "fresh": 719,
+        "stale": 1,
         "metadata_stale": 1,
         "missing": 158,
         "orphan": 0
@@ -21254,18 +21254,16 @@
         "ja": {
           "path": "ja/Technology/taiwan-semiconductor-industry.md",
           "translatedFrom": "Technology/半導體產業.md",
-          "sourceCommitSha": "31a05c44",
-          "sourceContentHash": "sha256:353dd1410e58546f",
-          "sourceBodyHash": "sha256:b4789b1cdfeb8d09",
-          "translatedAt": "2026-06-16T16:55:14Z",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:575572d1dd581d19",
+          "sourceBodyHash": "sha256:d37164a7592bd08a",
+          "translatedAt": "2026-08-03T21:46:28+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 3,
-          "diffSummary": "+9 -7"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Technology/taiwan-semiconductor-industry.md",
@@ -21328,18 +21326,16 @@
         "id": {
           "path": "id/Technology/taiwan-semiconductor-industry.md",
           "translatedFrom": "Technology/半導體產業.md",
-          "sourceCommitSha": "c85a9b6f7",
-          "sourceContentHash": "sha256:b496186c7d76e85e",
-          "sourceBodyHash": "sha256:3bf42ee02082c616",
-          "translatedAt": "2026-07-27T07:12:41+08:00",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:575572d1dd581d19",
+          "sourceBodyHash": "sha256:d37164a7592bd08a",
+          "translatedAt": "2026-08-03T16:36:44.361859+00:00",
           "translationLastCommit": "475cf65e",
           "translationLastModified": "2026-07-27T19:04:11+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Technology/taiwan-semiconductor-industry.md",
@@ -21358,18 +21354,16 @@
         "hi": {
           "path": "hi/Technology/taiwan-semiconductor-industry.md",
           "translatedFrom": "Technology/半導體產業.md",
-          "sourceCommitSha": "c85a9b6f7",
-          "sourceContentHash": "sha256:b496186c7d76e85e",
-          "sourceBodyHash": "sha256:3bf42ee02082c616",
-          "translatedAt": "2026-07-27T09:40:32+08:00",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:575572d1dd581d19",
+          "sourceBodyHash": "sha256:d37164a7592bd08a",
+          "translatedAt": "2026-08-03T16:38:58.928018+00:00",
           "translationLastCommit": "87f270a5",
           "translationLastModified": "2026-07-27T19:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/taiwan-semiconductor-industry.md",
@@ -21388,18 +21382,16 @@
         "ru": {
           "path": "ru/Technology/taiwan-semiconductor-industry.md",
           "translatedFrom": "Technology/半導體產業.md",
-          "sourceCommitSha": "c85a9b6f7",
-          "sourceContentHash": "sha256:b496186c7d76e85e",
-          "sourceBodyHash": "sha256:3bf42ee02082c616",
-          "translatedAt": "2026-07-27T09:40:34+08:00",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:575572d1dd581d19",
+          "sourceBodyHash": "sha256:d37164a7592bd08a",
+          "translatedAt": "2026-08-03T16:42:24.457018+00:00",
           "translationLastCommit": "d30facee",
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
           "footnoteDefs": 28,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -83987,18 +83979,16 @@
         "ja": {
           "path": "ja/People/stan-shih.md",
           "translatedFrom": "People/施振榮.md",
-          "sourceCommitSha": "21298a7ae",
-          "sourceContentHash": "sha256:b0e816b78b19b42e",
-          "sourceBodyHash": "sha256:a0ff299644c9b0cc",
-          "translatedAt": "2026-07-31T09:04:20+08:00",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:b5ded8b5494f423c",
+          "sourceBodyHash": "sha256:fb56cb60a16b87a7",
+          "translatedAt": "2026-08-03T16:33:28.056903+00:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 71,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/stan-shih.md",
@@ -84112,8 +84102,8 @@
           "sourceContentHash": "sha256:b5ded8b5494f423c",
           "sourceBodyHash": "sha256:fb56cb60a16b87a7",
           "translatedAt": "2026-08-03T16:28:49.879010+00:00",
-          "translationLastCommit": "e137dda5",
-          "translationLastModified": "2026-07-31T00:55:37+08:00",
+          "translationLastCommit": "a351fa6b",
+          "translationLastModified": "2026-08-04T00:28:58+08:00",
           "inferred": false,
           "footnoteDefs": 71,
           "status": "fresh",
@@ -86554,8 +86544,8 @@
     },
     "People/黃崇仁.md": {
       "zh": {
-        "lastCommit": "5e9866a1",
-        "lastModified": "2026-08-04T00:23:30+08:00",
+        "lastCommit": "6158e172",
+        "lastModified": "2026-08-04T00:45:21+08:00",
         "contentHash": "sha256:a6a2dd2192af23da",
         "bodyHash": "sha256:79acfb47eb180714"
       },
@@ -119902,8 +119892,8 @@
           "sourceContentHash": "sha256:f2be686b40b1bfa3",
           "sourceBodyHash": "sha256:85fe560e3164601c",
           "translatedAt": "2026-08-03T21:46:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a351fa6b",
+          "translationLastModified": "2026-08-04T00:28:58+08:00",
           "inferred": false,
           "footnoteDefs": 9,
           "status": "fresh",
