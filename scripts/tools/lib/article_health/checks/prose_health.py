@@ -154,6 +154,10 @@ _RE_OPENER_DECLARATIVE_LEAD = re.compile(
 # 含數字片語豁免（出處型常帶人名年份；同 §8e 場景句豁免邏輯）。
 _RE_CLEFT_LONG_PREDICATE = re.compile(
     r"是[^。！？\n，、「」0-9０-９]{12,25}的[。！？]"
+    # 「是從⋯V出來的」狀語型 cleft：門檻可低（6 字），出處交代型罕用「從」開頭
+    # （2026-08-04 dogfood：自己的 diary 寫出「尺是從被照亮的地方長出來的。」10 字
+    # 溜過 12 字門檻，哲宇 callout「diary 有一樣的問題」）
+    r"|是從[^。！？\n，、「」0-9０-９]{6,22}的[。！？]"
 )
 
 # ── 英式段首宣告慣用式（§8e 的簽名檔補充，2026-08-03 round 2）─────────────────
@@ -166,6 +170,7 @@ _RE_CLEFT_LONG_PREDICATE = re.compile(
 _RE_DECLARATIVE_OPENER_IDIOM = re.compile(
     r"^(?:真正的[^。！？\n]{1,8}(?:發生在|出現在|來自|集中發生在|在)"
     r"|(?:真正的)?(?:轉機|轉折|轉捩點|終局|轉彎|轉身)[^。！？\n]{0,6}?(?:出現在|發生在|在)[^。！？\n]{1,12}[。]"
+    r"|最(?:深|大|難|重)的[^。！？\n]{1,8}(?:在|是)[^。！？\n]{1,12}[。]"  # 最高級宣告型（08-04 diary dogfood）
     r"|從結果(?:看|來看)[，,]\s*這是)",
     re.MULTILINE,
 )
@@ -1144,14 +1149,16 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
                 "拆句號句 / 並列改頓號。（全站 legacy 仍 WARN 不擋，只有你觸碰的檔要清。）"
             ),
         )
-    if semi_n > 3:
+    # 2026-08-04 哲宇 directive「中文幾乎不會用分號寫文章」：門檻 >3 降到 ≥1，
+    # 第一顆就逐處 WARN 讓寫的人看見（計分門檻與 HARD gate 不動，全站 gate 行為不變）。
+    if semi_n >= 1:
         for m in semi_matches[:10]:
             line_no = _line_at_offset(text_for_patterns, m.start())
             ctx = _context_around(text_for_patterns, m.start(), m.end(), before=18, after=18)
             yield Violation(
                 check=CHECK_NAME,
                 severity=Severity.WARN,
-                message=f"全形分號連用 (§quality-scan #8c 第 {semi_matches.index(m)+1}/{semi_n} 處)：{ctx}",
+                message=f"全形分號 (§quality-scan #8c 第 {semi_matches.index(m)+1}/{semi_n} 處)：{ctx}",
                 line=line_no,
                 snippet="；",
                 editorial_ref="EDITORIAL.md §歐化語法 §分號 + quality-scan #8c",
