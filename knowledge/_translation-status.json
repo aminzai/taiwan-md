@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T02:06:59+08:00",
-    "zhCommitHead": "996bf3de9",
+    "lastUpdated": "2026-08-04T02:49:24+08:00",
+    "zhCommitHead": "705b7ddc1",
     "totalZh": 879,
     "activeLanguages": [
       "en",
@@ -43,8 +43,8 @@
       },
       "es": {
         "total_zh": 879,
-        "fresh": 849,
-        "stale": 18,
+        "fresh": 850,
+        "stale": 17,
         "metadata_stale": 1,
         "missing": 11,
         "orphan": 0
@@ -75,9 +75,9 @@
       },
       "pt": {
         "total_zh": 879,
-        "fresh": 804,
+        "fresh": 805,
         "stale": 7,
-        "metadata_stale": 2,
+        "metadata_stale": 1,
         "missing": 66,
         "orphan": 0
       },
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 879,
-        "fresh": 698,
+        "fresh": 699,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 180,
+        "missing": 179,
         "orphan": 0
       },
       "ru": {
@@ -3784,8 +3784,8 @@
           "sourceContentHash": "sha256:c9aa499e9c84c71a",
           "sourceBodyHash": "sha256:b2e261c439c4d6f4",
           "translatedAt": "2026-08-03T21:46:29+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "cf2b07c0",
+          "translationLastModified": "2026-08-04T02:06:59+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -13452,8 +13452,8 @@
           "sourceContentHash": "sha256:e8afc225ea9e0107",
           "sourceBodyHash": "sha256:6bdb1c40d1477a30",
           "translatedAt": "2026-08-03T21:46:29+08:00",
-          "translationLastCommit": "475cf65e",
-          "translationLastModified": "2026-07-27T19:04:11+08:00",
+          "translationLastCommit": "cf2b07c0",
+          "translationLastModified": "2026-08-04T02:06:59+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -21337,8 +21337,8 @@
           "sourceContentHash": "sha256:575572d1dd581d19",
           "sourceBodyHash": "sha256:d37164a7592bd08a",
           "translatedAt": "2026-08-03T16:36:44.361859+00:00",
-          "translationLastCommit": "475cf65e",
-          "translationLastModified": "2026-07-27T19:04:11+08:00",
+          "translationLastCommit": "cf2b07c0",
+          "translationLastModified": "2026-08-04T02:06:59+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -38705,7 +38705,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Society/taiwan-indigenous-education-and-language-revival.md",
+          "translatedFrom": "Society/台灣原住民族教育與語言復振的交界.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:976815861db5ed08",
+          "sourceBodyHash": "sha256:57d3b8ceecf4a7d0",
+          "translatedAt": "2026-08-03T21:46:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 24,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -70145,18 +70156,16 @@
         "pt": {
           "path": "pt/People/tsmc-morris-chang.md",
           "translatedFrom": "People/張忠謀.md",
-          "sourceCommitSha": "7a66acd4f",
-          "sourceContentHash": "sha256:b1203b58fb6b7faa",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:14127c407e7b0db7",
           "sourceBodyHash": "sha256:6d452360d79fae70",
-          "translatedAt": "2026-07-28T08:53:30+08:00",
+          "translatedAt": "2026-08-03T21:46:30+08:00",
           "translationLastCommit": "f8fe84f7",
           "translationLastModified": "2026-07-28T09:37:35+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/tsmc-morris-chang.md",
@@ -82816,18 +82825,16 @@
         "es": {
           "path": "es/People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender.md",
           "translatedFrom": "People/曹興誠.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:419cc607d70f325a",
-          "sourceBodyHash": "sha256:ae002bb900693bc1",
-          "translatedAt": "2026-05-02T08:50:00+08:00",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:c4ee8c6545170422",
+          "sourceBodyHash": "sha256:9a80a8cbdaaaf3e7",
+          "translatedAt": "2026-08-04T02:21:13+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender.md",
