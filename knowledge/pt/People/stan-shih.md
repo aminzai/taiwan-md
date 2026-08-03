@@ -25,10 +25,10 @@ imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Stan_Shih_at_Taipei_IT_Month_20141205a.jpg'
 relatedDiary: ['2026-07-06-133221-施振榮-rewrite']
 translatedFrom: 'People/施振榮.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:b0e816b78b19b42e'
-sourceBodyHash: 'sha256:a0ff299644c9b0cc'
-translatedAt: '2026-07-28T17:22:19+08:00'
+sourceCommitSha: '6ffd92f94'
+sourceContentHash: 'sha256:b5ded8b5494f423c'
+sourceBodyHash: 'sha256:fb56cb60a16b87a7'
+translatedAt: '2026-08-03T14:52:23.912723+00:00'
 ---
 
 > **Resumo em 30 segundos:** Stan Shih (n. 1944) é filho de uma família tradicional de fabricantes de incenso em Lukang; o pai morreu de excesso de trabalho quando ele tinha três anos, e a mãe o criou vendendo ovos de pato, material de escritório e bilhetes da Loteria Patriótica. Formado em Engenharia Electrónica na Universidade Chiao Tung, tornou-se engenheiro e, em 1976, fundou a Acer com a esposa e alguns sócios reunindo um milhão de novos dólares taiwaneses. Levou a empresa a figurar entre as cinco maiores marcas de PC do mundo e desenhou a "Curva do Sorriso", hoje estudada na economia internacional. É também dos poucos líderes tecnológicos de Taiwan que aceitam falar abertamente dos seus fracassos: a TI-Acer Semiconductor chegou a registar o maior prejuízo anual de uma única empresa em Taiwan; a Acer perdeu mais de 20 mil milhões num só ano (2013); ele, já octogenário, com mais de uma dezena de stents no coração, continua a fazer capital de risco e a criar o seu avatar de IA. O que mais lhe importa, ao longo de toda a vida, são coisas invisíveis, que só se contabilizam muito tempo depois: talento, marca e o que ele chama de "Wangdao".
@@ -173,25 +173,25 @@ Mas nunca tratou essas acções como ativo para especular. Disse: «Considero as
 
 Chega a resumir a escolha numa frase despida: «Se eu a vida toda só quisesse ganhar dinheiro, hoje ganhava mais do que eles.»[^65] Nesta frase não há azedume, só alguém que sabe claramente o que persegue. O que ele quer nunca foi o número mais bonito no relatório financeiro.
 
-## Um avatar chamado Adam
+## Um avatar chamado Adan
 
 2026, Stan Shih tem 81 anos.
 
-O corpo já não colabora: mais de uma dezena de stents no coração, já teve enfarte e AVC, duas vezes à beira da morte[^65b]. Mas nem sombra de vontade de sair. Disse a jornalistas com frontalidade: «Agora estou a desfrutar a vida; embora aos olhos dos outros pareça cheio de desafios, vida sem desafios não tem graça.»[^66] Chega a brincar que, graças à tecnologia de IA, tem confiança de viver até aos 120[^67].
+O seu corpo já não está nada fácil: tem mais de dez stents no coração, já sofreu enfarte do miocárdio e AVC, esteve duas vezes entre a vida e a morte[^65b]. Mas ele não tem nenhuma intenção de se retirar. Disse aos jornalistas de forma muito direta: «Atualmente estou a aproveitar a vida; embora aos olhos dos outros pareça cheio de desafios, uma vida sem desafios seria sem graça.»[^66] Chegou a dizer, meio a brincar, que graças à tecnologia de IA tem confiança de viver até aos 120 anos[^67].
 
-E a obra mais especial da sua fase final é ter "feito" também a si próprio: um avatar de IA chamado "Adam".
+E a sua obra mais especial no final da vida foi «fazer» também a si próprio: um avatar de IA chamado «Adan».
 
-A equipa dele alimentou a base de conhecimento com todos os seus escritos em chinês e inglês; Stan Shih participou pessoalmente em várias sessões de treino de perguntas e respostas; saiu um Adam que responde. Em Janeiro de 2026, Adam entrou oficialmente na GPT Store, gratuito para todo o mundo[^68]. Ele até lançou um livro novo, _O Momento do Despertar do Líder: Stan哥 e o Diálogo com a IA_, em que cerca de 90% do conteúdo foi escrito pelo avatar de IA, com 30 perguntas e respostas, incluindo uma: «Como gostarias que os outros te lembrassem?»[^69]
+A sua equipa alimentou uma base de conhecimento com todos os seus escritos e artigos em chinês e inglês, e o próprio Stan Shih participou pessoalmente em várias sessões de treino de perguntas e respostas, criando uma versão de IA de si mesmo capaz de responder a perguntas. Em janeiro de 2026, o Adan foi lançado oficialmente na GPT Store, gratuito para uso global[^68]. Ele até publicou um novo livro 《領導人的覺醒時刻：Stan 哥與 AI 對話》 (O Momento do Despertar do Líder: Irmão Stan em Diálogo com a IA), noventa por cento do qual foi escrito por esse avatar de IA, contendo 30 perguntas e respostas, uma das quais era precisamente: «Como gostarias que os outros te lembrassem?»[^69]
 
-Pense no significado disto, é comovente. Um homem que uma vida inteira falou de "valor implícito", "intangível", "futuro" — essas coisas invisíveis, que só se contabilizam muito tempo depois — no fim transformou-se a si próprio numa coisa invisível, mas que pode continuar para sempre. Quando o engenheiro que fez o Micro Professor I, o empresário que desenhou a Curva do Sorriso, o velho presidente que perdeu 100 mil milhões e ainda ri a falar disso, um dia já não estiver, um avatar chamado Adam continuará algures na nuvem, devagar, vez após vez, a responder às perguntas de estranhos.
+Pense no significado disto, é comovente. Alguém que passou a vida a falar de «valor implícito», «intangível», «futuro» — coisas invisíveis que só muito tempo depois se podem calcular — no fim transformou-se a si próprio numa existência invisível, mas capaz de continuar para sempre. Quando aquele engenheiro que fez o Micro Professor I, aquele empresário que propôs a Curva do Sorriso, aquele velho presidente do conselho que perdeu milhares de milhões e ainda sorria a falar sobre isso, um dia já não estiver aqui, um avatar chamado Adan ainda estará algures na nuvem, a responder lenta e repetidamente às perguntas de estranhos.
 
-Daquela máquina de 1981 que se fechava como um livro, rodeada por distribuidores americanos, a este avatar de 2026 na GPT Store, à disposição de quem quiser perguntar, medeiam quarenta e cinco anos. Há quarenta e cinco anos, ele queria que o mundo visse um computador feito em Taiwan; há quarenta e cinco anos, ele quer que o mundo lembre uma maneira de os taiwaneses pensarem.
+Desde 1981, aquele computador que se fechava como um livro e era cercado por distribuidores americanos a fazer perguntas, até 2026, este avatar metido na GPT Store, disponível para qualquer um perguntar o que quiser, medeiam quarenta e cinco anos. Há quarenta e cinco anos, ele queria que o mundo visse um computador feito em Taiwan; quarenta e cinco anos depois, ele quer que o mundo lembre uma forma de os taiwaneses pensarem.
 
-Planeia reformar-se pela segunda vez aos 85[^70], largar a presidência das empresas com fins lucrativos, e continuar na filantropia. Mas pelo que se tem visto nos últimos anos: vai ao Japão apresentar o novo livro branco do Wangdao, põe o avatar online, concede uma entrevista atrás da outra — essa data de reforma, provavelmente, vai sendo adiada.
+Ele planeia reformar-se pela segunda vez aos 85 anos[^70], deixando o cargo de presidente do conselho das empresas com fins lucrativos, e depois continuar a fazer trabalho de beneficência. Mas olhando para o seu aspeto destes anos: foi ao Japão apresentar o novo livro branco do Novo Wangdao, lançou o avatar de IA, aceitou uma entrevista atrás da outra, essa data de reforma provavelmente também vai ser adiada novamente.
 
-Aquele miúdo que em Lukang cresceu a ver a mãe vender ovos de pato, no fim, continua a ser o jardineiro que quer plantar um jardim inteiro.
+Aquele miúdo que em Lukang cresceu a ver a mãe vender ovos de pato, no fim, continua a ser aquele jardineiro que quer plantar um jardim inteiro.
 
-**Leitura complementar**: [Acer](/pt/economy/acer-pc-industry-pioneer) (a marca que Stan Shih fundou e levou ao palco mundial, aqui conta a sua história completa), [Morris Chang](/pt/people/tsmc-morris-chang) (quem convidou Stan Shih para 21 anos de administrador da TSMC, trilhou outro caminho tecnológico de Taiwan), [TSMC](/pt/economy/tsmc) (a empresa que faz o "fabrico de midstream" e se tornou montanha sagrada, também onde Stan Shih tem mais acções), [Transformação e actualização da indústria de Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) (por trás da Curva do Sorriso e do Wangdao, os quarenta anos de Taiwan entre fabrico e marca).
+**Leitura adicional**: [Acer](/pt/economy/acer-pc-industry-pioneer) (a marca que Stan Shih fundou e levou ao palco mundial, aqui está a sua própria história completa), [Morris Chang](/pt/people/tsmc-morris-chang) (a pessoa que convidou Stan Shih para ser diretor da TSMC durante 21 anos, percorreu outro caminho tecnológico de Taiwan), [TSMC](/pt/economy/tsmc) (aquela empresa que faz «fabrico intermédio» mas se tornou a montanha sagrada que protege o país, também é onde Stan Shih tem mais ações), [Transformação e atualização da indústria de Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) (por trás da Curva do Sorriso e do Wangdao, o caminho de quarenta anos de Taiwan entre o fabrico e a marca), [Huang Chong-jen](/people/黃崇仁) (a joint venture da Acer com a Texas Instruments em 1989, a TI-Acer Semiconductor, foi a primeira fábrica de DRAM de Taiwan, cinco anos antes da sua Powerchip).
 
 ## Fontes das imagens
 

@@ -33,10 +33,10 @@ sporeLinks:
     "{'id': 88, 'platform': 'x', 'date': '2026-05-25', 'url': 'https://x.com/taiwandotmd/status/2058735515021783190'}",
   ]
 translatedFrom: 'Technology/半導體產業.md'
-sourceCommitSha: 'c85a9b6f7'
-sourceContentHash: 'sha256:b496186c7d76e85e'
-sourceBodyHash: 'sha256:3bf42ee02082c616'
-translatedAt: '2026-07-26T21:34:56+08:00'
+sourceCommitSha: '6ffd92f94'
+sourceContentHash: 'sha256:575572d1dd581d19'
+sourceBodyHash: 'sha256:d37164a7592bd08a'
+translatedAt: '2026-08-03T15:44:53.861409+00:00'
 ---
 
 # Semicondutores: A Revolução de 50 Anos dos Materiais, do Transferência de Tecnologia da RCA ao GaN e ao Empacotamento Quântico
@@ -246,33 +246,34 @@ O Parque Científico de Hsinchu foi estabelecido em 1980; em mais de 40 anos, ac
 
 E os concorrentes? A estratégia de integração vertical da Samsung da Coreia do Sul investiu US$ 230 bilhões entre 2022-2026, mas a taxa de rendimento de processo avançado ainda está atrás da TSMC[^4]. A Intel travou no 10nm por anos; em 2021, propôs IDM 2.0 para combinar design e foundry, mas até 2025 ainda não conquistou clientes importantes na foundry — o mais irônico é que alguns chips de alto nível da própria Intel agora são fabricados pela TSMC.
 
-## Posição Quântica Ainda Vazia
+## A posição quântica continua vaga
 
-O carregador do Nokia 3310 tinha 4,56 watts; o carregador rápido de 2025 tem 240 watts. Uma diferença de 52 vezes. Esse caminho, o silício levou 30 anos; o GaN levou 5 anos para completar.
+O carregador do Nokia 3310 tinha 4,56 watts; o carregador rápido de 2025 tem 240 watts. Uma diferença de 52 vezes. O silício levou 30 anos para percorrer esse caminho; o nitreto de gálio completou em 5.
 
-No laboratório quântico da Academia Sinica, o chip quântico supercondutor opera a 15 milikelvin (aprox. -273°C). O chip de controle feito pela Academia Sinica (ITRI) com o processo de 28nm da TSMC comprimiu o "volume do instrumento de controle" necessário para essa ultra-baixa temperatura de um prédio para uma pequena caixa. A capacidade de semicondutores de Taiwan está movendo lentamente a fronteira do computador quântico.
+No laboratório quântico da Academia Sinica, os chips quânticos supercondutores precisam operar a 15 milieletrons-volt (cerca de -273 °C). O ITRI, usando o processo de 28 nanômetros da TSMC, produziu um chip de controle que comprimiu o "volume do instrumento de controle" necessário para essa temperatura extrema de um prédio inteiro para uma pequena caixa. A capacidade de semicondutores de Taiwan está, pouco a pouco, deslocando as fronteiras do computador quântico.
 
-Mas onde está essa fronteira, ninguém pode dizer claramente. O tempo de coerência dos qubits saltou de 15 microssegundos para 530 microssegundos; isso é apenas o começo. Há 50 anos, os 19 engenheiros enviados pela RCA talvez não soubessem que seu 1973 cristalizaria no 2nm de 2025.
+Mas ninguém sabe dizer onde fica essa fronteira. O tempo de coerência dos qubits varia de 15 microssegundos a 530 microssegundos — isso é apenas o começo. Os 19 engenheiros que a RCA enviou há 50 anos provavelmente não imaginavam que seu trabalho de 1973 se cristalizaria no processo de 2 nanômetros de 2025.
 
-A Montanha Sagrada que Protege a Nação domina o presente com 50 anos de experiência. Nos próximos 50 anos, a posição de foundry na era quântica ainda não foi conquistada por Taiwan.
+A montanha sagrada que protege o país dominou o presente graças à experiência industrial dos anos 1950. Nos próximos 50 anos, a posição de foundry na era quântica ainda não foi conquistada por Taiwan.
 
-> ✦ O raciocínio de inferência na nuvem acima da sua cabeça, impulsionado pelo Blackwell de Jensen Huang; o wafer SiC da GlobalWafers aquecendo no carregador do seu carro elétrico na porta de casa; a primeira camada fina de ALD feita por Suntola na Finlândia em 1974 selando a camada isolante do gate no seu chip de celular — semicondutores sempre foram uma ascensão de 50 anos ao longo da física de band gap de toda a linhagem de materiais, não pertencendo apenas à TSMC. Onde está o próximo degrau, a física nos dirá; mas subir ou não, é a escolha de Taiwan.
+> ✦ O Blackwell de Jensen Huang roda inferência na nuvem acima da sua cabeça; os wafers de SiC da GlobalWafers aquecem no posto de recarga de veículos elétricos na sua esquina; a primeira película fina de ALD que Tuomo Suntola fez na Finlândia em 1974 sela a camada de isolamento do gate no chip do seu celular — os semicondutores sempre foram um espectro inteiro de materiais subindo degrau a degrau pela física da banda proibida ao longo de 50 anos, e não pertencem apenas à TSMC. Onde fica o próximo degrau, a física nos dirá; mas se vamos subi-lo ou não, é escolha de Taiwan.
 
 ---
 
-**Leitura Adicional**:
+**Leitura complementar**:
 
-- [Empresa de Taiwan: TSMC](/pt/economy/tsmc) — Governança corporativa, estrutura financeira e escala de investimento de capital da Montanha Sagrada que Protege a Nação
-- [Empresa de Taiwan: MediaTek](/pt/economy/mediatek) — Como o líder de design de IC ocupa espaço em chips de celular e computação de borda de IA
-- [Empresa de Taiwan: ASE Semiconductor](/economy/台灣企業：日月光半導體) — Top 1 global em empacotamento e teste; ecossistema de processo final além do CoWoS
-- [Os Criadores de Montanhas: A Aposta do Século](/pt/art/mountain-makers-tsmc-documentary) — Documentário de 2025 de Hsiao Ju-zhen; 5 anos de entrevistas com 80+ veteranos da indústria; em 2026, entra nos três distritos de investimento da Lei CHIPS em Purdue, Wisconsin e Michigan
-- [Wu Da-you](/pt/people/tai-yu-wu) — Enquanto Taiwan construía semicondutores na década de 1980, atuava como presidente da Academia Sinica, insistindo na importância da ciência básica, estabelecendo as bases do sistema de pesquisa de Taiwan
-- [Indústria de Robôs de Taiwan](/pt/technology/taiwan-robotics-industry) — Por que a ilha #1 em semicondutores é aluna de recuperação na era dos robôs? Olhando a lacuna industrial através da inauguração da NCAIR
-- [Mercado de Ações e Mercado de Capitais de Taiwan](/economy/台灣股市與資本市場) — Como toda a ecologia da cadeia de suprimentos que sustenta a identidade de 6º maior mercado de ações global de Taiwan em 2026 se manifesta no mercado de capitais
-- [Cadeia de Suprimentos de Tungstênio de Taiwan](/technology/台灣鎢供應鏈) — Hexafluoreto de tungstênio preenche janelas de contato e linhas de caracteres de 3D NAND; Taiwan não tem minério de tungstênio, mas sobe ao meio da fonte de material através de reciclagem e refino
-- [Escola de IA de Taiwan](/pt/technology/taiwan-ai-academy) — Como os 10.000 engenheiros de IA treinados pela AIA em 8 anos retornam à cadeia ICT existente de semicondutores, fortalecendo o lado de software de Taiwan
-- [Computex: Três Grandes Exposições Internacionais de Computadores Fecharam Duas, a Restante Cresceu em Taipei](/technology/Computex) — CoWoS e processos avançados da TSMC apertam mãos com os grandes gigantes de IA globais toda vez no final de maio nesta exposição de computadores de 45 anos de Taipei
-- [Parques Científicos de Taiwan](/pt/technology/science-park-development) — Os três parques de Hsinchu, Nan Science e Zhong Science; o suporte físico do aglomerado de semicondutores e o centro geográfico do Escudo de Silício
+- [Empresa de Taiwan: TSMC](/pt/economy/tsmc) — Governança corporativa, estrutura financeira, escala de capex da montanha sagrada
+- [Empresa de Taiwan: MediaTek](/pt/economy/mediatek) — Como o líder em design de IC se posiciona em chips para celular e computação de borda com IA
+- [Empresa de Taiwan: ASE Semiconductor](/pt/economy/taiwan-enterprise-ase-semiconductor) — Indústria de embalagem e teste global nº 1, ecossistema de back-end além do CoWoS
+- [Os Construtores da Montanha: A Aposta do Século](/pt/art/mountain-makers-tsmc-documentary) — Documentário de 2025 de Hsiao Ju-chen, cinco anos de entrevistas com 80+ veteranos de semicondutores; em 2026 chega a Purdue, Wisconsin e Michigan, três polos de investimento do CHIPS Act
+- [Wu Ta-you](/pt/people/tai-yu-wu) — Enquanto Taiwan apostava nos semicondutores nos anos 1980, como presidente da Academia Sinica insistiu na importância da ciência básica, lançando as bases do sistema de pesquisa de Taiwan
+- [Huang Chung-jen](/people/黃崇仁) — Fundador da Powerchip / PSMC, a rota de Taiwan no DRAM construindo fábricas próprias sobre licenciamento alheio: market share caiu de 23,2% para 6,3%, o capítulo menos contado desta indústria
+- [Indústria de robótica de Taiwan](/pt/technology/taiwan-robotics-industry) — A ilha nº 1 em semicondutores, por que na era da robótica é aluna de recuperação? Olhando a fratura industrial a partir da inauguração do NCAIR
+- [Bolsa e mercado de capitais de Taiwan](/pt/economy/taiwan-stock-market) — Como todo o ecossistema da cadeia de suprimentos que sustenta o 6º maior mercado global em 2026 se reflete no mercado de capitais
+- [Cadeia de suprimentos de tungstênio de Taiwan](/pt/technology/taiwan-tungsten-supply-chain) — O hexafluoreto de tungstênio preenche contatos e word lines de 3D NAND; Taiwan não tem minas de tungstênio, mas subiu ao midstream desta matéria-prima via reciclagem e refino
+- [Escola de IA de Taiwan](/pt/technology/taiwan-ai-academy) — Como os 10 mil engenheiros de IA treinados em 8 anos pela AIA retornam à cadeia ICT existente de semicondutores, reforçando o lado de software de Taiwan
+- [Computex: três grandes feiras internacionais de computação, duas acabaram, a que sobrou cresce em Taipé](/technology/Computex) — O CoWoS e os processos avançados da TSMC todo fim de maio apertam a mão dos gigantes globais de IA nesta feira de 45 anos em Taipé
+- [Parques científicos de Taiwan](/pt/technology/science-park-development) — Hsinchu, Sul e Centro, três parques que são o suporte físico do cluster de semicondutores e também o centro geográfico do escudo de silício
 
 ## Fontes de Imagem
 
