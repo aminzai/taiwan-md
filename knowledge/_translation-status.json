@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-03T12:14:51+08:00",
-    "zhCommitHead": "1cb8c8aee",
+    "lastUpdated": "2026-08-03T14:32:40+08:00",
+    "zhCommitHead": "0dd0c332a",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 877,
-        "fresh": 804,
+        "fresh": 805,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 67,
+        "missing": 66,
         "orphan": 0
       },
       "hi": {
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 877,
-        "fresh": 718,
+        "fresh": 720,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 159,
+        "missing": 157,
         "orphan": 0
       }
     },
@@ -39527,8 +39527,8 @@
           "sourceContentHash": "sha256:76b291d1998c59bc",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-03T00:36:20.294042+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0dd0c332",
+          "translationLastModified": "2026-08-03T14:04:42+08:00",
           "inferred": false,
           "footnoteDefs": 27,
           "status": "fresh",
@@ -50532,7 +50532,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Nature/trail-culture-and-civic-stewardship.md",
+          "translatedFrom": "Nature/台灣步道文化與公民守護.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:e78dcb70dc9e1c6f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-03T06:23:47.030694+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -100254,7 +100265,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/three-foreigners-witness-1895-taiwan.md",
+          "translatedFrom": "History/三個外國人看乙未.md",
+          "sourceCommitSha": "01d9d0e73",
+          "sourceContentHash": "sha256:dd0456fc58fe6d55",
+          "sourceBodyHash": "sha256:f4c2468d7055a6c1",
+          "translatedAt": "2026-08-03T03:16:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 11,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -110586,8 +110608,8 @@
           "sourceContentHash": "sha256:54b4651158195449",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-03T03:38:31.213686+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "0dd0c332",
+          "translationLastModified": "2026-08-03T14:04:42+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -121948,7 +121970,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Culture/linguistic-diversity-and-mother-tongue-culture.md",
+          "translatedFrom": "Culture/語言多樣性與母語文化.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:0f2cf9fae60042d8",
+          "sourceBodyHash": "sha256:62570a25d7db63f6",
+          "translatedAt": "2026-08-03T03:16:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Culture/linguistic-diversity-and-mother-tongue-culture.md",
