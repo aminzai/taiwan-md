@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-03T11:44:02+08:00",
-    "zhCommitHead": "ec31f5d98",
+    "lastUpdated": "2026-08-03T11:53:21+08:00",
+    "zhCommitHead": "4bddc72b6",
     "totalZh": 877,
     "activeLanguages": [
       "en",
@@ -75,10 +75,10 @@
       },
       "pt": {
         "total_zh": 877,
-        "fresh": 803,
+        "fresh": 804,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 68,
+        "missing": 67,
         "orphan": 0
       },
       "hi": {
@@ -37446,8 +37446,8 @@
           "sourceContentHash": "sha256:46044d1881e9332e",
           "sourceBodyHash": "sha256:ca526dda99de158c",
           "translatedAt": "2026-08-03T03:16:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4bddc72b",
+          "translationLastModified": "2026-08-03T11:44:02+08:00",
           "inferred": false,
           "footnoteDefs": 60,
           "status": "fresh",
@@ -39356,7 +39356,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/united-front-tour-groups.md",
+          "translatedFrom": "Society/統戰團.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:6189acad34e81f7d",
+          "sourceBodyHash": "sha256:a81371a8c3c242ce",
+          "translatedAt": "2026-08-03T03:16:08+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 22,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/united-front-tour-groups.md",
@@ -109206,8 +109217,8 @@
           "sourceContentHash": "sha256:0d7e5732a8513df0",
           "sourceBodyHash": "sha256:f743a82d302f341a",
           "translatedAt": "2026-08-03T03:16:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4bddc72b",
+          "translationLastModified": "2026-08-03T11:44:02+08:00",
           "inferred": false,
           "footnoteDefs": 36,
           "status": "fresh",
@@ -112209,8 +112220,8 @@
           "sourceContentHash": "sha256:68dcc74d52d8c737",
           "sourceBodyHash": "sha256:24b0d8d16f592539",
           "translatedAt": "2026-08-03T03:16:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4bddc72b",
+          "translationLastModified": "2026-08-03T11:44:02+08:00",
           "inferred": false,
           "footnoteDefs": 29,
           "status": "fresh",
