@@ -165,6 +165,27 @@ def compute_review_coverage(articles: list[dict]) -> tuple[float, dict]:
     return round(score, 1), breakdown
 
 
+def load_health_sweep(path: str) -> dict | None:
+    """Read a pre-computed `article-health.py --all --output=json` dump.
+
+    2026-08-04 build-speed: prebuild:dashboard now runs the sweep once and
+    shares the JSON with this script (was: this script re-ran the identical
+    ~15s sweep as a subprocess — the third full scan in a single CI build).
+    Falls back to the subprocess path on any read/parse problem, loudly.
+    """
+    try:
+        p = Path(path)
+        data = json.loads(p.read_text(encoding="utf-8"))
+        if not isinstance(data, dict) or "reports" not in data:
+            print(f"⚠️  --health-in {path}: no 'reports' key — falling back to own sweep",
+                  file=sys.stderr)
+            return None
+        return data
+    except (OSError, json.JSONDecodeError) as e:
+        print(f"⚠️  --health-in {path}: {e} — falling back to own sweep", file=sys.stderr)
+        return None
+
+
 def run_article_health_sweep() -> dict | None:
     """Run article-health.py --all and capture per-file results.
 
@@ -546,9 +567,21 @@ def main():
     review_score, review_breakdown = compute_review_coverage(articles)
     print(f"   review_coverage (tier-weighted): {review_score}", file=sys.stderr)
 
-    # 2. plugin_pass_rate (run article-health full sweep)
-    print(f"   running article-health.py --all (this may take ~2 min)...", file=sys.stderr)
-    health_data = run_article_health_sweep()
+    # 2. plugin_pass_rate — reuse the prebuild sweep when provided (--health-in),
+    # otherwise run our own (standalone invocations, e.g. routine ad-hoc).
+    health_in = None
+    argv = sys.argv[1:]
+    if "--health-in" in argv:
+        idx = argv.index("--health-in")
+        if idx + 1 < len(argv):
+            health_in = argv[idx + 1]
+    health_data = load_health_sweep(health_in) if health_in else None
+    if health_data:
+        print(f"   plugin sweep: reusing {health_in} ({len(health_data.get('reports', []))} reports)",
+              file=sys.stderr)
+    else:
+        print(f"   running article-health.py --all (this may take ~2 min)...", file=sys.stderr)
+        health_data = run_article_health_sweep()
     if health_data:
         plugin_pass_score, plugin_pass_detail = compute_plugin_pass_rate(health_data)
     else:

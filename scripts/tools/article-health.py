@@ -177,6 +177,48 @@ def _cmd_fix(args) -> int:
     return 0
 
 
+def _prose_score_and_reasons(report: HealthReport) -> tuple[int, str]:
+    """Extract the prose-health score + reasons string from a report.
+
+    The score lives in the check's summary violation message
+    (`prose-health score: N — reasons`), independent of profile severity
+    mapping — so a full-sweep report and a prose-health-only report yield
+    identical values.
+    """
+    score = 0
+    reasons = ""
+    for r in report.results:
+        if r.check != "prose-health":
+            continue
+        for v in r.violations:
+            msg = v.message
+            if msg.startswith("prose-health score:"):
+                try:
+                    score = int(msg.split(":")[1].strip().split()[0])
+                except (IndexError, ValueError):
+                    score = 0
+                if "—" in msg:
+                    reasons = msg.split("—", 1)[1].strip()
+    return score, reasons
+
+
+def _write_baseline_file(out_path: Path, total: int, flagged_files: list[dict],
+                         announce=print) -> None:
+    """Serialize legacy `.quality-baseline.json` schema (see _cmd_write_baseline)."""
+    import datetime
+    out = {
+        "version": "ssot-1.0",
+        "timestamp": datetime.datetime.now(datetime.timezone.utc)
+            .strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "total": total,
+        "flagged": len(flagged_files),
+        "files": flagged_files,
+    }
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+    announce(f"✅ Wrote {total} scanned, {len(flagged_files)} flagged (score≥4) to {out_path}")
+
+
 def _cmd_write_baseline(out_path: Path, config_path: str | None) -> int:
     """Write prose-health scores to legacy `.quality-baseline.json` schema
     consumed by `scripts/core/generate-dashboard-data.js`.
@@ -190,7 +232,6 @@ def _cmd_write_baseline(out_path: Path, config_path: str | None) -> int:
     and dashboard.template.astro qLabel logic). The dashboard reads this map
     and defaults to 0 (pass) for any article not present.
     """
-    import datetime
     config = load_config(config_path)
     files = _get_all_zh()
     flagged_files: list[dict] = []
@@ -201,35 +242,31 @@ def _cmd_write_baseline(out_path: Path, config_path: str | None) -> int:
         total += 1
         target = load_target(f)
         report = run_checks(target, config, check_name="prose-health")
-        score = 0
-        reasons = ""
-        for r in report.results:
-            if r.check != "prose-health":
-                continue
-            for v in r.violations:
-                msg = v.message
-                if msg.startswith("prose-health score:"):
-                    try:
-                        score = int(msg.split(":")[1].strip().split()[0])
-                    except (IndexError, ValueError):
-                        score = 0
-                    if "—" in msg:
-                        reasons = msg.split("—", 1)[1].strip()
+        score, reasons = _prose_score_and_reasons(report)
         if score >= 4:
             rel = f"{target.category.lower()}/{f.name}"
             flagged_files.append({"file": rel, "score": score, "reasons": reasons})
-    out = {
-        "version": "ssot-1.0",
-        "timestamp": datetime.datetime.now(datetime.timezone.utc)
-            .strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "total": total,
-        "flagged": len(flagged_files),
-        "files": flagged_files,
-    }
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"✅ Wrote {total} scanned, {len(flagged_files)} flagged (score≥4) to {out_path}")
+    _write_baseline_file(out_path, total, flagged_files)
     return 0
+
+
+def _write_baseline_from_reports(out_path: Path, reports: list[HealthReport]) -> None:
+    """Derive the baseline from an already-completed full sweep — the sweep's
+    prose-health results are identical to a dedicated `--baseline-out` run
+    (same config-level options, no profile), so one scan feeds both the
+    dashboard baseline and the immune JSON instead of scanning twice.
+    Announces on stderr so `--output=json` stdout stays parseable.
+    """
+    flagged_files: list[dict] = []
+    for report in reports:
+        score, reasons = _prose_score_and_reasons(report)
+        if score >= 4:
+            rel = f"{report.target.category.lower()}/{report.target.path.name}"
+            flagged_files.append({"file": rel, "score": score, "reasons": reasons})
+    _write_baseline_file(
+        out_path, len(reports), flagged_files,
+        announce=lambda m: print(m, file=sys.stderr),
+    )
 
 
 def _resolve_prose_health_options(config: Config, profile: ProfileConfig | None) -> dict:
@@ -414,7 +451,10 @@ def main() -> int:
     )
     args = parser.parse_args()
 
-    if args.baseline_out:
+    # Dedicated baseline run (legacy behavior: implies --all + prose-health only).
+    # With --all the baseline is derived from the full sweep instead — one scan
+    # feeds both outputs (2026-08-04 build-speed: CI ran the same sweep twice).
+    if args.baseline_out and not args.all:
         return _cmd_write_baseline(Path(args.baseline_out), args.config)
 
     if args.fix:
@@ -450,6 +490,11 @@ def main() -> int:
             target, config, profile_name=args.profile, check_name=args.check
         )
         reports.append(report)
+
+    # Sweep-mode baseline (see dispatch note above): derive from this sweep's
+    # prose-health results, no second scan.
+    if args.baseline_out and args.all:
+        _write_baseline_from_reports(Path(args.baseline_out), reports)
 
     # Resolve fail_on once for both display + exit code
     profile = config.get_profile(args.profile)
