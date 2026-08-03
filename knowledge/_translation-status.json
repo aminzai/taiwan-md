@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T01:58:53+08:00",
-    "zhCommitHead": "84d4d6635",
+    "lastUpdated": "2026-08-04T02:06:59+08:00",
+    "zhCommitHead": "996bf3de9",
     "totalZh": 879,
     "activeLanguages": [
       "en",
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 879,
-        "fresh": 487,
+        "fresh": 488,
         "stale": 3,
         "metadata_stale": 1,
-        "missing": 388,
+        "missing": 387,
         "orphan": 0
       },
       "pt": {
@@ -3778,7 +3778,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Music/indigenous-music-traditions.md",
+          "translatedFrom": "Music/台灣原住民音樂傳統.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:c9aa499e9c84c71a",
+          "sourceBodyHash": "sha256:b2e261c439c4d6f4",
+          "translatedAt": "2026-08-03T21:46:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Music/indigenous-music-traditions.md",
@@ -82763,8 +82774,8 @@
           "sourceContentHash": "sha256:c4ee8c6545170422",
           "sourceBodyHash": "sha256:9a80a8cbdaaaf3e7",
           "translatedAt": "2026-08-04T00:57:49+08:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translationLastCommit": "996bf3de",
+          "translationLastModified": "2026-08-04T01:58:53+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",

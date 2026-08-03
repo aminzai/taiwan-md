@@ -33,10 +33,10 @@ sporeLinks:
     "{'id': 88, 'platform': 'x', 'date': '2026-05-25', 'url': 'https://x.com/taiwandotmd/status/2058735515021783190'}",
   ]
 translatedFrom: 'Technology/半導體產業.md'
-sourceCommitSha: 'c85a9b6f7'
-sourceContentHash: 'sha256:b496186c7d76e85e'
-sourceBodyHash: 'sha256:3bf42ee02082c616'
-translatedAt: '2026-07-27T07:12:41+08:00'
+sourceCommitSha: '6ffd92f94'
+sourceContentHash: 'sha256:575572d1dd581d19'
+sourceBodyHash: 'sha256:d37164a7592bd08a'
+translatedAt: '2026-08-03T16:36:44.361859+00:00'
 ---
 
 # Industri Semikonduktor: Revolusi Material 50 Tahun dari Transfer Teknologi RCA hingga GaN dan Paket Kuantum
@@ -246,33 +246,34 @@ Taman Sains Hsinchu didirikan tahun 1980, 40+ tahun menumpuk hingga lebih dari 5
 
 Siapa pesaingnya? Strategi terintegrasi vertikal Samsung Korea Selatan berinvestasi 230 miliar dolar AS 2022-2026, tetapi yield proses manufaktur canggih masih tertinggal TSMC[^4]. Intel macet di 10 nm selama bertahun-tahun,提出 IDM 2.0 tahun 2021 ingin兼营 desain dan foundry, tetapi hingga 2025 bisnis foundry belum mendapatkan klien utama — yang paling ironis adalah beberapa chip tingkat tinggi Intel sendiri, justru di-foundry-kan oleh TSMC.
 
-## Posisi Kuantum Masih Kosong
+## Posisi Era Kuantum Masih Kosong
 
-Pengisi daya Nokia 3310 berdaya 4,56 watt, pengisi daya cepat 2025 adalah 240 watt. Bedanya 52 kali. Jalan ini silikon berjalan 30 tahun, GaN menggunakan 5 tahun untuk melengkapi.
+Daya pengisi daya Nokia 3310 sebesar 4,56 watt, sedangkan pengisi cepat tahun 2025 mencapai 240 watt. Selisihnya 52 kali lipat. Jalur ini ditempuh silikon selama 30 tahun, sedangkan nitida galium (GaN) mengejar ketinggalan dalam 5 tahun.
 
-Di laboratorium kuantum IAS, chip kuantum superkonduktor perlu beroperasi di 15 milielectronvolt (sekitar -273°C). Chip kontrol yang dibuat oleh IRIS menggunakan proses 28 nm TSMC, mengompres "volume instrumen kontrol" yang dibutuhkan suhu sangat rendah ini dari satu gedung menjadi kotak kecil. Kemampuan semikonduktor Taiwan, secara bertahap menggeser batas komputer kuantum.
+Di laboratorium kuantum Akademi Sinica, chip kuantum superkonduktor memerlukan suhu 15 millikelvin (sekitar −273 °C) untuk beroperasi. ITRI menggunakan proses 28 nanometer TSMC untuk menghasilkan chip kontrol, yang memampatkan «volume instrumen kontrol» yang dibutuhkan di suhu ekstrem rendah tersebut dari seukuran gedung menjadi ukuran kotak kecil. Kemampuan semikonduktor Taiwan, sedang sedikit demi sedikit menggeser batas komputer kuantum.
 
-Tapi di mana batas ini, tidak ada yang dapat mengatakan dengan jelas. Waktu koherensi qubit dari 15 mikrodetik ke 530 mikrodetik, ini baru awal. 50 tahun yang lalu, 19 insinyur yang dikirim RCA mungkin juga tidak tahu bahwa tahun 1973 mereka akan mengkristal menjadi 2 nm 2025.
+Namun tidak ada yang bisa menjelaskan dengan jelas batas itu di mana. Waktu koherensi bit kuantum berkisar dari 15 mikrodetik hingga 530 mikrodetik — ini baru permulaan. 19 insinyur yang dikirim RCA 50 tahun lalu mungkin juga tidak mengetahui bahwa tahun 1973 mereka akan mengkristalisasi menjadi 2 nanometer tahun 2025.
 
-Gunung Suci Pelindung menguasai sekarang dengan pengalaman 50 tahun. 50 tahun berikutnya, posisi foundry era kuantum, Taiwan belum merebutnya.
+Gunung Penyelamat Negara (TSMC) berkuasa saat ini berkat pengalaman 50 tahun industri. Untuk 50 tahun ke depan, posisi foundry era kuantum, belum diraih oleh Taiwan.
 
-> ✦ Inferensi Blackwell Jensen Huang di awan di atas kepala Anda, panas wafer SiC GlobalWafers di tiang pengisian daya mobil listrik di depan pintu rumah Anda, film ALD pertama yang dibuat Suntola 1974 di Finlandia menutup lapisan isolasi gate di chip ponsel Anda — semikonduktor selalu naik satu per satu sepanjang garis waktu material fisika celah pita selama 50 tahun, tidak hanya milik satu TSMC. Langkah berikutnya di mana, fisika akan memberi tahu kita, tetapi apakah akan naik, adalah pilihan Taiwan.
+> ✦ Blackwell buatan Jensen Huang berinferensi di awan di atas kepalamu, wafer SiC GlobalWafers memanaskan stasiun pengisian kendaraan listrik di depan rumahmu, film tipis ALD pertama buatan Suntola 1974 di Finlandia mengunci lapisan isolasi gerbang di chip ponselmu — semikonduktor sejak dulu memang seluruh spektrum material memanjat tahap demi tahap mengikuti fisika band gap selama 50 tahun, bukan milik TSMC semata. Di mana tahap selanjutnya, fisika yang akan memberitahu, tapi apakah mau dipanjat, itu pilihan Taiwan.
 
 ---
 
-**Bacaan Lanjutan**:
+**Baca Lanjutan**:
 
-- [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Tata kelola perusahaan, struktur keuangan, skala pengeluaran modal Gunung Suci Pelindung
-- [Perusahaan Taiwan: MediaTek](/id/economy/mediatek) — Bagaimana pemimpin desain IC menempati posisi di chip ponsel, komputasi tepi AI
-- [Perusahaan Taiwan: ASE Group](/economy/台灣企業：日月光半導體) — Top dunia industri paket dan pengujian, ekosistem tahap akhir di luar CoWoS
-- [Pembuat Gunung: Taruhan Abad](/id/art/mountain-makers-tsmc-documentary) — Dokumenter 2025 Xiao Ju-zhen, wawancara 5 tahun 80+ senior semikonduktor, 2026 masuk tiga pusat investasi CHIPS Act Purdue/Wisconsin/Michigan
-- [Wu Da-you](/people/吳大猷) — Taiwan merakit semikonduktor 1980-an, menjabat sebagai Presiden IAS, menekankan pentingnya sains dasar, meletakkan fondasi sistem penelitian Taiwan
-- [Industri Robot Taiwan](/technology/台灣機器人產業) — Pulau pertama semikonduktor dunia, mengapa di era robot adalah siswa pengulang? Melihat kesenjangan industri dari pembukaan NCAIR
-- [Pasar Saham dan Modal Taiwan](/economy/台灣股市與資本市場) — Bagaimana seluruh ekosistem rantai pasok yang menopang status Taiwan sebagai pasar saham ke-6 terbesar dunia 2026 ditampilkan di pasar modal
-- [Rantai Pasok Tungsten Taiwan](/technology/台灣鎢供應鏈) — Wolfram heksafluorida mengisi jendela kontak dan garis karakter 3D NAND, Taiwan tidak memiliki tambang tungsten tetapi berdiri di tengah rantai material ini melalui daur ulang dan pemurnian
-- [Sekolah AI Taiwan](/id/technology/taiwan-ai-academy) — Bagaimana 10.000 insinyur AI yang dilatih AIA selama 8 tahun kembali ke rantai ICT semikonduktor yang ada, memperkuat sisi perangkat lunak Taiwan
-- [Computex: Tiga Pameran Komputer Internasional Menutup Dua, Sisa Satu Tumbuh di Taipei](/technology/Computex) — CoWoS TSMC dan proses manufaktur canggih, setiap akhir Mei berjabat tangan dengan raksasa AI global di pameran komputer Taipei 45 tahun ini
-- [Taman Sains Taiwan](/id/technology/science-park-development) — Tiga taman Zhubei, Nanke, Zhongke,载体 fisik klaster semikonduktor, juga pusat geografis Perisai Silikon
+- [Perusahaan Taiwan: TSMC](/id/economy/tsmc) — Tata kelola perusahaan, struktur keuangan, skala belanja modal Gunung Penyelamat Negara
+- [Perusahaan Taiwan: MediaTek](/id/economy/mediatek) — Bagaimana raja desain IC menempati posisi di chip ponsel dan komputasi tepi AI
+- [Perusahaan Taiwan: ASE Semiconductor](/economy/台灣企業：日月光半導體) — Industri _assembly_ dan _testing_ nomor satu global, ekosistem proses pasca-CoWoS
+- [Pembangun Gunung: Taruhan Abad](/id/art/mountain-makers-tsmc-documentary) — Film dokumenter 2025 karya Hsiao Ju-chen, lima tahun wawancara 80+ veteran semikonduktor, 2026 masuk ke tiga lokasi investasi CHIPS Act utama: Purdue, Wisconsin, Michigan
+- [Wu Ta-you](/people/吳大猷) — Pada era 1980-an Taiwan berjuang bangun semikonduktor, ia sebagai ketua Akademi Sinica menegaskan pentingnya sains fundamental, meletakkan fondasi sistem penelitian Taiwan
+- [Huang Chung-jen](/people/黃崇仁) — Pendiri Powerchip/Powerchip Technology, jalan DRAM Taiwan yang membangun pabrik sendiri di atas lisensi proses orang lain: pangsa pasar turun dari 23,2% ke 6,3%, kisah paling jarang dibicarakan industri ini
+- [Industri Robot Taiwan](/id/technology/taiwan-robotics-industry) — Pulau nomor satu semikonduktor dunia, kenapa jadi murid belajar di era robot? Melihat keterbukaan NCAIR dan celah industri
+- [Bursa Saham dan Pasar Modal Taiwan](/economy/台灣股市與資本市場) — Bagaimana seluruh ekosistem rantai pasokan yang menopang identitas bursa Taiwan 2026 sebagai global ke-6 terwujud di pasar modal
+- [Rantai Pasokan Tungsten Taiwan](/id/technology/taiwan-tungsten-supply-chain) — Hexafluorida tungsten mengisi jendela kontak dan _word line_ 3D NAND, Taiwan tak punya tambang tungsten tapi berkat daur ulang dan pemurnian menempati posisi hulu rantai pasokan ini
+- [Sekolah Kecerdasan Buatan Taiwan](/id/technology/taiwan-ai-academy) — Sepuluh ribu insinyur AI latih AIA delapan tahun, bagaimana kembali ke rantai ICT semikonduktor既有, memperkuat sisi perangkat lunak Taiwan
+- [Computex: Tiga Pameran Komputer Internasional Tutup Dua, Sisanya Berada di Taipei](/id/technology/computex) — CoWoS dan proses mutakhir TSMC, setiap akhir Mei berjabat tangan dengan raksasa AI global di pameran Taipei berusia 45 tahun ini
+- [Taman Sains Taiwan](/id/technology/science-park-development) — Tiga taman: Hsinchu, Tainan, Taichung, badan fisik kluster semikonduktor, juga pusat geografis _Silicon Shield_
 
 ## Sumber Gambar
 
