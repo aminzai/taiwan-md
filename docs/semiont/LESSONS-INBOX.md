@@ -6,7 +6,7 @@ status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.3'
 last_updated: 2026-08-03
-last_session: '2026-08-03-140210-manual（黃崇仁 REWRITE，+2 未消化：neutral-tone-conflated-with-minimized-substance 中立管語氣不管份量、concrete-number-mistaken-for-symbolic-weight 數字具體但無象徵重量；後者已 instantiate 為 EDITORIAL v6.14 Title 第 5 原則）'
+last_session: '2026-08-03-140210-manual（黃崇仁 REWRITE，+3 未消化：中立管語氣不管份量、數字具體但無象徵重量、後台洩漏；後二者已 instantiate 為 EDITORIAL v6.14 Title 第 5 原則 + v6.15 §後台洩漏＋prose-health §backstage 儀器）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -331,6 +331,19 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ---
 
 ## 未消化清單（📥 待 distill）
+
+### 2026-08-03 manual（黃崇仁 REWRITE）— backstage-leak-in-prose：作者的工作痕跡跑進正文，每句單獨看都過關
+
+- **pattern**: `backstage-leak-in-prose`
+- **原則**：pipeline 給寫手的每一份規格（投影藍圖的「全局功能」、研究報告的護欄、查證表的分歧欄）都是**用來指導寫作的語言**。寫手在 context 裡讀了一整輪，下筆時很自然把那套語言帶進正文——而且它覺得自己很盡責（「我有交代清楚」「我有誠實標註分歧」）。**盡責的地方是後台，不是正文。** 這個病特別難自檢，因為每一句單獨看都有內容、不空洞、不歐化，**過得了既有的所有關卡**；它壞在說話對象錯了——這些句子是說給編輯／查核者／作者自己聽的，不是說給讀者聽的。一句判準：這句話在跟誰說話？
+- **觸發**：2026-08-03 黃崇仁 Stage 2 寫手成品，自評 `article-health --profile=rewrite-stage-4` hard=0 warn=0 全綠，哲宇讀完逐條 callout 四處：(1)「兩件事的動詞不一樣，判斷是同一套」——「這也聽起來很AI，誰會在看這個時候想到動詞XDDDD」(2)「要說清楚回來的是什麼樣的公司。」——「是段落寫作動機，不該是段落的一部分」(3)「這一段誠實的空白值得留著。」——「語感怪」(4)「這句話有兩個版本在流傳，另一家媒體的版本沒有…」——「所以你要採用完整的內容，不是在裡面分析媒體」。四處分屬四種形狀：分析框架洩漏／寫作動機洩漏／自我評價洩漏／查證過程洩漏。
+- **可能層級**：通用反射候選（不限本篇——任何走 pipeline 的寫作都會被規格語言 prime），但目前 1 instance（雖然同一篇內四種形狀齊發）。已 instantiate 為 EDITORIAL 規則 + 儀器，先觀察其他文章是否復發
+- **相關**：harness memory `feedback_red_line_anxiety_leak`（別把「逐字」「原封不動」這類來源焦慮標籤漏進正文）是本條第三、四類的一個特例——本條把它從「來源焦慮」擴大到整個後台家族（分析鷹架／寫作指令／自我表揚／查證過程）。另與 REFLEXES #69「每層自評都需要外部尺」同族：寫手 warn=0 的自評不是說謊，是**它的尺量不到這一維**——後台洩漏對寫手而言是「盡責的證據」不是「該刪的東西」，同一顆腦不會把自己的盡責當缺陷。
+- **已 instantiate（規則 + 儀器雙軌）**：
+  - [EDITORIAL v6.15](../editorial/EDITORIAL.md) §六 新增 §後台洩漏（廚房的聲音跑到餐廳）：四種形狀 × 四個真實反例 × 改法對照表 + 「這句話在跟誰說話」判準
+  - `prose-health` plugin §backstage 四組偵測（WARN-only soft-launch）。**878 篇 zh corpus 校準**：初版 43 hits 誤報率高（「值得一提的是」25 篇全誤報＝中文常見過場語非指令複讀；裸抓「有兩個版本」9/10 誤報＝作品版本／民間傳說／史實爭議／災難統計分歧都正當；「名詞變成」4/5 誤報＝有意識的修辭用法）→ 依 REFLEXES #66 用真實產出收緊 → **終版 8 hits / 878 篇（0.91%），零誤報**
+  - 校準副產品：「誠實的空白」這個詞在 AAMA、柯智棠、黃崇仁**三篇不同文章**出現，是跨文章的慣性口頭禪，靠人眼永遠抓不到——儀器化才浮出來（REFLEXES #15 的又一次驗證）
+- **verification_count**: 1
 
 ### 2026-08-03 manual（黃崇仁 REWRITE）— concrete-number-mistaken-for-symbolic-weight：數字通過了「不抽象」那關，卻沒通過「有意義」那關
 
