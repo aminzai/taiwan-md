@@ -24,6 +24,16 @@ APPLIES_TO 設計：
   路徑必須在 docs/factory/SPORE-BLUEPRINTS/ 或 docs/factory/SPORE-HARVESTS/
   其他文章的開頭可以是日期（時間軸型 D 模板就是合法的），所以這條規則不普適。
 
+  Wave 3 (2026-08-04, 黃崇仁 #165 兩輪歐化 callout):
+  - 歐化開場病 (§歐化 8e + 8e-bis, EDITORIAL canonical)
+    孢子本體 fence 內的英文式短句開場（「他兩條都沒走。」+ 接長句）與
+    英式段首宣告慣用式。偵測器 reuse prose_health（指標 over 複寫，
+    REFLEXES #17）——只掃 fence 內純孢子 prose，不掃 blueprint 的表格
+    /版本註解（整檔掃 = 訊噪比 1:13，量錯層）。
+    觸發：#165 v5「他兩條都沒走。」哲宇 callout 時 prose-health 早就抓得到，
+    但孢子產線的 gate 從未含歐化維度；作者 v6 改寫時甚至用「接話式呼應」
+    自我豁免又寫出「他兩個都不接。」同病句——耳朵會習慣自己的腔，regex 不會。
+
 Future extensions (deferred):
   - Rule #16 Scene-List-Scene 結構 (need LLM-as-judge, not pure regex)
   - Rule #8 同名連用 ≥3 (token analysis, 需要中文斷詞)
@@ -39,6 +49,10 @@ import re
 from typing import Any, Iterator
 
 from ..types import FileTarget, Severity, Violation
+
+# 歐化偵測器 reuse prose_health canonical（指標 over 複寫，REFLEXES #17）——
+# 孢子層自己維護一份 regex 必然漂移（EDITORIAL 歐化病種演進時這裡會被遺忘）。
+from .prose_health import _detect_english_openers, _RE_DECLARATIVE_OPENER_IDIOM
 
 
 CHECK_NAME = "spore-writing"
@@ -377,5 +391,61 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
                     "拆 monolithic prose 成 4-5 paragraph：時間軸 cut 處切段 + "
                     "場景轉換處切段 + 引語前後切段。"
                     "對應 SOCIAL-POSTING-PIPELINE pre-ship check 7 (compose block ≥ 4)。"
+                ),
+            )
+
+    # ── Wave 3: 歐化開場病 (§歐化 8e + 8e-bis on fence body only) ──
+    # 2026-08-04 黃崇仁 #165：v5「他兩條都沒走。」哲宇 callout 為歐化時，
+    # prose-health 的 8e 偵測器早就抓得到——但孢子產線的 gate 從未含歐化維度，
+    # 而整檔跑 prose-health 的訊噪比是 1:13（blueprint 表格/版本註解全是假陽性）。
+    # 修法：偵測器 reuse prose_health（指標 over 複寫），掃描面收斂到 fence 內
+    # 純孢子 prose——量「真的那層」。
+    #
+    # Scope 兩道收斂（2026-08-04 dogfood 141 檔校準）：
+    #   (a) 只掃 spore-blueprints/，排除 SPORE-HARVESTS/——收割紀錄檔的 fence 是
+    #       engagement log 不是待 ship prose（dogfood 抓到「→ Dimension: 建議」FP）
+    #   (b) 只在真 fence 存在時掃——legacy 無 fence 檔走 Priority B fallback 會把
+    #       meta prose 當本體（dogfood #117「全部 ✅ → 放行 prose。」FP）。
+    #       Rule #14 已在逼 fence convention，這裡不重複懲罰 planning 檔。
+    #
+    # body_text 從 fence 內首行到檔尾（_strip_frontmatter_and_meta 的既有邊界，
+    # Rule #14/#15 只看第一行所以夠用）；這裡在第一個閉合 ``` 切斷取純本體。
+    path_str = str(target.path)
+    is_blueprint_file = "spore-blueprints" in path_str or "SPORE-BLUEPRINTS" in path_str
+    has_real_fence = "\n```" in body_text  # Priority A 選中 fence 時，閉合 ``` 必在 body 內
+    fence_body = body_text.split("\n```", 1)[0] if (is_blueprint_file and has_real_fence) else ""
+    if fence_body.strip():
+        for off, opener, olen, nlen in _detect_english_openers(fence_body)[:4]:
+            line_no = body_start + 1 + fence_body[:off].count("\n")
+            yield Violation(
+                check=CHECK_NAME,
+                severity=Severity.WARN,
+                message=(
+                    f"歐化短句開場 (§歐化 8e，孢子本體)：開場{olen}字→接{nlen}字"
+                    f"「{opener}」"
+                ),
+                line=line_no,
+                snippet=opener[:60],
+                editorial_ref="EDITORIAL.md §歐化語法 §英文式短句開場 + SPORE-WRITING.md §寫完念三遍",
+                fix_suggestion=(
+                    "英文 topic-sentence 腔：超短句定調再展開（「他兩條都沒走。按他自己的說法⋯」）。"
+                    "孢子 300 字裡每句都顯眼。把拒絕/轉折寫成動作本身（「他後來受訪時說，那時候"
+                    "一個都沒選，寫信給四十三家銀行⋯」），不孤立一句短宣告當引子。"
+                    "⚠️ 禁自創豁免類別（「接話式呼應」「節奏需要」）——要豁免必須寫進 blueprint "
+                    "留痕（同字數超標決策 pattern），不准 inline 自我裁決。"
+                ),
+            )
+        for m in list(_RE_DECLARATIVE_OPENER_IDIOM.finditer(fence_body))[:4]:
+            line_no = body_start + 1 + fence_body[:m.start()].count("\n")
+            yield Violation(
+                check=CHECK_NAME,
+                severity=Severity.WARN,
+                message=f"英式段首宣告慣用式 (§歐化 8e-bis，孢子本體)：「{m.group(0)[:40]}」",
+                line=line_no,
+                snippet=m.group(0)[:40],
+                editorial_ref="EDITORIAL.md §歐化語法 §英文式短句開場",
+                fix_suggestion=(
+                    "「真正的轉折發生在⋯」是跨篇簽名檔。把判斷融進資訊句，"
+                    "讓「這是轉折」由事件自己長出來。"
                 ),
             )

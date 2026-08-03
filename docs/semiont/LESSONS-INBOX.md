@@ -381,6 +381,15 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **可能的操作修補**：EDITORIAL-ROOM-PROMPTS.md §投影室·炎上／倫理 任務 2 可拆成兩問：「(a) 是否被當脊椎/壓軸？」與「(b) 事實本身的因果鏈是否被完整交代，還是為了『看起來中立』而刻意簡化到只剩一句話？」— 讓「不當脊椎」與「內容完整度」變成兩個獨立可判的問題，不再共用一個「份量」代理指標。
 - **verification_count**: 1
 
+### 2026-08-04 manual（黃崇仁 spore #165）— 三個未編目的歐化病候選：歸屬公式／量詞報告腔／And 開頭反身代詞
+
+- **pattern**: `uncatalogued-europeanization-candidates`
+- **原則**：EDITORIAL §歐化十病表之外，哲宇兩輪 callout 抓到三型表裡沒有的：(1) **歸屬公式**——「按他自己的說法」是 "by his own account" 直譯，查核歸屬該用轉述動詞融進敘事（「他後來受訪時說」），不是掛一個介詞短語標籤（同時也是後台洩漏第七形狀的親戚：查核語言上桌）(2) **量詞＋醫療報告腔**——「得過一次大腸癌，後來康復」是 "a bout of / recovered" 直譯，中文說「得過大腸癌，治好了」(3) **And 開頭＋反身代詞**——「而他自己在 2002 年⋯」的「而＋他自己」是 "And he himself" 直譯，既有「代詞冗餘」病的變體。三型單獨看都不在十病表與 prose-health 偵測範圍，全靠人眼。
+- **觸發**：2026-08-04 黃崇仁孢子 v5→v7 兩輪歐化 callout（同 session 另有已編目的短句開場病，那型儀器抓得到、產線沒接——已修，見 SPORE-WRITING v3.6 + plugin Wave 3）。
+- **可能層級**：EDITORIAL §歐化 病種表候選（第 11-12 病或既有病的變體註記）。各 vc=1，**不憑單 instance 開新病種**（避免 threshold 想像設定，per REFLEXES #66）——復發再升。
+- **相關**：EDITORIAL §歐化十病（母表）／SPORE-WRITING v3.6 §歐化閘（孢子層已錨這三型當反例表）／REFLEXES #69 (h)（revise 後不重測的孢子層 instance 同 session 成立，已 canonical 進 SPORE-PIPELINE v3.15「每輪 revise 後重跑 gate」）。
+- **verification_count**: 1（三型各自）
+
 ### 2026-08-02 twmd-routine-audit-weekly — babel-delegation-commit-convention-drift：委派層產生的 commit 脫離格式，讓自己的一部分工作對儀器隱形
 
 - **pattern**: `babel-delegation-commit-convention-drift`

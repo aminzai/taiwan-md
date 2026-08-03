@@ -324,7 +324,9 @@ python3 scripts/tools/article-health.py docs/factory/spore-blueprints/{N}-{slug}
 - **事實查核表**（[SPORE-VERIFY.md §事實查核閘](SPORE-VERIFY.md)）— 7 類 claim audit，全 ✅ 才放行 prose
 - **§11 書寫節制**（[SPORE-VERIFY.md §§11 書寫節制閘](SPORE-VERIFY.md)）— `article-health.py --check=prose-health` HARD=0
 - **三板斧自檢**（[SPORE-WRITING.md §深層 pattern 自檢三板斧](SPORE-WRITING.md)）— 不是 / 破折號 / 不僅 各條 ≤ 1 次
-- **🆕 紀實文學終局自檢（v3.9）**（[SPORE-WRITING.md §紀實文學 voice 五個微調方向 + 終局自檢](SPORE-WRITING.md)）— 過上面三 gate 後問「**有辦法再微調 更接近紀實文學與大家的生活，語感與故事更完整順暢嗎？**」逐條過五方向（地點起手 / 拿掉口號 / 接回生活 / 長句連貫 / 首尾呼應 image 收尾），能再進一階就再改一輪。**過 gate 是地板不是天花板**，routine 無 observer 也至少自改一輪。觸發：2026-06-06 國宅 #126 哲宇 directive「未來都要照這個品質與方向來寫」
+- **🆕 歐化閘（v3.15，2026-08-04 黃崇仁 #165）**（[SPORE-WRITING.md §歐化是孢子的高風險病](SPORE-WRITING.md)）— `--check=spore-writing` 已含 fence 本體 §歐化 8e/8e-bis 偵測（Wave 3）。命中不准現場發明豁免類別，要豁免必須寫進 blueprint 留痕
+- **🆕 每輪 revise 後重跑 gate（v3.15）** — callout → 改寫 → **重跑 `--check=spore-writing` 再送**，不得以重讀代替。#165 v6 revise 後沒重跑，儀器抓得到的歐化句帶著口頭豁免出門，下一輪被哲宇抓（[REFLEXES #69 (h)](../semiont/REFLEXES.md) 的孢子層 instance）
+- **🆕 紀實文學終局自檢（v3.9）**（[SPORE-WRITING.md §紀實文學 voice 五個微調方向 + 終局自檢](SPORE-WRITING.md)）— 過上面 gate 後問「**有辦法再微調 更接近紀實文學與大家的生活，語感與故事更完整順暢嗎？**」逐條過五方向（地點起手 / 拿掉口號 / 接回生活 / 長句連貫 / 首尾呼應 image 收尾）＋人物題必問「**讀者知道這個人想要什麼嗎**」（夢比性格重要，v3.15），能再進一階就再改一輪。**過 gate 是地板不是天花板**，routine 無 observer 也至少自改一輪。觸發：2026-06-06 國宅 #126 哲宇 directive「未來都要照這個品質與方向來寫」
 
 ---
 
