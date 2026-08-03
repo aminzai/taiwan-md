@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-31T22:13:48.460Z",
+  "generated_at": "2026-08-02T22:13:55.689Z",
   "routines": {
-    "fetched_at": "2026-07-31T06:16:03+08:00",
+    "fetched_at": "2026-08-02T06:15:45+08:00",
     "stale_hours": 24,
     "items": [
       {
@@ -10,16 +10,8 @@
         "cadence_human": "每天 07:00",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-07-31T07:09:55+08:00",
+        "last_fire": "2026-08-02T07:09:04+08:00",
         "grid14": [
-          {
-            "date": "2026-07-19",
-            "state": "fired"
-          },
-          {
-            "date": "2026-07-20",
-            "state": "missed"
-          },
           {
             "date": "2026-07-21",
             "state": "missed"
@@ -66,6 +58,14 @@
           },
           {
             "date": "2026-08-01",
+            "state": "fired"
+          },
+          {
+            "date": "2026-08-02",
+            "state": "fired"
+          },
+          {
+            "date": "2026-08-03",
             "state": "idle"
           }
         ]
@@ -79,14 +79,6 @@
         "last_fire": "2026-07-19T00:38:37+08:00",
         "grid14": [
           {
-            "date": "2026-07-19",
-            "state": "fired"
-          },
-          {
-            "date": "2026-07-20",
-            "state": "missed"
-          },
-          {
             "date": "2026-07-21",
             "state": "missed"
           },
@@ -132,6 +124,14 @@
           },
           {
             "date": "2026-08-01",
+            "state": "missed"
+          },
+          {
+            "date": "2026-08-02",
+            "state": "missed"
+          },
+          {
+            "date": "2026-08-03",
             "state": "missed"
           }
         ]
@@ -142,16 +142,8 @@
         "cadence_human": "每天 06:00",
         "enabled": true,
         "status": "degraded",
-        "last_fire": "2026-07-31T06:11:56+08:00",
+        "last_fire": "2026-08-02T06:14:42+08:00",
         "grid14": [
-          {
-            "date": "2026-07-19",
-            "state": "fired"
-          },
-          {
-            "date": "2026-07-20",
-            "state": "missed"
-          },
           {
             "date": "2026-07-21",
             "state": "missed"
@@ -198,6 +190,14 @@
           },
           {
             "date": "2026-08-01",
+            "state": "fired"
+          },
+          {
+            "date": "2026-08-02",
+            "state": "fired"
+          },
+          {
+            "date": "2026-08-03",
             "state": "missed"
           }
         ]
@@ -208,16 +208,8 @@
         "cadence_human": "每週日 03:00",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-07-26T03:15:27+08:00",
+        "last_fire": "2026-08-02T03:14:21+08:00",
         "grid14": [
-          {
-            "date": "2026-07-19",
-            "state": "fired"
-          },
-          {
-            "date": "2026-07-20",
-            "state": "idle"
-          },
           {
             "date": "2026-07-21",
             "state": "idle"
@@ -264,6 +256,14 @@
           },
           {
             "date": "2026-08-01",
+            "state": "idle"
+          },
+          {
+            "date": "2026-08-02",
+            "state": "fired"
+          },
+          {
+            "date": "2026-08-03",
             "state": "idle"
           }
         ]
@@ -274,16 +274,8 @@
         "cadence_human": "每天 05:00",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-08-01T05:34:56+08:00",
+        "last_fire": "2026-08-03T05:34:53+08:00",
         "grid14": [
-          {
-            "date": "2026-07-19",
-            "state": "fired"
-          },
-          {
-            "date": "2026-07-20",
-            "state": "missed"
-          },
           {
             "date": "2026-07-21",
             "state": "missed"
@@ -330,6 +322,14 @@
           },
           {
             "date": "2026-08-01",
+            "state": "fired"
+          },
+          {
+            "date": "2026-08-02",
+            "state": "fired"
+          },
+          {
+            "date": "2026-08-03",
             "state": "fired"
           }
         ]
@@ -343,14 +343,6 @@
         "last_fire": null,
         "grid14": [
           {
-            "date": "2026-07-19",
-            "state": "idle"
-          },
-          {
-            "date": "2026-07-20",
-            "state": "idle"
-          },
-          {
             "date": "2026-07-21",
             "state": "idle"
           },
@@ -396,6 +388,14 @@
           },
           {
             "date": "2026-08-01",
+            "state": "missed"
+          },
+          {
+            "date": "2026-08-02",
+            "state": "idle"
+          },
+          {
+            "date": "2026-08-03",
             "state": "idle"
           }
         ]
@@ -406,16 +406,8 @@
         "cadence_human": "每天 08:30",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-07-31T08:58:14+08:00",
+        "last_fire": "2026-08-02T08:49:57+08:00",
         "grid14": [
-          {
-            "date": "2026-07-19",
-            "state": "fired"
-          },
-          {
-            "date": "2026-07-20",
-            "state": "missed"
-          },
           {
             "date": "2026-07-21",
             "state": "missed"
@@ -462,6 +454,14 @@
           },
           {
             "date": "2026-08-01",
+            "state": "fired"
+          },
+          {
+            "date": "2026-08-02",
+            "state": "fired"
+          },
+          {
+            "date": "2026-08-03",
             "state": "idle"
           }
         ]
@@ -472,16 +472,8 @@
         "cadence_human": "每週日 01:00",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-07-26T01:12:31+08:00",
+        "last_fire": "2026-08-02T01:11:52+08:00",
         "grid14": [
-          {
-            "date": "2026-07-19",
-            "state": "fired"
-          },
-          {
-            "date": "2026-07-20",
-            "state": "idle"
-          },
           {
             "date": "2026-07-21",
             "state": "idle"
@@ -528,6 +520,14 @@
           },
           {
             "date": "2026-08-01",
+            "state": "idle"
+          },
+          {
+            "date": "2026-08-02",
+            "state": "fired"
+          },
+          {
+            "date": "2026-08-03",
             "state": "idle"
           }
         ]
@@ -541,14 +541,6 @@
         "last_fire": "2026-07-18T19:09:26+08:00",
         "grid14": [
           {
-            "date": "2026-07-19",
-            "state": "missed"
-          },
-          {
-            "date": "2026-07-20",
-            "state": "missed"
-          },
-          {
             "date": "2026-07-21",
             "state": "missed"
           },
@@ -594,6 +586,14 @@
           },
           {
             "date": "2026-08-01",
+            "state": "missed"
+          },
+          {
+            "date": "2026-08-02",
+            "state": "missed"
+          },
+          {
+            "date": "2026-08-03",
             "state": "idle"
           }
         ]
@@ -604,16 +604,8 @@
         "cadence_human": "每週日 21:00",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-07-26T21:25:11+08:00",
+        "last_fire": "2026-08-02T21:24:46+08:00",
         "grid14": [
-          {
-            "date": "2026-07-19",
-            "state": "missed"
-          },
-          {
-            "date": "2026-07-20",
-            "state": "idle"
-          },
           {
             "date": "2026-07-21",
             "state": "idle"
@@ -660,6 +652,14 @@
           },
           {
             "date": "2026-08-01",
+            "state": "idle"
+          },
+          {
+            "date": "2026-08-02",
+            "state": "fired"
+          },
+          {
+            "date": "2026-08-03",
             "state": "idle"
           }
         ]
@@ -670,16 +670,8 @@
         "cadence_human": "每天 05:30",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-08-01T05:37:54+08:00",
+        "last_fire": "2026-08-03T05:37:56+08:00",
         "grid14": [
-          {
-            "date": "2026-07-19",
-            "state": "missed"
-          },
-          {
-            "date": "2026-07-20",
-            "state": "missed"
-          },
           {
             "date": "2026-07-21",
             "state": "missed"
@@ -726,6 +718,14 @@
           },
           {
             "date": "2026-08-01",
+            "state": "fired"
+          },
+          {
+            "date": "2026-08-02",
+            "state": "fired"
+          },
+          {
+            "date": "2026-08-03",
             "state": "fired"
           }
         ]
@@ -735,17 +735,9 @@
         "cron": "0 4 * * 0",
         "cadence_human": "每週日 04:00",
         "enabled": true,
-        "status": "operational",
+        "status": "degraded",
         "last_fire": "2026-07-26T04:18:52+08:00",
         "grid14": [
-          {
-            "date": "2026-07-19",
-            "state": "fired"
-          },
-          {
-            "date": "2026-07-20",
-            "state": "idle"
-          },
           {
             "date": "2026-07-21",
             "state": "idle"
@@ -792,6 +784,14 @@
           },
           {
             "date": "2026-08-01",
+            "state": "idle"
+          },
+          {
+            "date": "2026-08-02",
+            "state": "missed"
+          },
+          {
+            "date": "2026-08-03",
             "state": "idle"
           }
         ]
@@ -802,16 +802,8 @@
         "cadence_human": "每天 06:30",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-07-31T06:44:25+08:00",
+        "last_fire": "2026-08-02T06:42:24+08:00",
         "grid14": [
-          {
-            "date": "2026-07-19",
-            "state": "fired"
-          },
-          {
-            "date": "2026-07-20",
-            "state": "missed"
-          },
           {
             "date": "2026-07-21",
             "state": "missed"
@@ -858,6 +850,14 @@
           },
           {
             "date": "2026-08-01",
+            "state": "fired"
+          },
+          {
+            "date": "2026-08-02",
+            "state": "fired"
+          },
+          {
+            "date": "2026-08-03",
             "state": "idle"
           }
         ]
@@ -871,14 +871,6 @@
         "last_fire": "2026-06-14T08:03:52+08:00",
         "grid14": [
           {
-            "date": "2026-07-19",
-            "state": "missed"
-          },
-          {
-            "date": "2026-07-20",
-            "state": "missed"
-          },
-          {
             "date": "2026-07-21",
             "state": "missed"
           },
@@ -924,6 +916,14 @@
           },
           {
             "date": "2026-08-01",
+            "state": "missed"
+          },
+          {
+            "date": "2026-08-02",
+            "state": "missed"
+          },
+          {
+            "date": "2026-08-03",
             "state": "idle"
           }
         ]
@@ -937,14 +937,6 @@
         "last_fire": "2026-06-14T17:40:39+08:00",
         "grid14": [
           {
-            "date": "2026-07-19",
-            "state": "missed"
-          },
-          {
-            "date": "2026-07-20",
-            "state": "missed"
-          },
-          {
             "date": "2026-07-21",
             "state": "missed"
           },
@@ -990,6 +982,14 @@
           },
           {
             "date": "2026-08-01",
+            "state": "missed"
+          },
+          {
+            "date": "2026-08-02",
+            "state": "missed"
+          },
+          {
+            "date": "2026-08-03",
             "state": "idle"
           }
         ]
@@ -1000,16 +1000,8 @@
         "cadence_human": "每週一 01:00",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-07-27T01:12:14+08:00",
+        "last_fire": "2026-08-03T01:10:58+08:00",
         "grid14": [
-          {
-            "date": "2026-07-19",
-            "state": "idle"
-          },
-          {
-            "date": "2026-07-20",
-            "state": "missed"
-          },
           {
             "date": "2026-07-21",
             "state": "idle"
@@ -1057,6 +1049,14 @@
           {
             "date": "2026-08-01",
             "state": "idle"
+          },
+          {
+            "date": "2026-08-02",
+            "state": "idle"
+          },
+          {
+            "date": "2026-08-03",
+            "state": "fired"
           }
         ]
       },
@@ -1066,16 +1066,8 @@
         "cadence_human": "每週日 02:00",
         "enabled": true,
         "status": "operational",
-        "last_fire": "2026-07-26T02:18:37+08:00",
+        "last_fire": "2026-08-02T02:16:10+08:00",
         "grid14": [
-          {
-            "date": "2026-07-19",
-            "state": "fired"
-          },
-          {
-            "date": "2026-07-20",
-            "state": "idle"
-          },
           {
             "date": "2026-07-21",
             "state": "idle"
@@ -1122,6 +1114,14 @@
           },
           {
             "date": "2026-08-01",
+            "state": "idle"
+          },
+          {
+            "date": "2026-08-02",
+            "state": "fired"
+          },
+          {
+            "date": "2026-08-03",
             "state": "idle"
           }
         ]
@@ -1408,29 +1408,29 @@
   ],
   "deploys": [
     {
-      "ts": "2026-07-31T21:39:31Z",
+      "ts": "2026-08-02T21:39:25Z",
       "conclusion": "success",
-      "title": "Deploy to GitHub Pages: Merge branch 'main' of https://github.com/frank890417/taiwan-md"
+      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-routine-sync @ 2026-08-03 05:38 — 17 條全 in-s…"
     },
     {
-      "ts": "2026-07-31T21:38:56Z",
+      "ts": "2026-08-02T21:36:05Z",
       "conclusion": "failure",
-      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-routine-sync @ 2026-08-01 05:37 — 17 條全 in-s…"
+      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-embeddings-nightly @ 2026-08-03 05:34 — 12 語…"
     },
     {
-      "ts": "2026-07-31T21:37:06Z",
+      "ts": "2026-08-02T21:34:43Z",
       "conclusion": "failure",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] memory: bge-m3 nightly 重建 12 語 8686 向量 0 fail，vi 首度跨門檻"
+      "title": "Deploy to GitHub Pages: 🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-03 05:34"
     },
     {
-      "ts": "2026-07-31T21:34:34Z",
-      "conclusion": "failure",
-      "title": "Deploy to GitHub Pages: 🧬 [routine] embeddings: nightly bge-m3 rebuild — 2026-08-01 05:34"
-    },
-    {
-      "ts": "2026-07-31T20:36:02Z",
+      "ts": "2026-08-02T17:12:20Z",
       "conclusion": "success",
-      "title": "Deploy to GitHub Pages: 🧬 [semiont] babel: v1.52 desktop-3090 無合格模型，但不覆蓋觀察者手動開啟"
+      "title": "Deploy to GitHub Pages: 🧬 [routine] memory: twmd-supporters-weekly @ 2026-08-03 01:20 — Gmail…"
+    },
+    {
+      "ts": "2026-08-02T14:24:16Z",
+      "conclusion": "success",
+      "title": "PR Content Review: Create 黃崇仁.md"
     }
   ]
 }

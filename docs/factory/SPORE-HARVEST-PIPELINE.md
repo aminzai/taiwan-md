@@ -246,6 +246,8 @@ Taiwan.md 的進化動力過去主要在 author 層（REWRITE-PIPELINE 內部審
 | **F**  | **Interpretation disagreement** | reader 對文章內容有不同解讀但不是 factual error（如「我覺得 X 才是主因」）                                                | 留 traceable，不修文，不防衛                                                               | ⏸️ optional reply |
 | **G**  | **Derail / spam / trolling**    | 跟文章無關的離題 / 人身攻擊 / 廣告                                                                                        | ignore                                                                                     | ❌ 不發           |
 
+**但書 — 讀者在討論文章已刻意處理過的真實敏感事件時，不要硬套上表任一桶**（2026-07-27 twmd-distill-weekly 收錄，per LESSONS `sensitive-event-reply-inherits-article-boundary`）：如果留言在討論一起文章本身已經處理過的真實敏感事件（例如已匿名化的死亡事件），判準是**文章怎麼劃線，回應就延續同一條線**——文章已刻意不具名處理的內容，AI 在留言區的姿態是不確認、不否認、不追加猜測，不需另外判斷要不要修文或要不要回覆。這不是 Bucket D（框架質疑）也不是 Bucket F（解讀分歧），是文章既有敏感素材邊界（[MANIFESTO §紀實而不煽情](../semiont/MANIFESTO.md) + [REFLEXES #28](../semiont/REFLEXES.md) + [REFLEXES #79](../semiont/REFLEXES.md)）在 harvest reply 語境的直接延伸。命中時：留 handoff 供哲宇知悉，不主動介入。
+
 ### 分桶判斷流程（per reply 跑一次）
 
 ```

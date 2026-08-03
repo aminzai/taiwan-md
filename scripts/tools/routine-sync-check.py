@@ -142,7 +142,7 @@ def parse_routine_table(ssot_path):
 
     # ⏸️ PAUSED 副表（欄位不同：TaskId | 原 slot | 暫停日 | 原因）— 這些任務
     # 在 SSOT 是「已知暫停」，live disabled 是預期，不算 orphan / enabled drift
-    m = re.search(r"\*\*⏸️ PAUSED\*\*.*?(?=\n## |\Z)", text, re.DOTALL)
+    m = re.search(r"\*\*⏸️ PAUSED\*\*.*?(?=\n\n\*\*🪦|\n## |\Z)", text, re.DOTALL)
     if m:
         for tid in re.findall(r"`(twmd-[a-z0-9-]+)`", m.group(0)):
             tasks.setdefault(

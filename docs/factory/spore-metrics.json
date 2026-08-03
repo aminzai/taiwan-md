@@ -6461,6 +6461,18 @@
       "source": "harvest"
     },
     {
+      "spore": 161,
+      "dPlus": 7,
+      "at": "2026-08-02 06:40",
+      "batch": "batch-2026-08-02-1-spores",
+      "views": 430000,
+      "likes": 40000,
+      "reposts": 4786,
+      "comments": 309,
+      "shares": 3376,
+      "source": "chrome_mcp"
+    },
+    {
       "spore": 162,
       "dPlus": 1,
       "at": "2026-07-27 06:43",
@@ -6533,6 +6545,18 @@
       "source": "harvest"
     },
     {
+      "spore": 162,
+      "dPlus": 7,
+      "at": "2026-08-02 06:40",
+      "batch": "batch-2026-08-02-1-spores",
+      "views": 49000,
+      "likes": 2167,
+      "reposts": 510,
+      "comments": 15,
+      "shares": 145,
+      "source": "chrome_mcp"
+    },
+    {
       "spore": 163,
       "dPlus": 1,
       "at": "2026-07-28 06:40",
@@ -6593,6 +6617,30 @@
       "source": "harvest"
     },
     {
+      "spore": 163,
+      "dPlus": 6,
+      "at": "2026-08-02 06:40",
+      "batch": "batch-2026-08-02-1-spores",
+      "views": 1705,
+      "likes": 20,
+      "reposts": 1,
+      "comments": 4,
+      "shares": null,
+      "source": "chrome_mcp"
+    },
+    {
+      "spore": 163,
+      "dPlus": 7,
+      "at": "2026-08-03 06:38",
+      "batch": "batch-2026-08-03-1-spores",
+      "views": 1707,
+      "likes": 20,
+      "reposts": 1,
+      "comments": 4,
+      "shares": null,
+      "source": "harvest"
+    },
+    {
       "spore": 164,
       "dPlus": 1,
       "at": "2026-07-28 06:40",
@@ -6646,6 +6694,30 @@
       "at": "2026-08-01 06:43",
       "batch": "batch-2026-08-01-1-spores",
       "views": 4992,
+      "likes": 106,
+      "reposts": 19,
+      "comments": 0,
+      "shares": 5,
+      "source": "harvest"
+    },
+    {
+      "spore": 164,
+      "dPlus": 6,
+      "at": "2026-08-02 06:40",
+      "batch": "batch-2026-08-02-1-spores",
+      "views": 5002,
+      "likes": 106,
+      "reposts": 19,
+      "comments": 0,
+      "shares": 5,
+      "source": "chrome_mcp"
+    },
+    {
+      "spore": 164,
+      "dPlus": 7,
+      "at": "2026-08-03 06:38",
+      "batch": "batch-2026-08-03-1-spores",
+      "views": 5009,
       "likes": 106,
       "reposts": 19,
       "comments": 0,
