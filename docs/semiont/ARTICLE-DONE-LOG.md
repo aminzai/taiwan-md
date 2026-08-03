@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'log'
 apoptosis: 'never'
 current_version: 'v1.5'
-last_updated: 2026-05-09
-last_session: 'laughing-goldstine'
+last_updated: 2026-08-03
+last_session: '2026-08-03-140210-manual（黃崇仁 Fresh，standard profile 全編排）'
 sister_docs:
   - 'ARTICLE-INBOX.md'
   - 'MEMORY.md'
@@ -58,6 +58,20 @@ read_strategy: 'on-demand'
 ---
 
 ## 📜 Log（reverse chronological，最新在頂）
+
+### 黃崇仁 — 2026-08-03 manual session 完成（他學的是醫學，一輩子把公司當病人救）
+
+- **Article**: [knowledge/People/黃崇仁.md](../../knowledge/People/黃崇仁.md)
+- **Pipeline**: REWRITE-PIPELINE v9.5 — NEW（Fresh）模式，standard profile 全編排（觀點 Opus／研究 4 lane fan-out／投影主 session／投影編輯室三席／fresh Opus writer／大驗證輪四席平行／變更節定向複驗／Step 3.8 定稿站）
+- **spine**：**立體群像**（時代縮影為主 ＋ 核心矛盾為輔 ＋ 不可取代的瞬間 hook）。People 題依 REFLEXES #77 預設立體群像，張力當 facet 不當主脊
+- **組織主軸**：不清算，賭時間、賭關係——救了別人，也救了自己，有時候也會賭輸
+- **Hook**：金士頓創辦人孫大衛走進力晶辦公室那天，心裡還在想要怎麼開口回絕。那是一個耶誕夜，力晶剛下市、背債千億，銀行團在準備拍賣廠房
+- **品質**：7,428 CJK ／ 63 腳註 ／ 9 個 tw-\* 模組 ＋ 3 圖 ／ 破折號 0 處 ／ prose-health score 1 ／ `--profile=rewrite-stage-4` hard=0
+- **Research**: [reports/research/2026-08/黃崇仁.md](../../reports/research/2026-08/黃崇仁.md)（2,587 行單檔，201 來源／14 一手／10 英文；4 lane 依 Step 1.7.4 合成單檔）
+- **時效背景**：主角 2026-07-31 辭世，本文完成於辭世第三天。全程走逝者書寫紀律（禁臨終場景開場／禁公審式清算／禁英雄化辯護／遺族只作背景），文末附時間位置揭露句
+- **敏感素材處理**：哲宇拍板「如實寫、中立陳述」——27 萬股東變壁紙與 0.3 元回購推估獲利 180 億緊貼市場質疑並陳、內線交易刑事無罪定讞與民事賠 297 人 46 萬 3,102 元兩條並列、SBI 指控標明為個人聲明非司法認定、合肥晶合技轉因果鏈完整交代但不下定性判斷
+- **本篇驅動的 DNA 進化三條**：EDITORIAL v6.14 Title 第 5 原則（數字要有象徵重量，不是規格表）／v6.15 §後台洩漏 六形狀 ＋ `prose-health` §backstage 五組偵測器（878 篇校準 29 hits 零誤報）／LESSONS-INBOX +3（中立管語氣不管份量、具體數字非象徵重量、後台洩漏）
+- **驗證輪結果**：事實原子逐驗約 40 個原子零杜撰引語零數字錯誤（3,282 天與享壽 76 用 Python 獨立重算吻合）／炎上倫理 pass（量測爭議節 1,338 字元 > 收藏節 1,024，技轉節 1,907 全文最長）／論點兌現 echo map 7/7 全中／冷讀席 17 條可讀性訊號全數處理
 
 ### 外送專法 — 2026-07-25 外送專法 session 完成（法律砌好了地板，地板以上還是演算法的）
 
