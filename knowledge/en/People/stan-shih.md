@@ -2,9 +2,7 @@
 title: 'Stan Shih: From a Duck Egg Stall in Lukang to a Brand Called Taiwan'
 description: "At a 1981 electronics show in San Francisco, a plastic-shell laptop that closed like a book drew 20 U.S. distributors circling it for agency rights—marking the first time many Taiwanese touched a 'computer made in Taiwan.' The man behind it lost his father to overwork at age three and was raised by a mother who sold duck eggs and patriotic bonds. He built Acer into a top-five global PC brand, drew the Smiling Curve that entered textbooks, and stands among Taiwan’s rare tech patriarchs willing to face the camera and say, 'I am the biggest loser.'"
 date: 2026-03-22
-author: 'Taiwan.md'
 category: 'People'
-subcategory: '科技與企業'
 tags:
   [
     'People',
@@ -15,18 +13,22 @@ tags:
     'Entrepreneur',
     'Lukang',
   ]
+subcategory: '科技與企業'
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-07-06
 lastHumanReview: false
-featured: true
-translatedFrom: 'People/施振榮.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:b0e816b78b19b42e'
-sourceBodyHash: 'sha256:a0ff299644c9b0cc'
-translatedAt: '2026-07-16T00:45:14+08:00'
+researchReport: '施振榮'
 image: '/article-images/people/stanshih-taipei-2014.webp'
 imageCredit: 'Tony Tseng'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Stan_Shih_at_Taipei_IT_Month_20141205a.jpg'
+relatedDiary: ['2026-07-06-133221-施振榮-rewrite']
+translatedFrom: 'People/施振榮.md'
+sourceCommitSha: '6ffd92f94'
+sourceContentHash: 'sha256:b5ded8b5494f423c'
+sourceBodyHash: 'sha256:fb56cb60a16b87a7'
+translatedAt: '2026-08-03T14:57:32.259883+00:00'
 ---
 
 > **30-Second Overview:** Stan Shih (born 1944) is a child of a Lukang incense-making lineage. His father died from overwork when Stan was three, and his mother raised him by selling duck eggs, stationery, and patriotic bonds. He built Acer into a top-five global PC brand and drew the Smiling Curve, a concept that entered textbooks and is still studied by international economists. He is also one of Taiwan’s rare tech patriarchs willing to stand before the camera and say, "I am the biggest loser." Even in his eighties, with over ten heart stents in place, he continues to run venture capital funds and develop an AI avatar. What he has always cared about most are the invisible metrics that take years to calculate: talent, brand equity, and what he calls the "King's Way."
@@ -171,25 +173,25 @@ But he never treats these stocks as assets for speculation. He said, "I consider
 
 He even put this choice in one blunt sentence: "If I had dedicated my life solely to making money, I would have earned far more than they have today."[^65] There is no bitterness in this sentence, only a person who clearly knows what he is pursuing. What he wanted was never the most attractive number on a financial statement.
 
-## An Avatar Named Aidan
+## An Avatar Named Adan
 
 In 2026, Stan Shih is 81 years old.
 
-His body is already under significant strain: his heart contains over ten stents, and he has survived two myocardial infarctions and a stroke, facing critical illness twice[^65b]. Yet he shows absolutely no intention of stepping off stage. He told reporters plainly: "Currently, I am enjoying life. Although it may look like there are many challenges to others, a life without challenges is boring."[^66] He even half-joked that, thanks to AI technology, he is confident he will live to 120[^67].
+His body has already endured a great deal: he has over ten stents in his heart and has survived myocardial infarction, strokes, and two critical medical emergencies.[^65b] Yet, he has absolutely no intention of stepping down. He told reporters quite bluntly: "Currently, I am enjoying life; although it may look like there are many challenges to others, a life without challenges would be boring."[^66] He even joked that, with the help of AI technology, he is confident he can live to 120.[^67]
 
-And his most distinctive late-career project is that he "built" himself out: an AI avatar named "Aidan."
+One of the most unique works of his later years is that he "created" himself: an AI avatar named "Adan."
 
-His team fed all his Chinese and English books and articles into a knowledge base. Stan Shih himself personally participated in several training Q&A sessions, creating an AI version of Stan Shih capable of answering questions. In January 2026, Aidan officially launched on the GPT Store, available globally for free[^68]. He even published a new book, _The Leader's Awakening Moment: Stan and AI in Conversation_, where 90% of the content was written by that AI avatar, compiling 30 Q&As, one of which was: "How do you want others to remember you?"[^69]
+His team fed all of his Chinese and English books and articles into a knowledge base, and Stan Shih himself personally participated in several rounds of training and Q&A to create an AI version of himself capable of answering questions. In January 2026, Adan officially launched on the GPT Store, available for free worldwide.[^68] He even released a new book, 《The Leader's Moment of Awakening: A Conversation with Brother Stan and AI》; ninety percent of its content was written by that AI avatar. It includes 30 Q&As, one of which asks: "How do you hope others remember you?"[^69]
 
-Think about what this means. A person who spent his life talking about "implicit value," "intangibles," and "the future," those invisible metrics that take years to calculate, in the end, turned himself into an invisible yet continuously enduring presence. When that engineer who made the Micro-Professor I, that entrepreneur who drew the Smiling Curve, that former chairman who lost over NT$100 billion and still smiled, is eventually gone, an avatar named Aidan will remain somewhere in the cloud, slowly and repeatedly answering strangers' questions.
+Reflecting on the meaning of this is truly moving. For a man who spent his entire life talking about "implicit value," "intangibility," and "the future"—those invisible things that take a long time to manifest—he has ultimately turned himself into an invisible existence that can continue indefinitely. When the engineer who built the Micro-Professor I, the entrepreneur who proposed the smiling curve, and the former chairman who laughed while discussing losing hundreds of billions of dollars is no longer here, an avatar named Adan will still be somewhere in the cloud, slowly answering questions from strangers, time and time again.
 
-From the 1981 book-shaped computer that U.S. distributors circled, to the 2026 GPT Store avatar anyone can ask a question of, forty-five years separate them. Forty-five years ago, he wanted the world to see a computer made in Taiwan; forty-five years later, he wants the world to remember a way of thinking that is distinctly Taiwanese.
+From that small computer in 1981—which closed like a book and was surrounded by inquisitive American distributors, to this 2026 AI avatar placed in the GPT Store for anyone to query, forty-five years have passed. Forty-five years ago, he wanted the world to see a computer made in Taiwan; forty-five years later, he wants the world to remember a certain way that Taiwanese people think.
 
-He plans a second retirement at age 85[^70], handing over the chairman seat of his for-profit ventures to continue his public welfare work. But judging by his recent years: publishing a new King's Way white paper in Japan, launching the AI avatar, giving one interview after another, that retirement date will likely be pushed back again.
+He plans to undergo a second retirement at age 85,[^70] handing over his position as chairman of for-profit enterprises to continue focusing on philanthropy. But looking at him these past few years—traveling to Japan to publish a new _Wangdao_ (the Kingly Way) white paper, launching an AI avatar, and participating in one interview after another—that retirement date will likely keep being pushed back.
 
-The child who grew up watching his mother sell duck eggs in Lukang, in the end, remained that gardener who wanted to plant an entire orchard.
+The child who grew up in Lukang watching his mother sell duck eggs has, in the end, remained that same gardener who wishes to plant an entire orchard.
 
-**Further Reading**: [Acer](/en/economy/acer-pc-industry-pioneer) (the brand Stan Shih founded single-handedly and brought to the world stage, here is its complete story), [Morris Chang](/en/people/tsmc-morris-chang) (the man who invited Stan Shih to serve as a TSMC director for 21 years, who took a different path in Taiwan's tech landscape), [TSMC](/en/economy/tsmc) (the company that does "midstream manufacturing" yet became the national tech shield, and where Stan Shih holds the most shares), [Taiwan's Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) (behind the Smiling Curve and the King's Way, Taiwan's forty-year path between manufacturing and branding).
+**Further Reading**: [Acer](/en/economy/acer-pc-industry-pioneer) (the brand founded and brought to the world stage by Stan Shih; here is its own complete story), [Morris Chang](/en/people/tsmc-morris-chang) (the man who invited Stan Shih to serve as a TSMC director for 21 years, following a different path of Taiwan's technology industry), [TSMC](/en/economy/tsmc) (the company that focused on "mid-stream manufacturing" yet became the "Protector of the Nation," and also where Stan Shih holds his largest stake), [Taiwan's Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) (behind the smiling curve and _Wangdao_ lies Taiwan's forty-year journey between manufacturing and branding), [Huang Chung-jen](/people/黃崇仁) (the Deqi Semiconductor, a joint venture between Acer and Texas Instruments in 1989, was Taiwan's first DRAM plant, predating his company, Nanya, by five years).
 
 ## Image Credits
 
