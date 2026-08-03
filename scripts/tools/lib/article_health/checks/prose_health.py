@@ -132,6 +132,19 @@ _ENGLISH_OPENER_MAX_CHARS = 8    # 開場句中文字數 ≤ 此值才算「超�
 _ENGLISH_OPENER_NEXT_MIN = 28    # 後接句中文字數 ≥ 此值（確保是「短→長」不是「短→中」）
 _ENGLISH_OPENER_RATIO = 3.5      # 後接句 ≥ 開場句的幾倍
 
+# ── 英式段首宣告慣用式（§8e 的簽名檔補充，2026-08-03 round 2）─────────────────
+# §8e 的長度門檻（≤8 字）與數字豁免讓三種 9-13 字的隱喻宣告句穿過：「這個頭銜在轉述裡
+# 長大過。」（10 字）「真正的轉彎發生在 1987 年。」（數字豁免）「從結果看，這是他人生的
+# 第一場賭。」（14 字）。一般形（任意短宣告句）語意判斷 regex 做不到——場景句「那是一個
+# 耶誕夜。」跟宣告句句法相同；改抓具名慣用式：「真正的[轉X]發生在／出現在」全 corpus
+# 878 篇有 9 篇在用，是跟「值得停下來看」（22 篇）同型的跨篇簽名檔——每篇單獨看是一句
+# 過場，攤開看是模板。段首限定（MULTILINE ^）。
+_RE_DECLARATIVE_OPENER_IDIOM = re.compile(
+    r"^(?:真正的[^。！？\n]{1,8}(?:發生|出現|來自|集中發生)在"
+    r"|從結果(?:看|來看)[，,]\s*這是)",
+    re.MULTILINE,
+)
+
 # ── 長句 / 華麗辭藻湯（quality-scan §8d，2026-07-19 哲宇 directive）────────────
 # 哲宇：「有些段落切得太長，語感不順，看起來像是華麗的辭藻湯」。機械 proxy：單一句子
 # （。！？之間）塞太多逗號 / 頓號 / 分號子句又太長 = 沒有呼吸的 run-on，讀起來像堆疊
@@ -179,6 +192,13 @@ _TIER1_PATTERNS = [
     re.compile(r"不只是[^也還\n]{1,30}[，,]\s*(也|還)"),
     re.compile(r"並非[^而\n]{1,30}[，,]\s*而是"),
     re.compile(r"並不[^而是\n]{1,30}[，,]\s*而是"),
+    # NEW (2026-08-03 round 2): 「不在 X，在 Y」變體——無「是」字所以既有 patterns 全漏。
+    # 「差別不在錢，在他怎麼定義⋯」891 篇校準 9 hits（差別不在錢/算力/白/牛肉/數據、
+    # 問題不在框架、關鍵不在財務崩盤⋯）。三題判準同 §11.1：讀者真的會預設「差別在錢」嗎？
+    # 不會 = 稻草人前設 = 重寫成正面斷言。
+    # ⚠️ 刻意不含「而在」尾（「重點不在於技術，而在於模式」是傳統中文學術修辭，891 篇
+    # 39 hits 多為正當用法）——只抓省略「而」的壓縮口語型，那才是 AI 對位腔的指紋。
+    re.compile(r"(?:差別|差異|問題|重點|關鍵)不在[^，。！？\n]{1,12}[，,]\s*在"),
 ]
 
 # ── §11 Tier 1 補：強加對比的收束句（2026-07-19 哲宇 directive）───────────────
@@ -191,7 +211,7 @@ _TIER1_PATTERNS = [
 _RE_FORCED_CONTRAST_CLOSER = re.compile(
     r"(?:根本|其實|說到底|講的|量的|要的|問的)(?:是|上是|其實是)?[^，。！？\n]{0,10}"
     r"(?:兩件事|兩回事|兩碼事|不同的(?:語言|東西|世界|邏輯|事|概念))"
-    r"|兩本帳"
+    r"|(?:兩|另一)本帳"  # 2026-08-03 round 2: 「還有另一本帳」= another ledger 英文隱喻直譯
     r"|(?:從來)?(?:沒有|沒|未曾|不曾)[^，。！？\n]{0,8}(?:攤開|放|擺)[^，。！？\n]{0,6}同一(?:頁|張|條|個)"
 )
 
@@ -304,6 +324,47 @@ _RE_BACKSTAGE_VERIFICATION = re.compile(
     r"|無論哪(?:一)?個版本"
 )
 
+# (f) 查無聲明：查證的「查無」結論用研究者視角的語言寫進正文（2026-08-03 round 2，
+# 哲宇 13 段殘留裡的最大宗，5 例）。「中英文檔案裡找不到任何一件訴訟紀錄」「沒有銀行團
+# 或監理機關的獨立版本可以對照」「沒有公開材料可以判斷」——這是查核員報告搜尋範圍與
+# 信度分層的語言。兩例（黃崇仁 [^31][^40]）腳註裡早有同一句話，正文是重複求安心。
+# 改法三徑：刪／降級進腳註或策展人筆記（後台的兩個合法的家）／視角翻轉（「我查不到」
+# 改寫成「誰沒有說」）。canonical: EDITORIAL §後台洩漏 形狀七。
+#
+# ⚠️ 本組必須跳過 blockquote 與腳註定義行（_backstage_line_is_legit_backstage）：
+# 策展人筆記與腳註正是查無聲明該住的地方——醫療法「找不到任何一份⋯」寫在 📝 筆記裡
+# 是正確示範，罰它等於罰紀律的正確表達。
+_RE_BACKSTAGE_NEGATIVE_EVIDENCE = re.compile(
+    r"(?:檔案|資料|紀錄|報導)[裡中]?找不到任何一(?:件|筆|份|條)"
+    r"|沒有[^，。！？\n]{0,12}獨立(?:版本|佐證|來源)可以?(?:對照|印證|核對)"
+    r"|沒有公開(?:紀錄|資料|材料|說明)可(?:查|考|以判斷|以對照)"
+    r"|(?:目前|至今)沒有公開(?:說明|紀錄|資料)"
+    r"|查無[^，。！？\n]{0,12}(?:紀錄|資料|案件)"
+    r"|沒有[^，。！？\n]{0,10}(?:審查|裁罰|執法|訴訟)[^，。！？\n]{0,6}(?:的)?公開紀錄"
+)
+
+# (g) 懸念預告鷹架：用查核任務的語言與匿名化名詞（一件事／一個決定）製造懸念，
+# 揭曉延遲一段以上（2026-08-03 round 2）。「得先確認一件事：那筆帳，是誰替誰還的」
+# 「但有一個決定，他從來沒有用同樣的直白談過。那是十年前簽下的⋯」——英文長文
+# cliffhanger 段落結構直譯。跟 (e) 指揮讀者注意力同族：那條是「看這裡」，這條是
+# 「等著看」。改法：懸念用具體物承載（直接寫出那個決定），或乾脆揭曉。
+_RE_BACKSTAGE_SUSPENSE_TEASER = re.compile(
+    r"得先(?:確認|回答|弄清楚|搞清楚)一件事"
+    r"|先回答一個問題"
+    r"|有一個(?:決定|問題|細節|轉折|例外)[^。！？\n]{0,25}(?:從來沒有|一直沒有|沒有人|再也沒有)"
+)
+
+def _backstage_line_is_legit_backstage(text: str, offset: int) -> bool:
+    """判斷 match 所在行是否為「後台的合法的家」（blockquote 策展人筆記／腳註定義行）。
+
+    查無聲明住在策展人筆記或腳註是紀律的正確表達（EDITORIAL §後台洩漏 形狀七），
+    只有寫在正文 prose 才是病。複用 run-on detector 的行前綴判斷法。
+    """
+    ls = text.rfind("\n", 0, offset) + 1
+    line_prefix = text[ls : ls + 4].lstrip()
+    return line_prefix.startswith("[^") or line_prefix.startswith(">")
+
+
 _BACKSTAGE_DETECTORS = [
     (
         _RE_BACKSTAGE_GRAMMAR_META,
@@ -332,6 +393,23 @@ _BACKSTAGE_DETECTORS = [
         _RE_BACKSTAGE_VERIFICATION,
         "查證過程洩漏",
         "查證分歧是後台工作。正文用認定版本的逐字，分歧寫進腳註——不要把兩個版本攤給讀者再自己分析一輪。",
+    ),
+]
+
+# 第六、七組（2026-08-03 round 2）需要行級排除：策展人筆記與腳註是這些內容的合法的家。
+_BACKSTAGE_DETECTORS_PROSE_ONLY = [
+    (
+        _RE_BACKSTAGE_NEGATIVE_EVIDENCE,
+        "查無聲明",
+        "查證的「查無」是後台結論。三徑：刪（敘事多半不受損）／降級進腳註或策展人筆記"
+        "（後台的合法的家）／視角翻轉——「我查不到」改寫成「誰沒有說」"
+        "（「員工去留沒有公開說明」→「美光跟力積電都沒有說」）。",
+    ),
+    (
+        _RE_BACKSTAGE_SUSPENSE_TEASER,
+        "懸念預告鷹架",
+        "匿名化名詞（一件事／一個決定）加延遲揭曉是英文長文 cliffhanger 直譯。"
+        "懸念用具體物承載（直接寫出那個決定），或乾脆揭曉——事實本身的重量夠就不需要藏。",
     ),
 ]
 
@@ -1086,6 +1164,23 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
             ),
         )
 
+    # ── 8e-bis. 英式段首宣告慣用式 (soft-launch WARN，不計分) — round 2 簽名檔 ──
+    for m in list(_RE_DECLARATIVE_OPENER_IDIOM.finditer(text_for_patterns))[:6]:
+        line_no = _line_at_offset(text_for_patterns, m.start())
+        ctx = _context_around(text_for_patterns, m.start(), m.end(), before=4, after=24)
+        yield Violation(
+            check=CHECK_NAME,
+            severity=Severity.WARN,
+            message=f"英式段首宣告慣用式 (§歐化：跨篇簽名檔)：{ctx}",
+            line=line_no,
+            snippet=m.group(0)[:40],
+            editorial_ref="EDITORIAL.md §歐化語法 §英文式短句開場",
+            fix_suggestion=(
+                "「真正的轉折發生在⋯」全站 9 篇在用，已是模板（同「值得停下來看」22 篇）。"
+                "把判斷融進資訊句：直接寫那一年發生了什麼，讓「這是轉折」由事件自己長出來。"
+            ),
+        )
+
     # ── 9. Textbook opening ──
     if _detect_textbook_opening(body):
         score += 2
@@ -1307,6 +1402,23 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
     # ── §後台洩漏 backstage leak (2026-08-03) — 全 WARN，不計 score ──
     for regex, label, fix_hint in _BACKSTAGE_DETECTORS:
         for m in list(regex.finditer(text_for_patterns))[:6]:
+            line_no = _line_at_offset(text_for_patterns, m.start())
+            ctx = _context_around(text_for_patterns, m.start(), m.end(), before=18, after=18)
+            yield Violation(
+                check=CHECK_NAME,
+                severity=Severity.WARN,
+                message=f"後台洩漏／{label}（§後台洩漏）：{ctx}",
+                line=line_no,
+                snippet=m.group(0)[:40],
+                editorial_ref="EDITORIAL.md §六 §後台洩漏",
+                fix_suggestion=fix_hint,
+            )
+
+    # 第六、七組（round 2）：跳過 blockquote／腳註——那是這些內容的合法的家
+    for regex, label, fix_hint in _BACKSTAGE_DETECTORS_PROSE_ONLY:
+        for m in list(regex.finditer(text_for_patterns))[:6]:
+            if _backstage_line_is_legit_backstage(text_for_patterns, m.start()):
+                continue
             line_no = _line_at_offset(text_for_patterns, m.start())
             ctx = _context_around(text_for_patterns, m.start(), m.end(), before=18, after=18)
             yield Violation(
