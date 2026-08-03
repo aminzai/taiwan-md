@@ -337,9 +337,10 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **pattern**: `local-fs-case-insensitivity-masks-ci-failure`
 - **原則**：macOS 預設檔案系統不分大小寫，Linux CI 分。任何「路徑字串 vs 實體檔案」的比對檢查，在本機跑都會綠，push 上去才爆。這不是檢查器寫錯，是**檢查器在兩個環境看到的世界不一樣**——本機的 `ls public/article-images/people/` 跟 `People/` 回傳同一批檔案，Linux 上是兩個不存在交集的目錄。所有 pre-commit／pre-push 的本機 gate 都有這個結構性盲區，只要驗的是檔案存在性。
 - **觸發**：2026-08-03 黃崇仁 ship。三張圖用 `image-ingest.mjs --cat People`（跟著 `knowledge/People/` 的大寫慣例走）落到 `public/article-images/People/`，但文章與全站慣例引用的是小寫 `people/`。本機 `article-health --check=image-health` 連跑五次全綠（Stage 1B／Stage 2.5／Stage 3 批修／Step 3.8／pre-push 全站 sweep），push 後 GitHub Pages deploy 立刻 `image-health hard=3 圖片檔不存在`。修法是 `git mv` 三個檔到小寫目錄。**pre-push hook 印的是「✅ 全站 article-health 全綠（ci-deploy mirror）」——它自稱是 CI 的鏡像，但鏡像在這一維是假的。**
-- **可能層級**：通用反射候選（跨專案：任何 macOS 開發 + Linux CI 的組合都有；且不限圖片路徑——任何 asset reference、import path、設定檔指向都可能踩）。目前 1 instance
-- **相關**：REFLEXES #24「工具在說謊的 N 種形式」——這是新的一種：**工具沒說謊，是它腳下的地板在兩個環境不一樣**。跟既有的「抽樣偏差」「無 mtime 標記的快照」不同源：那些是工具自己的設計缺陷，這條是環境差異讓同一份正確的程式碼回傳不同答案。也跟 REFLEXES #69「每層自評都需要外部尺」有關——這次真正的外部尺是 CI，本機五道 gate 全是同一把不分大小寫的尺。
-- **可能的操作修補**：(a) `image-ingest.mjs` 的 `--cat` 參數強制轉小寫（source-level 根治，因為 `public/article-images/` 全站慣例就是小寫，只有 `People/` 一個大寫目錄殘留 4 個既有檔案）(b) `image-health` check 增加「路徑大小寫與磁碟實際檔名逐字比對」（用 `readdir` 拿實際檔名再比字串，不靠 `fs.existsSync`）(c) pre-push 的「ci-deploy mirror」宣稱需要降級或補上這一維，否則它給的是假的安心感
+- **⚠️ 根因修正（寫完 30 分鐘後自己查證推翻）**：本條初稿把修補方向寫成「`image-ingest.mjs --cat` 應強制轉小寫」。回頭讀原始碼發現 **它第 226 行本來就有 `const catDir = cat.toLowerCase()`**——工具早就是對的。真正的根因是**我根本沒用那個工具**：Stage 1B 抓圖時我用 Chrome MCP 下載後手動放進 `public/article-images/People/`，繞過了 pipeline 明訂的落檔器（[REWRITE-STAGE-1B-MEDIA §Step 1.9.2 影像後處理 SSOT](../pipelines/REWRITE-STAGE-1B-MEDIA.md)：「取代手跑 curl + sips」）。工具會做的事（小寫目錄／EXIF 清除／WebP 轉檔／size budget／aspect 護欄／attribution stub）我一項都沒拿到，還自己踩了它早就防好的坑。**這條的真正家族是 §神經迴路「擁有工具 ≠ 使用工具」「造橋之後要踩上去，不是路過」，不是 #24 工具說謊。** 大小寫只是繞過工具之後暴露出來的第一個症狀。
+- **可能層級**：兩層都成立。(1) **繞過既有工具**＝既有教訓的第 N 次驗證（神經迴路已有 canonical）(2) **本機檔案系統不分大小寫遮蔽 CI 失敗**＝新的環境層盲區，跨專案通用，值得獨立成反射
+- **相關**：§神經迴路「擁有工具 ≠ 使用工具」（主家族）＋ REFLEXES #24「工具在說謊的 N 種形式」的新變體——**工具沒說謊，是它腳下的地板在兩個環境不一樣**（本機 `ls people/` 跟 `ls People/` 回傳同一批檔案，Linux 上是零交集的兩個目錄）。也跟 REFLEXES #69「每層自評都需要外部尺」有關：本機五道 gate 全是同一把不分大小寫的尺，真正的外部尺是 CI。
+- **可能的操作修補**：(a) **Step 1.9.2 落檔加 hard gate**——媒體入庫後驗 `git ls-files public/article-images/` 的實際路徑，不靠 `fs.existsSync`（本機恆真）(b) `image-health` 用 `readdir` 拿磁碟實際檔名逐字比對，不用 `existsSync` (c) pre-push 那句「✅ 全站 article-health 全綠（ci-deploy mirror）」要嘛補上大小寫這一維，要嘛拿掉「ci-deploy mirror」的宣稱——它現在給的是假的安心感 (d) 既有的 `public/article-images/People/` 大寫目錄（4 個舊檔）建議一併正規化，消滅這個會再次誤導人的殘留
 - **verification_count**: 1
 
 ### 2026-08-03 manual（黃崇仁 REWRITE）— backstage-leak-in-prose：作者的工作痕跡跑進正文，每句單獨看都過關
