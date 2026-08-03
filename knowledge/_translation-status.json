@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T03:42:34+08:00",
-    "zhCommitHead": "ac26a2561",
+    "lastUpdated": "2026-08-04T03:57:53+08:00",
+    "zhCommitHead": "e6cd27652",
     "totalZh": 879,
     "activeLanguages": [
       "en",
@@ -67,26 +67,26 @@
       },
       "id": {
         "total_zh": 879,
-        "fresh": 491,
+        "fresh": 492,
         "stale": 3,
         "metadata_stale": 1,
-        "missing": 384,
+        "missing": 383,
         "orphan": 0
       },
       "pt": {
         "total_zh": 879,
-        "fresh": 806,
+        "fresh": 808,
         "stale": 7,
         "metadata_stale": 0,
-        "missing": 66,
+        "missing": 64,
         "orphan": 0
       },
       "hi": {
         "total_zh": 879,
-        "fresh": 606,
+        "fresh": 607,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 271,
+        "missing": 270,
         "orphan": 0
       },
       "ar": {
@@ -21398,8 +21398,8 @@
           "sourceContentHash": "sha256:575572d1dd581d19",
           "sourceBodyHash": "sha256:d37164a7592bd08a",
           "translatedAt": "2026-08-03T16:42:24.457018+00:00",
-          "translationLastCommit": "d30facee",
-          "translationLastModified": "2026-07-27T19:07:48+08:00",
+          "translationLastCommit": "e6cd2765",
+          "translationLastModified": "2026-08-04T03:42:35+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -24432,8 +24432,8 @@
           "sourceContentHash": "sha256:f8ec8d5fb97942ca",
           "sourceBodyHash": "sha256:7bfa784449cb0cb6",
           "translatedAt": "2026-08-03T21:46:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e6cd2765",
+          "translationLastModified": "2026-08-04T03:42:35+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
@@ -41781,7 +41781,18 @@
           "reason": "same-commit"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/taiwan-unification-independence-spectrum.md",
+          "translatedFrom": "Society/台灣統獨光譜.md",
+          "sourceCommitSha": "4c15a2b03",
+          "sourceContentHash": "sha256:a399eae223d36d4d",
+          "sourceBodyHash": "sha256:71fc72f8b7a7bc3d",
+          "translatedAt": "2026-08-03T21:46:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 20,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/taiwan-unification-independence-spectrum.md",
@@ -44761,8 +44772,8 @@
           "sourceContentHash": "sha256:0b5ddca64df69aa6",
           "sourceBodyHash": "sha256:0fcafeba09518f70",
           "translatedAt": "2026-08-03T21:46:32+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "e6cd2765",
+          "translationLastModified": "2026-08-04T03:42:35+08:00",
           "inferred": false,
           "footnoteDefs": 61,
           "status": "fresh",
@@ -61873,7 +61884,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/bobby-chen-indie-music-pioneer.md",
+          "translatedFrom": "People/陳昇.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:62dd044f9d1285a1",
+          "sourceBodyHash": "sha256:b39a89251e94292a",
+          "translatedAt": "2026-08-03T21:46:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/bobby-chen-indie-music-pioneer.md",
@@ -64403,7 +64425,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/chi-cheng-flying-antelope.md",
+          "translatedFrom": "People/紀政.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:ec85f3e1d7f5d977",
+          "sourceBodyHash": "sha256:5932775fa82a34d0",
+          "translatedAt": "2026-08-03T21:46:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/chi-cheng-flying-antelope.md",
@@ -70697,7 +70730,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/People/freddy-lim.md",
+          "translatedFrom": "People/林昶佐.md",
+          "sourceCommitSha": "f28a9528a",
+          "sourceContentHash": "sha256:42745728f5eb5c1a",
+          "sourceBodyHash": "sha256:b26e0a7ce99faf37",
+          "translatedAt": "2026-08-03T21:46:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 19,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
