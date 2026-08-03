@@ -1,289 +1,320 @@
 ---
 title: 'Entreprises taïwanaises : TSMC'
-description: "Morris Chang avait 54 ans quand il quitta Texas Instruments, et 56 ans quand il fonda TSMC. Ses dix-huit premières années, il avait fui trois fois, vécu dans six villes. Trente-huit ans plus tard, le 3 mars 2025, le président américain Trump désignait son successeur C. C. Wei dans la Salle Est de la Maison Blanche : «Il est l'homme le plus important de cette pièce.» Au premier trimestre 2026, le chiffre d'affaires trimestriel de TSMC atteignait 35,9 milliards de dollars. Sur une île frappée par les typhons, manquant d'eau et d'électricité, a été bâti le coeur de la civilisation numérique de l'humanité — mais plus ce coeur grossit, moins il est clair si cette île peut en supporter le prix."
+description: 'À 54 ans, Morris Chang quitte Texas Instruments ; à 56 ans, il fonde TSMC. Après avoir survécu à trois exils et vécu dans six villes durant ses dix-huit premières années, son parcours est hors norme. Le 3 mars 2025, Donald Trump, à la Maison Blanche, désignait l''héritier de Morris Chang, Wei Jھی-jia, comme « l''homme le plus important de cette pièce ». En premier trimestre 2026, le chiffre d''affaires de TSMC atteint 35,9 milliards de\\USD. Sur une île frappée par les typhons et les pénuries d''eau et d''électricité, s''est construit le cœur de la civilisation numérique mondiale — mais plus ce cœur grandit, plus l''incertitude plane sur la capacité de l''île à en assumer le coût.'
 date: 2026-05-09
 category: 'Economy'
 tags:
-  ['Economy', '企業', '半導體', '科技', '製造業', '台積電', '張忠謀', '矽盾']
+  [
+    'Économie',
+    'Entreprise',
+    'Semi-conducteurs',
+    'Technologie',
+    'Industrie manufacturière',
+    'TSMC',
+    'Morris Chang',
+    'Bouclier de silicium',
+  ]
 subcategory: '企業列傳'
 author: 'Taiwan.md'
 featured: true
 lastVerified: 2026-05-09
+factCorrectionLog:
+  [
+    "{'date': datetime.date(2026, 5, 9), 'triggered_by': '讀者社群指證', 'corrections': ['1987 第一座 fab 製程：「0.8 微米」→「6 吋 150mm 晶圓 + 2 微米」(TSMC 官網 + 瞿宛文獨評 + FundingUniverse 三源 verify) / 算術「跟 2 奈米差 400 倍」→「差 1000 倍」(2µm/2nm = 1000x)', 'Fab 編號：「Fab 5 是第一座 8 吋廠」→「Fab 3 是第一座 8 吋廠（1995 量產爬升）；Fab 5 是第三座（1995-11 開工 / 1997-10 落成 / 1998 量產 0.35µm）」(TSMC 官網 PR Top Fab 2000)', '1985 timing：「1985-08-21 回台...八個月後他剛從美國德州儀器卸下副總裁」timing 倒置 → 重寫為「1983 年離開 TI 後又在 General Instrument 待了兩年；那年八月他結束美國的一切」(維基百科張忠謀 + 多源 confirm 1983 leave TI / 1985 leave GI / 1985-08-21 回台)']}",
+  ]
 lastHumanReview: false
 readingTime: 14
+researchReport: 'reports/research/2026-05/台灣企業：台積電.md'
 image: '/article-images/economy/tsmc-fabs-hsinchu-2020.webp'
 imageCredit: '曾成訓 (Tseng Cheng-Hsun) via Wikimedia Commons'
 imageLicense: 'CC BY 2.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg'
+sporeLinks:
+  [
+    "{'id': 68, 'platform': 'threads', 'date': '2026-05-09', 'url': 'https://www.threads.com/@taiwandotmd/post/DYHoQtCE-5Z'}",
+    "{'id': 69, 'platform': 'x', 'date': '2026-05-09', 'url': 'https://x.com/taiwandotmd/status/2053100425730269544'}",
+  ]
 translatedFrom: 'Economy/台灣企業：台積電.md'
-sourceCommitSha: 'bb3e6a0b'
-sourceContentHash: 'sha256:aa38ca96cac05f3e'
+sourceCommitSha: '6ffd92f94'
+sourceContentHash: 'sha256:e8afc225ea9e0107'
 sourceBodyHash: 'sha256:6bdb1c40d1477a30'
-translatedAt: '2026-06-16T16:54:51Z'
+translatedAt: '2026-08-03T22:55:36+08:00'
 ---
 
 # Entreprises taïwanaises : TSMC
 
-> **En 30 secondes**
+> **Aperçu en 30 secondes**
 >
-> Morris Chang, qui avait quitte Texas Instruments à 54 ans pour fonder TSMC à 56, avait passe ses dix-huit premières annees à fuir trois fois et à vivre dans six villes[^15]. Le 4 septembre 1985, quatorze jours après son retour à Taiwan, il proposa dans le bureau de Li Kwoh-ting un modèle economique que personne au monde n'avait encore experimente : se consacrer uniquement à la fonderie, sans concevoir de produits propres, et ne jamais concurrencer les clients[^13]. Trente-huit ans plus tard, au premier trimestre 2026, le chiffre d'affaires trimestriel de TSMC atteint 35,9 milliards de dollars (en hausse de 40,6 % sur un an), sa capitalisation boursière avoisine 1 700 milliards de dollars, et sa part de marche mondiale sur les procedes avances depasse 90 %[^1][^2]. Le 3 mars 2025, Trump annona à la Maison Blanche un investissement supplementaire de 100 milliards de dollars de TSMC, portant le total à 165 milliards, et declara devant C. C. Wei : « Il est l'homme le plus important de cette pièce. »[^7] Mais dans le même temps, un cimetière familial Zheng datant de 1844 à Baoshan, Hsinchu, etait deplac pour ceder la place à l'usine de 2 nm[^20]. Depuis trente-huit ans, cette entreprise est devenue le coeur de la civilisation numerique de l'humanite — mais plus ce coeur grossit, moins il est clair si cette île peut en supporter le prix.
+> Morris Chang, qui a quitté Texas Instruments à 54 ans pour fonder TSMC à 56 ans, a survécu à trois exils et vécu dans six villes durant ses dix-huit premières années[^15]. Le quatorzième jour de son retour à Taïwan en 1985, il a proposé dans le bureau de Li Kuo-ting un modèle commercial inédit au monde : se concentrer uniquement sur la fonderie de plaquettes (wafer foundry), ne pas concevoir ses propres produits et ne jamais concurrencer ses clients[^13]. Trente-huit ans plus tard, au premier trimestre 202<0xC2>6, le chiffre d'affaires trimestriel de TSMC s'élève à 35,9 milliards de dollars US (en hausse de 40,6 % sur un an), avec une capitalisation boursière d'environ 1,7 billion de dollars et plus de 90 % de parts de marché dans les procédés avancés mondiaux[^1][^2]. Le 3 mars 2025, Donald Trump a annoncé à la Maison Blanche une augmentation de l'investissement de TSMC de 100 milliards de dollars, portant l'investissement total à plus de 165 milliards, déclarant devant Wei Jھی-jia : « Il est l'homme le plus important de cette pièce »[^7]. Pourtant, durant la même période, les tombes ancestrales de la famille Zheng, construites en 1844 à Baoshan (Hsinchu), sont en cours de relocalisation pour faire place à une usine de 2 nanomètres[^20]. En trente-huit ans, cette entreprise est devenue le cœur de la civilisation numérique mondiale — mais plus ce cœur grand\\grandit, plus l'incertitude plane sur la capacité de l'île à en assumer le coût.
 
-## Une idee nee en 14 jours
+## Une idée conçue en 14 jours
 
-Le 21 août 1985, Morris Chang, 54 ans, rentra à Taiwan pour prendre la tête de l'ITRI. Il avait passe 25 ans chez Texas Instruments, gravissant les echelons jusqu'au poste de vice-president ; après avoir quitte TI en 1983, il passa encore deux ans chez General Instrument. Ce mois d'août-là, il tourna le dos à tout ce qu'il avait construit en Amerique, et s'envola vers cette île qu'il avait quittee à dix-huit ans.
+Le 21 août 1985, Morris Chang, âgé de 54 ans, revient à Taïwan pour prendre la direction de l'ITRI (Institut de recherche technologique de Taïwan). Après 25 ans chez Texas Instruments, passant d'ingénieur débutant à vice-président, et deux années chez General Instrument après avoir quitté TI en 1983, il met fin à sa vie américaine en août de cette année-là pour regagner l'île qu'il avait quittée à l'âge de dix-huit ans, emportant avec lui ses congés non utilisés.
 
-Le 4 septembre, quatorzième jour après son retour, le conseiller politique Li Kwoh-ting le convoqua dans son bureau et lui demanda sans detour de proposer un plan pour « faire entrer Taiwan dans le secteur des semi-conducteurs ».
+Le 4 septembre, quatorze jours après son retour, le vice-président de l'Exécutif, Li Kuo-ting, le reçoit dans son bureau et lui demande directement de proposer un plan « permettant à Taïwan de s'insérer dans la filière des semi-conducteurs ».
 
-Morris Chang consigna plus tard cet episode dans son autobiographie[^13] :
+Morris Chang a plus tard consigné ce moment dans ses mémoires[^13] :
 
-> « Deux semaines plus tard (le 4 septembre), le conseiller politique Li Kwoh-ting souhaitait me rencontrer. Li aborda la question d'emblee. J'avais eu près de deux semaines pour reflechir au problème, aussi lui presentai-je sur-le-champ le concept de "fonderie commune" (Common Wafer Fab). »
+> « Deux semaines plus tard (4 septembre), le vice-président Li Kuo-ting a voulu me voir. Il est entré directement dans le vif du sujet. J'avais déjà réfléchi à cette question pendant presque deux semaines, j'ai donc proposé le concept de "Common Wafer Fab" (fonderie commune). »
 
-L'expression « fonderie commune » n'existait tout simplement pas à l'epoque. Les entreprises de semi-conducteurs concevaient et fabriquaient elles-mêmes (comme Intel ou Samsung), ou sous-traitaient au Japon. Les mots « fonderie pure » furent inventes par Morris Chang en deux semaines, assis à son bureau de la rue Chongqing Sud.
+Le terme « fonderie commune » n'existait absolument pas à l'époque. Les entreprises de semi-conducteurs soit concevaient et fabriquaient leurs propres produits (comme Intel ou Samsung), soit sous-traitaient tout au Japon. Les mots « sous-traitance spécialisée » ont été inventés par Morris Chang, assis à son bureau de la rue Chongqing Nan, durant ces deux semaines.
 
-Pour comprendre pourquoi cette idee emergea chez cet homme precisement, il faut remonter avant ses dix-huit ans. Ne à Ningbo en 1931, il vecut avant dix-huit ans à Ningbo, Nankin, Canton, Hong Kong, Chongqing et Shanghai — six villes, dix ecoles differentes, trois fuites[^15]. Arrive aux Etats-Unis en 1949, il rejoignit Texas Instruments, où il gravit les echelons de simple ingenieur jusqu'à vice-president en vingt-cinq ans.
+Pour comprendre pourquoi cette décision est venue de cet homme, il faut remonter à avant ses dix-trois ans. Né en 1931 à Ningbo, il a vécu avant l'âge de dix-huit ans dans six villes — Ningbo, Nankin, Canton, Hong Kong, Chongqing et Shanghai — fréquenté dix écoles et survécu à trois exils[^15]. En 1949, il part étudier aux États-Unis, puis intègre Texas Instruments, où il gravit les échelons de l'ingénierie à la vice-présidence pendant vingt-cinq ans.
 
-Decider de rentrer à Taiwan à 54 ans n'etait pas une nouvelle fuite — c'etait transformer cette île de 36 193 km² en quelque chose que personne n'avait encore imagine.
+Décider de revenir à Taïwan à 54 ans n'était pas un nouvel exil — c'était transformer cette île de 36 193 km² en quelque chose que personne n'avait encore imaginé.
 
-## « Je voulais juste survivre »
+## Je voulais seulement survivre
 
-Le 21 fevrier 1987, TSMC fut officiellement fondee. Capital de depart : 145 millions de dollars. Le Fonds de developpement du gouvernement detenait 48,3 %, le neerlandais Philips 27,5 %, et Wang Yung-ching (Formosa Plastics) 5 %[^13]. La première usine s'installa dans le Parc scientifique de Hsinchu : wafers 6 pouces (150 mm), procede à 2 microns, heritière du programme VLSI de phase 2 de l'ITRI inspire de RCA, avec une technologie transferee de l'ITRI et de Philips[^17][^34]. Compare aux 2 nanomètres d'aujourd'hui, le 2 micron represente un ecart de 1 000 fois.
+Le 21 février 1987, TSMC est officiellement enregistrée. Le capital social est de 145 millions de dollars US, avec le fonds de développement de l'Exécutif détenant 48,3 %, Philips (Pays-Bas) 27,5 % et Wang Yung-ching (Formosa Plastics) 5 %[^13]. La première usine de plaquettes est située dans le parc scientifique de Hsinchu, avec des plaquettes de 6 pouces (150 mm) et un procédé de 2 micromètres ; elle est issue de la deuxième phase du programme VLSI, après que l'ITRI s'est inspiré de RCA aux États-Unis, avec un transfert technologique entre l'ITRI et Philips[^17][^34]. Comparé au 2 nanomètre d'aujourd'hui, le 2 micromètre représente une différence de 1000 fois.
 
-> « En 1987, quand j'ai fonde TSMC, les premières annees etaient vraiment difficiles. Comment aurais-je pu avoir une vision à dix ans ? Je voulais juste survivre — que la societe survive ! »[^28]
+> « En 1987, quand j'ai fondé TSMC, les premières années ont été très difficiles. Je n'avais aucune vision pour les dix ans à venir ; je voulais seulement survivre, je voulais seulement que l'entreprise survive ! »[^28]
 
-Voilà comment Morris Chang se rememorait cette periode. Les 48,3 % investis par le gouvernement etaient, de son propre aveu, ceux d'un « investisseur à contrecoeur ». Sans le soutien de Li Kwoh-ting, ces fonds n'auraient jamais ete debloques[^28].
+Morris Chang s'en souvient ainsi. Quant à l'investissement de 48,3 % du gouvernement, selon ses propres mots, il s'agissait d'un « investisseur réticent ». Sans le soutien indéchiffrable de Li Kuo-ting, ces fonds n'auraient jamais été débloqués[^28].
 
-Au debut, le principal defi n'etait pas technique, mais humain : la confiance. Chang rendit visite une à une aux grandes entreprises mondiales de semi-conducteurs, tentant de les convaincre de confier leur fabrication à une petite usine taïwanaise. La plupart trouvaient l'idee inconcevable : deleguer sa chaîne vitale à un tiers ? Mais Chang s'en tint à deux principes, qui devinrent ses devises[^13] :
+Au début, le plus grand défi n'était pas la technologie, mais la confiance. Morris Chang a visité les entreprises de semi-conducteurs du monde entier, tentant de les convaincre de confier leur fabrication la plus critique à une petite usine taïwanaise. La plupart trouvaient cela incroyable : confier ses fonctions vitales à un tiers ? Mais Morris Chang a insisté sur deux principes qui sont devenus sa devise[^13] :
 
-> « "Ne jamais faire de promesses légères à nos clients, mais une fois une promesse faite, tout mettre en oeuvre coûte que coûte pour la tenir" devint notre devise. "Ne pas concurrencer les clients" et "Les clients sont nos partenaires" devinrent egalement les devises de la nouvelle entreprise. »
+> « "Ne pas faire de promesses faciles aux clients, mais une fois qu'une promesse est faite, s'y tenir coûte que coûte et s'y consacrer pleinement" est devenu notre devise. "Ne pas concurrencer les clients" ainsi que "Les clients sont nos partenaires" sont également devenus les piliert de la nouvelle entreprise. »
 
-Cette promesse — ne pas creer de marque propre, ne jamais concurrencer les clients — s'avera être le fosse defensif le plus solide de TSMC. C'est ce mur qui permit à NVIDIA, Qualcomm et AMD de confier tous leurs plans à TSMC.
+Cette promesse de « ne pas créer de marque propre et de ne jamais concurrencer ses clients » s'est avérée être le rempart (moat) le plus puissant de TSMC. Grâce à ce mur, NVIDIA, Qualcomm et AMD ont osé confier tous leurs plans de conception à TSMC.
 
-> 📝 **Point de vue de la redaction :** Ce que Chang a invente, ce n'est pas une technologie, c'est une nouvelle façon de diviser le travail. Avant lui, fabriquer des puces impliquait de posseder ses propres usines. Après lui, les meilleurs concepteurs de puces du monde purent se concentrer sur la conception — laissant la fabrication à Taiwan. Cette division a rendu possibles NVIDIA, Qualcomm et AMD tels que nous les connaissons aujourd'hui.
+> 📝 **Note de l'éditeur :** Morris Chang n'a pas inventé une technologie, mais une méthode de division du travail. Avant lui, celui qui faisait des puces devait construire ses propres usines. Après lui, les concepteurs de puces les plus brillants du monde ont pu se concentrer sur la conception, laissant la fabrication à Taïwan. Cette spécialisation a façonné le visage actuel de NVIDIA, Qualcomm et AMD.
 
-## Du « mal compris » à l'« incontournable »
+## Personne ne comprenait qu'il était indispensable
 
-![Vue aerienne du complexe d'usines TSMC dans le Parc scientifique de Hsinchu, 2 janvier 2020 (photo : Tseng Cheng-Hsun)](/article-images/economy/tsmc-fabs-hsinchu-2020.webp)
-_Complexe d'usines TSMC dans le Parc scientifique de Hsinchu (Tseng Cheng-Hsun, 2 janvier 2020). Photo: Tseng Cheng-Hsun. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg)._
+![Vue aérienne des installations de TSMC dans le parc scientifique de Hsinchu, le 2 janvier 2020 : l'incarnation de la phrase « Les clients regroupent toute la chaîne d'approvisionnement dans un rayon de cent kilomètres » (Photo par Tseng Cheng-Hsun)](/article-images/economy/tsmc-fabs-hsinchu-2020.webp)
+_Installations de TSMC dans le parc scientifique de Hsinchu (Tseng Cheng-Hsun, 2 janvier 2020). Photo : Tseng Cheng-Hsun. [CC BY 2.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg)._
 
-Le tournant se produisit à la fin des annees 1990.
+Le tournant a eu lieu à la fin des années 1990.
 
-La première usine 8 pouces de TSMC, Fab 3, atteignit sa cadence de production en 1995. En octobre 1997, la Fab 5 de Hsinchu fut inauguree (troisième usine 8 pouces de l'entreprise, première à deux etages, procede 0,35 micron), avec une production en volume debut 1998[^17][^35]. En decembre 1999, la première usine 12 pouces, Fab 12, fut mise en chantier, et sa production commenca en 2002[^17]. L'Asie venait de traverser la crise financière de 1997 ; la plupart des fabricants de semi-conducteurs reduisaient la voilure. TSMC choisit au contraire d'augmenter sa capacite — cette decision de « se montrer gourmand quand les autres ont peur » etablit la domination des deux decennies suivantes.
+La première usine de 8 pouces de TSMC, Fab 3, est passée en production de masse en 1995. En octobre 1997, la Fab 5 à Hsinchu a été achevée (la troisième usine de 8 pouces de l'entreprise, avec une conception à deux étages et un procédé de 0,35 micromètre) et a commencé sa production en début 1998[^17][^35]. En décembre 1999, la construction de la première usine de 12 pouces, Fab 12, a débuté pour une mise en service en 2002[^17]. À cette époque, l'Asie venait de traverser la crise financière de 1997 et la plupart des entreprises de semi-conducteurs se retiraient. TSMC a choisi d'étendre sa capacité à contre-courant ; cette décision de « profiter quand les autres ont peur » a établi sa position de leader pour les deux décennies suivantes.
 
-L'explosion simultanee des PC et des telephones mobiles dans les annees 2000 fit exploser la demande en puces. Les entreprises « fabless » (sans usine) — NVIDIA, Qualcomm, Broadcom — commencèrent à emerger. Le modèle economique de TSMC passa de « incompris » à « incontournable ».
+L'explosion simultanée des ordinateurs personnels et des téléphones portables dans les années 2000 a entraîné une explosion de la demande de puces. Les entreprises « fabless » (sans usine), prêtes à séparer conception et fabrication (NVIDIA, Qualcomm, Broadcom), ont commencé à émerger. Le modèle commercial de TSMC est passé de « incompris » à « indispensable ».
 
-Morris Chang prit une première retraite en 2005, Rick Tsai lui succedant comme PDG. Le 9 septembre 2014, Apple presenta l'iPhone 6/6 Plus — c'etait la première fois que les puces de la serie Apple A etaient fabriquees exclusivement par TSMC (20 nm), remplaçant officiellement Samsung[^18]. Depuis lors, chaque processeur dans chaque iPhone est fabrique à Taiwan.
+En 2005, Morris Chang a pris sa première retraite, laissant la place à Tsai Li-hsing comme PDG. Le 9 septembre 2014, Apple a lancé l'iPhone 6/6 Plus ; c'était la première fois que les puces de la série Apple A étaient fabriquées exclusivement par TSMC (20 nanomètres), remplaçant officiellement Samsung[^18]. Depuis lors, chaque processeur d'iPhone est produit à Taïwan.
 
-Chang prit officiellement sa retraite en 2018, Liu Deyin et C. C. Wei lui succedant dans une direction bicepha ; en 2024, Liu Deyin se retira, laissant C. C. Wei seul president-directeur general.
+En 2018, Morris Chang a pris sa retraite officielle, laissant place au système de double direction avec Liu De-yin et Wei Jھی-jia ; en 2024, Liu De-yin a quitté ses fonctions, laissant Wei Jھی-jia seul président et PDG.
 
-Ces donnees ne sont pas une simple chronologie — elles illustrent une logique qui s'accumule : tous les concurrents decrocherent les uns après les autres (IBM, TI, Samsung n'arrivant pas à suivre, Intel coince sur le 7 nm), et le goulot d'etranglement des procedes avances mondiaux se resserra de plus en plus.
+Ce n'est pas une simple chronologie, c'est l'accumulation d'une même logique : tous les concurrents ont fini par décrocher (IBM, TI, Samsung n'ont pas pu suivre, Intel est resté bloqué au 7 nanomètres), et le goulot d'étranglement des procédés avancés mondiaux s'est rétréci.
 
-Puis l'IA arriva.
+Puis l'IA est arrivée.
 
 ## Ces 10 minutes de 2009
 
-Au debut de 2009, la crise financière mondiale balayait la planète.
+Au début de 209, le tsunami financier a déferlé sur le monde.
 
-Rick Tsai, alors PDG, licencia 840 employes au motif de « mauvaises performances et echec aux evaluations », refusant deliberement d'utiliser le mot « licenciement ». Les employes congodies formerent un comite de defense et vinrent manifester devant le domicile de Morris Chang à Taipei.
+Le PDG de l'époque, Tsai Li-hsing, a licencié 840 employés pour « performances insuffisantes et échec des évaluations », en évitant délibérément le mot « licenciement ». Les employés licenciés ont formé un comité de soutien et sont allés manifester devant la résidence de Morris Chang à Taipei.
 
-La femme de Chang, Chang Shu-fen, ne dormit pas de la nuit. Le lendemain matin, elle descendit avec son garde du corps pour acheter personnellement « assez de soupe de soja, de galettes et de beignets pour 30 personnes », qu'elle distribua aux employes qui avaient manifeste toute la nuit. Ces derniers declarerent aux medias[^14] :
+L'épouse de Morris Chang, Chang Shu-fen, n'a pas fermé l'œil de la nuit. Au petit matin, elle est descendue avec ses gardes du corps pour acheter personnellement « assez de lait de soja, de pains et de beignets pour 30 personnes » afin de les distribuer aux employés qui manifestaient toute la nuit. Les employés ont plus tard confié aux médias[^14] :
 
-> « Tout le monde etait très emu, et nous avons decide d'annuler la manifestation initialement prevue sur le Boulevard Ketagalan. »
+> « Tout le monde a été très ému, et nous avons décidé d'annuler la manifestation prévue sur l'avenue Ketagalan. »
 
-Le 11 juin de la même annee, lors du conseil d'administration de TSMC, Morris Chang, 78 ans, proposa « en moins de dix minutes » de demettre Rick Tsai de ses fonctions de PDG[^14] et reprit lui-même les rênes.
+Le matin du 11 juin de cette année-là, lors du conseil d'administration de TSMC, Morris Chang, âgé de <0xC2>78 ans, a proposé en « moins de dix minutes » le retrait de Tsai Li-hsing de ses fonctions de PDG[^14], pour revenir lui-même à la tête de l'entreprise.
 
-Il expliqua plus tard pourquoi[^14] :
+Il a plus tard expliqué pourquoi[^14] :
 
-> « Nous n'aurions jamais adopte cette methode. Tout au plus, nous aurions accorde aux employes peu performants une periode d'amelioration de 6 mois... Et même après la periode probatoire, nous n'aurions pas licencie les gens. »
+> « Nous n'utilisons jamais cette méthode ; au maximum, nous faisons passer les employés aux performances insuffisantes par une période d'amélioration de 6 mois... mais même après la période d'essai, nous ne licencions personne. »
 
-> 📝 **Point de vue de la redaction :** Ces 10 minutes de 2009 repondent concrètement à la question de pourquoi la règle culturelle « ne pas licencier » existe chez TSMC. La severite de TSMC ne reside pas dans l'« elimination », mais dans le fait de « donner un accompagnement même à ceux qui ne suivent pas ». Mais le coût de cette promesse, c'est que l'entreprise doit disposer d'une capacite d'expansion rapide pour absorber tous ses employes.
+> 📝 **Note de l'éditeur :** Pourquoi cette règle culturelle du « ne pas licencier » est-elle devenue une règle ? Ces 10 minutes en 2009 apportent la réponse concrète. La rigueur de TSMC ne réside pas dans l'élimination, mais dans le fait de proposer un accompagnement même si vous n'êtes pas au niveau. Mais le prix de cette promesse est que l'entreprise doit disposer des moyens d'une expansion rapide pour absorber tous ses employés. Lorsqu'une entreprise ne peut plus croître, cette promesse devient sa chaîne.
 
-## Les camions-citernes et les rizières sacrifiees
+## La roue à eau transporte l'eau, les champs cèdent leur eau
 
-Au printemps 2021, Taiwan connut la pire secheresse depuis 56 ans.
+Au printemps 2021, Taïwan a connu la pire sécheresse depuis 56 ans.
 
-Les reservoirs du Parc scientifique de Hsinchu tomberent à des niveaux historiquement bas. TSMC dut faire appel à des camions-citernes : chaque trajet de 12 tonnes se negociait 15 000 nouveaux dollars taiwanais[^22].
+Les réservoirs du parc scientifique de Hsinchu ont atteint des niveaux historiquement bas. TSMC a alors activé le transport d'eau par camion : un camion de 12 tonnes, dont le prix pour un trajet s'élevait à 15 000 dollars taïwanais[^22].
 
-Dans le même temps, le gouvernement ordonnait l'arrêt de l'irrigation des rizières des regions de Taoyuan, Hsinchu et Miaoli. L'eau des agriculteurs etait redirigee vers les fonderies. Le New York Times le formulait sans detours : « La secheresse à Taiwan oppose les fabricants de puces aux agriculteurs »[^23].
+Au même moment, le gouvernement a ordonné l'arrêt de l'irrigation des rizières dans les régions de Taoyuan, Hsinchu et Miaoli. L'eau des agriculteurs a été cédée aux usines de plaquettes. Le titre du _New York Times_ était sans détour : « La sécheresse à Taïwan oppose les fabricants de puces et les agriculteurs »[^23].
 
-C'est l'autre face de la « montagne gardienne de la nation ». Une seule usine avancee de TSMC consomme plus de 150 000 tonnes d'eau par jour, et la consommation electrique de l'entreprise depasse 7 % de la consommation nationale. Entre 2015 et 2019, la consommation d'eau de TSMC a augmente de 70 %[^24]. Dans l'etude d'impact environnemental de l'extension de Baoshan Phase II, TSMC s'est engage à utiliser 100 % d'eau recyclée dans ses procedes — mais la seule construction d'une canalisation dediee jusqu'au parc scientifique coûterait plus de dix milliards de nouveaux dollars taiwanais, à la charge de l'Etat.
+C'est l'autre face de la « Montagne protectrice de la nation ». Une seule usine de procédés avancés de TSMC consomme plus de 150 000 tonnes d'eau par jour, et sa consommation électrique représente plus de 7 % de la consommation totale de Taïwan. Entre 2015 et 2019, la consommation d'eau propre de TSMC a augmenté de 70 %[^24]. Dans l'étude d'impact environnemental de l'extension de la phase 2 de Baoshan, TSMC s'est engagée à utiliser 100 % d'eau recyclée, mais le seul coût du raccordement des conduites d'eau recyclée vers le parc de Hsinchu dépasse les dix milliards de dollars taïwanais, et c'est au gouvernement de payer la facture.
 
-Li Jiemu, ancien directeur du Parc scientifique de Hsinchu, declara en 2021 au Mirror Media[^25] :
+L'ancien directeur du parc scientifique de Hsinchu, Li Chieh-mu, a déclaré en 2021 à _Mirror Media_[^25] :
 
-> « Faire venir des camions-citernes, c'est comme essayer d'eteindre un incendie avec une tasse d'eau... Si la pluie ne revient pas, TSMC sera confronte à une reduction de sa production. »
+> « Transporter l'eau par camion, c'est comme essayer d'éteindre un incendie avec un verre d'eau ; cela ne sert qu'à l'urgence... Si la pluie ne revient pas, TSMC devra réduire sa production. »
 
-TSMC s'est engage à atteindre la neutralite carbone en 2050 et investit massivement dans les energies renouvelables. Le paradoxe est là : plus la demande en IA est forte, plus les procedes avances consomment eau et electricite. Plus la montagne gardienne grandit, plus son ombre s'etend.
+TSMC s'est engagée à atteindre le zéro émission nette d'ici 2050 et investit massivement dans les énergies renouvelables. Mais paradoxalement : plus la demande en IA est forte, plus les procédés avancés consomment d'électricité et d'eau. Plus la « Montagne protectrice » s'élève, plus son ombre s'allonge.
 
-> 📝 **Point de vue de la redaction :** Le terme « montagne gardienne de la nation » est presque devenu un acte de foi à Taiwan. Quand une entreprise est assez grande pour que toute la distribution des ressources en eau et en electricite du pays soit reorganisee à son profit, la frontière entre « protection » et « dependance » est devenue floue.
+> 📝 **Note de l'éditeur :** Le terme « Montagne protectrice de la nation » (護國神山) est presque devenu une croyance à Taïwan — mais l'autre face d'une croyance est l'impossibilité de la remettre en question. Lorsqu'une entreprise devient si grande que la répartition des ressources en eau et en éclec de tout un pays doit s'effacer devant elle, la frontière entre « protection » et « dépendance » s'est estompée.
 
 ## Les 178 ans de la famille Zheng
 
-Canton de Baoshan, comte de Hsinchu.
+Comté de Baoshan, comté de Hsinchu.
 
-En 1844 (24e annee du règne de l'empereur Daoguang sous la dynastie Qing), la famille du descendant Zheng Yong-jin etablit ici un cimetière familial de 4 000 pings. Cent soixante-dix-huit ans plus tard, ce cimetière ancestral devait ceder la place à l'usine de 2 nm de TSMC[^20].
+En 1844 (24e année de l'ère Daoguang de la dynastie Qing), Zheng Yong-jin fit construire par sa famille un cimetière familial de 4 000 pyongs. Cent soixante-dix-huit ans plus tard, ces tombes ancestrales doivent céder leur terrain pour l'usine de 2 nanomètres de TSMC[^20].
 
-L'administration du Parc scientifique, pour exproprier 270 000 pings de terrain (dont le cimetière de la famille Zheng), negocia avec les descendants Zheng pendant cinq ans. Au cours du processus, TSMC « fit venir clandestinement des ouvriers pour effectuer des sondages dans le cimetière, planta des barres en fer et fit des marques à au moins 3 endroits »[^20]. Les villageois de Baoshan « accrocherent des banderoles blanches pour protester ». Le conseiller du comte de Hsinchu, Chiu Chen-wei, alla jusqu'à declarer : « C'est comme effacer completement le village de Daqi. »[^20]
+Le bureau de gestion du parc scientifique de Hsinchu a dû négocier pendant cinq ans avec les descendants de la famille Zheng pour l'expropriation de 270 000 pyongs (incluant le cimetière). Durant le processus, TSMC aurait « engagé des ouvriers pour creuser et sonder le cimetière sans autorisation, plantant des barres de fer à au moins trois endroits »[^20]. Les habitants de Baoshan ont manifesté avec des rubans blancs. Le conseiller du comté de Hsinchu, Chiu Chen-wei, a déclaré directement : « C'est comme l'extermination du village d'Oosaki »[^2<0xA0>20].
 
-En mai 2025, les reinhumations furent terminees.
+La relocalisation s'est achevée fin mai 2025.
 
-Ce n'est qu'un cas parmi d'autres. À Baoshan (comte de Hsinchu), Tongluo (comte de Miaoli), au Parc scientifique de Taichung, à Chiayi et à Nanzi (comte de Kaohsiung), TSMC est confronte à des controverses similaires d'expropriation. Chaque nouvelle usine signifie qu'un pan d'histoire locale doit être tourne — mais tout le monde ne se souvient pas du nom des descendants de la famille Zheng.
+Ce n'est qu'un cas parmi d'autres. À Baoshan (Hsinchu), Tongluo (Miaoli), Taichung, Chiayi ou Kaohsiung (Nanzih), TSMC fait face à des litiges d'expropriation et d'impact environnemental de même ampleur. Chaque nouvelle usine signifie qu'une part de l'histoire locale est effacée, même si les noms des descendants de la famille Zheng ne sont pas toujours mémorisés par tous.
 
-> ✦ **« C'est comme effacer completement le village de Daqi. » (Le conseiller du comte de Hsinchu, Chiu Chen-wei)[^20]**
+> ✦ **« C'est comme l'extermination du village d'Oosaki. » (Chiu Chen-wei, conseiller du comté de Hsinchu)[^20]**
 
-## L'homme le plus important dans la Salle Est de la Maison Blanche
+## L'homme le plus important de la salle ovale
 
-![Vue aerienne du chantier de construction de la Fab 21 de TSMC à Phoenix, Arizona, le 5 novembre 2023 (photo : Hunter Trick)](/article-images/economy/tsmc-fab21-arizona-2023.webp)
-_Chantier de la Fab 21 de TSMC à Phoenix, Arizona (Hunter Trick, 5 novembre 2023). Photo: Hunter Trick. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:231105-1_TSMC_Fab_21_construction.jpg)._
+![Vue aériée du chantier de la Fab 21 de TSMC à Phoenix, Arizona, le 5 novembre <0xA0>2023 (Photo par Hunter Trick)](/article-images/economy/tsmc-fab21-arizona-2023.webp)
+_Vue aériée du chantier de la Fab 21 de TSMC à Phoenix, Arizona (Hunter Trick, 5 novembre 2023). Photo : Hunter Trick. [CC BY-SA 4.0 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:231105-1_TSMC_Fab_21_construction.jpg)._
 
-L'après-midi du 3 mars 2025, Salle Est de la Maison Blanche.
+L'après-midi du 3 mars 2025, dans la salle ovale de la Maison Blanche.
 
-C'etait le 43e jour de la presidence de Donald Trump. Le secretaire au Commerce Howard Lutnick, le conseiller pour l'IA et les cryptomonnaies David Sacks, le president de TSMC C. C. Wei et le fondateur de NVIDIA Jensen Huang etaient reunis (Huang avait ete invite par C. C. Wei pour « lui prêter main forte », mais ne prit jamais la parole).
+Donald Trump est en poste depuis 34 jours. Le secrétaire au Commerce Howard Lutnick, le conseiller IA et cryptomonnaies David Sacks, le président de TSMC Wei Jھی-jia et le fondateur de NVIDIA Jensen Huang sont présents dans le même cadre (Jensen Huang a été invité par Wei Jھی-jia pour « soutenir la présence », mais n'est pas monté sur scène).
 
-Trump annona : TSMC allait ajouter 100 milliards de dollars à ses investissements ; avec les 65 milliards precedents, le total investi aux Etats-Unis atteindrait 165 milliards de dollars, avec six usines prevues[^7]. A mi-chemin, il se tourna vers les deux ministres et dit[^7] :
+Trump annonce : TSMC augmentera son investissement de 100 milliards de dollars ; ajoutés aux 65 d $\$ $ précédents, l'investissement total américain pourrait atteindre 165 milliards de dollars, avec un projet de six usines de plaquettes[^7]. Au milieu de son discours, il s'est tourné vers deux de ses ministres pour dire une phrase[^7] :
 
 > "Right now, he's the most important man in the room. I'm sorry, fellas."
 
-C. C. Wei prit la parole pour exposer le plan, et la phrase la plus cruciale fut en anglais[^7] :
+Wei Jھی-jia est monté sur scène pour présenter le projet, et la phrase la plus cruciale a été prononcée en anglais verbatim[^7] :
 
 > "In Phoenix, Arizona, with 3,000 employees, we are producing the most advanced chip made on U.S. soil."
 
-Ce n'etait pas un evenement isole. En fevrier 2025, Lai Ching-te avait rendu visite en prive à Morris Chang, C. C. Wei et au directeur Lin Chuan pour preparer cette annonce[^19]. Le 14 janvier 2026, Trump signa les droits de douane Section 232 sur les semi-conducteurs, imposant une taxe de 25 % sur toutes les importations de semi-conducteurs dont les entreprises n'avaient pas investi aux Etats-Unis, mais accordant une clause d'exemption de « capacite planifiee 2,5x » à TSMC pour ses investissements en sol americain[^9]. Le message etait clair : plus vous deplacez votre production vers Phoenix, moins les droits de douane vous affecteront.
+Ce n'est pas un événement isolé. En février 202\\25, Lai Ching-te a déjà visité en privé Morris Chang, Wei Jھی-jia et le directeur Lin Chuan, en préparation de cette annonce[^19]. Le 14 janvier 2026, Trump a signé la Section 232 sur les tarifs des semi-conducteurs, imposant une taxe de 25 % sur toutes les importations de semi-conducteurs ne faisant pas l'objet d'investissements aux États-Unis ; cependant, ce même décret accorde à TSMC une exemption de « 2,5x la capacité prévue » pour ses investissements américains[^9]. Cela signifie : vous ne vous contentez pas de vendre aux États-Unis, vous **produisez aux États-Unis** — plus vous déplacez vos lignes de production vers Phoenix, moins les tarifs vous toucheront.
 
-Cela lie encore plus solidement tous les procedes avances au sol americain.
+Cela lie encore plus étroitement tous les procédés avancés au sol américain.
 
-En Arizona, les travaux avancent plus vite que prevu. La deuxième phase (3 nm), initialement prevue pour une production en 2028, devrait commencer l'installation des equipements au troisième trimestre 2026 et produire en 2027 — un an plus tot[^8]. La troisième phase N2/A16 a commence en avril 2025. En fevrier 2025, Apple annona qu'elle achèterait « plus de 100 millions » de puces fabriquees à Phoenix en 2026[^10].
+Le progrès en Arizona est plus rapide que prévu. La phase 2 de l'usine de 3 nanomètres, initialement prévue pour une production en 2028, commencera l'installation des équipements au troisième trimestre 2026, avec une production attendue en 2027, soit un an d'avance[^8]. La phase 3 (N2/A16) a débuté en avril 2025. En février 2025, Apple a annoncé qu'il achèterait « plus de 100 millions » de puces fabriquées à Phoenix en 2026[^10].
 
-C'est l'envers de la theorie du « bouclier de silicium ». La deputee du Kuomintang Ko Chih-en declara en mars 2025 au Taipei Times[^29] :
+C'est l'opposé de la théorie du « bouclier de silicium ». Le député du KMT, Ko Chih-en, a déclaré en mars 2025 au _Taipei Times_ (en anglais verbatim)[^29] :
 
 > "The more TSMC produces in the US, the lower Taiwan's geopolitical importance will be, and the less incentive the US will have to help Taiwan."
 
-Un sondage de CommonWealth Magazine en 2025 revele que 64 % des Taiwanais estiment que l'investissement aux Etats-Unis affaiblit le bouclier de silicium[^21]. Le MIT Technology Review publia en août 2025 un article intitule « Taiwan's silicon shield could be weakening »[^26].
+Selon un sondage de _Vista Magazine_ en 202\\25, 64 % des Taïwanais pensent que les investissements aux États-Unis affaiblissent le bouclier de silicium[^21]. La _MIT Technology Review_, en août 2025, a publié un article intitulé « Taiwan's silicon shield could be weakening »[^26].
 
-La reponse du gouvernement Lai fut : « Il n'y a aucune pression venant des Etats-Unis. » Mais le titre de Foreign Policy en novembre 2025 etait sans detours : « Lai Administration Has Rocky Relationship With Chip Giant TSMC »[^30].
+La réponse du gouvernement de Lai Ching-te est qu'il n'y a « aucune pression venant des États-Unis ». Pourtant, le titre de _Foreign Policy_ en novembre 2025 est sans équivoque : « Lai Administration Has Rocky Relationship With Chip Giant TSMC »[^30].
 
-## La mondialisation est morte chez TSMC
+## La fin de la mondialisation pour TSMC
 
-Le 26 octobre 2024, stade du comte de Hsinchu, journee sportive de TSMC.
+Le 26 octobre 2024, au stade sportif du comté de Hsinchu, lors des Jeux Sportifs de TSMC.
 
-C'etait cense être l'evenement le plus joyeux de l'annee. Morris Chang, 93 ans (retraite depuis 6 ans), monta au podium. Il ne parla pas des realisations de TSMC. Il lança un avertissement public[^31] :
+En principe, cela devrait être le moment le plus joyeux de l'année. Morris Chang (retraité depuis 6 ans), âgé de 93 ans, s'est tenu à la tribune pour son discours. Il n'a pas parlé des réussites de TSTSMC. Il a lancé un avertissement public[^31] :
 
-> « Dans les semi-conducteurs, en particulier dans les semi-conducteurs les plus avances, la mondialisation est morte, et le libre-echange mondial est mort. »
+> « Dans le domaine des semi-conducteurs, et partic<0xC2>ath les plus avancés, la mondialisation est morte, le libre-échange mondial est mort. »
 
-> « Le succes de TSMC est devenu un enjeu incontournable pour les strateges geopolitiques ; aujourd'hui, TSMC est vraiment devenu un enjeu que tout le monde veut controler. »
+> « Le succès de TSMC est devenu un enjeu stratégique pour les géopoliticiens ; aujourd'hui, TSMC est véritablement devenu un champ de bataille. »
 
-> « Dans un environnement où la mondialisation est morte et le commerce mondial est mort, le defi de TSMC est de continuer à chercher à se developper. »
+> « Dans un environnement où la mondialisation et le commerce mondial sont morts, le défi de TSMC est de continuer à chercher le développement. »
 
-C. C. Wei declara lors de la conference d'investisseurs du 15 janvier 2026[^11] :
+Le fondateur prononce un tel jugement lors d'un événement censé favoriser l'unité au sein même de son entreprise. Il ne fait pas une analyse géopolitique ; il lance un avertissement public.
 
-> « Je suis aussi très nerveux... Si nous n'evaluons pas prudemment et investissons trop, ce sera une grande catastrophe pour TSMC. »
+Wei Jھی-jia a déclaré une autre phrase lors de la conférence financière du 15 janvier 2026[^11] :
 
-Cette phrase intervenait dans le contexte du risque de bulle de l'IA. Le budget d'investissement 2026 de TSMC est de 52 à 56 milliards de dollars (contre 40,9 milliards en 2025 et 28,9 milliards en 2024)[^3]. Autrement dit, l'investissement annuel de TSMC en R&D et en expansion d'usines est superieur au budget annuel total de la defense nationale de Taiwan.
+> « Je suis également très inquiet... sans une évaluation prudente, un surinvestissement pourrait être une catastrophe majeure pour TSMC. »
 
-La reponse de Jensen Huang etait d'une autre nature[^32] :
+Le contexte de cette phrase est le risque de bulle de l'IA. Le budget d'investissement (CAPEX) de TSMC pour 2026 est prévu entre 52 et 56 milliards de dollars US (contre 40,9 milliards en 2025 / 2\\28,9 milliards en 2024)[^3]. Autrement dit, l'investissement annuel de TSMC dans la R&D et l'expansion des usines est supérieur au budget de défense annuel de tout Taïwan.
 
-> « Je pense que dans les 10 prochaines annees, la capacite de TSMC est susceptible d'augmenter de bien plus de 100 %. C'est un investissement considerable dans la prochaine decennie — ce sera le plus grand investissement en infrastructure et la plus grande expansion de l'histoire de l'humanite. »
+La réponse de Jensen Huang est d'une autre nature[^32] :
 
-## Le colosse dans les chiffres
+> « Je pense que au cours de la prochaine décennie, la capacité de production de TSMC pourrait augmenter de bien plus de 100 %. Ce sera un investissement considérable pour la prochaine décennie, une expansion massive, ce qui constituera l'investissement et l'expansion d'infrastructure les plus importants de l'histoire de l'humanité. »
 
-| Indicateur                          | Chiffre (Q1 2026 / le plus recent)         | Source       |
-| ----------------------------------- | ------------------------------------------ | ------------ |
-| Chiffre d'affaires Q1 2026          | 35,9 milliards USD (+40,6 % sur un an)     | [^1]         |
-| Benefice par action Q1 2026         | NT$ 22,08 (+58,3 % sur un an)              | [^2]         |
-| Marge brute Q1 2026                 | 66,2 % / Marge operationnelle 58,1 %       | [^2]         |
-| Budget capex 2026                   | 52-56 Md USD (vs 2025 : 40,9 Md)           | [^3]         |
-| Part des 3 nm au Q1                 | 25 % (vs 6 % au T3 2023)                   | [^4]         |
-| Rendement des 2 nm                  | 70-80 % (puces de test)                    | [^5]         |
-| Part de marche procedes avances     | Plus de 90 % (3 nm)                        | Rapport TSMC |
-| Part de marche fonderie mondiale    | Environ 54 %                               | TrendForce   |
-| Capitalisation boursière (mai 2026) | Environ 1 700 Md USD (6e mondial)          | [^33]        |
-| Effectifs                           | 84 512 personnes (dec. 2024) / est. 90 000 | [^11]        |
+## Le géant derrière les chiffres
 
-Les puces d'entraînement IA de NVIDIA, les processeurs mobiles d'Apple, les puces serveur d'AMD — tous fabriques exclusivement par TSMC. Si les usines de TSMC s'arrêtaient une semaine, c'est toute l'industrie technologique mondiale qui serait paralysee.
+| Indicateur                          | Chiffre (T1 2026 / Récent)             | Source              |
+| :---------------------------------- | :------------------------------------- | :------------------ |
+| CA T1 2026                          | 35,9 milliards USD (+40,6 % sur un an) | [^1]                |
+| BPA T1 2026                         | 22,08 TWD (+58,3 % sur un an)          | [^2]                |
+| Marge brute T1 2026                 | 66,2 % / Marge opérationnelle 58,1 %   | [^2]                |
+| Budget CAPEX 2026                   | 52-56 milliards USD (vs 40,9B en 2025) | [^3]                |
+| Part du 3nm dans le CA T1           | 25 % (vs 6 % au T3 2023)               | [^4]                |
+| Rendement du 2nm                    | 70-80 % (puces de test)                | [^5] \\             |
+| Part de marché procédés avancés     | Plus de 90 % (3 nm)                    | Rapport annuel TSMC |
+| Part de marché fonderie mondiale    | Environ 54 %                           | TrendForce          |
+| Capitalisation boursière (mai 2026) | Environ 1,7 billion USD (6e mondiale)  | [^33]               |
+| Nombre d'employés                   | 84 512 (déc. 2024) / Est. 90 000       | [^11]               |
 
-La production en volume du procede à 2 nm est prevue pour le second semestre 2026 ; les usines Fab 20 à Hsinchu Baoshan et Fab 22 à Kaohsiung ont deja leur capacite de production 2026 entièrement reservee[^5]. Le 1,4 nm (A14) fut officiellement presente lors du symposium nord-americain en avril 2025, avec une production en volume prevue en 2028 — offrant une amelioration de la vitesse de 10-15 % ou des economies d'energie de 25-30 % et une densite logique superieure de 20 % par rapport au 2 nm[^6].
+Les puces d'entraînement IA de NVIDIA, les processeurs mobiles d'Apple, les puces de serveurs d'AMD sont tous fabriqués exclusivement par TSTSMC. Si les usines de TSMC s'arrêtaient une semaine, l'industrie technologique mondiale s'arrêterait avec elles.
 
-L'investissement de chaque generation de procede depasse celui de la precedente : une seule usine en 2 nm coûte plus de 20 milliards de dollars. Plus les procedes approchent des limites physiques, plus chaque pas en avant est coûteux, et moins il reste de concurrents capables de suivre.
+La production en masse du 2 nm est prévue pour le second semestre 2026 ; les capacités des deux usines de Hsinchu (Fab 20) et Kaohsiung (Fab 22) sont déjà réservées pour toute l'année 2026[^5]. Le procédé 1,4 nm (A14) a été officiellement présenté lors du symposium en Amérique du Nord en avril 2025 ; sa production est prévue pour 2028, avec une vitesse augmentée de 10-15 % ou une économie d'énergie de 25-30 % par rapport au 2 nm, et une densité logique supérieure de plus de 20 %[^6].
+
+L'investissement pour chaque génération dépasse celui de la précédente : une usine de 2 nm coûte plus de 20 milliards de dollars. À mesure que les procédés approchent des limites physiques, chaque pas en avant coûte plus cher, et le nombre de concurrents capables de suivre diminue.
 
 ## Le poids d'une île
 
-En mai 2026, la capitalisation boursière de TSMC equivaut à environ 2,3 fois le PIB annuel de Taiwan. Une seule entreprise vaut plus que la production economique de tout un pays en une annee — il n'existe pas de second exemple dans le monde.
+En mai 2026, la capitalisation boursière de TSMC équivaut environ à 2,3 fois le PIB de Taïwan. Une seule entreprise est plus grande que la production annuelle de tout un pays — il n'existe pas d'autre exemple dans le monde.
 
-Morris Chang a confie au Wall Street Journal qu'il s'estimait « accompli », se comparant à un vieux soldat — « ne mourant pas, mais s'effaçant lentement »[^27]. Mais ce qu'il a cree depasse de loin une simple entreprise. Autour de TSMC, Taiwan a bati le tissu industriel de [semi-conducteurs](/fr/technology/semiconductor-industry/) le plus dense au monde — des equipements aux materiaux, en passant par l'encapsulation et les tests, toute la chaîne d'approvisionnement tient dans un rayon de cent kilomètres. Cette densite permet à TSMC de repondre aux modifications techniques d'un client en moins de 24 heures — Samsung et Intel ne peuvent pas en dire autant.
+Morris Chang a déclaré au _Wall Street Journal_ qu'il avait « terminé », se décrivent comme un vieux soldat, « qui ne meurt pas mais s'étiole progressivement »[^27]. Mais ce qu'il a créé dépasse largement une simple entreprise. Autour de TSMC, Taïwan a construit le cluster de l'[industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry/) le plus dense au monde : de l'équipement aux matériaux, jusqu'au packaging et aux tests, toute la chaîne d'approvisionnement se trouve dans un rayon de cent kilomètres. Cette densité permet à TSTSMC de répondre aux modifications techniques des clients en 24 heures, ce que Samsung et Intel ne peuvent faire.
 
-En 1987, Morris Chang disait qu'il « voulait juste survivre ». Trente-huit ans plus tard, le monde entier a besoin que TSMC survive. D'une quête de survie individuelle, à la survie d'une île, puis à la survie d'une civilisation.
+En 1987, Morris Chang disait : « Je voulais seulement survivre ». Trente-huit ans plus tard, le monde entier a besoin que TSMC survive. Ce qui était la survie d'un homme est devenu la survie d'une île, puis la survie d'une civilisation.
 
-Personne n'avait planifie un transfert de cette ampleur. Mais dans la pire secheresse depuis 56 ans, les camions-citernes continuent de rouler vers Baoshan ; sur le chantier de l'Arizona, la troisième usine vient de commencer ; sur le tapis rouge de la Maison Blanche, Trump fait l'eloge de l'homme qui quitta Texas Instruments à 56 ans et l'appelle « l'homme le plus important de cette pièce » — même si cet homme de 56 ans, lui, n'est plus dans cette pièce.
+Personne n'avait planifié une transition de cette ampleur. Pourtant, lors de la plus grande sécheresse depuis 56 ans, les camions d'eau continuent d'arriver à Baoshan ; sur le chantier de l'Arizona, la troisième usine vient de débuter ; sur le tapis rouge de la Maison Blanche, Trump loue celui qui a quitté TI à 56 ans comme « l'homme le plus important de cette pièce » — bien que cet homme de 56 ans ne soit plus dans cette pièce.
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- [Entreprises taiwanaises : MediaTek](/fr/economy/mediatek) — Troisième fabricant mondial de puces pour telephones mobiles, representant national du modèle fabless, complementaire à TSMC
-- [Entreprises taiwanaises : ASE Semiconductor](/fr/economy/taiwan-enterprise-ase-semiconductor) — Plus grand fabricant mondial d'encapsulation et de test, maillon aval crucial de la même chaîne d'approvisionnement que TSMC
-- [Marche boursier et marches de capitaux taiwanais](/fr/economy/taiwan-stock-market) — La capitalisation de TSMC represente environ 35 % du total du marche taiwanais
-- [Transformation industrielle de Taiwan](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC est l'exemple concret de la transformation de Taiwan d'île de sous-traitance en île technologique
+- [Entreprises taïwanaises : MediaTek](/fr/economy/mediatek) — Troisième plus grand concepteur de puces mobiles au monde, représentant local du modèle "fabless", partenaire complémentaire de TSMC.
+- [Entreprises taïwanaises : ASE Group](/fr/economy/taiwan-enterprise-ase-semiconductor) — Plus grand acteur mondial du packaging et des tests, maillon clé en aval de la chaîne d'approvisionnement de TSTSMC.
+- [Bourse et marché des capitaux à Taïwan](/fr/economy/taiwan-stock-market) — La capitalisation de TSMC représente environ 35 % de la capitalisation totale de la bourse de Taïwan ; comprendre la bourse taïwanaise nécessite de comprendre TSMC.
+- [Transformation industrielle de Taïwan](/fr/economy/industrial-transformation-from-manufacturing-to-innovation) — TSMC est l'exemple concret du passage de Taïwan d'une île de sous-traitance à une île technologique.
+- [Shi Zhenrong](/fr/people/stan-shih) — Fondateur d'Acer, administrateur de TSMC pendant 21 ans, dont la fortune était massivement investie dans les actions de TSMC, mais qui est l'auteur de la courbe en "J" prônant que Taïwan ne doit pas se contenter de la sous-traitance.
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — De la technologie RCA à la révolution des matériaux (nitrure de gallium et packaging quantique), le champ de bataille de la science des matériaux où se situe TSMC.
+- [Hung Jui-ren](/people/黃崇仁) — Fondateur de VISiLeap/Vanguard, une autre voie sur la même île : fabrication de plaquettes, ayant connu des dettes massives avant de revenir en bourse neuf ans plus tard.
+
+## Sources des images
+
+Cet article utilise 2 images, toutes mises en cache dans `public/article-images/economy/` pour éviter la surcharge des serveurs sources :
+
+- [Vue aérienne de l'usine de Hsinchu (hero)](https://commons.wikimedia.org/wiki/File:TSMC_fabs_in_Hsinchu_01.jpg) — Photo : Tseng Cheng-Hsun, 2020-01-02. [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) via Wikimedia Commons.
+- [Vue aériée du chantier Fab 21 de TSMC en Arizona](https://commons.wikimedia.org/wiki/File:231105-1_TSMC_Fab_21_construction.jpg) — Photo : Hunter Trick, 2023-11-05. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) via Wikimedia Commons. ShareAlike 4.0 : cet article (y compris les œuvres dérivées de cette image) est distribué sous licence compatible.
 
 ## Références
 
-[^1]: [TSMC 2026 Q1 Quarterly Results](https://investor.tsmc.com/english/quarterly-results/2026/q1) — Site officiel de TSMC, relations investisseurs, rapport trimestriel Q1 2026 : chiffre d'affaires trimestriel de 35,9 Md USD (NT$ 1 134,10 Md), en hausse de 40,6 % sur un an.
+[^1]: [TSMC 2026 Q1 Quarterly Results](https://investor.tsmc.com/english/quarterly-results/2026/q1) — Rapport trimestriel du service relations investisseurs de TSMC pour le T1 2026, indiquant un chiffre d'affaires de 35,90 milliards USD (1 134,10 milliards TWD), en hausse de 40,6 % sur un an, dépassant les prévisions financières.
 
-[^2]: [Epoch Times : Le Q1 2026 de TSMC — performance historique](https://www.epochtimes.com/b5/26/4/16/n14743018.htm) — Reportage du 2026-04-16 : BPA Q1 2026 NT$22,08 (+58,3 % sur un an), marge brute 66,2 %, marge operationnelle 58,1 %.
+[^2]: [Etprint : Le CA de TSTSMC au T1 augmente de 35 %, bénéfice par action record de 22 TWD](https://www.epochtimes.com/b5/26/4/16/n14743018.htm) — Reportage approfondi d'un média chinois le 16-0'4-2026, indiquant un BPA de 22,08 TWD (hausse de 58,3 %), une marge brute de 66,2 % et une marge opérationnelle de 58,1 %. Citation verbatim de Wei Jھی-jia lors de la conférence : « Il n'y a pas de raccourci ».
 
-[^3]: [Data Center Dynamics : TSMC 2026 capex up to $56B](https://www.datacenterdynamics.com/en/news/tsmc-announces-2026-capex-spend-of-56bn-after-posting-eighth-consecutive-quarter-of-growth/) — Capex TSMC 2026 de 52-56 milliards USD (vs 2025 : 40,9 Md / 2024 : 28,9 Md), 70-80 % consacres aux procedes avances.
+[^3]: [Data Center Dynamics: TSMC 2026 capex up to $56B](https://www.datacenterdynamics.com/en/news/tsmc-announces-2026-capex-spend-of-56bn-after-posting-eighth-consecutive-quarter-of-growth/) — Rapport d'un média spécialisé dans les centres de données début 2026, indiquant que le CAPEX de TSMC grimpe à 52-56 milliards USD (contre 40,9B en 2025 / 28,9B en 2024), avec 70-80 % alloués aux procédés avancés.
 
-[^4]: [Yahoo Finance : TSMC Q1 2026 earnings record](https://finance.yahoo.com/markets/stocks/articles/tsmc-q1-2026-earnings-record-121456920.html) — Les procedes 3 nm representent 25 % du chiffre d'affaires Q1 (vs 6 % au T3 2023).
+[^4]: [Yahoo Finance: TSMC Q1 2026 earnings record](https://finance.yahoo.com/markets/stocks/articles/tsmc-q1-2026-earnings-record-121456920.html) — Analyse de la structure du CA du T1 2026 par un média financier international, indiquant que le 3nm représente 25 % du CA (contre 6 % au T3 2023 — soit une multiplication par 4 en trois ans).
 
-[^5]: [TrendForce : TSMC accelerates Arizona 2nd fab, 2nm sold out](https://www.trendforce.com/news/2025/12/18/news-tsmc-reportedly-accelerates-arizona-2nd-fab-eyes-3q26-tool-install-2027-3nm-production/) — 2 nm en production au T4 2025, rendement 70-80 %, capacite mensuelle de 100 000-140 000 tranches prevue fin 2026.
+[^5]: [TrendForce: TSMC accelerates Arizona 2nd fab, 2nm sold out](https://www.trendforce.com/news/2025/12/18/news-tsmc-reportedly-accelerates-arizona-2nd-fab-eyes-3q26-tool-install-2027-3nm-production/) — Rapport d'un organisme de recherche mondial sur les semi-conducteurs le 18-12-2025, indiquant une production de masse du 2nm au T4 2025, l'usine Fab 20 (Hsinchu) et Fab 22 (Kaohsiung) avec des rendements de 70-80 %, visant une capacité mensuelle de 100 000 à 140 000 plaquettes fin 2026.
 
-[^6]: [Communique de presse TSMC : A14 (1,4nm) presente au Symposium nord-americain](https://pr.tsmc.com/english/news/3228) — Presentation officielle du procede A14 (1,4nm) en avril 2025, production en volume prevue en 2028.
+[^6]: [TSMC press release: A14 (1.4nm) unveiled at North America Symposium](https://pr.tsmc.com/english/news/3228) — Communiqué de presse officiel de TSMC en avril 2025, présentant le procédé A14 (1,4 nm), production prévue pour 2028, avec une vitesse accrue de 10-15 % ou une économie d'énergie de 25-30 % par rapport au N2.
 
-[^7]: [American Presidency Project : Transcript Trump-Wei 2025-03-03](https://www.presidency.ucsb.edu/documents/remarks-semiconductor-manufacturing-investment-and-exchange-with-reporters) — Transcript verbatim : annonce du 2025-03-03 d'un investissement supplementaire de 100 Md USD de TSMC, total de 165 Md, avec les citations verbatim de Trump et de C. C. Wei.
+[^7]: [American Presidency Project: Trump-Wei 2025-03-03 White House transcript](https://www.presidency.ucsb.edu/documents/remarks-semiconductor-manufacturing-investment-and-exchange-with-reporters) — Transcription officielle du projet historique de la présidence américaine, relatant l'annonce de Trump le 03-03-2025 sur l'augmentation de 100 milliards USD de TSMC (total 165 milliards), incluant les citations verbatim en anglais : « Right now, he's the most important man in the room » et Wei Jھی-jia : « In Phoenix, Arizona, with 3,000 employees ».
 
-[^8]: [TrendForce : TSMC accelerates Arizona 2nd fab](https://www.trendforce.com/news/2025/12/18/news-tsmc-reportedly-accelerates-arizona-2nd-fab-eyes-3q26-tool-install-2027-3nm-production/) — Phase 2 (3nm) en Arizona : installation des equipements au T3 2026, production en 2027 (un an plus tot) ; Phase 3 N2/A16 commencee en avril 2025.
+[^8]: [TrendForce: TSMC accelerates Arizona 2nd fab](https://www.trendforce.com/news/2025/12/18/news-tsmc-reportedly-accelerates-arizona-2nd-fab-eyes-3q26-tool-install-2027-3nm-production/) — Idem [^5], indiquant que la phase 2 (3nm) en Arizona débutera l'installation des équipements au T3 2026 pour une production en 2027 (un an d'avance) ; la phase 3 N2/A16 a débuté en avril 2025.
 
-[^9]: [Fiche d'information de la Maison Blanche : Droits de douane Section 232 sur les semi-conducteurs, janvier 2026](https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-takes-action-on-certain-advanced-computing-chips-to-protect-americas-economic-and-national-security/) — Trump signe les droits de douane Section 232 à 25 % sur les semi-conducteurs, clause d'exemption de « capacite planifiee 2,5x » pour TSMC.
+[^9]: [White House Fact Sheet: Section 232 Semiconductor Tariffs 2026-01](https://www.whitehouse.gov/fact-sheets/2026/01/fact-sheet-president-donald-j-trump-takes-action-on-certain-advanced-computing-chips-to-protect-americas-economic-and-national-security/) — Fiche officielle de la Maison Blanche du 14-01-2026, mentionnant le décret de Trump sur les tarifs de 25 % pour les semi-conducteurs, avec une clause d'exemption de « 2,5x la capacité prévue » pour les investissements de TSMC aux États-Unis.
 
-[^10]: [Wikipedia : TSMC Arizona](https://en.wikipedia.org/wiki/TSMC_Arizona) — Apple annonce en fevrier 2025 l'achat de plus de 100 millions de puces fabriquees en Arizona en 2026.
+[^10]: [Wikipedia: TSMC Arizona](https://en.wikipedia.org/wiki/TSMC_Arizona) — Article Wikipédia sur TSMC Arizona, mentionnant qu'en février 2025, Apple a annoncé l'achat de plus de 100 millions de puces fabriquées en Arizona pour 2026 ; progression des phases 1 à 3 et structure de l'emploi.
 
-[^11]: [DigiTimes : Les effectifs de TSMC atteignent 84 512 personnes en decembre 2024](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000690785_T8Z6HY3S99B4JU4FMVK8H) — Effectifs de TSMC de 84 512 personnes (dec. 2024), estimation superieure à 90 000 en 2025.
+[^11]: [DigiTimes: Nombre d'employés de TSMC à 84 512 en déc. 2024](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000690785_T8Z6HY3S99B4JU4FMVK8H) — Statistiques d'un média spécialisé chinois début 2025, indiquant un effectif de 84 512 personnes (déc. 2024), avec une estimation dépassant 90 000 en 2025.
 
-[^13]: [Business Weekly : Origines de la fondation de TSMC — Morris Chang, Mon rendez-vous avec le destin](https://www.businessweekly.com.tw/business/blog/3017310) — Extraits de l'autobiographie de Morris Chang, novembre 2024 : reunion du 4 septembre 1985, proposal verbatim du « Common Wafer Fab ».
+[^12]: [商業周刊書摘：揭秘台積電創立起源 — 張忠謀我和命運有約](https://www.businessweekly.com.tw/business/blog/3017310) — Extraits de l'autobiographie de Morris Chang (Business Weekly, nov. 2024), relatant la proposition du « Common Wafer Fab » le 04-09-1985 au bureau de Li Kuo-ting, la structure du capital en 1987 (Philips 27,5 % / Exécutif 48,3 % / Wang 5 %) et les devises « Ne pas faire de promesses faciles » et « Ne pas concurrencer les clients ».
 
-[^14]: [Business Today : Pourquoi Morris Chang a-t-il repris les renes de TSMC il y a 16 ans ?](https://www.businesstoday.com.tw/article/category/183015/post/202502030032/) — Reportage fevrier 2025 : licenciement de 840 employes en 2009, histoire de la soupe de soja, remplacement de Rick Tsai « en moins de dix minutes ».
+[^13]: [今周刊：張忠謀 16 年前為何重掌台積電 CEO](https://www.businesstoday.com.tw/article/category/183015/post/202502030032/) — Reportage approfondi de _Next Magazine_ (fév. 2025), détaillant le licenciement de 840 employés par Tsai Li-hsing en 2009, l'histoire du lait de soja devant la maison de Morris Chang, et le remplacement en moins de dix minutes lors du conseil du 11 juin, ainsi que le principe de « ne pas licencrer ».
 
-[^15]: [Wikipedia : Morris Chang](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80) — Naissance à Ningbo en 1931, six villes, dix ecoles, depart pour les Etats-Unis en 1949.
+[^14]: [Wikipedia: Morris Chang](https://zh.wikipedia.org/zh-hant/%E5%BC%B5%E5%BF%A0%E8%AC%80) — Article Wikipédia sur Morris Chang, détaillant sa naissance à Ningbo en 1931, ses déplacements dans six villes avant l'âge de 18 ans, ses dix écoles et son départ pour les États-Unis en 1949.
 
-[^17]: [Wikipedia : TSMC](https://en.wikipedia.org/wiki/TSMC) — Fab 5 inauguree en octobre 1997, Fab 12 mise en chantier en decembre 1999, production en 2002.
+[^15]: [Wikipedia: TSMC](https://en.wikipedia.org/wiki/TSMC) — Article principal sur TSMC, détaillant la chronologie : Fab 5 (8 pouces) en oct. 1997, début de Fab 12 (12 pouces) en déc. 1999 et production en 2002.
 
-[^18]: [9to5Mac : iPhone 6 chipworks teardown reveals TSMC A8](https://9to5mac.com/2014/09/19/chipworks-iphone-6-tsmc/) — La puce Apple A8 de l'iPhone 6/6 Plus est fabriquee par TSMC en 20 nm, remplaçant officiellement Samsung.
+[^16]: [9to5Mac: iPhone 6 chipworks teardown reveals TSMC A8](https://9to5mac.com/2014/09/19/chipworks-iphone-6-tsmc/) — Analyse technique internationale du 19-09-2014, indiquant que le processeur Apple A8 de l'iPhone 6/6 Plus est fabriqué par TSMC en 20 nm, remplaçant Samsung.
 
-[^19]: [ETtoday : Lai Ching-te rend visite en prive à Morris Chang, C. C. Wei et Lin Chuan](https://www.ettoday.net/news/20250304/2919347.htm) — Reportage mars 2025 : visite discrete en fevrier 2025 pour preparer l'annonce des 100 milliards.
+[^17]: [ETtoday：賴清德私訪張忠謀魏哲家林全 預備 1000 億宣布](https://www.ettoday.net/news/20250304/2919347.htm) — Reportage de presse chinoise de mars 2025, indiquant la visite privée de Lai Ching-te à Morris Chang, Wei Jھی-jia et Lin Chuan en février 2025 pour préparer l'annonce des 100 milliards.
 
-[^20]: [Mirror Media : Expropriation du cimetière centenaire pour l'expansion de TSMC](https://www.mirrormedia.mg/story/20220628soc005) — Reportage du 2022-06-28 : expropriation de 270 000 pings pour l'usine de 2 nm à Baoshan, dont le cimetière de la famille Zheng (1844).
+[^18]: [鏡週刊：為台積電擴廠獵地竹科強徵百年墓園](https://www.mirrormedia.mg/story/20220628soc005) — Reportage approfondi de _Mirror Media_ (juin 2022), détaillant l'expropriation de 270 000 pyongs à Baoshan pour l'usine de 2 nm, incluant le cimetière de la famille Zheng (construit en 1844), les sondages non autorisés par TSMC et les propos du conseiller Chiu Chen-wei sur « l'extermination du village d'Oosaki ».
 
-[^21]: [CommonWealth Magazine : 64 % craignent l'affaiblissement du bouclier de silicium](https://www.gvm.com.tw/article/120066) — Sondage 2025 : 64 % des Taiwanais estiment que les investissements aux Etats-Unis affaiblissent le bouclier de silicium.
+[^19]: [遠見雜誌：64% 憂矽盾正崩解](https://www.gvm.com.tw/article/120066) — Sondage de _Vista Magazine_ (2025), indiquant que 64 % des Taïwanais craignent un affaiblissement du bouclier de silicium, tandis que 27,1 % pensent renforcer les relations Taïwan-USA.
 
-[^22]: [bnext.com.tw : Les camions-citernes de TSMC face à la pire secheresse depuis 56 ans](https://www.bnext.com.tw/article/61637/taiwan-2021-drought-mooly) — Reportage 2021 : prix de 15 000 NT$ par trajet pour les camions-citernes de 12 tonnes.
+[^20]: [數位時代：台積電水車對抗 56 年來最大水荒](https://www.bnext.com.tw/article/61637/taiwan-2021-drought-mooly) — Reportage technologique chinois de 2021, détaillant le coût du transport d'eau par camion (15 000 TWD le trajet) et les coûts des conduites d'eau recyclée à Baoshan.
 
-[^23]: [New York Times : Taiwan's Drought Pits Chip Makers Against Farmers](https://www.nytimes.com/2021/04/08/technology/taiwan-drought-tsmc-semiconductors.html) — Reportage 2021-04-08 : arrêt de l'irrigation des rizières, l'eau redirigee vers les fonderies.
+[^21]: [New York Times: Taiwan's Drought Pits Chip Makers Against Farmers](https://www.nytimes.com/2021/04/08/technology/taiwan-drought-tsmc-semiconductors.html) — Reportage du NYT (08-04-2021) sur la sécheresse de 2021, l'arrêt de l'irrigation des rizières par le gouvernement et l'opposition entre fabricants de puces et agriculteurs.
 
-[^24]: [Foreign Policy : Climate Planning Could Doom TSMC Arizona Expansion](https://foreignpolicy.com/2023/08/04/tsmc-taiwan-arizona-semiconductors-climate-canada-labor-water/) — Une seule usine avancee de TSMC consomme 150 000 tonnes d'eau par jour, 7 % de la consommation electrique nationale, croissance de 70 % de la consommation d'eau 2015-2019.
+[^22]: [Foreign Policy: Climate Planning Could Doom TSMC Arizona Expansion](https://foreignpolicy.com/2023/08/04/tsmc-taiwan-arizona-semiconductors-climate-canada-labor-water/) — Analyse de _Foreign Policy_ (août 2023), indiquant une consommation d'eau de 150 000 tonnes par jour pour une usine avancée, représentant 7 % de la consommation électrique de Taïwan, et une hausse de 70 % de la consommation d'eau entre 2015 et 2019.
 
-[^25]: [Mirror Media : Crise de reduction de production — TSMC face à la penurie d'eau ?](https://www.mirrormedia.mg/story/20210412fin003) — Citation verbatim de Li Jiemu : « comme essayer d'eteindre un incendie avec une tasse d'eau ».
+[^23]: [鏡週刊：限水減產危機 — 台積電面臨減產？](https://www.mirrormedia.mg/story/20210412fin003) — Reportage de _Mirror Media_ (avril 2021), citant l'ancien directeur du parc de Hsinchu, Li Chieh-mu : « Transporter l'eau par camion, c'est comme essayer d'éteindre un incendie avec un verre d'eau ».
 
-[^26]: [MIT Technology Review : Taiwan's silicon shield could be weakening](https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/) — Analyse du MIT Technology Review en août 2025 sur l'affaiblissement du bouclier de silicium.
+[^24]: [MIT Technology Review: Taiwan's silicon shield could be weakening](https://www.technologyreview.com/2025/08/15/1121358/taiwan-silicon-shield-tsmc-china-chip-manufacturing/) — Analyse de la _MIT Tech Review_ (août 2025) sur l'affaiblissement du bouclier de silicium, citant Rupert Hammond-Chambers : « Parce que TSMC est désormais l'entreprise la plus identifiable de Taïwan, elle est intégrée au concept même de souveraineté taïwanaise ».
 
-[^27]: [Business Weekly : Morris Chang — J'ai accompli le succes tel que je le definissais](https://www.businessweekly.com.tw/business/blog/3015159) — Citation verbatim de Morris Chang « accompli » et « ne mourant pas, mais s'effaçant lentement ».
+[^25]: [商業周刊：張忠謀 — 我已實現心中認定的成功](https://www.businessweekly.com.tw/business/blog/3015159) — Entretien avec Morris Chang (Business Weekly), citant ses propos sur l'accomplissement de sa réussite et son sentiment d'être « un vieux soldat qui s'étiole ».
 
-[^28]: [Business Today : Qu'avait en tête Morris Chang en fondant TSMC à 56 ans ?](https://www.businesstoday.com.tw/article/category/183015/post/202303160037/) — Citation verbatim de Morris Chang « je voulais juste survivre ».
+[^26]: [今周刊：張忠謀 56 歲創立台積電時在想啥？](https://www.businesstoday.com.tw/article/category/183015/post/202303160037/) — Entretien avec Morris Chang (Next Magazine, mars 2023), relatant ses propos sur la difficulté des premières années de TSMC et sa volonté de « simplement survivre ».
 
-[^29]: [Taipei Times : $100B deal sparks debate](https://www.taipeitimes.com/News/taiwan/archives/2025/03/09/2003833130) — Citation verbatim de Ko Chih-en (KMT) en reponse à l'annonce des 100 milliards.
+[^27]: [Taipei Times: $100B deal sparks debate](https://www.taipeitimes.com/News/taiwan/archives/2025/03/09/2003833130) — Article du _Taipei Times_ (09-03-2025), citant le député du KMT Ko Chih-en sur l'impact géopolitique de la production de TSMC aux États-Unis.
 
-[^30]: [Foreign Policy : Lai Administration Has Rocky Relationship With Chip Giant TSMC](https://foreignpolicy.com/2025/11/03/taiwan-silicon-shield-tsmc-semiconductor-chips/) — Foreign Policy novembre 2025 : tensions entre le gouvernement Lai et TSMC.
+[^28]: [Foreign Policy: Lai Administration Has Rocky Relationship With Chip Giant TSMC](https://foreignpolicy.com/2025/11/03/taiwan-silicon-shield-tsmc-semiconductor-chips/) — Analyse de _Foreign Policy_ (03-11-2025) sur les tensions entre l'administration Lai et TSMC.
 
-[^31]: [CNA : Morris Chang — La mondialisation est morte, le commerce mondial est mort](https://www.cna.com.tw/news/afe/202410260040.aspx) — Reportage CNA du 2024-10-26 : trois declarations verbatim lors de la journee sportive de TSMC.
+[^29]: [中央社：張忠謀 — 全球化已死世界貿易已死台積電兵家必爭](https://www.cna.com.tw/news/afe/202410260040.aspx) — Reportage de la CNA (26-10-2024) sur le discours de Morris Chang lors des Jeux Sportifs de TSMC, annonçant la « mort de la mondialisation » et du « libre-échange ».
 
-[^32]: [TechNews : Jensen Huang de NVIDIA avec la chaîne d'approvisionnement taiwanaise](https://technews.tw/2026/02/01/nvidia-ceo-jensen-huang-hosts-banquet-with-taiwan-supply-chain-partners/) — Citations verbatim de Jensen Huang : « la capacite est susceptible d'augmenter de bien plus de 100 % », « le plus grand investissement en infrastructure de l'histoire de l'humanite ».
+[^30]: [TechNews: NVIDIA CEO Jensen Huang hosts banquet with Taiwan supply chain partners](https://technews.tw/2026/02/01/nvidia-ceo-jensen-huang-hosts-banquet-with-taiwan-supply-chain-partners/) — Reportage technologique chinois (février 202<0xC2>6) sur le banquet de Jensen Huang à Taïwan, citant une expansion massive de la capacité de TSMC pour l'IA.
 
-[^33]: [CompaniesMarketCap : TSMC market cap](https://companiesmarketcap.com/tsmc/marketcap/) — Capitalisation de TSMC d'environ 1 700 Md USD en mai 2026 (6e mondial).
+[^31]: [CompaniesMarketCap: TSMC market cap](https://companiesmarketcap.com/tsmc/marketcap/) — Site de suivi boursier, indiquant la capitalisation de TSMC à environ 1,7 billion USD en mai 2026.
 
-[^34]: [Commentaire independant / Chu Wan-wen : Les origines de la montagne gardienne de la nation](https://opinion.cw.com.tw/blog/profile/390/article/13390) — Source primaire en chinois ancrant le fait que la première usine de TSMC en 1987 utilisait des wafers 6 pouces (150mm) + procede à 2 microns, corrigeant l'hallucination « 0,8 micron » de Wikipedia.
+[^32]: [獨立評論／瞿宛文：護國神山的由來](https://opinion.cw.com.tw/blog/profile/390/article/13390) — Analyse de l'institut Academia Sinica (Qu Wan-wen) sur l'origine de la « Montagne protectrice », mentionnant les transferts technologiques RCA et le rôle du gouvernement.
 
-[^35]: [Communique de presse TSMC : Fab 5 remporte le prix Top Fab 2000](https://pr.tsmc.com/english/news/2230) — Communique officiel TSMC 2000 : Fab 5 est la troisième usine 8 pouces, premiere à deux etages, debut de la production en masse en 1998 avec procede 0,35 micron.
+[^33]: [TSMC PR: Fab 5 wins Top Fab 2000 honor](https://pr.tsmc.com/english/news/2230) — Communiqué officiel de TSTSMC (2000), détaillant la construction et la production de la Fab 5 à Hsinchu.

@@ -33,10 +33,10 @@ sporeLinks:
     "{'id': 88, 'platform': 'x', 'date': '2026-05-25', 'url': 'https://x.com/taiwandotmd/status/2058735515021783190'}",
   ]
 translatedFrom: 'Technology/半導體產業.md'
-sourceCommitSha: 'c85a9b6f7'
-sourceContentHash: 'sha256:b496186c7d76e85e'
-sourceBodyHash: 'sha256:3bf42ee02082c616'
-translatedAt: '2026-07-26T21:34:55+08:00'
+sourceCommitSha: '6ffd92f94'
+sourceContentHash: 'sha256:575572d1dd581d19'
+sourceBodyHash: 'sha256:d37164a7592bd08a'
+translatedAt: '2026-08-03T15:04:21.719433+00:00'
 ---
 
 # Semi-conducteurs : 50 ans de révolution des matériaux, de la licence RCA au nitrure de gallium et à l'emballage quantique
@@ -246,33 +246,34 @@ Le parc scientifique de Hsinchu a été créé en 1980 ; en 40 ans, il a accumul
 
 Et les concurrents ? La stratégie d'intégration verticale de Samsung (Corée du Sud) investit 230 milliards de dollars de 2022 à 2026, mais le rendement des procédés avancés reste inférieur à celui de TSMC[^4]. Intel est bloqué sur le 10 nm pendant des années ; en 2021, il propose IDM 2.0 pour combiner conception et sous-traitance, mais en 2025, il n'a toujours pas obtenu de clients majeurs en sous-traitance — le plus ironique est que certains puces haut de gamme d'Intel sont désormais sous-traitées à TSMC.
 
-## Le poste de sous-traitance quantique est toujours vacant
+## Le positionnement quantique reste à conquérir
 
-Le chargeur du Nokia 3310 avait une puissance de 4,56 W, celui de 2025 est de 240 W. Une différence de 52 fois. Cette route a pris 30 ans au silicium, 5 ans au nitrure de gallium pour combler le retard.
+Le chargeur d'un Nokia 3310 délivrait une puissance de 4,56 watts ; en 2025, les chargeurs rapides atteignent 240 watts. Une différence de 52 fois. Sur ce chemin, le silicium a mis 30 ans à progresser, tandis que le nitrure de gallium (GaN) a permis de combler l'écart en seulement 5 ans.
 
-Dans le laboratoire quantique de l'Academia Sinica, les circuits quantiques supraconducteurs fonctionnent à 15 millikelvins (environ -273 °C). La puce de contrôle fabriquée par l'ITRI avec le procédé 28 nm de TSMC a comprimé le « volume de l'instrument de contrôle » nécessaire à cette très basse température d'un immeuble à une petite boîte. La capacité semi-conductrice de Taïwan déplace progressivement les limites de l'ordinateur quantique.
+Dans les laboratoires quantiques de l'Academia Sinica, les puces quantiques supraconductrices doivent fonctionner à 15 millikelvins (environ -273 °C). Grâce à un processeur de contrôle fabriqué via le procédé 28 nm de TSMC, l'ITRI a réussi à compresser le « volume des instruments de contrôle » nécessaires à ces températures cryogéniques, passant d'un bâtiment entier à un petit boîtier. Les capacités semi-conductrices de Taïwan sont en train de repousser, petit à petit, les frontières de l'informatique quantique.
 
-Mais où se trouve cette limite, personne ne peut le dire clairement. Le temps de cohérence des qubits passe de 15 à 530 microsecondes ; ce n'est que le début. Il y a 50 ans, les 19 ingénieurs envoyés par RCA ne savaient peut-être pas que leur année 1973 cristalliserait en 2 nm en 2025.
+Cependant, personne ne peut dire précisément où se situe cette frontière. Le temps de cohérence des qubits varie de 15 microsecondes à 530 microsecondes, et ce n'est que le début. Les 19 ingénieurs envoyés par RCA il y a 50 ans ne savaient peut-être pas eux-mêmes que leur année 1973 allait cristalliser en un procédé de 2 nm en 2025.
 
-La montagne sacrée domine le présent grâce à 50 ans d'expérience industrielle. Pour les 50 prochaines années, Taïwan n'a pas encore pris position dans l'ère quantique.
+La « montagne protectrice » (le pilier de l'économie) a dominé le présent grâce à 50 ans d'expérience en sous-traitance. Pour les 50 prochaines années, Taïwan n'a pas encore pris possession du poste de sous-traitance de l'ère quantique.
 
-> ✦ Le Blackwell de Jensen Huang effectue des inférences dans le cloud au-dessus de votre tête, le wafer SiC de GlobalWafers chauffe dans le chargeur de votre voiture électrique à la porte de votre maison, la première couche ALD réalisée par Suntola en Finlande en 1974 scelle la couche d'isolation de la grille dans votre puce de téléphone — les semi-conducteurs ont toujours été une ascension par paliers de 50 ans le long du spectre des matériaux de la physique des bandes interdites, appartenant non pas à une seule entreprise. Où est la prochaine marche, la physique nous le dira, mais si l'on doit grimper, c'est le choix de Taïwan.
+> ✦ Le Blackwell de Jensen Huang alimente l'inférence cloud au-dessus de vos têtes, les wafers SiC de GlobalWafers chauffent dans les bornes de recharge des véhicules électriques devant chez vous, et la première couche mince ALD réalisée par Suntora en Finlande en 1974 scelle encore la couche d'isolation de la grille dans la puce de votre smartphone — les semi-conducteurs ne sont pas seulement une ascension étape par étape de la physique des bandes interdites à travers tout le spectre des matériaux. Ces 50 ans n'appartiennent pas qu'à TSMC seule. La prochaine étape nous sera révélée par la physique, mais décider de l'entreprendre est un choix qui appartient à Taïwan.
 
 ---
 
 **Lectures complémentaires** :
 
-- [Entreprises taïwanaises : TSMC](/fr/economy/tsmc) — Gouvernance d'entreprise, structure financière et ampleur des investissements de la montagne sacrée
-- [Entreprises taïwanaises : MediaTek](/fr/economy/mediatek) — Comment le leader de la conception IC prend position dans les puces mobiles et le calcul de bord IA
-- [Entreprises taïwanaises : ASE Semiconductor](/fr/economy/taiwan-enterprise-ase-semiconductor) — N°1 mondial dans l'emballage et le test, l'écosystème en aval au-delà de CoWoS
-- [Les créateurs de montagnes : Le pari du siècle](/fr/art/mountain-makers-tsmc-documentary) — Documentaire de 2025 de Hsiao Chu-chen, 5 ans d'entretiens avec 80+ vétérans des semi-conducteurs, entrant en 2026 dans les trois foyers d'investissement de la loi CHIPS à Purdue, Wisconsin et Michigan
-- [Wu Da-you](/fr/people/tai-yu-wu) — Pendant que Taïwan construisait les semi-conducteurs dans les années 1980, il a servi comme président de l'Academia Sinica, insistant sur l'importance des sciences fondamentales, posant les bases du système de recherche taïwanais
-- [Industrie robotique taïwanaise](/fr/technology/taiwan-robotics-industry) — Pourquoi l'île n°1 des semi-conducteurs est-elle en retard dans l'ère robotique ? Regard sur les fractures industrielles à travers l'ouverture de NCAIR
-- [Bourse taïwanaise et marché des capitaux](/fr/economy/taiwan-stock-market) — Comment l'écosystème de la chaîne d'approvisionnement soutenant le statut de Taïwan comme 6e économie mondiale en 2026 se manifeste sur le marché des capitaux
-- [Chaîne d'approvisionnement en tungstène taïwanaise](/technology/台灣鎢供應鏈) — Le hexafluorure de tungstène remplit les fenêtres de contact et les lignes de caractères 3D NAND ; Taïwan, dépourvue de mines de tungstène, se place au milieu de cette source de matériaux grâce au recyclage et à la raffinage
-- [École d'intelligence artificielle taïwanaise](/fr/technology/taiwan-ai-academy) — Comment les 10 000 ingénieurs IA formés pendant huit ans par l'AIA retournent à la chaîne ICT existante des semi-conducteurs, renforçant le côté logiciel de Taïwan
-- [Computex : Trois salons informatiques internationaux en ont fermé deux, celui qui reste est né à Taipei](/fr/technology/computex-taipei) — CoWoS et procédés avancés de TSMC se serrent la main chaque fin mai avec les géants mondiaux de l'IA lors de ce salon informatique taïwanais de 45 ans
-- [Parcs scientifiques taïwanais](/fr/technology/science-park-development) — Les trois parcs de Hsinchu, Taichung et Tainan, supports physiques de l'écosystème semi-conducteur, et centre géographique du bouclier de silicium
+- [Entreprises taïwanaises : TSMC](/fr/economy/tsmc) — Gouvernance d'entreprise, structure financière et ampleur des dépenses en capital de la « montagne protectrice »
+- [Entreprises taïwanaises : MediaTek](/fr/economy/mediatek) — Comment le leader de la conception IC s'impose dans les puces mobiles et l'informatique edge IA
+- [Entreprises taïwanaises : ASE Semiconductor](/fr/economy/taiwan-enterprise-ase-semiconductor) — Premier mondial de l'encapsulation et du test, l'écosystème des processus aval au-delà du CoWoS
+- [Les bâtisseurs : Le pari d'un siècle](/fr/art/mountain-makers-tsmc-documentary) — Documentaire de Chiu Ju-chen (2025), plus de 80 entretiens avec des pionniers des semi-conducteurs sur cinq ans, tourné en 2026 dans les pôles d'investissement du CHIPS Act à Purdue, Wisconsin et Michigan
+- [Wu Da-you](/fr/people/tai-yu-wu) — Dans les années 1980, alors que Taïwan se lançait dans les semi-conducteurs, il a présidé l'Academia Sinica en insistant sur l'importance des sciences fondamentales, jetant ainsi les bases du système de recherche taïwanais
+- [Lin Chung-jen](/people/黃崇仁) — Fondateur de VISiLEC et VIS.ai, celui qui a tracé la voie pour que Taïwan construise ses propres usines via des licences de procédés DRAM : une part de marché tombée de 23,2 % à 6,3 %, l'un des épisodes les moins racontés de cette industrie
+- [Industrie robotique taïwanaise](/fr/technology/taiwan-robotics-industry) — Pourquoi cette île, leader mondial des semi-conducteurs, est-elle en retard dans l'ère de la robotique ? Analyse du décalage industriel à travers l'inauguration du NCAIR
+- [Bourse et marché des capitaux de Taïwan](/fr/economy/taiwan-stock-market) — Comment l'écosystème de la chaîne d'approvisionnement, qui soutient le statut de Taïwan comme 6e place mondiale boursière en 2026, se manifeste sur les marchés financiers
+- [Chaîne d'approvisionnement du tungstène à Taïwan](/fr/technology/taiwan-tungsten-supply-chain) — L'hexafluorure de tungstène remplit les fenêtres de contact et les lignes de caractères 3D NAND ; bien que Taïwan n'ait pas de mines de tungstène, elle occupe le segment intermédiaire grâce au raffinage par recyclage
+- [Académie de l'IA de Taïwan](/fr/technology/taiwan-ai-academy) — Comment les milliers d'ingénieurs IA formés durant huit ans par l'AIA réintègrent la chaîne ICT existante des semi-conducteurs pour renforcer le volet logiciel de Taïwan
+- [Computex : Deux des trois grandes foires mondiales sont ici, la troisième est à Taipei](/fr/technology/computex-taipei) — Le CoWoS et les procédés avancés de TSMC rencontrent chaque année, fin mai, les géants mondiaux de l'IA lors de ce salon informatique taïwanais de 45 ans d'existence
+- [Parcs scientifiques de Taïwan](/fr/technology/science-park-development) — Les parcs de Hsinchu, Taichung et Tainan : supports physiques des pôles semi-conducteurs et centre géographique du « bouclier de silicium »
 
 ## Sources d'images
 
