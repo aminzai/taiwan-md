@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T22:12:06.232015Z",
+  "lastUpdated": "2026-08-03T22:40:52.905631Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 156,
@@ -32,10 +32,10 @@
       "url": "https://x.com/taiwandotmd/status/2084319140907786616",
       "highlight": "同 #165 內容，X 單則貼文＋inline s166 UTM",
       "views_7d": null,
-      "views_latest": null,
+      "views_latest": 507,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": false
+      "backfilled": true
     },
     {
       "n": 165,
@@ -48,10 +48,10 @@
       "url": "https://www.threads.com/@taiwandotmd/post/Dblb5_4E-hH",
       "highlight": "醫學博士改行做 DRAM，2012 下市不清算救九年；收尾補進 2002 自己得過大腸癌，夢具體化為讓病人少痛一點；v8 經哲宇四輪 callout（收尾×2＋歐化×2）",
       "views_7d": null,
-      "views_latest": null,
+      "views_latest": 2932,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": false
+      "backfilled": true
     },
     {
       "n": 164,
@@ -304,7 +304,7 @@
     {
       "week": "2026-W32",
       "published": 2,
-      "avgViews": 0
+      "avgViews": 1720
     }
   ],
   "harvestStatus": [
@@ -1855,8 +1855,8 @@
       "publishDate": "2026-08-04",
       "daysSincePublish": 0,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-08-04 06:39"
     },
     {
       "n": 166,
@@ -1865,8 +1865,8 @@
       "publishDate": "2026-08-04",
       "daysSincePublish": 0,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-08-04 06:39"
     }
   ]
 }
