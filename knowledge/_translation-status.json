@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T02:49:24+08:00",
-    "zhCommitHead": "705b7ddc1",
+    "lastUpdated": "2026-08-04T03:04:05+08:00",
+    "zhCommitHead": "2b42b2022",
     "totalZh": 879,
     "activeLanguages": [
       "en",
@@ -91,10 +91,10 @@
       },
       "ar": {
         "total_zh": 879,
-        "fresh": 699,
+        "fresh": 700,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 179,
+        "missing": 178,
         "orphan": 0
       },
       "ru": {
@@ -28325,7 +28325,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Art/wang-hsin-jen-artist.md",
+          "translatedFrom": "Art/王新仁.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:25ec392b5ce7e019",
+          "sourceBodyHash": "sha256:e40b70041a0b9945",
+          "translatedAt": "2026-08-03T21:46:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 23,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/wang-hsin-jen-artist.md",
@@ -82829,8 +82840,8 @@
           "sourceContentHash": "sha256:c4ee8c6545170422",
           "sourceBodyHash": "sha256:9a80a8cbdaaaf3e7",
           "translatedAt": "2026-08-04T02:21:13+08:00",
-          "translationLastCommit": "4a07538f",
-          "translationLastModified": "2026-07-25T10:29:52+08:00",
+          "translationLastCommit": "2b42b202",
+          "translationLastModified": "2026-08-04T02:49:25+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
