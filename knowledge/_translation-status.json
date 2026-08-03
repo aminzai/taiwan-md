@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T03:04:05+08:00",
-    "zhCommitHead": "2b42b2022",
+    "lastUpdated": "2026-08-04T03:26:34+08:00",
+    "zhCommitHead": "8f4a4c770",
     "totalZh": 879,
     "activeLanguages": [
       "en",
@@ -43,9 +43,9 @@
       },
       "es": {
         "total_zh": 879,
-        "fresh": 850,
+        "fresh": 851,
         "stale": 17,
-        "metadata_stale": 1,
+        "metadata_stale": 0,
         "missing": 11,
         "orphan": 0
       },
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 879,
-        "fresh": 488,
+        "fresh": 489,
         "stale": 3,
         "metadata_stale": 1,
-        "missing": 387,
+        "missing": 386,
         "orphan": 0
       },
       "pt": {
@@ -83,18 +83,18 @@
       },
       "hi": {
         "total_zh": 879,
-        "fresh": 604,
+        "fresh": 605,
         "stale": 1,
-        "metadata_stale": 2,
+        "metadata_stale": 1,
         "missing": 272,
         "orphan": 0
       },
       "ar": {
         "total_zh": 879,
-        "fresh": 700,
+        "fresh": 701,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 178,
+        "missing": 177,
         "orphan": 0
       },
       "ru": {
@@ -13402,18 +13402,16 @@
         "es": {
           "path": "es/Economy/tsmc.md",
           "translatedFrom": "Economy/台灣企業：台積電.md",
-          "sourceCommitSha": "bb3e6a0b",
-          "sourceContentHash": "sha256:aa38ca96cac05f3e",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:e8afc225ea9e0107",
           "sourceBodyHash": "sha256:6bdb1c40d1477a30",
-          "translatedAt": "2026-06-16T16:54:57Z",
+          "translatedAt": "2026-08-04T02:58:10+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/tsmc.md",
@@ -13478,18 +13476,16 @@
         "hi": {
           "path": "hi/Economy/tsmc.md",
           "translatedFrom": "Economy/台灣企業：台積電.md",
-          "sourceCommitSha": "bb3e6a0b7",
-          "sourceContentHash": "sha256:aa38ca96cac05f3e",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:e8afc225ea9e0107",
           "sourceBodyHash": "sha256:6bdb1c40d1477a30",
-          "translatedAt": "2026-07-18T19:14:58+08:00",
+          "translatedAt": "2026-08-03T21:46:31+08:00",
           "translationLastCommit": "87f270a5",
           "translationLastModified": "2026-07-27T19:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/tsmc.md",
@@ -13498,8 +13494,8 @@
           "sourceContentHash": "sha256:e8afc225ea9e0107",
           "sourceBodyHash": "sha256:6bdb1c40d1477a30",
           "translatedAt": "2026-08-03T21:46:31+08:00",
-          "translationLastCommit": "34443c18",
-          "translationLastModified": "2026-07-29T07:32:16+08:00",
+          "translationLastCommit": "69508583",
+          "translationLastModified": "2026-08-04T03:04:05+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -27329,7 +27325,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Art/postwar-taiwanese-literature.md",
+          "translatedFrom": "Art/戰後台灣文學.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:ccb549fdb85f9bc6",
+          "sourceBodyHash": "sha256:70ed7e6c666d6fb7",
+          "translatedAt": "2026-08-03T21:46:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 36,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/postwar-taiwanese-literature.md",
@@ -28331,8 +28338,8 @@
           "sourceContentHash": "sha256:25ec392b5ce7e019",
           "sourceBodyHash": "sha256:e40b70041a0b9945",
           "translatedAt": "2026-08-03T21:46:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "69508583",
+          "translationLastModified": "2026-08-04T03:04:05+08:00",
           "inferred": false,
           "footnoteDefs": 23,
           "status": "fresh",
@@ -38722,8 +38729,8 @@
           "sourceContentHash": "sha256:976815861db5ed08",
           "sourceBodyHash": "sha256:57d3b8ceecf4a7d0",
           "translatedAt": "2026-08-03T21:46:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "69508583",
+          "translationLastModified": "2026-08-04T03:04:05+08:00",
           "inferred": false,
           "footnoteDefs": 24,
           "status": "fresh",
@@ -69371,7 +69378,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/hong-chih-kuo-taiwanese-left-handed-pitcher.md",
+          "translatedFrom": "People/郭泓志.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:e02695ed5dc8f6ea",
+          "sourceBodyHash": "sha256:adcefdbac44146e6",
+          "translatedAt": "2026-08-03T21:46:29+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/hong-chih-kuo-taiwanese-left-handed-pitcher.md",
@@ -70201,8 +70219,8 @@
           "sourceContentHash": "sha256:14127c407e7b0db7",
           "sourceBodyHash": "sha256:6d452360d79fae70",
           "translatedAt": "2026-08-03T21:46:31+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "69508583",
+          "translationLastModified": "2026-08-04T03:04:05+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",

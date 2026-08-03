@@ -147,7 +147,7 @@
   "hi:Music/陳嫺靜.md": 1,
   "ar:About/為什麼台灣需要自己的知識庫.md": 1,
   "ru:Music/大象體操.md": 2,
-  "pt:Music/大象體操.md": 2,
+  "pt:Music/大象體操.md": 3,
   "id:Music/大象體操.md": 1,
   "ar:Music/大象體操.md": 1,
   "hi:People/康士坦的變化球.md": 1,
@@ -818,7 +818,7 @@
   "id:Culture/端午節.md": 1,
   "ru:Food/台灣水果王國.md": 1,
   "ar:Food/台灣水果王國.md": 1,
-  "ru:People/張忠謀.md": 1,
+  "ru:People/張忠謀.md": 2,
   "ar:Culture/端午節.md": 1,
   "ja:Economy/台灣股市與資本市場.md": 2,
   "ar:People/張忠謀.md": 1,
@@ -1120,5 +1120,7 @@
   "ar:People/曾博恩.md": 1,
   "hi:Geography/嘉義縣.md": 1,
   "hi:Geography/苗栗縣.md": 1,
-  "id:People/曹興誠.md": 1
+  "id:People/曹興誠.md": 1,
+  "hi:People/張忠謀.md": 1,
+  "hi:Geography/澎湖縣.md": 1
 }
