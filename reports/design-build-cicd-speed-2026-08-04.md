@@ -182,3 +182,63 @@ C1 遷移期間 GH Pages 與 Workers 雙軌並跑，DNS 切換是最後一步、
 
 _作者：Taiwan.md 🧬（2026-08-04 Full mode session，EVOLVE Mode 4 REPORT 相）_
 _方法：gh API run/job/step 級拆帳 ＋ CI log 時間戳解析 ＋ 7 天 166 run 統計 ＋ 兩份歷史審計對讀_
+
+---
+
+## 後記：第一＋第二波執行與驗收（2026-08-04 01:26〜02:26，同日）
+
+哲宇拍板「完整執行一波跟測試驗收 1+2」。五個 CI run 的實測全紀錄如下，
+含一次歸因錯誤與更正——照實記，這段比成功的部分更有教學價值。
+
+### 驗收終態（run 30840499884，ARM＋blobless＋全部優化）
+
+| 段                  | 基線     | 終態              | Δ         | 靠什麼                                          |
+| ------------------- | -------- | ----------------- | --------- | ----------------------------------------------- |
+| Checkout            | 38s      | 22s               | -16s      | `filter: blob:none`                             |
+| npm ci              | 31s      | 1s（cache hit）   | -30s      | node_modules 整包 cache（key 含 arch）          |
+| Build step          | 264s     | 230s              | -34s      | sync 批次化＋健檢三掃合一＋ARM astro            |
+| — prebuild sync     | 26s      | ~4s               | -22s      | 逐檔 cp → 每目錄一次多檔 cp                     |
+| — astro 靜態生成    | 177s     | 155s              | -22s      | ARM（Node workload 穩定快 ~10%）                |
+| Upload artifact     | 73s      | 58s               | -15s      | ARM                                             |
+| build job 合計      | ~446s    | **~339s**         | **-107s** |                                                 |
+| deploy job          | 90s      | 81-133s（波動）   | ~0        | GitHub Pages 端，五個 run 實測 81/107/111/133/281 |
+
+push→上線：基線中位 559s → 終態約 **420-470s（-20% 上下）**，deploy job 的
+平台端波動（±50s）現在是最大的不可控項——這正是方案 C 的論據。
+
+### 歸因錯誤與更正（值得留給下一輪的部分）
+
+第二波把 ARM 與 blobless 同 run 上線，prebuild 從 52s 掉到 84/122s，當時
+歸給「ARM 上 python 慢」並回退 ARM。下一個 x86＋blobless 的 run prebuild
+同樣 81s，歸因被推翻：真兇是 `status.py` 對每條 stale 翻譯跑
+`git diff --shortstat`（要讀 blob 內容），blobless 下變成上千次逐 blob 網路
+lazy fetch，84/122/81 的大變異正是網路特徵。修法 `LANG_SYNC_SKIP_DIFFSTAT`
+（CI 設 1；diffSummary 是資訊欄，判定與 dashboard 都不吃）。同型第二例是
+`og-rename-sync` 的 `-M` 相似度偵測（12s lazy fetch，改 `-M100%` 歸零）。
+教訓：**兩個變因同 run 上線，慢的那筆帳會記到比較顯眼的變因頭上**——
+7/30「兩個都算對的缺口帶到一個錯的故事」的重演，已進 LESSONS-INBOX。
+
+### 驗收判準對照（§五）
+
+- Build step ≤ 215s：**未全達**（230s）。殘餘缺口在 sync→sweep 段：ARM＋
+  blobless 58s vs x86＋full-clone 37s，還有 ~20s 來源未定（候選：殘餘
+  lazy fetch 消費者或 run-p 併發下的 ARM python），交 dashboard-build-perf
+  trend 觀察，flag_slow 會叫。
+- 健檢每 build 只掃一遍 prebuild 側：**達成**（immune reuse 訊息 ×5 run）；
+  CI gate step 刻意保留獨立（severity 語意不同）。
+- 本機 dev sync ≤ 6s：**達成**（29.3 → 5.0s，parity 三層全同）。
+- ARM 觀察條款：**進行中**，3/5 連綠（run 2/3/5），SIGTERM(143) 零次；
+  紅一次即回退，條款寫在 deploy.yml 註解。
+
+### 流程自省
+
+status.py 的 flag 修補犯了「驗證指令失敗但 ship 已出」：本機驗證跟 commit
+之間不是 && 鏈，驗證炸了（測試方法問題：/tmp 下 import 不到同目錄模組）
+ship 照跑，事後才在 repo 內補驗通過。CI 的 prebuild 鏈是最後接住的外部尺。
+下次的正確形：驗證與 ship 寫成同一條 && 鏈，驗證不過 ship 物理上不會跑。
+
+### 第三波維持待決
+
+C1（Workers 增量部署，需 Workers Paid US$5/月）仍 🔒 等哲宇——本輪驗收後
+deploy job 波動（81-281s）取代 Upload 成為最大單段不可控項，C1 的預期收益
+從 -120s 上修為 -120〜180s。
