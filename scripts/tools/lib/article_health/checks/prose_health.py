@@ -132,6 +132,16 @@ _ENGLISH_OPENER_MAX_CHARS = 8    # 開場句中文字數 ≤ 此值才算「超�
 _ENGLISH_OPENER_NEXT_MIN = 28    # 後接句中文字數 ≥ 此值（確保是「短→長」不是「短→中」）
 _ENGLISH_OPENER_RATIO = 3.5      # 後接句 ≥ 開場句的幾倍
 
+# 第二帶（2026-08-04 哲宇 directive「段落前面出現短句也應該檢查」）：9-14 字的段首
+# 短句加「宣告型指紋」二次過濾才報——直接把門檻拉到 12 全站爆 1025 hits / 443 篇，
+# 大量是健康的中文短句節奏（「他愣了三秒。」「他叫辯士。」）。round 2 病例的共同指紋
+# 是宣告不是短：「這個頭銜在轉述裡長大過」（這個＋隱喻斷言）「從結果看，這是⋯」。
+# 指紋 = 句首「這/那/真正/從結果/但」類定調詞（場景短句「博士之後他去了巴黎」放行）。
+_ENGLISH_OPENER_BAND2_MAX = 14   # 第二帶上限
+_RE_OPENER_DECLARATIVE_LEAD = re.compile(
+    r"^(?:這(?:個|些|種|是|一切|兩件事)?|那(?:個|些|種)?|真正|從結果|但|所謂)"
+)
+
 # ── 「是⋯的」cleft 長片語型（§歐化第 7 病動詞片語變體，2026-08-04 哲宇 directive）──
 # 第 7 病 plugin 抓 curated 評價形容詞（「是隨便的」「是顯而易見的」）；哲宇 callout
 # 「『腦神經外科』這四個字，是媒體多年轉述之間慢慢添上去的。」揭另一型：「是＋長動詞
@@ -693,12 +703,17 @@ def _detect_english_openers(body: str) -> list[tuple[int, str, int, int]]:
             continue
         first = m.group(1)
         opener_len = len(_CJK_CHAR.findall(first))
-        if opener_len == 0 or opener_len > _ENGLISH_OPENER_MAX_CHARS:
+        if opener_len == 0 or opener_len > _ENGLISH_OPENER_BAND2_MAX:
             continue
-        # 具體場景定調句（含數字：年份 / 日期 / 數量）是自然中文敘事節奏（「1978 年通車。」
-        # 長段），不是英文抽象 topic-sentence 腔。哲宇 anti-example「協議並沒有收尾」是抽象
-        # 狀態陳述、無數字——用「開場句含數字則豁免」把打擊面收到抽象定調句（2026-07-19 校準）。
-        if re.search(r"[0-9]", first):
+        # 第一帶（≤8 字）：無條件進入 ratio 判斷；第二帶（9-14 字）：句首要有宣告型
+        # 定調詞才進入（場景短句放行——中文短句節奏是健康的，宣告短句才是英式腔）
+        if opener_len > _ENGLISH_OPENER_MAX_CHARS and not _RE_OPENER_DECLARATIVE_LEAD.match(first):
+            continue
+        # 具體場景定調句（句首數字：年份 / 日期）是自然中文敘事節奏（「1978 年通車。」
+        # 長段），不是英文抽象 topic-sentence 腔。2026-08-04 收緊為「句首數字才豁免」：
+        # 「真正的轉彎發生在 1987 年。」數字在句尾，是宣告句帶年份，round 2 靠舊的
+        # 全句豁免溜掉——時間錨定的場景句數字在句首，宣告句的數字多在句尾。
+        if re.match(r"^[0-9０-９]", first):
             continue
         rest = s[m.end():].strip()
         if not rest:
@@ -1561,10 +1576,21 @@ def check(target: FileTarget, config: dict[str, Any]) -> Iterator[Violation]:
 
     # ── Final score summary as a single violation ──
     # The runner can gate on score via profile.fail_on = "score-budget".
+    #
+    # Severity 依「有沒有超出預算」分流（2026-08-04）：在預算內的總分是**參考讀數**
+    # （INFO），超出預算才是**要你動手的警告**（WARN）。2026-08-04 之前無條件 WARN，
+    # 於是這一條同時承載兩種根本不同的意思——正是 REFLEXES #38「混維度」在 severity
+    # 欄位上的 instance：任何 fail_on="warn" 的 profile 只要文章 score > 0 就必定 fail，
+    # 而 score > 0 幾乎是所有文章的常態，gate 因此好壞不分、不帶資訊。
+    #
+    # 對既有 gate 零影響（已驗）：fail_on="score-budget" 走 article-health.py 的
+    # `_prose_health_score()`，它從 fix_suggestion 的數字字串取值、不看 severity；
+    # fail_on="hard" 只數 hard_count。唯一行為變化是 fail_on="warn"（release-pr）
+    # 不再因「預算內的總分」誤擋——那是修正，因為 ≤ budget 的定義本來就是 pass。
     if score > 0:
         yield Violation(
             check=CHECK_NAME,
-            severity=Severity.WARN,
+            severity=Severity.INFO if score <= score_budget else Severity.WARN,
             message=f"prose-health score: {score} (≤ {score_budget} = pass) — {'; '.join(reasons)}",
             editorial_ref=EDITORIAL_REF,
             fix_suggestion=str(score),  # used by score-budget gating
