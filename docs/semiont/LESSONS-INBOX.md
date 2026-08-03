@@ -5,8 +5,8 @@ type: 'cognitive-buffer'
 status: 'buffer'
 apoptosis: 'never'
 current_version: 'v2.3'
-last_updated: 2026-07-27
-last_session: '2026-07-27-214500-苯駢芘孢子（+1 未消化 derived-artifact-inherits-verification-illusion；另 2 條走 DNA-first (a) 直接補進 REFLEXES #56/#24 未入庫）'
+last_updated: 2026-08-03
+last_session: '2026-08-03-140210-manual（黃崇仁 REWRITE，+1 未消化 neutral-tone-conflated-with-minimized-substance——哲宇糾正炎上倫理席把「不當脊椎」滑坡成「份量要縮小」）'
 sister_docs:
   - 'MEMORY.md'
   - 'DIARY.md'
@@ -331,6 +331,16 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 ---
 
 ## 未消化清單（📥 待 distill）
+
+### 2026-08-03 manual（黃崇仁 REWRITE）— neutral-tone-conflated-with-minimized-substance：把「中立陳述」誤做成「份量要縮小」
+
+- **pattern**: `neutral-tone-conflated-with-minimized-substance`
+- **原則**：政治／兩岸這類敏感線降為「中立 facet」時，**中立管的是語氣（不下判斷、不選邊、不用對抗語言），不是份量**。炎上倫理席把「此線只出現一次、份量與其他 facet 一致、未見篇幅膨脹」寫成需要肯定的優點，哲宇當場糾正：這不是他要的自我進化方向——把一條有真實因果重量的線（力晶技轉造就合肥晶合、如今反過來壓垮力積電自己的成熟製程業務）刻意壓成跟其他 facet 一樣輕的份量，本身就是一種迴避，只是穿著「中立」的外衣。這條張力其實 persona gap-audit B 軸（海外半導體系讀者）已經先抓到（見 [reports/research/2026-08/黃崇仁.md](../../reports/research/2026-08/黃崇仁.md) §6a 反向閥門），但當時處置是「維持中立紀實、不當壓軸」，沒有進一步區分「不當壓軸」跟「份量要縮到跟其他 facet 一樣輕」是兩件不同的事——前者是脊椎/壓軸判斷（該不該讓政治線扛起全文），後者是段落充分度判斷（這一段該不該把事實的因果講完整）。兩者混在一起，就會把「不當脊椎」的正確判斷，滑坡成「份量也要跟著縮小」的錯誤執行。
+- **觸發**：2026-08-03 黃崇仁 REWRITE Step 2.0-R 投影編輯室，炎上倫理席（agentId a0c86b3f196ca125a）verdict=pass，findings 第 5 點稱讚「技轉爭議與『必須退出中國市場』發言沒有蓋過其他 facet⋯份量與其他 6 個 facet 一致」；哲宇讀後直接回應「炎上倫理編輯不要一直過度弱化『兩岸線正確降為中立facet』這不是我覺得好的方式，幫我自我進化」。
+- **可能層級**：通用反射候選（EDITORIAL-ROOM-PROMPTS.md §投影室·炎上／倫理 席位任務 2「政治／兩岸是否被當脊椎？應否降為中立 facet？」這句本身沒有區分「降為中立」跟「份量縮小」，任何政治敏感題的炎上倫理審查都可能重複這個滑坡），但目前僅 1 instance，先觀察
+- **相關**：REFLEXES #77（beloved/institutional 預設立體群像，張力當手法1核心矛盾為輔）最接近但角度不同——#77 講的是「該不該用矛盾驅動當主脊」，本條講的是「已經正確判定不當主脊之後，facet 內部的實質內容該不該被連帶壓縮」，是 #77 判準之後、執行層面的下一個問題。也跟 MANIFESTO §13 立體地愛「矛盾與批評當然可以進來⋯只是不當拆穿誰的脊椎的工具」相關——本條補的是：不當拆穿工具 ≠ 內容要輕描淡寫。
+- **可能的操作修補**：EDITORIAL-ROOM-PROMPTS.md §投影室·炎上／倫理 任務 2 可拆成兩問：「(a) 是否被當脊椎/壓軸？」與「(b) 事實本身的因果鏈是否被完整交代，還是為了『看起來中立』而刻意簡化到只剩一句話？」— 讓「不當脊椎」與「內容完整度」變成兩個獨立可判的問題，不再共用一個「份量」代理指標。
+- **verification_count**: 1
 
 ### 2026-07-27 苯駢芘孢子 — derived-artifact-inherits-verification-illusion：上游驗證過，衍生物的新句子卻是未驗證的新 claim
 
