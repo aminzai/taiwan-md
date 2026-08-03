@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-03T14:37:40+08:00",
-    "zhCommitHead": "eb53a40e2",
-    "totalZh": 877,
+    "lastUpdated": "2026-08-03T21:06:17+08:00",
+    "zhCommitHead": "1b802d9bf",
+    "totalZh": 878,
     "activeLanguages": [
       "en",
       "ja",
@@ -18,91 +18,91 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 877,
+        "total_zh": 878,
         "fresh": 838,
         "stale": 23,
         "metadata_stale": 2,
-        "missing": 14,
+        "missing": 15,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 877,
+        "total_zh": 878,
         "fresh": 849,
         "stale": 16,
         "metadata_stale": 1,
-        "missing": 11,
+        "missing": 12,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 877,
-        "fresh": 855,
-        "stale": 13,
+        "total_zh": 878,
+        "fresh": 856,
+        "stale": 12,
         "metadata_stale": 0,
-        "missing": 9,
+        "missing": 10,
         "orphan": 0
       },
       "es": {
-        "total_zh": 877,
+        "total_zh": 878,
         "fresh": 851,
         "stale": 17,
         "metadata_stale": 0,
-        "missing": 9,
+        "missing": 10,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 877,
-        "fresh": 851,
-        "stale": 17,
+        "total_zh": 878,
+        "fresh": 852,
+        "stale": 16,
         "metadata_stale": 1,
-        "missing": 8,
+        "missing": 9,
         "orphan": 0
       },
       "vi": {
-        "total_zh": 877,
+        "total_zh": 878,
         "fresh": 439,
         "stale": 12,
         "metadata_stale": 4,
-        "missing": 422,
+        "missing": 423,
         "orphan": 0
       },
       "id": {
-        "total_zh": 877,
+        "total_zh": 878,
         "fresh": 483,
         "stale": 2,
         "metadata_stale": 0,
-        "missing": 392,
+        "missing": 393,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 877,
+        "total_zh": 878,
         "fresh": 805,
         "stale": 6,
         "metadata_stale": 0,
-        "missing": 66,
+        "missing": 67,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 877,
-        "fresh": 599,
+        "total_zh": 878,
+        "fresh": 603,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 278,
+        "missing": 275,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 877,
-        "fresh": 693,
+        "total_zh": 878,
+        "fresh": 695,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 184,
+        "missing": 183,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 877,
+        "total_zh": 878,
         "fresh": 720,
         "stale": 0,
         "metadata_stale": 0,
-        "missing": 157,
+        "missing": 158,
         "orphan": 0
       }
     },
@@ -7457,7 +7457,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Economy/united-microelectronics-corporation.md",
+          "translatedFrom": "Economy/台灣企業：聯華電子.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:0d32412f5db9b8c4",
+          "sourceBodyHash": "sha256:f3ad39fefc5166a6",
+          "translatedAt": "2026-08-03T03:16:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/united-microelectronics-corporation.md",
@@ -17350,7 +17361,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Technology/taiwan-gaming-industry.md",
+          "translatedFrom": "Technology/台灣遊戲產業與數位娛樂.md",
+          "sourceCommitSha": "f712b7242",
+          "sourceContentHash": "sha256:98c440e7598c876a",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-03T06:58:26.751294+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Technology/taiwan-gaming-industry.md",
@@ -19090,7 +19112,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Technology/ai-development-in-taiwan.md",
+          "translatedFrom": "Technology/AI發展.md",
+          "sourceCommitSha": "96945e450",
+          "sourceContentHash": "sha256:a11384a8d2f62bcc",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-03T07:33:06.947631+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Technology/ai-development-in-taiwan.md",
@@ -32777,18 +32810,16 @@
         "fr": {
           "path": "fr/Lifestyle/convenience-store-culture.md",
           "translatedFrom": "Lifestyle/台灣便利商店文化.md",
-          "sourceCommitSha": "50617dc1",
-          "sourceContentHash": "sha256:270d23d188160eb0",
-          "sourceBodyHash": "sha256:3cc86e403e9f38f1",
-          "translatedAt": "2026-07-13T16:30:00Z",
+          "sourceCommitSha": "d520299ba",
+          "sourceContentHash": "sha256:15b1d886569defdd",
+          "sourceBodyHash": "sha256:5c3b9cff7c172cb0",
+          "translatedAt": "2026-08-03T14:19:22+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Lifestyle/convenience-store-culture.md",
@@ -48325,8 +48356,8 @@
           "sourceContentHash": "sha256:0c4a6676abd7e73d",
           "sourceBodyHash": "sha256:fe639063298f999a",
           "translatedAt": "2026-08-03T03:16:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4a6773f7",
+          "translationLastModified": "2026-08-03T14:37:40+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -50043,7 +50074,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/Nature/marine-pollution-governance-and-conservation.md",
+          "translatedFrom": "Nature/台灣海洋污染治理與保育挑戰.md",
+          "sourceCommitSha": "1d54cbe52",
+          "sourceContentHash": "sha256:9d271528f9d62e05",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-03T06:45:58.812154+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Nature/marine-pollution-governance-and-conservation.md",
@@ -68739,8 +68781,8 @@
           "sourceContentHash": "sha256:11b55d270abdf3d3",
           "sourceBodyHash": "sha256:7ab58584d6fb7af7",
           "translatedAt": "2026-08-03T03:16:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "4a6773f7",
+          "translationLastModified": "2026-08-03T14:37:40+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -74367,7 +74409,18 @@
           "status": "missing"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/yoga-lin.md",
+          "translatedFrom": "People/林宥嘉.md",
+          "sourceCommitSha": "b358c8028",
+          "sourceContentHash": "sha256:e069bb61247f5e4b",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-03T07:17:24.956264+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -75443,16 +75496,16 @@
         "ko": {
           "path": "ko/People/jamie-lin-ai-industry-pioneer.md",
           "translatedFrom": "People/簡立峰.md",
-          "sourceCommitSha": "0f8fae0ae",
-          "sourceContentHash": "sha256:fbf9f60162ac4b29",
-          "sourceBodyHash": "sha256:820519fbefcc8fbc",
-          "translatedAt": "2026-05-20T05:08:30+08:00",
+          "sourceCommitSha": "717a640b3",
+          "sourceContentHash": "sha256:8fe13ae8a4b4ef0b",
+          "sourceBodyHash": "sha256:ea3e7d04bd378c51",
+          "translatedAt": "2026-08-03T15:12:29+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
-          "footnoteDefs": 5,
-          "status": "stale",
-          "reason": "footnote-loss (16→5)"
+          "footnoteDefs": 16,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/People/jamie-lin-ai-industry-pioneer.md",
@@ -81875,7 +81928,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/lin-yang-duo-taiwan-badminton-champions.md",
+          "translatedFrom": "People/麟洋配.md",
+          "sourceCommitSha": "c32d210ff",
+          "sourceContentHash": "sha256:940cd3ea72960eac",
+          "sourceBodyHash": "sha256:4c0e104cb6fe8601",
+          "translatedAt": "2026-08-03T03:16:09+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 8,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/lin-yang-duo-taiwan-badminton-champions.md",
@@ -86282,6 +86346,49 @@
           "footnoteDefs": 0,
           "status": "fresh",
           "reason": "same-commit"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        }
+      }
+    },
+    "People/黃崇仁.md": {
+      "zh": {
+        "lastCommit": "",
+        "lastModified": "",
+        "contentHash": "sha256:d4adb3b7c9bed02d",
+        "bodyHash": "sha256:ed527150ae54260b"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
         },
         "hi": {
           "status": "missing"
