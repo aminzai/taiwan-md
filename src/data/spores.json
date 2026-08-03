@@ -1,9 +1,9 @@
 {
-  "_generated": "2026-08-03T06:39:23+08:00",
+  "_generated": "2026-08-04T06:11:28+08:00",
   "schemaVersion": 1,
   "counts": {
-    "spores": 154,
-    "articles": 75,
+    "spores": 156,
+    "articles": 76,
     "withMetrics": 144
   },
   "spores": [
@@ -9020,6 +9020,46 @@
           "shares": 5
         }
       ]
+    },
+    {
+      "id": 165,
+      "slug": "黃崇仁",
+      "articlePath": "knowledge/People/黃崇仁.md",
+      "articleUrl": "/people/黃崇仁/",
+      "lang": "zh",
+      "platform": "threads",
+      "date": "2026-08-04",
+      "url": "https://www.threads.com/@taiwandotmd/post/Dblb5_4E-hH",
+      "template": "A2 首尾呼應（動機弧線：學醫→晶片→回到醫學）",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
+    },
+    {
+      "id": 166,
+      "slug": "黃崇仁",
+      "articlePath": "knowledge/People/黃崇仁.md",
+      "articleUrl": "/people/黃崇仁/",
+      "lang": "zh",
+      "platform": "x",
+      "date": "2026-08-04",
+      "url": "https://x.com/taiwandotmd/status/2084319140907786616",
+      "template": "A2 首尾呼應（動機弧線：學醫→晶片→回到醫學）",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
     }
   ],
   "byArticle": {
@@ -9094,6 +9134,7 @@
     "颱風": [115, 116],
     "馬英九": [80, 81],
     "黃山料": [128, 129],
+    "黃崇仁": [165, 166],
     "黃魚鴞": [59, 60],
     "黑冠麻鷺": [53, 54],
     "齊柏林": [2],

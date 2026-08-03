@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T22:13:51.411Z",
+  "lastUpdated": "2026-08-03T22:12:20.288Z",
   "organs": [
     {
       "id": "heart",
@@ -10,9 +10,9 @@
       "score": 90,
       "trend": "up",
       "metrics": {
-        "articlesLast7Days": 18,
-        "articlesLast30Days": 239,
-        "totalArticles": 876
+        "articlesLast7Days": 19,
+        "articlesLast30Days": 241,
+        "totalArticles": 877
       }
     },
     {
@@ -21,20 +21,20 @@
       "nameZh": "免疫系統",
       "metaphor": "品質防禦",
       "emoji": "🛡️",
-      "score": 60,
+      "score": 57,
       "trend": "up",
       "version": "v2-2026-05-16",
       "metrics": {
         "humanReviewedCount": 196,
-        "totalArticles": 876,
-        "humanReviewedPercent": 22.4,
-        "v2Status": "需關注 — T1 review < 80% OR plugin pass < 90%",
+        "totalArticles": 877,
+        "humanReviewedPercent": 22.3,
+        "v2Status": "漂移 — 多維度退化中",
         "v2Components": {
-          "review_coverage": 23.7,
+          "review_coverage": 23.6,
           "plugin_pass_rate": 70,
           "plugin_health": 100,
           "citation_density": 91.7,
-          "tool_freshness": 60,
+          "tool_freshness": 40,
           "drift_velocity": 90,
           "external_rulers": 3.4
         }
@@ -46,10 +46,10 @@
       "nameZh": "遺傳密碼",
       "metaphor": "品質基因",
       "emoji": "🧬",
-      "score": 80,
+      "score": 95,
       "trend": "up",
       "metrics": {
-        "editorialLastModified": "2026-07-19T00:56:28.000Z"
+        "editorialLastModified": "2026-08-03T16:20:02.000Z"
       }
     },
     {
@@ -84,7 +84,7 @@
       "trend": "up",
       "metrics": {
         "recentContributors": 12,
-        "recentSpores": 6,
+        "recentSpores": 4,
         "topPerformerCount": 5,
         "topPerformerAvgViews": 239295,
         "hasBlockbuster": true
@@ -113,18 +113,18 @@
       "trend": "stable",
       "metrics": {
         "languageCoverage": {
-          "zh-TW": 876,
+          "zh-TW": 877,
           "en": 866,
-          "ja": 863,
+          "ja": 864,
           "ko": 866,
           "es": 866,
           "fr": 867,
           "vi": 454,
-          "id": 466,
-          "pt": 774,
-          "hi": 571,
-          "ar": 645,
-          "ru": 667
+          "id": 485,
+          "pt": 806,
+          "hi": 602,
+          "ar": 690,
+          "ru": 711
         },
         "translationPct": 87,
         "langHealthDetails": {
@@ -163,7 +163,7 @@
               "pct": 0
             },
             "articles": {
-              "count": 863,
+              "count": 864,
               "pct": 99
             },
             "score": 80
@@ -263,10 +263,10 @@
               "pct": 108
             },
             "articles": {
-              "count": 466,
-              "pct": 53
+              "count": 485,
+              "pct": 55
             },
-            "score": 83
+            "score": 84
           },
           "pt": {
             "ui": {
@@ -283,10 +283,10 @@
               "pct": 108
             },
             "articles": {
-              "count": 774,
-              "pct": 88
+              "count": 806,
+              "pct": 92
             },
-            "score": 97
+            "score": 98
           },
           "hi": {
             "ui": {
@@ -303,10 +303,10 @@
               "pct": 108
             },
             "articles": {
-              "count": 571,
-              "pct": 65
+              "count": 602,
+              "pct": 69
             },
-            "score": 88
+            "score": 89
           },
           "ar": {
             "ui": {
@@ -323,10 +323,10 @@
               "pct": 0
             },
             "articles": {
-              "count": 645,
-              "pct": 74
+              "count": 690,
+              "pct": 79
             },
-            "score": 70
+            "score": 72
           },
           "ru": {
             "ui": {
@@ -343,10 +343,10 @@
               "pct": 0
             },
             "articles": {
-              "count": 667,
-              "pct": 76
+              "count": 711,
+              "pct": 81
             },
-            "score": 70
+            "score": 72
           }
         }
       }

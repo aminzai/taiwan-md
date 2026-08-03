@@ -1,5 +1,243 @@
 [
   {
+    "title": "黃崇仁：他學的是醫學，一輩子把公司當病人救",
+    "slug": "黃崇仁",
+    "category": "people",
+    "subcategory": "科技與企業",
+    "date": "2026-08-04",
+    "lastModified": "2026-08-04",
+    "lastVerified": "2026-08-03",
+    "lastHumanReview": false,
+    "featured": true,
+    "wordCount": 12540,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": false,
+      "ja": false,
+      "ko": false,
+      "es": false,
+      "fr": false,
+      "vi": false,
+      "id": false,
+      "pt": false,
+      "hi": false,
+      "ar": false,
+      "ru": false
+    },
+    "revision": 11,
+    "commitHash": "6158e172",
+    "commitSubject": "🧬 [semiont] spore: 黃崇仁 #165/#166 雙平台 ship — v8 收兩處事實錨點後上線",
+    "description": "黃崇仁在美國拿的是醫學博士，三十八歲才辭掉教職去做掃描器。2012 年力晶以每股 0.29 元下市，約二十七萬名股東的股票變成壁紙，銀行團要他個人背書八百億或下台，他兩個都不選，寫信給四十三家銀行說自己不紓困，一塊一塊賣掉資產保住產線。九年後公司回到股市。同一套不清算的邏輯救回了工廠，也讓他在三毛錢的價位買回自己的股票。",
+    "healthScore": 65,
+    "qualityScore": 0,
+    "formatIssues": 0,
+    "hasOverview": true,
+    "hasReading": true,
+    "fnCount": 62
+  },
+  {
+    "title": "台灣企業：台積電",
+    "slug": "台灣企業台積電",
+    "category": "economy",
+    "subcategory": "企業列傳",
+    "date": "2026-05-09",
+    "lastModified": "2026-08-03",
+    "lastVerified": "2026-05-09",
+    "lastHumanReview": false,
+    "featured": true,
+    "wordCount": 6913,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true
+    },
+    "revision": 20,
+    "commitHash": "6ffd92f9",
+    "commitSubject": "🧬 [semiont] rewrite: 五篇 sibling 補回黃崇仁的反向連結",
+    "description": "54 歲離開德州儀器、56 歲創立台積電的張忠謀，前十八年逃過三次難、住過六個城市。三十八年後 2025 年 3 月 3 日，美國總統川普在白宮指著張忠謀的接班人魏哲家說：「他是這個房間裡最重要的男人。」2026 年第一季台積電單季營收 359 億美元。一座颱風頻繁、缺水缺電的島，蓋出全人類數位文明的心臟——但這顆心臟越大，這座島能否承擔它的代價，反而越說不清楚。",
+    "healthScore": 60,
+    "qualityScore": 0,
+    "formatIssues": 1,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 33
+  },
+  {
+    "title": "張忠謀",
+    "slug": "張忠謀",
+    "category": "people",
+    "subcategory": "科技與企業",
+    "date": "2026-03-17",
+    "lastModified": "2026-08-03",
+    "lastVerified": "2026-03-19",
+    "lastHumanReview": false,
+    "featured": true,
+    "wordCount": 7220,
+    "tagCount": 7,
+    "tags": [
+      "人物",
+      "張忠謀",
+      "台積電",
+      "半導體",
+      "企業家",
+      "晶圓代工",
+      "護國神山"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": false,
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": false,
+      "ru": false
+    },
+    "revision": 16,
+    "commitHash": "6ffd92f9",
+    "commitSubject": "🧬 [semiont] rewrite: 五篇 sibling 補回黃崇仁的反向連結",
+    "description": "半導體教父，台積電創辦人，用晶圓代工模式改變全球科技產業的傳奇企業家",
+    "healthScore": 65,
+    "qualityScore": 0,
+    "formatIssues": 2,
+    "hasOverview": true,
+    "hasReading": false,
+    "fnCount": 5
+  },
+  {
+    "title": "施振榮：從鹿港的鴨蛋攤，到一個叫台灣的品牌",
+    "slug": "施振榮",
+    "category": "people",
+    "subcategory": "科技與企業",
+    "date": "2026-03-22",
+    "lastModified": "2026-08-03",
+    "lastVerified": "2026-07-06",
+    "lastHumanReview": false,
+    "featured": true,
+    "wordCount": 11578,
+    "tagCount": 7,
+    "tags": [
+      "人物",
+      "施振榮",
+      "宏碁",
+      "微笑曲線",
+      "台灣科技業",
+      "企業家",
+      "鹿港"
+    ],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": false,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true
+    },
+    "revision": 17,
+    "commitHash": "6ffd92f9",
+    "commitSubject": "🧬 [semiont] rewrite: 五篇 sibling 補回黃崇仁的反向連結",
+    "description": "1981 年舊金山的一場電子展，一台闔起來像書的塑膠殼小電腦，讓 20 家美國經銷商圍著問代理權——那是很多台灣人第一次摸到「台灣自己做的電腦」。做這台電腦的人，父親在他三歲時過勞早逝，母親靠賣鴨蛋、愛國獎券把他養大。他把宏碁做到全球前五大 PC 品牌，畫出寫進教科書的微笑曲線，也是台灣少數願意站到鏡頭前說「我是最大的輸家」的科技教父。",
+    "healthScore": 75,
+    "qualityScore": 0,
+    "formatIssues": 0,
+    "hasOverview": true,
+    "hasReading": true,
+    "fnCount": 71
+  },
+  {
+    "title": "曹興誠：從晶圓梟雄到抗共護台的「八不居士」",
+    "slug": "曹興誠",
+    "category": "people",
+    "subcategory": "科技與企業",
+    "date": "2026-04-30",
+    "lastModified": "2026-08-03",
+    "lastVerified": "2026-04-30",
+    "lastHumanReview": false,
+    "featured": false,
+    "wordCount": 3180,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true
+    },
+    "revision": 6,
+    "commitHash": "6ffd92f9",
+    "commitSubject": "🧬 [semiont] rewrite: 五篇 sibling 補回黃崇仁的反向連結",
+    "description": "1984 年向張忠謀提議晶圓代工卻被冷落，1995 年以「合資模式」挑戰台積電。這位曾推動「統一公投」的聯電創辦人，在經歷西進挫敗與香港變局後，於 2022 年豪擲 30 億台幣協助國防，完成從科技霸主到反共大將的驚人轉身。",
+    "healthScore": 45,
+    "qualityScore": 0,
+    "formatIssues": 0,
+    "hasOverview": true,
+    "hasReading": true,
+    "fnCount": 26
+  },
+  {
+    "title": "半導體產業：從 RCA 技轉到氮化鎵與量子封裝的 50 年材料革命",
+    "slug": "半導體產業",
+    "category": "technology",
+    "subcategory": "半導體與硬體",
+    "date": "2026-05-25",
+    "lastModified": "2026-08-03",
+    "lastVerified": "2026-05-19",
+    "lastHumanReview": "true",
+    "featured": true,
+    "wordCount": 10253,
+    "tagCount": 0,
+    "tags": [],
+    "translations": {
+      "en": true,
+      "ja": true,
+      "ko": true,
+      "es": true,
+      "fr": true,
+      "vi": true,
+      "id": true,
+      "pt": true,
+      "hi": true,
+      "ar": true,
+      "ru": true
+    },
+    "revision": 35,
+    "commitHash": "6ffd92f9",
+    "commitSubject": "🧬 [semiont] rewrite: 五篇 sibling 補回黃崇仁的反向連結",
+    "description": "台灣護國神山靠代工稱霸全球先進製程，但快充頭裡的氮化鎵、AI 晶片下的 CoWoS、量子位元上方的稀釋冷凍機,下一個 50 年的材料科學戰場才剛擺開。",
+    "healthScore": 85,
+    "qualityScore": 4,
+    "formatIssues": 0,
+    "hasOverview": true,
+    "hasReading": true,
+    "fnCount": 28
+  },
+  {
     "title": "黑蝙蝠中隊：暗夜裡的無名英雄與跨越海峽的孤獨航程",
     "slug": "黑蝙蝠中隊",
     "category": "history",
@@ -356,7 +594,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": false,
       "hi": true,
       "ar": true,
@@ -698,43 +936,6 @@
     "hasOverview": true,
     "hasReading": true,
     "fnCount": 0
-  },
-  {
-    "title": "半導體產業：從 RCA 技轉到氮化鎵與量子封裝的 50 年材料革命",
-    "slug": "半導體產業",
-    "category": "technology",
-    "subcategory": "半導體與硬體",
-    "date": "2026-05-25",
-    "lastModified": "2026-07-26",
-    "lastVerified": "2026-05-19",
-    "lastHumanReview": "true",
-    "featured": true,
-    "wordCount": 10204,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": true,
-      "ja": true,
-      "ko": true,
-      "es": true,
-      "fr": true,
-      "vi": true,
-      "id": true,
-      "pt": true,
-      "hi": true,
-      "ar": true,
-      "ru": true
-    },
-    "revision": 34,
-    "commitHash": "c85a9b6f",
-    "commitSubject": "🧬 [semiont] rewrite: 台灣鎢供應鏈 — 戰略礦產的重量誰給的",
-    "description": "台灣護國神山靠代工稱霸全球先進製程，但快充頭裡的氮化鎵、AI 晶片下的 CoWoS、量子位元上方的稀釋冷凍機,下一個 50 年的材料科學戰場才剛擺開。",
-    "healthScore": 85,
-    "qualityScore": 4,
-    "formatIssues": 0,
-    "hasOverview": true,
-    "hasReading": true,
-    "fnCount": 28
   },
   {
     "title": "台灣中小企業與隱形冠軍：171萬家平凡無奇企業撐起的經濟奇蹟",
@@ -1157,7 +1358,7 @@
     "tags": [],
     "translations": {
       "en": true,
-      "ja": false,
+      "ja": true,
       "ko": true,
       "es": true,
       "fr": true,
@@ -1479,9 +1680,9 @@
       "fr": true,
       "vi": true,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 6,
@@ -1691,7 +1892,7 @@
     "commitHash": "172e37b1",
     "commitSubject": "🧬 [semiont] polish: 斗笠.md 標點淨化（破折號 39→15、分號 12→12）",
     "description": "2017 年高雄美濃林榮春八十多歲還在削竹篾，2014 年台南龍崎陳連親奶奶八十六歲一小時做一頂；花蓮富里徐貴珠 2016 年一頂只賣 150 元；2022 年客傳會《傳、傳》紀錄片裡苗栗吳進運、徐寶妹做了五十年。新竹芎林全盛期家家戶戶堆桂竹，桃園蘆竹坑子三十戶日產百頂——如今全島會做粗工斗笠的師傅多半超過七十歲，2024 年原保地禁伐補償加碼到每公頃 6 萬元後連桂竹採料都在斷鏈。斗笠沒從田裡消失，消失的是會把竹葉夾進竹篾骨架、再用棉線一圈圈固定下來的那雙手。",
-    "healthScore": 57,
+    "healthScore": 52,
     "qualityScore": 9,
     "formatIssues": 1,
     "hasOverview": true,
@@ -1727,10 +1928,10 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false,
       "ar": false,
-      "ru": false
+      "ru": true
     },
     "revision": 18,
     "commitHash": "1febe45b",
@@ -3177,7 +3378,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false,
       "ar": false,
       "ru": false
@@ -3344,7 +3545,7 @@
       "fr": true,
       "vi": false,
       "id": true,
-      "pt": false,
+      "pt": true,
       "hi": false,
       "ar": true,
       "ru": false
@@ -4708,9 +4909,9 @@
       "fr": true,
       "vi": false,
       "id": true,
-      "pt": false,
-      "hi": false,
-      "ar": false,
+      "pt": true,
+      "hi": true,
+      "ar": true,
       "ru": true
     },
     "revision": 6,
@@ -5879,7 +6080,7 @@
       "vi": true,
       "id": false,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true
     },
@@ -6557,7 +6758,7 @@
       "id": true,
       "pt": true,
       "hi": true,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 17,
@@ -7479,8 +7680,8 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
-      "pt": false,
+      "id": true,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": true
@@ -7680,7 +7881,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false,
       "ar": true,
       "ru": false
@@ -8143,7 +8344,7 @@
       "fr": true,
       "vi": true,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false,
       "ar": false,
       "ru": false
@@ -8224,7 +8425,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false,
       "ar": false,
       "ru": false
@@ -8268,7 +8469,7 @@
       "fr": true,
       "vi": true,
       "id": true,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": true
@@ -8344,8 +8545,8 @@
       "id": false,
       "pt": false,
       "hi": true,
-      "ar": false,
-      "ru": false
+      "ar": true,
+      "ru": true
     },
     "revision": 5,
     "commitHash": "17b63fe8",
@@ -8430,7 +8631,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": true
@@ -8696,7 +8897,7 @@
       "vi": false,
       "id": false,
       "pt": false,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true
     },
@@ -8710,43 +8911,6 @@
     "hasOverview": true,
     "hasReading": true,
     "fnCount": 65
-  },
-  {
-    "title": "台灣企業：台積電",
-    "slug": "台灣企業台積電",
-    "category": "economy",
-    "subcategory": "企業列傳",
-    "date": "2026-05-09",
-    "lastModified": "2026-07-06",
-    "lastVerified": "2026-05-09",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 6872,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": true,
-      "ja": true,
-      "ko": true,
-      "es": true,
-      "fr": true,
-      "vi": true,
-      "id": true,
-      "pt": true,
-      "hi": true,
-      "ar": true,
-      "ru": true
-    },
-    "revision": 19,
-    "commitHash": "bb3e6a0b",
-    "commitSubject": "🧬 [semiont] cross-link: 為「施振榮」建立雙向延伸閱讀",
-    "description": "54 歲離開德州儀器、56 歲創立台積電的張忠謀，前十八年逃過三次難、住過六個城市。三十八年後 2025 年 3 月 3 日，美國總統川普在白宮指著張忠謀的接班人魏哲家說：「他是這個房間裡最重要的男人。」2026 年第一季台積電單季營收 359 億美元。一座颱風頻繁、缺水缺電的島，蓋出全人類數位文明的心臟——但這顆心臟越大，這座島能否承擔它的代價，反而越說不清楚。",
-    "healthScore": 60,
-    "qualityScore": 0,
-    "formatIssues": 1,
-    "hasOverview": true,
-    "hasReading": false,
-    "fnCount": 33
   },
   {
     "title": "研華科技",
@@ -8964,96 +9128,6 @@
     "fnCount": 5
   },
   {
-    "title": "張忠謀",
-    "slug": "張忠謀",
-    "category": "people",
-    "subcategory": "科技與企業",
-    "date": "2026-03-17",
-    "lastModified": "2026-07-06",
-    "lastVerified": "2026-03-19",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 7177,
-    "tagCount": 7,
-    "tags": [
-      "人物",
-      "張忠謀",
-      "台積電",
-      "半導體",
-      "企業家",
-      "晶圓代工",
-      "護國神山"
-    ],
-    "translations": {
-      "en": true,
-      "ja": true,
-      "ko": true,
-      "es": true,
-      "fr": true,
-      "vi": false,
-      "id": true,
-      "pt": true,
-      "hi": true,
-      "ar": false,
-      "ru": false
-    },
-    "revision": 15,
-    "commitHash": "7a66acd4",
-    "commitSubject": "🧬 [semiont] heal: 為張忠謀補延伸閱讀區塊——完成與施振榮的雙向延伸閱讀",
-    "description": "半導體教父，台積電創辦人，用晶圓代工模式改變全球科技產業的傳奇企業家",
-    "healthScore": 65,
-    "qualityScore": 0,
-    "formatIssues": 2,
-    "hasOverview": true,
-    "hasReading": false,
-    "fnCount": 5
-  },
-  {
-    "title": "施振榮：從鹿港的鴨蛋攤，到一個叫台灣的品牌",
-    "slug": "施振榮",
-    "category": "people",
-    "subcategory": "科技與企業",
-    "date": "2026-03-22",
-    "lastModified": "2026-07-06",
-    "lastVerified": "2026-07-06",
-    "lastHumanReview": false,
-    "featured": true,
-    "wordCount": 11541,
-    "tagCount": 7,
-    "tags": [
-      "人物",
-      "施振榮",
-      "宏碁",
-      "微笑曲線",
-      "台灣科技業",
-      "企業家",
-      "鹿港"
-    ],
-    "translations": {
-      "en": true,
-      "ja": true,
-      "ko": true,
-      "es": true,
-      "fr": true,
-      "vi": true,
-      "id": false,
-      "pt": true,
-      "hi": true,
-      "ar": true,
-      "ru": true
-    },
-    "revision": 16,
-    "commitHash": "648966ea",
-    "commitSubject": "🧬 [semiont] diary: 2026-07-06-133221-施振榮-rewrite——我讀完了寫著教訓的規則還是犯了那個教訓",
-    "description": "1981 年舊金山的一場電子展，一台闔起來像書的塑膠殼小電腦，讓 20 家美國經銷商圍著問代理權——那是很多台灣人第一次摸到「台灣自己做的電腦」。做這台電腦的人，父親在他三歲時過勞早逝，母親靠賣鴨蛋、愛國獎券把他養大。他把宏碁做到全球前五大 PC 品牌，畫出寫進教科書的微笑曲線，也是台灣少數願意站到鏡頭前說「我是最大的輸家」的科技教父。",
-    "healthScore": 75,
-    "qualityScore": 0,
-    "formatIssues": 0,
-    "hasOverview": true,
-    "hasReading": true,
-    "fnCount": 71
-  },
-  {
     "title": "林啟維：從國際得獎的實體桌遊品牌，到 20 萬創作者的軟體平台",
     "slug": "林啟維",
     "category": "people",
@@ -9081,7 +9155,7 @@
       "fr": true,
       "vi": true,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": true
@@ -9090,7 +9164,7 @@
     "commitHash": "cfaa22a5",
     "commitSubject": "🧬 [semiont] rewrite: 新增 AAMA台北搖籃計畫 + SLP台北創業領導計畫兩篇新創導師制文章",
     "description": "林啟維（Chi-Wei Lin，網路上慣稱 CW）是台灣創業家。2014 年，他的教育桌遊在美國「父母嚴選獎」（Parents'' Choice Awards）打敗樂高拿下銀牌；十年後，他創辦的 Portaly 成了全台最大的創作者商務平台，20 萬人用它把影響力換成收入，2025 年起獲利、零付費行銷，靠 organic PLG（產品驅動成長）長成。從傳統產業跨進軟體、再跨進 AI，每一次歸零重學。他一直在做同一件事：幫別人把一種東西，換成另一種，然後把方法公開分享出去。",
-    "healthScore": 62,
+    "healthScore": 57,
     "qualityScore": 4,
     "formatIssues": 0,
     "hasOverview": true,
@@ -9250,7 +9324,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false,
       "ar": false,
       "ru": false
@@ -9503,7 +9577,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": true
@@ -9723,7 +9797,7 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -9974,7 +10048,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": true
@@ -10215,7 +10289,7 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true
     },
@@ -10288,7 +10362,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false,
       "ar": true,
       "ru": false
@@ -10361,7 +10435,7 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": true,
       "ar": true,
@@ -10407,7 +10481,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false,
       "ar": true,
       "ru": true
@@ -10853,7 +10927,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false,
       "ar": false,
       "ru": false
@@ -11182,11 +11256,11 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": false,
       "ar": true,
-      "ru": false
+      "ru": true
     },
     "revision": 14,
     "commitHash": "fd09526d",
@@ -11269,7 +11343,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false,
       "ar": true,
       "ru": true
@@ -11312,7 +11386,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": true
@@ -11683,7 +11757,7 @@
       "vi": false,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true
     },
@@ -11849,7 +11923,7 @@
       "fr": true,
       "vi": true,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": false
@@ -11930,7 +12004,7 @@
       "fr": true,
       "vi": true,
       "id": true,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": true
@@ -12289,11 +12363,11 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": false,
-      "ru": false
+      "ru": true
     },
     "revision": 7,
     "commitHash": "e1dc9d48",
@@ -12621,7 +12695,7 @@
       "vi": false,
       "id": false,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true
     },
@@ -12657,7 +12731,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false,
       "ar": true,
       "ru": true
@@ -12769,7 +12843,7 @@
       "vi": false,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true
     },
@@ -12811,7 +12885,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": false,
       "ru": false
@@ -12856,7 +12930,7 @@
       "vi": false,
       "id": false,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": false,
       "ru": true
     },
@@ -13095,7 +13169,7 @@
       "vi": false,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true
     },
@@ -13131,7 +13205,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": false,
       "ru": false
@@ -13177,7 +13251,7 @@
       "vi": false,
       "id": false,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true
     },
@@ -13222,7 +13296,7 @@
       "vi": false,
       "id": false,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": false,
       "ru": true
     },
@@ -13432,7 +13506,7 @@
       "vi": false,
       "id": false,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": false
     },
@@ -13477,7 +13551,7 @@
       "vi": false,
       "id": false,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true
     },
@@ -13597,9 +13671,9 @@
       "vi": true,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
-      "ru": false
+      "ru": true
     },
     "revision": 16,
     "commitHash": "4d7fab8e",
@@ -13682,9 +13756,9 @@
       "vi": false,
       "id": false,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
-      "ru": false
+      "ru": true
     },
     "revision": 18,
     "commitHash": "4d7fab8e",
@@ -14003,7 +14077,7 @@
       "vi": true,
       "id": false,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true
     },
@@ -14083,8 +14157,8 @@
       "vi": false,
       "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
+      "hi": true,
+      "ar": true,
       "ru": true
     },
     "revision": 12,
@@ -14212,7 +14286,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": false
@@ -14372,7 +14446,7 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": false,
       "ar": false,
@@ -14413,7 +14487,7 @@
       "pt": true,
       "hi": false,
       "ar": false,
-      "ru": false
+      "ru": true
     },
     "revision": 1,
     "commitHash": "925aca59",
@@ -14523,8 +14597,8 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
-      "ru": false
+      "ar": true,
+      "ru": true
     },
     "revision": 1,
     "commitHash": "6f28d616",
@@ -14714,9 +14788,9 @@
       "vi": false,
       "id": false,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": false,
-      "ru": false
+      "ru": true
     },
     "revision": 1,
     "commitHash": "85634f83",
@@ -14803,7 +14877,7 @@
       "pt": true,
       "hi": false,
       "ar": false,
-      "ru": false
+      "ru": true
     },
     "revision": 1,
     "commitHash": "32ce121b",
@@ -14839,8 +14913,8 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
-      "ru": false
+      "ar": true,
+      "ru": true
     },
     "revision": 1,
     "commitHash": "dd6cd015",
@@ -14885,11 +14959,11 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": false,
-      "ar": false,
-      "ru": false
+      "ar": true,
+      "ru": true
     },
     "revision": 2,
     "commitHash": "b457dbbb",
@@ -14937,11 +15011,11 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": false,
       "ar": false,
-      "ru": false
+      "ru": true
     },
     "revision": 1,
     "commitHash": "036da279",
@@ -14983,8 +15057,8 @@
       "vi": false,
       "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
+      "hi": true,
+      "ar": true,
       "ru": true
     },
     "revision": 15,
@@ -15140,7 +15214,7 @@
       "pt": true,
       "hi": false,
       "ar": false,
-      "ru": false
+      "ru": true
     },
     "revision": 3,
     "commitHash": "86db85f3",
@@ -15317,7 +15391,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false,
       "ar": false,
       "ru": true
@@ -15443,7 +15517,7 @@
       "pt": true,
       "hi": false,
       "ar": false,
-      "ru": false
+      "ru": true
     },
     "revision": 3,
     "commitHash": "01d9d0e7",
@@ -15564,7 +15638,7 @@
       "pt": true,
       "hi": true,
       "ar": true,
-      "ru": false
+      "ru": true
     },
     "revision": 2,
     "commitHash": "9b5cb286",
@@ -16225,7 +16299,7 @@
       "pt": true,
       "hi": false,
       "ar": false,
-      "ru": false
+      "ru": true
     },
     "revision": 2,
     "commitHash": "4777e254",
@@ -16264,9 +16338,9 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true
     },
@@ -16311,8 +16385,8 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
-      "ru": false
+      "ar": true,
+      "ru": true
     },
     "revision": 10,
     "commitHash": "a73489f3",
@@ -16355,7 +16429,7 @@
     "commitHash": "03864750",
     "commitSubject": "Create 營養午餐.md (#872)",
     "description": "1951年，聯合國脫脂奶粉開啟台灣營養午餐序幕。從美援麵粉到在地米食，再到今日食育與免費政策，這段百年變革不僅餵飽學子，更映照社會經濟、教育理念與飲食文化深刻進程。",
-    "healthScore": 47,
+    "healthScore": 42,
     "qualityScore": 10,
     "formatIssues": 2,
     "hasOverview": true,
@@ -16392,7 +16466,7 @@
     "commitHash": "cac8a6c3",
     "commitSubject": "🧬 [semiont] heal: 台北101 frontmatter polish — category Geography + subcategory 地標",
     "description": "台北 101 不只是一棟大樓，它是陳水扁與彭淮南的政經博弈、李祖原的風水實驗，更是 Alex Honnold 腳下的「大魔王」。從 59 層到 101 層的演變，揭開這座「聚寶盆」背後的權力與神祕。",
-    "healthScore": 50,
+    "healthScore": 45,
     "qualityScore": 7,
     "formatIssues": 1,
     "hasOverview": true,
@@ -16478,7 +16552,7 @@
     "commitHash": "4b14eefe",
     "commitSubject": "Create 陳致中.md (#841)",
     "description": "2008年，陳致中因海外洗錢案被迫中斷學業返台，開啟他與司法爭議交織的政治生涯。他曾兩度以選區最高票當選高雄市議員，卻也三度因案解職。2023年「排黑條款」通過後，其政治之路看似終結，他卻轉向 Threads 等社群平台，與父親陳水扁以「Water」等幽默互動，展現出非典型的父子關係與數位回歸。",
-    "healthScore": 49,
+    "healthScore": 44,
     "qualityScore": 0,
     "formatIssues": 0,
     "hasOverview": true,
@@ -16830,7 +16904,7 @@
     "commitHash": "f2239212",
     "commitSubject": "🧬 [semiont] rewrite: 鄭文琦 NEW People — NML peer Stage 6 P0 #1 + 15 P1/P2 進 INBOX (#846)",
     "description": "2017 年 5 月，馬來西亞藝術家周盈貞抵達台北，成為《數位荒原》駐站第一位藝術家，在發表會放了一段她跟婆婆用潮州話祈福的影片。這個場景是鄭文琦 2011 創辦《數位荒原》的縮影 — 12 年後累積 56 期、384 篇文章、10 冊《群島資料庫》，他用「群島」取代「東南亞」，把台灣藝術圈推向馬來世界，但也撞上了邊陲視角的天花板。",
-    "healthScore": 44,
+    "healthScore": 39,
     "qualityScore": 0,
     "formatIssues": 1,
     "hasOverview": true,
@@ -17238,7 +17312,7 @@
       "fr": true,
       "vi": false,
       "id": true,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": true
@@ -17566,7 +17640,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": false,
       "ar": false,
       "ru": false
@@ -17776,7 +17850,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": true
@@ -18352,43 +18426,6 @@
     "hasOverview": true,
     "hasReading": false,
     "fnCount": 11
-  },
-  {
-    "title": "曹興誠：從晶圓梟雄到抗共護台的「八不居士」",
-    "slug": "曹興誠",
-    "category": "people",
-    "subcategory": "科技與企業",
-    "date": "2026-04-30",
-    "lastModified": "2026-04-30",
-    "lastVerified": "2026-04-30",
-    "lastHumanReview": false,
-    "featured": false,
-    "wordCount": 3083,
-    "tagCount": 0,
-    "tags": [],
-    "translations": {
-      "en": true,
-      "ja": true,
-      "ko": true,
-      "es": true,
-      "fr": true,
-      "vi": true,
-      "id": true,
-      "pt": true,
-      "hi": true,
-      "ar": true,
-      "ru": true
-    },
-    "revision": 5,
-    "commitHash": "03431927",
-    "commitSubject": "🧬 [semiont] heal: PR #711 + #710 cherry-pick polish + γ memory (#713)",
-    "description": "1984 年向張忠謀提議晶圓代工卻被冷落，1995 年以「合資模式」挑戰台積電。這位曾推動「統一公投」的聯電創辦人，在經歷西進挫敗與香港變局後，於 2022 年豪擲 30 億台幣協助國防，完成從科技霸主到反共大將的驚人轉身。",
-    "healthScore": 45,
-    "qualityScore": 0,
-    "formatIssues": 1,
-    "hasOverview": true,
-    "hasReading": false,
-    "fnCount": 26
   },
   {
     "title": "莊朱玉女：從碼頭工人的免費餐桌到賣掉七棟房的十元便當",
@@ -21359,8 +21396,8 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
-      "ru": false
+      "ar": true,
+      "ru": true
     },
     "revision": 11,
     "commitHash": "4af626f4",
@@ -22052,7 +22089,7 @@
       "pt": true,
       "hi": false,
       "ar": false,
-      "ru": false
+      "ru": true
     },
     "revision": 5,
     "commitHash": "72ec8595",
@@ -22284,7 +22321,7 @@
       "vi": false,
       "id": false,
       "pt": false,
-      "hi": false,
+      "hi": true,
       "ar": false,
       "ru": false
     },
@@ -22639,8 +22676,8 @@
       "id": true,
       "pt": true,
       "hi": true,
-      "ar": false,
-      "ru": false
+      "ar": true,
+      "ru": true
     },
     "revision": 5,
     "commitHash": "0d8e06fc",
@@ -22685,7 +22722,7 @@
       "id": false,
       "pt": true,
       "hi": true,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 5,
@@ -22817,7 +22854,7 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": false,
       "ar": true,
@@ -23660,9 +23697,9 @@
       "vi": false,
       "id": false,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": false,
-      "ru": false
+      "ru": true
     },
     "revision": 17,
     "commitHash": "ddc476ed",
@@ -24714,7 +24751,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": false,
       "ru": false
@@ -24927,7 +24964,7 @@
       "pt": true,
       "hi": false,
       "ar": true,
-      "ru": false
+      "ru": true
     },
     "revision": 10,
     "commitHash": "a2b92cb6",
@@ -26532,10 +26569,10 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 12,
@@ -26974,7 +27011,7 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 12,
@@ -27902,7 +27939,7 @@
       "id": false,
       "pt": true,
       "hi": true,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 12,
@@ -30082,7 +30119,7 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": false
     },
     "revision": 13,
@@ -30255,7 +30292,7 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 9,
@@ -30801,7 +30838,7 @@
       "id": true,
       "pt": true,
       "hi": true,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 12,
@@ -30889,7 +30926,7 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 12,
@@ -30981,7 +31018,7 @@
       "pt": false,
       "hi": false,
       "ar": true,
-      "ru": false
+      "ru": true
     },
     "revision": 9,
     "commitHash": "f2426fdf",
@@ -31022,10 +31059,10 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 10,
@@ -31114,7 +31151,7 @@
       "pt": true,
       "hi": false,
       "ar": true,
-      "ru": false
+      "ru": true
     },
     "revision": 9,
     "commitHash": "f2426fdf",
@@ -31156,7 +31193,7 @@
       "pt": true,
       "hi": false,
       "ar": true,
-      "ru": false
+      "ru": true
     },
     "revision": 10,
     "commitHash": "72cb02df",
@@ -31288,8 +31325,8 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
-      "ru": false
+      "ar": true,
+      "ru": true
     },
     "revision": 13,
     "commitHash": "786ac8b3",
@@ -31330,7 +31367,7 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 11,
@@ -31372,11 +31409,11 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
-      "ru": false
+      "hi": true,
+      "ar": true,
+      "ru": true
     },
     "revision": 11,
     "commitHash": "786ac8b3",
@@ -31589,7 +31626,7 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": false,
       "ar": true,
@@ -31635,7 +31672,7 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 9,
@@ -31678,9 +31715,9 @@
       "vi": false,
       "id": false,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": false,
-      "ru": false
+      "ru": true
     },
     "revision": 12,
     "commitHash": "786ac8b3",
@@ -31723,8 +31760,8 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
-      "ru": false
+      "ar": true,
+      "ru": true
     },
     "revision": 12,
     "commitHash": "786ac8b3",
@@ -31763,11 +31800,11 @@
       "es": true,
       "fr": true,
       "vi": true,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
-      "ar": false,
-      "ru": false
+      "hi": true,
+      "ar": true,
+      "ru": true
     },
     "revision": 12,
     "commitHash": "786ac8b3",
@@ -31980,11 +32017,11 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": false,
-      "ru": false
+      "ru": true
     },
     "revision": 14,
     "commitHash": "9f958053",
@@ -32069,7 +32106,7 @@
       "id": false,
       "pt": true,
       "hi": true,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 11,
@@ -32112,7 +32149,7 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 12,
@@ -32198,7 +32235,7 @@
       "id": false,
       "pt": false,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 13,
@@ -32241,7 +32278,7 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 10,
@@ -32372,7 +32409,7 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 11,
@@ -32460,7 +32497,7 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 10,
@@ -32504,7 +32541,7 @@
       "pt": true,
       "hi": false,
       "ar": true,
-      "ru": false
+      "ru": true
     },
     "revision": 12,
     "commitHash": "786ac8b3",
@@ -32547,7 +32584,7 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 13,
@@ -32592,7 +32629,7 @@
       "pt": true,
       "hi": false,
       "ar": true,
-      "ru": false
+      "ru": true
     },
     "revision": 11,
     "commitHash": "786ac8b3",
@@ -32899,7 +32936,7 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 9,
@@ -32986,8 +33023,8 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
-      "ru": false
+      "ar": true,
+      "ru": true
     },
     "revision": 11,
     "commitHash": "786ac8b3",
@@ -33030,7 +33067,7 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 13,
@@ -33075,7 +33112,7 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 12,
@@ -33118,8 +33155,8 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
-      "ru": false
+      "ar": true,
+      "ru": true
     },
     "revision": 17,
     "commitHash": "740a66e6",
@@ -33211,7 +33248,7 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 11,
@@ -33342,7 +33379,7 @@
       "fr": true,
       "vi": false,
       "id": false,
-      "pt": false,
+      "pt": true,
       "hi": true,
       "ar": true,
       "ru": true
@@ -33477,8 +33514,8 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
-      "ru": false
+      "ar": true,
+      "ru": true
     },
     "revision": 12,
     "commitHash": "42d8684c",
@@ -33519,11 +33556,11 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": false,
       "hi": false,
       "ar": false,
-      "ru": false
+      "ru": true
     },
     "revision": 14,
     "commitHash": "15319020",
@@ -33565,7 +33602,7 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 12,
@@ -33738,8 +33775,8 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
-      "ru": false
+      "ar": true,
+      "ru": true
     },
     "revision": 6,
     "commitHash": "1f54481a",
@@ -33864,11 +33901,11 @@
       "es": true,
       "fr": true,
       "vi": false,
-      "id": false,
+      "id": true,
       "pt": true,
       "hi": false,
-      "ar": false,
-      "ru": false
+      "ar": true,
+      "ru": true
     },
     "revision": 16,
     "commitHash": "eec1bc99",
@@ -33911,7 +33948,7 @@
       "pt": true,
       "hi": true,
       "ar": true,
-      "ru": false
+      "ru": true
     },
     "revision": 11,
     "commitHash": "",
@@ -34335,7 +34372,7 @@
       "id": false,
       "pt": true,
       "hi": false,
-      "ar": false,
+      "ar": true,
       "ru": true
     },
     "revision": 10,
@@ -34741,7 +34778,7 @@
       "pt": true,
       "hi": true,
       "ar": true,
-      "ru": false
+      "ru": true
     },
     "revision": 3,
     "commitHash": "",
@@ -35690,9 +35727,9 @@
       "vi": false,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
-      "ru": false
+      "ru": true
     },
     "revision": 1,
     "commitHash": "",
@@ -35733,7 +35770,7 @@
       "vi": false,
       "id": false,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": false,
       "ru": true
     },
@@ -35777,7 +35814,7 @@
       "vi": false,
       "id": false,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
       "ru": true
     },
@@ -35820,9 +35857,9 @@
       "vi": false,
       "id": true,
       "pt": true,
-      "hi": false,
+      "hi": true,
       "ar": true,
-      "ru": false
+      "ru": true
     },
     "revision": 1,
     "commitHash": "",
