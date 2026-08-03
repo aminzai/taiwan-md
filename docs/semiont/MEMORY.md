@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-03
-last_session: '2026-08-03-084052-twmd-maintainer-daily（merge-first-heal #1288 黃崇仁，抓到 2 處杜撰引語 + 1 處日期誤植 + 1 條死鏈腳註）'
+last_session: '2026-08-03-093300-twmd-flywheel-watch（飛輪綠燈，唯一靜默的是本 routine 昨天沒推上 origin 的收官）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -316,6 +316,7 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-02 | 064224-twmd-spore-harvest-am | 4 spores harvest 零新勘誤（鎢供應鏈 D+7 終點站續平 479K／苯駢芘 D+6）；回讀文章本體確認命案框架已用匿名化陳述接住，讀者串無新升級 | pipeline 與 MANIFESTO 回覆自動發布政策落差連續第 4+ 輪只記錄未修，該次性改 canonical | [→](memory/2026-08-02-064224-twmd-spore-harvest-am.md) |
 | 2026-08-02 | 070904-twmd-feedback-triage | 隊列空零新回報；archive 掃描 40 檔，跟昨天不同這次零新留言同步，本 session 零 commit | 空隊列有時真的什麼都沒有，不用為敘事完整硬找意義 | [→](memory/2026-08-02-070904-twmd-feedback-triage.md) |
 | 2026-08-02 | 084957-twmd-maintainer-daily | merge-first-heal #1287 黑蝙蝠中隊，deploy 一度轉紅 heal 後復綠；5 issue 全無新 follow-up | PR checks 綠不等於 main deploy 綠 | [→](memory/2026-08-02-084957-twmd-maintainer-daily.md) |
+| 2026-08-02 | 093355-twmd-flywheel-watch | 飛輪綠燈零警報（24hr 22 commit／14 筆 routine 全留痕）；commit 少三分之二是產出還沒推出去不是變慢 | 儀器只看得見推上 origin 的那層（本列 2026-08-03 補推，原 commit 停在本機） | [→](memory/2026-08-02-093355-twmd-flywheel-watch.md) |
 | 2026-08-02 | 212446-twmd-routine-audit-weekly | W31 飛輪自審：814 commit／0 碰撞，11 條具名 routine 全數健康；抓到分類器誤歸類、babel 委派層 commit 格式漂移、self-evolve-weekly 檔名跌成 manual 三個新漂移 | 每一層 SSOT 都在，缺的是有人跑在層外定期比對彼此是否還對齊 | [→](memory/2026-08-02-212446-twmd-routine-audit-weekly.md) |
 | 2026-08-03 | 011058-twmd-supporters-weekly | Stage 2 卡住：這個 cron 執行環境無 Gmail MCP（search_threads/get_message 皆不存在），checkpoint 停在 07-12，中止不動 SSOT | 沒有証物時最不該做的事是編一個「0 候選信」no-op 掩蓋工具缺口 | [→](memory/2026-08-03-011058-twmd-supporters-weekly.md) |
 | 2026-08-03 | 053453-twmd-embeddings-nightly | 12 語 8696 向量 0 fail；僅 ar.json 實質變動，vi/id 門檻持穩無新爬升警示 | 穩態 routine 連續乾淨執行仍要記一行，才有基線判斷下次異常 | [→](memory/2026-08-03-053453-twmd-embeddings-nightly.md) |
@@ -324,3 +325,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-03 | 064000-twmd-spore-harvest-am | 2 spores harvest 零新勘誤（苯駢芘 D+7 終點站續平 1707/5009 views）；鎢供應鏈已老出窗口不再收，OVERDUE 2→0 | 連續多輪讀者迴聲持平本身是訊號，不是遺漏；沒有基線就分不出「沒事」跟「漏抓」 | [→](memory/2026-08-03-064000-twmd-spore-harvest-am.md) |
 | 2026-08-03 | 070844-twmd-feedback-triage | 隊列空零新回報；archive 掃描 40 檔連續第三天同一批，零新留言同步，本 session 零 commit | 連續空轉兩天仍照實記錄，才有基線分辨「這條 routine 平常就這麼安靜」跟「哪天真的壞了」 | [→](memory/2026-08-03-070844-twmd-feedback-triage.md) |
 | 2026-08-03 | 084052-twmd-maintainer-daily | merge-first-heal PR #1288 黃崇仁；footnote 抽驗抓到 2 處杜撰引語（紅旗10型）+ 1 處日期誤植 + 1 條死鏈腳註，5 issue 全無新 follow-up | 直接引語比周邊事實更脆弱：死訊/債務/公司歷史都對得上時仍要優先逐字核對「」內文字的來源 | [→](memory/2026-08-03-084052-twmd-maintainer-daily.md) |
+| 2026-08-03 | 093300-twmd-flywheel-watch | 飛輪綠燈（24hr 17 commit／8 條 routine 全留痕），唯一靜默的是本 routine 自己——昨天收官停在本機沒推上 origin；順手清掉 handoff 三天的第一把尺前綴缺口 | commit 不等於留痕；只讀 origin 的儀器要求收官也要抵達 origin | [→](memory/2026-08-03-093300-twmd-flywheel-watch.md) |

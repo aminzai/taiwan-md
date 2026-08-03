@@ -58,6 +58,20 @@ LIVE_STATE = "docs/semiont/routine-live-state.json"
 LIVE_STALE_HOURS = 48
 # 索引列：| YYYY-MM-DD | HHMMSS-handle | 摘要 | 教訓 | link |
 MEMORY_ROW = re.compile(r"^\|\s*(\d{4}-\d{2}-\d{2})\s*\|\s*(\d{6})-([a-z0-9-]+)\s*\|")
+# 🧬 commit 標題的主題前綴（BECOME §Commit 標記規則的 type 詞彙 + 產線常用幾個）。
+# `[routine] memory: twmd-xxx …` 這種句型裡，冒號前的是主題不是 routine 名。
+COMMIT_TYPE_PREFIXES = {
+    "babel",
+    "diagnose",
+    "diary",
+    "distill",
+    "embeddings",
+    "evolve",
+    "heal",
+    "immune",
+    "memory",
+    "rewrite",
+}
 
 
 
@@ -247,11 +261,23 @@ def main():
     # fired 有兩種痕跡：`[routine] <slug>:` 主產出，以及收官那筆 `[semiont] memory:
     # twmd-xxx 收官`。只認前者會把「真的跑了但只留收官紀錄」誤報成靜默——2026-07-25
     # 首跑就對 maintainer-daily 誤報一次（REFLEXES #66：閾值用真實產出校準）。
+    #
+    # 標籤後面那個詞不一定是 routine 名，也可能是 commit 的**主題前綴**（`memory:`
+    # `heal:` `embeddings:` 這套 🧬 commit type 詞彙）。照字面收就會長出 `twmd-memory`
+    # `twmd-heal` 這種不存在的 routine 掛在「有動靜」欄裡，而真正跑的那條只剩第二把尺
+    # 護著（2026-08-01 起連三天重現）。所以先在同一行找明確的 taskId，找得到就用它；
+    # 找不到又是主題前綴，就不掰一個名字出來——寧可少算一條，不要報一條不存在的
+    # （REFLEXES #82 訊號別選代理）。
     fired = set()
     for l in routine_commits:
         m = re.search(r"\[routine\]\s+([a-z0-9-]+)", l)
-        if m:
-            slug = m.group(1)
+        if not m:
+            continue
+        slug = m.group(1)
+        task_in_subject = re.search(r"twmd-[a-z0-9-]+", l)
+        if task_in_subject:
+            fired.add(task_in_subject.group(0))
+        elif slug not in COMMIT_TYPE_PREFIXES:
             fired.add(slug if slug.startswith("twmd-") else f"twmd-{slug}")
     mentioned = set(re.findall(r"twmd-[a-z0-9-]+", log))
 
