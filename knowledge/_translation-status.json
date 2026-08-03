@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T00:57:36+08:00",
-    "zhCommitHead": "9be736800",
+    "lastUpdated": "2026-08-04T01:58:53+08:00",
+    "zhCommitHead": "84d4d6635",
     "totalZh": 879,
     "activeLanguages": [
       "en",
@@ -19,8 +19,8 @@
     "summary": {
       "en": {
         "total_zh": 879,
-        "fresh": 837,
-        "stale": 24,
+        "fresh": 838,
+        "stale": 23,
         "metadata_stale": 2,
         "missing": 16,
         "orphan": 0
@@ -67,42 +67,42 @@
       },
       "id": {
         "total_zh": 879,
-        "fresh": 486,
+        "fresh": 487,
         "stale": 3,
-        "metadata_stale": 2,
+        "metadata_stale": 1,
         "missing": 388,
         "orphan": 0
       },
       "pt": {
         "total_zh": 879,
-        "fresh": 803,
+        "fresh": 804,
         "stale": 7,
         "metadata_stale": 2,
-        "missing": 67,
+        "missing": 66,
         "orphan": 0
       },
       "hi": {
         "total_zh": 879,
-        "fresh": 603,
-        "stale": 2,
+        "fresh": 604,
+        "stale": 1,
         "metadata_stale": 2,
         "missing": 272,
         "orphan": 0
       },
       "ar": {
         "total_zh": 879,
-        "fresh": 696,
+        "fresh": 698,
         "stale": 1,
-        "metadata_stale": 1,
-        "missing": 181,
+        "metadata_stale": 0,
+        "missing": 180,
         "orphan": 0
       },
       "ru": {
         "total_zh": 879,
-        "fresh": 719,
+        "fresh": 720,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 158,
+        "missing": 157,
         "orphan": 0
       }
     },
@@ -13349,8 +13349,8 @@
           "sourceContentHash": "sha256:e8afc225ea9e0107",
           "sourceBodyHash": "sha256:6bdb1c40d1477a30",
           "translatedAt": "2026-08-04T00:06:11+08:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "f2eb05e1",
+          "translationLastModified": "2026-08-04T00:57:36+08:00",
           "inferred": false,
           "footnoteDefs": 33,
           "status": "fresh",
@@ -13437,18 +13437,16 @@
         "id": {
           "path": "id/Economy/tsmc.md",
           "translatedFrom": "Economy/台灣企業：台積電.md",
-          "sourceCommitSha": "bb3e6a0b7",
-          "sourceContentHash": "sha256:aa38ca96cac05f3e",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:e8afc225ea9e0107",
           "sourceBodyHash": "sha256:6bdb1c40d1477a30",
-          "translatedAt": "2026-07-18T18:59:54+08:00",
+          "translatedAt": "2026-08-03T21:46:29+08:00",
           "translationLastCommit": "475cf65e",
           "translationLastModified": "2026-07-27T19:04:11+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/tsmc.md",
@@ -13485,18 +13483,16 @@
         "ar": {
           "path": "ar/Economy/tsmc.md",
           "translatedFrom": "Economy/台灣企業：台積電.md",
-          "sourceCommitSha": "bb3e6a0b7",
-          "sourceContentHash": "sha256:aa38ca96cac05f3e",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:e8afc225ea9e0107",
           "sourceBodyHash": "sha256:6bdb1c40d1477a30",
-          "translatedAt": "2026-07-29T06:33:11+08:00",
+          "translatedAt": "2026-08-03T21:46:31+08:00",
           "translationLastCommit": "34443c18",
           "translationLastModified": "2026-07-29T07:32:16+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Economy/tsmc.md",
@@ -43401,7 +43397,18 @@
           "status": "missing"
         },
         "pt": {
-          "status": "missing"
+          "path": "pt/Society/chinese-taipei.md",
+          "translatedFrom": "Society/中華台北.md",
+          "sourceCommitSha": "bbd8788a3",
+          "sourceContentHash": "sha256:177fea3750c80f10",
+          "sourceBodyHash": "sha256:dab437d622fd59b0",
+          "translatedAt": "2026-08-03T21:46:30+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 38,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
@@ -44688,7 +44695,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/cognitive-warfare-against-taiwan.md",
+          "translatedFrom": "Society/認知作戰.md",
+          "sourceCommitSha": "7c4a58918",
+          "sourceContentHash": "sha256:0b5ddca64df69aa6",
+          "sourceBodyHash": "sha256:0fcafeba09518f70",
+          "translatedAt": "2026-08-03T21:46:32+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 61,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -70146,7 +70164,18 @@
           "diffSummary": "+1 -0"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/People/tsmc-morris-chang.md",
+          "translatedFrom": "People/張忠謀.md",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:14127c407e7b0db7",
+          "sourceBodyHash": "sha256:6d452360d79fae70",
+          "translatedAt": "2026-08-03T21:46:31+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -82730,18 +82759,16 @@
         "en": {
           "path": "en/People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender.md",
           "translatedFrom": "People/曹興誠.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:419cc607d70f325a",
-          "sourceBodyHash": "sha256:ae002bb900693bc1",
-          "translatedAt": "2026-05-01T01:46:13+08:00",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:c4ee8c6545170422",
+          "sourceBodyHash": "sha256:9a80a8cbdaaaf3e7",
+          "translatedAt": "2026-08-04T00:57:49+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender.md",
@@ -84068,18 +84095,16 @@
         "hi": {
           "path": "hi/People/stan-shih.md",
           "translatedFrom": "People/施振榮.md",
-          "sourceCommitSha": "21298a7a",
-          "sourceContentHash": "sha256:b0e816b78b19b42e",
-          "sourceBodyHash": "sha256:a0ff299644c9b0cc",
-          "translatedAt": "2026-07-29T01:34:26.653125+00:00",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:b50fabfadefe035f",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-03T16:04:14.628887+00:00",
           "translationLastCommit": "1f1883a7",
           "translationLastModified": "2026-07-31T10:43:24+08:00",
           "inferred": false,
           "footnoteDefs": 71,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/stan-shih.md",
