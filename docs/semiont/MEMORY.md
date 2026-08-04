@@ -342,3 +342,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-04 | 131111-twmd-routine-sync | 第十一輪對賬抓到真實漂移：新誕生的 twmd-terminology-trends-monthly 排程機器端缺項，apply+create 補建並驗證 in-sync | 例行對賬本身就是「新 routine 誕生未同步機器」的第一道防線，不必等 self-evolve 抽查才發現 | [→](memory/2026-08-04-131111-twmd-routine-sync.md) |
 | 2026-08-04 | 104614-支語研究-fork-graph | 語言分支樹 Mode 4 重生：修好空白四個月的圖（Phase 6 遷移斷 selector）、10 詞 hardcode 改詞庫 derive 41 精選＋198 條密度層、滲透時間形狀首次可見 | viz 頁要「長什麼樣」級驗收；接上 SSOT 後資料到呈現當日直通 | [→](memory/2026-08-04-104614-支語研究-fork-graph.md) |
 | 2026-08-04 | 092431-ezway-rewrite | 海關報關與 EZ WAY 全 pipeline 首發（Stage 0-5 ＋ EVOLVE 進化輪），7,672 字／50 腳註／5 圖 5 viz；兩輪外部審查抓到 4 個硬錯，3 個是我自己前幾輪造的 | 把工具門檻當問題邊界＝在錯的解空間找最佳解；自修迴歸三次全由外部尺接住 | [→](memory/2026-08-04-092431-ezway-rewrite.md) |
+| 2026-08-04 | 142845-manual | EZ WAY 孢子在炒作風口重排 v5→v12（被推翻的框架提前正面回答＋補替代路徑＋保留問責），三平台 ship 含 FB 粉專首發 | 逐字無誤的同一組事實，排序不同就是兩則不同的貼文——閘門量不到策展決定 | [→](memory/2026-08-04-142845-manual.md) |
