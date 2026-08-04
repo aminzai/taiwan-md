@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T08:40:20+08:00",
-    "zhCommitHead": "19aaf5ec2",
+    "lastUpdated": "2026-08-04T08:48:13+08:00",
+    "zhCommitHead": "4f65a4226",
     "totalZh": 879,
     "activeLanguages": [
       "en",
@@ -99,10 +99,10 @@
       },
       "ru": {
         "total_zh": 879,
-        "fresh": 730,
+        "fresh": 731,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 147,
+        "missing": 146,
         "orphan": 0
       }
     },
@@ -37445,7 +37445,18 @@
           "status": "missing"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/taiwan-higher-education-expansion-and-decline.md",
+          "translatedFrom": "Society/台灣高等教育擴張與退場.md",
+          "sourceCommitSha": "3b2bfbb30",
+          "sourceContentHash": "sha256:0e32d79d3df5fb08",
+          "sourceBodyHash": "sha256:4ba5d74427c47aed",
+          "translatedAt": "2026-08-04T06:18:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 33,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -83311,8 +83322,8 @@
           "sourceContentHash": "sha256:c4ee8c6545170422",
           "sourceBodyHash": "sha256:9a80a8cbdaaaf3e7",
           "translatedAt": "2026-08-04T07:25:29+08:00",
-          "translationLastCommit": "995f1458",
-          "translationLastModified": "2026-06-12T05:24:32+08:00",
+          "translationLastCommit": "4f65a422",
+          "translationLastModified": "2026-08-04T08:40:20+08:00",
           "inferred": false,
           "footnoteDefs": 26,
           "status": "fresh",
