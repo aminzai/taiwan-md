@@ -347,3 +347,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-05 | 053832-twmd-routine-sync | 三層對賬第十二輪，18 條全 in-sync 零漂移；8/4 補建的 terminology-trends-monthly 首次驗證通過 | 十二輪兩次真實變化兩次命中，方向判斷持續正確 | [→](memory/2026-08-05-053832-twmd-routine-sync.md) |
 | 2026-08-05 | 061357-twmd-data-refresh-am | 14 步全綠零 stale，第八個連續全綠早晨；免疫評分 57→60 回升，跟昨日鬆動方向相反 | 單點讀數不足判斷趨勢，連 28+ 天卡在 60 的慢性訊號仍是拍板重點，非單日波動本身 | [→](memory/2026-08-05-061357-twmd-data-refresh-am.md) |
 | 2026-08-05 | 064557-manual | 黃崇仁+EZWAY 5 孢子 D+1 harvest 零事實錯誤；Chrome MCP 未登入迫出 pending-only reply 模式，2 則 Bucket E draft 待補發 | 讀者社群自發把 Bucket D 爭議兩面都補齊，飛輪不必每次靠我方介入才轉動 | [→](memory/2026-08-05-064557-manual.md) |
+| 2026-08-05 | 070824-twmd-feedback-triage | 隊列空第五天、archive 40 檔零新同步；順手掃七天 routine commit 對檔名，抓到今晨 spore-harvest 落成 manual（教訓 vc 1→2） | 隊列空仍跑 --commit 才保住 archive 同步那一半職責 | [→](memory/2026-08-05-070824-twmd-feedback-triage.md) |

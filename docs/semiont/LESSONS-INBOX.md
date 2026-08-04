@@ -454,7 +454,8 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 - **觸發**：2026-08-02 twmd-routine-audit-weekly Stage 1 核對本週各 routine 的 memory 檔案數時，`twmd-self-evolve-weekly` 用檔名 glob 找到 0 筆（正常應 1 筆），但 `git log --grep` 找到 1 筆對應 commit（`72251fdb7`）。追蹤到實體檔案是 `2026-08-02-041706-manual.md`，內文 session header 明寫「session twmd-self-evolve-weekly（cron routine，Sunday 04:00）」，是同一個 session 只是檔名沒跟上。
 - **可能層級**：通用反射候選——任何靠「呼叫時傳入 handle 參數」決定產物命名的自動化，若呼叫路徑存在無參數的 fallback（auto-detect），遲早會有一次呼叫漏了參數，產物命名跟內容本身的敘述（commit message／內文 header）不一致，而且因為內容本身讀起來完全正確，人工複閱不會發現——只有靠「檔名 vs 內容」交叉比對的第三方稽核才抓得到，跟 REFLEXES #65 (f) 存活≠生產是同一個「訊號要摸到 ground truth，不能只信自己一種讀法」的家族，這次的「訊號」換成檔案命名系統本身
 - **相關**：REFLEXES #82 Proxy signal antipattern（訊號要摸到 ground truth）、REFLEXES #51 Session ID schema（filename collision 有解、content collision 不解——本條是第三種：filename **drift**，不是撞名也不是內容衝突，是這次命名本身選錯了 handle）
-- **verification_count**: 1
+- **instance 2（2026-08-05 twmd-feedback-triage 順手掃出）**：今晨 06:45 的 `twmd-spore-harvest-am` commit（`e85765bc4`）訊息寫對 routine 名，建立的檔案卻是 `memory/2026-08-05-064557-manual.md`——距 instance 1 三天，同一種無參數 fallback，同樣只在檔名層、commit 訊息與內文皆正確。發現路徑佐證本條「只有第三方交叉比對抓得到」的判斷：本 session 自己跑 `session-id.sh` 無參數也拿到 `manual`，因為這條教訓還在甦醒 context 裡才去掃過去七天所有 `[routine] memory:` commit 的訊息 vs 檔名，四十餘筆中命中這一筆。同掃描另見 2026-07-30 maintainer 檔名 `twmd-maintainer-am` vs commit 稱 `twmd-maintainer-daily`，屬兩個名字的取捨非 fallback，不併入計數。**根治候選**：(a) `session-id.sh` 在 cron 環境無參數時 fail-loud 而非 default (b) 收官加一道 commit 訊息 handle 與檔名 handle 的對賬 lint——兩者都是跨 routine 的 tooling 改動，待 self-evolve 或哲宇決定。
+- **verification_count**: 2
 - **severity**: tactical（單次事件，未造成資料遺失或決策錯誤，僅讓下游任何靠檔名 pattern 找特定 routine 記憶的工具這一週漏看一筆——包括本審計自己，若非另外用 git log 交叉核對就會誤判「self-evolve-weekly 這週沒跑」）
 
 ### 2026-07-26 node-app-design — self-measured-improvement-picks-flattering-layer：自己量自己的改善時會挑到替身層
