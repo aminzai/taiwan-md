@@ -1,163 +1,164 @@
 ---
 title: 'Ketika Musik Klasik Menjadi Lagu Iklan Truk Sampah: Revolusi Lingkungan Paling Romantis Taiwan'
-description: "Ekspresi kaget orang asing mendengar truk sampah memutar Beethoven, di baliknya kisah ajaib transformasi Taiwan dari 'pulau sampah' menjadi teladan lingkungan"
-date: '2026-03-24'
-author: 'Taiwan.md Contributors'
+description: "Ekspresi kaget orang asing mendengar truk sampah memutar Beethoven, di baliknya adalah kisah ajaib Taiwan bertransformasi dari 'Pulau Sampah' menjadi teladan lingkungan"
+date: 2026-03-24
 category: 'Lifestyle'
-subcategory: '城市生活'
 tags:
   [
     'truk sampah',
-    'suasana suara kota',
+    'kota suara',
     'kebijakan lingkungan',
     'kehidupan sehari-hari Taiwan',
     'simbol budaya',
   ]
-readingTime: '7'
-lastVerified: '2026-03-24'
-lastHumanReview: 'false'
-featured: 'false'
+subcategory: 'Kehidupan Kota'
+author: 'Taiwan.md Contributors'
+readingTime: 7
+featured: false
+lastVerified: 2026-03-24
+lastHumanReview: false
+curation: 'incubating'
 translatedFrom: 'Lifestyle/台灣垃圾車音樂.md'
-sourceCommitSha: 'f99a9959c'
-sourceContentHash: 'sha256:e97d739884de9be4'
-sourceBodyHash: 'sha256:2afb135f1c4dd795'
-translatedAt: '2026-07-24T20:15:16+08:00'
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:e040549a241564ef'
+translatedAt: '2026-08-04T06:42:53.937407+00:00'
 ---
 
 # Ketika Musik Klasik Menjadi Lagu Iklan Truk Sampah: Revolusi Lingkungan Paling Romantis Taiwan
 
-Bayangkan Anda seorang wisatawan asing yang baru tiba di Taipei, santai menikmati latte di sebuah kafe, tiba-tiba di jalan terdengar _Für Elise_ karya Beethoven. Anda berpikir: "Wow, Taipei memang berbudaya, bahkan di pinggir jalan pun memutar musik klasik."
+Bayangkan Anda adalah seorang turis asing yang baru tiba di Taipei, dengan santai menikmati latte di sebuah kafe, tiba-tiba di jalan terdengar 《Für Elise》 karya Beethoven. Anda berpikir: "Wow, Taipei memang berbudaya, bahkan di pinggir jalan pun memutar musik klasik."
 
-Kemudian Anda menyaksikan adegan ajaib: seluruh penghuni jalan itu seolah mendengar sangkakala perang, membawa tas sampah dari lorong-lorong kecil berlari mengejar sebuah truk kuning cerah. Suara musik semakin dekat, semakin keras, hingga memekakkan telinga, lalu perlahan menghilang di kejauhan.
+Lalu Anda menyaksikan pemandangan ajaib: seluruh warga jalan itu seolah mendengar sangkakala perang, membawa tas sampah dari lorong-lorong kecil, berlari mengejar sebuah truk kuning cerah. Suara musik semakin dekat, semakin keras, hingga memekakkan telinga, lalu perlahan menghilang.
 
 "**Mereka... mereka tadi mengejar truk sampah?**"
 
-Selamat datang di Taiwan, di sini truk sampah lebih romantis dari truk es krim.
+Selamat datang di Taiwan, di sini truk sampah lebih romantis daripada truk es krim.
 
-## Asal Sejarah: Sebuah Kesalahpahaman yang Indah
+## Asal-usul sejarah: Sebuah kesalahpahaman yang indah
 
-Tradisi truk sampah Taiwan memutar musik sebenarnya adalah hasil kebetulan sejarah—dan versinya pun beragam, masing-masing penuh drama.
+Truk sampah Taiwan memutar musik sebenarnya adalah produk kebetulan sejarah——dan versinya tidak hanya satu, masing-masing penuh dramatis.
 
-### Versi Keturunan Jerman
+### Versi keturunan Jerman
 
-Versi paling populer: tahun 1968, Taiwan ingin mengupgrade dari gerobak dorong manual ke pengangkutan mekanis, membeli 21 unit truk sampah dari Jerman. Truk-truk Jerman tersebut ternyata sudah dilengkapi sistem musik _Doa Seorang Gadis_ (_A Maiden's Prayer_).
+Versi paling tersebar adalah: pada tahun 1968, Taiwan untuk mengupgrade dari gerobak dorong manual ke pengangkutan mekanis, membeli 21 unit truk sampah dari Jerman. Truk-truk Jerman tersebut awalnya sudah dilengkapi sistem musik "A Maiden's Prayer" (Doa Seorang Gadis).
 
-Namun ada pertanyaan: kenapa truk sampah Jerman memutar karya komponis Polandia Tekla Bądarzewska-Baranowska? Karya piano kecil tahun 1856 ini memang populer di Eropa, tapi apakah hanya karena **versi kotak musiknya royalti murah**?
+Tetapi di sini ada pertanyaan: mengapa truk sampah Jerman memutar karya komponis Polandia Tekla Bądarzewska-Baranowska? Karya piano kecil tahun 1856 ini memang populer di Eropa, tetapi apakah hanya karena **hak cipta versi musik box-nya yang murah**?
 
-### Versi Anak Perempuan Latihan Piano
+### Versi anak perempuan latihan piano
 
-Versi lain lebih berbau kemanusiaan: mantan Kepala Departemen Kesehatan Hsu Tzu-chiu suatu hari mendengar anak perempuannya latihan _Für Elise_ Beethoven di rumah, merasa enak didengar, terinspirasi: "Lagu ini begitu indah, kenapa tidak dibiarkan seluruh Taiwan mendengarnya?"
+Versi lain lebih berwarna kemanusiaan: mantan Kepala Dinas Kesehatan Hsu Tzu-chiu suatu hari mendengar putrinya berlatih "Für Elise" (Untuk Elise) karya Beethoven di rumah, merasa indah, dan terinspirasi: "Kurang begitu indahnya lagu ini, mengapa tidak dibiarkan seluruh Taiwan mendengarnya?"
 
-Begitulah _Für Elise_ terpilih sebagai lagu truk sampah. Jika ini benar, anak perempuan Hsu mungkin siswa piano paling berpengaruh dalam sejarah musik Taiwan.
+Lalu "Für Elise" dipilih sebagai musik pendamping truk sampah. Jika ini benar, maka putri Kepala Dinas Hsu mungkin menjadi murid piano paling berpengaruh dalam sejarah musik Taiwan.
 
 ### Versi Dr. Tu Tsung-ming
 
-Versi ketiga mengkreditkan tokoh legendaris kedokteran Taiwan, Dr. Tu Tsung-ming, konon dia yang memikirkan ide menggunakan musik sebagai sinyal buang sampah. Mengambil Dr. Tu bahkan bisa menciptakan nama kontraseptif "Levon", kreativitas ini tidak terlalu mengejutkan.
+Versi ketiga mengkreditkan tokoh legendaris dunia kedokteran Taiwan, Dr. Tu Tsung-ming, konon ia yang memikirkan ide menggunakan musik untuk memberitahu waktunya membuang sampah. Mengambil kira Dr. Tu bahkan mampu menciptakan nama "Leup" untuk alat kontrasepsi, kreativitas ini tidak terlalu keterlaluan.
 
-**Kebenarannya mungkin:** tidak ada yang tahu pasti, tapi ini cocok dengan budaya Taiwan—pragmatisme dibungkus cerita romantis.
+**Kebenarannya mungkin adalah:** tidak ada yang tahu kebenarannya, tetapi ini cocok dengan budaya Taiwan—pragmatisme yang dibungkus dalam cerita romantis.
 
-## Eksperimen Pavlov Versi Taiwan
+## Eksperimen Pavlov di Taiwan
 
-Musik truk sampah Taiwan menciptakan eksperimen kondisioning perilaku skala terbesar dalam sejarah. 23 juta orang, beberapa kali seminggu, selama 50 tahun, mendengar _Für Elise_ langsung ingin buang sampah.
+Musik truk sampah Taiwan menciptakan eksperimen kondisi perilaku terbesar dalam sejarah. 23 juta orang, beberapa kali seminggu, selama 50 tahun, mendengar "Für Elise" lalu merasa ingin membuang sampah.
 
-Jurnalis asing melaporkan dengan kagum: "**Army of yellow garbage trucks blasting out classical jingles brings out a Pavlovian response**" (Pasukan truk sampah kuning memutar jingle klasik, memicu respons Pavlov).
+Jurnalis asing mengagumkan dalam liputan mereka: "**Army of yellow garbage trucks blasting out classical jingles brings out a Pavlovian response**" (bala truk sampah kuning memutar lagu-lagu klasik, memicu respons Pavlov).
 
-Kondisioning ini seberapa dalam? Bahkan petugas kebersihan sendiri terkena. Seorang petugas yang bekerja 32 tahun berkata: "Setiap kali mendengar _Für Elise_, saya pun merasa perlu buang sampah."
+Seberapa dalam kondisi ini? Bahkan pekerja truk sampah sendiri terkena. Seorang petugas kebersihan yang bekerja 32 tahun berkata: "Setiap kali mendengar 'Für Elise', saya pun merasa perlu pergi membuang sampah."
 
-> **Catatan Kurator #1**: Psikologi memberitahu kita, musik klasik menurunkan stres, memperbaiki suasana hati. Orang Taiwan mungkin satu-satunya bangsa di dunia yang mendengar Beethoven justru merasa "tergesa-gesa".
+> **Catatan Kurator #1**: Psikologi memberitahu kita, musik klasik dapat menurunkan stres, meningkatkan suasana hati. Orang Taiwan mungkin adalah satu-satunya kelompok di dunia yang merasa "kegentaran" mendengar Beethoven.
 
-## Cara Buang Sampah Paling Sosial di Dunia
+## Cara Pengolahan Sampah Paling Sosial di Dunia
 
-Di kebanyakan negara, buang sampah adalah pekerjaan rumah yang sepi—malam hari tarik tong sampah ke pinggir jalan, keesokan harinya tong kosong muncul dengan ajaib. Di Taiwan, buang sampah adalah kegiatan komunitas.
+Di kebanyakan negara, membuang sampah adalah pekerjaan rumah yang sepi — malam hari mengantongkan tong sampah ke tepi jalan, keesokan harinya tong kosong muncul dengan ajaib. Tapi di Taiwan, membuang sampah adalah kegiatan komunitas.
 
-Ibu Chen, 60 tahun, warga Kecamatan Guting Taipei berkata: "Kalau ada warga lama tidak keluar buang sampah, saya khawatir mereka ada apa-apa." Waktu menunggu truk sampah menjadi momen hangat peduli tetangga—meski semua masih pakaian tidur, rambut acak-acakan.
+Nyonya Chen, 60 tahun, dari Distrik Guting, Taipei berkata: "Jika seseorang tidak keluar membuang sampah dalam waktu lama, saya akan khawatir mereka mengalami sesuatu." Menunggu truk sampah menjadi momen hangat peduli tetangga — meski semua orang memakai piyama, rambut acak-acakan.
 
-"Sosialisasi pasif" ini bagi modern urban sangat berharga. Di masyarakat yang semakin teratomisasi, musik truk sampah jadi perekat komunitas terakhir.
+Jenis "sosialisasi pasif" ini berharga bagi orang perkotaan modern. Di masyarakat yang semakin teratomisasi, musik truk sampah menjadi perekat komunitas terakhir.
 
-## "Sampah Tidak Menyentuh Tanah": Kebijakan Jenius Versi Taiwan
+## 「垃圾不落地」：Kebijakan Jenius Khas Taiwan
 
-Kebijakan "Sampah Tidak Menyentuh Tanah" (_Garbage Doesn't Touch the Ground_) Taiwan dinilai luar biasa di luar negeri. Sederhananya: sampah tidak dibuang di pinggir jalan, langsung diserahkan ke truk sampah. Kedengarannya dasar, tapi efeknya menakjubkan:
+Kebijakan 「垃圾不落地」 Taiwan dianggap sebagai keajaiban lingkungan di luar negeri. Sederhananya: sampah tidak diletakkan di tepi jalan, melainkan diserahkan langsung ke truk sampah. Ini kedengarannya dasar, tapi efeknya mengejutkan:
 
 - **Sampah rumah tangga Taipei berkurang 2/3**
-- **Tingkat daur ulang 55%** (kelas dunia)
-- **Kebersihan jalan raya meningkat drastis**
+- **Tingkat daur ulang 55% (kelas dunia)**
+- **Kebersihan jalanan meningkat drastis**
 
-Dibanding sistem pengelolaan kompleks Jepang, Taiwan menerapkan "mode mengejar truk"—dengar musik langsung kejar keluar. Orang Jepang harus ingat "hari Rabu ambil sampah terbakar, Kamis ke-2 ambil plastik", orang Taiwan cukup ingat "dengar _Doa Seorang Gadis_ langsung lari".
+Berbeda dengan sistem pengelompokan yang rumit di Jepang, Taiwan menerapkan 「模式 mengejar truk」—mendengar musik lalu mengejar keluar. Orang Jepang harus mengingat "hari Rabu dikumpulkan sampah terbakar, hari Kamis kedua dikumpulkan plastik", orang Taiwan hanya perlu mengingat "mendengar 《少女的祈禱》 lalu lari".
 
-Pemerintah juga cerdas menerapkan sistem kantong sampah berbayar: mau buang sampah? Beli dulu kantong khusus pemerintah. Ini bukan sekadar mekanisme biaya, tapi kontrol perilaku—Anda tidak akan sembarangan membuang kantong sampah mahal.
+Pemerintah juga cerdas memperkenalkan sistem kantong sampah berbayar: mau buang sampah? Beli dulu kantong sampah khusus pemerintah. Ini bukan hanya mekanisme biaya, tapi juga kontrol perilaku—kamu tidak akan sembarangan membuang kantong sampah yang mahal.
 
-> **Catatan Kurator #2**: Orang Taiwan bilang "saya mau kejar truk sampah", seperti orang Amerika bilang "saya mau kejar truk es krim". Satu menjual gula, satu mengumpulkan sampah, tapi kegembiraan sama saja.
+> **Catatan Kurator #2**: Orang Taiwan akan bilang "aku mau mengejar truk sampah", seperti orang Amerika bilang "aku mau mengejar truk es krim". Tapi yang satu menjual gula, yang lain mengumpulkan sampah, perasaannya sama-sama bersemangat.
 
-## Ketika Musik Truk Sampah Bertemu Budaya Pop
+## Saat Musik Truk Sampah Bertemu Budaya Pop
 
-Pada Parade Pride Taipei 2022, drag queen Kimmy Mesula berperan sebagai petugas kebersihan, menari voguing mengiringi versi EDM _Doa Seorang Gadis_, video viral di internet. Pengamat asing komentar: "Tidak ada yang lebih mewakili Parade Pride Taipei selain voguing mengiringi lagu pengumpul sampah."
+Selama Parade Pride Taipei 2022, drag queen Kimmy Mesula berperan sebagai petugas kebersihan, menari panas mengikuti versi remix elektronik 《少女的祈禱》, video itu viral di internet. Pengamat asing mengomentari: "Tidak ada yang lebih mewakili Parade Pride Taipei daripada voguing mengikuti lagu pengumpulan sampah."
 
-Fenomena ini menunjukkan posisi musik truk sampah dalam budaya pop Taiwan: ia sekaligus kesulitan sehari-hari (aduh lagi kejar truk sampah), kenangan kolektif (hanya orang Taiwan yang paham resonansinya), hingga bahan kreatif (DJ mengubahnya jadi musik elektronik).
+Fenomena ini menunjukkan posisi musik truk sampah dalam budaya pop Taiwan: ia sekaligus kekhawatiran sehari-hari (aduh, lagi-lagi harus mengejar truk sampah), kenangan kolektif (resonansi yang hanya orang Taiwan yang mengerti), bahkan bahan kreatif (DJ mengubahnya jadi musik elektronik).
 
-Orang Taiwan di luar negeri lebih menjadikan musik truk sampah simbol rindu tanah air. Di Reddit seseorang bilang: "15 tahun berlalu, _Für Elise_ bagiku sudah berarti sangat berbeda. Saya cinta Taiwan."
+Orang Taiwan di luar negeri justru menjadikan musik truk sampah sebagai simbol rindu tanah air. Di Reddit ada yang bilang: "15 tahun berlalu, 《給愛麗絲》 bagiku sudah punya arti yang benar-benar berbeda. Aku cinta Taiwan."
 
 ## Kejutan Budaya Orang Asing
 
-### Kisah Kaget Reddit
+### Catatan Keterkejutan Reddit
 
-Reaksi orang asing pertama kali bertemu truk sampah Taiwan sudah jadi meme klasik:
+Reaksi orang asing saat pertama kali bertemu truk sampah Taiwan, sudah menjadi meme klasik:
 
-> "Saya sama sekali tidak tahu musik itu dari mana, bawa sampah busuk di jalan lari sprint penuh tenaga. Tidak ketemu tetangga. Setiap kali saya kira musik dari sini, ternyata dari arah yang sama sekali berbeda. Hampir gila saya."
+> "Saya sama sekali tidak tahu musik itu datang dari mana, hanya membawa sampah busuk berlari kencang di jalan. Tidak pernah melihat tetangga. Setiap kali saya kira musik datang dari sini, ternyata datang dari arah yang sama sekali berbeda. Hampir gila saya."
 
-> "Saya bilang ke teman Barat: kalau dengar truk memutar musik, **jangan pernah coba buang sampah ke dalamnya**."
+> "Saya berkata ke teman-teman Barat: jika Anda mendengar truk memutar musik, **jangan pernah mencoba membuang sampah ke dalamnya**."
 
 ### Romantisasi Media Internasional
 
-_The Guardian_ meliput Taiwan dengan judul "Classical trash" (Sampah Klasik), menonjolkan keajaiban Taiwan berubah dari "garbage island" (pulau sampah) jadi teladan lingkungan.
+The Guardian melaporkan Taiwan dengan judul "Classical trash" (sampah klasik), menegaskan keajaiban transformasi Taiwan dari "garbage island" (pulau sampah) menjadi teladan lingkungan.
 
-Video media AS ATTN ditonton lebih 6,6 juta kali, judulnya: "Kenapa truk sampah Taiwan memutar lagu-lagu dunia?" Jawabannya bikin orang asing terpana: karena efektif.
+Video media AS ATTN ditonton lebih dari 6,6 juta kali, judulnya bertanya: "Mengapa truk sampah Taiwan memutar lagu-lagu klasik dunia?" Jawabannya mengejutkan orang asing: karena efektif.
 
 ## Sejarah Evolusi Versi Musik
 
-Musik truk sampah Taiwan juga berjalan seiring waktu. Dari versi asli _Doa Seorang Gadis_ 1968, ke versi kustom berbagai pemerintah daerah, hingga 2022 Khamphu Electronic dikontrak buat "versi ringan baru"—menggunakan nada lebih tinggi, efek sintetis lebih etere.
+Musik truk sampah Taiwan juga berubah seiring waktu. Dari versi asli 1968 《少女的祈禱》 (Doa Seorang Gadis), ke versi kustom berbagai pemerintah daerah, hingga "Versi Ringan Baru" (「新輕音版」) yang diproduksi oleh Qifu Electronics (詰富電子) pada 2022 — menggunakan rentang nada lebih tinggi, efek sintetis yang lebih etere.
 
-Selain dua klasik (_Für Elise_ + _Doa Seorang Gadis_), truk sampah Taiwan juga pernah memutar:
+Selain duet klasik (《給愛麗絲》+《少女的祈禱》), truk sampah Taiwan juga memutar:
 
-- _Love Story_
-- _Lagu Nina Bobo_
-- _Jiu Kan Tang Boe_ (khusus truk daur ulang)
+- 《愛的故事》 (Kisah Cinta)
+- 《搖籃曲》 (Lagu Nina Bobo)
+- 《酒矸倘賣嘸》 (Bottle Not Sold — khusus truk daur ulang)
 - Berbagai versi khas daerah
 
-Tapi bagaimanapun berubah, Beethoven dan Bądarzewska tetap raja musik di jalanan Taiwan.
+Namun bagaimana pun perubahan, Beethoven dan Badarzewska tetap penguasa musik di jalanan Taiwan.
 
-> **Catatan Kurator #3**: Beberapa sejarawan percaya, popularitas _Doa Seorang Gadis_ di Taiwan mungkin melebihi tempat asalnya Polandia. Karya salon abad ke-19 ini, di Taiwan abad ke-21 mendapat kehidupan kedua.
+> **Catatan Kurator #3**: Beberapa sejarawan percaya, popularitas 《少女的祈禱》 di Taiwan mungkin melebihi tempat asalnya, Polandia. Karya musik salon abad ke-19 ini, di Taiwan abad ke-21 memperoleh kehidupan kedua.
 
-## Perbandingan Internasional: Kenapa Hanya Taiwan yang Sukses?
+## Perbandingan Internasional: Mengapa Hanya Taiwan yang Sukses?
 
-Truk sampah memutar musik bukan penemuan Taiwan, tapi kenapa hanya Taiwan yang jadikan kondisioning seluruh rakyat?
+Truk sampah memutar musik bukan penemuan Taiwan, tapi mengapa hanya Taiwan yang mengubahnya menjadi disiplin bersama?
 
-**Jepang** truk sampahnya juga memutar musik, tapi fokus pada pengelolaan detail, bukan sosialisasi mengejar truk.
-**Eropa-Amerika** pernah coba sistem serupa, tapi warga keluh polusi suara, tidak terbentuk kebiasaan budaya.
+**Jepang** juga memutar musik di truk sampahnya, tapi fokus pada pengkategorian yang tepat, bukan kejar-truk bersosialisasi.
 
-Kunci keberhasilan Taiwan mungkin ada pada **adaptasi budaya**:
+**Eropa dan Amerika** pernah mencoba sistem serupa, tapi warga mengeluh kebisingan, tidak terbentuk kebiasaan budaya.
 
-1. **Kolektivisme**: bersedia kooperasi dengan kebijakan publik
-2. **Kepadatan tinggi**: semua orang mendengar musik
-3. **Pragmatisme**: efektif diterima, tidak cerewet soal estetika
+Kunci keberhasilan Taiwan mungkin terletak pada **adaptasi budaya**:
+
+1. **Kolektivisme**: bersedia mengikuti kebijakan publik
+2. **Penghunian kepadatan tinggi**: semua orang mendengar musik
+3. **Pragmatisme**: efektif diterima, tidak terpaku pada indah/tidak
 4. **Pendidikan musik merata**: musik klasik tidak asing
 
 ## Tantangan Masa Depan
 
-Seiring gedung-gedung tinggi di kota, mode tradisional mengejar truk menghadapi tantangan. Perumahan mewah mulai mempekerjakan satpam gedung urus sampah secara terpusat, warga tidak perlu lagi kejar truk sampah.
+Seiring dengan gedung tinggi di perkotaan, model kejar-truk tradisional menghadapi tantangan. Kompleks perumahan mewah mulai mempekerjakan pengelola gedung untuk mengurus sampah secara terpusat, warga tidak perlu lagi mengejar truk sampah.
 
-Tapi seperti ucapan Kimmy Mesula: "Orang asing tidak paham lagu ini. Pertunjukan ini hanya untuk orang yang tahu buang sampah."
+Tapi seperti yang dikatakan Kimmy Mesula: "Orang asing tidak mengerti lagu ini. Pertunjukan ini hanya untuk orang yang tahu membuang sampah."
 
-Musik truk sampah sudah melampaui fungsionalitas murni, jadi bagian identitas Taiwan. Meski tinggal di gedung tidak perlu kejar truk sampah, orang Taiwan mendengar _Für Elise_ tetap detak jantung sejenak.
+Musik truk sampah sudah melampaui fungsionalitas murni, menjadi bagian dari identitas Taiwan. Bahkan tinggal di gedung yang tidak perlu mengejar truk sampah, orang Taiwan tetap akan merasa detak jantung mempercepat sejenak saat mendengar 《給愛麗絲》.
 
-## Penutup: Kemenangan Rakyat Musik Klasik
+## Kesimpulan: Kemenangan Rakyat atas Musik Klasik
 
-Taiwan menciptakan keajaiban sejarah musik: mengubah seni tinggi salon Eropa jadi alat praktis pinggir jalan; mengubah nikmat estetika personal jadi kondisioning perilaku kolektif; membungkus pekerjaan "kotor" pengelolaan sampah jadi pengalaman romantis musik klasik.
+Taiwan menciptakan keajaiban dalam sejarah musik: mengubah seni tinggi Eropa di salon menjadi alat praktis di jalanan; mengubah kenikmatan estetika pribadi menjadi batasan perilaku kolektif; membungkus pekerjaan "kotor" seperti pengolahan sampah menjadi pengalaman musik klasik yang romantis.
 
-**Ini mungkin adegan yang tak pernah dibayangkan Beethoven: musiknya di pulau timur, setiap hari berbunyi puluhan ribu kali, mengingatkan orang menunaikan kewajiban warga.**
+**Ini mungkin skenario yang tidak pernah dibayangkan Beethoven: musiknya di pulau timur ini berbunyi puluhan ribu kali setiap hari, mengingatkan orang-orang untuk menunaikan kewajiban kewarganegaraan mereka.**
 
-Ketika wisatawan asing bertanya: "Kenapa truk sampah Taiwan memutar Beethoven?"
+Ketika wisatawan asing bertanya: 「Mengapa truk sampah Taiwan memutar Beethoven?」
 
-Jawaban paling jujur mungkin: "**Karena ini sangat efektif, dan... kita sudah terbiasa dengan romantisme.**"
+Jawaban paling jujur mungkin: 「**Karena cara ini sangat efektif, dan…… kita sudah terbiasa dengan hal yang romantis.**」
 
 ---
 

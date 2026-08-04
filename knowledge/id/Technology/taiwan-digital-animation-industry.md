@@ -1,143 +1,145 @@
 ---
-title: 'Industri Citra Digital dan Animasi Taiwan'
-description: 'Dari kerajaan outsourcing animasi terbesar di dunia menjadi kekuatan baru konten orisinal, transformasi lima puluh tahun industri citra digital Taiwan'
+title: 'Industri Imaji Digital dan Animasi Taiwan'
+description: 'Dari kerajaan jasa animasi terbesar di dunia ke kekuatan baru konten asli, perjalanan metamorfosis separuh abad industri imaji digital Taiwan'
 date: 2026-03-20
 category: 'Technology'
 tags:
   [
-    'citra digital',
-    'animasi',
-    'efek visual',
-    'industri budaya kreatif',
-    'industri film dan televisi',
+    'Imaji Digital',
+    'Animasi',
+    'Efek Visual',
+    'Industri Kreatif',
+    'Industri Film dan Televisi',
   ]
-subcategory: '數位娛樂'
+subcategory: 'Hiburan Digital'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
+curation: 'incubating'
 translatedFrom: 'Technology/台灣數位影像與動畫產業.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:692543a60baf3299'
-sourceBodyHash: 'sha256:bb5064886298647d'
-translatedAt: '2026-07-26T21:33:21+08:00'
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:51416a90bab5c553'
+translatedAt: '2026-08-04T07:06:03.805275+00:00'
 ---
 
-# Industri Citra Digital dan Animasi Taiwan
+# Industri Animasi dan Visual Digital Taiwan
 
-> **Ringkasan 30 detik:** Taiwan pernah menjadi kerajaan outsourcing animasi terbesar di dunia—pada masa kejayaannya, satu dari tiga animasi televisi di dunia melewati tangan orang Taiwan. Dari Wang Film Productions yang menggambar _Mulan_ dan _The Little Mermaid_ untuk Disney, hingga CGCG Inc. yang memenangkan penghargaan Daytime Emmy, hingga Reno Studios yang membuat _Annette_ memenangkan Efek Visual Terbaik di Golden Horse—pulau ini telah mencatatkan epik industri dari outsourcing ke orisinalitas selama setengah abad.
+> **Ringkasan 30 detik:** Taiwan pernah menjadi kerajaan jasa animasi terbesar di dunia — pada masa keemasan, satu di setiap tiga animasi TV di dunia dilewati tangan orang Taiwan. Dari Wang Film Productions (宏廣動畫) yang menggambar _Mulan_ dan _The Little Mermaid_ untuk Disney, hingga Studio 2 (西基動畫) yang memenangkan Daytime Emmy Award, sampai ke Re-creation Visual Effects (再現影像) yang membuat _Detention_ (返校) meraih Golden Horse Award untuk Efek Visual Terbaik — para animator pulau ini telah menggunakan setengah abad untuk menulis sebuah epik industri dari jasa ke karya asli.
 
-## Era Keemasan Outsourcing (1970-an-2000-an): Disney Timur
+## Era Emas Jasa Produksi (1970an-2000an): Disney Timur
 
-### Wang Film Productions: Yang Terbesar di Dunia Dulu
+### Wang Film Productions: Dahulu yang Terbesar di Dunia
 
-**Wang Film Productions** didirikan pada tahun 1978, menjadi titik awal industri animasi Taiwan, sekaligus sebuah legenda.
+**PT Wang Film Productions (Wang Film Productions)** didirikan pada tahun 1978, menjadi titik awal industri animasi Taiwan, dan juga sebuah legenda.
 
-Pendiri Wang Chung-yuan memulai bisnisnya dengan menerima pesanan dari Hanna-Barbera. Pada tahun 1986, Wang Film Productions menandatangani kontrak dengan Disney, menjadi mitra produksi luar negeri Disney. Pada masa kejayaannya:
+Pendiri Wang Chung-yuan memulai usahanya dengan menerima pesanan dari Hanna-Barbera. Pada tahun 1986, Wang Film Productions menandatangani kontrak dengan Disney, menjadi mitra produksi Disney di luar negeri. Pada masa keemasan:
 
-- **Jumlah karyawan melebihi 1.500 orang**, menjadi pabrik animasi outsourcing terbesar di dunia saat itu
-- Berpartisipasi dalam produksi animasi klasik Disney **_Mulan_**, **_The Little Mermaid_**, **_Aladdin_**
-- Secara bersamaan menerima banyak pesanan dari Warner Bros., Disney Television Animation, dan lainnya
-- Dinobatkan oleh media sebagai "**Disney Timur**"
+- **Karyawan lebih dari 1.500 orang**, menjadikannya pabrik jasa animasi terbesar di dunia saat itu
+- Berpartisipasi memproduksi animasi klasik Disney 《**Mulan**》, 《**The Little Mermaid**》, 《**Aladdin**》
+- Secara bersamaan menerima pesanan besar-besaran dari Warner Bros, animasi TV Disney, dll
+- Dijuluki media sebagai "**Disney Timur**"
 
-Namun, seiring bangkitnya pesaing dengan biaya lebih rendah dari Tiongkok dan Asia Tenggara, ditambah keputusan perusahaan untuk beralih ke orisinalitas yang tidak berhasil, Wang Film Productions akhirnya mengalami kemunduran—kisah ini menjadi studi kasus klasik transformasi industri Taiwan.
+Namun, seiring bangkitnya kompetitor biaya lebih rendah dari Tiongkok dan Asia Tenggara, ditambah keputusan perusahaan beralih ke produksi original yang gagal, Wang Film Productions akhirnya merosot—kisah ini menjadi pelajaran klasik transformasi industri Taiwan.
 
-> **Sumber Data:** [Taiwan Movie Net — Disney Dunia Tionghoa, Wang Film Productions Menciptakan Untuk Kita](https://taiwancinema.bamid.gov.tw/Articles/ArticlesContent/?ContentUrl=52670); [Wikipedia — Wang Film Productions](https://zh.wikipedia.org/zh-tw/%E5%AE%8F%E5%BB%A3)
+> **Sumber:** [Taiwan Cinema — Disney Dunia Tionghoa, Wang Film Productions Menciptakan untuk Kita](https://taiwancinema.bamid.gov.tw/Articles/ArticlesContent/?ContentUrl=52670); [Wikipedia — Wang Film Productions](https://zh.wikipedia.org/zh-tw/%E5%AE%8F%E5%BB%A3)
 
-### Ekosistem Outsourcing
+### Ekosistem Jasa Produksi
 
-Selain Wang Film Productions, pada masa yang sama Taiwan memiliki banyak perusahaan animasi outsourcing yang aktif:
+Selain Wang Film Productions, pada masa yang sama Taiwan memiliki beberapa perusahaan jasa animasi aktif:
 
-- **Chao Yang Animation**: Juga menerima bisnis outsourcing internasional
-- **Hung Ying Animation**: Berpartisipasi dalam produksi banyak animasi televisi Amerika
-- **Far East Animation**: Utamanya fokus pada outsourcing animasi televisi
+- **Chao Yang Animation**: Sama-sama menerima bisnis jasa internasional
+- **Hong Ying Animation**: Berpartisipasi dalam produksi banyak animasi TV Amerika
+- **Far East Animation**: Berfokus pada jasa animasi TV
 
-Perusahaan-perusahaan ini bersama-sama menopang julukan "**Kerajaan Animasi Outsourcing**" Taiwan, dan melatih generasi pertama talenta profesional animasi Taiwan. Namun takdir model outsourcing adalah: teknologi tetap di tangan, sementara merek dan IP (Hak Kekayaan Intelektual) selamanya menjadi milik orang lain.
+Perusahaan-perusahaan ini bersama-sama menopang gelar Taiwan "**Raja Jasa Animasi**", melahirkan generasi pertama profesional animasi Taiwan.
 
-## Transformasi dan Upaya Orisinal (1990-an-2010-an)
+Namun nasib model jasa produksi adalah: teknologi tetap di tangan, merek dan IP selalu milik orang lain.
 
-### _Grandma and Her Ghosts_: Tonggak Sejarah Animasi Taiwan
+## Transformasi dan Percobaan Asli (1990an-2010an)
 
-_Grandma and Her Ghosts_ yang tayang pada tahun 1998 adalah salah satu karya animasi orisinal paling penting di Taiwan.
+### 《魔法阿媽》：Milestone Animasi Taiwan
+
+Film yang dirilis pada 1998, **《魔法阿媽》** (Grandma and Her Ghosts), adalah salah satu karya animasi asli Taiwan yang paling penting.
 
 - **Sutradara/Produser**: Wang Hsiao-ti
-- **Perusahaan Produksi**: Rice Film Studio
-- **Jenis**: Film animasi panjang 2D bergambar tangan
-- Berlatar belakang kepercayaan rakyat Taiwan dan bulan ketujuh kalender lunar, menceritakan kisah anak laki-laki Dou Dou dan neneknya
-- Dinominasikan sebagai **Film Animasi Terbaik** di **Golden Horse Awards** tahun 1998
-- Memenangkan **Film Terbaik Tahunan** di **Taipei Film Awards** tahun 1998
-- Penghargaan Karya Animasi Terbaik di Festival Film Anak Internasional Chicago tahun 1999
-- Pada tahun 2021, dilakukan restorasi digital 4K dan tayang ulang, penggalangan dana massal memicu respons luas
+- **Perusahaan Produksi**: Daitian Film Studio
+- **Genre**: Film animasi 2D tangan panjang
+- Berlatar kepercayaan rakyat Taiwan dan bulan ketujuh kalender Masehi, menceritakan kisah anak laki-laki Dou-dou dan neneknya
+- Nominasi **Golden Horse Awards 1998 Kategori Animasi Terbaik**
+- Menangkan **Taipei Film Awards 1998 Film Terbaik Tahunan**
+- Penghargaan Karya Terbaik Film Animasi di Chicago International Children's Film Festival 1999
+- Pada 2021 mengalami pemutaran ulang setelah restorasi digital 4K, pendanaan massa menimbulkan respons masif
 
-_Grandma and Her Ghosts_ membuktikan bahwa Taiwan memiliki kemampuan untuk memproduksi animasi orisinal dengan kedalaman budaya lokal, hingga kini masih menjadi memori masa kecil banyak orang Taiwan.
+**《魔法阿媽》** membuktikan Taiwan mampu memproduksi animasi asli dengan kedalaman budaya lokal, dan hingga kini tetap menjadi kenangan masa kecil bagi banyak orang Taiwan.
 
-> **Sumber Data:** [Situs Web Resmi _Grandma and Her Ghosts_](https://mofaama.com/); [Wikipedia — _Grandma and Her Ghosts_](https://zh.wikipedia.org/zh-tw/%E9%AD%94%E6%B3%95%E9%98%BF%E5%AA%BD)
+> **Sumber:** [Situs Resmi Magic Grandma](https://mofaama.com/)；[Wikipedia — Magic Grandma](https://zh.wikipedia.org/zh-tw/%E9%AD%94%E6%B3%95%E9%98%BF%E5%AA%BD)
 
-### CGCG Inc.: Dari Outsourcing ke Emmy Award
+### CGCG Inc.: Dari Subkontrak ke Emmy Awards
 
-**CGCG Inc.** didirikan pada tahun 1988, menjadi pelopor animasi komputer 3D di Taiwan. Berbeda dengan outsourcing 2D Wang Film Productions, CGCG Inc. sejak awal mengkhususkan diri dalam animasi CG 3D:
+**CGCG Inc.** didirikan pada 1988, merupakan pelopor animasi komputer 3D Taiwan. Berbeda dengan subkontrak 2D Hong Guang, CGCG sejak awal berspesialisasi dalam animasi 3D CG:
 
-- Memproduksi seri animasi CG **_Lego Star Wars_** dan **_Star Wars_** untuk **Lucasfilm Animation**
-- Bekerja sama secara jangka panjang dengan **DreamWorks Animation**, **Nickelodeon**, **Warner Bros.**
-- Memproduksi seri animasi 3D berstandar tinggi untuk platform streaming seperti Disney+, Netflix, Apple TV
-- Memenangkan **Penghargaan Keunggulan Program Animasi Kategori Khusus** di **Daytime Emmy Awards** selama dua tahun berturut-turut
-- Memenangkan **Penghargaan Program Televisi Anak Terbaik** di **Annie Awards**
-- Menerima tiga kehormatan dari **SIGGRAPH**
+- Memproduksi animasi CG seri **《乐高星球大战》** dan **《星際大戰》** untuk **Lucasfilm Animation**
+- Kerjasama jangka panjang dengan **DreamWorks Animation**, **Nickelodeon**, **Warner Bros.**
+- Memproduksi serial animasi 3D berstandar tinggi untuk platform streaming Disney+, Netflix, Apple TV, dll.
+- Menangkan **Daytime Emmy Awards Kategori Keunggulan Program Animasi Khusus** dua tahun berturut-turut
+- Menangkan **Annie Awards Program Animasi Televisi Anak Terbaik**
+- Tiga penghargaan **SIGGRAPH**
 
-CGCG Inc. saat ini adalah perusahaan paling representatif di Taiwan dalam bidang outsourcing animasi CG internasional, membuktikan bahwa tim Taiwan memiliki kemampuan untuk memproduksi animasi 3D berstandar Hollywood.
+CGCG adalah perusahaan paling representatif Taiwan di bidang subkontrak animasi CG internasional saat ini, membuktikan tim Taiwan mampu memproduksi animasi 3D bermut Hollywood.
 
-> **Sumber Data:** [Situs Web Resmi CGCG Inc.](https://www.cgcg.com.tw/); [Wikipedia — CGCG Inc.](https://zh.wikipedia.org/zh-tw/%E8%A5%BF%E5%9F%BA%E9%9B%BB%E8%85%A6%E5%8B%95%E7%95%AB)
+> **Sumber:** [Situs Resmi CGCG Inc.](https://www.cgcg.com.tw/)；[Wikipedia — CGCG Inc.](https://zh.wikipedia.org/zh-tw/%E8%A5%BF%E5%9F%BA%E9%9B%BB%E8%85%A6%E5%8B%95%E7%95%AB)
 
-## Kebangkitan Efek Visual (2010-an-Sekarang)
+## Bangkitnya Efek Visual (2010an-sekarang)
 
-### Reno Studios: Efek Visual Terbaik Golden Horse
+### Menghidupkan Kembali Imaji: Penghargaan Efek Visual Terbaik Golden Horse
 
-**Reno Studios** didirikan oleh Kuo Hsien-tsung dan Huang Chih-chun pada tahun 2017, dengan cepat menjadi pemimpin di bidang efek visual film dan televisi Taiwan.
+**Reno Studios (再現影像)** didirikan oleh **Kuo Hsien-tsung (郭憲聰)** dan **Huang Chi-chun (黃棨雋)** pada 2017, dengan cepat menjadi pemimpin efek visual film dan televisi Taiwan.
 
 Karya representatif:
 
-- **_Annette_** (2019) — **Penghargaan Efek Visual Terbaik** di **Golden Horse Awards** ke-56, **Penghargaan Efek Visual Terbaik** di **Taipei Film Awards** ke-22
-- Berpartisipasi dalam produksi efek visual banyak film dan serial televisi Taiwan
-- Mengembangkan penerapan teknologi Virtual Production (Produksi Virtual) dan AI
+- 《**返校**》（2019）— Penghargaan **Efek Visual Terbaik Golden Horse ke-56**、Penghargaan Efek Visual Terbaik Festival Film Taipei ke-22
+- Berpartisipasi dalam produksi efek visual untuk banyak film dan serial Taiwan
+- Mengembangkan **Virtual Production** (produksi virtual) dan penerapan teknologi AI
 
-Adegan efek supranatural di _Annette_ menggabungkan elemen budaya lokal Taiwan (latar belakang sejarah Teror Putih) dengan teknologi efek visual modern, menunjukkan pemahaman mendalam tim Taiwan terhadap materi lokal dan kemampuan teknologi berstandar internasional.
+Adegan efek supernatural di 《返校》 menggabungkan elemen budaya lokal Taiwan (latar belakang sejarah **White Terror** / Teror Putih) dengan teknologi efek visual modern, menunjukkan pemahaman mendalam tim Taiwan terhadap topik lokal serta kemampuan teknis berstandar internasional.
 
-> **Sumber Data:** [Situs Web Resmi Reno Studios](https://reno-studios.com/); [Techbang — Wawancara Eksklusif dengan Penggerak Balik di Balik Efek _Annette_, Reno Studios](https://www.techbang.com/posts/78048)
+> **Sumber data:** [Situs resmi Reno Studios](https://reno-studios.com/)；[TechBang — Wawancara eksklusif di balik layar efek 《返校》: Reno Studios](https://www.techbang.com/posts/78048)
 
 ### Moonshine Animation
 
-**Moonshine Animation / Moonshine Studio** adalah perusahaan animasi dan efek visual penting di Taiwan, didirikan oleh Lin Chia-chi, dikenal dengan animasi dan efek visual berkualitas tinggi:
+**Moonshine Animation / Moonshine Studio (夢想動畫)** adalah perusahaan animasi dan efek visual penting di Taiwan, didirikan oleh **Lin Chia-chi (林家齊)**, terkenal dengan animasi dan efek visual berkualitas tinggi:
 
-- Mengkhususkan diri dalam animasi pembuka game, iklan komersial, efek visual MV
-- Pelanggan melayani industri game, film/televisi, dan iklan
-- Terus mengeksplorasi penerapan teknologi baru seperti VR/AR dan rendering real-time
+- Ahli dalam animasi pembuka game, iklan komersial, efek visual MV
+- Klien melayani industri game, film/TV, dan periklanan
+- Terus mengeksplorasi penerapan teknologi baru seperti VR/AR dan _real-time rendering_
 
 ### Digimax Inc.
 
-**Digimax Inc.** didirikan pada tahun 1990, menjadi salah satu perusahaan pascaproduksi film dan televisi tertua di Taiwan:
+**Digimax Inc. (太極影音科技)** didirikan pada 1990, merupakan salah satu perusahaan pasca produksi film/TV tertua di Taiwan:
 
-- Memulai dari pascaproduksi iklan televisi, pada tahun 1993 memperluas ke efek visual digital dan animasi 3D
-- Pernah memproduksi animasi 3D orisinal (seperti _National Treasure Mobile_)
-- Menjadi salah satu pusat produksi digital audio-visual terbesar dan berperlengkapan terlengkap di Taiwan
+- Bermula dari pasca produksi iklan TV, pada 1993 memperluas ke efek visual digital dan animasi 3D
+- Pernah memproduksi animasi 3D orisinal (seperti 《國寶總動員》)
+- Salah satu pusat produksi digital audio-visual terbesar dan paling lengkap peralatan di Taiwan
 
-> **Sumber Data:** [Taiwan Movie Net — Digimax Inc.](https://taiwancinema.bamid.gov.tw/Company/CompanyContent/?ContentUrl=12687)
+> **Sumber data:** [Taiwan Cinema — Digimax](https://taiwancinema.bamid.gov.tw/Company/CompanyContent/?ContentUrl=12687)
 
-## Gelombang Baru Animasi Orisinal
+## Gelombang Baru Animasi Asli
 
-### Studio2: Bendera Animasi Orisinal Taiwan
+### Studio2: Panutan Animasi Asli Taiwan
 
-**Studio2** adalah salah satu studio animasi orisinal paling representatif di Taiwan:
+**Studio2** adalah salah satu studio animasi asli paling representatif di Taiwan:
 
-- Karya representatif seri **_Baryon_** — animasi orisinal yang khas dengan budaya pedesaan dan perkotaan Taiwan
-- Pada tahun 2017 merilis film animasi _Baryon_, tayang di layar lebar
-- Gaya karya dianggap berhasil membangun gaya animasi Tionghoa baru
-- Menggabungkan pasar komersial dan eksperimen artistik
+- Karya representatifnya adalah seri **《小貓巴克里》**——animasi asli yang bermotif budaya perkotaan dan pedesaan Taiwan
+- Pada 2017 merilis film animasi 《小貓巴克里》, hadir di layar lebar
+- Gaya karyanya dianggap berhasil membangun gaya animasi Tionghoa baru
+- Menggabungkan daya tarik pasar komersial dengan eksperimen artistik
 
-### Karya Orisinal Penting Lainnya
+### Karya Asli Penting Lainnya
 
-- **_Baryon_** (2019) — Film animasi robot orisinal yang diproduksi oleh Qian Kun Yi Ji Creative, menunjukkan tekad tim Taiwan untuk menantang IP orisinal berskala besar
-- **China Cartoon** **_Legend of the Sea — Mazu_** (2007) — Berlatar kepercayaan rakyat Minnan
-- **Rainstop Animation** merilis **_Legend of the Monster Trace_** dengan latar belakang penduduk asli Taiwan
+- **《重甲機神 Baryon》** (2019) — film animasi robot asli produksi Acme Creative, menampilkan ambisi tim Taiwan menantang IP asli berskala besar
+- Kartun Tionghoa **《海之傳說—媽祖》** (2007) — bermotif kepercayaan rakyat Hoklo
+- Animasi Ranches mengeluarkan **《魔蹤傳奇》** dengan latar belakang masyarakat adat Taiwan
 
 ## Struktur Industri dan Tantangan
 
@@ -145,46 +147,46 @@ Adegan efek supranatural di _Annette_ menggabungkan elemen budaya lokal Taiwan (
 
 Industri citra digital Taiwan membentuk rantai produksi yang lengkap:
 
-- **Produksi Animasi**: Animasi CG 3D (CGCG Inc.), animasi 2D, animasi orisinal (Studio2)
-- **Efek Visual**: VFX film/serial (Reno Studios), efek komersial (Moonshine Animation)
-- **Pascaproduksi Film/Televisi**: Penyesuaian warna, penyuntingan, desain suara (Digimax Inc., dll.)
-- **Seni Game**: Desain karakter, pemodelan latar, animasi game
-- **Bidang Baru**: Konten VR/AR, produksi virtual, generasi bantuan AI
+- **Produksi animasi**: animasi 3D CG (Wang Film Productions/CGCG), animasi 2D, animasi orisinal (Studio2)
+- **Efek visual**: VFX film/serial (Reality Visual Effects), efek komersial (Dream Animation)
+- **Pasca-produksi film/TV**: grading warna, editing, desain suara (Taichi Studios, dll.)
+- **Seni game**: desain karakter, pemodelan lingkungan, animasi game
+- **Bidang baru**: konten VR/AR, produksi virtual, generasi berbantuan AI
 
-### Talent dan Pasar
+### Talenta dan Pasar
 
-Menurut survei industri dari Cultural Content and Creative Industries Association (TAICCA), industri animasi Taiwan menghadapi beberapa tantangan struktural:
+Berdasarkan survei industri oleh Lembaga Strategi Konten Budaya (TAICCA), industri animasi Taiwan menghadapi beberapa tantangan struktural:
 
-- **Aliran talenta keluar**: Animator senior dan direktur teknis tertarik oleh pasar Tiongkok, Jepang, dan Eropa-Amerika
-- **Skala pasar orisinal terbatas**: Pasar domestik Taiwan kecil, animasi orisinal sulit mengembalikan biaya
-- **Kompresi laba outsourcing**: Menghadapi persaingan biaya lebih rendah dari Asia Tenggara dan Tiongkok
-- **Masa pengembalian investasi panjang**: Produksi animasi membutuhkan investasi awal besar, risiko tinggi
+- **Aliran talenta keluar**: animator senior dan direktur teknis tertarik ke pasar Tiongkok, Jepang, Eropa, dan Amerika Serikat
+- **Ukuran pasar orisinal terbatas**: pasar domestik Taiwan kecil, animasi orisinal sulit memulihkan biaya
+- **Margin OEM menyusut**: menghadapi persaingan biaya lebih rendah dari Asia Tenggara dan Tiongkok
+- **Periode pengembalian investasi panjang**: produksi animasi memerlukan investasi besar di muka, risiko relatif tinggi
 
-> **Sumber Data:** [Laporan Survei Industri Cultural Content and Creative Industries Association](https://research.taicca.tw/report)
+> **Sumber data:** [Lembaga Strategi Konten Budaya — Laporan Survei Industri](https://research.taicca.tw/report)
 
 ### Dukungan Kebijakan
 
-- **Cultural Content and Creative Industries Association (TAICCA)**: Didirikan pada tahun 2019, menyediakan bimbingan industri, pemadanan kerja sama internasional, dan bantuan dana
-- **Infrastruktur Maju Berbasis**: Menjadikan konten digital sebagai item pengembangan prioritas
-- Permintaan platform streaming (Netflix, Disney+) terhadap konten orisinal Asia meningkat, memberikan lebih banyak peluang kolaborasi internasional bagi Taiwan
+- **Lembaga Strategi Konten Budaya (TAICCA)**: didirikan 2019, menyediakan bimbingan industri, pertemuan kerja sama internasional, dan bantuan dana
+- **Infrastruktur Menatap Masa Depan**: menempatkan konten digital sebagai item pengembangan prioritas
+- Platform streaming (Netflix, Disney+) semakin membutuhkan konten orisinal Asia, membuka lebih banyak peluang koproduksi internasional bagi Taiwan
 
 ## Prospek
 
-Kisah industri citra digital Taiwan adalah sejarah transformasi "**dari menggambar mimpi orang lain menjadi membangun mimpi sendiri**".
+Kisah industri citra digital Taiwan adalah sejarah transformasi **"dari menggambar mimpi orang lain ke menciptakan mimpi sendiri"**.
 
-Wang Film Productions menggambar _Mulan_ untuk Disney tetapi tidak dapat memiliki Mulan, pelajaran ini hingga kini masih menjadi memori kolektif industri. Generasi baru animator Taiwan—dari CGCG Inc. yang membangun merek di outsourcing CG internasional, Reno Studios yang membuktikan kekuatan efek visual Taiwan melalui _Annette_, hingga Studio2 yang membuka jalan baru animasi orisinal Taiwan dengan _Baryon_—sedang menulis bab yang berbeda.
+Wang Film Productions menggambar _Mulan_ untuk Disney namun tidak memiliki hak _Mulan_, pelajaran ini hingga kini tetap menjadi kenangan kolektif industri. Generasi baru animator Taiwan——mulai dari Wang Film Productions membangun merek di OEM CG internasional, Reality Visual Effects membuktikan kemampuan VFX Taiwan lewat _Detention_, hingga Studio2 membuka jalan baru animasi orisinal Taiwan lewat _Little Cat Bakery_——sedang menulis babak yang berbeda.
 
-Tantangan kunci tetap tidak berubah: bagaimana mempertahankan keunggulan teknologi sambil membangun IP dan merek animasi milik Taiwan sendiri. Jawabannya mungkin ada pada generasi baru kreator yang berakar pada budaya lokal dan berorientasi ke pasar internasional.
+Tantangan kunci tetap sama: bagaimana mempertahankan keunggulan teknis sambil membangun IP dan merek animasi milik Taiwan sendiri. Jawabannya mungkin ada pada generasi baru kreator yang mengakar pada budaya lokal dan menghadapi pasar internasional.
 
 ## Referensi
 
-- [Wang Film Productions — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%AE%8F%E5%BB%A3)
-- [Situs Web Resmi CGCG Inc.](https://www.cgcg.com.tw/)
-- [Situs Web Resmi _Grandma and Her Ghosts_](https://mofaama.com/)
-- [Reno Studios](https://reno-studios.com/)
-- [Digimax Inc. — Taiwan Movie Net](https://taiwancinema.bamid.gov.tw/Company/CompanyContent/?ContentUrl=12687)
-- [Laporan Survei Industri Cultural Content and Creative Industries Association](https://research.taicca.tw/report)
+- [Hongguang Animation — Wikipedia](https://zh.wikipedia.org/zh-tw/%E5%AE%8F%E5%BB%A3)
+- [Situs Resmi CGCG Inc. Animasi Komputer](https://www.cgcg.com.tw/)
+- [Situs Resmi Magic Grandma](https://mofaama.com/)
+- [Reno Studios — Reproduksi Visual](https://reno-studios.com/)
+- [Taiji Audio/Video — Taiwan Cinema Network](https://taiwancinema.bamid.gov.tw/Company/CompanyContent/?ContentUrl=12687)
+- [TAICCA Lembaga Pengembangan Konten Budaya — Laporan Survei Industri](https://research.taicca.tw/report)
 - [Animasi Taiwan — Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%8B%95%E7%95%AB)
-- [Taiwan Movie Net — Disney Dunia Tionghoa](https://taiwancinema.bamid.gov.tw/Articles/ArticlesContent/?ContentUrl=52670)
-- [Techbang — Wawancara Eksklusif dengan Penggerak Balik di Balik Efek _Annette_](https://www.techbang.com/posts/78048)
-- [Asosiasi Efek Visual Animasi AVA Taiwan](https://www.avataiwan.org/)
+- [Taiwan Cinema Network — Disney Dunia Tionghoa](https://taiwancinema.bamid.gov.tw/Articles/ArticlesContent/?ContentUrl=52670)
+- [TechBang — Wawancara Eksklusif: Di Balik Layar Efek Khusus "Detention"](https://www.techbang.com/posts/78048)
+- [Asosiasi Animasi & Efek Visual AVA Taiwan](https://www.avataiwan.org/)
