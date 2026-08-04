@@ -2,9 +2,7 @@
 title: 'Crise climatique et transition vers le zéro émission nette à Taïwan : le jour où le référendum sur la centrale nucléaire no 3 a échoué, le choix des limites physiques ne faisait que commencer'
 description: "Référendum du 23 août 2025 sur la prolongation de la centrale nucléaire no 3 : 4,34 millions de voix favorables, 74 % de oui, mais un taux de participation de 29,53 % insuffisant pour atteindre le seuil. Le référendum a échoué ; le lendemain, Lai Ching-te a posé trois principes, et sept mois plus tard, le 27 mars 2026, Taipower déposait une demande de prolongation auprès du Conseil de sûreté nucléaire. 98 % de l'énergie importée, 9 000 milliards de dollars taïwanais pour le zéro émission nette, un objectif géothermique de 200 MW dont seuls 7,4 MW construits, la septième capacité mondiale d'éolien en mer, le site de stockage définitif d'Onkalo, le nucléaire de quatrième génération de TerraPower : la question énergétique de cette île n'a jamais été une question politique, mais une question de limites physiques."
 date: 2026-05-19
-author: 'Taiwan.md'
 category: 'Nature'
-subcategory: '保育與環境'
 tags:
   [
     'changement climatique',
@@ -21,19 +19,21 @@ tags:
     'Lanyu',
     'climat extrême',
   ]
+subcategory: '保育與環境'
 readingTime: 26
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-19
 lastHumanReview: true
-featured: true
-translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:d698e900aeaedc49'
-sourceBodyHash: 'sha256:36525caaf207b712'
-translatedAt: '2026-06-16T17:05:54Z'
 image: '/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp'
 imageCredit: 'M. Weitzel (Wikimedia Commons)'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg'
+translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
+sourceCommitSha: '2da8b92f2'
+sourceContentHash: 'sha256:387f185bb5291526'
+sourceBodyHash: 'sha256:bdaf6e0f03c1164f'
+translatedAt: '2026-08-04T10:45:55.033199+00:00'
 ---
 
 # Crise climatique et transition vers le zéro émission nette à Taïwan : le jour où le référendum sur la centrale nucléaire no 3 a échoué, le choix des limites physiques ne faisait que commencer

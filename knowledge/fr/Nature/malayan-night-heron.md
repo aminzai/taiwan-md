@@ -2,6 +2,7 @@
 title: 'Le bihoreau malais : espèce de rêve des ornithologues, grand oiseau gauche des campus universitaires'
 description: "Entre 1985 et 1992, sur les 4 000 observations d'oiseaux répertoriées par l'Association ornithologique de Chine (Taiwan), le bihoreau malais (Gorsachius melanolophus) ne figurait que 25 fois — un « résent rare » dans les guides d'identification. Trente ans plus tard, on le voit quotidiennement le long du boulevard des cocotiers à l'université nationale de Taïwan et dans le parc forestière de Da'an. L'explication courante veut qu'il « ait cessé d'avoir peur des humains », mais les recherches de marquage menées par Yuan Hsiao-wei à l'NTU depuis 2010 orientent vers une autre réponse : les campus densément boisés et les pelouses sans pesticides des villes taïwanaises reproduisent exactement la niche écologique de basse altitude de son habitat d'origine. L'oiseau n'a pas changé ; le terrain, si."
 date: 2026-04-30
+category: 'Nature'
 tags:
   [
     'Écologie taïwanaise',
@@ -10,22 +11,27 @@ tags:
     'Grand oiseau gauche',
     'Science participative',
   ]
-category: 'Nature'
 subcategory: '野生動物'
 author: 'Taiwan.md Contributors'
-readingTime: 8
 featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
-translatedFrom: 'Nature/黑冠麻鷺.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:4926f151d268c5db'
-sourceBodyHash: 'sha256:215f7a81312f6fac'
-translatedAt: '2026-06-16T17:13:36Z'
+researchReport: 'reports/research/2026-04/黑冠麻鷺.md'
 image: '/article-images/nature/malayan-night-heron-taipei-foraging-2010.webp'
 imageCredit: 'Dr. Raju Kasambe'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Night_Heron_(Gorsachius_melanolophus),_Taipei_Taiwan.jpg'
+readingTime: 8
+sporeLinks:
+  [
+    "{'id': 53, 'platform': 'threads', 'date': '2026-04-30', 'url': 'https://www.threads.com/@taiwandotmd/post/DXwjz-nk9Iq'}",
+    "{'id': 54, 'platform': 'x', 'date': '2026-04-30', 'url': 'https://x.com/taiwandotmd/status/2049854898108522575'}",
+  ]
+translatedFrom: 'Nature/黑冠麻鷺.md'
+sourceCommitSha: '2da8b92f2'
+sourceContentHash: 'sha256:74ac37cae326eaa1'
+sourceBodyHash: 'sha256:9c1e23df6047812e'
+translatedAt: '2026-08-04T11:30:27.341274+00:00'
 ---
 
 # Le bihoreau malais : espèce de rêve des ornithologues, grand oiseau gauche des campus universitaires
@@ -105,21 +111,22 @@ L'émission _Our Island_ de la télévision publique a diffusé le 29 juin 2020 
 
 ## Conclusion
 
-L'expansion n'est pas nécessairement adaptation.
+L'expansion n'est pas nécessairement une adaptation.
 
-Du résent rare de la fin des années 1980 au quotidien des campus dans les années 2010, le bihoreau malais semble avoir conquis la ville, mais il dépend d'une ville qui s'est trouvée façonnée exactement comme une forêt de basse altitude — camphoriers et figuiers denses, pelouses sans pesticides, environnement de reproduction sans prédateurs, ressource exclusive en lombrics. Si l'une de ces conditions est retirée (écrasement routier, rodenticides, destruction de l'habitat), ce taux de réussite de reproduction supérieur à 90 % chutera.
+Passant d'un oiseau migrateur rare à la fin des années 1980 à un habitué quotidien du campus depuis les années 2010, le Bihoreau malais semble avoir conquis la ville. Pourtant, il dépend d'une cité qui s'est accidentellement transformée en forêt de basse altitude : une densité de camphriers et de banyans, des pelouses sans pesticides, un environnement de reproduction sans prédateurs et des ressources exclusives en vers de terre. Si l'une de ces conditions venait à disparaître (écrasements routiers, rodenticides, perte d'habitat), son taux de réussite de reproduction, actuellement supérieur à 90 %, s'effondrerait.
 
-Alors la prochaine fois que vous le verrez figé le long du boulevard des cocotiers, rappelez-vous que ce n'est pas qu'il « n'a pas peur de vous ». Il croit que vous ne le voyez pas — utilisant un instinct vieux de dizaines de milliers d'années. C'est la ville qui est devenue silencieusement semblable à son ancien foyer, pas lui qui a cessé d'être l'oiseau de la forêt.
+Ainsi, la prochaine fois que vous le verrez immobile sur une avenue bordée de cocotiers, rappelez-vous que ce n'est pas par « absence de peur ». Il pense simplement que vous ne le voyez pas — il utilise un instinct qui n'a pas changé depuis des millénaires. C'est la ville qui est devenue discrètement semblable à son habitat d'origine, et non l'oiseiseau qui a cessé d'être une créature de la forêt.
 
-Robert Swinhoe a écrit le mot « rare » à Tamsui il y a 160 ans. Aujourd'hui, nous entendons chaque jour le cri grave « wou, wou, wou » dans le parc forestière de Da'an. Ce qui s'est passé entre les deux, c'est l'histoire d'une île qui a su préserver, entre le béton, une petite parcelle de sous-bois humide.
+Il y a 160 ans, Swinhoe écrivait le mot « rare » à Tamsui. Aujourd'hui, nous entendons quotidiennement dans le parc forestier de Da'an ses cris graves et étouffés : « wou, wou, wou ». Entre ces deux époques se joue l'histoire d'une île parvenant à préserver une petite strate forestière humide au milieu du béton.
 
-**Pour aller plus loin** :
+**Lectures complémentaires** :
 
-- [Le problème de la mortalité des oiseaux par collision avec les vitres à Taïwan](/fr/nature/bird-window-collision-taiwan) — L'écrasement routier du bihoreau malais n'est qu'une facette des risques pour les oiseaux urbains ; les collisions avec les façades vitrées des immeubles causent chaque année une mortalité à une échelle encore plus insidieuse
-- [L'ornithologie de Formosa](/fr/nature/the-ornithology-of-formosa) — En 1865, l'écriture par Swinhoe du mot « rare » pour le bihoreau malais à Tamsui constitue l'une des premières notes de l'ornithologie de cette île
-- [Les écosystèmes forestiers de Taïwan](/fr/nature/taiwan-forest-ecosystems) — L'habitat d'origine du bihoreau malais en forêt de feuillus de basse altitude, le groupe témoin pour comprendre son urbanisation
-- [Le macaque de Taïwan](/fr/nature/formosan-rock-macaque) — Un autre cas d'animal sauvage pénétrant dans l'espace humain, en sens inverse de l'expansion du bihoreau malais : les humains le croisent constamment sur les chemins
-- [Espèces endémiques](/fr/nature/endemic-species) — Le bihoreau malais n'est pas une espèce endémique de Taïwan, mais l'ampleur de l'expansion de sa population urbaine à Taïwan est unique au monde
+- [La problématique des collisions aviaires avec les vitres à Taïwan](/fr/nature/bird-window-collision-taiwan) — L'écrasement routier du Bihoreau malais n'est qu'une facette des risques pour les oiseaux urbains ; la mortalité aviaire causée chaque année par les façades de verre est une menace encore plus invisible.
+- [L'ornithologie de Formose](/fr/nature/the-ornithology-of-formosa) — En 1865, l'observation par Swinhoe à Tamsui selon laquelle le « Bihoreau malais est rare » constitue un jalon fondateur de l'ornithologie de cette île.
+- [Les écosystèmes forestiers de Taïwan](/fr/nature/taiwan-forest-ecosystems) — L'habitat originel du Bihoreau malais en forêt de feuillus de basse altitude, pour comprendre le contraste avec son urbanisation.
+- [Le Macaque de Formose](/fr/nature/formosan-rock-macaque) — Un autre cas d'animal sauvage pénétrant dans les zones d'activité humaine, mais à l'inverse du Bihoreau malais : ici, l'humain rencontre constamment l'animal sur sa route.
+- [Espèces endémiques](/fr/nature/endemic-species) — Le Bihoreau malais n'est pas une espèce endémique de Taïwan, mais l'ampleur de l'expansion de sa population urbaine à Taïwan est unique au monde.
+- [Les arbres d'alignement à Taïwan](/lifestyle/台灣行道樹) — Les alignements de camphriers et de banyans matures depuis les années 1990, fragments de forêts de feuillus de basse altitude insérés dans le béton, représentent l'autre face de l'habitat urbanisé du Bihoreau malais.
 
 ## Crédits photographiques
 
