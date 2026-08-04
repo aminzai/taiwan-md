@@ -1,105 +1,99 @@
 ---
-title: 'Costumbres del primer mes: de «gritar al águila» a los regalos de manyue, un siglo de evolución de la crianza en Taiwán'
-description: 'En el Taiwán de 2026, los regalos por el primer mes del bebé se han transformado en refinados pasteles franceses y galletas benéficas, pero detrás de ellos se oculta una historia cultural dramática: la de «arrebatar al niño de la boca del águila». Desde el rito del primer corte de cabello, el «hacer valor», los regalos de ropa de la familia materna y el misterioso rito hakka de «gritar al águila», hasta las modernas cajas de regalo de manyue y las tarifas habituales de sobres rojos, el primer mes siempre ha encarnado el pacto de protección más tierno de la sociedad taiwanesa hacia una nueva vida, y también registra un siglo de transformación de la cultura de crianza, de una orientación familiar a una orientación social.'
+title: 'Costumbres de luna llena: desde el «grito al búho» hasta los regalos de mes, la evolución centenaria de la cultura de crianza en Taiwán'
+description: 'En el Taiwán de 2026, los regalos de luna llena han evolucionado hacia sofisticados pasteles franceses y galletas con fines benéficos, pero tras ellos se esconde una historia cultural de supervivencia. Desde el ritual del rapado hasta la protección contra lo desconocido, la cultura de crianza ha pasado de un enfoque familiar a uno social.'
 date: 2026-06-25
-author: 'Taiwan.md Contributors'
 category: 'Culture'
+tags: ['luna llena', 'costumbres', 'hamˇ li iquˇ', 'rapado', 'regalos de mes']
 subcategory: '節慶與禮俗'
-tags:
-  [
-    'primer mes',
-    'costumbres',
-    'gritar al águila',
-    'corte de cabello',
-    'regalo de manyue',
-  ]
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-25
 lastHumanReview: false
-featured: false
+curation: 'incubating'
 translatedFrom: 'Culture/滿月習俗.md'
-sourceCommitSha: '8f7ec7d5a'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:071279c0b606b84b'
 sourceBodyHash: 'sha256:1d9b4f6d77ed0f1e'
-translatedAt: '2026-06-27T00:54:19+08:00'
+translatedAt: '2026-08-04T17:32:12+08:00'
 ---
 
-> **Resumen en 30 segundos:** Las costumbres taiwanesas del primer mes atraviesan una revolución silenciosa: de valorar el ritual a valorar el afecto. Antes, los mayores gritaban hacia el cielo el nombre del águila para intentar salvar al niño de fuerzas misteriosas; hoy, los padres eligen refinadas cajas de regalo de manyue para convertir la alegría del nacimiento en una muestra de gusto cultural dentro de su círculo social. Este artículo te llevará por la historia de la evolución de estos ritos de crianza, desde la sociedad agrícola hasta la era digital.
+> **Resumen en 30 segundos:** Las costumbres de luna llena en Taiwán están experimentando una revolución silenciosa: «de la solemnidad al afecto». En el pasado, los mayores gritaban al cielo para proteger a los niños de fuerzas misteriosas; hoy, los padres transforman la alegría del nacimiento en un gesto de gusto cultural dentro de su círculo social mediante sofisticadas cajas de regalo. Este artículo te llevará por la evolución de los rituales de crianza, desde la sociedad agrícola hasta la era digital.
 
-«El búho rapaz (águila) vuela hacia la montaña, que el bebé pronto sea funcionario; el búho rapaz vuela muy alto, que el bebé apruebe el examen imperial.»
+«El búho (chih-xiū) vuela hacia la montaña, que el bebé pronto sea funcionario; el búho vuela alto, que el bebé sea el primer graduado».
 
-En el campo taiwanés de la década de 1950, el día en que un bebé cumplía un mes, los mayores lo llevaban al aire libre y, mientras golpeaban el suelo con una vara de bambú, gritaban con fuerza hacia el cielo. Este rito, llamado «gritar al águila» o «gritar al búho rapaz», podía sonar como una celebración animada, pero para los padres de la época se parecía más a una «negociación de supervivencia» con la naturaleza. En una época de atención médica limitada, que un niño sobreviviera sano y salvo el primer mes se consideraba la primera gran prueba de la vida.
+En la zona rural de Taiwán de la década de 1950, el día del primer mes de vida de un bebé, los mayores salían al exterior cargando al niño, golpeando el suelo con varas de bambú mientras gritaban hacia el cielo. Este ritual, conocido como «hamˇ li iquˇ» (喊利<0xE9><0xB7><0x82>) o «ham chih-xiū» (喊鴟<0xE9><0xB4><0x9E>), puede sonar como una celebración animada, pero para los padres de la época era más bien una «negociación de supervivencia» con la naturaleza. En una era con medicina poco desarrollada, que un niño sobreviviera al primer mes se consideraba el primer gran desafío vital.
 
-📝 Nota curatorial: cada rito de las costumbres del primer mes era como una antigua «póliza de seguro de vida», destinada a enfrentar los peligros desconocidos que podían amenazar al recién nacido.
+📝 Nota del curador: Cada ritual de las costumbres de luna llena actúa como una antigua «póliza de seguro de vida», enfrentándose a los peligros desconocidos.
 
-## Arrebatar al niño de la boca del águila: el misterioso rito de «gritar al águila»
+## Arrebatar al niño de la boca del búho: el misterioso «hamˇ li i$\\text{i}$quˇ»
 
-En las tradiciones hakka y minnan, «gritar al águila» (hakka: hamˇ li iquˇ) es una costumbre de gran fuerza visual. En las primeras comunidades agrícolas de Taiwán, era común criar gallinas, y uno de los mayores temores era que las águilas o aves rapaces descendieran en picada para llevarse a los polluelos. La cultura popular transformó ese miedo en una forma de protección para los bebés: al ahuyentar al águila con gritos fuertes, se simbolizaba también la expulsión de espíritus malignos, enfermedades y todo aquello que pudiera dañar al niño [^1].
+En las tradiciones Hakka y Minnan, el «hamˇ li iquˇ» (en lengua Hakka: hamˇ li iquˇ) es una costumbre con una gran carga visual. Las antiguas familias agrícolas de Taiwán solían criar pollos, y su mayor temor era que un búho o lechuza (chih-xiū) descendiera en picado para llevarse a los polluelos. El pueblo transformó este miedo en protección para el bebé: al ahuyentar ruidosamente al búho, simbolizaban la expulsión de los malos espíritus y las enfermedades que pudieran dañar al niño [^1].
 
-Este rito solía ser ejecutado por hermanos mayores o ancianos de la familia. Llevaban una vara de bambú, golpeaban el suelo, y el sonido debía ser fuerte; los movimientos, vigorosos. Lo interesante es que, a medida que las fórmulas rituales evolucionaron, el miedo asociado al acto de ahuyentar fue convirtiéndose poco a poco en bendición. Además de desear que el águila se alejara, las palabras pedían que el niño en el futuro pudiera «ser funcionario», «aprobar el examen imperial» o «pronto ser padre» [^2]. Ese giro, de «evitar el mal» a «pedir bendiciones», es una de las transformaciones más cálidas del folclore taiwanés.
+Este ritual solía ser realizado por hermanos mayores o parientes, quienes golpeaban el suelo con varas de bambú con voces potentes y movimientos vigorosos. Curiosamente, con la evolución de los cánticos, el miedo al ahuyentamiento se transformó gradualmente en bendiciones. Los versos, además de desear que el búho se alejara, pedían que el niño pudiera «ser funcionario», «ser el primer graduado» o incluso «convertirse pronto en padre» [^2]. Este giro de la «exorcización» a la «bendición» representa una de las transiciones más cálidas del folclore taiwanés.
 
-## Corte de cabello y «hacer valor»: construir las defensas de la vida
+## El rapado y el ritual de «fortalecer el valor»: construyendo la defensa de la vida
 
-El rito físico más importante del día del primer mes era el «corte del cabello fetal». No se hacía solo para que el pelo futuro creciera más abundante, sino que tenía también un sentido religioso de «dejar atrás lo viejo y recibir lo nuevo».
+El ritual físico más importante el día de la luna llena es el «rapado del pelo fetal». Esto no era solo para que el futuro cabello creciera más denso, sino que poseía un significado religioso de «eliminar lo viejo para recibir lo nuevo».
 
-En el recipiente usado para el corte, los mayores colocaban «diez objetos rituales», cada uno con su propio significado simbólico:
+En el recipiente para el rapado, los mayores colocaban «diez tipos de ofrendas», cada una con su simbolismo:
 
-- **Piedra**: se esperaba que el niño tuviera la «cabeza firme» (cráneo fuerte) y que, al crecer, tuviera valor [^3].
-- **Huevo rojo de gallina y huevo rojo de pato**: se pedía que el rostro fuera claro y rosado como un huevo de gallina, y el cuerpo fuerte como un huevo de pato [^3].
-- **Cebolla de verdeo y apio**: por homofonía, aludían a la «inteligencia» y la «diligencia» [^3].
-- **Arroz**: simbolizaba abundancia de alimento y vestido [^3].
-- **Monedas de cobre**: simbolizaban gran riqueza y prosperidad, y un futuro sin preocupaciones materiales [^4].
+- **Piedra**: Para que la cabeza del niño sea «firme» (sólida) y tenga valor al crecer [^3].
+- **Huevos rojos de pollo y pato**: Para pedir que su tez sea tan blanca y saludable como un huevo, y su cuerpo tan fuerte como un huevo de pato [^3].
+- **Cebollino y apio**: Por su homofonía con «inteligencia» y «diligencia» [^3].
+- **Arroz**: Simboliza la abundancia de comida y vestimenta [^3].
+- **Monedas de cobre**: Simbolizan riqueza y una vida sin carencias en el futuro [^4].
 
-En particular, durante el rito de «hacer valor», los mayores hacían rodar suavemente huevos de gallina y de pato cerca del bebé, luego colocaban una piedra redonda en la palangana y recitaban: «Que la piedra te dé valor, que te haga dura la cabeza», pidiendo que el bebé tuviera temple y fuera fácil de criar [^9]. Esto refleja el miedo de la sociedad temprana al «susto»: solo un niño con valor podía sobrevivir en un entorno lleno de incertidumbre.
+Especialmente en el ritual de «zuo dan» (做膽 - fortalecer el valor), los mayores hacían rodar suavemente huevos de pollo y pato alrededor del bebé, colocando luego una piedra redonda en el cuaje, mientras recitaban: «que la piedra te dé valor, que tu cabeza sea dura», pidiendo que el bebé fuera valiente y fácil de criar [^9]. Esto refleja el miedo de la sociedad temprana a los sustos: solo un niño con coraje podría sobrevivir en un entorno lleno de incertidumbres.
 
-## La circulación de los regalos de manyue: del arroz glutinoso con aceite al pastel francés
+## La evolución de los regalos de mes: del arroz con aceite al pastel francés
 
-Cuando miramos hacia la modernidad, el cambio más evidente en las costumbres del primer mes se encuentra en la comida.
+Al observar la era moderna, el cambio más notable en las costumbres de luna llena reside en la «alimentación».
 
-Tradicionalmente, si nacía un niño se regalaba «arroz glutinoso con aceite y muslo de pollo»; si nacía una niña, se regalaban «tortas rojas de tortuga». El arroz glutinoso con aceite simbolizaba abundancia de alimento y vestido, mientras que el muslo de pollo representaba una vitalidad robusta [^5]. Sin embargo, con la difusión de la distribución refrigerada y los cambios en los estilos de vida, las decisiones de los padres modernos ya no están limitadas por ese marco de género.
+Tradicionalmente, si nacía un niño se regalaba «arroz con aceite y muslo de pollo», y si era niña, «pasteles de arroz de tortuga roja» (hong gui guo). El arroz con aceite simbolizaba la abundancia, mientras que el muslo representaba una vitalidad fuerte [^5]. Sin embargo, con la popularización del transporte refrigerado y los cambios en el estilo de vida, las opciones de los padres modernos ya no están limitadas por el género.
 
-En los últimos años, cada vez más padres primerizos prefieren elegir «cajas de regalo de manyue a temperatura ambiente» o «galletas de organizaciones benéficas» [^6]. Además de facilitar la entrega, esto refleja el deseo de los padres contemporáneos de vincular el nacimiento de su hijo con valores de «bien común social». Madeleines francesas y refinados pound cakes han ido reemplazando al arroz glutinoso tradicional y se han convertido en una de las imágenes más visibles en las redes sociales.
+En años recientes, cada vez más padres primerizos optan por «cajas de regalo a temperatura ambiente» o «galletas para fines benéficos» [^6]. Esto, además de facilitar la entrega, refleja el valor de los padres modernos de vincular el nacimiento de su hijo con el «bienestar social». Los _madeleines_ franceses y los sofisticados pasteles tipo _pound cake_ han reemplazado gradualmente al tradicional arroz con aceite, convirtiéndose en el elemento más destacado en las redes sociales.
 
-La elección de regalos modernos de manyue también es más diversa. Además del arroz glutinoso y los pasteles tradicionales, pañales, ropa, toallitas húmedas, joyas de oro y otros regalos prácticos se han vuelto opciones populares. En cuanto a los sobres rojos de manyue entre familiares y amigos, las cantidades habituales varían según la cercanía: para amistades y familiares comunes, entre 600 y 1.200 dólares taiwaneses; para amigos cercanos o parientes próximos, pueden llegar a entre 1.200 y 3.600 dólares taiwaneses [^10].
+La elección de los regalos modernos también es más diversa; además del arroz y los pasteles, artículos prácticos como pañales, ropa, toallitas húmedas y joyas de oro son opciones populares. El presupuesto para los sobres rojos (_hongbao_) entre familiares varía según la cercanía: para conocidos generales oscila entre 600 y 1,200 TWD, mientras que para amigos íntimos o parientes cercanos puede alcanzar entre 1,200 y 3,600 TWD [^10].
 
-📝 Nota curatorial: la evolución de los regalos de manyue es, en realidad, una síntesis del paso de la sociedad taiwanesa de una orientación familiar a una orientación social: esa caja de dulces que envían los padres es tanto un gesto para anunciar la buena nueva como una exhibición de gusto de vida.
+📝 Nota del curador: La evolución de los regalos de mes es un microcosmos de la transición de la sociedad taiwanesa de un «enfoque familiar» a uno «social»: la caja de dulces que los padres envían es tanto una noticia de alegría como una muestra de su estilo de vida.
 
-## Desafíos modernos: negociar las costumbres entre generaciones
+## Desafíos modernos: la negociación generacional de las costumbres
 
-Aunque las costumbres evolucionan, los choques de perspectiva entre generaciones siguen presentes. Muchos mayores insisten en la ceremonia de «hacer valor al tercer día» o en la pompa del «banquete del primer mes», mientras que los padres modernos tienden más a reuniones pequeñas o a simples anuncios en línea [^7].
+Aunque las costumbres evolucionan, el choque de ideas entre generaciones persiste. Muchos mayores insisten en la pompa del ritual de «tres días» o la «fiesta de luna llena», mientras que los padres modernos prefieren reuniones pequeñas o simplemente anunciar la noticia en línea [^7].
 
-Ese conflicto suele aparecer en los detalles de la «devolución del regalo». En las costumbres tradicionales, la familia materna debía preparar el día del primer mes los «regalos de la cabeza a los pies» —ropa y accesorios completos, como gorro, zapatos y calcetines, portabebé, candado de oro, brazaletes de oro, entre otros— y bordar en ellos el carácter «卍» como deseo de paz y protección para el nieto [^9]. Sin embargo, los padres modernos quizá prefieran recibir directamente un fondo práctico para la crianza [^8]. Este giro, de los «regalos materiales» a los «regalos prácticos», muestra con claridad la realidad de la cultura de crianza taiwanesa en la era digital.
+Este conflicto suele surgir en los detalles de los «regalos de respuesta». En la tradición, la familia materna debe preparar el «regalo de cabeza a pies» (ropa y accesorios desde el gorro hasta los calcetidades, como gorros, zapatos, fulares, candados de oro y brazaletes de oro), bordando el símbolo «卍» para atraer la paz, para entregarlo al nieto [^9]. Sin embargo, los padres modernos podrían preferir recibir directamente un fondo práctico para la crianza [^8]. Este giro de lo «material» a lo «práctico» es la imagen real de la cultura de crianza en Taiwán en la era digital.
 
-Además, vale la pena prestar atención a algunos tabúes tradicionales. Por ejemplo, antes de cumplir un mes, el bebé tiene una inmunidad más baja, por lo que no conviene recibir visitas demasiado temprano; tradicionalmente se evitaba cortar el cabello durante el séptimo mes del calendario lunar; incluso existía el dicho de «no regalar portabebé cuando nace una niña» —porque suena igual que «mil piezas de oro», expresión asociada a una hija— con la intención de evitar que el siguiente bebé también fuera niña [^9]. Todos estos detalles reflejan las diferencias y negociaciones entre generaciones sobre cómo bendecir una nueva vida.
+Además, hay algunas prohibiciones tradicionales que merecen atención. Por ejemplo, debido a que el sistema inmunológico del bebé es bajo antes del primer mes, no se recomienda recibir visitas demasiado pronto; tradicionalmente se evita el rapado durante el séptimo mes lunar; incluso existe el dicho de que «si nace niña, no se envían fulares» (por un juego de palabras con 'tesoro precioso'), con la intención de evitar que el siguiente hijo también sea niña [^9]. Estos detalles reflejan las diferencias y negociaciones generacionales sobre cómo bendecir una nueva vida.
 
-## Conclusión: el corazón protector que no cambia
+## Conclusión: un corazón protector inalterable
 
-Desde gritar hacia el cielo al águila hasta compartir en la pantalla del teléfono una foto del pastel de manyue, las costumbres taiwanesas del primer mes han cambiado radicalmente en su forma, pero su núcleo permanece intacto: una protección pura hacia la nueva vida.
+Desde gritarle a los búhos en el cielo hasta compartir fotos de pasteles de luna llena frente a una pantalla de móvil, aunque las formas de las costumbres de luna llena en Taiwán han cambiado drásticamente, su esencia permanece intacta: es la protección más pura hacia una nueva vida.
 
-Ya sea la antigua idea de una «cabeza firme» o la moderna «caja de regalo benéfica», todos estos ritos le dicen al niño: este mundo ya está listo para darte la bienvenida.
+Ya sea mediante el antiguo deseo de una «cabeza firme» o los modernos «regalos benéficos», todos estos rituales le dicen al niño: este mundo está listo para darte la bienvenida.
 
-## Lecturas complementarias
+## Lecturas adicionales
 
-- [¡Guía completa del rito del primer mes! Corte de cabello, ofrenda a la Madre de la Cama y regalos de la familia materna - Bai Chu Hao Yun Lai](https://www.bailucky.com/full-month)
-- [Resumen de costumbres del primer mes del recién nacido: desde tabúes de nombramiento hasta corte del cabello fetal y regalos de manyue - Mamá Bebé](https://www.mababy.com/knowledge-detail?id=12565)
+- [¡Guía completa para el ritual de luna llena! Rapado, bendición de la cama y regalos de la familia materna - Bai Chu Hao Yun Lai](https://www.bailucky.com/full-month)
+- [Guía rápida de costumbres de luna llena para recién nacidos: desde tabúes en nombres hasta rapado y regalos - Mama Baby](https://www.mababy.com/knowledge-detail?id=12565)
 
 ## Referencias
 
-[^1]: [¡Imprescindible para el primer mes del bebé! Revelan el origen del rito de gritar al búho rapaz - Baodao Shen Hen Da](https://baodao.setn.com/news/695321) — Presenta el origen, las fórmulas rituales y el contexto de la sociedad agrícola del rito de «gritar al búho rapaz» durante el primer mes.
+[^1]: [¡Imprescindible para el primer mes del bebé! Revelación del origen de la costumbre de gritar al búho - Bao Dao Shen Hen Da](https://baodao.setn.com/news/695321) — Explica el origen, los cánticos y el contexto agrícola del ritual «ham chih-xiū».
 
-[^2]: [Costumbres del bebé al descubierto: un siglo de transmisión y significado de recoger la saliva, el manyue y la elección de objetos del primer año - Mamá Bebé](https://www.mombaby.com.tw/articles/296) — Explica la evolución de los ritos de crianza, desde evitar el mal hasta pedir bendiciones.
+[^2]: [Descubriendo las costumbres del bebé: la herencia centenaria y el significado de la recogida de saliva, luna llena y el primer cumpleaños - Mama Baby](https://www.mombaby.com.tw/articles/296) — Explica la evolución de los rituales de crianza de la protección contra el mal a la bendición.
 
-[^3]: [Significado y rito de los diez objetos del corte de cabello del primer mes - Chuanjia Sellos Artesanales](https://www.bestbaby.com.tw/one_month/article_17) — Detalla el significado simbólico de los «diez objetos» de la palangana del corte de cabello, como piedra, huevos rojos, cebolla de verdeo y arroz.
+[^3]: [Significado y ritual de los diez regalos del rapado de luna llena - Chuan Jia Handmade Stamps](https://www.bestbaby.com.tw/one_month/article_17) — Detalla el simbolismo de los «diez tipos de ofrendas» en el recipiente de rapado (piedra, huevo rojo, cebollino, arroz, etc.).
 
-[^4]: [Ritos de vida del bebé de 0 a 4 meses: primer mes, corte del cabello fetal y recogida de saliva, comparación entre prácticas antiguas y modernas - LINE TODAY](https://today.line.me/tw/v3/article/Pqkg6V) — Compara prácticas tradicionales y modernas de ritos como el corte de cabello del primer mes y la recogida de saliva.
+[^4]: [Costumbres vitales para bebés de 0 a 4 meses: luna llena, rapado y recogida de saliva; comparativa entre pasado y presente - LINE TODAY](https://today.line.me/tw/v3/article/Pqkg6V) — Compara las prácticas tradicionales y modernas del rapado y la recogida de saliva.
 
-[^5]: [¿Qué es el primer mes? ¡Revelación de las costumbres de manyue! Contraste entre tradición y modernidad - Isabelle](https://shop.isabelle.com.tw/pages/%E5%BD%8C%E6%9C%88%E7%BF%92%E4%BF%97) — Explica los símbolos de género en los regalos tradicionales de manyue, como el arroz glutinoso con aceite y las tortas rojas de tortuga.
+[^5]: [¿Qué es la luna llena? ¡Secretos de las costumbres de mes! Comparación entre tradición y modernidad - Isabel](https://shop.isabelle.com.tw/pages/%E5%BD%8C%E6%9C%88%E7%BF%92%E4%BF%97) — Explica el simbolismo de género en los regalos tradicionales como el arroz con aceite y los pasteles de tortuga roja.
 
-[^6]: [¿Cuándo enviar la caja de regalo de manyue? Costumbres del primer mes, tarifas de sobres rojos y análisis de tres grandes errores - Chini GENNIE'S](https://www.gennies.com/zh-TW/blogs/postpartum-care/full-month-gift-timing-red-envelope) — Presenta tendencias y momentos de entrega de las cajas de regalo modernas de manyue, incluidas opciones a temperatura ambiente y benéficas.
+[^6]: [¿Cuándo enviar la caja de regalo de luna llena? Análisis de costumbres, presupuesto de sobres rojos y 3 errores comunes - GENNIE'S](https://www.gennies.com/zh-TW/blogs/postpartum-care/full-month-gift-timing-red-envelope) — Presenta las tendencias actuales de las cajas de regalo (incluyendo opciones a temperatura ambiente y benéficas) y el momento adecuado para el regalo.
 
-[^7]: [¿Cómo conciliar diferencias generacionales en el rito del primer mes? Análisis completo de costumbres antiguas y modernas y formas de regalo - Babyface Panadería Artesanal](https://www.babyfacebakery.com.tw/news-detail/baby-full-moon-ceremony) — Examina las diferencias de perspectiva entre generaciones sobre la escala y la forma de las celebraciones del primer mes.
+[^7]: [¿Cómo equilibrar las diferencias generacionales en los rituales de luna llena? Análisis completo de costumbres antiguas y modernas - Babyface Handmade Baking](https://www.babyfacebakery.com.tw/news-detail/baby-full-moon-ceremony) — Explora las diferencias de opinión entre generaciones sobre la pompa y la forma de los rituales de luna llena.
 
-[^8]: [¿Qué tan detalladas son las costumbres de manyue? Guía completa de las costumbres desde el nacimiento hasta el primer mes - Fubaobau](https://fubaobau.com.tw/babycustom/) — Organiza las costumbres completas desde el nacimiento hasta el primer mes y las tendencias modernas de simplificación.
+[^8]: [¿Qué tan detalladas son las costumbres de mes? Guía completa desde el nacimiento hasta la luna llena - Fu Bao Bao](https://fubaobau.com.tw/babycustom/) — Organiza las costumbres completas desde el nacimiento hasta el primer mes y la tendencia hacia la simplificación moderna.
 
-[^9]: [¡Guía completa del rito del primer mes! Corte de cabello, ofrenda a la Madre de la Cama y regalos de la familia materna - Bai Chu Hao Yun Lai](https://www.bailucky.com/full-month) — Explica el rito de «hacer valor» con piedra, los «regalos de la cabeza a los pies» de la familia materna bordados con el carácter 卍, y tabúes relacionados con el primer mes.
+[^9]: [¡Guía completa para el ritual de luna llena! Rapado, bendición de la cama y regalos de la familia materna - Bai Chu Hao Yun Lai](https://www.bailucky.com/full-month) — Explica el «zuo dan» (presionar con piedra), el regalo de «cabeza a pies» de la familia materna con el símbolo 卍 y otras prohibiciones relacionadas.
 
-[^10]: [Tabla de tarifas de sobres rojos del primer mes: cómo escribir felicitaciones por el nacimiento, recomendaciones de regalos y tabúes - Kiki Note](https://kikinote.net/55425) — Organiza los montos habituales de sobres rojos de manyue según la cercanía de la relación y opciones modernas de regalo.
+[^10]: [¡Tabla de presupuestos para sobres rojos de luna llena! Cómo escribir felicitaciones, recomendaciones de regalos y tabúes - Qi Qi Notes](https://kikinote.net/55425) — Organiza los montos de los sobres rojos según la cercanía familiar y las opciones de regalo modernas.

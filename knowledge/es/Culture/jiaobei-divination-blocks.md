@@ -1,72 +1,76 @@
 ---
-title: 'Jiaobei: oír la voz de los dioses tras una probabilidad del 50 %'
-description: "De la insistencia del artesano de Chiayi Huang Yi-hsun en el 'jiao de raíz de bambú' a la leyenda de los 3 millones de TWD por veinte 'copas santas' del templo Citian de Pingtung: una mirada a la probabilidad y al calor con los que los taiwaneses dialogan con los dioses."
+title: 'Bao (Jiao): Escuchar la voz de las divinidades tras una probabilidad del 50%'
+description: 'Desde la perseverancia del artesano Huang Yi-xun en Zhutou Jiao (Chiayi), hasta la leyenda de los 3 millones de la Citen Temple (Pingtung) y sus 20 *shengjiao*: exploramos la probabilidad y el sentimiento en la comunicación entre los taiwaneses y lo divino.'
 date: 2026-03-27
-tags: ['Religiosidad popular', 'Artesanía tradicional', 'Jiaobei']
+category: 'Culture'
+tags:
+  [
+    'Creencias populares',
+    'artesanía tradicional',
+    'jiao (lanzamiento de bloques)',
+  ]
 subcategory: '宗教與民俗'
 author: 'Taiwan.md Contributors'
-category: 'Culture'
-readingTime: 8
+featured: false
 lastVerified: 2026-03-27
 lastHumanReview: false
+readingTime: 8
+curation: 'incubating'
 translatedFrom: 'Culture/擲筊.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:f8a1e86f13d5a657'
 sourceBodyHash: 'sha256:ef724755039c89a7'
-translatedAt: '2026-05-02T08:50:00+08:00'
-featured: false
+translatedAt: '2026-08-04T17:32:12+08:00'
 ---
 
-# Jiaobei: oír la voz de los dioses tras una probabilidad del 50 %
-
 > **Resumen en 30 segundos:**
-> El _jiaobei_ (擲筊) es el ritual de "comunicación entre humanos y dioses" más extendido en la religiosidad popular de Taiwán. Este par de bloques en forma de media luna no solo encierra una curiosidad estadística: es también una artesanía tradicional al borde de la desaparición. A través de la insistencia del artesano Huang Yi-hsun, de Chiayi, en el "jiao de raíz de bambú", podemos ver cómo, tras este ritual, los taiwaneses intercambian con los dioses, mediante un objeto material, sus inquietudes y sus esperanzas más íntimas.
+> El _jiao_ (擲筊) es el ritual de «comunicación entre humanos y divinidades» más extendido en las creencias populares de Taiwán. Estos dos bloques de madera en forma de media luna no solo albergan una curiosidad estadística, sino que representan una artesanía tradicional al borde de la extinción. A través de la dedicación del artesano de Chiayi, Huang Yi-xun, a los «Zhutou Jiao» (bloques de bambú), podemos observar cómo, tras este ritual, los taiwaneses utilizan lo material para intercambiar sus ansiedades y esperanzas con las divinidades.
 
-En julio de 2024, en un taller del municipio de Minxiong (condado de Chiayi), Huang Yi-hsun, de 71 años, está inclinado sobre un montón de raíces de bambú espinoso cubiertas de tierra. Lo que busca no es madera cualquiera: son rizomas enterrados durante años, de fibra muy densa. Para muchos taiwaneses, este par de bloques con forma de media luna —tan corrientes en apariencia— son el árbitro último de decisiones tan grandes como mudarse, cambiar de trabajo o casarse.
+En julio de 2024, en un taller del municipio de Minxiong, condado de Chiayi, Huang Yi-xun, de 71 años, se encontraba encorvado, buscando entre un montón de tallos de bambú espinoso cubiertos de tierra. No buscaba madera común, sino raíces de bambú enterradas durante años que poseen una densidad de fibra extremadamente alta. Estos dos bloques de madera, aparentemente ordinarios, son para los taiwaneses el juez final que decide sobre mudanzas, cambios de empleo o incluso asuntos matrimoniales.
 
-### El arte de "dejar virtud": un compromiso milenario en la raíz del bambú
+### El arte de la permanencia: un pacto milenario en el bambú
 
-La mayoría de la gente entra en un templo y toma sin pensar unas copas de plástico fabricadas en serie, o copias baratas prensadas en madera. Para Huang Yi-hsun, sin embargo, todo eso son "mercancías", no "vehículos de fe". El "rizoma" que él utiliza tiene que proceder del punto de unión entre el rizoma subterráneo y la raíz del bambú espinoso, y ha de haber crecido de forma simétrica.
+La mayoría de las personas, al entrar en un templo, toman sin pensar bloques de plástico producidos en masa por fábricas o réplicas de madera barata. Pero para Huang Yi-xun, eso son solo «mercancías» y no «vehículos de fe». Él insiste en que el «Zhutou» (punta de bambú) debe provenir de la unión entre el tallo subterráneo y la raíz del bambú espinoso, y debe crecer de forma simétrica.
 
-"Lo que yo hago no es mercancía, es el portavoz de la fe", se lamentaba Huang Yi-hsun en una entrevista para FTV News: un buen par de jiao de raíz de bambú necesita años de trabajo desde la recolección y la exposición al sol hasta el secado a la sombra y el corte final. En taiwanés, "bambú" (_tek_) suena igual que "virtud" (_tek_), de modo que los jiao de raíz de bambú llevan implícito el sentido de "dejar virtud" (literalmente, "dejar bambú"). No es solo artesanía: es también una forma de reverencia hacia los dioses.
+«No fabrico productos, soy un portavoz de la fe», lamentó Huang Yi-xun durante una entrevista exclusiva con _FTV News_. Un buen par de _Zhutou Jiao_ requiere años de proceso, desde la recolección y el secado al sol hasta el secado a la sombra y el corte. En el dialecto taiwanés, las palabras para «bambú» y «virtud» tienen una resonancia fonética similar, por lo que los _Zhutou Jiao_ también se asocian con el profundo significado de «preservar la virtud (y el bambú)». Esto no es solo artesanía, es un acto de reverencia hacia lo divino.
 
-📝 Nota de la curadora: mientras nosotros perseguimos la rapidez de la respuesta, los artesanos persiguen el grosor del material, porque saben que solo una raíz de bambú capaz de resistir miles de pruebas puede sostener las plegarias más pesadas de los fieles.
+📝 Nota del curador: Mientras nosotros buscamos la rapidez en las respuestas, el artesano busca la densidad del material; porque sabe que solo una raíz de bambú templada por el tiempo puede soportar las súplicas más pesadas de los fieles.
 
-### La ciencia del _shengjiao_: ¿de verdad la probabilidad es solo del 50 %?
+### La ciencia del _shengjiao_: ¿es la probabilidad realmente del 50%?
 
-Desde el punto de vista matemático, lanzar el jiao parece un sencillo problema de distribución binomial. Una cara plana hacia arriba y la otra convexa es _shengjiao_ (聖筊), "copa santa" o sí; las dos caras planas hacia arriba son _xiaojiao_ (笑筊), "copa que ríe" —respuesta poco clara o de alegría—; las dos caras convexas hacia arriba son _yinjiao_ (陰筊), un no rotundo. En teoría, la probabilidad de obtener un _shengjiao_ debería ser del 50 %.
+Desde un punto de vista matemático, lanzar los bloques parece un simple problema de distribución binomial. Una cara plana y una convexa es un _shengjiao_ (acuerdo/positivo); dos caras planas es un _xiaojiao_ (incertidumbre o risa); y dos caras convexas es un _yinjiao_ (negación). Teóricamente, la probabilidad de obtener un _shengjiao_ debería ser del 50%.
 
-Sin embargo, según _PanSci_ y diversos estudios premiados en ferias de ciencia juveniles, como las copas de jiao no son figuras geométricas perfectas, su centro de gravedad se inclina hacia el lado convexo. Cuando caen al suelo, la probabilidad de que la cara plana quede hacia arriba es ligeramente mayor que la de la cara convexa (entre un 53 % y un 56 %, aproximadamente). Es decir: la propia física hace que la probabilidad real de un _shengjiao_ esté algo por encima de la mitad —en torno al 50 %–52 %—; los dioses son, después de todo, un poco más generosos de lo que imaginamos.
+Sin embargo, según investigaciones de _PanSci_ y diversos premios científicos para jóvenes, debido a que la forma de los bloques no es un cuerpo geométrico perfecto, su centro de gravedad se desplaza hacia la cara convexa. Al caer, la probabilidad de que la cara plana quede hacia arriba es ligeramente superior a la de la cara convexa (aproximadamente entre el 53% y el 56%). Esto significa que, bajo las leyes de la física, las divinidades son en realidad más generosas con los _shengjiao_ de lo que imaginamos, situándose entre el 50% y el 52%.
 
-Esta pequeña desviación física puede convertirse, en casos extremos, en leyendas asombrosas. Cada Año Nuevo Lunar, el templo Gulai Citian de Pingtung organiza un "Concurso de Lanzamiento de Jiao"; en 2026, el premio se ha elevado a 3 millones de TWD en efectivo, con la condición de obtener veinte _shengjiao_ consecutivos. Estadísticamente, eso equivale a un milagro de uno entre un millón (1/2²⁰). Hasta hoy, el récord del templo sigue siendo de 17 jiao seguidos: una cima de fortuna que ni un profesor de matemáticas sabría explicar.
+Esta mínima desviación física puede derivar, en casos extremos, en leyendas asombrosas. El templo Citen (歸來慈天宮) en Pingtung organiza cada año un «Gran Concurso de Lanzamiento de Jiao»; para 2026, el premio principal se ha incrementado a 3 millones de dólares taiwaneses, con la condición de obtener 20 _shengjiao_ consecutivos. Estadísticamente, esto sería un milagro de una entre un millón (1/2^2 de 20). Hasta la fecha, el récord del templo se mantiene en 17 lanzamientos, un pico de suerte difícil de explicar incluso para un profesor de matemáticas.
 
-### El _lijiao_: cuando la física suspende su ley
+### _Lijiao_: cuando la física falla temporalmente
 
-En las noticias sobre templos taiwaneses, lo que más conmoción suele provocar es el _lijiao_ (立筊): cuando, al caer al suelo, una copa queda en pie sobre su punta o sobre el canto y no se vuelca.
+En las noticias sobre templos en Taiwán, lo que más suele causar conmoción es el _lijiao_ (立筊): cuando los bloques, tras caer, se mantienen equilibrados sobre su punta o borde, permaneciendo erguidos.
 
-Los expertos en folclore lo interpretan habitualmente como una "instrucción importante" del dios, o una manifestación de su "majestad". Desde la ciencia, suele explicarse por la fricción del suelo, el desgaste del borde de la copa y el ángulo de rotación al lanzarla. Aun así, cuando un fiel ansioso ve una copa quedarse de pie, el impacto visual de lo "sobrenatural" se transforma al instante en un consuelo psicológico poderoso.
+Los expertos en folclore suelen interpretarlo como una «instrucción trascendental» o una muestra de «poder divino». No obstante, desde la explicación científica, esto suele estar relacionado con la fricción del suelo, el desgaste de los bordes de los bloques y el ángulo de rotación al lanzarlos. A pesar de ello, cuando un fiel, en medio de su ansiedad, presencia un _lijiao_, el impacto visual «sobrenatural» se transforma instantáneamente en un poderoso consuelo psicológico.
 
-"El _lijiao_ no es frecuente; significa que el dios no quiere hablar, o que tu petición es excesiva", compartía un veterano sacristán en redes sociales. A veces, el _lijiao_ es el dios diciéndole al fiel: estás haciendo la pregunta equivocada, o ya tienes la respuesta en el corazón, así que ¿para qué preguntar?
+«El _lijiao_ no es común; representa que la divinidad guarda silencio o que tu petición es excesiva», compartió un veterano encargado de templo en redes sociales. El _lijiao_ a veces es un recordatorio divino: has hecho la pregunta equivocada, o ya tienes la respuesta en tu corazón, ¿para qué preguntar más?
 
-📝 Nota de la curadora: la ciencia explica por qué la copa se queda en pie; la fe explica por qué necesitamos que se quede en pie.
+📝 Nota del curador: La ciencia explica por qué los bloques se mantienen en pie, pero la fe explica por qué necesitamos que lo hagan.
 
-### Retos y polémicas: tradición frente a sostenibilidad
+### Desafíos y controversias: el pulso entre ecología y tradición
 
-A medida que crece la conciencia ecológica, el _jiaobei_ también se enfrenta a desafíos modernos. Los jiao de raíz de bambú tradicionales son cada vez más escasos: la recolección es difícil y excavar las raíces puede dañar la conservación del suelo y el agua. Su lugar lo ocupa el plástico: duradero y barato, pero falto de esa "conexión con la tierra" que da calor al ritual.
+Con el aumento de la conciencia ecológica, el lanzamiento de _jiao_ enfrenta desafíos modernos. Debido a la dificultad de recolección y al hecho de que excavar raíces de bambú puede dañar la conservación del suelo, la producción de los tradicionales _Zhutou Jiao_ es cada vez más escasa. En su lugar, han aparecido materiales plásticos que, aunque duraderos y económicos, carecen de esa «calidez de la conexión con la tierra».
 
-Además, en los últimos años muchos templos han ligado el _jiaobei_ a premios cuantiosos en metálico, lo que ha despertado un debate sobre la "comercialización de la fe". Quienes lo critican consideran que esto convierte un ritual solemne de consulta en una forma encubierta de juego. Quienes lo defienden lo ven como un "mal necesario" para atraer a la gente joven al templo y al conocimiento de la cultura tradicional.
+Además, en años recientes, el hecho de que muchos templos vinculen el lanzamiento de _jiao_ con grandes premios ha generado controversia sobre la «comercialización de la fe». Los críticos sostienen que esto convierte un ritual solemne de consulta en una forma encubierta de juego de azar. Por otro로, los defensores argumentan que es un «mal necesario» para atraer a los jóvenes a los templos y darles a conocer la cultura tradicional.
 
-### Cierre: el limpio sonido al caer al suelo
+### Conclusión: el sonido nítido del impacto
 
-Cuando ese par de copas rojas rebotan sobre el suelo de terrazo, giran y al fin emiten su nítido "clac", todo el templo parece contener la respiración por un instante.
+Cuando ese par de bloques rojos rebota y gira sobre el suelo de terrazo, emitiendo finalmente un nítido «clac», todo el templo parece contener el aliento en ese instante.
 
-Ya da igual cómo explique la ciencia ese 50 % de probabilidad o cuánto se obstine el artesano con la veta de la raíz: para el creyente arrodillado sobre el cojín, ese único _shengjiao_ es la afirmación más cálida del mundo. En medio de la incertidumbre de la vida moderna, seguimos necesitando este par de bloques en forma de media luna que, con su limpio chasquido al caer, nos digan: no temas, inténtalo.
+Independientemente de cómo la ciencia explique esa probabilidad del 50%, o de cuán obsesionado esté el artesano con la veta de la raíz de bambú, para aquel fiel arrodillado sobre el cojín, ese sonido de _shengjiao_ es la afirmación más cálida del mundo. En una vida moderna llena de incertidumbres, seguimos necesitando estos dos bloques en forma de media luna que, con su nítido sonido al caer, nos digan: «No temas, inténtalo».
 
 ## Referencias
 
-- [Jiao – Objetos religiosos – Red Nacional de Información Religiosa](https://religion.moi.gov.tw/Knowledge/Content?ci=2&cid=345) (fuente primaria)
-- [El maestro Huang Yi-hsun lleva más de 30 años investigando el jiao de raíz de bambú – FTV News](https://www.ftvnews.com.tw/news/detail/2024721W0065) (fuente primaria)
-- [La probabilidad de obtener un _shengjiao_ es mayor de lo que crees – PanSci](https://pansci.asia/archives/93303)
-- [Concurso de jiaobei del templo Gulai Citian de Pingtung – Yahoo News](https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E6%AD%B8%E4%BE%86%E6%85%88%E5%A4%A9%E5%AE%AE%E6%93%B2%E7%AD%8A%E5%A4%A7%E8%B3%BD-092443164.html)
-- [El jiao de raíz de bambú al borde de la desaparición: el esfuerzo de Huang Yi-hsun – Chuan-Yi Online](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=3131&sms=12605&s=82594)
-- [Práctica y evolución del jiaobei en la vida popular – China Folklore Network](https://www.chinesefolklore.org.cn/web/?NewsID=21245)
+- [Jiao - Instrumentos religiosos - Red Nacional de Información Religiosa](https://religion.moi.gov.tw/Knowledge/Content?ci=2&cid=345) (Fuente primaria)
+- [El artesano de Zhutou Jiao, Huang Yi-xun, persiste en su investigación por más de 30 años - FTV News](https://www.ftvnews.com.tw/news/detail/2024721W0065) (Fuente primaria)
+- [La probabilidad de obtener un shengjiao es mayor de lo que crees - PanSci](https://pansci.asia/archives/93303)
+- [Gran Concurso de Lanzamiento de Jiao en el templo Citen de Pingtung - Yahoo News](https://tw.news.yahoo.com/%E5%B1%8F%E6%9D%B1%E6%AD%B8%E4%BE%86%E6%85%88%E5%A4%A9%E5%AE%AE%E6%93%B2%E7%AD%8A%E5%A4%A7%E8%B3%BD-092443164.html)
+- [Zhutou Jiao al borde de la extinción: El esfuerzo y rescate de Huang Yi-xun - TCAP Online](https://magazine.ncfta.gov.tw/News_Content2.aspx?n=3131&sms=12605&s=82594)
+- [Prácticas y evolución del jiao en la vida folclórica - Red de Patrimonio Cultural de China](https://www.chinesefolklore.org.cn/web/?NewsID=21245)
