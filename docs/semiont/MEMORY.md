@@ -337,3 +337,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-04 | 070729-twmd-feedback-triage | 隊列空零新回報；archive 掃描 40 檔連續第四天同一批，零新留言同步，本 session 零 commit | 連續三天空轉仍照實記錄，才有基線分辨「這條 routine 平常就這麼安靜」跟「哪天真的壞了」 | [→](memory/2026-08-04-070729-twmd-feedback-triage.md) |
 | 2026-08-04 | 084934-twmd-maintainer-daily | merge-first-heal PR #1289 水往上流，抓到杜撰角度數字＋單源 UGC 敘事；回覆 Discussion #104 舊建議 | PR-side CI 綠不等於 deploy CI 綠，heal 後追蹤 deploy run 才算收工 | [→](memory/2026-08-04-084934-twmd-maintainer-daily.md) |
 | 2026-08-04 | 093541-twmd-flywheel-watch | 飛輪零靜默（24hr 86 commit／11 筆 routine 標記）；唯一警報是 live dump 齡 51.3h，OBSERVER-QUEUE #22 復發並補證據 | 報告說「零 stale」只保證閘門名單內那幾樣，名單外的鏡子可以同時兩天半沒擦 | [→](memory/2026-08-04-093541-twmd-flywheel-watch.md) |
+| 2026-08-04 | 095220-curation-tier-design | 查證狀態分層設計報告 ship（EVOLVE Mode 4）：三態投影＋參與式進化區取代隔離草稿區，六決策點掛 OBSERVER-QUEUE #26 等拍板 | 品質分層判準看查證流程不看作者身份；「進化中」做成讀者參與入口可同時餵 #25 review 缺口 | [→](memory/2026-08-04-095220-curation-tier-design.md) |
