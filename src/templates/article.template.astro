@@ -336,6 +336,52 @@ const encodedTitle = encodeURIComponent(title);
 
       <!-- Center: Article content -->
       <article class="min-w-0 [grid-area:body]" data-pagefind-body>
+        <!-- 查證狀態分層（reports/design-curation-tier-2026-08-04.md）：
+             curation: 'incubating' → 🌱 進化中說明條（社群貢獻待深度查證，參與入口）
+             curation: 'verified'   → 🔎 已深度查證徽章（只認顯式值，不從 lastHumanReview
+             推導——早期低標準的 true 會變假保證）。缺省不渲染。
+             文案第一波 zh inline；譯文層 curation 欄位尚未 propagate，babel 帶欄位時
+             文案應遷入 src/i18n/ui.ts。dark 樣式在 dark-polish.css §curation。 -->
+        {
+          frontmatter.curation === 'incubating' && (
+            <aside
+              class="curation-notice mb-8 flex items-start gap-3 rounded-xl border border-dashed border-[rgba(26,60,52,0.25)] bg-[rgba(26,60,52,0.045)] px-5 py-4"
+              data-curation="incubating"
+            >
+              <span class="mt-0.5 text-xl" aria-hidden="true">
+                🌱
+              </span>
+              <div class="min-w-0">
+                <p class="m-0 font-['Inter',system-ui,sans-serif] text-[0.72rem] font-semibold uppercase tracking-[0.12em] text-[#1a3c34] opacity-70">
+                  進化中 · 社群貢獻
+                </p>
+                <p class="m-0 mt-1 font-['Noto_Serif_TC',serif] text-[0.92rem] leading-relaxed text-[#1a3c34]">
+                  這篇文章由社群貢獻，正在 Taiwan.md
+                  的深度查證流程排隊。內容大致可讀，但引語、年份、數字可能還沒逐一核對。讀到可疑的地方，
+                  <button
+                    type="button"
+                    id="curation-feedback-btn"
+                    class="inline cursor-pointer border-0 bg-transparent p-0 font-['Noto_Serif_TC',serif] text-[0.92rem] font-semibold text-[#1a3c34] underline decoration-dotted underline-offset-4"
+                  >
+                    告訴我們
+                  </button>
+                  ——你的一雙眼睛，就是這篇文章轉正的路。
+                </p>
+              </div>
+            </aside>
+          )
+        }
+        {
+          frontmatter.curation === 'verified' && (
+            <p
+              class="curation-badge mb-8 flex items-center gap-2 rounded-full border border-[rgba(26,60,52,0.18)] bg-[rgba(26,60,52,0.05)] px-4 py-2 font-['Inter',system-ui,sans-serif] text-[0.78rem] font-medium text-[#1a3c34]"
+              data-curation="verified"
+            >
+              <span aria-hidden="true">🔎</span>
+              已深度查證 · 這篇走過 Taiwan.md 的深度研究與逐項事實查證流程
+            </p>
+          )
+        }
         <!-- LifeTree CTA banner (experimental feature, links to standalone page) -->
         {
           frontmatter.lifeTree && (
@@ -1168,6 +1214,27 @@ const encodedTitle = encodeURIComponent(title);
       var fn = document.querySelector('.prose .footnotes');
       if (fn && !fn.hasAttribute('data-ga-view'))
         fn.setAttribute('data-ga-view', 'footnotes');
+    })();
+  </script>
+
+  <script is:inline>
+    // 🌱 進化中說明條的「告訴我們」：優先打開讀者 feedback widget（左下 FAB），
+    // widget 未掛載時 fallback 開 GitHub issue（查證狀態分層 2026-08-04）。
+    (function () {
+      var btn = document.getElementById('curation-feedback-btn');
+      if (!btn) return;
+      btn.addEventListener('click', function () {
+        var fab = document.querySelector('.twmd-fb-fab');
+        if (fab) {
+          fab.click();
+        } else {
+          window.open(
+            'https://github.com/frank890417/taiwan-md/issues/new?labels=correction&title=' +
+              encodeURIComponent('[勘誤] ' + document.title),
+            '_blank',
+          );
+        }
+      });
     })();
   </script>
 </Layout>

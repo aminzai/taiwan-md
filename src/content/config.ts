@@ -17,6 +17,17 @@ const articleSchema = z.object({
   author: z.string().optional(),
   readingTime: z.number().optional(),
   featured: z.boolean().optional(),
+  // 2026-08-04 查證狀態分層（reports/design-curation-tier-2026-08-04.md）：
+  // 'verified' = 走過 REWRITE/FACTCHECK 深度查證；'incubating' = 社群貢獻待深度查證
+  // （文章頁顯示 🌱 進化中說明條）；缺省 = 一般文章，維持現狀。
+  curation: z.enum(['verified', 'incubating']).optional(),
+  // 免疫器官既有欄位（dashboard human-reviewed% 資料源）；進 schema 讓 template
+  // 能讀（zod 會 strip 未宣告欄位）——🔎 徽章條件之一。歷史檔存在字串
+  // 'true'/'false' 變體（~148 檔），寬容收下並統一轉 boolean。
+  lastHumanReview: z
+    .union([z.boolean(), z.string()])
+    .optional()
+    .transform((v) => v === true || v === 'true'),
 });
 
 // Generate one collection per registered language. Adding a language to
