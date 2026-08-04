@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-05T04:34:46+08:00",
-    "zhCommitHead": "c6e13b6a7",
+    "lastUpdated": "2026-08-05T05:04:24+08:00",
+    "zhCommitHead": "67e192f2d",
     "totalZh": 882,
     "activeLanguages": [
       "en",
@@ -67,42 +67,42 @@
       },
       "id": {
         "total_zh": 882,
-        "fresh": 526,
+        "fresh": 527,
         "stale": 4,
         "metadata_stale": 11,
-        "missing": 341,
+        "missing": 340,
         "orphan": 0
       },
       "pt": {
         "total_zh": 882,
-        "fresh": 807,
+        "fresh": 809,
         "stale": 11,
-        "metadata_stale": 5,
+        "metadata_stale": 3,
         "missing": 59,
         "orphan": 0
       },
       "hi": {
         "total_zh": 882,
-        "fresh": 621,
+        "fresh": 623,
         "stale": 1,
-        "metadata_stale": 8,
+        "metadata_stale": 6,
         "missing": 252,
         "orphan": 0
       },
       "ar": {
         "total_zh": 882,
-        "fresh": 707,
+        "fresh": 709,
         "stale": 1,
-        "metadata_stale": 7,
-        "missing": 167,
+        "metadata_stale": 6,
+        "missing": 166,
         "orphan": 0
       },
       "ru": {
         "total_zh": 882,
-        "fresh": 731,
+        "fresh": 733,
         "stale": 1,
         "metadata_stale": 8,
-        "missing": 142,
+        "missing": 140,
         "orphan": 0
       }
     },
@@ -5886,8 +5886,8 @@
           "sourceContentHash": "sha256:9e85b1332b7523ce",
           "sourceBodyHash": "sha256:aa9670656fd12067",
           "translatedAt": "2026-08-05T00:31:25+08:00",
-          "translationLastCommit": "3fcb6b42",
-          "translationLastModified": "2026-07-30T05:53:52+08:00",
+          "translationLastCommit": "f7e24c95",
+          "translationLastModified": "2026-08-05T04:34:46+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -5896,18 +5896,16 @@
         "hi": {
           "path": "hi/Economy/taiwan-smes-and-hidden-champions.md",
           "translatedFrom": "Economy/台灣中小企業與隱形冠軍.md",
-          "sourceCommitSha": "377b0ab22",
-          "sourceContentHash": "sha256:9e85b1332b7523ce",
-          "sourceBodyHash": "sha256:aa9670656fd12067",
-          "translatedAt": "2026-07-27T12:26:51.133802+00:00",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:5740300e7d61b41d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-04T20:38:59.241177+00:00",
           "translationLastCommit": "207f1fe0",
           "translationLastModified": "2026-07-27T21:13:33+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Economy/taiwan-smes-and-hidden-champions.md",
@@ -7376,7 +7374,18 @@
           "reason": "sha-lost-hash-mismatch"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Economy/taiwan-enterprise-ase-semiconductor.md",
+          "translatedFrom": "Economy/台灣企業：日月光半導體.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:65cc0b60ab116db7",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-04T20:46:57.539731+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Economy/taiwan-enterprise-ase-semiconductor.md",
@@ -18456,8 +18465,8 @@
           "sourceContentHash": "sha256:5ca6801bb47a7371",
           "sourceBodyHash": "sha256:45291b99c4801128",
           "translatedAt": "2026-08-05T00:31:25+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "f7e24c95",
+          "translationLastModified": "2026-08-05T04:34:46+08:00",
           "inferred": false,
           "footnoteDefs": 60,
           "status": "fresh",
@@ -36418,18 +36427,16 @@
         "pt": {
           "path": "pt/Society/volunteering-and-civic-charity-in-taiwan.md",
           "translatedFrom": "Society/台灣志工文化與公益參與.md",
-          "sourceCommitSha": "165db3959",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:83e68a6262dbf058",
           "sourceBodyHash": "sha256:7149df720d9ca880",
-          "translatedAt": "2026-07-27T20:03:43+08:00",
+          "translatedAt": "2026-08-05T00:31:25+08:00",
           "translationLastCommit": "207f1fe0",
           "translationLastModified": "2026-07-27T21:13:33+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/volunteering-and-civic-charity-in-taiwan.md",
@@ -36460,7 +36467,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Society/volunteering-and-civic-charity-in-taiwan.md",
+          "translatedFrom": "Society/台灣志工文化與公益參與.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:83e68a6262dbf058",
+          "sourceBodyHash": "sha256:7149df720d9ca880",
+          "translatedAt": "2026-08-05T00:31:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -52596,8 +52614,8 @@
           "sourceContentHash": "sha256:387f185bb5291526",
           "sourceBodyHash": "sha256:bdaf6e0f03c1164f",
           "translatedAt": "2026-08-04T17:06:57.661822+00:00",
-          "translationLastCommit": "e137dda5",
-          "translationLastModified": "2026-07-31T00:55:37+08:00",
+          "translationLastCommit": "f7e24c95",
+          "translationLastModified": "2026-08-05T04:34:46+08:00",
           "inferred": false,
           "footnoteDefs": 45,
           "status": "fresh",
@@ -68586,8 +68604,8 @@
           "sourceContentHash": "sha256:a9c781639a414788",
           "sourceBodyHash": "sha256:d1cce1c9cb32c2ba",
           "translatedAt": "2026-08-05T00:31:25+08:00",
-          "translationLastCommit": "c6c05d5b",
-          "translationLastModified": "2026-07-26T01:40:30+08:00",
+          "translationLastCommit": "f7e24c95",
+          "translationLastModified": "2026-08-05T04:34:46+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -115005,8 +115023,8 @@
           "sourceContentHash": "sha256:c4a4c2010dd95827",
           "sourceBodyHash": "sha256:605dca39a0b5b5c5",
           "translatedAt": "2026-08-04T17:30:30.642141+00:00",
-          "translationLastCommit": "c17e04ba",
-          "translationLastModified": "2026-07-29T10:33:00+08:00",
+          "translationLastCommit": "f7e24c95",
+          "translationLastModified": "2026-08-05T04:34:46+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -115568,27 +115586,47 @@
         "pt": {
           "path": "pt/Geography/taiwan-coastal-landforms-and-seascapes.md",
           "translatedFrom": "Geography/台灣海岸地形與海洋地景.md",
-          "sourceCommitSha": "e14a15296",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:9ce361db9a5c3b1a",
           "sourceBodyHash": "sha256:39bde765a3b7a746",
-          "translatedAt": "2026-07-31T09:04:21+08:00",
+          "translatedAt": "2026-08-05T00:31:25+08:00",
           "translationLastCommit": "4a2deca4",
           "translationLastModified": "2026-07-31T11:21:31+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Geography/taiwan-coastal-landforms-and-seascapes.md",
+          "translatedFrom": "Geography/台灣海岸地形與海洋地景.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:9ce361db9a5c3b1a",
+          "sourceBodyHash": "sha256:39bde765a3b7a746",
+          "translatedAt": "2026-08-05T00:31:27+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/Geography/taiwan-coastal-landforms-and-seascapes.md",
+          "translatedFrom": "Geography/台灣海岸地形與海洋地景.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:9ce361db9a5c3b1a",
+          "sourceBodyHash": "sha256:39bde765a3b7a746",
+          "translatedAt": "2026-08-05T00:31:28+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -126896,34 +126934,30 @@
         "hi": {
           "path": "hi/Culture/taiwan-prime-time-drama.md",
           "translatedFrom": "Culture/八點檔.md",
-          "sourceCommitSha": "08a8c5ec8",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:c5c6c2825029a48f",
           "sourceBodyHash": "sha256:f0cb0ab3b5428edc",
-          "translatedAt": "2026-07-28T03:07:46+08:00",
+          "translatedAt": "2026-08-05T00:31:26+08:00",
           "translationLastCommit": "1b098b6a",
           "translationLastModified": "2026-07-28T05:31:46+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Culture/taiwan-prime-time-drama.md",
           "translatedFrom": "Culture/八點檔.md",
-          "sourceCommitSha": "08a8c5ec8",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:c5c6c2825029a48f",
           "sourceBodyHash": "sha256:f0cb0ab3b5428edc",
-          "translatedAt": "2026-07-28T06:16:02+08:00",
+          "translatedAt": "2026-08-05T00:31:27+08:00",
           "translationLastCommit": "2735a436",
           "translationLastModified": "2026-07-28T08:08:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/taiwan-prime-time-drama.md",
@@ -128507,8 +128541,8 @@
           "sourceContentHash": "sha256:01a29994f0cdcf17",
           "sourceBodyHash": "sha256:620db6741686fb51",
           "translatedAt": "2026-08-05T00:31:25+08:00",
-          "translationLastCommit": "8f734f8a",
-          "translationLastModified": "2026-07-24T23:19:00+08:00",
+          "translationLastCommit": "f7e24c95",
+          "translationLastModified": "2026-08-05T04:34:46+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
