@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-04
-last_session: '2026-08-04-104614-支語研究（支語深度研究＋詞庫 49 新詞條）'
+last_session: '2026-08-04-104614-支語研究（上半場詞庫 49 新詞條＋下半場語言分支樹 Mode 4 重生）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -339,3 +339,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-04 | 093541-twmd-flywheel-watch | 飛輪零靜默（24hr 86 commit／11 筆 routine 標記）；唯一警報是 live dump 齡 51.3h，OBSERVER-QUEUE #22 復發並補證據 | 報告說「零 stale」只保證閘門名單內那幾樣，名單外的鏡子可以同時兩天半沒擦 | [→](memory/2026-08-04-093541-twmd-flywheel-watch.md) |
 | 2026-08-04 | 095220-curation-tier-design | 查證狀態分層設計＋同日拍板實作全上線（EVOLVE Mode 4）：三態投影、95 篇補標、lint 三看守、MAINTAINER/CONTRIBUTING 補段 | 分層判準看查證流程不看作者身份；從舊欄位推導新保證＝把歷史低標準包裝成今天的承諾 | [→](memory/2026-08-04-095220-curation-tier-design.md) |
 | 2026-08-04 | 104614-支語研究 | 30 agent 艦隊 559 次搜索揭詞庫缺 2020-2026 兩個世代；49 新詞條＋8 加肉入庫，報告確立「誤判學」查證生態位 | 查證勝過糾察；多 agent 共享工具額度池要進 dispatch 預算 | [→](memory/2026-08-04-104614-支語研究.md) |
+| 2026-08-04 | 104614-支語研究-fork-graph | 語言分支樹 Mode 4 重生：修好空白四個月的圖（Phase 6 遷移斷 selector）、10 詞 hardcode 改詞庫 derive 41 精選＋198 條密度層、滲透時間形狀首次可見 | viz 頁要「長什麼樣」級驗收；接上 SSOT 後資料到呈現當日直通 | [→](memory/2026-08-04-104614-支語研究-fork-graph.md) |
