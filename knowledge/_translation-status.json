@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T17:31:41+08:00",
-    "zhCommitHead": "3950a0ff9",
+    "lastUpdated": "2026-08-04T17:31:53+08:00",
+    "zhCommitHead": "be93d7378",
     "totalZh": 882,
     "activeLanguages": [
       "en",
@@ -27,9 +27,9 @@
       },
       "ja": {
         "total_zh": 882,
-        "fresh": 799,
+        "fresh": 800,
         "stale": 14,
-        "metadata_stale": 53,
+        "metadata_stale": 52,
         "missing": 16,
         "orphan": 0
       },
@@ -99,9 +99,9 @@
       },
       "ru": {
         "total_zh": 882,
-        "fresh": 678,
+        "fresh": 679,
         "stale": 3,
-        "metadata_stale": 58,
+        "metadata_stale": 57,
         "missing": 143,
         "orphan": 0
       }
@@ -33509,18 +33509,16 @@
         "ja": {
           "path": "ja/Lifestyle/taiwan-walking-green-man.md",
           "translatedFrom": "Lifestyle/小綠人.md",
-          "sourceCommitSha": "f99a9959",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:0e8351a88b984c1d",
           "sourceBodyHash": "sha256:83cbb50293e2fd70",
-          "translatedAt": "2026-05-01T18:02:56+08:00",
+          "translatedAt": "2026-08-04T14:12:35+08:00",
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Lifestyle/taiwan-walking-green-man.md",
@@ -62402,18 +62400,16 @@
         "ru": {
           "path": "ru/People/chen-wei-yin-mlb-pitcher.md",
           "translatedFrom": "People/陳偉殷.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:ffd25b21bdd9c278",
           "sourceBodyHash": "sha256:7ce7a4f8a7dcd5c0",
-          "translatedAt": "2026-07-25T15:46:11+08:00",
+          "translatedAt": "2026-08-04T14:12:38+08:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
