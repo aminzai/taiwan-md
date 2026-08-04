@@ -1337,4 +1337,26 @@ Stage 0 已完成 42 次探索搜尋（見上方 §探索搜尋紀錄）。Stage
 
 **缺口 1 — 通關網路業者資格法源**：《通關網路經營許可及管理辦法》（https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0350048），依關稅法第十條第五項訂定，第4條「申請經營通關網路者，須為依公司法組織之股份有限公司，且公司實收資本額達新臺幣五億元」，第6條「財政部對於經營通關網路之申請，得設置審查委員會予以審查」。2026-08-03 記者會（鉅亨網 https://news.cnyes.com/news/id/6557006、ETtoday https://finance.ettoday.net/news/3212376、遠見 https://www.gvm.com.tw/article/132037、聯合報 https://udn.com/news/story/7238/9667608 四家交叉）逐字：「目前具有通關網路經營資格的業者，包括關貿及汎宇等公司，符合資格的業者都可以建置線上委任APP」「關務署每5年會重新辦理資格認證」。gvm.com.tw 逐字核對確認「報導中完全未提及政府採購法或招標相關內容」。存疑項：疑似不相關政府採購案號 IG104026「Customs Network Services」2015年限制性招標，未逐字核對，不建議引用。
 
+---
+
+## §Audit — Stage 3 大驗證輪（2026-08-04）
+
+> 對應 REWRITE-STAGE-3-VERIFY.md §Stage 3 收驗編排。一次平行 spawn 2.5-R 兩席＋3.6.1 verifier＋3.7 六探針，主 session 合併成修復單後批修，再跑變更節定向複驗。修正全部 append 於此（REFLEXES #22 raw 永留）。
+
+**大驗證輪批修（~25 項，涵蓋事實/結構/文體）**：footnote 誤植修正（[^23]/[^24] 引用內容對調、寶哥類型的詮釋 gloss 未涉及本文不適用）；刪除杜撰分類「可疑大額」（2021 預先委任名單僅兩類：曾遭冒名回復、多次未回應推播）；修正包裹量體年份與數字（「2025 年六千多萬件」→「2024 年已經逼近五千八百萬件」）；移除未經證實的日本 60%/¥16,666 換算，改用官方 ¥10,000 門檻直接換算並加註條件性但書；死連結替換（原 customs.gov.tw 反詐頁 307 導向首頁 → 165 全民防騙網）；join.gov.tw 官方回應日期更正（106年9月7日公告，非「12月21日」）、移除查無出處的「500則反對意見」；引語降級為轉述（關貿/汎宇具名句、林岱樺「委外」句，原文為記者轉述非逐字引語）；補林岱樺黨籍腳註（獨立查證 zh.wikipedia）；H2 重新命名兩處（section 3「關貿說沒有強迫」→「海關說沒有強迫」修正發言主體；section 4「八年後攻守交換」→「兩次都是政府想降」移除站不住的角色互換框架）；全文 50 條腳註依首次出現順序重新編號；移除 2 處「見下圖／見下表」AI-crawler-blind 指示語，關鍵數字改寫回正文；延伸閱讀汰換無佐證的「超商」連結、電商生態系描述收斂至正文實際涉及範圍。
+
+**Stage 3 批修後的文體回歸修復（本次會話）**：批修過程中主 session 自己的編輯引入了新的 prose-health 違規（8 處破折號/全形分號改寫、1 處對位句型重寫）與 paragraph-rhythm 違規（section 3 段落數超標、後續合併又觸發長段密度過高），依 Step 3.6.4「orchestrator 自修的收件紀律」逐輪用外部尺（`article-health.py --profile=rewrite-stage-3-5` + `--profile=rewrite-stage-4`）量測收斂，最終 prose-health score 2（pass）、paragraph-rhythm 僅剩預期的媒體密度 WARN（Stage 4 媒體插入前的正常狀態）、viz-health hard=0。
+
+**變更節定向複驗（1×Sonnet falsification verifier，讀第 74-157 行 + 對應腳註）發現並修正 3 項 footnote-binding 問題**：
+
+1. ❌→✅ 「三十四年前把報單搬上電腦的就是這批人[^20]」——[^20]（ettoday）只支撐關貿網路公司沿革（1996年轉型、「30年資服老兵」自述），不支撐「34年前」對應 1992 年自動化的具體時間鏈結。修正為單純陳述 1996 年轉型沿革，移除未經 [^20] 支撐的 34 年敘事包裝。
+2. ⚠️→✅ 「薪資已經不高了…」引語漏字——curl 核對 join.gov.tw 原始碼確認原文開頭為「國人薪資已經不高了」，正文引號內容漏了「國人」二字。已補回。
+3. ⚠️→✅ 「林岱樺在財政委員會的發言[^47]」footnote 誤綁——[^47]（chinatimes）記錄的是署長彭英偉 115 年 7 月 29 日的答詢，全文無「林岱樺」字樣，不足以獨立支撐這句話的歸屬。已移除誤綁的 [^47]，此句改僅由 [^30]（mirrormedia，確實報導林岱樺質詢內容）支撐。
+
+verifier 逐條核對其餘全部 atom（持股比例、董事席次、註冊人數、資格辦法條文、手續費三版本、公民提案附議人數、立委質詢逐字、中國占比、國際門檻換算、彭英偉承諾期限算術）皆 ✅，改寫類編輯（段落合併、標點轉換、框架拆句）未發現順手引入的事實漂移。
+
+**Gate 結果**：`rewrite-stage-3-5` hard=0 warn=0；`rewrite-stage-4` hard=1（image-health，預期內，Stage 4 媒體插入前必然狀態）warn=2（媒體密度，同因）。編輯室審查合併為 `reports/editorial-room/{slug}-prose-structure-review.md` 與 `{slug}-chief-review.md`，均 overall=pass，過 `editorial-room-health.py`。
+
+## Result: PASS（Stage 3 大驗證輪 + 變更節定向複驗）
+
 **缺口 2 — 紙本委任流程**：官方頁 https://web.customs.gov.tw/singlehtml/3150?cntId=cus1_3150_3150_1149（發布 2020-03-18）逐字：「民眾仍得按現行紙本作業方式，出具紙本委任書及個人身分證正反面影本供快遞報關業者據以辦理通關」——辦理對象是「快遞報關業者」非本人親跑海關。公司行號一律走此流程（Q11：https://web.customs.gov.tw/singlehtml/3150?cntId=cus1_3150_3150_1150）。官方範本可見 DHL（https://www.dhl.com/discover/content/dam/taiwan/shipping-with-dhl/start-shipping-with-dhl/個案委任書2025.pdf）、FedEx（https://www.fedex.com/content/dam/fedex/apac-asia-pacific/downloads/fedex-power-of-attorney-one-time-zh-tw.pdf）、ACS 三家一致格式，法源《關稅法》第22條第1項（與缺口1法源不同條文）。長期委任書（LPOA）https://www.fedex.com/content/dam/fedex/apac-asia-pacific/downloads/fedex-power-of-attorney-multiple-times-zh-tw.pdf（摘要未逐字核對，待核）。時效比較：四篇 2026-08-03 報導逐字查核後確認均「未提供」紙本 vs 線上速度比較，誠實標記查無，不可推論。第三條路徑：ETtoday 逐字「民眾也可透過關港貿單一窗口，以自然人憑證辦理線上委任，並非只有EZ WAY一種管道」。低信度佐證（不建議引用為事實）：PTT https://www.ptt.cc/bbs/e-shopping/M.1595564994.A.79F.html 2020年舊文網友經驗，主題是報關行作業延誤非紙本速度比較，僅供背景參考。
