@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T16:58:45+08:00",
-    "zhCommitHead": "a5d7223e2",
-    "totalZh": 881,
+    "lastUpdated": "2026-08-04T17:29:58+08:00",
+    "zhCommitHead": "b34ec7907",
+    "totalZh": 882,
     "activeLanguages": [
       "en",
       "ja",
@@ -18,91 +18,91 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 881,
+        "total_zh": 882,
         "fresh": 820,
         "stale": 23,
         "metadata_stale": 20,
-        "missing": 18,
+        "missing": 19,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 881,
-        "fresh": 795,
+        "total_zh": 882,
+        "fresh": 799,
         "stale": 14,
-        "metadata_stale": 57,
-        "missing": 15,
+        "metadata_stale": 53,
+        "missing": 16,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 881,
+        "total_zh": 882,
         "fresh": 833,
         "stale": 12,
         "metadata_stale": 23,
-        "missing": 13,
+        "missing": 14,
         "orphan": 0
       },
       "es": {
-        "total_zh": 881,
+        "total_zh": 882,
         "fresh": 829,
         "stale": 17,
         "metadata_stale": 22,
-        "missing": 13,
+        "missing": 14,
         "orphan": 0
       },
       "fr": {
-        "total_zh": 881,
+        "total_zh": 882,
         "fresh": 827,
         "stale": 17,
         "metadata_stale": 25,
-        "missing": 12,
+        "missing": 13,
         "orphan": 0
       },
       "vi": {
-        "total_zh": 881,
+        "total_zh": 882,
         "fresh": 356,
         "stale": 30,
         "metadata_stale": 69,
-        "missing": 426,
+        "missing": 427,
         "orphan": 0
       },
       "id": {
-        "total_zh": 881,
-        "fresh": 471,
+        "total_zh": 882,
+        "fresh": 477,
         "stale": 3,
-        "metadata_stale": 55,
+        "metadata_stale": 50,
         "missing": 352,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 881,
-        "fresh": 752,
+        "total_zh": 882,
+        "fresh": 756,
         "stale": 9,
-        "metadata_stale": 61,
-        "missing": 59,
+        "metadata_stale": 57,
+        "missing": 60,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 881,
-        "fresh": 568,
+        "total_zh": 882,
+        "fresh": 571,
         "stale": 3,
-        "metadata_stale": 59,
-        "missing": 251,
+        "metadata_stale": 56,
+        "missing": 252,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 881,
-        "fresh": 647,
+        "total_zh": 882,
+        "fresh": 651,
         "stale": 3,
-        "metadata_stale": 64,
-        "missing": 167,
+        "metadata_stale": 60,
+        "missing": 168,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 881,
-        "fresh": 675,
+        "total_zh": 882,
+        "fresh": 678,
         "stale": 3,
-        "metadata_stale": 61,
-        "missing": 142,
+        "metadata_stale": 58,
+        "missing": 143,
         "orphan": 0
       }
     },
@@ -8485,18 +8485,16 @@
         "ja": {
           "path": "ja/Economy/want-want-group.md",
           "translatedFrom": "Economy/旺旺.md",
-          "sourceCommitSha": "71a0a6781",
-          "sourceContentHash": "sha256:09b6e203fc91b5b5",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:c96d861b28621fd7",
           "sourceBodyHash": "sha256:2386fbe1cd54e9dd",
-          "translatedAt": "2026-07-27T22:12:14+08:00",
+          "translatedAt": "2026-08-04T14:12:35+08:00",
           "translationLastCommit": "3d3b12ab",
           "translationLastModified": "2026-07-28T10:32:06+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "ko": {
           "path": "ko/Economy/want-want-group.md",
@@ -8579,34 +8577,30 @@
         "pt": {
           "path": "pt/Economy/want-want-group.md",
           "translatedFrom": "Economy/旺旺.md",
-          "sourceCommitSha": "71a0a6781",
-          "sourceContentHash": "sha256:09b6e203fc91b5b5",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:c96d861b28621fd7",
           "sourceBodyHash": "sha256:2386fbe1cd54e9dd",
-          "translatedAt": "2026-07-28T03:07:44+08:00",
+          "translatedAt": "2026-08-04T14:12:36+08:00",
           "translationLastCommit": "bdfcc0f9",
           "translationLastModified": "2026-07-28T04:07:59+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "hi": {
           "path": "hi/Economy/want-want-group.md",
           "translatedFrom": "Economy/旺旺.md",
-          "sourceCommitSha": "71a0a6781",
-          "sourceContentHash": "sha256:09b6e203fc91b5b5",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:c96d861b28621fd7",
           "sourceBodyHash": "sha256:2386fbe1cd54e9dd",
-          "translatedAt": "2026-07-28T03:07:46+08:00",
+          "translatedAt": "2026-08-04T14:12:37+08:00",
           "translationLastCommit": "1b098b6a",
           "translationLastModified": "2026-07-28T05:31:46+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "ar": {
           "path": "ar/Economy/want-want-group.md",
@@ -25041,18 +25035,16 @@
         "ja": {
           "path": "ja/Art/taiwanese-modern-poetry.md",
           "translatedFrom": "Art/台灣現代詩.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:76772688d61c205f",
           "sourceBodyHash": "sha256:444e69e75502ca5e",
-          "translatedAt": "2026-06-16T17:10:30Z",
+          "translatedAt": "2026-08-04T14:12:35+08:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Art/taiwanese-modern-poetry.md",
@@ -25113,7 +25105,18 @@
           "diffSummary": "+1 -0"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Art/taiwanese-modern-poetry.md",
+          "translatedFrom": "Art/台灣現代詩.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:6a464245ab24822a",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-04T08:45:37.840515+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Art/taiwanese-modern-poetry.md",
@@ -25146,18 +25149,16 @@
         "ar": {
           "path": "ar/Art/taiwanese-modern-poetry.md",
           "translatedFrom": "Art/台灣現代詩.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:76772688d61c205f",
           "sourceBodyHash": "sha256:444e69e75502ca5e",
-          "translatedAt": "2026-07-26T02:07:26+08:00",
+          "translatedAt": "2026-08-04T14:12:38+08:00",
           "translationLastCommit": "83044859",
           "translationLastModified": "2026-07-26T04:13:39+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Art/taiwanese-modern-poetry.md",
@@ -30976,18 +30977,16 @@
         "ar": {
           "path": "ar/Lifestyle/bowling.md",
           "translatedFrom": "Lifestyle/保齡球.md",
-          "sourceCommitSha": "c212e14db",
-          "sourceContentHash": "sha256:867b46c37c755d29",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:f310a917a5ec92ad",
           "sourceBodyHash": "sha256:9b87440ff4268438",
-          "translatedAt": "2026-07-29T01:32:47+08:00",
+          "translatedAt": "2026-08-04T14:12:38+08:00",
           "translationLastCommit": "caea4fab",
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "ru": {
           "path": "ru/Lifestyle/bowling.md",
@@ -32336,6 +32335,49 @@
         }
       }
     },
+    "Lifestyle/台灣行道樹.md": {
+      "zh": {
+        "lastCommit": "",
+        "lastModified": "",
+        "contentHash": "sha256:6a3a112b88f573ef",
+        "bodyHash": "sha256:7a8c3a112e60a6d6"
+      },
+      "translations": {
+        "en": {
+          "status": "missing"
+        },
+        "ja": {
+          "status": "missing"
+        },
+        "ko": {
+          "status": "missing"
+        },
+        "es": {
+          "status": "missing"
+        },
+        "fr": {
+          "status": "missing"
+        },
+        "vi": {
+          "status": "missing"
+        },
+        "id": {
+          "status": "missing"
+        },
+        "pt": {
+          "status": "missing"
+        },
+        "hi": {
+          "status": "missing"
+        },
+        "ar": {
+          "status": "missing"
+        },
+        "ru": {
+          "status": "missing"
+        }
+      }
+    },
     "Lifestyle/溫泉文化.md": {
       "zh": {
         "lastCommit": "4b6d28c5",
@@ -33541,34 +33583,30 @@
         "id": {
           "path": "id/Lifestyle/taiwan-walking-green-man.md",
           "translatedFrom": "Lifestyle/小綠人.md",
-          "sourceCommitSha": "f99a9959c",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:0e8351a88b984c1d",
           "sourceBodyHash": "sha256:83cbb50293e2fd70",
-          "translatedAt": "2026-07-25T02:52:49+08:00",
+          "translatedAt": "2026-08-04T14:12:35+08:00",
           "translationLastCommit": "ae4167fb",
           "translationLastModified": "2026-07-25T03:21:34+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Lifestyle/taiwan-walking-green-man.md",
           "translatedFrom": "Lifestyle/小綠人.md",
-          "sourceCommitSha": "f99a9959c",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:0e8351a88b984c1d",
           "sourceBodyHash": "sha256:83cbb50293e2fd70",
-          "translatedAt": "2026-07-24T20:15:18+08:00",
+          "translatedAt": "2026-08-04T14:12:36+08:00",
           "translationLastCommit": "89ca6114",
           "translationLastModified": "2026-07-24T22:46:27+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Lifestyle/taiwan-walking-green-man.md",
@@ -33589,34 +33627,30 @@
         "ar": {
           "path": "ar/Lifestyle/taiwan-walking-green-man.md",
           "translatedFrom": "Lifestyle/小綠人.md",
-          "sourceCommitSha": "f99a9959c",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:0e8351a88b984c1d",
           "sourceBodyHash": "sha256:83cbb50293e2fd70",
-          "translatedAt": "2026-07-25T05:00:14+08:00",
+          "translatedAt": "2026-08-04T14:12:38+08:00",
           "translationLastCommit": "92a236dd",
           "translationLastModified": "2026-07-25T05:32:04+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/taiwan-walking-green-man.md",
           "translatedFrom": "Lifestyle/小綠人.md",
-          "sourceCommitSha": "f99a9959c",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:0e8351a88b984c1d",
           "sourceBodyHash": "sha256:83cbb50293e2fd70",
-          "translatedAt": "2026-07-25T06:34:25+08:00",
+          "translatedAt": "2026-08-04T14:12:38+08:00",
           "translationLastCommit": "91e932a3",
           "translationLastModified": "2026-07-25T07:26:15+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -43467,18 +43501,16 @@
         "ja": {
           "path": "ja/Society/the-buffet-aunties-intuitive-pricing.md",
           "translatedFrom": "Society/自助餐阿姨的謎之目測精算能力.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:c40e9256e5031f97",
           "sourceBodyHash": "sha256:b933f7d83c83a92f",
-          "translatedAt": "2026-05-01T18:02:56+08:00",
+          "translatedAt": "2026-08-04T14:12:35+08:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Society/the-buffet-aunties-intuitive-pricing.md",
@@ -43543,50 +43575,44 @@
         "id": {
           "path": "id/Society/the-buffet-aunties-intuitive-pricing.md",
           "translatedFrom": "Society/自助餐阿姨的謎之目測精算能力.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:c40e9256e5031f97",
-          "sourceBodyHash": "sha256:b933f7d83c83a92f",
-          "translatedAt": "2026-07-26T03:58:07+08:00",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:6476b4bbc6422f82",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-04T09:05:39.175257+00:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/the-buffet-aunties-intuitive-pricing.md",
           "translatedFrom": "Society/自助餐阿姨的謎之目測精算能力.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:c40e9256e5031f97",
           "sourceBodyHash": "sha256:b933f7d83c83a92f",
-          "translatedAt": "2026-07-25T10:53:20+08:00",
+          "translatedAt": "2026-08-04T14:12:36+08:00",
           "translationLastCommit": "67a08003",
           "translationLastModified": "2026-07-25T12:03:37+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Society/the-buffet-aunties-intuitive-pricing.md",
           "translatedFrom": "Society/自助餐阿姨的謎之目測精算能力.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:c40e9256e5031f97",
           "sourceBodyHash": "sha256:b933f7d83c83a92f",
-          "translatedAt": "2026-07-25T17:25:40+08:00",
+          "translatedAt": "2026-08-04T14:12:37+08:00",
           "translationLastCommit": "594d6b87",
           "translationLastModified": "2026-07-25T19:10:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Society/the-buffet-aunties-intuitive-pricing.md",
@@ -43607,18 +43633,16 @@
         "ru": {
           "path": "ru/Society/the-buffet-aunties-intuitive-pricing.md",
           "translatedFrom": "Society/自助餐阿姨的謎之目測精算能力.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:c40e9256e5031f97",
           "sourceBodyHash": "sha256:b933f7d83c83a92f",
-          "translatedAt": "2026-07-25T19:27:08+08:00",
+          "translatedAt": "2026-08-04T14:12:38+08:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -51030,18 +51054,16 @@
         "id": {
           "path": "id/Nature/orchid-island-ecosystem.md",
           "translatedFrom": "Nature/蘭嶼生態系.md",
-          "sourceCommitSha": "82e98bfd4",
-          "sourceContentHash": "sha256:c5b9ea1f1f0ebfd3",
-          "sourceBodyHash": "sha256:31718e0ce0828285",
-          "translatedAt": "2026-07-24T20:15:16+08:00",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:000cc0a777fcb307",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-04T09:11:52.852363+00:00",
           "translationLastCommit": "823b2239",
           "translationLastModified": "2026-07-25T01:46:26+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Nature/orchid-island-ecosystem.md",
@@ -51094,18 +51116,16 @@
         "ru": {
           "path": "ru/Nature/orchid-island-ecosystem.md",
           "translatedFrom": "Nature/蘭嶼生態系.md",
-          "sourceCommitSha": "82e98bfd4",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:c5b9ea1f1f0ebfd3",
           "sourceBodyHash": "sha256:31718e0ce0828285",
-          "translatedAt": "2026-07-25T05:00:16+08:00",
+          "translatedAt": "2026-08-04T14:12:38+08:00",
           "translationLastCommit": "5c95aa21",
           "translationLastModified": "2026-07-25T05:30:09+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -53959,18 +53979,16 @@
         "id": {
           "path": "id/Nature/biodiversity.md",
           "translatedFrom": "Nature/生態多樣性.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:7c8e2ae7ead043fa",
           "sourceBodyHash": "sha256:337a7730efae1092",
-          "translatedAt": "2026-07-26T03:58:07+08:00",
+          "translatedAt": "2026-08-04T14:12:35+08:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Nature/biodiversity.md",
@@ -62324,18 +62342,16 @@
         "id": {
           "path": "id/People/chen-wei-yin-mlb-pitcher.md",
           "translatedFrom": "People/陳偉殷.md",
-          "sourceCommitSha": "4b6d28c54",
-          "sourceContentHash": "sha256:ffd25b21bdd9c278",
-          "sourceBodyHash": "sha256:7ce7a4f8a7dcd5c0",
-          "translatedAt": "2026-07-26T00:16:53+08:00",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:257cf55177cb05b1",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-04T09:22:23.445523+00:00",
           "translationLastCommit": "706fa8aa",
           "translationLastModified": "2026-07-26T02:31:43+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/chen-wei-yin-mlb-pitcher.md",
@@ -63654,18 +63670,16 @@
         "ja": {
           "path": "ja/People/george-leslie-mackay.md",
           "translatedFrom": "People/馬偕.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:b7d6932f284b6cf0",
           "sourceBodyHash": "sha256:d3315bfee0561cb1",
-          "translatedAt": "2026-05-13T01:08:16Z",
+          "translatedAt": "2026-08-04T14:12:35+08:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/george-leslie-mackay.md",
@@ -63742,50 +63756,44 @@
         "pt": {
           "path": "pt/People/george-leslie-mackay.md",
           "translatedFrom": "People/馬偕.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:b7d6932f284b6cf0",
           "sourceBodyHash": "sha256:d3315bfee0561cb1",
-          "translatedAt": "2026-07-25T09:23:09+08:00",
+          "translatedAt": "2026-08-04T14:12:36+08:00",
           "translationLastCommit": "ecf9958e",
           "translationLastModified": "2026-07-25T10:38:17+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/People/george-leslie-mackay.md",
           "translatedFrom": "People/馬偕.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:b7d6932f284b6cf0",
           "sourceBodyHash": "sha256:d3315bfee0561cb1",
-          "translatedAt": "2026-07-25T10:53:23+08:00",
+          "translatedAt": "2026-08-04T14:12:37+08:00",
           "translationLastCommit": "18e5cbc2",
           "translationLastModified": "2026-07-25T11:40:01+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/george-leslie-mackay.md",
           "translatedFrom": "People/馬偕.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:b7d6932f284b6cf0",
           "sourceBodyHash": "sha256:d3315bfee0561cb1",
-          "translatedAt": "2026-07-25T15:46:09+08:00",
+          "translatedAt": "2026-08-04T14:12:38+08:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/People/george-leslie-mackay.md",
@@ -88345,8 +88353,8 @@
           "sourceContentHash": "sha256:7de74580c2e1d825",
           "sourceBodyHash": "sha256:669b88afae826e6b",
           "translatedAt": "2026-08-04T15:04:47+08:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translationLastCommit": "9249bca5",
+          "translationLastModified": "2026-08-04T16:58:45+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -96373,8 +96381,8 @@
           "sourceContentHash": "sha256:c0f8cc644aeae280",
           "sourceBodyHash": "sha256:fd7a2d45f0c2514e",
           "translatedAt": "2026-08-04T15:27:52+08:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translationLastCommit": "9249bca5",
+          "translationLastModified": "2026-08-04T16:58:45+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -96677,8 +96685,8 @@
           "sourceContentHash": "sha256:1bed2e499f02597c",
           "sourceBodyHash": "sha256:2b57fc3112c5bc59",
           "translatedAt": "2026-08-04T15:27:52+08:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translationLastCommit": "9249bca5",
+          "translationLastModified": "2026-08-04T16:58:45+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -98734,8 +98742,8 @@
           "sourceContentHash": "sha256:8de12ddf79fa57df",
           "sourceBodyHash": "sha256:c3fe90467aad669d",
           "translatedAt": "2026-08-04T15:27:52+08:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translationLastCommit": "9249bca5",
+          "translationLastModified": "2026-08-04T16:58:45+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -101652,8 +101660,8 @@
           "sourceContentHash": "sha256:3c85e554c80495b9",
           "sourceBodyHash": "sha256:39ddb75027efa4b4",
           "translatedAt": "2026-08-04T16:11:28+08:00",
-          "translationLastCommit": "5bc8a207",
-          "translationLastModified": "2026-06-26T00:56:22+08:00",
+          "translationLastCommit": "9249bca5",
+          "translationLastModified": "2026-08-04T16:58:45+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -103059,8 +103067,8 @@
           "sourceContentHash": "sha256:24a72a8ef4ad1c70",
           "sourceBodyHash": "sha256:67689aef546b2c21",
           "translatedAt": "2026-08-04T16:11:28+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "9249bca5",
+          "translationLastModified": "2026-08-04T16:58:45+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -105944,8 +105952,8 @@
           "sourceContentHash": "sha256:8069998f1aa354c8",
           "sourceBodyHash": "sha256:55bbc4efed5f30a9",
           "translatedAt": "2026-08-04T16:11:28+08:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translationLastCommit": "9249bca5",
+          "translationLastModified": "2026-08-04T16:58:45+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -107181,8 +107189,8 @@
           "sourceContentHash": "sha256:3828ee010a982636",
           "sourceBodyHash": "sha256:1b234f51be7edbb9",
           "translatedAt": "2026-08-04T16:32:38+08:00",
-          "translationLastCommit": "04a9c0df",
-          "translationLastModified": "2026-05-09T14:18:36+08:00",
+          "translationLastCommit": "9249bca5",
+          "translationLastModified": "2026-08-04T16:58:45+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -107643,8 +107651,8 @@
           "sourceContentHash": "sha256:e04661eeed7e83a6",
           "sourceBodyHash": "sha256:11623780c733bce5",
           "translatedAt": "2026-08-04T16:32:38+08:00",
-          "translationLastCommit": "892cb4ef",
-          "translationLastModified": "2026-07-27T18:53:04+08:00",
+          "translationLastCommit": "9249bca5",
+          "translationLastModified": "2026-08-04T16:58:45+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -109113,8 +109121,8 @@
           "sourceContentHash": "sha256:5cc3c5f96a34e51e",
           "sourceBodyHash": "sha256:ad7b91e555067f88",
           "translatedAt": "2026-08-04T16:42:08+08:00",
-          "translationLastCommit": "df411148",
-          "translationLastModified": "2026-07-27T10:57:42+08:00",
+          "translationLastCommit": "9249bca5",
+          "translationLastModified": "2026-08-04T16:58:45+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "status": "fresh",
@@ -111158,8 +111166,8 @@
           "sourceContentHash": "sha256:2cef849f8ebc6df7",
           "sourceBodyHash": "sha256:a56d3c9283c22ceb",
           "translatedAt": "2026-08-04T16:42:08+08:00",
-          "translationLastCommit": "29e0766d",
-          "translationLastModified": "2026-07-25T10:34:23+08:00",
+          "translationLastCommit": "9249bca5",
+          "translationLastModified": "2026-08-04T16:58:45+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -112035,8 +112043,8 @@
           "sourceContentHash": "sha256:2935ce10538c2b78",
           "sourceBodyHash": "sha256:79946e3edca12d9c",
           "translatedAt": "2026-08-04T16:51:51+08:00",
-          "translationLastCommit": "cbf4f232",
-          "translationLastModified": "2026-06-27T01:01:24+08:00",
+          "translationLastCommit": "9249bca5",
+          "translationLastModified": "2026-08-04T16:58:45+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -115764,8 +115772,8 @@
           "sourceContentHash": "sha256:9ce361db9a5c3b1a",
           "sourceBodyHash": "sha256:39bde765a3b7a746",
           "translatedAt": "2026-08-04T16:51:51+08:00",
-          "translationLastCommit": "adc69a2f",
-          "translationLastModified": "2026-07-29T04:32:17+08:00",
+          "translationLastCommit": "9249bca5",
+          "translationLastModified": "2026-08-04T16:58:45+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",

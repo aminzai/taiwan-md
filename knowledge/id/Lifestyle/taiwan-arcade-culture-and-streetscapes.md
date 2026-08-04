@@ -1,123 +1,123 @@
 ---
-title: 'Budaya dan Pemandangan Jalanan Kaki Lima Taiwan'
-description: 'Koridor kehidupan yang melindungi dari angin dan hujan, kenangan jalanan Taiwan tempat motor, pedagang kaki lima, dan kehangatan manusia saling bergandengan'
+title: 'Budaya Kolong dan Pemandangan Jalan Taiwan'
+description: 'Koridor kehidupan yang melindungi dari angin dan hujan, kenangan jalanan Taiwan di mana motor, pedagang kaki lima, dan kehangatan manusia saling berkembang.'
 date: 2026-03-20
 category: 'Lifestyle'
-tags: ['Gaya Hidup', 'Kaki Lima', 'Pemandangan Jalanan', 'Budaya Perkotaan']
-subcategory: '交通與移動'
+tags: ['Gaya Hidup', 'Kolong', 'Pemandangan Jalan', 'Budaya Perkotaan']
+subcategory: 'Transportasi dan Mobilitas'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
+curation: 'incubating'
 translatedFrom: 'Lifestyle/台灣騎樓文化與街景.md'
-sourceCommitSha: '4b6d28c54'
-sourceContentHash: 'sha256:2b233a45daf622e6'
-sourceBodyHash: 'sha256:8f231aa6641c39c8'
-translatedAt: '2026-07-26T18:31:07+08:00'
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:bd3e7ae30112faf0'
+translatedAt: '2026-08-04T08:22:52.370732+00:00'
 ---
 
-> **Ringkasan 30 Detik:** Kaki lima Taiwan adalah bentuk arsitektur yang mulai dipromosikan pada 1900 di era penjajahan Jepang, menggabungkan arsitektur kolonial Nanyang dengan kebutuhan lokal. Desain dengan lantai dua menonjol dan lantai satu terbuka menciptakan ruang semi-publik, menampung budaya pedagang kaki lima, parkir motor, pertetangan tetangga, dan berbagai fungsi lain, menjadi pemandangan perkotaan paling berkehangatan di Taiwan.
+**30 detik ringkasan:** Kaki lima Taiwan adalah bentuk arsitektur yang dipopulerkan sejak 1900 pada masa kolonial Jepang, memadukan arsitektur kolonial Nanyang dengan kebutuhan lokal. Desain lantai dua menjorok dan lantai satu terbuka menciptakan ruang semi-publik yang menampung budaya pedagang, parkir motor, dan interaksi tetangga — jadi pemandangan perkotaan paling berkehangatan di Taiwan.
 
-Jika Anda besar di Taiwan, pasti memiliki kenangan seperti ini: berjalan di bawah kaki lima menghujan saat hujan turun, membeli ayam goreng tepung di kaki lima setelah pulang sekolah, duduk di kaki lima pada malam musim panas sambil menyalakan kipas angin dan ngobrol. Koridor pelindung angin hujan ini menyimpan kenangan hidup bersama orang Taiwan.
+Jika Anda besar di Taiwan, pasti punya kenangan seperti ini: berlindung di bawah kaki lima saat hujan, beli chicken cutlet di kaki lima setelah sekolah, duduk malam panas sambil ngobrol di bawah kipas angin. Lorong penangkal angin hujan ini menyimpan kenangan hidup bersama orang Taiwan.
 
-## Penanaman Nanyang di Era Penjajahan Jepang
+## Era Kolonial Jepang: Transplantasi dari Nusantara
 
-Kaki lima bukan ciptaan asli Taiwan, melainkan kebijaksanaan arsitektur yang dipelajari orang Jepang dari Nanyang.
+Qilou bukan asli Taiwan, melainkan kebijaksanaan arsitektur yang dipelajari orang Jepang dari Nusantara.
 
-Tahun 1900, Pemerintah Kolonial Jepang mendorong "Rencana Perbaikan Wilayah Kota Taipei", pertama kali memperkenalkan arsitektur kaki lima secara massal. Saat itu Kantor Gubernur Jenderal menemukan bahwa arsitektur _shop house_ (rumah toko) di Singapura, Penang, dan sejenisnya sangat cocok dengan iklim dan kebutuhan komersial Taiwan.
+Tahun 1900, pemerintah kolonial Jepang mempromosikan "Rencana Perbaikan Wilayah Kota Taipei", memperkenalkan arsitektur qilou secara massal untuk pertama kalinya. Saat itu, Kantor Gubernur Jenderal menemukan bahwa arsitektur shop house (toko rumah) di tempat-tempat seperti Singapura dan Penang sangat cocok dengan iklim dan kebutuhan komersial Taiwan.
 
-Arsitektur ini memiliki kecerdasan: bagian lantai satu mundur ke dalam, lantai dua menonjol, membentuk koridor beratap. Sekaligus melindungi dari matahari dan hujan, serta menambah luas bangunan, untung dua sisi.
+Arsitektur ini memiliki kecerdasan: bagian lantai satu mundur ke dalam, lantai dua menjulur ke depan, membentuk koridor beratap. Ini sekaligus melindungi dari matahari dan hujan, serta menambah luas bangunan, satu langkah dua keuntungan.
 
-Perencanaan orang Jepang sangat memperhatikan standarisasi: jarak tiang diseragamkan, tinggi disamakan, kedalaman ditetapkan. Yang mereka inginkan adalah kota modern yang rapi serasi, melambangkan ketertiban dan efisiensi kekuasaan kolonial.
+Perencanaan orang Jepang sangat mengutamakan standarisasi: jarak kolom seragam, tinggi seragam, kedalaman tetap. Yang mereka inginkan adalah kota modern yang rapi dan seragam, melambangkan ketertiban dan efisiensi rezim kolonial.
 
-1905 di Kaohsiung, 1920-an di Taichung dan Tainan, seluruh pulau mempromosikan arsitektur kaki lima. Kaki lima saat memang terlihat sangat "Jepang" — tertib, bersih, tertata dengan baik.
+Tahun 1905 di Kaohsiung, tahun 1920-an di Taichung dan Tainan, arsitektur qilou dipromosikan di seluruh pulau. Saat itu qilou memang terlihat sangat "Jepang" — tertib, bersih, dan teratur.
 
-## Pertumbuhan Liar Pelokalan Pasca-Perang
+## Pasca-Perang: Pertumbuhan Liar yang Melokalisasi
 
-1945 orang Jepang pergi, orang Taiwan mengambil alih kaki lima ini. Hal menarik mulai terjadi.
+Tahun 1945 Jepang pergi, orang Taiwan mengambil alih qilou-qilou ini. Hal-hal menarik mulai terjadi.
 
-Tanpa batasan standarisasi, orang Taiwan mulai memodifikasi kaki lima sesuai kebutuhan sendiri. Ada yang menambah tinggi, ada yang melebar, ada yang memasang jendela besi, ada yang menempelkan ubin keramik. Kaki lima yang tadinya rapi serasi berubah jadi "campur aduk" berkarakter masing-masing.
+Tanpa batasan standarisasi, orang Taiwan mulai memodifikasi qilou sesuai kebutuhan mereka. Ada yang menambah tinggi, ada yang melebar, ada yang memasang jendela besi, ada yang memasang keramik. Qilou yang tadinya rapi dan seragam berubah menjadi campuran gaya yang masing-masing memiliki karakteristik sendiri.
 
-Lebih penting lagi, fungsi kaki lima jadi lebih beragam. Bukan hanya toko, tapi jadi pabrik, gudang, ruang tamu, restoran. Lantai satu berdagang, lantai dua tinggal keluarga, lantai tiga disewakan — mode "campur tinggal dagang" ini jadi ciri khas perkembangan perkotaan Taiwan.
+Yang lebih penting, fungsi qilou juga menjadi lebih beragam. Bukan hanya toko, tapi juga pabrik, gudang, ruang tamu, restoran. Lantai satu untuk berdagang, lantai dua untuk tinggal keluarga, lantai tiga disewakan — model "campuran hunian dan komersial" ini menjadi ciri khas perkembangan perkotaan Taiwan.
 
 ## Panggung Ekonomi Pedagang Kaki Lima
 
-Jika kaki lima adalah teater, pedagang kaki lima adalah pemain paling aktif.
+Jika qilou adalah teater, pedagang kaki lima adalah pemain paling aktif.
 
-Budaya pedagang kaki lima Taiwan berkembang pesat, sebab besarnya kaki lima menyediakan ruang usaha "setengah legal". Secara teori kaki lima adalah tanah milik pribadi, tapi pejalan kaki boleh lewat, pedagang justru di zona abu-abu ini menemukan ruang hidup.
+Budaya pedagang kaki lima Taiwan berkembang sangat pesat, sebab besarnya adalah qilou menyediakan ruang usaha "setengah legal". Secara teori qilou adalah tanah pribadi, tapi pejalan kaki boleh lewat, dan pedagang kaki lima menemukan ruang kelangsungan hidup di area abu-abu ini.
 
-Gerobak sarapan pagi menduduki sudut kaki lima di pagi hari, habis jual lalu pergi. Pedagang buah muncul sore hari, tutup malam. Pedagang pasar malam lalu mengubah kaki lima jadi jalan makanan malam.
+Gerobak sarapan pagi menduduki sudut qilou di pagi hari, pergi setelah habis terjual. Pedagang buah muncul di sore hari, tutup di malam hari. Pedagang pasar malam then mengubah qilou menjadi jalanan kuliner di malam hari.
 
-Model usaha "perang gerilya" ini memberi peluang berwirausaha ambang rendah bagi banyak orang. Satu gerobak kecil, satu kompor gas, beberapa bangku kecil, sudah bisa memulai usaha di bawah kaki lima.
+Model usaha pedagang kaki lima bergaya "perang gerilya" ini memberi peluang berwirausaha dengan ambang rendah bagi banyak orang. Satu gerobak kecil, satu kompor gas, beberapa bangku kecil, sudah bisa memulai usaha di bawah qilou.
 
-Tentu saja ini juga bikin pusing manajemen: kaki lima milik siapa? Bolehkah pedagang berjualan di sini? Standar penegakan hukum pemerintah selalu ambigu, menciptakan kondisi aneh "secara hukum tidak boleh, secara praktis diam-diam diperbolehkan".
+Tentu saja, ini juga menimbulkan sakit kepala manajemen. Qilou milik siapa sebenarnya? Bolehkah pedagang kaki lima berjualan di sini? Standar penegakan hukum pemerintah selalu ambigu, menciptakan kondisi aneh "secara hukum tidak boleh, tapi praktis diam-diam diperbolehkan".
 
-## Tempat Berlindung Kerajaan Motor
+## Tempat Berlindung di Negara Motor
 
-Mulai 1980-an, Taiwan memasuki era "Kerajaan Motor". Setiap rumah punya motor, parkir jadi masalah besar.
+Mulai tahun 1980-an, Taiwan memasuki era "Negara Motor". Setiap rumah tangga punya motor, parkir menjadi masalah besar.
 
-Kaki lima sekali lagi menunjukkan daya adaptasinya. Ruang semi-terbuka ini pas buat parkir motor — bisa naungan angin hujan, lagi tidak memakan jalan raya.
+Qilou sekali lagi menunjukkan daya adaptasinya. Ruang semi-terbuka ini cocok untuk parkir motor — bisa melindungi dari angin dan hujan, juga tidak memakai jalan raya.
 
-Pelan-pelan, parkir motor di kaki lima jadi standar kota Taiwan. Beli rumah harus lihat ada nggak kaki lima, sewa rumah harus pastiin motor bisa diparkir. Nilai kaki lima, bagian besar datang dari "fungsinya parkir".
+Perlahan-lahan, parkir motor di qilou menjadi fasilitas standar kota Taiwan. Beli rumah harus lihat apakah ada qilou, sewa rumah harus pastikan motor bisa parkir. Nilai qilou, bagian besar berasal dari "fungsinya sebagai tempat parkir".
 
-Tapi ini bikin masalah baru: kaki lima kan buat orang jalan, sekarang jadi tempat parkir, pejalan kaki mau lewat mana? Banyak kaki lima dipenuhi motor, pejalan kaki terpaksa jalan di jalan raya, muncul kekacauan kota "manusia dan kendaraan berebut jalan".
+Tapi ini juga membawa masalah baru: qilou semula untuk pejalan kaki, sekarang jadi tempat parkir, pejalan kaki mau lewat mana? Banyak qilou dipenuhi motor, pejalan kaki terpaksa jalan ke jalan raya, menciptakan kekacauan perkotaan "manusia dan kendaraan berebut jalan".
 
-## Kehebohan Visual Hutan Reklame
+## Kejutan Visual Hutan Papan Reklame
 
-Berjalan di jalanan Taiwan, yang paling mengejutkan adalah reklame rapat-rapat.
+Berjalan di jalanan Taiwan, yang paling mengejutkan adalah papan reklame yang rapat sekali.
 
-Setiap toko ingin lebih terlihat, reklame dibuat semakin besar, semakin terang. Dari neon ke LED, dari bahasa Tionghoa ke Inggris, dari horizontal ke vertikal, fasad kaki lima jadi medan perang reklame.
+Setiap toko ingin terlihat lebih menonjol, papan reklame dibuat semakin besar, semakin terang. Dari lampu neon ke LED, dari bahasa Tionghoa ke Inggris, dari horizontal ke vertikal, fasad qilou berubah menjadi medan perang papan reklame.
 
-Orang asing datang pertama kali ke Taiwan, sering terkejut sama "kepadatan reklame" ini. Sutradara Hong Kong Wong Kar-wai pernah bilang, pemandangan jalan Taipei kayak film fiksi ilmiah, reklame dan neon yang padat menciptakan suasana kota masa depan.
+Orang asing yang baru datang ke Taiwan sering terkejut dengan "kepadatan papan reklame" ini. Sutradara Hong Kong Wong Kar-wai pernah bilang, pemandangan jalan Taipei seperti film fiksi ilmiah, papan reklame dan lampu neon yang padat menciptakan suasana kota masa depan.
 
-Tapi buat orang Taiwan, reklame-reklame ini bagian dari kehidupan sehari-hari. Reklame merah "Bakmi Sapi Pak Chang", kotak lampu pink "Salon Kecantikan Kecil Mei", reklame tulis tangan "Toko Nenek" — tiap reklame punya cerita, tiap cerita punya kehangatan.
+Tapi bagi orang Taiwan, papan reklame ini adalah bagian dari kehidupan sehari-hari. Papan reklame merah "Bakmi Sapi Lao Zhang", kotak lampu pink "Salon Kecantikan Xiao Mei", papan reklame tulisan tangan "Toko Nenek" — setiap papan reklame punya cerita, setiap cerita penuh rasa kemanusiaan.
 
-## Titik Pertemuan Kehangatan Manusia
+## Titik Pertemuan Rasa Kemanusiaan
 
-Yang paling berharga dari kaki lima, bukan bangunannya, tapi "ruang kehangatan" yang diciptakannya.
+Yang paling berharga dari qilou bukan bangunannya sendiri, melainkan "ruang kemanusiaan" yang diciptakannya.
 
-Sore hari musim panas, orang tua duduk di bangku kecil di bawah kaki lima sambil ngobrol. Anak-anak main di kaki lima, ibu toko cuci sayur di kaki lima. Adegan kehidupan sehari-hari ini bikin kota yang dingin jadi berkehangatan.
+Sore hari musim panas, orang tua duduk di bawah qilou di atas bangku kecil sambil mengobrol. Anak-anak bermain di qilou, ibu-ibu pedagang mencuci sayur di qilou. Adegan kehidupan sehari-hari ini menghangatkan kota yang dingin.
 
-Terutama kaki lima di sekitar pasar tradisional, penuh baunya hidup. Nenek jual sayur ngatur sayur di kaki lima, sambil ngobrol santai sama tetangga. Ibu rumah tangga beli sayur di kaki lima banding harga, diskusin mana sayurnya lebih segar.
+Terutama qilou di sekitar pasar tradisional, yang penuh dengan nuansa kehidupan. Nenek-nenek penjual sayur menyortir sayuran di qilou sambil ngobrol santai dengan tetangga. Ibu-ibu yang belanja membandingkan harga di qilou, mendiskusikan toko mana sayurnya lebih segar.
 
-"Ruang semi-publik" ini menciptakan pola sosial khusus: bukan sepenuhnya pribadi, juga bukan sepenuhnya publik, tapi "ruang tetangga" di antara keduanya. Di sini, orang asing bisa mulai ngobrol gara-gara naungan hujan, tetangga bisa kenal gara-gara posisi parkir motor.
+Jenis "ruang semi-publik" ini menciptakan pola sosial khusus: bukan sepenuhnya pribadi, juga bukan sepenuhnya publik, melainkan "ruang tetangga" di antara keduanya. Di sini, orang asing bisa mulai ngobrol karena menghujan, tetangga bisa berkenalan karena tempat parkir motor.
 
-## Tantangan Kelangsungan di Era Pembaruan Perkotaan
+## Tantangan Keberlangsungan di Era Perbaharuan Perkotaan
 
-Belakangan ini, gelombang pembaruan perkotaan menghempas kaki lima tradisional.
+Belakangan ini, gelombang perbaharuan perkotaan menghantam qilou tradisional.
 
-Gedung baru mengutamakan desain modern, biasanya tidak menyediakan kaki lima. Parkir bawah tanah menggantikan parkir kaki lima, mal berpendingin menggantikan toko kaki lima, lobi lift menggantikan ruang sosial kaki lima.
+Gedung baru mengutamakan desain modern, biasanya tidak menyediakan qilou. Tempat parkir bawah tanah menggantikan parkir di qilou, mal berpendingin menggantikan toko di qilou, lobi lift menggantikan ruang sosial qilou.
 
-Beberapa kawasan kaki lima klasik menghadapi tekanan roboh bangun. Pengembang berpendapat kaki lima "kurang modern", pemerintah juga rasa kaki lima "sulit diurus". Di hadapan keuntungan ekonomi, budaya sejarah terlihat rapuh.
+Beberapa kawasan qilou klasik menghadapi tekanan roboh bangun. Pengembang menganggap qilou "tidak cukup modern", pemerintah juga menganggap qilou "sulit dikelola". Di hadapan keuntungan ekonomi, sejarah dan budaya tampak rapuh.
 
-Tapi ada juga contoh sukses diselamatkan. Jalan Dihua Taipei lewat perencanaan utuh, mempertahankan arsitektur kaki lima gaya Barok, dan dikombinasiin dengan pariwisata dan industri kreatif, menemukan kembali vitalitasnya. Jalan Tua Lukang, Jalan Tua Daxi juga bermodal arsitektur kaki lima, mengembangkan brand pariwisata sendiri.
+Namun ada juga contoh pelestarian yang berhasil. Jalan Dihua Taipei melalui perencanaan utuh mempertahankan bangunan qilou bergaya Baroque, dan menggabungkan pariwisata serta industri kreatif, menemukan kembali vitalitasnya. Jalan Lama Lukang dan Jalan Lama Daxi juga menjadikan arsitektur qilou sebagai ciri khas, mengembangkan merek pariwisata masing-masing.
 
-## Kenangan Ruas sebagai Pengenal Diri Lokal
+## Memori Ruang Identitas Lokal
 
-Bagi orang Taiwan, kaki lima bukan cuma bangunan, tapi wadah kenangan kolektif.
+Bagi orang Taiwan, qilou bukan sekadar bangunan, melainkan wadah memori kolektif.
 
-Setiap orang punya cerita kaki lima sendiri: kecil nunggu bus di kaki lima, remaja kencan di kaki lima, dewasa beli camilan malam di kaki lima. Pengalaman yang kelihatannya biasa ini, susun jadi kenangan hidup bersama orang Taiwan.
+Setiap orang punya cerita qilou sendiri: kecil menunggu bus di qilou, remaja berkencan di qilou, dewasa beli makanan malam di qilou. Pengalaman yang tampak biasa ini membentuk memori hidup bersama orang Taiwan.
 
-Terutama di bawah guncangan globalisasi, budaya kaki lima makin terasa berharga. Saat rantai toko transnasional mulai menggantikan toko tradisional kecil, saat bangunan modern mulai menggantikan rumah jalan sejarah, kaki lima jadi simbol penting mempertahankan pengenal diri tempatan.
+Terutama di bawah guncangan globalisasi, budaya qilou semakin berharga. Saat toko rantai multinasional mulai menggantikan toko tradisional kecil, saat arsitektur modern mulai menggantikan rumah jalanan bersejarah, qilou menjadi simbol penting yang mempertahankan identitas lokal.
 
-Keunikan sebuah tempat, bukan di seberapa mirip dia sama luar negeri, tapi di seberapa beda dia. Budaya kaki lima Taiwan, justru manifestasi "kebedaan" ini — ruang unik yang memadukan sejarah kolonial, adaptasi lokal, dan kebijaksanaan rakyat kecil.
+Keunikan sebuah tempat tidak terletak pada seberapa mirip ia dengan luar negeri, melainkan seberapa berbeda ia. Budaya qilou Taiwan adalah manifestasi "ketidaksamaan" ini — ruang unik yang memadukan sejarah kolonial, adaptasi lokal, dan kebijaksanaan rakyat biasa.
 
 ## Kemungkinan Masa Depan
 
-Budaya kaki lima mau ke mana?
+Ke mana budaya qilou akan pergi?
 
-Satu sisi, kaki lima tradisional memang hadapi tantangan. Masalah keamanan bangunan tua, kebutuhan baru kehidupan modern, pertimbangan efisiensi manajemen kota, semuanya bikin tekanan buat kelangsungan kaki lima.
+Sisi satu, qilou tradisional memang menghadapi tantangan. Masalah keamanan bangunan tua, kebutuhan baru kehidupan modern, pertimbangan efisiensi manajemen perkotaan, semuanya menciptakan tekanan bagi keberlangsungan qilou.
 
-Tapi sisi lain, kaki lima juga nyari kemungkinan baru. Beberapa anak muda mulai buka kafe, toko buku, studio di kaki lima tua, pake cara baru ngejawab ruang tradisional. Pemerintah juga mulai memperhatikan nilai budaya kaki lima, dorong rencana pelestarian dan revitalisasi.
+Tapi sisi lain, qilou juga mencari kemungkinan baru. Beberapa orang muda mulai membuka kafe, toko buku, studio di qilou tua, menafsirkan ruang tradisional dengan cara baru. Pemerintah juga mulai memperhatikan nilai budaya qilou, mendorong program pelestarian dan revitalisasi.
 
-Lebih penting, nilai-nilai yang dibawa kaki lima — koneksi antar manusia, kehangatan komunitas, kelonggaran hidup — di kota modern tetap berharga. Mungkin kaki lima masa depan tidak persis kayak dulu, tapi konsep "ruang yang memanusiakan" yang diwakilinya, tetap layak kita hargai dan kembangkan.
+Yang lebih penting, nilai-nilai yang dibawa qilou — koneksi antar manusia, kehangatan komunitas, kelenturan kehidupan — tetap berharga di kota modern. Mungkin qilou masa depan tidak akan persis seperti dulu, tapi konsep "ruang humanis" yang diwakilinya tetap layak kita hargakan dan kembangkan.
 
-Lagipula, keindahan sebuah kota, bukan cuma di seberapa modern dia, tapi di seberapa hangat dia. Dan kaki lima, adalah saksi kehangatan itu.
+Lagipula, keindahan sebuah kota tidak hanya terletak pada seberapa modern ia, tetapi seberapa hangat ia. Dan qilou, adalah saksi kehangatan itu.
 
 ## Referensi
 
-- [Kementerian Kebudayaan: Survei Aset Budaya Arsitektur Kaki Lima Taiwan](https://www.moc.gov.tw/)
-- [Kantor Pembaruan Perkotaan Kota Taipei: Rencana Pelestarian Kawasan Sejarah](https://uro.gov.taipei/)
-- [Kantor Konstruksi: Standar Tinjauan Desain Perkotaan](https://www.cpami.gov.tw/)
-- [Instit Sejarah Taiwan Akademia Sinica: Sejarah Perkembangan Perkotaan Taiwan](https://www.ith.sinica.edu.tw/)
+- [Kementerian Kebudayaan: Survei Aset Budaya Arsitektur Qilou Taiwan](https://www.moc.gov.tw/)
+- [Kantor Perbaharuan Perkotaan Taipei: Rencana Pelestarian Kawasan Sejarah](https://uro.gov.taipei/)
+- [Badan Konstruksi dan Perencanaan: Standar Deliberasi Desain Perkotaan](https://www.cpami.gov.tw/)
+- [Institut Sejarah Taiwan Akademia Sinica: Sejarah Perkotaan Taiwan](https://www.ith.sinica.edu.tw/)
 - [Museum Nasional Taiwan: Pameran Khusus Budaya Arsitektur Taiwan](https://www.ntm.gov.tw/)
