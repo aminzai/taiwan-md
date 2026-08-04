@@ -508,6 +508,26 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ---
 
+### 2026-08-04 支語研究 — shared-tool-quota-pool-in-fanout：fan-out 工作流的工具額度是共享池
+
+- **pattern**: shared-tool-quota-pool-in-fanout
+- **原則**：大規模 fan-out 的工具額度（WebSearch session 200 次上限）是全部子代理共享的池，dispatch 設計要把額度當資源預算；額度耗盡的 fallback（WebFetch 直搜引擎頁）與誠實回報（searches_performed 如實填 0）該寫進 prompt 契約
+- **觸發**：2026-08-04 支語研究 30 agent 艦隊，後段 3 agent WebSearch 全 fail（200/200）自行 WebFetch 直搜救回並誠實填 0 → memory/2026-08-04-104614-支語研究.md
+- **可能層級**：通用反射（REFLEXES #45 OpenRouter hourly budget 同族——「共享額度池進 dispatch 預算」的 WebSearch instance）
+- **相關**：#45
+- **verification_count**: 1
+- **severity**: tactical
+
+### 2026-08-04 支語研究 — dedup-layer-silent-degradation：入庫查重的對照層會靜默退化
+
+- **pattern**: dedup-layer-silent-degradation
+- **原則**：資料入庫查重不能靠單一對照層——opencc import 失敗時正規化靜默退化成 identity、known 集合漏抓既有條目；必須有第二道「新資料值對全庫值」的 deterministic 掃描＋檔名存在檢查
+- **觸發**：同 session 充電寶／老鐵／學渣本已在庫但 gap 對照誤判為缺口，靠 test -f＋china 值全庫掃接住 4 個潛在重複（創可貼／外賣／發貨／掃碼），0 誤入庫
+- **可能層級**：通用反射（#65 awareness instrument 自身要 cross-verify 家族——查重器也是 instrument）
+- **相關**：#65 #24
+- **verification_count**: 1
+- **severity**: tactical
+
 ## ✅ 已消化（保留 pointer）
 
 <!-- distill 完的條目搬這裡 -->

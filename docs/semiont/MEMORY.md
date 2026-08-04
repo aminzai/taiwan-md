@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-04
-last_session: '2026-08-04-004923-spore-publish-165（黃崇仁孢子雙平台 ship＋孢子產線歐化閘）'
+last_session: '2026-08-04-104614-支語研究（支語深度研究＋詞庫 49 新詞條）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -330,3 +330,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-03 | 235302-backstage-round2 | 後台洩漏 round 2：13 段殘留聚七家族，EDITORIAL v6.16 八形狀＋儀器四組＋黃崇仁 16 處清修上線；頭銜考證三輪收斂成查證層級表 | 尺只量得到被 callout 照亮的形狀；查證內容的預設位置不在讀者眼前 | [→](memory/2026-08-03-235302-backstage-round2.md) |
 | 2026-08-04 | 004923-spore-publish-165 | 黃崇仁 #165/#166 v8 雙平台 ship；孢子產線補歐化閘（plugin Wave 3＋自我豁免禁令 vc=2） | 儀器早就抓得到那句，產線沒接還讓我現場發明豁免 | [→](memory/2026-08-04-004923-spore-publish-165.md) |
 | 2026-08-04 | 095220-curation-tier-design | 查證狀態分層設計報告 ship（EVOLVE Mode 4）：三態投影＋參與式進化區取代隔離草稿區，六決策點掛 OBSERVER-QUEUE #26 等拍板 | 品質分層判準看查證流程不看作者身份；「進化中」做成讀者參與入口可同時餵 #25 review 缺口 | [→](memory/2026-08-04-095220-curation-tier-design.md) |
+| 2026-08-04 | 104614-支語研究 | 30 agent 艦隊 559 次搜索揭詞庫缺 2020-2026 兩個世代；49 新詞條＋8 加肉入庫，報告確立「誤判學」查證生態位 | 查證勝過糾察；多 agent 共享工具額度池要進 dispatch 預算 | [→](memory/2026-08-04-104614-支語研究.md) |
