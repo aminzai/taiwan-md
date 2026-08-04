@@ -2,9 +2,7 @@
 title: 'Taiwan’s Climate Crisis and Net-Zero Transition: On the Day the Maanshan Nuclear Plant Referendum Failed, the Choices Set by Physical Limits Had Only Just Begun'
 description: 'The August 23, 2025 referendum on extending the Maanshan Nuclear Power Plant: 4.34 million yes votes, 74% in favor, but turnout of 29.53% fell short of the threshold. The referendum failed; the next day Lai Ching-te set out three principles, and seven months later, on March 27, 2026, Taipower submitted its life-extension application to the Nuclear Safety Commission. With 98% of energy imported, NT$9 trillion for net zero, a geothermal target of 200 MW but only 7.4 MW built, the world’s seventh-largest installed offshore wind capacity, the Onkalo final repository, and TerraPower’s fourth-generation nuclear power, Taiwan’s energy question has never been a political question. It is a question of physical limits.'
 date: 2026-05-19
-author: 'Taiwan.md'
 category: 'Nature'
-subcategory: '保育與環境'
 tags:
   [
     'Climate Change',
@@ -21,19 +19,21 @@ tags:
     'Lanyu',
     'Extreme Weather',
   ]
+subcategory: '保育與環境'
 readingTime: 26
+author: 'Taiwan.md'
+featured: true
 lastVerified: 2026-05-19
 lastHumanReview: true
-featured: true
-translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:d698e900aeaedc49'
-sourceBodyHash: 'sha256:36525caaf207b712'
-translatedAt: '2026-06-16T17:03:25Z'
 image: '/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp'
 imageCredit: 'M. Weitzel (Wikimedia Commons)'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg'
+translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
+sourceCommitSha: '2da8b92f2'
+sourceContentHash: 'sha256:387f185bb5291526'
+sourceBodyHash: 'sha256:bdaf6e0f03c1164f'
+translatedAt: '2026-08-04T10:41:42.484764+00:00'
 ---
 
 # Taiwan’s Climate Crisis and Net-Zero Transition: On the Day the Maanshan Nuclear Plant Referendum Failed, the Choices Set by Physical Limits Had Only Just Begun
@@ -281,40 +281,42 @@ The 2024 _National Climate Change Science Report_, led by Hsu Huang-hsiung, stat
 
 For a country of 23 million people, Taiwan’s carbon emissions are disproportionately large: in terms of fossil-fuel CO₂ emissions, annual emissions are about 280 million metric tons, about 11.7 metric tons per person, placing Taiwan among the world’s higher emitters; depending on database and statistical definitions, its ranking is around the global top 20-plus[^8]. Emissions are highly concentrated in energy use and power supply, with the energy sector accounting for the largest share; the power generation mix remains the core of decarbonization pressure. The root of the problem lies in electricity generation: in Taiwan’s 2024 generation mix, gas accounted for about 42.4%, coal about 39.3%, gas surpassed coal for the first time, renewables about 11.6%, and nuclear about 4.2%[^20]. **This is still a highly fossil-fuel-dependent energy system, and Taiwan imports 98% of its energy. Energy security and the climate crisis are the same question**.
 
-## Democracy and Physics in Parallel
+## The Parallel of Democracy and Physics
 
-On the evening of August 23, 2025, the Maanshan referendum pushed every contradiction in this question onto the vote-counting screen.
+The evening of the August 23, 2025, nuclear third plant referendum pushed all the contradictions of this issue onto the ballot counting screens.
 
-74% in favor, 29.53% turnout, threshold not met, Taipower’s March 2026 submission, restart as early as 2028. At the same time: 97,672 barrels on Lanyu, 50 years for Finland’s Onkalo, geothermal power 27 times short, marine energy still at 100 kW, fourth-generation nuclear not until 2045. Every number asks: **Can the speed of democracy keep up with the speed of physics**?
+74% in favor, 29.53% voter turnout, failed to meet the threshold, Taipower submitting applications in March 2026, earliest restart in 2028. Simultaneously: 97,672 barrels in Lanyu, Finland's Onkalo taking 50 years, a 27-fold gap in geothermal energy, marine energy still at 100 kW, and fourth-generation nuclear power not arriving until 2045. Every figure asks the same question: **Can the speed of democracy keep up with the speed of physics?**
 
-| Democratic timeline                          | Physical timeline                                           |
-| -------------------------------------------- | ----------------------------------------------------------- |
-| 2025/08/23 referendum vote count             | Lanyu opened in 1982 and may still be storing waste in 2057 |
-| 2025/08/25 three-principles press conference | Nuclear waste isolation for 100,000 years                   |
-| 2026/03/27 Taipower submission               | Finland spent 50 years on a final repository                |
-| 2028 earliest possible restart               | Geothermal power 27 times short                             |
-| 2050 net-zero target                         | Marine energy still at the 100 kW trial stage               |
+| Democratic Timeline                          | Physical Timeline                                    |
+| -------------------------------------------- | ---------------------------------------------------- |
+| 2025/08/23 Referendum results                | Lanyu activated in 1982, may still be active in 2057 |
+| 2025/08/25 Three Principles Press Conference | Nuclear waste isolation requires 100,000 years       |
+| 2026/03/27 Taipower submits application      | Finland's final repository took 50 years             |
+| 2028 Earliest restart                        | 27-fold gap in geothermal energy                     |
+| 2050 Net-zero target                         | Marine energy still in 100 kW testing phase          |
 
-No one knows whether NT$9 trillion can buy a different future. But we are already beginning to see the consequences of not spending that money: Hsu Huang-hsiung’s 2060 without winter, Morakot’s 2,884 millimeters, the rolling rationing of May 13, the rupture of the algal reef referendum, and Lanyu’s 44-year wait.
+No one knows if 9 trillion TWD can buy a different future. But we are already beginning to see the consequences of not spending this money: Hsu Huang-hsiung’s 2060 with no winter, 2,884 mm from Typhoon Morakot, the rotating power outages of May 13, the division caused by the algal reef referendum, and Lanyu's 44-year wait.
 
-[PanSci reports](https://pansci.asia/archives/367417), citing industry consensus, that “**the world’s fastest-moving final repository is Finland’s Onkalo project, which received a trial operation permit in August 2024. The project has been planned since the 1970s and took nearly half a century to reach the trial operation stage**”[^29]. Taiwan has not even chosen a site for its final repository. Even if Maanshan restarts in 2028, every new fuel rod produced during that restart period will still need somewhere to go.
+[PanSci reports](https://pansci.asia/archives/367417), citing industry consensus, that "**the fastest-moving final repository in the world is Finland's Onkalo project, which obtained its trial operation permit in August 2024. This project began planning in the 1970s and took nearly half a century to reach this stage of trial operation**"[^29]. Taiwan has not even decided on a site for its final repository. Even if the third nuclear plant restarts in 2028, every new fuel rod produced during the restart period will still need a place to be stored.
 
-Lanyu’s 97,672 barrels will not disappear because a referendum passes or fails. They are there now, will very likely still be there in 2029, and will still be there in 2057 if relocation misses its deadline again.
+The 97,672 barrels in Lanyu will not disappear because a referendum passes or fails. They are there now, they will likely still be there in 2029, and they will still be there in 2057 (if the relocation plan fails again).
 
-✦ **On August 23, 2025, the referendum failed. On March 27, 2026, Taipower submitted the application anyway. Between these two dates, the physical limits did not change once. What changed was whether we are willing to acknowledge that Taiwan, with 98% of its energy imported, is lining up to face every physical limit that no one wants to face.**
+✦ **On August 23, 2025, the referendum failed. On March 27, 2026, Taipower submitted its application anyway. Between these two dates, the physical upper limit has not changed once. What has changed is whether we are willing to admit that this island, which relies on energy imports for 98%, is standing in line to face all the physical limits that no one wants to face.**
 
 ---
 
 **Further Reading**:
 
-- [Taiwan and the Nuclear Energy Debate](/en/society/taiwan-nuclear-debate) — This article addresses energy and physical limits; that article addresses the nuclear debate itself: forty years of anti-nuclear and pro-nuclear arguments, three referendums, and the social struggle over nuclear waste on Lanyu
-- [History of Taiwan’s Environmental Movement](/en/nature/taiwan-environmental-movement-history) — From anti-nuclear activism to anti-air-pollution movements, how the Tao people of Lanyu, Meinong’s anti-dam movement, and the algal reef referendum shaped today’s energy politics
-- [Taiwan’s Marine Pollution Governance and Conservation Challenges](/en/nature/marine-pollution-governance-and-conservation) — 80% coral bleaching at the Maanshan Nuclear Power Plant outlet, marine debris, and the ecological intersection of offshore wind
-- [Taiwan’s Hot Springs and Geothermal Energy](/en/nature/Taiwan Hot Springs and Geothermal Energy) — From the failure of Qingshui Geothermal in 1981 to its 2024 restart, how 30 years of geothermal silence formed
-- [Taiwan’s Environmental Justice and NIMBY Controversies](/en/society/taiwan-environmental-justice-nimby-conflicts) — Lanyu, the algal reefs, and Meinong: the distributive politics of energy transition costs
-- [Taiwan’s Industrial Transformation and Upgrading](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — From energy-intensive manufacturing to green energy industries, TSMC’s RE100, CBAM, and the energy ledger of Taiwan’s “sacred mountain protecting the nation”
-- [Taiwan’s Agricultural Modernization](/en/economy/taiwan-agricultural-modernization) — The agricultural transformation pressure and land-use conflicts behind agrivoltaics
-- [Plum Rain](/en/nature/meiyu-stagnant-front) — Local observations of climate change in “spring rain not arriving, plum rain concentrating”
+- [Taiwan and the Nuclear Debate](/en/society/taiwan-nuclear-debate) — While this article discusses energy and physical limits, that piece covers the nuclear debate itself: Forty years of anti-nuclear vs. pro-nuclear, three referendums, and the social struggle over Lanyu's nuclear waste.
+- [History of Taiwan's Environmental Movement](/en/nature/taiwan-environmental-movement-history) — From anti-nuclear to anti-air pollution: How the Yami people of Lanyu, the anti-reservoir movement in Meinong, and the algal reef referendum shaped today's energy politics.
+- [Marine Pollution Governance and Conservation Challenges in Taiwan](/en/nature/marine-pollution-governance-and-conservation) — 80% coral bleaching at the third nuclear plant's outlet, marine waste, and the ecological intersection with offshore wind power.
+- [Taiwan Hot Springs and Geothermal Energy](/en/nature/Taiwan Hot
+  Springs and Geothermal Energy) — From the failure of Qingshui geothermal in 1981 to its restart in 2024: How 30 years of geothermal silence formed.
+- [Taiwan Environmental Justice and NIMBY Conflicts](/en/society/taiwan-environmental-justice-nimby-conflicts) — Lanyu, algal reefs, Meinong: The politics of distributing the costs of energy transition.
+- [Industrial Transformation and Upgrading in Taiwan](/en/economy/industrial-transformation-from-manufacturing-to-innovation) — From high-energy manufacturing to green industries: TSMC's RE100, CBAM, and the energy account of the "Silicon Shield."
+- [Street Trees in Taiwan](/lifestyle/台灣行道樹) — The position and timescale of street shade as urban heat island adaptation: Trees need at least ten years to grow enough to provide shade—the one element of adaptation on this timeline that cannot wait.
+- [Modernization of Taiwan's Agriculture](/en/economy/taiwan-agricultural-modernization) — The pressures of agricultural transformation and land-use conflicts behind the symbiosis of agriculture and electricity.
+- [Meiyu (Plum Rain)](/en/nature/meiyu-stagnant-front) — Local observations of climate change: "Spring rains fail to arrive, Meiyu becomes concentrated."
 
 ## Image Sources
 

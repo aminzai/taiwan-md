@@ -2,38 +2,36 @@
 title: "Malayan Night Heron: A Birdwatcher's Dream Species, the Campus's Big Dumb Bird"
 description: "In 4,000 bird records compiled by the Chinese Wild Bird Federation between 1985 and 1992, the Malayan Night Heron appeared in just 25 — listed as a rare resident in field guides. Three decades later, it can be seen every day on NTU's Royal Palm Boulevard and in Daan Forest Park. The popular explanation is that 'it became unafraid of people,' but Hsiao-Wei Yuan's ringing research at NTU since 2010 points to a different answer: Taiwan's densely forested campuses and unsprayed lawns happen to replicate the bird's original low-elevation forest niche. The bird didn't change. The land did."
 date: 2026-04-30
-tags:
-  - 'taiwan ecology'
-  - 'urban birds'
-  - 'malayan night heron'
-  - 'big dumb bird'
-  - 'citizen science'
 category: 'Nature'
+tags:
+  [
+    'taiwan ecology',
+    'urban birds',
+    'malayan night heron',
+    'big dumb bird',
+    'citizen science',
+  ]
 subcategory: 'Wildlife'
 author: 'Taiwan.md Contributors'
-readingTime: 8
 featured: false
 lastVerified: 2026-04-30
 lastHumanReview: false
-researchReport: reports/research/2026-04/黑冠麻鷺.md
+researchReport: 'reports/research/2026-04/黑冠麻鷺.md'
 image: '/article-images/nature/malayan-night-heron-taipei-foraging-2010.webp'
 imageCredit: 'Dr. Raju Kasambe'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Malayan_Night_Heron_(Gorsachius_melanolophus),_Taipei_Taiwan.jpg'
+readingTime: 8
 sporeLinks:
-  - id: 53
-    platform: 'threads'
-    date: '2026-04-30'
-    url: 'https://www.threads.com/@taiwandotmd/post/DXwjz-nk9Iq'
-  - id: 54
-    platform: 'x'
-    date: '2026-04-30'
-    url: 'https://x.com/taiwandotmd/status/2049854898108522575'
+  [
+    "{'id': 53, 'platform': 'threads', 'date': '2026-04-30', 'url': 'https://www.threads.com/@taiwandotmd/post/DXwjz-nk9Iq'}",
+    "{'id': 54, 'platform': 'x', 'date': '2026-04-30', 'url': 'https://x.com/taiwandotmd/status/2049854898108522575'}",
+  ]
 translatedFrom: 'Nature/黑冠麻鷺.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:4926f151d268c5db'
-sourceBodyHash: 'sha256:215f7a81312f6fac'
-translatedAt: '2026-06-16T17:11:47Z'
+sourceCommitSha: '2da8b92f2'
+sourceContentHash: 'sha256:74ac37cae326eaa1'
+sourceBodyHash: 'sha256:9c1e23df6047812e'
+translatedAt: '2026-08-04T11:31:49.944797+00:00'
 ---
 
 # Malayan Night Heron: A Birdwatcher's Dream Species, the Campus's Big Dumb Bird
@@ -115,19 +113,21 @@ PTS's "Our Island" broadcast episode 1061 on June 29, 2020, [《我們與黑冠�
 
 Expansion is not necessarily adaptation.
 
-From a rare resident in the late 1980s to a campus fixture after the 2010s, the Malayan Night Heron appears to have conquered the city — but what it depends on is a city that happened to be built to resemble low-elevation forest: dense camphor trees and banyans, unsprayed lawns, a breeding environment free of predators, and a monopoly on earthworm resources. Remove any one of these conditions (roadkill, rodenticide, habitat loss), and that over-90% breeding success rate will fall back.
+From a rare migratory visitor in the late 1980s to a campus regular since the 2010s, the Malayan Night Heron appears to have conquered the city. However, its success relies on an urban environment that has been inadvertently transformed into a low-altitude forest—dense camphor and banyan trees, pesticide-free lawns, breeding grounds free of natural predators, and exclusive access to earthworm resources. If any single condition is removed (roadkill, rodenticides, habitat loss), its breeding success rate, currently over 90%, will plummet.
 
-So the next time you see it standing stock-still on the Royal Palm Boulevard, remember: it is not "unafraid of you." It thinks you cannot see it — deploying an instinct unchanged for tens of thousands of years. The city quietly became like its original home. It did not become less of a forest bird.
+So, the next time you see one standing motionless along Coconut Grove Avenue, remember that it is not "unafraid of you." It simply thinks you cannot see it—relying on instincts unchanged for tens of thousands of years. It is the city that has quietly become more like its original home, not that the bird has ceased to be a forest bird.
 
-Swinhoe wrote "rare" in Tamsui 160 years ago. Today we hear the deep "whooo, whooo, whooo" call every day in Daan Forest Park. What happened in between is the story of how an island managed to preserve a small patch of moist forest understory between its concrete.
+160 years ago, Robert Swinhoe wrote the word "rare" in Tamsui. Today, we hear the low, guttural "wuh, wuh, wuh" calls every day in Da'an Forest Park. What happened in between is the story of how an island preserves a small, moist understory amidst the concrete.
 
-**Further reading:**
+**Further Reading**:
 
-- [Taiwan Bird Window Collision Issue](/nature/taiwan-bird-window-collision) — Malayan Night Heron roadkill is just one facet of urban bird risks; glass curtain walls cause bird deaths at a far more invisible scale each year
-- [The Ornithology of Formosa](/en/nature/the-ornithology-of-formosa) — Swinhoe's 1865 entry "Malayan Night Heron — rare" in Tamsui is a founding note in this island's ornithological history
-- [Taiwan Forest Ecosystems](/en/nature/taiwan-forest-ecosystems) — The Malayan Night Heron's original low-elevation broadleaf forest niche, the point of comparison for understanding its urbanization
-- [Formosan Rock Macaque](/en/nature/formosan-rock-macaque) — Another case of wildlife entering the human activity zone, the inverse of the Malayan Night Heron expansion: humans keep encountering it on roads
-- [Endemic Species](/en/nature/endemic-species) — The Malayan Night Heron is not a Taiwan endemic, but its urban population expansion in Taiwan is globally unique in scale
+- [Bird Window Collision Issues in Taiwan](/en/nature/bird-window-collision-taiwan) — Roadkill of the Malayan Night Heron is just one facet of urban bird risks; the scale of bird deaths caused by glass curtain walls annually is even more invisible.
+
+* [The Ornithology of Formosa](/en/nature/the-ornithology-of-formosa) — Swinhoe's 1865 note in Tamsui that "Malayan Night Herons are rare" marks a foundational moment for the island's ornithology.
+* [Taiwan Forest Ecosystems](/en/nature/taiwan-forest-ecosystems) — The original low-altitude broadleaf forest habitat of the Malayan Night Heron; understanding its urbanized counterpart.
+* [Formosan Rock Macaque](/en/nature/formosan-rock-macaque) — Another case of wildlife entering human activity zones, though in reverse to the Malayan Night Heron's expansion: humans are constantly encountering them on the road.
+* [Endemic Species](/en/nature/endemic-species) — While the Malayan Night Heron is not endemic to Taiwan, the scale of its urban population expansion in Taiwan is unique globally.
+* [Street Trees in Taiwan](/lifestyle/台灣行道樹) — The mature camphor and banyan street tree populations established since the 1990s—strips of low-altitude broadleaf forest laid out amidst the concrete—represent the other side of the Malayan Night Heron's urban habitat.
 
 ## Image Credits
 

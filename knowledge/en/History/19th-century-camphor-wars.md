@@ -1,180 +1,184 @@
 ---
-title: "The 19th-Century Camphor Wars: The World's Desired Fragrance, Hidden in Indigenous Mountains"
-description: "In 1864, Robert Swinhoe wrote three numbers at Tamsui: 6, 16, 28. A picul of camphor traveled from its source to Hong Kong and its price almost quintupled. The difference ended up in the magistrate's pockets — and in the mountains belonging to indigenous peoples."
+title: 'The 19th-Century Camphor War: The Scent the World Craved was Hidden in Indigenous Mountains'
+description: "In 1864, Swinton wrote three numbers in Tamsui: 6, 16, and 28. A load of camphor traveled from its source to Hong Kong, its price increasing nearly fivefold. The difference went into the Daotai's pocket—and the mountains of the Indigenous peoples."
 date: 2026-04-25
-category: History
-subcategory: '殖民與帝國'
+category: 'History'
 tags:
-  - 'camphor'
-  - '1860 port opening'
-  - 'Qing dynasty rule'
-  - 'British merchants'
-  - 'indigenous peoples'
-  - 'global trade'
-  - 'forestry'
-  - '19th century'
+  [
+    'Camphor',
+    '1860 Opening of Ports',
+    'Qing Dynasty Rule',
+    'British Merchants',
+    'Indigenous Peoples',
+    'Global Trade',
+    'Forestry',
+    '19th Century',
+  ]
+subcategory: '殖民與帝國'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-04-25
 lastHumanReview: false
-researchReport: reports/research/2026-04/19世紀的樟腦戰爭.md
+researchReport: 'reports/research/2026-04/19世紀的樟腦戰爭.md'
 translatedFrom: 'History/19世紀的樟腦戰爭.md'
-sourceCommitSha: '01d9d0e7'
-sourceContentHash: 'sha256:1cb263ad912afc83'
+sourceCommitSha: '2da8b92f2'
+sourceContentHash: 'sha256:04245348572d70d0'
 sourceBodyHash: 'sha256:308ab8066ca9a9d0'
-translatedAt: '2026-05-01T12:21:52+08:00'
+translatedAt: '2026-08-04T18:40:58+08:00'
 ---
 
-> **30-Second Overview**: After Taiwan opened its ports in 1860, camphor transformed from a traditional medicine into a global industrial raw material: billiard balls, false teeth, film stock, and smokeless gunpowder all required it. But every camphor tree on the island grew in indigenous hunting grounds. In 1868, British warships shelled Anping harbor, forcing the Qing court to abandon the camphor monopoly — an event known as the Camphor War. The shells targeted a tax ledger that had sustained Qing finances for forty years. The real price was paid over the following four decades: Liu Ming-chuan's barrier lines (隘勇線), the Japanese colonial camphor monopoly bureau, and the Tapao tribe's (大豹社) population collapsing from over a thousand to around three hundred by 1906. A sentence Swinhoe wrote in 1864 has been read for over a century: "The Chinese can only penetrate the mountains occupied by the more tractable tribes."
+> **30-Second Overview**: After the opening of Taiwan's ports in 1860, camphor transformed from a traditional Chinese medicinal ingredient into a global industrial raw material: billiard balls, dentures, motion picture film, and smokeless gunpowder all required it. However, the island's camphor trees grew within Indigenous hunting grounds. In 1868, British warships bombarded Anping Port, forcing the Qing government to abandon its state monopoly on camphor—an event historically known as the Camphor War. The cannonballs targeted a tax bill that had sustained Qing finances for forty years. The true cost was paid in the following four decades: Liu Ming-chuan's _aoyong_ (frontier militia) lines, the Japanese colonial Camphor Monopoly Bureau, and the 1906 decline of the Da-pao tribe's population from over a thousand to just over three hundred. A single line written by Swinton in 1864 has been read for over a century: "The Chinese can only enter the mountainous areas occupied by more docile tribes."
 
 ## The Equation
 
-February 6, 1864. Tamsui. British Consul Robert Swinhoe wrote three numbers in his consular report: **6, 16, 28**.
+February 6, 1864, Tamsui. The British Consul, Swinton, wrote three numbers in his consular report: **6, 16, and 28**.
 
-One picul of camphor (approximately 60 kilograms) cost 6 dollars at its source. The Taiwan tao-tai (道台, circuit intendant) purchased it from producers at 16 dollars. That same picul, transported to Hong Kong, sold for 28 dollars[^1].
+A load of camphor (approximately 60 kg) cost $6 at the source. The price at which the Taiwan _Daotai_ (provincial official) purchased it from producers was $16. When that same load reached Hong Kong, it sold for $2\_,[8][^1].
 
-The nearly fivefold markup did not leave a single coin in the hands of those who felled the trees. It fell into "the pocket of the tao-tai" — Swinhoe's exact words; he used the word _monopolist_. In the same report he added: "The annual produce of camphor in the district of Tamsui amounts to about 6,000 piculs."[^1]
+The nearly fivefold difference in price did not leave a single cent in the hands of those harvesting the camphor trees. It fell into "the Daotai's pocket"—Swinton's original wording; he used the term _monopolist_. In the same report, he added: "The area around Tamsui produces approximately 6,000 loads of camphor annually"[^1].
 
-Behind that astronomical figure of 6,000 piculs, an island was being slowly consumed by a tax ledger written in account books.
+Behind this astronomical figure of 6,000 loads, an entire island was being slowly consumed by a tax bill written in a ledger.
 
-And from 1860, that ledger became a world-class problem.
+And the problem with that tax bill became a global issue starting in 1860.
 
-## Whose Mountains
+## Whose Mountains?
 
-"The gigantic camphor trees from which the camphor is obtained are found throughout the mountains running north and south through Formosa." So Swinhoe wrote in the same article, "Formosa Camphor." "But, as the greater part of this range is in the possession of the aborigines, the Chinese can only penetrate to the parts occupied by the more tractable tribes bordering on Chinese territory."[^1]
+"Huge camphor trees capable of yielding camphor are spread across the mountains stretching north and south of Formosa." Swinton wrote in the same piece, "But, as most of these mountains are held by the Aborigines, the Chinese can only enter those mountainous areas which are adjacent to Chinese territory and occupied by more docile tribes."[^1]
 
-This sentence carries two layers. One is geographic fact: the Qing court's actual administrative control in 19th-century Taiwan extended only to the western plains and lower hills; the Central Mountain Range and the south were the "aboriginal boundary" (番界). The other is a prophecy: to enter the mountains to fell trees, the question of "whose mountains" had first to be addressed.
+This sentence carries two meanings. One is a geographical fact: in 19th-century Taiwan, the Qing government effectively governed only the western plains and low hills, while the Central Mountain Range and the southern reaches were the "Aboriginal Boundary." The other was a warning: to enter the mountains for timber, one first had to resolve the question of "whose mountains they were."
 
-The Qing court's method was bounty payments. In July 1864 at Su'ao, Swinhoe recorded that for "delivering the head of an aboriginal," one could collect 12 silver taels (about 4 pounds) from officials; by the year of his visit, the bounty had fallen to 4 silver taels (about 1 pound 6 shillings 8 pence)[^2].
+The Qing solution was bounties. In July 1864, Swinton recorded in Su'ao: originally, "delivering an Aborigine's head" could earn an official 12 silver taels (about £4); by the year he arrived, the bounty had dropped to 4 silver taels (about £1 6s 8d)[^2].
 
-Han Chinese camphor workers had a different approach. "They make a present to the chief of the tribe for permission to cut the trees," Swinhoe noted, "the best portion of the camphor trees being left for timber, the rest being cut into chips."[^1]
+The approach for Han Chinese camphor workers was different. "They would present a gift to the tribal chief to obtain permission to cut the camphor trees," Swinton noted. "They would leave the best parts of the tree to be made into timber, while the remainder was cut into chips."[^1]
 
-"Gift-giving" was a transactional language. It presupposed that the mountains had owners. But this language could only hold as long as camphor remained a scarce commodity — once the world began demanding it in quantity, the gifts gave way to cannon fire.
+"Gift-giving" is a language of transaction. It presupposes that the mountains have owners. But this language could only sustain an era when camphor was still a rare commodity—once the world began to demand it in mass quantities, gifts turned into cannonballs.
 
 ## The Iron Pot
 
-The method for distilling camphor — Swinhoe saw it in 1864, William Pickering saw it in 1868, and later Japanese government surveyors saw it too. In thirty years it barely changed.
+The method of distilling camphor, which Swinton witnessed in 1864 and W.A. Pickering witnessed in 1868, was also seen later by investigators from the Japanese Governor-General's Office. It remained almost unchanged for thirty years.
 
-"The chips are placed in iron pots, and boiled, another iron pot being inverted on the top of them; the sublimated vapour is the desired result."[^1] Pickering's 1898 memoir put it more plainly: "The chips were boiled in iron pots, one inverted on another, and the sublimated vapour was the desired result."[^3]
+"The chips are boiled in iron pots, with another iron pot inverted on top; the sublimated vapor is the desired result."[^1] W.A. Pickering's 1898 memoir describes it more plainly: "The chips were boiled in iron pots, one inverted on another, and the sublimated vapour was the desired result."[^3]
 
-The camphor was then packed into large barrels, with holes at the bottom to allow the camphor oil to slowly seep out — used as a folk medicine for rheumatism[^3]. Solid camphor was bagged in picul-weight sacks and transported to port.
+Next, the camphor was packed into large barrels with holes at the bottom to allow the camphor oil to slowly seep out—that oil served as a finished medicine for treating rheumatism[^3]. The solid camphor was then packed into sacks, one load per sack, and transported to the ports.
 
-This primitive mountain operation sustained the headwaters of a global supply chain. In March 1856, a 19-year-old Swinhoe arrived for the first time at Xiangshan harbor outside Hsinchu. Stepping off the boat, the first thing he noticed was "the pleasant smell of camphor diffused through the atmosphere."[^4] Local residents took him to "the establishment of a camphor merchant," where the firm's silversmith told him he was purchasing camphor for "a brigantine riding at anchor outside the village amid heavy breakers … the captain's name was Crosby."[^4]
+This primitive mountain operation underpinned the source of a global supply chain. In March 1856, 19-year-old Swinton arrived at Xiangshan Port off the coast of Hsinchu for the first time; the first thing he noticed upon disembarking was "the scent of camphor drifting in the air"[^4]. Local residents took him to a "camphor monopolist's firm," where the firm's silver trader told him he was purchasing camphor for "a two-masted sailing ship anchored outside the village, rocking violently in the heavy waves... the captain's name is Cosby"[^4].
 
-That vessel was the American firm Williams & Co.'s merchant ship _Frolic_. The Xiangshan of 1856 was a crack in the Qing monopoly system — smuggled camphor boarded ships here, bypassing the tao-tai's accounts, transported to Hong Kong, then on to Calcutta and London[^1][^4].
+That ship was the _Florica_, a merchant vessel of the American firm W. Smith & Co. In 1856, Xiangshan represented a crack in the Qing monopoly system—smuggled camphor was loaded here, bypassing the _Daotai_'s ledgers, sent to Hong Kong, and then redistributed to Calcutta and London[^1][^4].
 
-The existence of that crack made the 1860 port opening seem overdue. What the opening had to do went far beyond patching this crack: the entire wall needed to come down.
+The existence of these cracks made the 1860 opening of the ports seem late. The task required by the opening of the ports went far beyond mending this crack: the entire wall had to be torn down.
 
-## The Shells
+## Cannonballs
 
-In 1868, American demand for camphor surged dramatically.
+In 1868, demand for camphor in the American market surged.
 
-"There had gradually arisen a great demand for this article in America, and prices had gone up to a great height in consequence," Pickering wrote in his 1898 memoir[^5]. Historians would later clarify: this was because American inventor John Wesley Hyatt was experimenting with using camphor to manufacture a new material called celluloid — which could make billiard balls, false teeth, piano keys, and later film stock[^6].
+"There had gradually arisen a great demand for this article in America, and prices had gone up to a great height in consequence," Pickering wrote in his 1898 memoir[^5]. Historians later clarified: this was because the American inventor John Wesley Hyatt was experimenting with using camphor to create a new material called celluloid, which could be used for billiard balls, dentures, piano keys—and later, motion picture film[^6].
 
-The British firm Elles & Co.'s Anping representative, William Alexander Pickering (who styled himself "Bik Ki-lin" in Chinese), received orders from company headquarters in Amoy: enter the camphor trade. They set up a warehouse at Wuqi (present-day Taichung Port, which Pickering spelled "Go-ch'e" in his original text) and partnered with the local Ts'oa clan to purchase camphor[^5].
+W.A. Pickering (who referred to himself as "Bi Qilin"), the representative of the British firm Elles & Co. stationed in Anping, received instructions from their Xiamen headquarters: enter the camphor trade. They established warehouses in Wuchi (now Taichung Port; written as _Go-ch'e_ in Pickering's original text) and partnered with the local Tsai clan for procurement[^5].
 
-The tao-tai refused to let go. From spring 1868 onward, one incident followed another. In March (some sources say July; sources conflict[^7]), Tait & Co. manager J.D. Hardie was assaulted by Qing agents while traveling from Takao to Tainan. Subsequently, camphor Pickering had purchased at Wuqi "was plundered to the value of 6,000 dollars in the clan war"[^5]. Pickering went to investigate; Tainan Qing officials refused to sign travel papers; he went around by sea to reach Wuqi, only to find the warehouse surrounded by the Tan clan — the Ts'oa clan was Elles & Co.'s partner, and the Tan clan had been privately armed by the tao-tai to oppose the Ts'oa[^5].
+The _Daotai_ refused to let go. From the spring of 1868, incidents occurred one after another. In March (some sources say July[^7]), J.D. Hardie, manager of the British firm Tait & Co., was assaulted by Qing officials while traveling from Takao to Tainan. Subsequently, "our camphor that was ready for shipment was plundered to the value of 6,000 dollars" during ethnic clashes involving Pickering's acquisitions in Wuchi[^5]. When Pickering went to investigate, Tainan Qing officials refused to sign transit permits; he traveled by sea to Wuchi, only to find the warehouses under siege by the Chen clan—the Tsai clan was a partner of Elles & Co., and the Chen clan had been privately armed by the _Daotai_ to oppose them[^5].
 
-> "Our seven-shooter rifles and two field guns," Pickering wrote afterward in his memoir, "succeeded in repulsing the enemy for a time."[^5]
+> "Our seven-shot rifles and two naval guns," Pickering later wrote in his memoir, "successfully repelled the enemy for a moment"[^5].
 
-In May, U.S. Consul at Amoy Charles Le Gendre sailed to Takao aboard the gunboat _Aroostook_, joining British Consul at Anping John Gibson and the Customs Commissioner to protest before Taiwan Taotai Liang Yuan-gui[^7].
+In May, Charles Le Gendre, the American Consul in Xiamen, arrived in Takao via the warship _Arustu_ from Xiamen, inviting John Gibson, the British Consul in Anping, and the Customs Superintendent to lodge a protest with Liang Yuan-gui, the Qing military commander of Taiwan[^7].
 
-Negotiations failed. On November 20, 1868, HMS _Bustard_ and HMS _Algerine_ arrived at Anping[^8]. On the afternoon of November 25, HMS _Algerine_ fired seven shells at the Anping fort. That night British troops landed; the defending Qing naval officer Jiang Guozhen swallowed poison and died[^7][^8]. Anping remained in British hands for five days.
+Negotiations were futile. On November 20, 1868, the British warships HMS _Bustard_ and HMS _Algerine_ arrived at Anping[^8]. At 4:00 PM on the 25th, HMS _Algerine_ fired seven cannon shells at the Anping Battery. That night, British troops landed; Jiang Guo-zhen, a deputy of the Qing naval command stationed there, committed suicide by swallowing medicine[^7][^8]. Anping remained in British hands for five days.
 
-On November 29, both sides signed the Camphor Convention: the camphor monopoly was abolished, the Lukang subprefect and Fengshan magistrate were dismissed, an indemnity of over 17,000 silver dollars was paid, and the rights of foreign missionaries were recognized[^7]. Tainan gentry members, led by Huang Jingqi, assembled 40,000 silver dollars as a guarantee[^7].
+On November 29, both parties signed the "Camphor Treaty": abolishing the state monopoly on camphor, dismissing the officials of Lukang and Fengshan, paying an indemnity of over 17,000 silver dollars, and recognizing the freedom of foreign missionaries[^7]. Tainan gentry, coordinated by Huang Jing-chi, raised 40,000 silver dollars as a security deposit[^7].
 
-British casualties: zero dead. Qing casualties: 11 dead, 6 wounded[^8].
+The British suffered zero deaths; the Qing forces suffered 11 deaths and 6 injuries[^8].
 
 ## After the Treaty
 
-The 1868 bombardment looked like an ending, but was actually a transition.
+The 1868 bombardment seemed like an end, but it was actually merely a transition.
 
-Two months after the shelling, Gibson was removed from his post by the new British government — London judged he had exceeded his authority in using force[^7][^8]. Pickering returned to Tainan and continued in the camphor trade. In the seventeen years between the Camphor Convention and Taiwan becoming a province of the Qing empire in 1885, foreign merchants took over camphor exports, and Taiwan's camphor entered the global industrial chain.
+Two months after the bombardment, Gibson was removed from his post by the newly appointed British government—London believed he had exceeded his authority by using force[^7][^8]. Pickering returned to Tainan and continued his camphor business. In the 17 years between the Camphor Treaty and the Qing establishment of Taiwan as a province in 1885, foreign merchants took over camphor exports, and Taiwan's camphor entered the global industrial chain.
 
-But the monopoly did not truly disappear. It merely changed location. In 1886, the first Taiwan Governor Liu Ming-chuan implemented a second camphor monopoly, establishing the "Camphor Bureau" (腦務局) as the monopoly organ, operating until 1890[^9]. The stated rationale was opening revenue streams for the treasury; the actual function was to reorganize the profiteering formerly in the tao-tai's hands into a modernized state-run system.
+But the monopoly did not truly disappear; it simply moved. In 1886, Taiwan's first Governor, Liu Ming-chuan, implemented a second camphor monopoly, establishing the "Camphor Bureau" as the monopoly agency, which operated until 1890[^9]. The public justification was to increase provincial revenue; the actual action was to reorganize the massive profits previously held by the _Daotai_ into a modernized state-run system.
 
-Alongside this system came "opening the mountains and pacifying the savages" (開山撫番). From 1886 to 1892, Liu Ming-chuan launched military campaigns against the Takoham (大嵙崁) Atayal groups of present-day Fuxing District, Taoyuan, known as the Dakekan Campaign[^10]. Telephone lines, landmines, barrier lines — the technology had upgraded. Camphor workers could now penetrate deeper into the mountains.
+Accompanying this system was the policy of "opening the mountains and pacifying the aborigines" (_kaishan fufan_). Between 1886 and 1892, Liu Ming-chuan launched military operations against the Atayal Daguquan groups (present-day Fuxing District, Taoyuan); this is historically known as the Daguquan Campaign[^10]. Telephone lines, landmines, _aoyong_ lines—the technology had upgraded. Only then could camphor workers venture deeper into the mountains.
 
-From 1891 to 1895, Taiwan's camphor exports accounted for 30 to 66 percent of global supply[^11].
+From 1891 to 1895, Taiwan's camphor exports accounted for 30% to 66% of the global supply[^11].
 
-By the early 20th-century peak, this share was estimated at nearly 70 percent[^12]. Billiard balls, false teeth, film stock, the plasticizer for smokeless gunpowder[^6] — more than half the world's industrial camphor came from this island. The price paid — which mountains were bleeding — Swinhoe had already written in 1864.
+By its peak in the early 20th century, this proportion is estimated to have approached 70%[^12]. Billiard balls, dentures, motion picture film, and the plasticizers for smokeless gunpowder[^6]—more than half of the world's industrial camphor came from this island. The cost was the bloodshed in those mountains, which Swinton had already written about in 1864.
 
-## The Barrier Line
+## The _Aoyong_ Lines
 
-After the Treaty of Shimonoseki in 1895, Taiwan changed rulers, but the logic of camphor did not.
+After the Treaty of Shimonoseki in 1895, Taiwan changed rulers, but the logic of camphor remained unchanged.
 
-On June 17, 1899, the Government-General promulgated the "Law for the Monopoly of Crude Camphor and Camphor Oil."[^13] Goto Shinpei's calculation: complete what Liu Ming-chuan had left unfinished — bring all camphor production, transport, and export under state control. The Government-General established the Camphor Monopoly Bureau in 1901[^14].
+On June 17, 1899, the Governor-General's Office promulgated the "Law for the Monopoly of Crude Camphor and Camphor Oil"[^13]. Gotō Shinpei's plan was to complete what Liu Ming-chuan had started—to bring all camphor production, transport, and export under state control. In 1901, the Governor-General's Office established the Camphor Monopoly Bureau[^14].
 
-In June 1900, conflict broke out between workers and the Tapao tribe (大豹社, Topa) in an area adjacent to the Dakekan camphor production zone[^15]. The cause recorded in Wikipedia is "workers sexually assaulting tribal women, triggering resistance" (this account comes from a single Chinese-language source; scholarly consensus remains to be clarified[^15]). From 1900 to 1906, Tapao paramount chief Watan Syat led his people in resistance to Japanese rule; after the fighting, Wikipedia records the tribe's population shrinking from over a thousand residents to just 25 households[^15].
+In June 1900, conflicts erupted between workers and tribes in the territory of the Da-pao (Topa) tribe, adjacent to the Daguquan camphor production areas[^15]. Wikipedia records the cause as "workers raping tribal women, sparking resistance" (this is a single Chinese source; historical consensus remains to be clarified[^15]). From 1900 to 1906, the Great Chief of the Da-pao, Wadan Xiecù, led his people in resistance against the Japanese; post-war records indicate the tribe's population plummeted from over a thousand residents to just 25 households[^15].
 
-Watan Syat's son, Losin Watan (Chinese name Lin Ruichang), later served as a provincial assemblyman and was executed on April 17, 1954 during the White Terror[^15].
+The son of Wadan Xiecù, Lexin Wadan (Chinese name Lin Rui-chang), later served as a provincial assemblyman and was executed by firing squad on April 17, 1954, due to a White Terror case[^15].
 
-From the shells at Anping harbor in 1868 to the mountains of Tapao in 1906 is one story told in different episodes. The world wanted camphor; camphor was in the mountains; people lived in the mountains. To obtain camphor, those people had first to be removed. The methods escalated from gifts, bounties, and treaties, all the way to barrier lines, landmines, and monopoly bureaus.
+From the cannonballs at Anping Port in 1868 to the mountains of Da-pao in 1906, it is the same story in different chapters. The world wanted camphor; the camphor was in the mountains; the mountains were inhabited. To get the camphor, one had to move the people. The methods escalated from gifts and bounties to treaties, then to _aoyong_ lines, landmines, and monopoly bureaus.
 
-"The Chinese can only penetrate to the parts occupied by the more tractable tribes" — when Swinhoe wrote that sentence in 1864, it was still a geographic observation. Looking back from 1906, it no longer was.
+"The Chinese can only enter the mountainous areas occupied by more docile tribes"—when Swinton wrote this in 1864, it was a geographical observation. Looking back from 1906, it was no longer so.
 
-## The Fragrance Disappears
+## The Vanishing Scent
 
-The most ironic coda to the story is that camphor itself vanished.
+The most ironic epilogue to this story is that camphor itself disappeared.
 
-Taiwan's camphor production was 1,037 metric tons in 1919; by 1921 it had fallen to only 589 metric tons[^16]. The camphor trees were still in the mountains; the cause of the decline was that German chemists had learned to synthesize camphor from turpentine. The celluloid industry's demand continued, but the raw material source shifted from Taiwan's mountains to German chemical factories.
+In 1919, Taiwan's camphor production was 1,037 metric tons; by 1921, it had dropped to only 589 metric tons[^16]. The camphor trees in the mountains remained; the cause of the decline was that German chemists learned to synthesize camphor using turpentine. The demand for celluloid continued, but the source of raw materials shifted from the mountains of Taiwan to chemical plants in Germany.
 
-After 1945, Taiwan's camphor industry gradually wound down. In the 1990s, the last camphor workshops went dark.
+After the post-war period of 1945, Taiwan's camphor industry gradually wound down. In the 1990s, the last camphor workshops ceased operations.
 
-Taiwan's 2026 chemical industry (CPC Corporation, Formosa Plastics, Chang Chun Petrochemical) has no direct corporate lineage to the 19th-century camphor industry. CPC was founded in 1946, inheriting Japanese petroleum assets[^17]; Formosa Plastics was founded by Wang Yung-ching in 1954, producing synthetic PVC, with no connection to camphor[^18].
+The Taiwanese chemical industry of 2026 (CPC, Formosa Plastics, Chang Chun Group) has no direct corporate lineage to the 19th-century camphor industry. CPC was established in 1946 by taking over Japanese petroleum assets[^17]; Formosa Plastics was founded by Wang Yung-ching in 1954, focusing on synthetic PVC, which has no connection to camphor[^18].
 
-But the context is there. Late 19th to early 20th-century camphor was Taiwan's first experience as "a key raw material supplier in the global industrial chain." The PVC from Formosa Plastics in the 1980s, the wafers from TSMC — that same position, filled with different raw materials. From natural camphor to synthetic plastics to semiconductors, Taiwan's role in the global economy began to take shape in this period.
+But the context remains. The camphor of the late 19th and early 20th centuries represents the first time in history that Taiwan became a "key supplier of raw materials for the global industrial chain." The PVC of Formosa Plastics in the 1980s, the wafers of TSMC—the same position has been filled with different materials. From natural camphor to synthetic plastics to semiconductors, Taiwan's role in global industry began to take shape during this era.
 
-The price also began accumulating in this period. Swinhoe's "the Chinese can only penetrate to the parts occupied by the more tractable tribes," written in 1864, can still be read in 2026 this way: behind every felled camphor tree, whose mountain was it. Every renamed tribe, every severed mountain path, and the ledger item missing from the invoices of the global chemical industry at the peak of Taiwan's camphor export era — it is all the same account.
+The cost also began to accumulate during this period. Swinton's 1864 writing that "the Chinese can only enter the mountainous areas occupied by more docile tribes" can still be read this way in 2026: behind every felled camphor tree is someone's mountain. Every renamed tribe, every severed mountain path, and the unrecorded entry on global chemical invoices during the peak of Taiwan's camphor exports—it is all part of the same ledger.
 
-The account has not been settled.
+The account remains unsettled.
 
 ---
 
 ## Further Reading
 
-- [Robert Swinhoe: When a Diplomat Became a Naturalist](/en/people/robert-swinhoe-naturalist) — The primary source provider of this article; "Formosa Camphor" from 1864 is the prehistory of the Camphor War
-- [Qing Dynasty Rule](/en/history/qing-dynasty-rule) — How the 1860 port opening restructured Taiwan's political economy
-- [Japanese Colonial Era](/en/history/japanese-colonial-era) — How the Camphor Monopoly Bureau and "pacification campaigns" continued the mountain policies of the late Qing
-- [Taiwan Forest Development History](/en/history/taiwan-forestry-history) — From camphor to cypress, the complete context of Taiwan's mountain forest exploitation
-- [Alishan: The Empire's Timber Station and Uyongu Yatauyungana's Mountain](/en/history/alishan-empire-forest-and-uongu-yatauyungana) — How timber extraction extended to Japanese-era Alishan and postwar White Terror
+- [Swinton: When a Diplomat Becomes a Naturalist](/en/people/robert-swinhoe-naturalist) — The provider of primary sources for this article; Swinton's 1864 "Formosa Camphor" is the preamble to the Camphor War.
+- [Qing Dynasty Rule](/en/history/qing-dynasty-rule) — How the opening of ports in 1860 restructured Taiwan's political and economic framework.
+- [Japanese Colonial Period](/en/history/japanese-colonial-era) — How the Camphor Monopoly Bureau and "opening the mountains and pacifying the aborigines" continued the forest policies of the late Qing era.
+- [History of Forest Development in Taiwan](/en/history/taiwan-forestry-history) — From camphor trees to cypress: the complete context of Taiwan's forest exploitation.
+- [Alishan: The Empire's Timberland and the High Schooler's Mountain](/en/history/alishan-empire-forest-and-uongu-yatauyungana)— How forestry exploitation extended to Alishan during the Japanese period and the post-war White Terror.
+- [National Taiwan Museum of History](/en/society/national-museum-of-taiwan-history) — A national-level third-tier institution that holds primary sources like Swinton's 1864 "Formosa Camphor" (NMTH collection).
+- [Taiwan Street Trees](/lifestyle/台灣行道樹) — The same camphor trees that were once globally contested raw materials in the mountains are now only required to provide shade on the streets: specifically, those lining the green tunnel in Jiji, Nantou.
 
 ---
 
 ## References
 
-[^1]: [Swinhoe, "Formosa Camphor," 1864](https://collections.nmth.gov.tw/) — National Taiwan History Museum collection, NMTH UUID `783700e8-8b0e-4eb6-83fb-53efb73de651`, Swinhoe's camphor trade survey published February 6, 1864, containing the three-tier price differential (6/16/28 dollars), annual Tamsui production of 6,000 piculs, and description of indigenous gift-giving to obtain felling permission.
+[^1]: [Swinton, "Formosa Camphor," 1864](https://collections.nmth.gov.tw/) — National Taiwan Museum of History (NMTH) UUID `783700e8-8b0e-4eb6-83fb-53ef73de651`; a camphor trade investigation report published on February 6, 1864, containing descriptions of the price difference ($6/16/28), the annual production of 6,000 loads in Tamsui, and obtaining cutting permits via gifts to Indigenous peoples.
 
-[^2]: [Swinhoe, "Additional Notes on Formosa," 1866](https://collections.nmth.gov.tw/) — NMTH UUID `8565270b-9f66-4288-905f-f4dcad0d45bf`, published 1866, recording observations from the July 1864 northeastern journey to Su'ao: the Qing government's original bounty of 12 silver taels per "aboriginal head," later reduced to 4 silver taels.
+[^2]: [Swinton, "Addendum to Formosa," 1866](https://collections.nmth.gov.tw/) — NMTH UUID `8565270b-9f66-4288-905f-f4dcad0d45bf`; published in 1866, recording observations from Su'ao in July 1864: the reduction of the bounty for "Aborigines' heads" from 12 silver taels to 4 silver taels.
 
-[^3]: [W.A. Pickering, _Pioneering in Formosa_, London: Hurst & Blackett, 1898, Chapter XVII](https://archive.org/details/cu31924023237898) — Pickering's memoir, Chapter XVII, "The Beginning of the Camphor War," describing the camphor distillation method, camphor oil as a traditional medicine, and Elles & Co.'s decision to enter the camphor trade.
+[^3]: [W.A. Pickering, _Pioneering in Formosa_, London: Hurst & Blackett, 1898, Chapter XVII](https://archive.org/details/cu31924023237898) — Pickering's memoir, Chapter XVII, "The Beginning of the Camphor War," describing camphor distillation, the use of camphor oil in traditional medicine, and the decision of Elles & Co. to enter the camphor trade.
 
-[^4]: [Swinhoe, "A Visit to Hiong-Kang on the Formosa Coast," 1856](https://collections.nmth.gov.tw/) — NMTH UUID `9363fe10-7487-4a99-91db-b77b2d9e8e59`, young translator Swinhoe's first visit to Xiangshan in March 1856, including "the central port, also called the camphor port," camphor priced at 9 dollars per bag, and the _Frolic_ smuggling scene.
+[^4]: [Swinton, "A Journey to Xiangshan on the Coast of Formosa," 1856](https://collections.nmth.gov.tw/) — NMTH UUID `9363fe10-7487-4a99-91db-b77b2d9e8e59`; records of 19-year-old translator Swinton's first visit to Xiangshan in March 1856, including mentions of "Zhonggang also known as Naogang," the sale price of 9 dollars per load, and the smuggling scene involving the _Florica_.
 
-[^5]: [W.A. Pickering, _Pioneering in Formosa_, Chapter XVII, pp. 202–219](https://archive.org/details/cu31924023237898) — Chapter XVII details Elles & Co.'s 1868 entry into the camphor trade, cooperation with the Ts'oa clan, armed conflict with the Tan clan, and the 6,000-dollar camphor plunder in full.
+[^5]: [W.A. Pickering, _Pione\_.ing in Formosa_, Chapter XVII, pp. 202-219](https://archive.org/details/cu31924023237898) — Chapter XVII details the 1868 entry of Elles & Co. into the camphor trade, partnership with the Tsai clan (Clan Ch'oa), armed conflict with the Chen clan (Clan Tan), and the $6,000 plunder of camphor.
 
-[^6]: [Wikipedia: Celluloid](https://zh.wikipedia.org/wiki/%E8%B5%9B%E7%92%90%E7%8F%9E) — John Wesley Hyatt patented celluloid in 1869; primary materials are nitrocellulose and camphor, used in billiard balls, false teeth, piano keys, and film stock.
+[^6]: [Wikipedia: Celluloid](https://zh.wikipedia.org/wiki/%E8%B5%9B%E7%92%90%E7%8F%9E) — John Wesley Hyatt obtained the patent for celluloid in 1869; its primary raw materials were nitrocellulose and camphor, used for billiard balls, dentures, piano keys, and motion picture film.
 
-[^7]: [Wikipedia: Camphor War](https://zh.wikipedia.org/wiki/%E6%A8%9F%E8%85%A6%E6%88%B0%E7%88%AD) — Chinese canonical entry, including the 1868 event timeline, four terms of the Camphor Convention, indemnity structure, and related figures (Liang Yuangui, Charles Le Gendre, John Gibson). Flag: the month of the Hardie assault and the indemnity amount are single-source.
+[^7]: [Wikipedia: Camphor War](https://zh.wikipedia.org/wiki/%E6%A8%9F%E8%85%A6%E6%88%B0%E7%88%AD) — Canonical Chinese entry, including the timeline of 1868 events, the four clauses of the "Camphor Treaty," indemnity structures, and related figures (Liang Yuan-gui, Le Gendre, Gibson). Note: The month of Hardie's assault and the exact indemnity amounts are from a single source.
 
-[^8]: [Lin Chia-nung, "Britain's Camphor War on Taiwan," _Taipei Times_, November 15, 2020](https://www.taipeitimes.com/News/feat/archives/2020/11/15/2003746932) — _Taipei Times_ 2020 retrospective article, including the November 25, 1868 bombardment timeline, HMS _Algerine_ and HMS _Bustard_ vessel names, British zero dead / Qing 11 dead 6 wounded casualty figures, and Jiang Guozhen's suicide event.
+[^8]: [Lin Chia-nung, "Britain's Camphor War on Taiwan", _Taipei Times_, 2020-11-15](https://www.taipeitimes.com/News/feat/archives/2020/11/15/2003746932) — A retrospective article from the _Taipei Times_ (2020), including the timeline of the Nov 25 bombardment, names of HMS _Algerine_ and HMS _Bustard_, casualty figures (0 British / 11 Qing deaths, 6 injuries), and the suicide of Jiang Guo-zhen.
 
-[^9]: [Wikipedia: Taiwan Camphor Industry](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%A8%9F%E8%85%A6%E7%94%A2%E6%A5%AD) — Liu Ming-chuan implemented the second camphor monopoly from 1886 to 1890, establishing the Camphor Bureau as the monopoly organ. Liu's biography separately at [Wikipedia: Liu Ming-chuan](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3).
+[^9]: [Wikipedia: Taiwan Camphor Industry](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%A8%9F%E8%85%A6%E7%94%A2%E6%A5%AD) — Describes the second camphor monopoly implemented by Liu Ming-chuan from 1886–1890 and the establishment of the Camphor Bureau. For more on his life, see [Wikipedia: Liu Ming-chuan](https://zh.wikipedia.org/wiki/%E5%8A%89%E9%8A%98%E5%82%B3).
 
-[^10]: [Wikipedia: Dakekan Campaign](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9F%A2%E5%B4%99%E6%88%B0%E5%BD%B9) — Liu Ming-chuan's military campaigns against the Atayal Takoham groups from 1886 to 1892, including technical details on telephone lines, landmines, and barrier lines.
+[^10]: [Wikipedia: Daguquan Campaign](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9F%A2%E5%B4%99%E6%88%B0%E5%BD%B9) — The military operations by Liu Ming-chuan against the Atayal Daguquan groups (1886–1892), including technical details like telephone lines, landmines, and _aoyong_ lines.
 
-[^11]: [Wikipedia: Taiwan Camphor Industry](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%A8%9F%E8%85%A6%E7%94%A2%E6%A5%AD) — Taiwan's camphor exports accounted for 30–66% of global supply from 1891 to 1895, including production, export routes, and the institutional transition from Qing to Japanese rule.
+[^11]: [Wikipedia: Taiwan Camphor Industry](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%A8%9F%E8%85%A6%E7%94%A2%E6%A5%AD) — States that between 1891 and 1895, Taiwan's camphor exports accounted for 30%–66% of the global supply, including production volume, export routes, and institutional shifts from Qing to Japanese rule.
 
-[^12]: [Lin Man-houng, _Tea, Sugar, Camphor and Taiwan's Social-Economic Change (1860–1895)_, Linking Books, first edition 1978 / second edition 2003](https://www.linkingbooks.com.tw/) — The Chinese canonical academic monograph on Taiwan camphor research; Lin Man-houng's statistics on the industrial structure and social impact of the three major export products from 1860 to 1895.
+[^12]: [Lin Man-houng, _Tea, Sugar, Camphor, and Taiwan's Socio-Economic Change (1860-1895)_, Lien Chu Publishing, 1st ed. 1978 / 2nd ed. 2003](https://www.linkingbooks.com.tw/) — A canonical academic work on Taiwan's camphor industry; Lin provides statistics on the industrial structure and social impact of the three major exports from 1860–1895.
 
-[^13]: [Wikipedia: Taiwan Japanese Colonial Era Chronology 1899](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F%E5%B9%B4%E8%A1%A8) — The "Law for the Monopoly of Crude Camphor and Camphor Oil" promulgated June 17, 1899, led by Goto Shinpei and Kodama Gentaro.
+[^13]: [Wikipedia: Timeline of the Japanese Colonial Period, 1899](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F%E5%B9%B4%E8%A1%A8) — The promulgation of the "Law for the Monopoly of Crude Camphor and Camphor Oil" on June 17, 1899, led by Gotō Shinpei and Kodama Gentarō.
 
-[^14]: [Wikipedia: Goto Shinpei](https://zh.wikipedia.org/wiki/%E5%BE%8C%E8%97%A4%E6%96%B0%E5%B9%B3) — Japanese Government-General civil administrator (1898–1906), established the Camphor Monopoly Bureau in 1901, the central figure building the Japanese colonial monopoly system.
+[^14]: [Wikipedia: Gotō Shinpei](https://zh.wikipedia.org/wiki/%E5%BE%8C%E8%97%A4%E6%96%B0%E5%B9%B3) — Civil Administrator of the Governor-General's Office (1898–1906); a key figure in establishing the monopoly system during the Japanese colonial period via the 1901 Camphor Monopoly Bureau.
 
-[^15]: [Wikipedia: Tapao Incident](https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%B1%B9%E7%A4%BE%E4%BA%8B%E4%BB%B6) — The 1900–1906 Tapao (Topa) resistance to Japanese rule. Flag: "workers sexually assaulting tribal women triggering resistance" is a single Chinese-source causal account; scholarly consensus remains to be clarified.
+[^15]: [Wikipedia: Da-pao Incident](https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%B1%B9%E7%A4%BE%E4%BA%8B%E4%BB%B6) — The 1900–1906 resistance of the Da-páo (Topa) tribe against Japan. Note: The causal claim that "workers raped tribal women, sparking resistance" is from a single Chinese source and remains unverified by historical consensus.
 
-[^16]: ["The Golden Age of the Camphor Kingdom," Story Studio](https://storystudio.tw/article/gushi/the-golden-era-of-camphor-kingdom/) — Taiwan camphor production falling from 1,037 metric tons in 1919 to 589 metric tons in 1921, and the trajectory of decline after synthetic camphor emerged in Germany.
+[^16]: ["The Golden Years of the Camphor Kingdom," _StoryStudio_](https://storystudio.tw/article/gushi/the-golden-era-of-camphor-kingdom/) — Details the decline in Taiwan's camphor production from 1,037 metric tons in 1919 to 589 metric tons in 1921 following the advent of synthetic camphor in Germany.
 
-[^17]: [Wikipedia: CPC Corporation, Taiwan](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E4%B8%AD%E6%B2%B9) — Founded in 1946 inheriting Japanese petroleum assets; no direct corporate lineage to the 19th-century camphor industry.
+[^17]: [Wikipedia: CPC Corporation, Taiwan](https://zh.wikipedia.org/wiki/%E5%8F%B0%E7%81%A3%E4%B8%AD%E6%B2%B9) — Established post-war in 1946 by taking over Japanese petroleum assets; no direct corporate lineage to the 19th-century camphor industry.
 
-[^18]: [Wikipedia: Formosa Plastics Group](https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%A1%91) — Founded by Wang Yung-ching in 1954, primarily producing synthetic PVC; no direct corporate lineage to camphor, though Taiwan's chemical industry historical context is shared.
+[^18]: [Wikipedia: Formosa Plastics Group](https://zh.wikipedia.org/wiki/%E5%8F%B0%E5%A1%91) — Founded by Wang Yung-ching in 1954, focusing on synthetic PVC; while no direct lineage to camphor, it is part of the continuous history of Taiwan's chemical industry.
