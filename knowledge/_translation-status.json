@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-05T05:32:56+08:00",
-    "zhCommitHead": "a24820650",
+    "lastUpdated": "2026-08-05T05:56:09+08:00",
+    "zhCommitHead": "7b0c2b4cb",
     "totalZh": 882,
     "activeLanguages": [
       "en",
@@ -91,17 +91,17 @@
       },
       "ar": {
         "total_zh": 882,
-        "fresh": 710,
+        "fresh": 711,
         "stale": 1,
-        "metadata_stale": 5,
+        "metadata_stale": 4,
         "missing": 166,
         "orphan": 0
       },
       "ru": {
         "total_zh": 882,
-        "fresh": 735,
+        "fresh": 738,
         "stale": 1,
-        "metadata_stale": 6,
+        "metadata_stale": 3,
         "missing": 140,
         "orphan": 0
       }
@@ -5928,8 +5928,8 @@
           "sourceContentHash": "sha256:9e85b1332b7523ce",
           "sourceBodyHash": "sha256:aa9670656fd12067",
           "translatedAt": "2026-08-05T00:31:28+08:00",
-          "translationLastCommit": "4434fec8",
-          "translationLastModified": "2026-07-27T22:10:39+08:00",
+          "translationLastCommit": "7b0c2b4c",
+          "translationLastModified": "2026-08-05T05:32:56+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -20106,18 +20106,16 @@
         "ru": {
           "path": "ru/Technology/yam-yam-taiwan-portal.md",
           "translatedFrom": "Technology/蕃薯藤.md",
-          "sourceCommitSha": "781e16434",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:a165c276f6d4407a",
           "sourceBodyHash": "sha256:8a57bfe7379ce603",
-          "translatedAt": "2026-07-28T21:27:56+08:00",
+          "translatedAt": "2026-08-05T00:31:28+08:00",
           "translationLastCommit": "caea4fab",
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -36478,8 +36476,8 @@
           "sourceContentHash": "sha256:83e68a6262dbf058",
           "sourceBodyHash": "sha256:7149df720d9ca880",
           "translatedAt": "2026-08-05T00:31:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7b0c2b4c",
+          "translationLastModified": "2026-08-05T05:32:56+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -41195,8 +41193,8 @@
           "sourceContentHash": "sha256:fbfec2fdb49a0cf3",
           "sourceBodyHash": "sha256:06a8ff16fd8332cb",
           "translatedAt": "2026-08-05T00:31:28+08:00",
-          "translationLastCommit": "3bb81d05",
-          "translationLastModified": "2026-07-28T04:47:58+08:00",
+          "translationLastCommit": "7b0c2b4c",
+          "translationLastModified": "2026-08-05T05:32:56+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -74627,18 +74625,16 @@
         "ru": {
           "path": "ru/People/chiung-wi-vun.md",
           "translatedFrom": "People/蔣為文.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:46faaa4a99788548",
           "sourceBodyHash": "sha256:161cfe479ea8068c",
-          "translatedAt": "2026-07-25T12:13:37+08:00",
+          "translatedAt": "2026-08-05T00:31:28+08:00",
           "translationLastCommit": "a63b9fc5",
           "translationLastModified": "2026-07-25T12:39:19+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -83603,18 +83599,16 @@
         "ru": {
           "path": "ru/People/jin-enoki.md",
           "translatedFrom": "People/金針菇.md",
-          "sourceCommitSha": "859d7316d",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:a4d0a0070adaa30d",
           "sourceBodyHash": "sha256:4b10f11517195560",
-          "translatedAt": "2026-07-26T03:58:18+08:00",
+          "translatedAt": "2026-08-05T00:31:28+08:00",
           "translationLastCommit": "78b1cd2a",
           "translationLastModified": "2026-07-26T04:47:35+08:00",
           "inferred": false,
           "footnoteDefs": 3,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -107520,18 +107514,16 @@
         "ar": {
           "path": "ar/History/sanxia-old-street.md",
           "translatedFrom": "History/三峽老街.md",
-          "sourceCommitSha": "a43cf9153",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:e04661eeed7e83a6",
           "sourceBodyHash": "sha256:11623780c733bce5",
-          "translatedAt": "2026-07-28T18:52:05+08:00",
+          "translatedAt": "2026-08-05T00:31:27+08:00",
           "translationLastCommit": "caea4fab",
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 11,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/sanxia-old-street.md",
@@ -115624,8 +115616,8 @@
           "sourceContentHash": "sha256:9ce361db9a5c3b1a",
           "sourceBodyHash": "sha256:39bde765a3b7a746",
           "translatedAt": "2026-08-05T00:31:28+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7b0c2b4c",
+          "translationLastModified": "2026-08-05T05:32:56+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -126969,8 +126961,8 @@
           "sourceContentHash": "sha256:1b2cde52a55f5aaa",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-04T21:01:43.987475+00:00",
-          "translationLastCommit": "66008e20",
-          "translationLastModified": "2026-07-28T08:00:19+08:00",
+          "translationLastCommit": "7b0c2b4c",
+          "translationLastModified": "2026-08-05T05:32:56+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -127441,8 +127433,8 @@
           "sourceContentHash": "sha256:21f968d51e24c095",
           "sourceBodyHash": "sha256:758baf07e7746d38",
           "translatedAt": "2026-08-05T00:31:28+08:00",
-          "translationLastCommit": "d30facee",
-          "translationLastModified": "2026-07-27T19:07:48+08:00",
+          "translationLastCommit": "7b0c2b4c",
+          "translationLastModified": "2026-08-05T05:32:56+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
@@ -127607,8 +127599,8 @@
           "sourceContentHash": "sha256:ea660a4477ab8648",
           "sourceBodyHash": "sha256:ab22f8e268664ba4",
           "translatedAt": "2026-08-05T00:31:28+08:00",
-          "translationLastCommit": "caea4fab",
-          "translationLastModified": "2026-07-29T02:34:42+08:00",
+          "translationLastCommit": "7b0c2b4c",
+          "translationLastModified": "2026-08-05T05:32:56+08:00",
           "inferred": false,
           "footnoteDefs": 14,
           "status": "fresh",
