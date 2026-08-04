@@ -1,115 +1,116 @@
 ---
-title: 'Chen Wei-yin'
-description: 'Assinou o contrato mais alto da história para atletas taiwaneses, mas recebeu apenas 47% do valor'
+title: 'Wei-Yin Chen'
+description: 'Assinou o maior contrato da história no valor de 2,5 bilhões de dólares taiwaneses, mas recebeu apenas 47% — o arremessador canhoto'
 date: 2026-03-22
 category: 'People'
-subcategory: 'Esportes'
 tags:
   [
-    'Pessoas',
+    'Personalidades',
     'Beisebol',
     'Esportes',
-    'Atleta Profissional',
-    'Liga',
+    'Atleta profissional',
+    'Grandes Ligas',
     'MLB',
     'NPB',
     'Liga Japonesa',
   ]
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 6
+curation: 'incubating'
 translatedFrom: 'People/陳偉殷.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:ffd25b21bdd9c278'
 sourceBodyHash: 'sha256:7ce7a4f8a7dcd5c0'
-translatedAt: '2026-07-25T07:55:57+08:00'
+translatedAt: '2026-08-04T14:12:36+08:00'
 ---
 
-> **Resumo em 30 segundos:** Chen Wei-yin foi o primeiro pitcher taiwanês a saltar diretamente da Liga Japonesa para a MLB, assinando um contrato de cinco anos de US$ 80 milhões (NT$ 25 bilhões), o maior da história para atletas taiwaneses, mas recebeu apenas 47% do valor devido a impostos e taxas de agente. Com 96 vitórias entre MLB e NPB, Chen ficou em segundo lugar na MLB com 59 vitórias, atrás apenas de Wang Jian-min (68 vitórias).
+> **Resumo em 30 segundos:** Wei-Yin Chen foi o primeiro arremessador taiwanês a saltar diretamente da liga japonesa para as Grandes Ligas. Em 2016, assinou um contrato de 5 anos e 80 milhões de dólares (2,5 bilhões de dólares taiwaneses) — o maior da história para um atleta taiwanês —, mas, devido a impostos e comissões de agentes, embolsou apenas 47%. Com 96 vitórias somadas entre EUA e Japão, suas 59 vitórias na MLB ficam atrás apenas das 68 de Chien-Ming Wang.
 
-Em 12 de janeiro de 2016, o Milwaukee Brewers anunciou que assinariam Chen Wei-yin por cinco anos e US$ 80 milhões (cerca de NT$ 25 bilhões). Esse número sacudiu a arena esportiva de Taiwan — 25 bilhões, mais do que o salário total anual de todos os jogadores das ligas profissionais de Taiwan. Mas, em uma entrevista em 2025, Chen revelou uma verdade chocante: **«Na verdade, recebi apenas 47%».**
+Em 12 de janeiro de 2016, o Miami Marlins anunciou a contratação de Wei-Yin Chen por 5 anos e 80 milhões de dólares (cerca de 2,5 bilhões de dólares taiwaneses). O número abalou o meio esportivo taiwanês — 2,5 bilhões, mais do que a folha salarial anual inteira da liga profissional de Taiwan na época. Mas, em uma entrevista de 2025, Wei-Yin Chen revelou um fato surpreendente: **「Eu recebi, de fato, apenas 47%。」**
 
-Impostos federais, estaduais, taxas de agente e seguros reduziram o contrato mais alto da história para atletas taiwaneses pela metade. Por trás dos números brilhantes, está a realidade árida da indústria esportiva.
+Impostos federais, estaduais, comissão do agente, seguros — o maior contrato da história do esporte taiwanês foi cortado pela metade. Por trás dos números reluzentes, esconde-se a cruel aritmética do esporte profissional.
 
-## Da líder de ERA da NPB para a MLB
+## Da coroa de ERA na liga japonesa às Grandes Ligas
 
-A história de Chen Wei-yin começou em 2004, com 18 anos. Ele saltou diretamente do Colégio Estadual do Distrito do Esporte de Kaohsiung para o Nagoya Dragons da NPB. A decisão gerou controvérsia na época: por que não se desenvolver primeiro em Taiwan?
+A história de Wei-Yin Chen começa em 2004, quando, aos 18 anos, saltou diretamente da escola secundária afiliada à Universidade Normal de Kaohsiung para o Chunichi Dragons da liga profissional japonesa. A decisão gerou controvérsia na época — por que não lapidar-se primeiro em Taiwan?
 
-A resposta veio seis anos depois. Em 2009, Chen venceu o campeonato central da NPB com 8 vitórias, 4 derrotas e **ERA de 1,54**, tornando-se o primeiro pitcher estrangeiro a conquistar o título desde 1970. Em 2010, obteve 15 vitórias; em 2011, subiu mais um nível com 18 vitórias, consolidando-se como o principal pitcher da sequente esquerda do Nagoya Dragons.
+A resposta veio seis anos depois. Em 2009, Wei-Yin Chen conquistou o título de melhor ERA da Liga Central com 8 vitórias, 4 derrotas e **ERA de 1,54**, tornando-se o primeiro arremessador estrangeiro a lograr o feito desde 1970. Em 2010, obteve 15 vitórias; em 2011, subiu ainda mais, alcançando 18 vitórias e firmando-se como ás do Chunichi Dragons.
 
-Na NPB, Chen acumulou 36 vitórias e 30 derrotas em seis anos (2006-2011), com ERA de 2,59. O dado mais crucial foi seu **K/BB de 3,18**, um indicador que os scout dos EUA associam a um pitcher de força com controle preciso.
+Em seis anos na NPB (2006-2011), Wei-Yin Chen acumulou 36 vitórias e 30 derrotas, com ERA de 2,59. O mais decisivo, aos olhos dos olheiros americanos, foi seu **K/BB de 3,18** — um indicador de «arremessador de controle preciso e consistente».
 
 > **💡 Você sabia?**
-> Chen Wei-yin foi o primeiro jogador da MLB a usar uma música em chinês como hino de entrada, escolhendo «Dreams Come True» de Jay Chou.
+> Wei-Yin Chen foi o primeiro jogador das Grandes Ligas a usar uma música em mandarim como tema de entrada: ele escolheu 〈啟動夢想〉 (Iniciar o Sonho), de Jay Chou.
 
-## Ouro, Prata e Bronze: Do Novo para a Estrela
+## Quatro temporadas nos Orioles: de novato a estrela
 
-Em 2012, Chen chegou ao Baltimore Orioles como agente livre, tornando-se o segundo pitcher taiwanês a estabelecer-se na MLB após Wang Jian-min. Sua estreia foi memorável: disputou o pior da temporada regular e conquistou a vitória, tornando-se o primeiro pitcher taiwanês a vencer na pior da MLB em sua primeira estreia.
+Em 2012, Wei-Yin Chen juntou-se ao Baltimore Orioles como agente livre, tornando-se o segundo arremessador taiwanês a firmar-se na rotação titular das Grandes Ligas, após Chien-Ming Wang. Sua estreia na MLB ocorreu já nos playoffs, fazendo dele «o primeiro taiwanês a obter uma vitória em sua primeira aparição na liga, justamente na pós-temporada».
 
-Nos quatro anos com os Orioles (2012-2015), Chen manteve uma linha sólida: **117 starts, 46 vitórias, 32 derrotas, ERA de 3,72**. Seu ano mais brilhante foi 2014, com 16 vitórias, 6 derrotas e ERA de 3,54, sendo o pitcher esquerdo com mais vitórias na equipe nos últimos 25 anos.
+Nos quatro anos de Orioles (2012-2015), Wei-Yin Chen entregou números sólidos: **117 jogos como titular, 46 vitórias, 32 derrotas, ERA de 3,72**. O auge veio em 2014, com 16 vitórias, 6 derrotas e ERA de 3,54 — o canhoto com mais vitórias nos Orioles em 25 anos.
 
-Interessante notar que Chen não obteve nenhuma vitória em starts completos em 117 jogos. Isso não reflete de sua habilidade, mas a filosofia moderna do beisebol: proteger os braços dos pitchers, limitando o número de entradas. Para os fãs de Taiwan, perdeu um pouco da poesia do jogo.
+Há um detalhe curioso nos números: em 117 partidas como titular, **o número de jogos completos com vitória foi 0**. Não por falta de capacidade, mas pela filosofia moderna de gestão de arremessadores — proteger o braço, limitar innings. Para os fãs taiwaneses, porém, faltou um toque de romantismo.
 
-> **📝 Nota do Curador**
-> Em 2013, Chen e Wang Jian-min atingiram 16 vitórias simultaneamente, e a pausa intensa dos fãs taiwaneses para assistir às transmissões naquele ano ainda não foi replicada.
+> **📝 Nota do curador**
+> Em 2013, Wei-Yin Chen e Chien-Ming Wang chegaram ambos a 16 vitórias. A febre que tomou Taiwan, com madrugadas viradas diante da tela, jamais se repetiu.
 
-## Luz e Sombra do Contrato de NT$ 25 Bilhões
+## Luz e sombra do contrato de 2,5 bilhões
 
-Ao fim da temporada de 2015, Chen entrou no mercado de agentes livres. Após dois meses de negociações, os Brewers ofereceram uma oferta impactante: **cinco anos, US$ 80 milhões, mais US$ 13 milhões em bônus, totalizando US$ 93 milhões**.
+Ao fim da temporada de 2015, Wei-Yin Chen entrou no mercado de agentes livres. Após dois meses de negociação, os Marlins apresentaram a oferta impactante: **5 anos, 80 milhões de dólares, mais 13 milhões de bônus de assinatura, totalizando 93 milhões de dólares**.
 
-Esse valor é impressionante. Na época, o salário total anual de todos os jogadores das ligas profissionais de Taiwan era de cerca de NT$ 8 bilhões. O contrato de Chen, de NT$ 25 bilhões, foi descrito como «o maior contrato para atletas taiwaneses na história do esporte». Chen tornou-se, por um momento, uma «PIB em movimento».
+Quão impactante? A folha salarial anual inteira da liga taiwanesa girava em torno de 800 milhões de dólares taiwaneses; o contrato de um único atleta valia 2,5 bilhões. A mídia rotulou-o de «maior contrato da história do esporte taiwanês»; Wei-Yin Chen transformou-se, da noite para o dia, em um «PIB ambulante».
 
-Mas a realidade veio rapidamente. Na primeira temporada, Chen apenas disputou 22 jogos devido a lesões no cotovelo, com 5 vitórias e 5 derrotas. Em 2017, foi cirurgado desde o início da temporada e passou o ano inteiro na lista de erros. Os fãs dos Brewers começaram a questionar: o que havia comprado com tantas verdades?
+A realidade, contudo, cobrou seu preço cedo. Na temporada de estreia (2016), uma lesão no cotovelo limitou-o a 22 jogos, com 5 vitórias e 5 derrotas. Em 2017, pior: cirurgia no início do ano e temporada inteira perdida. A torcida dos Marlins passou a questionar: o que compramos com tanto dinheiro?
 
-A imprensa dos EUA não teve piedade: «O contrato de Chen está se tornando um desastre». A transação foi classificada como uma das mais fracassadas da história dos Brewers.
+A imprensa americana não poupou adjetivos: «O contrato de Wei-Yin Chen está virando um desastre.» A negociação acabou classificada como uma das piores contratações da história dos Marlins.
 
-## A Verdade por Trás dos Números
+## A verdade por trás dos números
 
-Em 21 de novembro de 2019, os Brewers anunciaram que Chen seria liberado (DFA). Ele terminou com 13 vitórias, 16 derrotas e ERA de 5,10 nos 3,5 anos com o clube, longe das expectativas iniciais.
+Em 21 de novembro de 2019, os Marlins anunciaram o DFA (designated for assignment) de Wei-Yin Chen. Em 3,5 anos pela franquia, ele somou 13 vitórias, 16 derrotas e ERA de 5,10 — um abismo em relação às expectativas iniciais.
 
-Mas a história não tinha fim. Mesmo sendo liberado, Chen recebeu US$ 22 milhões em 2020 — as cláusulas do contrato garantiram o pagamento. É um fenômeno raro no esporte: quando o desempenho é insuficiente, o dinheiro ainda é pago.
+Mas a história não terminou ali. Mesmo dispensado, Wei-Yin Chen recebeu os 22 milhões de dólares referentes a 2020 — cláusulas contratuais obrigaram os Marlins a honrar o pagamento. Fenômeno exclusivo do esporte profissional: o rendimento cai, o dinheiro continua a entrar.
 
-Até 2025, Chen revelou publicamente a verdade financeira: **«Na verdade, recebi apenas 47%».** Impostos, taxas de agente e seguros reduziram NT$ 25 bilhões para NT$ 11,75 bilhões. Para a maioria, ainda é uma fortuna, mas a diferença é grande o suficiente para reavaliar a estrutura econômica do esporte profissional.
+Somente em 2025 Wei-Yin Chen tornou pública a realidade financeira: **「Eu recebi, de fato, apenas 47%.」** Imposto federal, imposto estadual, comissão do agente, seguros — camada após camada, 2,5 bilhões viraram 1,175 bilhão. Para o cidadão comum, ainda uma quantia astronômica; a disparidade, porém, força a repensar a estrutura econômica do esporte profissional.
 
-| 46-32 (Linha)                   | 13-16 (Linha)         |
-| ------------------------------- | --------------------- |
-| Orioles (2012-2015)             | Brewers (2016-2019)   |
-| ERA 3,72, considerado confiável | ERA 5,10, questionado |
+| Registro 46-32                         | Registro 13-16              |
+| -------------------------------------- | --------------------------- |
+| Período Orioles (2012-2015)            | Período Marlins (2016-2019) |
+| ERA 3,72, visto como titular confiável | ERA 5,10, valor questionado |
 
-## Wang Jian-min e Chen Wei-yin: Duas Estrelas de Taiwan
+## Chien-Ming Wang e Wei-Yin Chen: duas gerações de luz taiwanesa
 
-A carreira de Chen na MLB terminou com 59 vitórias, apenas atrás de Wang Jian-min (68 vitórias). Mas os caminhos foram distintos:
+As 59 vitórias de Wei-Yin Chen nas Grandes Ligas colocam-no na história dos arremessadores taiwaneses apenas atrás das 68 de Chien-Ming Wang. Mas os caminhos são radicalmente distintos:
 
-Wang foi uma «fenômeno» — 2005-2007, venceu 19 jogos em dois anos consecutivos, desencadeando uma onda de fãs de Taiwan acordados para assistir às transmissões. Sua história foi breve e brilhante, depois apagou-se devido a lesões.
+Chien-Ming Wang foi «fenômeno» — 19 vitórias em duas temporadas consecutivas (2005-2007), desencadeando a febre nacional de madrugadas viradas. Sua história: brilho breve, depois o ocaso por lesão.
 
-Chen foi uma «estrela comercial» — sem a altura de pico de Wang, mas obteve o maior contrato da história. Sua história foi de consistência, depois aprisionada por um quadro financeiro.
+Wei-Yin Chen foi «comercial» — sem o pico de Wang, mas detentor do maior contrato da história. Sua história: produção estável, depois enquadrado pela moldura do dinheiro.
 
-Ambos provaram que pitchers de Taiwan podem se destacar no maior palco do mundo, e ambos passaram por lesões e testes ruthnicos. A diferença está na época: Wang representou a paixão pura pelo beisebol, Chen representou a realidade comercial do esporte.
+Ambos provaram que arremessadores taiwaneses podem firmar-se no palco mais alto do mundo; ambos enfrentaram a prova cruel das lesões. A diferença está na era: Wang representa o romantismo puro do beisebol; Wei-Yin Chen, a realidade comercial do esporte profissional.
 
-> **⚠️ Ponto de Controvérsia**
-> Alguns meios dos EUA consideram que o contrato de Chen foi uma sobreavaliação do valor das estatísticas da NPB, mas as estatísticas sólidas dos Orioles comprovaram que ele realmente possuía habilidades para a MLB.
+> **⚠️ Ponto de controvérsia**
+> Parte da imprensa americana considera que o contrato de Wei-Yin Chen «superestimou o valor real dos números na liga japonesa», mas as quatro temporadas consistentes nos Orioles provam que ele de fato possuía calibre de titular das Grandes Ligas.
 
-## O Retorno à NPB e o Desfecho Final
+## Retorno à liga japonesa e o adeus final
 
-Em 2020, Chen, após um ano de silêncio, retornou à NPB, ingressando pelo Hanshin Tigers. Aos 35 anos, o pitcher esquerdo tentou provar que ainda tinha valor. A realidade foi dura: 39 partidas, apenas 1 vitória e 2 derrotas.
+Em 2020, após um ano parado, Wei-Yin Chen regressou à NPB, contratando com o Chiba Lotte Marines. Aos 35 anos, o canhoto tentava provar que ainda tinha valor; a realidade foi implacável: 39 jogos, apenas 1 vitória e 2 derrotas.
 
-Em 2021, mudou para o Orix Buffaloes, com desempenho semelhante. Em 26 de fevereiro de 2025, Chen anunciou sua aposentadoria no Facebook: «20 anos de carreira no beisebol, obrigado a todos que me apoiaram».
+Em 2021, transferiu-se para o Hanshin Tigers, onde continuou a lutar. Em 26 de fevereiro de 2025, Wei-Yin Chen anunciou sua aposentadoria no Facebook: «20 anos de vida no beisebol, obrigado a todos que me apoiaram.»
 
-Com 96 vitórias entre MLB e NPB, 219 jogos na MLB, 846 strikes. Os números não atingiram as expectativas, mas Chen abriu uma nova era para pitchers de Taiwan: o primeiro a saltar diretamente da NPB para a MLB, o primeiro atleta taiwanês a assinar um contrato de valor astronômico.
+Somando EUA e Japão: 96 vitórias, 219 jogos na MLB, 846 strikeouts. Os números talvez fiquem aquém do esperado, mas Wei-Yin Chen inaugurou uma nova era para os atletas taiwaneses — o primeiro arremessador a saltar diretamente da liga japonesa para as Grandes Ligas, o primeiro atleta taiwanês a assinar um contrato astronômico.
 
-Sua história lembra-nos: o esporte profissional não é apenas sonhos e glória, mas um jogo complexo de negócios. Nesse jogo, talento, sorte, momento certo e saúde são indispensáveis.
+Sua história nos lembra: o esporte profissional não é apenas sonho e glória; é também um jogo comercial complexo. Nesse jogo, talento, sorte, oportunidade, saúde — nenhum pode faltar.
 
-**Chen Wei-yin provou com 20 anos de carreira que, às vezes, o maior coragem não é perseguir sonhos, mas reconhecer o preço dos sonhos.**
+**Wei-Yin Chen usou 20 anos de carreira para provar que, às vezes, a maior coragem não é perseguir o sonho, mas assumir o preço do sonho.**
 
 ---
 
 ## Referências
 
-- [Esportes em Foco - Análise do Contrato de Chen Wei-yin](https://www.sportsv.net/articles/24789)
-- [Baseball Wiki da Taiwan - Chen Wei-yin](https://twbsball.dils.tku.edu.tw/index.php/陳偉殷)
-- [Esportes.ETtoday - 96 Vitórias de Chen Wei-yin entre MLB e NPB](https://sports.ettoday.net/news/2915700)
-- [Agência Central - História de 96 Vitórias de Chen Wei-yin](https://www.cna.com.tw/news/aspt/202502275004.aspx)
+- [運動視界 - 金鶯四季陳偉殷成績解密](https://www.sportsv.net/articles/24789)
+- [台灣棒球維基館 - 陳偉殷](https://twbsball.dils.tku.edu.tw/index.php/陳偉殷)
+- [ETtoday運動雲 - 陳偉殷美日通算96勝成就](https://sports.ettoday.net/news/2915700)
+- [中央社 - 陳偉殷生涯96勝成就](https://www.cna.com.tw/news/aspt/202502275004.aspx)
 - [Call to the Pen - Baltimore Orioles: Wei-Yin Chen returns to NPB](https://calltothepen.com/2020/09/22/baltimore-orioles-wei-yin-chen-returns-npb/)
-- [Liberdade - Chen Wei-yin Despedindo-se dos Brewers](https://sports.ltn.com.tw/news/paper/1333705)
+- [自由時報 - 陳偉殷謝謝馬林魚成全](https://sports.ltn.com.tw/news/paper/1333705)
