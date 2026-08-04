@@ -1359,6 +1359,8 @@ verifier 逐條核對其餘全部 atom（持股比例、董事席次、註冊人
 
 **Gate 結果**：`rewrite-stage-3-5` hard=0 warn=0；`rewrite-stage-4` hard=1（image-health，預期內，Stage 4 媒體插入前必然狀態）warn=2（媒體密度，同因）。編輯室審查合併為 `reports/editorial-room/{slug}-prose-structure-review.md` 與 `{slug}-chief-review.md`，均 overall=pass，過 `editorial-room-health.py`。
 
+**自我複驗補漏（2026-08-04，收到疑似重複的舊 command-args 觸發後重新核對現況時發現）**：上述修正項 3（移除誤綁的 [^47]）改動了該腳註在正文的首次出現位置（原本 [^47] 最早出現在已刪除的「林岱樺在財政委員會的發言」句，屬 section 5 前段；刪除後 [^47] 僅剩 section 6 的彭英偉承諾句，變成全文最晚出現），但當下未回頭檢查這個位移對整組 47/48/49 首次出現順序的連鎖影響，導致 [^48]（section 5 X光判讀人員）、[^49]（section 5 App Store 評論）反而先於 [^47]（section 6）出現，形成 48→49→47 的逆序——同一類「自己修正時引入新漂移，卻沒有複驗下游影響」在 REWRITE-PIPELINE Step 3.6.4 已有前例警示。用二階段 placeholder 替換法重新映射：舊 47→49、舊 48→47、舊 49→48（body refs 與 def 區塊同步），並把 def 區塊實體順序也一併排回 47/48/49 遞增。修正後 python 逐條核對：50 條腳註首次出現順序與編號完全一致，`rewrite-stage-3-5`／`rewrite-stage-4` 兩 profile 皆 hard=0。
+
 ## Result: PASS（Stage 3 大驗證輪 + 變更節定向複驗）
 
 ## §Audit — Step 3.8 定稿站（2026-08-04）
