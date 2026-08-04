@@ -1,75 +1,76 @@
 ---
-title: 'A cultura Kuai Kuai de Taiwan: como um snack verde se tornou o guardião do setor de tecnologia'
-description: 'Dos computadores de pós-graduandos às máquinas da TSMC, por que os taiwaneses acreditam que o Kuai Kuai verde faz os equipamentos funcionarem bem?'
+title: 'Cultura Guai Guai de Taiwan: Como um Snack Verde se Tornou o Guardião da Indústria Tecnológica'
+description: 'Do computador do pós-graduando às máquinas da TSMC, por que os taiwaneses acreditam que o Guai Guai verde faz as máquinas funcionar "guai guai"?'
 date: 2026-03-21
-category: 'pt'
+category: 'Culture'
 tags:
   [
-    'cultura taiwanesa',
-    'crenças populares',
-    'setor de tecnologia',
-    'lendas urbanas',
+    'Cultura de Taiwan',
+    'Crenças Populares',
+    'Indústria Tecnológica',
+    'Lendas Urbanas',
   ]
 subcategory: '庶民文化'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false
+curation: 'incubating'
 translatedFrom: 'Culture/台灣乖乖文化.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:b95317cbf18e6ec7'
 sourceBodyHash: 'sha256:2856e1a6d3a978a3'
-translatedAt: '2026-07-18T18:57:47+08:00'
+translatedAt: '2026-08-04T20:19:12+08:00'
 ---
 
-> **Visão geral em 30 segundos**: em Taiwan, é possível encontrar um pacote verde de Kuai Kuai em praticamente qualquer lugar onde haja máquinas, desde equipamentos hospitalares de precisão até caixas eletrônicos. Essa tradição peculiar surgiu no fim da década de 1990: engenheiros acreditam que o nome “Kuai Kuai” — que em mandarim significa “bem-comportado” — faz os equipamentos “se comportarem” e funcionarem corretamente. Hoje, até a BBC já dedicou uma reportagem a essa curiosidade taiwanesa.
+> **Resumo em 30 segundos**: Em Taiwan, desde instrumentos de precisão hospitalares até caixas eletrônicos bancários, onde há máquinas pode-se ver um pacote de Guai Guai verde. Essa cultura única surgiu no final dos anos 1990, quando engenheiros acreditaram que o trocadilho de "Guai Guai" faria os equipamentos "funcionarem comportadinhos" (guai guai), e hoje até a BBC dedica reportagens a esse fenômeno taiwanês.
 
-Ao entrar em qualquer sala de servidores de Taiwan, você provavelmente encontrará uma cena curiosa: sobre um servidor caro, repousa discretamente um pacote verde do snack Kuai Kuai. Não se trata do lanche da tarde que alguém esqueceu de levar, mas de um “amuleto” com longa tradição no setor de tecnologia taiwanês.
+Entre em qualquer sala de servidores de Taiwan e você provavelmente verá uma cena curiosa: sobre servidores caros, repousa quietamente um pacote de snack "Guai Guai" de embalagem verde. Não é um lanche da tarde esquecido por alguém, mas sim um "amuleto de proteção" transmitido há muito tempo na indústria tecnológica de Taiwan.
 
-## Uma lenda urbana nascida na Universidade Nacional Chiao Tung
+## Uma lenda urbana nascida na Chiao Tung University
 
-A origem desse costume peculiar remonta à Universidade Nacional Chiao Tung, antes de 1998. Segundo as recordações feitas em 2011 pelo diretor Lu, do Centro de Computação da Universidade de Ciência e Tecnologia Minghsin, ele “já colocava Kuai Kuai verde no laboratório desde a época do doutorado”. Por esse cálculo, o hábito de “colocar Kuai Kuai junto às máquinas” já existia na Universidade Nacional Chiao Tung antes de 1998.
+A origem desse hábito peculiar remonta à época anterior a 1998 na Universidade Chiao Tung (交通大學). Segundo o relato de 2011 do diretor do Centro de Computação da Universidade de Ciência e Tecnologia Minghsin (明新科技大學), o Sr. Lu (盧主任), ele "já colocava Guai Guai verde no laboratório de pesquisa desde o doutorado". Calcula-se, portanto, que a prática de "colocar Guai Guai nas máquinas" já existia na Chiao Tung antes de 1998.
 
-O primeiro registro público, porém, apareceu em 2003, quando o suplemento do jornal _China Times_ publicou um artigo intitulado “Com medo de travar? Coloque um pacote de Kuai Kuai”, descrevendo como “as salas de servidores de muitas empresas taiwanesas costumam manter um pacote de Kuai Kuai sobre os servidores para reduzir a probabilidade de falhas”.
+Mas o registro público mais antigo aparece em 2003, quando o suplemento do _China Times_ (《中國時報》) publicou um artigo intitulado "Com medo de travamento? Venha, coloque um pacote de Guai Guai", descrevendo que "nas salas de servidores de muitas empresas de Taiwan, costuma-se colocar um pacote de Guai Guai sobre o servidor, para reduzir a probabilidade de falhas".
 
-O que realmente popularizou o costume foi a história de um pós-graduando. Segundo contou à BBC Liao Yu-chi, diretora-geral da empresa Kuai Kuai, um estudante estava escrevendo sua dissertação, mas o computador travava repetidamente. Ele imaginou que o equipamento talvez precisasse de algum tipo de “talismã”. O nome Kuai Kuai atendia perfeitamente a essa necessidade, enquanto a embalagem verde simbolizava o sinal de “passagem liberada” de um semáforo. Depois que colocou um pacote verde de Kuai Kuai ao lado do computador, a máquina passou a funcionar normalmente e ele conseguiu concluir a dissertação sem problemas.
+O que realmente tornou o costume conhecido foi a história de um pós-graduando. Segundo revelou a gerente-geral da Guai Guai, Liao Yu-chi (廖宇綺), à BBC, um estudante de mestrado escrevia sua tese, mas o computador travava frequentemente. Ele pensou que o equipamento talvez precisasse de algum "talismã", e o nome "Guai Guai" (乖乖, "comportadinho/bonzinho") encaixava perfeitamente na necessidade; a embalagem verde ainda simbolizava o sinal verde do semáforo — "livre passagem". Após colocar o Guai Guai verde, o computador funcionou normalmente e a tese foi concluída sem problemas.
 
-## As regras rigorosas do Kuai Kuai
+## As estritas regras do Guai Guai
 
-A cultura do Kuai Kuai em Taiwan segue um conjunto de regras não escritas:
+A cultura do Guai Guai em Taiwan possui um conjunto de regras não escritas:
 
-**A embalagem precisa ser verde**: somente o Kuai Kuai verde, com sabor de coco cremoso, é considerado eficaz, pois a cor representa a luz verde que indica o funcionamento normal de uma máquina. Acredita-se que as versões amarela, com sabor de cinco especiarias, ou vermelha, de chocolate, produzam o efeito contrário.
+**Deve ser embalagem verde**: Apenas o Guai Guai verde, sabor creme de coco, tem efeito, pois o verde representa a luz verde de funcionamento normal da máquina. O amarelo (sabor cinco especiarias) ou o vermelho (sabor chocolate) são considerados causadores de efeito contrário.
 
-**Nunca pode estar vencido**: um Kuai Kuai fora da validade perde seu poder de proteção e precisa ser substituído periodicamente.
+**Jamais pode estar vencido**: Guai Guai vencido perde seu poder de proteção e deve ser trocado periodicamente.
 
-**É proibido comer**: esses pacotes de Kuai Kuai são oferendas sagradas. Quem os come corre o risco de ser punido com uma falha no equipamento.
+**Proibido comer**: Esses Guai Guai são ofertas sagradas; comê-los atrairia a punição de falhas nas máquinas.
 
-O grande colapso do sistema de controle migratório do Aeroporto de Taoyuan, em 2009, tornou-se um exemplo clássico das consequências de violar o tabu do Kuai Kuai. Segundo um internauta conhecido como “Sashimi”, que relatou o caso em uma rede social, durante uma troca de turno um funcionário da empresa terceirizada responsável pela manutenção comeu, sem pensar, o Kuai Kuai que estava na sala de servidores. No dia seguinte, o sistema ficou fora do ar por 36 horas. Embora possa ter sido apenas coincidência, a precisão do momento levou muitos a acreditar no “milagre do grande deus Kuai Kuai”.
+O grande travamento do sistema de controle de imigração do Aeroporto de Taoyuan (桃園機場) em 2009 tornou-se o caso clássico de violação do tabu do Guai Guai. Segundo o usuário "Sashimi" (生魚片) compartilhou em rede social, o técnico terceirizado responsável pela manutenção, durante a troca de turno, comeu de uma vez o Guai Guai que estava na sala de servidores; no dia seguinte, o computador travou por 36 horas. Embora possa ser coincidência, a coincidência do timing fez com que não se pudesse deixar de acreditar no "milagre do Grande Deus Guai Guai".
 
-## Do setor de tecnologia para todas as áreas da sociedade
+## Da indústria tecnológica para todos os setores
 
-A cultura do Kuai Kuai espalhou-se gradualmente do setor de tecnologia para todos os cantos da sociedade taiwanesa. Antes da eleição presidencial de 2004, cartórios de registro civil, receosos de que os computadores travassem em um momento decisivo, colocaram pacotes de Kuai Kuai diante das máquinas. Em 2011, um caixa eletrônico de um banco em Keelung apresentava falhas frequentes, e os técnicos instalaram dois pacotes de Kuai Kuai dentro do aparelho. Eles foram removidos posteriormente, depois que uma fotografia publicada na internet provocou grande repercussão.
+A cultura do Guai Guai expandiu-se gradualmente da indústria tecnológica para todos os cantos da sociedade taiwanesa. Antes da eleição presidencial de 2004, escritórios de registro civil (戶政事務所), temendo que computadores travassem no momento crítico, colocaram Guai Guai diante dos equipamentos. Em 2011, caixas eletrônicos de um banco em Keelung (基隆) viviam quebrando; técnicos de manutenção colocaram dois pacotes de Guai Guai dentro das máquinas (posteriormente removidos após fotos vazarem e gerarem debate).
 
-Em 2014, após a ocorrência de graves acidentes de trânsito na região, alguém sugeriu que a delegacia de Huwei, no condado de Yunlin, colocasse pacotes verdes de Kuai Kuai no prédio para pedir proteção. Cinco pacotes foram então distribuídos pela delegacia. Conta-se, porém, que certo dia um inspetor comeu um deles e, já no dia seguinte, ocorreu um acidente fatal.
+Em 2014, a Delegacia de Huwei (虎尾警局) no condado de Yunlin (雲林), devido a um grave acidente de trânsito na jurisdição, alguém sugeriu colocar Guai Guai verde pedindo segurança, e a delegacia acabou colocando cinco pacotes. Conta-se, porém, que certo dia um inspetor comeu um pacote, e no dia seguinte ocorreu um acidente fatal.
 
-## O assombro da imprensa internacional
+## O espanto da mídia internacional
 
-Em 2021, a BBC britânica publicou uma reportagem sobre a cultura do Kuai Kuai em Taiwan, com o título “Como os taiwaneses usam um snack verde como amuleto da sorte”. A matéria despertou atenção internacional e levou internautas taiwaneses a brincar que “o segredo de Estado foi descoberto” e que “o segredo dos altos rendimentos de produção foi revelado”.
+Em 2021, a BBC britânica publicou reportagem sobre a cultura do Guai Guai em Taiwan, com o título "Como os taiwaneses usam um snack verde como amuleto da sorte". A reportagem atraiu atenção internacional e fez internautas taiwaneses brincarem: "Segredo de Estado descoberto", "Segredo do alto rendimento (良率) vazado".
 
-O fenômeno chegou até mesmo à aviação. Chang Kuo-wei, presidente da Starlux Airlines, colocou um pacote verde de Kuai Kuai em uma sala de reuniões para pedir que a entrega de uma nova aeronave transcorresse sem problemas. A fotografia viralizou na internet. Liao Yu-chi também levou pessoalmente um pacote de Kuai Kuai para Chang autografar, na esperança de que um dia fosse possível lançar uma aeronave com pintura temática da marca.
+O fenômeno estendeu-se até à aviação. O presidente da STARLUX Airlines (星宇航空), Chang Kuo-wei (張國煒), colocou um pacote de Guai Guai verde na sala de reuniões, pedindo que a entrega dos novos aviões corresse bem; a foto viralizou na internet. Liao Yu-chi levou pessoalmente Guai Guai para Chang Kuo-wei autografar, na esperança de no futuro lançar um "avião pintado Guai Guai".
 
-## O equilíbrio sutil entre ciência e superstição
+## O delicado equilíbrio entre ciência e superstição
 
-Nesta era tecnológica, orientada pela lógica e pelos dados, por que até engenheiros acreditam nos poderes sobrenaturais do Kuai Kuai? A resposta talvez esteja em um cálculo de custo-benefício. Comparado aos enormes prejuízos que uma falha de computador pode causar, o custo de comprar um pacote de Kuai Kuai para pedir proteção é insignificante. Como os engenheiros costumam dizer: “Mesmo que haja apenas uma chance em dez mil de funcionar, ainda vale a pena tentar”.
+Nesta era tecnológica que preza lógica e dados, por que até engenheiros acreditam no poder divino do Guai Guai? A resposta talvez resida no cálculo de custo-benefício. Comparado às perdas potencialmente enormes de uma "falha de computador", o custo de comprar um pacote de Guai Guai para pedir proteção é ínfimo. Como costumam dizer os engenheiros: "Mesmo que haja apenas uma chance em dez mil de funcionar, vale a tentativa."
 
-Essa postura de que “é melhor acreditar que existe do que acreditar que não existe” transformou o Kuai Kuai na “divindade” mais influente do setor de tecnologia taiwanês. Como afirma a _Enciclopédia das Lendas Urbanas de Taiwan_: “Enquanto as pessoas não conseguirem resolver o problema dos computadores que falham sem motivo aparente, o grande deus Kuai Kuai continuará existindo”.
+Essa mentalidade de "melhor crer que tem, do que crer que não tem" fez do Guai Guai a "divindade" mais influente da indústria tecnológica de Taiwan. Como diz a _Enciclopédia das Lendas Urbanas de Taiwan_ (《臺灣都市傳說百科》): "Enquanto as pessoas não conseguirem resolver o problema de computadores que travam sem razão, o Grande Deus Guai Guai continuará existindo."
 
-E fazer com que computadores jamais apresentem falhas é praticamente impossível. Assim, em Taiwan, país onde tecnologia e crença se entrelaçam, o Kuai Kuai verde continuará protegendo máquinas de precisão e testemunhando o mais curioso equilíbrio entre racionalidade e superstição.
+E fazer com que computadores não travem é praticamente impossível. Portanto, nesta terra de Taiwan onde tecnologia e fé se entrelaçam, o Guai Guai verde continuará guardando aquelas máquinas de precisão, testemunhando o equilíbrio mais interessante entre razão e superstição.
 
 ## Referências
 
-- [Uma cultura singular de tecnologia e fé: quando surgiu a lenda urbana de colocar Kuai Kuai verde junto às máquinas?](https://city.gvm.com.tw/article/83154)
-- [Colocar um pacote de “Kuai Kuai verde” sobre uma máquina garante seu funcionamento? Por que o “Kuai Kuai amarelo” daria problema?](https://pansci.asia/archives/328678)
-- [BBC noticia a cultura do Kuai Kuai em Taiwan: quem inventou a tradição de colocar Kuai Kuai verde sobre as máquinas?](https://buzzorange.com/citiorange/2021/04/15/kuaikuai-works/)
-- [Cultura do Kuai Kuai — Wikipédia](https://zh.wikipedia.org/zh-hant/乖乖文化)
-- [Cultura taiwanesa do Kuai Kuai chega à BBC; internautas exclamam: “Descobriram o segredo dos altos rendimentos!”](https://news.ltn.com.tw/news/life/breakingnews/3501551)
+- [Cultura única de tecnologia e fé! Quando começou a lenda urbana de colocar Guai Guai verde nas máquinas?](https://city.gvm.com.tw/article/83154)
+- [Colocar "Guai Guai verde" na máquina garante funcionamento? Por que "Guai Guai amarelo" dá ruim?](https://pansci.asia/archives/328678)
+- [BBC reporta cultura Guai Guai de Taiwan: Quem inventou que se deve colocar Guai Guai verde nas máquinas?](https://buzzorange.com/citiorange/2021/04/15/kuaikuai-works/)
+- [Cultura Guai Guai - Wikipédia](https://zh.wikipedia.org/zh-hant/乖乖文化)
+- [Cultura Guai Guai de Taiwan chega à BBC; internautas: Segredo do alto rendimento descoberto!](https://news.ltn.com.tw/news/life/breakingnews/3501551)

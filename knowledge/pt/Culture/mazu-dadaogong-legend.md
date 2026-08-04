@@ -1,10 +1,8 @@
 ---
-title: 'A lenda de amor de Mazu e Dadaogong: a previsão meteorológica mais romântica de Taiwan'
-description: '«Chuva da avó Mazu, vento do avô Dadaogong» não é apenas um provérbio meteorológico; por trás esconde-se uma história de amor e ódio entre divindades'
+title: 'A lenda de amor de Mazu e Baosheng Dadi: a previsão meteorológica mais romântica de Taiwan'
+description: '"Chuva da avó Mazu, vento do avô Baosheng" não é apenas um provérbio meteorológico, esconde uma história de amor e ódio entre divindades'
 date: 2026-03-21
-author: 'Taiwan.md'
 category: 'Culture'
-subcategory: '宗教與民俗'
 tags:
   [
     'cultura de Taiwan',
@@ -13,74 +11,77 @@ tags:
     'Baosheng Dadi',
     'provérbios meteorológicos',
   ]
+subcategory: '宗教與民俗'
+author: 'Taiwan.md'
+featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false
-featured: false
+curation: 'incubating'
 translatedFrom: 'Culture/媽祖與大道公的傳說.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:e0f0df37674e0a42'
 sourceBodyHash: 'sha256:0cf1fac1d7c9b8b4'
-translatedAt: '2026-07-24T23:02:19+08:00'
+translatedAt: '2026-08-04T20:19:12+08:00'
 ---
 
-> **Resumo em 30 segundos**: todos os anos, no 15.º dia do terceiro mês lunar, aniversário de Baosheng Dadi, venta invariavelmente; no 23.º dia do terceiro mês lunar, aniversário de Mazu, chove invariavelmente. O povo de Taiwan regista esta regularidade meteorológica milenar no provérbio «Vento do avô Dadaogong, chuva da avó Mazu». Mas a tradição oral conta que por trás desse padrão climático existe uma história de amor inacabada entre duas divindades.
+> **Resumo em 30 segundos**: Todos os anos, no 15.º dia do terceiro mês lunar, aniversário de Baosheng Dadi, venta obrigatoriamente; no 23.º dia do terceiro mês lunar, aniversário de Mazu, chove obrigatoriamente. O povo de Taiwan usa o provérbio "Vento do avô Baosheng, chuva da avó Mazu" para registar esta regularidade meteorológica de mil anos. Mas a lenda popular diz que isto se deve a uma história de amor inacabada entre as duas divindades.
 
-Em Taiwan, circula há muito um provérbio meteorológico: «Vento do avô Dadaogong, chuva da avó Mazu». Esta frase não é apenas uma observação de fenómenos atmosféricos; carrega a mais comovente história de amor do imaginário popular taiwanês — o enredo de amor e ódio entre duas divindades guardiãs, que ainda hoje se encena a cada primavera no vento e na chuva.
+Em Taiwan, existe um provérbio meteorológico transmitido há muito tempo: "Vento do avô Baosheng, chuva da avó Mazu". Esta frase não é apenas uma observação de fenómenos meteorológicos, carrega também a mais comovente história de amor das crenças populares de Taiwan — os amores e ódios entre duas divindades guardiãs, que ainda hoje se encenam a cada primavera no vento e na chuva.
 
 ## A origem das duas divindades
 
-Mazu, de nome secular Lin Mo-niang, era uma jovem de Meizhou na época da dinastia Song; por ter salvado náufragos, ascendeu à condição divina e é venerada como protetora dos mares. Dadaogong, nome secular Wu Pen, estilo Hua-ji, natural de Tong'an, Quanzhou, no norte da dinastia Song, dominava a arte médica e é conhecido como Baosheng Dadi (Grande Imperador Protetor da Vida), uma das principais divindades médicas do culto popular taiwanês.
+Mazu, de nome original Lin Mo-niang, era uma jovem de Meizhou na época da dinastia Song, que se tornou divindade por salvar náufragos no mar, sendo venerada como protetora dos mares. Baosheng Dadi, de nome original Wu Pen, estilo Hua-chi, natural de Tong'an, Quanzhou, na dinastia Song do Norte, era exímio na arte médica, conhecido como Grande Imperador que Protege a Vida, sendo uma das principais divindades médicas das crenças populares de Taiwan.
 
-Ambas as divindades provêm da região de Minnan (sul de Fujian) e ocupam lugar central na religiosidade popular de Taiwan. Mazu zela pela segurança dos pescadores no mar; Baosheng Dadi cura doenças e salva vidas. Originalmente, cada qual cumpria a sua função, sem interferência mútua. Mas a imaginação popular teceu para eles uma história de amor que atravessa o yin e o yang.
+Ambas as divindades provêm de Minnan (sul de Fujian) e ocupam lugar importante nas crenças populares de Taiwan. Mazu protege os pescadores nas saídas ao mar, Baosheng Dadi cura doenças e salva vidas; originalmente cada uma cumpria a sua função, sem interferir uma na outra. Mas a imaginação popular teceu para elas uma história de amor que atravessa o yin e o yang.
 
-## A tragédia de um pedido de casamento recusado
+## A tragédia amorosa do pedido de casamento recusado
 
-Segundo a lenda, após a ascensão, Mazu e Dadaogong percorriam frequentemente a costa, socorrendo vítimas de naufrágios durante tufões ou de epidemias. Nessas missões de salvamento, encontravam-se amiúde, e Dadaogong acabou por se apaixonar à primeira vista pela compaixão e beleza de Mazu.
+Segundo a lenda popular, após subirem aos céus, Mazu e Baosheng Dadi patrulhavam frequentemente as zonas costeiras, socorrendo vítimas de naufrágios causados por tufões ou de epidemias. Nestes salvamentos, encontravam-se amiúde, e Baosheng Dadi foi-se deixando atrair gradualmente pela compaixão e beleza de Mazu, apaixonando-se à primeira vista.
 
-Certo dia, Dadaogong reuniu coragem e pediu Mazu em casamento, mas foi severamente rejeitado. Mazu repreendeu-o: como divindade, não deveria nutrir sentimentos mundanos, nem se distrair da sagrada missão de salvar vidas. O rejeitado Dadaogong, simultaneamente magoado e receoso, temeu que Mazu levasse o caso ao Imperador de Jade, expondo-o a consequências mais graves.
+Certo dia, Baosheng Dadi reuniu coragem e pediu Mazu em casamento, mas foi severamente recusado. Mazu repreendeu-o por ser uma divindade e não dever ter sentimentos mundanos, muito menos distrair-se durante a sagrada missão de salvar vidas. O rejeitado Baosheng Dadi ficou ao mesmo tempo zangado e preocupado, receando que Mazu reportasse o assunto ao Imperador de Jade, expondo-o a consequências mais graves.
 
-Daí em diante, a relação entre os dois tornou-se sutil e tensa; o amor de Dadaogong transformou-se em ressentimento, e ele passou a buscar uma oportunidade de vingança.
+Desde então, a relação entre os dois tornou-se subtil e tensa; o amor no coração de Baosheng Dadi transformou-se em ressentimento, e ele começou a procurar uma oportunidade de vingança.
 
-## A batalha de vento e chuva do terceiro mês lunar
+## A grande batalha de vento e chuva do terceiro mês lunar
 
-O ponto de viragem deu-se a 23 do terceiro mês lunar, aniversário de Mazu. Nesse dia, Mazu saiu em procissão (出巡), e Dadaogong julgou chegada a hora da represália. Lançou um feitiço que fez desabar um temporal, deixando Mazu encharcada e envergonhada como um «frango molhado» (落湯雞).
+O ponto de viragem ocorreu a 23 do terceiro mês lunar, aniversário de Mazu. Nesse dia, Mazu saía em procissão, e Baosheng Dadi julgou chegada a oportunidade de vingança. Lançou um feitiço e fez cair um temporal, deixando Mazu encharcada e num estado lastimável.
 
-Mazu, com um gesto de adivinhação (屈指一算), percebeu que era obra de Dadaogong e decidiu retribuir na mesma moeda. No ano seguinte, a 15 do terceiro mês lunar, aniversário de Dadaogong, Mazu evocou um vendaval que derrubou o chapéu oficial (烏紗帽) de Dadaogong, pondo em debandada a sua comitiva processional.
+Mazu contou nos dedos, percebeu que era obra de Baosheng Dadi, e decidiu retribuir na mesma moeda. No ano seguinte, a 15 do terceiro mês lunar, aniversário de Baosheng Dadi, Mazu lançou um feitiço que levantou um vendaval, derrubando o chapéu oficial de Baosheng Dadi e pondo em debandada a sua comitiva de procissão.
 
-Desde então, todos os anos, a 15 do terceiro mês lunar, aniversário de Dadaogong, venta obrigatoriamente; a 23 do terceiro mês lunar, aniversário de Mazu, chove obrigatoriamente — tornando-se a previsão meteorológica primaveril mais fiável de Taiwan. Diz o povo: «15 do terceiro mês, vento do avô Dadaogong; 23 do terceiro mês, chuva da avó Mazu».
+Daí em diante, todos os anos, a 15 do terceiro mês lunar, aniversário de Baosheng Dadi, venta obrigatoriamente; a 23 do terceiro mês lunar, aniversário de Mazu, chove obrigatoriamente, tornando-se a previsão meteorológica mais precisa da primavera de Taiwan. O povo diz desde então: "A 15 do terceiro mês, vento do avô Baosheng; a 23 do terceiro mês, chuva da avó Mazu".
 
-## O significado sagrado da cultura do «lavar o caminho»
+## O significado sagrado da cultura de "lavar o caminho"
 
-Curiosamente, o povo de Taiwan dá outra interpretação ao vento e à chuva que acompanham as procissões divinas: a cultura do «lavar o caminho» (洗路) ou «lavar o caminho do incenso» (洗香路). Os devotos creem que, antes de sair em procissão, a divindade faz cair a chuva para lavar a poeira do seu território, preparando o percurso sagrado.
+Curiosamente, o povo de Taiwan tem outra interpretação para o vento e a chuva durante as procissões das divindades, chamada cultura de "lavar o caminho" ou "lavar o caminho do incenso". Os crentes creem que, antes de sair em procissão, a divindade faz cair chuva para lavar a poeira da sua jurisdição, preparando a sagrada atividade de patrulha.
 
-Este conceito de «lavar o caminho» não se aplica apenas a Mazu e Dadaogong; outras divindades têm narrativas semelhantes. Por exemplo, os fiéis de Baoyi Zunwang explicam que a chuva forte serve para afugentar pragas das colheitas, condizente com a sua função de guardião da agricultura.
+Este conceito de "lavar o caminho" não se aplica apenas a Mazu e Baosheng Dadi; outras divindades têm lendas semelhantes. Por exemplo, os crentes de Pao-yi Tsun-wang explicam que a chuva forte serve para afugentar as pragas das culturas, condizente com a sua função de protetor da agricultura.
 
-Sob uma ótica prática, a chuva que antecede a procissão efetivamente traz benefícios: baixa a temperatura, refresca o ar e torna mais confortável a participação dos devotos na festividade. Essa fusão entre fenómeno natural e cultura religiosa revela a sabedoria do culto popular taiwanês.
+Do ponto de vista prático, uma chuva antes da procissão da divindade traz efetivamente benefícios: baixa a temperatura, aumenta o frescor, tornando mais confortável a participação dos crentes na festividade. Esta combinação de fenómeno natural com cultura religiosa demonstra a sabedoria das crenças populares de Taiwan.
 
-## A continuação moderna do enredo amor-ódio
+## A continuação moderna dos amores e ódios
 
-Em certas versões da história, o «duelo mágico» entre Dadaogong e Mazu ganha contornos mais delicados. A cada aniversário de Mazu, Dadaogong faz chover para lavar o pó e a pintura do rosto dela, para que os devotos vejam a sua face mais verdadeira. A cada aniversário de Dadaogong, Mazu sopra o vento para que a multidão veja o seu rosto coberto de feridas — pois, para salvar doentes, Dadaogong teria transferido para si mesmo as úlceras e chagas dos enfermos.
+Em certas versões da história, o "duelo mágico" entre Baosheng Dadi e Mazu é mais delicado. A cada aniversário de Mazu, Baosheng Dadi faz chover para lavar o pó de arroz do rosto dela, deixando os crentes verem a sua face mais verdadeira. E a cada aniversário de Baosheng Dadi, Mazu levanta vento para que os fiéis vejam o seu verdadeiro rosto coberto de chagas (porque Baosheng Dadi, para salvar doentes, teria transferido para si as úlceras dos enfermos).
 
-Esse comportamento mútuo de «sabotar» o outro encerra tanto o ressentimento pela rejeição amorosa quanto a atenção e o cuidado recíprocos. Como se diz hoje: «O oposto do amor não é o ódio, é a indiferença» — Dadaogong e Mazu continuam a dialogar através do vento e da chuva, provando que nunca se esqueceram um do outro.
+Este comportamento mútuo de "sabotagem" encerra tanto o ressentimento pelo amor recusado como a atenção e o cuidado recíprocos. Como se diz hoje em dia, "o oposto do amor não é o ódio, é a indiferença" — Baosheng Dadi e Mazu continuam até hoje a dialogar com vento e chuva, provando que nunca se esqueceram um do outro.
 
 ## Fundamento científico do provérbio meteorológico
 
-Embora a história de amor comova, o fenómeno «Vento do avô Dadaogong, chuva da avó Mazu» tem base científica. O terceiro mês lunar coincide com a primavera em Taiwan, período de transição do monção de nordeste para o de sudoeste, quando os sistemas meteorológicos mudam violentamente, propiciando ventos fortes e chuvas.
+Embora a história de amor seja comovente, o fenómeno meteorológico "Vento do avô Baosheng, chuva da avó Mazu" tem de facto fundamento científico. O terceiro mês lunar coincide com a primavera de Taiwan, período de transição do monção de nordeste para o de sudoeste, com mudanças bruscas nos sistemas meteorológicos, propícios a ventos fortes e chuvas.
 
-Os antigos habitantes de Taiwan observaram agudamente esta regularidade e usaram a narrativa divina para memorizar e transmitir o conhecimento meteorológico. Essa prática de integrar observação científica na cultura religiosa é a melhor expressão da sabedoria popular taiwanesa.
+Os antigos antepassados de Taiwan observaram agudamente esta regularidade e usaram a história das divindades para memorizar e transmitir o conhecimento meteorológico. Esta prática de integrar observação científica na cultura religiosa é a melhor manifestação da sabedoria popular de Taiwan.
 
 ## A esperança de reconciliação
 
-Na tradição oral, se num dado ano o aniversário de Dadaogong ou de Mazu amanhece calmo, sem vento nem chuva, os devotos exclamam: «Este ano o avô Dadaogong e a avó Mazu fizeram as pazes!» Essa expectativa otimista reflete o anseio do povo de Taiwan por um final feliz.
+Na lenda popular, se num certo ano o dia do aniversário de Baosheng Dadi ou de Mazu amanhecer calmo e sereno, os crentes dirão: "Este ano o avô Baosheng e a avó Mazu fizeram as pazes!" Esta expectativa otimista reflete o anseio do povo de Taiwan por um final feliz.
 
-A cada primavera, quando o vento e a chuva chegam pontuais, os taiwaneses pensam não apenas na mudança do tempo, mas naquela história de amor eterna. Nela, o amor atravessa a vida e a morte, o ressentimento perdura milénios, mas, no fundo, as pessoas ainda esperam que os amantes acabem por se reunir.
+A cada primavera, quando o vento e a chuva chegam como combinado, os taiwaneses pensam não apenas na mudança do tempo, mas naquela eterna história de amor. Nesta história, o amor pode atravessar a vida e a morte, o ressentimento pode durar mil anos, mas, no fim, as pessoas ainda esperam que os amantes acabem por se unir.
 
-Quem sabe, um dia, quando a primavera deixar de trazer vento e chuva tão pontuais, saberemos que Mazu e Dadaogong finalmente puseram de lado milénios de mágoas e se reconciliaram nos céus. E então a primavera de Taiwan se tornará mais suave, porque as divindades que protegem esta terra terão afinal aprendido o verdadeiro amor.
+Quem sabe, um dia, quando o vento e a chuva da primavera deixarem de ser tão pontuais, saberemos que Mazu e Baosheng Dadi finalmente puseram de lado mil anos de mágoas e se reconciliaram nos céus. E então a primavera de Taiwan se tornará mais suave, porque as divindades que protegem esta terra finalmente terão aprendido o verdadeiro amor.
 
 ## Referências
 
-- [Por que Mazu sempre chove em procissão e Dadaogong sempre venta? Ele revela o amor e ódio entre as duas divindades, escondendo uma história de amor desconhecida](https://www.storm.mg/lifestyle/3592930)
-- [Conversa sobre «Vento do avô Dadaogong, chuva da avó Mazu»](https://www.scooptw.com/thinktank/sightsee/136513/)
-- [Dadaogong e a avó Mazu — Sobre Baosheng Dadi](http://baosheng.org.tw/show.asp?id=79)
+- [Por que Mazu em procissão sempre chove, Baosheng Dadi em procissão sempre venta? Ele revela os amores e ódios entre as duas divindades, por trás esconde-se uma história de amor desconhecida](https://www.storm.mg/lifestyle/3592930)
+- [Conversa sobre "Vento do avô Baosheng, chuva da avó Mazu"](https://www.scooptw.com/thinktank/sightsee/136513/)
+- [Baosheng Dadi e a avó Mazu — Sobre Baosheng Dadi](http://baosheng.org.tw/show.asp?id=79)
 - [Baosheng Dadi — Wikipédia](https://zh.wikipedia.org/zh-tw/保生大帝)
-- [Teve um romance com Mazu? «Vento do avô Dadaogong, chuva da avó Mazu» — o deus médico Baosheng Dadi, no seu aniversário, venta obrigatoriamente?](https://today.line.me/tw/v2/article/nX57WNq)
+- [Teve um romance com Mazu? "Vento do avô Baosheng, chuva da avó Mazu" — Hoje é o aniversário da divindade médica Baosheng Dadi, venta obrigatoriamente?](https://today.line.me/tw/v2/article/nX57WNq)

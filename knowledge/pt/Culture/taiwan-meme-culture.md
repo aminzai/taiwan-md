@@ -1,141 +1,143 @@
 ---
-title: 'Memes de Taiwan: Trinta Anos de Evolução Cultural, dos Usuários do PTT à Válvula de Segurança Social'
-description: "Os memes de Taiwan não são apenas piadas da internet, mas sim um experimento criativo coletivo que atravessa trinta anos. Desde a alquimia linguística dos fóruns anônimos do PTT até a cura coletiva social de 'Irmão Jie, Não!', e até casos clássicos como 'Shangba' e 'Pangolin', os memes de Taiwan evoluíram para um mecanismo único de 'válvula de segurança social', transformando constrangimento, trauma e ansiedade política em símbolos culturais que podem ser compartilhados."
+title: 'Memes de Taiwan: dos vizinhos do PTT à válvula de escape social — trinta anos de evolução cultural'
+description: 'Os memes de Taiwan não são apenas piadas de internet, mas um experimento de criação coletiva que atravessa trinta anos. Da alquimia linguística do fórum anônimo PTT, à cura coletiva social de "Jie Ge Bu Yao", passando por casos clássicos como "Shang Ba" e "pangolim", os memes de Taiwan evoluíram para um mecanismo único de "válvula de escape social", transformando constrangimento, trauma e ansiedade política em símbolos culturais que podem ser compartilhados coletivamente.'
 date: 2026-07-23
-author: 'Taiwan.md Contributors'
 category: 'Culture'
-subcategory: '網路文化'
 tags:
   [
-    'Memes',
-    'Cultura da Internet',
+    'memes',
+    'cultura de internet',
     'PTT',
     'Komica',
-    'Válvula de Segurança Social',
-    'Memes Clássicos',
+    'válvula de escape social',
+    'memes clássicos',
   ]
+subcategory: '網路文化'
+author: 'Taiwan.md Contributors'
+featured: false
 readingTime: 12
 lastVerified: 2026-07-23
 lastHumanReview: false
-featured: false
+relatedDiary: ['2026-07-23-214453-idlccp-clownfish-instrument']
+curation: 'incubating'
 translatedFrom: 'Culture/台灣迷因.md'
-sourceCommitSha: '1b3c22ac7'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:21f968d51e24c095'
 sourceBodyHash: 'sha256:758baf07e7746d38'
-translatedAt: '2026-07-25T21:33:46+08:00'
+translatedAt: '2026-08-04T20:19:12+08:00'
 ---
 
-> **Resumo em 30 segundos:** Em 1995, um computador 486 no Dormitório Masculino Número 8 da Universidade de Taiwan abrigou o PTT, inaugurando inadvertidamente a era pré-histórica dos memes de Taiwan. Ao longo de trinta anos, os memes de Taiwan evoluíram de uma linguagem de subcultura em fóruns anônimos para um mecanismo social que lida com traumas coletivos (como "Irmão Jie, Não!") e ansiedade política. Eles possuem uma "originalidade local" e uma "crítica não confrontacional" únicas, tornando-se a válvula de alívio mais sofisticada da sociedade taiwanesa ao enfrentar pressões sistêmicas, através de casos clássicos como "Shangba", "Pangolin" e "Não pode ser pervertido".
+> **Visão geral em 30 segundos:** Em 1995, um computador 486 no Dormitório Masculino 8 da Universidade de Taiwan ergueu o PTT, abrindo inadvertidamente a era pré-histórica dos memes de Taiwan. Ao longo de trinta anos, os memes de Taiwan evoluíram de gíria de subcultura de fóruns anônimos para um mecanismo social que lida com traumas coletivos (como "Jie Ge Bu Yao") e ansiedade política. Eles possuem uma "originalidade local" única e "crítica não antagônica", e através de casos clássicos como "Shang Ba", "pangolim", "não pode ser pervertido", tornaram-se a mais engenhosa válvula de escape da sociedade taiwanesa diante de pressões sistêmicas.
 
-# Memes de Taiwan: Trinta Anos de Evolução Cultural, dos Usuários do PTT à Válvula de Segurança Social
+# Memes de Taiwan: dos vizinhos do PTT à válvula de escape social — trinta anos de evolução cultural
 
-Em 2013, um vídeo de conscientização sobre a prevenção de crimes sexuais produzido pelo Ministério da Educação de Taiwan, intitulado "Se Soubéssemos Cedo Que Meninos Também Podem Ser Violados", gerou uma onda enorme na comunidade da internet de Taiwan com a frase originalmente pesada "Irmão Jie, Não!". Essa frase, que originalmente carregava uma missão educacional, evoluiu rapidamente sob a recriação criativa dos internautas para se tornar um meme duradouro. Em 2021, ele ultrapassou 27 milhões de visualizações no Bilibili e foi adaptado em um jogo da Steam e um musical [^1]. Isso não é uma zombaria às vítimas, mas sim o mecanismo central da cultura de memes de Taiwan: transformar a dor social indizível em um riso que pode ser compartilhado.
+Em 2013, um vídeo de prevenção contra violência sexual do Ministério da Educação, "Se soubesse antes que homens também podem ser vítimas de violência sexual", teve a fala originalmente pesada "Jie Ge Bu Yao la" gerando ondas inesperadas nas comunidades de internet de Taiwan. Essa frase, que originalmente carregava uma missão educativa, sob a recriação criativa dos internautas, rapidamente se transformou em um meme duradouro, chegando a ultrapassar 27 milhões de visualizações no Bilibili em 2021 e sendo adaptada para jogo na Steam e musical [^1]. Isso não é zombaria da vítima, mas o mecanismo central da cultura de memes de Taiwan: sublimar dores sociais indizíveis em risadas que podem ser compartilhadas coletivamente.
 
-## Origem Histórica: PTT e a Alquimia da Linguagem
+## Origem histórica: PTT e a alquimia da linguagem
 
-As raízes dos memes de Taiwan podem ser rastreadas até o PTT (Ptt BBS) de meados da década de 1990 e a Komica (Ilha K), fundada em 2005 [^9] [^6]. Nesses espaços digitais anônimos, os internautas de Taiwan desenvolveram um sistema linguístico único, estabelecendo as bases da cultura de memes:
+A raiz dos memes de Taiwan remonta ao PTT (批踢踢實業坊) em meados dos anos 1990 e ao Komica (K島), fundado em 2005 [^9] [^6]. Nesses espaços digitais anônimos, os internautas taiwaneses desenvolveram um sistema linguístico único, lançando as bases da cultura de memes:
 
-1. **Cultura de comentários (推文):** Criar o maior efeito cômico com palavras extremamente concisas, formando os primeiros "memes de texto".
+1. **Cultura de respostas (push)**: usar textos extremamente concisos para criar o máximo efeito cômico, formando os primeiros "memes textuais".
 
-2. **Homofonia e tradução:** Como "Ding Ding é um talento" e "O que você está gritando?" [^4], que reorganizam descontextualizados materiais de filmes e programas de TV.
+1. **Trocadilhos e reinterpretação**: como "Ding Ding é um talento", "O que você está gritando?" [^4], recompondo materiais audiovisuais de forma descontextualizada.
 
-3. **Inteligência coletiva trazida pela anonimidade:** A Komica, que imita a estrutura do 5ch japonês, enfatiza a criação pura da "anonimidade total", complementando a "cultura dos moradores do PTT" com atributos sociais [^2] [^3].
+1. **Sabedoria coletiva trazida pelo anonimato**: o formato do K島 imita o 5ch japonês, enfatizando a criação pura do "anonimato puro", complementando a "cultura de vizinhos" do PTT, que possui atributos sociais [^2] [^3].
 
-📝 **Nota da Curadora #1:** A origem dos memes de Taiwan não é visual, mas sim "linguística". Somos habilidosos em capturar o ritmo e o absurdo das conversas, refinando-os em ferramentas linguísticas reutilizáveis. Isso também explica por que muitos memes clássicos estão intimamente ligados à "voz" ou ao "tom".
+📝 **Nota do curador #1**: A origem dos memes de Taiwan não são imagens visuais, mas a "linguagem". Somos hábeis em capturar o ritmo e o absurdo nas conversas, destilando-os em ferramentas linguísticas reutilizáveis, o que explica por que muitos memes clássicos estão intimamente ligados a "sons" ou "tonalidades".
 
-## Características Centrais: Por Que os Memes de Taiwan São "Diferentes"?
+## Características centrais: por que os memes de Taiwan são "diferentes"?
 
-Diferente dos memes ocidentais, que frequentemente derivam de "recriações de bancos de imagens gratuitos" (Image Macro), os memes de Taiwan demonstram uma forte **originalidade local** e **crítica social** [^4]. Eles não são apenas colagens de imagens, mas respostas profundas ao contexto social de Taiwan. A tabela a seguir resume as características e casos clássicos dos memes de Taiwan em diferentes fases de desenvolvimento:
+Diferente dos memes euro-americanos, que provêm majoritariamente de "edição de banco de imagens grátis" (Image Macro), os memes de Taiwan exibem forte **originalidade local** e **criticidade social** [^4]. Não são apenas colagens de imagens, mas respostas profundas ao contexto social de Taiwan. A tabela abaixo resume as características e casos clássicos dos memes de Taiwan em diferentes fases de desenvolvimento:
 
-| Fase de Desenvolvimento                 | Plataforma Central | Características do Meme                                         | Casos Clássicos                                   |
-| --------------------------------------- | ------------------ | --------------------------------------------------------------- | ------------------------------------------------- |
-| Era Pré-Histórica (1995-2005)           | PTT / BBS          | Jogos de texto, arte ASCII                                      | 5566 é o primeiro, 5º andar, por favor, dê pontos |
-| Emergência de Áudio e Vídeo (2006-2012) | YouTube / Komica   | Recriação de capturas de tela, apropriação de diálogos de vídeo | Irmão Jie, Não!, O que você está gritando?        |
-| Expansão Social (2013-2019)             | Facebook / LINE    | Sátira política, "imagens de seniores", piadas de notícias      | General Zhou, Prosperidade, Que pena              |
-| Evolução de Plataformas (2020-atual)    | Threads / IG       | Musicalização, vídeos curtos, ressonância da vida               | General Tong servindo hotpot, Calma e Comodidade  |
+| Fase de desenvolvimento                 | Plataforma central | Características do meme                                  | Casos clássicos                                                     |
+| --------------------------------------- | ------------------ | -------------------------------------------------------- | ------------------------------------------------------------------- |
+| Era pré-histórica (1995-2005)           | PTT / BBS          | Jogos de texto, arte de símbolos (ASCII)                 | 5566 fica em primeiro, quinto andar por favor dê pontos             |
+| Brotação audiovisual (2006-2012)        | YouTube / K島      | Edição de capturas, apropriação de falas audiovisuais    | Jie Ge Bu Yao, O que você está gritando?                            |
+| Expansão nas redes sociais (2013-2019)  | Facebook / LINE    | Sátira política, imagens de idosos, memes de atualidades | Irmão Barco, ficar rico, que pena                                   |
+| Evolução de plataformas (2020-presente) | Threads / IG       | Musicalização, vídeos curtos, ressonância cotidiana      | Tong Shen servindo hot pot, calmo e composto lidando com facilidade |
 
-### 1. **O Radicalismo Suave de "Zombar Sem Alvo"**
+### 1. **"Zombaria sem alvo" — um radicalismo suave**
 
-Os memes de Taiwan frequentemente adotam uma estratégia especial: eles apontam para problemas sistêmicos, mas os expressam de forma não confrontacional. Por exemplo, "Que pena" ou "Prosperidade" para figuras políticas, embora carreguem sátira, dissolvem principalmente a seriedade política em tópicos do cotidiano [^3]. Esse senso de humor permite que a crítica se espalhe em um ambiente relativamente harmonioso.
+Os memes de Taiwan frequentemente adotam uma estratégia especial: apontam para problemas sistêmicos, mas os expressam de forma não antagônica. Por exemplo, "que pena" ou "ficar rico" dirigidos a figuras políticas, embora carreguem ironia, servem mais para dissolver a seriedade política em conversa cotidiana [^3]. Esse humor permite que a crítica se propague em uma atmosfera relativamente harmoniosa.
 
-### 2. **O Mecanismo de Alívio da Válvula de Segurança Social**
+### 2. **Mecanismo de descompressão da válvula de escape social**
 
-Esta é uma visão contra-intuitiva: **os memes de Taiwan são o mecanismo principal da válvula de segurança social**. Quando o público enfrenta a incapacidade da autoridade, o absurdo da mídia (como as respostas sem sentido do General Zhou em entrevistas de rua [^5]) ou a ansiedade econômica, os memes fornecem um espaço de "brincadeira inofensiva", permitindo que a pressão social seja liberada sem provocar conflitos físicos [^3].
+Este é um ponto de vista contra-intuitivo: **os memes de Taiwan são o principal mecanismo da válvula de escape social**. Quando as massas enfrentam a incompetência da autoridade, o absurdo da mídia (como a resposta sem nexo do Irmão Barco a uma entrevista de rua [^5]) ou a ansiedade econômica, os memes oferecem um espaço de "pegadinha inofensiva", permitindo que a pressão social seja liberada sem desencadear conflitos físicos [^3].
 
-## Análise de Casos Clássicos: Localidade e Ressonância Social dos Memes
+## Análise de casos clássicos: a localização dos memes e sua ressonância social
 
-A vitalidade dos memes de Taiwan frequentemente deriva da captura precisa de eventos e contextos locais. Os seguintes casos clássicos demonstram como os memes nascem de eventos específicos e geram ampla ressonância na sociedade:
+A vitalidade dos memes de Taiwan frequentemente vem de sua captura precisa de eventos e contextos locais. Os casos clássicos a seguir mostram como os memes nascem de eventos específicos e geram ampla ressonância na sociedade:
 
-### "Bateu no meu Shangba" [^12]
+### "Acertou meu queixo superior" [^12]
 
-Em 2018, ao noticiar o "surto de disputa de terras entre moradores em Tai'an", um entrevistado disse emocionado: "Ele deu um soco e bateu no meu 'Shangba' (queixo superior)". Esta declaração, que combinava sotaque local com um erro fisiológico, tornou-se viral na internet devido ao seu absurdo, tornando-se uma frase clássica para descrever choques inesperados ou eventos sem sentido. Ela não é apenas uma deslocação linguística, mas reflete a expressão emocional verdadeira das partes envolvidas em eventos de notícias e a natureza local da expressão linguística.
+Em 2018, a Indigenous Television News noticiou o "conflito de terras em Taian", quando um entrevistado disse excitado: "Ele me deu um soco bem no meu 'queixo superior'". Essa fala, com sotaque local e erro fisiológico (o termo "上巴" refere-se ao maxilar superior, não ao queixo), pela sua absurdidade tornou-se viral rapidamente, virando frase clássica para descrever choques inesperados ou eventos sem nexo. Não é apenas um deslocamento linguístico, mas reflete, em eventos noticiosos, a genuína expressão emocional do envolvido e a localidade da expressão linguística.
 
-### "Ei X! É um Pangolim! Posso Criar?" [^13]
+### "Pangolim, ei! Pode criar?" [^13]
 
-Em 2020, um internauta sobrenome Lin encontrou um pangolim enquanto andava de bicicleta à noite e gritou emocionado para seus amigos: "Ei X! É um pangolim! Uhu!". Este vídeo tornou-se um meme rapidamente devido à sua reação autêntica e sem sentido, bem como à surpresa e curiosidade em relação aos animais protegidos endêmicos de Taiwan. Ele não apenas demonstra a proximidade dos taiwaneses com a vida selvagem, mas também toca humorosamente na fronteira da relação entre humanos e natureza através da pergunta "posso criar?".
+Em 2020, um internauta de sobrenome Lin, ao andar de moto à noite, deparou-se com um pangolim e gritou excitado para o amigo: "Ei X! Pangolim, ei! Uau!", "Pode criar?". O vídeo, pela sua reação genuína e sem nexo, e pelo espanto e curiosidade diante de um animal de conservação único de Taiwan, tornou-se meme rapidamente. Não apenas mostra a proximidade dos taiwaneses com a vida selvagem, mas também, através da pergunta "pode criar?", toca humoristicamente a fronteira da relação entre humanos e natureza.
 
 ### "Não pode ser pervertido" [^14]
 
-Em 2021, uma imagem de um Shiba Inu chamado PONSAN sentado em um carrinho de compras, com uma expressão de injustiça apontada para um texto escrito "Não pode ser pervertido", invadiu rapidamente as redes de Taiwan e Hong Kong. Este meme "moe-ou" (torna fofo) a palavra "pervertido", que originalmente tinha uma conotação negativa, através da imagem adorável do Shiba Inu, tornando-se uma expressão de lembrete humorístico ou autocontrole. Ele não apenas衍生ou uma "batalha de cartas pervertidas" no estilo Yu-Gi-Oh!, mas também reflete o tratamento leve e a exploração de fronteiras pelas comunidades da internet em relação a questões sexuais.
+Em 2021, uma imagem do shiba-inu PONSAN sentado num carrinho de compras, com cara de injustiçado e a frase "Não pode ser pervertido" escrita ao lado, conquistou rapidamente a internet de Hong Kong e Taiwan. Esse meme pegou a palavra "色色" (sè sè), que originalmente tem conotação negativa ("pervertido", "lascivo"), e a "fofificou" (萌化) através da imagem fofa do shiba, transformando-a em uma forma de lembrete humorístico ou autolimitação. Não apenas gerou derivados no estilo Yu-Gi-Oh como "Batalha de Cartas Pervertidas", mas também reflete o tratamento leve e a exploração de fronteiras da comunidade de internet sobre temas relacionados a sexo.
 
-### "Aconteceu Algo, Abbei!" [^11]
+### "Deu problema, tio!" [^11]
 
-Este meme deriva de um vídeo da internet, onde um cidadão, ao testemunhar um acidente de carro, grita ansiosamente para um idoso aparente: "Aconteceu Algo, Abbei!". Esta frase se espalhou rapidamente na internet devido à urgência do seu tom e à sensação local do título "Abbei" (um termo coloquial para um homem idoso), tornando-se uma frase clássica para descrever situações repentinas ou alertar outros para prestar atenção. Ela captura o modo de interação direta e afetiva entre as pessoas na sociedade taiwanesa, mantendo um toque de humanidade mesmo em situações de emergência.
+Esse meme origina-se de um vídeo de internet: uma pessoa, ao testemunhar um acidente de carro, grita ansiosamente para um transeunte que parece idoso: "Deu problema, tio!". A frase, pela urgência do tom e pelo termo "阿北" (tio, termo carinhoso para homem mais velho) com seu sabor local, espalhou-se rapidamente na rede, tornando-se frase clássica para descrever situações súbitas ou alertar outrem. Captura o modo de interação direto e afetuoso entre pessoas na sociedade taiwanesa, que mesmo em emergências preserva um toque de humanidade.
 
-📝 **Nota da Curadora #2:** A "durabilidade do calor" dos memes de Taiwan é particularmente surpreendente. Muitos memes são continuamente remodelados ao longo de anos. Isso não é um simples "renascimento após a decadência", mas sim uma necessidade cultural profunda que continua a falar, reinterpretando continuamente questões sociais através dos memes.
+📝 **Nota do curador #2**: A "durabilidade da popularidade" dos memes de Taiwan é especialmente surpreendente. Muitos memes, após anos, continuam sendo constantemente reinventados; não é o comum "voltaram a ficar na moda depois de passados", mas sim alguma necessidade cultural profunda que continua a se expressar, reinterpretando continuamente questões sociais através dos memes.
 
-## Função Cultural: Da Transformação do Trauma para a Cura
+## Função cultural: da transformação do trauma em cura
 
-A característica mais única dos memes de Taiwan reside em sua capacidade de lidar com **traumas coletivos**. O viral "General Tong servindo hotpot" em 2020, um link de pesca, criou um senso de simultaneidade coletiva entre todos os internautas de Taiwan através de uma pequena brincadeira de "enganar com links", em um período de tensão pandêmica e aumento da incerteza econômica [^2]. Essa ressonância de "todos nós fomos enganados" dissolveu silenciosamente o sentimento de isolamento na vida real.
+O traço mais único dos memes de Taiwan reside em sua capacidade de lidar com **traumas coletivos**. O "link de phishing do Tong Shen servindo hot pot", que viralizou em 2020, no período de tensão pandêmica e aumento da incerteza econômica, através de uma "pegadinha de link para clicar", criou um senso de simultaneidade coletiva entre todos os internautas de Taiwan [^2]. Essa ressonância de "todos fomos enganados" dissolveu, invisivelmente, o isolamento da vida real.
 
-## O Lado Sombrio dos Memes: A Linha Fina da Cura para a Ruptura
+## O lado sombrio dos memes: a linha tênue entre cura e ruptura
 
-Embora os memes de Taiwan tenham um forte poder de cura e função social, seu desenvolvimento vem acompanhado de riscos potenciais. O caráter de entretenimento dos memes pode levar ao **deslocamento de questões**, desviando a atenção do público de questões políticas que deveriam ser discutidas pelos cidadãos para fragmentos de informação, encobrindo a gravidade dos problemas [^3]. Além disso, os algoritmos das redes sociais podem reforçar o **efeito da câmara de eco**, exacerbando a divisão social em vez de promover a compreensão. Quando os memes são excessivamente comercializados, eles também podem perder sua função original de cura, tornando-se meros símbolos de consumo [^3].
+Embora os memes de Taiwan possuam forte função terapêutica e social, seu desenvolvimento também carrega riscos potenciais. O caráter de entretenimento dos memes pode levar à **deriva de pautas**, desviando a atenção pública de questões políticas que merecem debate cívico para informações fragmentadas, encobrindo a gravidade dos problemas [^3]. Ademais, os algoritmos das redes sociais podem reforçar o **efeito câmara de eco**, agravando a divisão social em vez de promover a compreensão. Quando os memes são excessivamente comercializados, também podem perder sua função terapêutica original, degenerando em meros símbolos de consumo [^3].
 
-## Conclusão: Memes como Espelho da Cultura de Taiwan
+## Conclusão: os memes como espelho da cultura de Taiwan
 
-Olhando para trás por trinta anos, a cultura de memes de Taiwan reflete a complexidade desta ilha. Ela é tanto a emergência da criatividade quanto a sublimação da impotência frente a problemas estruturais. Desde os comentários puramente textuais do PTT até os vídeos curtos atuais do Threads, as formas mudam, mas o núcleo permanece o mesmo: **nós assumimos nossa vulnerabilidade comum através de um riso compartilhado**. Neste sentido, os memes não são apenas piadas da internet; eles são a resistência mais gentil e humorística dos taiwaneses ao enfrentar dificuldades.
+Olhando para trás, trinta anos, a cultura de memes de Taiwan reflete a complexidade desta ilha. É tanto emergência de criatividade quanto sublimação da impotência diante de problemas estruturais. Das respostas em puro texto do PTT aos vídeos curtos do Threads de hoje, a forma muda, mas o núcleo permanece inalterado: **usamos risadas compartilhadas para assumir nossa fragilidade compartilhada**. Nesse sentido, memes não são apenas "memes de internet"; são a resistência mais gentil e mais humorística dos taiwaneses diante das adversidades.
 
 ---
 
-## Leituras Adicionais
+## Leitura complementar
 
-- [PTT批踢踢](/technology/PTT批踢踢) — O local de nascimento da maioria dos memes e da cultura dos moradores de Taiwan
+- [PTT批踢踢](/technology/PTT批踢踢) — Berço da maioria dos memes e da cultura de vizinhos de Taiwan
 
-- [馬英九迷因](/society/馬英九迷因) — Estudo de caso clássico da politização de figuras políticas através de memes
+- [Memes de Ma Ying-jeou](/society/馬英九迷因) — Estudo de caso clássico da memeficação de figura política
 
-- [長輩圖](/pt/culture/elder-greeting-images) — Outro caminho de disseminação da internet com características taiwanesas
+- [Imagens de idosos](/pt/culture/elder-greeting-images) — Outro caminho de propagação na internet com características de Taiwan
 
-- [台灣VTuber](/pt/culture/taiwan-vtuber) — A fusão contemporânea entre personagens virtuais e a cultura de memes
+- [VTubers de Taiwan](/pt/culture/taiwan-vtuber) — Fusão contemporânea de personagens virtuais e cultura de memes
 
 ---
 
 ## Referências
 
-[^1]: [「杰哥不要」！從迷因現象探討社會對男性遭性侵的態度. (2021). Newtalk新聞](https://newtalk.tw/citizen/view/57727) — Consulte o conteúdo original para detalhes adicionais
+[^1]: ["Jie Ge Bu Yao"! A partir do fenômeno meme, discute-se a atitude da sociedade diante de homens vítimas de violência sexual. (2021). Newtalk News](https://newtalk.tw/citizen/view/57727) — Ver conteúdo suplementar no link original
 
-[^2]: [統神端火鍋. (2023). 維基百科](https://zh.wikipedia.org/zh-tw/%E7%B5%B1%E7%A5%9E%E7%AB%AF%E7%81%AB%E9%8D%8B) — Artigo da Wikipédia: Artigo da Wikipédia
+[^2]: [Tong Shen servindo hot pot. (2023). Wikipédia](https://zh.wikipedia.org/zh-tw/%E7%B5%B1%E7%A5%9E%E7%AB%AF%E7%81%AB%E9%8D%8B) — Verbete da Wikipédia: verbete da Wikipédia
 
-[^3]: [台灣網路社群的迷因文化特色是？ (2024). PTS+觀點同不同](https://issues.ptsplus.tv/articles/1591/) — Consulte o conteúdo original para detalhes adicionais
+[^3]: [Quais são as características da cultura de memes das comunidades de internet de Taiwan? (2024). PTS+ Pontos de Vista](https://issues.ptsplus.tv/articles/1591/) — Ver conteúdo suplementar no link original
 
-[^4]: [【迷因專題03】「你在大聲什麼啦！」迷因文化在台灣. (2021). DQ地球圖輯隊](https://dq.yam.com/post/13088) — Consulte o conteúdo original para detalhes adicionais
+[^4]: [[Especial Memes 03] "O que você está gritando!" A cultura de memes em Taiwan. (2021). DQ Revista Terra](https://dq.yam.com/post/13088) — Ver conteúdo suplementar no link original
 
-[^5]: [張吉吟（泛舟哥）. (2025). 維基百科](https://zh.wikipedia.org/zh-tw/%E5%90%89%E5%90%9F) — Artigo da Wikipédia: Artigo da Wikipédia
+[^5]: [Chang Chi-yin (Irmão Barco). (2025). Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%90%89%E5%90%9F) — Verbete da Wikipédia: verbete da Wikipédia
 
-[^6]: [Komica. (2024). 維基百科](https://zh.wikipedia.org/zh-hant/Komica) — Artigo da Wikipédia: Artigo da Wikipédia
+[^6]: [Komica. (2024). Wikipédia](https://zh.wikipedia.org/zh-hant/Komica) — Verbete da Wikipédia: verbete da Wikipédia
 
-[^7]: [迷因的起源與在台灣的擴散. (2020). 世新大學新聞學院](https://shuj.shu.edu.tw/blog/2020/06/29/%E8%BF%B7%E5%9B%A0%E7%9A%84%E8%B5%B7%E6%BA%90%E8%88%87%E5%9C%A8%E5%8F%B0%E7%81%A3%E7%9A%84%E6%93%B4%E6%95%A3/) — Consulte o conteúdo original para detalhes adicionais
+[^7]: [A origem e a difusão dos memes em Taiwan. (2020). Faculdade de Jornalismo da Universidade Shih Hsin](https://shuj.shu.edu.tw/blog/2020/06/29/%E8%BF%B7%E5%9B%A0%E7%9A%84%E8%B5%B7%E6%BA%90%E8%88%87%E5%9C%A8%E5%8F%B0%E7%81%A3%E7%9A%84%E6%93%B4%E6%95%A3/) — Ver conteúdo suplementar no link original
 
-[^8]: [【鄉民1】鄉民好兇好可怕——批踢踢鄉民文化難親近？ (2020). 世新大學新聞學院](https://shuj.shu.edu.tw/blog/2020/06/29/) — Consulte o conteúdo original para detalhes adicionais
+[^8]: [[Vizinhos 1] Vizinhos são tão ferozes e assustadores — a cultura de vizinhos do PTT é difícil de acessar? (2020). Faculdade de Jornalismo da Universidade Shih Hsin](https://shuj.shu.edu.tw/blog/2020/06/29/) — Ver conteúdo suplementar no link original
 
-[^9]: [什麼是「迷因」？ (2023). Newm App Blog](https://www.newm.app/blog/e7a60864e3b) — Consulte o conteúdo original para detalhes adicionais
+[^9]: [O que é "meme"? (2023). Blog Newm App](https://www.newm.app/blog/e7a60864e3b) — Ver conteúdo suplementar no link original
 
-[^10]: [網路的迷因現象之案例收集與分析. (2021). Artech Interpreter](https://medium.com/artech-interpreter/%E7%B6%B2%E8%B7%AF%E7%9A%84%E8%BF%B7%E5%9B%A0%E7%8F%BE%E8%B1%A1%E4%B9%8B%E6%A1%88%E4%BE%8B%E6%94%B6%E9%9B%86%E8%88%87%E5%88%86%E6%9E%90-c9879a8eddef) — Consulte o conteúdo original para detalhes adicionais
+[^10]: [Coleta e análise de casos do fenômeno meme na internet. (2021). Artech Interpreter](https://medium.com/artech-interpreter/%E7%B6%B2%E8%B7%AF%E7%9A%84%E8%BF%B7%E5%9B%A0%E7%8F%BE%E8%B1%A1%E4%B9%8B%E6%A1%88%E4%BE%8B%E6%94%B6%E9%9B%86%E8%88%87%E5%88%86%E6%9E%90-c9879a8eddef) — Ver conteúdo suplementar no link original
 
-[^11]: [出事了阿伯. (2023). 台灣迷因字典](https://itshsinyu.github.io/TWmeme/category.html) — Consulte o conteúdo original para detalhes adicionais
+[^11]: [Deu problema, tio. (2023). Dicionário de Memes de Taiwan](https://itshsinyu.github.io/TWmeme/category.html) — Ver conteúdo suplementar no link original
 
-[^12]: [迷因溯源EP2《#上巴》源自2018.3.25 原視新聞報導之「泰安爆民眾爭地風波」. (2024). YouTube](https://www.youtube.com/shorts/_cJeDzWYyRc) — Registro de vídeo do YouTube
+[^12]: [Rastreamento de meme EP2 "#Shang Ba" origina-se de 2018.03.25 reportagem da Indigenous Television News "Conflito de terras em Taian". (2024). YouTube](https://www.youtube.com/shorts/_cJeDzWYyRc) — Registro de vídeo do YouTube
 
-[^13]: [「欸X！穿山甲欸」第二集！ 迷因本人秒變暖男護送過馬路. (2021). 自由時報](https://news.ltn.com.tw/news/novelty/breakingnews/3454280) — Relatório do Liberty Times: Relatório do Liberty Times
+[^13]: ["Ei X! Pangolim, ei!" Episódio 2! O próprio do meme vira rapaz gentil e acompanha na travessia. (2021). Liberty Times](https://news.ltn.com.tw/news/novelty/breakingnews/3454280) — Reportagem do Liberty Times: reportagem do Liberty Times
 
-[^14]: [【不可以色色】迷因完整起源｜柴犬表情包如何攻陷港台網絡. (2023). 香港財經新聞](https://www.hongkongfinancenews.com/%E8%89%B2%E8%89%B2/) — Consulte o conteúdo original para detalhes adicionais
+[^14]: [[Não pode ser pervertido] Origem completa do meme | Como o pacote de expressões do shiba conquistou a internet de Hong Kong e Taiwan. (2023). Hong Kong Economic News](https://www.hongkongfinancenews.com/%E8%89%B2%E8%89%B2/) — Ver conteúdo suplementar no link original
