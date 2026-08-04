@@ -1,69 +1,70 @@
 ---
-title: "Taiwan's Kuai Kuai Culture: How Green Snacks Became the Tech Industry's Guardian Spirit"
-description: "From graduate students' computers to TSMC production lines, why do Taiwanese people believe green Kuai Kuai snacks keep machines running smoothly?"
+title: "Taiwan's Guai Guai Culture: How Green Snacks Became the Guardian Deity of the Tech Industry"
+description: "From graduate students' computers to semiconductor manufacturing equipment, why do people in Taiwan believe green Guai Guai can keep machines running smoothly?"
 date: 2026-03-21
-tags:
-  ['Taiwanese Culture', 'Folk Beliefs', 'Technology Industry', 'Urban Legends']
 category: 'Culture'
+tags: ['Taiwan culture', 'Folk beliefs', 'Tech industry', 'Urban legends']
+subcategory: '庶民文化'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false
+curation: 'incubating'
 translatedFrom: 'Culture/台灣乖乖文化.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:b95317cbf18e6ec7'
 sourceBodyHash: 'sha256:2856e1a6d3a978a3'
-translatedAt: '2026-06-16T17:10:15Z'
+translatedAt: '2026-08-04T17:47:30+08:00'
 ---
 
-> **30-Second Overview**: In Taiwan, from hospital precision instruments to bank ATMs, you'll likely find a packet of green Kuai Kuai snacks anywhere there's machinery. This unique culture began in the late 1990s when engineers believed the homophone "kuai kuai" (meaning "behave well") would make equipment "behave properly." Even the BBC has written about this Taiwanese phenomenon.
+> **30-Second Overview**: In Taiwan, from precision medical instruments in hospitals to ATMs in banks, wherever there is machinery, you may see a pack of green Guai Guai. This unique culture began in the late 1990s; engineers believe the homophone of "Guai Guai" (meaning "well-behaved") can make equipment "behave" and run smoothly. Today, even the BBC has featured this Taiwanese phenomenon in a dedicated report.
 
-Walk into any server room in Taiwan, and you'll likely witness an intriguing sight: atop expensive servers sits a packet of green "Kuai Kuai" snacks. This isn't someone's forgotten afternoon treat—it's a long-standing "talisman" in Taiwan's tech industry.
+Walking into any server room in Taiwan, you are likely to encounter an interesting sight: perched quietly atop expensive servers is a pack of "Guai Guai" snacks in green packaging. This is not an afternoon snack someone forgot to take away, but rather a long-standing "talisman" within Taiwan's tech industry.
 
-## The Urban Legend That Began at National Chiao Tung University
+## An Urban Legend Originating from National Chiao Tung University
 
-This peculiar custom can be traced back to before 1998 at National Chiao Tung University. According to a 2011 recollection by Director Lu of the Information Technology Center at Minghsin University of Science and Technology, he had been "placing green Kuai Kuai in the research lab since his doctoral studies." Calculating backwards, the practice of "placing Kuai Kuai on machines" existed at Chiao Tung University before 1998.
+The origins of this peculiar custom can be traced back to National Chiao Tung University (NCTU) before 1998. According to the recollections of Director Lu from the Computing Center of Mingxin University of Science and Technology in 2011, he "has been placing green Guai Guai in the lab since my doctoral studies." By this estimation, the practice of "placing Guai Guai on machines" existed at NCTU prior to 1998.
 
-The earliest public record appeared in 2003, when the _China Times_ supplement published an article titled "Afraid of System Crashes? Here, Place a Pack of Kuai Kuai," describing how "many Taiwanese companies' server rooms commonly place a pack of Kuai Kuai on servers to reduce server failure rates."
+However, the earliest public record appeared in 2003, when a supplement of the _China Times_ published an article titled "Afraid of System Crashes? Here, Place a Pack of Guai Guai," describing how "in many server rooms of Taiwanese enterprises, a pack of Guai Guai is often placed on servers to reduce the probability of server failure."
 
-The story that truly popularized this custom involved a graduate student. According to Kuai Kuai company CEO Liao Yu-chi's account to the BBC, a graduate student was writing his thesis but faced frequent computer crashes. He thought the equipment might need some kind of "charm," and "Kuai Kuai" perfectly suited his needs—the name meant "behave well," while the green packaging symbolized the "go" signal of traffic lights. After placing the green Kuai Kuai, his computer ran normally and his thesis was completed successfully.
+The true catalyst that made this custom widely known was the story of a graduate student. According to Liao Yu-chi, General Manager of the Guai Guai Company, a graduate student was writing a thesis, but their computer crashed frequently. They thought the equipment might need some kind of "talisman," and the name "Guai Guability" (well-behaved) happened to meet their needs, while the green packaging symbolized the "green light" of a traffic signal. After placing the green Guai Guai, the computer indeed began operating normally, and the thesis was completed successfully.
 
-## The Strict Rules of Kuai Kuai
+## The Strict Rules of Guai Guai
 
-Taiwan's Kuai Kuai culture follows an unwritten code:
+Taiwan's Guai Guai culture follows a set of unwritten rules:
 
-**Must be green packaging**: Only the coconut cream flavor in green packaging is effective, as green represents the normal operation green light. Yellow five-spice flavor or red chocolate flavor are believed to have adverse effects.
+**It must be green packaging**: Only the green Creamy Coconut flavor of Guai Guai is effective, because green represents the "green light" for machines operating normally. Yellow Five-Spice flavor or red Chocolate flavor are believed to produce the opposite effect.
 
-**Never expired**: Expired Kuai Kuai loses its protective power and must be replaced regularly.
+**It must never expire**: Expired Guai Guai loses its protective power and must be replaced regularly.
 
-**Forbidden to eat**: These Kuai Kuai are sacred offerings; consuming them invites mechanical failure as punishment.
+**Consumption is prohibited**: These Guai Guai are sacred offerings; eating them will invite the punishment of machine failure.
 
-The 2009 immigration computer system crash at Taoyuan Airport became a classic case of violating Kuai Kuai taboos. According to netizen "Sashimi's" social media post, when the maintenance contractor took over, they casually ate the Kuai Kuai in the server room. The next day, the computers crashed for 36 hours. While possibly coincidental, the timing was so perfect that people couldn't help but believe in the "miracle of the Kuai Kuai deity."
+The 2009 massive system crash at the Immigration Department of Taoyuan Airport serves as a classic case of violating the Guai Guai taboo. According to a social media post by a netizen known as "Sashimi," an outsourced technician in charge of repairs ate the Guai Guai in the server room during a handover; the next day, the computers crashed for 36 hours. While it may have been mere coincidence, the timing was so precise that one cannot help but believe in the "miracle of the Great Guai Guai Deity."
 
 ## Spreading from Tech to All Industries
 
-Kuai Kuai culture gradually spread from the tech industry to every corner of Taiwanese society. Before the 2004 presidential election, household registration offices worried about computers crashing at crucial moments and placed Kuai Kuai in front of computers. In 2011, a Keelung bank's frequently malfunctioning ATM had two packs of Kuai Kuai placed inside by maintenance staff (later removed after photos went viral online).
+Guai Guai culture gradually spread from the tech industry to all corners of Taiwanese society. Before the 2004 presidential election, household registration offices placed Guai Guai in front of computers, fearing system crashes at a critical moment. In 2011, an ATM at a bank in Keelung frequently malfunctioned; maintenance personnel placed two packs of Guai Guai inside the machine (which were later removed after causing a stir when photographed and uploaded online).
 
-In 2014, when a major traffic accident occurred in Huwei Police Station's jurisdiction in Yunlin, someone suggested placing green Kuai Kuai for peace. Five packs were placed in the station. However, it's said that one day a patrol officer ate a pack of Kuai Kuai, and a fatal accident occurred the next day.
+In 2014, due to a major traffic accident occurring within its jurisdiction, the Huwei Police Station in Yunlin saw a proposal to place green Guai Guai to pray for safety; consequently, five packs of Guai Guai were placed in the station. However, it is said that one day, an officer ate one pack of Guai Guai, and a fatal car accident occurred the very next day.
 
-## International Media Amazement
+## Admiration from International Media
 
-In 2021, the BBC wrote about Taiwan's Kuai Kuai culture with the headline "How Taiwanese People Use Green Snacks as Lucky Charms." The report drew international attention and prompted Taiwanese netizens to joke that "national secrets have been discovered" and "the secret to high yields has been exposed."
+In 2021, the British BBC published a report on Taiwan's Guai Guai culture, titled "How Taiwanese people use green snacks as lucky charms." The report garnered international attention and led Taiwanese netizens to joke that "national secrets have been discovered" and "the secret to high yield rates has been exposed."
 
-This phenomenon even extended to the aviation industry. STARLUX Airlines Chairman K.W. Chang placed a pack of green Kuai Kuai in his conference room, praying for smooth new aircraft deliveries. Photos went viral online. Liao Yu-chi personally brought Kuai Kuai for Chang to sign, hoping to launch "Kuai Kuai livery aircraft" in the future.
+This phenomenon even extended to the aviation industry. Starlux Airlines Chairman Chang Kuo-wei placed a pack of green Guai Guai in a meeting room to pray for the smooth delivery of new aircraft, and the photo went viral online. Liao Yu-chi even personally brought Guai Guai to ask Chang Kuo-wei for an autograph, hoping that a "Guai Guai Livery Aircraft" might be launched in the future.
 
-## The Delicate Balance Between Science and Superstition
+## A Delicate Balance Between Science and Superstition
 
-In this age of logic and data, why do even engineers believe in Kuai Kuai's divine power? The answer perhaps lies in cost-benefit calculations. Compared to the enormous losses "computer failure" could bring, buying a pack of Kuai Kuai for protection costs virtually nothing. As engineers often say: "Even if there's only a one-in-ten-thousand chance it works, it's worth trying."
+In this era of logic and data, why do even engineers believe in the divine power of Guai Guai? The answer may lie in the calculation of cost-effectiveness. Compared to the massive losses that "computer failure" could bring, the cost of buying a pack of Guai Guai for protection is negligible. As engineers often say: "Even if there is only a one-in-ten-thousand chance of it working, it is worth a try."
 
-This mentality of "better to believe than not" has made Kuai Kuai the most influential "deity" in Taiwan's tech industry. As _The Encyclopedia of Taiwanese Urban Legends_ states: "As long as people cannot solve the problem of computers failing inexplicably, the Kuai Kuai deity will continue to exist."
+This mindset of "better to believe it exists than to assume it doesn't" has allowed Guai Guai to become the most influential "deity" in Taiwan's tech industry. As stated in the _Encyclopedia of Taiwan Urban Legends_: "As long as people cannot solve the problem of random computer failures, the Great Guai Guai Deity will continue to exist."
 
-And making computers never fail is virtually impossible. Therefore, on this island where technology and faith intertwine, green Kuai Kuai will continue guarding those precision machines, witnessing the most fascinating balance between rationality and superstition.
+And since making computers fail-proof is nearly impossible, on this land of Taiwan where technology and faith intertwine, green Guai Guai will continue to guard those precision machines, witnessing the most interesting balance between rationality and superstition.
 
 ## References
 
-- [The Unique Culture of Technology and Faith! When Did the Urban Legend of Placing Green Kuai Kuai on Machines Begin?](https://city.gvm.com.tw/article/83154)
-- [Can Placing "Green Kuai Kuai" on Machines Really Bless Their Operation? Why Is "Yellow Kuai Kuai" Not Okay?](https://pansci.asia/archives/328678)
-- [BBC Reports on Taiwan's Kuai Kuai Culture: Who Invented Placing Green Kuai Kuai on Machines](https://buzzorange.com/citiorange/2021/04/15/kuaikuai-works/)
-- [Kuai Kuai Culture - Wikipedia](https://zh.wikipedia.org/zh-hant/乖乖文化)
-- [Taiwan's Kuai Kuai Culture Featured on BBC, Netizens Exclaim: High Yield Rate Secret Discovered!](https://news.ltn.com.tw/news/life/breakingnews/3501551)
+- [A unique culture of technology and faith! When did the urban legend of placing green Guai Guai on machines begin?](https://city.gvm.com.tw/article/83154)
+- [Placing a pack of "Green Guai Guai" on a machine can ensure smooth operation? Why is "Yellow Guai Guai" a bad idea?](https://pansci.asia/archives/328678)
+- [BBC reports on Taiwan's Guai Guai culture: Who invented placing green Guai Guai on machines?](https://buzzorange.com/citiorange/2021/04/15/kuaikuai-works/)
+- [Guai Guai Culture - Wikipedia](https://zh.wikipedia.org/zh-hant/乖乖文化)
+- [Taiwan's Guai Guai culture hits the BBC; netizens cry: The secret to high yield rates has been discovered!](https://news.ltn.com.tw/news/life/breakingnews/3501551)

@@ -1,85 +1,87 @@
 ---
-title: 'Taiwanese Homophone Taboos: Why the Number "Four" Makes an Entire Society Skip Floors'
-description: 'From hospitals without fourth floors to license plates selling for $89,000, Taiwanese sensitivity to homophones is unmatched worldwide'
+title: 'Taiwan''s Homophonic Taboo Culture: Why Does "Four" Cause Society to Skip Floors?'
+description: 'From the absence of the 4th floor in hospitals to the astronomical bidding for license plate "8888," Taiwan''s sensitivity to homophones is among the highest in the world.'
 date: 2026-03-21
-tags:
-  ['Taiwanese culture', 'folk beliefs', 'homophone culture', 'number taboos']
 category: 'Culture'
+tags:
+  ['Taiwan Culture', 'Folk Beliefs', 'Homophonic Culture', 'Numerical Taboos']
+subcategory: '節慶與禮俗'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: false
+curation: 'incubating'
 translatedFrom: 'Culture/台灣諧音禁忌文化.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:d88f480a1e1f7ae0'
 sourceBodyHash: 'sha256:ab7935ab2e6c6ed8'
-translatedAt: '2026-06-16T17:19:04Z'
+translatedAt: '2026-08-04T17:39:49+08:00'
 ---
 
-> **30-second overview**: In Taiwan, the homophone "four" = "death" has led an entire society to collectively avoid this number. Elevators jump from the 3rd floor straight to the 5th, and restaurant servers will say "3+1 people" instead of "four people." Meanwhile, auspicious homophones drive license plates like "8888" to sell for $89,000, and wedding gift amounts follow a complex system of numerical taboos.
+> **30-Second Overview**: In Taiwan, the homophone "four" (sì) = "death" (sǐ) causes society to collectively avoid this number; elevators jump directly from the 3rd to the 5th floor, and restaurants may ask guests for "3+1 people" instead of four. Meanwhile, auspicious homophones drive license plate "8888" to bids of 890,000 TWD, and wedding red envelope amounts follow a complex numerology.
 
-If you're a foreigner visiting Taiwan for the first time, you might feel confused in an elevator: why do the buttons skip from the 3rd floor directly to the 5th? Walk into a restaurant and when the server asks "how many people," you say "four," but they respond with "okay, 3+1 people." Welcome to Taiwan's world of homophone taboos—a place where an entire society has rearranged numbers to avoid unlucky sounds.
+If you are a foreigner visiting Taiwan for the first time, you might feel confused in an elevator: why does the button jump directly from the 3rd floor to the 5th? When entering a restaurant, if you say "four people," the server might reply, "Alright, 3+1 people." Welcome to Taiwan's world of homophonic taboos—a place where society rearranges numbers to avoid unlucky sounds.
 
-## The Universal Enemy: "Four"
+## The Public Enemy: "Four"
 
-In Taiwan, no number is more dreaded than "four" (四, sì). Because in Chinese, "four" and "death" (死, sǐ) differ only in tone, this subtle similarity is enough to make an entire society collectively avoid it.
+In Taiwan, no number is more taboo than "four." Because in Chinese, the pronunciation of "four" (sì) and "death" (sǐ) differs only by tone, this subtle similarity is enough to make society collectively steer clear of it.
 
-The most obvious example is building floor numbering. Walk into any building in Taiwan and you'll find elevator buttons skip "4," jumping directly from the 3rd to 5th floor. Not just the 4th floor—the 14th, 24th, and 34th floors are also frequently skipped because they contain this inauspicious digit.
+The most obvious example is building floor numbering. Entering almost any building in Taiwan, you will find no "4" on the elevator buttons; instead, it jumps from the 3rd to the 5th floor. It is not just the 4th floor; the 14th, 24th, and 34th floors are also frequently skipped because they contain this ominous number.
 
-The case of Linkou Chang Gung Memorial Hospital is even more fascinating. This renowned hospital is clearly located in Guishan District, Taoyuan City, yet insists on being called "Linkou Chang Gung." Why? Because the character "gui" (龜, turtle) sounds unlucky, especially in a medical setting. So this hospital would rather "borrow" the name from neighboring Linkou District in New Taipei City than be called "Guishan Hospital."
+The case of Linkou Chang Gung Memorial Hospital is even more interesting. Despite being located in Guishan District, Taoyuan City, this famous hospital insists on using "Linkou" in its name. Why? Because the character "Gui" (turtle) sounds unlucky, which is especially taboo in a medical setting. Thus, the hospital prefers to "borrow" the name of the neighboring Linkou District in New Taipei City rather than be known as "Guishan Hospital."
 
-## Linguistic Artistry in Restaurants
+## The Art of Language in Restaurants
 
-Taiwan's service industry has developed sophisticated linguistic techniques to avoid homophone taboos. When you dine at a restaurant with exactly four people, servers won't directly say "four people" (四位) but instead say "3+1 people." Some restaurants even skip "Set Meal #4" on their menus, jumping straight to "Set Meal #5."
+Taiwan's service industry has developed clever linguistic techniques to avoid homophonic taboos. When dining at a restaurant, if there happen to be four people, the server will not say "four people" directly, but instead says "3+1 people." Some restaurants even avoid "Set Meal No. 4" on their menus, jumping straight to "Set Meal No. 5."
 
-This careful attention extends beyond numbers. In many situations, people avoid words that might carry negative associations. For instance, when giving gifts, clocks are avoided (homophone for "attending a funeral"), as are pears (homophone for "separation").
+This caution appears in more than just numbers. In many contexts, people avoid using homophones that might trigger negative associations. For example, when giving gifts, one would not choose clocks (a homophone for "attending a funeral") or pears (a homophone for "separation").
 
-## Sky-High License Plate Auctions
+## Astronomical Bids for License Plates
 
-If avoiding "four" is about warding off bad luck, then competing for auspicious numbers is about attracting wealth and fortune. In Taiwan, numbers on license plates aren't just identifiers—they're symbols of status and luck.
+If avoiding "four" is about warding off bad luck, then competing for auspicious numbers is about attracting wealth. In Taiwan, the numbers on a license plate are not just identifiers; they are symbols of status and fortune.
 
-The most popular is "8888," because "eight" (八, bā) sounds like "prosperity" (發, fā). In 2017, a car owner paid 889,000 TWD (about $29,000 USD) for the license plate "AMG-8888," setting a record at the time. "5888" (I prosper, prosper, prosper) and "9999" (long-lasting) are also highly sought after.
+The most popular is "8888," because "eight" (bā) sounds similar to "prosper" (fā), representing wealth. In 2017, a vehicle owner bid 889,000 TWD for the "AMG-8888" plate, setting a record price at the time. "5888" (meaning "I prosper, prosper, prosper") and "9999" (meaning "long-lasting, long-lasting, long-lasting") are also highly sought after.
 
-Interestingly, homophone culture also "changes dynasties." Recently, "8787" has become popular because it can be interpreted as "don't want" in Taiwanese Hokkien (毋要毋要, m̄-ài m̄-ài), which in certain contexts becomes a good omen for rejecting bad luck.
+Interestingly, homophonic culture also undergoes "dynastic changes." In recent years, "8787" has begun to gain popularity because it is interpreted as "don't want" (in Taiwanese/Hokkien, _m̄-iàu m̄-iàu_), which in certain contexts becomes a good omen for rejecting bad luck.
 
-## The Mathematics of Wedding Gift Money
+## The Numerology of Red Envelope Amounts
 
-Taiwanese attention to numbers reaches its pinnacle in wedding gift culture. Giving red envelope money (hóngbāo) isn't just about even numbers (good things come in pairs)—it must also avoid specific digits, creating a complex calculation system.
+Taiwanese attention to numbers reaches its peak in the culture of wedding red envelopes (_hongbao_). Giving a red envelope requires not just even numbers (as good things come in pairs), but also avoiding specific digits, forming a complex set of calculation rules.
 
-Common wedding gift amounts include: 1,200, 1,600, 2,000, 2,200, 2,600, 3,200, 3,600, 6,000, 6,600 TWD, etc. These numbers share two characteristics: they're all even, and they avoid both "4" and "8."
+Common wedding red envelope amounts include: 1200, 1600, 2000, 2200, 2600, 3200, 3600, 6000, 6600, etc. You will notice two characteristics in these numbers: they are all even, and they avoid "4" and "8."
 
-Why avoid "8" too? While "eight" has the positive meaning of "prosperity," in certain contexts, "8" might be associated with "bye" (掰, bāi) or "don't" (別, bié), implying separation. So wedding gifts jump from 3,600 TWD directly to 6,000 TWD, skipping the impossible 4,000 and 5,000 entirely.
+Why even avoid "8"? Although "eight" implies "prospering," in certain contexts, the sound of "8" can also be associated with "breakup" or "parting," implying separation. Therefore, wedding red envelopes jump directly from 3600 TWD to 6000 TWD; the intermediate 4000 and 5000 are, of course, strictly off-limits.
 
-There's another interesting detail: if the wedding banquet gives out wedding cakes to guests, some people add an extra 600 TWD to their gift as "cake money," demonstrating the subtle considerations in Taiwanese social relationships.
+There is another interesting detail: if a wedding banquet provides wedding cakes to guests, some people add an extra 600 TWD to the red envelope amount as "cake money," reflecting the meticulous consideration Taiwanese people apply to social etiquette.
 
-## Regional Nuances and Balance
+## The Subtle Balance of Regional Differences
 
-It's worth noting that homophone taboos also vary by region. Northern Taiwanese are less sensitive to "four" and "death" than southerners, and Cantonese speakers have stricter homophone taboos than Hakka speakers. This reflects the differences in language culture among Taiwan's diverse ethnic groups.
+It is worth noting that homophontic taboos also vary by region. People in Northern Taiwan are not as sensitive to the "four/death" connection as those in Southern Taiwan, and Cantonese-influenced taboos can be stricter than those of the Hakka people. This reflects the linguistic and cultural diversity of Taiwan's various ethnic groups.
 
-In commercial settings, to accommodate different ethnic sensitivities, the usual approach is to find the "greatest common denominator"—since some people mind these things, it's better to avoid them uniformly. Better safe than sorry.
+In commercial settings, to accommodate the feelings of different groups, a "greatest common divisor" approach is usually adopted—since some people care, it is better to avoid it universally, preferring to avoid trouble altogether.
 
 ## Ancient Wisdom in Modern Society
 
-In technologically advanced modern Taiwan, why maintain these seemingly "superstitious" habits? The answer perhaps lies in culture's inertial force.
+In the technologically advanced modern Taiwan, why do these seemingly "superstitious" habits persist? The answer may lie in the power of cultural inertia.
 
-Homophone taboos aren't just personal beliefs—they're social conventions. When an entire society follows these rules, violating them becomes conspicuous. A building that labels its "4th floor" might affect rental or sales; a license plate containing "444" would certainly be difficult to resell.
+Homophonic taboos are not just personal beliefs; they are a social consensus. When an entire society follows these rules, violating them appears jarring. If a building labels a "4th floor," it might affect leasing or sales; if a license plate contains "444," it will inevitably be difficult to resell.
 
-More importantly, these taboos often cost very little. Skipping a floor number, saying "3+1 people," choosing auspicious license plate numbers—none require significant additional resources, yet they provide participants with psychological security.
+More importantly, these taboos often come at a very low cost. Skipping a floor number, saying "3+1 people," or choosing an auspicious license plate does not require significant extra resources, yet it provides participants with psychological security.
 
-## New Opportunities for Cultural Export
+## A New Opportunity for Cultural Export
 
-Interestingly, as Taiwanese companies expand overseas, homophone culture has begun influencing international markets. Some multinational corporations deliberately avoid numbers that might cause negative associations in Chinese markets when designing product model numbers.
+Interestingly, as Taiwanese enterprises expand overseas, homophonic culture is beginning to influence international markets. Some multinational corporations, when designing product models, specifically avoid numbers that might trigger negative associations in Chinese-speaking markets.
 
-This phenomenon has transformed Taiwan's homophone culture from "local characteristic" into part of its "cultural soft power," influencing global business strategy formulation.
+This phenomenon allows Taiwan's homophonic culture to transform from a "local characteristic" into part of its "cultural soft power," influencing the formulation of global business strategies.
 
-The next time you're in Taiwan and see elevator buttons jump from 3 to 5, remember: you're witnessing an ancient culture's stubborn survival in modern society. This isn't just superstition—it's an entire people's deep faith in the power of language, believing that spoken words can become reality, so they choose to speak good words and avoid bad ones.
+The next time you take an elevator in Taiwan and see the floor buttons jump directly from 3 to 5, remember: you are witnessing the resilient survival of an ancient culture in modern society. This is not merely superstition; it is a profound belief held by an entire group in the power of language—the belief that spoken words can become reality, so one chooses to speak good words and avoid bad ones.
 
-On this island full of homophone taboos, numbers aren't just numbers—they're vessels for hope and fear.
+On this island filled with homophonic taboos, numbers are more than just numbers; they are vessels for hope and fear.
 
 ## References
 
-- [Tetraphobia - Wikipedia](https://zh.wikipedia.org/wiki/四的禁忌)
-- [License Plate Homophones Also Have "Dynasty Changes": 8888 Too Old-Fashioned, Some Love 8787](https://theme.udn.com/theme/story/6774/2816580)
-- [2026 Wedding Gift Guide: Latest Red Envelope Rates, Number Taboos, and Congratulations Writing](https://www.businessweekly.com.tw/focus/blog/3016539)
-- [Guishan Counted as Linkou? Taoyuan-New Taipei Fusion Has Its Reasons](https://www.chinatimes.com/realtimenews/20210123001049-260405)
-- ["Linkou Chang Gung Hospital" is Actually Located in Taoyuan's Guishan](https://blog.udn.com/glwang/108403013)
+- [Taboo of Four - Wikipedia](https://zh.wikipedia.org/wiki/四的禁忌)
+- [Learn something new! License plate homophones also undergo "dynastic changes": 8888 is too old-fashioned, 8787 is loved by some](https://theme.udn.com/theme/story/6774/2816580)
+- [How much to give in a wedding red envelope in 2026? A complete guide to the latest red envelope market rates, numerical taboos, and congratulatory wording](https://www.businessweekly.com.tw/focus/blog/3016539)
+- [Is Guishan actually Linkou? The truth behind the integration of Taoyuan and New Taipei](https://www.chinatimes.com/realtimenews/20210123001049-260405)
+- ["Linkou Chang Gung Memorial Hospital" is actually located in Guishan, Taoyuan](https://blog.udn.com/glwang/108403013)
