@@ -1,122 +1,123 @@
 ---
-title: 'Sejarah Pengembangan Hutan Taiwan: Dari Ekstraksi Sumber Daya ke Keamanan Wilayah Nasional dalam Seabad Perubahan'
-description: 'Dari kabut asap kayu kemplang di masa pemerintahan Qing, hingga derai rel baja di masa pendudukan Jepang, lalu ke era penebangan besar-besaran yang mengguncang pegunungan pasca-perang. Artikel ini mengurai logika geopolitik global di balik kebijakan pengembangan hutan Taiwan, dan menyoroti kebenaran sejarah perhutanan selama seratus tahun dengan data.'
+title: 'Sejarah Pengembangan Hutan Taiwan: Dari Ekstraksi Sumber Daya ke Keamanan Wilayah Nasional, Pergeseran Abad'
+description: 'Dari kabut asap kayu kemplang (camphor) di masa pemerintahan Qing, hingga derai rel baja di masa pendudukan Jepang, lalu ke era penebangan besar-besaran pasca-perang yang mengguncang pegunungan. Artikel ini mengurai logika geopolitik global di balik kebijakan pengembangan hutan Taiwan, serta menjelaskan kebenaran sejarah kehutanan selama seratus tahun dengan data.'
 date: 2026-03-25
 category: 'History'
 tags:
   [
-    'Kebijakan Kehutanan',
-    'Rel Kereta Api Hutan',
-    'Membiayai Pemerintahan dengan Hutan',
-    'Kayu Kemplang',
-    'Kebijakan Larangan Tebang',
-    'Perspektif Sejarah Dunia',
-    'Geopolitik',
+    'Kebijakan kehutanan',
+    'kereta api hutan',
+    'kebijakan mendanai politik dengan hutan',
+    'kayu kemplang',
+    'kebijakan larangan penebangan',
+    'pandangan sejarah dunia',
+    'geopolitik',
   ]
-subcategory: 'Kolonialisme dan Imperialisme'
+subcategory: '殖民與帝國'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-25
 lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
 translatedFrom: 'History/台灣森林開發史.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:8069998f1aa354c8'
 sourceBodyHash: 'sha256:55bbc4efed5f30a9'
-translatedAt: '2026-07-25T02:52:49+08:00'
+translatedAt: '2026-08-04T20:19:11+08:00'
 ---
 
-> Siapa yang mengambil hutan-hutan berharga kita? Jawabannya mungkin tidak seperti yang kamu kira.
+> Siapa yang mengambil hutan berharga kita? Jawabannya mungkin tidak seperti yang kamu kira.
 
 ---
 
-## Masa Akhir Pemerintahan Qing: Percikan Revolusi Industri dan Monopoli Kayu Kemplang
+## Akhir Masa Pemerintahan Qing: Percikan Revolusi Industri dan Monopoli Kayu Kemplang
 
-Pengembangan perhutanan modern Taiwan tidak bermula dari kebutuhan akan kayu, melainkan dari monopoli **kayu kemplang (樟腦)**.
+Pengembangan kehutanan modern Taiwan tidak bermula dari keinginan akan kayu, melainkan dari monopoli "kayu kemplang (camphor)".
 
-### Industri Seluloid Global dan Kebijakan "Membuka Gunung, Menenteramkan Orang Asli"
+### Industri Seluloid Global dan Kebijakan "Membuka Gunung, Menenangkan Suku Asli"
 
-Pada pertengahan abad ke-19, Barat mengalami Revolusi Industri kedua. Penemuan **seluloid (Celluloid)** (bahan baku plastik awal) dan **bedak tanpa asap** menjadikan kayu kemplang bahan strategis. Saat itu Taiwan menyuplai sekitar 70% kebutuhan kayu kemplang dunia.
+Abad ke-19 tengah, Barat mengalami Revolusi Industri kedua, penemuan **Seluloid (Celluloid)** (bahan baku plastik awal) dan **bedak tanpa asap** menjadikan kayu kemplang sebagai bahan strategis. Saat itu Taiwan memasok sekitar 70% kayu kemplang dunia.
 
-- **Logika kebijakan**: Untuk mengisi kas negara, Dinasti Qing mendorong kebijakan **"membuka gunung, menenteramkan orang asli" (開山撫番)**, yang secara lahiriah bersifat mendidik, namun secara hakikat bertujuan mendalami pegunungan untuk mendirikan **dapur kayu kemplang (腦灶)**.
-- **Bukti sejarah dunia**: Hal ini selaras dengan kolonialisme sumber daya (Resource Colonialism) di mana bangsa-bangsa Barat merampas tanaman khusus di seluruh dunia.
-- **Dampak jauh**: Pengembangan hutan pada masa ini bersifat **merampas**, menyebabkan hutan kayu kemplang di dataran rendah ditebang habis, sekaligus memecahkan batas ekologi suku-suku asli pegunungan, menimbulkan konflik antar kelompok yang berlangsung puluhan tahun.
+- **Logika kebijakan**: Dinasti Qing untuk mengisi kas negara, mendorong "Membuka Gunung, Menenangkan Suku Asli" (開山撫番), permukaannya adalah pendidikan, sebenarnya untuk masuk ke pedalaman mendirikan "dapur kemplang" (腦灶).
+- **Bukti sejarah dunia**: Ini selaras dengan kolonialisme sumber daya (Resource Colonialism) di mana negara-negara kuat merampas tanaman khusus di seluruh dunia.
+- **Dampak jauh**: Pengembangan hutan masa ini bersifat "merampas", menyebabkan hutan kemplang di dataran rendah ditebang habis, sekaligus memecahkan batas ekologi suku asli di pegunungan, menimbulkan konflik etnis yang berlangsung ratusan tahun.
 
 ---
 
 ## Masa Pendudukan Jepang: Modernisasi Kekaisaran dan Peradaban Rel Baja
 
-1895, setelah Jepang mengambil alih Taiwan, kebijakan kehutanan beralih dari "perampasan di daerah terpencil" ke "sistematisasi berbasis negara".
+1895, setelah Jepang merebut Taiwan, kebijakan kehutanan beralih dari "perampasan di daerah terpencil" ke "sistematisasi milik negara".
 
-### Strategi Kekaisaran dan Tiga Kebun Hutan Resmi Utama
+### Strategi Kekaisaran dan Tiga Hutan Negara Utama
 
-Modernisasi Meiji membutuhkan kayu berkualitas tinggi dalam jumlah besar, dan hutan hinoki di pegunungan dalam Taiwan menjadi material infrastruktur terbaik di mata Kekaisaran.
+Modernisasi Meiji membutuhkan kayu berkualitas tinggi dalam jumlah besar, dan hutan hinoki di pedalaman Taiwan adalah material infrastruktur terbaik di mata Kekaisaran.
 
-- **Inferensi teknis**: Pemerintah Jepang bersedia menginvestasikan dana masif untuk membangun **tiga jalur rel kereta api hutan utama: Alishan, Taipingshan, Basianshan**, karena mereka memandang Taiwan sebagai wilayah permanen, mengejar "pengelolaan jangka panjang".
-- **Detail teknis rel hutan**: Mengimpor lokomotif **Shay bergear payung asal Amerika Serikat**, dengan silinder vertikal dan transmisi gear payung, dirancang untuk mengatasi kemiringan ekstrem dan topografi pegunungan Taiwan yang terpecah-pecah.
-- **Perspektif sejarah dunia**: Ini mencerminkan ambisi Kekaisaran Jepang Besar pada awal abad ke-20 meniru kekuatan Barat membangun "perhutanan kekaisaran", menggunakan kayu hinoki Taiwan untuk membangun kuil (seperti Kuil Meiji) dan kapal perang, melambangkan legitimasi dan kekuasaan rezim.
+- **Inferensi teknis**: Pemerintah Jepang bersedia menginvestasikan dana masif membangun **kereta api hutan Alishan, Taipingshan, Basianshan** tiga buah besar, karena mereka memandang Taiwan sebagai wilayah permanen, mengejar "pengelolaan jangka panjang".
+- **Detail teknis kereta api hutan**: Mengimpor lokomotif **Shay roda gigi vertikal** asal Amerika, silinder vertikal dan transmisi roda gigi dirancang untuk mengatasi kemiringan ekstrem dan topografi terfragmentasi pegunungan Taiwan.
+- **Perspektif sejarah dunia**: Mencerminkan ambisi Kekaisaran Jepang Besar awal abad ke-20 meniru kekuatan Barat mendirikan "kehutanan kekaisaran", menggunakan kayu hinoki Taiwan membangun kuil (seperti Meiji Jingu) dan kapal perang, melambangkan legitimasi dan kekuasaan rezim.
 
 ---
 
-## Transformasi Pasca-Perang: Pulau Dingin Perang Dingin dan "Membiayai Pemerintahan dengan Hutan"
+## Transformasi Pasca-Perang: Pulau Dingin Perang Dingin dan "Mengelola Hutan untuk Mendanai Politik"
 
-1945, pergantian rezim. Pemerintah Nasional menghadapi situasi yang sama sekali berbeda dengan masa pendudukan Jepang, mengakibatkan nasib hutan berubah drastis.
+1945, pergantian rezim. Pemerintah Nasionalis menghadapi situasi berbeda total dengan masa pendudukan Jepang, nasib hutan mengalami perubahan drastis.
 
 ### Pemutusan Bantuan AS dan Urgensi Kelangsungan Hidup
 
-1950-an hingga 1960-an, Taiwan didorong ke garis depan Perang Dingin. Seiring berakhirnya bantuan AS pada 1965, rezim terdesak mencari dana sendiri untuk menopang pengeluaran militer masif.
+1950-an hingga 1960-an, Taiwan didorong ke garis depan Perang Dingin. Seiring berakhirnya bantuan AS 1965, rezim sangat membutuhkan dana sendiri untuk menopang pengeluaran militer masif.
 
-- **Motivasi kebijakan**: Mendorong kebijakan industri "mengembangkan pertanian dan kehutanan untuk membangun industri dan perdagangan" (Yao He-nien, 1993), memandang hutan sebagai **"mesin ATM hijau"**. Sumber daya hutan menjadi komoditas untuk memperoleh devisa dolar AS.
-  - 1956 memperluas pengembangan 13 kawasan hutan dengan ketat menerapkan "tiga banyak": banyak penanaman, banyak penebangan, banyak setor ke kas negara (Chiao Kuo-mo, 1993).
-  - 1959 mengeluarkan Arahan Pengelolaan Kehutanan Taiwan, memerintahkan seluruh provinsi hutan alami kecuali yang disisakan untuk penelitian, pengamatan, atau pemandangan, hinoki dengan siklus tebang 80 tahun, yang lain 40 tahun, bertahap diubah menjadi hutan tanaman (Yao He-nien, 1993).
-- **Pergeseran teknis: Revolusi Jalan Hutan**: Untuk memaksimalkan keuntungan, pemerintah meninggalkan rel kereta api mahal, beralih ke **"sistem jalan hutan" (林道系統)** yang merusak parah. Truk besar langsung masuk ke pegunungan dalam, tidak hanya kecepatan penebangan menakjubkan, pemotongan jalan yang tidak tepat pun menimbulkan bahaya longsor serius untuk generasi mendatang.
+- **Motivasi kebijakan**: Mendorong kebijakan industri "mengembangkan pertanian dan kehutanan untuk mendukung industri dan perdagangan" (Yao He-nien, 1993), memandang hutan sebagai "mesin ATM hijau". Saat ini sumber daya hutan adalah komoditas untuk mendapatkan devisa dolar AS.
+  - 1956 memperluas pengembangan 13 wilayah hutan menegakkan "banyak penanaman, banyak penebangan, banyak setor ke kas" tiga banyak kebijakan kehutanan (Chiao Kuo-mo, 1993).
+  - 1958 mengumumkan arah pengelolaan kehutanan Taiwan, memerintahkan seluruh provinsi hutan alami kecuali yang disisakan untuk penelitian, pengamatan, atau pemandangan, hinoki 80 tahun, lainnya 40 tahun sebagai batas penebangan, bertahap diubah menjadi hutan tanaman (Yao He-nien, 1993).
+- **Pergeseran teknis: Revolusi Jalan Hutan**: Untuk memaksimalkan keuntungan, pemerintah meninggalkan rel mahal, beralih ke **"sistem jalan hutan" (林道系統)** yang sangat merusak. Truk besar langsung masuk ke pedalaman, tidak hanya kecepatan penebangan menakjubkan, pemotongan jalan yang tidak tepat lebih menimbulkan bahaya longsor serius untuk generasi mendatang.
 
 ### Perbandingan Data Sejarah
 
-- **Analisis data**: Berdasarkan statistik Yao He-nien (1993), tiga kebun hutan resmi masa pendudukan Jepang (Alishan, Basianshan, Taipingshan) dari 1912 hingga 1945, luas penebangan total sekitar 18.432 hektar, volume penebangan sekitar 6,63 juta meter kubik. Perlu dicatat angka ini hanya mencakup kebun hutan resmi, belum menghitung penebangan swasta pada masa yang sama, sehingga total penebangan aktual seharusnya lebih tinggi. Pasca-perang 1946 hingga 1990, volume penebangan mencapai 44,567 juta meter kubik, luas penebangan melebihi 344.000 hektar, sekitar 6,7 kali lipat angka masa pendudukan Jepang resmi (Peng Kuo-tung, 1989; Kantor Kehutanan Provinsi Taiwan, 1991; dikutip dari Lin Kuo-chuan, 1993).
-- **Perbedaan interpretasi**: Pada puncak penebangan 1972, Majalah Kantor Kehutanan Provinsi Taiwan (1997) mencatat 1,8 juta meter kubik, Chiao Kuo-mo (1993) memperkirakan melebihi 2 juta meter kubik. Menunjukkan sejarah perhutanan era penebangan besar masih menunggu pembukaan arsip dan klarifikasi akademis lebih lanjut (Li Ken-cheng, 2016). Namun sumber berbeda semua menunjuk ke narasi yang sama.
-- **Inferensi era**: Ini mencerminkan strategi merusak jangka pendek di bawah pemikiran "serangan balik ke daratan utama", memandang Taiwan sebagai tempat singgah sementara, bukan perencanaan wilayah jangka panjang. Namun "penanganan" narasi sejarah Pemerintah Nasional在于, ia mengubah ekstraksi sumber daya yang skala lebih besar, biaya lebih rendah, dan kekurangan pertimbangan keberlanjutan, menjadi sebuah epik etnis tentang "kelangsungan hidup" dan "pembangunan".
+- **Analisis data**: Berdasarkan statistik Yao He-nien (1993), tiga hutan negara milik negara masa pendudukan Jepang (Alishan, Basianshan, Taipingshan) dari 1912 hingga 1945, luas penebangan total sekitar 18.432 hektar, volume penebangan sekitar 6,63 juta meter kubik. Perlu dicatat angka ini hanya mencakup hutan negara milik negara, belum menghitung penebang swasta masa itu, sehingga total penebangan aktual harus lebih tinggi. Pasca-perang 1946 hingga 1990, volume penebangan mencapai 44,567 juta meter kubik, luas penebangan melebihi 344 ribu hektar, sekitar 6,7 kali lipat angka hutan negara milik negara masa pendudukan Jepang (Peng Kuo-tung, 1989; Kehutanan Provinsi Taiwan, 1991; dikutip dari Lin Kuo-chuan, 1993).
+- **Perbedaan interpretasi**: Puncak penebangan 1972, Majalah Kehutanan Provinsi Taiwan (1997) mencatat 1,8 juta meter kubik, Chiao Kuo-mo (1993) memperkirakan melebihi 2 juta meter kubik. Menunjukkan sejarah kehutanan era penebangan besar masih menunggu pengungkapan arsip dan klarifikasi akademis lebih lanjut (Li Ken-cheng, 2016). Namun sumber berbeda semua menunjuk narasi yang sama.
+- **Inferensi era**: Mencerminkan strategi merusak jangka pendek di bawah pemikiran "memulihkan daratan", memandang Taiwan sebagai tempat sementara, bukan perencanaan wilayah jangka panjang. Namun "penanganan" pandangan sejarah Nasionalis terletak pada: mengubah ekstraksi sumber daya skala lebih besar, biaya lebih rendah, kurang pertimbangan kelestarian, menjadi epik etnis tentang "kelangsungan hidup" dan "pembangunan".
 
 ### Dualisme yang Dibentuk
 
-Dalam pendidikan dan propaganda puluhan tahun terakhir, Pemerintah Nasional berhasil membangun rumus dualisme:
+Dalam pendidikan dan propaganda puluhan tahun lalu, Pemerintah Nasionalis berhasil membangun rumus dualisme:
 
-- Masa pendudukan Jepang = merampas: Mendefinisikan pembangunan Jepang sebagai "merampas sumber daya koloni untuk ibukota", menekankan kayu suci Alishan ditebang untuk membangun Kuil Meiji, memperkuat emosi korban. Masa pendudukan Jepang mengandalkan rel hutan, jejaknya tetap dan terlihat, "kayu suci" sisa penebangan yang kita lihat di Alishan hari ini, kebanyakan adalah peninggalan pasca-penebangan masa pendudukan Jepang. Warisan sisa ini terus mengingatkan pembangunan tahun itu.
-- Masa pasca-perang = pembangunan: Membungkus perilaku penebangan besar dalam obligasi etnis "dasar pemulihan", "pembangunan ekonomi", dan "penempatan veteran perang". Pemerintah mengikat pengembangan kehutanan erat dengan pembukaan **Jalan Raya Transverse Tengah (中橫)**, membentuk narasi pahlawan era tersebut. Pengembangan pasca-perang memperkenalkan **"sistem jalan hutan" (Forest Road) bergaya AS**, menggunakan truk berat masuk ke pegunungan dalam. Jalan hutan dibuka cepat, biaya rendah, dan setelah penebangan sering runtuh lalu hilang atau ditutup.
+- Masa pendudukan Jepang = Merampas: Mendefinisikan pengembangan Jepang sebagai "merampas sumber daya koloni untuk ibukota", menegaskan Kayu Suci Alishan ditebang untuk membangun Meiji Jingu, memperkuat emosi korban. Masa pendudukan Jepang mengandalkan kereta api hutan, jejaknya tetap dan mencolok, "Kayu Suci" sisa penebangan yang kita lihat di Alishan hari ini, kebanyakan adalah peninggalan pasca-penebangan masa pendudukan Jepang. Warisan sisa ini terus mengingatkan orang akan pengembangan tahun itu.
+- Pasca-perang = Pembangunan: Membungkus perilaku penebangan besar dalam kebesaran etnis "dasar pemulihan", "pembangunan ekonomi", dan "penempatan veteran". Pemerintah mengikat erat pengembangan kehutanan dengan pembukaan **Jalan Lintas Timur-Barat (Jalan Tengah)**, membentuk narasi pahlawan era. Pengembangan pasca-perang memperkenalkan **"sistem jalan hutan" (Forest Road)** gaya AS, menggunakan truk berat masuk ke pedalaman. Jalan hutan dibuka cepat, biaya rendah, dan setelah penebangan sering runtuh lalu hilang atau ditutup.
 
-**Titik menyesatkan**: Ini menyebabkan masyarakat mengabaikan kelanjutan pengelolaan perhutanan. Faktanya, awal pasca-perang Kantor Kehutanan hampir sepenuhnya mewarisi sistem kebun hutan resmi dan teknologi masa pendudukan Jepang, namun dalam intensitas eksekusi jauh melampaui pendahulunya.
+**Titik menyesatkan**: Ini membuat masyarakat mengabaikan kelanjutan pengelolaan kehutanan. Faktanya, awal pasca-perang Biro Kehutanan hampir sepenuhnya mewarisi sistem hutan negara milik negara dan teknologi masa pendudukan Jepang, namun intensitas eksekusi jauh melampaui pendahulunya.
 
 ---
 
-## Transformasi Abad: Dari "Penaklukan" Menuju "Rekonsiliasi"
+## Transformasi Abad: Dari "Penaklukan" ke "Rekonsiliasi"
 
-Mulai 1980-an, kesadaran lingkungan bangkit global, Taiwan juga mengalami gerakan warga seperti "menyelamatkan kelompok kayu suci Chilan".
+1980-an, kesadaran lingkungan bangkit global, Taiwan juga mengalami gerakan warga "Menyelamatkan Kelompok Kayu Suci Chilan".
 
-- **Larangan penebangan total 1991**: Ini adalah garis pembatas sejarah kehutanan Taiwan. Pemerintah resmi melarang penebangan hutan alami, arah pengelolaan hutan beralih dari "ekstraksi ekonomi" ke **"keamanan wilayah nasional" (國土保安)**.
-- **Bukti konteks Asia Timur**: Ini selaras dengan tren 1990-an negara-negara Asia Timur (seperti Tiongkok, Thailand) yang setelah mengalami banjir besar-besaran berturut-turut menerbitkan larangan penebangan.
-- **Dampak generasi mendatang**: Larangan penebangan menurunkan tingkat kemandirian kayu Taiwan di bawah 1%, industri sangat bergantung impor. Ini mendorong pemikiran ulang keseimbangan antara "pemanfaatan hutan swasta" dan "pengembangan kayu dalam negeri berkelanjutan".
+- **Larangan penebangan total 1991**: Ini garis pemisah sejarah kehutanan Taiwan. Pemerintah resmi mengumumkan larangan total penebangan hutan alami, arah pengelolaan hutan beralih dari "ekstraksi ekonomi" ke "keamanan wilayah nasional".
+- **Bukti konteks Asia Timur**: Selaras dengan tren 1990-an negara-negara Asia Timur (seperti Tiongkok, Thailand) yang setelah mengalami banjir besar-besaran berturut-turut menerapkan larangan penebangan.
+- **Dampak generasi mendatang**: Larangan penebangan menurunkan tingkat kemandirian kayu Taiwan di bawah 1%, industri sangat bergantung impor. Ini mendorong pemikiran ulang keseimbangan "pemanfaatan hutan swasta" dan "pengembangan kayu dalam negeri berkelanjutan" kontemporer.
 
 ---
 
 ## Kesimpulan: Jejak Era Pengembangan Hutan
 
-Dilihat dari seluruh sumbu waktu, hutan Taiwan mengalami tiga pergeseran definisi nilai:
+Melihat seluruh sumbu waktu, hutan Taiwan mengalami tiga pergeseran definisi nilai:
 
-- **Sebelum abad ke-19**: Hutan adalah "belantara", adalah hambatan pembukaan lahan.
-- **Awal hingga pertengahan abad ke-20**: Hutan adalah "aset", adalah taruhan kekuatan nasional dan dolar AS.
-- **Abad ke-21**: Hutan adalah "rumah", adalah benteng ketahanan menanggulangi iklim ekstrem.
+- **Sebelum abad ke-19**: Hutan adalah "belantara", hambatan pembukaan lahan.
+- **Awal hingga pertengahan abad ke-20**: Hutan adalah "aset", bidik kekuatan negara dan dolar AS.
+- **Abad ke-21**: Hutan adalah "rumah", benteng ketahanan menahan iklim ekstrem.
 
-Kebijakan kehutanan tiga abad ini, pada hakikatnya adalah perubahan definisi manusia terhadap "nilai alam". Saat kita hari ini melangkah ke Alishan, yang terlihat tidak boleh hanya pemandangan indah, melainkan jejak-jejak terukir di cincin tahunan, tentang geopolitik global dan perjuangan kelangsungan hidup yang mendalam.
+Kebijakan kehutanan tiga abad ini, pada hakikatnya adalah perubahan definisi manusia terhadap "nilai alam". Saat kita hari ini melangkah ke Alishan, yang terlihat tidak hanya pemandangan indah, lebih harus melihat jejak mendalam tentang geopolitik global dan perjuangan kelangsungan hidup yang terukir di cincin tahunan.
 
 ---
 
 ## Daftar Pustaka
 
-- Li Ken-cheng, 2016, 〈Era Penebangan Besar Taiwan, Akhirnya Berapa Pohon yang Ditebang?〉, termuat di situs web Daya Gunung Cui Feng Hu. 20 Juli 2016. URL: http://www.taiwanland.tw/06Dah-yuan/discussion/word27.html
-- Kantor Kehutanan Provinsi Taiwan, 1997, 《Majalah Kantor Kehutanan Provinsi Taiwan》. Taipei: Kantor Kehutanan Provinsi Taiwan.
-- Media Pertanian, 2019, 〈Mendengarkan Kisah Hutan, Mengungkap Keindahan dan Kehancuran Era Penebangan Besar Taiwan〉, https://www.agriharvest.tw/archives/8214/.
-- Yao He-nien, 1993, 〈Kehutanan Masa Pendudukan Jepang〉, hlm 9–30; 〈Kehutanan Awal Pasca-Pemulihan〉, hlm 31–64, termuat dalam Panitia Penyuntingan Sejarah Hutan Taiwan Republik Tiongkok (編), 《Sejarah Hutan Taiwan Republik Tiongkok》. Taipei: Persatuan Kehutanan Tiongkok.
+- Li Ken-cheng, 2016, 〈Era Penebangan Besar Taiwan, Akhirnya Berapa Pohon yang Ditebang?〉, termuat di situs Da Yuan Shan Cui Feng Hu. 20 Juli 2016. URL: http://www.taiwanland.tw/06Dah-yuan/discussion/word27.html
+- Biro Kehutanan Provinsi Taiwan, 1997, 《Majalah Biro Kehutanan Provinsi Taiwan》. Taipei: Biro Kehutanan Provinsi Taiwan.
+- Media Pertanian, 2019, 〈Mendengarkan Riwayat Hutan, Mengungkap Keindahan dan Vicissitude Era Penebangan Besar Taiwan〉, https://www.agriharvest.tw/archives/8214/.
+- Yao He-nien, 1993, 〈Kehutanan Masa Pendudukan Jepang〉, hlm 9–30; 〈Kehutanan Awal Pemulihan〉, hlm 31–64, termuat dalam Panitia Penyunting Sejarah Hutan Taiwan Republik Tiongkok (Taiwan) ed., 《Sejarah Hutan Taiwan Republik Tiongkok》. Taipei: Persatuan Kehutanan Tiongkok.
 - Chiao Kuo-mo, 1993, 〈Kebijakan Kehutanan〉, hlm 175–193, termuat dalam 《Sejarah Hutan Taiwan Republik Tiongkok》. Taipei: Persatuan Kehutanan Tiongkok.
-- Lin Kuo-chuan, 1993, 〈Masa Lalu dan Keadaan Sumber Daya Hutan〉, hlm 1–29, termuat dalam Hsia Yu-chiu, Wang Li-chih, Chin Heng-piao (編), 《Pengelolaan Berkelanjutan Sumber Daya Hutan》. Taipei: Stasiun Percobaan Kehutanan Provinsi Taiwan.
-- Peng Kuo-tung, 1989, 〈Masalah Ekologi yang Dihadapi Pengelolaan Hutan Taiwan〉, makalah disajikan pada "Pengelolaan Hutan di Bawah Masalah Ekologi". Taipei: Stasiun Percobaan Kehutanan.
-- Kantor Kehutanan, 1991, 《Statistik Kehutanan Provinsi Taiwan》. Taipei: Kantor Kehutanan.
+- Lin Kuo-chuan, 1993, 〈Masa Lalu dan Keadaan Sumber Daya Hutan〉, hlm 1–29, termuat dalam Xia Yu-jiu, Wang Li-zhi, Jin Heng-biao ed., 《Pengelolaan Berkelanjutan Sumber Daya Hutan》. Taipei: Lembaga Percobaan Kehutanan Provinsi Taiwan.
+- Peng Kuo-tung, 1989, 〈Masalah Ekologi yang Dihadapi Pengelolaan Hutan Taiwan〉, makalah disajikan di "Pengelolaan Hutan di Bawah Masalah Ekologi". Taipei: Lembaga Percobaan Kehutanan.
+- Biro Kehutanan, 1991, 《Statistik Kehutanan Provinsi Taiwan》. Taipei: Biro Kehutanan.
