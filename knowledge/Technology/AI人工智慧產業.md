@@ -9,6 +9,7 @@ author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: true
+curation: incubating
 ---
 
 > **30 秒概覽：** 台灣憑藉台積電製造NVIDIA AI晶片，在全球AI硬體供應鏈佔據關鍵地位。2023年生成式AI爆發後，台灣從「幫別人做晶片」開始思考「如何用AI」，政府推動AI四大策略，但仍有七成企業未跨過AI化門檻。台灣正在從硬體代工轉向AI應用創新。

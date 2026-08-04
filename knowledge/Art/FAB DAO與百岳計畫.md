@@ -11,6 +11,7 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
+curation: incubating
 ---
 
 # 捐款永動機：FAB DAO 與百岳計畫的社會實驗
