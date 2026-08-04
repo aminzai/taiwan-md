@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-05T03:22:41+08:00",
-    "zhCommitHead": "5bb862971",
+    "lastUpdated": "2026-08-05T03:30:21+08:00",
+    "zhCommitHead": "cbab05b05",
     "totalZh": 882,
     "activeLanguages": [
       "en",
@@ -67,9 +67,9 @@
       },
       "id": {
         "total_zh": 882,
-        "fresh": 523,
+        "fresh": 524,
         "stale": 4,
-        "metadata_stale": 13,
+        "metadata_stale": 12,
         "missing": 342,
         "orphan": 0
       },
@@ -52628,8 +52628,8 @@
           "sourceContentHash": "sha256:387f185bb5291526",
           "sourceBodyHash": "sha256:bdaf6e0f03c1164f",
           "translatedAt": "2026-08-04T17:01:06.154611+00:00",
-          "translationLastCommit": "e137dda5",
-          "translationLastModified": "2026-07-31T00:55:37+08:00",
+          "translationLastCommit": "cbab05b0",
+          "translationLastModified": "2026-08-05T03:22:41+08:00",
           "inferred": false,
           "footnoteDefs": 45,
           "status": "fresh",
@@ -108926,18 +108926,16 @@
         "id": {
           "path": "id/History/disney-and-taiwan.md",
           "translatedFrom": "History/迪士尼.md",
-          "sourceCommitSha": "154c45e8b",
-          "sourceContentHash": "sha256:5cc3c5f96a34e51e",
-          "sourceBodyHash": "sha256:ad7b91e555067f88",
-          "translatedAt": "2026-07-25T21:33:45+08:00",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:f212b82c110bd5ef",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-04T19:17:31.067904+00:00",
           "translationLastCommit": "75f15b73",
           "translationLastModified": "2026-07-26T02:27:54+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/History/disney-and-taiwan.md",
@@ -108992,8 +108990,8 @@
           "sourceContentHash": "sha256:f212b82c110bd5ef",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-04T19:08:45.812467+00:00",
-          "translationLastCommit": "4385b04d",
-          "translationLastModified": "2026-07-27T11:16:24+08:00",
+          "translationLastCommit": "cbab05b0",
+          "translationLastModified": "2026-08-05T03:22:41+08:00",
           "inferred": false,
           "footnoteDefs": 31,
           "status": "fresh",
