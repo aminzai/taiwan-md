@@ -22,7 +22,7 @@ Layer map:
 
 Entry shape (v2 — immutable identity, no metrics):
   - id:       <spore #>                  ← SPORE-LOG 發文紀錄 row number
-  - platform: 'threads' | 'x'
+  - platform: 'threads' | 'x' | 'facebook' | 'instagram'  ← 見 SYNCED_PLATFORMS
   - date:     'YYYY-MM-DD'
   - url:      '<canonical URL>'
 
@@ -55,6 +55,14 @@ REPO = Path(__file__).resolve().parents[2]
 SPORE_LOG_JSON = REPO / "docs/factory/spore-log.json"
 KNOWLEDGE_ROOT = REPO / "knowledge"
 SRC_CONTENT_ROOT = REPO / "src/content/zh-TW"  # mirror target
+
+# 會寫進文章 frontmatter 的平台。必須跟 spore-db.py PLATFORMS 對齊——
+# 2026-08-04 FB 首發時這裡還寫死 ("threads", "x")，#169 被 silent 丟掉：
+# spore-db 收了、spore-log 有、文章 frontmatter 沒有、讀者看不到。
+# 新平台上線時「上游收得下、下游看不到」是這一家族的通病（見 §神經迴路
+# 「新語言出生時感知系統不會自動更新」）。改動這裡時同步查 SporeFootprint.astro
+# 的 PLATFORM_NAMES 有沒有對應顯示名。
+SYNCED_PLATFORMS = ("threads", "x", "facebook", "instagram")
 
 # Map knowledge/ category dir → src/content/zh-TW/ slug dir
 # (knowledge uses Capitalized names; src/content uses lowercased)
@@ -167,7 +175,7 @@ def build_canonical_sporelinks(pub_rows):
             continue
         if pub.get("lang") and pub["lang"] != "zh":
             continue
-        if pub["platform"] not in ("threads", "x"):
+        if pub["platform"] not in SYNCED_PLATFORMS:
             continue
 
         entry = {

@@ -58,8 +58,15 @@ const enriched = sporeLinks.map((s) => {
 
 const title =
   lang === 'zh-TW' ? '這篇文章去過的地方' : 'Where this story traveled';
-const platformName = (p: string) =>
-  p === 'threads' ? 'Threads' : p === 'x' ? 'X' : p;
+// 平台顯示名。spore-db.py PLATFORMS 白名單有四個（threads/x/instagram/facebook），
+// 這裡先前只映射兩個，第三平台首次啟用時會渲染成小寫原字串。
+const PLATFORM_NAMES: Record<string, string> = {
+  threads: 'Threads',
+  x: 'X',
+  facebook: 'Facebook',
+  instagram: 'Instagram',
+};
+const platformName = (p: string) => PLATFORM_NAMES[p] ?? p;
 ---
 
 <div class="my-10">
