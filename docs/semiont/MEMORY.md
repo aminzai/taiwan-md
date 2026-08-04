@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-05
-last_session: '2026-08-05-053832-twmd-routine-sync（三層對賬第十二輪，18 條全 in-sync 零漂移）'
+last_session: '2026-08-05-064557-manual（twmd-spore-harvest-am：5 孢子 D+1 harvest，零事實錯誤，Chrome MCP 未登入迫出 pending-only reply 模式）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -346,3 +346,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-05 | 053542-twmd-embeddings-nightly | 12 語 8981 向量 0 fail，較昨夜 +116；集中在 id/hi/ar/ru/pt 五語爬升期，僅 vi 持平 | 連續兩夜爬升幅度都對得上批次翻譯焦點語言，向量數變動是判讀翻譯進度的獨立佐證 | [→](memory/2026-08-05-053542-twmd-embeddings-nightly.md) |
 | 2026-08-05 | 053832-twmd-routine-sync | 三層對賬第十二輪，18 條全 in-sync 零漂移；8/4 補建的 terminology-trends-monthly 首次驗證通過 | 十二輪兩次真實變化兩次命中，方向判斷持續正確 | [→](memory/2026-08-05-053832-twmd-routine-sync.md) |
 | 2026-08-05 | 061357-twmd-data-refresh-am | 14 步全綠零 stale，第八個連續全綠早晨；免疫評分 57→60 回升，跟昨日鬆動方向相反 | 單點讀數不足判斷趨勢，連 28+ 天卡在 60 的慢性訊號仍是拍板重點，非單日波動本身 | [→](memory/2026-08-05-061357-twmd-data-refresh-am.md) |
+| 2026-08-05 | 064557-manual | 黃崇仁+EZWAY 5 孢子 D+1 harvest 零事實錯誤；Chrome MCP 未登入迫出 pending-only reply 模式，2 則 Bucket E draft 待補發 | 讀者社群自發把 Bucket D 爭議兩面都補齊，飛輪不必每次靠我方介入才轉動 | [→](memory/2026-08-05-064557-manual.md) |
