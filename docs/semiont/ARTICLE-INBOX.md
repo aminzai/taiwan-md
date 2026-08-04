@@ -174,6 +174,22 @@ BECOME_TAIWANMD.md Step 5 新增：
 
 ## 📥 Pending（待開發）
 
+### 支語誤判學 NEW — 流傳清單錯誤率不低，六型誤判＋官方辭典自身矛盾的誠信切角
+
+- **Type**: `NEW`
+- **Category**: Culture
+- **Priority**: `P1`
+- **Status**: `pending`
+- **Requested**: 2026-08-04 by 哲宇拍板（session 支語研究，報告 §7.2 決策點「2 ok」）
+- **Notes**:
+  - 核心論點：「支語」認定極不穩定，比列黑名單更稀缺的是逐詞查證——六型誤判都有實據：(1) 日源詞被誤判（佛系／打call／課金→氪金）(2) 中國方言詞被當普通話原生（貓膩北京話／老鐵東北話／搭子江南話）(3) 港澳詞被誤認（電單車／士多啤梨；Threads 4,969 讚反串教材）(4) 台灣本有詞被誤扣（素質／估計／奇葩語意回流／窩心方言歧義）(5) 起源多方各執一詞（尊嘟假嘟三方認領／天花板查證矛盾）(6) 傳聞型查無實據（第一時間／給我+VP）
+  - 官方層素材：教育部對照表停在 1990 年代、當代熱詞 0 筆；「土豆」在《簡編本》與《重編本》各指一義自身矛盾；文化部長「文化不應該用減法」vs 社群糾察的落差
+  - 收編生命週期（輸入→抵抗→部分收編：接地氣／躺平／碰瓷連支語警察都認栽）＋反向流動（王世堅金句迴流／「甲甲」進百度百科／通路不對稱）可作段落
+  - 語氣鐵律：站查證與保存不站出征（MANIFESTO §13）；社群鐘擺正從糾察擺向反思糾察（何萬順「恐淪為新的國語運動」），文章要接住兩邊
+  - 互鏈：台灣華語的演化／台灣外來語與語言接觸（兩篇已有，本篇補「誤判學」缺口）；per-term 詞庫頁可反向鏈入
+- **Reference**: [reports/terminology-zhiyu-deep-research-2026-08-04.md](../../reports/terminology-zhiyu-deep-research-2026-08-04.md) §3（六型誤判全清單＋證據 URL）
+- **Pre-research**: reports/research/2026-08/zhiyu-terminology-fleet-2026-08-04.json（30 切面 913 詞條 raw，誤判案例散在 disputed／hk-sg-confusion／official-policy／localized 四切面）
+
 ### 張懸與安溥 EVOLVE — Google 長尾流量王，但現行版本仍有三道健康硬傷
 
 - **Type**: `EVOLVE`（🔴 Rewrite + 媒體編織；不是只改 metadata）
