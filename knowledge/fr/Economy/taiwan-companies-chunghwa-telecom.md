@@ -2,9 +2,7 @@
 title: 'Entreprise taïwanaise : Chunghwa Telecom'
 description: 'Le plus grand opérateur de télécommunications de Taïwan, de monopole public à chef de file de la transformation numérique'
 date: 2026-03-20
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '企業列傳'
 tags:
   [
     'Économie',
@@ -13,15 +11,17 @@ tags:
     'Transformation numérique',
     'Privatisation des entreprises publiques',
   ]
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
-featured: false
 translatedFrom: 'Economy/台灣企業：中華電信.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:dd735f0162ff1ad0'
-sourceBodyHash: 'sha256:9b07a151711a4285'
-translatedAt: '2026-05-15T13:52:06+08:00'
+sourceCommitSha: '4a4d66620'
+sourceContentHash: 'sha256:dd196b4a3bebe6fe'
+sourceBodyHash: 'sha256:85923df8ecf92741'
+translatedAt: '2026-08-04T04:55:53.783289+00:00'
 ---
 
 > **Vue d’ensemble en 30 secondes**
@@ -166,12 +166,12 @@ L’histoire de Chunghwa Telecom est un condensé de trente ans d’évolution d
 
 ## Références
 
-[^1]: [Musée numérique des télécommunications — Histoire du développement des télécommunications à Taïwan](https://telecom.nstm.gov.tw/Development) — De la création du Bureau taïwanais de gestion des télécommunications en 1949 au processus de transformation en Chunghwa Telecom
+[^1]: [Musée numérique des télécommunications — Histoire du développement des télécommunications à Taïwan](https://telecom.nstm.gov.tw/Development) — De la création de l'Administration des télécommunications de Taïwan (1949) au processus de restructuration de Chunghwa Telecom
 
-[^2]: [Wikipédia — Chunghwa Telecom](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1) — Calendrier de privatisation, structure actionnariale et histoire de l’entreprise
+[^2]: [Wikipédia — Chunghwa Telecom](https://zh.wikipedia.org/zh-tw/%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1) — Calendrier de la privatisation, structure de l'actionnariat et historique de l'entreprise
 
-[^3]: [Chunghwa Telecom — À propos de Chunghwa](https://www.cht.com.tw/zh-tw/home/cht/about-cht/introduction/about-cht) — Mission de création, périmètre d’activité et jalons de développement de l’entreprise
+[^3]: [Chunghwa Telecom — À propos de Chunghwa](https://www.cht.com.tw/zh-tw/home/cht/about-cht/introduction/about-cht) — Mission de l'entreprise, domaine d'activité et étapes clés du développement
 
-[^4]: [Chunghwa Telecom — Rapport des résultats opérationnels du quatrième trimestre 2024](https://www.cht.com.tw/) — Performance financière et données d’activité en 2024
+[^4]: [Chunghwa Telecom — Rapport sur les résultats opérationnels du quatrième trimestre 2024](https://www.cht.com.tw/) — Performances financières et données opérationnelles de 2024
 
-[^5]: [Chunghwa Telecom — Principaux actionnaires](https://www.cht.com.tw/zh-tw/home/cht/investors/shareholder-services/shareholder) — Situation actuelle de la participation détenue par l’État, via le ministère des Finances et le Fonds national de développement
+[^5]: [Chunghwa Telecom — Principaux actionnaires](https://www.cht.com.tw/zh-tw/home/cht/investors/shareholder-services/shareholder) — État actuel des proportions de participation du gouvernement (Ministère des Finances, National Development Fund)

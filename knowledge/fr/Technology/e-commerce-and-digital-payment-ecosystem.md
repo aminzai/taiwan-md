@@ -2,6 +2,7 @@
 title: 'Commerce en ligne et paiements numériques à Taïwan : trois batailles sur une île'
 description: "De la promesse risquée de Jan Hung-tze sur la livraison en 24 heures, à la guerre de subventions de 30 milliards de Shopee, jusqu'à l'offensive éclair de Coupang — vingt ans d'e-commerce à Taïwan, une histoire de pionniers locaux éclipsés par des capitaux étrangers, encore et encore."
 date: 2026-04-06
+category: 'Technology'
 tags:
   [
     'commerce électronique',
@@ -17,15 +18,14 @@ tags:
 subcategory: 'Numérique et internet'
 author: 'Taiwan.md'
 featured: true
-readingTime: 12
-category: Technology
 lastVerified: 2026-04-06
 lastHumanReview: false
+readingTime: 12
 translatedFrom: 'Technology/電子商務與數位支付生態系.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:e6d4ecca5e8c9269'
-sourceBodyHash: 'sha256:8a4126afbbcc2d61'
-translatedAt: '2026-04-14T12:33:27+08:00'
+sourceCommitSha: '4a4d66620'
+sourceContentHash: 'sha256:8a77917ab93abd39'
+sourceBodyHash: 'sha256:6564b3269a2b9fa4'
+translatedAt: '2026-08-04T04:43:11.485342+00:00'
 ---
 
 # Commerce en ligne et paiements numériques à Taïwan : trois batailles sur une île
@@ -118,24 +118,25 @@ La tendance reste pourtant irréversible. Selon les derniers sondages, 84 % des 
 
 ---
 
-## Vingt ans de cycles
+## Un cycle de vingt ans
 
-En prenant du recul, les vingt ans de commerce en ligne et de paiements numériques à Taïwan dessinent un cycle ininterrompu de disruptions.
+Avec le recul, les vingt dernières années du commerce électronique et du paiement numérique à Taïwan constituent un cycle de ruptures constantes.
 
-Dans les années 2000, PChome définit la « rapidité » avec la livraison en 24 heures. Dans les années 2010, Shopee définit le « bon marché » avec la livraison gratuite. Dans les années 2020, momo définit la « fiabilité » avec sa logistique intégrée, et Coupang cherche déjà à redéfinir la « rapidité ». Chaque gagnant a cru trouver son fossé défensif ; chaque envahisseur suivant a trouvé le chemin pour le contourner.
+Dans les années 2000, PChome a défini la notion de « rapidité » avec la livraison en 24 heures. Dans les années 2010, Shopee a défini celle de « l'économie » grâce à la livraison gratuite. Dans les années 2020, momo a défini la « fiabilité » par son propre réseau logistique, tandis que Coupang tente de redéfinir la « rapidité » avec sa livraison express _Rocket_. À chaque cycle, les vain</strong>s pensent avoir creusé leurs douves, mais les nouveaux arrivants trouvent toujours un moyen de les contourner.
 
-Du côté des paiements, le mouvement est le même. Du règlement à la livraison, à la carte bancaire, au scan LINE Pay, jusqu'au QR code universel TWQR — chaque nouvelle version de « pratique » rend la précédente laborieuse.
+Il en va de même pour le volet des paiements. Du paiement à la livraison à l'utilisation de la carte de crédit, du scan de LINE Pay à l'universalité du TWQR — chaque montée en gamme vers plus de « commodité » rend la version précédente obsolète et encombrante.
 
-En décembre 2024, le groupe Uni-President prend une participation dans PChome. Cette entreprise qui avait transformé le commerce de détail taïwanais grâce au 7-Eleven vient maintenant réorganiser l'e-commerce. Il y a trente ans, l'épicerie de quartier a cédé la place à la supérette. Aujourd'hui, le patron de la supérette vient ramasser les morceaux du commerce en ligne.
+En décembre 2024, le groupe Uni-President a pris une participation dans PChome. Cette entreprise, qui a transformé le commerce de détail à Taïwan grâce au réseau 7-Eleven, s'apprête désormais à transformer l'e-commerce taïwanais. Il y a trente ans, les épiceries traditionnelles ont été remplacées par les magasins de proximité (_convenience stores_). Aujourd'hui, ce sont les propriétaires de ces magasins qui s'apprêtent à reprendre en main les décombres du commerce électronique.
 
-Les batailles commerciales sur cette île ne s'arrêteront pas. Chaque nouveau QR code, chaque nouveau centre logistique, chaque nouvelle vague de subventions répond à la même question : qui peut faire en sorte que 23 millions de personnes passent à la caisse une seconde plus vite ?
+La guerre commerciale sur cette île ne s'arrêtera pas. Chaque nouveau QR code, chaque nouveau centre logistique, chaque nouvelle vague de subventions tente de répondre à la même question : qui parviendra à faire gagner une seconde au geste de dépenser des 23 millions d'habitants ?
 
-**Pour aller plus loin :**
+**Lectures complémentaires** :
 
-- [Le développement de la fintech à Taïwan](/fr/economy/taiwan-fintech-development) — Banques entièrement en ligne, open banking et sandbox réglementaire : le panorama de la transformation numérique bancaire
-- [Construction du réseau 5G et transformation numérique à Taïwan](/fr/technology/taiwan-5g-digital-transformation) — Comment les infrastructures 5G transforment le suivi logistique, le live shopping et le commerce connecté
-- [Le développement de l'industrie logicielle à Taïwan](/fr/technology/taiwan-software-industry-development) — De la sous-traitance aux marques propres : comment l'industrie logicielle soutient les fondations techniques des plateformes e-commerce
-- [L'industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — D'où viennent les puces qui alimentent les paiements numériques et les infrastructures du commerce en ligne
+- [Développement de la fintech à Taïwan](/fr/economy/taiwan-fintech-development) — Des banques purement numériques à l'Open Banking et aux bacs à sable réglementaires, panorama de la transformation numérique du secteur financier
+- [Construction du réseau 5G et transformation numérique à Taïwan](/fr/technology/taiwan-5g-digital-transformation) — Comment les infrastructures 5G transforment le suivi logistique, le shopping en direct et le commerce intelligent
+- [Développement de l'industrie logicielle à Taïwan](/fr/technology/taiwan-software-industry-development) — De la sous-traitance aux marques propres, comment l'industrie du logiciel soutient la couche technologique des plateformes d'e-commerce
+- [Industrie des semi-conducteurs](/fr/technology/taiwan-semiconductor-industry) — D'où proviennent les puces qui soutiennent le paiement numérique et les infrastructures de l'e-commerce
+- [Douanes taïwanaises et EZ WAY](/lifestyle/台灣海關報關制度與EZWAY) — La dernière étape pour les colis d'e-commerce transfrontaliers entrant à Taïwan : qui exploite l'application de déclaration en douane et comment sont fixés les seuils d'exonération de taxes
 
 ## Références
 

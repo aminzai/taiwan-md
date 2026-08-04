@@ -1,126 +1,121 @@
 ---
-title: 'PTT Bulletin Board : la place publique la plus tenace de Taïwan'
-description: "Un BBS fondé en 1995 dans une résidence universitaire, qui fonctionne encore trente ans plus tard avec une interface en texte brut, et qui a profondément façonné le langage d'internet, le débat politique et la mémoire collective à Taïwan"
+title: 'PTT PTT : La place publique la plus obstinée de Taïwan'
+description: 'Un BBS installé dans une résidence universitaire en 1995 qui, trente ans plus tard, fonctionne toujours via une interface textuelle pure, ayant profondément façonné le langage Internet, les débats politiques et la mémoire collective de Taïwan.'
 date: 2026-03-21
+category: 'Technology'
 tags:
   [
     'PTT',
     'BBS',
-    'culture internet',
-    'kémin',
+    'culture Internet',
+    'Netizens',
     'démocratie numérique',
     'réseaux sociaux',
   ]
-subcategory: 'Communautés et culture numérique'
+subcategory: '社群與數位文化'
 author: 'p3nchan'
-readingTime: 8
-featured: true
-category: 'Technology'
+featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
+readingTime: 8
+curation: 'incubating'
 translatedFrom: 'Technology/PTT批踢踢.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:f28d98485199bc24'
 sourceBodyHash: 'sha256:110038d2fb23bc2a'
-translatedAt: '2026-04-14T12:32:55+08:00'
+translatedAt: '2026-08-04T12:03:21+08:00'
 ---
 
-# PTT Bulletin Board : la place publique la plus tenace de Taïwan
+# PTT PTT : La place publique la plus obstinée de Taïwan
 
-## En 30 secondes
+## Aperçu en 30 secondes
 
-En 1995, un étudiant en informatique de l'Université nationale de Taïwan, Tu Yi-chin, installe un serveur BBS dans sa chambre de résidence sur un vieux PC 486, et le baptise « PTT Bulletin Board Station ». Trente ans plus tard, ce forum — qui s'obstine à utiliser une interface telnet en texte brut — cumule plus de 1,5 million de comptes enregistrés, avec plus de 150 000 connexions simultanées aux heures de pointe. Il a engendré la culture des « kémin », transformé le paysage médiatique taïwanais, joué un rôle central dans le mouvement des tournesols — avant de se retrouver face à un vieillissement inexorable de sa base d'utilisateurs, à mesure que Dcard et Threads ont émergé.
-
----
-
-## Le point de départ : un PC 486
-
-En septembre 1995, Tu Yi-chin, alors en deuxième année d'informatique à la NTU, installe PTT dans sa chambre de la résidence masculine n° 8, en faisant tourner Slackware Linux sur un vieux PC 486. À l'époque, les universités taïwanaises foisonnaient de serveurs BBS — le NSYSU BBS de l'Université Sun Yat-sen, le BS2 de l'Université Chiao Tung — mais la plupart étaient gérés par des services informatiques institutionnels, avec une certaine forme de contrôle éditorial.
-
-Tu Yi-chin a pris une décision qui, sur le moment, semblait anodine, mais qui s'est révélée décisive : PTT serait autogéré par les étudiants, sans but lucratif, sans publicité commerciale. Ce principe a tenu trente ans.
-
-En janvier 1997, PTT ne comptait que 581 utilisateurs enregistrés. Mais avec la démocratisation du haut débit à Taïwan dans les années 2000, la base d'utilisateurs a explosé.
+En 1995, l'étudiant du département d'informatique de l'Université nationale de Taïwan (NTU), [Ethan Tu](/fr/people/ethan-tu/), installe un BBS dans sa résidence universitaire sur un ordinateur 486, le baptisant « PTT Bulletin Board System ». Trente ans plus tard, ce forum qui s'obstine à utiliser une interface textuelle via telnet totalise plus de 1,5 million de comptes inscrits, avec des pics dépassant les 150 000 utilisateurs simultanés. Il a engendré la culture des « _xiangmin_ » (citoyens/netizens), transformé l'écosystème médiatique taïwanais et joué un rôle crucial lors du mouvement des Tournesols — avant de devoir faire face au vieillissement de ses utilisateurs avec l'ascension de Dcard et Threads.
 
 ---
 
-## Pousser, huer, commenter : un système de notation unique
+## Les débuts sur un ordinateur 486
 
-La fonctionnalité la plus reconnaissable de PTT est son système de « push/boo ». Chaque utilisateur peut réagir à un article de trois façons : « pousser » (positif, en rouge), « huer » (négatif, en bleu) ou « commenter » (neutre, flèche grise). Ces réactions s'affichent directement sous l'article, formant une évaluation collective en temps réel.
+En septembre 1995, Ethan Tu, alors étudiant en deuxième année à la NTU, utilise un ordinateur 4lam 486 sous Slackware Linux pour lancer PTT depuis sa chambre du bâtiment masculin n°8. À l'époque, les campus taïwanais regorgeaient de BBS — comme le NSYSU BBS de l'Université Sun Yat-sen ou le BS2 de l'Université nationale de Taïwan — mais la plupart étaient gérés par les centres informatiques universitaires, avec un contenu soumis à une certaine forme de contrôle.
 
-Ce système est l'une des premières implémentations de ce type dans un BBS en langue chinoise, antérieure au système upvote/downvote de Reddit. Contrairement à Reddit, les réactions sur PTT sont nominatives : tout le monde voit qui a hué quoi. Huer quelqu'un à tort peut vous valoir une « contre-réaction ». Ce système responsabilise les participants et fait des réactions elles-mêmes un espace de discussion à part entière — parfois, les commentaires sous l'article sont plus savoureux que l'article lui-même.
+Ethan Tu prit une décision qui semblait sans grand intérêt à l'époque, mais qui, rétrospectivement, a tout changé : PTT serait géré de manière autonome par les étudiants, fonctionnerait à but non lucratif et n'accepterait aucune publicité commerciale. Ce principe a perduré pendant trente ans.
+
+En janvier 1997, PTT ne comptait que 581 utilisateurs inscrits. Cependant, avec la démocratisation du haut débit à Taïwan dans les années 2000, le nombre d'utilisateurs de PTT a connu une croissance exponentielle.
 
 ---
 
-## Le forum Gossiping : le baromètre de l'opinion taïwanaise
+## « Push », « Boo », « → » : un système d'évaluation unique
 
-Créé en 1999, le forum Gossiping (八卦板) était à l'origine dédié aux potins sur les célébrités et le showbiz. Il a évolué pour devenir le forum le plus vaste et le plus actif de PTT, avec plus de cinq mille connectés en dehors des heures de pointe, et plus de dix mille lors d'événements majeurs.
+La caractéristique la plus reconnaissable de PTT est son système de réaction aux articles. Chaque utilisateur peut répondre de trois manières : « _tui_ » (pousser/approuver, affiché en rouge), « _xu_ » (siffler/désapprouver, affiché en bleu) ou « → » (neutre, flèche grise). Les votes apparaissent directement sous l'article, formant une évaluation collective instantanée.
 
-Ce qui rend Gossiping si important, c'est qu'il joue depuis longtemps le rôle de « thermomètre de l'opinion publique taïwanaise en temps réel ». Dans les premières minutes qui suivent un événement, Gossiping voit déjà apparaître des témoignages de première main, des résumés (les fameux « lazy packs ») et des points de vue contradictoires. Les journalistes y cherchent des sujets, les conseillers politiques y lisent les tendances de l'opinion. Pendant longtemps, « monter sur PTT pour prendre le pouls » a été un réflexe quotidien pour beaucoup de Taïwanais.
+Ce système est l'une des premières implémentations de ce type sur les BBS chinois, bien avant le _upvote/downvote_ de Reddit. Contrairement à Reddit, les votes sur PTT sont liés à un identifiant (ID) : tout le monde peut voir qui a « sifflé » quoi, et une désapprobation injustifiée peut entraîner un « contre-sifflement ». Ce système nominatif transforme le vote lui-même en un espace de discussion supplémentaire — il arrive parfois que les commentaires soient plus intéressants que l'article original.
 
-PTT compte plus de vingt mille forums au total, couvrant des thèmes aussi variés que Stock (Bourse), NBA, LoL, Baseball, Boy-Girl (relations amoureuses), Marvel (paranormal) ou Joke (humour). Chaque forum possède ses propres modérateurs, règles et culture : certains sont aussi stricts qu'une caserne (comme C_Chat avec ses règles contre les spoilers), d'autres aussi chaotiques qu'un marché.
+---
+
+## Le forum Gossiping : le baromètre de l'opinion taïwanać
+
+Créé en 1999, le forum _Gossiping_ (八卦板) n'était à l'origine qu'un espace pour discuter des potins sur les célébrités. Il a évolué pour devenir la section la plus vaste et la plus active de PTT, comptant plus de 5 000 utilisateurs en ligne même en dehors des heures de pointe, et dépassant les 10 000 lors d'événements majeurs.
+
+L'importance du forum _Gossiping_ réside dans son rôle de « réacteur instantané de l'opinion publique taïwanaise ». Dans les minutes suivant un événement d'actualité, on y trouve les premières informations, des « _laorenbao_ » (résumés synthétiques) et des confrontations de points de vue multiples. Les journalistes utilisent ce forum comme source de sujets, tandis que les conseillers politiques l'utilisent comme baromètre de l'opinion. L'expression « aller sur PTT pour tâter le terrain » a été, pendant une longue période, un réflexe quotidien pour les Taïwanais.
+
+PTT compte plus de 20 000 forums, couvrant presque tous les sujets imaginables : _Stock_ (Bourse), NBA, LoL, Baseball, ainsi que _Boy-Girl_ (relations amoureuses), _marvel_ (paranormal) ou _joke_ (blagues). Chaque forum possède ses propres modérateurs, ses propres règles et sa propre culture — certains sont aussi stricts qu'une armée (comme les règles anti-spoilers de C_Chat), d'autres sont aussi chaotiques qu'un marché de quartier.
 
 ---
 
 ## Comment PTT a transformé la langue taïwanaise
 
-L'impact le plus durable de PTT sur Taïwan est peut-être linguistique. De nombreux termes nés sur PTT ont infiltré le langage courant, utilisés même par des personnes qui n'ont jamais fréquenté le site :
+L'influence la plus durable de PTT sur Taïwan est sans doute linguistique. De nombreux termes issus de PTT ont pénétré le langage quotidien, au point d'être utilisés naturellement par ceux qui ne fréquentent même pas le site :
 
-**Kémin (鄉民)** — le terme par lequel les utilisateurs de PTT se désignent eux-mêmes. L'origine remonte au film de Stephen Chow _Justice, My Foot!_ et à la réplique « je suis entré avec les villageois pour voir le spectacle ». En 2004, le responsable du site a lancé un appel sur le forum : « Les spectateurs kémin, veuillez rester derrière la ligne jaune. » Le terme est passé de l'ironie à l'identité, devenant l'auto-désignation la plus répandue des utilisateurs de PTT.
+« **_Xiangmin_** » (鄉民) — l'autonyme des utilisateurs de PTT, tiré du film de Stephen Chow _Hail the Judge_ (« Je suis juste un citoyen venu voir le spectacle »). En 2004, le gestionnaire de PTT a demandé sur le forum : « Que les _xiangmin_ venus pour le spectacle reculent derrière la ligne jaune », transformant depuis ce mot une moquerie en un terme d'appartenance. « **Cinquième étage** » (五樓) — désigne le cinquième commentaire d'un fil, car les premières réponses étaient souvent géniales ; c'est devenu une expression pour valider un argument (« le cinquième étage a raison »). « **+1** » — pour exprimer son accord. « **Orienter l'opinion** » (帶風向) — désigne l'action de manipuler délibérément l'opinion sur un forum, un terme passé du jargon de PTT au vocabulaire commun de la société taïwanaise.
 
-**Le « 5e commentaire » (五樓)** — la cinquième ligne de commentaires, où les réponses les plus inspirées apparaissaient fréquemment à l'époque. D'où l'expression « le 5e commentaire a raison » ou « parle, commentaire n° 5 ».
-
-**+1** — marque l'approbation, équivalent d'un « je plussoie ».
-
-**Créer un courant (帶風向)** — désigne le fait d'organiser une campagne d'opinion coordonnée sur un forum. Le terme est passé du vocabulaire PTT au lexique courant de la société taïwanaise.
-
-D'autres mots ont également dépassé les frontières du site : « Tianlongren » (les gens de Taipei qui se croient supérieurs), « yepei » (contenu sponsorisé, marketing dissimulé), « lazy pack » (résumé synthétique d'une actualité complexe). Ces termes ont une vie propre bien au-delà de PTT.
+« _Tianlongren_ » (les privilégiés de Taipei), « _yepei_ » (marketing d'influence/placement de produit), « _laorenbao_ » (résumés simplifiés) — la vitalité de ces termes a largement dépassé les frontières de PTT.
 
 ---
 
-## Mouvement des tournesols, élections et désinformation
+## Mouvement des Tournesols, élections et fake news
 
-Lors du mouvement des tournesols de 2014, PTT est devenu le principal centre d'information et de mobilisation des manifestants. Les mises à jour en temps réel, les demandes de matériel, les conseils juridiques — tout circulait via PTT. Cet épisode a montré au monde entier ce qu'un BBS de 1995 pouvait encore accomplir dans le cadre d'un mouvement social.
+Lors du mouvement des Tournesols en 2014, PTT est devenu le centre névralgique de l'information et de la mobilisation pour les manifestants. Les informations en temps réel, les besoins en matériel et les conseils juridiques circulaient via P'TT. Cet événement a montré au monde la puissance qu'un BBS datant de 1995 pouvait déployer dans un mouvement social.
 
-À chaque élection, les forums Gossiping et HatePolitics deviennent des champs de bataille politiques. Les partisans de différents camps s'affrontent dans les commentaires, des agences de communication politique sont accusées d'acheter des comptes pour « créer des courants », et les modérateurs s'épuisent à traiter les signalements et les bannissements. Les débats politiques sur PTT sont vivaces — et souvent explosifs.
+À chaque élection, les forums _Gossiping_ et _HatePolitics_ deviennent des champs de bataille politiques. Les partisans des différents camps s'affrontent via les votes, les agences de communication politique sont accusées d'acheter des comptes pour « orienter l'opinion », et les modérateurs s'épuisent à gérer les signalements et les bannissements (_buckets_). La discussion politique sur PTT est vibrante, mais aussi incendiaire.
 
-En 2018, PTT a suspendu la création de nouveaux comptes, en partie parce qu'un grand nombre de faux comptes avaient été utilisés pour diffuser de la désinformation pendant la période électorale. Cette décision a efficacement contrôlé la qualité des nouveaux inscrits, mais a aussi fermé la porte aux jeunes utilisateurs de la nouvelle génération.
-
----
-
-## Une relation amour-haine avec les médias
-
-La relation entre les médias taïwanais et PTT est paradoxale. D'un côté, les journalistes puisent abondamment dans PTT pour trouver leurs sujets, et « les kémin de PTT en parlent » est devenu une formule passe-partout dans les titres. De l'autre, les utilisateurs de PTT détestent profondément cette pratique et raillent les journalistes qui recopient directement des posts PTT, les surnommant « journalistes du clavier ».
-
-Cette dynamique crée un écosystème médiatique étrange : les discussions PTT sont amplifiées par les articles de presse, qui reviennent sur PTT pour être critiqués par les kémin, formant une boucle d'opinion auto-renforçante. Certains événements ne sont devenus des nouvelles que parce qu'ils avaient « percé sur PTT » ; d'autres ont perdu leur crédibilité parce que « les kémin de PTT n'y croyaient pas ».
+En 2018, PTT a annoncé la suspension de la validation des nouveaux comptes, en partie à cause de l'implication massive de faux comptes dans la propagation de _fake news_ durant les périodes électorales. Cette décision a permis de contrôler la qualité des nouveaux arrivants, mais elle a aussi fermé la porte à une nouvelle génération d'utilisateurs.
 
 ---
 
-## Un BBS de trente ans face à la réalité
+## Amours et haines avec les médias
 
-PTT vieillit. La limitation des inscriptions en 2018, le nettoyage de 2023 par vérification d'e-mail (qui a bloqué d'un coup un grand nombre de comptes sans adresse liée), combinés au départ des jeunes vers Dcard (le forum anonyme des universitaires) et Threads (qui a explosé à Taïwan depuis 2023), ont conduit à une diminution continue des utilisateurs actifs.
+La relation entre les médias taïwanais et PTT est paradoxale. D'un côté, les journalistes puisent massivement leurs sujets sur PTT, faisant de l'expression « les _xiangmin_ de PTT en débattent chaudement » une formule standard des titres de presse. De l'autre, les utilisateurs de PTT détestent cette pratique et surnomment ironiquement les journalistes qui copient directement les articles de « journalistes au clavier ».
 
-L'interface en texte brut a longtemps été la fierté de PTT — chargement rapide, résistance à la censure, absence d'algorithme de recommandation — mais pour une génération qui a grandi avec les smartphones, un forum sans images ni vidéos ressemble à un monde étranger. Des applications mobiles comme MoPTT ou PiTT offrent un accès depuis un téléphone, mais l'expérience centrale reste textuelle.
+Ce cycle crée un écosystème médiatique singulier : les discussions sur PTT sont amplifiées par les reportages, qui reviennent ensuite sur PTT pour être critiquées par les utilisateurs, formant une boucle d'opinion auto-renforcée. Certains événements ne deviennent des actualités que parce qu'ils « sont montés sur PTT », tandis que certains reportages perdent toute crédibilité parce que « les _xiangmin_ de PTT n'y croient pas ».
 
-L'essor de Threads à Taïwan a particulièrement secoué PTT. Comme le souligne l'article consacré à Threads, quand un événement se produit, le premier réflexe des internautes taïwanais n'est plus « monter sur PTT voir le vent tourner », mais « aller sur Threads voir ce que tout le monde dit ».
+---
+
+## La réalité d'un BBS de trente ans
+
+PTT vieillit. Entre la restriction des inscriptions en 2018, le nettoyage des comptes par vérification d'e-mail en 2023 (qui a bloqué de nombreux comptes sans e-mail lié), et le transfert des jeunes vers Dcard (forum anonyme universitaire) ou Threads (en pleine explosion à Taïwan depuis 2023), le nombre d'utilisateurs actifs diminue.
+
+L'interface textuelle pure était autrefois la fierté de PTT — rapidité de chargement, résistance à la censure, absence de manipulation par les algorithmes — mais pour une génération ayant grandi avec le smartphone, un forum sans images ni vidéos ressemble à un monde étranger. Bien que des applications mobiles comme MoPTT ou PiTT offrent des points d'accès, l'expérience fondamentale reste textuelle.
+
+L'ascension de Threads à Taïwan impacte particulièrement PTT. Comme on peut le voir dans les publications sur Threads, le premier réflexe des internautes taïwanais lors d'un événement majeur n'est plus « d'aller sur PTT pour tâter le terrain », mais « d'aller sur Threads pour voir ce que tout le monde en dit ».
 
 ---
 
 ## Mais PTT est toujours là
 
-Malgré la baisse d'activité, PTT conserve une place irremplaçable. Le forum Stock reste très fréquenté pendant les heures de cotation à la Bourse de Taïwan. Le forum Baseball voit affluer les fans lors de la saison de la CPBL et des tournois WBC. Gossiping et HatePolitics restent des espaces centraux de l'opinion politique pendant les élections.
+Malgré la baisse de l'activité, PTT occupe toujours une place irremplaçable. Le forum _Stock_ reste extrêmement fréquenté pendant les heures de trading de la bourse de Taïwan, et le forum _Baseball_ voit affluer les fans lors des saisons de CPBL et de WBC. Les forums _Gossiping_ et _H'atePolitics_ restent les bastions centraux de l'opinion politique en période électorale.
 
-Ce qui est vraiment irremplaçable, c'est la base de données de discussions accumulée sur trente ans. Vous voulez retrouver les premières réactions populaires à un événement social survenu il y a cinq ans ? Consulter de vraies critiques d'un produit vieux de dix ans ? Les archives de PTT constituent l'une des collections les plus complètes de la mémoire collective d'internet taïwanais.
+Ce qui est véritablement irremplaçable sur PTT, c'est sa base de données de discussions accumulées sur trente ans. Vous voulez consulter la réaction populaire immédiate à un événement social d'il y a cinq ans ? Vous voulez voir les avis authentiques sur un produit d'il y a dix ans ? L'archive historique de PTT est l'un des registres les plus complets de la mémoire collective numérique de Taïwan.
 
-Tu Yi-chin a quitté Microsoft en 2017 pour rentrer à Taïwan et fonder [Taiwan AI Labs](https://ailabs.tw/), mais PTT est toujours géré par des bénévoles étudiants de la NTU, toujours sans but lucratif, toujours sans publicité. Dans une époque où toutes les plateformes courent après l'audience et la monétisation, un BBS de trente ans qui tient encore à ces principes — c'est en soi quelque chose qui mérite d'être raconté.
+Ethan Tu a quitté Microsoft en 2017 pour revenir à Taïwan et fonder [Taiwan AI Labs](https://ailabs.tw/), mais PTT est toujours maintenu par des étudiants bénévoles de la NTU, reste à but non lucratif et ne vend aucune publicité. À une époque où toutes les plateformes traquent le trafic et la monétisation, qu'un BBS de trente ans puisse encore tenir ces principes est, en soi, un fait digne d'être consigné.
 
 ---
 
 ## Références
 
-- [PTT Bulletin Board Station — site officiel](https://www.ptt.cc/)
-- [批踢踢 — 維基百科](https://zh.wikipedia.org/zh-tw/%E6%89%B9%E8%B8%A2%E8%B8%A2)
+- [Site officiel de PTT PTT Bulletin Board System](https://www.ptt.cc/)
+- [PTT — Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%89%B9%E8%B8%A2%E8%B8%A2)
 - [PTT Bulletin Board System — Wikipedia](https://en.wikipedia.org/wiki/PTT_Bulletin_Board_System)
-- [PTT 的成立 — PTT 鄉民百科](https://pttpedia.fandom.com/zh/wiki/PTT%E7%9A%84%E6%88%90%E7%AB%8B)
-- [Gossiping 板（八卦板）— PTT 鄉民百科](<https://pttpedia.fandom.com/zh/wiki/Gossiping%E6%9D%BF_(%E5%85%AB%E5%8D%A6%E6%9D%BF)>)
+- [La création de PTT — PTT Xiangmin Encyclopedia](https://pttpedia.fandom.com/zh/wiki/PTT%E7%9A%84%E6%88%90%E7%AB%8B)
+- [Forum Gossiping (八卦板) — PTT Xiangmin Encyclopedia](<https://pttpedia.fandom.com/zh/wiki/Gossiping%E6%9D%BF_(%E5%85%AB%E5%8D%A6%E6%9D%BF)>)
 - [PTT refuses new users after fake news incident — Taipei Times (2018)](https://www.taipeitimes.com/News/taiwan/archives/2018/09/17/2003700586)
 - [PTT's Legendary "Villager Culture" — Taiwan Panorama](https://www.taiwan-panorama.com/en/Articles/Details?Guid=10c09fef-775f-4745-8971-4b1f8c7c726d&CatId=7)

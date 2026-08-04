@@ -1,118 +1,122 @@
 ---
 title: 'Histoire du mouvement environnemental à Taïwan'
-description: "Le mouvement environnemental à Taïwan, depuis les luttes anti-pollution des années 1980 jusqu'aux récentes campagnes de réduction du plastique, témoigne de l'éveil de la conscience écologique de la société taïwanaise et de son articulation avec le processus de démocratisation."
+description: "L'évolution des mouvements environnementaux à Taïwan, de la lutte anti-pollution des années 1980 aux récentes campagnes de réduction du plastique, témoignant de l'éveil de la conscience écologique et du processus de démocratisation."
 date: 2026-03-20
 category: 'Nature'
 tags:
-  - 'mouvement environnemental'
-  - "protection de l'environnement"
-  - 'mouvement social'
-  - 'mouvement anti-nucléaire'
-  - "pollution de l'air"
-  - 'protection des océans'
+  [
+    'mouvement environnemental',
+    "protection de l'environnement",
+    'mouvement social',
+    'mouvement anti-nucléaire',
+    'pollution atmosphérique',
+    'protection marine',
+  ]
 subcategory: '保育與環境'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
 translatedFrom: 'Nature/台灣環境運動史.md'
-sourceCommitSha: '44238bb4f'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:5ce21d3d3c3acbd6'
 sourceBodyHash: 'sha256:11166779b46079e7'
-translatedAt: '2026-06-12T00:53:43+08:00'
+translatedAt: '2026-08-04T13:18:21+08:00'
 ---
 
-# Histoire du mouvement environnemental à Taïwan
+# Histoire du mouvement environnemental à Taïvan
 
-Le mouvement environnemental à Taïwan s’est développé en parallèle du processus de démocratisation. Il débute au début des années 1980 avec les luttes anti-pollution et se transforme progressivement en un réseau d’actions écologiques diversifié. Ces mobilisations ne se limitent pas à la protection de l’environnement ; elles reflètent également les profondes réflexions de la société taïwanaise sur les modèles de développement, la qualité de vie et la justice intergénérationnelle.
+Le mouvement environnemental à Taïwan s'est développé parallèlement au processus de démocratisation. Partant des luttes anti-pollution du début des années 1980, il a progressivement formé un réseau d'actions écologiques diversifié. Ces mouvements ne se limitent pas à la simple protection de l'environnement ; ils reflètent une réflexion profonde de la société taïwanaise sur les modèles de développement, la qualité de vie et la justice intergénérationnelle.
 
-## Phase d’émergence : luttes anti-pollution (1980‑1990)
+## Phase d'émergence : Les luttes anti-pollution (années 1980-1990)
 
-Les origines du mouvement environnemental taïwanais remontent aux grands épisodes de pollution des années 1980. En 1982, des étudiants de l’Université nationale de Taïwan se sont opposés à l’implantation d’une usine DuPont à Lukang, devenant ainsi un symbole précoce du mouvement. Les luttes contre le complexe pétrochimique de Houchi et le barrage de Meinu ont ensuite illustré la réaction directe du public face à la pollution industrielle lourde.
+Les prémices du mouvement environnemental à Taïwan remontent à plusieurs incidents de pollution majeurs dans les années 1980. En 1982, des étudiants de l'Université nationale de Taïwan se sont opposés à l'implantation d'une usine DuPont à Lukang, devenant un symbole précoce du mouvement. Par la suite, les protestations contre le projet de centrale thermique de Houjin et le mouvement anti-barrage de Meinong ont illustré la réaction directe des citoyens face à la pollution industrielle lourde.
 
-Cette période était marquée par une forte tonalité « anti‑développement ». Les citoyens faisaient face à des menaces sanitaires directes : pollution de l’air, détérioration de la qualité de l’eau, contamination des sols par des métaux lourds. En 1986, l’incident des huîtres vertes a mis au jour la contamination par les métaux lourds le long de la côte de Tainan, suscitant une attention nationale. À cette époque, Taïwan était en plein essor économique, et la logique « développement d’abord, protection de l’environnement ensuite » dominait les politiques, les luttes environnementales étant souvent perçues comme des obstacles au progrès.
+Le mouvement environnemental de cette période était fortement marqué par une idéologie « anti-développement ». Les populations faisaient face à des menaces directes pour leur santé : pollution de l'air, dégradation de l'eau et contamination des sols par les métaux lourds. En 1986, l'incident des « huîtres vertes » a révélé la présence de métaux lourds sur la côte de Tainan, suscitant une attention nationale. À cette époque, Taïwan était en pleine phase d'expansion économique, et la logique du « développement économique d'abord, protection de l'environnement ensuite » dominait les politiques, les contestations environnementales étant souvent perçues comme des obstacles au progrès.
 
-En 1987, l’Alliance verte a été créée, devenant la première organisation environnementale nationale de Taïwan. Son credo : « préserver un Taïwan propre pour les générations futures », reflétait la prise de conscience collective du coût du développement.
+L'Alliance pour la protection de l'environnement a été fondée en 1987, devenant la première organisation environnementale à l'échelle nationale à Taïwan. Sa philosophie fondatrice, « préserver un Taïwan propre pour nos descendants », reflétait la réflexion de la société de l'époque sur le coût du développement.
 
-## Le front persistant du mouvement anti‑nucléaire
+## La ligne de front continue du mouvement anti-nucléaire
 
-Le mouvement anti‑nucléaire à Taïwan débute dans les années 1980 et se poursuit depuis plus de trente ans. Après la catastrophe de Tchernobyl en 1985, les appels contre le nucléaire se sont intensifiés. En 1988, la « Grande marche anti‑nucléaire » « J’aime Taïwan » a rassemblé plusieurs dizaines de milliers de participants, constituant une étape majeure de l’histoire du mouvement environnemental taïwanais.
+Le mouvement anti-nucléaire à Taïwan a débuté dans les années 1980 et se poursuit depuis plus de trente ans. Après la catastrophe nucléaire de Tchernobyl en 1985, la voix anti-nucléaire s'est intensifiée à Taïwan. En 1988, la grande marche « J'aime Taïwan, anti-nucléaire » a rassemblé des dizards de personnes, marquant un jalon important dans l'histoire du mouvement environnemental taïwanais.
 
-Le débat autour du quatrième réacteur nucléaire (Nuclear Power Plant No. 4) est devenu le cœur du combat anti‑nucléaire. Commencée en 1999, la construction a été suspendue en 2014, puis réactivée par référendum en 2021. En 2000, le gouvernement de Chen Shui-bian a annoncé l’arrêt du projet, mais sous la pression du parlement et de l’opposition, les travaux ont repris. En 2014, le gouvernement de Ma Ying-jeou a décidé de mettre le réacteur en sommeil, et le référendum de 2021 visant à le redémarrer a été rejeté, marquant temporairement la fin de ce chapitre controversé.
+La controverse autour de la centrale nucléaire de quatrième unité (Nuke 4) est devenue le champ de bataille central du mouvement. Entre sa construction débutée en 1999, son démantèlement en 2014 et le référendum de relance en 2021, la question de Nuke 4 a traversé différents gouvernements et générations. En 2000, le gouvernement de Chen Shui-bian a annoncé l'arrêt des travaux, mais la construction a repris sous la pression du Legislative Yuan et de l'opposition. En 2014, le gouvernement de Ma Ying-jeou a décidé de mettre la centrale en dépose, avant que le référendum de 2021 pour sa relance ne soit rejeté, mettant un point final temporaire à cette controverse.
 
-Le mouvement anti‑nucléaire se caractérise par une participation intergénérationnelle. Des universitaires et experts des débuts, aux alliances de mères‑professeures et associations étudiantes, jusqu’aux jeunes générations actuelles, chaque tranche d’âge trouve sa voie d’engagement. La marche annuelle du 3 mars contre le nucléaire est devenue un événement phare du calendrier environnemental taïwanais.
+La caractéristique du mouvement anti-nucléaire est la participation intergénérationnelle. Des experts et universitans des débuts aux « Alliances des professeurs-mamans », en passant par les clubs étudiants et la génération de la jeunesse actuelle, chaque tranche d'âge dispose de canaux de participation. Chaque année, la grande marche anti-nucléaire de mars est devenue un événement majeur du mouvement environnemental à Taïwan.
 
-## La longue lutte contre la pollution de l’air
+## La longue bataille contre la pollution atmosphérique
 
-Le problème de la pollution atmosphérique à Taïwan a commencé à être pris en compte à la fin des années 1990. Les zones industrielles du centre‑sud, les centrales thermiques et les aciéries ont engendré de graves dégradations de la qualité de l’air. En 2015, l’OMS a classé les particules PM2,5 comme cancérogènes de catégorie 1, ce qui a élevé la prise de conscience publique à un nouveau niveau.
+La problématique de la pollution de l'air à Taïwan a commencé à être prise au sérieux à la fin des années 1990. Les zones industrielles pétrochimiques, les centrales thermiques et les aciéries du centre et du sud du pays ont engendré de graves problèmes de qualité de l'air. Après que l'Organisation mondiale de la santé a classé les PM2.5 comme cancérogènes de classe 1 en 2015, l'attention de la société taïwanaise pour la pollution atmosphérique a atteint un nouveau sommet.
 
-La centrale thermique de Taichung est devenue le point focal des contestations. Cette plus grande centrale à charbon du monde émet chaque année environ 55 millions de tonnes de CO₂. Les gouvernements locaux et le gouvernement central se sont affrontés à plusieurs reprises sur les politiques de réduction du charbon, révélant la complexité de la transition énergétique.
+La centrale thermique de Taichung est devenue le point focal des luttes contre la pollution de l'air. Cette centrale au charbon, l'une des plus grandes au monde, émet environ 55 millions de tonnes de CO2 par an. Les conflits entre les gouvernements locaux et le gouvernement central concernant les politiques de réduction du charbon reflètent la complexité de la transition énergétique.
 
-Dans la région de Kaohsiung, la situation est encore plus compliquée. Le district de Daliao, entouré de zones pétrochimiques, expose ses habitants à des risques sanitaires persistants. En 2018, la municipalité de Kaohsiung a lancé un projet de relocalisation des résidents de Daliao, mais les avancées restent lentes, montrant que la justice environnementale nécessite davantage de volonté politique.
+La pollution de l'air dans la région de Kaohsiung est encore plus complexe. La zone de Dalin-Pulin est entourée de complexes pétrochimiques, exposant les résidents à des risques sanitaires chroniques. En 2018, le gouvernement municipal de Kaohsiung a lancé un plan de relocalisation pour Dalin-Pulin, mais la progression lente montre que la résolution des questions de justice environnementale nécessite une volonté politique accrue.
 
-Le comté de Changhua, proche de la centrale de Taichung et déjà affecté par la pollution industrielle, connaît une mauvaise qualité de l’air toute l’année. Les organisations locales ont créé l’« Alliance pour la réduction du charbon à Changhua », réclamant au gouvernement une diminution active de la production d’électricité à base de charbon.
+Le comté de Changhua, en raison de sa proximité avec la centrale thermique de Taichung et de sa propre pollution industrielle, présente une qualité d'air souvent médiocre. Les groupes écologiques locaux ont lancé la « Grande Alliance pour la réduction du charbon à Changhua », exigeant que le gouvernement réduise activeเอ activement la production d'électricité au charbon.
 
-## L’émergence de la conscience de protection des océans
+## L'éveil de la conscience pour la protection marine
 
-Taïwan est entouré d’océans, mais la prise en compte de leur protection est relativement tardive. Dès les années 1990, les problèmes de pollution marine commencent à attirer l’attention. En 2000, le naufrage du cargo _Amos_ a entraîné une importante marée noire dans les eaux de Kenting, marquant un tournant pour la protection marine taïwanaise.
+Taïwan est entourée de mers, mais l'importance accordée à la protection marine est apparue relativement tardivement. À partir des années 1990, les problèmes de pollution marine ont progressivement attiré l'attention. En 2000, l'incident de marée noire du cargo _Amas_ a gravement pollué les eaux de Kenting, devenant un tournant pour la protection marine à Taïwan.
 
-Dans les années 2010, les déchets marins sont devenus un sujet central. Selon les statistiques de l’Agence de protection environnementale, les côtes taïwanaises sont nettoyées chaque année d’environ 14 000 tonnes de déchets, dont près de 70 % sont des produits plastiques. Ces chiffres ont incité la société à prendre au sérieux la problématique du « plastique marin ».
+La question des déchets marins est devenue centrale dans les années 2010. Selon les statistiques de l'Agence de protection de l'environnement, environ 14 000 tonnes de déchets sont collectées chaque année sur les côtes taïwanaises, dont 70 % sont des produits plastiques. Ces données ont forcé la société à se confronter au problème du « plastique océanique ».
 
-Les récifs coralliens de Kenting, Green Island et Lanyu subissent le blanchissement dû au changement climatique, à la pollution et à la surexploitation. Les organisations de conservation marine ont lancé des programmes de restauration des coraux, dont les résultats restent à évaluer.
+L'écosystème corallien des eaux taïwanaises est également menacé. Les récifs coralliens de Kenting, de l'île Verte (Lüdao) et de l'île aux Orchidées (Lanyu) subissent un blanchissement dû au changement climatique, à la pollution et au surdéveloppement. Les organisations de conservation marine ont commencé à promouvoir des programmes de restauration corallienne, bien que les résultats restent à observer.
 
-La protection des cétacés constitue un autre volet important. Les eaux taïwanaises abritent 32 espèces de cétacés, mais les activités de pêche, le bruit des navires et la destruction des habitats menacent leur survie. L’Association taïwanaise pour les cétacés et d’autres groupes promeuvent le sauvetage, la réhabilitation et la création de zones marines protégées.
+La protection des cétacés est un autre aspect crucial. Les eaux taïwanaises abritent 32 espèces de cétacés, mais l'activité de pêche, le bruit des navires et la destruction des habitats les menacent. Des organisations telles que l'Association pour la protection des cétacés de Taïwan promeuvent les soins et la conservation des cétacés, tout en plaidant pour la création d'aires marines protégées.
 
-## La mobilisation populaire autour de la réduction du plastique
+## Participation citoyenne au mouvement de réduction du plastique
 
-En 2018, le gouvernement a instauré le « Interdiction des plastiques à usage unique », obligeant les chaînes de distribution à ne plus offrir gratuitement des sacs plastiques. Cette mesure a déclenché le « Mouvement de réduction du plastique », qui est passé d’une simple réglementation à une véritable mobilisation citoyenne.
+En 2018, le gouvernement a commencé à mettre en œuvre une « loi limitant le plastique », interdisant aux chaînes de magasins de fournir gratuitement des sacs plastiques. Cette politique a déclenché un « mouvement de réduction du plastique », transformant un décret gouvernemental en un mouvement citoyen.
 
-Le caractère « quotidien » du mouvement le distingue des luttes anti‑nucléaire ou anti‑pollution, qui exigent souvent des connaissances techniques. La réduction du plastique devient une action que chaque individu peut entreprendre : apporter son propre sac de courses, utiliser une tasse réutilisable, refuser les ustensiles jetables, etc., créant ainsi une nouvelle mode sociétale.
+La caractéristique de ce mouvement est son aspect « quotidien ». Contrairement aux enjeux nécessitant une expertise technique comme le nucléaire ou la pollution atmosphérique, la réduction du plastique est une action écologique accessible à tous. Apporter son propre sac de courses, utiliser des gourdes et refuser les ustensiles jetables sont devenus de nouvelles habitudes sociales.
 
-Des ONG environnementales ont lancé le projet « Océans sans plastique », combinant nettoyage des plages, sensibilisation éducative et plaidoyer politique. Des organisations comme la Wild Conservation Association et la Black Tide Marine Education Foundation organisent régulièrement des opérations de nettoyage, attirant de nombreux bénévoles, y compris des salariés d’entreprises, des clubs étudiants et le grand public.
+Les groupes environnementaux promeuvent le projet « Océan sans plastique », combinant nettoyage des côtes, éducation et plaidoyer politique. Des organisations comme la Wilderness Protection Association ou la Fondation culturelle et éducative marine de Kuroshio organisent régulièrement des nettoyages de plages. Ces activités attirent un grand nombre de bénévoles, incluant des employés d'entreprises, des clubs étudiants et le grand public.
 
-Les supermarchés et les boutiques de boissons à emporter sont devenus les points d’application clés de la politique. Depuis 2021, les chaînes de boissons ont interdit les pailles en plastique, les remplaçant par des pailles en papier ou des matériaux biodégradables. Bien que les consommateurs aient d’abord protesté, l’acceptation s’est progressivement accrue.
+Les supérettes et les boutiques de thés glacés sont devenues des points clés de l'application de cette politique. Depuis 2021, les chaînes de boissons ont interdit les pailles en plastique au profit de pailles en papier ou en matériaux biodégradables. Bien que cela ait initialement suscité des plaintes de consommateurs, la pratique est progressivement acceptée.
 
 ## Nouvelles caractéristiques du mouvement environnemental contemporain
 
-Au XXIᵉ siècle, le mouvement environnemental à Taïwan présente plusieurs nouvelles tendances :
+Entré dans le XXIe siècle, le mouvement environnemental à Taïwan présente plusieurs nouvelles caractéristiques :
 
-**Diversification des enjeux** : le passage d’une lutte contre une pollution unique à des thématiques telles que le changement climatique, la biodiversité et la justice environnementale. Des organisations comme le Youth Climate Alliance et la Taiwan Environmental Planning Association abordent un éventail plus large de questions.
+**Diversification des enjeux** : Les luttes ne se limitent plus à une pollution unique mais s'étendent au changement climatique, à la biodiversité et à la justice environnementale. De nouvelles organisations, comme l'Alliance pour le climat des jeunes ou l'Association de planification environnementale de Taïwan, se concentrent sur des problématiques plus vastes.
 
-**Renouvellement générationnel** : les jeunes utilisent les réseaux sociaux et les actions de rue pour s’impliquer. En 2019, lors de la Journée mondiale du climat, des étudiants taïwanais ont organisé des grèves pour le climat, illustrant la transmission intergénérationnelle de la conscience écologique.
+**Relève générationnelle** : La jeune génération participe aux mouvements écologiques via les réseaux sociaux et l'action de rue. Lors de la Journée mondiale pour le climat en 2019, des étudiants taïwanais ont répondu à l'appel du « Grève pour le climat », illustrant la transmission de la conscience environnementale.
 
-**Argumentation scientifique** : les ONG accordent davantage d’importance aux données scientifiques, collaborant avec le monde académique pour réaliser des suivis environnementaux et des évaluations des risques sanitaires. La lutte contre la pollution de l’air s’appuie largement sur des études épidémiologiques.
+**Discours scientifique** : Les groupes écologiques accordent une importance croissante aux preuves scientifiques, collaborant avec le milieu universitaire pour la surveillance environnementale et l'évaluation des risques sanitaires. La lutte contre la pollution atmosphérique s'appuie massivement sur des données de santé et des études épidémiologiques.
 
-**Participation politique** : le mode d’action évolue d’une simple contestation à une influence sur les politiques publiques. Les organisations environnementales participent activement aux évaluations d’impact, aux consultations et cherchent à promouvoir des réformes institutionnelles.
+**Participation aux politiques** : Le modèle est passé de la contestation pure au plaidoyer et à la surveillance des politiques. Les groupes environnementaux participent activement aux évaluations d'impact environnemental et aux consultations publiques, tentant d'impulser des réformes au sein même du système institutionnel.
 
-**Liens internationaux** : les acteurs taïwanais s’intègrent aux réseaux environnementaux mondiaux, échangeant avec des organisations de la région Asie‑Pacifique. Les enjeux globaux comme le climat et la protection des océans favorisent la connexion entre les mouvements locaux et les initiatives internationales.
+**Connexion internationale** : Les organisations taïwanaises commencent à intégrer les réseaux environnementaux internationaux, échangeant et collaborant avec des organisations de la région Asie-Pacifique. Les enjeux mondiaux tels que le changement climatique et la protection marine poussent les mouvements locaux à s'aligner sur l'échelle internationale.
 
 ## Défis et perspectives
 
-Le mouvement environnemental à Taïwan fait face à plusieurs défis persistants :
+Le mouvement environnemental à Taïwan fait face à plusieurs défis persistants :
 
-**Pression du développement économique** : concilier protection de l’environnement et croissance économique reste difficile dans un contexte de concurrence mondiale. La transition énergétique et industrielle nécessite une planification à long terme et un consensus sociétal.
+**Pression du développement économique** : Dans la compétition mondiale, l'équilibre entre protection de l'environnement et croissance économique reste difficile à trouver. La transition énergétique et industrielle nécessite une planification à long terme et un consensus social.
 
-**Risque de politisation** : les questions environnementales sont facilement politisées, ce qui peut nuire à la continuité des politiques. Le débat sur le nucléaire en est un exemple frappant, les différents partis adoptant des positions divergentes.
+**Risque de politisation** : Les enjeux environnementaux sont vulnérables à la politisation, ce qui peut affecter la continuité des politiques. La politique nucléaire en est l'exemple le plus frappant, les positions variant selon le parti au pouvoir.
 
-**Différences de perception entre générations** : les visions du monde environnemental varient selon l’âge, influençant le socle de soutien aux politiques.
+**Divergence des conceptions générationnelles** : Les différences de perception de la valeur environnementale entre les générations influencent la base sociale nécessaire à la mise en œuvre des politiques.
 
-**Contraintes de ressources** : comparées aux entreprises et aux autorités publiques, les ONG disposent de moyens limités, ce qui restreint l’ampleur et la durabilité de leurs actions.
+**Limites des ressources** : Comparés aux entreprises et au gouvernement, les groupes environnementaux disposent de ressources limitées, ce qui affecte l'ampleur et la pérennité de leurs actions.
 
-Après quarante ans d’évolution, le mouvement environnemental taïwanais est passé d’une opposition à la pollution à une quête de développement durable à multiples facettes. Ce parcours reflète la transformation des valeurs sociétales : d’une priorité donnée à la croissance rapide, à une attention accrue pour la qualité de vie, du profit individuel à la responsabilité intergénérationnelle. La prochaine étape consistera à instaurer, au sein du cadre démocratique, des mécanismes de gouvernance environnementale plus efficaces.
+Après quarante ans d'évolution, le mouvement environnemental à Taïwan est passé de la contestation de la pollution à une action diversifiée en faveur du développement durable. Ce processus reflète une transformation des valeurs de la société taïwanaise : de la recherche d'une croissance rapide vers l'importance de la qualité de vie ; de l'intérêt individuel vers la responsabilité intergénérationnelle. La prochaine étape du mouvement environnemental sera de savoir comment établir des mécanismes de gouvernance environnementale plus efficaces au sein du système démocratique.
 
 **Lectures complémentaires** :
 
-- [Discussion sur le nucléaire à Taïwan](/fr/society/taiwan-nuclear-debate) — Comment le mouvement anti‑nucléaire s’est développé à partir du mouvement environnemental et a été reconfiguré par les enjeux climatiques : histoire complète des trois référendums sur quatre décennies
-- [Crise climatique à Taïwan et transition vers le zéro net](/fr/nature/taiwan-climate-change-net-zero-transition) — Transformation de la conscience environnementale en politiques nationales de neutralité carbone et de réorganisation du mix énergétique
+- [Discussions sur le nucléaire à Taïwan](/fr/society/taiwan-nuclear-debate) — Comment le mouvement anti-nucléaire est né du mouvement environnemental et a été redéfini par la génération climatique : l'histoire complète de quarante ans de référendums.
+- [Crise climatique et transition vers le zéro émission à Taïwan](/fr/nature/taiwan-climate-change-net-zero-transition) — Comment la conscience écologique se transforme en politique nationale de transition vers le net-zéro et de restructuration énergétique.
 
 ## Références
 
-- [Centre de recherche sur l’environnement et le territoire de Taïwan](http://www.elt.org.tw/) — Études historiques et développement du mouvement environnemental à Taïwan
-- [Alliance des citoyens verts](https://www.gcaa.org.tw/) — Mouvement anti‑nucléaire et plaidoyer politique environnemental
-- [Association de protection de la nature sauvage](https://www.sow.org.tw/) — Conservation naturelle et éducation environnementale
-- [Fondation de protection de l’environnement des ménagères](https://www.huf.org.tw/) — Initiatives de vie quotidienne et surveillance des politiques
-- [Association d’information environnementale de Taïwan](https://e-info.org.tw/) — Actualités et reportages sur les enjeux environnementaux
-- Statistiques de l’Agence de protection environnementale du Cabinet exécutif — Qualité de l’air, gestion des déchets, etc.
-- _Introduction au mouvement environnemental à Taïwan_, He Ming-hsiu, éd. Qunxue, 2006
-- _Mouvement anti‑nucléaire et société taïwanaise_, Fan Yun et al., _Journal de recherche sociale taïwanaise_, 2014
+- [Centre d'études environnementales et foncières de Taïwan](http://www.elt.org.tw/) — Recherche sur l'histoire et le développement du mouvement environnemental à Taïwan.
+- [Alliance pour l'action citoyenne verte](https://www.gcaa.org.tw/) — Mouvement anti-nucléaire et plaidoyer pour les politiques environnementales.
+- [Wilderness Protection Association](https://www.sow.org.tw/) — Conservation de la nature et éducation environnementale.
+- [Fondation pour la protection de l'environnement des ménagères](https://www.huf.org.tw/) — Écologie au quotidien et surveillance des politiques.
+- [Association d'information environnementale de Taïwan](https://e-info.org.tw/) — Actualités et reportages sur les enjeux environnementaux.
+- [Fondation pour la garantie des droits environnementaux](https://www.erf.org.tw/) — Droit de l'environnement et litiges d'intérêt public.
+- Données statistiques de l'Agence de protection de l'environnement du Conseil exécutif — Données officielles sur la qualité de l'air, le traitement des déchets, etc.
+- _Introduction au mouvement environnemental de Taïwan_, He Ming-xiu, Chunxue Publishing, 2006.
+- _Le mouvement anti-nucléaire et la société taïwanaise_, Fan Yun et al., Taiwan Social Research Press, 2014.

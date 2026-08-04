@@ -2,9 +2,7 @@
 title: 'Politique commerciale internationale de Taïwan : trouver sa place dans la vague de la mondialisation'
 description: "Taïwan, économie orientée vers le commerce, déploie des stratégies commerciales diversifiées, dont la candidature au CPTPP et la Nouvelle politique en direction du Sud, afin de chercher des percées dans l'espace économique et commercial international malgré les contraintes géopolitiques."
 date: 2026-03-19
-author: 'Taiwan.md'
 category: 'Economy'
-subcategory: '貿易與全球化'
 tags:
   [
     'économie',
@@ -15,16 +13,18 @@ tags:
     'ALE',
     'économie et commerce internationaux',
   ]
+subcategory: '貿易與全球化'
+author: 'Taiwan.md'
+difficulty: 'intermediate'
 readingTime: 16
+featured: true
 lastVerified: 2026-03-19
 lastHumanReview: false
-featured: true
 translatedFrom: 'Economy/台灣國際貿易政策.md'
-sourceCommitSha: '24efd20f3'
-sourceContentHash: 'sha256:46d9237ef98b45d7'
-sourceBodyHash: 'sha256:9fbe7b79e0934c74'
-translatedAt: '2026-05-15T13:52:06+08:00'
-difficulty: 'intermediate'
+sourceCommitSha: '4a4d66620'
+sourceContentHash: 'sha256:d585af78b77ed183'
+sourceBodyHash: 'sha256:57ec5065ff0c2c3f'
+translatedAt: '2026-08-04T04:49:35.649839+00:00'
 ---
 
 # Politique commerciale internationale de Taïwan : trouver sa place dans la vague de la mondialisation
@@ -151,14 +151,14 @@ Les limites sont toutefois tout aussi nettes. La réalité politique restreint l
 
 ## Références
 
-[^1]: [Département des statistiques du ministère des Finances — Aperçu du commerce d’importation et d’exportation de notre pays en 2023](https://www.mof.gov.tw/htmlList/103) — Structure des exportations taïwanaises et part des principaux partenaires commerciaux en 2023
+[^1]: [Ministère des Finances, Département des Statistiques — Aperçu du commerce des importations et exportations de Taïwan en 2023](https://www.mof.gov.tw/htmlList/103) — Structure des exportations de Taïwan et part des principaux partenaires commerciaux en 2023
 
-[^2]: [Portail général ECA/FTA de Taïwan — Accords de coopération économique Taïwan-Nouvelle-Zélande et Taïwan-Singapour](https://fta.trade.gov.tw/) — Présentation du contenu des accords ECA entre Taïwan et la Nouvelle-Zélande, et entre Taïwan et Singapour
+[^2]: [Portail principal ECA/FTA de Taïwan — Accords de coopération économique entre Taïwan et la Nouvelle-Zélande, et Taïwan et Singapour](https://fta.trade.gov.tw/) — Description du contenu des accords ECA entre Taïwan, la Nouvelle-Zélande et Singapour
 
-[^3]: [Bureau des négociations économiques et commerciales du Yuan exécutif — Initiative Taïwan-États-Unis sur le commerce du XXIe siècle](https://www.ey.gov.tw/otn/) — Contexte et contenu de la signature du premier chapitre, consacré à la facilitation des échanges, en 2023
+[^3]: [Bureau des négociations économiques et commerciales de l'Exécutif — Initiative commerciale du XXIe siècle entre Taïwan et les États-Unis](https://www.ey.gov.tw/otn/) — Contexte de la signature et contenu du chapitre 1 (Facilitation des échanges) en 2023
 
-[^4]: [Administration du commerce international du ministère des Affaires économiques — Avancement de la candidature au CPTPP](https://www.trade.gov.tw/) — Présentation de l’avancement de la demande d’adhésion de Taïwan au CPTPP déposée en 2021
+[^4]: [Direction du commerce international du Ministère de l'Économie — État d'avancement de la candidature au CPTPP](https://www.trade.gov.tw/) — Explication de l'avancement de la candidature de Taïwan à l'adhésion au CPTPP en 2021
 
-[^5]: [Central News Agency, 31/05/2024 — La Chine annule les concessions accordées à 134 produits pétrochimiques dans le cadre de l’ECFA](https://www.cna.com.tw/) — En mai 2024, la Chine annule de nouveau les concessions de récolte précoce de l’ECFA accordées à 134 produits pétrochimiques
+[^5]: [CNA 31/05/2024 — La Chine annule les réductions tarifaires ECFA sur 134 produits pétrochimiques](https://www.cna.com.tw/) — En mai 2024, la Chine a supprimé les réductions tarifaires anticipées de l'ECFA pour 134 produits pétrochimiques
 
-[^6]: [OMC — Rapport d’examen de la politique commerciale du Territoire douanier distinct de Taïwan, Penghu, Kinmen et Matsu](https://wto.trade.gov.tw/cwto/Pages/Detail.aspx?nodeID=4613&pid=743047) — Rapport d’examen de la politique commerciale de Taïwan par l’OMC
+[^6]: [OMC — Rapport sur l'examen des politiques commerciales dans les domaines tarifaires spécifiques pour Taïwan, Penghu, Kinmen et Matsu](https://wto.trade.gov.tw/cwto/Pages/Detail.aspx?nodeID=4613&pid=743047) — Rapport de l'OMC sur l'examen des politiques commerciales de Taïwan

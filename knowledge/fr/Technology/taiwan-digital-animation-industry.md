@@ -1,192 +1,193 @@
 ---
-title: "L'industrie taïwanaise de l'image numérique et de l'animation"
-description: "Du plus grand royaume mondial de la sous-traitance en animation à une nouvelle puissance de création originale — un demi-siècle de mutations de l'industrie taïwanaise de l'image numérique"
+title: "L'industrie de l'image numérique et de l'animation à Taïwan"
+description: "Du plus grand royaume de la sous-traitance d'animation mondiale aux nouvelles forces du contenu original, le parcours de transformation de l'industrie de l'image numérique taïwanaise sur un demi-siècle."
 date: 2026-03-20
+category: 'Technology'
 tags:
   [
-    'image numérique',
+    'Image numérique',
     'animation',
     'effets visuels',
-    'industries créatives',
-    'industrie audiovisuelle',
+    'industries culturelles et créatives',
+    'industrie cinématographique et télévisuelle',
   ]
-subcategory: 'Divertissement numérique'
-category: 'Technology'
+subcategory: '數位娛樂'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-20
+lastHumanReview: true
+curation: 'incubating'
 translatedFrom: 'Technology/台灣數位影像與動畫產業.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:692543a60baf3299'
 sourceBodyHash: 'sha256:bb5064886298647d'
-translatedAt: '2026-04-14T12:33:06+08:00'
-lastHumanReview: true
+translatedAt: '2026-08-04T12:03:21+08:00'
 ---
 
-# L'industrie taïwanaise de l'image numérique et de l'animation
+# L'industrie de l'image numérique et de l'animation à Taïwan
 
-> **En 30 secondes :** Taïwan a été le plus grand royaume mondial de la sous-traitance en animation — à son apogée, une série télévisée animée sur trois dans le monde passait entre les mains de professionnels taïwanais. De Wang Film Productions dessinant Mulan et La Petite Sirène pour Disney, à CGCG remportant le Daytime Emmy Award, en passant par Reno Studios décrochant le Golden Horse du meilleur effets visuels pour Detention — les animateurs de cette île ont écrit, en un demi-siècle, une épopée industrielle qui va de la sous-traitance à la création originale.
+> **Aperçu en 30 secondes :** Taïwan fut autrefois le plus grand royaume mondial de la sous-traitance d'animation — à son apogée, une œuvre d'animation télévisée sur trois dans le monde entier passait entre les mains de Taïwanais. De Wang Film Productions dessinant _Mulan_ ou _La Petite Sirène_ pour Disney, à CGCG Inc. remportant un Emmy Award diurne, jusqu'à Reno Studios permettant à _Detention_ d'obtenir le prix des meilleurs effets visuels des Golden Horse Awards — les animateurs de cette île ont écrit, en un demi-siècle, une épopée industrielle passant de la sous-traitance à la création originale.
 
-## L'âge d'or de la sous-traitance (années 1970–2000) : le Disney de l'Orient
+## L'âge d'or de la sous-traitance (années 1970-2000) : Le Disney de l'Orient
 
-### Wang Film Productions : autrefois le meilleur du monde
+### Wang Film Productions : autrefois le leader mondial
 
-**Wang Film Productions (宏廣股份有限公司)** a été fondée en 1978 — point de départ de l'industrie animée taïwanaise et véritable légende.
+**Wang Film Productions (宏廣股份有限公司)**, fondée en 1978, marque le point de départ et constitue une légende de l'industrie de l'animation taïwanaise.
 
-Son fondateur, Wang Zhongyuan, a démarré en acceptant des commandes de Hanna-Barbera. En 1986, Wang Film Productions signe avec Disney et devient son partenaire de production à l'étranger. À son apogée :
+Le fondateur, Wang Chung-yuan, a débuté en prenant des commandes pour Hanna-Barbera. En 1986, Wang Film signe un contrat avec Disney, devenant ainsi un partenaire de production offshore pour le studio américain. À son apogée :
 
-- **Plus de 1 500 employés**, ce qui en faisait le plus grand studio de sous-traitance d'animation au monde
-- Participation à la production des classiques Disney : **Mulan**, **La Petite Sirène**, **Aladdin**
-- Commandes simultanées de Warner Bros. et de la branche télévisée de Disney
-- Surnommée par les médias « **le Disney de l'Orient** »
+- **Plus de 1 500 employés**, faisant de l'entreprise la plus grande usine d'animation de sous-traitance au monde à l'époque.
+- Participation à la production de classiques de Disney tels que « **Mulan** », « **La Petite Sirène** » et « **Aladdin** ».
+- Prise en charge de nombreuses commandes pour Warner Bros., Disney Television Animation, etc.
+- Surnommée par les médias le « **Disney de l'Orient** ».
 
-Mais face à l'émergence de concurrents moins coûteux en Chine et en Asie du Sud-Est, et après une tentative ratée de pivot vers la création originale, Wang Film Productions a finalement décliné — une histoire devenue cas d'école de la reconversion industrielle à Taïwan.
+Cependant, avec l'émergence de concurrents à moindre coût en Chine continentale et en Asie du Sud-Est, ainsi qu'une décision stratégique de la direction vers l'originalité qui n'a pas porté ses fruits, Wang Film a fini par décliner — cette histoire est devenue un cas d'école classique sur la transformation industrielle à Taïtan.
 
-> **Sources :** [Taiwan Cinema — Le Disney du monde sinophone, Wang Film Productions](https://taiwancinema.bamid.gov.tw/Articles/ArticlesContent/?ContentUrl=52670) ; [Wikipédia — 宏廣](https://zh.wikipedia.org/zh-tw/%E5%AE%8F%E5%BB%A3)
+> **Sources :** [Taiwan Cinema Network — Le Disney du monde chinois, Wang Film nous l'a créé](https://taiwancinema.bamid.gov.tw/Articles/ArticlesContent/?ContentUrl=52670) ; [Wikipédia — Wang Film](https://zh.wikipedia.org/zh-tw/%E5%AE%8F%E5%BB%A3)
 
 ### L'écosystème de la sous-traitance
 
-Au-delà de Wang Film Productions, d'autres sociétés taïwanaises d'animation étaient actives à la même période :
+Outre Wang Film, plusieurs autres sociétés de sous-traitance étaient actives à Taïwan durant cette période :
 
-- **Chaoyang Animation** : commandes internationales de sous-traitance
-- **Honying Animation** : participation à plusieurs séries télévisées animées américaines
-- **Far East Animation** : spécialisée dans l'animation TV en sous-traitance
+- **Chao Yang Animation** : assurait également des services de sous-traitance internationale.
+- **Hung Ying Animation** : a participé à la production de plusieurs séries d'animation télévisées américaines.
+- **Far East Animation** : spécialisée principalement dans la sous-traitance d'animation télévisée.
 
-Ces entreprises ont collectivement forgé la réputation de Taïwan en tant que « **royaume de la sous-traitance en animation** », et ont formé la première génération de professionnels taïwanais de l'animation. Mais le modèle de la sous-traitance porte en lui une fatalité : la technique reste dans les mains des travailleurs, tandis que les marques et les IP appartiennent toujours à quelqu'un d'autre.
+Ces entreprises ont collectivement porté le titre de « **royaume de l'animation par sous-traitance** » et ont formé la première génération de professionnels de l'animation à Taïwan. Mais le destin de ce modèle était inévitable : la technique restait entre les mains des studios, tandis que les marques et les propriétés intellectuelles (IP) appartenaiment toujours à autrui.
 
-## Reconversion et tentatives créatives (années 1990–2010)
+## Transition et tentatives d'originalité (années 1990-2010)
 
-### Grandma and Her Ghosts : une étape majeure de l'animation taïwanaise
+### _Grandma and Her Ghosts_ : un jalon de l'animation taïwanaise
 
-Sorti en 1998, **Grandma and Her Ghosts (魔法阿媽)** est l'une des œuvres les plus importantes de l'animation originale taïwanaise.
+Sorti en 1998, « **Grandma and Her Ghosts** » (_Mofǎ Āmā_) est l'une des œuvres les plus importantes de l'animation originale taïwanaise.
 
-- **Réalisation/Production** : Wang Xiaodi
-- **Société de production** : Inate Film Workshop
-- **Genre** : long métrage d'animation en 2D dessinée à la main
-- Ancré dans les croyances populaires taïwanaises et le septième mois du calendrier lunaire, le film suit un petit garçon prénommé Doudou et sa grand-mère
-- Nommé aux **Golden Horse Awards 1998 — Meilleur film d'animation**
-- Lauréat du **Taipei Film Award 1998 — Meilleur film de l'année**
-- Mention spéciale au Chicago International Children's Film Festival en 1999
-- En 2021, une restauration 4K a suscité un vif enthousiasme lors d'une campagne de financement participatif
+- **Réalisateur/Producteur** : Wang Hsiao-ti
+- **Studio de production** : Rice Field Studio
+- **Genre** : Long métrage d'animation 2D dessiné à la main
+- Inspiré par les croyances populaires taïwanaises et le septième mois lunaire, racontant l'histoire du petit garçon Dou-dou et de sa grand-mère.
+- Nommé au **Golden Horse Award** du meilleur film d'animation en 1998.
+- Lauréat du prix du **meilleur film de l'année aux Taipei Film Awards** en 1998.
+- Prix spécial d'animation au Festival international du film pour enfants de Chicago en 1999.
+- Réédition en restauration numérique 4K en 2021, dont le financement participatif a suscité un large écho.
 
-Grandma and Her Ghosts a démontré que Taïwan était capable de produire une animation originale ancrée dans sa culture locale — et reste un souvenir d'enfance pour de nombreux Taïwanais.
+_Grandma and Her Ghosts_ a prouvé que Taïwan était capable de produire des animations originales dotées d'une profondeur culturelle locale, et l'œuvre demeure un souvenir d'enfance pour de nombreux Taïwanais.
 
-> **Sources :** [Site officiel de Grandma and Her Ghosts](https://mofaama.com/) ; [Wikipédia — 魔法阿媽](https://zh.wikipedia.org/zh-tw/%E9%AD%94%E6%B3%95%E9%98%BF%E5%AA%BD)
+> **Sources :** [Site officiel de Grandma and Her Ghosts](https://mofaama.com/) ; [Wikipédia — Grandma and Her Ghosts](https://zh.wikipedia.org/zh-tw/%E9%AD%94%E6%B3%95%E9%98%BF%E5%AA%BD)
 
-### CGCG Inc. : de la sous-traitance à l'Emmy Award
+### CGCG Inc. : de la sous-traitance aux Emmy Awards
 
-**CGCG Inc. (西基電腦動畫)**, fondée en 1988, est pionnière de l'animation 3D par ordinateur à Taïwan. Contrairement à la sous-traitance 2D de Wang Film Productions, CGCG s'est spécialisée dès le départ dans la CG 3D :
+**CGCG Inc. (西基電腦動畫)**, fondée en 1988, est pionnière de l'animation 3D par ordinateur à Taïwan. Contra\\text{à} la sous-traitance 2D de Wang Film, CGCG s'est spécialisée dès le départ dans l'animation 3D CG :
 
-- Production d'animations CG pour **Lucasfilm Animation** dans les séries _LEGO Star Wars_ et _Star Wars_
-- Collaborations au long cours avec **DreamWorks Animation**, **Nickelodeon** et **Warner Bros.**
-- Production de séries animées 3D haut de gamme pour Disney+, Netflix et Apple TV
-- Deux **Daytime Emmy Awards consécutifs** dans la catégorie animation spécialisée
-- **Annie Award — Meilleur programme d'animation télévisée pour enfants**
-- Trois distinctions **SIGGRAPH**
+- Production d'animations CG pour les séries _LEGO Star Wars_ et _Star Wars_ pour **Lucasfilm Animation**.
+- Collaboration à long terme avec **DreamWorks Animation**, **Nickelodeon** et **Warner Bros.**.
+- Production de séries d'animation 3D de haute qualité pour des plateformes de streaming telles que Disney+, Netflix et Apple TV.
+- Lauréat, deux années consécutives, du **prix d'excellence pour les programmes d'animation dans une catégorie spéciale aux Daytime Emmy Awards**.
+- Lauréat du prix de la meilleure série d'animation pour enfants aux **Annie Awards**.
+- Trois distinctions **SIGGRAPH**.
 
-CGCG est aujourd'hui la société la plus représentative de Taïwan dans la sous-traitance internationale d'animation CG, et prouve que les équipes taïwanaises sont capables de produire de l'animation 3D au niveau hollywoodien.
+CGCG est actuellement l'entreprise la plus représentative de Taï<0xC2>Taiwan dans le domaine international de la sous-traitance d'animation CG, prouvant que les équipes taïwanaises sont capables de produire des animations 3D de niveau hollywoodien.
 
-> **Sources :** [Site officiel de CGCG Inc.](https://www.cgcg.com.tw/) ; [Wikipédia — 西基電腦動畫](https://zh.wikipedia.org/zh-tw/%E8%A5%BF%E5%9F%BA%E9%9B%BB%E8%85%A6%E5%8B%95%E7%95%AB)
+> **Sources :** [Site officiel de CGCG Inc.](https://www.cgcg.com.tw/) ; [Wikipédia — CGCG Inc.](https://zh.wikipedia.org/zh-tw/%E8%A5%BF%E5%9F%BA%E9%9B%BB%E8%85%A6%E5%8B%95%E7%95%AB)
 
-## L'essor des effets visuels (années 2010 à aujourd'hui)
+## L'essor des effets visuels (années 2010-présent)
 
-### Reno Studios : le Golden Horse des effets visuels
+### Reno Studios : les meilleurs effets visuels des Golden Horse
 
-**Reno Studios (再現影像)**, fondée en 2017 par Guo Xiancong et Huang Qijun, s'est rapidement imposée comme chef de file des effets visuels dans l'audiovisuel taïwanais.
+**Reno Studios (再現影像)**, fondée en 2017 par Kuo Hsien-tsung et Huang Chih-chun, est rapidement devenue le leader des effets visuels (VFX) pour le cinéma et la télévision à Taïwan.
 
-Réalisations marquantes :
+Œuvres représentatives :
 
-- **Detention (返校)** (2019) — **Golden Horse Award n° 56 — Meilleurs effets visuels** ; Taipei Film Award n° 22 — Meilleurs effets visuels
-- Participation aux effets visuels de nombreux films et séries taïwanais
-- Développement de la production virtuelle (Virtual Production) et des applications de l'IA
+- « **Detention** » (2019) — Lauréat du prix des meilleurs effets visuels au 56e **Golden Horse Awards** et du prix des meilleurs effets visuels aux 22e Taipei Film Awards.
+- Participation aux effets visuels de nombreux films et séries taïwanais.
+- Développement de la production virtuelle (_Virtual Production_) et application des technologies d'IA.
 
-Les scènes surnaturelles de _Detention_ combinent des éléments culturels proprement taïwanais (le contexte historique de la Terreur blanche) et une technique visuelle de niveau international, illustrant la capacité des équipes taïwanaises à maîtriser à la fois les sujets locaux et les standards technologiques mondiaux.
+Les scènes d'effets surnaturels de _Detention_, mêlant éléments culturels locaux (contexte historique de la Terreur Blanche) et technologies VFX modernes, démontrent la compréhension profonde des thématiques locales par les équipes taïwanaises ainsi que leur capacité technique aux standards internationaux.
 
-> **Sources :** [Site officiel de Reno Studios](https://reno-studios.com/) ; [TechBang — Interview des artisans des effets de Detention chez Reno Studios](https://www.techbang.com/posts/78048)
+> **Sources :** [Site officiel de Reno Studios](https://reno-studios.com/) ; [TechNews — Interview des acteurs de l'ombre de l'effet visuel de « Detention », Reno Studios](https://www.techbang.com/posts/78048)
 
 ### Moonshine Animation
 
-**Moonshine Animation (夢想動畫 / Moonshine Studio)**, fondée par Lin Jiaqi, est un acteur important de l'animation et des effets visuels à Taïwan, reconnu pour la qualité de ses productions :
+**Moonshine Animation (夢想動畫)** est une entreprise importante d'animation et d'effets visuels à Taïwan, fondée par Lin Chia-chi, reconnue pour la haute qualité de ses animations et VFX :
 
-- Spécialisée dans les cinématiques de jeux vidéo, la publicité commerciale et les effets visuels de clips musicaux
-- Clientèle dans les secteurs du jeu vidéo, de l'audiovisuel et de la publicité
-- Exploration continue des nouvelles technologies : VR/AR et rendu en temps réel
+- Spécialisée dans les cinématiques de jeux vidéo, les publicités commerciales et les effets visuels pour clips musicaux (MV).
+- Clientèle s'étendant aux secteurs du jeu vidéo, du cinéma, de la télévision et de la publicité.
+- Exploration continue des nouvelles technologies telles que la VR/AR et le rendu en temps réel.
 
 ### Digimax Inc.
 
-**Digimax Inc. (太極影音科技)**, fondée en 1990, est l'une des plus anciennes sociétés de post-production audiovisuelle de Taïwan :
+**Digimax Inc. (太極影音科技)**, fondée en 1990, est l'une des plus anciennes entreprises de postproduction audiovisuelle à Taïwan :
 
-- Origines dans la post-production publicitaire télévisée ; expansion en 1993 vers les effets visuels numériques et l'animation 3D
-- Production d'animations 3D originales (dont _National Treasures in Action_)
-- L'un des centres de production numérique audiovisuelle les plus grands et les mieux équipés de Taïwan
+- Débuts dans la postproduction de publicités télévisées, avant de s'étendre en 1993 aux effets visuels numériques et à l'animation 3D.
+- A produit des animations 3D originales (comme _National Treasure_).
+- L'un des centres de production numérique audiovisuelle les plus vastes et les mieux équipés de Taïwan.
 
-> **Sources :** [Taiwan Cinema — Digimax Inc.](https://taiwancinema.bamid.gov.tw/Company/CompanyContent/?ContentUrl=12687)
+> **Sources :** [Taiwan Cinema Network — Digimax](https://taiwancinema.bamid.gov.tw/Company/CompanyContent/?ContentUrl=12687)
 
-## La nouvelle vague de l'animation originale
+## Nouvelle vague d'animation originale
 
-### Studio2 : porte-drapeau de l'animation originale taïwanaise
+### Studio2 : le fer de lance de l'animation originale taïwanaise
 
 **Studio2** est l'un des studios d'animation originale les plus représentatifs de Taïwan :
 
-- Série phare **Bakery Aminal (小貓巴克里)** — animation originale ancrée dans les cultures urbaines et rurales de Taïwan
-- Sortie du film d'animation _Bakery Aminal_ en 2017, avec une distribution en salle
-- Un style qui a su établir une nouvelle esthétique pour l'animation sinophone
-- Articulation entre ambitions commerciales et expérimentation artistique
+- Œuvre emblématique, la série « **Puppy Cat** » (_Xiao Mao Ba Ke Li_) — une animation originale caractérisée par la culture urbaine et rurale de Taïwan.
+- Sortie du film d'animation _Puppy Cat_ en 2017, projeté en salles.
+- Son style est considéré comme ayant réussi à établir un nouveau style d'animation sinophone.
+- Allie succès commercial et expérimentation artistique.
 
-### Autres œuvres originales notables
+### Autres œuvres originales importantes
 
-- **Baryon** (2019) — film d'animation de robots originaux produit par Qiankun Yiji Creative, illustrant l'ambition des équipes taïwanaises à développer de grandes IP originales
-- **La Légende de la mer — Mazu (海之傳說—媽祖)** (2007) de China Cartoon — tiré des croyances populaires du Minnan
-- **Magic Warriors**, produit par Ranse Animation avec pour cadre la culture des peuples autochtones de Taïwan
+- « **Baryon** » (2019) — Film d'animation de robots original produit par Qian Kun Yi Ji, démontrant l'ambition des équipes taïwanaises à relever le défi de grandes propriétés intellectuelles originales.
+- Animation chinoise « **Legend of the Sea - Mazu** » (2007) — traitant des croyances populaires du Fujian.
+- L'animation _Legend of Magic_ par Ranse Si, basée sur le contexte des peuples autochtones de Taïwan.
 
-## Structure de l'industrie et défis
+## Structure industrielle et défis
 
-### L'écosystème industriel
+### Écosystème industriel
 
-L'industrie taïwanaise de l'image numérique couvre une chaîne de production complète :
+L'industrie de l'image numérique à Taïwan forme une chaîne de production complète :
 
-| Segment                       | Acteurs représentatifs                                                           |
-| ----------------------------- | -------------------------------------------------------------------------------- |
-| Production d'animation        | Animation 3D CG (CGCG), animation 2D, animation originale (Studio2)              |
-| Effets visuels                | VFX pour films/séries (Reno Studios), effets publicitaires (Moonshine Animation) |
-| Post-production audiovisuelle | Étalonnage, montage, création sonore (Digimax Inc. et autres)                    |
-| Art pour jeux vidéo           | Design de personnages, modélisation d'environnements, animation de jeu           |
-| Domaines émergents            | Contenus VR/AR, production virtuelle, génération assistée par IA                 |
+- **Production d'animation** : Animation 3D CG (CGCG), animation 2D, animation originale (Studio2).
+- **Effets visuels** : VFX pour films/séries (Reno Studios), effets commerciaux (Moonshine Animation).
+- **Postproduction audiovisuelle** : Étalonnage, montage, conception sonore (Digimax Inc., etc.).
+- **Art pour le jeu vidéo** : Design de personnages, modélisation d'environnements, animation de jeux.
+- **Domaines émergents** : Contenu VR/AR, production virtuelle, génération assistée par l'IA.
 
-### Talents et marchés
+### Talents et marché
 
-Selon les enquêtes sectorielles du Taiwan Creative Content Agency (TAICCA), l'industrie de l'animation taïwanaise fait face à plusieurs défis structurels :
+Selon les enquêtes industrielles du Taiwan Creative Content Agency (TAICCA), l'industrie de l'animation taïwanaise fait face à plusieurs défis structurels :
 
-- **Fuite des talents** : les animateurs expérimentés et les directeurs techniques sont attirés par les marchés chinois, japonais et occidentaux
-- **Marché intérieur restreint** : la demande locale à Taïwan est trop limitée pour amortir les coûts de production des animations originales
-- **Compression des marges en sous-traitance** : concurrence croissante avec des acteurs à moindres coûts en Asie du Sud-Est et en Chine
-- **Long délai de retour sur investissement** : la production d'animation exige des mises de fonds importantes en amont, avec un niveau de risque élevé
+- **Fuite des cerveaux** : Les animateurs seniors et les directeurs techniques sont attirés par les marchés de Chine continentale, du Japon, d'Europe et des États-Unis.
+- **Taille limitée du marché original** : Le marché intérieur taïwanais est restreint, rendant difficile le retour sur investissement des animations originales.
+- **Compression des marges de sous-traitance** : Concurrence accrue de la part de la Chine continentale et de l'Asie du Sud-Est avec des coûts plus bas.
+- **Long délai de retour sur investissement** : La production d'animation nécessite des investissements initiaux massifs, présentant un risque élevé.
 
-> **Sources :** [TAICCA — Rapport d'enquête sectorielle](https://research.taicca.tw/report)
+> **Sources :** [Taiwan Creative Content Agency (TAICCA) — Rapport d'enquête industrielle](https://research.taicca.tw/report)
 
-### Soutien des politiques publiques
+### Soutien politique
 
-- **Taiwan Creative Content Agency (TAICCA)** : créée en 2019, elle accompagne l'industrie, facilite les partenariats internationaux et fournit un soutien financier
-- **Plan d'infrastructure de vanguard** : le contenu numérique figure parmi les axes de développement prioritaires
-- La demande croissante des plateformes de streaming (Netflix, Disney+) pour des contenus originaux asiatiques multiplie les opportunités de coproductions internationales pour Taïwan
+- **Taiwan Creative Content Agency (TAICCA)** : Fondée en 2019, elle propose du conseil industriel, de la mise en relation pour la coopération internationale et une aide financière.
+- **Infrastructures prospectives** : Le contenu numérique est classé comme un projet de développement prioritaire.
+- La demande croissante des plateformes de streaming (Netflix, Disney+) pour le contenu original asiatique offre à Taïwan davantage d'opportunités de coproduction internationale.
 
 ## Perspectives
 
-L'histoire de l'industrie taïwanaise de l'image numérique est celle d'une transformation : **de ceux qui dessinent les rêves des autres à ceux qui forgent les leurs**.
+L'histoire de l'industrie de l'image numérique à Taïwan est une épopée de transformation : « **de la réalisation des rêves d'autrui à la création de ses propres rêves** ».
 
-Wang Film Productions a dessiné Mulan pour Disney sans jamais pouvoir se l'approprier — une leçon gravée dans la mémoire collective du secteur. La nouvelle génération d'animateurs taïwanais écrit désormais un autre chapitre : CGCG construit sa marque dans la sous-traitance CG internationale, Reno Studios démontre le niveau taïwanais des effets visuels avec _Detention_, et Studio2 trace une voie nouvelle pour l'animation originale taïwanaise avec _Bakery Aminal_.
+Wang Film a dessiné _Mulan_ pour Disney sans pouvoir posséder _Mulan_ ; cette leçon reste ancrée dans la mémoire collective de l'industrie. Une nouvelle génération d'animateurs taïwanais — de CGCG établissant sa marque dans la sous-traitance CG internationale, à Reno Studios prouvant la force des VFX taïwanais avec _Detention_, jusqu'à Studio2 traçant une nouvelle voie pour l'animation originale avec _Puppy Cat_ — est en train d'écrire de nouveaux chapitres.
 
-Le défi central reste inchangé : comment préserver l'avantage technique tout en bâtissant des IP et des marques d'animation véritablement taïwanaises ? La réponse se trouve peut-être chez cette nouvelle génération de créateurs qui ancrent leur travail dans la culture locale tout en visant le marché international.
+Le défi majeur demeure inchangé : comment maintenir l'avantage technologique tout en bâtissant des marques et des propriétés intellectuelles d'animation propres à Taïwan. La réponse réside peut-être dans cette nouvelle génération de créateurs, profondément ancrés dans la culture locale et tournés vers le marché international.
 
 ## Références
 
 - [Wang Film Productions — Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%AE%8F%E5%BB%A3)
-- [CGCG Inc. — Site officiel](https://www.cgcg.com.tw/)
-- [Grandma and Her Ghosts — Site officiel](https://mofaama.com/)
+- [Site officiel de CGCG Inc.](https://www.cgcg.com.tw/)
+- [Site officiel de Grandma and Her Ghosts](https://mofaama.com/)
 - [Reno Studios](https://reno-studios.com/)
-- [Digimax Inc. — Taiwan Cinema](https://taiwancinema.bamid.gov.tw/Company/CompanyContent/?ContentUrl=12687)
-- [TAICCA — Rapport d'enquête sectorielle](https://research.taicca.tw/report)
-- [Animation taïwanaise — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%8B%95%E7%95%AB)
-- [Taiwan Cinema — Le Disney du monde sinophone](https://taiwancinema.bamid.gov.tw/Articles/ArticlesContent/?ContentUrl=52670)
-- [TechBang — Interview des artisans des effets de Detention](https://www.techbang.com/posts/78048)
-- [Animation & Visual Effects Association Taiwan (AVA Taiwan)](https://www.avataiwan.org/)
+- [Digimax — Taiwan Cinema Network](https://taiwancinema.bamid.gov.tw/Company/CompanyContent/?ContentUrl=12687)
+- [Taiwan Creative Content Agency (TACCCA) — Rapport d'enquête industrielle](https://research.taicca.tw/report)
+- [Animation de Taïwan — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%87%BA%E7%81%A3%E5%8B%95%E7%95%AB)
+- [Taiwan Cinema Network — Le Disney du monde chinois](https://taiwancinema.bamid.gov.tw/Articles/ArticlesContent/?ContentUrl=52670)
+
+* [TechNews — Interview des acteurs de l'ombre de l'effet visuel de « Detention »](https://www.techbang.com/posts/78048)
+
+- [Association des effets d'animation AVA Taiwan](https://www.avataiwan.org/)

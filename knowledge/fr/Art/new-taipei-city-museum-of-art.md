@@ -1,80 +1,83 @@
 ---
-title: "Musée d'art de la ville de Nouveau Taipei : une forêt de roseaux au bord du fleuve Da‑Han, et une esthétique urbaine « inachevée »"
-description: "Le 25 avril 2025, le Musée d'art de la ville de Nouveau Taipei a ouvert officiellement ses portes à Yingge. Conçu par l'architecte Yao Ren‑xi et coûtant près de 30 milliards de NT$, ce bâtiment s’inspire d’une « musée au milieu des roseaux ». Il vise à semer le germe de l’art en périphérie urbaine. Cependant, entre retards de chantier, dépassements budgétaires et controverses du « musée moustique » après l’inauguration, il incarne non seulement un temple de l’art, mais aussi le reflet des enjeux de la construction publique et de la vision culturelle à Taïwan."
+title: "Musée d'art de New Taipei : les roseaux au bord de la rivière Dahan et une esthétique urbaine « inachevée »"
+description: "Le 25 avril 2025, le Musée d'art de New Taipei a ouvert ses portes à Yingge. Conçue par Yao Jen-hsi avec un budget de près de 3 milliards de dollars taïwanais, cette œuvre s'inspire des roseaux pour semer l'art en périphérie urbaine, malgré les controverses sur son coût et son affluence."
 date: 2026-07-02
 category: 'Art'
 tags:
-  - "Musée d'art de la ville de Nouveau Taipei"
-  - 'Yao Ren‑xi'
-  - 'roseaux'
-  - 'Yingge'
-  - 'art taïwanais'
-  - 'construction publique'
+  [
+    "Musée d'art de New Taipei",
+    'Yao Jen-hsi',
+    'roseau',
+    'Yingge',
+    'art taïwanais',
+    'infrastructures publiques',
+  ]
 subcategory: '策展與教育'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-02
 lastHumanReview: false
 readingTime: 8
+curation: 'incubating'
 translatedFrom: 'Art/新北市美術館.md'
-sourceCommitSha: '1a3708b1e'
-sourceContentHash: 'sha256:6437448f28af9601'
+sourceCommitSha: '03b3aaae8'
+sourceContentHash: 'sha256:10e53513cef6450a'
 sourceBodyHash: 'sha256:c5c8b0370d628478'
-translatedAt: '2026-07-06T00:39:49+08:00'
+translatedAt: '2026-08-04T12:41:09+08:00'
 ---
 
-> **30 secondes d’aperçu :** le 25 avril 2025, le Musée d'art de la ville de Nouveau Taipei a ouvert ses portes à Yingge. Conçu par l'architecte Yao Ren‑xi, ce bâtiment a nécessité dix ans de travaux et près de 30 milliards de NT$, s’inspirant des roseaux qui bordent le fleuve Da‑Han pour transformer 3 200 tubes d’aluminium argenté en une installation ondulante. Cependant, depuis le concours international initial jusqu’aux multiples échecs d’appel d’offres, aux dépassements budgétaires, puis à la polémique du « musée moustique » après l’ouverture, ce nouveau musée reflète non seulement une salle d’exposition, mais aussi les tensions complexes de Taïwan en matière de construction culturelle et de répartition des ressources publiques.
+> **Aperçu en 30 secondes :** Le 25 avril 2<0xA0>2025, le Musée d'art de New Taipei a officiellement ouvert ses portes à Yingge. Conçue par l'architecte Yao Jen-hsi, cette structure ayant nécessité dix ans de travaux et un investissement de près de 3 milliards de dollars taïwanais, puise son inspiration dans les roseaux bordant la rivière Dahan, transformant 3 200 tubes d'aluminium argentés en une image artistique oscillant au gré du vent. Cependant, entre le concours international initial, les appels d'offres infructueux, l'augmentation du budget et les critiques de « musée moustique » (peu fréquenté) après l'ouverture, ce nouveau musée n'est pas seulement un temple de l'art, mais aussi le reflet des tensions complexes liées à la construction culturelle et à la répartition des ressources publiques à Taïwan.
 
-## Une forêt d’argent au bord du fleuve Da‑Han : la naissance du concept des roseaux
+## Une forêt d'argent au bord de la rivière Dahan : la naissance de l'image des roseaux
 
-En 2015, le résultat du concours international pour le Musée d'art de la ville de Nouveau Taipei a été annoncé ; le cabinet Da‑Yuan Architecture dirigé par Yao Ren‑xi a remporté le prix avec le concept d’un « musée au milieu des roseaux », devançant de nombreuses équipes étrangères[^1]. Cette idée s’inspire du site même du musée : la confluence des rivières Yingge et Da‑Han, où les roseaux se balancent au vent en automne et en hiver. Yao Ren‑xi a traduit ce symbole local en un langage contemporain, en érigeant 3 200 tubes d’aluminium sablé de forme circulaire, disposés de façon irrégulière pour créer une « forêt de roseaux » argentée qui semble pousser naturellement depuis la berge[^2].
+En 2015, les résultats du concours international pour le Musée d'art de New Taipei ont été révélés : le cabinet Yao Jen-hsi (大元建築工場) s'est distingué par son concept de « musée au cœur des roseaux », devançant de nombreuses équipes internationales [^1]. Ce design puise sa source dans le paysage naturel du site — la confluence des rivières Yingge et Dahan — et plus particulièrement dans les roseaux qui ondulent sous le vent durant l'automne et l'hiver. L'architecte Yao Jen-hsi a traduit cette imagerie locale en un langage moderne, utilisant 3 200 tubes d'aluminium circulaires sablés de hauteurs variées pour construire une « forêt de roseaux » argentée semblant émerger naturellement des berges [^2].
 
-Yao Ren‑xi a déclaré qu’il abordait la conception du musée « comme on filme un film »[^3], cherchant à faire du bâtiment une narration qui guide le visiteur à travers l’espace, la lumière et les matériaux. Il s’agit non seulement d’un hommage à l’environnement naturel, mais aussi d’une réponse profonde à l’histoire et à la culture locales de Yingge, intégrant les pierres du lit asséché du fleuve Da‑Han, les proportions de la vieille rue Sanxia et les briques rouges typiques de la ville[^4].
+Yao Jen-hsi a décrit son approche comme l'utilisation du langage cinématographique pour planifier ce musée[^3], tentant de faire de l'architecture elle-même un récit, guidant le visiteur à travers l'espace pour ressentir les variations de lumière et de matière. Il ne s'agit pas seulement d'un hommage à l'environnement naturel, mais d'une réponse profonde à l'histoire et à la culture locales de Yingge, intégrant habilement des éléments tels que les pierres du lit asséché de la rivière Dahan ou l'échelle des bâtiments en briques rouges des vieilles rues de Sanxia [^4].
 
-📝 Note du commissaire : un bon bâtiment ne se contente pas de remplir une fonction ; il doit raconter une histoire du territoire et de ses habitants. L’imagerie des roseaux du nouveau musée incarne précisément ce pouvoir narratif.
+📝 Note du commissaire : Une bonne architecture ne se contente pas d'offrir une fonction ; elle doit être capable de raconter une histoire sur la terre et les hommes. L'image des roseaux de ce nouveau musée est l'expression même de cette force narrative.
 
-## Une décennie de persévérance : de dix appels d’offres infructueux à un budget de 30 milliards
+## Une décennie de persévérance : de dix appels d'offres infructueux à un investissement de 3 milliards
 
-Le parcours de construction du Musée d'art de la ville de Nouveau Taipei n’a pas été sans embûches. Depuis la validation du design en 2015, les travaux principaux ont connu plus d’une dizaine d’appels d’offres rejetés[^5], principalement en raison de la complexité du concept architectural et des difficultés techniques. Ces échecs ont entraîné d’importants retards et des augmentations budgétaires successives. À l’époque, le vice‑maire de la ville, Li Sichuan, a révélé que, faute de pouvoir attribuer le marché, l’équipe de conception avait proposé un supplément de 4 milliards de NT$, qu’il aurait approuvé pendant l’absence du maire Zhu Lilun à l’étranger[^5].
+Le chemin vers la construction du Musée d'art de New Taipei n'a pas été de tout repos. Depuis la validation du design en 2015, les travaux principaux ont connu plus de dix appels d'offres infructueux [^5], principalement en raison de la conception architecturale unique et de la complexité technique de l'exécution. Cela a non seulement entraîné des retards importants, mais aussi une augmentation constante du budget initial. Li Si-chuan, alors vice-maire de New Taipei, a révélé que face à l'impossibilité d'attribuer les marchés, l'équipe de conception avait suggéré une rallonge budgétaire de 400 millions de dollars taïwanais ; il avait profité de l'absence du maire Chu Li-luan en voyage à l'étranger pour « approuver » ce montant, permettant ainsi la poursuite du chantier [^5].
 
-Au final, le musée a coûté près de 30 milliards de NT$, après dix ans de préparation et de construction, pour ouvrir officiellement le 25 avril 2025[^6]. Cette longue aventure a mis à l’épreuve la détermination du gouvernement de la ville de Nouveau Taipei et illustre les défis et compromis fréquemment rencontrés dans les grands projets publics à Taïwan. Yao Ren‑xi a affirmé : « Concevoir un bâtiment culturel à partir de zéro offre à l’architecte l’opportunité de redéfinir le territoire »[^7]; cette persévérance semble viser à ériger, à Yingge, un nouveau repère culturel.
+Finalement, après dix ans de préparation et de construction pour un coût de près de 3 milliards de dollars taïwanais, le musée a ouvert ses portes le 25 avril 2025 [^6]. Ce long processus a mis à l'épreuve la détermination du gouvernement de New Taipei et reflète les défis et les arbitrages auxquels Taïwan est souvent confronté lors de grands projets d'infrastructure publique. Yao Jen-hsi a déclaré : « Concevoir un édifice culturel en partant de zéro offre à l'architecte l'opportunité de redéfinir le territoire » [^7]. Cette persévérance visait peut-être à planter, sur cette terre de Yingge, un nouveau point de repère culturel.
 
-## Un musée pour tous : désolidariser les murs et créer un quartier artistique
+## Un musée pour tous : briser les murs de l'art
 
-Le musée se donne pour mission d’être un « musée pour tous », comprenant huit étages au-dessus du sol et trois sous‑sols, ainsi qu’un musée pour enfants, un quartier artistique extérieur, un restaurant et une librairie[^8]. Son concept vise à rompre avec la fermeture traditionnelle des musées, en ouvrant des espaces extérieurs qui s’articulent avec le village artistique San‑Ying et le Musée de la céramique de Yingge, créant ainsi un vaste environnement de vie artistique. Lors de son inauguration, le musée a organisé six week‑ends consécutifs d’activités : sculptures lumineuses, installations d’éclairage, performances et marchés thématiques, afin d’attirer un public large[^9].
+Le Musée d'art de New Taipei se donne pour mission d'être un « musée pour tous ». Au-delà du bâtiment principal comprenant 8 étages au-dessus du sol et 3 niveaux en sous-sol, il prévoit des espaces diversifiés tels qu'un musée pour enfants, des quartiers d'art en plein air, des restaurants et une librairie [^8]. Sa philosophie de conception insiste sur la rupture avec l'isolement traditionnel des musées, reliant les espaces extérieurs ouverts aux villages artistiques de Sanxing et au Musée de la céramique de Yingge environnants, créant ainsi un vaste domaine de vie artistique. Lors de son inauguration, le musée a organisé des événements sur six week-ends consécutifs, incluant des projections lumineuses architecturales, des installations lumineuses, des spectacles et des marchés thématiques, afin d'attirer un public large [^9].
 
-Ce modèle « décentralisé » de diffusion artistique cherche à rapprocher l’art du quotidien, le rendant moins élitiste. Grâce aux installations extérieures et aux expériences interactives, le musée souhaite offrir un espace où adultes et enfants peuvent explorer librement et se familiariser avec l’art, concrétisant ainsi la vision « ancré localement, tourné vers le monde » du projet[^4].
+Ce modèle de promotion artistique « décentralisé » vise à rapprocher l'art du quotidien des citoyens, pour qu'il ne soit plus un sanctuaire inaccessible. À travers des installations artistiques extérieures et des expériences interactives, le musée espère créer un environnement où adultes et enfants peuvent explorer librement et s'approprier l'art, réalisant ainsi sa vision : « s'ancrer localement pour s'ouvrir au monde » [^4].
 
-## Musée moustique ou berceau culturel ? Les défis persistants
+## Musée moustique ou berceau culturel ? Un défi inachevé
 
-Moins d’un an après son ouverture, le musée a suscité en ligne la polémique du « musée moustique »[^10]. Certains internautes ont souligné que, même les week‑ends, l’affluence restait faible et que la programmation ainsi que la circulation intérieure faisaient l’objet de critiques. Ce phénomène n’est pas propre au nouveau musée ; de nombreux musées publics taïwanais voient leur fréquentation diminuer après la période d’engouement initial, en raison d’un manque d’infrastructures d’accompagnement, d’un ancrage local insuffisant ou d’une identité opérationnelle floue[^11].
+Cependant, moins d'un an après son ouverture, le Musée d'art de New Taipei a suscité sur Internet des critiques le qualifiant de « musée moustique » (musée sans affluence) [^10]. Certains internautes ont souligné que même durant les week-ends, la fréquentation restait faible, et le contenu des expositions ainsi que la circulation dans le musée ont également fait l'objet de critiques. Ce phénomène n'est pas propre à ce musée ; de nombreux musées publics à Taïwan font face, après l'effervescence de l'inauguration, à une baisse de fréquentation due à un manque d'infrastructures complémentaires, à un lien local insuffisant ou à un positionnement opérationnel flou [^11].
 
-📝 Note du commissaire : la valeur d’un musée ne se mesure pas uniquement à la foule qu’il attire. L’essentiel est de savoir s’il continue à dynamiser la culture locale et à accumuler, au fil du temps, son propre récit distinctif.
+📝 Note du commissaire : La valeur d'un musée ne devrait pas se mesurer uniquement au nombre de visiteurs. Il est plus important qu'il puisse stimuler durablement la vitalité culturelle locale et accumuler, au fil du temps, sa propre narration unique.
 
-L’imagerie du « roseau » du musée pourrait également symboliser son état « inachevé » dans l’esthétique urbaine. Il représente à la fois une étape majeure du développement culturel de la ville de Nouveau Taipei et le défi de maintenir son exploitation, d’approfondir les liens locaux et de trouver sa place au milieu des multiples voix. Cette forêt d’argent au bord du fleuve Da‑Han pourra‑t‑elle réellement devenir le berceau de l’art taïwanais, ou restera‑t‑elle un simple point d’exclamation architectural ? Le temps le dira[^12].
+L'image des « roseaux » de ce nouveau musée pourrait aussi être une métaphore de son état actuel : une esthétique urbaine encore « inachevée ». Il est à la fois un jalon important pour le développement culturel de New Taipei et le théâtre d'un défi majeur : comment assurer sa gestion, approfondir les liens locaux et trouver sa propre identité au milieu du tumulte. Nous devrons attendre que le temps nous dise si cette forêt d'argent au bord de la rivière Dahan deviendra véritablement un berceau de l'art taïwanais, ou s'il ne restera qu'une prouesse architecturale sans âme [^12].
 
 ## Références
 
-[^1]: [風起，「蘆葦叢中美術館」夢可真？ — 典藏 ARTouch](https://artouch.com/art-views/cultural-policy/content-63020.html) — Enregistrement du résultat du concours international 2015 et des débats politiques autour du nouveau musée.
+[^1]: [Le vent se lève, le rêve du « musée dans les roseaux » est-il réalisable ? — ARTouch](https://artouch.com/art-views/cultural-policy/content-63020.html) — Documente les résultats du concours international de 2015 et les discussions sur la politique culturelle derrière le musée.
 
-[^2]: [新北市美術館 — 姚仁喜｜大元建築工場](https://www.krisyaoartech.com/zh-tw/projects/cultural/New-Taipei-City-Art-Museum) — Page officielle du cabinet d’architecture, détaillant la conception des 3 200 tubes d’aluminium sablé.
+[^2]: [Musée d'art de New Taipei — Yao Jen-hsi | Da Yuan Architects](https://www.krisyaoartech.com/zh-tw/projects/cultural/New-Taipei-City-Art-Museum) — Page projet officielle de l'agence d'architecture, détaillant le langage conceptuel des 3 200 tubes d'aluminium.
 
-[^3]: [近「30 億台幣」打造的美術館，你懂嗎？ — Instagram @被世界看見的建築](https://www.instagram.com/reel/DaKlvHQidRJ/) — Vidéo de visite guidée expliquant l’approche cinématographique de Yao Ren‑xi.
+[^3]: [Comprenez-vous ce musée construit pour « 3 milliards de dollars taïwanais » ? — Instagram @ArchitectureSeenByTheWorld](https://www.instagram.com/reel/DaKlvHQidRJ/) — Vidéo courte de visite architecturale, présentant la méthode de Yao Jen-hsi utilisant le langage cinématographique.
 
-[^4]: [關於新美館 ABOUT US — 新北市美術館](https://ntcart.museum/about.aspx) — Site officiel, présentant la vision du musée, la traduction du symbole local et le positionnement « musée pour tous ».
+[^4]: [À propos du Musée d'art de New Taipei — ABOUT US](https://ntcart.museum/about.aspx) — Site officiel, détaillant la vision de création, la traduction des images locales et le positionnement de « musée pour tous ».
 
-[^5]: [新北美術館當年追加 4 億預算 李四川曝「我趁市長出國批了」 — 自由時報](https://news.ltn.com.tw/news/politics/breakingnews/5445865) — Article décrivant les appels d’offres infructueux et l’ajout budgétaire par le vice‑maire.
+[^5]: [Le budget de 400 millions ajouté à l'époque par le musée de New Taipei : Li Si-chuan révèle « j'ai approuvé cela pendant que le maire était à l'étranger » — Liberty Times](https://news.ltn.com.tw/news/politics/breakingnews/5445865) — Témoignage direct sur les plus de dix appels d'offres infructueux et l'augmentation du budget par Li Si-chuan.
 
-[^6]: [新北市美術館斥資近 30 億元打造 4/25 開館 — 中央社](https://www.cna.com.tw/news/aloc/202501090242.aspx) — Rapport de janvier 2025 confirmant la date d’ouverture et le coût du projet.
+[^6]: [Le Musée d'art de New Taipei, coûtant près de 3 milliards, ouvre le 25/04 — CNA](https://www.cna.com.tw/news/aloc/202501090242.aspx) — Reportage de janvier 2025, confirmant la date d'ouverture et le coût de construction.
 
-[^7]: [姚仁喜設計之新北市美術館登上《Architectural Record》 — 典藏 ARTouch](https://artouch.com/art-news/content-148145.html) — Publication dans un magazine d’architecture international et citation de Yao Ren‑xi.
+[^7]: [Le Musée d'art de New Taipei conçu par Yao Jen-hsi publié dans « Architectural Record » — ARTouch](https://artouch.com/art-news/content-148145.html) — Documente la couverture par une revue d'architecture internationale et les propos de l'architecte sur son design.
 
-[^8]: [孵化藝術感知，屹立蘆葦叢中的新美館 — 居心誌](https://www.kindomliving.com.tw/?p=17478) — Description des espaces du bâtiment principal, du musée pour enfants et des installations connexes.
+[^8]: [Incuber la perception artistique, le nouveau musée s'érige parmi les roseaux — Jixin Zhi](https://www.kindomliving.com.tw/?p=17478) — Détaille la configuration des espaces (8 étages, 3 sous-sols, musée pour enfants).
 
-[^9]: [新北市美術館 4 月 25 日正式開館 — 新北市政府](https://www.ntpc.gov.tw/ch/home.jsp?id=28&dataserno=202504020020) — Communiqué de presse du gouvernement local, détaillant les activités d’inauguration.
+[^9]: [Ouverture officielle du Musée d'art de New Taipei le 25 avril — Gouvernement de New Taipei](https://www.ntpc.gov.tw/ch/home.jsp?id=28&dataserno=202504020020) — Communiqué de presse municipal détaillant les événements d'inauguration et les programmes des six week-ends.
 
-[^10]: [開幕不到 1 年！新北美術館假日都沒人 網曝致命傷：恐淪蚊子館 — 三立新聞網（Threads）](https://www.threads.com/@setnews/post/DWDemtHjQAL) — Publication de mars 2026 relatant les débats sur la fréquentation.
+[^10]: [Moins d'un an après l'ouverture ! Personne au musée de New Taipei le week-end, une faille fatale révélée : risque de devenir un « musée moustique » — Sanli News (Threads)](https://www.threads.com/@setnews/post/DWDemtHjQAL) — Publication de mars 2026, traitant de la faible fréquentation après l'ouverture.
 
-[^11]: [人少＝蚊子館？從新美館爭議反思 — 遠見城市學](https://city.gvm.com.tw/article/129331) — Analyse critique de la tendance à mesurer la valeur des musées publics par le nombre de visiteurs.
+[^11]: [Peu de monde = Musée moustique ? Réflexion sur la controverse du nouveau musée — Vision Urban Studies](https://city.gvm.com.tw/article/129331) — Analyse le mythe consistant à mesurer la valeur d'un musée public uniquement par son affluence et les défis opérationnels.
 
-[^12]: [新北市美術館一舉洗刷蚊子館臭名 — Instagram @ntcart.museum](https://www.instagram.com/p/DWJUbP2Eft5/) — Publication du musée montrant une reprise de la fréquentation.
+[^12]: [Le Musée d'art de New Taipei efface la réputation de « musée moustique » — Instagram @ntcart.museum](https://www.instagram.com/p/DWJUbP2Eft5/) — Publication sur les réseaux sociaux du musée, documentant la remontée de la fréquentation.

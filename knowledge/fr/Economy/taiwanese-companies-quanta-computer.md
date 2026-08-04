@@ -1,183 +1,183 @@
 ---
-title: "Quanta Computer : le géant taïwanais de l'informatique"
-description: "D'un incendie d'usine à la première place mondiale dans l'assemblage d'ordinateurs portables — comment Barry Lam a bâti un nouvel empire à l'ère de l'IA."
+title: 'Entreprises taïwanaises : Quanta Computer'
+description: "D'un incendie d'usine au roi mondial de l'ordinateur portable, comment Lin Pen-li a-t-il bâti un nouvel empire à l'ère de l'IA ?"
 date: 2026-03-21
+category: 'Economy'
 tags:
   [
-    Économie,
-    Entreprise,
-    Sous-traitance électronique,
-    ODM,
-    Cloud IA,
-    Ordinateurs portables,
+    'Économie',
+    'Entreprise',
+    'Sous-traitance électronique',
+    'ODM',
+    'Cloud IA',
+    'Ordinateur portable',
   ]
-subcategory: "Portraits d'entreprises"
-category: 'Economy'
+subcategory: '企業列傳'
 author: 'Taiwan.md'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-21
+lastHumanReview: true
+curation: 'incubating'
 translatedFrom: 'Economy/台灣企業：廣達電腦.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:917f1503c2ff61d8'
 sourceBodyHash: 'sha256:8336e4cef45a1444'
-translatedAt: '2026-04-14T19:20:58+08:00'
-lastHumanReview: true
+translatedAt: '2026-08-04T12:03:21+08:00'
 ---
 
-> **En 30 secondes :** En 1987, un incendie d'usine pousse Barry Lam à démissionner de Kinpo Electronics. En 1988, il loue deux étages à Shilin, Taipei, et fonde Quanta Computer avec un capital de départ de 30 millions de dollars taïwanais. Trente-six ans plus tard, Quanta est le plus grand assembleur d'ordinateurs portables au monde, avec un chiffre d'affaires de 1 080 milliards de NT$ en 2023. Un ordinateur portable sur trois dans le monde sort de ses usines. À l'aube de l'ère de l'IA, Quanta se réinvente une fois encore, en devenant le partenaire d'assemblage de serveurs le plus stratégique de NVIDIA.
+> **Aperçu en 30 secondes :** En 1987, un incendie d'usine a poussé Lin Pen-li à démissionner de Compal Electronics.
+> En 1988, il a loué un espace de deux étages à Shilin, Taipei, et a fondé Quanta avec un capital de 30 millions de dollars taïwanais.
+> 36 ans plus tard, Quanta est devenu le plus grand fabricant d'ordinateurs portables au monde ; en 2023, son chiffre d'affaires a atteint 1,08 billion de dollars taïwanais.
+> Un ordinateur portable sur trois dans le monde provient de Quanta. À l'ère de l'IA, Quanta a opéré une nouvelle transformation spectaculaire pour devenir le partenaire de montage de serveurs le plus crucial de NVIDIA.
 
-## Un incendie qui change tout
+## Une vie transformée par un incendie
 
-En 1987, un incendie ravage l'usine de Compal à Pingzhen — et fait naître une nouvelle légende de l'industrie technologique taïwanaise.
+En 1987, un incendie majeur dans l'usine de Pingzhen de Compal Electronics a fait naître une autre légende de l'industrie technologique taïwanaise.
 
-Barry Lam, alors directeur général de Compal, avait 39 ans. Face au sinistre, il choisit de démissionner pour assumer sa responsabilité. Beaucoup trouvèrent ce geste incompréhensible : il avait passé 15 ans au sein du groupe Kinpo (maison-mère de Compal), gravi tous les échelons jusqu'au sommet. Sacrifier tout cela pour un accident ?
+À l'époque, Lin Pen-li, âgé de 39 ans, était le directeur général de Compal Electronics. Après l'incendie, il a choisi de démissionner pour assumer sa responsabilité. Beaucoup ont jugé cette décision regrettable : Lin Pen-li travaillait chez Compal Electronics (la société mère de Compal) depuis 15 ans, ayant gravi les échelons d'ingénieur à directeur général ; pourquoi gâcher sa carrière pour un accident ?
 
-Mais Barry Lam avait une idée en tête : faire ce qu'il avait vraiment envie de faire — concevoir des ordinateurs portables.
+Mais Lin Pen-li avait une idée en tête : il voulait faire ce qui le passionnait vraiment — concevoir des ordinateurs portables.
 
-En mai 1988, il s'associe à son ami de longue date Liang Ci-zhen, loue deux étages dans le quartier de Jiantan à Shilin, et fonde Quanta Computer avec une douzaine de collaborateurs débouchés de Kinpo, Inventec et Wang Laboratories. Le capital initial : 30 millions de NT$. L'objectif : fabriquer les meilleurs ordinateurs portables du monde.
+En mai 1988, Lin Pen-li et son vieil ami Liang Tsze-chen ont loué un espace de deux étages près de Jiatan, à Shilin, Taipei. Avec une dizaine de partenaires venus de Compal, Inventec et Wistron, ils ont fondé « Quanta Computer ». Le capital initial n'était que de 30 millions de dollars taïwanais, avec un seul objectif : fabriquer le meilleur ordinateur portable possible.
 
-À l'époque, l'ordinateur portable était encore un objet de luxe — plusieurs centaines de milliers de dollars taïwanais l'unité, hors de portée du grand public. Mais Barry Lam était convaincu que la démocratisation était inévitable, à mesure que la technologie progresserait.
+À cette époque, l'ordinateur portable était un produit de luxe, coûtant des dizaines de milliers de dollars, inaccessible à la plupart des gens. Mais Lin Pen-li était convaincu qu'avec les progrès techniques, l'ordinateur portable finirait par se démocratiser.
 
-## Du fabricant au concepteur : l'innovation du modèle ODM
+## De la sous-traitance à la conception : l'innovation du modèle ODM
 
-Quanta n'est pas un simple sous-traitant. C'est un ODM — Original Design Manufacturer, fabricant de conception originale. Quelle différence ?
+Quanta n'est pas seulement une « usine de sous-traitance », mais un fabricant « ODM » (_Original Design Manufacturer_, fabricant d'équipement d'origine). Quelle est la différence entre les deux ?
 
-**OEM (sous-traitance classique) :** la marque vous fournit les plans, vous fabriquez.  
-**ODM :** vous concevez vous-même le produit, la marque y appose son logo et le commercialise.
+**Sous-traitance (OEM) :** La marque vous fournit les plans, et vous les exécutez.
+**ODM :** Vous concevez le produit vous-même, et la marque choisit de l'apposer à son nom pour la production.
 
-Ce modèle était révolutionnaire dans les années 1990. IBM, HP et leurs semblables géraient alors leur conception et leur fabrication en interne. Barry Lam, lui, pariait sur la spécialisation : les marques se concentreraient sur le marketing et la distribution, tandis que la technique et la production reviendraient à des ODM experts.
+Ce modèle était innovant dans les années 1990. Traditionnellement, de grandes entreprises comme IBM ou HP possédaient leurs propres départements de conception et de fabrication. Mais Lin Pen-li pensait que la « division spécialisée du travail » serait la tendance future : les marques se concentreraient sur le marketing et la distribution, tandis que la technologie et la fabrication seraient confiées à des fabricants ODM spécialisés.
 
-En 1999, une commande change le destin de Quanta : l'Apple iBook.
+En 1999, Quanta a décroché une commande qui allait changer son destin : l'Apple iBook.
 
-Premier ordinateur portable grand public aux couleurs translucides, à la conception avant-gardiste et à la fabrication complexe. La plupart des ODM de l'époque le jugèrent trop risqué. Quanta fut le seul à accepter. Le raisonnement de Barry Lam : réussir à produire selon les exigences d'Apple, c'est prouver qu'on peut tout faire.
+Il s'agissait du premier ordinateur portable semi-transparent et coloré, doté d'un design avant-gardiste et d'une technologie complexe. À l'époque, de nombreux fabricants ODM jugeaient le projet trop difficile et trop risqué ; seul Quanta a osé accepter. Le jugement de Lin Pen-li était le suivant : si nous pouvons produire un produit répondant aux standards d'Apple, les autres clients ne seront pas un problème.
 
-Le succès fut au rendez-vous. L'iBook conquit le marché, et Quanta devint un partenaire durable d'Apple — assemblant ensuite les PowerBook G4, MacBook Air, MacBook Pro et d'autres modèles emblématiques.
+Le résultat lui a donné raison. L'iBook a connu un immense succès, et Quanta est ainsi devenu un partenaire à long terme d'Apple, assurant la fabrication successive de produits emblématiques tels que le PowerBook G4, le MacBook Air et le MacBook Pro.
 
-## Leader mondial : les chiffres parlent
+## Premier mondial : les chiffres parlent d'eux-mêmes
 
-**Parts de marché ODM des ordinateurs portables en 2024 :**
+**Marché mondial de l'ODM d'ordinateurs portables en 2024 :**
 
-| Fabricant | Part de marché |
-| --------- | -------------- |
-| Quanta    | ~30 %          |
-| Compal    | ~25 %          |
-| Pegatron  | ~20 %          |
-| Wistron   | ~15 %          |
-| Autres    | 10 %           |
+1. Quanta : environ 30 % de part de marché
+2. Compal : environ 25 %
+3. Pegatron : environ 20 %
+4. Wistron : environ 15 %
+5. Autres : 10 %
 
-**Quanta en bref :**
+**Données clés de Quanta :**
 
-- Chiffre d'affaires 2023 : 1 080 milliards NT$ (−15,3 % sur un an)
-- Effectifs mondiaux : environ 90 000 employés
-- Volume annuel livré : 45 à 47 millions d'ordinateurs portables
+- Chiffre d'affaires en 2023 : 1,08 billion de dollars taïwanais (en baisse de 15,3 % sur un an)
+- Employés dans le monde : environ 90 000 personnes
+- Volume annuel d'expéditions : 45 à 47 millions d'ordinateurs portables
 - Principaux clients : Apple, HP, Dell, Lenovo, Google, NVIDIA
 
-**Comparaison avec d'autres géants taïwanais :**
+**Comparaison avec les autres géants technologiques taïwanais :**
 
-| Entreprise | CA 2023             | Secteur                      |
-| ---------- | ------------------- | ---------------------------- |
-| TSMC       | 2 170 milliards NT$ | Fonderie de semi-conducteurs |
-| Foxconn    | 6 260 milliards NT$ | Sous-traitance électronique  |
-| Quanta     | 1 080 milliards NT$ | ODM ordinateurs portables    |
+- TSMC : Chiffre d'affaires en 2023 de 2,17 billions de dollars taïwanais (fonderie de semi-conducteurs)
+- Hon Hai (Foxconn) : Chiffre d'affaires en 2023 de 6,26 billions de dollars taïwanais (sous-traitance électronique)
+- Quanta : Chiffre d'affaires en 2023 de 1,08 billion de dollars taïwanais (ODM d'ordinateurs portables)
 
-Quanta n'est peut-être pas la plus grande, mais elle règne sans partage sur le segment des ordinateurs portables.
+Bien que Quanta ne soit pas le plus grand en termes de chiffre d'affaires global, il est le roi incontesté du domaine des ordinateurs portables.
 
-## Les prouesses techniques cachées derrière chaque MacBook
+## La technologie cachée derrière le MacBook
 
-Pourquoi Apple a-t-il choisi Quanta ? Parce que Quanta résout des problèmes que les autres ne savent pas résoudre.
+Pourquoi Apple a-t-il choisi Quanta ? Parce que Quanta est capable de résoudre les problèmes techniques que d'autres ne peuvent pas régler.
 
-**Le défi du MacBook Air :**  
-En 2008, Steve Jobs exigeait « l'ordinateur portable le plus fin du monde ». Les ingénieurs estimaient la chose impossible : comment faire tenir un processeur, de la mémoire vive, une batterie et un système de refroidissement dans un boîtier aussi mince ?
+**Le défi du MacBook Air :**
+En 2008, Steve Jobs a exigé la création de « l'ordinateur portable le plus fin au monde ». À l'époque, les ingénieurs pensaient que c'était impossible : comment loger le CPU, la mémoire, la batterie et le module de refroidissement dans un espace aussi réduit ?
 
-Les équipes de Quanta ont passé six mois à repenser entièrement l'agencement de chaque composant interne. La carte mère a été redessinée en forme de coin, les canaux de dissipation thermique entièrement refaits, et même les vis ont dû être fabriquées sur mesure. Résultat : un MacBook Air de seulement 1,9 cm d'épaisseur, qui a stupéfié toute l'industrie.
+Les ingénieurs de Quanta ont passé six mois à repenser l'agencement de tous les composants internes. Ils ont conçu une carte mère en forme de coin, réinventé les conduits de refroidissement et même fait fabriquer des vis sur mesure. Ils ont finalement réussi à produire le MacBook Air avec une épaisseur de seulement 1,9 cm, stupéfiant toute l'industrie technologique.
 
-**La gestion thermique du MacBook Pro :**  
-Les processeurs haute performance dégagent une chaleur considérable. Intégrer un système de refroidissement efficace dans un châssis fin a toujours été un casse-tête. Quanta a développé une technologie de dissipation par caloduc — la chaleur du processeur est acheminée vers les bords du châssis, puis évacuée par des ventilateurs. Cette solution est aujourd'hui un standard dans le haut de gamme.
+**Le problème thermique du MacBook Pro :**
+Les processeurs haute performance génèrent une chaleur importante ; savoir comment dissiper cette chaleur dans un châssis fin est un défi technique constant. Quanta a développé une « technologie de refroidissement liquide » utilisant des caloducs pour transporter la chaleur du CPU vers les bords du boîtier, avant de l'évacuer via un ventilateur. Cette technologie est aujourd'hui devenue un standard pour les ordinateurs portables haut de gamme.
 
-**Les antennes sans fil :**  
-Un châssis en métal perturbe les signaux Wi-Fi et Bluetooth. Les ingénieurs de Quanta ont trouvé des « espaces invisibles » dans le couvercle de l'écran pour y loger les antennes à l'abri des interférences métalliques. Cette conception est aujourd'hui adoptée dans toute l'industrie.
+**Conception d'antennes sans fil :**
+Un châssis métallique peut interférer avec les signaux Wi-Fi et Bluetooth. Les ingénieurs de Quanta ont trouvé un « espace invisible » dans l'écran pour dissimuler les antennes là où le métal ne pourrait pas les masquer. Ce design est désormais adopté par toute l'industrie.
 
-## La mue de l'ère IA
+## La transformation spectaculaire à l'ère de l'IA
 
-En 2023, l'explosion de ChatGPT a embrasé le monde de l'IA. Pour Quanta, ce n'était pas une surprise — c'était l'aboutissement de dix ans de préparation.
+En 2023, ChatGPT a connu une explosion de popularité, déclenchant une vague mondiale d'intelligence artificielle. Pour Quanta, ce n'était pas un accident, mais une opportunité préparée depuis dix ans.
 
-Dès 2015, Barry Lam avait formulé le concept des « 3C » : Cloud Computing, Connecting (connectivité) et Client Device (appareils utilisateurs). Sa conviction : l'informatique personnelle migrerait vers le cloud, et Quanta devait se positionner en amont.
+Dès 2015, Lin Pen-li avait proposé le concept « 3C » : _Cloud Computing_ (informatique en nuage), _Connecting_ (connectivité) et _Client Device_ (équipement client). Il avait prédit que les PC évolueraient vers le cloud computing et que Quanta devait anticiper cette mutation.
 
-En 2024, la division serveurs de Quanta représente déjà 35 % du chiffre d'affaires, dont plus de 70 % proviennent des serveurs IA. Quanta est désormais le partenaire d'assemblage de serveurs GPU le plus stratégique de NVIDIA, et tous les grands acteurs du cloud font appel à ses services.
+En 2024, l'activité de serveurs de Quanta représente déjà 35 % de son chiffre d'affaires, dont plus de 70 % des activités liées au cloud proviennent des serveurs IA. Quanta est désormais le partenaire de montage de serveurs GPU le plus important de NVIDIA, et presque toutes les grandes entreprises de services cloud sont des clients de Quanta.
 
-**En quoi un serveur IA diffère-t-il d'un serveur classique ?**
+**Quelle est la différence entre un serveur IA et un serveur classique ?**
 
-- **Consommation bien plus élevée :** un serveur IA peut consommer de 10 à 20 kW, soit dix fois plus qu'un serveur standard.
-- **Refroidissement bien plus complexe :** les systèmes de refroidissement liquide sont indispensables, les ventilateurs traditionnels ne suffisent plus.
-- **Assemblage bien plus précis :** un GPU vaut plusieurs centaines de milliers de dollars taïwanais — la moindre erreur coûte cher.
-- **Personnalisation poussée :** chaque client a ses propres besoins algorithmiques en IA.
+- **Consommation électrique plus élevée** : Un serveur IA peut consommer entre 10 et 20 kW, soit 10 fois plus qu'un serveur classique.
+- **Refroidissement plus complexe** : Nécessite des systèmes de refroidissement liquide plutôt que des ventilateurs traditionnels.
+- **Assemblage plus précis** : Les GPU valent des centaines de milliers de dollars ; la moindre erreur représente une perte immense.
+- **Besoins de personnalisation** : Chaque client a des besoins spécifiques liés à ses algorithmes d'IA.
 
-Ces défis techniques tombent précisément dans le domaine d'excellence de Quanta : la fabrication de précision.
+Ces défis technologiques correspondent précisément aux forces de Quanta en matière de fabrication de précision.
 
-## Les raisons d'une domination durable
+## Pourquoi Quanta peut-il maintenir sa position de leader ?
 
-**Profondeur technique :**  
-Quanta emploie 15 000 ingénieurs en R&D, soit 17 % de ses effectifs totaux. Des centres de recherche sont implantés à Taoyuan, Shanghai et dans la Silicon Valley. L'investissement annuel en R&D représente 2,5 à 3 % du chiffre d'affaires.
+**Profondeur technologique :**
+Quanta compte 15 000 chercheurs et développeurs, soit 17 % de son effectif total. L'entreprise possède des centres de R&D à Taoyuan, Shanghai et dans la Silicon Valley, investissant chaque année entre 2,5 % et 3 % de son chiffre d'affaires en recherche et développement.
 
-**Fidélisation des clients :**  
-Dans le modèle ODM, changer de fournisseur implique de tout reconcevoir — un coût et un risque considérables. Plus de vingt ans de partenariat avec Apple en sont la meilleure illustration.
+**Fidélité des clients :**
+La caractéristique du modèle ODM est que « les clients ne changent pas facilement de fournisseur ». Une fois la conception finalisée, changer de prestataire nécessite une nouvelle conception, ce qui implique des coûts et des risques élevés. La collaboration de plus de 20 ans entre Quanta et Apple en est le meilleur exemple.
 
-**Qualité de fabrication :**  
-Quanta applique les normes de qualité les plus strictes du secteur. Apple exige un niveau Six Sigma (99,9997 % de rendement) — Quanta non seulement l'atteint, mais continue de l'améliorer.
+**Qualité de fabrication :**
+Le contrôle du taux de défectuosité chez Quanta est l'un des plus stricts de l'industrie. Les standards de qualité d'Apple reposent sur les « six sigma » (taux de rendement de 99,9997 %) ; Quanta ne se contente pas d'atteindre ces objectifs, mais cherche constamment à s'améliorer.
 
-**Présence mondiale :**  
-Des usines à Taïwan, en Chine, en Thaïlande et au Mexique permettent à Quanta de servir ses clients au plus près tout en réduisant l'exposition aux risques géopolitiques.
+**Déploiement mondial :**
+Quanta possède des usines à Taïwan, en Chine, en Thaïlande et au Mexique, ce qui lui permet de servir ses clients à proximité tout en diversifiant les risques géopolitiques.
 
-## Les défis à venir
+## Face aux nouveaux défis
 
-**Recul du marché PC :**  
-En 2023, les livraisons d'ordinateurs portables de Quanta ont reculé de 20 % sur un an, reflétant la faiblesse du marché global. L'essor des PC IA offre de nouvelles perspectives, mais ne compense pas entièrement le déclin du marché traditionnel.
+**Déclin du marché du PC :**
+En 2023, les expéditions d'ordinateurs portables de Quanta ont chuté de 20 %, reflétant la faiblesse globale du marché des PC. Bien que l'« AI PC » apporte de nouvelles opportunités, cela ne compense pas totalement le déclin des PC traditionnels.
 
-**Concentration des clients :**  
-Les cinq premiers clients représentent 75 % du chiffre d'affaires. Toute réduction ou réorientation de commande de leur part aurait des répercussions majeures. C'est précisément la raison pour laquelle Quanta développe activement son activité IA, pour diversifier ses sources de revenus.
+**Risque de concentration des clients :**
+Les cinq principaux clients de Quanta représentent 75 % de son chiffre d'affaires. Si un client majeur réduit ses commandes ou change de fournisseur, l'impact pour Quanta sera massif. C'est pourquoi Quanta développe activement ses activités liées à l'IA pour diversifier ses risques.
 
-**La guerre technologique sino-américaine :**  
-Les principaux clients de Quanta sont américains ; la majorité de ses usines se trouve en Chine. Trouver l'équilibre dans un contexte de rivalité croissante entre Washington et Pékin est un exercice d'équilibriste permanent pour Barry Lam.
+**Guerre technologique sino-américaine :**
+Les principaux clients de Quanta sont des entreprises américaines, tandis que ses principales usines se trouvent en Chine. Trouver un point d'équilibre dans la confrontation entre les États-Unis et la Chine est le défi majeur pour la sagesse de Lin Pen-li.
 
-**Pression sur les marges :**  
-La hausse des matières premières, l'augmentation des coûts salariaux et le durcissement des réglementations environnementales compriment les marges de la sous-traitance. Quanta doit accélérer son automatisation pour rester compétitif.
+**Pression sur les coûts :**
+L'augmentation du prix des matières premières, la hausse des coûts de la main-d'œuvre et des réglementations environnementales plus strictes compriment les marges de la sous-traitance. Quanta doit sans cesse augmenter son niveau d'automatisation pour rester compétitif.
 
-## Les opportunités de l'ère IA
+## Les nouvelles opportunités de l'ère de l'IA
 
-Le marché des serveurs IA n'en est qu'à ses débuts. Selon les estimations, entre 2024 et 2026, les quatre grands acteurs du cloud mondial — Amazon, Microsoft, Google et Meta — investiront 370 milliards de dollars dans l'infrastructure IA, soit environ 11 600 milliards de NT$.
+Le marché des serveurs IA ne fait que commencer. Selon les estimations, entre 2024 et 2026, les quatre géants du cloud mondial (Amazon, Microsoft, Google, Meta) investiront 370 milliards de dollars dans les infrastructures d'IA, soit l'équivalent de 11,6 billions de dollars taïwanais.
 
-Quanta est bien positionné pour tirer parti de cette vague :
+Quanta est idéalement positionné pour cette vague :
 
-- Partenariat étroit et établi avec NVIDIA
-- Expertise en fabrication de précision et en gestion thermique
-- Capacités de production et de service à l'échelle mondiale
-- Solide expérience dans les équipements de centres de données
+- Relation étroite avec NVIDIA
+- Avantage en fabrication de précision et technologies de refroidissement
+- Capacité de production et de service mondialisée
+- Vaste expérience dans les équipements de centres de données
 
-Barry Lam prévoit que les revenus liés aux serveurs IA connaîtront une croissance « à trois chiffres » l'année prochaine, représentant plus de 70 % des activités cloud.
+Lin Pen-li prévoit que le chiffre d'affaires des serveurs IA connaîtra une « croissance à trois chiffres » l'année prochaine, et que leur part dans les activités liées au cloud dépassera les 70 %.
 
-## Pourquoi Quanta compte
+## Pourquoi Quanta est-il important ?
 
-L'histoire de Quanta est le reflet de la transformation de Taïwan, passé d'une « île d'assemblage » à une « île de conception ».
+L'histoire de Quanta est le microcosme de l'évolution de Taïwan, passant d'une « île de la sous-traitance » à une « île de la conception ».
 
-**Capacité d'innovation :** de la conception ultra-fine du MacBook Air au refroidissement liquide des serveurs IA, Quanta prouve que Taïwan ne se contente pas de fabriquer — il innove.
+**Capacité d'innovation :** De la conception ultra-fine du MacBook Air aux technologies de refroidissement liquide pour serveurs IA, Quanta prouve que Taïwan ne sait pas seulement fabriquer, mais aussi innover.
 
-**Rôle clé dans la chaîne d'approvisionnement :** Quanta est un nœud stratégique de la chaîne technologique mondiale, aussi bien à l'ère du PC qu'à l'ère de l'IA.
+**Position dans la chaîne d'approvisionnement :** Quanta est un nœud critique de la chaîne technologique mondiale ; que ce soit à l'ère du PC ou à celle de l'IA, il joue un rôle irremplaçable.
 
-**Formation des talents :** Quanta a formé d'innombrables ingénieurs et cadres, qui ont ensuite essaimé dans d'autres entreprises, dynamisant l'ensemble de l'écosystème technologique taïwanais.
+**Formation des talents :** Quanta a formé d'innombrables ingénieurs et cadres qui, en rejoignant d'autres entreprises, ont propulsé le développement de toute l'industrie technologique taïwanaise.
 
-**Modèle de montée en gamme :** de la refondation après un incendie à la transformation pour l'ère de l'IA, Quanta illustre la résilience et la capacité d'adaptation des entreprises taïwanaises.
+**Modèle de montée en gamme industrielle :** De la reconstruction après l'incendie à la transformation vers l'ère de l'IA, Quanta illustre la résilience et la capacité d'adaptation des entreprises taïwanais.
 
-L'incendie de 1987 a mis fin à la carrière de Barry Lam chez Compal — mais il a aussi allumé la flamme de Quanta. Trente-six ans plus tard, ce « grand enfant de la tech » de 75 ans continue de préparer la prochaine décennie.
+L'incendie de 1987 a consumé l'avenir de Lin Pen-li chez Compal, mais il a aussi forgé l'avenir de Quanta. 36 ans plus tard, ce « passionné de technologie » de 75 ans prépare déjà la prochaine décennie.
 
-À l'heure où l'IA redéfinit tout, Quanta se retrouve à nouveau en première ligne du changement. Cette fois, l'ambition ne se limite plus à assembler des ordinateurs — il s'agit d'assembler l'avenir.
+À une époque où l'IA redéfinit tout, Quanta se tient à nouveau à l'avant-garde du changement. Cette fois, il ne s'agit pas seulement d'assembler des ordinateurs, mais d'assembler le futur.
 
 ---
 
-## Sources
+## Références
 
-- [台灣四大電腦代工廠 2023 年營收下滑 - 財報狗](https://statementdog.com/news/3644)
-- [廣達法說會／明年 AI 伺服器營收「三位數」成長 - 經濟日報](https://money.udn.com/money/story/5612/8360302)
-- [AI 伺服器鏈旺到 2025 年 - TechNews 科技新報](https://technews.tw/2024/03/07/ai-server-supply-chain-orders-are-booming/)
-- [人物真相：林百里 從貧民窟走出來的台灣首富 - 大紀元](https://www.epochtimes.com/b5/24/8/21/n14314930.htm)
-- [林百里 - 維基百科](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E7%99%BE%E9%87%8C)
+- [Chute du chiffre d'affaires des quatre grands fabricants de PC taïwanais en 2023 - Financial Dog](https://statementdog.com/news/3644)
+- [Conférence de résultats Quanta / Croissance à « trois chiffres » prévue pour les revenus des serveurs IA l'année prochaine - Economic Daily News](https://money.udn.com/money/story/5612/8360302)
+- [La chaîne des serveurs IA restera dynamique jusqu'en 2025 - TechNews](https://technews.tw/2024/03/07/ai-server-supply-chain-orders-are-booming/)
+- [Vérité sur une personnalité : Lin Pen-li, l'homme le plus riche de Taïwan issu des quartiers pauvres - The Epoch Times](https://www.epochtimes.com/b5/24/8/21/n14314930.htm)
+- [Lin Pen-li - Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E7%99%BE%E9%87%8C)
