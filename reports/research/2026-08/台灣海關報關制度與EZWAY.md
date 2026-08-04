@@ -1359,4 +1359,16 @@ verifier 逐條核對其餘全部 atom（持股比例、董事席次、註冊人
 
 ## Result: PASS（Stage 3 大驗證輪 + 變更節定向複驗）
 
+## §Audit — Step 3.8 定稿站（2026-08-04）
+
+1×fresh Opus 定稿手，不讀藍圖/研究報告/編輯歷程，只讀成品全文＋prose-flow 逐節表＋閱讀節奏席殘餘 findings，寫到 staging 檔（不覆蓋 canonical）。`fact-atom-diff.py` 對 canonical vs staging 逐類 PASS（frontmatter／引語／數字／腳註引用與定義／URL／wikilink／H2／表格與 tw-\* 模組全部 identical）。主編 diff 抽查 24 處句級修訂（饒口句拆解、縫線疤接合、framing 詞硬接改寫、重複用字消解），確認聲音未被沖淡，親手覆蓋 canonical。
+
+順帶發現並修正一處跨 stage 遺留的腳註描述誤差（非定稿手改動範圍）：[^40]（工商時報中國占比報導）腳註描述原寫「另載中港澳合計逾 88%」，但來源原文只提「陸港合計」，不含澳門——已修正腳註描述文字為「另載陸港合計逾 88%」，正文引用內容本身原本就正確（「加上香港合計超過 88%」），此為腳註 metadata 精度修正。
+
+定稿手回報 6 項「想動但沒動」，均為結構/事實層問題不屬本站範圍，交主編：(1) section 3 最長段仍 237 字，卡 8 段上限無法再拆；(2) section 3 開頭段落三種時間刻度資料仍揉一段，同一上限問題；(3) section 4 與 section 5 各自獨立引用「2018 年降門檻理由：國內業者反映」，連讀有輕微回音，未處理；(4) 「八年來第一次被問清楚」措辭與全文論點的張力，留給主編判斷；(5) `EZ WAY`／`EZ Way`／`EZWAY` 三種寫法並存，屬專名原子未動；(6) 已在上段處理的 [^40] 腳註描述誤差。前 4 項為未來 polish 候選，不阻擋 ship。
+
+prose-flow before/after：全篇最長段落 251→237 字，全篇 median 持平 124 字，長段密度維持 25%（未變），viz 空白帶維持最長連續 2 節（未達門檻 3）。`rewrite-stage-3-5` 與 `rewrite-stage-4`（扣除預期的 image-health 媒體插入前 hard-fail）皆 PASS。
+
+## Result: PASS（Step 3.8 定稿站，fact-atom-diff PASS，canonical 已覆蓋）
+
 **缺口 2 — 紙本委任流程**：官方頁 https://web.customs.gov.tw/singlehtml/3150?cntId=cus1_3150_3150_1149（發布 2020-03-18）逐字：「民眾仍得按現行紙本作業方式，出具紙本委任書及個人身分證正反面影本供快遞報關業者據以辦理通關」——辦理對象是「快遞報關業者」非本人親跑海關。公司行號一律走此流程（Q11：https://web.customs.gov.tw/singlehtml/3150?cntId=cus1_3150_3150_1150）。官方範本可見 DHL（https://www.dhl.com/discover/content/dam/taiwan/shipping-with-dhl/start-shipping-with-dhl/個案委任書2025.pdf）、FedEx（https://www.fedex.com/content/dam/fedex/apac-asia-pacific/downloads/fedex-power-of-attorney-one-time-zh-tw.pdf）、ACS 三家一致格式，法源《關稅法》第22條第1項（與缺口1法源不同條文）。長期委任書（LPOA）https://www.fedex.com/content/dam/fedex/apac-asia-pacific/downloads/fedex-power-of-attorney-multiple-times-zh-tw.pdf（摘要未逐字核對，待核）。時效比較：四篇 2026-08-03 報導逐字查核後確認均「未提供」紙本 vs 線上速度比較，誠實標記查無，不可推論。第三條路徑：ETtoday 逐字「民眾也可透過關港貿單一窗口，以自然人憑證辦理線上委任，並非只有EZ WAY一種管道」。低信度佐證（不建議引用為事實）：PTT https://www.ptt.cc/bbs/e-shopping/M.1595564994.A.79F.html 2020年舊文網友經驗，主題是報關行作業延誤非紙本速度比較，僅供背景參考。
