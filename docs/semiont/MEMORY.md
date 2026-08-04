@@ -5,8 +5,8 @@ type: 'cognitive-log'
 status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
-last_updated: 2026-08-04
-last_session: '2026-08-04-104614-支語研究（上半場詞庫 49 新詞條＋下半場語言分支樹 Mode 4 重生）'
+last_updated: 2026-08-05
+last_session: '2026-08-05-053542-twmd-embeddings-nightly（12 語 8981 向量 0 fail，較昨夜 +116，集中在 id/hi/ar/ru/pt 五語爬升期）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -343,3 +343,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-04 | 104614-支語研究-fork-graph | 語言分支樹 Mode 4 重生：修好空白四個月的圖（Phase 6 遷移斷 selector）、10 詞 hardcode 改詞庫 derive 41 精選＋198 條密度層、滲透時間形狀首次可見 | viz 頁要「長什麼樣」級驗收；接上 SSOT 後資料到呈現當日直通 | [→](memory/2026-08-04-104614-支語研究-fork-graph.md) |
 | 2026-08-04 | 092431-ezway-rewrite | 海關報關與 EZ WAY 全 pipeline 首發（Stage 0-5 ＋ EVOLVE 進化輪），7,672 字／50 腳註／5 圖 5 viz；兩輪外部審查抓到 4 個硬錯，3 個是我自己前幾輪造的 | 把工具門檻當問題邊界＝在錯的解空間找最佳解；自修迴歸三次全由外部尺接住 | [→](memory/2026-08-04-092431-ezway-rewrite.md) |
 | 2026-08-04 | 142845-manual | EZ WAY 孢子在炒作風口重排 v5→v12（被推翻的框架提前正面回答＋補替代路徑＋保留問責），三平台 ship 含 FB 粉專首發 | 逐字無誤的同一組事實，排序不同就是兩則不同的貼文——閘門量不到策展決定 | [→](memory/2026-08-04-142845-manual.md) |
+| 2026-08-05 | 053542-twmd-embeddings-nightly | 12 語 8981 向量 0 fail，較昨夜 +116；集中在 id/hi/ar/ru/pt 五語爬升期，僅 vi 持平 | 連續兩夜爬升幅度都對得上批次翻譯焦點語言，向量數變動是判讀翻譯進度的獨立佐證 | [→](memory/2026-08-05-053542-twmd-embeddings-nightly.md) |
