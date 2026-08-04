@@ -1,123 +1,130 @@
 ---
-title: 'Annette Lu — De prisonnière politique à vice-présidente'
-description: "Pionnière du féminisme taïwanais et première femme vice-présidente du monde sinophone : le parcours exceptionnel d'Annette Lu"
+title: 'Lu Hsiu-lien (呂秀蓮)'
+description: 'De rebelle à vice-présidente : la vie légendaire de la première femme vice-présidente du monde chinois'
 date: 2026-03-22
 category: 'People'
 tags:
   [
-    'personnalité',
-    'femme politique',
-    'féminisme',
-    'vice-présidente',
-    'incident de Formosa',
+    'Personnalités',
+    'Politique',
+    'Mouvement féministe',
+    'Vice-présidence',
+    'Incident de Formose (Belle Île)',
   ]
-subcategory: 'Politique et démocratie'
+subcategory: '政治與民主'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
+curation: 'incubating'
 translatedFrom: 'People/呂秀蓮.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:4f2e975be9df55bf'
 sourceBodyHash: 'sha256:e2af78942d7ac0ac'
-translatedAt: '2026-05-13T01:08:41Z'
+translatedAt: '2026-08-04T14:00:17+08:00'
 ---
 
-> **En 30 secondes :** En 1979, Annette Lu est condamnée à douze ans de prison lors de l'incident de Formosa. En 2000, elle devient la première femme vice-présidente dans l'ensemble du monde sinophone. En vingt ans, elle a traversé les murs d'une cellule pour rejoindre les couloirs du palais présidentiel — incarnant à elle seule la transformation de Taïwan, d'un régime autoritaire vers la démocratie.
+> **Résumé en 30 secondes :** En 1979, Lu Hsiu-lien fut condamnée à 12 ans de réclusion pour son implication dans l'incident de Belle île (_Meilidao_) ;
+> En 2000, elle est devenue la première femme vice-présidente du monde chinois. Cette pionnière du féminisme taïwanais
+> a mis vingt ans pour passer de la prison à la présidence, témoignant de la transition complète de Taïwan de l'autoritarisme à la démocratie.
 
-## Comment une « rebelle » condamnée à douze ans de prison est-elle devenue vice-présidente ?
+## Comment une rebelle condamnée à 12 ans est-elle devenue vice-présidente ?
 
-Le 10 décembre 1979, dans les rues de Kaohsiung. Annette Lu, directrice adjointe du magazine _Formosa_, prend la parole lors d'un rassemblement pour les droits humains. Face au micro, elle déclare : « Le peuple taïwanais n'a jamais eu l'occasion d'exprimer son courage avec une telle force qu'aujourd'hui. » Trois jours plus tard, elle est arrêtée.
+Dans la soirée du 10 décembre 1979, dans les rues de Kaohsiung. Lu Hsiu-lien, vice-présidente de la revue _Belle île_ (_Meilidao_), prononce un discours de 20 minutes lors d'un rassemblement pour les droits de l'homme. Face au micro, elle déclare : « Les Taïwanais n'ont jamais eu l'occasion d'exprimer leur courage avec une telle force qu'aujourd'hui. » Trois jours plus tard, elle est arrêtée.
 
-Le tribunal militaire rend son verdict : « Annette Lu a cherché à renverser le gouvernement par des moyens illégaux. » Peine prononcée : douze ans de prison.
+Le verdict du tribunal militaire stipule : « Lu Hsiu-lien a tenté de renverser le gouvernement par des moyens illégaux », assorti d'une peine de 12 ans de réclusion.
 
-Vingt et un ans plus tard, le 20 mai 2000, la même Annette Lu prête serment au palais présidentiel en qualité de vice-présidente — première femme à occuper ce rang dans le monde sinophone.
+Vingt et un ans plus tard, le 20 mai 2000, cette même Lu Hsiu-lien prête serment à la présidence en tant que vice-présidente, devenant ainsi la première femme chef d'État adjointe du monde chinois.
 
-Ce n'est pas seulement un renversement de fortune personnel. C'est le reflet condensé du processus de démocratisation de Taïwan.
+Ce n'est pas seulement le renversement d'un destin individuel, mais le microcosme du processus de démocratisation de Taïwan.
 
-## Les années 1970 : le « nouveau féminisme » secoue la société
+## L'éveil des années 1970 : le nouveau féminisme ébranle la société
 
-En 1971, Annette Lu rentre à Taïwan après avoir obtenu une maîtrise en droit comparé à l'université de l'Illinois. Cette année-là, les femmes représentent déjà un tiers des étudiants à l'université, et certaines voix réclament des quotas réservés aux hommes, craignant qu'ils ne trouvent plus de place. Lu entend ces propos et réagit avec véhémence. Elle prononce un discours intitulé « La société centrée sur les hommes doit prendre fin », proposant un « nouveau féminisme » qui fait scandale : « Soyez d'abord un être humain, ensuite un homme ou une femme » et « la spatule dans la main gauche, le stylo dans la main droite ».
+En 1971, Lu Hsiuit-lien revient à Taïwan après avoir obtenu un master en droit comparé à l'Université de l'Illinois, aux États-Unis. Cette année-là, les étudiantes taïwanaises représentaient un tiers des effectifs universitaires, et des voix s'élevaient pour instaurer des « quotas réservés aux hommes », craignant que ces derniers ne manquent de places à l'université.
 
-En 1974, elle publie _Le Nouveau Féminisme_, premier ouvrage féministe écrit par une autrice locale dans l'histoire d'après-guerre de Taïwan. Son slogan — « être humain avant tout, femme ensuite » — provoque une vive controverse dans une société qui cantonnait encore les femmes au rôle d'« épouse vertueuse et mère exemplaire ». Lu fait l'effet d'une bombe.
+De retour au pays pour travailler au Comité des lois du Conseil exécutif, Lu Hsiu-lien réagit vivement à ce discours. Elle prononce un discours intitulé _Le société androcentrique devrait prendre fin_, proposant un « nouveau féminisme » qui choqua l'époque : « Être d'abord un être humain, puis un homme ou une femme », ou encore « la spatule dans la main gauche, le stylo dans la main droite ».
 
-En 1976, elle crée la ligne téléphonique d'aide aux femmes « Protect You » et fonde la maison d'édition Pioneer. Ces initiatives pionnières jettent les fondements du mouvement pour les droits des femmes à Taïwan ; on lui attribue le déclenchement de sa deuxième vague féministe.
+En 1974, elle publie _Le Nouveau Féminisme_, le premier ouvrage féministe écrit par une autochtone après la guerre. En y prônant le slogan « l'humain d'abord, la femme ensuite », elle suscite une immense controverse dans une société traditionnelle où le rôle des femmes était encore défini par l'idéal de la « femme exemplaire et mère dévouée ».
+
+En 1976, elle crée la ligne téléphonique d'assistance « Protégez-vous » et fonde les éditions _Pionnières_. Ces actions novatrices posent les bases du mouvement féministe taïwanais, faisant d'elle la figure de proue de la deuxième vague du féminisme à Taïwan.
 
 > **💡 Le saviez-vous ?**
-> Annette Lu tenait à distinguer son combat : elle parlait de « mouvement du talent féminin » plutôt que de « mouvement des droits des femmes », et insistait sur son caractère local, non importé d'Occident. Son objectif était d'encourager les femmes taïwanaises à développer leurs capacités, pas seulement à revendiquer des droits.
+> Lu Hsiu-lien insistait sur le fait qu'elle prônait un « mouvement pour le talent féminin » plutôt qu'un simple « mouvement pour les droits des femmes », une initiative « locale et authentique » plutôt qu'une importation occidentale. Elle souhaitait que les femmes de Taïwan développent leurs propres compétences, au-delà de la simple lutte pour le pouvoir.
 
-## L'incident de Formosa : d'activiste féministe à martyre de la démocratie
+## L'incident de Belle île : de militante féministe à martyre de la démocratie
 
-À la fin de 1978, Annette Lu renonce à son doctorat à Harvard et rentre à Taïwan pour s'engager en politique. À l'approche de la rupture diplomatique entre les États-Unis et la Chine, elle pressent que Taïwan est à un tournant et décide d'élargir son combat : du féminisme vers la démocratie.
+Fin 1978, Lu Hsiu-lien renonce à poursuivre son doctorat à l'Université Harvard pour revenir à Taïwan et s'engager en politique. Alors que la rupture des relations entre la Chine et les États-Unis est imminente, elle réalise que Taïwan fait face à des changements majeurs et décide d'étendre son combat du féminisme au mouvement démocratique.
 
-Elle rejoint le magazine d'opposition _Formosa_ en tant que directrice adjointe. Le 10 décembre 1979, Journée mondiale des droits humains, la rédaction organise un rassemblement à Kaohsiung pour réclamer la liberté et la démocratie. Annette Lu y prend la parole :
+Elle rejoint la revue extra-partisane _Belle île_ en tant que vice-présidente. Le 10 décembre 1979, Journée mondiale des droits de l'homme, la rédaction organise un rassemblement à Kaohsiung pour appeler à la liberté et à la démocratie. Lu Hsiu-lien y s'exprime :
 
-_« Chers compatriotes, compatriotes taïwanais de bonne conscience… Aujourd'hui est un jour grand. J'espère que vous exprimerez vos applaudissements les plus chaleureux pour sauver notre destin commun. »_
+_« Chers compatriotes, compatriotes taïwanais dotés de conscience... Aujourd''hui est un grand jour. J'espère que chacun utilisera ses applaudissements les plus chaleureux pour sauver notre destin de survie. »_
 
-Ce discours marque un tournant définitif. Après l'incident de Formosa, Annette Lu est arrêtée aux côtés des dirigeants du mouvement démocratique — Shih Ming-teh, Lin Yi-hsiung, Chen Chu et d'autres. Le tribunal militaire la condamne à douze ans de prison ; elle en purgera cinq ans et huit mois.
+Ce discours devient le tournant de sa vie. Après l'éclatement de l'incident de Belle île, Lu Hsiu-lien est arrêtée aux côtés de leaders du mouvement démocratique tels que Shih Ming-te, Lin Yi-hsiung et Chen Chu. Lors du procès militaire, elle est condamnée à 12 ans de prison, dont elle purgera effectivement 5 ans et 8 mois.
 
-Dans les centres de détention de Jingmei et Tucheng, Annette Lu ne se laisse pas briser. Elle lit, réfléchit, et écrit même un roman intitulé _Ces trois femmes_ sur du papier toilette, en utilisant une cuvette comme bureau pour échapper à la surveillance des gardiens.
+Durant ses années d'incarcération dans les prisons de Jingmei et de Tucheng, Lu H'siu-lien ne s'est pas laissé briser. Elle lisait et réfléchissait en cellule, allant jusqu'à écrire le roman _Ces trois femmes_ sur des morceaux de papier toilette, utilisant une bassine comme bureau pour échapper à la surveillance des gardiens.
 
-> **📝 Note de la rédaction**
-> Parmi les huit figures du groupe de Formosa libérées de prison, tous sauf Lin Hung-hsuan ont occupé à un moment ou un autre la présidence ou la présidence par intérim du Parti démocrate progressiste. Annette Lu est la seule à avoir atteint le rang de vice-présidente, et la seule femme du groupe.
+> **📝 Note du commissaire**
+> Les destins des « huit membres du groupe Belle île » ont divergé après leur sortie de prison : à l'exception de Lin Hung-hsuan, les sept autres ont occupé le poste de président ou président par intérim du Parti démocratique progressiste (DPP). Lu Hsiu-lien est la seule parmi eux à être devenue vice-présidente, et la seule femme.
 
-## Le retour en politique : de préfète à vice-présidente
+## Retour sur la scène politique : de préfète à vice-présidente
 
-En 1985, Annette Lu est libérée par grâce spéciale de Chiang Ching-kuo avant la fin de sa peine. À son retour sur la scène publique, elle poursuit son engagement pour la démocratie et participe, en 1986, à la fondation du Parti démocrate progressiste.
+En 1985, Lu Hsiu-lien est libérée par une amnistie accordée par Chiang Ching-kuo. À son retour, elle continue de promouvoir le mouvement démocratique et devient l'une des figures fondatrices du DPP en 1986.
 
-En 1992, elle est élue au Yuan législatif, avec un mandat centré sur les affaires étrangères. En 1996, après l'assassinat du préfet de Taoyuan Liu Pang-yu et de sa famille, le PDP sollicite Annette Lu pour se présenter à l'élection partielle pour la préfecture.
+En 1992, elle est élue membre du Legislative Yuan, concentrant ses activités politiques sur les affaires diplomatiques. En 1996, suite à l'assassinat de la famille de Liu Pang-yu, préfet du comté de Taoyuan, le DPP appelle Lu Hsiu-lien à se présenter lors des élections partielles pour le comté.
 
-En mars 1997, elle est élue préfète de Taoyuan avec 55,31 % des voix, devenant ainsi la première femme à diriger une préfecture taïwanaise par voie d'élection directe. Durant son mandat, elle lance des projets ambitieux — « bâtir une côte dorée », « développer la Silicon Valley de Taoyuan » — et s'impose comme une figure de la protection de l'environnement, surnommée la « marraine de l'écologie » à Taïwan.
+En mars 1997, elle est élue préfète de Taoyuan avec 55,31 % des voix, devenant la première femme élue au suffrage universel à diriger un comté à Taïwan. Durant son mandat, elle lance des politiques telles que « Créer la côte dorée » ou le « Développement de la Silicon Valley de Taoylaguan », et s'engage activement pour l'environnement, ce qui lui vaut d'être surnommée la « marraine de l'écologie » à Taïwan.
 
-En 2000, Chen Shui-bian l'invite à former un ticket présidentiel avec lui. L'association est symboliquement forte : tous deux ont été incarcérés à la suite de l'incident de Formosa, et ils défient désormais cinquante ans de domination du Parti nationaliste.
+En 2000, Chen Shui-bian l'invite à former un ticket présidentiel avec lui. Ce duo est hautement symbolique : tous deux ont été emprisonnés à cause de l'incident de Belle île et s'apprêtent désormais à défier les 50 ans de règne du Kuomintang (KMT).
 
-Le 18 mars 2000, les résultats tombent : le ticket Chen-Lu remporte l'élection avec 39,30 % des voix. Annette Lu entre dans l'histoire comme la première femme vice-présidente du monde sinophone.
+Le 18 mars, lors du dépouillement : le ticket Chen-Lu est élu avec 39,30 % des voix. Lu Hsiu-lien entre dans l'histoire en devenant la première femme vice-présidente du monde chinois.
 
-## Huit ans à la vice-présidence : diplomatie douce et droits humains
+## Huit années de vice-présidence : diplomatie douce et promotion des droits de l'homme
 
-De 2000 à 2008, Annette Lu déploie une « diplomatie douce », multipliant les visites auprès des pays alliés. Elle préside le groupe consultatif sur les droits humains à la présidence de la République et pilote l'adoption de la loi sur l'égalité des genres dans l'éducation — une avancée majeure pour l'égalité entre les sexes à Taïwan.
+Durant son mandat de vice-présidente (2000-2008), Lu Hsiu-lien promeut la « diplomatie douce » (_soft diplomacy_) lors de nombreuses visites dans des pays alliés. Elle préside le groupe consultatif sur les droits de l'homme de la présidence et œuvre pour l'adoption de la _Loi sur l'éducation à l'égalité entre les sexes_, une étape cruciale pour l'égalité des genres à Taïwan.
 
-En 2001, elle reçoit le Prix mondial de la paix — une récompense qui suscite la controverse à Taïwan, mais qui témoigne de la reconnaissance internationale de son combat pour la démocratie, de la prison aux plus hautes sphères du pouvoir.
+En 2001, elle reçoit le « Prix de la Paix Mondiale ». Bien que ce prix ait suscité des controverses à Taïwan, il a été reconnu internationalement comme une distinction pour son parcours démocratique, de la prison au sommet du pouvoir.
 
-Le 19 mars 2004, la veille de l'élection présidentielle, Annette Lu est blessée par balle à Tainan ; une balle lui atteint le genou droit, tandis que Chen Shui-bian est touché à l'abdomen. Cet « attentat du 19 mars » reste à ce jour controversé, mais le ticket Chen-Lu est réélu le lendemain avec une avance infime de 0,228 %.
+Le 19 mars 2004, la veille des élections, Lu Hsiu-lien est victime d'une tentative d'assassinat à Tainan ; elle est blessée au genou droit, tandis que Chen Shui-bian est touché à l'abdomen. L'incident de « l'attentat du 319 » reste controversé, mais le ticket Chen-Lu parvient à se faire réélire le lendemain avec une infime avance de 0,228 %.
 
 > **⚠️ Points de controverse**
-> Durant son mandat, Annette Lu a tenu plusieurs propos controversés, notamment sur le sida — qu'elle a décrit comme une « punition divine » — et sur l'identité des peuples autochtones de Taïwan. Sa franchise lui vaut à la fois des partisans indéfectibles et des critiques virulentes.
+> Durant son mandat, Lu Hsiu-lien a tenu certains propos polémiques, notamment ses déclarations sur le « châtiment divin du SIDA » ou affirmant que « les autochtones ne sont pas les autochtones de Taïwan », ce qui a suscité des critiques sociales. Sa personnalité directe lui a valu autant de partisans inébranlables que de détracteurs acharnés.
 
-## La conscience écologique : une pionnière en avance sur son temps
+## Vision écologique : une pionnière à Taïwan
 
-Au-delà de ses accomplissements politiques, Annette Lu est l'une des figures centrales du mouvement environnemental taïwanais. Très tôt, elle prend conscience des tensions entre développement économique et protection de l'environnement ; en tant que préfète de Taoyuan, elle met en place le tri sélectif et des programmes de restauration des cours d'eau.
+Au-delà de ses accomplissements politiques, Lu Hsiu-lien est un moteur essentiel du mouvement écologique à Taïwan. Elle a très tôt compris l'enjeu de l'équilibre entre développement économique et protection de l'environnement, promouvant le tri des déchets et l'assainissement des rivières lors de son mandat de préfète de Taoyuan.
 
-Elle défend un développement durable et prône la sobriété contre la surconsommation — des idées peu répandues dans les années 1990, devenues aujourd'hui un consensus social. Sa politique « zéro déchet jeté dans la rue » a profondément transformé les habitudes des Taïwanais, et ses effets se font encore sentir aujourd'hui.
+Elle prône le concept de « développement durable », encourageant un mode de vie sobre et s'opposant à la surconsommation. Ces idées écologiques, peu acceptées dans les années 1990, font aujourd'hui partie du consensus social.
+
+Sa politique du « zéro déchet au sol » a transformé les habitudes environnementales des Taïwanais, avec une influence qui perdure encore aujourd'hui.
 
 ## Héritage politique et controverses
 
-La carrière d'Annette Lu n'est pas sans aspérités. Elle a tenté à plusieurs reprises d'obtenir l'investiture du PDP pour la présidence, sans succès. En 2018, elle annonce son « départ spirituel » du parti, dénonçant le PDP de l'ère Tsai Ing-wen comme méconnaissable par rapport à ses origines.
+La carrière politique de Lu Hsiu-lien est marquée par des controverses. Elle a participé à plusieurs primaires présidentielles du DPP sans succès, et en 2018, elle a annoncé sa « rupture spirituelle » avec le parti, critiquant le DPP de l'ère Tsai Ing-wen comme n'étant plus le même que celui d'autrefois.
 
-Elle propose le concept de « consensus de 1996 » — selon lequel Taïwan est un État souverain et indépendant depuis l'élection présidentielle au suffrage direct de 1996 — en réponse au « consensus de 1992 » défendu par le Parti nationaliste. Dans les dernières années de sa carrière, elle milite pour la « neutralité pacifique » de Taïwan, estimant que l'île ne doit pas choisir de camp entre les États-Unis et la Chine.
+Elle a soutenu le « Consensus du 96 », affirmant que Taïwan est un État souverain et indépendant depuis les élections présidentielles directes de 1996, s'opposant ainsi au « Consensus du 92 » du KMT. Plus tard, elle a plaidé pour une « neutralité pacifique » de Taïwan, estimant que l'île ne devrait pas choisir de camp entre la Chine et les États-Unis.
 
-Son caractère direct et ses prises de position tranchées lui valent le respect comme les critiques. Le journal _Apple Daily_ l'a décrite ainsi : « Son parcours académique et professionnel est sans égal parmi les "quatre grandes figures" du PDP, mais sa personnalité et ses émotions déconcertent souvent… Pourtant, sa franchise dans un monde politique de faux-semblants a une valeur précieuse. »
+Sa franchise et ses positions tranchées lui ont valu tant le respect que la critique sur la scène politique. Le _Apple Daily_ commentait autrefois : « Son parcours académique et professionnel est inégalé parmi les quatre grands piliers du DPP, mais sa personnalité et ses émotions sont souvent difficiles à soutenir... cependant, sa franchise et son courage de dire la vérité sont des qualités précieuses dans le monde manipulateur de la politique. »
 
-> **📊 Repères biographiques**
-> Parcours institutionnel d'Annette Lu : 1 mandat au Yuan législatif (1993-1996), 2 mandats comme préfète de Taoyuan (1997-2000), 2 mandats comme vice-présidente (2000-2008) — la seule vice-présidente réélue dans l'histoire de Taïwan après la levée de la loi martiale.
+> **📊 Sources de données**
+> Parcours politique de Lu Hsiu-lien : 1 mandat de députée (1993-1996), 2 mandats de préfète de Taoyuan (1997-2000), 2 mandats de vice-présidente (2000-2008). Elle est la seule vice-présidente à avoir été réélue après la levée de la loi martiale à Taïwan.
 
-## Portée historique : le sens d'une pionnière
+## Position historique : la signification d'une pionnière
 
-Rétrospectivement, Annette Lu est le miroir des transformations de la société taïwanaise. Dans les années 1970, elle éveille la conscience féministe. Dans les années 1980, elle s'engage dans le mouvement pour la démocratie. Dans les années 1990, elle participe à la vie des partis. Dans les années 2000, elle atteint le sommet du pouvoir.
+En regardant l'œuvre de Lu Hsiu-lien, on y voit un miroir des mutations de la société taïwanaise. Dans les années 1970, elle a porté l'éveil féministe ; dans les années 1980, elle s'est engagée pour la démocratie ; dans les années 1990, elle a participé à la vie partisane ; et dans les années 2000, elle a atteint le sommet du pouvoir.
 
-Elle a tracé la voie pour les femmes en politique à Taïwan. Après elle, des figures comme Tsai Ing-wen ont émergé ; Taïwan occupe désormais l'un des premiers rangs en Asie pour la représentation des femmes en politique.
+Elle a ouvert la voie à la participation politique des femmes à Taïwan. Grâce à elle, des figures politiques féminines exceptionnelles comme Tsai Ing-wen ont pu émerger, faisant de la proportion de femmes engagées en politique à Taïwan l'une des plus élevées d'Asie.
 
-Son histoire nous dit ceci : le progrès social exige des personnes qui osent défier l'ordre établi. De la condamnation pour « rébellion » à la vice-présidence, elle a mis vingt ans à prouver une conviction — les graines de la démocratie finissent toujours par germer, les murs des régimes autoritaires finissent toujours par tomber.
+Son histoire nous enseigne que le progrès social nécessite des individus prêts à défier le statu quo. De la condamnation pour « rébellion » à la vice-présidence, elle a prouné pendant vingt ans une conviction : les graines de la démocratie finissent toujours par germer, et les murs de l'autoritarisme finiront par s'effondrer.
 
-Comme elle l'a écrit dans sa cellule : « Nous ne nous battons pas par haine, mais par amour. » Un amour de la liberté, de la terre et de l'avenir.
+Comme elle l'a écrit en prison : « Nous ne combattons pas pour la haine, mais pour l'amour. » Cet amour est celui de la liberté, de la terre et de l'avenir.
 
-**Ce n'est pas seulement la victoire d'Annette Lu. C'est la victoire de la démocratie taïwanaise.**
+**Ce n'est pas seulement la victoire personnelle de Lu Hsiu-lien, c'est la victoire de la démocratie taïwanaise.**
 
 ## Références
 
-- [呂秀蓮 - Wikipédia (zh)](https://zh.wikipedia.org/zh-tw/%E5%91%82%E7%A7%80%E8%93%AE)
+- [Lu Hsiu-lien - Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%91%82%E7%A7%80%E8%93%AE)
 - [Annette Lu - Wikipedia](https://en.wikipedia.org/wiki/Annette_Lu)
-- [美麗島事件40週年：見證者和前副總統呂秀蓮感嘆台灣民主倒退 - BBC News 中文](https://www.bbc.com/zhongwen/trad/chinese-news-50286723)
-- [台灣女性主義運動 - Wikipédia (zh)](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%A5%B3%E6%80%A7%E4%B8%BB%E7%BE%A9%E9%81%8B%E5%8B%95)
-- [呂秀蓮 - 國家人權記憶庫](https://memory.nhrm.gov.tw/TopicExploration/Person/Detail/884)
-- [新女性主義 - 博客來](https://www.books.com.tw/products/0010421214)
+- [40e anniversaire de l'incident de Belle île : les témoins et l'ancienne vice-présidente Lu Hsiu-lien déplorent le recul de la démocratie à Taïwan - BBC News Chinois](https://www.bbc.com/zhongwen/trad/chinese-news-50286723)
+- [Mouvement féministe à Taïwan - Wikipédia](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E5%A5%B3%E6%80%A7%E4%B8%BB%E7%BE%A9%E9%81%8B%E5%8B%95)
+- [Lu Hsiu-lien - Archives nationales de la mémoire des droits de l'homme](https://memory.nhrm.gov.tw/TopicExploration/Person/Detail/884)
+- [Le Nouveau Féminisme - Books.com.tw](https://www.books.com.tw/products/0010421214)

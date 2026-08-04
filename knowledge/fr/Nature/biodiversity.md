@@ -1,137 +1,138 @@
 ---
-title: 'La biodiversité de Taïwan'
-description: 'Taïwan ne représente que 0,025 % des terres émergées du globe, mais abrite plus de 50 000 espèces répertoriées, avec un taux de couverture forestière de 60,71 % — classé 33e au monde.'
+title: 'Biodiversité'
+description: 'Avec seulement 0,025 % de la surface mondiale, Taïwan abrite plus de 50 000 espèces et occupe le 33e rang mondial pour son taux de couverture forestière (60,71 %).'
 date: 2026-03-21
+category: 'Nature'
 tags:
   [
-    'biodiversité',
-    'espèces endémiques',
-    'conservation',
-    'écosystèmes',
-    "protection de l'environnement",
+    'Biodiversité',
+    'Espèces endémiques',
+    'Conservation de la biodiversité',
+    'Écosystème',
+    "Protection de l'environnement",
   ]
-subcategory: 'Écosystèmes'
+subcategory: '生態系統'
 author: 'Taiwan.md'
-difficulty: 'intermediate'
-readingTime: 8
-featured: true
-category: 'Nature'
+featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
+difficulty: 'intermediate'
+readingTime: 8
+curation: 'incubating'
 translatedFrom: 'Nature/生態多樣性.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:7c8e2ae7ead043fa'
 sourceBodyHash: 'sha256:337a7730efae1092'
-translatedAt: '2026-04-14T19:23:22+08:00'
+translatedAt: '2026-08-04T14:00:17+08:00'
 ---
 
-# La biodiversité de Taïwan
+# Biodiversité
 
-> **En 30 secondes :** Taïwan représente à peine 0,025 % des terres émergées de la planète, mais abrite plus de 50 000 espèces animales et végétales répertoriées. Son taux de couverture forestière atteint 60,71 %, soit le 33e rang mondial — le double de la moyenne mondiale de 30,3 %. Du niveau de la mer jusqu'au sommet du mont Yushan à 3 952 mètres, l'île offre un gradient écologique complet qui a façonné des taux d'endémisme vertigineux : 71 % pour les mammifères, 60 % pour certains groupes d'insectes.
+> **Aperçu en 30 secondes :** Bien que Taïwan ne représente que 0,25 % des terres émergées de la planète, elle abrite plus de 50 000 espèces animales et végétales répertoriées. Son taux de couverture forestière atteint 60,71 %, se classant au 30e rang mondial et doublant la moyenne mondiale de 30,3 %. De l'altitude du niveau de la mer jusqu'au sommet du mont Yushan (3 952 m), l'île présente un gradient écologique complet, favorisant des taux d'endémisme spectaculaires : 71 % pour les mammifères et 60 % pour certains groupes d'insectes.
 
-Comment cette petite île située sur le tropique du Cancer a-t-elle réussi à s'imposer parmi les points chauds de la biodiversité mondiale ? La réponse tient à la position géographique singulière de Taïwan et à la complexité extraordinaire de son relief.
+Pourquoi cette petite île située sur le tropique du Cancer figure-t-elle parmi les points chauds de la biodiversité mondiale ? La réponse réside dans la position géographique unique de Taïwan et sa topographie complexe.
 
-## Un archipel de vie : le miracle derrière les chiffres
+## Une petite île, une grande vitalité : les miracles derrière les chiffres
 
-Le **Catalogue of Life Taiwan, publié par l'Academia Sinica en 2009**, recense plus de 50 000 espèces sur l'île, soit environ 2,5 % des espèces connues à l'échelle mondiale. Ce pourcentage peut sembler modeste — jusqu'à ce qu'on le rapporte à une superficie de seulement 36 000 km². La densité biologique qui en résulte est tout simplement remarquable.
+Selon l'**Inventaire des espèces de Taïwan publié par l'Academia Sinica en 2009**, plus de 50 000 espèces ont été recensées sur l'île, soit environ 2,5 % du total mondial. Bien que ce ratio puisse paraître modeste, la densité biologique est stupéfiante compte tenu de la superficie terrestre de Taïwan qui n'est que de 36 000 km².
 
-Les taux d'endémisme sont plus impressionnants encore :
+Le taux d'endémisme est encore plus impressionnant :
 
-- **Mammifères** : 71 % (notamment le macaque de Formose et l'ours noir de Taïwan)
-- **Amphibiens** : 31 % (dont la salamandre de montagne de Taïwan)
+- **Mammifères** : 71 % (tels que l'ours noir de Formose ou le macaque de Formose)
+- **Amphibiens** : 31 % (comme la salamandre de Formose)
 - **Plantes** : 25 %
 - **Certains groupes d'insectes** : jusqu'à 60 %
 
-Ces chiffres traduisent la singularité géographique de l'île : isolée du continent, Taïwan a favorisé l'évolution d'espèces propres à son territoire, tandis que la diversité des reliefs et des microclimats a multiplié les niches écologiques disponibles.
+Ces chiffres reflètent l'unicité de la géographie insulaire de Taïwan : son isolement par rapport au continent a favorisé l'évolution d'espèces endémiques, tandis que le relief complexe et les variations climatiques ont créé une multitude de niches écologiques.
 
-## Un étagement vertical unique : des tropiques à l'arctique en 4 000 mètres
+## Un spectacle écologique vertical : des tropiques aux zones froides
 
-La caractéristique écologique la plus frappante de Taïwan est son **gradient altitudinal complet**. En moins de 4 000 mètres de dénivelé, l'île concentre toutes les zones climatiques, du tropical au subarctique :
+La caractéristique écologique la plus singulière de Taïwan est son **gradient écologique vertical**. En moins de 4 000 mètres de dénivelé, l'île présente l'intégralité des zones climatiques, des tropiques aux zones froides :
 
-**0 à 500 m** : forêt tropicale de mousson, dominée par les figuiers banians et les arbres Camellia sasanqua
-**500 à 1 500 m** : forêt subtropicale à feuilles larges, avec camphriers et lauriers en abondance
-**1 500 à 2 500 m** : forêt tempérée mixte, peuplée des majestueux cyprès de Taïwan
-**2 500 à 3 500 m** : forêt subalpine de conifères, avec sapins et pruches adaptés au froid
-**Au-delà de 3 500 m** : végétation alpine, ponctuée de rhododendrons et d'edelweiss de Yushan
+**Du niveau de la mer à 500 m** : forêt tropicale de mousson, représentée par les ficus et les _Ficus virens_.
+**De 500 à 1 500 m** : forêt de feuillus subtropicale, où prospèrent les camphriers et les lauriers.
+**De 1 500 à 2 500 m** : forêt mixte de conifères et de feuillus tempérés, caractérisée par les grands cyprès de Formose (_Chamaecyparis formosensis_).
+**De 2 500 à 3 500 m** : forêt de conifères subalpine, où le sapin de Formose et le sapin de Tsuga s'adaptent au froid intense.
+**Au-dessus de 3 500 m** : zone de végétation alpine, parsemée de rhododendrons du mont Yushan et d'herbacées alpines.
 
-Cette stratification verticale est extrêmement rare à l'échelle mondiale : en 36 000 km², Taïwan condense des écosystèmes représentatifs de la majorité des zones climatiques terrestres.
+Cette distribution verticale est extrêmement rare à l'échelle mondiale, permettant à Taïwan de concentrer, sur ses 36 000 km², des écosystèmes représentatifs de la majeure partie des zones climatiques de la Terre.
 
-## Un royaume forestier : 60,71 % de couverture verte
+## Le royaume forestier : une couverture verte au 33e rang mondial
 
-Avec un **taux de couverture forestière de 60,71 %**, Taïwan se classe au 33e rang mondial — soit deux fois la moyenne globale de 30,3 %. Une performance d'autant plus remarquable dans une région aussi densément développée.
+**Le taux de couverture forestière de Taïwan est de 60,71 %**, ce qui lui vaut la 3lanse mondiale au 33e rang, soit le double de la moyenne mondiale de 30,3 %. Ce chiffre est d'autant plus précieux dans une région fortement développée.
 
-Les disparités entre comtés sont importantes :
+Le taux de couverture forestière varie considérablement selon les comtés :
 
-- **Comté de Taitung** : 81,64 % (record national)
+- **Comté de Taitung** : 81,64 % (le plus élevé)
 - **Comté de Hualien** : 80,54 %
-- **Comté de Yilan** : 78,55 %
-- À l'inverse, les comtés de la plaine occidentale affichent généralement moins de 20 %
+- **Comté d'Yilan** : 78,55 %
+- À l'inverse, les comtés des plaines de l'ouest affichent souvent un taux inférieur à 20 %.
 
-Ces forêts ne sont pas seulement un écrin paysager : elles constituent le cœur de la biodiversité insulaire. Environ 86 % de la surface forestière bénéficie d'une protection légale, dont 73 % de forêts naturelles et 27 % de plantations.
+Ces forêts ne sont pas seulement des paysages magnifiques ; elles constituent le cœur de la biodiversité de Taïwan. Environ 86 % des forêts sont protégées par la loi, dont 73 % de forêts naturelles et 27 % de forêts artificielles.
 
-## Les espèces en péril : derniers refuges
+## Le dernier bastion des espèces menacées
 
-### Le chat léopard de Taïwan : sentinelle des écosystèmes de basse montagne
+### Le tigre de Formose : espèce indicatrice des écosystèmes de piémont
 
-Seul félin sauvage encore présent sur l'île, le chat léopard de Taïwan (Prionailurus bengalensis) ne compte plus qu'environ 500 individus, principalement répartis dans les zones de basse montagne des comtés de Miaoli, Taichung et Nantou.
+Le tigre de Formose (_Spilomycus taivannus_), l'unique félin indigène subsistant à Taïwan, est estimé à seulement environ 500 individus, principalement répartis dans les zones de piémont des comtés de Miaoli, Taichung et Nantou.
 
-**La mortalité routière constitue la menace la plus immédiate**. Selon les données de l'équipe Leopard Cat Tiger, 25 individus ont été tués sur les routes en 2021 : 15 dans le comté de Miaoli, 6 dans celui de Nantou, et 2 chacun dans les comtés de Taichung et Changhua. Les accidents sont concentrés le long des cours d'eau Houlong, Zhuoshui et Maoluo, révélant la gravité de la fragmentation des habitats.
+**Les collisions routières constituent la menace la plus directe pour le tigre de Formose**. Selon les statistiques de l'équipe A-Hu, 25 tigres de Formose ont péri sous des véhicules en 2021 (15 à Miaoli, 6 à Nantou, et 2 chacun à Taichung et Changhua). Les décès sont survenus principalement le long des rivières Houlong, Zhuoshui et Maoluo, illustrant la grave fragmentation de l'habitat.
 
-### Le panthère nébuleuse de Taïwan : un roi disparu
+### Le panthère nébuleuse de Formose : un roi disparu
 
-En 2014, des chercheurs ont officiellement déclaré l'extinction de la panthère nébuleuse de Taïwan. La dernière observation confirmée remontait à 1983. La disparition de cette sous-espèce endémique a marqué un tournant dans la prise de conscience collective autour de la conservation, et a accéléré les efforts en faveur des espèces encore menacées.
+En 2014, les scientifiques ont officiellement déclaré l'extinction de la panthère névarande de Formose (_Neofelis nebulosa formosana_), la dernière observation confirmée remontant à 1983. La disparition de cette sous-espèce endémique a marqué un tournant dans la prise de conscience de la conservation à Taïwan, incitant la société à accorder plus d'importance à la protection des espèces menacées actuelles.
 
-### L'ours noir de Taïwan : seigneur des forêts
+### L'ours noir de Formose : le maître des montagnes
 
-Plus grand mammifère terrestre de l'île, l'ours noir de Taïwan est estimé à 500–700 individus. Protégé par la loi, il reste confronté à la fragmentation de son habitat et aux conflits avec les populations humaines. Ces dernières années, les autorités et la société civile ont multiplié les initiatives : installation de clôtures électriques, mise en place de systèmes de surveillance.
+Le plus grand mammifère terrestre de Taïwan, dont la population est estimée entre 500 et 700 individus. Bien que protégé par la loi, il reste confronté à la fragmentation de son habitat et aux conflits homme-ours. Ces dernières années, le gouvernement et les organisations civiles ont activement promu des programmes de conservation, incluant l'installation de clôtures électriques et la mise en place de systèmes de surveillance.
 
-## Les trésors de l'océan
+## Les trésors de l'écosystème marin
 
-Entourée de 1 566 kilomètres de côtes, Taïwan bénéficie d'une vie marine exceptionnellement riche. **Le Kuroshio, le courant côtier chinois et d'autres masses d'eau se rencontrent ici**, apportant nutriments et espèces en abondance.
+Entourée par la mer, Taïwan possède une ligne de côte de 1 566 km qui abrite une riche biodiversité marine. **La convergence de plusieurs courants, tels que le Kuroshio et le courant côtier de Chine**, apporte des nutriments abondants et une grande variété biologique.
 
-**Les récifs coralliens sont le joyau de l'écosystème marin taïwanais**, que l'on retrouve au cap Bitou, sur la côte nord, à Green Island, Lanyu, Orchid Island et à Kenting. Taïwan répertorie environ 300 espèces de coraux, soit un tiers de la diversité mondiale. Ces récifs sont pourtant lourdement menacés par les changements climatiques, la pollution marine et le tourisme excessif.
+**Les récifs coralliens sont les joyaux de l'écosystème marin taïwanais**, répartis dans le coin nord-est, sur la côte nord, à l'île de Lüdao, à l'île aux Orchidées (Lanyu) et à Kenting. Taïwan enregistre environ 300 espèces de coraux, soit un tiers de la richesse mondiale. Cependant, le changement climatique, la pollution marine et le surtourisme menacent gravement ces récifs.
 
-## Une success story : la renaissance de la spatule à face noire
+## Une réussite exemplaire : le miracle de la Spatule à bec cuillère
 
-**La spatule à face noire (Platalea minor) est l'un des emblèmes de la conservation réussie à Taïwan**. En 1988, il n'en restait que 288 individus dans le monde. Taïwan a alors participé à la mise en place d'un réseau de coopération internationale avec la Corée du Sud, la Chine continentale, Hong Kong et le Japon.
+**La Spatule à bec cuillère est un modèle de réussite pour la conservation à Taïwan**. En 1988, il n'en restait que 288 dans le monde. Grâce à une collaboration internationale entre Taïwan, la Corée du Sud, la Chine continentale, Hong Kong et le Japon, un réseau de coopération transfrontalière a été établi.
 
-Grâce à la restauration d'habitats, à la surveillance internationale coordonnée et à l'éducation environnementale, les populations se sont régulièrement reconstituées : **en 2024, le nombre d'individus atteint 6 162**. Le site de Cigu, dans le comté de Tainan, est devenu l'un des sites d'hivernage les plus importants de l'espèce. Ce cas illustre comment la coopération transnationale et l'engagement sur le long terme peuvent inverser le destin d'une espèce menacée.
+Grâce à l'aménagement des habitats, à la surveillance internationale et à l'éducation environnementale, leur population est en croissance stable, **atteignant 6 162 individus en 2024**. Des sites comme Qigu sont devenus d'importants habitats d'hivernage. Ce cas de réussite prouve que la coopération transnationale et un engagement à long terme peuvent inverser le destin d'une espèce menacée.
 
-## Les espèces invasives : une menace invisible
+## Espèces invasives : les tueurs invisibles des écosystèmes
 
-Taïwan est confrontée à un problème sérieux d'espèces exotiques envahissantes :
+Taïwan fait face à un grave problème d'espèces invasives :
 
-**Les envahisseurs du monde végétal** : la Mikania micrantha recouvre collines et forêts, tandis que l'acacia argenté (Leucaena leucocephala) altère la composition chimique des sols.
-**Les perturbateurs aquatiques** : l'ampullaire dorée ravage les rizières, et l'écrevisse américaine menace la faune dulçaquicole indigène.
-**Les colonisateurs du sol** : la fourmi de feu rouge a établi d'immenses colonies souterraines et fait preuve d'une agressivité redoutable.
+**Les envahisseurs du règne végétal** : l'ambroisie (_Ambrosia artemisiifolia_) recouvre les montagnes, tandis que le mimosa (_Acacia dealbata_) modifie la composition des sols.
+**Les destructeurs aquatiques** : l'escargot pomme (_Pomacea canaliculata_) dégrade les rizières, et l'écrevisse de Louisiane menace la faune d'eau douce locale.
+**Les envahisseurs du sol** : la fourmi de feu (_Solenopsis invicta_) établit de vastes colonies souterraines extrêmement agressives.
 
-En l'absence de prédateurs naturels, ces espèces se propagent rapidement et déséquilibrent gravement les écosystèmes locaux.
+Privées de prédateurs naturels, ces espèces invasives se propagent rapidement, menaçant gravement l'équilibre des écosystèmes autochtones.
 
-## Les défis du changement climatique
+## Le défi du changement climatique
 
-**Le changement climatique frappe en priorité les écosystèmes de haute montagne**. À mesure que les températures montent, les zones favorables aux espèces alpines reculent inexorablement vers le sommet — jusqu'à n'avoir plus nulle part où aller.
+**Le changement climatique impacte principalement les écosystèmes de haute montagne à Taïwan**. Avec la hausse des températures, les habitats propices aux plantes alpines reculent continuellement vers le haut, jusqu'à ne plus avoir d'issue.
 
-Le rhododendron de Yushan, le sapin de Taïwan et d'autres espèces spécifiques aux hauteurs se retrouvent dans une impasse écologique. Les scientifiques estiment qu'un réchauffement de 2 °C à l'échelle mondiale provoquerait des bouleversements majeurs dans les écosystèmes montagnards de Taïwan.
+Les espèces endémiques comme le rhododendron du mont Yushan ou le sapin de Formose font face au dilemme de « l'absence de refuge ». Les scientifiques estiment qu'une augmentation mondiale de 2 °C provoquerait des changements radicaux dans les écosystèmes de haute montagne taïwanais.
 
-La montée du niveau de la mer menace également les zones humides côtières, qui constituent des haltes essentielles sur les routes migratoires des oiseaux. Comment concilier développement et conservation ? Voilà le défi structurel auquel Taïwan devra faire face sur le long terme.
+L'élévation du niveau de la mer menace également les zones humides côtières, qui constituent des escales cruciales sur les routes migratoires des oiseaux. Trouver l'équilibre entre développement et conservation demeure un défi de longue haleine pour Taïwan.
 
-## Demain : la technologie au service de la nature
+## Perspectives d'avenir : la technologie au service de la conservation
 
-Taïwan mobilise les nouvelles technologies pour renforcer la protection de sa biodiversité :
+Taïwan utilise de nouvelles technologies pour renforcer la protection de sa biodiversité :
 
-**Le Taiwan Biodiversity Network (TBN)** : une plateforme qui agrège les données d'inventaire de tout le pays et les met à disposition en ligne.
-**Le barcoding ADN** : pour accélérer l'identification des espèces et faciliter la découverte de nouvelles.
-**La télédétection** : pour surveiller en temps réel l'évolution des couverts forestiers et évaluer l'efficacité des mesures de conservation.
-**La science participative** : via des plateformes comme eBird Taiwan et iNaturalist, qui mobilisent les citoyens dans le suivi de la faune et de la flore.
+**Réseau de la biodiversité de Taïwan (TBN)** : Intègre les données d'inventaire biologique de toute l'île via une plateforme de consultation en ligne.
+**Technologie du code-barres ADN** : Accélère l'identification des espèces et la découverte de nouvelles variétés.
+**Surveillance par télédétection** : Permet un suivi en temps réel des changements forestiers et une évaluation de l'efficacité des mesures de conservation.
+**Science citoyenne** : Mobilise le public pour la surveillance biologique via des plateformes telles qu'eBird Taiwan ou iNaturalist.
 
 ---
 
-La biodiversité de Taïwan est le bien le plus précieux de cette île. Dans le contexte de la sixième extinction de masse, Taïwan — en tant que point chaud de la diversité biologique — assume une responsabilité considérable dans la préservation du patrimoine vivant de notre planète.
+La biodiversité de Taïwan est l'atout le plus précieux de l'île. Dans le contexte de la sixième extinction de masse mondiale, Taïwan, en tant que point chaud de la biodiversité, porte la lourde responsabilité de protéger le réservoir de vie de notre planète.
 
-Du programme de protection du chat léopard à la restauration des populations de spatules à face noire, de la sauvegarde des forêts à la gestion des écosystèmes marins, Taïwan écrit une histoire remarquable : celle d'une petite île qui prend soin d'un grand trésor. Face à la double pression du changement climatique et de l'urbanisation, la question de la coexistence durable entre les humains et les autres formes de vie sur ce territoire est devenue une responsabilité partagée par toute la société taïwanaise.
+De la conservation du tigre de Formose à la restauration de la Spatule à bec cuillère, de la protection des forêts à la préservation des écosystèmes marins, Taïwan écrit une histoire passionnante de « grande conservation sur une petite île ». Face au double défi du changement climatique et de la pression du développement, assurer la pérennité de cette terre fertile sera la mission commune de tous les Taïwanais.
 
 ## Références
 
-- [Epoch Times — Catalogue of Life Taiwan : 50 000 espèces, soit 2,5 % de la faune et la flore mondiales](https://www.epochtimes.com/b5/9/7/16/n2592175.htm)
-- [TBO Taiwan — Taux de couverture forestière de Taïwan : 60,71 %, 33e rang mondial](https://tbotaiwan.com/forest-coverage/)
-- [Environmental Information Center — Rapport sur la mortalité routière dans le comté de Miaoli](https://e-info.org.tw/node/220323)
+- [EUTV - L'inventaire des espèces de Taïwan est publié : plus de 50 000 espèces, soit 2,5 % du total mondial](https://www.epochtimes.com/b5/9/7/16/n2592175.htm)
+- [Ji Lu Taiwan - Le taux de couverture forestière de Taïwan est de 60,71 %, classé 33e mondial](https://tbotaiwan.com/forest-coverage/)
+- [Centre d'information environnementale - Rapport sur les collisions routières à grande échelle dans le comté de Miaoli](https://e-info.org.tw/node/220323)

@@ -1,70 +1,80 @@
 ---
-title: 'Lee Ju-eun'
-description: "De la folie « déesse de l'IA » à un engagement total à Taïwan, sa trajectoire a redéfini l'imaginaire des pom-pom girls coréennes en CPBL."
+title: 'Lee Ju-eun (李珠珢)'
+description: "De l'engouement pour la « déesse de l'IA » à son développement complet à Taïwan, son parcours redéfinit l'image des pom-pom girls coréennes dans la CPBL."
 date: 2026-05-13
-tags: [流行人物, 李珠珢, 韓國, 啦啦隊, 富邦悍將, Fubon Angels, 中華職棒]
+category: 'People'
+tags:
+  [
+    'Personnalités populaires',
+    'Lee Ju-eon',
+    'Corée du Sud',
+    'Pom-pom girls',
+    'Fubon Guardians',
+    'Fubon Angels',
+    'CPBL',
+  ]
 subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
-readingTime: 10
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
-category: People
-translatedFrom: People/李珠珢.md
-sourceCommitSha: '859d7316'
+readingTime: 10
+curation: 'incubating'
+translatedFrom: 'People/李珠珢.md'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:451da618ddccb297'
 sourceBodyHash: 'sha256:4b9c8f80e4d299c5'
-translatedAt: '2026-05-29T00:35:00+08:00'
-featured: false
+translatedAt: '2026-08-04T14:32:57+08:00'
 ---
 
-> **Aperçu en 30 secondes :** Lee Ju-eun a signé un contrat d'exclusivité complète avec les Fubon Braves en 2025, puis a clairement recentré sa carrière à Taïwan en 2026. Son importance ne réside pas uniquement dans sa forte visibilité : elle a fait évoluer le parcours des pom-pom girls coréennes (韓援) d'un modèle « aller-retour bilatéral » vers une « installation durable à Taïwan ».
+> **Aperçu en 30 secondes :** En 2025, Lee Ju-eun a signé un contrat d'agence complet avec les Fubon Guardians, et en 2026, elle a explicitement recentré ses activités professionnelles sur Taïwan. Son importance ne réside pas seulement dans son fort taux d'audience, mais dans le fait qu'elle fait passer le modèle des recrues coréennes d'un « va-et-vient bilatéral » à une « présence durable à Taïwan ».
 
-Après avoir suscité un engouement en Corée du Sud, elle ne s'est pas contentée d'une coopération à court terme, mais s'est orientée directement vers une intégration plus profonde au sein d'une agence de gestion. Cette démarche la distingue nettement des pom-pom girls coréennes venues pour de simples « apparitions ponctuelles » à Taïwan.
+Après l'explosion de sa popularité en Corée, elle ne s'est pas contentée de collaborations à court terme, mais a directement opté pour une intégration plus profonde via son agence. Cette étape la distingue nettement des recrues coréennes venues à Taïwan pour de simples « apparitions ».
 
-Les signaux de reconduction avant et après la saison 2026 ont concrétisé cette trajectoire : elle ne s'est pas contentée de passer par Taïwan — elle l'a intégré au cœur de sa carrière.
+Les signaux de sa prolongation autour de la saison 2026 confirment cette trajectoire : elle n'est pas seulement passée par Taïwan, elle a intégré le pays au cœur de son projet professionnel.
 
-L'édition numérique du _United Daily News_ / _UDN News_ rapporte, dans son article de mars 2026 sur la conférence de presse d'ouverture des Fubon Angels, que Lee Ju-eun, reconduite chez les Fubon Braves, a été émue jusqu'aux larmes en saluant les supporters en chinois ; le même article mentionne aussi des détails sur l'événement, comme la présence de Park Seong-eun portant un cache-œil à cause d'un orgelet — autant d'éléments utiles pour saisir le climat médiatique de cette période. [Source : United Daily News / UDN News][^6]
+Dans un reportage de l'édition numérique d'_United Daily News_ (UDN) / _udn.com_ lors de la conférence de presse de début de saison des « Fubon Angels » en mars 2026, Lee Ju-eun a été décrite comme étant très émue en saluant les supporters en chinois lors de l'annonce de son maintien chez les Guardians ; le même reportage mentionnait également des détails sur place, comme la présence de Park Seong-eun avec un cache-œil en raison d'une aiguille perforant l'œil, ce qui permet de comprendre l'atmosphère médiatique de cette période. [Source : United Daily News / udn.com][^6]
 
-## De la viralité à l'ancrage à long terme
+## De la célébrité virale à une présence structurelle
 
-Lorsque Lee Ju-eun est devenue virale à Taïwan, l'opinion publique l'a d'abord perçue comme un « phénomène ». Mais sa reconduction en 2026 et l'élargissement de son calendrier de présence montrent qu'elle n'est plus un simple événement médiatique : elle a été intégrée dans le fonctionnement à long terme du club.
+Lors de ses débuts fulgurants à Taïwan, le public la percevait principalement comme un « phénomène de mode ». Cependant, sa prolongation et l'extension de son calendrier en 2026 démontrent qu'elle n'est plus un simple événement médiatique passager, mais qu'elle est désormais intégrée au fonctionnement à long terme de la franchise.
 
-Ses apparitions sont souvent liées aux grands événements du calendrier domicile, au rythme du contenu sur les réseaux sociaux et aux activités des supporters. Cela signifie que son rôle est passé de « moment fort remplaçable » à « nœud central de contenu ».
+Ses apparitions sont souvent liées aux grands événements du stade, au rythme des contenus sur les réseaux sociaux et aux activités des supporters. Cela signifie que son rôle est passé de celui de « point d'intérêt remplaçable » à celui de « nœud de contenu central ».
 
-## Pourquoi elle est particulièrement mise en avant
+## Pourquoi elle bénéficie d'une telle visibilité
 
-Premièrement, Lee Ju-eun possède des caractéristiques scéniques très reconnaissables et des images fortement mémorisables. Deuxièmement, son efficacité de re-diffusion dans l'environnement des réseaux sociaux est extrêmement élevée : n'importe quelle courte vidéo peut engendrer un second cycle de viralité. Troisièmement, l'évolution de sa carrière a une « valeur indicative sectorielle » — elle est utilisée comme baromètre des tendances de l'écosystème des pom-pom girls coréennes.
+Premièrement, Lee Ju-eun possède des caractéristiques scéniques et une mémoire visuelle hautement identifiables. Deuxièmement, son efficacité de retransmission dans l'environnement social est extrêmement élevée ; n'importe quelle courte vidéo peut générer un nouveau sujet de discussion. Troisièmement, ses mouvements de carrière servent d'« indicateur industriel », permettant d'interpréter les tendances de l'écosystème des recrues coréennes.
 
-La combinaison de ces facteurs fait d'elle non seulement une star personnelle, mais aussi un point d'observation du processus d'entertainment dans le baseball professionnel taïwanais.
+L'addition de ces facteurs fait d'elle non seulement une star individuelle, mais aussi un point d'observation du processus de divertissement de la ligue professionnelle de baseball taïwanaise.
 
-> **📝 Note du curateur**
-> Ce qui mérite le plus d'être retenu au sujet de Lee Ju-eun, ce n'est pas « à quel point elle est célèbre », mais le fait qu'elle a incité chacun à se poser sérieusement la question : les pom-pom girls coréennes peuvent-elles faire de Taïwan leur lieu de travail principal ?
+> **📝 Note du conservateur**
+> Ce qui est le plus remarquable chez Lee Ju-eun, ce n'est pas son « niveau de célébrité », mais le fait qu'elle pousse tout le monde à se poser sérieusement la question : les recrues coréennes peuvent-elles faire de Taïwan leur principal lieu de travail ?
 
 ## La signification culturelle de son maintien à Taïwan
 
-Lorsque Lee Ju-eun est présentée dans les médias comme « entièrement dévouée au cheerleading à Taïwan », les supporters taïwanais y voient une forme de relation rehaussée. Il ne s'agit plus d'une prestation à court terme sur invitation, mais d'une relation de travail plus proche d'un investissement mutuel.
+Lorsque Lee Ju-eun est présentée comme « s'investissant pleinement dans le soutien à Taïwan », les supporters taïwanais perçoivent une montée en gamme de la relation. Il ne s'agit plus d'une performance à court terme sur invitation, mais d'une relation de travail proche d'un engagement commun.
 
-Pour la culture populaire taïwanaise, la signification de cet événement est la suivante : le stade de baseball n'est plus un récepteur passif de la vague coréenne (韓流) — il est devenu une plateforme capable de co-construire du contenu et de co-produire des sujets avec elle.
+Pour la culture populaire taïwanaise, l'importance de cet événement réside dans le fait que le stade n'est plus un simple récepteur passif de la _Hallyu_ (vague coréenne), mais devient une plateforme capable de co-construire du contenu et de produire conjointement des sujets d'actualité avec elle.
 
-## Les risques liés à la forte exposition
+## Les risques liés à une forte exposition
 
-Lee Ju-eun fait également face aux risques typiques de la forte visibilité : attention excessive, commentaires malveillants, controverses sur le calendrier de présence et travail émotionnel. Ces problèmes ne sont pas des cas individuels, mais reflètent la pression universelle que l'ère des plateformes exerce sur les personnalités très exposées.
+Lee Ju-eun est également confrontée aux risques typiques d'une très forte audience, notamment la surveillance excessive, les commentaires malveillants, les controverses liées aux calendriers et le travail émotionnel. Ces problèmes ne sont pas des cas isolés, mais représentent la pression généralisée exercée sur les personnalités exposées à l'ère des plateformes numériques.
 
-Par conséquent, lorsqu'on parle d'elle, il ne faut pas se limiter à la compétition de popularité : il faut aussi s'interroger sur la manière dont l'industrie du divertissement sportif peut construire un environnement de travail plus sain, afin d'éviter que la viralité ne se retourne contre les travailleurs.
+Par conséquent, la discussion à son sujet ne doit pas se limiter à une compétition de popularité, mais doit aussi porter sur la manière dont l'industrie du divertissement sportif peut établir un environnement de travail plus sain, afin d'éviter que le flux d'audience ne devienne préjudiciable aux travailleurs.
 
 ## Sa place dans Taiwan.md
 
-Lee Ju-eun appartient à la catégorie des personnalités populaires, non pas parce qu'elle ne représente que l'« idole », mais parce qu'elle a exercé un impact mesurable, observable et durable sur la culture du cheerleading en CPBL. Elle a fait passer l'imaginaire des pom-pom girls coréennes à Taïwan du « court terme » au « long terme ».
+Lee Ju-eun appartient à la catégorie des personnalités populaires, non pas parce qu'elle ne représente qu'une « idole », mais parce qu'elle exerce une influence quantifiable, observable et durable sur la culture de soutien du baseball professionnel taïwanais. Elle fait passer l'imaginaire des recrues coréennes à Taïwan d'un modèle « de court terme » vers un modèle « de long terme ».
 
-Ce changement de paradigme est probablement l'une des évolutions les plus importantes de la culture populaire sportive taïwanaise à la fin des années 2020.
+Ce basculement est probablement l'un des changements les plus importants de la culture populaire sportive taïwanaise de la fin des années 2020.
 
 ## Références / Sources
 
-[^6]: _United Daily News_ / _UDN News_ (journaliste Yeh Pei-yu), « CPBL / Les cinq renforts coréennes des Fubon Braves apparaissent ensemble — Lee Ju-eun, “je vous ai trop manqués”, fond en larmes d'émotion », 2026-03-25, https://udn.com/news/story/7002/9402487
+[^6]: United Daily News / udn.com (Journaliste Ye Pei-yu), 〈CPBL / Les 5 recrues coréennes des Guardians apparaissent ensemble : Lee Ju-eun en larmes, « Cela faisait trop longtemps que je ne vous avais pas vus »〉, 25-03-2026, https://udn.com/news/story/7002/9402487
 
 Autres sources vérifiables :
 
-- Wikipédia (présentation biographique) : https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E7%8F%A0%E7%8F%A2
-- Mirror Media (récapitulatif biographique / matchs) : https://m.mirrormedia.mg/story/20260223edi054
-- Newtalk News, « Lee Ju-eun annonce officiellement son maintien à Taïwan ! Deuxième année chez les Fubon, une grande nouvelle dévoilée », 2026-02-23, https://www.newtalk.tw/news/view/2026-02-23/1021071
-- Yahoo News (récapitulatif calendrier / saison) : https://tw.news.yahoo.com/%E6%9D%8E%E7%8F%A0%E7%8F%A2%E7%8F%AD%E8%A1%A8-031409225.html
+- Wikipédia (Aperçu de la personnalité) : https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E7%8F%A0%E7%8F%A2
+- Mirror Media (Synthèse des personnalités / compétitions) : https://m.mirrormedia.mg/story/20260223edi054
+- Newtalk News, 〈Lee Ju-eun annonce avec fracas « son maintien à Taïwan » ! Sa deuxième année chez les Fubon révèle une « grande nouvelle »〉, 23-02-2026, https://www.newtalk.tw/news/view/2026-02-23/1021071
+- Yahoo Taiwan News (Synthèse des calendriers / programmes) : https://tw.news.yahoo.com/%E6%9D%8E%E7%8F%A0%E7%8F%A2%E7%8F%AD%E8%A1%A8-031409225.html

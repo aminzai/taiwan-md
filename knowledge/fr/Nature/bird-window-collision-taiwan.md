@@ -1,109 +1,110 @@
 ---
-title: "Les collisions d'oiseaux contre les vitres à Taïwan : un tueur urbain invisible"
-description: "Une exploration approfondie du phénomène de collision aviaire contre les surfaces vitrées à Taïwan : état des lieux, mécanismes scientifiques, variations saisonnières, études de cas et avancées réglementaires en faveur d'une architecture respectueuse des oiseaux."
+title: 'La problématique des collisions aviaires contre les vitres à Taïwan : un tueur urbain invisible'
+description: "Une analyse approfondie de la mortalité des oiseaux sauvages à Taïwan due aux impacts sur le verre architectural, examinant les principes scientifiques, les variations saisonnières, les mesures de prévention et l'évolution des réglementations pour des bâtiments écologiques."
 date: 2026-03-23
+category: 'Nature'
 tags:
   [
-    'collision aviaire',
-    'protection des oiseaux',
+    'collisions aviaires',
+    'conservation des oiseaux',
     'architecture écologique',
     'science citoyenne',
-    'rapaces',
-    'bâtiment durable',
+    'Taiwan Raptor Research Association',
+    'bâtiment vert',
   ]
-subcategory: 'Faune sauvage'
-category: Nature
+subcategory: '野生動物'
 author: 'Taiwan.md Contributor'
 featured: false
-lastHumanReview: false
 lastVerified: 2026-03-23
+lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
 translatedFrom: 'Nature/台灣鳥類窗殺議題.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:7b5c9a385e90141f'
 sourceBodyHash: 'sha256:e55bf8d3c335463a'
-translatedAt: '2026-04-14T19:23:02+08:00'
+translatedAt: '2026-08-04T14:00:17+08:00'
 ---
 
-> **En 30 secondes**
+> **Aperçu en 30 secondes**
 >
-> La **collision aviaire sur vitre (Bird-Window Collision)** désigne le phénomène par lequel des oiseaux, incapables de percevoir le verre transparent ou réfléchissant comme un obstacle, s'y fracassent à pleine vitesse. À Taïwan, ces collisions constituent l'une des principales causes de mortalité non naturelle chez les oiseaux, touchant aussi bien les espèces communes des villes que des rapaces rarissimes.
+> **La collision aviaire contre les vitres (Bird-Window Collision)** désigne le phénomène de mortalité ou de blessure chez les oiseaux causé par l'incapacité à identifier des surfaces vitrées transparentes ou réfléchissantes, entraînant un impact à haute vitesse. À Taïwan, ces collisions constituent l'une des principales causes de mortalité non naturelle des oiseaux, touchant aussi bien les espèces urbaines communes que les rapaces rares.
+>
+> - **Ampleur des victimes** : On estime qu'un grand nombre d'oiseaux sauvages meurent chaque année à Taïwan à cause de ces collisions. Les cinq espèces les plus touchées sont respectivement : l'**Oriental Dollarbird (五色鳥, 17,67 %)**, le **Spotted Dove (9,59 %)**, le **Moineau (5,34 %)**, la **Tourterelle œil nu (5,29 %)** et l'**Aigle de Buffon (鳳頭蒼鷹)**.
+> - **Causes fondamentales** : La **transparence** du verre (perçue comme un passage libre) et sa **réflexivité** (perçue comme le ciel ou la forêt), ainsi que la **pollution lumineuse** nocturne qui désoriente les oiseaux migrateurs.
+> - **Clé de la prévention** : Application de la « **règle du 5x10** » (espacement horizontal de moins de 5 cm et vertical de moins de 10 cm) via des autocollants anti-collision, des grilles ou l'utilisation de verre dépoli.
+> - **Progrès politiques** : L'Institut de recherche sur l'architecture du ministère de l'Intérieur prévoit d'intégrer officiellement la « conception anti-collision respectueuse de l'avifaune » dans les indicateurs d'évaluation des bâtiments verts d'ici **2<0xA0>2026**.
 
-- **Ampleur du phénomène** : chaque année, un nombre considérable d'oiseaux sauvages meurent de cette façon à Taïwan. Les cinq espèces les plus touchées sont : **le Barbu à cinq couleurs (17,67 %)**, **la Colombine émeraude (9,59 %)**, **le Moineau domestique (5,34 %)**, **le Pigeon tigrin (5,29 %)** et **l'Autour de Taïwan**.
-- **Causes principales** : la **transparence** du verre (l'oiseau croit pouvoir le traverser), sa **réflectivité** (il confond le reflet du ciel ou des arbres avec un véritable espace), et la **pollution lumineuse** nocturne qui désorie les oiseaux migrateurs.
-- **Solution clé** : appliquer la **règle du 5×10** — des motifs anti-collision espacés de 5 cm horizontalement et de 10 cm verticalement, sous forme d'autocollants, de grilles ou de verre gravé.
-- **Avancées réglementaires** : le Bureau de recherche architecturale du ministère de l'Intérieur prévoit d'intégrer officiellement les « dispositifs anti-collision favorables aux oiseaux » aux critères d'évaluation des bâtiments durables en **2026**.
+## Pourquoi est-ce important ?
 
-## Pourquoi ce sujet compte
+Avec l'urbanisation croissante de Taïwan, les façades vitrées de grande dimension et les matériaux en acier inoxydable miroir sont devenus prédominants dans l'architecture, mais ils constituent également des pièges mortels pour les oiseaux. Ces collisions ne menacent pas seulement les espèces communes ; les espèces de second degré de protection, comme l'**Aigle de Buffon**, sont fréquemment victimes de ces impacts. Ce problème reflète le conflit entre le **développement urbain et la conservation écologique**. Promouvoir des « bâtiments respectueux de l'avifaune » n'est pas seulement un enjeu de biodiversité, c'est aussi un indicateur crucial pour la transition de Taïwan vers des villes durables et la réalisation de l'**ODD 15 (Vie terrestre)**.
 
-À mesure que Taïwan s'urbanise, les grandes façades de verre et les revêtements en inox réfléchissant s'imposent dans l'architecture contemporaine — et deviennent des pièges mortels pour les oiseaux. Ces collisions ne menacent pas seulement les espèces ordinaires : même des espèces protégées comme **l'Autour de Taïwan** y succombent régulièrement. Ce phénomène illustre la tension entre **développement urbain et préservation de la biodiversité**. Promouvoir une architecture respectueuse des oiseaux, c'est non seulement protéger la faune, mais aussi ancrer Taïwan dans une trajectoire de ville durable — en phase avec **l'ODD 15 (Vie terrestre)** des Nations Unies.
+## Principes scientifiques et idées reçues sur les collisions
 
-## Pourquoi les oiseaux ne voient pas le verre
+La structure visuelle des oiseaux diffère de celle des humains ; leurs yeux sont situés sur les côtés de la tête pour offrir un large champ de vision, mais ils manquent de perception de la profondeur face aux plans transparents.
 
-La vision des oiseaux est fondamentalement différente de la nôtre. Leurs yeux, placés sur les côtés du crâne pour un champ visuel panoramique, ne leur permettent pas de percevoir la profondeur face à une surface plane transparente.
+1.  **Transparence (Transparency)** : Lorsque les deux côtés d'un bâtiment sont en verre transparent (comme dans les couloirs, les angles ou les parois acoustiques), les oiseaux pensent pouvoir traverser la structure pour atteindre l'autre côté.
+2.  **Réflexivité (Reflection)** : Le verre reflète les espaces verts, les arbres ou le ciel environnants, incitant les oiseaux à s'y engouffrer à haute vitesse en croyant atteindre leur habitat.
+3.  **Pollution lumineuse nocturne (Light Pollution)** : De nombreux oiseaux migrateurs voyagent de nuit en s'appuyant sur la lumière des étoiles pour s'orienter. L'éclairage urbain intense désoriente ces migrateurs, les poussant à percuter des bâtiments lumineux.
+4.  **Idée reçue courante** : Coller un simple « autocollant d'aigle » au centre d'une vitre est souvent inefficace. Les oiseaux perçoivent l'autocollant statique comme un obstacle et tentent de le contourner, finissant par heurter les zones transparentes adjacentes.
 
-1. **Transparence** : lorsqu'un bâtiment présente des parois vitrées des deux côtés (couloir, angle de façade, mur antibruit transparent), l'oiseau croit pouvoir traverser d'un côté à l'autre.
-2. **Réflectivité** : le verre renvoie l'image des espaces verts, des arbres ou du ciel environnants ; l'oiseau y voit un habitat et s'élance à pleine vitesse.
-3. **Pollution lumineuse nocturne** : de nombreux migrateurs volent la nuit en s'orientant aux étoiles. Les lumières intenses des villes les désorienten et les attirent vers les bâtiments illuminés.
-4. **L'idée reçue de l'autocollant « rapace »** : coller un seul sticker en forme d'aigle au centre d'une fenêtre ne sert à rien. L'oiseau contourne l'obstacle apparent et percute la zone vitrée adjacente.
+## Analyse de la situation actuelle à Taïwan
 
-## La situation à Taïwan
-
-La recherche sur les collisions aviaires repose en grande partie sur des signalements issus de la **science citoyenne**, qui ont mis en lumière des tendances saisonnières et des profils d'espèces caractéristiques.
+Les recherches sur les collisions à Taïwan reposent principalement sur les signalements issus de la **science citoyenne**, révélant des caractéristiques saisonnières et d'espèces marquées.
 
 ### Pics saisonniers
 
-- **Printemps et automne** : saisons migratoires, durant lesquelles des oiseaux non familiers du terrain local sont particulièrement vulnérables.
-- **Été (juin-août)** : période d'envol des juvéniles, dont le vol est maladroit et l'attention aux dangers environnants, réduite — un groupe à haut risque.
+- **Printemps et automne** : Pendant les saisons de migration, les oiseaux migrateurs peu familiers avec le terrain sont particulièrement vulnérables.
+- **Été (juin à août)** : La période où les oisillons quittent le nid pour leur premier vol représente un risque élevé en raison d'un manque d'expérience de vol et d'une vigilance réduite face à l'environnement.
 
-### Profils des espèces victimes
+### Caractéristiques des espèces victimes
 
-- **Le Barbu à cinq couleurs** : très territorial, il vole en rase-mottes dans les sous-bois et attaque son propre reflet dans le verre, ce qui en fait l'espèce la plus touchée à Taïwan.
-- **Les rapaces** : l'Autour de Taïwan, notamment, fonce à grande vitesse sur ses proies (moineaux, pigeons) et percute le verre en pleine poursuite.
+- **Oriental Dollarbird** : En raison de son fort territorialisme, cet oiseau survole souvent les zones boisées à basse altitude et attaque parfois son propre reflet dans le verre, ce qui en fait l'espèce la plus fréquemment touchée à Taïwan.
+- **Rapaces** : Des espèces comme l'Aigle de Buffon percutent souvent le verre lors de poursuites à haute vitesse de leurs proies (comme les moineaux ou les tourterelles).
 
-### Cas emblématique : le campus de l'Université nationale de Taïwan (NTU)
+### Cas critique : Le campus de l'Université Nationale de Taïwan (NTU)
 
-L'équipe de recherche sur les collisions aviaires de l'NTU a recensé plus de 300 cas sur le campus ces cinq dernières années. Paradoxe saisissant : certains bâtiments primés pour leur architecture ou leur certification environnementale figurent parmi les points noirs, précisément en raison de leurs vastes surfaces vitrées.
+Les registres du groupe de recherche sur les collisions de l'Université Nationale de Taïwan (NTU) indiquent plus de 300 cas recensés sur le campus ces cinq dernières années. Paradoxalement, certains bâtiments universitaires ayant reçu des labels de bâtiment vert ou des prix d'architecture sont devenus des points chauds de collisions à cause de leurs vastes surfaces vitrées.
 
-## Prévention et conception responsable
+## Mesures de prévention et conception respectueuse
 
-L'efficacité de toute mesure repose sur un principe simple : **briser la continuité de la surface réfléchissante** pour que l'oiseau perçoive un obstacle.
+Le cœur d'une prévention efficace réside dans la « rupture de la surface réfléchissante continue du verre », afin que les oiseaux puissent visualiser l'obstacle.
 
-### La règle du 5×10
+### La règle du 5x1<0xA0>10
 
-Les recherches montrent que l'espacement des motifs doit être inférieur à l'envergure des oiseaux. La recommandation est d'un intervalle horizontal maximal de 5 cm et vertical de 10 cm.
+Les études démontrent que l'espacement des motifs anti-collision doit être inférieur à l'envergure des ailes des oiseaux. Il est recommandé de ne pas dépasser 5 cm d'espacement horizontal et 10 cm vertical.
 
-### Solutions à installer sur l'existant
+### Solutions d'amélioration existantes
 
-- **Autocollants anti-collision** : ils doivent impérativement être posés sur la **face extérieure** du verre (appliqués à l'intérieur, ils n'éliminent pas l'effet réfléchissant).
-- **Dispositifs en saillie** : grilles, persiennes, filets anti-insectes ou cordons pendants (type Acopian BirdSavers).
+- **Autocollants de fenêtre** : Ils doivent être apposés sur la face **extérieure** du verre pour être efficaces (une pose intérieure crée toujours un reflet).
+- **Dispositifs externes** : Installation de grilles, de stores, de filets anti-insectes ou de cordages (comme le système _Acopian BirdSavers_).
 
-### Intégration dès la conception architecturale
+### Phase de conception architecturale
 
-Utiliser du verre sablé, gravé à l'acide, ou doté d'un revêtement réfléchissant les ultraviolets — invisible à l'œil humain, mais parfaitement perçu par les oiseaux, qui voient dans le spectre UV.
+Utilisation de verre sablé, de verre gravé ou de verres spéciaux dotés d'un revêtement réfléchissant les ultraviolets (les oiseaux perçoivent la lumière UV, contrairement aux humains).
 
-## Réglementation et politiques publiques à Taïwan
+## Évolution des réglementations et politiques à Taïwan
 
-Taïwan avance progressivement vers une gestion institutionnalisée de ce problème :
+Taïwan institutionnalise progressivement la gestion de la prévention des collisions :
 
-1. **Révision des indicateurs bâtiment durable** : le Bureau de recherche architecturale du ministère de l'Intérieur a élaboré un projet d'intégration des « dispositifs anti-collision favorables aux oiseaux » dans les critères d'évaluation des bâtiments durables, dont la publication est prévue en **2026**.
-2. **Initiatives locales** :
-   - **Nouveau Taipei** : en 2025, inauguration du premier bâtiment public certifié anti-collision aviaire à l'échelle nationale (le Refuge animalier de Ruifang).
-   - **Tainan** : le conseil municipal a équipé l'intégralité de ses fenêtres de films anti-collision et mis en place un réseau de signalement des collisions.
-   - **Taipei** : le Bureau de protection animale a produit un album illustré sur les collisions aviaires à destination de l'éducation environnementale.
+1.  **Mise à jour des indicateurs de bâtiment vert** : L'Institut de recherche sur l'architecture du ministère de l'Intérieur a élaboré un projet pour inclure la « conception anti-collision respectueuse de l'avifaune » dans les critères d'évaluation, avec une mise en œuvre prévue pour **2026**.
+2.  **Actions des gouvernements locaux** :
+    - **Nouveau Taipei** : En 2025, création du premier bâtiment vert anti-collision au niveau national (Refuge animal de Ruifang).
+    - **Tainan** : Le conseil municipal a procédé au remplacement complet des vitres par des autocollants respectueux de l'avifaune et a mis en place un réseau de signalement des collisions.
+    - **Taipei** : Le Département de la protection animale a lancé un livre illustré sur les collisions aviaires pour l'éducation environnementale.
 
-## Participer : plateformes citoyennes
+## Participation citoyenne et plateformes de signalement
 
-1. **Roadkill Observation Network (路死觀察網)** : la plus grande plateforme de signalement de Taïwan, qui contribue à cartographier les zones à risque.
-2. **Taiwan Raptor Research Center (台灣猛禽研究會)** : héberge un « musée des collisions » et offre conseils professionnels et ressources pédagogiques.
-3. **Groupe Facebook « Signalement de collisions aviaires » (鳥類窗殺通報)** : espace communautaire de signalement en temps réel et d'échanges.
+1.  **Réseau d'observation des animaux morts sur la route (Roadkill)** : La plus grande plateforme de signalement à Taïwan, aidant à cartographier les points chauds de collisions.
+2.  **Taiwan Raptor Research Association** : Dispose d'un « Musée des collisions » et propose des services de consultation spécialisés ainsi que des ressources éducatives.
+3.  **Groupe Facebook « Signalement de collisions aviaires »** : Un espace communautaire pour les signalements et discussions en temps réel.
 
 ---
 
 ### Références / Sources
 
-- [Taiwan Raptor Research Center — Dossier collisions aviaires](https://raptor.org.tw/rescue/bird-window-collision)
-- [Roadkill Observation Network — Enquête collisions](https://roadkill.tw/campaign/7598)
-- [WuoWuo — Reportage : pourquoi les gens ne voient-ils pas ?](https://wuo-wuo.com/topics/widlife/windowkill)
-- [Rapport national sur les oiseaux de Taïwan 2024 (PDF)](https://www.bird.org.tw/sites/default/files/field/file/report/2024%E8%87%BA%E7%81%A3%E5%9C%8B%E5%AE%B6%E9%B3%A5%E9%A1%9E%E5%A0%B1%E5%91%8A%E6%9B%B8%28%E4%B8%AD%E6%96%87%E7%89%88%29_1.pdf)
-- [Principes de prévention des collisions aviaires et état des lieux national et international (PDF)](https://www.ycsh.tp.edu.tw/uploads/1711704323955iLUrYE6d.pdf)
+- [Taiwan Raptor Research Association - Dossier sur les collisions](https://raptor.org.tw/rescue/bird-window-collision)
+- [Taiwan Roadkill Observation Network - Enquête sur les collisions](https://roadkill.tw/campaign/7598)
+- [WuoWuo - Reportage spécial : Pourquoi ne voyons-nous pas les collisions ?](https://wuo-wuo.com/topics/widlife/windowkill)
+- [Rapport national 2024 sur l'avifaune de Taïwan (PDF)](https://www.bird.org.tw/sites/default/files/field/file/report/2024%E8%87%BA%E7%81%A3%E5%9C%8B%E5%AE%B6%E9%B3%A5%E9%A1%9E%E5%A0%B1%E5%91%8A%E6%9B%B8%28%E4%B8%AD%E6%96%87%E7%89%88%29_1.pdf)
+- [Principes de prévention des collisions aviaires et situation nationale et internationale (PDF)](https://www.ycsh.tp.edu.tw/uploads/1711704323955iLUrYE6d.pdf)

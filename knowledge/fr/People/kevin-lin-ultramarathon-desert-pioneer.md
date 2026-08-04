@@ -1,106 +1,107 @@
 ---
-title: 'Lin Yi-chieh'
-description: "Du gamin maigrichon recalé par l'équipe d'athlétisme à l'ultra-marathonien qui a traversé le Sahara à pied pour la première fois dans l'histoire"
+title: 'Lin Yi-chie'
+description: "De l'enfant chétif rejeté par l'équipe d'athlétisme au coureur polaire ayant marqué l'histoire en traversant le Sahara à pied"
 date: 2026-03-22
 category: 'People'
 tags:
   [
-    'personnalité',
-    'ultra-marathon',
-    'exploration polaire',
-    'athlète',
-    'désert du Sahara',
-    'fierté de Taïwan',
+    'Personnalités',
+    'Ultra-marathon',
+    'Exploration polaire',
+    'Athlètes',
+    'Désert du Sahara',
+    'Fierté de Taïwan',
   ]
-subcategory: 'Sport'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
 translatedFrom: 'People/林義傑.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:8741429d614846be'
 sourceBodyHash: 'sha256:3713eaac6b565ca6'
-translatedAt: '2026-05-13T01:08:41Z'
+translatedAt: '2026-08-04T15:04:47+08:00'
 ---
 
-> **En 30 secondes :** Lin Yi-chieh, ce petit garçon maigre à qui un professeur de sport avait interdit de « dépasser les aînés » à l'école primaire, est devenu en 2006 l'un des trois premiers êtres humains à traverser le Sahara à pied. 111 jours de course, 7 500 kilomètres parcourus, 11 paires de chaussures usées jusqu'à la corde — et la découverte, des mois plus tard, que les soldats qui les escortaient avaient tous été tués sur le chemin du retour.
+> **Aperçu en 30 secondes :** Lin Yi-chie, un petit garçon frêle à qui un professeur d'éducation physique menaçait de « ne pas laisser gagner les élèves plus âgés » durant l'école primaire, est devenu en 200 et 6 l'un des trois premiers êtres humains de l'histoire à traverser le Sahara à pied. En 111 jours, il a parcouru 7 500 km, usant 11 paires de chaussures, pour découvrir que l'escorte militaire qui les accompagnait avait été totalement massacrée lors du voyage de retour.
 
-## Une carrière née du refus
+## Une vie de course commencée par un refus
 
-« Tu n'as pas le droit de battre les grands. » C'est ce qu'un professeur de sport de l'école primaire Fude de Taipei dit à Lin Yi-chieh, élève de cinquième année, en 1987. Lors d'une course de cross-country de 2 kilomètres sur les Quatre Collines, le jeune garçon — frêle, menu — reçoit l'ordre explicite de laisser passer ses aînés.
+« Tu ne dois pas gagner les élèves plus âgés. » C'est ce qu'un professeur d'éducation physique de l'école primaire Fu-kuo, à Taipei, a dit en 1987 au jeune Lin Yi-chie, alors en CM2. Lors d'une course de cross de 2 km sur le mont Sishou, le petit garçon à la silhouette frêle reçut l'ordre explicite de laisser la priorité aux plus grands.
 
-C'est lors d'une deuxième manche qu'un autre enseignant lui glisse à l'oreille : « Ne te laisse pas influencer par les autres. » Lin Yi-chieh franchit la ligne en premier. C'est la première victoire de sa vie — et le point de départ d'une légende de l'ultra-marathon.
+Ce n'est qu'au second tour qu'un autre professeur lui dit : « Ne te laisse pas influencer par les autres. » Lin Yi-chie finit alors premier. Ce fut sa première victoire, et le point de départ de sa légende de l'ultra-marathon.
 
-Pourtant, le talent ne lui ouvre pas immédiatement les portes. Au collège, sa petite taille lui vaut plusieurs refus successifs de l'équipe d'athlétisme. Il ne perce que lorsque, après avoir « survécu à l'entraînement infernal de la première année », il prouve sa valeur à l'entraîneur et à ses coéquipiers. À la sortie du collège, pour intégrer le lycée Xihu — réputé pour son athlétisme — il fugue contre la volonté de son père et demande personnellement à l'entraîneur Pan Ruigen de l'accepter dans l'équipe, sans même avoir encore reçu son admission.
+Cependant, son talent ne lui ouvrit pas immédiatement les portes. Durant le collège, il fut rejeté à plusieurs reprises par l'équipe d'athlétisme en raison de sa petite taille. Après avoir « survécu à l'entraînement infernal de la première année de collège », il parvint à prouver ses capacités à son entraîneur et à ses coéquipiers. À la fin du collège, pour intégrer le prestigieux lycée technique Si-hu, il quitta même la maison contre l'avis de son père et demanda directement à l'entraîneur Pan Rui-gen de l'accepter — alors qu'il n'avait même pas d'autorisation d'inscription.
 
-> **📝 Note de la curatrice**
-> Dans le parcours de Lin Yi-chieh, ce qui touche le plus profondément, ce n'est pas l'éclat des palmarès. C'est cette ténacité après chaque refus. Du gamin recalé au roi des déserts polaires, cette métamorphose est en elle-même une expérience grandeur nature sur la volonté humaine.
+> **📝 Note du commissaire d'exposition**
+> Ce qui est le plus touchant dans l'histoire de Lin Yi-chie, ce n'est pas sa gloire ultérieure, mais cette résilience qui persiste malgré le rejet. De l'enfant chétif au « roi des pôles », cette transformation est en soi une expérience sur la force de la volonté.
 
-## L'éveil sur les circuits extrêmes
+## L'éveil sur les terrains polaires
 
-En 1999, lors du Marathon des 24 heures de la Coupe du monde en France, Lin Yi-chieh aperçoit un prospectus pour un ultra-marathon de 7 jours et 6 nuits dans le désert du Sahara. Il décide de financer sa participation de sa propre poche. « Courir, c'est voir le monde autrement que depuis une voiture, lui dit-il. Je veux accumuler mes propres histoires. »
+Lors du marathon de 24 heures de la Coupe du monde en France en 1999, Lin Yi-chie vit un prospectus pour l'ultra-marathon extrême de 7 jours et 6 nuits dans le Sahara et décida de réunir les fonds pour y participer. « Courir permet de voir un monde différent, totalement distinct des paysages vus depuis un véhicule », confie-t-il. « Je voulais accumuler mes propres histoires. »
 
-En 2002, lors de la 17e édition de la Marathon des Sables, il termine 12e — le meilleur résultat jamais réalisé par un coureur asiatique dans cette épreuve. Cette année-là, la course prend pour lui un sens précis : conquérir les environnements les plus extrêmes de la planète.
+Lors de la 17e édition de la traversée du Sahara en 7 jours et 6 nuits en 2002, Lin Yi-chie termina 12e — la meilleure performance historique d'un athlète asiatique dans cette compétition. Cette année-là, la course prit une direction précise pour lui : conquérir les environnements les plus extrêmes de la planète.
 
-Les victoires s'enchaînent alors à une allure vertigineuse : champion du grand désert de Gobi mongol sous 46 °C, champion du désert d'Atacama au Chili avec des écarts de température journaliers de 50 °C, défi antarctique à moins 30 °C en moyenne... En 2006, il remporte le « Grand Slam des quatre ultra-marathons polaires ».
+Ses succès s'enchaînèrent ensuite comme des fusées : champion du Grand Gobi mongol par 46 °C, champion du désert d'Atacama au Chili avec des écarts thermiques jour/nuit de 50 °C, défi de l'Antarctique à une température moyenne de -30 °C... En 2006, il remporta le titre de « Champion des quatre circuits d'ultra-marathons polaires ».
 
-Mais c'est un défi que personne n'avait jamais osé relever qui l'inscrit définitivement dans l'histoire humaine.
+Mais ce qui l'inscrivit véritablement dans l'histoire de l'humanité fut un défi que personne n'avait encore tenté.
 
-## La légende des 111 jours
+## La légende du Sahara en 111 jours
 
-2 novembre 2006. Port de Saint-Louis, Sénégal, Afrique de l'Ouest. Lin Yi-chieh forme une équipe de trois avec l'Américain Charlie Engle et le Canadien Ray Zahab. Leur objectif : réaliser pour la première fois dans l'histoire la traversée du Sahara à pied.
+Le 2 novembre 2006, au port de Saint-Louis, au Sénégal (Afrique de l'Ouest). Lin Yi-chie forma une équipe de trois personnes avec l'Américain Charlie Engle et le Canadien Ray Zahab, pour tenter la toute première traversée humaine du Sahara à pied.
 
-Le Sahara est le plus grand désert de la surface terrestre, s'étendant du Sénégal à la mer Rouge en Égypte — environ 5 900 kilomètres à vol d'oiseau, en quasi-totalité des étendues sans âme qui vive. Le trio devra en parcourir 7 500 kilomètres, soit deux marathons par jour pendant 111 jours.
+Le Sahara est le plus vaste désert de la surface terrestre ; s'étendant du Sénégal à l'ouest jusqu'à la mer Rouge en Égypte, il couvre une distance linéaire d'environ 5 900 km, dont la majeure partie est inhabitée. Ils devaient parcourir 7 500 km, soit l'équivalent de deux marathons par jour, pendant 111 jours.
 
-La rigueur du défi dépasse tout ce qu'on peut imaginer : 50 °C le jour, parfois 4 °C la nuit ; des tempêtes de sable aveuglantes qui font perdre tout repère ; le passage par des pays à l'instabilité politique avérée, avec des zones potentiellement minées. Le rituel quotidien : lever à 4 heures du matin, départ à 5 heures, course jusqu'à midi pour éviter le soleil de plomb, reprise à 17 heures jusqu'à 21 ou 22 heures.
+La rudesse du défi dépassait l'imagination : des températures de 50 °C le jour tombant à 4 °C la nuit ; des tempêtes de sable pouvant désorienter les marcheurs ; la traversée de pays politiquement instables en évitant les zones potentiellement minées. Le réveil se faisait chaque matin à 4 heures, la course commençait à 5 heures pour s'arrêter à midi afin d'éviter le soleil le plus ardent, avant de reprendre de 17 heures jusqu'à 21 ou 22 heures.
 
 > **💡 Le saviez-vous ?**
-> Lors de cette traversée, ils ont usé 11 paires de chaussures et traversé cinq pays : la Mauritanie, le Mali, le Niger, la Libye et l'Égypte. L'équipe tirait des remorques chargées d'eau et de vivres — le ravitaillement en eau était chaque jour une question de vie ou de mort.
+> Au cours de ce périple, ils ont usé 11 paires de chaussures et traversé cinq pays : la Mauritanie, le Mali, le Niger et la Libye. L'équipe devait tirer une remorque chargée d'eau et de nourriture ; l'approvisionnement quotidien en eau était une question de vie ou de mort.
 
-Le 20 février 2007, quand les trois hommes atteignent enfin les rives de la mer Rouge en Égypte, le monde entier est saisi par l'ampleur de cet exploit sans précédent. Mais ce n'est que six mois plus tard que Lin Yi-chieh apprend une nouvelle glaçante : les soldats qui les avaient escortés ont tous été tués par des bandits sur le chemin du retour.
+Le 20 février 200'7, lorsque les trois hommes atteignirent enfin la côte de la mer Rouge en Égypte, le monde entier fut stupéfait par cet exploit sans précédent. Pourtant, ce n'est que six mois plus tard que Lin Yi-chie apprit une nouvelle glaçante : l'escorte militaire qui les accompagnait avait été entièrement assassinée par des bandits lors du voyage de retour.
 
-L'aventure a été filmée dans le documentaire _Running the Sahara_, produit et narré par Matt Damon, qui révèle au monde entier cet ultra-marathonien venu de Taïwan.
+Ce défi a été adapté en documentaire sous le titre _Running the Sahara_, produit et narré par Matt Damon, faisant connaître ce coureur polaire taïwanais au monde entier.
 
-## Les zones d'ombre derrière la lumière
+## La vérité complexe derrière la gloire
 
-Pourtant, derrière ce récit d'inspiration en apparence parfait se cache une réalité bien plus complexe. Charlie Engle, le coéquipier américain à l'allure solaire et athlétique, était en réalité un ancien dépendant — il avait lutté pendant dix ans contre une addiction à la cocaïne et à l'alcool, frôlant la mort lors d'une descente aux enfers de six jours. Pour lui, les courses extrêmes faisaient partie intégrante de sa reconstruction après la désintoxication.
+Cependant, derrière ce récit d'inspiration apparemment parfait se cache une réalité plus complexe. Charlie Engle, le coéquipier américain à l'apparence saine et solaire, était en réalité un ancien toxicomane — il avait lutté contre une addiction à la cocaïne et à l'alcool pendant dix ans et avait failli mourir lors d'une débauche de six jours. Pour lui, la course polaire faisait partie de son processus de désintoxication.
 
-> **⚠️ Point de vue controversé**
-> En 2011, Charlie Engle a été condamné à de la prison ferme pour fraude hypothécaire et a purgé sa peine dans un pénitencier fédéral de Virginie-Occidentale. Un héros humanitaire qui militait pour l'accès à l'eau potable — et, simultanément, un criminel financier. La complexité de la nature humaine se révèle ici dans toute sa crudité.
+> **⚠️ Point de controverse**
+> En 2011, Charlie Engle a été condamné à la prison pour une fraude liée à des prêts hypothécaires de second rang dans une prison fédérale de Virginie-Occidentale. Un héros caritatif aidant à promouvoir l'accès à l'eau potable, mais aussi un criminel financier. La complexité de la nature humaine est ici pleinement révélée.
 
-Lin Yi-chieh lui-même n'est pas sans controverses. En 2022, il a été mis en examen pour avoir géré la société « True IP Consultants », soupçonnée de démarchage judiciaire abusif et de prélèvement de commissions sur des règlements à l'amiable liés au piratage. Les médias l'ont alors surnommé « le cafard du droit d'auteur ». Tout cela remonte au désastre commercial de son documentaire _Running the Sahara_ à Taïwan, sabordé par le piratage — ce qui l'avait rendu particulièrement sensible à la protection de la propriété intellectuelle.
+Lin Yi-chie lui-même n'est pas exempt de controverses. En 2022, il a été poursuivi pour avoir dirigé la société « Truth Intellectual Property Consulting », soupçonné d'orchestrer des litiges et de percevoir des commissions sur des accords de règlement de piratage, ce qui lui a valu d'être surnom'mé par les médias le « cafard du droit d'auteur ». Tout cela découle du fait que son documentaire _Running the Sahara_ a connu un échec commercial à Taïwan en raison du piratage massif, le rendant particulièrement zélé dans la protection de la propriété intellectuelle.
 
-> **✦** « Un héros n'est pas quelqu'un sans défauts, mais quelqu'un qui, malgré ses défauts, accomplit de grandes choses. »
+> **✦** « Un héros n'est pas quelqu'un qui n'a pas de défauts, mais quelqu'un qui, malgré ses imperfections, accomplit de grandes choses. »
 
-## Reconversion après la compétition
+## Le chemin de la reconversion après la retraite
 
-Lin Yi-chieh n'a jamais accepté d'être réduit au statut d'« athlète ». « Un athlète a une date de péremption, dit-il, mais l'esprit du sportif et son sens de la mission peuvent durer toute une vie. » À partir de 2010, il s'éloigne progressivement du devant de la scène de l'ultra-marathon polaire pour se consacrer aux conférences, au développement de marques, et même à un master en gestion à l'Université nationale de Taïwan.
+Lin Yi-chie ne s'est jamais considéré comme un simple « athlète ». « Un athlète a une carrière limitée, mais l'esprit et le sens de la mission d'un sportif peuvent durer toute une vie », affirme-t-il. Après 2010, il s'est progressivement retiré du premier plan des ultra-marathons polaires pour se concentrer sur les conférences, la gestion de marque, et a même poursuivi un master à la Faculté de gestion de l'Université nationale de Taïwan.
 
-Il fonde la société Yi-chieh Enterprise Co., Ltd. ainsi que la marque sportive SUPERACE, et organise divers événements d'ultra-marathon. Son ambition dépasse la démonstration des capacités des athlètes taïwanais sur la scène internationale : il veut prouver que les sportifs ne sont pas condamnés à finir enseignants ou entraîneurs — il entend « maximiser la valeur et la productivité du sport ».
+Il a fondé « Yi-chie Business Co., Ltd. » et la marque de sport « SUPERACE », organisant diverses courses d'ultra-marathon. Son but n'est pas seulement de prouver que les athlètes taïwanais sont capables de défier le monde, mais aussi de démontrer que ceux issus du sport ne sont pas destinés à être uniquement professeurs ou entraîneurs — il veut « maximiser la valeur et le potentiel du sport ».
 
-Entre 2000 et 2003, il a enseigné l'éducation physique dans deux lycées de Taipei, et a été athlète sous contrat avec Nike Taïwan. Mais sa véritable vocation, c'est de diffuser les valeurs du sport — faire savoir au monde que des Taïwanais peuvent survivre et rivaliser dans les environnements les plus hostiles de la planète.
+Entre 2000 et 2003, il a été professeur d'éducation physique au lycée George et au collège Franciscans à Taipei, et a également été athlète sous contrat pour Nike Taïwan. Mais sa véritable vocation est de promouvoir la philosophie sportive, afin que davantage de gens sachent que les Taïwanais peuvent survivre et rivaliser dans les environnements les plus extrêmes.
 
-## Une histoire taïwanaise sur la force de la volonté
+## Une histoire taïwanaise sur la volonté
 
-La portée de Lin Yi-chieh ne se mesure pas à la distance qu'il a parcourue ni à sa vitesse. Elle réside dans ce qu'il a prouvé : que des Taïwanais peuvent, dans les conditions les plus impitoyables du monde, accomplir des choses qui réécrivent l'histoire humaine.
+La portée de Lin Yi-chie ne réside pas seulement dans la distance ou la vitesse qu'il a parcourues, mais dans ce qu'il a prouvé : les Taïwanais peuvent accomplir des choses qui réécrivent l'histoire humaine dans les environnements les plus rudes du monde.
 
-Avec 111 jours et 7 500 kilomètres, il a dit au monde entier que peu importe la taille de votre île, peu importe le nombre de fois qu'on vous a refusé, avec suffisamment de volonté, rien n'est impossible. Ce petit garçon maigrichon de l'école primaire Fude, à qui on avait interdit de battre ses aînés, a fini par dépasser l'imagination de tous.
+Par ses 111 jours et ses 7 500 km, il dit au monde que peu importe la petitesse de votre île d'origine ou le nombre de fois où vous avez été rejeté, rien n'est impossible si l'on possède une volonté suffisante. Le petit garçon frêle de l'école primaire Fu-kuo, à qui l'on interdisait de battre les plus grands, a finalement dépassé toutes les imaginations.
 
-| 42 ans                                                  | Né en 1976                                  |
-| ------------------------------------------------------- | ------------------------------------------- |
-| Parmi les premiers humains à traverser le Sahara à pied | Premier ultra-marathonien polaire de Taïwan |
+| 42 ans                                                 | Né en 1976                                  |
+| :----------------------------------------------------- | :------------------------------------------ |
+| L'un des premiers humains à traverser le Sahara à pied | Premier ultra-marathonien polaire de Taïwan |
 
-Quant aux controverses et aux zones d'ombre, elles sont peut-être la partie la plus authentique de cette histoire. Les héros parfaits n'existent que dans les contes. La vie réelle est toujours traversée de contradictions et de luttes. Lin Yi-chieh a couru pour faire rayonner Taïwan — et sa vie nous rappelle que grandeur et imperfection cohabitent souvent en une seule et même personne.
+Quant aux controverses et aux aspects complexes, ils constituent peut-être la partie la plus authentique de cette histoire. Les héros parfaits n'existent que dans les contes de fées ; la vie réelle est toujours faite de contradictions et de luttes. Lin Yi-chie a fait honneur à Taïwan par ses jambes, tout en nous rappelant par son parcours que la grandeur et l'imperfection cohabitent souvent au sein d'un même individu.
 
 ## Références
 
-- [用腳改寫台灣歷史——全球四大極地超馬總冠軍林義傑 - 台灣光華雜誌](https://www.taiwan-panorama.com/Articles/Details?Guid=0209762e-705a-4fbf-9b32-a58b7e57ea99&CatId=7)
-- [烈日下奔跑的勇者 林義傑 - 甘樂文創](https://www.thecan.com.tw/tw/log/detail/852)
+- [Réécrire l'histoire de Taïwan avec les pieds — Champion des quatre grands ultra-marathons polaires mondiaux, Lin Yi-chie - Taiwan Glory Magazine](https://www.taiwan-panorama.com/Articles/Details?Guid=0209762e-705a-4fbf-9b32-a58b7e57ea99&CatId=7)
+- [Le courageux qui court sous le soleil brûlant, Lin Yi-chien - Ganle Creative](https://www.thecan.com.tw/tw/log/detail/852)
 - [Running the Sahara - Trail Runners Connection](https://trailrunnersconnection.com/adventures/running-the-sahara-charlie-engle-ray-zahab-kevin-lin/)
 - [Running the Sahara (2007) - IMDb](https://www.imdb.com/title/tt0481222/)
-- [林義傑惹議內幕 年提告逾800案被盯上 - 鏡週刊](https://www.mirrormedia.mg/story/20220613soc001)
-- [著作權蟑螂？涉包攬訴訟賺千萬 「超馬好手」林義傑違反律師法起訴 - 聯合新聞網](https://udn.com/news/story/7321/6591947)
+- [Les coulisses des controverses de Lin Yi-chie : poursuivi pour plus de 800 cas par an - Mirror Media](https://www.mirrormedia.mg/story/20220613soc001)
+- [Cafard du droit d'auteur ? Accusé de gestion de litiges pour gagner des millions, l'expert en ultra-marathon Lin Yi-chie poursuivi pour violation de la loi sur les avocats - UDN](https://udn.com/news/story/7321/6591947)
 - [From Crack Addict To Running The Sahara To Prison Hero -- Charlie Engle's Third Act - Rich Roll](https://www.richroll.com/podcast/charlie-engle/)
-- [林義傑 - 維基百科](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E7%BE%A9%E5%82%91)
+- [Lin Yi-chie - Wikipédia](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E7%BE%A9%E5%82%91)

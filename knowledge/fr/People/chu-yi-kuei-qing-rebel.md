@@ -1,67 +1,63 @@
 ---
-title: "Zhu Yigui, le « Roi des Canards » : premier chef rebelle à s'être proclamé roi à Taïwan"
-description: "Récit de l'insurrection de Zhu Yigui en 1721 — de l'éleveur de canards au roi autoproclamé — et l'influence durable de cet événement sur la politique de gouvernance de la cour Qing à Taïwan."
+title: "Le Roi Canard, Zhu Yigui : le premier chef de rébellion à s'être proclamé roi à Taïwan"
+description: "Exploration des origines et des conséquences de l'insurrection de Zhu Yigui en 1721, du parcours légendaire d'un éleveur de canards devenu roi à l'impact profond de cet événement sur la politique de gouvernance de Taïwan sous la dynastie Qing."
 date: 2026-03-24
+category: 'People'
 tags:
   [
     'Histoire de Taïwan',
-    'Période Qing',
-    'Soulèvement populaire',
+    'période de domination Qing',
+    'révoltes populaires',
     'Zhu Yigui',
-    'Roi des Canards',
+    'Roi Canard',
   ]
-subcategory: 'Personnages historiques'
-category: 'People'
+subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
 readingTime: 6
 featured: false
 lastVerified: 2026-03-24
+lastHumanReview: false
+curation: 'incubating'
 translatedFrom: 'People/朱一貴.md'
-sourceCommitSha: 'f99a9959'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:59a6177c37cf5305'
 sourceBodyHash: 'sha256:731cd7121531d2ac'
-translatedAt: '2026-04-14T19:15:12+08:00'
-lastHumanReview: false
+translatedAt: '2026-08-04T14:32:57+08:00'
 ---
 
-# Zhu Yigui, le « Roi des Canards » : premier chef rebelle à s'être proclamé roi à Taïwan
+# Le Roi Canard, Zhu Yigui : le premier chef de rébellion à s'être proclamé roi à Taïwan
 
-## En trente secondes
+## Aperçu en 30 secondes
 
-Zhu Yigui est le meneur du plus grand soulèvement populaire qu'ait connu Taïwan sous la domination Qing. Se réclamant d'une ascendance Ming et auréolé d'une légende liée à ses canards, il s'empare de la capitale préfectorale en une quinzaine de jours et se proclame roi. Son règne ne dure que deux mois, mais l'événement bouleverse durablement la stratégie défensive de la cour de Pékin ainsi que sa gestion des tensions ethniques sur l'île.
+Zhu Yigui fut le leader de la première insurrection populaire de grande ampleur durant la période de domination Qing à Taïwan. En s'appuyant sur son titre de « descendant de la Grande Ming » et sur sa légende d'éleveur de canards, il parvint à prendre le contrôle de la ville de l'administration provinciale (Fucheng) en seulement une dizaine de jours pour se proclamer roi. Bien que son régime n'ait duré que deux mois, il modifia radicalement les stratégies de défense et de gestion ethnique de la cour Qing à Taïpart.
 
-Né en 1690 dans la région de Zhangzhou, au Fujian, Zhu Yigui traverse le détroit à l'époque de Kangxi et s'établit à Neimen (anciennement appelé Luohan Gate), dans l'actuelle région de Kaohsiung. Il y vit de l'élevage des canards, et la légende veut qu'il sache les faire défiler en colonnes ordonnées comme une armée. C'est pourquoi on le surnomme le « Roi des Canards ». En 1721, la vingt-troisième année du règne de Yongzheng, les exactions fiscales du magistrat Wang Zhen plongent la population dans la misère. Zhu Yigui et Du Junying prennent alors la tête d'une insurrection. Le fait que Zhu partage le patronyme impérial des Ming galvanise les foules : la rébellion se drape du slogan « Restauration des Ming », et les rangs grossissent à vue d'œil jusqu'à compter plusieurs dizaines de milliers d'hommes.
+Zhu Yigui (1690–1722), originaire de Zhangzhou dans le Fujian, traversa le détroit pour s'installer à Taïwan durant l'ère Kangxi, dans la région de Neimen (anciennement appelée Luohanmen) à Kaohsiung. Il gagnait sa vie en élevant des canards et, selon la légende, il savait commander ses troupeaux pour qu'ils marchent en formation militaire, ce qui lui valut le surnom de « Roi Canard » (_Yamu Wang_). En 1721 (60e année de l'ère Kangxi), face à la corruption et aux prélèvements excessifs du préfet de Taïwan, Wang Zhen, provoquant la révolte des populations, Zhu Yigui et Du Junying lancèrent l'insurrection. Le nom de famille de Zhu étant le même que celui de la famille impériale de la dynastie Ming, les rebelles brandirent le drapeau de la « Restauration de la Grande Ming », rassemblant rapidement des diziment de milliers de partisans.
 
-## La chute de la préfecture et un pouvoir éphémère
+## La chute de Fucheng et un régime éphémère
 
-Les insurgés avancent à une allure foudroyante : en seulement treize jours, ils prennent la préfecture de Taïwan (l'actuelle Tainan). Zhu Yigui est proclamé « Roi de la Renaissance », sous l'ère « Yonghe ». Il distribue titres et charges, ordonne à ses hommes de couper leur natte et de revêtir le costume de la dynastie Ming. Mais la coalition se fissure rapidement : les soldats originaires du Fujian, menés par Zhu, et ceux originaires du Guangdong (Chaozhou), menés par Du Junying, s'affrontent. Cette querelle interne affaiblit considérablement la résistance.
+Les forces insurrectionnelles progressèrent avec une rapidité fulgurante, prenant la ville de Taiwan-fu (actuelle Tainan) en seulement 13 jours. Zhu Yiguï fut ensuite porté au titre de « Roi de la Restauration » (_Zhongxing Wang_), instaurant l'ère « Yonghe ». Il créa des fonctions officielles et ordonna à ses troupes de couper leur tresse (_bian_) et de restaurer les vêtements de la dynastie Ming. Cependant, des tensions apparurent au sein de l'armée rebelle en raison des origines régionales (Min et Yue), provoquant des affrontements internes entre Zhu Yigui (originaire de Zhangzhou) et Du Junying (originaire de Chaozhou), ce qui affaiblit leur puissance de combat.
 
-## La fin du soulèvement
+## La fin de la légende
 
-Alarmée, la cour Qing dépêche le commandant des forces navales Lan Tingzhen et l'amiral Shi Shipiao pour traverser le détroit et réprimer l'insurrection. Face à la puissance de feu impériale et à la stratégie de division entre groupes ethniques, les rebelles reculent sans cesse. Zhu Yigui est finalement capturé à Gouwei (actuelle Taibao, dans le Chiayi) et transféré à Pékin, où il est exécuté par le supplice du ling chi. Il avait trente-deux ans.
+Alertée par la nouvelle, la cour Qing envoya le commandant de Nan'ao, Lan Tingzhen, et l'amiral de la flotte, Shi Shibiao, pour réprimer la révolte par voie maritime. Sous la pression de la puissance de feu supérieure des troupes Qing et de leur stratégie visant à exploiter les divisions ethniques, les rebelles furent progressivement mis en déroute. Zhu Yigui fut finalement capturé à Guowei (actuel Taibao, Chiayi) et transféré à Pékin pour y être exécuté par le supplice de la mort lente (_lingchi_), à l'âge de 32 ans.
 
-## Un tournant dans la gouvernance de l'île
+## Un tournant dans les politiques de gouvernance
 
-L'affaire Zhu Yigui représente la plus grave crise de gouvernance que Taïwan ait connue depuis son rattachement à l'empire Qing. Auparavant, la cour pratiquait une politique dite « sans fortifications » : ériger des remparts risquait de les laisser aux mains des rebelles. Après l'insurrection, des censeurs impériaux recommandent d'entourer la préfecture d'une palissade en bois. C'est le point de départ du système défensif urbain de Taïwan.
+L'insurrection de Zhu Yigui représenta la plus grave crise de gouvernance après la prise de contrôle de Taïwan par la dynastie Qing. Avant cet événement, la cour Qing appliquait une politique de « non-construction de citadelles », craignant que des fortifications ne puissent être capturées par les rebelles et deviennent difficiles à reconquérir. À la suite de l'incident, le superviseur impérial de Taïwan suggéra la construction de la muraille de Mushan dans la ville de l'administration, marquant le début du système de défense urbaine de Taïwan.
 
-## Les tensions ethniques en jeu
+## Luttes de pouvoir ethniques
 
-L'événement révèle aussi la complexité des relations entre communautés sur l'île. Si Hokkiens et Hakkas s'allient au départ, leur rupture provoque de violents affrontements intercommunautaires. La cour Qing en tire une leçon politique : elle commence à instrumentaliser les rivalités en mobilisant les Hakkas (originaires du Guangdong) pour contrebalancer les Hokkiens de Zhangzhou et Quanzhou. Cette stratégie creuse les sillons des conflits interethniques qui marqueront Taïwan sur le long terme.
+Cet événement marqua également la complexification des relations ethniques à Taïwan. Si une coopération entre les populations Min et Yue fut observée au début de la révolte, les conflits internes qui suivirent déclenchèrent de graves tensions interethniques. La cour Qing en tira la leçon de la stratégie du « gouverner Taïwan par les Taïwanais », commençant à utiliser les forces d'origine Yue (Hakka) pour contrebalancer les résistances des populations Min (Quanzhou et Zhangzhou), jetant ainsi les bases des futurs conflits armés locaux (_械鬥, xiedou_) qui durèrent longtemps à Taïwan.
 
-## Mémoire vivante et signification contemporaine
+## Signification contemporaine et mémoire culturelle
 
-Dans la mémoire populaire taïwanaise, Zhu Yigui n'a pas sombré dans l'oubli malgré sa défaite. La région de Neimen conserve de nombreuses légendes à son sujet, et certains temples locaux lui rendent un culte. Il incarne la résistance à l'oppression et l'aspiration à l'autonomie. Son image de « Roi des Canards » continue d'inspirer les créateurs contemporains — dramaturges, romanciers et artistes y puisent régulièrement une matière vivante.
+Dans les croyances populaires de Taïwan, Zhu Yigui n'a pas été oublié malgré son échec. Dans la région de Neimen, de nombreuses légendes circulent encore à son sujet, et certains temples le vénèrent même comme une divinité. Il est perçu comme un symbole de résistance à l'oppression et de quête d'autonomie, et son image de « Roi Canard » apparaît fréquemment dans les créations dramatiques et littéraires modernes.
 
-## Sources
+## Références
 
-- [Wikipedia : Zhu Yigui](https://zh.wikipedia.org/zh-tw/%E6%9C%B1%E4%B8%80%E8%B2%B4)
-- [Musée national de l'Histoire de Taïwan : Dix pièces de collection pour comprendre le Roi des Canards](https://taiwanindex.nmth.gov.tw/theme/detail/83)
-- [StoryStudio : Les tensions ethniques à Taïwan ne datent pas d'aujourd'hui — l'affaire Zhu Yigui, il y a 300 ans](https://storystudio.tw/article/gushi/chu-yi-kuei-and-du-chun-ying)
-- [Taiwan Overseas Net : La grande révolution de Zhu Yigui, héros national taïwanais, en 1721](https://www.taiwanus.net/history/3/19.htm)
+- [Wikipédia : Zhu Yigui](https://zh.wikipedia.org/zh-tw/%E6%9C%B1%E4%B8%80%E8%B2%B4)
+- [Musée National d'Histoire de Taïwan : Dix objets de collection pour découvrir le Roi Canard qui a attiré l'attention de l'Asie de l'Est](https://taiwanindex.nmth.gov.tw/theme/detail/83)
+- [StoryStudio : Le complexe provincial n'est pas un produit contemporain de Taïwan ! Tout a commencé avec l'insurrection de Zhu Yigui il y a 300 ans](https://storystudio.tw/article/gushi/chu-yi-kuei-and-du-chun-ying)
+- [Taiwan Overseas Network : La grande révolution de l'héros national taïwanais Zhu Yigui en 1721](https://www.taiwanus.net/history/3/19.htm)
 
-## Thèmes connexes
-
-- L'ère Qing à Taïwan
-- La période des conflits interethniques (分類械鬥)
-- La transition démocratique de Taïwan
-- Les peuples autochtones de Taïwan — histoire et reconnaissance
+## Sujets connexes

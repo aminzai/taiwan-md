@@ -1,6 +1,6 @@
 ---
-title: 'Brûler plutôt que rouiller : George Mackay et Formose, son île bien-aimée'
-description: "Deux mille dents arrachées, une école pour les femmes fondée de toutes pièces — comment ce missionnaire canadien est devenu un véritable Taïwanais, transformant en trente ans la médecine, l'éducation et les sciences naturelles du nord de Taïwan."
+title: "Mieux vaut s'épuiser que de rouiller : Mackay et sa Formose tant aimée"
+description: "De l'extraction de 20 000 dents à la fondation d'une école pour filles, découvrez comment le missionnaire canadien George Leslie Mackay est devenu un « véritable Taïwanais », réécrivant l'histoire médicale, éducative et scientifique du nord de Taïwan."
 date: 2026-03-31
 category: 'People'
 tags:
@@ -12,79 +12,80 @@ tags:
     'éducation',
     'sciences naturelles',
   ]
-subcategory: 'Personnages historiques'
+subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-03-31
 lastHumanReview: true
 readingTime: 8
+curation: 'incubating'
 translatedFrom: 'People/馬偕.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:b7d6932f284b6cf0'
 sourceBodyHash: 'sha256:d3315bfee0561cb1'
-translatedAt: '2026-05-13T01:08:41Z'
+translatedAt: '2026-08-04T14:00:17+08:00'
 ---
 
-> **En 30 secondes :**
-> En 1872, Mackay (George Leslie Mackay) débarque à Tamsui à 28 ans et entame avec Taïwan une relation de trente ans. Premier missionnaire étranger dans le nord de l'île, il est aussi dentiste ambulant, éducateur, naturaliste et gendre de Taïwan. Plus de 21 000 dents arrachées pour gagner la confiance des gens, un collège fondé sur le modèle d'Oxford, la première école pour femmes de l'île — et des centaines de spécimens botaniques et zoologiques collectés en chemin. Sa devise, « brûler plutôt que rouiller », reste aujourd'hui l'une des flammes les plus vives de l'histoire moderne de Taïwan.
+> **Résumé en 30 secondes :**
+> En 1872, à l'âge de 28 ans, Mackay débarqua à Tamsui, marquant le début d'un lien profond et durable avec Taïwan qui allait durer 30 ans. Il ne fut pas seulement le premier missionnaire étranger du nord de Taïwan, mais aussi dentiste, éducateur, naturaliste et « gendre de Taïwan ». Pour gagner la confiance des habitants, il extraira plus de 20 000 dents, fondera l'Oxford College ainsi que la première école de filles de Taïwan, et collectera des centaines de spécimens de flore et de faune au cours de ses missions. Son esprit, résumé par la devise « Mieux vaut s'épuiser que de rouiller », demeure un jalon essentiel de la modernisation de Taïwan.
 
-### Le « Barbu étranger » sur les rives du fleuve Tamsui
+### Le « Barbier à barbe noire » sur les rives de la rivière Tamsui
 
-Le 9 mars 1872, un vapeur baptisé _Haïlong_ remonte lentement l'estuaire de la rivière Tamsui. Sur le pont se tient un jeune Canadien à la barbe noire et fournie : George Leslie Mackay. Il a tout juste 28 ans. Dans sa poche, la maigre bourse que lui a allouée l'Église presbytérienne canadienne ; dans le cœur, la conviction d'offrir toute sa vie à cette île.
+Le 9 mars 1872, un navire nommé _Sea Dragon_ entra lentement dans l'embouchure de la rivière T'amsui. À bord se tenait un jeune Canadien à la barbe noire et dense : George Leslie Mackay. Il n'avait que 28 ans, ses poches ne contenaient que les maigres fonds alloués par l'Église presbytérienne du Canada, mais son cœur était rempli de la détermination de consacrer sa vie à cette île.
 
-Les habitants de Tamsui accueillent ce « barbu étranger » avec méfiance. Insultes, crachats, jets de pierres — Mackay traverse tout cela. Pour s'intégrer, il ne commence pas par ouvrir sa Bible : il part aux champs. Son premier professeur de taiwanais lui enseigne de façon trop rigide ; il se tourne alors vers les jeunes bouvier des collines. Il sort sa montre de poche, le tic-tac fascine les enfants, et, mot après mot, il collecte le vocabulaire le plus authentique qui soit. En moins de six mois, il converse couramment avec les paysans — et peut même leur tenir tête en débat.
+À l'époque, les habitants de Tamsui étaient empreints d'hostilité envers ce « Barbier à barbe noire ». En marchant dans les rues, Mackay était souvent confronté aux insultes, aux crachats et même aux jets de pierres. Pour s'intégrer, sa première démarche ne fut pas d'ouvrir la Bible, mais de se rendre sur le terrain. Constatant que son professeur de taïwanais était trop rigide, il préféra apprendre auprès des jeunes bergers qui gardaient les bœufs sur les collines. En utilisant une montre à gousset dont le tic-tac captivait les enfants, il échangea ce spectacle contre un vocabulaire taïwanais authentique, mot après mot. En moins de six mois, il pouvait converser couramment avec les agriculteurs et même débattre avec eux.
 
-> 📝 **Note de curation :** Le succès de Mackay ne tient pas à la profondeur de sa théologie, mais à sa volonté de s'abaisser pour apprendre la langue la plus humble, celle des bergers. Cette posture d'identification est le secret qui lui a ouvert les portes de la société taïwanaise.
+📝 **Note du commissaire d'exposition :** Le succès de Mackay ne provient pas de doctrines complexes, mais de sa volonté de s'abaisser pour apprendre la langue la plus humble auprès des bergers. Cette posture d'« identification » fut la clé de son immersion profonde dans la société taïwanaise.
 
-### Vingt et un mille dents : la compassion en actes
+### La compassion derrière les 20 000 dents
 
-L'image qui reste la plus ancrée dans la mémoire collective de Taïwan n'est pas celle d'un Mackay prêchant en chaire, mais celle d'un homme tenant une pince à dents et soulageant la douleur des gens. Au XIXe siècle, le mal de dents est un cauchemar ordinaire dans une île quasi dépourvue de soins médicaux. Mackay comprend vite qu'il est plus efficace de traiter la souffrance physique que de prêcher dans le vide.
+L'image la plus ancrée de Mackay à Taïwan n'est peut-être pas celle du prédicateur en chaire, mais celle du dentiste maniant la pince pour soulager la population. Dans le Taïwan du XIXe siècle, la douleur dentaire était un cauchemar pour beaucoup, dans un environnement médical extrêmement précaire. Mackay comprit qu'au lieu de prêcher la foi de manière abstraite, il valait mieux traiter directement la souffrance des gens.
 
-Dès 1873, il glisse une pince dentaire dans sa besace de missionnaire. Son journal consigne plus de 21 000 extractions au cours de sa vie. Il officie sous les auvents des temples, à l'ombre des grands arbres, parfois au bord du chemin. Cette médecine de l'itinérance — « une main sur la Bible, l'autre sur la pince » — dissipe les résistances plus sûrement que n'importe quel sermon. L'hôpital qu'il fonde à Tamsui, le _Hobe Hospital_ (hôpital de Hobe), est le premier hôpital de médecine occidentale du nord de Taïwan et l'ancêtre direct du Mackay Memorial Hospital d'aujourd'hui.
+Dès 1873, Mackay transporta ses instruments dentaires lors de ses missions. Ses journaux indiquent qu'il a extrait plus de 21 000 dents au cours de sa vie. Il pratiquait souvent ses soins au pied des temples, sous les arbres ou même au bord du chemin. Cette forme de mission médicale, « la Bible d'une main, la pince de l'autre », brisa définitivement la méfiance des locaux. L'établissement qu'il fonda à Tamsui, le « Klinik de Hwei-wei », fut non seulement le premier hôpital occidental du nord de Taïwan, mais aussi l'ancêtre de l'actuel hôpital Mackay.
 
-> « Depuis 1873, j'ai extrait de mes propres mains plus de vingt et un mille dents. » — George Mackay, _From Far Formosa_ (1895)
+> « Depuis 1873, j'ai extrait de mes propres mains plus de vingt et une mille dents. » — Mackay, _From Far Formosa_.
 
-> 📝 **Note de curation :** Arracher une dent n'était pas seulement un acte médical ; c'était un rituel social. Chaque dent tombée représentait la confiance d'une famille taïwanaise accordée à cet homme venu de si loin.
+📝 **Note du commissaire d'exposition :** L'extraction dentaire était à l'époque bien plus qu'un acte médical ; c'était un rite social. Chaque dent extraite représentait un nouveau lien de confiance entre une famille taïwanaise et cet étranger.
 
-### Dans les montagnes et sur les côtes : auprès des peuples autochtones
+### Dans les montagnes et sur les côtes : protecteur des peuples autochtones
 
-Les pas de Mackay couvrent tout le nord de Taïwan. Partant de Tamsui, il franchit le sentier de Caoling et descend dans la plaine de Kavalan (aujourd'hui Yilan). Son influence sur les peuples plaines, en particulier les Kavalan, est profonde et durable. Dans les années 1880, il fonde plus de trente églises dans la plaine de Lanyang en quelques années à peine, réunissant plus de deux mille baptisés.
+Les traces de la mission de Mackay s'étendent à travers tout le nord de Taïwan. Partant de Tamsui, il franchit le sentier de Caoli pour s'enfoncer dans la plaine de Yilan (autrefois appelée Yilan/Galam). Son influence sur les populations autochtones (particitément le groupe Kavalan) fut particulièrement profonde. Dans les années 1880, il établit plus de 30 églises dans la plaine de Lanyang en seulement quelques années, baptisant plus de deux mille personnes.
 
-Mais Mackay n'est pas seulement prédicateur : il est aussi un anthropologue de terrain et un explorateur. Il visite des villages Atayal en haute montagne, bravant l'incompréhension linguistique et la menace des raids pour établir un lien par le soin médical. Il consigne avec minutie coutumes et objets matériels des peuples autochtones ; ces précieuses archives deviendront le fonds du premier musée privé de Taïwan, annexe à son collège.
+Au-delà du prosélytisme, il fut un précurseur de l'anthropologie et de l'exploration. Il visita les villages Atayal dans les hautes montagnes et, malgré la barrière de la langue et la menace des raids, tenta d'établir des liens par les services médicaux. Il documenta de nombreuses coutumes et artefacts autochtones, données précieuses qui servirent de fondation à la création du premier musée privé de Taïwan, le « Musée de l'Académie de Sciences ».
 
-### L'explorateur naturaliste : collecter l'âme de Formose
+### Exploration scientifique : collecter l'âme de Formose
 
-En dehors de la religion et de la médecine, Mackay est un naturaliste passionné. Lors de chaque tournée de prédication avec ses étudiants, il emporte une boîte de collecte. Faune, flore, minéraux, géologie — tout l'intéresse. Ses mémoires décrivent avec précision des fougères arborescentes, des acacias, des espèces de serpents et de fougères endémiques à Taïwan.
+Outre la religion et la médecine, Mackay était un passionné de sciences naturelles. Lors de ses sorties missionnaires avec ses étudiants, il emportait toujours des boîtes de collecte. Il manifesta une immense curiosité pour la flore, la faune, les minéraux et la géologie de Taïwan. Ses mémoires détaillent la présence de fougères arborescentes, d'acacias, et même de spécimens de serpents et de fougères endémiques à l'île.
 
-Il aurait répertorié plus de 80 espèces de serpents et 50 espèces de fougères, expédiant une partie des spécimens aux universités canadiennes pour identification scientifique. Ses observations sur l'environnement naturel de l'île lui valent une reconnaissance dans les cercles académiques occidentaux de l'époque. Pour Mackay, étudier la création de cette île, c'est en soi rendre grâce au Créateur.
+Il collecta plus de 80 spécimens de serpents et plus de 50 espèces de fougères, envoyant une partie de ses trouvailles vers des universités canadiennes pour identification. Ses observations scientifiques sur l'environnement taïwanais lui luiva une place respectée dans le monde académique occidental de l'époque. Pour Mackay, étudier la nature de cette île était, en soi, un hommage à la création divine.
 
-> 📝 **Note de curation :** Mackay est un homme aux multiples casquettes — pasteur, médecin, enseignant, scientifique. Cette posture de savant polymathe du XIXe siècle donne à son regard sur Taïwan une dimension qui dépasse largement la sphère religieuse.
+📝 **Note du commissiment d'exposition :** Le profil « multi-casquettes » de Mackay — pasteur, médecin, enseignant, scientifique — incarne l'esprit des polymathes du XIXe siècle et permet à ses observations de dépasser le cadre religieux pour atteindre une profondeur scientifique.
 
-### Oxford College et Chang Chhong-Miâ : le courage de briser les barrières
+### L'Oxford College et Chang Tsung-ming : le courage de briser les barrières
 
-En 1882, grâce aux dons des habitants du comté d'Oxford, en Ontario, Mackay fonde à Tamsui le _Lí-hak-tông Tāi-su-īⁿ_ (Oxford College). C'est la première institution scolaire de style occidental de Taïwan, avec au programme géographie, astronomie, anatomie, géologie et autres sciences modernes.
+En 1882, grâce aux dons de compatriotes du comté d'Oxford en Angleterre, Mackay fonda l'« Oxford College » (connu localement sous le nom d'école d'Oxford) à Tamsui. Ce fut la première école de style occidental moderne à Taïwan, proposant des cours de géographie, d'astronomie, d'anatomie et de géologie.
 
-Plus révolutionnaire encore : en 1884, Mackay et son épouse Chang Chhong-Miâ cofondent l'École des femmes de Tamsui. Dans une société où l'on dit que « le savoir ne sied pas aux femmes », Mackay insiste pour instruire les filles, sans distinction de classe ni de frais de scolarité. L'histoire de Chang Chhong-Miâ est elle-même remarquable : ancienne enfant élevée comme future belle-fille (童養媳), elle apprend l'anglais et le piano après son mariage avec Mackay, fait le tour du monde à ses côtés et prend la parole en anglais au Canada. Elle est la première femme de Taïwan à avoir accompli un voyage autour du globe — et l'âme de l'École des femmes.
+Plus révolutionnaire encore, en 1884, il fonda avec son épouse, Chang Tsung-ming, l'« École de filles de Tamsui ». À une époque où l'on considérait que « l'éducation des femmes était inutile », Mackay insista pour que les femmes soient instruites, sans distinction de classe et sans frais de scolarité. Le parcours de son épouse, Chang Tsung-ming, est lui-même légendaire : issue d'un arrangement matrimonial précoce, elle apprit l'anglais et le piano auprès de Mackay et voyagea avec lui à travers le monde, prononçant même des discours en anglais au Canada. Elle fut la première femme taïwanaise à accomplir un tour du monde et une actrice clé de l'école de filles.
 
-> 📝 **Note de curation :** Épouser une Taïwanaise et lui confier l'enseignement à l'École des femmes était un choix rarissime et avant-gardiste au sein des cercles missionnaires occidentaux de l'époque. Ce n'est pas seulement un mariage interculturel : c'est la déclaration ultime par laquelle Mackay s'est entièrement « taïwanisé ».
+📝 **Note du commissaire d'exposition :** Le fait que Mackay ait épousé une femme taïwanaise et l'ait nommée enseignante était une décision extrêmement rare et avant-gardiste dans les cercles missionnaires occidentaux. Ce n'était pas seulement un mariage interculturel, c'était sa déclaration ultime de « taïwanisation ».
 
-### Brûler plutôt que rouiller
+### Mieux vaut s'épuiser que de rouiller
 
-Le 2 juin 1901, Mackay s'éteint à Tamsui des suites d'un cancer de la gorge, à 57 ans. Il avait tenu la promesse qu'il se répétait dans son journal : « Rather burn out, than rust out » — brûler jusqu'au bout, jamais se laisser rouiller. Il ne repose pas dans le cimetière occidental de Tamsui, mais dans le parc de l'école secondaire de Tamsui, auprès des paroissiens taïwanais qu'il avait choisi pour compagnons d'éternité.
+Le 2 juin 1901, Mackay s'éteignit à Tamsui des suites d'un cancer de la gorge, à l'âge de 57 ans. Il mit en pratique la devise qu'il mentionnait souvent dans ses journaux : « Mieux vaut s'épuiser que de rouiller » (_Rather burn out, than rust out_). Il choisit de ne pas être enterré dans le cimetière des étrangers de Tamsui, mais dans l'enceinte de l'école de Tamsui, pour rester éternellement auprès de ses fidèles taïwanais.
 
-Avant de mourir, il laisse un poème intitulé _Taïwan, pays que j'aime du fond du cœur_ :
+Avant sa mort, il laissa un poème intitulé _Ma Taïwan tant aimée_, exprimant son attachement profond à l'île :
 
-> « Ô Taïwan, pays que j'aime du fond du cœur ! Je t'ai consacré ma vie entière. Ô Taïwan, pays que j'aime du fond du cœur ! C'est là que j'ai trouvé ma joie. »
+> « Ô ma Taïwan tant aimée ! Je te consacre ma vie. Ô ma Taïwan tant aimée ! C'est en toi que j'ai trouvé ma joie. »
 
-L'histoire de Mackay est celle d'un étranger qui, par la compréhension, le respect et le don de soi, est devenu chair et sang de cette île. Aujourd'hui encore, en arpentant les ruelles de Tamsui, en contemplant les briques rouges d'Oxford College ou en poussant les portes du Mackay Memorial Hospital, on peut sentir cette flamme qui ne s'est jamais éteinte.
+L'histoire de Mackay est le récit émouvant d'un étranger qui, par la compréhension, le respect et le dévouement, est devenu une partie intégrante du sang de cette île. Aujourd'hui, en parcourant les rues de Tamsui, en contemplant les briques rouges de l'Oxford College ou en entrant à l'hôpital Mackay, nous pouvons encore ressentir la chaleur d'une vie qui continue de brûler.
 
 ### Références / Sources
 
-1. [Musée numérique Mackay — Biographie de George Mackay](https://www.mmc.edu.tw/xmdoc/cont?xsmsid=0O268600316062429071)
-2. [Archives culturelles nationales de Taïwan — Mackay et Chang Chhong-Miâ](https://openmuseum.tw/muse/digi_object/d338f2a9ff225c2c2548cda26db841b2)
-3. [Archives historiques de l'Église presbytérienne de Taïwan — Révérend Mackay](https://www.pct.org.tw/article_peop.aspx?strBlockID=B00007&strContentID=C2006052300003)
-4. [Tamsui Wiki — George Mackay](https://tamsui.dils.tku.edu.tw/wiki/index.php/%E9%A6%AC%E5%81%95)
+1. [Musée numérique Mackay - Biographie de Mackay](https://www.mmc.edu.tw/xmdoc/cont?xsmsid=0O268600316062429071)
+2. [Archives de la mémoire culturelle nationale - Le Dr Mackay et Mme Chang Tsung-ming](https://openmuseum.tw/muse/digi_object/d338f2a9ff225c2c2548cda26db841b2)
+3. [Site historique de l'Église presbytérienne de Taïwan - Pasteur Mackay (Dr Mackay)](https://www.pct.org.tw/article_peop.aspx?strBlockID=B00007&strContentID=C2006052300003)
+4. [Tamsui Wiki - Mackay](https://tamsui.dils.tku.edu.tw/wiki/index.php/%E9%A6%AC%E5%81%95)
 5. George Leslie Mackay, _From Far Formosa: The Island, its People and Missions_, 1895.
-6. [Centre d'information sur l'environnement — Mackay et l'histoire naturelle de Taïwan](https://e-info.org.tw/node/205078)
-7. [Gazette de l'Église de Taïwan — Les perles de la plaine de Kavalan : la couronne missionnaire de Mackay](https://tcnn.org.tw/archives/231090)
-8. 吳永華，《台灣植物探險》，晨星出版，1999。
+6. [Centre d'information environnementale - Fragments de mémoire : Mackay et l'histoire naturelle de Taïwan](https://e-info.org.tw/node/205078)
+7. [Bulletin de l'Église de Taïwan - La perle de la plaine de Lanyang : la mission de Mackay](https://tcnn.org.tw/archives/231090)
+8. Wu Yung-hua, _Exploration de la flore de Taïwan_, Éditions Chenxing, 1999.

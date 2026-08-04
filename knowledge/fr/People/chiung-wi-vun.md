@@ -1,101 +1,101 @@
 ---
-title: 'Chiang Wei-bun : le buffle combattant du mouvement littéraire en taïwanais'
-description: "Comment un diplômé en génie mécanique est-il devenu le promoteur le plus radical du mouvement d'écriture en langue taïwanaise ? De la protestation contre Huang Chun-ming en 2011 à une expertise reconnue en études vietnamiennes, Chiang Wei-bun incarne par ses actes la conviction ultime que la langue est identité."
+title: 'Chiang Wei-wen : Le guerrier buffle du mouvement de la langue taïwanaise'
+description: "Comment un diplômé en génie mécanique est-il devenu l'un des promoteurs les plus radicaux de la langue taïwanaise ? De sa protestation en 2011 à son expertise sur le Vietnam, Chiang Wei-wen incarne la conviction que la langue est l'essence même de l'identité."
 date: 2026-03-23
 category: 'People'
-subcategory: 'Monde académique et éducation'
 tags:
   [
-    'linguiste',
-    'mouvement littéraire taïwanais',
-    'éducation en langue maternelle',
+    'Linguiste',
+    'mouvement de la langue taïwanaise',
+    'éducation aux langues maternelles',
     'études vietnamiennes',
   ]
+subcategory: '學術與教育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
-readingTime: 8
+lastHumanReview: true
+curation: 'incubating'
 translatedFrom: 'People/蔣為文.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:46faaa4a99788548'
 sourceBodyHash: 'sha256:161cfe479ea8068c'
-translatedAt: '2026-04-14T19:17:00+08:00'
-lastHumanReview: true
+translatedAt: '2026-08-04T14:32:57+08:00'
 ---
 
-> **En 30 secondes :** Chiang Wei-bun est le promoteur le plus radical du mouvement d'écriture en langue taïwanaise. En 2011, au Musée national de la littérature taïwanaise, il a brandi une pancarte à l'adresse de l'écrivain Huang Chun-ming : « Les auteurs taïwanais qui créent en chinois plutôt qu'en langue taïwanaise sont une honte ! », déclenchant un débat retentissant dans tout Taïwan. Cet universitaire, diplômé en génie mécanique de l'université Tamkang, est devenu l'un des rares experts du vietnamien à Taïwan et dirige aujourd'hui le département de littérature taïwanaise de l'université nationale Cheng Kung. En trente ans, il a démontré que la langue n'est pas qu'un outil : c'est le champ de bataille central de l'identité nationale.
+> **Aperçu en 30 secondes :** Chiang Wei-wen, l'un des promoteurs les plus radicaux du mouvement pour la langue taïwanaise, a provoqué un débat national à Taïwan en 201<0xC2>1 en brandissant une pancarte à la Bibliothèque nationale de la littérature de Taïwan, déclarant : « Les écrivains taïwanais n'utilisent pas la langue taïwanaise, mais créent en chinois, c'est honteux ! ». Cet universitaire, diplômé en génie mécanique de l'université Tamkang, est devenu l'un des rares experts à Taïwan maîtrisant le vietnamien et occupe actuellement le poste de directeur du département de littérature taïwanaise de l'Université nationale Cheng Kung (NCKU). En 30 ans, il a prouvé que la langue n'est pas seulement un outil, mais le champ de bataille central de l'identité nationale.
 
-Un étudiant du département de génie mécanique de l'université Tamkang fonde, au début des années 1990, un « club de littérature taïwanaise » et lance ainsi un mouvement susceptible de remodeler le paysage linguistique de Taïwan. Le nom anglais de Chiang Wei-bun, « Taiffalo », est l'abréviation de « Taiwan Buffalo » (buffle de Taïwan) — un choix qui révèle la façon dont il conçoit son rôle : celui d'un buffle taïwanais labourant inlassablement le champ de la culture linguistique, sans jamais se laisser décourager par les obstacles.
+Un étudiant en génie mécanique de l'université Tamkang a fondé, au début des années 1990, le « Club de la langue taïwanaise », lançant un mouvement qui pourrait redessiner le paysage linguistique de Taïwan. Le nom anglais de Chiang Wei-wen, « Taiffalo », est l'abréviation de « Taiwan Buffalo » (le buffle de Taïwan) — un choix qui suggère son rôle : un buffle taïwanais travaillant silencieusement et sans crainte des difficultés dans les champs de la culture et de la langue.
 
-## Du génie mécanique à la linguistique : un tournant inattendu
+## De la mécanique à la linguistique : un virage inattendu
 
-Né en 1971 à Gangshan, dans le district de Kaohsiung, Chiang Wei-bun s'orientait initialement vers une carrière scientifique et technique classique. Pourtant, durant ses années à l'université Tamkang, il prend une décision qui changera le cours de sa vie : fonder un club de littérature taïwanaise et se procurer auprès de l'Église presbytérienne de Taïwan un exemplaire du Manuel de romanisation du taïwanais.
+Né en 1971 à Gangshan, Kaohsiung, Chiang Wei-wen suivait initialement une trajectoire scientifique classique. Cependant, durant ses études en génie mécanique à l'université Tamkang, il prit une décision qui allait changer le cours de sa vie : fonder le Club de la langue taïwanaise et obtenir un manuel de _Pe̍h-ōe-jī_ (écriture en caractères latins) auprès de l'Église presbytérienne de Taïwan.
 
-Nous sommes au début des années 1990, époque où la conscience locale taïwanaise émerge tout juste, tandis que l'écriture en langue taïwanaise reste une pratique culturelle très marginale. Chiang Wei-bun commence à explorer la question, apparemment simple mais en réalité d'une grande complexité : comment écrire le taïwanais ? En 1996, il fait ses débuts littéraires avec le recueil de poèmes en taïwanais Hai-ong (La baleine), à l'âge de 25 ans à peine.
+Nous étions au début des années 1990 à Taïwan ; la conscience identitaire locale était alors en pleine éclosion, et l'usage de l'écrit taïwanais restait un mouvement culturel extrêmement marginal. Chiang Wei-wen commença à étudier la question, apparemment simple mais complexe : « comment écrire le taïwanais ». En 1996, il fit ses débuts dans le milieu littéraire avec son recueil de créations en taïwanais, _Hâi-ông_, alors qu'il n'avait que 25 ans.
 
-> **📝 Note du curateur**
-> Le passage du génie mécanique à la linguistique n'est pas le fruit du hasard. Les années 1990 correspondent à la renaissance culturelle locale qui suit la levée de la loi martiale à Taïwan, une période où de nombreux jeunes commencent à se demander « qui suis-je ? ». Si Chiang Wei-bun a choisi d'aborder la question par le prisme de la langue et de l'écriture, c'est sans doute parce qu'il a compris que maîtriser la langue, c'est maîtriser le droit à la parole.
+> **📝 Note du commissaire d'exposition**
+> Le passage de l'ingénierie mécanique à la linguistique n'est pas un hasard. Les années 1990 correspondaient à la période de renaissance culturelle locale après la levée de la loi martiale à Taïwan. De nombreux jeunes commençaiment à se questionner sur le « qui suis-je ? ». Chiang Wei-wen a choisi d'aborder cette question par l'écrit, sans doute parce qu'il avait conscience que maîtriser la langue, c'est maîtriser le pouvoir de la parole.
 
-## 2011 : la pancarte qui a ébranlé le monde littéraire taïwanais
+## 2011 : L'affiche qui changea le monde littéraire taïwanaais
 
-Le 24 mai 2011, au Musée national de la littérature taïwanaise. L'écrivain Huang Chun-ming donne une conférence intitulée « Réflexions sur l'écriture et l'enseignement en langue taïwanaise ». Soudain, depuis l'assistance, Chiang Wei-bun brandit une grande pancarte : « Les auteurs taïwanais qui créent en chinois plutôt qu'en langue taïwanaise sont une honte ! », accompagnée en romanisation taïwanaise (Pe̍h-ōe-jī) de la phrase : « Tâi-oân chok-ka ài iōng Tâi-oân-gí chhòng-chok » (Les auteurs taïwanais doivent créer en langue taïwanaise).
+Le 24 mai 2011, à la Bibliothèque nationale de la littérature de Taïwan. L'écrivain Huang Chun-ming prononçait une conférence intitulée « Réflexions sur l'écriture et l'enseignement de la langue taïwanaise ». Soudain, Chiang Wei-wen brandit une grande pancarte : « Les écrivains taïwanais n'utilisent pas la langue taïwanaise, mais créent en chinois, c'est honteux ! », accompagnée de la mention en _Pe̍h-ōe-jī_ : « Tâi-ôan chok-ka ài iōng Tâi-ôan-gí chhòng-chok » (Les écrivains taïwanais doivent utiliser la langue taïwanaise pour créer).
 
-Hors de lui, Huang Chun-ming retire sa veste, dévale l'estrade et fond sur Chiang Wei-bun en l'invectivant, allant jusqu'à le traiter de « bête qui sait crier ». La presse baptise l'incident « l'affaire du 24 mai de la littérature taïwanaise », qui devient l'une des controverses publiques les plus retentissantes de l'histoire littéraire de Taïwan.
+Furieux, Huang Chun-ming retira son haut et descendit de l'estrade pour réprimander violemment Chiang Wei-wen, allant jusqu'à l'insulter en le traitant de « bête qui aboie ». Ce conflit fut surnommé par les médias l'« Incident du 24 mai (524) », devenant l'un des débats publics les plus controversés de l'histoire littéraire de Taïwan.
 
-Les suites judiciaires sont tout aussi dramatiques : Chiang Wei-bun porte plainte contre Huang Chun-ming pour injure publique. En 2012, le tribunal de district de Tainan le déclare coupable et lui inflige une amende de dix mille dollars taïwanais avec sursis de deux ans. Si la cour d'appel de Tainan a ensuite commuté la peine en dispense de sanction, la formulation du jugement reste néanmoins éclairante : « Huang est un éminent auteur littéraire qui avait été provoqué et l'outrage était de faible gravité. »
+Les conséquences juridiques furent tout aussi dramatiques : Chiang Wei-wen poursuivit Huang Chun-ming pour injure publique. En 2012, le tribunal de district de Tainan déclara Huang coupable, prononçant une amende de 10 000 dollars taïwanais et deux ans de sursis. Bien que la cour d'appel de Tainan ait par la suite annulé la peine, une phrase du jugement reste marquante : « Huang est un écrivain important qui a subi une provocation, bien que les circonstances de l'insulte soient légères ».
 
-> **⚠️ Points de vue controversés**
-> La méthode de protestation de Chiang Wei-bun a suscité des réactions diamétralement opposées. Ses partisans saluent son courage à défier l'hégémonie de la littérature en sinophone ; ses détracteurs estiment que son approche est trop radicale et nuit à la qualité du débat académique. L'Association des écrivains en langue taïwanaise a même publié un ouvrage spécial, La vérité sur la protestation de Chiang Wei-bun contre Huang Chun-ming, pour prendre sa défense.
+> **⚠️ Point de vue controversé**
+> La méthode de protestation de Chiang Wei-wen a provoqué des réactions polarisées. Ses partisans considèrent qu'il a eu le courage de défier l'hégémonie de la littérature en chinois mandarin ; ses détracteurs estiment que sa méthode était trop radicale et a rompu le climat civilisé nécessaire au débat académique. Le comité de rédaction de la littérature taïwanaise a même publié un ouvrage, _La vérité sur la protestation de Chiang Wei-wen contre Huang Chun-ming_, pour prendre sa défense.
 
-## Théoricien du mouvement de désinisation
+## Le théoricien du mouvement de « dé-sinisation »
 
-Les positions radicales de Chiang Wei-bun ne relèvent pas de la simple réaction émotionnelle : elles reposent sur des fondements académiques solides. Il part étudier à l'étranger en 1996 et obtient en 2003 un doctorat en linguistique de l'université du Texas à Arlington, dont les recherches portent sur « les discours théoriques du mouvement de désinisation au sein de la sphère culturelle des caractères chinois ».
+La position radicale de Chiang Wei-wen n'est pas une réaction émotionnelle, mais repose sur des bases académiques profondes. Après avoir étudié à l'étranger en 1996, il obtient en 2003 un doctorat en linguistique de l'université du Texas à Arlington (États-Unis), dont les recherches portaient sur « le discours théorique du mouvement de dé-sinisation au sein de la sphère culturelle des caractères chinois ».
 
-Sa thèse centrale est la suivante : dans la sphère culturelle des caractères chinois, écrire des langues locales au moyen de caractères chinois constitue en soi une forme de colonialisme culturel. La véritable indépendance linguistique ne peut reposer que sur des systèmes d'écriture romanisés. Ce cadre théorique en fait l'aile la plus radicale du mouvement littéraire taïwanais — non seulement il s'agit de parler taïwanais, mais d'écrire en romanisation.
+Son argument central est le suivant : au sein de la sphande de caractères chinois, utiliser ces mêmes caractères pour écrire une langue locale demeure, par essence, une forme de colonialisme culturel. Une véritable indépendance linguistique doit s'appuyer sur un système d'écriture en alphabet latin. Ce cadre théorique a fait de lui l'aile la plus radicale du mouvement : il ne s'agit pas seulement de parler taïwanais, mais de l'écrire en caractères latins.
 
-Il préside actuellement l'Association des romanisations taïwanaises et œuvre à la diffusion du système Pe̍h-ōe-jī (littérature en langue vernaculaire). À ses yeux, ce système n'est pas un simple outil phonétique, mais la forme d'écriture légitime de la littérature taïwanaise.
+Il préside actuellement l'Association pour l'alphabet latin à Taïwan, se consacrant à la promotion du système d'écriture _Pe̍h-ōe-jī_. À ses yeux, le _Pe̍h-ōe-jī_ n'est pas qu'un simple outil de transcription, mais la forme d'écriture légitime de la littérature taïwanaise.
 
-## Une expertise inattendue en études taïwano-vietnamiennes
+## Une expertise inattendue en études vietnamiennes
 
-Plus surprenant encore, Chiang Wei-bun est devenu l'un des rares universitaires taïwanais à maîtriser le vietnamien. Depuis 1997, il se consacre aux études comparatives taïwano-vietnamiennes et découvre que l'expérience politique linguistique du Viêt Nam offre un éclairage précieux pour Taïwan : le Viêt Nam a en effet adopté l'écriture romanisée dès la période coloniale française, parvenant ainsi à s'affranchir du système des caractères chinois.
+Plus surprenant encore, Chiang Wei-wen est devenu l'un des rares universitans taïwanais à maîtriser le vietnamien. Depuis qu'il s'est lancé dans les études comparatives entre Taïwan et le Vietnam en 1997, il a découvert que l'expérience de la politique linguistique du Vietnam offrait des enseignements cruciaux pour Taïwan : le Vietnam, dès l'époque coloniale française, a adopté l'alphabet latin, réussissant ainsi à s'affranchir de l'emprise des caractères chinois.
 
-En 2011, Chiang Wei-bun reçoit la « Médaille d'excellence pour les études vietnamiennes » décernée par l'Académie des sciences sociales du Viêt Nam — une distinction exceptionnellement rare pour un universitaire taïwanais. Il dirige aujourd'hui le Centre d'études vietnamiennes de l'université Cheng Kung et est le coordinateur du développement de la « certification internationale du vietnamien » (iVPT).
+En 2011, Chiang Wei-wen a reçu la « Médaille d'honneur pour les études vietnamiennes » de l'Académie des sciences sociales du Vietnam, un honneur extrêmement rare pour un chercheur taïwanais. Il dirige aujourd'hui le Centre d'études vietnamiennes de l'université NCKU et est le coordinateur du développement de l'« International Vietnamese Proficiency Test » (iVPT).
 
 > **💡 Le saviez-vous ?**
-> Les recherches vietnamiennes de Chiang Wei-bun ne sont pas un simple intérêt académique : elles visent à construire les fondements théoriques d'une linguistique comparative. Dans son cadre d'analyse, le Viêt Nam a pleinement réussi à se désiniser, la Corée y est partiellement parvenue, le Japon utilise les caractères en parallèle d'autres systèmes, tandis que Taïwan reste encore profondément enlisé dans les caractères chinois — un « spectre de désinisation » progressif.
+> Les recherches de Chiang Wei-on sur le Vietnam ne sont pas un simple intérêt académique, mais visent à construire une base théorique en linguistique comparée. Dans sa théorie, le Vietnam a réussi à s'affranchir des caractères chinois, la Corée s'en est partiellement affranchie, le Japon utilise un système mixte, tandis que Taïwan reste profondément enchaînée aux caractères chinois — il s'agit d'un « spectre de dé-sinisation » progressif.
 
-## Œuvre académique et impact social
+## Réalisations académiques et impact social
 
-La production académique de Chiang Wei-bun est impressionnante : de Hai-ong en 1996 à Tang-san kòe Viet-nam : Etude sur la transformation identitaire et la localisation des Minh Hương au Viêt Nam en 2024, il a publié plus de trente ouvrages couvrant la littérature taïwanaise, les études vietnamiennes et la certification linguistique.
+La production académique de Chiang Wei-wen est impressionnante. De son ouvrage _Hâi-ông_ (1996) à \*Passer par la Chine pour aller au Vietnam : Étude sur la transformation identitaire et la localisation des Hoa (Vietnamiens d'origine chinoise) » (2024), il a publié plus de 30 ouvrages couvrant la littérature taïwanaise, les études vietnamiennes et la certification linguistique.
 
-Il est également le coordinateur du développement de la « certification nationale en taïwanais », un système d'évaluation qui vise à établir des critères standardisés de compétence en langue taïwanaise. Grâce à ses efforts, le Centre de certification en langue taïwanaise de l'université Cheng Kung est devenu l'une des institutions de recherche sur le taïwanais les plus importantes de l'île.
+Il est également le coordinateur du développement de la « Certification universelle de la langue taïwanaise », un système d'évaluation visant à standardiser la mesure des compétences en taïwanais. Sous son impulsion, le Centre d'examen de la langue taïwanaise de l'université NCKU est devenu l'une des institutions de recherche les plus importantes de Taïwan dans ce domaine.
 
-Il dirige aujourd'hui le département de littérature taïwanaise de l'université Cheng Kung, formant la prochaine génération de chercheurs en littérature taïwanaise. En salle de cours, il enseigne exclusivement en taïwanais, mettant en pratique sa conviction : « parler taïwanais, écrire en taïwanais. »
+Il occupe actuellement le poste de directeur du département de littérature taïwanaise à l'université NCKU, où il continue de former la nouvelle génération de chercheurs. En classe, il s'obstine à enseigner en taïwanais, mettant en pratique son propre idéal : « parler taïwanais, écrire en caractères taïwanais ».
 
 ## Controverses et réflexions
 
-Les positions radicales de Chiang Wei-bun n'ont jamais cessé de susciter des débats. Même au sein du mouvement littéraire taïwanais, nombreux sont ceux qui jugent sa préconisation d'une « romanisation intégrale » par trop extrême. Certains enseignants et étudiants du département de littérature taïwanaise de l'université Cheng Kung expriment des réserves sur ses méthodes, estimant qu'elles pourraient freiner l'intégration du mouvement dans le courant dominant.
+La position radicale de Chiang Wei-wen reste source de controverses. Même au sein du mouvement pour la langue taïwanaise, beaucoup considèrent que sa revendication d'un « alphabet latin intégral » est trop extrême. Certains enseignants et étudiants du département de l'université NCKU partagent cet avis, craignant que sa méthode n'entrave la normalisation du mouvement.
 
-Vu sous un autre angle, pourtant, c'est précisément parce que des figures comme Chiang Wei-bun incarnent un pôle « extrême » que les modérés du mouvement disposent d'une marge de négociation. Son existence rend la solution de compromis — l'usage mixte de caractères chinois et de romanisation — d'autant plus raisonnable et praticable.
+Cependant, d'un autre point de\\de vue, c'est précisément grâce à l'existence de « radicaux » comme Chiang Wei-wen que les modérés disposent d'une marge de négociation. Sa présence fait en sorte que le compromis consistant à utiliser conjointement les caractères chinois et l'alphabet latin paraisse rationnel et réalisable.
 
-> **✦** « La langue, c'est l'identité ; l'identité, c'est le politique. Refuser d'affronter la dimension politique de la langue est en soi la plus grande des prises de position politiques. » — Chiang Wei-bun
+> **✦** « La langue est l'identité, l'identité est la politique. Ceux qui refusent de faire face à la dimension politique de la question linguistique font eux-mêmes le plus grand acte politique. » — Chiang Wei-wen
 
-## Trente ans de recul
+## Réflexions après 30 ans
 
-Depuis la fondation de son club de littérature taïwanaise au début des années 1990, Chiang Wei-bun a consacré trente ans au mouvement. Durant cette période, le statut social du taïwanais a certes progressé — la Loi sur le développement des langues nationales a été adoptée, les langues locales ont été intégrées aux programmes scolaires — mais la « égalité linguistique » qu'il appelle de ses vœux reste encore loin.
+Depuis la fondation du Club de la langue taïwanaise au début des années 1990, Chiang Wei-wen est engagé dans ce mouvement depuis 30 ans. Durant ces trois décennies, le statut social du taïwanais s'est effectivement amélioré — avec l'adoption de la _Loi sur le développement des langues nationales_ et l'intégration des langues locales dans le programme scolaire national — mais un fossé subsiste par rapport à son idéal d'« égalité linguistique ».
 
-Les enquêtes récentes indiquent que le nombre de locuteurs du taïwanais continue de diminuer et que les compétences linguistiques des jeunes générations sont généralement insuffisantes. Face à cette réalité, la persévérance de Chiang Wei-bun garde-t-elle encore tout son sens ? Ou bien est-ce précisément parce que la tendance est si alarmante qu'il faut que quelqu'un joue le rôle de « gardien de la langue » ?
+Des enquêtes récentes montrent que le nombre de locuteurs du taïwanais continue de diminuer, et les compétences linguistiques de la jeune génération sont globalement insuffisantes. Face à cette réalité, la persévérance de Chiang Wei-wen a-t-elle encore un sens ? Ou est-ce précisément parce que la tendance est si grave qu'il est nécessaire d'avoir un « gardien de la langue » ?
 
-Chiang Wei-bun a répondu à cette question par le parcours même de sa carrière : même étiqueté comme « radical », même exposé à la controverse et à la critique, il continue de croire que le droit linguistique est un droit humain fondamental et que la littérature taïwanaise possède une valeur irremplaçable.
+Chiang Wei-wen répond à cette question par sa carrière académique : même marqué du sceau du « radical », même confronté aux critiques et controverses, il continue de croire que le droit linguistique est un droit humain fondamental, et que la littérature taïwanaise possède une valeur irremplaçable.
 
-Cet universitaire qui se revendique « buffle de Taïwan » laboure inlassablement depuis trente ans le champ de la langue. Il incarne peut-être exactement le type d'obstination dont Taïwan a le plus besoin — non pas pour récolter, mais pour semer.
+Ce chercheur qui se définit comme le « buffle de Taïwan », travaillant silencieusement dans les champs de la langue depuis 30 ans, est peut-être précisément le type de persévérant dont Taïwan a besoin — sans se soucier de la récolte, mais en se concentrant sur le travail de la terre.
 
 ## Références
 
-- [Page personnelle du professeur Chiang Wei-bun](https://twl.ncku.edu.tw/p/405-1143-114277,c10606.php?Lang=zh-tw)
-- [Chiang Wei-bun — Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%94%A3%E7%82%BA%E6%96%87)
-- [Déclaration de l'université Cheng Kung concernant l'incident de protestation au Musée national de la littérature taïwanaise](https://web.ncku.edu.tw/p/404-1000-79266.php?Lang=zh-tw)
-- [Huang Chun-ming insulte Chiang Wei-bun lors d'une conférence interrompue par une protestation — condamné avec sursis de 2 ans](https://www.ettoday.net/news/20120402/36278.htm)
-- [Huang Chun-ming traite Chiang Wei-bun de « XXXXX » — peine commuée en dispense de sanction, décision définitive](https://www.ettoday.net/news/20120906/99026.htm)
-- [Association des romanisations taïwanaises](https://tlh.org.tw/tai/)
-- [Le Centre d'études vietnamiennes de l'université Cheng Kung publie son premier manuel de vietnamien](https://www.peopo.org/news/111635)
+- [Page personnelle du professeur Chiang Wei-wen](https://twl.ncku.edu.tw/p/405-1143-114277,c10606.php?Lang=zh-tw)
+- [Chiang Wei-wen - Wikipédia](https://zh.wikipedia.org/zh-tw/%E8%94%A3%E7%82%BA%E6%96%87)
+- [Explication concernant l'incident de la protestation de l'Associate Professor Chiang Wei-wen à la Bibliothèque nationale de la littérature par le département de littérature taïwanaise de notre université](https://web.ncku.edu.tw/p/404-1000-79266.php?Lang=zh-tw)
+- [Protestation « Honteux » lors d'une conférence : Huang Chun-ming réplique par cinq mots et reçoit une peine de 2 ans de sursis](https://www.ettoday.net/news/20120402/36278.htm)
+- [Huang Chun-ming insulte Chiang Wei-wen avec des termes vulgaires : condamnation définitive sans prison](https://www.ettoday.net/news/20120906/99026.htm)
+- [Association pour l'alphabet latin à Taïwan](https://tlh.org.tw/tai/)
+- [Le premier manuel de vietnamien publié par le Centre d'études vietnamiennes de l'université NCKU](https://www.peopo.org/news/111635)

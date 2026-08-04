@@ -1,53 +1,54 @@
 ---
 title: 'Huang Kuo-chen'
-description: "Fondateur de Pinxuetang, il a transformé l'éducation à la lecture à Taïwan en apprenant aux élèves à comprendre les textes en profondeur, et non à simplement les parcourir."
+description: "Fondateur de Pin Xue Tang, promoteur de l'éducation à la compétence de lecture à Taïwan, engagé pour remédier au dilemme éducatif du « savoir réussir les examens sans savoir réfléchir »"
 date: 2026-03-20
+category: 'People'
 tags:
   [
-    'éducation',
-    'littératie',
-    'Pinxuetang',
-    'compréhension de lecture',
-    'innovation pédagogique',
-    'enseignement par compétences',
+    'Éducation',
+    'Compétence de lecture',
+    'Pin Xue Tang',
+    'Compréhension de texte',
+    'Innovation éducative',
+    'Éducation par les compétences',
   ]
-subcategory: 'Éducation et société'
-category: 'People'
+subcategory: '教育與社會'
 author: 'Taiwan.md'
-readingTime: 5
 featured: false
-translatedFrom: 'People/黃國珍.md'
 lastVerified: 2026-03-20
-sourceCommitSha: 'df2e7558'
+lastHumanReview: false
+readingTime: 5
+curation: 'incubating'
+translatedFrom: 'People/黃國珍.md'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:4ca80675bb1a1122'
 sourceBodyHash: 'sha256:2b34fd0038a36214'
-translatedAt: '2026-04-14T19:20:08+08:00'
-lastHumanReview: false
+translatedAt: '2026-08-04T14:32:57+08:00'
 ---
 
-# Huang Kuo-chen : apprendre aux enfants de Taïwan à « comprendre » et pas seulement à « finir de lire »
+# Huang Kuo-chen : apprendre aux enfants de Taïwan à « comprendre » plutôt qu'à simplement « lire »
 
-## Un diagnostic structurel
+## L'observation d'une crise
 
-Les élèves taïwanais affichent des résultats honorables dans les classements internationaux en lecture — mais Huang Kuo-chen a identifié un problème de fond : beaucoup d'entre eux savent « finir » un texte sans vraiment le « comprendre ». Ils repèrent les mots-clés, mais peinent à saisir la logique d'ensemble, à évaluer la fiabilité d'une information ou à transposer ce qu'ils ont lu dans un nouveau contexte.
+Bien que les capacités de lecture des élèves taïwanais ne soient pas médiocres lors des évaluations internationales, Huang Kuo-chen a remarqué un problème structurel : de nombreux élèves parviennent à « lire » un article, mais sont incapables de le « comprendre ». Ils peuvent identifier des mots-clombés dans le texte, mais ne parviennent pas à en saisir la logique, à juger de la crédibilité des informations ou à appliquer les connaissances acquises à de nouveaux contextes.
 
-Ce n'est pas un défaut des élèves. C'est le système éducatif lui-même qui, depuis des décennies, entraîne les jeunes à « trouver la bonne réponse » plutôt qu'à « comprendre la question ».
+Ce n'est pas un problème lié aux élèves, mais bien au système éducatif. Le régime des examens à Taïwan a longtemps entraîné les élèves à « chercher la réponse » plutôt qu'à « comprendre le problème ».
 
-## Pinxuetang et la revue _Compréhension de lecture_
+## Pin Xue Tang et la revue « Compréhension de lecture »
 
-En 2013, Huang Kuo-chen fonde **Pinxuetang** (品學堂) et lance la revue pédagogique _Compréhension de lecture_ (閱讀理解) — un matériel conçu spécifiquement pour développer la littératie. À rebours des tests de lecture classiques, les exercices de cette revue mettent l'accent sur le **processus de réflexion** plutôt que sur la bonne réponse : les élèves sont amenés à analyser la structure d'un texte, à confronter des points de vue, à identifier la posture de l'auteur et ses stratégies rhétoriques.
+En 2013, Huang Kuo-chen a fondé « Pin Xue Tang » et élaboré la revue _Compréhension de lecture_ (_Yuedu Lijie_), un support pédagogique spécifiquement conçu pour cultiver les compétences de lecture. Contraquirement aux tests de lecture classiques, la conception des exercices de cette revue met l'accent sur le « processus de réflexion » plutôt que sur la « bonne réponse » : les élèves doivent analyser la structure du texte, comparer différents points de vue et identifier la position ainsi que les stratégies rhétoriques de l'auteur.
 
-La revue est aujourd'hui présente dans plusieurs centaines d'établissements scolaires — collèges, lycées et écoles primaires — à travers tout Taïwan. Elle figure parmi les outils pédagogiques les plus utilisés dans le domaine de la littératie.
+Cette revue est désormais utilisée dans des centaines d'écoles primaires, collèges et lycées à travers tout le pays, devenant l'un des supports pédagogiques les plus largement diffusés pour l'enseignement de la compétence de lecture à Taïwan.
 
-## Vers un enseignement par compétences
+## Promouvoir l'éducation par les compétences
 
-Le travail de Huang Kuo-chen résonne directement avec l'esprit du **Curriculum 108** (entré en vigueur en 2019), qui place les compétences au cœur de l'enseignement taïwanais : moins de mémorisation, davantage d'esprit critique et de capacité à mobiliser ses savoirs. Huang et son équipe interviennent auprès de nombreux établissements et enseignants pour les accompagner dans cette transition — passer de « transmettre des contenus » à « enseigner à penser ».
+Le travail de Huang Kuo-chen est en parfaite adéquation avec l'esprit central du programme scolaire 108 (le nouveau programme mis en œuvre en 2019). Le programme 108 met l'accent sur un enseignement « orienté vers les compétences », réduisant le par cœur au profit du développement de la pensée critique et des capacités d'application. Huang Kuo-chen et l'équipe de Pin Xue Tang proposent des formations pédagogiques à de nombreux établissements et enseignants, les aidant à passer d'un modèle d'« enseignement du contenu » à un modèle d'« enseignement de la réflexion ».
 
-Il est par ailleurs le fils de l'écrivain Huang Chunming, grande figure de la littérature du terroir taïwanais. Deux générations, deux vocations complémentaires : l'un a mis des mots sur la vitalité de la terre taïwanaise, l'autre apprend à la génération suivante à lire le monde.
+Il est également le fils du célèbre écrivain taïwanais Huang Chun-ming. Deux générations : l'une utilise la littérature pour écrire la vitalité de la terre taïwanaise, l'autre utilise l'éducation pour donner à la génération suivante la capacité de comprendre ce monde.
 
-## Pour aller plus loin
+## Lectures complémentaires
 
-- Yeh Ping-cheng : professeur à l'Université nationale de Taïwan et créateur de la plateforme d'apprentissage ludique PaGamO
-- Lü Guan-wei : fondateur de la plateforme éducative Junyi Academy
-- Huang Chunming : maître de la littérature du terroir taïwanais, père de Huang Kuo-chen
-- Yan Chang-shou : pionnier du tourisme taïwanais reconverti dans l'éducation en zones rurales
+- [Yeh Bing-cheng](/fr/people/yeh-ping-cheng-education-innovator) : Professeur à l'Université nationale de Taïwan (NTU), développeur de la plateforme d'apprentissage ludifié PaGamO
+- [Lu Kuan-wei](/fr/people/lu-guan-wei-junyiacademy-founder) : Président de la plateforme éducative Junyi, innovateur pédagogique ayant délaissé la médecine pour l'enseignement
+- [Huang Chun-ming](/fr/people/huang-chun-ming-taiwanese-literary-master) : Maître de la littérature terrienne taïwanaise, père de Huang Kuo-chen
+- [Yen Chang-shou](/fr/people/stanley-yen) : Figure emblématique du tourisme engagée dans l'éducation en zones rurales

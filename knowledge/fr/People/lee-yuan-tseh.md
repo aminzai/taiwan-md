@@ -1,110 +1,110 @@
 ---
-title: 'Lee Yuan-tseh'
-description: 'Lauréat du prix Nobel de chimie en 1986, Lee Yuan-tseh a révolutionné la cinétique chimique grâce à la technique des faisceaux moléculaires croisés — premier Taïwanais à obtenir un prix Nobel scientifique'
+title: 'Li Yuan-che'
+description: 'Lauréat du prix Nobel de chimie 1986, pionnier de la dynamique chimique grâce à la technique des faisceaux moléculaires croisés, premier Taïwanais à recevoir un prix Nobel scientifique.'
 date: 2026-03-21
+category: 'People'
 tags:
   [
-    personnalité,
-    Lee Yuan-tseh,
-    prix Nobel,
-    chimie,
-    scientifique,
-    Academia Sinica,
-    Taïwan,
+    'Personnalités',
+    'Li Yuan-che',
+    'Prix Nobel',
+    'Chimie',
+    'Scientifique',
+    'Academia Sinica',
+    'Taïwan',
   ]
-subcategory: 'Sciences et monde académique'
-category: 'People'
+subcategory: '科學與學術'
 author: 'Taiwan.md'
-readingTime: 8
-featured: true
+featured: false
 lastVerified: 2026-03-21
+lastHumanReview: true
+curation: 'incubating'
 translatedFrom: 'People/李遠哲.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:c7cb9c37ad53a48c'
 sourceBodyHash: 'sha256:d9744718376b888a'
-translatedAt: '2026-04-14T19:15:40+08:00'
-lastHumanReview: true
+translatedAt: '2026-08-04T14:32:57+08:00'
 ---
 
-# Lee Yuan-tseh
+# Li Yuan-che
 
-> **En 30 secondes :** Lee Yuan-tseh (né le 19 novembre 1936) est un chimiste originaire de Hsinchu. En 1986, il a partagé le prix Nobel de chimie avec Dudley Herschbach et John Polanyi pour ses travaux pionniers en cinétique des réactions chimiques. La technique des faisceaux moléculaires croisés qu'il a développée a permis aux scientifiques de « voir » pour la première fois le déroulement d'une réaction chimique. Il est le premier Taïwanais à avoir reçu un prix Nobel scientifique.
+> **Aperçu en 30 secondes :** Li Yuan-che (né le 19/11/1936), chimiste originaire de Hsinchu. En 1986, il a partagé le prix Nobel de chimie avec Dudley R. Herschbach et John C. Polanyi pour leurs contributions révolutionnaires à la dynamique des réactions chimiques. La technique des faisceaux moléculaires croisés qu'il a développée a permis aux scientifiques de « voir » pour la première fois le processus d'une réaction chimique. Il est le premier Taïwanais à avoir remporté un prix Nobel scientifique.
 
-Le 19 novembre 1936, Lee Yuan-tseh voit le jour à Hsinchu, alors sous administration japonaise. Son père, Lee Tse-fan, est un peintre aquarelliste de renom et directeur d'école primaire. Baignant dans cet univers artistique et éducatif, le jeune Lee développe très tôt un sens aigu de l'observation. Enfant, il démonte volontiers radios et réveils pour comprendre leur fonctionnement — une curiosité qui allait, des décennies plus tard, transformer la chimie mondiale.
+Le 19 novembre 1936, Li Yuan-che naît dans la ville de Hsinchu (actuel district de l'est de Hsinchu), sous l'administration japonaise. Son père, Li Ze-fan, était un célèbre peintre à l'aquarelle et directeur d'école primaire ; ce cadre familial mêlant art et éducation a aiguisé son sens de l'observation. Dès l'enfance, il aimait démonter des radios et des réveils pour comprendre leur fonctionnement — une curiosité qui allait plus tard transformer le monde de la chimie.
 
-## Parcours académique : de Hsinchu à la scène internationale
+## Un parcours académique : de Hsinchu à la scène mondiale
 
-Au lycée de Hsinchu, Lee se distingue déjà par son goût prononcé pour les sciences et les mathématiques. En 1955, il intègre le département de chimie de l'Université nationale de Taïwan. Alors que les cours portent principalement sur la chimie analytique, il organise des groupes de travail autonomes consacrés à la chimie physique et apprend l'allemand et le russe pour accéder aux publications étrangères.
+Lors de ses études au lycée de Hsin$ch$u, Li Yuan-che manifestait déjà un vif intérêt pour les mathématiques et la physique. En 1955, il intègre le département de chimie de l'Université nationale de Taïwan. Bien que le cursus de l'époque soit principalement axé sur la chimie analytique, il fonde son propre groupe d'étude pour approfondir la chimie physique, apprenant même l'allemand et le russe pour consulter la littérature scientifique étrangère.
 
-En 1959, il poursuit ses études à l'Institut de sciences atomiques de l'Université nationale Tsing Hua, où il se spécialise en spectroscopie moléculaire pour son master. En 1962, une bourse lui ouvre les portes de l'Université de Californie à Berkeley, où il obtient son doctorat en cinétique chimique en 1967.
+En 1959, il intègre l'Institut des sciences atomiques de l'Université Tsing Hua pour y préparer un master, spécialisé en spectroscopie moléculaire. En 1962, grâce à une bourse, il part étudier la dynamique chimique à l'Université de Californie à Berkeley, où il obtient son doctorat en 1967.
 
-Le véritable tournant se produit à Harvard. Entre 1967 et 1969, Lee effectue son post-doctorat sous la direction de Dudley R. Herschbach, lauréat du Nobel. Ensemble, ils développent la technique révolutionnaire des faisceaux moléculaires croisés.
+Le véritable tournant survient à l'Université Harvard. Entre 1967 et 1969, Li Yuan-che effectue ses recherches postdoctorales sous la direction du prix Nobel Dudley R. Herschbach. Ensemble, ils développent la technique révolutionnaire des « faisceaux moléculaires croisés ».
 
-## Les faisceaux moléculaires croisés : une percée pour la chimie
+## Faisceaux moléculaires croisés : une percée en chimie
 
-Étudier une réaction chimique de manière traditionnelle, c'est un peu comme observer une foule dans un marché nocturne animé — les molécules se heurtent sans cesse dans tous les sens, rendant l'observation précise pratiquement impossible. La technique inventée par Lee consiste à faire se croiser deux faisceaux de molécules à des angles et des vitesses maîtrisés, dans un environnement sous vide poussé. L'effet est comparable à un ralenti haute définition : on peut enfin observer chaque instant d'une réaction.
+Étudier une réaction chimique traditionnelle revient à observer une foule dans un marché de nuit animé : les molécules s'entrechoquent sans cesse dans un mouvement désordonné, rendant l'observation précise presque impossible. La technique des faisceaux moléculaires croisés inventée par Li Yuan-che permet, dans un environnement de vide poussé, de faire entrer en collision deux faisceaux de molécules selon des angles et des vitesses précis, agissant comme un « ralenti » cinématargraphique d'une réaction chimique.
 
-Cette approche a permis pour la première fois d'observer à l'échelle moléculaire comment les réactifs se transforment en produits, comment l'énergie se transfère entre molécules, et comment la géométrie de la réaction évolue. Pour la cinétique chimique, c'était un saut quantique — de la conjecture à l'observation directe.
+Cette technologie a permis aux scientifiques de « voir », pour la première fois à l'échelle moléculaire, chaque étape d'une réaction : la transformation des réactifs en produits, le transfert d'énergie entre les molécules et les changements de structure spatiale. Pour la dynamique chimique, ce fut une révolution, passant de la simple conjecture à l'observation directe.
 
-En 1974, Lee rejoint Berkeley en tant que professeur de chimie et affine continuellement cette technique. Il étudie des réactions apparemment simples, comme F + H₂ → HF + H, et y découvre des phénomènes inattendus qui sont devenus des références incontournables dans les manuels de cinétique chimique.
+En 1974, Li Yuan-che retourne à Berkeley en tant que professeur de chimie pour perfectionner cette technique. Il étudie des réactions apparemment simples, comme celle entre un atome de fluor et une molécule d'hydrogène ($\text{F} + \text{H}_2 \rightarrow \text{HF} + \text{H}$), et y découvre de nombreux phénomènes inattendus. Ces travaux sont devenus des cas d'école dans les manuels de dynamique chimique.
 
-## 1986 : le moment Nobel de Taïwan
+## 1986 : l'instant Nobel de Taïwan
 
-Le 15 octobre 1986, l'Académie royale des sciences de Suède annonce l'attribution du prix Nobel de chimie à Herschbach, Lee et Polanyi, « pour leurs contributions à la dynamique des processus élémentaires de la chimie », qui ont permis de comprendre en profondeur comment se produisent les réactions chimiques.
+Le 15 octobre 1986, l'Académie royale suédoide de sciences annonce l'attribution du prix Nobel de chimie à Herschbach, Li Yuan-che et Polanyi, pour leurs « contributions aux études dynamiques des processus chimiques fondamentaux, permettant une compréhension plus approfondie de la manière dont les réactions chimiques se produisent ».
 
-La nouvelle se répand comme une traînée de poudre à Taïwan. Ce premier prix Nobel scientifique taïwanais prouve que l'île est capable de former des talents de classe mondiale. Lee offre l'une de ses médailles à son lycée d'origine à Hsinchu, déclarant : « Ce prix Nobel n'est pas le fruit de mon seul travail — c'est le lycée de Hsinchu qui m'a façonné. »
+Lorsque la nouvelle de l'attribution du prix atteint Taïwan, l'île entière entre en ébullition. Premier Taïwanais lauréat d'un prix Nobel scientifique, il prouve que le pays est capable de former des talents scientifiques de classe mondiale. Li Yuan-che offrira immédiatement l'une de ses médailles à son ancien lycée, Hsinchu High School, déclarant : « Le prix Nobel n'est pas l'œuvre d'un seul homme ; c'est Hsinchu High School qui m'a façonné. »
 
-Fait notable : Lee est officiellement récompensé en tant que citoyen américain. Mais cela ne diminue en rien la fierté taïwanaise — tout le monde sait que cet enfant de Hsinchu, locuteur de taïwanais, porte en lui les racines de Taïwan.
+Il est intéressant de noter que la nationalité de Li Yuan-che au moment du prix était américaine. Cela n'a toutefois en rien entamé la fierté des Taïwanais, qui savaient que cet enfant ayant grandi à Hsinchu et parlant le taïwanais portait en lui l'essence même de Taïwan.
 
-## 1994 : la promesse du retour
+## 1994 : la promesse du retour au pays
 
-En 1994, alors qu'il est au sommet de sa carrière académique, Lee prend une décision qui stupéfie la communauté scientifique internationale : il renonce à sa chaire à Berkeley, abandonne la nationalité américaine et rentre à Taïwan pour prendre la présidence de l'Academia Sinica (1994-2006).
+En 1994, alors qu'il est au sommet de sa carrière académique, Li Yuan-che prend une décision qui stupéfie la communauté scientifique internationale : il démissionne de son poste de professeur à Berkeley, renonce à sa nationalité américaine et retourne à Taïwan pour devenir président de l'Academia Sinica (1994-2006).
 
-Ce choix suscite des réactions contrastées. Ses détracteurs estiment qu'il dilapide son influence sur la scène internationale ; ses partisans y voient l'accomplissement de l'idéal du savant au service de sa patrie. Lee, lui, résume simplement sa motivation : « Je veux mettre mon expérience au service d'un Taïwan qui deviendrait le pôle scientifique de l'Asie. »
+Cette décision fut controversée. Ses détracteurs estimaient qu'il gaspillait son influence sur la scène internationale, tandis que ses partisans y voyaient l'accomplissement d'un idéal de service à la patrie par le chercheur. La raison de Li Yuan-che était simple : « Je souhaite mettre mon expérience au service de Taïwan pour en faire un pôle scientifique majeur en Asie. »
 
-Durant ses douze années à la tête de l'Academia Sinica, il modernise l'institution, met en place un système d'évaluation de la recherche aux standards internationaux et crée plusieurs nouveaux instituts — en informatique, en sciences biomédicales, en génomique. Il attire des chercheurs de renommée mondiale comme Chi-Huey Wong et Ching-Shih Chen, insufflant une nouvelle vigueur à la communauté scientifique taïwanaise.
+Durant ses douze années à la tête de l'Academia Sinica, Li Yuan-che a modernisé l'organisation, instauré un système d'évaluation de la recherche internationalisé et créé de nouveaux instituts dans des domaines tels que l'informatique, les sciences biomédicales et la génomique. Il a attiré des chercheurs de renommée internationale, tels que Weng Chi-hui et Lai Ming-chao, insufflant une nouvelle vitalité à la science taïwanaise.
 
-## L'engagement controversé pour la réforme de l'éducation
+## Participation controversée à la réforme éducative
 
-Au-delà de la science, Lee s'implique dans la réforme de l'enseignement. Dans les années 1990, il participe à l'élaboration du programme scolaire intégré sur neuf ans, défendant le développement de l'esprit critique face au bachotage.
+Li Yuan-che n'est pas seulement un scientifique, il fut aussi un acteur de la réforme éducative. Dans les années 1990, il a participé à la planification du programme scolaire de neuf ans, prônant le développement de la capacité de réflexion des élèves plutôt qu'un enseignement par « encrassement » (mémorisation pure).
 
-Les résultats de cette réforme font l'objet d'âpres débats : ses opposants lui reprochent d'avoir abaissé le niveau. Lee en tire lui-même la leçon : « La réforme de l'éducation est bien plus complexe que la recherche scientifique — elle touche à toutes les dimensions de la société. »
+Cependant, les résultats de cette réforme ont suscité d'intenses débats, certains critiques estimant que les standards d'apprentissage avaient baissé, ce qui a exposé Li Yuan-che à de fortes pressions. Il a plus tard réfléchi : « La réforme de l'éducation est plus complexe que la recherche scientifique, car elle implique tous les aspects de la société. »
 
-Cette expérience lui révèle que même un lauréat du Nobel, dès lors qu'il sort de son laboratoire pour affronter des enjeux sociaux, n'a pas de réponse toute faite.
+Cette expérience lui a fait réaliser que même un prix Nobel, lorsqu'il quitte son laboratoire pour affronter des enjeux sociétaux, ne trouve pas nécessairement de réponses standardisées.
 
-## Pionnier de l'environnement et rayonnement international
+## Pionnier de l'environnement et prestige international
 
-Lee est l'un des premiers scientifiques taïwanais à s'être préoccupé des questions environnementales. Ses équipes de recherche se sont investies dans la chimie atmosphérique, la dégradation de la couche d'ozone et les changements climatiques, fournissant des bases scientifiques aux politiques environnementales.
+Li Yuan-che fut l'un des premiers scientifiques taïwanais à se préoccuper des questions environnementales. Son équipe de recherche s'est investie dans les domaines de la chimie atmosphérique, de la destruction de la couche d'ozone et du changement climatique, fournissant des bases scientifiques aux politiques environnementales.
 
-Il a présidé le Conseil international pour la science (2011-2014) et a œuvré pour la coopération scientifique mondiale. Il occupe aujourd'hui le poste de président honoraire de l'Institut des études avancées de l'Université de Nagoya, tout en restant actif sur la scène académique internationale.
+Il a présidé le Conseil international pour la science (2011-2014), promouvant la coopération scientifique mondiale. Il occupe actuellement le poste de président émérite de l'Institut supérieur de recherche de l'Université de Nagoya et reste très actif dans la communauté académique internationale.
 
-Ses articles scientifiques ont été cités des dizaines de milliers de fois, et nombre de ses anciens étudiants sont devenus des scientifiques reconnus. Mais ce dont il est peut-être le plus fier, c'est d'avoir démontré qu'un enfant de Taïwan peut briller sur la scène mondiale.
+Les travaux de Li Yuan-che sont cités des dizaines de milliers de fois, et nombre de ses étudiants sont devenus des scientifiques renommés. Mais sa plus grande fierté réside peut-être d'avoir prouvé qu'un « enfant de Taïwan » (_Taiwan nan-zai_) peut briller sur la scène mondiale.
 
-## La transmission d'un esprit scientifique
+## Transmission de l'esprit scientifique
 
-Lee répète volontiers : « La curiosité est le moteur le plus important de la recherche scientifique. » Il encourage les jeunes à questionner, à réfléchir, à innover — plutôt qu'à apprendre par cœur.
+Li Yuan-che répète souvent : « La curiosité est le moteur le plus important de la recherche scientifique. » Il encourage les jeunes à questionner, à réfléchir et à innover, plutôt qu'à mémoriser aveuglément.
 
-Il insiste aussi sur la responsabilité sociale du scientifique : « Le savoir ne peut pas rester confiné dans un laboratoire. Il doit retourner à la société et contribuer à résoudre les problèmes auxquels l'humanité est confrontée. »
+Il souligne également la responsabilité sociale du scientifique : « La connaissance scientifique ne doit pas rester confinée au laboratoire ; elle doit être restituée à la société pour résoudre les problèmes de l'humanité. »
 
-## Un héritage durable
+## Une influence durable
 
-À près de 90 ans, Lee Yuan-tseh continue de suivre de près l'évolution des sciences et des débats sociétaux. Il a été le témoin — et l'un des acteurs — de la transformation de Taïwan, passé d'une société agricole à une île technologique.
+Bien qu'approchant la fin de la nonagénaire, Li Yuan-che continue de suivre de près les développements scientifiques et les enjeux sociaux. Il a été le témoin de la métamorphose de Taïwan, passant d'une société agraire à une île technologique, et a participé activement à cette transformation.
 
-Du fils d'un aquarelliste de Hsinchu au podium du Nobel ; du laboratoire de Berkeley au bureau du président de l'Academia Sinica — la trajectoire de Lee Yuan-tseh est le reflet fidèle de l'essor scientifique de Taïwan.
+Du fils d'un peintre à l'aquarelle de Hsinchu au géant scientifique sur la scène du prix Nobel ; du laboratoire de Berkeley au bureau de la présidence de l'Academia Sinica — la trajectoire de vie de Li Yuan-che est le miroir du développement scientifique de Taïwan.
 
-Son héritage le plus précieux n'est peut-être pas ses découvertes scientifiques, mais la preuve qu'il a apportée au monde : Taïwan est capable de former des talents qui changent la donne. Ce gamin de Hsinchu, grâce à la technique des faisceaux moléculaires croisés, a redéfini les possibilités de la chimie — et la place de Taïwan sur la carte scientifique mondiale.
+Son héritage le plus précieux n'est pas ses découvertes scientifiques, mais ce qu'il a prouvé au monde : Taïwan possède la capacité de former des talents capables de changer le monde. Cet enfant de Hsinchu a redéfini les possibilités de la chimie grâce aux faisceaux moléculaires croisés, et a redéfini la place de Taïwan sur la carte scientifique mondiale.
 
-À une époque où le terme « fierté de Taïwan » n'existait pas encore, Lee Yuan-tseh était déjà la lumière la plus vive.
+À une époque où l'expression « Lumière de Taïwan » n'existait pas encore, Li Yuan-che était déjà la lumière la plus éclatante.
 
 ---
 
-**Pour aller plus loin** :
+**Lecture complémentaire :**
 
-- Wu Ta-you — prédécesseur de Lee à la présidence de l'Academia Sinica, il a posé les bases du système de recherche scientifique taïwanais et a formé deux lauréats du prix Nobel de physique, Yang Chen-ning et Lee Tsung-dao.
+- [Wu Da-you](/fr/people/tai-yu-wu) — Prédécesseur de Li Yuan-che à la présidence de l'Academia Sinica, il a posé les bases du système de recherche taïwanais et a formé deux lauréats du prix Nobel de physique, Tsung-Dao Lee et Chen Ning Yang.
 
 ## Références
 
-- [Contributions académiques de Lee Yuan-tseh — Science Vistas (scitechvista.nat.gov.tw)](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=761c61ef-db0d-4461-b23a-6b8ef1f7dcfb)
-- [Communiqué officiel du prix Nobel de chimie 1986 — CASE (case.ntu.edu.tw)](https://case.ntu.edu.tw/blog/?p=25746)
-- [Premier Taïwanais lauréat du prix Nobel de chimie — UDN Time (time.udn.com)](https://time.udn.com/udntime/story/122833/8158897)
-- [Lee Yuan-tseh — Wikipédia](https://zh.wikipedia.org/zh-hant/%E6%9D%8E%E9%81%A0%E5%93%B2)
+- [L'académicien Li Yuan-che et sa contribution à la science - Science Garden](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=761c61ef-db0d-4461-b23a-6b8ef1f7dcfb)
+- [Communiqué officiel du prix Nobel de chimie 1986 - CASE News Science](https://case.ntu.edu.tw/blog/?p=25746)
+- [Le premier Taïwanais lauréat du prix Nobel de chimie « Li Yuan-che » - Bao Shi Guang](https://time.udn.com/udntime/story/122833/8158897)
+- [Li Yuan-che - Wikipédia](https://zh.wikipedia.org/zh-hant/%E6%9D%8E%E9%81%A0%E5%93%B2)

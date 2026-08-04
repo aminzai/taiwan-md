@@ -1,17 +1,17 @@
 ---
-title: 'Ce n’est pas apporté par Tchang Kaï-chek : quatre siècles d’élevage du milkfish'
-description: 'Les habitants de Tainan appellent le milkfish « poisson‑maison », mais son origine vient de la technique d’élevage introduite par la Compagnie néerlandaise des Indes orientales depuis l’Indonésie, trente‑sept ans avant l’arrivée de Tchang Kaï-chek à Taïwan. Les étangs de Qigu couvrent 4 500 ha, et plus de sept façons de préparer le poisson constituent le fossile vivant de ces quatre cents ans d’élevage.'
+title: "Ce n'est pas Koxinga qui l'a apporté : les quatre cents ans d'histoire de l'élevage du pangasius (milte)"
+description: "Les habitants de Tainan appellent le pangasius le « poisson de la maison », mais son origine remonte aux techniques d'élevage introduites par la Compagnie néerlanda  des Indes orientales depuis l'Indonésie, trente-sept ans avant l'arrivée de Koxinga à Taïwan."
 date: 2026-07-02
 category: 'Food'
 tags:
   [
     'Tainan',
-    'milkfish',
+    'pangasius',
     'Qigu',
-    'aquaculture',
-    'Pays‑bas',
-    'snack',
-    'petit‑déjeuner',
+    'élevage',
+    'Pays-Bas',
+    'cuisine locale',
+    'petit-déjeuner',
   ]
 subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
@@ -19,76 +19,72 @@ featured: false
 lastVerified: 2026-07-02
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
 translatedFrom: 'Food/虱目魚粥.md'
-sourceCommitSha: '3011828ba'
-sourceContentHash: 'sha256:162956900cab6d34'
+sourceCommitSha: '03b3aaae8'
+sourceContentHash: 'sha256:7cca8a0f488ac56f'
 sourceBodyHash: 'sha256:a40f868b6fc53c66'
-translatedAt: '2026-07-07T00:38:22+08:00'
+translatedAt: '2026-08-04T15:04:47+08:00'
 ---
 
-À quatre heures du matin, les étangs de Qigu sont encore dans l’obscurité. Les ouvriers, chaussés de bottes en caoutchouc, ouvrent les vannes ; les bancs de poissons réagissent au bruit de l’eau et se mettent à bouger. Le milkfish ne supporte pas le froid ; en hiver, on doit installer des équipements d’isolation, tandis qu’en été la récolte commence à l’aube – si l’on ne pêchait pas, les stands de porridge du centre‑ville de Tainan ouvriraient leurs volets le lendemain matin. Cette chaîne d’approvisionnement, de Qigu à la rue Guohua, a déjà lancé son premier service il y a plus de trois cents ans.
+À quatre heures du matin, les bords des étangs de Qigu sont encore plongés dans l'obscurité. Les ouviers de la pêche, chaussés de bottes en caoutchouc, ouvrent les vannes ; dès que le bruit de l'eau se fait entendre, les bancs de poissons s'agitent. Le pangasius (_milte_) ne supporte pas les basses températures : il faut installer des équipements de maintien thermique en hiver, et la saison des récoltes en été commence à l'aube — si l'on ne ramasse pas le poisson à cette heure, les étals de bouillie dans le centre de Tainan ne pourront pas ouvrir leurs portes le lendemain matin. Cette chaîne d'approvisionnement, s'étendant de Qigu jusqu'à la rue Guohua, a lancé sa première rotation il y de cela plus de trois cents ans.
 
-Ce poisson n’a aucun lien avec Tchang Kaï-chek.
+Ce poisson n'a aucun lien avec Koxinga (Zheng Chenggong).
 
-## L’histoire la plus agréable est aussi la moins exacte
+## L'histoire la plus belle est aussi la moins exacte
 
-Le folklore raconte que, lorsqu’il arriva à Taïwan, Tchang Kaï-chek eut une pénurie de vivres. En bord de mer, à Anping, il aperçut un poisson et demanda à ses hommes « Quel poisson est‑ce ? » – le mot « quoi » en minnan aurait été déformé en « 虱目 », fixant ainsi le nom du poisson.
+Une légende populaire raconte que lors de l'arrivée de Koxinga à Taïwan, son armée manquait de vivres. Sur la côte d'Anping, il aperçut un type de poisson et demanda à ses compagnons : « Quel est ce poisson ? ». La prononancement de « quel » (_shémme_) en Hokkien aurait été déformé en « _shīmù_ », et le nom du poisson fut ainsi fixé.
 
-Cette anecdote se répand dans les temples, les manuels scolaires et les brochures touristiques : elle est émotive, visuelle, facile à retenir. Mais les historiens ont depuis longtemps relevé le problème : la Compagnie néerlandaise des Indes orientales introduisit la technique d’élevage du milkfish depuis l’Indonésie pendant la période néerlandaise (1624‑1662), soit au moins trente‑sept ans avant l’arrivée de Tchang Kaï-chek en 1661. La fin du XVIIᵉ siècle, le « Taiwan Fu Zhi » (1694), mentionne déjà l’élevage du milkfish, les premiers sites se trouvant autour de Lukermen – aujourd’hui les environs du district d’Anping. Plus de quatre cents ans d’histoire.
+Cette histoire circule devant les temples, dans les manuels scolaires et sur les brochures touristiques ; elle est émouvante, imagée et facile à mémoriser. Cependant, les historiens ont depuis longtemps relevé l'erreur : la Compagnie néerlandaise des Indes orientales a introduit les techniques d'élevage du pangasius à Taïwan durant la période coloniale néerlandaise (1624—1662), soit au moins trente-sept ans avant l'arrivée de Koxinga en 1661. Le _Taiwan Fu Zhi_ (Chroniques du府 de Taïwan, 1694), datant de la fin du XVIIe siècle, mentionne déjà l'élevage du pangasius, et les premiers sites d'élevage se situaient dans la zone de Luerhmen — aujourd'hui aux environs du district d'Anping. Cela fait plus de quatre cents ans.
 
-📝 Note du commissaire‑exposant : le mythe selon lequel le milkfish aurait été apporté par Tchang Kaï-chek illustre parfaitement qu’une bonne histoire possède une longévité bien supérieure aux preuves historiques. Les Néerlandais ont introduit la technique, Tchang Kaï-chek en a repris le droit de nommage.
+📝 Note du commissaire d'exposition : La légende selon laquelle « le pangasius a été apporté par Koxinga » illustre parfaitement une chose : la vitalité d'une bonne histoire est bien plus longue que celle des preuves historiques. Les Néerlandais ont apporté la technique, mais Koxinga s'est approprié le droit de nommer.
 
-## Qigu : la géographie des étangs
+## Qigu : La géographie des étangs
 
-Aujourd’hui, Tainan reste la plus grande zone de production de milkfish de Taïwan, représentant environ 50 % de la production nationale. Le cœur de cette production se situe dans le district de Qigu – plus de 4 500 ha d’étangs, plus de six mille puits, le plus grand chiffre du pays.
+Aujourd'hui, Tainan demeure la plus grande région de production de pangasius de Taïwan, représentant environ 50 % de la production nationale. Le cœur de cette activité se trouve dans le district de Qigu, qui compte plus de 4 500 hectares de zones d'élevage et plus de 6 000 étangs, soit le premier chiffre du pays.
 
-Le relief de Qigu est déterminant : terrain côtier plat, fond limoneux, salinité modérée – des conditions naturelles idéales pour les étangs. À environ quarante minutes en voiture du centre‑ville de Tainan, les routes sont bordées d’étendues d’eau continues, des hérons cendrés se tiennent sur les digues, et au loin s’étend le détroit de Taïwan.
+La topographie de Qigu est la clé : un terrain côtier plat, un fond vaseux et une salinité modérée constituent des conditions naturelles idéales pour les étangs. À environ quarante minutes de route du centre de Tainan, on découvre de chaque côté de la route des étendues d'eau continues, des aigrettes blanches perchées sur les digues et, au loin, le détroit de Taïwan.
 
-La distance en ligne droite entre Anping et la rue Guohua, où se trouvent les stands de porridge, ne dépasse pas quinze kilomètres. En partant de Qigu, elle ne dépasse pas quarante kilomètres. Cette chaîne d’approvisionnement courte constitue la base matérielle qui rend le milkfish de Tainan à la fois bon marché et frais pour le petit‑déjeuner.
+La distance directe entre Anping et les étals de bouillie de la rue Guohua ne dépasse pas quinze kilomètres. En incluant Qigu, elle ne dépasse pas quarante kilomètres. Cette chaîne d'approvisionnement à courte distance est le fondement matériel qui permet aux petits-déjeuners de pangasius à Tainan d'être à la fois bon marché et frais.
 
-📝 Note du commissaire‑exposant : Qigu ne se contente pas d’élever le milkfish ; c’est aussi l’un des sites d’hivernage les plus importants au monde pour le héron à bec noir. La protection des zones humides et les intérêts de la pêche s’affrontent ici depuis longtemps – les étangs ne sont pas seulement le point de départ de l’alimentation, ils sont aussi le théâtre d’une politique écologique.
+📝 Note du commissaire d'exposition : Qigu n'est pas seulement un lieu d'élevage de pangasius, c'est aussi l'un des sites d'hivernage les plus importants au monde pour les ibis à face noire. Les revendications écologiques pour la protection des zones humides et les intérêts de la pêche s'y affrontent sur le long terme — les étangs ne sont pas seulement le point de départ de la nourriture, ils sont aussi un terrain de politique écologique.
 
-## L’anatomie du poisson entier
+## L'anatomie du poisson entier
 
-Les habitants de Tainan consomment le milkfish sans gaspillage. Cette logique provient de l’habitude des travailleurs portuaires au petit‑déjeuner : chaque partie du poisson a son usage.
+À Tainan, on ne gaspille rien lorsqu'on mange du pangasius. C'est l'héritage de la logique alimentaire des travailleurs des docks : chaque partie a sa destination propre.
 
-- Le ventre (abdomen) est le plus gras, idéal pour la cuisson à sec, la peau devient croustillante tandis que la chair reste tendre – deux textures en une bouchée.
-- Les filets (chair dorsale) sont les meilleurs dans le porridge : fraîcheur, douceur et élasticité, un parfum léger qui ne domine pas.
-- La peau, riche en gélatine, convient aux soupes ; en la buvant, les lèvres deviennent légèrement collantes – c’est du collagène, pas un additif.
-- Les intestins, frits, sont croustillants et croquants, mais exigent une fraîcheur extrême ; ils sont difficiles à reproduire ailleurs.
-- La tête, braisée ou mijotée, regorge de gélatine, parfaite pour une cuisson lente.
-- Les œufs, disponibles uniquement pendant la saison, sont poêlés ou marinés, un mets que seuls les habitués recherchent.
+La partie ventrale (l'abdomen) est la plus grasse, idéale pour une cuisson à la poêle ; la peau est croustillante et la chair tendre, offrant deux textures en une seule bouchée. Les filets (la chair dorsale) sont parfaits dans la bouillie, avec un goût sucré, ferme et délicat qui ne masque pas le reste du plat. La peau, riche en gélatine, est idéale pour les soupes ; en la consommant, vos lèvres deviendront légèrement collantes — c'est du collagène, pas un additif. Les intestins de poisson, frits, sont croquants et savoureux, mais cela exige une fraîcheur extrême, ce qui rend cette méthode difficile à reproduire ailleurs. La tête de poisson, braisée ou à la sauce rouge, est riche en gélatine et se déguste lentement. Les œufs de poisson, disponibles uniquement selon la saison, frits ou marinés, sont des trésors que seuls les habitués savent dénicher.
 
-Chaque découpe est précise, car chaque partie mérite d’être traitée séparément.
+Chaque découpe est précise, car chaque partie mérite d'être traitée individuellement.
 
-📝 Note du commissaire‑exposant : la culture du « manger chaque partie » du milkfish repose sur une logique de zéro gaspillage propre aux repas des travailleurs. Au stand de porridge de Tainan, commander, ce n’est pas seulement choisir un ingrédient, c’est choisir une façon de comprendre le poisson. Les touristes optent souvent pour le « mixte », tandis que les habitués sélectionnent leurs parties préférées.
+📝 Note du commissaire d'exposition : La culture de la « consommation segmentée » du pangasius est, par essence, une logique alimentaire ouvrière basée sur le zéro gaspillage. En commandant dans un étal de bouillie à Tainan, vous ne choisissez pas seulement un ingrédient, mais une compréhension différente du poisson. Les touristes commandent souvent des plats « mixtes », tandis que les habitués ont leurs préférences bien précises.
 
-## Le porridge blanc à cinq heures du matin
+## La bouillie blanche de cinq heures du matin
 
-Vers cinq heures trente, le stand de porridge cuit séparément chaque partie, les répartit dans de petites assiettes, puis les apporte à la table pour que le client les ajoute à son porridge blanc.
+À cinq heures et demie du matin, les cuisiniers font blanchir chaque partie séparément, puis les disposent dans de petites coupelles sur la table, permettant aux clients d'ajouter eux-mêmes les morceaux à leur bouillie blanche.
 
-Ce système de libre‑service n’est pas une invention culinaire, mais une question d’efficacité. Les ouvriers du port prennent leur petit‑déjeuner sans le temps d’attendre que le chef décide ce qui ira dans leur bol. Les accompagnements sont déjà là ; le client sait ce qu’il doit ajouter pour compenser la fatigue du jour – plus d’intestins si le travail est intense, ou un bouillon de peau de poisson si la veille a été trop festive.
+Ce système de libre-service n'est pas une invention gastronomique, c'est une question d'efficacité. Les travailleurs des docks, en prenant leur petit-déjeuner, n'ont pas le temps d'attendre que le chef décide du contenu de leur bol. Les ingrédients sont là ; à vous de savoir ce dont vous avez besoin ou ce que vous voulez éviter aujourd'hui — plus de force nécessaire ? Ajoutez plus d'intestins. Une soirée trop arrosée ? Optez pour une bouillie légère accompagnée de soupe de peau de poisson.
 
-La logique d’élevage de trois cents ans vit encore aujourd’hui dans le rythme matinal.
+La logique d'élevage d'il y a trois cents ans vit encore dans le rythme de ce matin.
 
-## Le nom reste un mystère
+## Le nom reste, finalement, un mystère
 
-L’origine du terme « milkfish » (虱目魚) n’est toujours pas tranchée par la communauté académique.
+L'origine exacte du nom « _shīmùyú_ » (pangasius) n'a toujours pas fait l'objet d'un consensus scientifique.
 
-Certains avancent une transcription néerlandaise ou malaise ; d’autres suggèrent qu’il proviendrait du minnan « 細目 » (se‑mu), faisant référence aux yeux très fins du poisson. Il y a aussi la théorie selon laquelle chaque région d’élevage aurait donné son propre nom, qui se serait finalement fixé en minnan.
+Certains soutiennent qu'il s'agit d'une translittération de l'hollandais ou du malais ; d'autres avancent que cela pourrait venir du terme taïwanais _xìmù_ (en lien avec la caractéristique des yeux très petits de ce poisson) ; d'autres encore pensent que les travailleurs des différentes zones d'élevage l'appelaient chacun à leur manière, avant que le nom ne se stabilise en taïwanais.
 
-L’histoire de Tchang Kaï-chek demandant « Quel poisson ? » demeure la version la plus répandue. Parfois, la meilleure histoire n’est pas la plus exacte – mais elle a permis à une industrie d’élevage datant de quatre cents ans de laisser son nom sur chaque table du petit‑déjeuner.
+L'histoire de Koxinga demandant « quel est ce poisson » reste la version la plus largement diffusée. Parfois, la meilleure histoire pour la mémoire n'est pas la plus exacte — mais elle a permis à une industrie d'élevage vieille de quatre cents ans de laisser son nom sur la table de petit-déjeuner de chacun.
 
 ---
 
 ## Références
 
-- [Milkfish — Wikipédia (zh)](https://zh.m.wikipedia.org/zh-tw/%E8%99%B1%E7%9B%AE%E9%AD%9A)
-- [« Le nom du milkfish et son lien avec Tchang Kaï-chek ? » — Food Next Future Food Report](https://www.foodnext.net/life/culture/paper/5098989327)
-- [« Histoire ambulante de Tainan : le milkfish a enrichi les étangs et les matins des habitants de la ville » — Critical Review Network](https://www.thenewslens.com/article/131368)
-- [« Le milkfish de Tainan pourrait provenir de produits importés d’Europe au XVIIᵉ siècle » — Central News Agency](https://www.cna.com.tw/news/acul/202403060184.aspx)
-- [« Voir le milkfish à travers Taïwan (Partie 1) » — Journal de la Société géographique de la République de Chine](https://blog.geogsoc.org.tw/milk-fish-calvin-hung-1/)
-- [« Expérience de pêche nocturne dans les étangs de Qigu » — Smile Taiwan](https://smiletaiwan.cw.com.tw/article/5955)
-- [« Milkfish, tilapia, grouper – découvrez les produits de la pêche qui arrivent sur nos tables » — PanSci](https://pansci.asia/archives/174611)
-- [« Profil industriel du district de Qigu » — Bureau du district de Qigu, ville de Tainan](https://cigu.tainan.gov.tw/cp.aspx?n=6308)
-- [« Milkfish de Tainan – Plateforme d’information sur l’éducation agro‑alimentaire (Ministère de l’Agriculture) »](https://fae.moa.gov.tw/map/food_item.php?type=AS02&id=2&local_id=6)
+- [Pangasius (Milte) — Wikipédia](https://zh.m.wikipedia.org/zh-tw/%E8%99%B1%E7%9B%AE%E9%AD%9A)
+- [Quel est le lien entre le nom du pangasius et Koxinga ? — Food Next](https://www.foodnext.net/life/culture/paper/5098989327)
+- [L'histoire itinérante de Tainan : Le pangasius a enrichi les étangs, ainsi que les matins et l'estomac des habitants de la ville — KMT](https://www.thenewslens.com/article/131368)
+- [Le _tǔtúnyú_ (soupe de poisson) et le pangasius de Tainan pourraient provenir de produits importés d'Europe au XVIIe siècle — CNA](https://www.cna.com.tw/news/acul/202403060184.aspx)
+- [Regarder Taïwan à travers le pangasius (Partie 1) — Bulletin de la Société Géographique de la République de Chine](https://blog.geogsoc.org.tw/milk-fish-calvin-hung-1/)
+- [Expérience de travailleur de la pêche dans les étangs de Qigu, Tainan, pour récolter le poisson à l'aube — Smile Taiwan](https://smiletaiwan.cw.com.tw/article/5955)
+- [Pangasius, poisson _wúguó_, mérou : venez découvrir l'aquaculture qui garnit nos tables ! — PanSci](https://pansci.asia/archives/174611)
+- [Aperçu industriel du district de Qigu — Bureau du district de Qigu, Tainan](https://cigu.tainan.gov.tw/cp.aspx?n=6308)
+- [Pangasius de Tainan — Plateforme d'intégration des informations sur l'éducation à l'agriculture et à l'alimentation (Ministère de l'Agriculture)](https://fae.moa.gov.tw/map/food_item.php?type=AS02&id=2&local_id=6)
