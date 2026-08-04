@@ -2,6 +2,7 @@
 title: "Taiwan's E-Commerce and Digital Payments: Three Trade Wars on One Island"
 description: "From Jan Hung-tze's bet on 24-hour delivery, to Shopee burning through NT$3 billion in subsidies, to Coupang's Rocket Delivery landing — twenty years of Taiwanese e-commerce is a history of 'domestic innovation disrupted by foreign capital, then disrupted again by the next wave of foreign capital.'"
 date: 2026-04-06
+category: 'Technology'
 tags:
   [
     'e-commerce',
@@ -17,15 +18,14 @@ tags:
 subcategory: '數位與網路'
 author: 'Taiwan.md'
 featured: true
-readingTime: 12
-category: 'Technology'
-translatedFrom: 'Technology/電子商務與數位支付生態系.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:e6d4ecca5e8c9269'
-sourceBodyHash: 'sha256:8a4126afbbcc2d61'
-translatedAt: '2026-05-01T13:44:02+08:00'
 lastVerified: 2026-04-06
 lastHumanReview: false
+readingTime: 12
+translatedFrom: 'Technology/電子商務與數位支付生態系.md'
+sourceCommitSha: '4a4d66620'
+sourceContentHash: 'sha256:8a77917ab93abd39'
+sourceBodyHash: 'sha256:6564b3269a2b9fa4'
+translatedAt: '2026-08-04T04:41:48.932775+00:00'
 ---
 
 # Taiwan's E-Commerce and Digital Payments: Three Trade Wars on One Island
@@ -116,24 +116,25 @@ The trend is nonetheless irreversible. The latest surveys show that 84% of Taiwa
 
 ---
 
-## The Twenty-Year Cycle
+## A Twenty-Year Cycle
 
-Looking back, the twenty years of Taiwanese e-commerce and digital payments is a cycle of constant disruption.
+Looking back, the twenty years of e-commerce and digital payments in Taiwan have been a cycle of constant disruption.
 
-In the 2000s, PChome used 24-hour delivery to define "fast." In the 2010s, Shopee used free shipping to define "cheap." In the 2020s, momo used self-built logistics to define "reliable," while Coupang is trying to redefine "fast" all over again. Every round's winner thought they had found their moat; every next round's invader found a way around it.
+In the 2000s, PChome defined "speed" with 24-hour delivery. In the 2010s, Shopee defined "cheap" through free shipping. In the 2020s, momo defined "reliability" via its self-built logistics network, while Coupang attempted to redefine "speed" with Rocket Delivery. The winner of every round believes they have found a moat, only for the invaders of the next round to find a way around it.
 
-The payment side is the same story. From cash-on-delivery to credit cards, to LINE Pay QR scanning, to TWQR one-code-everywhere — every "convenience" upgrade made the previous generation's "convenience" look clunky.
+The payment side follows the same pattern. From cash on delivery, to credit cards, to scanning LINE Pay, to the universal TWQR—every upgrade in "convenience" makes the previous generation's version of convenience feel clumsy.
 
-In December 2024, Uni-President Group took a stake in PChome. The company that used 7-Eleven to transform Taiwanese retail is now coming to reshape Taiwanese e-commerce. Thirty years ago, traditional grocery stores were displaced by convenience stores. Now the convenience store owner has come to mop up after e-commerce.
+In December 2024, the Uni-President Group took a stake in PChome. This company, which transformed Taiwan's retail industry through 7-Eleven, is now set to transform Taiwan's e-commerce. Thirty years ago, traditional grocery stores were replaced by convenience stores. Now, the owners of those convenience stores are coming to clean up the aftermath of e-commerce.
 
-The trade wars on this island will not stop. Every new QR code, every new logistics center, every new wave of subsidies is answering the same question: who can make 23 million people reach for their wallets one second faster?
+The commercial wars on this island will not stop. Every new QR code, every new logistics center, and every new wave of subsidies is reanswering the same question: Who can make the action of 23 million people reaching for their wallets one second faster?
 
-**Further reading:**
+**Further Reading**:
 
-- Taiwan's Fintech Development — Pure internet banks, open banking to regulatory sandboxes: the full picture of the financial sector's digital transformation
-- Taiwan's 5G Network Construction and Digital Transformation — How 5G infrastructure is changing logistics tracking, live-stream shopping, and smart retail
-- Taiwan's Software Industry Development — From OEM to proprietary brands: how the software sector supports the technical underpinning of e-commerce platforms
-- Semiconductor Industry — Where the chips come from that underpin digital payments and e-commerce infrastructure
+- [Taiwan Fintech Development](/en/economy/taiwan-fintech-development) — From virtual banks and open banking to regulatory sandboxes: a panorama of digital transformation in the financial industry
+- [Taiwan's 5G Network Construction and Digital Transformation](/en/technology/taiwan-5g-digital-transformation) — How 5G infrastructure is changing logistics tracking, live commerce, and smart retail
+- [Development of Taiwan's Software Industry](/en/technology/taiwan-software-industry-development) — From OEM to proprietary brands: how the software industry supports the technical foundation of e-commerce platforms
+- [Semiconductor Industry](/en/technology/taiwan-semiconductor-industry) — Where the chips that support digital payments and e-commerce infrastructure come from
+- [Taiwan Customs Declaration and EZ WAY](/lifestyle/台灣海關報關制度與EZWAY) — The final hurdle for cross-border e-commerce parcels entering Taiwan: who operates the declaration authorization app, and how are tax-free thresholds determined?
 
 ## References
 

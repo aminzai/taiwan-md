@@ -1,16 +1,17 @@
 ---
-title: 'The Perpetual Donation Machine: FAB DAO and the Project % Social Experiment'
-description: 'How did a physician who quit his job use a flag made of press-on balls to open up an entirely new vision for Web3 philanthropy in Taiwan. FAB DAO and Project % have redefined the nature of donation: collecting is donating, art is social action.'
+title: 'The Perpetual Motion Machine of Philanthropy: A Social Experiment with FAB DAO and Project %'
+description: 'How a former physician used a "line-on-the-ball" national flag to reimagine Web3 philanthropy in Taiwan. FAB DAO and Project % redefine giving: collecting is donating, and art is social action.'
 date: 2026-03-24
+category: 'Art'
 tags:
   [
     'NFT',
-    'blockchain art',
-    'social innovation',
-    'philanthropy',
-    'generative art',
-    "Taiwan's hundred peaks",
-    'digital art',
+    'Blockchain Art',
+    'Social Innovation',
+    'Philanthropy',
+    'Generative Art',
+    "Taiwan's 100 Peaks",
+    'Digital Art',
   ]
 subcategory: 'digital-art'
 author: 'taiwan.md'
@@ -18,98 +19,98 @@ readingTime: 8
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
+curation: 'incubating'
 translatedFrom: 'Art/FAB DAO與百岳計畫.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:a569386269241d61'
 sourceBodyHash: 'sha256:7b9ca7167bf3d12a'
-translatedAt: '2026-05-29T00:35:00+08:00'
-category: Art
+translatedAt: '2026-08-04T12:41:09+08:00'
 ---
 
-# The Perpetual Donation Machine: FAB DAO and the Project % Social Experiment
+# The Perpetual Motion Machine of Philanthropy: A Social Experiment with FAB DAO and Project %
 
-## A Flag as the Starting Point of a Revolution
+## A Revolution Starting from a Single Flag
 
-The moment Huang Dou-ni threw down his stethoscope, no one anticipated that this physician-turned-artist would use a "press-on-ball flag" to rewrite the rules of Taiwan's philanthropy game. This meme artwork — seemingly simple — became one of the most commonly encountered symbolic landscapes in Taiwan, and more importantly, it opened up a brand-new question: if donations can become collectibles, if philanthropy can become a perpetual motion machine, does our understanding of "giving" need a thorough reconstruction?
+The moment Huang Dou-ni (黃豆泥) set down his stethoscope, no one predicted that this former physician would rewrite the rules of Taiwanese philanthropy using a "line-on-the-ball" national flag. This seemingly simple meme work has become one of Taiwan's most recognizable symbolic landscapes; more importantly, it opened an entirely new question: If donations can become collectibles, and if philanthropy can become a perpetual motion machine, must our understanding of "giving" be fundamentally reconstructed?
 
-In 2022, as the NFT bubble was bursting, Huang Dou-ni and new media artist Wu Che-yu — then living in New York — jointly founded FAB DAO (Formosa Art Bank DAO). The name itself was a manifesto: what it aspired to become was simultaneously a bank, an arts institution, and a social experiment laboratory.
+In 2022, as the NFT bubble was bursting, Huang Dou-ni and New Media artist Wu Che-yu (吳哲宇), based in New York, co-founded FAB DAO (Formosa Art Bank DAO). The name itself is a manifesto: it aims to be a bank, an art institution, and a laboratory for social experimentation.
 
-## Redefining the Public Services Layer
+## Redefining the Public Service Layer
 
-FAB DAO's core philosophy can be summarized in one sentence: "Donating is collecting." In the traditional philanthropy model, a donation is a one-time consumption — the money goes out and doesn't come back. But in FAB DAO's design, what the donor receives is not a thank-you certificate but an NFT that can be traded and has artistic value. What does that mean? It means philanthropy now has the possibility of a "perpetual motion machine."
+The core philosophy of FAB DAO can be summarized in one sentence: "Donating is collecting." In traditional philanthropic models, a donation is a one-time consumption behavior; once the money is gone, it does not return. However, in the design of FAB DAO, donors receive not just a certificate of appreciation, but an NFT with tradable artistic value. What does this mean? It means that philanthropy now possesses the possibility of becoming a "perpetual motion machine."
 
-When you buy an NPO-NFT, you simultaneously complete three actions: you support a nonprofit organization, you collect a piece of art, and you participate in a decentralized social experiment. More importantly, if this NFT appreciates in value in the future, you can choose to sell it and let the funds continue flowing toward philanthropic purposes. This is the core logic of the "donation perpetual motion machine."
+When you purchase an NPO-NFT, you simultaneously complete three actions: supporting a non-profit organization, collecting a piece of art, and participating in a decentralized social experiment. More importantly, if this NFT appreciates in value in the future, you can choose to resell it, allowing funds to continue flowing toward philanthropic purposes. This is the core logic of the "perative motion machine of philanthropy."
 
-FAB DAO positions itself as a "Web3 public services layer," helping nonprofits, artists, and cultural institutions cross the technological threshold. It has successfully helped arts communities, Losheng sanatorium, animal conservation, and transitional justice and other issue organizations issue NPO-NFTs — all sold out. Behind this success rate lies a deep understanding of the resilience of Taiwan's civil society.
+FAB DAO positions itself as a "Web3 Public Service Layer," helping non-profit groups, artists, and cultural institutions cross technological barriers. It has successfully assisted organizations working on issues such as the art community, Lishan Juvenile Reformatory, animal conservation, and transitional justice to issue NPO-NFTs, all of which sold out completely. Behind this success rate lies a deep understanding of the resilience of Taiwan's civil society.
 
 ## The Artistic Ambition of Project %
 
-If FAB DAO is a declaration of principles, then "Project % (百岳計畫)" is the most ambitious implementation of those principles. 10,101 generative art NFTs, divided into three series: %-Wanluan (10,000 pieces, 0.025 ETH), %-Hundred Peaks (100 pieces, 10 ETH), and the unique %-Yixian (not for sale).
+If FAB DAO is a manifesto of philosophy, then "Project %" (百岳計畫) is the most ambitious practice of that philosophy. It consists of 10,101 generative art NFTs divided into three series: %-Manliu (10,000 pieces, 0.025 ETH), %-Peaks (100 pieces, 10 ETH), and the unique, non-saleable %-First Line.
 
-"A hundred mountains rise up, becoming an island; a hundred people step forward, writing a season of civilization" — this is Project %'s poetic manifesto. Each NFT is a uniquely code-generated work themed around Taiwan's hundred peaks, carrying the creative philosophies of six artists.
+"One hundred mountains rise upward to become an island; one hundred people take a step forward to write a new season of civilization"—this is the poetic manifesto of Project %. Each NFT is a unique work generated by code, themed around Taiwan's "100 Peaks," carrying the creative visions of six artists.
 
-These six artists each represent different facets of Taiwan's generative art: Wu Che-yu (Island) is an international-caliber artist on the Artblocks platform; Lin Yi-wen (Vegetation) is a co-founder of Fxhash; Wang Hsin-jen / Aluàn (Summit) created the first Taiwanese generative artwork to appear on Artblocks; Wang Lian-sheng (Civilization) is a Lumiere Award winner; Lin Ching-yao (Secret Territory) is a former C-LAB director; Huang Hsin (Inclusion) holds the Facebook AR/VR award record.
+These six artists represent different facets of Taiwan's generative art ecosystem: Wu Che-yu (Island) is an international-level artist on the Art Blocks platform; Lin Yi-wen (Vegetation) is a co-creator of Fxhash; Wang Shin-jen/A-Luan (Summit) created the first piece of Taiwanese generative art to appear on Art Blocks; Wang Lian-sheng (Civilization) is a Lumen Prize winner; Lin Jing-yao (Hidden Realm) is the former director of C-LAB; and Huang Shin (Inclusion) holds a record for Facebook AR/VR awards.
 
-This lineup configuration was no coincidence. It reflects the complete face of Taiwan's generative art ecosystem: from international platforms to local experiments, from academic research to commercial application, from technological innovation to social practice. The ambition of Project % was to let the energy of this ecosystem, through blockchain technology, transform into sustainable philanthropic momentum.
+This lineup is no coincidence. It reflects the complete landscape of Taiwan's generative art ecosystem: from international platforms to local experiments, from academic research to commercial applications, and from technological innovation to social practice. The ambition of Project % is to use blockchain technology to transform the energy of this ecosystem into sustainable philanthropic momentum.
 
-## The Clever Design of the Capital Flow
+## The Ingenious Design of Fund Flows
 
-Project %'s capital allocation demonstrates precisely thought-out social design thinking: 20% for upfront costs, 10% as artist fees, 10% to help other NPO-NFT projects, 20–45% as public acquisition funds, and 10–15% invested in DAO technical development.
+The fund allocation of Project % demonstrates sophisticated social design thinking: 20% for upfront costs, 10% as artist fees, 10% to assist other NPO-NFT projects, 20–45% as public subscription funds, and 10–15% invested in the DAO's technical development.
 
-This allocation logic embeds an important shift in thinking: artistic creation moves from individual expression to collective action, from work sales to social investment. When you collect a Project % NFT, what you've bought is not just a work of art — it's a share in a social vision.
+This allocation logic implies an important shift in concept: artistic creation moves from individual expression toward collective action; from the sale of works toward social investment. When you collect a "Peaks" NFT, you are buying more than just a piece of art; you are purchasing a share in a social vision.
 
-More interesting is that collecting more than one Project % NFT produces a visual-linked easter egg effect. This seemingly simple technical design is actually testing the depth of the collector's participation. The question it's asking is: are you a passing speculator, or a long-term participant who believes in this experiment?
+Even more interestingly, collecting more than one "Peaks" NFT triggers a visual "Easter egg" effect. This seemingly simple technical design is actually testing the depth of collector engagement. It asks: Are you a passing speculator, or a long-term participant who believes in this experiment?
 
-## International Recognition at Linz
+## International Recognition from Linz
 
-In 2022, Project % appeared at Ars Electronica Festival in Linz — the world's most influential media art event. The Taiwan Creative Content Agency and the Ars Electronica Center Linz co-produced a Taiwan special exhibition, showing the international community Taiwan's unique contribution to the field of Web3 social innovation.
+In 2022, Project % appeared at the Ars Electronica Festival in Linz, the world's most influential media arts event. The Taiwan Creative Content Agency (TAICCA) and the Ars Electronica Center co-produced a Taiwan-specific showcase, demonstrating Taiwan's unique contributions to the field of Web3 social innovation to the international community.
 
-The Linz curators' evaluation was quite meaningful: they called Project % "a social action proposal from the future." The emphasis of this evaluation was not on the advancement of the technology, but on the innovation of the social model. As Huang Dou-ni observed, Linz deliberately kept its distance from the speculative hype around NFTs, but placed very high value on the social implications of NFTs.
+The evaluation from the Linz curators was profound: they described Project % as "a social action solution from the future." The emphasis of this evaluation was not on technological advancement, but on the innovation of the social model. As Huang Dou-ni observed, Ars Electronica deliberately maintains distance from the capital speculation of NFTs while placing high importance on the social implications of NFTs.
 
-This kind of international recognition carries important symbolic significance: it demonstrates that Taiwan's Web3 experiments are not blindly following Western technology trends, but an original exploration grounded in its own social soil. At a time when the global NFT market was caught up in speculative frenzy, Taiwan proposed an alternative approach with greater social responsibility.
+Such international recognition carries significant symbolic weight: it demonstrates that Taiwan's Web3 experiments are not blindly following Western technological trends, but are original explorations based on our own social soil. While the global NFT market was mired in speculative frenzy, Taiwan proposed an alternative with greater social responsibility.
 
-## The Digital Extension of the g0v Spirit
+## A Digital Extension of the g0v Spirit
 
-The emergence of FAB DAO was no accident. It is deeply rooted in the unique traditions of Taiwan's civil society, especially the "decentralized civic action" spirit represented by g0v (gov-zero). g0v reimagines government services through open-source collaboration; FAB DAO reimagines the philanthropy model through blockchain technology.
+The emergence of FAB DAO is no accident. It is deeply rooted in the unique traditions of Taiwan's civil society, particularly the spirit of "decentralized civic action" represented by g0v (gov-zero). While g0v reimagines government services through open-source collaboration, FAB DAO reimagines philanthropic models using blockchain technology.
 
-The common ground between the two: both believe technology can lower the threshold for participation, both believe decentralization can increase transparency, and both believe the collective wisdom of citizens can create better social solutions. The difference is that g0v focuses mainly on making government governance transparent, while FAB DAO focuses on making philanthropic resources sustainable.
+The commonality between the two is their shared belief: that technology can lower the barrier to participation, that decentralization can increase transparency, and that the collective intelligence of citizens can create better social solutions. The difference lies in the focus: g0v primarily focuses on the transparency of government governance, while FAB DAO focuses on the sustainability of philanthropic resources.
 
-Taiwan's unique position in the field of Web3 philanthropy comes precisely from this combination of democratic governance and digital community resilience. In authoritarian countries, such experiments would be seen as threats; in fully marketized societies, philanthropy is often marginalized. Only in a society like Taiwan — where civil society has enough autonomous space, and enough social care — can Web3 philanthropy find real fertile ground.
+Taiwan's unique position in the field of Web3 philanthropy stems from this combination of democratic polity and digital community resilience. In authoritarian states, such experiments would be viewed as threats; in purely market-driven societies, philanthropy is often marginalized. Only in a society like Taiwan—where civil society has both sufficient autonomous space and sufficient social care—can Web3 philanthropy find true fertile ground for development.
 
 ## Redefining Value Creation
 
-The deepest contribution of FAB DAO and Project % may lie in how they have redefined the logic of value creation. In the traditional economic model, value creation often means competition and exclusivity: your gain is my loss, resources are finite, distribution is zero-sum.
+The deepest contribution of FAB DAO and Project % perhaps lies in how they redefine the logic of value creation. In traditional economic models, value creation often implies competition and exclusivity: your gain is my loss, resources are finite, and distribution is zero-sum.
 
-But in FAB DAO's model, value creation becomes a positive-sum game: artists receive creative income, collectors receive artworks, nonprofits receive funding, and society as a whole receives a better philanthropy model. More importantly, this value creation process is sustainable, because NFTs can continue to circulate on secondary markets, continuing to generate philanthropic effects.
+In the FAB DAO model, however, value creation becomes a positive-sum game: artists receive creative income, collectors acquire artwork, non-profit organizations receive funding, and society as a whole gains a better philanthropic model. More importantly, this process of value creation is sustainable because NFTs can continue to circulate in the secondary market, continuing to generate philanthropic effects.
 
-This kind of model innovation has special significance for Taiwan's society, which faces resource scarcity. It offers a new line of thinking: through technological innovation and institutional design, we can create greater social value under conditions of limited resources.
+This type of model innovation holds special significance for Taiwanese society, which faces challenges of resource scarcity. It provides a new way of thinking: through technological innovation and institutional design, we can create greater social value even under conditions of limited resources.
 
-## The Social Imagination of the Future
+## Imagining the Future Society
 
-Looking back today at FAB DAO and Project %, what we see is not just a successful Web3 philanthropy experiment, but a kind of imagination about the future society. In this imagination, art is no longer an elite privilege but a tool for social transformation; philanthropy no longer depends on charitable mindsets but is built on the basis of shared interests; technology is no longer just a means of commercial competition but a driver of social innovation.
+Looking back at FAB DAO and Project % today, we see more than just a successful Web3 philanthropic experiment; we see an imagination of a future society. In this vision, art is no longer an elite privilege but a tool for social change; philanthropy no longer relies on a charitable mindset but is built upon the foundation of shared interests; and technology is no longer merely a means for commercial competition but a driver for social innovation.
 
-Of course, such experiments also face challenges. The complexity of blockchain technology is still a threshold for the participation of ordinary citizens; the volatility of NFT markets may affect the stability of philanthropic funds; the efficiency issues of decentralized governance also require continuous improvement.
+Of course, such experiments also face challenges. The complexity of blockchain technology remains a barrier to participation for the general public; the volatility of the NFT market may affect the stability of philanthropic funds; and the efficiency of decentralized governance requires continuous improvement.
 
-But just as Huang Dou-ni once decided to leave the hospital and pick up a brush, true innovation often requires the courage to face the unknown. The value of FAB DAO and Project % lies not in providing a perfect solution, but in opening up new possibilities.
+But just as Huang Dou-ni decided to leave the hospital and pick up a paintbrush, true innovation often requires the courage to face the unknown. The value of FAB DAO and Project % lies not in providing perfect solutions, but in opening up new possibilities.
 
-On this island, a hundred mountains are rising up, and a hundred dreams are sprouting. And each one of us can choose to become a participant in this social experiment, writing the chapters of the next season of civilization in our own way.
+On this island, one hundred mountains rise upward, and one hundred dreams are germinating. Each of us can choose to be a participant in this social experiment, writing the next chapter of civilization in our own way.
 
 ---
 
-**Further reading**:
+**Further Reading**:
 
-- [Wang Hsin-jen (Aluàn)](/en/art/wang-hsin-jen-artist) — Creator of Project %'s "Summit" series, the first Taiwanese generative artist to appear on Art Blocks
-- [Wang Lian-sheng](/en/art/wang-lien-cheng-artist) (zh only: 王連晟) — Creator of the mountain-and-water recursive algorithm peak works in Project %, 2017 Lumiere Award Sculpture category first prize winner
-- [Taiwan New Media Art](/en/art/taiwan-new-media-art) — From video art to generative art, the Taiwanese new media art context where FAB DAO operates
-- [Taiwan Contemporary Art](/en/art/contemporary-art) (zh only: 台灣當代藝術) — The position of blockchain art in Taiwan's contemporary art ecosystem
+- [Wang Shin-jen (A-Luan)](/en/art/wang-hsin-jen-artist) — The creator of Project %'s _Summit_, the first Taiwanese generative artist to appear on Art Blocks.
+- [Wang Lian-sheng (Xia-ba)](/en/art/wang-lien-cheng-artist) — Creator of the mountain/water recursion algorithm for Project %; 2017 Lumen Prize winner in the Sculpture category.
+- [Taiwan New Media Art](/en/art/taiwan-new-media-art) — From video art to generative art, the context of Taiwan's new media art where FAB DAO resides.
+- [Taiwan Contemporary Art](/en/art/contemporary-art) — The position of blockchain art within the ecosystem of Taiwanese contemporary art.
 
 ## References
 
 1. FAB DAO Official Website: https://fabdao.world/
-2. FAB DAO GitBook White Paper: https://fab-dao.gitbook.io/fab-dao
+2. FAB DAO GitBook Whitepaper: https://fab-dao.gitbook.io/fab-dao
 3. Project % Official Website: https://project.fab.tw/
-4. ABMedia Report (2022/06): https://abmedia.io/20220630-charity-dao-fab-dao-project
+4. ABMedia News Report (2022/06): https://abmedia.io/20220630-charity-dao-fab-dao-project
 5. ARTouch Linz Interview (2023/03): https://artouch.com/art-market/content-84864.html
-6. c2x3 Blockchain Art Media Matters Introduction (2022/07): https://matters.town/a/fe3n38t5khdb
-7. Charmingscitech Feature: https://www.charmingscitech.nat.gov.tw/post/art_tech_nft_block_chain
-8. NFT News Report: https://nft.org.tw/?p=20219
+6. c2x3 Blockchain Art Media, _Matters_ Introduction (2022/07): https://matters.town/a/fe3n38t5khdb
+7. Tech Enthusiast Feature: https://www.charmingscitech.nat.gov.tw/post/art_tech_nft_block_chain
+8. NFT Web News Report: https://nft.org.tw/?p=20219

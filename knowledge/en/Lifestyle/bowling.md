@@ -1,100 +1,101 @@
 ---
-title: 'Bowling: From U.S. Military Clubs to Six Golds at the Bangkok Asian Games, the Rise and Afterglow of Taiwan’s UFO Ball'
-description: "In the 1990s, bowling was Taiwan's most fevered national pastime. With its homegrown UFO ball technique, Taiwan swept six gold medals at the 1998 Bangkok Asian Games; bowling alleys across Taiwan once exceeded 600, with daily revenue reaching NT$300,000."
+title: "Bowling: From US Military Clubs to Six Gold Medals at the Bangkok Asian Games—The Rise, Fall, and Afterglow of Taiwan's UFO Ball"
+description: 'In the 1990s, bowling was Taiwan''s most craze-inducing national sport. Using the self-invented "UFO Ball" technique, Taiwan swept six gold medals at the 1998 Bangkok Asian Games, with bowling alleys across Taiwan once exceeding 600 locations and daily revenues reaching 300,000 TWD.'
 date: 2026-06-27
-author: 'Taiwan.md Contributors'
 category: 'Lifestyle'
-subcategory: '休閒與娛樂'
 tags:
   [
     'Bowling',
     'UFO Ball',
     'Bangkok Asian Games',
     'Tseng Su-fen',
-    'Taiwan Sports History',
+    'Taiwan sports history',
   ]
-readingTime: 10
+subcategory: '休閒與娛樂'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-27
 lastHumanReview: false
-featured: false
+readingTime: 10
+curation: 'incubating'
 translatedFrom: 'Lifestyle/保齡球.md'
-sourceCommitSha: 'c212e14db'
-sourceContentHash: 'sha256:867b46c37c755d29'
+sourceCommitSha: '03b3aaae8'
+sourceContentHash: 'sha256:f310a917a5ec92ad'
 sourceBodyHash: 'sha256:9b87440ff4268438'
-translatedAt: '2026-06-28T00:38:05+08:00'
+translatedAt: '2026-08-04T12:41:09+08:00'
 ---
 
 > **30-Second Overview:**
-> The 1990s were the golden age of bowling in Taiwan. With the homegrown, biomechanics-defying “UFO Ball” technique, Taiwanese bowlers seemed unstoppable on the international stage, culminating in a record six gold medals at the 1998 Bangkok Asian Games. At its peak, Taiwan had more than 600 bowling alleys, which served as major centers of both social life and competition. Yet as online entertainment rose and international competitors learned how to counter the technique, the sport that once set Taiwan abuzz gradually became a nostalgic collective memory.
+> The 199<0xA0>0s were the golden age of bowling in Taiwan. During this era, Taiwanese players utilized the self-invented, biomechanically unconventional "UFO Ball" (_feidi qiu_) technique to dominate international arenas, most notably achieving a brilliant record of six gold medals at the 1998 Bangkok Asian Games. At its peak, Taiwan boasted over 600 bowling alleys, which served as vital social and competitive hubs. However, with the rise of digital entertainment and the international community cracking the technique's secrets, this sport—which once set the island ablaze—has gradually transformed into a nostalgic collective memory.
 
 ---
 
-## From Elite Sport to Popular Pastime: When One Game Cost Six Bowls of Beef Noodle Soup
+## Democratizing an Elite Sport: An Era Where One Game Cost Six Bowls of Beef Noodles
 
-In 1946, after the end of World War II, U.S. forces stationed in Taiwan introduced bowling to the Zuoying military district and Taipei’s “Friends of China Club.”[^13] At the time, it was an elite sport reserved for senior officials and prominent social figures. In 1963, Taiwan’s first privately run bowling alley, Rongxing Bowling Center, opened on Nanjing West Road in Taipei, at the current site of Eslite Spectrum Nanxi. This marked bowling’s entry into civilian life.[^13]
+In 1946, US military personnel stationed in Taiwan following the end of WWII brought bowling to the Zuoying military district and Taipei's "China Friendship Club."[^13] At the time, it was an elite sport reserved for high-ranking officials and socialites. In 1963, the opening of Taiwan's first private bowling alley, "Rongxing Bowling Alley," on Nanjing West Road in Taipei (now the site of Eslite Spectrum Nanxi) marked bowling's entry into the mainstream.[^13]
 
-In that era, bowling’s expense was concrete: one game cost NT$20, while a bowl of beef noodle soup cost only NT$3, and a young office worker entering the workforce earned about NT$1,200 per month.[^13] In other words, two games of bowling could consume a full day’s wages. It was not until 1966, when Yuanshan Bowling Alley opened at a cost of NT$70 million with 36 fully automated lanes, that Taiwan’s grand bowling story truly began.[^12][^13]
+In that era, the "luxury" of bowling was tangible: a single game cost 20 TWD, while a bowl of beef noodles cost only 3 TWD, and the monthly salary for a young professional entering the workforce was approximately 1,200 TWD.[^13] In other words, playing two games of bowling would consume an entire day's wages. It was not until 1966, when the Yuanshan Bowling Alley opened with an investment of 70 million TWD and 36 fully automated lanes, that the grand chapter of Taiwanese bowling truly began.[^12][^13]
 
-## The UFO Arrives: A Survival Technique Forged on “Bad Lanes”
+## The Arrival of the UFO: Survival Skills Forged on "Bad Lanes"
 
-“Bowling is about playing seriously with a calm mind, but when you are young and want too badly to win, keeping that calm mind is the hardest thing.”[^1] That was how professional bowler Chi Chao-hang reflected on the sport. But in the 1980s, lane maintenance in Taiwan was generally poor and oil patterns were uneven, making conventional hook shots difficult to execute.[^13] To survive in such harsh conditions, Taiwanese bowlers developed a release that resembled throwing dice, called _sip-pat-a_ in Taiwanese.[^2][^13]
+"Bowling is about playing with a calm mind, but when you are young, you want to win too much; maintaining that composure is actually the hardest part."[^1] Reflects professional player Chi Chao-hang. However, in the 1980s, lane maintenance in Taiwan was generally poor, and uneven oil patterns made traditional hook shots difficult to execute.[^13] To survive in such harsh conditions, Taiwanese players developed a technique reminiscent of rolling dice (_sip-pat-á_ in Taiwanese).[^2][^13]
 
-The UFO Ball requires the bowler’s palm to face downward at the moment of release, using rapid twisting of the arm and fingers to make the ball spin horizontally like a top.[^3] This style generates lateral destructive force beyond what a heavy ball alone can achieve, triggering a chain reaction when it strikes the pins.[^4] In 1983, Chu Yu-tien won the AMF World Cup in Mexico, becoming the first Taiwanese athlete in official records to win a gold medal at a world sports competition.[^14] The public celebration that greeted his return symbolized the formal rise of the “UFO Ball kingdom.”
+UFO Ball requires the player to point their palm downward at the moment of release, utilizing extreme wrist and finger rotation to make the ball spin horizontally like a top.[^3] This method generates lateral power that exceeds even heavy-ball strikes, triggering a chain reaction of pins falling when it hits the pocket.[^4] In 1983, Chu Yu-tien won the AMF World Cup in Mexico, marking Taiwan's first official world championship gold medal.[^14] The spectacle of his return to Taiwan symbolized the formal rise of the "UFO Ball Kingdom."
 
-📝 Curator’s Note: The UFO Ball was a path Taiwanese bowlers carved out through creativity and resilience amid scarce resources.
+📝 Curator's Note: UFO Ball was a path to survival forged by Taiwanese people through creativity and resilience amidst a lack of resources.
 
-## The Bangkok Asian Games: A Golden Age of NT$300,000 in Daily Revenue
+## Bangkok Asian Games: The Golden Age of 300,000 TWD Daily Revenue
 
-The 1998 Bangkok Asian Games were the brightest moment in Taiwan’s bowling history. The Taiwanese delegation won 19 gold medals, with bowling alone contributing six, sweeping the men’s and women’s singles, doubles, trios, and five-player team events.[^5] Wu Fu-lung, the men’s singles gold medalist, even received a congratulatory telegram from the vice president.[^6]
+The 199<0xA0>8 Bangkok Asian Games represented the most dazzling moment in Taiwan's bowling history. The Chinese Taipei delegation captured 19 gold medals, with bowling contributing six—sweeping the men's, women's, doubles, and team events.[^5] The men's singles gold medalist, Wu Fu-lung, even received a congratulatory telegram from the Vice President.[^6]
 
-The frenzy was reflected in the economics. Investing in a 30-lane bowling alley cost about NT$30 million, but at the height of the 1990s boom, daily revenue could reach NT$200,000 to NT$300,000, allowing investors to recoup costs in just one year.[^13] Bowling alleys commonly featured the “red pin game”: if the red pin appeared in the No. 1 position and the player bowled a strike, the game was free or came with a prize.[^13] Bowling alleys at the time were not merely arenas for competition; they were 24-hour social centers.[^8]
+This frenzy was reflected in economic data: investing in a 30-lane bowling alley required approximately 30 million TWD, but during its 1990s peak, daily revenues could reach 200,000 to 300,000 TWD, with a payback period of only one year.[^13] Bowling alleys frequently featured "Red Pin Games"—if a red pin appeared in the No. 1 spot and resulted in a strike, the game was free or a prize was awarded.[^13] At the time, bowling alleys were not just arenas for competition, but 2_4-hour social hubs.[^8]
 
 ## The UFO Princess: Tseng Su-fen and the End of an Era
 
-Among the many heroes of the period, the most unforgettable was “UFO Princess” Tseng Su-fen. She won the women’s title at the 1997 AMF World Cup in Cairo and became Taiwan’s only female bowler inducted into the World Bowling Hall of Fame.[^9] Yet the legend came to an abrupt end in 2002. Tseng, only 28 years old, died by suicide over relationship difficulties, shocking Taiwan.[^10]
+Among the many heroes, the most unforgettable was the "UFO Princess," Tseng Su-fen. She claimed the crown at the 1997 Cairo AMF World Cup, becoming the only female Taiwanese player inducted into the World Bowling Hall of Fame.[^9] However, the legend came to an abrupt halt in 2002. At just 28 years old, Tseng Su-fen took her own life due to personal relationship struggles, shocking the nation.[^10]
 
-Her passing seemed to foreshadow the close of the golden age. In the early hours of May 11, 1992, a fire broke out at Ziqiang Bowling Alley in Zhonghe, killing 20 people and severely damaging the public safety image of bowling alleys.[^15][^16] As international competitions adjusted lane oil patterns to counter the UFO Ball, and as online entertainment rose, bowling alleys began shutting their lights one after another.[^11][^13] In June 2026, Yuanshan Bowling Alley, which had operated for nearly 60 years, closed without warning, symbolizing the end of an era.[^12][^13]
+Her passing seemed to foreshadow the end of the golden era. In the early hours of May 11, 1992, a massive fire broke out at the Ziqiang Bowling Alley in Zhonghe, claiming 20 lives and severely damaging the public image of bowling alley safety.[^15][^16] As international competitions adjusted lane oil patterns to neutralize the UFO Ball, and as digital entertainment rose, bowling alleys began to dim one by one.[^11][^13] In June 2026, the Yuanshan Bowling Alley, which had operated for nearly six decades, closed without warning, symbolizing the end of an era.[^12][^13]
 
-📝 Curator’s Note: What we miss is not the 15-pound ball, but that innocent age when groups of friends gathered beside the lanes and cheered all night for a strike.
+📝 Curator's Note: What we miss is not that 15-pound ball, but that innocent era when friends gathered by the lanes, cheering for a strike all night long.
 
-## Challenge and Rebirth: From Arena to All-Ages Space
+## Challenges and Rebirth: From Arena to All-Age Space
 
-Today, bowling faces a dual challenge. The 2023 Hangzhou Asian Games did not include it as an official event, pushing the sport further from the international competitive stage.[^13] Chi Chao-hang observed that the bowling alley business model is now shifting from pure competition toward all-ages entertainment spaces that combine multiple forms of leisure, such as the “play all you want with one ticket” model used by E7Play, formerly Feilong Bowling Alley.[^1][^7][^13]
+Today's bowling sport faces dual challenges. The 2023 Hangzhou Asian Games did not include it as an official event, causing it to gradually fade from the international competitive stage.[^13] Chi Chao-hang observes that current bowling alley business models are shifting from pure competition toward all-age entertainment spaces, such as the "all-you-can-play" model adopted by E7Play (formerly Feilong Bowling Alley).[^1][^7][^13]
 
-Although bowling no longer makes sports headlines, it still turns quietly in certain corners. For Taiwanese people who lived through the 1990s, the crisp sound of a ball crashing into pins remains the loudest strike in the memory of youth.
+Although bowling is no longer a sports headline, it continues to spin quietly in certain corners. For those who lived through the 1990s in Taiwan, the crisp sound of a ball hitting the pins remains the loudest "Strike" in their youthful memories.
 
 ---
 
 ## References
 
-[^1]: [Taiwan’s Golden Age of Bowling Becomes an Era’s Tears; Chi Chao-hang Uses the Internet to Promote the Sport and Bring People into Bowling Alleys](https://joumedia.pccu.edu.tw/article.php?id=2183) — Hua Kang Integrated Media 2025 interview by Liao Yung-hsiang with Chi Chao-hang
+[^1]: [The golden age of Taiwan bowling has become a tear for the era; Chi Chao-hang uses the internet to promote and bring people into alleys](https://joumedia.pccu.edu.tw/article.php?id=2183) — Huagang Multimedia 2025, Liao Yung-hsiang interview with Chi Chao-hang
 
-[^2]: [UFO Ball... From Original Invention to Being Countered and Revived](https://sports.ltn.com.tw/news/paper/29826) — Liberty Times 2005 Liberty Sports special report
+[^2]: [UFO Ball... from original invention to being cracked](https://sports.ltn.com.tw/news/paper/29826) — Liberty Times 2005, Liberty Sports Feature
 
-[^3]: [Taiwan Invented the UFO Ball and Made Its Name Worldwide](https://www.merit-times.com.tw/NewsPage.aspx?unid=113079) — Merit Times 2009 column by Lee Yu-cheng
+[^3]: [Taiwan invents UFO Ball, gaining worldwide fame](https://www.merit-times.com.tw/NewsPage.aspx?unid=113079) — <0xC2><0xA0>— Humanistic Report 2009, Li Yu-cheng Column
 
-[^4]: [What Are the Features and Appeal of the UFO Ball, Which Originated in Taiwan and Once Swept the World?](https://www.facebook.com/bowlingmen/videos/1515557145839087/) — Facebook Bowlingmen 2024 video explainer
+[^4]: [What are the actual characteristics and charm of the UFO Ball, which originated in Taiwan and swept the world?](https://www.facebook.com/bowlingmen/videos/1515557145839087/) — Facebook Guangu Zhugong 2024 Video Commentary
 
-[^5]: [Hangzhou Asian Games / Looking Back at Bangkok 1998: Taiwan’s Best-Ever 19 Golds, While Bowling That Swept Six Golds Has Been Removed](https://www.nownews.com/news/6257390) — NOWnews 2023 feature by Lu Hao-wei
+[^5]: [Hangzhou Asian Games / Retrospective: 1998 Bangkok's 19 Golds—the best in history; Bowling swept 6 golds but was excluded](https://www.nownews.com/news/6257390) — NOWnews 2023, Lu Hao-wei Report
 
-[^6]: [Vice President Sends Congratulatory Telegram to Asian Games Delegation Member Wu Fu-lung for Winning Gold in Men’s Individual Bowling at the 1998 Bangkok Asian Games](https://www.president.gov.tw/NEWS/5152) — Office of the President, Republic of China 1998 press release
+[^6]: [Vice President sends telegram of congratulations to our Asian Games representative Wu Fu-lung for winning the 1998 Bangkok Asian Games Men's Singles Gold](https://www.president.gov.tw/NEWS/5152) — Office of the President, ROC 1998 Press Release
 
-[^7]: [Taiwan’s Golden Age of Bowling](https://www.peopo.org/news/802246) — PeoPo Citizen Journalism 2025 submission by Chi Chao-hang
+[^7]: [The Golden Age of Taiwan Bowling](https://www.peopo.org/news/802246) — PeoPo Citizen News 2025, Submission by Chi Chao-hang
 
-[^8]: [Why Is Bowling No Longer Popular? Bowling Alleys Turn Off Their Lights One by One and Become an Era’s Tears](https://www.gvm.com.tw/article/130878) — Global Views Monthly 2026 retrospective feature on industrial rise and decline
+[^8]: [Why is bowling no longer popular? Bowling alleys are dimming one by one, becoming tears for the era](https://www.gvm.com.tw/article/130878) — View Magazine 2026, Industry Rise and Fall Retrospective
 
-[^9]: [Chinese Taipei Bowling World Champion Tseng Su-fen Died by Suicide Last Night](https://sports.sohu.com/55/71/sports_news164757155.shtml) — Sohu Sports 2002 breaking news report
+[^9]: [Chinese Taipei Bowling World Champion Tseng Su-fen committed suicide last night](https://sports.sohu.com/55/71/sports_news164757155.shtml) — Sohu Sports 2002 News Report
 
-[^10]: [She Was Called the “UFO Princess”; Unexpectedly, She Died by Suicide in 2002](https://www.facebook.com/UDNtime/posts/1193200476347019/) — Facebook UDNtime 2026 retrospective post
+[^10]: [Dubbed the "UFO Princess"! Unexpectedly, she took her own life in 2002](https://www.facebook.com/UDNtime/posts/1193200476347019/) — Facebook United Daily News Time 2026 Retrospective Post
 
-[^11]: [The Rise and Fall of Bowling Preserves Memories of Youth](https://enews.ccu.edu.tw/p/405-1089-64556,c179.php?Lang=zh-tw) — National Chung Cheng University CCU E-News 2024 student report
+[^11]: [The rise and fall of bowling guards youthful memories](https://enews.ccu.edu.tw/p/405-1089-64556,c179.php?Lang=zh-tw) — National Chung Cheng University CC E-News 2024 Student News
 
-[^12]: [Yuanshan Bowling Alley Abruptly Closes; Golden Age of the UFO Ball Becomes a Memory](https://www.threads.com/@r2sale/post/DZjRp78gWo/) — Threads 2026 eyewitness post by local resident
+[^12]: [Surprise closure of Yuanshan Bowling Alley! The golden age of UFO Ball becomes a memory](https://www.threads.com/@r2sale/post/DZjRp78gWo/) — Threads 2026 Local Resident Witness Post
 
-[^13]: [Sixty Years of the Rise and Fall of Bowling in Taiwan: From Elite Sport to an Era’s Tears](https://m.youtube.com/watch?v=i7WGrfWthns) — YouTube Walking into History 2024 documentary
+[^13]: [60 Years of Taiwan Bowling's Rise and Fall: From Elite Sport to Tears for the Era](https://m.youtube.com/watch?v=i7WGrfWthns) — YouTube Walking into History 2024 Documentary
 
-[^14]: [Chu Yu-tien Won the Men’s Title at the 1983 AMF Bowling World Cup in Mexico](https://www.facebook.com/lonertravel/posts/1060006102799545/) — Facebook Lonely Traveler 2024 historical retrospective post
+[^14]: [Chu Yu-tien won the AMF World Cup Men's Singles Championship in Mexico in 1983](https://www.facebook.com/lonertravel/posts/1060006102799545/) — Facebook Lonely Traveler 2024 Historical Retrospective Post
 
-[^15]: [Ziqiang Bowling Alley Fire](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E5%BC%B7%E4%BF%9D%E9%BD%A1%E7%90%83%E9%A4%A8) — Chinese Wikipedia entry on the 1992 Zhonghe bowling alley disaster
+[^15]: [Ziqiang Bowling Alley Fire](https://zh.wikipedia.org/zh-tw/%E8%87%AA%E5%BC%B7%E4%BF%9D%E9%BD%A1%E7%90%83%E9%A4%A8) — Chinese Wikipedia entry, 1992 Zhonghe Alley Disaster
 
-[^16]: [Bowling Alley Fire Took 20 Lives, Followed by Reports of Supernatural Incidents | The 1992 Ziqiang Bowling Alley Incident](https://time.udn.com/udntime/story/122833/6903311) — United Daily News UDNtime 2023 disaster retrospective
+[^16]: [After the fire that claimed 20 lives at a bowling alley, paranormal events were reported | 1992 Ziqiang Alley Incident](https://time.udn.com/udntime/story/122833/6903311) — UDN News Time 2023 Disaster Retrospective

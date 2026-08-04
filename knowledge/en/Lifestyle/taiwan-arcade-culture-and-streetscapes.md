@@ -1,179 +1,124 @@
 ---
-title: 'Taiwan’s Arcade Culture and Streetscapes'
-description: 'From colonial planning to everyday ingenuity, Taiwan’s covered arcades shape street life, commerce, and the politics of public space.'
+title: "Taiwan's Arcade Culture and Streetscapes"
+description: "Corridors of shelter and life: memories of Taiwan's streets woven with scooters, street vendors, and human warmth"
 date: 2026-03-20
-tags:
-  [
-    'arcades',
-    'streetscapes',
-    'urban architecture',
-    'street vendors',
-    'scooter parking',
-    'urban renewal',
-    'colonial architecture',
-    'public space',
-  ]
 category: 'Lifestyle'
+tags: ['Lifestyle', 'Arcades', 'Streetscapes', 'Urban Culture']
+subcategory: '交通與移動'
+author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-20
+lastHumanReview: true
+curation: 'incubating'
 translatedFrom: 'Lifestyle/台灣騎樓文化與街景.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:2b233a45daf622e6'
 sourceBodyHash: 'sha256:8f231aa6641c39c8'
-translatedAt: '2026-04-14T12:25:09+08:00'
-author: 'Taiwan.md'
-lastHumanReview: true
+translatedAt: '2026-08-04T12:41:09+08:00'
 ---
 
-# Taiwan’s Arcade Culture and Streetscapes
+> **30-Second Overview:** Taiwan's arcades (_qilou_) are an architectural form promoted starting from the Japanese colonial period in 1900, combining Southeast Asian colonial architecture with local needs. The design—with second floors projecting outward and first floors left open—creates a semi-public space that accommodates street vendor culture, scooter parking, and neighborhood socializing, making it one of Taiwan's most soulful urban landscapes.
 
-Walk through almost any Taiwanese city and you’ll find a distinctive architectural rhythm: a continuous covered walkway at ground level, columns marching along the sidewalk, and upper floors cantilevered above. This is the **qílóu (騎樓)**—often translated as “arcade,” though that English word doesn’t fully capture its role in Taiwan. The qílóu is not merely a design feature; it is a living interface between private property and public life, where shelter, commerce, and community overlap.
+If you grew up in Taiwan, you surely have memories like these: seeking shelter under an arcade on a rainy day, buying fried chicken cutlets under an arcade after school, or sitting under an arcade on a summer evening, chatting while a fan blows. These sheltered corridors carry the shared life memories of the Taiwanese people.
 
-Under the arcades, you’ll see daily life in motion: breakfast stalls setting up at dawn, neighborhood clinics and salons opening their shutters, scooters parked in tidy or messy lines, and pedestrians weaving through a space that is at once public and privately owned. These scenes form a signature Taiwanese streetscape—one that is practical, dense, and animated, and that reflects the island’s layered history.
+## Southeast Asian Transplantation during the Japanese Colonial Period
 
-The qílóu’s evolution mirrors Taiwan’s social shifts: colonial modernization, postwar self-built housing, the rise of informal economies, the dominance of scooters, and contemporary debates on urban renewal. It is a story of adaptation and negotiation—between climate and architecture, commerce and mobility, regulation and improvisation.
+Arcades were not an original Taiwanese invention, but rather architectural wisdom learned by the Japanese from Southeast Asia.
 
-![Taiwan arcade streetscape](/images/wiki/taiwan_arcade.jpg)
-_Photo: Arcaded shophouses in Dihua Street, Taipei, a classic commercial district where the qílóu defines the street’s rhythm._
+In 1900, the Japanese colonial government promoted the "Taipei Urban Improvement Plan," introducing arcade architecture on a large scale for the first time. At that time, the Governor-General's Office found that the _shop house_ architecture of places like Singapore and Penang was highly suitable for Taiwan's climate and commercial needs.
 
-## Origins: From Southeast Asia to Taiwanese Streets
+There is a clever logic to this architecture: part of the first floor is recessed while the second floor projects outward, forming a roofed corridor. This achieves two goals at once: providing shade and shelter from rain, while increasing the building's usable area.
 
-### Colonial Transfer and Local Adaptation
+Japanese planning emphasized standardization: uniform pillar spacing, consistent heights, and fixed depths. They sought a neat, uniform modern city that symbolized the order and efficiency of the colonial regime.
 
-The qílóu is not originally Taiwanese. Its architectural roots trace back to the **shophouses** of Southeast Asia—especially in colonial port cities such as Singapore, Penang, Batavia (Jakarta), and Saigon (Ho Chi Minh City). These buildings developed a common logic: a sheltered walkway below with residences above, designed for **tropical heat**, heavy rain, and bustling street commerce.
+In 1905 in Kaohsiung, and during the 1920s in Taichung and Tainan, arcade architecture was promoted across the island. The arcades of that era indeed looked very "Japanese"—orderly, clean, and well-organized.
 
-During Japanese rule (1895–1945), Taiwan’s colonial administration introduced this model as part of urban modernization. Planning reforms such as the **1900 Taipei City Improvement Plan** and later initiatives in Taichung, Tainan, and Takao (Kaohsiung) institutionalized arcaded streets. Standardized widths and heights, reinforced concrete, and fire-safety considerations were promoted to create orderly, “modern” streets.
+## Post-War Localized "Wild" Growth
 
-In this period, the arcade also served a symbolic function: it reflected a colonial vision of civility, hygiene, and economic efficiency—a built expression of “modernity.”
+In 1945, the Japanese departed, and the Taiwanese took over these arcades. This is when interesting things began to happen.
 
-### Postwar “Self-Built” Urbanism
+Without standardized restrictions, Taiwanese people began modifying arcades according to their own needs. Some raised the height, some widened them, some installed iron window grilles, and some applied tiles. The originally uniform arcades transformed into a "mixed-style" aesthetic, each with its own unique character.
 
-After 1945, Taiwan entered a period of rapid reconstruction and urban growth. Arcades became part of **self-built housing and family business culture**, producing diverse local variations:
+More importantly, the uses of arcades became more diverse. They were no longer just shops; they became factories, warehouses, living rooms, and restaurants. Business on the first floor, residents on the second, and renters on the third—this "mixed-use" model became a hallmark of Taiwan's urban development.
 
-- **Flexible heights and depths** rather than standardized proportions
-- **Mixed-use interiors**, where retail, storage, workshops, and living spaces coexisted
-- **Decorative façades**, blending local motifs with global styles
-- **Family enterprises**, reflecting the structure of Taiwanese small businesses
+## The Stage for the Vendor Economy
 
-This postwar adaptation made the qílóu uniquely Taiwanese: not only a functional shelter but also a space of improvisation and identity.
+If the arcade is a theater, then street vendors are its most active actors.
 
-## A Space of Many Functions
+Taiwan's street vendor culture is particularly developed, largely because arcades provide a "semi-legal" space for business. Theoretically, arcades are private land, but since pedestrians can pass through, vendors find a survival space within this gray area.
 
-### 1) The Commercial Corridor
+Breakfast carts occupy a corner of an arcade in the morning and move on once they finish selling. Fruit stalls appear in the afternoon and pack up at night. Night market vendors turn arcades into food streets during the evening.
 
-The qílóu is Taiwan’s everyday marketplace. Under its canopy, one can find:
+This "guerrilla-style" way of operating provides many people with a low-barrier opportunity for entrepreneurship. With just a small cart, a gas stove, and a few small stools, one can start a business under an arcade.
 
-- Traditional shops such as **herbal pharmacies (中藥房)** and **incense stores (金香店)**
-- Modern businesses like convenience stores, repair shops, and hand-shaken drink stalls (手搖飲)
-- Micro-entrepreneurship built on trust, credit, and neighborhood relationships
+Of course, this also creates management headaches. Who does the arcade actually belong to? Can vendors do business here? Government enforcement standards have remained ambiguous, resulting in a curious state of "legally impermissible, but practically tacitly accepted."
 
-These businesses thrive on foot traffic and proximity. The arcade’s shallow depth and continuous shelter encourage slow browsing and spontaneous encounters—key ingredients in Taiwanese street commerce.
+## A Sanctuary for the Scooter Kingdom
 
-### 2) The Informal Economy Stage
+Starting in the 1980s, Taiwan entered the era of the "Scooter Kingdom." As every household acquired a scooter, parking became a major issue.
 
-Arcades also enable a flexible, low-barrier economy:
+Once again, the arcade demonstrated its adaptability. The semi-open space is perfect for parking scooters—providing shelter from the elements without obstructing the road.
 
-- Morning **breakfast carts** and late-night snack vendors
-- Seasonal markets and festival stalls
-- Small-scale entrepreneurship for people who cannot afford full storefronts
+Gradually, parking scooters under arcades became a standard feature of Taiwan's urban life. When buying a house, one looks to see if there is an arcade; when renting, one checks if scooter parking is available. A large part of an arcade's value stems from this "parking function."
 
-This informal economy is both a safety net and a cultural engine. It preserves food traditions, creates opportunities, and keeps the street lively. At the same time, it brings challenges: sanitation, congestion, and debates over the rightful use of public space.
+However, this brought new problems: arcades were originally meant for pedestrians, but now that they have become parking lots, where are the pedestrians supposed to walk? Many arcades are so packed with scooters that pedestrians are forced onto the road, creating the urban chaos of "pedestrian-vehicle conflict."
 
-### 3) The Shelter of Scooter Society
+## The Visual Impact of the Signage Jungle
 
-Taiwan has one of the highest scooter densities in the world, and arcades play a crucial supporting role. They offer shade and protection for parked scooters, making them an everyday convenience—even when such use conflicts with pedestrian access.
+Walking through the streets of Taiwan, the most striking sight is the dense thicket of signs.
 
-This tension highlights a core feature of Taiwanese urban life: the **constant negotiation of shared space**. The qílóu’s ambiguous status—private property used as public passage—creates both friction and flexibility.
+Every shop wants to be more visible, making their signs larger and brighter. From neon lights to LEDs, from Chinese to English, from horizontal to vertical—the facades of arcades have become a battlefield for signage.
 
-## The Ambiguity of Semi-Public Space
+Foreigners visiting Taiwan are often stunned by this "signage density." Hong Kong director Wong Kar-wai once remarked that Taipei's streetscapes resemble science fiction films, where dense signs and neon lights create an atmosphere of a futuristic city.
 
-Legally, the qílóu is part of private property. Socially, it is expected to function as public walkway. This ambiguity creates a unique spatial politics:
+But for Taiwanese people, these signs are simply part of daily life. The red sign of "Old Zhang Beef Noodles," the pink lightbox of "Xiao Mei Hair Salon," the handwritten sign of "Grandma's Shop"—every sign has a story, and every story carries human warmth.
 
-- **Property vs. access**: Owners often use arcades for business, while pedestrians claim it as a right of way.
-- **Flexibility vs. order**: The space adapts to time-of-day and local needs but resists strict regulation.
-- **Community vs. authority**: Municipal rules exist, yet everyday practice is shaped by local customs and negotiations.
+## A Meeting Point for Human Warmth
 
-This gray zone is precisely what makes the qílóu culturally rich—and administratively complex.
+The most precious aspect of an arcade is not the architecture itself, but the "human space" it creates.
 
-## Climate Intelligence Built Into the City
+On summer evenings, elderly residents sit on small stools under the arcade to chat. Children play in the arcades, and shopkeepers wash vegetables there. These scenes of daily life add warmth to the cold urban environment.
 
-Taiwan’s humid subtropical climate makes shade and shelter essential. The arcade is a traditional response:
+The arcades around traditional markets are particularly full of life. An elderly woman selling vegetables might organize her produce under the arcade while chatting with neighbors. A housewife might compare prices under the arcade, discussing which stall has the freshest produce.
 
-- **Sun protection** lowers ground temperature and improves walking comfort
-- **Rain shelter** keeps goods and pedestrians dry during sudden downpours
-- **Ventilation corridor** allows air to circulate and reduces heat buildup
+This "semi-public space" creates a unique social pattern: it is neither entirely private nor entirely public, but rather a "neighborhood space" situated between the two. Here, strangers might start a conversation while seeking shelter from the rain, and neighbors might meet because of where they parked their scooters.
 
-Long before “green building” became a buzzword, the qílóu embodied climate-adapted urban design.
+## Challenges of Survival in the Era of Urban Renewal
 
-## The Signboard Jungle and Visual Culture
+In recent years, waves of urban renewal have impacted traditional arcades.
 
-One of Taiwan’s most striking urban impressions is the dense layering of signboards along arcades and façades. The result is a visual ecosystem:
+Newly built high-rises emphasize modern design and typically do not include arcades. Underground parking lots have replaced arcade parking, air-conditioned malls have replaced arcade shops, and elevator lobbies have replaced arcade social spaces.
 
-- Vertical stacking of signs
-- Loud color palettes and mixed typography
-- Chinese, English, and **zhuyin (注音)** coexisting on the same street
-- Neon, LED, and acrylic materials in constant conversation
+Some classic arcade districts face the pressure of demolition and reconstruction. Developers believe arcades are "not modern enough," and the government finds them "difficult to manage." In the face of economic efficiency, historical culture appears fragile.
 
-To some, this is chaos; to others, it is a vibrant “democratic” visual culture where every shop competes for attention. International visitors often describe Taiwanese streets as **cyberpunk** or “future-retro,” yet locals know these signs are simply the street’s voice.
+However, there are successful examples of preservation. Through comprehensive planning, Taipei's Dihua Street has preserved its Baroque-style arcade architecture, revitalizing itself by integrating tourism and cultural creativity. Lukang Old Street and Daxi Old Street also feature arcade architecture as a hallmark, developing their own tourism brands.
 
-Municipal efforts to standardize or reduce signage have faced pushback, as small businesses fear losing visibility. The debate reveals a tension between **order and vitality**, between global aesthetics and local identity.
+## Spatial Memory and Local Identity
 
-## Urban Renewal: Preservation vs. Modernization
+For the Taiwanese, arcades are more than just architecture; they are vessels of collective memory.
 
-As cities modernize, arcades face real challenges:
+Everyone has their own arcade story: waiting for the bus under an arcade as a child, dating under an arcade during adolescence, or buying late-night snacks under an arcade as an adult. These seemingly ordinary experiences constitute the shared life memories of the Taiwanese people.
 
-- High-rise developments replacing low-rise shophouses
-- Glass curtain walls and standardized building codes
-- Underground parking systems that reduce need for arcade parking
+Particularly under the impact of globalization, arcade culture becomes even more precious. As multinational chains begin to replace traditional small shops and modern architecture replaces historic streethouses, arcades become vital symbols for maintaining local identity.
 
-Preservation efforts exist—from cultural heritage listing to design controls—but they often struggle against development pressures. Some of Taiwan’s most iconic arcade districts have found ways to adapt:
+The character of a place lies not in how much it resembles foreign lands, but in how unique it is. Taiwan's arcade culture is an embodiment of this "uniqueness"—a unique space that fuses colonial history, local adaptation, and grassroots wisdom.
 
-- **Dihua Street (迪化街)** in Taipei: heritage restoration and creative retail
-- **Lukang Old Street (鹿港老街)**: traditional crafts and tourism
-- **Dadaocheng (大稻埕)**: historical architecture repurposed for cafés and cultural venues
+## Possibilities for the Future
 
-These cases show that renewal doesn’t have to erase heritage; it can reposition it.
+Where will arcade culture go?
 
-## The Social Meaning of Arcades
+On one hand, traditional arcades do indeed face challenges. Issues regarding the safety of old buildings, new demands of modern life, and considerations of urban management efficiency all place pressure on their survival.
 
-The qílóu is more than architecture—it is a social infrastructure:
+On the other hand, arcades are also seeking new possibilities. Some young people have begun opening cafes, bookstores, and studios in old arcades, interpreting traditional spaces in new ways. The government has also begun to value the cultural significance of arcades, promoting preservation and revitalization projects.
 
-- A platform for cross-class interaction
-- A buffer for economic shocks via informal commerce
-- A public living room for elders, migrants, and youth
+More importantly, the values carried by arcades—human connection, community warmth, and the flexibility of life—remain precious in the modern city. Perhaps the arcades of the future will not look exactly like those of the past, but the concept of "humanized space" they represent is still worth our cherishing and promotion.
 
-Its resilience lies in how it absorbs change without losing its fundamental role as a shared threshold. The qílóu is where city life becomes human-scaled.
+After all, the beauty of a city lies not only in how modern it is, but in how warm it can be. And the arcade is precisely the witness to that warmth.
 
-## Taiwan in a Regional and Global Context
+## References
 
-Comparing Taiwan with other arcade cities reveals distinctive traits:
-
-- **Singapore** has preserved shophouses with strict conservation and premium commercial reuse.
-- **Penang** protects its arcades through UNESCO heritage recognition.
-- **Ho Chi Minh City** struggles with rapid modernization and uneven preservation.
-
-Taiwan’s difference lies in the **everydayness** of its arcades: they are not just heritage sites, but still the default stage for ordinary life—scooters, snacks, and all.
-
-## Looking Forward: The Future of the Qílóu
-
-In a digital economy, the arcade must adapt again. E-commerce is shrinking some storefronts, while experience-driven retail and community spaces become more important. New possibilities include:
-
-- Smart city infrastructure integrated into arcade corridors
-- AR heritage trails and localized tourism
-- Adaptive reuse for cultural programming
-
-At the same time, sustainability initiatives could reframe arcades as climate-resilient urban assets: shading, ventilation, and density-friendly design already make them a low-energy urban form.
-
-## Conclusion
-
-The qílóu is a living archive of Taiwan’s history: colonial urban planning, postwar improvisation, informal economies, and the everyday choreography of scooters and pedestrians. It embodies Taiwan’s ability to negotiate space—between public and private, tradition and modernity, regulation and resilience.
-
-If Taiwan’s streets are a language, the qílóu is its grammar. And like any living language, its future will depend on how well it balances preservation with reinvention—so that this century-old urban form can continue to shelter the next generation of Taiwanese life.
-
----
-
-## Further Reading
-
-- [台灣都市發展與城鄉差距](/en/society/taiwan-urban-development-and-rural-urban-divide) — Taiwan’s broader path of urbanization
-- [夜市文化](/en/food/night-market-culture) — Another major street culture ecosystem
-- [台灣交通系統](/en/lifestyle/transportation-system) — The mobility context behind scooter culture
+- [Ministry of Culture: Survey of Taiwan's Arcade Architectural Cultural Heritage](https://www.moc.gov.tw/)
+- [Taipei City Urban Renewal Office: Historic District Preservation Plan](https://uro.gov.taipei/)
+- [Construction and Planning Agency: Urban Design Review Standards](https://www.cpami.gov.tw/)
+- [Academia Sinica, Institute of Taiwan History: History of Taiwan's Urban Development](https://www.ith.sinica.edu.tw/)
+- [National Taiwan Museum: Special Exhibition on Taiwan's Architectural Culture](https://www.ntm.gov.tw/)

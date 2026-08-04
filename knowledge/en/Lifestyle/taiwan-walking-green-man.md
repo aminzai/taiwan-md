@@ -1,10 +1,11 @@
 ---
-title: 'The Walking Green Man: A 25-Year Legend from Traffic Signal to National Icon'
-description: 'A tourist from Tokyo stopped in stunned amazement on a Taipei street, witnessing a miracle — a traffic light that runs. Over 25 years, how did this seemingly ordinary walking green man evolve from a single lamp on Songzhi Road into a Taiwanese cultural icon that has captivated the world?'
+title: 'The Little Green Man: A 25-Year Legend from Traffic Signal to National Symbol'
+description: 'A tourist from Tokyo stops in amazement at a miracle on the streets of Taipei—a running traffic light. For 25 years, how did this seemingly ordinary "Little Green Man" evolve from a single light on Songzhi Road into a Taiwanese cultural icon that wows the world?'
 date: 2026-03-24
+category: 'Lifestyle'
 tags:
   [
-    'Walking Green Man',
+    'Little Green Man',
     'Pedestrian Signal',
     'Traffic Design',
     'Taiwan Culture',
@@ -16,74 +17,74 @@ readingTime: 6
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
-translatedFrom: Lifestyle/小綠人.md
-sourceCommitSha: 'f99a9959'
+curation: 'incubating'
+translatedFrom: 'Lifestyle/小綠人.md'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:0e8351a88b984c1d'
 sourceBodyHash: 'sha256:83cbb50293e2fd70'
-translatedAt: 2026-05-02T02:50:54+08:00
-category: Lifestyle
+translatedAt: '2026-08-04T12:41:09+08:00'
 ---
 
-## A Miracle That Runs
+## A Running Miracle
 
-In the autumn of 2019, a tourist from Tokyo suddenly came to a halt at the intersection near Zhongxiao Fuxing Station in Taipei. She pulled out her phone and frantically began recording the pedestrian signal, her eyes filled with disbelief. Through her lens, a small green figure was crossing the street at a brisk pace — and when the countdown timer hit ten seconds, the figure broke into a full sprint. Back in her hometown of Tokyo, and indeed anywhere else in the world, nothing like this had ever been seen.
+In the autumn of 2019, a tourist from Tokyo suddenly stopped at an intersection near Taipei's Zhongxiao Fuxing Station. She pulled out her phone and began filming the pedestrian signal frantically, her eyes filled with disbelief. On her screen, a small green figure was crossing the road with a brisk pace; when the countdown timer reached ten seconds, the little man began to sprint—a sight unseen in her hometown of Tokyo, or indeed anywhere else in the world.
 
-What this tourist did not know was that she was witnessing a miracle born in Taiwan. Twenty-five years earlier, just a short distance from where she stood, at the intersection of Songzhi Road and Shoushou Road, the world's first animated pedestrian signal quietly lit up — forever changing the world's imagination of what a traffic signal could be.
+What this tourist did not know was that she was witnessing a miracle of Taiwanese original design. Twenty-five years ago, at the intersection of Songzhi Road and Songshou Road, not far from where she stood, the world's first "animated pedestrian signal" quietly flickered to life, forever changing the global perception of traffic signals.
 
-## From Static to Dynamic: A Revolution
+## A Revolution from Static to Dynamic
 
-The story begins in 1961 in East Germany. Traffic psychologist Karl Peglau introduced the classic pedestrian signal design in East Berlin — a hat-wearing green man signifying "walk" and a red man with outstretched arms signifying "don't walk." This design laid the foundation for the modern pedestrian signal, but for nearly four decades afterward, the little green man around the world remained frozen in place.
+The story begins in 1961 East Germany. Traffic psychologist Karl Peglau introduced the classic pedestrian signal design in East Berlin—a little green man wearing a hat to represent "go," and a little red man with outstretched arms to represent "stop." While this design laid the foundation for modern pedestrian signals, for the next nearly forty years, the "little green men" around the world remained static.
 
-The turning point came in 1998 in Taipei. The Taipei City Department of Transportation decided to add a countdown timer to pedestrian signals. After reviewing practices from various countries, a bold idea emerged: "If it's going to move, let the whole signal move." Lin Li-yu, then a project lead and now Deputy Director of the Department of Transportation, recalled that the LED industry was still in its infancy at the time — "making both the figure and the numbers animate simultaneously took over a year of R&D and programming."
+The turning point came in Taipei in 1998. The Taipei City Department of Transportation decided to add a countdown function to the pedestrian signals. After researching international practices, a bold idea emerged: "Since we are making it move, let's make the entire signal move." Lin Li-yu, then Deputy Director of the Department of Transportation, recalled that during the early stages of the LED industry, "it took over a year of research and programming to ensure both the little man and the numbers could animate simultaneously."
 
 ### Curator's Note #1: The Poetry of Technology
 
-In that era, getting an LED display to render both animation and a countdown numeral was an enormous technical challenge. But Taipei's engineers created a miracle — using seven distinct human-figure frames and exploiting the persistence of vision, they made the green man truly come alive. This was not merely a technical breakthrough; it was a revolution in design thinking.
+In that era, displaying both animation and countdown digits on an LED screen presented a massive technical challenge. However, Taipei's engineers achieved a miracle—using seven different human-shaped patterns and leveraging the principle of persistence of vision to make the little green man truly "come alive." This was not merely a technical breakthrough, but a revolution in design thinking.
 
-On March 18, 1999, this revolutionary device was officially activated at the intersection of Songzhi Road and Shoushou Road in Taipei. The animation of the green man was filled with humanized details: it began walking at a leisurely pace, shifted to a brisk walk at the 14-second mark, and broke into a running sprint with flashing at the 10-second mark — as if faithfully reproducing the urgency of a pedestrian rushing to cross the street.
+On March 18, 1999, this revolutionary device was officially activated at the intersection of Songzhi Road and Songshou Road in Taipei. The animation of the little green man was designed with humanistic detail: starting with a slow walk, transitioning to a brisk walk when the countdown reached 14 seconds, and beginning to run and flash when 10 seconds remained—effectively capturing the palpable urgency of a pedestrian crossing the street.
 
 ## From Local Innovation to Global Phenomenon
 
-This deceptively simple innovation quickly captivated the world. Because no private manufacturer had filed for a patent at the time, the United States, Germany, Japan, and other countries sent delegations to Taipei to observe and subsequently adopted the technology. In 2016, Google even featured the running green man on its global homepage Doodle to celebrate the figure's 17th birthday, once again dazzling the world with this beacon of Taiwanese ingenuity.
+This seemingly simple innovation quickly conquered the world. Because private manufacturers at the time had not applied for patents, countries including the United States, Germany, and Japan sent representatives to Taiwan to observe and subsequently adopt the technology. In 2016, on the 17th birthday of the Little Green Man, Google even featured the running green figure in a global Doodle, allowing this "pride of Taiwan" to dazzle the world once again.
 
-The green man's influence continued to spread. In 2018, Pingtung County unveiled a "proposal version" of the green man: during the green light, two figures walked hand in hand; during the red light, the red figure knelt down to propose marriage. The idea quickly became an international media sensation. BBC ran the headline "Taiwan's pedestrian signal man has a girlfriend!"; The Daily Telegraph, The Straits Times, and other international outlets raced to cover the story.
+The influence of the Little Green Man continued to spread. In 2018, Pingtung County introduced a "proposal version" of the signal, where the two figures walk hand-in-hand during the green light, and a little red man kneels to propose during the red light. This creative idea quickly went viral in international media; the BBC reported with the headline "Taiwan's pedestrian signal man has a girlfriend!", while international outlets such as the _Daily Telegraph_ and _The Straits Times_ rushed to republish the story.
 
-### Curator's Note #2: The Birth of a Cultural Icon
+### Curator's Note #2: The Birth of a Cultural Symbol
 
-The reason the green man was able to become a cultural icon lies not only in its technological innovation but in the way it embodies a core trait of Taiwanese culture: infusing warmth and humanity into rigid rules, and weaving playfulness into functional design. It is both practical and endearing, both modern and approachable.
+The reason the Little Green Man became a cultural symbol is not just due to its innovative technology, but because it embodies a core characteristic of Taiwanese culture: injecting warmth and humanity into strict regulations, and integrating playful elements into functional design. It is both practical and cute, both modern and approachable.
 
-## From Function to Symbol: A Metamorphosis
+## A Transformation from Function to Symbol
 
-Today, the green man has long transcended its role as a traffic signal, becoming one of Taiwan's most recognizable cultural icons. At major tourist attractions, foreign visitors can be seen making special trips to take photos with the green man; in souvenir shops, merchandise shaped like the green man fills the shelves; on the international stage, the green man is frequently invoked as a symbol of Taiwan's innovative spirit.
+Today, the Little Green Man has long transcende the functional scope of a traffic signal to become one of Taiwan's most representative cultural symbols. At major tourist attractions, foreign visitors can be seen specifically posing for photos with the Little Green Man; in souvenir shops, products shaped like the figure are everywhere; and in international arenas, the Little Green Man is frequently used to represent Taiwan's spirit of innovation.
 
-This phenomenon reflects a profound cultural shift: **how a functional public facility gradually accumulates emotional value through daily use, eventually becoming a vessel for collective memory.** The green man has witnessed the daily commutes of the people of Taiwan, the transformation of its cities, and Taiwan's evolution from a manufacturing powerhouse to an innovation-driven nation.
+This phenomenon reflects a profound cultural shift: **how a functional piece of public infrastructure can gradually accumulate emotional value through daily use, eventually becoming a vessel for collective memory.** The Little Green Man has witnessed the daily commutes of Taiwanese people, the transformation of cities, and Taiwan's transition from a manufacturing powerhouse to an innovation-driven nation.
 
-In 2019, Chunghwa Post issued a set of stamps on the theme of intelligent transportation, with the green man featured as one of the designs — formally cementing its place in Taiwanese culture. From a utilitarian street-level tool to a national-level cultural icon, the green man completed a magnificent metamorphosis.
+In 2019, Chunghwa Post issued a series of smart transportation-themed stamps, featuring the Little Green Man as one of the designs, officially cementing its status in Taiwanese culture. From a practical street tool to a national cultural symbol, the Little Green Man has completed a magnificent metamorphosis.
 
 ### Curator's Note #3: The Democratization of Innovation
 
-The story of the green man tells us that the best innovations often come from paying attention to and improving the details of everyday life. It was not the product of a high-tech laboratory but grew out of a simple aspiration: "to make crossing the street safer and more enjoyable for pedestrians." This spirit of democratized innovation is the true source of Taiwan's soft power.
+The story of the Little Green Man teaches us that the best innovations often stem from paying attention to and improving the details of daily life. It was not a product of a high-tech laboratory, but originated from a simple desire to "make crossing the street safer and more interesting." This spirit of democratized innovation is the true source of Taiwan's soft power.
 
-## 2026: The Green Man No Longer Runs
+## 2026: The Little Green Man No Longer Runs
 
-On March 12, 2026, the Ministry of Transportation and Communications announced the complete removal of the "brisk walk" animation from the green man signal. Minister Wu Dong-liang stated that the purpose of the removal was "to avoid giving pedestrians the impression that they need to hurry across the road." The new regulation will affect animated signals across all 19 counties and cities in Taiwan. The green-light flashing function will be retained, but the running animation will no longer appear.
+On March 12, 2026, the Ministry of Transportation announced the complete removal of the "brisk walk" animation from the Little Green Man signals. Minister of Transportation Wu Tung-cheng stated that the purpose of the removal was "to ensure pedestrians do not feel the need to rush across the road." The new regulation will affect existing animated signals in 19 counties and cities across Taiwan; while the flashing green light function remains, the running animation will no longer appear.
 
-The decision sparked widespread discussion. For many Taiwanese people, the animation of the green man transitioning from a leisurely walk to a sprint was the most familiar visual rhythm of their daily commute. A design that first lit up at the Songzhi Road intersection in 1999 has, 27 years later, entered the history books.
+This decision has sparked widespread discussion. For many Taiwanese people, the animation of the Little Green Man transitioning from a slow walk to a run is the most familiar visual rhythm of their daily commute. A design that lit up at the Songzhi Road intersection in 1999 enters history after 27 years.
 
-From the original seven-frame animation, to the singing version, the proposal version, the pandemic-prevention version, to the Google homepage Doodle and the Chunghwa Post commemorative stamp, the green man has carried the Taiwanese people's imagination of public space through every iteration. The urban legend that "the green man trips and falls" has long been woven into internet culture, becoming part of the island's collective memory.
+From the original seven-frame animation to later versions—the singing version, the proposal version, and the pandemic-response version—as well as the Google Doodle and Chunghwa Post commemorative stamps, the Little Green Man has carried the imagination of the Taiwanese people regarding public space through every evolution. The urban legend that "the Little Green Man will trip" has long been integrated into internet culture, becoming part of this island's collective memory.
 
-The running animation may disappear, but the green man's status as a cultural icon of Taiwan will not change. It reminds us that the most internationally influential cultural exports often emerge from innovations closest to everyday life.
+The running animation may disappear, but the status of the Little Green Man as a symbol of Taiwan's culture will not change. It reminds us: the most internationally influential cultural exports often stem from innovations that are closest to everyday life.
 
 ---
 
 ## References
 
-1. [Taiwan Streetscape Becomes a World First! Taiwan's Pride — the "Animated Walking Green Man Signal" — Turns 25](https://udn.com/news/story/120910/8154753) - United Daily News
+1. [Taiwan's street landscape is a global first! The pride of Taiwan, 'the moving Little Green Man signal,' is now 25 years old](https://udn.com/news/story/120910/8154753) - United Daily News
 2. [Animated Pedestrian Signal](https://zh.wikipedia.org/zh-tw/%E5%8B%95%E7%95%AB%E5%BC%8F%E8%A1%8C%E4%BA%BA%E5%B0%88%E7%94%A8%E8%99%9F%E8%AA%8C) - Wikipedia
-3. [Pingtung's "Proposal Version" Green Man Goes International — How the Pedestrian Signal Became "Taiwan's Pride"](https://www.thenewslens.com/article/89816) - The News Lens
-4. [Easter Egg or Malfunction? Taiwan's Pioneering Walking Green Man Trips Once Every 20,000 Steps?](https://futurecity.cw.com.tw/article/2205) - Future City
-5. [This Day in History — March 18: The Running "Green Man" Comes of Age!](https://www.storm.mg/article/235068) - Storm Media
-6. [Taiwan's Original Animated Green Man + Countdown Timer](https://nit.immigration.gov.tw/Multicultural/Detail/ba4bb165-6168-40a1-bda0-7686673689a0) - National Immigration Agency Digital Information Network
-7. [Traffic Signal Green Man's 17th Birthday](https://www.google.com/doodles/xiaolurens-17th-birthday) - Google Doodle
-8. [The Green Man Takes Center Stage — Taiwan Intelligent Transportation Construction Stamps Issued on the 25th](https://udn.com/news/story/7266/4058371) - United Daily News
-9. [Pedestrian Signal "Brisk Walk" Animation to Become History](https://www.cna.com.tw/news/ahel/202603120114.aspx) - Central News Agency (2026)
+3. [Pingtung's 'proposal version' Little Green Man goes viral abroad; how a pedestrian signal became the 'Pride of Taiwan'](https://www.thenewslens.com/article/89816) - The News Service
+4. [An Easter egg or a malfunction? Taiwan's first walking Little Green Man trips once every 20,000 steps?](https://futurecity.cw.com.tw/article/2205) - Future City
+5. [Today in History: March 18 — The running 'Little Green Man' has come of age!](https://www.storm.mg/article/235068) - The Reporter
+6. [Taiwan's first dynamic Little Green Man + countdown timer](https://nit.immigration.gov.tw/Multicultural/Detail/ba4bb165-6168-40a1-bda0-7686673689a0) - National Immigration Agency Digital Information Website
+7. [Traffic Signal Little Green Man's 17th Birthday](https://www.google.com/doodles/xiaolurens-17th-birthday) - Google Doodle
+8. [Little Green Man also becomes the protagonist: Taiwan Smart Transportation Construction stamps issued on the 25th](https://udn.com/news/story/7266/4058371) - United Daily News
+9. [Pedestrian signal 'brisk walk' animation to enter history](https://www.cna.com.tw/news/ahel/202603120114.aspx) - CNA (2026)

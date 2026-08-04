@@ -1,220 +1,117 @@
 ---
-title: "Modern Taiwanese Poetry: The Island's Lyricism"
-category: Art
-tags:
-  [
-    Literature,
-    Poetry,
-    Modern Poetry,
-    Lyricism,
-    Chi Hsien,
-    Yu Kwang-chung,
-    Lome,
-    Wu Sheng,
-    Xiang Yang,
-    Chen Li,
-  ]
+title: 'Modern Taiwanese Poetry'
+description: 'How modernist experiments from three studies unexpectedly birthed a native poetic revolution'
 date: 2026-03-23
-lastVerified: 2026-03-23
-translatedFrom: 'Art/台灣現代詩.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:76772688d61c205f'
-sourceBodyHash: 'sha256:444e69e75502ca5e'
-translatedAt: '2026-06-16T17:10:15Z'
-description: 'How a modernist experiment launched from three study rooms — the three major poetry societies of the 1950s — unexpectedly catalyzed the most soil-rooted poetry revolution. From Chi Hsien''s radical "horizontal transplantation" to Wu Sheng''s farmland verses and Xiang Yang''s Taiwanese-language innovation, Taiwan''s modern poetry found its distinctive voice through 70 years of aesthetic debate.'
+category: 'Art'
+tags: ['Literature', 'Poetry', 'Modern Poetry', 'Nativist Literature']
+subcategory: '文學'
 author: 'Taiwan.md'
 featured: false
-readingTime: 6
+lastVerified: 2026-03-23
 lastHumanReview: false
+readingTime: 6
+curation: 'incubating'
+translatedFrom: 'Art/台灣現代詩.md'
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:76772688d61c205f'
+sourceBodyHash: 'sha256:444e69e75502ca5e'
+translatedAt: '2026-08-04T12:03:20+08:00'
 ---
 
-# Modern Taiwanese Poetry: The Island's Lyricism
+# Modern Taiwanese Poetry: An Unexpected Prophecy of Localization
 
-The development of modern Taiwanese poetry is like a winding river, starting from its budding stage in the 1950s, through the changes and evolutions of various periods, and finally converging into today's rich and diverse poetic landscape. This poetic path not only witnesses the growth of Taiwanese literature but also reflects the spiritual face and cultural pursuit of an island in the midst of historical changes.
+> **30-Second Overview:** In 1956, a group of poets declared they would pursue "horizontal transplantation rather than vertical inheritance," thoroughly Westernizing Taiwanese poetry.
+> Twenty years later, this radical modernist movement unexpectedly birthed the _Xiangtu_ (nativist) poetry wave, deeply rooted in local soil.
+> The aesthetic experiments of 102 poets from three major poetry societies ultimately allowed Taiwanese poetry to find its own voice.
 
-## Historical Sources of Modern Poetry
+On the afternoon of January 15, 1956, more than 40 poets sat within a community center in Taipei. The meeting chairman, Ji Xian (紀弦), announced a resolution that would shock the poetic community: "We believe that new poetry is a horizontal transplantation, rather than a vertical inheritance." This sentence was later enshrined in the "Six Tenets of the Modernist School," becoming one of the most controversial manifestos in the history of modern Taiwanese poetry.
 
-### The Re-start of the Post-war Period
+At the time, no one anticipated that this radical modernist experiment would, twenty years later, catalyze the most native poetic revolution.
 
-The real start of modern Taiwanese poetry can be traced back to the 1950s. In the early post-war period, as a large number of writers and scholars moved to Taiwan, the tradition of Chinese modern poetry re-took root on the island. The poetic creations of this period mainly inherited the tradition of new poetry since China's May Fourth Movement but also began to integrate Taiwan's local life experience.
+## The Poetry Laboratories of Three Studies
 
-**Chi Hsien** (紀弦) is hailed as the "lighter of modern Taiwanese poetry." In 1953, he founded the _Modern Poetry_ (現代詩) magazine and proposed the theory of "horizontal transplantation," advocating the learning of the techniques and spirit of Western modernist poetry, laying an important foundation for the development of modern Taiwanese poetry.
+The starting point of modern Taiwanese poetry lies in three different "studies"—Ji Xian's Modern Poetry Society (現代詩社), Qin Zihao's Blue Star Poetry Society (藍星詩社), and Lo Fu and Zhang Mo's Genesis Poetry Society (創世紀詩社). Established successively between 1954 and 1956, these groups attracted 102 poets, forming a rare "tripartite" structure in Taiwan's literary history.
 
-## The Golden Age of the Three Major Poetry Societies
+The **Modern Poetry Society** was the most radical. The theory of "horizontal transplantation" proposed by Ji Xian advocated for complete learning from Western modernism while abandoning traditional Chinese literature. This claim caused an uproar in the conservative poetic circles of the 1950s, drawing criticism for being "wholesale Westernization" and "severing literary traditions."
 
-From the mid-1950s to the 1970s, modern Taiwanese poetry entered a golden development period, the most important sign of which was the establishment and development of the **three major poetry societies**: the **Modern Poetry Society** (現代詩社), the **Blue Stars Poetry Society** (藍星詩社), and the **Genesis Poetry Society** (創世紀詩社). These three poetry societies each had their own characteristics and jointly promoted the prosperity of modern Taiwanese poetry.
+However, a side effect of this polemic was that it forced Taiwanese poets to contemplate a fundamental question: **What is the poetic language that truly belongs to this island?**
 
-### The Modern Poetry Society: Horizontal Transplantation and Modernism
+> **📝 Curator's Note**
+> The debate between "horizontal transplantation" vs. "vertical inheritance" appeared to be an aesthetic dispute, but it was actually a deep-seated anxiety regarding identity.
+> Poets arriving in Taiwan were eager to sever cultural umbilical cords with the mainland, yet they unexpectedly embarked on a journey to find a local Taiwanese voice.
 
-Founded in 1956 and led by Chi Hsien, the **Modern Poetry Society** advocated "horizontal transplantation," actively introducing Western modernist poetry and emphasizing the modernity and internationality of poetry.
+The **Blue Star Poetry Society** chose a moderate path. Figures such as Yu Kwang-chung (余光中) and Qin Zihao emphasized the fusion of the classical and the modern, producing works that were elegant and subtle. Yu Kwang-chung's _Nostalgia_ became one of the most widely recited modern poems in the Sinophone world:
 
-**Representative Figures**:
+_Nostalgia is a shallow strait / I am on this side / The mainland is on that side_
 
-- **Chi Hsien** (1913–2013): The spiritual leader of the Modern Poetry Society, advocating the "Six Credos."
-- **Zheng Chouyu** (鄭愁予, 1933–): Famous for works like _Mistake_ (錯誤), with an elegant and subtle poetic style.
-- **Lo Hang**, **Young Yun-ta**, etc.
+The **Genesis Poetry Society** moved toward extreme experimentation. Lo Fu (洛夫), Yi Hsien (<0xE7><0x98>ាង弦), and Zhang Mo (張默) boldly introduced Surrealism, creating works filled with symbolism and metaphor. Lo Fu, often hailed as the "Poetry Demon," shocked the literary world with _Death in the Stone Chamber_, an epic spanning 416 lines exploring death and existence.
 
-Zheng Chouyu's _Mistake_ is a classic of modern Taiwanese poetry:
+## Seeds of Rebellion: The Nativist Turn of the 1970s
 
-> I pass through the south of the Yangtze / That face waiting in the season like the opening and closing of a lotus
+In 1977, an unexpected literary polemic altered the trajectory of Taiwanese poetry. The "Nativist Literature Debate" (_Xiangtu_ literature debate) was ostensibly about whether literature should reflect social reality, but it was actually a grand reckoning with twenty years of modernist experimentation.
 
-This poem, with its beautiful imagery and rhythm, shows the poetic aesthetics pursued by the Modern Poetry Society.
+Critics questioned: If poetry is so abstract and so Westernized, what does it have to do with the lived experiences of the Taiwanese people?
 
-### The Blue Stars Poetry Society: Classical Charm and Modern Expression
+**This was precisely the unforeseen consequence of the three poetry societies.** While their modernist experiments expanded poetic form and technique, they also triggered a profound reflection on localization. A new generation of poets began using the most humble imagery—soil, rice paddies, a mother's hands—to create an unprecedented "Taiwanese voice."
 
-The **Blue Stars Poetry Society** was founded in 1954 by Yu Kwang-chung (余光中) and Tan Tzu-hao (覃子豪). Compared to the radical modernism of the Modern Poetry Society, the Blue Stars Poetry Society focused more on the **integration of classical literary traditions and modern poetic expression**, pursuing "vertical inheritance."
+Wu Sheng (吳晟) was a representative of this wave of native poetry. This middle school biology teacher from Xizhou, Changhua, used the most direct language to write of his attachment to the land:
 
-**Representative Figures**:
+_I am a farmer's son / I deeply understand / The weight of every inch of soil_
 
-- **Yu Kwang-chung** (1928–2017): A giant of modern Taiwanese poetry, author of _Nostalgia_ (鄉愁).
-- **Tan Tzu-hao** (1912–1963): One of the founders of the Blue Stars Poetry Society.
-- **Zhong Ding-wen**, **Rong Zi**, **Lome**, etc.
+His poetry collections, _Soil_ (_泥土_) and _Speaking to Children_ (_向孩子說_), recorded not metaphysical philosophy, but authentic rural life. **The power of _Xiangtu_ poetry stems from its anti-modernism—it rejects metaphor in favor of directness; it rejects universality in favor of locality.**
 
-Yu Kwang-chung's _Nostalgia_ is one of the most widely circulated modern poems in the Chinese-speaking world:
+> **💡 Did You Know?**
+> To this day, Wu Sheng still lives in his ancestral home in Xizhou, Changhua, planting trees and rice in his own fields.
+> In 2020, he was awarded an honorary doctorate in literature by National Dong Hwa University; his response was: "I am merely a farmer's son."
 
-> Nostalgia is a shallow strait / I am at this end / The mainland is at that end
+## The Breakthrough of Taiwanese-language Poetry
 
-This poem not only shows Yu Kwang-chung's deep literary foundation but also reflects the family and national sentiment under the special historical background.
+An even more radical experiment in localization came from Xiang Yang (向陽). This poet, hailing from Fengyuan, Taichung, not only composed in _Tâi-gim_ (Taiwanese/Hokkien) but also constructed the theoretical foundation for modern Taiwanese-language poetry. Works such as _Song of the Land_ (_土地的歌_) proved that the language is capable of more than just speech; it can compose modern poetry with exquisite rhythm.
 
-### The Genesis Poetry Society: Surrealism and Experimental Spirit
+The emergence of Taiwanese-language poetry served as the ultimate rebuttal to "horizontal transplantation." **If poetry is the art of language, then the most authentic voice must come from the language used daily by the people on this land.**
 
-The **Genesis Poetry Society** was founded in 1954 by Zhang Mo (張默), Ya Hsien (瘂弦), and Lome (洛夫). The society's greatest characteristic was its **strong experimental spirit**, actively exploring Western modernist techniques such as surrealism and symbolism.
+| Influence of Three Societies                     | Nativist Reaction                        |
+| :----------------------------------------------- | :--------------------------------------- |
+| Horizontal transplantation of Western techniques | Vertical inheritance of local traditions |
+| Pursuit of poetic purity                         | Poetry's engagement with social reality  |
+| Emphasis on intellect and abstraction            | Return to sensibility and the concrete   |
 
-**Representative Figures**:
+## New Voices in the Digital Age
 
-- **Lome** (1928–2018): Known as the "Poetry Demon," shocked the poetic world with _Death in the Stone Cell_ (石室之死亡).
-- **Ya Hsien** (1932–): Representative work _Like a Song's Andante_ (如歌的行板).
-- **Zhang Mo** (1931–2017): The organizer and promoter of the society.
+Entering the 21st century, modern Taiwanese poetry faces new challenges. The ubiquity of the internet brought digital platforms like "Poetry Path" (_詩路_), as well as social media phenomena such as "Goodnight Poetry" and "A Poem for You Every Day."
 
-Lome's _Gazing Homeward from the Boundary_ (邊界望鄉) shows his profound literary attainment:
+New generation poets like Chen Yu-hung (陳育虹) and Jing Xianghai (鯨向海) inherit the techniques of their predecessors while developing more diverse creative dimensions. They neither reject the experimental spirit of modernism nor ignore the local experiences of _Xiangtu_; instead, they find a new equilibrium between the two.
 
-> Maybe there's gold buried there / Maybe there's only / My mother buried there
+> **⚠️ Controversial Viewpoint**
+> Critics argue that the lower barrier to entry for poetry in the internet age leads to inconsistent quality.
+> Supporters argue this represents the democratization of poetry, allowing more voices to be heard.
 
-Ya Hsien's _Like a Song's Andante_ is known for its musicality and rhythm:
+**The Taiwan Modern Poets Association established its official website in 2021, collaborating with institutions like the National Central Library for digital promotion**, demonstrating that traditional poetry societies are also adapting to digital-age dissemination models.
 
-> The necessity of tenderness / The necessity of affirmation / The necessity of a little wine and osmanthus flowers
+## Taiwanese Poetry in a Global Vision
 
-## The Local Turn: From Chinese Sentiment to Taiwanese Consciousness
+The international visibility of modern Taiwanese poetry is steadily increasing. The works of poets such as Yu Kwang-chung, Yang Mu (楊牧), and Chen Li (陳黎) have been translated into English, French, German, and many other languages. The publication of the English and Turkish editions of _Voices from Taiwan: An Anthology of Modern Taiwanese Poetry_ marks the beginning of Taiwanese poetry finding its place on the global literary map.
 
-Starting from the 1970s, modern Taiwanese poetry underwent an important turn. With the launch of the **Nativist Literature Debate** (鄉土文學論戰), poets began to pay more attention to the local reality and culture of Taiwan, and poetic creation presented a **localization** trend.
+**✦** "The poetic language of a small island must ultimately prove its value within a global context."
 
-### Wu Sheng: The Soil-Scented Nativist Poet
+## An Unexpected Prophecy
 
-**Wu Sheng** (吳晟, 1944–) is an important representative of Taiwanese nativist poetry. His poetry is deeply rooted in the land and life of rural Taiwan, using simple language to express deep affection for his hometown.
+Looking back at this 70-year history of poetry, the most thought-provoking aspect is its inherent paradox. **The ultimate legacy of the modernism championed by the three societies was not a Westernized poetic language, but a profound reflection on local identity.**
 
-Representative works include _Dian Zai Tou_ (Storefront) and _Speaking to Children_. His poetic lines often carry the fragrance of the soil:
+Ji Xian's theory of "horizontal transplantation" objectively stimulated Taiwanese poets to ask, "What is our tradition?" The outbreak of the Nativist Literature Debate saw the elegance of the Jiangnan landscapes in Zheng Chou-yu's (鄭愁予) work eventually yield to the earthy fragrance of Wu Sheng's fields.
 
-> I am the son of a farmer / I deeply understand / The weight of every inch of land
+**This may be the unique trajectory of Taiwanese literature: finding the deepest local identity within the most radical modernist experiments.**
 
-Wu Sheng's poetry not only has strong nativist colors but also shows concern for environmental protection, earning him the title of "Taiwan's Land Poet."
+Today's modern Taiwanese poetry possesses both the avant-garde experimentation of Lo Fu and the terrestrial writing of Wu Sheng; it holds both the classical charm of Yu Kwang-chung and the linguistic innovation of Xiang Yang. This landscape of coexistence is the precious legacy of seventy years of aesthetic debate.
 
-### Xiang Yang: Pioneer of Taiwanese Language Poetry
+The poets who emerged from those three studies likely never imagined that their unintentional experiments would, twenty years later, cultivate an entirely different poetic landscape. **But perhaps that is the charm of literary history—every radical rebellion has the potential to become the nourishment for the next revolution.**
 
-**Xiang Yang** (向陽, 1955–) is an important promoter of modern Taiwanese language poetry (Taigi poetry). He not only creates poetry in Taiwanese but also actively promotes Taiwanese literature. His work _The Song of the Land_ shows the phonetic beauty and cultural connotation of Taiwanese poetry.
+## References
 
-Xiang Yang's contribution lies not only in creation but also in his construction and promotion of Taiwanese poetic theory, opening a new path for the development of local Taiwanese poetry.
-
-### Chen Li: The Poetic Language Magician of Phonetic Experiment
-
-**Chen Li** (陳黎, 1954–) is one of the most innovative contemporary Taiwanese poets. His poetry has a strong experimental nature, good at using **sound**, **vision**, **word games**, and other techniques to create unique poetic aesthetics.
-
-His _Microcosmos_ (小宇宙) series of poems and his modern interpretation of classical poetry show his deep literary power and innovative spirit. Chen Li is also an important translator, introducing a large amount of world poetry to Taiwan.
-
-## The Rise of Female Poets
-
-Female poets have also played an important role in the development of modern Taiwanese poetry, injecting different voices into the Taiwanese poetic world with their unique female perspectives.
-
-### Xi Murong: Delicate Writing of Emotion
-
-**Xi Murong** (席慕蓉, 1943–) is famous for her delicate writing of emotions. Her poetry often explores themes such as love, life, and nature. Works like _A Flowering Tree_ (一棵開花的樹) are widely loved:
-
-> How to make you meet me / At my most beautiful moment
-
-### Yang Mu: Perfect Integration of Classical and Modern
-
-**Yang Mu** (楊牧, 1940–2020) is one of the masters of modern Taiwanese poetry. His poetic style is elegant, perfectly combining the deep heritage of classical literature with the expression techniques of modern poetry. Works such as _Mountain Wind and Sea Rain_ (山風海雨) and _Time Propositions_ (時光命題) are classics of modern Taiwanese poetry.
-
-## Diversified Development of Poetic Forms
-
-### Rise of Prose Poetry
-
-Starting from the 1980s, **prose poetry** gradually rose in the Taiwanese poetic world. This genre, somewhere between prose and poetry, provided poets with a more free space for expression. Poets like **Luo Zhicheng** and **Chen Kehua** have made important contributions in this field.
-
-### Concrete Poetry and Experimental Poetry
-
-With the update of artistic concepts, **concrete poetry** (圖像詩) and **experimental poetry** have also appeared in Taiwan. These works break through the boundaries of traditional poetry, integrate visual art elements, and show multiple possibilities of poetry.
-
-### Rise of Internet Poetry
-
-At the beginning of the 21st century, the popularity of the Internet brought new changes to poetic creation and dissemination. **Internet poetry** and **blog poetry** emerged, providing new creation and publishing platforms for young poets.
-
-## New Voices of the Contemporary Poetic World
-
-### Characteristics of the New Generation Poets
-
-Many excellent new generation poets have emerged in the contemporary Taiwanese poetic world, whose works show the following characteristics:
-
-1. **Bolder linguistic experiments**: New generation poets are more daring to break through the boundaries of traditional language.
-2. **More diverse concerns**: From environmental protection to gender, from globalization to local identity.
-3. **More innovative use of media**: Combining visual, musical, Internet, and other multimedia elements.
-
-**Representative Poets**:
-
-- **Shao Xia** (騷夏): Known for her unique linguistic style.
-- **Chen Yuhong** (陳育虹): An important representative of female poets.
-- **Ching Hsiang-hai** (鯨向海): A representative figure of the new generation of poets.
-
-## Social Function and Cultural Significance of Modern Poetry
-
-### Carrier of Cultural Inheritance
-
-Modern Taiwanese poetry has played an important role in cultural inheritance. From the early sentiment for Chinese culture to the later Taiwanese local consciousness, poetry has always been an important carrier of cultural identity.
-
-### Pioneer of Linguistic Experiment
-
-As the highest form of linguistic art, poetry is often the pioneer of linguistic experiments. The development of modern Taiwanese poetry also reflects the evolutionary history of the Chinese literary language.
-
-### Concern for Social Issues
-
-Many poets care about social issues through their works, from the anti-communist literature of the early period to the later nativist literature, from political criticism to environmental concern; poetry has always been closely related to the pulse of the times.
-
-## International Exchange and Influence
-
-### Translation and Promotion
-
-The international promotion of modern Taiwanese poetry has also achieved certain results. The works of poets like Yu Kwang-chung, Yang Mu, and Chen Li have been translated into multiple languages and gained attention in the international poetic world.
-
-### Participation in International Poetry Festivals
-
-Taiwanese poets actively participate in various international poetry festival activities and exchange with poets from all over the world, expanding the international influence of modern Taiwanese poetry.
-
-## Challenges and Future Outlook
-
-### Changes in the Reading Environment
-
-With the diversification of entertainment methods, poetry faces the challenge of a decreasing audience. How to maintain the influence of poetry in the new media environment is a problem that the contemporary poetic world must face.
-
-### Balance between Innovation and Tradition
-
-How to find a balance between innovation experiment and traditional inheritance, keeping the timeliness of poetry without losing its literary essence, is a problem that contemporary poets need to think about.
-
-### Dual Needs of Localization and Internationalization
-
-In the era of globalization, modern Taiwanese poetry needs to both maintain local characteristics and have an international vision. This dual need creates tension and challenges in creation.
-
-## Conclusion: Sustainable Inheritance of the Island's Lyricism
-
-Modern Taiwanese poetry, from the foundation of the three major poetry societies to the deepening of the local turn and then to contemporary diversified development, shows the rich changes of a literary genre in a specific time and space. Whether it is Yu Kwang-chung's nostalgia, Zheng Chouyu's mistake, Lome's boundary, Wu Sheng's soil, Xiang Yang's Taigi, or Chen Li's experiment, every voice has left a unique mark on the poetic map of this island.
-
-These poems not only record personal emotions and thoughts but also witness the changes and development of Taiwanese society. They are like lighthouses on the island, emitting the light of humanity in the long river of history and guiding successors to continue moving forward.
-
-The future of modern Taiwanese poetry will continue to develop in the dialogue between tradition and innovation, local and international. Just like the island itself, modern Taiwanese poetry will continue to show its unique charm and vitality in the blending of multiple cultures. This tradition of the island's lyricism will surely bloom more brilliant flowers in the new era.
-
----
-
-### Reference & Further Reading
-
-- **May Fourth Movement (五四運動):** An intellectual and reform movement in early 20th-century China that emphasized science, democracy, and modern vernacular literature.
-- **Horizontal Transplantation (橫的移植):** A concept introduced by Chi Hsien advocating for the direct learning and adaptation of Western modernist techniques into Taiwanese poetry.
-- **Taigi (台語):** The Taiwanese Southern Min language, often used in poetry to express local identity and phonetic rhythm.
-- **Concrete Poetry (圖像詩):** Poetry in which the typographical arrangement of words is as important in conveying the intended effect as the conventional elements of the poem.
+- [Taiwan Literature Knowledge Platform - Modernist Poetry Societies](https://db.nmtl.gov.tw/site2/ikm?id=385)
+- [HK01 - The Origins of Modern Poetry from Three Major Societies](https://www.hk01.com/%E8%97%9D%E6%96%87/450298/%E5%8F%B0%E7%81%A3%E6%96%87%E5%AD%B8-%E7%8F%BE%E4%BB%A3%E8%A9%A9%E7%B7%A3%E8%B5%B7%E8%87%AA%E4%B8%89%E5%A4%A7%E8%A9%A9%E7%A4%BE)
+- [Wikipedia - Nativist Literature Debate in Taiwan](https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E9%84%89%E5%9C%9F%E6%96%87%E5%AD%B8%E8%AB%96%E6%88%B0)
+- [Wikipedia - Modern Poetry Polemics](https://zh.wikipedia.org/zh-tw/%E7%8F%BE%E4%BB%A3%E8%A9%A9%E8%AB%96%E6%88%B0)
+- [Changhua County Government - Biography of Poet Wu Sheng](https://www.bocach.gov.tw/News_Content.aspx?n=1296&s=38165)
+- [Taiwan Modern Poets Association](https://www.atwmp.org.tw/)
+- [Digital Archive Observatory - Poetry Path: Taiwan Modern Poetry Online Alliance](https://content.teldap.tw/index/blog/?p=325)

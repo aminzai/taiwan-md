@@ -1,183 +1,183 @@
 ---
-translatedFrom: 'Economy/台灣企業：廣達電腦.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:917f1503c2ff61d8'
-sourceBodyHash: 'sha256:8336e4cef45a1444'
-translatedAt: '2026-05-01T15:38:13+08:00'
-title: 'Taiwanese Companies: Quanta Computer'
-description: "From a factory fire to the world's laptop king — how Barry Lam built an AI-era empire. The story of Quanta Computer: founding, ODM innovation, Apple partnership, and its pivot to AI servers."
+title: 'Taiwanese Enterprises: Quanta Computer'
+description: 'From factory fire to global laptop king: How Lim Pai-li built a new empire for the AI era?'
 date: 2026-03-21
+category: 'Economy'
 tags:
   [
     'Economy',
-    'enterprises',
-    'electronics OEM',
+    'Enterprise',
+    'Electronics Manufacturing',
     'ODM',
-    'AI cloud',
-    'laptop computers',
+    'AI Cloud',
+    'Laptops',
   ]
-subcategory: 'Enterprise Chronicles'
-author: Taiwan.md
+subcategory: '企業列傳'
+author: 'Taiwan.md'
 readingTime: 8
 featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
-category: Economy
+curation: 'incubating'
+translatedFrom: 'Economy/台灣企業：廣達電腦.md'
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:917f1503c2ff61d8'
+sourceBodyHash: 'sha256:8336e4cef45a1444'
+translatedAt: '2026-08-04T12:03:20+08:00'
 ---
 
-> **30-Second Overview:** In 1987, a factory fire led Barry Lam to resign from Kinpo Electronics.
-> In 1988 he rented two floors in Taipei's Shilin, started Quanta with NT$30 million capital.
-> 36 years later, Quanta is the world's largest laptop ODM manufacturer, with 2023 revenues of NT$1.08 trillion.
-> Every three laptops globally, one comes from Quanta. With AI's arrival, Quanta is again making a glorious pivot —
-> becoming NVIDIA's most important server assembly partner.
+> **30-Second Overview:** A factory fire in 1987 led Lim Pai-li (林百里) to resign from Compal Electronics.
+> In 1988, he rented a two-story space in Shilin, Taipei, and founded Quanta with 30 million TWD in capital.
+> 36 years later, Quanta has become the world's largest laptop manufacturer, with 2023 revenues reaching 1.08 trillion TWD.
+> One out of every three laptops globally comes from Quanta. With the arrival of the AI era, Quanta has undergone another magnificent transformation, becoming NVIDIA's most vital server assembly partner.
 
-## A Fire That Changed a Life
+## A Life Changed by Fire
 
-In 1987, a fire at the Compal Electronics Pingzhen plant burned out another legend of Taiwan's tech industry.
+In 1987, a massive fire at Compal Electronics' Pingzhen plant forged another legend in Taiwan's technology industry.
 
-Barry Lam (林百里), then 39-year-old president of Compal Electronics, chose to resign to take responsibility after the fire. Many people felt this was not worth it: Lam had worked at Kinpo Electronics (Compal's parent company) for 15 years, rising from engineer to president — why ruin his career over an accident?
+At the time, 39-year-old Lim Pai-li was the General Manager of Compal Electronics. Following the fire, he chose to resign to take responsibility. Many felt this decision was not worth it: Lim had worked at Compal (the parent company of Wistron) for 15 years, rising from engineer to General Manager. Why destroy his career over an accident?
 
-But Lam had an idea in his head: he wanted to do what he truly wanted to do — design laptop computers.
+But Lim had a vision: he wanted to do what he truly loved—designing laptops.
 
-In May 1988, Lam and old friend C.C. Leung (梁次震) rented two floors near Jiantan in Shilin, Taipei, and together with a dozen partners who had jumped ship from Kinpo, Inventec, and Wang Laboratories, founded "Quanta Computer." Starting capital was only NT$30 million, with a single goal: build the best laptop computers.
+In May 1988, Lim and his longtime associate Liang Ci-zhen (梁次震) rented a two-story building near Jiatan in Shilin, Taipei. Alongside more than a dozen partners who had defected from Wistron, Inventec, and Wang's Computer, they founded "Quanta Computer." The initial capital was only 30 million TWD, with a single goal: to build the best laptops.
 
-At that time laptops were still luxury items, priced at over NT$100,000 — ordinary people couldn't afford them. But Lam believed that with technological progress, laptops would eventually become ubiquitous.
+At that time, laptops were luxury items costing over 100,000 TWD; most people simply could not afford them. But Lim believed that as technology progressed, laptops would one day become ubiquitous.
 
-## From OEM to Design: The ODM Model Innovation
+## From Manufacturing to Design: The Innovation of the ODM Model
 
-Quanta is not just a "contract manufacturer" but an "ODM" (Original Design Manufacturer). What's the difference?
+Quanta is not merely an "OEM" (Original Equipment Manufacturer), but an "ODM" (Original Design Manufacturer). What is the difference?
 
-**OEM:** the brand company gives you blueprints and you manufacture to spec
-**ODM:** you design the product yourself; if the brand company likes it, they brand and sell it
+**OEM (Original Equipment Manufacturing):** The brand owner provides the blueprints, and you follow them.
+**ODM (Original Design Manufacturing):** You design the product yourself; if a brand owner selects it, they apply their label for production.
 
-This model was innovative in the 1990s. Traditionally, large companies like IBM and HP had their own design and manufacturing divisions. But Lam believed: "professional division of labor" would be the future trend — brand companies focus on marketing and distribution channels, leaving technology and manufacturing to specialized ODM companies.
+This model was innovative in the 1990s. Traditionally, large corporations like IBM and HP had their own design and manufacturing departments. However, Lim believed that "specialized division of labor" would be the future trend—brand owners would focus on marketing and distribution, while technology and manufacturing would be entrusted to professional ODM firms.
 
-In 1999, Quanta landed an order that would change its destiny: the Apple iBook.
+In 1999, Quanta secured a destiny-changing order: the Apple iBook.
 
-This was the first semi-transparent color laptop, avant-garde in design and complex in technology. At the time, many ODM companies thought it was too difficult and risky; only Quanta dared to take it on. Lam's judgment: if they could build to Apple's standards, no other customer would be a problem.
+This was the first translucent, colorful laptop, featuring avant-garde design and complex technology. Many ODMs at the time believed it was too difficult and high-risk, but only Quanta dared to accept it. Lim's judgment was: if we can produce a product that meets Apple's standards, no other customers will be a problem.
 
-The results proved him right. The iBook succeeded enormously, and Quanta became Apple's long-term partner, subsequently manufacturing the PowerBook G4, MacBook Air, MacBook Pro, and other iconic products.
+The results proved him right. The iBook was a massive success, and Quanta subsequently became a long-term partner for Apple, sequentially manufacturing iconic products such as the PowerBook G4, MacBook Air, and MacBook Pro.
 
-## Global No. 1: The Numbers Speak
+## Global Number One: The Numbers Speak
 
-**2024 Global Laptop ODM Market:**
+**2024 Global Laptop ODM Market Share:**
 
-1. Quanta: approximately 30% market share
-2. Compal: approximately 25%
-3. Pegatron: approximately 20%
-4. Wistron: approximately 15%
+1. Quanta: Approx. 30%
+2. Compal: Approx. 25%
+3. Pegatron: Approx. 20%
+4. Wistron: Approx. 15%
 5. Others: 10%
 
 **Quanta Basic Data:**
 
-- 2023 revenues: NT$1.08 trillion (down 15.3% year-over-year)
-- Global employees: approximately 90,000
-- Annual shipments: 45–47 million laptop units
-- Major customers: Apple, HP, Dell, Lenovo, Google, NVIDIA
+- 2023 Revenue: 1.08 trillion TWD (down 15.3% YoY)
+- Global Employees: Approx. 90,000
+- Annual Shipment Volume: 45–47 million laptops
+- Major Clients: Apple, HP, Dell, Lenovo, Google, NVIDIA
 
-**Comparing Other Taiwanese Tech Giants:**
+**Comparison with other Taiwan Tech Giants:**
 
-- TSMC: 2023 revenues NT$2.17 trillion (wafer foundry)
-- Foxconn: 2023 revenues NT$6.26 trillion (electronics OEM)
-- Quanta: 2023 revenues NT$1.08 trillion (laptop ODM)
+- TSMC: 2023 Revenue 2.17 trillion TWD (Wafer Foundry)
+- Hon Hai (Foxconn): 2023 Revenue 6.26 trillion TWD (Electronics Manufacturing)
+- Quanta: 2023 Revenue 1.08 trillion TWD (Laptop ODM)
 
-While not the largest, Quanta is the undisputed king in laptops.
+While Quanta is not the largest in terms of total revenue, it is the absolute king of the laptop sector.
 
-## The Technology Hidden Behind a MacBook
+## The Technology Hidden Behind the MacBook
 
-Why does Apple choose Quanta? Because Quanta can solve technical problems nobody else can.
+Why did Apple choose Quanta? Because Quanta can solve technical challenges that others cannot.
 
 **The MacBook Air Challenge:**
-In 2008, Steve Jobs wanted "the world's thinnest laptop." Engineers thought it was impossible: in such a thin space, how do you fit a CPU, memory, battery, and thermal module?
+In 2008, Steve Jobs demanded the creation of "the world's thinnest laptop." Engineers at the time thought it was impossible: how could you fit a CPU, memory, battery, and thermal module into such a thin space?
 
-Quanta's engineers spent half a year redesigning the arrangement of all internal components. They made the motherboard wedge-shaped, redesigned the thermal pathways, even had screws custom-made. The result was the MacBook Air at just 1.9 centimeters thick, shocking the entire tech industry.
+Quanta's engineers spent six months redesigning the arrangement of all internal components. They made the motherboard wedge-shaped, redesigned the heat pipe pathways, and even used custom-made screws. Ultimately, they produced a MacBook Air only 1.9 cm thick, shocking the entire tech industry.
 
 **The MacBook Pro Thermal Challenge:**
-High-performance processors generate large amounts of heat; how to dissipate that heat within a slim chassis has always been technically difficult. Quanta developed "liquid cooling thermal technology," using heat pipes to carry CPU heat to the chassis edges, then expel it with fans. This technology is now standard equipment in high-end laptops.
+High-performance processors generate massive amounts of heat; managing heat dissipation within a slim chassis has always been a technical bottleneck. Quanta developed "liquid cooling technology," using heat pipes to carry heat from the CPU to the edges of the chassis, where fans then exhaust it. This technology has now become standard for high-end laptops.
 
 **Wireless Antenna Design:**
-Metal chassis can interfere with Wi-Fi and Bluetooth signals. Quanta's engineers found "invisible space" in the screen's upper cover, hiding the antenna in a location not shielded by metal. This design is now adopted across the industry.
+Metal chassis can interfere with Wi-Fi and Bluetooth signals. Quanta's engineers found "invisible space" within the screen assembly to hide antennas where they would not be shielded by metal. This design is now adopted across the entire industry.
 
-## A Glorious Pivot for the AI Era
+## A Magnificent Transformation in the AI Era
 
-In 2023, ChatGPT exploded in popularity and the world caught the AI fever. But for Quanta, this was not a surprise — it was an opportunity prepared for over a decade.
+ChatGPT exploded in popularity in 2023, triggering a global AI boom. For Quanta, however, this was not an accident, but an opportunity prepared for over a decade.
 
-As early as 2015, Barry Lam proposed the "3C concept": Cloud Computing, Connecting, and Client Device. He predicted that PCs would evolve toward cloud computing, and Quanta had to lay the groundwork early.
+As early as 2015, Lim Pai-li proposed the "3C Concept": Cloud Computing, Connecting, and Client Device. He predicted that PCs would evolve toward cloud computing, and that Quanta had to position itself in advance.
 
-In 2024, Quanta's server business already accounted for 35% of revenues, with AI servers comprising over 70% of cloud business. Quanta is now NVIDIA's most important GPU server assembly partner, with nearly all major cloud companies as Quanta customers.
+By 2024, Quanta's server business already accounted for 35% of its revenue, with AI servers making up over 70% of the cloud business. Quanta is now NVIDIA's most important GPU server assembly partner, and nearly all major cloud companies are Quanta customers.
 
-**How are AI servers different from ordinary servers?**
+**How do AI servers differ from general-purpose servers?**
 
-- **Higher power consumption:** one AI server can draw 10–20 kW, ten times an ordinary server
-- **More complex thermal management:** requires liquid cooling systems, cannot use traditional fans
-- **More precise assembly:** GPUs worth hundreds of thousands — one small mistake is a massive loss
-- **Customization needs:** each customer has different AI algorithm requirements
+- **Higher Power Consumption:** An AI server can consume 10–20kW, which is 10 times that of a standard server.
+- **More Complex Cooling:** They require liquid cooling systems rather than traditional fans.
+- **More Precise Assembly:** A single GPU is worth hundreds of thousands of dollars; a small error results in massive losses.
+- **Customization Demands:** Every customer has different AI algorithm requirements.
 
-These technical challenges happen to play to Quanta's advantages in precision manufacturing.
+These technical challenges play directly to Quanta's strengths in precision manufacturing.
 
 ## Why Can Quanta Maintain Its Lead?
 
 **Technical Depth:**
-Quanta has 15,000 R&D personnel, comprising 17% of total employees. It operates R&D centers in Taoyuan, Shanghai, and Silicon Valley, with annual R&D investment of 2.5–3% of revenues.
+Quanta has 15,000 R&D personnel, accounting for 17% of its total workforce. It maintains R&D centers in Taoyuan, Shanghai, and Silicon Valley, with annual R&D investment representing 2.5–3% of revenue.
 
 **Customer Stickiness:**
-The ODM model's characteristic: "customers don't switch suppliers easily." Once a design is finalized, switching suppliers requires redesign — high in cost and risk. Quanta's 20+ year partnership with Apple is the best example.
+A characteristic of the ODM model is that "customers do not easily switch vendors." Once a design is finalized, switching suppliers requires a complete redesign, which involves high costs and risks. Quanta's partnership with Apple for over 20 years is the best example.
 
 **Manufacturing Quality:**
-Quanta's defect rate control is among the industry's strictest. Apple's quality standard is "six sigma" (99.9997% yield rate); Quanta not only meets that standard but continuously improves it.
+Quanta's defect rate control is among the strictest in the industry. Apple's quality standard is "six sigma" (99.9997% yield); Quanta not only meets this but continues to improve it.
 
 **Global Footprint:**
-Quanta has factories in Taiwan, China, Thailand, and Mexico, capable of serving customers nearby while also diversifying geopolitical risk.
+With factories in Taiwan, China, Thailand, and Mexico, Quanta can serve customers locally while diversifying geopolitical risks.
 
 ## Facing New Challenges
 
 **PC Market Decline:**
-Quanta's 2023 laptop shipments fell 20% year-over-year, reflecting the overall PC market's weakness. While AI PCs bring new opportunities, they cannot fully compensate for the decline in traditional PCs.
+In 2023, Quanta's laptop shipments decreased by 20% year-on-year, reflecting the overall weakness of the PC market. While AI PCs bring new opportunities, they cannot entirely offset the decline of traditional PCs.
 
 **Customer Concentration Risk:**
-Quanta's top five customers account for 75% of revenues; if major customers reduce or redirect orders, the impact on Quanta is significant. This is why Quanta is actively developing AI business — to diversify risk.
+Quanta's top five customers account for 75% of its revenue. If a major client reduces orders or shifts to another vendor, the impact on Quanta is significant. This is why Quanta is actively developing its AI business to diversify risk.
 
 **US-China Tech War:**
-Quanta's major customers are all American companies, but its main factories are in China. How to find balance amid US-China confrontation tests Barry Lam's wisdom.
+Quanta's primary customers are American companies, while its main factories are in China. Finding a balance amidst US-China tensions will test Lim Pai-li's wisdom.
 
-**Cost Pressure:**
-Rising raw material prices, increasing labor costs, and stricter environmental regulations all compress profit margins in the OEM business. Quanta must continuously improve its automation level to maintain competitiveness.
+**Cost Pressures:**
+Rising raw material costs, increasing labor costs, and stricter environmental regulations are all compressing the profit margins of the manufacturing industry. Quanta must continuously increase its level of automation to maintain competitiveness.
 
 ## New Opportunities in the AI Era
 
-The AI server market is just getting started. It is estimated that in 2024–2026, the world's four major cloud companies (Amazon, Microsoft, Google, Meta) will invest US$370 billion in AI infrastructure — equivalent to NT$11.6 trillion.
+The AI server market is just beginning. It is estimated that between 2024 and 2026, the four major global cloud companies (Amazon, Microsoft, Google, Meta) will invest $370 billion USD in building AI infrastructure—equivalent to 11.6 trillion TWD.
 
-Quanta is in an advantageous position in this wave:
+Quanta is positioned advantageously in this wave:
 
-- Close cooperative relationship with NVIDIA
-- Precision manufacturing and thermal management technology advantages
-- Global manufacturing and service capabilities
-- Rich experience in data center equipment
+- Close partnership with NVIDIA
+- Advantages in precision manufacturing and thermal technology
+- Globalized manufacturing and service capabilities
+- Extensive experience with data center equipment
 
-Barry Lam estimates that AI server revenues in the coming year will see "triple-digit growth," with cloud business share exceeding 70%.
+Lim Pai-li estimates that next year's AI server revenue will see "triple-digit growth," with the proportion of cloud business expected to exceed 70%.
 
-## Why Quanta Matters
+## Why Does Quanta Matter?
 
-Quanta's story is a microcosm of Taiwan's evolution from "OEM island" to "design island."
+Quanta's story is a microcosm of Taiwan's evolution from an "OEM Island" to a "Design Island."
 
-**Innovation capability:** From the ultra-thin MacBook Air design to AI server liquid cooling technology, Quanta proves that Taiwan cannot just manufacture — it can also innovate.
+**Innovation Capability:** From the ultra-thin design of the MacBook Air to liquid cooling technology for AI servers, Quanta has proven that Taiwan can do more than just manufacture; it can innovate.
 
-**Supply chain position:** Quanta is a critical node in the global tech supply chain, playing an irreplaceable role in both the PC era and the AI era.
+**Supply Chain Position:** Quanta is a critical node in the global technology supply chain, playing an irreplaceable role in both the PC era and the AI era.
 
-**Talent cultivation:** Quanta has cultivated countless engineers and management talents; these talents flow to other enterprises, driving the development of Taiwan's entire tech industry.
+**Talent Cultivation:** Quanta has trained countless engineers and management professionals. These talents move to other enterprises, driving the development of Taiwan's entire tech industry.
 
-**Industry upgrade model:** From reinventing after a factory fire to transforming for the AI era, Quanta demonstrates the resilience and adaptability of Taiwan's enterprises.
+**Model for Industrial Upgrading:** From rebuilding after a fire to transforming for the AI era, Quanta demonstrates the resilience and adaptability of Taiwanese enterprises.
 
-That fire in 1987 burned away Barry Lam's prospects at Compal, but also burned out Quanta's future. Thirty-six years later, this 75-year-old "tech wild kid" is still planning for the next decade.
+The fire in 1987 burned away Lim Pai-li's future at Compal, but it also forged the future of Quanta. 36 years later, this 75-year-old "tech enthusiast" is still positioning himself for the next decade.
 
-In an era where AI redefines everything, Quanta is again standing at the forefront of change. This time, it is not just assembling computers — it is assembling the future.
+In an era where AI is redefining everything, Quanta once again stands at the forefront of change. This time, it is not just assembling computers; it is assembling the future.
 
 ---
 
 ## References
 
-- [Taiwan's four major computer OEM manufacturers' 2023 revenues declined - StatementDog](https://statementdog.com/news/3644)
-- [Quanta results briefing: AI server revenues to see "triple-digit" growth next year - Economic Daily News](https://money.udn.com/money/story/5612/8360302)
-- [AI server supply chain orders booming through 2025 - TechNews](https://technews.tw/2024/03/07/ai-server-supply-chain-orders-are-booming/)
-- [People: Barry Lam — Taiwan's richest man who walked out of a slum - Epoch Times](https://www.epochtimes.com/b5/24/8/21/n14314930.htm)
-- [Barry Lam - Wikipedia (zh)](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E7%99%BE%E9%87%8C)
+- [Taiwan's Four Major Computer ODMs See Revenue Decline in 2023 - Financial Dog](https://statementdog.com/news/3644)
+- [Quanta Earnings Call / AI Server Revenue to Grow by "Triple Digits" Next Year - Economic Daily News](https://money.udn.com/money/story/5612/8360302)
+- [AI Server Chain Booming until 2025 - TechNews](https://technews.tw/2024/03/07/ai-server-supply-chain-orders-are-booming/)
+- [The Truth About the Person: Lim Pai-li, Taiwan's Richest Man Who Rose from the Slums - The Epoch Times](https://www.epochtimes.com/b5/24/8/21/n14314930.htm)
+- [Lim Pai-li - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E7%99%BE%E9%87%8C)
