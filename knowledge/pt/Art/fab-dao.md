@@ -1,115 +1,116 @@
 ---
-title: 'A Máquina Perpétua de Doações: O Experimento Social do FAB DAO e do Projeto das Cem Montanhas'
-description: "Como um médico demissionário usou uma bandeira nacional de 'vôlei de linha' para abrir uma nova imaginação da filantropia Web3 em Taiwan. O FAB DAO e o Projeto das Cem Montanhas redefinem a essência das doações: colecionar é doar, arte é ação social."
+title: 'A máquina de doação perpétua: FAB DAO e o experimento social do Projeto Cem Picos'
+description: 'Como um médico demissionário usou uma "bandeira nacional de bola de linha" para abrir uma nova imaginação para o Web3 filantrópico em Taiwan. O FAB DAO e o Projeto Cem Picos redefiniram a essência da doação: colecionar é doar, a arte é ação social.'
 date: 2026-03-24
-author: 'taiwan.md'
 category: 'Art'
-subcategory: 'digital-art'
 tags:
   [
     'NFT',
-    'Arte Blockchain',
-    'Inovação Social',
-    'Filantropia',
-    'Arte Generativa',
-    'Cem Montanhas de Taiwan',
-    'Arte Digital',
+    'arte em blockchain',
+    'inovação social',
+    'filantropia',
+    'arte generativa',
+    'Cem Picos de Taiwan',
+    'arte digital',
   ]
+subcategory: 'digital-art'
+author: 'taiwan.md'
 readingTime: 8
+featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
-featured: false
+curation: 'incubating'
 translatedFrom: 'Art/FAB DAO與百岳計畫.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:a569386269241d61'
 sourceBodyHash: 'sha256:7b9ca7167bf3d12a'
-translatedAt: '2026-07-25T21:33:45+08:00'
+translatedAt: '2026-08-04T14:12:36+08:00'
 ---
 
-# A Máquina Perpétua de Doações: O Experimento Social do FAB DAO e do Projeto das Cem Montanhas
+# A máquina de doação perpétua: FAB DAO e o experimento social do Projeto Cem Picos
 
-## O Ponto de Partida Revolucionário de uma Bandeira Nacional
+## O ponto de partida revolucionário de uma bandeira
 
-Quando Huang Dou-ni (黃豆泥) largou o estetoscópio, ninguém poderia prever que este médico demissionário reescreveria as regras da filantropia em Taiwan usando uma "bandeira nacional de vôlei de linha" (壓線球國旗). Esta obra de meme aparentemente simples tornou-se um dos símbolos paisagísticos mais comuns de Taiwan e, mais importante, abriu uma nova questão: se as doações podem se tornar colecionáveis, se a filantropia pode se tornar uma máquina perpétua, nossa compreensão sobre o ato de "doar" precisa ser totalmente reestruturada?
+No momento em que Huang Dou-ni (黃豆泥) largou o estetoscópio, ninguém previu que este médico demissionário usaria uma "bandeira nacional de bola de linha" para reescrever as regras do jogo da filantropia em Taiwan. Esta obra de meme aparentemente simples tornou-se uma das paisagens simbólicas mais comuns em Taiwan; mais importante, ela abriu uma questão totalmente nova: se a doação pode se tornar um item de coleção, se a filantropia pode virar uma máquina perpétua, então nossa compreensão sobre o "dar" precisaria ser completamente reconstruída?
 
-Em 2022, enquanto a bolha dos NFTs estava prestes a estourar, Huang Dou-ni e o artista de mídia nova Wu Zhe-yu (吳哲宇), residente em Nova York, fundaram o FAB DAO (Formosa Art Bank DAO, Banco de Arte Formosa). Este nome em si é um manifesto: o que ele deseja ser é ao mesmo tempo um banco, uma instituição de arte e um campo de experimento social.
+Em 2022, quando a bolha dos NFTs estava estourando, Huang Dou-ni e o artista de nova mídia radicado em Nova York Wu Che-yu (吳哲宇) cofundaram o FAB DAO (Formosa Art Bank DAO, Banco de Arte Formosa). O próprio nome já é um manifesto: ele quer ser, ao mesmo tempo, um banco, uma instituição artística e um campo de experimentação social.
 
-## Redefinindo a Camada de Serviços Públicos
+## Redefinindo a camada de serviço público
 
-A ideia central do FAB DAO pode ser resumida em uma frase: "Doar é colecionar". No modelo tradicional de filantropia, a doação é um ato de consumo único; o dinheiro sai e não volta. No design do FAB DAO, o doador não recebe um certificado de agradecimento, mas sim um NFT negociável e com valor artístico. O que isso significa? Significa que a filantropia agora tem a possibilidade de se tornar uma "máquina perpétua".
+O conceito central do FAB DAO pode ser resumido em uma frase: "Doar é colecionar". No modelo filantrópico tradicional, a doação é um ato de consumo único: o dinheiro sai e não volta. Mas no design do FAB DAO, o doador não recebe um certificado de agradecimento, e sim um NFT negociável, dotado de valor artístico. O que isso significa? Significa que a filantropia passa a ter a possibilidade de uma "máquina perpétua".
 
-Quando você adquire um NPO-NFT, você realiza três ações simultaneamente: apoia uma organização de caridade, coleciona uma obra de arte e participa de um experimento social descentralizado. Mais importante ainda, se este NFT valorizar no futuro, você pode optar por revendê-lo, fazendo com que os fundos continuem fluindo para propósitos de caridade. Esta é a lógica central da "máquina perpétua de doações".
+Ao comprar um NPO-NFT, você realiza três ações simultâneas: apoia uma organização sem fins lucrativos, coleciona uma obra de arte e participa de um experimento social descentralizado. Mais importante: se esse NFT se valorizar no futuro, você pode optar por revendê-lo, fazendo com que os recursos continuem fluindo para fins filantrópicos. Essa é a lógica central da "máquina de doação perpétua".
 
-O FAB DAO se posiciona como uma "camada de serviços públicos Web3", ajudando grupos sem fins lucrativos, artistas e instituições culturais a superar as barreiras tecnológicas. Ele já ajudou com sucesso a comunidade artística, o Instituto de Educação Leshan, organizações de conservação animal e questões de justiça de transição a emitir NPO-NFTs, todos esgotados. Este sucesso reflete uma compreensão profunda da resiliência da sociedade civil em Taiwan.
+O FAB DAO se posiciona como uma "camada de serviço público Web3", ajudando organizações sem fins lucrativos, artistas e instituições culturais a superar barreiras tecnológicas. Ele já ajudou com sucesso comunidades artísticas, o Lar de Ensino Leshan (樂山教養院), organizações de proteção animal, justiça de transição e outras causas a emitir NPO-NFTs, todos esgotados. Por trás dessa taxa de sucesso está uma compreensão profunda da resiliência da sociedade civil de Taiwan.
 
-## A Ambição Artística do Projeto das Cem Montanhas
+## A ambição artística do Projeto Cem Picos
 
-Se o FAB DAO é o manifesto da ideia, o "Projeto das Cem Montanhas Project %" é a prática mais ambiciosa desta ideia. 10.101 NFTs de arte generativa, divididos em três séries: %-Wanluan (10.000 unidades, 0,025 ETH), %-Cem Montanhas (100 unidades, 10 ETH) e o único %-Yixian (não à venda).
+Se o FAB DAO é o manifesto da ideia, o "Projeto Cem Picos Project %" é a prática mais ambiciosa dessa ideia. 10.101 NFTs de arte generativa, divididos em três séries: %-Wanluan (萬巒) (10.000 unidades, 0,025 ETH), %-Cem Picos (百岳) (100 unidades, 10 ETH) e o único %-Linha Única (一線) (não à venda).
 
-"Cem montanhas se erguem para se tornar uma ilha; cem pessoas dão um passo à frente para escrever uma estação de civilização" — este é o manifesto poético do Projeto das Cem Montanhas. Cada NFT é uma obra de geração de código única, com o tema das Cem Montanhas de Taiwan, carregando as ideias criativas de seis artistas.
+"Cem montanhas se erguem, tornando-se uma ilha; cem pessoas dão um passo à frente, escrevendo uma estação de civilização" — esta é a declaração poética do Projeto Cem Picos. Cada NFT é uma obra única gerada por código, tendo como tema os Cem Picos de Taiwan, carregando a visão criativa de seis artistas.
 
-Estes seis artistas representam diferentes facetas da arte generativa em Taiwan: Wu Zhe-yu (Ilha) é um artista de nível internacional na plataforma Artblocks; Lin Yi-wen (Vegetação) é co-criador do Fxhash; Wang Xin-ren/A-Luan (Pico) criou a primeira obra de arte generativa taiwanesa a aparecer no Artblocks; Wang Lian-sheng (Civilização) é vencedor do Prêmio Luminous; Lin Ching-yao (Segredo) foi diretor do C-LAB; Huang Xin (Inclusão) é o detentor do recorde de prêmios de AR/VR do Facebook.
+Esses seis artistas representam cada um uma faceta diferente da arte generativa de Taiwan: Wu Che-yu (Ilha) é um artista de nível internacional na plataforma Art Blocks; Lin I-wen (林逸文) (Vegetação) é cofundador do Fxhash; Wang Hsin-jen / A-luan (王新仁/阿亂) (Pico) criou a primeira obra de arte generativa taiwanesa a entrar no Art Blocks; Wang Lien-sheng (王連晟) (Civilização) é vencedor do Prêmio Lumen; Lin Ching-yao (林經堯) (Recanto Secreto) é ex-diretor do C-LAB; Huang Hsin (黃新) (Inclusão) é recordista de prêmios Facebook AR/VR.
 
-Esta configuração de elenco não é uma coincidência. Reflete a imagem completa do ecossistema de arte generativa em Taiwan: de plataformas internacionais a experimentos locais, de pesquisa acadêmica a aplicações comerciais, de inovação tecnológica a prática social. A ambição do Projeto das Cem Montanhas é transformar a energia deste ecossistema em um impulso filantrópico sustentável através da tecnologia blockchain.
+Essa composição de elenco não é coincidência. Ela reflete o panorama completo do ecossistema de arte generativa de Taiwan: de plataformas internacionais a experimentos locais, da pesquisa acadêmica a aplicações comerciais, da inovação tecnológica à prática social. A ambição do Projeto Cem Picos é converter a energia desse ecossistema, por meio da tecnologia blockchain, em dinamismo filantrópico sustentável.
 
-## O Design Ingenioso do Fluxo de Fundos
+## O design engenhoso do fluxo de recursos
 
-A distribuição de fundos do Projeto das Cem Montanhas demonstra um pensamento de design social preciso: 20% para custos iniciais, 10% como taxas para artistas, 10% para auxiliar outros projetos NPO-NFT, 20-45% como fundos de compra pública, 10-15% investidos no desenvolvimento técnico do DAO.
+A alocação de recursos do Projeto Cem Picos revela um pensamento de design social preciso: 20% para custos iniciais, 10% para honorários dos artistas, 10% para auxiliar outros projetos NPO-NFT, 20-45% como fundo de aquisição pública, 10-15% investidos no desenvolvimento técnico da DAO.
 
-Esta lógica de distribuição implica uma importante mudança de conceito: a criação artística passa de expressão individual para ação coletiva, de venda de obras para investimento social. Ao colecionar um NFT das Cem Montanhas, você não está comprando apenas uma obra de arte, mas uma ação de uma visão social.
+Essa lógica de alocação embute uma mudança importante de paradigma: a criação artística passa da expressão individual para a ação coletiva, da venda de obras para o investimento social. Quando você coleciona um NFT do Cem Picos, não adquire apenas uma obra de arte, mas uma participação em uma visão social.
 
-Mais interessante ainda, colecionar mais de um NFT das Cem Montanhas gera um efeito de easter egg visual conectado. Este design técnico aparentemente simples testa na verdade a profundidade de participação dos colecionadores. A pergunta que ele faz é: você é um especulador passageiro ou um participante de longo prazo que acredita neste experimento?
+Mais interessante: colecionar mais de um NFT do Cem Picos gera um efeito visual de "easter egg" conectado. Esse design técnico aparentemente simples testa, na verdade, a profundidade do engajamento do colecionador. A pergunta é: você é um especulador de passagem ou um participante de longo prazo que se identifica com este experimento?
 
-## O Reconhecimento Internacional em Linz
+## O reconhecimento internacional de Linz
 
-Em 2022, o Projeto das Cem Montanhas foi apresentado no Festival de Arte Eletrônica Ars Electronica (Ars Electronica Festival), a mais influente conferência de artes de mídia do mundo. O Instituto de Conteúdo Cultural (Wen-cui-yuan) e o Centro de Arte Eletrônica de Linz co-produziram uma apresentação especial de Taiwan, exibindo para o mundo a contribuição única de Taiwan na inovação social Web3.
+Em 2022, o Projeto Cem Picos subiu ao palco do Festival Ars Electronica de Linz, o evento de arte midiática mais influente do mundo. O Instituto Nacional de Cultura e Artes (文策院) e o Centro de Arte Eletrônica de Linz coproduziram uma mostra especial de Taiwan, exibindo ao mundo a contribuição única de Taiwan no campo da inovação social Web3.
 
-A avaliação dos curadores de Linz é significativa: eles descreveram o Projeto das Cem Montanhas como um "plano de ação social do futuro". O ponto central desta avaliação não está na avançada tecnologia, mas na inovação do modelo social. Como Huang Dou-ni observou, Linz deliberadamente manteve distância da especulação de capital dos NFTs, mas valorizou profundamente o significado social dos NFTs.
+A avaliação dos curadores de Linz é profundamente significativa: eles chamaram o Projeto Cem Picos de "um plano de ação social vindo do futuro". O foco desse reconhecimento não está no avanço tecnológico, mas na inovação do modelo social. Como observou Huang Dou-ni, Linz manteve deliberadamente distância da especulação capitalista dos NFTs, mas atribuiu grande importância ao seu significado social.
 
-Este reconhecimento internacional tem um significado simbólico importante: indica que o experimento Web3 de Taiwan não é uma busca cega pelas tendências tecnológicas ocidentais, mas uma exploração original baseada no próprio solo social. Enquanto o mercado global de NFTs caía em um frenesi especulativo, Taiwan propôs uma alternativa mais responsável socialmente.
+Esse reconhecimento internacional tem importante significado simbólico: mostra que o experimento Web3 de Taiwan não é uma imitação cega das tendências tecnológicas ocidentais, mas uma exploração original enraizada em seu próprio solo social. Enquanto o mercado global de NFTs mergulhava na febre especulativa, Taiwan propôs uma alternativa com maior responsabilidade social.
 
-## A Extensão Digital do Espírito g0v
+## A extensão digital do espírito g0v
 
-O surgimento do FAB DAO não é acidental. Ele está profundamente enraizado na tradição única da sociedade civil de Taiwan, especialmente no espírito da "ação cidadã descentralizada" representado pelo governo zero-horas g0v. O g0v reimagina os serviços governamentais através da colaboração de código aberto; o FAB DAO reimagina o modelo de caridade através da tecnologia blockchain.
+O surgimento do FAB DAO não é acidental. Ele está profundamente enraizado na tradição única da sociedade civil de Taiwan, especialmente no espírito de "ação cidadã descentralizada" representado pelo g0v (Gov Zero).
 
-O ponto em comum entre os dois é: ambos acreditam que a tecnologia pode reduzir as barreiras de participação, ambos acreditam que a descentralização pode aumentar a transparência, ambos acreditam que a sabedoria coletiva dos cidadãos pode criar melhores soluções sociais. A diferença é que o g0v se concentra principalmente na transparência da governança governamental, enquanto o FAB DAO se concentra na sustentabilidade dos recursos filantrópicos.
+O g0v usa a colaboração open source para reimaginar serviços governamentais; o FAB DAO usa a tecnologia blockchain para reimaginar o modelo filantrópico. O ponto comum entre ambos: ambos creem que a tecnologia pode baixar as barreiras de participação, que a descentralização pode aumentar a transparência, que a inteligência coletiva dos cidadãos pode criar melhores soluções sociais. A diferença: o g0v foca principalmente na transparência da governança governamental, enquanto o FAB DAO se concentra na sustentabilidade dos recursos filantrópicos.
 
-A posição única de Taiwan no campo da filantropia Web3 vem exatamente desta combinação de regime democrático e resiliência da comunidade digital. Em países autoritários, tal experimento seria visto como uma ameaça; em sociedades totalmente mercantilizadas, a filantropia é frequentemente marginalizada. Apenas em uma sociedade como Taiwan, onde a sociedade civil tem espaço autônomo suficiente e preocupação social suficiente, a filantropia Web3 pode encontrar o solo verdadeiro para se desenvolver.
+A posição única de Taiwan no campo da filantropia Web3 vem justamente dessa combinação entre regime democrático e resiliência da comunidade digital. Em países autoritários, tal experimento seria visto como ameaça; em sociedades totalmente mercantilizadas, a filantropia costuma ser marginalizada. Apenas em uma sociedade como Taiwan, onde a sociedade civil tem tanto espaço autônomo quanto preocupação social suficiente, a filantropia Web3 pode encontrar solo genuíno de desenvolvimento.
 
-## Redefinindo a Criação de Valor
+## Redefinindo a criação de valor
 
-A contribuição mais profunda do FAB DAO e do Projeto das Cem Montanhas talvez seja redefinir a lógica da criação de valor. Nos modelos econômicos tradicionais, a criação de valor muitas vezes significa competição e exclusividade: o seu ganho é minha perda, os recursos são limitados, a distribuição é de soma zero.
+A contribuição mais profunda do FAB DAO e do Projeto Cem Picos talvez resida em terem redefinido a lógica da criação de valor. No modelo econômico tradicional, criar valor costuma significar competição e exclusividade: seu ganho é minha perda, recursos são finitos, a distribuição é de soma zero.
 
-No modelo do FAB DAO, a criação de valor se torna um jogo de soma positiva: os artistas recebem renda de criação, os colecionadores recebem obras de arte, as organizações de caridade recebem fundos, e toda a sociedade recebe um melhor modelo de filantropia. Mais importante ainda, este processo de criação de valor é sustentável, pois os NFTs podem continuar circulando no mercado secundário, gerando continuamente efeitos filantrópicos.
+Mas no modelo do FAB DAO, a criação de valor se torna um jogo de soma positiva: artistas obtêm renda criativa, colecionadores adquirem obras, organizações filantrópicas recebem recursos, a sociedade ganha um modelo filantrópico melhor. Mais importante: esse processo de criação de valor é sustentável, pois os NFTs podem continuar circulando no mercado secundário, continuando a gerar efeitos filantrópicos.
 
-Esta inovação de modelo tem significado especial para a sociedade taiwanesa enfrentando o dilema da escassez de recursos. Ela oferece uma nova linha de pensamento: através da inovação tecnológica e do design institucional, podemos criar maior valor social sob condições de recursos limitados.
+Essa inovação de modelo tem significado especial para a sociedade de Taiwan, que enfrenta o dilema da escassez de recursos. Ela oferece um novo caminho: por meio de inovação tecnológica e design institucional, podemos criar maior valor social sob condições de recursos limitados.
 
-## A Imaginação Social do Futuro
+## A imaginação social do futuro
 
-Olhando para trás hoje para o FAB DAO e o Projeto das Cem Montanhas, vemos não apenas um experimento de filantropia Web3 bem-sucedido, mas também uma imaginação de uma sociedade futura. Nesta imaginação, a arte não é mais um privilégio da elite, mas uma ferramenta de mudança social; a filantropia não depende mais de uma mentalidade caridosa, mas é baseada em interesses comuns; a tecnologia não é mais apenas uma ferramenta de competição comercial, mas um motor de inovação social.
+Olhando hoje para o FAB DAO e o Projeto Cem Picos, vemos não apenas um experimento filantrópico Web3 bem-sucedido, mas uma imaginação da sociedade futura. Nessa imaginação, a arte deixa de ser privilégio de elite para se tornar ferramenta de transformação social; a filantropia deixa de depender da mentalidade caritativa para se basear no interesse comum; a tecnologia deixa de ser apenas meio de competição comercial para se tornar motor de inovação social.
 
-Claro, tal experimento também enfrenta desafios. A complexidade da tecnologia blockchain ainda é uma barreira para a participação do público comum; a volatilidade do mercado de NFTs pode afetar a estabilidade dos fundos de caridade; a questão da eficiência da governança descentralizada também precisa de melhorias contínuas.
+Claro, tal experimento também enfrenta desafios. A complexidade da tecnologia blockchain continua sendo barreira para a participação do público geral; a volatilidade do mercado de NFTs pode afetar a estabilidade dos fundos filantrópicos; os problemas de eficiência da governança descentralizada também precisam de melhoria contínua.
 
-Mas como Huang Dou-ni decidiu deixar o hospital e pegar o pincel, a verdadeira inovação muitas vezes requer coragem para enfrentar o desconhecido. O valor do FAB DAO e do Projeto das Cem Montanhas não está em fornecer soluções perfeitas, mas em abrir novas possibilidades.
+Mas, assim como Huang Dou-ni decidiu deixar o hospital e pegar o pincel, a verdadeira inovação muitas vezes exige coragem para enfrentar o desconhecido. O valor do FAB DAO e do Projeto Cem Picos não está em oferecerem soluções perfeitas, mas em abrirem novas possibilidades.
 
-Nesta ilha, cem montanhas se erguem, cem sonhos estão brotando. E cada um de nós pode escolher se tornar um participante deste experimento social, escrevendo o capítulo da próxima estação de civilização à sua própria maneira.
+Nesta ilha, cem montanhas se erguem, cem sonhos estão brotando. E cada um de nós pode escolher se tornar participante deste experimento social, à sua maneira, escrevendo o próximo capítulo da civilização.
 
 ---
 
-**Leitura Recomendada**:
+**Leitura complementar**:
 
-- [Wang Xin-ren (A-Luan)](/pt/art/wang-hsin-jen-artist) — Criador da obra "Pico" do Projeto das Cem Montanhas, o primeiro artista generativo taiwanês a aparecer no Art Blocks
-- [Wang Lian-sheng (Pai do Camarão)](/pt/art/wang-lien-cheng-artist) — Criador dos picos de montanhas do algoritmo recursivo de paisagem e montanha do Projeto das Cem Montanhas, vencedor do primeiro prêmio de escultura do Prêmio Luminous 2017
-- [Arte de Nova Mídia de Taiwan](/pt/art/taiwan-new-media-art) — Da arte em vídeo à arte generativa, o contexto da arte de nova mídia de Taiwan onde o FAB DAO está inserido
-- [Arte Contemporânea de Taiwan](/pt/art/contemporary-art) — A posição da arte blockchain no ecossistema da arte contemporânea de Taiwan
+- [Wang Hsin-jen (A-luan)](/pt/art/wang-hsin-jen-artist) — Criador de "Pico" (巔峰) do Projeto Cem Picos, primeiro artista generativo taiwanês a entrar no Art Blocks
+- [Wang Lien-sheng (Pai do Camarão)](/pt/art/wang-lien-cheng-artist) — Criador dos picos por algoritmo recursivo de paisagem do Projeto Cem Picos, vencedor do primeiro prêmio de escultura do Prêmio Lumen 2017
+- [Arte de nova mídia de Taiwan](/pt/art/taiwan-new-media-art) — Da videoarte à arte generativa, o contexto da arte de nova mídia de Taiwan onde o FAB DAO se insere
+- [Arte contemporânea de Taiwan](/pt/art/contemporary-art) — A posição da arte em blockchain no ecossistema da arte contemporânea de Taiwan
 
 ## Referências
 
-1. Site Oficial do FAB DAO: https://fabdao.world/
-2. Livro Branco do FAB DAO GitBook: https://fab-dao.gitbook.io/fab-dao
-3. Site Oficial do Projeto das Cem Montanhas: https://project.fab.tw/
-4. Reportagem da ABMedia Chain News (2022/06): https://abmedia.io/20220630-charity-dao-fab-dao-project
-5. Entrevista Especial de Linz na ARTouch (2023/03): https://artouch.com/art-market/content-84864.html
-6. Introdução da Mídia de Arte Blockchain c2x3 Matters (2022/07): https://matters.town/a/fe3n38t5khdb
-7. Especial Charmingscitech: https://www.charmingscitech.nat.gov.tw/post/art_tech_nft_block_chain
-8. Reportagem de Notícias da Internet NFT: https://nft.org.tw/?p=20219
+1. Site oficial do FAB DAO: https://fabdao.world/
+2. Whitepaper do FAB DAO no GitBook: https://fab-dao.gitbook.io/fab-dao
+3. Site oficial do Projeto Cem Picos: https://project.fab.tw/
+4. Reportagem da ABMedia Chain News (06/2022): https://abmedia.io/20220630-charity-dao-fab-dao-project
+5. Entrevista ARTouch da Collector (典藏) sobre Linz (03/2023): https://artouch.com/art-market/content-84864.html
+6. Introdução do meio de arte blockchain c2x3 no Matters (07/2022): https://matters.town/a/fe3n38t5khdb
+7. Reportagem especial do TechOrange (科技魅癮): https://www.charmingscitech.nat.gov.tw/post/art_tech_nft_block_chain
+8. Reportagens de notícias online sobre NFT: https://nft.org.tw/?p=20219

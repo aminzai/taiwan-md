@@ -1,6 +1,6 @@
 ---
-title: 'Turismo e cultura de vida inclusiva para todas as idades em Taiwan: quando a humanidade se torna a melhor instalação de acessibilidade'
-description: 'Da perspectiva familiar, observa-se como a sociedade taiwanesa, através da humanidade e de instalações inclusivas, redefine o significado de "viajar juntos em família" no caminho para uma sociedade superenvelhecida.'
+title: 'Taiwan: turismo e cultura de vida para todas as idades — quando o calor humano se torna a melhor acessibilidade'
+description: 'Da perspectiva familiar, observa-se como a sociedade taiwanesa, através do calor humano e de instalações inclusivas, redefine o significado de "viajar juntos em família" no caminho para se tornar uma sociedade superenvelhecida.'
 date: 2026-03-23
 category: 'Society'
 tags:
@@ -11,175 +11,176 @@ tags:
     'cultura familiar',
     'resiliência social',
   ]
-subcategory: 'Acessibilidade e inclusão'
+subcategory: '無障礙與共融'
 author: 'alstontsai0816'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
 readingTime: 12
+curation: 'incubating'
 translatedFrom: 'Society/台灣全齡共融旅遊與生活文化.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:8a4d3295bf443494'
 sourceBodyHash: 'sha256:be2327c5c3e0748e'
-translatedAt: '2026-07-25T10:53:20+08:00'
+translatedAt: '2026-08-04T14:12:36+08:00'
 ---
 
-> **Visão geral em 30 segundos:**
-> Em Taiwan, a verdadeira instalação de acessibilidade não são apenas rampas e elevadores, mas a "humanidade" — aquele entendimento social tácito em que, ao ver uma família empurrando uma cadeira de rodas, as pessoas cedem o lugar e oferecem ajuda espontaneamente.
-> À medida que Taiwan se prepara para entrar oficialmente em uma **sociedade superenvelhecida em 2025** (população com 65 anos ou mais superando 20%), o turismo inclusivo para todas as idades está evoluindo de uma "necessidade especial" para uma "necessidade universal".
-> Isso não é apenas uma questão de política, mas uma demonstração da cultura familiar única de Taiwan e de sua resiliência social.
+> **Resumo em 30 segundos:**
+> Em Taiwan, a verdadeira acessibilidade não são apenas rampas e elevadores, mas o "calor humano" — aquela cumplicidade social em que, ao ver uma família empurrando uma cadeira de rodas, as pessoas cedem o lugar e oferecem ajuda espontaneamente.
+> À medida que Taiwan se prepara para entrar numa **sociedade superenvelhecida em 2025** (população com 65 anos ou mais superior a 20%), o turismo inclusivo para todas as idades deixa de ser uma "necessidade especial" para se tornar uma "necessidade universal".
+> Não é apenas uma questão de política, mas a manifestação da cultura familiar única de Taiwan e da sua resiliência social.
 
-## A realidade contra-intuitiva: a humanidade importa mais que o equipamento
+## A realidade contra-intuitiva: o calor humano importa mais que o equipamento
 
-**O sucesso do turismo acessível em Taiwan não reside na perfeição do hardware, mas na força social branda.**
+**O sucesso do turismo acessível em Taiwan não reside na perfeição do hardware, mas na força social intangível.**
 
-Enquanto vários países se concentram na construção de instalações de acessibilidade padronizadas, Taiwan trilhou um caminho único: **diante de um hardware ainda imperfeito, usa-se a "temperatura humana" para preencher as lacunas**. Estatísticas da Administração de Turismo mostram que, embora apenas cerca de 30% dos pontos turísticos de Taiwan atendam aos padrões internacionais de acessibilidade, a satisfação das famílias com pessoas com deficiência em viagens atinge 85%.
+Enquanto vários países se concentram na construção de instalações padronizadas de acessibilidade, Taiwan trilhou um caminho único: **com hardware ainda imperfeito, usa-se a "temperatura humana" para preencher as lacunas**. Estatísticas da Administração de Turismo mostram que, embora apenas cerca de 30% dos pontos turísticos de Taiwan atinjam os padrões internacionais de acessibilidade, a satisfação das famílias com pessoas com deficiência em viagens atinge 85%.
 
-O segredo por trás desse número é: **os taiwaneses "avaliam a situação"**. Ao verem usuários de cadeira de rodas, pessoas com deficiência visual ou idosos precisando de assistência, estranhos estendem a mão proativamente — essa rede de segurança social informal complementa a insuficiência das instalações formais.
+O segredo por trás deste número é: **os taiwaneses "avaliam a situação"**. Ao verem utilizadores de cadeira de rodas, pessoas com deficiência visual ou idosos a necessitar de assistência, estranhos oferecem ajuda proactivamente — esta rede de segurança social informal supre a insuficiência das instalações formais.
 
-## A urgência por trás dos números: Taiwan envelhece rapidamente
+## A urgência por trás dos números: Taiwan envelhece a ritmo acelerado
 
-### Contagem regressiva para a sociedade superenvelhecida
+### Contagem decrescente para a sociedade superenvelhecida
 
-A velocidade de envelhecimento populacional de Taiwan é a **mais rápida do mundo**. Segundo as projeções mais recentes do Conselho de Desenvolvimento Nacional:
+A velocidade de envelhecimento populacional de Taiwan é **a mais rápida do mundo**. Segundo as últimas projecções do Conselho de Desenvolvimento Nacional:
 
-- **2025**: Taiwan entrará oficialmente na "sociedade superenvelhecida" (população com 65 anos ou mais atingindo 20%)
-- **Situação atual (2024)**: 7 condados e cidades já entraram antecipadamente na sociedade superenvelhecida
-- **Velocidade impressionante**: da sociedade envelhecida (14%) para a superenvelhecida (20%), Taiwan levou apenas 7 anos, muito mais rápido que os 12 anos do Japão ou os 37 anos da Alemanha
+- **2025**: Taiwan entrará oficialmente na "sociedade superenvelhecida" (população com 65 anos ou mais atinge 20%)
+- **Situação actual (2024)**: 7 condados e cidades já entraram antecipadamente na sociedade superenvelhecida
+- **Velocidade impressionante**: da sociedade envelhecida (14%) à superenvelhecida (20%), Taiwan levou apenas 7 anos, muito mais rápido que os 12 anos do Japão ou os 37 da Alemanha
 
-### Realidade da população com deficiência
+### A realidade da população com deficiência
 
-- **Total**: cerca de **1,19 milhão** de pessoas com deficiência em Taiwan (aproximadamente 5% da população total)
-- **Tendência de envelhecimento**: destas, **53,8% têm 65 anos ou mais**, mostrando a alta sobreposição entre deficiência e envelhecimento
-- **Demanda turística**: anualmente, há cerca de **350 mil viagens** de famílias com pessoas com deficiência
+- **Total**: cerca de **1,19 milhões** de pessoas com deficiência em Taiwan (aprox. 5% da população total)
+- **Tendência de envelhecimento**: destas, **53,8% têm 65 anos ou mais**, mostrando a elevada sobreposição entre deficiência e envelhecimento
+- **Procura turística**: anualmente, cerca de **350 mil deslocações** de famílias com pessoas com deficiência
 
-Esses números apontam para uma realidade importante: **a inclusão para todas as idades não é mais uma questão de "cuidar dos vulneráveis" por bondade, mas um "problema de sobrevivência" para a sociedade taiwanesa**.
+Estes números apontam para uma realidade importante: **a inclusão para todas as idades deixou de ser uma questão de "bondade para com os vulneráveis" para se tornar uma "questão de sobrevivência" da sociedade taiwanesa**.
 
-## O modelo taiwanês: evolução da "acessibilidade" para a "inclusão"
+## O modelo Taiwan: da "acessibilidade" à "inclusão"
 
 ### Primeira fase: construção de hardware (1990s-2010s)
 
-Em conformidade com a _Lei de Proteção dos Direitos e Interesses das Pessoas com Deficiência_, Taiwan iniciou a construção em larga escala de instalações de acessibilidade:
+Em conformidade com a _Lei de Protecção dos Direitos das Pessoas com Deficiência_, Taiwan iniciou a construção massiva de instalações acessíveis:
 
-- Sistema de metrô: elevadores de acessibilidade em toda a rede, piso tátil, anúncios sonoros
-- Áreas cênicas nacionais: 13 escritórios de gestão melhoraram progressivamente os ambientes de acessibilidade
-- Pontos turísticos: atualmente, cerca de **200 pontos** obtiveram certificação de acessibilidade
+- Sistema de metro: elevadores acessíveis, pavimento táctil, anúncios sonoros em toda a rede
+- Áreas cénicas nacionais: 13 administrações melhoraram progressivamente os ambientes acessíveis
+- Pontos turísticos: actualmente, cerca de **200** pontos obtiveram certificação de acessibilidade
 
-### Segunda fase: força branda de serviços (2010s-2020s)
+### Segunda fase: força intangível dos serviços (2010s-2020s)
 
-A política voltou-se para "serviços humanizados":
+A política virou-se para "serviços humanizados":
 
-- **Duofu Férias (多扶假期)**: surgimento de operadores especializados em turismo acessível, oferecendo planejamento personalizado
-- **Fundação de Turismo Fênix (鳳凰旅遊基金會)**: lançou o primeiro serviço de ônibus acessível de Taiwan
-- **Associação de Promoção de Recursos para Acessibilidade (行無礙協會)**: estabeleceu banco de dados e sistema de avaliação de pontos turísticos acessíveis
+- **Duofu Holidays (多扶假期)**: surgimento de operadores especializados em turismo acessível, oferecendo planeamento personalizado
+- **Fundação Fénix de Turismo (鳳凰旅遊基金會)**: lançou o primeiro serviço de autocarro acessível de Taiwan
+- **Associação de Promoção de Recursos Acessíveis (行無礙資源推廣協會)**: criou base de dados e sistema de avaliação de pontos turísticos acessíveis
 
 ### Terceira fase: inclusão social (2020s-presente)
 
-Da "atenção especial" para o "design universal":
+Da "atenção especial" para o "desenho universal":
 
-- Certificação **Cidades Amigas do Idoso da OMS**: Taipé, Tainan, Chiayi e outras cidades aderiram
+- Certificação **Cidades Amigas dos Idosos** da OMS: Taipei, Tainan, Chiayi e outras cidades aderiram
 - Conceito **amigo de todas as idades**: não considera apenas pessoas com deficiência, mas as necessidades de todas as faixas etárias
-- Transformação do modelo de viagem familiar: viagens de três gerações tornaram-se mainstream
+- Transformação do modelo de turismo familiar: viagens de três gerações tornaram-se mainstream
 
-## A ecologia única das viagens familiares em Taiwan
+## A ecologia única do turismo familiar em Taiwan
 
-### Divisão sábia de trabalho entre três gerações
+### Sabedoria na divisão de tarefas entre três gerações
 
-Em Taiwan, as viagens familiares raramente são saídas de "família nuclear" de duas gerações; o mais comum é "três gerações juntas" ou até "mobilização do clã":
+Em Taiwan, o turismo familiar raramente se limita ao "núcleo familiar" de duas gerações; é mais comum ver "três gerações juntas" ou até "mobilização do clã alargado":
 
 - **Idosos**: fornecem conhecimento local e experiência de vida
-- **Geração do meio**: assumem responsabilidade de planejamento e financeira
-- **Geração jovem**: responsáveis por aplicações tecnológicas e atividades físicas
+- **Geração intermédia**: assumem responsabilidade de planeamento e financeira
+- **Geração mais nova**: encarregam-se de aplicações tecnológicas e actividades físicas
 
-Esse modelo de divisão de trabalho forma naturalmente uma **rede de cuidado embutida** — cada membro é tanto cuidado quanto cuidador.
+Este modelo de divisão de tarefas forma naturalmente uma **rede de cuidados integrada** — cada membro é simultaneamente cuidado e cuidador.
 
-### O entendimento tácito de "avaliar a situação"
+### A cumplicidade social do "avaliar a situação"
 
 A sociedade taiwanesa tem uma cultura única de "ler nas entrelinhas":
 
-- **Restaurantes**: ao ver usuário de cadeira de rodas, funcionários movem mesas e cadeiras proativamente, oferecem leitura do cardápio
-- **Transporte público**: ao ver família empurrando cadeira de rodas, passageiros cedem o lugar espontaneamente
-- **Pontos turísticos**: ao ver pessoa com deficiência visual precisando de orientação, outros turistas formam naturalmente uma "guia humana"
+- **Restaurantes**: ao ver um utilizador de cadeira de rodas, empregados movem mesas e cadeiras proactivamente, oferecem leitura do menu
+- **Transportes públicos**: ao ver uma família com cadeira de rodas, passageiros cedem o lugar espontaneamente
+- **Pontos turísticos**: ao ver uma pessoa com deficiência visual a precisar de orientação, outros visitantes formam naturalmente uma "guia humana"
 
-Esse "avaliar a situação" não é regra institucional, mas costume social — um **acordo de inclusão não escrito**.
+Este "avaliar a situação" não é imposição regulamentar, mas hábito social — um **acordo de inclusão não escrito**.
 
 ## Lacunas e avanços entre política e prática
 
-### Estrutura das políticas centrais
+### Disposição política central
 
-**Agência de Promoção da Saúde do Ministério da Saúde e Bem-Estar**: promove certificação de Cidades Amigas do Idoso da OMS, com 22 governos de condados e cidades já aderidos
+**Agência de Promoção da Saúde do Ministério da Saúde e Bem-Estar**: promove certificação Cidades Amigas dos Idosos da OMS, com **22 governos** de condados e cidades já aderidos
 
-- **Oito dimensões**: espaços públicos acessíveis e seguros, transporte coletivo, habitação, participação social, respeito e inclusão social, participação cívica e emprego, comunicação e informação, serviços de saúde e cuidados de longa duração
+- **Oito dimensões**: espaços públicos acessíveis e seguros, transportes colectivos, habitação, participação social, respeito e inclusão social, participação cívica e emprego, comunicação e informação, serviços de saúde e cuidados de longa duração
 
-**Administração de Turismo do Ministério dos Transportes**: estabeleceu a "Rede de Turismo Acessível de Taiwan"
+**Administração de Turismo do Ministério dos Transportes**: criou a "Rede de Turismo Acessível de Taiwan"
 
-- Informações de instalações de acessibilidade de mais de **200 pontos** turísticos
-- Planos de melhoria de acessibilidade para **13** áreas cênicas nacionais
-- Revisão e melhoria periódicas com grupos de pessoas com deficiência
+- Informação de instalações acessíveis em mais de **200** pontos turísticos
+- Planos de melhoria de acessibilidade em **13** áreas cénicas nacionais
+- Revisão e melhoria regular com grupos de pessoas com deficiência
 
 ### Casos inovadores locais
 
-**Taipé**: primeira cidade turística orientada para o "design universal" em Taiwan
+**Taipei**: primeira cidade turística orientada para o "desenho universal" em Taiwan
 
-- **Sistema Maokong Gondola (貓纜)**: vagões totalmente acessíveis, mapas táteis 3D para pessoas com deficiência visual
-- **Museu do Palácio Nacional - Filial Sul (故宮南院)**: rotas acessíveis em todo o museu, serviço de empréstimo de dispositivos auxiliares
+- **Sistema Maokong Gondola (貓纜)**: carruagens totalmente acessíveis, mapas tácteis para deficientes visuais
+- **Museu do Palácio Nacional - Filial Sul (故宮南院)**: percursos acessíveis em todo o museu, serviço de empréstimo de ajudas técnicas
 
-**Tainan**: turismo acessível combinado com cultura histórica
+**Tainan**: turismo acessível integrado ao património histórico
 
-- **Revitalização de sítios históricos**: mantendo a integridade dos bens culturais, adicionaram rotas acessíveis
-- **Passeio pela Cidade do Governo (府城巡禮)**: desenvolveram rotas de caminhada pela cidade antiga adequadas para usuários de cadeira de rodas
+- **Revitalização de sítios históricos**: mantendo a integridade dos bens culturais, acrescentaram-se percursos acessíveis
+- **Roteiro da Capital Provincial (府城巡禮)**: desenvolveram percursos pedestres na cidade antiga adequados a cadeiras de rodas
 
 ## Força civil: quando empresas encontram responsabilidade social
 
 ### Operadores profissionais de turismo acessível
 
-**Duofu Férias (多扶假期)**:
+**Duofu Holidays (多扶假期)**:
 
-- Modelo de serviço: "viajar com mordomo", oferece cuidador profissional individual
-- Serviço inovador: traslado com veículo de reabilitação porta a porta, planejamento de roteiro personalizado
-- Expansão internacional: já desenvolveu rotas de turismo acessível em Quioto (Japão) e Seul (Coreia do Sul)
+- Modelo de serviço: "viajar com um mordomo", oferecendo acompanhante profissional dedicado
+- Serviço inovador: transporte em veículo de reabilitação porta-a-porta, planeamento de itinerário personalizado
+- Expansão internacional: já desenvolveu rotas acessíveis em Quioto (Japão) e Seul (Coreia do Sul)
 
-**Fundação de Turismo Fênix (鳳凰旅遊基金會)**:
+**Fundação Fénix de Turismo (鳳凰旅遊基金會)**:
 
-- Investimento em hardware: primeiros ônibus turísticos grandes acessíveis de Taiwan
+- Investimento em hardware: primeiros autocarros turísticos acessíveis de grande porte em Taiwan
 - Filosofia de serviço: "turismo é um direito humano básico, não deve ser negado por limitações físicas"
 
-### Inovação tecnológica assistiva
+### Inovação tecnológica de apoio
 
-**App Xingwua (行無礙APP)**: plataforma de informação de acessibilidade baseada em crowdsourcing
+**App Xingwua (行無礙APP)**: plataforma de informação acessível baseada em crowdsourcing
 
-- **Relatos de usuários**: atualização em tempo real das condições de instalações de acessibilidade
-- **Planejamento de rotas**: rotas personalizadas para diferentes necessidades
-- **Suporte comunitário**: usuários se ajudam mutuamente a resolver problemas de viagem
+- **Relatos de utilizadores**: actualização em tempo real do estado de instalações acessíveis
+- **Planeamento de rotas**: rotas personalizadas para diferentes necessidades
+- **Apoio comunitário**: utilizadores ajudam-se mutuamente a resolver problemas de viagem
 
-## Profundidade cultural: fenomenologia de "Nossa família é toda Cai (蔡)"
+## Profundidade cultural: fenomenologia de "A Nossa Família é Toda Cai (蔡)"
 
-### Exibição da resiliência cotidiana
+### Manifestação da resiliência quotidiana
 
-Tomando como exemplo os registros de vida do YouTuber com deficiência visual "Nossa família é toda Cai (我們一家都很蔡)", pode-se ver como as famílias taiwanesas realizam a "micro-inclusão" no cotidiano:
+Tomando como exemplo os registos de vida do YouTuber com deficiência visual "A Nossa Família é Toda Cai (我們一家都很蔡)", vê-se como as famílias taiwanesas concretizam a "micro-inclusão" no quotidiano:
 
 **Cenário de refeição**:
 
-- Membro com deficiência visual escolhe pratos através do tato e olfato
-- Familiares naturalmente fornecem "descrição do ambiente" ("à sua direita há uma sopa")
-- Funcionários do restaurante perguntam proativamente se precisam de ajuda, em vez de evitar o contato
+- Membro com deficiência visual escolhe pratos através do tacto e olfacto
+- Familiares fornecem naturalmente "descrição do ambiente" ("à tua direita há uma sopa")
+- Empregados perguntam proactivamente se precisam de ajuda, em vez de evitar o contacto
 
-**Processo de deslocamento**:
+**Processo de deslocação**:
 
-- Família desenvolveu "linguagem de navegação" única ("três passos à frente há escada")
-- Estranhos ao verem cedem passagem ou alertam perigos
-- Anúncios sonoros do transporte público tornam-se "navegação compartilhada" de toda a família
+- Família desenvolveu "linguagem de navegação" própria ("três passos à frente há degraus")
+- Estranhos cedem passagem ou avisam de perigos ao verem-nos
+- Anúncios sonoros do transporte público tornam-se "navegação partilhada" de toda a família
 
-### Significado educacional: currículo de vida invisível
+### Significado educativo: currículo de vida invisível
 
-O valor mais profundo desse modelo "três gerações viajando juntas" é a **educação de empatia** para a geração jovem:
+O valor mais profundo deste modelo "três gerações a viajar juntos" é a **educação para a empatia** da geração mais nova:
 
-- Aprender a "desacelerar": acompanhar o ritmo de idosos e familiares com mobilidade reduzida
-- Cultivar "capacidade de observação": notar obstáculos e necessidades no ambiente
-- Estabelecer "senso de responsabilidade": cada pessoa tem o dever de cuidar do outro
+- Aprender a "abrandar": acompanhar o ritmo dos idosos e familiares com mobilidade reduzida
+- Cultivar "capacidade de observação": atentar a obstáculos e necessidades no ambiente
+- Estabelecer "sentido de responsabilidade": cada pessoa tem o dever de cuidar dos outros
 - Compreender "diversidade": aceitar a coexistência de diferentes estados de capacidade
 
-Essa educação não é um "curso de caráter" deliberadamente arranjado, mas um **exercício de empatia** que ocorre naturalmente em situações reais de viagem.
+Esta educação não é um "curso de carácter" deliberadamente arranjado, mas **exercício de empatia** que ocorre naturalmente em contextos reais de viagem.
 
 ## Desafios e futuro: quando a necessidade se torna mainstream
 
@@ -187,34 +188,34 @@ Essa educação não é um "curso de caráter" deliberadamente arranjado, mas um
 
 **Limitações de hardware**:
 
-- Dificuldade de adaptação de edifícios históricos (como a Rua Velha de Lukang, a Rua Velha de Jiufen)
-- Limitações de terreno em paisagens naturais (como desfiladeiro de Taroko, entrada de trilha do Monte Jade)
-- Custo de adaptação para pequenos operadores
+- Dificuldade de adaptação de edifícios históricos (ex.: rua velha de Lukang, rua velha de Jiufen)
+- Limitações geológicas de paisagens naturais (ex.: desfiladeiro de Taroko, entrada de trilha de Yushan)
+- Custos de adaptação para pequenos operadores
 
 **Recursos humanos de serviço**:
 
-- Escassez de cuidadores profissionais
-- Funcionários de linha de frente carecem de treinamento em atendimento a pessoas com deficiência
-- Barreiras de comunicação linguística (cuidadores estrangeiros e famílias taiwanesas)
+- Falta de pessoal de cuidados profissional
+- Falta de formação em atendimento a pessoas com deficiência na linha da frente
+- Barreiras linguísticas (comunicação entre cuidadores estrangeiros e famílias taiwanesas)
 
 **Barreiras atitudinais**:
 
-- Parte dos operadores ainda vê clientes com deficiência como "incômodo"
-- Situações de "boa vontade, mas método errado"
-- Atitudes de superproteção e "tratar você como doente"
+- Alguns operadores ainda veem clientes com deficiência como "incómodo"
+- Situações de "boa vontade mas método errado"
+- Atitudes de sobreprotecção e "tratar como doente"
 
-### Perspectivas futuras: valor internacional do modelo taiwanês
+### Perspectivas futuras: o valor internacional do modelo Taiwan
 
 **Tendências políticas**:
 
-- **Meta 2030**: todas as áreas cênicas nacionais atingirem padrões de acessibilidade da OMS
-- **Integração legal**: integração interministerial da _Lei de Direitos das Pessoas com Deficiência_ e _Lei de Desenvolvimento do Turismo_
-- **Certificação internacional**: buscar tornar-se o primeiro "país amigo do turismo acessível" da Ásia
+- **Objectivo 2030**: todas as áreas cénicas nacionais a atingir padrões de acessibilidade da OMS
+- **Integração legal**: integração interdepartamental da _Lei de Direitos das Pessoas com Deficiência_ e _Regulamento de Desenvolvimento do Turismo_
+- **Certificação internacional**: aspirar a tornar-se o primeiro "país amigo do turismo acessível" da Ásia
 
 **Evolução social**:
-Taiwan está formando uma "cultura de inclusão" única, cujo núcleo não é "cuidar dos vulneráveis", mas "reconhecer a diversidade" — compreender que cada pessoa tem diferentes capacidades e necessidades, e a responsabilidade da sociedade é **criar um ambiente onde todos possam participar**.
+Taiwan está a formar uma "cultura de inclusão" única, cujo núcleo não é "cuidar dos vulneráveis", mas "reconhecer a diversidade" — compreender que cada pessoa tem diferentes capacidades e necessidades, e que a responsabilidade da sociedade é **criar um ambiente onde todos possam participar**.
 
-Essa cultura pode ser a contribuição mais preciosa de Taiwan para o mundo: **provar que a sociedade inclusiva não precisa esperar o hardware ficar perfeito, podendo começar do entendimento entre pessoas**.
+Esta cultura pode ser a contribuição mais valiosa de Taiwan para o mundo: **provar que a sociedade inclusiva não precisa de esperar pelo hardware perfeito, podendo começar pela compreensão entre pessoas**.
 
 ---
 
@@ -222,11 +223,11 @@ Essa cultura pode ser a contribuição mais preciosa de Taiwan para o mundo: **p
 
 1. [Departamento de Estatística do Ministério do Interior: Estatísticas da população idosa de 2024](https://www.moi.gov.tw/News_Content.aspx?n=9&s=322560)
 2. [Administração de Turismo do Ministério dos Transportes: Rede de Informação de Turismo Acessível](https://www.taiwan.net.tw/m1.aspx?sNo=0000120)
-3. [Agência de Promoção da Saúde do Ministério da Saúde e Bem-Estar: Plano de Promoção de Cidades Amigas do Idoso](https://www.hpa.gov.tw/Pages/List.aspx?nodeid=3869)
+3. [Agência de Promoção da Saúde do Ministério da Saúde e Bem-Estar: Plano de Promoção de Cidades Amigas dos Idosos](https://www.hpa.gov.tw/Pages/List.aspx?nodeid=3869)
 4. [Associação de Desenvolvimento de Turismo Acessível de Taiwan](http://www.goodtours.com.tw/)
-5. [Duofu Férias: Serviços de Turismo Acessível](https://www.dfholidays.com/tw/)
-6. [Canal YouTube: Nossa família é toda Cai](https://www.youtube.com/@alston0816)
-7. [Rede de Lazer Florestal de Taiwan: Seção Especial de Turismo Acessível](https://recreation.forest.gov.tw/Topic/FOO)
-8. [Fundação de Turismo Fênix: Promoção de Ônibus Acessível](https://event.travel.com.tw/accessibleBus/)
-9. [Associação de Promoção de Recursos Xingwua](https://www.facebook.com/sunabletaipei/)
-10. Conselho de Desenvolvimento Nacional: _Projeção Populacional da República da China_ (outubro de 2024)
+5. [Duofu Holidays: Serviços de Turismo Acessível](https://www.dfholidays.com/tw/)
+6. [Canal YouTube: A Nossa Família é Toda Cai](https://www.youtube.com/@alston0816)
+7. [Rede de Lazer Florestal de Taiwan: Secção Especial de Turismo Acessível](https://recreation.forest.gov.tw/Topic/FOO)
+8. [Fundação Fénix de Turismo: Promoção de Autocarro Acessível](https://event.travel.com.tw/accessibleBus/)
+9. [Associação de Promoção de Recursos Acessíveis](https://www.facebook.com/sunabletaipei/)
+10. Conselho de Desenvolvimento Nacional: _Projecção Populacional da República da China_ (Outubro 2024)
