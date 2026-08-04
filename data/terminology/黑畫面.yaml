@@ -2,15 +2,13 @@ id: 黑畫面
 category: daily
 subcategory: 日常生活
 fork_type: B
-
 display:
   taiwan: 黑畫面
   china: 黑屏
-
-notes: ''
-
+notes: 「屏」系 vs「幕」系是兩岸科技詞的系統性分流，成組對照比單詞對照更有教學價值。
 sources:
-  - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'
-
+  - ThunderKO C2T / 《大陸用語檢索手冊》1997
 added: '2026-03-30'
-updated: '2026-03-30'
+updated: '2026-08-04'
+etymology:
+  origin: 螢幕故障黑掉的兩岸說法分流：台灣說「黑畫面」「螢幕變黑」，中國說「黑屏」。「屏」系詞族（屏幕、黑屏、藍屏、鎖屏、投屏、截屏）是科技詞滲透的完整譜系，台灣對應是「幕」系（螢幕、黑畫面、藍白畫面、鎖定畫面、投影、截圖）。中國 3C 維修影片與論壇問答是主要輸入通道。

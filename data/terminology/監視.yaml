@@ -2,15 +2,13 @@ id: 監視
 category: daily
 subcategory: 日常生活
 fork_type: B
-
 display:
   taiwan: 監視
   china: 監控
-
-notes: ''
-
+notes: 兩詞台灣皆有、語域分工；滲透發生在「監控」語域擴張，屬語意層變化。
 sources:
-  - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'
-
+  - ThunderKO C2T / 《大陸用語檢索手冊》1997
 added: '2026-03-30'
-updated: '2026-03-30'
+updated: '2026-08-04'
+etymology:
+  origin: monitor／surveillance 的語域分流：台灣「監視」用於安全語境（監視器、被監視）、「監控」偏工程語境（機房監控、監控系統）；中國「監控」是統稱，監控攝像頭、被監控。中國新聞與科技內容大量輸入後，台灣口語中「監控」的使用範圍擴大，逐漸覆蓋「監視」的語域。

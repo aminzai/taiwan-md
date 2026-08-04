@@ -2,15 +2,13 @@ id: 網路攝影機
 category: tech
 subcategory: 網路與通訊
 fork_type: B
-
 display:
   taiwan: 網路攝影機
   china: 攝像頭
-
-notes: ''
-
+notes: 中國「攝像頭」是統稱詞，台灣依裝置用途分化成三個詞——查詢時要看語境對應。
 sources:
-  - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'
-
+  - ThunderKO C2T / 《大陸用語檢索手冊》1997
 added: '2026-03-30'
-updated: '2026-03-30'
+updated: '2026-08-04'
+etymology:
+  origin: camera 的兩岸翻譯分流：台灣依用途細分「網路攝影機」（webcam）、「鏡頭」（手機鏡頭）、「監視器」；中國統稱「攝像頭」，手機攝像頭、監控攝像頭、電腦攝像頭一詞通用。台灣讀者搜尋「攝像頭」的量在本站 Search Console 居高（月曝光 177 次），多來自看中國 3C 評測影片後的困惑。

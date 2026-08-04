@@ -2,15 +2,13 @@ id: 洋芋片
 category: daily
 subcategory: 日常生活
 fork_type: B
-
 display:
   taiwan: 洋芋片
   china: 薯片
-
-notes: ''
-
+notes: 香港也用「薯片」——此詞是「中港同形、台灣獨行」的類型，判定支語時要留意港源可能。
 sources:
-  - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'
-
+  - ThunderKO C2T / 《大陸用語檢索手冊》1997
 added: '2026-03-30'
-updated: '2026-03-30'
+updated: '2026-08-04'
+etymology:
+  origin: potato chips 的兩岸翻譯分流：台灣「洋芋片」（洋芋＝馬鈴薯的台式舊稱），中國「薯片」。港式「薯片」與中國同形，台灣讀者在港劇與中國零食包裝上都會看到。樂事等品牌在台包裝維持「洋芋片」，是商品在地化守住用語的例子。

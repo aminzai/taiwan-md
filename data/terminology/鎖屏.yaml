@@ -1,0 +1,13 @@
+id: 鎖屏
+category: tech
+fork_type: C
+display:
+  taiwan: 螢幕鎖定 / 鎖定畫面
+  china: 鎖屏
+etymology:
+  origin: 智慧型手機介面用語的兩岸分流：台灣繁中介面（Apple、Google 官方在地化）用「鎖定畫面」「螢幕鎖定」，中國簡中介面用「鎖屏」「鎖屏壁紙」。使用中國品牌手機（小米、OPPO）或看中國 3C 評測的台灣使用者會自然接觸「鎖屏」。「屏」系詞家族（屏幕、黑屏、投屏、截屏）是科技詞滲透的完整譜系。
+notes: 台灣官方在地化明確（鎖定畫面），但「屏」系詞經硬體品牌與評測影片持續輸入。
+sources:
+  - https://www.ptt.cc/bbs/WomenTalk/M.1691117819.A.B8C.html
+added: '2026-08-04'
+updated: '2026-08-04'

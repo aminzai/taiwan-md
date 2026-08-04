@@ -1,0 +1,13 @@
+id: 彈幕
+category: internet
+fork_type: A
+display:
+  taiwan: 彈幕
+  china: 彈幕
+etymology:
+  origin: 源自日本 niconico 動畫的「弾幕」（だんまく），原是軍事用語「彈幕射擊」，形容留言密集飛過畫面像砲火彈幕。中國 B 站（bilibili）將彈幕文化發揚光大，台灣透過巴哈姆特動畫瘋等平台也完整採用。兩岸三地用字相同，都是日語借詞。
+notes: 日源詞，兩岸三地通用，非支語爭議對象。收錄供查證參照。
+sources:
+  - https://zh.wikipedia.org/zh-tw/彈幕_(網路用語)
+added: '2026-08-04'
+updated: '2026-08-04'

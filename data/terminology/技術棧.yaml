@@ -1,0 +1,13 @@
+id: 技術棧
+category: tech
+fork_type: C
+display:
+  taiwan: 技術堆疊 / tech stack
+  china: 技術棧
+etymology:
+  origin: 英文 tech stack 的翻譯分流：中國技術社群（掘金、CSDN、知乎）譯「技術棧」，「棧」對應資料結構 stack 的中國譯名；台灣工程師圈慣直接說英文「tech stack」或譯「技術堆疊」（stack 台譯「堆疊」）。台灣工程師大量閱讀簡中技術文件，此詞在履歷與技術部落格已可見。
+notes: 資料結構 stack：台譯「堆疊」、中譯「棧」——整組資訊科系術語分流的一環（另見：迴圈/循環、陣列/數組）。
+sources:
+  - https://www.explainthis.io/zh-hant
+added: '2026-08-04'
+updated: '2026-08-04'

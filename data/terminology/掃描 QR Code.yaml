@@ -2,15 +2,14 @@ id: 掃描 QR Code
 category: tech
 subcategory: 軟體與程式開發
 fork_type: A
-
 display:
   taiwan: 掃描 QR Code
   china: 扫码
-
-notes: ''
-
+notes: 收編中：口語短促性讓這個詞在台灣持續擴散，官方與媒體書面仍用「掃 QR Code」。
 sources:
-  - 'rajatim/zhtw (MIT) — base.json'
-
+  - rajatim/zhtw (MIT) — base.json
+  - https://www.threads.com/@se.ven.hills
 added: '2026-04-08'
-updated: '2026-04-08'
+updated: '2026-08-04'
+etymology:
+  origin: 中國行動支付（支付寶、微信支付）普及讓「掃碼」成為日常動詞，掃碼支付、掃碼點餐、掃碼加好友。台灣慣說「掃 QR Code」或「掃條碼」，保留英文縮寫。疫情實聯制時期台灣官方用語也是「掃描 QR Code」。Threads 網友形容掃碼是「最看不慣，卻又不得不用的支語之一」，因為它確實比四音節的「掃 QR Code」短。

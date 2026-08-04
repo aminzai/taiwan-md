@@ -2,15 +2,14 @@ id: 外送
 category: daily
 subcategory: 日常用語
 fork_type: B
-
 display:
   taiwan: 外送
   china: 外卖
-
-notes: ''
-
+notes: 台灣早期餐飲業也有「外賣」一詞指「外帶」（相對於內用），與中國「外賣＝外送」語意不同，是三方歧義詞。
 sources:
-  - 'rajatim/zhtw (MIT) — daily.json'
-
+  - rajatim/zhtw (MIT) — daily.json
+  - https://udn.com/news/story/120911/8023312
 added: '2026-04-08'
-updated: '2026-04-08'
+updated: '2026-08-04'
+etymology:
+  origin: 台灣外送平台文化（foodpanda、Uber Eats）確立了「外送」「外送員」的標準說法；中國美團、餓了麼生態則用「外賣」「外賣小哥」。兩詞在 2010 年代平台經濟興起後各自定型，是新生活型態催生的平行詞彙。台灣媒體報導中國外送產業時常直接沿用「外賣」，造成混用。

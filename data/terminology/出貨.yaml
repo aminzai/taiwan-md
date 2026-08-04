@@ -2,15 +2,14 @@ id: 出貨
 category: business
 subcategory: 電子商務
 fork_type: B
-
 display:
   taiwan: 出貨
   china: 发货
-
-notes: ''
-
+notes: 蝦皮部分賣家（中國背景）介面混用，加速滲透。
 sources:
-  - 'rajatim/zhtw (MIT) — ecommerce.json'
-
+  - rajatim/zhtw (MIT) — ecommerce.json
+  - https://www.ptt.cc/bbs/WomenTalk/M.1672998855.A.CD5.html
 added: '2026-04-08'
-updated: '2026-04-08'
+updated: '2026-08-04'
+etymology:
+  origin: 電商物流用語分流：台灣蝦皮、momo 等平台與賣家慣用「出貨」「已出貨」，中國淘寶生態用「發貨」「已發貨」「發貨通知」。台灣消費者在淘寶、拼多多跨境購物時大量接觸「發貨」，PTT 與 Dcard 都有網友點名此詞已在台灣賣場訊息中出現。

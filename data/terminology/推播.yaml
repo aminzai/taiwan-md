@@ -2,15 +2,13 @@ id: 推播
 category: daily
 subcategory: 日常生活
 fork_type: B
-
 display:
   taiwan: 推播
   china: 推送
-
-notes: ''
-
+notes: 介面在地化詞，台灣「推播」定型穩固，「推送」經中國 App 介面輸入。
 sources:
-  - 'ThunderKO C2T / 《大陸用語檢索手冊》1997'
-
+  - ThunderKO C2T / 《大陸用語檢索手冊》1997
 added: '2026-03-30'
-updated: '2026-03-30'
+updated: '2026-08-04'
+etymology:
+  origin: push notification 的翻譯分流：台灣譯「推播通知」（推播），中國譯「推送」（消息推送）。台灣手機介面在地化（Apple、Google 繁中版）定型「推播」，中國 App 與簡中介面用「推送」。使用中國 App（小紅書、抖音）的台灣使用者會在設定頁看到「推送」。
