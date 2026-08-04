@@ -1,26 +1,31 @@
 {
-  "lastUpdated": "2026-08-03T22:12:20.288Z",
-  "totalArticles": 877,
+  "lastUpdated": "2026-08-04T22:12:54.003Z",
+  "totalArticles": 880,
   "contributors": 68,
-  "stars": 1123,
+  "stars": 1124,
   "forks": 170,
-  "articlesLast7Days": 19,
-  "articlesLast30Days": 241,
-  "humanReviewedPercent": 22.3,
-  "featuredPercent": 20.9,
-  "avgRevision": 8,
+  "articlesLast7Days": 29,
+  "articlesLast30Days": 251,
+  "humanReviewedPercent": 22.5,
+  "curation": {
+    "verified": 2,
+    "incubating": 95,
+    "unmarked": 783
+  },
+  "featuredPercent": 20.2,
+  "avgRevision": 8.1,
   "languageCoverage": {
-    "zh-TW": 877,
+    "zh-TW": 880,
     "en": 866,
     "ja": 864,
     "ko": 866,
     "es": 866,
     "fr": 867,
     "vi": 454,
-    "id": 485,
-    "pt": 806,
-    "hi": 602,
-    "ar": 690,
-    "ru": 711
+    "id": 531,
+    "pt": 816,
+    "hi": 625,
+    "ar": 707,
+    "ru": 730
   }
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T22:12:10.406Z",
+  "lastUpdated": "2026-08-04T22:12:43.500Z",
   "totals": {
     "contributors": 68,
     "activeWindow": "last 30d"
@@ -7,25 +7,25 @@
   "leaderboard": [
     {
       "login": "frank890417",
-      "commits": 7078,
+      "commits": 7245,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-08-04 05:39:31 +0800",
+      "lastCommitAt": "2026-08-05 05:39:37 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 738,
-        "system": 3959,
-        "translation": 1047
+        "content": 785,
+        "system": 3990,
+        "translation": 1080
       }
     },
     {
       "login": "idlccp1984",
-      "commits": 216,
+      "commits": 217,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-08-02 22:24:11 +0800",
+      "lastCommitAt": "2026-08-03 17:23:14 +0800",
       "primaryArea": "content",
       "breakdown": {
         "content": 10,
@@ -767,11 +767,11 @@
   "topContent": [
     {
       "login": "idlccp1984",
-      "commits": 216,
+      "commits": 217,
       "avatarUrl": "https://avatars.githubusercontent.com/u/271929436?v=4",
       "profileUrl": "https://github.com/idlccp1984",
       "firstCommitAt": "2026-04-03 15:37:37 +0800",
-      "lastCommitAt": "2026-08-02 22:24:11 +0800",
+      "lastCommitAt": "2026-08-03 17:23:14 +0800",
       "primaryArea": "content",
       "breakdown": {
         "content": 10,
@@ -797,16 +797,16 @@
   "topSystem": [
     {
       "login": "frank890417",
-      "commits": 7078,
+      "commits": 7245,
       "avatarUrl": "https://avatars.githubusercontent.com/u/4727572?v=4",
       "profileUrl": "https://github.com/frank890417",
       "firstCommitAt": "2026-03-17 16:05:41 +0800",
-      "lastCommitAt": "2026-08-04 05:39:31 +0800",
+      "lastCommitAt": "2026-08-05 05:39:37 +0800",
       "primaryArea": "system",
       "breakdown": {
-        "content": 738,
-        "system": 3959,
-        "translation": 1047
+        "content": 785,
+        "system": 3990,
+        "translation": 1080
       }
     },
     {
@@ -939,50 +939,8 @@
     }
   ],
   "weeklyActive": 3,
-  "monthlyActive": 8,
+  "monthlyActive": 5,
   "recentlyJoined": [
-    {
-      "login": "ycku",
-      "commits": 1,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20721473?v=4",
-      "profileUrl": "https://github.com/ycku",
-      "firstCommitAt": "2026-07-05 17:36:59 +0800",
-      "lastCommitAt": "2026-07-05 17:36:59 +0800",
-      "primaryArea": "other",
-      "breakdown": {
-        "content": 0,
-        "system": 0,
-        "translation": 0
-      }
-    },
-    {
-      "login": "cwlin0131",
-      "commits": 1,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/101349007?v=4",
-      "profileUrl": "https://github.com/cwlin0131",
-      "firstCommitAt": "2026-07-05 17:39:15 +0800",
-      "lastCommitAt": "2026-07-05 17:39:15 +0800",
-      "primaryArea": "other",
-      "breakdown": {
-        "content": 0,
-        "system": 0,
-        "translation": 0
-      }
-    },
-    {
-      "login": "jinnshuchang",
-      "commits": 1,
-      "avatarUrl": "https://avatars.githubusercontent.com/u/231710471?v=4",
-      "profileUrl": "https://github.com/jinnshuchang",
-      "firstCommitAt": "2026-07-05 17:57:14 +0800",
-      "lastCommitAt": "2026-07-05 17:57:14 +0800",
-      "primaryArea": "other",
-      "breakdown": {
-        "content": 0,
-        "system": 0,
-        "translation": 0
-      }
-    },
     {
       "login": "stantheman0128",
       "commits": 10,
