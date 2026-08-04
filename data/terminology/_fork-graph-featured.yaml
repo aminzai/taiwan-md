@@ -1,0 +1,242 @@
+# 語言分支樹精選詞策展層（fork-graph featured curation）
+# ─────────────────────────────────────────────────────────
+# SSOT 分工：語言內容（display / fork_type / origin 敘事）住各詞條 YAML；
+# 本檔只管時間軸座標（originYear / forkYear）與詞源標籤（origin）——詞庫 schema 沒有的部分。
+# note 欄記年份的策展依據；type 欄只在需要覆蓋詞庫值時填（如 semantic 舊值改正）。
+# 消費者：scripts/core/generate-fork-graph-data.py（prebuild）→ /fork-graph/ 頁面。
+# 設計報告：reports/design-fork-graph-evolution-2026-08-04.md §3.3
+# 2026-08-04 誕生，session 支語研究。
+
+era_essays:
+  - key: japanese
+    title: 日語遺產層（1895–1945）
+    text: 便當、瓦斯、歐巴桑這一層是日治五十年直接沉積的借詞，台灣沿用、中國自創對應詞。有趣的是這條路線還活著——彈幕、佛系、打call 是新一代日源詞，只是改繞道中國二次加工後才進台灣，同一個日本，兩種抵達方式。
+  - key: divide
+    title: 1949 分流層
+    text: 兩岸分治後各自翻譯西方新詞，走出系統性的兩套譯法：台灣用「體」（軟體、硬體），中國用「件」（軟件、硬件）；台灣音譯雷射，中國意譯激光。這一層是詞庫的主體，也是最穩定的分歧——七十多年來各說各話，互相聽得懂但一開口就知道你是誰。
+  - key: internet
+    title: 網路與短影音層（1990s–現在）
+    text: 視頻與影片在 2005 年前後隨平台生態分流，而 2020 年代的分歧正在眼前發生：躺平、鬆弛感、偷感以年為單位傳入台灣，台灣同時長出擺爛、推坑、工具人接住或對抗。時間軸的右端不是歷史，是現在進行式。
+
+featured:
+  # ── A 日語遺產（老層：日→台直收）──
+  - id: 便當
+    origin: 弁当（日語）
+    originYear: 1895
+    forkYear: 1949
+    note: 日治引入、1949 後兩岸各自定型（盒飯）
+  - id: 品質
+    origin: 品質（日語 ひんしつ）
+    originYear: 1895
+    forkYear: 1950
+    note: 台灣沿日語漢字，中國 1950s 起用「質量」
+  - id: 瓦斯
+    origin: gas → ガス（荷→日）
+    originYear: 1895
+    forkYear: 1949
+    note: 荷→日→台完整借詞鏈
+  - id: 歐巴桑
+    origin: おばさん（日語）
+    originYear: 1895
+    forkYear: 1949
+    note: 日語稱謂借詞；中國「大媽」近年才定型
+  - id: OK繃
+    origin: Band-Aid（品牌名）
+    originYear: 1920
+    forkYear: 1950
+    note: 美援時代品牌通名化；中國創口貼/創可貼
+  # ── A 新日源繞道（日→中→台）──
+  - id: 彈幕
+    origin: 弾幕（niconico 2006）
+    originYear: 2006
+    forkYear: 2010
+    note: 日源、經 B 站中國化再擴散；兩岸同形——新日源的「直收」特例
+  - id: 佛系
+    twLabel: 佛系（收編）
+    origin: 仏男子（日本雜誌 2014）
+    originYear: 2014
+    forkYear: 2017
+    note: 2017 中國自媒體改造爆紅後傳台
+  - id: 打call
+    origin: コール（日本應援文化）
+    originYear: 2010
+    forkYear: 2017
+    note: 中國 2017 泛化「支持」義；台灣追星圈保留日源「應援」
+  # ── B 1949 分流 ──
+  - id: 軟體
+    origin: software（英語）
+    originYear: 1960
+    forkYear: 1980
+    note: 台灣「體」系 vs 中國「件」系術語家族
+  - id: 捷運
+    origin: MRT / metro（英語）
+    originYear: 1960
+    forkYear: 1977
+    note: 北捷規劃期自創詞（大量高架不宜稱地下鐵）
+  - id: 演算法
+    origin: algorithm（英語）
+    originYear: 1960
+    forkYear: 1980
+    note: 台保留「演」字強調過程
+  - id: 雷射
+    origin: laser（英語）
+    originYear: 1960
+    forkYear: 1970
+    note: 台音譯雷射 vs 中意譯激光
+  - id: 洋芋片
+    origin: potato chips（英語）
+    originYear: 1950
+    forkYear: 1960
+    note: 中港同用薯片、台灣獨行洋芋片
+  - id: 三文魚
+    origin: salmon（英語）
+    originYear: 1960
+    forkYear: 1980
+    type: B
+    note: 台沿古名鮭魚 vs 中經粵語音譯三文魚；詞庫舊值 semantic 覆蓋為 B
+  - id: 計程車
+    origin: taxi（英語）
+    originYear: 1950
+    forkYear: 1960
+    note: 計程 vs 出租，兩種命名邏輯
+  - id: 宇航員
+    origin: astronaut（英語）
+    originYear: 1960
+    forkYear: 1970
+    type: B
+    note: 台太空人 vs 中宇航員/航天員；詞庫舊值 semantic 覆蓋為 B
+  # ── C 網路時代 ──
+  - id: 影片
+    origin: video（英語）
+    originYear: 1990
+    forkYear: 2005
+    note: 「視頻」隨優酷世代在中國定型
+  - id: 按讚
+    origin: Like（Facebook 2009）
+    originYear: 2009
+    forkYear: 2010
+    note: 平台在地化分流：按讚 vs 點贊
+  - id: 網紅
+    twLabel: 網紅（收編）
+    origin: 網絡紅人（中國直播經濟）
+    originYear: 2005
+    forkYear: 2015
+    note: 2015 前後輸入台灣後完全收編——「輸入→收編」代表案例
+  - id: 外送
+    origin: 外送平台經濟
+    originYear: 2012
+    forkYear: 2015
+    note: foodpanda/UberEats 定型「外送」；美團生態定型「外賣」
+  - id: 充電寶
+    origin: power bank（英語）
+    originYear: 2010
+    forkYear: 2012
+    note: 行動電源 vs 充電寶——「寶」系命名文化
+  - id: 取關
+    origin: unfollow（社群平台）
+    originYear: 2010
+    forkYear: 2012
+    note: 追蹤/退追 vs 關注/取關，介面在地化是防線
+  - id: 網暴
+    origin: cyberbullying（英語）
+    originYear: 2015
+    forkYear: 2020
+    note: 台從教育法律定型網路霸凌；中從熱搜文化縮略網暴
+  - id: 鎖屏
+    origin: lock screen（智慧手機）
+    originYear: 2008
+    forkYear: 2012
+    note: 「屏」系 vs「幕」系的系統性分流一員
+  # ── D 台客語底層 ──
+  - id: 機車
+    origin: オートバイ＋台語底層
+    originYear: 1920
+    forkYear: 1949
+    note: 雙層分歧：日治底層引入、1949 後兩岸各自固化
+  - id: 尾牙
+    origin: 作牙（台灣民間信仰）
+    originYear: 1900
+    forkYear: 1950
+    note: 信仰節俗詞 vs 中國現代企業「年會」
+  - id: 芭樂
+    origin: pat-á（台語）
+    originYear: 1900
+    forkYear: 1945
+    note: 台語底層果名 vs 官話番石榴
+  - id: 辦桌
+    origin: pān-toh（台語）
+    originYear: 1900
+    forkYear: 1950
+    note: 台語宴席文化詞 vs 中國流水席
+  # ── E 正在分歧（2020s 右端）──
+  - id: 躺平
+    origin: 中國網路（2021 熱詞）
+    originYear: 2021
+    forkYear: 2021
+    note: 台灣同期自有擺爛/我就爛；兩詞並流中
+  - id: 內卷
+    origin: involution（學術詞轉義）
+    originYear: 2020
+    forkYear: 2020
+    note: 中國特有社會現象詞輸入型——台灣無原生對應
+  - id: 碰瓷
+    origin: 北京方言（清末典故）
+    originYear: 1990
+    forkYear: 2015
+    note: 2015 前後網路化傳台；被公認「台灣找不到替代詞」
+  - id: 天花板
+    origin: ceiling 比喻（句式化）
+    originYear: 2020
+    forkYear: 2021
+    note: 比喻兩岸皆有，「XX天花板」句式化由中國帶動——起源爭議詞
+  - id: 社死
+    origin: 社會性死亡（社會學詞）
+    originYear: 2020
+    forkYear: 2021
+    note: 台灣年輕世代已高度收編的世代斷層詞
+  - id: 種草
+    origin: 小紅書電商文化
+    originYear: 2015
+    forkYear: 2018
+    note: 台灣本有推坑/生火完整對應——罕見可全抵換案例
+  - id: 舔狗
+    twLabel: 工具人
+    origin: 中國網路（2018）
+    originYear: 2018
+    forkYear: 2020
+    note: 台灣工具人（2000s PTT 原生）先於它存在，兩詞分工並存
+  - id: 鬆弛感
+    origin: 微博博主造詞（2022）
+    originYear: 2022
+    forkYear: 2023
+    note: 「N＋感」公式代表；中國官方年度流行語認證
+  - id: 搭子
+    origin: 江南方言擴義（2023）
+    originYear: 2023
+    forkYear: 2024
+    note: 台灣「〜咖」構詞（牌咖/飯咖）是原生對應
+  - id: 偷感
+    twLabel: 無公認對應
+    origin: 中國網路（2024）
+    originYear: 2024
+    forkYear: 2025
+    note: 台灣處於「被介紹」階段——分歧的最前緣
+  # ── F 同詞不同語感 ──
+  - id: 花生
+    origin: 塗豆（閩南語）vs 土豆（北方官話）
+    originYear: 1950
+    forkYear: 2000
+    type: F
+    note: 台語土豆=花生、中國土豆=馬鈴薯；2023 教科書事件全國化——三方歧義詞
+  - id: 估計
+    origin: 共有漢語詞
+    originYear: 1950
+    forkYear: 2010
+    type: F
+    note: 教育部辭典正式收錄；分歧在副詞用法頻率——常被誤判的台灣本有詞
+  - id: 立馬
+    origin: 古語（立刻＋馬上）
+    originYear: 1950
+    forkYear: 2010
+    type: F
+    note: 中國高頻化後回流；收編爭議代表詞

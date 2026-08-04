@@ -1,135 +1,41 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import forkGraph from '../data/fork-graph.json';
 
-interface ForkEntry {
-  id: string;
-  origin: string;
-  originYear: number;
-  forkYear: number;
-  taiwan: string;
-  china: string;
-  type: string;
-  note: string;
-  onlyTaiwan?: boolean;
-}
+// 資料由 scripts/core/generate-fork-graph-data.py（prebuild）從
+// data/terminology/ 詞庫 + _fork-graph-featured.yaml 策展層 derive。
+// SSOT 分工與設計：reports/design-fork-graph-evolution-2026-08-04.md
+const { featured, eraEssays, density, counts } = forkGraph;
 
-const forkData: ForkEntry[] = [
-  {
-    id: 'bentou',
-    origin: '弁当（日語）',
-    originYear: 1895,
-    forkYear: 1949,
-    taiwan: '便當',
-    china: '盒飯',
-    type: 'A',
-    note: '日治時期引入，台灣沿用至今。池上便當、鐵路便當已是文化符號。',
-  },
-  {
-    id: 'quality',
-    origin: '品質（日語 ひんしつ）',
-    originYear: 1895,
-    forkYear: 1950,
-    taiwan: '品質',
-    china: '質量',
-    type: 'A',
-    note: '台灣保留日語漢字直譯，中國改用「質量」，常與物理 mass 混淆。',
-  },
-  {
-    id: 'wassi',
-    origin: 'gas → ガス（荷→日）',
-    originYear: 1895,
-    forkYear: 1949,
-    taiwan: '瓦斯',
-    china: '煤氣',
-    type: 'A',
-    note: '保留了荷蘭語→日語→台灣的完整借詞鏈。中國自創「煤氣/天然氣」。',
-  },
-  {
-    id: 'obasang',
-    origin: 'おばさん（日語）',
-    originYear: 1895,
-    forkYear: 1949,
-    taiwan: '歐巴桑',
-    china: '大媽',
-    type: 'A',
-    note: '日語親屬稱謂借詞，台灣語感中性親暱；中國「大媽」近年帶有刻板印象。',
-  },
-  {
-    id: 'software',
-    origin: 'software（英語）',
-    originYear: 1960,
-    forkYear: 1980,
-    taiwan: '軟體',
-    china: '軟件',
-    type: 'B',
-    note: '台灣用「體」統一術語（軟體、硬體、韌體），中國用「件」（軟件、硬件）。',
-  },
-  {
-    id: 'jieyun',
-    origin: 'MRT / metro（英語）',
-    originYear: 1960,
-    forkYear: 1977,
-    taiwan: '捷運',
-    china: '地鐵',
-    type: 'B',
-    note: '台灣規劃時自製「捷運」，因有大量高架路段，不適合稱「地下鐵」。',
-  },
-  {
-    id: 'algorithm',
-    origin: 'algorithm（英語）',
-    originYear: 1960,
-    forkYear: 1980,
-    taiwan: '演算法',
-    china: '算法',
-    type: 'B',
-    note: '台灣強調「演算過程」，保留「演」字；中國偏好簡潔的「算法」。',
-  },
-  {
-    id: 'video',
-    origin: 'video（英語）',
-    originYear: 1990,
-    forkYear: 2005,
-    taiwan: '影片',
-    china: '視頻',
-    type: 'C',
-    note: '「視頻」隨優酷等平台在中國崛起，台灣仍用源自電影膠片時代的「影片」。',
-  },
-  {
-    id: 'like',
-    origin: 'Like（Facebook 2009）',
-    originYear: 2009,
-    forkYear: 2010,
-    taiwan: '按讚',
-    china: '點贊',
-    type: 'C',
-    note: '繁簡字差異（讚 vs 贊）加上 UI 翻譯分歧：台灣「按」+「讚」，中國「點」+「贊」。',
-  },
-  {
-    id: 'renshe',
-    origin: 'ACG 人物設定',
-    originYear: 2015,
-    forkYear: 2020,
-    taiwan: '（形象）',
-    china: '人設',
-    type: 'E',
-    note: '中國原生 ACG 用語，2020 年前後滲透台灣年輕族群，正式媒體仍用「形象」。',
-    onlyTaiwan: false,
-  },
-];
+const TYPE_COLORS: Record<string, string> = {
+  A: '#e74c3c',
+  B: '#3498db',
+  C: '#9b59b6',
+  D: '#27ae60',
+  E: '#f39c12',
+  F: '#607d8b',
+};
+const TYPE_NAMES: Record<string, string> = {
+  A: '日語遺產',
+  B: '1949分流',
+  C: '網路時代',
+  D: '台客語底層',
+  E: '正在分歧',
+  F: '同詞不同語感',
+};
 
-const forkDataJSON = JSON.stringify(forkData);
+const yearSpan = counts.yearSpan[1] - counts.yearSpan[0];
+const maxDecadeTotal = Math.max(...density.map((d: any) => d.total));
+const forkDataJSON = JSON.stringify(featured);
 ---
 
 <!--
-  Phase 6 page migration #8: fork-graph.astro
-  ───────────────────────────────────────────
-  - Scoped <style> removed entirely (~250 lines CSS deleted)
-  - `.fork-graph-page` kept as hook — referenced in global.css
-    `body.page-default main.fork-graph-page { padding-top: 0 }`
-  - `#fork-tooltip.visible` state → `[&.visible]:opacity-100`
-    arbitrary variant; JS still toggles the `.visible` class
-  - 6 legend badges use inline `style=""` for their per-category
-    color triplet; only the layout/typography moves to Tailwind
+  2026-08-04 進化（設計報告 reports/design-fork-graph-evolution-2026-08-04.md）：
+  - 修 P0：.fork-graph-wrap selector 斷裂（2026-04-10 Phase 6 遷移起圖全空白）
+    → wrapper 補回 id="fork-graph-wrap"，JS 改 query id
+  - 資料 hardcode 10 詞退場 → build-time 從詞庫 derive（41 精選 + 198 條密度層）
+  - 新增：分歧密度長條（語言滲透的時間形狀）、三波世代策展短文、
+    節點 click/tap pin tooltip + 連 per-term 頁、legend 動態計數
 -->
 <Layout title="🌿 語言分支樹 — Taiwan.md" readerSettings={true}>
   <main class="fork-graph-page flex min-h-screen flex-col bg-[#f8f8f8]">
@@ -156,14 +62,20 @@ const forkDataJSON = JSON.stringify(forkData);
         <p
           class="m-0 mb-5 max-w-[42rem] text-[clamp(0.9rem,1.8vw,1.05rem)] leading-[1.65] opacity-[0.82]"
         >
-          一個詞如何走出兩條路——從共同詞源到兩岸分歧，每條分支都是真實生活的選擇
+          一個詞如何走出兩條路——從共同詞源到兩岸分歧，每條分支都是真實生活的選擇。點任何一個節點，走進那個詞的完整故事。
         </p>
         <div
           class="flex flex-wrap items-center gap-[0.6rem] text-[0.9rem] opacity-75 [&_strong]:text-[1.05em] [&_strong]:text-white [&_strong]:opacity-100"
         >
-          <span><strong>10</strong> 個代表詞</span>
+          <span><strong>{counts.featured}</strong> 個精選詞</span>
           <span class="opacity-40">|</span>
-          <span>跨越 <strong>130</strong> 年</span>
+          <span>跨越 <strong>{yearSpan}</strong> 年</span>
+          <span class="opacity-40">|</span>
+          <span
+            >密度資料 <strong>{counts.densityTerms}</strong> 條，出自 <strong
+              >{counts.libraryTotal.toLocaleString()}</strong
+            > 條詞庫</span
+          >
         </div>
       </div>
     </div>
@@ -174,6 +86,7 @@ const forkDataJSON = JSON.stringify(forkData);
       aria-label="語言分支樹"
     >
       <div
+        id="fork-graph-wrap"
         class="relative w-full cursor-grab overflow-x-auto overflow-y-hidden rounded-xl border border-[#e8e8e8] bg-[#fafafa] [-webkit-overflow-scrolling:touch] active:cursor-grabbing"
       >
         <svg
@@ -182,20 +95,130 @@ const forkDataJSON = JSON.stringify(forkData);
           aria-label="語言分歧分支圖"></svg>
         <div
           id="fork-tooltip"
-          class="pointer-events-none fixed z-[9999] max-w-[260px] rounded-lg bg-[rgba(20,20,40,0.93)] px-[0.9rem] py-[0.6rem] text-[0.82rem] leading-[1.5] text-white opacity-0 transition-opacity duration-150 [&.visible]:opacity-100 [&_strong]:mb-1 [&_strong]:block [&_strong]:text-[0.95rem]"
+          class="pointer-events-none fixed z-[9999] max-w-[280px] rounded-lg bg-[rgba(20,20,40,0.95)] px-[0.9rem] py-[0.65rem] text-[0.82rem] leading-[1.5] text-white opacity-0 transition-opacity duration-150 [&.visible]:opacity-100 [&.pinned]:pointer-events-auto [&_strong]:mb-1 [&_strong]:block [&_strong]:text-[0.95rem] [&_a]:mt-2 [&_a]:inline-block [&_a]:rounded [&_a]:bg-white/15 [&_a]:px-2 [&_a]:py-1 [&_a]:text-[0.78rem] [&_a]:font-semibold [&_a]:text-white [&_a]:no-underline hover:[&_a]:bg-white/25"
           role="tooltip"
           aria-hidden="true"
         >
         </div>
       </div>
       <p class="mt-3 text-center text-[0.83rem] text-[#888]">
-        橫軸為時間，每行代表一個詞的分歧歷程。<span
+        橫軸為時間，由上而下從最老的分歧排到正在發生的分歧。<span
           class="font-semibold text-[#e74c3c]">■ 台灣用法</span
         >
         <span class="ml-2 font-semibold text-[#3498db]">■ 中國用法</span>
         <span class="ml-2 text-[#888]">● 詞源</span>
-        — Hover 節點查看詳情。
+        — 點節點看故事、進詞條頁。
       </p>
+    </section>
+
+    <!-- ── 分歧密度（語言滲透的時間形狀）────────────────────────────── -->
+    <section
+      class="border-y border-[#eee] bg-white px-[var(--space-page-x,2rem)] py-10 max-[640px]:px-4 max-[640px]:py-6"
+      aria-label="分歧密度"
+    >
+      <div class="mx-auto max-w-[72rem]">
+        <h2 class="m-0 mb-2 text-[1.2rem] font-bold text-[#1a1a2e]">
+          語言滲透的時間形狀
+        </h2>
+        <p
+          class="m-0 mb-6 max-w-[46rem] text-[0.9rem] leading-[1.65] text-[#666]"
+        >
+          詞庫裡 {counts.densityTerms} 條可定年的分歧，按年代堆疊。1940 年代的高峰是分治的痕跡，1990
+          年代是網路時代的第二波，而右端 2020 年代的長條正在長高——這不是歷史圖，右端是現在進行式。點任何年代看那十年分歧了哪些詞。
+        </p>
+        <div
+          class="flex items-end gap-[0.4rem] max-[640px]:gap-[0.2rem]"
+          role="list"
+        >
+          {
+            density.map((cell: any) => (
+              <button
+                type="button"
+                class="fg-decade group flex flex-1 cursor-pointer flex-col items-center gap-1 border-0 bg-transparent p-0"
+                data-decade={cell.decade}
+                aria-expanded="false"
+                aria-label={`${cell.decade} 年代，${cell.total} 條分歧`}
+              >
+                <span class="text-[0.72rem] font-semibold text-[#999] group-hover:text-[#1a1a2e]">
+                  {cell.total}
+                </span>
+                <span
+                  class="flex w-full flex-col-reverse overflow-hidden rounded-t-[4px] opacity-85 transition-opacity group-hover:opacity-100"
+                  style={`height:${Math.max(6, Math.round((cell.total / maxDecadeTotal) * 150))}px`}
+                >
+                  {Object.entries(cell.byType)
+                    .sort()
+                    .map(([t, n]: [string, any]) => (
+                      <span
+                        class="block w-full"
+                        style={`height:${Math.round((n / cell.total) * 100)}%;background:${TYPE_COLORS[t] || '#ccc'}`}
+                      />
+                    ))}
+                </span>
+                <span class="text-[0.72rem] text-[#888]">
+                  {String(cell.decade).slice(2)}s
+                </span>
+              </button>
+            ))
+          }
+        </div>
+        {
+          density.map((cell: any) => (
+            <div
+              class="fg-decade-terms mt-4 hidden rounded-lg border border-[#eee] bg-[#fafafa] p-4"
+              data-decade-panel={cell.decade}
+            >
+              <p class="m-0 mb-3 text-[0.85rem] font-semibold text-[#1a1a2e]">
+                {cell.decade} 年代分歧的 {cell.total} 個詞
+              </p>
+              <div class="flex flex-wrap gap-2">
+                {cell.terms.map((t: any) => (
+                  <a
+                    href={`/terminology/${t.id}`}
+                    class="inline-flex items-center gap-[0.35rem] rounded-full border bg-white px-3 py-1 text-[0.8rem] no-underline transition-colors hover:bg-[#f0f0f5]"
+                    style={`border-color:${TYPE_COLORS[t.type]}44`}
+                  >
+                    <span
+                      class="font-semibold"
+                      style={`color:${TYPE_COLORS[t.type]}`}
+                    >
+                      {t.tw}
+                    </span>
+                    <span class="text-[#aaa]">·</span>
+                    <span class="text-[#888]">{t.cn}</span>
+                  </a>
+                ))}
+              </div>
+            </div>
+          ))
+        }
+      </div>
+    </section>
+
+    <!-- ── 三波世代策展 ────────────────────────────────────────────── -->
+    <section
+      class="px-[var(--space-page-x,2rem)] py-10 max-[640px]:px-4 max-[640px]:py-6"
+      aria-label="三波世代"
+    >
+      <div class="mx-auto max-w-[72rem]">
+        <h2 class="m-0 mb-6 text-[1.2rem] font-bold text-[#1a1a2e]">
+          三個地層，三種抵達
+        </h2>
+        <div class="grid grid-cols-3 gap-5 max-[1024px]:grid-cols-1">
+          {
+            eraEssays.map((essay: any) => (
+              <div class="rounded-xl border border-[#e8e8e8] bg-white p-5">
+                <h3 class="m-0 mb-2 text-[1rem] font-bold text-[#1a1a2e]">
+                  {essay.title}
+                </h3>
+                <p class="m-0 text-[0.88rem] leading-[1.7] text-[#555]">
+                  {essay.text}
+                </p>
+              </div>
+            ))
+          }
+        </div>
+      </div>
     </section>
 
     <!-- ── Legend ──────────────────────────────────────────────────── -->
@@ -207,21 +230,27 @@ const forkDataJSON = JSON.stringify(forkData);
           分歧類型說明
         </h2>
         <div
-          class="grid grid-cols-3 gap-5 max-[1024px]:grid-cols-2 max-[640px]:grid-cols-1 [&_.fg-legend-item>p]:m-0 [&_.fg-legend-item>p]:text-[0.85rem] [&_.fg-legend-item>p]:leading-[1.5] [&_.fg-legend-item>p]:text-[#555] [&_.fg-legend-item]:flex [&_.fg-legend-item]:flex-col [&_.fg-legend-item]:gap-2 [&_.fg-badge]:inline-block [&_.fg-badge]:w-fit [&_.fg-badge]:rounded-full [&_.fg-badge]:border [&_.fg-badge]:px-[0.65rem] [&_.fg-badge]:py-1 [&_.fg-badge]:text-[0.78rem] [&_.fg-badge]:font-semibold"
+          class="grid grid-cols-3 gap-5 max-[1024px]:grid-cols-2 max-[640px]:grid-cols-1 [&_.fg-legend-item>p]:m-0 [&_.fg-legend-item>p]:text-[0.85rem] [&_.fg-legend-item>p]:leading-[1.5] [&_.fg-legend-item>p]:text-[#555] [&_.fg-legend-item]:flex [&_.fg-legend-item]:flex-col [&_.fg-legend-item]:gap-2 [&_.fg-badge]:inline-flex [&_.fg-badge]:w-fit [&_.fg-badge]:items-center [&_.fg-badge]:gap-2 [&_.fg-badge]:rounded-full [&_.fg-badge]:border [&_.fg-badge]:px-[0.65rem] [&_.fg-badge]:py-1 [&_.fg-badge]:text-[0.78rem] [&_.fg-badge]:font-semibold"
         >
           <div class="fg-legend-item">
             <span
               class="fg-badge"
               style="background:#e74c3c22;color:#e74c3c;border-color:#e74c3c44"
-              >A 日語遺產</span
+              >A 日語遺產 <span class="opacity-60"
+                >{counts.byTypeLibrary.A ?? 0} 條</span
+              ></span
             >
-            <p>日治時期（1895-1945）引入的日語借詞，台灣保留，中國自創</p>
+            <p>
+              日治時期（1895-1945）引入的日語借詞，台灣保留，中國自創。新世代日源詞（彈幕、佛系）改繞道中國再進台灣
+            </p>
           </div>
           <div class="fg-legend-item">
             <span
               class="fg-badge"
               style="background:#3498db22;color:#3498db;border-color:#3498db44"
-              >B 1949分流</span
+              >B 1949分流 <span class="opacity-60"
+                >{counts.byTypeLibrary.B ?? 0} 條</span
+              ></span
             >
             <p>1949 年兩岸分治後，各自翻譯西方新詞，形成不同譯法</p>
           </div>
@@ -229,15 +258,19 @@ const forkDataJSON = JSON.stringify(forkData);
             <span
               class="fg-badge"
               style="background:#9b59b622;color:#9b59b6;border-color:#9b59b644"
-              >C 網路時代</span
+              >C 網路時代 <span class="opacity-60"
+                >{counts.byTypeLibrary.C ?? 0} 條</span
+              ></span
             >
-            <p>1990-2010 年代網際網路與數位媒體帶來的新詞分歧</p>
+            <p>1990 年代起網際網路、社群平台與短影音帶來的新詞分歧</p>
           </div>
           <div class="fg-legend-item">
             <span
               class="fg-badge"
               style="background:#27ae6022;color:#27ae60;border-color:#27ae6044"
-              >D 台客語底層</span
+              >D 台客語底層 <span class="opacity-60"
+                >{counts.byTypeLibrary.D ?? 0} 條</span
+              ></span
             >
             <p>台語、客語基底影響，形成台灣獨特的華語用詞</p>
           </div>
@@ -245,7 +278,9 @@ const forkDataJSON = JSON.stringify(forkData);
             <span
               class="fg-badge"
               style="background:#f39c1222;color:#f39c12;border-color:#f39c1244"
-              >E 正在分歧</span
+              >E 正在分歧 <span class="opacity-60"
+                >{counts.byTypeLibrary.E ?? 0} 條</span
+              ></span
             >
             <p>近年仍在演變中的詞彙，兩岸用法尚未完全穩定</p>
           </div>
@@ -253,9 +288,13 @@ const forkDataJSON = JSON.stringify(forkData);
             <span
               class="fg-badge"
               style="background:#607d8b22;color:#607d8b;border-color:#607d8b44"
-              >F 同詞不同語感</span
+              >F 同詞不同語感 <span class="opacity-60"
+                >{counts.byTypeLibrary.F ?? 0} 條</span
+              ></span
             >
-            <p>文字相同但語感、語境、情緒色彩在兩岸有所差異</p>
+            <p>
+              文字相同但語感、語境、情緒色彩在兩岸有所差異，最容易被誤判的一類
+            </p>
           </div>
         </div>
       </div>
@@ -272,7 +311,12 @@ const forkDataJSON = JSON.stringify(forkData);
           <a
             href="/terminology"
             class="py-[0.3rem] text-[0.9rem] text-white/75 no-underline transition-colors duration-150 hover:text-white hover:underline"
-            >← 返回用語保存計畫</a
+            >← 瀏覽全部 {counts.libraryTotal.toLocaleString()} 條詞庫</a
+          >
+          <a
+            href="/terminology/converter"
+            class="py-[0.3rem] text-[0.9rem] text-white/75 no-underline transition-colors duration-150 hover:text-white hover:underline"
+            >🔄 用語轉換器</a
           >
           <a
             href="/contribute"
@@ -304,19 +348,22 @@ const forkDataJSON = JSON.stringify(forkData);
       document.head.appendChild(s);
     }
 
+    // tooltip pin 狀態（click/tap 固定，才能點「查看詞條」連結）
+    let pinned = false;
+
     function drawGraph() {
       const d3 = window.d3;
-      const wrap = document.querySelector('.fork-graph-wrap');
+      const wrap = document.getElementById('fork-graph-wrap');
       const svg = d3.select('#fork-graph-svg');
       if (!wrap || svg.empty()) return;
 
-      const ROW_H = 56;
+      const ROW_H = 48;
       const PAD_T = 30;
       const PAD_B = 36;
       const PAD_L = 20;
       const PAD_R = 20;
-      const LABEL_W = 130; // origin label width
-      const RESULT_W = 100; // result label area
+      const LABEL_W = 150; // origin label width
+      const RESULT_W = 110; // result label area
 
       const totalW = Math.max(wrap.clientWidth, 680);
       const graphW = totalW - PAD_L - PAD_R - LABEL_W - RESULT_W;
@@ -324,7 +371,6 @@ const forkDataJSON = JSON.stringify(forkData);
 
       svg.attr('width', totalW).attr('height', totalH);
 
-      // Time scale
       const minYear = 1890;
       const maxYear = 2030;
       const xScale = d3
@@ -332,14 +378,11 @@ const forkDataJSON = JSON.stringify(forkData);
         .domain([minYear, maxYear])
         .range([LABEL_W + PAD_L, LABEL_W + PAD_L + graphW]);
 
-      // Axis years
       const axisTicks = [1895, 1945, 1949, 1980, 2000, 2010, 2026];
 
-      // Clear
       svg.selectAll('*').remove();
       const g = svg.append('g');
 
-      // ── Grid lines (vertical) ──────────────────────────────────────────
       axisTicks.forEach((yr) => {
         g.append('line')
           .attr('x1', xScale(yr))
@@ -351,7 +394,6 @@ const forkDataJSON = JSON.stringify(forkData);
           .attr('stroke-dasharray', '4,3');
       });
 
-      // ── Time axis labels ──────────────────────────────────────────────
       axisTicks.forEach((yr) => {
         g.append('text')
           .attr('x', xScale(yr))
@@ -362,20 +404,20 @@ const forkDataJSON = JSON.stringify(forkData);
           .text(yr);
       });
 
-      // ── Per-row drawing ───────────────────────────────────────────────
       const tooltip = document.getElementById('fork-tooltip');
 
-      function showTip(html, event) {
+      function showTip(html, event, pin) {
         if (!tooltip) return;
         tooltip.innerHTML = html;
         tooltip.classList.add('visible');
+        if (pin) tooltip.classList.add('pinned');
         tooltip.setAttribute('aria-hidden', 'false');
         moveTip(event);
       }
       function moveTip(event) {
-        if (!tooltip) return;
-        const ttW = 270,
-          ttH = 90;
+        if (!tooltip || pinned) return;
+        const ttW = 290,
+          ttH = 110;
         let x = event.clientX + 14;
         let y = event.clientY - 14;
         if (x + ttW > window.innerWidth) x = event.clientX - ttW - 14;
@@ -383,11 +425,21 @@ const forkDataJSON = JSON.stringify(forkData);
         tooltip.style.left = x + 'px';
         tooltip.style.top = y + 'px';
       }
-      function hideTip() {
+      function hideTip(force) {
         if (!tooltip) return;
-        tooltip.classList.remove('visible');
+        if (pinned && !force) return;
+        pinned = false;
+        tooltip.classList.remove('visible', 'pinned');
         tooltip.setAttribute('aria-hidden', 'true');
       }
+
+      // 點空白處關閉 pinned tooltip
+      document.addEventListener('click', (event) => {
+        if (!pinned) return;
+        if (tooltip.contains(event.target)) return;
+        if (event.target.tagName === 'circle') return;
+        hideTip(true);
+      });
 
       forkData.forEach((d, i) => {
         const cy = PAD_T + i * ROW_H + ROW_H / 2;
@@ -397,22 +449,28 @@ const forkDataJSON = JSON.stringify(forkData);
 
         const twColor = '#e74c3c';
         const cnColor = '#3498db';
-        const originColor = '#888';
+        const typeColor =
+          {
+            A: '#e74c3c',
+            B: '#3498db',
+            C: '#9b59b6',
+            D: '#27ae60',
+            E: '#f39c12',
+            F: '#607d8b',
+          }[d.type] || '#888';
 
         const row = g.append('g').attr('class', 'fork-row');
 
-        // ── horizontal stem: origin → fork ──────────────────────────
         row
           .append('line')
           .attr('x1', originX)
           .attr('x2', forkX)
           .attr('y1', cy)
           .attr('y2', cy)
-          .attr('stroke', originColor)
+          .attr('stroke', '#999')
           .attr('stroke-width', 2);
 
-        // ── Taiwan branch: fork → end (upper) ───────────────────────
-        const twY = cy - 14;
+        const twY = cy - 12;
         const twPath = `M${forkX},${cy} C${forkX + 28},${cy} ${forkX + 35},${twY} ${forkX + 50},${twY} L${endX},${twY}`;
         row
           .append('path')
@@ -422,13 +480,12 @@ const forkDataJSON = JSON.stringify(forkData);
           .attr('stroke-width', 2)
           .style('opacity', 0)
           .transition()
-          .delay(i * 80)
-          .duration(600)
+          .delay(i * 40)
+          .duration(500)
           .ease(d3.easeCubicOut)
           .style('opacity', 1);
 
-        // ── China branch: fork → end (lower, or inline for type E) ──
-        const cnY = cy + 14;
+        const cnY = cy + 12;
         const cnPath = `M${forkX},${cy} C${forkX + 28},${cy} ${forkX + 35},${cnY} ${forkX + 50},${cnY} L${endX},${cnY}`;
         row
           .append('path')
@@ -438,34 +495,33 @@ const forkDataJSON = JSON.stringify(forkData);
           .attr('stroke-width', 2)
           .style('opacity', 0)
           .transition()
-          .delay(i * 80 + 100)
-          .duration(600)
+          .delay(i * 40 + 80)
+          .duration(500)
           .ease(d3.easeCubicOut)
           .style('opacity', 1);
 
-        // ── Origin node ───────────────────────────────────────────────
-        const originNode = row
-          .append('circle')
-          .attr('cx', originX)
-          .attr('cy', cy)
-          .attr('r', 5)
-          .attr('fill', originColor)
-          .attr('stroke', '#fff')
-          .attr('stroke-width', 1.5)
-          .style('cursor', 'pointer');
-
-        // ── Fork point node ───────────────────────────────────────────
-        const forkNode = row
+        // type 色點：分歧點左側小標記
+        row
           .append('circle')
           .attr('cx', forkX)
           .attr('cy', cy)
           .attr('r', 7)
           .attr('fill', '#fff')
-          .attr('stroke', '#888')
-          .attr('stroke-width', 2)
+          .attr('stroke', typeColor)
+          .attr('stroke-width', 2.5)
+          .style('cursor', 'pointer')
+          .attr('data-term', d.id);
+
+        const originNode = row
+          .append('circle')
+          .attr('cx', originX)
+          .attr('cy', cy)
+          .attr('r', 5)
+          .attr('fill', '#888')
+          .attr('stroke', '#fff')
+          .attr('stroke-width', 1.5)
           .style('cursor', 'pointer');
 
-        // ── Taiwan end node ───────────────────────────────────────────
         row
           .append('circle')
           .attr('cx', endX)
@@ -475,13 +531,13 @@ const forkDataJSON = JSON.stringify(forkData);
           .attr('stroke', '#fff')
           .attr('stroke-width', 1.5)
           .style('cursor', 'pointer')
+          .attr('data-term', d.id)
           .style('opacity', 0)
           .transition()
-          .delay(i * 80 + 600)
+          .delay(i * 40 + 500)
           .duration(200)
           .style('opacity', 1);
 
-        // ── China end node ────────────────────────────────────────────
         row
           .append('circle')
           .attr('cx', endX)
@@ -491,22 +547,21 @@ const forkDataJSON = JSON.stringify(forkData);
           .attr('stroke', '#fff')
           .attr('stroke-width', 1.5)
           .style('cursor', 'pointer')
+          .attr('data-term', d.id)
           .style('opacity', 0)
           .transition()
-          .delay(i * 80 + 700)
+          .delay(i * 40 + 580)
           .duration(200)
           .style('opacity', 1);
 
-        // ── Origin label (left side) ──────────────────────────────────
         g.append('text')
           .attr('x', PAD_L + 6)
           .attr('y', cy + 4)
           .attr('font-size', 11)
           .attr('fill', '#999')
           .attr('font-family', 'system-ui, sans-serif')
-          .text(d.origin.length > 10 ? d.origin.slice(0, 10) + '…' : d.origin);
+          .text(d.origin.length > 12 ? d.origin.slice(0, 12) + '…' : d.origin);
 
-        // ── Taiwan result label (right side) ─────────────────────────
         g.append('text')
           .attr('x', endX + 10)
           .attr('y', twY + 4)
@@ -514,9 +569,8 @@ const forkDataJSON = JSON.stringify(forkData);
           .attr('fill', twColor)
           .attr('font-weight', '600')
           .attr('font-family', 'system-ui, sans-serif')
-          .text(d.taiwan);
+          .text(d.taiwan.length > 8 ? d.taiwan.slice(0, 8) + '…' : d.taiwan);
 
-        // ── China result label (right side) ──────────────────────────
         g.append('text')
           .attr('x', endX + 10)
           .attr('y', cnY + 4)
@@ -526,31 +580,41 @@ const forkDataJSON = JSON.stringify(forkData);
           .attr('font-family', 'system-ui, sans-serif')
           .text(d.china.length > 8 ? d.china.slice(0, 8) + '…' : d.china);
 
-        // ── Tooltip interactions ──────────────────────────────────────
-        const originHtml = `<strong>詞源</strong>${d.origin}<br><span style="opacity:.7;font-size:.78rem">起源：${d.originYear}年代</span>`;
-        const nodeHtml = `<strong>${d.taiwan} / ${d.china}</strong>${d.note}<br><span style="opacity:.7;font-size:.78rem">分歧：${d.forkYear}年 · 類型 ${d.type}</span>`;
+        const linkHtml = d.hasPage
+          ? `<a href="/terminology/${encodeURIComponent(d.id)}">查看詞條 →</a>`
+          : '';
+        const originHtml = `<strong>詞源：${d.origin}</strong><span style="opacity:.7;font-size:.78rem">起源：${d.originYear} 年代</span>`;
+        const nodeHtml = `<strong>${d.taiwan} / ${d.china}</strong>${d.note}<br><span style="opacity:.7;font-size:.78rem">分歧：約 ${d.forkYear} 年 · ${d.type} 型</span><br>${linkHtml}`;
+
+        // hover 預覽 + click/tap pin（pin 後可點連結）
+        row
+          .selectAll('circle[data-term]')
+          .on('mousemove', (event) => {
+            if (pinned) return;
+            showTip(nodeHtml, event, false);
+          })
+          .on('mouseleave', () => hideTip(false))
+          .on('click', (event) => {
+            event.stopPropagation();
+            pinned = false;
+            showTip(nodeHtml, event, true);
+            pinned = true;
+          });
 
         originNode
           .on('mousemove', (event) => {
-            showTip(originHtml, event);
-            moveTip(event);
+            if (pinned) return;
+            showTip(originHtml, event, false);
           })
-          .on('mouseleave', hideTip);
-        forkNode
-          .on('mousemove', (event) => {
-            showTip(nodeHtml, event);
-            moveTip(event);
-          })
-          .on('mouseleave', hideTip);
+          .on('mouseleave', () => hideTip(false));
       });
 
-      // SVG mousemove delegation
       svg.on('mousemove', (event) => {
+        if (pinned) return;
         const target = event.target;
         if (target.tagName === 'circle') moveTip(event);
       });
 
-      // Row separator lines
       forkData.forEach((d, i) => {
         if (i === 0) return;
         const lineY = PAD_T + i * ROW_H;
@@ -564,18 +628,36 @@ const forkDataJSON = JSON.stringify(forkData);
       });
     }
 
-    // Init on load
     if (document.readyState === 'loading') {
       document.addEventListener('DOMContentLoaded', () => loadD3(drawGraph));
     } else {
       loadD3(drawGraph);
     }
 
-    // Redraw on resize
     let resizeTimer;
     window.addEventListener('resize', () => {
       clearTimeout(resizeTimer);
       resizeTimer = setTimeout(drawGraph, 200);
+    });
+
+    // ── 分歧密度：decade 展開 ──────────────────────────────────────────────
+    document.querySelectorAll('.fg-decade').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const dec = btn.getAttribute('data-decade');
+        const panel = document.querySelector(`[data-decade-panel="${dec}"]`);
+        if (!panel) return;
+        const isOpen = !panel.classList.contains('hidden');
+        document
+          .querySelectorAll('.fg-decade-terms')
+          .forEach((p) => p.classList.add('hidden'));
+        document
+          .querySelectorAll('.fg-decade')
+          .forEach((b) => b.setAttribute('aria-expanded', 'false'));
+        if (!isOpen) {
+          panel.classList.remove('hidden');
+          btn.setAttribute('aria-expanded', 'true');
+        }
+      });
     });
   })();
 </script>
