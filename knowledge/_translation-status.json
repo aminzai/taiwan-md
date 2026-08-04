@@ -1,8 +1,8 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T16:42:26+08:00",
-    "zhCommitHead": "b42e10e82",
-    "totalZh": 882,
+    "lastUpdated": "2026-08-04T16:58:45+08:00",
+    "zhCommitHead": "a5d7223e2",
+    "totalZh": 881,
     "activeLanguages": [
       "en",
       "ja",
@@ -18,91 +18,91 @@
     ],
     "summary": {
       "en": {
-        "total_zh": 882,
-        "fresh": 816,
+        "total_zh": 881,
+        "fresh": 820,
         "stale": 23,
-        "metadata_stale": 24,
-        "missing": 19,
+        "metadata_stale": 20,
+        "missing": 18,
         "orphan": 0
       },
       "ja": {
-        "total_zh": 882,
-        "fresh": 793,
+        "total_zh": 881,
+        "fresh": 795,
         "stale": 14,
-        "metadata_stale": 59,
-        "missing": 16,
+        "metadata_stale": 57,
+        "missing": 15,
         "orphan": 0
       },
       "ko": {
-        "total_zh": 882,
-        "fresh": 830,
+        "total_zh": 881,
+        "fresh": 833,
         "stale": 12,
-        "metadata_stale": 26,
-        "missing": 14,
-        "orphan": 0
-      },
-      "es": {
-        "total_zh": 882,
-        "fresh": 827,
-        "stale": 17,
-        "metadata_stale": 24,
-        "missing": 14,
-        "orphan": 0
-      },
-      "fr": {
-        "total_zh": 882,
-        "fresh": 825,
-        "stale": 17,
-        "metadata_stale": 27,
+        "metadata_stale": 23,
         "missing": 13,
         "orphan": 0
       },
+      "es": {
+        "total_zh": 881,
+        "fresh": 829,
+        "stale": 17,
+        "metadata_stale": 22,
+        "missing": 13,
+        "orphan": 0
+      },
+      "fr": {
+        "total_zh": 881,
+        "fresh": 827,
+        "stale": 17,
+        "metadata_stale": 25,
+        "missing": 12,
+        "orphan": 0
+      },
       "vi": {
-        "total_zh": 882,
+        "total_zh": 881,
         "fresh": 356,
         "stale": 30,
         "metadata_stale": 69,
-        "missing": 427,
+        "missing": 426,
         "orphan": 0
       },
       "id": {
-        "total_zh": 882,
-        "fresh": 470,
+        "total_zh": 881,
+        "fresh": 471,
         "stale": 3,
-        "metadata_stale": 56,
-        "missing": 353,
+        "metadata_stale": 55,
+        "missing": 352,
         "orphan": 0
       },
       "pt": {
-        "total_zh": 882,
-        "fresh": 750,
+        "total_zh": 881,
+        "fresh": 752,
         "stale": 9,
-        "metadata_stale": 63,
-        "missing": 60,
+        "metadata_stale": 61,
+        "missing": 59,
         "orphan": 0
       },
       "hi": {
-        "total_zh": 882,
-        "fresh": 565,
+        "total_zh": 881,
+        "fresh": 568,
         "stale": 3,
-        "metadata_stale": 62,
-        "missing": 252,
+        "metadata_stale": 59,
+        "missing": 251,
         "orphan": 0
       },
       "ar": {
-        "total_zh": 882,
-        "fresh": 646,
+        "total_zh": 881,
+        "fresh": 647,
         "stale": 3,
-        "metadata_stale": 65,
-        "missing": 168,
+        "metadata_stale": 64,
+        "missing": 167,
         "orphan": 0
       },
       "ru": {
-        "total_zh": 882,
-        "fresh": 672,
-        "stale": 4,
-        "metadata_stale": 63,
-        "missing": 143,
+        "total_zh": 881,
+        "fresh": 675,
+        "stale": 3,
+        "metadata_stale": 61,
+        "missing": 142,
         "orphan": 0
       }
     },
@@ -7369,8 +7369,8 @@
           "sourceContentHash": "sha256:275d7b3ee56db82a",
           "sourceBodyHash": "sha256:58739438cbba3247",
           "translatedAt": "2026-08-04T14:12:36+08:00",
-          "translationLastCommit": "a5baf3a6",
-          "translationLastModified": "2026-07-29T13:05:14+08:00",
+          "translationLastCommit": "a5d7223e",
+          "translationLastModified": "2026-08-04T16:42:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -9238,8 +9238,8 @@
           "sourceContentHash": "sha256:917f1503c2ff61d8",
           "sourceBodyHash": "sha256:8336e4cef45a1444",
           "translatedAt": "2026-08-04T14:12:36+08:00",
-          "translationLastCommit": "915e336c",
-          "translationLastModified": "2026-07-27T18:28:34+08:00",
+          "translationLastCommit": "a5d7223e",
+          "translationLastModified": "2026-08-04T16:42:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -11399,8 +11399,8 @@
           "sourceContentHash": "sha256:8bed402beaecae31",
           "sourceBodyHash": "sha256:97f9ec5722ee27b9",
           "translatedAt": "2026-08-04T14:12:36+08:00",
-          "translationLastCommit": "915e336c",
-          "translationLastModified": "2026-07-27T18:28:34+08:00",
+          "translationLastCommit": "a5d7223e",
+          "translationLastModified": "2026-08-04T16:42:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -15241,8 +15241,8 @@
           "sourceContentHash": "sha256:bc36a1af91d28cb5",
           "sourceBodyHash": "sha256:9d1ac9fec38fa5d4",
           "translatedAt": "2026-08-04T14:12:36+08:00",
-          "translationLastCommit": "c6c05d5b",
-          "translationLastModified": "2026-07-26T01:40:30+08:00",
+          "translationLastCommit": "a5d7223e",
+          "translationLastModified": "2026-08-04T16:42:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -17420,8 +17420,8 @@
           "sourceContentHash": "sha256:692543a60baf3299",
           "sourceBodyHash": "sha256:bb5064886298647d",
           "translatedAt": "2026-08-04T14:12:36+08:00",
-          "translationLastCommit": "915e336c",
-          "translationLastModified": "2026-07-27T18:28:34+08:00",
+          "translationLastCommit": "a5d7223e",
+          "translationLastModified": "2026-08-04T16:42:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -25118,34 +25118,30 @@
         "pt": {
           "path": "pt/Art/taiwanese-modern-poetry.md",
           "translatedFrom": "Art/台灣現代詩.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:76772688d61c205f",
           "sourceBodyHash": "sha256:444e69e75502ca5e",
-          "translatedAt": "2026-07-25T15:39:18+08:00",
+          "translatedAt": "2026-08-04T14:12:36+08:00",
           "translationLastCommit": "6c1bc16f",
           "translationLastModified": "2026-07-25T17:52:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Art/taiwanese-modern-poetry.md",
           "translatedFrom": "Art/台灣現代詩.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:76772688d61c205f",
           "sourceBodyHash": "sha256:444e69e75502ca5e",
-          "translatedAt": "2026-07-26T07:02:09+08:00",
+          "translatedAt": "2026-08-04T14:12:37+08:00",
           "translationLastCommit": "7a670e06",
           "translationLastModified": "2026-07-26T08:49:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Art/taiwanese-modern-poetry.md",
@@ -25166,18 +25162,16 @@
         "ru": {
           "path": "ru/Art/taiwanese-modern-poetry.md",
           "translatedFrom": "Art/台灣現代詩.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:76772688d61c205f",
           "sourceBodyHash": "sha256:444e69e75502ca5e",
-          "translatedAt": "2026-07-26T00:17:01+08:00",
+          "translatedAt": "2026-08-04T14:12:38+08:00",
           "translationLastCommit": "fab47683",
           "translationLastModified": "2026-07-26T01:25:00+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -25770,8 +25764,8 @@
           "sourceContentHash": "sha256:a569386269241d61",
           "sourceBodyHash": "sha256:7b9ca7167bf3d12a",
           "translatedAt": "2026-08-04T14:12:36+08:00",
-          "translationLastCommit": "beb66999",
-          "translationLastModified": "2026-07-27T19:05:03+08:00",
+          "translationLastCommit": "a5d7223e",
+          "translationLastModified": "2026-08-04T16:42:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -27116,8 +27110,8 @@
           "sourceContentHash": "sha256:10e53513cef6450a",
           "sourceBodyHash": "sha256:c5c8b0370d628478",
           "translatedAt": "2026-08-04T14:12:36+08:00",
-          "translationLastCommit": "f8fe84f7",
-          "translationLastModified": "2026-07-28T09:37:35+08:00",
+          "translationLastCommit": "a5d7223e",
+          "translationLastModified": "2026-08-04T16:42:30+08:00",
           "inferred": false,
           "footnoteDefs": 12,
           "status": "fresh",
@@ -30868,18 +30862,16 @@
         "ja": {
           "path": "ja/Lifestyle/bowling.md",
           "translatedFrom": "Lifestyle/保齡球.md",
-          "sourceCommitSha": "c212e14db",
-          "sourceContentHash": "sha256:867b46c37c755d29",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:f310a917a5ec92ad",
           "sourceBodyHash": "sha256:9b87440ff4268438",
-          "translatedAt": "2026-06-28T00:38:05+08:00",
+          "translatedAt": "2026-08-04T14:12:35+08:00",
           "translationLastCommit": "c27f6f51",
           "translationLastModified": "2026-06-28T00:44:37+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "ko": {
           "path": "ko/Lifestyle/bowling.md",
@@ -30956,34 +30948,30 @@
         "pt": {
           "path": "pt/Lifestyle/bowling.md",
           "translatedFrom": "Lifestyle/保齡球.md",
-          "sourceCommitSha": "c212e14db",
-          "sourceContentHash": "sha256:867b46c37c755d29",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:f310a917a5ec92ad",
           "sourceBodyHash": "sha256:9b87440ff4268438",
-          "translatedAt": "2026-07-28T17:22:19+08:00",
+          "translatedAt": "2026-08-04T14:12:36+08:00",
           "translationLastCommit": "caea4fab",
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "hi": {
           "path": "hi/Lifestyle/bowling.md",
           "translatedFrom": "Lifestyle/保齡球.md",
-          "sourceCommitSha": "c212e14db",
-          "sourceContentHash": "sha256:867b46c37c755d29",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:f310a917a5ec92ad",
           "sourceBodyHash": "sha256:9b87440ff4268438",
-          "translatedAt": "2026-07-29T02:35:15+08:00",
+          "translatedAt": "2026-08-04T14:12:37+08:00",
           "translationLastCommit": "f5e46ef8",
           "translationLastModified": "2026-07-29T03:35:40+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "ar": {
           "path": "ar/Lifestyle/bowling.md",
@@ -31004,18 +30992,16 @@
         "ru": {
           "path": "ru/Lifestyle/bowling.md",
           "translatedFrom": "Lifestyle/保齡球.md",
-          "sourceCommitSha": "c212e14db",
-          "sourceContentHash": "sha256:1bc70564b7c5ac4e",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-07-28T21:18:19.106047+00:00",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:f310a917a5ec92ad",
+          "sourceBodyHash": "sha256:9b87440ff4268438",
+          "translatedAt": "2026-08-04T08:43:07.785027+00:00",
           "translationLastCommit": "e04606de",
           "translationLastModified": "2026-07-29T05:30:53+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "stale",
-          "reason": "zh-moved-forward",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
@@ -31981,8 +31967,8 @@
           "sourceContentHash": "sha256:692a1090832374e5",
           "sourceBodyHash": "sha256:258baccfb653bebb",
           "translatedAt": "2026-08-04T14:12:36+08:00",
-          "translationLastCommit": "f13b0990",
-          "translationLastModified": "2026-07-25T12:39:12+08:00",
+          "translationLastCommit": "a5d7223e",
+          "translationLastModified": "2026-08-04T16:42:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -32313,49 +32299,6 @@
         "lastModified": "2026-08-04T14:37:09+08:00",
         "contentHash": "sha256:76dffd172486f9a9",
         "bodyHash": "sha256:7abf227d191df077"
-      },
-      "translations": {
-        "en": {
-          "status": "missing"
-        },
-        "ja": {
-          "status": "missing"
-        },
-        "ko": {
-          "status": "missing"
-        },
-        "es": {
-          "status": "missing"
-        },
-        "fr": {
-          "status": "missing"
-        },
-        "vi": {
-          "status": "missing"
-        },
-        "id": {
-          "status": "missing"
-        },
-        "pt": {
-          "status": "missing"
-        },
-        "hi": {
-          "status": "missing"
-        },
-        "ar": {
-          "status": "missing"
-        },
-        "ru": {
-          "status": "missing"
-        }
-      }
-    },
-    "Lifestyle/台灣行道樹.md": {
-      "zh": {
-        "lastCommit": "",
-        "lastModified": "",
-        "contentHash": "sha256:69c57430886b1715",
-        "bodyHash": "sha256:1b75a7e8fd68ea89"
       },
       "translations": {
         "en": {
@@ -32735,18 +32678,16 @@
         "ja": {
           "path": "ja/Lifestyle/taiwan-arcade-culture-and-streetscapes.md",
           "translatedFrom": "Lifestyle/台灣騎樓文化與街景.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:2b233a45daf622e6",
           "sourceBodyHash": "sha256:8f231aa6641c39c8",
-          "translatedAt": "2026-05-01T18:09:43+08:00",
+          "translatedAt": "2026-08-04T14:12:35+08:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/Lifestyle/taiwan-arcade-culture-and-streetscapes.md",
@@ -32827,8 +32768,8 @@
           "sourceContentHash": "sha256:2b233a45daf622e6",
           "sourceBodyHash": "sha256:8f231aa6641c39c8",
           "translatedAt": "2026-08-04T14:12:36+08:00",
-          "translationLastCommit": "915e336c",
-          "translationLastModified": "2026-07-27T18:28:34+08:00",
+          "translationLastCommit": "a5d7223e",
+          "translationLastModified": "2026-08-04T16:42:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -32837,34 +32778,30 @@
         "hi": {
           "path": "hi/Lifestyle/taiwan-arcade-culture-and-streetscapes.md",
           "translatedFrom": "Lifestyle/台灣騎樓文化與街景.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:2b233a45daf622e6",
           "sourceBodyHash": "sha256:8f231aa6641c39c8",
-          "translatedAt": "2026-07-25T19:27:04+08:00",
+          "translatedAt": "2026-08-04T14:12:37+08:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/Lifestyle/taiwan-arcade-culture-and-streetscapes.md",
           "translatedFrom": "Lifestyle/台灣騎樓文化與街景.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:2b233a45daf622e6",
           "sourceBodyHash": "sha256:8f231aa6641c39c8",
-          "translatedAt": "2026-07-26T00:16:59+08:00",
+          "translatedAt": "2026-08-04T14:12:38+08:00",
           "translationLastCommit": "15c618a2",
           "translationLastModified": "2026-07-26T02:31:14+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/taiwan-arcade-culture-and-streetscapes.md",
@@ -33957,8 +33894,8 @@
           "sourceContentHash": "sha256:93955fe44e7691af",
           "sourceBodyHash": "sha256:08eacf8247ffcb10",
           "translatedAt": "2026-08-04T14:12:36+08:00",
-          "translationLastCommit": "bdfcc0f9",
-          "translationLastModified": "2026-07-28T04:07:59+08:00",
+          "translationLastCommit": "a5d7223e",
+          "translationLastModified": "2026-08-04T16:42:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -44538,8 +44475,8 @@
           "sourceContentHash": "sha256:8a4d3295bf443494",
           "sourceBodyHash": "sha256:be2327c5c3e0748e",
           "translatedAt": "2026-08-04T14:12:36+08:00",
-          "translationLastCommit": "f9c878b4",
-          "translationLastModified": "2026-07-25T11:19:47+08:00",
+          "translationLastCommit": "a5d7223e",
+          "translationLastModified": "2026-08-04T16:42:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -50622,8 +50559,8 @@
           "sourceContentHash": "sha256:5ce21d3d3c3acbd6",
           "sourceBodyHash": "sha256:11166779b46079e7",
           "translatedAt": "2026-08-04T14:12:36+08:00",
-          "translationLastCommit": "a5baf3a6",
-          "translationLastModified": "2026-07-29T13:05:14+08:00",
+          "translationLastCommit": "a5d7223e",
+          "translationLastModified": "2026-08-04T16:42:30+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -63791,18 +63728,16 @@
         "id": {
           "path": "id/People/george-leslie-mackay.md",
           "translatedFrom": "People/馬偕.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:b7d6932f284b6cf0",
           "sourceBodyHash": "sha256:d3315bfee0561cb1",
-          "translatedAt": "2026-07-25T17:25:33+08:00",
+          "translatedAt": "2026-08-04T14:12:35+08:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/george-leslie-mackay.md",
@@ -63855,18 +63790,16 @@
         "ru": {
           "path": "ru/People/george-leslie-mackay.md",
           "translatedFrom": "People/馬偕.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:b7d6932f284b6cf0",
           "sourceBodyHash": "sha256:d3315bfee0561cb1",
-          "translatedAt": "2026-07-25T19:27:08+08:00",
+          "translatedAt": "2026-08-04T14:12:38+08:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -109176,18 +109109,16 @@
         "en": {
           "path": "en/History/disney-and-taiwan.md",
           "translatedFrom": "History/迪士尼.md",
-          "sourceCommitSha": "154c45e8",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:5cc3c5f96a34e51e",
           "sourceBodyHash": "sha256:ad7b91e555067f88",
-          "translatedAt": "2026-06-27T00:54:18+08:00",
+          "translatedAt": "2026-08-04T16:42:08+08:00",
           "translationLastCommit": "df411148",
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/History/disney-and-taiwan.md",
@@ -109240,18 +109171,16 @@
         "fr": {
           "path": "fr/History/disney-and-taiwan.md",
           "translatedFrom": "History/迪士尼.md",
-          "sourceCommitSha": "154c45e8b",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:5cc3c5f96a34e51e",
           "sourceBodyHash": "sha256:ad7b91e555067f88",
-          "translatedAt": "2026-07-26T08:13:11+08:00",
+          "translatedAt": "2026-08-04T16:42:08+08:00",
           "translationLastCommit": "df411148",
           "translationLastModified": "2026-07-27T10:57:42+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/History/disney-and-taiwan.md",
@@ -111225,18 +111154,16 @@
         "en": {
           "path": "en/Geography/tadian-mountain.md",
           "translatedFrom": "Geography/漯底山.md",
-          "sourceCommitSha": "f99a9959",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:2cef849f8ebc6df7",
           "sourceBodyHash": "sha256:a56d3c9283c22ceb",
-          "translatedAt": "2026-04-14T12:25:09+08:00",
+          "translatedAt": "2026-08-04T16:42:08+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/tadian-mountain.md",
@@ -111257,50 +111184,44 @@
         "ko": {
           "path": "ko/Geography/tadian-mountain.md",
           "translatedFrom": "Geography/漯底山.md",
-          "sourceCommitSha": "f99a9959",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:2cef849f8ebc6df7",
           "sourceBodyHash": "sha256:a56d3c9283c22ceb",
-          "translatedAt": "2026-04-14T19:23:57+08:00",
+          "translatedAt": "2026-08-04T16:42:09+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/tadian-mountain.md",
           "translatedFrom": "Geography/漯底山.md",
-          "sourceCommitSha": "f99a9959",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:2cef849f8ebc6df7",
           "sourceBodyHash": "sha256:a56d3c9283c22ceb",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "translatedAt": "2026-08-04T16:42:08+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/tadian-mountain.md",
           "translatedFrom": "Geography/漯底山.md",
-          "sourceCommitSha": "f99a9959",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:2cef849f8ebc6df7",
           "sourceBodyHash": "sha256:a56d3c9283c22ceb",
-          "translatedAt": "2026-04-15T17:34:06+08:00",
+          "translatedAt": "2026-08-04T16:42:08+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Geography/tadian-mountain.md",
@@ -112110,18 +112031,16 @@
         "en": {
           "path": "en/Geography/wuqiu.md",
           "translatedFrom": "Geography/烏坵.md",
-          "sourceCommitSha": "bce742694",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:2935ce10538c2b78",
           "sourceBodyHash": "sha256:79946e3edca12d9c",
-          "translatedAt": "2026-06-27T00:54:18+08:00",
+          "translatedAt": "2026-08-04T16:51:51+08:00",
           "translationLastCommit": "cbf4f232",
           "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/wuqiu.md",
@@ -112142,34 +112061,30 @@
         "ko": {
           "path": "ko/Geography/wuqiu.md",
           "translatedFrom": "Geography/烏坵.md",
-          "sourceCommitSha": "bce742694",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:2935ce10538c2b78",
           "sourceBodyHash": "sha256:79946e3edca12d9c",
-          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translatedAt": "2026-08-04T16:42:09+08:00",
           "translationLastCommit": "cbf4f232",
           "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Geography/wuqiu.md",
           "translatedFrom": "Geography/烏坵.md",
-          "sourceCommitSha": "bce742694",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:2935ce10538c2b78",
           "sourceBodyHash": "sha256:79946e3edca12d9c",
-          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translatedAt": "2026-08-04T16:51:51+08:00",
           "translationLastCommit": "cbf4f232",
           "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 12,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Geography/wuqiu.md",
@@ -115845,18 +115760,16 @@
         "en": {
           "path": "en/Geography/taiwan-coastal-landforms-and-seascapes.md",
           "translatedFrom": "Geography/台灣海岸地形與海洋地景.md",
-          "sourceCommitSha": "e14a15296",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:9ce361db9a5c3b1a",
           "sourceBodyHash": "sha256:39bde765a3b7a746",
-          "translatedAt": "2026-07-29T03:36:21+08:00",
+          "translatedAt": "2026-08-04T16:51:51+08:00",
           "translationLastCommit": "adc69a2f",
           "translationLastModified": "2026-07-29T04:32:17+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Geography/taiwan-coastal-landforms-and-seascapes.md",
@@ -120924,18 +120837,16 @@
         "ko": {
           "path": "ko/Culture/manyue-month-old-baby-celebration.md",
           "translatedFrom": "Culture/滿月習俗.md",
-          "sourceCommitSha": "8f7ec7d5a",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:071279c0b606b84b",
           "sourceBodyHash": "sha256:1d9b4f6d77ed0f1e",
-          "translatedAt": "2026-06-27T00:54:19+08:00",
+          "translatedAt": "2026-08-04T16:51:51+08:00",
           "translationLastCommit": "cbf4f232",
           "translationLastModified": "2026-06-27T01:01:24+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Culture/manyue-month-old-baby-celebration.md",

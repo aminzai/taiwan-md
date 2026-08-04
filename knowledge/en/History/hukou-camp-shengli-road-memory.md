@@ -1,14 +1,15 @@
 ---
-title: 'Two Sides of Shengli Road: Hukou Memories from the Armored Corps Coup to the "Big Parking Lot"'
-description: 'On Shengli Road in Hukou, Hsinchu, one side of the camp wall held tanks and political storms, while the other held residences, a commissary, and a vanished movie theater. This is a local history of neighborhood, accident, and social justice.'
+title: 'The Two Faces of Shengli Road: From Armored Corps Coup to the "Great Parking Lot" Memories of Hukou'
+description: 'On Shengli Road in Hukou, Hsinchu, one side of the military camp wall holds tanks and political storms, while the other holds residences, cooperatives, and vanished cinemas. This is a local history of neighborhood, accident, and social justice.'
 date: 2026-03-24
+category: 'History'
 tags:
   [
     'Hukou Incident',
-    'Hukou Camp',
+    'Hukou Military Camp',
     'Shengli Road',
     'Hung Chung-chiu Case',
-    'Starlight Troops',
+    'Starlight Squadron',
     'Local Memory',
   ]
 subcategory: '軍事歷史'
@@ -17,44 +18,44 @@ readingTime: 12
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
+curation: 'incubating'
 translatedFrom: 'History/湖口營區與勝利路記憶.md'
-sourceCommitSha: 'f99a9959'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:24a72a8ef4ad1c70'
 sourceBodyHash: 'sha256:67689aef546b2c21'
-translatedAt: '2026-05-02T02:50:54+08:00'
-category: History
+translatedAt: '2026-08-04T16:11:28+08:00'
 ---
 
-# Two Sides of Shengli Road: Hukou Memories from the Armored Corps Coup to the "Big Parking Lot"
+# The Two Faces of Shengli Road: From Armored Corps Coup to the "Great Parking Lot" Memories of Hukou
 
-On January 21, 1964, when Deputy Commander Zhao Zhihua of the 1st Armored Division at Hukou drew a pistol on the drill ground and shouted "March north to defend the king," the Shengli Road behind him was still a quiet country lane. The attempted coup, lasting only two hours, made Hukou synonymous with "rebellion" in the eyes of Taipei's high command — but for the people of Hukou on the other side of the wall, this colossal presence had an entirely different face.
+On January 21, 1964, when Zhao Zhihua, Deputy Commander of the 1st Armored Division in Hukou, brandished a pistol on the parade ground and shouted "March North to Protect the King," Shengli Road behind him was still a quiet country lane. This failed coup, which lasted only two decades, caused Hukou to become synonymous with "insurrection" in the eyes of Taipei's high-level officials; however, to the people of Hukou on the other side of the wall, this behemoth presented a starkly different face.
 
-In those years before material abundance, Hukou Camp was not merely a restricted zone; it was the community's "welfare center."
+In an era when material wealth was not yet abundant, the Hukou Military Camp was more than just a restricted zone; it was the community's "welfare center."
 
-The camp housed a movie theater, a swimming pool, and even a commissary where residents could purchase daily necessities. For the children who grew up there, summer memories were the steam rising from the pool and the military goods at the commissary that were cheaper than outside. The boundary between military and civilian was not an iron wall at the time, but a symbiotic neighborhood relationship.
+At that time, the camp housed a cinema, a swimming pool, and even a cooperative where residents could purchase daily necessities. For children growing up there, summer memories consisted of the humidity of the pool and military goods in the cooperative that were cheaper than those outside. The boundary between military and civilian was not an iron curtain back then, but rather a symbiotic neighborhood relationship.
 
-> 📝 Curator's note: When a military camp becomes a site of everyday consumption, the wall transforms from a political boundary into an extension of neighborhood life.
+> 📝 Curator's Note: When military camps shift toward daily consumption, the perimeter wall transforms from a political boundary into an extension of local community functions.
 
-Yet this "neighbor" also brought violent shocks.
+However, this "neighbor" also brought violent impacts.
 
-Along one side of Shengli Road, the camp wall stood shoulder-to-shoulder with residential homes. Due to a scarcity of parking space, locals jokingly called the strip along the wall the "Shengli Road Big Parking Lot." The landscape here witnessed its most shocking scene in May 2007: an F-5F fighter jet belonging to Singapore's "Starlight Troops" crashed into Hukou Camp during a mission. The massive explosion and towering plumes of smoke remain, to this day, a hair-raising memory recounted by Shengli Road residents over tea.
+Along one side of Shengli Road, the camp walls stand adjacent to residential houses. Due to the scarcity of parking space, locals jokingly refer to the area beside the wall as the "Shengli Road Great Parking Lot." The landscape here experienced its most shocking moment in May 2007: an F-5F fighter jet belonging to Singapore's "Starlight Squadron" crashed into the Hukou Military Camp during a mission. The massive explosion and rising plumes of smoke remain a terrifying memory for Shengli Road residents to this day.
 
-The shockwaves Hukou Camp sent through Taiwanese society reached their peak in 2013.
+The shockwaves the Hukou Military Camp brought to Taiwanese society reached their peak in 2013.
 
-Hung Chung-chiu, a corporal attached to the 542nd Armored Brigade at Hukou, died from improper disciplinary abuse just before his discharge. The tragedy set 250,000 "White Shirt Army" protesters marching down Ketagalan Boulevard and ultimately led to major amendments to the Code of Court Martial Procedure. For the people of Hukou, it was the heaviest shadow cast from within the walls — and it made the name "Shengli" (Victory) Road sound especially ironic in national news coverage.
+Corporal Hung Chung-chiu, belonging to the 542nd Armored Brigade in Hukou, died due to improper discipline on the eve of his discharge. This tragedy prompted 250,000 members of the "White Shirt Army" to march down Ketagalan Boulevard, ultimately leading to major amendments to the _Military Trial Act_. For the people of Hukron, it was the heaviest shadow within the walls, and it made the name "Shengli Road" appear particularly ironic in national news.
 
-> 📝 Curator's note: History left two marks on Hukou: one was the 1964 challenge to power, the other was the 2013 awakening for human rights.
+> 📝 Curator's Note: History has left two traces in Hukou: one is the challenge to power in 1964, and the other is the awakening of human rights in 2013.
 
-Walking down Shengli Road today, the movie theater and swimming pool have long vanished into the dust of history. In the early 2000s, when President Chen Shui-bian personally visited Hukou to preside over a national defense exhibition, the columns of tanks rolling past and helicopters circling overhead filled visiting high school students with wonder.
+Walking along Shengli Road today, the cinema and swimming pool have long since vanished into the dust of history. In the early 2000s, when President Chen Shui-bian visited Hukou to preside over a defense demonstration, the rows of passing tanks and circling helicopters were a source of immense novelty for visiting high school students.
 
-Today, this remains the heart of Taiwan's armored corps — but it is more like a quiet giant, living side by side with the homes along Shengli Road. From "cradle of rebellion" to "neighborhood parking lot," the walls of Hukou Camp have recorded every contradiction and every warmth of Taiwan's journey from martial law, through development, to democratic transition.
+Today, this place remains the heart of Taiwan's armored corps, but it functions more like a quiet giant living side-by-side with the residences on Shengli Road. From "the birthplace of insurrection" to a "local parking lot," the walls of the Hukou Military Camp record all the contradictions and warmth of Taiwan's transition from martial law and development to democracy.
 
 ---
 
 ## References
 
-- [National Archives Administration, National Development Council — The Full Story of the 1964 Hukou Incident](https://www.archives.gov.tw/)
-- [Liberty Times — 2007 Report on the Starlight Troops F-5F Crash at Hukou Camp](https://news.ltn.com.tw/)
-- [The Reporter — Ten Years After the Hung Chung-chiu Case: Echoes of Military Justice Reform and Social Movements](https://www.twreporter.org/)
-- [Hsinchu County Cultural Affairs Bureau — Military and Local Development History of the Hukou Area](https://www.hchcc.gov.tw/)
-- [Ministry of National Defense All-Out Defense Education Website — Records of Past Camp Openings and National Defense Exhibitions](https://aode.mnd.gov.tw/)
+- [National Development Council Archives — The Full Story of the 1964 Hukou Incident](https://www.archives.gov.tw/)
+- [Liberty Times — Report on the 2007 Starlight Squadron F-5F Crash in Hukou Military Camp](https://news.ltn.com.tw/)
+- [The Reporter — Ten Years After the Hung Chung-chiu Case: Echoes of the Military Justice System and Social Movements](https://www.twreporter.org/)
+- [Hsinchu County Government Bureau of Culture — History of Military and Local Development in the Hukou Area](https://www.hchcc.gov.tw/)
+- [Ministry of National Defense Total Defense Education Website — Records of Annual Camp Openings and Defense Demonstrations](https://aode.mnd.gov.tw/)

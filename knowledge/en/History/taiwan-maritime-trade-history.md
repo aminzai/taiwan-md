@@ -1,119 +1,125 @@
 ---
-title: 'Taiwan Maritime Trade History'
-description: 'Taiwan in the Age of Exploration - from international trade center to pirate kingdom, a legendary rise and fall'
+title: 'The Maritime Trade History of Taiwan'
+description: 'Taiwan during the Age of Discovery: The rise and fall of a legend, from an international trade hub to a kingdom of pirates'
 date: 2026-03-20
+category: 'History'
 tags:
   [
-    'maritime trade',
-    'Age of Exploration',
-    'international trade',
-    'pirates',
-    'port cities',
+    'Maritime Trade',
+    'Age of Discovery',
+    'International Trade',
+    'Pirates',
+    'Port Cities',
   ]
+subcategory: '史前與原住民'
 author: 'Taiwan.md Contributors'
-difficulty: 'beginner'
-readingTime: 9
-category: 'History'
 featured: false
 lastVerified: 2026-03-20
 lastHumanReview: false
+difficulty: 'beginner'
+readingTime: 9
+curation: 'incubating'
 translatedFrom: 'History/台灣海洋貿易史.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:3828ee010a982636'
 sourceBodyHash: 'sha256:1b234f51be7edbb9'
-translatedAt: '2026-04-14T12:25:09+08:00'
+translatedAt: '2026-08-04T16:32:38+08:00'
 ---
 
-# Taiwan Maritime Trade History
+# The Maritime Trade History of Taiwan
 
-During the 16th and 17th centuries' Age of Exploration, Taiwan was not an East Asian periphery island but a crucial trading hub connecting China, Japan, and Southeast Asia. From the Dutch international trading base to the Zheng dynasty's maritime hegemony, Taiwan was once one of East Asia's most prosperous commercial centers.
+During the Age of Discovery in the 16th and 17th centuries, Taiwan was not a peripheral island on the edge of East Asia, but an essential trade hub connecting China, Japan, and Southeast Asia. From the international trading base of the Dutch to the maritime hegemony of the Zheng dynasty, Taiwan was once one of the most prosperous commercial centers in East Asian waters.
 
-## Prehistoric Period: Austronesian Maritime Genes
+## Prehistoric Era: The Maritime DNA of Austronesian Cultures
 
-Even before Dutch arrival, Taiwan's Indigenous peoples demonstrated exceptional maritime capabilities. Archaeological discoveries show that 3,000 years ago, Taiwan already had sophisticated stone tool and pottery trade networks extending to the Philippines and Vietnam.
+Long before the arrival of the Dutch, Taiwan's indigenous peoples demonstrated exceptional maritime capabilities. Archaeological findings show that as early as 3,000 years ago, Taiwan possessed sophisticated networks for trading stone tools and pottery, reaching as far as the Philippines and Vietnam.
 
-The Tao people's plank boat construction techniques revealed Indigenous Taiwanese' profound understanding of the ocean. They not only built boats but developed complex maritime knowledge systems including ocean currents, monsoons, and fish migration patterns. These maritime cultural genes laid the foundation for Taiwan's later emergence as a trade center.
+The construction techniques of the _Yami_ (Tao) people's outrigger canoes demonstrate a profound indigenous understanding of the ocean. They did not merely build boats; they developed complex systems of maritime knowledge, including patterns of ocean currents, monsoons, and fish migrations. This maritime cultural DNA laid the foundation for Taiwan's later emergence as a trade center.
 
-## Dutch Period: The Golden Age of East Asian Trade
+## The Dutch Period: A Golden Age of East Asian Trade
 
-### Fort Zeelandia: East Asia's Amsterdam
+### Fort Zeelandia: The Amsterdam of East Asia
 
-In 1624, the Dutch East India Company established Fort Zeelandia in Tainan, making Taiwan the core of East Asian trade networks. The Dutch choice of Taiwan wasn't coincidental but a calculated strategic decision.
+In 1624, the Dutch East India Company established Fort Zeelandia in Tainan, transforming Taiwan into the core of the East Asian trade network. The Dutch choice of Taiwan was not accidental, but a carefully calculated decision.
 
-Taiwan occupied a central position between China, Japan, and Southeast Asia, providing excellent geographical advantages. More importantly, the Ming dynasty enforced maritime prohibition policies, preventing Chinese merchants from direct trade and necessitating third-party transshipment. Taiwan became the operational center for this vast underground economy.
+Taiwan's central location between China, Japan, and Southeast Asia provided unparalleled geographical advantages. More importantly, the Ming dynasty's maritime prohibition policies meant Chinese merchants could not trade directly and had to use third-party transit points. Taiwan became the operational center for this massive underground economy.
 
-The Dutch established a sophisticated trading system. They imported silk, porcelain, and tea from China; silver ingots from Japan; and spices and timber from Southeast Asia, then processed, packaged, and redistributed them in Taiwan. Fort Zeelandia's warehouses overflowed with precious goods from across the region.
+The Dutch established a sophisticated trading system. They imported silk, porcelain, and tea from China; silver bullion from Japan; and spices and timber from Southeast Asia, subsequently processing, packaging, and transshipping these goods in Taiwan. The warehouses of Fort Zeelandia were filled with precious commodities from across the globe.
 
-### Rise of the Sugar Kingdom
+### The Rise of the Sugar Kingdom
 
-The Dutch didn't merely engage in transshipment trade but developed local industries. They discovered Taiwan's climate was perfect for sugarcane cultivation and vigorously promoted the sugar industry. Taiwan's sugar-making technology rapidly improved under Dutch guidance, producing high-quality sugar highly sought after in Japanese markets.
+The Dutch did not merely engage in transit trade; they also developed local industries. They discovered that Taiwan's climate was exceptionally suited for sugarcane cultivation and thus vigorously promoted the sugar industry. Under Dutch guidance, Taiwan's sugar refining technology improved rapidly, producing high-quality cane sugar that was highly sought after in the Japanese market.
 
-By the 1650s, Taiwan's annual sugar production reached millions of pounds, making it East Asia's largest sugar base. Anping Harbor daily witnessed ships loaded with sugar departing for Japan and Southeast Asian destinations. The sugar industry not only brought wealth but attracted large numbers of Chinese immigrants, forming Taiwan's earliest industrial settlements.
+By the 1650s, Taiwan's annual sugar production reached millions of catties, making it the largest sugar base in East Asia. Every day, ships laden with cane sugar departed from Anping Port, sailing toward Japan and various parts of Southeast Asia. The sugar industry brought not only wealth but also attracted large numbers of Chinese immigrants, forming Taiwan's earliest industrial clusters.
 
-## Zheng Dynasty Period: Maritime Kingdom's Zenith
+## The Ming-Zheng Period: The Zenith of a Maritime Kingdom
 
-### Zheng Zhilong: Founder of the Maritime Commercial Empire
+### Zheng Zhilong: The Founder of a Maritime Commercial Empire
 
-Zheng Chenggong's (Koxinga) father, Zheng Zhilong, was actually a key figure in Taiwan's maritime trade history. Originally a maritime merchant, he was later recruited by the Ming court and controlled the entire trade network along China's southeastern coast.
+Zheng Chenggong's father, Zheng Zhilong, was a pivotal figure in Taiwan's maritime trade history. Originally a maritime merchant, he was later recruited by the Ming dynasty and went on to control the entire trade network along the southeastern coast of China.
 
-Zheng Zhilong's commercial empire was enormous, commanding thousands of vessels and tens of thousands of sailors. He established maritime trade rules, issued transit passes, and collected protection fees. Any merchant vessel navigating southeastern coastal waters required Zheng group permits. While this system resembled "pirate protection rackets," it actually provided effective maritime order.
+Zheng Zhilong's commercial empire was immense, commanding thousands of ships and tens of thousands of sailors. He established maritime trade rules, issued passes, and collected protection fees. Any merchant vessel wishing to navigate the southeastern coast had to obtain permission from the Zheng group. While this system resembled "pirates collecting protection money," it actually provided an effective maritime order.
 
-### Zheng Chenggong: Maritime Base for Ming Restoration
+### Zheng Chenggong: A Maritime Base for Restoring the Ming
 
-In 1661, Zheng Chenggong expelled the Dutch and established the Zheng dynasty. For him, Taiwan served not only as a base for anti-Qing Ming restoration but as the economic lifeline sustaining his massive army.
+In 1661, Zheng Chengggung expelled the Dutch and established the Ming-Zheng regime. For him, Taiwan was not just a base for resisting the Qing and restoring the Ming; it was the economic lifeline required to maintain a massive military force.
 
-The Zheng regime continued Dutch-period trading traditions but on a larger scale. They controlled vast sea areas from Taiwan, Penghu, and Kinmen to the Fujian coast, forming a true maritime kingdom. Zheng fleets not only traded but provided escort, transportation, and financial services, establishing dominance over East Asian waters.
+The Zheng regime continued the trading traditions of the Dutch period but on a much larger scale. They controlled vast waters stretching from Taiwan, Penghu, and Kinmen to the coast of Fujian, forming a true maritime kingdom. The Zheng fleet did not just engage in trade; they provided services such as convoy protection, transportation, and finance, acting as the hegemon of East Asian waters.
 
-### Kingdom of Tungning: Asia's Venice
+### The Kingdom of Dongning: The Venice of Asia
 
-Zheng Jing's era marked the golden age of Zheng maritime trade. The Kingdom of Tungning maintained close trading relationships with Japan, Southeast Asia, and various Southeast Asian nations, extending even to the Indian Ocean. Tainan became Asia's Venice, gathering merchants from various countries speaking different languages, presenting unprecedented internationalization.
+The era of Zheng Jing marked the golden age of Ming-Zheng maritime trade. The Kingdom of Dongning maintained close trade relations with Japan, Southeast Asia, and the nations of the South Seas, reaching even into the Indian Ocean. Tainan became the "Venice of Asia," where merchants from various nations gathered, their languages intermingling to create an unprecedented international scene.
 
-The Zheng regime issued its own currency and established a complete taxation system. They taxed trade goods and collected port fees from vessels, generating substantial revenue. Records indicate that during the Zheng period, Taiwan's annual revenue reached millions of taels of silver, demonstrating considerable economic strength.
+The Zheng regime also issued its own currency and established a complete taxation system. They levied taxes on trade goods and collected port fees from vessels, generating substantial revenue. Records indicate that during the Ming-Zheng period, Taiwan's annual revenue reached millions of taels of silver, representing an economic power that could not be underestimated.
 
-## Qing Maritime Prohibition: Disruption of Trade Networks
+## Qing Maritime Prohibitions: The Disruption of Trade Networks
 
-### Impact of Coastal Evacuation Policies
+### The Impact of the Sea-Migration Policy
 
-After Qing forces conquered Taiwan in 1683, they implemented strict maritime prohibition policies. The Qing court considered Taiwan's maritime trade "enemy collaboration" requiring strict regulation. They dismantled coastal port facilities, restricted vessel departures, and strictly prohibited civilian foreign trade.
+After the Qing army captured Taiwan in 1683, strict maritime prohibition policies were implemented. The Qing court viewed Taiwan's maritime trade as "colluding with the enemy" and required stringent control. They dismantled coastal port facilities, restricted ships from going to sea, and strictly prohibited private trade with foreign entities.
 
-This policy's impact on Taiwan was catastrophic. Previously prosperous ports rapidly declined, international merchants departed, and trade networks collapsed. Tainan transformed from an international trade center to a remote prefectural city, and Anping Harbor from bustling activity to desolate fishing village.
+This policy was catastrophic for Taiwan. Once-prosperting ports declined rapidly, international merchants departed, and trade networks collapsed. Tainan transformed from an international trade hub into a remote provincial capital, and Anping Port shifted from a bustling center to a desolate fishing village.
 
-### Rise of Smuggling Trade
+### The Rise of Smuggling Trade
 
-However, maritime prohibition policies couldn't completely sever Taiwan's maritime trade. Driven by enormous economic profits, smuggling trade became even more rampant. Countless small ports emerged along Taiwan's coast, specializing in illegal trade.
+However, maritime prohibitions could not completely sever Taiwan's maritime trade. Driven by enormous economic interests, smuggling trade actually became more rampant. Numerous small ports appeared along the Taiwanese coast, specializing in illegal trade.
 
-Places like Lukang, Tamsui, and Jilong (Keelung) became smuggling routes. Merchants conducted transactions at night and during fog to evade official detection. While this underground trade was smaller in scale, it continued Taiwan's maritime trading traditions.
+Places such as Lukang, Tamsui, and Keelung (then Ji-long) became vital smuggling routes. Merchants utilized the cover of night and foggy weather to conduct transactions, evading government inspections. Although this underground trade was smaller in scale, it sustained Taiwan's maritime trading tradition.
 
-## Forced Port Opening: Return to International Stage
+## Opening of Ports: Returning to the International Stage
 
-### 1860: New Opportunities Through Forced Opening
+### 1860: Forced Openings and New Opportunities
 
-After the 1860 Treaty of Tientsin was signed, four ports - Tamsui, Anping, Kaohsiung, and Keelung - were forced to open. Though opened under foreign pressure, this represented Taiwan's opportunity to return to the international trading stage.
+Following the signing of the Treaty of Tianjin in 1860, four ports—Tamsui, Anping, Kaohsiung, and Keelung—were forced to open. Although these openings occurred under foreign pressure, they provided Taiwan with an opportunity to return to the international trade stage.
 
-British merchant John Dodd came to Dadaocheng and established a tea export business. He discovered Taiwan's oolong tea was of exceptional quality, perfect for export. Under his promotion, Taiwan tea quickly entered international markets, becoming an important export commodity.
+British merchant John Taylor arrived in Dadaocheng and established a tea export business. He discovered that Taiwan's oolong tea was of exceptional quality and highly suitable for export. Under his promotion, Taiwanese tea quickly entered the international market, becoming a major export commodity.
 
-### Rise of the Camphor Kingdom
+### The Rise of the Camphor Kingdom
 
-Besides tea, Taiwan's camphor also became internationally sought-after. Camphor was crucial raw material for smokeless gunpowder and film production, in enormous demand. Taiwan's mountainous regions had abundant, high-quality camphor tree resources, quickly monopolizing the global camphor market.
+In addition to tea, Taiwan's camphor also became a highly sought-after global commodity. Camphor is a vital raw material for manufacturing smokeless gunpowder and motion picture film, leading to massive demand. The camphor trees in Taiwan's mountains were abundant and of high quality, quickly allowing Taiwan to monopolize the world camphor market.
 
-When Liu Mingchuan served as Taiwan's governor, he made camphor a government monopoly. The government strictly controlled camphor trade, earning substantial profits. Camphor revenue became an important funding source for Taiwan's modernization construction, used for railway construction, port development, and telegraph line installation.
+When Liu Ming-chuan served as the Governor of Taiwan, he designated camphor as a state monopoly. The government strictly controlled the camphor trade, reaping significant profits. Camphor revenue became a crucial source of funding for Taiwan's modernization efforts, used to construct railways, build ports, and install telegraph lines.
 
-## Japanese Colonial Period: Colonial Trade's Golden Age
+## The Japanese Colonial Period: A Golden Age of Colonial Trade
 
-After Japan ruled Taiwan, they incorporated it into their southern expansion policy. Taiwan again became a trade transit point connecting Japan and Southeast Asia, but this time operating within a colonial system framework.
+After Japan took control of Taiwan, it integrated the island into its "Southward Expansion" policy. Taiwan once again became a transit station connecting Japan and Southeast Asia, though this time within the framework of a colonial system.
 
-Under Japanese management, Keelung and Kaohsiung ports rapidly modernized, becoming important deep-water ports in East Asia. Taiwan's sugar and rice industries grew significantly with Japanese capital investment, primarily supplying Japanese mainland and Southeast Asian markets.
+Under Japanese management, the ports of Keelung and Kaohsiung modernized rapidly, becoming important deep-water ports in East Asia. Driven by Japanese capital, Taiwan's sugar and rice industries grew significantly, with products primarily supplying mainland Japan and the South Seas markets.
 
-Though colonial trade, this objectively enhanced Taiwan's port facilities and trading capabilities. These infrastructure developments laid important foundations for post-war Taiwan's economic development.
+While this was colonial trade, it objectively improved Taiwan's port facilities and trading capabilities. This infrastructure laid an important foundation for Taiwan's post-war economic development.
 
-## Contemporary Insights from Maritime Taiwan
+## Contemporary Implications for a Maritime Taiwan
 
-Reviewing Taiwan's maritime trade history reveals an important fact: Taiwan was never a closed island but an open maritime nation. Whether as the Dutch-period international trade center or the Zheng-period maritime kingdom, Taiwan consistently demonstrated exceptional maritime capabilities.
+Reflecting on the maritime trade history of Taiwan, we see an important fact: Taiwan has never been a closed island, but rather an open maritime nation. Whether as an international trade hub during the Dutch period or a maritime kingdom during the Ming-Zheng period, Taiwan has always demonstrated exceptional maritime capabilities.
 
-Today's Taiwan remains an important trading hub in the Asia-Pacific region, with Kaohsiung, Taipei, and Keelung ports continuing centuries-old maritime traditions. Our maritime genes haven't disappeared but need reawakening.
+Today, Taiwan remains a vital trade hub in the Asia-Pacific region; the ports of Kaohsiung, Taipei, and Keelung carry on centuries of maritime tradition. Our maritime DNA has not disappeared; it merely needs to be reawakened.
 
-Facing 21st-century challenges, Taiwan should perhaps reconsider its maritime identity. We're not merely an island on China's periphery but a bridge connecting both sides of the Pacific. This may be the most important insight Taiwan's maritime trade history offers us.
+Facing the challenges of the 21st century, Taiwan should perhaps rethink its maritime identity. We are not merely an island on the periphery of China, but a bridge connecting both sides of the Pacific. This may be the most important lesson that Taiwan's maritime trade history offers us.
 
 ---
 
 Further Reading:
+
+- [The Spanish and Dutch periods in Ming-Zheng era](/en/history/dutch-spanish-and-koxinga-era)
+- [The Qing Dynasty period](/en/history/qing-dynasty-rule)
+- [Taiwan's coastal topography and marine landscapes](/en/geography/taiwan-coastal-landforms-and-seascapes)
