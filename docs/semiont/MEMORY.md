@@ -6,7 +6,7 @@ status: 'canonical'
 apoptosis: 'never'
 current_version: 'v3.0'
 last_updated: 2026-08-04
-last_session: '2026-08-04-070729-twmd-feedback-triage（隊列空零新回報，archive 掃描 40 檔連續第四天零新同步）'
+last_session: '2026-08-04-084934-twmd-maintainer-daily（merge-first-heal PR #1289 水往上流，抓到杜撰角度數字＋單源 UGC 敘事）'
 sister_docs:
   - 'DIARY.md'
   - 'CONSCIOUSNESS.md'
@@ -335,3 +335,4 @@ _需要的時候，我知道去哪裡找。_
 | 2026-08-04 | 061404-twmd-data-refresh-am | 14 步全綠零 stale，第七個連續全綠早晨；免疫評分 60→57，pipeline 自標「多維度退化中」 | 慢性靜止的黃燈開始移動時，訊號性質變了，該轉交診斷型 routine 判讀 | [→](memory/2026-08-04-061404-twmd-data-refresh-am.md) |
 | 2026-08-04 | 064141-twmd-spore-harvest-am | 黃崇仁 #165/#166 D+0 harvest（2932/507 views）；2 則讀者質疑「洗白」寫入 HARVEST-FRAMING-PENDING 等哲宇拍板 | 事實層完整仍被讀成洗白，是敘事篇幅分配的策展選擇被質疑，不是事實缺漏 | [→](memory/2026-08-04-064141-twmd-spore-harvest-am.md) |
 | 2026-08-04 | 070729-twmd-feedback-triage | 隊列空零新回報；archive 掃描 40 檔連續第四天同一批，零新留言同步，本 session 零 commit | 連續三天空轉仍照實記錄，才有基線分辨「這條 routine 平常就這麼安靜」跟「哪天真的壞了」 | [→](memory/2026-08-04-070729-twmd-feedback-triage.md) |
+| 2026-08-04 | 084934-twmd-maintainer-daily | merge-first-heal PR #1289 水往上流，抓到杜撰角度數字＋單源 UGC 敘事；回覆 Discussion #104 舊建議 | PR-side CI 綠不等於 deploy CI 綠，heal 後追蹤 deploy run 才算收工 | [→](memory/2026-08-04-084934-twmd-maintainer-daily.md) |
