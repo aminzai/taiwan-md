@@ -1,68 +1,69 @@
 ---
-title: 'Monte Tadian (Luo Di Shan)'
-description: 'La formación de malpaís volcánico de lodo más cercana al litoral en Taiwán, antes fortaleza militar y hoy parque natural, con bocas de lodo activas y senderos costeros de gran belleza.'
+title: 'Luo-di Shan (Monte Luo-di)'
+description: 'El terreno baldío de mud volcanoes más cercano a la costa en Taiwán; antiguo fuerte militar convertido hoy en parque natural con cráteres activos y senderos con vistas al mar.'
 date: 2026-03-23
+category: 'Geography'
 tags:
   [
-    'Geografía',
-    'Naturaleza',
-    'Volcán de lodo',
-    'Malpaís',
+    'geografía',
+    'naturaleza',
+    'mud volcano',
+    'badlands',
     'Kaohsiung',
-    'Distrito de Mituo',
-    'Senderismo',
-    'Restos militares',
+    'distrito de Mito',
+    'senderismo',
+    'restos militares',
   ]
 subcategory: '地標'
 author: 'idlccp02'
 readingTime: 6
 featured: false
+lastVerified: 2026-03-23
 lastHumanReview: false
-translatedFrom: Geography/漯底山.md
-sourceCommitSha: 'f99a9959'
+curation: 'incubating'
+translatedFrom: 'Geography/漯底山.md'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:2cef849f8ebc6df7'
 sourceBodyHash: 'sha256:a56d3c9283c22ceb'
-translatedAt: 2026-05-01T22:19:10+08:00
-category: Geography
-lastVerified: 2026-03-23
+translatedAt: '2026-08-04T16:42:08+08:00'
 ---
 
-# Monte Tadian (Luo Di Shan)
+# Luo-di Shan (Monte Luo-di)
 
-## Panorama en 30 segundos
+## Resumen en 30 segundos
 
-Una colina de apenas 53 metros de altitud, 800 metros de largo de este a oeste y 600 metros de ancho, que sin embargo constituye **el malpaís volcánico de lodo más cercano al litoral de Taiwán**. Formada por la acumulación de lodo volcánico, actualmente conserva dos bocas de emisión activas con un diámetro de 3 a 5 centímetros. Desde el período de ocupación japonesa fue una fortaleza militar; en 2006 (año 95 de la República de China), tras la retirada de la guarnición militar, se transformó en un parque natural gestionado por la oficina del Distrito de Mituo. Recorriendo el sendero circular en una hora, se puede contemplar de cerca el paisaje de malpaís, cruzar un puente colgante y ascender al antiguo mirador de hormigón de un búnker, desde donde se divisa el Estrecho de Taiwán y los despegues y aterrizajes de aviones militares en el aeropuerto de Gangshan.
+Esta pequeña colina, con una altitud de solo 53 metros y dimensiones de 800 metros de largo por 600 metros de ancho, es el **terreno baldío de mud volcanoes (volcanes de lodo) más cercano a la costa en Taiwán**. Formado por la acumulación de lodo, actualmente presenta dos cráteres activos con un diámetro de entre 3 y 5 cm. Desde la época del dominio japonés funcionó como un fuerte militar; tras el retiro de las tropas en 200entes (año 95 de la República de China), pasó a ser un parque natural gestionado por la oficina del distrito de Mito. Recorrer su sendero circular toma una hora y permite observar de cerca el paisaje de badlands, cruzar puentes colgantes y subir a un antiguo búnker convertido en mirador para contemplar el estrecho de Taiwán y el despegue de aviones militares en el aeropuerto de Gangshan.
 
-**¿Y qué significa esto?** Una zona militar que en su día estaba "prohibida al público" se ha convertido en un paraíso para paseos familiares y divulgación geológica.
+**¿Por qué visitarlo?** Un lugar que alguna vez fue una zona militar prohibida al público se ha transformado hoy en un paraíso para el senderismo familiar y la divulgación geológica.
 
-## Por qué importa
+## Por qué es importante
 
-Los taiwaneses suelen asociar los "malpaís" únicamente con el paisaje lunar de Zuozhen en Tainán, o creen que las formaciones geológicas singulares solo se encuentran en las montañas. Pero el Monte Tadian demuestra que, incluso en la llanura occidental y a pocos kilómetros del mar, pueden esconderse volcanes de lodo activos y surcos de erosión pluvial. No se trata solo de un espectáculo geológico, sino también de un reflejo de la transición de Taiwán de la preparación bélica a la paz, de la zona restringida al espacio abierto. Al llegar a la cima, de pronto se comprende que la naturaleza y la historia de Taiwán nunca han estado aisladas la una de la otra.
+A menudo, los taiwaneses piensan que los "badlands" (tierras baldías) solo se encuentran en el Moon World de Zuozen (Tainan) o en zonas de alta montaña. Sin embargo, Luo-di Shan demuestra que, incluso en las llanuras occidentales y a pocos kilómetros del mar, pueden esconderse volcanes de lodo vivos y cárcavas por erosión pluvial. Esto no es solo una maravilla geológica, sino un microcosmos de la transición de Taiwán: de la preparación para la guerra a la paz, y del control militar a la apertura al público. Al llegar a la cima, comprenderás de repente que la naturaleza y la historia de Taiwán nunca han estado aisladas.
 
 ## Contenido principal
 
 ### Formación geológica y características
 
-El Monte Tadian pertenece a un malpaís formado por acumulación de **volcán de lodo**, una continuación de la capa de roca de arcilla de Nanhua. Las investigaciones geológicas indican que su origen está relacionado con un "diapiro de lodo" (_mud diapir_): fluidos a alta presión en capción profunda ascienden a lo largo de fracturas tectónicas, se mezclan con agua subterránea formando lodo, y tras la erupción se acumulan en cinco pequeñas cimas anulares. El suelo es roca de arcilla de grano fino e impermeable (de color grisáceo o gris oscuro, pH aproximado de 6,7); la erosión pluvial ha excavado surcos abruptos, y la superficie se agrieta y desmorona, dificultando el arraigo de la vegetación.
+Luo-di Shan pertenece al tipo de terreno baldío (**badland**) formado por la acumación de **mud volcanoes**, siendo una continuación de la capa de lutita de Nanhua. Las investigaciones geológicas indican que su origen está relacionado con "diapiros de lodo" (mud diapirs): fluidos a alta presión en las profundidades ascienden a través de fracturas de fallas, se mezclan con agua subterránea para formar lodo y, tras la erupción, se acumulan formando cinco pequeñas colinas circulares. El suelo es de lutita de grano fino impermeable (de color gris blanquecino o gris oscuro, con un pH de aproximadamente 6.7); la erosión por la lluvia crea cárcavas pronunciadas y una capa superficial seca y suelta donde la vegetación tiene dificultades para arraigar.
 
-En la cima central aún existen dos pequeñas bocas de emisión de lodo (de 3 a 5 centímetros de diámetro), que aunque parcialmente canalizadas con cemento, siguen burbujeando lentamente: se trata del volcán de lodo más cercano a la costa de todo Taiwán.
+Actualmente, en la cima central todavía existen dos pequeños cráteres de lodo (de 3 a 5 cm de diámetro) que, aunque cuentan con parte de un sistema de conducción de cemento, siguen burbujeando lentamente. Es el representante más cercano a la costa de los volcanes de lodo en todo el país.
 
-### Reseña histórica
+### Evolución histórica
 
-Desde el período de ocupación japonesa, su proximidad a la base aérea de Gangshan la convirtió en una posición militar estratégica, donde el Octavo Cuerpo de Artillería del Ejército de la República de China desplegó sus unidades. Durante décadas fue zona restringida y, desde lejos, parecía "una colina sin importancia". Solo tras el descubrimiento de la capa cultural de Niaosong (un yacimiento prehistórico) en su base comenzó a recibir atención. En 2006, tras la retirada de la guarnición militar, la administración pasó a la oficina del Distrito de Mituo, que progresivamente construyó senderos, miradores y vías de acceso, desvelando oficialmente su velo de misterio.
+Desde la época del dominio japonés, debido a su proximidad a la base aérea de Gangshan, fue un punto militar estratégico donde se desplegó la artillería del Octavo Cuerpo de Ejército de las fuerzas armadas de la República de China (Taiwán). Durante mucho tiempo fue una zona restringida y, vista desde lejos, no era más que una "colina insignificante". No fue hasta el descubrimiento del estrato cultural de Tsasong (un yacimiento prehistórico) al pie de la montaña cuando empezó a recibir atención. Tras el retiro militar en 2006, la gestión pasó a la oficina del distrito de Mito, iniciando la construcción gradual de senderos, miradores y carreteras de acceso, revelando finalmente su misterioso manto.
 
 ### Instalaciones del parque y senderos
 
-El sendero circular tiene una longitud aproximada de 2 kilómetros (tramos norte, sur y exterior), con pavimento de baldosas, tarimas de madera y asfalto. El desnivel es de solo 30 metros, lo que lo hace de baja dificultad (apecible para cochecitos de bebé o personas mayores). La entrada cuenta con un puente colgante que permite acceder rápidamente. En el punto más alto, el antiguo búnker de artillería se ha reconvertido en un mirador de 360 grados desde el que se contempla el casco urbano de Mituo, las colinas de Gangshan grande y pequeño, la almadraba de Yongan y el Estrecho de Taiwán. El parque conserva restos militares (garitas, instalaciones artísticas de camuflaje) y al mismo tiempo ofrece areneros infantiles y una casa en el árbol.
+El sendero circular tiene una longitud total de unos 2 km (rutas norte, sur y externa). El terreno consta de baldosas, pasarelas de madera y asfalto; el desnivel es de solo 30 metros, por lo que su dificultad es baja (apto para cochecitos de bebé o personas mayores). En la entrada hay un puente colgante para un acceso rápido. El antiguo búnker de artillería en el punto más alto ha sido reconvertido en un mirador de 360 grados desde donde se puede observar el distrito de Mito, las zonas de Gangshan (grande y pequeña), el puerto pesquero de Yongan y el estrecho de Taiwán. El parque conserva restos militares (puestos de guardia, instalaciones artísticas con camuflaje) y cuenta con areneros para niños y casas en los árboles.
 
 ### Ecología, paisaje y actividades
 
-Debido a la fragilidad del suelo, la ecología es relativamente simple (vegetación escasa), pero ahí radica precisamente la belleza del malpaís: las crestas desnudas y los barrancos recuerdan a un pequeño paisaje lunar. La mejor experiencia es ascender al atardecer para ver el sol ponerse sobre el mar, o al amanecer para observar los despegues y aterrizajes de aviones militares en el aeropuerto de Gangshan. En los alrededores se puede combinar la visita con el yacimiento cultural de Niaosong, la almadraba de Nanliao y el humedal de Yongan, completando en un día un itinerario de "geología + historia + costa". Las dos pequeñas bocas de lodo nos recuerdan en silencio que, incluso cuando los humanos trazan fronteras militares, la tierra continúa escribiendo su propia historia.
+Debido a la fragilidad del suelo, la ecología es sencilla (vegetación escasa), pero esa es precisamente la belleza de los badlands: las crestas y cañones desnudos asemejan un pequeño "Moon World". La mejor forma de disfrutarlo es subir a la cima al atardecer para ver el sol ocultarse en el mar, o al amanecer para observar el movimiento de los aviones militares del aeropuerto de Gangshan. Cerca de aquí se pueden conectar los sitios arqueológicos de Tsasong, el puerto pesquero de Nanliao y los humedales de Yongan, completando un viaje de "geología + historia + costa" en un solo día. Los dos pequeños cráteres de lodo nos recuerdan silenciosamente que, aunque los humanos tracen fronteras militares, la tierra continúa contando su propia historia.
 
 ## Referencias
 
-- [Presentación oficial de la oficina del Distrito de Mituo](https://mituo.kcg.gov.tw/cp.aspx?n=4FA80C03A5F771A1)
-- [Wikipedia: Monte Tadian (Luo Di Shan)](https://zh.wikipedia.org/wiki/%E6%BC%AF%E5%BA%95%E5%B1%B1)
-- [Detalles del sendero en Hiking Note](https://hiking.biji.co/index.php?q=trail&act=detail&id=390)
-- [Enciclopedia Geológica de Taiwán: origen de los volcanes de lodo](https://twgeoref.gsmma.gov.tw/)
-- Relacionado dentro del proyecto (si se añade en el futuro): buscar "volcán de lodo" o "geografía de Kaohsiung"
+- [Introducción oficial de la oficina del distrito de Mito](https://mituo.kcg.gov.tw/cp.aspx?n=4FA80C03A5F771A1)
+- [Wikipedia: Luo-di Shan](https://zh.wikipedia.org/wiki/%E6%BC%AF%E5%BA%95%E5%B1%B1)
+- [Detalles del sendero en Hiking Notes](https://hiking.biji.co/index.php?q=trail&act=detail&id=390)
+- [Enciclopedia Geológica de Taiwán: Origen de los volcanes de lodo](https://twgeoref.gsmma.gov.tw/)
+- Relacionado en el proyecto (si se añade en el futuro): buscar "volcán de lodo" o "geografía de Kaohsiung"

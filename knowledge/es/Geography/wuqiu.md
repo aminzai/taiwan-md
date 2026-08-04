@@ -1,10 +1,8 @@
 ---
-title: 'Wuqiu: la isla periférica entre las islas periféricas, una isla militar olvidada bajo la sombra de los residuos nucleares'
-description: 'Wuqiu es el distrito administrativo más remoto de Taiwán, formado por Daqiu y Xiaoqiu. Esta isla aislada, administrativamente adscrita a Kinmen pero cuya línea vital de transporte depende de Taichung, fue en otro tiempo una base guerrillera de primera línea durante el enfrentamiento entre el Kuomintang y el Partido Comunista Chino. Este artículo analiza en profundidad el significado subjetivo de la reactivación del faro del islote Wuqiu, la transmisión de la cultura de la lengua hinghwa y la controversia, prolongada durante veinte años, sobre el referéndum para ubicar un depósito de residuos nucleares, mostrando la soledad y la resiliencia de esta isla marginal dentro del relato nacional.'
+title: 'Wuqiu: Una isla dentro de otra isla, el olvidado enclave militar y la sombra de los residuos nucleares'
+description: 'Wuqiu es el distrito más remoto de Taiwán, compuesto por Daqiu y Xiaoqiu. Esta isla, administrativamente dependiente de Kinmen pero cuya vida depende del puerto de Taichung, fue una base de guerrillas en el frente de la guerra civil. Este artículo analiza el significado de la reactivación del faro de Wuqiuyu, la cultura del habla Xinghua y la controversia de veinte años sobre el vertedero de residuos nucleares.'
 date: 2026-06-25
-author: 'Taiwan.md Contributors'
 category: 'Geography'
-subcategory: '島嶼與海洋'
 tags:
   [
     'Kinmen',
@@ -13,89 +11,92 @@ tags:
     'faro',
     'administración de zona de guerra',
   ]
+subcategory: '島嶼與海洋'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-06-25
 lastHumanReview: false
-featured: false
+curation: 'incubating'
 translatedFrom: 'Geography/烏坵.md'
-sourceCommitSha: 'bce742694'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:2935ce10538c2b78'
 sourceBodyHash: 'sha256:79946e3edca12d9c'
-translatedAt: '2026-06-27T00:54:19+08:00'
+translatedAt: '2026-08-04T16:51:51+08:00'
 ---
 
 > **Resumen en 30 segundos**:
-> Wuqiu es la “isla aislada” más singular dentro del mapa administrativo de Taiwán. Está formada por Daqiu y Xiaoqiu, con una superficie total de apenas 1,2 kilómetros cuadrados. Administrativamente está bajo la gestión de Kinmen, pero su transporte y sus suministros básicos dependen por completo del puerto de Taichung. Esta isla fue en otro tiempo una base guerrillera de primera línea durante el enfrentamiento entre el Kuomintang y el Partido Comunista Chino. Hoy, por el faro del islote Wuqiu, vuelto a encender tras 66 años apagado, y por una controversia de 20 años sobre la selección de un sitio para residuos nucleares, se ha convertido nuevamente en una síntesis de la subjetividad de Taiwán y del sacrificio impuesto a sus márgenes.
+> Wuqiu es la "isla solitaria" más especial del mapa administrativo de Taiwán; compuesta por Daqiu y Xiaoqiu, su superficie total es de apenas 1,2 km². Aunque administrativamente depende de Kinmen, su transporte y suministros dependen totalmente del puerto de Taichung. Esta isla fue una base de guerrillas en el frente de la confrontación entre el Kuomintang y el Partido Comunista; hoy, tras 66 años de oscuridad, la reactivación del faro de Wuqiuyu y la disputa de dos décadas por un vertedero de residuos nucleares la convierten nuevamente en un microcosmos de la identidad taiwanesa y del sacrificio de las periferias.
 
-![Faro del islote Wuqiu: vuelto a encender tras 66 años apagado, simboliza el despertar de la subjetividad de esta isla aislada.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/%E7%83%8F%E5%9D%B5%E7%99%BE%E5%B9%B4%E7%87%88%E5%A1%941.jpg/1920px-%E7%83%8F%E5%9D%B5%E7%99%BE%E5%B9%B4%E7%87%88%E5%A1%941.jpg)
+![Faro de Wuqiuyu: Reencendido tras 66 años de oscuridad, simbolizando el despertar de la identidad de esta isla solitaria.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/%E7%83%8F%E5%9D%B5%E7%99%BE%E5%B9%B4%E7%87%88%E5%A1%941.jpg/1920px-%E7%83%8F%E5%9D%B5%E7%99%BE%E5%B9%B4%E7%87%88%E5%A1%941.jpg)
 
-En el muelle 5A del puerto de Taichung, cada quince días, en la noche avanzada de un miércoles, suele aparecer un grupo particular de pasajeros. No son turistas que viajan al extranjero ni viajeros corrientes que vuelven a casa, sino personas que se preparan para abordar el ferry de transporte arrendado por las fuerzas armadas, el “Kinmen Express”, cruzar las setenta y dos millas náuticas del canal de aguas oscuras y regresar a ese hogar casi olvidado en los mapas: Wuqiu.[^1]
+En el muelle 5A del puerto de Taichung, cada tres miércoles por la noche, aparece un grupo de pasajeros especiales. No son turistas que viajan al extranjero ni viajeros comunes que regresan a casa; son personas preparadas para abordar el barco de transporte militar "Kinmen Express" y cruzar los setenta y dos millas náuticas del canal de aguas negras para volver a aquel hogar casi olvidado en los mapas: Wuqitu (烏坵).[^1]
 
-Es una travesía de cinco horas. Cuando el barco se aproxima lentamente a la isla formada por Daqiu y Xiaoqiu, los pasajeros deben “saltar de barco” en el mar y transbordar a una lancha pequeña para poder desembarcar. Administrativamente pertenece a Kinmen, pero está a setenta millas náuticas de distancia de Kinmen; geográficamente se encuentra muy cerca de la isla Meizhou, en Fujian, China, a solo veinte millas náuticas en línea recta. Esta configuración peculiar, de “proximidad geográfica, lejanía administrativa y una línea vital atada a Taiwán”, define el destino solitario de Wuqiu como “isla periférica entre las islas periféricas”.[^2]
+Es una travesía de cinco horas. Cuando la embarcación se acerca lentamente a la isla formada por Daqiu y Xiaoqiu, los pasajeros deben realizar un "transbordo en el mar" hacia botes más pequeños para poder desembarcar. Administrativamente, este lugar pertenece a Kinmen, pero se encuentra a setenta millas náuticas de esta; geográficamente, está muy cerca de la isla de Meizhou, en Fujian, China, a una distancia lineal de solo veinte millas náuticas. Esta peculiar estructura de "proximidad geográfica, lejanía administrativa y dependencia vital de Taiwán" define el destino solitario de Wuqiu como "una isla dentro de otra isla".[^2]
 
-## Sesenta y seis años apagado: vuelve a brillar el sur de la frontera
+## Sesenta y seis años de oscuridad: El renacimiento en el sur de la frontera
 
-En el punto más alto de la isla Daqiu, en Wuqiu, se alza un faro de piedra de color negro intenso. El faro del islote Wuqiu, construido en 1874 y diseñado por el ingeniero británico David Marr Henderson, fue en su día una de las señales de navegación más importantes del estrecho de Taiwán.[^3] Sin embargo, en 1951, por consideraciones militares vinculadas a la guerra civil entre el Kuomintang y el Partido Comunista Chino, y para evitar que el faro se convirtiera en objetivo de ataque enemigo, la guarnición ordenó apagarlo.
+En el punto más alto de la isla de Daqiu, en Wuqiu, se erige un faro de piedra de color oscuro. Construido en 1874, el faro de Wuqiuyu fue diseñado por el ingeniero británico David Marr Henderson y fue uno de los puntos de navegación más importantes en el estrecho de Taiwán.[^3] Sin embargo, en 1951, por consideraciones militares durante la guerra civil china, las tropas de defensa recibieron la orden de apagar la luz para evitar que el faro se convirtiera en un objetivo de ataque enemigo.
 
-Y así permaneció apagado durante sesenta y seis años.
+Esa oscuridad duró sesenta y seis años.
 
-“La reactivación del faro era un asunto del Estado, su promoción a monumento nacional también era un asunto del Estado; sin embargo, todo lo relacionado con este faro siempre pareció ser solo un asunto de la familia Kao”, lamentó Kao Tan-hua, trabajadora de historia y cultura de Wuqiu.[^4] El padre de Kao Tan-hua, Kao Chin-chen, fue el último guardián del faro de Wuqiu. Desde 1959 custodió el faro durante cuarenta y dos años, y la tarea de guardarlo se convirtió en una obsesión de tres generaciones de la familia Kao. Gracias a sus gestiones y al esfuerzo de diversos sectores, el 23 de julio de 2017 el faro del islote Wuqiu finalmente volvió a encenderse. Ese haz de luz devolvió a la mirada de la sociedad taiwanesa esta isla aislada, bloqueada durante medio siglo por controles militares.[^5]
+«Reencender la luz es asunto del Estado, y declarar los monumentos históricos también es asunto del Estado; sin embargo, con todo este asunto de los faros, Wuqiu siempre siente que solo es un asunto de la familia Kao»., lamenta la investigadora histórica de Wuqiu, Kao Tan-hua (高丹華).[^4] El padre de Kao, Kao Chin-chen (高金振), fue el último guardián del faro de Wuqiu; protegió la luz durante cuarenta y dos años desde 1959, convirtiendo la guardia del faro en una obsesión para tres generaciones de la familia Kao. Gracias a sus gestiones y al esfuerzo de diversos sectores, el 23 de julio de 2017, el faro de Wuqiuyu finalmente volvió a brillar. Esa luz reintegró a esta isla, bloqueada por el control militar durante medio siglo, en la mirada de los taiwaneses.[^5]
 
-## Lengua hinghwa y alga nori: vínculos de sangre cortados por lo militar
+## El habla Xinghua y la alga nori: Arterias cortadas por la milicia
 
-Al caminar por las calles de Wuqiu, lo primero que suele desconcertar a quienes vienen de fuera es la lengua: en la conversación cotidiana, los residentes usan puxian, también llamada hinghwa, una lengua mutuamente ininteligible con el habla de Kinmen y con el minnan.[^6] La mayoría de los habitantes tiene raíces ancestrales en Putian, Fujian, y comparte origen con los pescadores de la isla Meizhou. Antes de 1949, los pescadores de ambos lugares mantenían vínculos estrechos e incluso compartían los mismos caladeros.
+Al caminar por las calles de Wuqiu, lo primero que sorprende a los forasteros es el lenguaje: los residentes conversan cotidianamente en pu-xian (dialecto Xinghua), que no es compatible con el habla de Kinmen ni con el minnan (taiwanés).[^6] Los ancestros de los habitantes provienen mayoritímante de Putian, Fujian, compartiendo las mismas raíces que los pescadores de la isla de Meizhou. Antes de 1949, los pescadores de ambas zonas mantenían un contacto estrecho e incluso compartían los mismos caladeros.
 
-Sin embargo, el telón de acero de la Guerra Fría cortó de raíz esos lazos. Wuqiu se convirtió en una base guerrillera tras la evacuación de los refugiados de Dachen, y luego entró en un periodo de administración de zona de guerra que se prolongó durante cuarenta años. En la isla, cada planta, cada árbol, cada palabra y cada acto estaban sometidos al control militar. En la Wuqiu actual, aunque la población registrada ronda las seiscientas personas, los residentes permanentes que viven de forma estable en la isla se reducen a unas pocas decenas, en su gran mayoría personas mayores.[^7]
+Sin embargo, el telón de acero de la Guerra Fría cortó esta arteria por la mitad. Wuqiu se convirtió en una base de guerrillas tras la retirada de los habitantes de las islas Dachen, entrando posteriormente en un periodo de cuarenta años de administración de zona de guerra. Cada planta y cada acción en la isla estaban bajo control militar. Hoy, aunque el registro de población es de unos seiscientos habitantes, la población residente permanente es de apenas unas decenas, la gran mayoría de ellos ancianos.[^7]
 
-El principal sostén económico local es el alga nori silvestre. Se cosecha solo una vez al año, y los habitantes deben, bajo el viento marino cortante del monzón del noreste, trepar por los arrecifes e incluso descender con cuerdas para recolectar a mano estos “campos de nori” completamente silvestres. El “nori de Wuqiu” obtenido con ese esfuerzo se ha convertido en el único vínculo entre los habitantes y su tierra natal, así como en una muestra de la resiliencia que han desarrollado sobre una tierra estéril.[^8]
+El principal pilar económico local es la alga nori (pueri) silvestre. La cosecha se realiza solo una vez al año; los residentes deben trepar por los arrecifes bajo el gélido viento del monzón del noreste, e incluso descender con cuerdas para recolectar a mano este "campo de algas" totalmente salvaje. El esfuerzo invertido en la "nori de Wuqiu" se ha convertido en el único vínculo de los lugareños con su tierra y en la muestra de su resiliencia en un terreno tan árido.[^8]
 
-## De la Fuerza Anticomunista de Salvación Nacional a los vestigios de la administración de zona de guerra
+## De las tropas de salvación anti-comunistas a los ecos de la administración militar
 
-La historia de Wuqiu es inseparable de lo militar. En la década de 1950, fue una base de la “Fuerza Anticomunista de Salvación Nacional de la provincia de Fujian”, donde se concentraron numerosos guerrilleros retirados de China continental y refugiados de Dachen.[^12] En aquellos años, Wuqiu era la primera línea de la “reconquista de China continental”, y la isla estaba cubierta de fortificaciones y minas terrestres.
+La historia de Wuqiu es inseparable de lo militar. En la década de 1950, este lugar fue la base de las "Tropas de Salvación Anti-comunista de la Provincia de Fujian", donde se concentraron numerosos guerrilleros y habitantes de Dachen que se habían retirado desde China continental.[^12] Durante aquellos años, Wuqiu era el frente de la "contraofensiva hacia el continente", y la isla estaba cubierta de fortificaciones y minas.
 
-Aunque en 1992 se levantó la ley marcial en las regiones de Kinmen y Matsu y terminó la administración de zona de guerra, Wuqiu, por su ubicación geográfica extremadamente sensible, conserva hasta hoy un marcado carácter militarizado. La administración de la isla, el suministro de bienes e incluso la atención médica están profundamente ligados al funcionamiento de las fuerzas armadas. Esta estructura de “unidad entre ejército y civiles” ha garantizado la supervivencia de la isla aislada, pero también ha limitado las posibilidades de desarrollo local. Para las generaciones jóvenes, Wuqiu es un lugar al que “no se puede volver y en el que tampoco se puede permanecer”.
+Aunque en 1992 se levantó la ley marcial en la región de Kinmen-Matsu y terminó la administración de zona de guerra, debido a su extrema sensibilidad geográfica, Wuqiu mantiene hasta hoy un fuerte carácter militarizado. La administración, el suministro de suministros e incluso la atención médica en la isla están profundamente vinculados a la operativa militar. Esta estructura de "unión entre militares y civiles", aunque garantiza la supervivencia de la isla solitaria, también limita las posibilidades de desarrollo local. Para las nuevas generaciones, Wuqiu es un lugar al que "no se puede volver ni quedarse".
 
-## La sombra de los residuos nucleares: el problema referendario de la mayoría que intimida a la minoría
+## La sombra de los residuos nucleares: El dilema del referéndum donde la mayoría abusa de la minoría
 
-El desafío más grave que enfrenta Wuqiu procede del subsuelo. En 1998, Taipower anunció el islote Xiaoqiu, en Wuqiu, como sitio propuesto para una “instalación final de disposición de residuos de baja radiactividad”.[^9] Esta decisión desencadenó una lucha que se prolongó durante veinte años.
+El desafío más grave que enfrenta Wuqiu proviene del subsuelo. En 1998, la empresa Taipower anunció que la isla de Xiaoqiu, en Wuqiu, era un sitio propuesto para una "instalación final de disposición de residuos de baja actividad radiactiva".[^9] Esta decisión desencadenó una lucha que ha durado veinte años.
 
-“Si de verdad es tan seguro, entonces busquen cualquier lugar y pónganlo debajo del Palacio Presidencial.” Esta protesta, que apareció en el movimiento antirresiduos nucleares de la Isla de las Orquídeas, refleja igualmente la voz de la población de Wuqiu.[^10] La dificultad más profunda que enfrenta Wuqiu radica en la injusticia institucional: según la Ley de Referéndum, la ubicación de un depósito de residuos nucleares debe decidirse mediante referéndum local, pero Wuqiu está bajo la administración delegada del condado de Kinmen, y el ámbito del referéndum se define por “condado”. Esto significa que habitantes de Kinmen situados a setenta millas náuticas, y que nunca han recibido beneficios de Wuqiu, podrían decidir mediante su voto el destino de la población de Wuqiu.
+«Si es tan seguro, entonces búscate cualquier otro lugar; ponlo debajo de la oficina presidencial». Esta protesta, que surgió durante el movimiento anti-nuclear en la isla de Lanyu, refleja fielmente el sentir de los habitantes de Wuqiu.[^10] El dilema más profundo de Wuqiu reside en la injusticia del sistema: según la Ley de Referéndum, la ubicación de un vertedero nuclear debe decidirse mediante un referéndum local, pero dado que Wuqiu está bajo la administración del condado de Kinmen, el alcance del voto es a nivel de "condado". Esto significa que los habitantes de Kinmen, situados a setos de setenta millas náuticas y que nunca han recibido los beneficios directos de Wuqiu, podrían decidir el destino de los habitantes de Wuqiu mediante su voto.
 
-Se trata de un caso típico de “mayoría que intimida a la minoría”. Para los habitantes del municipio de Wuqiu, no solo deben afrontar la presión de estar en la primera línea de un enfrentamiento militar, sino también cargar con el costo sacrificial que acompaña al desarrollo nacional.[^11]
+Se trata de un caso típico de "la mayoría sometiendo a la minoría". Para los lugareños de Wuqiu, no solo deben enfrentar la presión del frente de confrontación militar, sino también soportar el costo del sacrificio que conlleva el desarrollo nacional.[^11]
 
-## Conclusión: el faro está encendido, ¿y la gente?
+## Conclusión: El faro se encendió, ¿pero qué hay de la gente?
 
-La Wuqiu actual sigue manteniendo una forma particular de coexistencia entre militares y civiles. Aunque la administración de zona de guerra quedó levantada hace mucho, la extrema incomodidad del transporte y los residuos del control militar hacen que siga pareciendo una isla aislada detenida en el tiempo.
+El Wuqiu de hoy mantiene aún su forma especial de coexistencia entre militares y civiles. Aunque la administración de zona de guerra terminó hace tiempo, debido a las extremas dificultades de transporte y los remanentes del control militar, sigue siendo como una isla detenida en el tiempo.
 
-Después de la reactivación del faro, aquel haz de luz continúa barriendo cada noche el estrecho de Taiwán. Recuerda al mundo que, más allá de la próspera isla principal de Taiwán, todavía existe un lugar así: custodia la frontera más solitaria, habla la lengua más antigua y, bajo la sombra de los residuos nucleares, se esfuerza por proteger ese pequeño resto de dignidad que pertenece a su hogar.
+Tras la reactivación del faro, esa luz sigue barriendo el estrecho de Taiwán cada noche. Nos recuerda que, más allá de la próspera isla principal de Taiwán, existe un lugar que custodia la frontera más solitaria, habla la lengua más antigua y, bajo la sombra de los residuos nucleares, lucha por proteger un pequeño fragmento de la dignidad de su hogar.
 
-**Lecturas complementarias**:
+**Lecturas adicionales**:
 
-- [Kao Tan-hua, presentación del nuevo libro _Ver el faro de Wuqiu_, Gobierno del Condado de Kinmen.](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&s=BA98BA2EE7DC57B1)
-- [_El gran juego de los residuos nucleares_, “Nuestra isla”, Public Television Service.](https://ourisland.pts.org.tw/content/1455)
-- [Sitio web oficial de la Oficina del Municipio de Wuqiu: historia y evolución.](https://wuqiu.kinmen.gov.tw/cp.aspx?n=759A651A8E9BFAC0)
+- [Presentación del nuevo libro de Kao Tan-hua, "Viendo el faro de Wuqiu", Gobierno del Condado de Kinmen.](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&s=BA98BA2EE7DC57B1)
+- [“El gran viento de los residuos nucleares”, Public Television “Nuestras Islas”.](https://ourisland.pts.org.tw/content/1455)
+- [Sitio web oficial de la oficina de la comuna de Wuqiu: Historia y evolución.](https://wuqiu.kinmen.gov.tw/cp.aspx?n=759A651A8E9BFAC0)
 
 ## Referencias
 
-[^1]: [Historia y evolución - Oficina del Municipio de Wuqiu](https://wuqiu.kinmen.gov.tw/cp.aspx?n=759A651A8E9BFAC0) — Presenta la ubicación geográfica, la adscripción administrativa y la historia de desarrollo del municipio de Wuqiu.
+[^1]: [Historia y evolución - Oficina de la Comuna de Wuqiu](https://wuqiu.kinmen.gov.tw/cp.aspx?n=759A651A8E9BFAC0) — Presenta la ubicación geográfica, la dependencia administrativa y la historia del desarrollo de la comuna de Wuqiu.
 
-[^2]: [Una propuesta preliminar sobre la disposición de residuos nucleares en Wuqiu, Kinmen - Exclusive Report](https://www.scooptw.com/thinktank/place/76713/) — Analiza las dificultades jurídicas y sociales de Wuqiu en la controversia sobre la disposición de residuos nucleares.
+[^2]: [Reflexiones sobre la disposición de residuos nucleares en Wuqiu, Kinmen - Reportaje exclusivo](https://www.scooptw.com/thinktank/place/76713/) — Explora las dificultades legales y sociales de Wuqiu en la controversia de los residuos nucleares.
 
-[^3]: [El faro del islote Wuqiu, apagado durante 66 años, volvió a encenderse el 23 de julio - Centro de Servicios Conjuntos Kinmen-Matsu del Yuan Ejecutivo](https://www.ey.gov.tw/eykm/292D78D38F3A39DF/b6832711-5942-4366-93dc-788606db7aa2) — Registra el momento histórico de la reactivación del faro del islote Wuqiu.
+[^3]: [El faro de Wuqiuyu, apagado durante 66 años, se reencendió el 23 de julio - Centro de Servicios Conjuntos Kinmen-Matsu del Ejecutivo](https://www.ey.gov.tw/eykm/292D78D38F3A39DF/b6832711-5942-4366-93dc-788606db7aa2) — Registra el momento histórico de la reactivación del faro de Wuqiuyu.
 
-[^4]: [Recuperar la historia de Wuqiu: Kao Tan-hua presenta dos nuevos libros - Gobierno del Condado de Kinmen](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&s=BA98BA2EE7DC57B1) — Presenta los esfuerzos de Kao Tan-hua por preservar la historia y la cultura de Wuqiu.
+[^4]: [Recuperando la historia de Wuqiu: Kao Tan-hua publica dos nuevos libros - Gobierno del Condado de Kinmen](https://www.kinmen.gov.tw/News_Content2.aspx?n=98E3CA7358C89100&s=BA98BA2EE7DC57B1) — Presenta los esfuerzos de Kao Tan-hua por la preservación histórica de Wuqiu.
 
-[^5]: [Tres generaciones transmitiendo la luz, un siglo guardando el faro: la familia de Kao Tan-hua, transmisora de la luz de la isla - Up Media](https://www.upmedia.mg/news_info.php?Type=5&SerialNo=40053) — Registra la trayectoria de tres generaciones de guardianes del faro de la familia Kao —Kao Chen, Kao Jui-weng y el último guardián Kao Chin-chen— y el papel de Kao Tan-hua en la promoción de la reactivación.
+[^5]: [Transmitiendo la luz por tres generaciones, guardando el faro durante un siglo: La familia de la transmisora de luz de la isla, Kao Tan-hua - Uponews](https://www.upmedia.mg/news_info.php?Type=5&SerialNo=40053) — Registra la trayectoria de tres generaciones de guardianes de la familia Kao (Kao Chen, Kao Jui-weng y el último guardián Kao Chin-chen) y la labor de Kao Tan-hua para reactivar el faro.
 
-[^6]: [Municipio de Wuqiu - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%83%8F%E5%9D%B5%E9%84%89) — Proporciona información básica sobre la población, las lenguas y la división administrativa de Wuqiu.
+[^6]: [Comuna de Wuqiu - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%83%8F%E5%9D%B5%E9%84%89) — Proporciona información básica sobre la población, el idioma y la división administrativa de Wuqiu.
 
-[^7]: [Viaje de asistencia a Wuqiu: el magistrado Lee parte al frente de la delegación el 9 de julio - Kinmen Daily News](https://www.kmdn.gov.tw/1117/1271/1272/169199) — Describe la escasez de transporte externo de Wuqiu, con un promedio mensual de alrededor de 180 viajes de ida y vuelta, y las dificultades de abastecimiento.
+[^7]: [Viaje de cuidado por Wuqiu: El magistrado Lee lidera la partida el 9 de julio - Kinmen Daily News](https://www.kmdn.gov.tw/1117/1271/1272/169199) — Describe la escasez de transporte hacia Wuqiu (un promedio de 180 personas al mes) y las dificultades en el suministro de materiales.
 
-[^8]: [Monzón, océano y rocas: el nori silvestre de Wuqiu, un encuentro único en cada temporada - Viva Villages Goods](https://www.vivavillagesgoods.com/blogs/islandreport/111466) — Registra con detalle los procesos de “espolvoreado de ceniza”, “siembra” y cosecha en arrecifes del nori silvestre de Wuqiu, así como su significado económico.
+[^8]: [Monzón, océano y roca: La alga nori silvestre de Wuqiu, un encuentro único - Cunfuhao](https://www.vivavillagesgoods.com/blogs/islandreport/111466) — Registra detalladamente el proceso de recolección ("batido", "siembra") en los arrecifes y su importancia económica.
 
-[^9]: [El gran juego de los residuos nucleares - “Nuestra isla”, PTS](https://ourisland.pts.org.tw/content/1455) — Reportaje especial en profundidad de Public Television Service sobre la controversia de selección de sitios para residuos nucleares, incluida Wuqiu.
+[^9]: [El gran viento de los residuos nucleares - PTS "Nuestras Islas"](https://ourisland.pts.org.tw/content/1455) — Reportaje especial de la televisión pública sobre la controversia de la ubicación de vertederos nucleares (incluyendo Wuqiu).
 
-[^10]: [El jefe de la aldea Xiaoqiu y sus residentes se oponen a los residuos nucleares - Kinmen Daily News](https://www.kmdn.gov.tw/1117/1271/1272/210688) — Registra las voces locales de los residentes de la aldea Xiaoqiu, en Wuqiu, contra la llegada de residuos nucleares.
+[^10]: [Líder y residentes de la aldea de Xiaoqiu se oponen a los residuos nucleares - Kinmen Daily News](https://www.kmdn.gov.tw/1117/1271/1272/210688) — Registra las voces locales de los residentes de la aldea de Xiaoqiu en Wuqiu contra la llegada de residuos nucleares.
 
-[^11]: [¿Hablar de lo “nuclear” es fácil?: la actual problemática de la disposición final de residuos de baja radiactividad en nuestro país vista desde la selección del sitio de Wuqiu - Airiti Library](https://www.airitilibrary.com/Article/Detail/18197205-201403-201404100025-201404100025-45-66) — Artículo académico que analiza en profundidad la injusticia institucional creada por la Ley de Referéndum y el sistema de administración delegada en la selección de Wuqiu como sitio para residuos nucleares.
+[^11]: [¿Hablar de "núcleo" es fácil?: Analizando el problema actual de la disposición final de residuos de baja actividad radiactiva desde la elección de sitios en Wuqiu - Biblioteca Digital Academia Sinica](https://www.airitilibrary.com/Article/Detail/18197205-201403-201404100025-201404100025-45-66) — Artículo académico que analiza profundamente la injusticia institucional del sistema de administración delegada según la Ley de Referéndum en la elección de sitios nucleares en Wuqiu.
 
-[^12]: [Municipio de Wuqiu § Historia - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%83%8F%E5%9D%B5%E9%84%89) — Registra la historia militar de Wuqiu durante la guerra civil entre el Kuomintang y el Partido Comunista Chino, cuando funcionó como base guerrillera de la Fuerza Anticomunista de Salvación Nacional de la provincia de Fujian y como lugar de asentamiento de refugiados de Dachen.
+[^12]: [Comuna de Wuqiu §Historia - Wikipedia](https://zh.wikipedia.org/zh-tw/%E7%83%8F%E5%9D%B5%E9%84%89) — Registra la historia militar de Wuqiu como base de guerrillas de las tropas anti-comunistas de Fujian y el asentamiento de los habitantes de Dachen durante la guerra civil.

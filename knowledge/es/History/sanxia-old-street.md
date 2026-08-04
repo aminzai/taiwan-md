@@ -1,86 +1,87 @@
 ---
-title: 'Sanxia: La tensión de poder bajo los pórticos de ladrillo rojo y un experimento de patrimonio cultural inacabado'
-description: 'Reconocida en 2007 con el Premio de Excelencia Global de Construcción de FIABCI, la calle antigua de Sanxia es el primer modelo de una «obra de restauración a gran escala» en Taiwán. Desde el comercio de telas teñidas de la época Qing «Sanjiao Yong» hasta la trágica demolición a la fuerza de los adoquines en 2016, esta calle de ladrillo rojo registra la violenta lucha de Taiwán entre la conservación de monumentos y el desarrollo turístico.'
+title: 'Calle Antigua de Sanxia: tensiones de poder bajo los arcos de ladrillo rojo y un experimento patrimonial inacabado'
+description: 'La calle antigua de Sanxia, galardonada con el Premio FIABCI de Excelencia en Construcción en 2007, fue el modelo de la primera gran "obra de restauración" en Taiwán. Desde el comercio de teñido en Sanjiaoyong durante la dinastía Qing hasta la tragedia de la demolición del pavimento de piedra en 2016, esta calle de ladrillo rojo registra la intensa lucha entre la preservación histórica y el desarrollo turístico.'
 date: 2026-07-02
-author: 'Taiwan.md Contributors'
 category: 'History'
-subcategory: '社會與日常史'
 tags:
   [
     'Sanxia',
-    'Edificios históricos',
-    'Patrimonio cultural',
+    'arquitectura histórica',
+    'patrimonio cultural',
     'Li Meishu',
-    'Planificación comunitaria',
+    'regeneración comunitaria',
   ]
-readingTime: 12
+subcategory: '社會與日常史'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-02
 lastHumanReview: false
-featured: false
+readingTime: 12
+curation: 'incubating'
 translatedFrom: 'History/三峽老街.md'
-sourceCommitSha: 'a43cf9153'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:e04661eeed7e83a6'
 sourceBodyHash: 'sha256:11623780c733bce5'
-translatedAt: '2026-07-06T00:39:49+08:00'
+translatedAt: '2026-08-04T16:32:38+08:00'
 ---
 
-> **30 segundos de resumen:** La calle antigua de Sanxia (calle Minquan de Sanjiao Yong) fue el centro de distribución más importante de telas teñidas y té en el norte de Taiwán. Su peculiar trazado en forma de S se diseñó originalmente para facilitar la circulación de los vagones del ferrocarril ligero. Esta calle no es solo un destino turístico, sino un escenario de lucha en la historia de la conservación del patrimonio cultural de Taiwán: experimentó la primera movilización colectiva a nivel nacional para «revocar la designación de monumento», y en 2007 recibió el reconocimiento del Premio de Excelencia Global de Construcción de FIABCI por su técnica de restauración «con la arquitectura original y los materiales originales». Aunque en 2016 se registró el lamentable incidente de la remoción sin previo aviso de los adoquines, gracias a la coordinación de múltiples actores, esta calle se ha convertido en un caso emblemático de la tecnopolítica de la «recreación del paisaje urbano» en Taiwán.
+> **Resumen en 30 segundos:** La calle antigua de Sanxia (calle Minquan de Sanjiaoyación) fue uno de los centros de distribución de té y textiles más importantes del norte de Taiwán; su particular trazado en forma de "S" se diseñó originalmente para facilitar el tránsito de carros ligeros. Esta calle no es solo un punto turístico, sino un campo de batalla en la historia de la preservación del patrimonio cultural de Taiwán: fue escenario de la primera protesta colectiva en el país por la "desclasificación de monumento histórico" y, en 2007, recibió el Premio FIABCI de Excelencia en Construcción gracias a su técnica de restauración basada en "materiales y estructuras originales". Aunque en 2016 ocurrió la lamentable eliminación sin previo aviso del pavimento de piedra, tras diversas mediaciones, esta calle se ha convertido en un caso emblemático de la política técnica de "reconstrucción de paisaje" en Taiwán.
 
-La belleza de la calle antigua de Sanxia reside en sus pórticos de ladrillo rojo, tan ordenados que parecen un decorado teatral. En 1916, bajo la «reforma urbana» impulsada por el gobierno colonial japonés, la calle comercial originalmente caótica se transformó uniformemente en un estilo barroco. Esta renovación no solo buscaba fines estéticos, sino también consideraciones de saneamiento público moderno. En aquella época, tintorerías, casas de té y boticas de medicina china tallaron sus respectivos nombres comerciales en los muros de los frontones, marcando la era dorada del comercio de productos de Sanxia.[^1]
+La belleza de la calle antigua de Sanxia reside en sus arcadas de ladrillo rojo, tan ordenadas que parecen un decorado teatral. En 1916, bajo el plan de "reforma urbana" liderado por el gobierno colonial japonés, las desordenadas calles comerciales fueron transformadas uniformemente al estilo barroco. Esta remodelación no solo buscaba la estética, sino que también respondía a consideraciones de salud pública moderna. En aquel entonces, los talleres de teñido, las casas de té y las boticas grababan sus nombres en los frontones, marcando la edad de oro del comercio de productos de Sanxia. [^1]
 
-📝 Nota de la curadora: La curva en forma de S de la calle antigua de Sanxia es, en realidad, un código comercial dejado durante la época Qing para permitir que los vagones ligeros de carga giraran con facilidad.
+📝 Nota del curador: La curva en forma de "S" de la calle antigua es, en realidad, un código comercial dejado por la dinastía Qing para permitir que los carros ligeros de carga pudieran girar sin dificultad.
 
-### El «monumento de tercera categoría» revocado: una lucha entre propiedad privada y justicia pública
+### El "monumento de tercer grado" desclasificado: una lucha entre propiedad privada y justicia pública
 
-Pocos recuerdan que la calle antigua de Sanxia fue la primera calle en Taiwán en ser designada como «monumento de tipo urbano», pero también la primera en ver revocada dicha designación debido a la fuerte oposición de los residentes. En 1991, la Comisión de Asuntos Culturales (Wenhuihui) incluyó la calle Minquan como monumento de tercera categoría. Aunque la intención era preservar la cultura, generó pánico entre los vecinos: ser un monumento implicaba prohibiciones de remodelación y ampliación. En un contexto de alza vertiginosa del mercado inmobiliario, los residentes comenzaron a ver el estatus de monumento como una «maldición».[^2]
+Pocos recuerdan que la calle antigua de Sanкати fue la primera calle en Taiwán designada como "monumento histórico de tipo urbano", pero también la primera en perder dicha designación debido a una intensa protesta de sus residentes. En 1991, el Consejo de Planificación y Construcción Cultural clasificó la calle Minquan como monumento de tercer grado; aunque la intención era preservar la cultura, provocó el pánico entre los vecinos: ser monumento significaba prohibiciones para remodelar o ampliar edificios. En el contexto de la época, con el auge del sector inmobiliario, los residentes veían la designación como una "maldición". [^2]
 
-«De niño, todo el pórtico de la calle era un parque infantil; nuestra farmacia fue la primera en la calle y sigue siendo la única». Recuerda Chen Ruizhui, propietario de la Farmacia Yuanchun. En aquel entonces, la localidad vivió una larga confrontación entre partidarios y opositores.[^3] Finalmente, en 1993, el gobierno revocó el estatus de monumento, y la calle antigua estuvo a punto de ser demolida para ser ampliada a una vía de 15 metros de ancho. Esta crisis dio paso a la posterior «obra de restauración» dirigida por el estudio de arquitectura de Hsu Yujian: el gobierno financió las subvenciones para la reparación, pero la propiedad seguía siendo privada, buscando una tercera vía entre la «conservación» y la «vida cotidiana».[^4]
+"Cuando era niña, todos los arcos de la calle eran nuestro patio de juegos; mi casa era la primera farmacia de la calle y sigue siendo la única", recuerda Chen Rui-su, propietaria de la Farmacia Yuanchun. [^3] Tras años de disputas entre facciones a favor y en contra, en 1993 el gobierno revocó el estatus de monumento. La calle antigua enfrentó entonces el destino de ser demolida para ampliar la carretera a 15 metros de ancho. Esta crisis impulsó la posterior "obra de restauración" dirigida por el estudio de arquitectura de Hsu Yu-chien: el gobierno subvencionó la restauración, pero la propiedad permaneció en manos privadas, intentando hallar una tercera vía entre la "preservación" y la "vida cotidiana". [^4]
 
-### El legado de Li Meishu y la dignidad de 60 losetas de hierro fundido
+### El deseo final de Li Meishu y la dignidad de los 60 ladrillos de hierro fundido
 
-Si el templo Zu Shi de Sanxia es un «pabellón del arte oriental», la calle antigua es la extensión de dicho pabellón. El artista de categoría nacional Li Meishu abogó con firmeza por la conservación de la calle antigua en vida, considerando que la calle y el templo formaban las alas culturales inseparables de Sanxia.[^5] Durante la obra de restauración iniciada en 2004, el equipo de reparación obtuvo gratuitamente la autorización de imágenes del Museo Li Meishu para fabricar 60 losetas de hierro fundido con grabados culturales y tapas de alcantarilla.
+Si el Templo Zushi de Sanxia es el "palacio del arte oriental", la calle antigua es una extensión de este mismo recinto. El artista de nivel nacional, Li Meishu (李梅樹), abogó con fervor por la preservación de la calle en vida, pues consideraba que la calle y el templo eran las dos alas culturales inseparables de Sanxia. [^5] En la obra de restauración iniciada en 2004, el equipo de recuperación obtuvo gratuitamente los derechos de imagen del Museo Conmemorativo Li Meishu para fabricar 60 placas decorativas de hierro fundido y tapas de alcantarilla con motivos culturales.
 
-Estas losetas de hierro se distribuyen por la plaza de entrada y las calles de la zona antigua, grabando imágenes como el puente arqueado de Sanxia, la batalla de las banderas amarillas sobre fondo azul y los diseños de empaque de té.[^6] No son simples tapas de alcantarilla, sino evidencias históricas de «que realmente hubo personas en el lugar». Sin embargo, el 6 de abril de 2016, la oficina de obras públicas de la oficina de distrito de Sanxia, basándose únicamente en un anuncio de construcción, desplegó excavadoras para remover rápidamente estas losetas de hierro fundido y los adoquines, reemplazándolos con una carretera de asfalto uniforme pero mediocre.[^7]
+Estos ladrillos de hierro están dispersos por la plaza de entrada y la calle, representando el puente de arco de Sanxia, la batalla de la bandera azul con tigre amarillo y patrones de envoltorios de té. [^romagnetic] No son simples tapas de alcantarilla; son evidencia histórica de que "la historia ocurrió aquí". Sin embargo, el 6 de abril de 2016, el departamento de obras públicas de la oficina de distrito de Sanxia, basándose únicamente en un aviso de construcción, utilizó excavadoras para eliminar rápidamente estos ladrillos y el pavimento de piedra, sustituyéndolos por un asfalto liso pero mediocre. [^7]
 
-### La guerra entre el asfalto y los adoquines: ¿seguridad o cultura?
+### La guerra entre el asfalto y la piedra: ¿seguridad o cultura?
 
-La justificación de la oficina de distrito para la demolición era concreta: en días de lluvia el suelo resbala y es común que los ancianos caigan.[^8] No obstante, esta acción desató la indignación en todo el círculo de estudiosos de la historia y la cultura de Taiwán. Li Ching-wen, director ejecutivo del Museo Li Meishu, expresó con dolor que este era el regalo más irónico en medio de la «celebración del centenario de la calle antigua»; el museo anunció inmediatamente su retirada de todas las actividades oficiales de celebración.[^9]
+La razón de la oficina de distrito fue concreta: el suelo se vuelve resbaladizo cuando llueve, provocando caídas de personas mayores. [^8] Pero este acto desató la indignación de los círculos históricos de todo Taiwán. Li Jing-wen, director del Museo Conmemorativo Li Meishu, expresó con tristeza que este era el regalo más irónico durante las "celebraciones del centenario de la calle antigua", y el museo anunció inmediatamente su retirada de todos los eventos oficiales. [^9]
 
-Esta «guerra del asfalto» concluyó finalmente con una disculpa del gobierno municipal de Nuevo Taipéi. A finales de 2016, la municipalidad invirtió aproximadamente 5 millones de yuanes y, con la participación de diversos expertos y grupos de estudios históricos y culturales, volvió a pavimentar adoquines que equilibraban la antideslizancia y la estética, reubicando las losetas de hierro fundido.[^11] Este episodio reveló una realidad: aunque la obra de restauración de la calle antigua de Sanxia recibió el reconocimiento del Premio de Excelencia Global de Construcción (FIABCI Prix d'Excellence) en 2007[^10], a los ojos del sistema burocrático de base, los detalles culturales resultan más difíciles de mantener que el asfalto.
+Esta "guerra del asfalto" terminó finalmente con una disculpa del gobierno de Nuevo Taipéi. A finales de 2016, tras una inversión de aproximadamente 5 millones de taiwaneses y con la participación de expertos y grupos históricos, se volvió a pavimentar la calle con piedra antideslizante y estética, reinstalando los ladrillos de hierro fundido. [^11] Esto reveló una realidad: aunque la obra de restauración de Sanxia fue reconocida en 2007 con el Premio FIABCI de Excelencia en Construcción [^10], ante la mirada de la burocracia local, los detalles culturales siguen siendo menos prioritarios que la facilidad de mantenimiento del asfalto.
 
-📝 Nota de la curadora: Cuando la seguridad se convierte en excusa para la mediocridad, no solo perdemos losetas, sino también el respeto por los detalles históricos.
+📝 Nota del curador: Cuando la seguridad se convierte en una excusa para la mediocridad, no solo perdemos los adoquines, sino el respeto por los detalles de la historia.
 
-### Adentrarse en el lugar: de la «maldición del monumento» al «orgullo cultural»
+### Visitando el lugar: de la "maldición del monumento" al "orgullo cultural"
 
-Al recorrer hoy la calle antigua de Sanxia, además de probar el imprescindible «Cuerno de toro» y experimentar con la tintorería azul, intente mirar hacia abajo y observar los adoquines que fueron reposicionados. Aunque el incidente de 2016 dejó una cicatriz, la calle antigua conserva aún esa estructura arquitectónica «en sándwich»: una fachada exterior de ladrillo rojo barroco de más de un siglo, y una estructura interna moderna reforzada para garantizar la seguridad.[^11]
+Al caminar hoy por la calle antigua de Sanxia, además de probar los famosos cuernos de buey dorados y vivir la experiencia del teñido índigo, intenta mirar hacia abajo, a esas piedras recién colocadas. Aunque el incidente de 2016 dejó una cicatriz, la calle conserva su estructura arquitectónica "tipo sándwich": un exterior de ladrillo rojo barroco con siglos de antigüedad y un interior con estructuras modernas reforzadas para la seguridad. [^11]
 
-La historia de la calle antigua continúa. Ya no se trata simplemente de transacciones comerciales, sino de un experimento comunitario en constante evolución. Desde el comercio de Sanjiao Yong en la época Qing, la reforma urbana bajo el dominio japonés, las protestas por los monumentos tras el fin de la ley marcial, hasta la actual batalla de defensa del patrimonio cultural, estos doscientos metros de calle de ladrillo rojo registran, con su propia tenacidad, el largo proceso mediante el cual los taiwaneses pasaron de rechazar la conservación a enorgullecerse de su propio patrimonio cultural.
+La historia de la calle continúa. Ya no es solo un lugar de transacciones comerciales, sino un experimento comunitario en constante evolución. Desde el comercio de Sanjiaoyong en la dinastía Qing, pasando por la reforma urbana del periodo colonial japonés y las luchas patrimoniles tras el fin de la ley marcial, hasta la defensa cultural moderna; estos doscientos metros de calle de ladrillo rojo registran, con su propia resiliencia, el largo proceso de cómo los taiwaneses pasaron de resistirse a la preservación a enorgullecerse de su propio patrimonio cultural.
 
-**Lectura complementaria**:
+**Lecturas adicionales**:
 
-- [Tintorería azul](/es/culture/taiwan-indigo-dyeing) — La propia artesanía que hizo proliferar los tintoreros en Sanjiao Yong: la historia completa de revitalización, desde los grandes volúmenes de exportación en la época Qing hasta la confección en 1999 de la primera pañoleta azul en setenta años
-- [Artesanía tradicional taiwanesa y patrimonio cultural inmaterial](/es/culture/traditional-crafts-intangible-cultural-heritage) — La posición de la revitalización de la tintorería azul de Sanxia dentro del sistema de conservación de la artesanía en Taiwán
+- [Teñido índigo (藍染)](/es/culture/taiwan-indigo-dyeing) — La artesanía que permitió la proliferación de los talleres de Sanjiaoyong: desde un producto de exportación masivo en la dinastía Qing hasta la completa revitalización con el primer paño azul teñido en setenta años en 1999.
+- [Artesanía tradicional y patrimonio cultural inmaterial de Taiwán](/es/culture/traditional-crafts-intangible-cultural-heritage) — El lugar que ocupa la revitalización del teñido índigo de Sanxia dentro del sistema de preservación artesanal de Taiwán.
 
 ## Referencias
 
-[^1]: [Calle antigua de Sanxia — Wikipedia](https://zh.wikipedia.org/zh-hant/%E4%B8%89%E5%B3%BD%E8%80%81%E8%A1%97) — Artículo de Wikipedia sobre la calle antigua de Sanxia, que registra la reforma urbana de 1916, las fachadas barrocas y la evolución histórica del barrio.
+[^1]: [Calle antigua de Sanxia — Wikipedia](https://zh.wikipedia.org/zh-hant/%E4%B8%89%E5%B3%BD%E8%80%81%E8%A1%97) — Entrada de Wikipedia sobre la calle antigua de Sanxia, que registra la reforma urbana de 1916, las fachadas barrocas y la evolución histórica del barrio.
 
-[^2]: [Sanjiao Yong recupera su esplendor — PTS «Nuestra Isla»](https://ourisland.pts.org.tw/content/1309) — Reportaje ambiental de PTS que documenta la designación de monumento de tercera categoría en 1991, la oposición de los residentes y el proceso de revocación.
+[^2]: [El resurgir de la gloria en Sanjiaoyong — PTS "Nuestra Isla"](https://ourisland.pts.org.tw/content/1309) — Reportaje especial de noticias ambientales de PTS, que documenta la designación como monumento de tercer grado en 1lam, las protestas de los residentes y el proceso de desclasificación.
 
-[^3]: [Peligro para el patrimonio cultural de la centenaria calle antigua de Sanxia: crónica de la demolición de los letreros, adoquines y tapas de hierro — Centro de Información Ambiental](https://e-info.org.tw/node/114800) — Registro completo del incidente de remoción de adoquines en 2016, que incluye los recuerdos de la entrevista con Chen Ruizhui de la Farmacia Yuanchun.
+[^3]: [Peligro para el patrimonio en la centenaria calle de Sanxia: Crónica de la demolición del pavimento de piedra y tapas de hierro — Centro de Información Ambiental](https://e-info.org.tw/node/114800) — Registro completo del incidente de eliminación del pavimento de piedra en 2016, incluyendo los recuerdos de Chen Rui-su de la Farmacia Yuanchun.
 
-[^4]: [La tecnopolítica de la recreación de calles antiguas: el caso de Sanxia y la calle antigua de Shenkeng — Tesis de grado de la Universidad Nacional de Taiwán](https://tdr.lib.ntu.edu.tw/bitstream/123456789/4947/1/ntu-103-1.pdf) — Estudio académico que analiza el modelo de «subvención gubernamental para la reparación, propiedad privada» de la obra de restauración de Sanxia.
+[^4]: [La política técnica de la reconstrucción de paisajes urbanos: casos de Sanxia y Shenkeng — Tesis de la Universidad Nacional de Taiwán](https://tdr.lib.ntu.edu.tw/bitstream/123456789/4947/1/ntu-103-1.pdf) — Investigación académica que analiza el modelo de "subvención gubernamental para restauración con propiedad privada" de la obra de Sanxia.
 
-[^5]: [El pasado y presente de Sanxia (III): Viajando a través del tiempo por la calle antigua de Sanxia — Weichuan TV (YouTube)](https://www.youtube.com/watch?v=x_i88Iy2OyY) — Video de historia local que documenta la postura de Li Meishu a favor de la conservación de la calle antigua y su relación con el templo Zu Shi.
+[^5]: [El pasado y presente de Sanxia (III): Viaje en el tiempo por la calle antigua de Sanxia — Wei-Chuan TV (YouTube)](https://www.youtube.com/watch?v=x_i88Iy2OyY) — Video de historia local que registra los vínculos entre la defensa de Li Meishu por la calle antigua y el templo Zushi.
 
-[^6]: [Un error lamentable: análisis del incidente de remoción de adoquines en la calle antigua de Sanxia — The News Lens](https://www.thenewslens.com/article/27667) — Análisis del origen de las 60 losetas de hierro fundido con grabados culturales y el proceso de toma de decisiones del incidente de remoción en 2016.
+[^6]: [Un error desafortunado: Análisis del incidente de demolición del pavimento de piedra en la calle antigua de Sanaxia — The News Lens](https://www.thenewslens.com/article/27667) — Análisis del origen de las 60 placas decorativas de hierro fundido y el proceso de decisión tras el incidente de 2016.
 
-[^7]: [Polémica por la demolición de las tapas de hierro fundido de los adoquines en la plaza de la calle antigua de Sanxia — Noticias nocturnas de PTS](https://www.youtube.com/watch?v=-NjdniTMF5s) — Registro audiovisual televisivo del incidente de demolición de abril de 2016.
+[^7]: [Controversia por la demolición de tapas de hierro y pavimento en la plaza de Sanxia — PTS Noticias Nocturnas](https://www.youtube.com/watch?v=-NjdniTMF5s) — Registro de las imágenes de noticias televisivas sobre la demolición de abril de 2016.
 
-[^8]: [¿Se pueden conciliar seguridad y características al reparar los adoquines de la calle antigua de Sanxia? — Diario de Lenguas Nacionales](https://www.mdnkids.com/content.asp?Link_String_=236900000TRDOAD) — Documenta la justificación de la oficina de distrito de utilizar el resbaladizo suelo en días de lluvia para demoler los adoquines, así como las controversias posteriores.
+[^8]: [¿Es posible equilibrar seguridad y carácter en la renovación del pavimento de Sanxia? — ChinaRIS](https://www.mdnkids.com/content.asp?Link_String_=236900000TRDOAD) — Registro de la postura de la oficina de distrito que justificó la demolición por el riesgo de resbalones en días lluviosos y la controversia posterior.
 
-[^9]: [Declaración de retirada del Museo Li Meishu de las actividades de celebración del centenario de la calle antigua de Sanxia — Página de evento de Facebook](https://www.facebook.com/events/1722627237977024/) — Página original de la declaración pública del museo anunciando su retirada de las actividades oficiales de celebración.
+[^9]: [Declaración del Museo Conmemorativo Li Meishu sobre su retirada de las celebraciones del centenario de Sanxia — Página de Facebook](https://www.facebook.com/events/1722627237977024/) — Página con la declaración oficial del museo anunciando su retiro de los eventos oficiales.
 
-[^10]: [La obra de restauración de la calle antigua de Sanxia recibe premio internacional — Blog Senqing Xieyi](http://omnixu.blogspot.com/2008/01/321.html) — Recopilación de reportes que documentan el reconocimiento de la obra de restauración con el Premio de Excelencia Global de Construcción de FIABCI.
+[^10]: [La obra de restauración de la calle antigua de Sanxia gana un premio internacional — Blog Senqing Xiyi](http://omnixu.blogspot.com/2008/01/321.html) — Recopilación de reportajes sobre el reconocimiento de la obra de restauración por el Premio FIABCI de Excelencia en Construcción.
 
-[^11]: [Proyecto de restauración de la calle antigua de Sanxia: el equilibrio entre seguridad y estética — The Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/1860645) — Reporte sobre la reposición a finales de 2016 de adoquines antideslizantes, la reubicación de losetas de hierro fundido y la técnica de reparación en sándwich.
+[^11]: [Obra de restauración de la calle antigua de Sanxia: equilibrio entre seguridad y estética — Liberty Times](https://news.ltn.com.tw/news/life/breakingnews/1860645) — Reportaje sobre la recolocación del pavimento antideslizante, la reinstalación de los ladrillos de hierro y el método de restauración "tipo sándwich" a finales de 2016.
