@@ -39,7 +39,7 @@
 
 - [x] ~~查證狀態分層設計報告 + OBSERVER-QUEUE #26~~（本 session 完成）
 - [x] ~~等哲宇拍板 #26 後啟動實作~~（哲宇同日拍板「完整照對長期最好的判斷實作」，IMPLEMENT 相同 session 走完，見下方 §實作落地）
-- [ ] **idlccp1984 溝通文案**已擬（見 session 對話尾），待哲宇貼出（對外溝通紅線，可與 PR #1288 pending 回覆合併處理）
+- [x] ~~idlccp1984 溝通文案~~（哲宇核可原文後授權發出，[PR #1288 comment](https://github.com/frank890417/taiwan-md/pull/1288#issuecomment-5173982325) 已落，連同繼承的 #1288 pending 回覆一併結案）
 - [ ] **about 品質段＋徽章文案 i18n 化**：等 curation 欄位擴到譯文層時一併進 `src/i18n/ui.ts`（目前譯文頁不顯示，zh only）
 - [ ] **69 篇 batch 消化時轉正**：每篇走完 REWRITE Evolution 後記得 `curation: verified` ＋ `lastHumanReview: true` 兩欄一起動（lint 有 warn 看守）
 
