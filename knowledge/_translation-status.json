@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T11:12:31+08:00",
-    "zhCommitHead": "f94528340",
+    "lastUpdated": "2026-08-04T11:17:20+08:00",
+    "zhCommitHead": "a2c4bc7cd",
     "totalZh": 880,
     "activeLanguages": [
       "en",
@@ -27,8 +27,8 @@
       },
       "ja": {
         "total_zh": 880,
-        "fresh": 850,
-        "stale": 14,
+        "fresh": 851,
+        "stale": 13,
         "metadata_stale": 2,
         "missing": 14,
         "orphan": 0
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 880,
-        "fresh": 509,
+        "fresh": 510,
         "stale": 3,
         "metadata_stale": 1,
-        "missing": 367,
+        "missing": 366,
         "orphan": 0
       },
       "pt": {
@@ -83,25 +83,25 @@
       },
       "hi": {
         "total_zh": 880,
-        "fresh": 621,
+        "fresh": 622,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 257,
+        "missing": 256,
         "orphan": 0
       },
       "ar": {
         "total_zh": 880,
-        "fresh": 711,
+        "fresh": 712,
         "stale": 1,
         "metadata_stale": 0,
-        "missing": 168,
+        "missing": 167,
         "orphan": 0
       },
       "ru": {
         "total_zh": 880,
-        "fresh": 734,
+        "fresh": 735,
         "stale": 1,
-        "metadata_stale": 1,
+        "metadata_stale": 0,
         "missing": 144,
         "orphan": 0
       }
@@ -13566,18 +13566,16 @@
         "ru": {
           "path": "ru/Economy/tsmc.md",
           "translatedFrom": "Economy/台灣企業：台積電.md",
-          "sourceCommitSha": "bb3e6a0b7",
-          "sourceContentHash": "sha256:aa38ca96cac05f3e",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:e8afc225ea9e0107",
           "sourceBodyHash": "sha256:6bdb1c40d1477a30",
-          "translatedAt": "2026-07-29T07:32:37+08:00",
+          "translatedAt": "2026-08-04T06:18:12+08:00",
           "translationLastCommit": "36ec99d5",
           "translationLastModified": "2026-07-29T08:32:47+08:00",
           "inferred": false,
           "footnoteDefs": 33,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -53079,7 +53077,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Nature/taiwanese-indigenous-ecological-wisdom-conservation.md",
+          "translatedFrom": "Nature/台灣原住民生態智慧與環境保育.md",
+          "sourceCommitSha": "4b6d28c54",
+          "sourceContentHash": "sha256:d162c579da0f2b9c",
+          "sourceBodyHash": "sha256:e7b3f8c1b339cc47",
+          "translatedAt": "2026-08-04T06:18:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Nature/taiwanese-indigenous-ecological-wisdom-conservation.md",
@@ -66936,8 +66945,8 @@
           "sourceContentHash": "sha256:5e90feeafc19360c",
           "sourceBodyHash": "sha256:81e4bcfc4e50e127",
           "translatedAt": "2026-08-04T06:18:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a2c4bc7c",
+          "translationLastModified": "2026-08-04T11:12:31+08:00",
           "inferred": false,
           "footnoteDefs": 10,
           "status": "fresh",
@@ -73260,8 +73269,8 @@
           "sourceContentHash": "sha256:c7a690e21bd72631",
           "sourceBodyHash": "sha256:f379180b5e8bcecc",
           "translatedAt": "2026-08-04T06:18:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a2c4bc7c",
+          "translationLastModified": "2026-08-04T11:12:31+08:00",
           "inferred": false,
           "footnoteDefs": 11,
           "status": "fresh",
@@ -75281,8 +75290,8 @@
           "sourceContentHash": "sha256:f8a43ac4f3c5c945",
           "sourceBodyHash": "sha256:564dbfac81e16aa7",
           "translatedAt": "2026-08-04T06:18:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a2c4bc7c",
+          "translationLastModified": "2026-08-04T11:12:31+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -81167,7 +81176,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/cheng-chao-tsun-javelin-asian-king.md",
+          "translatedFrom": "People/鄭兆村.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:ce2f1e81de54c692",
+          "sourceBodyHash": "sha256:efa67fc4a2da3f45",
+          "translatedAt": "2026-08-04T06:18:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/cheng-chao-tsun-javelin-asian-king.md",
@@ -82670,8 +82690,8 @@
           "sourceContentHash": "sha256:736f2b6cf89c9093",
           "sourceBodyHash": "sha256:728aa85d9d44e89a",
           "translatedAt": "2026-08-04T06:18:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a2c4bc7c",
+          "translationLastModified": "2026-08-04T11:12:31+08:00",
           "inferred": false,
           "footnoteDefs": 8,
           "status": "fresh",
@@ -83464,18 +83484,16 @@
         "ja": {
           "path": "ja/People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender.md",
           "translatedFrom": "People/曹興誠.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:419cc607d70f325a",
-          "sourceBodyHash": "sha256:ae002bb900693bc1",
-          "translatedAt": "2026-05-01T14:48:26+08:00",
+          "sourceCommitSha": "6ffd92f94",
+          "sourceContentHash": "sha256:c4ee8c6545170422",
+          "sourceBodyHash": "sha256:9a80a8cbdaaaf3e7",
+          "translatedAt": "2026-08-04T03:14:03.165822+00:00",
           "translationLastCommit": "fd678fd2",
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 26,
-          "status": "stale",
-          "reason": "body-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+6 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/tsao-hsing-cheng-from-chip-tycoon-to-anti-china-defender.md",
@@ -88254,8 +88272,8 @@
           "sourceContentHash": "sha256:32e758a1acf33e90",
           "sourceBodyHash": "sha256:fb31dbbb24515e69",
           "translatedAt": "2026-08-04T06:18:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a2c4bc7c",
+          "translationLastModified": "2026-08-04T11:12:31+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -89161,8 +89179,8 @@
           "sourceContentHash": "sha256:981dd62862f57c30",
           "sourceBodyHash": "sha256:6bf98169f185af90",
           "translatedAt": "2026-08-04T06:18:10+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a2c4bc7c",
+          "translationLastModified": "2026-08-04T11:12:31+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -89772,7 +89790,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/xu-wen-long-chimei-founder-violin-entrepreneur.md",
+          "translatedFrom": "People/許文龍.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:720cd768af91d1c3",
+          "sourceBodyHash": "sha256:7ec1f1d13ec2e4d4",
+          "translatedAt": "2026-08-04T06:18:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/xu-wen-long-chimei-founder-violin-entrepreneur.md",
