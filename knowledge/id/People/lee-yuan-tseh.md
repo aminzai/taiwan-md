@@ -1,109 +1,110 @@
 ---
 title: 'Lee Yuan-tseh'
-description: 'Penerima Hadiah Nobel Kimia 1986 yang merintis bidang baru dalam dinamika kimia melalui teknik berkas molekul bersilang, serta menjadi penerima Hadiah Nobel bidang sains pertama dari Taiwan'
-date: '2026-03-21'
-author: 'Taiwan.md'
+description: 'Pemenang Nobel Kimia 1986, mengawali bidang baru kinetika kimia dengan teknik silang berkas molekul, pemenang Nobel sains pertama Taiwan'
+date: 2026-03-21
 category: 'People'
-subcategory: '科學與學術'
 tags:
   [
-    'tokoh',
+    'Tokoh',
     'Lee Yuan-tseh',
-    'Hadiah Nobel',
-    'kimia',
-    'ilmuwan',
-    'Academia Sinica',
+    'Nobel',
+    'Kimia',
+    'Ilmuwan',
+    'Akademia Sinica',
     'Taiwan',
   ]
-lastVerified: '2026-03-21'
-lastHumanReview: 'true'
-featured: 'true'
+subcategory: '科學與學術'
+author: 'Taiwan.md'
+featured: false
+lastVerified: 2026-03-21
+lastHumanReview: true
+curation: 'incubating'
 translatedFrom: 'People/李遠哲.md'
-sourceCommitSha: '4b6d28c54'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:c7cb9c37ad53a48c'
 sourceBodyHash: 'sha256:d9744718376b888a'
-translatedAt: '2026-07-18T18:59:53+08:00'
+translatedAt: '2026-08-04T17:42:35+08:00'
 ---
 
 # Lee Yuan-tseh
 
-> **Gambaran umum 30 detik:** Lee Yuan-tseh (19 November 1936–) adalah seorang kimiawan kelahiran Hsinchu. Pada 1986, ia menerima Hadiah Nobel Kimia bersama Dudley R. Herschbach dan John C. Polanyi atas kontribusi terobosan mereka dalam dinamika reaksi kimia. Teknik berkas molekul bersilang yang dikembangkannya memungkinkan para ilmuwan untuk pertama kalinya “melihat” proses reaksi kimia. Ia merupakan penerima Hadiah Nobel bidang sains pertama dari Taiwan.
+> **Ringkasan 30 detik:** Lee Yuan-tseh (1936/11/19–), kimiawan kelahiran Hsinchu. Tahun 1986 bersama Dudley R. Herschbach dan John C. Polanyi memperoleh Nobel Kimia, atas kontribusi terobosan dalam kinetika reaksi kimia. Teknik silang berkas molekul yang dikembangkannya memungkinkan ilmuwan untuk pertama kali «melihat» proses reaksi kimia, menjadikannya pemenang Nobel sains pertama Taiwan.
 
-Lee Yuan-tseh lahir pada 19 November 1936 di Kota Hsinchu, Prefektur Hsinchu, pada masa pemerintahan Jepang (kini Distrik Timur, Kota Hsinchu). Ayahnya, Lee Tze-fan, adalah pelukis cat air ternama sekaligus kepala sekolah dasar. Latar belakang keluarga yang lekat dengan seni dan pendidikan mengasah ketajaman pengamatannya. Sejak kecil, ia gemar membongkar radio dan jam beker untuk memahami cara kerjanya—rasa ingin tahu inilah yang kelak mengubah dunia kimia.
+19 November 1936, Lee Yuan-tseh lahir di Hsinchu-shū Hsinchu-shi masa penjajahan Jepang (kini Hsinchu Timur). Ayahnya Lee Tse-fan adalah pelukis cat air terkenal sekaligus kepala sekolah dasar, latar belakang keluarga seni dan pendidikan mengasah daya observasinya yang tajam. Masa kanak-kanaknya ia suka membongkar radio dan jam alarm, ingin memahami cara kerjanya — rasa ingin tahu itulah yang kemudian mengubah dunia kimia.
 
-## Perjalanan pendidikan: dari Hsinchu ke panggung dunia
+## Jalan Menuntut Ilmu: Dari Hsinchu ke Panggung Dunia
 
-Ketika bersekolah di SMA Hsinchu, Lee Yuan-tseh telah menunjukkan minat yang mendalam terhadap matematika dan sains. Pada 1955, ia memasuki Jurusan Kimia Universitas Nasional Taiwan. Meskipun kurikulum saat itu terutama berfokus pada kimia analitik, ia membentuk kelompok belajar sendiri untuk mendalami kimia fisik, bahkan mempelajari bahasa Jerman dan Rusia agar dapat membaca literatur dari luar negeri.
+Saat menunaikan pendidikan di SMA Hsinchu, Lee Yuan-tseh sudah menunjukkan minat kuat pada matematika dan fisika. Tahun 1955 ia masuk Jurusan Kimia Universitas Taiwan (台灣大學), meskipun kurikulum saat itu berfokus pada kimia analitik, ia mandiri membentuk kelompok belajar mempelajari kimia fisika, bahkan belajar bahasa Jerman dan Rusia untuk membaca literatur asing.
 
-Pada 1959, ia melanjutkan studi magister di Institut Pascasarjana Ilmu Atom, Universitas Nasional Tsing Hua, dengan fokus pada spektroskopi molekul. Pada 1962, ia memperoleh beasiswa untuk menempuh program doktor dalam dinamika kimia di Universitas California, Berkeley, Amerika Serikat, dan menyelesaikan studinya pada 1967.
+1959, ia melanjutkan magister di Institut Penelitian Ilmu Atom Universitas Tsinghua (清華大學), mengkhususkan diri pada spektroskopi molekul. 1962 memperoleh beasiswa ke Universitas California Berkeley mengejar doktor kimia kinetika, lulus 1967.
 
-Titik balik yang sesungguhnya terjadi di Universitas Harvard. Pada 1967–1969, Lee Yuan-tseh menjalani penelitian pascadoktoral di bawah bimbingan penerima Hadiah Nobel Dudley R. Herschbach. Keduanya bekerja sama mengembangkan “teknik berkas molekul bersilang” yang revolusioner.
+Titik balik sesungguhnya terjadi di Universitas Harvard. 1967–1969, Lee Yuan-tseh melakukan penelitian pascadoktor di bawah bimbingan pemenang Nobel Dudley R. Herschbach, keduanya bersama-sama mengembangkan revolusioner «teknik silang berkas molekul».
 
-## Berkas molekul bersilang: terobosan dalam dunia kimia
+## Silang Berkas Molekul: Terobosan Dunia Kimia
 
-Penelitian reaksi kimia secara tradisional ibarat mengamati kerumunan di sebuah pasar malam—pusat jajanan dan hiburan malam yang ramai—ketika molekul terus bertumbukan dan bergerak secara tidak teratur sehingga sulit melihat apa yang sebenarnya terjadi. Teknik berkas molekul bersilang yang diciptakan Lee Yuan-tseh memungkinkan dua berkas molekul bertumbukan pada sudut dan kecepatan tertentu dalam lingkungan vakum tinggi, layaknya merekam “tayangan ulang gerak lambat” suatu reaksi kimia dengan kamera berkecepatan tinggi.
+Penelitian reaksi kimia tradisional bagaikan mengamati keramaian pasar malam — molekul terus bertabrakan, gerakannya kacau, sulit melihat apa yang sebenarnya terjadi. Teknik silang berkas molekul ciptaan Lee Yuan-tseh, ekuivalen dengan mempertemukan dua berkas molekul di lingkungan vakum tinggi dengan sudut dan kecepatan tertentu, layaknya kamera kecepatan tinggi memotret «putar pelan» reaksi kimia.
 
-Teknik ini untuk pertama kalinya memungkinkan para ilmuwan “melihat” setiap tahap reaksi kimia pada tingkat molekuler: bagaimana reaktan berubah menjadi produk, bagaimana energi berpindah antarmolekul, serta bagaimana struktur tiga dimensi berubah selama reaksi. Bagi dinamika kimia, hal ini merupakan lompatan revolusioner dari “menduga” menjadi “mengamati”.
+Teknik ini memungkinkan ilmuwan untuk pertama kali pada tingkat molekul «melihat» setiap langkah reaksi kimia: bagaimana reaktan berubah menjadi produk, bagaimana energi berpindah antar molekul, perubahan struktur stereo reaksi. Bagi kinetika kimia, ini lompatan revolusioner dari «tebakan» ke «pengamatan».
 
-Pada 1974, Lee Yuan-tseh kembali ke Berkeley sebagai profesor kimia dan terus menyempurnakan teknik tersebut. Ia meneliti berbagai reaksi yang tampak sederhana, seperti reaksi antara atom fluorin dan molekul hidrogen (F + H₂ → HF + H), serta menemukan banyak fenomena yang tidak terduga. Penelitian-penelitian ini menjadi contoh klasik dalam buku ajar dinamika kimia.
+1974, Lee Yuan-tseh kembali ke Berkeley menjabat profesor kimia, terus menyempurnakan teknik ini. Ia mempelajari reaksi yang tampak sederhana seperti atom fluor dengan molekul hidrogen (F + H₂ → HF + H), menemukan banyak fenomena mengejutkan. Penelitian ini menjadi kasus klasik dalam buku teks kinetika kimia.
 
-## 1986: momen Nobel bagi Taiwan
+## 1986: Momen Nobel Taiwan
 
-Pada 15 Oktober 1986, Akademi Ilmu Pengetahuan Kerajaan Swedia mengumumkan bahwa Hadiah Nobel Kimia dianugerahkan kepada Herschbach, Lee Yuan-tseh, dan Polanyi sebagai penghargaan atas “kontribusi mereka terhadap penelitian dinamika proses kimia dasar, yang memungkinkan pemahaman lebih mendalam mengenai bagaimana reaksi kimia berlangsung”.
+15 Oktober 1986, Akademi Ilmu Pengetahuan Kerajaan Swedia mengumumkan Nobel Kimia dianugerahkan kepada Herschbach, Lee Yuan-tseh, dan Polanyi, atas «kontribusi pada penelitian dinamika proses kimia fundamental, sehingga memungkinkan pemahaman lebih mendalam tentang bagaimana reaksi kimia terjadi».
 
-Berita kemenangan Lee Yuan-tseh mengguncang Taiwan dengan gelombang kegembiraan. Ia merupakan penerima Hadiah Nobel bidang sains pertama dari Taiwan, membuktikan bahwa Taiwan mampu melahirkan ilmuwan berkelas dunia. Lee kemudian menyumbangkan salah satu medalinya kepada almamaternya, SMA Hsinchu. Ia berkata, “Saya tidak meraih Hadiah Nobel seorang diri; SMA Hsinchu-lah yang membentuk saya.”
+Kabar kemenangan Lee Yuan-tseh sampai ke Taiwan, seluruh pulau bergemetar. Ini pemenang Nobel sains pertama Taiwan, membuktikan Taiwan mampu melahirkan bakat ilmuwan kelas dunia. Lee Yuan-tseh segera menyerahkan salah satu medalinya ke alma mater SMA Negeri Hsinchu, ia berkata: «Nobel ini bukan didapatkan sendirian, SMA Hsinchu yang mencetakiku.»
 
-Menariknya, kewarganegaraan Lee Yuan-tseh saat menerima penghargaan tersebut adalah Amerika Serikat. Namun, hal itu sama sekali tidak mengurangi kebanggaan orang Taiwan—mereka tahu bahwa anak yang dibesarkan di Hsinchu dan bertutur dalam bahasa Taiwan ini tumbuh dari segala hal yang diberikan Taiwan kepadanya.
+Menariknya, kewarganegaraan Nobel Lee Yuan-tseh adalah Amerika Serikat. Namun hal itu tidak mengurangi kebanggaan warga Taiwan — mereka tahu anak Hsinchu yang besar sambil berbahasa Taiwan, yang mengalir di darahnya adalah nutrisi Taiwan.
 
-## 1994: komitmen pulang setelah menimba ilmu
+## 1994: Janji Pulang Berilmu
 
-Pada 1994, ketika berada di puncak karier akademisnya, Lee Yuan-tseh mengambil keputusan yang mengejutkan kalangan akademis internasional: mengundurkan diri dari jabatan profesor di Berkeley, melepaskan kewarganegaraan Amerika Serikat, dan kembali ke Taiwan untuk menjabat sebagai presiden Academia Sinica (1994–2006).
+1994, di puncak karir akademik, Lee Yuan-tseh membuat keputusan mengejutkan dunia akademik internasional: mengundurkan diri dari jabatan profesor Berkeley, melepaskan kewarganegaraan AS, pulang ke Taiwan menjabat Kepala Akademia Sinica (1994–2006).
 
-Keputusan tersebut memicu kontroversi. Para pengkritik menilai ia menyia-nyiakan pengaruhnya di panggung internasional, sedangkan para pendukung menganggapnya sebagai perwujudan cita-cita seorang cendekiawan untuk mengabdi kepada negaranya. Alasan Lee sendiri sederhana: “Saya ingin menggunakan pengalaman saya untuk menjadikan Taiwan pusat ilmu pengetahuan utama di Asia.”
+Keputusan ini penuh kontroversi. Kritikus menilai ia membuang pengaruh di panggung internasional, pendukung menilai ia mewujudkan ideal cendekiawan berbakti pada bangsa. Alasan Lee Yuan-tseh sederhana: «Saya ingin menggunakan pengalaman sendiri, menjadikan Taiwan pusat ilmu pengetahuan Asia.»
 
-Selama 12 tahun memimpin Academia Sinica, Lee Yuan-tseh mendorong modernisasi organisasi dan membangun sistem penilaian penelitian berstandar internasional. Ia juga mendirikan sejumlah lembaga penelitian baru dalam bidang ilmu informasi, ilmu biomedis, dan penelitian genomika. Ia merekrut para akademisi bertaraf internasional, seperti Wong Chi-huey dan Lai Monto Ho, untuk kembali ke Taiwan, sehingga menghadirkan tenaga baru bagi komunitas ilmiah Taiwan.
+Selama 12 tahun memimpin Akademia Sinica, Lee Yuan-tseh mendorong modernisasi organisasi, menetapkan sistem penilaian penelitian berstandar internasional, mendirikan banyak institut baru seperti Ilmu Komputer, Ilmu Biomedis, Penelitian Genom. Ia menarik Weng Chi-huey (翁啟惠), Lai Ming-chao (賴明詔) dan sarjana kelas dunia lain pulang ke Taiwan, menyuntikkan vitalitas baru ke komunitas ilmuwan Taiwan.
 
-## Keterlibatan kontroversial dalam reformasi pendidikan
+## Keterlibatan Kontroversial dalam Reformasi Pendidikan
 
-Lee Yuan-tseh bukan hanya seorang ilmuwan, melainkan juga penggerak reformasi pendidikan. Pada 1990-an, ia terlibat dalam perencanaan kurikulum terpadu sembilan tahun serta mendorong pengembangan kemampuan berpikir siswa sebagai pengganti pendidikan yang menjejalkan hafalan.
+Lee Yuan-tseh bukan hanya ilmuwan, tapi juga pendorong reformasi pendidikan. 1990-an, ia terlibat perencanaan Kurikulum 9 Tahun Terpadu, menegaskan pengembangan kemampuan berpikir siswa bukan pendidikan sistem burung dara.
 
-Namun, hasil reformasi pendidikan tersebut memicu perdebatan sengit. Para pengkritik menilai reformasi itu telah menurunkan standar pembelajaran, dan Lee pun menghadapi tekanan besar. Belakangan ia merenungkan, “Reformasi pendidikan lebih rumit daripada penelitian ilmiah karena melibatkan setiap aspek masyarakat.”
+Namun hasil reformasi memicu kontroversi hebat, kritikus menilai menurunkan standar belajar, Lee Yuan-tseh pun menanggung tekanan besar. Ia kemudian merefleksikan: «Reformasi pendidikan lebih kompleks dari penelitian ilmu, melibatkan segala aspek masyarakat.»
 
-Pengalaman ini menyadarkan Lee Yuan-tseh bahwa bahkan seorang penerima Hadiah Nobel belum tentu dapat menemukan jawaban baku ketika keluar dari laboratorium dan berhadapan dengan persoalan sosial.
+Pengalaman ini membuat Lee Yuan-tseh menyadari, bahkan pemenang Nobel, keluar dari laboratorium menghadapi isu sosial, tidak tentu menemukan jawaban baku.
 
-## Pelopor lingkungan hidup dan reputasi internasional
+## Pelopor Lingkungan dan Reputasi Internasional
 
-Lee Yuan-tseh merupakan salah satu ilmuwan paling awal di Taiwan yang menaruh perhatian pada masalah lingkungan. Tim penelitiannya terjun ke bidang kimia atmosfer, kerusakan lapisan ozon, perubahan iklim, dan bidang lainnya untuk menyediakan landasan ilmiah bagi kebijakan lingkungan.
+Lee Yuan-tseh adalah salah satu ilmuwan Taiwan paling awal memperhatikan isu lingkungan. Tim penelitiannya menuruti kimia atmosfer, pengusangan lapisan ozon, perubahan iklim, menyediakan landasan ilmiah untuk kebijakan lingkungan.
 
-Ia pernah menjabat sebagai presiden Dewan Sains Internasional pada 2011–2014 dan mendorong kerja sama ilmiah global. Saat ini, ia menjabat sebagai presiden kehormatan Institute for Advanced Research, Universitas Nagoya, serta tetap aktif dalam komunitas akademis internasional.
+Ia pernah menjabat Ketua Dewan Ilmu Pengetahuan Internasional (2011–2014), mendorong kerja sama ilmuwan global. Saat ini menjabat Ketua Kehormatan Institut Penelitian Tinggi Universitas Nagoya, tetap aktif di panggung akademik internasional.
 
-Karya ilmiah Lee Yuan-tseh telah dikutip puluhan ribu kali, dan banyak murid yang dibimbingnya kemudian menjadi ilmuwan ternama. Namun, hal yang mungkin paling membanggakannya adalah membuktikan bahwa “anak Taiwan” juga mampu bersinar di panggung dunia.
+Karya ilmiah Lee Yuan-tseh dikutip puluhan ribu kali, banyak muridnya menjadi ilmuwan terkenal. Namun yang paling membanggakannya, mungkin justru membuktikan «anak Taiwan» juga bisa bersinar di panggung dunia.
 
-## Pewarisan semangat ilmiah
+## Warisan Semangat Ilmiah
 
-Lee Yuan-tseh kerap berkata, “Rasa ingin tahu adalah daya penggerak terpenting dalam penelitian ilmiah.” Ia mendorong kaum muda untuk mempertanyakan, berpikir, dan berinovasi, alih-alih sekadar menghafal tanpa memahami.
+Lee Yuan-tseh sering berkata: «Rasa ingin tahu adalah daya dorong terpenting penelitian ilmu.» Ia mendorong generasi muda mempertanyakan, berpikir, berinovasi, bukan sekadar menghafal.
 
-Ia juga menekankan tanggung jawab sosial para ilmuwan: “Pengetahuan ilmiah tidak boleh hanya berhenti di laboratorium; pengetahuan itu harus dikembalikan kepada masyarakat dan digunakan untuk memecahkan masalah yang dihadapi umat manusia.”
+Ia juga menegaskan tanggung jawab sosial ilmuwan: «Pengetahuan ilmu tidak boleh berhenti di laboratorium, harus dikembalikan ke masyarakat, memecahkan masalah yang dihadapi umat manusia.»
 
-## Pengaruh yang terus berlanjut
+## Pengaruh yang Berkelanjutan
 
-Meskipun usianya telah mendekati 90 tahun, Lee Yuan-tseh masih mengikuti perkembangan ilmu pengetahuan dan berbagai persoalan sosial. Ia menyaksikan transformasi Taiwan dari masyarakat agraris menjadi negara berteknologi maju, sekaligus terlibat langsung dalam proses perubahan tersebut.
+Meski sudah mendekati 90 tahun, Lee Yuan-tseh tetap memperhatikan perkembangan ilmu dan isu sosial. Ia menyaksikan Taiwan berubah dari masyarakat pertanian menjadi pulau teknologi, juga turut serta dalam proses transformasi itu.
 
-Dari putra seorang pelukis cat air di Hsinchu hingga menjadi ilmuwan besar yang berdiri di panggung Hadiah Nobel; dari laboratorium di Berkeley hingga kantor presiden Academia Sinica—perjalanan hidup Lee Yuan-tseh merupakan gambaran ringkas perkembangan ilmu pengetahuan Taiwan.
+Dari anak pelukis cat air Hsinchu, ke raksasa ilmuwan berdiri di panggung Nobel; dari laboratorium Berkeley, ke ruang kepala Akademia Sinica — jejak hidup Lee Yuan-tseh, adalah cerminan perkembangan ilmu pengetahuan Taiwan.
 
-Warisan terpentingnya bukanlah berbagai penemuan ilmiah tersebut, melainkan satu hal yang berhasil ia buktikan kepada dunia: Taiwan mampu melahirkan talenta yang mengubah dunia. Anak dari Hsinchu ini menggunakan teknik berkas molekul bersilang untuk mendefinisikan ulang berbagai kemungkinan dalam dunia kimia, sekaligus mendefinisikan ulang posisi Taiwan pada peta ilmu pengetahuan dunia.
+Warisan terpentingnya bukan temuan-temuan ilmiah itu, melainkan satu hal yang dibuktikannya ke dunia: Taiwan mampu melahirkan bakat yang mengubah dunia. Anak Hsinchu ini, dengan teknik silang berkas molekul mendefinisikan ulang kemungkinan dunia kimia, juga mendefinisikan ulang posisi Taiwan di peta ilmu pengetahuan dunia.
 
-Pada masa ketika istilah “kebanggaan Taiwan” bahkan belum dikenal, Lee Yuan-tseh telah menjadi sinar yang paling terang.
+Di era yang belum mengenal frasa «Cahaya Taiwan», Lee Yuan-tseh sudah menjadi sinar terterang itu.
 
 ---
 
-**Bacaan lebih lanjut**:
+**Baca Lebih Lanjut**:
 
-- [Wu Ta-you](/people/吳大猷) — pendahulu Lee Yuan-tseh sebagai presiden Academia Sinica, yang meletakkan fondasi sistem penelitian ilmiah Taiwan serta membimbing dua penerima Hadiah Nobel Fisika, Yang Chen-ning dan Tsung-Dao Lee
+- [Wu Ta-you (吳大猷)](/id/people/tai-yu-wu) — Kepala Akademia Sinica sebelum Lee Yuan-tseh, menegakkan fondasi sistem penelitian Taiwan, mendidik Yang Chen-ning (楊振寧) dan Lee Tsung-dao (李政道) dua pemenang Nobel Fisika
 
 ## Referensi
 
-- [Akademisi Lee Yuan-tseh dan kontribusinya terhadap dunia sains - Sci-Tech Vista](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=761c61ef-db0d-4461-b23a-6b8ef1f7dcfb)
-- [Siaran pers resmi Hadiah Nobel Kimia 1986 - CASE Science](https://case.ntu.edu.tw/blog/?p=25746)
-- [Lee Yuan-tseh, orang Taiwan pertama yang menerima Hadiah Nobel Kimia - UDN Time](https://time.udn.com/udntime/story/122833/8158897)
+- [Kontribusi Akademisi Lee Yuan-tseh di Dunia Ilmu - Taman Pandangan Teknologi](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=761c61ef-db0d-4461-b23a-6b8ef1f7dcfb)
+- [Rilis Pers Resmi Nobel Kimia 1986 - CASE Ilmu](https://case.ntu.edu.tw/blog/?p=25746)
+- [Orang Taiwan Pertama Pemenang Nobel Kimia «Lee Yuan-tseh» - Laporan Waktu](https://time.udn.com/udntime/story/122833/8158897)
 - [Lee Yuan-tseh - Wikipedia](https://zh.wikipedia.org/zh-hant/%E6%9D%8E%E9%81%A0%E5%93%B2)

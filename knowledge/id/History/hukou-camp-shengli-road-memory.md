@@ -1,60 +1,61 @@
 ---
-title: "Dua Sisi Jalan Shengli: Dari Pemberontakan Infanteri Berkakas ke 'Lokasi Parkeir' Kenangan Hukou"
-description: 'Di sepanjang jalan Shengli di Hukou, satu sisi pagian pengamanan kompleks adalah tanka dan badai politik, sementara yang lain adalah warga, pusat kesejahteraan, dan bioskop yang hilang. Ini adalah sebuah sejarah lokal tentang tetangga, kejadian tak terduga, dan keadilan sosial.'
+title: "Dua Sisi Jalan Victory: Dari Kudeta Pasukan Berlapis Baja ke 'Parkir Besar' Kenangan Hukou"
+description: 'Di Jalan Victory di Hukou, Hsinchu, satu sisi tembok markas adalah tank dan badai politik, sisi lain adalah perumahan, koperasi, dan bioskop yang telah hilang. Ini adalah sejarah lokal tentang tetangga, kecelakaan, dan keadilan sosial.'
 date: 2026-03-24
 category: 'History'
-subcategory: 'Military History'
 tags:
   [
     'Kejadian Hukou',
-    'Kompleks Hukou',
-    'Jalan Shengli',
-    'Kasus Hong Zhongqiu',
-    'Pusat Bintang',
+    'Markas Hukou',
+    'Jalan Victory',
+    'Kasus Hung Chung-chiu',
+    'Pasukan Starlight',
     'Kenangan Lokal',
   ]
+subcategory: '軍事歷史'
 author: 'Taiwan.md Contributors'
 readingTime: 12
+featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
-featured: false
+curation: 'incubating'
 translatedFrom: 'History/湖口營區與勝利路記憶.md'
-sourceCommitSha: 'f99a9959c'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:24a72a8ef4ad1c70'
 sourceBodyHash: 'sha256:67689aef546b2c21'
-translatedAt: '2026-07-24T23:02:15+08:00'
+translatedAt: '2026-08-04T20:19:11+08:00'
 ---
 
-# Dua Sisi Jalan Shengli: Dari Pemberontakan Infanteri Berkakas ke 'Lokasi Parkeir' Kenangan Hukou
+# Dua Sisi Jalan Victory: Dari Kudeta Pasukan Berlapis Baja ke 'Parkir Besar' Kenangan Hukou
 
-Pada 21 Januari 1964, wakil komandan esignan pertama Infanteri Berkakas Hukou, Zhao Zhihua, mengangkat senapan di lapangan dan menyalakan panggilan "Naik ke Atas untuk Merawat Raja". Di baliknya, Jalan Shengli masih merupakan sebuah jalan kampung yang tenang. Pemberontakan yang hanya berlangsung selama dua jam itu membuat Hukou menjadi sinonim "pemberontakan" bagi elit Taiwan. Namun, di sisi lain pagian pengamanan kompleks, kenangan Hukou memiliki sisi yang sangat berbeda.
+Pada 21 Januari 1964, saat Wakil Komandan Divisi Pasukan Berlapis Baja Pertama Hukou, Chao Chih-hua, mengeluarkan pistol di lapangan sambil berteriak "Bergerak ke Utara untuk Menyelamatkan Raja", Jalan Victory di belakangnya masih merupakan jalan setapak pedesaan yang sunyi. Kudeta gagal yang berlangsung hanya dua jam ini membuat Hukou menjadi sinonim "pemberontakan" di mata pejabat tinggi di Taipei, tetapi di mata warga Hukou di sisi lain tembok, raksasa ini memiliki wajah yang sangat berbeda.
 
-Di zaman yang masih kurang materi, kompleks Hukou bukan sekadar zona dilarang, melainkan pusat kesejahteraan komunitas.
+Pada era ketika barang-barang masih belum melimpah, Markas Hukou bukan hanya area terlarang, melainkan "pusat kesejahteraan" masyarakat.
 
-Saat itu, kompleks Hukou memiliki bioskop, kolam renang, bahkan pusat kesejahteraan yang memungkinkan warga membeli barang kebutuhan sehari-hari. Bagi anak-anak yang tumbuh di sana, musim pan adalah kenangan embun di kolam renang, serta barang militer dengan harga lebih murah di pusat kesejahteraan. Batas antara militer dan warga pada saat itu bukan sekadar dinding tembaga, melainkan bentuk hubungan tetangga yang saling menghubungi.
+Markas saat itu memiliki bioskop, kolam renang, bahkan koperasi yang memungkinkan warga masuk membeli kebutuhan pokok. Bagi anak-anak yang tumbuh di sana, kenangan musim panas adalah uap kolam renang, dan barang-barang militer yang lebih murah di koperasi. Batas antara militer dan sipil saat itu bukanlah besi yang tidak tembus, melainkan semacam hubungan tetangga yang saling simbiosis.
 
-> 📝 Catatan Kurator: Saat kompleks militer berubah menjadi tempat belanja sehari-hari, pagian pengamanan berubah dari batas politik menjadi ekstensi fungsi kehidupan tetangga.
+> 📝 Catatan Kurator: Saat markas militer beralih ke konsumsi sehari-hari, tembok berubah dari batas politik menjadi ekstensi fungsi kehidupan tetangga.
 
-Namun, "tetangga" ini juga membawa dampak yang besar.
+Namun, "tetangga" ini juga membawa guncangan hebat.
 
-Di sepanjang Jalan Shengli, pagian pengamanan kompleks berdampingan erat dengan warga. Karena kekurangan tempat parkir, warga setempat menyebutnya "Lokasi Parkeir Jalan Shengli". Tata letaknya pada 5 Mei 2007 mengalami peristiwa paling menegangkan: sebuah pesawat tempur F-5F milik "Pusat Bintang" Singapura jatuh di kompleks Hukou saat melaksanakan tugas. Suara ledakan besar dan asap tebal yang naik masih menjadi kenangan menakutkan bagi warga Jalan Shengli setelah makan siang hingga hari ini.
+Di satu sisi Jalan Victory, tembok markas dan perumahan warga berhadapan dekat. Karena tempat parkir langka, warga lokal menyebut area di sisi tembok itu "Parkir Besar Jalan Victory". Pemandangan di sini mengalami momen paling menggetarkan pada Mei 2007: pesawat tempur F-5F milik "Pasukan Starlight" Singapura yang sedang menjalankan tugas jatuh di Markas Hukou, ledakan besar dan asap tebal yang melonjak tetap menjadi kenangan menakutkan bagi warga Jalan Victory saat ngobrol santai hingga hari ini.
 
-Guncangan yang ditimbulkan oleh kompleks Hukou mencapai puncaknya pada tahun 2013.
+Guncangan yang dibawa Markas Hukou ke masyarakat Taiwan mencapai puncaknya pada 2013.
 
-Sebagai anggota bawah Infanteri Berkakas 542 Hukou, Hong Zhongqiu, meninggal karena pelanggaran administrasi sebelum pensiun. Tragedi ini memicu 250.000 orang "Seragam Putih" menaiki Jalan Kapten Di Besar Kuala Lumpur, yang akhirnya menyebabkan revisi besar-besaran terhadap "Undang-Undang Pengadilan Militer". Bagi warga Hukou, itu adalah bayangan paling berat di dalam pagian pengamanan, sekaligus membuat nama "Shengli" terdengar sangat satu ironical dalam berita nasional.
+Kopral Hung Chung-chiu dari Brigadir Berlapis Baja 542 Hukou, meninggal dunia karena pengawasan yang tidak tepat menjelang pensiun. Tragedi ini memicu 250.000 orang "Pasukan Baju Putih" turun ke Jalan Ketagalan, yang akhirnya mengarah pada revisi mayor Undang-Undang Pengadilan Militer. Bagi warga Hukou, itu adalah bayangan terberat di dalam tembok, dan membuat nama Jalan Victory terasa sangat ironis di berita nasional.
 
-> 📝 Catatan Kurator: Sejarah di Hukou meninggalkan dua jejak: satu adalah tantangan terhadap kekuasaan pada tahun 1964, dan yang lain adalah пробуждение ( пробуждение) terhadap hak asasi manusia pada tahun 2013.
+> 📝 Catatan Kurator: Sejarah meninggalkan dua jejak di Hukou: satu adalah tantangan terhadap kekuasaan pada 1964, yang lain adalah kebangkitan hak asasi manusia pada 2013.
 
-Hari ini, saat berjalan di Jalan Shengli, bioskop dan kolam renang sudah tidak ada dalam debu sejarah. Pada awal tahun 2000-an, Presiden Chen Shuibian pernah mengunjungi Hukou untuk memimpin demonstrasi pertahanan, di mana deretan tanka dan helikopter yang terbang serta berputar membuat remaja SMA yang berkunjung merasa sangat baru.
+Hari ini berjalan di Jalan Victory, bioskop dan kolam renang sudah lama hilang dalam debu sejarah. Awal 2000-an, ketika Presiden Chen Shui-bian datang ke Hukou memimpin pertunjukan pertahanan nasional, deretan tank yang melintas dan helikopter yang mendarat-mendarat membuat siswa SMA yang mengunjungi merasa sangat penasaran.
 
-Sekarang, tempat ini tetap menjadi jantung Infanteri Berkakas Taiwan, tetapi lebih seperti haiwan besar yang tenang, berdampingan dengan warga di sekitarnya. Dari "tempat asal pemberontakan" ke "lokasi parkeir lokal", pagian pengamanan kompleks Hukou mencatat konflik dan kehangatan dari era resepmen, pembangunan, hingga transformasi demokratis Taiwan.
+Sekarang, tempat ini tetap menjadi jantung pasukan berlapis baja Taiwan, tetapi lebih seperti raksasa tenang yang berdampingan dengan perumahan di Jalan Victory. Dari "tempat asal pemberontakan" ke "tempat parkir lokal", tembok Markas Hukou mencatat semua kontradiksi dan kehangatan Taiwan dari era hukum darurat, pembangunan, hingga transisi demokrasi.
 
 ---
 
-## Daftar Pustaka
+## Referensi
 
-- [Badan Pengelola Arsip Kementerian Pembangunan — Asal-Usul Kejadian Hukou 1964](https://www.archives.gov.tw/)
-- [Berita Merdeka — Laporan Pemberontakan Pesawat Tempur F-5F Pusat Bintang di Kompleks Hukou 2007](https://news.ltn.com.tw/)
-- [Penerbit — Kasus Hong Zhongqiu Setelah Sepuluh Tahun: Sistem Pengadilan Militer dan Gerakan Sosial](https://www.twreporter.org/)
-- [Dinas Budaya Kota Hokkaido — Sejarah Militer dan Pembangunan Lokal di Hukou](https://www.hchcc.gov.tw/)
-- [Lembaga Pendidikan Nasional — Catatan Peluncuran Kompleks Terbuka dan Demonstrasi Pertahanan Tahunan](https://aode.mnd.gov.tw/)
+- [Biro Arsip Komite Pembangunan Nasional — Kronologi Kejadian Hukou 1964](https://www.archives.gov.tw/)
+- [Liberty Times — Liputan Jatuhnya F-5F Pasukan Starlight di Markas Hukou 2007](https://news.ltn.com.tw/)
+- [The Reporter — Kasus Hung Chung-chiu Sepuluh Tahun Kemudian: Resonan Sistem Hukum Militer dan Gerakan Sosial](https://www.twreporter.org/)
+- [Dinas Kebudayaan Pemerintah Kabupaten Hsinchu — Sejarah Militer dan Pembangunan Lokal Wilayah Hukou](https://www.hchcc.gov.tw/)
+- [Jaringan Pendidikan Pertahanan Rakyat Kementerian Pertahanan — Catatan Pembukaan Markas dan Pertunjukan Pertahanan Sepanjang Tahun](https://aode.mnd.gov.tw/)

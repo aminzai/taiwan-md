@@ -1,16 +1,16 @@
 ---
-title: 'Kesabaran di dalam Cangkir Aluminium: Filosafi Tujuh Puluh Tahun Pemanasan Terpisah Ah Ming Hati Babi Bihun'
-description: 'Di Jalan Pao-an 72 Nomor, Tainan, Ah Ming Hati Babi Bihun milik Huang Hsien-ming buka dari pukul 17.00, setiap malam antrean panjang, masuk daftar Michelin Bib Gourmand 2022. Inti bukan pada bahan—hati babi adalah jeroan murah pekerja—melainkan cara memasak: iris hati babi dimasukkan ke cangkir aluminium dipanaskan terpisah, membiarkan suhu dari luar meresap perlahan, menghasilkan hati babi tidak amis, tidak keras, berasa manis.'
+title: 'Kesabaran di dalam Cangkir Aluminium: Falsafah Pemanasan Air 70 Tahun Ah Ming Pig Heart Vermicelli'
+description: "Di Jalan Ba'an Nomor 72, Tainan, Ah Ming Pig Heart Vermicelli milik Huang Xian-ming buka pukul 17.00, setiap malam antrean panjang, terpilih Michelin Bib Gourmand 2022. Inti kelezatannya bukan pada bahan — hati babi adalah jeroan pekerja murah — melainkan cara memasak: irisan hati babi dimasukkan cangkir aluminium dipanaskan dengan air (bain-marie), biarkan suhu dari luar meresap perlahan, menghasilkan hati babi tak bau amis, tak keras, berasa manis alami."
 date: 2026-07-02
 category: 'Food'
 tags:
   [
     'Tainan',
-    'Hati Babi Bihun',
-    'West Central District',
-    'Jalan Pao-an',
+    'hati babi soun',
+    'Kecamatan West Central',
+    "Jalan Ba'an",
     'Michelin',
-    'street food',
+    'makanan ringan',
     'jeroan',
   ]
 subcategory: '經典小吃'
@@ -19,72 +19,73 @@ featured: false
 lastVerified: 2026-07-02
 lastHumanReview: false
 readingTime: 6
+curation: 'incubating'
 translatedFrom: 'Food/豬心冬粉.md'
-sourceCommitSha: '3011828ba'
-sourceContentHash: 'sha256:3bcebca3a70539f8'
+sourceCommitSha: '03b3aaae8'
+sourceContentHash: 'sha256:8de12ddf79fa57df'
 sourceBodyHash: 'sha256:c3fe90467aad669d'
-translatedAt: '2026-07-28T08:53:28+08:00'
+translatedAt: '2026-08-04T17:42:35+08:00'
 ---
 
-Pada pukul 16.40, di depan Jalan Pao-an 72 Nomor sudah ada orang menunggu. Toko baru buka pukul 17.00, tapi pelanggan langganan tahu: datang awal bar dapat tempat, datang lambat harus menunggu hingga tengah malam. Antrean perlahan meregang dari depan pintu ke ujung gang, orang-orang menunggu menunduk ke ponsel, sesekali mengangkat kepala memastikan apakah antrean di depan bergerak—antrean ini, setiap malam berulang, tujuh puluh tahun tidak pernah putus.
+Pukul 16.40, depan pintu Jalan Ba'an Nomor 72 sudah ada orang menunggu. Warung buka pukul 17.00, tapi pelanggan langganan tahu: datang awal baru dapat tempat, telat harus antre sampai tengah malam. Antrean perlahan melar dari depan pintu ke ujung gang, orang menunggu sambil menatap HP, sesekali mengangkat kepala cek apakah antrean di depan bergerak — antrean ini, setiap malam berulang, 70 tahun tak pernah putus.
 
-Se mangkuk hati babi bihun, layak menunggu dua jam. Siapa pun yang pernah pergi sekali, tahu mengapa.
+Se mangkuk hati babi soun, layak diantre dua jam. Yang pernah makan sekali, semua tahu kenapa.
 
-## Dari Bebek Dong Quai ke Hati Babi
+## Dari Bebek Tangki ke Hati Babi
 
-Dahulu Ah Ming Hati Babi Bihun bukan menjual hati babi.
+Cikal bakal Ah Ming Pig Heart Vermicelli, bukan hati babi.
 
-Ayah Huang Hsien-ming dahulu menggerobak di sekitar Jalan Pao-an, menjual bebek dong quai. Bebek dong quai di Taiwan adalah makanan ringan pelengkap khas, bahan dan tekniknya relatif sederhana. Kemudian ia beralih ke masakan dalaman babi, mengembangkan menu andalan hati babi, perlahan mendarah daging di Jalan Pao-an.
+Ayah Huang Xian-ming dulu menggendong kereta di sekitar Jalan Ba'an, menjual bebek tangki. Bebek tangki di Taiwan adalah makanan ringan penguat umum, bahan dan tekniknya relatif sederhana. Kemudian ia beralih ke masakan jeroan babi, mengembangkan menu andalan hati babi, perlahan meletakkan kaki di Jalan Ba'an.
 
-Huang Hsien-ming mengambil alih, metode tidak berubah. Tujuh puluh tahun, jalan yang sama, mangkuk sup yang sama.
+Huang Xian-ming mengambil alih, teknik tak berubah. 70 tahun, jalan yang sama, mangkuk sup yang sama.
 
-📝 Catatan Kurator: Banyak makanan ringan malam Taiwan memiliki titik awal serupa—bahan murah, orang yang meneliti metode, lokasi yang membuat orang bersedia menempuh jarak jauh. Ayah Ah Ming beralih dari bebek dong quai ke hati babi, bukan kebetulan, ia menemukan celah pasar yang belum dikerjakan orang lain.
+📝 Catatan Kurator: Banyak makanan malam Taiwan bermula dari hal serupa — bahan murah, satu orang yang meneliti teknik, satu lokasi yang bikin orang rela datang dari jauh. Ayah Ah Ming pindah dari bebek tangki ke hati babi, bukan kebetulan, tapi menemukan celah pasar yang belum disentuh orang lain.
 
 ## Fisika di dalam Cangkir Aluminium
 
-Teknik inti Ah Ming Hati Babi Bihun, sekali lihat langsung mengerti, tapi sulit dikuasai.
+Teknik inti Ah Ming Pig Heart Vermicelli, satu lihat langsung paham, tapi belajarnya susah.
 
-Pemilik mengiris tipis hati babi, memasukkan ke cangkir aluminium kecil, menambahkan bumbu racikan bahan obat dan kaldu kental, lalu memasukkan seluruh cangkir ke air mendidih—pemanasan terpisah. Suhu dari permukaan air menerus ke dinding luar cangkir, dari dinding luar perlahan meresap ke hati babi, merata, dari luar ke dalam secara konsisten menyelesaikan pemanasan.
+Boss memotong hati babi tipis, masukkan ke cangkir aluminium kecil, tambahkan bumbu racikan bahan obat dan kaldu tinggi, masukkan seluruh cangkir ke air mendidih — pemanasan air (bain-marie). Suhu dari permukaan air terkirim ke dinding luar cangkir, dari dinding perlahan meresap ke hati babi, merata, dari luar ke dalam secara konsisten menyelesaikan pemanasan.
 
-Hasil cara ini: hati babi matang, tapi seratnya tidak menyusut karena api langsung suhu tinggi. Kenyal lembut konsisten dari luar ke dalam, tidak amis, ada manis alami halus—manis hati babi sendiri, bukan manis kuah. Terakhir tuang kuah dan hati babi dari cangkir ke mangkuk, tambahkan bihun yang sudah disiapkan, taburi irisan jahe, itulah mangkuk yang layak diantrekan.
+Hasil cara ini: hati babi matang, tapi seratnya tak menyusut karena api langsung suhu tinggi. Kenyal merata dari luar ke dalam, tak bau amis, ada manis alami halus — manis hati babi sendiri, bukan manis kuah. Terakhir tuang kuah dan hati babi dari cangkir ke mangkuk, tambah soun yang sudah disiapkan, taburi serutan jahe, itulah mangkuk yang layak diantre.
 
-📝 Catatan Kurator: Pemanasan terpisah (bain-marie) adalah teknik klasik masakan Prancis, untuk bahan sensitif suhu—cokelat, kastard, hati angsa. Ah Ming menerapkan logika sama ke dalaman babi Tainan: hati babi butuh panas merata, api langsung tidak bisa. Tidak ada sekolah kuliner yang mengajarkan ini, ini direkonstruksi mundur dari hakikat bahan.
+📝 Catatan Kurator: Pemanasan air (bain-marie) adalah teknik klasik masakan Prancis, dipakai untuk bahan sensitif suhu — cokelat, krim karamel, hati angsa. Ah Ming terapkan logika sama ke jeroan babi Tainan: hati babi butuh panas merata, api langsung tak bisa. Tak ada sekolah kuliner mengajar ini, dibalik dari hakikat bahan sendiri.
 
-## Mengapa Tidak Bisa Didesak
+## Kenapa Tak Bisa Didesak
 
-Masalah pemanasan terpisah, adalah waktu.
+Masalah pemanasan air, adalah waktu.
 
-Iris hati babi di cangkir aluminium menerima panas, tidak boleh terburu-buru, tidak boleh api besar—air mendidih sekeras apapun, kecepatan konduksi panas punya batas. Setiap cangkir butuh waktu tetap untuk selesai. Produksi harian gerobak, adalah waktu tetap dikalikan jumlah cangkir yang bisa diurus satu orang. Habis jual tutup, tidak ada sisa malam, tidak ada stok cadangan.
+Irisan hati babi di cangkir aluminium menerima panas, tak bisa buru-buru, tak bisa tambah api besar — air sepedas apapun, kecepatan konduksi panas punya batas. Setiap cangkir butuh waktu tetap untuk selesai. Kapasitas harian warung, itu waktu tetap dikalikan jumlah cangkir yang bisa diurus satu orang. Habis tutup, tak ada stok malam, tak ada tambah batch.
 
-Yang kau tunggu bukan koki lambat, adalah fisika.
+Yang kau antre bukan koki pelan, tapi fisika.
 
-## Martabat Dalaman
+## Martabat Jeroan
 
-Hati babi, hati babi, usus babi jenis dalaman ini, sejarahnya makanan kelas pekerja Taiwan—murah, berkalori, untuk menambah tenaga habis seharian kerja.
+Hati babi, hati babi, usus babi jenis jeroan ini, sejarahnya makanan lapisan pekerja Taiwan — murah, berkalori, buat nambah darah dan tenaga setelah seharian kerja.
 
-Mengubah bahan murah jadi masakan yang membuat orang antre dua jam, butuh dua hal: ketat pada metode, dan rasa hormat dasar pada bahan. Metode Ah Ming, membuat hati babi bukan lagi pilihan terpaksa, tapi se mangkuk makanan yang harus ditunggu untuk didapatkan.
+Bikin bahan murah jadi masakan yang bikin orang antre dua jam, butuh dua hal: ketat pada teknik, dan rasa hormat dasar ke bahan. Teknik Ah Ming, bikin hati babi bukan lagi pilihan terpaksa, tapi se mangkuk makanan yang butuh kesabaran baru bisa dapatkan.
 
-Di Tainan, logika semacam ini tidak jarang. Usus ikan bandeng, belut gaya unagi, hati babi dimasak perlahan terpisah—bahan murah diperlakukan serius, adalah dasar budaya kuliner kota ini.
+Di Tainan, logika kayak gini nggak jarang. Usus ikan belida, belut tiruan unagi, hati babi direbus perlahan isolasi air — bahan murah diperlakukan serius, itu landasan budaya kuliner kota ini.
 
-📝 Catatan Kurator: 2022, Ah Ming Hati Babi Bihun masuk rekomendasi Michelin Bib Gourmand. Bib Gourmand menilai "rasa enak melebihi harga", hati babi bihun contoh sempurna: se mangkuk tidak mahal, di baliknya tujuh puluh tahun akumulasi metode dan menunggu fisika setiap hari.
+📝 Catatan Kurator: 2022, Ah Ming Pig Heart Vermicelli masuk rekomendasi Michelin Bib Gourmand. Bib Gourmand menilai "rasa enak bernilai lebih dari harga", hati babi soun contoh sempurna: semangkuk tak mahal, di baliknya 70 tahun akumulasi teknik dan menunggu fisika setiap hari.
 
-## Malam di Jalan Pao-an
+## Malam di Jalan Ba'an
 
-Ah Ming buka setiap hari pukul 17.00, tutup tengah malam pukul 24.00, Senin libur.
+Ah Ming tiap hari buka pukul 17.00, tutup tengah malam, Senin libur.
 
-Sebelum fajar, antrean Jalan Pao-an 72 Nomor tidak pernah hilang. Di peta kedai malam Tainan, Ah Ming adalah titik koordinat tetap: setelah makan sup daging, belut mie yi, belum siap pulang, jalan ke Jalan Pao-an, lihat malam ini antre berapa orang.
+Sebelum fajar, antrean di Jalan Ba'an Nomor 72 tak akan hilang. Di peta warung malam Tainan, Ah Ming satu titik tetap: makan sup sapi, mie belut, belum siap pulang, jalan ke Jalan Ba'an, cek malam ini antre berapa orang.
 
-Kadang, panjang antrean itu sendiri jawabannya.
+Kadang, panjang antrean itu jawabannya.
 
 ---
 
 ## Referensi
 
-- [賣了快 70 年的台南深夜豬心冬粉！先做好排隊心理準備 — ETtoday 旅遊雲](https://travel.ettoday.net/article/2931941.htm)
-- [阿明豬心冬粉 內臟控排隊也要吃的保安路美食（附菜單價錢）— 春天幸福味](https://springhappylife.tw/amingzhuxing/)
-- [阿明豬心冬粉：70 年老店掏心掏肺和顧客搏感情 — JUN 享樂誌](https://hedonistjun.com/armins-pork-heart/)
-- [台南阿明豬心冬粉米其林必比登推薦｜保安路最熱門的排隊美食 — 波妮說食話](https://foodieteller.com/amin-pig-heart/)
-- [台南保安路阿明豬心冬粉本店。天天大排長龍台南小吃名店 — 布萊恩觀景窗](https://brianviews.com/tainan_aminprok/)
-- [台南米其林必比登推介，台南保安路人氣排隊名店 — upssmile 向上的微笑萍子](https://upssmile.com/139287/a-ming-pig-hearts)
-- [阿明豬心冬粉。米其林必比登推薦！保安路最強排隊美食 — ANIKO 艾妮可](https://anikofoodie.com/aminpig/)
-- [阿明豬心冬粉》台南小吃米其林必比登美食（菜單價錢）— Darren 蘋果樹旅遊玩樂誌](https://appletrees.tw/blog/post/aminpigheart)
+- [Hampir 70 Tahun Jual Hati Babi Soun Malam Tainan! Siap-siap Antre Dulu — ETtoday Travel Cloud](https://travel.ettoday.net/article/2931941.htm)
+- [Ah Ming Pig Heart Vermicelli Makanan Jalan Ba'an Favorit Pecinta Jeroan (Lengkap Menu & Harga) — Spring Happy Taste](https://springhappylife.tw/amingzhuxing/)
+- [Ah Ming Pig Heart Vermicelli: Warung 70 Tahun Keluarin Hati Usus Buat Nyari Perasaan Pelanggan — JUN Enjoy Magazine](https://hedonistjun.com/armins-pork-heart/)
+- [Tainan Ah Ming Pig Heart Vermicelli Michelin Bib Gourmand Rekomendasi — Makanan Antre Terpopuler Jalan Ba'an — Bonnie Talks Food](https://foodieteller.com/amin-pig-heart/)
+- [Tainan Jalan Ba'an Ah Ming Pig Heart Vermicelli Cabang Utama. Tiap Hari Antre Panjang Warung Makanan Ringan Tainan Terkenal — Brian's View Window](https://brianviews.com/tainan_aminprok/)
+- [Tainan Michelin Bib Gourmand Rekomendasi, Tainan Jalan Ba'an Warung Antre Populer — upssmile Upward Smile Pingzi](https://upssmile.com/139287/a-ming-pig-hearts)
+- [Ah Ming Pig Heart Vermicelli. Michelin Bib Gourmand Rekomendasi! Makanan Antre Terkuat Jalan Ba'an — ANIKO](https://anikofoodie.com/aminpig/)
+- [Ah Ming Pig Heart Vermicelli》Makanan Ringan Tainan Michelin Bib Gourmand (Menu Harga) — Darren Apple Tree Travel Fun Magazine](https://appletrees.tw/blog/post/aminpigheart)
