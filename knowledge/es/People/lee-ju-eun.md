@@ -1,79 +1,80 @@
 ---
-title: 'Lee Ju-eun'
-description: 'Desde el fenómeno de la "diosa de la IA" hasta su apuesta total por desarrollarse en Taiwán, su trayectoria ha reescrito la imaginación sobre la permanencia de animadoras coreanas en la Liga Profesional de Béisbol de Taiwán.'
+title: 'Lee Ju-eun (李珠珢)'
+description: 'Desde la fiebre de la "diosa de la IA" hasta su desarrollo integral en Taiwán: su trayectoria ha redefinido la permanencia de las animadoras coreanas en la CPBL.'
 date: 2026-05-13
+category: 'People'
 tags:
   [
-    'Personajes populares',
+    'Personalidades populares',
     'Lee Ju-eun',
-    'Corea del Sur',
-    'Animadoras',
+    'Corea',
+    'animadoras',
     'Fubon Guardians',
     'Fubon Angels',
     'CPBL',
   ]
 subcategory: '流行人物'
 author: 'Taiwan.md Contributors'
-readingTime: 10
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
-category: People
+readingTime: 10
+curation: 'incubating'
 translatedFrom: 'People/李珠珢.md'
-sourceCommitSha: '859d7316'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:451da618ddccb297'
 sourceBodyHash: 'sha256:4b9c8f80e4d299c5'
-translatedAt: '2026-05-29T00:35:00+08:00'
-featured: false
+translatedAt: '2026-08-04T14:32:57+08:00'
 ---
 
-> **Resumen en 30 segundos:** Lee Ju-eun firmó un contrato de representación completo con los Fubon Guardians en 2025 y en 2026 reubicó de forma más clara su centro de trabajo en Taiwán. Su importancia no radica únicamente en su alto volumen de audiencia, sino en que impulsó la trayectoria de las animadoras coreanas desde un modelo de "viaje bilateral" hacia una "permanencia prolongada en Taiwán".
+> **Resumen en 30 segundos:** En 2025, Lee Ju-eun firmó un contrato de representación integral con los Fubon Guardians, y para 2026, ha centrado sus actividades de forma más clara en Taiwán. Su importancia no radica solo en su alto tráfico de audiencia, sino en que ha impulsado la trayectoria de las colaboradoras coreanas de un modelo de "viajes de ida y vuelta" a una "permanencia prolongada en Taiwán".
 
-Tras despegar en el ámbito mediático en Corea del Sur, no se limitó a colaboraciones a corto plazo, sino que avanzó directamente hacia una integración de representación más profunda. Este paso la distingue claramente de las animadoras coreanas que suelen "visitar Taiwán como invitadas".
+Tras el auge de su popularidad en Corea, no se limitó a colaboraciones a corto plazo, sino que avanzó directamente hacia una integración de representación más profunda. Este paso la diferencia notablemente de otras colaboradoras coreanas que simplemente vienen a Taiwán para "apariciones especiales".
 
-Las señales de continuidad alrededor de la temporada 2026 consolidaron aún más este camino: no solo ha estado en Taiwán, sino que ha incorporado a Taiwán como eje principal de su carrera.
+Las señales de su permanencia en torno a la temporada de 2026 consolidan este camino: no es alguien que solo ha pasado por Taiwán, sino que ha integrado al país como parte principal de su carrera profesional.
 
-En su cobertura de marzo de 2026 sobre la rueda de prensa de inicio de temporada de las Fubon Angels, la edición digital de _United Daily News_ / UDN describe a Lee Ju-eun renovando con los Guardians y emocionándose al saludar a los aficionados en chino; la misma crónica menciona también detalles del acto como la asistencia de Park Sung-yeon con un parche en el ojo por un orzuelo, que sirven como registro de primera mano para entender el clima de opinión pública en torno a ese periodo. [Fuente: United Daily News / UDN][^6]
+En el reportaje de la edición digital de _United Daily News_ (UDN) / _udn.com_ sobre la "Conferencia de prensa de inicio de temporada de los Fubon Angels" en marzo de 2026, se describió cómo Lee Ju-eun se emocionó al anunciar su permanencia con los Guardians y saludar a los aficionados en chino; el mismo reportaje de dicho evento también mencionó detalles del lugar, como la presencia de Park Seong-eun con un parche ocular debido a una lesión por aguja, lo cual sirve como registro primario para comprender la atmósfera mediática de esa fecha. [Fuente: United Daily News / udn.com][^6]
 
-## De la fama repentina a una apuesta a largo plazo
+## De la explosión de popularidad a la asignación a largo plazo
 
-Cuando Lee Ju-eun alcanzó la fama en Taiwán, el público la entendía principalmente como un "fenómeno mediático". Sin embargo, su permanencia en 2026 y la extensión de su calendario de actuaciones demuestran que ya no es solo un evento de audiencia, sino que ha sido integrada en la operación a largo plazo del equipo.
+Cuando Lee Ju-eun se hizo viral en Taiwán inicialmente, el exterior la entendía mayoritariamente como un "fenómeno mediático". Sin embargo, su permanencia y la extensión de su calendario en 2026 demuestran que ya no es solo un evento de tráfico de audiencia, sino que ha sido integrada en la operativa a largo plazo del club.
 
-Sus apariciones suelen vincularse con las fechas clave del calendario local, el ritmo del contenido en redes sociales y los eventos para aficionados. Esto significa que su rol ha pasado de ser un "punto destacado reemplazable" a un "nodo central de contenido".
+Sus apariciones suelen estar vinculadas a eventos importantes en los estadios locales, al ritmo de contenido en redes sociales y a las actividades con los aficionados. Esto significa que su papel ha pasado de ser un "punto destacado sustituible" a convertirse en un "nodo de contenido central".
 
-## Por qué ella recibe una atención desproporcionada
+## Por qué su impacto es especialmente amplificado
 
-En primer lugar, Lee Ju-eun posee características escénicas de alta identificabilidad y puntos de impacto visual memorables. En segundo lugar, su eficiencia de redistribución en el entorno de redes sociales es extremadamente alta: cualquier video corto puede generar un segundo ciclo de conversación. En tercer lugar, la evolución de su carrera tiene un "carácter indicador industrial", y se utiliza para interpretar las tendencias del ecosistema de animadoras coreanas.
+En primer lugar, Lee Ju-eun posee características escénicas y puntos de memoria visual de alta identificación. En segundo lugar, su eficiencia de retransmisión en el entorno de las redes sociales es extremadamente alta; cualquier vídeo corto puede generar un nuevo tema de conversación. En tercer lugar, sus movimientos profesionales poseen un "valor de indicador industrial", utilizándose para interpretar las tendencias del ecosím de las colaboradoras coreanas.
 
-La suma de estas condiciones la convierte no solo en una estrella individual, sino en un punto de observación dentro del proceso de entretenimiento de la liga profesional de béisbol taiwanesa.
+La suma de estas condiciones hace que no sea solo una estrella individual, sino un punto de observación en el proceso de entretenimiento del béisbol profesional de Taiwán.
 
 > **📝 Nota del curador**
-> Lo más digno de documentar de Lee Ju-eun no es cuán "famosa" es, sino que ha llevado al público a preguntarse seriamente: ¿pueden las animadoras coreanas considerar a Taiwán como su lugar principal de trabajo?
+> Lo más digno de registrar sobre Lee Ju-eun no es "qué tan famosa es", sino cómo ha hecho que todos empecemos a preguntarnos seriamente: ¿pueden las colaboradoras coreanas considerar a Taiwán como su principal lugar de trabajo?
 
-## El significado cultural de su permanencia en Taiwán
+## El significado cultural de permanecer en Taiwán
 
-Cuando se reporta a Lee Ju-eun como alguien que "apoya en Taiwán con toda su energía", los aficionados taiweses perciben una relación de mayor compromiso. Ya no se trata de actuaciones a corto plazo bajo un sistema de invitación, sino de una relación laboral más cercana a una inversión compartida.
+Cuando se informa que Lee Ju-eun está "dedicando todos sus esfuerzos al apoyo en Taiwán", los aficionados taiwaneses perciben una evolución en la relación. Ya no es una actuación a corto plazo bajo un sistema de invitación, sino algo más cercano a una relación laboral de compromiso mutuo.
 
-Para la cultura popular taiwanesa, el significado de este hecho radica en que el estadio de béisbol ya no recibe pasivamente la ola coreana (_Hallyu_), sino que se ha convertido en una plataforma capaz de coconstruir contenido y generar temas de conversación conjuntamente con ella.
+Para la cultura popular de Taiwán, el significado de esto es que el estadio ya no es un receptor pasivo del _Hallyu_ (ola coreana), sino una plataforma capaz de construir contenido y producir temas en conjunto con dicha ola.
 
-## Los riesgos bajo un alto volumen de atención
+## Riesgos bajo una alta exposición
 
-Lee Ju-eun también enfrenta los riesgos típicos de una alta exposición, incluyendo atención excesiva, comentarios malintencionados, controversias sobre su calendario de actuaciones y trabajo emocional. Estos problemas no son excepciones individuales, sino presiones generalizadas sobre las figuras de alta visibilidad en la era de las plataformas digitales.
+Lee Ju-lan también enfrenta los riesgos típicos de la alta visibilidad, incluyendo el escrutinio excesivo, comentarios malintencionados, controversias en su calendario de actividades y trabajo emocional. Estos problemas no son casos aislados individuales, sino presiones comunes para las figuras de alta exposición en la era de las plataformas digitales.
 
-Por lo tanto, al hablar de ella, no debe limitarse la discusión a una competencia de popularidad, sino que también debe considerarse cómo la industria del entretenimiento deportivo puede construir un entorno laboral más saludable, evitando que el volumen de audiencia se vuelva en contra de quien trabaja.
+Por lo tanto, al discutir sobre ella, no debemos limitarnos a una competencia de popularidad, sino también observar cómo la industria del entretenimiento deportivo puede establecer un entorno de trabajo más saludable para evitar que el tráfico de audiencia termine perjudicando a los trabajadores.
 
 ## Su lugar en Taiwan.md
 
-Lee Ju-eun pertenece a la categoría de personajes populares no solo porque represente el concepto de "ídolo", sino porque ha tenido un impacto cuantificable, observable y sostenible en la cultura de animación de la liga profesional de béisbol taiwanesa. Ha transformado la percepción de la presencia de animadoras coreanas en Taiwán de "temporal" a "a largo plazo".
+Lee Ju-eun pertenece a la categoría de personalidades populares, no solo porque represente a una "ídolo", sino porque ha generado un impacto cuantificable, observable y continuo en la cultura de apoyo del béisbol profesional de Taiwán. Ella ha transformado la percepción de las colaboradoras coreanas en Taiwán de algo "a corto plazo" hacia algo "a largo plazo".
 
-Este giro es probablemente uno de los cambios más importantes en la cultura popular deportiva taiwanesa de finales de la década de 2020.
+Este cambio es, muy probablemente, uno de los cambios más importantes en la cultura popular deportiva de Taiwán hacia finales de la década de 2020.
 
 ## Referencias / Sources
 
-[^6]: _United Daily News_ / UDN (reportera Yeh Pei-yu), «CPBL / Cinco refuerzos coreanas de los Guardians comparten escenario; Lee Ju-eun rompe en lágrimas: "Hacía tanto que no os veía"», 25-03-2026, https://udn.com/news/story/7002/9402487
+[^6]: United Daily News / udn.com (Reportera Yeh Pei-yu), 〈CPBL / Las 5 colaboradoras coreanas de los Guardians aparecen juntas; Lee Ju-eun llora con nerviosismo: "Hacía demasiado tiempo que no veía a todos"〉, 2026-03-25, https://udn.com/news/story/7002/9402487
 
 Otras fuentes verificables:
 
-- Wikipedia (perfil personal): https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E7%8F%A0%E7%8F%A2
-- Mirror Media (resúmenes personales / deportivos): https://m.mirrormedia.mg/story/20260223edi054
-- Newtalk News, «Lee Ju-eun anuncia por sorpresa que "se queda en Taiwán": revelada gran noticia en su segundo año con los Fubon», 23-02-2026, https://www.newtalk.tw/news/view/2026-02-23/1021071
-- Yahoo News Taiwán (resúmenes de calendario / partidos): https://tw.news.yahoo.com/%E6%9D%8E%E7%8F%A0%E7%8F%A2%E7%8F%AD%E8%A1%A8-031409225.html
+- Wikipedia (Resumen de la personalidad): https://zh.wikipedia.org/zh-tw/%E6%9D%8E%E7%8F%A0%E7%8F%A2
+- Mirror Media (Resumen de personas/eventos): https://m.mirrormedia.mg/story/20260223edi054
+- Newtalk News, 〈¡Lee Ju-eun anuncia con impacto su "permanencia en Taiwán"! En su segundo año con Fubon, "se revela una gran noticia"〉, 2026-02-23, https://www.newtalk.tw/news/view/2026-02-23/1021071
+- Yahoo Taiwan News (Resumen relacionado con calendarios/temporadas): https://tw.news.yahoo.com/%E6%9D%8E%E7%8F%A0%E7%8F%A2%E7%8F%AD%E8%A1%A8-031409225.html

@@ -1,93 +1,96 @@
 ---
-title: 'Precisión de 27 segundos: origen bajo el dominio japonés del fideos de anguila de Tainan y la herencia de la familia Liao'
-description: 'La técnica clave del fideos de anguila de Tainan se resume en un número: 27 segundos. Si la anguila se cocina más tiempo, la carne se vuelve dura, aparece olor a pescado y el plato se arruina. Este plato nació en el mercado Sakariiba durante la época japonesa; los hermanos Liao Bing-nan y Liao Huo-tu aprendieron el arte de un maestro de Fuzhou y sustituyeron la anguila japonesa por anguilas silvestres de los estanques de Tainan, creando una marca centenaria.'
+title: '27 segundos de precisión: el origen durante la era colonial japonesa y el legado de la familia Liao en los fideos con anguila de Tainan'
+description: 'La técnica central de los fideos con anguila (shanyue yimian) de Tainan se resume en un número: 27 segundos. Si la anguila permanece en la sartén más tiempo, la carne se endurece, el olor a pescado surge y el plato se arruina. Este plato nació en el mercado de Sakariba durante el periodo colonial japonés; los hermanos Liao Bing-nan y Liao Huo-tu aprendieron el arte de un maestro de Fuzhou, sustituyendo la anguila japonesa por la anguila silvestre de los estanques de Tainan para crear una leyenda centenaria.'
 date: 2026-07-02
 category: 'Food'
 tags:
-  - 'Tainan'
-  - 'fideos de anguila'
-  - 'distrito de Zhongxi'
-  - 'Sakariiba'
-  - 'época japonesa'
-  - 'familia Liao'
-  - 'bocadillo'
+  [
+    'Tainan',
+    'fideos con anguula',
+    'distrito de Zhongxi',
+    'Sakariba',
+    'periodo colonial japonés',
+    'familia Liao',
+    'comida callejera',
+  ]
 subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
 featured: false
 lastVerified: 2026-07-02
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
 translatedFrom: 'Food/鱔魚意麵.md'
-sourceCommitSha: '3011828ba'
-sourceContentHash: 'sha256:6060b205f72b8e41'
+sourceCommitSha: '03b3aaae8'
+sourceContentHash: 'sha256:81213e22c8b81c39'
 sourceBodyHash: 'sha256:7eb60f7eb1751d17'
-translatedAt: '2026-07-06T00:39:49+08:00'
+translatedAt: '2026-08-04T15:04:47+08:00'
 ---
 
-A las diez de la noche, el puesto de fideos de anguila en la calle You’ai ya lleva varias horas con el fuego al máximo. El chef agarra un trozo de anguila y lo introduce en la olla de hierro hirviendo; a partir de ese momento, el cronómetro arranca. Ajo sofrito, anguila en la olla, cebolla, cebolla de verdeo, chile, condimentos, espesante, vinagre de cinco impresiones, y al final se vierte sobre los fideos. Desde que la anguila entra en la olla hasta que se saca, todo debe completarse en **27 segundos**.
+A las diez de la noche, en un puesto de fideos con anguila de la calle You'ai, el fuego alto ha estado ardiendo durante varias horas. El maestro toma un trozo de anguila y lo lanza a la sartén hirviente: desde ese instante, comienza el cronómetro. Se sofríe el ajo para aromatizar, entra la anguila, se añade cebollino, cebolla, chile, los condimentos con espesante y el vinagre Wu-yin; finalmente, se retira del fuego y se vierte sobre los fideos. Desde que entra en la sartén hasta que sale, todo debe completarse en menos de 27 segundos.
 
-Un segundo más y la carne se vuelve dura, el olor a pescado se intensifica y el plato se pierde.
+Un segundo más, y la carne se vuelve seca, el olor a pescado aparece y todo el lote se pierde.
 
 ## El peso de un número
 
-Los fideos de anguila existen en otras partes de **Taiwán**, pero fuera de Tainan casi nadie los prepara bien. No es cuestión de los ingredientes ni de la salsa; es esa cifra de 27 segundos.
+Los fideos con anguila existen en otras partes de Taiwán, pero fuera de Tainan casi nadie logra hacerlos correctamente. No es un problema de los ingredientes ni de la salsa; son esos 27 segundos.
 
-La proteína de la anguila es frágil; bajo alta temperatura las fibras musculares se coagulan casi al instante, y al pasar el punto crítico la textura cambia. Veintisiete segundos son suficientes para que la carne quede cocida pero aún elástica; a partir de ese momento comienza a endurecerse, a oler a pescado y a deshacerse. El maestro no mira el reloj: escucha el silbido de la olla y siente con la muñeca el estado del interior. Esta destreza no se aprende en unos meses.
+La estructura proteica de la anguila es frágable; bajo altas temperaturas, las fibras musculares se coagulan casi instantáneamente, y tras superar el punto crítico, la textura cambia por completo. 27 segundos son suficientes para que la carne se cocine pero las fibras mantengan su elasticidad; después de 27 segundos, empieza a endurecerse, a oler a pescado y a deshacerse. Los maestros veteranos no miran un cronómetro: escuchan el "aliento del wok" (wok hei) con el oído y sienten el estado de la sartén con la muñeca. Esta destrección no es algo que se aprenda en pocos meses.
 
-📝 Nota del curador: el número “27 segundos” es conocimiento común entre quienes comen fideos de anguila en Tainan, pero casi nadie fuera de la ciudad lo sabe. No es un truco publicitario, sino la descripción precisa del umbral técnico del plato: cada segundo que sobrepasa ese límite es una falta de respeto al ingrediente.
+📝 Nota del curador: La cifra de «27 segundos» es un conocimiento común entre quienes comen fideos con anguila en Tainan, pero casi nadie fuera de la ciudad lo sabe. No es un truco publicitario, es la descripción precisa del umbral técnico de este plato; cada segundo que supera este tiempo es una falta de respeto al ingrediente.
 
-## Tainan no tiene anguila
+## En Tainan no había anguilas japonesas
 
-Para entender el origen de este plato, primero hay que comprender el mapa gastronómico de Tainan bajo el dominio japonés.
+Para entender el nacimiento de este plato, primero hay que comprender el mapa gastronómico de Tainan durante el periodo colonial japonés.
 
-A los japoneses les encantaba la anguila, pero Tainan no contaba con suministro local; había que importarla, lo que encarecía y escasea el producto. Los estanques, canales y campos de los alrededores de la ciudad estaban llenos de anguilas silvestres—delgadas y alargadas, parecidas a la anguila, pero poco conocidas por los taiwaneses. Los hermanos **Liao Bing-nan** y **Liao Huo-tu** vieron una oportunidad en esa carencia.
+A los japoneses les encantaba comer anguila (_unagi_), pero en Tainan no había suministro; dependían de las importaciones, que eran caras y escasas. Sin embargo, en los estanques, canales y alrededores de los campos de cultivo de Tainan, crecían abundantes anguilas silvestres (_shanyue_), de cuerpo alargado y similar a la anguila japonesa, aunque los taiwaneses no sabían muy bien cómo cocinarlas. Los hermanos Liao Bing-nan y Liao Huo-tu encontraron una oportunidad en este vacío.
 
-Aprendieron de un maestro de **Fuzhou** la técnica del “cuchillo” (_to‑tsì_), una expresión en min nan que alude al arte culinario, enfatizando la unión entre el trabajo del cuchillo y el control del fuego. Tras desarrollar una forma de saltear la anguila que imitaba a la japonesa, el sabor agridulce y salado de Tainan conquistó también a los funcionarios japoneses, y la familia Liao ganó fama en el mercado Sakariiba. **Liao Bing-nan** se hacía llamar “Anguila del Sur”, convirtiéndose en sinónimo del plato.
+Aprendieron de un maestro de Fuzhou el arte del «to-tsì» (uso del cuchillo); el término _to-tsì kungfu_ es una expresión en minnan para referirse a la técnica culinaria, enfatizando la unidad entre el corte y el control del fuego. Tras desarrollar un método de salteado que imitaba la anguila japonesa usando la especie local, el sabor agridulce típico de Tainan incluso conquistó a los funcionarios japoneses, y la familia Liao forjó su fama en Sakarable. Liao Bing-nan fue conocido como «Liao la Anguila» (_Shanyue Nan_), convirtiéndose en un sinónimo de este plato.
 
-📝 Nota del curador: sustituir la anguila importada por la anguila silvestre de los estanques de Tainan no es solo un cambio de ingrediente; es una solución local surgida de la limitación de recursos. Esa lógica es un genético común en la creación de los bocadillos de Tainan.
+📝 Nota del curador: Sustituir la anguila importada por la anguila silvestre de los estanques de Tainan no fue solo un cambio de ingrediente, sino una solución local ante la limitación de recursos. Esta lógica es el gen común con el que nacen las comidas callejeras de Tainan.
 
-## Tres generaciones, una genealogía
+## Tres generaciones, un linaje
 
-La técnica de la familia Liao se transmitió de forma ininterrumpida: el hijo de **Liao Bing-nan**, llamado “Anguila Lu”, tomó la antorcha, y la pasó a la tercera generación, **Liao Kuo-hsiung**, conocido como “Anguila Liao”. Hoy, el puesto **Liao Ji** en Sakariiba representa la línea directa de esa sangre.
+La técnica de la familia Liao se ha transmitido de generación en generación: el hijo de Liao Bing-nan, conocido como «Shanyue Lu», tomó el relevo, y luego pasó a la tercera generación con Liao Guo-xiong, apodado «Liao la Anguila». Hoy, el emblemático puesto _Liao Ji_ en Sakariba es el heredero legítimo de este linaje.
 
-También surgieron ramificaciones. En la calle Chenggong, **A‑Yuan** abrió su propio puesto de anguila, hijo de Anguila Lu; en la calle Minzu, **A‑Jiang** se separó de A‑Yuan y abrió otro local; recientemente, **Er‑Ge** abrió su propio negocio de anguila. El mapa de los fideos de anguila en el centro de Tainan se asemeja a la expansión del árbol genealógico de la familia Liao.
+Muchos otros se han derivado de esta rama. El puesto _A-yuan_ en la calle Chenggong es dirigido por el hijo de «Liao la Anguila»; _A-jiang_, en la calle Minzu, se independizó de _A-yuan_; y recientemente, otro hermano abrió su propio negocio. El mapa de los puestos de fideos con anguila en el centro de Tainan es, prácticamente, una expansión geográfica del árbol genealógico de la familia Liao.
 
-📝 Nota del curador: **Liao Ji** fue incluido en la Guía Verde Michelin en 2024. Un plato nacido a principios del siglo XX como comida de obreros en un mercado ha sido reconocido por críticos gastronómicos un siglo después—el tiempo a veces es el filtro más justo.
+📝 Nota del curador: El puesto _Liao Ji_ fue incluido en la Guía MICHELIN Green Guide en 2024. Un plato nacido en un mercado de principios del siglo XX, reconocido por la crítica gastronómica un siglo después; el tiempo es, a veces, el filtro más justo.
 
-## Sakariiba: el nombre japonés del mercado
+## Sakariba: El nombre japonés de un mercado
 
-“Sakariiba” proviene del japonés **盛り場** (_sakariba_), una transliteración al taiwanés que significa “mercado bullicioso”.
+«Sakariba» es una transliteración al taiwanesa de la palabra japonesa _sakariba_ (盛り場), que significa un lugar animado o un mercado concurrido.
 
-Durante la época japonesa, el gobierno de Tainan, bajo el plan de reorganización urbana, concentró a los vendedores ambulantes en la zona del mercado de la calle You’ai, bajo una gestión unificada. Ese mercado se convirtió en un laboratorio de bocadillos de Tainan: vendedores de distintos orígenes se apiñaban, cada uno con su lógica culinaria y sus ingredientes, observándose y estimulándose mutuamente, forjando los rasgos que hoy definen la comida callejera de la ciudad.
+Durante el periodo colonial, el gobierno de Tainan, bajo el plan de reforma urbana, concentró los puestos dispersos en la zona del mercado de la calle You'ai para una gestión unificada. Este mercado se convirtió en un laboratorio de la gastronomía de Tainan: puestos de diversos orígenes se agruparon en un mismo lugar, cada uno aportando sus propias lógicas de cocción e ingredientes, observándose y estimulándose mutuamente, forjando el ADN de lo que hoy es la comida callejera de Tainan.
 
-Los fideos de anguila nacieron, maduraron y fueron reconocidos en ese entorno.
+Los fideos con anguila nacieron, maduraron y fueron reconocidos precisamente en este entorno.
 
-## Fideos “yi‑mien”: una variedad propia de Tainan
+## Los fideos (_yimian_): Un tipo de pasta único de Tainan
 
-Los “yi‑mien” que acompañan a la anguila salteada son también una creación propia de Tainan.
+Los fideos utilizados para acompañar la anguila salteada son, en sí mismos, una existencia única de Tainan.
 
-Se elaboran con huevo y harina; su particularidad está en el proceso: se fríen parcialmente para fijar la forma y luego se dejan reposar. Antes de servir, se sumergen en la salsa de anguila salteada, absorbiendo todo el caldo—ese acto de absorción les da una textura distinta a la de los fideos convencionales: masticables, llenos y con profundidad de sabor.
+Hechos con huevo y harina, su particularidad reside en el proceso: se fríen para darles forma en un estado semi-crudo y luego se dejan reposar. Antes de servir, se sumergen en la salsa de la anguila recién salteada para que absorban todo el jugo. Ese proceso de absorción hace que la textura sea completamente distinta a la de una pasta convencional: es masticable, sustanciosa y profunda en sabor.
 
-Hay dos formas de servirlos. El **salteado en seco** produce una salsa más densa y un color más oscuro, concentrando el aroma de la anguila; el **salteado en sopa** brinda un caldo más claro y dulce, y los fideos quedan más suaves, ideal para quienes prefieren sabores menos intensos. Cada estilo tiene sus seguidores.
+Existen dos estilos: el salteado seco (_sheng-chao_) y el salteado con caldo (_tang-chao_). El estilo seco tiene una salsa espesa y oscura, con un aroma a anguila más concentrado; el estilo con caldo es más ligero y dulce, haciendo que los fideos queden más suaves, ideal para quienes prefieren sabores menos intensos. Cada uno tiene sus propios seguidores.
 
-## Vinagre de cinco impresiones: el último paso
+## Vinagre Wu-yin: El paso final
 
-Antes de retirar la olla del fuego, el chef añade **vinagre de cinco impresiones**.
+Antes de retirar la sartén del fuego, el maestro añade vinagre Wu-yin.
 
-Este vinagre, una marca local de Tainan, es más robusto que el vinagre blanco tradicional y lleva un sutil toque caramelizado. Al incorporarlo, el equilibrio entre salado, ácido y dulce se reajusta, proporcionando un final refrescante que corta la grasa—de modo que, después de una cucharada de anguila salteada, aún tienes apetito para seguir recorriendo los puestos.
+El vinagre Wu-yin es una marca local de vinagre negro (_wu-cu_) de Tainan; su acidez es más robusta que la del vinagre blanco común y posee un ligero trasfondo caramelizado. Al añadir el vinagre, la proporción agridulce se reequilibra, aportando un final refrescante que corta la sensación de grasa, permitiéndote tener apetito para continuar hacia el siguiente puesto después de haber terminado tu plato.
 
-📝 Nota del curador: la lógica del bocadillo de Tainan nunca busca simplemente saciar; busca que continúes comiendo. El vinagre de cinco impresiones actúa como una herramienta de “reinicio” del paladar, no solo como condimento. Este detalle ilustra la ingeniería gastronómica detrás del “tour de puestos” de Tainan.
+📝 Nota del curador: La lógica del diseño de la comida callejera de Tainan nunca es simplemente saciarte, sino permitirte seguir comiendo. El vinagre Wu-yin no es un simple condimento, es una herramienta de reajuste del paladar. Este detalle explica la "ingeniería gastronómica" de la cultura de rutas culinarias en Tainan.
 
 ---
 
 ## Referencias
 
-- [Fideos de anguila — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5)
-- [Sakariiba — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4)
-- [¿Cómo se cocina la anguila salteada con sinceridad? — Opinión independiente @ Tianxia](https://opinion.cw.com.tw/blog/profile/194/article/8595)
-- [Bocadillos de Tainan, fideos de anguila de larga data — BoboTravel](https://bobotravel.tw/blog/post/153578723-%E9%A3%9F%E8%A8%98%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%B1%94%E9%AD%9A%E5%BB%96)
-- [Historia viva de la anguila salteada en Tainan — TVBS Food Player](https://supertaste.tvbs.com.tw/food/330365)
-- [A‑Yuan y su anguila: historia y receta única — Lord Cat](https://lordcat.net/archives/1846)
-- [Casi un siglo de fideos de anguila en Tainan — ETtoday Travel Cloud](https://travel.ettoday.net/article/416437.htm)
-- [Especial de anguila seca en el distrito Zhongxi — Nanren Bang](https://lifeintainan.com/062249686/)
-- [Seis tiendas de fideos de anguila en Tainan, recomendadas por locales — TVBS Food Player](https://supertaste.tvbs.com.tw/pack/336229)
+- [Fideos con anguila — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5)
+- [Sakariba — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4)
+- [¿Cómo puede el salteado de anguila llamarse sinceridad? — Crítica Independiente @天下](https://opinion.cw.com.tw/blog/profile/194/article/8595)
+- [Comida callejera de Tainan, fideos con anguila tradicionales | Sakariba Shanyue Liao, la tienda fundacional de tres generaciones — BoboTravel](https://bobotravel.tw/blog/post/153578723-%E9%A3%9F%E8%A8%98%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%B1%94%E9%AD%9A%E5%BB%96)
+- [¡La historia viva de la anguila salteada en Tainan! La marca centenaria también es deliciosa para llevar — TVBS Food Wars](https://supertaste.tvbs.com.tw/food/330365)
+- [¡Historia de la anguila salteada en Tainan! El sabor de un siglo — Ma Da Ye](https://lordcat.net/archives/1846)
+- [La tienda fundacional de fideos con anguila en Tainan, con un aroma de casi cien años — ETtoday Travel Cloud](https://travel.ettoday.net/article/416437.htm)
+- [【Distrito de Zhongxi】Anguila salteada especial | Nandu Old Brand Shanyue Yimian — Nanrenbang](https://lifeintainan.com/062249686/)
+- [¡Los locales han comido esto desde niños! 6 tiendas históricas de fideos con anguila en Tainan — TVBS Food Wars](https://supertaste.tvbs.com.tw/pack/336229)

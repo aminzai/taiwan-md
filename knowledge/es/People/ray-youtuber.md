@@ -1,84 +1,85 @@
 ---
 title: 'Ray (YouTuber)'
-description: "Xu Chenrui, nacido en 2005, es un estudiante de secundaria taiwanés que se hizo viral durante un viaje escolar a Japón con la frase «My name is Ray, I'm from Taiwan». Actualmente supera los 2,7 millones de seguidores en Twitch y 1,43 millones de suscriptores en YouTube. Llevó el pasaporte taiwanés, la sopa de fideos con carne (niúròu miàn) y el té de burbujas (zhēn nǎi) a un video popular de GQ en Estados Unidos, firmó con Adidas para lanzar su marca personal RUEI, y posteriormente anunció su retiro para invertir en una clínica dental en Atlanta, mostrando al mundo las posibilidades de la juventud taiwanesa."
+description: "Hsu Chen-rui (Ray), estudiante de secundaria de Taiwán nacido en 2005, se hizo viral tras decir «My name is Ray, I'm from Taiwan» durante un viaje escolar a Japón. Con más de 2,7 millones de seguidores en Twitch y 1,43 millones en YouTube, ha llevado el pasaporte de Taiwán, los fideos con salsa de soja y el té con perlas a vídeos populares de GQ en EE. UU., además de lanzar su marca RUEI con Adidas."
 date: 2026-03-23
-author: '坦克'
 category: 'People'
-subcategory: '數位與媒體'
 tags:
   [
-    'YouTuber',
-    '實況主',
+    'YouTender',
+    'streamer',
     'Twitch',
     'Kai Cenat',
-    '數位創作者',
-    '台灣國際形象',
+    'creador digital',
+    'imagen internacional de Taiwán',
     'AMP',
   ]
-readingTime: 9
+subcategory: '數位與媒體'
+author: '坦克'
+featured: false
 lastVerified: 2026-03-23
 lastHumanReview: false
-featured: false
-translatedFrom: People/Ray.md
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:970d28e96a195c6a'
+readingTime: 9
+curation: 'incubating'
+translatedFrom: 'People/Ray.md'
+sourceCommitSha: '03b3aaae8'
+sourceContentHash: 'sha256:7bb33d5e90715777'
 sourceBodyHash: 'sha256:bfea2eb77a7d1c05'
-translatedAt: 2026-05-01T22:19:10+08:00
+translatedAt: '2026-08-04T14:32:57+08:00'
 ---
 
 # Ray (YouTuber)
 
 > **Resumen en 30 segundos:**  
-> Xu Chenrui (Rayasianboy), nacido el 31 de octubre de 2005 en Taiwán, estudiante de la escuela secundaria Tamkang en Nuevo Taipéi. En julio de 2023, durante un viaje escolar a Japón, se acercó audazmente al streamer estadounidense Kai Cenat frente a un 7-Eleven y dijo: «My name is Ray, I'm from Taiwan». El clip se hizo viral al instante. Se unió al grupo AMP y actualmente cuenta con más de 2,7 millones de seguidores en Twitch y 1,43 millones de suscriptores en YouTube (RAY LIVE). En 2025 apareció en un video de GQ mostrando el pasaporte taiwanés y su gastronomía, firmó con Adidas para lanzar su marca de ropa personal RUEI, y ganó el premio al «Mejor Streamer de Reality» en The Streamer Awards, antes de anunciar su retiro para invertir en una clínica dental en Atlanta.
+> Hsu Chen-rui (Rayasianboy), nacido el 31 de octubre de 2005 en Taiwán, es estudiante de la escuela secundaria Tamkang en Nuevo Taipéi. En julio de 2023, durante un viaje escolar a Japón, se volvió viral tras saludar con audacia al streamer estadounidense Kai Cenat frente a un 7-Eleven diciendo: «My name is Ray, I'm from Taiwan». Se ha unido al grupo AMP y actualmente cuenta con más de 2,7 millones de seguidores en Twitch y 1,43 millones de suscriptores en YouTube (RAY LIVE). En 2025, apareció en un vídeo de GQ mostrando el pasaporte de la República de China (Taiwán) y su gastronomía; firmó con Adidas para lanzar su marca de ropa personal RUEI y ganó el premio a «Mejor Streamer de IRL» en The Streamer Awards. Posteriormente, anunció su retiro para invertir en una clínica dental en Atlanta.
 
-## Por qué importa
+## Por qué es importante
 
-Un estudiante taiwanés común, sin agencia de talentos ni empaque de estrella, logró pasar de la escuela secundaria Tamkang al mundo del streaming estadounidense con una sola frase en inglés y un acto de valentía callejera. Juega con Kai Cenat y los miembros de AMP, y lleva la vida cotidiana de Taiwán directamente a las cámaras internacionales. Esta no es solo una historia de fama viral, sino una muestra del camino real de la juventud taiwanesa en la era digital: si te atreves a dar un paso al frente, el mundo responde.
+Un estudiante de secundaria común de Taiwán, sin agencia ni estrategia de marketing, logró pasar de la escuela Tamkang al círculo de la transmisión en vivo de Estados Unidos basándose solo en una frase en inglés y valentía callejera. Al interactuar con Kai Cenat y los miembros de AMP, ha llevado la cotidianidad de Taiwán directamente a las cámaras internacionales. Esto no es solo una historia de fama individual, sino que muestra la trayectoria real de los jóvenes taiwaneses en la era digital: si te atreves a dar el paso, el mundo responderá.
 
 ## Contenido principal
 
-### Origen: Del baloncesto a las calles de Japón
+### Origen: De la cancha de baloncesto a las calles de Japón
 
-Ray amaba los deportes desde pequeño: primero jugó fútbol y luego se cambió al baloncesto, donde fue escolta en el equipo de la escuela secundaria Tamkang. En julio de 2023, durante un viaje escolar a Tokio, Japón, se encontró con Kai Cenat transmitiendo en vivo frente a una tienda de conveniencia. Se acercó a presentarse y la breve conversación fue captada por la transmisión, viralizándose rápidamente en las comunidades occidentales. Kai incluso voló especialmente a Taiwán para asistir a la graduación de Ray en junio de 2024, y esta amistad transnacional fue descrita por los medios como una versión moderna de la dupla de _Hora punta_.
+Ray siempre ha amado el deporte; primero jugó al fútbol y luego pasó al baloncesto, desempeñándose como base en el equipo de la secundaria Tamkang. En julio de 2023, durante un viaje escolar a Tokio, Japón, se encontró con Kai Cenat realizando una transmisión frente a una tienda de conveniencia. Se acercó para presentarse y ese breve diálogo, capturado en directo, se difundió rápidamente por las redes sociales de Europa y América. Más tarde, Kai voló específicamente a Taiwán para asistir a la ceremonia de graduación de Ray en junio de 2024; esta amistad transnacional ha sido descrita por los medios como una versión moderna de una pareja de la película _Rush Hour_.
 
 ### Punto de inflexión: De desconocido a fenómeno internacional
 
-A partir de 2024 abrió oficialmente su canal de Twitch, rayasianboy, con contenido centrado en interacciones cotidianas, juegos y vlogs. Pronto se unió al grupo de streaming estadounidense AMP y se convirtió en miembro de Clover House. Entre sus trabajos destacados está _10 Things Ray Can't Live Without_ de GQ Sports (abril de 2025), donde mostró su pasaporte de la República de China, fideos instantáneos Wei Lian (維力炸醬麵) y té de burbujas, logrando que el video se posicionara entre los cinco más vistos en YouTube en Estados Unidos.
+A partir de 2024, abrió formalmente su canal de Twitch `rayasianboy`, centrado en interacciones cotidianas, videojuegos y vlogs, integrándose rápidamente en el grupo estadounidense AMP y convirtiéndose en miembro de Clover House. Una de sus obras representativas fue «10 Things Ray Can't Live Without» para GQ Sports (abril de 2025), donde mostró el pasaporte de la República de China (Taiwán), los fideos instantáneos de la marca Wei Lami y el té con perlas; el vídeo alcanzó el top 5 de lo más visto en YouTube Estados Unidos.
 
-En 2025 firmó una colaboración a largo plazo con Adidas Basketball y lanzó su marca de ropa personal «RUEI» (tomado de su nombre de pila, Ruei), que se agotó el día de su lanzamiento. También fue modelo en una colaboración con BAPE. En junio del mismo año participó en un partido benéfico de baloncesto para creadores en Houston, anotando triples (incluyendo un lanzamiento desde el logo de media cancha), mientras los comentaristas repetían constantemente «¡viene de Taiwán!». El clip se difundió ampliamente en redes sociales. A finales de 2025 ganó el premio al «Mejor Streamer de Reality» en The Streamer Awards, convirtiéndose en el primer creador taiwanés en recibir este reconocimiento.
+En 2025, firmó un acuerdo de colaboración a largo plazo con Adidas Basketball y lanzó su propia marca de ropa «RUEI» (derivado de su nombre real, Ruei), la cual se agotó al momento de su lanzamiento; también colaboró como modelo para BAPE. En junio del mismo año, participó en un partido de baloncesto benéfico para creadores en Houston, donde anotó cuatro triples (incluyendo un _logo shot_ desde el centro de la cancha), con el narrador enfatizando constantemente que «venía de Taiwán», lo que generó gran impacto en redes sociales. A finales de 2025, ganó el premio a «Mejor Streamer de IRL» en The Streamer Awards, siendo el primer creador taiwanés en recibir tal honor.
 
-### Situación actual: Vida en Estados Unidos y nuevos rumbos
+### Situación actual: Vida en Estados Unidos y nuevos horizontes
 
-Ray se mudó posteriormente a Atlanta, Estados Unidos, donde vive en una mansión de contenido regalada por Kai. Continúa transmitiendo en Twitch y YouTube (RAY LIVE acumula más de millones de vistas), y en octubre de 2025 anunció su salida del mundo del streaming para invertir en una clínica dental en Atlanta, persiguiendo su sueño de convertirse en dentista. A principios de 2026 compró un Lamborghini Urus pagando al contado aproximadamente dólares en efectivo.
+Ray se mudó posteriormente a Atlanta, Estados Unidos, residiendo en una mansión de contenido que le fue obsequiada por Kai. Continúa realizando transmisiones en Twitch y YouTube (RAY LIVE ha acumulado más de 430 millones de visualizaciones), pero en octubre de 2025 anunció su retiro del mundo del streaming para invertir en una clínica dental en Atlanta, persiguiendo su sueño de convertirse en dentista. A principios de 2026, compró un Lamborghini Urus por aproximadamente 300.000 dólares en efectivo.
 
 ### Desafíos y controversias
 
-La fama rápida también trajo presión. En marzo de 2025 pausó sus transmisiones, aclarando que se debía a razones de salud mental (_mental break_), no al servicio militar. Algunos usos del lenguaje en sus transmisiones influenciados por AMP, así como comentarios en el programa de Logan Paul describiendo la sociedad taiwanesa como «NPC», generaron debate en la comunidad taiwanesa. A finales de 2025, al preguntarle a la VTuber Ironmouse sobre su «apariencia real» durante la ceremonia de premiación, también provocó una controversia sobre privacidad. Ray se disculpó posteriormente, aunque expresó su confusión. Ante estos eventos, suele responder que «cada quien tiene su propia opinión».
+La fama rápida también ha traído presiones. En marzo de 2025, suspendió sus transmisiones aclarando que se trataba de un descanso por salud mental (_mental break_) y no por el servicio militar. Algunos comentarios sobre el uso del lenguaje influenciado por AMP, así como declaraciones en un programa de Logan Paul donde describió a la sociedad taiwanesa «como un NPC», generaron debate en las comunidades de Taiwán. A finales de 2025, una pregunta dirigida a la VTuber Ironmouse sobre su «apariencia real» durante una ceremonia de premios también provocó controversias sobre la privacidad; Ray se disculpó posteriormente, aunque expresó confusión. Ante estos incidentes, suele responder que «cada persona tiene su propia opinión».
 
 ### Significado para Taiwán
 
-Ray menciona de forma natural que es de Taiwán cada vez que aparece ante cámaras internacionales, lo que le ha valido el apodo de «el mejor diplomático» entre los internautas. Desde ser llamado «el estudiante de secundaria más fuerte de Taiwán» hasta llevar la gastronomía y la cultura taiwanesa a videos populares en Estados Unidos, demuestra que la juventud taiwanesa no necesita esperar a que otros la descubra: puede salir por sí misma y ser vista por el mundo.
+Cada vez que aparece ante las cámaras internacionales, Ray menciona de forma natural que es de Taiwán, lo que le ha valido el apodo de «el mejor diplomático» por parte de los internautas. De ser «el estudiante de secundaria más fuerte de Taiwán» a llevar la gastronomía y cultura taiwanesa a los vídeos más populares de Estados Unidos, ha demostrado que los jóvenes de Taiwán no necesitan esperar a que otros los descubran; ellos mismos pueden salir al mundo y hacerse visibles.
 
 ## Referencias
 
 - [Canal de Twitch de Ray](https://www.twitch.tv/rayasianboy)
 - [Canal oficial de YouTube RAY LIVE](https://www.youtube.com/@RayLiveee)
 - [Instagram de Ray](https://www.instagram.com/rayasianboy_)
-- [Entrevista y video de GQ Taiwan](https://www.gq.com.tw/article/gq-hype-ray-2025)
-- [Historia del desarrollo de YouTube en Taiwán o artículos relacionados con creadores digitales (enlaces futuros si están disponibles)]
+- [Entrevista y vídeo de GQ Taiwan](https://www.gq.com.tw/article/gq-hype-ray-2025)
+- [Historia del desarrollo de YouTube en Taiwán o artículos relacionados con creadores digitales (enlace futuro)]
 
 ## Referencias
 
-1. Wikipedia (chino) – Ray (YouTuber taiwanés) (versión más reciente de 2026)  
-   https://zh.wikipedia.org/zh-tw/Ray_(%E8%87%BA%E7%81%A3YouTuber)
+1. Wikipedia (chino) - Ray (YouTuber de Taiwán) (versión más reciente de 2026)  
+   https://zh.wikipedia.org/zh-tw/Ray_(%E8%87%BA%E7%81%A3YouTuber
 
-2. Wikipedia (inglés) – Rayasianboy  
+2. Wikipedia (inglés) - Rayasianboy  
    https://en.wikipedia.org/wiki/Rayasianboy
 
-3. GQ Taiwan / GQ Sports – Entrevista y video de 2025  
+3. GQ Taiwan / GQ Sports Entrevista y vídeo de 2025  
    https://www.gq.com.tw/article/gq-hype-ray-2025
 
 4. Registro oficial de The Streamer Awards (lista de ganadores de 2025)
 
 5. SocialCounts / Social Blade (datos más recientes de marzo de 2026)  
-   Twitch: más de 2,7 millones de seguidores; YouTube RAY LIVE: 1,43 millones de suscriptores, millones de vistas
+   Twitch: más de 2,7 millones de seguidores; YouTube RAY LIVE: 1,43 millones de suscriptores, 436 millones de visualizaciones

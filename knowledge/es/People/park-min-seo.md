@@ -1,50 +1,51 @@
 ---
 title: 'Park Min-seo'
-description: 'Bajo el nombre de «Mingo», se unió a las Wing Stars de los TSG Hawks, donde asumió el rol de directora artística y de refuerzo extranjero coreano dentro del sistema de estadio del sur, representando una vía alternativa hacia la «institucionalización de refuerzos extranjeros» en las animadoras de la CPBL.'
+description: 'Bajo el nombre de «Mingo», se unió a las Wing Stars del equipo TSG Spiders, asumiendo el papel de directora de actuaciones y jugadora extranjera en el sistema de estadios del sur, representando una vía alternativa hacia la «institucionalización de extranjeras» en las animadoras de la CPBL.'
 date: 2026-05-13
-author: 'Taiwan.md Contributors'
 category: 'People'
-subcategory: '流行人物'
 tags:
   [
-    'figuras populares',
+    'Personalidades populares',
     'Park Min-seo',
     'Mingo',
     'Corea del Sur',
     'animadoras',
-    'TSG Hawks',
+    'TSG Spiders',
     'Wing Stars',
     'CPBL',
   ]
-readingTime: 8
+subcategory: '流行人物'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-05-13
 lastHumanReview: false
-featured: false
-translatedFrom: People/朴旻曙.md
-sourceCommitSha: 859d7316d
-sourceContentHash: sha256:9b7fc7c2dcfd2ba4
-sourceBodyHash: sha256:88c017dc32e26447
-translatedAt: 2026-05-22T05:08:47+08:00
+readingTime: 8
+curation: 'incubating'
+translatedFrom: 'People/朴旻曙.md'
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:9b7fc7c2dcfd2ba4'
+sourceBodyHash: 'sha256:88c017dc32e26447'
+translatedAt: '2026-08-04T14:00:17+08:00'
 ---
 
-> **Resumen en 30 segundos:** Los medios y los comunicados oficiales del equipo suelen presentar a esta integrante coreana como «Mingo / Park Min-seo». Se incorporó durante la fase de configuración de refuerzos extranjeros tras la formación del cuerpo de animadoras Wing Stars de los TSG Hawks, junto a figuras como An Ji-hyun, conformando un elenco escénico de alto perfil para el equipo.
+> **Resumen en 30 segundos:** Los medios y los datos oficiales del club suelen presentar a esta integrante surcoreana como «Mingo / Park Min-seo». Debutó como parte de la estrategia de contratación de extranjeras tras la formación de las Wing Stars, el grupo de animadoras de los TSG Spiders, junto a figuras como An Ji-hyeon, conformando un despliegue de actuaciones de alto impacto para el equipo.
 
-Una vez que los TSG Hawks consolidaron su marca de animadoras Wing Stars, fueron transformando progresivamente el concepto de «refuerzo extranjero» desde un evento puntual a una estructura operativa permanente. Según recopilaciones de medios como _ETtoday Sports_ durante la conferencia de prensa de presentación, el equipo anunció la incorporación de la coreana «Mingo» Park Min-seo; los reportajes también mencionaron aspectos como la estructura del plantel y los entrenamientos en Corea del Sur, lo que evidencia que no se trataba solo de exposición individual, sino de un flujo completo de producción escénica y formación. [Fuente: ETtoday Sports (EBC News)][^1]
+Tras consolidar la marca de su grupo de animadoras, las Wing Stars, los TSG Spiders han transformado gradualmente el concepto de «jugadora extranjera» de un tema anecdótico a una estructura operativa. Según recopilaciones de medios como _ETtoday Sports Cloud_ durante la rueda de prensa de formación, el club anunció la incorporación de la surcoreana «Mongo» Park Min-seo; los informes también mencionaron medidas complementarias, como la estructura del equipo y entrenamientos en Corea del Sur, lo que demuestra que esto no es solo una exposición individual, sino un conjunto completo de procesos de escenario y entrenamiento. [Fuente: EBC New Media / ETtoday Sports Cloud][^1]
 
-Su auto-presentación en público también apela a un tono de «competencia profesional». El mismo reportaje de la conferencia de prensa cita sus palabras, describiendo la atmósfera del evento como una declaración de debut cargada de confianza, algo que resulta llamativo dentro de la narrativa de marketing de las animadoras de la CPBL. [Fuente: ETtoday Sports (EBC News)][^1]
+Su propia presentación en eventos públicos también tiende hacia un «sentido de competición profesional». Las crónicas de la misma rueda de prensa citaron sus declaraciones, describiendo la atmósfera del evento como una declaración de debut con gran confianza, lo cual resulta notable dentro de la narrativa de marketing de las animadoras de la CPBL. [Fuente: EBC New Media / ETtoday Sports Cloud][^1]
 
-## Su posición dentro del sistema de los TSG Hawks
+## Su posición en el sistema de los TSG Spiders
 
-A diferencia del modelo de «presencia puramente en redes sociales», Wing Stars articula la gestión del estadio, la formación y el calendario de apariciones públicas del equipo. Dentro de esa estructura, Park Min-seo ocupa una posición de refuerzo que puede ser llevada al escenario de una conferencia de prensa y soportar la amplificación mediática: no solo debe actuar, sino también comprender las expectativas y el escrutinio de los aficionados taiwaneses hacia la «animación al estilo coreano».
+A diferencia del modelo de «solo buscar presencia en redes sociales», las Wing Stars vinculan la gestión de los estadios del club, la formación y el ritmo de sus apariciones públicas. En esta estructura, Park Min-seo ocupa una posición de extranjera que puede ser posicionada en escenarios de ruedas de prensa y que está sujeta a la amplificación mediática: no solo necesita actuar, sino también comprender las expectativas y el escrutinio de los aficionados taiwaneses hacia el «estilo de animación coreano».
 
-Dado que los nombres de los refuerzos extranjeros suelen presentar variaciones de transliteración o caracteres alternativos en los medios en chino, se recomienda a los lectores verificar cruzadamente consultando los comunicados oficiales del equipo y los reportajes de medios principales.
+Debido a que los nombres de las jugadoras extranjeras suelen presentar variantes de caracteres chinos o diferencias en la transliteración en los medios de comunicación, se recomienda a los lectores utilizar como referencia los manuscritos originales del club y de los informes principales al realizar comparaciones.
 
-## Significado como figura popular
+## El significado de una personalidad popular
 
-La relevancia de Park Min-seo radica en que sitúa a la «animadora coreana» dentro de la narrativa de los TSG Hawks, un equipo con sede en el sur de Taiwán: no se trata de replicar la plantilla de popularidad ya existente en los estadios del norte, sino de reconstruir, dentro de una política de estadio y un entorno mediático distintos, la confianza del público y los puntos de memoria asociados a los refuerzos extranjeros.
+La importancia de Park Min-seo radica en que sitúa a la «animadora surcoreana» dentro de la narrativa de este equipo con sede en el sur de Taiwán, los TSG Spiders: no se trata de replicar el modelo de popularidad ya existente en los estadios del norte, sino de reconstruir la confianza y la memoria del público hacia las jugadoras extranjeras dentro de un entorno mediático y político de estadio distinto.
 
-## Referencias / Fuentes
+## Referencias / Sources
 
-[^1]: ETtoday Sports (EBC News), «台鋼啦啦隊最強外援再+1 Mingo發豪語：證明我是天花板», reportaje sobre la conferencia de prensa y declaraciones relacionadas con las Wing Stars de los TSG Hawks, https://sports.ettoday.net/news/2664696
+[^1]: ETtoday Sports Cloud (EBC New Media), 〈La mejor extranjera de las animadoras de TSG se suma: Mingo lanza una promesa audaz: "Probaré que soy el nivel máximo"〉, informa sobre el contenido y las declaraciones de la rueda de prensa de las Wing Stars de los TSG Spiders, https://sports.ettoday.net/news/2664696
 
-Lectura complementaria (perfil general, el artículo puede seguir actualizándose): página de Wikipedia «朴旻曙», https://zh.wikipedia.org/wiki/%E6%9C%B4%E6%97%BB%E6%9B%99
+Otras lecturas complementarias (perfil de personalidad, la entrada puede seguir actualizándose): Página de Wikipedia «Park Min-seo», https://zh.wikipedia.org/wiki/%E6%9C%B4%E6%97%BB%E6%9B%99

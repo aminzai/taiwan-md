@@ -1,207 +1,110 @@
 ---
-title: 'Lee Yuan-tseh'
-category: People
+title: 'Li Yuan-che'
+description: 'Ganador del Premio Nobel de Química en 1986, pionero en la cinética química mediante la técnica de haces moleculares cruzados y el primer ganador de un Nobel científico en Taiwán.'
+date: 2026-03-21
+category: 'People'
 tags:
   [
-    person,
-    Lee Yuan-tseh,
-    Premio Nobel,
-    química,
-    científico,
-    Academia Sinica,
-    Taiwan,
+    'Personajes',
+    'Li Yuan-che',
+    'Premio Nobel',
+    'Química',
+    'Científico',
+    'Academia Sinica',
+    'Taiwán',
   ]
-date: 2026-03-21
-translatedFrom: 'People/李遠哲.md'
-sourceCommitSha: '4b6d28c5'
-sourceContentHash: 'sha256:c7cb9c37ad53a48c'
-sourceBodyHash: 'sha256:d9744718376b888a'
-translatedAt: '2026-04-14T12:25:09+08:00'
-description: 'Premio Nobel de Química en 1986, primer laureado taiwanés en ciencias. Su técnica de haz molecular cruzado permitió por primera vez «ver» el proceso de una reacción química a nivel molecular. Nacido en Hsinchu (新竹) en 1936, renunció a su cátedra en Berkeley para regresar a Taiwán y presidir la Academia Sinica (中央研究院) de 1994 a 2006.'
+subcategory: '科學與學術'
 author: 'Taiwan.md'
-featured: true
+featured: false
 lastVerified: 2026-03-21
 lastHumanReview: true
+curation: 'incubating'
+translatedFrom: 'People/李遠哲.md'
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:c7cb9c37ad53a48c'
+sourceBodyHash: 'sha256:d9744718376b888a'
+translatedAt: '2026-08-04T14:32:57+08:00'
 ---
 
-# Lee Yuan-tseh
+# Li Yuan-che
 
-Lee Yuan-tseh es un nombre que hizo brillar a Taiwán en el escenario científico mundial. Nacido en Hsinchu en 1936, a través de su pasión por la ciencia y espíritu de investigación inquebrantable, se convirtió en el primer laureado con el Premio Nobel de Taiwán. Su invención de la "técnica de haz molecular cruzado" no solo fue pionera en nuevos campos de investigación en dinámica química, sino que también hizo que el mundo reconociera de nuevo las capacidades científicas de Taiwán. Desde un niño en Hsinchu hasta un científico de renombre internacional, la trayectoria de vida de Lee atestigua hitos importantes en el desarrollo científico de Taiwán.
+> **Resumen en 30 segundos:** Li Yuan-che (nacido el 19/11/1936), químico nacido en Hsinchu. En 1986, recibió junto a Dudley R. Herschbach y John C. Polanyi el Premio Nobel de Química, en reconocimiento a sus contribuciones trascendentía a la cinética de las reacciones químicas. La técnica de haces moleculares cruzados que desarrolló permitió a los científicos «ver» por primera vez el proceso de una reacción química; es el primer ganador de un premio Nobel científico de Taiwán.
 
-## Vida temprana y antecedentes educativos
+El 19 de noviembre de 1936, Li Yuan-che nació en la ciudad de Hsinchu (actual distrito este de la ciudad de Hsinchu), durante el período de dominio japonés. Su padre, Li Tse-fan, era un reconocido pintor de acuarela y director de escuela primaria; su trasfondo familiar en el arte y la educación cultivó en él una aguda capacidad de observación. Durante su infancia, le gustaba desmontar radios y despertadores para entender cómo funcionaban, una curiosidad que más tarde transformaría el campo de la química.
 
-### Años de iluminación en Hsinchu
+## Trayectoria académica: de Hsinchu al escenario mundial
 
-Nacido el 19 de noviembre de 1936 en la ciudad de Hsinchu, prefectura de Hsinchu (ahora distrito este de la ciudad de Hsinchu) durante el período colonial japonés, Lee creció durante tiempos turbulentos cuando su familia proporcionó un entorno estable. Su padre, Lee Tse-fan (李澤藩), era un renombrado artista de acuarela y director de escuela primaria, mientras que su madre, Tsai Pei (蔡配), era una ama de casa tradicional que gestionaba el hogar diligentemente. Este fondo en arte y educación cultivó las habilidades de observación aguda y sed de conocimiento de Lee.
+Durante sus estudios en la Escuela Secundaria de Hsinchu, Li Yuan-che ya mostraba un profundo interés por las matemáticas y la física. En 1955, ingresó en el Departamento de Química de la Universidad Nacional de Taiwán; aunque en aquel entonces el plan de estudios se centraba en la química analítica, él formó su propio grupo de estudio para investigar la fisicoquímica, llegando incluso a aprender alemán y ruso para poder leer literatura científica extranjera.
 
-**Iluminación científica infantil:**
-Desde temprana edad, Lee tenía curiosidad por los fenómenos naturales. Disfrutaba observar insectos, coleccionar especímenes y frecuentemente desarmaba radios y relojes en casa, intentando comprender sus principios de operación. Esta persistente interrogación del "por qué" se convirtió en una motivación importante para su posterior investigación científica.
+En 1959, comenzó su maestría en el Instituto de Ciencias Atómicas de la Universidad Nacional Tsing Hua, especializándose en espectroscopia molecular. En 1962, obtuvo una beca para realizar su doctorado en cinética química en la Universidad de California, Berkeley, completando su grado en 1967.
 
-**Creciendo durante la guerra:**
-Lee pasó su infancia y adolescencia durante la Segunda Guerra Mundial. Mientras la guerra trajo escasez material y convulsión social, también cultivó su carácter resiliente. Aprendió a encontrar oportunidades en medio de dificultades y ejercer creatividad dentro de limitaciones.
+El verdadero punto de inflexión ocurrió en la Universidad de Harvard. Entre 1967 y 1969, Li Yuan-che realizó investigaciones posdoctorales bajo la dirección del Premio Nobel Dudley R. Herschbach, con quien colaboró para desarrollar la revolucionaria «técnica de haces moleculares cruzados».
 
-### Fundamento del viaje académico
+## Haces moleculares cruzados: un hito en la química
 
-**Período en Hsinchu High School:**
-Durante su tiempo en Hsinchu High School, Lee demostró habilidad de aprendizaje excepcional. Particularmente amaba las matemáticas y la física, frecuentemente discutiendo problemas académicos con compañeros después de clase. Durante este período, ya mostraba un fuerte interés en la ciencia, leyendo frecuentemente libros científicos en la biblioteca.
+El estudio tradicional de las reacciones químicas es como observar a una multitud en un bullicioso mercado nocturno: las moléculas chocan constantemente y su movimiento es caótico, lo que dificulta ver qué está ocurriendo exactamente. La técnica de haces moleculares cruzados inventada por Li Yuan-che permite que, en un entorno de alto vacío, dos haces de moléculas choquen con un ángulo y velocidad específicos, funcionando como una «reproducción en cámara lenta» de una reacción química capturada por una cámara de alta velocidad.
 
-**Departamento de Química de la National Taiwan University:**
-En 1955, Lee ingresó al Departamento de Química de la National Taiwan University. Durante la era cuando NTU estaba en transición desde el sistema de Universidad Imperial Japonesa, el currículo de química se enfocaba principalmente en química analítica y orgánica. Sin embargo, Lee estaba más interesado en el entonces floreciente campo de la química física.
+Esta tecnología permitió a los científicos «ver» por primera vez cada paso de una reacción química a nivel molecular: cómo los reactivos se transformando en productos, cómo se transfiere la energía entre las moléculas y los cambios en la estructura estereoquímica de la reacción. Para la cinética química, esto representó una revolución que pasó de la «conjetura» a la «observación».
 
-**Espíritu de autoestudio:**
-Debido a la falta de cursos de química física del departamento, Lee organizó grupos de estudio con compañeros durante los descansos de invierno y verano para estudiar independientemente teorías de termodinámica y mecánica cuántica. Para leer más artículos académicos extranjeros, estudió activamente alemán, ruso y otros idiomas comúnmente usados en la academia.
+En 1974, Li Yuan-che regresó a Berkeley como profesor del Departamento de Química para seguir perfeccionando esta técnica. Investigó reacciones aparentemente simples, como la del átomo de flúor con la molécula de hidrógeno (F + H₂ → HF + H), descubriendo fenómenos inesperados. Estas investigaciones se convirtieron en casos clásicos de los libros de texto de cinética química.
 
-**Experiencia de investigación universitaria:**
-Durante su tiempo en NTU, Lee realizó investigación bajo profesores de química. Participó en múltiples experimentos de análisis químico, cultivando actitudes experimentales rigurosas y habilidades de observación agudas. Estas experiencias tempranas de investigación sentaron bases sólidas para su futura carrera científica.
+## 1986: El momento Nobel de Taiwán
 
-### Instituto de Ciencia Nuclear de la National Tsing Hua University
+El 15 de octubre de 1986, la Real Academia Sueca de las Ciencias anunció que el Premio Nobel de Química sería otorgado a Herschbach, Li Yuan-che y Polanyi, en reconocimiento a sus «contribuciones al estudio dinámico de los procesos químicos fundamentales, permitiendo una comprensión más profunda de cómo ocurren las reacciones químicas».
 
-Después de graduarse de la universidad en 1959, Lee ingresó al Instituto de Ciencia Nuclear de la National Tsing Hua University en Hsinchu para cursar su maestría. Aquí, encontró investigación científica más vanguardista y comenzó a centrarse en química física.
+Cuando la noticia del premio de Li Yuan-che llegó a Taiwán, toda la isla se llenó de júbilo. Fue el primer ganador de un premio Nobel científico de Taiwán, demostrando que el país tenía la capacidad de formar talento científico de primer nivel mundial. Li Yuan-che donó inmediatamente una de las medallas a su escuela de origen, la Escuela Secundaria de Hsinchu, declarando: «El Premio Nobel no lo gané yo solo; fue la Escuela Secundaria de Hsinchu la que me formó».
 
-**Investigación de tesis de maestría:**
-La tesis de maestría de Lee se centró en investigación de espectroscopia atómica y molecular. Este estudio le dio una comprensión profunda de las relaciones entre estructura molecular y propiedades físicas, plantando semillas para su posterior investigación del Premio Nobel.
+Curiosamente, la nacionalidad con la que Li Yuan-che recibió el premio era la estadounidense. Sin embargo, esto no disminuyó en absoluto el orgullo de los taiwaneses, quienes sabían que este niño, criado en Hsinchu y hablante de taiwanés, llevaba en su sangre la esencia de Taiwán.
 
-**Estableciendo visión internacional:**
-Durante su tiempo en Tsing Hua, Lee leyó extensa literatura científica extranjera, construyendo gradualmente una perspectiva académica internacional. Se dio cuenta de que para lograr avances en la investigación científica, debía ir más allá de Taiwán para aprender las técnicas más avanzadas en laboratorios de clase mundial.
+## 1994: La promesa de regresar a casa
 
-## Estudiando en América: punto de inflexión profesional
+En 1994, en la cima de su carrera académica, Li Yuan-che tomó una decisión que conmocionó a la comunidad científica internacional: renunciar a su puesto de profesor en Berkeley y a su nacionalidad estadounidense para regresar a Taiwán y asumir la presidencia de la Academia Sinica (1994-2006).
 
-### University of California, Berkeley
+Esta decisión fue controvertida. Sus críticos argumentaban que estaba desperdiciando su influencia en el escenario internacional, mientras que sus defensores consideraban que estaba cumpliendo el ideal del académico que sirve a su patria. La razón de Li Yuan-che fue sencilla: «Deseo utilizar mi experiencia para convertir a Taiwán en un referente científico en Asia».
 
-En 1962, Lee recibió una beca para cursar su doctorado en UC Berkeley. Esta decisión cambió su vida y creó historia para la comunidad científica taiwanesa.
+Durante sus 12 años como presidente de la Academia Sinica, Li Yuan-che impulsó la modernización de la organización, estableció un sistema de evaluación de investigación internacionalizado y creó nuevos institutos de ciencias de la información, ciencias biomédicas e investigación genómica. Atrajo a académicos de talla mundial, como Weng Chi-hui y Lai Ming-chao, inyectando nueva vitalidad a la comunidad científica taiwanesa.
 
-**Dirección de investigación doctoral:**
-En Berkeley, Lee eligió la cinética química como su dirección de investigación. Su tesis doctoral se centró en el estudio de mecanismos de reacción química, particularmente problemas de transferencia de energía durante procesos de colisión molecular.
+## Participación en la controvertida reforma educativa
 
-**Entrenamiento científico riguroso:**
-El ambiente académico de Berkeley era extremadamente exigente, requiriendo que los estudiantes tuvieran no solo bases teóricas profundas sino también habilidades experimentales exquisitas. Lee recibió entrenamiento científico de clase mundial aquí, aprendiendo cómo diseñar experimentos precisos, analizar datos complejos y escribir artículos académicos de alta calidad.
+Li Yuan-che no fue solo un científico, sino también un promotor de la reforma educativa. En la década de 1990, participó en la planificación del currículo escolar de nueve años, defendiendo el desarrollo de la capacidad de pensamiento de los estudiantes en lugar de una educación basada en la memorización mecánica.
 
-**Completando tesis doctoral:**
-Después de cinco años de esfuerzo, Lee completó su doctorado en 1967. Su tesis doctoral recibió alta evaluación académica, abriendo puertas para su posterior carrera de investigación.
+No obstante, los resultados de la reforma educativa generaron intensos debates; los críticos sostenían que se habían reducido los estándares de aprendizaje, y Li Yuan-che soportó una gran presión debido a ello. Más tarde reflexionó: «La reforma educativa es más compleja que la investigación científica, ya que involucra todos los aspectos de la sociedad».
 
-### Investigación posdoctoral en Harvard University
+Esta experiencia le hizo comprender que, incluso para un ganador del Premio Nobel, salir del laboratorio para enfrentar problemas sociales no garantiza encontrar respuestas estándar.
 
-En 1967, Lee fue a Harvard University para investigación posdoctoral bajo el laureado con el Premio Nobel de Química Dudley R. Herschbach. Esta experiencia se convirtió en el punto de inflexión más crucial de su carrera científica.
+## Pionero ambiental y prestigio internacional
 
-**Nacimiento de la técnica de haz molecular cruzado:**
-En Harvard, Lee colaboró con el profesor Herschbach, dedicándose a mejorar y desarrollar la técnica de haz molecular cruzado. Después de dos años de trabajo incansable, ensamblaron exitosamente el primer instrumento de haz molecular cruzado del mundo, una técnica que cambió revolucionariamente los métodos de investigación de cinética química.
+Li Yuan-che fue uno de los primeros científicos en Taiwán en prestar atención a los problemas ambientales. Su equipo de investigación se dedicó a áreas como la química atmosférica, el agotamiento de la capa de ozono y el cambio climático, proporcionando bases científicas para las políticas ambientales.
 
-**Avance en innovación técnica:**
-La investigación tradicional de reacciones químicas se realizaba bajo condiciones normales de temperatura y presión, donde las moléculas de gas constantemente colisionan entre sí, cambiando dirección y velocidad, haciendo el movimiento molecular bastante caótico. La técnica de haz molecular cruzado de Lee podía hacer que dos haces moleculares colisionaran a ángulos y velocidades específicos en ambientes de alto vacío, permitiendo observación y análisis precisos de procesos de reacción química.
+Ejerció como presidente del Consejo Internacional para la Ciencia (201-2014), promoviendo la cooperación científica global. Actualmente se desempeña como presidente honorario del Instituto Superior de Investigación de la Universidad de Nagoya, manteniéndose activo en la comunidad académica internacional.
 
-**Importancia de los resultados de investigación:**
-Esta técnica permitió a los científicos "ver" cada paso de las reacciones químicas a nivel molecular, comprendiendo cómo los reactivos se transforman en productos, cómo la energía se transfiere entre moléculas y detalles de estereoquímica de reacción. Esto fue pionero en un campo completamente nuevo de investigación en dinámica química.
+Los artículos científicos de Li Yuan-che han sido citados decenas de miles de veces, y muchos de sus alumnos se han convertido en científicos reconocidos. Sin embargo, lo que más le enorgullece es haber demostrado que un «niño de Taiwán» (Taiwan nan-zai) también puede brillar con luz propia en el escenario mundial.
 
-## Pináculo de la carrera académica: períodos en Chicago y Berkeley
+## El legado del espíritu científico
 
-### Período como profesor en University of Chicago
+Li Yuan-che suele decir: «La curiosidad es el motor más importante de la investigación científica». Alienta a los jóvenes a cuestionar, pensar e innovar, en lugar de limitarse a memorizar datos.
 
-En 1969, Lee fue nombrado Profesor Asistente en el Departamento de Química de la University of Chicago, comenzando su carrera formal en la academia estadounidense. Durante sus cinco años en Chicago, estableció su propio laboratorio, entrenó a sus primeros estudiantes graduados y publicó muchos resultados de investigación importantes.
+También enfatiza la responsabilidad social del científico: «El conocimiento científico no puede quedarse solo en el laboratorio; debe retribuir a la sociedad y ayudar a resolver los problemas que enfrenta la humanidad».
 
-**Establecimiento de laboratorio:**
-Lee estableció un laboratorio avanzado de haz molecular en la University of Chicago. No solo tenía que guiar la investigación estudiantil, sino también diseñar y mejorar personalmente equipos experimentales. Durante este período, sus habilidades de innovación técnica se demostraron completamente.
+## Una influencia continua
 
-### Regreso a Berkeley: pináculo del logro científico
+A pesar de estar cerca de los 90 años, Li Yuan-che sigue atento al desarrollo científico y a los asuntos sociales. Ha sido testigo de la transformación de Taiwán de una sociedad agrícola a una isla tecnológica, y participó personalmente en este proceso de transición.
 
-En 1974, Lee fue invitado a regresar a UC Berkeley como Profesor de Química. Aquí, su investigación científica alcanzó alturas sin precedentes.
+Desde ser el hijo de un pintor de acuarela en Hsinchu hasta convertirse en un gigante de la ciencia en el podio del Nobel; desde los laboratorios de Berkeley hasta la presidencia de la Academia Sinica; la trayectoria de vida de Li Yuan-che es un microcosmos del desarrollo científico de Taiwán.
 
-**Mejoras técnicas continuas:**
-Lee continuamente mejoró la técnica de haz molecular cruzado, permitiendo el estudio de reacciones químicas más complejas. Desarrolló nuevos métodos de detección capaces de medir la distribución de energía interna de productos de reacción y distribución angular.
+Su legado más importante no son sus descubrimientos científicos, sino lo que demostró al mundo: que Taiwán tiene la capacidad de formar talentos capaces de cambiar el mundo. Este niño de Hsinchu redefinió las posibilidades de la química con la técnica de haces moleculares cruzados y, al mismo tiempo, redefinió la posición de Taiwán en el mapa científico mundial.
 
-**Resultados de investigación importantes:**
+En una época en la que aún no existía el término «Orgullo de Taiwán», Li Yuan-che ya era la luz más brillante.
 
-1. **Reacción de átomos de flúor y moléculas de hidrógeno:** El estudio detallado de Lee de la reacción F + H₂ → HF + H reveló muchos fenómenos inesperados, convirtiéndose en un caso clásico en libros de texto de cinética química.
+---
 
-2. **Reacciones de átomos de oxígeno y alcanos:** Estudió sistemáticamente reacciones de átomos de oxígeno con varias moléculas de alcano, descubriendo patrones de estereoselectividad de reacción y proporcionando bases teóricas importantes para la química de combustión.
+**Lecturas adicionales**:
 
-3. **Dinámica de reacción de átomos metálicos:** Lee fue pionero en el estudio de reacciones átomo-molécula metálicas, revelando mecanismos moleculares de reacciones catalíticas metálicas.
+- [Wu Da-you](/es/people/tai-yu-wu) — predecesor de Li Yuan-che como presidente de la Academia Sinica, quien sentó las bases del sistema de investigación en Taiwán y formó a dos ganadores del Premio Nobel de Física, Tsung-Dao Lee y Chen Ning Yang.
 
-## Premio Nobel de Química 1986: orgullo de Taiwán
+## Referencias
 
-### Anuncio del premio
-
-El 15 de octubre de 1986, la Real Academia Sueca de Ciencias anunció que el Premio Nobel de Química de ese año sería otorgado a Dudley Herschbach, John Charles Polanyi y Lee Yuan-tseh por sus contribuciones a la "investigación sobre dinámica de procesos elementales químicos".
-
-**Razonamiento del premio:**
-El Comité Nobel mencionó específicamente en su cita: "El trabajo de estos tres científicos nos permite comprender cómo proceden las reacciones químicas, y sus resultados de investigación son fundamentalmente importantes para comprender y controlar reacciones químicas".
-
-**Momento histórico de Taiwán:**
-Lee se convirtió en el primer ganador del Premio Nobel nacido y criado en Taiwán. Esta noticia causó enorme sensación en Taiwán, con personas en todo Taiwán sintiéndose orgullosas y emocionadas por este logro histórico.
-
-**Impacto internacional:**
-El Premio Nobel de Lee no fue solo honor personal, sino que también hizo que la sociedad internacional reconociera de nuevo las capacidades científicas de Taiwán. Este premio demostró la capacidad de Taiwán de cultivar talento científico de clase mundial.
-
-### Significado de las contribuciones científicas
-
-**Importancia de la innovación técnica:**
-La técnica de haz molecular cruzado de Lee es aclamada como herramienta revolucionaria para la investigación de cinética química. Esta técnica permite a los científicos estudiar reacciones químicas a niveles de detalle sin precedentes, como usar fotografía de alta velocidad para filmar "películas" de reacciones químicas.
-
-**Combinando teoría y experimento:**
-La investigación de Lee no solo proporcionó datos experimentales precisos, sino que también promovió el desarrollo de la teoría de cinética química. Su trabajo construyó puentes entre cálculos teóricos y observaciones experimentales.
-
-**Valor de aplicación:**
-La técnica de haz molecular cruzado tiene aplicaciones extremadamente amplias, desde química atmosférica hasta ciencia de combustión, desde reacciones catalíticas hasta astroquímica. Esta técnica proporcionó fundamentos científicos para resolver muchos problemas prácticos.
-
-## Regreso para servir a Taiwán: período como presidente de la Academia Sinica
-
-### Decisión de regresar a casa
-
-En 1994, en su pico académico, Lee tomó una decisión sorprendente: renunciar a su profesorado en UC Berkeley y regresar a Taiwán como presidente de la Academia Sinica. Esta decisión sorprendió a círculos académicos internacionales y emocionó a la comunidad científica taiwanesa.
-
-**Motivación para regresar:**
-Lee afirmó en múltiples entrevistas que esperaba regresar a su tierra natal y contribuir al desarrollo científico de Taiwán. Creía que Taiwán tenía potencial para convertirse en el centro científico de Asia, requiriendo más inversión y construcción.
-
-**Sentimiento por la tierra natal:**
-A pesar de lograr tremendo éxito en América, Lee siempre mantuvo sentimientos profundos por Taiwán. Esperaba usar su experiencia y reputación para elevar los estándares de investigación científica de Taiwán.
-
-### Mandato como presidente de la Academia Sinica (1994-2006)
-
-Durante sus doce años como presidente de la Academia Sinica, Lee influyó profundamente en el desarrollo científico taiwanés.
-
-**Reforma organizacional y modernización:**
-Al asumir el cargo, Lee inmediatamente comenzó la reforma organizacional de la Academia Sinica. Introdujo sistemas de gestión internacionales, estableció mecanismos de revisión por pares y elevó los estándares de calidad de investigación.
-
-**Estableciendo nuevos institutos de investigación:**
-Bajo su liderazgo, la Academia Sinica estableció múltiples nuevos institutos de investigación, incluyendo el Instituto de Ciencias de la Información, Instituto de Ciencias Biomédicas y Centro de Investigación Genómica, expandiendo la amplitud del campo de investigación.
-
-**Promoviendo cooperación internacional:**
-Lee promovió activamente la cooperación internacional, estableciendo relaciones de colaboración con instituciones de investigación de clase mundial. Invitó a muchos académicos de renombre internacional a realizar investigación e intercambios en la Academia Sinica.
-
-## Investigación científica continua e innovación
-
-### Expansión de investigación
-
-Incluso mientras servía en roles administrativos, Lee mantuvo su pasión por la investigación científica, expandiendo su enfoque de investigación a más campos:
-
-**Química ambiental:**
-Lee comenzó a centrarse en problemas ambientales, estudiando contaminación atmosférica y destrucción de la capa de ozono. Su equipo publicó múltiples artículos importantes sobre mecanismos de reacción química atmosférica.
-
-**Química de clústeres:**
-Fue pionero en la investigación sobre clústeres metálicos y clústeres moleculares, un campo que más tarde se desarrolló en una rama importante de la nanociencia.
-
-**Ciencia de superficies:**
-El equipo de investigación de Lee también exploró la ciencia de superficies, estudiando procesos de adsorción y reacción molecular en superficies sólidas.
-
-## Participación social y reforma educativa
-
-### Participación en reforma educativa
-
-Lee no fue solo un científico sobresaliente, sino también un promotor activo de la reforma educativa.
-
-**Participación en currículo integrado de nueve años:**
-A finales de los años 1990, Lee participó en la planificación del currículo integrado de nueve años de Taiwán. Abogó por que el diseño curricular debía cultivar habilidades de pensamiento estudiantiles en lugar de instrucción memorística de conocimiento.
-
-**Reforma de educación científica:**
-Se centró particularmente en la reforma de la educación científica, creyendo que los estudiantes debían aprender ciencia a través de experimentos y observaciones en lugar de memorizar fórmulas y leyes.
-
-### Cooperación científica internacional
-
-**Participación en organizaciones internacionales:**
-Lee participó activamente en actividades de organizaciones científicas internacionales. Sirvió como presidente del International Council for Science (2011-2014), promoviendo la cooperación científica global.
-
-**Apoyo a la ciencia asiática:**
-Se centró particularmente en el desarrollo científico regional asiático, promoviendo activamente el intercambio científico y cooperación entre países asiáticos.
-
-## Influencia continua y perspectivas futuras
-
-La vida de Lee Yuan-tseh ejemplifica la búsqueda de verdad y excelencia. Desde un niño en Hsinchu hasta un científico de clase mundial, usó sus esfuerzos para demostrar el potencial y fuerza del pueblo taiwanés. No solo logró logros sobresalientes en investigación científica, sino que también hizo contribuciones significativas a la educación científica y desarrollo social de Taiwán. Su espíritu y filosofía continuarán inspirando a nuevas generaciones de científicos taiwaneses a explorar valientemente en el océano del conocimiento y contribuir su fuerza al progreso de la civilización humana. La historia de Lee nos dice que con sueños, persistencia y esfuerzo, todos pueden crear potencialmente sus propios milagros.
+- [Académico Li Yuan-che y sus contribuciones al mundo científico - Tech Garden](https://scitechvista.nat.gov.tw/Article/c000003/detail?ID=761c61ef-db0d-4461-b23a-6b8ef1f7dcfb)
+- [Comunicado oficial del Premio Nobel de Química de 1986 - CASE Science News](https://case.ntu.edu.tw/blog/?p=25746)
+- [El primer taiwanés en ganar el Nobel de Química, "Li Yuan-che" - Baoshiguang](https://time.udn.com/udntime/story/122833/8158897)
+- [Li Yuan-che - Wikipedia](https://zh.wikipedia.org/zh-hant/%E6%9D%8E%E9%81%A0%E5%93%B2)
