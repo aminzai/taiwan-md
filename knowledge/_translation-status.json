@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T12:03:22+08:00",
-    "zhCommitHead": "cc59283a7",
+    "lastUpdated": "2026-08-04T12:47:01+08:00",
+    "zhCommitHead": "cdbdb1e05",
     "totalZh": 881,
     "activeLanguages": [
       "en",
@@ -19,64 +19,64 @@
     "summary": {
       "en": {
         "total_zh": 881,
-        "fresh": 764,
-        "stale": 23,
-        "metadata_stale": 76,
+        "fresh": 772,
+        "stale": 24,
+        "metadata_stale": 67,
         "missing": 18,
         "orphan": 0
       },
       "ja": {
         "total_zh": 881,
-        "fresh": 777,
-        "stale": 13,
+        "fresh": 775,
+        "stale": 15,
         "metadata_stale": 76,
         "missing": 15,
         "orphan": 0
       },
       "ko": {
         "total_zh": 881,
-        "fresh": 782,
-        "stale": 12,
-        "metadata_stale": 74,
+        "fresh": 787,
+        "stale": 14,
+        "metadata_stale": 67,
         "missing": 13,
         "orphan": 0
       },
       "es": {
         "total_zh": 881,
-        "fresh": 778,
-        "stale": 17,
-        "metadata_stale": 73,
+        "fresh": 784,
+        "stale": 19,
+        "metadata_stale": 65,
         "missing": 13,
         "orphan": 0
       },
       "fr": {
         "total_zh": 881,
-        "fresh": 778,
-        "stale": 17,
-        "metadata_stale": 74,
+        "fresh": 783,
+        "stale": 19,
+        "metadata_stale": 67,
         "missing": 12,
         "orphan": 0
       },
       "vi": {
         "total_zh": 881,
-        "fresh": 357,
-        "stale": 29,
+        "fresh": 356,
+        "stale": 30,
         "metadata_stale": 69,
         "missing": 426,
         "orphan": 0
       },
       "id": {
         "total_zh": 881,
-        "fresh": 446,
+        "fresh": 450,
         "stale": 3,
         "metadata_stale": 67,
-        "missing": 365,
+        "missing": 361,
         "orphan": 0
       },
       "pt": {
         "total_zh": 881,
-        "fresh": 729,
-        "stale": 7,
+        "fresh": 726,
+        "stale": 10,
         "metadata_stale": 85,
         "missing": 60,
         "orphan": 0
@@ -84,25 +84,25 @@
       "hi": {
         "total_zh": 881,
         "fresh": 542,
-        "stale": 1,
+        "stale": 4,
         "metadata_stale": 83,
-        "missing": 255,
+        "missing": 252,
         "orphan": 0
       },
       "ar": {
         "total_zh": 881,
-        "fresh": 627,
-        "stale": 2,
+        "fresh": 625,
+        "stale": 5,
         "metadata_stale": 84,
-        "missing": 168,
+        "missing": 167,
         "orphan": 0
       },
       "ru": {
         "total_zh": 881,
-        "fresh": 652,
-        "stale": 2,
+        "fresh": 651,
+        "stale": 5,
         "metadata_stale": 82,
-        "missing": 145,
+        "missing": 143,
         "orphan": 0
       }
     },
@@ -5771,18 +5771,16 @@
         "en": {
           "path": "en/Economy/taiwan-smes-and-hidden-champions.md",
           "translatedFrom": "Economy/台灣中小企業與隱形冠軍.md",
-          "sourceCommitSha": "377b0ab22",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:9e85b1332b7523ce",
           "sourceBodyHash": "sha256:aa9670656fd12067",
-          "translatedAt": "2026-07-27T18:30:12+08:00",
+          "translatedAt": "2026-08-04T12:03:20+08:00",
           "translationLastCommit": "6b22d596",
           "translationLastModified": "2026-07-27T20:10:27+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/taiwan-smes-and-hidden-champions.md",
@@ -5803,50 +5801,44 @@
         "ko": {
           "path": "ko/Economy/taiwan-smes-and-hidden-champions.md",
           "translatedFrom": "Economy/台灣中小企業與隱形冠軍.md",
-          "sourceCommitSha": "377b0ab22",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:9e85b1332b7523ce",
           "sourceBodyHash": "sha256:aa9670656fd12067",
-          "translatedAt": "2026-07-25T12:45:16+08:00",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "9758229a",
           "translationLastModified": "2026-07-25T16:08:39+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Economy/taiwan-smes-and-hidden-champions.md",
           "translatedFrom": "Economy/台灣中小企業與隱形冠軍.md",
-          "sourceCommitSha": "377b0ab22",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:9e85b1332b7523ce",
           "sourceBodyHash": "sha256:aa9670656fd12067",
-          "translatedAt": "2026-07-25T12:45:16+08:00",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "9405dd26",
           "translationLastModified": "2026-07-25T17:12:56+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/taiwan-smes-and-hidden-champions.md",
           "translatedFrom": "Economy/台灣中小企業與隱形冠軍.md",
-          "sourceCommitSha": "377b0ab22",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:9e85b1332b7523ce",
           "sourceBodyHash": "sha256:aa9670656fd12067",
-          "translatedAt": "2026-07-26T05:17:37+08:00",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "8259c5f9",
           "translationLastModified": "2026-07-26T10:11:24+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Economy/taiwan-smes-and-hidden-champions.md",
@@ -7298,18 +7290,16 @@
         "en": {
           "path": "en/Economy/taiwan-enterprise-ase-semiconductor.md",
           "translatedFrom": "Economy/台灣企業：日月光半導體.md",
-          "sourceCommitSha": "b900f18d",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:275d7b3ee56db82a",
           "sourceBodyHash": "sha256:58739438cbba3247",
-          "translatedAt": "2026-05-25T21:06:51Z",
+          "translatedAt": "2026-08-04T12:03:20+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/taiwan-enterprise-ase-semiconductor.md",
@@ -7330,50 +7320,44 @@
         "ko": {
           "path": "ko/Economy/taiwan-enterprise-ase-semiconductor.md",
           "translatedFrom": "Economy/台灣企業：日月光半導體.md",
-          "sourceCommitSha": "b900f18d",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:275d7b3ee56db82a",
           "sourceBodyHash": "sha256:58739438cbba3247",
-          "translatedAt": "2026-05-25T21:07:07Z",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "f74fbaae",
           "translationLastModified": "2026-07-27T18:59:24+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Economy/taiwan-enterprise-ase-semiconductor.md",
           "translatedFrom": "Economy/台灣企業：日月光半導體.md",
-          "sourceCommitSha": "b900f18d",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:275d7b3ee56db82a",
           "sourceBodyHash": "sha256:58739438cbba3247",
-          "translatedAt": "2026-05-26T21:07:27Z",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/taiwan-enterprise-ase-semiconductor.md",
           "translatedFrom": "Economy/台灣企業：日月光半導體.md",
-          "sourceCommitSha": "b900f18d",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:275d7b3ee56db82a",
           "sourceBodyHash": "sha256:58739438cbba3247",
-          "translatedAt": "2026-05-25T21:07:36Z",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Economy/taiwan-enterprise-ase-semiconductor.md",
@@ -8539,18 +8523,16 @@
         "ko": {
           "path": "ko/Economy/want-want-group.md",
           "translatedFrom": "Economy/旺旺.md",
-          "sourceCommitSha": "71a0a6781",
-          "sourceContentHash": "sha256:09b6e203fc91b5b5",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:c96d861b28621fd7",
           "sourceBodyHash": "sha256:2386fbe1cd54e9dd",
-          "translatedAt": "2026-07-28T04:03:50+08:00",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "3d3b12ab",
           "translationLastModified": "2026-07-28T10:32:06+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "es": {
           "path": "es/Economy/want-want-group.md",
@@ -9174,18 +9156,16 @@
         "en": {
           "path": "en/Economy/taiwanese-companies-quanta-computer.md",
           "translatedFrom": "Economy/台灣企業：廣達電腦.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:917f1503c2ff61d8",
           "sourceBodyHash": "sha256:8336e4cef45a1444",
-          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translatedAt": "2026-08-04T12:03:20+08:00",
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/taiwanese-companies-quanta-computer.md",
@@ -9206,50 +9186,44 @@
         "ko": {
           "path": "ko/Economy/taiwanese-companies-quanta-computer.md",
           "translatedFrom": "Economy/台灣企業：廣達電腦.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:917f1503c2ff61d8",
           "sourceBodyHash": "sha256:8336e4cef45a1444",
-          "translatedAt": "2026-04-14T08:57:05+08:00",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Economy/taiwanese-companies-quanta-computer.md",
           "translatedFrom": "Economy/台灣企業：廣達電腦.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:917f1503c2ff61d8",
           "sourceBodyHash": "sha256:8336e4cef45a1444",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/taiwanese-companies-quanta-computer.md",
           "translatedFrom": "Economy/台灣企業：廣達電腦.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:917f1503c2ff61d8",
           "sourceBodyHash": "sha256:8336e4cef45a1444",
-          "translatedAt": "2026-04-14T19:20:58+08:00",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Economy/taiwanese-companies-quanta-computer.md",
@@ -9677,18 +9651,16 @@
         "en": {
           "path": "en/Economy/mediatek.md",
           "translatedFrom": "Economy/台灣企業：聯發科技.md",
-          "sourceCommitSha": "21221045",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:b0c668da71eb8f7b",
           "sourceBodyHash": "sha256:bda6180b6fe80c7a",
-          "translatedAt": "2026-05-01T14:11:02+08:00",
+          "translatedAt": "2026-08-04T12:03:20+08:00",
           "translationLastCommit": "892cb4ef",
           "translationLastModified": "2026-07-27T18:53:04+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Economy/mediatek.md",
@@ -9725,34 +9697,30 @@
         "es": {
           "path": "es/Economy/mediatek.md",
           "translatedFrom": "Economy/台灣企業：聯發科技.md",
-          "sourceCommitSha": "21221045c",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:b0c668da71eb8f7b",
           "sourceBodyHash": "sha256:bda6180b6fe80c7a",
-          "translatedAt": "2026-07-25T12:45:16+08:00",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Economy/mediatek.md",
           "translatedFrom": "Economy/台灣企業：聯發科技.md",
-          "sourceCommitSha": "21221045c",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:b0c668da71eb8f7b",
           "sourceBodyHash": "sha256:bda6180b6fe80c7a",
-          "translatedAt": "2026-07-24T22:03:25+08:00",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Economy/mediatek.md",
@@ -9996,10 +9964,10 @@
     },
     "Economy/台灣企業：中華電信.md": {
       "zh": {
-        "lastCommit": "24efd20f",
-        "lastModified": "2026-05-15T01:00:23+08:00",
-        "contentHash": "sha256:dd735f0162ff1ad0",
-        "bodyHash": "sha256:9b07a151711a4285"
+        "lastCommit": "4a4d6662",
+        "lastModified": "2026-08-04T12:21:12+08:00",
+        "contentHash": "sha256:dd196b4a3bebe6fe",
+        "bodyHash": "sha256:85923df8ecf92741"
       },
       "translations": {
         "en": {
@@ -10013,8 +9981,10 @@
           "translationLastModified": "2026-05-15T14:22:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "ja": {
           "path": "ja/Economy/taiwan-companies-chunghwa-telecom.md",
@@ -10027,8 +9997,10 @@
           "translationLastModified": "2026-05-15T14:22:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "ko": {
           "path": "ko/Economy/taiwan-companies-chunghwa-telecom.md",
@@ -10041,8 +10013,10 @@
           "translationLastModified": "2026-05-15T14:22:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "es": {
           "path": "es/Economy/taiwan-companies-chunghwa-telecom.md",
@@ -10055,8 +10029,10 @@
           "translationLastModified": "2026-05-15T14:22:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "fr": {
           "path": "fr/Economy/taiwan-companies-chunghwa-telecom.md",
@@ -10069,8 +10045,10 @@
           "translationLastModified": "2026-05-15T14:22:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "vi": {
           "path": "vi/Economy/taiwan-companies-chunghwa-telecom.md",
@@ -10083,8 +10061,10 @@
           "translationLastModified": "2026-08-01T00:13:09+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "id": {
           "status": "missing"
@@ -10100,8 +10080,10 @@
           "translationLastModified": "2026-07-26T04:55:51+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "hi": {
           "path": "hi/Economy/taiwan-companies-chunghwa-telecom.md",
@@ -10114,8 +10096,10 @@
           "translationLastModified": "2026-07-27T01:30:06+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "ar": {
           "path": "ar/Economy/taiwan-companies-chunghwa-telecom.md",
@@ -10128,8 +10112,10 @@
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         },
         "ru": {
           "path": "ru/Economy/taiwan-companies-chunghwa-telecom.md",
@@ -10142,8 +10128,10 @@
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 5,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+8 -0"
         }
       }
     },
@@ -10586,19 +10574,19 @@
     },
     "Economy/台灣國際貿易政策.md": {
       "zh": {
-        "lastCommit": "24efd20f",
-        "lastModified": "2026-05-15T01:00:23+08:00",
-        "contentHash": "sha256:46d9237ef98b45d7",
-        "bodyHash": "sha256:9fbe7b79e0934c74"
+        "lastCommit": "4a4d6662",
+        "lastModified": "2026-08-04T12:21:12+08:00",
+        "contentHash": "sha256:d585af78b77ed183",
+        "bodyHash": "sha256:57ec5065ff0c2c3f"
       },
       "translations": {
         "en": {
           "path": "en/Economy/taiwan-international-trade-policy.md",
           "translatedFrom": "Economy/台灣國際貿易政策.md",
-          "sourceCommitSha": "24efd20f3",
-          "sourceContentHash": "sha256:46d9237ef98b45d7",
-          "sourceBodyHash": "sha256:9fbe7b79e0934c74",
-          "translatedAt": "2026-05-15T13:52:05+08:00",
+          "sourceCommitSha": "4a4d66620",
+          "sourceContentHash": "sha256:d585af78b77ed183",
+          "sourceBodyHash": "sha256:57ec5065ff0c2c3f",
+          "translatedAt": "2026-08-04T04:45:45.572039+00:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
@@ -10617,8 +10605,10 @@
           "translationLastModified": "2026-07-25T10:32:02+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+9 -0"
         },
         "ko": {
           "path": "ko/Economy/taiwan-international-trade-policy.md",
@@ -10631,8 +10621,10 @@
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+9 -0"
         },
         "es": {
           "path": "es/Economy/taiwan-international-trade-policy.md",
@@ -10645,8 +10637,10 @@
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+9 -0"
         },
         "fr": {
           "path": "fr/Economy/taiwan-international-trade-policy.md",
@@ -10659,8 +10653,10 @@
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+9 -0"
         },
         "vi": {
           "status": "missing"
@@ -10679,8 +10675,10 @@
           "translationLastModified": "2026-07-26T08:48:56+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+9 -0"
         },
         "hi": {
           "path": "hi/Economy/taiwan-international-trade-policy.md",
@@ -10693,8 +10691,10 @@
           "translationLastModified": "2026-07-27T01:30:06+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+9 -0"
         },
         "ar": {
           "path": "ar/Economy/taiwan-international-trade-policy.md",
@@ -10707,8 +10707,10 @@
           "translationLastModified": "2026-07-26T17:16:44+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+9 -0"
         },
         "ru": {
           "path": "ru/Economy/taiwan-international-trade-policy.md",
@@ -10721,8 +10723,10 @@
           "translationLastModified": "2026-07-26T14:48:27+08:00",
           "inferred": false,
           "footnoteDefs": 6,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+9 -0"
         }
       }
     },
@@ -15188,18 +15192,16 @@
         "en": {
           "path": "en/Technology/artificial-intelligence-industry.md",
           "translatedFrom": "Technology/AI人工智慧產業.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:bc36a1af91d28cb5",
           "sourceBodyHash": "sha256:9d1ac9fec38fa5d4",
-          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translatedAt": "2026-08-04T12:03:20+08:00",
           "translationLastCommit": "d5ed9ffc",
           "translationLastModified": "2026-05-20T12:41:12+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/artificial-intelligence-industry.md",
@@ -15220,50 +15222,44 @@
         "ko": {
           "path": "ko/Technology/artificial-intelligence-industry.md",
           "translatedFrom": "Technology/AI人工智慧產業.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:bc36a1af91d28cb5",
           "sourceBodyHash": "sha256:9d1ac9fec38fa5d4",
-          "translatedAt": "2026-04-14T06:47:03+08:00",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/artificial-intelligence-industry.md",
           "translatedFrom": "Technology/AI人工智慧產業.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:bc36a1af91d28cb5",
           "sourceBodyHash": "sha256:9d1ac9fec38fa5d4",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "06ed4c82",
           "translationLastModified": "2026-05-20T12:37:22+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/artificial-intelligence-industry.md",
           "translatedFrom": "Technology/AI人工智慧產業.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:bc36a1af91d28cb5",
           "sourceBodyHash": "sha256:9d1ac9fec38fa5d4",
-          "translatedAt": "2026-04-14T12:32:55+08:00",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Technology/artificial-intelligence-industry.md",
@@ -16372,19 +16368,19 @@
     },
     "Technology/電子商務與數位支付生態系.md": {
       "zh": {
-        "lastCommit": "4b6d28c5",
-        "lastModified": "2026-05-08T16:59:31+08:00",
-        "contentHash": "sha256:e6d4ecca5e8c9269",
-        "bodyHash": "sha256:8a4126afbbcc2d61"
+        "lastCommit": "4a4d6662",
+        "lastModified": "2026-08-04T12:21:12+08:00",
+        "contentHash": "sha256:8a77917ab93abd39",
+        "bodyHash": "sha256:6564b3269a2b9fa4"
       },
       "translations": {
         "en": {
           "path": "en/Technology/e-commerce-and-digital-payment-ecosystem.md",
           "translatedFrom": "Technology/電子商務與數位支付生態系.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:e6d4ecca5e8c9269",
-          "sourceBodyHash": "sha256:8a4126afbbcc2d61",
-          "translatedAt": "2026-05-01T13:44:02+08:00",
+          "sourceCommitSha": "4a4d66620",
+          "sourceContentHash": "sha256:8a77917ab93abd39",
+          "sourceBodyHash": "sha256:6564b3269a2b9fa4",
+          "translatedAt": "2026-08-04T04:41:48.932775+00:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
@@ -16403,16 +16399,18 @@
           "translationLastModified": "2026-07-27T19:10:22+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ko": {
           "path": "ko/Technology/e-commerce-and-digital-payment-ecosystem.md",
           "translatedFrom": "Technology/電子商務與數位支付生態系.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:e6d4ecca5e8c9269",
-          "sourceBodyHash": "sha256:8a4126afbbcc2d61",
-          "translatedAt": "2026-04-14T07:15:07+08:00",
+          "sourceCommitSha": "4a4d66620",
+          "sourceContentHash": "sha256:8a77917ab93abd39",
+          "sourceBodyHash": "sha256:6564b3269a2b9fa4",
+          "translatedAt": "2026-08-04T04:44:33.586089+00:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
@@ -16423,10 +16421,10 @@
         "es": {
           "path": "es/Technology/e-commerce-and-digital-payment-ecosystem.md",
           "translatedFrom": "Technology/電子商務與數位支付生態系.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:e6d4ecca5e8c9269",
-          "sourceBodyHash": "sha256:8a4126afbbcc2d61",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "sourceCommitSha": "4a4d66620",
+          "sourceContentHash": "sha256:8a77917ab93abd39",
+          "sourceBodyHash": "sha256:6564b3269a2b9fa4",
+          "translatedAt": "2026-08-04T04:42:30.391348+00:00",
           "translationLastCommit": "afdf727a",
           "translationLastModified": "2026-07-27T19:00:44+08:00",
           "inferred": false,
@@ -16437,10 +16435,10 @@
         "fr": {
           "path": "fr/Technology/e-commerce-and-digital-payment-ecosystem.md",
           "translatedFrom": "Technology/電子商務與數位支付生態系.md",
-          "sourceCommitSha": "4b6d28c5",
-          "sourceContentHash": "sha256:e6d4ecca5e8c9269",
-          "sourceBodyHash": "sha256:8a4126afbbcc2d61",
-          "translatedAt": "2026-04-14T12:33:27+08:00",
+          "sourceCommitSha": "4a4d66620",
+          "sourceContentHash": "sha256:8a77917ab93abd39",
+          "sourceBodyHash": "sha256:6564b3269a2b9fa4",
+          "translatedAt": "2026-08-04T04:43:11.485342+00:00",
           "translationLastCommit": "08d09ae0",
           "translationLastModified": "2026-07-27T19:02:16+08:00",
           "inferred": false,
@@ -16465,8 +16463,10 @@
           "translationLastModified": "2026-07-27T19:05:03+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "hi": {
           "path": "hi/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -16479,8 +16479,10 @@
           "translationLastModified": "2026-07-27T19:06:05+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ar": {
           "path": "ar/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -16493,8 +16495,10 @@
           "translationLastModified": "2026-07-27T19:06:56+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         },
         "ru": {
           "path": "ru/Technology/e-commerce-and-digital-payment-ecosystem.md",
@@ -16507,8 +16511,10 @@
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
           "footnoteDefs": 16,
-          "status": "fresh",
-          "reason": "same-commit"
+          "status": "stale",
+          "reason": "body-drift",
+          "commitsBehind": 1,
+          "diffSummary": "+1 -0"
         }
       }
     },
@@ -17375,18 +17381,16 @@
         "en": {
           "path": "en/Art/taiwan-digital-animation-industry.md",
           "translatedFrom": "Technology/台灣數位影像與動畫產業.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:692543a60baf3299",
           "sourceBodyHash": "sha256:bb5064886298647d",
-          "translatedAt": "2026-05-01T15:38:13+08:00",
+          "translatedAt": "2026-08-04T12:03:20+08:00",
           "translationLastCommit": "d5ed9ffc",
           "translationLastModified": "2026-05-20T12:41:12+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/taiwan-digital-animation-industry.md",
@@ -17407,50 +17411,44 @@
         "ko": {
           "path": "ko/Technology/taiwan-digital-animation-industry.md",
           "translatedFrom": "Technology/台灣數位影像與動畫產業.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:692543a60baf3299",
           "sourceBodyHash": "sha256:bb5064886298647d",
-          "translatedAt": "2026-04-14T06:57:58+08:00",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Art/taiwan-digital-animation-industry.md",
           "translatedFrom": "Technology/台灣數位影像與動畫產業.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:692543a60baf3299",
           "sourceBodyHash": "sha256:bb5064886298647d",
-          "translatedAt": "2026-04-14T12:25:09+08:00",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/taiwan-digital-animation-industry.md",
           "translatedFrom": "Technology/台灣數位影像與動畫產業.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:692543a60baf3299",
           "sourceBodyHash": "sha256:bb5064886298647d",
-          "translatedAt": "2026-04-14T12:33:06+08:00",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "status": "missing"
@@ -20021,18 +20019,16 @@
         "en": {
           "path": "en/Technology/yam-yam-taiwan-portal.md",
           "translatedFrom": "Technology/蕃薯藤.md",
-          "sourceCommitSha": "781e16434",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:a165c276f6d4407a",
           "sourceBodyHash": "sha256:8a57bfe7379ce603",
-          "translatedAt": "2026-07-06T02:20:20+08:00",
+          "translatedAt": "2026-08-04T12:03:20+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 8,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/yam-yam-taiwan-portal.md",
@@ -21258,18 +21254,16 @@
         "en": {
           "path": "en/Technology/ptt-bulletin-board-system.md",
           "translatedFrom": "Technology/PTT批踢踢.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:f28d98485199bc24",
           "sourceBodyHash": "sha256:110038d2fb23bc2a",
-          "translatedAt": "2026-05-01T14:11:02+08:00",
+          "translatedAt": "2026-08-04T12:03:20+08:00",
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Technology/ptt-bulletin-board-system.md",
@@ -21290,50 +21284,44 @@
         "ko": {
           "path": "ko/Technology/ptt-bulletin-board-system.md",
           "translatedFrom": "Technology/PTT批踢踢.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:f28d98485199bc24",
           "sourceBodyHash": "sha256:110038d2fb23bc2a",
-          "translatedAt": "2026-04-14T06:47:03+08:00",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "bd89e7e1",
           "translationLastModified": "2026-07-25T10:33:05+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "es": {
           "path": "es/Technology/ptt-bulletin-board-system.md",
           "translatedFrom": "Technology/PTT批踢踢.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:f28d98485199bc24",
           "sourceBodyHash": "sha256:110038d2fb23bc2a",
-          "translatedAt": "2026-05-01T22:19:10+08:00",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "04a9c0df",
           "translationLastModified": "2026-05-09T14:18:36+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Technology/ptt-bulletin-board-system.md",
           "translatedFrom": "Technology/PTT批踢踢.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:f28d98485199bc24",
           "sourceBodyHash": "sha256:110038d2fb23bc2a",
-          "translatedAt": "2026-04-14T12:32:55+08:00",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "425a1d47",
           "translationLastModified": "2026-07-25T10:30:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "vi": {
           "path": "vi/Technology/ptt-bulletin-board-system.md",
@@ -25096,18 +25084,16 @@
         "en": {
           "path": "en/Art/taiwanese-modern-poetry.md",
           "translatedFrom": "Art/台灣現代詩.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:76772688d61c205f",
           "sourceBodyHash": "sha256:444e69e75502ca5e",
-          "translatedAt": "2026-06-16T17:10:15Z",
+          "translatedAt": "2026-08-04T12:03:20+08:00",
           "translationLastCommit": "29e0766d",
           "translationLastModified": "2026-07-25T10:34:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ja": {
           "path": "ja/Art/taiwanese-modern-poetry.md",
@@ -25144,18 +25130,16 @@
         "es": {
           "path": "es/Art/taiwanese-modern-poetry.md",
           "translatedFrom": "Art/台灣現代詩.md",
-          "sourceCommitSha": "4b6d28c5",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:76772688d61c205f",
           "sourceBodyHash": "sha256:444e69e75502ca5e",
-          "translatedAt": "2026-06-16T17:10:37Z",
+          "translatedAt": "2026-08-04T12:03:21+08:00",
           "translationLastCommit": "4a07538f",
           "translationLastModified": "2026-07-25T10:29:52+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "fr": {
           "path": "fr/Art/taiwanese-modern-poetry.md",
@@ -32456,10 +32440,10 @@
     },
     "Lifestyle/台灣海關報關制度與EZWAY.md": {
       "zh": {
-        "lastCommit": "cc59283a",
-        "lastModified": "2026-08-04T11:58:57+08:00",
-        "contentHash": "sha256:976abb3f7b2205f1",
-        "bodyHash": "sha256:6096e97fed9c9763"
+        "lastCommit": "cdbdb1e0",
+        "lastModified": "2026-08-04T12:24:40+08:00",
+        "contentHash": "sha256:4ffddbe003761c5c",
+        "bodyHash": "sha256:bbbe87e3d0ceafb5"
       },
       "translations": {
         "en": {
@@ -63168,16 +63152,16 @@
         "ja": {
           "path": "ja/People/yang-dechang.md",
           "translatedFrom": "People/楊德昌.md",
-          "sourceCommitSha": "fa062cc1",
-          "sourceContentHash": "sha256:dd210fd225a73bd3",
-          "sourceBodyHash": "sha256:3f3a71807f18f434",
-          "translatedAt": "2026-05-22T05:08:46+08:00",
+          "sourceCommitSha": "21298a7ae",
+          "sourceContentHash": "sha256:c2aa8f15ab2b1700",
+          "sourceBodyHash": "sha256:7119ad62eb825546",
+          "translatedAt": "2026-08-04T06:18:07+08:00",
           "translationLastCommit": "caa10522",
           "translationLastModified": "2026-07-27T18:58:03+08:00",
           "inferred": false,
-          "footnoteDefs": 6,
-          "status": "stale",
-          "reason": "footnote-loss (92→6)"
+          "footnoteDefs": 92,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ko": {
           "path": "ko/People/yang-dechang.md",
@@ -65872,8 +65856,8 @@
           "sourceContentHash": "sha256:5bcf40616e842909",
           "sourceBodyHash": "sha256:15c8e50bb3ba07a7",
           "translatedAt": "2026-08-04T06:18:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a69a2f62",
+          "translationLastModified": "2026-08-04T12:03:22+08:00",
           "inferred": false,
           "footnoteDefs": 15,
           "status": "fresh",
@@ -66818,7 +66802,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/People/zun.md",
+          "translatedFrom": "People/尊.md",
+          "sourceCommitSha": "16c428cd9",
+          "sourceContentHash": "sha256:bec4fee3cedcd28d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-04T04:21:01.337281+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -77476,7 +77471,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/zhong-lihe-nativeland-eternal-seeker.md",
+          "translatedFrom": "People/鍾理和.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:cddbfe1c856d1966",
+          "sourceBodyHash": "sha256:59814996cd0ea2c6",
+          "translatedAt": "2026-08-04T06:18:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/zhong-lihe-nativeland-eternal-seeker.md",
@@ -77493,7 +77499,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/zhong-lihe-nativeland-eternal-seeker.md",
+          "translatedFrom": "People/鍾理和.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:cddbfe1c856d1966",
+          "sourceBodyHash": "sha256:59814996cd0ea2c6",
+          "translatedAt": "2026-08-04T06:18:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "status": "missing"
@@ -79892,7 +79909,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/ming-hua-yuan.md",
+          "translatedFrom": "People/明華園.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:ebe4d277504f2738",
+          "sourceBodyHash": "sha256:ad65be5d0003de06",
+          "translatedAt": "2026-08-04T06:18:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/ming-hua-yuan.md",
@@ -79909,7 +79937,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/ming-hua-yuan.md",
+          "translatedFrom": "People/明華園.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:ebe4d277504f2738",
+          "sourceBodyHash": "sha256:ad65be5d0003de06",
+          "translatedAt": "2026-08-04T06:18:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/ming-hua-yuan.md",
@@ -80352,7 +80391,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/deng-yu-xian-taiwanese-song-composer.md",
+          "translatedFrom": "People/鄧雨賢.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:03f4c1611aa95a6c",
+          "sourceBodyHash": "sha256:0d86dfd69dceab10",
+          "translatedAt": "2026-08-04T06:18:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/deng-yu-xian-taiwanese-song-composer.md",
@@ -80784,8 +80834,8 @@
           "sourceContentHash": "sha256:ee5b642d51157582",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-04T03:58:39.870590+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a69a2f62",
+          "translationLastModified": "2026-08-04T12:03:22+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -82119,8 +82169,8 @@
           "sourceContentHash": "sha256:ce2f1e81de54c692",
           "sourceBodyHash": "sha256:efa67fc4a2da3f45",
           "translatedAt": "2026-08-04T06:18:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a69a2f62",
+          "translationLastModified": "2026-08-04T12:03:22+08:00",
           "inferred": false,
           "footnoteDefs": 6,
           "status": "fresh",
@@ -88468,7 +88518,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/huang-chun-ming-taiwanese-literary-master.md",
+          "translatedFrom": "People/黃春明.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:67504d464a04b735",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-04T04:31:47.828279+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/huang-chun-ming-taiwanese-literary-master.md",
@@ -88485,7 +88546,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/huang-chun-ming-taiwanese-literary-master.md",
+          "translatedFrom": "People/黃春明.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:fa94afa39f837939",
+          "sourceBodyHash": "sha256:59fc287ce8c0baeb",
+          "translatedAt": "2026-08-04T06:18:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 5,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/huang-chun-ming-taiwanese-literary-master.md",
@@ -89313,8 +89385,8 @@
           "sourceContentHash": "sha256:efaa1720b84e525c",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-04T02:33:39.449113+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a69a2f62",
+          "translationLastModified": "2026-08-04T12:03:22+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -90877,8 +90949,8 @@
           "sourceContentHash": "sha256:720cd768af91d1c3",
           "sourceBodyHash": "sha256:7ec1f1d13ec2e4d4",
           "translatedAt": "2026-08-04T06:18:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a69a2f62",
+          "translationLastModified": "2026-08-04T12:03:22+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -91194,8 +91266,8 @@
           "sourceContentHash": "sha256:b0cb0f622b66732f",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-04T03:21:25.584442+00:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a69a2f62",
+          "translationLastModified": "2026-08-04T12:03:22+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -91347,8 +91419,8 @@
           "sourceContentHash": "sha256:741173e056926b2c",
           "sourceBodyHash": "sha256:7f6ff2dde21c6686",
           "translatedAt": "2026-08-04T06:18:07+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "a69a2f62",
+          "translationLastModified": "2026-08-04T12:03:22+08:00",
           "inferred": false,
           "footnoteDefs": 5,
           "status": "fresh",
@@ -107086,7 +107158,18 @@
           "reason": "same-commit"
         },
         "ru": {
-          "status": "missing"
+          "path": "ru/History/taiwan-transitional-justice.md",
+          "translatedFrom": "History/台灣轉型正義.md",
+          "sourceCommitSha": "7c73f6a55",
+          "sourceContentHash": "sha256:c532a9d95ccbcaaf",
+          "sourceBodyHash": "sha256:530ea0ffb4d07e77",
+          "translatedAt": "2026-08-04T06:18:12+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 14,
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -122390,7 +122473,18 @@
           "status": "missing"
         },
         "ar": {
-          "status": "missing"
+          "path": "ar/Culture/ethnic-groups.md",
+          "translatedFrom": "Culture/族群（閩南客家原住民外省新住民）.md",
+          "sourceCommitSha": "1febe45b7",
+          "sourceContentHash": "sha256:f2be686b40b1bfa3",
+          "sourceBodyHash": "sha256:85fe560e3164601c",
+          "translatedAt": "2026-08-04T06:18:11+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 9,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Culture/ethnic-groups.md",
