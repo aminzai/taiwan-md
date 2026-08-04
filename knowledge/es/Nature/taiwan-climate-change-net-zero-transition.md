@@ -1,25 +1,25 @@
 ---
-title: "Taiwan's Climate Crisis and Net-Zero Transition: The Day the Nuclear Three Referendum Failed Was Just the Beginning of Physical Limits"
-description: "August 23, 2025 Nuclear Three Extension Referendum: 4.34 million 'yes' votes, 74% approval, 29.53% turnout missed the threshold. The referendum failed; the next day, Lai Ching-te announced three principles. Seven months later, on March 27, 2026, Taipower submitted the extension application to the Nuclear Safety Commission. 98% energy import dependency, 9 trillion NTD net-zero target, geothermal target of 200 MW with only 7.4 MW built, offshore wind capacity ranked 7th globally, Onkalo ultimate repository, TerraPower Gen IV nuclear—this island's energy problem has never been a political one, but a question of physical limits."
+title: 'Crisis climática y transición hacia el cero neto en Taiwán: la elección del límite físico comenzó el día que falló el referéndum de la planta nuclear Nucles 3'
+description: 'Referéndum sobre la extensión de la planta nuclear Nucles 3 (23 de agosto de 2025): 4,34 millones de votos a favor (74 %), pero con una participación del 29,53 %, insuficiente para alcanzar el umbral. El referéndum no prosperó, pero al día siguiente Lai Ching-te estableció tres principios y, siete meses después, Taipower solicitó la extensión ante el Consejo de Seguridad Nuclear el 27 de marzo de 2026. Con una dependencia energética de importaciones del 98 %, una inversión de 9 billones de TWD para el cero neto, objetivos de geotermia de 200 MW frente a solo 7,4 MW construidos, la séptima mayor capacidad de eólica marina del mundo, el repositorio final Onkalo y la energía nuclear de cuarta generación de TerraPower: el problema energético de esta isla nunca ha sido político, sino una cuestión de límites físicos.'
 date: 2026-05-19
 category: 'Nature'
 tags:
   [
-    'climate change',
-    'net-zero transition',
-    'energy transition',
-    'Nuclear Three',
-    'nuclear waste',
-    'hydrogen energy',
-    'geothermal',
-    'ocean energy',
-    'offshore wind',
-    'solar PV',
-    'carbon credit trading',
+    'cambio climático',
+    'transición al cero neto',
+    'transición energética',
+    'Nucles 3',
+    'residuos nucleares',
+    'hidrógeno',
+    'geotermia',
+    'energía oceánica',
+    'eólica marina',
+    'energía solar fotovoltaica',
+    'comercio de créditos de carbono',
     'Lanyu',
-    'extreme climate',
+    'clima extremo',
   ]
-subcategory: 'Conservation and Environment'
+subcategory: '保育與環境'
 readingTime: 26
 author: 'Taiwan.md'
 featured: true
@@ -30,387 +30,387 @@ imageCredit: 'M. Weitzel (Wikimedia Commons)'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg'
 translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
-sourceCommitSha: '31a05c44'
-sourceContentHash: 'sha256:690ecb6c58309760'
-sourceBodyHash: 'sha256:36525caaf207b712'
-translatedAt: '2026-06-16T17:05:07Z'
+sourceCommitSha: '2da8b92f2'
+sourceContentHash: 'sha256:387f185bb5291526'
+sourceBodyHash: 'sha256:bdaf6e0f03c1164f'
+translatedAt: '2026-08-04T10:44:03.918882+00:00'
 ---
 
-# Taiwan's Climate Crisis and Net-Zero Transition: The Day the Nuclear Three Referendum Failed Was Just the Beginning of Physical Limits
+# Crisis climática y transición hacia el cero neto en Taiwán: la elección del límite físico comenzó el día que falló el referéndum de la planta nuclear Nucles 3
 
-> **30-Second Overview:** On the evening of August 23, 2025, the results of the Nuclear Three extension referendum were announced: 4.34 million 'yes' votes, 74% approval, and a turnout of 29.53%, missing the threshold by 650,000 votes. The next day, President Lai Ching-te announced three principles: "Nuclear Safety Assurance, Nuclear Waste Solution, Social Consensus." Seven months later, on March 27, 2026, Taipower submitted the Nuclear Three re-operation application to the Nuclear Safety Commission, with the earliest restart expected in 2028[^22][^23]. The referendum failed, yet Taipower is walking back toward nuclear power. This is the deepest contradiction of an island that relies on imports for 98% of its energy and has pledged to invest 9 trillion NTD to achieve net-zero by 2050[^11]. The government's geothermal target is 200 MW by 2030, but actual commercial operation by the end of 2025 is only 7.4 MW, a 27-fold gap; the Lanyu storage facility opened in 1982, holding 97,672 barrels of nuclear waste, with relocation deadlines missed four times[^24][^25]. Energy is a question of physical limits.
+> **Resumen en 30 segundos:** La tarde del 23 de agosto de 2025, se contabilizaron los votos del referéndum sobre la extensión de la planta nuclear Nucles 3: 4,34 millones de votos a favor (74 %), pero con una participación del 29,53 %, quedando a 650.000 votos de alcanzar el umbral legal. Al día siguiente, Lai Ching-te anunció los tres principios de «seguridad nuclear garantizada, solución para los residuos nucleares y consenso social». Siete meses después, el 27 de marzo de 2026, Taipower presentó la solicitud de reactivación ante el Consejo de Seguridad Nuclear, con una posible reapertura en 2028[^22][^23]. Aunque el referéndum no prosperó, Taipower retoma el camino hacia la energía nuclear; esta es la contradicción más profunda de una isla que depende en un 98 % de importaciones energéticas y ha prometido invertir 9 billones de TWD para alcanzar el cero neto en 2050[^11]. En cuanto a la geotermia, el objetivo gubernamental para 2030 es de 200 MW, pero a finales de 2025 la capacidad comercial real era de solo 7,4 MW (una diferencia de 27 veces); mientras tanto, el depósito de Lanyu, inaugurado en 1982 con 97.672 barriles de residuos nucleares, ha incumplido cuatro veces su fecha límite de traslado[^24][^25]. El problema energético es un problema de límites físicos.
 
-![Nuclear Three Plant Exterior (Maanshan, Hengchun, Pingtung)](/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp)
+![Vista exterior de la planta nuclear Nucles 3 (Maanshan, Hengchun, Pingtung)](/article-images/nature/maanshan-nuclear-plant-nan-wan-2014.webp)
 
-_The Nuclear Three Plant (Maanshan Nuclear Power Plant) in Hengchun, Pingtung, is located on the Nanwan coastline. Unit 1 shut down on January 1, 2025, and Unit 2 on May 17, 2025. Image: M. Weitzel, CC BY-SA 3.0, via Wikimedia Commons_
+_La planta nuclear Nucles 3 (Planta Nuclear de Maanshan), situada en la costa de Nanwan en Hengchun, Pingtung. La unidad 1 cesó operaciones el 1 de enero de 2025 y la unidad 2 el 17 de mayo. Imagen: M. Weitzel, CC BY-SA 3.0, vía Wikimedia Commons_
 
-## The Day of the Nuclear Three Referendum
+## El día del referéndum de Nucles 3
 
-On the evening of August 23, 2025, ballot counting was completed across all 22 counties and cities in Taiwan, and the results of the Nuclear Three extension referendum were announced: 4,342,206 'yes' votes, 1,511,693 'no' votes, with 74.17% approval. However, the turnout was only 29.53%. According to the Referendum Act, a threshold of one-quarter of the total number of voters (5,005,230 votes) was required. The 'yes' votes fell short by 658,317 votes[^22]. **More than twice as many people voted 'yes' than 'no', yet the referendum failed.**
+La tarde del 23 de agosto de 2025, tras el recuento en las 22 ciudades y condados de Taiwán, se conocieron los resultados del referéndum sobre la extensión de Nucles 3: 4.342.206 votos a favor frente a 1.511.693 en contra (74,17 % de apoyo). Sin embargo, la participación fue de solo el 29,53 %. Según la ley de referéndums, se requiere que vote al menos una cuarta parte del censo electoral (5.000.523 votos), por lo que faltaron 658.317 votos a favor para alcanzar el umbral[^22]. **A pesar de que los partidarios superaban en más del doble a los opositores, el referéndum no fue aprobado.**
 
-> 📝 **Curator's Note:** The common interpretation is "74% approval = clear public support for nuclear energy," but this reverses causality. The design of the Referendum Act was never about who had more votes; it required a mobilization threshold to prove that "enough people care." A 29.53% turnout means that over 70% of voters chose not to go to the polls. This is an even more awkward third signal: many people do not have strong enough opinions on energy issues to walk into a voting booth.
+> 📝 **Nota del curador**: La interpretación común es que «el 74 % a favor = apoyo ciudadano claro a la energía nuclear», pero este argumento invierte la causalidad. El diseño de la ley de referéndums no busca ver quién tiene más votos, sino exigir un umbral de movilización para demostrar que el asunto «le importa a suficiente gente». Una participación del 29,53 % significa que más del 70 % de los electores prefirieron no salir de casa. Esta es una tercera señal, más incómoda: mucha gente no tiene una opinión sobre la energía lo suficientemente fuerte como para acudir a las urnas.
 
-Two days later, on August 25, President Lai Ching-te held a press conference and gave a response: to restart nuclear power, three gates must be passed: "Nuclear Safety Assurance, Nuclear Waste Solution, Social Consensus"[^23]. It sounds reasonable, but every one of these is a problem that has not been solved in 50 years.
+Dos días después, el 25 de agosto, el presidente Lai Ching-te convocó una rueda de prensa y respondió que, para reiniciar la energía nuclear, se deben superar tres filtros: «seguridad nuclear garantizada, solución para los residuos nucleares y consenso social»[^23]. Suena razonable, pero cada uno de estos puntos es un problema que no se ha podido resolver en 50 años.
 
-Then came March 27, 2026. Taipower submitted the Nuclear Three re-operation application plan to the Nuclear Safety Commission, initiating the safety inspection procedure for Unit 1 after shutdown. The safety inspection schedule is expected to be about 18 months, with the earliest restart in 2028[^22]. **This is a step backward.**
+Y entonces llegamos al 27 de marzo de 2026. Taipower envió el plan de solicitud de reactivación de Nucles 3 al Consejo de Seguridad Nuclear, iniciando los procedimientos de inspección de seguridad tras la parada de la unidad 1. Se estima que el proceso de inspección durará unos 18 meses, con una posible reapertura en 2028[^22]. **Esto es un retroceso.**
 
-From the referendum results to the submission for review, exactly seven months passed. Nothing changed in between: nuclear waste is still in Lanyu, the ultimate repository site has not been selected, and social consensus remains divided. But the administrative procedure moved. This is the question this article seeks to answer: When democratic voting rejects something but the administrative department advances it simultaneously, who is deciding Taiwan's energy policy?
+Desde el recuento del referéndum hasta la presentación de la solicitud pasaron exactamente siete meses. En ese tiempo nada cambió: los residuos nucleares siguen en Lanyu, no se ha elegido un sitio para el repositorio final y el consenso social sigue fragmentado. Pero el proceso administrativo avanzó. Esta es la pregunta que intenta responder este artículo: cuando una votación democrática rechaza algo, pero el departamento administrativo lo impulsa simultáneamente, ¿quién decide realmente la política energética de Taiwán?
 
-## Lanyu: 1982 to 2057
+## De Lanyu 1982 a 2057
 
-To understand the story of Nuclear Three, one must first understand the story of Lanyu.
+Para entender la historia de Nucles 3, primero hay que entender la historia de Lanyu.
 
-In 1982, Taipower opened a low-level radioactive waste storage facility on the coastline south of Longmen in Lanyu. At the time, the Dawu residents were told it was a "fish cannery," a claim that later became the most frequently cited case of deception in Taiwan's environmental justice history[^26]. In 1988, the Dawu people launched their first large-scale protest, using the traditional ritual of "exorcising evil spirits" to express their rejection of nuclear waste, marking the starting point of Taiwan's indigenous environmental movement.
+En 1982, Taipower inauguró un depósito de residuos radiactivos de baja actividad en la costa sur de Longmen, en Lanyu. En aquel momento, se dijo a los residentes del pueblo Tao (達悟族) que se trataba de una «fábrica de conservas de pescado», una afirmación que se ha convertido en uno de los casos de engaño más citados en la historia de la justicia ambiental de Taiwán[^26]. En 1988, el pueblo Tao inició la primera protesta a gran escala, utilizando rituales tradicionales para «expulsar a los espíritus malignos» como forma de rechazo a los residuos nucleares, marcando el inicio del movimiento ambientalista de los pueblos indígenas en Taiwán.
 
-Over the next 38 years, relocation promises were missed four times: the government promised relocation by 2002 in 1996; the first miss occurred in 2002; then misses occurred in 2016, 2019, and 2023. As of 2024, the Lanyu storage facility had accumulated **97,672 barrels** of low-level radioactive waste. The Nuclear Subordinate Agency (NSA) requires Taipower to complete relocation by 2029, but the destination remains undefined[^24].
+En los siguientes 38 años, las promesas de traslado se incumplieron cuatro veces: en 1996 el gobierno prometió el traslado para 2002 (primer incumplimiento); luego ocurrió lo mismo en 2016, 2019 y 2023. Hasta 2024, el depósito de Lanyu acumulaba **97.672 barriles** de residuos radiactivos de baja actividad. El Consejo de Energía Nuclear exigió a Taipower completar el traslado para 2029, pero el destino final sigue sin definirse[^24].
 
-If 2029 is missed again (as widely expected in the industry), Lanyu's nuclear waste will be stored from 1982 to **2057, a total of 75 years**. An island with a population of 4,000 bears the byproduct time of four nuclear power plants operating for the entire country, longer than the lifespan of most people in Taiwan.
+Si en 2029 se vuelve a incumplir la promesa (algo que la industria prevé), los residuos nucleares de Lanyu habrán permanecido allí desde 1982 hasta **2057, un total de 75 años**. Una isla con una población de 4.000 personas ha soportado los subproductos del funcionamiento de cuatro plantas nucleares nacionales durante un tiempo superior a la esperanza de vida de la mayoría de los taiwaneses.
 
-> ⚠️ **Controversial Viewpoint:** Pro-nuclear advocates often say, "Nuclear waste is technically solvable; it's just political resistance." But the problem with nuclear waste has always been in the dimension of time. Lanyu has been storing waste since 1982, 44 years ago, and promises have never been fulfilled. In the most optimistic scenario, relocation happens in 2029; but what happens after "relocation from Lanyu"? The site selection for the ultimate repository is still stuck, and local resistance in Daren Township, Taitung County, remains unresolved. Technically feasible ≠ Politically feasible ≠ Ethically feasible. Lanyu is the concretization of this three-layer gap.
+> ⚠️ **Punto controvertido**: Los defensores de la energía nuclear suelen decir que «el problema de los residuos es técnicamente soluble, el obstáculo es político». Pero el problema de los residuos nucleares reside en la dimensión temporal. Lanyu lleva ya 44 años desde 1982 y las promesas nunca se han cumplido. En el escenario más optimista, el traslado ocurriría en 2029; pero ¿qué pasa después de «salir de Lanyu»? La elección del sitio para el repositorio final sigue bloqueada, y la resistencia local en el municipio de Daren, condado de Taitung, no se ha resuelto. Lo técnicamente viable $\neq$ lo políticamente viable $\neq$ lo éticamente viable. Lanyu es donde estas tres brechas se materializan.
 
-[PanSci reports](https://pansci.asia/archives/363266) that spent nuclear fuel rods remain at high temperature and high radiation after reactor decommissioning and must be cooled in the plant's fuel pool for at least 5 years before they can be moved. The dry storage facility land issue for Nuclear One and Nuclear Two has been stuck for over 11 years; the New Taipei City Government refused to approve the dry storage facility, causing spent fuel rods to remain in the plant's fuel pool, exceeding the original design capacity[^27][^28]. "**The biggest obstacle to nuclear power extension is the disposal of spent nuclear fuel**," PanSci cites industry consensus, which is the most awkward background noise for the Nuclear Three re-operation application[^28].
+Un informe de [PanSci señala](https://pansci.asia/archives/363266) que las barras de combustible nuclear mantienen altas temperaturas y radiaciones tras el cierre del reactor, por lo que deben enfriarse en las piscinas del reactor durante al menos 5 años antes de poder ser trasladadas. Sin embargo, la cuestión del terreno para las instalaciones de almacenamiento en seco de las plantas Nucles 1 y 2 lleva bloqueada más de 11 años; el gobierno de Nuevo Taipéi se ha negado a autorizar estas instalaciones, lo que provoca que el combustible gastado siga en las piscinas, superando ya la capacidad original de diseño[^27][^28]. «**El mayor obstáculo para extender la vida útil de la energía nuclear es el destino del combustible nuclear gastado**», afirma PanSci citando el consenso industrial, una frase que sirve de incómodo ruido de fondo para la solicitud de reactivación de Nucles 3[^28].
 
-## The Physical Limits of Nuclear Waste
+## El límite físico de los residuos nucleares
 
-Shift the lens to Olkiluoto Island in southern Finland.
+Desplacemos la mirada hacia la isla de Olkiluoto, al sur de Finlandia.
 
-500 meters underground, in the granite layer, a 5-kilometer-long tunnel is dug. At the end of the tunnel lies **Onkalo**, humanity's first high-level radioactive waste ultimate repository to officially receive an operating license. In August 2024, Finland's nuclear safety authority, STUK, issued the license. This project, planned since the 1970s, **took nearly half a century**[^29].
+A 500 metros bajo tierra, en capas de granito, se ha excavado un túnel de 5 kilómetros de largo. Al final del túnel se encuentra **Onkalo**, el primer repositorio final de residuos nucleares de alta actividad que ha obtenido oficialmente un permiso de funcionamiento experimental. En agosto de 2024, la autoridad de seguridad nuclear finlandesa STUK emitió la licencia; este proyecto, planificado desde la década de 1970, **ha tardado casi medio siglo**[^29].
 
-![Onkalo Underground Repository (Finland, Olkiluoto)](/article-images/nature/onkalo-finland-2024.webp)
+![Repositorio subterráneo Onkalo (Olkiluoto, Finlandia)](/article-images/nature/onkalo-finland-2024.webp)
 
-_The entrance to Finland's Onkalo high-level radioactive waste ultimate repository, in the granite layer 500 meters underground, received an operating license in 2024. Image: kallerna, CC BY-SA 4.0, via Wikimedia Commons_
+_Entrada al repositorio final de residuos nucleares de alta actividad Onkalo en Finlandia. Capas de granito a 500 metros bajo tierra; licencia de funcionamiento experimental obtenida en 2024. Imagen: kallerna, CC BY-SA 4.0, vía Wikimedia Commons_
 
-Onkalo's design goal is to isolate nuclear waste for more than **100,000 years**. How exaggerated is this timescale? Human civilization is about 10,000 years old; the oldest pyramids are 4,500 years old; 100,000 years ago, our ancestors had not yet left Africa[^30].
+El objetivo de diseño de Onkalo es aislar los residuos nucleares durante más de **100.000 años**. ¿Qué tan exagerada es esta escala temporal? La civilización humana tiene unos 10.000 años, las pirámides más antiguas tienen 4.500 y hace 100.000 años nuestros ancestros aún no habían salido de África[^30].
 
-> 💡 **Did You Know?** The timescale for isolating nuclear waste in an ultimate repository is so long that it reaches the "end of human memory." The Onkalo design team spent years discussing one question: How to make humans 100,000 years from now know "Do not dig here"? Because by then, no existing language, symbol, government, or religion will remain. The final solution uses a nuclear waste warning symbol with multilingual warnings, but designers admit this is only a "message for the next 1,000 years." What happens after 1,000 years? No one knows the answer.
+> 💡 **¿Sabías que...?**: El tiempo de aislamiento necesario para un repositorio final es tan largo que llega al «final de la memoria humana». El equipo de diseño de Onkalo pasó varios años debatiendo cómo hacer que los humanos de dentro de 100.000 años sepan que «no deben excavar aquí», ya que para entonces no quedará ningún idioma, símbolo, gobierno o religión actual. La solución final consiste en usar símbolos de advertencia nuclear junto con avisos en múltiples idiomas, aunque los diseñadores admiten que esto es solo un «mensaje para los próximos 1.000 años». Nadie sabe qué pasará después de ese milenio.
 
-What about Taiwan's ultimate repository? The candidate site for the low-level nuclear waste ultimate repository is Daren Township, Taitung County, but the site selection process is stuck due to local political resistance[^31]. The site selection process for the high-level nuclear waste ultimate repository has not even started. Finland took 50 years to reach the trial operation stage; Taiwan has **zero years**.
+¿Y el repositorio final de Taiwán? El sitio candidato para los residuos de baja actividad es el municipio de Daren en el condado de Taitung, pero el proceso de selección está estancado debido a la resistencia política local[^31]. En cuanto al repositorio de alta actividad, ni siquiera se ha iniciado el proceso de selección del sitio. Finlandia tardó 50 años en llegar al funcionamiento experimental; Taiwán lleva **cero años**.
 
-PanSci also mentions another "physical limit solution" that was seriously discussed: space disposal of nuclear waste. "**The idea of space disposal of nuclear waste is physically feasible, but requires very stable and reliable rockets; otherwise, if a launch fails, the radiation pollution caused to Earth will be incalculable**"[^32]. SpaceX's Falcon 9 failure rate is about 1%, meaning that for every 100 launches, one will explode high-level radioactive nuclear waste into the atmosphere. Physically feasible, but physically also not feasible.
+El informe de PanSci también menciona otra «solución al límite físico» que fue discutida seriamente: la eliminación de residuos nucleares en el espacio. «**La idea de eliminar los residuos nucleares en el espacio es físicamente viable, pero requiere cohetes extremadamente estables y seguros; de lo contrario, un fallo en el lanzamiento provocaría una contaminación radiactiva en la Tierra difícil de calcular**»[^32]. La tasa de fallos del Falcon 9 de SpaceX es de aproximadamente el 1 %, lo que significa que, de cada 100 lanzamientos, uno podría hacer explotar residuos de alta actividad en la atmósfera. Es físicamente viable y, a la vez, físicamente inviable.
 
-This is the physical limit behind the four words "Nuclear Waste Solution." Its timescale is longer than that of the entire human civilization.
+Este es el límite físico detrás de las palabras «solución para los residuos nucleares». Su escala temporal es más larga que toda la civilización humana.
 
-## Hydrogen Rainbow: Green, Blue, Gray, White, Gold
+## El arcoíris del hidrógeno: verde, azul, gris y blanco/oro
 
-If nuclear power is too heavy, can we go around it?
+Si la energía nuclear es demasiado pesada, ¿podemos evitarla?
 
-Over the past five years, hydrogen energy has been seen as the next wave of energy transition. The problem is that hydrogen itself is an energy **carrier** rather than an energy source: other energy must first be used to "produce" hydrogen, which is then used for power generation or as fuel. Where it comes from determines whether it is truly "clean."
+En los últimos cinco años, el hidrógeno ha sido visto como la próxima ola de la transición energética. El problema es que el hidrógeno es un **vector** energético y no una fuente primaria: primero hay que usar otra energía para «fabricar» el hidrógeno y luego usarlo para generar electricidad o como combustible. Su origen determina si es realmente «limpio».
 
-PanSci categorizes hydrogen by production method: "**Hydrogen color codes correspond to different production methods: Gray Hydrogen (Natural Gas SMR, emits CO₂), Blue Hydrogen (Gray Hydrogen + CCS), Green Hydrogen (Renewable Electricity Electrolysis), Blue-Green Hydrogen (Methane Pyrolysis, solid carbon capture, no CO₂ emission). From a carbon emission perspective, Green Hydrogen is ideal but has the highest cost**"[^33].
+PanSci clasifica el hidrógeno por colores según su método de producción: «**Los códigos de color del hidrógeno corresponden a diferentes métodos de producción: hidrógeno gris (SMR de gas natural, emite $\text{CO}_2$), hidrógeno azul (gris + CCS), hidrógeno verde (electrólisis del agua con electricidad renovable) e hidrógeno azul-verde (pirólisis de metano, captura carbono sólido sin emitir $\text{CO}_2$). Desde la perspectiva de las emisiones, el verde es el ideal, pero el más costoso**»[^33].
 
-| Hydrogen Color      | Production Method                                | Carbon Emission              | Cost           | Taiwan Status             |
-| ------------------- | ------------------------------------------------ | ---------------------------- | -------------- | ------------------------- |
-| Gray Hydrogen       | Natural Gas Steam Methane Reforming (SMR)        | High (Emits CO₂)             | Low            | Most common in industry   |
-| Blue Hydrogen       | Gray Hydrogen + Carbon Capture and Storage (CCS) | Medium (Reduced after CCS)   | Medium-High    | No commercial operation   |
-| Green Hydrogen      | Renewable Electricity Electrolysis               | Zero                         | High           | CPC Planning              |
-| Blue-Green Hydrogen | Methane Pyrolysis (Decarbonization Combustion)   | Zero (Produces Solid Carbon) | Medium         | Hsingda Power Plant Trial |
-| White/Gold Hydrogen | Naturally Formed Underground                     | Zero (No Production Needed)  | To Be Explored | None                      |
+| Color del Hidrógeno | Método de Producción                                       | Emisiones de Carbono           | Coste                    | Situación en Taiwán            |
+| :------------------ | :--------------------------------------------------------- | :----------------------------- | :----------------------- | :----------------------------- |
+| Gris                | Reformado con vapor de gas natural (SMR)                   | Altas (emite $\text{CO}_2$)    | Bajo                     | El más usado industrialmente   |
+| Azul                | Hidrógeno gris + Captura y almacenamiento de carbono (CCS) | Medias (reducidas por CCS)     | Medio-Alto               | Sin operación comercial        |
+| Verde               | Electrólisis del agua con energía renovable                | Cero                           | Alto                     | En planificación por CPC Corp. |
+| Azul-Verde          | Pirólisis de metano (descarbonización)                     | Cero (produce carbono sólido)  | Medio                    | Pruebas en planta Xingda       |
+| Blanco / Oro        | Formación natural subterránea                              | Cero (no requiere fabricación) | Pendiente de exploración | Ninguno                        |
 
-Taiwan's hydrogen trial point is at Hsingda Power Plant in Kaohsiung. Taipower and the Academia Sinica are collaborating to test "**Decarbonization Combustion**" technology: decomposing natural gas (methane) into hydrogen and solid carbon at high temperatures, a process that does not produce carbon dioxide, and the solid carbon can be used as an industrial raw material[^33]. The attractiveness of this technology lies in the fact that it can **use existing natural gas infrastructure**, avoiding the need to tear down and rebuild the entire energy system.
+El punto de prueba del hidrógeno en Taiwán se encuentra en la planta eléctrica de Xingda, en Kaohsiung. Taipower y la Academia Sinica colaboran en el testeo de la tecnología de «**combustión de hidrógeno descarbonizado**»: descomponer el gas natural (metano) a altas temperaturas en hidrógeno y carbono sólido; el proceso no genera dióxido de carbono y el carbono sólido puede usarse como materia prima industrial[^33]. El atractivo de esta tecnología es que permite **aprovechar la infraestructura existente de gas natural**, sin tener que reconstruir todo el sistema energético.
 
-But hydrogen has its own physical limits. "**Although hydrogen is a clean energy, its effect as a greenhouse gas is 11.6 times that of carbon dioxide (GWP100). If it leaks during production, transportation, or use, it will exacerbate warming**"[^34]. The hydrogen molecule is the smallest molecule in the universe, and its leakage rate is inherently high. This is a physical limit of materials science, not something that can be fully overcome by engineering efforts.
+Pero el hidrógeno tiene sus propios límites físicos. «**Aunque el hidrógeno es una energía limpia, su efecto como gas de efecto invernadero es 11,6 veces superior al del dióxido de carbono ($\text{GWP}_{100}$); si hay fugas durante la producción, transporte o uso, podría agravar el calentamiento global**»[^34]. La molécula de hidrógeno es la más pequeña del universo y su tasa de fuga es intrínsecamente alta; este es un límite físico de la ciencia de materiales que no puede superarse totalmente solo con esfuerzo ingenieril.
 
-There is also a newer role: **White/Gold Hydrogen**. A 2023 study by the U.S. Geological Survey (USGS) estimated that the reserves of naturally formed hydrogen gas underground due to crustal movement may reach "**tens of billions of tons**," sufficient to provide energy for humanity for hundreds of years[^34][^35]. France and Mali already have commercial exploration. Taiwan's plate boundaries are active, theoretically holding potential, but currently, there are no exploration plans. This is the energy option furthest from theory.
+También hay nuevos protagonistas: el **hidrógeno blanco / oro**. Un estudio del Servicio Geológico de Estados Unidos (USGS) de 2023 estima que las reservas de hidrógeno natural formadas por movimientos tectónicos podrían alcanzar «**decenas de miles de millones de toneladas**», suficientes para cubrir la demanda energética humana durante siglos[^34][^35]. Francia y Mali ya realizan exploraciones comerciales. Taiwán, con sus límites de placas activos, tiene potencial teórico, pero actualmente no existen planes de exploración; es la opción energética más alejada de la realidad.
 
-> 📝 **Curator's Note:** The core takeaway from the hydrogen rainbow classification for readers is to always ask "Where does the energy come from?" behind the term "**clean energy**." Green hydrogen is only cost-effective when renewable electricity is in excess and has nowhere to sell; this situation has not yet arrived in Taiwan. Until then, hydrogen is actually a showroom for another fossil fuel.
+> 📝 **Nota del curador**: El núcleo central que el lector debe recordar sobre la clasificación del hidrógeno es que, detrás del término «energía limpia», siempre hay que preguntar «de dónde viene la energía». El hidrógeno verde solo es rentable cuando sobra electricidad renovable y no hay dónde venderla, una situación a la que Taiwán aún no ha llegado. Hasta entonces, el hidrógeno es, en realidad, una vitrina para otro tipo de combustibles fósiles.
 
-## Geothermal Taiwan: 33 GW Potential vs. 7.4 MW Reality
+## Geotermia en Taiwán: potencial de 33 GW frente a realidad de 7,4 MW
 
-If hydrogen is a "carrier dispute," geothermal is a "depth dispute."
+Si el hidrógeno es una «lucha de vectores», la geotermia es una «lucha de profundidad».
 
-Taiwan should naturally be a geothermal powerhouse. Located at the junction of the Eurasian Plate and the Philippine Sea Plate, volcanoes, hot springs, and earthquake zones form a natural geothermal resource reservoir. In 1981, the Qingshui Geothermal Power Plant in Yilan built a 3 MW experimental unit, Taiwan's first geothermal power plant. However, due to technical issues such as wellbore scaling and acid corrosion, it closed in 1993.
+Taiwán debería ser una potencia geotérmica. Situada en la intersección de las placas Euroasiática y del Mar de Filipinas, posee un reservorio natural de recursos geotérmicos compuesto por volcanes, aguas termales y cinturones sísmicos. En 1981 se construyó una unidad experimental de 3 MW en Qingshui, Yilan, la primera planta geotérmica de Taiwán. Sin embargo, cerró en 1993 debido a problemas técnicos como incrustaciones en los pozos y corrosión por ácidos.
 
-For the next 30 years, geothermal in Taiwan fell into silence. Until 2020, the privately invested Qingshui Geothermal 4.2 MW unit restarted commercial operation, bringing geothermal back into public discussion. In 2024, the Yilan Tufang Geothermal 5.4 MW project broke ground, expected to start in early 2026. **By the end of 2025, the total commercial capacity of geothermal power in Taiwan will be 7.4 MW**[^36].
+Durante los siguientes 30 años, la geotermia quedó en silencio en Taiwán. No fue hasta 2020 cuando una unidad de 4,2 MW en Qingshui, con inversión privada, retomó la operación comercial, devolviendo el tema al debate público. En 2024 comenzó la construcción de un proyecto de 5,4 MW en Tucheng, Yilan, previsto para iniciar en principios de 2026. **A finales de 2025, la capacidad geotérmica comercial total en Taiwán es de 7,4 MW**[^36].
 
-What is the government's official target? 200 MW by 2030, 6 GW (6,000 MW) by 2050. **From 7.4 MW to 200 MW is a 27-fold difference; to 6 GW, an 810-fold difference**. This is a timeline of 5 years and 25 years.
+¿Y los objetivos oficiales del gobierno? 200 MW para 2030 y 6 GW (6.000 MW) para 2050. **De 7,4 MW a 200 MW hay una diferencia de 27 veces; hasta los 6 GW, la diferencia es de 810 veces**. Estos son plazos de 5 y 25 años.
 
-[PanSci cites a National Taiwan University study](https://pansci.asia/archives/361200) stating that "**Taiwan's geothermal resources are widely distributed. According to a National Taiwan University study, the potential power generation of deep geothermal (depth below 5 km) reaches 33,640 MW, equivalent to about 12 Nuclear Four plants**"[^37]. But this is only a theoretical value. Developing deep geothermal requires Enhanced Geothermal System (EGS) technology, which must drill wells several kilometers underground and inject water artificially to create a heat exchange layer. Currently, there are only a few demonstration projects globally, and the technology is not yet commercialized.
+Un informe de [PanSci citando investigaciones de la Universidad Nacional de Taiwán (NTU)](https://pansci.asia/archives/361200) señala que «**los recursos geotérmicos en Taiwán están ampliamente distribuidos; según la NTU, el potencial de generación de la geotermia profunda (más de 5 km de profundidad) alcanza los 33.640 MW, equivalente a unas 12 plantas nucleares de tipo Nucles 4**»[^37]. Pero esto es un valor teórico. El desarrollo de la geotermia profunda requiere tecnología EGS (_Enhanced Geothermal System_), que implica perforar varios kilómetros y crear capas de intercambio térmico mediante inyección artificial de agua. Actualmente solo existen unos pocos proyectos piloto en el mundo y la tecnología no se ha comercializado.
 
-And "**Taiwan's shallow geothermal (depth within 3 km) development potential is estimated to be no more than 1,000 MW. Currently, several experimental projects are underway in Yilan Qingshui and Taipei Datun Mountain areas**"[^37]. Even if shallow geothermal is fully opened, it would only provide about 3% of Taiwan's total electricity demand.
+Por otro lado, «**el potencial de desarrollo de la geotermia superficial en Taiwán (menos de 3 km de profundidad) se estima que no supera los 1.000 MW; actualmente hay algunos proyectos experimentales en Qingshui, Yilan y en el área del monte Datun, Taipéi**»[^37]. Incluso si se explotara toda la geotermia superficial, solo cubriría aproximadamente el 3 % de la demanda eléctrica total de Taiwán.
 
-Geothermal's advantage is stability. "**Geothermal's advantage is that it is not affected by weather like wind or solar power; it is a baseload power source that generates electricity stably 24 hours a day, giving it unique value in the energy mix**"[^38]. There are not many renewable energies that can replace nuclear baseload functions; geothermal is one of them, provided it can actually be built.
+La ventaja de la geotermia es su estabilidad. «**A diferencia de la eólica o la solar, la geotermia no depende del clima; es una fuente de energía de base que genera electricidad de forma estable las 24 horas, lo que le otorga un valor único en el mix energético**»[^38]. Hay pocas energías renovables capaces de sustituir la función de carga base de la nuclear, y la geotermia es una de ellas, siempre que realmente se pueda construir.
 
-> ⚠️ **Controversial Viewpoint:** The slow development of geothermal in Taiwan is often attributed to "immature technology." But PanSci's interviews with the industry yield a different conclusion: the real bottleneck is **underground uncertainty + difficulty in loans**. Before drilling a geothermal well, no one can guarantee water will flow, how hot it will be, or how long it will last. Banks do not lend; developers dare not invest. Japan and New Zealand face similar dilemmas, but both have government-led funds to share risks. Taiwan's geothermal developers currently use the solar PV financing model: solar PV generates electricity once installed; geothermal does not. Copying the financing structure guarantees a deadlock.
+> ⚠️ **Punto controvertido**: El lento desarrollo de la geotermia en Taiwán suele atribuirse a la «inmadurez tecnológica». Pero PanSci llegó a una conclusión diferente tras entrevistar al sector: el verdadero cuello de botella es la **incertidumbre subterránea + la dificultad para obtener préstamos**. Antes de perforar un pozo, nadie puede garantizar que saldrá agua, qué temperatura tendrá o cuánto durará. Los bancos no prestan dinero y los empresarios no se atreven a invertir. Japón y Nueva Zelanda enfrentaron dilemas similares, pero ambos cuentan con fondos gubernamentales para compartir el riesgo. En Taiwán, los desarrolladores geotérmicos solo pueden usar el modelo de financiación de la energía solar: la solar genera electricidad en cuanto se instala; la geotermia no. Copiar ese marco financiero condena al proyecto al bloqueo.
 
-Public Television's _Our Island_ produced a two-part series "Using Heat for Power" in March 2023, following the national team into Datun Mountain, Yilan, and Taitung tribes, comprehensively filming the two aspects of "geothermal exploration's observation, listening, questioning, and pulse-taking" and "tribal geothermal power generation":
-
-<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-   <iframe src="https://www.youtube.com/embed/HtRxCNCT-kw" title="Geothermal Exploration National Team Mobilized | Looking for Key 'Geothermal Mushrooms' | Using Heat for Power Series Part 1: Geothermal Exploration Observation (Our Island Ep 1195 2023-03-06)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-_Public Television's *Our Island* Official Channel: Episode 1195 "Geothermal Exploration National Team Mobilized" (2023-03-06). In Datun Mountain and Yilan Jiaoxi, follow the exploration teams from the Ministry of Economic Affairs' Geological Survey Bureau, Taipower's General Research Institute, and the Industrial Technology Research Institute to see how "geothermal mushrooms" are pieced together from three clues: seismic waves, rock samples, and well temperature gradients. How much heat is in Taiwan's underground only becomes concrete from here._
+El programa _Nuestra Isla_ (我們的島) de la televisión pública PTS dedicó dos episodios en marzo de 2023 a la «generación eléctrica por calor», acompañando al equipo nacional en el monte Datun, Yilan y comunidades de Taitung, documentando exhaustivamente tanto la exploración técnica como la negociación con las comunidades:
 
 <div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
-   <iframe src="https://www.youtube.com/embed/KwUaS6WdyhI" title="Geothermal Power Generation in Tribes | Taiwan's First Geothermal Power-Integrated Tourist Hot Spring | Using Heat for Power Series Part 2 (Our Island Ep 1196 2023-03-13)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/HtRxCNCT-kw" title="El equipo nacional de exploración geotérmica en acción | Buscando el 'hongo geotérmico' clave | Serie Generación por Calor Parte 1 (Nuestra Isla Ep. 1195, 2023-03-06)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-_Public Television's *Our Island* Official Channel: Episode 1196 "Geothermal Power Generation in Tribes" (2023-03-13). Presenting both levels of "energy transition vs. local justice"—Yilan Lizhi, Taitung Hongye, Chiayi Zhonglun. Geothermal development reaches which tribal negotiation line? Technical issues are one thing; sociologically, whether it can enter is a completely different matter._
+_Canal oficial de PTS «Nuestra Isla»: Ep. 1195 «El equipo nacional de exploración geotérmica en acción» (2023-03-06). En el monte Datun y Jiaoxi, Yilan, siguen al equipo de exploración del Instituto de Geología del Ministerio de Economía, el Instituto de Investigación de Taipower y el ITRI para ver cómo se reconstruye la pista del «hongo geotérmico» a partir de ondas sísmicas, muestras de roca y gradientes de temperatura. Aquí comienza la respuesta concreta sobre cuánto calor hay bajo el suelo de Taiwán._
 
-## Ocean Energy: The Trial Stage of 9.4 GW from the Kuroshio
+<div class="video-embed" style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;border-radius:8px;">
+  <iframe src="https://www.youtube.com/embed/KwUaS6WdyhI" title="Generación geotérmica en las comunidades | El primer balneario turístico con energía geotérmica de Taiwán | Serie Generación por Calor Parte 2 (Nuestra Isla Ep. 1196, 2023-03-13)" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-After the underground, there is the sea.
+_Canal oficial de PTS «Nuestra Isla»: Ep. 1196 «Generación geotérmica en las comunidades» (2023-03-13). Presenta simultáneamente los niveles de «transición energética vs. justicia local», mostrando dónde se encuentran las negociaciones comunitarias en Lize (Yilan), Hongye (Taitung) y Zhonglun (Chiayi). Los problemas técnicos son una cosa; la posibilidad sociológica de entrar en el territorio es otra completamente distinta._
 
-The Kuroshio current off eastern Taiwan is one of the world's strongest currents. Flow speed 1.5-2.5 meters/second, width about 100 km, flowing north year-round. Theoretically, this is a never-ending energy river. The Academia Sinica completed the offshore testing of a 100 kW experimental unit in 2021, a milestone in Taiwan's ocean energy development[^39].
+## Energía oceánica: fase experimental de los 9,4 GW de la Corriente Negra
 
-PanSci cites the Academia Sinica estimate: "**Taiwan's surrounding waters have huge renewable energy potential. The theoretical potential of ocean energy (including current energy, wave energy, and thermal energy) is estimated at 9.4 GW. The Kuroshio flowing past Taiwan's east coast is the most promising current energy source**"[^39].
+Después del subsuelo, sigue el mar.
 
-Another direction is OTEC (Ocean Thermal Energy Conversion): using the temperature difference between surface warm water (25-28°C) and deep cold water (5°C) to drive generators. Taiwan's eastern sea area has a large depth drop and is considered an ideal location for OTEC. "**Taiwan's eastern sea area has a large depth drop, theoretically an ideal location for OTEC development, but it is still in the experimental stage**"[^40].
+La Corriente Negra (_Kuroshio_), frente a la costa este de Taiwán, es una de las corrientes marinas más fuertes del mundo. Con una velocidad de 1,5-2,5 m/s y un ancho de unos 100 km, fluye constantemente hacia el norte. Teóricamente, es un río energético inagotable. En 2021, la Academia Sinica completó las pruebas marinas de una unidad experimental de 100 kW, un hito en el desarrollo de la energía oceánica en Taiwán[^39].
 
-But ocean energy's physical limits are encountered earlier than geothermal: the durability of marine engineering. Typhoons, salt corrosion, biofouling, deep-water maintenance—each is a century-level engineering challenge. Internationally, OTEC has no commercial power plants operating; the global leading case for Kuroshio power generation is Japan's Okinawa 100 kW demonstration. Taiwan's 100 kW trial is just the starting point. From here to commercialization, international experience shows it takes 15-20 years.
+PanSci cita la estimación de la Academia Sinica: «**El potencial de energías renovables en las aguas circundantes a Taiwán es enorme; se estima que el potencial teórico de la energía oceánica (incluyendo corrientes, olas y gradientes térmicos) alcanza los 9,4 GW. La Corriente Negra, al pasar por la costa este, es la fuente de energía de corrientes con mayor potencial de desarrollo**»[^39].
 
-## Fourth-Generation Nuclear SMR: Bill Gates' Bet
+Otra dirección es la OTEC (_Ocean Thermal Energy Conversion_): utilizar la diferencia de temperatura entre el agua superficial cálida (25-28 °C) y el agua profunda fría (5 °C) para accionar un generador. Debido a la gran diferencia de profundidad en las aguas del este, Taiwán se considera un lugar ideal para la OTEC. «**Las aguas del este de Taiwán son teóricamente ideales para desarrollar la OTEC, pero actualmente sigue estando en fase experimental**»[^40].
 
-If we go back to the path of nuclear power, will fourth-generation nuclear energy be the answer?
+Sin embargo, el límite físico de la energía oceánica se alcanza antes que el de la geotermia: la durabilidad de la ingeniería marina. Tifones, corrosión salina, incrustaciones biológicas y reparaciones en aguas profundas son desafíos de ingeniería a escala centenaria. A nivel internacional, no hay plantas comerciales de OTEC operativas; el caso líder mundial en energía de corrientes es una demostración de 100 kW en Okinawa, Japón. La prueba de 100 kW de Taiwán es solo el comienzo; la experiencia internacional indica que llegar a la comercialización toma entre 15 y 20 años.
 
-PanSci reports: "**The biggest difference between the Natrium reactor and traditional nuclear power plants is its coolant. Traditional nuclear reactors use water as a coolant, while Natrium uses liquid metal sodium. Sodium has a high boiling point and can operate at higher temperatures, improving reaction efficiency; sodium's thermal conductivity is 100 times that of water**"[^41].
+## Energía nuclear de cuarta generación SMR: la apuesta de Bill Gates
 
-This is the sodium-cooled fast neutron reactor promoted by TerraPower, founded by Bill Gates. In April 2026, TerraPower's Natrium project officially broke ground in Kemmerer, Wyoming, expected to be completed in 2030[^42], one year later than originally scheduled, but still a key milestone in the commercialization of fourth-generation nuclear energy.
+Si volvemos al camino de la energía nuclear, ¿será la cuarta generación la respuesta?
 
-The selling point of fourth-generation nuclear energy is "**Small Modular Reactors**" (SMR): power generation capacity drops from the traditional 1000 MW level to 100-300 MW, can be prefabricated in factories and assembled on-site, theoretically reducing costs and shortening construction time.
+Informa PanSci: «**La mayor diferencia entre el reactor Natrium y las plantas nucleares tradicionales es su refrigerante. Mientras que los reactores convencionales usan agua, el Natrium utiliza sodio metálico líquido. El sodio tiene un punto de ebullición más alto, lo que permite operar a temperaturas mayores y mejorar la eficiencia; además, su conductividad térmica es 100 veces superior a la del agua**»[^41].
 
-But physical limits still exist. PanSci points out two key risks:
+Este es el reactor rápido refrigerado por sodio impulsado por TerraPower, empresa fundada por Bill Gates. En abril de 2026, el proyecto Natrium comenzó oficialmente sus obras en Kemmerer, Wyoming, con fecha prevista de finalización en 2030[^42], un año más tarde de lo previsto, pero marcando un hito clave en la comercialización de la cuarta generación nuclear.
 
-> "**Fast neutron reactors require high-concentration uranium fuel, and breeding reactions produce Plutonium-239, an important raw material for nuclear weapons. Therefore, how to manage nuclear materials and prevent nuclear proliferation becomes a problem that fast neutron reactors must face**"[^43].
+El atractivo de la cuarta generación es el «**Reactor Modular Pequeño**» (SMR, _Small Modular Reactor_): la capacidad de generación baja de los 1000 MW tradicionales a unos 100-300 MW, permitiendo que sean prefabricados en fábrica y ensamblados in situ, lo que teóricamente reduce costes y tiempos de construcción.
 
-> "**The construction of the Natrium reactor marks a major advance in fourth-generation nuclear power plant technology, but its development also comes with significant challenges**"[^44]. Liquid sodium reacts violently and is flammable when it contacts water; reactor operation and maintenance have extremely high requirements for materials science, and there are currently no large-scale commercial operation safety data.
+Pero el límite físico persiste. PanSci señala dos riesgos críticos:
 
-Does Taiwan have an SMR plan? Currently, **there are no official plans**. Even if evaluation starts now, from site selection, environmental impact assessment, safety review to commercial operation, international experience shows it takes 15-20 years. That is to say, fourth-generation nuclear energy is not the answer for 2050 net-zero; the most optimistic scenario is online by 2045-2050.
+> «**Los reactores rápidos requieren combustible de uranio enriquecido y la reacción de breeding genera plutonio 239, una materia prima fundamental para fabricar armas nucleares. Por lo tanto, la gestión de los materiales nucleares para prevenir la proliferación es un desafío inevitable para los reactores rápidos**»[^43].
 
-> 📝 **Curator's Note:** Fourth-generation nuclear energy is often treated in international public opinion as "nuclear energy of the future," thus becoming "a good excuse to delay current energy transition": since better technology will be available in 15 years, why rush now? This is the most dangerous confusion in the physical limits question. The engineering bottleneck of renewable energy is "not enough built yet"; the bottleneck of fourth-generation nuclear energy is "safety and non-proliferation data for commercial operation not yet accumulated enough." The two timelines cannot replace each other. Missing the 2030 renewable energy construction window, the 2045 SMR cannot save the climate bill.
+> «**La construcción del reactor Natrium marca un gran avance tecnológico, sin embargo, su desarrollo conlleva desafíos significativos**»[^44]. El sodio líquido reacciona violentamente con el agua y es inflamable; la operación del reactor exige requisitos extremos de ciencia de materiales y aún no existen datos de seguridad de operaciones comerciales a gran escala.
 
-## Offshore Wind: The Leading Piece in Asia
+¿Tiene Taiwán planes para SMR? Actualmente **no hay ninguna planificación oficial**. Incluso si se empezara la evaluación ahora, la experiencia internacional indica que desde la elección del sitio, el estudio de impacto ambiental y la revisión de seguridad hasta la operación comercial pasan entre 15 y 20 años. Es decir, la cuarta generación no es la respuesta para el cero neto de 2050; en el escenario más optimista, solo estaría operativa hacia 2045-2050.
 
-Pull the lens back to what is already happening.
+> 📝 **Nota del curador**: En el discurso internacional, la cuarta generación nuclear suele presentarse como «la energía nuclear del futuro», convirtiéndola así en una «excusa para retrasar la transición energética actual»: si habrá una tecnología mejor en 15 años, ¿por qué apresurarse ahora? Esta es la confusión más peligrosa dentro de los límites físicos. El cuello de botella de las renovables es que «aún no se han construido suficientes», mientras que el de la cuarta generación nuclear es que «no hay suficientes datos de seguridad y no proliferación en operación comercial». Ambos cronogramas no son sustituibles; perder la ventana de construcción de renovables de 2030 no podrá compensarse con un SMR en 2045.
 
-![Hai Neng Offshore Wind Farm off Miaoli](/article-images/nature/hai-neng-offshore-wind-farm-2024.webp)
+## Eólica marina: la pieza del puzzle que lidera Asia
 
-_The Hai Neng Offshore Wind Farm (Formosa 1) off Miaoli, commercial operation started in 2019, is Taiwan's first large-scale offshore wind farm. Image: Ministry of Economic Affairs, Attribution, via Wikimedia Commons_
+Volvamos a lo que ya está sucediendo.
 
-The Taiwan Strait is one of the world's best wind farm sites. "**Due to topographical factors, the Taiwan Strait forms a 'pipe effect,' causing wind speeds in the strait to be much higher than surrounding waters, making Taiwan one of the most potential locations for offshore wind development globally**"[^45]. Winter Northeast Monsoons are squeezed into the strait by the Central Mountain Range and Fujian hills, with average wind speeds of 10-12 meters/second. This geographical fact makes offshore wind the core bet of energy transition.
+![Parque eólico marino Hai Long frente a las costas de Miaoli](/article-images/nature/hai-neng-offshore-wind-farm-2024.webp)
 
-From almost zero in 2016 to a cumulative installed capacity of about **4.5 GW** by March 2026[^11], Taiwan's offshore wind expansion speed ranks among the top in Asia. Ørsted from Denmark completed the construction of 920 MW for the Da Changhua Southwest Phase II and Northwest Wind Farms off Changhua[^12]. The third phase block development starting in 2026 has an allocated capacity of 3.6 GW, targeting completion and grid connection by 2030-2031[^11].
+_El parque eólico marino Hai Long (Formosa 1), en las costas de Miaoli, entró en operación comercial en 2019 y es el primer gran parque eólico marino de Taiwán. Imagen: Ministerio de Economía de la República de China (Taiwán), Atribución, vía Wikimedia Commons_
 
-The government's blueprint is larger: 13 GW offshore wind by 2030, challenging 55 GW by 2050.
+El estrecho de Taiwán es uno de los mejores campos de viento del mundo. «**Debido a factores topográficos, el estrecho de Taiwán genera un "efecto túnel", haciendo que la velocidad del viento sea muy superior a las aguas circundantes, lo que convierte a Taiwán en uno de los lugares con mayor potencial para el desarrollo eólico marino**»[^45]. En invierno, el monzón del noreste es comprimido entre la cordillera Central y las colinas de Fujian hacia el estrecho, con velocidades medias de 10-12 m/s. Este hecho geográfico ha convertido a la eólica marina en la apuesta central de la transición energética.
 
-But offshore wind turbines bring not only power but also conflict. In February 2022, over a hundred Changhua fishermen went north to the Executive Yuan to protest, accusing the government of "eliminating fishermen" for wind power[^13]. The navigation ban zones set by offshore wind farms blocked the sea areas where they had operated for generations. In May 2025, the court ruled the navigation restrictions illegal, the first time a court in Taiwan challenged the spatial governance of offshore wind[^14].
+De una capacidad casi nula en 2016, Taiwán alcanzó una capacidad instalada acumulada de aproximadamente **4,5 GW** para marzo de 2026[^11], situándose a la vanguardia de Asia en velocidad de expansión. Ørsted, la empresa danesa, completó la construcción de los parques eólicos del suroeste y noroeste de Changhua con un total de 920 MW[^12]. La tercera fase de desarrollo por bloques, iniciada en 2026, asigna una capacidad de 3,6 GW con el objetivo de completar la conexión a la red entre 2030 y 2031[^11].
 
-Solar PV takes another path. Solar PV installed capacity reached 14,281 MW in 2024, accounting for 68% of total renewable energy, with 14.9 billion kWh generated[^15]. Roof-mounted, ground-mounted, water-surface-mounted, agrivoltaics—diverse installation models make solar the mainstay of renewable energy. But the agrivoltaics policy has triggered questions of "fake farming, real power generation," forcing the Ministry of Agriculture to strengthen inspections. On an island with only 790,000 hectares of arable land, the use of every piece of land is a political issue.
+El plan gubernamental es aún más ambicioso: 13 GW para 2030 y el desafío de los 55 GW para 2050.
 
-![Solar Panels on Xihu Service Area Roof](/article-images/nature/xihu-service-area-solar-2014.webp)
+Pero los aerogeneradores en el mar no solo traen electricidad, sino también conflictos. En febrero de 2022, más de cien pescadores de Changhua protestaron ante el Ejecutivo, acusando al gobierno de «eliminar a los pescadores» en favor de la energía eólica[^13]. Las zonas prohibidas de navegación delimitadas para los parques bloquearon aguas donde habían operado por generaciones. En mayo de 2025, un tribunal dictaminó que las restricciones de navegación eran ilegales, siendo la primera vez que un tribunal cuestiona la gestión espacial de la eólica marina en Taiwán[^14].
 
-_Solar panels on the roof of Xihu Service Area. Taiwan's solar PV installed capacity reached 14,281 MW in 2024, accounting for 68% of renewables. Image: lienyuan lee, CC BY 3.0, via Wikimedia Commons_
+La energía solar fotovoltaica ha seguido otro camino. En 2024, su capacidad instalada alcanzó los 14.281 MW, representando el 68 % del total de renovables, con una generación de 14.900 millones de kWh[^15]. Los diversos modelos (tejados, suelo, flotantes y agrivoltaica) han convertido al sol en la fuerza principal de las renovables. Sin embargo, la política de agrivoltaica ha suscitado dudas sobre «falsos cultivos para plantar paneles», obligando al Ministerio de Agricultura a reforzar las inspecciones. En una isla con solo 790.000 hectáreas de tierra cultivable, el uso de cada parcela es un problema político.
 
-Wind and light are the fastest piece of the puzzle in Taiwan's energy transition, but are inherently intermittent: no power when the sun sets, no power when the wind stops. This is also the most common argument used by pro-nuclear advocates in the Nuclear Three extension discussion: "Renewable energy is unstable; it needs baseload." The question returns to the geothermal section: if baseload renewable energy is not built fast enough, the 27-fold target gap is the political support for Nuclear Three's 2028 restart timeline.
+![Paneles solares en el tejado de una estación de servicio de la autopista](/article-images/nature/xihu-service-area-solar-2014.webp)
 
-## The Afternoon of May 13
+_Paneles solares en el tejado de la estación de servicio de Xihu. La capacidad instalada de energía solar fotovoltaica en Taiwán alcanzó los 14.281 MW en 2024, representando el 68 % de las renovables. Imagen: lienyuan lee, CC BY 3.0, vía Wikimedia Commons_
 
-At 2:37 PM on May 13, 2021, at the Lu-bei Extra High Voltage Substation of Hsingda Power Plant in Kaohsiung, an operator opened switch 3541; he was supposed to open 3542[^16].
+El viento y la luz son las piezas más rápidas del puzzle energético, pero son intrínsecamente intermitentes: no hay electricidad cuando se pone el sol o cuando el viento para. Este es el argumento más usado por los defensores de la nuclear en el debate sobre Nucles 3: «las renovables son inestables, se necesita energía de base». Volvemos al punto de la geotermia: que las renovables de base no se construyan lo suficientemente rápido (con una brecha de 27 veces respecto al objetivo) es el soporte político para el cronograma de reapertura de Nucles 3 en 2028.
 
-This human error triggered a busbar ground fault, tripping four units and instantly losing 2.2 GW of power generation capacity. Starting at 3 PM, Taiwan implemented six rounds of regional power rationing, each lasting 50 minutes, affecting about 4 million households. To make matters worse, solar power generation decreased with sunset, and drought reduced hydropower. It was not until 7 PM when coal units came back online, and 8 PM when power was fully restored.
+## Aquella tarde del 13 de mayo
 
-Four days later, on May 17, Hsingda Unit 1 failed again, bringing a second round of blackouts. The two events combined affected over 5.62 million households[^16].
+El 13 de mayo de 2021, a las 14:37, en la subestación de ultra alta tensión de Lubei en la planta eléctrica de Xingda, Kaohsiung, un operador activó el interruptor n.º 3541 cuando debía activar el n.º 3542[^16].
 
-May 13 and May 17 exposed how fragile a transitioning power system is, far beyond the level of human negligence. The government's solution is energy storage: planning 1.5 GW of battery storage by 2025, expanding to 8.6 GW by 2030. But storage costs remain high, and the technology is still maturing.
+Este error humano provocó una falla a tierra en la barra colectora, haciendo saltar cuatro unidades y perdiendo instantáneamente 2,2 GW de capacidad de generación. A partir de las 15:00 se implementaron seis rondas de cortes eléctricos zonales en todo Taiwán, cada una de 50 minutos, afectando a unos 4 millones de hogares. Para empeorar la situación, la generación solar disminuyó con el atardecer y la sequía había reducido la generación hidroeléctrica. No fue hasta las 19:00 que las unidades de carbón volvieron a entrar en línea, y a las 20:00 se restableció la electricidad totalmente.
 
-This is the most honest side of energy transition: the old system is no longer sufficient, and the new system is not yet ready. **Whether the Nuclear Three extension referendum passes or not cannot change this reality; it can only delay or accelerate the time of facing it.**
+Cuatro días después, el 17 de mayo, la unidad 1 de Xingda volvió a fallar, provocando una segunda ola de apagones. Ambos eventos afectaron a más de 5,62 millones de hogares[^16].
 
-## Giving Carbon a Price
+El «513» y el «517» expusieron la fragilidad de un sistema eléctrico en plena transición; no fue solo un problema de error humano. La solución del gobierno es el almacenamiento de energía: planificar 1,5 GW de baterías para 2025 y ampliarlo a 8,6 GW para 2030. Pero los costes siguen siendo altos y la tecnología aún está madurando.
 
-On August 7, 2023, the Taiwan Carbon Exchange was listed in the Asia New Bay Area of Kaohsiung, with an initial paid-in capital of 1 billion NTD and a planned capital of 1.5 billion NTD; the Stock Exchange contributed 600 million NTD, and the National Development Fund contributed 400 million NTD[^17]. On December 22, 2023, the first batch of international carbon credit transactions was completed: 45 enterprises purchased about 88,500 tons of CO₂ equivalent international carbon credits for over $800,000[^17].
+Esta es la cara más honesta de la transición energética: el sistema viejo ya no es suficiente y el nuevo aún no está listo. **Que el referéndum de Nucles 3 se apruebe o no, no cambia esta realidad; solo puede retrasar o acelerar el momento de enfrentarla.**
 
-In 2025, the domestic carbon fee system officially went online, and Taiwan entered the "Year of Carbon Pricing"[^18]. Formosa Plastics' energy efficiency improvement project was listed at 3,000 NTD per ton; Hanbao Agriculture's biogas power generation project was priced at 3,000 to 4,000 NTD. But the market is still exploring: trading volume is low, and enterprises generally believe domestic carbon credit prices are too high.
+## Ponerle precio al carbono
 
-At the same time, tech giants like TSMC and Foxconn are already seizing the beachhead in another battlefield. Under the RE100 initiative, these enterprises have committed to using 100% renewable energy. TSMC plans to reach net-zero emissions by 2050. When international customers make green power a supply chain threshold, green power supply becomes an industrial survival issue, not just an environmental issue.
+El 7 de agosto de 2023, se inauguró en la zona de Asia New Bay en Kaohsiung la Bolsa de Créditos de Carbono de Taiwán, con un capital social inicial de 1.000 millones de TWD y un capital planificado de 1.500 millones; de los cuales 600 millones fueron aportados por la Bolsa de Valores y 400 millones por el Fondo de Desarrollo Nacional[^17]. El 22 de diciembre del mismo año se completó la primera transacción de créditos internacionales: 45 empresas adquirieron unos 88.500 toneladas equivalentes de $\text{CO}_2$ por más de 800.000 USD[^17].
 
-The EU Carbon Border Adjustment Mechanism (CBAM) will enter the formal system in 2026, increasing the carbon cost and reporting pressure for high-carbon products such as steel, cement, aluminum, fertilizers, electricity, and hydrogen exported to Europe[^9]. Taiwan's manufacturing industry is dominated by energy-intensive industries; the four major industries of steel, petrochemicals, cement, and paper account for 60% of industrial emissions. This is another physical limit, a timeline set by international trade structure for Taiwan.
+En 2025, el sistema nacional de tasas sobre el carbono entró oficialmente en vigor, marcando el «año uno de la fijación del precio del carbono» en Taiwán[^18]. Proyectos de mejora de eficiencia energética de Formosa Plastics se cotizaron a 3.000 TWD por tonelada, mientras que proyectos de generación por biogás de Hanbao Agriculture and Livestock se fijaron entre 3.000 y 4.000 TWD. Pero el mercado sigue tanteando: el volumen de transacciones es bajo y las empresas consideran que los precios nacionales son demasiado altos.
 
-In the 2024 National Day Speech, Lai Ching-te announced the launch of "Secondary Energy Transition," covering three directions: diversified green energy, deep energy saving, and advanced energy storage[^19]. But renewable energy share in 2025 remained significantly below the original 20% target; depending on statistical口径, it was about 12.7% to 13.1%[^20]. The Ministry of Economic Affairs has now changed the estimate to say it can reach 20% from November 2026, and about 30% by 2030.
+Al mismo tiempo, gigantes tecnológicos como TSMC y Foxconn ya están compitiendo en otro frente. Bajo la iniciativa RE100, estas empresas se han comprometido a usar energía 100 % renovable. TSMC planea alcanzar el cero neto para 2050. Cuando los clientes internacionales convierten la electricidad verde en un requisito de la cadena de suministro, el suministro de energía limpia se convierte en una cuestión de supervivencia industrial y no solo en un tema ambiental.
 
-## Algae Reef, Dawu, Meigong: Fault Lines of Environmental Justice
+Cuando el Mecanismo de Ajuste en Frontera por Carbono (CBAM) de la Unión Europea entre plenamente en vigor en 2026, aumentará los costes y la presión de declaración para productos con alta huella de carbono como acero, cemento, aluminio, fertilizantes, electricidad e hidrógeno[^9]. La industria manufacturera de Taiwán es intensiva en energía; el acero, la petroquímica, el cemento y el papel representan el 60 % de las emisiones industriales. Este es otro límite físico: el cronograma impuesto a Taiwán por la estructura del comercio internacional.
 
-Every energy path has its own opponents, and every opponent has their own history.
+En su discurso del Día Nacional de 2024, Lai Ching-te anunció el inicio de una «segunda transición energética», que abarca tres direcciones: energías verdes diversificadas, ahorro energético profundo y almacenamiento avanzado[^19]. Sin embargo, en 2025 la proporción de renovables sigue estando notablemente por debajo del objetivo original del 20 %; según la métrica utilizada, se sitúa entre el 12,7 % y el 13,1 %[^20]. El Ministerio de Economía ha modificado la previsión, estimando que se alcanzará el 20 % a partir de noviembre de 2026 y aproximadamente el 30 % para 2030.
 
-**Taoyuan Algae Reef**. The 2021 "Save Algae Reef Referendum" (Case 20) opposed Taipower building the Third Natural Gas Receiving Terminal on the Datan coast, aiming to protect the world's largest columnar algae reef terrain. The referendum failed, and the Three-Interface compromise plan went online: port area pushed out, avoiding high-density algae reef areas. Algae reef scholars still believe the EIA was insufficient, but the EIA Committee passed the review in 2023. The controversy has not subsided; this is the physical/ecological intersection of "building natural gas for carbon reduction, moving algae reefs for natural gas."
+## Arrecifes, el pueblo Tao y Meinong: las fallas de la justicia ambiental
 
-**Lanyu Dawu People**. From 1982 to 2026, 44 years of nuclear waste storage history is Taiwan's longest wound of environmental justice. Dawu people continued to protest relocation misses in 2024; in May of that year, the NSA announced it required Taipower to complete relocation by 2029. But where to relocate remains unanswered[^24].
+Cada ruta energética tiene sus opositores, y cada opositor tiene su historia.
 
-**Meigong Anti-Dam**. The Meigong Anti-Dam Movement of the 1990s,凝聚ing resistance with "Meigong Yellow Butterfly Festival" and "Hakka Spirit," ultimately forced the dam project to retreat, a classic of Taiwan's community-based environmental movement. Reading Meigong today, one finds its spirit still influencing other energy battlefields: every wind turbine, every solar panel, every transmission line entering a locality encounters the response "We oppose the transition costs being borne by us, not opposing energy transition itself."
+**Los arrecifes de coral de Taoyuan**. El referéndum de 2021 «Protejamos los Arrecifes» (Caso 20) se opuso a la construcción de la tercera terminal de gas natural en la costa de Datam para proteger el terreno de arrecifes columnares más grande del mundo. El referéndum no prosperó y se implementó una solución intermedia: desplazar la zona portuaria para evitar las áreas de alta densidad de coral. Los expertos sostienen que el estudio de impacto ambiental fue insuficiente, pero el comité lo aprobó en 2023. La disputa persiste; es el cruce físico/ecológico donde «para reducir carbono hay que construir gas natural, y para el gas natural hay que alterar los arrecifes».
 
-> 📝 **Curator's Note:** Common environmental justice discussions often stop at "balancing development and environmental protection," but this framing flattens the problem. The true commonality of Lanyu, Algae Reef, and Meigong is: **they are all post-1980s decision legacies, paid for by 1990-2020 social movements**. Energy transition will produce many new "Lanyus" and "Algae Reefs" before 2050 (Changhua fishermen for offshore wind, Yilan indigenous for geothermal, Tainan salt fields for solar). The real question is "Can we avoid repeating the 1982 decision-making model?"
+**El pueblo Tao de Lanyu**. Desde 1982 hasta 2026, la historia de 44 años del depósito de residuos nucleares es la herida más larga de la justicia ambiental en Taiwán. El pueblo Tao continuó protestando en 2024 por el incumplimiento del traslado; en mayo del mismo año, el Consejo de Energía Nuclear exigió a Taipower completar la mudanza para 2029. Pero el destino sigue sin respuesta[^24].
 
-For detailed environmental justice historical context, see [Taiwan Environmental Movement History](/es/nature/taiwan-environmental-movement-history) and [Taiwan Marine Pollution Governance and Conservation Challenges](/es/nature/marine-pollution-governance-and-conservation).
+**El rechazo a la presa en Meinong**. El movimiento contra la presa de Meinong en los años 90, cohesionado por el «Festival de las Mariposas Amarillas» y el «espíritu Hakka», logró detener el proyecto y es un clásico del movimiento ambiental comunitario en Taiwán. Leer hoy sobre Meinong revela que su espíritu sigue influyendo en otros frentes energéticos: cada aerogenerador, panel solar o línea de transmisión que llega a una localidad se encuentra con la respuesta: «no nos oponemos a la transición energética en sí, sino a que el coste de dicha transición recaiga sobre nosotros».
 
-## 9 Trillion NTD and Physical Limits
+> 📝 **Nota del curador**: El debate común sobre justicia ambiental suele detenerse en «equilibrar desarrollo y medio ambiente», pero este marco simplifica demasiado el problema. El verdadero punto común entre Lanyu, los arrecifes y Meinong es que **todos son secuelas de decisiones tomadas después de la década de 1980, pagadas por movimientos sociales entre 1990 y 2020**. La transición energética generará nuevos «Lanyus» y «arrecifes» antes de 2050 (como los pescadores de Changhua con la eólica marina, los indígenas de Yilan con la geotermia o las salinas de Tainan con la solar). El problema real es si podemos evitar repetir el modelo de decisión de 1982.
 
-Putting all energy on the same table, the gap in physical limits becomes visible.
+Para un contexto detallado sobre la historia de la justicia ambiental, véanse [Historia del movimiento ambiental en Taiwán](/es/nature/taiwan-environmental-movement-history) y [Desafíos de conservación y gestión de la contaminación marina en Taiwán](/es/nature/marine-pollution-governance-and-conservation).
 
-| Energy                  | Taiwan Theoretical Potential   | 2025 Status   | Government Target / Timeline | Main Physical Limit                   |
-| ----------------------- | ------------------------------ | ------------- | ---------------------------- | ------------------------------------- |
-| Offshore Wind           | One of the best globally       | 4.5 GW        | 13 GW by 2030, 55 GW by 2050 | Marine Engineering / Fishery Conflict |
-| Solar PV                | Rooftop + Agrivoltaics         | 14.3 GW       | 31 GW by 2030                | Land Acquisition / Intermittency      |
-| Geothermal (Shallow)    | ≤ 1,000 MW                     | 7.4 MW        | 200 MW by 2030, 6 GW by 2050 | Underground Uncertainty / Financing   |
-| Geothermal (Deep EGS)   | 33,640 MW (Theoretical)        | Lab Stage     | 2040+                        | EGS Technology Not Commercialized     |
-| Ocean Energy            | 9.4 GW (Theoretical)           | 100 kW Trial  | 2030+                        | Marine Engineering Durability         |
-| Hydrogen (Green)        | Requires Large Renewable Power | Hsingda Trial | 2030+                        | Electrolysis Cost / Leakage GWP       |
-| Nuclear Three Extension | 1,902 MW                       | 2025 Shutdown | Earliest Restart 2028        | Nuclear Waste / Safety Review         |
-| Fourth-Gen Nuclear SMR  | No Local Plan                  | US 2030 Trial | 2045+                        | Sodium Safety / Nuclear Proliferation |
+## 9 billones de TWD y el límite físico
 
-This table answers one question: **Without nuclear energy, can Taiwan achieve 2050 net-zero?**
+Al poner todas las energías en una misma tabla, emergen las brechas del límite físico.
 
-Technically, yes. The NDF's roadmap lists 12 key strategies, estimating 9 trillion NTD in investment[^10]. But it requires offshore wind, solar PV, geothermal, ocean energy, hydrogen, and storage to **simultaneously** achieve their respective targets. And currently, geothermal is 27 times short, ocean energy is still at kW level, hydrogen is still in trial, and storage costs are still high.
+| Energía                  | Potencial Teórico en Taiwán      | Situación Actual (2025)  | Objetivo / Plazo Gob.      | Principal Límite Físico                  |
+| :----------------------- | :------------------------------- | :----------------------- | :------------------------- | :--------------------------------------- |
+| Eólica Marina            | Uno de los mejores del mundo     | 4,5 GW                   | 13 GW (2030), 55 GW (2050) | Ing. marina / Conflictos pesqueros       |
+| Solar Fotovoltaica       | Tejados + Agrivoltaica           | 14,3 GW                  | 31 GW (2030)               | Adquisición de tierras / Intermitencia   |
+| Geotermia (Superficial)  | $\le$ 1.000 MW                   | 7,4 MW                   | 200 MW (2030), 6 GW (2050) | Incertidumbre subterránea / Financiación |
+| Geotermia (Profunda EGS) | 33.640 MW (Teórico)              | Fase de laboratorio      | 2040+                      | Tecnología EGS no comercializada         |
+| Energía Oceánica         | 9,4 GW (Teórico)                 | Prueba de 100 kW         | 2030+                      | Durabilidad ing. marina                  |
+| Hidrógeno (Verde)        | Requiere mucha energía renovable | Pruebas en planta Xingda | 2030+                      | Coste electrólisis / Fugas GWP           |
+| Extensión Nucles 3       | 1.902 MW                         | Parada en 2025           | Reapertura más rápida 2028 | Residuos nucleares / Revisión seguridad  |
+| Nuclear Gen 4 SMR        | Sin planes locales               | Prueba EE. UU. 2030      | 2045+                      | Seguridad sodio / No proliferación       |
 
-Every physical limit is time.
+Esta tabla responde a una pregunta: **¿Puede Taiwán alcanzar el cero neto para 2050 sin recurrir a la energía nuclear?**
 
-In Hsu Hsiung-hsiung's model, Taiwan after 2060 will have no winter[^1]. In coastal risk assessments, western low-lying areas are facing higher sea-level rise and storm surge pressure[^3]. From 1911 to 2020, Taiwan's annual average temperature has risen **1.6°C**, almost one and a half times the global average (1.1°C) for the same period[^1].
+Técnicamente, sí. La hoja de ruta del Consejo de Desarrollo Nacional enumera 12 estrategias clave con una inversión prevista de 9 billones de TWD[^10]. Pero esto requiere que la eólica marina, la solar, la geotermia, la oceánica, el hidrógeno y el almacenamiento alcancen **simultáneamente** sus objetivos. Y actualmente la geotermia está a 27 veces de su meta, la energía oceánica sigue en escala de kW, el hidrógeno está en pruebas y los costes de almacenamiento son altos.
 
-## An Island Warming by One and a Half Degrees
+Cada límite físico es tiempo.
 
-In the summer of 2017, Hsu Hsiung-hsiung of the Academia Sinica's Center for Environmental Change Research stared at data on his screen and made a prediction that colleagues were reluctant to say publicly: if emission trends continue, Taiwan's winter might disappear completely after 2060[^1]. Winter days drop to zero, summer stretches to seven months.
+En el modelo de Hsu Huang-hsiung, Taiwán no tendrá invierno después de 2060[^1]. En las evaluaciones de riesgo costero, las zonas bajas del oeste enfrentan una mayor presión por la subida del nivel del mar y marejadas ciclónicas[^3]. De 1911 a 2020, la temperatura media anual en Taiwán aumentó **1,6 °C**, casi una vez y media el promedio global (1,1 °C)[^1].
 
-This is not science fiction. Days above 35°C in Taipei have surged from 3 days a year in the 1960s to 15 days in the last decade[^2]. The south is more severe; Tainan and Kaohsiung annual high-temperature days have exceeded 30 days.
+## Una isla que se calienta una vez y media más rápido
 
-In the same building, Wang Chung-ho of the Institute of Earth Sciences is calculating another set of numbers. His conclusion is equally unsettling: the rate of sea-level rise around Taiwan is twice the global average[^3]. Multiple simulations indicate that sea-level rise and storm surges will increase the risk of inundation for Taiwan's western low-lying coastal areas; among the six municipalities, the exposed population and land area in New Taipei, Tainan, and Kaohsiung are particularly concerning.
+En el verano de 2017, Hsu Huang-hsiung, del Centro de Investigación sobre el Cambio Ambiental de la Academia Sinica, observó los datos en su pantalla y lanzó una predicción que sus colegas apenas se atrevían a decir en voz alta: si la tendencia de emisiones no cambia, el invierno en Taiwán podría desaparecer por completo después de 2060[^1]. Los días de invierno caerían a cero y el verano se alargaría hasta siete meses.
 
-Rain's temperament has also changed. Taiwan's total rainfall has not significantly decreased, but it doesn't fall when it should, and falls heavily when it does. Spring rainfall has sharply decreased, dry seasons are drier. In 2021, Taiwan suffered its most severe drought in 56 years, reservoir storage rates hit historical lows, and TSMC once sent water trucks to factories for water[^4]. In May of the same year, two major blackouts struck the island in succession.
+No es ciencia ficción. Los días con más de 35 °C en Taipéi pasaron de 3 días al año en la década de 1960 a casi 15 días en la última década[^2]. En el sur es peor: Tainan y Kaohsiung ya superan los 30 días de temperaturas extremas.
 
-Days with over 200 mm of rainfall per day have increased from an annual average of 5 days in the 1960s to 8 days in recent years. The 2009 Morakot Typhoon created a cumulative rainfall record of 2,884 mm at Alishan[^5]; the rain falling in three days was equivalent to Taipei's entire annual rainfall. In that typhoon, in the early morning, the village of Hsiao-lin in Jiashan, Kaohsiung was buried by collapsing earth and rocks from Xiandu Mountain, killing 491 people[^6].
+En el mismo edificio, Wang Chung-ho, del Instituto de Ciencias de la Tierra, calculaba otros números. Su conclusión es igualmente inquietante: la velocidad de subida del nivel del mar alrededor de Taiwán es el doble del promedio global[^3]. Diversas simulaciones indican que esto, sumado a las marejadas, aumentará el riesgo de inundaciones en las costas bajas del oeste; entre las seis ciudades principales, la población y el terreno expuestos en Nuevo Taipéi, Tainan y Kaohsiung son especialmente preocupantes.
 
-> "Every chair represents one family member." Survivor Wang Min-liang later said to visitors in the Hsiao-lin Memorial Park like this. He established the Sunlight Hsiao-lin Community, touring the island with the tribe's Grand Manzu Dance Troupe. (Quote from Public Television's _Our Island_)
+El temperamento de la lluvia también ha cambiado. La precipitación total no ha disminuido significativamente, pero ahora llueve cuando no debe y cae con una violencia extrema. Las lluvias de primavera han caído drásticamente y la estación seca es más seca. En 2021, Taiwán sufrió la sequía más grave en 56 años; el nivel de los embalses alcanzó mínimos históricos y TSMC tuvo que enviar camiones cisterna a sus fábricas para suministrar agua[^4]. Ese mismo mayo, dos grandes apagones golpearon la isla.
 
-The 2024 _National Climate Change Science Report_ hosted by Hsu Hsiung-hsiung points out: extreme rainfall events that currently occur once every 50 years may occur once every 10 years in the future[^7]. Yunlin, Tainan, and Keelung are the areas with the highest coastal flood risk.
+Los días con lluvias torrenciales superiores a 200 mm pasaron de una media anual de 5 días en los años 60 a 8 días recientemente. En 2009, el tifón Morakot registró un acumulado de 2.884 mm en Alishan[^5], la mayor cantidad de lluvia jamás observada en Taiwán; la lluvia de tres días equivalía a todo un año en Taipéi. Durante aquel desastre, la aldea de Xiaolin en Jiaxian, Kaohsiung, fue sepultada por el colapso del monte Xiandun, dejando 491 víctimas[^6].
 
-For an island of 23 million people, Taiwan's carbon emissions are disproportionately large: measured by fossil fuel CO₂ emissions, annual emissions are about 280 million tons, per capita about 11.7 tons, ranking in the global top tier; depending on different databases and statistical口径, the ranking is about 20th globally[^8]. Emissions are highly concentrated in energy use and power supply, with the energy sector having the highest proportion; the power generation structure remains the core of carbon reduction pressure. The root of the problem lies in the power generation structure: in Taiwan's 2024 power generation structure, gas is about 42.4%, coal about 39.3%, gas has surpassed coal for the first time; renewables are about 11.6%, nuclear about 4.2%[^20]. **This is an energy system still highly dependent on fossil fuels, and Taiwan relies on imports for 98% of its energy. Energy security and climate crisis are the same question.**
+> «Cada silla representa a un familiar». Así decía el superviviente Wang Min-liang a los visitantes en el Parque Conmemorativo de Xiaolin. Fundó la comunidad Sunlight Xiaolin y organiza giras por todo Taiwán con el grupo de danza y música del pueblo. (Citado de _Nuestra Isla_ de PTS).
 
-## Parallelism of Democracy and Physics
+El «Informe Científico Nacional sobre el Cambio Climático 2024», coordinado por Hsu Huang-hsiung, señala que los eventos de lluvia extrema que ocurrían cada 50 años podrían ocurrir ahora cada 10 años[^7]. Yunlin, Tainan y Keelung son las zonas con mayor riesgo de inundaciones costeras.
 
-The evening of August 23, 2025, the Nuclear Three referendum pushed all the contradictions of this question onto the ballot screen.
+Para una isla de 23 millones de personas, las emisiones de carbono de Taiwán son desproporcionadamente altas: en términos de $\text{CO}_2$ por combustibles fósiles, emite unos 280 millones de toneladas anuales (unos 11,7 toneladas per cápita), situándose entre los niveles más altos del mundo; según diversas bases de datos, se ubica aproximadamente en el puesto veinte a nivel global[^8]. Las emisiones se concentran en el uso de energía y la generación eléctrica. El núcleo del problema es la estructura de generación: en 2024, el gas natural representó el 42,4 % y el carbón el 39,3 % (el gas superó al carbón por primera vez); las renovables fueron el 11,6 % y la nuclear el 4,2 %[^20]. **Este es un sistema energético aún muy dependiente de combustibles fósiles, y Taiwán importa el 98 % de su energía. La seguridad energética y la crisis climática son el mismo problema.**
 
-74% approval, 29.53% turnout, threshold not met, Taipower submission in March 2026, earliest restart 2028. Simultaneously: Lanyu 97,672 barrels, Finland Onkalo took 50 years, geothermal 27 times short, ocean energy still at 100 kW, fourth-generation nuclear energy until 2045. Every number asks: **Can the speed of democracy keep up with the speed of physics?**
+## El paralelismo entre la democracia y la física
 
-| Democratic Timeline                          | Physical Timeline                         |
-| -------------------------------------------- | ----------------------------------------- |
-| 2025/08/23 Referendum Results                | Lanyu Opened 1982, Still There 2057       |
-| 2025/08/25 Three Principles Press Conference | Nuclear Waste Isolation 100,000 Years     |
-| 2026/03/27 Taipower Submission               | Ultimate Repository Finland Took 50 Years |
-| 2028 Earliest Restart                        | Geothermal 27 Times Short                 |
-| 2050 Net-Zero Target                         | Ocean Energy Still 100 kW Trial           |
+El referéndum de Nucles 3 de la tarde del 23 de agosto de 2025 puso todas las contradicciones sobre la pantalla de recuento.
 
-Whether 9 trillion NTD can buy a different future, no one knows. But the consequences of not spending this money, we are already seeing: Hsu Hsiung-hsiung's 2060 no winter, Morakot's 2,884 mm, May 13 rolling blackouts, Algae Reef Referendum撕裂, Lanyu's 44-year wait.
+74 % a favor, 29,53 % de participación, umbral no alcanzado, solicitud enviada por Taipower en marzo de 2026, reapertura más rápida en 2028. Simultáneamente: 97.672 barriles en Lanyu, Onkalo en Finlandia tardando 50 años, la geotermia a 27 veces de su meta, la energía oceánica en pruebas de 100 kW y la cuarta generación nuclear para 2045. Cada cifra pregunta: **¿puede la velocidad de la democracia seguir el ritmo de la velocidad de la física?**
 
-[PanSci reports](https://pansci.asia/archives/367417) citing industry consensus: "**The fastest progress on global ultimate repositories is Finland's Onkalo project, which received an operating license in August 2024. This project started planning in the 1970s and took nearly half a century to reach the trial operation stage**"[^29]. Taiwan's ultimate repository has not even selected a site. Even if Nuclear Three restarts in 2028, every new fuel rod produced during the restart period must find a place to be stored.
+| Cronograma Democrático                     | Cronograma Físico                                        |
+| :----------------------------------------- | :------------------------------------------------------- |
+| 23/08/2025 Recuento referéndum             | Lanyu inaugurado en 1982, posible permanencia hasta 2057 |
+| 25/08/2025 Rueda de prensa tres principios | Aislamiento de residuos nucleares por 100.000 años       |
+| 27/03/2026 Taipower envía solicitud        | Repositorio final en Finlandia tardó 50 años             |
+| Reapertura más rápida 2028                 | Geotermia a 27 veces del objetivo                        |
+| Objetivo cero neto 2050                    | Energía oceánica aún en pruebas de 100 kW                |
 
-Lanyu's 97,672 barrels will not disappear because the referendum passed or failed. They are there now, likely still there in 2029, and still there in 2057 (if relocation is missed again).
+Nadie sabe si 9 billones de TWD pueden comprar un futuro diferente. Pero ya empezamos a ver las consecuencias de no invertir ese dinero: el 2060 sin invierno de Hsu Huang-hsiung, los 2.884 mm de Morakot, las rondas de cortes eléctricos del «513», la fractura del referéndum de los arrecifes y la espera de 44 años en Lanyu.
 
-✦ **On August 23, 2025, the referendum failed. On March 27, 2026, Taipower still submitted the application. Between these two dates, the physical limits have not changed once. What has changed is whether we are willing to admit that this island, relying on imports for 98% of its energy, is queuing to face all the physical limits no one wants to face.**
+Un informe de [PanSci](https://pansci.asia/archives/367417) cita el consenso industrial: «**El proyecto con el avance más rápido en repositorios finales es Onkalo en Finlandia, que obtuvo su licencia experimental en agosto de 2024. Este plan comenzó en la década de 1970 y tardó casi medio siglo en llegar a este paso**»[^29]. Taiwán ni siquiera ha fijado el sitio de su repositorio final. Incluso si Nucles 3 reabre en 2028, cada nueva barra de combustible generada deberá encontrar un lugar donde almacenarse.
+
+Los 97.672 barriles de Lanyu no desaparecerán porque un referéndum se apruebe o no. Están allí ahora, probablemente seguirán allí en 2029 y, si el traslado vuelve a fallar, seguirán allí en 2057.
+
+✦ **El 23 de agosto de 2025, el referéndum no prosperó. El 27 de marzo de 2026, Taipower presentó la solicitud de todos modos. Entre estas dos fechas, el límite físico no cambió ni una sola vez. Lo que cambió fue nuestra voluntad de admitir que esta isla, dependiente en un 98 % de importaciones energéticas, está haciendo cola para enfrentar todos los límites físicos que nadie quiere enfrentar.**
 
 ---
 
-**Further Reading**:
+**Lecturas recomendadas**:
 
-- [Taiwan and Nuclear Energy Discussion](/es/society/taiwan-nuclear-debate) — This article writes about energy and physical limits; that article writes about the nuclear energy debate itself: 40 years of anti-nuclear/pro-nuclear, three referendums, and the social struggle of Lanyu nuclear waste.
-- [Taiwan Environmental Movement History](/es/nature/taiwan-environmental-movement-history) — From anti-nuclear to anti-air pollution, how Lanyu Dawu, Meigong Anti-Dam, and Algae Reef Referendum shaped today's energy politics.
-- [Taiwan Marine Pollution Governance and Conservation Challenges](/es/nature/marine-pollution-governance-and-conservation) — Nuclear Three outfall 80% coral bleaching, marine waste, and the ecological intersection of offshore wind.
-- [Taiwan Hot Springs and Geothermal](/es/nature/Taiwan Hot Springs and Geothermal Energy) — From Qingshui Geothermal 1981 failure to 2024 restart, how 30 years of geothermal silence formed.
-- [Taiwan Environmental Justice and NIMBY Controversies](/es/society/taiwan-environmental-justice-nimby-conflicts) — Lanyu, Algae Reef, Meigong: The distribution politics of energy transition costs.
-- [Taiwan Industrial Transformation and Upgrading](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — From energy-intensive manufacturing to green energy industries, TSMC RE100, CBAM, and the energy bill of the "Protecting Mountain God."
-- [Taiwan Agricultural Modernization Development](/es/economy/taiwan-agricultural-modernization) — Agricultural transformation pressure and land use conflicts behind agrivoltaics.
-- [Plum Rain](/es/nature/meiyu-stagnant-front) — Climate change local observations of "Spring rain doesn't come, Plum Rain concentrates."
+- [El debate sobre la energía nuclear en Taiwán](/es/society/taiwan-nuclear-debate) — Mientras este artículo trata la energía y los límites físicos, aquel analiza el debate nuclear: cuarenta años de pro/contra, tres referéndums y la lucha social por los residuos de Lanyu.
+- [Historia del movimiento ambiental en Taiwán](/es/nature/taiwan-environmental-movement-history) — Desde la energía nuclear hasta la contaminación del aire; cómo el pueblo Tao de Lanyu, el rechazo a la presa de Meinong y el referéndum de los arrecifes moldearon la política energética actual.
+- [Desafíos de conservación y gestión de la contaminación marina en Taiwán](/es/nature/marine-pollution-governance-and-conservation) — Blanqueo del 80 % de los corales en las salidas de agua de Nucles 3, residuos marinos y el cruce ecológico con la eólica marina.
+- [Aguas termales y geotermia en Taiwán](/es/nature/Taiwan Hot Springs and Geothermal Energy) — Del fracaso de Qingshui en 1981 a su reinicio en 2024; cómo se formó el silencio geotérmico de 30 años.
+- [Justicia ambiental y conflictos NIMBY en Taiwán](/es/society/taiwan-environmental-justice-nimby-conflicts) — Lanyu, arrecifes y Meinong: la política de distribución de los costes de la transición energética.
+- [Transformación y actualización industrial en Taiwán](/es/economy/industrial-transformation-from-manufacturing-to-innovation) — De la manufactura intensiva en energía a las industrias verdes; el balance energético de TSMC (RE100), CBAM y la «Montaña Dios Protector».
+- [Desarrollo de la modernización agrícola en Taiwán](/es/economy/taiwan-agricultural-modernization) — La presión de transformación agrícola y los conflictos de uso de suelo detrás de la agrivoltaica.
+- [Lluvias de mayo (Meiyu)](/es/nature/meiyu-stagnant-front) — Observaciones locales sobre el cambio climático: «la lluvia de primavera no llega, la de mayo se concentra».
 
-## Image Sources
+## Fuentes de imágenes
 
-- **Nuclear Three Plant Exterior (Pingtung Hengchun Maanshan, hero)**: [Maanshan Nuclear Power Plant, Nan Wan](https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg) (Photography: M. Weitzel, Wikimedia Commons, CC BY-SA 3.0)
-- **Onkalo Underground Repository (Finland Olkiluoto)**: [Onkalo spent nuclear fuel repository entrance](https://commons.wikimedia.org/wiki/File:Onkalo_spent_nuclear_fuel_repository_entrance.jpg) (Photography: Posiva Oy, Wikimedia Commons, CC BY-SA 4.0)
-- **Hai Neng Offshore Wind Farm off Miaoli**: [Hai Long offshore wind farm](https://commons.wikimedia.org/wiki/File:Hai_Long_offshore_wind_farm.jpg) (Wikimedia Commons, CC BY-SA 4.0)
-- **Solar Panels on Xihu Service Area Roof**: [Xihu Service Area solar panels](https://commons.wikimedia.org/wiki/File:Xihu_Service_Area_solar_panels.jpg) (Wikimedia Commons, CC BY-SA 3.0)
+- **Vista exterior de Nucles 3 (Maanshan, Hengchun, Pingtung)**: [Maanshan Nuclear Power Plant, Nan Wan](https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg) (Foto: M. Weitzel, Wikimedia Commons, CC BY-SA 3.0).
+- **Repositorio subterráneo Onkalo (Olkiluoto, Finlandia)**: [Onkalo spent nuclear fuel repository entrance](https://commons.wikimedia.org/wiki/File:Onkalo_spent_nuclear_fuel_repository_entrance.jpg) (Foto: Posiva Oy, Wikimedia Commons, CC BY-SA 4.0).
+- **Parque eólico marino Hai Long frente a Miaoli**: [Hai Long offshore wind farm](https://commons.wikimedia.org/wiki/File:Hai_Long_offshore_wind_farm.jpg) (Wikimedia Commons, CC BY-SA 4.0).
+- **Paneles solares en el tejado de una estación de servicio**: [Xihu Service Area solar panels](https://commons.wikimedia.org/wiki/File:Xihu_Service_Area_solar_panels.jpg) (Wikimedia Commons, CC BY-SA 3.0).
 
-## References
+## Referencias
 
-[^1]: [United Daily News Vision Project: Hsu Hsiung-hsiung Interview](https://ubrand.udn.com/ubrand/story/123658/5679341) — Academia Sinica Center for Environmental Change Research Distinguished Researcher Hsu Hsiung-hsiung's team analyzed Taiwan's temperature data from 1911-2020, pointing out Taiwan's century-long warming of 1.6°C, winter shortened by nearly half, worst-case scenario winter days may drop to zero after 2060.
+[^1]: [Visión del Grupo United Daily News: Entrevista con Hsu Huang-hsiung](https://ubrand.udn.com/ubrand/story/123658/5679341) — El equipo de Hsu Huang-hsiung analiza datos de temperatura en Taiwán (1911-2020), señalando un aumento de 1,6 °C en un siglo y la posible desaparición del invierno para 2060.
 
-[^2]: [Central Weather Bureau Climate Change Information Platform](https://www.cwb.gov.tw/V8/C/C/C04/index.html) — Taiwan climate observation historical database, recording century-long temperature, rainfall, extreme weather event records of each station, including the increasing trend of days above 35°C in Taipei.
+[^2]: [Plataforma de Información sobre Cambio Climático de la Agencia Meteorológica Central](https://www.cwb.gov.tw/V8/C/C/C04/index.html) — Base de datos histórica con tendencias de días superiores a 35 °C en Taipéi.
 
-[^3]: [CSRone Sustainable Think Tank: Wang Chung-ho Interview](https://csrone.com/topics/8024) — Academia Sinica Institute of Earth Sciences Adjunct Researcher Wang Chung-ho has long tracked Taiwan's sea-level changes, pointing out the rate of sea-level rise around Taiwan is higher than the global average; the article uses a more conservative risk description to avoid simplifying different research scenarios into absolute conclusions.
+[^3]: [Think Tank CSRone: Entrevista con Wang Chung-ho](https://csrone.com/topics/8024) — Análisis sobre la subida del nivel del mar en Taiwán, superior al promedio global.
 
-[^4]: [BBC Chinese: Taiwan's 56-Year Worst Drought (2021)](https://www.bbc.com/zhongwen/trad/chinese-news-56699038) — Reporting on the 2021 severe drought in central and southern Taiwan, reservoir storage rates dropped below 10%, tech factories like TSMC activated water truck emergency measures.
+[^4]: [BBC Chinese: La sequía más grave de Taiwán en 56 años (2021)](https://www.bbc.com/zhongwen/trad/chinese-news-56699038) — Informe sobre la crisis hídrica y las medidas de emergencia de TSMC.
 
-[^5]: [National Center for Disaster Prevention and Rescue Technology Center: Morakot Typhoon Disaster Record](https://den.ncdr.nat.gov.tw/1132/1188/1204/2447/2505/) — Official disaster archive, recording Morakot Typhoon Alishan station cumulative rainfall of 2,884 mm, the highest record in Taiwan's meteorological observation history.
+[^5]: [Centro Nacional de Tecnología para la Prevención y Reducción de Desastres: Registro del Tifón Morakot](https://den.ncdr.nat.gov.tw/1132/1188/1204/2447/2505/) — Archivo oficial con el récord de 2.884 mm en Alishan.
 
-[^6]: [The Reporter: Hsiao-lin Village Extinction Investigation](https://www.twreporter.org/a/bookreview-typhoon-morakot-xiaolin-village-disaster-causes) — In-depth investigation into the process of Hsiao-lin Village Xiandu Mountain collapse and the complete context of 491 deaths, including geological causes and early warning system failure analysis.
+[^6]: [The Reporter: Investigación sobre la desaparición de la aldea Xiaolin](https://www.twreporter.org/a/bookreview-typhoon-morakot-xiaolin-village-disaster-causes) — Análisis profundo sobre el colapso del monte Xiandun y las 491 víctimas.
 
-[^7]: [Environmental Information Center: 2024 National Climate Change Science Report](https://e-info.org.tw/node/239052) — Reporting key findings of the latest scientific report hosted by Hsu Hsiung-hsiung: 50-year extreme rainfall may become 10-year, days above 36°C may increase by 75 days.
+[^7]: [Centro de Información Ambiental: Informe Científico Nacional sobre el Cambio Climático 2024](https://e-info.org.tw/node/239052) — Hallazgos sobre la frecuencia de lluvias extremas y aumento de días calurosos.
 
-[^8]: [Ministry of Environment Greenhouse Gas Emission Statistics](https://ghgreg.epa.gov.tw/) — Taiwan official greenhouse gas emission database, recording national emission inventories, sectoral emissions, and per capita emission data over the years.
+[^8]: [Estadísticas de emisiones de gases de efecto invernadero de la EPA del Ejecutivo](https://ghgreg.epa.gov.tw/) — Base de datos oficial de emisiones nacionales y per cápita.
 
-[^9]: [EU Carbon Border Adjustment Mechanism Official Page](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en) — CBAM entered the transition period in October 2023, fully implemented in 2026, covering six major product categories: steel, cement, aluminum, fertilizers, electricity, and hydrogen.
+[^9]: [Página oficial del Mecanismo de Ajuste en Frontera por Carbono (CBAM) de la UE](https://taxation-customs.ec.europa.eu/carbon-border-adjustment-mechanism_en) — Detalles sobre el periodo de transición y aplicación total en 2026.
 
-[^10]: [Presidential Office Press Release: Tsai Ing-wen 2021 Earth Day Talk](https://www.president.gov.tw/News/26056) — Tsai Ing-wen first declared as President that "2050 Net-Zero Transition is the goal of the world, and also Taiwan's goal," laying the policy tone for the subsequent NDF Net-Zero Roadmap.
+[^10]: [Comunicado de prensa de la Presidencia: Discurso de Tsai Ing-wen en el Día de la Tierra 2021](https://www.president.gov.tw/News/26056) — Declaración del objetivo de cero neto para 2050.
 
-[^11]: [Ministry of Economic Affairs Energy Bureau: Offshore Wind Block Development Phase 3 Selection Mechanism Announcement Gunshot Starts](https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=122229) — Ministry of Economic Affairs announced on March 27, 2026, stating that as of March 26, 2026, Taiwan's cumulative offshore wind installed capacity is about 4.5GW, Phase 3 allocated capacity is 3.6GW, targeting completion and grid connection by 2030-2031.
+[^11]: [Administración de Energía del Ministerio de Economía: Anuncio sobre la Fase 3 de desarrollo eólico marino](https://www.moea.gov.tw/Mns/populace/news/News.aspx?kind=1&menu_id=40&news_id=122229) — Datos sobre capacidad instalada (4,5 GW) y objetivos para 2030-2031.
 
-[^12]: [PV Magazine: Taiwan solar and offshore wind targets](https://www.pv-magazine.com/2025/01/13/taiwan-to-add-8-2-gw-of-solar-offshore-wind-by-end-of-2026/) — Reporting Ørsted completed construction of 920MW for Da Changhua Southwest Phase II and Northwest Wind Farms, and Taiwan's plan to add 8.2GW of solar PV and offshore wind by the end of 2026.
+[^12]: [PV Magazine: Objetivos solares y eólicos marinos de Taiwán](https://www.pv-magazine.com/2025/01/13/taiwan-to-add-8-2-gw-of-solar-offshore-wind-by-end-of-2026/) — Informe sobre los proyectos de Ørsted en Changhua y planes de expansión hasta 2026.
 
-[^13]: [Environmental Information Center: Changhua Fishermen Protest Offshore Wind (2022)](https://e-info.org.tw/node/233449) — Reporting over a hundred fishermen going to the Executive Yuan to protest offshore wind farm navigation ban zones blocking generational operation sea areas, shouting "Eliminate Fishermen" slogan.
+[^13]: [Centro de Información Ambiental: Protestas de pescadores de Changhua contra la eólica marina (2022)](https://e-info.org.tw/node/233449) — Reportaje sobre el bloqueo de zonas de pesca tradicionales.
 
-[^14]: [Environmental Information Center: Court Rules Offshore Wind Navigation Restrictions Illegal (2025)](https://e-info.org.tw/node/241327) — Taiwan's first court challenge to offshore wind spatial governance ruling, determining navigation restrictions infringe on fishermen's rights, causing shock in the energy circle.
+[^14]: [Centro de Información Ambiental: Sentencia judicial declara ilegales las restricciones de navegación eólica (2025)](https://e-info.org.tw/node/241327) — Primer caso donde un tribunal cuestiona la gestión espacial energética.
 
-[^15]: [Taipower: Renewable Energy Power Generation Statistics](https://www.taipower.com.tw/tc/page.aspx?mid=204) — Taiwan Power Company official statistics, recording annual data of various renewable energy installed capacity and power generation; 2024 solar PV installed capacity 14,281 MW, power generation 14.9 billion kWh.
+[^15]: [Taipower: Estadísticas de generación de energía renovable](https://www.taipower.com.tw/tc/page.aspx?mid=204) — Datos oficiales sobre capacidad solar (14.281 MW en 2024).
 
-[^16]: [Taipower: 513 Blackout Accident Preliminary Investigation Out](https://www.taipower.com.tw/2289/2323/2324/7706/) — ; [Ministry of Economic Affairs: 513 and 517 Blackout Accident Review Report](https://www.moea.gov.tw/MNS/populace/news/wHandNews_File.ashx?file_id=95610) — Official data explains the accidental operation of switch 3541 in the 513 accident, causing an instantaneous reduction of about 2.2GW in power supply capacity and affecting about 4 million households, and organizing the 517 event and subsequent review.
+[^16]: [Taipower: Investigación preliminar del accidente eléctrico del 13 de mayo](https://www.taipower.com.tw/2289/2323/2324/7706/) — ; [Ministerio de Economía: Informe de revisión de los apagones del 513 y 517](https://www.moea.gov.tw/MNS/populace/news/wHandNews_File.ashx?file_id=95610) — Detalles sobre el error en el interruptor 3541
 
-[^17]: [Presidential Office Press Release: Taiwan Carbon Exchange Unveiling](https://www.president.gov.tw/News/27785) — ; [Taiwan Stock Exchange 2023 Annual Report](https://www.twse.com.tw/downloads/zh/about/company/Annual/112/P2.pdf) — Carbon Exchange unveiled on August 7, 2023; planned capital 1.5 billion NTD, initial paid-in capital 1 billion NTD, Stock Exchange contributed 600 million NTD, National Development Fund contributed 400 million NTD. Stock Exchange annual report also states the first batch of international carbon credit transactions totaled 88,520 tons CO2e, participating enterprises 27 (including 45 with financial holding subsidiaries).
+[^17]: [Comunicado de la Presidencia: Inauguración de la Bolsa de Créditos de Carbono de Taiwán](https://www.president.gov.tw/News/27785) — ; [Informe Anual 2023 de la Bolsa de Valores de Taiwán](https://www.twse.com.tw/downloads/zh/about/company/Annual/112/P2.pdf); [Análisis de Anew Model sobre el funcionamiento de la Bolsa de Carbono](https://news.cnyes.com/news/id/5193262) — Detalles financieros y primeras transacciones internacionales
 
-[^18]: [KPMG Taiwan: Carbon Pricing Trend Analysis (2025)](https://kpmg.com/tw/zh/home/insights/2025/02/2025-kpmg-insight/carbon-pricing.html) — Analyzing market dynamics after Taiwan's carbon fee system went online in 2025, including domestic carbon pricing (Formosa 3,000 NTD/ton, Hanbao Agriculture 3,000-4,000 NTD/ton) and the challenge of low trading volume.
+[^18]: [KPMG Taiwán: Análisis de tendencias en fijación de precios del carbono (2025)](https://kpmg.com/tw/zh/home/insights/2025/02/2025-kpmg-insight/carbon-pricing.html) — Dinámicas del mercado y precios de créditos nacionales.
 
-[^19]: [Reccessary: Taiwan Energy Policy 2025 Outlook](https://www.reccessary.com/zh-tw/news/how-will-taiwan-energy-policy-evolve-2025) — Reporting Lai Ching-te's 2024 National Day Speech announced "Secondary Energy Transition" policy direction: diversified green energy, deep energy saving, advanced energy storage.
+[^19]: [Reccessary: Perspectivas de la política energética de Taiwán 2025](https://www.reccessary.com/zh-tw/news/how-will-taiwan-energy-policy-evolve-2025) — Análisis del discurso de Lai Ching-te sobre la «segunda transición energética».
 
-[^20]: [Ministry of Economic Affairs Energy Bureau Statistics: Power Generation Structure - By Fuel Type](https://service.moea.gov.tw/EE521/common/Common.aspx?code=M&no=9) — ; [Ministry of Environment Energy Information Platform: Power Structure](https://energy.moenv.gov.tw/electricity-generation-mix/2408.html) — ; [Economic Daily: Ministry of Economic Affairs Says Renewable Energy Share Can Reach 20% from November 2026](https://money.udn.com/money/story/7307/8712340) — According to Ministry of Economic Affairs Energy Bureau statistics, 2024 gas about 42.4%, coal about 39.3%, renewables about 11.5% to 11.6%, nuclear about 4.2%; Ministry of Environment Energy Information Platform shows renewables share in national total power generation in 2025 is 13.1%, while Taipower system purchase-sell structure chart common口径 is about 12.7%, two different口径. Ministry of Economic Affairs stated in May 2025, estimated to reach 20% from November 2026, about 30% by 2030.
+[^20]: [Estadísticas de la Administración de Energía: Estructura de generación por combustible](https://service.moea.gov.tw/EE521/common/Common.aspx?code=M&no=9) — ; [Plataforma de Información Energética del Ministerio de Medio Ambiente](https://energy.moenv.gov.tw/electricity-generation-mix/2408.html); [Economic Daily News: Renovables alcanzarán el 20 % en noviembre de 2026](https://money.udn.com/money/story/7307/8712340) — Comparativa de métricas de generación eléctrica
 
-[^21]: [Taiwan Coral Reef Health Check Report (2020)](https://www.teia.tw/zh-hant/natural-valley/reefcheck/) — Annual coral reef survey led by Taiwan Environmental Information Association, recording 2020 large-scale coral bleaching events in Kenting, Green Island, and Lanyu.
+[^21]: [Informe de salud de los arrecifes de coral de Taiwán (2020)](https://www.teia.tw/zh-hant/natural-valley/reefcheck/) — Registro del blanqueo masivo de corales en Kenting, Isla Verde y Lanyu.
 
-[^22]: [Central Election Commission: 2025 August 23 National Referendum Results Announcement](https://www.cec.gov.tw/) — ; [CNA: Nuclear Three Extension Referendum 4.34 Million 'Yes' Votes Missed 1/4 Threshold, Failed](https://www.cna.com.tw/news/aipl/202508230253.aspx) — ; [Taipower: Nuclear Three Re-operation Plan Submitted to Nuclear Safety Commission Review Explanation (2026/03/27)](https://www.taipower.com.tw/) — 2025/08/23 Nuclear Three Extension Referendum: 'Yes' votes 4,342,206 (74.17%), 'No' votes 1,511,693, turnout 29.53%, missed Referendum Act threshold of 1/4 of total voters (5,005,230 votes), referendum failed. Taipower submitted Nuclear Three re-operation plan application to Nuclear Safety Commission on March 27, 2026, expected safety inspection schedule about 18 months, earliest restart 2028.
+[^22]: [Comisión Electoral Central: Resultados del referéndum nacional del 23 de agosto de 2025](https://www.cec.gov.tw/) — ; [CNA: Referéndum de Nucles 3 no alcanza el umbral](https://www.cna.com.tw/news/aipl/202508230253.aspx); [Taipower: Explicación sobre la solicitud de reactivación enviada al Consejo de Seguridad Nuclear (27/03/2026)](https://www.taipower.com.tw/) — Datos exactos de votos y plazos de reapertura
 
-[^23]: [CNA: Lai Ching-te Nuclear Three Referendum Post-Talk Proposes Nuclear Safety, Nuclear Waste, Social Consensus Three Principles](https://www.cna.com.tw/news/aipl/202508250089.aspx) — President Lai Ching-te issued formal response on August 25, 2025 regarding Nuclear Three extension referendum results, proposing "Three Principles" for future nuclear restart: Nuclear Safety Assurance, Nuclear Waste Solution, Social Consensus, and instructed Ministry of Economic Affairs and Nuclear Safety Commission to start safety inspection procedure evaluation.
+[^23]: [CNA: Discurso de Lai Ching-te tras el referéndum; propone los tres principios](https://www.cna.com.tw/news/aipl/202508250089.aspx) — Respuesta oficial sobre seguridad, residuos y consenso.
 
-[^24]: [Nuclear Subordinate Agency: Lanyu Storage Facility Storage Volume Announcement (2024)](https://www.aec.gov.tw/) — NSA official announcement, as of 2024 Lanyu low-level radioactive waste storage facility accumulated storage 97,672 barrels, since 1982 opening experienced 1996, 2002, 2016, 2019, 2023 multiple relocation promise misses, NSA requires Taipower to complete relocation by 2029. Content Curation Partner per MOU 2026-05-05.
+[^24]: [Consejo de Energía Nuclear: Anuncio de volumen de almacenamiento en Lanyu (2024)](https://www.aec.gov.tw/) — Datos sobre los 97.672 barriles e incumplimientos de traslado.
 
-[^25]: [Ministry of Economic Affairs Energy Bureau: Geothermal Power Generation Target and Commercial Capacity (2025)](https://www.moea.gov.tw/) — Government geothermal power generation policy target: 200 MW by 2030, 6 GW (6,000 MW) by 2050; as of end of 2025 Taiwan geothermal commercial capacity about 7.4 MW, mainly Yilan Qingshui Geothermal 4.2 MW and some small units, 27 times short of 2030 target.
+[^25]: [Administración de Energía del Ministerio de Economía: Objetivos y capacidad comercial geotérmica (2025)](https://www.moea.gov.tw/) — Comparativa entre la realidad (7,4 MW) y el objetivo 2030 (200 MW).
 
-[^26]: [Wikipedia: Lanyu Storage Facility](https://zh.wikipedia.org/wiki/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4) — Before Lanyu Storage Facility opened in 1982, Taipower told Dawu residents it was building a "fish cannery," failing to fully inform the nature of nuclear waste storage; 1988 Dawu people launched first "Exorcise Evil Spirits" protest action, marking the starting point of Taiwan's indigenous environmental movement.
+[^26]: [Wikipedia: Depósito de Lanyu](https://zh.wikipedia.org/wiki/%E8%98%AD%E5%B6%BC%E8%B2%AF%E5%AD%98%E5%A0%B4) — Antecedentes sobre el engaño de la «fábrica de conservas» y las protestas de 1988.
 
-[^27]: [PanSci: Nuclear Two Exit, Nuclear Waste Still to Be Stored for 20 Years](https://pansci.asia/archives/363266) — Content Curation Partner per MOU 2026-05-05. Nuclear Two Plant officially decommissioned at end of 2023, but nuclear fuel rods remain at high temperature and high radiation after reactor decommissioning, must be cooled in plant fuel pool for at least 5 years before they can be moved; Daren Township, Taitung County is the candidate site for low-level nuclear waste ultimate repository, site selection process stuck due to local political resistance.
+[^27]: [PanSci: El cierre de Nucles 2 deja residuos por otros 20 años](https://pansci.asia/archives/363266) — Análisis sobre el enfriamiento del combustible y el bloqueo en Daren.
 
-[^28]: [PanSci: What Is the Real Problem of Nuclear Power Extension](https://pansci.asia/archives/367408) — Content Curation Partner per MOU 2026-05-05. Nuclear power plant dry storage facility land issue stuck for over 11 years, New Taipei City Government refused to approve dry storage facility, causing spent fuel rods of Nuclear One and Nuclear Two to remain in plant fuel pool and exceed original design capacity; biggest obstacle to nuclear extension is the disposal of spent nuclear fuel.
+[^28]: [PanSci: ¿Cuál es el verdadero problema de extender la vida nuclear?](https://pansci.asia/archives/367408) — El conflicto con el gobierno de Nuevo Taipéi sobre el almacenamiento en seco.
 
-[^29]: [PanSci: Since Nuclear Waste Has Nowhere to Go, Is There Another Method](https://pansci.asia/archives/367417) — Content Curation Partner per MOU 2026-05-05. Fastest progress on global ultimate repositories is Finland's Onkalo project, received operating license in August 2024, started planning in 1970s, took nearly half a century to reach trial operation stage; ultimate repository needs to isolate waste for over 100,000 years, this timescale far exceeds the existence time of human civilization.
+[^29]: [PanSci: Si no hay sitio para los residuos, ¿hay otras formas?](https://pansci.asia/archives/367417) — Análisis del proyecto Onkalo y la escala temporal de 100.000 años.
 
-[^30]: [Posiva Oy: Onkalo Ultimate Repository Design Introduction](https://www.posiva.fi/en/index/finaldisposal.html) — Finland Posiva Company operated Onkalo repository official explanation, design goal is to isolate high-level radioactive nuclear waste for at least 100,000 years, including multi-barrier system (copper shell + bentonite + granite layer) and long-term memory warning system design.
+[^30]: [Posiva Oy: Introducción al diseño del repositorio final Onkalo](https://www.posiva.fi/en/index/finaldisposal.html) — Detalles técnicos sobre las barreras de cobre, bentonita y granito.
 
-[^31]: [Taitung County Daren Township Office: Low-Level Radioactive Waste Ultimate Repository Issue](https://www.darentown.gov.tw/) — Daren Township, Taitung County is one of two candidate sites for low-level nuclear waste ultimate repository (the other is Kinmen Wuchu), local public opinion divided, indigenous tribe opposition voices strong, site selection referendum has not successfully held.
+[^31]: [Oficina Municipal de Daren, Condado de Taitung: Cuestiones del repositorio final de baja actividad](https://www.darentown.gov.tw/) — Conflictos locales y falta de referéndums exitosos.
 
-[^32]: [PanSci: Nuclear Waste Space Disposal Feasibility Analysis](https://pansci.asia/archives/367417) — Content Curation Partner per MOU 2026-05-05. Nuclear waste space disposal is physically feasible but requires very stable and reliable rockets, if launch fails radiation pollution caused to Earth will be incalculable; with existing rocket failure rate, about 1 in 100 launches has risk, not meeting engineering practice needs.
+[^32]: [PanSci: Análisis de viabilidad de la eliminación espacial de residuos nucleares](https://pansci.asia/archives/367417) — Riesgos de contaminación atmosférica ante fallos de lanzamiento.
 
-[^33]: [PanSci: Improved Natural Gas Power Generation Technology Does Not Produce Carbon Dioxide? Gray Hydrogen, Blue Hydrogen, Green Hydrogen](https://pansci.asia/archives/374302) — Content Curation Partner per MOU 2026-05-05. Hydrogen color codes correspond to different production methods: Gray Hydrogen (Natural Gas SMR emits CO₂), Blue Hydrogen (Gray Hydrogen + CCS), Green Hydrogen (Renewable Electricity Electrolysis), Blue-Green Hydrogen (Methane Pyrolysis solid carbon capture no CO₂ emission); Taipower and Academia Sinica have collaborated on Hsingda Power Plant for decarbonization combustion technology testing.
+[^33]: [PanSci: ¿La generación con gas natural mejorada no emite $\text{CO}_2$? Hidrógeno gris, azul y verde](https://pansci.asia/archives/374302) — Explicación de los colores del hidrógeno y pruebas en Xingda.
 
-[^34]: [PanSci: Musk Disdains; Bill Gates Treasures! Hydrogen Energy](https://pansci.asia/archives/374277) — Content Curation Partner per MOU 2026-05-05. Besides Green Hydrogen, emerging White/Gold Hydrogen is naturally formed underground hydrogen, USGS estimates reserves may reach tens of billions of tons; but hydrogen's GWP100 is 11.6 times that of carbon dioxide, leakage will exacerbate warming problem (academic community still has 7-37 range controversy on GWP numbers).
+[^34]: [PanSci: Musk lo ignora; ¡Bill Gates lo atesora! Energía del hidrógeno](https://pansci.asia/archives/374277) — Análisis sobre el hidrógeno blanco/oro y la potencia del GWP del hidrógeno.
 
-[^35]: [USGS: Geological Hydrogen — A New Energy Frontier (2023)](https://www.usgs.gov/) — U.S. Geological Survey 2023 Geological Hydrogen Research Report, estimating global underground natural hydrogen reserves may reach tens of billions of tons, sufficient to provide energy for humanity for hundreds of years; France, Mali have commercial exploration cases, Taiwan plate boundaries active but currently no exploration plans.
+[^35]: [USGS: Geological Hydrogen — A New Energy Frontier (2023)](https://www.usgs.gov/) — Informe sobre reservas naturales de hidrógeno en el subsuelo.
 
-[^36]: [CNA: Yilan Tufang Geothermal Power Plant Construction Starts, Expected 2026 Launch](https://www.cna.com.tw/) — 2024 Yilan County Tufang Geothermal Power Plant 5.4 MW unit construction started, expected to launch in early 2026, Taiwan's second MW-scale commercial geothermal power plant; as of end of 2025 Taiwan geothermal commercial about 7.4 MW, including Qingshui Geothermal 4.2 MW and other small units.
+[^36]: [CNA: Inicio de obras de planta geotérmica en Tucheng, Yilan; inicio previsto 2026](https://www.cna.com.tw/) — Datos sobre la unidad de 5,4 MW y capacidad total de 7,4 MW.
 
-[^37]: [PanSci: Is Taiwan Developing Geothermal Power Generation Feasible (Part 1)](https://pansci.asia/archives/361200) — Content Curation Partner per MOU 2026-05-05. According to National Taiwan University study, deep geothermal (depth below 5 km) potential power generation reaches 33,640 MW, equivalent to about 12 Nuclear Four plants, but development requires EGS Enhanced Geothermal System technology still in R&D stage; shallow geothermal (depth within 3 km) potential estimated no more than 1,000 MW.
+[^37]: [PanSci: ¿Es viable el desarrollo de energía geotérmica en Taiwán? (Parte 1)](https://pansci.asia/archives/361200) — Diferencia entre potencial profundo (33 GW) y superficial ($\le$ 1 GW).
 
-[^38]: [PanSci: Geothermal Advantages and Taiwan Field Application](https://pansci.asia/archives/361200) — Content Curation Partner per MOU 2026-05-05. Geothermal is not affected by weather, is a 24-hour stable power generation baseload power source, has unique value in energy mix; but underground uncertainty leads to financing difficulties, is the fundamental bottleneck of Taiwan's geothermal development slow.
+[^38]: [PanSci: Ventajas de la geotermia y aplicaciones en Taiwán](https://pansci.asia/archives/361200) — Análisis sobre el valor de la carga base y los problemas de financiación.
 
-[^39]: [PanSci: "Protecting Mountain God" Higher, Power Pressure Greater: Taiwan Ocean Energy Is Solution](https://pansci.asia/archives/378154) — Content Curation Partner per MOU 2026-05-05. Taiwan surrounding waters ocean energy (current, wave, thermal) theoretical potential reaches 9.4 GW; Kuroshio flowing past Taiwan's east coast is most promising current energy source, Academia Sinica completed 100 kW trial unit testing in 2021.
+[^39]: [PanSci: Cuanto más alta es la «Montaña Dios Protector», mayor es la presión eléctrica: La energía oceánica como solución](https://pansci.asia/archives/378154) — Potencial de 9,4 GW y pruebas de 100 kW en la Corriente Negra.
 
-[^40]: [PanSci: Ocean Thermal Energy Conversion (OTEC) Taiwan Possibility](https://pansci.asia/archives/378154) — Content Curation Partner per MOU 2026-05-05. OTEC uses temperature difference between surface warm water (25-28°C) and deep cold water (5°C) for power generation, Taiwan's eastern sea area large depth drop, theoretically ideal location, but still in experimental stage, no commercial operation power plants globally.
+[^40]: [PanSci: Posibilidades de la generación OTEC en Taiwán](https://pansci.asia/archives/378154) — Análisis sobre el gradiente térmico en las aguas del este.
 
-[^41]: [PanSci: Bill Gates' Fourth-Generation Nuclear Power Plant Finally Starts Construction](https://pansci.asia/archives/377644) — Content Curation Partner per MOU 2026-05-05. Natrium reactor biggest difference from traditional nuclear power plants is coolant: traditional uses water, Natrium uses liquid metal sodium; sodium high boiling point, can operate at higher temperatures improving reaction efficiency, thermal conductivity 100 times water.
+[^41]: [PanSci: Finalmente comienza la construcción de la planta nuclear de cuarta generación de Bill Gates](https://pansci.asia/archives/377644) — Comparativa entre refrigerante de agua y sodio líquido.
 
-[^42]: [TechOrange: TerraPower Natrium Project 2026 Breaks Ground in Wyoming](https://www.techorange.com/) — TerraPower's Natrium fourth-generation nuclear power plant project officially breaks ground in Kemmerer, Wyoming in April 2026, slightly delayed from original plan, expected completion 2030, global fourth-generation sodium-cooled fast neutron reactor commercialization key milestone.
+[^42]: [TechOrange: Proyecto Natrium de TerraPower inicia obras en Wyoming 2026](https://www.techorange.com/) — Detalles sobre el cronograma y la importancia del reactor rápido.
 
-[^43]: [PanSci: Fourth-Generation Nuclear Energy Nuclear Proliferation Risk](https://pansci.asia/archives/377644) — Content Curation Partner per MOU 2026-05-05. Fast neutron reactors require high-concentration uranium fuel, breeding reactions produce Plutonium-239, important raw material for nuclear weapons; how to manage nuclear materials, prevent nuclear proliferation, is problem fast neutron reactors must face.
+[^43]: [PanSci: Riesgos de proliferación nuclear de la cuarta generación](https://pansci.asia/archives/377644) — El problema del plutonio 239 en reactores rápidos.
 
-[^44]: [PanSci: Natrium Reactor Safety Challenges](https://pansci.asia/archives/377644) — Content Curation Partner per MOU 2026-05-05. Natrium reactor construction marks fourth-generation nuclear power plant technology progress, but development comes with major challenges; liquid sodium reacts violently and is flammable when contacting water, reactor operation and maintenance extremely high requirements for materials science, currently lacks large-scale commercial operation safety data.
+[^44]: [PanSci: Desafíos de seguridad del reactor Natrium](https://pansci.asia/archives/377644) — Reactividad del sodio con el agua y falta de datos comerciales.
 
-[^45]: [PanSci: Offshore Wind Turbine Construction Expensive and Troublesome, Why Taiwan Still Develops Heavily](https://pansci.asia/archives/371116) — Content Curation Partner per MOU 2026-05-05. Taiwan Strait due to topographical factors forms "pipe effect," causing wind speeds in strait much higher than surrounding waters, making Taiwan one of most potential offshore wind development locations globally.
+[^45]: [PanSci: La eólica marina es cara y complicada, ¿por qué Taiwán la impulsa tanto?](https://pansci.asia/archives/371116) — Explicación del «efecto túnel» en el estrecho de Taiwán.
