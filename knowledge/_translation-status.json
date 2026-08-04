@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-05T05:04:24+08:00",
-    "zhCommitHead": "67e192f2d",
+    "lastUpdated": "2026-08-05T05:32:56+08:00",
+    "zhCommitHead": "a24820650",
     "totalZh": 882,
     "activeLanguages": [
       "en",
@@ -67,41 +67,41 @@
       },
       "id": {
         "total_zh": 882,
-        "fresh": 527,
-        "stale": 4,
-        "metadata_stale": 11,
-        "missing": 340,
+        "fresh": 528,
+        "stale": 6,
+        "metadata_stale": 9,
+        "missing": 339,
         "orphan": 0
       },
       "pt": {
         "total_zh": 882,
-        "fresh": 809,
-        "stale": 11,
+        "fresh": 811,
+        "stale": 9,
         "metadata_stale": 3,
         "missing": 59,
         "orphan": 0
       },
       "hi": {
         "total_zh": 882,
-        "fresh": 623,
+        "fresh": 624,
         "stale": 1,
-        "metadata_stale": 6,
+        "metadata_stale": 5,
         "missing": 252,
         "orphan": 0
       },
       "ar": {
         "total_zh": 882,
-        "fresh": 709,
+        "fresh": 710,
         "stale": 1,
-        "metadata_stale": 6,
+        "metadata_stale": 5,
         "missing": 166,
         "orphan": 0
       },
       "ru": {
         "total_zh": 882,
-        "fresh": 733,
+        "fresh": 735,
         "stale": 1,
-        "metadata_stale": 8,
+        "metadata_stale": 6,
         "missing": 140,
         "orphan": 0
       }
@@ -5900,8 +5900,8 @@
           "sourceContentHash": "sha256:5740300e7d61b41d",
           "sourceBodyHash": "",
           "translatedAt": "2026-08-04T20:38:59.241177+00:00",
-          "translationLastCommit": "207f1fe0",
-          "translationLastModified": "2026-07-27T21:13:33+08:00",
+          "translationLastCommit": "a2482065",
+          "translationLastModified": "2026-08-05T05:04:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -8586,18 +8586,16 @@
         "id": {
           "path": "id/Economy/want-want-group.md",
           "translatedFrom": "Economy/旺旺.md",
-          "sourceCommitSha": "71a0a6781",
-          "sourceContentHash": "sha256:09b6e203fc91b5b5",
-          "sourceBodyHash": "sha256:2386fbe1cd54e9dd",
-          "translatedAt": "2026-07-27T22:12:15+08:00",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:8fc0adba07db27e5",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-04T21:17:25.589714+00:00",
           "translationLastCommit": "fe9a7dd5",
           "translationLastModified": "2026-07-28T04:44:42+08:00",
           "inferred": false,
           "footnoteDefs": 10,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "pt": {
           "path": "pt/Economy/want-want-group.md",
@@ -27112,7 +27110,18 @@
           "diffSummary": "+2 -0"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Art/new-taipei-city-museum-of-art.md",
+          "translatedFrom": "Art/新北市美術館.md",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:ae965ccf6dfa996d",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-04T21:14:10.417519+00:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 12,
+          "status": "stale",
+          "reason": "sha-lost-hash-mismatch"
         },
         "pt": {
           "path": "pt/Art/new-taipei-city-museum-of-art.md",
@@ -33923,18 +33932,16 @@
         "id": {
           "path": "id/Lifestyle/xiaobei-department-store.md",
           "translatedFrom": "Lifestyle/小北百貨.md",
-          "sourceCommitSha": "08a8c5ec8",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:93955fe44e7691af",
           "sourceBodyHash": "sha256:08eacf8247ffcb10",
-          "translatedAt": "2026-07-28T06:15:57+08:00",
+          "translatedAt": "2026-08-05T00:31:24+08:00",
           "translationLastCommit": "cf8b6758",
           "translationLastModified": "2026-07-28T08:10:09+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Lifestyle/xiaobei-department-store.md",
@@ -33967,18 +33974,16 @@
         "ar": {
           "path": "ar/Lifestyle/xiaobei-department-store.md",
           "translatedFrom": "Lifestyle/小北百貨.md",
-          "sourceCommitSha": "08a8c5ec8",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:93955fe44e7691af",
           "sourceBodyHash": "sha256:08eacf8247ffcb10",
-          "translatedAt": "2026-07-28T17:22:22+08:00",
+          "translatedAt": "2026-08-05T00:31:27+08:00",
           "translationLastCommit": "caea4fab",
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/xiaobei-department-store.md",
@@ -82189,15 +82194,15 @@
           "path": "pt/People/ray-youtuber.md",
           "translatedFrom": "People/Ray.md",
           "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:966270a4d3e1c8f8",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-08-04T12:05:53.162390+00:00",
+          "sourceContentHash": "sha256:7bb33d5e90715777",
+          "sourceBodyHash": "sha256:bfea2eb77a7d1c05",
+          "translatedAt": "2026-08-05T00:31:25+08:00",
           "translationLastCommit": "d91d85f9",
           "translationLastModified": "2026-08-04T21:48:54+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "hi": {
           "path": "hi/People/ray-youtuber.md",
@@ -101883,8 +101888,8 @@
           "sourceContentHash": "sha256:34cec313d8b4c799",
           "sourceBodyHash": "sha256:f6adf45b092327fc",
           "translatedAt": "2026-08-05T00:31:26+08:00",
-          "translationLastCommit": "2970062e",
-          "translationLastModified": "2026-08-04T22:48:04+08:00",
+          "translationLastCommit": "a2482065",
+          "translationLastModified": "2026-08-05T05:04:23+08:00",
           "inferred": false,
           "footnoteDefs": 22,
           "status": "fresh",
@@ -105028,8 +105033,8 @@
           "sourceContentHash": "sha256:04245348572d70d0",
           "sourceBodyHash": "sha256:308ab8066ca9a9d0",
           "translatedAt": "2026-08-05T00:31:26+08:00",
-          "translationLastCommit": "87f270a5",
-          "translationLastModified": "2026-07-27T19:06:05+08:00",
+          "translationLastCommit": "a2482065",
+          "translationLastModified": "2026-08-05T05:04:23+08:00",
           "inferred": false,
           "footnoteDefs": 18,
           "status": "fresh",
@@ -108967,18 +108972,16 @@
         "hi": {
           "path": "hi/History/disney-and-taiwan.md",
           "translatedFrom": "History/迪士尼.md",
-          "sourceCommitSha": "154c45e8b",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:5cc3c5f96a34e51e",
           "sourceBodyHash": "sha256:ad7b91e555067f88",
-          "translatedAt": "2026-07-26T05:17:39+08:00",
+          "translatedAt": "2026-08-05T00:31:26+08:00",
           "translationLastCommit": "c91563c1",
           "translationLastModified": "2026-07-26T06:52:25+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/History/disney-and-taiwan.md",
@@ -126938,8 +126941,8 @@
           "sourceContentHash": "sha256:c5c6c2825029a48f",
           "sourceBodyHash": "sha256:f0cb0ab3b5428edc",
           "translatedAt": "2026-08-05T00:31:26+08:00",
-          "translationLastCommit": "1b098b6a",
-          "translationLastModified": "2026-07-28T05:31:46+08:00",
+          "translationLastCommit": "a2482065",
+          "translationLastModified": "2026-08-05T05:04:23+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -126962,18 +126965,16 @@
         "ru": {
           "path": "ru/Culture/taiwan-prime-time-drama.md",
           "translatedFrom": "Culture/八點檔.md",
-          "sourceCommitSha": "08a8c5ec8",
-          "sourceContentHash": "sha256:c5c6c2825029a48f",
-          "sourceBodyHash": "sha256:f0cb0ab3b5428edc",
-          "translatedAt": "2026-07-28T06:16:04+08:00",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:1b2cde52a55f5aaa",
+          "sourceBodyHash": "",
+          "translatedAt": "2026-08-04T21:01:43.987475+00:00",
           "translationLastCommit": "66008e20",
           "translationLastModified": "2026-07-28T08:00:19+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -127561,15 +127562,15 @@
           "path": "pt/Culture/taiwan-bar.md",
           "translatedFrom": "Culture/台灣吧.md",
           "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:b987c2e72eb6a35b",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-08-04T14:25:37.723834+00:00",
+          "sourceContentHash": "sha256:ea660a4477ab8648",
+          "sourceBodyHash": "sha256:ab22f8e268664ba4",
+          "translatedAt": "2026-08-05T00:31:25+08:00",
           "translationLastCommit": "c64bb7a0",
           "translationLastModified": "2026-08-05T00:30:53+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "hi": {
           "path": "hi/Culture/taiwan-bar.md",
@@ -127602,18 +127603,16 @@
         "ru": {
           "path": "ru/Culture/taiwan-bar.md",
           "translatedFrom": "Culture/台灣吧.md",
-          "sourceCommitSha": "70c09b92f",
-          "sourceContentHash": "sha256:309485da1048c534",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:ea660a4477ab8648",
           "sourceBodyHash": "sha256:ab22f8e268664ba4",
-          "translatedAt": "2026-07-29T00:43:10+08:00",
+          "translatedAt": "2026-08-05T00:31:28+08:00",
           "translationLastCommit": "caea4fab",
           "translationLastModified": "2026-07-29T02:34:42+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
