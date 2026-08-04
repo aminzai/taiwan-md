@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T09:36:49+08:00",
-    "zhCommitHead": "6551809a4",
+    "lastUpdated": "2026-08-04T09:38:58+08:00",
+    "zhCommitHead": "53a1edb2f",
     "totalZh": 879,
     "activeLanguages": [
       "en",
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 879,
-        "fresh": 504,
+        "fresh": 505,
         "stale": 3,
         "metadata_stale": 1,
-        "missing": 371,
+        "missing": 370,
         "orphan": 0
       },
       "pt": {
@@ -7796,8 +7796,8 @@
           "sourceContentHash": "sha256:c03fa77efb2f6e8c",
           "sourceBodyHash": "sha256:8e73793f11fceb53",
           "translatedAt": "2026-08-04T06:18:09+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "53a1edb2",
+          "translationLastModified": "2026-08-04T09:36:49+08:00",
           "inferred": false,
           "footnoteDefs": 39,
           "status": "fresh",
@@ -54950,8 +54950,8 @@
           "sourceContentHash": "sha256:0598c68f67d9dae4",
           "sourceBodyHash": "sha256:a62248f87fd69728",
           "translatedAt": "2026-08-04T06:18:09+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "53a1edb2",
+          "translationLastModified": "2026-08-04T09:36:49+08:00",
           "inferred": false,
           "footnoteDefs": 39,
           "status": "fresh",
@@ -76231,8 +76231,8 @@
           "sourceContentHash": "sha256:8fe13ae8a4b4ef0b",
           "sourceBodyHash": "sha256:ea3e7d04bd378c51",
           "translatedAt": "2026-08-04T06:18:09+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "53a1edb2",
+          "translationLastModified": "2026-08-04T09:36:49+08:00",
           "inferred": false,
           "footnoteDefs": 16,
           "status": "fresh",
@@ -88976,7 +88976,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/terry-gou.md",
+          "translatedFrom": "People/郭台銘.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:981dd62862f57c30",
+          "sourceBodyHash": "sha256:6bf98169f185af90",
+          "translatedAt": "2026-08-04T06:18:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/terry-gou.md",
