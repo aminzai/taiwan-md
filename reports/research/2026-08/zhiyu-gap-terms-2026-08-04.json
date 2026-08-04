@@ -1,0 +1,5735 @@
+[
+  {
+    "cn": "牛逼",
+    "tw": [
+      "厲害",
+      "厲害、屌",
+      "厲害／強",
+      "厲害／很屌",
+      "厲害／很強",
+      "很強／屌",
+      "很強／很猛／很屌"
+    ],
+    "cats": ["slang"],
+    "gens": [
+      "2010s網路用語",
+      "2010年代",
+      "2010年代網路流行語世代",
+      "2014年前後起入侵台灣網路",
+      "2025國小作文事件",
+      "跨世代（原北方方言粗俗語，網路時代擴散）"
+    ],
+    "evidence": [
+      "https://invade.tw/v/%E7%89%9B%E9%80%BC ; https://www.businessweekly.com.tw/business/blog/9792",
+      "https://www.ptt.cc/bbs/BaseballXXXX/M.1768407418.A.DA9.html ; https://www.rti.org.tw/news?uid=3&pid=204732",
+      "https://irs.zuvio.com.tw/student5/chickenM/article/672001",
+      "https://www.businessweekly.com.tw/business/blog/9792",
+      "https://neww.tw/china-language/"
+    ],
+    "heat": [
+      "商業周刊/網路溫度計專文列為十大入侵用語之一；invade.tw 專門詞條",
+      "PTT、RTI、applealmond等多篇文章皆列為典型支語例",
+      "網路溫度計2014年「10大入侵台灣網路中國用語」榜上；多份最討厭清單常見"
+    ],
+    "controversy": [
+      "「牛逼」原是中國北方粗俗俚語（帶性暗示字根），台灣借用後語感已淡化為單純「厲害」，使用脈絡已與原詞不同",
+      "無"
+    ],
+    "slice_count": 7,
+    "low_evidence": false
+  },
+  {
+    "cn": "佛系",
+    "tw": [
+      "已高度在地化，台灣自身也發展出平行詞「厭世代」，普遍視為已內化的外來詞而非需抵制的支語",
+      "無公認單一對應（近似「隨緣」但語感較新）",
+      "無公認單詞對應（近似「隨緣」但語感範圍不同）",
+      "無精確舊詞對應(多用「看淡」「不強求」「隨緣」意譯)",
+      "隨緣（態度相近但非完全對應）",
+      "（已完全融入台灣用法，無需替代）"
+    ],
+    "cats": ["lifestyle/slang", "slang"],
+    "gens": [
+      "2010s態度用語",
+      "2017年中國流行語",
+      "2017年前後經中國網路二次傳播進入台灣",
+      "2018年起在中文網路流行，經中國大陸中介後傳入台灣",
+      "2020 Dcard Top15第14名",
+      "詞源日本2014年雜誌報導「佛系男子」，2018年前後於中國網路爆紅後傳入台灣"
+    ],
+    "evidence": [
+      "https://disp.cc/b/ChinaDrama/dq92",
+      "https://www.fountmedia.io/article/108385",
+      "https://www.readr.tw/post/2836",
+      "https://www.gvm.com.tw/article/80732",
+      "https://www.newton.com.tw/wiki/佛系 ; https://zh.wikipedia.org/zh-tw/佛系 ; https://talktaiwanesemandarin.com/2020/12/09/17/"
+    ],
+    "heat": [
+      "READr 列入 Dcard 前15常用中國流行語;invade.tw 查無此詞條(未收錄為侵略性詞彙)",
+      "范雲團隊15大熱門詞之一",
+      "Dcard十年榜單"
+    ],
+    "controversy": [
+      "低爭議，多數資料來源同意佛系源自日本而非中國原創，中國只是流行化的中繼站，屬典型「日語轉譯被誤判為支語」案例",
+      "引進台灣多年後已鮮少被視為支語，屬「兩岸本就通用」爭議詞的代表",
+      "爭議：PTT 網友主張「佛系根本日本傳來的」——日文「仏系」為2014年日本網路流行語，經中國網路轉譯後才傳入台灣，並非中國原創詞"
+    ],
+    "slice_count": 6,
+    "low_evidence": false
+  },
+  {
+    "cn": "網紅",
+    "tw": [
+      "無公認對應",
+      "網路紅人（舊稱）",
+      "網路紅人／直播主",
+      "網路紅人／網路名人",
+      "部落客／網路名人／意見領袖（KOL）（舊稱，現已被「網紅」取代）",
+      "（已無替代詞，全面同化）"
+    ],
+    "cats": ["appellation", "entertainment", "slang"],
+    "gens": [
+      "-",
+      "2010s社群詞",
+      "2010年代中期後在台灣完全通用化，各世代皆用",
+      "2010年代中期後隨中國網路直播/短影音興起",
+      "2015–2016成長期，隨中國IP劇（《花千骨》《琅琊榜》等）熱潮同步"
+    ],
+    "evidence": [
+      "https://www.readr.tw/post/2553",
+      "https://www.fountmedia.io/article/108385",
+      "https://www.readr.tw/post/2836",
+      "https://udn.com/news/story/120912/7955289",
+      "https://zh.wikipedia.org/zh-tw/网络红人"
+    ],
+    "heat": [
+      "READr 詞彙清單收錄;invade.tw 查無此詞條",
+      "范雲團隊15大熱門詞排行第4",
+      "Dcard Top15第4名，年成長雙位數"
+    ],
+    "controversy": [
+      "台灣網友自己在討論串中承認「網紅也是中國來的，台灣好像沒詞替代」，是少數自承詞彙真空的支語案例",
+      "多數討論不將其列為爭議支語，因已完全在地化且無強烈情緒色彩詞義",
+      "已高度台灣化，較少被列為爭議詞"
+    ],
+    "slice_count": 6,
+    "low_evidence": false
+  },
+  {
+    "cn": "家人們",
+    "tw": [
+      "大家／各位",
+      "無公認對應",
+      "無公認對應（多數網友主張直接不用，非翻譯問題）",
+      "無公認對應（多數網友選擇直接不用該稱呼）"
+    ],
+    "cats": ["appellation", "slang/直播用語"],
+    "gens": [
+      "2020年代直播文化詞",
+      "2023年因中國抖音/微博直播主播口頭禪爆紅，同年9月傳入台灣掀起討論",
+      "bilibili/抖音/微博系",
+      "直播帶貨話術"
+    ],
+    "evidence": [
+      "https://www.threads.com/@lupei404/post/C4s-AVHKIAF",
+      "https://www.threads.com/@lupei404/post/C4s-AVHKIAF",
+      "https://www.storm.mg/lifestyle/5121411",
+      "https://www.threads.com/@lupei404/post/C4s-AVHKIAF",
+      "https://www.ettoday.net/news/20230911/2579949.htm ; https://www.hk01.com/熱爆話題/1038904/ ; https://baike.baidu.com/item/家人们谁懂啊/62945329"
+    ],
+    "heat": [
+      "Threads網友整理完整對照表獲得轉發討論",
+      "整理型貼文首列詞條，引發大量誤解與求對照表的回應",
+      "風傳媒2024年專文列為年輕人愛用語；lupei404 Threads對照表中此詞被明確標記為「x」（無對應）"
+    ],
+    "controversy": [
+      "台灣網友Facebook貼文特別指出「家人」原意在台灣僅指親人，此用法屬「作為支語」的擴大轉義，與台灣原本定義不同，並非兩岸本就共通"
+    ],
+    "slice_count": 5,
+    "low_evidence": false
+  },
+  {
+    "cn": "打call",
+    "tw": [
+      "應援",
+      "應援、加油",
+      "應援／加油",
+      "應援／加油（無單一詞完全對應）"
+    ],
+    "cats": ["entertainment", "slang"],
+    "gens": [
+      "2017年中國十大網路用語",
+      "2017年前後經中國中介傳入",
+      "源自日本演唱會應援文化，經中國偶像產業引入後傳入台灣",
+      "源自日本演唱會文化（和製英語「コール」）"
+    ],
+    "evidence": [
+      "https://disp.cc/b/ChinaDrama/dq92",
+      "https://disp.cc/b/163-dpXP",
+      "https://www.cna.com.tw/news/acn/201712200366.aspx",
+      "https://www.storm.mg/lifestyle/11075424",
+      "https://www.storm.mg/lifestyle/11075424 ; https://tw.taicike.com/baike/23525.html"
+    ],
+    "heat": [
+      "PTT 討論串中被明確提及",
+      "PTT討論串高頻反駁點",
+      "中央社2017年報導收錄為陸十大網路用語；YouTube有專題影片討論其流行；Threads用戶2025年稱其「變成死語」"
+    ],
+    "controversy": [
+      "⚠️ 明確源自日本演唱會應援文化，是READr原始報導詞單中被網友指出「誤判為支語」最多次的詞之一",
+      "同「社畜」，日語ACG/演唱會文化詞彙，非中國原創，經中國偶像工業放大後才被台灣視為「中國用語」",
+      "爭議：PTT 網友主張「打call是日文的コール」——源自日本演唱會應援文化，經中國網路二次流行後才在台灣普及，不是中國原創詞"
+    ],
+    "slice_count": 5,
+    "low_evidence": false
+  },
+  {
+    "cn": "C位",
+    "tw": [
+      "中心位置／主位",
+      "中心位置／最重要位置（無固定譯詞）",
+      "無公認單詞對應（傳統講法接近「主位」「中間位置」，但未形成固定替代用語）；官方語境台灣傳統用「官方公告」而非「官宣」",
+      "無公認單詞對應（近似「主角位／中間位」）",
+      "無公認對應，年輕世代多半直接沿用「C位」；較早說法接近「中心位置／主咖位置」"
+    ],
+    "cats": ["entertainment", "entertainment/slang"],
+    "gens": [
+      "2018年中國選秀節目《偶像練習生》蔡徐坤「C位出道」帶起全網爆紅",
+      "2018年後選秀文化詞",
+      "最早溯自日本團體AKB48選拔用語",
+      "源頭有爭議，PTT討論指出可能源自30多年前日本偶像文化術語（Center簡稱C），中國網路約2010年代將其中西合併成「C位」廣泛使用"
+    ],
+    "evidence": [
+      "https://www.readr.tw/post/2553",
+      "https://www.readr.tw/post/2553",
+      "https://www.readr.tw/post/2553",
+      "https://www.facebook.com/readr.tw/posts/1369716293426750 ; https://www.dcard.tw/f/entertainer/p/235759752",
+      "https://www.pttweb.cc/bbs/Gossiping/M.1725636997.A.625"
+    ],
+    "heat": [
+      "READr 詞彙清單收錄",
+      "Dcard論壇十年資料顯示2018年後使用量明顯上升（READr數據佐證）",
+      "READr番外篇專文解析"
+    ],
+    "controversy": [
+      "⚠️ 非中國原創，是經中國網路社群再流行後傳入台灣的日源詞，常被誤認為純中國用語",
+      "詞源其實是2005年日本AKB48「Center位」制度（依人氣讓成員站排面正中間），並非中國原創，中國綜藝節目讓這個日本概念重新命名後才反向大量輸出到台灣",
+      "詞源可追溯至2005年日本團體AKB48的「center」位置用語，2018年經中國選秀節目《偶像練習生》「蔡徐坤C位出道」微博熱搜二次放大後才傳入台灣，並非中國原創詞，是日語詞經中國娛樂工業放大再輸出的案例"
+    ],
+    "slice_count": 5,
+    "low_evidence": false
+  },
+  {
+    "cn": "青提",
+    "tw": [
+      "無公認唯一對應（無籽葡萄／進口葡萄品種，非台灣傳統慣稱）",
+      "無公認單一對應（原意為港澳對「綠葡萄」的稱呼）",
+      "無公認對應（台灣日常統稱「葡萄」，不特別區分品種顏色）",
+      "（品牌命名爭議，非標準詞彙替代案例）",
+      "（無需替換，港澳/傳統用詞）"
+    ],
+    "cats": ["food"],
+    "gens": [
+      "2020年代電商/甜點業用語",
+      "2025年1月基隆甜點店命名事件",
+      "2026年4月基隆甜點店命名爭議",
+      "港澳粵語傳統用語，2024年成誤判爆紅案例",
+      "港澳詞彙，非短影音時代新詞"
+    ],
+    "evidence": [
+      "huanqiu.com（張文生：一顆青提為何讓台灣某些人破防）；https://zh.wikipedia.org/zh-tw/支語",
+      "https://neww.tw/china-language/",
+      "https://neww.tw/china-language/",
+      "https://zh.wikipedia.org/zh-tw/支語 ; https://neww.tw/china-language/",
+      "https://neww.tw/china-language/"
+    ],
+    "heat": [
+      "環球時報張文生專文標題直接以此事件命名〈一顆青提為何讓台灣某些人破防〉，維基百科「支語」條目列為重點案例",
+      "neww.tw報導稱Threads貼文「我司是支語」相關風波達150萬瀏覽",
+      "基隆甜點店「四蒔甜點」2026年因用此詞命名商品遭出征成為新聞事件"
+    ],
+    "controversy": [
+      "基隆「四蒔甜點」因產品命名為「青提」遭網友質疑支語，店家澄清是因「好聽、順口」選用，該詞實際上也是粵語地區傳統用語，非中國大陸獨創",
+      "基隆甜點店因產品命名使用「青提」一詞遭網友質疑挾帶中國用語，店家澄清純粹因「好聽、順口」選用，強調無政治立場，是「支語出征」延燒到商業品牌命名層面的案例",
+      "店家澄清純粹因為好聽、順口選用，無政治立場；被列為支語警察誤判/獵巫的指標案例"
+    ],
+    "slice_count": 5,
+    "low_evidence": false
+  },
+  {
+    "cn": "好評",
+    "tw": [
+      "好評（詞形相同但語意窄化）",
+      "正評、好評價",
+      "正評／好評價",
+      "（兩岸共用詞，中國新增量化義）"
+    ],
+    "cats": ["business", "business/tech", "daily"],
+    "gens": [
+      "淘寶購物評論制度催生的量化語意",
+      "隨中國淘寶電商興起語意窄化",
+      "電商時代（淘寶興起）"
+    ],
+    "evidence": [
+      "https://www.readr.tw/post/2553",
+      "https://disp.cc/b/Gossiping/dpXP",
+      "https://www.readr.tw/post/2553",
+      "https://www.readr.tw/post/2553"
+    ],
+    "heat": [
+      "READr同專題列入分析",
+      "READr 列入 Dcard 前15常用中國流行語",
+      "READr專題分析"
+    ],
+    "controversy": [
+      "兩岸原本通用抽象「正面評價」之意，滲透點在於中國把它窄化成電商量化指標（好評率），非詞彙本身是新詞",
+      "兩岸原本都有「好評」表達正面評價，中國因淘寶等電商興起發展出量化指標新義（評分機制），非全然支語輸入",
+      "從抽象「正面評價」演變為電商評論系統下的量化指標後再輸入台灣，屬語意窄化再輸入案例"
+    ],
+    "slice_count": 4,
+    "low_evidence": false
+  },
+  {
+    "cn": "支語警察（迷因用語本身）",
+    "tw": [
+      "—",
+      "—（台灣原創網路迷因詞）",
+      "（本詞為台灣原生造詞，指糾察中國用語的網路現象/群體）",
+      "（本身即台灣/港澳網路用語，非支語，收錄作為本切面研究對象的背景詞）"
+    ],
+    "cats": ["grammar", "slang", "slang/meme"],
+    "gens": [
+      "2020年代初期興起，2026年初已見PTT社群自我反省「退流行」討論",
+      "現象級用語，約2020年代前期成形",
+      "約2019-2020年起源，2024-2025年討論其「沒落」",
+      "起源自Komica動漫討論版，近年隨中國短影音（抖音/小紅書）文化輸入台灣而擴大使用"
+    ],
+    "evidence": [
+      "https://pttpedia.fandom.com/zh/wiki/%E6%94%AF%E8%AA%9E%E8%AD%A6%E5%AF%9F｜https://dailyview.tw/popular/detail/9738｜https://disp.cc/b/Gossiping/fQfD",
+      "https://zh.wikipedia.org/zh-tw/%E6%94%AF%E8%AA%9E",
+      "https://zh.wikipedia.org/zh-tw/支語；gitqwerty777.github.io（如何當稱職的支語警察／支語警察英文聊天機器人專案）；pttgamer.com（PTT Steam板討論「支語警察盡他最努力的愛國方式」）",
+      "https://www.pttweb.cc/bbs/C_Chat/M.1769523412.A.243 ; https://www.rti.org.tw/news?uid=3&pid=204732 ; https://zh.wikipedia.org/zh-tw/支語警察"
+    ],
+    "heat": [
+      "高—衍生出支語太保、支語童軍、支語戰鬼、支語警犬、支語大隊長、支語線民等一系列角色迷因圖，紅到PTT八卦板、C_Chat；近年出現「為什麼支語警察沒落了？？？？？」的八卦板討論串",
+      "多家台灣媒體（自由評論網、央廣、聯合報）與PTT鄉民百科均有專文報導",
+      "gitqwerty777.github.io 有專文＋支語警察英文聊天機器人專案；PTT遊戲版有實名討論「本版有名的支語警察」"
+    ],
+    "controversy": [
+      "⚠️重要：維基百科「支語」條目指出，許多被鄉民打為「支語」的詞彙其實是港澳粵語詞（三文魚、地鐵、士多啤梨）或民國時期已有用例（估計），學者批評「非台即支」的判定邏輯是「獵巫」；東海大學何萬順教授認為糾察行為「減損台灣引以為傲的言論自由，甚至淪為某種新的國語運動或文化大革命」；陽明交大萬宗綸則建議「有意識地使用」而非全面抵制。",
+      "「支語」一詞本身衍生自對中國的貶稱「支那」，東海大學何萬順教授指出此詞「藏有歧視性、帶有惡意」，可能損害台灣言論自由；用詞本身的正當性也在學界與網路社群持續爭論中",
+      "此詞本身即是爭議核心：維基百科條目指出學者批評「將非台灣慣用詞彙一律貶低為支語」的「非台即支」邏輯謬誤，違反中文世界多元變體的事實（忽略港澳、星馬、日語轉譯等第三方來源）。有網友撰文比較「法國也有英語警察」（法語純化運動 Académie française 對英語外來詞的抵制），指出語言純化焦慮並非台灣獨有現象，而是任何語言接觸情境下常見的社會心理反應。"
+    ],
+    "slice_count": 4,
+    "low_evidence": false
+  },
+  {
+    "cn": "沒事",
+    "tw": [
+      "沒關係",
+      "沒關係（部分語境台灣本就使用「沒事」）",
+      "無公認需替換（台灣本已使用）"
+    ],
+    "cats": ["daily", "grammar"],
+    "gens": [
+      "2020年代Threads世代討論",
+      "不明，台灣本有用法",
+      "古漢語詞彙（誤判案例）",
+      "近年（2020s）在台灣日常對話使用頻率上升，但詞彙本身歷史悠久"
+    ],
+    "evidence": [
+      "https://tw.news.yahoo.com/%E6%94%AF%E8%AA%9E%E8%AD%A6%E5%AF%9F%E7%A8%B1-%E6%B2%92%E4%BA%8B-%E6%98%AF%E5%A4%A7%E9%99%B8%E7%94%A8%E8%AA%9E-%E6%8F%AD%E5%8F%B0%E7%81%A3%E4%BA%BA%E9%83%BD%E8%AA%AA-%E9%80%99%E4%B8%89%E5%80%8B%E5%AD%97-073600811.html",
+      "https://tw.news.yahoo.com/支語警察稱-沒事-是大陸用語-揭台灣人都說-這三個字-073600811.html",
+      "標題見於 Bing 對「支語」查詢之搜尋結果摘要，網域 tw.news.yahoo.com（未能取得可直接讀取的完整文章網址）",
+      "https://tw.news.yahoo.com/支語警察稱-沒事-是大陸用語-揭台灣人都說-這三個字-073600811.html"
+    ],
+    "heat": [
+      "Yahoo新聞專文報導，並附網友正反留言",
+      "Threads發文引發網友分裂討論，鏡報/Yahoo新聞報導",
+      "Yahoo新聞以此為題（標題：支語警察稱「沒事」是大陸用語 揭台灣人都說「這三個字」網傻眼），透過 Bing 搜尋「支語」命中，原文連結未能直接讀取確認，僅能確認標題與網域 tw.news.yahoo.com"
+    ],
+    "controversy": [
+      "兩岸本通用，被支語警察誤判的爭議案例；因原文無法完整讀取，證據強度較弱，建議之後再核實",
+      "重大誤判案例：教育部《國語辭典》收錄「沒事」，《水滸傳》《京本通俗小說．碾玉觀音》等古籍已見此用法，並非近代中國大陸新造詞，僅是近年使用頻率／語境變化被誤認為新滲透",
+      "重要誤判案例：「沒事」已被教育部《國語辭典》收錄，且見於《京本通俗小說》《水滸傳》等古籍，並非中國網路原創詞彙，但仍常被支語警察誤判"
+    ],
+    "slice_count": 4,
+    "low_evidence": false
+  },
+  {
+    "cn": "外賣",
+    "tw": ["外送"],
+    "cats": ["daily", "food"],
+    "gens": [
+      "2010s生活用語",
+      "2026年初 Threads 現象",
+      "兩岸日常詞彙分流，高度共識"
+    ],
+    "evidence": [
+      "https://udn.com/news/story/120911/8023312",
+      "https://www.setn.com/news/1482672",
+      "https://neww.tw/china-language/ ; https://zhipd.zeabur.app/?category=食物",
+      "https://tw.news.yahoo.com/中國人用threads-票改講台灣用語-台人笑翻-統戰對岸-110500284.html"
+    ],
+    "heat": [
+      "udn票選第五名",
+      "Dcard討厭排行第5名（熱度較低）",
+      "同時被neww.tw支語對照表、zhipd.zeabur.app支語辭典收錄"
+    ],
+    "controversy": [
+      "原PO自承「不是非常厭惡，外送外賣兩者皆有人用」——共識度低於視頻/質量",
+      "同上",
+      "無明顯爭議"
+    ],
+    "slice_count": 4,
+    "low_evidence": false
+  },
+  {
+    "cn": "U盤／優盤",
+    "tw": ["USB隨身碟", "隨身碟"],
+    "cats": ["tech"],
+    "gens": ["2000年代USB普及後", "2000年代USB隨身碟普及後定型", "全世代"],
+    "evidence": [
+      "https://art.ltn.com.tw/article/breakingnews/5466763",
+      "https://www.rti.org.tw/news?uid=3&pid=204732",
+      "https://taiwan.md/terminology/usb_drive/ ；data/terminology/.china-terms.detection.tsv（severity A）；https://invade.tw/v/U盤",
+      "https://art.ltn.com.tw/article/breakingnews/5466763"
+    ],
+    "heat": [
+      "art.ltn對照表；dailyview清單",
+      "RTI報導、支語討論常見例",
+      "taiwan.md兩則獨立條目；invade.tw支語字典收錄；多篇兩岸用語對照文章"
+    ],
+    "controversy": ["無", "無爭議"],
+    "slice_count": 4,
+    "low_evidence": false
+  },
+  {
+    "cn": "芭比Q了",
+    "tw": [
+      "低度但確實存在自然套用（「陽明交大芭比q了嗎」）；台灣原有「完蛋了／GG了」",
+      "完蛋了、慘了",
+      "完蛋了／慘了"
+    ],
+    "cats": ["slang"],
+    "gens": [
+      "2022年十大網路流行語之一",
+      "2025國小作文事件",
+      "源自抖音實況主「無賴電音吃雞」，取「燒烤(barbecue)」諧音延伸「火化／完蛋了」之意"
+    ],
+    "evidence": [
+      "https://tw.news.yahoo.com/%E8%8A%AD%E6%AF%94q%E4%BA%86-%E6%8C%96%E8%8B%A6%E6%8C%96%E8%8B%A6-%E6%AD%B8%E5%89%9B%E6%AC%B8-yyds-%E7%A4%BE%E6%AD%BB-%E5%A7%A8%E6%AF%8D%E7%AC%91-%E7%A8%AE%E8%8D%89-%E6%8B%94%E8%8D%89-%E7%B6%B2%E8%B7%AF%E6%B5%81%E8%A1%8C%E8%AA%9E-065107328.html",
+      "https://zh.wikipedia.org/wiki/中国大陆网络用语列表（API section=53 心情）；https://www.ptt.cc/bbs/Gossiping/search?q=芭比Q",
+      "https://www.pttweb.cc/bbs/Gossiping/M.1743035596.A.B2B"
+    ],
+    "heat": [
+      "Yahoo新聞專文整理2022十大網路流行語，與挖苦挖苦、歸剛欸、YYDS並列",
+      "PTT Gossiping搜尋僅1篇命中，熱度偏低但已見脫離「引用中國梗」語境、直接套用於台灣校園情境的自然使用",
+      "同上新聞列舉詞彙之一"
+    ],
+    "controversy": ["未見具體爭議記載"],
+    "slice_count": 3,
+    "low_evidence": false
+  },
+  {
+    "cn": "種草／拔草",
+    "tw": [
+      "業配／想買了／不想買了（無精確對應動詞）",
+      "生火／滅火（台灣ACG／鄉民社群原有說法）",
+      "被燒到／敗草（非正式，業配語境近似「業配」效果）"
+    ],
+    "cats": ["business", "business/slang", "slang"],
+    "gens": [
+      "2008年起源於中國美妝論壇，近年隨小紅書擴散加速",
+      "小紅書系流行",
+      "源自中國美妝論壇，經微博/微信擴散"
+    ],
+    "evidence": [
+      "https://www.hk01.com/%E6%97%85%E9%81%8A/912692/｜https://www.chinatimes.com/newspapers/20190523000213-260301",
+      "https://dailyview.tw/popular/detail/10975",
+      "https://dailyview.tw/popular/detail/15785 ; https://dailyview.tw/popular/detail/10975"
+    ],
+    "heat": [
+      "香港01、中時等媒體整理「內地熱爆潮語」清單納入",
+      "DailyView文章記錄「一句話掀論戰」的網友爭辯；遠見雜誌專文《想讓大陸消費者掏錢！先學會種草跟土味行銷》",
+      "中高——DailyView網路溫度計有兩篇專文分析；Dcard「被種草、拔草是什麼意思？」一文引發論戰"
+    ],
+    "controversy": [
+      "网路溫度計文章明確指出「這個詞早在2008年就已經存在，只是近年來社群媒體的逐漸興盛」，並非小紅書原創但因小紅書而加速擴散；台灣網友普遍認為「台灣就有既定的用法（生火/滅火），卻硬要用中國用語」，屬於「已有台灣對應詞卻被取代」的典型案例",
+      "部分網友認為使用不同詞彙是「個人自由」，非全面被視為需糾正的支語。"
+    ],
+    "slice_count": 3,
+    "low_evidence": false
+  },
+  {
+    "cn": "正能量",
+    "tw": [
+      "正面能量／積極思考",
+      "無公認對應（台灣亦廣泛使用，接近「正面能量」）",
+      "（台灣使用時語意常被「去政治化」，接近「正面能量／樂觀態度」）"
+    ],
+    "cats": ["business", "daily", "slang"],
+    "gens": [
+      "2010年代起中國政治語彙，台灣使用多為中性化挪用",
+      "2012年後中國官媒推廣詞"
+    ],
+    "evidence": [
+      "https://www.readr.tw/post/2553",
+      "https://zh.wikipedia.org/zh-tw/正能量_(流行語)",
+      "https://www.facebook.com/1ynoprcch/posts/122179319498569945/"
+    ],
+    "heat": [
+      "READr 詞彙清單收錄",
+      "維基百科條目記載2012年獲中國《咬文嚼字》選為年度十大網路流行語",
+      "「沒有中國用語的一年」臉書專頁「中國用語流言終結者#16」專文考證"
+    ],
+    "controversy": [
+      "⚠️此詞已高度融入台灣日常用語超過十年，是否仍構成「支語」在系列考證文章中本身是被存疑、而非直接認定的對象。",
+      "重大爭議（政治意涵）：詞源可溯至2005年日本作家江本勝《水知道答案》偽科學概念與英國心理學家理查・懷斯曼著作《正能量》，2009年傳入中國，2013年習近平在山東考察引用「匯聚強大正能量」後成為中國政治口號，在中國「從政治宣傳到學校教育無所不在」；台灣使用者多半未意識到其政治口號脈絡，僅作日常正面詞彙使用"
+    ],
+    "slice_count": 3,
+    "low_evidence": false
+  },
+  {
+    "cn": "備孕",
+    "tw": [
+      "備孕（本為台灣原有用語）",
+      "（台灣本有詞彙，非支語）",
+      "（誤判案例，台灣本有此詞）"
+    ],
+    "cats": ["daily"],
+    "gens": ["誤判案例"],
+    "evidence": [
+      "https://irs.zuvio.com.tw/student5/chickenM/article/672001",
+      "https://irs.zuvio.com.tw/student5/chickenM/article/672001",
+      "https://irs.zuvio.com.tw/student5/chickenM/article/672001"
+    ],
+    "heat": [
+      "Zuvio校園文章明確列舉為具體誤判實例",
+      "Zuvio校園文章列為「被誤認為支語的趣聞」實例"
+    ],
+    "controversy": [
+      "⚠️誤判案例——「備孕」（準備懷孕）是中文原有詞彙組合，並非中國網路新創詞，卻常被誤貼支語標籤",
+      "⚠️誤判案例：zuvio文章指出「備孕」一詞曾引發烏龍事件，該詞實為台灣原有用語，卻被部分網友誤認為中國大陸輸入詞",
+      "【誤判案例】部分網友誤認「備孕」為支語，實際上是台灣本來就有的詞彙"
+    ],
+    "slice_count": 3,
+    "low_evidence": false
+  },
+  {
+    "cn": "出片",
+    "tw": [
+      "很好拍",
+      "很好拍／上鏡",
+      "無公認對應（尚未見台灣網友明確提出替代詞或列入支語清單）"
+    ],
+    "cats": ["entertainment", "slang"],
+    "gens": ["-", "小紅書／Instagram攝影社群詞彙"],
+    "evidence": [
+      "https://www.threads.com/@lupei404/post/C4s-AVHKIAF",
+      "https://www.threads.com/@lupei404/post/C4s-AVHKIAF",
+      "https://www.wvf.com.tw/a/出片是什麼意思"
+    ],
+    "heat": [
+      "lupei404 Threads對照表收錄",
+      "低——搜尋結果幾乎全為中國平台內容（百度文庫、知乎、百度知道），僅有台灣SEO內容農場網站（什麼意思網）代為解釋詞義給不熟悉此詞的台灣讀者"
+    ],
+    "controversy": [
+      "「查不到就不編造」的重要發現：此詞雖在小紅書／IG美學社群中高度活躍，但在PTT／Dcard的支語清單與討論串搜尋中完全沒有出現，代表它尚未進入台灣支語警察的雷達範圍，屬於「已滲透但未被抓」的沉默擴散案例，值得標註為觀察對象"
+    ],
+    "slice_count": 3,
+    "low_evidence": false
+  },
+  {
+    "cn": "網暴",
+    "tw": ["網路霸凌"],
+    "cats": ["slang"],
+    "gens": ["-"],
+    "evidence": [
+      "https://www.threads.com/@lupei404/post/C4s-AVHKIAF",
+      "https://www.threads.com/@lupei404/post/C4s-AVHKIAF",
+      "https://www.threads.com/@lupei404/post/C4s-AVHKIAF"
+    ],
+    "heat": ["lupei404 Threads對照表收錄", "Threads對照表收錄"],
+    "controversy": [],
+    "slice_count": 3,
+    "low_evidence": false
+  },
+  {
+    "cn": "塌房",
+    "tw": [
+      "崩壞／形象崩壞",
+      "部分網友主張可用「崩壞」替代，但語感較窄（塌房專指粉絲對偶像人設崩塌的追星圈用語）",
+      "（已同化，無替代詞）"
+    ],
+    "cats": ["entertainment", "fandom/entertainment"],
+    "gens": [
+      "2020年代前後中國飯圈網路新詞，2021吳亦凡、鄭爽事件後大量曝光",
+      "中國「飯圈文化」用語，約2020-2021年因吳亦凡、鄭爽等藝人醜聞在中國網路爆紅後傳入台灣",
+      "飯圈用語"
+    ],
+    "evidence": [
+      "https://dailyview.tw/popular/detail/17007",
+      "https://coco90276.pixnet.net/blog/posts/17344409112 ; https://www.stheadline.com/knowledge/3571623 ; https://hk.news.yahoo.com/%E6%BD%AE%E8%AA%9E-%E8%BF%BD%E6%98%9F%E6%97%8F-%E5%A1%8C%E6%88%BF-%E9%A3%AF%E5%9C%88%E7%94%A8%E8%AA%9E-010026986.html",
+      "https://www.threads.com/@shinhwacheerio/post/DKvkuY0zDNC ; https://www.threads.com/@depbread/post/C3U640lvDrO ; https://coco90276.pixnet.net/blog/post/中國用語「塌房」"
+    ],
+    "heat": [
+      "DailyView網路溫度計、HK01皆有專文直接以「塌房」報導台灣/兩岸藝人醜聞事件標題",
+      "HK01／ETtoday／Yahoo等多家港台媒體都做過「飯圈潮語」專題收錄此詞，屬高曝光詞",
+      "多篇台灣網友發文直接提問「為什麼是用塌房這個大陸用語 而不是崩壞」；Threads帳號#每日支語退散系列明確列為支語"
+    ],
+    "controversy": [
+      "中度——字面「塌房」古義可追溯至宋代（指商旅寄存貨物的場所），但現代「偶像人設崩塌」的飯圈新義確實是2020年代中國網路原創，非單純誤判案例",
+      "星島頭條專文指出「塌房」古已有之（宋代文獻已見此詞），但古今詞義不同，今義（偶像形象崩塌）確實是中國飯圈網路新創用法",
+      "此詞已被台灣主流媒體直接用於本土藝人醜聞報導標題，幾乎完全同化，罕見再被列為需糾正的支語對象。"
+    ],
+    "slice_count": 3,
+    "low_evidence": false
+  },
+  {
+    "cn": "士多啤梨",
+    "tw": ["草莓", "草莓（台灣用法恰好與中國一致）"],
+    "cats": ["food"],
+    "gens": [
+      "粵語音譯詞（英語strawberry），非中國大陸原創",
+      "跨語系誤判案例",
+      "香港固有用語（英語strawberry音譯）"
+    ],
+    "evidence": [
+      "https://pulsehknews.com/20260729chinawords/",
+      "https://talk.ltn.com.tw/article/breakingnews/5521301",
+      "https://talk.ltn.com.tw/article/breakingnews/5521301"
+    ],
+    "heat": [
+      "港媒Pulse HK News專文報導，學者出面批評",
+      "同上馮睎乾專欄",
+      "自由評論網馮睎乾專文點名批評"
+    ],
+    "controversy": [
+      "典型誤判案例：士多啤梨是香港粵語詞彙（英語音譯），並非中國大陸用語，卻常被台灣支語警察誤認為支語；報導標題引學者觀點「語言分類不能靠直覺」",
+      "粵語音譯英文借詞，純香港用法，台灣跟中國一致講草莓，同屬被誤標的港式詞案例",
+      "香港粵語音譯詞（strawberry），非中國用語，台灣和中國用法其實一致，同屬媒體誤植案例"
+    ],
+    "slice_count": 3,
+    "low_evidence": false
+  },
+  {
+    "cn": "電單車",
+    "tw": ["摩托車、機車", "機車", "機車/摩托車（台灣用法恰好與中國一致）"],
+    "cats": ["daily"],
+    "gens": ["粵語詞彙，非中國大陸原創", "跨語系誤判案例", "香港固有用語"],
+    "evidence": [
+      "https://pulsehknews.com/20260729chinawords/",
+      "https://talk.ltn.com.tw/article/breakingnews/5521301",
+      "https://talk.ltn.com.tw/article/breakingnews/5521301"
+    ],
+    "heat": [
+      "與士多啤梨同案例被報導",
+      "名家專欄（馮睎乾）點名東森新聞支語對照圖誤植",
+      "自由評論網馮睎乾專文點名批評"
+    ],
+    "controversy": [
+      "與士多啤梨同屬港澳詞彙誤判為支語的案例，非中國大陸原創用語",
+      "香港專屬詞，被東森新聞誤列為支語防範對象，台灣與中國其實用法一致",
+      "馮睎乾指出這其實是香港粵語詞彙，台灣人和中國人說法一致（都講摩托車/機車），常被誤植入「支語對照圖」，是媒體把港式用語誤認為中國用語的典型案例"
+    ],
+    "slice_count": 3,
+    "low_evidence": false
+  },
+  {
+    "cn": "牛逼／牛B",
+    "tw": ["厲害／屌", "好厲害／超強"],
+    "cats": ["slang"],
+    "gens": [
+      "推測源自1980-90年代東北人南下方言，網路普及約2015年後",
+      "長期存在"
+    ],
+    "evidence": [
+      "https://www.ptt.cc/bbs/WomenTalk/M.1662713304.A.4E9.html",
+      "https://www.storm.mg/lifestyle/5121411"
+    ],
+    "heat": [
+      "WomenTalk討論串中多名網友特別註明反感原因是「對性器官比較敏感」（諧音聯想）",
+      "ETtoday票選常見厭惡用語、多篇文章反覆討論"
+    ],
+    "controversy": [],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "出圈",
+    "tw": [
+      "無精確單詞對應（紅到圈外／破圈知名度擴散）",
+      "爆紅／打開知名度（無直接對應詞）"
+    ],
+    "cats": ["entertainment", "entertainment/slang"],
+    "gens": [
+      "近年ACG圈流行",
+      "近年（2020年代）仍持續被台灣年輕使用者在社群上公開提出「這是不是支語」的疑問"
+    ],
+    "evidence": [
+      "https://disp.cc/b/ACG/fXK2",
+      "https://x.com/anmiiyu/status/1930817822919463057 ; https://www.threads.com/@sheep._.lollipop/post/C9Oy80ZTTUO"
+    ],
+    "heat": [
+      "PTT C_Chat討論串「有像'不要瞎掰好嗎'紅到出圈動漫詞嗎」中網友已直接使用「出圈」一詞而未特別質疑",
+      "X用戶(@anmiiyu)發文詢問「出圈是支語嗎？真心提問」；Threads用戶(@sheep._.lollipop)直接列為「❌出圈」建議改用「爆紅/知名」"
+    ],
+    "controversy": [
+      "屬於「仍在被台灣網路社群當場辨識、尚未定論」的活詞，其支語身分本身仍在被公開討論中"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "皮膚",
+    "tw": ["造型／外觀", "造型／外觀／skin"],
+    "cats": ["gaming"],
+    "gens": [
+      "2010s英雄聯盟支語(2021起PTT反覆辯論)",
+      "約2021年在PTT LoL/C_Chat社群開始出現明顯爭論"
+    ],
+    "evidence": [
+      "https://www.ptt.cc/bbs/C_Chat/M.1619266534.A.0AE.html ; https://www.ptt.cc/bbs/C_Chat/M.1619272329.A.851.html",
+      "https://www.pttweb.cc/bbs/C_Chat/M.1619266534.A.0AE"
+    ],
+    "heat": [
+      "C_Chat同名討論串正反兩篇皆有一定推文量，多年持續被引用為支語代表詞",
+      "PTT C_Chat 熱門討論串，正反雙方各有多則推文與噓文（forsakesheep原文＋emptie等人回文）"
+    ],
+    "controversy": [
+      "原PO主張『皮膚』是直譯skin、中國人選的翻譯法，台灣習慣依語境用『造型』『外觀』或直接講skin；但也有網友認為此詞兩岸已通用、爭議意義不大",
+      "有推文主張『skin本來就是皮膚，不然身上長的是什麼』反對此為支語；另有討論指出翻譯策略三方分歧——中國作法是『不論抽象概念或特定skin都翻成皮膚』，台灣傳統做法是『依語境挑選最貼切的詞（造型/外觀），概念本身不強制統一翻譯』，日本則保留原文『スキン』。屬翻譯哲學之爭，非單純誰對誰錯。"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "大龍",
+    "tw": ["巴龍（Baron Nashor音譯）", "巴龍（官方另稱男爵/納許男爵）"],
+    "cats": ["gaming"],
+    "gens": ["LoL大型野怪Baron Nashor稱呼", "英雄聯盟Baron Nashor暱稱"],
+    "evidence": [
+      "https://www.ptt.cc/bbs/LoL/M.1653446939.A.345.html ; https://www.ptt.cc/bbs/LoL/M.1634028281.A.355.html",
+      "https://www.ptt.cc/bbs/LoL/M.1666685846.A.1E7.html"
+    ],
+    "heat": [
+      "兩篇獨立PTT LoL文章都把此詞列為主播支語代表例",
+      "同上PTT LoL討論串，作者稱『早期已支化』"
+    ],
+    "controversy": [
+      "被原PO點名為滲透歷史最久的詞例之一，顯示部分術語的『支化』早於這波2020年代支語警察討論熱潮，非新現象。"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "常規賽",
+    "tw": ["例行賽"],
+    "cats": ["gaming"],
+    "gens": [
+      "LoL電競主播檯用語，作者稱LMS時期尚未出現、PCS時期漸增",
+      "PCS電競賽制轉播用語"
+    ],
+    "evidence": [
+      "https://www.ptt.cc/bbs/LoL/M.1666685846.A.1E7.html",
+      "https://www.ptt.cc/bbs/LoL/M.1666685846.A.1E7.html"
+    ],
+    "heat": ["PTT LoL板專文『PCS主播檯的支語現象是不是愈來愈嚴重了』"],
+    "controversy": [
+      "反對意見認為『聽得懂就好、語言會自然演進』，且LoL母公司騰訊持股Riot，中資背景本就會讓兩服用語混雜；支持方則認為官方主播檯應維持台服官方翻譯以示專業。"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "666",
+    "tw": [
+      "無公認對應（年輕世代已直接借用數字梗，無替代詞）",
+      "無直接對應（讚/神）"
+    ],
+    "cats": ["gaming", "slang"],
+    "gens": ["2025國小作文事件", "中國網路slang，諧音『溜』"],
+    "evidence": [
+      "https://www.setn.com/News.aspx?NewsID=339266",
+      "https://www.pttweb.cc/bbs/Gossiping/M.1743035596.A.B2B"
+    ],
+    "heat": [
+      "已高度歸化，台灣直播圈普遍使用，SETN三立新聞直接科普此詞不再視為需要抵制的支語",
+      "同上"
+    ],
+    "controversy": [],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "開黑",
+    "tw": [
+      "揪團（較廣義）／組隊",
+      "無公認對應（直接沿用，罕見的『輸入無爭議』案例）"
+    ],
+    "cats": ["gaming"],
+    "gens": [
+      "源自War3與其熱門對戰地圖（真三/DotA/3C）時代的『黑店』概念，2010年代因LoL、DotA2再度流行"
+    ],
+    "evidence": [
+      "https://forum.gamer.com.tw/C.php?bsn=38144&snA=2375 ; https://taiwanlanguage.wordpress.com/2011/12/16/%E6%8F%AA%E5%9C%98%EF%BC%88tsio-tuan%EF%BC%89%E2%94%80%E2%94%80%E6%8B%9B%E5%8B%9F%E5%9C%98%E5%93%A1%E7%B5%84%E6%88%90%E5%9C%98%E9%AB%94/",
+      "https://mzh.moegirl.org.cn/zh-tw/%E5%BC%80%E9%BB%91"
+    ],
+    "heat": ["萌娘百科繁體中文版（zh-tw網址）直接收錄詞條、不另作在地化翻譯"],
+    "controversy": [
+      "『揪團』其實源自台語『招團』（tsio-tuan），是台灣本土詞彙但適用範圍更廣（非遊戲限定，烤肉、補習班報名都可用）；『開黑』是中國遊戲圈特定組隊用語，兩者非完全一對一對應，僅在『找人一起玩遊戲』情境重疊",
+      "查證過程沒有找到台灣社群對『開黑』一詞的抵抗或替代方案的證據——不同於『皮膚』『上頭』引發的正反論戰，『開黑』顯示的是被平順接受、未觸發支語警察反應的個案，值得記錄作為對照組。"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "點讚",
+    "tw": ["按讚"],
+    "cats": ["entertainment", "tech"],
+    "gens": ["-"],
+    "evidence": [
+      "https://www.threads.com/@lupei404/post/C4s-AVHKIAF",
+      "https://www.threads.com/@lupei404/post/C4s-AVHKIAF"
+    ],
+    "heat": ["lupei404 Threads對照表收錄"],
+    "controversy": [
+      "「讚」按鈕本身源自Facebook，兩岸皆受影響，僅動詞搭配用法不同（點讚 vs 按讚）。"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "種草",
+    "tw": [
+      "無公認對應（本次搜尋查無明確台灣既有替代詞的直接證據，暫列無公認對應）",
+      "無精確舊詞對應(近似「心動」「想買」「推坑」)"
+    ],
+    "cats": ["business", "slang"],
+    "gens": ["2019年後中國小紅書式行銷文化輸入"],
+    "evidence": [
+      "https://disp.cc/b/ChinaDrama/dq92",
+      "（本詞未找到可直接引用的台灣網友討論來源，留待後續查證）"
+    ],
+    "heat": [
+      "PTT 討論串提及;invade.tw 查無此詞條",
+      "未查到台灣網友專門就此詞展開「是否支語」討論的具體貼文"
+    ],
+    "controversy": [
+      "⚠️ 常有人聯想台灣舊有ACG圈用語「推坑」語意相近，但本次搜尋未能找到直接證據佐證此對應關係的來源，故不武斷認定，列為待查。",
+      "爭議：PTT 有留言主張「種草是日文」，但此說法與一般認知的中國網路購物語境（欲購買、被安利）不同，需持保留態度，本身即是「支語判準常出錯」的例證"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "小姐姐／小哥哥",
+    "tw": [
+      "無公認單一對應（原台灣慣用「正妹/帥哥/妹妹」）",
+      "無公認對應(多數情境直接沿用，或視語境改稱「妹妹/弟弟」「正妹/型男」)"
+    ],
+    "cats": ["appellation"],
+    "gens": ["2015年後直播/短影音稱呼文化", "2018年前後隨直播/短影音文化興起"],
+    "evidence": [
+      "https://disp.cc/b/Gossiping/dpXP",
+      "https://dailyview.tw/popular/detail/21332"
+    ],
+    "heat": [
+      "READr 列入 Dcard 前15常用中國流行語;PTT 網友直指「打小姊姊、小哥哥這些才是支那用語」",
+      "DailyView 2023-04-19專題列出"
+    ],
+    "controversy": [],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "老司機",
+    "tw": ["無公認單一對應(近似「資深玩家」「內行人」，視語境)", "行家、老手"],
+    "cats": ["slang"],
+    "gens": [
+      "典出2004年雲南民歌〈老司機帶帶我〉，2016年入選中國十大網路流行語"
+    ],
+    "evidence": [
+      "https://today.line.me/tw/v2/article/6MpjXa",
+      "https://www.readr.tw/post/2836"
+    ],
+    "heat": [
+      "READr 列入 Dcard 前15常用中國流行語;invade.tw 查無此詞條",
+      "Dcard Top15第12名"
+    ],
+    "controversy": [
+      "invade.tw 未將其收錄為侵略性詞彙，可能因使用時間長、已被視為兩岸網路老詞而非新滲透詞",
+      "是既有詞被賦予新義後隨中國網路文化再流行傳入，非中國原創新詞"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "小鮮肉",
+    "tw": [
+      "無公認完全對應(已半借用,近似「嫩男」「年輕帥氣男生」)",
+      "無公認對應"
+    ],
+    "cats": ["appellation"],
+    "gens": ["2015年前後中國娛樂圈詞彙"],
+    "evidence": [
+      "https://www.readr.tw/post/2553",
+      "https://n.yam.com/Article/20240606232938 ; https://www.rti.org.tw/news?uid=3&pid=48420"
+    ],
+    "heat": [
+      "READr 詞彙清單收錄",
+      "立法院教委會質詢（國民黨立委洪孟楷質詢文化部長李遠），上報／蕃新聞／Line Today等多家媒體報導"
+    ],
+    "controversy": [
+      "文化部長李遠公開回應「開放包容無須限制」，代表行政機關不將此類詞彙認定為統戰工具，正式駁回「支語＝統戰」框架，是官方立場最明確的一次公開表態。"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "小仙女",
+    "tw": ["公主病／作女（語感相近但非完全對應）", "無公認對應"],
+    "cats": ["appellation"],
+    "gens": ["2018年前後中國網路流行語"],
+    "evidence": [
+      "https://www.readr.tw/post/2553",
+      "https://baike.baidu.com/item/小仙女/23579368 ; https://kknews.cc/zh-tw/entertainment/ggv2yke.html"
+    ],
+    "heat": [
+      "READr 詞彙清單收錄",
+      "百度百科詞條註明為「網絡社群爭議性女性代稱」；知乎專文「忽然火遍全網的小仙女這個梗是怎麼來的」；每日頭條（台灣受眾向）轉載同主題文章"
+    ],
+    "controversy": [
+      "原始語意帶貶義（諷刺自我中心、公主病女性），台灣使用時語境未必負面，容易誤用；與語意方向相反的「神仙姐姐」（正面讚美）常被搞混"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "Pick",
+    "tw": ["無公認對應，多直接沿用pick或說「選/支持」", "選／挺／支持"],
+    "cats": ["entertainment"],
+    "gens": [
+      "源自韓國選秀節目文化,經中國網路二次傳播進入台灣",
+      "與C位同批，2018年《偶像練習生》系選秀節目帶起"
+    ],
+    "evidence": [
+      "https://www.readr.tw/post/2553",
+      "https://www.dcard.tw/f/entertainer/p/235759752"
+    ],
+    "heat": [
+      "READr 指出「pick」流行時間點與中國選秀節目(如《创造101》系列)熱潮吻合",
+      "Dcard追星版專文標題直接追問「為什麼C位、PICK是中國用語？」"
+    ],
+    "controversy": [
+      "pick本是韓國選秀《Produce 101》系列的英文借詞，經中國選秀節目《偶像練習生》《創造101》承襲後才連帶輸入台灣，是韓中混合傳播鏈，不是中國獨創詞",
+      "詞源實為韓國選秀文化用語(如「我 pick 你」)，經中國網路二次傳播才進入台灣，並非中國原創詞"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "凡爾賽(凡爾賽文學)",
+    "tw": [
+      "暗酸／炫耀式謙虛(無單一舊詞完全對應,多數直接借用「凡爾賽」)",
+      "無公認對應（「低調炫耀／假謙虛真炫耀」需用整句解釋，無單一詞）"
+    ],
+    "cats": ["slang"],
+    "gens": ["2020年", "2020年中國微博爆紅"],
+    "evidence": [
+      "https://www.dcard.tw/f/talk/p/254566115",
+      "https://kidsmedia.com.tw/2026/06/08/what-does-versailles-mean-online-the-origin-and-rise-of-the-humblebrag-trend/ ；https://www.storm.mg/lifestyle/11075424"
+    ],
+    "heat": [
+      "Dcard「這幾個中國用語大家有什麼看法」一文列為討論詞彙之一",
+      "KidsMedia、風傳媒10大流行語榜單、KKnews、Dcard討論串等多篇報導"
+    ],
+    "controversy": [
+      "詞源實為日本漫畫《凡爾賽玫瑰》，由微博博主「小奶球」2020年借用宮廷奢華意象創造「凡爾賽文學」，非純粹中國原生詞，是日本文化→中國網路→台灣的三層轉譯鏈"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "媳婦",
+    "tw": ["媳婦（兒子的妻子、弟弟或晚輩之妻）", "老婆"],
+    "cats": ["appellation"],
+    "gens": ["2010s meme", "傳統漢語詞，兩岸各自演化出不同詞義（同名異實）"],
+    "evidence": [
+      "https://www.threads.com/@hellohanahsu/post/C2mggFIRZnU",
+      "https://raw.githubusercontent.com/g0v/moedict-data-csld/master/兩岸三地生活差異詞語彙編-同名異實.csv"
+    ],
+    "heat": [
+      "高互動貼文以「亂倫」哏強調反感",
+      "moedict-data-csld（g0v協作兩岸詞語彙編CSV）收錄為代表性「同名異實」詞條"
+    ],
+    "controversy": [
+      "經典「同形異義」案例，非支語滲透而是本義分歧——台灣人若誤用大陸「媳婦=自己妻子」用法，可能被親戚誤會成兒子娶妻，常被語言學者拿來說明兩岸用詞「同名異實」的實際風險"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "差評",
+    "tw": ["負評"],
+    "cats": ["daily", "slang"],
+    "gens": ["電商時代"],
+    "evidence": [
+      "https://www.threads.com/@sakadeggg/post/DQSxIALD4n4",
+      "https://www.threads.com/@lupei404/post/C4s-AVHKIAF"
+    ],
+    "heat": ["收錄於 threads 對照清單型貼文"],
+    "controversy": [],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "寶寶",
+    "tw": ["寶貝／北鼻"],
+    "cats": ["appellation"],
+    "gens": ["網路暱稱用語"],
+    "evidence": [
+      "https://www.threads.com/@lupei404/post/C4s-AVHKIAF",
+      "https://www.threads.com/@lupei404/post/C4s-AVHKIAF"
+    ],
+    "heat": ["同上整理型貼文"],
+    "controversy": [
+      "「北鼻」原文語境特指情侶間稱呼，與「寶寶」泛用語境不完全對等"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "特好／特別好",
+    "tw": ["很好、超好", "超好／很好"],
+    "cats": ["grammar"],
+    "gens": ["2010s口語句構", "2020 Dcard Top15第3名"],
+    "evidence": [
+      "https://www.fountmedia.io/article/108385",
+      "https://disp.cc/b/163-dpXP"
+    ],
+    "heat": ["范雲團隊15大熱門詞排行第3", "Dcard十年榜單前段"],
+    "controversy": [
+      "「特＋形容詞」是北方官話句構滲透，屬句構級而非單一詞彙的滲透案例",
+      "屬於「特＋形容詞」北方官話句構滲透，而非單一詞彙輸入，爭議在於是否該計入「用語」範疇"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "內地",
+    "tw": [
+      "中國大陸／大陸",
+      "中國／對岸／大陸（依語境而定，官方傾向使用「中國」）"
+    ],
+    "cats": ["appellation", "politics/appellation"],
+    "gens": ["跨世代", "長期政治用語爭議（非網路流行語）"],
+    "evidence": [
+      "https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=5786&pid=54737",
+      "https://issues.ptsplus.tv/articles/992/"
+    ],
+    "heat": [
+      "立法院已有正式提案討論「稱呼中國為內地有損國家尊嚴」",
+      "公視專文黃震南特別點名為唯一他認為「明顯突顯主權錯亂」的用語，與其他流行語性質不同"
+    ],
+    "controversy": [
+      "【政治定性爭議】「內地」一詞在台灣的當代用法源自香港／澳門回歸中國後的稱呼方式，語言學上隱含「台灣從屬於中國」的政治框架，與其他生活詞彙爭議性質不同，是最具主權意涵的個案",
+      "此詞是本研究中少數作者本人也認同具政治敏感性的個案（暗示台灣是中國的邊陲/內地相對於「母國」），與其餘被歸為單純語言演化的流行語不同，不應等同視之"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "硬件／軟件",
+    "tw": ["硬體／軟體"],
+    "cats": ["tech"],
+    "gens": ["電腦名詞在地化分流"],
+    "evidence": [
+      "https://supertaste.tvbs.com.tw/hot/350729",
+      "data/terminology/.china-terms.detection.tsv"
+    ],
+    "heat": [
+      "supertaste清單；art.ltn對照表",
+      "detection.tsv列severity A（軟件/硬件皆為必換等級）"
+    ],
+    "controversy": [],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "軟件／硬件",
+    "tw": ["軟體／硬體"],
+    "cats": ["tech"],
+    "gens": ["2010s", "IT產業長期詞彙（1990年代起）"],
+    "evidence": [
+      "https://art.ltn.com.tw/article/breakingnews/5466763 ; https://hackmd.io/@SeanPeng/B1psY1s6K",
+      "https://www.storm.mg/lifestyle/5153311"
+    ],
+    "heat": [
+      "自由藝文網2026報導列為科技類前3常見對照組之一",
+      "Dcard討厭排行並列第2名（與視頻/硬盤同組）"
+    ],
+    "controversy": ["無公認爭議，普遍接受為兩岸標準科技術語差異（同實異名）"],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "手袋（香港用語，被部分台灣人誤判為支語）",
+    "tw": ["手提包", "手提包（部分台灣人認為手袋是支語，手提包才是台灣用語）"],
+    "cats": ["daily"],
+    "gens": ["支語警察論戰常見例（2024後Threads/PTT）"],
+    "evidence": [
+      "https://zh-yue.wikipedia.org/wiki/支語警察",
+      "https://zh-yue.wikipedia.org/wiki/支語警察"
+    ],
+    "heat": ["粵語維基「支語警察」條目列舉例句之一"],
+    "controversy": [
+      "手袋是粵語圈固有詞彙（廣東話日常用語），被部分台灣網友當成中國新造詞抓，其實港澳本來就這樣講",
+      "粵語維基百科「支語警察」條目記載：「有啲台灣人話『手提包』是台灣用語，『手袋』是支語」，被港人網友批評對台灣用語同「支語」的二分過於狹隘"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "限流",
+    "tw": ["降觸及"],
+    "cats": ["business", "entertainment"],
+    "gens": ["社群平台演算法治理詞彙"],
+    "evidence": [
+      "https://www.threads.com/@lupei404/post/C4s-AVHKIAF",
+      "https://www.threads.com/@lupei404/post/C4s-AVHKIAF"
+    ],
+    "heat": ["lupei404 Threads對照表收錄"],
+    "controversy": [
+      "中國語境常指官方審查性降低內容曝光，台灣創作者借用時多半只取「演算法降低觸及」的技術義，語意已窄化、脫離原本審查脈絡。"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "拿捏",
+    "tw": [
+      "掌握／分寸",
+      "衡量、調整做事情的程度（傳統義）；新義（控制對方）尚無明確對應詞"
+    ],
+    "cats": ["grammar", "slang"],
+    "gens": [
+      "古已有之的詞義延伸案例，現代網路義约2021年後隨中國網路流行",
+      "詞本身古已有之；「小小OOXX拿捏」句式源自中國網路"
+    ],
+    "evidence": [
+      "https://vocus.cc/article/67ffb88efd89780001b3a208 ; https://grinews.com/news/%E6%8A%93%E3%80%8C%E6%94%AF%E8%AA%9E%E3%80%8D%E7%9A%84%E6%84%9A%E6%98%A7/",
+      "https://www.facebook.com/1ynoprcch/posts/122184276314569945/"
+    ],
+    "heat": [
+      "多篇評論文章（vocus、grinews）專文討論其是否算支語",
+      "中——「沒有中國用語的一年—中國用語流言終結者」系列做了專門考據；PTT、Dcard多篇支語清單文章列入"
+    ],
+    "controversy": [
+      "⚠️常被誤判案例——教育部辭典本就收錄「拿捏」，古籍已有多種用法，真正源自中國網路的只是「小小OOXX拿捏」的句式用法，並非詞彙本身",
+      "經Facebook系統性考據系列查證：「拿捏」表「衡量輕重」的傳統用法古已有之（見於《紅樓夢》等白話古文），但簡體中文將「控制、要脅」與「衡量輕重」兩個定義合併為「掌握、把握」，進而延伸出「拿捏對方」（控制人際關係）的現代網路新義，該文結論為「兼有丁類與戊類中國用語的特徵」（即部分屬於語意延伸借用，非全新造詞）"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "充電寶／暖手寶（X寶構詞）",
+    "tw": ["行動電源／暖暖包"],
+    "cats": ["daily", "tech"],
+    "gens": ["2010年代3C配件業界", "2020s「X寶」構詞法"],
+    "evidence": [
+      "https://dailyview.tw/popular/detail/21332 ; https://www.setn.com/news.aspx?newsid=1236348",
+      "https://dailyview.tw/popular/detail/21332"
+    ],
+    "heat": [
+      "PTT「最討厭中國用語」清單多次提及",
+      "DailyView 2023-04-19專題列出"
+    ],
+    "controversy": [
+      "「寶」字造詞法（X寶）被部分網友視為典型中國網路構詞邏輯，非單一詞彙而是整套構詞模式引發反感"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "集美（閨蜜諧音）",
+    "tw": ["姐妹／姐妹們", "無公認對應"],
+    "cats": ["appellation"],
+    "gens": [
+      "抖音社群暱稱諧音梗",
+      "網路主播原創之「姐妹」諧音詞，2020年由中國國家語言資源監測與研究中心列入「十大網絡用語」官方認證"
+    ],
+    "evidence": [
+      "https://www.threads.com/@lupei404/post/C4s-AVHKIAF",
+      "https://www.zhihu.com/question/392973143 ; https://www.ourchinastory.com/zh/4979/網絡潮語：集美 ; https://www.ptt.cc/bbs/WomenTalk/M.1662713304.A.4E9.html"
+    ],
+    "heat": [
+      "Threads對照表（613讚/175留言/25.7K瀏覽）收錄",
+      "PTT WomenTalk抓狂串有人列名；知乎兩則問題專門討論其起源與廈門在地人反感；中國官方色彩網站「當代中國」以「每日一詞」專文介紹確認其官方認可地位"
+    ],
+    "controversy": [
+      "高度爭議且方向特殊——連中國廈門本地網友都反感這個詞「盜用」集美區地名（知乎「廈門人為什麼反感集美這個詞」討論串），顯示這不只是兩岸爭議，中國內部對此詞也有地域性不滿；且invade.tw支語字典目前查無「集美」詞條（/v/集美回傳404），顯示既有支語資料庫尚未收錄"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "軟糯",
+    "tw": [
+      "「軟Q」「Q彈」較接近但語意範圍不同（軟糯偏綿密濕潤口感，軟Q強調彈牙）",
+      "軟Q／軟嫩（但反對者主張「軟糯」本來就是台灣既有詞）"
+    ],
+    "cats": ["food", "food/adjective"],
+    "gens": [
+      "被誤判為中國網路新詞，實為戰後台灣飲食文學既有用詞",
+      "食物口感描述詞，2024年9月因公開道歉事件成為全國話題"
+    ],
+    "evidence": [
+      "https://udn.com/news/story/120912/8207842 ; https://news.nextapple.com/life/20240904/88A2F65CAC27F14EBAFEAA38C6A14F5F ; https://www.pttweb.cc/bbs/Gossiping/M.1725455589.A.3D1",
+      "https://udn.com/news/story/120912/8207842 ; https://news.nextapple.com/life/20240904/88A2F65CAC27F14EBAFEAA38C6A14F5F ; https://www.pttweb.cc/bbs/Gossiping/M.1725455589.A.3D1 ; https://udn.com/news/ai/answer/有哪些網友認為-軟糯-一詞不算-支語-25014096"
+    ],
+    "heat": [
+      "2024年9月旅日部落客「魚漿夫婦」因用「軟糯」形容台灣冬粉口感遭網友指為支語，公開發文道歉，事件登上UDN、壹蘋、PTT熱議，PTT.best 2026年再度出現「脆上說軟糯是支語」討論",
+      "旅日部落客「魚漿夫婦」因用此詞遭出征公開道歉，登上udn/蘋果新聞/PTT熱門"
+    ],
+    "controversy": [
+      "PTT網友列出逯耀東《已非舊時味》(1992)、陳存仁《津津有味譚》(1972)、朱鏡宙《思過齋叢話》(1978)、唐魯孫《唐魯孫談吃》(1988)四本台灣出版飲食著作原文使用「軟糯」的例句，主張此詞早於中國網路文化即存在台灣飲食書寫傳統，被歸為支語有誤判之嫌，形成「文字獄」批評",
+      "高度爭議——PTT網友考證出1902年《華英音韻字典集成》，及1972-1992年間台灣出版書籍（唐魯孫《唐魯孫談吃》、逯耀東《已非舊時味》等）均已使用「軟糯」，證明此詞1949年前已存在，屬於「更早的台灣（中文）詞被誤認支語」典型案例"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "city不city",
+    "tw": [
+      "無公認對應",
+      "無公認對應（中英混用句式，台灣使用時多半直接借用原詞）"
+    ],
+    "cats": ["slang"],
+    "gens": [
+      "2024年中國年度流行語（同上）",
+      "2024年出圈熱詞，《咬文嚼字》2024年十大流行語第4名"
+    ],
+    "evidence": [
+      "https://baike.baidu.com/item/city不city/64554712 ; https://www.jiemian.com/article/12061890.html ; https://ctinews.com/news/items/Q8n8AGkdWo",
+      "https://www.4gtv.tv/article/2024120511000012"
+    ],
+    "heat": [
+      "《咬文嚼字》官方年度榜單收錄；中國外交部發言人毛寧2024年8月公開回應此詞走紅",
+      "同上，官方年度盤點入選"
+    ],
+    "controversy": [
+      "英漢混合造詞，非傳統兩岸詞彙差異類型，收錄本身即顯示「支語」定義正在往更新、更混雜的網路造詞擴張",
+      "詞語本身非中國原創——由美籍旅遊博主「保保熊」以中英混雜語調發明並在中國走紅，屬「外國人造詞、中國網路捧紅」的特殊案例，不宜簡單歸類為中國原創支語；台灣中時新聞網曾將此詞挪用於政治評論（批評民進黨政府「禁團令」），顯示部分詞彙在台灣的使用已被賦予政治框架"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "班味",
+    "tw": [
+      "無公認固定詞，語感接近台灣說法「上班族疲態/社畜臉」但非既有固定詞",
+      "無公認對應（形容上班疲憊倦態的中國網路流行語）"
+    ],
+    "cats": ["daily", "slang"],
+    "gens": [
+      "2024年《咬文嚼字》十大流行語",
+      "2024年中國年度流行語，上海《咬文嚼字》雜誌官方評選"
+    ],
+    "evidence": [
+      "https://news.cn/politics/20241202/59496b2d344b4382b6c12d03d78b8f13/c.html",
+      "https://www.4gtv.tv/article/2024120511000012"
+    ],
+    "heat": [
+      "《咬文嚼字》官方年度榜單收錄，央視網等官媒報導",
+      "中國官方語言文化雜誌年度盤點入選詞，台灣媒體（四季線上4gTV）以「支語警察出動！」為標題報導轉載"
+    ],
+    "controversy": [
+      "屬於「中國原創新造流行語」而非兩岸既有詞彙替換，台灣無直接對應詞，部分被年輕世代直接挪用討論"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "鬆弛感（松弛感）",
+    "tw": [
+      "放鬆感／悠閒舒適感／隨性／悠閒愜意／愜意、自在、隨興、從容、慵懶（皆為多字迂迴表達，無單一對應詞）",
+      "無公認對應（情緒狀態形容詞）"
+    ],
+    "cats": ["slang"],
+    "gens": [
+      "2022年微博爆紅詞→2024年中國官方年度十大流行語",
+      "2024年中國年度流行語（同上）"
+    ],
+    "evidence": [
+      "https://www.pttweb.cc/bbs/Gossiping/M.1781611588.A.84C ; https://www.wenweipo.com/a/202412/08/AP67550127e4b012cd33795871.html ; https://www.threads.com/@sadwordtalk/post/C7vtN9LvxaD?hl=zh-tw",
+      "https://www.4gtv.tv/article/2024120511000012"
+    ],
+    "heat": [
+      "PTT《Gossiping》2026年討論串仍在延燒（M.1781611588）；Threads貼文（sadwordtalk）4.3萬瀏覽／1.0萬讚／267留言／821轉發；被百度百科標記為「网络流行语」",
+      "同上"
+    ],
+    "controversy": [
+      "PTT網友查證後確認「由來是大陸某博主創造的流行語」（2022年微博一則機場行李事件貼文引爆），2024年被中國國家語言資源監測與研究中心／《咬文嚼字》列入官方「2024年十大流行語」，官方定義為「遇事能從容應對、善待自己、不慌張不焦慮的狀態」；也有台灣網友反駁「探店本身也是對岸詞彙，質疑過度區別用語的必要性」",
+      "同上，屬中國原創情緒詞彙"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "顯眼包",
+    "tw": [
+      "無公認對應",
+      "無明確公認對應，台灣媒體多直接沿用原詞報導，未另造替代詞"
+    ],
+    "cats": ["internet slang", "slang"],
+    "gens": [
+      "2023年中國官方認證年度十大新詞語之一",
+      "中國2023年「十大網路流行語」入選詞（上海《語言文字周報》主辦評選）"
+    ],
+    "evidence": [
+      "https://www.storm.mg/lifestyle/4953010",
+      "https://news.mingpao.com/ins/兩岸/article/20231208 ; https://www.storm.mg/lifestyle/4953010"
+    ],
+    "heat": [
+      "低（僅見於「年度新詞」報導型文章中被提及，未見台灣網友日常使用或支語清單收錄）",
+      "風傳媒、明報等媒體專文報導其入選2023年度十大新詞"
+    ],
+    "controversy": [
+      "低度——已知為中國網路造詞，但尚未見台灣網友大量討論其支語身分或積極尋找替代詞，屬「悄悄輸入尚未引發論戰」的類型",
+      "與特種兵式旅遊同屬2023年中國官方十大新詞語，官方定義為「在網路上特指那些在同類中脫穎而出比較顯眼的事物」，目前僅見於財經／生活媒體對中國流行語的報導型文章，尚未見台灣網友在PTT/Dcard日常對話中使用或列入支語清單，屬於報導層級的詞彙輸入，尚未進入生活語言層級"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "視帝",
+    "tw": [
+      "影帝",
+      "無公認對應（台灣影視圈慣用「最佳男主角」，無此俗稱傳統，但港片討論圈已引入）"
+    ],
+    "cats": ["entertainment"],
+    "gens": ["港澳影視獎項俗稱，長年存在", "港澳粵語詞彙，非中國大陸新詞"],
+    "evidence": [
+      "https://zh.wikipedia.org/zh-tw/支語",
+      "https://zh.wikipedia.org/zh-tw/支語"
+    ],
+    "heat": [
+      "維基百科「支語」條目列為誤判案例，引發台港網友論戰",
+      "維基百科「支語」條目列為誤判典型"
+    ],
+    "controversy": [
+      "「視帝」是香港/澳門影視獎項（如金像獎最佳男主角）的長年俗稱，被部分台灣網友誤指為中國大陸用語，引發台港網友論戰。屬於港澳詞被誤判為支語的典型案例之一。",
+      "香港用語被台灣網民誤認為支語的代表案例"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "帽衫",
+    "tw": ["帽衫（vs中國「衛衣」）", "衛衣"],
+    "cats": ["daily"],
+    "gens": ["支語警察論戰常見對照例", "端傳媒2024文章列舉例"],
+    "evidence": [
+      "https://theinitium.com/20240525-opinion-sinophone-language-debate/",
+      "https://theinitium.com/20240525-opinion-sinophone-language-debate/"
+    ],
+    "heat": [
+      "端傳媒〈台港支語警察辯論〉專文列為爭議詞例",
+      "端傳媒（Initium Media）評論專文引用"
+    ],
+    "controversy": [
+      "作為端傳媒文章開頭舉的標準支語對照例（帽衫台灣／衛衣中國），無港澳星馬爭議，列為對照基準",
+      "端傳媒文章將其列為Threads「中國用語滲透」論戰中的爭議詞彙之一，具體台港各自慣用情況未深入考證"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "寄艙",
+    "tw": ["托運", "託運（台灣用法恰好與中國一致）"],
+    "cats": ["daily"],
+    "gens": ["跨語系誤判案例", "香港航空業固有用語"],
+    "evidence": [
+      "https://talk.ltn.com.tw/article/breakingnews/5521301",
+      "https://talk.ltn.com.tw/article/breakingnews/5521301"
+    ],
+    "heat": ["同上馮睎乾專欄", "自由評論網馮睎乾專文點名批評"],
+    "controversy": [
+      "同上，香港用詞被誤植入支語對照圖，台灣和中國其實都說「托運」",
+      "東森新聞列為需防範的支語，實為香港專屬用語；諷刺的是台灣自己的講法「託運」反而跟中國一致，是被誤標的港式詞典型案例"
+    ],
+    "slice_count": 2,
+    "low_evidence": false
+  },
+  {
+    "cn": "窩心",
+    "tw": ["（台灣本身即用「窩心」表貼心）"],
+    "cats": ["daily"],
+    "gens": ["跨地域方言差異案例"],
+    "evidence": ["https://zh.wiktionary.org/wiki/%E7%AA%9D%E5%BF%83"],
+    "heat": ["低—多見於維基詞典與零星討論"],
+    "controversy": [
+      "高爭議：中國武漢話「窩心」＝噁心，但台灣、中國南方、港澳「窩心」皆＝貼心/暖心，顯示歧義源自中國內部方言差異，並非台灣獨有或單向被支語入侵的案例，常被誤引用為支語爭議教材"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "素質",
+    "tw": ["素質（台灣本就慣用此詞）"],
+    "cats": ["daily"],
+    "gens": ["千年古詞被誤判為新支語"],
+    "evidence": ["https://www.threads.com/@lukelu0913/post/C57XRLgv3o_"],
+    "heat": ["低—多見於Threads個人闢謠貼文"],
+    "controversy": [
+      "網路流傳「素質是支語」但實為誤判：該詞台灣教育部字典、政府機關文書、學術論文、文學作品中皆長期大量使用，被作者特別點名為「不應矯枉過正」的案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "網紅／受眾／電熱毯／樣板／高檔",
+    "tw": ["（部分網友認為台灣本來就有使用，非純支語）"],
+    "cats": ["daily"],
+    "gens": ["2021年WomenTalk票選爭議詞組"],
+    "evidence": ["https://www.ptt.cc/bbs/WomenTalk/M.1619094022.A.4BA.html"],
+    "heat": [
+      "WomenTalk「大家覺得以下哪幾項是中國用語？」討論串答案分歧，多人主張這些詞台灣本來就在用"
+    ],
+    "controversy": [
+      "典型「誤判」案例組：部分網友認為除「高檔」外皆是支語，但也有反對意見指出網紅、受眾、電熱毯等詞台灣使用已久、與政治無關，是否算支語取決於脈絡"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "上分",
+    "tw": ["爬分"],
+    "cats": ["gaming"],
+    "gens": ["2022 PTT LoL支語列表"],
+    "evidence": ["https://www.ptt.cc/bbs/LoL/M.1653446939.A.345.html"],
+    "heat": [
+      "原文列於PTT LoL板正文『造型→皮膚 影片→視頻 爬分→上分…』六詞對照的第三例"
+    ],
+    "controversy": [
+      "巴哈姆特等台灣遊戲論壇/媒體文章標題本身也大量使用『上分』（如〈LOL爬分機制〉與〈傳說對決…上分無壓力〉並存），顯示此詞在遊戲圈已高度普及，是否仍算支語存在爭議"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "刀數",
+    "tw": ["吃兵數"],
+    "cats": ["gaming"],
+    "gens": ["同上2022列表"],
+    "evidence": ["https://www.ptt.cc/bbs/LoL/M.1653446939.A.345.html"],
+    "heat": [],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "瞎子／盲僧",
+    "tw": ["李星（PTT社群音譯暱稱）"],
+    "cats": ["gaming"],
+    "gens": ["英雄聯盟Lee Sin暱稱"],
+    "evidence": ["https://www.ptt.cc/bbs/LoL/M.1653446939.A.345.html"],
+    "heat": [],
+    "controversy": [
+      "『盲僧』其實是兩岸官方共用譯名，『瞎子』才是中國社群口語暱稱；『李星』是台灣PTT對Lee Sin的音譯自創梗名，三詞混在一起討論方向不完全清楚，需謹慎"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "直播主",
+    "tw": ["實況主"],
+    "cats": ["gaming"],
+    "gens": ["2020年前後生態轉變"],
+    "evidence": [
+      "https://www.pttweb.cc/bbs/C_Chat/M.1599311268.A.C04 ; https://disp.cc/b/Gossiping/eWn2"
+    ],
+    "heat": ["PTT C_Chat同名討論串＋Gossiping對照文章都有涉及，跨板重複出現"],
+    "controversy": [
+      "高度爭議：反方主張『直播』一詞台灣電視媒體早已使用（『現場直播』『實況報導』），『直播主』非支語只是自然生態轉變；正方主張在遊戲圈脈絡下『實況主』才是原生用語，『直播主』是受中國直播產業影響的新用法"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "劍魔（英雄暱稱）",
+    "tw": ["厄薩斯（官方譯名Aatrox）"],
+    "cats": ["gaming"],
+    "gens": [],
+    "evidence": ["https://www.ptt.cc/bbs/LoL/M.1634028281.A.355.html"],
+    "heat": [],
+    "controversy": [
+      "部分網友認為官方稱號『放逐之刃』意象已與『劍魔』重疊，可接受此暱稱，非全員反對"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "刀妹（英雄暱稱）",
+    "tw": ["伊瑞莉亞（官方譯名Irelia）"],
+    "cats": ["gaming"],
+    "gens": [],
+    "evidence": ["https://www.ptt.cc/bbs/LoL/M.1634028281.A.355.html"],
+    "heat": [],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "塔姆（英雄暱稱）",
+    "tw": ["貪啃奇（官方譯名Tahm Kench）"],
+    "cats": ["gaming"],
+    "gens": [],
+    "evidence": ["https://www.ptt.cc/bbs/LoL/M.1634028281.A.355.html"],
+    "heat": [],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "球女（英雄暱稱，Orianna）",
+    "tw": ["發條(魔靈)"],
+    "cats": ["gaming"],
+    "gens": [],
+    "evidence": ["https://www.ptt.cc/bbs/LoL/M.1698468410.A.C75.html"],
+    "heat": [],
+    "controversy": [
+      "PTT留言『台灣講台灣的球女，中國講中國的球女』顯示兩岸可能各自獨立產生相同暱稱（趨同演化），未必是單向輸入"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "輪子媽（英雄暱稱，Sivir）",
+    "tw": ["無公認對應（一說即台灣本土暱稱）"],
+    "cats": ["gaming"],
+    "gens": [],
+    "evidence": ["https://www.ptt.cc/bbs/LoL/M.1698468410.A.C75.html"],
+    "heat": [],
+    "controversy": [
+      "重要反例：PTT用戶留言『輪子媽是台版的吧我剛玩就這樣叫了』，質疑此詞其實是台灣LoL初期社群自創暱稱而非中國輸入，是『支語警察』誤判的具體案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "男槍/女槍/男刀/女刀（性別化英雄暱稱）",
+    "tw": ["葛雷夫等官方譯名"],
+    "cats": ["gaming"],
+    "gens": ["LoL台灣2010年代初期社群暱稱"],
+    "evidence": [
+      "https://www.ptt.cc/bbs/LoL/M.1653446939.A.345.html ; https://www.ptt.cc/bbs/LoL/M.1698468410.A.C75.html"
+    ],
+    "heat": [],
+    "controversy": [
+      "推文『男刀女刀那些 都是在LOL初期稱呼的』——被質疑是台灣玩家自己在遊戲剛推出時發明的暱稱，而非中國輸入，屬於『更早的台灣詞被誤認為支語』案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "寄了",
+    "tw": ["GG（國際通用）／死了/輸了"],
+    "cats": ["gaming"],
+    "gens": [],
+    "evidence": ["https://www.ptt.cc/bbs/LoL/M.1666685846.A.1E7.html"],
+    "heat": [],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "雲玩家",
+    "tw": ["無公認對應"],
+    "cats": ["gaming"],
+    "gens": [],
+    "evidence": ["https://www.ptt.cc/bbs/LoL/M.1634028281.A.355.html"],
+    "heat": [],
+    "controversy": [
+      "原PO自己承認『台灣的中文沒有這種表達法 用支語更精確』，是原PO主動指出的例外——填補台灣語言空缺的中國輸入詞，而非單純替代既有台灣說法"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "抽象（形容『打得爛/看不懂』）",
+    "tw": ["台灣本來就有此用法（數理領域『抽象』=難懂）"],
+    "cats": ["gaming"],
+    "gens": [],
+    "evidence": ["https://www.ptt.cc/bbs/LoL/M.1697954014.A.781.html"],
+    "heat": [],
+    "controversy": [
+      "高度爭議：原文批評主播說『打得很抽象』是支語，但推文反駁『抽象台灣就有的用法 數理比文科抽象』，是典型『台灣本來就有、被誤判為支語』案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "有畫面",
+    "tw": ["台灣本來就有此用法"],
+    "cats": ["gaming"],
+    "gens": [],
+    "evidence": ["https://www.ptt.cc/bbs/LoL/M.1697954014.A.781.html"],
+    "heat": [],
+    "controversy": [
+      "同一爭議串：推文『有畫面不行喔 建設團戰的畫面 翻盤的畫面』主張此為台灣主播長期慣用語，非支語輸入"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "（無，台灣原創反制詞）7777",
+    "tw": ["7777（台灣統神原創迷因）"],
+    "cats": ["gaming"],
+    "gens": ["台灣實況主原創梗"],
+    "evidence": ["https://www.setn.com/News.aspx?NewsID=339266"],
+    "heat": ["三立新聞專文報導此詞源起"],
+    "controversy": [
+      "重要反例：7777並非支語，而是台灣實況主『統神』原創、回應666而生的台灣本土迷因，方向與一般支語輸入相反，是雙向文化互動的證據"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "大神",
+    "tw": ["達人／高手"],
+    "cats": ["slang"],
+    "gens": [],
+    "evidence": [
+      "https://zh.moegirl.org.cn/zh-tw/%E5%A4%A7%E7%A5%9E(%E7%94%A8%E8%AF%AD)"
+    ],
+    "heat": [],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "吃雞",
+    "tw": ["無公認對應（戰術大逃殺類直接沿用『吃雞』）"],
+    "cats": ["gaming"],
+    "gens": ["源自PUBG英文獲勝訊息中譯"],
+    "evidence": ["https://www.pttweb.cc/bbs/C_Chat/M.1626515428.A.1DC.html"],
+    "heat": [],
+    "controversy": [
+      "源自PUBG『Winner winner chicken dinner』中譯『大吉大利，今晚吃雞』，中國玩家縮寫為『吃雞』指稱戰術競技/大逃殺遊戲類型；台灣玩家與媒體現況也普遍直接使用『吃雞』，少見台灣自創替代說法，屬已高度通用、爭議極小的案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "斗內",
+    "tw": ["無公認對應（贊助/抖內同用）"],
+    "cats": ["gaming"],
+    "gens": ["音譯自英文donate"],
+    "evidence": ["https://www.setn.com/News.aspx?NewsID=339266"],
+    "heat": [],
+    "controversy": [
+      "音譯自英文donate，經中港台實況圈共同吸收使用（Twitch/抖內文化圈通用），非中國原創詞彙，常被誤認為純支語"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "分奴",
+    "tw": ["無公認對應"],
+    "cats": ["slang"],
+    "gens": [],
+    "evidence": ["https://www.pttweb.cc/bbs/C_Chat/M.1626515428.A.1DC.html"],
+    "heat": [],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "寫字樓",
+    "tw": ["辦公大樓／辦公室"],
+    "cats": ["daily"],
+    "gens": [],
+    "evidence": ["https://disp.cc/b/Gossiping/dpXP"],
+    "heat": ["PTT 網友明確列為「真的支語」三詞之一(與視頻、質量並列)"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "擔當",
+    "tw": ["負責的角色／該負責的部分(視語境)"],
+    "cats": ["entertainment"],
+    "gens": [],
+    "evidence": ["https://disp.cc/b/ChinaDrama/dq92"],
+    "heat": ["PTT 討論串提及"],
+    "controversy": [
+      "爭議：PTT 網友主張「擔當是日本用語」——日文「担当」原指負責的職務/角色，經中國飯圈文化（如「顏值擔當」）吸收後才在台灣流行，非中國原創詞"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "尬聊",
+    "tw": ["尷尬聊天／冷場"],
+    "cats": ["slang"],
+    "gens": [],
+    "evidence": ["https://www.readr.tw/post/2553"],
+    "heat": ["READr 詞彙清單收錄"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "確認過眼神",
+    "tw": ["無公認對應(表達「一看就懂」「心有靈犀」)"],
+    "cats": ["slang"],
+    "gens": [],
+    "evidence": ["https://www.readr.tw/post/2553"],
+    "heat": ["READr 詞彙清單收錄"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "姨母笑",
+    "tw": ["無公認對應(粉絲對愛豆流露母性/寵溺式的笑容)"],
+    "cats": ["entertainment"],
+    "gens": [],
+    "evidence": ["https://www.readr.tw/post/2553"],
+    "heat": [
+      "READr 指出「姨母笑」與「pick」流行時間點與中國娛樂圈/選秀節目潮流同步"
+    ],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "撩妹",
+    "tw": ["把妹／泡妞"],
+    "cats": ["slang"],
+    "gens": [],
+    "evidence": ["https://www.readr.tw/post/2553"],
+    "heat": ["READr 詞彙清單收錄"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "小奶狗",
+    "tw": ["無公認對應"],
+    "cats": ["appellation"],
+    "gens": [],
+    "evidence": ["https://www.readr.tw/post/2553"],
+    "heat": ["READr 詞彙清單收錄"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "綠茶婊",
+    "tw": ["心機女／做作女"],
+    "cats": ["slang"],
+    "gens": [],
+    "evidence": ["https://www.readr.tw/post/2553"],
+    "heat": ["READr 詞彙清單收錄"],
+    "controversy": ["具貶義且性別歧視意味的詞彙，使用時宜留意脈絡"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "我太難了",
+    "tw": ["我好難／我快不行了"],
+    "cats": ["slang"],
+    "gens": [],
+    "evidence": ["https://www.readr.tw/post/2553"],
+    "heat": ["READr 詞彙清單收錄"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "我也是醉了",
+    "tw": ["我也醉了／我服了"],
+    "cats": ["slang"],
+    "gens": [],
+    "evidence": ["https://www.readr.tw/post/2553"],
+    "heat": ["READr 詞彙清單收錄"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "當局",
+    "tw": ["政府"],
+    "cats": ["grammar"],
+    "gens": ["政治語境用詞"],
+    "evidence": ["https://www.threads.com/@sakadeggg/post/DQSxIALD4n4"],
+    "heat": ["收錄於同類對照清單貼文"],
+    "controversy": [
+      "「當局」本為兩岸媒體皆長期使用的舊詞（如國際新聞慣稱他國「當局」），是否算純支語有爭議"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "閨女",
+    "tw": ["女兒"],
+    "cats": ["appellation"],
+    "gens": ["北方口語詞"],
+    "evidence": ["https://www.threads.com/@sakadeggg/post/DQSxIALD4n4"],
+    "heat": ["收錄於同類對照清單貼文"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "小哥哥／小姐姐",
+    "tw": ["大哥大姐／阿弟阿妹"],
+    "cats": ["appellation"],
+    "gens": ["直播帶貨話術"],
+    "evidence": ["https://www.threads.com/@lupei404/post/C4s-AVHKIAF"],
+    "heat": ["同上整理型貼文"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "干飯（幹飯人）",
+    "tw": ["無明確單詞對應（可用「開飯」「吃飯」描述）"],
+    "cats": ["slang"],
+    "gens": ["2020網路熱詞"],
+    "evidence": ["https://www.threads.com/@vannessism/post/C4Hlr7SvqqL"],
+    "heat": ["貼文稱其為「最最最最最難聽」且指年輕人模仿使用"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "伴手禮",
+    "tw": ["（本為台語固有詞「伴手」，非支語）"],
+    "cats": ["daily"],
+    "gens": ["日治時期台語詞彙"],
+    "evidence": ["https://www.threads.com/@stayclassy.vw/post/DOV5-AikSuY"],
+    "heat": ["threads高互動貼文考證"],
+    "controversy": [
+      "重要誤判案例：「伴手」為台語自古有之詞彙，另有台語「等路」(tán-lōo)、日語轉譯「歐咪壓給」等多元說法並存，並非中國傳入，卻常被誤認為支語"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "團建（團隊建設）",
+    "tw": ["團體活動／員工聚餐"],
+    "cats": ["business"],
+    "gens": ["2020s職場用語"],
+    "evidence": ["https://www.threads.com/@meta.ai/post/Dar3GasAkdb"],
+    "heat": ["Meta AI 在 threads 上自動生成解釋詞條，顯示其為常見查詢詞"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "散粉",
+    "tw": ["蜜粉"],
+    "cats": ["daily"],
+    "gens": ["美妝直播／小紅書用語"],
+    "evidence": ["https://www.threads.com/@mmhappyhaha/post/DRN-7nCEgWH"],
+    "heat": [
+      "本次搜集熱度最高詞條：瀏覽12.8萬／讚1.05萬／留言242／轉發376／分享71"
+    ],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "娛樂圈",
+    "tw": ["演藝圈"],
+    "cats": ["entertainment"],
+    "gens": ["老詞新用（近年被娛樂圈取代）"],
+    "evidence": ["https://www.threads.com/@yishiuan.wu/post/DO78pu7E75j"],
+    "heat": ["threads貼文以「望周知」語氣提醒舊詞"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "暖心",
+    "tw": ["（尚無公認對應，是否真為支語本身存疑）"],
+    "cats": ["daily"],
+    "gens": ["網路溫情用語（年代不明）"],
+    "evidence": ["https://www.threads.com/@aki_lim_tw/post/DPSiOzkDyMN"],
+    "heat": ["瀏覽1.56萬／讚97／留言4／轉發1"],
+    "controversy": [
+      "未見字典或學術文獻佐證「暖心」為中國原創詞，是否構成支語存疑，屬個人認定型案例，代表性有限"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "阿聯酋",
+    "tw": ["阿拉伯聯合大公國（全稱／國際通用譯名）"],
+    "cats": ["grammar"],
+    "gens": ["地名翻譯慣用語（誤判案例）"],
+    "evidence": ["https://www.threads.com/@ginger__ai/post/DV2SgXrmulw"],
+    "heat": ["瀏覽490／讚10／留言1"],
+    "controversy": [
+      "發文者反駁「阿聯酋」被支語警察糾正一事，指出全球媒體與各國國家廣播皆採用此簡稱，屬支語警察過度延伸、以偏狹視角定義世界通用譯名的案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "硬盤／U盤／軟件",
+    "tw": ["硬碟／隨身碟／軟體"],
+    "cats": ["tech"],
+    "gens": ["2010s科技詞"],
+    "evidence": ["https://tech.udn.com/tech/story/123154/7658108"],
+    "heat": [
+      "udn票選並列第二名（與視頻同組）；Google翻譯已自動將「軟件」轉換為「軟體」"
+    ],
+    "controversy": ["無明顯爭議"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "信息／反饋／概率／水平",
+    "tw": ["資訊／回饋／機率／水準"],
+    "cats": ["daily"],
+    "gens": ["2010s通用詞"],
+    "evidence": ["https://news.ltn.com.tw/news/life/breakingnews/3529204"],
+    "heat": ["立委賴品妤立法院質詢逐一列舉為公文誤用案例"],
+    "controversy": ["無明顯詞源爭議，但已被發現滲入公家機關正式文件"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "好評／差評",
+    "tw": ["讚／負評"],
+    "cats": ["business"],
+    "gens": ["2010s電商用語"],
+    "evidence": ["https://www.readr.tw/post/2553"],
+    "heat": ["范雲團隊15大熱門詞排行第10（好評）"],
+    "controversy": [
+      "READr指出這是淘寶網興起後「從抽象概念轉為量化指標」的語意窄化案例，性質是評分系統輸入而非單純詞彙替代"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "學霸／老司機／套路",
+    "tw": ["讀書高手／（無公認對應）／招數手段"],
+    "cats": ["slang"],
+    "gens": ["2010s校園與情境用語"],
+    "evidence": ["https://www.fountmedia.io/article/108385"],
+    "heat": ["范雲團隊15大熱門詞排行第7、9"],
+    "controversy": ["無明顯詞源爭議"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "確認過眼神／小仙女／衛衣",
+    "tw": ["無公認對應"],
+    "cats": ["slang"],
+    "gens": ["2010s流行語"],
+    "evidence": ["https://www.fountmedia.io/article/108385"],
+    "heat": [
+      "范雲團隊委託READr互動測驗，20詞中受測者「未能識別」的5詞之一，顯示滲透隱蔽性高"
+    ],
+    "controversy": [
+      "「衛衣」在台灣無明確對應詞（連帽外套／大學T皆非完全對應），屬於「找不到台灣替代詞」類型"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "家人們／小哥哥／小姐姐",
+    "tw": ["無公認對應（暱稱行銷用語）"],
+    "cats": ["slang"],
+    "gens": ["2020年代直播／短影音用語"],
+    "evidence": ["https://udn.com/news/story/120911/8023312"],
+    "heat": ["udn票選第四名，被批評「讓人覺得像推銷產品拉關係」"],
+    "controversy": ["無明確詞源爭議，屬直播主播與帶貨行銷慣用語滲透案例"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "土豆／酸奶／豬手",
+    "tw": ["馬鈴薯／優格／豬腳"],
+    "cats": ["food"],
+    "gens": ["2010s生活詞"],
+    "evidence": ["https://www.storm.mg/lifestyle/4692316"],
+    "heat": ["幾乎出現於所有中國用語清單，是最早期、最廣為人知的一批例詞"],
+    "controversy": ["無明顯爭議"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "鬆弛感／班味／硬控",
+    "tw": ["無公認對應"],
+    "cats": ["slang"],
+    "gens": ["2023-2024年新興網路熱詞"],
+    "evidence": ["https://irs.zuvio.com.tw/student5/chickenM/article/672001"],
+    "heat": ["Zuvio文章列為最新一波「情境式詞彙」代表"],
+    "controversy": [
+      "屬新興詞彙，多數台灣年輕使用者未意識到其來源，是抖音演算法直接輸入的最新樣本"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "士多啤梨／地鐵／電單車／小賣部",
+    "tw": ["草莓／捷運或地鐵（依語境）／機車／福利社或販賣部"],
+    "cats": ["appellation"],
+    "gens": ["誤判史（2025-2026年事件）"],
+    "evidence": ["https://zh.wikipedia.org/wiki/%E6%94%AF%E8%AA%9E"],
+    "heat": [
+      "東森新聞2026年7月「防範支語」貼文誤列港澳詞引發學界糾正；2025年日本漫畫官方港澳台授權繁中版使用「小賣部」被誤控為支語"
+    ],
+    "controversy": [
+      "【重大誤判】此組全部是港澳粵語用詞而非中國大陸用語，與台灣用語不同純屬地域差異；被誤貼「支語」標籤反映「非台即支」二元思維缺乏對港澳語言環境的認識，維基百科「支語」條目稱之為「地圖砲」誤傷"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "視帝／青提／三文魚",
+    "tw": ["（港澳詞彙，非中國大陸原生用語）"],
+    "cats": ["food"],
+    "gens": ["誤判案例"],
+    "evidence": ["https://zh.wikipedia.org/wiki/%E6%94%AF%E8%AA%9E"],
+    "heat": ["維基百科「支語」條目專節列舉為典型誤判案例"],
+    "controversy": [
+      "【誤判案例】學者指出這些詞有明確的港澳來源，並非源自中國大陸，卻仍常遭台灣網民誤貼「支語」標籤"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "小姊姊／小哥哥",
+    "tw": ["無公認單詞對應"],
+    "cats": ["appellation"],
+    "gens": ["2020前後直播/短影音用語"],
+    "evidence": ["https://udn.com/news/story/120911/8023312"],
+    "heat": ["Dcard Top15第6名；另一份「5大陸用語排名」列第4名"],
+    "controversy": [
+      "被受訪網友評為「像推銷產品拉關係」，反映對直播話術語感的反感，非純詞彙替代問題"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "內卷／內捲",
+    "tw": ["無公認單詞對應（近似「惡性競爭」「過度競爭」但語感更廣）"],
+    "cats": ["slang"],
+    "gens": ["2021年前後中國社會流行語，2024台大社會報列為「新概念詞」代表"],
+    "evidence": ["https://tech.udn.com/tech/story/123154/7947101"],
+    "heat": ["多篇獨立報導高頻提及；香港hk01票選「最好用內地用語」上榜"],
+    "controversy": [
+      "⚠️ 源自社會科學學術譯名「Involution」，非中國網路原創詞，中國當代網路用法已偏離原始學術定義；是否算「支語」網路意見分歧"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "富二代",
+    "tw": ["富家子弟（台灣舊稱）"],
+    "cats": ["appellation"],
+    "gens": [],
+    "evidence": ["https://dacota.tw/blog/post/145987"],
+    "heat": ["支語警察查詢工具例詞"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "公交車／公交",
+    "tw": ["公車"],
+    "cats": ["daily"],
+    "gens": [],
+    "evidence": ["https://tech.udn.com/tech/story/123154/7947101"],
+    "heat": ["udn「5大陸用語排名」第3名"],
+    "controversy": [
+      "網友批評「連國小學生都常這麼說，學校教的應是公車，卻偏偏去抖音學大陸用語」，凸顯短影音對兒童世代的滲透速度"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "早上好／中午好／晚上好",
+    "tw": ["早安／午安／晚安"],
+    "cats": ["grammar"],
+    "gens": [],
+    "evidence": ["https://dailyview.tw/popular/detail/24932"],
+    "heat": ["supertaste與dailyview兩份獨立清單皆列入"],
+    "controversy": ["屬問候語句構滲透，而非單詞替代"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "高清／分辨率",
+    "tw": ["高畫質／解析度"],
+    "cats": ["tech"],
+    "gens": [],
+    "evidence": ["https://hackmd.io/@vincent5753/Syh-Asw7h"],
+    "heat": ["supertaste清單；hackmd技術對照表"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "yyds／xswl",
+    "tw": ["（台灣無需替代，屬網路縮寫，可放心使用）"],
+    "cats": ["slang"],
+    "gens": [],
+    "evidence": ["https://vocus.cc/article/61bf1e4cfd89780001c9af2d"],
+    "heat": ["vocus.cc專文特別點名「可放心使用」類"],
+    "controversy": [
+      "源自漢語拼音縮寫，因不與台灣既有詞彙語義衝突，作者認為不需列入「應謹慎使用」名單"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "地鐵／公交車",
+    "tw": ["捷運／公車"],
+    "cats": ["daily/transport"],
+    "gens": ["跨世代常用詞"],
+    "evidence": ["https://art.ltn.com.tw/article/breakingnews/5466763"],
+    "heat": ["自由藝文網2026年度前3名生活詞報導引用"],
+    "controversy": [
+      "「地鐵」在港澳（如香港地鐵、廣州地鐵）也是標準用詞，非中國大陸獨有，維基百科「支語」條目點名「地鐵」常被誤判為純支語，實為粵語區/官話區共用詞"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "甩鍋",
+    "tw": ["卸責／推卸責任"],
+    "cats": ["slang"],
+    "gens": ["2020年疫情期間中國流行語"],
+    "evidence": ["https://issues.ptsplus.tv/articles/992/"],
+    "heat": ["公視「觀點同不同」文章列舉為常見融入詞"],
+    "controversy": [
+      "無明顯誤判爭議，公視文章作者認為此類詞彙融入不必然構成「文化統戰」"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "給力／走心／小資／顏值／高富帥",
+    "tw": ["無單一公認對應，多已被台灣年輕世代直接吸收使用"],
+    "cats": ["slang"],
+    "gens": ["2010年代前期中國網路流行語"],
+    "evidence": ["https://issues.ptsplus.tv/articles/992/"],
+    "heat": ["公視「觀點同不同」黃震南專文列舉為已高度融入台灣日常用語的例子"],
+    "controversy": [
+      "作者黃震南認為除「內地」等主權敏感詞外，多數此類流行語僅是語言自然演化與流行文化擴散，不必然是「文化統戰」，且部分詞（如顏值）已被台灣媒體、教育部辭典廣泛收錄使用，爭議度已大幅降低"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "手刀",
+    "tw": ["立刻／快跑"],
+    "cats": ["slang"],
+    "gens": ["不明（RTI報導列為對照組）"],
+    "evidence": ["https://www.rti.org.tw/news?uid=3&pid=204732"],
+    "heat": ["RTI報導列為支語警察常糾正詞例之一"],
+    "controversy": [
+      "存疑：「手刀」（手刀衝刺）一般認為是台灣受日語「手刀を切る」影響產生的本土用語，並非中國用語，RTI報導此處的分類方式本身可能有誤，值得進一步查證，暫列為存疑案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "全面屏",
+    "tw": ["全螢幕"],
+    "cats": ["tech"],
+    "gens": ["2017年後智慧型手機廠商行銷詞"],
+    "evidence": ["https://ivonblog.com/posts/the-problem-of-china-slang/"],
+    "heat": ["ivonblog專文列為判準模糊地帶例子"],
+    "controversy": [
+      "作者指出台灣本地手機公司官方文宣本身也使用「全面屏」一詞，顯示商業行銷語言已跨海峽通用，並非單純中國特有詞被動滲透"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "内存",
+    "tw": ["記憶體"],
+    "cats": ["tech"],
+    "gens": ["跨世代"],
+    "evidence": ["https://hackmd.io/@SeanPeng/B1psY1s6K"],
+    "heat": ["計算機術語對照表收錄"],
+    "controversy": ["無明顯爭議"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "对象",
+    "tw": ["物件"],
+    "cats": ["tech"],
+    "gens": ["跨世代（物件導向程式設計術語）"],
+    "evidence": ["https://hackmd.io/@SeanPeng/B1psY1s6K"],
+    "heat": ["計算機術語對照表收錄"],
+    "controversy": [
+      "無明顯爭議，但「對象」在中文口語中另有「交往對象」的日常義，兩岸皆通用，僅資訊領域義項不同"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "民眾",
+    "tw": ["無需對應——此詞其實是台灣新聞顯著使用的詞，中國新聞反而少用"],
+    "cats": ["grammar/news-register"],
+    "gens": ["新聞語域用詞"],
+    "evidence": [
+      "https://ijcle.eduhk.hk/uploads/file/202501/IJCLE%20No.16_Dec24_08.pdf"
+    ],
+    "heat": [
+      "王珊(2024)語料庫論文：「民眾」在台灣新聞(CNA)主語顯著性27.19 vs 中國新聞(XIN)僅2.96，差異值24.23，是全論文中台灣顯著性領先幅度最大的詞"
+    ],
+    "controversy": [
+      "此例並非「中國詞彙滲透台灣」的方向，而是相反：「民眾」是台灣新聞遠比中國新聞常用的詞，證明兩岸用詞差異是雙向的，不能只用單向滲透敘事概括"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "成本／門檻",
+    "tw": ["同上，台灣新聞顯著性遠高於中國新聞"],
+    "cats": ["grammar/news-register"],
+    "gens": ["新聞語域用詞"],
+    "evidence": [
+      "https://ijcle.eduhk.hk/uploads/file/202501/IJCLE%20No.16_Dec24_08.pdf"
+    ],
+    "heat": [
+      "王珊(2024)論文：「成本」台灣新聞顯著性38.96 vs 中國新聞20.28（差異18.68）；「門檻」台灣25.84 vs 中國7.3（差異17.93）"
+    ],
+    "controversy": [
+      "同「民眾」案例，屬台灣新聞用詞顯著性反超中國新聞的反向證據，非支語滲透敘事可涵蓋"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "青提／三文魚／士多啤梨／視帝",
+    "tw": ["無公認對應（依脈絡）"],
+    "cats": ["food/entertainment/港澳詞"],
+    "gens": ["港澳粵語詞彙"],
+    "evidence": ["https://zh.wikipedia.org/zh-hant/%E6%94%AF%E8%AA%9E"],
+    "heat": ["維基百科「支語」條目專門列舉為誤判案例"],
+    "controversy": [
+      "港澳詞被誤判為支語的代表案例：「三文魚」（三文治音譯，鮭魚）、「士多啤梨」（strawberry音譯，草莓）、「視帝」（最佳男主角）皆源自香港粵語，並非中國大陸官話特有詞，維基條目批評「非台即支」判準偏激且背離事實"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "保安／保安員",
+    "tw": ["保全"],
+    "cats": ["daily"],
+    "gens": ["跨世代"],
+    "evidence": [
+      "https://dict.concised.moe.edu.tw/appendix.jsp?ID=54&la=1&powerMode=0"
+    ],
+    "heat": ["教育部《兩岸常用詞語對照表》官方收錄"],
+    "controversy": ["粵語維基「支語警察」條目也把「保安」列為常被糾正詞例之一"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "保育員",
+    "tw": ["保姆"],
+    "cats": ["daily"],
+    "gens": ["跨世代"],
+    "evidence": [
+      "https://dict.concised.moe.edu.tw/appendix.jsp?ID=54&la=1&powerMode=0"
+    ],
+    "heat": ["教育部《兩岸常用詞語對照表》官方收錄"],
+    "controversy": ["無明顯爭議，屬官方對照表標準例"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "級任／班主任",
+    "tw": ["班導師"],
+    "cats": ["daily/education"],
+    "gens": ["跨世代"],
+    "evidence": [
+      "https://dict.concised.moe.edu.tw/appendix.jsp?ID=54&la=1&powerMode=0"
+    ],
+    "heat": ["教育部《兩岸常用詞語對照表》官方收錄"],
+    "controversy": ["無明顯爭議"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "鼠標／鼠標器",
+    "tw": ["滑鼠"],
+    "cats": ["tech"],
+    "gens": [],
+    "evidence": ["https://github.com/g0v/moedict-data-csld（同實異名CSV）"],
+    "heat": [],
+    "controversy": [
+      "moedict說明欄記載三地皆從英文Mouse翻譯而來，僅義譯路徑不同（因外形似老鼠得名）"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "源代碼／源碼",
+    "tw": ["原始碼"],
+    "cats": ["tech"],
+    "gens": [],
+    "evidence": [
+      "https://github.com/g0v/moedict-data-csld（同實異名CSV） ; https://gist.github.com/fntsrlike/cf1e96d60b6f34fab725599b06dfcb2a"
+    ],
+    "heat": [],
+    "controversy": [
+      "moedict說明欄註明「原始碼」「源代碼」「源碼」三者皆源自英文Source Code義譯；Pro Git繁中翻譯規範亦獨立訂定「原始碼」為標準譯法"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "博客／博主",
+    "tw": ["部落格／部落客"],
+    "cats": ["tech"],
+    "gens": [],
+    "evidence": ["https://github.com/g0v/moedict-data-csld（同實異名CSV）"],
+    "heat": [],
+    "controversy": [
+      "moedict特別註明「博主」不完全等同「部落客」——大陸「博客」文化後來窄化為140字微網誌（微博）使用者亦稱「博主」，語義已分流，非單純一對一翻譯對應"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "下海（中國用法：改行從商）",
+    "tw": ["下海（女性淪落風塵特種行業）"],
+    "cats": ["appellation"],
+    "gens": [],
+    "evidence": ["https://github.com/g0v/moedict-data-csld（同名異實CSV）"],
+    "heat": [],
+    "controversy": ["「同名異實」案例：字面完全相同但語意南轅北轍"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "方便麵／快食麵／即食麵",
+    "tw": ["泡麵（歷史品牌詞「生力麵」曾是台灣泡麵代名詞）"],
+    "cats": ["food"],
+    "gens": [],
+    "evidence": [
+      "https://github.com/g0v/moedict-data-csld（同實異名CSV，食材食品類）"
+    ],
+    "heat": [],
+    "controversy": [
+      "moedict說明欄記載：1967年台灣廠商引進日本雞汁泡麵，以「生力麵」之名推出，一度成為台灣泡麵通稱；「即食麵」其實是香港用語（香港1968年以「公仔麵」品牌上市後成當地泛稱）。三地用語各有自己的品牌史，並非單純「中國輸入詞」"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "視帝／青提黑提／士多啤梨／地鐵／便利店／電單車／菠蘿／即食麵／小賣部（港澳用語群，被誤判為支語）",
+    "tw": ["（各詞台灣另有說法，但誤判源頭其實是香港粵語，而非中國大陸）"],
+    "cats": ["appellation"],
+    "gens": [],
+    "evidence": ["https://zh.wikipedia.org/wiki/支語"],
+    "heat": [],
+    "controversy": [
+      "⚠️重大誤判案例：2026年7月27日東森新聞發布「12個支語」示範清單，其中前7個實際上是香港用語，引發香港網民不滿，該媒體事後悄悄刪文未公開更正；2025年5月24日另有台灣網民指控某日本漫畫繁中版使用「小賣部」是支語滲透，但該版其實是港澳台三地同時合法授權的正式版，被誤判的其實是香港慣用語"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "「了嗎」完成式問法（句構級）",
+    "tw": ["「有沒有」完成式問法"],
+    "cats": ["grammar"],
+    "gens": ["句構級"],
+    "evidence": ["https://www.rti.org.tw/news?uid=3&pid=204732"],
+    "heat": [],
+    "controversy": [
+      "文法層級的兩岸華語差異，非單一詞彙差異。陽明交大外語系助理教授萬宗綸以此舉例說明「很難明確區分所謂中國用語」，因兩岸華語在發音、詞彙、句法上皆有系統性差異，非靠一份詞彙對照表就能窮盡界定"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "彈幕",
+    "tw": ["（兩岸三地通用詞，非典型支語爭議對象）"],
+    "cats": ["entertainment"],
+    "gens": ["源自日本niconico動畫「弾幕」機制"],
+    "evidence": ["https://forum.gamer.com.tw/C.php?bsn=60608&snA=1594"],
+    "heat": ["T客邦、巴哈姆特等台灣科技/ACG媒體長期使用並撰寫教學文"],
+    "controversy": [
+      "明確源自日本；YouTube本身無原生彈幕功能，台灣使用者需自行加裝Chrome外掛（如Dmooji）才能在YouTube重現此體驗，此詞在兩岸三地字幕圈/直播圈均通用，罕見被列為支語爭議對象。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "生肉／熟肉",
+    "tw": ["（台灣ACG字幕圈自有黑話，非典型支語爭議對象）"],
+    "cats": ["entertainment"],
+    "gens": ["2010-2011年台灣ACG字幕圈開始廣泛使用"],
+    "evidence": [
+      "https://uptogo.com.tw/%E5%A8%9B%E6%A8%82/%E7%94%9F%E8%82%89%E6%98%AF%E4%BB%80%E9%BA%BC%EF%BC%9F/"
+    ],
+    "heat": ["萌娘百科詞條、UpToGo科普專文收錄解釋"],
+    "controversy": [
+      "起源推測是英文資源分享站將未翻譯資源稱為「raw」，與中文「肉」諧音轉義而來，並非明確中國原創；台灣ACG字幕圈自2010年即廣泛使用，未必是「入侵」而更接近同源共生詞彙。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "博主／Up主",
+    "tw": ["部落客／YouTuber／KOL／創作者／頻道主"],
+    "cats": ["appellation"],
+    "gens": ["-"],
+    "evidence": ["https://www.threads.com/@lupei404/post/C4s-AVHKIAF"],
+    "heat": [
+      "Threads用戶lupei404因網友困惑主動整理對照表；TTshow文章單獨列出「Up主-在影音平台上傳影片的人」詞條解析"
+    ],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "小哥哥小姊姊",
+    "tw": ["大哥大姐／阿弟阿妹"],
+    "cats": ["appellation"],
+    "gens": ["-"],
+    "evidence": ["https://www.threads.com/@lupei404/post/C4s-AVHKIAF"],
+    "heat": [
+      "Threads用戶lupei404因前篇文章缺註解造成誤解，專門發文整理約28組中國用語對照台灣用語清單以澄清"
+    ],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "小作文",
+    "tw": ["小論文（僅取字面義，脈絡已抽離）"],
+    "cats": ["slang"],
+    "gens": ["-"],
+    "evidence": ["https://www.threads.com/@lupei404/post/C4s-AVHKIAF"],
+    "heat": ["lupei404 Threads對照表收錄"],
+    "controversy": [
+      "中國網路脈絡的「小作文」常特指粉絲／公關維權聲明文，帶有特定飯圈/政治語境，台灣借用時通常只取「長篇心情文」表面義，脈絡已被抽離。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "拉絲",
+    "tw": ["牽絲"],
+    "cats": ["food"],
+    "gens": ["-"],
+    "evidence": ["https://newtalk.tw/news/view/2025-12-29/1012162"],
+    "heat": [
+      "2025-12-28爆發，PTT八卦板熱議（M.1766988466.A.D51）、Dcard、Newtalk、造咖（cava.tw）等多家媒體跟進報導YouTuber HOOK事件"
+    ],
+    "controversy": [
+      "「牽絲」本身是台語直譯詞，形容食物時「牽絲」與「拉絲」實際上可互通；此案例被PTT/Dcard主流輿論認為是政治標籤化的過度執法（被指與「青鳥」政治標籤掛鉤）而非嚴謹語言學判準，是研究「支語」爭議政治化程度的關鍵個案。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "杠精",
+    "tw": ["酸民"],
+    "cats": ["appellation"],
+    "gens": ["-"],
+    "evidence": ["https://www.ttshow.tw/article/81661"],
+    "heat": ["TTshow文章專文解析20個中國用語時收錄"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "恰飯",
+    "tw": ["工商／業配"],
+    "cats": ["business"],
+    "gens": ["自媒體/YouTuber經濟興起後"],
+    "evidence": ["https://invade.tw/v/%E6%81%B0%E9%A3%AF"],
+    "heat": [
+      "Threads用戶bunny_is_moving發文「看到業配中用中國用語的我」獲1.3K讚、11留言、33次轉貼（2025-06-24）"
+    ],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "直播主／實況主",
+    "tw": ["（兩詞台灣皆通用，孰為「正統」有爭議）"],
+    "cats": ["appellation"],
+    "gens": ["-"],
+    "evidence": ["https://www.pttweb.cc/bbs/C_Chat/M.1537423196.A.4D8"],
+    "heat": [
+      "PTT C_Chat板專文討論串「實況主算是中國用語的推手之一嗎？」多輪推文交鋒"
+    ],
+    "controversy": [
+      "網友指出「實況」可能源自日語「実況」（如実況プレイ），「主播」本是台灣新聞台/球賽轉播既有職稱被挪用；PTT討論串內部對何者才是「支語推手」意見高度分歧，未有共識，另有網友列舉「河蟹、程序、軟件、激活」等詞佐證中國用語滲透。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "YouTube自動翻譯「台北」→「北京」",
+    "tw": ["（非詞彙差異，屬平台翻譯系統缺陷/偏誤事件）"],
+    "cats": ["tech"],
+    "gens": ["2026-01-22事件"],
+    "evidence": [
+      "https://www.nexttv.com.tw/NextTV/News/Home/Life/2025-01-23/1868732.html"
+    ],
+    "heat": [
+      "作家朱宥勳臉書公開踢爆並批評「噁爛」，經Yahoo新聞、Next TV、太報TaiSounds等多家媒體轉載報導"
+    ],
+    "controversy": [
+      "這不是使用者個人用詞選擇層次的「支語」問題，而是YouTube翻譯引擎本身的中國中心化系統性偏誤：朱宥勳原字幕手打「台北國際書展」，選擇「自動翻譯」選項後被系統竄改為「北京國際書展」；此案例常與「支語」討論混為一談，但性質截然不同，屬於平台工程/演算法治理範疇。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "硬盤／U盤／內存",
+    "tw": ["硬碟／USB隨身碟／記憶體"],
+    "cats": ["tech"],
+    "gens": ["2010s科技詞"],
+    "evidence": [
+      "https://news.ltn.com.tw/news/life/breakingnews/4178181 ; https://dailyview.tw/popular/detail/21332"
+    ],
+    "heat": ["自由時報、網路溫度計多份討厭清單反覆列入"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "小哥哥／小姐姐／家人們",
+    "tw": ["帥哥／美女／大哥大姐／阿弟阿妹"],
+    "cats": ["appellation"],
+    "gens": ["抖音直播體"],
+    "evidence": [
+      "https://www.storm.mg/lifestyle/5153311 ; https://www.threads.com/@lupei404/post/C4s-AVHKIAF"
+    ],
+    "heat": [
+      "Dcard討厭排行第4名；Threads對照表（613讚/175留言/25.7K瀏覽）亦收錄「家人們」"
+    ],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "男票／女票",
+    "tw": ["男友／女友"],
+    "cats": ["appellation"],
+    "gens": ["2014年前後"],
+    "evidence": ["https://www.businessweekly.com.tw/business/blog/9792"],
+    "heat": ["網路溫度計「10大入侵用語」之一"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "屌絲",
+    "tw": ["魯蛇"],
+    "cats": ["appellation"],
+    "gens": ["2014年前後"],
+    "evidence": ["https://www.businessweekly.com.tw/business/blog/9792"],
+    "heat": ["網路溫度計「10大入侵用語」之一，原文直接對應「魯蛇中的魯蛇」"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "神馬",
+    "tw": ["什麼"],
+    "cats": ["grammar"],
+    "gens": ["拼音輸入法諧音梗"],
+    "evidence": ["https://www.businessweekly.com.tw/business/blog/9792"],
+    "heat": ["網路溫度計「10大入侵用語」之一"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "高富帥",
+    "tw": ["無單一對應詞（敘述性縮寫）"],
+    "cats": ["appellation"],
+    "gens": ["2014年前後"],
+    "evidence": ["https://www.businessweekly.com.tw/business/blog/9792"],
+    "heat": ["網路溫度計「10大入侵用語」之一"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "硬控／上頭／鬆弛感／班味",
+    "tw": ["無公認對應（依語境意譯）"],
+    "cats": ["slang"],
+    "gens": ["2023-2025新興短影音詞彙"],
+    "evidence": ["https://irs.zuvio.com.tw/student5/chickenM/article/672001"],
+    "heat": [
+      "校園討論文章（Zuvio）將其列為「情境式詞彙」——因台灣缺乏精確對應詞而被吸收使用"
+    ],
+    "controversy": [
+      "此類詞是「台灣原本沒有對應詞才借用」，與「明明有對應詞卻堅持用中國用法」（如視頻/質量）性質不同，文章特別強調此區分"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "文旦",
+    "tw": ["柚子"],
+    "cats": ["food"],
+    "gens": [],
+    "evidence": ["https://dailyview.tw/popular/detail/27476"],
+    "heat": ["Threads網友聲稱「台灣沒有文旦」引發討論，被網路溫度計專文報導"],
+    "controversy": [
+      "⚠️誤判典型案例——農業部資料證實文旦是柚類在台栽培品種（知名品種「麻豆文旦」），教育部國語辭典亦收錄「文旦」一詞，並非中國用語"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "河道／海巡",
+    "tw": ["（本為台灣原生用語，非支語）"],
+    "cats": ["slang"],
+    "gens": ["台灣社群平台噗浪(Plurk)用語"],
+    "evidence": ["https://dailyview.tw/popular/detail/27476"],
+    "heat": ["網路溫度計專文澄清此誤解"],
+    "controversy": [
+      "⚠️誤判案例——「河道」（時間軸/貼文牆）與「海巡」（巡查自己被提及的貼文）皆源自台灣自有社群平台噗浪（Plurk），並非中國引進詞彙"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "點讚／拉黑／評論區／限流",
+    "tw": ["按讚／封鎖／留言區／降觸及"],
+    "cats": ["tech"],
+    "gens": ["社群平台操作用語"],
+    "evidence": ["https://www.threads.com/@lupei404/post/C4s-AVHKIAF"],
+    "heat": ["Threads對照表收錄"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "雲盤／網盤",
+    "tw": [
+      "無公認單一對應詞；泛稱多用「雲端硬碟」／「雲端空間」／「雲端儲存」"
+    ],
+    "cats": ["business"],
+    "gens": ["2010年代中國雲端服務興起後的產物"],
+    "evidence": [
+      "https://www.techbang.com/posts/15712-6-super-cloud-space-war"
+    ],
+    "heat": ["未見台灣社群熱度數據，僅見於科技媒體介紹中國產品的文章脈絡"],
+    "controversy": [
+      "這是「產業生態缺口」型案例，不是單純詞彙替換：「雲盤／網盤」是中國本土雲端儲存產業（百度網盤、360雲盤、騰訊微雲、華為網盤、新浪微盤、115網盤等品牌）發展出的產品類別泛稱；台灣使用者多半直接以品牌名稱（Google Drive、Dropbox、iCloud）指稱雲端儲存服務，並未發展出對應的通用泛稱詞，因此嚴格來說找不到「公認對應」，只能用描述性詞語替代"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "彈窗",
+    "tw": ["彈出視窗"],
+    "cats": ["tech"],
+    "gens": ["長期存在"],
+    "evidence": [
+      "https://wiki.mbalib.com/zh-tw/%E5%BC%B9%E7%AA%97 ; https://hackmd.io/@SeanPeng/B1psY1s6K"
+    ],
+    "heat": ["多對照表收錄，中等知名度"],
+    "controversy": [
+      "中文語境中國大陸的「彈窗」定義常與「對話框」混用——MBA智庫百科定義「彈窗又稱為對話框，一般是指打開網頁、軟體、手機APP等的時候自動彈出的視窗」；但台灣術語系統對「彈出視窗」（pop-up）與「對話方塊」（dialog box，對應英文Dialog）是兩個獨立詞彙（HackMD對照表：Dialog＝對話方塊(台)／对话框(陸)），顯示這個詞在中國用法的語意顆粒度比台灣粗，不是簡單的一對一替換"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "宕機",
+    "tw": ["當機"],
+    "cats": ["tech"],
+    "gens": ["不明確——可能是兩岸共用的正式書面變體"],
+    "evidence": [
+      "https://zh.wiktionary.org/zh-hant/%E5%AE%95%E6%A9%9F ; https://www.thenewslens.com/column/366days/200036（標題可見，全文403無法逐字引用）"
+    ],
+    "heat": [
+      "未見獨立熱度數據；僅見於術語對照表與一篇因403無法完整讀取的TNL專欄標題"
+    ],
+    "controversy": [
+      "證據強度偏弱、疑似誤判案例。《維基詞典》「宕機」條目並未標註特定地域用語，僅記載為「當機／当机的另一種寫法」，「宕」是英文down的意譯，可能是兩岸書面語共用的正式變體，而非中國大陸獨有的新造詞；真正明確屬於中國大陸口語慣用的是「死機」，而非「宕機」——兩者常被籠統混為一談列入『支語』名單，建議此詞條標註為低把握度"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "默認／缺省",
+    "tw": ["預設"],
+    "cats": ["tech"],
+    "gens": ["長期存在"],
+    "evidence": ["https://disp.cc/b/Gossiping/c6FP"],
+    "heat": ["多來源收錄"],
+    "controversy": [
+      "中國大陸同時存在「默認」與「缺省」兩種說法，其中「缺省」是更早期、更工程化的譯法；台灣工程/電機教育傳統上也曾使用「缺省」一詞（非中國大陸原創），是否應把「缺省」整體視為純支語存在疑義，證據不足以下定論，此處僅標註爭議存在而不武斷歸類"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "類",
+    "tw": ["類別"],
+    "cats": ["tech"],
+    "gens": ["長期存在（物件導向程式設計術語）"],
+    "evidence": [
+      "https://blog.udn.com/csjulius/360987 ; https://disp.cc/b/Gossiping/c6FP"
+    ],
+    "heat": ["見於程式設計教材對照與PTT討論"],
+    "controversy": [
+      "「類別」在其他脈絡（分類、種類）台灣本就常用，只有物件導向程式設計（class）語境下，中國用「類」單字、台灣才特別用「類別」二字對照，需留意脈絡"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "堆／栈",
+    "tw": ["堆積（heap）／堆疊（stack）"],
+    "cats": ["tech"],
+    "gens": ["長期存在"],
+    "evidence": ["https://failee.pixnet.net/blog/post/287357300"],
+    "heat": ["見於部落格整理文"],
+    "controversy": ["無"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "帧率",
+    "tw": ["影格率／畫面更新率"],
+    "cats": ["tech"],
+    "gens": ["長期存在，較專業技術詞"],
+    "evidence": ["https://hackmd.io/@SeanPeng/B1psY1s6K"],
+    "heat": ["未見社群熱度數據，僅見於專業術語對照表，屬低熱度純技術性分歧詞"],
+    "controversy": ["無"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "通關",
+    "tw": ["破關（全破）"],
+    "cats": ["gaming"],
+    "gens": ["通關約2010年前後傳入台灣"],
+    "evidence": ["https://www.thenewslens.com/column/366days/200649"],
+    "heat": [
+      "The News Lens『沒有中國用語的一年』專欄逐篇追查語源的系列文章之一"
+    ],
+    "controversy": [
+      "『過關』才是兩岸本來就通用的舊詞（現多轉用於考試合格），並非遊戲術語爭議的主戰場；作者將『通關』『破關』都歸類為『乙類中國用語』（部分滲透但未完全取代），也提到『破台』源自早期大型機台用法。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "先鋒／峽谷先鋒",
+    "tw": ["預示者"],
+    "cats": ["gaming"],
+    "gens": [
+      "LoL野區中立生物Rift Herald的官方在地化譯名 vs 中國賽區選手團練用語"
+    ],
+    "evidence": ["https://www.ptt.cc/bbs/LoL/M.1666685846.A.1E7.html"],
+    "heat": ["同上PTT LoL討論串"],
+    "controversy": [
+      "作者指出這是『選手團練用語』先受影響、再擴散到主播檯，呈現『圈內先支化、播報再跟進』的擴散路徑，與一般認知『主播帶頭』的方向相反。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "男槍（暱稱）",
+    "tw": ["葛雷夫（官方角色譯名）"],
+    "cats": ["gaming"],
+    "gens": ["LoL社群暱稱 vs Riot官方在地化角色名"],
+    "evidence": ["https://www.ptt.cc/bbs/LoL/M.1666685846.A.1E7.html"],
+    "heat": ["同上PTT LoL討論串，原PO『特別反感』此類用法"],
+    "controversy": [
+      "角色暱稱系統（女槍/男槍/劍魔/冰女等）是中國LoL社群長期形成的簡稱文化，與官方译名並行使用；此類個別角色對應關係為AI摘要工具整理自原始長串貼文，建議日後人工複查原文避免誤植特定角色配對。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "一鍵三連",
+    "tw": ["無公認對應"],
+    "cats": ["gaming"],
+    "gens": ["源自Bilibili平台功能（長按讚鍵同時完成點讚+投幣+收藏）"],
+    "evidence": [
+      "https://www.newton.com.tw/wiki/%E4%B8%80%E9%8D%B5%E4%B8%89%E9%80%A3/54387455"
+    ],
+    "heat": ["中文百科全書收錄獨立詞條解釋機制起源"],
+    "controversy": [
+      "此詞無法簡化為單純語言替換問題——台灣主流影音平台（YouTube）根本沒有『投幣』機制，屬於『平台功能移植缺口』而非台灣人另有講法卻不用的情況。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "歐皇",
+    "tw": ["無公認對應（直接沿用）"],
+    "cats": ["gaming"],
+    "gens": ["2016年中國手遊《陰陽師》抽卡機制帶紅"],
+    "evidence": ["https://dailyview.tw/popular/detail/10963"],
+    "heat": [
+      "DailyView文章指出『新加入的玩家對歐/非等術語感到陌生』，反映此詞已進入台灣手遊圈日常用語體系"
+    ],
+    "controversy": [
+      "查證中未找到台灣獨立造詞取代『歐皇』，台灣手遊媒體與玩家社群直接沿用，屬『直接輸入無替換』案例，與需要語言保衛戰的詞彙性質不同。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "非酋",
+    "tw": ["無公認對應（直接沿用）"],
+    "cats": ["gaming"],
+    "gens": ["同源於2016年《陰陽師》抽卡文化，『非洲酋長』的戲稱簡化"],
+    "evidence": ["https://kknews.cc/zh-tw/game/mnjnlo2.html"],
+    "heat": [
+      "多篇每日頭條/UpToGo文章解析詞源，顯示網路討論量不低，但未見具體讚數留言數"
+    ],
+    "controversy": [
+      "與『歐皇』成對照組，台灣手遊社群同樣直接沿用，未見獨立台灣命名嘗試。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "（無中國新造詞，本條為誤判案例）",
+    "tw": ["菜鳥"],
+    "cats": ["appellation"],
+    "gens": ["教育部《重編國語辭典修訂本》正式收錄之台灣官方辭典詞彙"],
+    "evidence": [
+      "https://dict.revised.moe.edu.tw/dictView.jsp?ID=141349&la=0&powerMode=0"
+    ],
+    "heat": ["教育部官方辭典公開可查證詞條"],
+    "controversy": [
+      "【誤判史】辭典釋義為『戲稱剛進入一個新環境而對諸事不熟的人』，並非中國網路新造詞。任務指定切面中的『菜』（菜鳥/菜雞）若被籠統列入支語清單，屬於典型誤判，是本次查證中最明確可以反駁『這是支語』框架的一條。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "（反向詞：糾察中國用語的行為）",
+    "tw": ["支語警察"],
+    "cats": ["appellation"],
+    "gens": ["2020年代隨短影音時代用語滲透加劇而在台灣網路廣泛流行"],
+    "evidence": ["https://zh.wikipedia.org/zh-tw/%E6%94%AF%E8%AA%9E"],
+    "heat": ["維基百科『支語』詞條與PTT鄉民百科皆收錄獨立詞條說明此現象"],
+    "controversy": [
+      "『支語警察』本身不是中國用語，而是台灣網路社群自創、用來戲稱『糾察他人使用中國用語行為的人』的詞（據PTT鄉民百科說法源自Komica），性質上與本切面收錄的其他詞彙方向相反——它是台灣對這整個現象的『命名反擊』，值得記錄為本切面的後設脈絡。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "手遊",
+    "tw": ["手遊（無分歧，兩岸共用）"],
+    "cats": ["gaming"],
+    "gens": ["中性產業詞，非近年網路流行語"],
+    "evidence": ["https://gamerank.net/zh-TW"],
+    "heat": ["台灣手遊排名平台gamerank.net直接以『台灣手遊排行榜』為產品名稱"],
+    "controversy": [
+      "重要的『非爭議』發現——『手遊』一詞在台灣遊戲媒體、平台品牌名稱中已是通用行業詞彙，查證過程沒有找到台灣獨立說法取代它的證據，卻常被籠統歸入『兩岸用語差異』的框架下討論，屬於分類層次的誤置而非詞彙本身真有爭議。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "內測／公測／封測",
+    "tw": ["內測／公測／封測（無分歧，兩岸共用）"],
+    "cats": ["gaming"],
+    "gens": ["網路遊戲測試階段的產業標準用語（封測→內測→公測三階段）"],
+    "evidence": ["https://www.cherryknow.com/game/463837.html"],
+    "heat": [
+      "多個中文遊戲介紹網站（含台灣受眾內容）皆直接使用同一套用詞，未見台灣獨立說法"
+    ],
+    "controversy": [
+      "與『手遊』同屬本切面中容易被誤置進『支語疑慮』框架的中性產業詞；查證未發現台灣遊戲業或媒體對這三詞另有說法，暫列為『無分歧』但信心中等（未找到台灣官方語言機構或大型媒體的明確確認來源）。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "青銅／王者（段位稱呼作為網路迷因）",
+    "tw": [
+      "低信心／未確認獨立對應（台灣主流MOBA手遊為Garena《傳說對決》，官方段位命名系統推測不同，但本次未查證確認）"
+    ],
+    "cats": ["gaming"],
+    "gens": [
+      "《王者榮耀》十大段位制（倔強青銅→傳奇王者），近年透過抖音迷因擴散"
+    ],
+    "evidence": [
+      "https://trolleygame.com/%E9%81%8A%E6%88%B2%E6%94%BB%E7%95%A5%E4%BB%8B%E7%B4%B9/28116/"
+    ],
+    "heat": [
+      "低信心：僅取得文章標題與meta描述『抖音本以為是青銅沒想到是王者』，未完整讀取全文"
+    ],
+    "controversy": [
+      "特別註記：《王者榮耀》本身並未以同名在台灣正式上市，台灣對應的主流MOBA手遊是Garena發行的《傳說對決》，兩者官方段位命名系統應該不同（但本次查證未能確認《傳說對決》實際段位名稱）。若此推測成立，『青銅/王者』作為台灣年輕世代的迷因用語，代表的是『文化迷因透過抖音先行擴散，早於或脫離產品本身在地化路徑』的特殊模式，信心中等偏低，建議後續人工查證《傳說對決》官方段位表以完整比對。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "流量明星／流量藝人",
+    "tw": [
+      "無直接對應詞；台灣媒體報導中國演藝圈現象時也直接沿用「流量明星」一詞"
+    ],
+    "cats": ["entertainment"],
+    "gens": [],
+    "evidence": [
+      "https://zh.wikipedia.org/zh-tw/%E6%B5%81%E9%87%8F%E6%98%8E%E6%98%9F ; https://www.hk01.com/%E8%97%9D%E6%96%87%E4%B8%AD%E5%9C%8B/665879"
+    ],
+    "heat": [],
+    "controversy": [
+      "中國本地脈絡此詞帶貶義（暗指人氣與作品實力不相符），是描述中國飯圈經濟特有產業現象的專有名詞，非單純兩岸口語替換案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "番位（一番／二番）",
+    "tw": [
+      "台灣戲劇圈無正式對應排位制度，傳統慣稱「掛頭牌」或依主角／配角區分；常被類比的「咖位」其實是台灣本土詞，非同源翻譯"
+    ],
+    "cats": ["entertainment"],
+    "gens": ["制度隨陸劇產業成熟約2010年代中後期在中國影視圈成形並常態化"],
+    "evidence": [
+      "https://turnnewsapp.com/global/culture/128698.html ; https://www.zhihu.com/question/46292416 ; https://star.ettoday.net/news/3094411"
+    ],
+    "heat": [
+      "ETtoday報導「陸劇番位吵翻天」，藝人白鹿公開喊取消番位制度並「揭最大弊端」"
+    ],
+    "controversy": [
+      "「番位」語源其實是日文（一番＝排名第一），中國影視圈引入後異化為衡量藝人商業地位的量化標尺；常被拿來對照的台灣「咖位」實際起源自台語「大咖／小咖」，是台灣固有詞非番位的翻譯版本，兩者常被誤當同義詞對照"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "視帝／視后",
+    "tw": ["傳統慣用「金鐘影帝／金鐘影后」"],
+    "cats": ["entertainment"],
+    "gens": [
+      "用法至少可追溯至2012年前後港媒（TVB獎項）報導，近年在台灣金鐘獎報導中被大量採用"
+    ],
+    "evidence": [
+      "https://www.thenewslens.com/column/366days/243920 ; https://www.threads.com/@looryfilmnotes/post/DBT-W_wTbbG"
+    ],
+    "heat": [
+      "Threads貼文（@looryfilmnotes）批評此詞獲331則留言迴響，屬高互動爭議詞"
+    ],
+    "controversy": [
+      "本切面爭議程度最高的個案——連事實查核類媒體The News Lens都需要專文考證「這用法是哪來的？真的是中國用語嗎？」，結論指出此詞同樣通行於香港（TVB視帝視后至少2012年可考），可能是台灣影視記者先採用後才擴散到各大媒體，源頭並不確定是中國；也有論者主張「視帝視后用於電視獎項、影帝影后用於電影獎項」的功能區分邏輯，不宜武斷判定為純支語"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "愛豆",
+    "tw": ["偶像（原生詞）；台灣近年也並用「愛豆」與「偶像」"],
+    "cats": ["appellation"],
+    "gens": ["隨中國／日韓養成系偶像產業於2010年代後期在飯圈圈普及"],
+    "evidence": [
+      "https://www.zhihu.com/topic/20073078 ; https://baike.baidu.com/item/%E7%88%B1%E8%B1%86/16709116"
+    ],
+    "heat": [],
+    "controversy": [
+      "「愛豆」是英文idol的中文音譯，此譯法最早在中國飯圈圈流行，用以與傳統「藝人／明星」語感區隔（強調陪伴成長的養成系偶像），是英文詞的在地化譯法而非中國原創詞彙"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "拉踩",
+    "tw": ["無公認對應，近似「比較貶低／踩一捧一」"],
+    "cats": ["entertainment"],
+    "gens": [],
+    "evidence": ["https://star.ettoday.net/news/2658749"],
+    "heat": ["ETtoday星光雲專文標題直接點名「大陸飯圈用語紅到台灣」"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "泥塑",
+    "tw": ["無公認對應"],
+    "cats": ["entertainment"],
+    "gens": [],
+    "evidence": [
+      "https://star.ettoday.net/news/2658749 ; https://mobile.moegirl.org.cn/zh-hant/%E6%B3%A5%E5%A1%91"
+    ],
+    "heat": [],
+    "controversy": [
+      "「正塑」的反義詞，通常用於男性藝人（把偶像幻想成女性化角色），源自飯圈同人創作術語圈"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "官宣",
+    "tw": ["正式宣布／公開（交往、結婚等）"],
+    "cats": ["slang"],
+    "gens": ["2018年女星趙麗穎微博以「官宣」宣布結婚後全網流行開來"],
+    "evidence": [
+      "https://www.threads.com/@zhhhhhsero/post/DVGNNqFESrx ; https://www.threads.com/@bamau666/post/C9acrEWymLV ; https://zh.wiktionary.org/zh-hant/%E5%AE%98%E5%AE%A3"
+    ],
+    "heat": [
+      "Threads網友(@bamau666)發文「唯獨『官宣』二字，聽到真的會很阿雜」，顯示情緒反應強烈"
+    ],
+    "controversy": [
+      "有台灣網友表態「一般來說我不太討厭所謂支語...但唯獨官宣」，顯示同樣被歸類支語的詞彙，台灣人接受度並不一致，官宣反感度明顯偏高"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "打投（打榜＋投票）",
+    "tw": ["無公認對應，制度性用語直接沿用"],
+    "cats": ["entertainment"],
+    "gens": [],
+    "evidence": [
+      "https://tothenines9.pixnet.net/blog/post/27758126 ; https://ek21.com/news/1/42305/"
+    ],
+    "heat": [],
+    "controversy": [
+      "台灣選秀／偶像應援文化較晚成熟，此制度直接隨中國選秀節目一起輸入"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "內娛（中國內地娛樂圈簡稱）",
+    "tw": [
+      "台灣網路社群直接沿用「內娛」指稱中國演藝圈，與「韓娛」「日娛」對應使用，屬描述性借詞非替代原生詞彙"
+    ],
+    "cats": ["entertainment"],
+    "gens": [],
+    "evidence": ["https://www.laoziliao.net/doc/1648935842046915"],
+    "heat": [],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "小哥哥／小姊姊",
+    "tw": ["大哥大姐／阿弟阿妹"],
+    "cats": ["appellation"],
+    "gens": [],
+    "evidence": ["https://www.threads.com/@lupei404/post/C4s-AVHKIAF"],
+    "heat": [],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "唯粉／團粉／顏粉／事業粉／毒唯／黑粉／腦殘粉／媽粉／CP粉（粉絲分類詞群）",
+    "tw": [
+      "台灣傳統追星文化多籠統稱「粉絲／鐵粉／死忠粉」，缺乏對應的精細分類詞彙"
+    ],
+    "cats": ["entertainment"],
+    "gens": [],
+    "evidence": ["https://tothenines9.pixnet.net/blog/post/27758126"],
+    "heat": [],
+    "controversy": [
+      "這不是單詞替換案例，而是整套依「關注面向×喜歡對象×情感強度」切分粉絲類型的分類框架的結構性輸入，台灣本來的追星語彙沒有這麼精細的分眾詞彙可以逐一對照"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "咖位（常被誤當番位的台灣對照詞，實為正名澄清）",
+    "tw": ["咖位（源自台語「大咖／小咖」）"],
+    "cats": ["entertainment"],
+    "gens": [],
+    "evidence": ["https://www.zhihu.com/question/46292416"],
+    "heat": [],
+    "controversy": [
+      "需特別澄清——咖位是台灣本土固有詞，並非番位的台灣翻譯版；連中國知乎自己都承認「咖位一詞則起源于我国台湾」。常見誤用是把兩者當同一組中台對照詞，實際上是誤判方向反了"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "磕CP／嗑CP",
+    "tw": ["台灣同人圈原有「湊CP／配對」等說法，「磕」本身無直接對應動詞"],
+    "cats": ["entertainment"],
+    "gens": [],
+    "evidence": [
+      "https://newtalk.tw/citizen/view/57218 ; https://kknews.cc/zh-tw/entertainment/vkrqera.html"
+    ],
+    "heat": [],
+    "controversy": [
+      "CP（couple縮寫）本身是台灣同人圈／日本同人文化圈早已使用的老詞，不算支語；但「磕」這個動詞源自中國網路造詞（比喻像嗑瓜子/嗑藥般的成癮感），是明確的中國新創用法，應與CP本身分開判斷"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "綜藝感",
+    "tw": ["兩岸本通用，非典型支語"],
+    "cats": ["entertainment"],
+    "gens": [],
+    "evidence": [
+      "https://dictionary.chienwen.net/word/32/d8/66099c-%E7%B6%9C%E8%97%9D%E7%AF%80%E7%9B%AE.html"
+    ],
+    "heat": [],
+    "controversy": [
+      "「綜藝」是台灣自身發達的本土電視類型詞彙（國語辭典早有「綜藝節目」條目），因此「綜藝感」不宜被歸為支語，收錄目的是作為容易被誤判的對照組"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "本命／副命",
+    "tw": ["台灣同好圈也直接使用「本命」"],
+    "cats": ["appellation"],
+    "gens": [],
+    "evidence": ["https://dailyview.tw/popular/detail/22828"],
+    "heat": [],
+    "controversy": [
+      "「本命」源自日本ACG／偶像文化用語，可能是中國飯圈與台灣宅圈各自獨立從日本文化引入，不宜視為單向「中國傳台灣」，屬誤判候選"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "私生飯",
+    "tw": ["台灣媒體也直接沿用此詞描述過度追星的粉絲行為"],
+    "cats": ["entertainment"],
+    "gens": [],
+    "evidence": ["https://dailyview.tw/popular/detail/22828"],
+    "heat": [],
+    "controversy": [
+      "源自日文「私生活」＋「饭/ファン」混成詞，經中國飯圈普及後才在兩岸廣泛使用，非中國原創詞"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "事錄（事前錄製）／生放（live放送）",
+    "tw": ["無公認對應，直接沿用韓文漢字詞"],
+    "cats": ["entertainment"],
+    "gens": [],
+    "evidence": ["https://dailyview.tw/popular/detail/22828"],
+    "heat": [],
+    "controversy": [
+      "明確源自韓國偶像文化的韓文漢字詞直譯，經韓飯圈用語圈跨海進入台灣，不屬於中國原創支語，收錄作為避免誤判的對照組"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "現生（現實生活）",
+    "tw": ["台灣同好圈也普遍使用，可能兩岸本通用"],
+    "cats": ["slang"],
+    "gens": [],
+    "evidence": ["https://dailyview.tw/popular/detail/22828"],
+    "heat": [],
+    "controversy": [
+      "未查到明確證據判定為中國原創或台灣ACG圈原生詞，暫列為存疑對照組，不武斷歸類為支語"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "麻瓜（追星圈引申用法，指不追星的路人）",
+    "tw": ["同樣直接沿用「麻瓜」"],
+    "cats": ["slang"],
+    "gens": [],
+    "evidence": ["https://dailyview.tw/popular/detail/22828"],
+    "heat": [],
+    "controversy": [
+      "詞源是英國小說《哈利波特》的中文翻譯詞彙，兩岸飯圈各自借用其「非魔法／非同好」的比喻意涵引申為「不追星的人」，非中國原創詞"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "顆粒度",
+    "tw": ["解析度／清晰度（兩案並存，無單一定論）"],
+    "cats": ["business"],
+    "gens": ["2023-2024年開始在台灣產業圈流行"],
+    "evidence": ["https://www.threads.com/@starwallwatching/post/DFHjpqAyXG8"],
+    "heat": [
+      "Threads @starwallwatching 貼文詳細解說；@data_hj 貼文1,773瀏覽/5讚/2留言；@pai_product 貼文1,099瀏覽/3讚"
+    ],
+    "controversy": [
+      "發文者自陳詞彙來源：「今年台灣產業圈開始流行起一個從對岸飄過來的新詞『顆粒度』…我們還是用解析度來稱之」，是少見「使用者自曝輸入路徑」的第一手證據，非武斷推測。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "賦能",
+    "tw": [
+      "無明確二字對應；社福領域舊譯「培力／增能」語域不同，不完全通用於企業管理脈絡"
+    ],
+    "cats": ["business"],
+    "gens": ["2010s管理學詞彙經中國企業/網路擴散，2020s在台灣氾濫成流行詞"],
+    "evidence": [
+      "https://uptogo.com.tw/%E8%81%B7%E5%A0%B4/%E7%AE%A1%E7%90%86/%E8%B3%A6%E8%83%BD%E6%98%AF%E4%BB%80%E9%BA%BC%E6%84%8F%E6%80%9D%EF%BC%9F/"
+    ],
+    "heat": [
+      "多篇台灣文章專門討論此詞（uptogo.com.tw、kevincareercoaching.com、Medium）"
+    ],
+    "controversy": [
+      "詞源可溯及英文管理學 empowerment 概念，非中國原創；但因中國企業與社群媒體大量使用而在台灣泛濫，被質疑「究竟是嚴謹管理學術語，還是被過度使用、缺乏明確定義的網路流行語」。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "抓手",
+    "tw": ["施力點／切入點／著力點（無公認固定對應）"],
+    "cats": ["business"],
+    "gens": [
+      "中國大陸政治文件常用語（「以…為抓手」），近年隨企業黑話擴散進台灣"
+    ],
+    "evidence": ["https://baike.baidu.com/item/%E6%8A%93%E6%89%8B/9806440"],
+    "heat": [
+      "未見台灣網路社群大量直接討論此詞本身（本次搜尋未找到專門的台灣網友反彈貼文）"
+    ],
+    "controversy": [
+      "漢典本義僅標「〈方〉拉手」（door knob），中國大陸政治/管理文本常用「以…為抓手」轉喻施政重點或工作切入點；百度百科亦指出此用法「增加使用於政治文本和新聞報導」。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "閉環",
+    "tw": ["全程掌控／首尾一貫（無固定兩字對應）"],
+    "cats": ["business"],
+    "gens": ["概念源自西方PDCA循環（戴明環），詞彙近年在台灣流行"],
+    "evidence": [
+      "https://podcasts.apple.com/sg/podcast/ep2116-%E5%90%B3%E6%B7%A1%E5%A6%82-%E6%9C%80%E5%A4%AF%E7%9A%84%E7%AE%A1%E7%90%86%E5%AD%B8%E5%90%8D%E8%A9%9E-%E9%96%89%E7%92%B0-%E5%88%B0%E5%BA%95%E6%98%AF%E5%95%A5%E6%84%8F%E6%80%9D/id1536242998"
+    ],
+    "heat": [
+      "知名Podcast「吳淡如人生實用商學院」EP2116專門解釋「最夯的管理學名詞『閉環』到底是啥意思」，顯示其在台灣仍屬需要特別解說的新奇詞"
+    ],
+    "controversy": [
+      "概念本身非中國原創（源自美國戴明博士PDCA循環），但「閉環」二字用法與流行是經中國管理/網路語境擴散進台灣。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "打法",
+    "tw": ["做法／策略／方法"],
+    "cats": ["business"],
+    "gens": ["中國創業圈黑話，近年隨新創文化進入台灣"],
+    "evidence": ["https://chinaqna.com/a/48281"],
+    "heat": ["中文創業圈廣泛使用（AAMA台北搖籃計畫文章亦引用相關詞彙群）"],
+    "controversy": [
+      "「中國創業黑話指南」文章解釋：本義是「各種打人的辦法」，創業新意轉為「如何野路子搞到流量的辦法」，例如「增長黑客打法」。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "降維打擊",
+    "tw": ["輾壓式競爭／壓倒性優勢（無固定短語對應）"],
+    "cats": ["business"],
+    "gens": [
+      "源自劉慈欣科幻小說《三體》，2010s中期進入中國商業黑話，隨後傳入台灣"
+    ],
+    "evidence": ["https://www.pttweb.cc/bbs/Gossiping/M.1751719562.A.3CB"],
+    "heat": ["PTT八卦板專門討論串「降維打擊484被誤用最多的支語？」"],
+    "controversy": [
+      "高度誤判史案例：原意特指《三體》中「用二向箔把你從三維打成二維」的特定攻擊方式，但PTT網友指出「傳過來的時候就已經是望文生義了」，中國大陸論壇內部也早已將其簡化為「高階打低階」或「屌虐的意思」，語意流失早在傳入台灣前就已發生，與兩岸差異無直接關係。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "生態",
+    "tw": ["生態系（既有商業隱喻用法，兩岸皆通用）"],
+    "cats": ["business"],
+    "gens": ["借用生物學術語做商業隱喻，兩岸大致同期發展"],
+    "evidence": ["https://chinaqna.com/a/48281"],
+    "heat": ["中國創業黑話指南列入常見詞彙群"],
+    "controversy": [
+      "兩岸本就通用／借用生物學術語，判定為支語證據薄弱，屬易誤判類別。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "私域流量／公域流量",
+    "tw": ["已被台灣行銷業界原樣直接採用，未見明顯替代詞運動"],
+    "cats": ["business"],
+    "gens": ["2019年後中國電商行業術語，2020s隨跨境電商操作手法輸入台灣"],
+    "evidence": [
+      "https://www.cyberbiz.io/blog/%E7%A7%81%E5%9F%9F%E6%B5%81%E9%87%8F/"
+    ],
+    "heat": [
+      "工商時報〈電商經營新潮流 各大品牌關注「私域流量」〉、CYBERBIZ電商部落格、frankchiu.io白話文商學院教學文章均直接使用不加註解"
+    ],
+    "controversy": [
+      "與管理黑話（賦能/抓手）不同，此組詞彙在台灣商業媒體與教學文章中「無痛輸入」，未被貼「支語」標籤，顯示接受度落差。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "引流",
+    "tw": ["導流量／吸引客流（已通用，鮮少被視為需替換的支語）"],
+    "cats": ["business"],
+    "gens": ["隨私域流量概念同期輸入"],
+    "evidence": ["https://www.cnblogs.com/zdz8207/p/14846483.html"],
+    "heat": ["中國行銷部落格廣泛使用作為核心動詞"],
+    "controversy": [
+      "cnblogs.com（中國原文部落格）定義：「將河水引到自己事先挖好的坑裡的動作，也就是將流量從公域導入到私域的過程」，台灣行銷業界直接沿用此隱喻。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "裂變",
+    "tw": ["病毒式行銷／轉介行銷"],
+    "cats": ["business"],
+    "gens": ["中國成長駭客/行銷黑話"],
+    "evidence": ["https://chinaqna.com/a/48281"],
+    "heat": ["中國創業黑話指南、cnblogs行銷文章皆列入"],
+    "controversy": [
+      "與「增長黑客」同源，屬西方growth marketing概念的中文化，經中國業界普及後傳入台灣。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "賽道",
+    "tw": ["領域／市場區塊"],
+    "cats": ["business"],
+    "gens": ["中國創投圈黑話，近年台灣創投/新創媒體引用"],
+    "evidence": ["https://www.aamataipei.com.tw/archives/3706"],
+    "heat": ["AAMA台北搖籃計畫專文〈中國創業進行式：經理人的賽道理論〉"],
+    "controversy": [
+      "借用賽車隱喻描述市場區隔，台灣創投圈近年直接引用但未見強烈牴觸。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "風口",
+    "tw": ["趨勢／時機"],
+    "cats": ["business"],
+    "gens": [
+      "2014年小米雷軍名言「站在風口上，豬也能飛」後在中國廣傳，隨後進入台灣財經媒體"
+    ],
+    "evidence": ["https://www.ctee.com.tw/news/20191007700326-431001"],
+    "heat": ["工商時報、TNL關鍵評論網皆有專文引用討論"],
+    "controversy": [
+      "詞彙明確可溯源至特定人物名言（雷軍），台灣財經媒體引用時通常會註明出處，較少單獨被支語警察鎖定。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "組合拳",
+    "tw": ["多管齊下／整合策略"],
+    "cats": ["business"],
+    "gens": ["中國官媒/教育語境常用比喻，近年見於台灣商業媒體"],
+    "evidence": [
+      "http://edu.people.com.cn/BIG5/n1/2022/0827/c1006-32512695.html"
+    ],
+    "heat": ["人民網教育版曾專欄解釋此詞演變（杜老師語文信箱）"],
+    "controversy": [
+      "詞義解釋本身也出現在中國大陸官媒教育專欄中，顯示其為中國大陸語境內生詞彙，非兩岸共同古典用法。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "用戶畫像",
+    "tw": ["使用者輪廓／消費者輪廓"],
+    "cats": ["business"],
+    "gens": ["中國產品經理/行銷黑話"],
+    "evidence": ["https://chinaqna.com/a/48281"],
+    "heat": ["中國創業黑話指南列為常見詞"],
+    "controversy": [
+      "對應英文 user persona，兩岸皆為外來概念翻譯，中國版譯法透過產品經理社群傳入台灣科技業。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "增長黑客",
+    "tw": ["成長駭客（台灣同樣採借譯用法，兩者高度重疊）"],
+    "cats": ["business"],
+    "gens": ["對應英文 growth hacker，2010s中期兩岸幾乎同期借入"],
+    "evidence": ["https://chinaqna.com/a/48281"],
+    "heat": ["中國創業黑話指南專文解釋詞義演變"],
+    "controversy": [
+      "「原意：一群以數據驅動營銷、以市場指導產品方向，通過技術化手段貫徹增長目標的人；創業新意：可以不花錢就拉新」——台灣同樣直接借譯英文原詞，兩岸版本高度相似，不易判定何者輸入何者。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "口蘑",
+    "tw": ["洋菇／蘑菇（無精確一對一對應）"],
+    "cats": ["food"],
+    "gens": ["中國河北地方特產名，近年因中國食譜短影音在台灣曝光"],
+    "evidence": [
+      "https://zh.wikipedia.org/zh-tw/口蘑 ; https://zh.wikipedia.org/zh-tw/雙孢蘑菇 ; https://mushroomshare.pixnet.net/blog/posts/16103589749 ; https://www.zhihu.com/question/294565378"
+    ],
+    "heat": ["查無明顯台灣「支語警察」論戰案例，多為植物學/命名學層次討論"],
+    "controversy": [
+      "口蘑本是中國河北張家口集散地特產野生蕈類的專有地名詞（因蒙古土產蘑菇經張家口輸往內地得名），中國市場近年也常把「口蘑」拿來泛稱雙孢菇/洋菇，中國網友自己都在討論「口蘑被洋菇冒名頂替」；不宜簡單當成「中國愛用的蘑菇通稱」對應台灣「香菇」"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "嘎嘎香／嘎嘎好吃",
+    "tw": ["無公認對應（口語多改用「超香」「好吃到爆」）"],
+    "cats": ["food"],
+    "gens": [
+      "2020年代起源自中國東北方言程度副詞「嘎嘎」，經短影音（抖音/直播）傳播至泛華語圈"
+    ],
+    "evidence": [
+      "https://uptogo.com.tw/文化/民間習俗/嘎台灣意思／ ; https://uptogo.com.tw/科技/網路/大陸用語-嘎嘎是什麼意思／ ; https://www.slangzone.net/zh/word/嘎嘎香 ; https://udn.com/news/story/120912/8207842"
+    ],
+    "heat": [
+      "uptogo.com.tw兩篇專文分析Threads/IG/TikTok上年輕人大量使用；魚漿夫婦道歉文中自陳平時會避開此詞"
+    ],
+    "controversy": ["無明顯爭議，各方均認定此詞源自中國東北方言"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "幹飯",
+    "tw": ["無公認對應（既有「吃飯／開飯／呷飯」但缺乏「積極吃飯」的語感詞）"],
+    "cats": ["food"],
+    "gens": ["起源說法分歧：一說源自四川方言吃飯俗說，一說為中國網路新造詞"],
+    "evidence": [
+      "https://www.dcard.tw/f/talk/p/242448980 ; https://www.zhihu.com/question/11564215390 ; https://twqiang.com/zht/news/20250126121118a24f2c ; https://www.wvf.com.tw/a/幹飯人意思"
+    ],
+    "heat": [
+      "Dcard talk板貼文標題「被中國網路用語困擾⋯⋯」點名近幾個月頻繁聽到此詞；多個部落格（twqiang.com、wvf.com.tw）以SEO文形式解釋「幹飯人」意思"
+    ],
+    "controversy": [
+      "起源說法不一致（四川方言 vs 網路社群造詞），且「幹」字繁簡轉換本身在中國net-speak內部也有討論"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "齁／很齁／齁甜",
+    "tw": ["很鹹／很甜／死鹹死甜（形容味道過重到鎖喉）"],
+    "cats": ["food"],
+    "gens": [
+      "爭議：可能源自台語「乎(honn)」的國語諧音借用，非近代中國網路用語"
+    ],
+    "evidence": [
+      "https://www.threads.com/@kd666/post/DQJVEirj7Uk/ ; https://www.dcard.tw/f/language/p/257244827 ; https://www.dcard.tw/f/talk/p/257237788 ; https://uptogo.com.tw/文化/齁唷意思？"
+    ],
+    "heat": [
+      "Threads貼文（@kd666）主張「很齁不算近代支語」；Dcard語言板貼文2024年11月討論度高，指出齁的台語根源"
+    ],
+    "controversy": [
+      "高度爭議：Dcard網友指出「齁」其實是從台語「乎」而來的國語諧音字，外省家庭爺爺奶奶輩早就在用，硬要分類可能也只是「外來語」而非近代中國網路支語，屬於「本土詞被誤認支語」的代表案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "車厘子",
+    "tw": ["櫻桃"],
+    "cats": ["food"],
+    "gens": ["粵語音譯詞（Cherry），經港澳流通後在中國大陸網路二次流行"],
+    "evidence": ["https://www.threads.com/@tianjiancmp"],
+    "heat": ["Threads貼文（@tianjiancmp）專文討論「車厘子是支語嗎？」"],
+    "controversy": [
+      "車厘子是Cherry的廣東話音譯，港澳粵語圈與海外港粵移民超市原本就用此詞，非中國大陸獨創；中國大陸內部另有語義區分——「櫻桃」指國產、「車厘子」專指進口——與台灣單一詞「櫻桃」不完全對應"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "冰粉",
+    "tw": ["無公認對應（常被拿來類比愛玉，但非同一食物）"],
+    "cats": ["food"],
+    "gens": ["2020年代中國小吃經抖音/小紅書傳入台灣夜市、百貨美食街"],
+    "evidence": [
+      "https://uptogo.com.tw/美食/食品/點心-甜點/冰粉在台灣叫什麼？/ ; https://supertaste.tvbs.com.tw/food/347921 ; https://today.line.me/tw/v3/article/OpR0yoE"
+    ],
+    "heat": [
+      "TVBS supertaste報導「近日走進夜市⋯發現1家新攤位大排長龍」；LINE Today整理報導同批傳入食物（冰粉、藕粉、螺獅粉、雙皮奶、煎餅果子、肉夾饃）"
+    ],
+    "controversy": [
+      "多數台灣人第一反應誤認冰粉是愛玉或果凍，但uptogo.com.tw文章強調兩者本質不同，不能直接劃等號；此詞屬於「新事物直接引進原名」而非「既有事物改用中國稱呼」，跟其他支語詞性質不同"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "螺蛳粉",
+    "tw": ["螺蛳粉（無替代詞，爭議點在進口禁令而非詞彙）"],
+    "cats": ["food"],
+    "gens": ["2020年代中國小吃網路爆紅，台灣曾發生查禁爭議"],
+    "evidence": [
+      "https://uptogo.com.tw/社會/台灣為什麼禁止螺螄粉？ ; https://www.36kr.com/p/2301107527789319 ; https://www.fivegoodrice.tw/螺螄粉-魅力-由來/"
+    ],
+    "heat": [
+      "36氪報導「台灣人都在『走私』螺蛳粉」；uptogo.com.tw專文釐清查禁原因"
+    ],
+    "controversy": [
+      "台灣查禁螺蛳粉的真正原因是經濟部依既有經貿法規禁止中國製食品進口，並非因包裝上「你是中國人，我也是中國人」統戰標語（此為坊間誤傳），此詞條的爭議屬於貿易政策層次而非純語言支語問題"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "買單",
+    "tw": ["結帳"],
+    "cats": ["food"],
+    "gens": ["兩岸日常詞彙分流，高度共識"],
+    "evidence": ["https://zhipd.zeabur.app/word/結帳"],
+    "heat": ["zhipd.zeabur.app明確收錄為詞條範例"],
+    "controversy": [
+      "無明顯爭議；嚴格說屬「用餐行為」用語而非食物本身，但常與飲食情境併談"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "賊好吃／賊牛逼",
+    "tw": ["無公認對應（口語僅能說「超好吃」「真的很讚」）"],
+    "cats": ["food"],
+    "gens": [
+      "中國網路擬態程度副詞「賊」=非常/特別，約2020年代前後隨短影音流行"
+    ],
+    "evidence": [
+      "https://www.dcard.tw/f/ntu（盤點臺大生常說的支語集錦）; https://www.dcard.tw/f/ncku（盤點成大生常說的支語集錦）; https://udn.com/news/story/120912/8207842"
+    ],
+    "heat": [
+      "2022年3月同款「盤點OO生常說的支語集錦」文章格式同時出現在Dcard台大板（3/17）與成大板（3/19），將「巨好吃、賊牛逼」列入「擬態篇」；魚漿夫婦道歉文亦自陳會避免「賊好吃」"
+    ],
+    "controversy": [
+      "屬於程度副詞而非名詞替換，台灣沒有單一詞可以直接取代，只能用「超」「很」等既有副詞迂迴表達"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "糯唧唧",
+    "tw": ["無公認對應（口語改用「軟軟糯糯」「Q彈」）"],
+    "cats": ["food"],
+    "gens": ["與軟糯同系列的食物口感疊字支語，中國網路甜點/小吃描述常用"],
+    "evidence": [
+      "https://udn.com/news/story/120912/8207842 ; https://www.pttweb.cc/bbs/Gossiping/M.1725451135.A.3DD"
+    ],
+    "heat": [
+      "魚漿夫婦道歉文列為自己會特別避免使用的「支感滿分」詞彙之一（與嘎嘎好吃、賊好吃、鬆弛感、踩屎感並列）"
+    ],
+    "controversy": [
+      "與「軟糯」同源但疊字化程度更高，目前未見有人像「軟糯」一樣挖出台灣文獻反證，暫時較無爭議地被視為支語"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "神仙打架",
+    "tw": ["仙拚仙（sian piànn sian，台語）"],
+    "cats": ["food"],
+    "gens": [
+      "常用於形容美食評比/廚藝競賽場合中高手雲集，源頭疑與王心凌上中國選秀節目爆紅後的網路流行有關"
+    ],
+    "evidence": [
+      "https://www.pttweb.cc/bbs/Gossiping（神仙打架是不是支語）; Facebook www.facebook.com/groups/tuiginakongtaigu（對囡仔講台語）"
+    ],
+    "heat": [
+      "PTT Gossiping板貼文「[問卦] 神仙打架是不是支語？」引發討論；對囡仔講台語粉專明確指出台語對應詞"
+    ],
+    "controversy": [
+      "PTT原PO主張自己從小到大沒聽過此詞，是王心凌參加中國節目爆紅後才開始流行；但也有百度資料顯示「神仙打架」脫胎自更早的漢語歇後語傳統，非純粹網路新創，屬於「舊語新用」還是「純支語」的認定爭議"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "小哥哥",
+    "tw": ["帥哥／型男"],
+    "cats": ["appellation"],
+    "gens": ["與小姐姐同期成對流行"],
+    "evidence": ["https://www.ptt.cc/bbs/WomenTalk/M.1572940465.A.BA0.html"],
+    "heat": ["與小姐姐成對出現於同批PTT討論串與Threads「支語大全」貼文"],
+    "controversy": ["與小姐姐同組，但較少人主張其為既有台灣用語，爭議程度略低"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "親",
+    "tw": ["（無固定對應，台灣人多半省略稱呼或直接用「你好」）"],
+    "cats": ["appellation"],
+    "gens": [
+      "源自淘寶網路客服／賣家對買家的招呼語，約2010年代前期隨淘寶購物文化傳入台灣"
+    ],
+    "evidence": [
+      "https://www.ptt.cc/bbs/WomenTalk/M.1662713304.A.4E9.html ; https://www.chinese-linguipedia.org/search_difference.html"
+    ],
+    "heat": [
+      "PTT WomenTalk抓狂串三名不同網友各自推文列名（含誇張標點「親～～～」）；教育部《中華語文知識庫》兩岸差異用詞資料庫設有「稱謂」分類收錄"
+    ],
+    "controversy": [
+      "爭議相對低，普遍認定為純陸來電商用語，但已見台灣部分賣場/客服模仿使用"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "寶子",
+    "tw": ["無公認對應（多直接用「寶貝」或省略稱呼）"],
+    "cats": ["appellation"],
+    "gens": ["2020年代中國直播帶貨主播常用稱呼"],
+    "evidence": [
+      "https://dict.revised.moe.edu.tw/dictView.jsp?ID=15988&la=0&powerMode=0 ; https://baike.baidu.com/item/宝子/8312810"
+    ],
+    "heat": [
+      "大量中國網路辭典/內容農場站收錄（百度百科、漢語詞典、新詞百科等逾10個結果同時出現），顯示搜尋量大，但未見台灣本地熱議串直接針對此詞"
+    ],
+    "controversy": [
+      "教育部《重編國語辭典修訂本》「寶子」條目釋義完全不同——古漢語指「一種香爐，多為僧人使用」，出自《敦煌變文集》，與網路稱呼義毫無關聯，純屬同形詞巧合，不屬兩岸誤認也非直接繼承關係，是查證時意外發現的趣味對照"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "太太（同人圈尊稱）",
+    "tw": ["大大"],
+    "cats": ["appellation"],
+    "gens": ["中國同人／輕小說創作圈用語，尊稱有才華的創作者，與「大大」同義"],
+    "evidence": [
+      "https://zhidao.baidu.com/question/381734171138094844.html ; https://www.zhihu.com/question/63598431 ; https://zh.moegirl.tw/太太"
+    ],
+    "heat": [
+      "知乎兩則專門問題（「為什麼要稱一些作家為太太」「為什麼二次元中很厲害的人叫太太」）、百度知道兩則、豆瓣討論串、萌娘百科詞條，顯示中國同人圈內部長期討論此用語起源"
+    ],
+    "controversy": [
+      "台灣同人圈部分社群也使用「太太」稱呼創作者，但主流仍用「大大」；屬次文化圈用語跨海傳播案例，非日常廣泛支語，起源本身在中國網路上也眾說紛紜、未有定論"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "愛人",
+    "tw": ["情人（台灣「愛人」曾指情人，現已式微，被寶貝/北鼻/閃光取代）"],
+    "cats": ["appellation"],
+    "gens": ["傳統漢語詞，兩岸各自演化出不同詞義"],
+    "evidence": [
+      "https://www.pttweb.cc/bbs/Gossiping/M.1671195379.A.5CD ; https://raw.githubusercontent.com/g0v/moedict-data-csld/master/兩岸三地生活差異詞語彙編-同名異實.csv"
+    ],
+    "heat": [
+      "專門PTT Gossiping討論串〈愛人這個支語為什麼在台灣流行不起來〉，多則推文交叉辯證"
+    ],
+    "controversy": [
+      "複雜的「兩岸本就通用但語意方向不同」案例——moedict官方語料庫顯示台灣「愛人」指情人、大陸指配偶，語意本身分歧；PTT網友更指出「愛人」台灣其實很早就有，只是屬於「上個世代」的老派用語（推文「落後半個世紀的用語」），並非近年支語入侵，而是台灣自己用語世代更迭（愛人→寶貝→北鼻→閃光）"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "老公／老婆（陌生人調侃式互稱，直播間用語）",
+    "tw": ["無此用法（傳統老公老婆僅用於配偶）"],
+    "cats": ["appellation"],
+    "gens": ["中國直播打賞文化衍生用法"],
+    "evidence": [
+      "https://onlinetoolkit.co/zh/mainland-china-taiwan-term-comparison/"
+    ],
+    "heat": ["大陸用語查詢等兩岸詞彙比對站收錄為對照條目"],
+    "controversy": [
+      "需與「配偶義的老公老婆」（兩岸本就通用，非支語）嚴格區分——爭議僅針對「陌生人調侃/直播間互稱」這個新用法本身，而非老公老婆這兩個詞的傳統義項"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "腦公／腦婆",
+    "tw": ["無公認對應"],
+    "cats": ["appellation"],
+    "gens": ["老公老婆的網路諧音變體"],
+    "evidence": ["https://www.hk01.com/熱爆話題/1038904/"],
+    "heat": [
+      "HK01報導香港網民票選「最令人反感網絡潮語」，「老公、老婆變成腦公、腦婆」被列名"
+    ],
+    "controversy": [
+      "證據目前偏向港澳網路社群使用場域（HK01報導），純中國原創或港式在地化變體待進一步查證，暫列港澳詞可能性標註"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "塑料姐妹花",
+    "tw": ["無公認對應（表面姊妹情、塑膠姊妹情近似但未成通用詞）"],
+    "cats": ["appellation"],
+    "gens": ["2013年前後源自中國微博段子"],
+    "evidence": [
+      "https://health.ettoday.net/news/1310965 ; https://www.newton.com.tw/wiki/塑膠姐妹花"
+    ],
+    "heat": [
+      "中文百科全書、百科知識中文網、極速寫作等多個中國詞典站收錄；ETtoday health頻道曾借用概念寫作「女性友誼像塑膠花虛假脆弱？」"
+    ],
+    "controversy": [
+      "少見台灣人日常使用此詞稱呼他人，多半只在轉述中國網路現象時提及，屬於「知道但不用」層級，非真正滲透"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "舔狗",
+    "tw": ["已廣泛被台灣年輕世代吸收使用，無強烈對應詞可替代"],
+    "cats": ["appellation"],
+    "gens": ["2018年前後中國網路流行語"],
+    "evidence": [
+      "https://dailyview.tw/popular/detail/21332 ; https://uptogo.com.tw/科技/網路/舔狗的意思是什麼？/"
+    ],
+    "heat": [
+      "DailyView〈最恨哪些中國用語〉支語清單列名；uptogo.com.tw專文介紹；萌娘百科詞條"
+    ],
+    "controversy": [
+      "「已完全在地化、爭議度反而降低」的案例——多數台灣年輕人使用時已不自覺其為支語，與集美、親等仍被高度警覺的詞形成對比"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "神仙姐姐",
+    "tw": ["無公認對應（多直接用「仙女」或明星本名）"],
+    "cats": ["appellation"],
+    "gens": ["原指演員劉亦菲的粉絲暱稱，後泛用讚美極美女性"],
+    "evidence": [
+      "https://zhuanlan.zhihu.com/p/76175478 ; https://baike.baidu.com/item/神仙姐姐/22096869"
+    ],
+    "heat": [
+      "百度百科專門詞條；知乎考證文章「原來神仙姐姐這詞不是金庸首創，最早竟然出現在紅樓夢中」"
+    ],
+    "controversy": [
+      "詞彙起源本身有爭議——知乎考證此詞最早可追溯至《紅樓夢》，並非2000年代網路或金庸小說原創，屬於「更早的中國古典文學詞被當成新網路支語」的案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "（常被誤認為中國網路新詞的）靚仔／靚女",
+    "tw": ["帥哥／美女"],
+    "cats": ["appellation"],
+    "gens": ["香港廣東話固有詞彙，非近代網路新造詞"],
+    "evidence": [
+      "https://words.hk/zidin/靚仔 ; https://words.hk/zidin/靚女 ; https://uptogo.com.tw/文化/民間習俗/香港漂亮女生怎麼說？/"
+    ],
+    "heat": [
+      "維基詞典、粵典（words.hk）、羊羊粵語發音字典等多個專門粵語辭典收錄；uptogo.com.tw專文「揭開香港茶餐廳術語」"
+    ],
+    "controversy": [
+      "重大誤判案例——「靚仔靚女」是香港廣東話固有詞彙（粵典等專業粵語辭典皆收錄），若被支語警察歸類為「中國支語」屬於港澳詞誤判的典型範例"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "兄dei",
+    "tw": ["兄弟／老兄"],
+    "cats": ["appellation"],
+    "gens": ["源自溫州方言，經網路擴散全國"],
+    "evidence": [
+      "https://www.jendow.com.tw/wiki/兄dei ; https://www.zhihu.com/question/302676654"
+    ],
+    "heat": [
+      "百度百科、知乎〈我們經常說的兄弟，兄dei還是兄die〉討論串、日文網站chineself.com專文介紹"
+    ],
+    "controversy": [
+      "誤判案例——「百科知識中文網」明確指出「兄dei，源於溫州話」，屬中國地方方言（吳語溫州話）而非全國性網路新創詞，若籠統歸為「支語」會忽略其方言根源"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "阿姨（保育員、保姆、女傭人、家事鐘點工）",
+    "tw": ["阿姨（母親的姊妹、年齡相仿的女性、庶母）"],
+    "cats": ["appellation"],
+    "gens": ["傳統漢語詞，兩岸各自演化出不同詞義"],
+    "evidence": [
+      "https://raw.githubusercontent.com/g0v/moedict-data-csld/master/兩岸三地生活差異詞語彙編-同名異實.csv"
+    ],
+    "heat": ["同上moedict CSV收錄"],
+    "controversy": [
+      "同名異實案例，非兩岸孰優孰劣之爭，而是用法範疇不同（大陸「阿姨」職業化程度更高，常指涉雇傭關係）"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "同志（人際關係普遍稱謂／泛指公民）",
+    "tw": ["同志（非異性戀者泛稱，1990年代性別運動後的自我認同用語）"],
+    "cats": ["appellation"],
+    "gens": ["傳統漢語詞，台灣於1990年代性別運動疊加新義"],
+    "evidence": [
+      "https://raw.githubusercontent.com/g0v/moedict-data-csld/master/兩岸三地生活差異詞語彙編-同名異實.csv"
+    ],
+    "heat": ["同上moedict CSV收錄為代表詞條"],
+    "controversy": [
+      "語意分歧方向與多數支語討論相反——台灣賦予此詞更狹義、更具政治／社群認同意義的用法（LGBT自稱），大陸則維持較舊的社會主義式泛稱用法；這不是「中國新詞入侵台灣」，而是台灣自己在既有詞彙上疊加新社會運動意義"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "牽手（僅字面「手拉手、聯手共事」義）",
+    "tw": ["牽手（除字面義外，亦指「妻子」，源自台語借詞）"],
+    "cats": ["appellation"],
+    "gens": ["台語khan-tshiú借詞，台灣獨有義項"],
+    "evidence": [
+      "https://raw.githubusercontent.com/g0v/moedict-data-csld/master/兩岸三地生活差異詞語彙編-同名異實.csv"
+    ],
+    "heat": ["moedict CSV收錄"],
+    "controversy": [
+      "台灣獨有、對岸沒有的稱謂用法（台語「牽手」指配偶的浪漫說法），常被用來對比說明台灣話語體系也有自己的原創詞彙，屬於「反向對照組」而非支語條目，收錄目的是提醒不要只單向蒐集中國詞"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "本命",
+    "tw": ["本命（廣泛直接使用，無替代詞）"],
+    "cats": ["appellation"],
+    "gens": ["追星文化用語，指最喜愛的偶像/角色"],
+    "evidence": ["https://dailyview.tw/popular/detail/22828"],
+    "heat": [
+      "網路溫度計dailyview.tw專文定義；Dcard追星板〈#分享 飯圈用語〉列名"
+    ],
+    "controversy": [
+      "詞源爭議——「本命」在飯圈文化脈絡中普遍認為源自日本ACG/偶像文化（推し文化）用語，經中國飯圈文化二次傳播進台灣，並非中國原創，若簡單歸為「支語」會忽略其日語轉譯背景"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "emo",
+    "tw": ["已在地化為情緒形容詞；台灣原生詞有「厭世／低潮／憂鬱」"],
+    "cats": ["mood/slang"],
+    "gens": ["2021年前後，經中國網路口語化為「心情低落」義"],
+    "evidence": [
+      "https://www.ptt.cc/bbs/Gossiping/search?q=emo；https://www.ptt.cc/bbs/WomenTalk/search?q=emo"
+    ],
+    "heat": [
+      "PTT Gossiping＋WomenTalk合計10餘篇自然使用（如「工程師心情很emo會去按機台的emo按鈕嗎」「年末特別容易emo嗎」「下雨天覺得emo的人多不多」「會覺得整天emo的男生很娘嗎」），口語化程度高"
+    ],
+    "controversy": [
+      "詞根本身是英文「emo」次文化縮寫（emotional hardcore），並非中國原創，是否應歸類「支語」存在爭議——較可能是英文外來語經兩岸平行吸收再各自演化用法，而非單向由中國傳入台灣"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "社死（社會性死亡）",
+    "tw": ["已高度在地化；台灣原生表達接近「糗爆／見笑到脫褲」"],
+    "cats": ["slang"],
+    "gens": [
+      "2020年前後，經小紅書/微博通俗化學術詞彙「社會性死亡」（social death，原為社會學家Orlando Patterson等使用的學術概念）"
+    ],
+    "evidence": [
+      "https://zh.wikipedia.org/wiki/社会性死亡；https://www.ptt.cc/bbs/Gossiping/search?q=社死"
+    ],
+    "heat": [
+      "PTT Gossiping板搜尋20篇命中，涵蓋社會事件（粿粿/陳冠希/南京紅姐事件）、政治（川普把柄）、日常尷尬情境（公司廁所/懶叫位置）等，完全融入八卦板日常提問句式"
+    ],
+    "controversy": [
+      "中文維基百科條目標註「翻譯自英文維基」，學術原意（人身敗名裂被社會孤立）與現今網路口語用法（尷尬到想死）已有落差，但未見被列為「支語」爭議案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "爺青結",
+    "tw": ["無公認對應"],
+    "cats": ["slang"],
+    "gens": ["約2021年4月（維基百科引用來源標註2021-04-20）"],
+    "evidence": [
+      "https://zh.wikipedia.org/wiki/中国大陆网络用语列表（API section=6 缩句词）"
+    ],
+    "heat": [
+      "未查得PTT等台灣社群站內搜尋數據，僅有維基百科詞條記載，熱度訊號不足"
+    ],
+    "controversy": [
+      "「爺的青春結束了」縮句詞，另有「爺青回」（爺的青春回來了）版本，未見具體台灣使用爭議記載"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "鼠鼠",
+    "tw": ["無公認對應"],
+    "cats": ["slang"],
+    "gens": ["2022年，自嘲用語"],
+    "evidence": [
+      "https://zh.wikipedia.org/wiki/中国大陆网络用语列表（API section=56 人群類）"
+    ],
+    "heat": [
+      "維基百科記載為2022年誕生的自嘲文化現象（「鼠鼠文學」），未查得台灣社群站內搜尋數據佐證熱度"
+    ],
+    "controversy": [
+      "意指自認社會地位低下如「陰溝裡的老鼠」，亦用於遊戲中消極打法玩家自稱；未見具體台灣渗透爭議記載，本研究未能證實此詞已進入台灣日常用語"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "精神小伙",
+    "tw": ["（維基百科明確類比：「類似於台灣的8+9」）"],
+    "cats": ["appellation"],
+    "gens": ["2020年前後，快手/抖音短視頻文化"],
+    "evidence": [
+      "https://zh.wikipedia.org/wiki/中国大陆网络用语列表（API section=56 人群類）"
+    ],
+    "heat": ["未查得台灣社群站內搜尋數據，僅維基百科記載"],
+    "controversy": [
+      "值得注意的結構性對照：中文維基百科詞條本身將此中國次文化群體標籤直接類比台灣本土既有的「8+9」次文化標籤，顯示兩岸青年次文化命名邏輯的平行性，而非單向輸入關係"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "搞抽象",
+    "tw": ["無公認對應"],
+    "cats": ["slang"],
+    "gens": ["2022年開始流行"],
+    "evidence": [
+      "https://zh.wikipedia.org/wiki/中国大陆网络用语列表（API section=55 評論）"
+    ],
+    "heat": ["未查得台灣社群站內搜尋數據佐證熱度，僅維基百科記載定義"],
+    "controversy": [
+      "本指抽象藝術，後引申至「壓抑下的裝瘋賣傻行為」，屬於較難簡短翻譯的中國網路迷因，本研究未能證實其台灣滲透程度"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "帽衫／衛衣（爭議示例）",
+    "tw": ["帽衫"],
+    "cats": ["daily"],
+    "gens": [
+      "2024年5月台港「支語警察」辯論脈絡下被舉例（端傳媒），非本切面2020-2023窗口內的新詞，但反映同一滲透現象的持續延燒"
+    ],
+    "evidence": [
+      "https://theinitium.com/article/20240525-opinion-sinophone-language-debate"
+    ],
+    "heat": [
+      "端傳媒（2024-05-25）付費文章開頭段落列為Threads「港台大戰」中的對比例句之一"
+    ],
+    "controversy": [
+      "端傳媒文章本身的論點是質疑「標準化在什麼情況下是語言的生命力，什麼情況下會變成語言的孱弱和殘缺」，並非單純判定「衛衣」為應抵制的支語，記錄時應保留此質疑框架而非簡化為二元對立"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "偷感 / 偷感很重",
+    "tw": [
+      "無公認對應（台灣媒體i-media.tw將其列為「陸十大網路流行語」介紹給讀者，屬於「認識對岸新詞」的報導框架，非台灣本地日常使用）"
+    ],
+    "cats": ["slang"],
+    "gens": ["2024年科技詞/半年熱詞"],
+    "evidence": [
+      "https://news.qq.com/rain/a/20240614A05QON00 ; https://baike.baidu.com/item/偷感很重/64372196 ; https://www.i-media.tw/Article/Detail/36990"
+    ],
+    "heat": [
+      "抖音播放量5.1億次、小紅書瀏覽量7358萬次、熱門影片按讚破百萬（騰訊新聞2024/6/14）；知乎《新榜觀察》稱全網播放量超5億"
+    ],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "淡人 / 濃人",
+    "tw": [
+      "台灣生活風格媒體（PopDaily兩篇、Yahoo新聞、三立新聞網、UDN部落格）直接沿用「淡人/濃人」原詞報導，未見台灣本地替代詞被提出，也少見支語警察式抵制——屬於「整組概念被吸收」的案例"
+    ],
+    "cats": ["slang"],
+    "gens": ["2024年新社交人設（MBTI延伸）"],
+    "evidence": [
+      "https://baike.baidu.com/item/淡人和浓人/67652003 ; https://www.popdaily.com.tw/constellation/1514770 ; https://tw.news.yahoo.com/濃人vs淡人超有感-聊天戀愛大不同-這些特徵-秒分辨-022400432.html"
+    ],
+    "heat": ["多家台灣媒體轉載報導，PopDaily兩篇專文（星座/穿搭角度各一）"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "發瘋文學",
+    "tw": [
+      "無明確對應詞彙可指涉同一種「誇張情緒宣洩文體」；台語雖有「起痟」「掠狂」表達「發瘋」的狀態本身（教育部台語辭典可查），但那是指情緒失控的狀態，並非這種特定的網路書寫套路/迷因玩法"
+    ],
+    "cats": ["grammar"],
+    "gens": [
+      "源自2021年豆瓣小組（「我不發瘋我說什麼」起頭文），2022年「林黛玉發瘋文學」二次帶熱，2024年周邊商品化"
+    ],
+    "evidence": [
+      "https://www.newton.com.tw/wiki/發瘋文學 ; https://kknews.cc/zh-tw/media/mygz8pz.html ; https://uptogo.com.tw/文化/民間習俗/發瘋-台語怎麼說？/"
+    ],
+    "heat": ["每日頭條報導「林黛玉發瘋文學」微博話題1.3億閱讀量、5.3萬討論者"],
+    "controversy": [
+      "台語「發瘋」既有詞（起痟/掠狂）跟中國網路語境下「發瘋文學」這種特定書寫套路（大量標點錯亂、瓊瑤劇腔）不完全對應，是「文體/迷因」層次而非單純詞彙替換的差異"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "搭子",
+    "tw": [
+      "Threads用戶@starshine_tw明確主張改用「夥伴/旅伴/同伴」（原文：「搭子又是什麼難聽用語 一起打牌才叫搭子⋯⋯夥伴/旅伴/同伴不是都可以用嗎」），另有「飯友」等既有台灣說法可對應"
+    ],
+    "cats": ["daily"],
+    "gens": ["2023年《咬文嚼字》十大流行語"],
+    "evidence": [
+      "https://zh.wikipedia.org/zh-tw/搭子 ; https://www.threads.com/@starshine_tw/post/DAq9e2RzwcR ; https://baike.baidu.com/item/搭子/62974309"
+    ],
+    "heat": [
+      "小紅書「搭子」詞條瀏覽量達2000萬、相關筆記超過154萬篇；微博話題閱讀破億"
+    ],
+    "controversy": [
+      "詞源可追溯至江南/上海方言「打牌搭子」，並非純網路新造詞，台灣網友的批評聚焦在「造詞浮濫、非必要新詞取代既有說法」而非單純地域歸屬爭議"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "嘴替 / 互聯網嘴替",
+    "tw": [
+      "台灣「支語字典」（invade.tw）建議依語境替代為「代言人」或「發聲筒」"
+    ],
+    "cats": ["slang"],
+    "gens": ["約2022-2023年網路流行語"],
+    "evidence": [
+      "https://raw.githubusercontent.com/caris-events/invade/master/database/vocabs/嘴替.yml ; https://zhuanlan.zhihu.com（互聯網嘴替相關） ; 河南商報「中青報談網絡流行語：最強嘴替還是語言污染」"
+    ],
+    "heat": [
+      "新周刊、印客美學等多篇專文報導；中國青年報將其與「city不city、松弛感、班味」並列討論「年度最強嘴替」現象"
+    ],
+    "controversy": [
+      "中國本地也有「是嘴替還是語言污染」的自我檢討聲音（河南商報引中青報評論）"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "顯眼包 / 現眼包",
+    "tw": [
+      "無公認固定譯詞；一篇部落格文章觀察指出此詞「在台灣進化後」轉變為「可愛的負面詞」，形容不計形象、幽默感爆棚的人（來源為個人部落格，可信度中等，非權威統計，僅供參考）"
+    ],
+    "cats": ["appellation"],
+    "gens": ["源自快手主播「迷人的郭老師」直播用語，2023年起在微博等平台走紅"],
+    "evidence": [
+      "https://kknews.cc/news/kg68knr.html ; https://min.news/zh-hant/fashion/c04fe6ca8bcd15b96c9f898a7d49015f.html ; https://echoes-in-threads.blogspot.com/2026/04/internet-slang-xian-yan-bao.html"
+    ],
+    "heat": ["每日頭條/中華網等多篇專文報導「熱搜刷屏的顯眼包」"],
+    "controversy": [
+      "「顯眼包」原字面帶貶義（方言「現眼」=丟人現眼），在網路語境被雅化為中性甚至略帶讚美的詞——這種「貶詞褒用」的演變容易讓人誤判詞源或詞性"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "那咋了",
+    "tw": [
+      "無公認對應；台灣使用者在HiNative上發問「這是什麼意思」（提問編號26208007），顯示此詞尚未被台灣人普遍理解或使用"
+    ],
+    "cats": ["grammar"],
+    "gens": [
+      "2024年6月抖音博主「鴨鴨米」直播錄屏爆紅，入選《語言文字周報》2024年十大網路流行語；2025年出現「一年後又火」的二次傳播"
+    ],
+    "evidence": [
+      "https://baike.baidu.com/item/那咋了/64840090 ; https://m.douban.com/group/topic/309737425/ ; https://tw.hinative.com/questions/26208007 ; https://www.bilibili.com/video/BV1kG6BYSEc7/"
+    ],
+    "heat": [
+      "百度百科/豆瓣/B站多平台記錄，其中B站單支解說影片播放66萬+、彈幕964、按讚7192；知乎專文指出已跨越東北方言、粵語使用者界線，中年長輩也開始使用"
+    ],
+    "controversy": [
+      "詞語源自東北方言「咋」=怎麼，屬於「方言詞被短影音放大」而非純新造詞"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "松弛感",
+    "tw": ["無公認對應，多直接沿用原詞"],
+    "cats": ["daily"],
+    "gens": ["2023年出現、2024年仍熱，《咬文嚼字》2024年十大流行語"],
+    "evidence": ["https://www.jiemian.com/article/12061890.html"],
+    "heat": [
+      "《咬文嚼字》官方年度榜單收錄；中國青年報將其列入「年度最強嘴替」候選之一"
+    ],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "水靈靈地XXX",
+    "tw": ["無公認對應"],
+    "cats": ["grammar"],
+    "gens": ["2024年《咬文嚼字》十大流行語，原出自韓國女歌手用語轉譯"],
+    "evidence": ["https://www.peopleapp.com/column/30047571863-500005969001"],
+    "heat": ["《咬文嚼字》官方年度榜單收錄"],
+    "controversy": ["詞源本身來自韓語轉譯（韓星訪談用語），非純中文原創"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "小孩哥 / 小孩姐",
+    "tw": ["無公認對應"],
+    "cats": ["appellation"],
+    "gens": ["2024年《咬文嚼字》十大流行語"],
+    "evidence": ["https://www.jiemian.com/article/12061890.html"],
+    "heat": ["《咬文嚼字》官方年度榜單收錄"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "銀發力量",
+    "tw": [
+      "台灣慣用「銀髮族」，但「銀髮力量」作為官媒年度榜單詞條是中國語境下的新搭配"
+    ],
+    "cats": ["daily"],
+    "gens": ["2024年《咬文嚼字》十大流行語"],
+    "evidence": ["https://www.jiemian.com/article/12061890.html"],
+    "heat": ["《咬文嚼字》官方年度榜單收錄"],
+    "controversy": [
+      "「銀髮族」本身兩岸通用老詞，「銀髮力量」是新造搭配，非完全新詞"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "蘇超",
+    "tw": [
+      "無對應（專有名詞，江蘇省城市足球聯賽簡稱，屬地方限定賽事，台灣無對應概念）"
+    ],
+    "cats": ["entertainment"],
+    "gens": ["2025年《咬文嚼字》十大流行語第3名"],
+    "evidence": [
+      "https://www.storm.mg/lifestyle/11085405 ; https://baike.baidu.com/item/2025年十大流行語/67047821"
+    ],
+    "heat": [
+      "《咬文嚼字》官方年度榜單收錄；台灣風傳媒（storm.mg）專文報導解析"
+    ],
+    "controversy": [
+      "屬地方賽事專有名詞，非典型「支語」範疇，僅作為文化現象一併記錄"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "谷子",
+    "tw": [
+      "台灣ACGN圈普遍直接沿用「谷子」/「吃谷」原詞，或使用既有說法「周邊」「商品」"
+    ],
+    "cats": ["gaming"],
+    "gens": ["2025年《咬文嚼字》十大流行語"],
+    "evidence": [
+      "https://zhuanlan.zhihu.com/p/2065103349012240380 ; https://baike.baidu.com/item/2025年十大流行語/67047821"
+    ],
+    "heat": ["《咬文嚼字》官方年度榜單收錄；知乎多篇專文討論「谷子經濟」"],
+    "controversy": [
+      "明確的日語轉譯詞——源自日語「グッズ」（goods）音譯，並非中文原創，屬「日語轉譯」類型，不宜視為單純「中國發明」的支語"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "活人感",
+    "tw": ["無公認對應"],
+    "cats": ["slang"],
+    "gens": ["2025年《咬文嚼字》十大流行語"],
+    "evidence": [
+      "https://www.huxiu.com/article/4816757.html ; https://www.peopleapp.com/column/30050935394-500007247146"
+    ],
+    "heat": ["人民日報、虎嗅網、今日頭條等多篇專文討論"],
+    "controversy": [
+      "反映對「人設標準化」的反彈，與「發瘋文學」同屬「反完美形象」脈絡的新詞"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "賽博對賬",
+    "tw": ["無公認對應"],
+    "cats": ["business"],
+    "gens": ["2025年《咬文嚼字》十大流行語"],
+    "evidence": ["https://news.qq.com/rain/a/20251231A072JA00"],
+    "heat": ["《咬文嚼字》官方年度榜單收錄"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "數字遊民",
+    "tw": [
+      "台灣已有「遠距工作者」「數位游牧族」（英語digital nomad譯法）並存使用"
+    ],
+    "cats": ["business"],
+    "gens": ["2025年《咬文嚼字》十大流行語"],
+    "evidence": ["https://news.qq.com/rain/a/20251231A072JA00"],
+    "heat": ["《咬文嚼字》官方年度榜單收錄"],
+    "controversy": [
+      "台灣「數位游牧族」與中國「數字遊民」屬對同一英語詞的平行翻譯，非單向輸入個案，須注意不是「中國創詞→台灣缺乏對應」的典型情況"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "具身智能",
+    "tw": [
+      "台灣科技業慣用「具身智慧」或直接使用英文embodied AI，兩岸用字差異主要在「智能」vs「智慧」"
+    ],
+    "cats": ["tech"],
+    "gens": ["2025年《咬文嚼字》十大流行語第2名"],
+    "evidence": ["https://news.qq.com/rain/a/20251231A072JA00"],
+    "heat": ["《咬文嚼字》官方年度榜單收錄"],
+    "controversy": [
+      "「智能」為中國慣用譯法、台灣科技業慣用「智慧」，屬長期存在的兩岸科技術語落差，非2024-2025新出現現象"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "韌性",
+    "tw": [
+      "台灣原本就使用「韌性」一詞（如「城市韌性」「經濟韌性」皆為兩岸通用學術詞彙）"
+    ],
+    "cats": ["slang"],
+    "gens": ["2025年《咬文嚼字》十大流行語第1名"],
+    "evidence": ["https://news.qq.com/rain/a/20251231A072JA00"],
+    "heat": ["《咬文嚼字》官方年度榜單收錄，排名第一"],
+    "controversy": [
+      "兩岸本就通用的詞被賦予年度流行語身分，屬舊詞新用/語境轉化，不應視為需要「台灣對應詞」的支語"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "預製菜 / 預製XX",
+    "tw": [
+      "台灣支語字典（invade.tw）建議替代為「調理包」「微波食品/微波便當」「冷凍食品」"
+    ],
+    "cats": ["food"],
+    "gens": ["2025年《咬文嚼字》十大流行語，源於西貝餐廳預製菜爭議"],
+    "evidence": [
+      "https://raw.githubusercontent.com/caris-events/invade/master/database/vocabs/預製菜.yml ; https://jyt.ah.gov.cn/tsdw/ahsyywzgzwyhbgs/ywjz/40778280.html"
+    ],
+    "heat": ["《咬文嚼字》官方年度榜單收錄，引發中國餐飲界公共議題"],
+    "controversy": [
+      "台灣「調理包」與中國「預製菜」在產業規模、法規定義上未必完全對等，屬語感相近但產業脈絡不同的近義詞而非精確對應"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "社牛 / 社交牛逼症",
+    "tw": ["台灣支語字典（invade.tw）建議替代為「熱情」"],
+    "cats": ["appellation"],
+    "gens": ["2021年前後興起"],
+    "evidence": [
+      "https://raw.githubusercontent.com/caris-events/invade/master/database/vocabs/社牛.yml"
+    ],
+    "heat": [],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "邪修",
+    "tw": ["無公認對應"],
+    "cats": ["slang"],
+    "gens": [
+      "2025年興起，源自修仙小說「邪修=反派修士」，現指非常規但高效的解決方法"
+    ],
+    "evidence": [
+      "https://baike.baidu.com/item/邪修/66252313 ; https://zhuanlan.zhihu.com/p/1973447654135574916"
+    ],
+    "heat": ["知乎相關提問「動輒過萬閱讀量」"],
+    "controversy": [
+      "詞源清楚（修仙小說術語轉義），近期才從貶義轉為中性/褒義用法，是「詞性反轉」進行中的活詞"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "絲瓜湯（哏）",
+    "tw": ["無公認對應"],
+    "cats": ["daily"],
+    "gens": ["2025年9月，短影音創作者「@累子」創造"],
+    "evidence": [
+      "https://zh.wenxuecity.com/news/2025/09/10/socialnews-258389.html ; https://uptogo.com.tw/情感/絲瓜湯是什麼梗"
+    ],
+    "heat": ["「過去兩周霸占了各大平台的熱搜」（文學城報導）"],
+    "controversy": [
+      "這個哏描述的是中國特有的「養生式話術迴避情感溝通」代際現象，屬於高語境的文化在地哏，直接翻譯詞彙無法傳達背後的家庭溝通脈絡，適合列為「文化語境哏」而非可替換詞彙"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "尊嘟假嘟",
+    "tw": [
+      "起源具高度爭議——PTT鄉民自己發文問「是台灣用語嗎」，hkslang.com標示為「台灣網路流行語」，但中國百度百科同樣主張是中國網路流行語；查無可稽考的單一「第一發明者」記錄"
+    ],
+    "cats": ["grammar"],
+    "gens": ["2023年8月起大量出現於兩岸社群"],
+    "evidence": [
+      "https://www.ptt.cc/bbs/Gossiping/M.1715687077.A.2DD.html ; https://news.ltn.com.tw/news/world/breakingnews/4831473 ; https://www.mirrormedia.mg/story/20241015edi062 ; https://www.hkslang.com/尊嘟假嘟/"
+    ],
+    "heat": [
+      "PopDaily、kknews、自由時報、鏡週刊等多家台灣媒體報導；2024年10月中國中央網信辦以「網路黑話爛梗」名義查禁此詞，本身即是熱度指標"
+    ],
+    "controversy": [
+      "本次調查中起源歸屬最模糊的案例：兩岸網友都聲稱是「自己的」用語，且中國官方2024年查禁後，台灣網友以「已經Taiwan了」（源自中國電競用語，意指被淘汰/團滅）調侃回應，形成一層額外的跨海峽哏中哏"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "氛圍感（氛圍感拉滿）",
+    "tw": ["好有情調／超級有Fu／氣氛滿分（多字迂迴，非單一對應詞）"],
+    "cats": ["slang"],
+    "gens": ["小紅書美學系2020年代前期詞彙，常與「拉滿」搭配成固定句式"],
+    "evidence": [
+      "https://www.pttweb.cc/bbs/Gossiping/M.1627207852.A.92E ; https://www.threads.com/@issac.wds/post/C5-HzCErrWr ; https://www.threads.com/@sean_sanyi/post/C9Bp9AlSyXu"
+    ],
+    "heat": [
+      "Threads貼文（issac.wds）獲140讚／79留言／15轉貼；PTT《Gossiping》2021年即有專門討論串"
+    ],
+    "controversy": [
+      "基底字「氛圍」本身並非支語——PTT討論串引用朱自清散文「脫離了那氛圍，朗誦詩就不能成其為詩」與教科書用例證明「氛圍」台灣本就有在用，且可能是五四時期借自日文的和製漢語；真正被抓的是「氛圍感」這個N+N造詞加上「拉滿」的固定搭配，屬於新造的小紅書式用法而非「氛圍」一詞本身"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "高級感（高級感拉滿）",
+    "tw": ["好有情調／超級有Fu／氣氛滿分；或傳統「高檔、有質感」"],
+    "cats": ["slang"],
+    "gens": ["小紅書美學系詞彙，經2026年總統發文事件成為全國話題"],
+    "evidence": ["https://today.line.me/tw/v3/article/l2nr9Ye"],
+    "heat": [
+      "因蔡英文總統發文使用「高級感拉滿」，登上民視新聞／Yahoo新聞／LINE Today全國主流媒體報導"
+    ],
+    "controversy": [
+      "「高級」本身是教育部辭典收錄的標準中文詞（層次或品質較高），非支語；被質疑的是「高級感拉滿」這個搭配句式。報導中正反並陳：一派認為「就是形容詞而已，不必太嚴格」，另一派認為「如果是總統級的發文，恐怕還是應該要更加謹慎」，記者未給結論，留待讀者判斷"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "精緻感",
+    "tw": ["無公認對應（可能與「高級感」「質感」混用，未見獨立替代詞討論）"],
+    "cats": ["slang"],
+    "gens": ["小紅書美學系詞彙，與高級感同期"],
+    "evidence": ["https://www.threads.com/@7ian6_1008/post/C4qkVAtP1wz"],
+    "heat": [
+      "低——僅見於Threads「支語大全」彙整帖列出，未見獨立的PTT／Dcard專門討論串"
+    ],
+    "controversy": [
+      "因未見獨立深度討論，無法確認是否已形成明確共識為支語或已被台灣自然吸收，屬於「查不到就不編造」的案例，列為待觀察詞"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "儀式感",
+    "tw": [
+      "無單一對應詞，台灣網友多以「愛慕虛榮」「花錢」等負面框架回應，而非提供中性替代詞"
+    ],
+    "cats": ["slang"],
+    "gens": ["小紅書生活風格系詞彙，2018年後隨美妝／生活博主內容擴散"],
+    "evidence": [
+      "https://disp.cc/b/Gossiping/e0rd ; https://www.pttweb.tw/Gossiping/M.1674805072.A.4EE ; https://www.facebook.com/mirrormediamg/posts/"
+    ],
+    "heat": [
+      "PTT《Gossiping》2023年專門討論串；PTT《WomenTalk》2022年「哪個支語聽到會抓狂」串中「儀式感 怕爆」；2026年台鋼啦啦隊MC因使用「儀式感、方案、天花板」被觀眾抓包誤用支語而公開道歉（Mirror Media報導）"
+    ],
+    "controversy": [
+      "「儀式」概念本身在心理學／人類學脈絡有更早、更中性的來源（BBC News中文曾以網球選手納達爾為例談「日常儀式的驚人力量」），但「儀式感」作為小紅書消費美學關鍵詞、常與「花錢」「拍照」綁定使用的用法，被台灣網友強烈連結到「愛慕虛榮」「儀式感=虛榮感」的負面框架，Disp BBS討論串網友甚至戲稱「插三柱香」「一鞠躬」諷刺其宗教儀式化"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "配得感／不配得感",
+    "tw": ["「不值得」或「無價值感」（心理學脈絡下的說法）"],
+    "cats": ["slang"],
+    "gens": ["心理成長／自我覺察社群詞彙，百度百科標記為「网络用语」"],
+    "evidence": [
+      "https://www.threads.com/@oliver_psy_123/post/DO3o719iRkt ; https://baike.baidu.com/item/配得感/63481933 ; https://www.unlazy-mind.com/knowledge/psy-scales/deservingness"
+    ],
+    "heat": [
+      "中——Threads上有台灣心理諮商從業者主動科普；台灣多個心理專業網站（scl-psy.tw／moodtainer.com／unlazy-mind.com）已直接沿用此詞而不特別註記來源"
+    ],
+    "controversy": [
+      "與消費美學類「感」字詞不同，此詞落在心理諮商／自我成長領域，台灣端呈現「安靜吸收」模式——Threads用戶oliver_psy_123明確標註「『不配得感』（unworthiness)是中國用語，台灣的說法是『不值得』或『無價值感』，這是心理學的詞」，但同時多個台灣心理專業站台已直接使用「配得感」作為專業術語，未見激烈支語警察式反彈，顯示此詞在專業語境中的接受度遠高於日常消費語境"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "多巴胺穿搭（及多巴胺XX造詞公式，如多巴胺冰咖、多巴胺文學）",
+    "tw": [
+      "無公認單一對應詞；台灣媒體多直接沿用「多巴胺穿搭」或譯自英文「Dopamine Dressing」"
+    ],
+    "cats": ["slang"],
+    "gens": [
+      "2023年中國微博熱搜詞，同期歐美時尚媒體亦有「Dopamine Dressing」一詞流行"
+    ],
+    "evidence": [
+      "https://www.scooptw.com/exclusive/148607/「多巴胺」成大陸流行詞新元素　被吐槽「已經看/ ; https://baike.baidu.com/item/多巴胺穿搭/63029707 ; https://blog.pinkoi.com/tw/fashion-beauty/2405-dopamine-dressing/"
+    ],
+    "heat": [
+      "高——一度登上微博熱搜排行榜；台灣主流媒體（Pinkoi設計誌、udn女子漾、商業周刊）均有專文報導此穿搭趨勢"
+    ],
+    "controversy": [
+      "存在雙重起源爭議：中國網路一側明確視為本土流行語（百度百科詞條、知乎「熱詞解析」文章追溯源頭），同期歐美時尚產業也獨立使用英文「Dopamine Dressing」一詞，台灣媒體報導時較少將其框定為「支語」，而是當作全球時尚趨勢譯名處理；scooptw報導指出中國網友對「多巴胺＋X」這個造詞公式本身感到反感，吐槽「已經看不懂中文了」，顯示這個造詞公式在中國內部也引發語言純化式批評，並非只有台灣在意"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "天花板",
+    "tw": ["（有查證結論相互矛盾，見controversy欄）"],
+    "cats": ["slang"],
+    "gens": [
+      "爭議中：一說源自2022年台灣節目《原子少年》，一說為中國網路流行語"
+    ],
+    "evidence": [
+      "https://askai.glarity.app/zh-TW/search/網路用語「天花板」是支語嗎 ; https://www.dcard.tw/f/trending/p/256037943 ; https://www.facebook.com/mirrormediamg/posts/"
+    ],
+    "heat": [
+      "中——出現在Dcard「支語使用狀況列表」中；2026年因台鋼啦啦隊MC使用而登上新聞，MC本人公開道歉"
+    ],
+    "controversy": [
+      "⚠️誤判史活案例：AI查證工具Glarity明確給出「這個詞語的使用並不屬於支語...流行源於2022年電視節目《原子少年》」的結論，但同一詞彙同時被收錄在Dcard「支語使用狀況及其列表」中，且2026年台鋼啦啦隊MC因使用「儀式感、方案、天花板」三詞被觀眾抓包誤用支語而公開道歉——顯示不同查證管道對同一詞彙給出完全相反的結論，本身就是需要持續追查、不宜武斷歸類的案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "顆粒感／膠片感（攝影美學詞）",
+    "tw": ["無爭議——為攝影專業詞彙，非支語議題焦點"],
+    "cats": ["slang"],
+    "gens": ["小紅書／IG攝影美學內容常見詞，與「高級感」常搭配行銷使用"],
+    "evidence": [
+      "https://world.taobao.com/lang/zh-tw/shopping-guide/2002980541342679040.htm"
+    ],
+    "heat": [
+      "中——Dcard攝影板有多篇技術討論；淘寶跨境行銷文案直接以「打造Ig高級氛圍感攝影指南」作為標題賣給台灣消費者"
+    ],
+    "controversy": [
+      "本身是中性攝影技術詞彙（底片顆粒質感），未見台灣網友將其列入支語清單或引發爭議；但其常與「高級感」「氛圍感」搭配出現在對台銷售的中國電商行銷文案中（如淘寶「告別塑膠感!掌握膠片顆粒與光影色調，打造Ig 高級氛圍感攝影指南」），顯示「感」系詞彙叢集透過跨境電商內容直接輸出到台灣消費語境"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "特種兵式旅遊",
+    "tw": [
+      "無公認對應（台灣媒體多以「快閃式旅遊」等描述性說法報導，未形成固定替代詞）"
+    ],
+    "cats": ["daily"],
+    "gens": ["2023年中國官方認證年度十大新詞語之一"],
+    "evidence": [
+      "https://www.storm.mg/lifestyle/4953010 ; https://www.gvm.com.tw/article/104306"
+    ],
+    "heat": [
+      "中——中央社（經風傳媒轉載）、每日頭條、遠見雜誌均有專文報導此現象"
+    ],
+    "controversy": [
+      "官方認證身分明確：中國國家語言資源監測與研究中心將其列為「2023年度十大新詞語」，定義為「年輕人試圖用最少的時間和金錢，遊最多景點的旅遊方式」；台灣媒體報導模式與「感」系詞彙不同——多以「觀察中國青年旅遊現象」的新聞報導角度處理，而非日常口語借用，屬於「報導型輸入」而非「生活化吸收」"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "質感／質感生活",
+    "tw": ["無爭議——「質感」本為台灣長期通用的標準詞彙"],
+    "cats": ["daily"],
+    "gens": ["非新詞，長期通用於台灣室內設計／生活風格語境"],
+    "evidence": ["https://www.dcard.tw/f/rainbow/p/236998871"],
+    "heat": [
+      "低（Dcard彩虹板僅有標題「質～感～」的帖子被搜尋引擎索引，內容因平台反爬蟲機制無法取得）"
+    ],
+    "controversy": [
+      "重要澄清案例：「質感」是台灣本就長期通用的標準中文詞（描述物品或生活的品味質地），並非新興支語，不應與「氛圍感」「高級感」等新造「感」字詞混為一談；本詞列入僅為對照組，用以標註哪些「感」字詞其實是舊詞，避免誤判為新支語"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "治癒感／治癒系（多巴胺文學脈絡下的「看了會有治癒感的文字」）",
+    "tw": ["療癒（台灣較常用「療癒」而非「治癒」）"],
+    "cats": ["entertainment"],
+    "gens": [
+      "「治癒系」概念普遍認為源自日語「癒し系」(いやし系)，「治癒感」則是近年隨小紅書「多巴胺XX」造詞公式衍生的新搭配"
+    ],
+    "evidence": [
+      "https://www.scooptw.com/exclusive/148607/「多巴胺」成大陸流行詞新元素　被吐槽「已經看/"
+    ],
+    "heat": [
+      "低（僅在「多巴胺文學」相關報導中被順帶提及作為詞彙定義的一部分，未查到獨立的支語討論串）"
+    ],
+    "controversy": [
+      "⚠️高度懷疑為日語轉譯被誤判案例，但本次搜尋未查到台灣網友專門討論「治癒系/治癒感」是否為支語的獨立資料，僅在scooptw報導「多巴胺文學」定義時順帶出現「看了會有治癒感的文字」一語；「治癒」與台灣慣用的「療癒」用字不同（治癒側重疾病痊癒本義，療癒為近年台灣自身也吸收的心理學用詞），兩者是否同源、何者更早進入台灣尚待進一步查證，此處誠實標註證據薄弱，不做武斷歸類"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "一個億",
+    "tw": ["一億"],
+    "cats": ["grammar"],
+    "gens": ["中國直播／短影音常見「一個+數詞單位」量詞用法"],
+    "evidence": [
+      "https://www.ptt.cc/bbs/Gossiping/M.1658647405.A.498.html ; https://disp.cc/b/Gossiping/eNN8"
+    ],
+    "heat": [
+      "PTT問卦串 M.1658647405 與 disp.cc eNN8 均有數十則推文討論，多數判定為「支式語法」「支言支語」"
+    ],
+    "controversy": [
+      "部分網友主張只是口語加強語氣、台灣早已有人這樣講，非純粹輸入；另有推文提出「一億」讀音易與「疑義」混淆是實用理由，並非單純抄襲中國腔"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "特別+形容詞（特別好／特別厲害）",
+    "tw": ["很／非常／超／好"],
+    "cats": ["grammar"],
+    "gens": ["句構級程度副詞語意磨損（semantic bleaching）"],
+    "evidence": ["https://www.pttweb.cc/bbs/Gossiping/M.1688424778.A.79E"],
+    "heat": [
+      "PTT問卦串 M.1688424778 正反意見接近對半，屬於中度爭議、尚未形成社群共識"
+    ],
+    "controversy": [
+      "高度爭議——反方舉證台語與豬哥亮歌廳秀早有「特別」用法，非新輸入，「從小用到大用幾十年了」；正方則指出台灣原本用法保留「與眾不同、比較的意涵」，中國用法已直接跟「非常」畫上等號，本質是語意窄化／等同化而非單純詞彙移植"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "有沒有一種可能（開場委婉全面否定句式）",
+    "tw": ["無公認對應（傳統多直接說重點，或用「會不會是」開頭）"],
+    "cats": ["grammar"],
+    "gens": ["2020s中國網路「廢話文學」句式"],
+    "evidence": [
+      "百度百科 https://baike.baidu.com/item/有没有一种可能/64971859 （摘要：「該詞彙屬於'廢話文學'型幽默梗...網友將其作為委婉否定工具」）; 知乎 https://www.zhihu.com/question/620133300 （摘要：「該表達代表禮貌性全面否定...消解針鋒相對的語氣」）; 萌娘百科 https://mzh.moegirl.tw/有沒有一種可能 （摘要：「運用類似'我有個朋友'的話術策略進行委婉表達」）"
+    ],
+    "heat": [
+      "百度百科獨立詞條＋知乎熱門問題（「這七個字似乎最近很流行。為什麼？」）顯示中國端熱度高；台灣端多見於PTT/Dcard「支語清單」列舉，未見獨立討論串"
+    ],
+    "controversy": [
+      "同形短語「有沒有一種可能」恰好也是台灣歌手蔡芷妍歌曲標題，與中國網路迷因用法非同源，查證時須區分「舊有台灣語句」與「新輸入迷因語用功能」；作為委婉全面否定、消解針鋒相對語氣的語用策略，普遍認為源自中國網路（類似「我有個朋友」話術）"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "我給你買／給我買（雙賓語詞序）",
+    "tw": ["我買給你／買給我"],
+    "cats": ["grammar"],
+    "gens": [
+      "語法結構級——非新興網路詞，是漢語方言雙及物結構南北差異在當代兩岸的顯化"
+    ],
+    "evidence": [
+      "張敏(2011) https://hmzm.people.ust.hk/papers/Zhang.Min.2011.Revisiting%20the%20alignment%20typology%20of%20ditransitive%20constructions.pdf ; HiNative https://tw.hinative.com/questions/17957103 （條目存在但WebFetch回傳403未能逐字驗證回答內容）"
+    ],
+    "heat": [
+      "非社群熱議型證據，屬學術文獻層級；HiNative上有三筆台灣使用者主動提問語序差異（questions/17957103、21959224、25029260），顯示語感困惑持續存在"
+    ],
+    "controversy": [
+      "高度學術複雜，且方向可能與社群直覺相反——張敏（2011）《漢語方言雙及物結構南北差異的成因》（中國語言學集刊4.2:87-270）指出：閩語（含台灣、福建沿海、粵東潮汕）雙賓語序其實跟北方話同型，都是「雙賓A式」（V+間接賓語+直接賓語，如「給我一本書」），並非多數南方方言慣用的「雙賓B式」（V+直接賓語+給+間接賓語，如「送本書給他」）。這代表台灣網友直覺認定「給我買」這種語序是中國輸入，方向可能恰恰相反——它可能是閩南語底層固有結構。社群真正感知到的「支語感」更可能來自另一組差異：中國口語偏好「S+給+間接賓語+V+直接賓語」（給放在動詞前當受益格標記，如「我給你買咖啡」），台灣則偏好「V+直接賓語+給+間接賓語」的介賓補語式（「我買咖啡給你」），而非雙賓結構本身"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "X不了一點（吃不了一點／受不了一點，倒裝全面否定句式）",
+    "tw": ["無公認對應（傳統用「超級／爆」+形容詞，或「真的沒辦法」）"],
+    "cats": ["grammar"],
+    "gens": ["2022年起"],
+    "evidence": [
+      "騰訊新聞「語海觀潮」專欄 https://news.qq.com/rain/a/20241115A04CA400"
+    ],
+    "heat": [
+      "中國端知乎／豆瓣／抖音／NGA論壇同時出現大量「這是哪裡的梗」提問，走紅程度高；台灣端尚未見獨立討論串"
+    ],
+    "controversy": [
+      "來源明確可溯——中國官方語言觀察專欄「語海觀潮」（騰訊新聞）明確溯源為2022年遊戲《鵝鴨殺》梗「你好不了一點」，屬可溯源的中國網路新造句構，非兩岸通用舊詞。文章指出此句式突破傳統「一點」與「×不了」搭配規則（傳統僅限「主語+動詞+賓語」或「話題+主語+動詞」句式），新用法讓名詞、擬聲詞都能進入「×不了」槽位，詞類限制被打破——是本次調查中證據最紮實、語言學分析最完整的句構案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "問就是＋X（反問即答模板）",
+    "tw": ["無公認對應"],
+    "cats": ["grammar"],
+    "gens": ["2020s中國網路"],
+    "evidence": [
+      "（搜尋列表定位，未能逐字驗證原文）https://twqiang.com/zhs/news/202506181440464b122c"
+    ],
+    "heat": ["未能取得具體熱度數據"],
+    "controversy": [
+      "證據力較弱——僅由搜尋引擎列表定位到專文（twqiang.com標題：「問就是」如何變成年輕人的終極護身符？），該頁WebFetch回傳403無法逐字引用驗證內容，暫列為待查證候選，不宜視為已確認案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "主打一個＋X（語意焦點模板，如「主打一個從容」）",
+    "tw": ["無公認對應"],
+    "cats": ["grammar"],
+    "gens": ["2023年中國網路熱詞"],
+    "evidence": ["https://www.pttweb.cc/bbs/Gossiping/M.1730476659.A.1CC"],
+    "heat": ["單一PTT討論串內被提及，非獨立熱議話題"],
+    "controversy": [
+      "證據僅來自PTT推文列表中被網友列舉為「還挺好用的支語」候選之一，未查得專門溯源文章，暫列低信度"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "來都來了（勸說句式，「既然來都來了…」）",
+    "tw": ["無公認對應（台灣本有類似「都來了」但未句式化為固定開頭）"],
+    "cats": ["grammar"],
+    "gens": ["中國網路勸服慣用語"],
+    "evidence": ["https://www.ptt.best/bbs/Gossiping/M.1752625305.A.7CA.html"],
+    "heat": ["同一PTT討論串內被推文#31、#37點名"],
+    "controversy": [
+      "是否為純粹中國輸入存在爭議，此類「勸服慣用語」跨海峽本就可能各自平行發展，非典型可溯源案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "但凡（文言連接詞「但凡…就…」口語化）",
+    "tw": ["只要／凡是"],
+    "cats": ["grammar"],
+    "gens": ["文言詞彙在中國網路口語再度活躍"],
+    "evidence": ["https://www.ptt.best/bbs/Gossiping/M.1752625305.A.7CA.html"],
+    "heat": ["同一PTT討論串內被點名，未見獨立討論"],
+    "controversy": [
+      "推文原文即質疑「但凡應該是很基本的詞彙，只是台灣很少人用」——是否算「支語」在原始討論中就沒有共識，性質上更接近文言詞彙復興而非純網路新造"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "踩一捧一／又當又立（複合評價句式）",
+    "tw": [
+      "無公認對應（踩一捧一）／「又要當好人又要立牌坊」較口語化直翻（又當又立）"
+    ],
+    "cats": ["grammar"],
+    "gens": ["中國網路批評慣用語"],
+    "evidence": ["https://www.pttweb.cc/bbs/Gossiping/M.1730476659.A.1CC"],
+    "heat": ["同一PTT討論串內被列舉，未見獨立熱度數據"],
+    "controversy": [
+      "證據僅來自PTT推文列表摘要，未能取得原始逐字內容佐證來源與例句，信度中等偏低，「又當又立」本身可能是「又要當婊子又要立牌坊」的縮略，屬於既有俗語壓縮而非全新句構"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "縮句成語式句構（不明覺厲／然並卵／十動然拒／社會我X哥）",
+    "tw": ["無公認對應（此類「取字概括長句」造詞法本身台灣少見）"],
+    "cats": ["grammar"],
+    "gens": ["2013-2016中國網路流行語黃金期，現已明顯退燒"],
+    "evidence": [
+      "維基百科「中國大陸網路用語列表」https://zh.wikipedia.org/zh-tw/中国大陆网络用语列表 （逐字：「不明覺厲」＝「雖然不明白是什麼，但是感覺好厲害啊」；「然並卵」＝「然而並沒有什麼卵用」；「十動然拒」＝「十分感動，然後拒絕了他」；「社會我X哥」為固定開頭套語）"
+    ],
+    "heat": [
+      "已進入維基百科系統性收錄，代表曾有高熱度但現屬歷史階段，非當前活躍滲透"
+    ],
+    "controversy": [
+      "時效性問題值得標註——這類句式屬於「網路老梗」，台灣年輕世代多認知為過時的中國網路文化史知識，而非現行滲透案例，建檔時應與2022年後仍活躍的句式（如X不了一點）做時間分層，避免混為一談"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "時不時（構式：時不時+VP）",
+    "tw": ["不時／偶爾"],
+    "cats": ["grammar"],
+    "gens": ["現代漢語既有疊詞構式，非確認新輸入"],
+    "evidence": ["https://www.ptt.best/bbs/Gossiping/M.1718201378.A.26C.html"],
+    "heat": ["僅個別PTT推文提及，未形成共識"],
+    "controversy": [
+      "重要負向案例——「時不時」是現代漢語標準疊詞構式，長期存在於兩岸書面語，PTT推文雖提及「不時→時不時」的用法轉變，但缺乏證據顯示這是晚近中國網路輸入而非既有漢語共通構式，很可能是社群誤判案例，不建議列入正式支語詞條，僅作為「支語警察誤判模式」的示例保留"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "「給我＋VP」祈使句加強式（如「你給我等著」）",
+    "tw": ["查證未完成，無法確認獨立於中國用法的台灣對應"],
+    "cats": ["grammar"],
+    "gens": ["查證未完成"],
+    "evidence": [
+      "（查證未成功，403無法讀取）https://tw.hinative.com/questions/21959224"
+    ],
+    "heat": ["無法取得具體熱度數據"],
+    "controversy": [
+      "查證薄弱——多次搜尋未找到直接可溯源的社群討論串或語言學分析佐證其為「新輸入」而非兩岸共通的既有祈使句結構；HiNative上雖有台灣使用者提問「給我買」相關語序問題，但頁面WebFetch回傳403無法驗證內容，本詞條應視為低信度候選，暫緩收錄"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "第一時間",
+    "tw": ["立刻／馬上／當下（台灣其實也常用「第一時間」一詞）"],
+    "cats": ["grammar"],
+    "gens": ["查證未成功"],
+    "evidence": [
+      "查證未成功，僅定位到條目 https://ja.hinative.com/questions/22513588 （內容403無法讀取）"
+    ],
+    "heat": ["無法取得具體熱度數據"],
+    "controversy": [
+      "查無實據的重要負向發現——本次以多引擎（DuckDuckGo／Yahoo／Bing）反覆查詢，均未能找到「第一時間」被明確判定為中國輸入語法／句式的社群討論串或語言學分析來源；日文HiNative上雖有相關提問但WebFetch回傳403無法驗證內容。「第一時間」在台灣媒體與日常語言已通用多年，本次研究認為現有證據不足以支持將其列為本切面的支語句構案例，建議對坊間流傳支語清單中的此詞保持存疑，暫不收錄為正式詞條"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "腦殘",
+    "tw": ["無單一公認對應（近似：白痴／秀逗／頭殼壞去〔閩南語借詞〕）"],
+    "cats": ["slang"],
+    "gens": ["起源時間點高度存疑，約2000年代中期兩岸網路同時期各自出現"],
+    "evidence": [
+      "百度知道「『脑残』一词的出处是哪里？」（李時珍本草綱目說法，存疑）；360百科「脑残」詞條；搜狐新聞2008/11/5〈火星文現身學生日記〉（稱火星文起源台灣，又名腦殘體）"
+    ],
+    "heat": ["百度知道有問答形式討論其「出處」，但答案版本不一致，可信度低"],
+    "controversy": [
+      "起源說法分歧且部分明顯不可靠：(1) 百度知道有網友聲稱典出李時珍《本草綱目》「故腦殘者無藥醫也」，此說法未見任何可靠古籍版本佐證，高度疑似網路以訛傳訛的偽典故，應標記為存疑，不可採信為事實；(2) 360百科定義其為漢語新詞，泛指邏輯混亂、不合情理的思維方式；(3) 2008年搜狐報導稱台灣「火星文」書寫風格又被稱為「腦殘體」，顯示台灣青少年在同一時期（約2005-2008年BBS/無名小站文化）已自行發展出「腦殘」相關的貶義次文化用法，並非單純由中國大陸單向輸入台灣。此詞是本切面中「起源本身即為誤判高風險區」的代表案例——兩岸网路論壇幾乎同時期各自流行類似貶義用法，難以判定何者為源頭。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "小賣部",
+    "tw": ["福利社／合作社／販賣部"],
+    "cats": ["daily"],
+    "gens": ["港式校園/機構用語，長年存在"],
+    "evidence": ["https://zh.wikipedia.org/zh-tw/支語"],
+    "heat": ["維基百科「支語」條目列為誤判案例"],
+    "controversy": [
+      "港式用語（指校園或機構內附設的小商店），遭台灣網民誤指為中國大陸用語。維基百科條目特別提及此案例延伸出「出版授權問題」：台灣支語警察曾攻擊正式授權的港澳版書籍中所使用的香港用語，顯示誤判已從網路口語延伸至出版品審查層次（此延伸事件本次搜尋未能取得更詳細的具體新聞來源，僅見於維基條目摘要，標記為待進一步查證）。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "士多啤梨／提子",
+    "tw": ["草莓／葡萄"],
+    "cats": ["food"],
+    "gens": ["粵語音譯詞（士多啤梨=strawberry音譯），長年存在"],
+    "evidence": ["https://zh.wikipedia.org/zh-tw/支語"],
+    "heat": ["維基百科「支語」條目列為誤判案例"],
+    "controversy": [
+      "「士多啤梨」是粵語對strawberry的音譯，「提子」是粵語對葡萄（尤指無籽品種）的稱呼，中國大陸兩者皆非主流稱法（大陸慣稱草莓、葡萄）。這兩詞被列入台灣支語警察誤判案例，凸顯「凡是非台灣慣用詞彙即判定為支語」的邏輯謬誤，忽略了粵語文化圈的獨立性。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "躺平／內卷／破防",
+    "tw": [
+      "無公認統一對應（躺平≈耍廢/擺爛；內卷≈過度競爭/惡性競爭；破防≈崩潰/防線被攻破）"
+    ],
+    "cats": ["slang"],
+    "gens": ["2020-2021年中國大陸網路流行語，經媒體評論擴散至台灣話語圈"],
+    "evidence": [
+      "鳳凰網（島內40%年輕人選擇當「躺平族」，國台辦回應）；台海網（台灣年輕人想躺平，41%台灣年輕人選擇躺平）；huanqiu.com（列內卷、破防為滲透詞清單成員）"
+    ],
+    "heat": [
+      "鳳凰網、台海網等中國涉台官媒多篇報導台灣「40%年輕人躺平」，國台辦亦曾公開回應"
+    ],
+    "controversy": [
+      "證據顯示這組詞主要透過「中國涉台官媒評論台灣青年現象」的路徑進入台灣公共話語（如國台辦、鳳凰網、台海網報導「台灣年輕人躺平」），而非確認為台灣年輕世代普遍自稱的日常口語借詞。本次搜尋未能找到充分證據證明台灣年輕人在同儕私下對話中大量自發使用「躺平」「內卷」指稱自己，需要進一步查證 Dcard/PTT/Threads 等台灣本地社群的第一手使用頻率，不宜僅憑官媒報導斷定滲透程度。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "硬核",
+    "tw": [
+      "台灣ACG圈早期另有音譯「哈扣」，或獨立翻譯自英文的「硬核遊戲」（非中國詞彙的直接挪用）"
+    ],
+    "cats": ["gaming/subculture"],
+    "gens": [
+      "英文hardcore的中文化，中國網路約2015年後流行；台灣電玩圈另有更早接觸史"
+    ],
+    "evidence": [
+      "https://www.pttweb.cc/bbs/C_Chat/M.1761327458.A.F95 ; https://www.ptt.best/bbs/C_Chat/M.1761316604.A.913.html ; https://www.pttweb.cc/bbs/C_Chat/M.1761369755.A.3C2 ; https://pttweb.tw/C_Chat/M.1761369056.A.E2F"
+    ],
+    "heat": [
+      "PTT C_Chat板2025年10月「硬核是支語嗎？？？」系列文引發長串筆戰（多篇Re文）"
+    ],
+    "controversy": [
+      "高度爭議——雙方都主張詞源是英文hardcore各自翻譯而來，並非一方抄襲一方，只是流行時間點與翻譯路徑不同"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "同桌",
+    "tw": [
+      "無公認對應，只能用描述性片語「坐我隔壁的同學」表達，無單一詞彙可替代"
+    ],
+    "cats": ["school/daily"],
+    "gens": ["中國校園座位制度產物，隨小紅書/抖音校園內容傳入台灣"],
+    "evidence": ["https://www.threads.com/@hhui___lling/post/C55CKeCyaf4"],
+    "heat": [
+      "Threads網友明確提問「同桌是不是支語啊 那在台灣要怎麼表達」，坦言「一瞬間根本想不到」"
+    ],
+    "controversy": [
+      "低爭議，多數同意這反映兩岸班級座位安排文化的實質差異——台灣並無固定「同桌」制度，所以本來就沒有對應詞，非語言競爭而是概念空缺"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "我破防了（破防）",
+    "tw": [
+      "「破防」本身是台灣ACG圈早有遊戲術語（突破防禦）；但「我破防了」（形容自己情緒潰堤）這個引申自指用法無公認台灣對應"
+    ],
+    "cats": ["gaming/emotion"],
+    "gens": [
+      "遊戲術語原生於台灣ACG圈，2021-2022年被中國網路引申為情緒詞後回流台灣"
+    ],
+    "evidence": [
+      "https://www.pttweb.cc/bbs/C_Chat/M.1662301995.A.0B0 ; https://www.ptt.cc/man/C_Chat/DE98/DFF5/D3EB/D466/M.1712403583.A.E69.html ; https://pttweb.tw/Gossiping/M.1756795418.A.81F"
+    ],
+    "heat": ["PTT C_Chat「我破防了是支語嗎」系列文（2022-2025持續有新文）"],
+    "controversy": [
+      "需拆解義項——「破防」（被擊破防禦）是台灣早有遊戲用語非支語；但「我破防了」情緒化自指用法才是近年從中國網路引進的支語，兩者常被混淆爭論"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "沙雕",
+    "tw": ["無公認對應，PTT討論未能得出結論"],
+    "cats": ["internet slang"],
+    "gens": [
+      "中國網路約2018年後流行（諧音「傻屌」的委婉替代字），形容荒誕搞笑"
+    ],
+    "evidence": ["https://pttweb.tw/Gossiping/M.1643935525.A.638"],
+    "heat": ["PTT問卦「沙雕不用支語要怎麼講？」"],
+    "controversy": [
+      "低爭議判定為支語（多數同意是中國網路造詞），但替代詞難產——原文「到底要怎麼講沙雕才不會被支語警察抓」道出困境"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "意難平",
+    "tw": ["無公認對應，Threads網友明確表示「目前找不到台灣文法可替代」"],
+    "cats": ["internet slang/emotion"],
+    "gens": [
+      "網路流行語約2020年代前期因中國古裝劇/耽美劇文化興起而流行，被賦予「意猶未盡的遺憾感」新義"
+    ],
+    "evidence": [
+      "https://www.threads.com/@mskai.oo/post/C6tqJ9tyGiI ; https://hinative.com/questions/17170197 ; https://baike.baidu.com/item/意难平/22950472 ; https://today.line.me/tw/v2/article/vXZWmQ3"
+    ],
+    "heat": [
+      "Threads貼文標題直接稱「目前找不到台灣文法可替代的支語是意難平」；LINE Today報導25歲以下世代熱議"
+    ],
+    "controversy": [
+      "高度爭議——原句出自宋代孫應時《阻風泊歸舟遊淨眾寺》「愁邊動寒角，夜久意難平」，也見於《紅樓夢》薛寶釵判詞「縱然是齊眉舉案，到底意難平」，是貨真價實的古典詩詞用語，被中國網路文化重新賦予流行語義後才被部分台灣人誤判為純支語"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "淡人／濃人",
+    "tw": ["無公認對應，台灣媒體目前多直接沿用原詞"],
+    "cats": ["personality/internet slang"],
+    "gens": [
+      "2024年前後接續「i人e人」（MBTI相關）在中國網路流行的新造性格分類詞"
+    ],
+    "evidence": [
+      "https://www.popdaily.com.tw/constellation/1514770 ; https://tw.news.yahoo.com/濃人vs淡人超有感-聊天戀愛大不同-這些特徵-秒分辨-022400432.html"
+    ],
+    "heat": ["PopDaily、Yahoo新聞、SETN等台灣媒體均有專文介紹"],
+    "controversy": [
+      "低度——目前多視為單純流行語引進報導，尚未在台灣網路社群被大量貼上「支語」標籤討論"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "移動電源／充電寶",
+    "tw": ["行動電源"],
+    "cats": ["tech"],
+    "gens": ["2010s智慧型手機普及後新詞"],
+    "evidence": [
+      "data/terminology/行動電源.yaml；data/terminology/充電寶.yaml（來源：ThunderKO C2T／《大陸用語檢索手冊》1997、google-sheets-crowdsource）"
+    ],
+    "heat": [
+      "taiwan.md收錄兩則獨立條目（行動電源.yaml fork_type B、充電寶.yaml fork_type semantic）"
+    ],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "網絡／互聯網",
+    "tw": ["網路"],
+    "cats": ["tech"],
+    "gens": ["網際網路名詞分流"],
+    "evidence": [
+      "data/terminology/.china-terms.detection.tsv；data/terminology/.china-terms.false-positives.tsv"
+    ],
+    "heat": [
+      "detection.tsv「網絡」列severity B（黃燈，提示但不計分）；false_positives列「網絡層」OSI術語、「類神經網絡」等專業詞需排除"
+    ],
+    "controversy": [
+      "severity僅B級，代表此詞爭議性/確定性低於「視頻」「質量」等A級詞，OSI七層模型「網路層」在兩岸電腦科學教材中都稱「網絡層」為標準譯名，需個案判斷"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "打工人",
+    "tw": ["上班族／勞工（無同等黑色幽默語感的對應詞）"],
+    "cats": ["slang"],
+    "gens": [
+      "2005年首見於百度貼吧，2020-09-22經網紅「抽象帶籃子」影片帶動爆紅，獲《咬文嚼字》2020年度中國十大網路流行語"
+    ],
+    "evidence": [
+      "https://zh.wikipedia.org/zh-tw/打工人 ；https://www.storm.mg/lifestyle/11075424"
+    ],
+    "heat": [
+      "維基百科詳細詞源紀錄；知乎多篇萬人瀏覽討論；風傳媒10大流行語榜單收錄"
+    ],
+    "controversy": [
+      "與日語「社畜」語感高度重疊但情緒基調不同（打工人偏勵志黑色幽默，社畜偏純粹自嘲厭世），常被混用討論"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "社畜",
+    "tw": ["上班族／勞工（無同等自嘲語感對應詞）"],
+    "cats": ["slang"],
+    "gens": [
+      "1990年代日本泡沫經濟後生詞，2020年代經中國網路二次傳播進入台灣視野"
+    ],
+    "evidence": [
+      "https://zh.wikipedia.org/zh-tw/社畜 ；https://twqiang.com/zht/news/2025012612111800c696"
+    ],
+    "heat": ["維基百科（繁中/簡中/粵語三版本）、百度百科、多篇職場文章"],
+    "controversy": [
+      "重大誤判風險：常被歸類為「中國流行語」，但實為1990年代日本原生詞（會社+家畜），中國只是二次傳播的中介站，非原創地"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "寄艙／電單車／士多啤梨",
+    "tw": ["（無需替換，港澳粵語日常詞，非中國大陸用語）"],
+    "cats": ["daily"],
+    "gens": ["香港粵語傳統用詞，2026-07-28遭台灣媒體誤標"],
+    "evidence": [
+      "https://pulsehknews.com/20260729chinawords/ ；https://points-media.com/最新/【馮睎乾十三維度】「支語」之辯/ ；https://forum.hkgolden.com/thread/8072735/page/1 ；https://lihkg.com/thread/4137921/page/6"
+    ],
+    "heat": [
+      "引發港台網路論戰：LIHKG、高登討論區、大紀元香港版、棱角媒體（馮睎乾十三維度）、追光者Pulse HK News等多篇港媒報導與大量港人留言"
+    ],
+    "controversy": [
+      "重大爭議案例：2026-07-28東森新聞發布「防範支語」圖卡，把12個例子中多數（含寄艙、電單車、士多啤梨等）標為支語，實為香港本地日常用語，引爆港人強烈反彈，是「支語警察」誤判港澳詞彙最具代表性的近期事件"
+    ],
+    "slice_count": 1,
+    "low_evidence": true
+  },
+  {
+    "cn": "吐槽",
+    "tw": ["（台灣自己就是此譯詞的發源地，非外來）"],
+    "cats": ["slang"],
+    "gens": ["台灣ACG圈2000年代起使用，後兩岸皆通用，世代差異不明顯"],
+    "evidence": ["https://zh.wikipedia.org/zh-tw/吐槽"],
+    "heat": ["維基百科條目專門追溯詞源，屬於常被誤判為支語的高知名度案例"],
+    "controversy": [
+      "重大且方向相反的爭議：維基百科明確記載「吐槽」源自台語「黜臭」(thuh-tshàu，意為揭人短處)，且台灣是最早用「吐槽」翻譯日語漫才用語「突っ込み」的發源地；中國大陸用法反而是後續衍伸（多了「發牢騷」之意）。此詞常被支語警察誤判為中國用語，實為台灣輸出、中國大陸再擴充語意後回流的案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "牛油果",
+    "tw": ["酪梨"],
+    "cats": ["food"],
+    "gens": ["全世代"],
+    "evidence": ["https://neww.tw/china-language/"],
+    "heat": ["同上"],
+    "controversy": ["無"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "凡爾賽文學／凡爾賽",
+    "tw": ["無公認單一對應（近似「炫耀性自貶」但無成詞）"],
+    "cats": ["slang"],
+    "gens": ["2020年中國大陸網路流行語，隨後傳入台灣社群"],
+    "evidence": ["https://zh.wikipedia.org/zh-tw/凡尔赛文学"],
+    "heat": ["維基百科記載被中國《咬文嚼字》選為2020年度十大流行詞"],
+    "controversy": [
+      "詞源交錯：由中國微博/豆瓣用戶「小奶球」2020年創詞，但詞語命名本身借自日本漫畫《凡爾賽玫瑰》（講述18世紀法國貴族生活），屬日本文化元素被中國網路挪用再輸出的案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "收到",
+    "tw": [
+      "好的，沒問題！／收到，謝謝您！（詞彙本身中性，僅特定職場語境被標記）"
+    ],
+    "cats": ["business"],
+    "gens": ["跨世代皆用，僅在「中國職場文化」語境下被特別標記"],
+    "evidence": ["https://art.ltn.com.tw/article/breakingnews/5509325"],
+    "heat": ["自由藝文網「親，在嗎」職場用語對照文章專門討論"],
+    "controversy": [
+      "重大爭議：「收到」本身是中文既有中性詞，並非新創支語詞彙，真正被辨識的是「已讀後簡短回覆」的中國職場溝通風格整組輸入，而非單詞本身"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "妥了",
+    "tw": ["好的，沒問題"],
+    "cats": ["business"],
+    "gens": ["中國職場流行用語，台灣年輕上班族圈偶見"],
+    "evidence": ["https://art.ltn.com.tw/article/breakingnews/5509325"],
+    "heat": ["自由藝文網文章列為代表詞"],
+    "controversy": ["無"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "親，在嗎？",
+    "tw": ["不好意思打擾了，請問現在方便嗎？"],
+    "cats": ["appellation"],
+    "gens": ["中國電商客服用語，台灣網友視為明顯標記詞"],
+    "evidence": ["https://art.ltn.com.tw/article/breakingnews/5509325"],
+    "heat": [
+      "自由藝文網以此詞為文章標題「『親，在嗎』超討厭！」，顯示台灣網友反感程度高"
+    ],
+    "controversy": ["無，多數受訪者明確反感此用法"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "貓膩／有貓膩",
+    "tw": ["有鬼／不對勁／端倪"],
+    "cats": ["slang"],
+    "gens": ["跨世代"],
+    "evidence": [
+      "https://art.ltn.com.tw/article/breakingnews/5509325 ; https://talk.ltn.com.tw/article/breakingnews/4779582"
+    ],
+    "heat": ["自由藝文網、自由評論網投書均列為代表詞"],
+    "controversy": ["無"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "士多啤梨／電單車",
+    "tw": ["草莓／機車"],
+    "cats": ["food"],
+    "gens": ["香港粵語詞，非中國大陸普通話用語"],
+    "evidence": ["https://zh.wikipedia.org/zh-tw/支語"],
+    "heat": ["維基百科「支語」條目專門舉此為誤判案例"],
+    "controversy": [
+      "重大爭議：這兩個詞源自香港粵語音譯（士多啤梨=strawberry）及粵語慣用詞（電單車），常被支語警察誤判為中國大陸用語，實為港式中文用詞"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "硬道理",
+    "tw": ["無日常對應（中國官方公文用語，台灣罕用）"],
+    "cats": ["business"],
+    "gens": ["中國大陸官方/政治語域，非短影音世代傳播新詞"],
+    "evidence": ["https://zh.wikipedia.org/zh-tw/支語"],
+    "heat": ["維基百科「支語」條目列出"],
+    "controversy": [
+      "是否算「日常滲透」有爭議，較像被列表湊數的政治語彙而非社群自然傳播詞"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "加大力度",
+    "tw": ["無日常對應（中國官方公文用語）"],
+    "cats": ["business"],
+    "gens": ["中國大陸官方語域"],
+    "evidence": ["https://zh.wikipedia.org/zh-tw/支語"],
+    "heat": ["維基百科「支語」條目列出"],
+    "controversy": ["同上，官方語域詞被列入日常支語清單的適當性存疑"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "打造",
+    "tw": ["無公認單一對應（台灣媒體亦已慣用）"],
+    "cats": ["business"],
+    "gens": ["2000s後已高度台灣化"],
+    "evidence": ["https://zh.wikipedia.org/zh-tw/支語"],
+    "heat": ["維基百科「支語」條目列為過度獵巫案例"],
+    "controversy": ["台灣媒體與官方文宣長期慣用，是否仍算支語爭議很大"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "U1S1（有一說一）",
+    "tw": ["無公認單一對應（近義：講白的、老實說）"],
+    "cats": ["slang"],
+    "gens": ["2020-2021年中國大陸拼音縮寫流行語"],
+    "evidence": ["https://ivonblog.com/posts/the-problem-of-china-slang/"],
+    "heat": ["Ivon部落格專文舉例討論"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "老登",
+    "tw": ["無公認單一對應（近義：機掰老人／爹味長輩，但非完全對應）"],
+    "cats": ["slang"],
+    "gens": ["2024-2026年疑似源自小紅書/抖音「爹味」相關討論串的新興流行語"],
+    "evidence": [
+      "https://uptogo.com.tw （403，僅有 Bing 摘要片段可佐證，建議之後直接以瀏覽器或其他管道核實全文與中國起源）"
+    ],
+    "heat": [
+      "uptogo.com.tw 有專文解析「老登是什麼意思」（原文伺服器回傳403無法完整讀取，僅取得 Bing 搜尋摘要片段：例如在公車上強迫年輕人讓座、公園開大音響跳廣場舞擾民、過年瘋狂催婚干涉私生活的長輩）"
+    ],
+    "controversy": [
+      "是否源自中國網路討論、抑或台灣獨立衍生的世代對立用語，證據尚不足以下定論"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "手提包",
+    "tw": ["手提包（台灣教育部辭典亦收錄「手袋」）"],
+    "cats": ["daily"],
+    "gens": ["據維基百科支語警察條目引述"],
+    "evidence": [
+      "https://zh-yue.wikipedia.org/wiki/支語警察; 端傳媒 https://theinitium.com/20240525-opinion-sinophone-language-debate/"
+    ],
+    "heat": ["多篇文章引用作為「二分過於狹隘」代表例"],
+    "controversy": [
+      "高度爭議：據維基百科條目，「手提包」與「手袋」兩詞皆收錄於台灣教育部相關辭典，顯示簡單二分「支語vs台灣用語」對此詞不成立"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "冰激淋",
+    "tw": ["冰淇淋"],
+    "cats": ["food"],
+    "gens": ["抖音/補教觀察詞"],
+    "evidence": [
+      "https://udn.com/news/story/6898/9131817 ; https://enews.tw/Article/1229416"
+    ],
+    "heat": ["補教老師公開發文列舉、教養專家「中國用語大會考」教材收錄"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "拉基桶",
+    "tw": ["垃圾桶"],
+    "cats": ["daily"],
+    "gens": ["抖音口音觀察詞"],
+    "evidence": ["https://udn.com/news/story/6898/9131817"],
+    "heat": ["僅見單一補教老師轉述，未見其他來源覆核"],
+    "controversy": [
+      "可能為兒童發音/口音之訛，非正式支語清單常見詞條，證據薄弱僅單一來源"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "小哥",
+    "tw": ["未有公論（一派稱台灣原有此用法；一派稱是中國「小哥哥」衍生詞）"],
+    "cats": ["appellation"],
+    "gens": ["2025漫畫翻譯事件"],
+    "evidence": ["https://www.ftnn.com.tw/news/477184"],
+    "heat": [
+      "高雄日閱書局公開發文引發正反論戰，多家媒體（風傳媒/MSN/FTNN）轉載"
+    ],
+    "controversy": [
+      "正反意見未有共識：反對「支語」判定者認為台灣本就有「小哥」用法，與中國「小哥哥」不同，是支語警察誤判的爭議案例之一"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "西蘭花",
+    "tw": ["花椰菜、青花菜"],
+    "cats": ["food"],
+    "gens": ["2025中國用語大會考"],
+    "evidence": ["https://enews.tw/Article/1229416"],
+    "heat": ["同上學習單例句"],
+    "controversy": [],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "街坊四鄰",
+    "tw": ["鄰居"],
+    "cats": ["daily"],
+    "gens": ["2024台中繪本事件"],
+    "evidence": ["https://news.ltn.com.tw/news/Taichung/breakingnews/4849219"],
+    "heat": ["台中市議員質詢逐字點名為爭議繪本翻譯用詞"],
+    "controversy": [
+      "傳統中文詞彙，台灣人聽得懂但書面/口語已少用，被點名主因是繪本整體翻譯風格偏中國腔而非此詞本身獨特"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "你猜怎麼著",
+    "tw": ["無公認對應（近似：你知道嗎、你猜）"],
+    "cats": ["grammar"],
+    "gens": ["2024台中繪本事件"],
+    "evidence": ["https://www.cna.com.tw/news/aloc/202411010196.aspx"],
+    "heat": ["議員質詢逐字引用、被批「假授業真統戰」"],
+    "controversy": [
+      "這其實是翻譯腔（英文書籍中譯的直譯句構），而非單一詞彙替代問題，爭議焦點在於議員是否把正常翻譯風格差異過度政治化為「統戰」證據"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "已購買，小孩愛吃",
+    "tw": ["無公認對應（純屬中國淘寶評論梗直接移植，無替代詞）"],
+    "cats": ["slang"],
+    "gens": ["2024淘寶迷因→2024年底台灣Threads爆紅"],
+    "evidence": [
+      "https://dailyview.tw/popular/detail/27161 ; https://wattbrother.com/360040"
+    ],
+    "heat": [
+      "udn科技玩家報導稱該話題吸引24萬人次瀏覽；藝人陶晶瑩公開發文詢問引發熱議；入選網路溫度計2024十大流行語"
+    ],
+    "controversy": [
+      "起源自2021年淘寶敷衍好評「東西收到了，孩子很喜歡吃」，經抖音直播留言擴散後於2024年底移植進台灣社群，非兒少自身用語，而是「小孩」字樣被借用為迷因素材，屬本切面的邊緣但具代表性案例（顯示中國用語滲透管道不限於兒少直接使用）"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "軟件／內存／服務器／介面",
+    "tw": ["軟體／記憶體／伺服器／介面"],
+    "cats": ["tech"],
+    "gens": ["科技類-長期對照（基礎詞庫）"],
+    "evidence": ["https://zhipd.zeabur.app"],
+    "heat": [
+      "zhipd「支語警察寶典」資料庫收錄，該站標示還有413筆未展開的完整詞庫"
+    ],
+    "controversy": [
+      "未逐一查證每個詞條個別出處，為聚合型辭典站資料，可信度中等（需與其他源頭交叉比對）"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "淡定",
+    "tw": ["冷靜/鎮定（但「淡定」本身已被台灣廣泛接受使用）"],
+    "cats": ["slang"],
+    "gens": ["2012年經PTT鄉民文化暴紅於台灣"],
+    "evidence": ["https://guavanthropology.tw/article/2990"],
+    "heat": ["每日頭條/UpToGo等多篇科普文章追溯詞源"],
+    "controversy": [
+      "有人考據「淡定」語出台灣小說家許地山，但芭樂人類學受訪學者指出「它不是台灣人習慣的字眼，實際上是中國人的用語」，2012年才透過PTT暴紅——溯源複雜，非純粹中國新詞也非純粹台灣詞"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "巴仙（percent）",
+    "tw": ["X%／台灣民間另有「趴」的說法（源自日語パーセント，非馬來語）"],
+    "cats": ["daily"],
+    "gens": ["馬來西亞/新加坡華語固有用法"],
+    "evidence": ["https://www.threads.com/@mys550sym055/post/DJetqzhy6mV/"],
+    "heat": [
+      "Threads貼文標題提及「馬來西亞人念『巴仙』，台灣老一輩念『爬sen』，跟上者不同發音」"
+    ],
+    "controversy": [
+      "巴仙源自英語percent經馬來語轉譯，台灣民間「趴」則源自日語パーセント，兩者非同源、發音路徑不同，容易被誤認為互相抄襲或誤判為支語"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "巴剎／巴殺",
+    "tw": ["傳統市場/菜市場"],
+    "cats": ["daily"],
+    "gens": ["新馬華語固有詞（源自波斯語經馬來語pasar）"],
+    "evidence": [
+      "https://www.languagecouncils.sg/mandarin/ch/learning-resources/singaporean-mandarin-database/terms/pasar-language"
+    ],
+    "heat": ["新加坡推廣華語理事會華語資料庫正式收錄詞條"],
+    "controversy": [
+      "純屬馬來語借詞，新馬華語通用超過百年，跟中國用語毫無淵源，若被當成支語是完全誤判"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "甘榜",
+    "tw": ["鄉村/村莊"],
+    "cats": ["daily"],
+    "gens": ["新馬華語固有詞（源自馬來語kampung）"],
+    "evidence": [
+      "https://www.taiwan-panorama.com/Articles/Details?Guid=db6575bf-7886-443f-b696-b02f5356ecb4"
+    ],
+    "heat": ["維基詞典及台灣光華雜誌專文收錄"],
+    "controversy": ["馬來語借詞，與支語無關，常因陌生被台灣人誤判"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "德士",
+    "tw": ["計程車"],
+    "cats": ["daily"],
+    "gens": ["新加坡華語固有詞，1920-30年代即出現"],
+    "evidence": [
+      "https://www.languagecouncils.sg/mandarin/en/learning-resources/singaporean-mandarin-database/terms/taxi"
+    ],
+    "heat": ["新加坡推廣華語理事會華語資料庫正式收錄詞條"],
+    "controversy": [
+      "英語taxi音譯詞，新加坡地方固有用法，非中國用語，常被不熟悉星馬華語生態者誤認"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "組屋",
+    "tw": ["國宅/社會住宅"],
+    "cats": ["daily"],
+    "gens": ["新加坡特有政策詞（HDB公共住宅制度）"],
+    "evidence": ["https://zh.wikipedia.org/zh-tw/組屋"],
+    "heat": ["維基百科獨立條目＋南洋理工大學學位論文專題"],
+    "controversy": [
+      "新加坡特有政策名詞，台灣讀者常因不熟悉星馬社會制度脈絡而誤判為陌生的中國詞"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "安心出行",
+    "tw": ["（無對應，台灣無同類政府接觸史App）"],
+    "cats": ["tech"],
+    "gens": ["2020年代香港防疫政策詞"],
+    "evidence": ["https://talk.ltn.com.tw/article/breakingnews/5521301"],
+    "heat": ["自由評論網馮睎乾專文列為第四類「made in HK的中國用語」"],
+    "controversy": [
+      "馮睎乾指出這類詞雖產自香港，卻帶有中國黨八股行文風格，與單純的港式方言詞不同類，容易被籠統混入支語或港式詞的爭論"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "On9／戇鳩",
+    "tw": ["無公認對應（近似「白癡」「智障」等粗俗用法）"],
+    "cats": ["slang"],
+    "gens": ["2000年代後香港高登論壇次文化"],
+    "evidence": ["https://zh-yue.wikipedia.org/wiki/On9"],
+    "heat": ["維基百科（粵語版、國語版）均有獨立條目「On9」「硬膠文化」"],
+    "controversy": [
+      "純粵語詈罵詞諧音寫法，與支語毫無關係，是港式論壇次文化用語，常令外地（含台灣）讀者困惑誤讀"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "MK／TST／CWB／TKO",
+    "tw": ["無對應（台灣沒有同類英文縮寫地名黑話文化）"],
+    "cats": ["appellation"],
+    "gens": ["香港網路次文化地名縮寫"],
+    "evidence": ["https://zh-yue.wikipedia.org/wiki/香港網絡用語列表"],
+    "heat": ["維基百科「香港網絡用語列表」條目收錄"],
+    "controversy": [
+      "純港式地名縮寫黑話（旺角/尖沙咀/銅鑼灣/將軍澳），非支語範疇，只是台灣人陌生"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "高達",
+    "tw": ["鋼彈"],
+    "cats": ["entertainment"],
+    "gens": ["1980年代香港譯名 vs 台灣「鋼彈」譯名，2020年代網路爭議重燃"],
+    "evidence": ["https://www.hk01.com/遊戲動漫/60314134/"],
+    "heat": ["hk01專文＋大量網友論戰留言"],
+    "controversy": [
+      "部分台灣網友稱「高達」是中國影響、垃圾翻譯；香港網友反駁香港40多年前就用「高達」，中國大陸官方譯名其實是「敢達」而非「高達」——是對港譯歷史的誤判，非真正的支語案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "閨密",
+    "tw": ["姊妹淘（世代認知分裂：有人認為姊妹淘才過時）"],
+    "cats": ["daily"],
+    "gens": ["世代分裂案例"],
+    "evidence": ["https://www.hk01.com/熱爆話題/1018579/"],
+    "heat": ["hk01討論串留言直接衝突"],
+    "controversy": [
+      "「閨密聽十幾年了，姊妹淘現在反而沒人用」vs「姊妹淘是45歲以上才用的」——同一組詞在不同世代台灣人眼中誰才是「本土說法」完全相反"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "巴打／絲打",
+    "tw": ["無公認對應（近似「版友」「鄉民」，但特指香港高登論壇稱呼）"],
+    "cats": ["appellation"],
+    "gens": ["香港高登討論區次文化（brother/sister音譯）"],
+    "evidence": ["https://evchk.fandom.com/zh/wiki/%E5%B7%B4%E6%89%93"],
+    "heat": ["香港網絡大典（evchk.fandom）獨立詞條"],
+    "controversy": [
+      "純香港討論區次文化黑話，音譯自英文brother/sister，與支語無關，台灣網友常誤以為是某種新造中國網路詞"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "快拍",
+    "tw": ["限動"],
+    "cats": ["tech"],
+    "gens": ["2026年初 Threads 現象"],
+    "evidence": ["https://www.4gtv.tv/article/2026042409000017"],
+    "heat": ["同上系列報導列舉詞彙"],
+    "controversy": ["同上"],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "母湯（同詞，中國網友透過YouTube/Twitch二創影片吸收後於百度貼吧發文詢問）",
+    "tw": [
+      "台語「毋通／毋湯」的火星文諧音，意思是「不要、不行」，因YouTuber／Twitch實況主「光頭哥哥」的搞笑影片於PTT、台灣社群爆紅"
+    ],
+    "cats": ["slang"],
+    "gens": ["2020年代台語迷因"],
+    "evidence": [
+      "https://tieba.baidu.com/p/7567073346（標題可見於搜尋摘要，原頁404無法直接讀取全文）; https://zh.wiktionary.org/wiki/母湯"
+    ],
+    "heat": [
+      "百度貼吧有專文標題為「'母湯'是什么梗？」討論；台灣文化部亦曾公布「母湯」正確台語寫法回應其熱度"
+    ],
+    "controversy": [
+      "百度貼吧上的討論證明的是「中國網友看到但需要被解釋」的曝光層次，尚未找到中國網友日常對話中主動使用「母湯」的具體實例，證據力屬中等偏弱"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "修但幾勒（同詞，百度貼吧稱為「网络新梗」）",
+    "tw": [
+      "台語「小等一下」因連音變調聽起來像「修但幾勒」，與「母湯」同屬台語轉寫火星文迷因家族"
+    ],
+    "cats": ["slang"],
+    "gens": ["台語迷因（近年因Podcast/YouTube二創再度翻紅）"],
+    "evidence": ["https://tieba.baidu.com/p/7567073346"],
+    "heat": ["百度貼吧專文「'修但几勒'是什么梗？」"],
+    "controversy": [
+      "與母湯情況相同：曝光度證據強（有專文解釋），但主動使用的證據薄弱"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "是在哈囉（台灣原生詞，未見具體中國採用實例，列為台灣造詞活力代表）",
+    "tw": [
+      "源自2018-2019年間8+9妹的IG限時動態，字面無法直譯，表達「你到底在幹嘛／狀況外」的疑惑感，2019年中時Campus報導稱其為當年網路票選第一名流行語"
+    ],
+    "cats": ["slang"],
+    "gens": ["2019年度代表詞"],
+    "evidence": ["https://www.chinatimes.com/campus/20191219002771-262301"],
+    "heat": ["2019年中國時報Campus版報導稱為「網路票選第一名」"],
+    "controversy": [
+      "本詞屬台灣原創且高辨識度的迷因句型，但本次搜尋沒有找到中國網友使用或討論此詞的直接證據，收錄僅作為台灣本土造詞活力的代表案例，「中國採用」欄暫寫「無公認對應／查無證據」"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "靠北（同詞，百度文庫至少兩篇專文解析「靠北是什麼意思」）",
+    "tw": ["閩南語粗口，表達不滿、抱怨、驚訝或遺憾，PTT等台灣論壇常用詞"],
+    "cats": ["slang"],
+    "gens": ["長期存在的台語粗口類流行語"],
+    "evidence": [
+      "https://wenku.baidu.com/view/eecb86287bd5360cba1aa8114431b90d6c858995.html ; https://wenku.baidu.com/view/502601f6b4717fd5360cba1aa8114431b80d8e7e.html"
+    ],
+    "heat": [
+      "百度文庫兩篇獨立文章分別解析其含義、用法與「靠北」vs「靠腰」差異"
+    ],
+    "controversy": [
+      "百度文庫文章屬「知識科普」性質，證明的是中國網友對此詞有查詢需求（可能因追台劇/滑台灣論壇而接觸），而非證實已在中國日常對話中普及使用"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "甲甲（同詞，百度百科獨立詞條收錄）",
+    "tw": [
+      "源自PTT，2008年前原指棒球選手陳元甲，2009年因PTT西斯版與男同志版「西甲大戰」事件後轉指男同性戀者，因gay的發音近似台語「假」"
+    ],
+    "cats": ["appellation"],
+    "gens": ["2009年PTT起源，屬防火長城尚未全面收緊前的BBS世代跨海峽詞彙"],
+    "evidence": [
+      "https://baike.baidu.com/item/甲甲/6399697 ; https://zh.wikipedia.org/zh-tw/甲甲"
+    ],
+    "heat": [
+      "百度百科建立獨立詞條「甲甲（PTT常用用語）」，屬於較高規格的「被收錄進中國網路辭典系統」證據"
+    ],
+    "controversy": [
+      "⚠️此詞對男同志族群帶有潛在歧視爭議，PTT/維基百科皆註記「字源並無貶義」但使用需注意脈絡；另外，此詞是否仍在當代中國網路廣泛使用、或僅停留在百科詞條層次，並未進一步查證"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "從從容容游刃有餘（2025年底經中國音樂人王搏改編歌曲「沒出息」後於兩岸三地社群平台爆紅，中國男星張凌赫於官方採訪中主動引用）",
+    "tw": [
+      "源自民進黨立委王世堅2017年6月12日台北市議會質詢金句：「本來應該從從容容、游刃有餘，現在是匆匆忙忙、連滾帶爬！」，原意在批評時任台北市長柯文哲市府團隊世大運工程進度"
+    ],
+    "cats": ["entertainment"],
+    "gens": ["2017年原句／2025年底二次爆紅"],
+    "evidence": [
+      "https://www.nownews.com/news/6857986 ; https://www.storm.mg/lifestyle/11091801 ; https://news.tvbs.com.tw/entertainment/variety/3261653"
+    ],
+    "heat": [
+      "風傳媒報導聲量達2.6萬；2025年台灣年度十大流行語No.2（風傳媒/storm.mg統計）；NOWnews、TVBS、Yahoo奇摩、遠見雜誌等多家媒體交叉報導"
+    ],
+    "controversy": [
+      "本切面證據力最完整的個案：具名原創者（王世堅）、具名改編者（中國音樂人王搏）、具名引用者（中國男星張凌赫，2025年12月騰訊視頻星光大賞後台受訪時脫口而出）、多家媒體交叉驗證。台灣網友戲稱「反攻大陸」，但這是網友的戲謔框架，非官方定性，須避免過度政治解讀"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "ven（2025年10月至2026年初，中國網友批評此為「嘲諷台灣腔」並引發「小粉紅」不滿反擊）",
+    "tw": [
+      "源自2025年10月Threads用戶「范昕榆」分享的影片，模仿在早餐店遇到的中國大陸遊客，將「問（wèn）」發音成「ven」，因節奏魔性而爆紅"
+    ],
+    "cats": ["grammar"],
+    "gens": ["2025年Q4迷因，已有獨立維基百科條目「Ven（迷因）」"],
+    "evidence": [
+      "https://zh.wikipedia.org/zh-tw/Ven_(迷因) ; https://www.storm.mg/lifestyle/11096421"
+    ],
+    "heat": [
+      "至少8家台媒報導（風傳媒、鏡週刊、民視、Newtalk、城市學、NOWnews等）；前總統蔡英文2026年2月在原始貼文留言「聽不懂的梗」，引發網友「朝聖」進一步擴散"
+    ],
+    "controversy": [
+      "⚠️方向特殊：這不是「台灣詞被中國使用」，而是台灣網友模仿、調侃中國大陸口音的迷因，中國網友（含「小粉紅」）反而是被嘲諷、進而反擊的一方（反譏「你venty真多」）。收錄理由是它展現台灣網路迷因的病毒式傳播力對兩岸輿論場的實際牽動力，但不宜歸類為「輸出」，更接近「語言戰爭／語言衝突」案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "廠廠（大陸網友將台灣人打的注音符號「ㄏㄏ」誤讀為簡體「厂厂」/繁體「廠廠」二字）",
+    "tw": ["「ㄏㄏ」＝注音符號輸入的「呵呵/哈哈」，純屬字形視覺巧合"],
+    "cats": ["grammar"],
+    "gens": ["2016年PTT笑話版分享，經Yahoo/LINE TODAY轉載"],
+    "evidence": [
+      "https://tw.news.yahoo.com/大陸人問-為何台灣人這麼愛打-廠廠-062200507.html"
+    ],
+    "heat": [
+      "2016年12月PTT joke板分享文經新聞媒體轉載，留言互動包含「這用語要開始流行了」等玩笑回應"
+    ],
+    "controversy": [
+      "⚠️重要澄清案例：這其實不是語彙輸出，而是中國網友對台灣注音符號的「視覺誤讀」（字形近似造成的認知烏龍），本質上是一則笑話而非真實的語言擴散現象。收錄目的是提醒：統計「兩岸語言互動」案例時，必須把這類「偽輸出」與真正的詞彙借用分開計算，避免灌水"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "87／北七（台灣年度代表詞，未找到中國端主動使用的具體案例）",
+    "tw": [
+      "源自PTT的數字諧音流行語，意指「白痴」，2016年入選台灣年度十大網路流行語（標語「87分不能再高」）"
+    ],
+    "cats": ["slang"],
+    "gens": ["2016年台灣年度代表詞"],
+    "evidence": ["https://zh.wikipedia.org/zh-tw/臺灣閩南語常見流行語"],
+    "heat": ["多家台媒於2016年報導其入選年度十大流行語"],
+    "controversy": [
+      "本次搜尋僅找到台灣端的報導與維基百科「臺灣閩南語常見流行語」條目收錄，並未找到中國網友使用「87」表達「白痴」意涵的具體實例，證據薄弱，暫列為「無公認對應／未證實輸出」"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "8+9（台灣次文化用語，中國端主要見於維基詞典/百科的科普性收錄）",
+    "tw": [
+      "原指陣頭「八家將」，後引申指社經地位、學歷較低的年輕男性次文化群體，PTT年代用語"
+    ],
+    "cats": ["appellation"],
+    "gens": ["2010年代PTT用語"],
+    "evidence": ["https://zh.wikipedia.org/zh-tw/臺灣閩南語常見流行語"],
+    "heat": ["維基詞典等多語辭典收錄詞條"],
+    "controversy": [
+      "⚠️此詞帶有明顯階級歧視爭議，台灣內部使用也常引發討論；中國端的接受度證據僅停留在辭典收錄層次，未見具體使用案例，收錄時須特別註記歧視爭議與證據薄弱雙重但書"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "森77（台灣/日本台僑社群介紹此詞給日語圈為主，未找到中國端具體採用證據）",
+    "tw": [
+      "「生氣氣」的諧音，PTT／Twitch聊天室常用語，表示生氣、發脾氣，帶點裝可愛意味"
+    ],
+    "cats": ["slang"],
+    "gens": ["PTT時代台語數字流行語"],
+    "evidence": [
+      "https://pttpedia.fandom.com/zh/wiki/森77 ; https://ameblo.jp/papagotaiwan/entry-12333225982.html"
+    ],
+    "heat": [
+      "搜尋結果中發現大量日文網站（台湾人が使うSNS用語）介紹此詞給日本讀者，顯示對日輸出的證據反而比對中國輸出更明確"
+    ],
+    "controversy": [
+      "本詞是本次搜尋中「意外發現對日本輸出證據強於對中國輸出證據」的案例，值得記錄成結構性觀察：台灣網路用語的海外傳播不必然以中國為主要目的地"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "盤子（兩岸可能各自平行使用，語源歸屬有爭議）",
+    "tw": [
+      "源自台語「盼仔」，指容易被騙、不夠精明的人，2025年台灣流行語候選詞「國旅盤子」即此用法"
+    ],
+    "cats": ["slang"],
+    "gens": ["長期存在，2025年因「國旅盤子」話題再度翻紅"],
+    "evidence": ["https://tyaward.com.tw/文化/盤子-台灣意思/"],
+    "heat": ["多篇台灣網站文章解析其台語語源"],
+    "controversy": [
+      "⚠️「盤子」表示「容易被騙的人」在中國網路用語中也有類似說法，本次搜尋未能確認兩岸用法是否同源（皆源自台語盼仔）或各自平行發展，不宜武斷歸類為台灣單向輸出，列為存疑案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "顆顆／科科（同詞，中國網路辭典/文章亦有介紹，但未見大量實際使用證據）",
+    "tw": [
+      "PTT流行冷笑/裝可愛擬聲詞，起源說法分歧：一說源自日文「こめ」（米）諧音搭配米飯emoji表示「知道了」；一說源自《櫻桃小丸子》角色笑聲"
+    ],
+    "cats": ["slang"],
+    "gens": ["2000年代PTT起源"],
+    "evidence": [
+      "https://pttpedia.fandom.com/zh/wiki/科科（ㄎㄎ、顆顆） ; https://www.fanswong.com/articles/019775a0-fa75-c1e1-56c7-1b79efccaa25"
+    ],
+    "heat": ["PTT鄉民百科與多篇科普文章介紹"],
+    "controversy": [
+      "⚠️起源本身在台灣社群內部就有「日文諧音說」與「櫻桃小丸子說」兩種說法並存，未有定論；且與「廠廠」誤讀事件高度相關（廠廠正是中國網友對顆顆/ㄏㄏ的誤讀），兩者應合併理解為同一組現象的正反面"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "三小（知乎專欄「闽南语/台语中的'三小'」向中國讀者解析此詞）",
+    "tw": [
+      "台語粗俗疑問詞，音譯近似「啥潲」，語氣上相當於「WTF」，「潲」字本義涉及粗俗指涉"
+    ],
+    "cats": ["slang"],
+    "gens": ["長期存在的台語粗口類流行語"],
+    "evidence": ["https://zhuanlan.zhihu.com/p/1912275021994395477"],
+    "heat": [
+      "中國最大知識社群平台「知乎」出現專欄文章解析此詞，屬於「被中國主流知識社群主動科普收錄」的較強證據"
+    ],
+    "controversy": [
+      "與「靠北」情況類似：知乎文章證明的是中國讀者對此詞有理解需求，但未證實已進入日常使用"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "晶晶體（描述一種語言現象的台灣造詞，非被中國採用的詞彙本身，列為台灣造詞活力案例）",
+    "tw": [
+      "指中文為基底、夾雜英語不成句單字/片語的表達方式，源自2016年台灣名媛李晶晶受訪片段，2019年高雄市長韓國瑜演說後二次爆紅"
+    ],
+    "cats": ["grammar"],
+    "gens": ["2016年造詞／2019年二次爆紅"],
+    "evidence": [
+      "https://zh.wikipedia.org/zh-tw/晶晶體 ; https://news.tvbs.com.tw/life/2612812"
+    ],
+    "heat": ["維基百科獨立條目、多家台媒2016及2019年兩波報導"],
+    "controversy": [
+      "此詞本次搜尋未見中國端採用證據，收錄純粹作為「台灣網路社群具備快速造詞、為特定語言現象命名並使其成為公共討論詞彙」的活力展示案例，不宜與真正的跨海峽輸出案例混為一談，「中國採用」欄應理解為「無公認對應」"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "YBSG（源自日本平成/令和辣妹用語，經台灣總統蔡英文使用後爆紅，再回流登上日本媒體；與中國端無關，列為台灣造詞活力參照組）",
+    "tw": [
+      "蔡英文卸任總統後於Threads自製哏圖使用此語，事件本身吸引20家以上台媒報導、單篇貼文吸引14萬人朝聖，並登上日本媒體版面"
+    ],
+    "cats": ["entertainment"],
+    "gens": ["2026年初"],
+    "evidence": [
+      "https://setn.com/news/1851376 ; https://www.ettoday.net/news/20260605/3177994.htm"
+    ],
+    "heat": [
+      "20家以上媒體報導；三立SETN報導稱「狂吸14萬人朝聖」；登上日本媒體"
+    ],
+    "controversy": [
+      "⚠️此案例的傳播方向是「日本→台灣→（意外）紅回日本」，與本切面核心「台灣→中國」方向不同，收錄僅作為對照組，用來說明台灣公眾人物（尤其總統層級）親自參與網路迷因文化時的病毒傳播力可以有多強，藉此凸顯「若中國方向也出現同等級案例會長怎樣」的參照基準，目前中國方向未見對應規模的案例"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "亮點",
+    "tw": ["焦點／特色"],
+    "cats": ["daily"],
+    "gens": ["2010s後"],
+    "evidence": [
+      "https://dict.concised.moe.edu.tw/appendix.jsp?ID=54&page=4&la=0&powerMode=0 ; https://www.facebook.com/newsFTNN/posts/147551718279004/"
+    ],
+    "heat": [
+      "Ftnn報導點名教育部辭典附錄已收錄；世新教授臉書發文稱「這也是中國用語」"
+    ],
+    "controversy": [
+      "教育部《國語辭典簡編本》兩岸對照表官方收錄「焦點→亮點」，正式認證為大陸用語變體；但「亮點」在台灣已廣泛通行多年，是否仍應視為需糾正的支語在網友間有分歧。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  },
+  {
+    "cn": "超頂",
+    "tw": ["無公認對應"],
+    "cats": ["slang"],
+    "gens": ["2020s+（經韓星金容仙中文片段引發討論）"],
+    "evidence": ["https://charizard.blog/short-notes/chao-ting-prc-slang/"],
+    "heat": ["charizard.blog部落格專文考證"],
+    "controversy": [
+      "⚠️作者本人在文中承認「沒辦法提出一套剛硬的規則」判定「超／特」修飾詞用法是否為支語，是高度主觀判準、難以一概而論的案例。"
+    ],
+    "slice_count": 1,
+    "low_evidence": false
+  }
+]
