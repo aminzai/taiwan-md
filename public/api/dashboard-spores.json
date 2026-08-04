@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T22:12:38.823078Z",
+  "lastUpdated": "2026-08-04T22:42:22.804447Z",
   "schemaVersion": "1.1",
   "totals": {
     "count": 159,
@@ -49,10 +49,10 @@
       "url": "https://x.com/taiwandotmd/status/2084520918441951650",
       "highlight": "X 版單則含 inline UTM；同 v12 文案",
       "views_7d": null,
-      "views_latest": null,
+      "views_latest": 180,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": false
+      "backfilled": true
     },
     {
       "n": 167,
@@ -65,10 +65,10 @@
       "url": "https://www.threads.com/@taiwandotmd/post/Dbm5PdXE181",
       "highlight": "按下申報相符那一下你委任了誰——把兩個被推翻的錯誤框架提到第二段正面回答，補替代路徑，保留八年沒編預算的問責",
       "views_7d": null,
-      "views_latest": null,
+      "views_latest": 1607,
       "engagements_7d": null,
       "rate_7d": null,
-      "backfilled": false
+      "backfilled": true
     },
     {
       "n": 166,
@@ -81,7 +81,7 @@
       "url": "https://x.com/taiwandotmd/status/2084319140907786616",
       "highlight": "同 #165 內容，X 單則貼文＋inline s166 UTM",
       "views_7d": null,
-      "views_latest": 507,
+      "views_latest": 1115,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -97,7 +97,7 @@
       "url": "https://www.threads.com/@taiwandotmd/post/Dblb5_4E-hH",
       "highlight": "醫學博士改行做 DRAM，2012 下市不清算救九年；收尾補進 2002 自己得過大腸癌，夢具體化為讓病人少痛一點；v8 經哲宇四輪 callout（收尾×2＋歐化×2）",
       "views_7d": null,
-      "views_latest": 2932,
+      "views_latest": 37000,
       "engagements_7d": null,
       "rate_7d": null,
       "backfilled": true
@@ -321,7 +321,7 @@
     {
       "week": "2026-W32",
       "published": 5,
-      "avgViews": 1720
+      "avgViews": 9976
     }
   ],
   "harvestStatus": [
@@ -1872,8 +1872,8 @@
       "publishDate": "2026-08-04",
       "daysSincePublish": 1,
       "withinHarvestWindow": true,
-      "harvestCount": 1,
-      "lastHarvest": "2026-08-04 06:39"
+      "harvestCount": 2,
+      "lastHarvest": "2026-08-05 06:42"
     },
     {
       "n": 166,
@@ -1882,8 +1882,8 @@
       "publishDate": "2026-08-04",
       "daysSincePublish": 1,
       "withinHarvestWindow": true,
-      "harvestCount": 1,
-      "lastHarvest": "2026-08-04 06:39"
+      "harvestCount": 2,
+      "lastHarvest": "2026-08-05 06:42"
     },
     {
       "n": 167,
@@ -1892,8 +1892,8 @@
       "publishDate": "2026-08-04",
       "daysSincePublish": 1,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-08-05 06:42"
     },
     {
       "n": 168,
@@ -1902,8 +1902,8 @@
       "publishDate": "2026-08-04",
       "daysSincePublish": 1,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-08-05 06:42"
     },
     {
       "n": 169,
@@ -1912,8 +1912,8 @@
       "publishDate": "2026-08-04",
       "daysSincePublish": 1,
       "withinHarvestWindow": true,
-      "harvestCount": 0,
-      "lastHarvest": null
+      "harvestCount": 1,
+      "lastHarvest": "2026-08-05 06:42"
     }
   ]
 }

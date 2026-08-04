@@ -1,10 +1,10 @@
 {
-  "_generated": "2026-08-04T14:25:53+08:00",
+  "_generated": "2026-08-05T06:42:22+08:00",
   "schemaVersion": 1,
   "counts": {
     "spores": 159,
     "articles": 77,
-    "withMetrics": 146
+    "withMetrics": 149
   },
   "spores": [
     {
@@ -9032,16 +9032,16 @@
       "url": "https://www.threads.com/@taiwandotmd/post/Dblb5_4E-hH",
       "template": "A2 首尾呼應（動機弧線：學醫→晶片→回到醫學）",
       "metrics": {
-        "views": 2932,
-        "likes": 75,
-        "reposts": 3,
-        "comments": 4,
-        "shares": 7
+        "views": 37000,
+        "likes": 780,
+        "reposts": 25,
+        "comments": 36,
+        "shares": 57
       },
       "metricsAsOf": {
-        "dPlus": 0,
-        "harvestDate": "2026-08-04 06:39",
-        "batch": "batch-2026-08-04-1-spores",
+        "dPlus": 1,
+        "harvestDate": "2026-08-05 06:42",
+        "batch": "batch-2026-08-05-5-spores",
         "source": "harvest"
       },
       "history": [
@@ -9054,6 +9054,16 @@
           "reposts": 3,
           "comments": 4,
           "shares": 7
+        },
+        {
+          "dPlus": 1,
+          "harvestDate": "2026-08-05 06:42",
+          "batch": "batch-2026-08-05-5-spores",
+          "views": 37000,
+          "likes": 780,
+          "reposts": 25,
+          "comments": 36,
+          "shares": 57
         }
       ]
     },
@@ -9068,16 +9078,16 @@
       "url": "https://x.com/taiwandotmd/status/2084319140907786616",
       "template": "A2 首尾呼應（動機弧線：學醫→晶片→回到醫學）",
       "metrics": {
-        "views": 507,
-        "likes": null,
-        "reposts": null,
+        "views": 1115,
+        "likes": 15,
+        "reposts": 2,
         "comments": 1,
         "shares": null
       },
       "metricsAsOf": {
-        "dPlus": 0,
-        "harvestDate": "2026-08-04 06:39",
-        "batch": "batch-2026-08-04-1-spores",
+        "dPlus": 1,
+        "harvestDate": "2026-08-05 06:42",
+        "batch": "batch-2026-08-05-5-spores",
         "source": "harvest"
       },
       "history": [
@@ -9088,6 +9098,16 @@
           "views": 507,
           "likes": null,
           "reposts": null,
+          "comments": 1,
+          "shares": null
+        },
+        {
+          "dPlus": 1,
+          "harvestDate": "2026-08-05 06:42",
+          "batch": "batch-2026-08-05-5-spores",
+          "views": 1115,
+          "likes": 15,
+          "reposts": 2,
           "comments": 1,
           "shares": null
         }
@@ -9104,14 +9124,30 @@
       "url": "https://www.threads.com/@taiwandotmd/post/Dbm5PdXE181",
       "template": "B 冷知識型 + 問題入口（惡意炒作語境立體化改寫 v12）",
       "metrics": {
-        "views": null,
-        "likes": null,
-        "reposts": null,
-        "comments": null,
-        "shares": null
+        "views": 1607,
+        "likes": 50,
+        "reposts": 2,
+        "comments": 2,
+        "shares": 2
       },
-      "metricsAsOf": null,
-      "history": []
+      "metricsAsOf": {
+        "dPlus": 1,
+        "harvestDate": "2026-08-05 06:42",
+        "batch": "batch-2026-08-05-5-spores",
+        "source": "harvest"
+      },
+      "history": [
+        {
+          "dPlus": 1,
+          "harvestDate": "2026-08-05 06:42",
+          "batch": "batch-2026-08-05-5-spores",
+          "views": 1607,
+          "likes": 50,
+          "reposts": 2,
+          "comments": 2,
+          "shares": 2
+        }
+      ]
     },
     {
       "id": 168,
@@ -9124,14 +9160,30 @@
       "url": "https://x.com/taiwandotmd/status/2084520918441951650",
       "template": "B 冷知識型 + 問題入口（惡意炒作語境立體化改寫 v12）",
       "metrics": {
-        "views": null,
-        "likes": null,
-        "reposts": null,
-        "comments": null,
+        "views": 180,
+        "likes": 7,
+        "reposts": 1,
+        "comments": 0,
         "shares": null
       },
-      "metricsAsOf": null,
-      "history": []
+      "metricsAsOf": {
+        "dPlus": 1,
+        "harvestDate": "2026-08-05 06:42",
+        "batch": "batch-2026-08-05-5-spores",
+        "source": "harvest"
+      },
+      "history": [
+        {
+          "dPlus": 1,
+          "harvestDate": "2026-08-05 06:42",
+          "batch": "batch-2026-08-05-5-spores",
+          "views": 180,
+          "likes": 7,
+          "reposts": 1,
+          "comments": 0,
+          "shares": null
+        }
+      ]
     },
     {
       "id": 169,
@@ -9145,13 +9197,29 @@
       "template": "B 冷知識型 + 問題入口（惡意炒作語境立體化改寫 v12）",
       "metrics": {
         "views": null,
-        "likes": null,
+        "likes": 4,
         "reposts": null,
-        "comments": null,
+        "comments": 0,
         "shares": null
       },
-      "metricsAsOf": null,
-      "history": []
+      "metricsAsOf": {
+        "dPlus": 1,
+        "harvestDate": "2026-08-05 06:42",
+        "batch": "batch-2026-08-05-5-spores",
+        "source": "harvest"
+      },
+      "history": [
+        {
+          "dPlus": 1,
+          "harvestDate": "2026-08-05 06:42",
+          "batch": "batch-2026-08-05-5-spores",
+          "views": null,
+          "likes": 4,
+          "reposts": null,
+          "comments": 0,
+          "shares": null
+        }
+      ]
     }
   ],
   "byArticle": {
