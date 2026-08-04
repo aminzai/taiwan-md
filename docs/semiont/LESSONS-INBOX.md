@@ -332,6 +332,33 @@ Beat 5 反芻 = 寫 DIARY（意識活動）。教訓（「我學到 X」）寫 L
 
 ## 未消化清單（📥 待 distill）
 
+### 2026-08-04 manual（EZ WAY 孢子）— ordering-is-an-ethical-decision：在被操作的爭議裡，資訊排序不是寫作技巧是策展倫理
+
+- **pattern**: `ordering-is-an-ethical-decision`
+- **原則**：短載體（孢子 300 字）在一個正被炒作的議題裡發布時，**同一組逐字無誤的事實，排序不同就是兩則不同的貼文**。所有既有閘門（事實查核表、逐字引語比對、對位句型、紀實煽情閘）量的都是「這句話是不是真的」，沒有一把量「這句話為什麼排在這裡」。判準候選：**這則貼文被截圖轉發時，替讀者省下的是查證的力氣，還是憤怒的力氣？** 命中後的動作是把已被查證推翻的錯誤框架提到前段正面回答、補上對憤怒點最有用的事實（且歸屬給原始來源不由我方保證）、拿掉情緒放大器，同時保留真正的問責——降溫不等於噤聲。
+- **觸發**：2026-08-04 EZ WAY 孢子 v5 過完全部五層閘門、事實查核表 14 條全綠，但把「四千多讚」與情緒留言排在第三段、把文章花整節 falsify 的兩個說法（政府欽點獨家／個資已外洩）壓到最後一句平衡句。哲宇指出主題正被網路操作勢力惡意炒作後重排到 v12。發布時 Threads 動態上同題材一則報關業者長文 8,063 讚，證實語境判斷。
+- **可能層級**：候選 REFLEXES 或 EDITORIAL §策展倫理——vc=2：2026-08-03 黃崇仁「十一個關卡全綠、四十個事實原子零漂移，哲宇讀完指出六個地方，沒有一個是事實錯誤」是同族第一例（尺量得到事實、量不到意義層）。本次是同一結構在「外部語境」維度的第二例：**這一層的資訊我結構上無法自己取得**（我查得到那則八千讚貼文，但查到了也不知道它意味著我的貼文會被放在什麼溫度裡讀）。第三個 instance 出現時 promote。
+- **相關**：REFLEXES #69（每層自評都需要外部尺）、#77（spine type is subject-typed）、MANIFESTO §13 立體地愛 + §12 受眾端飛輪、SPORE-BLUEPRINTS/167 §v12 重排原則
+- **verification_count**: 2
+
+### 2026-08-04 manual（EZ WAY 孢子）— editor-specific-selector-false-positive：段落計數閘門寫死一種編輯器，換平台就假陽性
+
+- **pattern**: `editor-specific-selector-false-positive`
+- **原則**：SOCIAL-POSTING pre-ship check 7/8 的 JS 範例用 ProseMirror 的 `:scope > div` 數段落 block，但三大平台各用不同編輯器：X 是 DraftJS（段落在 `[data-block="true"]`）、Threads 是 Lexical（全部塞在單一 `<p>` 內用 `<br><br>` 分隔）、FB 另一套。照 pipeline 字面執行會對 X 與 Threads 都回報 `block_count=1`＝collapsed，觸發「不 click Post、discard 重貼」的 abort 路徑。實際逐塊讀出來分段完好（X 6 塊、Threads 5 段，字數逐段吻合 blueprint）。修法是按平台分流的段落計數 helper，或改用平台無關的訊號（rendered 後的 og:description / tweetText 換行數）。
+- **觸發**：2026-08-04 EZ WAY 孢子三平台 ship，兩個平台都在 pre-ship check 7 觸發假陽性；因為停下來看 DOM 結構才沒有誤 abort 重貼（重貼會撞 Pitfall 6 duplicate ship 風險）。
+- **可能層級**：pipeline 修補（SOCIAL-POSTING v0.7 check 7/8 範例碼）——不是新反射，是既有假陽性家族（2026-07-24 括號 gloss／ja 的了 markers／書名號三家族）在社群發文層的第 N 個 instance。
+- **相關**：REFLEXES #65（awareness instrument 自身要 cross-verify ground truth）、MANIFESTO §14（高儀器化、判斷裁決）、SOCIAL-POSTING-PIPELINE §AI pre-ship self-check
+- **verification_count**: 1
+
+### 2026-08-04 manual（EZ WAY 孢子）— platform-allowlist-scattered-downstream：新平台啟用時上游收得下、下游看不見
+
+- **pattern**: `platform-allowlist-scattered-downstream`
+- **原則**：一個「平台」概念散在多個器官各自維護白名單時，新平台啟用只會被最上游那個接住，下游全部靜默略過。`spore-db.py` 的 `PLATFORMS` 四個平台早有 facebook（收得下），但 `sync-spore-links.py` 寫死 `("threads", "x")`（frontmatter 寫不進去）、`SporeFootprint.astro` 的 `platformName` 只映射兩個（顯示成小寫原字串）。結果是資料庫有、發文紀錄有、文章上沒有、讀者看不到，而且沒有任何一個警報會響。啟用新平台的 checklist 應該是「grep 全鏈所有出現既有平台名的地方」，不是只改入口。
+- **觸發**：2026-08-04 FB 粉專首發孢子 #169，登錄成功但 `sync-spore-links --apply` 靜默丟掉；因為順手驗了文章 frontmatter 才發現。同批還揭露 spore-db 的 URL 乾淨化閘把「追蹤參數」與「身分參數」混為一談（FB permalink 的 `story_fbid` 是身分），繞法是改用無 query 的 `/{page_id}/posts/{pfbid}` 正規形式。
+- **可能層級**：既有神經迴路「新語言出生時感知系統不會自動更新」的第 N 個 instance（同構：新維度誕生，下游感知不會自動長出來）。URL 乾淨化閘那條是 REFLEXES #38 混維度家族。
+- **相關**：REFLEXES #38（status 混維度 silent killer）、#43（新 dashboard JSON 必須同步進 refresh-data.sh）、§神經迴路「新語言出生時感知系統不會自動更新」
+- **verification_count**: 1
+
 ### 2026-08-04 build-speed — two-variable-run-misattribution：兩個變因同 run 上線，慢的帳記到比較顯眼的那個頭上
 
 - **pattern**: `two-variable-run-misattribution`
