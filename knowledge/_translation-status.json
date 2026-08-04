@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-05T03:44:26+08:00",
-    "zhCommitHead": "8f8d15245",
+    "lastUpdated": "2026-08-05T04:34:46+08:00",
+    "zhCommitHead": "c6e13b6a7",
     "totalZh": 882,
     "activeLanguages": [
       "en",
@@ -27,9 +27,9 @@
       },
       "ja": {
         "total_zh": 882,
-        "fresh": 838,
+        "fresh": 839,
         "stale": 15,
-        "metadata_stale": 14,
+        "metadata_stale": 13,
         "missing": 15,
         "orphan": 0
       },
@@ -67,41 +67,41 @@
       },
       "id": {
         "total_zh": 882,
-        "fresh": 524,
+        "fresh": 526,
         "stale": 4,
-        "metadata_stale": 12,
-        "missing": 342,
+        "metadata_stale": 11,
+        "missing": 341,
         "orphan": 0
       },
       "pt": {
         "total_zh": 882,
-        "fresh": 806,
+        "fresh": 807,
         "stale": 11,
-        "metadata_stale": 6,
+        "metadata_stale": 5,
         "missing": 59,
         "orphan": 0
       },
       "hi": {
         "total_zh": 882,
-        "fresh": 620,
-        "stale": 2,
+        "fresh": 621,
+        "stale": 1,
         "metadata_stale": 8,
         "missing": 252,
         "orphan": 0
       },
       "ar": {
         "total_zh": 882,
-        "fresh": 704,
+        "fresh": 707,
         "stale": 1,
-        "metadata_stale": 10,
+        "metadata_stale": 7,
         "missing": 167,
         "orphan": 0
       },
       "ru": {
         "total_zh": 882,
-        "fresh": 728,
+        "fresh": 731,
         "stale": 1,
-        "metadata_stale": 11,
+        "metadata_stale": 8,
         "missing": 142,
         "orphan": 0
       }
@@ -4918,8 +4918,8 @@
           "sourceContentHash": "sha256:7b6c098933713fcd",
           "sourceBodyHash": "sha256:b2179659aae39566",
           "translatedAt": "2026-08-05T00:31:27+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "1c4b5849",
+          "translationLastModified": "2026-08-05T03:44:27+08:00",
           "inferred": false,
           "footnoteDefs": 56,
           "status": "fresh",
@@ -5882,18 +5882,16 @@
         "pt": {
           "path": "pt/Economy/taiwan-smes-and-hidden-champions.md",
           "translatedFrom": "Economy/台灣中小企業與隱形冠軍.md",
-          "sourceCommitSha": "377b0ab22",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:9e85b1332b7523ce",
           "sourceBodyHash": "sha256:aa9670656fd12067",
-          "translatedAt": "2026-07-27T10:39:03+08:00",
+          "translatedAt": "2026-08-05T00:31:25+08:00",
           "translationLastCommit": "3fcb6b42",
           "translationLastModified": "2026-07-30T05:53:52+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "hi": {
           "path": "hi/Economy/taiwan-smes-and-hidden-champions.md",
@@ -5928,18 +5926,16 @@
         "ru": {
           "path": "ru/Economy/taiwan-smes-and-hidden-champions.md",
           "translatedFrom": "Economy/台灣中小企業與隱形冠軍.md",
-          "sourceCommitSha": "377b0ab22",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:9e85b1332b7523ce",
           "sourceBodyHash": "sha256:aa9670656fd12067",
-          "translatedAt": "2026-07-27T21:28:11+08:00",
+          "translatedAt": "2026-08-05T00:31:28+08:00",
           "translationLastCommit": "4434fec8",
           "translationLastModified": "2026-07-27T22:10:39+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -1"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },
@@ -31995,18 +31991,16 @@
         "ar": {
           "path": "ar/Lifestyle/taiwan-recycling-and-circular-living-culture.md",
           "translatedFrom": "Lifestyle/台灣回收與資源循環文化.md",
-          "sourceCommitSha": "4b6d28c54",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:692a1090832374e5",
           "sourceBodyHash": "sha256:258baccfb653bebb",
-          "translatedAt": "2026-07-26T00:16:59+08:00",
+          "translatedAt": "2026-08-05T00:31:27+08:00",
           "translationLastCommit": "8884ad3c",
           "translationLastModified": "2026-07-26T00:48:15+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/Lifestyle/taiwan-recycling-and-circular-living-culture.md",
@@ -36410,18 +36404,16 @@
         "id": {
           "path": "id/Society/volunteering-and-civic-charity-in-taiwan.md",
           "translatedFrom": "Society/台灣志工文化與公益參與.md",
-          "sourceCommitSha": "165db3959",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:83e68a6262dbf058",
           "sourceBodyHash": "sha256:7149df720d9ca880",
-          "translatedAt": "2026-07-25T01:11:51+08:00",
+          "translatedAt": "2026-08-05T00:31:24+08:00",
           "translationLastCommit": "10db0978",
           "translationLastModified": "2026-07-25T02:15:17+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Society/volunteering-and-civic-charity-in-taiwan.md",
@@ -36456,18 +36448,16 @@
         "ar": {
           "path": "ar/Society/volunteering-and-civic-charity-in-taiwan.md",
           "translatedFrom": "Society/台灣志工文化與公益參與.md",
-          "sourceCommitSha": "165db3959",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:83e68a6262dbf058",
           "sourceBodyHash": "sha256:7149df720d9ca880",
-          "translatedAt": "2026-07-28T03:07:47+08:00",
+          "translatedAt": "2026-08-05T00:31:27+08:00",
           "translationLastCommit": "956203bd",
           "translationLastModified": "2026-07-28T04:24:51+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "status": "missing"
@@ -41178,18 +41168,16 @@
         "ru": {
           "path": "ru/Society/betel-nut.md",
           "translatedFrom": "Society/檳榔.md",
-          "sourceCommitSha": "08a8c5ec8",
-          "sourceContentHash": "sha256:bc15608a0bffd86f",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:fbfec2fdb49a0cf3",
           "sourceBodyHash": "sha256:06a8ff16fd8332cb",
-          "translatedAt": "2026-07-28T03:07:49+08:00",
+          "translatedAt": "2026-08-05T00:31:28+08:00",
           "translationLastCommit": "3bb81d05",
           "translationLastModified": "2026-07-28T04:47:58+08:00",
           "inferred": false,
           "footnoteDefs": 0,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -2"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         }
       }
     },
@@ -52625,8 +52613,8 @@
           "sourceContentHash": "sha256:387f185bb5291526",
           "sourceBodyHash": "sha256:bdaf6e0f03c1164f",
           "translatedAt": "2026-08-04T17:32:49.635126+00:00",
-          "translationLastCommit": "e137dda5",
-          "translationLastModified": "2026-07-31T00:55:37+08:00",
+          "translationLastCommit": "1c4b5849",
+          "translationLastModified": "2026-08-05T03:44:27+08:00",
           "inferred": false,
           "footnoteDefs": 45,
           "status": "fresh",
@@ -83582,8 +83570,8 @@
           "sourceContentHash": "sha256:a4d0a0070adaa30d",
           "sourceBodyHash": "sha256:4b10f11517195560",
           "translatedAt": "2026-08-05T00:31:27+08:00",
-          "translationLastCommit": "7e937944",
-          "translationLastModified": "2026-07-26T13:01:59+08:00",
+          "translationLastCommit": "1c4b5849",
+          "translationLastModified": "2026-08-05T03:44:27+08:00",
           "inferred": false,
           "footnoteDefs": 3,
           "status": "fresh",
@@ -89362,8 +89350,8 @@
           "sourceContentHash": "sha256:c6c5b08befa8584a",
           "sourceBodyHash": "sha256:65be42b8cac6c9ca",
           "translatedAt": "2026-08-05T00:31:27+08:00",
-          "translationLastCommit": "7e9f670a",
-          "translationLastModified": "2026-07-25T09:22:10+08:00",
+          "translationLastCommit": "1c4b5849",
+          "translationLastModified": "2026-08-05T03:44:27+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -96620,8 +96608,8 @@
           "sourceContentHash": "sha256:1bed2e499f02597c",
           "sourceBodyHash": "sha256:2b57fc3112c5bc59",
           "translatedAt": "2026-08-05T00:31:27+08:00",
-          "translationLastCommit": "caea4fab",
-          "translationLastModified": "2026-07-29T02:34:42+08:00",
+          "translationLastCommit": "1c4b5849",
+          "translationLastModified": "2026-08-05T03:44:27+08:00",
           "inferred": false,
           "footnoteDefs": 0,
           "status": "fresh",
@@ -101771,18 +101759,16 @@
         "ja": {
           "path": "ja/History/yingge-ceramics-old-street.md",
           "translatedFrom": "History/鶯歌陶瓷老街.md",
-          "sourceCommitSha": "1a3708b1e",
-          "sourceContentHash": "sha256:6023f24cf4042189",
+          "sourceCommitSha": "03b3aaae8",
+          "sourceContentHash": "sha256:34cec313d8b4c799",
           "sourceBodyHash": "sha256:f6adf45b092327fc",
-          "translatedAt": "2026-07-06T00:39:49+08:00",
+          "translatedAt": "2026-08-05T00:31:23+08:00",
           "translationLastCommit": "b4fa7ea4",
           "translationLastModified": "2026-07-06T03:03:33+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+2 -0"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "ko": {
           "path": "ko/History/yingge-ceramics-old-street.md",
@@ -101876,15 +101862,15 @@
           "path": "hi/History/yingge-ceramics-old-street.md",
           "translatedFrom": "History/鶯歌陶瓷老街.md",
           "sourceCommitSha": "03b3aaae8",
-          "sourceContentHash": "sha256:1d9dff66ac42a7d1",
-          "sourceBodyHash": "",
-          "translatedAt": "2026-08-04T13:29:06.543206+00:00",
+          "sourceContentHash": "sha256:34cec313d8b4c799",
+          "sourceBodyHash": "sha256:f6adf45b092327fc",
+          "translatedAt": "2026-08-05T00:31:26+08:00",
           "translationLastCommit": "2970062e",
           "translationLastModified": "2026-08-04T22:48:04+08:00",
           "inferred": false,
           "footnoteDefs": 22,
-          "status": "stale",
-          "reason": "sha-lost-hash-mismatch"
+          "status": "fresh",
+          "reason": "hash-match-sha-lost"
         },
         "ar": {
           "path": "ar/History/yingge-ceramics-old-street.md",
@@ -108979,18 +108965,16 @@
         "ar": {
           "path": "ar/History/disney-and-taiwan.md",
           "translatedFrom": "History/迪士尼.md",
-          "sourceCommitSha": "154c45e8b",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:5cc3c5f96a34e51e",
           "sourceBodyHash": "sha256:ad7b91e555067f88",
-          "translatedAt": "2026-07-27T07:12:42+08:00",
+          "translatedAt": "2026-08-05T00:31:27+08:00",
           "translationLastCommit": "915e336c",
           "translationLastModified": "2026-07-27T18:28:34+08:00",
           "inferred": false,
           "footnoteDefs": 31,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ru": {
           "path": "ru/History/disney-and-taiwan.md",
@@ -115038,8 +115022,8 @@
           "sourceContentHash": "sha256:c4a4c2010dd95827",
           "sourceBodyHash": "sha256:605dca39a0b5b5c5",
           "translatedAt": "2026-08-04T18:04:08.688774+00:00",
-          "translationLastCommit": "c17e04ba",
-          "translationLastModified": "2026-07-29T10:33:00+08:00",
+          "translationLastCommit": "1c4b5849",
+          "translationLastModified": "2026-08-05T03:44:27+08:00",
           "inferred": false,
           "footnoteDefs": 28,
           "status": "fresh",
@@ -115568,7 +115552,18 @@
           "diffSummary": "+2 -1"
         },
         "id": {
-          "status": "missing"
+          "path": "id/Geography/taiwan-coastal-landforms-and-seascapes.md",
+          "translatedFrom": "Geography/台灣海岸地形與海洋地景.md",
+          "sourceCommitSha": "69b3afd91",
+          "sourceContentHash": "sha256:9ce361db9a5c3b1a",
+          "sourceBodyHash": "sha256:39bde765a3b7a746",
+          "translatedAt": "2026-08-05T00:31:24+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 0,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/Geography/taiwan-coastal-landforms-and-seascapes.md",
@@ -127407,18 +127402,16 @@
         "ru": {
           "path": "ru/Culture/taiwan-meme-culture.md",
           "translatedFrom": "Culture/台灣迷因.md",
-          "sourceCommitSha": "1b3c22ac7",
+          "sourceCommitSha": "69b3afd91",
           "sourceContentHash": "sha256:21f968d51e24c095",
           "sourceBodyHash": "sha256:758baf07e7746d38",
-          "translatedAt": "2026-07-26T13:23:39+08:00",
+          "translatedAt": "2026-08-05T00:31:28+08:00",
           "translationLastCommit": "d30facee",
           "translationLastModified": "2026-07-27T19:07:48+08:00",
           "inferred": false,
           "footnoteDefs": 14,
-          "status": "metadata-stale",
-          "reason": "trailer-only-drift",
-          "commitsBehind": 1,
-          "diffSummary": "+1 -0"
+          "status": "fresh",
+          "reason": "same-commit"
         }
       }
     },

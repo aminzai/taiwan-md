@@ -30,10 +30,10 @@ imageCredit: 'M. Weitzel (Wikimedia Commons)'
 imageLicense: 'CC BY-SA 3.0'
 imageSource: 'https://commons.wikimedia.org/wiki/File:Maanshan_Nuclear_Power_Plant,_Nan_Wan.jpg'
 translatedFrom: 'Nature/台灣氣候危機與淨零轉型.md'
-sourceCommitSha: '21298a7a'
-sourceContentHash: 'sha256:d698e900aeaedc49'
-sourceBodyHash: 'sha256:36525caaf207b712'
-translatedAt: '2026-07-29T07:32:34+08:00'
+sourceCommitSha: '2da8b92f2'
+sourceContentHash: 'sha256:387f185bb5291526'
+sourceBodyHash: 'sha256:bdaf6e0f03c1164f'
+translatedAt: '2026-08-04T17:06:57.661822+00:00'
 ---
 
 # Crise climática e transição net-zero em Taiwan: no dia em que o referendo da Usina Nuclear 3 falhou, as escolhas dos limites físicos apenas começaram
@@ -281,40 +281,41 @@ O "Relatório Científico Nacional de Mudança Climática 2024" liderado por Hsu
 
 Para ilha de 23 milhões, emissões de Taiwan são desproporcionalmente altas: por CO₂ fóssil, ~280 Mt/ano, per capita ~11,7 t, topo global; conforme base de dados, ~rank 20-30 mundial[^8]. Emissões concentradas em energia e eletricidade, setor energético maior fatia, estrutura de geração ainda núcleo da pressão de descarbonização. Raiz na estrutura de geração: 2024 Taiwan ~42,4% gás, ~39,3% carvão, gás supera carvão pela 1ª vez; renováveis ~11,6%, nuclear ~4,2%[^20]. **Sistema ainda altamente dependente de fósseis, e Taiwan importa 98% da energia. Segurança energética e crise climática são a mesma equação.**
 
-## Democrático e físico em paralelo
+## Democracia e física em paralelo
 
-A noite de 23 ago 2025 do referendo da Usina Nuclear 3 jogou todas as contradições na tela de apuração.
+O referendo da Usina Nuclear 3 na noite de 23 de agosto de 2025 colocou todas as contradições desta questão na tela de apuração.
 
-74% a favor, 29,53% comparecimento, quórum não atingido, Taipower protocola em mar 2026, reinício mais cedo 2028. Simultaneamente: Lan Yü 97.672 barris, Onkalo Finlândia 50 anos, geotérmica 27× aquém, oceânica em 100 kW, 4ª geração em 2045. Cada número pergunta: **a velocidade da democracia acompanha a da física?**
+74% a favor, 29,53% de comparecimento, não atingiu o quórum, Taipower apresenta documentos em março de 2026, reinício mais rápido em 2028. Ao mesmo tempo: 97.672 barris em Lan Yü, Onkalo na Finlândia levou 50 anos, geotérmica com déficit de 27 vezes, energia oceânica ainda em 100 kW, quarta geração nuclear só em 2045. Cada número pergunta: **a velocidade da democracia consegue acompanhar a velocidade da física?**
 
-| Cronograma democrático             | Cronograma físico                            |
-| ---------------------------------- | -------------------------------------------- |
-| 23 ago 2025: apuração referendo    | Lan Yü 1982 inaugurado, 2057 talvez ainda lá |
-| 25 ago 2025: coletiva 3 princípios | Resíduos isolados 100 mil anos               |
-| 27 mar 2026: Taipower protocola    | Depósito final Finlândia 50 anos             |
-| 2028: reinício mais cedo           | Geotérmica 27× aquém                         |
-| 2050: meta net-zero                | Oceânica ainda em 100 kW teste               |
+| Cronograma democrático                   | Cronograma físico                                 |
+| ---------------------------------------- | ------------------------------------------------- |
+| 2025/08/23 apuração do referendo         | Lan Yü 1982 ativado, 2057 possivelmente ainda lá  |
+| 2025/08/25 coletiva dos três princípios  | Isolamento de resíduos nucleares por 100 mil anos |
+| 2026/03/27 Taipower apresenta documentos | Depósito final Finlândia levou 50 anos            |
+| 2028 reinício mais rápido                | Déficit geotérmico de 27 vezes                    |
+| 2050 meta de zero líquido                | Energia oceânica ainda em teste de 100 kW         |
 
-Ninguém sabe se 9 trilhões NT$ compram um futuro diferente. Mas as consequências de não gastar já começam a aparecer: 2060 sem inverno de Hsu, 2.884 mm de Morakot, rodízio do 513, ruptura do referendo dos recifes, 44 anos de espera de Lan Yü.
+Ninguém sabe se 9 trilhões de novos dólares taiwaneses podem comprar um futuro diferente. Mas as consequências de não gastar esse dinheiro já começamos a ver: o 2060 sem inverno de Hsu Huang-hsiung, os 2.884 mm de Morakot, o racionamento rotativo do 513, a ruptura do referendo dos recifes de algas, os 44 anos de espera de Lan Yü.
 
-[A PanSci reporta](https://pansci.asia/archives/367417) citando consenso do setor: **"O depósito final mais avançado no mundo é o Onkalo da Finlândia, licença experimental em ago 2024. Do planejamento nos anos 1970 até aqui, quase meio século"**[^29]. Depósito final de Taiwan nem escolha de local tem. Mesmo se Usina Nuclear 3 reiniciar em 2028, **cada nova barra de combustível produzida no período também precisará de lugar**.
+A [reportagem da PanSci](https://pansci.asia/archives/367417) cita consenso do setor apontando que **"o depósito final mais avançado do mundo é o projeto Onkalo da Finlândia, que obteve licença de operação de teste em agosto de 2024. Este projeto começou a ser planejado nos anos 1970 e levou quase meio século para chegar à etapa de teste"**[^29]. O depósito final de Taiwan nem sequer tem local definido. Mesmo que a Usina Nuclear 3 reinicie em 2028, cada nova barra de combustível gerada durante o reinício também precisará de um lugar para ir.
 
-Os 97.672 barris de Lan Yü não somem porque referendo passou ou não. Estão lá agora, 2029 provavelmente ainda lá, 2057 (se transferência furar de novo) ainda lá.
+Os 97.672 barris de Lan Yü não vão desaparecer seja qual for o resultado do referendo. Eles estão lá agora, provavelmente ainda estarão lá em 2029, e em 2057 (se a transferência derrapa de novo) ainda estarão lá.
 
-✦ **23 ago 2025: referendo falhou. 27 mar 2026: Taipower protocolou mesmo assim. Entre estas duas datas, o limite físico não mudou uma única vez. O que mudou foi nossa disposição de admitir que esta ilha de 98% energia importada está na fila para encarar todos os limites físicos que ninguém quer encarar.**
+✦ **Em 23 de agosto de 2025, o referendo não passou. Em 27 de março de 2026, a Taipower mesmo assim apresentou os documentos. Entre essas duas datas, o limite físico não mudou nenhuma vez. O que mudou foi nossa disposição em admitir que esta ilha, 98% dependente de energia importada, está na fila para encarar todos os limites físicos que ninguém quer encarar.**
 
 ---
 
 **Leitura complementar**:
 
-- [Taiwan e o debate nuclear](/pt/society/taiwan-nuclear-debate) — Este artigo trata de energia e limites físicos; aquele trata do debate nuclear em si: 40 anos anti/pro-nuclear, três referendos e a disputa social dos resíduos de Lan Yü
-- [História do movimento ambiental em Taiwan](/nature/台灣環境運動史) — Do anti-nuclear ao anti-poluição do ar, como Tao de Lan Yü, Meinong contra reservatório, referendo dos recifes moldaram a política energética de hoje
-- [Desafios de governança e conservação da poluição marinha em Taiwan](/pt/nature/marine-pollution-governance-and-conservation) — 80% corais branqueados na saída da Usina Nuclear 3, lixo marinho e cruzamento ecológico com eólica offshore
-- [Termas e geotérmica em Taiwan](/pt/nature/Taiwan Hot Springs and Geothermal Energy) — Do fracasso de Chingshui 1981 à reativação 2024, 30 anos de silêncio geotérmico como se formaram
-- [Justiça ambiental e disputas NIMBY em Taiwan](/pt/society/taiwan-environmental-justice-nimby-conflicts) — Lan Yü, recifes, Meinong: a política da distribuição dos custos da transição energética
-- [Atualização da transformação industrial em Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) — Da manufatura intensiva em energia à indústria verde, TSMC RE100, CBAM, a conta energética da "montanha sagrada protetora"
-- [Desenvolvimento da modernização agrícola em Taiwan](/pt/economy/taiwan-agricultural-modernization) — Pressão de transformação agrícola e conflitos de uso da terra por trás da agrovoltaica
-- [Meiyu (estação das chuvas)](/pt/nature/meiyu-stagnant-front) — "Chuva de primavera não vem, meiyu concentrada": observação local da mudança climática
+- [Taiwan e a discussão nuclear](/pt/society/taiwan-nuclear-debate) — Este artigo trata de energia e limites físicos; aquele trata do debate nuclear em si: quarenta anos de antinuclear/pronuclear, três referendos e a luta social em torno dos resíduos nucleares de Lan Yü
+- [História do movimento ambiental de Taiwan](/pt/nature/taiwan-environmental-movement-history) — Do antinuclear ao contra poluição do ar, como os Tao de Lan Yü, o contra represa de Meinong e o referendo dos recifes de algas moldaram a política energética de hoje
+- [Governança e desafios de conservação da poluição marinha de Taiwan](/pt/nature/marine-pollution-governance-and-conservation) — 80% de branqueamento de corais na saída de água da Usina Nuclear 3, resíduos marinhos e a interseção ecológica com eólica offshore
+- [Fontes termais e geotérmica de Taiwan](/pt/nature/Taiwan Hot Springs and Geothermal Energy) — Do fracasso da geotérmica de Chingshui em 1981 ao reinício em 2024, como se formaram 30 anos de silêncio geotérmico
+- [Justiça ambiental e conflitos NIMBY de Taiwan](/pt/society/taiwan-environmental-justice-nimby-conflicts) — Lan Yü, recifes de algas, Meinong: a política de distribuição dos custos da transição energética
+- [Transformação e atualização industrial de Taiwan](/pt/economy/industrial-transformation-from-manufacturing-to-innovation) — Da manufatura de alto consumo energético à indústria de energia verde, a conta energética da TSMC RE100, CBAM, montanha sagrada protetora
+- [Árvores de rua de Taiwan](/lifestyle/台灣行道樹) — A sombra das árvores de rua como adaptação à ilha de calor urbana em escala de espaço e tempo: árvores levam pelo menos dez anos para crescer o suficiente para dar sombra, é o item de adaptação que menos pode esperar nesta linha
+- [Desenvolvimento da modernização agrícola de Taiwan](/pt/economy/taiwan-agricultural-modernization) — Pressão de transformação agrícola e conflitos de uso da terra por trás da simbiose agrovoltaica
+- [Meiyu](/pt/nature/meiyu-stagnant-front) — Observação local da mudança climática: "chuva de primavera não vem, meiyu concentrado"
 
 ## Fontes das imagens
 
