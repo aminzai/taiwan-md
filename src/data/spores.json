@@ -1,9 +1,9 @@
 {
-  "_generated": "2026-08-04T06:40:52+08:00",
+  "_generated": "2026-08-04T14:25:53+08:00",
   "schemaVersion": 1,
   "counts": {
-    "spores": 156,
-    "articles": 76,
+    "spores": 159,
+    "articles": 77,
     "withMetrics": 146
   },
   "spores": [
@@ -9092,6 +9092,66 @@
           "shares": null
         }
       ]
+    },
+    {
+      "id": 167,
+      "slug": "台灣海關報關制度與EZWAY",
+      "articlePath": "knowledge/Lifestyle/台灣海關報關制度與EZWAY.md",
+      "articleUrl": "/lifestyle/台灣海關報關制度與EZWAY/",
+      "lang": "zh",
+      "platform": "threads",
+      "date": "2026-08-04",
+      "url": "https://www.threads.com/@taiwandotmd/post/Dbm5PdXE181",
+      "template": "B 冷知識型 + 問題入口（惡意炒作語境立體化改寫 v12）",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
+    },
+    {
+      "id": 168,
+      "slug": "台灣海關報關制度與EZWAY",
+      "articlePath": "knowledge/Lifestyle/台灣海關報關制度與EZWAY.md",
+      "articleUrl": "/lifestyle/台灣海關報關制度與EZWAY/",
+      "lang": "zh",
+      "platform": "x",
+      "date": "2026-08-04",
+      "url": "https://x.com/taiwandotmd/status/2084520918441951650",
+      "template": "B 冷知識型 + 問題入口（惡意炒作語境立體化改寫 v12）",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
+    },
+    {
+      "id": 169,
+      "slug": "台灣海關報關制度與EZWAY",
+      "articlePath": "knowledge/Lifestyle/台灣海關報關制度與EZWAY.md",
+      "articleUrl": "/lifestyle/台灣海關報關制度與EZWAY/",
+      "lang": "zh",
+      "platform": "facebook",
+      "date": "2026-08-04",
+      "url": "https://www.facebook.com/61576525376323/posts/pfbid0BG8mE9DJ9JBrryDXSSnXDDLJZUVZmycvsMAzea6MuVcK2gMhUCtF9Bx9x9iXtHNAl",
+      "template": "B 冷知識型 + 問題入口（惡意炒作語境立體化改寫 v12）",
+      "metrics": {
+        "views": null,
+        "likes": null,
+        "reposts": null,
+        "comments": null,
+        "shares": null
+      },
+      "metricsAsOf": null,
+      "history": []
     }
   ],
   "byArticle": {
@@ -9111,6 +9171,7 @@
     "台灣宗教與寺廟文化": [6, 7],
     "台灣感性": [15],
     "台灣民主轉型": [10],
+    "台灣海關報關制度與EZWAY": [167, 168, 169],
     "台灣無人機產業": [70],
     "台灣美食總覽": [97, 98],
     "台灣與史瓦帝尼": [61, 62],

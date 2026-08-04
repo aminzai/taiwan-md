@@ -33,6 +33,19 @@ rationale:
   whos_pushing_back: '關務署長彭英偉三點澄清（非強制／防個資外洩／不向民眾收費）逐字完整呈現；官方否認「逕行收回公營」的措辭差異照實寫；「獨家壟斷」框架被汎宇電商自願退出的事實削弱；質疑方林岱樺與被質詢的關務署同屬執政體系，不套藍綠攻防；EZ WAY 至今無已發生的個資外洩或資安裁罰紀錄，與治理疑慮並陳。'
 relatedDiary:
   - 2026-08-04-092431-ezway-rewrite
+sporeLinks:
+  - id: 169
+    platform: 'facebook'
+    date: '2026-08-04'
+    url: 'https://www.facebook.com/61576525376323/posts/pfbid0BG8mE9DJ9JBrryDXSSnXDDLJZUVZmycvsMAzea6MuVcK2gMhUCtF9Bx9x9iXtHNAl'
+  - id: 167
+    platform: 'threads'
+    date: '2026-08-04'
+    url: 'https://www.threads.com/@taiwandotmd/post/Dbm5PdXE181'
+  - id: 168
+    platform: 'x'
+    date: '2026-08-04'
+    url: 'https://x.com/taiwandotmd/status/2084520918441951650'
 ---
 
 # 台灣海關報關與 EZ WAY：按下「申報相符」的那一下，你委任了誰
