@@ -1,99 +1,101 @@
 ---
-title: 'Chiung Wi-vun: The Buffalo Warrior of Taiwanese Language Movement'
-description: 'Why did a mechanical engineering graduate become the most radical advocate for Taiwanese language rights? From his 2011 protest banner against Huang Chun-ming to becoming a Vietnam studies expert, Chiung Wi-vun embodies the belief that language equals identity.'
+title: 'Chang Wei-wen: The Taiwan Buffalo of the Taiwan Literary Movement'
+description: "How did a mechanical engineering graduate become one of the most radical advocates for Taiwan's native language? From protesting Huang Chun-ming in 2011 to becoming a Vietnam studies expert, Chang Wei-wen embodies the belief that language is identity."
 date: 2026-03-23
 category: 'People'
-subcategory: 'Academia and Education'
 tags:
   [
-    'Linguist',
-    'Taiwanese Language Movement',
+    'Linguists',
+    'Taiwan Literary Movement',
     'Mother Tongue Education',
     'Vietnam Studies',
   ]
+subcategory: '學術與教育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-23
 lastHumanReview: true
+curation: 'incubating'
 translatedFrom: 'People/蔣為文.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:46faaa4a99788548'
 sourceBodyHash: 'sha256:161cfe479ea8068c'
-translatedAt: '2026-04-14T12:25:09+08:00'
+translatedAt: '2026-08-04T14:00:17+08:00'
 ---
 
-> **30-Second Overview:** Chiung Wi-vun, the most radical advocate of the Taiwanese language movement, sparked island-wide controversy in 2011 when he held up a protest banner at the Taiwan Literature Museum declaring "Taiwanese writers who don't use Taiwanese language but create in Chinese are shameful!" This Tamkang mechanical engineering graduate later became one of Taiwan's few Vietnamese language experts and now serves as chair of NCKU's Department of Taiwanese Literature. He has spent 30 years proving that language is not just a tool, but the core battlefield of national identity.
+> **30-Second Overview:** Chang Wei-wen, one of the most radical proponents of the Taiwan literary movement, sparked a nationwide debate in 2011 when he held up a protest sign at the Taiwan Literary Museum, stating: "It is shameful that Taiwanese writers do not use the Taiwan language but use Chinese to create!" This scholar, a graduate of Tamkang University's Department of Mechanical Engineering, later became one of the few experts in Taiwan proficient in Vietnamese and currently serves as the Chair of the Department of Taiwan Literature at National Cheng Kung University (NCKU). Over 30 years, he has proven that language is not merely a tool, but the core battlefield of ethnic identity.
 
-A mechanical engineering student at Tamkang University established a "Taiwanese Language Society" in the early 1990s, launching a movement that would potentially reshape Taiwan's linguistic landscape. Chiung Wi-vun's English name "Taiffalo" is short for "Taiwan Buffalo"—a choice that hints at how he sees himself: a Taiwan water buffalo laboring tirelessly in the fields of language and culture, undaunted by hardship.
+In the early 1990s, a student from the Department of Mechanical Engineering at Tamkang University founded the "Taiwan Language and Literature Club," initiating a movement that could rewrite Taiwan's linguistic landscape. Chang Wei-wen's English name, "Taiffalo," is an abbreviation for "Taiwan Buffalo"—a choice that suggests his self-defined role: a Taiwan buffalo silently tilling the fields of language and culture, undeterred by hardship.
 
-## From Machinery to Language: An Unexpected Turn
+## From Engineering to Linguistics: An Unexpected Turn
 
-Born in Gangshan, Kaohsiung in 1971, Chiung Wi-vun initially followed a typical engineering path. But during his studies at Tamkang University's Department of Mechanical Engineering, he made a life-changing decision: founding the Taiwanese Language Society and obtaining a _Pe̍h-ōe-jī_ (Romanized Taiwanese) textbook from the Presbyterian Church in Taiwan.
+Born in 1971 in Gangshan, Kaohsiung, Chang Wei-wen originally followed a typical STEM path. However, while studying mechanical engineering at Tamkang University, he made a decision that altered his life's trajectory: founding the Taiwan Language and Literature Club and obtaining a _Pe̍h-ōe-jī_ (Romanized script) textbook from the Presbyterian Church in Taiwan.
 
-This was Taiwan in the early 1990s, when indigenous consciousness was just beginning to emerge, and written Taiwanese remained an extremely marginal cultural movement. Chiung began studying the seemingly simple yet complex question of "how to write Taiwanese." In 1996, he made his literary debut with the Taiwanese-language collection _Hai-ông_ (Sea Whale), when he was just 25 years old.
+It was the early 1990s in Taiwan; local consciousness was just beginning to bud, and writing in the Taiwan language remained an extremely marginal cultural movement. Chang Wei-wen began researching the seemingly simple yet profoundly complex question of "how to write in the Taiwan language." In 1996, at the age of only 25, he made his literary debut with the collection of Taiwan-language writings, _Hâi-ông_ (The Sea Man).
 
 > **📝 Curator's Note**
-> Chiung's shift from mechanical engineering to linguistics wasn't accidental. The 1990s marked Taiwan's post-martial law indigenous cultural revival, when many young people began reconsidering the question "Who am I?" Chiung's choice to approach this through language and writing suggests he understood that controlling language means controlling discourse power.
+> Chang Wei-wen's shift from mechanical engineering to linguistics was no accident. The 1990s coincided with the resurgence of local culture following Taiwan's democratization and lifting of martial law; many young people began rethinking the question of "Who am'I?" Chang chose to approach this through language and script, perhaps realizing that controlling language means controlling the power of discourse.
 
-## 2011: The Banner That Changed Taiwan's Literary World
+## 2011: The Poster That Changed Taiwanese Literature
 
-May 24, 2011, at the Taiwan Literature Museum. Writer Huang Chun-ming was delivering a lecture on "Deliberations on Taiwanese Language Writing and Education" when Chiung Wi-vun in the audience suddenly raised a large banner: "Taiwanese writers who don't use Taiwanese language but create in Chinese are shameful!" (台湾作家不用台湾语文，却用中国语創作，可恥！) Below it, in Taiwanese _Pe̍h-ōe-jī_: "Tâi-oân chok-ka ài iōng Tâi-oân-gí chhòng-chok" (Taiwanese writers should create in Taiwanese language).
+May 24, 2011, at the Taiwan Literary Museum. As writer Huang Chun-ming was delivering a lecture titled "Discussions on Writing and Education in the Taiwan Language," Chang Wei-wen suddenly raised a large protest sign: "It is shameful that Taiwanese writers do not use the Taiwan language but use Chinese to create!" Simultaneously, he displayed the text written in _Pe̍h-ōe-jī_: "_Tâi-oân chok-ka ài iōng Tâi-oân-gí chhùng-chok_" (Taiwanese writers must use the Taiwan language for their creations).
 
-Huang Chun-ming flew into a rage, removing his shirt and charging down from the podium to verbally assault Chiung, even using profanity to call him a "howling beast." This confrontation became known as the "524 Taiwan Literature Incident," one of the most controversial public debates in Taiwan's literary history.
+Huang Chun-ming was incensed; he stripped off his shirt and rushed toward Chang, shouting insults and even using profanity to call him a "beast that knows how to bark." This confrontation, known in the media as the "524 Taiwan Literature Incident," became one of the most controversial public debates in the history of Taiwan's literature.
 
-The legal aftermath was equally dramatic: Chiung sued Huang for public insult, and in 2012 Tainan District Court found Huang guilty, imposing a fine of NT$10,000 with a two-year suspended sentence. Though Tainan High Court later changed the verdict to exemption from punishment, one phrase in the judgment was telling: "Huang is an important literary author who was provoked, and the insult was minor."
+The legal consequences were equally dramatic: Chang Wei-wen sued Huang Chun-ming for public insult. In 2012, the Tainan District Court found Huang guilty, imposing a fine of 10,000 TWD and a two-scale suspended sentence. Although the Tainan High Court later overturned the sentence, one line in the judgment was particularly poignant: "Huang is an important literary writer; the provocation and insult were minor."
 
 > **⚠️ Controversial Perspectives**
-> Chiung's protest method triggered polarized reactions. Supporters saw him as courageously challenging the hegemonic position of Chinese-language literature; critics considered his approach too radical, undermining civilized academic discourse. The Taiwan Literature Pen Association even published a book _The Truth About Chiung Wi-vun's Protest Against Huang Chun-ming_ in his defense.
+> Chang Wei-wen's method of protest elicited polarized reactions. Supporters believed he bravely challenged the hegemony of Chinese-language literature, while critics argued his methods were too radical and undermined the civilized atmosphere of academic discussion. The Taiwan Literature Writing Association even published a book, _The Truth Behind Chang Wei-wen's Protest Against Huang Chun-ming_, to defend him.
 
-## Theoretical Architect of the De-Sinicization Movement
+## The Theorist of "De-Sinicization"
 
-Chiung's radical stance wasn't an emotional reaction but built on solid academic foundations. He went abroad to study in 1996, earning a Ph.D. in Linguistics from the University of Texas at Arlington in 2003, focusing on "theoretical discourse of de-Sinicization movements within the Chinese character cultural sphere."
+Chang Wei-wen's radical stance was not an emotional reaction but was built upon a deep academic foundation. He went abroad to study in 1996 and earned a PhD in Linguistics from the University of Texas at Arlington in 2003, focusing his research on "the theoretical discourse of de-Sinicization movements within the Sinosphere."
 
-His core argument: Within the Chinese character cultural sphere, using Chinese characters to write indigenous languages is essentially still cultural colonialism. True linguistic independence must be based on a Romanization writing system. This theoretical framework made him the most radical wing of the Taiwanese language movement—not just speaking Taiwanese, but writing it in Roman letters.
+His core argument is that within the Sinosphere, using Chinese characters to write indigenous languages remains, in essence, a form of cultural colonialism. True linguistic independence must be built upon a Romanized writing system. This theoretical framework positioned him as the most radical wing of the Taiwan language movement—advocating not just for speaking the Taiwan language, but for writing it in Roman script.
 
-Currently serving as president of the Taiwan Romanization Association, he advocates for the _Pe̍h-ōe-jī_ writing system. In his view, _Pe̍h-ōe-jī_ isn't just a phonetic tool, but the legitimate writing form for Taiwanese literature.
+He currently serves as the President of the Taiwan Romanization Association, dedicated to promoting the _Pe̍h-ōe-jī_ (Romanized) writing system. In his view, _Pe̍h-ōe-jī_ is not just a phonetic tool, but the legitimate script for Taiwan's literature.
 
-## Unexpected Expertise in Taiwan-Vietnam Studies
+## An Unexpected Expertise in Taiwan-Vietnam Studies
 
-Even more surprising is Chiung's later emergence as one of Taiwan's few scholars fluent in Vietnamese. Beginning Taiwan-Vietnam comparative studies in 1997, he discovered that Vietnam's language policy experience offers important insights for Taiwan: Vietnam began using Romanization during the French colonial period, successfully breaking free from the Chinese character system.
+Even more surprisingly, Chang Wei-wen later became one of the very few scholars in Taiwan's academic community proficient in Vietnamese. Since beginning comparative studies between Taiwan and Vietnam in 1997, he discovered that Vietnam's linguistic policy experience offers vital inspiration for Taiwan: during the French colonial period, Vietnam began using a Romanized script, successfully breaking free from the constraints of the Chinese character system.
 
-In 2011, Chiung received the "Outstanding Medal for Vietnam Studies" from the Vietnam Academy of Social Sciences—an extremely rare honor for Taiwanese scholars. He now serves as director of NCKU's Vietnam Research Center and is the chief developer of the "International Vietnamese Proficiency Test" (iVPT).
+In 2011, Chang Wei-wen was awarded the "Medal of Outstanding Achievement in Vietnam Studies" by the Vietnam Academy of Social Sciences—an honor extremely rare for a Taiwanese scholar. He currently serves as the Director of the Vietnam Studies Center at NCKU and is the lead developer for the "International Vietnamese Proficiency Test" (iVPT).
 
 > **💡 Did You Know?**
-> Chiung's Vietnam studies isn't purely academic interest, but serves to construct theoretical foundations for comparative linguistics. In his theory, Vietnam successfully escaped Chinese characters, Korea partially escaped, Japan uses them mixed, while Taiwan remains deeply trapped—this represents a progressive "de-Sinicization spectrum."
+> Chang Wei-wen's research into Vietnam was not merely an academic interest, but a way to construct a theoretical basis for comparative linguistics. In his theory, Vietnam successfully escaped Chinese characters, Korea partially escaped them, and Japan uses them in combination, while Taiwan remains deeply bound by Chinese characters—this represents a progressive "De-Sinicization Spectrum."
 
 ## Academic Achievements and Social Impact
 
-Chiung's academic output is remarkable, from 1996's _Hai-ông_ to 2024's _Tang Mountain Crossing Vietnam: Identity Transformation and Localization Studies of Vietnamese Minh Hương People_, he has published over 30 monographs covering Taiwanese literature, Vietnam studies, and language certification.
+Chang Wei-wen's academic output is staggering. From the 1996 _Hâi-ông_ to the 2024 _Passing through China to Vietnam: A Study on the Identity Transformation and Localization of the Hoa people_, he has published over 30 books covering fields such as Taiwan literature, Vietnam studies, and language certification.
 
-He's also chief developer of the "National Taiwanese Language Proficiency Test," a system attempting to establish standardized assessment mechanisms for Taiwanese language ability. Under his leadership, NCKU's Taiwan Language Testing Center has become one of Taiwan's most important Taiwanese language research institutions.
+He is also the lead developer for "Universal Taiwan Language Certification," a testing system that attempts to establish a standardized measurement mechanism for proficiency in the Taiwan language. Under his promotion, the NCKU Taiwan Language Testing Center has become one of the most important institutions for Taiwan language research in Taiwan.
 
-Currently serving as chair of NCKU's Department of Taiwanese Literature, he continues training new generations of Taiwanese literature researchers. In the classroom, he insists on teaching in Taiwanese, practicing his belief in "speak Taiwanese, write Taiwanese."
+Currently serving as the Chair of the Department of Taiwan Literature at NCKU, he continues to cultivate the next generation of researchers. In his classrooms, he insists on teaching in the Taiwan language, practicing his own philosophy of "speaking Taiwan, writing Taiwan literature."
 
 ## Controversy and Reflection
 
-Chiung's radical stance remains controversial. Even within the Taiwanese language movement, many consider his "full Romanization" position too extreme. Some faculty and students in NCKU's Department of Taiwanese Literature disagree with his approach, believing his methods might hinder mainstreaming of the Taiwanese language movement.
+Chang Wei-wen's radical position has always been fraught with controversy. Even within the Taiwan language movement, many believe his "full Romanization" advocacy is too extreme. Some faculty and students in the NCKU Department of Taiwan Literature also hold differing opinions, fearing his methods might hinder the mainstreaming of the movement.
 
-From another perspective, precisely because "extremists" like Chiung exist, the movement's moderates have bargaining space. His presence makes the "Chinese-Roman mixed script" compromise appear rational and feasible.
+However, from another perspective, it is precisely because of the existence of "extremists" like Chang Wei-wen that the moderates in the Taiwan language movement have room to negotiate. His presence makes the compromise solution of "using both Chinese characters and Romanization" appear rational and feasible.
 
-> **✦** "Language is identity, identity is politics. Those unwilling to face the political nature of language issues are making the biggest political statement of all." —Chiung Wi-vun
+> **✦** "Language is identity; identity is politics. Those who are unwilling to face the political nature of language issues are, themselves, making the greatest political statement." — Chang Wei-wen
 
 ## Reflections After 30 Years
 
-From establishing the Taiwanese Language Society in the early 1990s to now, Chiung has dedicated 30 years to the Taiwanese language movement. In these three decades, Taiwanese's social status has indeed improved—the National Languages Development Act was passed, indigenous languages were incorporated into national education curricula—but this remains far from his ideal of "linguistic equality."
+From founding the Taiwan Language and Literature Club in the early 1990s to the present, Chang Wei-wen has been dedicated to the Taiwan language movement for 30 years. During these three decades, the social status of the Taiwan language has indeed risen—with the passage of the _National Languages Development Act_ and the inclusion of indigenous languages in the national curriculum—yet a vast gap remains from his ideal of "linguistic equality."
 
-Recent surveys show Taiwanese-speaking populations continue declining, with younger generations generally lacking Taiwanese language ability. Facing this reality, does Chiung's persistence still matter? Or perhaps, precisely because trends are so dire, someone must play the role of "language guardian"?
+Recent surveys show that the population using the Taiwan language continues to decline, and the proficiency of the younger generation is generally insufficient. Faced with this reality, does Chang Wei-swen's persistence still hold meaning? Or, precisely because the trend is so dire, is it even more necessary for someone to play the role of "guardian of the language"?
 
-Chiung has answered this question with his academic career: even when labeled a "radical," even when bearing various controversies and criticisms, he still believes linguistic rights are basic human rights, still believes Taiwanese literature has irreplaceable value.
+Chang Wei-wen answers this question through his academic career: even when labeled an "extremist," and even when facing various controversies and criticisms, he still believes that linguistic rights are fundamental human rights, and he still believes that Taiwan literature possesses irreplaceable value.
 
-This scholar who calls himself "Taiwan Buffalo" has labored quietly in language's fields for 30 years, perhaps embodying exactly the kind of persistence Taiwan needs—asking not about harvest, only about cultivation.
+This scholar, who calls himself the "Taiwan Buffalo," has silently tilled the fields of language for 30 years. Perhaps he is exactly the kind of persistent figure Taiwan needs—one who asks not about the harvest, but only about the cultivation.
 
 ## References
 
-- [Prof. Chiung Wi-vun's Profile](https://twl.ncku.edu.tw/p/405-1143-114277,c10606.php?Lang=zh-tw)
-- [Chiung Wi-vun - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%94%A3%E7%82%BA%E6%96%87)
-- [NCKU Statement on Professor Chiung Wi-vun's Protest](https://web.ncku.edu.tw/p/404-1000-79266.php?Lang=zh-tw)
-- [Huang Chun-ming Sentenced to Suspended Sentence for "Shameful" Protest Response](https://www.ettoday.net/news/20120402/36278.htm)
+- [Professor Chang Wei-wen's Personal Page](https://twl.ncku.edu.tw/p/405-1143-114277,c10606.php?Lang=zh-tw)
+- [Chang Wei-wen - Wikipedia](https://zh.wikipedia.org/zh-tw/%E8%94%A3%E7%82%BA%E6%96%87)
+- [Explanation regarding the protest by Associate Professor Chang Wei-wen of the Department of Taiwan Literature at this university at the Taiwan Literary Museum](https://web.ncku.edu.tw/p/404-1000-79266.php?Lang=zh-tw)
+- [Lecture protested as "shameful"; Huang Chun-ming responds with five words and a two-year suspended sentence](https://www.ettoday.net/news/20120402/36278.htm)
+- [Huang Chun-ming insulted Chang Wei-wen with "XXXXX"; guilty verdict and suspended sentence finalized](https://www.ettoday.net/news/20120906/99026.htm)
 - [Taiwan Romanization Association](https://tlh.org.tw/tai/)
-- [NCKU Vietnam Research Center Publishes First Vietnamese Textbook](https://www.peopo.org/news/111635)
+- [NCKU Vietnam Studies Center releases first Vietnamese language teaching materials](https://www.peopo.org/news/111635)

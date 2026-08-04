@@ -1,62 +1,63 @@
 ---
-translatedFrom: 'People/朱一貴.md'
-sourceCommitSha: 'f99a9959'
-sourceContentHash: 'sha256:59a6177c37cf5305'
-sourceBodyHash: 'sha256:731cd7121531d2ac'
-translatedAt: '2026-05-01T14:11:02+08:00'
-title: "Chu Yi-kuei, the Duck King: Taiwan's First Self-Proclaimed King and Rebel Leader"
-description: 'An account of the 1721 Chu Yi-kuei Incident — from a duck farmer to a self-proclaimed king — and the far-reaching effects the uprising had on Qing dynasty governance policy in Taiwan.'
+title: "King Duck Zhu Yigui: Taiwan's First Insurgent Leader to Proclaim Himself King"
+description: 'An exploration of the 1721 Zhu Yigui Incident, tracing the legendary journey from a duck farmer to an independent king and its profound impact on Qing dynasty governance in Taiwan.'
 date: 2026-03-24
+category: 'People'
 tags:
   [
-    'Taiwan history',
-    'Qing period',
-    'civil uprising',
-    'Chu Yi-kuei',
-    'Duck King',
+    'Taiwan History',
+    'Qing Dynasty Rule',
+    'Civil Uprisings',
+    'Zhu Yigui',
+    'King Duck',
   ]
-subcategory: 'Historical Figures'
+subcategory: '歷史人物'
 author: 'Taiwan.md Contributors'
 readingTime: 6
 featured: false
 lastVerified: 2026-03-24
 lastHumanReview: false
-category: People
+curation: 'incubating'
+translatedFrom: 'People/朱一貴.md'
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:59a6177c37cf5305'
+sourceBodyHash: 'sha256:731cd7121531d2ac'
+translatedAt: '2026-08-04T14:32:57+08:00'
 ---
 
-# Chu Yi-kuei, the Duck King: Taiwan's First Self-Proclaimed King and Rebel Leader
+# King Duck Zhu Yigui: Taiwan's First Insurgent Leader to Proclaim Himself King
 
 ## 30-Second Overview
 
-Chu Yi-kuei was the leader of the first large-scale civil uprising during Taiwan's period of Qing rule. Invoking the title of "descendant of the Ming royal house" and a legend surrounding his ability to command ducks, he seized the prefectural capital within just over ten days and proclaimed himself king. Although his regime lasted only two months, it fundamentally altered the Qing court's defensive and ethnic governance strategies for Taiwan.
+Zhu Yigui was the leader of the first large-scale civil uprising in Taiwan during the Qing dynasty. Leveraging his legend as a duck farmer and the banner of "descendant of the Great Ming," he captured the prefectural capital within just over ten days and proclaimed himself king. Although his regime lasted only two months, it fundamentally altered the Qing court's defense and ethnic governance strategies for Taiwan.
 
-Chu Yi-kuei (1690–1722) was a native of Zhangzhou, Fujian, who crossed to Taiwan during the Kangxi reign and settled in Neipu (then called Lohan Gate) in present-day Kaohsiung. He raised ducks there for a living. Legend held that he could command his flock to march in military formation, earning him the honorific "Duck King" (鴨母王). In 1721 (the 60th year of the Kangxi reign), Taiwan Prefect Wang Zhen's heavy-handed extortion — official oppression so severe that the people were driven to revolt — prompted Chu Yi-kuei and Du Junying and others to launch an uprising. Because Chu shared the surname Zhu with the Ming imperial house, the rebel forces raised the banner of "Restoration of the Great Ming" and rapidly drew tens of thousands to their cause.
+Zhu Yigui (1690–1722) was a native of Zhangzhou, Fujian, who migrated to Taiwan during the Kangxi era and settled in Neimen, Kaohsiung (formerly known as Luohanmen). He made his living raising ducks; legend has it he could command flocks of ducks to march, earning him the title "King Duck" (_Yamu Wang_). In 1721 (the 60th year of Kangxi), due to the predatory taxation and corruption of the Taiwan Prefect Wang Zhen, which drove the people to rebellion, Zhu Yigui and Du Junying launched an uprising. Because Zhu shared a surname with the Ming imperial family, the insurgents rallied tens of thousands under the banner of "Restoring the Great Ming."
 
-## The Fall of the Prefectural Capital and the Short-Lived Regime
+## The Fall of the Prefectural Capital and the Short-lived Regime
 
-The rebel forces swept forward with remarkable speed, capturing the prefectural capital of Taiwan (present-day Tainan) in only 13 days. Chu Yi-kuei was then elevated to the title "King of Restoration" (中興王) and established the reign title "Yonghe." He appointed officials, established a governmental structure, and required his followers to cut off their Manchu-style queues and restore Ming-dynasty dress. However, internal divisions based on provincial origin emerged within the rebel army. Chu Yi-kuei (from Zhangzhou) and Du Junying (from Chaozhou) fell into an internal conflict that sapped the army's fighting strength.
+The insurgent forces advanced with unstoppable momentum, capturing Taiwan's prefectural capital (modern-day Tainan) in just 13 days. Zhu Yigui was subsequently elevated to the title of "King of Restoration" (_Zhongxing Wang_), establishing the era name "Yonghe." He appointed officials and ordered his followers to cut off their queues and restore Ming-style clothing. However, internal friction arose within the rebel ranks due to differences between Min (Hokkien) and Yue (Hakka/Teochew) lineages; infighting broke out between Zhu Yigui (of Zhangzhou origin) and Du Junying (of Chaozhou origin), weakening their military strength.
 
 ## The End of the Legend
 
-The Qing court responded in alarm, dispatching Lan Tingzhen, the General of Nan'ao, and Shi Shipiao, the Commander of Naval Forces, to cross the Taiwan Strait and suppress the uprising. Under overwhelming Qing firepower and ethnic-divide tactics, the rebel army retreated steadily. Chu Yi-kuei was ultimately captured at Gou-wei Village (present-day Taibao, Chiayi) and escorted to Beijing, where he was executed by slow slicing (凌遲). He was 32 years old.
+Shocked by the news, the Qing court dispatched the Commander of Nan'ao, Lan Tingzhen, and the Admiral of the Navy, Shi Shibiao, to lead troops across the sea for suppression. Under the pressure of the Qing military's superior firepower and strategies exploiting ethnic divisions, the rebel forces were driven back step by step. Zhu Yigui was eventually captured in Gouwei Village (modern-day Taibao, Chiayi) and transported to Beijing, where he was executed via death by a thousand cuts (_lingchi_) at the age of 32.
 
 ## A Turning Point in Governance Policy
 
-The Chu Yi-kuei Incident represented the gravest governance crisis that the Qing dynasty had faced since acquiring Taiwan. Before this event, the Qing had maintained a policy of "not building walled cities" in Taiwan, fearing that fortifications captured by rebels would be difficult to retake. Following the incident, supervising censors of Taiwan recommended constructing a wooden palisade around the prefectural capital — an initiative that became the starting point for Taiwan's urban defensive infrastructure.
+The Zhu Yigui Incident was the largest governance crisis for the Qing dynasty after its acquisition of Taiwan. Prior to this, the Qing court maintained a "no fortification" policy, fearing that if walled cities were captured by rebels, they would be difficult to retake. Following the incident, the Censor-in-Chief of Taiwan recommended the construction of the Wuzha Fort in the prefectural capital, marking the beginning of Taiwan's urban defense system.
 
-## The Politics of Ethnicity in the Uprising
+## The Tug-of-War in Ethnic Politics
 
-The incident also marked a deepening of the complexity of ethnic relations in Taiwan. Although the uprising initially featured cooperation between Hokkien-speaking (Min) and Cantonese-speaking (Yue) settlers, the subsequent internal conflict triggered severe inter-ethnic violence. The Qing court drew lessons from this, recognizing the utility of "using Taiwan to govern Taiwan." It began leveraging the strength of Yue-native (Hakka) populations to check Min-native (Zhangzhou and Quanzhou) resistance — a strategy that planted the seeds for the prolonged inter-ethnic armed conflicts (分類械鬥) that would characterize later Qing-period Taiwan.
+This event also marked the increasing complexity of ethnic relations in Taiwan. While there was initial cooperation between Min and Yue groups at the start of the uprising, subsequent infighting triggered severe ethnic conflict. The Qing court recognized the political utility of "governing Taiwan with the people of Taiwan," beginning to utilize Yue (Hakka) forces to counterbalance Min (Quanzhou-Zhangzhou) resistance—a move that laid the groundwork for the long-term pattern of localized clan feuds (_xiedou_) in Taiwan.
 
 ## Contemporary Significance and Cultural Memory
 
-In Taiwan's folk religion, Chu Yi-kuei has not been forgotten despite his defeat. The Neipu area still circulates many legends about him, and there are even temples that enshrine him as a deity. He is regarded as a symbol of resistance to oppression and the pursuit of self-determination. His image as the "Duck King" appears frequently in contemporary drama and literary works.
+In Taiwanese folk religion, Zhu Yigui has not been forgotten despite his defeat. In the Neimen area, many legends about him still circulate today, and some temples even enshrine him as a deity. He is viewed as a symbol of resistance against oppression and the pursuit of autonomy, and his "King Duck" persona frequently appears in modern drama and literary works.
 
 ## References
 
-- [Wikipedia: Chu Yi-kuei](https://zh.wikipedia.org/zh-tw/%E6%9C%B1%E4%B8%80%E8%B2%B4)
-- [National Museum of Taiwan History: Ten Collection Objects to Understand the Duck King Who Attracted East Asian Attention](https://taiwanindex.nmth.gov.tw/theme/detail/83)
-- [StoryStudio: Provincial sentiment is not a modern Taiwanese invention — it began with the Chu Yi-kuei Incident 300 years ago](https://storystudio.tw/article/gushi/chu-yi-kuei-and-du-chun-ying)
-- [Taiwan Overseas Network: The 1721 Taiwan National Hero Chu Yi-kuei's Great Revolution](https://www.taiwanus.net/history/3/19.htm)
+- [Wikipedia: Zhu Yigui](https://zh.wikipedia.org/zh-tw/%E6%9C%B1%E4%B8%80%E8%B2%B4)
+- [National Taiwan Museum of History: Ten museum pieces that show you the world-renowned King Duck](https://taiwanindex.nmth.gov.tw/theme/detail/83)
+- [StoryStudio: Provincialism is not a contemporary product of Taiwan! It began with the Zhu Yigui incident 300 years ago](https://storystudio.tw/article/gushi/chu-yi-kuei-and-du-chun-ying)
+- [Taiwan Overseas Network: The 1721 Great Revolution of Taiwanese National Hero Zhu Yigui](https://www.taiwanus.net/history/3/19.htm)
 
 ## Related Topics

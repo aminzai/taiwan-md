@@ -1,7 +1,8 @@
 ---
-title: "Huang Kuo-chen: Teaching Taiwan's Children to 'Understand' Not Just 'Finish Reading'"
-description: "Founder of Pin Xue Tang, promoting reading literacy education in Taiwan, working to change the educational predicament of 'good at tests but bad at thinking'"
+title: 'Huang Kuo-chen'
+description: 'Founder of Pin Xue Tang, promoting reading literacy education in Taiwan and dedicated to overcoming the educational dilemma of "being able to pass exams but unable to think"'
 date: 2026-03-20
+category: 'People'
 tags:
   [
     'Education',
@@ -9,89 +10,45 @@ tags:
     'Pin Xue Tang',
     'Reading Comprehension',
     'Educational Innovation',
-    'Literacy Education',
+    'Competency-based Education',
   ]
-subcategory: 'Education & Society'
+subcategory: '教育與社會'
 author: 'Taiwan.md'
-readingTime: 5
-category: 'People'
+featured: false
 lastVerified: 2026-03-20
+lastHumanReview: false
+readingTime: 5
+curation: 'incubating'
 translatedFrom: 'People/黃國珍.md'
-sourceCommitSha: 'df2e7558'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:4ca80675bb1a1122'
 sourceBodyHash: 'sha256:2b34fd0038a36214'
-translatedAt: '2026-04-14T12:25:09+08:00'
-featured: false
-lastHumanReview: false
+translatedAt: '2026-08-04T14:32:57+08:00'
 ---
 
-# Huang Kuo-chen: Teaching Taiwan's Children to "Understand" Not Just "Finish Reading"
+# Huang Kuo-chen: Teaching Taiwan's Children to "Understand" Rather Than Just "Finish Reading"
 
-## A Crisis Observed
+## An Observation of a Crisis
 
-Taiwan's students perform reasonably well in international reading assessments, but Huang Kuo-chen noticed a structural problem: many students can "finish reading" an article but cannot truly "understand" it—they can locate keywords in texts but cannot grasp the article's logic, judge the credibility of information, or apply knowledge from reading to new situations.
+While the reading abilities of Taiwanese students do not perform poorly in international assessments, Huang Kuo-chen has noted a structural problem: many students can "finish reading" an article but fail to "understand" it—they can find keywords within a text, yet they are unable to grasp the logic, judge the credibility of information, or apply the knowledge read to new contexts.
 
-This isn't a student problem—it's an educational system problem. Taiwan's exam system has long trained students to "find answers" rather than "understand questions."
+This is not a problem with the students, but a problem with the educational system. Taiwan's examination system has long trained students to "find answers" rather than "understand problems."
 
-## Pin Xue Tang and Reading Comprehension Magazine
+## Pin Xue Tang and _Reading Comprehension_
 
-In 2013, Huang Kuo-chen founded "Pin Xue Tang" (品學堂) and developed the _Reading Comprehension_ journal—educational materials specifically designed to cultivate reading literacy. Unlike typical reading tests, _Reading Comprehension_ questions emphasize "thinking processes" rather than "correct answers": students need to analyze text structures, compare different viewpoints, and identify authors' positions and rhetorical strategies.
+In 2013, Huang Kuo-chen founded "Pin Xue Tang" (品學堂) and developed the _Reading Comprehension_ (閱讀理解) journal—a teaching material specifically designed to cultivate reading literacy. Unlike standard reading tests, the questions in _Reading Comprehension_ emphasize the "thinking process" rather than the "correct answer": students are required to analyze text structures, compare different perspectives, and identify an author's stance and rhetorical strategies.
 
-This journal has now entered hundreds of elementary, middle, and high schools across Taiwan, becoming one of the most widely used materials for reading literacy education in Taiwan.
+This journal has now entered hundreds of elementary, junior high, and senior high schools across Taiwan, becoming one of the most widely used teaching materials for reading literacy education in the country.
 
-## Promoting Literacy Education
+## Promoting Competency-based Education
 
-Huang Kuo-chen's work aligns closely with the core spirit of Taiwan's 108 Curriculum (the new curriculum implemented in 2019). The 108 Curriculum emphasizes "competency-oriented" teaching, reducing rote memorization while increasing cultivation of critical thinking and application abilities. Huang Kuo-chen and the Pin Xue Tang team provide teacher training for many schools and educators, helping teachers transition from "teaching content" to "teaching thinking."
+Huang Kuo-chen's work is highly aligned with the core spirit of Taiwan's 108 Curriculum (the new curriculum implemented in 2019). The 108 Curriculum emphasizes "competency-oriented" teaching, reducing rote memorization and increasing the cultivation of critical thinking and application skills. Huang Kuo-chen and the Pin Xue Tang team provide professional development for many schools and teachers, helping educators transition from "teaching content" to "teaching thinking."
 
-He is also the son of renowned Taiwanese writer Huang Chunming. Two generations—one father who wrote about Taiwan's rural vitality through literature, one son who cultivates the next generation's ability to understand the world through education.
+He is also the son of the renowned Taiwanese author Huang Chun-ming. Across two generations, one uses literature to write about the vitality of Taiwan's local life, while the other uses education to cultivate the next generation's ability to understand the world.
 
-## Background: The Reading Crisis in Taiwan
+## Further Reading
 
-Taiwan's education system has historically excelled at producing students who score well on standardized tests, but this success came with unintended consequences. The intensive focus on exam preparation created what educators call the "finding answers" mentality—students became skilled at locating information in texts to answer questions but struggled with deeper comprehension skills.
-
-This problem became particularly apparent as Taiwan began participating in international assessments that measured not just factual recall but reading comprehension, critical thinking, and analytical skills. While Taiwanese students often performed well overall, educators like Huang Kuo-chen recognized that many students lacked the ability to:
-
-- Synthesize information from multiple sources
-- Distinguish between fact and opinion
-- Understand implicit meanings and author intent
-- Apply reading insights to real-world problems
-
-## Pin Xue Tang's Innovative Approach
-
-Huang Kuo-chen's _Reading Comprehension_ materials represent a fundamental departure from traditional Chinese-language education. Instead of focusing on literary appreciation or grammatical analysis, the materials present diverse text types—news articles, scientific papers, opinion pieces, advertisements—and teach students to approach each with appropriate reading strategies.
-
-The questions don't have single "correct" answers. Instead, they guide students through thinking processes: "What evidence does the author provide for this claim?" "How might someone with a different background interpret this text differently?" "What assumptions is this argument based on?"
-
-This approach proved particularly valuable as Taiwan implemented its 108 Curriculum, which required teachers to move away from traditional content-focused instruction toward competency-based learning.
-
-## Impact on Taiwan's Education System
-
-Pin Xue Tang's influence extends beyond individual classrooms. The organization has:
-
-- Trained thousands of teachers across Taiwan in literacy-focused pedagogy
-- Influenced curriculum design in numerous schools
-- Provided assessment tools that measure genuine comprehension rather than memorization
-- Contributed to national discussions about education reform
-
-Huang Kuo-chen's work also addresses a uniquely Taiwanese challenge: helping students navigate information in an era of rapid social and political change. Taiwan's vibrant democracy means students encounter diverse, sometimes conflicting viewpoints daily. The ability to critically evaluate sources, understand different perspectives, and think independently has become essential for civic participation.
-
-## The Generational Legacy
-
-The connection between Huang Kuo-chen and his father, Huang Chunming, represents something profound about Taiwan's cultural evolution. Huang Chunming's generation fought to preserve and celebrate local Taiwanese identity through literature, often in opposition to authoritarian educational policies that suppressed local culture.
-
-Huang Kuo-chen's generation faces a different challenge: helping young Taiwanese develop the analytical tools to navigate globalization while maintaining critical thinking skills. Where his father used storytelling to preserve cultural memory, Huang Kuo-chen uses education to build intellectual independence.
-
-## Challenges and Future Directions
-
-Despite its success, Pin Xue Tang faces ongoing challenges. Taiwan's examination culture remains strong, and many parents and teachers still prioritize test scores over genuine learning. Changing deeply embedded educational practices requires sustained effort across multiple levels of the education system.
-
-Huang Kuo-chen continues advocating for assessment reforms that would better reflect the kind of thinking skills Taiwan's students need for the 21st century. His work represents a broader movement in Taiwanese education toward developing not just knowledgeable students, but thoughtful citizens capable of contributing to Taiwan's democratic society.
-
----
-
-## Related Figures
-
-- **Yeh Bing-cheng**: National Taiwan University professor and developer of the PaGamO gamified learning platform
-- **Vincent Lu**: Founder of Junyi Academy, Taiwan's leading online education platform
-- **Huang Chunming**: Master of Taiwan's nativist literature and Huang Kuo-chen's father
-- **Yen Chang-shou**: Tourism industry leader who devoted himself to rural education initiatives
+- [Yeh Bing-cheng](/en/people/yeh-ping-cheng-education-innovator): NTU professor and developer of the PaGamO gamified learning platform
+- [Lu Kuan-wei](/en/people/lu-guan-wei-junyiacademy-founder): Chairman of Junyi Learning Platform, an educational innovator who left medicine for teaching
+- [Huang Chun-ming](/en/people/huang-chun-ming-taiwanese-literary-master): Master of Taiwan's local literature, father of Huang Kuo-chen
+- [Yen Chang-shou](/en/people/stanley-yen): The "godfather of tourism" dedicated to rural education

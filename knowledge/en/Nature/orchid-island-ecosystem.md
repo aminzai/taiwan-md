@@ -1,17 +1,17 @@
 ---
-title: 'Orchid Island Ecosystems: The Life Code at the Edge of the Kuroshio'
-description: "Orchid Island doesn't belong to Taiwan — at least, not biologically. This little island at the northernmost tip of the Philippine volcanic arc is filled with tropical life carried by the Kuroshio Current, and in the millennia of Tao indigenous wisdom, has found a balance between humans and nature."
+title: 'Lanyu Ecosystem: The Life Code of the Kuroshio Frontier'
+description: 'Lanyu does not belong to Taiwan—at least not biologically. This small island at the northernmost tip of the Philippine volcanic arc is filled with tropical life brought by the Kuroshio Current, finding a balance between nature and humanity through the millennia of ecological wisdom of the Tao people.'
 date: 2026-04-01
 category: 'Nature'
 tags:
   [
-    'Orchid Island',
+    'Lanyu',
     'Tao people',
-    'Kuroshio',
+    'Kuroshio Current',
     'endemic species',
     'flying fish',
-    'Magellan birdwing butterfly',
-    'pachyrhynchus weevil',
+    'Common Birdwing',
+    'weevils',
     'conservation',
     'island ecology',
     'biogeography',
@@ -19,145 +19,114 @@ tags:
 subcategory: '生態與保育'
 author: 'Taiwan.md'
 readingTime: 7
+featured: false
 lastVerified: 2026-04-01
 lastHumanReview: false
+curation: 'incubating'
 translatedFrom: 'Nature/蘭嶼生態系.md'
-sourceCommitSha: '82e98bfd'
-sourceContentHash: 'sha256:74332f1aa587ae82'
+sourceCommitSha: '69b3afd91'
+sourceContentHash: 'sha256:c5b9ea1f1f0ebfd3'
 sourceBodyHash: 'sha256:31718e0ce0828285'
-translatedAt: '2026-05-02T08:50:00+08:00'
-featured: false
+translatedAt: '2026-08-04T13:18:18+08:00'
 ---
 
-> **10-second overview:** Orchid Island is the northern tip of the Philippine volcanic arc, a way-station of the Kuroshio, and home of the Tao people —
-> and it's the most unfamiliar piece of Taiwan's ecological map.
-
----
-
-## An Island Brought by the Kuroshio
-
-If you sail southeast from Taitung for about 50 kilometers, a strong ocean current will sweep beneath your boat.
-That's the Kuroshio — the world's second largest ocean current, which sets out from Philippine waters, runs north along Taiwan's east coast,
-and then turns toward Japan. It carries warm salt water and abundant plankton, and also carries seeds, insects,
-and butterfly eggs, delivering them all northward.
-
-Orchid Island is one of the way-stations along this route.
-
-This little island, just 45 square kilometers in area, is geologically the **northernmost end of the Philippine volcanic arc**,
-separated from Taiwan by an oceanic trench more than 3,000 meters deep. No matter how far the sea level fell during the ice ages,
-this abyss never emerged as a land bridge. Orchid Island has never been connected to Taiwan,
-yet between it and the Batanes Islands of the Philippines, the Kuroshio has been an eternal conveyor belt.
-
-That's why, when the Japanese naturalist Kano Tadao collected pachyrhynchus weevils on Orchid Island in 1927,
-he recognized them as Philippine species, not Taiwanese ones. Life on Orchid Island has always come from the south.
-(Further reading: [Orchid Island's Tropical Origins: The Wallace Line and Kano Tadao's Island Puzzle])
+> **10-Second Overview:** Lanyu is the northern terminus of the Philippine volcanic arc, a waypoint for the Kuroshio Current, and the home of the Tao people—
+> as well as the most unfamiliar piece of Taiwan's ecological landscape.
 
 ---
 
-## Residents of the Tropical Edge
+## The Island Brought by the Kuroshio
 
-### Pachyrhynchus Weevils: Walking Jewels
+Sailing southeast from Taitung, after about 50 kilometers of travel, a powerful ocean current will sweep beneath your boat.
+This is the Kuroshio Current—the world's second-largest ocean current. Originating from the Philippine Sea, it flows north along Taiwan's eastern coast before turning toward Japan. It carries warm, saline water and abundant plankton, delivering seeds, insects, and butterfly eggs all the way north.
 
-Orchid Island has five species of pachyrhynchus weevils (_Pachyrhynchus_ spp.), with fused wing-covers that mean they cannot fly,
-only crawl slowly through the forest. Precisely because they cannot cross straits, they have become the most reliable "living
-indicators" in biogeography — wherever they are found, it means the islands were once connected.
+Lanyu is a waypoint where the Kuroshio pauses on this journey.
 
-The metallic luster patterns on their bodies are a warning coloration that tells predators: I'm not good to eat.
-This strategy worked for tens of millions of years, but cannot withstand the pressure of human collecting.
-At present, all five species of pachyrhynchus weevils on Orchid Island are listed as protected.
+With an area of only 45 square kilometers, this small island belongs geologically to the **northernmost tip of the Philippine volcanic arc**, separated from Taiwan by a deep-sea trench exceeding 3,000 meters in depth. No matter how much sea levels dropped during the Ice Age, this abyss never emerged as a land bridge. Lanyu has never been connected to Taiwan; instead, it maintains an eternal conveyor belt with the Batan Islands of the Philippines via the Kuroshio.
 
-### Magellan Birdwing Butterfly: Messenger of the Kuroshio
+This explains why, when Japanese naturalist Tadao Shikano collected a species of weevil on Lanyu in 1927, he recognized it as a Philippine species rather than a Taiwanese one. The life on Lanyu has always arrived from the south.
+(Further Reading: [Lanyu's Tropical Heritage: The Wallace Line and Tadao Shikano's Island Mystery])
 
-Each spring, butterfly enthusiasts in Taitung wait on the forest paths of Orchid Island for the appearance of a particular butterfly.
-The Magellan birdwing (_Troides magellanus_) is Taiwan's largest butterfly, with a wingspan of nearly 20 centimeters,
-the golden pearl-luster on its hindwings flowing in the sunlight like a flying piece of amber.
+---
 
-It ranges from the northern Philippines to Orchid Island, carried by the air currents of the Kuroshio.
-The larvae feed only on the harbor pipevine; the adults' lives are short, low-flying patrols through the forest.
-Due to habitat destruction and collection pressure, it is now listed as a Class I protected wildlife species in Taiwan.
+## Residents of the Tropical Frontier
+
+### Weevils: Walking Jewels
+
+Lanyu is home to five species of _Pachyrrhynchus_ (weevils). Their elytra are fused, meaning they cannot fly and can only crawl slowly through the forests. Because they cannot cross straits, they serve as the most reliable "living indicators" in biogeography—wherever they are found indicates a past connection between islands.
+
+The metallic luster of their patterns serves as a warning color to predators: "I am unpalatable."
+This strategy has worked for tens of
+millions of years, yet it cannot withstand the pressure of human collection. Currently, all five species of _Pachyrrhynchus_ on Lanyu are listed as protected species.
+
+### Common Birdwing: The Kuroshio's Messenger
+
+Every spring, butterfly enthusiasts from Taitung wait on the forest paths of Lanyu for the appearance of a specific butterfly.
+The Common Birdwing (_Troides magellanus_) is Taiwan's largest butterfly, with a wingspan of nearly 20 centimeters. The golden pearlescent sheen of its hindwings flows under the sunlight like flying amber.
+
+Its distribution extends from northern the Philippines to Lanyu, carried by the air currents of the Kuroshio.
+The larvae feed exclusively on _Aristolochia_ (pipevine), and the adults have a brief lifespan, patrolling the forest at low altitudes. Due to habitat destruction and collection pressure, it is currently listed as a Class I protected species in Taiwan.
 
 ### Lanyu Scops Owl: Guardian of the Night
 
-After dark, the forests of Orchid Island belong to the Lanyu scops owl (_Otus elegans botelensis_).
-This small owl is an endemic subspecies of Orchid Island, with a low and rhythmically regular call.
-The Tao people call it the "ghost bird," and tradition says that if a scops owl calls on your roof, someone is about to die.
+After night falls, the forests of Lanyu belong to the Lanyu Scops Owl (_Otus elegans botenteis_).
+This small owl is an endemic subspecies of Lanyu. Its call is low and rhythmic; the Tao people refer to it as a "ghost bird," with legends stating that if the scops owl cries on a rooftop, it signifies an impending death.
 
-This taboo, by accident, became an effective conservation mechanism. Out of reverence for the ghost bird,
-the Tao people have for generations not hunted the scops owl, and so the population density of Orchid Island remains relatively stable.
+This taboo has inadvertently become an effective conservation mechanism. Out of reverence for the "ghost bird," the Tao people have not hunted scops owls for generations, allowing the population density on Lanyu to remain relatively stable to this day.
 
 ### Coconut Crab: The Largest Land Arthropod
 
-At night on the forest roads, you may sometimes encounter a great hulk crossing the path — the coconut crab
-(_Birgus latro_), with claws that span up to a meter, the largest land-dwelling arthropod on Earth.
-They can crack open coconuts with the strength of their claws, can climb trees, and can smell food from kilometers away.
+On forest paths at night, one might occasionally encounter a behemoth crossing the road—the Coconut Crab (_Birgus latro_). With a claw span of up to one meter, it is the largest land-living arthropod.
+They can use their claws to crack coconuts, are capable of climbing trees, and can scent food from kilometers away.
 
-Coconut crabs are endangered on many Pacific islands due to overharvesting, but populations remain on Orchid Island,
-in part because the traditional Tao harvesting practices have preserved a certain restraint.
+While coconut crabs have become endangered on many Pacific islands due to overharvesting, populations still exist on Lanyu, partly because traditional Tao harvesting practices maintain a certain level of restraint.
 
 ---
 
-## The Logic of the Flying Fish: Tao Ecological Wisdom
+## The Logic of Flying Fish: Tao Ecological Wisdom
 
-Each March, when the northeast monsoon weakens and the Kuroshio brings its warm current sweeping past Orchid Island's east coast,
-the Tao elders observe the stars and currents and declare the start of the flying fish season.
+Every March, as the northeast monsoon weakens and the Kuroshio brings warm currents past the eastern coast of Lanyu, the elders of the Tao people observe the stars and ocean currents to announce the start of the flying fish season.
 
-The plank canoes are launched, the fishing fires lit, and the men go out at night, using the fires to lure flying fish onto the boats.
-This is not just fishing — it is a whole understanding of, and restraint toward, the sea.
+The _tatala_ (plank boats) are launched, fishing fires are lit, and men head to sea at night, using lights to entice the flying fish to leap alongside the gunwales.
+This is more than just fishing—it is an entire system of understanding and restraint regarding the ocean.
 
-The Tao have strict classifications and taboos around flying fish: which kind can be salted, which must be eaten immediately,
-after which season fishing must stop, and even which type of fish men of different ages may catch —
-all are governed by detailed regulations. This system of knowledge has ensured the long-term stability of flying fish populations around Orchid Island.
+The Tao people maintain strict classifications and taboos regarding flying fish: which species can be fermented, which must be eaten immediately, which seasons require a fishing ban, and even which age groups of men are permitted to catch certain fish. This body of knowledge ensures the long-term stability of flying fish populations near Lanyu.
 
-When modern marine ecologists study the fishery resources around Orchid Island, they find that the Tao traditional fishing seasons
-align closely with the migration rhythms of flying fish — this is no coincidence, but the
-**Traditional Ecological Knowledge** (TEK) accumulated through generations of observation.
+Modern marine ecologists studying the fishery resources around Lanyu have found that traditional Tao fishing seasons align highly with the migratory rhythms of the flying fish—this is no coincidence, but rather the accumulation of generations of **Traditional Ecological Knowledge (TEK)**.
 
-The Tao taboo on the Lanyu scops owl, the restraint in harvesting coconut crabs, the reverence for sea turtles —
-together these constitute a system of island ecological management that has not been written into any paper, but has been working effectively for hundreds of years.
+The Tao people's taboos regarding the Lanyu Scops Owl, their restraint in harvesting coconut crabs, and their reverence for sea turtles constitute an island ecosystem management system that, while not written in academic papers, has functioned effectively for hundreds of years.
 
 ---
 
-## Pressures on the Edge
+## Pressures on the Frontier
 
-Orchid Island is bearing several forces from different directions.
+Lanyu is currently enduring pressures from several different directions.
 
-**Invasive species** are currently among the most difficult problems. Lizards, domestic cats,
-and various plant seeds carried in tourists' luggage are expanding rapidly in Orchid Island's environment without natural predators,
-squeezing out the habitat space of native species.
+**Invasive species** represent one of the most pressing issues. Lizards, domestic cats, and various plant seeds arriving in tourists' luggage expand rapidly in Lanyu's environment due to a lack of natural predators, compressing the habitat of native species.
 
-**Tourism pressure** has been heating up sharply in recent years. The night-time light from visitors disrupts the behavioral rhythms of the scops owl
-and the coconut crab; road construction has cut up what was once continuous forest habitat;
-excessive snorkeling and trampling are damaging the coral reef ecosystems around Orchid Island.
+**Tourism pressure** has intensified rapidly in recent years. Nighttime lighting brought by visitors disrupts the behavioral rhythms of scops owls and coconut crabs; road development fragments previously continuous forest habitats; and excessive snorkeling and trampling are damaging the coral reef ecosystems surrounding Luna.
 
-**The nuclear waste storage facility** has been in operation since 1982, with low-level nuclear waste long stored at the southern end of Orchid Island;
-Tao people's concerns about the risk of radiation leakage have never been put to rest, and the question of relocating the facility remains unresolved,
-becoming a heavy issue of justice beyond ecological conservation.
+**Low-level radioactive waste storage**: Since its activation in 1982, low-level nuclear waste has been stored long-term at the southern end of Lanyu. The Tao people's concerns regarding radiation leakage risks have never subsided, and the issue of relocation remains unresolved, becoming a heavy issue of justice beyond mere ecological conservation.
 
-**Climate change** is the most distant threat. Rising sea temperatures are bleaching Orchid Island's coral reefs,
-and coral reefs are the foundation of the entire near-shore fishery. The Kuroshio brought Orchid Island's life,
-and may, in warming seas, also take it away.
+**Climate change** is the most long-term threat. Rising sea temperatures are causing coral bleaching in Lanyu's reefs, which serve as the foundation for the entire nearshore fishery. The Kuroshio brings life to Lanyu, but it may also take it away through warming waters.
 
 ---
 
-## A Border That Still Exists
+## A Frontier That Remains
 
-The Tao have a saying: Orchid Island is called _Ponso no Tao_, "the island of people."
-Not "nature reserve," not "tourist attraction" — a place where people live.
+The Tao people have a saying: Lanyu is called _Ponso no Tao_, "the Island of the People."
+It is not a "nature reserve," nor is it a "tourist attraction"; it is a place where people live.
 
-This name carries an ecological philosophy: people are part of the island ecosystem,
-not the managers of the island, nor mere onlookers. For hundreds of years, the Tao have shared this 45-square-kilometer
-volcanic island with the pachyrhynchus weevil, the Magellan birdwing, the flying fish, and the scops owl,
-and have developed at the edge of the Kuroshio a logic of life that belongs only to here.
+Within this naming lies an ecological philosophy: humans are part of the island ecosystem, neither its managers nor its mere observers. For centuries, the Tao people have shared this 45-square-kilometer volcanic island with weevils, Common Birdwings, flying fish, and scops owls, developing a logic of life unique to this place within the Kuroshio frontier.
 
-That logic is now being tested.
+That logic is currently being tested.
 
 ---
 
 ## References
 
-- Lin Liang-kong, "Biogeographic Studies of Taiwanese Mammals."
-- Yu Kuang-hung and Tung Sen-yung, _Annual Ceremonies of the Iraralay Yami Settlement_, Institute of Ethnology, Academia Sinica, 1998.
-- **Wang, C.-N. & Hsin, K.-T.** (2013). "Worlds Apart by a Single Line: Wallace's Biogeographic Affinity,"
-  _Taiwan Museum Quarterly_, No. 120.
-- Lin Chun-i, "The Current State of Endemic Species Conservation on Orchid Island," _Taiwan Biodiversity Research_.
-- Hsia Yu-chiu, "Tao Flying Fish Culture and Marine Ecological Conservation," _Studies in Taiwan Indigenous Peoples_.
+- Lin, Liang-kung, "Biogeographical Research on Mammals of Taiwan."
+- Yu, Guang-hong & Dong, Sen-yong, _Rituals and Seasonal Festivals of the Yami (Tao) Fishing Villages_, Institute of Ethnology, Academia Sinica, 1998.
+- **Wang, C.-N. & Hsin, K.-T.** (2013). "Between the Edge of the World: The Biogeographical Connection of Wallace," _Taiwan Museum Quarterly_, Issue 120.
+- Lin, Chun-yi, "Current Status of Conservation for Endemic Species in Lanyu," _Taiwan Biodiversity Research_.
+- Xia, Yu-jiu, "Tao Flying Fish Culture and Marine Ecological Conservation," _Journal of Taiwan Indigenous Studies_.

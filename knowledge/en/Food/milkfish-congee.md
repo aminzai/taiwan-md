@@ -1,81 +1,82 @@
 ---
-title: 'Not Brought by Zheng Chenggong: The Four-Century History of Milkfish Farming'
-description: "Tainan locals call the milkfish a 'household fish,' but its origins lie in Dutch East India Company aquaculture techniques introduced from Indonesia, arriving thirty-seven years before Zheng Chenggong reached Taiwan. The 4,500-hectare fish ponds of Qigu and the seven-plus culinary preparations for a single fish are living fossils of this four-century farming history."
+title: 'Not Brought by Koxinga: The Four-Hundred-Year Farming History of Milkfish'
+description: 'Tainan locals call milkfish "home fish," but its origins lie in aquaculture techniques introduced from Indonesia by the Dutch East India Company, thirty-seven years before Koxinga arrived in Taiwan. Qigu''s 4,500 hectares of fishponds and the seven or more ways to prepare a single fish are living fossils of this four-century history.'
 date: 2026-07-02
-author: 'Taiwan.md Contributors'
 category: 'Food'
-subcategory: '經典小吃'
 tags:
   ['Tainan', 'milkfish', 'Qigu', 'aquaculture', 'Dutch', 'snacks', 'breakfast']
-readingTime: 7
+subcategory: '經典小吃'
+author: 'Taiwan.md Contributors'
+featured: false
 lastVerified: 2026-07-02
 lastHumanReview: false
-featured: false
+readingTime: 7
+curation: 'incubating'
 translatedFrom: 'Food/虱目魚粥.md'
-sourceCommitSha: '3011828ba'
-sourceContentHash: 'sha256:162956900cab6d34'
+sourceCommitSha: '03b3aaae8'
+sourceContentHash: 'sha256:7cca8a0f488ac56f'
 sourceBodyHash: 'sha256:a40f868b6fc53c66'
-translatedAt: '2026-07-07T00:38:21+08:00'
+translatedAt: '2026-08-04T15:04:47+08:00'
 ---
 
-At 4:00 a.m., the fish ponds in Qigu are still pitch black. Fishermen in rubber boots open the sluice gates, and the milkfish schools surge forward at the sound of rushing water. Milkfish cannot tolerate cold; in winter, heating equipment must be installed, and in summer, the harvest season begins before dawn. If the fish aren't harvested, the congee stalls in downtown Tainan will be forced to close for the morning. This supply chain, stretching from Qigu to Guohua Street, has been running its first shift for over three centuries.
+At four in the morning, the edges of the fishponds in Qigu are still dark. Fishermen, stepping in rubber boots, open the pond gates, and the schools of fish begin to surge at the sound of incoming water. Milkfish are intolerant of low temperatures, requiring insulation equipment in winter, and the harvest season in summer begins at dawn—if the fish aren't collected, the congee stalls in downtown Tainan will have empty trays by the next morning. This supply chain, stretching from Qigu to Guohua Street, began its first run over three hundred years ago.
 
-This fish has nothing to do with Zheng Chenggong.
+This fish has no connection to Koxinga (Zheng Chenggong).
 
-## The Most Beautiful Story, and the Least Accurate
+## The Most Beautiful Story is Also the Least Accurate
 
-Folklore claims that when Zheng Chenggong arrived in Taiwan, his army faced a food shortage. Spotting a certain fish on the shores of Anping, he asked his attendants, "What fish is this?" The Taiwanese pronunciation of "what" allegedly mutated into "milkfish" (shīmù), and the fish's name was thus fixed.
+Folk legends say: When Koxinga arrived in Taiwan, his army lacked food. At the shores of Anping, he saw a type of fish and asked those around him, "What kind of fish is this?"—the pronunciation of "what" (_shímù_) in Southern Min was misheard as _shímù_ (milkfish), and thus the name was set.
 
-This tale circulates at temple entrances, in textbooks, and on tourist brochures. It is evocative, visual, and easy to remember. Yet historians have long pointed out the flaw: the Dutch East India Company introduced milkfish aquaculture techniques to Taiwan from Indonesia during the Dutch colonial period (1624–1662), at least thirty-seven years before Zheng Chenggong arrived in 1661. Written records of milkfish farming already appear in the late-17th-century _Records of the Prefecture of Taiwan_ (1694), with the earliest farming sites located around the Lukangmen area—present-day Anping District. That is over four centuries of history.
+This story circulates in temple entrances, textbooks, and tourist brochures; it is emotive, visual, and easy to remember. However, historians have long pointed out the error: The Dutch East India Company brought milkfish aquaculture techniques to Taiwan during the Dutch colonial period (1624–1662), at least thirty-seven years before Koxinga arrived in 1661. The _Taiwan Prefecture Gazetteer_ (_Taiwan Fu Zhi_) of the late 17th century (1694) already contains written records of milkfish farming, with the first group of farming sites located in the Luerhmen area—the vicinity of today's Anping District. This spans over four hundred years.
 
-📝 Curator's Note: The legend that "Zheng Chenggong brought the milkfish" illustrates a single point: a good story outlives historical evidence by far. The Dutch brought the aquaculture techniques, but Zheng Chenggong took the naming rights.
+📝 Curator's Note: The legend that "milkfish was brought by Koxlar" illustrates one thing perfectly: the vitality of a good story lasts much longer than historical evidence. The Dutch brought the aquaculture technology, but Koxinga took the naming rights.
 
-## Qigu: The Geography of Fish Ponds
+## Qigu: The Geography of Fishponds
 
-Today, Tainan remains the island's largest milkfish-producing region, accounting for roughly 50% of the national annual output. The core lies in Qigu District—over 4,500 hectares of aquaculture area and more than 6,000 fish ponds, the highest in the country.
+Today, Tainan remains the largest milkfish-producing region in Taiwan, accounting for approximately 50% of the national annual output. The core is the Qigu District—with over 4,500 hectares of aquaculture area and more than 6,000 fishponds, it ranks first in Taiwan.
 
-Qigu's topography is key: the coastal terrain is flat with a muddy substrate and moderate salinity, making it a natural fit for fish ponds. It is about a forty-minute drive from downtown Tainan, but there, the roads are flanked by continuous stretches of water, egrets stand on the levees, and the Taiwan Strait lies in the distance.
+The topography of Qigu is key: the coastal terrain is low and flat, with muddy bottoms and moderate salinity, providing natural conditions for fishponds. It is about a forty-minute drive from downtown Tainan, but there, the roads are flanked by continuous expanses of water, egrets stand on the pond embankments, and the Taiwan Strait lies in the distance.
 
-The straight-line distance from Anping to the congee stalls on Guohua Street is no more than fifteen kilometers. Even factoring in Qigu, it does not exceed forty kilometers. This short-distance supply chain forms the material foundation for why Tainan's milkfish breakfasts are both affordable and fresh.
+The straight-line distance from Anping to the congee stalls on Guohua Street does not exceed fifteen kilometers. Even counting from Qigu, it is no more than forty kilometers. This short-distance supply chain is the material foundation that allows Tainan's milkfish breakfasts to be both cheap and fresh.
 
-📝 Curator's Note: Qigu does more than just farm milkfish; it is also one of the most critical wintering grounds for the black-faced spoonbill globally. The ecological imperative to protect wetlands and the economic interests of fisheries have been in long-term tension here—fish ponds are not merely the starting point for food, but also a theater of ecological politics.
+📝 Curator's Note: Qigu does not only farm milkfish; it is also one of the most important wintering grounds in the world for the Black-faced Spoonbill. Ecological advocacy for wetland protection and fishery interests engage in long-term tug-of-war here—fishponds are not just starting points for food, but also arenas of ecological politics.
 
-## The Anatomy of a Whole Fish
+## The Anatomy of the Whole Fish
 
-Tainan locals eat milkfish without wasting a single part. This is a relic of the dockworker breakfast logic: every part has its proper destination.
+People in Tainan do not waste milkfish. This is a legacy of the breakfast logic of dockworkers: every part has its proper place.
 
-The belly (abdomen) holds the most fat, making it ideal for dry-frying; the skin turns crisp while the flesh stays soft, offering two textures in a single bite. The fillet (back meat) is best for congee: fresh, sweet, and bouncy, with a clean aroma that doesn't overpower other flavors. The skin is rich in collagen, making it perfect for soup; drinking it leaves your lips slightly sticky—that is natural collagen, not an additive. The intestines, deep-fried until crisp and crackling, demand extreme freshness and are the hardest preparation to replicate outside the region. The head is braised or red-cooked, rich in gelatin and meant to be savored slowly. Seasonal roe, whether pan-fried or pickled in sauce, is a delicacy known only to regulars.
+The belly contains the most fat and is best pan-fried; the skin is crispy while the flesh is soft, offering two textures in one bite. The fillets (back meat) are best in congee, sweet, fresh, and elastic, with a light fragrance that does not overpower other flavors. The skin is high in collagen and ideal for soup; drinking it leaves a slight stickiness on your lips—that is collagen, not an additive. Fish intestines, deep-fried, are crispy and satisfying, but require extremely high freshness and are a style difficult to replicate elsewhere. The fish head is braised or red-cooked, rich in gelatin, perfect for savoring slowly. Seasonal fish roe, either fried or pickled, is something only regulars know to hunt for.
 
 Every cut is precise because every part deserves to be treated individually.
 
-📝 Curator's Note: The milkfish culture of "separate-part consumption" is fundamentally a zero-waste worker diet logic. When ordering at a Tainan congee stall, you are selecting not just ingredients, but different interpretations of a single fish. Tourists order the "assorted" platter; regulars have clear preferences.
+📝 Curator's Note: The culture of "eating parts separately" in milkfish is essentially a zero-waste logic of working-class diet. When ordering at a Tainan congee stall, you are not just choosing ingredients; you are expressing a different understanding of a single fish. Tourists order "assorted," but only regulars have specific preferences.
 
-## White Congee at 5:00 a.m.
+## White Congee at Five in the Morning
 
-At 5:30 a.m., the congee stall blanches each part separately, portions them into individual small dishes, and brings them to the table for customers to add to their plain white congee themselves.
+At five-thirty in the morning, the congee stalls poach various parts separately, portion them into small dishes, and serve them to the table for customers to add to their white congee themselves.
 
-This self-serve system is not a culinary gimmick; it is efficiency. Dockworkers eating breakfast have no time to wait for a chef to decide what goes in your bowl. The ingredients are laid out; you know yourself what you need to replenish and what to avoid today. If physical labor was heavy, you add extra fish intestines. If you drank too much the night before, you stick to plain congee with fish skin soup.
+This self-selection system is not a culinary innovation, but an efficiency measure. Dockworkers eating breakfast have no time to wait for a chef to decide what goes in their bowl. The toppings are right there; you know yourself what you need to replenish or avoid today—add more intestine if you've exerted great physical effort, or stick to plain congee with fish skin soup if you drank too much the night before.
 
-The farming logic from three centuries ago still lives in the rhythm of this morning.
+The aquaculture logic from three hundred years ago still lives within the rhythm of this morning.
 
-## The Name Remains an Open Case
+## The Name Remains an Unsolved Mystery
 
-How exactly the name "milkfish" originated remains unresolved in academia.
+How "milkfish" (_shímùyú_) actually came to be remains undecided in academia.
 
-Some argue it derives from a phonetic translation of Dutch or Malay; others trace it to the Taiwanese term "sè-bāng" (fine eyes), referring to the fish's densely speckled eye features. Still others believe local farming workers simply named it independently, and the Taiwanese term eventually standardized it.
+Some say it is a transliteration of Dutch or Malay; some research suggests it may come from the Taiwanese term _sè-ba̍k_ (referring to the fine-eyed characteristic of the fish); others believe it was simply what workers in various farming areas called it, eventually becoming standardized in Taiwanese.
 
-The story of Zheng Chenggong asking "what fish" remains the most widely circulated version. Sometimes, the easiest-to-remember story is not the most accurate one—but it ensures that the aquaculture industry from four centuries ago leaves a name on everyone's breakfast table.
+The story of Koxinga asking "what kind of fish" remains the most widely circulated version. Sometimes, the most memorable story is not the most accurate one—but it allowed an industry from four hundred years ago to leave a name on everyone's breakfast table.
 
 ---
 
 ## References
 
 - [Milkfish — Wikipedia](https://zh.m.wikipedia.org/zh-tw/%E8%99%B1%E7%9B%AE%E9%AD%9A)
-- [What Is the Origin of the Name "Milkfish" and Its Connection to Zheng Chenggong? — Food Next](https://www.foodnext.net/life/culture/paper/5098989327)
-- [A Walking History of Tainan: Milkfish Enriched the Fish Ponds, and Also Enriched the Mornings and Stomachs of Prefecture City People — The News Lens](https://www.thenewslens.com/article/131368)
-- [Tainan Fish Soup and Milkfish May Originate from 17th-Century European Imports — CNA](https://www.cna.com.tw/news/acul/202403060184.aspx)
-- [Viewing Taiwan Through the Milkfish (Part 1) — Journal of the Geographical Society of the Republic of China](https://blog.geogsoc.org.tw/milk-fish-calvin-hung-1/)
-- [Working as a Fisherman in Qigu Fish Ponds, Tainan: Experiencing the Early Morning Harvest — Smile Taiwan](https://smiletaiwan.cw.com.tw/article/5955)
-- [Milkfish, Tilapia, and Grouper: Discover the Aquaculture That Brings Culinary Delights to Your Table! — PanSci](https://pansci.asia/archives/174611)
-- [Overview of Qigu District Industries — Qigu District Office, Tainan City](https://cigu.tainan.gov.tw/cp.aspx?n=6308)
+- ["How does the naming of 'milkfish' relate to Koxinga?" — Food Next](https://www.foodnext.net/life/culture/paper/5098989327)
+- ["Walking Tainan History": Milkfish enriched the fishponds, and the mornings and stomachs of the people of Fucheng — The News Agency/Komap](https://www.thenewslens.com/article/131368)
+- [Tainan Mud Crab Soup and Milkfish may originate from 17th-century European imports — CNA](https://www.cna.com.tw/news/acul/202403060184.aspx)
+- [Looking at Taiwan through Milkfish (Part 1) — Journal of the Geographical Society of the Republic of China](https://blog.geogsoc.org.tw/milk-fish-calvin-hung-1/)
+- [Experiencing early morning fish harvesting as a laborer in Qigu, Tainan — Smiling Taiwan](https://smiletaiwan.cw.com.tw/article/5955)
+- [Milkfish, Grouper, and Sea Bass: Come learn about aquaculture bringing delicacies to your table! — PanSci](https://pansci.asia/archives/174611)
+- [Industry Overview of Qigu District — Qigu District Office, Tainan City](https://cigu.tainan.gov.tw/cp.aspx?n=6308)
 - [Tainan Milkfish — Food and Agriculture Education Information Integration Platform (Ministry of Agriculture)](https://fae.moa.gov.tw/map/food_item.php?type=AS02&id=2&local_id=6)

@@ -1,111 +1,107 @@
 ---
-title: 'Kevin Lin (Lin Yi-jie)'
-description: 'From rejected track team tryouts to becoming the first person to run across the Sahara Desert on foot'
+title: 'Lin Yi-chieh'
+description: 'From a small boy rejected by the track team to an ultra-runner who made history walking across the Sahara Desert'
 date: 2026-03-22
 category: 'People'
 tags:
   [
-    'people',
+    'People',
     'ultramarathon',
-    'extreme expeditions',
+    'polar exploration',
     'athlete',
-    'sahara desert',
-    'taiwan pride',
+    'Sahara Desert',
+    'pride of Taiwan',
   ]
-subcategory: 'Sports'
+subcategory: '體育'
 author: 'Taiwan.md'
 featured: false
 lastVerified: 2026-03-22
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
 translatedFrom: 'People/林義傑.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:8741429d614846be'
 sourceBodyHash: 'sha256:3713eaac6b565ca6'
-translatedAt: '2026-05-13T01:07:52Z'
+translatedAt: '2026-08-04T15:04:47+08:00'
 ---
 
-> **30-second overview:** Kevin Lin (Lin Yi-jie), a skinny boy once threatened by his PE teacher to "not outrun the senior students,"
-> became one of the first three humans to cross the Sahara Desert on foot in 2006. 111 days, 7,500 kilometers,
-> 11 pairs of worn-out shoes—only to discover that the military escort protecting them was killed by bandits on their way back.
+> **30-Second Overview:** Lin Yi-chieh, a small boy once threatened by a primary school PE teacher "not to outrun the seniors," became one of the first humans in history to walk across the Sahara Desert in 2006. He completed 7,500 kilometers in 111 days, wearing through 11 pairs of shoes, only to discover that the military escort protecting them had all been killed on their return journey.
 
-## A Running Life That Began With Rejection
+## A Long-Distance Life Beginning with Rejection
 
-"Don't outrun the senior students." This was what a PE teacher at Taipei's Fude Elementary School told fifth-grader Lin Yi-jie in 1987. During a 2-kilometer cross-country race on Four Beasts Mountain, the small-framed Lin was explicitly warned to let the older students win.
+"You cannot outrun the seniors." This is what a PE teacher at Taipei Fuguang Elementary School said to fifth-grader Lin Yi-chieh in 1987. During a 2km cross-country race at Sishou Mountain, the small-statured Lin was explicitly warned to let the older students win.
 
-Not until the second round, when another teacher told him "don't let others influence you," did Lin run to first place. That was his first taste of victory—and the beginning of an ultramarathon legend.
+It wasn't until the second lap that another teacher told him, "Do not be influenced by others." Only then did Lin run to first place. That was his first taste of victory and the starting point of an ultramarathon legend.
 
-But talent didn't immediately open doors for him. In junior high, Lin was rejected multiple times by track teams due to his small stature. Only after "surviving the hellish training of seventh grade" did he prove his abilities to coaches and teammates. Upon junior high graduation, defying his father's opposition, he even ran away from home to join Xihu Vocational School, then considered the premier track and field training ground—he didn't even have admission permission at the time.
+But talent did not immediately pave his way. During middle school, Lin was rejected from the track team multiple times due to his small frame. It was only after "enduring the devilish training of seventh grade" that he proved his strength to his coaches and teammates. Upon graduating middle school, in order to enter the prestigious Hsi-hu Industrial & Commercial High School, he even ran away from home against his father's wishes, proactively requesting Coach Pan Jui-ken to let him join—even though he did not have admission permission at the time.
 
 > **📝 Curator's Note**
-> The most moving part of Lin's story isn't his later glory, but this resilience after repeated rejections.
-> The transformation from a skinny boy to an extreme athlete is itself an experiment in willpower.
+> The most moving part of Lin Yi-chieh's story is not his later glory, but the resilience shown in persisting after being rejected. From a small boy to the King of the Poles, this transformation itself is an experiment in willpower.
 
-## Awakening on the Extreme Circuit
+## Awakening on the Polar Stage
 
-At the 1999 World Cup 24-Hour Marathon in France, Lin saw a promotional flyer for the Sahara Desert 7-day, 6-night ultramarathon and decided to self-fund his participation. "Running lets you see a different world, completely unlike car scenery," he said. "I wanted to accumulate my own stories."
+At the 1999 France World Cup 24-Hour Marathon, Lin saw a flyer for the Sahara Desert 7-day, 6-night extreme marathon and decided to raise his own funds to participate. "Running allows you to see a different world, completely different from the scenery seen from a car," he said. "I wanted to accumulate my own stories."
 
-In 2002, at the 17th Sahara Desert Marathon des Sables, Lin placed 12th—the best result by any Asian competitor in the race's history. That year, running gained a clear direction for him: conquering Earth's most extreme environments.
+At the 17th Sahara Desert 7-day, 6-night crossing in 2002, Lin finished 12th—the best performance by an Asian athlete in the history of the event. That year, running gained a clear direction for him: conquering the most extreme environments on Earth.
 
-His achievements soared like a rocket: champion in Mongolia's Gobi Desert at 46°C, winner in Chile's Atacama Desert with 50°C day-night temperature swings, challenger in Antarctica's average -30°C with 300 km/h winds... In 2006, he claimed the "Four Deserts Ultramarathon Grand Slam Championship."
+His subsequent achievements rose like a rocket: champion of the Gobi Desert in Mongolia with temperatures of 46°C; champion of the Atacama Desert in Chile with day-night temperature fluctuations of 50°C; and the Antarctica challenge with average temperatures of -30°C... In 2006, he achieved the "Grand Slam of the Four Polar Ultra Marathons."
 
-But what truly inscribed his name in human history was a challenge no one had ever attempted.
+But what truly etched his name into human history was a challenge no one had ever attempted.
 
-## The 111-Day Sahara Legend
+## The Sahara Legend of 111 Days
 
-November 2, 2006, Saint-Louis Port, Senegal. Lin joined Americans Charlie Engle and Canadian Ray Zahab to form a three-person team attempting humanity's first crossing of the Sahara Desert on foot.
+On November 2, 2006, in Saint-Louis, Senegal, West Africa, Lin Yi-chieh formed a three-person team with Americans Charlie Engle and Canadians Ray Zahab to attempt the first-ever human walking crossing of the Sahara Desert.
 
-The Sahara is Earth's largest hot desert, stretching from Senegal in the west to Egypt's Red Sea in the east—roughly 5,900 kilometers in direct distance, mostly uninhabited wilderness. They would run 7,500 kilometers, equivalent to two marathons daily for 111 consecutive days.
+The Sahara is the largest desert on Earth, stretching from Senegal in the west to the Red Sea in Egypt in the east, covering a straight-line distance of approximately 5,900 kilometers, much of which is uninhabited. They aimed to run 7,500 kilometers, equivalent to two marathons every day, for 111 days.
 
-The challenge's brutality exceeded imagination: 50°C days, 4°C nights; sandstorms that could cause complete disorientation; crossing politically unstable countries while avoiding potential minefields. Daily routine: wake at 4 AM, run from 5 AM to noon, avoid the deadliest midday sun, then run again from 5 PM to 9-10 PM.
+The severity of the challenge was beyond imagination: daytime temperatures reached 50°C, while nights could drop to 4°C; swirling sands could cause one to lose direction; and they had to traverse politically unstable nations while avoiding areas potentially laden with landmines. They woke up at 4:00 AM every day, running from 5:00 AM until noon to avoid the most toxic midday sun, then running again from 5:00 PM until 9:00 or 10:00 PM.
 
-> **💡 Did You Know**
-> They wore through 11 pairs of shoes during this journey, crossing Mauritania, Mali, Niger, and Libya.
-> The team had to drag supply carts carrying water and food—daily water resupply was literally a matter of life and death.
+> **💡 Did You Know?**
+> During this journey, they wore through 11 pairs of shoes and passed through five countries: Mauritania, Mali, Niger, and Libya. The team had to pull a trailer loaded with water and food; daily water replenishment was a matter of life and death.
 
-February 20, 2007—when the trio finally reached Egypt's Red Sea coastline, the world was stunned by this unprecedented achievement. But Lin only learned six months later of a chilling detail: the military escort that had protected them was entirely killed by bandits on their return journey.
+On February 20, 2007, when the three finally reached the Egyptian Red Sea coastline, the world was shocked by this unprecedented achievement. However, it was not until six months later that Lin heard chilling news: the military escort protecting them had all been shot dead by bandits on their return trip.
 
-This challenge became the documentary "Running the Sahara," produced and narrated by Matt Damon, introducing the world to this extreme runner from Taiwan.
+This challenge was filmed into the documentary _Running the Sahara_, produced and narrated by Matt Damon, which introduced this polar runner from Taiwan to the world.
 
-## Complex Truths Behind the Glory
+## The Complex Truth Behind the Glory
 
-However, behind this seemingly perfect inspirational story lay more complex truths. Charlie Engle, the seemingly healthy and sunny American teammate, was actually a former drug addict—he had endured a decade-long battle with crack cocaine and alcohol addiction, nearly dying in a six-day binge. For him, extreme running was part of his recovery.
+However, behind this seemingly perfect inspirational story lies a more complex truth. Charlie Engle, the seemingly healthy and vibrant American teammate, was actually a former addict—he had experienced a decade-long addiction to cocaine and alcohol and nearly died during a six-day binge. For him, polar running was part of his detoxification and recovery.
 
 > **⚠️ Controversial Perspective**
-> In 2011, Charlie Engle was sentenced to federal prison in West Virginia for subprime mortgage fraud.
-> A charitable hero promoting clean water access was simultaneously a financial criminal. Human complexity revealed in its full paradox.
+> In 2011, Charlie Engle was imprisoned in a federal prison in West Virginia due to a subprime mortgage fraud case. A charitable hero who helps promote clean water, yet also a financial criminal. The complexity of human nature is fully revealed here.
 
-Lin himself has not been without controversy. In 2022, he was prosecuted for allegedly running a "Truth IP Consulting" company that engaged in litigation maintenance, profiting from piracy settlement fees—earning him the media label of "copyright troll." This stemmed from his documentary's poor box office performance in Taiwan due to rampant piracy, making him particularly vigilant about intellectual property protection.
+Lin Yi-chieh himself has not been without controversy. In 2022, he was indicted for allegedly managing "Truth Intellectual Property Consulting" to solicit lawsuits and take commissions from copyright infringement settlements, leading the media to label him a "copyright cockroach." This stemmed from his documentary _Running the Sahara_ having poor box office performance in Taiwan due to rampant piracy, which made him exceptionally aggressive regarding the protection of intellectual property rights.
 
-> **✦** "Heroes aren't people without flaws—they're people who accomplish great things despite having flaws."
+> **✦** "A hero is not someone without flaws, but someone who still does great things despite those flaws."
 
-## Transformation After Retirement
+## The Path of Transformation After Retirement
 
-Lin never saw himself as merely an "athlete." "Athletes have limited careers, but the spirit and mission of a sportsman can last a lifetime," he said. After 2010, gradually stepping back from extreme ultramarathon frontlines, he focused on speaking, brand management, and even pursuing an MBA at National Taiwan University's College of Management.
+Lin Yi-chieh never considered himself merely an "athlete." "An athlete's career has a limited lifespan, but an athlete's spirit and sense of mission can last a lifetime," he said. Since 2010, he has gradually moved away from the front lines of polar ultramarathons, focusing instead on public speaking, brand management, and even pursuing a Master's degree at National Taiwan University's College of Management.
 
-He founded "Yi-jie Enterprise Co., Ltd." and the sports brand "SUPERACE," organizing various ultramarathon events. His goal wasn't just proving Taiwanese athletes could challenge the world, but demonstrating that people with sports backgrounds weren't limited to teaching or coaching—he wanted to "maximize sports value and productivity."
+He founded "Yi-chieh Enterprises Co., Ltd." and the sports brand "SUPERACE," organizing various ultramarathon events. His goal is not only to prove that Taiwanese athletes are capable of challenging the world but also to prove that those with a sports background can do more than just be teachers or coaches—he wants to "maximize the value and productivity of sports."
 
-From 2000 to 2003, he taught PE at George Vocational School and Francis Complete Middle School in Taipei, and was a contracted athlete for Nike Taiwan. But his true calling was promoting sporting philosophy, showing more people that Taiwanese could survive and compete in the world's most extreme environments.
+Between 2000 and 2003, he served as a PE teacher at Taipei Chiao Kung Industrial & Commercial High School and Francis Formosa School, and was also a sponsored athlete for Nike Taiwan. However, his true vocation is promoting the concept of sports, letting more people know that Taiwanese people can survive and compete in the most extreme environments.
 
-## A Taiwanese Story About Willpower
+## A Taiwanese Story of Willpower
 
-Lin's significance lies not just in how far or fast he ran, but in proving one thing: Taiwanese people can accomplish history-making feats in the world's harshest environments.
+The significance of Lin Yi-chieh lies not just in how far or how fast he ran, but in what he proved: that Taiwanese people can achieve things that rewrite human history in the world's harsที่สุด harsh environments.
 
-Through 111 days and 7,500 kilometers, he told the world that no matter how small your island, no matter how many times you've been rejected, with sufficient willpower, nothing is impossible. That skinny boy at Fude Elementary who was threatened to "not outrun the seniors" ultimately outran everyone's imagination.
+Through 111 days and 7,500 kilometers, he told the world that no matter how small your island is, and no matter how many times you have been rejected, as long as you have sufficient willpower, nothing is impossible. That small boy who was threatened at Fuguang Elementary School "not to outrun the seniors" ultimately outran everyone's imagination.
 
-| Age 50                              | Born 1976                              |
-| ----------------------------------- | -------------------------------------- |
-| First human to cross Sahara on foot | Taiwan's extreme ultramarathon pioneer |
+| 42 years old                                      | Born 1976                         |
+| :------------------------------------------------ | :-------------------------------- |
+| One of the first humans to walk across the Sahara | Taiwan's first polar ultra-runner |
 
-As for the controversies and complexities, perhaps they're the most authentic part of this story. Perfect heroes exist only in fairy tales; real life is always full of contradictions and struggles. Lin used his feet to bring glory to Taiwan, and his life reminds us that greatness and flaws often coexist in the same person.
+As for the controversies and complexities, perhaps that is the most authentic part of this story. Perfect heroes only exist in fairy tales; real life is always full of contradictions and struggles. Lin Yi-chieh used his feet to bring glory to Taiwan, and used his life to remind us: greatness and flaws often coexist within the same person.
 
 ## References
 
-- [Making History with his Feet—Global Four Deserts Ultramarathon Champion Kevin Lin - Taiwan Panorama](https://www.taiwan-panorama.com/Articles/Details?Guid=0209762e-705a-4fbf-9b32-a58b7e57ea99&CatId=7)
-- [Runner Under the Scorching Sun Kevin Lin - Gan Le Creative](https://www.thecan.com.tw/tw/log/detail/852)
+- [Rewriting Taiwan's History with Feet—Grand Slam Winner of the Four Polar Ultra Marathons, Lin Yi-chieh - Guanghua Magazine](https://www.taiwan-panorama.com/Articles/Details?Guid=0209762e-705a-4fbf-9b32-a58b7e57ea99&CatId=7)
+- [The Brave One Running Under the Scorching Sun, Lin Yi-chieh - Ganle Creative](https://www.thecan.com.tw/tw/log/detail/852)
 - [Running the Sahara - Trail Runners Connection](https://trailrunnersconnection.com/adventures/running-the-sahara-charlie-engle-ray-zahab-kevin-lin/)
 - [Running the Sahara (2007) - IMDb](https://www.imdb.com/title/tt0481222/)
-- [Kevin Lin Controversy Inside Story - Mirror Media](https://www.mirrormedia.mg/story/20220613soc001)
-- [Copyright Troll? Ultramarathon Champion Kevin Lin Prosecuted for Violating Attorney Law - United Daily News](https://udn.com/news/story/7321/6591947)
+- [Inside the Controversy of Lin Yi-chieh: Targeted for Filing Over 800 Lawsuits per Year - Mirror Media](https://www.mirrormedia.mg/story/20220613soc001)
+- [Copyright Cockroach? Accused of Soliciting Lawsuits to Earn Tens of Millions, "Ultra Marathon Expert" Lin Yi-chieh Indicted for Violating Lawyer Act - UDN](https://udn.com/news/story/7321/6591947)
 - [From Crack Addict To Running The Sahara To Prison Hero -- Charlie Engle's Third Act - Rich Roll](https://www.richroll.com/podcast/charlie-engle/)
-- [Kevin Lin - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E7%BE%A9%E5%82%91)
+  | [Lin Yi-chieh - Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%9E%97%E7%BE%A9%E5%82%91)

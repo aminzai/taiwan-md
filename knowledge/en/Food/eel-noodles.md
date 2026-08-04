@@ -1,6 +1,6 @@
 ---
-title: '27 Seconds of Precision: The Japanese Colonial Origin and Liao Family Legacy of Tainan Eel Noodles'
-description: 'The core technique of Tainan eel noodles hinges on a single number: 27 seconds. If the eel cooks longer than this, the texture becomes tough, a fishy odor emerges, and the whole pot is ruined. This dish originated at the Sakariba market during the Japanese colonial period, where brothers Liao Ping-nan and Liao Huo-tu learned the craft from a Fuzhou master, substituting wild eels from Tainan ponds for Japanese eels, creating a century‑old brand.'
+title: 'Precision in 27 Seconds: The Japanese Colonial Origins and Liao Family Legacy of Tainan Eel Noodles'
+description: "The core technique of Tainan eel noodles relies on a single number: 27 seconds. If the eel stays in the pan for longer, the meat becomes tough, the fishy odor emerges, and the entire batch is ruined. Born in the Sakariba market during the Japanese colonial period, the Liao brothers, Liao Bing-nan and Liao Huo-tu, learned their craft from a Fuzhou master, substituting imported Japanese eel with wild eel from Tainan's ponds to create a century-old legacy."
 date: 2026-07-02
 category: 'Food'
 tags:
@@ -9,9 +9,9 @@ tags:
     'Eel Noodles',
     'West Central District',
     'Sakariba',
-    'Japanese colonial',
-    'Liao family',
-    'Snack',
+    'Japanese Colonial Period',
+    'Liao Family',
+    'Street Food',
   ]
 subcategory: '經典小吃'
 author: 'Taiwan.md Contributors'
@@ -19,77 +19,78 @@ featured: false
 lastVerified: 2026-07-02
 lastHumanReview: false
 readingTime: 7
+curation: 'incubating'
 translatedFrom: 'Food/鱔魚意麵.md'
-sourceCommitSha: '3011828ba'
-sourceContentHash: 'sha256:6060b205f72b8e41'
+sourceCommitSha: '03b3aaae8'
+sourceContentHash: 'sha256:81213e22c8b81c39'
 sourceBodyHash: 'sha256:7eb60f7eb1751d17'
-translatedAt: '2026-07-06T00:39:48+08:00'
+translatedAt: '2026-08-04T15:04:47+08:00'
 ---
 
-At ten o’clock at night, the eel‑noodle stall on You’ai Street has had its fire blazing for several hours. The chef lifts a piece of eel and drops it into a scorching iron wok— from that moment the timing begins. Garlic is sautéed, eel goes in, scallions, onions, chilies, seasoning thickens the sauce, five‑stamp vinegar is added, and the wok is lifted, pouring the mixture over the noodles. From the moment the eel hits the pan to the moment the wok is lifted, the whole process must be completed within 27 seconds.
+At 10:00 PM, deep in the night, the flames at this eel noodle stall on Youai Street have been roaring for hours. The master picks up a segment of eel and drops it into the scalding iron wok—from that moment, the timer begins. Garlic is infused in oil, eel enters the pan, followed by scallions, onions, chilies, seasonings, starch thickening, and Wu-yin vinegar; then, it is tossed over the _yi-mian_ (thin egg noodles). From the moment it hits the pan to the moment it is plated, it must be completed within 27 seconds.
 
-One extra second, and the meat turns tough, a fishy smell appears, and the whole pot is wasted.
+One second too long, and the meat becomes tough, the fishy smell emerges, and the entire batch is ruined.
 
-## The Weight of a Number
+## The Weight of a Single Number
 
-Eel noodles exist elsewhere in Taiwan, but outside Tainan almost no one gets it right. It is not an issue of ingredients or sauce; it is that 27‑second window.
+Eel noodles can be found elsewhere in Taiwan, but almost no one outside of Tainan does them correctly. It is not a problem of ingredients or sauce; it is those 27 seconds.
 
-Eel protein structures are fragile; under high heat the muscle fibers solidify almost instantly, and passing the critical point yields a different texture. Twenty‑seven seconds is enough to cook the meat through while keeping the fibers elastic; after 27 seconds the flesh becomes old, fishy, and mushy. Master chefs do not watch a timer—they listen to the wok’s sizzle with their ears and feel the pan’s state with their wrists. This skill cannot be mastered in a few months.
+The protein structure of eel is fragile; under high heat, the muscle fibers coagulate almost instantaneously. Once you pass the critical threshold, the texture changes entirely. 27 seconds is enough to cook the meat through while keeping the fibers elastic; after 27 seconds, it begins to toughen, smell fishy, and turn mushy. A master does not look at a timer—he listens to the _wok hei_ (breath of the wok) with his ears and senses the state of the pan through his wrist. This level of skill is not something that can be learned in a few months.
 
-📝 Curator’s note: The figure “27 seconds” is common knowledge among Tainan’s eel‑noodle diners, but almost nobody outside Tainan knows it. It is not a gimmick; it is a precise description of the dish’s technical threshold—every second beyond that is disrespect to the ingredient.
+📝 Curator's Note: The number "27 seconds" is common knowledge among those who eat eel noodles in Tainan, but almost no one outside of Tainan knows it. It is not a gimmick; it is a precise description of the dish's technical threshold—every second beyond this limit is a lack of respect for the ingredients.
 
-## Tainan Lacks Eel
+## Tainan Had No Eel
 
-To understand the birth of this dish, one must first grasp Tainan’s food map during the Japanese colonial period.
+To understand the birth of this dish, one must first understand the culinary map of Tainan during the Japanese colonial period.
 
-The Japanese loved eel, but Tainan had no local eel supply and had to import it, making it expensive and scarce. Around Tainan’s ponds, ditches, and fields thrived abundant wild eels—long and slender, resembling Japanese eel, yet Taiwanese people rarely knew how to cook them. Brothers Liao Ping-nan and Liao Huo-tu saw an opportunity in this gap.
+The Japanese loved eating eel (_unagi_), but Tainan had no local supply; they had to rely on imports, which were expensive and scarce. However, around the ponds, ditches, and farmlands of Tainan, large quantities of wild eel grew—long and slender, similar in appearance to Japanese eel, though locals at the time did not quite know how to prepare them. The brothers Liao Bing-nan and Liao Huo-tu found an opportunity in this gap.
 
-They apprenticed with a Fuzhou master to learn the “knife” (to‑tsì) cooking method—“knife skill” is a Minnan term for culinary technique, emphasizing the unity of knife work and heat control. After devising a stir‑fry that mimics eel using the wild eels, the salty‑sour‑sweet Tainan flavor won over Japanese officials, and the Liao family earned a reputation at the Sakariba market. Liao Ping-nan was called “Eel‑south” (鱔魚南), becoming the dish’s eponym.
+They learned the way of _to-tsì_ (knife skills/cooking) from a Fuzhou master—in _Tâi-gí_ (Taiwanese), "to-tsì kung-fu" refers to culinary skill, emphasizing the unity of knife work and heat control. After researching a stir-fry method that used wild eel as a substitute for Japanese eel, the salty, sour, and sweet flavors of Tainan even won over Japanese officials, establishing the Liao family's fame in Sakariba. Liao Bing-nan became known as "Eel Nan," becoming synonymous with the dish.
 
-📝 Curator’s note: Substituting wild eels from Tainan ponds for imported eel is not merely an ingredient swap; it is a logic of finding a local solution under resource constraints. This logic is a shared gene in the birth of Tainan’s street foods.
+📝 Curator's Note: Substituting imported eel with wild eel from Tainan's ponds was more than just a replacement of ingredients; it was a logic of finding local solutions under resource constraints. This logic is the shared DNA behind the birth of Taniyuan street food.
 
-## Three Generations, One Lineage
+## Three Generations of Legacy, One Lineage
 
-The Liao family’s technique has been passed down unchanged: Liao Ping-nan’s son “Eel‑Lu” took over, then the third generation Liao Kuo-hsiung, known as “Eel‑Liao.” Today, the Liao‑Ji Old‑Brand eel noodles at Sakariba represent the authentic line.
+The Liao family technique has been passed down through the generations: Liao Bing-nan's son, "Eel Lu," took over, followed by the third generation, Liao Guo-xiong, known as "Eel Liao." Today, the Liao Ji Old Brand Eel Noodles in Sakariba is the orthodox continuation of this bloodline.
 
-Many offshoots exist. A‑yuan’s stir‑fried eel on Chenggong Road is run by the son of Eel‑south; A‑jiang on Minzu Road split off from A‑yuan; in recent years, Er‑ge’s stir‑fried eel opened a new shop. The map of eel‑noodle stalls across Tainan city is essentially a spatial expansion of the Liao family genealogy.
+Many branches have also emerged. A-Yuan Stir-fried Eel on Chenggong Road is run by the son of "Eel Nan"; A-Jiang on Minzu Road branched out independently from A-Yuan; and more recently, Er-ge Stir-fried Eel has started its own business. The map of eel noodle stalls in downtown Tainan is essentially a spatial expansion of the Liao family genealogy.
 
-📝 Curator’s note: Liao‑Ji Old‑Brand eel noodles were selected for the 2024 Michelin Green Guide recommendation. A worker’s dish born in an early‑20th‑century market has, a century later, attracted the attention of gourmet reviewers—time can be the fairest filter.
+📝 Curator's Note: Liao Ji Old Brand Eel Noodles was selected for the Michelin Green Guide in 2024. A dish born in a market at the beginning of the 20th century as a meal for workers has been recognized by culinary critics a century later—time is sometimes the fairest filter.
 
-## Sakariba: The Market’s Japanese Name
+## Sakariba: The Japanese Name for the Market
 
-“Sakariba” is the Taiwanese phonetic rendering of the Japanese word “盛り場” (sakariba), meaning a bustling market.
+"Sakariba" is a _Tâi-gí_ transliteration of the Japanese word _sakariba_ (盛り場), meaning a bustling marketplace.
 
-During the Japanese colonial era, the Tainan city government’s urban planning consolidated scattered vendors into the You’ai Street market area for unified management. This market became an experimental ground for Tainan’s street foods: vendors of diverse backgrounds crowded into one space, each bringing different cooking logic and ingredients, observing and stimulating one another, forging the genetic code of today’s Tainan snacks.
+During the Japanese colonial period, under Tainan's urban redevelopment plans, the municipal government centralized scattered vendors around the Youai Street market area for unified management. This market became an experimental ground for Tainan street food: vendors from different backgrounds crowded into the same market, each bringing different culinary logics and ingredients, observing one another and stimulating each other, forging the DNA of modern Tainan street food.
 
-Eel noodles were born, matured, and gained recognition in this environment.
+Eel noodles were born, matured, and gained recognition within this environment.
 
-## Eel Noodles: A Tainan‑Specific Noodle Type
+## _Yi-mian_: A Type of Noodle Unique to Tainan
 
-The “noodles” that accompany the stir‑fried eel are themselves a Tainan specialty.
+The _yi-mian_ (thin egg noodles) served with the stir-fried eel is itself a unique feature of Tainan.
 
-Made from egg and flour, their distinctiveness lies in the process: they are partially fried while still undercooked, then set aside to rest. Before serving, they are tossed in the stir‑fried eel sauce, absorbing the broth—the absorption gives the noodles a texture completely different from ordinary noodles: chewy, full, with deep sauce flavor.
+Made from eggs and flour, its specialty lies in the process: it is deep-fried while semi-cooked to set its shape, then left to rest. Before serving, it is placed into the hot eel sauce, absorbing the liquid—this absorption makes the texture of _yi-mian_ completely different from standard noodles: chewy, plump, and infused with the depth of the sauce.
 
-There are two preparation styles. Dry‑stir fry yields a thick, dark sauce that concentrates the eel aroma; soup‑stir fry produces a clear, sweet broth, making the noodles softer and smoother, suited for those who prefer a milder taste. Each has its devotees.
+There are two choices: stir-fried (_sheng-chao_) or soup-based (_tang-chao_). The stir-fry version has a thick, dark sauce where the aroma of the eel is more concentrated; the soup version features a sweet, clear broth that makes the noodles softer and smoother, suitable for those who prefer less intense flavors. Both have their devotees.
 
-## Five‑Stamp Vinegar: The Final Step
+## Wu-yin Vinegar: The Final Step
 
-Just before lifting the wok, the chef adds Five‑Stamp vinegar.
+Before removing the pan from the heat, the master adds Wu-yin vinegar.
 
-Five‑Stamp vinegar is a local Tainan black‑vinegar brand; its acidity is richer than ordinary white vinegar, with a faint caramel undertone. Adding the vinegar rebalances the salty‑sour‑sweet ratio, finishes the dish with a refreshing cut to the oiliness—allowing you, after a bowl of stir‑fried eel, to still have appetite for the next stall.
+Wu-yin vinegar is a local Tainan brand of black vinegar; its acidity is more mellow than general white vinegar, carrying a slight caramel undertone. Adding the vinegar rebalances the salty, sour, and sweet proportions, providing a refreshing finish that cuts through the oil—ensuring that after a bowl of stir-fried eel, you still have the appetite to continue to the next stall.
 
-📝 Curator’s note: The design logic of Tainan street foods is never merely to fill you up, but to keep you moving to the next bite. Five‑Stamp vinegar is a taste‑reset tool, not just a seasoning. This detail illustrates the culinary engineering of Tainan’s “food‑stall pilgrimage” culture.
+📝 Curator's Note: The design logic of Tainan street food is never to make you full, but to ensure you can keep eating. Wu-yin vinegar is a tool for taste resetting, not just a seasoning. This detail illustrates the culinary engineering behind Tainan's "street food pilgrimage" culture.
 
 ---
 
 ## References
 
-- [Eel Noodles — Wikipedia (Chinese)](https://zh.wikipedia.org/zh-tw/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5)
-- [Sakariba — Wikipedia (Chinese)](https://zh.wikipedia.org/zh-tw/%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4)
-- [How Stir‑Fried Eel Earns Genuine Sincerity? — Independent Review @ Tianxia](https://opinion.cw.com.tw/blog/profile/194/article/8595)
-- [Tainan Snacks, Old‑Brand Eel Noodles | Sakariba Eel Liao, Three‑Generation Legacy — BoboTravel](https://bobotravel.tw/blog/post/153578723-%E9%A3%9F%E8%A8%98%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%B1%94%E9%AD%9A%E5%BB%96)
-- [The Living History of Tainan Stir‑Fried Eel! A Century‑Old Take‑Away Still Tastes Great — TVBS Food Player](https://supertaste.tvbs.com.tw/food/330365)
-- [Tainan’s A‑yuan Stir‑Fried Eel: History and Unique Eel Soup — Lord Cat](https://lordcat.net/archives/1846)
-- [The Nearly Hundred‑Year‑Old Tainan Eel Noodle Origin Store — ETtoday Travel Cloud](https://travel.ettoday.net/article/416437.htm)
-- [[中西區] Special Dry‑Stir‑Fried Eel — Nan‑People Help](https://lifeintainan.com/062249686/)
-- [From Snack to Adult! Six Tainan Eel Noodle Old‑Shops — TVBS Food Player](https://supertaste.tvbs.com.tw/pack/336229)
+- [Eel Noodles — Wikipedia](https://zh.wikipedia.org/zh-tw/%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5)
+- [Sakariba — Wikipedia](https://zh.wikipedia.org/zh-tw/%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4)
+- [How can stir-fried eel be called sincere? — Independent Review @ Taipei Times](https://opinion.cw.com.tw/blog/profile/194/article/8595)
+- [Tainan Street Food, Old Brand Eel Noodles | Sakariba Eel Liao, a three-generation founding shop — BoboTravel](https://bobotravel.tw/blog/post/153578723-%E9%A3%9F%E8%A8%98%E5%8F%B0%E5%8D%97%E3%80%82%E8%80%81%E7%89%8C%E9%B1%94%E9%AD%9A%E6%84%8F%E9%BA%B5%E2%97%8F%E6%B2%99%E5%8D%A1%E9%87%8C%E5%B7%B4%E9%B1%94%E9%AD%9A%E5%BB%96)
+- [A living history of Tainan stir-fried eel! Century-old brand is delicious for takeout too — TVBS Food Traveler](https://supertaste.tvbs.com.tw/food/330365)
+- [Tainan Stir-fried Eel's Living History! Century-old brand is great for takeout — TVBS Food Traveler](https://lordcat.net/archives/1846)
+- [The Tainan eel noodle shop with a nearly century-old fragrance — ETtoday Travel Cloud](https://travel.ettoday.net/article/416437.htm)
+- [【West Central District】Specialty Dry Stir-fried Eel | Nandu Old Brand Eel Noodles — Nanrenbang](https://lifeintainan.com/062249686/)
+- [Locals have eaten this since childhood! 6 old eel noodle shops in Tainan — TVBS Food Traveler](https://supertaste.tvbs.com.tw/pack/336229)

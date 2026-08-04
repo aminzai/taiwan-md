@@ -1,107 +1,110 @@
 ---
-title: 'Bird-Window Collisions in Taiwan: The Invisible Urban Killer'
-description: 'An in-depth examination of bird-window collision incidents in Taiwan, exploring scientific principles, seasonal patterns, prevention methods, and policy developments in bird-friendly architecture.'
+title: 'The Issue of Bird-Window Collisions in Taiwan: An Invisible Urban Killer'
+description: 'A deep dive into the current status, scientific principles, seasonal impacts, and prevention cases of bird fatalities due to building glass collisions in Taiwan, alongside an analysis of regulatory progress for bird-friendly architecture.'
 date: 2026-03-23
+category: 'Nature'
 tags:
   [
-    'bird strikes',
-    'avian conservation',
-    'eco-friendly architecture',
-    'citizen science',
-    'green building',
+    'Bird-Window Collision',
+    'Bird Conservation',
+    'Eco-friendly Architecture',
+    'Citizen Science',
+    'Taiwan Raptor Research Association',
+    'Green Building',
   ]
-category: Nature
-author: Taiwan.md Contributor
+subcategory: '野生動物'
+author: 'Taiwan.md Contributor'
 featured: false
-lastHumanReview: false
 lastVerified: 2026-03-23
+lastHumanReview: false
 readingTime: 15
+curation: 'incubating'
 translatedFrom: 'Nature/台灣鳥類窗殺議題.md'
-sourceCommitSha: '4b6d28c5'
+sourceCommitSha: '69b3afd91'
 sourceContentHash: 'sha256:7b5c9a385e90141f'
 sourceBodyHash: 'sha256:e55bf8d3c335463a'
-translatedAt: '2026-04-14T12:25:09+08:00'
+translatedAt: '2026-08-04T13:18:18+08:00'
 ---
 
-> **30-second overview**
+> **30-Second Overview**
 >
-> **Bird-window collisions** occur when birds fail to detect transparent or reflective glass surfaces, resulting in high-speed impacts that often prove fatal. In Taiwan, this phenomenon represents one of the leading causes of non-natural bird mortality, affecting species ranging from common urban birds to rare raptors.
+> **Bird-Window Collision** refers to the phenomenon where birds suffer injuries or death due to high-speed impacts caused by an inability to recognize transparent or reflective glass. In Taiwan, window collisions are a major cause of unnatural bird mortality, affecting species ranging from common urban birds to rare raptors.
+>
+> - **Scale of Impact**: It is estimated that a large number of wild birds in Taiwan die from window collisions annually. The top five most affected species are: **Taiwan Barbet (17.67%)**, **Oriental Turtle Dove (9.59%)**, **Tree Sparrow (5.34%)**, **Spotted Dove (5.29%)**, and the **Crested Serpent Eagle**.
+> - **Core Causes**: The **transparency** of glass (mistaken for a traversable space) and its **reflectivity** (mistaken for sky or forest), as well as **light pollution** at night which misleads migratory birds.
+> - **Key Prevention**: Implementing the "**5x10 Rule**" (spacing within 5cm horizontally and 10cm vertically) using anti-collision stickers, grilles, or etched glass.
+> - **Policy Progress**: The Building Research Institute of the Ministry of the Interior expects to officially incorporate "bird-friendly anti-collision design" into Green Building evaluation indicators by **2026**.
 
-- **Impact Scale**: Estimated thousands of wild birds die annually from window strikes in Taiwan. Top five victim species: **Muller's Barbet (17.67%)**, **Asian Emerald Dove (9.59%)**, **Eurasian Tree Sparrow (5.34%)**, **Spotted Dove (5.29%)**, **Crested Goshawk**.
-- **Core Causes**: Glass **transparency** (birds attempt to fly through) and **reflectivity** (mistaking reflections for sky or vegetation), plus nighttime **light pollution** disorienting migrating birds.
-- **Prevention Key**: Apply the "**2x4 Rule**" (North American standard) or "**5x10 Rule**" (Taiwan adaptation) for collision deterrent spacing—horizontal gaps under 5cm, vertical under 10cm.
-- **Policy Progress**: Taiwan's Architecture and Building Research Institute plans to incorporate "bird-friendly collision prevention design" into green building standards by **2026**.
+## Why It Matters
 
-## Why This Matters
+As Taiwan's urbanization increases, large-scale glass curtain walls and mirrored stainless steel materials have become architectural staples, yet they also serve as lethal traps for birds. Window collisions threaten not only common birds but also second-class protected species, such as the **Crested Serpent Eagle**, which are frequently victims. This issue reflects the conflict between **urban development and ecological conservation**. Promoting "bird-friendly architecture" is not only about protecting biodiversity but is also a vital indicator of Taiwan's progress toward sustainable cities and the implementation of **SDG 15 (Life on Land)**.
 
-As Taiwan's urbanization accelerates, large glass facades and reflective steel surfaces have become architectural mainstays—and deadly traps for birds. Window strikes threaten not only common species but also protected raptors like the **Crested Goshawk**. This issue exemplifies the conflict between **urban development and ecological conservation**. Promoting "bird-friendly architecture" serves not only biodiversity protection but Taiwan's transition toward sustainable cities and implementation of **SDG 15 (Life on Land)**.
+## Scientific Principles and Misconceptions of Window Collisions
 
-## Scientific Principles Behind Bird Strikes
+The visual anatomy of birds differs from humans; their eyes are positioned on the sides of their heads to provide a wide field of view, but they lack depth perception regarding transparent planes.
 
-Bird vision differs fundamentally from human perception. Their laterally-positioned eyes provide wide-angle vision but limited depth perception for transparent surfaces.
+1.  **Transparency**: When both sides of a building feature transparent glass (such as corridors, corners, or transparent sound barriers), birds mistakenly believe they can fly through the building to reach the other side.
+2.  **Reflection**: Glass reflects surrounding greenery, trees, or the sky, leading birds to mistake these reflections for habitats and fly into them at high speeds.
+3.  **Nighttime Light Pollution**: Many migratory birds travel at night, relying on starlight for navigation. Intense urban lighting can disorient migratory birds, causing them to collide with illuminated buildings.
+4.  **Common Misconception**: Placing a single "eagle sticker" in the center of a window is usually ineffective. Birds will perceive the stationary sticker as an obstacle and attempt to fly around it, only to strike the adjacent transparent areas.
 
-1.  **Transparency**: When buildings feature glass on both sides (corridors, corners, transparent sound barriers), birds perceive a clear flight path to the other side.
-2.  **Reflection**: Glass mirrors surrounding greenery, trees, or sky, creating the illusion of continued habitat.
-3.  **Light Pollution**: Many migratory species navigate by starlight during nighttime migration. Intense urban lighting disorients birds, causing collisions with illuminated buildings.
-4.  **Common Misconception**: Placing a single "hawk silhouette" sticker in the window center typically fails. Birds treat static decals as obstacles to avoid, then strike adjacent transparent areas.
+## Analysis of the Current Situation in Taiwan
 
-## Taiwan's Window Strike Patterns
-
-Taiwan's collision research relies heavily on **citizen science** reporting, revealing distinct seasonal and species patterns.
+Research on window collisions in Taiwan relies heavily on **citizen science** reports, revealing significant seasonal and species-specific characteristics.
 
 ### Seasonal Peaks
 
-- **Spring and Autumn**: Migration seasons bring unfamiliar birds into urban areas with limited local knowledge.
-- **Summer (June-August)**: Fledgling dispersal period when inexperienced juvenile birds face highest collision risk due to poor environmental awareness.
+- **Spring and Autumn**: During migratory seasons, birds unfamiliar with the local terrain are highly vulnerable.
+- **Summer (June–August)**: This is the period when fledglings leave the nest to practice flying; due to insufficient flight experience and low environmental awareness, they represent a high-risk group for collisions.
 
-### Victim Species Characteristics
+### Characteristics of Affected Species
 
-- **Muller's Barbet**: Strong territorial behavior and low-altitude forest movement patterns, plus aggressive responses to their own reflections, make them Taiwan's most frequent collision victims.
-- **Raptors**: Species like Crested Goshawk often strike glass while pursuing prey (sparrows, doves) at high speed.
+- **Taiwan Barbet**: Due to their strong territoriality, they often fly at low altitudes through forests and frequently attack their own reflections in the glass, making them the most frequently affected species in Taiwan.
+- **Raptors**: Species such as the Crested Serpent Eagle often collide with glass while pursuing prey (such as sparrows or doves) at high speeds.
 
-### Hotspot Case Study: National Taiwan University
+### Hotspot Case: NTU Campus
 
-NTU's window strike research group documented over 300 incidents across campus in the past 5 years. Ironically, some buildings with green certification or architectural awards became collision hotspots due to extensive glass facades.
+Records from a research group at National Taiwan University (NTU) show over 300 cases on campus within the last five years. Ironically, some campus buildings that have received Green Building certifications or architectural awards have become collision hotspots due to their large-scale glass designs.
 
-## Prevention Strategies and Friendly Design
+## Prevention Measures and Friendly Design
 
-Effective prevention centers on "disrupting continuous reflective surfaces" to make glass visible to birds.
+The core of effective prevention lies in "breaking up the continuous reflective surface of the glass" so that birds can perceive an obstacle.
 
 ### The 5x10 Rule
 
-Research indicates deterrent patterns must be smaller than typical bird wingspans. Taiwan recommends horizontal spacing under 5 centimeters, vertical under 10 centimeters.
+Research indicates that the spacing of anti-collision patterns must be smaller than a bird's wingspan. It is recommended that horizontal spacing does not exceed 5 cm and vertical spacing does not exceed 10 cm.
 
-### Retrofit Solutions
+### Ready-made Improvement Solutions
 
-- **Collision Deterrent Films**: Must be applied to the **exterior** surface (interior application still creates reflections).
-- **External Installations**: Screens, shutters, insect netting, or cord systems (such as Acopian BirdSavers).
+- **Anti-collision Window Stickers**: These are only effective if applied to the **outside** of the glass (applying them to the inside still creates a reflection).
+- **External Add-ons**: Installing grilles, blinds, insect screens, or cords (such as Acopian BirdSavers).
 
-### Design-Phase Integration
+### Architectural Design Phase
 
-Utilize etched glass, sandblasted surfaces, or specialized UV-reflective coatings (visible to birds but transparent to humans).
+Using frosted glass, etched glass, or specialized glass with UV-reflective coatings (birds can see UV light, whereas humans cannot).
 
-## Taiwan's Policy and Regulatory Development
+## Taiwan's Regulations and Policy Progress
 
-Taiwan progressively incorporates collision prevention into institutional frameworks:
+Taiwan is gradually institutionalizing the management of window collision prevention:
 
-1.  **Green Building Standard Updates**: The Architecture and Building Research Institute has drafted "bird-friendly collision prevention design" criteria for green building certification, scheduled for **2026** implementation.
-2.  **Local Government Initiatives**:
-    - **New Taipei City**: Constructed Taiwan's first bird-strike-prevention green building (Ruifang Animal Shelter) in 2025.
-    - **Tainan City**: Municipal council installed comprehensive bird-friendly deterrent films and established collision reporting networks.
-    - **Taipei City**: Animal Protection Office published bird strike educational materials for environmental education programs.
+1.  **Green Building Indicator Updates**: The Building Research Institute of the Ministry of the Interior has drafted plans to include "bird-friendly anti-collision design" in Green Building evaluation indicators, with implementation expected in **2026**.
+2.  **Local Government Actions**:
+    - **New Taipei City**: In 2025, it aims to create the nation's first bird-collision-preventing Green Building (Ruifang Animal Shelter).
+    - **Tainan City**: The City Council is comprehensively replacing windows with bird-friendly anti-collision stickers and establishing a collision reporting network.
+    - **Taipei City**: The Department of Animal Preservation has launched bird-window collision picture books for environmental education.
 
-## Citizen Engagement and Reporting Platforms
+## Citizen Participation and Reporting Platforms
 
-1.  **Taiwan Roadkill Observation Network**: Taiwan's largest reporting platform, helping establish collision hotspot mapping.
-2.  **Taiwan Raptor Research Group**: Maintains a "Window Strike Museum" providing professional prevention consultation and educational resources.
-3.  **Facebook Group "Bird Window Strike Reports"**: Community-driven real-time reporting and discussion platform.
+1.  **Roadkill Observation Network**: The largest reporting platform in Taiwan, assisting in the creation of window collision hotspot maps.
+2.  **Taiwan Raptor Research Association**: Features a "Window Collision Museum," providing professional prevention consulting and educational resources.
+3.  **Facebook Group "Bird Window Collision Reporting"**: A community-driven space for real-time reporting and discussion.
 
 ---
 
-### References / Sources
+### Sources
 
-- [Taiwan Raptor Research Group - Window Strike Topics](https://raptor.org.tw/rescue/bird-window-collision)
-- [Taiwan Roadkill Observation Network - Strike Surveys](https://roadkill.tw/campaign/7598)
-- [WuoWuo Magazine - Window Strike Feature: Why Can't People See?](https://wuo-wuo.com/topics/widlife/windowkill)
+- [Taiwan Raptor Research Association - Window Collision Special Feature](https://raptor.org.tw/rescue/bird-window-collision)
+- [Taiwan Animal Roadkill Observation Network - Window Collision Survey](https://roadkill.tw/campaign/7598)
+- [WuoWuo - Window Collision Special Report: Why Can't People See It?](https://wuo-wuo.com/topics/widlife/windowkill)
 - [2024 Taiwan National Bird Report (PDF)](https://www.bird.org.tw/sites/default/files/field/file/report/2024%E8%87%BA%E7%81%A3%E5%9C%8B%E5%AE%B6%E9%B3%A5%E9%A1%9E%E5%A0%B1%E5%91%8A%E6%9B%B8%28%E4%B8%AD%E6%96%87%E7%89%88%29_1.pdf)
-- [Bird Strike Prevention Principles and Global Status (PDF)](https://www.ycsh.tp.edu.tw/uploads/1711704323955iLUrYE6d.pdf)
+- [Principles of Bird-Window Collision Prevention and Domestic/International Status (PDF)](https://www.ycsh.tp.edu.tw/uploads/1711704323955iLUrYE6d.pdf)
