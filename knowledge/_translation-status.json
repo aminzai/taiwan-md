@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "lastUpdated": "2026-08-04T11:06:34+08:00",
-    "zhCommitHead": "63b035d05",
+    "lastUpdated": "2026-08-04T11:12:31+08:00",
+    "zhCommitHead": "f94528340",
     "totalZh": 880,
     "activeLanguages": [
       "en",
@@ -67,10 +67,10 @@
       },
       "id": {
         "total_zh": 880,
-        "fresh": 508,
+        "fresh": 509,
         "stale": 3,
         "metadata_stale": 1,
-        "missing": 368,
+        "missing": 367,
         "orphan": 0
       },
       "pt": {
@@ -83,10 +83,10 @@
       },
       "hi": {
         "total_zh": 880,
-        "fresh": 620,
+        "fresh": 621,
         "stale": 1,
         "metadata_stale": 1,
-        "missing": 258,
+        "missing": 257,
         "orphan": 0
       },
       "ar": {
@@ -32138,10 +32138,10 @@
     },
     "Lifestyle/台灣海關報關制度與EZWAY.md": {
       "zh": {
-        "lastCommit": "5a2945f1",
-        "lastModified": "2026-08-04T10:50:24+08:00",
-        "contentHash": "sha256:fd8cbcb581e0a480",
-        "bodyHash": "sha256:93540fc0b2360167"
+        "lastCommit": "f9452834",
+        "lastModified": "2026-08-04T11:09:19+08:00",
+        "contentHash": "sha256:c460d1e9f07e8834",
+        "bodyHash": "sha256:d0e12b30eb16365d"
       },
       "translations": {
         "en": {
@@ -55128,8 +55128,8 @@
           "sourceContentHash": "sha256:9f186591ee3109a8",
           "sourceBodyHash": "sha256:a759a5339dd81f4b",
           "translatedAt": "2026-08-04T06:18:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7481f802",
+          "translationLastModified": "2026-08-04T11:06:34+08:00",
           "inferred": false,
           "footnoteDefs": 25,
           "status": "fresh",
@@ -81139,7 +81139,18 @@
           "status": "missing"
         },
         "id": {
-          "status": "missing"
+          "path": "id/People/cheng-chao-tsun-javelin-asian-king.md",
+          "translatedFrom": "People/鄭兆村.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:ce2f1e81de54c692",
+          "sourceBodyHash": "sha256:efa67fc4a2da3f45",
+          "translatedAt": "2026-08-04T06:18:07+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 6,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "pt": {
           "path": "pt/People/cheng-chao-tsun-javelin-asian-king.md",
@@ -82542,8 +82553,8 @@
           "sourceContentHash": "sha256:12627c86b39f3cf2",
           "sourceBodyHash": "sha256:cac852a1ab84bcac",
           "translatedAt": "2026-08-04T06:18:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7481f802",
+          "translationLastModified": "2026-08-04T11:06:34+08:00",
           "inferred": false,
           "footnoteDefs": 7,
           "status": "fresh",
@@ -88237,7 +88248,18 @@
           "reason": "same-commit"
         },
         "hi": {
-          "status": "missing"
+          "path": "hi/People/lung-ying-tai.md",
+          "translatedFrom": "People/龍應台.md",
+          "sourceCommitSha": "0f8fae0ae",
+          "sourceContentHash": "sha256:32e758a1acf33e90",
+          "sourceBodyHash": "sha256:fb31dbbb24515e69",
+          "translatedAt": "2026-08-04T06:18:10+08:00",
+          "translationLastCommit": "",
+          "translationLastModified": "",
+          "inferred": false,
+          "footnoteDefs": 7,
+          "status": "fresh",
+          "reason": "same-commit"
         },
         "ar": {
           "path": "ar/People/lung-ying-tai.md",
@@ -100081,8 +100103,8 @@
           "sourceContentHash": "sha256:7821275263a50042",
           "sourceBodyHash": "sha256:41f53dec5abc68f4",
           "translatedAt": "2026-08-04T06:18:11+08:00",
-          "translationLastCommit": "",
-          "translationLastModified": "",
+          "translationLastCommit": "7481f802",
+          "translationLastModified": "2026-08-04T11:06:34+08:00",
           "inferred": false,
           "footnoteDefs": 47,
           "status": "fresh",
